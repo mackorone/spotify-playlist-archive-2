@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTRL8S1krA3b.md) - [plain]
 
 > This year's new country holiday songs! Cover: Ingrid Andress
 
-[Spotify](https://open.spotify.com/user/spotify) - 12,476 likes - 52 songs - 2 hr 45 min
+[Spotify](https://open.spotify.com/user/spotify) - 12,515 likes - 52 songs - 2 hr 45 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -61,4 +61,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTRL8S1krA3b.md) - [plain]
 | 51 | [White Christmas](https://open.spotify.com/track/0FLyIRYB5bLP3g4Twj2OeE) | [Chayce Beckham](https://open.spotify.com/artist/5ujvZU2thXjZgFKPUt1rDt) | [White Christmas](https://open.spotify.com/album/3lZstgDdP8HK7UhW8nbmMv) | 2:50 |
 | 52 | [Candy Cane Cowboy](https://open.spotify.com/track/4YsPbko6vO4c82HgXYqz7r) | [Savannah Jade](https://open.spotify.com/artist/26QKf6FL7JcSuAkoos1WW5) | [Candy Cane Cowboy](https://open.spotify.com/album/3D1PGwJlZ3MlwVLZ5yboGK) | 3:12 |
 
-Snapshot ID: `AAAAALb8nUnY5GvuTd8Vg325aVgl+7ia`
+Snapshot ID: `AAAAANh8lrwC26lFE7e2SLXvW12JK8SC`

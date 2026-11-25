@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3AqNtukWhcT.md) - [plain]
 
 > Soft and soothing beats for all your yoga practices.
 
-[Spotify](https://open.spotify.com/user/spotify) - 233,956 likes - 57 songs - 2 hr 12 min
+[Spotify](https://open.spotify.com/user/spotify) - 233,981 likes - 57 songs - 2 hr 12 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -66,4 +66,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3AqNtukWhcT.md) - [plain]
 | 56 | [find a little space so we can move inbetween](https://open.spotify.com/track/4e3AgONaU7v724z1csreRZ) | [Kaptain Kola](https://open.spotify.com/artist/2WVOlt6L2d41Pu8xhEbFgn) | [find a little space so we can move inbetween](https://open.spotify.com/album/1PSIrp1xlsloZNOSs40lwK) | 2:56 |
 | 57 | [street rain](https://open.spotify.com/track/47RU7lNBcOnk900RR9170z) | [haywrd](https://open.spotify.com/artist/4jiNvORz8mylbBeFZqVGVT) | [street rain](https://open.spotify.com/album/0sXcIsldD8soezHecjCRlW) | 2:41 |
 
-Snapshot ID: `AAAAACLmlg+h97t6Evt+gbTXWu0nUvak`
+Snapshot ID: `AAAAABcJ1qpxNybzxEuNxBMVKDUrMEA0`

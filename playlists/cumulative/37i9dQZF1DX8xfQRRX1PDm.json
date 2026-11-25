@@ -4155,6 +4155,36 @@
     },
     {
       "album": {
+        "name": "Ji Ji Re Ji (From \"Eetha\")",
+        "url": "https://open.spotify.com/album/26K66KElhBh3YN3Sq5j0Bl"
+      },
+      "artists": [
+        {
+          "name": "Ajay-Atul",
+          "url": "https://open.spotify.com/artist/5fvTHKKzW44A9867nPDocM"
+        },
+        {
+          "name": "Ajay Gogavale",
+          "url": "https://open.spotify.com/artist/0vkpFzbSTmwPuGGnhsblFI"
+        },
+        {
+          "name": "Shreya Ghoshal",
+          "url": "https://open.spotify.com/artist/0oOet2f43PA68X5RxKobEy"
+        },
+        {
+          "name": "Amitabh Bhattacharya",
+          "url": "https://open.spotify.com/artist/2fMqTqiTxUDlmcOEPaQSsx"
+        }
+      ],
+      "date_added": "2026-11-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 345292,
+      "name": "Ji Ji Re Ji - From \"Eetha\"",
+      "url": "https://open.spotify.com/track/2P4hi7yx7y2UHB1WE7EebG"
+    },
+    {
+      "album": {
         "name": "Baar Baar Dekho (Original Motion Picture Soundtrack)",
         "url": "https://open.spotify.com/album/110yeLSV0XY4Wtu7DnenNq"
       },
@@ -6450,7 +6480,7 @@
       ],
       "date_added": "2026-07-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-25",
       "duration_ms": 155123,
       "name": "QEHER (From \"Dhamaal 4\")",
       "url": "https://open.spotify.com/track/7myz4NUL4qKaUI01IlkDie"

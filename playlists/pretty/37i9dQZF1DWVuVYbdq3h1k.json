@@ -1,12 +1,12 @@
 {
   "description": "S\u00ed, \u00a1ya estamos viejos! Julieta Venegas en portada.",
-  "num_followers": 1571871,
+  "num_followers": 1571882,
   "original_name": "Los 2000 M\u00e9xico",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAJrthszk0JMS5w0DuEcPZB64TFcv",
+  "snapshot_id": "AAAAALK32ISDFtq9XvHregX5nOh//409",
   "tracks": [
     {
       "added_at": "2026-05-26 20:08:59",
@@ -499,18 +499,22 @@
     {
       "added_at": "2026-05-26 20:08:59",
       "album": {
-        "name": "La Vida Gacha",
-        "url": "https://open.spotify.com/album/46qlKidNmBw0FSJzFpb8LM"
+        "name": "Un D\u00eda Normal",
+        "url": "https://open.spotify.com/album/2UJCnSqpR3AIuTvWYZLCp1"
       },
       "artists": [
         {
-          "name": "Caos",
-          "url": "https://open.spotify.com/artist/4GGc0ZcZkaWFiQRhfUJZ8F"
+          "name": "Juanes",
+          "url": "https://open.spotify.com/artist/0UWZUmn7sybxMCqrw9tGa7"
+        },
+        {
+          "name": "Nelly Furtado",
+          "url": "https://open.spotify.com/artist/2jw70GZXlAI8QzWeY2bgRc"
         }
       ],
-      "duration_ms": 245826,
-      "name": "La Planta",
-      "url": "https://open.spotify.com/track/2GggG2lQVYuus2aeAybe8M"
+      "duration_ms": 238133,
+      "name": "Fotograf\u00eda",
+      "url": "https://open.spotify.com/track/0dEPlb8waIqRtKpLb3l6So"
     },
     {
       "added_at": "2026-05-26 20:08:59",
@@ -571,22 +575,18 @@
     {
       "added_at": "2026-05-26 20:08:59",
       "album": {
-        "name": "Un D\u00eda Normal",
-        "url": "https://open.spotify.com/album/2UJCnSqpR3AIuTvWYZLCp1"
+        "name": "La Vida Gacha",
+        "url": "https://open.spotify.com/album/46qlKidNmBw0FSJzFpb8LM"
       },
       "artists": [
         {
-          "name": "Juanes",
-          "url": "https://open.spotify.com/artist/0UWZUmn7sybxMCqrw9tGa7"
-        },
-        {
-          "name": "Nelly Furtado",
-          "url": "https://open.spotify.com/artist/2jw70GZXlAI8QzWeY2bgRc"
+          "name": "Caos",
+          "url": "https://open.spotify.com/artist/4GGc0ZcZkaWFiQRhfUJZ8F"
         }
       ],
-      "duration_ms": 238133,
-      "name": "Fotograf\u00eda",
-      "url": "https://open.spotify.com/track/0dEPlb8waIqRtKpLb3l6So"
+      "duration_ms": 245826,
+      "name": "La Planta",
+      "url": "https://open.spotify.com/track/2GggG2lQVYuus2aeAybe8M"
     },
     {
       "added_at": "2026-05-26 20:08:59",
@@ -767,22 +767,6 @@
     {
       "added_at": "2026-05-26 20:08:59",
       "album": {
-        "name": "Dulce Beat",
-        "url": "https://open.spotify.com/album/5aamU0jIrX7bsjUsPCFVAK"
-      },
-      "artists": [
-        {
-          "name": "Belanova",
-          "url": "https://open.spotify.com/artist/3oNy8cjBtJzLC07I70sklp"
-        }
-      ],
-      "duration_ms": 216333,
-      "name": "Por Ti",
-      "url": "https://open.spotify.com/track/1foeacjwgWD6UMmirTXwL5"
-    },
-    {
-      "added_at": "2026-05-26 20:08:59",
-      "album": {
         "name": "Rocanlover",
         "url": "https://open.spotify.com/album/45fpjQkEMNvYJn5SGPcCSX"
       },
@@ -795,6 +779,22 @@
       "duration_ms": 203626,
       "name": "Love",
       "url": "https://open.spotify.com/track/5tyznRXlcIx0XlQ7S8iCMW"
+    },
+    {
+      "added_at": "2026-05-26 20:08:59",
+      "album": {
+        "name": "Dulce Beat",
+        "url": "https://open.spotify.com/album/5aamU0jIrX7bsjUsPCFVAK"
+      },
+      "artists": [
+        {
+          "name": "Belanova",
+          "url": "https://open.spotify.com/artist/3oNy8cjBtJzLC07I70sklp"
+        }
+      ],
+      "duration_ms": 216333,
+      "name": "Por Ti",
+      "url": "https://open.spotify.com/track/1foeacjwgWD6UMmirTXwL5"
     },
     {
       "added_at": "2026-05-26 20:08:59",
@@ -1087,18 +1087,18 @@
     {
       "added_at": "2026-05-26 20:08:59",
       "album": {
-        "name": "Un Mundo Diferente",
-        "url": "https://open.spotify.com/album/6lQH3MxpJygGIGs9mOZUNf"
+        "name": "Azul",
+        "url": "https://open.spotify.com/album/3sFQ0NlLAobNm52wcZSbJs"
       },
       "artists": [
         {
-          "name": "Diego Torres",
-          "url": "https://open.spotify.com/artist/0LALueHEQunQ2d61fXGeZh"
+          "name": "Cristian Castro",
+          "url": "https://open.spotify.com/artist/2AZOALDIBORfbzKTuliwdJ"
         }
       ],
-      "duration_ms": 267106,
-      "name": "Color Esperanza",
-      "url": "https://open.spotify.com/track/3T07pNAEVr9adeIG9i1ex4"
+      "duration_ms": 260346,
+      "name": "Azul",
+      "url": "https://open.spotify.com/track/7iAXEpyYmNpEDBtALzxbMm"
     },
     {
       "added_at": "2026-05-26 20:08:59",
@@ -1119,34 +1119,18 @@
     {
       "added_at": "2026-05-26 20:08:59",
       "album": {
-        "name": "Azul",
-        "url": "https://open.spotify.com/album/3sFQ0NlLAobNm52wcZSbJs"
+        "name": "Un Mundo Diferente",
+        "url": "https://open.spotify.com/album/6lQH3MxpJygGIGs9mOZUNf"
       },
       "artists": [
         {
-          "name": "Cristian Castro",
-          "url": "https://open.spotify.com/artist/2AZOALDIBORfbzKTuliwdJ"
+          "name": "Diego Torres",
+          "url": "https://open.spotify.com/artist/0LALueHEQunQ2d61fXGeZh"
         }
       ],
-      "duration_ms": 260346,
-      "name": "Azul",
-      "url": "https://open.spotify.com/track/7iAXEpyYmNpEDBtALzxbMm"
-    },
-    {
-      "added_at": "2026-05-26 20:08:59",
-      "album": {
-        "name": "Lu",
-        "url": "https://open.spotify.com/album/0FDD3Y5vJ0chGNLtJju6nq"
-      },
-      "artists": [
-        {
-          "name": "LU",
-          "url": "https://open.spotify.com/artist/1G4QsyR9Fj6k8JJK233X8C"
-        }
-      ],
-      "duration_ms": 217400,
-      "name": "Por Besarte",
-      "url": "https://open.spotify.com/track/4q88IbAn47f7GCQIFhbYkL"
+      "duration_ms": 267106,
+      "name": "Color Esperanza",
+      "url": "https://open.spotify.com/track/3T07pNAEVr9adeIG9i1ex4"
     },
     {
       "added_at": "2026-05-26 20:08:59",
@@ -1163,6 +1147,22 @@
       "duration_ms": 274506,
       "name": "Tal Vez Quizas",
       "url": "https://open.spotify.com/track/4Ft4AbNwk1acKagaBOmvHb"
+    },
+    {
+      "added_at": "2026-05-26 20:08:59",
+      "album": {
+        "name": "Lu",
+        "url": "https://open.spotify.com/album/0FDD3Y5vJ0chGNLtJju6nq"
+      },
+      "artists": [
+        {
+          "name": "LU",
+          "url": "https://open.spotify.com/artist/1G4QsyR9Fj6k8JJK233X8C"
+        }
+      ],
+      "duration_ms": 217400,
+      "name": "Por Besarte",
+      "url": "https://open.spotify.com/track/4q88IbAn47f7GCQIFhbYkL"
     },
     {
       "added_at": "2026-05-26 20:08:59",
@@ -1215,22 +1215,6 @@
     {
       "added_at": "2026-05-26 20:08:59",
       "album": {
-        "name": "Mar\u00eda Jos\u00e9",
-        "url": "https://open.spotify.com/album/3ZYCIP3Z0UcypRrTLghQ4M"
-      },
-      "artists": [
-        {
-          "name": "Mar\u00eda Jos\u00e9",
-          "url": "https://open.spotify.com/artist/1dJyh390MvfYPuNbhnbSDs"
-        }
-      ],
-      "duration_ms": 239706,
-      "name": "Me equivoqu\u00e9",
-      "url": "https://open.spotify.com/track/0mjwigpuvO4IAAMtoNoUyQ"
-    },
-    {
-      "added_at": "2026-05-26 20:08:59",
-      "album": {
         "name": "Gran City Pop (Edited Version)",
         "url": "https://open.spotify.com/album/1ZJLekUOKFcN2QQXMvasTJ"
       },
@@ -1243,6 +1227,22 @@
       "duration_ms": 205866,
       "name": "Causa Y Efecto",
       "url": "https://open.spotify.com/track/0gdt218D74akk9AqMlbc45"
+    },
+    {
+      "added_at": "2026-05-26 20:08:59",
+      "album": {
+        "name": "Mar\u00eda Jos\u00e9",
+        "url": "https://open.spotify.com/album/3ZYCIP3Z0UcypRrTLghQ4M"
+      },
+      "artists": [
+        {
+          "name": "Mar\u00eda Jos\u00e9",
+          "url": "https://open.spotify.com/artist/1dJyh390MvfYPuNbhnbSDs"
+        }
+      ],
+      "duration_ms": 239706,
+      "name": "Me equivoqu\u00e9",
+      "url": "https://open.spotify.com/track/0mjwigpuvO4IAAMtoNoUyQ"
     },
     {
       "added_at": "2026-05-26 20:08:59",
@@ -1479,18 +1479,18 @@
     {
       "added_at": "2026-05-26 20:08:59",
       "album": {
-        "name": "Clandestino",
-        "url": "https://open.spotify.com/album/3xoAUqjKs7Ps7wR26VAMbq"
+        "name": "Paulina",
+        "url": "https://open.spotify.com/album/64M45unRUhuzlOYth6w5HB"
       },
       "artists": [
         {
-          "name": "Manu Chao",
-          "url": "https://open.spotify.com/artist/6wH6iStAh4KIaWfuhf0NYM"
+          "name": "Paulina Rubio",
+          "url": "https://open.spotify.com/artist/1d6dwipPrsFSJVmFTTdFSS"
         }
       ],
-      "duration_ms": 149173,
-      "name": "Clandestino",
-      "url": "https://open.spotify.com/track/51R2M1JgyFfRS3e6v5wCt3"
+      "duration_ms": 281866,
+      "name": "Lo Har\u00e9 Por Ti",
+      "url": "https://open.spotify.com/track/2j0vCRV8XySsYHDYasQwbi"
     },
     {
       "added_at": "2026-05-26 20:08:59",
@@ -1511,18 +1511,18 @@
     {
       "added_at": "2026-05-26 20:08:59",
       "album": {
-        "name": "Paulina",
-        "url": "https://open.spotify.com/album/64M45unRUhuzlOYth6w5HB"
+        "name": "Clandestino",
+        "url": "https://open.spotify.com/album/3xoAUqjKs7Ps7wR26VAMbq"
       },
       "artists": [
         {
-          "name": "Paulina Rubio",
-          "url": "https://open.spotify.com/artist/1d6dwipPrsFSJVmFTTdFSS"
+          "name": "Manu Chao",
+          "url": "https://open.spotify.com/artist/6wH6iStAh4KIaWfuhf0NYM"
         }
       ],
-      "duration_ms": 281866,
-      "name": "Lo Har\u00e9 Por Ti",
-      "url": "https://open.spotify.com/track/2j0vCRV8XySsYHDYasQwbi"
+      "duration_ms": 149173,
+      "name": "Clandestino",
+      "url": "https://open.spotify.com/track/51R2M1JgyFfRS3e6v5wCt3"
     },
     {
       "added_at": "2026-05-26 20:08:59",
@@ -1559,22 +1559,6 @@
     {
       "added_at": "2026-05-26 20:08:59",
       "album": {
-        "name": "Anoche",
-        "url": "https://open.spotify.com/album/5uBA88xQSrGS8sfVru3bWC"
-      },
-      "artists": [
-        {
-          "name": "Babasonicos",
-          "url": "https://open.spotify.com/artist/2F9pvj94b52wGKs0OqiNi2"
-        }
-      ],
-      "duration_ms": 155920,
-      "name": "Carism\u00e1tico",
-      "url": "https://open.spotify.com/track/0JEoezwc786AUMKs2CBQRI"
-    },
-    {
-      "added_at": "2026-05-26 20:08:59",
-      "album": {
         "name": "Detector De Metal",
         "url": "https://open.spotify.com/album/3CZjT6RXkAJmmPZipcDg1N"
       },
@@ -1591,6 +1575,22 @@
       "duration_ms": 250866,
       "name": "Muriendo Lento (feat. Belinda)",
       "url": "https://open.spotify.com/track/2QFjBBDcrnEIqQcKSwZdv0"
+    },
+    {
+      "added_at": "2026-05-26 20:08:59",
+      "album": {
+        "name": "Anoche",
+        "url": "https://open.spotify.com/album/5uBA88xQSrGS8sfVru3bWC"
+      },
+      "artists": [
+        {
+          "name": "Babasonicos",
+          "url": "https://open.spotify.com/artist/2F9pvj94b52wGKs0OqiNi2"
+        }
+      ],
+      "duration_ms": 155920,
+      "name": "Carism\u00e1tico",
+      "url": "https://open.spotify.com/track/0JEoezwc786AUMKs2CBQRI"
     },
     {
       "added_at": "2026-05-26 20:08:59",

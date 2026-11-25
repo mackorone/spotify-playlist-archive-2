@@ -1,12 +1,12 @@
 {
   "description": "Las\u0103-te inspirat pe ritmuri de hip-hop & R'n'B. Cover: Mgk666, CERCEL",
-  "num_followers": 23798,
+  "num_followers": 23799,
   "original_name": "Suflet + Sunet",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAOd9JaIE+4yIdCPry+2hzW/FrhDz",
+  "snapshot_id": "AAAAAJ3CeLAFJi9eXkhPPoHeQdkEIPFs",
   "tracks": [
     {
       "added_at": "2026-11-19 22:00:47",
@@ -731,6 +731,22 @@
     {
       "added_at": "2026-11-19 22:00:47",
       "album": {
+        "name": "Vise La Plic",
+        "url": "https://open.spotify.com/album/2rBedZhrwkQ1k41clHtX7m"
+      },
+      "artists": [
+        {
+          "name": "Connect-R",
+          "url": "https://open.spotify.com/artist/1omKDrKCcMD79tfK8Vb2Hr"
+        }
+      ],
+      "duration_ms": 166153,
+      "name": "Vise La Plic",
+      "url": "https://open.spotify.com/track/4f5Vs65RAPuAOrNrRrKcgA"
+    },
+    {
+      "added_at": "2026-11-19 22:00:47",
+      "album": {
         "name": "TOXIC",
         "url": "https://open.spotify.com/album/7nbbmG8UY3xKGom4pHzAvk"
       },
@@ -747,22 +763,6 @@
       "duration_ms": 169787,
       "name": "TOXIC",
       "url": "https://open.spotify.com/track/67bPAkhACf3ITaexxCodJr"
-    },
-    {
-      "added_at": "2026-11-19 22:00:47",
-      "album": {
-        "name": "Vise La Plic",
-        "url": "https://open.spotify.com/album/2rBedZhrwkQ1k41clHtX7m"
-      },
-      "artists": [
-        {
-          "name": "Connect-R",
-          "url": "https://open.spotify.com/artist/1omKDrKCcMD79tfK8Vb2Hr"
-        }
-      ],
-      "duration_ms": 166153,
-      "name": "Vise La Plic",
-      "url": "https://open.spotify.com/track/4f5Vs65RAPuAOrNrRrKcgA"
     },
     {
       "added_at": "2026-11-19 22:00:47",
@@ -787,22 +787,6 @@
     {
       "added_at": "2026-11-19 22:00:47",
       "album": {
-        "name": "Toata lumea moare",
-        "url": "https://open.spotify.com/album/3HSN1uMfMOg2j7fCmVVAh2"
-      },
-      "artists": [
-        {
-          "name": "Mgk666",
-          "url": "https://open.spotify.com/artist/6yTJ8tQyoUxgf6aqbpsXhQ"
-        }
-      ],
-      "duration_ms": 144000,
-      "name": "Operatiunea GhostGun",
-      "url": "https://open.spotify.com/track/6ZvxHr1I4tofQp3WOh68j4"
-    },
-    {
-      "added_at": "2026-11-19 22:00:47",
-      "album": {
         "name": "Blur",
         "url": "https://open.spotify.com/album/4nET5AKAwCz0ooYa7QdNmV"
       },
@@ -819,6 +803,22 @@
       "duration_ms": 152000,
       "name": "Poate",
       "url": "https://open.spotify.com/track/70WFlv0Amzke8MgjfM5MUu"
+    },
+    {
+      "added_at": "2026-11-19 22:00:47",
+      "album": {
+        "name": "Toata lumea moare",
+        "url": "https://open.spotify.com/album/3HSN1uMfMOg2j7fCmVVAh2"
+      },
+      "artists": [
+        {
+          "name": "Mgk666",
+          "url": "https://open.spotify.com/artist/6yTJ8tQyoUxgf6aqbpsXhQ"
+        }
+      ],
+      "duration_ms": 144000,
+      "name": "Operatiunea GhostGun",
+      "url": "https://open.spotify.com/track/6ZvxHr1I4tofQp3WOh68j4"
     },
     {
       "added_at": "2026-11-19 22:00:47",
@@ -943,22 +943,6 @@
     {
       "added_at": "2026-11-19 22:00:47",
       "album": {
-        "name": "Kilian",
-        "url": "https://open.spotify.com/album/07gEvU7e28yrBwcwiEKKd3"
-      },
-      "artists": [
-        {
-          "name": "Petre Stefan",
-          "url": "https://open.spotify.com/artist/0yjc2FN5zju7xyuJsTfGkh"
-        }
-      ],
-      "duration_ms": 125317,
-      "name": "Kilian",
-      "url": "https://open.spotify.com/track/5wcXxnYF8vCz20zq4lvfDu"
-    },
-    {
-      "added_at": "2026-11-19 22:00:47",
-      "album": {
         "name": "Copiii Care Am Fost",
         "url": "https://open.spotify.com/album/2hH9yLdchCyhiiEKhACBkT"
       },
@@ -975,6 +959,22 @@
       "duration_ms": 178064,
       "name": "Copiii Care Am Fost",
       "url": "https://open.spotify.com/track/4mzfGRUi0JxDp4fXdPyVuz"
+    },
+    {
+      "added_at": "2026-11-19 22:00:47",
+      "album": {
+        "name": "Kilian",
+        "url": "https://open.spotify.com/album/07gEvU7e28yrBwcwiEKKd3"
+      },
+      "artists": [
+        {
+          "name": "Petre Stefan",
+          "url": "https://open.spotify.com/artist/0yjc2FN5zju7xyuJsTfGkh"
+        }
+      ],
+      "duration_ms": 125317,
+      "name": "Kilian",
+      "url": "https://open.spotify.com/track/5wcXxnYF8vCz20zq4lvfDu"
     }
   ],
   "unique_name": "Suflet + Sunet",

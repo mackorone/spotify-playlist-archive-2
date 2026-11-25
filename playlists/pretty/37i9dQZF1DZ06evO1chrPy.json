@@ -1,12 +1,12 @@
 {
   "description": "This is Cage The Elephant. The essential tracks, all in one playlist.",
-  "num_followers": 182368,
+  "num_followers": 182384,
   "original_name": "This Is Cage The Elephant",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "awIwgAAAAAC5fIJEM7CGVSv2VLpy2buz",
+  "snapshot_id": "awOCAAAAAAAIzDsJGb+Yn/XaRm62A3Hl",
   "tracks": [
     {
       "added_at": null,
@@ -299,22 +299,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Neon Pill",
-        "url": "https://open.spotify.com/album/2dGlEut1TyhAyApZ0ADIsd"
-      },
-      "artists": [
-        {
-          "name": "Cage The Elephant",
-          "url": "https://open.spotify.com/artist/26T3LtbuGT1Fu9m0eRq5X3"
-        }
-      ],
-      "duration_ms": 201233,
-      "name": "Neon Pill",
-      "url": "https://open.spotify.com/track/0cgyeBU54kjmI54TflMANg"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Cage The Elephant (Expanded Edition)",
         "url": "https://open.spotify.com/album/7H814Cg8HV0qpoMheYbhNn"
       },
@@ -327,6 +311,22 @@
       "duration_ms": 241320,
       "name": "In One Ear",
       "url": "https://open.spotify.com/track/2VRJIIzbhhOGaxAhwCMfZX"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Neon Pill",
+        "url": "https://open.spotify.com/album/2dGlEut1TyhAyApZ0ADIsd"
+      },
+      "artists": [
+        {
+          "name": "Cage The Elephant",
+          "url": "https://open.spotify.com/artist/26T3LtbuGT1Fu9m0eRq5X3"
+        }
+      ],
+      "duration_ms": 201233,
+      "name": "Neon Pill",
+      "url": "https://open.spotify.com/track/0cgyeBU54kjmI54TflMANg"
     },
     {
       "added_at": null,

@@ -2,9 +2,9 @@
 
 ### [Hot Hits Pakistan](https://open.spotify.com/playlist/37i9dQZF1DX8BmpQ9HroVZ)
 
-> The hottest tracks trending in Pakistan 🔥 Cover: Murtaza Qizilbash
+> The hottest tracks trending in Pakistan 🔥 Cover: Zain Zohaib
 
-706 songs - 1 day 18 hr 24 min
+707 songs - 1 day 18 hr 28 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -333,7 +333,7 @@
 | [Karde Karam Tu \(From "Parwarish"\)](https://open.spotify.com/track/6VOwPPenagLmIJ679Nx2ZS) | [Samar Jafri](https://open.spotify.com/artist/4UjFSd24FZluVytp1sk7qq) | [Karde Karam Tu \(From "Parwarish"\)](https://open.spotify.com/album/0HNO3WO0pzK2gsaDsVnCjg) | 3:15 | 2025-08-19 | 2026-06-10 |
 | [Kashish](https://open.spotify.com/track/3BDhT4z4gy8rukyJpuWM59) | [Ashish Bhatia](https://open.spotify.com/artist/2msR4dHmBiBa99uLmuqFFk), [Omkar Singh](https://open.spotify.com/artist/6dk4snfeN31dQDbb03Wmmr), [Kashish Ratnani](https://open.spotify.com/artist/5maYabmLqXL3Y5fhFaD3zk) | [Kashish](https://open.spotify.com/album/6mOd7bvvtzy4mtdOTKPIX8) | 3:13 | 2025-07-24 | 2025-08-20 |
 | [Kashish](https://open.spotify.com/track/3anHs4ijBd3Iw0E0fBPwtH) | [Ashish Bhatia](https://open.spotify.com/artist/2msR4dHmBiBa99uLmuqFFk), [Omkar Singh](https://open.spotify.com/artist/6dk4snfeN31dQDbb03Wmmr), [Kashish Ratnani](https://open.spotify.com/artist/5maYabmLqXL3Y5fhFaD3zk) | [Kashish](https://open.spotify.com/album/2uv0DOLXkB2LeFhfk8bIcL) | 3:13 | 2025-08-19 | 2026-07-09 |
-| [Kath Lagda](https://open.spotify.com/track/3zoM4v1qTX94ZqfPYRReJh) | [Navaan Sandhu](https://open.spotify.com/artist/6PdJJhJWHFRtoERTQ8JGq1), [Dhanda Nyoliwala](https://open.spotify.com/artist/2rN8LHqK4TBI7y3d9POvJb), [Sanya Dandona](https://open.spotify.com/artist/5Y88j1QhlpI0iUp0uMrXip), [RXTRO](https://open.spotify.com/artist/7lGDbXQAFrqSli1Xg28orT) | [Bipolar](https://open.spotify.com/album/6IZrIfElEDQWpR9B6yYjhp) | 5:12 | 2026-07-08 |  |
+| [Kath Lagda](https://open.spotify.com/track/3zoM4v1qTX94ZqfPYRReJh) | [Navaan Sandhu](https://open.spotify.com/artist/6PdJJhJWHFRtoERTQ8JGq1), [Dhanda Nyoliwala](https://open.spotify.com/artist/2rN8LHqK4TBI7y3d9POvJb), [Sanya Dandona](https://open.spotify.com/artist/5Y88j1QhlpI0iUp0uMrXip), [RXTRO](https://open.spotify.com/artist/7lGDbXQAFrqSli1Xg28orT) | [Bipolar](https://open.spotify.com/album/6IZrIfElEDQWpR9B6yYjhp) | 5:12 | 2026-07-08 | 2026-11-25 |
 | [Kaun Talha](https://open.spotify.com/track/0euDWZG2g1Cw12TDyLQUKu) | [Talha Anjum](https://open.spotify.com/artist/69xcFpmqTOmFNOL08Bxyci), [Umair](https://open.spotify.com/artist/1n6pjRJkTY5v8RtUCAv5pi) | [Kaun Talha](https://open.spotify.com/album/79kk4fBrppufcwHKZ6SspP) | 4:29 | 2024-07-02 | 2025-03-29 |
 | [Kehdena](https://open.spotify.com/track/6o8tuwVDjGn3fUoiFsNNba) | [Abdul Hannan](https://open.spotify.com/artist/5mWQT8CLTa4mAQAJdFjHb1), [Annural Khalid](https://open.spotify.com/artist/1nCZUpBIcyOxufOx0lPeIW), [ChillBazaar](https://open.spotify.com/artist/2NAjKl5QHznzsMfHy6cGOJ) | [Kehdena](https://open.spotify.com/album/3apaPtqSwlQoQBiWFmWZu1) | 3:49 | 2023-06-05 | 2023-06-13 |
 | [Kesariya](https://open.spotify.com/track/4UMIv5jd9gK98a39BQRD9X) | [Pritam](https://open.spotify.com/artist/1wRPtKGflJrBx9BmLsSwlU), [Arijit Singh](https://open.spotify.com/artist/4YRxDV8wJFPHPTeXepOstw), [Amitabh Bhattacharya](https://open.spotify.com/artist/2fMqTqiTxUDlmcOEPaQSsx) | [Brahmastra \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/4kIPlpwEZBK9JaI9pZHe79) | 4:28 | 2023-04-12 | 2024-01-09 |
@@ -426,6 +426,7 @@
 | [Moon Rise](https://open.spotify.com/track/3oWv5qDKYN7MH6FdlglMN5) | [Guru Randhawa](https://open.spotify.com/artist/5rQoBDKFnd1n6BkdbgVaRL), [Sanjoy](https://open.spotify.com/artist/6qjhYs5KNSoSU6fNJqDGIo) | [Man Of The Moon](https://open.spotify.com/album/0jasm0jnhQ6Y6OUYTI1NL6) | 2:54 | 2023-01-16 | 2023-12-12 |
 | [Moonrise](https://open.spotify.com/track/0uSsibjt7ZjdRwHTJrqWOT) | [Atif Aslam](https://open.spotify.com/artist/2oSONSC9zQ4UonDKnLqksx) | [Moonrise](https://open.spotify.com/album/1Q48FsRM9uF3VvGYaji5bE) | 2:49 | 2022-11-07 | 2023-10-04 |
 | [Moves](https://open.spotify.com/track/53kcU6lCvTptLec1UXacaq) | [Shubh](https://open.spotify.com/artist/5r3wPya2PpeTTsXsGhQU8O) | [Chapter IV](https://open.spotify.com/album/3RRSy7ypBCuUbPorgw6bO7) | 2:40 | 2026-06-09 |  |
+| [Mujhse Kyun Bair Kiya \(From "Dar\-E\-Nijaat"\)](https://open.spotify.com/track/1nPaOBld16buKTJgo3NVIv) | [Naveed Nashad](https://open.spotify.com/artist/22fO3UH96rJbcBGI0YN7Ue), [Sehar Gul Khan](https://open.spotify.com/artist/1REoitWY7dtWTikiEjoeVk) | [Mujhse Kyun Bair Kiya \(From "Dar\-E\-Nijaat"\)](https://open.spotify.com/album/4XkHLqDulxEyVWzhbTzzb4) | 3:50 | 2026-11-25 |  |
 | [Murder](https://open.spotify.com/track/0uMY0ZOYpXKHPxuakVtQzs) | [Real Boss](https://open.spotify.com/artist/7mAbpafXc2MIAZn4ldxEuP), [BIG KAY SMG](https://open.spotify.com/artist/0z4Mzficie9vUzDmz4Hy9G) | [Murder](https://open.spotify.com/album/1i6h3Xs1qunoQAO7N2XHVg) | 3:02 | 2024-03-12 | 2024-05-07 |
 | [Mustafa Jaan\-E\-Rehmat](https://open.spotify.com/track/1QSZGKtQ35ZIpU7cPseaa9) | [Atif Aslam](https://open.spotify.com/artist/2oSONSC9zQ4UonDKnLqksx) | [Mustafa Jaan\-E\-Rehmat](https://open.spotify.com/album/3srtuCmeKcGj2NunqYMiY6) | 5:07 | 2025-03-28 | 2025-04-12 |
 | [MVP](https://open.spotify.com/track/5BQePe9rcCJozHK3oPayYk) | [Shubh](https://open.spotify.com/artist/5r3wPya2PpeTTsXsGhQU8O) | [MVP](https://open.spotify.com/album/5oCCfkVCpkSUhBUXe0pyJF) | 3:16 | 2024-05-24 | 2025-06-30 |

@@ -1385,6 +1385,24 @@
     },
     {
       "album": {
+        "name": "Glowing Sand",
+        "url": "https://open.spotify.com/album/3orAIxRY1ZLlzTMz3TDwQo"
+      },
+      "artists": [
+        {
+          "name": "slowerlane",
+          "url": "https://open.spotify.com/artist/5TCtVMGX05BJEZ3uSDGr9h"
+        }
+      ],
+      "date_added": "2026-11-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 150036,
+      "name": "Glowing Sand",
+      "url": "https://open.spotify.com/track/7IuyYYK2EfSBgjLMir3QHJ"
+    },
+    {
+      "album": {
         "name": "Golden Echoes",
         "url": "https://open.spotify.com/album/0b3olul1UdQmrqD2RMLkO5"
       },
@@ -2773,6 +2791,24 @@
     },
     {
       "album": {
+        "name": "Perennial",
+        "url": "https://open.spotify.com/album/6qb5qLQAXAAl63OALs19gq"
+      },
+      "artists": [
+        {
+          "name": "oojoo",
+          "url": "https://open.spotify.com/artist/4atuRnKfW6RSSeLFILs4Tr"
+        }
+      ],
+      "date_added": "2026-11-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 151111,
+      "name": "Perennial",
+      "url": "https://open.spotify.com/track/7CnHSEAZHqTUSnRi7653cs"
+    },
+    {
+      "album": {
         "name": "Prakriti Ke Gupt Rahasya",
         "url": "https://open.spotify.com/album/0l7Rz8rwxxViesi5t4C5Yx"
       },
@@ -3236,7 +3272,7 @@
       ],
       "date_added": "2022-05-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-25",
       "duration_ms": 173333,
       "name": "River",
       "url": "https://open.spotify.com/track/5noFpnVfIGs7nLUkfNuEFu"
@@ -3326,7 +3362,7 @@
       ],
       "date_added": "2022-07-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-25",
       "duration_ms": 196872,
       "name": "Safe In Me",
       "url": "https://open.spotify.com/track/5pFkd2XYGXqu5ixYMWcHZX"
@@ -3553,6 +3589,24 @@
     },
     {
       "album": {
+        "name": "Serenity",
+        "url": "https://open.spotify.com/album/7bhuBpoFugbElFbAThmwZs"
+      },
+      "artists": [
+        {
+          "name": "Elements",
+          "url": "https://open.spotify.com/artist/3c6UIuZ0KCsN5nhXFErvMy"
+        }
+      ],
+      "date_added": "2026-11-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 178000,
+      "name": "Serenity",
+      "url": "https://open.spotify.com/track/4vp14Xqb6esBGgMYqjSUYS"
+    },
+    {
+      "album": {
         "name": "Rajasthan",
         "url": "https://open.spotify.com/album/3lmvyNXwElZPiV3BLpIbDr"
       },
@@ -3564,7 +3618,7 @@
       ],
       "date_added": "2022-05-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-25",
       "duration_ms": 240006,
       "name": "Shaantipoorn Bageecha",
       "url": "https://open.spotify.com/track/3qqvBjzXGgeyGCTJ5x3OXu"

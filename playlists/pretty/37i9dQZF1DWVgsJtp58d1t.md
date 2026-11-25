@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVgsJtp58d1t.md) - [plain]
 
 > The best in Black music! Cover: <a href="spotify:artist:30C5wgn4celhRP3Tytv7R6">Mez</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,155,718 likes - 151 songs - 7 hr 32 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,155,706 likes - 151 songs - 7 hr 32 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -160,4 +160,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVgsJtp58d1t.md) - [plain]
 | 150 | [TALKIN FYE](https://open.spotify.com/track/1UBZHd1XtwhlUvQnXt5l12) | [Yakiyn](https://open.spotify.com/artist/41lqavlwvb2IVsBpmCkh4E) | [TALKIN FYE](https://open.spotify.com/album/1CWcR6oP4LuBhsVizDTYOW) | 2:17 |
 | 151 | [BIG 5](https://open.spotify.com/track/5S5gF7ujCupq2bmZMhAvmJ) | [Key Glock](https://open.spotify.com/artist/0RESbWvOMyua0yuyVrztJ5) | [PROJECT X](https://open.spotify.com/album/2UNJOZcWFBhtjUrKBNS9bc) | 2:03 |
 
-Snapshot ID: `AAAAALiu0xSB82p3/J4ZttfPAc+SS2ID`
+Snapshot ID: `AAAAAPhq6++1f/2+7J6mKJb0eZ5sIYll`

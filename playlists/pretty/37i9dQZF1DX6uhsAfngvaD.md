@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6uhsAfngvaD.md) - [plain]
 
 > Blissful indie for dreamers.
 
-[Spotify](https://open.spotify.com/user/spotify) - 322,556 likes - 80 songs - 5 hr 1 min
+[Spotify](https://open.spotify.com/user/spotify) - 322,553 likes - 80 songs - 5 hr 1 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -28,8 +28,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6uhsAfngvaD.md) - [plain]
 | 18 | [Bad Dream](https://open.spotify.com/track/2IwbIGkquI55VOzcWUg8fg) | [Cannons](https://open.spotify.com/artist/7FtCyCJCJaxabYO7Uyda5B) | [Bad Dream](https://open.spotify.com/album/4rDxEB6OJqbYb38hY083qw) | 3:22 |
 | 19 | [The Clouds Cleared the Way](https://open.spotify.com/track/5Pdsyk2NuTJ56mE97DmxmN) | [Shane Tyler](https://open.spotify.com/artist/05hDnhvWwtQKibC73ksjQS) | [The Clouds Cleared the Way](https://open.spotify.com/album/2GajVRWAWcqYuEcYZTLIn8) | 4:04 |
 | 20 | [Porcelain](https://open.spotify.com/track/2ngVZZGrIYAxyxaA2QcWTB) | [Men I Trust](https://open.spotify.com/artist/3zmfs9cQwzJl575W1ZYXeT) | [Oncle Jazz](https://open.spotify.com/album/4W4gNYa4tt3t8V6FmONWEK) | 3:32 |
-| 21 | [You and Me](https://open.spotify.com/track/4KE91Xg3FL51yMhnpSqRvE) | [Nature TV](https://open.spotify.com/artist/43oBGBlKaDxrti8m7QiQrC), [Nice Guys](https://open.spotify.com/artist/3FPxmqqMdZu3QiIhfyZhyN) | [You and Me](https://open.spotify.com/album/4WmQIWuFrxPQc7Ae3LKDUQ) | 3:45 |
-| 22 | [Up Late](https://open.spotify.com/track/1orDT3tSQjSx6W7UqMLliR) | [Beach Vacation](https://open.spotify.com/artist/5r5uCVk3IIzm2jdfGDpl8C) | [Coping Habits](https://open.spotify.com/album/2dha3JRdwEHp4eaVPoUHxp) | 2:39 |
+| 21 | [Up Late](https://open.spotify.com/track/1orDT3tSQjSx6W7UqMLliR) | [Beach Vacation](https://open.spotify.com/artist/5r5uCVk3IIzm2jdfGDpl8C) | [Coping Habits](https://open.spotify.com/album/2dha3JRdwEHp4eaVPoUHxp) | 2:39 |
+| 22 | [You and Me](https://open.spotify.com/track/4KE91Xg3FL51yMhnpSqRvE) | [Nature TV](https://open.spotify.com/artist/43oBGBlKaDxrti8m7QiQrC), [Nice Guys](https://open.spotify.com/artist/3FPxmqqMdZu3QiIhfyZhyN) | [You and Me](https://open.spotify.com/album/4WmQIWuFrxPQc7Ae3LKDUQ) | 3:45 |
 | 23 | [Lurk \- Mixed](https://open.spotify.com/track/064kl8lbsGVBN07jKkl014) | [Oklou](https://open.spotify.com/artist/6fFcUOFcbjeIuEomuUthkw), [Casey MQ](https://open.spotify.com/artist/2LCeCCDzbmCOqnV33eB3q8) | [DJ\-Kicks: Logic1000](https://open.spotify.com/album/6TTv31Q89IYhRzxTVrENNx) | 2:49 |
 | 24 | [Holiday House](https://open.spotify.com/track/0Hz3Bf0SjlKlqYvIwH9a70) | [Beach House](https://open.spotify.com/artist/56ZTgzPBDge0OvCGgMO3OY) | [Become](https://open.spotify.com/album/6nx7O0T24xjbCpiATB4Rga) | 5:06 |
 | 25 | [Lucky Clover](https://open.spotify.com/track/6GevokAd21692eviYc1O0I) | [Whisper Doll](https://open.spotify.com/artist/5WqfNE3lDiQ7auVGw4lbuU) | [Lucky Clover](https://open.spotify.com/album/2CKeSsSVyW9dh81IfyvjU6) | 2:16 |
@@ -48,16 +48,16 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6uhsAfngvaD.md) - [plain]
 | 38 | [Tell Me How](https://open.spotify.com/track/01CMi6BTasSxDv2sSDqv6q) | [Tokyo Tea Room](https://open.spotify.com/artist/3lzTKwFsOqxtp5cLJ2qbSD) | [Tell Me How](https://open.spotify.com/album/6eyqtiXZ28uTVsIwAcmZnv) | 3:17 |
 | 39 | [Quite Like You](https://open.spotify.com/track/7B6jRQYFeJR4eUe2LBZfr4) | [Peach Luffe](https://open.spotify.com/artist/6KvuacOcxH22xWgQTAwxui) | [Quite Like You](https://open.spotify.com/album/5mja6AsqxnYjorZZ9eG77X) | 2:59 |
 | 40 | [I've Been Dreaming of You](https://open.spotify.com/track/1QefCoXtVK3wY1KDTt93Ei) | [HEIGHTS](https://open.spotify.com/artist/5EdogtWIzqFv45sdk6ePZH) | [I've Been Dreaming Of You](https://open.spotify.com/album/5JBMkxhLl4894CjX2O9jEO) | 2:28 |
-| 41 | [12 Blown Tires](https://open.spotify.com/track/43sc5VGNzFauUOnepR9VSc) | [Tennis](https://open.spotify.com/artist/1ybAN3utgdoUL1MUCtH4QM) | [Face Down In The Garden](https://open.spotify.com/album/1oFMLVK71dL1Jpq6aoCoIq) | 4:12 |
-| 42 | [Earth To Sea](https://open.spotify.com/track/2njyI8ksGaS9H0K3OZxVpp) | [M83](https://open.spotify.com/artist/63MQldklfxkjYDoUE4Tppz) | [Fantasy](https://open.spotify.com/album/7B6lEObl7aYkMjX8M89IRQ) | 6:40 |
+| 41 | [Earth To Sea](https://open.spotify.com/track/2njyI8ksGaS9H0K3OZxVpp) | [M83](https://open.spotify.com/artist/63MQldklfxkjYDoUE4Tppz) | [Fantasy](https://open.spotify.com/album/7B6lEObl7aYkMjX8M89IRQ) | 6:40 |
+| 42 | [12 Blown Tires](https://open.spotify.com/track/43sc5VGNzFauUOnepR9VSc) | [Tennis](https://open.spotify.com/artist/1ybAN3utgdoUL1MUCtH4QM) | [Face Down In The Garden](https://open.spotify.com/album/1oFMLVK71dL1Jpq6aoCoIq) | 4:12 |
 | 43 | [baby’s out of luck again](https://open.spotify.com/track/2vvwLTYoHLSVqNslT91zgU) | [april june](https://open.spotify.com/artist/4WreACyfQITcXGx86xxYkG) | [baby's out of luck again](https://open.spotify.com/album/2iIFClmEgZcnxsq7F95NUs) | 2:29 |
 | 44 | [Tell me I never knew that](https://open.spotify.com/track/2Kd9o6XhbcMLQcqkyoAg3f) | [caroline](https://open.spotify.com/artist/0nwTtqff9SoWoTnTFeZ7YA), [Caroline Polachek](https://open.spotify.com/artist/4Ge8xMJNwt6EEXOzVXju9a) | [Tell me I never knew that](https://open.spotify.com/album/6Z76fbESpNdmG9WSvlvaCW) | 4:39 |
 | 45 | [Stay And Rest For A While](https://open.spotify.com/track/4tHWZg3t5LpOkdRd53gal2) | [Good Dog](https://open.spotify.com/artist/1oJPedap0VtK48hM9Wm6S1) | [Stay And Rest For A While](https://open.spotify.com/album/1bSl8vFRJFYjLppddo8VrL) | 2:53 |
 | 46 | [sulky baby](https://open.spotify.com/track/3GnahtjoeFUWAu6vEYQnzH) | [yeule](https://open.spotify.com/artist/1WZarnZpWEv7dDtjAETt4X) | [sulky baby](https://open.spotify.com/album/3MvISUCBgt0rFXGhuxJ7IJ) | 4:38 |
 | 47 | [Beautiful World](https://open.spotify.com/track/6jfZZqVjPLOuIRFmYwTtfg) | [Blondes](https://open.spotify.com/artist/7GRJzNqBhBrhB9axaHsLlP) | [Beautiful World](https://open.spotify.com/album/5Hq9ivqHhytJcNING1NyXc) | 3:40 |
 | 48 | [Gloomy Girl](https://open.spotify.com/track/62Zgaht9Dx6HReIOamFMdN) | [Softcult](https://open.spotify.com/artist/13pYXGtaLO9d06VrXX4Aw0) | [Gloomy Girl](https://open.spotify.com/album/4TzEXyEPMZZPXbjPPIdRWR) | 3:06 |
-| 49 | [Songs](https://open.spotify.com/track/0y15BMv8TXeAUsDhWIGQFl) | [Pinkshinyultrablast](https://open.spotify.com/artist/3pJuDuFyP5uxCHDpXPczf4) | [Songs](https://open.spotify.com/album/5el9vQQOpGyHpsfv0MXqjs) | 15:50 |
-| 50 | [No More Kissing In The Rain](https://open.spotify.com/track/6euR55gwJ65nxIPeXLPPwo) | [trentemøller](https://open.spotify.com/artist/4O71i7ke5iIBX6RNSFoZbS), [Lisbet Fritze](https://open.spotify.com/artist/6ImgDd6PSpdu3uOGoTaGod) | [Memoria](https://open.spotify.com/album/7w5COkBSsfMksBbXnDVog2) | 4:19 |
+| 49 | [No More Kissing In The Rain](https://open.spotify.com/track/6euR55gwJ65nxIPeXLPPwo) | [trentemøller](https://open.spotify.com/artist/4O71i7ke5iIBX6RNSFoZbS), [Lisbet Fritze](https://open.spotify.com/artist/6ImgDd6PSpdu3uOGoTaGod) | [Memoria](https://open.spotify.com/album/7w5COkBSsfMksBbXnDVog2) | 4:19 |
+| 50 | [Songs](https://open.spotify.com/track/0y15BMv8TXeAUsDhWIGQFl) | [Pinkshinyultrablast](https://open.spotify.com/artist/3pJuDuFyP5uxCHDpXPczf4) | [Songs](https://open.spotify.com/album/5el9vQQOpGyHpsfv0MXqjs) | 15:50 |
 | 51 | [Valentine](https://open.spotify.com/track/28xKoto01psP4QaoISW5HY) | [Cults](https://open.spotify.com/artist/3Oim8XBPbznAa8Jj8QzNc8) | [Valentine](https://open.spotify.com/album/7McuqEFa5qOZZpGesSnRvg) | 3:22 |
 | 52 | [The Dream](https://open.spotify.com/track/15s06QEvaFBz2WkAXNFHSL) | [Still Corners](https://open.spotify.com/artist/4zKYrXs8iN4AeHmO8ZxNqp) | [The Dream](https://open.spotify.com/album/62uhsuwFgWwv9us2Bbyrst) | 4:49 |
 | 53 | [James](https://open.spotify.com/track/5Cd4brIkLNzLJJUxugJA1X) | [Oscar and the Wolf](https://open.spotify.com/artist/0dLWSYE7my9AbpQYNJ0ABV) | [James](https://open.spotify.com/album/6JM7AstjOZRklwDS9LbEz1) | 4:29 |
@@ -66,8 +66,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6uhsAfngvaD.md) - [plain]
 | 56 | [So Humble the Afternoon](https://open.spotify.com/track/1dl1I6nRr3lFuFxP7gHtcx) | [Julia Holter](https://open.spotify.com/artist/0bsV0sUjnCuCTYOnNHQl3E) | [So Humble The Afternoon](https://open.spotify.com/album/13PrcaJFJLNw6jGg25zekp) | 5:22 |
 | 57 | [Make Me Wanna](https://open.spotify.com/track/4bDTwDYjVdTWMRvfoPGAla) | [Babeheaven](https://open.spotify.com/artist/0RlWCq8bq0lJgR6ZTvcqjQ), [Navy Blue](https://open.spotify.com/artist/5qRbfEf4Ooo19aRXKQzvUV) | [Make Me Wanna](https://open.spotify.com/album/5NjTqkwOPJByuwuZB9oxjs) | 3:22 |
 | 58 | [carry you on my broken wings](https://open.spotify.com/track/2fik8AgFo86vliFEKcB0a0) | [april june](https://open.spotify.com/artist/4WreACyfQITcXGx86xxYkG) | [baby’s out of luck again](https://open.spotify.com/album/6rtwbvMGAcxOZqQQkOmhxX) | 3:05 |
-| 59 | [rest up](https://open.spotify.com/track/5vFpDxSYbw2ooyuKFfXNPr) | [boy pablo](https://open.spotify.com/artist/7wbkl3zgDZEoZer357mVIw) | [rest up](https://open.spotify.com/album/1ctBuXXFgblyXuqBzOH5Ue) | 3:24 |
-| 60 | [Loverboy](https://open.spotify.com/track/3iDJgLUiMqMdk1UOLG4VWf) | [RALPH TV](https://open.spotify.com/artist/4ClXiGv8w47iekyGEmtAyy), [Nice Guys](https://open.spotify.com/artist/3FPxmqqMdZu3QiIhfyZhyN) | [Cabin Fever Dreams](https://open.spotify.com/album/7yc9we9YwgeuOBlyclDxMn) | 3:26 |
+| 59 | [Loverboy](https://open.spotify.com/track/3iDJgLUiMqMdk1UOLG4VWf) | [RALPH TV](https://open.spotify.com/artist/4ClXiGv8w47iekyGEmtAyy), [Nice Guys](https://open.spotify.com/artist/3FPxmqqMdZu3QiIhfyZhyN) | [Cabin Fever Dreams](https://open.spotify.com/album/7yc9we9YwgeuOBlyclDxMn) | 3:26 |
+| 60 | [rest up](https://open.spotify.com/track/5vFpDxSYbw2ooyuKFfXNPr) | [boy pablo](https://open.spotify.com/artist/7wbkl3zgDZEoZer357mVIw) | [rest up](https://open.spotify.com/album/1ctBuXXFgblyXuqBzOH5Ue) | 3:24 |
 | 61 | [Contently Miserable](https://open.spotify.com/track/4UqLN94XkgbFuOaYchpBTW) | [Rory Ryan](https://open.spotify.com/artist/4f5o2YhdfEybsyz5pthpdk) | [Contently Miserable](https://open.spotify.com/album/5CrEf5anxeDL0nj2CWPMsT) | 3:35 |
 | 62 | [Driving in My Car](https://open.spotify.com/track/4NcWigh0uMXPKxCdesQWxG) | [George Clanton](https://open.spotify.com/artist/1G5v3lpMz7TeoW0yGpRQHr), [Nick Hexum](https://open.spotify.com/artist/0lXQieFzHiPaeimBBGqAXY) | [George Clanton and Nick Hexum](https://open.spotify.com/album/714XLbWXbM8C6sfaYALRG7) | 3:37 |
 | 63 | [Back Into Your Arms](https://open.spotify.com/track/0RXXhrHZgLinM2Tb8k2ROk) | [RINSE](https://open.spotify.com/artist/2hNslbfAAcYQ8TyejfmIz0), [Hatchie](https://open.spotify.com/artist/3d7MqowTZa2bC5iy1JXLLt) | [Back Into Your Arms](https://open.spotify.com/album/7e9ZaDSUcIgDPM1qm2zlsO) | 4:23 |
@@ -89,4 +89,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6uhsAfngvaD.md) - [plain]
 | 79 | [Blue Arcade](https://open.spotify.com/track/5Id7y5MkbCDY4i81QYpctc) | [Caroline Loveglow](https://open.spotify.com/artist/3j0n7TWGvwhPBMBWPbuasr) | [Blue Arcade](https://open.spotify.com/album/5cd1Eoqh8XtOvrhyDa0Ehd) | 3:37 |
 | 80 | [Run](https://open.spotify.com/track/0nxv9drRoW2CqfCGzpjfKi) | [The Chain Gang Of 1974](https://open.spotify.com/artist/3Qy1IxDSU8SLpUUOfbOpxM) | [Besides](https://open.spotify.com/album/6PV6OH3PUa0BwkpquBZJnm) | 3:34 |
 
-Snapshot ID: `AAAAABboOZmkOJ1P3MHhviNwd6c4f1xO`
+Snapshot ID: `AAAAAHpsCh8MjfegG6yfwo7wI0p2wM3K`

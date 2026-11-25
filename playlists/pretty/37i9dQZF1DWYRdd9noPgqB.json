@@ -1,12 +1,12 @@
 {
   "description": "La playlist qui fait du bien \u2600\ufe0f",
-  "num_followers": 298125,
+  "num_followers": 298123,
   "original_name": "Feel Good",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAIOU62q++ALS7F2K6pQxEuARNLHo",
+  "snapshot_id": "AAAAAFFTq21OxUykvoKGRithcVzta59+",
   "tracks": [
     {
       "added_at": "2026-11-20 18:32:10",
@@ -483,22 +483,6 @@
     {
       "added_at": "2026-11-20 18:32:10",
       "album": {
-        "name": "Welcome to the Mood (Special Edition)",
-        "url": "https://open.spotify.com/album/3DBaYwShtoRDePdSskpsHf"
-      },
-      "artists": [
-        {
-          "name": "LEISURE",
-          "url": "https://open.spotify.com/artist/7b04D0yLktCUpvxQBhmG7R"
-        }
-      ],
-      "duration_ms": 183733,
-      "name": "Island",
-      "url": "https://open.spotify.com/track/3YKwLWmaVqrW6u0eogYXFD"
-    },
-    {
-      "added_at": "2026-11-20 18:32:10",
-      "album": {
         "name": "Don't Remind Me (with Anderson .Paak)",
         "url": "https://open.spotify.com/album/1Z1L15G68wBQU7gG57QXl9"
       },
@@ -515,6 +499,22 @@
       "duration_ms": 218472,
       "name": "Don't Remind Me (with Anderson .Paak)",
       "url": "https://open.spotify.com/track/7zptU3OZqdXe6qsRcpNWiS"
+    },
+    {
+      "added_at": "2026-11-20 18:32:10",
+      "album": {
+        "name": "Welcome to the Mood (Special Edition)",
+        "url": "https://open.spotify.com/album/3DBaYwShtoRDePdSskpsHf"
+      },
+      "artists": [
+        {
+          "name": "LEISURE",
+          "url": "https://open.spotify.com/artist/7b04D0yLktCUpvxQBhmG7R"
+        }
+      ],
+      "duration_ms": 183733,
+      "name": "Island",
+      "url": "https://open.spotify.com/track/3YKwLWmaVqrW6u0eogYXFD"
     },
     {
       "added_at": "2026-11-20 18:32:10",
@@ -731,22 +731,6 @@
     {
       "added_at": "2026-11-20 18:32:10",
       "album": {
-        "name": "All the Space Between",
-        "url": "https://open.spotify.com/album/3SRx26bD51wm9arYPCA0RZ"
-      },
-      "artists": [
-        {
-          "name": "Surfaces",
-          "url": "https://open.spotify.com/artist/4ETSs924pXMzjIeD6E9b4u"
-        }
-      ],
-      "duration_ms": 132840,
-      "name": "Your Way",
-      "url": "https://open.spotify.com/track/1fqWRWfGPBqj5Hfm6bnPIh"
-    },
-    {
-      "added_at": "2026-11-20 18:32:10",
-      "album": {
         "name": "L'AMOUR C'EST COOL",
         "url": "https://open.spotify.com/album/6XHfjkgn0gFB8LB16VFLyq"
       },
@@ -779,6 +763,22 @@
     {
       "added_at": "2026-11-20 18:32:10",
       "album": {
+        "name": "All the Space Between",
+        "url": "https://open.spotify.com/album/3SRx26bD51wm9arYPCA0RZ"
+      },
+      "artists": [
+        {
+          "name": "Surfaces",
+          "url": "https://open.spotify.com/artist/4ETSs924pXMzjIeD6E9b4u"
+        }
+      ],
+      "duration_ms": 132840,
+      "name": "Your Way",
+      "url": "https://open.spotify.com/track/1fqWRWfGPBqj5Hfm6bnPIh"
+    },
+    {
+      "added_at": "2026-11-20 18:32:10",
+      "album": {
         "name": "Come And Get It",
         "url": "https://open.spotify.com/album/57OMmUmjMjPRzxJAqnLLT1"
       },
@@ -803,22 +803,6 @@
     {
       "added_at": "2026-11-20 18:32:10",
       "album": {
-        "name": "These Nights",
-        "url": "https://open.spotify.com/album/46G6H4DrWjY5nn046NEQt7"
-      },
-      "artists": [
-        {
-          "name": "Cannons",
-          "url": "https://open.spotify.com/artist/7FtCyCJCJaxabYO7Uyda5B"
-        }
-      ],
-      "duration_ms": 279183,
-      "name": "These Nights",
-      "url": "https://open.spotify.com/track/2X9VQujRvSFqoKGp8Ye6Ms"
-    },
-    {
-      "added_at": "2026-11-20 18:32:10",
-      "album": {
         "name": "Somebody",
         "url": "https://open.spotify.com/album/4ERzj0QbSR3IgerROEtPKG"
       },
@@ -835,6 +819,22 @@
       "duration_ms": 224240,
       "name": "Somebody",
       "url": "https://open.spotify.com/track/0qyO4rqD2KCnuk8I6GM6KD"
+    },
+    {
+      "added_at": "2026-11-20 18:32:10",
+      "album": {
+        "name": "These Nights",
+        "url": "https://open.spotify.com/album/46G6H4DrWjY5nn046NEQt7"
+      },
+      "artists": [
+        {
+          "name": "Cannons",
+          "url": "https://open.spotify.com/artist/7FtCyCJCJaxabYO7Uyda5B"
+        }
+      ],
+      "duration_ms": 279183,
+      "name": "These Nights",
+      "url": "https://open.spotify.com/track/2X9VQujRvSFqoKGp8Ye6Ms"
     },
     {
       "added_at": "2026-11-20 18:32:10",
@@ -903,6 +903,30 @@
     {
       "added_at": "2026-11-20 18:32:10",
       "album": {
+        "name": "Leave and Stay",
+        "url": "https://open.spotify.com/album/6Lb2xJLvaCZTtK1ytzXaiU"
+      },
+      "artists": [
+        {
+          "name": "NAVENI",
+          "url": "https://open.spotify.com/artist/6SKl45GZWlPXXiRgAP9Kmg"
+        },
+        {
+          "name": "dezabel",
+          "url": "https://open.spotify.com/artist/02qYPfeUvEdhSqLG8ercxJ"
+        },
+        {
+          "name": "Ben Botfield",
+          "url": "https://open.spotify.com/artist/3sLeazIw2jhX90UbaDSYPy"
+        }
+      ],
+      "duration_ms": 180720,
+      "name": "Leave and Stay",
+      "url": "https://open.spotify.com/track/3rstaBH3ZFo0hx25YjoxGg"
+    },
+    {
+      "added_at": "2026-11-20 18:32:10",
+      "album": {
         "name": "Delusional",
         "url": "https://open.spotify.com/album/1RnkE63I6UR3FUTue5OG0a"
       },
@@ -935,30 +959,6 @@
       "duration_ms": 196360,
       "name": "Promises",
       "url": "https://open.spotify.com/track/3rMpx4dIw5OeouWZsc2Ql5"
-    },
-    {
-      "added_at": "2026-11-20 18:32:10",
-      "album": {
-        "name": "Leave and Stay",
-        "url": "https://open.spotify.com/album/6Lb2xJLvaCZTtK1ytzXaiU"
-      },
-      "artists": [
-        {
-          "name": "NAVENI",
-          "url": "https://open.spotify.com/artist/6SKl45GZWlPXXiRgAP9Kmg"
-        },
-        {
-          "name": "dezabel",
-          "url": "https://open.spotify.com/artist/02qYPfeUvEdhSqLG8ercxJ"
-        },
-        {
-          "name": "Ben Botfield",
-          "url": "https://open.spotify.com/artist/3sLeazIw2jhX90UbaDSYPy"
-        }
-      ],
-      "duration_ms": 180720,
-      "name": "Leave and Stay",
-      "url": "https://open.spotify.com/track/3rstaBH3ZFo0hx25YjoxGg"
     },
     {
       "added_at": "2026-11-20 18:32:10",
@@ -1063,22 +1063,6 @@
     {
       "added_at": "2026-11-20 18:32:10",
       "album": {
-        "name": "Oscillare",
-        "url": "https://open.spotify.com/album/2D6v55SUNu1Rz3govAtx08"
-      },
-      "artists": [
-        {
-          "name": "Valentino Vivace",
-          "url": "https://open.spotify.com/artist/0CHQ6qjh2bf79lPEE6zRUf"
-        }
-      ],
-      "duration_ms": 207028,
-      "name": "Chiara",
-      "url": "https://open.spotify.com/track/2VhPjIXLBE3KPx7WI71gU9"
-    },
-    {
-      "added_at": "2026-11-20 18:32:10",
-      "album": {
         "name": "Hair Down",
         "url": "https://open.spotify.com/album/63k0s6k9wWu2QMutLrocu4"
       },
@@ -1091,6 +1075,22 @@
       "duration_ms": 191580,
       "name": "Hair Down",
       "url": "https://open.spotify.com/track/2tP73L31LHxJAZs3L8HMnp"
+    },
+    {
+      "added_at": "2026-11-20 18:32:10",
+      "album": {
+        "name": "Oscillare",
+        "url": "https://open.spotify.com/album/2D6v55SUNu1Rz3govAtx08"
+      },
+      "artists": [
+        {
+          "name": "Valentino Vivace",
+          "url": "https://open.spotify.com/artist/0CHQ6qjh2bf79lPEE6zRUf"
+        }
+      ],
+      "duration_ms": 207028,
+      "name": "Chiara",
+      "url": "https://open.spotify.com/track/2VhPjIXLBE3KPx7WI71gU9"
     },
     {
       "added_at": "2026-11-20 18:32:10",

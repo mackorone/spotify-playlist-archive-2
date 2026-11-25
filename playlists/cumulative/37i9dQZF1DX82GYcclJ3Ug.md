@@ -4,7 +4,7 @@
 
 > No rules\. No boundaries\. The best new alternative tracks\. Cover: bby
 
-4,180 songs - 9 day 15 hr 19 min
+4,181 songs - 9 day 15 hr 23 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -291,6 +291,7 @@
 | [Back Inside My Heart](https://open.spotify.com/track/1QPURD07gE0FWIFbaBmkv3) | [Lucia & The Best Boys](https://open.spotify.com/artist/3hihvmS048d6bb8YlZaTU1) | [Picking Petals](https://open.spotify.com/album/2sc3QU5bC4udHQaPW86iBX) | 3:32 | 2026-07-31 | 2026-09-12 |
 | [Back Of My Hand](https://open.spotify.com/track/45WQmEMvZMy3a90XbRWbbB) | [The Belair Lip Bombs](https://open.spotify.com/artist/6viWvP8YChO4DcOi1BpNvT) | [Back Of My Hand](https://open.spotify.com/album/1B5ulSel2ojBJKhm2YMelp) | 3:26 | 2025-10-10 | 2026-01-31 |
 | [Back There Now](https://open.spotify.com/track/4vsNXG1IRFMU3dg4BZAeui) | [Charly Bliss](https://open.spotify.com/artist/7axA2bNeZsae6t2mgxoSFh) | [Back There Now](https://open.spotify.com/album/6Q7j1Y8e3EZuHhHy7cfmJU) | 2:28 | 2024-08-16 | 2024-09-28 |
+| [Back To Basics](https://open.spotify.com/track/6OTQqhYW7LSbAV7NJwKAP3) | [Nieve Ella](https://open.spotify.com/artist/14zhvja4OxwrmivOB3LHOn) | [How Long Will It Take?](https://open.spotify.com/album/59SbHFKM5vJ07NLFurCsq5) | 4:19 | 2026-11-24 |  |
 | [back to friends](https://open.spotify.com/track/0FTmksd2dxiE5e3rWyJXs6) | [sombr](https://open.spotify.com/artist/4G9NDjRyZFDlJKMRL8hx3S) | [back to friends](https://open.spotify.com/album/0QLILSOq1IqAqx62drmv4E) | 3:19 | 2024-12-27 | 2025-03-22 |
 | [Back To Me](https://open.spotify.com/track/4E0P1xs3JNmsNr5c5nFTZJ) | [The Marías](https://open.spotify.com/artist/2sSGPbdZJkaSE2AbcGOACx) | [Back To Me](https://open.spotify.com/album/3y8LtE30zPfQ4sXYRKvt2e) | 3:34 | 2025-04-04 | 2025-09-13 |
 | [Back To Zero](https://open.spotify.com/track/7u3HEtyys6PVt1zb2Ic1xe) | [Bad Suns](https://open.spotify.com/artist/0YhUSm86okLWldQVwJkLlP) | [Accelerator](https://open.spotify.com/album/4i0iOSCLFnHaixngInqoGF) | 3:41 | 2025-08-08 | 2025-09-13 |

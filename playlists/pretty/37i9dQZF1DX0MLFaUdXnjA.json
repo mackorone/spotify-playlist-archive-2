@@ -1,12 +1,12 @@
 {
   "description": "Sit back and relax to the chillest pop.  Cover: Say Now",
-  "num_followers": 1751636,
+  "num_followers": 1751338,
   "original_name": "Chill Pop",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAMLtDZ5lmB058TstdaEoLmoWasjZ",
+  "snapshot_id": "AAAAAPI8NL7WVgqemTXlN5+VL6VnRFD/",
   "tracks": [
     {
       "added_at": "2026-11-13 05:00:09",
@@ -25,36 +25,36 @@
       "url": "https://open.spotify.com/track/1F7xMt8gQywT4aJ2Vi8eZj"
     },
     {
-      "added_at": "2026-10-16 04:01:35",
+      "added_at": "2026-11-25 00:16:49",
       "album": {
-        "name": "The Girl Of Your Dreams",
-        "url": "https://open.spotify.com/album/03HD0ohJOvejRoesXWKZFl"
+        "name": "Grand Theft Auto VI: The Album",
+        "url": "https://open.spotify.com/album/5BYKG4MHfySZthe2W6r7n4"
       },
       "artists": [
         {
-          "name": "Ashe",
-          "url": "https://open.spotify.com/artist/6P5NO5hzJbuOqSdyPB7SJM"
+          "name": "Lana Del Rey",
+          "url": "https://open.spotify.com/artist/00FQb4jTyendYWaN8pK0wa"
         }
       ],
-      "duration_ms": 226131,
-      "name": "Blue Hour",
-      "url": "https://open.spotify.com/track/5160pPOgK5vibNMtePxA3R"
+      "duration_ms": 223683,
+      "name": "Crazy For You",
+      "url": "https://open.spotify.com/track/7atOpwxr1aIeRlyGEPNn0C"
     },
     {
-      "added_at": "2026-10-16 04:01:35",
+      "added_at": "2026-11-25 00:16:49",
       "album": {
-        "name": "Unloveu",
-        "url": "https://open.spotify.com/album/58745aGSmbG4rHAxveiJww"
+        "name": "Mud",
+        "url": "https://open.spotify.com/album/19cvoEE5d3pMkxLFL5TsAG"
       },
       "artists": [
         {
-          "name": "KATSEYE",
-          "url": "https://open.spotify.com/artist/3c0gDdb9lhnHGFtP4prQpn"
+          "name": "Remi Wolf",
+          "url": "https://open.spotify.com/artist/0NB5HROxc8dDBXpkIi1v3d"
         }
       ],
-      "duration_ms": 232527,
-      "name": "Unloveu",
-      "url": "https://open.spotify.com/track/51jUUdOdGqf0VeGtFOTbRe"
+      "duration_ms": 260146,
+      "name": "I Won\u2019t Cry",
+      "url": "https://open.spotify.com/track/6JtquM5z5dHAasE2FneWgP"
     },
     {
       "added_at": "2026-11-13 05:00:09",
@@ -73,36 +73,52 @@
       "url": "https://open.spotify.com/track/37GUzBOW6gbF68KIAFnjh6"
     },
     {
-      "added_at": "2026-11-13 05:00:09",
+      "added_at": "2026-10-16 04:01:35",
       "album": {
-        "name": "Without My Strings",
-        "url": "https://open.spotify.com/album/75ICiuYySDUpwRAU6I9h3E"
+        "name": "The Girl Of Your Dreams",
+        "url": "https://open.spotify.com/album/03HD0ohJOvejRoesXWKZFl"
       },
       "artists": [
         {
-          "name": "Alec Benjamin",
-          "url": "https://open.spotify.com/artist/5IH6FPUwQTxPSXurCrcIov"
+          "name": "Ashe",
+          "url": "https://open.spotify.com/artist/6P5NO5hzJbuOqSdyPB7SJM"
         }
       ],
-      "duration_ms": 190947,
-      "name": "Without My Strings",
-      "url": "https://open.spotify.com/track/32oNxFi2dBftVTPKsMJcpc"
+      "duration_ms": 226131,
+      "name": "Blue Hour",
+      "url": "https://open.spotify.com/track/5160pPOgK5vibNMtePxA3R"
     },
     {
-      "added_at": "2026-10-02 04:00:41",
+      "added_at": "2026-11-25 00:16:49",
       "album": {
-        "name": "worst case",
-        "url": "https://open.spotify.com/album/1AhPEMq3UKAxsOzzC58SD4"
+        "name": "Best Side",
+        "url": "https://open.spotify.com/album/5QprJDJnK5D2aF8JQOKJSZ"
       },
       "artists": [
         {
-          "name": "Chelsea Jordan",
-          "url": "https://open.spotify.com/artist/6AO3in7TlN2ab2o5Cq5lrs"
+          "name": "SAINT KID",
+          "url": "https://open.spotify.com/artist/6wNRpXdQs13mKyXxyVFvxP"
         }
       ],
-      "duration_ms": 193301,
-      "name": "worst case",
-      "url": "https://open.spotify.com/track/7Ma1yFac4us8oeH9dUFcRe"
+      "duration_ms": 160000,
+      "name": "Best Side",
+      "url": "https://open.spotify.com/track/50wLKXDXClDT8wkFa2bihl"
+    },
+    {
+      "added_at": "2026-10-16 04:01:35",
+      "album": {
+        "name": "Unloveu",
+        "url": "https://open.spotify.com/album/58745aGSmbG4rHAxveiJww"
+      },
+      "artists": [
+        {
+          "name": "KATSEYE",
+          "url": "https://open.spotify.com/artist/3c0gDdb9lhnHGFtP4prQpn"
+        }
+      ],
+      "duration_ms": 232527,
+      "name": "Unloveu",
+      "url": "https://open.spotify.com/track/51jUUdOdGqf0VeGtFOTbRe"
     },
     {
       "added_at": "2026-10-23 04:02:23",
@@ -121,6 +137,102 @@
       "url": "https://open.spotify.com/track/6btmjh1p327BMAJAczq9Lf"
     },
     {
+      "added_at": "2026-11-25 00:16:49",
+      "album": {
+        "name": "Leave With Me (Featured in Always Lalisa)",
+        "url": "https://open.spotify.com/album/4HlM53Ct0IOnrRdWLAGmAn"
+      },
+      "artists": [
+        {
+          "name": "LISA",
+          "url": "https://open.spotify.com/artist/5L1lO4eRHmJ7a0Q6csE5cT"
+        }
+      ],
+      "duration_ms": 184788,
+      "name": "Leave With Me",
+      "url": "https://open.spotify.com/track/6SDT6lj8sVzFK0o8UI2Y2G"
+    },
+    {
+      "added_at": "2026-10-23 04:02:23",
+      "album": {
+        "name": "Visitor",
+        "url": "https://open.spotify.com/album/1Aye7tEOHfJ3hDJIeJFggF"
+      },
+      "artists": [
+        {
+          "name": "SIENNA SPIRO",
+          "url": "https://open.spotify.com/artist/02gSuSAWEdWa5UOvqzjX6v"
+        }
+      ],
+      "duration_ms": 173975,
+      "name": "Great Expectation",
+      "url": "https://open.spotify.com/track/7ujApz6iFP3PmKIDGcaGbe"
+    },
+    {
+      "added_at": "2026-11-25 00:16:49",
+      "album": {
+        "name": "A PLACE TO GO",
+        "url": "https://open.spotify.com/album/5DievKzmlCMzHlE2mqB68S"
+      },
+      "artists": [
+        {
+          "name": "The Kid LAROI",
+          "url": "https://open.spotify.com/artist/2tIP7SsRs7vjIcLrU85W8J"
+        }
+      ],
+      "duration_ms": 212000,
+      "name": "A PLACE TO GO",
+      "url": "https://open.spotify.com/track/1sCi4rGpZTqajyJufnrbhb"
+    },
+    {
+      "added_at": "2026-11-13 05:00:09",
+      "album": {
+        "name": "Without My Strings",
+        "url": "https://open.spotify.com/album/75ICiuYySDUpwRAU6I9h3E"
+      },
+      "artists": [
+        {
+          "name": "Alec Benjamin",
+          "url": "https://open.spotify.com/artist/5IH6FPUwQTxPSXurCrcIov"
+        }
+      ],
+      "duration_ms": 190947,
+      "name": "Without My Strings",
+      "url": "https://open.spotify.com/track/32oNxFi2dBftVTPKsMJcpc"
+    },
+    {
+      "added_at": "2026-11-25 00:16:49",
+      "album": {
+        "name": "Even Roses Die",
+        "url": "https://open.spotify.com/album/3gia3qjf17hWWBLygoBST2"
+      },
+      "artists": [
+        {
+          "name": "Sarah Lola",
+          "url": "https://open.spotify.com/artist/1BLuDhATwVggi6ciHsgNNe"
+        }
+      ],
+      "duration_ms": 141497,
+      "name": "Even Roses Die",
+      "url": "https://open.spotify.com/track/7boIu5FtLrXwEpkkU3t9Gw"
+    },
+    {
+      "added_at": "2026-10-02 04:00:41",
+      "album": {
+        "name": "worst case",
+        "url": "https://open.spotify.com/album/1AhPEMq3UKAxsOzzC58SD4"
+      },
+      "artists": [
+        {
+          "name": "Chelsea Jordan",
+          "url": "https://open.spotify.com/artist/6AO3in7TlN2ab2o5Cq5lrs"
+        }
+      ],
+      "duration_ms": 193301,
+      "name": "worst case",
+      "url": "https://open.spotify.com/track/7Ma1yFac4us8oeH9dUFcRe"
+    },
+    {
       "added_at": "2026-11-13 05:00:09",
       "album": {
         "name": "HERE NOW / FRANK",
@@ -135,6 +247,38 @@
       "duration_ms": 167269,
       "name": "HERE NOW",
       "url": "https://open.spotify.com/track/2DKudvFN7v0ppq0nFPZb8i"
+    },
+    {
+      "added_at": "2026-10-16 04:01:35",
+      "album": {
+        "name": "Serendipity",
+        "url": "https://open.spotify.com/album/3MBvaSHJ6OjxcIo39Bz5Qo"
+      },
+      "artists": [
+        {
+          "name": "Mel Raeburn",
+          "url": "https://open.spotify.com/artist/1CWlz48famjsJ93jCyxgNj"
+        }
+      ],
+      "duration_ms": 202750,
+      "name": "Serendipity",
+      "url": "https://open.spotify.com/track/3NiKbi4pbAq7BIv5SGTC5d"
+    },
+    {
+      "added_at": "2026-11-25 00:16:49",
+      "album": {
+        "name": "Love Language",
+        "url": "https://open.spotify.com/album/1X6BLPFIeELLwBVwxYz2yD"
+      },
+      "artists": [
+        {
+          "name": "Sugababes",
+          "url": "https://open.spotify.com/artist/7rZNSLWMjTbwdLNskFbzFf"
+        }
+      ],
+      "duration_ms": 213248,
+      "name": "Love Language",
+      "url": "https://open.spotify.com/track/2F2VcPy01p1rRUdvwnXMpc"
     },
     {
       "added_at": "2026-11-13 05:00:09",
@@ -169,38 +313,6 @@
       "url": "https://open.spotify.com/track/5cFVITQoaMtt6pMZQav5JC"
     },
     {
-      "added_at": "2026-10-23 04:02:23",
-      "album": {
-        "name": "Visitor",
-        "url": "https://open.spotify.com/album/1Aye7tEOHfJ3hDJIeJFggF"
-      },
-      "artists": [
-        {
-          "name": "SIENNA SPIRO",
-          "url": "https://open.spotify.com/artist/02gSuSAWEdWa5UOvqzjX6v"
-        }
-      ],
-      "duration_ms": 173975,
-      "name": "Great Expectation",
-      "url": "https://open.spotify.com/track/7ujApz6iFP3PmKIDGcaGbe"
-    },
-    {
-      "added_at": "2026-10-23 04:02:23",
-      "album": {
-        "name": "Passion Isn't Rare",
-        "url": "https://open.spotify.com/album/7Iehhp14cGzyFbsl9suqCv"
-      },
-      "artists": [
-        {
-          "name": "Sarah Lola",
-          "url": "https://open.spotify.com/artist/1BLuDhATwVggi6ciHsgNNe"
-        }
-      ],
-      "duration_ms": 190828,
-      "name": "Passion Isn't Rare",
-      "url": "https://open.spotify.com/track/42J7aNa2mO69y98CQRdFis"
-    },
-    {
       "added_at": "2026-10-30 04:01:40",
       "album": {
         "name": "your hand in mine",
@@ -215,6 +327,38 @@
       "duration_ms": 177270,
       "name": "your hand in mine",
       "url": "https://open.spotify.com/track/77MB8bA6c2fUHVgUD2SeI5"
+    },
+    {
+      "added_at": "2026-11-25 00:16:49",
+      "album": {
+        "name": "Back To Me",
+        "url": "https://open.spotify.com/album/16dAtPh8XVKMbfiLcgZyiq"
+      },
+      "artists": [
+        {
+          "name": "Na\u00efka",
+          "url": "https://open.spotify.com/artist/4tk2WUKBOS9nKZj7bPQIXT"
+        }
+      ],
+      "duration_ms": 185680,
+      "name": "Back To Me",
+      "url": "https://open.spotify.com/track/5uvjVYv3FKBNnGkR8mnHws"
+    },
+    {
+      "added_at": "2026-10-30 04:01:40",
+      "album": {
+        "name": "late night swim",
+        "url": "https://open.spotify.com/album/0CAveqPzg7lnQbqXhF9t35"
+      },
+      "artists": [
+        {
+          "name": "Niko Rubio",
+          "url": "https://open.spotify.com/artist/6XdCL1kwMFNqPim2JwXjKa"
+        }
+      ],
+      "duration_ms": 141339,
+      "name": "birds and butterflies",
+      "url": "https://open.spotify.com/track/457q8IJ3Xnf3NevjFn2FSo"
     },
     {
       "added_at": "2026-10-30 04:01:40",
@@ -251,22 +395,6 @@
       "duration_ms": 166800,
       "name": "Another You (feat. Sadie Jean)",
       "url": "https://open.spotify.com/track/26bOxdCaS6ESsR2NR4xq41"
-    },
-    {
-      "added_at": "2026-10-30 04:01:40",
-      "album": {
-        "name": "late night swim",
-        "url": "https://open.spotify.com/album/0CAveqPzg7lnQbqXhF9t35"
-      },
-      "artists": [
-        {
-          "name": "Niko Rubio",
-          "url": "https://open.spotify.com/artist/6XdCL1kwMFNqPim2JwXjKa"
-        }
-      ],
-      "duration_ms": 141339,
-      "name": "birds and butterflies",
-      "url": "https://open.spotify.com/track/457q8IJ3Xnf3NevjFn2FSo"
     },
     {
       "added_at": "2026-10-23 04:02:23",
@@ -353,22 +481,6 @@
       "url": "https://open.spotify.com/track/5lkAV2SAqgSXN0L2VrNiSi"
     },
     {
-      "added_at": "2026-09-04 04:02:38",
-      "album": {
-        "name": "Funeral",
-        "url": "https://open.spotify.com/album/2VHfWdrPP2EgETjiaGBIY6"
-      },
-      "artists": [
-        {
-          "name": "Ashe",
-          "url": "https://open.spotify.com/artist/6P5NO5hzJbuOqSdyPB7SJM"
-        }
-      ],
-      "duration_ms": 212547,
-      "name": "Funeral",
-      "url": "https://open.spotify.com/track/6LdPN8UPj0Ne9Reg6XkDyO"
-    },
-    {
       "added_at": "2026-10-16 04:01:35",
       "album": {
         "name": "When Saturn Returns",
@@ -399,54 +511,6 @@
       "duration_ms": 215246,
       "name": "Tell Me I'm Beautiful",
       "url": "https://open.spotify.com/track/3NMpis16saqwH4bTKbkmDi"
-    },
-    {
-      "added_at": "2026-10-16 04:01:35",
-      "album": {
-        "name": "late night swim",
-        "url": "https://open.spotify.com/album/0CAveqPzg7lnQbqXhF9t35"
-      },
-      "artists": [
-        {
-          "name": "Niko Rubio",
-          "url": "https://open.spotify.com/artist/6XdCL1kwMFNqPim2JwXjKa"
-        }
-      ],
-      "duration_ms": 235852,
-      "name": "all i want is you",
-      "url": "https://open.spotify.com/track/0l3KugO5YCnelDQs44rfWO"
-    },
-    {
-      "added_at": "2026-10-16 04:01:35",
-      "album": {
-        "name": "Serendipity",
-        "url": "https://open.spotify.com/album/3MBvaSHJ6OjxcIo39Bz5Qo"
-      },
-      "artists": [
-        {
-          "name": "Mel Raeburn",
-          "url": "https://open.spotify.com/artist/1CWlz48famjsJ93jCyxgNj"
-        }
-      ],
-      "duration_ms": 202750,
-      "name": "Serendipity",
-      "url": "https://open.spotify.com/track/3NiKbi4pbAq7BIv5SGTC5d"
-    },
-    {
-      "added_at": "2026-10-09 04:00:52",
-      "album": {
-        "name": "Dream I Shouldn't Have",
-        "url": "https://open.spotify.com/album/0LXCFNJvK8o48kMxi6q2BK"
-      },
-      "artists": [
-        {
-          "name": "JP Saxe",
-          "url": "https://open.spotify.com/artist/66W9LaWS0DPdL7Sz8iYGYe"
-        }
-      ],
-      "duration_ms": 248595,
-      "name": "Dream I Shouldn't Have",
-      "url": "https://open.spotify.com/track/5tOBFpHf6F4WHtspB4I408"
     },
     {
       "added_at": "2026-10-16 04:01:35",
@@ -849,46 +913,6 @@
       "url": "https://open.spotify.com/track/6IfO15ZbPrp48eCq8Zkmsk"
     },
     {
-      "added_at": "2026-09-25 04:03:19",
-      "album": {
-        "name": "Our Year",
-        "url": "https://open.spotify.com/album/2g1D6JBcSrCBMnj3eQOVft"
-      },
-      "artists": [
-        {
-          "name": "Tegan and Sara",
-          "url": "https://open.spotify.com/artist/5e1BZulIiYWPRm8yogwUYH"
-        },
-        {
-          "name": "Lights",
-          "url": "https://open.spotify.com/artist/5pdyjBIaY5o1yOyexGIUc6"
-        },
-        {
-          "name": "Felix Cartal",
-          "url": "https://open.spotify.com/artist/6roDXEmZ6AARdOUv6x5U2v"
-        }
-      ],
-      "duration_ms": 159226,
-      "name": "Our Year",
-      "url": "https://open.spotify.com/track/4faHxt98lvOrv4InWwgR6U"
-    },
-    {
-      "added_at": "2026-09-18 04:30:07",
-      "album": {
-        "name": "Someday",
-        "url": "https://open.spotify.com/album/6eVxuJTo3x3Fa9BmsPMMEt"
-      },
-      "artists": [
-        {
-          "name": "JP Saxe",
-          "url": "https://open.spotify.com/artist/66W9LaWS0DPdL7Sz8iYGYe"
-        }
-      ],
-      "duration_ms": 182356,
-      "name": "Someday",
-      "url": "https://open.spotify.com/track/5L8rxFzRbcFshJ0e8pmAIB"
-    },
-    {
       "added_at": "2026-08-21 04:00:20",
       "album": {
         "name": "Long Way Home",
@@ -1033,22 +1057,6 @@
       "url": "https://open.spotify.com/track/35YsfwRJ3rC5atc0RZE8HV"
     },
     {
-      "added_at": "2026-08-21 04:00:20",
-      "album": {
-        "name": "Haunt Me",
-        "url": "https://open.spotify.com/album/5egF45sAEJvROyvQlomzio"
-      },
-      "artists": [
-        {
-          "name": "Matilda Mann",
-          "url": "https://open.spotify.com/artist/76oY04bOzECod3aGVTDtzu"
-        }
-      ],
-      "duration_ms": 250400,
-      "name": "Haunt Me",
-      "url": "https://open.spotify.com/track/2LDLjL9TEy9HQqznnDaH3M"
-    },
-    {
       "added_at": "2026-08-28 04:02:54",
       "album": {
         "name": "Show Me How",
@@ -1145,22 +1153,6 @@
       "url": "https://open.spotify.com/track/11GUkH18CKNFLKCHORkceJ"
     },
     {
-      "added_at": "2026-08-14 04:00:11",
-      "album": {
-        "name": "Why It\u2019s Me",
-        "url": "https://open.spotify.com/album/6fFQvbElISzfZLDXQzZFg9"
-      },
-      "artists": [
-        {
-          "name": "Paige Fish",
-          "url": "https://open.spotify.com/artist/10djoaqJLN6H4oORnKJ63P"
-        }
-      ],
-      "duration_ms": 165548,
-      "name": "Why It\u2019s Me",
-      "url": "https://open.spotify.com/track/5lAbeVyXLLvTJ2emBdYZkF"
-    },
-    {
       "added_at": "2026-08-21 04:00:20",
       "album": {
         "name": "THIS TIME OF THE YEAR",
@@ -1209,22 +1201,6 @@
       "url": "https://open.spotify.com/track/6NXm804iftHe3VKuKHSH4O"
     },
     {
-      "added_at": "2026-08-21 04:00:20",
-      "album": {
-        "name": "Just One",
-        "url": "https://open.spotify.com/album/7AN86MDBZRLWAHK8tBUSCy"
-      },
-      "artists": [
-        {
-          "name": "Olivia C. Dacal",
-          "url": "https://open.spotify.com/artist/5UQMb52W2mfhkLJSJUzRAa"
-        }
-      ],
-      "duration_ms": 192480,
-      "name": "Just One",
-      "url": "https://open.spotify.com/track/7fkiuT1MZ91yk8i91zRni8"
-    },
-    {
       "added_at": "2026-08-07 05:13:34",
       "album": {
         "name": "Catch n' Release",
@@ -1255,38 +1231,6 @@
       "duration_ms": 230637,
       "name": "Easy",
       "url": "https://open.spotify.com/track/1KGo4UjjOJJOJWOTtfB30u"
-    },
-    {
-      "added_at": "2026-07-22 18:23:34",
-      "album": {
-        "name": "Asleep Talking",
-        "url": "https://open.spotify.com/album/5zj7gmiu7g1xDyHbs5yUX3"
-      },
-      "artists": [
-        {
-          "name": "Magnus Ferrell",
-          "url": "https://open.spotify.com/artist/5CljSCTqoS1Yu0tNJZJcKe"
-        }
-      ],
-      "duration_ms": 156329,
-      "name": "Asleep Talking",
-      "url": "https://open.spotify.com/track/7CY8b7fwDQfYvlRegNGITC"
-    },
-    {
-      "added_at": "2026-08-07 05:11:51",
-      "album": {
-        "name": "4 Seasons",
-        "url": "https://open.spotify.com/album/047IMuHZhdPJ8vsTED0lwD"
-      },
-      "artists": [
-        {
-          "name": "Ellie Goulding",
-          "url": "https://open.spotify.com/artist/0X2BH1fck6amBIoJhDVmmJ"
-        }
-      ],
-      "duration_ms": 217069,
-      "name": "4 Seasons",
-      "url": "https://open.spotify.com/track/2IGJRTV2O1ICf6V0Y2Ku8v"
     },
     {
       "added_at": "2026-07-24 04:02:38",
@@ -1335,26 +1279,6 @@
       "duration_ms": 223332,
       "name": "Mexico Honey",
       "url": "https://open.spotify.com/track/7xKr077iMufVJwge6aO9xJ"
-    },
-    {
-      "added_at": "2026-08-07 05:11:51",
-      "album": {
-        "name": "Feel Like That (feat. JP Saxe)",
-        "url": "https://open.spotify.com/album/0tOApcOZE9rb7VIy3rPMs6"
-      },
-      "artists": [
-        {
-          "name": "Lawrence",
-          "url": "https://open.spotify.com/artist/5rwUYLyUq8gBsVaOUcUxpE"
-        },
-        {
-          "name": "JP Saxe",
-          "url": "https://open.spotify.com/artist/66W9LaWS0DPdL7Sz8iYGYe"
-        }
-      ],
-      "duration_ms": 142000,
-      "name": "Feel Like That (feat. JP Saxe)",
-      "url": "https://open.spotify.com/track/76xg7dQSTHprdcJOjVYJbk"
     },
     {
       "added_at": "2026-07-17 04:06:59",
@@ -1515,22 +1439,6 @@
       "duration_ms": 146217,
       "name": "Super Superficial",
       "url": "https://open.spotify.com/track/04Dkv6Mde5HWHPiH4hdtfN"
-    },
-    {
-      "added_at": "2026-05-22 04:01:51",
-      "album": {
-        "name": "Debbie Don't Cry",
-        "url": "https://open.spotify.com/album/0KAcTbk2NXPCztnWzUkYGT"
-      },
-      "artists": [
-        {
-          "name": "Ruel",
-          "url": "https://open.spotify.com/artist/5xkAtLTf309LAGZTbvULBn"
-        }
-      ],
-      "duration_ms": 180128,
-      "name": "Debbie Don't Cry",
-      "url": "https://open.spotify.com/track/4yO2xMadKaCLKlP6gT4gVi"
     },
     {
       "added_at": "2026-05-22 04:01:51",

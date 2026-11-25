@@ -1,12 +1,12 @@
 {
   "description": "This is Kelsea Ballerini. The essential tracks, all in one playlist.",
-  "num_followers": 102100,
+  "num_followers": 102091,
   "original_name": "This Is Kelsea Ballerini",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "awIwgAAAAACC+SXMNNBjWcT21HBJ0UTq",
+  "snapshot_id": "awOCAAAAAACBVSGxUqIRcKAEDB0mCwsV",
   "tracks": [
     {
       "added_at": null,
@@ -235,6 +235,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Rolling Up the Welcome Mat (For Good)",
+        "url": "https://open.spotify.com/album/09eLFhImEeeEDKlaLznMOv"
+      },
+      "artists": [
+        {
+          "name": "Kelsea Ballerini",
+          "url": "https://open.spotify.com/artist/3RqBeV12Tt7A8xH3zBDDUF"
+        }
+      ],
+      "duration_ms": 167013,
+      "name": "Blindsided (Yeah, Sure, Okay)",
+      "url": "https://open.spotify.com/track/65eeFF3JE3YytATkV5Ga1Y"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "PATTERNS Commentary Album",
         "url": "https://open.spotify.com/album/0Py8hbFZ9QhI2gPEqzbla1"
       },
@@ -255,22 +271,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Rolling Up the Welcome Mat (For Good)",
-        "url": "https://open.spotify.com/album/09eLFhImEeeEDKlaLznMOv"
-      },
-      "artists": [
-        {
-          "name": "Kelsea Ballerini",
-          "url": "https://open.spotify.com/artist/3RqBeV12Tt7A8xH3zBDDUF"
-        }
-      ],
-      "duration_ms": 167013,
-      "name": "Blindsided (Yeah, Sure, Okay)",
-      "url": "https://open.spotify.com/track/65eeFF3JE3YytATkV5Ga1Y"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Mount Pleasant",
         "url": "https://open.spotify.com/album/2jvpJVr7HjZh61bEyp5gKC"
       },
@@ -283,6 +283,54 @@
       "duration_ms": 136746,
       "name": "Emerald City",
       "url": "https://open.spotify.com/track/2W6KXuxXkZHhdsfMiYkFi2"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "The First Time",
+        "url": "https://open.spotify.com/album/4smRLX0wglNhMXGyahWuUf"
+      },
+      "artists": [
+        {
+          "name": "Kelsea Ballerini",
+          "url": "https://open.spotify.com/artist/3RqBeV12Tt7A8xH3zBDDUF"
+        }
+      ],
+      "duration_ms": 194413,
+      "name": "Yeah Boy",
+      "url": "https://open.spotify.com/track/2WaOQWSv0D1tZNxyLvnGAI"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Rolling Up the Welcome Mat (For Good)",
+        "url": "https://open.spotify.com/album/09eLFhImEeeEDKlaLznMOv"
+      },
+      "artists": [
+        {
+          "name": "Kelsea Ballerini",
+          "url": "https://open.spotify.com/artist/3RqBeV12Tt7A8xH3zBDDUF"
+        }
+      ],
+      "duration_ms": 171240,
+      "name": "How Do I Do This",
+      "url": "https://open.spotify.com/track/2I3LMMYVOZBsnAkHmKaSke"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "PATTERNS Commentary Album",
+        "url": "https://open.spotify.com/album/0Py8hbFZ9QhI2gPEqzbla1"
+      },
+      "artists": [
+        {
+          "name": "Kelsea Ballerini",
+          "url": "https://open.spotify.com/artist/3RqBeV12Tt7A8xH3zBDDUF"
+        }
+      ],
+      "duration_ms": 165786,
+      "name": "We Broke Up",
+      "url": "https://open.spotify.com/track/2XkuUsSPNBS8m079N8T5zH"
     },
     {
       "added_at": null,
@@ -307,8 +355,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "PATTERNS Commentary Album",
-        "url": "https://open.spotify.com/album/0Py8hbFZ9QhI2gPEqzbla1"
+        "name": "The First Time",
+        "url": "https://open.spotify.com/album/4smRLX0wglNhMXGyahWuUf"
       },
       "artists": [
         {
@@ -316,9 +364,9 @@
           "url": "https://open.spotify.com/artist/3RqBeV12Tt7A8xH3zBDDUF"
         }
       ],
-      "duration_ms": 165786,
-      "name": "We Broke Up",
-      "url": "https://open.spotify.com/track/2XkuUsSPNBS8m079N8T5zH"
+      "duration_ms": 183946,
+      "name": "Dibs",
+      "url": "https://open.spotify.com/track/6FWrlXo99QRmPtOeUSWDjv"
     },
     {
       "added_at": null,
@@ -332,25 +380,9 @@
           "url": "https://open.spotify.com/artist/3RqBeV12Tt7A8xH3zBDDUF"
         }
       ],
-      "duration_ms": 171240,
-      "name": "How Do I Do This",
-      "url": "https://open.spotify.com/track/2I3LMMYVOZBsnAkHmKaSke"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "The First Time",
-        "url": "https://open.spotify.com/album/4smRLX0wglNhMXGyahWuUf"
-      },
-      "artists": [
-        {
-          "name": "Kelsea Ballerini",
-          "url": "https://open.spotify.com/artist/3RqBeV12Tt7A8xH3zBDDUF"
-        }
-      ],
-      "duration_ms": 194413,
-      "name": "Yeah Boy",
-      "url": "https://open.spotify.com/track/2WaOQWSv0D1tZNxyLvnGAI"
+      "duration_ms": 177920,
+      "name": "Mountain With A View",
+      "url": "https://open.spotify.com/track/3Uq2F5YXXDui1m55h7r6JF"
     },
     {
       "added_at": null,
@@ -391,38 +423,6 @@
       "duration_ms": 144243,
       "name": "if we never met (feat. Kelsea Ballerini)",
       "url": "https://open.spotify.com/track/5vDA0WiwxOzj4AJDKDl1Bz"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Rolling Up the Welcome Mat (For Good)",
-        "url": "https://open.spotify.com/album/09eLFhImEeeEDKlaLznMOv"
-      },
-      "artists": [
-        {
-          "name": "Kelsea Ballerini",
-          "url": "https://open.spotify.com/artist/3RqBeV12Tt7A8xH3zBDDUF"
-        }
-      ],
-      "duration_ms": 177920,
-      "name": "Mountain With A View",
-      "url": "https://open.spotify.com/track/3Uq2F5YXXDui1m55h7r6JF"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "The First Time",
-        "url": "https://open.spotify.com/album/4smRLX0wglNhMXGyahWuUf"
-      },
-      "artists": [
-        {
-          "name": "Kelsea Ballerini",
-          "url": "https://open.spotify.com/artist/3RqBeV12Tt7A8xH3zBDDUF"
-        }
-      ],
-      "duration_ms": 183946,
-      "name": "Dibs",
-      "url": "https://open.spotify.com/track/6FWrlXo99QRmPtOeUSWDjv"
     },
     {
       "added_at": null,
@@ -679,22 +679,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "Girl Of My Dreams (Deluxe)",
-        "url": "https://open.spotify.com/album/5KbQGzcWL7VgTeLqjftNWH"
+        "name": "PATTERNS (DELUXE)",
+        "url": "https://open.spotify.com/album/426ni1U6MsUtpxmvtXgLhn"
       },
       "artists": [
-        {
-          "name": "FLETCHER",
-          "url": "https://open.spotify.com/artist/5qa31A9HySw3T7MKWI9bGg"
-        },
         {
           "name": "Kelsea Ballerini",
           "url": "https://open.spotify.com/artist/3RqBeV12Tt7A8xH3zBDDUF"
         }
       ],
-      "duration_ms": 173893,
-      "name": "Better Version (feat. Kelsea Ballerini)",
-      "url": "https://open.spotify.com/track/4hVTfI6ZXLt0BAeTZhAalr"
+      "duration_ms": 167840,
+      "name": "Put It To Bed",
+      "url": "https://open.spotify.com/track/4IF2gmlUAAyapNnNfCl4Dt"
     },
     {
       "added_at": null,
@@ -731,6 +727,26 @@
     {
       "added_at": null,
       "album": {
+        "name": "Girl Of My Dreams (Deluxe)",
+        "url": "https://open.spotify.com/album/5KbQGzcWL7VgTeLqjftNWH"
+      },
+      "artists": [
+        {
+          "name": "FLETCHER",
+          "url": "https://open.spotify.com/artist/5qa31A9HySw3T7MKWI9bGg"
+        },
+        {
+          "name": "Kelsea Ballerini",
+          "url": "https://open.spotify.com/artist/3RqBeV12Tt7A8xH3zBDDUF"
+        }
+      ],
+      "duration_ms": 173893,
+      "name": "Better Version (feat. Kelsea Ballerini)",
+      "url": "https://open.spotify.com/track/4hVTfI6ZXLt0BAeTZhAalr"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "PATTERNS (DELUXE)",
         "url": "https://open.spotify.com/album/426ni1U6MsUtpxmvtXgLhn"
       },
@@ -740,9 +756,9 @@
           "url": "https://open.spotify.com/artist/3RqBeV12Tt7A8xH3zBDDUF"
         }
       ],
-      "duration_ms": 167840,
-      "name": "Put It To Bed",
-      "url": "https://open.spotify.com/track/4IF2gmlUAAyapNnNfCl4Dt"
+      "duration_ms": 172533,
+      "name": "To The Men That Love Women After Heartbreak",
+      "url": "https://open.spotify.com/track/1epG8jhfeJW54B8dt6pCg9"
     },
     {
       "added_at": null,
@@ -804,9 +820,9 @@
           "url": "https://open.spotify.com/artist/3RqBeV12Tt7A8xH3zBDDUF"
         }
       ],
-      "duration_ms": 172533,
-      "name": "To The Men That Love Women After Heartbreak",
-      "url": "https://open.spotify.com/track/1epG8jhfeJW54B8dt6pCg9"
+      "duration_ms": 155480,
+      "name": "Cut Me Up",
+      "url": "https://open.spotify.com/track/2gtvnLKo4m3fLAFyHPl7eU"
     },
     {
       "added_at": null,
@@ -839,82 +855,6 @@
       "duration_ms": 152386,
       "name": "I Think I Fell in Love Today",
       "url": "https://open.spotify.com/track/5ZdZVXpB7hLKPwx1xhb6q3"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Love Song to the Earth",
-        "url": "https://open.spotify.com/album/5DZQzPTCPCpLGKQrG9iTPl"
-      },
-      "artists": [
-        {
-          "name": "Paul McCartney",
-          "url": "https://open.spotify.com/artist/4STHEaNw4mPZ2tzheohgXB"
-        },
-        {
-          "name": "Jon Bon Jovi",
-          "url": "https://open.spotify.com/artist/6h2bWHWTJL38N8dqocVaif"
-        },
-        {
-          "name": "Sheryl Crow",
-          "url": "https://open.spotify.com/artist/4TKTii6gnOnUXQHyuo9JaD"
-        },
-        {
-          "name": "Fergie",
-          "url": "https://open.spotify.com/artist/3r17AfJCCUqC9Lf0OAc73G"
-        },
-        {
-          "name": "Colbie Caillat",
-          "url": "https://open.spotify.com/artist/6aZyMrc4doVtZyKNilOmwu"
-        },
-        {
-          "name": "Natasha Bedingfield",
-          "url": "https://open.spotify.com/artist/7o95ZoZt5ZYn31e9z1Hc0a"
-        },
-        {
-          "name": "Leona Lewis",
-          "url": "https://open.spotify.com/artist/5lKZWd6HiSCLfnDGrq9RAm"
-        },
-        {
-          "name": "Sean Paul",
-          "url": "https://open.spotify.com/artist/3Isy6kedDrgPYoTS1dazA9"
-        },
-        {
-          "name": "Johnny Rzeznik",
-          "url": "https://open.spotify.com/artist/6VZlYTq8lqmm4EFmZwK2fQ"
-        },
-        {
-          "name": "Krewella",
-          "url": "https://open.spotify.com/artist/0Cd6nHYwecCNM1sVEXKlYr"
-        },
-        {
-          "name": "Angelique Kidjo",
-          "url": "https://open.spotify.com/artist/51qUDJb5AtQX6jIL4VJx6M"
-        },
-        {
-          "name": "Kelsea Ballerini",
-          "url": "https://open.spotify.com/artist/3RqBeV12Tt7A8xH3zBDDUF"
-        },
-        {
-          "name": "Nicole Scherzinger",
-          "url": "https://open.spotify.com/artist/40xbWSB4JPdOkRyuTDy1oP"
-        },
-        {
-          "name": "Christina Grimmie",
-          "url": "https://open.spotify.com/artist/0Cav8jyZKAHMFbAusOmjku"
-        },
-        {
-          "name": "Victoria Justice",
-          "url": "https://open.spotify.com/artist/2OTfr6S2kuHRYStjt1IkY6"
-        },
-        {
-          "name": "Q'orianka Kilcher",
-          "url": "https://open.spotify.com/artist/1tHm53NBBuFigo0RrjqDfe"
-        }
-      ],
-      "duration_ms": 231679,
-      "name": "Love Song to the Earth",
-      "url": "https://open.spotify.com/track/2Rbq28aQomoEswOXeK27CE"
     }
   ],
   "unique_name": "This Is Kelsea Ballerini",

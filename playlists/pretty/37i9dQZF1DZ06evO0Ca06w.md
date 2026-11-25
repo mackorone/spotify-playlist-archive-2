@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0Ca06w.md) - [plain]
 
 > This is Miriam Makeba\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 14,863 likes - 50 songs - 2 hr 55 min
+[Spotify](https://open.spotify.com/user/spotify) - 14,864 likes - 50 songs - 2 hr 55 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -13,8 +13,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0Ca06w.md) - [plain]
 | 3 | [My Angel \(Malaika\)](https://open.spotify.com/track/0eP52OQtijQQzZBXDc923Z) | [Harry Belafonte](https://open.spotify.com/artist/6Tw1ktF4xMmzaLLbe98I2z), [Miriam Makeba](https://open.spotify.com/artist/18RkLKfeoUgZflWv9os25W) | [An Evening With Belafonte/Makeba](https://open.spotify.com/album/27SMV8TOEzD5NvCI6dK7Xc) | 3:17 |
 | 4 | [The Click Song](https://open.spotify.com/track/329ss78X6RxaEa6iN1SsH8) | [Miriam Makeba](https://open.spotify.com/artist/18RkLKfeoUgZflWv9os25W) | [The Click Song](https://open.spotify.com/album/660kKC1wgzwtHYOn5aza9N) | 2:33 |
 | 5 | [Ha Po Zamani \- Stereo Version](https://open.spotify.com/track/0iKkfLyUCwjsX3PXZ1XG2C) | [Miriam Makeba](https://open.spotify.com/artist/18RkLKfeoUgZflWv9os25W) | [Pata Pata](https://open.spotify.com/album/4xPYddRQPYB5jbTB3e7tL5) | 2:55 |
-| 6 | [Emabhaceni](https://open.spotify.com/track/27nFGGdYDpN2u2zI8SwUZZ) | [Miriam Makeba](https://open.spotify.com/artist/18RkLKfeoUgZflWv9os25W) | [Sangoma](https://open.spotify.com/album/0hDU5JxEQMr3cQNaRIxMlI) | 2:40 |
-| 7 | [Malaika](https://open.spotify.com/track/2aF2rvFMz0XQrh9ZznZ9fq) | [Miriam Makeba](https://open.spotify.com/artist/18RkLKfeoUgZflWv9os25W) | [Myriam Makeba Live In Paris, France \(Théâtre des Champs\-Elysées\)](https://open.spotify.com/album/3yT2VayIhnbgldygFcF5K7) | 5:13 |
+| 6 | [Malaika](https://open.spotify.com/track/2aF2rvFMz0XQrh9ZznZ9fq) | [Miriam Makeba](https://open.spotify.com/artist/18RkLKfeoUgZflWv9os25W) | [Myriam Makeba Live In Paris, France \(Théâtre des Champs\-Elysées\)](https://open.spotify.com/album/3yT2VayIhnbgldygFcF5K7) | 5:13 |
+| 7 | [Emabhaceni](https://open.spotify.com/track/27nFGGdYDpN2u2zI8SwUZZ) | [Miriam Makeba](https://open.spotify.com/artist/18RkLKfeoUgZflWv9os25W) | [Sangoma](https://open.spotify.com/album/0hDU5JxEQMr3cQNaRIxMlI) | 2:40 |
 | 8 | [Quit It](https://open.spotify.com/track/5M2RyoYc95uC79sFUp2EJ1) | [Miriam Makeba](https://open.spotify.com/artist/18RkLKfeoUgZflWv9os25W) | [A Promise](https://open.spotify.com/album/2MN4gZa70AyA9QQu9CuSnT) | 4:00 |
 | 9 | [Click Song Number One \- Mono Version](https://open.spotify.com/track/71i4tHW3VZk3Gow2SDkrQW) | [Miriam Makeba](https://open.spotify.com/artist/18RkLKfeoUgZflWv9os25W) | [Pata Pata](https://open.spotify.com/album/4xPYddRQPYB5jbTB3e7tL5) | 2:17 |
 | 10 | [Hi\-a Ma \(Pata Pata\) \- Milk & Sugar Video Version](https://open.spotify.com/track/0B0lVj4UILHSOYKN7XhNTo) | [Milk & Sugar](https://open.spotify.com/artist/159cwGtgCzNpyHWY6tzihH), [Miriam Makeba](https://open.spotify.com/artist/18RkLKfeoUgZflWv9os25W), [Jungle Brothers](https://open.spotify.com/artist/2iclO3rlyF0YVNE46ctYRj) | [Hi\-A Ma \(Pata Pata\)](https://open.spotify.com/album/5Amv5HoKf4X4dK1J9aDAYp) | 2:51 |
@@ -50,13 +50,13 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0Ca06w.md) - [plain]
 | 40 | [Pata\-Pata \(feat\. Miriam Makeba\)](https://open.spotify.com/track/3BcQp5aLCDx1XdHmB6pyjE) | [Chayanne](https://open.spotify.com/artist/1JbemQ1fPt2YmSLjAFhPBv), [Miriam Makeba](https://open.spotify.com/artist/18RkLKfeoUgZflWv9os25W) | [Chayanne](https://open.spotify.com/album/20LKBgzwk7zrSSn0N8ukFV) | 4:15 |
 | 41 | [Beware, Verwoerd! \(Ndodemnyama\)](https://open.spotify.com/track/74iAZSzuJ6tfvhf79ig0SK) | [Miriam Makeba](https://open.spotify.com/artist/18RkLKfeoUgZflWv9os25W) | [An Evening With Belafonte/Makeba](https://open.spotify.com/album/27SMV8TOEzD5NvCI6dK7Xc) | 2:07 |
 | 42 | [Umam' Uyajabula](https://open.spotify.com/track/4HQ4fGyglhDFsvJQVH4eIx) | [Miriam Makeba](https://open.spotify.com/artist/18RkLKfeoUgZflWv9os25W) | [Sangoma](https://open.spotify.com/album/0hDU5JxEQMr3cQNaRIxMlI) | 2:02 |
-| 43 | [Forbidden Games](https://open.spotify.com/track/6zOvv7Y1bNWJixUEG3YTUS) | [Miriam Makeba](https://open.spotify.com/artist/18RkLKfeoUgZflWv9os25W) | [Forbidden Games](https://open.spotify.com/album/1YN9IkF4IMSmkiCRtXe8l3) | 2:56 |
-| 44 | [Mas Que Nada](https://open.spotify.com/track/5Eyfond5T9ZcmXCydrAQii) | [Miriam Makeba](https://open.spotify.com/artist/18RkLKfeoUgZflWv9os25W) | [Reflections](https://open.spotify.com/album/4EGe5tRktJgNpbWjC6ijLn) | 3:15 |
-| 45 | [Ndiarabi](https://open.spotify.com/track/1rcWedOQYluzxH8xr8vQ0U) | [Miriam Makeba](https://open.spotify.com/artist/18RkLKfeoUgZflWv9os25W) | [Sing Me a Song](https://open.spotify.com/album/2lsdI6XXHl04AxfTA7200B) | 4:28 |
-| 46 | [Orlando](https://open.spotify.com/track/5NGvRQeTi8zSws4R90E1tL) | [Miriam Makeba](https://open.spotify.com/artist/18RkLKfeoUgZflWv9os25W) | [Click Song](https://open.spotify.com/album/6PPLax0vsbSi76NKm8SCeB) | 2:46 |
+| 43 | [Mas Que Nada](https://open.spotify.com/track/5Eyfond5T9ZcmXCydrAQii) | [Miriam Makeba](https://open.spotify.com/artist/18RkLKfeoUgZflWv9os25W) | [Reflections](https://open.spotify.com/album/4EGe5tRktJgNpbWjC6ijLn) | 3:15 |
+| 44 | [Forbidden Games](https://open.spotify.com/track/6zOvv7Y1bNWJixUEG3YTUS) | [Miriam Makeba](https://open.spotify.com/artist/18RkLKfeoUgZflWv9os25W) | [Forbidden Games](https://open.spotify.com/album/1YN9IkF4IMSmkiCRtXe8l3) | 2:56 |
+| 45 | [Orlando](https://open.spotify.com/track/5NGvRQeTi8zSws4R90E1tL) | [Miriam Makeba](https://open.spotify.com/artist/18RkLKfeoUgZflWv9os25W) | [Click Song](https://open.spotify.com/album/6PPLax0vsbSi76NKm8SCeB) | 2:46 |
+| 46 | [Ndiarabi](https://open.spotify.com/track/1rcWedOQYluzxH8xr8vQ0U) | [Miriam Makeba](https://open.spotify.com/artist/18RkLKfeoUgZflWv9os25W) | [Sing Me a Song](https://open.spotify.com/album/2lsdI6XXHl04AxfTA7200B) | 4:28 |
 | 47 | [Pata Pata 2000](https://open.spotify.com/track/3Q6teQgxvr6a2qZUvEOglf) | [Miriam Makeba](https://open.spotify.com/artist/18RkLKfeoUgZflWv9os25W) | [Homeland](https://open.spotify.com/album/7rpMuQI334lB7NK6fPUZPu) | 3:49 |
 | 48 | [Umqokozo](https://open.spotify.com/track/3ppcz1h6mWD7rKAlBdTRrD) | [Miriam Makeba](https://open.spotify.com/artist/18RkLKfeoUgZflWv9os25W) | [Le monde de Myriam Makeba](https://open.spotify.com/album/2ein2C5tzYfR94IJCSHK5c) | 2:09 |
 | 49 | [Thula Sizwe / I Shall Be Released](https://open.spotify.com/track/3f24AZKBhOBaKGpN2F0n52) | [We The Common People](https://open.spotify.com/artist/7DvxmGLfgyW9xxzD1RgIAf), [Miriam Makeba](https://open.spotify.com/artist/18RkLKfeoUgZflWv9os25W), [Nina Simone](https://open.spotify.com/artist/7G1GBhoKtEPnP86X2PvEYO), [Tommy Sims](https://open.spotify.com/artist/1v5hoRyO2K9NNPm8GVOPEe), [Praise Paige](https://open.spotify.com/artist/183tdPgrLOTkQuSYjfdM7e) | [Thula Sizwe / I Shall Be Released](https://open.spotify.com/album/6wK4WlDLgaOGMnBsvyVrxO) | 3:15 |
 | 50 | [Africa](https://open.spotify.com/track/1Xf60iHndHz5X20e9Kd9RY) | [Miriam Makeba](https://open.spotify.com/artist/18RkLKfeoUgZflWv9os25W) | [Welela](https://open.spotify.com/album/77b73CkVByeIMB3mlVC7A4) | 4:24 |
 
-Snapshot ID: `awIwgAAAAACRbBAjCc4DkHTJBezBzcF1`
+Snapshot ID: `awOCAAAAAAAmE7RWpT9lZTVZ7AWBebVA`

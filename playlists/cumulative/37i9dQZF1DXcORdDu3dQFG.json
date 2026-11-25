@@ -95,6 +95,24 @@
     },
     {
       "album": {
+        "name": "All I Want For Christmas Is You",
+        "url": "https://open.spotify.com/album/3Y3HGHWLrtJEzdwuTWU6Tp"
+      },
+      "artists": [
+        {
+          "name": "Mariah Carey",
+          "url": "https://open.spotify.com/artist/4iHNK0tOyZPYnBU7nGAgpQ"
+        }
+      ],
+      "date_added": "2026-11-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 236010,
+      "name": "All I Want For Christmas Is You",
+      "url": "https://open.spotify.com/track/0XSzsXxRtHARGF0wuULAUG"
+    },
+    {
+      "album": {
         "name": "Merry Christmas",
         "url": "https://open.spotify.com/album/61ulfFSmmxMhc2wCdmdMkN"
       },
@@ -106,10 +124,28 @@
       ],
       "date_added": "2025-12-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-25",
       "duration_ms": 241562,
       "name": "All I Want for Christmas Is You",
       "url": "https://open.spotify.com/track/0bYg9bo50gSsH3LtXe2SQn"
+    },
+    {
+      "album": {
+        "name": "Holiday Things",
+        "url": "https://open.spotify.com/album/7yZWl9QHkgX2jntmJAAyst"
+      },
+      "artists": [
+        {
+          "name": "Hilary Duff",
+          "url": "https://open.spotify.com/artist/2S9W9aSAd7e5mp8WqWxN2h"
+        }
+      ],
+      "date_added": "2026-11-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 214823,
+      "name": "All You Want for Christmas is Me",
+      "url": "https://open.spotify.com/track/6f3Fxckl4Nucl8xiMNYRnB"
     },
     {
       "album": {
@@ -240,6 +276,24 @@
       "duration_ms": 244475,
       "name": "Christmas in New England",
       "url": "https://open.spotify.com/track/1EC1ZsLtwpCYtnmH5gwFnF"
+    },
+    {
+      "album": {
+        "name": "Christmas in New York",
+        "url": "https://open.spotify.com/album/3Arw97tnQUGQ3zBkWrEORn"
+      },
+      "artists": [
+        {
+          "name": "EJAE",
+          "url": "https://open.spotify.com/artist/0RMJOzHDhAKY1o2j0W0vxY"
+        }
+      ],
+      "date_added": "2026-11-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 178013,
+      "name": "Christmas in New York",
+      "url": "https://open.spotify.com/track/02AkOM9aadzbRmOuLvVh3A"
     },
     {
       "album": {
@@ -384,6 +438,32 @@
       "duration_ms": 256920,
       "name": "Do They Know It's Christmas? - Video (Version A)",
       "url": "https://open.spotify.com/track/1xayEQucEWCgESCz80ZNEx"
+    },
+    {
+      "album": {
+        "name": "Fairytale of New York",
+        "url": "https://open.spotify.com/album/1Os8YdtF2auQWkSVflfJZJ"
+      },
+      "artists": [
+        {
+          "name": "Hozier",
+          "url": "https://open.spotify.com/artist/2FXC3k01G6Gw61bmprjgqS"
+        },
+        {
+          "name": "Jessie Buckley",
+          "url": "https://open.spotify.com/artist/0gvb5LJ9nR6z0UqohIojP1"
+        },
+        {
+          "name": "Shane MacGowan",
+          "url": "https://open.spotify.com/artist/68lZHeroea1NAuEDsfBUjv"
+        }
+      ],
+      "date_added": "2026-11-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 294609,
+      "name": "Fairytale of New York",
+      "url": "https://open.spotify.com/track/7lePfle9Ylyr5wYgxfQ1wV"
     },
     {
       "album": {
@@ -579,6 +659,24 @@
     },
     {
       "album": {
+        "name": "I Love Christmas",
+        "url": "https://open.spotify.com/album/2GUpcLmWTs9mV7S6R6q3XM"
+      },
+      "artists": [
+        {
+          "name": "Tegan and Sara",
+          "url": "https://open.spotify.com/artist/5e1BZulIiYWPRm8yogwUYH"
+        }
+      ],
+      "date_added": "2026-11-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 167306,
+      "name": "I Love Christmas",
+      "url": "https://open.spotify.com/track/5YbgUS6JZLajQ8TsZDLZdu"
+    },
+    {
+      "album": {
         "name": "Christmas Album",
         "url": "https://open.spotify.com/album/5M8U1qYKvRQHJJVHmPY7QD"
       },
@@ -735,6 +833,24 @@
     },
     {
       "album": {
+        "name": "Last Christmas",
+        "url": "https://open.spotify.com/album/2f0zKmLGiADHklRZRD0Qnb"
+      },
+      "artists": [
+        {
+          "name": "Alfie Jukes",
+          "url": "https://open.spotify.com/artist/06qfcPQQZ3AplWOg3KxsQ9"
+        }
+      ],
+      "date_added": "2026-11-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 213206,
+      "name": "Last Christmas",
+      "url": "https://open.spotify.com/track/6nRzUXop9fvRTNnYyYxGhi"
+    },
+    {
+      "album": {
         "name": "LAST CHRISTMAS",
         "url": "https://open.spotify.com/album/6egzU9NKfora01qaNbvwfZ"
       },
@@ -768,6 +884,28 @@
       "duration_ms": 277781,
       "name": "Last Christmas",
       "url": "https://open.spotify.com/track/2sIvNRBvLNQX1rxVoPwJPE"
+    },
+    {
+      "album": {
+        "name": "Let It Snow! Let It Snow! Let It Snow! (feat. Meghan Trainor)",
+        "url": "https://open.spotify.com/album/0oBqA7UCiAUM9chjGyKlnM"
+      },
+      "artists": [
+        {
+          "name": "Brett Eldredge",
+          "url": "https://open.spotify.com/artist/0qSX3s5pJnAlSsgsCne8Cz"
+        },
+        {
+          "name": "Meghan Trainor",
+          "url": "https://open.spotify.com/artist/6JL8zeS1NmiOftqZTRgdTz"
+        }
+      ],
+      "date_added": "2026-11-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 144826,
+      "name": "Let It Snow! Let It Snow! Let It Snow! (feat. Meghan Trainor)",
+      "url": "https://open.spotify.com/track/1GXnG9vkH3eMUGNapFd2U3"
     },
     {
       "album": {
@@ -995,6 +1133,24 @@
     },
     {
       "album": {
+        "name": "A Very Merry g00semas",
+        "url": "https://open.spotify.com/album/2AaSW3HnsUYC7BYKPBgeNe"
+      },
+      "artists": [
+        {
+          "name": "grentperez",
+          "url": "https://open.spotify.com/artist/73BLwSX6gsNeVzS7DgI4xe"
+        }
+      ],
+      "date_added": "2026-11-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 221525,
+      "name": "Mistletoe And You",
+      "url": "https://open.spotify.com/track/7lKDH6LhP1dfcy86uTM6cz"
+    },
+    {
+      "album": {
         "name": "It's Officially Christmas: The Double Album",
         "url": "https://open.spotify.com/album/4uE6bh9kacmGEWRgpd7GPf"
       },
@@ -1165,6 +1321,42 @@
     },
     {
       "album": {
+        "name": "nicest girl on the naughty list",
+        "url": "https://open.spotify.com/album/1Fl63ztgKDkrh7xyzQYVcW"
+      },
+      "artists": [
+        {
+          "name": "VANITY",
+          "url": "https://open.spotify.com/artist/5pbQSj4OwloGemk4m3w7S7"
+        }
+      ],
+      "date_added": "2026-11-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 123185,
+      "name": "Santa's Lap",
+      "url": "https://open.spotify.com/track/1JJg9PBSYhnhiH0CsLW5Sx"
+    },
+    {
+      "album": {
+        "name": "Santa, Can I Borrow Your Sleigh?",
+        "url": "https://open.spotify.com/album/1TlsoZZ9UmDTIvatxdMYDW"
+      },
+      "artists": [
+        {
+          "name": "Arthur Hill",
+          "url": "https://open.spotify.com/artist/6Fe2C2iHDbs3yoKRvtVtdg"
+        }
+      ],
+      "date_added": "2026-11-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 174533,
+      "name": "Santa, Can I Borrow Your Sleigh?",
+      "url": "https://open.spotify.com/track/1arqlWF4hQcH5cV68dVgAP"
+    },
+    {
+      "album": {
         "name": "When Christmas Comes Around...",
         "url": "https://open.spotify.com/album/5sVFXIMrFRKBtDOexVlBBU"
       },
@@ -1220,6 +1412,28 @@
       "duration_ms": 175986,
       "name": "Sleigh Ride",
       "url": "https://open.spotify.com/track/4ukUoXLuFzMixyZyabSGc4"
+    },
+    {
+      "album": {
+        "name": "Lauren Daigle with The Preservation Hall Jazz Band Christmas",
+        "url": "https://open.spotify.com/album/6MQXSvAGhWBNusg1kdY6g8"
+      },
+      "artists": [
+        {
+          "name": "Lauren Daigle",
+          "url": "https://open.spotify.com/artist/40LHVA5BTQp9RxHOQ9JPYj"
+        },
+        {
+          "name": "Preservation Hall Jazz Band",
+          "url": "https://open.spotify.com/artist/2S0rCVs10P1Q0v51wmOrM5"
+        }
+      ],
+      "date_added": "2026-11-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 162199,
+      "name": "Sleigh Ride",
+      "url": "https://open.spotify.com/track/3MWgjnvfMfw6LC4sr3Ac19"
     },
     {
       "album": {
@@ -1313,6 +1527,24 @@
     },
     {
       "album": {
+        "name": "take me home (4 christmas)",
+        "url": "https://open.spotify.com/album/50o3Wm98DQENFLiiX3zd5B"
+      },
+      "artists": [
+        {
+          "name": "Olivia Rodrigo",
+          "url": "https://open.spotify.com/artist/1McMsnEElThX1knmY4oliG"
+        }
+      ],
+      "date_added": "2026-11-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 177685,
+      "name": "take me home (4 christmas)",
+      "url": "https://open.spotify.com/track/4UjYZS6Jbt3lee27qmiNOu"
+    },
+    {
+      "album": {
         "name": "The Christmas Song (Expanded Edition)",
         "url": "https://open.spotify.com/album/6vBGI5522jvPi0ZZuGQNp4"
       },
@@ -1350,6 +1582,24 @@
       "duration_ms": 196254,
       "name": "The Christmas Song (Shawn Mendes & Camila Cabello)",
       "url": "https://open.spotify.com/track/0fwxmtpxpMmEMphmJbCAEx"
+    },
+    {
+      "album": {
+        "name": "Good Weather For Immaculate Conception",
+        "url": "https://open.spotify.com/album/2K21J8ZQ4ObeB4FNgm6Cff"
+      },
+      "artists": [
+        {
+          "name": "Alanis Morissette",
+          "url": "https://open.spotify.com/artist/6ogn9necmbUdCppmNnGOdi"
+        }
+      ],
+      "date_added": "2026-11-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 251733,
+      "name": "To an Empath at Christmas Time",
+      "url": "https://open.spotify.com/track/18Cez4P4GrO3j6UEQdwufI"
     },
     {
       "album": {
@@ -1404,7 +1654,7 @@
       ],
       "date_added": "2026-11-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-25",
       "duration_ms": 207760,
       "name": "Walking In The Air",
       "url": "https://open.spotify.com/track/1cYxDDsMhyovjDYkGhbDa0"

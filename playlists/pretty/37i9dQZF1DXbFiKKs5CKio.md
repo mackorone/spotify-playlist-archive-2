@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbFiKKs5CKio.md) - [plain]
 
 > Muito romance, groove suave e R&B feitos no Brasil.
 
-[Spotify](https://open.spotify.com/user/spotify) - 73,723 likes - 50 songs - 2 hr 44 min
+[Spotify](https://open.spotify.com/user/spotify) - 73,727 likes - 50 songs - 2 hr 44 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -48,8 +48,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbFiKKs5CKio.md) - [plain]
 | 38 | [Quando acordar](https://open.spotify.com/track/3MHamwkZ1ywudnPR0GzhSZ) | [THAMI](https://open.spotify.com/artist/6fupiyOvfbI12eijANkwZL) | [Quando acordar](https://open.spotify.com/album/0UiVti5t3WVEc3ktyTdFmG) | 3:20 |
 | 39 | [Azul](https://open.spotify.com/track/1nsjzuCsNlpx2fk0rkcr87) | [Paige](https://open.spotify.com/artist/1XqfMFbATKSRu5nDy2AZO9) | [Esse É Meu Mundo Deluxe \(DELUXE\)](https://open.spotify.com/album/5WcwM4mohIDlkFdcRwsHfJ) | 3:03 |
 | 40 | [Mais Prazer](https://open.spotify.com/track/35Lw74EetsAZzUFpi9Wa3P) | [Kiaz](https://open.spotify.com/artist/6Ae0wz09vBFYZXJ2bJAKUl) | [Mais Prazer](https://open.spotify.com/album/7s7ygL3e8FaDH7A1z4vB90) | 2:39 |
-| 41 | [Tudo o Que Sou](https://open.spotify.com/track/0pc7uFEfMbjbU8KIQdTfU0) | [Jonathan Ferr](https://open.spotify.com/artist/50c0dnVoxvTMbfY0KSocJG), [Luccas Carlos](https://open.spotify.com/artist/5WFFFHVqeVk5tLuYh2KjQy) | [LAR](https://open.spotify.com/album/17HW9qCYB9V3WBBDQgEgUQ) | 2:52 |
-| 42 | [\(Des\)conectar](https://open.spotify.com/track/5TxpANIiDUqlJamIHZcO31) | [LAN](https://open.spotify.com/artist/0ASWGhrmkvvEO5dOj0Cj5o), [Bebé](https://open.spotify.com/artist/3u7JauDo3fDN6HBNtRTAFu) | [\(Des\)conectar](https://open.spotify.com/album/57phCII157BEvM0camoMvd) | 3:20 |
+| 41 | [\(Des\)conectar](https://open.spotify.com/track/5TxpANIiDUqlJamIHZcO31) | [LAN](https://open.spotify.com/artist/0ASWGhrmkvvEO5dOj0Cj5o), [Bebé](https://open.spotify.com/artist/3u7JauDo3fDN6HBNtRTAFu) | [\(Des\)conectar](https://open.spotify.com/album/57phCII157BEvM0camoMvd) | 3:20 |
+| 42 | [Tudo o Que Sou](https://open.spotify.com/track/0pc7uFEfMbjbU8KIQdTfU0) | [Jonathan Ferr](https://open.spotify.com/artist/50c0dnVoxvTMbfY0KSocJG), [Luccas Carlos](https://open.spotify.com/artist/5WFFFHVqeVk5tLuYh2KjQy) | [LAR](https://open.spotify.com/album/17HW9qCYB9V3WBBDQgEgUQ) | 2:52 |
 | 43 | [Você Merece](https://open.spotify.com/track/4wypZLE0UkTScBWmjhnNBm) | [Feyjão](https://open.spotify.com/artist/2tRjUL3itR7rBI8XrvJrCt) | [Passageiro do Bem \- LADO B](https://open.spotify.com/album/2gGACyI1Wo2zUWdFLZfBRJ) | 3:04 |
 | 44 | [Dias Calmos](https://open.spotify.com/track/7xLwWDt22A5fsFDAPBKBIt) | [Jun Alcan](https://open.spotify.com/artist/7CPlbqxyWd17sV44Morx3V) | [Dias Calmos](https://open.spotify.com/album/5PPpz2nNIQbFj6AjoNHQDe) | 2:16 |
 | 45 | [Dava Praia](https://open.spotify.com/track/1yBnU3fCQXflHioJWsdiDm) | [Guinu](https://open.spotify.com/artist/5ofL9KZec6IUhmMT7uSmXl), [Juliane Gamboa](https://open.spotify.com/artist/34Ew3QfjXTBeGWxylACsnA) | [Dava Praia](https://open.spotify.com/album/4s5wiro9Rxv3PNRw7LJMkT) | 2:43 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbFiKKs5CKio.md) - [plain]
 | 49 | [Aurora](https://open.spotify.com/track/1IurzB42M5kCAuk0Otp36V) | [Doug O.](https://open.spotify.com/artist/1mj6W331lVCliU08OYyMg0) | [Aurora](https://open.spotify.com/album/7lyl9H9Dz6pSqZ7do5UNOL) | 2:31 |
 | 50 | [Música](https://open.spotify.com/track/7HGFGnAuiRMKMAEnxbpFZ8) | [YAZI](https://open.spotify.com/artist/5PREKq9DL9Ka5yKjUVQCVP), [A Timeline](https://open.spotify.com/artist/6nFOozVSnRJPcEg3CxtOed) | [Música](https://open.spotify.com/album/3UGv2sdXNmT92Y3cejde4L) | 3:23 |
 
-Snapshot ID: `AAAAAP3Q2pcZ4UNv1aw//4IuYip7nfRb`
+Snapshot ID: `AAAAAHa0LQLpjdtyA1ElM3+oEeQ66GuY`

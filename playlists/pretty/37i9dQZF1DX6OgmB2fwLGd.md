@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6OgmB2fwLGd.md) - [plain]
 
 > hyper\_sleaze.2000.electro\_glitch \_draingang\_\[FINAL\]\_\[REAL\]\_\_coverartist.ecco2k
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,367,312 likes - 70 songs - 3 hr 42 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,367,235 likes - 70 songs - 3 hr 42 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -79,4 +79,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6OgmB2fwLGd.md) - [plain]
 | 69 | [I Like](https://open.spotify.com/track/4uzkJXMs6PjmJ5wAQLzflw) | [umru](https://open.spotify.com/artist/2Ub06wAIR1hERODcCkKhzx), [Bbyafricka](https://open.spotify.com/artist/019gRg7DezPMbaI1xRZD6W), [Warpstr](https://open.spotify.com/artist/3DosMG14ckPgT9iagZbcVc) | [I Like](https://open.spotify.com/album/2HSr0Ar9OrNYCm9fyx9YHf) | 2:23 |
 | 70 | [Under Your Spell](https://open.spotify.com/track/5q0N5SaFhROG9UQiPukv9p) | [Snow Strippers](https://open.spotify.com/artist/6TsAG8Ve1icEC8ydeHm3C8) | [April Mixtape 3](https://open.spotify.com/album/1HXwvX1Ph4yoGRZ51ssBH2) | 3:38 |
 
-Snapshot ID: `AAAAAN6KndWsOlszt7h7N3FBG+oWAiDi`
+Snapshot ID: `AAAAAEDgcj+PAGn6bSuM2eStDnszx0Rf`

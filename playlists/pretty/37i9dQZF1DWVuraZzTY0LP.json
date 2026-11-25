@@ -1,12 +1,12 @@
 {
   "description": "Lo m\u00e1s alternativo para una mam\u00e1 muy mo-der-na.",
-  "num_followers": 357246,
+  "num_followers": 357220,
   "original_name": "mam\u00e1 cool",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAJFPOgzHdEZYkdBkiDPsVUXZLzMu",
+  "snapshot_id": "AAAAAEvstwPPPQH9VoyW3npGUR2m32rh",
   "tracks": [
     {
       "added_at": "2026-11-13 06:00:41",
@@ -907,6 +907,26 @@
     {
       "added_at": "2026-11-13 06:00:41",
       "album": {
+        "name": "Young & Dumb (feat. Simple Plan)",
+        "url": "https://open.spotify.com/album/4qiHuolMaUIhdu27VJpntV"
+      },
+      "artists": [
+        {
+          "name": "Avril Lavigne",
+          "url": "https://open.spotify.com/artist/0p4nmQO2msCgU4IF37Wi3j"
+        },
+        {
+          "name": "Simple Plan",
+          "url": "https://open.spotify.com/artist/2p4FqHnazRucYQHyDCdBrJ"
+        }
+      ],
+      "duration_ms": 166776,
+      "name": "Young & Dumb (feat. Simple Plan)",
+      "url": "https://open.spotify.com/track/3mJncxEu2NrKYfRvoWiVfm"
+    },
+    {
+      "added_at": "2026-11-13 06:00:41",
+      "album": {
         "name": "New Gold (feat. Tame Impala and Bootie Brown)",
         "url": "https://open.spotify.com/album/4V9YFKLqZ5h8nQFTvDQscC"
       },
@@ -931,26 +951,6 @@
     {
       "added_at": "2026-11-13 06:00:41",
       "album": {
-        "name": "Young & Dumb (feat. Simple Plan)",
-        "url": "https://open.spotify.com/album/4qiHuolMaUIhdu27VJpntV"
-      },
-      "artists": [
-        {
-          "name": "Avril Lavigne",
-          "url": "https://open.spotify.com/artist/0p4nmQO2msCgU4IF37Wi3j"
-        },
-        {
-          "name": "Simple Plan",
-          "url": "https://open.spotify.com/artist/2p4FqHnazRucYQHyDCdBrJ"
-        }
-      ],
-      "duration_ms": 166776,
-      "name": "Young & Dumb (feat. Simple Plan)",
-      "url": "https://open.spotify.com/track/3mJncxEu2NrKYfRvoWiVfm"
-    },
-    {
-      "added_at": "2026-11-13 06:00:41",
-      "album": {
         "name": "Equus Caballus",
         "url": "https://open.spotify.com/album/7dJPDPUi94jA91VxG4vZb3"
       },
@@ -963,22 +963,6 @@
       "duration_ms": 195126,
       "name": "Come Back Down",
       "url": "https://open.spotify.com/track/04H7h3KJAQp9JHCSPGlp9A"
-    },
-    {
-      "added_at": "2026-11-13 06:00:41",
-      "album": {
-        "name": "Sonidos De Karm\u00e1tica Resonancia",
-        "url": "https://open.spotify.com/album/4a9Zz5WbFy2guHD98gHEyO"
-      },
-      "artists": [
-        {
-          "name": "Zo\u00e9",
-          "url": "https://open.spotify.com/artist/6IdtcAwaNVAggwd6sCKgTI"
-        }
-      ],
-      "duration_ms": 270906,
-      "name": "Popular",
-      "url": "https://open.spotify.com/track/3uEx77R6b16SAltboKfQjh"
     },
     {
       "added_at": "2026-11-13 06:00:41",
@@ -999,6 +983,22 @@
       "duration_ms": 243234,
       "name": "Diamantes",
       "url": "https://open.spotify.com/track/4UNnkCN1QCJsmFFZOYeBdp"
+    },
+    {
+      "added_at": "2026-11-13 06:00:41",
+      "album": {
+        "name": "Sonidos De Karm\u00e1tica Resonancia",
+        "url": "https://open.spotify.com/album/4a9Zz5WbFy2guHD98gHEyO"
+      },
+      "artists": [
+        {
+          "name": "Zo\u00e9",
+          "url": "https://open.spotify.com/artist/6IdtcAwaNVAggwd6sCKgTI"
+        }
+      ],
+      "duration_ms": 270906,
+      "name": "Popular",
+      "url": "https://open.spotify.com/track/3uEx77R6b16SAltboKfQjh"
     },
     {
       "added_at": "2026-11-13 06:00:41",
@@ -1195,18 +1195,18 @@
     {
       "added_at": "2026-11-13 06:00:41",
       "album": {
-        "name": "My Fun",
-        "url": "https://open.spotify.com/album/2obv9kAuyDBzo5jTwAOHob"
+        "name": "Kinky (Remastered)",
+        "url": "https://open.spotify.com/album/0EuvehvpSxGl1Q3GJ0p6pI"
       },
       "artists": [
         {
-          "name": "Suki Waterhouse",
-          "url": "https://open.spotify.com/artist/5GGJosGMs08YEmKTZJe1fL"
+          "name": "Kinky",
+          "url": "https://open.spotify.com/artist/4WOIfFwyvx22jM0eg2fpKv"
         }
       ],
-      "duration_ms": 162291,
-      "name": "My Fun",
-      "url": "https://open.spotify.com/track/306xT15GTuDs3NyopIANrh"
+      "duration_ms": 191000,
+      "name": "Soun Tha Mi Primer Amor - Remastered",
+      "url": "https://open.spotify.com/track/1ABzvnkHLpLaIN7VlB00LJ"
     }
   ],
   "unique_name": "mam\u00e1 cool",

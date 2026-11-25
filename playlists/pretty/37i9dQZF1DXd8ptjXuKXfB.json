@@ -6,7 +6,7 @@
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAEVal5rpdkT57leBUNv67zpVcdMm",
+  "snapshot_id": "AAAAAGavBmP4t+XyApKIZocUYsmku6Ut",
   "tracks": [
     {
       "added_at": "2026-11-23 11:14:12",
@@ -659,26 +659,6 @@
     {
       "added_at": "2026-11-23 11:14:12",
       "album": {
-        "name": "TR\u00c9FA",
-        "url": "https://open.spotify.com/album/43D1btG0DbLCDJrgQug8KK"
-      },
-      "artists": [
-        {
-          "name": "BELANO",
-          "url": "https://open.spotify.com/artist/3YuXDaxA5aNH0yA4SLeEPA"
-        },
-        {
-          "name": "VINI",
-          "url": "https://open.spotify.com/artist/7Ac0uxdCzBBRgjbtel2bbV"
-        }
-      ],
-      "duration_ms": 154736,
-      "name": "TR\u00c9FA",
-      "url": "https://open.spotify.com/track/3nidcwzm6ik5ZIwzudGXhn"
-    },
-    {
-      "added_at": "2026-11-23 11:14:12",
-      "album": {
         "name": "nem hiszek",
         "url": "https://open.spotify.com/album/6QEL4ZeDO3Q3oDpj8jxh8W"
       },
@@ -695,6 +675,26 @@
       "duration_ms": 189726,
       "name": "nem hiszek",
       "url": "https://open.spotify.com/track/6HUFPh5sQqQ1yRfo4sey8U"
+    },
+    {
+      "added_at": "2026-11-23 11:14:12",
+      "album": {
+        "name": "TR\u00c9FA",
+        "url": "https://open.spotify.com/album/43D1btG0DbLCDJrgQug8KK"
+      },
+      "artists": [
+        {
+          "name": "BELANO",
+          "url": "https://open.spotify.com/artist/3YuXDaxA5aNH0yA4SLeEPA"
+        },
+        {
+          "name": "VINI",
+          "url": "https://open.spotify.com/artist/7Ac0uxdCzBBRgjbtel2bbV"
+        }
+      ],
+      "duration_ms": 154736,
+      "name": "TR\u00c9FA",
+      "url": "https://open.spotify.com/track/3nidcwzm6ik5ZIwzudGXhn"
     },
     {
       "added_at": "2026-11-23 11:14:12",
@@ -779,22 +779,6 @@
     {
       "added_at": "2026-11-23 11:14:12",
       "album": {
-        "name": "Bulv\u00e1r",
-        "url": "https://open.spotify.com/album/06MpMOPmdvq4tlu8JzXxkn"
-      },
-      "artists": [
-        {
-          "name": "Nagy Bogi",
-          "url": "https://open.spotify.com/artist/3VgOKuwKvAYU4aT7atESfM"
-        }
-      ],
-      "duration_ms": 128784,
-      "name": "Bulv\u00e1r",
-      "url": "https://open.spotify.com/track/5qUR1466s8i5FvQnVD0oUy"
-    },
-    {
-      "added_at": "2026-11-23 11:14:12",
-      "album": {
         "name": "Valamit Majd Kital\u00e1lok",
         "url": "https://open.spotify.com/album/3ZyqM2dihxZ91iNz02PrT1"
       },
@@ -807,6 +791,22 @@
       "duration_ms": 197025,
       "name": "Kell egy p\u00e1r nap",
       "url": "https://open.spotify.com/track/3mt6G4z1RwWMIbmzWi7gPC"
+    },
+    {
+      "added_at": "2026-11-23 11:14:12",
+      "album": {
+        "name": "Bulv\u00e1r",
+        "url": "https://open.spotify.com/album/06MpMOPmdvq4tlu8JzXxkn"
+      },
+      "artists": [
+        {
+          "name": "Nagy Bogi",
+          "url": "https://open.spotify.com/artist/3VgOKuwKvAYU4aT7atESfM"
+        }
+      ],
+      "duration_ms": 128784,
+      "name": "Bulv\u00e1r",
+      "url": "https://open.spotify.com/track/5qUR1466s8i5FvQnVD0oUy"
     },
     {
       "added_at": "2026-11-23 11:14:12",
@@ -875,6 +875,22 @@
     {
       "added_at": "2026-11-23 11:14:12",
       "album": {
+        "name": "pog\u00e1nyindul\u00f3",
+        "url": "https://open.spotify.com/album/1QXnMeqzS2pvlDJ0roLnfb"
+      },
+      "artists": [
+        {
+          "name": "Pog\u00e1ny Indul\u00f3",
+          "url": "https://open.spotify.com/artist/7JOS2dpikWR1qxVZfLbKju"
+        }
+      ],
+      "duration_ms": 171500,
+      "name": "pog\u00e1nyindul\u00f3",
+      "url": "https://open.spotify.com/track/3Q286fX6kXedPdyTsY2gNA"
+    },
+    {
+      "added_at": "2026-11-23 11:14:12",
+      "album": {
         "name": "VINNER",
         "url": "https://open.spotify.com/album/44ZyazKbcQOMu0awUPOBPc"
       },
@@ -891,22 +907,6 @@
       "duration_ms": 159255,
       "name": "SHAKE DAT",
       "url": "https://open.spotify.com/track/7a9QYpDPIBwHTDtX7W79t3"
-    },
-    {
-      "added_at": "2026-11-23 11:14:12",
-      "album": {
-        "name": "pog\u00e1nyindul\u00f3",
-        "url": "https://open.spotify.com/album/1QXnMeqzS2pvlDJ0roLnfb"
-      },
-      "artists": [
-        {
-          "name": "Pog\u00e1ny Indul\u00f3",
-          "url": "https://open.spotify.com/artist/7JOS2dpikWR1qxVZfLbKju"
-        }
-      ],
-      "duration_ms": 171500,
-      "name": "pog\u00e1nyindul\u00f3",
-      "url": "https://open.spotify.com/track/3Q286fX6kXedPdyTsY2gNA"
     },
     {
       "added_at": "2026-11-23 11:14:12",
@@ -963,6 +963,22 @@
     {
       "added_at": "2026-11-23 11:14:12",
       "album": {
+        "name": "Valamit Majd Kital\u00e1lok",
+        "url": "https://open.spotify.com/album/3ZyqM2dihxZ91iNz02PrT1"
+      },
+      "artists": [
+        {
+          "name": "Pog\u00e1ny Indul\u00f3",
+          "url": "https://open.spotify.com/artist/7JOS2dpikWR1qxVZfLbKju"
+        }
+      ],
+      "duration_ms": 160768,
+      "name": "\u00cdgy sem k\u00f6nnyebb",
+      "url": "https://open.spotify.com/track/4WjtNR5fqgtMSstBY3yvPN"
+    },
+    {
+      "added_at": "2026-11-23 11:14:12",
+      "album": {
         "name": "ELSZ\u00c1LL AZ ID\u0150",
         "url": "https://open.spotify.com/album/1eovnHxU8LohEgnA78PPlI"
       },
@@ -983,18 +999,18 @@
     {
       "added_at": "2026-11-23 11:14:12",
       "album": {
-        "name": "Valamit Majd Kital\u00e1lok",
-        "url": "https://open.spotify.com/album/3ZyqM2dihxZ91iNz02PrT1"
+        "name": "S\u00d6T\u00c9T",
+        "url": "https://open.spotify.com/album/5OGJpFmfbmdUyWGF3PiA5z"
       },
       "artists": [
         {
-          "name": "Pog\u00e1ny Indul\u00f3",
-          "url": "https://open.spotify.com/artist/7JOS2dpikWR1qxVZfLbKju"
+          "name": "Dzs\u00fadl\u00f3",
+          "url": "https://open.spotify.com/artist/3PMRY3PR5xAe5UpRfPPuaG"
         }
       ],
-      "duration_ms": 160768,
-      "name": "\u00cdgy sem k\u00f6nnyebb",
-      "url": "https://open.spotify.com/track/4WjtNR5fqgtMSstBY3yvPN"
+      "duration_ms": 144203,
+      "name": "S\u00d6T\u00c9T",
+      "url": "https://open.spotify.com/track/68SnGU5Oa3SEV7y8w1L9bk"
     },
     {
       "added_at": "2026-11-23 11:14:12",
@@ -1011,22 +1027,6 @@
       "duration_ms": 154176,
       "name": "De\u00e1k Ferenc",
       "url": "https://open.spotify.com/track/3g74RtlTrykdLNebTNmChG"
-    },
-    {
-      "added_at": "2026-11-23 11:14:12",
-      "album": {
-        "name": "S\u00d6T\u00c9T",
-        "url": "https://open.spotify.com/album/5OGJpFmfbmdUyWGF3PiA5z"
-      },
-      "artists": [
-        {
-          "name": "Dzs\u00fadl\u00f3",
-          "url": "https://open.spotify.com/artist/3PMRY3PR5xAe5UpRfPPuaG"
-        }
-      ],
-      "duration_ms": 144203,
-      "name": "S\u00d6T\u00c9T",
-      "url": "https://open.spotify.com/track/68SnGU5Oa3SEV7y8w1L9bk"
     },
     {
       "added_at": "2026-11-23 11:14:12",
@@ -1147,6 +1147,22 @@
     {
       "added_at": "2026-11-23 11:14:12",
       "album": {
+        "name": "SZAVJ\u00c1T\u00c9K / KUTYA 2",
+        "url": "https://open.spotify.com/album/5yfpdDZuMKWSeFP3gOiDiM"
+      },
+      "artists": [
+        {
+          "name": "Kr\u00fabi",
+          "url": "https://open.spotify.com/artist/6u7q0ZGK0oilVYx4kqIk3E"
+        }
+      ],
+      "duration_ms": 250666,
+      "name": "SZAVJ\u00c1T\u00c9K / KUTYA 2",
+      "url": "https://open.spotify.com/track/6gkk2Rwo5j7PIrX4qmsZBB"
+    },
+    {
+      "added_at": "2026-11-23 11:14:12",
+      "album": {
         "name": "Dada",
         "url": "https://open.spotify.com/album/5SYUF1nUTuqOgRFrj6x2VN"
       },
@@ -1163,22 +1179,6 @@
       "duration_ms": 220080,
       "name": "Dada",
       "url": "https://open.spotify.com/track/2tdh0309QZInDRthTNxjZ1"
-    },
-    {
-      "added_at": "2026-11-23 11:14:12",
-      "album": {
-        "name": "SZAVJ\u00c1T\u00c9K / KUTYA 2",
-        "url": "https://open.spotify.com/album/5yfpdDZuMKWSeFP3gOiDiM"
-      },
-      "artists": [
-        {
-          "name": "Kr\u00fabi",
-          "url": "https://open.spotify.com/artist/6u7q0ZGK0oilVYx4kqIk3E"
-        }
-      ],
-      "duration_ms": 250666,
-      "name": "SZAVJ\u00c1T\u00c9K / KUTYA 2",
-      "url": "https://open.spotify.com/track/6gkk2Rwo5j7PIrX4qmsZBB"
     },
     {
       "added_at": "2026-11-23 11:14:12",

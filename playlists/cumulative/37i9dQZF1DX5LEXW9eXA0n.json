@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2021-12-21",
-  "description": "New & hot K-Pop ballads. (Cover: Huh Gak (\ud5c8\uac01)) (\uac00\uc7a5 \ud56b\ud55c \ucd5c\uc2e0 \uad6d\ub0b4 \ubc1c\ub77c\ub4dc\ub97c \ub9cc\ub098\ubcf4\uc138\uc694!)",
+  "description": "New & hot K-Pop ballads. (Cover: Shin Yong Jae (\uc2e0\uc6a9\uc7ac)) (\uac00\uc7a5 \ud56b\ud55c \ucd5c\uc2e0 \uad6d\ub0b4 \ubc1c\ub77c\ub4dc\ub97c \ub9cc\ub098\ubcf4\uc138\uc694!)",
   "name": "\ubc1c\ub77c\ub4dc, \ub824\uc694 (K-Pop Ballad Hits)",
   "tracks": [
     {
@@ -6002,7 +6002,7 @@
       ],
       "date_added": "2026-05-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-25",
       "duration_ms": 193000,
       "name": "Doesn\u2032t Matter",
       "url": "https://open.spotify.com/track/0pyyPj8BPdfMVgWkxan7Jp"
@@ -9804,7 +9804,7 @@
       ],
       "date_added": "2024-03-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-25",
       "duration_ms": 271173,
       "name": "Heavenly fate",
       "url": "https://open.spotify.com/track/4mqfe9XrgEOSsofvq5MyjR"
@@ -16721,6 +16721,24 @@
     },
     {
       "album": {
+        "name": "Love Me Love Me",
+        "url": "https://open.spotify.com/album/0dvyYyCEBVIxjcAIb5h0rA"
+      },
+      "artists": [
+        {
+          "name": "Boramiyu",
+          "url": "https://open.spotify.com/artist/4CWuEFVuRfUm7LrGmMBMrN"
+        }
+      ],
+      "date_added": "2026-11-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 237937,
+      "name": "Love Me Love Me",
+      "url": "https://open.spotify.com/track/7h7VqYT1NfSRSAeNb1Ymes"
+    },
+    {
+      "album": {
         "name": "Love Message",
         "url": "https://open.spotify.com/album/5tJH4tWyWLtLEG1X6EVBtU"
       },
@@ -16736,6 +16754,24 @@
       "duration_ms": 233493,
       "name": "Love Message",
       "url": "https://open.spotify.com/track/1Y6W3Q07asHeQtXCBDAOrT"
+    },
+    {
+      "album": {
+        "name": "Love Piles Up Softly",
+        "url": "https://open.spotify.com/album/2lyZ8mucIA5n2cXzWBdbm1"
+      },
+      "artists": [
+        {
+          "name": "20 Years of Age",
+          "url": "https://open.spotify.com/artist/0KaZcu3pEVHfYOnB62eLFp"
+        }
+      ],
+      "date_added": "2026-11-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 203181,
+      "name": "Love Piles Up Softly",
+      "url": "https://open.spotify.com/track/1uhnUUdIdDQ9wyriEYOydN"
     },
     {
       "album": {
@@ -16974,7 +17010,7 @@
       ],
       "date_added": "2026-04-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-25",
       "duration_ms": 243000,
       "name": "Love's Greeting 2026",
       "url": "https://open.spotify.com/track/6KKhhZJUvGedqS91kP7Tcj"
@@ -19576,7 +19612,7 @@
       ],
       "date_added": "2026-04-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-25",
       "duration_ms": 207186,
       "name": "Nothing Between Us",
       "url": "https://open.spotify.com/track/4ChffXjuDTe82Gau2xzgiN"
@@ -26527,6 +26563,24 @@
     },
     {
       "album": {
+        "name": "GRAVITY",
+        "url": "https://open.spotify.com/album/0kIGPIcpKpK1eeLTpgnA5d"
+      },
+      "artists": [
+        {
+          "name": "Shin Yong Jae",
+          "url": "https://open.spotify.com/artist/2frFGmni9tkRgXYdXmzQvR"
+        }
+      ],
+      "date_added": "2026-11-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 237000,
+      "name": "The Goodbye of Hello",
+      "url": "https://open.spotify.com/track/0kM8x344e5UVMwuLjpIPQM"
+    },
+    {
+      "album": {
         "name": "The Homework of Goodbye",
         "url": "https://open.spotify.com/album/4kTO5C4sjdAa9BRoej39hY"
       },
@@ -29752,6 +29806,24 @@
       "duration_ms": 208768,
       "name": "When the World Becomes a Dream",
       "url": "https://open.spotify.com/track/65zKD4J5Mwgxx4DAnWkmGS"
+    },
+    {
+      "album": {
+        "name": "When this rain stops",
+        "url": "https://open.spotify.com/album/3Jv67O4IEHIatu31LzQNHe"
+      },
+      "artists": [
+        {
+          "name": "Byun Jin-Sub",
+          "url": "https://open.spotify.com/artist/19TSeYJNZVClzoWb6hUVr7"
+        }
+      ],
+      "date_added": "2026-11-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 239000,
+      "name": "When this rain stops",
+      "url": "https://open.spotify.com/track/5YDlky82SpJhsddxptyMbW"
     },
     {
       "album": {

@@ -1,12 +1,12 @@
 {
   "description": "Lo mejor del pop en espa\u00f1ol en la d\u00e9cada de los 2000. Foto: Paulina Rubio",
-  "num_followers": 443376,
+  "num_followers": 443452,
   "original_name": "Pop Latino: Los 2000",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAIF0uJfKnIEXkGhz5anK44O0vuiG",
+  "snapshot_id": "AAAAALf9drO16VyqdrgWxjF/vlLOUDdd",
   "tracks": [
     {
       "added_at": "2024-06-12 20:29:16",
@@ -643,6 +643,22 @@
     {
       "added_at": "2024-06-12 20:29:16",
       "album": {
+        "name": "Secuencia",
+        "url": "https://open.spotify.com/album/4kMpYWQfF4f4iXLhopgk3w"
+      },
+      "artists": [
+        {
+          "name": "Reik",
+          "url": "https://open.spotify.com/artist/0vR2qb8m9WHeZ5ByCbimq2"
+        }
+      ],
+      "duration_ms": 221200,
+      "name": "Sabes",
+      "url": "https://open.spotify.com/track/37miw1ff4zH0LDuFrBvZ4i"
+    },
+    {
+      "added_at": "2024-06-12 20:29:16",
+      "album": {
         "name": "Dulce Beat",
         "url": "https://open.spotify.com/album/5aamU0jIrX7bsjUsPCFVAK"
       },
@@ -671,22 +687,6 @@
       "duration_ms": 217560,
       "name": "Volverte A Ver",
       "url": "https://open.spotify.com/track/2ZqFfDwNjKvPu3USx3onhO"
-    },
-    {
-      "added_at": "2024-06-12 20:29:16",
-      "album": {
-        "name": "Secuencia",
-        "url": "https://open.spotify.com/album/4kMpYWQfF4f4iXLhopgk3w"
-      },
-      "artists": [
-        {
-          "name": "Reik",
-          "url": "https://open.spotify.com/artist/0vR2qb8m9WHeZ5ByCbimq2"
-        }
-      ],
-      "duration_ms": 221200,
-      "name": "Sabes",
-      "url": "https://open.spotify.com/track/37miw1ff4zH0LDuFrBvZ4i"
     },
     {
       "added_at": "2024-06-12 20:29:16",

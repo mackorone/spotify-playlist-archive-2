@@ -1,12 +1,12 @@
 {
   "description": "Mellow songs from the 90s.",
-  "num_followers": 1978516,
+  "num_followers": 1979014,
   "original_name": "Soft 90s",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAALZqCqXaCtXoKnnpjfHvoVn0tpYo",
+  "snapshot_id": "AAAAALScAtxHUd3H35SL7kLN3HpSIjrc",
   "tracks": [
     {
       "added_at": "2024-07-02 21:50:37",
@@ -139,22 +139,6 @@
     {
       "added_at": "2024-07-02 21:50:37",
       "album": {
-        "name": "The Bodyguard - Original Soundtrack Album",
-        "url": "https://open.spotify.com/album/7JVJlkNNobS0GSoy4tCS96"
-      },
-      "artists": [
-        {
-          "name": "Whitney Houston",
-          "url": "https://open.spotify.com/artist/6XpaIBNiVzIetEPCWDvAFP"
-        }
-      ],
-      "duration_ms": 271093,
-      "name": "I Will Always Love You",
-      "url": "https://open.spotify.com/track/4eHbdreAnSOrDDsFfc4Fpm"
-    },
-    {
-      "added_at": "2024-07-02 21:50:37",
-      "album": {
         "name": "Ten Summoner's Tales",
         "url": "https://open.spotify.com/album/5kV0KBXfELibs6qQJLmOtg"
       },
@@ -167,6 +151,22 @@
       "duration_ms": 279226,
       "name": "Shape Of My Heart",
       "url": "https://open.spotify.com/track/6CKoWCWAqEVWVjpeoJXyNH"
+    },
+    {
+      "added_at": "2024-07-02 21:50:37",
+      "album": {
+        "name": "The Bodyguard - Original Soundtrack Album",
+        "url": "https://open.spotify.com/album/7JVJlkNNobS0GSoy4tCS96"
+      },
+      "artists": [
+        {
+          "name": "Whitney Houston",
+          "url": "https://open.spotify.com/artist/6XpaIBNiVzIetEPCWDvAFP"
+        }
+      ],
+      "duration_ms": 271093,
+      "name": "I Will Always Love You",
+      "url": "https://open.spotify.com/track/4eHbdreAnSOrDDsFfc4Fpm"
     },
     {
       "added_at": "2024-07-02 21:50:37",
@@ -219,22 +219,6 @@
     {
       "added_at": "2024-07-02 21:50:37",
       "album": {
-        "name": "The Bodyguard - Original Soundtrack Album",
-        "url": "https://open.spotify.com/album/7JVJlkNNobS0GSoy4tCS96"
-      },
-      "artists": [
-        {
-          "name": "Whitney Houston",
-          "url": "https://open.spotify.com/artist/6XpaIBNiVzIetEPCWDvAFP"
-        }
-      ],
-      "duration_ms": 289160,
-      "name": "I Have Nothing",
-      "url": "https://open.spotify.com/track/31er9IGsfFbwqy1pH4aiTP"
-    },
-    {
-      "added_at": "2024-07-02 21:50:37",
-      "album": {
         "name": "Unity",
         "url": "https://open.spotify.com/album/079QiYtMEMsGPv0TNAWZPe"
       },
@@ -247,6 +231,22 @@
       "duration_ms": 249520,
       "name": "Baby, I Love Your Way",
       "url": "https://open.spotify.com/track/2le9fblYnfoLr9dkZIsJUa"
+    },
+    {
+      "added_at": "2024-07-02 21:50:37",
+      "album": {
+        "name": "The Bodyguard - Original Soundtrack Album",
+        "url": "https://open.spotify.com/album/7JVJlkNNobS0GSoy4tCS96"
+      },
+      "artists": [
+        {
+          "name": "Whitney Houston",
+          "url": "https://open.spotify.com/artist/6XpaIBNiVzIetEPCWDvAFP"
+        }
+      ],
+      "duration_ms": 289160,
+      "name": "I Have Nothing",
+      "url": "https://open.spotify.com/track/31er9IGsfFbwqy1pH4aiTP"
     },
     {
       "added_at": "2024-07-02 21:50:37",
@@ -591,22 +591,6 @@
     {
       "added_at": "2024-07-02 21:50:37",
       "album": {
-        "name": "Millennium",
-        "url": "https://open.spotify.com/album/5ySxm9hxBNss01WCL7GLyQ"
-      },
-      "artists": [
-        {
-          "name": "Backstreet Boys",
-          "url": "https://open.spotify.com/artist/5rSXSAkZ67PYJSvpUpkOr7"
-        }
-      ],
-      "duration_ms": 234960,
-      "name": "Show Me the Meaning of Being Lonely",
-      "url": "https://open.spotify.com/track/3BsaRV5QIulYz2lV9WWa8T"
-    },
-    {
-      "added_at": "2024-07-02 21:50:37",
-      "album": {
         "name": "Jon Secada",
         "url": "https://open.spotify.com/album/1duV6ATgfQWMvjNyfHmxZL"
       },
@@ -619,6 +603,22 @@
       "duration_ms": 327426,
       "name": "Just Another Day",
       "url": "https://open.spotify.com/track/5AoBNJQDXXEnIJGjJjZu3y"
+    },
+    {
+      "added_at": "2024-07-02 21:50:37",
+      "album": {
+        "name": "Millennium",
+        "url": "https://open.spotify.com/album/5ySxm9hxBNss01WCL7GLyQ"
+      },
+      "artists": [
+        {
+          "name": "Backstreet Boys",
+          "url": "https://open.spotify.com/artist/5rSXSAkZ67PYJSvpUpkOr7"
+        }
+      ],
+      "duration_ms": 234960,
+      "name": "Show Me the Meaning of Being Lonely",
+      "url": "https://open.spotify.com/track/3BsaRV5QIulYz2lV9WWa8T"
     },
     {
       "added_at": "2024-07-02 21:50:37",
@@ -963,6 +963,22 @@
     {
       "added_at": "2024-07-02 21:50:37",
       "album": {
+        "name": "All Saints",
+        "url": "https://open.spotify.com/album/73aw7T2ZpoDvcPe2uSlWxF"
+      },
+      "artists": [
+        {
+          "name": "All Saints",
+          "url": "https://open.spotify.com/artist/5TDVKqW9uhqGjwwwKGuma4"
+        }
+      ],
+      "duration_ms": 387573,
+      "name": "Never Ever",
+      "url": "https://open.spotify.com/track/7ziHnshbknkpFLDW5yGBjO"
+    },
+    {
+      "added_at": "2024-07-02 21:50:37",
+      "album": {
         "name": "Celine Dion",
         "url": "https://open.spotify.com/album/7C6LFxLn63uasNoDIQ5khO"
       },
@@ -979,22 +995,6 @@
       "duration_ms": 249240,
       "name": "Beauty and the Beast - from the Soundtrack \"Beauty and the Beast\"",
       "url": "https://open.spotify.com/track/7B3UAPLYAbwXVgbHSKEaTw"
-    },
-    {
-      "added_at": "2024-07-02 21:50:37",
-      "album": {
-        "name": "All Saints",
-        "url": "https://open.spotify.com/album/73aw7T2ZpoDvcPe2uSlWxF"
-      },
-      "artists": [
-        {
-          "name": "All Saints",
-          "url": "https://open.spotify.com/artist/5TDVKqW9uhqGjwwwKGuma4"
-        }
-      ],
-      "duration_ms": 387573,
-      "name": "Never Ever",
-      "url": "https://open.spotify.com/track/7ziHnshbknkpFLDW5yGBjO"
     },
     {
       "added_at": "2024-07-02 21:50:37",
@@ -1215,6 +1215,22 @@
     {
       "added_at": "2024-07-02 21:50:37",
       "album": {
+        "name": "Secrets",
+        "url": "https://open.spotify.com/album/6rxtWZH5ua9eANwWdwwf9o"
+      },
+      "artists": [
+        {
+          "name": "Toni Braxton",
+          "url": "https://open.spotify.com/artist/3X458ddYA2YcVWuVIGGOYe"
+        }
+      ],
+      "duration_ms": 267440,
+      "name": "You're Makin' Me High",
+      "url": "https://open.spotify.com/track/5bJ796cOnGBzSN5bm4mwMj"
+    },
+    {
+      "added_at": "2024-07-02 21:50:37",
+      "album": {
         "name": "Angels",
         "url": "https://open.spotify.com/album/15lwLTwByJddohg3GvxICy"
       },
@@ -1231,38 +1247,18 @@
     {
       "added_at": "2024-07-02 21:50:37",
       "album": {
-        "name": "Chant Down Babylon",
-        "url": "https://open.spotify.com/album/4hV6TxaUkzEi4wUN6Fd0s7"
+        "name": "Older",
+        "url": "https://open.spotify.com/album/45evuVVrY9LzPez8geNEIF"
       },
       "artists": [
         {
-          "name": "Bob Marley",
-          "url": "https://open.spotify.com/artist/6BH2lormtpjy3X9DyrGHVj"
-        },
-        {
-          "name": "Ms. Lauryn Hill",
-          "url": "https://open.spotify.com/artist/2Mu5NfyYm8n5iTomuKAEHl"
+          "name": "George Michael",
+          "url": "https://open.spotify.com/artist/19ra5tSw0tWufvUp8GotLo"
         }
       ],
-      "duration_ms": 346333,
-      "name": "Turn Your Lights Down Low",
-      "url": "https://open.spotify.com/track/7I1fHMDNlHobS8SBUJAUDt"
-    },
-    {
-      "added_at": "2024-07-02 21:50:37",
-      "album": {
-        "name": "Secrets",
-        "url": "https://open.spotify.com/album/6rxtWZH5ua9eANwWdwwf9o"
-      },
-      "artists": [
-        {
-          "name": "Toni Braxton",
-          "url": "https://open.spotify.com/artist/3X458ddYA2YcVWuVIGGOYe"
-        }
-      ],
-      "duration_ms": 267440,
-      "name": "You're Makin' Me High",
-      "url": "https://open.spotify.com/track/5bJ796cOnGBzSN5bm4mwMj"
+      "duration_ms": 411146,
+      "name": "Jesus to a Child",
+      "url": "https://open.spotify.com/track/2SzCxX6M6vDwdEwnHDiTaY"
     },
     {
       "added_at": "2024-07-02 21:50:37",
@@ -1283,18 +1279,22 @@
     {
       "added_at": "2024-07-02 21:50:37",
       "album": {
-        "name": "Older",
-        "url": "https://open.spotify.com/album/45evuVVrY9LzPez8geNEIF"
+        "name": "Chant Down Babylon",
+        "url": "https://open.spotify.com/album/4hV6TxaUkzEi4wUN6Fd0s7"
       },
       "artists": [
         {
-          "name": "George Michael",
-          "url": "https://open.spotify.com/artist/19ra5tSw0tWufvUp8GotLo"
+          "name": "Bob Marley",
+          "url": "https://open.spotify.com/artist/6BH2lormtpjy3X9DyrGHVj"
+        },
+        {
+          "name": "Ms. Lauryn Hill",
+          "url": "https://open.spotify.com/artist/2Mu5NfyYm8n5iTomuKAEHl"
         }
       ],
-      "duration_ms": 411146,
-      "name": "Jesus to a Child",
-      "url": "https://open.spotify.com/track/2SzCxX6M6vDwdEwnHDiTaY"
+      "duration_ms": 346333,
+      "name": "Turn Your Lights Down Low",
+      "url": "https://open.spotify.com/track/7I1fHMDNlHobS8SBUJAUDt"
     },
     {
       "added_at": "2024-07-02 21:50:37",
@@ -1479,6 +1479,22 @@
     {
       "added_at": "2024-07-02 21:50:37",
       "album": {
+        "name": "Steam",
+        "url": "https://open.spotify.com/album/1HsKmkuzfcU57zh70og7Wd"
+      },
+      "artists": [
+        {
+          "name": "East 17",
+          "url": "https://open.spotify.com/artist/6lOC7lwSO1ql4Gc2Y3QObY"
+        }
+      ],
+      "duration_ms": 267133,
+      "name": "Stay Another Day",
+      "url": "https://open.spotify.com/track/4wYCe9tSmUolNU4WmJKbZy"
+    },
+    {
+      "added_at": "2024-07-02 21:50:37",
+      "album": {
         "name": "Black Gold: The Best Of Soul Asylum",
         "url": "https://open.spotify.com/album/6RARuzN6pIZZnQKwPeY7xQ"
       },
@@ -1527,18 +1543,18 @@
     {
       "added_at": "2024-07-02 21:50:37",
       "album": {
-        "name": "Steam",
-        "url": "https://open.spotify.com/album/1HsKmkuzfcU57zh70og7Wd"
+        "name": "The Gold Experience",
+        "url": "https://open.spotify.com/album/7JdnQ7zCfqETcLgS94d3ks"
       },
       "artists": [
         {
-          "name": "East 17",
-          "url": "https://open.spotify.com/artist/6lOC7lwSO1ql4Gc2Y3QObY"
+          "name": "Prince",
+          "url": "https://open.spotify.com/artist/5a2EaR3hamoenG9rDuVn8j"
         }
       ],
-      "duration_ms": 267133,
-      "name": "Stay Another Day",
-      "url": "https://open.spotify.com/track/4wYCe9tSmUolNU4WmJKbZy"
+      "duration_ms": 265320,
+      "name": "The Most Beautiful Girl In the World",
+      "url": "https://open.spotify.com/track/0aPaGIX2QIMAH5SMp0VEMe"
     },
     {
       "added_at": "2024-07-02 21:50:37",
@@ -1555,22 +1571,6 @@
       "duration_ms": 275040,
       "name": "Angel",
       "url": "https://open.spotify.com/track/543d68hZ4dzVePFfdVc0Ki"
-    },
-    {
-      "added_at": "2024-07-02 21:50:37",
-      "album": {
-        "name": "The Gold Experience",
-        "url": "https://open.spotify.com/album/7JdnQ7zCfqETcLgS94d3ks"
-      },
-      "artists": [
-        {
-          "name": "Prince",
-          "url": "https://open.spotify.com/artist/5a2EaR3hamoenG9rDuVn8j"
-        }
-      ],
-      "duration_ms": 265320,
-      "name": "The Most Beautiful Girl In the World",
-      "url": "https://open.spotify.com/track/0aPaGIX2QIMAH5SMp0VEMe"
     },
     {
       "added_at": "2024-07-02 21:50:37",
@@ -2419,22 +2419,6 @@
     {
       "added_at": "2024-07-02 21:50:37",
       "album": {
-        "name": "Out Of Time (U.S. Version)",
-        "url": "https://open.spotify.com/album/4v5hSLj6ClyLqj2nnaPbfD"
-      },
-      "artists": [
-        {
-          "name": "R.E.M.",
-          "url": "https://open.spotify.com/artist/4KWTAlx2RvbpseOGMEmROg"
-        }
-      ],
-      "duration_ms": 267733,
-      "name": "Losing My Religion",
-      "url": "https://open.spotify.com/track/74EV0g12ihUoOUXMprFpZB"
-    },
-    {
-      "added_at": "2024-07-02 21:50:37",
-      "album": {
         "name": "God Shuffled His Feet",
         "url": "https://open.spotify.com/album/03dlqdFWY9gwJxGl3AREVy"
       },
@@ -2447,6 +2431,22 @@
       "duration_ms": 235173,
       "name": "Mmm Mmm Mmm Mmm",
       "url": "https://open.spotify.com/track/31v2AQlx4pDI7kmnLxBkem"
+    },
+    {
+      "added_at": "2024-07-02 21:50:37",
+      "album": {
+        "name": "Out Of Time (U.S. Version)",
+        "url": "https://open.spotify.com/album/4v5hSLj6ClyLqj2nnaPbfD"
+      },
+      "artists": [
+        {
+          "name": "R.E.M.",
+          "url": "https://open.spotify.com/artist/4KWTAlx2RvbpseOGMEmROg"
+        }
+      ],
+      "duration_ms": 267733,
+      "name": "Losing My Religion",
+      "url": "https://open.spotify.com/track/74EV0g12ihUoOUXMprFpZB"
     },
     {
       "added_at": "2024-07-02 21:50:37",
@@ -2467,18 +2467,18 @@
     {
       "added_at": "2024-07-02 21:50:37",
       "album": {
-        "name": "I Don't Want To Miss A Thing",
-        "url": "https://open.spotify.com/album/616UgaZTc454Gu0aXxVH3K"
+        "name": "Affirmation",
+        "url": "https://open.spotify.com/album/67M8LSfsBxjM6AmxLjAzhT"
       },
       "artists": [
         {
-          "name": "Aerosmith",
-          "url": "https://open.spotify.com/artist/7Ey4PD4MYsKc5I2dolUwbH"
+          "name": "Savage Garden",
+          "url": "https://open.spotify.com/artist/3NRFinRTEqUCfaTTZmk8ek"
         }
       ],
-      "duration_ms": 299760,
-      "name": "I Don't Want to Miss a Thing - From the Touchstone film, \"Armageddon\"",
-      "url": "https://open.spotify.com/track/0c1gHntWjKD7QShC8s99sq"
+      "duration_ms": 281840,
+      "name": "Crash and Burn",
+      "url": "https://open.spotify.com/track/5K42nFG0GelzG7oESUf7uj"
     }
   ],
   "unique_name": "Soft 90s",

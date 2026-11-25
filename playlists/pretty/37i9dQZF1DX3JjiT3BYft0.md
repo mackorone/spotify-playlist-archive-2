@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3JjiT3BYft0.md) - [plain]
 
 > Music from “BanG Dream! “ series!
 
-[Spotify](https://open.spotify.com/user/spotify) - 79,122 likes - 75 songs - 4 hr 58 min
+[Spotify](https://open.spotify.com/user/spotify) - 79,124 likes - 75 songs - 4 hr 58 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3JjiT3BYft0.md) - [plain]
 | 74 | [Symbol III : ▽](https://open.spotify.com/track/60pIkGRQ1VnpT0d8LDfb8U) | [Ave Mujica](https://open.spotify.com/artist/5BKIH2Kwc6LbetG04Boai7) | [ELEMENTS](https://open.spotify.com/album/7zyvlQgQ6uS9Hu1jiUssGx) | 4:16 |
 | 75 | [ぽっぴん'どりーむ！](https://open.spotify.com/track/5339nA0dO3UqGj0TXGxC6J) | [Poppin'Party](https://open.spotify.com/artist/2XzrQN7hxZibYdVEbl0nO6) | [POPIGENIC](https://open.spotify.com/album/4J0ob8cyT5lF023GxAnVF4) | 4:30 |
 
-Snapshot ID: `AAAAAKOlhPdgbQGdSpEITe9nuf99EdhA`
+Snapshot ID: `AAAAAEPviKvS+Oi54ZGMtifZOxtX4Rmn`

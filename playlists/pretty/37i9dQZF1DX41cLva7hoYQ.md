@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX41cLva7hoYQ.md) - [plain]
 
 > Jazz piano ballads to help you focus during the workday.
 
-[Spotify](https://open.spotify.com/user/spotify) - 139,810 likes - 129 songs - 7 hr 28 min
+[Spotify](https://open.spotify.com/user/spotify) - 139,830 likes - 129 songs - 7 hr 28 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -138,4 +138,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX41cLva7hoYQ.md) - [plain]
 | 128 | [February Brings The Rain](https://open.spotify.com/track/5u795XTEp5nJdQOfGJyi1i) | [Fulton Street Players](https://open.spotify.com/artist/3ZOpJEdIEoBxNv0MWG5FB0) | [February Brings The Rain](https://open.spotify.com/album/3HuZSjtGmUndStly4pKiLv) | 3:41 |
 | 129 | [Journeying](https://open.spotify.com/track/0rxrNlowteTww0qD51gmJC) | [The Don Mason Trio](https://open.spotify.com/artist/0lKn6bgPn1MwQE2L2OGjUf) | [Journeying](https://open.spotify.com/album/3P9JiFggKtxEEdi9l67JRp) | 3:51 |
 
-Snapshot ID: `AAAAABojO8LRXQ+HdZd5EZ9NAn+cB6Fc`
+Snapshot ID: `AAAAABqIn2Li6heLpG6Ivm3FeAJLhrwK`

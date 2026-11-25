@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXe7fP0uj1s1D.md) - [plain]
 
 > Every Taylor Swift music video\. Watch now.
 
-[Spotify](https://open.spotify.com/user/spotify) - 178,218 likes - 60 songs - 4 hr 3 min
+[Spotify](https://open.spotify.com/user/spotify) - 178,229 likes - 60 songs - 4 hr 3 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -69,4 +69,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXe7fP0uj1s1D.md) - [plain]
 | 59 | [Elizabeth Taylor](https://open.spotify.com/track/1QDlKohzDGXKugvSjzJbEN) | [Taylor Swift](https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02) | [Elizabeth Taylor](https://open.spotify.com/album/35nW0WE1a5MbU9qYfGS6W0) | 3:48 |
 | 60 | [Christmas Tree Farm](https://open.spotify.com/track/2mvabkN1i2gLnGAPUVdwek) | [Taylor Swift](https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02) | [Christmas Tree Farm](https://open.spotify.com/album/5JnnrTE35MQagEnEkFthiF) | 3:48 |
 
-Snapshot ID: `AAAAACbx9kjZPgRgnZ54Yd6EzGrC5l+b`
+Snapshot ID: `AAAAAN0qTPEmdXIxPfCppu6bCq/YDKT8`

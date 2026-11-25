@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSElo6PPUdZk.md) - [plain]
 
 > Catch the queens of Punjabi Pop\. Cover: Noor Chahal
 
-[Spotify](https://open.spotify.com/user/spotify) - 42,561 likes - 50 songs - 2 hr 24 min
+[Spotify](https://open.spotify.com/user/spotify) - 42,571 likes - 50 songs - 2 hr 24 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSElo6PPUdZk.md) - [plain]
 | 49 | [Bhulekhe](https://open.spotify.com/track/5H9ry3GVPJ7sqyWl1Qth6F) | [Mikki Kalyan](https://open.spotify.com/artist/0ZNULUVcrieYhGci2qr134), [Pitterr](https://open.spotify.com/artist/4kFmVHFnKNFrkxQ2Pf42qt), [Youngstarr Pop Boy](https://open.spotify.com/artist/3qQfU4XvZCmz8Hwwu5pSr9) | [Bhulekhe](https://open.spotify.com/album/488S9BjZAsmSp52rDeLZqn) | 3:08 |
 | 50 | [Nazar](https://open.spotify.com/track/37ogTsqSzkHARCwff2p9f9) | [Sifat Dhillon](https://open.spotify.com/artist/3K7jwOEv0p7Uci0NhZXugC), [Don Nas](https://open.spotify.com/artist/7z5ImG1hrWgPx7K5HMMEcC), [Deep Boparai](https://open.spotify.com/artist/2YOwXX24g1UB05iwJ7HE6d) | [Nazar](https://open.spotify.com/album/2JQSlImy0ITeARqyQQbTzw) | 2:51 |
 
-Snapshot ID: `AAAAAM8wlO9I9FvgASycVH0JK1N2VOgF`
+Snapshot ID: `AAAAAMvQ+w4LSWMCg5JkUYZMygrAl2wm`

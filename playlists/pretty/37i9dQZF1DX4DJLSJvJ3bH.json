@@ -1,12 +1,12 @@
 {
   "description": "All your favourite holiday jazz classics for your christmas dinner party.",
-  "num_followers": 142578,
+  "num_followers": 142599,
   "original_name": "Jazzy Christmas Dinner",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAHODKxXIiQD/zH4AYm04ZJJLe/rI",
+  "snapshot_id": "AAAAADoJ90NNcDHENgnQGKc0RJef8FFp",
   "tracks": [
     {
       "added_at": "2026-11-20 10:06:46",
@@ -255,22 +255,6 @@
     {
       "added_at": "2026-11-20 10:06:46",
       "album": {
-        "name": "I Saw Three Ships",
-        "url": "https://open.spotify.com/album/72Eg5ywjro4gFFqgG8ewqS"
-      },
-      "artists": [
-        {
-          "name": "Charlie James-Walker",
-          "url": "https://open.spotify.com/artist/7apm9TJQ66v5ykLahf9B3U"
-        }
-      ],
-      "duration_ms": 147547,
-      "name": "In the Bleak Midwinter",
-      "url": "https://open.spotify.com/track/5QCub19WJvIa3TDtJaHl8I"
-    },
-    {
-      "added_at": "2026-11-20 10:06:46",
-      "album": {
         "name": "O come all ye faithful",
         "url": "https://open.spotify.com/album/5RYjwFs6SoHvS4XzobAAD1"
       },
@@ -283,6 +267,22 @@
       "duration_ms": 186590,
       "name": "O come all ye faithful",
       "url": "https://open.spotify.com/track/4UgEfUpPFhMAQKbH9ewEog"
+    },
+    {
+      "added_at": "2026-11-20 10:06:46",
+      "album": {
+        "name": "I Saw Three Ships",
+        "url": "https://open.spotify.com/album/72Eg5ywjro4gFFqgG8ewqS"
+      },
+      "artists": [
+        {
+          "name": "Charlie James-Walker",
+          "url": "https://open.spotify.com/artist/7apm9TJQ66v5ykLahf9B3U"
+        }
+      ],
+      "duration_ms": 147547,
+      "name": "In the Bleak Midwinter",
+      "url": "https://open.spotify.com/track/5QCub19WJvIa3TDtJaHl8I"
     },
     {
       "added_at": "2026-11-20 10:06:46",
@@ -319,22 +319,6 @@
     {
       "added_at": "2026-11-20 10:06:46",
       "album": {
-        "name": "When Christmas Comes To Town",
-        "url": "https://open.spotify.com/album/3qGQQNK6A22LBRUmiO74fO"
-      },
-      "artists": [
-        {
-          "name": "Taylor Owen Trio",
-          "url": "https://open.spotify.com/artist/5pCUMgtJ7hUMrCDeYm96Ca"
-        }
-      ],
-      "duration_ms": 209259,
-      "name": "When Christmas Comes To Town",
-      "url": "https://open.spotify.com/track/5Z3ieIAxQzR7pMx8p9QLfV"
-    },
-    {
-      "added_at": "2026-11-20 10:06:46",
-      "album": {
         "name": "The First Noel",
         "url": "https://open.spotify.com/album/6niAhccZNGPJoi3vkQwqQ2"
       },
@@ -347,6 +331,22 @@
       "duration_ms": 117756,
       "name": "The First Noel",
       "url": "https://open.spotify.com/track/2yvU9bLNb4Tv7PMEnKzMYn"
+    },
+    {
+      "added_at": "2026-11-20 10:06:46",
+      "album": {
+        "name": "When Christmas Comes To Town",
+        "url": "https://open.spotify.com/album/3qGQQNK6A22LBRUmiO74fO"
+      },
+      "artists": [
+        {
+          "name": "Taylor Owen Trio",
+          "url": "https://open.spotify.com/artist/5pCUMgtJ7hUMrCDeYm96Ca"
+        }
+      ],
+      "duration_ms": 209259,
+      "name": "When Christmas Comes To Town",
+      "url": "https://open.spotify.com/track/5Z3ieIAxQzR7pMx8p9QLfV"
     },
     {
       "added_at": "2026-11-20 10:06:46",
@@ -415,6 +415,22 @@
     {
       "added_at": "2026-11-20 10:06:46",
       "album": {
+        "name": "A December Dream",
+        "url": "https://open.spotify.com/album/7vr14mFSBoe0JEuKiKQdZH"
+      },
+      "artists": [
+        {
+          "name": "Eternal Time Trio",
+          "url": "https://open.spotify.com/artist/7Db24rMZl5sv7EQL5CP988"
+        }
+      ],
+      "duration_ms": 152424,
+      "name": "A December Dream",
+      "url": "https://open.spotify.com/track/3wWurMX9uyG7SA8mXkYx33"
+    },
+    {
+      "added_at": "2026-11-20 10:06:46",
+      "album": {
         "name": "Please come home for christmas",
         "url": "https://open.spotify.com/album/5r2ZzaDZhyqzORtTWnbYPM"
       },
@@ -443,22 +459,6 @@
       "duration_ms": 154242,
       "name": "Jingle Bell Rock",
       "url": "https://open.spotify.com/track/6Ii4dVFX3MyZiroqSHQjJf"
-    },
-    {
-      "added_at": "2026-11-20 10:06:46",
-      "album": {
-        "name": "A December Dream",
-        "url": "https://open.spotify.com/album/7vr14mFSBoe0JEuKiKQdZH"
-      },
-      "artists": [
-        {
-          "name": "Eternal Time Trio",
-          "url": "https://open.spotify.com/artist/7Db24rMZl5sv7EQL5CP988"
-        }
-      ],
-      "duration_ms": 152424,
-      "name": "A December Dream",
-      "url": "https://open.spotify.com/track/3wWurMX9uyG7SA8mXkYx33"
     },
     {
       "added_at": "2026-11-20 10:06:46",
@@ -559,6 +559,22 @@
     {
       "added_at": "2026-11-20 10:06:46",
       "album": {
+        "name": "What Are You Doing New Years Eve",
+        "url": "https://open.spotify.com/album/4ZeUwxj3422C87PXMN8ajR"
+      },
+      "artists": [
+        {
+          "name": "Piccadilly Blue Trio",
+          "url": "https://open.spotify.com/artist/1UoHg0FjzkJ585vQq9NkT3"
+        }
+      ],
+      "duration_ms": 120427,
+      "name": "What Are You Doing New Years Eve",
+      "url": "https://open.spotify.com/track/5jRbKBFU3v3taMeS7UZ3h2"
+    },
+    {
+      "added_at": "2026-11-20 10:06:46",
+      "album": {
         "name": "The Christmas Tarte",
         "url": "https://open.spotify.com/album/0amWZX4oYh5a7oJ9d486U9"
       },
@@ -587,22 +603,6 @@
       "duration_ms": 165225,
       "name": "Once in Royal David's City",
       "url": "https://open.spotify.com/track/68ugUmH1wjIN0vCR98sC7G"
-    },
-    {
-      "added_at": "2026-11-20 10:06:46",
-      "album": {
-        "name": "What Are You Doing New Years Eve",
-        "url": "https://open.spotify.com/album/4ZeUwxj3422C87PXMN8ajR"
-      },
-      "artists": [
-        {
-          "name": "Piccadilly Blue Trio",
-          "url": "https://open.spotify.com/artist/1UoHg0FjzkJ585vQq9NkT3"
-        }
-      ],
-      "duration_ms": 120427,
-      "name": "What Are You Doing New Years Eve",
-      "url": "https://open.spotify.com/track/5jRbKBFU3v3taMeS7UZ3h2"
     },
     {
       "added_at": "2026-11-20 10:06:46",
@@ -931,22 +931,6 @@
     {
       "added_at": "2026-11-20 10:06:46",
       "album": {
-        "name": "O Holy Night",
-        "url": "https://open.spotify.com/album/47cnEsOj15N4yVqUg8xq2B"
-      },
-      "artists": [
-        {
-          "name": "Whitby Snell",
-          "url": "https://open.spotify.com/artist/3OTOWvIOtIuWDCLStPVCKi"
-        }
-      ],
-      "duration_ms": 257900,
-      "name": "O Holy Night",
-      "url": "https://open.spotify.com/track/7HuuaSBXERQWt396J4fxuC"
-    },
-    {
-      "added_at": "2026-11-20 10:06:46",
-      "album": {
         "name": "Go Tell It On The Mountain",
         "url": "https://open.spotify.com/album/7IbDqi94MtPmiq4eLlZf6i"
       },
@@ -959,6 +943,22 @@
       "duration_ms": 150550,
       "name": "Go Tell It On The Mountain",
       "url": "https://open.spotify.com/track/2IHJbBiT7v4oR4WXt63yVZ"
+    },
+    {
+      "added_at": "2026-11-20 10:06:46",
+      "album": {
+        "name": "O Holy Night",
+        "url": "https://open.spotify.com/album/47cnEsOj15N4yVqUg8xq2B"
+      },
+      "artists": [
+        {
+          "name": "Whitby Snell",
+          "url": "https://open.spotify.com/artist/3OTOWvIOtIuWDCLStPVCKi"
+        }
+      ],
+      "duration_ms": 257900,
+      "name": "O Holy Night",
+      "url": "https://open.spotify.com/track/7HuuaSBXERQWt396J4fxuC"
     },
     {
       "added_at": "2026-11-20 10:06:46",
@@ -979,38 +979,6 @@
     {
       "added_at": "2026-11-20 10:06:46",
       "album": {
-        "name": "Misteltoe",
-        "url": "https://open.spotify.com/album/6oVj4hoU09YwTQDLmo1e7K"
-      },
-      "artists": [
-        {
-          "name": "The Mill Basin Band",
-          "url": "https://open.spotify.com/artist/4lMgo5IwaCdF1fRSdubcUU"
-        }
-      ],
-      "duration_ms": 142029,
-      "name": "Misteltoe",
-      "url": "https://open.spotify.com/track/6SJKiadklwqj969ihsTL06"
-    },
-    {
-      "added_at": "2026-11-20 10:06:46",
-      "album": {
-        "name": "The Night Before Christmas",
-        "url": "https://open.spotify.com/album/17h2pP4o8KoCOoFpS4IDy7"
-      },
-      "artists": [
-        {
-          "name": "Greenwich Quartet",
-          "url": "https://open.spotify.com/artist/0WfKXLxFT8BbognJ98vMlh"
-        }
-      ],
-      "duration_ms": 218110,
-      "name": "The Night Before Christmas",
-      "url": "https://open.spotify.com/track/4aFHfT8vtA7DCamwvh1Rad"
-    },
-    {
-      "added_at": "2026-11-20 10:06:46",
-      "album": {
         "name": "With or Without Snow",
         "url": "https://open.spotify.com/album/3RdAu5tVKAVZjPylF6CRUv"
       },
@@ -1027,6 +995,22 @@
       "duration_ms": 178113,
       "name": "With or Without Snow",
       "url": "https://open.spotify.com/track/5VWS9ZodFhonOzebqUsmlR"
+    },
+    {
+      "added_at": "2026-11-20 10:06:46",
+      "album": {
+        "name": "Misteltoe",
+        "url": "https://open.spotify.com/album/6oVj4hoU09YwTQDLmo1e7K"
+      },
+      "artists": [
+        {
+          "name": "The Mill Basin Band",
+          "url": "https://open.spotify.com/artist/4lMgo5IwaCdF1fRSdubcUU"
+        }
+      ],
+      "duration_ms": 142029,
+      "name": "Misteltoe",
+      "url": "https://open.spotify.com/track/6SJKiadklwqj969ihsTL06"
     },
     {
       "added_at": "2026-11-20 10:06:46",
@@ -1059,6 +1043,22 @@
       "duration_ms": 96947,
       "name": "Oh what a merry christmas day",
       "url": "https://open.spotify.com/track/4lIPBRlA44zsLXpGzg3mS1"
+    },
+    {
+      "added_at": "2026-11-20 10:06:46",
+      "album": {
+        "name": "The Night Before Christmas",
+        "url": "https://open.spotify.com/album/17h2pP4o8KoCOoFpS4IDy7"
+      },
+      "artists": [
+        {
+          "name": "Greenwich Quartet",
+          "url": "https://open.spotify.com/artist/0WfKXLxFT8BbognJ98vMlh"
+        }
+      ],
+      "duration_ms": 218110,
+      "name": "The Night Before Christmas",
+      "url": "https://open.spotify.com/track/4aFHfT8vtA7DCamwvh1Rad"
     },
     {
       "added_at": "2026-11-20 10:06:46",
@@ -1143,22 +1143,6 @@
     {
       "added_at": "2026-11-20 10:06:46",
       "album": {
-        "name": "The North Pole Express",
-        "url": "https://open.spotify.com/album/1NbfF4vlT8Eq9rhi78B9S2"
-      },
-      "artists": [
-        {
-          "name": "Japari Park",
-          "url": "https://open.spotify.com/artist/5waLCZV0AzAqjHOln3XZMW"
-        }
-      ],
-      "duration_ms": 170000,
-      "name": "The North Pole Express",
-      "url": "https://open.spotify.com/track/1WpxDIN7ccKey5xJm5wTen"
-    },
-    {
-      "added_at": "2026-11-20 10:06:46",
-      "album": {
         "name": "Trio 64",
         "url": "https://open.spotify.com/album/4rLPJEiZuhRRswnBGBgVvv"
       },
@@ -1175,18 +1159,18 @@
     {
       "added_at": "2026-11-20 10:06:46",
       "album": {
-        "name": "That Christmas Feel",
-        "url": "https://open.spotify.com/album/1eRIaiBeErayP8Cfve02kJ"
+        "name": "The North Pole Express",
+        "url": "https://open.spotify.com/album/1NbfF4vlT8Eq9rhi78B9S2"
       },
       "artists": [
         {
-          "name": "Grayville Trio",
-          "url": "https://open.spotify.com/artist/6ll13Y20dnndy8mAuF9tgk"
+          "name": "Japari Park",
+          "url": "https://open.spotify.com/artist/5waLCZV0AzAqjHOln3XZMW"
         }
       ],
-      "duration_ms": 234263,
-      "name": "Ave Maria",
-      "url": "https://open.spotify.com/track/4Ed2ZWI33fojtD1FRhVk29"
+      "duration_ms": 170000,
+      "name": "The North Pole Express",
+      "url": "https://open.spotify.com/track/1WpxDIN7ccKey5xJm5wTen"
     },
     {
       "added_at": "2026-11-20 10:06:46",
@@ -1203,6 +1187,22 @@
       "duration_ms": 201431,
       "name": "Give love on christmas day",
       "url": "https://open.spotify.com/track/0dSzcKjA1PWamU3iokaKBc"
+    },
+    {
+      "added_at": "2026-11-20 10:06:46",
+      "album": {
+        "name": "That Christmas Feel",
+        "url": "https://open.spotify.com/album/1eRIaiBeErayP8Cfve02kJ"
+      },
+      "artists": [
+        {
+          "name": "Grayville Trio",
+          "url": "https://open.spotify.com/artist/6ll13Y20dnndy8mAuF9tgk"
+        }
+      ],
+      "duration_ms": 234263,
+      "name": "Ave Maria",
+      "url": "https://open.spotify.com/track/4Ed2ZWI33fojtD1FRhVk29"
     },
     {
       "added_at": "2026-11-20 10:06:46",
@@ -1399,38 +1399,6 @@
     {
       "added_at": "2026-11-20 10:06:46",
       "album": {
-        "name": "Here We Come A-Caroling",
-        "url": "https://open.spotify.com/album/3egzz4FGBjVceoI4hO89BI"
-      },
-      "artists": [
-        {
-          "name": "Goblin Quartet",
-          "url": "https://open.spotify.com/artist/0ceEvbf4gmN9my4kriQVfm"
-        }
-      ],
-      "duration_ms": 143808,
-      "name": "Here We Come A-Caroling",
-      "url": "https://open.spotify.com/track/6dAElJFsKJmqRrqaHYoJfg"
-    },
-    {
-      "added_at": "2026-11-20 10:06:46",
-      "album": {
-        "name": "Jingle Bells",
-        "url": "https://open.spotify.com/album/5QiRNuqANTMFeKdznWLy7o"
-      },
-      "artists": [
-        {
-          "name": "Tom Stills Quartet",
-          "url": "https://open.spotify.com/artist/2AE39jS64KnonFYcLHAUv0"
-        }
-      ],
-      "duration_ms": 88172,
-      "name": "Joy to the World",
-      "url": "https://open.spotify.com/track/5xKtM3Y9NrT5VeoVxrAerk"
-    },
-    {
-      "added_at": "2026-11-20 10:06:46",
-      "album": {
         "name": "The Man With The Bag",
         "url": "https://open.spotify.com/album/21Xq5vgILkNpVZiGKjBgdd"
       },
@@ -1447,6 +1415,22 @@
     {
       "added_at": "2026-11-20 10:06:46",
       "album": {
+        "name": "Here We Come A-Caroling",
+        "url": "https://open.spotify.com/album/3egzz4FGBjVceoI4hO89BI"
+      },
+      "artists": [
+        {
+          "name": "Goblin Quartet",
+          "url": "https://open.spotify.com/artist/0ceEvbf4gmN9my4kriQVfm"
+        }
+      ],
+      "duration_ms": 143808,
+      "name": "Here We Come A-Caroling",
+      "url": "https://open.spotify.com/track/6dAElJFsKJmqRrqaHYoJfg"
+    },
+    {
+      "added_at": "2026-11-20 10:06:46",
+      "album": {
         "name": "Winter Romance",
         "url": "https://open.spotify.com/album/1szFel7JNQRqtY3oFeTltQ"
       },
@@ -1459,6 +1443,22 @@
       "duration_ms": 150574,
       "name": "Winter Romance",
       "url": "https://open.spotify.com/track/2ZZ4sobk5gWWHJgAMIXt7A"
+    },
+    {
+      "added_at": "2026-11-20 10:06:46",
+      "album": {
+        "name": "Jingle Bells",
+        "url": "https://open.spotify.com/album/5QiRNuqANTMFeKdznWLy7o"
+      },
+      "artists": [
+        {
+          "name": "Tom Stills Quartet",
+          "url": "https://open.spotify.com/artist/2AE39jS64KnonFYcLHAUv0"
+        }
+      ],
+      "duration_ms": 88172,
+      "name": "Joy to the World",
+      "url": "https://open.spotify.com/track/5xKtM3Y9NrT5VeoVxrAerk"
     },
     {
       "added_at": "2026-11-20 10:06:46",
@@ -1623,22 +1623,6 @@
     {
       "added_at": "2026-11-20 10:06:46",
       "album": {
-        "name": "When My Heart Finds Christmas",
-        "url": "https://open.spotify.com/album/1puRIKtM4c4aDpUNJNtyn4"
-      },
-      "artists": [
-        {
-          "name": "Harry Connick, Jr.",
-          "url": "https://open.spotify.com/artist/6u17YlWtW4oqFF5Hn9UU79"
-        }
-      ],
-      "duration_ms": 220760,
-      "name": "Sleigh Ride",
-      "url": "https://open.spotify.com/track/7Ez9zlZuyvEo2iiRvOSDnd"
-    },
-    {
-      "added_at": "2026-11-20 10:06:46",
-      "album": {
         "name": "White Christmas",
         "url": "https://open.spotify.com/album/3YsRLmD4nlPi6fJOEmsO30"
       },
@@ -1651,6 +1635,22 @@
       "duration_ms": 266586,
       "name": "Baby It's Cold Outside",
       "url": "https://open.spotify.com/track/7m7tdsmeN4M0rZXJR4PHN7"
+    },
+    {
+      "added_at": "2026-11-20 10:06:46",
+      "album": {
+        "name": "When My Heart Finds Christmas",
+        "url": "https://open.spotify.com/album/1puRIKtM4c4aDpUNJNtyn4"
+      },
+      "artists": [
+        {
+          "name": "Harry Connick, Jr.",
+          "url": "https://open.spotify.com/artist/6u17YlWtW4oqFF5Hn9UU79"
+        }
+      ],
+      "duration_ms": 220760,
+      "name": "Sleigh Ride",
+      "url": "https://open.spotify.com/track/7Ez9zlZuyvEo2iiRvOSDnd"
     },
     {
       "added_at": "2026-11-20 10:06:46",
@@ -1919,26 +1919,6 @@
     {
       "added_at": "2026-11-20 10:06:46",
       "album": {
-        "name": "The Merriest",
-        "url": "https://open.spotify.com/album/3VoVYgeYB0L3ZwYx0ox2UF"
-      },
-      "artists": [
-        {
-          "name": "Jane Monheit",
-          "url": "https://open.spotify.com/artist/7rwI5cbw9cUKFVul2rZMiZ"
-        },
-        {
-          "name": "John Pizzarelli",
-          "url": "https://open.spotify.com/artist/5Yc3oYPNlABAj17eZiNJqf"
-        }
-      ],
-      "duration_ms": 237613,
-      "name": "That Holiday Feeling",
-      "url": "https://open.spotify.com/track/1bKVlbJLBpyyXM5SwJovPW"
-    },
-    {
-      "added_at": "2026-11-20 10:06:46",
-      "album": {
         "name": "Love to Keep Me Warm",
         "url": "https://open.spotify.com/album/0pzpLwsZSU0MKFsImNxynF"
       },
@@ -1955,6 +1935,26 @@
       "duration_ms": 158133,
       "name": "Love to Keep Me Warm",
       "url": "https://open.spotify.com/track/2x6Hg0OmYnkvCtFmAcyzwX"
+    },
+    {
+      "added_at": "2026-11-20 10:06:46",
+      "album": {
+        "name": "The Merriest",
+        "url": "https://open.spotify.com/album/3VoVYgeYB0L3ZwYx0ox2UF"
+      },
+      "artists": [
+        {
+          "name": "Jane Monheit",
+          "url": "https://open.spotify.com/artist/7rwI5cbw9cUKFVul2rZMiZ"
+        },
+        {
+          "name": "John Pizzarelli",
+          "url": "https://open.spotify.com/artist/5Yc3oYPNlABAj17eZiNJqf"
+        }
+      ],
+      "duration_ms": 237613,
+      "name": "That Holiday Feeling",
+      "url": "https://open.spotify.com/track/1bKVlbJLBpyyXM5SwJovPW"
     },
     {
       "added_at": "2026-11-20 10:06:46",

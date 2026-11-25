@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2021-12-21",
-  "description": "Fresh rock & alternative from independent artists every Wednesday. Cover: Louis Ottley",
+  "description": "Fresh rock & alternative from independent artists every Wednesday. Cover: footballhead",
   "name": "Fresh Finds Rock",
   "tracks": [
     {
@@ -3452,7 +3452,7 @@
       ],
       "date_added": "2026-09-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-25",
       "duration_ms": 203906,
       "name": "Bark",
       "url": "https://open.spotify.com/track/7j7EIvoA7IOWBHQsIUlk9S"
@@ -9683,6 +9683,24 @@
     },
     {
       "album": {
+        "name": "How to Count to Five",
+        "url": "https://open.spotify.com/album/336ZRfgCtvRuRPp0THNrYJ"
+      },
+      "artists": [
+        {
+          "name": "Holidays in United States",
+          "url": "https://open.spotify.com/artist/4Hx2EMq5CumzokenbyEcSM"
+        }
+      ],
+      "date_added": "2026-11-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 246895,
+      "name": "Dainty Flower Song",
+      "url": "https://open.spotify.com/track/3hMcwwnatAWMmDfcD3r1z2"
+    },
+    {
+      "album": {
         "name": "Daisy",
         "url": "https://open.spotify.com/album/5IcszA2oS2W638Ii5h25gZ"
       },
@@ -15046,7 +15064,7 @@
       ],
       "date_added": "2026-09-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-25",
       "duration_ms": 253500,
       "name": "FORMULA BABY",
       "url": "https://open.spotify.com/track/1mtfpmiOwvsVk6ZYHO594j"
@@ -23823,6 +23841,24 @@
     },
     {
       "album": {
+        "name": "Morning Blue",
+        "url": "https://open.spotify.com/album/3UNColIC41CYMlTXK3qGl8"
+      },
+      "artists": [
+        {
+          "name": "Appleseed",
+          "url": "https://open.spotify.com/artist/5M5tZKYazaZLsl9HZouMoj"
+        }
+      ],
+      "date_added": "2026-11-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 207308,
+      "name": "Lipstick",
+      "url": "https://open.spotify.com/track/6M5RWnOZZLzO9zQIIXWhxg"
+    },
+    {
+      "album": {
         "name": "Listen Up!",
         "url": "https://open.spotify.com/album/7kpa1EaQeIMJ0enhvc70J5"
       },
@@ -25498,7 +25534,7 @@
       ],
       "date_added": "2026-09-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-25",
       "duration_ms": 163347,
       "name": "Mexico",
       "url": "https://open.spotify.com/track/7HkfdMVLrGBokWGg4CdliZ"
@@ -29296,6 +29332,24 @@
       "duration_ms": 274881,
       "name": "Outside",
       "url": "https://open.spotify.com/track/5Po30QxzWYQDtYEAIvV2Gp"
+    },
+    {
+      "album": {
+        "name": "Outside",
+        "url": "https://open.spotify.com/album/5pj2wzjIXaakK4rHAtckr4"
+      },
+      "artists": [
+        {
+          "name": "Ovven",
+          "url": "https://open.spotify.com/artist/5ngTSqP6WSRmxbKLSAzra8"
+        }
+      ],
+      "date_added": "2026-11-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 194200,
+      "name": "Outside",
+      "url": "https://open.spotify.com/track/0o59Tn2F9yJTabUOfGNxsM"
     },
     {
       "album": {
@@ -34038,6 +34092,24 @@
       "duration_ms": 288600,
       "name": "Seed",
       "url": "https://open.spotify.com/track/4vchQBjUyGzAA38N4WQLBm"
+    },
+    {
+      "album": {
+        "name": "Happiest Day of My Life",
+        "url": "https://open.spotify.com/album/3EFVfbm41IvgsSkVwVFsj7"
+      },
+      "artists": [
+        {
+          "name": "Horsepower",
+          "url": "https://open.spotify.com/artist/1ERf6Gecr1VWPzibnPJt1Y"
+        }
+      ],
+      "date_added": "2026-11-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 205955,
+      "name": "Seek",
+      "url": "https://open.spotify.com/track/7001JGakHTD5PF7IKUA45X"
     },
     {
       "album": {
@@ -39542,7 +39614,7 @@
       ],
       "date_added": "2026-04-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-25",
       "duration_ms": 259053,
       "name": "The Fall",
       "url": "https://open.spotify.com/track/5JGxNbaQDvKbWvOINQsmJT"

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3SDnFW.md) - [plain]
 
 > This is Sam Fender\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 257,292 likes - 41 songs - 2 hr 31 min
+[Spotify](https://open.spotify.com/user/spotify) - 257,342 likes - 41 songs - 2 hr 31 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -19,8 +19,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3SDnFW.md) - [plain]
 | 9 | [Will We Talk?](https://open.spotify.com/track/5g0HSob4PEq7M8blV6y70i) | [Sam Fender](https://open.spotify.com/artist/6zlR5ttMfMNmwf2lecU9Cc) | [Hypersonic Missiles](https://open.spotify.com/album/7FWCgfnTgupXdyBy51ME9m) | 2:42 |
 | 10 | [Getting Started](https://open.spotify.com/track/4jzK6Ey84SAexMK5C2JWKx) | [Sam Fender](https://open.spotify.com/artist/6zlR5ttMfMNmwf2lecU9Cc) | [Seventeen Going Under \(Deluxe\)](https://open.spotify.com/album/4FKOLaEGqA7ZFYYW5r4X9z) | 3:09 |
 | 11 | [Little Bit Closer](https://open.spotify.com/track/3y6DzVmGrnOEftEgBKb3fq) | [Sam Fender](https://open.spotify.com/artist/6zlR5ttMfMNmwf2lecU9Cc) | [People Watching](https://open.spotify.com/album/6Abecbed8BYAdHy9RaVoY7) | 3:54 |
-| 12 | [The Borders](https://open.spotify.com/track/4hui0bX1Bv89yg1BTsz4NU) | [Sam Fender](https://open.spotify.com/artist/6zlR5ttMfMNmwf2lecU9Cc) | [Hypersonic Missiles](https://open.spotify.com/album/7FWCgfnTgupXdyBy51ME9m) | 5:32 |
-| 13 | [Homesick \(with Sam Fender\)](https://open.spotify.com/track/4L3Rud7r43lpC2NVJeSzSO) | [Noah Kahan](https://open.spotify.com/artist/2RQXRUsr4IW1f3mKyKsy4B), [Sam Fender](https://open.spotify.com/artist/6zlR5ttMfMNmwf2lecU9Cc) | [Stick Season \(Forever\)](https://open.spotify.com/album/3qBWNcWifNhUKJAWzswdJY) | 3:14 |
+| 12 | [Homesick \(with Sam Fender\)](https://open.spotify.com/track/4L3Rud7r43lpC2NVJeSzSO) | [Noah Kahan](https://open.spotify.com/artist/2RQXRUsr4IW1f3mKyKsy4B), [Sam Fender](https://open.spotify.com/artist/6zlR5ttMfMNmwf2lecU9Cc) | [Stick Season \(Forever\)](https://open.spotify.com/album/3qBWNcWifNhUKJAWzswdJY) | 3:14 |
+| 13 | [The Borders](https://open.spotify.com/track/4hui0bX1Bv89yg1BTsz4NU) | [Sam Fender](https://open.spotify.com/artist/6zlR5ttMfMNmwf2lecU9Cc) | [Hypersonic Missiles](https://open.spotify.com/album/7FWCgfnTgupXdyBy51ME9m) | 5:32 |
 | 14 | [All Is On My Side](https://open.spotify.com/track/3LHcAmB9JJ1pVsfTLersFD) | [Sam Fender](https://open.spotify.com/artist/6zlR5ttMfMNmwf2lecU9Cc) | [All Is On My Side](https://open.spotify.com/album/3kL9oEBXN8ircCGfeczB0t) | 4:33 |
 | 15 | [Crumbling Empire](https://open.spotify.com/track/5M4BVWXiOUabQUqdY8eqJt) | [Sam Fender](https://open.spotify.com/artist/6zlR5ttMfMNmwf2lecU9Cc) | [People Watching](https://open.spotify.com/album/6Abecbed8BYAdHy9RaVoY7) | 5:07 |
 | 16 | [Angel In Lothian](https://open.spotify.com/track/0Xuh7O6BMfWnwA3SW81jV1) | [Sam Fender](https://open.spotify.com/artist/6zlR5ttMfMNmwf2lecU9Cc) | [Seventeen Going Under \(Deluxe\)](https://open.spotify.com/album/4FKOLaEGqA7ZFYYW5r4X9z) | 4:12 |
@@ -41,13 +41,13 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3SDnFW.md) - [plain]
 | 31 | [Hold Out](https://open.spotify.com/track/4MBxiq9e0jpWxJikv4kJA4) | [Sam Fender](https://open.spotify.com/artist/6zlR5ttMfMNmwf2lecU9Cc) | [Hold Out](https://open.spotify.com/album/17TF2cobgIGAaX5uiu84yl) | 2:43 |
 | 32 | [Friday Fighting](https://open.spotify.com/track/7MRJJbjlgJF6n9QHbp6IA9) | [Sam Fender](https://open.spotify.com/artist/6zlR5ttMfMNmwf2lecU9Cc) | [Friday Fighting](https://open.spotify.com/album/4fjvLL6wVDF81R0mY53TTH) | 3:10 |
 | 33 | [Wild Grey Ocean](https://open.spotify.com/track/4unenxuWoIq4RYG5hyHZpK) | [Sam Fender](https://open.spotify.com/artist/6zlR5ttMfMNmwf2lecU9Cc) | [Seventeen Going Under \(Live Deluxe\)](https://open.spotify.com/album/766BHyIm5fSBhpSJOJnaYV) | 3:54 |
-| 34 | [Start Again](https://open.spotify.com/track/72vMF99tOCUmbFJ2TOCvAx) | [Sam Fender](https://open.spotify.com/artist/6zlR5ttMfMNmwf2lecU9Cc) | [Start Again](https://open.spotify.com/album/5Jrt8DeYwVGARnPVwru61g) | 2:58 |
-| 35 | [Empty Spaces](https://open.spotify.com/track/1uBUgPtcd2EWKZ78FRijVb) | [Sam Fender](https://open.spotify.com/artist/6zlR5ttMfMNmwf2lecU9Cc) | [People Watching \(Deluxe Edition\)](https://open.spotify.com/album/4gwfCCNRxAB1P62hlDCelM) | 4:54 |
+| 34 | [Empty Spaces](https://open.spotify.com/track/1uBUgPtcd2EWKZ78FRijVb) | [Sam Fender](https://open.spotify.com/artist/6zlR5ttMfMNmwf2lecU9Cc) | [People Watching \(Deluxe Edition\)](https://open.spotify.com/album/4gwfCCNRxAB1P62hlDCelM) | 4:54 |
+| 35 | [Start Again](https://open.spotify.com/track/72vMF99tOCUmbFJ2TOCvAx) | [Sam Fender](https://open.spotify.com/artist/6zlR5ttMfMNmwf2lecU9Cc) | [Start Again](https://open.spotify.com/album/5Jrt8DeYwVGARnPVwru61g) | 2:58 |
 | 36 | [Greasy Spoon](https://open.spotify.com/track/0DDUWYjTJCV3R4S4FOUTcf) | [Sam Fender](https://open.spotify.com/artist/6zlR5ttMfMNmwf2lecU9Cc) | [Greasy Spoon](https://open.spotify.com/album/3Gd8IlgSnxxjFQW5dQaSFC) | 2:58 |
 | 37 | [Millennial](https://open.spotify.com/track/6nn3SKnENmkTn7KC44MgHx) | [Sam Fender](https://open.spotify.com/artist/6zlR5ttMfMNmwf2lecU9Cc) | [Millennial](https://open.spotify.com/album/7jXSErmjydESDXLDVraNhp) | 1:46 |
-| 38 | [Howdon Aldi Death Queue](https://open.spotify.com/track/1qMyNePQxHQaU2EULKnSUx) | [Sam Fender](https://open.spotify.com/artist/6zlR5ttMfMNmwf2lecU9Cc) | [Seventeen Going Under \(Live Deluxe\)](https://open.spotify.com/album/766BHyIm5fSBhpSJOJnaYV) | 1:58 |
-| 39 | [I'm Always On Stage](https://open.spotify.com/track/5VLWOZWrjoGJWEwt7xDRYA) | [Sam Fender](https://open.spotify.com/artist/6zlR5ttMfMNmwf2lecU9Cc) | [People Watching \(Deluxe Edition\)](https://open.spotify.com/album/4gwfCCNRxAB1P62hlDCelM) | 4:03 |
+| 38 | [I'm Always On Stage](https://open.spotify.com/track/5VLWOZWrjoGJWEwt7xDRYA) | [Sam Fender](https://open.spotify.com/artist/6zlR5ttMfMNmwf2lecU9Cc) | [People Watching \(Deluxe Edition\)](https://open.spotify.com/album/4gwfCCNRxAB1P62hlDCelM) | 4:03 |
+| 39 | [Howdon Aldi Death Queue](https://open.spotify.com/track/1qMyNePQxHQaU2EULKnSUx) | [Sam Fender](https://open.spotify.com/artist/6zlR5ttMfMNmwf2lecU9Cc) | [Seventeen Going Under \(Live Deluxe\)](https://open.spotify.com/album/766BHyIm5fSBhpSJOJnaYV) | 1:58 |
 | 40 | [Back To Black \- BBC Radio 1 Live Session](https://open.spotify.com/track/3KtKOYmUpcmAU1SzArnFrp) | [Sam Fender](https://open.spotify.com/artist/6zlR5ttMfMNmwf2lecU9Cc) | [Back To Black \(BBC Radio 1 Live Session\)](https://open.spotify.com/album/3WuNB1VMKoPtUhm09D1QLt) | 5:12 |
 | 41 | [Fortuna's Wheel](https://open.spotify.com/track/4przkHpP9uPwmNNcYW7ZnY) | [Sam Fender](https://open.spotify.com/artist/6zlR5ttMfMNmwf2lecU9Cc) | [People Watching \(Deluxe Edition\)](https://open.spotify.com/album/4gwfCCNRxAB1P62hlDCelM) | 1:42 |
 
-Snapshot ID: `awIwgAAAAACcrubMA6f2UgU/jswKbEae`
+Snapshot ID: `awOCAAAAAABoRqrMAYQDADZutjjZ60BX`

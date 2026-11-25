@@ -1,12 +1,12 @@
 {
   "description": "Zen\u00e9k, amik f\u00e9lreugranak a m\u0171faji hat\u00e1rok el\u0151l. Cover: \u0414eva",
-  "num_followers": 17184,
+  "num_followers": 17182,
   "original_name": "Nemazapop",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAF4rOHDU6TTLflA6SmLvJK1eWfAg",
+  "snapshot_id": "AAAAAN8K1Cu1LFGbvZ0QRYvvqE1CP7Gw",
   "tracks": [
     {
       "added_at": "2026-09-18 15:19:05",
@@ -615,26 +615,26 @@
     {
       "added_at": "2026-09-18 15:19:05",
       "album": {
-        "name": "SZINTIPOP",
-        "url": "https://open.spotify.com/album/76HGfnlgAvUzsBnd7z77ou"
+        "name": "Harmadnap",
+        "url": "https://open.spotify.com/album/2LzIw0PoK0K7UtcqUGkyXy"
       },
       "artists": [
-        {
-          "name": "Szabikeyz",
-          "url": "https://open.spotify.com/artist/7cyFxt9SpkC7aQb8yULboZ"
-        },
         {
           "name": "Lil Frakk",
           "url": "https://open.spotify.com/artist/0CJxR2iBZb64SRwApcj2Ev"
         },
         {
-          "name": "FLM",
-          "url": "https://open.spotify.com/artist/4lZNizlkZyP21mxYutzD7U"
+          "name": "laurie.",
+          "url": "https://open.spotify.com/artist/6RNq4wuvQfF7WbDtBkiuET"
+        },
+        {
+          "name": "SOMODY",
+          "url": "https://open.spotify.com/artist/0fPUO5A7hBvmZMQG7RNKCB"
         }
       ],
-      "duration_ms": 204923,
-      "name": "MEGTAL\u00c1LLAK M\u00c9G (feat. Lil Frakk & FLM)",
-      "url": "https://open.spotify.com/track/2Uc4wbnLvtDu9jLvYg96fs"
+      "duration_ms": 156633,
+      "name": "Cricket",
+      "url": "https://open.spotify.com/track/3jnSu7TBVVyF1Ptbpn0kLr"
     },
     {
       "added_at": "2026-09-18 15:19:05",
@@ -663,26 +663,26 @@
     {
       "added_at": "2026-09-18 15:19:05",
       "album": {
-        "name": "Harmadnap",
-        "url": "https://open.spotify.com/album/2LzIw0PoK0K7UtcqUGkyXy"
+        "name": "SZINTIPOP",
+        "url": "https://open.spotify.com/album/76HGfnlgAvUzsBnd7z77ou"
       },
       "artists": [
+        {
+          "name": "Szabikeyz",
+          "url": "https://open.spotify.com/artist/7cyFxt9SpkC7aQb8yULboZ"
+        },
         {
           "name": "Lil Frakk",
           "url": "https://open.spotify.com/artist/0CJxR2iBZb64SRwApcj2Ev"
         },
         {
-          "name": "laurie.",
-          "url": "https://open.spotify.com/artist/6RNq4wuvQfF7WbDtBkiuET"
-        },
-        {
-          "name": "SOMODY",
-          "url": "https://open.spotify.com/artist/0fPUO5A7hBvmZMQG7RNKCB"
+          "name": "FLM",
+          "url": "https://open.spotify.com/artist/4lZNizlkZyP21mxYutzD7U"
         }
       ],
-      "duration_ms": 156633,
-      "name": "Cricket",
-      "url": "https://open.spotify.com/track/3jnSu7TBVVyF1Ptbpn0kLr"
+      "duration_ms": 204923,
+      "name": "MEGTAL\u00c1LLAK M\u00c9G (feat. Lil Frakk & FLM)",
+      "url": "https://open.spotify.com/track/2Uc4wbnLvtDu9jLvYg96fs"
     },
     {
       "added_at": "2026-09-18 15:19:05",
@@ -971,22 +971,6 @@
     {
       "added_at": "2026-09-18 15:19:05",
       "album": {
-        "name": "SZ\u00d3LNI KELL",
-        "url": "https://open.spotify.com/album/47JjFF1Xmb9vnGFSLbTV1l"
-      },
-      "artists": [
-        {
-          "name": "HIPERKARMA",
-          "url": "https://open.spotify.com/artist/3I4YFS0OzOA9yDOu0hcGqs"
-        }
-      ],
-      "duration_ms": 223386,
-      "name": "KICSIKE F\u00c9NY",
-      "url": "https://open.spotify.com/track/0zSJD8hIVRARlAXr6zLnWb"
-    },
-    {
-      "added_at": "2026-09-18 15:19:05",
-      "album": {
         "name": "buligyilkos",
         "url": "https://open.spotify.com/album/5yDcPJnMl1F01uAYXuT1ah"
       },
@@ -999,6 +983,22 @@
       "duration_ms": 178838,
       "name": "buligyilkos",
       "url": "https://open.spotify.com/track/1GeJtHPMPHRrYkA4jX3MDb"
+    },
+    {
+      "added_at": "2026-09-18 15:19:05",
+      "album": {
+        "name": "SZ\u00d3LNI KELL",
+        "url": "https://open.spotify.com/album/47JjFF1Xmb9vnGFSLbTV1l"
+      },
+      "artists": [
+        {
+          "name": "HIPERKARMA",
+          "url": "https://open.spotify.com/artist/3I4YFS0OzOA9yDOu0hcGqs"
+        }
+      ],
+      "duration_ms": 223386,
+      "name": "KICSIKE F\u00c9NY",
+      "url": "https://open.spotify.com/track/0zSJD8hIVRARlAXr6zLnWb"
     },
     {
       "added_at": "2026-09-18 15:19:05",
@@ -1267,22 +1267,6 @@
     {
       "added_at": "2026-09-18 15:19:05",
       "album": {
-        "name": "Harmincvalah\u00e1ny",
-        "url": "https://open.spotify.com/album/48NeJ5HjTPHbp56HwP9dYW"
-      },
-      "artists": [
-        {
-          "name": "L\u00e1bas Viki",
-          "url": "https://open.spotify.com/artist/1FVZNAWNizA5FuYp5UvYOL"
-        }
-      ],
-      "duration_ms": 186021,
-      "name": "Harmincvalah\u00e1ny",
-      "url": "https://open.spotify.com/track/1YcmGlWobFYsT03A4I0kmE"
-    },
-    {
-      "added_at": "2026-09-18 15:19:05",
-      "album": {
         "name": "Utcasarki f\u00e9ny",
         "url": "https://open.spotify.com/album/1V3e1jy9kToUikxhzK7Ges"
       },
@@ -1295,6 +1279,22 @@
       "duration_ms": 190724,
       "name": "Utcasarki f\u00e9ny",
       "url": "https://open.spotify.com/track/4hXUyPaRvIleZ0kyxfFw8R"
+    },
+    {
+      "added_at": "2026-09-18 15:19:05",
+      "album": {
+        "name": "Harmincvalah\u00e1ny",
+        "url": "https://open.spotify.com/album/48NeJ5HjTPHbp56HwP9dYW"
+      },
+      "artists": [
+        {
+          "name": "L\u00e1bas Viki",
+          "url": "https://open.spotify.com/artist/1FVZNAWNizA5FuYp5UvYOL"
+        }
+      ],
+      "duration_ms": 186021,
+      "name": "Harmincvalah\u00e1ny",
+      "url": "https://open.spotify.com/track/1YcmGlWobFYsT03A4I0kmE"
     },
     {
       "added_at": "2026-09-18 15:19:05",
@@ -1387,6 +1387,22 @@
     {
       "added_at": "2026-09-18 15:19:05",
       "album": {
+        "name": "Hulljanak r\u00e1m az \u00e9vek",
+        "url": "https://open.spotify.com/album/4M6yJbeE626gvo8PcKg77C"
+      },
+      "artists": [
+        {
+          "name": "M\u00e1klik\u0151r",
+          "url": "https://open.spotify.com/artist/1mEClPszmbqTkgnBgQ57Ui"
+        }
+      ],
+      "duration_ms": 258000,
+      "name": "Sosem el\u00e9g",
+      "url": "https://open.spotify.com/track/2iu6Nf7YsIknHMCs09pxEI"
+    },
+    {
+      "added_at": "2026-09-18 15:19:05",
+      "album": {
         "name": "Kezdetben Ketten",
         "url": "https://open.spotify.com/album/2IGoo8bL65FuJ8Vywy3RBG"
       },
@@ -1399,22 +1415,6 @@
       "duration_ms": 185507,
       "name": "Tomi Montana",
       "url": "https://open.spotify.com/track/0YmC2RyX4YD1HVaJQ8F73G"
-    },
-    {
-      "added_at": "2026-09-18 15:19:05",
-      "album": {
-        "name": "T\u00e9lbe \u00e1t",
-        "url": "https://open.spotify.com/album/1zXzbm4fRPft8o8rJBruSQ"
-      },
-      "artists": [
-        {
-          "name": "Kolibri",
-          "url": "https://open.spotify.com/artist/5zNPKDqaFEf8JemuyGaC72"
-        }
-      ],
-      "duration_ms": 161280,
-      "name": "T\u00e9lbe \u00e1t",
-      "url": "https://open.spotify.com/track/2yhLSp2tSxQsKdaYBJ1vNl"
     }
   ],
   "unique_name": "Nemazapop",

@@ -1,13 +1,29 @@
 {
-  "description": "New music by the heaviest independent artists and labels every Wednesday. Cover: nightlight",
-  "num_followers": 48542,
+  "description": "New music by the heaviest independent artists and labels every Wednesday. Cover: Deadlands",
+  "num_followers": 48588,
   "original_name": "Fresh Finds Heavy",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAE9qolXpo9GBMdeP4JGQMN1mneK2",
+  "snapshot_id": "AAAAALGoFETicx+oyY62PsymHxaEtOD2",
   "tracks": [
+    {
+      "added_at": "2026-11-25 05:00:14",
+      "album": {
+        "name": "Savior",
+        "url": "https://open.spotify.com/album/29j26vlwcF72WSHZwJZb0A"
+      },
+      "artists": [
+        {
+          "name": "Deadlands",
+          "url": "https://open.spotify.com/artist/75ItOLlAwbDFJFx3PhyzTc"
+        }
+      ],
+      "duration_ms": 174973,
+      "name": "Savior",
+      "url": "https://open.spotify.com/track/0fCNPboblb6aGSpfJkdD7v"
+    },
     {
       "added_at": "2026-11-18 05:00:34",
       "album": {
@@ -23,6 +39,22 @@
       "duration_ms": 202384,
       "name": "SHUT//UP",
       "url": "https://open.spotify.com/track/7pajvNOzarlvLJNlwhWQeN"
+    },
+    {
+      "added_at": "2026-11-25 05:00:14",
+      "album": {
+        "name": "Ruckus",
+        "url": "https://open.spotify.com/album/38JuZDYTem4icUrrsxPyDt"
+      },
+      "artists": [
+        {
+          "name": "Headwreck",
+          "url": "https://open.spotify.com/artist/2o5WUO8JdWq9LMThPwXJr7"
+        }
+      ],
+      "duration_ms": 184598,
+      "name": "Ruckus",
+      "url": "https://open.spotify.com/track/6CejZXDqqKrTQEnvodK7pg"
     },
     {
       "added_at": "2026-11-18 05:00:34",
@@ -41,6 +73,54 @@
       "url": "https://open.spotify.com/track/5qJ6BvSvxE3ndbcZxfAdtP"
     },
     {
+      "added_at": "2026-11-25 05:00:14",
+      "album": {
+        "name": "SCARS",
+        "url": "https://open.spotify.com/album/3H1A3oe2FOTlEPYYxNG8lM"
+      },
+      "artists": [
+        {
+          "name": "Malina Scar",
+          "url": "https://open.spotify.com/artist/3tnyEYhffKHMzUxZSOhT18"
+        }
+      ],
+      "duration_ms": 138894,
+      "name": "KILL EM ALL",
+      "url": "https://open.spotify.com/track/6jj7svxFOenlruYbn9WWLz"
+    },
+    {
+      "added_at": "2026-11-18 05:00:34",
+      "album": {
+        "name": "Silent Attraction",
+        "url": "https://open.spotify.com/album/25gX8weJaCuKPr542C6EKt"
+      },
+      "artists": [
+        {
+          "name": "Sunborn",
+          "url": "https://open.spotify.com/artist/39bLxLnMXWV7LMinf717gS"
+        }
+      ],
+      "duration_ms": 178666,
+      "name": "Silent Attraction",
+      "url": "https://open.spotify.com/track/43aYw2wY4BkbGASAn0QXyU"
+    },
+    {
+      "added_at": "2026-11-25 05:00:14",
+      "album": {
+        "name": "I'll Do It",
+        "url": "https://open.spotify.com/album/6EBnwVnwetURY2Z1fS9Kam"
+      },
+      "artists": [
+        {
+          "name": "Mirakill",
+          "url": "https://open.spotify.com/artist/1stUeZDbfWTp5K5JwQSONG"
+        }
+      ],
+      "duration_ms": 127498,
+      "name": "I'll Do It",
+      "url": "https://open.spotify.com/track/7EpjvWtpB3qTquBDzxhjG9"
+    },
+    {
       "added_at": "2026-11-18 05:00:34",
       "album": {
         "name": "Monolith",
@@ -55,6 +135,54 @@
       "duration_ms": 148165,
       "name": "Monolith",
       "url": "https://open.spotify.com/track/08qBVMHZZyz7S4ZkluNf30"
+    },
+    {
+      "added_at": "2026-11-25 05:00:14",
+      "album": {
+        "name": "Fatebringer",
+        "url": "https://open.spotify.com/album/6BC3cXdhcgzx4cZhp74KJM"
+      },
+      "artists": [
+        {
+          "name": "Night Rider",
+          "url": "https://open.spotify.com/artist/29W0B4U3bPj5wvrH5gv3Y6"
+        }
+      ],
+      "duration_ms": 252874,
+      "name": "Superposition",
+      "url": "https://open.spotify.com/track/1zrn0G2L0m0gB2AOIUy1xN"
+    },
+    {
+      "added_at": "2026-11-18 05:00:34",
+      "album": {
+        "name": "Dead Asleep",
+        "url": "https://open.spotify.com/album/59l9hOCBlrEti5NZVvhXU4"
+      },
+      "artists": [
+        {
+          "name": "Mauled",
+          "url": "https://open.spotify.com/artist/6UcO509nWHNHlMhDYbuel2"
+        }
+      ],
+      "duration_ms": 281941,
+      "name": "Dead Asleep",
+      "url": "https://open.spotify.com/track/6e1Xhj4ZKjJA9s21djpr8W"
+    },
+    {
+      "added_at": "2026-11-25 05:00:14",
+      "album": {
+        "name": "Seeing Double",
+        "url": "https://open.spotify.com/album/0BuXr1ePSbZBtTcyKdSI6j"
+      },
+      "artists": [
+        {
+          "name": "Heartline",
+          "url": "https://open.spotify.com/artist/70uKQVKslnIIFw3IUTqGfu"
+        }
+      ],
+      "duration_ms": 276315,
+      "name": "Seeing Double",
+      "url": "https://open.spotify.com/track/014gYHhyvf8IFHhaCDcVmq"
     },
     {
       "added_at": "2026-11-18 05:00:34",
@@ -75,86 +203,22 @@
     {
       "added_at": "2026-11-18 05:00:34",
       "album": {
-        "name": "Dead Asleep",
-        "url": "https://open.spotify.com/album/59l9hOCBlrEti5NZVvhXU4"
+        "name": "Beyond The Dawn",
+        "url": "https://open.spotify.com/album/5X1k6NLSqBsGZ7zELKj4UT"
       },
       "artists": [
         {
-          "name": "Mauled",
-          "url": "https://open.spotify.com/artist/6UcO509nWHNHlMhDYbuel2"
-        }
-      ],
-      "duration_ms": 281941,
-      "name": "Dead Asleep",
-      "url": "https://open.spotify.com/track/6e1Xhj4ZKjJA9s21djpr8W"
-    },
-    {
-      "added_at": "2026-11-18 05:00:34",
-      "album": {
-        "name": "Silent Attraction",
-        "url": "https://open.spotify.com/album/25gX8weJaCuKPr542C6EKt"
-      },
-      "artists": [
-        {
-          "name": "Sunborn",
-          "url": "https://open.spotify.com/artist/39bLxLnMXWV7LMinf717gS"
-        }
-      ],
-      "duration_ms": 178666,
-      "name": "Silent Attraction",
-      "url": "https://open.spotify.com/track/43aYw2wY4BkbGASAn0QXyU"
-    },
-    {
-      "added_at": "2026-11-18 05:00:34",
-      "album": {
-        "name": "Let the Light In (feat. Confessions of A Traitor)",
-        "url": "https://open.spotify.com/album/1KzIVhJfJfmWdhMx8FubiA"
-      },
-      "artists": [
-        {
-          "name": "Cultist",
-          "url": "https://open.spotify.com/artist/2o4HXwGamPHdxXbpj4sTKG"
+          "name": "Fallen at Dawn",
+          "url": "https://open.spotify.com/artist/5vMjXRkHRq5HgqCxjpBuxq"
         },
         {
-          "name": "Confessions of a Traitor",
-          "url": "https://open.spotify.com/artist/3XxTiLhFGMsWvVfpZ7KlF9"
+          "name": "HOSTAGE",
+          "url": "https://open.spotify.com/artist/653fYxU9prUXhYQFhIrTtD"
         }
       ],
-      "duration_ms": 255224,
-      "name": "Let the Light In (feat. Confessions of A Traitor)",
-      "url": "https://open.spotify.com/track/4aHSqqjSI0qDY1iffQBAgR"
-    },
-    {
-      "added_at": "2026-11-18 05:00:34",
-      "album": {
-        "name": "DUMB BRUDDAH",
-        "url": "https://open.spotify.com/album/1WRs1pAdidEtqJXRKZCQOe"
-      },
-      "artists": [
-        {
-          "name": "Native James",
-          "url": "https://open.spotify.com/artist/3hppZYnoNkwmo2pXbRNeF3"
-        }
-      ],
-      "duration_ms": 213600,
-      "name": "DUMB BRUDDAH",
-      "url": "https://open.spotify.com/track/0hpN7MKtpDNcqilOFD71Cf"
-    },
-    {
-      "added_at": "2026-11-18 05:00:34",
-      "album": {
-        "name": "Persephone",
-        "url": "https://open.spotify.com/album/03p3OaTYIGBaNfKQJqKqbF"
-      },
-      "artists": [
-        {
-          "name": "Moondaygun",
-          "url": "https://open.spotify.com/artist/7E5CihpH316v0AUTgnzga8"
-        }
-      ],
-      "duration_ms": 323766,
-      "name": "Persephone",
-      "url": "https://open.spotify.com/track/1sdSBDK7FIBo49kLPa6jCV"
+      "duration_ms": 193454,
+      "name": "Beyond The Dawn",
+      "url": "https://open.spotify.com/track/6oo85c2fJCRgslTAyqJWua"
     },
     {
       "added_at": "2026-11-18 05:00:34",
@@ -175,18 +239,34 @@
     {
       "added_at": "2026-11-18 05:00:34",
       "album": {
-        "name": "Heartbeat Glitch",
-        "url": "https://open.spotify.com/album/0l9xcOu9S5rSNSQUpuvI6o"
+        "name": "Gradus Ad Parnassum",
+        "url": "https://open.spotify.com/album/68ftoQI39wNu0VTTsVp0Pg"
       },
       "artists": [
         {
-          "name": "Index",
-          "url": "https://open.spotify.com/artist/3MFhkrjjpTsfXVTOvz6Ovu"
+          "name": "Mirar",
+          "url": "https://open.spotify.com/artist/6g4uwq36brjISbcfehJ7yi"
         }
       ],
-      "duration_ms": 88787,
-      "name": "Heartbeat Glitch",
-      "url": "https://open.spotify.com/track/6lna25JLP5uiNX8hd0QRH8"
+      "duration_ms": 240000,
+      "name": "N\u00e5r Solen G\u00e5r Ned",
+      "url": "https://open.spotify.com/track/2Zku5hueH90H3vLNlP93Js"
+    },
+    {
+      "added_at": "2026-11-18 05:00:34",
+      "album": {
+        "name": "Persephone",
+        "url": "https://open.spotify.com/album/03p3OaTYIGBaNfKQJqKqbF"
+      },
+      "artists": [
+        {
+          "name": "Moondaygun",
+          "url": "https://open.spotify.com/artist/7E5CihpH316v0AUTgnzga8"
+        }
+      ],
+      "duration_ms": 323766,
+      "name": "Persephone",
+      "url": "https://open.spotify.com/track/1sdSBDK7FIBo49kLPa6jCV"
     },
     {
       "added_at": "2026-11-18 05:00:34",
@@ -207,22 +287,38 @@
     {
       "added_at": "2026-11-18 05:00:34",
       "album": {
-        "name": "Beyond The Dawn",
-        "url": "https://open.spotify.com/album/5X1k6NLSqBsGZ7zELKj4UT"
+        "name": "Bring You Back",
+        "url": "https://open.spotify.com/album/1PFGGX3O52cyWPRneJHoK6"
       },
       "artists": [
         {
-          "name": "Fallen at Dawn",
-          "url": "https://open.spotify.com/artist/5vMjXRkHRq5HgqCxjpBuxq"
-        },
-        {
-          "name": "HOSTAGE",
-          "url": "https://open.spotify.com/artist/653fYxU9prUXhYQFhIrTtD"
+          "name": "Oceans Ate Alaska",
+          "url": "https://open.spotify.com/artist/48zUWAXpgEXfpttz23pCNQ"
         }
       ],
-      "duration_ms": 193454,
-      "name": "Beyond The Dawn",
-      "url": "https://open.spotify.com/track/6oo85c2fJCRgslTAyqJWua"
+      "duration_ms": 224000,
+      "name": "Bring You Back",
+      "url": "https://open.spotify.com/track/6X26YFr9c2xFILZ1QXjL5E"
+    },
+    {
+      "added_at": "2026-11-18 05:00:34",
+      "album": {
+        "name": "Let the Light In (feat. Confessions of A Traitor)",
+        "url": "https://open.spotify.com/album/1KzIVhJfJfmWdhMx8FubiA"
+      },
+      "artists": [
+        {
+          "name": "Cultist",
+          "url": "https://open.spotify.com/artist/2o4HXwGamPHdxXbpj4sTKG"
+        },
+        {
+          "name": "Confessions of a Traitor",
+          "url": "https://open.spotify.com/artist/3XxTiLhFGMsWvVfpZ7KlF9"
+        }
+      ],
+      "duration_ms": 255224,
+      "name": "Let the Light In (feat. Confessions of A Traitor)",
+      "url": "https://open.spotify.com/track/4aHSqqjSI0qDY1iffQBAgR"
     },
     {
       "added_at": "2026-11-18 05:00:34",
@@ -263,38 +359,6 @@
     {
       "added_at": "2026-11-18 05:00:34",
       "album": {
-        "name": "Bring You Back",
-        "url": "https://open.spotify.com/album/1PFGGX3O52cyWPRneJHoK6"
-      },
-      "artists": [
-        {
-          "name": "Oceans Ate Alaska",
-          "url": "https://open.spotify.com/artist/48zUWAXpgEXfpttz23pCNQ"
-        }
-      ],
-      "duration_ms": 224000,
-      "name": "Bring You Back",
-      "url": "https://open.spotify.com/track/6X26YFr9c2xFILZ1QXjL5E"
-    },
-    {
-      "added_at": "2026-11-18 05:00:34",
-      "album": {
-        "name": "Gradus Ad Parnassum",
-        "url": "https://open.spotify.com/album/68ftoQI39wNu0VTTsVp0Pg"
-      },
-      "artists": [
-        {
-          "name": "Mirar",
-          "url": "https://open.spotify.com/artist/6g4uwq36brjISbcfehJ7yi"
-        }
-      ],
-      "duration_ms": 240000,
-      "name": "N\u00e5r Solen G\u00e5r Ned",
-      "url": "https://open.spotify.com/track/2Zku5hueH90H3vLNlP93Js"
-    },
-    {
-      "added_at": "2026-11-18 05:00:34",
-      "album": {
         "name": "IGNITE",
         "url": "https://open.spotify.com/album/0LtJBUk4tTEziZ1m4tBCnu"
       },
@@ -307,38 +371,6 @@
       "duration_ms": 163216,
       "name": "IGNITE",
       "url": "https://open.spotify.com/track/09jq6DdWHseoTdEfOuILfR"
-    },
-    {
-      "added_at": "2026-11-18 05:00:34",
-      "album": {
-        "name": "Dopamine",
-        "url": "https://open.spotify.com/album/6oTjjYaQ00VMKCej16HLrd"
-      },
-      "artists": [
-        {
-          "name": "Enemy Inside",
-          "url": "https://open.spotify.com/artist/4DX0ctdZRMWec9KCiigIXy"
-        }
-      ],
-      "duration_ms": 212156,
-      "name": "Dopamine",
-      "url": "https://open.spotify.com/track/477O0aV2ffs4Ee50oVorBv"
-    },
-    {
-      "added_at": "2026-11-18 05:00:34",
-      "album": {
-        "name": "Euphoria",
-        "url": "https://open.spotify.com/album/66dovHcNNcMIgFN99nitje"
-      },
-      "artists": [
-        {
-          "name": "DEADEND",
-          "url": "https://open.spotify.com/artist/1U7CL8zNtrXI05YjYfwikh"
-        }
-      ],
-      "duration_ms": 217762,
-      "name": "Euphoria",
-      "url": "https://open.spotify.com/track/1lkNIg7AhcbMCrVxofUSgz"
     },
     {
       "added_at": "2026-11-18 05:00:34",
@@ -359,18 +391,18 @@
     {
       "added_at": "2026-11-18 05:00:34",
       "album": {
-        "name": "Can You Feel My Heart",
-        "url": "https://open.spotify.com/album/45G4ZS3vHZ2CPoKec8cqpG"
+        "name": "Euphoria",
+        "url": "https://open.spotify.com/album/66dovHcNNcMIgFN99nitje"
       },
       "artists": [
         {
-          "name": "REEBZ",
-          "url": "https://open.spotify.com/artist/2cUSgme8otbeKGRDl6xm1t"
+          "name": "DEADEND",
+          "url": "https://open.spotify.com/artist/1U7CL8zNtrXI05YjYfwikh"
         }
       ],
-      "duration_ms": 222566,
-      "name": "Can You Feel My Heart",
-      "url": "https://open.spotify.com/track/3Bl53Ud5Z55tasf0R9vjtm"
+      "duration_ms": 217762,
+      "name": "Euphoria",
+      "url": "https://open.spotify.com/track/1lkNIg7AhcbMCrVxofUSgz"
     },
     {
       "added_at": "2026-11-18 05:00:34",
@@ -407,6 +439,22 @@
     {
       "added_at": "2026-11-18 05:00:34",
       "album": {
+        "name": "Can You Feel My Heart",
+        "url": "https://open.spotify.com/album/45G4ZS3vHZ2CPoKec8cqpG"
+      },
+      "artists": [
+        {
+          "name": "REEBZ",
+          "url": "https://open.spotify.com/artist/2cUSgme8otbeKGRDl6xm1t"
+        }
+      ],
+      "duration_ms": 222566,
+      "name": "Can You Feel My Heart",
+      "url": "https://open.spotify.com/track/3Bl53Ud5Z55tasf0R9vjtm"
+    },
+    {
+      "added_at": "2026-11-18 05:00:34",
+      "album": {
         "name": "Get Down",
         "url": "https://open.spotify.com/album/7Jjy5cMMezoI3o6vEKzrTe"
       },
@@ -423,34 +471,50 @@
     {
       "added_at": "2026-11-18 05:00:34",
       "album": {
-        "name": "Ravage",
-        "url": "https://open.spotify.com/album/53UI4z0J8wtkg87bm2Neoq"
+        "name": "La fin",
+        "url": "https://open.spotify.com/album/5IuaeN0TAUV2I3g3QNXEq4"
       },
       "artists": [
         {
-          "name": "NOVELISTS",
-          "url": "https://open.spotify.com/artist/6o8sDniHcZPM1SixvjKiYS"
+          "name": "Grace of Arc",
+          "url": "https://open.spotify.com/artist/7k1Z0Z008CgLqUYMrdtt8t"
         }
       ],
-      "duration_ms": 256043,
-      "name": "Ravage",
-      "url": "https://open.spotify.com/track/2pUaecpU87lb2enphyDByI"
+      "duration_ms": 220493,
+      "name": "La fin",
+      "url": "https://open.spotify.com/track/4v5IWJ2Z5ArbTZ3HvEQYTn"
     },
     {
       "added_at": "2026-11-18 05:00:34",
       "album": {
-        "name": "Why?",
-        "url": "https://open.spotify.com/album/40OyCDpyDIZJ5EPUE3pA3U"
+        "name": "Left For Dead",
+        "url": "https://open.spotify.com/album/17MHY7Vak4pnuPY04nWfGD"
       },
       "artists": [
         {
-          "name": "Lauren Babic",
-          "url": "https://open.spotify.com/artist/6nT7RjBCuuggrafnb43vUX"
+          "name": "Bridges Ablaze",
+          "url": "https://open.spotify.com/artist/2EkFmKsioTTvC9ShnwJwHP"
         }
       ],
-      "duration_ms": 176353,
-      "name": "Why?",
-      "url": "https://open.spotify.com/track/6ssX5woHXkbyasb5AmNCkb"
+      "duration_ms": 278394,
+      "name": "Left For Dead",
+      "url": "https://open.spotify.com/track/4hfqUFd4KFpstpkatBjqV9"
+    },
+    {
+      "added_at": "2026-11-18 05:00:34",
+      "album": {
+        "name": "forever mine",
+        "url": "https://open.spotify.com/album/40rxqlR7YFMpixheeA7UCX"
+      },
+      "artists": [
+        {
+          "name": "5hy",
+          "url": "https://open.spotify.com/artist/2TcMB2b7duIzDoXnAr4iTr"
+        }
+      ],
+      "duration_ms": 166036,
+      "name": "forever mine",
+      "url": "https://open.spotify.com/track/4I3DpTGfrxueIC61VYMcQd"
     },
     {
       "added_at": "2026-11-18 05:00:34",
@@ -475,34 +539,18 @@
     {
       "added_at": "2026-11-18 05:00:34",
       "album": {
-        "name": "City of Ghosts",
-        "url": "https://open.spotify.com/album/1URPyRSw1ePNb4irfJQh42"
+        "name": "Heartbeat Glitch",
+        "url": "https://open.spotify.com/album/0l9xcOu9S5rSNSQUpuvI6o"
       },
       "artists": [
         {
-          "name": "LUCIE SUE",
-          "url": "https://open.spotify.com/artist/6ToQCnRGaGmhn4yziwMEh3"
+          "name": "Index",
+          "url": "https://open.spotify.com/artist/3MFhkrjjpTsfXVTOvz6Ovu"
         }
       ],
-      "duration_ms": 165690,
-      "name": "City of Ghosts",
-      "url": "https://open.spotify.com/track/6eaKDTHbkAxlYfr3KthBBl"
-    },
-    {
-      "added_at": "2026-11-18 05:00:34",
-      "album": {
-        "name": "Catalyst",
-        "url": "https://open.spotify.com/album/0geug1YKjvIsDyHpLHRJF5"
-      },
-      "artists": [
-        {
-          "name": "Night Rider",
-          "url": "https://open.spotify.com/artist/29W0B4U3bPj5wvrH5gv3Y6"
-        }
-      ],
-      "duration_ms": 203097,
-      "name": "Catalyst",
-      "url": "https://open.spotify.com/track/4FHvdNzKEI8UEuegPsi0B5"
+      "duration_ms": 88787,
+      "name": "Heartbeat Glitch",
+      "url": "https://open.spotify.com/track/6lna25JLP5uiNX8hd0QRH8"
     },
     {
       "added_at": "2026-11-18 05:00:34",
@@ -551,22 +599,6 @@
       "duration_ms": 228006,
       "name": "sodium",
       "url": "https://open.spotify.com/track/0t0gNWuHPINBH21NC0OeDQ"
-    },
-    {
-      "added_at": "2026-11-18 05:00:34",
-      "album": {
-        "name": "La fin",
-        "url": "https://open.spotify.com/album/5IuaeN0TAUV2I3g3QNXEq4"
-      },
-      "artists": [
-        {
-          "name": "Grace of Arc",
-          "url": "https://open.spotify.com/artist/7k1Z0Z008CgLqUYMrdtt8t"
-        }
-      ],
-      "duration_ms": 220493,
-      "name": "La fin",
-      "url": "https://open.spotify.com/track/4v5IWJ2Z5ArbTZ3HvEQYTn"
     },
     {
       "added_at": "2026-11-18 05:00:34",
@@ -635,22 +667,6 @@
     {
       "added_at": "2026-11-18 05:00:34",
       "album": {
-        "name": "Left For Dead",
-        "url": "https://open.spotify.com/album/17MHY7Vak4pnuPY04nWfGD"
-      },
-      "artists": [
-        {
-          "name": "Bridges Ablaze",
-          "url": "https://open.spotify.com/artist/2EkFmKsioTTvC9ShnwJwHP"
-        }
-      ],
-      "duration_ms": 278394,
-      "name": "Left For Dead",
-      "url": "https://open.spotify.com/track/4hfqUFd4KFpstpkatBjqV9"
-    },
-    {
-      "added_at": "2026-11-18 05:00:34",
-      "album": {
         "name": "Serum",
         "url": "https://open.spotify.com/album/2rmIPbO5n1W0u8tPjrCu6r"
       },
@@ -663,38 +679,6 @@
       "duration_ms": 291000,
       "name": "Serum",
       "url": "https://open.spotify.com/track/70sk82ZNyjpgGU43bLJqT0"
-    },
-    {
-      "added_at": "2026-11-18 05:00:34",
-      "album": {
-        "name": "Enderlin",
-        "url": "https://open.spotify.com/album/1PUG0DccAN086uqonONmI0"
-      },
-      "artists": [
-        {
-          "name": "Night Rider",
-          "url": "https://open.spotify.com/artist/29W0B4U3bPj5wvrH5gv3Y6"
-        }
-      ],
-      "duration_ms": 203728,
-      "name": "Enderlin",
-      "url": "https://open.spotify.com/track/2g9G96y5Yw9JSZTbn2QglO"
-    },
-    {
-      "added_at": "2026-11-18 05:00:34",
-      "album": {
-        "name": "Middle Man",
-        "url": "https://open.spotify.com/album/1Cf42agYTHrFZB9SsadK3a"
-      },
-      "artists": [
-        {
-          "name": "Awake Again",
-          "url": "https://open.spotify.com/artist/2dwdtOjnNg7wIZoUpPjY5m"
-        }
-      ],
-      "duration_ms": 174806,
-      "name": "Middle Man",
-      "url": "https://open.spotify.com/track/6oWVOCurVdlgHiK2glkaxn"
     },
     {
       "added_at": "2026-11-18 05:00:34",
@@ -799,22 +783,6 @@
     {
       "added_at": "2026-11-18 05:00:34",
       "album": {
-        "name": "Fracture",
-        "url": "https://open.spotify.com/album/4GJSOsA86an93RUqMOfnOL"
-      },
-      "artists": [
-        {
-          "name": "Sable",
-          "url": "https://open.spotify.com/artist/5rRyGasapvQWgfTijFs2mq"
-        }
-      ],
-      "duration_ms": 128431,
-      "name": "Fracture",
-      "url": "https://open.spotify.com/track/0LVbn4zbw4h9j7xdJYJj6k"
-    },
-    {
-      "added_at": "2026-11-18 05:00:34",
-      "album": {
         "name": "ROTTEN",
         "url": "https://open.spotify.com/album/6hfiDnWdXiPUQ3sytwfduf"
       },
@@ -843,74 +811,6 @@
       "duration_ms": 270266,
       "name": "Fall Into Me",
       "url": "https://open.spotify.com/track/1NRY7tlPvrlJHlbOazFe1i"
-    },
-    {
-      "added_at": "2026-11-18 05:00:34",
-      "album": {
-        "name": "Mercy Dies With You",
-        "url": "https://open.spotify.com/album/00Cz026TAZ3bCbh4cI8GMM"
-      },
-      "artists": [
-        {
-          "name": "Echoes in Ashes",
-          "url": "https://open.spotify.com/artist/5yj3leg0AWcDRTTZM2WMrc"
-        }
-      ],
-      "duration_ms": 201000,
-      "name": "Mercy Dies With You",
-      "url": "https://open.spotify.com/track/7LPAvJUfZGbH3PlPjGM29a"
-    },
-    {
-      "added_at": "2026-11-18 05:00:34",
-      "album": {
-        "name": "Crocodile.",
-        "url": "https://open.spotify.com/album/4NG6FxNPmnfIVtXWWeTVZx"
-      },
-      "artists": [
-        {
-          "name": "Blue Medusa",
-          "url": "https://open.spotify.com/artist/4BMOQ1GSXhTvuv6a05wk7z"
-        },
-        {
-          "name": "Alissa White-Gluz",
-          "url": "https://open.spotify.com/artist/0t9i2yNpYr4QGde2gz8YVg"
-        }
-      ],
-      "duration_ms": 295292,
-      "name": "Crocodile.",
-      "url": "https://open.spotify.com/track/15BCiZbLXGxPvBqvUVOpNS"
-    },
-    {
-      "added_at": "2026-11-18 05:00:34",
-      "album": {
-        "name": "FLESH AND BONE",
-        "url": "https://open.spotify.com/album/5ohRxjEVRRPrXup0SoE5ef"
-      },
-      "artists": [
-        {
-          "name": "PINKNOISE",
-          "url": "https://open.spotify.com/artist/2USllv850CGVjxqji1jxcd"
-        }
-      ],
-      "duration_ms": 186000,
-      "name": "THE FUTURE IS PINK",
-      "url": "https://open.spotify.com/track/4YOcZsDaUvewm9fahuGXxW"
-    },
-    {
-      "added_at": "2026-11-18 05:00:34",
-      "album": {
-        "name": "forever mine",
-        "url": "https://open.spotify.com/album/40rxqlR7YFMpixheeA7UCX"
-      },
-      "artists": [
-        {
-          "name": "5hy",
-          "url": "https://open.spotify.com/artist/2TcMB2b7duIzDoXnAr4iTr"
-        }
-      ],
-      "duration_ms": 166036,
-      "name": "forever mine",
-      "url": "https://open.spotify.com/track/4I3DpTGfrxueIC61VYMcQd"
     },
     {
       "added_at": "2026-11-18 05:00:34",

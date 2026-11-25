@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZGMlvB91dPK.md) - [plain]
 
 > Découvrez la programmation du BISE Festival 2026.
 
-[Spotify](https://open.spotify.com/user/spotify) - 4,152 likes - 50 songs - 2 hr 42 min
+[Spotify](https://open.spotify.com/user/spotify) - 4,151 likes - 50 songs - 2 hr 42 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -15,11 +15,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZGMlvB91dPK.md) - [plain]
 | 5 | [Pinch Me](https://open.spotify.com/track/6zDYiZZXrjEJXIvCNkDlVj) | [Kazy Lambist](https://open.spotify.com/artist/41Ue54Vb6iWx2dcdRCM6oH), [Woody](https://open.spotify.com/artist/3oIExcjKPYb3gFv45jQmgK) | [Pinch Me](https://open.spotify.com/album/2p7DbJjX0HA1HmxH408qMQ) | 3:34 |
 | 6 | [Comme les autres](https://open.spotify.com/track/3WMwvWAAdicQFiTCvdAZd3) | [Peet](https://open.spotify.com/artist/7u4o1K3Qui9DmeWqSMsa6l), [White Corbeau](https://open.spotify.com/artist/4Fx8fH6sfgkkn3HVyWdmZH) | [À demain](https://open.spotify.com/album/6ZsgRFJ41qP4MSXbm1vPta) | 3:27 |
 | 7 | [Jaouad](https://open.spotify.com/track/6W3hSP8obngau8e6yU1AAr) | [Dressed Like Boys](https://open.spotify.com/artist/5qQLp6Xal6S6KXEHgvxmvp) | [Dressed Like Boys](https://open.spotify.com/album/2aVuPgS0edNTSjUodsqwGn) | 5:01 |
-| 8 | [FOMO](https://open.spotify.com/track/2RZD1FSRfzrXyBNTuzAznH) | [Juste Shani](https://open.spotify.com/artist/5eATUoLTafitqpoDRpRbwR) | [FOMO](https://open.spotify.com/album/7ClcoIV2o4GIl0c416lj97) | 3:06 |
-| 9 | [25 EUROS](https://open.spotify.com/track/7CuqqjkW4d0BDelI7bpofl) | [James Loup](https://open.spotify.com/artist/0cfORxfgSqEtrXE59wVSfE) | [25 EUROS](https://open.spotify.com/album/162WefLM0ISqUY9rB6HwcG) | 2:04 |
+| 8 | [25 EUROS](https://open.spotify.com/track/7CuqqjkW4d0BDelI7bpofl) | [James Loup](https://open.spotify.com/artist/0cfORxfgSqEtrXE59wVSfE) | [25 EUROS](https://open.spotify.com/album/162WefLM0ISqUY9rB6HwcG) | 2:04 |
+| 9 | [FOMO](https://open.spotify.com/track/2RZD1FSRfzrXyBNTuzAznH) | [Juste Shani](https://open.spotify.com/artist/5eATUoLTafitqpoDRpRbwR) | [FOMO](https://open.spotify.com/album/7ClcoIV2o4GIl0c416lj97) | 3:06 |
 | 10 | [No Rnb](https://open.spotify.com/track/3ISk54mlwwOqYvb8QkASqn) | [Gen](https://open.spotify.com/artist/5TF46e3BqrK9NAOAUm608G) | [Dog Day](https://open.spotify.com/album/70vSMHeeSJ9Z2xmOX08RBr) | 1:27 |
-| 11 | [Against \- You Man remix](https://open.spotify.com/track/2rxi40DFNveTmRco5bd3vk) | [IPPON](https://open.spotify.com/artist/5NxzmGijsQRL1Dq68AAbCB), [You Man](https://open.spotify.com/artist/7J7wDWLxbvVQdozTVeNWdp) | [Against \(You Man remix\)](https://open.spotify.com/album/2XIx1vRxRphV7kFywxxhQi) | 4:15 |
-| 12 | [Resign](https://open.spotify.com/track/2SXFCcO0G7Wav918WD5NS1) | [NASTYJOE](https://open.spotify.com/artist/670gKdLPnnsJjyiy9HzvaV) | [Deep Side of Happiness](https://open.spotify.com/album/65kAQMfuIRnWX4o9aMEEYe) | 3:10 |
+| 11 | [Resign](https://open.spotify.com/track/2SXFCcO0G7Wav918WD5NS1) | [NASTYJOE](https://open.spotify.com/artist/670gKdLPnnsJjyiy9HzvaV) | [Deep Side of Happiness](https://open.spotify.com/album/65kAQMfuIRnWX4o9aMEEYe) | 3:10 |
+| 12 | [Against \- You Man remix](https://open.spotify.com/track/2rxi40DFNveTmRco5bd3vk) | [IPPON](https://open.spotify.com/artist/5NxzmGijsQRL1Dq68AAbCB), [You Man](https://open.spotify.com/artist/7J7wDWLxbvVQdozTVeNWdp) | [Against \(You Man remix\)](https://open.spotify.com/album/2XIx1vRxRphV7kFywxxhQi) | 4:15 |
 | 13 | [je t’ai dit je t’aime](https://open.spotify.com/track/04ara2ZDKxmF6li1vwkF6Z) | [Noée](https://open.spotify.com/artist/4cT3LchKrO3zxJNHq4cK1Q) | [je t’ai dit je t’aime](https://open.spotify.com/album/6YRSyAeYRIcnrKWw5D4BRV) | 3:05 |
 | 14 | [Swim With the Gore](https://open.spotify.com/track/2utE575Mfh8CJQqHPqcoFV) | [Jasmine Not Jafar](https://open.spotify.com/artist/1P8cIgzmOiorjmyVG6a8Eg) | [Swim With the Gore](https://open.spotify.com/album/6ljgLmDngyMy5gxalT0WpT) | 2:37 |
 | 15 | [Queen Of Cove](https://open.spotify.com/track/0z1sXJLDzn7eAmJQgVHMCL) | [Benni](https://open.spotify.com/artist/331VAK6qkIiNdWoE2BGFWq) | [Queen Of Cove](https://open.spotify.com/album/4SC6oPTwNmb7RgirUsqhzX) | 4:21 |
@@ -49,14 +49,14 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZGMlvB91dPK.md) - [plain]
 | 39 | [Sotula](https://open.spotify.com/track/093e7cYW03XaG7wEldsTgY) | [KIMIA](https://open.spotify.com/artist/0pwRlHwZ0MnJOcwQcgJBkl) | [Sotula](https://open.spotify.com/album/1HDYBhqJkaMwLwCFyxPhYm) | 3:06 |
 | 40 | [INSURGENCIA](https://open.spotify.com/track/2LEQxGKWXcr9reo0RMCppt) | [Caos.808](https://open.spotify.com/artist/3evK05yJ1WTXBVhu1SW8qC) | [INSURGENCIA](https://open.spotify.com/album/5i3UaYjZefcMK7mLyMOtXX) | 2:12 |
 | 41 | [Coma \- Stripped Version](https://open.spotify.com/track/2XnCicNih9wL1IQsq5nxOY) | [Benni](https://open.spotify.com/artist/331VAK6qkIiNdWoE2BGFWq) | [Coma \(Stripped Version\)](https://open.spotify.com/album/4c2vZPWSzlMCZtjYHOkS17) | 3:18 |
-| 42 | [COMA](https://open.spotify.com/track/1OfsokshZ1UsTJJTqL1Gdc) | [PAR.SEK](https://open.spotify.com/artist/6PDqYjhisgu14QnBRwZABx) | [COMA](https://open.spotify.com/album/1qeLpimb9Q18h3h52kmAAy) | 3:01 |
-| 43 | [Timecrash](https://open.spotify.com/track/5v0c8Qsm9ftSI05ZKthjLz) | [MEDICIS](https://open.spotify.com/artist/37KN1w7uLnKETrPMXeFep4) | [Where We Dive](https://open.spotify.com/album/7w142tIXVD3BcWPj2XtW2F) | 4:00 |
+| 42 | [Timecrash](https://open.spotify.com/track/5v0c8Qsm9ftSI05ZKthjLz) | [MEDICIS](https://open.spotify.com/artist/37KN1w7uLnKETrPMXeFep4) | [Where We Dive](https://open.spotify.com/album/7w142tIXVD3BcWPj2XtW2F) | 4:00 |
+| 43 | [COMA](https://open.spotify.com/track/1OfsokshZ1UsTJJTqL1Gdc) | [PAR.SEK](https://open.spotify.com/artist/6PDqYjhisgu14QnBRwZABx) | [COMA](https://open.spotify.com/album/1qeLpimb9Q18h3h52kmAAy) | 3:01 |
 | 44 | [outsider](https://open.spotify.com/track/7braDJQWVRi9zfgemUwIGi) | [naya mö](https://open.spotify.com/artist/4YYr2nmnZ2rKlcUh7aroZi) | [dealing with ghosts](https://open.spotify.com/album/5YIxXAa4EhD7nSWXsfxQOt) | 2:01 |
 | 45 | [Down the Row](https://open.spotify.com/track/52VLrLioxys36RyG0Z6Dga) | [The Chainsaw Motel](https://open.spotify.com/artist/4HsuHCwO2CpuP9V2YoNxvf) | [Down the Row](https://open.spotify.com/album/2gjcAiaJfetD0D9zD4GRVy) | 3:29 |
 | 46 | [ARDE MAMI](https://open.spotify.com/track/1tPH5nXPitW7wLY2hyQAoK) | [Caos.808](https://open.spotify.com/artist/3evK05yJ1WTXBVhu1SW8qC) | [ARDE MAMI](https://open.spotify.com/album/1Z137meWCyz4GsMlj1UDt4) | 2:56 |
-| 47 | [Changer](https://open.spotify.com/track/3on1O6i9u6hlkWCDs0r4fZ) | [PAR.SEK](https://open.spotify.com/artist/6PDqYjhisgu14QnBRwZABx) | [Tout change](https://open.spotify.com/album/4RUoWFOmQ4QYlWbrkItg2I) | 2:38 |
-| 48 | [Strange Place](https://open.spotify.com/track/5dEC6ATbja2OwLRzXvo91E) | [NASTYJOE](https://open.spotify.com/artist/670gKdLPnnsJjyiy9HzvaV) | [Wire](https://open.spotify.com/album/4TH0CpZEw9bzdvu3oamSwC) | 3:10 |
+| 47 | [Strange Place](https://open.spotify.com/track/5dEC6ATbja2OwLRzXvo91E) | [NASTYJOE](https://open.spotify.com/artist/670gKdLPnnsJjyiy9HzvaV) | [Wire](https://open.spotify.com/album/4TH0CpZEw9bzdvu3oamSwC) | 3:10 |
+| 48 | [Changer](https://open.spotify.com/track/3on1O6i9u6hlkWCDs0r4fZ) | [PAR.SEK](https://open.spotify.com/artist/6PDqYjhisgu14QnBRwZABx) | [Tout change](https://open.spotify.com/album/4RUoWFOmQ4QYlWbrkItg2I) | 2:38 |
 | 49 | [Twisted Mind](https://open.spotify.com/track/1sWVocPjaolPmAa4fsOrWz) | [MEDICIS](https://open.spotify.com/artist/37KN1w7uLnKETrPMXeFep4) | [Twisted Mind](https://open.spotify.com/album/4ko8JEKBxITNZcDg8Wg3s9) | 2:52 |
 | 50 | [eye 2 eye](https://open.spotify.com/track/55zqLu62XWPBnFVw8B8lE7) | [Clara Kimera](https://open.spotify.com/artist/4sQzCc8XZTTmnuSH770IBr) | [eye 2 eye](https://open.spotify.com/album/4eJ6c7ldGq7POYztlCXuMQ) | 2:30 |
 
-Snapshot ID: `AAAAACnI4UG2urE8ifV1JJYe35yNga6J`
+Snapshot ID: `AAAAAJH8cT/rdSDy0+Gq1VedH1uBB3cx`

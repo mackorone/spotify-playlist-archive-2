@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/6APhyezi0mduQmsYIurjeg.md) - [plain]
 
 > Submit your song: https:&\#x2F;&\#x2F;dailyplaylists.com&\#x2F;playlists&\#x2F;6APhyezi0mduQmsYIurjeg
 
-[RADIO PLUG PRO](https://open.spotify.com/user/31j62y3lgk2wiycoov2nuie5hp3e) - 1,281 likes - 641 songs - 1 day 14 hr 52 min
+[RADIO PLUG PRO](https://open.spotify.com/user/31j62y3lgk2wiycoov2nuie5hp3e) - 1,281 likes - 644 songs - 1 day 15 hr 5 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -649,5 +649,8 @@ pretty - [cumulative](/playlists/cumulative/6APhyezi0mduQmsYIurjeg.md) - [plain]
 | 639 | [The Salem Shake](https://open.spotify.com/track/4sl29ZGG3WOnDMGs1mZMOS) | [Vordermann](https://open.spotify.com/artist/6q8MQV9ZLqQtv1UN44SgwN) | [/Feeding on Fireworks](https://open.spotify.com/album/5cYMOcakFvoZaLXaT7Dz2E) | 4:34 |
 | 640 | [48 horas](https://open.spotify.com/track/5nVXtplassqeVsrDB0FFvm) | [Ángel Valor](https://open.spotify.com/artist/3TSk2G1PqCoO7iNAnHJAG6) | [48 horas](https://open.spotify.com/album/0nA6wn6HNIUvidDc9Repki) | 4:02 |
 | 641 | [After The Show](https://open.spotify.com/track/2HMHJeKnIKUvVwvysbtW5r) | [Wayward Gnome](https://open.spotify.com/artist/5OGoDjttAfogU4Z7ymyhPd) | [A Wonderful Illusion](https://open.spotify.com/album/01lWggP5JEQhoLd6yOmzyk) | 4:49 |
+| 642 | [Company](https://open.spotify.com/track/5qScYWI7wcffKfcoysfjJW) | [Barbara Grace Romano](https://open.spotify.com/artist/2mlirNl1shb7bkoEaOGCXS) | [Company](https://open.spotify.com/album/6LYuV2VYA0JKLGCinc92gD) | 5:51 |
+| 643 | [Amsterdam](https://open.spotify.com/track/5uaYokdz8GYpEsmF4Ewn9w) | [Costa Calcinara](https://open.spotify.com/artist/7rCyfyNrDTZyh5Zfnq3oM1) | [Che cos'è l'amore](https://open.spotify.com/album/7ejVBP9ObEiQzpWAhUhAmX) | 2:35 |
+| 644 | [Tears \(Kyo Kusanagi The King of Fighters '99\) \- Vocal Version](https://open.spotify.com/track/6YBiU7aCpxDmApjb3AODLR) | [Vocal Game Orchestra](https://open.spotify.com/artist/4LvoFWmhUT7CNWjppMoaUK) | [Tears \(Kyo Kusanagi The King of Fighters '99\) \[Vocal Version\]](https://open.spotify.com/album/5Py5DnojD5T3nj0aXKnU4g) | 4:12 |
 
-Snapshot ID: `AAADF9N6EhZ2PmyhqJZ8eLxvj6Lmn6sk`
+Snapshot ID: `AAADGipUHzjNHz+3SkzEef8I0d+hlQ7V`

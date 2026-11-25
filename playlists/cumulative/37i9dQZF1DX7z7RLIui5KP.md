@@ -4,7 +4,7 @@
 
 > Proudly Kenyan gems made for the entire family\. Cover: Fena Gitu
 
-374 songs - 21 hr 35 min
+375 songs - 21 hr 39 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -201,6 +201,7 @@
 | [Mimi Na Wewe](https://open.spotify.com/track/3dD3R2tOwctlnslnNl4rnq) | [Bridget Blue](https://open.spotify.com/artist/5EbxOKB0wn1EdeBvwK7kxw), [Nikita Kering'](https://open.spotify.com/artist/1yQKzWOHXJQSEnOXrHDl4X) | [RNB](https://open.spotify.com/album/6Kb33vOoFyLLondSliPPlp) | 3:12 | 2026-07-15 | 2026-07-26 |
 | [Miti](https://open.spotify.com/track/693Nupdv9SutEUk1R7IhcL) | [Willy Paul](https://open.spotify.com/artist/3CCHaNvCKYNWWrAYo5C8TL), [Jay Melody](https://open.spotify.com/artist/58JfjeSwt2vRDspRRp1b70) | [Miti](https://open.spotify.com/album/6pWI3mM97WmJrWhtFjIK7A) | 3:11 | 2026-11-06 |  |
 | [Mjiekee](https://open.spotify.com/track/3I7h52OZb7eokVCFoWBGFp) | [Fathermoh](https://open.spotify.com/artist/3eBT8YGUjV74wTGR0A6ojS), [Masauti](https://open.spotify.com/artist/7IP0gLYelgi6FYU9mkzyAn), [Khaligraph Jones](https://open.spotify.com/artist/1xxXRVpuEm3X3p1QEm61Az) | [Mjiekee](https://open.spotify.com/album/6nnibv2Nq4eo83Wa5mCbrJ) | 3:30 | 2026-05-22 |  |
+| [Mkataba](https://open.spotify.com/track/3kiVWA4g1Kx3l9jtWROR0F) | [Jovial](https://open.spotify.com/artist/2iULDphri5hyIfw6Z1HhcH) | [Mkataba](https://open.spotify.com/album/13DsBPHi3mbwSEGugLdJKO) | 3:02 | 2026-11-13 |  |
 | [Mniache Nimpende](https://open.spotify.com/track/5W1CrosJ4JWwgBzn7D3zsx) | [Ywaya Tajiri](https://open.spotify.com/artist/6wf9RfrBquBd6Galoe5oQE) | [Wingu la Mapenzi](https://open.spotify.com/album/1lOe5Rc4WwPxnV3puNMPkx) | 2:40 | 2026-11-06 |  |
 | [Mnoma](https://open.spotify.com/track/17QsiGe9WTNSiCuQGLsIoo) | [Maandy](https://open.spotify.com/artist/3AaXIAk5OkIRmHnoEP4XmP) | [Baddies Need Love](https://open.spotify.com/album/0I4LwuokRzpfG7garp91AK) | 3:24 | 2026-07-25 | 2026-07-31 |
 | [Mon Bebe](https://open.spotify.com/track/1vmlAOkpXxfclPeg0pdgdn) | [Teslah](https://open.spotify.com/artist/29d1gtSpXDMaZLyvHIZw4u) | [Miss Understood](https://open.spotify.com/album/302aQy8UeU99sWA9CcFgRE) | 3:07 | 2026-06-11 | 2026-09-19 |

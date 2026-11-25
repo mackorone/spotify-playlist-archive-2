@@ -1,12 +1,12 @@
 {
   "description": "El soundtrack del verano 2026 \ud83c\udfdd\ufe0f Cover: Maluma & Shakira",
-  "num_followers": 3379610,
+  "num_followers": 3379019,
   "original_name": "Verano Forever",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAN6o4zqRGcU0Scdk5wzKlyjTBCm+",
+  "snapshot_id": "AAAAAOhk+szx185hIZCpotkyJsxQZaxo",
   "tracks": [
     {
       "added_at": "2026-11-06 05:01:24",
@@ -383,6 +383,22 @@
     {
       "added_at": "2026-11-06 05:01:24",
       "album": {
+        "name": "BORONDO",
+        "url": "https://open.spotify.com/album/4xMNn5AFdmBIYiXRbt5YH4"
+      },
+      "artists": [
+        {
+          "name": "Be\u00e9le",
+          "url": "https://open.spotify.com/artist/7a0XAaPaK2aDSqa8p3QnC7"
+        }
+      ],
+      "duration_ms": 158036,
+      "name": "no tiene sentido",
+      "url": "https://open.spotify.com/track/1HEwEN64NjgTaHmo7LfkX8"
+    },
+    {
+      "added_at": "2026-11-06 05:01:24",
+      "album": {
         "name": "ZIZI",
         "url": "https://open.spotify.com/album/4f0YTBqSbvM1iJpuY9r3yQ"
       },
@@ -399,22 +415,6 @@
       "duration_ms": 242840,
       "name": "ZIZI",
       "url": "https://open.spotify.com/track/5BsvzSvw98mLqpZznMjuLX"
-    },
-    {
-      "added_at": "2026-11-06 05:01:24",
-      "album": {
-        "name": "BORONDO",
-        "url": "https://open.spotify.com/album/4xMNn5AFdmBIYiXRbt5YH4"
-      },
-      "artists": [
-        {
-          "name": "Be\u00e9le",
-          "url": "https://open.spotify.com/artist/7a0XAaPaK2aDSqa8p3QnC7"
-        }
-      ],
-      "duration_ms": 158036,
-      "name": "no tiene sentido",
-      "url": "https://open.spotify.com/track/1HEwEN64NjgTaHmo7LfkX8"
     },
     {
       "added_at": "2026-11-06 05:01:24",
@@ -463,22 +463,6 @@
     {
       "added_at": "2026-11-06 05:01:24",
       "album": {
-        "name": "Si Antes Te Hubiera Conocido",
-        "url": "https://open.spotify.com/album/5ylbxH7EqpsmHZCRuiYewS"
-      },
-      "artists": [
-        {
-          "name": "KAROL G",
-          "url": "https://open.spotify.com/artist/790FomKkXshlbRYZFtlgla"
-        }
-      ],
-      "duration_ms": 195824,
-      "name": "Si Antes Te Hubiera Conocido",
-      "url": "https://open.spotify.com/track/6WatFBLVB0x077xWeoVc2k"
-    },
-    {
-      "added_at": "2026-11-06 05:01:24",
-      "album": {
         "name": "Quevedo: Bzrp Music Sessions, Vol. 52/66",
         "url": "https://open.spotify.com/album/4PNqWiJAfjj32hVvlchV5u"
       },
@@ -495,6 +479,22 @@
       "duration_ms": 198937,
       "name": "Quevedo: Bzrp Music Sessions, Vol. 52/66",
       "url": "https://open.spotify.com/track/2tTmW7RDtMQtBk7m2rYeSw"
+    },
+    {
+      "added_at": "2026-11-06 05:01:24",
+      "album": {
+        "name": "Si Antes Te Hubiera Conocido",
+        "url": "https://open.spotify.com/album/5ylbxH7EqpsmHZCRuiYewS"
+      },
+      "artists": [
+        {
+          "name": "KAROL G",
+          "url": "https://open.spotify.com/artist/790FomKkXshlbRYZFtlgla"
+        }
+      ],
+      "duration_ms": 195824,
+      "name": "Si Antes Te Hubiera Conocido",
+      "url": "https://open.spotify.com/track/6WatFBLVB0x077xWeoVc2k"
     },
     {
       "added_at": "2026-11-06 05:01:24",
@@ -531,6 +531,26 @@
     {
       "added_at": "2026-11-06 05:01:24",
       "album": {
+        "name": "Un Verano Sin Ti",
+        "url": "https://open.spotify.com/album/3RQQmkQEvNCY4prGKE6oc5"
+      },
+      "artists": [
+        {
+          "name": "Bad Bunny",
+          "url": "https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X"
+        },
+        {
+          "name": "The Mar\u00edas",
+          "url": "https://open.spotify.com/artist/2sSGPbdZJkaSE2AbcGOACx"
+        }
+      ],
+      "duration_ms": 244444,
+      "name": "Otro Atardecer",
+      "url": "https://open.spotify.com/track/0E0DRHf5PfMeor0ZCwB3oT"
+    },
+    {
+      "added_at": "2026-11-06 05:01:24",
+      "album": {
         "name": "Y Que Fue?",
         "url": "https://open.spotify.com/album/6ZhfK221NirEZkXoXdTyQw"
       },
@@ -563,26 +583,6 @@
       "duration_ms": 210047,
       "name": "Verano Rosa",
       "url": "https://open.spotify.com/track/0nafF9MxcXJBQWv3BTKtdF"
-    },
-    {
-      "added_at": "2026-11-06 05:01:24",
-      "album": {
-        "name": "Un Verano Sin Ti",
-        "url": "https://open.spotify.com/album/3RQQmkQEvNCY4prGKE6oc5"
-      },
-      "artists": [
-        {
-          "name": "Bad Bunny",
-          "url": "https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X"
-        },
-        {
-          "name": "The Mar\u00edas",
-          "url": "https://open.spotify.com/artist/2sSGPbdZJkaSE2AbcGOACx"
-        }
-      ],
-      "duration_ms": 244444,
-      "name": "Otro Atardecer",
-      "url": "https://open.spotify.com/track/0E0DRHf5PfMeor0ZCwB3oT"
     },
     {
       "added_at": "2026-11-06 05:01:24",
@@ -791,6 +791,26 @@
     {
       "added_at": "2026-11-06 05:01:24",
       "album": {
+        "name": "Daddy Yankee: Bzrp Music Sessions, Vol. 0/66",
+        "url": "https://open.spotify.com/album/1lYZ1jkIDGcPVbBRIadB4t"
+      },
+      "artists": [
+        {
+          "name": "Bizarrap",
+          "url": "https://open.spotify.com/artist/716NhGYqD1jl2wI1Qkgq36"
+        },
+        {
+          "name": "Daddy Yankee",
+          "url": "https://open.spotify.com/artist/4VMYDCV2IEDYJArk749S6m"
+        }
+      ],
+      "duration_ms": 151805,
+      "name": "Daddy Yankee: Bzrp Music Sessions, Vol. 0/66",
+      "url": "https://open.spotify.com/track/2uPMsTEKx79gJ8rB3AcT0v"
+    },
+    {
+      "added_at": "2026-11-06 05:01:24",
+      "album": {
         "name": "YAPAQUE",
         "url": "https://open.spotify.com/album/29FOwp0vsOM1V3ybDRFL5v"
       },
@@ -811,26 +831,6 @@
       "duration_ms": 237120,
       "name": "YAPAQUE",
       "url": "https://open.spotify.com/track/67kmVaXtdmcy856hKjHb3y"
-    },
-    {
-      "added_at": "2026-11-06 05:01:24",
-      "album": {
-        "name": "Daddy Yankee: Bzrp Music Sessions, Vol. 0/66",
-        "url": "https://open.spotify.com/album/1lYZ1jkIDGcPVbBRIadB4t"
-      },
-      "artists": [
-        {
-          "name": "Bizarrap",
-          "url": "https://open.spotify.com/artist/716NhGYqD1jl2wI1Qkgq36"
-        },
-        {
-          "name": "Daddy Yankee",
-          "url": "https://open.spotify.com/artist/4VMYDCV2IEDYJArk749S6m"
-        }
-      ],
-      "duration_ms": 151805,
-      "name": "Daddy Yankee: Bzrp Music Sessions, Vol. 0/66",
-      "url": "https://open.spotify.com/track/2uPMsTEKx79gJ8rB3AcT0v"
     },
     {
       "added_at": "2026-11-06 05:01:24",
@@ -1123,22 +1123,6 @@
     {
       "added_at": "2026-11-06 05:01:24",
       "album": {
-        "name": "OHNANA",
-        "url": "https://open.spotify.com/album/3IdVqIfyLPqxPZusYgifLo"
-      },
-      "artists": [
-        {
-          "name": "Kapo",
-          "url": "https://open.spotify.com/artist/3UTF2no3muGdiFXVujl94i"
-        }
-      ],
-      "duration_ms": 156577,
-      "name": "OHNANA",
-      "url": "https://open.spotify.com/track/1fTjqf10accJCDYstPwwZ6"
-    },
-    {
-      "added_at": "2026-11-06 05:01:24",
-      "album": {
         "name": "Indeciso",
         "url": "https://open.spotify.com/album/4qecT0ZJrf35thz2WaEm6P"
       },
@@ -1159,6 +1143,22 @@
       "duration_ms": 217253,
       "name": "Indeciso",
       "url": "https://open.spotify.com/track/59s0s39NFWScuHDbHytI14"
+    },
+    {
+      "added_at": "2026-11-06 05:01:24",
+      "album": {
+        "name": "OHNANA",
+        "url": "https://open.spotify.com/album/3IdVqIfyLPqxPZusYgifLo"
+      },
+      "artists": [
+        {
+          "name": "Kapo",
+          "url": "https://open.spotify.com/artist/3UTF2no3muGdiFXVujl94i"
+        }
+      ],
+      "duration_ms": 156577,
+      "name": "OHNANA",
+      "url": "https://open.spotify.com/track/1fTjqf10accJCDYstPwwZ6"
     },
     {
       "added_at": "2026-11-06 05:01:24",
@@ -1331,22 +1331,6 @@
     {
       "added_at": "2026-11-06 05:01:24",
       "album": {
-        "name": "Una Aventura",
-        "url": "https://open.spotify.com/album/4ljazARRKBsouqhbB864Ms"
-      },
-      "artists": [
-        {
-          "name": "Ozuna",
-          "url": "https://open.spotify.com/artist/1i8SpTcr7yvPOmcqrbnVXY"
-        }
-      ],
-      "duration_ms": 180894,
-      "name": "Una Aventura",
-      "url": "https://open.spotify.com/track/6P5OklKnFLlyc5sZiQwCrA"
-    },
-    {
-      "added_at": "2026-11-06 05:01:24",
-      "album": {
         "name": "\u00bfQui\u00e9n trae las cornetas?",
         "url": "https://open.spotify.com/album/3UedVnaIbI3SRuMLClWiJ3"
       },
@@ -1363,6 +1347,22 @@
       "duration_ms": 191825,
       "name": "Hora Loca",
       "url": "https://open.spotify.com/track/3lfjd8A0DkB84yrvjzkbry"
+    },
+    {
+      "added_at": "2026-11-06 05:01:24",
+      "album": {
+        "name": "Una Aventura",
+        "url": "https://open.spotify.com/album/4ljazARRKBsouqhbB864Ms"
+      },
+      "artists": [
+        {
+          "name": "Ozuna",
+          "url": "https://open.spotify.com/artist/1i8SpTcr7yvPOmcqrbnVXY"
+        }
+      ],
+      "duration_ms": 180894,
+      "name": "Una Aventura",
+      "url": "https://open.spotify.com/track/6P5OklKnFLlyc5sZiQwCrA"
     },
     {
       "added_at": "2026-11-06 05:01:24",
@@ -1619,22 +1619,6 @@
     {
       "added_at": "2026-11-06 05:01:24",
       "album": {
-        "name": "REINA (KRIMINAL)",
-        "url": "https://open.spotify.com/album/7eblPvGdDiHG1vHdtc7pys"
-      },
-      "artists": [
-        {
-          "name": "Kapo",
-          "url": "https://open.spotify.com/artist/3UTF2no3muGdiFXVujl94i"
-        }
-      ],
-      "duration_ms": 164515,
-      "name": "REINA (KRIMINAL)",
-      "url": "https://open.spotify.com/track/6YCdfQNDpfvY9D9JHc9VmR"
-    },
-    {
-      "added_at": "2026-11-06 05:01:24",
-      "album": {
         "name": "PONGO",
         "url": "https://open.spotify.com/album/2enHgKCtJSopIOoi0uhy0Y"
       },
@@ -1655,6 +1639,22 @@
       "duration_ms": 189197,
       "name": "PONGO",
       "url": "https://open.spotify.com/track/3vohqCtAozZw4ifTAtwbxu"
+    },
+    {
+      "added_at": "2026-11-06 05:01:24",
+      "album": {
+        "name": "REINA (KRIMINAL)",
+        "url": "https://open.spotify.com/album/7eblPvGdDiHG1vHdtc7pys"
+      },
+      "artists": [
+        {
+          "name": "Kapo",
+          "url": "https://open.spotify.com/artist/3UTF2no3muGdiFXVujl94i"
+        }
+      ],
+      "duration_ms": 164515,
+      "name": "REINA (KRIMINAL)",
+      "url": "https://open.spotify.com/track/6YCdfQNDpfvY9D9JHc9VmR"
     },
     {
       "added_at": "2026-11-06 05:01:24",

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXapHi7gXtXo2.md) - [plain]
 
 > Dale play y déjate llevar por estas finas melodías Indie.
 
-[Spotify](https://open.spotify.com/user/spotify) - 94,829 likes - 100 songs - 5 hr 35 min
+[Spotify](https://open.spotify.com/user/spotify) - 94,827 likes - 100 songs - 5 hr 35 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -84,13 +84,13 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXapHi7gXtXo2.md) - [plain]
 | 74 | [Cómo Te Extraño Mi Amor](https://open.spotify.com/track/4ItghFzjyBOtbR8J4mJ0hP) | [Rosario Ortega](https://open.spotify.com/artist/6AvVNBiwAW7CXZPACAo2OB), [Goyo Degano](https://open.spotify.com/artist/2jdmT8GGcp6lWM58D0ROYf) | [Cómo Te Extraño Mi Amor](https://open.spotify.com/album/4BmqOdFP8fsrpVMe3LcHp9) | 3:07 |
 | 75 | [Oler A Ti](https://open.spotify.com/track/77aF6rwctQaadtAXQOrpjr) | [Fármacos](https://open.spotify.com/artist/1FJENlxciHSXzfHlYMgB2M) | [Oler A Ti](https://open.spotify.com/album/0dgD8Uj4j7dPMFoRFX6cZ5) | 3:45 |
 | 76 | [el gil](https://open.spotify.com/track/0j5MACLCW2AQVh82thXuJ7) | [Camarú](https://open.spotify.com/artist/36yItyZJx0Tw3OpFQADb8z) | [el gil](https://open.spotify.com/album/5floVE8LEUynVJ14Pr9EHD) | 4:32 |
-| 77 | [Brillas en la Pista](https://open.spotify.com/track/07VHlK0Hmov13F7b6cEKMt) | [Mecánico](https://open.spotify.com/artist/2oUsBhAi9Mac4BjHxt55ct), [1915](https://open.spotify.com/artist/4jwnlVc9Lj5vMkL32978d1) | [Dos Cordilleras](https://open.spotify.com/album/5sqTnSZ1d0SOyoWbR1YjKA) | 2:44 |
-| 78 | [Cursi](https://open.spotify.com/track/2BJ1l2EOTZEiHnJdl2brlG) | [Yamila Ruiz](https://open.spotify.com/artist/3Mh1fBv8JR5AhW6INfwiTl) | [Cursi](https://open.spotify.com/album/0w2G1IC8jXzMtBn4Vzsi8M) | 3:13 |
-| 79 | [Cero](https://open.spotify.com/track/0SNwjDrUgkRTeKSJGw6e4C) | [Malena Villa](https://open.spotify.com/artist/0RlibgJa8rtPvVn415J6WN), [Clara Cava](https://open.spotify.com/artist/5bOm9wAui94GDhPOCKgmhY) | [Pensamientos](https://open.spotify.com/album/6MnIQVOhKjOkbid83IEFz6) | 2:36 |
-| 80 | [Mentiroso](https://open.spotify.com/track/25pP7EPQwNjoIA2EFZoPOK) | [Walter Esaú](https://open.spotify.com/artist/2BaF574aVsGeAtcUgrzeV5) | [Mentiroso](https://open.spotify.com/album/67eYO57qEmwcX323pi63kZ) | 3:48 |
+| 77 | [Mentiroso](https://open.spotify.com/track/25pP7EPQwNjoIA2EFZoPOK) | [Walter Esaú](https://open.spotify.com/artist/2BaF574aVsGeAtcUgrzeV5) | [Mentiroso](https://open.spotify.com/album/67eYO57qEmwcX323pi63kZ) | 3:48 |
+| 78 | [Brillas en la Pista](https://open.spotify.com/track/07VHlK0Hmov13F7b6cEKMt) | [Mecánico](https://open.spotify.com/artist/2oUsBhAi9Mac4BjHxt55ct), [1915](https://open.spotify.com/artist/4jwnlVc9Lj5vMkL32978d1) | [Dos Cordilleras](https://open.spotify.com/album/5sqTnSZ1d0SOyoWbR1YjKA) | 2:44 |
+| 79 | [Cursi](https://open.spotify.com/track/2BJ1l2EOTZEiHnJdl2brlG) | [Yamila Ruiz](https://open.spotify.com/artist/3Mh1fBv8JR5AhW6INfwiTl) | [Cursi](https://open.spotify.com/album/0w2G1IC8jXzMtBn4Vzsi8M) | 3:13 |
+| 80 | [Cero](https://open.spotify.com/track/0SNwjDrUgkRTeKSJGw6e4C) | [Malena Villa](https://open.spotify.com/artist/0RlibgJa8rtPvVn415J6WN), [Clara Cava](https://open.spotify.com/artist/5bOm9wAui94GDhPOCKgmhY) | [Pensamientos](https://open.spotify.com/album/6MnIQVOhKjOkbid83IEFz6) | 2:36 |
 | 81 | [Delorean](https://open.spotify.com/track/2jiVXTu5brRC5HWo47obWP) | [Mi$HNRZ](https://open.spotify.com/artist/1pnscOsCDX2GTRnmxT1l1C) | [Delorean](https://open.spotify.com/album/5fajWt99WhQeqwdcLaLi6t) | 3:08 |
-| 82 | [Que No](https://open.spotify.com/track/4DAQll50JkLQMasCbExBkp) | [Barbi Recanati](https://open.spotify.com/artist/4nwFiHgPXUpo0KgR1rZSAD) | [Que No](https://open.spotify.com/album/1seXkKYuDxoAgUgZznRKJJ) | 3:50 |
-| 83 | [Guitarra](https://open.spotify.com/track/3LcPnIFriINZZ0ot0hBncl) | [Clara Cava](https://open.spotify.com/artist/5bOm9wAui94GDhPOCKgmhY) | [Martes 13](https://open.spotify.com/album/1cc2UPfqcPeai7bqU8v0hq) | 2:43 |
+| 82 | [Guitarra](https://open.spotify.com/track/3LcPnIFriINZZ0ot0hBncl) | [Clara Cava](https://open.spotify.com/artist/5bOm9wAui94GDhPOCKgmhY) | [Martes 13](https://open.spotify.com/album/1cc2UPfqcPeai7bqU8v0hq) | 2:43 |
+| 83 | [Que No](https://open.spotify.com/track/4DAQll50JkLQMasCbExBkp) | [Barbi Recanati](https://open.spotify.com/artist/4nwFiHgPXUpo0KgR1rZSAD) | [Que No](https://open.spotify.com/album/1seXkKYuDxoAgUgZznRKJJ) | 3:50 |
 | 84 | [Ya ni mis amigos me contestan](https://open.spotify.com/track/0P9nPSZTrFXB5vvVBqEC6n) | [Santi Celli](https://open.spotify.com/artist/3zoMlg6gx6K4NcGE15qtCF) | [Ya ni mis amigos me contestan](https://open.spotify.com/album/4cRlAWKFa1WSqZ2JDcvP8b) | 3:15 |
 | 85 | [El Problema 難題](https://open.spotify.com/track/7yL28cV1mfIB9679CzGVdd) | [Yesan 雪山](https://open.spotify.com/artist/6pJPxDgaE0H343SrASnY9J) | [El Problema 難題](https://open.spotify.com/album/1BrT4L9bLoN0VUjvhY8dLP) | 1:59 |
 | 86 | [Odio despertar](https://open.spotify.com/track/1OSDzIcMo3zvVnp90GzHJn) | [Miau Trío](https://open.spotify.com/artist/0WIn93XS8EmNaLPG3AZpeL) | [Cariño y ternura](https://open.spotify.com/album/2vFeXg5TS82u8I70oR4qYa) | 4:27 |
@@ -99,8 +99,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXapHi7gXtXo2.md) - [plain]
 | 89 | [La Burbuja](https://open.spotify.com/track/3YdqNKwtID5pip8QbnIHls) | [Adrián Bello](https://open.spotify.com/artist/0ZwjmGhps2YvUMzB7ihFV8), [Casandra Paz](https://open.spotify.com/artist/09uLTF7iK7cR3WsyhGJCoQ) | [La Burbuja](https://open.spotify.com/album/3ZLG0zv8u8nKtHOoMpy0yW) | 3:50 |
 | 90 | [Soy un volcán](https://open.spotify.com/track/0dGwAktrgm2gwLCcU3NLfG) | [Anyi](https://open.spotify.com/artist/4X3jL5rTrxMobkSxezJ6SD), [SIMONA](https://open.spotify.com/artist/7H7hLNfP9MzG8mt2A3s7nT) | [Luz de perla](https://open.spotify.com/album/6ENurOBs5BwrZNvGvJ2VIY) | 2:49 |
 | 91 | [Mi Día](https://open.spotify.com/track/5yDQOG9IxYZuykfyBHxY79) | [Joystick](https://open.spotify.com/artist/4jLnkyQUqdN35FQGBPAhji) | [Mi Día](https://open.spotify.com/album/5JS19QEMVnLMe8rXaTTlR7) | 3:33 |
-| 92 | [Good Fortune](https://open.spotify.com/track/4D1NdEyO3B9dJsLDybQnX9) | [CVMILLE](https://open.spotify.com/artist/5Lz2Klao37ArvAt73yMqNv) | [Good Fortune](https://open.spotify.com/album/6zVkGOcuB0tTe7g37nhRci) | 2:44 |
-| 93 | [Varado](https://open.spotify.com/track/6KPl3e7CMRHBfhh8xOiwhm) | [BATOS](https://open.spotify.com/artist/47ImzDRVg19IIw6IQa2tLI) | [Varado](https://open.spotify.com/album/1dWJbuayvNV3YgXeRI9F0a) | 3:19 |
+| 92 | [Varado](https://open.spotify.com/track/6KPl3e7CMRHBfhh8xOiwhm) | [BATOS](https://open.spotify.com/artist/47ImzDRVg19IIw6IQa2tLI) | [Varado](https://open.spotify.com/album/1dWJbuayvNV3YgXeRI9F0a) | 3:19 |
+| 93 | [Good Fortune](https://open.spotify.com/track/4D1NdEyO3B9dJsLDybQnX9) | [CVMILLE](https://open.spotify.com/artist/5Lz2Klao37ArvAt73yMqNv) | [Good Fortune](https://open.spotify.com/album/6zVkGOcuB0tTe7g37nhRci) | 2:44 |
 | 94 | [Amor de Instagramer](https://open.spotify.com/track/68uEhhNIxXd9caeJOAg7CD) | [An Espil](https://open.spotify.com/artist/0GEBrC42d3MZT2LpDPh2qt) | [Amor de Instagramer](https://open.spotify.com/album/403E3f7J7qzbSo8ZmG76hF) | 2:27 |
 | 95 | [DIAS DE PAJA](https://open.spotify.com/track/78GT2hT82AWRJq2kwXJAI5) | [Clara Cava](https://open.spotify.com/artist/5bOm9wAui94GDhPOCKgmhY) | [DIAS DE PAJA](https://open.spotify.com/album/1j1tnRVfGpSzgjiOLE1dtX) | 3:53 |
 | 96 | [Calor](https://open.spotify.com/track/3VJGRgrWKdT5UeFduHxzq6) | [El príncipe idiota](https://open.spotify.com/artist/5xEgsOYkENDU9TRoKMWW3u), [Cítrico](https://open.spotify.com/artist/00CoCNLLdB7cWFgA8NG5q9) | [Calor](https://open.spotify.com/album/6OPkStWof1bHCcuYc2lxw0) | 3:44 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXapHi7gXtXo2.md) - [plain]
 | 99 | [Seremos Idiotas](https://open.spotify.com/track/1uOCSlsvSXdAc04f4vDsrE) | [Francisca y Los Exploradores](https://open.spotify.com/artist/2axDF0woEL8GYIoW93gPPf) | [Seremos Idiotas](https://open.spotify.com/album/0pOxQBxRyfjv2Wck4qTM3I) | 3:17 |
 | 100 | [LO QUE PASÓ UNA VEZ](https://open.spotify.com/track/3DEuPFTumozG70UjBuZDTL) | [Ervin River](https://open.spotify.com/artist/5FJ0JzZcNCGhquRX2zPmbL) | [LO QUE PASÓ UNA VEZ](https://open.spotify.com/album/46AiJ3b8zW1Mg7L8oZHf8t) | 2:30 |
 
-Snapshot ID: `AAAAAGSwf7k4TaLU0IrI2J52bmqbMXc4`
+Snapshot ID: `AAAAAB5hMMgxWSjPZ1l6vrHvUWAly15D`

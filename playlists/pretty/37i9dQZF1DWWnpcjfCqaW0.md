@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWnpcjfCqaW0.md) - [plain]
 
 > The decade when country and rockabilly came together\. Cover: Johnny Cash
 
-[Spotify](https://open.spotify.com/user/spotify) - 300,307 likes - 75 songs - 3 hr 15 min
+[Spotify](https://open.spotify.com/user/spotify) - 300,312 likes - 75 songs - 3 hr 15 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -38,8 +38,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWnpcjfCqaW0.md) - [plain]
 | 28 | [I Can't Stop Loving You](https://open.spotify.com/track/3mewJ611cPqPIk8EQDiA12) | [Don Gibson](https://open.spotify.com/artist/4xcYVPssil6vbG6tq3W43S) | [The Essential Don Gibson](https://open.spotify.com/album/7qeAtACDVHBuMvxj9e79WH) | 2:34 |
 | 29 | [Rebel Rouser](https://open.spotify.com/track/4nAJtcmiyoL0ARY5WZY9IN) | [Duane Eddy](https://open.spotify.com/artist/1I5Cu7bqjkRg85idwYsD91) | [The Best Of Duane Eddy](https://open.spotify.com/album/1w35F1OItVmT916ZlJLTWf) | 2:33 |
 | 30 | [Puppy Love](https://open.spotify.com/track/3IWF9k6ezeVFwG08nbB0gI) | [Dolly Parton](https://open.spotify.com/artist/32vWCbZh0xZ4o9gkz4PsEU) | [Puppy Love / Girl Left Alone](https://open.spotify.com/album/7uTTF8NGOHQOgpqrJGESHH) | 1:42 |
-| 31 | [Cattle Call](https://open.spotify.com/track/6Ha2dwEqdLBrDhImosfrBA) | [Eddy Arnold](https://open.spotify.com/artist/5QsUbpxSE8lCZ5ga5rnD22) | [The Essential Eddy Arnold](https://open.spotify.com/album/2JQPr2Z79G7wkvZ8w5EzVs) | 2:43 |
-| 32 | [My Special Angel](https://open.spotify.com/track/6cen3TFIPFBq2VkUM4Fod8) | [Bobby Helms](https://open.spotify.com/artist/38EmEgXkgK51MT2tPY0EoC) | [Bobby Helms Sings To My Special Angel](https://open.spotify.com/album/4qycsWF8HnXIe1M1XNv3mk) | 2:59 |
+| 31 | [My Special Angel](https://open.spotify.com/track/6cen3TFIPFBq2VkUM4Fod8) | [Bobby Helms](https://open.spotify.com/artist/38EmEgXkgK51MT2tPY0EoC) | [Bobby Helms Sings To My Special Angel](https://open.spotify.com/album/4qycsWF8HnXIe1M1XNv3mk) | 2:59 |
+| 32 | [Cattle Call](https://open.spotify.com/track/6Ha2dwEqdLBrDhImosfrBA) | [Eddy Arnold](https://open.spotify.com/artist/5QsUbpxSE8lCZ5ga5rnD22) | [The Essential Eddy Arnold](https://open.spotify.com/album/2JQPr2Z79G7wkvZ8w5EzVs) | 2:43 |
 | 33 | [The Shot Gun Boogie](https://open.spotify.com/track/66gEeYiMppDZjNEoTsbnL6) | [Tennessee Ernie Ford](https://open.spotify.com/artist/7u6FSuqT3SWE2kO8rNVjfp) | [Sixteen Tons](https://open.spotify.com/album/0X96CJyHwoBEzSj24CISo4) | 2:35 |
 | 34 | [Young Love](https://open.spotify.com/track/7ow0KcdNRitEedvwQNTd6S) | [Sonny James](https://open.spotify.com/artist/0c08N8UlFjDaup9TNDaWxy) | [Capitol Collectors Series](https://open.spotify.com/album/0QSXhF0KcHeDOGY89JTtkr) | 2:32 |
 | 35 | [I Ain't Never \- Single Version](https://open.spotify.com/track/57X5xjtkK1Mo9TYAcxgJlx) | [Webb Pierce](https://open.spotify.com/artist/1ARZrF9nU4zgdDHuBIfqMq) | [20th Century Masters: The Millennium Collection: Best Of Webb Pierce](https://open.spotify.com/album/6LlsOhQeU1WQQbGaaFANSy) | 1:53 |
@@ -56,9 +56,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWnpcjfCqaW0.md) - [plain]
 | 46 | [The Three Bells](https://open.spotify.com/track/24SbmQo3XQkNLpSBYda4DA) | [The Browns](https://open.spotify.com/artist/6GDSMFwAQBfnrrZf981Yji) | [Pure..\. Country](https://open.spotify.com/album/0voKCkfqWEnFaQ1TXsIdfR) | 2:49 |
 | 47 | [Indian Love Call](https://open.spotify.com/track/0WrIaFPKeJtGr1SUeKuYH9) | [Slim Whitman](https://open.spotify.com/artist/5bO7gAKKIwHwhxdsCR1UN0) | [The Very Best Of Slim Whitman](https://open.spotify.com/album/16smaj9yNDCAPVviKp5FFl) | 3:10 |
 | 48 | [I Believe](https://open.spotify.com/track/049uxirFkHOefJ0yqPW8Kk) | [Frankie Laine](https://open.spotify.com/artist/3cgO5CdhEHKMxldjZlP5ix) | [Frankie Laine's Greatest Hits](https://open.spotify.com/album/0Z1J1n3fJPA53HLGtzi8HD) | 2:10 |
-| 49 | [Be\-Bop\-A\-Lula](https://open.spotify.com/track/0HUp7ipIDJvITTqizN6cxJ) | [Gene Vincent & His Blue Caps](https://open.spotify.com/artist/7lKaTIgVek1R2lqpCulQmq), [Gene Vincent](https://open.spotify.com/artist/5VAHm7V5mnsxvQrWw3KHmx) | [Dance To The Bop](https://open.spotify.com/album/3oavZnlCWGZJyXj8fuLVlR) | 2:36 |
+| 49 | [Blue, Blue Day](https://open.spotify.com/track/0lgckCZ94ZjtCBpjfRL5Su) | [Don Gibson](https://open.spotify.com/artist/4xcYVPssil6vbG6tq3W43S) | [The Essential Don Gibson](https://open.spotify.com/album/7qeAtACDVHBuMvxj9e79WH) | 1:53 |
 | 50 | [Money Honey \- Remastered](https://open.spotify.com/track/1RLDhFignuYJaUyREhh1gM) | [Wanda Jackson](https://open.spotify.com/artist/5ZKMPRDHc7qElVJFh3uRqB) | [Wanda Jackson](https://open.spotify.com/album/3i4ROYpkAL4528HDyp8gKw) | 2:14 |
-| 51 | [Blue, Blue Day](https://open.spotify.com/track/0lgckCZ94ZjtCBpjfRL5Su) | [Don Gibson](https://open.spotify.com/artist/4xcYVPssil6vbG6tq3W43S) | [The Essential Don Gibson](https://open.spotify.com/album/7qeAtACDVHBuMvxj9e79WH) | 1:53 |
+| 51 | [Be\-Bop\-A\-Lula](https://open.spotify.com/track/0HUp7ipIDJvITTqizN6cxJ) | [Gene Vincent & His Blue Caps](https://open.spotify.com/artist/7lKaTIgVek1R2lqpCulQmq), [Gene Vincent](https://open.spotify.com/artist/5VAHm7V5mnsxvQrWw3KHmx) | [Dance To The Bop](https://open.spotify.com/album/3oavZnlCWGZJyXj8fuLVlR) | 2:36 |
 | 52 | [Four Walls](https://open.spotify.com/track/3qReTgtrLsZDISxor3lJW0) | [Jim Reeves](https://open.spotify.com/artist/2Ev0e8GUIX4u7d9etNLTXg) | [The Essential Jim Reeves](https://open.spotify.com/album/158F4r9awKr4bs7X5E49JA) | 2:48 |
 | 53 | [I'm Movin' On](https://open.spotify.com/track/446eGf6Afa6PuZYTsF19U1) | [Hank Snow, The Singing Ranger, And His Rainbow Ranch Boys](https://open.spotify.com/artist/4F2Wz6nsyGRJWISzANL6vQ) | [Super Hits](https://open.spotify.com/album/6CzIVuYfqWNYNw46XpITBl) | 2:47 |
 | 54 | [A Dear John Letter](https://open.spotify.com/track/61B3JOqotF5jN104LXJlYI) | [Jean Shepard](https://open.spotify.com/artist/3lQuLlW6tYv1nm3nzyJ6Ty), [Ferlin Husky](https://open.spotify.com/artist/0szj7Sxtyluyjc2Arj0njB) | [Honky Tonk Heroine: Classic Capitol Recordings 1952\-1964](https://open.spotify.com/album/5GeQiPFDO8tJaRrbnHBKoM) | 2:37 |
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWnpcjfCqaW0.md) - [plain]
 | 74 | [I Forgot More Than You'll Ever Know \- Remastered](https://open.spotify.com/track/1hV5guiKDYaQCKnwXXLzyH) | [The Davis Sisters](https://open.spotify.com/artist/2WVoGWk3tcKJd7Lc4QJ7ux) | [Skeeter Davis: RCA Country Legend](https://open.spotify.com/album/2pWSwDwX3lcPSe8vHY3NDy) | 3:01 |
 | 75 | [Wildwood Flower \- Instrumental](https://open.spotify.com/track/6zLHRDxxP2EpTuqlJz6no3) | [Hank Thompson](https://open.spotify.com/artist/42tDjhK9kdS7CCHxs8ysz0), [Hank Thompson And His Brazos Valley Boys](https://open.spotify.com/artist/1Ts6EkqOxOsIzMsxFgCSqk) | [Vintage Collections](https://open.spotify.com/album/7JiYSwAMa7hUHWjiD372m5) | 2:57 |
 
-Snapshot ID: `AAAAAEpGN68l4v3SRKrEQybNHxJojyvi`
+Snapshot ID: `AAAAAJZE5d9WVgBiNbt1cwVRYJwRHRwj`

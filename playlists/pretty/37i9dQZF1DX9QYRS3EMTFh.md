@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9QYRS3EMTFh.md) - [plain]
 
 > Les hits dancehall, shatta, bouyon & dembow du moment\. Photo : Miimii KDS x LeJuh x Pyroman
 
-[Spotify](https://open.spotify.com/user/spotify) - 258,638 likes - 50 songs - 2 hr 8 min
+[Spotify](https://open.spotify.com/user/spotify) - 258,631 likes - 50 songs - 2 hr 8 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9QYRS3EMTFh.md) - [plain]
 | 49 | [Asi cash](https://open.spotify.com/track/0N9XeFuRyRUT6YTiOOkQ6c) | [Pj Man](https://open.spotify.com/artist/37bx3LDHxYirUq9niuHsOb), [Phéno](https://open.spotify.com/artist/3pYEsQmBEFB5729odpEjLS) | [Asi cash](https://open.spotify.com/album/2gpq7RnLa2AgVS71fEGWra) | 2:46 |
 | 50 | [PSY](https://open.spotify.com/track/6zeJ4cgidkzSEieyvm5FSv) | [ZOE LUCY](https://open.spotify.com/artist/0fi0UZMwNy8fGhjvcnnuD2), [Sansand](https://open.spotify.com/artist/0MJlQlTR7mSGW1mmwm94PZ) | [PSY](https://open.spotify.com/album/5tqMm59NxAHrLOZsdzXdGS) | 2:43 |
 
-Snapshot ID: `AAAAAGUj8biwY5JC3j9ncAhd8EMXQrqL`
+Snapshot ID: `AAAAAAyp0EIa3mVD/KcVUAhUYFjPdBp7`

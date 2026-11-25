@@ -1,12 +1,12 @@
 {
   "description": "slap house on repeat. ",
-  "num_followers": 339296,
+  "num_followers": 339282,
   "original_name": "SLAP!",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAABMV3L6un4K1N0yUlj+WdiGu9t+F",
+  "snapshot_id": "AAAAABVqL5YzKzyPtujwKZAqflFevV6d",
   "tracks": [
     {
       "added_at": "2025-02-14 16:04:15",
@@ -411,6 +411,22 @@
     {
       "added_at": "2025-02-14 16:04:15",
       "album": {
+        "name": "Slap House Party",
+        "url": "https://open.spotify.com/album/7risiHnzUvnYXey8cpEdoX"
+      },
+      "artists": [
+        {
+          "name": "LUNAX",
+          "url": "https://open.spotify.com/artist/7CLsFRcEkn0Amc9VlVOFwR"
+        }
+      ],
+      "duration_ms": 165428,
+      "name": "Drunk in Love",
+      "url": "https://open.spotify.com/track/0rG5jvbdBRAg7paORdTWSe"
+    },
+    {
+      "added_at": "2025-02-14 16:04:15",
+      "album": {
         "name": "L'amour Toujours",
         "url": "https://open.spotify.com/album/5XoyPNLakrTcLUclTZdLFk"
       },
@@ -431,22 +447,6 @@
       "duration_ms": 141549,
       "name": "L'amour Toujours",
       "url": "https://open.spotify.com/track/76xsVM3XLEty7aBjEZTjAF"
-    },
-    {
-      "added_at": "2025-02-14 16:04:15",
-      "album": {
-        "name": "Slap House Party",
-        "url": "https://open.spotify.com/album/7risiHnzUvnYXey8cpEdoX"
-      },
-      "artists": [
-        {
-          "name": "LUNAX",
-          "url": "https://open.spotify.com/artist/7CLsFRcEkn0Amc9VlVOFwR"
-        }
-      ],
-      "duration_ms": 165428,
-      "name": "Drunk in Love",
-      "url": "https://open.spotify.com/track/0rG5jvbdBRAg7paORdTWSe"
     },
     {
       "added_at": "2025-02-14 16:04:15",
@@ -591,22 +591,22 @@
     {
       "added_at": "2025-02-14 16:04:15",
       "album": {
-        "name": "Speed of Light",
-        "url": "https://open.spotify.com/album/4caqXkdm8bmOqRbYOS9hZj"
+        "name": "It's A Hard Knock Life (Prezioso Remix)",
+        "url": "https://open.spotify.com/album/6SNomlenerzizegZNU4yoU"
       },
       "artists": [
         {
-          "name": "Drive With Beats",
-          "url": "https://open.spotify.com/artist/7EvWHkvaWF9QIn04zNDJBa"
+          "name": "D.T.E",
+          "url": "https://open.spotify.com/artist/72HNCRVjK93J4ZnCY8rb1q"
         },
         {
-          "name": "Beachbag",
-          "url": "https://open.spotify.com/artist/2dZshj2g0klBLuEML2xkWg"
+          "name": "Prezioso",
+          "url": "https://open.spotify.com/artist/3iMzbvXlgNUpoFccD60bvr"
         }
       ],
-      "duration_ms": 176347,
-      "name": "Speed of Light",
-      "url": "https://open.spotify.com/track/7KWepVXoO7Tbo7zWNtjrvC"
+      "duration_ms": 149788,
+      "name": "It's A Hard Knock Life - Prezioso Remix",
+      "url": "https://open.spotify.com/track/2ibx46fwgGe3u2pirSgjj7"
     },
     {
       "added_at": "2025-02-14 16:04:15",
@@ -631,22 +631,22 @@
     {
       "added_at": "2025-02-14 16:04:15",
       "album": {
-        "name": "It's A Hard Knock Life (Prezioso Remix)",
-        "url": "https://open.spotify.com/album/6SNomlenerzizegZNU4yoU"
+        "name": "Speed of Light",
+        "url": "https://open.spotify.com/album/4caqXkdm8bmOqRbYOS9hZj"
       },
       "artists": [
         {
-          "name": "D.T.E",
-          "url": "https://open.spotify.com/artist/72HNCRVjK93J4ZnCY8rb1q"
+          "name": "Drive With Beats",
+          "url": "https://open.spotify.com/artist/7EvWHkvaWF9QIn04zNDJBa"
         },
         {
-          "name": "Prezioso",
-          "url": "https://open.spotify.com/artist/3iMzbvXlgNUpoFccD60bvr"
+          "name": "Beachbag",
+          "url": "https://open.spotify.com/artist/2dZshj2g0klBLuEML2xkWg"
         }
       ],
-      "duration_ms": 149788,
-      "name": "It's A Hard Knock Life - Prezioso Remix",
-      "url": "https://open.spotify.com/track/2ibx46fwgGe3u2pirSgjj7"
+      "duration_ms": 176347,
+      "name": "Speed of Light",
+      "url": "https://open.spotify.com/track/7KWepVXoO7Tbo7zWNtjrvC"
     },
     {
       "added_at": "2025-02-14 16:04:15",
@@ -671,26 +671,6 @@
     {
       "added_at": "2025-02-14 16:04:15",
       "album": {
-        "name": "Infinite Icon",
-        "url": "https://open.spotify.com/album/1nfalq2GeQblyDqn9wYzWx"
-      },
-      "artists": [
-        {
-          "name": "Paris Hilton",
-          "url": "https://open.spotify.com/artist/1vkJFCwstOoJO7yQ4lTtLK"
-        },
-        {
-          "name": "Megan Thee Stallion",
-          "url": "https://open.spotify.com/artist/181bsRPaVXVlUKXrxwZfHK"
-        }
-      ],
-      "duration_ms": 175666,
-      "name": "BBA (feat. Megan Thee Stallion)",
-      "url": "https://open.spotify.com/track/2is7SQVl0417fY8Cw56Jkf"
-    },
-    {
-      "added_at": "2025-02-14 16:04:15",
-      "album": {
         "name": "I'm Okay",
         "url": "https://open.spotify.com/album/2mLBy9PXobrVjSWHMHk1En"
       },
@@ -707,6 +687,26 @@
       "duration_ms": 151723,
       "name": "I'm Okay",
       "url": "https://open.spotify.com/track/4bt67pD5FiKIV5kn8ej38d"
+    },
+    {
+      "added_at": "2025-02-14 16:04:15",
+      "album": {
+        "name": "Infinite Icon",
+        "url": "https://open.spotify.com/album/1nfalq2GeQblyDqn9wYzWx"
+      },
+      "artists": [
+        {
+          "name": "Paris Hilton",
+          "url": "https://open.spotify.com/artist/1vkJFCwstOoJO7yQ4lTtLK"
+        },
+        {
+          "name": "Megan Thee Stallion",
+          "url": "https://open.spotify.com/artist/181bsRPaVXVlUKXrxwZfHK"
+        }
+      ],
+      "duration_ms": 175666,
+      "name": "BBA (feat. Megan Thee Stallion)",
+      "url": "https://open.spotify.com/track/2is7SQVl0417fY8Cw56Jkf"
     },
     {
       "added_at": "2025-02-14 16:04:15",
@@ -971,26 +971,6 @@
     {
       "added_at": "2025-02-14 16:04:15",
       "album": {
-        "name": "Ride Ride Ride",
-        "url": "https://open.spotify.com/album/6TgRlzezBctLSkimeChvCg"
-      },
-      "artists": [
-        {
-          "name": "Victoria Kern",
-          "url": "https://open.spotify.com/artist/2urS0Cb0MlOXiBod34tyyv"
-        },
-        {
-          "name": "Anna Grey",
-          "url": "https://open.spotify.com/artist/5SFwozJTdBZNUFYYrAqH4q"
-        }
-      ],
-      "duration_ms": 162857,
-      "name": "Ride Ride Ride",
-      "url": "https://open.spotify.com/track/0eJR1Clmkx9HiVy1mSpUWz"
-    },
-    {
-      "added_at": "2025-02-14 16:04:15",
-      "album": {
         "name": "Talk Talk Talk",
         "url": "https://open.spotify.com/album/2P2GJ1cTTO7tWABUUMwrIE"
       },
@@ -1011,6 +991,26 @@
       "duration_ms": 148657,
       "name": "Talk Talk Talk",
       "url": "https://open.spotify.com/track/1ktSui7aiz9XceMdTDeCUF"
+    },
+    {
+      "added_at": "2025-02-14 16:04:15",
+      "album": {
+        "name": "Ride Ride Ride",
+        "url": "https://open.spotify.com/album/6TgRlzezBctLSkimeChvCg"
+      },
+      "artists": [
+        {
+          "name": "Victoria Kern",
+          "url": "https://open.spotify.com/artist/2urS0Cb0MlOXiBod34tyyv"
+        },
+        {
+          "name": "Anna Grey",
+          "url": "https://open.spotify.com/artist/5SFwozJTdBZNUFYYrAqH4q"
+        }
+      ],
+      "duration_ms": 162857,
+      "name": "Ride Ride Ride",
+      "url": "https://open.spotify.com/track/0eJR1Clmkx9HiVy1mSpUWz"
     },
     {
       "added_at": "2025-02-14 16:04:15",

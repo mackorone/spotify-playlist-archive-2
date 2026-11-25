@@ -8925,6 +8925,24 @@
     },
     {
       "album": {
+        "name": "inshallah",
+        "url": "https://open.spotify.com/album/1LY7ps20726mLfxYJV7utA"
+      },
+      "artists": [
+        {
+          "name": "bbno$",
+          "url": "https://open.spotify.com/artist/41X1TR6hrK8Q2ZCpp2EqCz"
+        }
+      ],
+      "date_added": "2026-11-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 149360,
+      "name": "inshallah",
+      "url": "https://open.spotify.com/track/0TunvMyFJM6EzZvUR9Znch"
+    },
+    {
+      "album": {
         "name": "Inside Our Hearts",
         "url": "https://open.spotify.com/album/1pUTJrfFFnXTWsyKe1Ixyh"
       },
@@ -12734,7 +12752,7 @@
       ],
       "date_added": "2025-06-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-25",
       "duration_ms": 189268,
       "name": "On My Mind",
       "url": "https://open.spotify.com/track/54hA0ldJYyT1huGfSeOjdQ"

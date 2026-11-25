@@ -1,12 +1,12 @@
 {
   "description": "This is Machine Head. The essential tracks, all in one playlist.",
-  "num_followers": 64639,
+  "num_followers": 64647,
   "original_name": "This Is Machine Head",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "awIwgAAAAACcXEHqq0UNOZASAi6+Ig/7",
+  "snapshot_id": "awOCAAAAAAA5clCpNM4lfI7EKgpb0Z17",
   "tracks": [
     {
       "added_at": null,
@@ -139,6 +139,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "UNAT\u00d8NED",
+        "url": "https://open.spotify.com/album/197VDX6RBWHRl7w89XcJWE"
+      },
+      "artists": [
+        {
+          "name": "Machine Head",
+          "url": "https://open.spotify.com/artist/0lVlNsuGaOr9vMHCZIAKMt"
+        }
+      ],
+      "duration_ms": 213238,
+      "name": "B\u00d8NESCRAPER",
+      "url": "https://open.spotify.com/track/6j5asGEn2t6NwwEefx1vvi"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "The Burning Red",
         "url": "https://open.spotify.com/album/3hOfgUH1xNzCeJgANjO5dA"
       },
@@ -171,22 +187,6 @@
       "duration_ms": 220227,
       "name": "Revenger",
       "url": "https://open.spotify.com/track/6wCwqhgCQjWUDlrQgD5bl1"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "UNAT\u00d8NED",
-        "url": "https://open.spotify.com/album/197VDX6RBWHRl7w89XcJWE"
-      },
-      "artists": [
-        {
-          "name": "Machine Head",
-          "url": "https://open.spotify.com/artist/0lVlNsuGaOr9vMHCZIAKMt"
-        }
-      ],
-      "duration_ms": 213238,
-      "name": "B\u00d8NESCRAPER",
-      "url": "https://open.spotify.com/track/6j5asGEn2t6NwwEefx1vvi"
     },
     {
       "added_at": null,
@@ -387,22 +387,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Catharsis",
-        "url": "https://open.spotify.com/album/5OhAVXSslPqvWkh7XEj4Wq"
-      },
-      "artists": [
-        {
-          "name": "Machine Head",
-          "url": "https://open.spotify.com/artist/0lVlNsuGaOr9vMHCZIAKMt"
-        }
-      ],
-      "duration_ms": 271149,
-      "name": "Beyond The Pale",
-      "url": "https://open.spotify.com/track/2kHl3Ngt6kJsCuwq23KMIE"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Unto the Locust (Special Edition)",
         "url": "https://open.spotify.com/album/79EwDnZoH0n7vIAXmYP1cz"
       },
@@ -415,6 +399,22 @@
       "duration_ms": 343786,
       "name": "Be Still and Know",
       "url": "https://open.spotify.com/track/3cVniBBRC955LHAXiXGER0"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Catharsis",
+        "url": "https://open.spotify.com/album/5OhAVXSslPqvWkh7XEj4Wq"
+      },
+      "artists": [
+        {
+          "name": "Machine Head",
+          "url": "https://open.spotify.com/artist/0lVlNsuGaOr9vMHCZIAKMt"
+        }
+      ],
+      "duration_ms": 271149,
+      "name": "Beyond The Pale",
+      "url": "https://open.spotify.com/track/2kHl3Ngt6kJsCuwq23KMIE"
     },
     {
       "added_at": null,
@@ -515,22 +515,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "The Burning Red",
-        "url": "https://open.spotify.com/album/3hOfgUH1xNzCeJgANjO5dA"
-      },
-      "artists": [
-        {
-          "name": "Machine Head",
-          "url": "https://open.spotify.com/artist/0lVlNsuGaOr9vMHCZIAKMt"
-        }
-      ],
-      "duration_ms": 288600,
-      "name": "Desire to Fire",
-      "url": "https://open.spotify.com/track/4HVymfRIpYsw37K0at1FbK"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "\u00d8F KINGD\u00d8M AND CR\u00d8WN",
         "url": "https://open.spotify.com/album/6duwuU8xgK7ShKMCrUxfBi"
       },
@@ -543,6 +527,22 @@
       "duration_ms": 389947,
       "name": "UNHALL\u00d8WED",
       "url": "https://open.spotify.com/track/1vCZDcHV3VaL14O01iUQVQ"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "The Burning Red",
+        "url": "https://open.spotify.com/album/3hOfgUH1xNzCeJgANjO5dA"
+      },
+      "artists": [
+        {
+          "name": "Machine Head",
+          "url": "https://open.spotify.com/artist/0lVlNsuGaOr9vMHCZIAKMt"
+        }
+      ],
+      "duration_ms": 288600,
+      "name": "Desire to Fire",
+      "url": "https://open.spotify.com/track/4HVymfRIpYsw37K0at1FbK"
     },
     {
       "added_at": null,
@@ -579,22 +579,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "The Blackening",
-        "url": "https://open.spotify.com/album/5sZi94xs9Q1aUpFVLx9RLI"
-      },
-      "artists": [
-        {
-          "name": "Machine Head",
-          "url": "https://open.spotify.com/artist/0lVlNsuGaOr9vMHCZIAKMt"
-        }
-      ],
-      "duration_ms": 390293,
-      "name": "Aesthetics of Hate",
-      "url": "https://open.spotify.com/track/2dy8eXtNCrLcpT006adx5g"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "\u00d8F KINGD\u00d8M AND CR\u00d8WN",
         "url": "https://open.spotify.com/album/6duwuU8xgK7ShKMCrUxfBi"
       },
@@ -607,22 +591,6 @@
       "duration_ms": 246405,
       "name": "CH\u00d8KE \u00d8N THE ASHES \u00d8F Y\u00d8UR HATE",
       "url": "https://open.spotify.com/track/5sykvfEJHupA8mjhhgylVk"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "UNAT\u00d8NED",
-        "url": "https://open.spotify.com/album/197VDX6RBWHRl7w89XcJWE"
-      },
-      "artists": [
-        {
-          "name": "Machine Head",
-          "url": "https://open.spotify.com/artist/0lVlNsuGaOr9vMHCZIAKMt"
-        }
-      ],
-      "duration_ms": 236531,
-      "name": "UNB\u00d8UND",
-      "url": "https://open.spotify.com/track/1rf6gK95isZRyopJ5RWs2z"
     },
     {
       "added_at": null,
@@ -643,6 +611,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "UNAT\u00d8NED",
+        "url": "https://open.spotify.com/album/197VDX6RBWHRl7w89XcJWE"
+      },
+      "artists": [
+        {
+          "name": "Machine Head",
+          "url": "https://open.spotify.com/artist/0lVlNsuGaOr9vMHCZIAKMt"
+        }
+      ],
+      "duration_ms": 236531,
+      "name": "UNB\u00d8UND",
+      "url": "https://open.spotify.com/track/1rf6gK95isZRyopJ5RWs2z"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "The Blackening",
         "url": "https://open.spotify.com/album/5sZi94xs9Q1aUpFVLx9RLI"
       },
@@ -652,25 +636,9 @@
           "url": "https://open.spotify.com/artist/0lVlNsuGaOr9vMHCZIAKMt"
         }
       ],
-      "duration_ms": 334640,
-      "name": "Now I Lay Thee Down",
-      "url": "https://open.spotify.com/track/65GqoNsz3q6GMW9AXjv8mz"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "\u00d8F KINGD\u00d8M AND CR\u00d8WN",
-        "url": "https://open.spotify.com/album/6duwuU8xgK7ShKMCrUxfBi"
-      },
-      "artists": [
-        {
-          "name": "Machine Head",
-          "url": "https://open.spotify.com/artist/0lVlNsuGaOr9vMHCZIAKMt"
-        }
-      ],
-      "duration_ms": 355272,
-      "name": "ARR\u00d8WS IN W\u00d8RDS FR\u00d8M THE SKY",
-      "url": "https://open.spotify.com/track/3G0A7kcQeYbyPH8euw6M5a"
+      "duration_ms": 390293,
+      "name": "Aesthetics of Hate",
+      "url": "https://open.spotify.com/track/2dy8eXtNCrLcpT006adx5g"
     },
     {
       "added_at": null,
@@ -691,6 +659,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "\u00d8F KINGD\u00d8M AND CR\u00d8WN",
+        "url": "https://open.spotify.com/album/6duwuU8xgK7ShKMCrUxfBi"
+      },
+      "artists": [
+        {
+          "name": "Machine Head",
+          "url": "https://open.spotify.com/artist/0lVlNsuGaOr9vMHCZIAKMt"
+        }
+      ],
+      "duration_ms": 355272,
+      "name": "ARR\u00d8WS IN W\u00d8RDS FR\u00d8M THE SKY",
+      "url": "https://open.spotify.com/track/3G0A7kcQeYbyPH8euw6M5a"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "UNAT\u00d8NED",
         "url": "https://open.spotify.com/album/197VDX6RBWHRl7w89XcJWE"
       },
@@ -703,6 +687,22 @@
       "duration_ms": 221918,
       "name": "AT\u00d8MIC REVELATI\u00d8NS",
       "url": "https://open.spotify.com/track/0gGpw7LAY3cXiUfvppLkPg"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "The Blackening",
+        "url": "https://open.spotify.com/album/5sZi94xs9Q1aUpFVLx9RLI"
+      },
+      "artists": [
+        {
+          "name": "Machine Head",
+          "url": "https://open.spotify.com/artist/0lVlNsuGaOr9vMHCZIAKMt"
+        }
+      ],
+      "duration_ms": 334640,
+      "name": "Now I Lay Thee Down",
+      "url": "https://open.spotify.com/track/65GqoNsz3q6GMW9AXjv8mz"
     },
     {
       "added_at": null,
@@ -739,22 +739,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Through the Ashes of Empires",
-        "url": "https://open.spotify.com/album/6LTkG6sc02q4L1zCm3jD6d"
-      },
-      "artists": [
-        {
-          "name": "Machine Head",
-          "url": "https://open.spotify.com/artist/0lVlNsuGaOr9vMHCZIAKMt"
-        }
-      ],
-      "duration_ms": 201506,
-      "name": "Bite the Bullet",
-      "url": "https://open.spotify.com/track/1SjAaMbFyJnAxLUZwlrhHi"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "UNAT\u00d8NED",
         "url": "https://open.spotify.com/album/197VDX6RBWHRl7w89XcJWE"
       },
@@ -767,6 +751,22 @@
       "duration_ms": 212323,
       "name": "THESE SCARS W\u00d8N'T DEFINE US",
       "url": "https://open.spotify.com/track/1MEdnIjAeurY3p4qAbFIrT"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Through the Ashes of Empires",
+        "url": "https://open.spotify.com/album/6LTkG6sc02q4L1zCm3jD6d"
+      },
+      "artists": [
+        {
+          "name": "Machine Head",
+          "url": "https://open.spotify.com/artist/0lVlNsuGaOr9vMHCZIAKMt"
+        }
+      ],
+      "duration_ms": 201506,
+      "name": "Bite the Bullet",
+      "url": "https://open.spotify.com/track/1SjAaMbFyJnAxLUZwlrhHi"
     },
     {
       "added_at": null,
@@ -803,22 +803,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "The Blackening",
-        "url": "https://open.spotify.com/album/5sZi94xs9Q1aUpFVLx9RLI"
-      },
-      "artists": [
-        {
-          "name": "Machine Head",
-          "url": "https://open.spotify.com/artist/0lVlNsuGaOr9vMHCZIAKMt"
-        }
-      ],
-      "duration_ms": 636800,
-      "name": "Clenching the Fists of Dissent",
-      "url": "https://open.spotify.com/track/7ao9MKmhkjeFxw0alndkdM"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Catharsis",
         "url": "https://open.spotify.com/album/5OhAVXSslPqvWkh7XEj4Wq"
       },
@@ -831,6 +815,22 @@
       "duration_ms": 370746,
       "name": "Catharsis",
       "url": "https://open.spotify.com/track/5D0xWyog9zSgg94wuEG3Jq"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "The Blackening",
+        "url": "https://open.spotify.com/album/5sZi94xs9Q1aUpFVLx9RLI"
+      },
+      "artists": [
+        {
+          "name": "Machine Head",
+          "url": "https://open.spotify.com/artist/0lVlNsuGaOr9vMHCZIAKMt"
+        }
+      ],
+      "duration_ms": 636800,
+      "name": "Clenching the Fists of Dissent",
+      "url": "https://open.spotify.com/track/7ao9MKmhkjeFxw0alndkdM"
     }
   ],
   "unique_name": "This Is Machine Head",

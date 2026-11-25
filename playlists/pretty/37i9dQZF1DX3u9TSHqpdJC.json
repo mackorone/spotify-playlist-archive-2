@@ -1,13 +1,93 @@
 {
-  "description": "The best pop songs from new, independent artists as chosen by our editors.  Cover: Magdalene. Artwork by Paola Saliby",
-  "num_followers": 246052,
+  "description": "The best pop songs from new, independent artists as chosen by our editors.  Cover: Syd Hudson. Artwork by Paola Saliby",
+  "num_followers": 246078,
   "original_name": "Fresh Finds Pop",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAEmmeYE0Ee6Luf/Dq4uOQBtsAwfc",
+  "snapshot_id": "AAAAADUHrgArpU6fqfYDWt0R8NltHfuh",
   "tracks": [
+    {
+      "added_at": "2026-11-21 03:14:10",
+      "album": {
+        "name": "Slip Knot",
+        "url": "https://open.spotify.com/album/0BwFjrDaxQGwfF1XAT9nAt"
+      },
+      "artists": [
+        {
+          "name": "Syd Hudson",
+          "url": "https://open.spotify.com/artist/0RQfr3D9JzuXGAak4PLYUR"
+        }
+      ],
+      "duration_ms": 178431,
+      "name": "Slip Knot",
+      "url": "https://open.spotify.com/track/2hmobee62KB9XJUH6rtE2f"
+    },
+    {
+      "added_at": "2026-11-25 05:00:16",
+      "album": {
+        "name": "Do I",
+        "url": "https://open.spotify.com/album/4c1GDzi618lgDswJB2rtFJ"
+      },
+      "artists": [
+        {
+          "name": "Reece Bibby",
+          "url": "https://open.spotify.com/artist/5LdxRTzovijIc5SgH50JvG"
+        }
+      ],
+      "duration_ms": 213793,
+      "name": "Do I",
+      "url": "https://open.spotify.com/track/3hry6sQTONBeRFnc6dPjYp"
+    },
+    {
+      "added_at": "2026-11-21 03:39:37",
+      "album": {
+        "name": "grace",
+        "url": "https://open.spotify.com/album/2MMJitJVQSZVfE9t9cccgO"
+      },
+      "artists": [
+        {
+          "name": "Marin Clarisse",
+          "url": "https://open.spotify.com/artist/7BpygnojyZfXJ32QiEGK6A"
+        }
+      ],
+      "duration_ms": 180752,
+      "name": "grace",
+      "url": "https://open.spotify.com/track/2QHRLBV4pSoaCNeZrUxpi3"
+    },
+    {
+      "added_at": "2026-11-25 05:00:16",
+      "album": {
+        "name": "Dreaming Alone",
+        "url": "https://open.spotify.com/album/5FG03fYagxoMeS2vMZ8U4W"
+      },
+      "artists": [
+        {
+          "name": "Dreamhouse",
+          "url": "https://open.spotify.com/artist/6ED5ZJe6kFfK2Q1vMkDkg2"
+        }
+      ],
+      "duration_ms": 215040,
+      "name": "Dreaming Alone",
+      "url": "https://open.spotify.com/track/5treW7XuiAbiHfNwNpnYHP"
+    },
+    {
+      "added_at": "2026-11-25 05:00:16",
+      "album": {
+        "name": "BAD SIDE (THE WHOLE STORY)",
+        "url": "https://open.spotify.com/album/5zLEqKj4oZ8sHoyp7bX7qT"
+      },
+      "artists": [
+        {
+          "name": "Jolene Lozano",
+          "url": "https://open.spotify.com/artist/4ZAwnJGuqLChoBQZe8MUe1"
+        }
+      ],
+      "duration_ms": 167870,
+      "name": "BAD SIDE",
+      "url": "https://open.spotify.com/track/44dTQkLBtyDIS2UQ0C7Lh1"
+    },
     {
       "added_at": "2026-11-11 05:00:20",
       "album": {
@@ -25,36 +105,68 @@
       "url": "https://open.spotify.com/track/6a15Ks2J4xCqtyhSJ2gIxK"
     },
     {
-      "added_at": "2026-11-13 05:02:22",
+      "added_at": "2026-11-18 05:00:35",
       "album": {
-        "name": "POS",
-        "url": "https://open.spotify.com/album/3pkwztTPNbNzsjtyMGRHWk"
+        "name": "New to the City",
+        "url": "https://open.spotify.com/album/4CzT8kDhShsf7cJuC3QwXV"
       },
       "artists": [
         {
-          "name": "Max Rickun",
-          "url": "https://open.spotify.com/artist/5vYA9ABGrLzyBA0bk55VLl"
+          "name": "Benjamin Hightower",
+          "url": "https://open.spotify.com/artist/70A1X73rk0NI2d6A8pENYN"
         }
       ],
-      "duration_ms": 203243,
-      "name": "POS",
-      "url": "https://open.spotify.com/track/4JZN0ox5209m96xs5Awbet"
+      "duration_ms": 212501,
+      "name": "I Want to Push You in Front of the Subway",
+      "url": "https://open.spotify.com/track/0dl7gKsFn8eb78zJ0Pghi9"
     },
     {
-      "added_at": "2026-11-21 03:14:10",
+      "added_at": "2026-11-25 05:00:16",
       "album": {
-        "name": "Slip Knot",
-        "url": "https://open.spotify.com/album/0BwFjrDaxQGwfF1XAT9nAt"
+        "name": "BLUE",
+        "url": "https://open.spotify.com/album/6zOUBp6Te9xGiLFz5Ivsw3"
       },
       "artists": [
         {
-          "name": "Syd Hudson",
-          "url": "https://open.spotify.com/artist/0RQfr3D9JzuXGAak4PLYUR"
+          "name": "love, brandon",
+          "url": "https://open.spotify.com/artist/6waghryvFV0joFY6o70fYC"
         }
       ],
-      "duration_ms": 178431,
-      "name": "Slip Knot",
-      "url": "https://open.spotify.com/track/2hmobee62KB9XJUH6rtE2f"
+      "duration_ms": 228923,
+      "name": "i thought we were friends",
+      "url": "https://open.spotify.com/track/2dEKPRH0iRLXgNpDnZhYWM"
+    },
+    {
+      "added_at": "2026-11-25 05:00:16",
+      "album": {
+        "name": "Black Eyes",
+        "url": "https://open.spotify.com/album/7Caym7jLpbZOwK2cBXPBCt"
+      },
+      "artists": [
+        {
+          "name": "Stella Ferguson",
+          "url": "https://open.spotify.com/artist/2cSs6BCbPlU4Pc0vxZtQln"
+        }
+      ],
+      "duration_ms": 284414,
+      "name": "Black Eyes",
+      "url": "https://open.spotify.com/track/1OOltFbPiSnnBI58jiD1MK"
+    },
+    {
+      "added_at": "2026-11-25 05:00:16",
+      "album": {
+        "name": "Someday",
+        "url": "https://open.spotify.com/album/5WjOvtTXuXA8UoDwT4D64x"
+      },
+      "artists": [
+        {
+          "name": "Aiden Kroll",
+          "url": "https://open.spotify.com/artist/4AH4IR4NtlSI9JN1y7Qz96"
+        }
+      ],
+      "duration_ms": 301386,
+      "name": "Someday",
+      "url": "https://open.spotify.com/track/7bxHmDC0BiZXGPRSAhSWkO"
     },
     {
       "added_at": "2026-11-11 05:00:20",
@@ -73,20 +185,40 @@
       "url": "https://open.spotify.com/track/3aLDkLDk8ef2va9Lpg23hD"
     },
     {
-      "added_at": "2026-11-11 05:00:20",
+      "added_at": "2026-11-25 05:00:16",
       "album": {
-        "name": "Ragdoll",
-        "url": "https://open.spotify.com/album/5dL1z6edU8h5Rvz4U3wxkS"
+        "name": "FRIENDZONE",
+        "url": "https://open.spotify.com/album/6RGN3H0UlRsQYPPPaQZy56"
       },
       "artists": [
         {
-          "name": "West Gura",
-          "url": "https://open.spotify.com/artist/2TOCJEnGdD4AkavOoxmZ2W"
+          "name": "TFE",
+          "url": "https://open.spotify.com/artist/62NuiEDT0W67E635Qke1pk"
+        },
+        {
+          "name": "JAKE JUNE",
+          "url": "https://open.spotify.com/artist/589dT1D6xQSTopdNtICAiv"
         }
       ],
-      "duration_ms": 185205,
-      "name": "Ragdoll",
-      "url": "https://open.spotify.com/track/0iD0OGxoAOacG1Qb8YTOAT"
+      "duration_ms": 172641,
+      "name": "FRIENDZONE",
+      "url": "https://open.spotify.com/track/23R34L7wtg6Jkwl0hWqPeH"
+    },
+    {
+      "added_at": "2026-11-21 03:14:10",
+      "album": {
+        "name": "bitter",
+        "url": "https://open.spotify.com/album/1lCOpKtP8HWhlFwtkIdVzn"
+      },
+      "artists": [
+        {
+          "name": "Anya Gupta",
+          "url": "https://open.spotify.com/artist/6SHpQ6QnVZdoPVhQa3A2sL"
+        }
+      ],
+      "duration_ms": 186500,
+      "name": "bitter",
+      "url": "https://open.spotify.com/track/2pMVvDSV8awJvWDyvikDzP"
     },
     {
       "added_at": "2026-11-13 05:02:22",
@@ -105,20 +237,36 @@
       "url": "https://open.spotify.com/track/0BxQnrSYH2kqwkyjfPmRo0"
     },
     {
-      "added_at": "2026-11-18 05:00:35",
+      "added_at": "2026-11-13 05:02:22",
       "album": {
-        "name": "New to the City",
-        "url": "https://open.spotify.com/album/4CzT8kDhShsf7cJuC3QwXV"
+        "name": "POS",
+        "url": "https://open.spotify.com/album/3pkwztTPNbNzsjtyMGRHWk"
       },
       "artists": [
         {
-          "name": "Benjamin Hightower",
-          "url": "https://open.spotify.com/artist/70A1X73rk0NI2d6A8pENYN"
+          "name": "Max Rickun",
+          "url": "https://open.spotify.com/artist/5vYA9ABGrLzyBA0bk55VLl"
         }
       ],
-      "duration_ms": 212501,
-      "name": "I Want to Push You in Front of the Subway",
-      "url": "https://open.spotify.com/track/0dl7gKsFn8eb78zJ0Pghi9"
+      "duration_ms": 203243,
+      "name": "POS",
+      "url": "https://open.spotify.com/track/4JZN0ox5209m96xs5Awbet"
+    },
+    {
+      "added_at": "2026-11-11 05:00:20",
+      "album": {
+        "name": "Ragdoll",
+        "url": "https://open.spotify.com/album/5dL1z6edU8h5Rvz4U3wxkS"
+      },
+      "artists": [
+        {
+          "name": "West Gura",
+          "url": "https://open.spotify.com/artist/2TOCJEnGdD4AkavOoxmZ2W"
+        }
+      ],
+      "duration_ms": 185205,
+      "name": "Ragdoll",
+      "url": "https://open.spotify.com/track/0iD0OGxoAOacG1Qb8YTOAT"
     },
     {
       "added_at": "2026-11-21 03:14:10",
@@ -169,22 +317,6 @@
       "url": "https://open.spotify.com/track/5lhTKOq2xE39xHL2YSUCnG"
     },
     {
-      "added_at": "2026-11-21 03:39:37",
-      "album": {
-        "name": "grace",
-        "url": "https://open.spotify.com/album/2MMJitJVQSZVfE9t9cccgO"
-      },
-      "artists": [
-        {
-          "name": "Marin Clarisse",
-          "url": "https://open.spotify.com/artist/7BpygnojyZfXJ32QiEGK6A"
-        }
-      ],
-      "duration_ms": 180752,
-      "name": "grace",
-      "url": "https://open.spotify.com/track/2QHRLBV4pSoaCNeZrUxpi3"
-    },
-    {
       "added_at": "2026-11-18 05:00:35",
       "album": {
         "name": "Deep Diving",
@@ -215,22 +347,6 @@
       "duration_ms": 166542,
       "name": "I Thought About You",
       "url": "https://open.spotify.com/track/76Q5RyaQzwkLoMyU4FenWl"
-    },
-    {
-      "added_at": "2026-11-21 03:14:10",
-      "album": {
-        "name": "bitter",
-        "url": "https://open.spotify.com/album/1lCOpKtP8HWhlFwtkIdVzn"
-      },
-      "artists": [
-        {
-          "name": "Anya Gupta",
-          "url": "https://open.spotify.com/artist/6SHpQ6QnVZdoPVhQa3A2sL"
-        }
-      ],
-      "duration_ms": 186500,
-      "name": "bitter",
-      "url": "https://open.spotify.com/track/2pMVvDSV8awJvWDyvikDzP"
     },
     {
       "added_at": "2026-11-21 03:14:10",
@@ -617,22 +733,6 @@
       "url": "https://open.spotify.com/track/7Bc1B6UheBQpCaO5HfIdfe"
     },
     {
-      "added_at": "2026-10-28 04:00:07",
-      "album": {
-        "name": "Make It Stop",
-        "url": "https://open.spotify.com/album/4gMTqvBjxgv2TTuaT6L6vY"
-      },
-      "artists": [
-        {
-          "name": "Ariana Menassa",
-          "url": "https://open.spotify.com/artist/6zlie8T6lzmwqfpyccpfeN"
-        }
-      ],
-      "duration_ms": 171811,
-      "name": "Make It Stop",
-      "url": "https://open.spotify.com/track/0KTsFUssEgghi94WOKC0Vq"
-    },
-    {
       "added_at": "2026-10-21 04:00:15",
       "album": {
         "name": "I'm a girl with feelings, baby!",
@@ -695,22 +795,6 @@
       "duration_ms": 267324,
       "name": "Anatomy",
       "url": "https://open.spotify.com/track/59i1EGfHrvF4ZxpBoXnrfF"
-    },
-    {
-      "added_at": "2026-10-21 04:00:15",
-      "album": {
-        "name": "Got U On My Mind",
-        "url": "https://open.spotify.com/album/5SKdL6ISlTlBvhVYDWBdu0"
-      },
-      "artists": [
-        {
-          "name": "Melicious",
-          "url": "https://open.spotify.com/artist/62uR1xRDa5dv0KmWMgEQvH"
-        }
-      ],
-      "duration_ms": 133953,
-      "name": "Got U On My Mind",
-      "url": "https://open.spotify.com/track/42FQRd6n42Z5MO7HUIrYLn"
     },
     {
       "added_at": "2026-10-14 13:27:59",
@@ -779,22 +863,6 @@
     {
       "added_at": "2026-10-14 13:27:59",
       "album": {
-        "name": "Dirty Nails",
-        "url": "https://open.spotify.com/album/5a3M3Tk3PWlwu5Ucz5n4uU"
-      },
-      "artists": [
-        {
-          "name": "Stella",
-          "url": "https://open.spotify.com/artist/2Ic6MYMc3DrPW8z8DHFoWS"
-        }
-      ],
-      "duration_ms": 145676,
-      "name": "Dirty Nails",
-      "url": "https://open.spotify.com/track/5L0PFLeyhjDAvLmDK7KYmX"
-    },
-    {
-      "added_at": "2026-10-14 13:27:59",
-      "album": {
         "name": "True Colours",
         "url": "https://open.spotify.com/album/3o0XIkLo0iOS7w553EQXw3"
       },
@@ -807,38 +875,6 @@
       "duration_ms": 182926,
       "name": "I Don't Care",
       "url": "https://open.spotify.com/track/4cEMIWtk1TCg5UEQaSqYsk"
-    },
-    {
-      "added_at": "2026-10-14 13:27:59",
-      "album": {
-        "name": "Petty",
-        "url": "https://open.spotify.com/album/69fVNGit1MI6JUnwh6KTLE"
-      },
-      "artists": [
-        {
-          "name": "Reece Bibby",
-          "url": "https://open.spotify.com/artist/5LdxRTzovijIc5SgH50JvG"
-        }
-      ],
-      "duration_ms": 170368,
-      "name": "Petty",
-      "url": "https://open.spotify.com/track/2DHcWiCe8yTpmTXiDY44n6"
-    },
-    {
-      "added_at": "2026-10-14 13:27:59",
-      "album": {
-        "name": "Sweat",
-        "url": "https://open.spotify.com/album/4D8K3auIXNdxTvDBLgsgL8"
-      },
-      "artists": [
-        {
-          "name": "Jasmine Yen",
-          "url": "https://open.spotify.com/artist/4PQ0uJWdQam5rtXciDKVnS"
-        }
-      ],
-      "duration_ms": 130894,
-      "name": "Sweat",
-      "url": "https://open.spotify.com/track/4a1ZYe8ed9cL1NHl7er6Bw"
     },
     {
       "added_at": "2026-10-08 00:21:45",
@@ -967,38 +1003,6 @@
       "duration_ms": 176165,
       "name": "Ireland",
       "url": "https://open.spotify.com/track/5iXvUuow4NySBMCtWiGz9m"
-    },
-    {
-      "added_at": "2026-09-30 04:00:27",
-      "album": {
-        "name": "hit record",
-        "url": "https://open.spotify.com/album/1sYchovLfQEN8BEgsxEMlf"
-      },
-      "artists": [
-        {
-          "name": "Naya Yeira",
-          "url": "https://open.spotify.com/artist/2hsxVNlv84j20rvHUxOvfF"
-        }
-      ],
-      "duration_ms": 139306,
-      "name": "hit record",
-      "url": "https://open.spotify.com/track/6a2ohnqXabnrXLNrAQQkZR"
-    },
-    {
-      "added_at": "2026-09-30 04:00:27",
-      "album": {
-        "name": "misses independent",
-        "url": "https://open.spotify.com/album/6L2JFEfsVnzPyPcMahSJ5O"
-      },
-      "artists": [
-        {
-          "name": "Harris Hills",
-          "url": "https://open.spotify.com/artist/1dSuARb1qCtlxBWAObmCCW"
-        }
-      ],
-      "duration_ms": 172428,
-      "name": "misses independent",
-      "url": "https://open.spotify.com/track/5SrEfnGeY0Ip8m8WUG5OQd"
     },
     {
       "added_at": "2026-09-23 04:00:18",

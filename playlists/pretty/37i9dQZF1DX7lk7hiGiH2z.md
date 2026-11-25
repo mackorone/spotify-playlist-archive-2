@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7lk7hiGiH2z.md) - [plain]
 
 > Die schönsten Lieder für den Laternenumzug ✨
 
-[Spotify](https://open.spotify.com/user/spotify) - 64,027 likes - 45 songs - 2 hr 1 min
+[Spotify](https://open.spotify.com/user/spotify) - 64,025 likes - 45 songs - 2 hr 1 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -35,10 +35,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7lk7hiGiH2z.md) - [plain]
 | 25 | [Die Laterne hat heut ihren großen Tag](https://open.spotify.com/track/7BC42JI3FLtA8hhuTl7TyY) | [Jürgen Fastje](https://open.spotify.com/artist/1fBCzTI3C3lLiBqyJU81PB) | [Kinderlieder, Teil 3](https://open.spotify.com/album/7oxfGQyy1dp8LAieSPZRP6) | 3:33 |
 | 26 | [Laterne laufen](https://open.spotify.com/track/4rgP4H4yJLXLK1wdAfJbBc) | [Lichterkinder](https://open.spotify.com/artist/5poyNTy0YyDwAMSYBJ7zgv) | [Laternen\- und Herbstlieder 2](https://open.spotify.com/album/68HlRUNLMY75Oe7xh6laOZ) | 2:41 |
 | 27 | [Ich hab eine feine Laterne](https://open.spotify.com/track/5D6VL3ggSYvdj4zauqWw9Q) | [Kati Breuer](https://open.spotify.com/artist/3vgsqpOJq62z2UjnRO2liy) | [Sankt Martin ritt durch Schnee und Wind \- Die 25 schönsten Laternenlieder](https://open.spotify.com/album/1WqaJkBlsb8fEz7xAI2P5Y) | 1:49 |
-| 28 | [Sankt Martin](https://open.spotify.com/track/6YEsxLIExeOZICC4xWDcLJ) | [LiederTiger](https://open.spotify.com/artist/0IONm6X452z32t8YECr2Zt) | [Sankt Martin](https://open.spotify.com/album/5wfhzShvdS5LPlyrmdmdkG) | 2:33 |
-| 29 | [Ach, Martin, gib halt mal was her \(Kinderlied für Sankt Martin\)](https://open.spotify.com/track/77Np5dJUNWI97A7BSCeaOy) | [Sternschnuppe](https://open.spotify.com/artist/08M6tIv9n50XyVLtABiZG5) | [Herbstlieder: Lustige Kinderlieder zu Herbst und Halloween](https://open.spotify.com/album/7HGhIQ2dd5w5CtkIrEn7XC) | 4:12 |
-| 30 | [La\-Li\-La\-Lu\-Laterne](https://open.spotify.com/track/4IGeKVHyQEfkdIZDNV8nyf) | [Ingrid Hofer](https://open.spotify.com/artist/1RFd5CgPNp9BKQO40jbitO) | [Teddy Eddy \- Superheld! \(Kinderlieder\)](https://open.spotify.com/album/6l110uQ4RsZjTbCs7gNnUu) | 3:28 |
-| 31 | [Sonne, Mond und Sterne](https://open.spotify.com/track/4rsdmYSwg7nxCSkb4GEn5J) | [Lauras Stern](https://open.spotify.com/artist/0xY8w0o3cSH3gzx4G4h8qD), [3Berlin](https://open.spotify.com/artist/7eUEQQxUaukrKyzVjeWk1V) | [Lauras Stern \- Das Liederalbum zum Kinofilm](https://open.spotify.com/album/7r855N0wTZTFxyiFntXUsz) | 3:02 |
+| 28 | [Ach, Martin, gib halt mal was her \(Kinderlied für Sankt Martin\)](https://open.spotify.com/track/77Np5dJUNWI97A7BSCeaOy) | [Sternschnuppe](https://open.spotify.com/artist/08M6tIv9n50XyVLtABiZG5) | [Herbstlieder: Lustige Kinderlieder zu Herbst und Halloween](https://open.spotify.com/album/7HGhIQ2dd5w5CtkIrEn7XC) | 4:12 |
+| 29 | [Sankt Martin](https://open.spotify.com/track/6YEsxLIExeOZICC4xWDcLJ) | [LiederTiger](https://open.spotify.com/artist/0IONm6X452z32t8YECr2Zt) | [Sankt Martin](https://open.spotify.com/album/5wfhzShvdS5LPlyrmdmdkG) | 2:33 |
+| 30 | [Sonne, Mond und Sterne](https://open.spotify.com/track/4rsdmYSwg7nxCSkb4GEn5J) | [Lauras Stern](https://open.spotify.com/artist/0xY8w0o3cSH3gzx4G4h8qD), [3Berlin](https://open.spotify.com/artist/7eUEQQxUaukrKyzVjeWk1V) | [Lauras Stern \- Das Liederalbum zum Kinofilm](https://open.spotify.com/album/7r855N0wTZTFxyiFntXUsz) | 3:02 |
+| 31 | [La\-Li\-La\-Lu\-Laterne](https://open.spotify.com/track/4IGeKVHyQEfkdIZDNV8nyf) | [Ingrid Hofer](https://open.spotify.com/artist/1RFd5CgPNp9BKQO40jbitO) | [Teddy Eddy \- Superheld! \(Kinderlieder\)](https://open.spotify.com/album/6l110uQ4RsZjTbCs7gNnUu) | 3:28 |
 | 32 | [Ich liebe alle Sterne \(Laternenlied\)](https://open.spotify.com/track/7Mwi1YiX4xp2Bo6654p2Sf) | [Kati Breuer](https://open.spotify.com/artist/3vgsqpOJq62z2UjnRO2liy), [Stephen Janetzko](https://open.spotify.com/artist/0HC9OQdqPCCE1WNMetTTmG) | [Ich liebe alle Sterne \(Laternenlied\)](https://open.spotify.com/album/1rdaF7ppns4a1ebTYxupqW) | 2:31 |
 | 33 | [Ich geh mit meiner Laterne](https://open.spotify.com/track/41VsHvhdX0cd4IF9TqKeyy) | [herrH](https://open.spotify.com/artist/2weS8n5DrZpok2Wcf9TRsQ) | [Endlich Winter!](https://open.spotify.com/album/09wNwzLZ3ahuBq3x0XyQ6o) | 3:58 |
 | 34 | [Laternchen, Laternchen](https://open.spotify.com/track/02iM95Tu2YT4dsuWwIQkke) | [Kinderchor Canzonetta Berlin](https://open.spotify.com/artist/2hPcTWItqk71rEzyaHQn7R) | [St\. Martin \- Die Kinderlieder zum Laternen Fest](https://open.spotify.com/album/7K3Psz6NXHypF40QCR9kcT) | 1:32 |
@@ -54,4 +54,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7lk7hiGiH2z.md) - [plain]
 | 44 | [Laternenleuchten](https://open.spotify.com/track/2k9OMhs7GmFNm7p4N0ns2W) | [Stephen Janetzko](https://open.spotify.com/artist/0HC9OQdqPCCE1WNMetTTmG), [Lucia Ruf](https://open.spotify.com/artist/085LEO8GBi8fhvVZhoS5gt) | [Martin, Martin, Martinsmann \- 25 Herbstlieder und Laternenlieder zu St\. Martin](https://open.spotify.com/album/0veMuISz1yxPBBQzjwH4Id) | 3:23 |
 | 45 | [Alle Leut'](https://open.spotify.com/track/1PnCE1OnD4o7cy1lBdJJlL) | [Simone Sommerland](https://open.spotify.com/artist/04yr1h3maDSKvM08pgOezF), [Karsten Glück](https://open.spotify.com/artist/5Asmk7uzCjVJN77MLDnvma), [Die Kita\-Frösche](https://open.spotify.com/artist/2yOGWPXuL8wG3F1q5FWmep) | [Die 30 besten Spiel\- und Bewegungslieder](https://open.spotify.com/album/7wGBvXA1TKtlqyJq6Mtsl5) | 1:07 |
 
-Snapshot ID: `AAAAAOsTNDnxuyxLN7Bt2X974u8ZR/E8`
+Snapshot ID: `AAAAAMaA87SPM7Ya6rXdOJ5hXE3o/neE`

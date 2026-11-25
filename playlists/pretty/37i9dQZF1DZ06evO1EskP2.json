@@ -6,7 +6,7 @@
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "awIwgAAAAABok4JDI2Mjk5SeT7/DVgCe",
+  "snapshot_id": "awOCAAAAAAAVtBxmYePsJiCoCqwBIcaG",
   "tracks": [
     {
       "added_at": null,
@@ -139,54 +139,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Lotus",
-        "url": "https://open.spotify.com/album/5LAF7qiJaWB4m479AfZo8c"
-      },
-      "artists": [
-        {
-          "name": "Anuhea",
-          "url": "https://open.spotify.com/artist/2RHXvm6gGpbDIsksQXJ1vk"
-        }
-      ],
-      "duration_ms": 204981,
-      "name": "Grandpa",
-      "url": "https://open.spotify.com/track/20H5GsIp8ArTusOUVfga0V"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "For Love",
-        "url": "https://open.spotify.com/album/4Q82xjuVVNj9VsfQG6lWMi"
-      },
-      "artists": [
-        {
-          "name": "Anuhea",
-          "url": "https://open.spotify.com/artist/2RHXvm6gGpbDIsksQXJ1vk"
-        }
-      ],
-      "duration_ms": 245720,
-      "name": "Come over Love",
-      "url": "https://open.spotify.com/track/0QiLyvKllhtzFOUJmkvK2n"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Shoulders",
-        "url": "https://open.spotify.com/album/29PzlpPTCQcDVQHQA4ANNT"
-      },
-      "artists": [
-        {
-          "name": "Anuhea",
-          "url": "https://open.spotify.com/artist/2RHXvm6gGpbDIsksQXJ1vk"
-        }
-      ],
-      "duration_ms": 261333,
-      "name": "Island Inside Me",
-      "url": "https://open.spotify.com/track/6PfgvDy4GisKnEgAtp6low"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Follow Me (Deluxe Hawai'i Edition)",
         "url": "https://open.spotify.com/album/2zCDjWHFmgGaemxHMck7kx"
       },
@@ -207,6 +159,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "For Love",
+        "url": "https://open.spotify.com/album/4Q82xjuVVNj9VsfQG6lWMi"
+      },
+      "artists": [
+        {
+          "name": "Anuhea",
+          "url": "https://open.spotify.com/artist/2RHXvm6gGpbDIsksQXJ1vk"
+        }
+      ],
+      "duration_ms": 245720,
+      "name": "Come over Love",
+      "url": "https://open.spotify.com/track/0QiLyvKllhtzFOUJmkvK2n"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Lotus",
         "url": "https://open.spotify.com/album/5LAF7qiJaWB4m479AfZo8c"
       },
@@ -216,9 +184,41 @@
           "url": "https://open.spotify.com/artist/2RHXvm6gGpbDIsksQXJ1vk"
         }
       ],
-      "duration_ms": 199035,
-      "name": "Heart Revival",
-      "url": "https://open.spotify.com/track/1m2JpJxlT4eoTeTmWliUDC"
+      "duration_ms": 204981,
+      "name": "Grandpa",
+      "url": "https://open.spotify.com/track/20H5GsIp8ArTusOUVfga0V"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Shoulders",
+        "url": "https://open.spotify.com/album/29PzlpPTCQcDVQHQA4ANNT"
+      },
+      "artists": [
+        {
+          "name": "Anuhea",
+          "url": "https://open.spotify.com/artist/2RHXvm6gGpbDIsksQXJ1vk"
+        }
+      ],
+      "duration_ms": 261333,
+      "name": "Island Inside Me",
+      "url": "https://open.spotify.com/track/6PfgvDy4GisKnEgAtp6low"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Anuhea",
+        "url": "https://open.spotify.com/album/4scVL1cbZrVFhMB2z0kjL7"
+      },
+      "artists": [
+        {
+          "name": "Anuhea",
+          "url": "https://open.spotify.com/artist/2RHXvm6gGpbDIsksQXJ1vk"
+        }
+      ],
+      "duration_ms": 210053,
+      "name": "Big Deal",
+      "url": "https://open.spotify.com/track/0o8S6hLEGKp6SEE7xwYRLi"
     },
     {
       "added_at": null,
@@ -239,8 +239,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Anuhea",
-        "url": "https://open.spotify.com/album/4scVL1cbZrVFhMB2z0kjL7"
+        "name": "Lotus",
+        "url": "https://open.spotify.com/album/5LAF7qiJaWB4m479AfZo8c"
       },
       "artists": [
         {
@@ -248,9 +248,9 @@
           "url": "https://open.spotify.com/artist/2RHXvm6gGpbDIsksQXJ1vk"
         }
       ],
-      "duration_ms": 210053,
-      "name": "Big Deal",
-      "url": "https://open.spotify.com/track/0o8S6hLEGKp6SEE7xwYRLi"
+      "duration_ms": 199035,
+      "name": "Heart Revival",
+      "url": "https://open.spotify.com/track/1m2JpJxlT4eoTeTmWliUDC"
     },
     {
       "added_at": null,
@@ -483,38 +483,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Anuhea",
-        "url": "https://open.spotify.com/album/4scVL1cbZrVFhMB2z0kjL7"
-      },
-      "artists": [
-        {
-          "name": "Anuhea",
-          "url": "https://open.spotify.com/artist/2RHXvm6gGpbDIsksQXJ1vk"
-        }
-      ],
-      "duration_ms": 206240,
-      "name": "Here I Go Again",
-      "url": "https://open.spotify.com/track/1Cy9L9plJX7ZAuQhfL5VR6"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Lotus",
-        "url": "https://open.spotify.com/album/5LAF7qiJaWB4m479AfZo8c"
-      },
-      "artists": [
-        {
-          "name": "Anuhea",
-          "url": "https://open.spotify.com/artist/2RHXvm6gGpbDIsksQXJ1vk"
-        }
-      ],
-      "duration_ms": 217009,
-      "name": "Maui Rain",
-      "url": "https://open.spotify.com/track/5ZpLrUIjT7cLVhLoSQnsww"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Red, Gold & Green",
         "url": "https://open.spotify.com/album/1nzpKDlVM4c8ly5RZsAXPJ"
       },
@@ -535,8 +503,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Shoulders",
-        "url": "https://open.spotify.com/album/29PzlpPTCQcDVQHQA4ANNT"
+        "name": "Lotus",
+        "url": "https://open.spotify.com/album/5LAF7qiJaWB4m479AfZo8c"
       },
       "artists": [
         {
@@ -544,9 +512,25 @@
           "url": "https://open.spotify.com/artist/2RHXvm6gGpbDIsksQXJ1vk"
         }
       ],
-      "duration_ms": 226185,
-      "name": "Walk on Water",
-      "url": "https://open.spotify.com/track/5UqcdUuxdv8jKR7cDs0uaN"
+      "duration_ms": 230010,
+      "name": "Lotus",
+      "url": "https://open.spotify.com/track/0V2fIakdFvEuOGeLFDp1Ab"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Anuhea",
+        "url": "https://open.spotify.com/album/4scVL1cbZrVFhMB2z0kjL7"
+      },
+      "artists": [
+        {
+          "name": "Anuhea",
+          "url": "https://open.spotify.com/artist/2RHXvm6gGpbDIsksQXJ1vk"
+        }
+      ],
+      "duration_ms": 206240,
+      "name": "Here I Go Again",
+      "url": "https://open.spotify.com/track/1Cy9L9plJX7ZAuQhfL5VR6"
     },
     {
       "added_at": null,
@@ -567,6 +551,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Shoulders",
+        "url": "https://open.spotify.com/album/29PzlpPTCQcDVQHQA4ANNT"
+      },
+      "artists": [
+        {
+          "name": "Anuhea",
+          "url": "https://open.spotify.com/artist/2RHXvm6gGpbDIsksQXJ1vk"
+        }
+      ],
+      "duration_ms": 226185,
+      "name": "Walk on Water",
+      "url": "https://open.spotify.com/track/5UqcdUuxdv8jKR7cDs0uaN"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Lotus",
         "url": "https://open.spotify.com/album/5LAF7qiJaWB4m479AfZo8c"
       },
@@ -576,9 +576,9 @@
           "url": "https://open.spotify.com/artist/2RHXvm6gGpbDIsksQXJ1vk"
         }
       ],
-      "duration_ms": 230010,
-      "name": "Lotus",
-      "url": "https://open.spotify.com/track/0V2fIakdFvEuOGeLFDp1Ab"
+      "duration_ms": 217009,
+      "name": "Maui Rain",
+      "url": "https://open.spotify.com/track/5ZpLrUIjT7cLVhLoSQnsww"
     },
     {
       "added_at": null,
@@ -599,22 +599,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Hard Place",
-        "url": "https://open.spotify.com/album/7GWqFppa0JzSHNdniM4OnF"
-      },
-      "artists": [
-        {
-          "name": "Anuhea",
-          "url": "https://open.spotify.com/artist/2RHXvm6gGpbDIsksQXJ1vk"
-        }
-      ],
-      "duration_ms": 207500,
-      "name": "Hard Place",
-      "url": "https://open.spotify.com/track/7bpGqP9iCwQVF7UIi57RVa"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Follow Me (Deluxe Hawai'i Edition)",
         "url": "https://open.spotify.com/album/2zCDjWHFmgGaemxHMck7kx"
       },
@@ -627,6 +611,22 @@
       "duration_ms": 188368,
       "name": "We Make It Look Easy",
       "url": "https://open.spotify.com/track/1he0oEaEywevzOsxWP75En"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Hard Place",
+        "url": "https://open.spotify.com/album/7GWqFppa0JzSHNdniM4OnF"
+      },
+      "artists": [
+        {
+          "name": "Anuhea",
+          "url": "https://open.spotify.com/artist/2RHXvm6gGpbDIsksQXJ1vk"
+        }
+      ],
+      "duration_ms": 207500,
+      "name": "Hard Place",
+      "url": "https://open.spotify.com/track/7bpGqP9iCwQVF7UIi57RVa"
     },
     {
       "added_at": null,
@@ -651,38 +651,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "A10: Best of Anuhea",
-        "url": "https://open.spotify.com/album/7cy9JvJh5WzRNit5sFFjPD"
-      },
-      "artists": [
-        {
-          "name": "Anuhea",
-          "url": "https://open.spotify.com/artist/2RHXvm6gGpbDIsksQXJ1vk"
-        }
-      ],
-      "duration_ms": 215700,
-      "name": "True Colors/Kou \u2018Ano K\u00fc I\u2019o - Live",
-      "url": "https://open.spotify.com/track/2fnCuqWilSbk4NMIooM7ue"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Anuhea",
-        "url": "https://open.spotify.com/album/4scVL1cbZrVFhMB2z0kjL7"
-      },
-      "artists": [
-        {
-          "name": "Anuhea",
-          "url": "https://open.spotify.com/artist/2RHXvm6gGpbDIsksQXJ1vk"
-        }
-      ],
-      "duration_ms": 284680,
-      "name": "Right Love, Wrong Time",
-      "url": "https://open.spotify.com/track/1KgBgZkEXySiIfzCZ3CGkR"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Spam Musubi Song",
         "url": "https://open.spotify.com/album/4EZ6yx1LeF2J6vMMVWrIXk"
       },
@@ -695,6 +663,22 @@
       "duration_ms": 140010,
       "name": "Spam Musubi Song",
       "url": "https://open.spotify.com/track/27o8gy6qedG98OsEC5ati5"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Follow Me (Deluxe Hawai'i Edition)",
+        "url": "https://open.spotify.com/album/2zCDjWHFmgGaemxHMck7kx"
+      },
+      "artists": [
+        {
+          "name": "Anuhea",
+          "url": "https://open.spotify.com/artist/2RHXvm6gGpbDIsksQXJ1vk"
+        }
+      ],
+      "duration_ms": 187376,
+      "name": "Riddles",
+      "url": "https://open.spotify.com/track/5XpjJBpdunapQfxgeZNTbH"
     },
     {
       "added_at": null,
@@ -719,8 +703,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Follow Me (Deluxe Hawai'i Edition)",
-        "url": "https://open.spotify.com/album/2zCDjWHFmgGaemxHMck7kx"
+        "name": "Anuhea",
+        "url": "https://open.spotify.com/album/4scVL1cbZrVFhMB2z0kjL7"
       },
       "artists": [
         {
@@ -728,9 +712,25 @@
           "url": "https://open.spotify.com/artist/2RHXvm6gGpbDIsksQXJ1vk"
         }
       ],
-      "duration_ms": 187376,
-      "name": "Riddles",
-      "url": "https://open.spotify.com/track/5XpjJBpdunapQfxgeZNTbH"
+      "duration_ms": 284680,
+      "name": "Right Love, Wrong Time",
+      "url": "https://open.spotify.com/track/1KgBgZkEXySiIfzCZ3CGkR"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "A10: Best of Anuhea",
+        "url": "https://open.spotify.com/album/7cy9JvJh5WzRNit5sFFjPD"
+      },
+      "artists": [
+        {
+          "name": "Anuhea",
+          "url": "https://open.spotify.com/artist/2RHXvm6gGpbDIsksQXJ1vk"
+        }
+      ],
+      "duration_ms": 215700,
+      "name": "True Colors/Kou \u2018Ano K\u00fc I\u2019o - Live",
+      "url": "https://open.spotify.com/track/2fnCuqWilSbk4NMIooM7ue"
     },
     {
       "added_at": null,
@@ -763,22 +763,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Anuhea",
-        "url": "https://open.spotify.com/album/4scVL1cbZrVFhMB2z0kjL7"
-      },
-      "artists": [
-        {
-          "name": "Anuhea",
-          "url": "https://open.spotify.com/artist/2RHXvm6gGpbDIsksQXJ1vk"
-        }
-      ],
-      "duration_ms": 254226,
-      "name": "Endlessly",
-      "url": "https://open.spotify.com/track/5h9HSjrDEomNDfg7AR1W5f"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Follow Me (Deluxe Hawai'i Edition)",
         "url": "https://open.spotify.com/album/2zCDjWHFmgGaemxHMck7kx"
       },
@@ -791,6 +775,22 @@
       "duration_ms": 234004,
       "name": "I Won't Settle",
       "url": "https://open.spotify.com/track/6x3VCQCLjlLpCZnUrlzeAI"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Anuhea",
+        "url": "https://open.spotify.com/album/4scVL1cbZrVFhMB2z0kjL7"
+      },
+      "artists": [
+        {
+          "name": "Anuhea",
+          "url": "https://open.spotify.com/artist/2RHXvm6gGpbDIsksQXJ1vk"
+        }
+      ],
+      "duration_ms": 254226,
+      "name": "Endlessly",
+      "url": "https://open.spotify.com/track/5h9HSjrDEomNDfg7AR1W5f"
     },
     {
       "added_at": null,

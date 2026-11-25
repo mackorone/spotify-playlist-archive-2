@@ -96,8 +96,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWV9KyA92twJc.md) - [plain]
 | 86 | [באמפרים](https://open.spotify.com/track/3FihyZ7YA7vrNiSUfWww10) | [סטילה](https://open.spotify.com/artist/7lwdlhwSxbB36wqnOwo5Kd), [Ness](https://open.spotify.com/artist/2ygecp3YQJwBHL7LNzDgwe) | [באמפרים](https://open.spotify.com/album/68jOubWGq2KpQexGxt6lP6) | 2:27 |
 | 87 | [מאחל לך טוב](https://open.spotify.com/track/2RNGK9C5zMQhKMTiPL5Q0T) | [Osher Cohen](https://open.spotify.com/artist/2LUB7PhWK2j2obgSTeD3GN) | [גיטרה ולנשום](https://open.spotify.com/album/6MYR06lNvAzbzXmKTn3kpw) | 2:58 |
 | 88 | [לא להמציא](https://open.spotify.com/track/6WDVPVfGdcL1d574NP7BVP) | [דודא](https://open.spotify.com/artist/5L1ugF8Mi2varnr83WO9do) | [שקוף](https://open.spotify.com/album/5YBVC6yXAL3Y5ENJpM0kbZ) | 3:47 |
-| 89 | [אם זה זה – זה זה](https://open.spotify.com/track/5e1XuRHOjrgVhy6zrZWOCu) | [Agam Buhbut](https://open.spotify.com/artist/3JPKPnzWJGjccn8SnjwA5i) | [אם זה זה – זה זה](https://open.spotify.com/album/78VNDC9zHvBXKi8Nqz7jrE) | 2:53 |
-| 90 | [Hurricane](https://open.spotify.com/track/2Ozw7k5CLtM5W9SomrOyjw) | [Eden Golan](https://open.spotify.com/artist/2eqELzJhAS2EDZayMaMHk5) | [Hurricane](https://open.spotify.com/album/1s99Lonpnx1JtrAfCZEc9p) | 2:58 |
+| 89 | [Hurricane](https://open.spotify.com/track/2Ozw7k5CLtM5W9SomrOyjw) | [Eden Golan](https://open.spotify.com/artist/2eqELzJhAS2EDZayMaMHk5) | [Hurricane](https://open.spotify.com/album/1s99Lonpnx1JtrAfCZEc9p) | 2:58 |
+| 90 | [אם זה זה – זה זה](https://open.spotify.com/track/5e1XuRHOjrgVhy6zrZWOCu) | [Agam Buhbut](https://open.spotify.com/artist/3JPKPnzWJGjccn8SnjwA5i) | [אם זה זה – זה זה](https://open.spotify.com/album/78VNDC9zHvBXKi8Nqz7jrE) | 2:53 |
 | 91 | [I LOVE YOU \(feat\. Armani White\)](https://open.spotify.com/track/5mDm5j6WG9bkl5AR19vJzh) | [Noga Erez](https://open.spotify.com/artist/5VwCIS8jdx9ZHjApLFNrTZ), [Armani White](https://open.spotify.com/artist/2qAwMsiIjTzlmfAkXKvhVA) | [I LOVE YOU \(feat\. Armani White\)](https://open.spotify.com/album/7zd33p1hPWK24q3v3LhKeD) | 3:11 |
 | 92 | [מנגן ושר](https://open.spotify.com/track/2yPnlfwQ1AmhHauqQWDlWZ) | [Osher Cohen](https://open.spotify.com/artist/2LUB7PhWK2j2obgSTeD3GN) | [THE LAST EPISODE](https://open.spotify.com/album/2IzZ7kCHqTyRuCo5jWGvxY) | 3:21 |
 | 93 | [מלודי](https://open.spotify.com/track/0hdDyhwaJpNW5nsJC3qYPe) | [פאר טסי](https://open.spotify.com/artist/24HI9hevLjIQtj7xp2CeHs) | [רדיו שטח 2](https://open.spotify.com/album/1PWujNSVmbVLoY0CbewwWq) | 3:27 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWV9KyA92twJc.md) - [plain]
 | 99 | [תהיה בנאדם](https://open.spotify.com/track/0BIn5KNnPdnDZrLJ2qLXnp) | [מתן חסן](https://open.spotify.com/artist/36TG4OFhKuCHnTFCa6BEh7) | [תהיה בנאדם](https://open.spotify.com/album/4d0DUXWVlWh3R7OzyPrUYI) | 1:57 |
 | 100 | [שיר ללא שם](https://open.spotify.com/track/2L2vg2n4bU1CVLlpKbQhef) | [Eviatar Banai](https://open.spotify.com/artist/3ObnkOSF8KZ9405ZPJtwbB) | [עוגן במים](https://open.spotify.com/album/4LewsSqBxIYJ9s3oDCHMcD) | 3:38 |
 
-Snapshot ID: `AAAAAKDt5qWeXpLtb96Fujc9lsgqfcct`
+Snapshot ID: `AAAAAAGJFIO3F4tssJOOIXsHLM/0O5oh`

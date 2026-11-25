@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1KKclrVPfDr.md) - [plain]
 
 > गाँव\-घर की शादियों का असली संगीत 'भोजपुरी विवाह गीत'.
 
-[Spotify](https://open.spotify.com/user/spotify) - 11,542 likes - 50 songs - 4 hr 12 min
+[Spotify](https://open.spotify.com/user/spotify) - 11,541 likes - 50 songs - 4 hr 12 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1KKclrVPfDr.md) - [plain]
 | 49 | [Chutki Bhar Senura](https://open.spotify.com/track/0ERPhyi69zPIsDSbFlQTZo) | [Sushant Asthana](https://open.spotify.com/artist/70DPuZFzmT4KpKWukOS45q) | [Chutki Bhar Senura](https://open.spotify.com/album/1UKdtZNcnZ4pYTCgQC7S1w) | 6:52 |
 | 50 | [Mangal Gariya He](https://open.spotify.com/track/4ThM0yxqeDrWK0RBMfwg64) | [Adarsh Aadee](https://open.spotify.com/artist/0vZTfW7WeDGzgeim5bDJKt) | [Mangal Gariya He](https://open.spotify.com/album/74IL4qtE7Zo3qn6CRQqpdy) | 5:55 |
 
-Snapshot ID: `AAAAAG5fVpU4oAybqph5NNEOSJcoviei`
+Snapshot ID: `AAAAAEwFRhlhEhWFH5J+XYpCf9y2W6CS`

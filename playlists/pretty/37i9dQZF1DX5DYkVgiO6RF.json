@@ -1,15 +1,15 @@
 {
   "description": "all cruise, no breaks ",
-  "num_followers": 703015,
+  "num_followers": 703189,
   "original_name": "Night Drive",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAACQoTxvF3liGIYWGP/oLIs1K6uic",
+  "snapshot_id": "AAAAADV8jdkpDO2Nl8kCXqeExr46JF+R",
   "tracks": [
     {
-      "added_at": "2026-10-23 04:02:24",
+      "added_at": "2026-11-25 04:52:37",
       "album": {
         "name": "Flower In A Hurricane (feat. Tame Impala, SZA, King Gizzard & the Lizard Wizard) [From GTAVI: Original Score]",
         "url": "https://open.spotify.com/album/1V8Qu6CwkBfYucnCWxynq8"
@@ -41,7 +41,7 @@
       "url": "https://open.spotify.com/track/4HCOHRCSQelz2GPX8iTamO"
     },
     {
-      "added_at": "2025-09-27 19:44:00",
+      "added_at": "2026-11-25 04:52:37",
       "album": {
         "name": "Dracula",
         "url": "https://open.spotify.com/album/2kCjkEVRnLdEV5UOaQSAG4"
@@ -57,10 +57,10 @@
       "url": "https://open.spotify.com/track/709ZIqPHyFOpx2QdjmeWAM"
     },
     {
-      "added_at": "2026-10-02 04:00:38",
+      "added_at": "2026-11-25 04:52:37",
       "album": {
-        "name": "RHYNO (from GTAVI: The Album)",
-        "url": "https://open.spotify.com/album/5Csu5sbvhYVlDJ24hRWXns"
+        "name": "Burn This Shit Down (from GTAVI: The Album)",
+        "url": "https://open.spotify.com/album/0jgRjaxbK29djrWFc8qcTN"
       },
       "artists": [
         {
@@ -72,128 +72,12 @@
           "url": "https://open.spotify.com/artist/15o7qdDTBzs6xWRUYUtZc1"
         }
       ],
-      "duration_ms": 180000,
-      "name": "RHYNO (from GTAVI: The Album)",
-      "url": "https://open.spotify.com/track/2QrLrUqdSg5njDVEqq5QFp"
+      "duration_ms": 260000,
+      "name": "Burn This Shit Down (from GTAVI: The Album)",
+      "url": "https://open.spotify.com/track/30YpKShBDGUAGfUx2BfVIb"
     },
     {
-      "added_at": "2026-07-24 04:00:32",
-      "album": {
-        "name": "Hard Beat",
-        "url": "https://open.spotify.com/album/3atdDfI9FcTZhrZQeOi8W0"
-      },
-      "artists": [
-        {
-          "name": "Boy Harsher",
-          "url": "https://open.spotify.com/artist/4iom7VVRU6AHRIu1JUXpLG"
-        }
-      ],
-      "duration_ms": 225706,
-      "name": "Hard Beat",
-      "url": "https://open.spotify.com/track/2yksZVaKYIbh4IEEAa2kJV"
-    },
-    {
-      "added_at": "2026-07-21 23:30:54",
-      "album": {
-        "name": "Rise Against My Broken Odds",
-        "url": "https://open.spotify.com/album/5pgROviZjBPRfjxwIBk5rB"
-      },
-      "artists": [
-        {
-          "name": "BabyChiefDoit",
-          "url": "https://open.spotify.com/artist/1J1pGfTqp5ReVIX8Z1Wzsg"
-        }
-      ],
-      "duration_ms": 178285,
-      "name": "Ghetto Love Story",
-      "url": "https://open.spotify.com/track/6g8cuDwreIt5rLEBlkukQa"
-    },
-    {
-      "added_at": "2025-09-19 04:00:19",
-      "album": {
-        "name": "S\u00e3o Paulo",
-        "url": "https://open.spotify.com/album/28TLpNqlJzeOqm9N4OY3BS"
-      },
-      "artists": [
-        {
-          "name": "The Weeknd",
-          "url": "https://open.spotify.com/artist/1Xyo4u8uXC1ZmMpatF05PJ"
-        },
-        {
-          "name": "Anitta",
-          "url": "https://open.spotify.com/artist/7FNnA9vBm6EKceENgCGRMb"
-        }
-      ],
-      "duration_ms": 148852,
-      "name": "S\u00e3o Paulo (feat. Anitta) - Single Version",
-      "url": "https://open.spotify.com/track/2HXQL06smXD4evuW7MLY4X"
-    },
-    {
-      "added_at": "2025-10-20 21:35:19",
-      "album": {
-        "name": "Head Shot / Gas In The Truck",
-        "url": "https://open.spotify.com/album/3RZnt9xmpoUJC5RoxpPcqx"
-      },
-      "artists": [
-        {
-          "name": "IShowSpeed",
-          "url": "https://open.spotify.com/artist/0V5bkwV2Bd90bMLMc8JFeS"
-        }
-      ],
-      "duration_ms": 237413,
-      "name": "Head Shot / Gas In The Truck",
-      "url": "https://open.spotify.com/track/369I51M6XDujuwDlj3GW6R"
-    },
-    {
-      "added_at": "2024-11-29 05:00:00",
-      "album": {
-        "name": "Love Sick (Deluxe)",
-        "url": "https://open.spotify.com/album/2Q2TRdT994vTzGE3Grmmht"
-      },
-      "artists": [
-        {
-          "name": "Don Toliver",
-          "url": "https://open.spotify.com/artist/4Gso3d4CscCijv0lmajZWs"
-        }
-      ],
-      "duration_ms": 187613,
-      "name": "No Pole",
-      "url": "https://open.spotify.com/track/0eaVIYo2zeOaGJeqZ5TwYz"
-    },
-    {
-      "added_at": "2024-08-20 15:16:49",
-      "album": {
-        "name": "Blonde",
-        "url": "https://open.spotify.com/album/3mH6qwIy9crq0I9YQbOuDf"
-      },
-      "artists": [
-        {
-          "name": "Frank Ocean",
-          "url": "https://open.spotify.com/artist/2h93pZq0e7k5yf4dywlkpM"
-        }
-      ],
-      "duration_ms": 307151,
-      "name": "Nights",
-      "url": "https://open.spotify.com/track/7eqoqGkKwgOaWNNHx90uEZ"
-    },
-    {
-      "added_at": "2025-11-14 05:00:30",
-      "album": {
-        "name": "DANGEROUS SUMMER",
-        "url": "https://open.spotify.com/album/61PCQeDaTD2gwfpHFikpbh"
-      },
-      "artists": [
-        {
-          "name": "Yeat",
-          "url": "https://open.spotify.com/artist/3qiHUAX7zY4Qnjx8TNUzVx"
-        }
-      ],
-      "duration_ms": 198620,
-      "name": "COM\u00cb N GO",
-      "url": "https://open.spotify.com/track/2mNGL7mZILSqZHxGboJaO9"
-    },
-    {
-      "added_at": "2024-08-20 15:16:49",
+      "added_at": "2026-11-25 04:52:37",
       "album": {
         "name": "The Idol Episode 4 (Music from the HBO Original Series)",
         "url": "https://open.spotify.com/album/7tzVd1fwkxsorytCBjEJkU"
@@ -217,7 +101,107 @@
       "url": "https://open.spotify.com/track/7CyPwkp0oE8Ro9Dd5CUDjW"
     },
     {
-      "added_at": "2024-08-20 15:16:49",
+      "added_at": "2026-11-25 04:52:37",
+      "album": {
+        "name": "Rise Against My Broken Odds",
+        "url": "https://open.spotify.com/album/5pgROviZjBPRfjxwIBk5rB"
+      },
+      "artists": [
+        {
+          "name": "BabyChiefDoit",
+          "url": "https://open.spotify.com/artist/1J1pGfTqp5ReVIX8Z1Wzsg"
+        }
+      ],
+      "duration_ms": 178285,
+      "name": "Ghetto Love Story",
+      "url": "https://open.spotify.com/track/6g8cuDwreIt5rLEBlkukQa"
+    },
+    {
+      "added_at": "2026-11-25 04:52:37",
+      "album": {
+        "name": "S\u00e3o Paulo",
+        "url": "https://open.spotify.com/album/28TLpNqlJzeOqm9N4OY3BS"
+      },
+      "artists": [
+        {
+          "name": "The Weeknd",
+          "url": "https://open.spotify.com/artist/1Xyo4u8uXC1ZmMpatF05PJ"
+        },
+        {
+          "name": "Anitta",
+          "url": "https://open.spotify.com/artist/7FNnA9vBm6EKceENgCGRMb"
+        }
+      ],
+      "duration_ms": 148852,
+      "name": "S\u00e3o Paulo (feat. Anitta) - Single Version",
+      "url": "https://open.spotify.com/track/2HXQL06smXD4evuW7MLY4X"
+    },
+    {
+      "added_at": "2026-11-25 04:52:37",
+      "album": {
+        "name": "Head Shot / Gas In The Truck",
+        "url": "https://open.spotify.com/album/3RZnt9xmpoUJC5RoxpPcqx"
+      },
+      "artists": [
+        {
+          "name": "IShowSpeed",
+          "url": "https://open.spotify.com/artist/0V5bkwV2Bd90bMLMc8JFeS"
+        }
+      ],
+      "duration_ms": 237413,
+      "name": "Head Shot / Gas In The Truck",
+      "url": "https://open.spotify.com/track/369I51M6XDujuwDlj3GW6R"
+    },
+    {
+      "added_at": "2026-11-25 04:52:37",
+      "album": {
+        "name": "Love Sick (Deluxe)",
+        "url": "https://open.spotify.com/album/2Q2TRdT994vTzGE3Grmmht"
+      },
+      "artists": [
+        {
+          "name": "Don Toliver",
+          "url": "https://open.spotify.com/artist/4Gso3d4CscCijv0lmajZWs"
+        }
+      ],
+      "duration_ms": 187613,
+      "name": "No Pole",
+      "url": "https://open.spotify.com/track/0eaVIYo2zeOaGJeqZ5TwYz"
+    },
+    {
+      "added_at": "2026-11-25 04:52:37",
+      "album": {
+        "name": "Blonde",
+        "url": "https://open.spotify.com/album/3mH6qwIy9crq0I9YQbOuDf"
+      },
+      "artists": [
+        {
+          "name": "Frank Ocean",
+          "url": "https://open.spotify.com/artist/2h93pZq0e7k5yf4dywlkpM"
+        }
+      ],
+      "duration_ms": 307151,
+      "name": "Nights",
+      "url": "https://open.spotify.com/track/7eqoqGkKwgOaWNNHx90uEZ"
+    },
+    {
+      "added_at": "2026-11-25 04:52:37",
+      "album": {
+        "name": "DANGEROUS SUMMER",
+        "url": "https://open.spotify.com/album/61PCQeDaTD2gwfpHFikpbh"
+      },
+      "artists": [
+        {
+          "name": "Yeat",
+          "url": "https://open.spotify.com/artist/3qiHUAX7zY4Qnjx8TNUzVx"
+        }
+      ],
+      "duration_ms": 198620,
+      "name": "COM\u00cb N GO",
+      "url": "https://open.spotify.com/track/2mNGL7mZILSqZHxGboJaO9"
+    },
+    {
+      "added_at": "2026-11-25 04:52:37",
       "album": {
         "name": "The Age of Consent",
         "url": "https://open.spotify.com/album/6OMYQUITdN6wBaWfEtgooI"
@@ -233,7 +217,23 @@
       "url": "https://open.spotify.com/track/5vmRQ3zELMLUQPo2FLQ76x"
     },
     {
-      "added_at": "2024-08-20 15:16:49",
+      "added_at": "2026-11-25 04:52:37",
+      "album": {
+        "name": "After Hours",
+        "url": "https://open.spotify.com/album/4yP0hdKOZPNshxUOjY0cZj"
+      },
+      "artists": [
+        {
+          "name": "The Weeknd",
+          "url": "https://open.spotify.com/artist/1Xyo4u8uXC1ZmMpatF05PJ"
+        }
+      ],
+      "duration_ms": 361026,
+      "name": "After Hours",
+      "url": "https://open.spotify.com/track/2p8IUWQDrpjuFltbdgLOag"
+    },
+    {
+      "added_at": "2026-11-25 04:52:37",
       "album": {
         "name": "Born Sinner (Deluxe Version)",
         "url": "https://open.spotify.com/album/5FP9keIJnlSCKnkdVOf623"
@@ -253,7 +253,7 @@
       "url": "https://open.spotify.com/track/2uwnP6tZVVmTovzX5ELooy"
     },
     {
-      "added_at": "2026-07-13 17:23:09",
+      "added_at": "2026-11-25 04:52:37",
       "album": {
         "name": "Self Aware",
         "url": "https://open.spotify.com/album/5A94ZGE648fjXkHHSfh1xv"
@@ -269,7 +269,7 @@
       "url": "https://open.spotify.com/track/6xupcsJHo3wW2tSVKwu4mf"
     },
     {
-      "added_at": "2025-08-17 04:15:18",
+      "added_at": "2026-11-25 04:52:37",
       "album": {
         "name": "Or Nah (feat. The Weeknd, Wiz Khalifa & DJ Mustard) [Remix]",
         "url": "https://open.spotify.com/album/3SHx7bBQFI4J8QRr6D5cOK"
@@ -297,23 +297,7 @@
       "url": "https://open.spotify.com/track/7t2bFihaDvhIrd2gn2CWJO"
     },
     {
-      "added_at": "2024-08-20 15:16:49",
-      "album": {
-        "name": "After Hours",
-        "url": "https://open.spotify.com/album/4yP0hdKOZPNshxUOjY0cZj"
-      },
-      "artists": [
-        {
-          "name": "The Weeknd",
-          "url": "https://open.spotify.com/artist/1Xyo4u8uXC1ZmMpatF05PJ"
-        }
-      ],
-      "duration_ms": 361026,
-      "name": "After Hours",
-      "url": "https://open.spotify.com/track/2p8IUWQDrpjuFltbdgLOag"
-    },
-    {
-      "added_at": "2024-08-20 15:16:49",
+      "added_at": "2026-11-25 04:52:37",
       "album": {
         "name": "Yeezus",
         "url": "https://open.spotify.com/album/7D2NdGvBHIavgLhmcwhluK"
@@ -329,7 +313,7 @@
       "url": "https://open.spotify.com/track/3sNVsP50132BTNlImLx70i"
     },
     {
-      "added_at": "2024-08-20 15:16:49",
+      "added_at": "2026-11-25 04:52:37",
       "album": {
         "name": "ANTI (Deluxe)",
         "url": "https://open.spotify.com/album/4UlGauD7ROb3YbVOFMgW5u"
@@ -345,7 +329,7 @@
       "url": "https://open.spotify.com/track/4pAl7FkDMNBsjykPXo91B3"
     },
     {
-      "added_at": "2024-08-20 15:16:49",
+      "added_at": "2026-11-25 04:52:37",
       "album": {
         "name": "I NEVER LIKED YOU",
         "url": "https://open.spotify.com/album/6tE9Dnp2zInFij4jKssysL"
@@ -369,7 +353,7 @@
       "url": "https://open.spotify.com/track/59nOXPmaKlBfGMDeOVGrIK"
     },
     {
-      "added_at": "2024-08-20 15:16:49",
+      "added_at": "2026-11-25 04:52:37",
       "album": {
         "name": "More Life",
         "url": "https://open.spotify.com/album/1lXY618HWkwYKJWBRYR4MK"
@@ -385,7 +369,27 @@
       "url": "https://open.spotify.com/track/6n3HGiq4v35D6eFOSwqYuo"
     },
     {
-      "added_at": "2024-08-20 15:16:49",
+      "added_at": "2026-11-25 04:52:37",
+      "album": {
+        "name": "Blood In Your Eyes (from GTAVI: The Album)",
+        "url": "https://open.spotify.com/album/2J5ttiLhgBPxcLyHlhQVKO"
+      },
+      "artists": [
+        {
+          "name": "Tove Lo",
+          "url": "https://open.spotify.com/artist/4NHQUGzhtTLFvgF5SZesLK"
+        },
+        {
+          "name": "Grand Theft Auto VI",
+          "url": "https://open.spotify.com/artist/15o7qdDTBzs6xWRUYUtZc1"
+        }
+      ],
+      "duration_ms": 161219,
+      "name": "Blood In Your Eyes (from GTAVI: The Album)",
+      "url": "https://open.spotify.com/track/4h3tY2zV4easaHEAbHVmgj"
+    },
+    {
+      "added_at": "2026-11-25 04:52:37",
       "album": {
         "name": "IGOR",
         "url": "https://open.spotify.com/album/5zi7WsKlIiUXv09tbGLKsE"
@@ -401,7 +405,7 @@
       "url": "https://open.spotify.com/track/5TxRUOsGeWeRl3xOML59Ai"
     },
     {
-      "added_at": "2024-09-11 19:22:59",
+      "added_at": "2026-11-25 04:52:37",
       "album": {
         "name": "HARDSTONE PSYCHO",
         "url": "https://open.spotify.com/album/0Kzb3u6kMnOJOZXYFSk33F"
@@ -417,7 +421,7 @@
       "url": "https://open.spotify.com/track/2c7z5oRcPBbqRaBY2mLWcf"
     },
     {
-      "added_at": "2024-08-20 15:16:49",
+      "added_at": "2026-11-25 04:52:37",
       "album": {
         "name": "The Bigger Artist",
         "url": "https://open.spotify.com/album/3HHp5I6Q6SEyU5bkvoCtnV"
@@ -437,7 +441,7 @@
       "url": "https://open.spotify.com/track/1f5cbQtDrykjarZVrShaDI"
     },
     {
-      "added_at": "2024-08-20 15:16:49",
+      "added_at": "2026-11-25 04:52:37",
       "album": {
         "name": "Planet Her",
         "url": "https://open.spotify.com/album/1nAQbHeOWTfQzbOoFrvndW"
@@ -453,7 +457,7 @@
       "url": "https://open.spotify.com/track/3Vi5XqYrmQgOYBajMWSvCi"
     },
     {
-      "added_at": "2024-08-20 15:16:49",
+      "added_at": "2026-11-25 04:52:37",
       "album": {
         "name": "All I Want Is You",
         "url": "https://open.spotify.com/album/493HYe7N5pleudEZRyhE7R"
@@ -469,7 +473,7 @@
       "url": "https://open.spotify.com/track/1eUGmzzvahJjOSWgDHuRlv"
     },
     {
-      "added_at": "2024-08-20 15:16:49",
+      "added_at": "2026-11-25 04:52:37",
       "album": {
         "name": "ye",
         "url": "https://open.spotify.com/album/2Ek1q2haOnxVqhvVKqMvJe"
@@ -485,23 +489,7 @@
       "url": "https://open.spotify.com/track/3s7MCdXyWmwjdcWh7GWXas"
     },
     {
-      "added_at": "2024-08-20 15:16:49",
-      "album": {
-        "name": "PARTYNEXTDOOR",
-        "url": "https://open.spotify.com/album/1q4B7r3dzzwkarZ1B9bk9e"
-      },
-      "artists": [
-        {
-          "name": "PARTYNEXTDOOR",
-          "url": "https://open.spotify.com/artist/2HPaUgqeutzr3jx5a9WyDV"
-        }
-      ],
-      "duration_ms": 99213,
-      "name": "Break from Toronto",
-      "url": "https://open.spotify.com/track/5fEB6ZmVkg63GZg9qO86jh"
-    },
-    {
-      "added_at": "2025-07-03 16:25:32",
+      "added_at": "2026-11-25 04:52:37",
       "album": {
         "name": "Lose My Mind (feat. Doja Cat) [From F1\u00ae The Movie]",
         "url": "https://open.spotify.com/album/157Gano57F4G2EAWL5NKP8"
@@ -525,7 +513,23 @@
       "url": "https://open.spotify.com/track/02BcXEH1zJYbXSabPtNlKf"
     },
     {
-      "added_at": "2024-08-20 15:16:49",
+      "added_at": "2026-11-25 04:52:37",
+      "album": {
+        "name": "PARTYNEXTDOOR",
+        "url": "https://open.spotify.com/album/1q4B7r3dzzwkarZ1B9bk9e"
+      },
+      "artists": [
+        {
+          "name": "PARTYNEXTDOOR",
+          "url": "https://open.spotify.com/artist/2HPaUgqeutzr3jx5a9WyDV"
+        }
+      ],
+      "duration_ms": 99213,
+      "name": "Break from Toronto",
+      "url": "https://open.spotify.com/track/5fEB6ZmVkg63GZg9qO86jh"
+    },
+    {
+      "added_at": "2026-11-25 04:52:37",
       "album": {
         "name": "i am > i was",
         "url": "https://open.spotify.com/album/007DWn799UWvfY1wwZeENR"
@@ -541,7 +545,7 @@
       "url": "https://open.spotify.com/track/2t8yVaLvJ0RenpXUIAC52d"
     },
     {
-      "added_at": "2024-08-20 15:16:49",
+      "added_at": "2026-11-25 04:52:37",
       "album": {
         "name": "Indigo",
         "url": "https://open.spotify.com/album/1BfLzaTFI5qKsAAk0Ae6aV"
@@ -561,7 +565,23 @@
       "url": "https://open.spotify.com/track/6XHVuErjQ4XNm6nDPVCxVX"
     },
     {
-      "added_at": "2024-08-20 15:16:49",
+      "added_at": "2026-11-25 04:52:37",
+      "album": {
+        "name": "Little Dark Age",
+        "url": "https://open.spotify.com/album/7GjVWG39IOj4viyWplJV4H"
+      },
+      "artists": [
+        {
+          "name": "MGMT",
+          "url": "https://open.spotify.com/artist/0SwO7SWeDHJijQ3XNS7xEE"
+        }
+      ],
+      "duration_ms": 299933,
+      "name": "Little Dark Age",
+      "url": "https://open.spotify.com/track/2Y0iGXY6m6immVb2ktbseM"
+    },
+    {
+      "added_at": "2026-11-25 04:52:37",
       "album": {
         "name": "War & Leisure",
         "url": "https://open.spotify.com/album/05LEST8E8mkEIl2LRfUkcI"
@@ -581,23 +601,27 @@
       "url": "https://open.spotify.com/track/5WoaF1B5XIEnWfmb5NZikf"
     },
     {
-      "added_at": "2024-08-20 15:16:49",
+      "added_at": "2026-11-25 04:52:37",
       "album": {
-        "name": "Little Dark Age",
-        "url": "https://open.spotify.com/album/7GjVWG39IOj4viyWplJV4H"
+        "name": "RHYNO (from GTAVI: The Album)",
+        "url": "https://open.spotify.com/album/5Csu5sbvhYVlDJ24hRWXns"
       },
       "artists": [
         {
-          "name": "MGMT",
-          "url": "https://open.spotify.com/artist/0SwO7SWeDHJijQ3XNS7xEE"
+          "name": "Travis Scott",
+          "url": "https://open.spotify.com/artist/0Y5tJX1MQlPlqiwlOH1tJY"
+        },
+        {
+          "name": "Grand Theft Auto VI",
+          "url": "https://open.spotify.com/artist/15o7qdDTBzs6xWRUYUtZc1"
         }
       ],
-      "duration_ms": 299933,
-      "name": "Little Dark Age",
-      "url": "https://open.spotify.com/track/2Y0iGXY6m6immVb2ktbseM"
+      "duration_ms": 180000,
+      "name": "RHYNO (from GTAVI: The Album)",
+      "url": "https://open.spotify.com/track/2QrLrUqdSg5njDVEqq5QFp"
     },
     {
-      "added_at": "2024-08-20 15:16:49",
+      "added_at": "2026-11-25 04:52:37",
       "album": {
         "name": "T R A P S O U L",
         "url": "https://open.spotify.com/album/6eZdwrhB97A3EYx9QppGfl"
@@ -613,7 +637,7 @@
       "url": "https://open.spotify.com/track/43PuMrRfbyyuz4QpZ3oAwN"
     },
     {
-      "added_at": "2024-08-20 15:16:49",
+      "added_at": "2026-11-25 04:52:37",
       "album": {
         "name": "Trip",
         "url": "https://open.spotify.com/album/7CAAClnSiXdMibPT1oyl4k"
@@ -633,7 +657,7 @@
       "url": "https://open.spotify.com/track/2pg2TiYo9Rb8KeB5JjP7jS"
     },
     {
-      "added_at": "2024-08-20 15:16:49",
+      "added_at": "2026-11-25 04:52:37",
       "album": {
         "name": "Playboi Carti",
         "url": "https://open.spotify.com/album/4rJgzzfFHAVFhCSt2P4I3j"
@@ -649,23 +673,7 @@
       "url": "https://open.spotify.com/track/3yk7PJnryiJ8mAPqsrujzf"
     },
     {
-      "added_at": "2024-08-20 15:16:49",
-      "album": {
-        "name": "Birds In The Trap Sing McKnight",
-        "url": "https://open.spotify.com/album/42WVQWuf1teDysXiOupIZt"
-      },
-      "artists": [
-        {
-          "name": "Travis Scott",
-          "url": "https://open.spotify.com/artist/0Y5tJX1MQlPlqiwlOH1tJY"
-        }
-      ],
-      "duration_ms": 191622,
-      "name": "sdp interlude",
-      "url": "https://open.spotify.com/track/4gh0ZnHzaTMT1sDga7Ek0N"
-    },
-    {
-      "added_at": "2024-08-20 15:16:49",
+      "added_at": "2026-11-25 04:52:37",
       "album": {
         "name": "i like the way you kiss me",
         "url": "https://open.spotify.com/album/5HIWDdg3g9CTOtnevKDl1z"
@@ -681,7 +689,23 @@
       "url": "https://open.spotify.com/track/2GxrNKugF82CnoRFbQfzPf"
     },
     {
-      "added_at": "2024-08-20 15:16:49",
+      "added_at": "2026-11-25 04:52:37",
+      "album": {
+        "name": "Birds In The Trap Sing McKnight",
+        "url": "https://open.spotify.com/album/42WVQWuf1teDysXiOupIZt"
+      },
+      "artists": [
+        {
+          "name": "Travis Scott",
+          "url": "https://open.spotify.com/artist/0Y5tJX1MQlPlqiwlOH1tJY"
+        }
+      ],
+      "duration_ms": 191622,
+      "name": "sdp interlude",
+      "url": "https://open.spotify.com/track/4gh0ZnHzaTMT1sDga7Ek0N"
+    },
+    {
+      "added_at": "2026-11-25 04:52:37",
       "album": {
         "name": "Depression Cherry",
         "url": "https://open.spotify.com/album/194CqC2Zi0kUFEPWedb3qr"
@@ -697,7 +721,7 @@
       "url": "https://open.spotify.com/track/7H0ya83CMmgFcOhw0UB6ow"
     },
     {
-      "added_at": "2024-08-20 15:16:49",
+      "added_at": "2026-11-25 04:52:37",
       "album": {
         "name": "Chanel",
         "url": "https://open.spotify.com/album/6OGzmhzHcjf0uN9j7dYvZH"
@@ -713,7 +737,7 @@
       "url": "https://open.spotify.com/track/6Nle9hKrkL1wQpwNfEkxjh"
     },
     {
-      "added_at": "2024-08-20 15:16:49",
+      "added_at": "2026-11-25 04:52:37",
       "album": {
         "name": "American Teen",
         "url": "https://open.spotify.com/album/6kf46HbnYCZzP6rjvQHYzg"
@@ -729,7 +753,7 @@
       "url": "https://open.spotify.com/track/152lZdxL1OR0ZMW6KquMif"
     },
     {
-      "added_at": "2024-08-20 15:16:49",
+      "added_at": "2026-11-25 04:52:37",
       "album": {
         "name": "Dark Lane Demo Tapes",
         "url": "https://open.spotify.com/album/6OQ9gBfg5EXeNAEwGSs6jK"
@@ -749,7 +773,7 @@
       "url": "https://open.spotify.com/track/4wVOKKEHUJxHCFFNUWDn0B"
     },
     {
-      "added_at": "2024-08-20 15:16:49",
+      "added_at": "2026-11-25 04:52:37",
       "album": {
         "name": "Starboy",
         "url": "https://open.spotify.com/album/4AdZV63ycxFLF6Hcol0QnB"
@@ -769,7 +793,7 @@
       "url": "https://open.spotify.com/track/5gDWsRxpJ2lZAffh5p7K0w"
     },
     {
-      "added_at": "2024-08-20 15:16:49",
+      "added_at": "2026-11-25 04:52:37",
       "album": {
         "name": "Time",
         "url": "https://open.spotify.com/album/63TYyeXlBYoYKNvE6rT3hI"
@@ -785,7 +809,7 @@
       "url": "https://open.spotify.com/track/2LKOHdMsL0K9KwcPRlJK2v"
     },
     {
-      "added_at": "2024-08-20 15:16:49",
+      "added_at": "2026-11-25 04:52:37",
       "album": {
         "name": "Amala",
         "url": "https://open.spotify.com/album/54tInqO543zy0Y5F2VsUQI"
@@ -805,7 +829,7 @@
       "url": "https://open.spotify.com/track/2s4AcE9n80mSHl87lp4gIm"
     },
     {
-      "added_at": "2024-08-20 15:16:49",
+      "added_at": "2026-11-25 04:52:37",
       "album": {
         "name": "17",
         "url": "https://open.spotify.com/album/5VdyJkLe3yvOs0l4xXbWp0"
@@ -821,7 +845,7 @@
       "url": "https://open.spotify.com/track/7m9OqQk4RVRkw9JJdeAw96"
     },
     {
-      "added_at": "2024-08-20 15:16:49",
+      "added_at": "2026-11-25 04:52:37",
       "album": {
         "name": "Swimming",
         "url": "https://open.spotify.com/album/5wtE5aLX5r7jOosmPhJhhk"
@@ -837,23 +861,7 @@
       "url": "https://open.spotify.com/track/4gT3mNJA8lnlkYFqGZ8IA2"
     },
     {
-      "added_at": "2024-08-20 15:16:49",
-      "album": {
-        "name": "White Light",
-        "url": "https://open.spotify.com/album/0Iq6APTGuGPe875jV0rIw2"
-      },
-      "artists": [
-        {
-          "name": "Sidewalks and Skeletons",
-          "url": "https://open.spotify.com/artist/48nHO1cuTbpx4ELhChsxX1"
-        }
-      ],
-      "duration_ms": 207120,
-      "name": "Goth",
-      "url": "https://open.spotify.com/track/0uMZbmAAgOhdMrv25iPEH6"
-    },
-    {
-      "added_at": "2024-08-20 15:16:49",
+      "added_at": "2026-11-25 04:52:37",
       "album": {
         "name": "Discovery",
         "url": "https://open.spotify.com/album/2noRn2Aes5aoNVsU6iWThc"
@@ -869,7 +877,23 @@
       "url": "https://open.spotify.com/track/2LD2gT7gwAurzdQDQtILds"
     },
     {
-      "added_at": "2024-08-20 15:16:49",
+      "added_at": "2026-11-25 04:52:37",
+      "album": {
+        "name": "White Light",
+        "url": "https://open.spotify.com/album/0Iq6APTGuGPe875jV0rIw2"
+      },
+      "artists": [
+        {
+          "name": "Sidewalks and Skeletons",
+          "url": "https://open.spotify.com/artist/48nHO1cuTbpx4ELhChsxX1"
+        }
+      ],
+      "duration_ms": 207120,
+      "name": "Goth",
+      "url": "https://open.spotify.com/track/0uMZbmAAgOhdMrv25iPEH6"
+    },
+    {
+      "added_at": "2026-11-25 04:52:37",
       "album": {
         "name": "Beauty Behind The Madness",
         "url": "https://open.spotify.com/album/0P3oVJBFOv3TDXlYRhGL7s"
@@ -883,26 +907,6 @@
       "duration_ms": 348853,
       "name": "Acquainted",
       "url": "https://open.spotify.com/track/7uJH0YdSZL6psjxI6Xy08b"
-    },
-    {
-      "added_at": "2024-08-20 15:16:49",
-      "album": {
-        "name": "Over It",
-        "url": "https://open.spotify.com/album/1qgJNWnPIeK9rx7hF8JCPK"
-      },
-      "artists": [
-        {
-          "name": "Summer Walker",
-          "url": "https://open.spotify.com/artist/57LYzLEk2LcFghVwuWbcuS"
-        },
-        {
-          "name": "Bryson Tiller",
-          "url": "https://open.spotify.com/artist/2EMAnMvWE2eb56ToJVfCWs"
-        }
-      ],
-      "duration_ms": 143226,
-      "name": "Playing Games (with Bryson Tiller) - Extended Version",
-      "url": "https://open.spotify.com/track/2xyx0o4xNOLLjBSbOOdcbA"
     }
   ],
   "unique_name": "Night Drive",

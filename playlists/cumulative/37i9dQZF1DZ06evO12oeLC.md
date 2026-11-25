@@ -4,7 +4,7 @@
 
 > This is Yseult\. The essential tracks, all in one playlist.
 
-83 songs - 4 hr 40 min
+84 songs - 4 hr 43 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -66,6 +66,7 @@
 | [Nudes](https://open.spotify.com/track/71J6q9BTYhMT4JOjcH9ea1) | [Claire Laffut](https://open.spotify.com/artist/69zVBf7wk5vKWsTF7zE5CC), [Yseult](https://open.spotify.com/artist/1QsdzIKkTT5gDFj8GB1cIX) | [Bleu](https://open.spotify.com/album/6fpbdcvp2uiG3K28AaweQN) | 3:19 | 2024-10-21 |  |
 | [NÉON ROUGE](https://open.spotify.com/track/7EHd1uyYFyuhMR7l6aH074) | [Yseult](https://open.spotify.com/artist/1QsdzIKkTT5gDFj8GB1cIX) | [BRUT](https://open.spotify.com/album/71OaHl1RWXB6P82B6xFK44) | 3:50 | 2024-10-10 |  |
 | [ONE MORE TIME](https://open.spotify.com/track/2nDmt51NZoiDMCpoRdr00I) | [Yseult](https://open.spotify.com/artist/1QsdzIKkTT5gDFj8GB1cIX) | [ONE MORE TIME](https://open.spotify.com/album/5udFKmbffhWKbXaRDgCj1m) | 2:41 | 2026-09-27 | 2026-11-24 |
+| [ONE MORE TIME](https://open.spotify.com/track/7jiWy15v13zdnh5MOrPcQV) | [Yseult](https://open.spotify.com/artist/1QsdzIKkTT5gDFj8GB1cIX) | [FREAK](https://open.spotify.com/album/5L7khHmGgAqDmuiu1GKDm7) | 2:41 | 2026-11-25 |  |
 | [Pause](https://open.spotify.com/track/57TwkG6mUvWDZsEqARyeI2) | [Eddy de Pretto](https://open.spotify.com/artist/7rFugkk9ZvVB1zXHg8h0rj), [Yseult](https://open.spotify.com/artist/1QsdzIKkTT5gDFj8GB1cIX) | [À TOUS LES BÂTARDS](https://open.spotify.com/album/4RDBA4Eb8n6KDYzX3wBEeY) | 3:05 | 2024-10-10 |  |
 | [PERDUE](https://open.spotify.com/track/2DlyVL2X7vRpdJmGgaaSvC) | [Yseult](https://open.spotify.com/artist/1QsdzIKkTT5gDFj8GB1cIX) | [PERDUE](https://open.spotify.com/album/4Ufzf9AJAMF9jspkO09dRk) | 5:17 | 2024-10-10 |  |
 | [PETIT <3](https://open.spotify.com/track/6f0gMyXWn8vd4sDwA9xlNg) | [Yseult](https://open.spotify.com/artist/1QsdzIKkTT5gDFj8GB1cIX) | [MENTAL](https://open.spotify.com/album/2YYhXELGahnGRjZinTCHYg) | 3:12 | 2024-10-10 |  |
@@ -76,7 +77,7 @@
 | [Rouge](https://open.spotify.com/track/3WPqkwwH5VoqJl3enzLRW1) | [Yseult](https://open.spotify.com/artist/1QsdzIKkTT5gDFj8GB1cIX) | [Rouge](https://open.spotify.com/album/2YilVaWn16fz1CwBc8Q2XL) | 3:06 | 2024-10-10 |  |
 | [SEX YOURSELF](https://open.spotify.com/track/1M3FSIUhp5qMST1AQtzcbK) | [Yseult](https://open.spotify.com/artist/1QsdzIKkTT5gDFj8GB1cIX) | [FREAK](https://open.spotify.com/album/5L7khHmGgAqDmuiu1GKDm7) | 2:45 | 2026-11-03 | 2026-11-10 |
 | [SEXE](https://open.spotify.com/track/4qGD9cOlMERj0pKETRMiuF) | [Yseult](https://open.spotify.com/artist/1QsdzIKkTT5gDFj8GB1cIX) | [BRUT](https://open.spotify.com/album/71OaHl1RWXB6P82B6xFK44) | 6:55 | 2024-10-10 |  |
-| [SEXX](https://open.spotify.com/track/6xTiGLyxogKgMRwdXKYJF4) | [Yseult](https://open.spotify.com/artist/1QsdzIKkTT5gDFj8GB1cIX) | [FREAK](https://open.spotify.com/album/5L7khHmGgAqDmuiu1GKDm7) | 2:23 | 2026-11-02 |  |
+| [SEXX](https://open.spotify.com/track/6xTiGLyxogKgMRwdXKYJF4) | [Yseult](https://open.spotify.com/artist/1QsdzIKkTT5gDFj8GB1cIX) | [FREAK](https://open.spotify.com/album/5L7khHmGgAqDmuiu1GKDm7) | 2:23 | 2026-11-02 | 2026-11-25 |
 | [STUPID\(E\)](https://open.spotify.com/track/5Ldw3ME8Wy1SMhgSGCfEvt) | [Yseult](https://open.spotify.com/artist/1QsdzIKkTT5gDFj8GB1cIX) | [MENTAL](https://open.spotify.com/album/2YYhXELGahnGRjZinTCHYg) | 2:14 | 2024-10-10 | 2025-11-27 |
 | [SUICIDE](https://open.spotify.com/track/7JFtFblo18Jz5jBg5pnBMv) | [Yseult](https://open.spotify.com/artist/1QsdzIKkTT5gDFj8GB1cIX) | [MENTAL](https://open.spotify.com/album/2YYhXELGahnGRjZinTCHYg) | 3:26 | 2024-10-10 |  |
 | [Summer Love](https://open.spotify.com/track/7cib4iojUbgyEjwIaCEwol) | [Yseult](https://open.spotify.com/artist/1QsdzIKkTT5gDFj8GB1cIX) | [Yseult](https://open.spotify.com/album/4Pm7xjhoUbIL5dnEhEAENs) | 3:00 | 2024-10-10 |  |

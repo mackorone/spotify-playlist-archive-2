@@ -1,12 +1,12 @@
 {
   "description": "This is Chiquis. The essential tracks, all in one playlist.",
-  "num_followers": 6158,
+  "num_followers": 6157,
   "original_name": "This Is Chiquis",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "awIwgAAAAACtD9APvLSoT5xqhHN8MT4F",
+  "snapshot_id": "awOCAAAAAABRCrH/tNT2B+ZJ2H8BhFFW",
   "tracks": [
     {
       "added_at": null,
@@ -323,22 +323,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Abeja Reina",
-        "url": "https://open.spotify.com/album/1iwNDBPZyNFQ04gl7GcmXQ"
-      },
-      "artists": [
-        {
-          "name": "Chiquis",
-          "url": "https://open.spotify.com/artist/5QcHBpoxrY7vx3ulMKEvTS"
-        }
-      ],
-      "duration_ms": 183026,
-      "name": "A Lo Menso",
-      "url": "https://open.spotify.com/track/5JVXllbz06BpTbXbCRpplt"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Me Mocho Un Huevo",
         "url": "https://open.spotify.com/album/5ft1SODMyfZ15pYmC2QwwH"
       },
@@ -355,6 +339,22 @@
       "duration_ms": 136613,
       "name": "Me Mocho Un Huevo",
       "url": "https://open.spotify.com/track/0YIropGYKGLj4e864f9aPG"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Abeja Reina",
+        "url": "https://open.spotify.com/album/1iwNDBPZyNFQ04gl7GcmXQ"
+      },
+      "artists": [
+        {
+          "name": "Chiquis",
+          "url": "https://open.spotify.com/artist/5QcHBpoxrY7vx3ulMKEvTS"
+        }
+      ],
+      "duration_ms": 183026,
+      "name": "A Lo Menso",
+      "url": "https://open.spotify.com/track/5JVXllbz06BpTbXbCRpplt"
     },
     {
       "added_at": null,
@@ -623,6 +623,30 @@
     {
       "added_at": null,
       "album": {
+        "name": "Playlist",
+        "url": "https://open.spotify.com/album/6JI5RmK9DttfMZTWwVGV4x"
+      },
+      "artists": [
+        {
+          "name": "Chiquis",
+          "url": "https://open.spotify.com/artist/5QcHBpoxrY7vx3ulMKEvTS"
+        },
+        {
+          "name": "Ely Quintero",
+          "url": "https://open.spotify.com/artist/1Tgbk6apDUw1Vtg8qusImT"
+        },
+        {
+          "name": "Helen Ochoa",
+          "url": "https://open.spotify.com/artist/7oFVQdInQWD7GQRgWxSiHD"
+        }
+      ],
+      "duration_ms": 141373,
+      "name": "Las Destrampadas",
+      "url": "https://open.spotify.com/track/4R791ewd5qMWccXIqjGhJk"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "No Es S\u00f3lo Un Juego (The Official Concacaf Gold Cup 2023[TM] Theme)",
         "url": "https://open.spotify.com/album/7EtV6Wqr1xceSUfxYANlTM"
       },
@@ -651,30 +675,6 @@
       "duration_ms": 167066,
       "name": "No Es S\u00f3lo Un Juego - The Official Concacaf Gold Cup 2023[TM] Theme",
       "url": "https://open.spotify.com/track/7CKoaV13hpfEtlWQyvIe4N"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Playlist",
-        "url": "https://open.spotify.com/album/6JI5RmK9DttfMZTWwVGV4x"
-      },
-      "artists": [
-        {
-          "name": "Chiquis",
-          "url": "https://open.spotify.com/artist/5QcHBpoxrY7vx3ulMKEvTS"
-        },
-        {
-          "name": "Ely Quintero",
-          "url": "https://open.spotify.com/artist/1Tgbk6apDUw1Vtg8qusImT"
-        },
-        {
-          "name": "Helen Ochoa",
-          "url": "https://open.spotify.com/artist/7oFVQdInQWD7GQRgWxSiHD"
-        }
-      ],
-      "duration_ms": 141373,
-      "name": "Las Destrampadas",
-      "url": "https://open.spotify.com/track/4R791ewd5qMWccXIqjGhJk"
     },
     {
       "added_at": null,
@@ -715,22 +715,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Diamantes",
-        "url": "https://open.spotify.com/album/6gcSXc3n22hPhaBI94F9Ap"
-      },
-      "artists": [
-        {
-          "name": "Chiquis",
-          "url": "https://open.spotify.com/artist/5QcHBpoxrY7vx3ulMKEvTS"
-        }
-      ],
-      "duration_ms": 189586,
-      "name": "Brindaremos Por \u00c9l",
-      "url": "https://open.spotify.com/track/4xH6VqehWB9nVz8SebSYUP"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Playlist",
         "url": "https://open.spotify.com/album/6JI5RmK9DttfMZTWwVGV4x"
       },
@@ -747,6 +731,22 @@
       "duration_ms": 182986,
       "name": "Ticket De Salida",
       "url": "https://open.spotify.com/track/4wUuoBPPWrFvQsaNlrUvIq"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Diamantes",
+        "url": "https://open.spotify.com/album/6gcSXc3n22hPhaBI94F9Ap"
+      },
+      "artists": [
+        {
+          "name": "Chiquis",
+          "url": "https://open.spotify.com/artist/5QcHBpoxrY7vx3ulMKEvTS"
+        }
+      ],
+      "duration_ms": 189586,
+      "name": "Brindaremos Por \u00c9l",
+      "url": "https://open.spotify.com/track/4xH6VqehWB9nVz8SebSYUP"
     },
     {
       "added_at": null,
@@ -823,22 +823,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Abeja Reina",
-        "url": "https://open.spotify.com/album/1iwNDBPZyNFQ04gl7GcmXQ"
-      },
-      "artists": [
-        {
-          "name": "Chiquis",
-          "url": "https://open.spotify.com/artist/5QcHBpoxrY7vx3ulMKEvTS"
-        }
-      ],
-      "duration_ms": 193453,
-      "name": "De Contrabando",
-      "url": "https://open.spotify.com/track/0JjrgdBvSj3FpAVxBYQkf2"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "DIAMANTES VVS1",
         "url": "https://open.spotify.com/album/3GdwNPqgw9mhKbHT0PLEYf"
       },
@@ -851,6 +835,22 @@
       "duration_ms": 205533,
       "name": "Amor Propio",
       "url": "https://open.spotify.com/track/5WCl1F8tCPDECysU3yrwQ9"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Abeja Reina",
+        "url": "https://open.spotify.com/album/1iwNDBPZyNFQ04gl7GcmXQ"
+      },
+      "artists": [
+        {
+          "name": "Chiquis",
+          "url": "https://open.spotify.com/artist/5QcHBpoxrY7vx3ulMKEvTS"
+        }
+      ],
+      "duration_ms": 193453,
+      "name": "De Contrabando",
+      "url": "https://open.spotify.com/track/0JjrgdBvSj3FpAVxBYQkf2"
     },
     {
       "added_at": null,
@@ -891,22 +891,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Flores En Mi Alma",
-        "url": "https://open.spotify.com/album/1hVpAW53KRpFPDIDjRqv7E"
-      },
-      "artists": [
-        {
-          "name": "Chiquis",
-          "url": "https://open.spotify.com/artist/5QcHBpoxrY7vx3ulMKEvTS"
-        }
-      ],
-      "duration_ms": 173830,
-      "name": "PA' MI GENTE",
-      "url": "https://open.spotify.com/track/3iONWyHvMI3voU8zhzPU1t"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Janney",
         "url": "https://open.spotify.com/album/25X59yD47dtzAAq6bzXliA"
       },
@@ -923,6 +907,22 @@
       "duration_ms": 183679,
       "name": "ESP\u00cdRITU",
       "url": "https://open.spotify.com/track/3CJE62BhA4pHqwwr9UIOX7"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Flores En Mi Alma",
+        "url": "https://open.spotify.com/album/1hVpAW53KRpFPDIDjRqv7E"
+      },
+      "artists": [
+        {
+          "name": "Chiquis",
+          "url": "https://open.spotify.com/artist/5QcHBpoxrY7vx3ulMKEvTS"
+        }
+      ],
+      "duration_ms": 173830,
+      "name": "PA' MI GENTE",
+      "url": "https://open.spotify.com/track/3iONWyHvMI3voU8zhzPU1t"
     }
   ],
   "unique_name": "This Is Chiquis",

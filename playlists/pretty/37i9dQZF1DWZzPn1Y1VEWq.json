@@ -1,12 +1,12 @@
 {
   "description": "100 canciones de la \u00e9poca nost\u00e1lgica m\u00e1s reciente.",
-  "num_followers": 392756,
+  "num_followers": 392763,
   "original_name": "Los 2000 Argentina",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAACY1+Zw+k7YyzA8Hy5pzT9ULf8Ch",
+  "snapshot_id": "AAAAAGlLu0Qdys+xVcGe2Y5KYmpEurmy",
   "tracks": [
     {
       "added_at": "2026-06-26 15:38:11",
@@ -751,18 +751,18 @@
     {
       "added_at": "2026-06-26 15:38:11",
       "album": {
-        "name": "Esp\u00edritu",
-        "url": "https://open.spotify.com/album/2ZG0Q9JOUIcQGyDOFTAKYm"
+        "name": "Libertinaje",
+        "url": "https://open.spotify.com/album/4jvy4EtQG6BrW2FZewSZri"
       },
       "artists": [
         {
-          "name": "Mancha De Rolando",
-          "url": "https://open.spotify.com/artist/4DuhYdfd2jHMdaqYVYZp04"
+          "name": "Bersuit Vergarabat",
+          "url": "https://open.spotify.com/artist/6MxyNXnnmwQwdW2PD0gXYO"
         }
       ],
-      "duration_ms": 202360,
-      "name": "Chino",
-      "url": "https://open.spotify.com/track/3i22RR1yUia5ShKujgQcX3"
+      "duration_ms": 259813,
+      "name": "Sr. Cobranza",
+      "url": "https://open.spotify.com/track/0zXMZx9kvFO6x58JiIh4BJ"
     },
     {
       "added_at": "2026-06-26 15:38:11",
@@ -783,18 +783,18 @@
     {
       "added_at": "2026-06-26 15:38:11",
       "album": {
-        "name": "Libertinaje",
-        "url": "https://open.spotify.com/album/4jvy4EtQG6BrW2FZewSZri"
+        "name": "Esp\u00edritu",
+        "url": "https://open.spotify.com/album/2ZG0Q9JOUIcQGyDOFTAKYm"
       },
       "artists": [
         {
-          "name": "Bersuit Vergarabat",
-          "url": "https://open.spotify.com/artist/6MxyNXnnmwQwdW2PD0gXYO"
+          "name": "Mancha De Rolando",
+          "url": "https://open.spotify.com/artist/4DuhYdfd2jHMdaqYVYZp04"
         }
       ],
-      "duration_ms": 259813,
-      "name": "Sr. Cobranza",
-      "url": "https://open.spotify.com/track/0zXMZx9kvFO6x58JiIh4BJ"
+      "duration_ms": 202360,
+      "name": "Chino",
+      "url": "https://open.spotify.com/track/3i22RR1yUia5ShKujgQcX3"
     },
     {
       "added_at": "2026-06-26 15:38:11",
@@ -1287,22 +1287,6 @@
     {
       "added_at": "2026-06-26 15:38:11",
       "album": {
-        "name": "Influencia",
-        "url": "https://open.spotify.com/album/5Rgudh1IKSXYyKDVZuyyQu"
-      },
-      "artists": [
-        {
-          "name": "Charly Garc\u00eda",
-          "url": "https://open.spotify.com/artist/3jO7X5KupvwmWTHGtHgcgo"
-        }
-      ],
-      "duration_ms": 243840,
-      "name": "Tu Vicio",
-      "url": "https://open.spotify.com/track/3HaE5D0wBDeyf38f5w4CLa"
-    },
-    {
-      "added_at": "2026-06-26 15:38:11",
-      "album": {
         "name": "Turfshow",
         "url": "https://open.spotify.com/album/0znWJZ1tkHSKC94Ymxp2m7"
       },
@@ -1315,6 +1299,22 @@
       "duration_ms": 224293,
       "name": "Cuatro Personalidades",
       "url": "https://open.spotify.com/track/1kTLi5AdnjOWyJg7oJmi52"
+    },
+    {
+      "added_at": "2026-06-26 15:38:11",
+      "album": {
+        "name": "Influencia",
+        "url": "https://open.spotify.com/album/5Rgudh1IKSXYyKDVZuyyQu"
+      },
+      "artists": [
+        {
+          "name": "Charly Garc\u00eda",
+          "url": "https://open.spotify.com/artist/3jO7X5KupvwmWTHGtHgcgo"
+        }
+      ],
+      "duration_ms": 243840,
+      "name": "Tu Vicio",
+      "url": "https://open.spotify.com/track/3HaE5D0wBDeyf38f5w4CLa"
     },
     {
       "added_at": "2026-06-26 15:38:11",

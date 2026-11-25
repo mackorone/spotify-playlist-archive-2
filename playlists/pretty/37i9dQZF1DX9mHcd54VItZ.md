@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9mHcd54VItZ.md) - [plain]
 
 > The best new and classic South African Rock\. Cover: Spoegwolf
 
-[Spotify](https://open.spotify.com/user/spotify) - 28,939 likes - 50 songs - 2 hr 46 min
+[Spotify](https://open.spotify.com/user/spotify) - 28,941 likes - 50 songs - 2 hr 46 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -13,11 +13,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9mHcd54VItZ.md) - [plain]
 | 3 | [Sorry Oom](https://open.spotify.com/track/6EqZOxqlK1SKiZsPqdUM6e) | [Zaan Sonnekus](https://open.spotify.com/artist/1QsjWZGFjaIYKyvxaQUJuR) | [Sorry Oom](https://open.spotify.com/album/5Onmk1Xqtm9KufnrToxAeH) | 2:32 |
 | 4 | [not your wife](https://open.spotify.com/track/6vahp1JzG4nrgq7Acb2QLC) | [Coasters](https://open.spotify.com/artist/4VjyjBUcEwwx4xqtU359Ep) | [not your wife](https://open.spotify.com/album/5AjiZWW1elqJecfnCKMKUA) | 3:45 |
 | 5 | [Deurgeloop](https://open.spotify.com/track/0CEJVrupqmjRwIm5H9omnm) | [GSTRiNG](https://open.spotify.com/artist/7x8i7WdBTZtFV2VbvIoDM5) | [Deurgeloop](https://open.spotify.com/album/3qWUh5ai03IbqreJjTcwph) | 3:09 |
-| 6 | [Stadig](https://open.spotify.com/track/0CYKkA90kXsGRV5xLrWX6L) | [Rooksein](https://open.spotify.com/artist/0TX0T9VkzOTEjsdzi1a4nT), [Zaan Sonnekus](https://open.spotify.com/artist/1QsjWZGFjaIYKyvxaQUJuR) | [Stadig](https://open.spotify.com/album/7Edw5GZL5izoP3VbDyewf3) | 3:45 |
+| 6 | [NIE MÔRE NIE NOU](https://open.spotify.com/track/5WdHAbIFzTyy5lsL1jAasG) | [Die Heuwels Fantasties](https://open.spotify.com/artist/0FrkoXLOCHCWfMXw10Apxb) | [NIE MÔRE NIE NOU](https://open.spotify.com/album/4LpFTzqLouhqyFFYMjMUEv) | 2:38 |
 | 7 | [Make Me Believe](https://open.spotify.com/track/2BLc8yO5Rf6233hFynzg3y) | [RICKY](https://open.spotify.com/artist/1vsGHYgsUeGCF5SiR1Ghnj) | [Make Me Believe](https://open.spotify.com/album/3HZr1ltoGVr0Pb7ebclPsi) | 3:00 |
 | 8 | [Spoed](https://open.spotify.com/track/1ZCLFJW1acNaaObECCXHD6) | [Zaan Sonnekus](https://open.spotify.com/artist/1QsjWZGFjaIYKyvxaQUJuR) | [Spoed](https://open.spotify.com/album/73UtUb5VpmN7d7Pt10BTkA) | 2:30 |
 | 9 | [Manual Breather](https://open.spotify.com/track/0WB5I6Gw6KwXTJrgyyWIJt) | [Necklace](https://open.spotify.com/artist/3RkFtU3FhNX0NdCPCwmeML) | [Manual Breather](https://open.spotify.com/album/2bJjczjztOCAIv1UWjWR00) | 3:57 |
-| 10 | [NIE MÔRE NIE NOU](https://open.spotify.com/track/5WdHAbIFzTyy5lsL1jAasG) | [Die Heuwels Fantasties](https://open.spotify.com/artist/0FrkoXLOCHCWfMXw10Apxb) | [NIE MÔRE NIE NOU](https://open.spotify.com/album/4LpFTzqLouhqyFFYMjMUEv) | 2:38 |
+| 10 | [Stadig](https://open.spotify.com/track/0CYKkA90kXsGRV5xLrWX6L) | [Rooksein](https://open.spotify.com/artist/0TX0T9VkzOTEjsdzi1a4nT), [Zaan Sonnekus](https://open.spotify.com/artist/1QsjWZGFjaIYKyvxaQUJuR) | [Stadig](https://open.spotify.com/album/7Edw5GZL5izoP3VbDyewf3) | 3:45 |
 | 11 | [Wyk Engel Wyk](https://open.spotify.com/track/7LQrbK5X4CPZ56mGCBOHO5) | [Bcom](https://open.spotify.com/artist/3bQd2MsV4ArWPuryfZqwk3) | [Wyk Engel Wyk](https://open.spotify.com/album/0nTe2k94oqe4ovED5lyq2O) | 3:18 |
 | 12 | [Insecure Meisies](https://open.spotify.com/track/3DKD5cBeHWnLgXh60317vS) | [Zoé](https://open.spotify.com/artist/2J1JhQzNtZ3RURghA5aF65) | [Insecure Meisies](https://open.spotify.com/album/18J2iHoPYYYPci1BiNeR34) | 3:11 |
 | 13 | [Vlugteling](https://open.spotify.com/track/6rhIzSp4KslsMpEUtTLgdj) | [Die Heuwels Fantasties](https://open.spotify.com/artist/0FrkoXLOCHCWfMXw10Apxb) | [Vlugteling](https://open.spotify.com/album/6bmbl1gbnzMfYDqSRiUNuj) | 3:48 |
@@ -49,14 +49,14 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9mHcd54VItZ.md) - [plain]
 | 39 | [Die Liedjie Oor Die Meisie \(Ek Wil Jou Hê\)](https://open.spotify.com/track/0MshehIqq1LGLiTrIawSo2) | [Glaskas](https://open.spotify.com/artist/3mbYAsXro0k8Rvi9GrMPPn) | [Revolusie, Romantiek, Ruk en Rol](https://open.spotify.com/album/528vOlag3lv4aOPia804bY) | 2:55 |
 | 40 | [Mymer](https://open.spotify.com/track/2LtzQYD9iJVp7EUSwaRlxW) | [Die Poskantoor](https://open.spotify.com/artist/0vPS3ilc6X7awXt0XR2agO) | [Mymer](https://open.spotify.com/album/3dpFK0Q8g1nMC1RFu3CqKZ) | 3:00 |
 | 41 | [Sonskyn Vrou](https://open.spotify.com/track/30xeRzXZ2B8fm1T0TcPccl) | [Hendré Baard](https://open.spotify.com/artist/6NDra2KqYUcKw8ARhvbf9R) | [Sonskyn Vrou](https://open.spotify.com/album/5Hy6Ojdq7i5hzunCEoc1c1) | 4:26 |
-| 42 | [Hemel Op Die Platteland](https://open.spotify.com/track/5I3Az6oo2LaU1P8yvRk22d) | [Fokofpolisiekar](https://open.spotify.com/artist/7JL8PgOQe05PjPZtwBfR8x) | [As Jy Met Vuur Speel Sal Jy Brand](https://open.spotify.com/album/5gSfDHZrqgG02WCE30NRvM) | 2:39 |
-| 43 | [Elsie](https://open.spotify.com/track/2vwebWKn1FIRbrI3klfkRS) | [Die Heuwels Fantasties](https://open.spotify.com/artist/0FrkoXLOCHCWfMXw10Apxb) | [Elsie](https://open.spotify.com/album/3Inm3rJGrBONll3lU1Dfjg) | 2:36 |
+| 42 | [Elsie](https://open.spotify.com/track/2vwebWKn1FIRbrI3klfkRS) | [Die Heuwels Fantasties](https://open.spotify.com/artist/0FrkoXLOCHCWfMXw10Apxb) | [Elsie](https://open.spotify.com/album/3Inm3rJGrBONll3lU1Dfjg) | 2:36 |
+| 43 | [Hemel Op Die Platteland](https://open.spotify.com/track/5I3Az6oo2LaU1P8yvRk22d) | [Fokofpolisiekar](https://open.spotify.com/artist/7JL8PgOQe05PjPZtwBfR8x) | [As Jy Met Vuur Speel Sal Jy Brand](https://open.spotify.com/album/5gSfDHZrqgG02WCE30NRvM) | 2:39 |
 | 44 | [U Wanna?](https://open.spotify.com/track/7BPTBvp60w8GUxtl60uhxY) | [Coasters](https://open.spotify.com/artist/4VjyjBUcEwwx4xqtU359Ep) | [U Wanna?](https://open.spotify.com/album/5riz13sY3X0edT7ayWp86g) | 3:48 |
-| 45 | [Lego](https://open.spotify.com/track/7nyB4Ld3JW9cTC0zv3v3nJ) | [Sonder Onderbroeke](https://open.spotify.com/artist/3KKSiu6TyRnyTue7MDKvrx) | [Lego](https://open.spotify.com/album/4l1TvdGZXxYmCOHJyhgCf1) | 2:31 |
-| 46 | [F all ur Friends](https://open.spotify.com/track/6g4J7sNnIOyH3aJaUoDbh4) | [RJ Pasin](https://open.spotify.com/artist/3BTY807ipaaT6QHW1tHTt0), [ThxSoMch](https://open.spotify.com/artist/4MvZhE1iuzttcoyepkpfdF), [Internet Girl](https://open.spotify.com/artist/2eVTKG3Z5bbKk2OWMIe3iL) | [F all ur Friends](https://open.spotify.com/album/0NlgEBjbq2HaTRe8QYVzfV) | 2:19 |
+| 45 | [F all ur Friends](https://open.spotify.com/track/6g4J7sNnIOyH3aJaUoDbh4) | [RJ Pasin](https://open.spotify.com/artist/3BTY807ipaaT6QHW1tHTt0), [ThxSoMch](https://open.spotify.com/artist/4MvZhE1iuzttcoyepkpfdF), [Internet Girl](https://open.spotify.com/artist/2eVTKG3Z5bbKk2OWMIe3iL) | [F all ur Friends](https://open.spotify.com/album/0NlgEBjbq2HaTRe8QYVzfV) | 2:19 |
+| 46 | [Lego](https://open.spotify.com/track/7nyB4Ld3JW9cTC0zv3v3nJ) | [Sonder Onderbroeke](https://open.spotify.com/artist/3KKSiu6TyRnyTue7MDKvrx) | [Lego](https://open.spotify.com/album/4l1TvdGZXxYmCOHJyhgCf1) | 2:31 |
 | 47 | [Stellies \(feat\. Rooksein\)](https://open.spotify.com/track/5gwdkMm5nxMXUilAEADX76) | [ONS](https://open.spotify.com/artist/49NkWWXM4QGYMhiiZCCtNb), [Rooksein](https://open.spotify.com/artist/0TX0T9VkzOTEjsdzi1a4nT) | [Stellies \(feat\. Rooksein\)](https://open.spotify.com/album/7yIBnPs996KLu8Sx48GtAK) | 2:47 |
 | 48 | [Pikkewynstraat](https://open.spotify.com/track/6kHnBVq4migU2NmT7JUVPI) | [Zoé](https://open.spotify.com/artist/2J1JhQzNtZ3RURghA5aF65) | [Pikkewynstraat](https://open.spotify.com/album/3qP7RP6ZB8dG83L3FjLAv0) | 3:00 |
 | 49 | [Aksie Braai](https://open.spotify.com/track/52YuMNXCzmAPxFIh9d8aNc) | [Francois van Coke](https://open.spotify.com/artist/7pJtnZQLPJmqzVfdIz7eFF), [Hunter Kennedy](https://open.spotify.com/artist/1ZMCOQhfU6y2jzMHXooyKi) | [Aksie Braai](https://open.spotify.com/album/5wW3FOc9GTmnFTU736pV03) | 3:01 |
 | 50 | [Verloor Jouself](https://open.spotify.com/track/6gyapfzo41oTNPFLMBIgA4) | [GSTRiNG](https://open.spotify.com/artist/7x8i7WdBTZtFV2VbvIoDM5) | [Verloor Jouself](https://open.spotify.com/album/62W2COHw25v2dtuQ2bxwBV) | 2:15 |
 
-Snapshot ID: `AAAAAGt+hLZDKdnLrWWEGYSwfJTey3hN`
+Snapshot ID: `AAAAAEvqSWYBnpfwEkOgrg/dDsYLphxL`

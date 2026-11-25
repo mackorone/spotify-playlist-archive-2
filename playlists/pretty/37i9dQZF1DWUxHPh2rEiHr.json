@@ -1,12 +1,12 @@
 {
   "description": "Discover rhythmic crossover hits from cultures around the world. Cover: Daddy Yankee",
-  "num_followers": 504467,
+  "num_followers": 504466,
   "original_name": "Global X",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAOLW1e0voXWnJZ7YGyIjIJxSupdS",
+  "snapshot_id": "AAAAALqgwDe+/lmQEcr8kN211hKFHpv1",
   "tracks": [
     {
       "added_at": "2026-11-06 14:20:19",
@@ -483,18 +483,18 @@
     {
       "added_at": "2026-11-06 14:20:19",
       "album": {
-        "name": "Ruby",
-        "url": "https://open.spotify.com/album/1vWMw6pu3err6qqZzI3RhH"
+        "name": "afroLOVA 25'",
+        "url": "https://open.spotify.com/album/6j8S3AOIOXBR1qfd3n2wHm"
       },
       "artists": [
         {
-          "name": "JENNIE",
-          "url": "https://open.spotify.com/artist/250b0Wlc5Vk0CoUsaCY84M"
+          "name": "Rels B",
+          "url": "https://open.spotify.com/artist/2IMZYfNi21MGqxopj9fWx8"
         }
       ],
-      "duration_ms": 123517,
-      "name": "like JENNIE",
-      "url": "https://open.spotify.com/track/0fK7ie6XwGxQTIkpFoWkd1"
+      "duration_ms": 110495,
+      "name": "TU VAS SIN (fav)",
+      "url": "https://open.spotify.com/track/6uiQ0DqbXTBc8tl0AUKZkR"
     },
     {
       "added_at": "2026-11-06 14:20:19",
@@ -519,18 +519,18 @@
     {
       "added_at": "2026-11-06 14:20:19",
       "album": {
-        "name": "afroLOVA 25'",
-        "url": "https://open.spotify.com/album/6j8S3AOIOXBR1qfd3n2wHm"
+        "name": "Ruby",
+        "url": "https://open.spotify.com/album/1vWMw6pu3err6qqZzI3RhH"
       },
       "artists": [
         {
-          "name": "Rels B",
-          "url": "https://open.spotify.com/artist/2IMZYfNi21MGqxopj9fWx8"
+          "name": "JENNIE",
+          "url": "https://open.spotify.com/artist/250b0Wlc5Vk0CoUsaCY84M"
         }
       ],
-      "duration_ms": 110495,
-      "name": "TU VAS SIN (fav)",
-      "url": "https://open.spotify.com/track/6uiQ0DqbXTBc8tl0AUKZkR"
+      "duration_ms": 123517,
+      "name": "like JENNIE",
+      "url": "https://open.spotify.com/track/0fK7ie6XwGxQTIkpFoWkd1"
     },
     {
       "added_at": "2026-11-06 14:20:19",
@@ -1703,26 +1703,6 @@
     {
       "added_at": "2026-11-06 14:20:19",
       "album": {
-        "name": "Joven y Salvaje (with Bb trickz)",
-        "url": "https://open.spotify.com/album/7FfZfslQwa0TUrQkRFqeKk"
-      },
-      "artists": [
-        {
-          "name": "benny blanco",
-          "url": "https://open.spotify.com/artist/5CiGnKThu5ctn9pBxv7DGa"
-        },
-        {
-          "name": "Bb trickz",
-          "url": "https://open.spotify.com/artist/5QS9NAK4AgJPTcRe472pZA"
-        }
-      ],
-      "duration_ms": 122703,
-      "name": "Joven y Salvaje (with Bb trickz)",
-      "url": "https://open.spotify.com/track/2NyVUkfya4KZDw5qd4qWeZ"
-    },
-    {
-      "added_at": "2026-11-06 14:20:19",
-      "album": {
         "name": "Noventa (with J Balvin)",
         "url": "https://open.spotify.com/album/3XQBkWFSD3odoEKkMpPrjZ"
       },
@@ -1739,6 +1719,26 @@
       "duration_ms": 146700,
       "name": "Noventa (with J Balvin)",
       "url": "https://open.spotify.com/track/0QI0JAWUTBJhHq3b4QxeIp"
+    },
+    {
+      "added_at": "2026-11-06 14:20:19",
+      "album": {
+        "name": "Joven y Salvaje (with Bb trickz)",
+        "url": "https://open.spotify.com/album/7FfZfslQwa0TUrQkRFqeKk"
+      },
+      "artists": [
+        {
+          "name": "benny blanco",
+          "url": "https://open.spotify.com/artist/5CiGnKThu5ctn9pBxv7DGa"
+        },
+        {
+          "name": "Bb trickz",
+          "url": "https://open.spotify.com/artist/5QS9NAK4AgJPTcRe472pZA"
+        }
+      ],
+      "duration_ms": 122703,
+      "name": "Joven y Salvaje (with Bb trickz)",
+      "url": "https://open.spotify.com/track/2NyVUkfya4KZDw5qd4qWeZ"
     },
     {
       "added_at": "2026-11-06 14:20:19",
@@ -1815,6 +1815,26 @@
     {
       "added_at": "2026-11-06 14:20:19",
       "album": {
+        "name": "Teka (with Peso Pluma)",
+        "url": "https://open.spotify.com/album/4MGpOqMU3FlZ7li35laoBu"
+      },
+      "artists": [
+        {
+          "name": "DJ Snake",
+          "url": "https://open.spotify.com/artist/540vIaP2JwjQb9dm3aArA4"
+        },
+        {
+          "name": "Peso Pluma",
+          "url": "https://open.spotify.com/artist/12GqGscKJx3aE4t07u7eVZ"
+        }
+      ],
+      "duration_ms": 163809,
+      "name": "Teka (with Peso Pluma)",
+      "url": "https://open.spotify.com/track/555maXFEF9m0lE4UGRzCHk"
+    },
+    {
+      "added_at": "2026-11-06 14:20:19",
+      "album": {
         "name": "Alive",
         "url": "https://open.spotify.com/album/01D4KOudqfxOzPiQawG9PO"
       },
@@ -1835,26 +1855,6 @@
       "duration_ms": 192000,
       "name": "Alive",
       "url": "https://open.spotify.com/track/1dFbbBKiOn1LnldZUSaWQ8"
-    },
-    {
-      "added_at": "2026-11-06 14:20:19",
-      "album": {
-        "name": "Teka (with Peso Pluma)",
-        "url": "https://open.spotify.com/album/4MGpOqMU3FlZ7li35laoBu"
-      },
-      "artists": [
-        {
-          "name": "DJ Snake",
-          "url": "https://open.spotify.com/artist/540vIaP2JwjQb9dm3aArA4"
-        },
-        {
-          "name": "Peso Pluma",
-          "url": "https://open.spotify.com/artist/12GqGscKJx3aE4t07u7eVZ"
-        }
-      ],
-      "duration_ms": 163809,
-      "name": "Teka (with Peso Pluma)",
-      "url": "https://open.spotify.com/track/555maXFEF9m0lE4UGRzCHk"
     },
     {
       "added_at": "2026-11-06 14:20:19",

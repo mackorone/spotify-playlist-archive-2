@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaohnPXGkLv6.md) - [plain]
 
 > The essential Olivia Rodrigo tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,155,392 likes - 45 songs - 2 hr 33 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,155,937 likes - 45 songs - 2 hr 33 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -54,4 +54,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaohnPXGkLv6.md) - [plain]
 | 44 | [making the bed](https://open.spotify.com/track/5CscrLqFBgPfZR8fGtikov) | [Olivia Rodrigo](https://open.spotify.com/artist/1McMsnEElThX1knmY4oliG) | [GUTS](https://open.spotify.com/album/1xJHno7SmdVtZAtXbdbDZp) | 3:18 |
 | 45 | [teenage dream](https://open.spotify.com/track/7fesNTgTEMEH0ye8MOgEDY) | [Olivia Rodrigo](https://open.spotify.com/artist/1McMsnEElThX1knmY4oliG) | [GUTS](https://open.spotify.com/album/1xJHno7SmdVtZAtXbdbDZp) | 3:42 |
 
-Snapshot ID: `AAAAAB8WaV9GJSxJiiwa9aD+3JyTmOCO`
+Snapshot ID: `AAAAALhLcRjtGI8TR7K4K97L1xekVOKn`

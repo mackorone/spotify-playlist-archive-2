@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWXR7eYLCoKN.md) - [plain]
 
 > Sambinhas selecionados especialmente pra você curtir um dia de sol.
 
-[Spotify](https://open.spotify.com/user/spotify) - 170,708 likes - 100 songs - 5 hr 51 min
+[Spotify](https://open.spotify.com/user/spotify) - 170,719 likes - 100 songs - 5 hr 51 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -66,10 +66,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWXR7eYLCoKN.md) - [plain]
 | 56 | [Jura](https://open.spotify.com/track/3Uet0zyQWzgLCRBNTKmBgU) | [Orlandivo](https://open.spotify.com/artist/2vFK2xckKvQQfitvHxRvk0) | [A Chave do Sucesso](https://open.spotify.com/album/3DvT2KqKuuP8BWqLUl6wF1) | 2:22 |
 | 57 | [Indício de Amor](https://open.spotify.com/track/0vCeLhWpLbjUoHUy3pq0EL) | [Telê](https://open.spotify.com/artist/2o8rkPYB1LuAn1CfN0xjm1) | [Indício de Amor](https://open.spotify.com/album/27vtkCprC2mUoBnjYx96Vn) | 3:28 |
 | 58 | [Até Depois do Fim](https://open.spotify.com/track/2r8pQbeeV4JBluUo1mlvoo) | [Cleverson Luiz](https://open.spotify.com/artist/1qsMWW4u7KkD22SErIjogd) | [Até Depois do Fim](https://open.spotify.com/album/6NNBd6rbQFlqBbIReMBUHr) | 3:30 |
-| 59 | [Amor Segredo](https://open.spotify.com/track/28FOKdMnKbvcR5J6LGSOhp) | [Nilze Carvalho](https://open.spotify.com/artist/2bKdKvWKErRrUpSrLsDjyH) | [Amor Segredo](https://open.spotify.com/album/22VSxm6dbigc3jK1EimMJh) | 4:18 |
-| 60 | [Malandro \- Ao Vivo](https://open.spotify.com/track/54G9rpksU4kOftGuzvPErz) | [Elza Soares](https://open.spotify.com/artist/4cn4gMq0KXORHeYA45PcBi) | [Carioca da Gema \(Ao Vivo\)](https://open.spotify.com/album/4LNmMWxJoJ5xKoJLyX0iX5) | 4:16 |
-| 61 | [Juro Dar um Jeito](https://open.spotify.com/track/6m0S5YK4NpPRBc3T81c7xJ) | [Ivan da Gamboa](https://open.spotify.com/artist/4nqcYv4Trv1n6gCaQb6s4Z) | [Juro Dar um Jeito](https://open.spotify.com/album/2EMxlbU5HTOxPWRlnT1tQF) | 3:49 |
-| 62 | [Mercado das Flores](https://open.spotify.com/track/74qN03V0t4EYUM4cnjFdtd) | [Rodrigo Maranhão](https://open.spotify.com/artist/04r6DFJdJcb3qx9IPidegH) | [Mercado das Flores](https://open.spotify.com/album/61GPvMzsB5rWl3ADvybaup) | 3:10 |
+| 59 | [Malandro \- Ao Vivo](https://open.spotify.com/track/54G9rpksU4kOftGuzvPErz) | [Elza Soares](https://open.spotify.com/artist/4cn4gMq0KXORHeYA45PcBi) | [Carioca da Gema \(Ao Vivo\)](https://open.spotify.com/album/4LNmMWxJoJ5xKoJLyX0iX5) | 4:16 |
+| 60 | [Amor Segredo](https://open.spotify.com/track/28FOKdMnKbvcR5J6LGSOhp) | [Nilze Carvalho](https://open.spotify.com/artist/2bKdKvWKErRrUpSrLsDjyH) | [Amor Segredo](https://open.spotify.com/album/22VSxm6dbigc3jK1EimMJh) | 4:18 |
+| 61 | [Mercado das Flores](https://open.spotify.com/track/74qN03V0t4EYUM4cnjFdtd) | [Rodrigo Maranhão](https://open.spotify.com/artist/04r6DFJdJcb3qx9IPidegH) | [Mercado das Flores](https://open.spotify.com/album/61GPvMzsB5rWl3ADvybaup) | 3:10 |
+| 62 | [Juro Dar um Jeito](https://open.spotify.com/track/6m0S5YK4NpPRBc3T81c7xJ) | [Ivan da Gamboa](https://open.spotify.com/artist/4nqcYv4Trv1n6gCaQb6s4Z) | [Juro Dar um Jeito](https://open.spotify.com/album/2EMxlbU5HTOxPWRlnT1tQF) | 3:49 |
 | 63 | [Também Pede Bis](https://open.spotify.com/track/7ArxNzr5D7OvRqes0S8CHY) | [Pedro Miranda](https://open.spotify.com/artist/32ChsjOKXXZrpDI6aAPo5l) | [Também Pede Bis](https://open.spotify.com/album/5pqZHhdxpz9jo5shnKnV6D) | 2:51 |
 | 64 | [Dia De Glória](https://open.spotify.com/track/33zWdhvtorBDf3voIMVZe6) | [Fabiana Cozza](https://open.spotify.com/artist/4LRB7RihmGCUE9TYFH6151), [Leci Brandao](https://open.spotify.com/artist/5iiQvuDCnlXoK8iAhydW0u) | [Dia De Glória](https://open.spotify.com/album/6EV9tH0aYrzvnINZJQ55fH) | 4:02 |
 | 65 | [E o Mundo Não Se Acabou](https://open.spotify.com/track/5BCRmx6YhSQPkTEfYqP1HJ) | [Mimi Wankenne](https://open.spotify.com/artist/51iSaWnKKyErZIycs1wkds) | [E o Mundo Não Se Acabou](https://open.spotify.com/album/1TLy2lSg1430cRPxb1jB5A) | 2:04 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWXR7eYLCoKN.md) - [plain]
 | 99 | [Disseram Que Eu Voltei Americanizada \- Live 1992](https://open.spotify.com/track/7wxDeUTfCqoZf0ZaKFhcdN) | [Caetano Veloso](https://open.spotify.com/artist/7HGNYPmbDrMkylWqeFCOIQ) | [Circulado Vivo](https://open.spotify.com/album/0OLjXOG6wYYWfvFj049bGm) | 1:39 |
 | 100 | [Eu Sambo Mesmo](https://open.spotify.com/track/0klPaP1eBcBa8xiyJlFxyu) | [Roberta Sá](https://open.spotify.com/artist/4vKCAkbdulcqatglgbi5CG) | [Braseiro](https://open.spotify.com/album/68gOVD4JqF8KTtYF2SfZsr) | 3:18 |
 
-Snapshot ID: `AAAAANnkxXEn7Rulwm3e8dmigzWMf7vg`
+Snapshot ID: `AAAAAPMGV+6qHaxK16BFfEJwQSAXvHBP`

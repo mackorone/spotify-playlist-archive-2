@@ -4,7 +4,7 @@
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/2fdEf506uQJUK5dlS1HhNo">Dahi</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-174 songs - 10 hr 38 min
+175 songs - 10 hr 42 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -56,6 +56,7 @@
 | [Drunk \(feat\. 6LACK\)](https://open.spotify.com/track/06Y14QBRyzmPRqrswAfF4J) | [ScHoolboy Q](https://open.spotify.com/artist/5IcR3N7QB1j6KBL8eImZ8m), [6LACK](https://open.spotify.com/artist/4IVAbR2w4JJNJDDRFP3E83) | [CrasH Talk](https://open.spotify.com/album/3UTp6spxkyTdvsmJDPfb7n) | 3:32 | 2026-08-07 |  |
 | [Earth Girls](https://open.spotify.com/track/4fFW2R6sfxi83VumhTuKDa) | [Jesse Boykins III](https://open.spotify.com/artist/7N3L5HZxQqxWSfhrrTNI29) | [Bartholomew](https://open.spotify.com/album/4DCQ1KDwnkPgh5Yj1eMQGz) | 4:09 | 2026-08-07 |  |
 | [El Pleito](https://open.spotify.com/track/03tGrmMB0dvXPIflRCE8qL) | [Miguel](https://open.spotify.com/artist/360IAlyVv4PCEVjgyMZrxK) | [CAOS](https://open.spotify.com/album/2KKtiR6wEIINGF0p82NPRa) | 2:34 | 2026-08-07 |  |
+| [Eternal](https://open.spotify.com/track/7CyqGGsu0bV0fvwzQA7z9F) | [Shygirl](https://open.spotify.com/artist/3M3wTTCDwicRubwMyHyEDy) | [SWALLOW!](https://open.spotify.com/album/3dQzmmWFcow0z84wGW6RpD) | 3:36 | 2026-11-24 |  |
 | [Familiar Dreams](https://open.spotify.com/track/1Puye0dExeFoZvMJIaZGGG) | [Ravyn Lenae](https://open.spotify.com/artist/5RTLRtXjbXI2lSXc6jxlAz) | [Blue Island](https://open.spotify.com/album/7I4OxTeNnQgLalOEJZzBqG) | 2:53 | 2026-09-02 |  |
 | [Faster](https://open.spotify.com/track/7pPrI9EZNokodBQIgvo0BI) | [Kid Ink](https://open.spotify.com/artist/6KZDXtSj0SzGOV705nNeh3) | [Full Speed](https://open.spotify.com/album/0d8ZiQuUcHDzUkqz9PEn7j) | 2:27 | 2026-08-07 |  |
 | [Father Time \(feat\. Sampha\)](https://open.spotify.com/track/28qA8y1sz0FTuSapsCxNOG) | [Kendrick Lamar](https://open.spotify.com/artist/2YZyLoL8N0Wb9xBt1NhZWg), [Sampha](https://open.spotify.com/artist/2WoVwexZuODvclzULjPQtm) | [Mr\. Morale & The Big Steppers](https://open.spotify.com/album/79ONNoS4M9tfIA1mYLBYVX) | 3:42 | 2026-08-07 |  |

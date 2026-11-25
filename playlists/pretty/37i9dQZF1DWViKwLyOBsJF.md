@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWViKwLyOBsJF.md) - [plain]
 
 > Traditional Christmas songs for a classic festive feeling.
 
-[Spotify](https://open.spotify.com/user/spotify) - 85,775 likes - 66 songs - 3 hr 1 min
+[Spotify](https://open.spotify.com/user/spotify) - 86,010 likes - 66 songs - 3 hr 1 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -75,4 +75,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWViKwLyOBsJF.md) - [plain]
 | 65 | [Veni, veni Emmanuel \(Arr\. A\. Delmoni\)](https://open.spotify.com/track/2kMIPXDydaTNVdQFcWzYEF) | [Traditional](https://open.spotify.com/artist/1U5zgr455OGyIkLNXvDdrf), [Arturo Delmoni](https://open.spotify.com/artist/66ggVPZBWW6c7XFicO6lpv), [Alexander Romanul](https://open.spotify.com/artist/4PlVtpuMdsJFAN49f7Bxji), [Katherine Murdock](https://open.spotify.com/artist/5VBEOdleCWJQq05zXhuQzl), [Nathaniel Rosen](https://open.spotify.com/artist/27Uojc5MCLUmrCVZE3EL9O) | [A String Quartet Christmas](https://open.spotify.com/album/2PJKHy7JwR6vhlget6oZuU) | 2:22 |
 | 66 | [Let It Snow! Let It Snow! Let It Snow!](https://open.spotify.com/track/3vII7JHrjJvO03qPNVCPxS) | [Philip Grass](https://open.spotify.com/artist/1P6oBwSLIpnKBsIObVaIj1) | [Let It Snow! Let It Snow! Let It Snow!](https://open.spotify.com/album/2V6sj7alIbQBEcUtea5dsF) | 2:43 |
 
-Snapshot ID: `AAAAAHwNw2hIhLJ58blRIrGHI6noa3AC`
+Snapshot ID: `AAAAAOUDlcDRisjurAdjqLynJIRP+0jh`

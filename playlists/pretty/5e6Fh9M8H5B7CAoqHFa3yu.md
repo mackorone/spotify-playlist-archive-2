@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/5e6Fh9M8H5B7CAoqHFa3yu.md) - [plain]
 
 > forever young  playlist Spotify, our Music Free, playlist funny, playlist everytime, Playlist to Study, crisvola playlist spotify
 
-[Cristian Nevola](https://open.spotify.com/user/1188041238) - 361 likes - 2,910 songs - 7 day 1 hr 5 min
+[Cristian Nevola](https://open.spotify.com/user/1188041238) - 361 likes - 2,914 songs - 7 day 1 hr 19 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -2918,5 +2918,9 @@ pretty - [cumulative](/playlists/cumulative/5e6Fh9M8H5B7CAoqHFa3yu.md) - [plain]
 | 2908 | [Outra Dimensão](https://open.spotify.com/track/3gkD19XV88tMkcSg4rdPQy) | [Alezy](https://open.spotify.com/artist/3TBtpZozgCYPtqxkhJY6In), [Jenny Branches](https://open.spotify.com/artist/0BqVxNjV21NIf73Udep68x) | [Outra Dimensão](https://open.spotify.com/album/64x8yeEIQgkvRih104zPvx) | 2:53 |
 | 2909 | [Better Days](https://open.spotify.com/track/33lJ5jJEq7Uerw0gwnMRZ1) | [XGee](https://open.spotify.com/artist/3O63QS5bGscvAG6LMpmT7T) | [Better Days](https://open.spotify.com/album/2Y54jttYlCeFVOemy7LyEt) | 2:50 |
 | 2910 | [strange!](https://open.spotify.com/track/1ghrdMu33eFpiGQlxEm4kW) | [Wavediffraction](https://open.spotify.com/artist/76q0NXdh3xAMgtSVhmpHpd) | [strange!](https://open.spotify.com/album/3dCR2wuIZsgHtpRSaicUlt) | 2:14 |
+| 2911 | [Cement Truck](https://open.spotify.com/track/13oiBsrhrL246sIG01rC6K) | [Ethan Ice](https://open.spotify.com/artist/0nok7WTxJq1I27y8uSTNUW) | [Cement Truck](https://open.spotify.com/album/7mwlNtnLUOxhChr3WZ0606) | 4:31 |
+| 2912 | [The Wrong Side of Lost Creek Road](https://open.spotify.com/track/4i24GF3yF7Btw8tKoFGOup) | [TimJDean](https://open.spotify.com/artist/3LgStKz1Nr9W12CfPu1zBR) | [The Wrong Side of Lost Creek Road](https://open.spotify.com/album/5HcAv6kLeBytDJzU0wWbhh) | 2:48 |
+| 2913 | [Promise](https://open.spotify.com/track/2LU7YxQltA1D4wqIH3czqZ) | [Duarte Guelha](https://open.spotify.com/artist/7wUeIY5Du4ZoNo7dIxTdI8), [Ana Luísa](https://open.spotify.com/artist/4Bd9vnfeqJT6llA5oD1etP) | [Burn EP](https://open.spotify.com/album/4vIEM4CtVlXChNCeUjEaG2) | 2:41 |
+| 2914 | [Luna](https://open.spotify.com/track/2wq3wueOGylwRWuFOiPUGQ) | [DiverCounty](https://open.spotify.com/artist/6haCKefQwrqgAzCq7lbv90) | [Luna](https://open.spotify.com/album/0K2zQgvkrMAi4iyzHg7SRe) | 3:50 |
 
-Snapshot ID: `AAAMVslHO3MM5oJJKm35QkrAaGU5DHZQ`
+Snapshot ID: `AAAMWtN+FTLyjI1r8WVG6/dxsCM90Tvs`

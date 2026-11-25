@@ -1,12 +1,12 @@
 {
   "description": "Songs to soundtrack your love story, from butterflies and first kisses to bittersweet memories and everything in between.",
-  "num_followers": 1554647,
+  "num_followers": 1554447,
   "original_name": "Acoustic Love",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAJdOpvT1J3UVyhuaH0kaIbyH1Rkj",
+  "snapshot_id": "AAAAALz+ntxZghzPyy5ElEwEzLoCr7mq",
   "tracks": [
     {
       "added_at": "2025-06-26 15:53:58",
@@ -759,22 +759,6 @@
     {
       "added_at": "2025-06-26 15:53:58",
       "album": {
-        "name": "Golden (Acoustic)",
-        "url": "https://open.spotify.com/album/1UNOe4qTfiSoUNVtFKQ5br"
-      },
-      "artists": [
-        {
-          "name": "Becca Mancari",
-          "url": "https://open.spotify.com/artist/5n9jfCRA7AFY1JfYc5ZYK5"
-        }
-      ],
-      "duration_ms": 307312,
-      "name": "Golden (Acoustic)",
-      "url": "https://open.spotify.com/track/3tsrOkDmaJg60XJMkEmYpp"
-    },
-    {
-      "added_at": "2025-06-26 15:53:58",
-      "album": {
         "name": "Dead Leaves",
         "url": "https://open.spotify.com/album/0o2IV3vdXZPKlra69nlZNZ"
       },
@@ -787,6 +771,22 @@
       "duration_ms": 187036,
       "name": "Old Town",
       "url": "https://open.spotify.com/track/62wUcF268nKH9HcMaY247d"
+    },
+    {
+      "added_at": "2025-06-26 15:53:58",
+      "album": {
+        "name": "Golden (Acoustic)",
+        "url": "https://open.spotify.com/album/1UNOe4qTfiSoUNVtFKQ5br"
+      },
+      "artists": [
+        {
+          "name": "Becca Mancari",
+          "url": "https://open.spotify.com/artist/5n9jfCRA7AFY1JfYc5ZYK5"
+        }
+      ],
+      "duration_ms": 307312,
+      "name": "Golden (Acoustic)",
+      "url": "https://open.spotify.com/track/3tsrOkDmaJg60XJMkEmYpp"
     },
     {
       "added_at": "2025-06-26 15:53:58",

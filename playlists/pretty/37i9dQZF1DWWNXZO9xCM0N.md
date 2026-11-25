@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWNXZO9xCM0N.md) - [plain]
 
 > Para subir la temperatura\. Foto: Lebrón Brothers
 
-[Spotify](https://open.spotify.com/user/spotify) - 133,097 likes - 50 songs - 4 hr 27 min
+[Spotify](https://open.spotify.com/user/spotify) - 133,133 likes - 50 songs - 4 hr 27 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWNXZO9xCM0N.md) - [plain]
 | 49 | [Sabiduría](https://open.spotify.com/track/2Dk80FVOx8yfUhTUWsmNga) | [Orquesta Narvaez](https://open.spotify.com/artist/2KHXHxzeiRJN4cxyG5dzhj) | [Reincarnation](https://open.spotify.com/album/28XYByFxlXtbd7fIxOqCLM) | 5:20 |
 | 50 | [El Nazareno](https://open.spotify.com/track/7lwzSYCRvS6FxJR0PqCqz4) | [Ismael Rivera](https://open.spotify.com/artist/788HzQOFhN3mcDo0InBqbJ) | [La Herencia](https://open.spotify.com/album/7sCVHDM44OTJopiJJtVtIT) | 5:39 |
 
-Snapshot ID: `AAAAAK7kuiCUMj1r9lH4OEP9oKUTUoFN`
+Snapshot ID: `AAAAAJSbSmc5hB9fPk0RAoWg+T9/cool`

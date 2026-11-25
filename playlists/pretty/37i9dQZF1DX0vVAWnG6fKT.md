@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0vVAWnG6fKT.md) - [plain]
 
 > Classic Country from the Legends of the 1940's\. Where Hillbilly, Texas Swing and Bluegrass came together\. Cover: Ernest Tubb
 
-[Spotify](https://open.spotify.com/user/spotify) - 149,772 likes - 70 songs - 3 hr 10 min
+[Spotify](https://open.spotify.com/user/spotify) - 149,765 likes - 70 songs - 3 hr 10 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -28,8 +28,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0vVAWnG6fKT.md) - [plain]
 | 18 | [One Has My Name \(The Other Has My Heart\) \- 1948 Single](https://open.spotify.com/track/30S4lAJWRdFtgZJys5VoNW) | [Jimmy Wakely](https://open.spotify.com/artist/1bkPltv18ZrFr2IhEdIae5) | [Vintage Collections](https://open.spotify.com/album/0pvHJDiUCaXMKXafTh80wU) | 2:48 |
 | 19 | [Deck Of Cards](https://open.spotify.com/track/6n2XxkTKvSE6fUUkV8E0T0) | [Tex Ritter](https://open.spotify.com/artist/0m7gTbaLi5fM22MiRaRf7G) | [Capitol Collectors Series](https://open.spotify.com/album/2F6osXyQIGyFu4VOhH1nAV) | 3:05 |
 | 20 | [I Want to Be a Cowboy's Sweetheart](https://open.spotify.com/track/0vm8Va7eps0w4DlQ8QWjFd) | [Patsy Montana](https://open.spotify.com/artist/0I9aDRzQdpLnNbMEZM7RHG), [Prairie Ramblers](https://open.spotify.com/artist/6BULiiddM6bpoauWBhCW2W) | [Presenting Patsy Montana](https://open.spotify.com/album/1KDQrtoBwTKtM703tyQJ41) | 3:10 |
-| 21 | [Tennessee Waltz](https://open.spotify.com/track/2fzQJzCsURVzw4luzqZPcw) | [Roy Acuff](https://open.spotify.com/artist/7heUyuJw3gZftFZRa1rV6M) | [The Essential Roy Acuff](https://open.spotify.com/album/37wOjBhzeA4FAHWk6z7FsM) | 2:54 |
-| 22 | [If You've Got the Money I've Got the Time](https://open.spotify.com/track/3N0jGYbGjlfxAPPOQ3m1x5) | [Lefty Frizzell](https://open.spotify.com/artist/05pAwLhsutiuj6gerEwGvU) | [Look What Thoughts Will Do](https://open.spotify.com/album/082Lg7YaKtzsScelrtfwdx) | 2:53 |
+| 21 | [If You've Got the Money I've Got the Time](https://open.spotify.com/track/3N0jGYbGjlfxAPPOQ3m1x5) | [Lefty Frizzell](https://open.spotify.com/artist/05pAwLhsutiuj6gerEwGvU) | [Look What Thoughts Will Do](https://open.spotify.com/album/082Lg7YaKtzsScelrtfwdx) | 2:53 |
+| 22 | [Tennessee Waltz](https://open.spotify.com/track/2fzQJzCsURVzw4luzqZPcw) | [Roy Acuff](https://open.spotify.com/artist/7heUyuJw3gZftFZRa1rV6M) | [The Essential Roy Acuff](https://open.spotify.com/album/37wOjBhzeA4FAHWk6z7FsM) | 2:54 |
 | 23 | [Old Shep](https://open.spotify.com/track/1EcZIKPxycGolcf0nvEvqf) | [Red Foley](https://open.spotify.com/artist/56tggwKsz5OqCDf1i0Str9) | [The Country Music Hall Of Fame](https://open.spotify.com/album/4nyc58AKKAPIDSuybSUfgQ) | 3:16 |
 | 24 | [Kentucky Waltz](https://open.spotify.com/track/44X3wBWJkqZucNHbYU6Wk9) | [Bill Monroe](https://open.spotify.com/artist/5CWbfANRpZbnxdstzcNg5H) | [Columbia Historic Edition](https://open.spotify.com/album/2pFMceiLK1uzEo9uDYPp5l) | 2:46 |
 | 25 | [Straighten Up And Fly Right](https://open.spotify.com/track/0NeSfkU8LFzgd3ICfSektq) | [Nat King Cole Trio](https://open.spotify.com/artist/3OpnoUqoRIHWbsFs4Nw0NQ) | [The Complete Capitol Recordings Of The Nat King Cole Trio](https://open.spotify.com/album/36r0NLy7NH4Z14enk0EvF4) | 2:26 |
@@ -55,10 +55,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0vVAWnG6fKT.md) - [plain]
 | 45 | [So, Round, So Firm, So Fully Packed](https://open.spotify.com/track/0OmEXfD8wnUDd5hCQktc5x) | [Johnny Bond](https://open.spotify.com/artist/3oY80B5wwJ7TH3inVejOQ0) | [The Very Best Of](https://open.spotify.com/album/79LDSEJQWGmsApFH2GG0Fr) | 2:58 |
 | 46 | [Mule Skinner Blues \(Blue Yodel \#8\)](https://open.spotify.com/track/5yCDZ1nxkdd8GOkU3rncjR) | [Bill Monroe & His Blue Grass Boys](https://open.spotify.com/artist/64vAECmFoB6mi7n1zTRwR8) | [The Essential Bill Monroe](https://open.spotify.com/album/3kAqAMODlj5rjUiqtzlrIo) | 2:41 |
 | 47 | [Divorce Me C.O.D.](https://open.spotify.com/track/1G2h2cFriv1KMHZ1rmfWnt) | [Merle Travis](https://open.spotify.com/artist/30SpGunnNpbbUL4IfkvC5q) | [The Merle Travis Story](https://open.spotify.com/album/04OriPpEtgl8y4wjO1qzX0) | 2:15 |
-| 48 | [Candy Kisses](https://open.spotify.com/track/4JJ1gdFvZVlnLW9QTKOaeO) | [George Morgan](https://open.spotify.com/artist/5qdAW04hszBSzncQhJyjXZ) | [The Columbia Singles Collection \(1949\-1964\)](https://open.spotify.com/album/482S22hQgNU0XOkZNODICb) | 2:52 |
+| 48 | [Tumbling Tumbleweeds](https://open.spotify.com/track/29IohmaYFMxVuHTUfBnDg3) | [Bing Crosby](https://open.spotify.com/artist/6ZjFtWeHP9XN7FeKSUe80S) | [My Favorite Country Songs](https://open.spotify.com/album/1W83zQvCTECzjAVi0byoUU) | 3:05 |
 | 49 | [Invisible Stripes](https://open.spotify.com/track/5m2aHtyWdsUMFPtpv6I6IQ) | [Eddie Noack](https://open.spotify.com/artist/69QgxPDHaeDRDMl6icLzCp) | [Psycho \- The K\-Ark and Allstar Recordings 1962\-1969](https://open.spotify.com/album/462l1oFisu47gbsvGv0tH6) | 2:20 |
 | 50 | [Heavy Traffic Ahead](https://open.spotify.com/track/3cRYM2V4teCLpVoF0pmrNr) | [Bill Monroe](https://open.spotify.com/artist/5CWbfANRpZbnxdstzcNg5H) | [Columbia Historic Edition](https://open.spotify.com/album/2pFMceiLK1uzEo9uDYPp5l) | 2:51 |
-| 51 | [Tumbling Tumbleweeds](https://open.spotify.com/track/29IohmaYFMxVuHTUfBnDg3) | [Bing Crosby](https://open.spotify.com/artist/6ZjFtWeHP9XN7FeKSUe80S) | [My Favorite Country Songs](https://open.spotify.com/album/1W83zQvCTECzjAVi0byoUU) | 3:05 |
+| 51 | [Candy Kisses](https://open.spotify.com/track/4JJ1gdFvZVlnLW9QTKOaeO) | [George Morgan](https://open.spotify.com/artist/5qdAW04hszBSzncQhJyjXZ) | [The Columbia Singles Collection \(1949\-1964\)](https://open.spotify.com/album/482S22hQgNU0XOkZNODICb) | 2:52 |
 | 52 | [My Window Faces the South](https://open.spotify.com/track/4SAvq8Fem0hqUlkP0dxXQ1) | [Bob Wills & His Texas Playboys](https://open.spotify.com/artist/0VyOgubdcDnrJ0AWL2TRDN) | [Classic Western Swing](https://open.spotify.com/album/0kA18wsVKRmpMdRcQj4gqX) | 2:08 |
 | 53 | [My Poncho Pony](https://open.spotify.com/track/6fd9C9eLf763fgUmAM7fu5) | [Patsy Montana](https://open.spotify.com/artist/0I9aDRzQdpLnNbMEZM7RHG) | [Presenting Patsy Montana](https://open.spotify.com/album/1KDQrtoBwTKtM703tyQJ41) | 2:54 |
 | 54 | [Slow Poke](https://open.spotify.com/track/0h45YvcNfRRpf5D34vVgOr) | [Pee Wee King & His Golden West Cowboys](https://open.spotify.com/artist/3iywlJzFl8iYgp3112qt31) | [Nippers 50's\-Vol.1](https://open.spotify.com/album/1qtqjUCRgbkkxWkbOKchJq) | 3:00 |
@@ -79,4 +79,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0vVAWnG6fKT.md) - [plain]
 | 69 | [Filipino Baby](https://open.spotify.com/track/0sclx7x70Oaa6q01P2hrI0) | [Cowboy Copas](https://open.spotify.com/artist/4szqhE3dT8nzYnlXYGwzmi) | [Filipino Baby](https://open.spotify.com/album/4mQELuXzBDI3wFmn7OaHCb) | 2:46 |
 | 70 | [Move It On Over](https://open.spotify.com/track/5tQwMi9LK7kkS9GgkF35nJ) | [Hank Williams](https://open.spotify.com/artist/1FClsNYBUoNFtGgzeG74dW) | [The Complete Hank Williams](https://open.spotify.com/album/6tQ1p5gjEujiZGAK10pY1f) | 2:43 |
 
-Snapshot ID: `AAAAAFyTFie3J1BiUvl1mxv+d7rzxoXK`
+Snapshot ID: `AAAAAFz13Mr9h47kooqI1QGOy1kNcaCr`

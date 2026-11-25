@@ -365,6 +365,24 @@
     },
     {
       "album": {
+        "name": "A Warm Tether",
+        "url": "https://open.spotify.com/album/1RNswy0rNbXbqFtyzDhIVR"
+      },
+      "artists": [
+        {
+          "name": "Ephemeral Bliss",
+          "url": "https://open.spotify.com/artist/61LkWlXQplKqKkhGPW9c8Y"
+        }
+      ],
+      "date_added": "2026-11-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 144000,
+      "name": "A Warm Tether",
+      "url": "https://open.spotify.com/track/7aHsPS6es0WiR9CPujurg4"
+    },
+    {
+      "album": {
         "name": "Aaraam Karo",
         "url": "https://open.spotify.com/album/3g2dLMTcAcpTqORAACWumB"
       },
@@ -1784,7 +1802,7 @@
       ],
       "date_added": "2025-03-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-25",
       "duration_ms": 192000,
       "name": "Aria of Dreams",
       "url": "https://open.spotify.com/track/074C3FRvFESm4NOZyB9sA2"
@@ -3606,7 +3624,7 @@
       ],
       "date_added": "2025-08-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-25",
       "duration_ms": 168000,
       "name": "Broken Light",
       "url": "https://open.spotify.com/track/5YRBE1L9p8f6vbk2IgCxmT"
@@ -4380,7 +4398,7 @@
       ],
       "date_added": "2025-09-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-25",
       "duration_ms": 139838,
       "name": "Cicada",
       "url": "https://open.spotify.com/track/2oUdK4260fzBiFlfp8RCde"
@@ -8621,6 +8639,24 @@
     },
     {
       "album": {
+        "name": "Faintest Trace",
+        "url": "https://open.spotify.com/album/5yNjXNvhaDYAmiqTuAUmpr"
+      },
+      "artists": [
+        {
+          "name": "Sollia",
+          "url": "https://open.spotify.com/artist/7eS01QL8g78yLpPmaZNglp"
+        }
+      ],
+      "date_added": "2026-11-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 156000,
+      "name": "Faintest Trace",
+      "url": "https://open.spotify.com/track/303xk9zvA3QGHiuiwawarE"
+    },
+    {
+      "album": {
         "name": "Faith",
         "url": "https://open.spotify.com/album/3WqSEp0zhscbo7VOEM8xGV"
       },
@@ -9381,6 +9417,24 @@
     },
     {
       "album": {
+        "name": "Fragile Evening Tide",
+        "url": "https://open.spotify.com/album/1ZJbakCBblaZEhPbtiwjN4"
+      },
+      "artists": [
+        {
+          "name": "Ava Mills",
+          "url": "https://open.spotify.com/artist/0hddNnCOE55jYZXTVyvEDj"
+        }
+      ],
+      "date_added": "2026-11-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 170400,
+      "name": "Fragile Evening Tide",
+      "url": "https://open.spotify.com/track/3SQi8dXqeuBCTTKSzjVEwr"
+    },
+    {
+      "album": {
         "name": "Fragmentless",
         "url": "https://open.spotify.com/album/6iOEGimRnya4Uccyu6BOHw"
       },
@@ -9630,6 +9684,24 @@
       "duration_ms": 236559,
       "name": "Gauean",
       "url": "https://open.spotify.com/track/50ZPTAib8pmhNbUirF8AAJ"
+    },
+    {
+      "album": {
+        "name": "Generosity",
+        "url": "https://open.spotify.com/album/1WLE9Ecis0fwQig8MKv5Xg"
+      },
+      "artists": [
+        {
+          "name": "Waves Of Sine",
+          "url": "https://open.spotify.com/artist/1Zg71yjBlaSt5KF93TDyxt"
+        }
+      ],
+      "date_added": "2026-11-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 171428,
+      "name": "Generosity",
+      "url": "https://open.spotify.com/track/0cWX5BpI0RCYd5NJuSsiIU"
     },
     {
       "album": {
@@ -11984,7 +12056,7 @@
       ],
       "date_added": "2025-12-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-25",
       "duration_ms": 154838,
       "name": "Interval",
       "url": "https://open.spotify.com/track/5O3kgNESJyMlVz0d2xwe1Y"
@@ -12492,6 +12564,24 @@
       "duration_ms": 182337,
       "name": "Langeland",
       "url": "https://open.spotify.com/track/6vZRJSlkmxAEDb51WeqZFC"
+    },
+    {
+      "album": {
+        "name": "Languor",
+        "url": "https://open.spotify.com/album/7nwXHQ4XjvJfrOMbKUt7ke"
+      },
+      "artists": [
+        {
+          "name": "Noor Bjarki",
+          "url": "https://open.spotify.com/artist/1LeHv963EtR4VE1ZeDRkW8"
+        }
+      ],
+      "date_added": "2026-11-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 159241,
+      "name": "Languor",
+      "url": "https://open.spotify.com/track/3Zz2J3aP5uXhuItjZ3RhCQ"
     },
     {
       "album": {
@@ -13396,6 +13486,24 @@
       "duration_ms": 138983,
       "name": "Lucens",
       "url": "https://open.spotify.com/track/2A2PrM5rdbQPHQIaDZnxCu"
+    },
+    {
+      "album": {
+        "name": "Lucid Fantasia",
+        "url": "https://open.spotify.com/album/543EbPOpYdHWC41PfqyVtQ"
+      },
+      "artists": [
+        {
+          "name": "Novula Cirrus",
+          "url": "https://open.spotify.com/artist/6WFPIo2HPDZpG1KSoZk1yk"
+        }
+      ],
+      "date_added": "2026-11-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 154500,
+      "name": "Lucid Fantasia",
+      "url": "https://open.spotify.com/track/3ZyCavjhA6pl7VDR5UjYqa"
     },
     {
       "album": {
@@ -18774,7 +18882,7 @@
       ],
       "date_added": "2025-12-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-25",
       "duration_ms": 180000,
       "name": "Satellite Path",
       "url": "https://open.spotify.com/track/6bMS9VbncfxfcoUwSr58zd"
@@ -19717,6 +19825,24 @@
     },
     {
       "album": {
+        "name": "Sisters of Stillness",
+        "url": "https://open.spotify.com/album/46VH6lNrGW3tg7tW2IIGIX"
+      },
+      "artists": [
+        {
+          "name": "Serena Luz",
+          "url": "https://open.spotify.com/artist/0lyBmKoTmeueaLpkxvivn8"
+        }
+      ],
+      "date_added": "2026-11-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 154108,
+      "name": "Sisters of Stillness",
+      "url": "https://open.spotify.com/track/6X07qxAgHL9g2Kfe0tILTI"
+    },
+    {
+      "album": {
         "name": "Skuggan",
         "url": "https://open.spotify.com/album/1aFQy0mpZg3R72JiInZ4S4"
       },
@@ -20401,6 +20527,24 @@
     },
     {
       "album": {
+        "name": "Solune",
+        "url": "https://open.spotify.com/album/0mKXwtkdhlpV4QTm2SgTdF"
+      },
+      "artists": [
+        {
+          "name": "Solar Sonar",
+          "url": "https://open.spotify.com/artist/1IPM2at5XQoDgESfcTi5M7"
+        }
+      ],
+      "date_added": "2026-11-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 151500,
+      "name": "Solune",
+      "url": "https://open.spotify.com/track/1mPn3mVFvgu4Yyflzysyuh"
+    },
+    {
+      "album": {
         "name": "Somae",
         "url": "https://open.spotify.com/album/0uroKcbnRPgLaz6xyksVFn"
       },
@@ -20848,6 +20992,24 @@
       "duration_ms": 170533,
       "name": "Star pulse",
       "url": "https://open.spotify.com/track/6C1sNN2KfYQ5Ephlfb6hmz"
+    },
+    {
+      "album": {
+        "name": "Stardust",
+        "url": "https://open.spotify.com/album/6cnya0qeKCwyQ53k3x3518"
+      },
+      "artists": [
+        {
+          "name": "Lomyen",
+          "url": "https://open.spotify.com/artist/08GLXrToYicR1Ms79HagTJ"
+        }
+      ],
+      "date_added": "2026-11-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 135483,
+      "name": "Stardust",
+      "url": "https://open.spotify.com/track/79I5gZkAaTnGghuajKZ3kP"
     },
     {
       "album": {
@@ -22108,6 +22270,24 @@
       "duration_ms": 217655,
       "name": "The Surname of Penton",
       "url": "https://open.spotify.com/track/4KjUpdQieoX0475pPHZBum"
+    },
+    {
+      "album": {
+        "name": "The Unseen Becoming",
+        "url": "https://open.spotify.com/album/0p1e2pOf0zXHvqDgf0ANlc"
+      },
+      "artists": [
+        {
+          "name": "Aura Veil",
+          "url": "https://open.spotify.com/artist/0N1zbTaCXUJXZBmAiILWl6"
+        }
+      ],
+      "date_added": "2026-11-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 156518,
+      "name": "The Unseen Becoming",
+      "url": "https://open.spotify.com/track/7oI3FcpBqTbH652BfsQFdZ"
     },
     {
       "album": {

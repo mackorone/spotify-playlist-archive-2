@@ -1,12 +1,12 @@
 {
   "description": "This is Phil Wickham. The essential tracks, all in one playlist.",
-  "num_followers": 68019,
+  "num_followers": 68028,
   "original_name": "This Is Phil Wickham",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "awIwgAAAAAB8nMJgbHkE91+mFPKjSN1B",
+  "snapshot_id": "awOCAAAAAACqgjap8vKwuhV4ABUY8onY",
   "tracks": [
     {
       "added_at": null,
@@ -411,38 +411,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Song Of The Saints",
-        "url": "https://open.spotify.com/album/2EENECQqPyRT1fsKVn5fbK"
-      },
-      "artists": [
-        {
-          "name": "Phil Wickham",
-          "url": "https://open.spotify.com/artist/5d1JhBfyb58upMXCZOdbQu"
-        }
-      ],
-      "duration_ms": 122626,
-      "name": "The Stand (Amen)",
-      "url": "https://open.spotify.com/track/2bFZNTrKGU2NovAq9tX6T2"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "I Believe",
-        "url": "https://open.spotify.com/album/3pp2YfqjfhCB8erfKpncIc"
-      },
-      "artists": [
-        {
-          "name": "Phil Wickham",
-          "url": "https://open.spotify.com/artist/5d1JhBfyb58upMXCZOdbQu"
-        }
-      ],
-      "duration_ms": 283986,
-      "name": "The Jesus Way",
-      "url": "https://open.spotify.com/track/5PVVQO4c7O3OjDhYXUBaoa"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Breathe On It",
         "url": "https://open.spotify.com/album/6MVFE0ur2YQDrG6Hdo5V0w"
       },
@@ -467,8 +435,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Hymn Of Heaven (Acoustic Sessions)",
-        "url": "https://open.spotify.com/album/2vo5O7TN9M2ukYs8ZmTNqj"
+        "name": "I Believe",
+        "url": "https://open.spotify.com/album/3pp2YfqjfhCB8erfKpncIc"
       },
       "artists": [
         {
@@ -476,9 +444,9 @@
           "url": "https://open.spotify.com/artist/5d1JhBfyb58upMXCZOdbQu"
         }
       ],
-      "duration_ms": 272391,
-      "name": "Reason I Sing - Acoustic",
-      "url": "https://open.spotify.com/track/43OioCdtXLa0YuS8tgBGAY"
+      "duration_ms": 283986,
+      "name": "The Jesus Way",
+      "url": "https://open.spotify.com/track/5PVVQO4c7O3OjDhYXUBaoa"
     },
     {
       "added_at": null,
@@ -492,15 +460,15 @@
           "url": "https://open.spotify.com/artist/5d1JhBfyb58upMXCZOdbQu"
         }
       ],
-      "duration_ms": 239666,
-      "name": "Running To A Runaway",
-      "url": "https://open.spotify.com/track/5LQ9sggtmciQlOQmV79wDA"
+      "duration_ms": 122626,
+      "name": "The Stand (Amen)",
+      "url": "https://open.spotify.com/track/2bFZNTrKGU2NovAq9tX6T2"
     },
     {
       "added_at": null,
       "album": {
-        "name": "I Believe",
-        "url": "https://open.spotify.com/album/3pp2YfqjfhCB8erfKpncIc"
+        "name": "Hymn Of Heaven (Acoustic Sessions)",
+        "url": "https://open.spotify.com/album/2vo5O7TN9M2ukYs8ZmTNqj"
       },
       "artists": [
         {
@@ -508,9 +476,9 @@
           "url": "https://open.spotify.com/artist/5d1JhBfyb58upMXCZOdbQu"
         }
       ],
-      "duration_ms": 258946,
-      "name": "Isn't He Good",
-      "url": "https://open.spotify.com/track/1nhxzfAFAw2ksi0Rajd693"
+      "duration_ms": 272391,
+      "name": "Reason I Sing - Acoustic",
+      "url": "https://open.spotify.com/track/43OioCdtXLa0YuS8tgBGAY"
     },
     {
       "added_at": null,
@@ -535,6 +503,38 @@
       "duration_ms": 208183,
       "name": "Why God - My God",
       "url": "https://open.spotify.com/track/4v3UsxasOoLT3BTMuJHKL3"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "I Believe",
+        "url": "https://open.spotify.com/album/3pp2YfqjfhCB8erfKpncIc"
+      },
+      "artists": [
+        {
+          "name": "Phil Wickham",
+          "url": "https://open.spotify.com/artist/5d1JhBfyb58upMXCZOdbQu"
+        }
+      ],
+      "duration_ms": 258946,
+      "name": "Isn't He Good",
+      "url": "https://open.spotify.com/track/1nhxzfAFAw2ksi0Rajd693"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Song Of The Saints",
+        "url": "https://open.spotify.com/album/2EENECQqPyRT1fsKVn5fbK"
+      },
+      "artists": [
+        {
+          "name": "Phil Wickham",
+          "url": "https://open.spotify.com/artist/5d1JhBfyb58upMXCZOdbQu"
+        }
+      ],
+      "duration_ms": 239666,
+      "name": "Running To A Runaway",
+      "url": "https://open.spotify.com/track/5LQ9sggtmciQlOQmV79wDA"
     },
     {
       "added_at": null,
@@ -707,6 +707,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Fear Has No Power",
+        "url": "https://open.spotify.com/album/6QKXUS981SnxMrwd6CkkOo"
+      },
+      "artists": [
+        {
+          "name": "Phil Wickham",
+          "url": "https://open.spotify.com/artist/5d1JhBfyb58upMXCZOdbQu"
+        }
+      ],
+      "duration_ms": 257266,
+      "name": "Fear Has No Power",
+      "url": "https://open.spotify.com/track/5Tsftbxui79a8Ccydcle46"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Worthy of My Song (Worthy of It All)",
         "url": "https://open.spotify.com/album/4JVfmmlngccdWTflavCEyu"
       },
@@ -731,22 +747,6 @@
       "duration_ms": 506796,
       "name": "Worthy of My Song (Worthy of It All)",
       "url": "https://open.spotify.com/track/4YFy1VOf7pV1PF6rSxiz1v"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Fear Has No Power",
-        "url": "https://open.spotify.com/album/6QKXUS981SnxMrwd6CkkOo"
-      },
-      "artists": [
-        {
-          "name": "Phil Wickham",
-          "url": "https://open.spotify.com/artist/5d1JhBfyb58upMXCZOdbQu"
-        }
-      ],
-      "duration_ms": 257266,
-      "name": "Fear Has No Power",
-      "url": "https://open.spotify.com/track/5Tsftbxui79a8Ccydcle46"
     },
     {
       "added_at": null,

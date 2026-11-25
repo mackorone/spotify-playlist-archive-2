@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYm3dUe8iSaq.md) - [plain]
 
 > Indie folk songs to help your worries get lost in the woods.
 
-[Spotify](https://open.spotify.com/user/spotify) - 323,428 likes - 80 songs - 5 hr 3 min
+[Spotify](https://open.spotify.com/user/spotify) - 323,411 likes - 80 songs - 5 hr 3 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -32,8 +32,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYm3dUe8iSaq.md) - [plain]
 | 22 | [Black Lung](https://open.spotify.com/track/3JxPW85spOn1SncxuLbpIY) | [Jonah Kagen](https://open.spotify.com/artist/5KsRA81UaMVKvLNiwDySfp) | [Sunflowers and Leather](https://open.spotify.com/album/6QpICdjsPyFcuCkb1M2i59) | 3:30 |
 | 23 | [In The Middle](https://open.spotify.com/track/3nmvNpobyMN4Ggw7tYcqSF) | [Mt\. Joy](https://open.spotify.com/artist/69tiO1fG8VWduDl3ji2qhI), [Gigi Perez](https://open.spotify.com/artist/1iCnM8foFssWlPRLfAbIwo) | [Hope We Have Fun](https://open.spotify.com/album/3r5ik8QohUa56zacmEyAdb) | 2:59 |
 | 24 | [Liberty Tree](https://open.spotify.com/track/6KrQFqTPua1s1Thfx6US7V) | [Phoebe Bridgers](https://open.spotify.com/artist/1r1uxoy19fzMxunt3ONAkG) | [Lost Weekend](https://open.spotify.com/album/2NSzwyYvQvdOQAoEjrlw9c) | 3:17 |
-| 25 | [You \(feat\. Hermanos Gutiérrez\)](https://open.spotify.com/track/3r14cTnRNBAXpYfRorUFa7) | [RY X](https://open.spotify.com/artist/2KjAo6wVc9d2WcxdxSArpV), [Hermanos Gutiérrez](https://open.spotify.com/artist/73mSg0dykFyhvU96tb5xQV) | [You](https://open.spotify.com/album/6S6kcUY7R7rzpxzcIMUzMd) | 3:26 |
-| 26 | [Memories of You](https://open.spotify.com/track/549g6ZLChDhj00ZX59k7jM) | [Oliver John](https://open.spotify.com/artist/68yndBHqn50bOeN3VgkBaB) | [Memories of You](https://open.spotify.com/album/43AJbPSvGRgOgdQe4kPPpa) | 2:38 |
+| 25 | [Memories of You](https://open.spotify.com/track/549g6ZLChDhj00ZX59k7jM) | [Oliver John](https://open.spotify.com/artist/68yndBHqn50bOeN3VgkBaB) | [Memories of You](https://open.spotify.com/album/43AJbPSvGRgOgdQe4kPPpa) | 2:38 |
+| 26 | [You \(feat\. Hermanos Gutiérrez\)](https://open.spotify.com/track/3r14cTnRNBAXpYfRorUFa7) | [RY X](https://open.spotify.com/artist/2KjAo6wVc9d2WcxdxSArpV), [Hermanos Gutiérrez](https://open.spotify.com/artist/73mSg0dykFyhvU96tb5xQV) | [You](https://open.spotify.com/album/6S6kcUY7R7rzpxzcIMUzMd) | 3:26 |
 | 27 | [Rattlesnake \(feat\. Zach Bryan\)](https://open.spotify.com/track/5yzAaKGdD6HwTxeXcdyNxY) | [Jack Van Cleaf](https://open.spotify.com/artist/7nW46aJfNHxK9Y3M5Dhadk), [Zach Bryan](https://open.spotify.com/artist/40ZNYROS4zLfyyBSs2PGe2) | [Rattlesnake \(feat\. Zach Bryan\)](https://open.spotify.com/album/0r6gpU19hrB3SgR91N9vH0) | 4:53 |
 | 28 | [I Can and I Will](https://open.spotify.com/track/3veBdtlaLO4NH8ZkGyriU4) | [Searows](https://open.spotify.com/artist/0nugNBwdWaptgIAsEtx1It) | [End Of The World](https://open.spotify.com/album/0yZgstl288CsPgZaS0wmVz) | 6:29 |
 | 29 | [Hey Ma](https://open.spotify.com/track/5TrhGhn9uOojpLeT35Qged) | [Aaron Rowe](https://open.spotify.com/artist/1wskVZXoUsbxB5mBhR9Oke) | [Hey Ma](https://open.spotify.com/album/0QxqcLCbgMcfzzKFWdU1mi) | 4:00 |
@@ -49,8 +49,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYm3dUe8iSaq.md) - [plain]
 | 39 | [Dark Eyed Sailor](https://open.spotify.com/track/5dzk2Upt3yF2uDThmsqeJX) | [Olivia Chaney](https://open.spotify.com/artist/0IRzm0TuehkXRBVKNzSX7e) | [Dark Eyed Sailor](https://open.spotify.com/album/1R4KuR0eEdoQH6c9SokpsH) | 5:10 |
 | 40 | [Never, No Not Once](https://open.spotify.com/track/0L3RnOmyfM0MrrzNbmWZ25) | [John Vincent III](https://open.spotify.com/artist/1sgVcCMCarG7yWGmkP9wMb) | [Never, No Not Once](https://open.spotify.com/album/2EWNa21zaKt0KNM70d6ynB) | 4:58 |
 | 41 | [Gloria](https://open.spotify.com/track/0zKdnh2MYbxhFpqZi2VprC) | [Kingfishr](https://open.spotify.com/artist/6c2qQFq3xfxFJndX6wSe4f) | [Halcyon](https://open.spotify.com/album/6qozXyj0x4k9gvSuKm6Jlq) | 3:38 |
-| 42 | [System](https://open.spotify.com/track/15mRJR5eMKMtV3e5fU2aDE) | [Foy Vance](https://open.spotify.com/artist/4bUqnkrDrb4f7rqmDR9yDu) | [Signs of Life](https://open.spotify.com/album/4MOkPB90s3AsnbjNmGJ5x2) | 3:53 |
-| 43 | [Upstate](https://open.spotify.com/track/0Tg8POtTUlEH9xNobmoade) | [Brenn!](https://open.spotify.com/artist/74slMAMk8L6oMf6OhNyZ8Q) | [Upstate](https://open.spotify.com/album/2XDV7BTvNQvgGaJLTHHEF9) | 4:24 |
+| 42 | [Upstate](https://open.spotify.com/track/0Tg8POtTUlEH9xNobmoade) | [Brenn!](https://open.spotify.com/artist/74slMAMk8L6oMf6OhNyZ8Q) | [Upstate](https://open.spotify.com/album/2XDV7BTvNQvgGaJLTHHEF9) | 4:24 |
+| 43 | [System](https://open.spotify.com/track/15mRJR5eMKMtV3e5fU2aDE) | [Foy Vance](https://open.spotify.com/artist/4bUqnkrDrb4f7rqmDR9yDu) | [Signs of Life](https://open.spotify.com/album/4MOkPB90s3AsnbjNmGJ5x2) | 3:53 |
 | 44 | [You Pt\. 2](https://open.spotify.com/track/1u4727ZsHw1maP8y9YbIQo) | [Racing Mount Pleasant](https://open.spotify.com/artist/5zaSiNpGxS2lOvZTIZiOQX) | [Racing Mount Pleasant](https://open.spotify.com/album/037axs2AfEPUD5LtjfFYSv) | 4:07 |
 | 45 | [Words](https://open.spotify.com/track/2Cxs2cLG7HoXfcAlw67yIy) | [Big Thief](https://open.spotify.com/artist/5QdyldG4Fl4TPiOIeMNpBZ) | [Double Infinity](https://open.spotify.com/album/1yEo1ZJE5ZgIF7LYrDTbMK) | 3:47 |
 | 46 | [You & We](https://open.spotify.com/track/5MD0n5OdhzQE8TGbGO0n7c) | [José González](https://open.spotify.com/artist/6xrCU6zdcSTsG2hLrojpmI) | [Against The Dying Of The Light](https://open.spotify.com/album/46XdK0AK5PmeummJN5fB6W) | 4:28 |
@@ -59,8 +59,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYm3dUe8iSaq.md) - [plain]
 | 49 | [If You Let Me \(with Marcus Mumford\)](https://open.spotify.com/track/5bUcjB7nT5sDHw3nMPpC1z) | [Maisie Peters](https://open.spotify.com/artist/2RVvqRBon9NgaGXKfywDSs), [Marcus Mumford](https://open.spotify.com/artist/3bYcjbVAN3rAuU3TMzw2mB) | [Florescence](https://open.spotify.com/album/0MOWqwwatV0LXDxhBZg5qO) | 3:13 |
 | 50 | [Shadow Of A Man](https://open.spotify.com/track/0pxeRv17TMp2uAPlqMpPep) | [Mumford & Sons](https://open.spotify.com/artist/3gd8FJtBJtkRxdfbTu19U2) | [Prizefighter](https://open.spotify.com/album/36tMC1BcEdVTX2YN5Ygg7k) | 3:43 |
 | 51 | [Don't Cry, Put Your Head On My Shoulder](https://open.spotify.com/track/7pIkx5eSiIqA4WPRK526Wf) | [Tom Odell](https://open.spotify.com/artist/2txHhyCwHjUEpJjWrEyqyX) | [Don't Cry, Put Your Head On My Shoulder](https://open.spotify.com/album/74xb3RB0NFdpxogUMihIlb) | 3:51 |
-| 52 | [Math of Us](https://open.spotify.com/track/1YRDethDX6AXDmzfZEFd7J) | [Patrick Droney](https://open.spotify.com/artist/78Rk1F0jGdipWWfrhyWwt3), [Kelsea Ballerini](https://open.spotify.com/artist/3RqBeV12Tt7A8xH3zBDDUF) | [Made You Look](https://open.spotify.com/album/7ccGOPW35JEq0BSLxKQ4Qg) | 3:45 |
-| 53 | [Wet Paint](https://open.spotify.com/track/2zQlb1LG6RITfwi2xb73cS) | [Girl In The Year Above](https://open.spotify.com/artist/1O7L4N5WMArmnOyDhuX5Y7) | [Wet Paint](https://open.spotify.com/album/1B6xwU3FKEMfvaqAktjWyR) | 4:05 |
+| 52 | [Wet Paint](https://open.spotify.com/track/2zQlb1LG6RITfwi2xb73cS) | [Girl In The Year Above](https://open.spotify.com/artist/1O7L4N5WMArmnOyDhuX5Y7) | [Wet Paint](https://open.spotify.com/album/1B6xwU3FKEMfvaqAktjWyR) | 4:05 |
+| 53 | [Math of Us](https://open.spotify.com/track/1YRDethDX6AXDmzfZEFd7J) | [Patrick Droney](https://open.spotify.com/artist/78Rk1F0jGdipWWfrhyWwt3), [Kelsea Ballerini](https://open.spotify.com/artist/3RqBeV12Tt7A8xH3zBDDUF) | [Made You Look](https://open.spotify.com/album/7ccGOPW35JEq0BSLxKQ4Qg) | 3:45 |
 | 54 | [Over \(feat\. Tom Odell\)](https://open.spotify.com/track/7pRx2dk34DHINRWCytBPm4) | [Sydney Rose](https://open.spotify.com/artist/5vx4pDmiFDyKMhuOIgpiRv), [Tom Odell](https://open.spotify.com/artist/2txHhyCwHjUEpJjWrEyqyX) | [Over](https://open.spotify.com/album/5ftBriC68ZmOzyVWecx1iK) | 3:49 |
 | 55 | [the way you do](https://open.spotify.com/track/2Sgz95fxgQYxDAS2yKJLGL) | [Vancouver Sleep Clinic](https://open.spotify.com/artist/77BznF1Dr1k5KyEZ6Nn3jB) | [valley of my prime](https://open.spotify.com/album/1UnbjUKJUVDSnRkaf2rnnc) | 3:27 |
 | 56 | [Wonderful Life](https://open.spotify.com/track/5phSRJKDo1ihkqbwNlSTVp) | [Tom Odell](https://open.spotify.com/artist/2txHhyCwHjUEpJjWrEyqyX) | [A Wonderful Life](https://open.spotify.com/album/5sjDYH0h22YYNEWiRw9IH5) | 3:48 |
@@ -85,8 +85,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYm3dUe8iSaq.md) - [plain]
 | 75 | [Girl Like You](https://open.spotify.com/track/6j4mDM1LbxbTpiLC7FBCDd) | [Paper Planes](https://open.spotify.com/artist/432wkHSzPV1QWA9A9Ioz6h) | [Forever](https://open.spotify.com/album/5QMbfVH8QFE6JhLNELYfEz) | 1:45 |
 | 76 | [Love In Reverse](https://open.spotify.com/track/0UFRS2HsHHTzzyu0gFp7hB) | [Seafret](https://open.spotify.com/artist/4Ly0KABsxlx4fNj63zJTrF) | [Love In Reverse](https://open.spotify.com/album/6iF9R5VvH6RHDLrFDU1Ll4) | 3:19 |
 | 77 | [Why Won't You Let Go](https://open.spotify.com/track/4ZZqwjLvcxfjJvGvopSwqt) | [Jackson Wooten](https://open.spotify.com/artist/0y7d3G52a49UExL70y2lkz) | [Why Won't You Let Go](https://open.spotify.com/album/3HACAmGm1xY89ytmyyMfSx) | 3:54 |
-| 78 | [God Has A Hitman](https://open.spotify.com/track/1oJlAQUHuNCytq5gptME2Z) | [Jensen McRae](https://open.spotify.com/artist/11dABkjSoOjcP9p3TFSNRj), [Brandi Carlile](https://open.spotify.com/artist/2sG4zTOLvjKG1PSoOyf5Ej) | [I Don't Know How But They Found Me...Again!](https://open.spotify.com/album/2waHNdcyBJsSKqGTPeSgYt) | 3:49 |
-| 79 | [Two Magpies](https://open.spotify.com/track/73L58g7uez4RppiC5EYMlG) | [Fink](https://open.spotify.com/artist/2t9yJDJIEtvPmr2iRIdqBf) | [The City Is Coming To Erase It All](https://open.spotify.com/album/5hyjzZQKXifH4Xa0gyc0F4) | 5:15 |
+| 78 | [Two Magpies](https://open.spotify.com/track/73L58g7uez4RppiC5EYMlG) | [Fink](https://open.spotify.com/artist/2t9yJDJIEtvPmr2iRIdqBf) | [The City Is Coming To Erase It All](https://open.spotify.com/album/5hyjzZQKXifH4Xa0gyc0F4) | 5:15 |
+| 79 | [God Has A Hitman](https://open.spotify.com/track/1oJlAQUHuNCytq5gptME2Z) | [Jensen McRae](https://open.spotify.com/artist/11dABkjSoOjcP9p3TFSNRj), [Brandi Carlile](https://open.spotify.com/artist/2sG4zTOLvjKG1PSoOyf5Ej) | [I Don't Know How But They Found Me...Again!](https://open.spotify.com/album/2waHNdcyBJsSKqGTPeSgYt) | 3:49 |
 | 80 | [the warmth](https://open.spotify.com/track/1xoSXJSDif51wZ2USZusbe) | [Paris Paloma](https://open.spotify.com/artist/2EXpthNgSeTDeX8nGwxppp) | [the warmth](https://open.spotify.com/album/40oxSP2IdI8XHlE3bJCxJy) | 4:30 |
 
-Snapshot ID: `AAAAAN3dgMXZ58NLJ52hggE9XdrMM0Tb`
+Snapshot ID: `AAAAAL2P6ku4KX7QPOH/6XUfXTuIkVKF`

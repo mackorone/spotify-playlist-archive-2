@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXx6OpWBkqVv.md) - [plain]
 
 > Você já dançou muito essas músicas num inferninho insalubre\. Foto: The Strokes
 
-[Spotify](https://open.spotify.com/user/spotify) - 604,781 likes - 50 songs - 3 hr 17 min
+[Spotify](https://open.spotify.com/user/spotify) - 604,714 likes - 50 songs - 3 hr 17 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -56,7 +56,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXx6OpWBkqVv.md) - [plain]
 | 46 | [Someday](https://open.spotify.com/track/56NkIxSZZiMpFP5ZNSxtnT) | [The Strokes](https://open.spotify.com/artist/0epOFNiUfyON9EYx7Tpr6V) | [Is This It](https://open.spotify.com/album/2yNaksHgeMQM9Quse463b5) | 3:03 |
 | 47 | [Alright](https://open.spotify.com/track/5xC8uOesnn0udeXAYlAnoY) | [Supergrass](https://open.spotify.com/artist/0sHeX8oQ6o7xic3wMf4NBU) | [I Should Coco](https://open.spotify.com/album/3YfIjaJEWqiSbKPguS9Bxd) | 3:00 |
 | 48 | [House Of Jealous Lovers](https://open.spotify.com/track/1bKffBd9glU944RMrWjjky) | [The Rapture](https://open.spotify.com/artist/166Dz1GX3xonSQ3Z6CQW26) | [Echoes](https://open.spotify.com/album/55TVi7WoeMxBOjqEGufOaf) | 5:04 |
-| 49 | [Banquet](https://open.spotify.com/track/2YxXuCdbUpil3P7tRjhW1t) | [Bloc Party](https://open.spotify.com/artist/3MM8mtgFzaEJsqbjZBSsHJ) | [Silent Alarm](https://open.spotify.com/album/0urhQCsjpczjC8zbTMtd8t) | 3:16 |
+| 49 | [Banquet](https://open.spotify.com/track/2YxXuCdbUpil3P7tRjhW1t) | [Bloc Party](https://open.spotify.com/artist/3MM8mtgFzaEJsqbjZBSsHJ) | [Silent Alarm](https://open.spotify.com/album/0urhQCsjpczjC8zbTMtd8t) | 3:21 |
 | 50 | [Can't Stand Me Now](https://open.spotify.com/track/71D4LseR0RADPbyvMeTIHR) | [The Libertines](https://open.spotify.com/artist/4fSPtBgFPZzygkY6MehwQ7) | [The Libertines](https://open.spotify.com/album/4Fpg7zSk9EdANLYiPXd7ri) | 3:23 |
 
-Snapshot ID: `AAAAAOtc2XpQFS6dEBSy+IV9tBR8tmyR`
+Snapshot ID: `AAAAAOf9bttUk5BnpuhxBihF6uu0kPYP`

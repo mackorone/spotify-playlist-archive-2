@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/4bPJzqdwVF3SMKYy9MzH5e.md) - [plain]
 
 > 
 
-[mg](https://open.spotify.com/user/yom8mary) - 1 like - 2,441 songs - 5 day 11 hr 0 min
+[mg](https://open.spotify.com/user/yom8mary) - 1 like - 2,442 songs - 5 day 11 hr 3 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -2449,5 +2449,6 @@ pretty - [cumulative](/playlists/cumulative/4bPJzqdwVF3SMKYy9MzH5e.md) - [plain]
 | 2439 | [The Race](https://open.spotify.com/track/3wGXyJGsCf1myH5MooQIqE) | [Tay\-K](https://open.spotify.com/artist/2ODbg2404zUzTi02qIPEjB) | [\#SantanaWorld \(+\)](https://open.spotify.com/album/1S7KWH0szrqutOvzsqxiBv) | 2:20 |
 | 2440 | [GBLFT1740065](https://open.spotify.com/track/55ZEwVKzdrMiR7Md5G2qwN) | [Aleksi Perälä](https://open.spotify.com/artist/3hjBVvW03HcmXfKUipv1Fx) | [Paradox](https://open.spotify.com/album/3QjcrzNPLkjfkzAQenjvL5) | 5:08 |
 | 2441 | [Multipass](https://open.spotify.com/track/3sk4Bi20KEGP87ZA2O1HFP) | [Estella Boersma](https://open.spotify.com/artist/4UCy3TOuu2eA6zNY50JQSV) | [Multipass](https://open.spotify.com/album/7m65wEvkCWtwiMbzzvKqsj) | 5:14 |
+| 2442 | [Headliner](https://open.spotify.com/track/4KDJfug28h0LbZpdJmC73S) | [Pretty Sick](https://open.spotify.com/artist/5JUGL6ec4eULQ5eVEbOC7e) | [Headliner](https://open.spotify.com/album/6JcCv9NZt9eqxPHtO9hnjl) | 3:12 |
 
-Snapshot ID: `AAAFkkWKlTo+uwV79hGIcVC46J02poAY`
+Snapshot ID: `AAAFk47/ivo5/Ayg/0Jqv3HM44sXgN9d`

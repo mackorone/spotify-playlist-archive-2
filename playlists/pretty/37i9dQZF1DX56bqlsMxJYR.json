@@ -1,12 +1,12 @@
 {
   "description": "Classic hits from the 50s and 60s.",
-  "num_followers": 1458859,
+  "num_followers": 1459008,
   "original_name": "Classic Oldies",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAOIbuUTgKMwQj/umzblDCwchh72M",
+  "snapshot_id": "AAAAAEyWgeMT+btDfB4Zcos1c3Tqb7Ql",
   "tracks": [
     {
       "added_at": "2024-07-12 06:11:58",
@@ -195,22 +195,6 @@
     {
       "added_at": "2024-07-12 06:11:58",
       "album": {
-        "name": "Happy Together",
-        "url": "https://open.spotify.com/album/2pMxs38Y5A0mmHrcu3twvB"
-      },
-      "artists": [
-        {
-          "name": "The Turtles",
-          "url": "https://open.spotify.com/artist/2VIoWte1HPDbZ2WqHd2La7"
-        }
-      ],
-      "duration_ms": 176293,
-      "name": "Happy Together",
-      "url": "https://open.spotify.com/track/1JO1xLtVc8mWhIoE3YaCL0"
-    },
-    {
-      "added_at": "2024-07-12 06:11:58",
-      "album": {
         "name": "Please Please Me (Remastered 2009)",
         "url": "https://open.spotify.com/album/3KzAvEXcqJKBF97HrXwlgf"
       },
@@ -223,6 +207,22 @@
       "duration_ms": 155226,
       "name": "Twist And Shout - Remastered 2009",
       "url": "https://open.spotify.com/track/5ZBeML7Lf3FMEVviTyvi8l"
+    },
+    {
+      "added_at": "2024-07-12 06:11:58",
+      "album": {
+        "name": "Happy Together",
+        "url": "https://open.spotify.com/album/2pMxs38Y5A0mmHrcu3twvB"
+      },
+      "artists": [
+        {
+          "name": "The Turtles",
+          "url": "https://open.spotify.com/artist/2VIoWte1HPDbZ2WqHd2La7"
+        }
+      ],
+      "duration_ms": 176293,
+      "name": "Happy Together",
+      "url": "https://open.spotify.com/track/1JO1xLtVc8mWhIoE3YaCL0"
     },
     {
       "added_at": "2024-07-12 06:11:58",
@@ -531,22 +531,6 @@
     {
       "added_at": "2024-07-12 06:11:58",
       "album": {
-        "name": "Surfin' USA (Remastered)",
-        "url": "https://open.spotify.com/album/6u5tGarzvESDsQiIpC4SlI"
-      },
-      "artists": [
-        {
-          "name": "The Beach Boys",
-          "url": "https://open.spotify.com/artist/3oDbviiivRWhXwIE8hxkVV"
-        }
-      ],
-      "duration_ms": 149373,
-      "name": "Surfin' U.S.A. - Remastered 2001",
-      "url": "https://open.spotify.com/track/0wz1LjDb9ZNEYwOmDJ3Q4b"
-    },
-    {
-      "added_at": "2024-07-12 06:11:58",
-      "album": {
         "name": "Hey Lover / Stand by Me",
         "url": "https://open.spotify.com/album/40RGCmiNjNqOAQjeMDdCWE"
       },
@@ -559,6 +543,22 @@
       "duration_ms": 144000,
       "name": "Hey Lover",
       "url": "https://open.spotify.com/track/0bhwnn2xqnBUcMZDcXNuII"
+    },
+    {
+      "added_at": "2024-07-12 06:11:58",
+      "album": {
+        "name": "Surfin' USA (Remastered)",
+        "url": "https://open.spotify.com/album/6u5tGarzvESDsQiIpC4SlI"
+      },
+      "artists": [
+        {
+          "name": "The Beach Boys",
+          "url": "https://open.spotify.com/artist/3oDbviiivRWhXwIE8hxkVV"
+        }
+      ],
+      "duration_ms": 149373,
+      "name": "Surfin' U.S.A. - Remastered 2001",
+      "url": "https://open.spotify.com/track/0wz1LjDb9ZNEYwOmDJ3Q4b"
     },
     {
       "added_at": "2024-07-12 06:11:58",
@@ -803,22 +803,6 @@
     {
       "added_at": "2024-07-12 06:11:58",
       "album": {
-        "name": "The Birds, The Bees, & The Monkees",
-        "url": "https://open.spotify.com/album/2Ov6zb7NfgDh3EXSIIWrb2"
-      },
-      "artists": [
-        {
-          "name": "The Monkees",
-          "url": "https://open.spotify.com/artist/320EPCSEezHt1rtbfwH6Ck"
-        }
-      ],
-      "duration_ms": 179613,
-      "name": "Daydream Believer",
-      "url": "https://open.spotify.com/track/7uEcCGtM1FBBGIhPozhJjv"
-    },
-    {
-      "added_at": "2024-07-12 06:11:58",
-      "album": {
         "name": "Nothing But The Best (2008 Remastered)",
         "url": "https://open.spotify.com/album/3i67sGIVw8EBlgfSRv3Lj2"
       },
@@ -835,6 +819,22 @@
       "duration_ms": 147520,
       "name": "Fly Me To The Moon - 2008 Remastered",
       "url": "https://open.spotify.com/track/7FXj7Qg3YorUxdrzvrcY25"
+    },
+    {
+      "added_at": "2024-07-12 06:11:58",
+      "album": {
+        "name": "The Birds, The Bees, & The Monkees",
+        "url": "https://open.spotify.com/album/2Ov6zb7NfgDh3EXSIIWrb2"
+      },
+      "artists": [
+        {
+          "name": "The Monkees",
+          "url": "https://open.spotify.com/artist/320EPCSEezHt1rtbfwH6Ck"
+        }
+      ],
+      "duration_ms": 179613,
+      "name": "Daydream Believer",
+      "url": "https://open.spotify.com/track/7uEcCGtM1FBBGIhPozhJjv"
     },
     {
       "added_at": "2024-07-12 06:11:58",
@@ -1047,22 +1047,6 @@
     {
       "added_at": "2024-07-12 06:11:58",
       "album": {
-        "name": "The Very Best of The Everly Brothers",
-        "url": "https://open.spotify.com/album/4lmdDGcU5u1xk3GCcVJSYT"
-      },
-      "artists": [
-        {
-          "name": "The Everly Brothers",
-          "url": "https://open.spotify.com/artist/4ACplpEqD6JIVgKrafauzs"
-        }
-      ],
-      "duration_ms": 143333,
-      "name": "All I Have to Do Is Dream",
-      "url": "https://open.spotify.com/track/7dblNGnRXEBrVJunazs2U5"
-    },
-    {
-      "added_at": "2024-07-12 06:11:58",
-      "album": {
         "name": "Buddy Holly",
         "url": "https://open.spotify.com/album/4Qy0SOU9Jg7Td10K68SanP"
       },
@@ -1079,6 +1063,22 @@
       "duration_ms": 129120,
       "name": "Everyday",
       "url": "https://open.spotify.com/track/39lnzOIUCSNaQmgBHoz7rt"
+    },
+    {
+      "added_at": "2024-07-12 06:11:58",
+      "album": {
+        "name": "The Very Best of The Everly Brothers",
+        "url": "https://open.spotify.com/album/4lmdDGcU5u1xk3GCcVJSYT"
+      },
+      "artists": [
+        {
+          "name": "The Everly Brothers",
+          "url": "https://open.spotify.com/artist/4ACplpEqD6JIVgKrafauzs"
+        }
+      ],
+      "duration_ms": 143333,
+      "name": "All I Have to Do Is Dream",
+      "url": "https://open.spotify.com/track/7dblNGnRXEBrVJunazs2U5"
     },
     {
       "added_at": "2024-07-12 06:11:58",
@@ -1195,18 +1195,18 @@
     {
       "added_at": "2024-07-12 06:11:58",
       "album": {
-        "name": "The Bang Years 1966-1968 (The 23 Original Mono Recordings)",
-        "url": "https://open.spotify.com/album/512ipXtdhwJF52NTT2yryo"
+        "name": "The Best of Sam Cooke",
+        "url": "https://open.spotify.com/album/2Dpw2XUAsBvuNdNLarNzz8"
       },
       "artists": [
         {
-          "name": "Neil Diamond",
-          "url": "https://open.spotify.com/artist/7mEIug7XUlQHikrFxjTWes"
+          "name": "Sam Cooke",
+          "url": "https://open.spotify.com/artist/6hnWRPzGGKiapVX1UCdEAC"
         }
       ],
-      "duration_ms": 180253,
-      "name": "Girl, You'll Be A Woman Soon",
-      "url": "https://open.spotify.com/track/1BmVQ5RGqqtF5cnsv6cQYu"
+      "duration_ms": 129061,
+      "name": "(What A) Wonderful World",
+      "url": "https://open.spotify.com/track/7N15WWy12QAMpGAh6QMAej"
     },
     {
       "added_at": "2024-07-12 06:11:58",
@@ -1227,18 +1227,18 @@
     {
       "added_at": "2024-07-12 06:11:58",
       "album": {
-        "name": "The Best of Sam Cooke",
-        "url": "https://open.spotify.com/album/2Dpw2XUAsBvuNdNLarNzz8"
+        "name": "The Bang Years 1966-1968 (The 23 Original Mono Recordings)",
+        "url": "https://open.spotify.com/album/512ipXtdhwJF52NTT2yryo"
       },
       "artists": [
         {
-          "name": "Sam Cooke",
-          "url": "https://open.spotify.com/artist/6hnWRPzGGKiapVX1UCdEAC"
+          "name": "Neil Diamond",
+          "url": "https://open.spotify.com/artist/7mEIug7XUlQHikrFxjTWes"
         }
       ],
-      "duration_ms": 129061,
-      "name": "(What A) Wonderful World",
-      "url": "https://open.spotify.com/track/7N15WWy12QAMpGAh6QMAej"
+      "duration_ms": 180253,
+      "name": "Girl, You'll Be A Woman Soon",
+      "url": "https://open.spotify.com/track/1BmVQ5RGqqtF5cnsv6cQYu"
     },
     {
       "added_at": "2024-07-12 06:11:58",
@@ -1451,8 +1451,8 @@
     {
       "added_at": "2024-07-12 06:11:58",
       "album": {
-        "name": "In the Midnight Hour",
-        "url": "https://open.spotify.com/album/1L6fHKTQAogglo3coyo8yU"
+        "name": "The Wicked Pickett",
+        "url": "https://open.spotify.com/album/6tdCKyx1g6XV5uzOWmkxSC"
       },
       "artists": [
         {
@@ -1460,9 +1460,9 @@
           "url": "https://open.spotify.com/artist/0N5PyKJzS3M1XNlaCL7bbE"
         }
       ],
-      "duration_ms": 157160,
-      "name": "In the Midnight Hour",
-      "url": "https://open.spotify.com/track/4NRQwaks9r58tTDvr4iEyv"
+      "duration_ms": 187760,
+      "name": "Mustang Sally",
+      "url": "https://open.spotify.com/track/5Sz09kaSzvpTC8lgm5W8Mt"
     },
     {
       "added_at": "2024-07-12 06:11:58",
@@ -1531,8 +1531,8 @@
     {
       "added_at": "2024-07-12 06:11:58",
       "album": {
-        "name": "The Wicked Pickett",
-        "url": "https://open.spotify.com/album/6tdCKyx1g6XV5uzOWmkxSC"
+        "name": "In the Midnight Hour",
+        "url": "https://open.spotify.com/album/1L6fHKTQAogglo3coyo8yU"
       },
       "artists": [
         {
@@ -1540,9 +1540,9 @@
           "url": "https://open.spotify.com/artist/0N5PyKJzS3M1XNlaCL7bbE"
         }
       ],
-      "duration_ms": 187760,
-      "name": "Mustang Sally",
-      "url": "https://open.spotify.com/track/5Sz09kaSzvpTC8lgm5W8Mt"
+      "duration_ms": 157160,
+      "name": "In the Midnight Hour",
+      "url": "https://open.spotify.com/track/4NRQwaks9r58tTDvr4iEyv"
     },
     {
       "added_at": "2024-07-12 06:11:58",
@@ -1707,22 +1707,6 @@
     {
       "added_at": "2024-07-12 06:11:58",
       "album": {
-        "name": "Sherry and 11 Other Hits",
-        "url": "https://open.spotify.com/album/18rFAAWrT2wzvWckYmoLnE"
-      },
-      "artists": [
-        {
-          "name": "Frankie Valli & The Four Seasons",
-          "url": "https://open.spotify.com/artist/6mcrZQmgzFGRWf7C0SObou"
-        }
-      ],
-      "duration_ms": 152160,
-      "name": "Sherry",
-      "url": "https://open.spotify.com/track/7sqK6f8dHVx3Q1GjFrVyGl"
-    },
-    {
-      "added_at": "2024-07-12 06:11:58",
-      "album": {
         "name": "I Will Follow Him",
         "url": "https://open.spotify.com/album/5R0M6bpjLmFutJBcFhqNlg"
       },
@@ -1735,6 +1719,22 @@
       "duration_ms": 148160,
       "name": "I Will Follow Him",
       "url": "https://open.spotify.com/track/3GQETOg4ZXyQ1jEFqfMoac"
+    },
+    {
+      "added_at": "2024-07-12 06:11:58",
+      "album": {
+        "name": "Sherry and 11 Other Hits",
+        "url": "https://open.spotify.com/album/18rFAAWrT2wzvWckYmoLnE"
+      },
+      "artists": [
+        {
+          "name": "Frankie Valli & The Four Seasons",
+          "url": "https://open.spotify.com/artist/6mcrZQmgzFGRWf7C0SObou"
+        }
+      ],
+      "duration_ms": 152160,
+      "name": "Sherry",
+      "url": "https://open.spotify.com/track/7sqK6f8dHVx3Q1GjFrVyGl"
     },
     {
       "added_at": "2024-07-12 06:11:58",

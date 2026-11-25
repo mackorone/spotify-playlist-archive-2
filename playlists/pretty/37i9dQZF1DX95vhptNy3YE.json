@@ -1,12 +1,12 @@
 {
   "description": "Ryan Fidelis e mais artistas da cultura preta brasileira, puxando o bonde pra geral ganhar o mund\u00e3o.",
-  "num_followers": 442109,
+  "num_followers": 442079,
   "original_name": "AMPLIFIKA",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAJqXoWOAbj/TbbHduFXLtvvLlq9j",
+  "snapshot_id": "AAAAAIbFHuOIBUmKLtyi5nPxalQArYvp",
   "tracks": [
     {
       "added_at": "2026-11-23 17:29:15",
@@ -651,6 +651,22 @@
     {
       "added_at": "2026-11-23 17:29:15",
       "album": {
+        "name": "ZAZA",
+        "url": "https://open.spotify.com/album/4wUsPVUyVmpw52IqkWfClM"
+      },
+      "artists": [
+        {
+          "name": "IZA",
+          "url": "https://open.spotify.com/artist/3zgnrYIltMkgeejmvMCnes"
+        }
+      ],
+      "duration_ms": 198175,
+      "name": "Zaza",
+      "url": "https://open.spotify.com/track/4DsxUkkPv7SPXTxMuVUW1A"
+    },
+    {
+      "added_at": "2026-11-23 17:29:15",
+      "album": {
         "name": "Como Descobrir",
         "url": "https://open.spotify.com/album/2ovQQ83IF43peVUyEeLjra"
       },
@@ -687,30 +703,6 @@
       "duration_ms": 167925,
       "name": "Fiz Quase Tudo - Ao Vivo",
       "url": "https://open.spotify.com/track/4hGOK7jRgsZAMb4w5VDnWU"
-    },
-    {
-      "added_at": "2026-11-23 17:29:15",
-      "album": {
-        "name": "EU SEI QUE N\u00c3O \u00c9 VERDADE",
-        "url": "https://open.spotify.com/album/6wp5YPmGAp8kWOTZZZWAMA"
-      },
-      "artists": [
-        {
-          "name": "Dnovaees",
-          "url": "https://open.spotify.com/artist/7DHre7bKPEWr38qMcFiwk3"
-        },
-        {
-          "name": "Yuri Redicopa",
-          "url": "https://open.spotify.com/artist/0pVJXCGsBydS7rq0R4w4hm"
-        },
-        {
-          "name": "GEXIS",
-          "url": "https://open.spotify.com/artist/0v6hypyGUeuKpNnNeL8APU"
-        }
-      ],
-      "duration_ms": 157612,
-      "name": "EU SEI QUE N\u00c3O \u00c9 VERDADE",
-      "url": "https://open.spotify.com/track/7BFHyreoRx5ZJclWmyYkWW"
     },
     {
       "added_at": "2026-11-23 17:29:15",
@@ -763,18 +755,26 @@
     {
       "added_at": "2026-11-23 17:29:15",
       "album": {
-        "name": "ZAZA",
-        "url": "https://open.spotify.com/album/4wUsPVUyVmpw52IqkWfClM"
+        "name": "EU SEI QUE N\u00c3O \u00c9 VERDADE",
+        "url": "https://open.spotify.com/album/6wp5YPmGAp8kWOTZZZWAMA"
       },
       "artists": [
         {
-          "name": "IZA",
-          "url": "https://open.spotify.com/artist/3zgnrYIltMkgeejmvMCnes"
+          "name": "Dnovaees",
+          "url": "https://open.spotify.com/artist/7DHre7bKPEWr38qMcFiwk3"
+        },
+        {
+          "name": "Yuri Redicopa",
+          "url": "https://open.spotify.com/artist/0pVJXCGsBydS7rq0R4w4hm"
+        },
+        {
+          "name": "GEXIS",
+          "url": "https://open.spotify.com/artist/0v6hypyGUeuKpNnNeL8APU"
         }
       ],
-      "duration_ms": 198175,
-      "name": "Zaza",
-      "url": "https://open.spotify.com/track/4DsxUkkPv7SPXTxMuVUW1A"
+      "duration_ms": 157612,
+      "name": "EU SEI QUE N\u00c3O \u00c9 VERDADE",
+      "url": "https://open.spotify.com/track/7BFHyreoRx5ZJclWmyYkWW"
     },
     {
       "added_at": "2026-11-23 17:29:15",
@@ -899,6 +899,26 @@
     {
       "added_at": "2026-11-23 17:29:15",
       "album": {
+        "name": "ZAZA",
+        "url": "https://open.spotify.com/album/4wUsPVUyVmpw52IqkWfClM"
+      },
+      "artists": [
+        {
+          "name": "IZA",
+          "url": "https://open.spotify.com/artist/3zgnrYIltMkgeejmvMCnes"
+        },
+        {
+          "name": "Rafa Chagas",
+          "url": "https://open.spotify.com/artist/5E6d0spG1AuXwfawbh02i9"
+        }
+      ],
+      "duration_ms": 244500,
+      "name": "Vis\u00e3o",
+      "url": "https://open.spotify.com/track/6g9JV5MY93ZaUd8n9kxxL4"
+    },
+    {
+      "added_at": "2026-11-23 17:29:15",
+      "album": {
         "name": "IRREFRE\u00c1VEL",
         "url": "https://open.spotify.com/album/37GSicVBksghz8FmLvrUiQ"
       },
@@ -971,26 +991,6 @@
     {
       "added_at": "2026-11-23 17:29:15",
       "album": {
-        "name": "ZAZA",
-        "url": "https://open.spotify.com/album/4wUsPVUyVmpw52IqkWfClM"
-      },
-      "artists": [
-        {
-          "name": "IZA",
-          "url": "https://open.spotify.com/artist/3zgnrYIltMkgeejmvMCnes"
-        },
-        {
-          "name": "Rafa Chagas",
-          "url": "https://open.spotify.com/artist/5E6d0spG1AuXwfawbh02i9"
-        }
-      ],
-      "duration_ms": 244500,
-      "name": "Vis\u00e3o",
-      "url": "https://open.spotify.com/track/6g9JV5MY93ZaUd8n9kxxL4"
-    },
-    {
-      "added_at": "2026-11-23 17:29:15",
-      "album": {
         "name": "A Pagodeira (Ao vivo)",
         "url": "https://open.spotify.com/album/61erIGUIWd2zHF7KTaR9Xx"
       },
@@ -1031,6 +1031,22 @@
     {
       "added_at": "2026-11-23 17:29:15",
       "album": {
+        "name": "De Volta Para 2002 (Ao Vivo)",
+        "url": "https://open.spotify.com/album/6cKomSWg0tv5pXH2QvA8bN"
+      },
+      "artists": [
+        {
+          "name": "Suel",
+          "url": "https://open.spotify.com/artist/4hpKB93agzoncsTXEstSpK"
+        }
+      ],
+      "duration_ms": 300150,
+      "name": "Para De Pirra\u00e7a / Toda Noite / \u00c9 No Pagode - Ao Vivo",
+      "url": "https://open.spotify.com/track/0Npl1sQuuiJxXYxKGN9Kn9"
+    },
+    {
+      "added_at": "2026-11-23 17:29:15",
+      "album": {
         "name": "Melhor Amiga do Tempo (com Maru2D)",
         "url": "https://open.spotify.com/album/6UkRen2khd0V2T2d5iponC"
       },
@@ -1047,22 +1063,6 @@
       "duration_ms": 150618,
       "name": "Melhor Amiga do Tempo (com Maru2D)",
       "url": "https://open.spotify.com/track/7KvSGi2vsTNM7O1dsrfTsK"
-    },
-    {
-      "added_at": "2026-11-23 17:29:15",
-      "album": {
-        "name": "De Volta Para 2002 (Ao Vivo)",
-        "url": "https://open.spotify.com/album/6cKomSWg0tv5pXH2QvA8bN"
-      },
-      "artists": [
-        {
-          "name": "Suel",
-          "url": "https://open.spotify.com/artist/4hpKB93agzoncsTXEstSpK"
-        }
-      ],
-      "duration_ms": 300150,
-      "name": "Para De Pirra\u00e7a / Toda Noite / \u00c9 No Pagode - Ao Vivo",
-      "url": "https://open.spotify.com/track/0Npl1sQuuiJxXYxKGN9Kn9"
     },
     {
       "added_at": "2026-11-23 17:29:15",
@@ -1091,26 +1091,6 @@
     {
       "added_at": "2026-11-23 17:29:15",
       "album": {
-        "name": "Foca em mim - Spotify Singles",
-        "url": "https://open.spotify.com/album/4Use2gMU5KB1uVS2Ejl6XN"
-      },
-      "artists": [
-        {
-          "name": "Ci\u00e7a",
-          "url": "https://open.spotify.com/artist/0lUYB8xnN8wbO41njBbep4"
-        },
-        {
-          "name": "Bruce Slim Beats",
-          "url": "https://open.spotify.com/artist/51SpeGvzKVZIxsQ13K37CD"
-        }
-      ],
-      "duration_ms": 131615,
-      "name": "Foca em mim - Spotify Singles",
-      "url": "https://open.spotify.com/track/3H6MZFtzwidLB7bKKaDZe7"
-    },
-    {
-      "added_at": "2026-11-23 17:29:15",
-      "album": {
         "name": "Dedo no Gatilho",
         "url": "https://open.spotify.com/album/1n9OIA7ekfipAY4l8oR5lG"
       },
@@ -1131,6 +1111,26 @@
       "duration_ms": 163764,
       "name": "Dedo no Gatilho",
       "url": "https://open.spotify.com/track/3wZMF4qdGh3wQoPi4dFuGa"
+    },
+    {
+      "added_at": "2026-11-23 17:29:15",
+      "album": {
+        "name": "Foca em mim - Spotify Singles",
+        "url": "https://open.spotify.com/album/4Use2gMU5KB1uVS2Ejl6XN"
+      },
+      "artists": [
+        {
+          "name": "Ci\u00e7a",
+          "url": "https://open.spotify.com/artist/0lUYB8xnN8wbO41njBbep4"
+        },
+        {
+          "name": "Bruce Slim Beats",
+          "url": "https://open.spotify.com/artist/51SpeGvzKVZIxsQ13K37CD"
+        }
+      ],
+      "duration_ms": 131615,
+      "name": "Foca em mim - Spotify Singles",
+      "url": "https://open.spotify.com/track/3H6MZFtzwidLB7bKKaDZe7"
     }
   ],
   "unique_name": "AMPLIFIKA",

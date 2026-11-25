@@ -1,12 +1,12 @@
 {
   "description": "lost in a haze",
-  "num_followers": 179444,
+  "num_followers": 179435,
   "original_name": "dazed",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAOrvAdH5Ua6rD6U4hbCohbBRpb5X",
+  "snapshot_id": "AAAAAJMjciYICveVlxcCspsbdjuCFWgM",
   "tracks": [
     {
       "added_at": "2025-11-13 16:46:16",
@@ -315,22 +315,18 @@
     {
       "added_at": "2025-11-13 16:46:16",
       "album": {
-        "name": "Ctrl",
-        "url": "https://open.spotify.com/album/76290XdXVF9rPzGdNRWdCh"
+        "name": "- Ugh, those feels again",
+        "url": "https://open.spotify.com/album/2OIMJ2Arm0dYpmWIfQOXTD"
       },
       "artists": [
         {
-          "name": "SZA",
-          "url": "https://open.spotify.com/artist/7tYKF4w9nC0nq9CsPZTHyP"
-        },
-        {
-          "name": "Isaiah Rashad",
-          "url": "https://open.spotify.com/artist/6aaMZ3fcfLv4tEbmY7bjRM"
+          "name": "Snoh Aalegra",
+          "url": "https://open.spotify.com/artist/1A9o3Ljt67pFZ89YtPPL5X"
         }
       ],
-      "duration_ms": 245929,
-      "name": "Pretty Little Birds (feat. Isaiah Rashad)",
-      "url": "https://open.spotify.com/track/1IgePMOW0qEe1AViWgkal9"
+      "duration_ms": 212787,
+      "name": "I Want You Around",
+      "url": "https://open.spotify.com/track/2gjidmxtA1pyj2HYrdOTG1"
     },
     {
       "added_at": "2025-11-13 16:46:16",
@@ -351,18 +347,22 @@
     {
       "added_at": "2025-11-13 16:46:16",
       "album": {
-        "name": "- Ugh, those feels again",
-        "url": "https://open.spotify.com/album/2OIMJ2Arm0dYpmWIfQOXTD"
+        "name": "Ctrl",
+        "url": "https://open.spotify.com/album/76290XdXVF9rPzGdNRWdCh"
       },
       "artists": [
         {
-          "name": "Snoh Aalegra",
-          "url": "https://open.spotify.com/artist/1A9o3Ljt67pFZ89YtPPL5X"
+          "name": "SZA",
+          "url": "https://open.spotify.com/artist/7tYKF4w9nC0nq9CsPZTHyP"
+        },
+        {
+          "name": "Isaiah Rashad",
+          "url": "https://open.spotify.com/artist/6aaMZ3fcfLv4tEbmY7bjRM"
         }
       ],
-      "duration_ms": 212787,
-      "name": "I Want You Around",
-      "url": "https://open.spotify.com/track/2gjidmxtA1pyj2HYrdOTG1"
+      "duration_ms": 245929,
+      "name": "Pretty Little Birds (feat. Isaiah Rashad)",
+      "url": "https://open.spotify.com/track/1IgePMOW0qEe1AViWgkal9"
     },
     {
       "added_at": "2025-11-13 16:46:16",

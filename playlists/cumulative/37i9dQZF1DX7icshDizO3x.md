@@ -4,7 +4,7 @@
 
 > 「Stray Kids World Tour ＜RUN IT JAPAN＞」のセットリストをスペシャルメッセージとあわせて公開！
 
-200 songs - 9 hr 38 min
+201 songs - 9 hr 41 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -104,6 +104,7 @@
 | [LALALALA](https://open.spotify.com/track/79f5CcWzdkkDVD4XAIQgKr) | [Stray Kids](https://open.spotify.com/artist/2dIgFjalVxs4ThymZ67YCE) | [ROCK\-STAR](https://open.spotify.com/album/5Gpx9ZnR6gLRb9qDmaj3mg) | 3:02 | 2024-04-04 |  |
 | [Leave](https://open.spotify.com/track/2zPqhdPGNCwzXnvSvj7WgD) | [Stray Kids](https://open.spotify.com/artist/2dIgFjalVxs4ThymZ67YCE) | [ROCK\-STAR](https://open.spotify.com/album/0aJnGEZWIc1VCYlZOXv05a) | 3:39 | 2024-04-04 | 2024-04-19 |
 | [Leave](https://open.spotify.com/track/6fZLf0RxpJ9TS3xk7U7woI) | [Stray Kids](https://open.spotify.com/artist/2dIgFjalVxs4ThymZ67YCE) | [ROCK\-STAR](https://open.spotify.com/album/5Gpx9ZnR6gLRb9qDmaj3mg) | 3:39 | 2024-04-04 | 2024-12-29 |
+| [Lonely Night](https://open.spotify.com/track/5IaDSdgvQp003f4RAzr6Da) | [Stray Kids](https://open.spotify.com/artist/2dIgFjalVxs4ThymZ67YCE) | [SUIATSU](https://open.spotify.com/album/67DGuV6YAyUMj9JEv2QMIA) | 3:12 | 2026-11-24 |  |
 | [Lonely St.](https://open.spotify.com/track/0KtKaZ0jNXOrHb3OxeXz9A) | [Stray Kids](https://open.spotify.com/artist/2dIgFjalVxs4ThymZ67YCE) | [ODDINARY](https://open.spotify.com/album/1byOOf9U3IiQN1cVHqRqEF) | 2:44 | 2024-12-28 | 2026-11-10 |
 | [Lonely St.](https://open.spotify.com/track/2xo84jGkxFPrZmmBtS3Pkd) | [Stray Kids](https://open.spotify.com/artist/2dIgFjalVxs4ThymZ67YCE) | [ODDINARY](https://open.spotify.com/album/0Gmf4pfe0POEQq2FgGAj2q) | 2:44 | 2023-02-28 | 2023-11-01 |
 | [Lose My Breath](https://open.spotify.com/track/1eB1JymprhH8QTLA8m1AsB) | [Stray Kids](https://open.spotify.com/artist/2dIgFjalVxs4ThymZ67YCE), [Charlie Puth](https://open.spotify.com/artist/6VuMaDnrHyPL1p4EHjYLi7) | [Lose My Breath](https://open.spotify.com/album/4sVlv4qektcY4zi9Osspbl) | 2:46 | 2024-11-10 | 2024-12-29 |

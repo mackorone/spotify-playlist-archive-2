@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1uG5byNIgDA.md) - [plain]
 
 > 행복하고 신나는 음악들과 함께 갓생을 시작해보세요! 출퇴근 길에 들으시면 더욱 좋습니다\. \(Kickstart your day with high\-energy vibes, the ultimate soundtrack for your hustle and commute.\)
 
-[Spotify](https://open.spotify.com/user/spotify) - 215,104 likes - 50 songs - 2 hr 26 min
+[Spotify](https://open.spotify.com/user/spotify) - 215,090 likes - 50 songs - 2 hr 26 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1uG5byNIgDA.md) - [plain]
 | 49 | [ABCD](https://open.spotify.com/track/0V2passWyAXnON67kfAj7y) | [NAYEON](https://open.spotify.com/artist/1VwDG9aBflQupaFNjUru9A) | [NA](https://open.spotify.com/album/5zQI9dFbS9TrhvC9clgjz7) | 2:42 |
 | 50 | [HOT SAUCE](https://open.spotify.com/track/3AjfuVk6olyesS7cVfofBE) | [BABYMONSTER](https://open.spotify.com/artist/1SIocsqdEefUTE6XKGUiVS) | [HOT SAUCE](https://open.spotify.com/album/5kTDyVVuvyPJZX1MlXiBvW) | 2:27 |
 
-Snapshot ID: `AAAAAFbP5DgECUUX3X+zx2g5mZ0Mit4U`
+Snapshot ID: `AAAAAJeaPXb/80FXRdKkeX6f/H2PMR+I`

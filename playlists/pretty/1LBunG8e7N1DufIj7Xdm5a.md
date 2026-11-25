@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/1LBunG8e7N1DufIj7Xdm5a.md) - [plain]
 
 > playlist spotify free
 
-[Cristian Nevola](https://open.spotify.com/user/1188041238) - 288 likes - 5,587 songs - 13 day 0 hr 28 min
+[Cristian Nevola](https://open.spotify.com/user/1188041238) - 288 likes - 5,591 songs - 13 day 0 hr 44 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -5595,5 +5595,9 @@ pretty - [cumulative](/playlists/cumulative/1LBunG8e7N1DufIj7Xdm5a.md) - [plain]
 | 5585 | [FEEL IT, SHOW IT!](https://open.spotify.com/track/02b0W9YNktf9gbiscmC6rt) | [Meester Do](https://open.spotify.com/artist/1FVbmIOPjODNt5IlM9r7vT) | [FEEL IT, SHOW IT!](https://open.spotify.com/album/1g9rwuBZYavKsdHgRiMItc) | 2:34 |
 | 5586 | [Memories](https://open.spotify.com/track/5w3BDwaQXAjYvKrpBDuwSn) | [Hotline](https://open.spotify.com/artist/63QwEh7zhIXBVV2TViF89I) | [Memories](https://open.spotify.com/album/5ei5rUUj6XCudY0xcqepWt) | 2:50 |
 | 5587 | [Sailing through the seas](https://open.spotify.com/track/6hrPdxv4KwueUnZSHW1dDO) | [DJAR3K](https://open.spotify.com/artist/5ALUe1gls6ACDZjlmpFRo8) | [Antarctica \(Chillout\)](https://open.spotify.com/album/3pNpxsAlvxLNxv20GhgbJj) | 5:34 |
+| 5588 | [Under The Jaded Sun](https://open.spotify.com/track/6EIoOjiBnnoR382xfX1FgF) | [Asylum Road](https://open.spotify.com/artist/6PFbmYMHD0zVYIDtR9ugg2) | [Under The Jaded Sun](https://open.spotify.com/album/5wibbTubk9ipe4Yblsm4bh) | 3:31 |
+| 5589 | [Errorzone](https://open.spotify.com/track/5eFI3Z10boOcLyJO4PnZ0F) | [Vein.fm](https://open.spotify.com/artist/5NU7mpGqMvlZpq63RajHOH) | [Errorzone](https://open.spotify.com/album/5KSIgVF5lx4JURkS50jRS9) | 4:15 |
+| 5590 | [Five Stars](https://open.spotify.com/track/1QswqzN2X2tC9cWYBymPnP) | [OUTLAW SOCIETY](https://open.spotify.com/artist/5mem2hI70zuwz2nkkUWWKQ) | [Five Stars](https://open.spotify.com/album/45Q6agfZoAo5zyWSoqptb0) | 3:52 |
+| 5591 | [Killer in Me](https://open.spotify.com/track/0jj4Zch9p9bWbyO1HlGST6) | [NitRo \- Tunes](https://open.spotify.com/artist/4jYkECQhDrMZPm8DNPafYP) | [Eternal Lights](https://open.spotify.com/album/71hEBDtxSuQswTT1E7Iszu) | 3:50 |
 
-Snapshot ID: `AAALIX7WSqaKtmHV5RscUTWqnDUdnx7T`
+Snapshot ID: `AAALJeef1xt1n/ATKGIwAoG9HqrJyNAa`

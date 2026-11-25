@@ -4,12 +4,13 @@
 
 > Smooth indie jazz joints from around the globe\. Cover: tickertape
 
-379 songs - 1 day 0 hr 38 min
+381 songs - 1 day 0 hr 45 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
 | [\(re\)Turn](https://open.spotify.com/track/1KRQUeWejtAvB4oZIeBMtI) | [Contour](https://open.spotify.com/artist/5eUhoxsPgFqAWSfOtwMNBF) | [Evening](https://open.spotify.com/album/3VosNIq1BsvkR9OzDlDoZ3) | 3:22 | 2024-10-04 | 2026-04-14 |
 | [6 Feet Down](https://open.spotify.com/track/4SPSgPUa4PphdcbE7TFaei) | [Tara Lily](https://open.spotify.com/artist/1bt3qLrv0clLAZStcQf4zy), [Theo Croker](https://open.spotify.com/artist/7iUF39q93Xixo33E6IvNYm) | [Speak In The Dark](https://open.spotify.com/album/0b13zZwIhnVC4ODUZh5ilo) | 2:48 | 2024-10-04 | 2025-07-05 |
+| [73](https://open.spotify.com/track/4XLJVCUlt3Gx00SX11RnWz) | [Crystal Murray](https://open.spotify.com/artist/2lRXAjsNoYGqyYkgHxk5OH) | [Anatomy of a Cry](https://open.spotify.com/album/04f1Six4RDzxB5OdzBIyPW) | 3:30 | 2026-11-24 |  |
 | [7PM](https://open.spotify.com/track/1dXG8xVXSiYmsfC5FqNPqk) | [Harrison](https://open.spotify.com/artist/0IbD9X6mgxyaIKT3aqzioT) | [Birds, Bees, The Clouds & The Trees](https://open.spotify.com/album/1YSgHnC5sdVXfT9E5fOUVJ) | 1:31 | 2023-08-10 | 2023-08-18 |
 | [80 Summers](https://open.spotify.com/track/5gK9lwZXKT4H1r95OkZd9q) | [John Roseboro](https://open.spotify.com/artist/0OTbmw4nbgWHiTyqhmz72s) | [80 Summers](https://open.spotify.com/album/4f26arqDYwDIG23p0R9ttB) | 3:20 | 2024-02-16 | 2025-08-16 |
 | [A Matter Of Fact](https://open.spotify.com/track/5OrTeeOw67AK6iBmpAuHaw) | [Bibio](https://open.spotify.com/artist/0qzzGu8qpbXYpzgV52wOFT) | [Sunbursting EP](https://open.spotify.com/album/5klM7eDsW550jwU1DXTxpV) | 3:00 | 2023-09-21 | 2025-08-16 |
@@ -190,6 +191,7 @@
 | [Landlord blues](https://open.spotify.com/track/4wiIAWolI7HefrUgehfAx6) | [SELL EVERYTHING](https://open.spotify.com/artist/3U5BOUTIws5YtSMemhKY87) | [Landlord blues](https://open.spotify.com/album/5RPLrYO2Xvp9r3jpquJilH) | 2:03 | 2024-10-25 |  |
 | [Last Laugh](https://open.spotify.com/track/307ZBrMJEoKG6khQpX0g4N) | [BADBADNOTGOOD](https://open.spotify.com/artist/65dGLGjkw3UbddUg2GKQoZ) | [Mid Spiral: Chaos](https://open.spotify.com/album/4jSXr6It6ARLX8iDOHbwaJ) | 3:08 | 2024-06-19 | 2024-08-17 |
 | [Last Words](https://open.spotify.com/track/3khWqd9n9x6U7UMDlXWxbm) | [NO ZU](https://open.spotify.com/artist/0ASJYABL9IBmNhXFXDuV5P) | [Last Words](https://open.spotify.com/album/11rsTNOr3mFKfGJ0JjtSJy) | 5:09 | 2023-09-21 | 2024-08-28 |
+| [Lavender Buds](https://open.spotify.com/track/3755f0ihUO09qh3dg7AH5A) | [El Michels Affair](https://open.spotify.com/artist/0cLrgpG3pW4MX4nD8h6qCc) | [Lavender Buds b/w Nettle Leaves](https://open.spotify.com/album/5iTPrPucPUw4QwEM8rCV5M) | 3:28 | 2026-11-24 |  |
 | [Lee’s Greenhouse \(feat\. Mei Semones\)](https://open.spotify.com/track/21tmsyOELNT4ZAjR4vAr3K) | [Dana and Alden](https://open.spotify.com/artist/6xKRT9Uw0XOxNsmWX2vNBr), [Mei Semones](https://open.spotify.com/artist/3Cp20KSVlMlFuOdqiqHFGR) | [Lee’s Greenhouse \(feat\. Mei Semones\)](https://open.spotify.com/album/5ggOmCNERfyCYg4k6iGoRi) | 3:55 | 2026-07-24 |  |
 | [Left Alone](https://open.spotify.com/track/2CpvQxnyIJGAMLONxm3nVz) | [Sunny Reyne](https://open.spotify.com/artist/1Y8CWWmtMweAE79z3jBTFp) | [I've Been Sleeping Too Long](https://open.spotify.com/album/6CVjLo57YuLIHP8kxiJbzV) | 4:27 | 2023-11-09 | 2025-03-01 |
 | [Les Feuilles Mortes](https://open.spotify.com/track/3hqapRZt0hi2Bn9tZyUqZl) | [Jacob Funch](https://open.spotify.com/artist/6kQJj57dZlRmY5afn18EmS), [Anders Christensen](https://open.spotify.com/artist/21LcuBnhMZZraq4AB6mgwM), [Mikkel Hess](https://open.spotify.com/artist/2dKB7nFUKZ2zs9kgyTA3Lq) | [Les Feuilles Mortes](https://open.spotify.com/album/0QMIxSlb3xe80GoGoS7lMr) | 6:52 | 2025-08-15 |  |

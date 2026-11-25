@@ -1,12 +1,12 @@
 {
   "description": "de sfeer van 6 uur in de ochtend in de buitenlucht",
-  "num_followers": 189840,
+  "num_followers": 189832,
   "original_name": "rustig aan",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAPY18ItHg4WAHHM8RC5iuFOPxXXU",
+  "snapshot_id": "AAAAAGcooQSl9RwbpRTgANimb77JZ8Db",
   "tracks": [
     {
       "added_at": "2026-11-23 11:00:39",
@@ -295,22 +295,6 @@
     {
       "added_at": "2026-11-23 11:00:39",
       "album": {
-        "name": "sleeping with the lights on (the first nights)",
-        "url": "https://open.spotify.com/album/4mqA0shfAULmUa8Lnnt5dC"
-      },
-      "artists": [
-        {
-          "name": "Noha Sar\u00e9",
-          "url": "https://open.spotify.com/artist/2r3TXsrjx7eICwgL0Bk2l7"
-        }
-      ],
-      "duration_ms": 172646,
-      "name": "something bout you",
-      "url": "https://open.spotify.com/track/0fpITZ0uBTBtWBq8sPmwIU"
-    },
-    {
-      "added_at": "2026-11-23 11:00:39",
-      "album": {
         "name": "Biotope",
         "url": "https://open.spotify.com/album/4BmVz5436mMpbUegwu09xd"
       },
@@ -323,6 +307,22 @@
       "duration_ms": 168000,
       "name": "Biotope",
       "url": "https://open.spotify.com/track/4xUDSGjehVdoEkaC62rsTL"
+    },
+    {
+      "added_at": "2026-11-23 11:00:39",
+      "album": {
+        "name": "sleeping with the lights on (the first nights)",
+        "url": "https://open.spotify.com/album/4mqA0shfAULmUa8Lnnt5dC"
+      },
+      "artists": [
+        {
+          "name": "Noha Sar\u00e9",
+          "url": "https://open.spotify.com/artist/2r3TXsrjx7eICwgL0Bk2l7"
+        }
+      ],
+      "duration_ms": 172646,
+      "name": "something bout you",
+      "url": "https://open.spotify.com/track/0fpITZ0uBTBtWBq8sPmwIU"
     },
     {
       "added_at": "2026-11-23 11:00:39",
@@ -375,22 +375,6 @@
     {
       "added_at": "2026-11-23 11:00:39",
       "album": {
-        "name": "Opening Night",
-        "url": "https://open.spotify.com/album/0ukMJVPrCtdr6p3rctbSbr"
-      },
-      "artists": [
-        {
-          "name": "Ocie Elliott",
-          "url": "https://open.spotify.com/artist/5jbk18C7YXRcEZxUWPJCyT"
-        }
-      ],
-      "duration_ms": 211027,
-      "name": "Opening Night",
-      "url": "https://open.spotify.com/track/2p0d5L13tdRztbOySvqlY2"
-    },
-    {
-      "added_at": "2026-11-23 11:00:39",
-      "album": {
         "name": "Lovesong",
         "url": "https://open.spotify.com/album/25sE3Vx13NiCki6bHxzk3S"
       },
@@ -403,6 +387,22 @@
       "duration_ms": 218160,
       "name": "Lovesong",
       "url": "https://open.spotify.com/track/1OmvFEul06DRWow1ASDmm3"
+    },
+    {
+      "added_at": "2026-11-23 11:00:39",
+      "album": {
+        "name": "Opening Night",
+        "url": "https://open.spotify.com/album/0ukMJVPrCtdr6p3rctbSbr"
+      },
+      "artists": [
+        {
+          "name": "Ocie Elliott",
+          "url": "https://open.spotify.com/artist/5jbk18C7YXRcEZxUWPJCyT"
+        }
+      ],
+      "duration_ms": 211027,
+      "name": "Opening Night",
+      "url": "https://open.spotify.com/track/2p0d5L13tdRztbOySvqlY2"
     },
     {
       "added_at": "2026-11-23 11:00:39",
@@ -535,22 +535,6 @@
     {
       "added_at": "2026-11-23 11:00:39",
       "album": {
-        "name": "Wither",
-        "url": "https://open.spotify.com/album/67cUnpKyp9JRjQXOuXfvCM"
-      },
-      "artists": [
-        {
-          "name": "Sevens",
-          "url": "https://open.spotify.com/artist/16TJwfQFZXTDDkPwG1FOzd"
-        }
-      ],
-      "duration_ms": 180173,
-      "name": "Wither",
-      "url": "https://open.spotify.com/track/75tuLoo93ovd5lSDWrTdpi"
-    },
-    {
-      "added_at": "2026-11-23 11:00:39",
-      "album": {
         "name": "Old Shadows",
         "url": "https://open.spotify.com/album/0RLefy7jZBf1Dx0UlZdbRK"
       },
@@ -563,6 +547,22 @@
       "duration_ms": 246764,
       "name": "Old Shadows",
       "url": "https://open.spotify.com/track/3IWuSaxaeNuQUXOfVtEkOE"
+    },
+    {
+      "added_at": "2026-11-23 11:00:39",
+      "album": {
+        "name": "Wither",
+        "url": "https://open.spotify.com/album/67cUnpKyp9JRjQXOuXfvCM"
+      },
+      "artists": [
+        {
+          "name": "Sevens",
+          "url": "https://open.spotify.com/artist/16TJwfQFZXTDDkPwG1FOzd"
+        }
+      ],
+      "duration_ms": 180173,
+      "name": "Wither",
+      "url": "https://open.spotify.com/track/75tuLoo93ovd5lSDWrTdpi"
     },
     {
       "added_at": "2026-11-23 11:00:39",
@@ -951,6 +951,22 @@
     {
       "added_at": "2026-11-23 11:00:39",
       "album": {
+        "name": "Never Again",
+        "url": "https://open.spotify.com/album/4ThezZScitRuZONCfkJewe"
+      },
+      "artists": [
+        {
+          "name": "Thomas Azier",
+          "url": "https://open.spotify.com/artist/6AE7CSJUwDMnTXV4yKVLLv"
+        }
+      ],
+      "duration_ms": 172920,
+      "name": "Never Again",
+      "url": "https://open.spotify.com/track/0KwMTCtE9g1K3e6VoOjf0A"
+    },
+    {
+      "added_at": "2026-11-23 11:00:39",
+      "album": {
         "name": "Richardson (feat. Cassandra Jenkins)",
         "url": "https://open.spotify.com/album/72T10FajAmf5Wu0M9scOpp"
       },
@@ -967,22 +983,6 @@
       "duration_ms": 224093,
       "name": "Richardson - feat. Cassandra Jenkins",
       "url": "https://open.spotify.com/track/4Jrstw4tzEoFCE5hZMug96"
-    },
-    {
-      "added_at": "2026-11-23 11:00:39",
-      "album": {
-        "name": "Never Again",
-        "url": "https://open.spotify.com/album/4ThezZScitRuZONCfkJewe"
-      },
-      "artists": [
-        {
-          "name": "Thomas Azier",
-          "url": "https://open.spotify.com/artist/6AE7CSJUwDMnTXV4yKVLLv"
-        }
-      ],
-      "duration_ms": 172920,
-      "name": "Never Again",
-      "url": "https://open.spotify.com/track/0KwMTCtE9g1K3e6VoOjf0A"
     },
     {
       "added_at": "2026-11-23 11:00:39",
@@ -1135,6 +1135,22 @@
     {
       "added_at": "2026-11-23 11:00:39",
       "album": {
+        "name": "Holes",
+        "url": "https://open.spotify.com/album/0MzBPDnz6TRkL6TqmD68QS"
+      },
+      "artists": [
+        {
+          "name": "FEMI",
+          "url": "https://open.spotify.com/artist/0d4PHPVdZaJylLDOJUd2Yw"
+        }
+      ],
+      "duration_ms": 231000,
+      "name": "Holes",
+      "url": "https://open.spotify.com/track/2uJr0wiHkkMYUkesFLkHFT"
+    },
+    {
+      "added_at": "2026-11-23 11:00:39",
+      "album": {
         "name": "Far Away",
         "url": "https://open.spotify.com/album/68nMPJ3cMbDq2597lVgQjV"
       },
@@ -1199,6 +1215,22 @@
     {
       "added_at": "2026-11-23 11:00:39",
       "album": {
+        "name": "Leaving - Reminisce",
+        "url": "https://open.spotify.com/album/2R1cDeLDQthyEMIlSZnPiZ"
+      },
+      "artists": [
+        {
+          "name": "Annelie",
+          "url": "https://open.spotify.com/artist/0Rm9NmU9uyvf7tfVt4YNKC"
+        }
+      ],
+      "duration_ms": 324453,
+      "name": "Leaving",
+      "url": "https://open.spotify.com/track/2BlK3gDtP5pgK11lVk3MsE"
+    },
+    {
+      "added_at": "2026-11-23 11:00:39",
+      "album": {
         "name": "The Farm",
         "url": "https://open.spotify.com/album/40J82quNYkW4TBE5ebbHPs"
       },
@@ -1219,18 +1251,18 @@
     {
       "added_at": "2026-11-23 11:00:39",
       "album": {
-        "name": "Holes",
-        "url": "https://open.spotify.com/album/0MzBPDnz6TRkL6TqmD68QS"
+        "name": "Dark Sky Reserve",
+        "url": "https://open.spotify.com/album/6g6bUo6UVWTOU7AamVvS1m"
       },
       "artists": [
         {
-          "name": "FEMI",
-          "url": "https://open.spotify.com/artist/0d4PHPVdZaJylLDOJUd2Yw"
+          "name": "Robin Kester",
+          "url": "https://open.spotify.com/artist/43FIX6vzpqRHK1VXQmRlKE"
         }
       ],
-      "duration_ms": 231000,
-      "name": "Holes",
-      "url": "https://open.spotify.com/track/2uJr0wiHkkMYUkesFLkHFT"
+      "duration_ms": 173343,
+      "name": "Tree-lined Lanes",
+      "url": "https://open.spotify.com/track/3eKf0AO16jh53M2IKF3KLR"
     },
     {
       "added_at": "2026-11-23 11:00:39",
@@ -1251,18 +1283,18 @@
     {
       "added_at": "2026-11-23 11:00:39",
       "album": {
-        "name": "Dark Sky Reserve",
-        "url": "https://open.spotify.com/album/6g6bUo6UVWTOU7AamVvS1m"
+        "name": "love so blind (night tapes)",
+        "url": "https://open.spotify.com/album/5Y6nFYEEHfToj1cXpCd5VT"
       },
       "artists": [
         {
-          "name": "Robin Kester",
-          "url": "https://open.spotify.com/artist/43FIX6vzpqRHK1VXQmRlKE"
+          "name": "Rosie Carney",
+          "url": "https://open.spotify.com/artist/3Aut8hgiqZSy2qmJluZMU9"
         }
       ],
-      "duration_ms": 173343,
-      "name": "Tree-lined Lanes",
-      "url": "https://open.spotify.com/track/3eKf0AO16jh53M2IKF3KLR"
+      "duration_ms": 245714,
+      "name": "love so blind - night tapes",
+      "url": "https://open.spotify.com/track/2Y1WTJudhihzTMydbK49jF"
     },
     {
       "added_at": "2026-11-23 11:00:39",
@@ -1283,24 +1315,8 @@
     {
       "added_at": "2026-11-23 11:00:39",
       "album": {
-        "name": "love so blind (night tapes)",
-        "url": "https://open.spotify.com/album/5Y6nFYEEHfToj1cXpCd5VT"
-      },
-      "artists": [
-        {
-          "name": "Rosie Carney",
-          "url": "https://open.spotify.com/artist/3Aut8hgiqZSy2qmJluZMU9"
-        }
-      ],
-      "duration_ms": 245714,
-      "name": "love so blind - night tapes",
-      "url": "https://open.spotify.com/track/2Y1WTJudhihzTMydbK49jF"
-    },
-    {
-      "added_at": "2026-11-23 11:00:39",
-      "album": {
-        "name": "Leaving - Reminisce",
-        "url": "https://open.spotify.com/album/2R1cDeLDQthyEMIlSZnPiZ"
+        "name": "My Child, My Friend - Anchor",
+        "url": "https://open.spotify.com/album/63nOrTo9E93yU00AZvnCLD"
       },
       "artists": [
         {
@@ -1308,9 +1324,9 @@
           "url": "https://open.spotify.com/artist/0Rm9NmU9uyvf7tfVt4YNKC"
         }
       ],
-      "duration_ms": 324453,
-      "name": "Leaving",
-      "url": "https://open.spotify.com/track/2BlK3gDtP5pgK11lVk3MsE"
+      "duration_ms": 152146,
+      "name": "My Child, My Friend",
+      "url": "https://open.spotify.com/track/4fJ1qHYvlGZVtCWkIbO7hQ"
     },
     {
       "added_at": "2026-11-23 11:00:39",
@@ -1375,22 +1391,6 @@
       "duration_ms": 308963,
       "name": "Sunflower Sunset",
       "url": "https://open.spotify.com/track/6PIsXGxWSZj7p2VqmrUbbq"
-    },
-    {
-      "added_at": "2026-11-23 11:00:39",
-      "album": {
-        "name": "My Child, My Friend - Anchor",
-        "url": "https://open.spotify.com/album/63nOrTo9E93yU00AZvnCLD"
-      },
-      "artists": [
-        {
-          "name": "Annelie",
-          "url": "https://open.spotify.com/artist/0Rm9NmU9uyvf7tfVt4YNKC"
-        }
-      ],
-      "duration_ms": 152146,
-      "name": "My Child, My Friend",
-      "url": "https://open.spotify.com/track/4fJ1qHYvlGZVtCWkIbO7hQ"
     },
     {
       "added_at": "2026-11-23 11:00:39",
@@ -1559,22 +1559,6 @@
     {
       "added_at": "2026-11-23 11:00:39",
       "album": {
-        "name": "AT LEAST SOMETHING IS PROTECTING YOU",
-        "url": "https://open.spotify.com/album/4gSBN4HJksGUFxXVsdcAX0"
-      },
-      "artists": [
-        {
-          "name": "Cero Ismael",
-          "url": "https://open.spotify.com/artist/2Nj4ggzoUqfVAiE9sVRmSo"
-        }
-      ],
-      "duration_ms": 217949,
-      "name": "EMBERS",
-      "url": "https://open.spotify.com/track/5F1sWEiHVBYUbVQ178MZ5d"
-    },
-    {
-      "added_at": "2026-11-23 11:00:39",
-      "album": {
         "name": "Sunflower",
         "url": "https://open.spotify.com/album/2xmhqUrdZY7gbZNbGt0FoU"
       },
@@ -1587,6 +1571,22 @@
       "duration_ms": 266466,
       "name": "Sunflower",
       "url": "https://open.spotify.com/track/6ZskcMSGVuInKodFTaLPS6"
+    },
+    {
+      "added_at": "2026-11-23 11:00:39",
+      "album": {
+        "name": "AT LEAST SOMETHING IS PROTECTING YOU",
+        "url": "https://open.spotify.com/album/4gSBN4HJksGUFxXVsdcAX0"
+      },
+      "artists": [
+        {
+          "name": "Cero Ismael",
+          "url": "https://open.spotify.com/artist/2Nj4ggzoUqfVAiE9sVRmSo"
+        }
+      ],
+      "duration_ms": 217949,
+      "name": "EMBERS",
+      "url": "https://open.spotify.com/track/5F1sWEiHVBYUbVQ178MZ5d"
     },
     {
       "added_at": "2026-11-23 11:00:39",

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3hXmsXxRAC2.md) - [plain]
 
 > Las voces que inmortalizaron las canciones del Divo de Juárez.
 
-[Spotify](https://open.spotify.com/user/spotify) - 365,972 likes - 58 songs - 3 hr 46 min
+[Spotify](https://open.spotify.com/user/spotify) - 365,977 likes - 58 songs - 3 hr 46 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -67,4 +67,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3hXmsXxRAC2.md) - [plain]
 | 57 | [Yo Sé Que Está En Tu Corazón](https://open.spotify.com/track/4N3dBPrM1KPWHii6VRHi3q) | [Juan Gabriel](https://open.spotify.com/artist/2MRBDr0crHWE5JwPceFncq), [Carla Morrison](https://open.spotify.com/artist/0XK6kT7xcZAlcYrNjOgzJe) | [Los Dúo 2](https://open.spotify.com/album/4NzxMuOkm7q0WUZWmAZbT8) | 4:06 |
 | 58 | [Diferentes](https://open.spotify.com/track/2cjxxNd9Tn5eMUSFazVq2d) | [Rocío Dúrcal](https://open.spotify.com/artist/2uyweLa0mvPZH6eRzDddeB) | [Personalidad](https://open.spotify.com/album/72lEnHoHSELV84JOsJLuLl) | 3:23 |
 
-Snapshot ID: `AAAAAEoKPtwgJ+F2Jtej+Yv94WecT6fv`
+Snapshot ID: `AAAAACd3/g9w9p7MHLFLh97EZXUN1Y+Y`

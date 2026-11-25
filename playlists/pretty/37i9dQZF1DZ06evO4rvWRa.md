@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO4rvWRa.md) - [plain]
 
 > This is Alan Walker\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,635,627 likes - 50 songs - 2 hr 30 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,635,619 likes - 50 songs - 2 hr 30 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -37,8 +37,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO4rvWRa.md) - [plain]
 | 27 | [Man On The Moon](https://open.spotify.com/track/0zqBZqm5czQ3A4EoSdKFHj) | [Alan Walker](https://open.spotify.com/artist/7vk5e3vY1uw9plTHJAMwjN), [Benjamin Ingrosso](https://open.spotify.com/artist/7jEEE187pVG6InOxn03oA5) | [World Of Walker](https://open.spotify.com/album/3KrkQ77DF9OUB0aOzKFYOF) | 2:58 |
 | 28 | [Eroina](https://open.spotify.com/track/4CZa02xgeNmic0Leii4kzA) | [Alan Walker](https://open.spotify.com/artist/7vk5e3vY1uw9plTHJAMwjN), [Sorana](https://open.spotify.com/artist/1PnnRNGfichOAfPOn5mVyx) | [World of Walker, Season One: Rise of the Drones](https://open.spotify.com/album/4ZPFShjjY5bGsyvn9aiqrd) | 3:22 |
 | 29 | [Faded \- Slowed Remix](https://open.spotify.com/track/2zK1krCIeewkY2v0RNPcBu) | [Alan Walker](https://open.spotify.com/artist/7vk5e3vY1uw9plTHJAMwjN) | [Slowed](https://open.spotify.com/album/61ZZ2XHEGHwl9gHov01GUs) | 3:56 |
-| 30 | [INDIAN SUMMER](https://open.spotify.com/track/3fhPTs8YgkwC1a6gV2TTtx) | [Alan Walker](https://open.spotify.com/artist/7vk5e3vY1uw9plTHJAMwjN), [KIDDO](https://open.spotify.com/artist/5pXe6yFchq1oyYK3rq2A8i) | [INDIAN SUMMER](https://open.spotify.com/album/3EquYPRLoMWqXy12Ad28lR) | 3:18 |
-| 31 | [Tired](https://open.spotify.com/track/3b5Li4QKDVBx1x7fQuu54a) | [Alan Walker](https://open.spotify.com/artist/7vk5e3vY1uw9plTHJAMwjN), [Gavin James](https://open.spotify.com/artist/25tMQOrIU4LlUo6Sv8v5SE) | [Tired](https://open.spotify.com/album/1q1ayQAYMOacFE2fkXbkv2) | 3:12 |
+| 30 | [Tired](https://open.spotify.com/track/3b5Li4QKDVBx1x7fQuu54a) | [Alan Walker](https://open.spotify.com/artist/7vk5e3vY1uw9plTHJAMwjN), [Gavin James](https://open.spotify.com/artist/25tMQOrIU4LlUo6Sv8v5SE) | [Tired](https://open.spotify.com/album/1q1ayQAYMOacFE2fkXbkv2) | 3:12 |
+| 31 | [INDIAN SUMMER](https://open.spotify.com/track/3fhPTs8YgkwC1a6gV2TTtx) | [Alan Walker](https://open.spotify.com/artist/7vk5e3vY1uw9plTHJAMwjN), [KIDDO](https://open.spotify.com/artist/5pXe6yFchq1oyYK3rq2A8i) | [INDIAN SUMMER](https://open.spotify.com/album/3EquYPRLoMWqXy12Ad28lR) | 3:18 |
 | 32 | [The Drum](https://open.spotify.com/track/1zOOl8f7qkjj0AmvlCfLyQ) | [Alan Walker](https://open.spotify.com/artist/7vk5e3vY1uw9plTHJAMwjN) | [The Drum](https://open.spotify.com/album/5UsoRTU88VoYEyskQnQu4H) | 3:09 |
 | 33 | [Heart over Mind](https://open.spotify.com/track/0gePxzCHAFLu9TCc9PQlkn) | [Alan Walker](https://open.spotify.com/artist/7vk5e3vY1uw9plTHJAMwjN), [Daya](https://open.spotify.com/artist/6Dd3NScHWwnW6obMFbl1BH) | [Walkerworld](https://open.spotify.com/album/4Gsbmz1D5hh0uREWTVmCWB) | 3:09 |
 | 34 | [Beautiful Nightmare](https://open.spotify.com/track/5bUGTPa2WYYS9P49MzAljd) | [Alan Walker](https://open.spotify.com/artist/7vk5e3vY1uw9plTHJAMwjN), [bludnymph](https://open.spotify.com/artist/7GwwoezwdbKvUaNgtg51pX) | [Neon Nights](https://open.spotify.com/album/2PMUDyTcZRL0kMKibFgHKT) | 2:47 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO4rvWRa.md) - [plain]
 | 49 | [Void](https://open.spotify.com/track/6KwgfZhSWwrjDriUVNjVpI) | [Alan Walker](https://open.spotify.com/artist/7vk5e3vY1uw9plTHJAMwjN), [Sorana](https://open.spotify.com/artist/1PnnRNGfichOAfPOn5mVyx) | [Void](https://open.spotify.com/album/2OmTdaXM8mvpi28xTxT5Y6) | 3:11 |
 | 50 | [Broken Angel \(This is Lonely Club\)](https://open.spotify.com/track/0NXKFZ8JLsEv4IifG5QzPN) | [Alan Walker](https://open.spotify.com/artist/7vk5e3vY1uw9plTHJAMwjN), [Steve Aoki](https://open.spotify.com/artist/77AiFEVeAVj2ORpC85QVJs), [Lonely Club](https://open.spotify.com/artist/1tPJP9nWEM6mQK295zgp2K), [Arash](https://open.spotify.com/artist/7hQmAXAzWI6D350VTgkKTG) | [Broken Angel \(This is Lonely Club\) \[Remixes\]](https://open.spotify.com/album/2IAV00opECoUunWJRCxjXY) | 2:51 |
 
-Snapshot ID: `awIwgAAAAADinBNBhpPStgV0T4sF8Hng`
+Snapshot ID: `awOCAAAAAAA5CNPHld+Zrb2CLmsfllVa`

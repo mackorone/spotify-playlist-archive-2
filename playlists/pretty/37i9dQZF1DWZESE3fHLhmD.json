@@ -1,12 +1,12 @@
 {
   "description": "songs die dich im winter warmhalten",
-  "num_followers": 1298868,
+  "num_followers": 1298815,
   "original_name": "Wintergef\u00fchle",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAO9DwOi6877t49D7gLgUT3d7CXrP",
+  "snapshot_id": "AAAAAE6rF3/Y9Gkv89juG11nKM6fieVA",
   "tracks": [
     {
       "added_at": "2026-11-19 23:01:09",
@@ -51,22 +51,6 @@
     {
       "added_at": "2026-11-19 23:01:09",
       "album": {
-        "name": "Man I Need",
-        "url": "https://open.spotify.com/album/0Bv6OJO0L5gcf20DMww54a"
-      },
-      "artists": [
-        {
-          "name": "Olivia Dean",
-          "url": "https://open.spotify.com/artist/00x1fYSGhdqScXBRpSj3DW"
-        }
-      ],
-      "duration_ms": 184000,
-      "name": "Man I Need",
-      "url": "https://open.spotify.com/track/1qbmS6ep2hbBRaEZFpn7BX"
-    },
-    {
-      "added_at": "2026-11-19 23:01:09",
-      "album": {
         "name": "you seem pretty sad for a girl so in love",
         "url": "https://open.spotify.com/album/3WZZF72ihlKPZBS4zSsNHl"
       },
@@ -79,6 +63,22 @@
       "duration_ms": 297090,
       "name": "the cure",
       "url": "https://open.spotify.com/track/55pBIZO1cqoldeqpp5WR7H"
+    },
+    {
+      "added_at": "2026-11-19 23:01:09",
+      "album": {
+        "name": "Man I Need",
+        "url": "https://open.spotify.com/album/0Bv6OJO0L5gcf20DMww54a"
+      },
+      "artists": [
+        {
+          "name": "Olivia Dean",
+          "url": "https://open.spotify.com/artist/00x1fYSGhdqScXBRpSj3DW"
+        }
+      ],
+      "duration_ms": 184000,
+      "name": "Man I Need",
+      "url": "https://open.spotify.com/track/1qbmS6ep2hbBRaEZFpn7BX"
     },
     {
       "added_at": "2026-11-19 23:01:09",
@@ -199,22 +199,6 @@
     {
       "added_at": "2026-11-19 23:01:09",
       "album": {
-        "name": "The Life of a Showgirl: The Encore",
-        "url": "https://open.spotify.com/album/4hF2gTGuPYlykYuphDxi8J"
-      },
-      "artists": [
-        {
-          "name": "Taylor Swift",
-          "url": "https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02"
-        }
-      ],
-      "duration_ms": 225868,
-      "name": "Patient Zero",
-      "url": "https://open.spotify.com/track/11hcBLPtbMp4aQI6zGQLub"
-    },
-    {
-      "added_at": "2026-11-19 23:01:09",
-      "album": {
         "name": "Bird's Eye",
         "url": "https://open.spotify.com/album/1uE3dRPe3SrGdNhd1nWlSa"
       },
@@ -227,6 +211,22 @@
       "duration_ms": 213466,
       "name": "Love Me Not",
       "url": "https://open.spotify.com/track/4WFgvKVfEhb3IUAFGrutTR"
+    },
+    {
+      "added_at": "2026-11-19 23:01:09",
+      "album": {
+        "name": "The Life of a Showgirl: The Encore",
+        "url": "https://open.spotify.com/album/4hF2gTGuPYlykYuphDxi8J"
+      },
+      "artists": [
+        {
+          "name": "Taylor Swift",
+          "url": "https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02"
+        }
+      ],
+      "duration_ms": 225868,
+      "name": "Patient Zero",
+      "url": "https://open.spotify.com/track/11hcBLPtbMp4aQI6zGQLub"
     },
     {
       "added_at": "2026-11-19 23:01:09",
@@ -327,22 +327,6 @@
     {
       "added_at": "2026-11-19 23:01:09",
       "album": {
-        "name": "SWAG",
-        "url": "https://open.spotify.com/album/5vD5M5VW62LL78Ko8x0CVZ"
-      },
-      "artists": [
-        {
-          "name": "Justin Bieber",
-          "url": "https://open.spotify.com/artist/1uNFoZAHBGtllmzznpCI3s"
-        }
-      ],
-      "duration_ms": 176453,
-      "name": "DAISIES",
-      "url": "https://open.spotify.com/track/5BZsQlgw21vDOAjoqkNgKb"
-    },
-    {
-      "added_at": "2026-11-19 23:01:09",
-      "album": {
         "name": "ANTI (Deluxe)",
         "url": "https://open.spotify.com/album/4UlGauD7ROb3YbVOFMgW5u"
       },
@@ -355,6 +339,22 @@
       "duration_ms": 253080,
       "name": "Kiss It Better",
       "url": "https://open.spotify.com/track/0UHB9METy4VCXNgkcGqHqS"
+    },
+    {
+      "added_at": "2026-11-19 23:01:09",
+      "album": {
+        "name": "SWAG",
+        "url": "https://open.spotify.com/album/5vD5M5VW62LL78Ko8x0CVZ"
+      },
+      "artists": [
+        {
+          "name": "Justin Bieber",
+          "url": "https://open.spotify.com/artist/1uNFoZAHBGtllmzznpCI3s"
+        }
+      ],
+      "duration_ms": 176453,
+      "name": "DAISIES",
+      "url": "https://open.spotify.com/track/5BZsQlgw21vDOAjoqkNgKb"
     },
     {
       "added_at": "2026-11-19 23:01:09",
@@ -543,18 +543,18 @@
     {
       "added_at": "2026-11-19 23:01:09",
       "album": {
-        "name": "Dracula",
-        "url": "https://open.spotify.com/album/2kCjkEVRnLdEV5UOaQSAG4"
+        "name": "hopeless fountain kingdom (Deluxe Plus)",
+        "url": "https://open.spotify.com/album/5ZvnIKEq0HAwDHNR8f2yIx"
       },
       "artists": [
         {
-          "name": "Tame Impala",
-          "url": "https://open.spotify.com/artist/5INjqkS1o8h1imAzPqGZBb"
+          "name": "Halsey",
+          "url": "https://open.spotify.com/artist/26VFTg2z8YR0cCuwLzESi2"
         }
       ],
-      "duration_ms": 205308,
-      "name": "Dracula",
-      "url": "https://open.spotify.com/track/709ZIqPHyFOpx2QdjmeWAM"
+      "duration_ms": 181279,
+      "name": "Bad At Love",
+      "url": "https://open.spotify.com/track/3OzCF9i6Ey7EkkAYJztmKp"
     },
     {
       "added_at": "2026-11-19 23:01:09",
@@ -575,18 +575,18 @@
     {
       "added_at": "2026-11-19 23:01:09",
       "album": {
-        "name": "hopeless fountain kingdom (Deluxe Plus)",
-        "url": "https://open.spotify.com/album/5ZvnIKEq0HAwDHNR8f2yIx"
+        "name": "Dracula",
+        "url": "https://open.spotify.com/album/2kCjkEVRnLdEV5UOaQSAG4"
       },
       "artists": [
         {
-          "name": "Halsey",
-          "url": "https://open.spotify.com/artist/26VFTg2z8YR0cCuwLzESi2"
+          "name": "Tame Impala",
+          "url": "https://open.spotify.com/artist/5INjqkS1o8h1imAzPqGZBb"
         }
       ],
-      "duration_ms": 181279,
-      "name": "Bad At Love",
-      "url": "https://open.spotify.com/track/3OzCF9i6Ey7EkkAYJztmKp"
+      "duration_ms": 205308,
+      "name": "Dracula",
+      "url": "https://open.spotify.com/track/709ZIqPHyFOpx2QdjmeWAM"
     },
     {
       "added_at": "2026-11-19 23:01:09",
@@ -1475,22 +1475,6 @@
     {
       "added_at": "2026-11-19 23:01:09",
       "album": {
-        "name": "Ich lieb mich, ich lieb mich nicht",
-        "url": "https://open.spotify.com/album/5gi65SySOtiSeEmMMvr2xf"
-      },
-      "artists": [
-        {
-          "name": "Nina Chuba",
-          "url": "https://open.spotify.com/artist/2kS9NyuATpYwjeB93h24H5"
-        }
-      ],
-      "duration_ms": 138032,
-      "name": "Unsicher",
-      "url": "https://open.spotify.com/track/77q6HZcDoydfvCAJt7Ufgv"
-    },
-    {
-      "added_at": "2026-11-19 23:01:09",
-      "album": {
         "name": "Graceland",
         "url": "https://open.spotify.com/album/0gjIdPKVN4i88JbKPZld2W"
       },
@@ -1503,6 +1487,22 @@
       "duration_ms": 140348,
       "name": "Graceland",
       "url": "https://open.spotify.com/track/0UrAgB7p2pNB7lzdWEWw8V"
+    },
+    {
+      "added_at": "2026-11-19 23:01:09",
+      "album": {
+        "name": "Ich lieb mich, ich lieb mich nicht",
+        "url": "https://open.spotify.com/album/5gi65SySOtiSeEmMMvr2xf"
+      },
+      "artists": [
+        {
+          "name": "Nina Chuba",
+          "url": "https://open.spotify.com/artist/2kS9NyuATpYwjeB93h24H5"
+        }
+      ],
+      "duration_ms": 138032,
+      "name": "Unsicher",
+      "url": "https://open.spotify.com/track/77q6HZcDoydfvCAJt7Ufgv"
     },
     {
       "added_at": "2026-11-19 23:01:09",

@@ -4,7 +4,7 @@
 
 > aLex vs aLex its barking season <a href="https://loremandfriends.substack.com/p/sincerely\-and\-always\-forever"> plus \~new substack ft Heathers & Sammie Pearson here\~</a>
 
-4,095 songs - 9 day 8 hr 48 min
+4,096 songs - 9 day 8 hr 52 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -200,6 +200,7 @@
 | [Always](https://open.spotify.com/track/3SxSrUogj4LpAkLKXeTtTQ) | [Rex Orange County](https://open.spotify.com/artist/7pbDxGE6nQSZVfiFdq9lOL) | [Pony](https://open.spotify.com/album/5CNckxfLf4TCoMOoxgAU8l) | 3:17 | 2019-11-14 | 2020-03-25 |
 | [Always On My Mind](https://open.spotify.com/track/5ANlhqIz2ai4B0aZo9NVx5) | [Been Stellar](https://open.spotify.com/artist/3ep1YmatQ8L9UKCGYiJNBh) | [Always On My Mind](https://open.spotify.com/album/7EHj6pF3Xzv4CC9XIiqhTi) | 3:31 | 2025-08-22 | 2025-10-22 |
 | [AMAZING](https://open.spotify.com/track/6FtIK0IkmG33lKbc1pyAlZ) | [Rex Orange County](https://open.spotify.com/artist/7pbDxGE6nQSZVfiFdq9lOL) | [AMAZING](https://open.spotify.com/album/0iv1vqUOxADWV9vhTlF4Qe) | 3:29 | 2022-02-17 | 2022-04-22 |
+| [Amazing Grace](https://open.spotify.com/track/7wdVWU0mWfXieiORD0PNh6) | [Mackeeper](https://open.spotify.com/artist/22NwVn8gHhq8eeWhZXgjOX), [Brat Star](https://open.spotify.com/artist/75paBOTrEufCOCKV1n4Cn8) | [Amazing Grace](https://open.spotify.com/album/3AHsOQKjDfLmkCuudJcNhy) | 4:39 | 2026-11-25 |  |
 | [Amber](https://open.spotify.com/track/3TZ1wHauKG6dMcn7LcQq6G) | [Unusual Demont](https://open.spotify.com/artist/5KpmWCJ5NqsY9meqhjwbxR) | [Amber](https://open.spotify.com/album/2eiDE2gC9XYRYtXnqZiKvw) | 3:34 | 2020-09-15 | 2020-10-13 |
 | [Amber Waves](https://open.spotify.com/track/2akeQPk9w9ubCgMh4MP0L9) | [Ethel Cain](https://open.spotify.com/artist/0avMDS4HyoCEP6RqZJWpY2) | [Perverts](https://open.spotify.com/album/3kZk3M80kQTJus45lgRKyv) | 11:32 | 2025-01-10 | 2025-03-13 |
 | [Ambrosia](https://open.spotify.com/track/344KZeQWZKibpxndj98m1j) | [Derby](https://open.spotify.com/artist/5WFUn8WTVNDiOHZCEzxIQZ) | [Beams](https://open.spotify.com/album/3ETnnijWPHmi9ivOaOIJ16) | 2:41 | 2026-05-08 | 2026-09-11 |

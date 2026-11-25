@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcLnINu2mUk0.md) - [plain]
 
 > Chill rap e R&B: É um mood suave e envolvente\. Foto: Soarito
 
-[Spotify](https://open.spotify.com/user/spotify) - 56,381 likes - 75 songs - 4 hr 13 min
+[Spotify](https://open.spotify.com/user/spotify) - 56,401 likes - 75 songs - 4 hr 13 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -23,10 +23,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcLnINu2mUk0.md) - [plain]
 | 13 | [Carro \(feat\. Dillaz\)](https://open.spotify.com/track/5yS8wgwBnmjpXwGislck0n) | [Bárbara Bandeira](https://open.spotify.com/artist/4zhMand4AowXuUz4VpGiTJ), [Dillaz](https://open.spotify.com/artist/15p1isN7VcGsjeSq8s9YeP) | [Finda](https://open.spotify.com/album/5BBWda4ImqHa9rZ6Qy4f19) | 3:22 |
 | 14 | [Cacau](https://open.spotify.com/track/4jq69Jq3ZxYXTeXu9JhmIO) | [Deejay Telio](https://open.spotify.com/artist/7BWNRZyZ9mhgp5t0m7Ny0n), [Slow J](https://open.spotify.com/artist/7crp1tZcefnjT5RuL6WZQ0) | [Reservado](https://open.spotify.com/album/1fv3j4QZFpWTljyn1Ay6sM) | 2:38 |
 | 15 | [TA TUDO BEM](https://open.spotify.com/track/15ERxM3x0D2HzqdhPxsbd2) | [T\-Rex](https://open.spotify.com/artist/6QHREBOQktWsYBfrxW93rk) | [COR D'ÁGUA](https://open.spotify.com/album/7G4pMhZajkeOLWgvQyGhta) | 4:32 |
-| 16 | [Agradecido](https://open.spotify.com/track/2qeTrAkcS5cFP8ptFix18T) | [Plutonio](https://open.spotify.com/artist/39HJXjH5hKcCzaU0g6mv8G) | [Agradecido](https://open.spotify.com/album/4xqDWbbExMyT3F6Z8hz7wa) | 4:54 |
+| 16 | [Fica](https://open.spotify.com/track/5x2NQmYWyqExdyyXjNIWh3) | [Domingues](https://open.spotify.com/artist/7BcPoZhXI08icbiq1mpxFx) | [Fica](https://open.spotify.com/album/1pOpD6cFStho3wbAcx6Npr) | 4:20 |
 | 17 | [34 BALAS](https://open.spotify.com/track/76nWOtZShZZLY82hmyStk1) | [Monsta](https://open.spotify.com/artist/1UYLvmudFl1ERXDnAPj5WS) | [34 BALAS](https://open.spotify.com/album/0StZd79DCE7heGvtk3I0O0) | 3:26 |
 | 18 | [lutamos \(feat\. Harold\)](https://open.spotify.com/track/7pBE0pBAxSiE3uTXymiJu0) | [Valle](https://open.spotify.com/artist/1ezLRigpJFQvYbXVRv7hOf), [Harold](https://open.spotify.com/artist/69IjpIjVQJljQ8AsCJMBi3) | [Modo Voo](https://open.spotify.com/album/2oHv50XvZW3IXeTdv4c2Qh) | 3:06 |
-| 19 | [Fica](https://open.spotify.com/track/5x2NQmYWyqExdyyXjNIWh3) | [Domingues](https://open.spotify.com/artist/7BcPoZhXI08icbiq1mpxFx) | [Fica](https://open.spotify.com/album/1pOpD6cFStho3wbAcx6Npr) | 4:20 |
+| 19 | [Agradecido](https://open.spotify.com/track/2qeTrAkcS5cFP8ptFix18T) | [Plutonio](https://open.spotify.com/artist/39HJXjH5hKcCzaU0g6mv8G) | [Agradecido](https://open.spotify.com/album/4xqDWbbExMyT3F6Z8hz7wa) | 4:54 |
 | 20 | [CONTA COMO FOI](https://open.spotify.com/track/5uWUUL5pZCUzE8PJ7hQhoo) | [Dinis Mota](https://open.spotify.com/artist/4ZtaPrKdemEzqprB4bIzdx) | [ANTES QUE ACABE](https://open.spotify.com/album/0eKcD1R6HioNfhUXqNh9OG) | 3:10 |
 | 21 | [Direção Paris](https://open.spotify.com/track/47vme38PigHgHq5YVEzUt8) | [Dillaz](https://open.spotify.com/artist/15p1isN7VcGsjeSq8s9YeP) | [O Próprio](https://open.spotify.com/album/52B67tLSbAC5pS3GZc2Gnd) | 4:02 |
 | 22 | [Contra Probabilidades](https://open.spotify.com/track/5nYYQ85x9DwEiEpETQNlNC) | [Bispo](https://open.spotify.com/artist/3LZCMaZWwvhYyQeEfWgVdY), [Julinho Ksd](https://open.spotify.com/artist/7kR1Yw4RqYhhDD3a8QRyG6) | [Contra Probabilidades](https://open.spotify.com/album/2w1V6Gjc1HVZ6TGYMlzqT8) | 3:23 |
@@ -45,9 +45,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcLnINu2mUk0.md) - [plain]
 | 35 | [Sometimes](https://open.spotify.com/track/5ZU1TW5KbwOb7r0ZDILy7c) | [Julinho Ksd](https://open.spotify.com/artist/7kR1Yw4RqYhhDD3a8QRyG6) | [Sometimes](https://open.spotify.com/album/5KtyAVXpW4uqD2TG02NTA4) | 4:00 |
 | 36 | [Não Me Fales \(feat\. Wet Bed Gang\)](https://open.spotify.com/track/0cyZxCagQAFRtykDcbsjqS) | [Nenny](https://open.spotify.com/artist/2DEfqyWjAMIfKYMXb1V8L1), [Wet Bed Gang](https://open.spotify.com/artist/5jfz7uWPwf03hdEewW8AI8) | [ID](https://open.spotify.com/album/235O2OncTKPS2XsUUT28XY) | 4:28 |
 | 37 | [Ultimamente](https://open.spotify.com/track/2OXcFFTAhcpElg1ZMAqLB7) | [Slow J](https://open.spotify.com/artist/7crp1tZcefnjT5RuL6WZQ0) | [Afro Fado](https://open.spotify.com/album/0GcsYtidlr4azVnuTjD3KI) | 3:42 |
-| 38 | [CABARET](https://open.spotify.com/track/4kfwRXcUVeeUMITRVujl9i) | [ProfJam](https://open.spotify.com/artist/3DhsjXVgWmA6X26tUugAjP) | [MDID](https://open.spotify.com/album/1Snh3qv0H4viIf2IUmfneS) | 2:15 |
+| 38 | [SWEET LIKE SUGAR](https://open.spotify.com/track/02Z5w9818U2uGmdCf2RasX) | [Richie Campbell](https://open.spotify.com/artist/2swvbEAfN70ZFcQB4Y7MaS) | [SWEET LIKE SUGAR](https://open.spotify.com/album/297FcXyyU9OWhW1aulhNMJ) | 2:50 |
 | 39 | [I'm Sorry](https://open.spotify.com/track/3aml52yDe6ff32XOgZQ0Cb) | [Mizzy Miles](https://open.spotify.com/artist/0QoKkMC6uy7fUng96fab1I), [Ivandro](https://open.spotify.com/artist/1pPbDeOdNUcLq32HTTLbZm), [Piruka](https://open.spotify.com/artist/5iZ6jMDkRa7RKLQplJuQUC) | [I'm Sorry](https://open.spotify.com/album/6xbIjf6sv5M4I9GT0NuEcj) | 3:22 |
-| 40 | [SWEET LIKE SUGAR](https://open.spotify.com/track/02Z5w9818U2uGmdCf2RasX) | [Richie Campbell](https://open.spotify.com/artist/2swvbEAfN70ZFcQB4Y7MaS) | [SWEET LIKE SUGAR](https://open.spotify.com/album/297FcXyyU9OWhW1aulhNMJ) | 2:50 |
+| 40 | [CABARET](https://open.spotify.com/track/4kfwRXcUVeeUMITRVujl9i) | [ProfJam](https://open.spotify.com/artist/3DhsjXVgWmA6X26tUugAjP) | [MDID](https://open.spotify.com/album/1Snh3qv0H4viIf2IUmfneS) | 2:15 |
 | 41 | [Clima](https://open.spotify.com/track/4WlMcUCtmXRHncPULo3wmK) | [Bluay](https://open.spotify.com/artist/18jB1ZnaJSWmro1ExvqZo4) | [Clima](https://open.spotify.com/album/5C4aCWJtiISw7Cu6g6HVMf) | 2:56 |
 | 42 | [Ondas Do Mar](https://open.spotify.com/track/1qtVkgHcV2xFsi5kWoiCy8) | [Anna Joyce](https://open.spotify.com/artist/0TFtGB2jsMA97sNDTLJ8QX), [Ivandro](https://open.spotify.com/artist/1pPbDeOdNUcLq32HTTLbZm) | [Ondas Do Mar](https://open.spotify.com/album/0duqET8wyzZEZSMNua9qVe) | 3:44 |
 | 43 | [Chakras](https://open.spotify.com/track/3dbWR5RYjRmbtY6QIGNUs4) | [Ivandro](https://open.spotify.com/artist/1pPbDeOdNUcLq32HTTLbZm), [Julinho Ksd](https://open.spotify.com/artist/7kR1Yw4RqYhhDD3a8QRyG6) | [Chakras](https://open.spotify.com/album/1Mz8AqAAgcwDwF9LglSk6K) | 3:16 |
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcLnINu2mUk0.md) - [plain]
 | 74 | [Barco](https://open.spotify.com/track/6f3wQcpYZUjnakdFmriRbF) | [Ivandro](https://open.spotify.com/artist/1pPbDeOdNUcLq32HTTLbZm), [Bispo](https://open.spotify.com/artist/3LZCMaZWwvhYyQeEfWgVdY) | [Barco](https://open.spotify.com/album/6aVeW0VvFv4qDpigItRzVn) | 3:36 |
 | 75 | [Quem Tem O Teu <3](https://open.spotify.com/track/43ncSBC0ZlkmPJqB8nfoZP) | [Satiro](https://open.spotify.com/artist/2s0vdOp4RtF3VBYH6wxxbM) | [Pequenos Gigantes](https://open.spotify.com/album/4LtlaMrX1rb0KkAir2DUH3) | 2:44 |
 
-Snapshot ID: `AAAAAE+tyRmqQMHEkPO4wlvLRzmy79ks`
+Snapshot ID: `AAAAAJjKr8JjOufKXuPQmZYpFPREYPCi`

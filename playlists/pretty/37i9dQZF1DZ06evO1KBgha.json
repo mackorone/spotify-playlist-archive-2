@@ -1,12 +1,12 @@
 {
   "description": "This is Kenia Os. The essential tracks, all in one playlist.",
-  "num_followers": 387089,
+  "num_followers": 387127,
   "original_name": "This Is Kenia Os",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "awIwgAAAAADSRPnLA5oaNgINsQfHHHDy",
+  "snapshot_id": "awOCAAAAAACQzCDMWMoiP6B2h4G3f6ej",
   "tracks": [
     {
       "added_at": null,
@@ -116,9 +116,9 @@
           "url": "https://open.spotify.com/artist/31VFEohvhOUKrtAONEBhMG"
         }
       ],
-      "duration_ms": 181933,
-      "name": "Ruleta Rusa",
-      "url": "https://open.spotify.com/track/0IZy9WMqzzK4HNTiHnuzBM"
+      "duration_ms": 125222,
+      "name": "Slay",
+      "url": "https://open.spotify.com/track/7CrEWnC2hQNYKlsOyPiaDK"
     },
     {
       "added_at": null,
@@ -192,9 +192,9 @@
           "url": "https://open.spotify.com/artist/31VFEohvhOUKrtAONEBhMG"
         }
       ],
-      "duration_ms": 125222,
-      "name": "Slay",
-      "url": "https://open.spotify.com/track/7CrEWnC2hQNYKlsOyPiaDK"
+      "duration_ms": 181933,
+      "name": "Ruleta Rusa",
+      "url": "https://open.spotify.com/track/0IZy9WMqzzK4HNTiHnuzBM"
     },
     {
       "added_at": null,
@@ -715,6 +715,26 @@
     {
       "added_at": null,
       "album": {
+        "name": "Plut\u00f3n",
+        "url": "https://open.spotify.com/album/6etaamYe4bL3P9MHoDcMSQ"
+      },
+      "artists": [
+        {
+          "name": "CNCO",
+          "url": "https://open.spotify.com/artist/0eecdvMrqBftK0M1VKhaF4"
+        },
+        {
+          "name": "Kenia Os",
+          "url": "https://open.spotify.com/artist/31VFEohvhOUKrtAONEBhMG"
+        }
+      ],
+      "duration_ms": 165533,
+      "name": "Plut\u00f3n",
+      "url": "https://open.spotify.com/track/0w41wEubHTq13Hh4tfRCke"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "HEROINA",
         "url": "https://open.spotify.com/album/49MiJYe7d4CfKDeJFqAWal"
       },
@@ -779,26 +799,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Plut\u00f3n",
-        "url": "https://open.spotify.com/album/6etaamYe4bL3P9MHoDcMSQ"
-      },
-      "artists": [
-        {
-          "name": "CNCO",
-          "url": "https://open.spotify.com/artist/0eecdvMrqBftK0M1VKhaF4"
-        },
-        {
-          "name": "Kenia Os",
-          "url": "https://open.spotify.com/artist/31VFEohvhOUKrtAONEBhMG"
-        }
-      ],
-      "duration_ms": 165533,
-      "name": "Plut\u00f3n",
-      "url": "https://open.spotify.com/track/0w41wEubHTq13Hh4tfRCke"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Cambios de Luna",
         "url": "https://open.spotify.com/album/0UaPZ3OfJgoTB5RKpZ0UY0"
       },
@@ -808,9 +808,9 @@
           "url": "https://open.spotify.com/artist/31VFEohvhOUKrtAONEBhMG"
         }
       ],
-      "duration_ms": 184864,
-      "name": "La Noche",
-      "url": "https://open.spotify.com/track/3oQwe85XEzQydpBGyAvgPv"
+      "duration_ms": 163403,
+      "name": "Cambios",
+      "url": "https://open.spotify.com/track/6kiYwJne7PkW12I53Ey6qN"
     },
     {
       "added_at": null,
@@ -840,9 +840,9 @@
           "url": "https://open.spotify.com/artist/31VFEohvhOUKrtAONEBhMG"
         }
       ],
-      "duration_ms": 163403,
-      "name": "Cambios",
-      "url": "https://open.spotify.com/track/6kiYwJne7PkW12I53Ey6qN"
+      "duration_ms": 184864,
+      "name": "La Noche",
+      "url": "https://open.spotify.com/track/3oQwe85XEzQydpBGyAvgPv"
     }
   ],
   "unique_name": "This Is Kenia Os",

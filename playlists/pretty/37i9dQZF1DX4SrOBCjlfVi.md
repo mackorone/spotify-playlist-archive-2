@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4SrOBCjlfVi.md) - [plain]
 
 > All the New Joints featuring YFN Lucci, Playboi Carti, Gunna and more!
 
-[Spotify](https://open.spotify.com/user/spotify) - 398,493 likes - 48 songs - 2 hr 11 min
+[Spotify](https://open.spotify.com/user/spotify) - 398,519 likes - 48 songs - 2 hr 11 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -30,7 +30,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4SrOBCjlfVi.md) - [plain]
 | 20 | [Perfectly Damaged](https://open.spotify.com/track/34AErkbRuVNVFNm7M0UBSm) | [Runway Richy](https://open.spotify.com/artist/4pxxExWqKTzAroozOV3bCl), [Fredo Bang](https://open.spotify.com/artist/4yTmEo2clwWq2jwelvqgVv) | [Perfectly Damaged](https://open.spotify.com/album/5quluAtZGRLdb2ptXgL48b) | 3:53 |
 | 21 | [HENNY & SAKE](https://open.spotify.com/track/4pvDOrQiLrnKZgebrPGBwx) | [Max B](https://open.spotify.com/artist/7f35VZGDpomj11PXdNn5D9), [Shyst Vader](https://open.spotify.com/artist/4I5adK92x8iI08SorjLrYY) | [HENNY & SAKE](https://open.spotify.com/album/66C0jF6Rd3NA9PxRNg2B2v) | 3:11 |
 | 22 | [Button Over Fully](https://open.spotify.com/track/24yUcdXmKZ0oTYgn89lSsw) | [Raq baby](https://open.spotify.com/artist/2MEiPjmRDl1ftTEaBD3B7D) | [Button Over Fully](https://open.spotify.com/album/0X74jg1klFrUK96b8yAWEk) | 1:47 |
-| 23 | [Bread & Butter](https://open.spotify.com/track/6BZbPxXO7QQDF6iZt4uno9) | [Big Moochie Grape](https://open.spotify.com/artist/3tYObOPkxDpra3sjNdCeKa) | [Bread & Butter](https://open.spotify.com/album/7E60Kx1KYlqiCFBcLonZeV) | 2:10 |
+| 23 | [Bread & Butter](https://open.spotify.com/track/6BZbPxXO7QQDF6iZt4uno9) | [DJ Scream](https://open.spotify.com/artist/45h71dCVZaNAqP3YwQH6ER), [Big Moochie Grape](https://open.spotify.com/artist/3tYObOPkxDpra3sjNdCeKa) | [Bread & Butter](https://open.spotify.com/album/7E60Kx1KYlqiCFBcLonZeV) | 2:10 |
 | 24 | [Chow Time](https://open.spotify.com/track/081VCB0f8mFOYZ10fTsJVt) | [BabyDrill](https://open.spotify.com/artist/4Q7FV4mw6Q3va79JwftGRv) | [Chow Time](https://open.spotify.com/album/1rzN1bC1MePNyVg3YPkYkY) | 2:11 |
 | 25 | [Bump Her Down](https://open.spotify.com/track/5CQDqSjtguI2k94hjYvlP2) | [Stunna Girl](https://open.spotify.com/artist/4eEkR7IDAXyGngHvnJZpdV) | [Bump Her Down](https://open.spotify.com/album/2eZz7ih6YwDs8dRZI1HOiV) | 3:07 |
 | 26 | [Bigger Than Life](https://open.spotify.com/track/2Ncf2WfKpgkkoH7HOQeRjE) | [SleazyWorld Go](https://open.spotify.com/artist/7FOQfJbC3e4GNoheojERnF) | [I Want Blood \(Deluxe\)](https://open.spotify.com/album/2OonENsKs9nn7NiXLMoMk9) | 3:22 |
@@ -57,4 +57,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4SrOBCjlfVi.md) - [plain]
 | 47 | [2 Turnt](https://open.spotify.com/track/3aaGTMpD1mss6tIITGUUIj) | [Paradise Modd](https://open.spotify.com/artist/6kUhRTzEWqrPjoZcFa09SN) | [Extortion Land](https://open.spotify.com/album/2xiotS83T9TB2DcJAF4jJl) | 1:52 |
 | 48 | [Rob The Mannequin](https://open.spotify.com/track/5zd6L0B5Sscf9zdd1hwbY7) | [BEO Lil Kenny](https://open.spotify.com/artist/5p2KvjX2qOhaC291qgJc2b) | [Rob The Mannequin](https://open.spotify.com/album/168huhHB5uUxj89icbCe2m) | 2:27 |
 
-Snapshot ID: `AAAAAMr01n89Kik49Vl4g7sjP9AF/U7h`
+Snapshot ID: `AAAAAOQelfcIihyZeG9gABbMA/QeIFbZ`

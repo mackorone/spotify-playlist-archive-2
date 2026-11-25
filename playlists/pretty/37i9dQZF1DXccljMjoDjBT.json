@@ -1,12 +1,12 @@
 {
   "description": "The best soft rock from the 1980s.",
-  "num_followers": 372496,
+  "num_followers": 372535,
   "original_name": "80s Soft Rock",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAEhFNB5w10wRmhwbXYMA2pdX/Udq",
+  "snapshot_id": "AAAAAE95HNIcKGfzmgcrorn5xCxpyKAE",
   "tracks": [
     {
       "added_at": "2023-03-30 14:38:10",
@@ -219,22 +219,6 @@
     {
       "added_at": "2023-03-30 14:38:10",
       "album": {
-        "name": "One Eighty",
-        "url": "https://open.spotify.com/album/4WsQBaO2DLvDZ5VRmsXbUH"
-      },
-      "artists": [
-        {
-          "name": "Ambrosia",
-          "url": "https://open.spotify.com/artist/0J2Ej2rMQyqaUX3G6MUISw"
-        }
-      ],
-      "duration_ms": 324040,
-      "name": "Biggest Part of Me",
-      "url": "https://open.spotify.com/track/6JHXiRD1QjMK1N6AQEnL04"
-    },
-    {
-      "added_at": "2023-03-30 14:38:10",
-      "album": {
         "name": "Lost in Love",
         "url": "https://open.spotify.com/album/3fB2z5YtmKvSCu77Z3nTnW"
       },
@@ -247,6 +231,22 @@
       "duration_ms": 233866,
       "name": "Lost In Love",
       "url": "https://open.spotify.com/track/6MfVSA5iKBPHzo6RGARjL0"
+    },
+    {
+      "added_at": "2023-03-30 14:38:10",
+      "album": {
+        "name": "One Eighty",
+        "url": "https://open.spotify.com/album/4WsQBaO2DLvDZ5VRmsXbUH"
+      },
+      "artists": [
+        {
+          "name": "Ambrosia",
+          "url": "https://open.spotify.com/artist/0J2Ej2rMQyqaUX3G6MUISw"
+        }
+      ],
+      "duration_ms": 324040,
+      "name": "Biggest Part of Me",
+      "url": "https://open.spotify.com/track/6JHXiRD1QjMK1N6AQEnL04"
     },
     {
       "added_at": "2023-03-30 14:38:10",
@@ -815,22 +815,6 @@
     {
       "added_at": "2023-03-30 14:38:10",
       "album": {
-        "name": "Once In a Lifetime",
-        "url": "https://open.spotify.com/album/43jipQPPOtUEs0v6LlxmAf"
-      },
-      "artists": [
-        {
-          "name": "Michael Ruff",
-          "url": "https://open.spotify.com/artist/5skgtnwVGfdVqnPnTBF6ZI"
-        }
-      ],
-      "duration_ms": 264680,
-      "name": "Once In a Lifetime",
-      "url": "https://open.spotify.com/track/5mfSMt0ns1tUbqvgrPTweE"
-    },
-    {
-      "added_at": "2023-03-30 14:38:10",
-      "album": {
         "name": "Chicago 17 (Expanded Edition)",
         "url": "https://open.spotify.com/album/3kkAB63Am6POYuMTisinaa"
       },
@@ -843,6 +827,22 @@
       "duration_ms": 229426,
       "name": "You're the Inspiration - 2009 Remaster",
       "url": "https://open.spotify.com/track/6d7PQZtTbHbcYqaygOW7vs"
+    },
+    {
+      "added_at": "2023-03-30 14:38:10",
+      "album": {
+        "name": "Once In a Lifetime",
+        "url": "https://open.spotify.com/album/43jipQPPOtUEs0v6LlxmAf"
+      },
+      "artists": [
+        {
+          "name": "Michael Ruff",
+          "url": "https://open.spotify.com/artist/5skgtnwVGfdVqnPnTBF6ZI"
+        }
+      ],
+      "duration_ms": 264680,
+      "name": "Once In a Lifetime",
+      "url": "https://open.spotify.com/track/5mfSMt0ns1tUbqvgrPTweE"
     },
     {
       "added_at": "2023-03-30 14:38:10",

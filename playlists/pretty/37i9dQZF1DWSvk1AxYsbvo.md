@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSvk1AxYsbvo.md) - [plain]
 
 > 🐹김햄찌와 함께 이불 안 속처럼 포근하고 편안한 음악들과 함께 폭신한 기분을 만끽하세요\. \(Enjoy a cozy feeling, like inside a blanket, with music that is cozy and comfortable with Haemjji.\)
 
-[Spotify](https://open.spotify.com/user/spotify) - 26,725 likes - 50 songs - 2 hr 51 min
+[Spotify](https://open.spotify.com/user/spotify) - 26,728 likes - 50 songs - 2 hr 51 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -29,8 +29,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSvk1AxYsbvo.md) - [plain]
 | 19 | [Forest](https://open.spotify.com/track/2T0dcL9HI7t0W9H0vJANAN) | [sunwoojunga](https://open.spotify.com/artist/04L3elxyr0XFua2Ek3domW) | [In Your Radiant Season \(Original Television Soundtrack\) Pt\. 2](https://open.spotify.com/album/11aaLvJEQx6IrJ1EySCOmn) | 3:23 |
 | 20 | [Shining](https://open.spotify.com/track/4YgkvKLJGdjy3LyMBiJnxa) | [KIM PUREUM](https://open.spotify.com/artist/5lzn05sB0L0EtuTHBAhTpJ) | [Still Shining OST Part.7](https://open.spotify.com/album/5BQZMlxrr98Yi4KeKY8ZMA) | 3:45 |
 | 21 | [What about Next Spring \(feat\. Kim Daniel of wave to earth\)](https://open.spotify.com/track/57ruI2k5kFJMNxLKHzBEyh) | [Milena](https://open.spotify.com/artist/2ODok2cPMF1Z1gZetfaL6n), [Kim Daniel](https://open.spotify.com/artist/3lr26NDbIkMbrcgwWOTSAY) | [What about Next Spring \(feat\. Kim Daniel of wave to earth\)](https://open.spotify.com/album/6l6AeNEAevPbbOag6x7OuJ) | 3:39 |
-| 22 | [zZ\(Tired\) \(With Yebit\)](https://open.spotify.com/track/18UZECrGyokO4pevw7dh4r) | [유성윤](https://open.spotify.com/artist/3IjLcqswR7fy61qEyvWssW), [Yebit](https://open.spotify.com/artist/7zdCvtTQdMCj37CuQxkyQf) | [zZ](https://open.spotify.com/album/0jbRf93DOc5iQEI4UY7pze) | 3:47 |
-| 23 | [Dear My Love](https://open.spotify.com/track/0qyAGE9nrTR7GGaDDoSX6L) | [Yim Siwan](https://open.spotify.com/artist/182ecftEoWZSTXQgTEeqgj) | [The Reason \- The 1st Mini Album](https://open.spotify.com/album/51VULNWdcYSEOsbZLPH5s1) | 3:33 |
+| 22 | [Dear My Love](https://open.spotify.com/track/0qyAGE9nrTR7GGaDDoSX6L) | [Yim Siwan](https://open.spotify.com/artist/182ecftEoWZSTXQgTEeqgj) | [The Reason \- The 1st Mini Album](https://open.spotify.com/album/51VULNWdcYSEOsbZLPH5s1) | 3:33 |
+| 23 | [zZ\(Tired\) \(With Yebit\)](https://open.spotify.com/track/18UZECrGyokO4pevw7dh4r) | [유성윤](https://open.spotify.com/artist/3IjLcqswR7fy61qEyvWssW), [Yebit](https://open.spotify.com/artist/7zdCvtTQdMCj37CuQxkyQf) | [zZ](https://open.spotify.com/album/0jbRf93DOc5iQEI4UY7pze) | 3:47 |
 | 24 | [What A Friend Is](https://open.spotify.com/track/4MnV29JdPtOR0Dl3KUjMq2) | [Nilo](https://open.spotify.com/artist/3JfHHtYuuQHtMtw2T7ff4v), [Jeon Sang Keun](https://open.spotify.com/artist/3uCDicSmenMBtsKb5A51dd) | [What A Friend Is](https://open.spotify.com/album/5VvDkGwzKlHFnqcc05KACE) | 4:17 |
 | 25 | [Never Leave Me \(Feat\. pH\-1\)](https://open.spotify.com/track/3t0jz1RuFVgLHb0E5rG8TI) | [Meenoi](https://open.spotify.com/artist/5KuvNz7npsGeDJdk8QHMVH), [pH\-1](https://open.spotify.com/artist/2u7CP5T30c8ctenzXgEV1W) | [NOI MAS](https://open.spotify.com/album/2lLUXuBMZZWb8NdSd3BIwm) | 3:36 |
 | 26 | [Dear, Barcelona](https://open.spotify.com/track/4xVsCSWd7Otr19tN9JNC8G) | [Milena](https://open.spotify.com/artist/2ODok2cPMF1Z1gZetfaL6n) | [Dear, Barcelona](https://open.spotify.com/album/26tVGQR0jl6vZ0JRszMl4e) | 3:43 |
@@ -44,8 +44,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSvk1AxYsbvo.md) - [plain]
 | 34 | [summer youth](https://open.spotify.com/track/3weLeZpoo5XQnoxkc3wbSa) | [Baek A](https://open.spotify.com/artist/5rHUhS9Ya0S63WI9LFmCSx) | [summer youth](https://open.spotify.com/album/59cIkqrNBXirVmxoH4u5iB) | 3:37 |
 | 35 | [Mariposa](https://open.spotify.com/track/0ssJ1aWcx4cfe7PVbQ29fz) | [soye](https://open.spotify.com/artist/5jG6m64ShKn6a3A8IzIAcx) | [Mariposa](https://open.spotify.com/album/2QB19HyUC6dU3uoaA7TMzT) | 2:50 |
 | 36 | [지금 이대로 Stay with me](https://open.spotify.com/track/54413VtpbmW1Xbhj0HoqWt) | [Jukjae](https://open.spotify.com/artist/7bWYN0sHvyH7yv1uefX07U) | [하루 한방울 One drop a day \(Original Soundtrack\), Pt\. 1](https://open.spotify.com/album/7ErAyd64YTQ0kLI2JsLFl3) | 3:10 |
-| 37 | [All My Love \- Korean Ver.](https://open.spotify.com/track/7tBopxC7AwomZnU7KuKF9u) | [PARK BO GUM](https://open.spotify.com/artist/3wkl0GrYTJjWoTmGAJRosv) | [All My Love](https://open.spotify.com/album/0i4ymIcTfqV6virrQYNAat) | 3:23 |
-| 38 | [summerless](https://open.spotify.com/track/5mK4gz7F6zRv0cJP4HlWRl) | [본하](https://open.spotify.com/artist/26oPZPY5H08ViuL52JDqKS) | [summerless](https://open.spotify.com/album/15UTXE6WIeQZsKt1qJALsL) | 3:06 |
+| 37 | [summerless](https://open.spotify.com/track/5mK4gz7F6zRv0cJP4HlWRl) | [본하](https://open.spotify.com/artist/26oPZPY5H08ViuL52JDqKS) | [summerless](https://open.spotify.com/album/15UTXE6WIeQZsKt1qJALsL) | 3:06 |
+| 38 | [All My Love \- Korean Ver.](https://open.spotify.com/track/7tBopxC7AwomZnU7KuKF9u) | [PARK BO GUM](https://open.spotify.com/artist/3wkl0GrYTJjWoTmGAJRosv) | [All My Love](https://open.spotify.com/album/0i4ymIcTfqV6virrQYNAat) | 3:23 |
 | 39 | [Joy](https://open.spotify.com/track/4pzNQT5eROmrGNmdeIW5DI) | [xooos](https://open.spotify.com/artist/0OqnFLmTWiVGm3Ifk6mahQ) | [Made In Heart](https://open.spotify.com/album/5SFEorQR8TgWGYwLSg2nE2) | 2:40 |
 | 40 | [Sweet Lullaby](https://open.spotify.com/track/1NHf1Nuumrgje7lmuM2QVY) | [Paul Kim](https://open.spotify.com/artist/4qRXrzUmdy3p33lgvJEzdv) | [Sweet Lullaby](https://open.spotify.com/album/65RzyhETVL6M4MmdMRcM5X) | 3:15 |
 | 41 | [While You're Sleeping, I Am](https://open.spotify.com/track/4kuXj6o4xIeUMNYK0NmrDf) | [Darin](https://open.spotify.com/artist/3NeWfnkjhDK8umjBipcf5W) | [Autumn](https://open.spotify.com/album/1RSwpzDWOjzsrBCJAWco7r) | 3:41 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSvk1AxYsbvo.md) - [plain]
 | 49 | [Falling for you](https://open.spotify.com/track/20cR2d52u31dj9HrGXlcui) | [Arn](https://open.spotify.com/artist/5rwVUtqdfuo4n6Sfgg0Hgy) | [Floating thoughts](https://open.spotify.com/album/1N0BlNElOVwAeidJN4otFM) | 4:14 |
 | 50 | [It will be all fine](https://open.spotify.com/track/7xzN0ZWjfkLCagoEeQWLri) | [Hoyeon Kim](https://open.spotify.com/artist/2F6vo1DnhCOz8CxcUz7s7m) | [Lean On Me \(Original Television Soundtrack\)](https://open.spotify.com/album/5wTDnPeT17KsAzFiDwhQuR) | 2:33 |
 
-Snapshot ID: `AAAAAALi8PUww0T067U+DQe1ZvKD2f9e`
+Snapshot ID: `AAAAALB2zmiZFEidi1OShMuNFz12F6WS`

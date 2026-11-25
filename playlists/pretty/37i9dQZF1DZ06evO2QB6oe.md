@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2QB6oe.md) - [plain]
 
 > This is Pedro Capó\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 71,343 likes - 50 songs - 2 hr 42 min
+[Spotify](https://open.spotify.com/user/spotify) - 71,344 likes - 50 songs - 2 hr 42 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -27,8 +27,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2QB6oe.md) - [plain]
 | 17 | [Mantra](https://open.spotify.com/track/4NoDlGcDYyRuAWdZPR9COL) | [Matisse](https://open.spotify.com/artist/77aLk6J8ofnVxa1eXK9jiU), [Pedro Capó](https://open.spotify.com/artist/4QVBYiagIaa6ZGSPMbybpy) | [Bella Nostalgia](https://open.spotify.com/album/4FsRaHd01kqakhGWZ0zygK) | 3:30 |
 | 18 | [Eres](https://open.spotify.com/track/6u2GVaaSMwqk1YqWEvuGqR) | [Pedro Capó](https://open.spotify.com/artist/4QVBYiagIaa6ZGSPMbybpy) | [Fulanito](https://open.spotify.com/album/4l7bsYy7gsvAsDCv3ThByZ) | 2:47 |
 | 19 | [Donde Hubo Amor](https://open.spotify.com/track/26oMyThq262l4DJVZ3cUz2) | [Pedro Capó](https://open.spotify.com/artist/4QVBYiagIaa6ZGSPMbybpy) | [MUNAY](https://open.spotify.com/album/4E0E7d1jNLPrmf1u4xMnl8) | 3:38 |
-| 20 | [Nuevas Mentiras](https://open.spotify.com/track/3vabwCZ4W0ommrf6wlSInU) | [Kany García](https://open.spotify.com/artist/69UypehHabb68utzfjAVlV), [Pedro Capó](https://open.spotify.com/artist/4QVBYiagIaa6ZGSPMbybpy) | [Mesa Para Dos](https://open.spotify.com/album/1ZGHMTg7kh6TRqDRkJyEHO) | 3:43 |
-| 21 | [Divina](https://open.spotify.com/track/3Okh7qw2zSwrS9AST3SSUx) | [Pedro Capó](https://open.spotify.com/artist/4QVBYiagIaa6ZGSPMbybpy) | [La Carretera](https://open.spotify.com/album/5rVIdtoCee1JB1OaLkTo00) | 3:27 |
+| 20 | [Divina](https://open.spotify.com/track/3Okh7qw2zSwrS9AST3SSUx) | [Pedro Capó](https://open.spotify.com/artist/4QVBYiagIaa6ZGSPMbybpy) | [La Carretera](https://open.spotify.com/album/5rVIdtoCee1JB1OaLkTo00) | 3:27 |
+| 21 | [Nuevas Mentiras](https://open.spotify.com/track/3vabwCZ4W0ommrf6wlSInU) | [Kany García](https://open.spotify.com/artist/69UypehHabb68utzfjAVlV), [Pedro Capó](https://open.spotify.com/artist/4QVBYiagIaa6ZGSPMbybpy) | [Mesa Para Dos](https://open.spotify.com/album/1ZGHMTg7kh6TRqDRkJyEHO) | 3:43 |
 | 22 | [Mundo Paralelo](https://open.spotify.com/track/5Sb2QTq4PNDQyj6HdpdxWk) | [Monsieur Periné](https://open.spotify.com/artist/36KsCCwgI0Dep97yVJWmkK), [Pedro Capó](https://open.spotify.com/artist/4QVBYiagIaa6ZGSPMbybpy) | [Mundo Paralelo](https://open.spotify.com/album/0QrA9TTm6EFdy8qJAoIqPR) | 3:17 |
 | 23 | [Buena Suerte](https://open.spotify.com/track/4fAlzlBojsx7aA9llmidAN) | [Pedro Capó](https://open.spotify.com/artist/4QVBYiagIaa6ZGSPMbybpy) | [MUNAY](https://open.spotify.com/album/4E0E7d1jNLPrmf1u4xMnl8) | 2:54 |
 | 24 | [Si Tú Me Lo Pides \(feat\. Kany García\)](https://open.spotify.com/track/3es7XP3HS7TqZqC9Z6cdmd) | [Pedro Capó](https://open.spotify.com/artist/4QVBYiagIaa6ZGSPMbybpy), [Kany García](https://open.spotify.com/artist/69UypehHabb68utzfjAVlV) | [Pedro Capó](https://open.spotify.com/album/09WFxztbheRZxTiUZezCiz) | 4:12 |
@@ -47,11 +47,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2QB6oe.md) - [plain]
 | 37 | [Gracias \- Remix](https://open.spotify.com/track/3EPkYtHqRXZAxE9K7xxC2W) | [Pedro Capó](https://open.spotify.com/artist/4QVBYiagIaa6ZGSPMbybpy), [Farruko](https://open.spotify.com/artist/329e4yvIujISKGKz1BZZbO) | [Gracias \(Remix\)](https://open.spotify.com/album/7DIEwl5kON89D6kXzPSZwB) | 4:13 |
 | 38 | [Esto Se Jodió](https://open.spotify.com/track/1PPJODzFMJ0pnn5DgknzSS) | [Pedro Capó](https://open.spotify.com/artist/4QVBYiagIaa6ZGSPMbybpy) | [Esto Se Jodió](https://open.spotify.com/album/0F0A7affQSG3f8yJEH8KlY) | 2:39 |
 | 39 | [Contigo](https://open.spotify.com/track/7qZmhrhOXy2vRnaFezgmD2) | [Pedro Capó](https://open.spotify.com/artist/4QVBYiagIaa6ZGSPMbybpy) | [La Carretera](https://open.spotify.com/album/5rVIdtoCee1JB1OaLkTo00) | 3:32 |
-| 40 | [Lo Que Ves Cuando Cierras los Ojos](https://open.spotify.com/track/3TrTXunrkaCCZsM9jZicW1) | [Pedro Capó](https://open.spotify.com/artist/4QVBYiagIaa6ZGSPMbybpy), [SpreadLof](https://open.spotify.com/artist/2mcQK34XJohxAWqROKXm9O) | [Fulanito](https://open.spotify.com/album/4l7bsYy7gsvAsDCv3ThByZ) | 1:01 |
+| 40 | [El Chiste](https://open.spotify.com/track/1nldhOIt5TC9TTXnW2fzUg) | [Pedro Capó](https://open.spotify.com/artist/4QVBYiagIaa6ZGSPMbybpy) | [Fulanito](https://open.spotify.com/album/4l7bsYy7gsvAsDCv3ThByZ) | 3:18 |
 | 41 | [Adiós](https://open.spotify.com/track/56egMSOttQh3ztykSqsk0u) | [Pedro Capó](https://open.spotify.com/artist/4QVBYiagIaa6ZGSPMbybpy) | [Adiós](https://open.spotify.com/album/2QszGFpzq25vKTPIdMySyu) | 3:18 |
-| 42 | [Jardín](https://open.spotify.com/track/6SpEFYmSZQJGuyL8tiyhnZ) | [Ale Zéguer](https://open.spotify.com/artist/1jIeEiC6KkryFux23ekWmQ), [Pedro Capó](https://open.spotify.com/artist/4QVBYiagIaa6ZGSPMbybpy) | [Mis No Lugares](https://open.spotify.com/album/5UTVOml5TfH7wUeCkqxM8k) | 2:58 |
-| 43 | [Piel Canela \(Casa Sole\)](https://open.spotify.com/track/44WRi9pjOVWlAv3tmYKOln) | [Soledad](https://open.spotify.com/artist/0K59Fm1y7s3j498ueS4qzY), [Pedro Capó](https://open.spotify.com/artist/4QVBYiagIaa6ZGSPMbybpy), [Chango Spasiuk](https://open.spotify.com/artist/0qGRkfnUqWeG49vbCv6rMY) | [Piel Canela \(Casa Sole\)](https://open.spotify.com/album/5HuL8cVtREOCRVr60LcUtU) | 3:12 |
-| 44 | [El Chiste](https://open.spotify.com/track/1nldhOIt5TC9TTXnW2fzUg) | [Pedro Capó](https://open.spotify.com/artist/4QVBYiagIaa6ZGSPMbybpy) | [Fulanito](https://open.spotify.com/album/4l7bsYy7gsvAsDCv3ThByZ) | 3:18 |
+| 42 | [Piel Canela \(Casa Sole\)](https://open.spotify.com/track/44WRi9pjOVWlAv3tmYKOln) | [Soledad](https://open.spotify.com/artist/0K59Fm1y7s3j498ueS4qzY), [Pedro Capó](https://open.spotify.com/artist/4QVBYiagIaa6ZGSPMbybpy), [Chango Spasiuk](https://open.spotify.com/artist/0qGRkfnUqWeG49vbCv6rMY) | [Piel Canela \(Casa Sole\)](https://open.spotify.com/album/5HuL8cVtREOCRVr60LcUtU) | 3:12 |
+| 43 | [Jardín](https://open.spotify.com/track/6SpEFYmSZQJGuyL8tiyhnZ) | [Ale Zéguer](https://open.spotify.com/artist/1jIeEiC6KkryFux23ekWmQ), [Pedro Capó](https://open.spotify.com/artist/4QVBYiagIaa6ZGSPMbybpy) | [Mis No Lugares](https://open.spotify.com/album/5UTVOml5TfH7wUeCkqxM8k) | 2:58 |
+| 44 | [Lo Que Ves Cuando Cierras los Ojos](https://open.spotify.com/track/3TrTXunrkaCCZsM9jZicW1) | [Pedro Capó](https://open.spotify.com/artist/4QVBYiagIaa6ZGSPMbybpy), [SpreadLof](https://open.spotify.com/artist/2mcQK34XJohxAWqROKXm9O) | [Fulanito](https://open.spotify.com/album/4l7bsYy7gsvAsDCv3ThByZ) | 1:01 |
 | 45 | [La Neta](https://open.spotify.com/track/0DKIkTI5jB14BEC6sJlsFm) | [Pedro Capó](https://open.spotify.com/artist/4QVBYiagIaa6ZGSPMbybpy) | [La Neta](https://open.spotify.com/album/4jL4G1XbqAKQjp3irG9kl1) | 3:25 |
 | 46 | [Para Ayudarte a Reir](https://open.spotify.com/track/6JkWvuiNPt4fmnEdBE4fir) | [Pedro Capó](https://open.spotify.com/artist/4QVBYiagIaa6ZGSPMbybpy) | [Aquila](https://open.spotify.com/album/6kNA5bH9hxoZuoUHZJt3fI) | 3:21 |
 | 47 | [Dulce Soledad](https://open.spotify.com/track/41CIG5tvJwEvhbkxZiv2P0) | [Pedro Capó](https://open.spotify.com/artist/4QVBYiagIaa6ZGSPMbybpy) | [La Carretera](https://open.spotify.com/album/5rVIdtoCee1JB1OaLkTo00) | 2:18 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2QB6oe.md) - [plain]
 | 49 | [Volver a Casa](https://open.spotify.com/track/0fiY9KBlMWgK1xrQTlmzyS) | [Pedro Capó](https://open.spotify.com/artist/4QVBYiagIaa6ZGSPMbybpy) | [La Neta](https://open.spotify.com/album/4jL4G1XbqAKQjp3irG9kl1) | 2:53 |
 | 50 | [Vivo](https://open.spotify.com/track/6MvSpQzS732DcvdHNc0hBj) | [Pedro Capó](https://open.spotify.com/artist/4QVBYiagIaa6ZGSPMbybpy) | [Aquila](https://open.spotify.com/album/6kNA5bH9hxoZuoUHZJt3fI) | 4:14 |
 
-Snapshot ID: `awIwgAAAAAB2VCma0TUscVC96atiGFU6`
+Snapshot ID: `awOCAAAAAAD6XoZjygG4kZRmeTtTFvjZ`

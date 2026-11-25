@@ -6480,7 +6480,7 @@
       ],
       "date_added": "2026-08-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-25",
       "duration_ms": 253793,
       "name": "Holy Moly - VIP",
       "url": "https://open.spotify.com/track/2lR38u65dPKs0ZJ3BHVoz6"
@@ -7138,6 +7138,32 @@
       "duration_ms": 198428,
       "name": "I\u2019m Confused",
       "url": "https://open.spotify.com/track/23IMx0AeVBouS72DfACGQt"
+    },
+    {
+      "album": {
+        "name": "JD",
+        "url": "https://open.spotify.com/album/5oPOkuY3oMRCsxWnFZjlk8"
+      },
+      "artists": [
+        {
+          "name": "Emporio",
+          "url": "https://open.spotify.com/artist/3fQvLQgwCxhkpIA3uZHqvb"
+        },
+        {
+          "name": "Gino Bonazzi",
+          "url": "https://open.spotify.com/artist/3boLJaAmPzBTomtB1o4pv4"
+        },
+        {
+          "name": "DixonBeats",
+          "url": "https://open.spotify.com/artist/1tPcm7nlLFtOsr42qq19Ej"
+        }
+      ],
+      "date_added": "2026-11-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 109714,
+      "name": "JD",
+      "url": "https://open.spotify.com/track/3Mdtfg95L09wTRFn4HujVf"
     },
     {
       "album": {

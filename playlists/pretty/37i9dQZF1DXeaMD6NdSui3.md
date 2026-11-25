@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXeaMD6NdSui3.md) - [plain]
 
 > Texas Blues at its best.
 
-[Spotify](https://open.spotify.com/user/spotify) - 184,252 likes - 50 songs - 3 hr 37 min
+[Spotify](https://open.spotify.com/user/spotify) - 184,279 likes - 50 songs - 3 hr 37 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -14,9 +14,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXeaMD6NdSui3.md) - [plain]
 | 4 | [Everytime I Roll The Dice](https://open.spotify.com/track/5fZY8YYJMnhD9HNWB4C4zU) | [Delbert McClinton](https://open.spotify.com/artist/3Ri72CuuQSCLLkDRJgniFU) | [Never Been Rocked Enough](https://open.spotify.com/album/3PSl0k14EYuc2IYOLL4hoM) | 4:29 |
 | 5 | [Good Texan](https://open.spotify.com/track/34d6n6HMfyOiQjudsxbfeh) | [The Vaughan Brothers](https://open.spotify.com/artist/2mwN5WQ1mAhOibFEbfFfsG) | [Family Style](https://open.spotify.com/album/1NpSBYjQQK5zJHBAS9SxsL) | 4:21 |
 | 6 | [Pride and Joy](https://open.spotify.com/track/1oT20g6f8rvymheUIdFr19) | [Stevie Ray Vaughan](https://open.spotify.com/artist/5fsDcuclIe8ZiBD5P787K1) | [The Real Deal: Greatest Hits Volume 1](https://open.spotify.com/album/1cBgyEhogUvaKVgsdczgHm) | 3:39 |
-| 7 | [Palace Of The King](https://open.spotify.com/track/2T6pMaivfX7w4tfAUX4uU9) | [Freddie King](https://open.spotify.com/artist/5dCuFngSPyOOnTAvrC7v2s) | [Getting Ready...](https://open.spotify.com/album/2bNjljctm6ynfp9Xzdy7RI) | 3:40 |
+| 7 | [Rolling With The Punches](https://open.spotify.com/track/0ECyZFXS02fUPW1AxMCUBQ) | [Johnny Copeland](https://open.spotify.com/artist/641QgCXSYTbRm9kigj0ABL) | [Catch Up With The Blues](https://open.spotify.com/album/7j9s4SGnWipClu5teWbqqV) | 6:34 |
 | 8 | [Don't Cha Know](https://open.spotify.com/track/4nFUyC6eDW1wJsYSYLMqZd) | [Jimmie Vaughan](https://open.spotify.com/artist/4gPGI1vW8TOypARV9Ykzae) | [Strange Pleasure](https://open.spotify.com/album/0XP5X222ItUVr3YEgmALg7) | 4:20 |
-| 9 | [Rolling With The Punches](https://open.spotify.com/track/0ECyZFXS02fUPW1AxMCUBQ) | [Johnny Copeland](https://open.spotify.com/artist/641QgCXSYTbRm9kigj0ABL) | [Catch Up With The Blues](https://open.spotify.com/album/7j9s4SGnWipClu5teWbqqV) | 6:34 |
+| 9 | [Palace Of The King](https://open.spotify.com/track/2T6pMaivfX7w4tfAUX4uU9) | [Freddie King](https://open.spotify.com/artist/5dCuFngSPyOOnTAvrC7v2s) | [Getting Ready...](https://open.spotify.com/album/2bNjljctm6ynfp9Xzdy7RI) | 3:40 |
 | 10 | [Brothers](https://open.spotify.com/track/2T3mWbAqtVIW8p6E23HD5s) | [The Vaughan Brothers](https://open.spotify.com/artist/2mwN5WQ1mAhOibFEbfFfsG) | [Family Style](https://open.spotify.com/album/1NpSBYjQQK5zJHBAS9SxsL) | 5:05 |
 | 11 | [Texas Flood](https://open.spotify.com/track/6MvGg9X7lIt64WW28Nxfxo) | [Stevie Ray Vaughan](https://open.spotify.com/artist/5fsDcuclIe8ZiBD5P787K1) | [The Essential Stevie Ray Vaughan And Double Trouble](https://open.spotify.com/album/4dShhtGUjPunYS95jHOm3r) | 5:20 |
 | 12 | [Givin' Up On Love](https://open.spotify.com/track/0z996lfA5XGfC9uwVaBIUW) | [Byther Smith](https://open.spotify.com/artist/6xvCAutMGoKknAWPv0tnxR), [Larry Davis](https://open.spotify.com/artist/27feE7HAmTov8QoZAp1y3A) | [Blues Knights\-Chicago Blues Festival 1985 \(Blues Reference\)](https://open.spotify.com/album/6OEyqgV8cDWD5b3ctNfnqc) | 5:47 |
@@ -34,8 +34,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXeaMD6NdSui3.md) - [plain]
 | 24 | [Whiskey Drinkin' Blues](https://open.spotify.com/track/51Us3goc25GZypfvfLQ3PT) | [Andrew "Jr Boy" Jones](https://open.spotify.com/artist/7bAJqc9QEfRjLeSEVuWf6c) | [I Know What It's Like](https://open.spotify.com/album/3a2lnTskswyUvsYNcxoqMV) | 4:33 |
 | 25 | [Sunny Day Friends](https://open.spotify.com/track/0uLlDxqX6uatonJwjodv2Q) | [Diunna Greenleaf](https://open.spotify.com/artist/22laryZFr71CbB5WtXIMzb) | [Trying to Hold On](https://open.spotify.com/album/4eYqi12IL2UvjNbnrZYP5s) | 3:40 |
 | 26 | [Part Time Love](https://open.spotify.com/track/3ZH4DOwTuTyLciokW7bPSe) | [Texas Bluesmen](https://open.spotify.com/artist/0zxAYpfMkRAisf8HCOWzY1), [Robert Ealey](https://open.spotify.com/artist/1LUaCz87zXDOg9abUxidOd) | [Texas Bluesmen](https://open.spotify.com/album/45O218hUcFN5yPA9rnOj7m) | 6:25 |
-| 27 | [I'm About to Lose My Mind](https://open.spotify.com/track/2TPntNWBQ4a4pW9AWsIOHd) | [Kai Strauss](https://open.spotify.com/artist/4rxJh3ATE3suDdQXBziz2E), [Darrell Nulisch](https://open.spotify.com/artist/5xBekcOlP8jLrvMqpC6MtV) | [Electric Blues](https://open.spotify.com/album/0Diw0JIhBoHfVxcmvGUHlI) | 4:59 |
-| 28 | [Starting All Over](https://open.spotify.com/track/3T1iXyK8LzxE4QYbU30z2N) | [Tutu Jones](https://open.spotify.com/artist/2YJ9frh2VN2BXKVtEjiV2L) | [Inside Out](https://open.spotify.com/album/1SNeILyRS6UHWV0zlRbmLb) | 4:06 |
+| 27 | [Starting All Over](https://open.spotify.com/track/3T1iXyK8LzxE4QYbU30z2N) | [Tutu Jones](https://open.spotify.com/artist/2YJ9frh2VN2BXKVtEjiV2L) | [Inside Out](https://open.spotify.com/album/1SNeILyRS6UHWV0zlRbmLb) | 4:06 |
+| 28 | [I'm About to Lose My Mind](https://open.spotify.com/track/2TPntNWBQ4a4pW9AWsIOHd) | [Kai Strauss](https://open.spotify.com/artist/4rxJh3ATE3suDdQXBziz2E), [Darrell Nulisch](https://open.spotify.com/artist/5xBekcOlP8jLrvMqpC6MtV) | [Electric Blues](https://open.spotify.com/album/0Diw0JIhBoHfVxcmvGUHlI) | 4:59 |
 | 29 | [Shakin' Dem Bones](https://open.spotify.com/track/6kz99KqDf43kfDGF2R7qsf) | [U.P\. Wilson](https://open.spotify.com/artist/6Nuiw9n4KzWqrcfn2m4u3F) | [Best Of \- The Texas Blues Guitar Tornado](https://open.spotify.com/album/3YNjUN1C7ZqYanMOcKdcOs) | 3:47 |
 | 30 | [La Grange \- 2005 Remaster](https://open.spotify.com/track/70YvYr2hGlS01bKRIho1HM) | [ZZ Top](https://open.spotify.com/artist/2AM4ilv6UzW0uMRuqKtDgN) | [Tres Hombres \(Expanded 2006 Remaster\)](https://open.spotify.com/album/0Em8m9kRctyH9S3MTXAHvY) | 3:50 |
 | 31 | [Texas](https://open.spotify.com/track/04kG9s73OxBkpC701Ifp62) | [Eric Johnson](https://open.spotify.com/artist/4CxobvwTpmfpIEbkYh4pAb), [Steve Miller](https://open.spotify.com/artist/7bMi7pddqeilAI6V9LWZaW), [Jimmie Vaughan](https://open.spotify.com/artist/4gPGI1vW8TOypARV9Ykzae) | [Up Close](https://open.spotify.com/album/6KTqSghfCNMlYRBNQytty9) | 6:02 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXeaMD6NdSui3.md) - [plain]
 | 49 | [Pay the Band](https://open.spotify.com/track/2PWSSJM09LYjt7o2sgyRsr) | [Buddy Whittington](https://open.spotify.com/artist/7vjDp4O4hkJGI6VRV5zUWS) | [Buddy Whittington](https://open.spotify.com/album/4xiFspY41nO24W9c3UqyLn) | 4:33 |
 | 50 | [Whiskey Drinkin' Blues](https://open.spotify.com/track/6CsdPQAmXxGozOfUK4TJWp) | [Andrew "Jr Boy" Jones](https://open.spotify.com/artist/7bAJqc9QEfRjLeSEVuWf6c) | [I Know What It's Like](https://open.spotify.com/album/2wq278LKG3XbveOToSzqVA) | 4:33 |
 
-Snapshot ID: `AAAAADUf7qaR1+gm4DTZtBbgBV//7EtE`
+Snapshot ID: `AAAAAGQFf7DsZxUIzguQ2iWwiiP/tCmx`

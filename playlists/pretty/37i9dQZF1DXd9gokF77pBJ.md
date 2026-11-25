@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXd9gokF77pBJ.md) - [plain]
 
 > <a href="spotify:artist:37fxVoFAMzet5CiiDg7SL7">CC:DISCO!'s </a> favourite tracks\. Updated regularly\. Curated by CC:DISCO!\. More track IDs <a href="spotify:genre:track\_id">here</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 23,173 likes - 78 songs - 6 hr 46 min
+[Spotify](https://open.spotify.com/user/spotify) - 23,184 likes - 78 songs - 6 hr 46 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -87,4 +87,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXd9gokF77pBJ.md) - [plain]
 | 77 | [Surrender \('88 Version\) \(2023 Remaster\)](https://open.spotify.com/track/784ypNcE0CXkfUxUiu0U9n) | [Suicide](https://open.spotify.com/artist/6uVeWolwyRDrT84lLsaZyW) | [A Way of Life \(35th Anniversary Edition; 2023 Remaster\)](https://open.spotify.com/album/7B7zUoZNVdYgqzrGpxTJ0t) | 3:47 |
 | 78 | [Stand Anthem](https://open.spotify.com/track/4pmKWJblDWVya7phEBjAzw) | [Beverly Glenn\-Copeland](https://open.spotify.com/artist/2bN5hXtWZXEIfnHO34eXfe) | [The Ones Ahead](https://open.spotify.com/album/0AdkBNWEM8uprSOb2ah8aD) | 5:58 |
 
-Snapshot ID: `AAAAAI+ArJ9PDWoYS431Vfje4jtfrAnn`
+Snapshot ID: `AAAAAFItBXd8QWoqauRZfoGaO8m993Ov`

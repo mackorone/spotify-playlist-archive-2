@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2LPGy4.md) - [plain]
 
 > This is Gerardo Ortiz\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 480,255 likes - 50 songs - 2 hr 28 min
+[Spotify](https://open.spotify.com/user/spotify) - 480,296 likes - 50 songs - 2 hr 28 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2LPGy4.md) - [plain]
 | 49 | [Sangre Azul](https://open.spotify.com/track/3Uu4iU6tVXlEjkpiDZC5UE) | [Gerardo Ortiz](https://open.spotify.com/artist/4J13m9IZh03PEhoxAxRhXO) | [Entre Dios y El Diablo \(Deluxe Version\)](https://open.spotify.com/album/5Z8W1u3XfVt5Qep5gI5raN) | 3:11 |
 | 50 | [La Noche Es Tuya \(feat\. América Sierra & Gerardo Ortiz\)](https://open.spotify.com/track/4oNras6nBQ4ucZAj74z9DB) | [3BallMTY](https://open.spotify.com/artist/1MLs9allBZrajb5Dc4146L), [Gerardo Ortiz](https://open.spotify.com/artist/4J13m9IZh03PEhoxAxRhXO), [América Sierra](https://open.spotify.com/artist/6iK7hlQHfupGjQHrxQIMly) | [Globall](https://open.spotify.com/album/5trXODX2kXgViIFuvKrwMo) | 3:01 |
 
-Snapshot ID: `awIwgAAAAACJpRwVRTb3XRPYx2HihxWB`
+Snapshot ID: `awOCAAAAAAAWW9Sv/5ufIAri+fE1iEqc`

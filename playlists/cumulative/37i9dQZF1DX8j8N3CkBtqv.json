@@ -26100,7 +26100,7 @@
       ],
       "date_added": "2026-10-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-25",
       "duration_ms": 208000,
       "name": "Ribcage",
       "url": "https://open.spotify.com/track/5sDAKW3OQc84UMnrhuFVyO"
@@ -29668,6 +29668,32 @@
       "duration_ms": 171093,
       "name": "Sunbeam",
       "url": "https://open.spotify.com/track/15MOuM5Jz3KJAmPPWDZI5G"
+    },
+    {
+      "album": {
+        "name": "sunflowers",
+        "url": "https://open.spotify.com/album/30bGIAebfAfrdPxXZTdr6m"
+      },
+      "artists": [
+        {
+          "name": "Reeshabh Purohit",
+          "url": "https://open.spotify.com/artist/0fCayDnRBfH5Skewe8os7E"
+        },
+        {
+          "name": "Harsh More",
+          "url": "https://open.spotify.com/artist/5tJPDbC6WpIoL32f2ckXIJ"
+        },
+        {
+          "name": "frangipani",
+          "url": "https://open.spotify.com/artist/4pgcZYiZ180FhhtLqTDeoV"
+        }
+      ],
+      "date_added": "2026-11-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 196770,
+      "name": "sunflowers",
+      "url": "https://open.spotify.com/track/0wIKOCO6x38XXJRmcwjTGA"
     },
     {
       "album": {

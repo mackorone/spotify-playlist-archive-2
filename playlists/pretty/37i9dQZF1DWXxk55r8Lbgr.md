@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXxk55r8Lbgr.md) - [plain]
 
 > 蘑菇濃湯來了！快點快點快點呦！和寶貝一起快樂唱唱跳跳吧！
 
-[Spotify](https://open.spotify.com/user/spotify) - 11,387 likes - 50 songs - 2 hr 13 min
+[Spotify](https://open.spotify.com/user/spotify) - 11,389 likes - 50 songs - 2 hr 13 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXxk55r8Lbgr.md) - [plain]
 | 49 | [拜託拜託給我一口](https://open.spotify.com/track/4S9viB1FQTAhNKO9B3ZXVT) | [焦凡凡](https://open.spotify.com/artist/1vgep0h29N7GekPN4MTOW3) | [拜託拜託給我一口](https://open.spotify.com/album/3CFiQfrYmJ5Z8uy3j9ADXs) | 2:29 |
 | 50 | [娃娃國](https://open.spotify.com/track/2uC8oCq0lZAfLO9gXk6XAm) | [銀河小歌星](https://open.spotify.com/artist/75IopNfhJarTwkkpN06iU4) | [100首可愛的童謠, Vol\. 1（上集）](https://open.spotify.com/album/0OJiAIBfqKpMZM2AyNhAed) | 2:05 |
 
-Snapshot ID: `AAAAAJ7z9yzSg+HREU5uszdUpyTRua/3`
+Snapshot ID: `AAAAACaa0MBZZDWbb0rf8fvGVCiOwvOD`

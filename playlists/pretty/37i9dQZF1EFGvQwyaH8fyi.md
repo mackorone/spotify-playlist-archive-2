@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFGvQwyaH8fyi.md) - [plain]
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/34oJLNndIw47tWcHNncXRR">Omer Fedi</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 3,377 likes - 154 songs - 7 hr 13 min
+[Spotify](https://open.spotify.com/user/spotify) - 3,378 likes - 154 songs - 7 hr 13 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -45,8 +45,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFGvQwyaH8fyi.md) - [plain]
 | 35 | [TOO MUCH](https://open.spotify.com/track/3O0QQkMGqtKTVL68DR5wJ5) | [The Kid LAROI](https://open.spotify.com/artist/2tIP7SsRs7vjIcLrU85W8J), [Jung Kook](https://open.spotify.com/artist/6HaGTQPmzraVmaVxvz6EUc), [Central Cee](https://open.spotify.com/artist/5H4yInM5zmHqpKIoMNAx4r) | [THE FIRST TIME](https://open.spotify.com/album/6qzsoMD2QnN9IZbPv5lOsy) | 3:23 |
 | 36 | [SUN GOES DOWN](https://open.spotify.com/track/6btdl1Vl6Ta5lUwUSOFW2H) | [Lil Nas X](https://open.spotify.com/artist/7jVv8c5Fj3E9VhNjxT4snq) | [MONTERO](https://open.spotify.com/album/6pOiDiuDQqrmo5DbG0ZubR) | 2:48 |
 | 37 | [Wrapped Around Your Finger](https://open.spotify.com/track/6Kfoo60npYPdvNxMPMiDpX) | [Post Malone](https://open.spotify.com/artist/246dkjvS1zLTtiykXe5h60) | [Twelve Carat Toothache](https://open.spotify.com/album/3HHNR44YbP7XogMVwzbodx) | 3:13 |
-| 38 | [Coco \(feat\. DaBaby\)](https://open.spotify.com/track/6MGRweoLPBAaPcXTMpMWsA) | [24kGoldn](https://open.spotify.com/artist/6fWVd57NKTalqvmjRd2t8Z), [DaBaby](https://open.spotify.com/artist/4r63FhuTkUYltbVAg5TQnk) | [El Dorado](https://open.spotify.com/album/270o30h7cAlEhBnbuSpFZq) | 2:22 |
-| 39 | [Material Lover \- from The Devil Wears Prada 2 Original Motion Picture](https://open.spotify.com/track/2aQcGu5C6qFcicPsaywTEK) | [SIENNA SPIRO](https://open.spotify.com/artist/02gSuSAWEdWa5UOvqzjX6v) | [Visitor \(Deluxe\)](https://open.spotify.com/album/2EAbXVmQUrylFiXVSQp6TJ) | 2:58 |
+| 38 | [Material Lover \- from The Devil Wears Prada 2 Original Motion Picture](https://open.spotify.com/track/2aQcGu5C6qFcicPsaywTEK) | [SIENNA SPIRO](https://open.spotify.com/artist/02gSuSAWEdWa5UOvqzjX6v) | [Visitor \(Deluxe\)](https://open.spotify.com/album/2EAbXVmQUrylFiXVSQp6TJ) | 2:58 |
+| 39 | [Coco \(feat\. DaBaby\)](https://open.spotify.com/track/6MGRweoLPBAaPcXTMpMWsA) | [24kGoldn](https://open.spotify.com/artist/6fWVd57NKTalqvmjRd2t8Z), [DaBaby](https://open.spotify.com/artist/4r63FhuTkUYltbVAg5TQnk) | [El Dorado](https://open.spotify.com/album/270o30h7cAlEhBnbuSpFZq) | 2:22 |
 | 40 | [Wandered To LA \(with Justin Bieber\)](https://open.spotify.com/track/2DQayQSTaomynGyTLXzGs0) | [Juice WRLD](https://open.spotify.com/artist/4MCBfE4596Uoi2O4DtmEMz), [Justin Bieber](https://open.spotify.com/artist/1uNFoZAHBGtllmzznpCI3s) | [Fighting Demons \(Deluxe\)](https://open.spotify.com/album/1typPCwqyXMfFpvDZAyKew) | 3:08 |
 | 41 | [BLEED](https://open.spotify.com/track/3Dy4X55INI3kaYHbAM0zBR) | [The Kid LAROI](https://open.spotify.com/artist/2tIP7SsRs7vjIcLrU85W8J) | [THE FIRST TIME](https://open.spotify.com/album/6qzsoMD2QnN9IZbPv5lOsy) | 2:49 |
 | 42 | [Pure](https://open.spotify.com/track/31IKMjvv6Oskp4hjGVeYsT) | [SIENNA SPIRO](https://open.spotify.com/artist/02gSuSAWEdWa5UOvqzjX6v) | [Visitor](https://open.spotify.com/album/1Aye7tEOHfJ3hDJIeJFggF) | 3:39 |
@@ -163,4 +163,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFGvQwyaH8fyi.md) - [plain]
 | 153 | [I Don’t Wanna Go To Bed](https://open.spotify.com/track/1SMUr8hWIoEy35yMAfMx4P) | [Ed Sheeran](https://open.spotify.com/artist/6eUKZXaKkcviH0Ku9w2n3V) | [Play \(Deluxe\)](https://open.spotify.com/album/2ajCD41iDxflpYBZmSO9S7) | 2:25 |
 | 154 | [Want Me Dead](https://open.spotify.com/track/2hyxyTDvBwzMLa3s0Kjwr4) | [Caspr](https://open.spotify.com/artist/6yZgSbQMnAFpQRgv7EMRzZ) | [Untitled, Vol 1.](https://open.spotify.com/album/2n8tEVt5quZs6L3l2Yu6Jh) | 3:13 |
 
-Snapshot ID: `AcifPAAAAABhKFyQktY3LAv3wL/Hn9Sn`
+Snapshot ID: `AcikZAAAAADP6zcnAhWSHB8fd1TkEUff`

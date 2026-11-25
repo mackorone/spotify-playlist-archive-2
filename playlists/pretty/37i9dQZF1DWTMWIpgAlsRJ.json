@@ -1,12 +1,12 @@
 {
   "description": "The Ultimate EA SPORTS FC Playlist: a celebration of The World's Game, curated specially for you.",
-  "num_followers": 396656,
+  "num_followers": 396645,
   "original_name": "EA SPORTS FC Ultimate Mix",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAALrtNOxuANKhvsngV7q4nWxYAJSl",
+  "snapshot_id": "AAAAAMEY3TnXlBVCHQFLkinMvcDKBxgT",
   "tracks": [
     {
       "added_at": "2026-09-22 20:34:58",
@@ -187,22 +187,6 @@
     {
       "added_at": "2026-09-22 20:34:58",
       "album": {
-        "name": "LA VIDA ES UNA",
-        "url": "https://open.spotify.com/album/3puAvurwvtvi1rodndIPW8"
-      },
-      "artists": [
-        {
-          "name": "Myke Towers",
-          "url": "https://open.spotify.com/artist/7iK8PXO48WeuP03g8YR51W"
-        }
-      ],
-      "duration_ms": 197920,
-      "name": "LALA",
-      "url": "https://open.spotify.com/track/7ABLbnD53cQK00mhcaOUVG"
-    },
-    {
-      "added_at": "2026-09-22 20:34:58",
-      "album": {
         "name": "Inner Light",
         "url": "https://open.spotify.com/album/4lwHXYfthE95rn7z1B3dWD"
       },
@@ -219,6 +203,22 @@
       "duration_ms": 257985,
       "name": "Inner Light",
       "url": "https://open.spotify.com/track/40tPP3K10yMZxwnT65REKj"
+    },
+    {
+      "added_at": "2026-09-22 20:34:58",
+      "album": {
+        "name": "LA VIDA ES UNA",
+        "url": "https://open.spotify.com/album/3puAvurwvtvi1rodndIPW8"
+      },
+      "artists": [
+        {
+          "name": "Myke Towers",
+          "url": "https://open.spotify.com/artist/7iK8PXO48WeuP03g8YR51W"
+        }
+      ],
+      "duration_ms": 197920,
+      "name": "LALA",
+      "url": "https://open.spotify.com/track/7ABLbnD53cQK00mhcaOUVG"
     },
     {
       "added_at": "2026-09-22 20:34:58",
@@ -807,22 +807,6 @@
     {
       "added_at": "2026-09-22 20:34:58",
       "album": {
-        "name": "Dance Dance Dance!",
-        "url": "https://open.spotify.com/album/6MpeEDPVX7DiLigR6rVS2r"
-      },
-      "artists": [
-        {
-          "name": "Barry Can't Swim",
-          "url": "https://open.spotify.com/artist/0vTVU0KH0CVzijsoKGsTPl"
-        }
-      ],
-      "duration_ms": 217797,
-      "name": "Dance Dance Dance!",
-      "url": "https://open.spotify.com/track/6O23Yf2GSRMunBn3j1eQCJ"
-    },
-    {
-      "added_at": "2026-09-22 20:34:58",
-      "album": {
         "name": "Woodstock",
         "url": "https://open.spotify.com/album/4VzzEviJGYUtAeSsJlI9QB"
       },
@@ -835,6 +819,22 @@
       "duration_ms": 246786,
       "name": "Live in the Moment",
       "url": "https://open.spotify.com/track/60eOMEt3WNVX1m1jmApmnX"
+    },
+    {
+      "added_at": "2026-09-22 20:34:58",
+      "album": {
+        "name": "Dance Dance Dance!",
+        "url": "https://open.spotify.com/album/6MpeEDPVX7DiLigR6rVS2r"
+      },
+      "artists": [
+        {
+          "name": "Barry Can't Swim",
+          "url": "https://open.spotify.com/artist/0vTVU0KH0CVzijsoKGsTPl"
+        }
+      ],
+      "duration_ms": 217797,
+      "name": "Dance Dance Dance!",
+      "url": "https://open.spotify.com/track/6O23Yf2GSRMunBn3j1eQCJ"
     },
     {
       "added_at": "2026-09-22 20:34:58",
@@ -1003,22 +1003,6 @@
     {
       "added_at": "2026-09-22 20:34:58",
       "album": {
-        "name": "Who's That",
-        "url": "https://open.spotify.com/album/5aPI8eIDOS7z4FwcLd0fDH"
-      },
-      "artists": [
-        {
-          "name": "The War On Drugs",
-          "url": "https://open.spotify.com/artist/6g0mn3tzAds6aVeUYRsryU"
-        }
-      ],
-      "duration_ms": 314733,
-      "name": "Who's That",
-      "url": "https://open.spotify.com/track/2YPP52aPZiFUxTmbQTUiR6"
-    },
-    {
-      "added_at": "2026-09-22 20:34:58",
-      "album": {
         "name": "This Is Happening",
         "url": "https://open.spotify.com/album/4hnqM0JK4CM1phwfq1Ldyz"
       },
@@ -1031,6 +1015,22 @@
       "duration_ms": 352003,
       "name": "I Can Change",
       "url": "https://open.spotify.com/track/2073QOEC8rBtSyTsRyaWiP"
+    },
+    {
+      "added_at": "2026-09-22 20:34:58",
+      "album": {
+        "name": "Who's That",
+        "url": "https://open.spotify.com/album/5aPI8eIDOS7z4FwcLd0fDH"
+      },
+      "artists": [
+        {
+          "name": "The War On Drugs",
+          "url": "https://open.spotify.com/artist/6g0mn3tzAds6aVeUYRsryU"
+        }
+      ],
+      "duration_ms": 314733,
+      "name": "Who's That",
+      "url": "https://open.spotify.com/track/2YPP52aPZiFUxTmbQTUiR6"
     },
     {
       "added_at": "2026-09-22 20:34:58",
@@ -1199,22 +1199,6 @@
     {
       "added_at": "2026-09-22 20:34:58",
       "album": {
-        "name": "Colors (Coca-Cola\u00ae Anthem, 2018 FIFA World CupTM)",
-        "url": "https://open.spotify.com/album/7pglizAVl7fH7acLADSS8d"
-      },
-      "artists": [
-        {
-          "name": "Jason Derulo",
-          "url": "https://open.spotify.com/artist/07YZf4WDAMNwqr4jfgOZ8y"
-        }
-      ],
-      "duration_ms": 187389,
-      "name": "Colors - Coca-Cola\u00ae Anthem, 2018 FIFA World CupTM",
-      "url": "https://open.spotify.com/track/7wD6iRghe6SnKHkvHqpnC5"
-    },
-    {
-      "added_at": "2026-09-22 20:34:58",
-      "album": {
         "name": "Angles",
         "url": "https://open.spotify.com/album/6Jx4cGhWHewTcfKDJKguBQ"
       },
@@ -1227,6 +1211,22 @@
       "duration_ms": 209626,
       "name": "Machu Picchu",
       "url": "https://open.spotify.com/track/6mVD1SfTvlFAPVi7txFL5H"
+    },
+    {
+      "added_at": "2026-09-22 20:34:58",
+      "album": {
+        "name": "Colors (Coca-Cola\u00ae Anthem, 2018 FIFA World CupTM)",
+        "url": "https://open.spotify.com/album/7pglizAVl7fH7acLADSS8d"
+      },
+      "artists": [
+        {
+          "name": "Jason Derulo",
+          "url": "https://open.spotify.com/artist/07YZf4WDAMNwqr4jfgOZ8y"
+        }
+      ],
+      "duration_ms": 187389,
+      "name": "Colors - Coca-Cola\u00ae Anthem, 2018 FIFA World CupTM",
+      "url": "https://open.spotify.com/track/7wD6iRghe6SnKHkvHqpnC5"
     },
     {
       "added_at": "2026-09-22 20:34:58",
@@ -1299,38 +1299,6 @@
     {
       "added_at": "2026-09-22 20:34:58",
       "album": {
-        "name": "Kasabian",
-        "url": "https://open.spotify.com/album/0VyDvw4MT9XDoSzE24yBCc"
-      },
-      "artists": [
-        {
-          "name": "Kasabian",
-          "url": "https://open.spotify.com/artist/11wRdbnoYqRddKBrpHt4Ue"
-        }
-      ],
-      "duration_ms": 214442,
-      "name": "Club Foot",
-      "url": "https://open.spotify.com/track/6C0xucNj75wRdlejwWIEW1"
-    },
-    {
-      "added_at": "2026-09-22 20:34:58",
-      "album": {
-        "name": "LOVETAP!",
-        "url": "https://open.spotify.com/album/59xqFRG2IgFTsZtQ73yIp6"
-      },
-      "artists": [
-        {
-          "name": "Smallpools",
-          "url": "https://open.spotify.com/artist/4iiQabGKtS2RtTKpVkrVTw"
-        }
-      ],
-      "duration_ms": 216253,
-      "name": "Dreaming",
-      "url": "https://open.spotify.com/track/6cMswWRv4lAU3mh5lclgCc"
-    },
-    {
-      "added_at": "2026-09-22 20:34:58",
-      "album": {
         "name": "QUIMERA",
         "url": "https://open.spotify.com/album/3LDuV7uzY3d1YJWmjrc4Ql"
       },
@@ -1351,6 +1319,38 @@
       "duration_ms": 146000,
       "name": "HACE CALOR",
       "url": "https://open.spotify.com/track/4tabsd3NLLwuT90wkuNh7C"
+    },
+    {
+      "added_at": "2026-09-22 20:34:58",
+      "album": {
+        "name": "LOVETAP!",
+        "url": "https://open.spotify.com/album/59xqFRG2IgFTsZtQ73yIp6"
+      },
+      "artists": [
+        {
+          "name": "Smallpools",
+          "url": "https://open.spotify.com/artist/4iiQabGKtS2RtTKpVkrVTw"
+        }
+      ],
+      "duration_ms": 216253,
+      "name": "Dreaming",
+      "url": "https://open.spotify.com/track/6cMswWRv4lAU3mh5lclgCc"
+    },
+    {
+      "added_at": "2026-09-22 20:34:58",
+      "album": {
+        "name": "Kasabian",
+        "url": "https://open.spotify.com/album/0VyDvw4MT9XDoSzE24yBCc"
+      },
+      "artists": [
+        {
+          "name": "Kasabian",
+          "url": "https://open.spotify.com/artist/11wRdbnoYqRddKBrpHt4Ue"
+        }
+      ],
+      "duration_ms": 214442,
+      "name": "Club Foot",
+      "url": "https://open.spotify.com/track/6C0xucNj75wRdlejwWIEW1"
     },
     {
       "added_at": "2026-09-22 20:34:58",
@@ -1443,6 +1443,22 @@
     {
       "added_at": "2026-09-22 20:34:58",
       "album": {
+        "name": "LCD Soundsystem",
+        "url": "https://open.spotify.com/album/6aSk2vxoY3xtz7cXKuY9EL"
+      },
+      "artists": [
+        {
+          "name": "LCD Soundsystem",
+          "url": "https://open.spotify.com/artist/066X20Nz7iquqkkCW6Jxy6"
+        }
+      ],
+      "duration_ms": 314556,
+      "name": "Daft Punk Is Playing at My House",
+      "url": "https://open.spotify.com/track/73mlvsfJM2qwlDUJxeaatI"
+    },
+    {
+      "added_at": "2026-09-22 20:34:58",
+      "album": {
         "name": "places to be",
         "url": "https://open.spotify.com/album/0M0iJGLagLtI4LlooOiiNZ"
       },
@@ -1463,22 +1479,6 @@
       "duration_ms": 226677,
       "name": "places to be",
       "url": "https://open.spotify.com/track/561pBFcFL2Pwb9HPO9tU8J"
-    },
-    {
-      "added_at": "2026-09-22 20:34:58",
-      "album": {
-        "name": "LCD Soundsystem",
-        "url": "https://open.spotify.com/album/6aSk2vxoY3xtz7cXKuY9EL"
-      },
-      "artists": [
-        {
-          "name": "LCD Soundsystem",
-          "url": "https://open.spotify.com/artist/066X20Nz7iquqkkCW6Jxy6"
-        }
-      ],
-      "duration_ms": 314556,
-      "name": "Daft Punk Is Playing at My House",
-      "url": "https://open.spotify.com/track/73mlvsfJM2qwlDUJxeaatI"
     },
     {
       "added_at": "2026-09-22 20:34:58",
@@ -1635,22 +1635,6 @@
     {
       "added_at": "2026-09-22 20:34:58",
       "album": {
-        "name": "Konk",
-        "url": "https://open.spotify.com/album/37he52Ye10gETvnot9bC2t"
-      },
-      "artists": [
-        {
-          "name": "The Kooks",
-          "url": "https://open.spotify.com/artist/1GLtl8uqKmnyCWxHmw9tL4"
-        }
-      ],
-      "duration_ms": 161720,
-      "name": "Always Where I Need To Be",
-      "url": "https://open.spotify.com/track/6gGSSrKMiV2yec1DrqGhhy"
-    },
-    {
-      "added_at": "2026-09-22 20:34:58",
-      "album": {
         "name": "Omen (Radio Edit)",
         "url": "https://open.spotify.com/album/2Vd3aVbpKUyRq42B7xd2HW"
       },
@@ -1671,6 +1655,22 @@
     {
       "added_at": "2026-09-22 20:34:58",
       "album": {
+        "name": "Konk",
+        "url": "https://open.spotify.com/album/37he52Ye10gETvnot9bC2t"
+      },
+      "artists": [
+        {
+          "name": "The Kooks",
+          "url": "https://open.spotify.com/artist/1GLtl8uqKmnyCWxHmw9tL4"
+        }
+      ],
+      "duration_ms": 161720,
+      "name": "Always Where I Need To Be",
+      "url": "https://open.spotify.com/track/6gGSSrKMiV2yec1DrqGhhy"
+    },
+    {
+      "added_at": "2026-09-22 20:34:58",
+      "album": {
         "name": "(((((ultraSOUND)))))+",
         "url": "https://open.spotify.com/album/5Wa03W4vfkVvMETp0QOKcZ"
       },
@@ -1683,22 +1683,6 @@
       "duration_ms": 191466,
       "name": "Red Flag",
       "url": "https://open.spotify.com/track/5m8QBWMfWxq9F8e8uI53hp"
-    },
-    {
-      "added_at": "2026-09-22 20:34:58",
-      "album": {
-        "name": "Black & Gold",
-        "url": "https://open.spotify.com/album/7gBzSSKb7j7ilqVNfGrmY7"
-      },
-      "artists": [
-        {
-          "name": "Sam Sparro",
-          "url": "https://open.spotify.com/artist/0H0rBbf7vHXO3qh50Wap7y"
-        }
-      ],
-      "duration_ms": 274426,
-      "name": "Black & Gold",
-      "url": "https://open.spotify.com/track/3V45D1XTTyVZFN3liYuik6"
     },
     {
       "added_at": "2026-09-22 20:34:58",
@@ -1723,6 +1707,22 @@
     {
       "added_at": "2026-09-22 20:34:58",
       "album": {
+        "name": "Black & Gold",
+        "url": "https://open.spotify.com/album/7gBzSSKb7j7ilqVNfGrmY7"
+      },
+      "artists": [
+        {
+          "name": "Sam Sparro",
+          "url": "https://open.spotify.com/artist/0H0rBbf7vHXO3qh50Wap7y"
+        }
+      ],
+      "duration_ms": 274426,
+      "name": "Black & Gold",
+      "url": "https://open.spotify.com/track/3V45D1XTTyVZFN3liYuik6"
+    },
+    {
+      "added_at": "2026-09-22 20:34:58",
+      "album": {
         "name": "Starburster",
         "url": "https://open.spotify.com/album/1KkyOpscmbPAQzLNZDyI6o"
       },
@@ -1739,22 +1739,6 @@
     {
       "added_at": "2026-09-22 20:34:58",
       "album": {
-        "name": "NZELA",
-        "url": "https://open.spotify.com/album/38rowpiWYFIVqvrL6UFK7s"
-      },
-      "artists": [
-        {
-          "name": "SDM",
-          "url": "https://open.spotify.com/artist/0LKAV3zJ8a8AIGnyc5OvfB"
-        }
-      ],
-      "duration_ms": 191013,
-      "name": "NZELA",
-      "url": "https://open.spotify.com/track/1xBS5qYuqGDF4nTlgItgcq"
-    },
-    {
-      "added_at": "2026-09-22 20:34:58",
-      "album": {
         "name": "Moving",
         "url": "https://open.spotify.com/album/5ddIWQKK8ViScna6B0ARAl"
       },
@@ -1767,6 +1751,22 @@
       "duration_ms": 140367,
       "name": "Moving",
       "url": "https://open.spotify.com/track/2YNLzBRGyCAzHEGPO3J2Sb"
+    },
+    {
+      "added_at": "2026-09-22 20:34:58",
+      "album": {
+        "name": "NZELA",
+        "url": "https://open.spotify.com/album/38rowpiWYFIVqvrL6UFK7s"
+      },
+      "artists": [
+        {
+          "name": "SDM",
+          "url": "https://open.spotify.com/artist/0LKAV3zJ8a8AIGnyc5OvfB"
+        }
+      ],
+      "duration_ms": 191013,
+      "name": "NZELA",
+      "url": "https://open.spotify.com/track/1xBS5qYuqGDF4nTlgItgcq"
     }
   ],
   "unique_name": "EA SPORTS FC Ultimate Mix",

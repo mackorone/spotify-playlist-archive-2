@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUB4Jn6piqKS.md) - [plain]
 
 > Stompers, floaters and floorshakers \- these are the tracks that defined the Northern Soul movement.
 
-[Spotify](https://open.spotify.com/user/spotify) - 152,974 likes - 100 songs - 4 hr 37 min
+[Spotify](https://open.spotify.com/user/spotify) - 152,981 likes - 100 songs - 4 hr 37 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -22,8 +22,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUB4Jn6piqKS.md) - [plain]
 | 12 | [Needle In A Haystack](https://open.spotify.com/track/26fSgIa539TCK3KV76chHU) | [The Velvelettes](https://open.spotify.com/artist/72Q7helEnjOptf8FAoZQTi) | [The Very Best Of The Velvelettes](https://open.spotify.com/album/4TYdNPupS05h9dZq3iF5M6) | 2:29 |
 | 13 | [Give Me Just A Little More Time](https://open.spotify.com/track/6qbtTps7ZebLrWtqtu1joj) | [Chairmen Of The Board](https://open.spotify.com/artist/69g2TelswPN1IiFDKvaoSL) | [Soul Agenda](https://open.spotify.com/album/3bsK8mvliXMvVPPiMgeIYq) | 2:40 |
 | 14 | [The Snake](https://open.spotify.com/track/338Sl7svvkz6ihfAYn1kvI) | [Al Wilson](https://open.spotify.com/artist/2RwV62DIxFGEn8aWO3iaMM) | [The Snake](https://open.spotify.com/album/0jrvi8BZ1v5TBximaRfGzL) | 3:29 |
-| 15 | [Hold Back the Night](https://open.spotify.com/track/2Jok6fkKmcP7Lp7XLzQ1wj) | [The Trammps](https://open.spotify.com/artist/1zgNpeHQe8GulzfVkYP2VK) | [The Northern Soul Story Vol.3: Blackpool Mecca](https://open.spotify.com/album/5GuuWoBcMTtfbIZ8Fudik6) | 3:44 |
-| 16 | [Sliced Tomatoes](https://open.spotify.com/track/4AxrlOlmlKducWdz18bLYB) | [Just Brothers](https://open.spotify.com/artist/5qTJU3YBzlGmOSrSHL4EVK) | [Sliced Tomatoes \- EP](https://open.spotify.com/album/0mzfKEd3lpMnI9Y3I0Os5m) | 2:22 |
+| 15 | [Sliced Tomatoes](https://open.spotify.com/track/4AxrlOlmlKducWdz18bLYB) | [Just Brothers](https://open.spotify.com/artist/5qTJU3YBzlGmOSrSHL4EVK) | [Sliced Tomatoes \- EP](https://open.spotify.com/album/0mzfKEd3lpMnI9Y3I0Os5m) | 2:22 |
+| 16 | [Hold Back the Night](https://open.spotify.com/track/2Jok6fkKmcP7Lp7XLzQ1wj) | [The Trammps](https://open.spotify.com/artist/1zgNpeHQe8GulzfVkYP2VK) | [The Northern Soul Story Vol.3: Blackpool Mecca](https://open.spotify.com/album/5GuuWoBcMTtfbIZ8Fudik6) | 3:44 |
 | 17 | [Love Won't Let Me Wait \- 45 Version](https://open.spotify.com/track/0hGlEv05CFThJmE2vmzNUu) | [Major Harris](https://open.spotify.com/artist/0mpVqJaKwg11LdSRrvI0PL) | [Love Won't Let Me Wait / After Loving You \[Digital 45\]](https://open.spotify.com/album/5MiR3vvUm7uWdXycjIryGb) | 3:47 |
 | 18 | [Who Do You Love](https://open.spotify.com/track/6kR2BCzArduYNuJdtezM8L) | [The Sapphires](https://open.spotify.com/artist/7hsuVq0DQonl3PnP7qkfvP) | [Best Of The Sapphires](https://open.spotify.com/album/5oaRhxwbicB0jaeEHYhq8q) | 2:39 |
 | 19 | [Seven Days Too Long \- Mono](https://open.spotify.com/track/1WfHZKUkTwKQ57ukwd21PA) | [Chuck Wood](https://open.spotify.com/artist/7ot74oYptdmYydjyDmcLzg) | [The Roulette Story](https://open.spotify.com/album/6KRBqK0UvfDCATk8ORdC73) | 2:21 |
@@ -37,8 +37,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUB4Jn6piqKS.md) - [plain]
 | 27 | [Just A Little Misunderstanding](https://open.spotify.com/track/03qdgEafx6iQkZHWQ6Ytjx) | [The Contours](https://open.spotify.com/artist/2ugPdplEWBmyU6EcIzlcY1) | [Essential](https://open.spotify.com/album/6SCZSe06bdBdFE3T3ouLT8) | 2:42 |
 | 28 | [Open the Door to Your Heart](https://open.spotify.com/track/0rbyxKKubocBP2LWlwL3L8) | [Darrell Banks](https://open.spotify.com/artist/5vWhw0XzIKRr5YUsYB2w3m) | [Darrell Banks Is Here!](https://open.spotify.com/album/4BYH98Ws2vOWyJ1G3E15DI) | 2:37 |
 | 29 | [Landslide](https://open.spotify.com/track/3WoIKZ5ItkSOqGt3h1NLaV) | [Tony Clarke](https://open.spotify.com/artist/1XbD7zgDdqQXEqm4Pvkhw1) | [Chess Northern Soul](https://open.spotify.com/album/2DmdMq9Kk6dUAbW9lOSv5C) | 2:13 |
-| 30 | [Here I Go Again](https://open.spotify.com/track/0tRUmgZigd9uWdAF37oWNG) | [Archie Bell & The Drells](https://open.spotify.com/artist/1kupwLFpHALpmhp5qol8xH) | [After Hours The Collection: Northern Soul Masters](https://open.spotify.com/album/5iJaTFZeejbvdeDSpA65E5) | 2:05 |
-| 31 | [Time](https://open.spotify.com/track/6uOEOFItvADPCgiAKGPr4s) | [Edwin Starr](https://open.spotify.com/artist/1B8AXU6gIIafpyLEpbcv1u) | [War And Peace](https://open.spotify.com/album/26pzgagMwY4opUvVUdSuum) | 2:54 |
+| 30 | [Time](https://open.spotify.com/track/6uOEOFItvADPCgiAKGPr4s) | [Edwin Starr](https://open.spotify.com/artist/1B8AXU6gIIafpyLEpbcv1u) | [War And Peace](https://open.spotify.com/album/26pzgagMwY4opUvVUdSuum) | 2:54 |
+| 31 | [Here I Go Again](https://open.spotify.com/track/0tRUmgZigd9uWdAF37oWNG) | [Archie Bell & The Drells](https://open.spotify.com/artist/1kupwLFpHALpmhp5qol8xH) | [After Hours The Collection: Northern Soul Masters](https://open.spotify.com/album/5iJaTFZeejbvdeDSpA65E5) | 2:05 |
 | 32 | [Ordinary Joe](https://open.spotify.com/track/6AkGkimvrVzVe8Btgy0FRL) | [Terry Callier](https://open.spotify.com/artist/5cHmjJA9Lo0ga8s8QdxEzs) | [Occasional Rain](https://open.spotify.com/album/1dgEMGLSJTJgJRQX0kFxb9) | 4:13 |
 | 33 | [I Got A Feeling \- Single Version](https://open.spotify.com/track/1w6gJH9upDjPnrT4dtvITo) | [Barbara Randolph](https://open.spotify.com/artist/1JloDwcRC1jrV3NWiZjMXM) | [Big Hits & Hard To Find Classics](https://open.spotify.com/album/0I4XWJ2ovnMdzqH61zioBD) | 3:01 |
 | 34 | [Love On a Mountaintop](https://open.spotify.com/track/6zEdkGQCg57M1XigHl0Alu) | [Robert Knight](https://open.spotify.com/artist/0X79jVQeTlVeDM881ZhrU1) | [Everlasting Love \(Expanded Edition\)](https://open.spotify.com/album/76gTPZDkrOTvu6UyT0xSYp) | 2:28 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUB4Jn6piqKS.md) - [plain]
 | 99 | [That's Loving You](https://open.spotify.com/track/29VOAxTNBfotCtsQKTufEz) | [Percy Wiggins](https://open.spotify.com/artist/3OsBOLBZNtkXBVZqiV02mC) | [Uptown, Down South](https://open.spotify.com/album/5lYrlYsHIAMBOs7Q10e1bu) | 2:15 |
 | 100 | [This Heart of Mine](https://open.spotify.com/track/1RGWRD9vqwgu7APmedrpJs) | [The Artistics](https://open.spotify.com/artist/2iy394hZHUSLDMIxAnrz8x) | [Northern Soul: Keep the Faith!](https://open.spotify.com/album/4syXcIzY2okMdzgktYYVkJ) | 2:29 |
 
-Snapshot ID: `AAAAAEEhN5k4TUqUkovEKUd0iVg84wxx`
+Snapshot ID: `AAAAALyRV2Ck1e+eE190XqcN76r3aLUY`

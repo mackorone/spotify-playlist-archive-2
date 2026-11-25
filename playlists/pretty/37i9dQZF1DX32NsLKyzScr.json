@@ -1,12 +1,12 @@
 {
   "description": "Tap it back or go for a spin with these uptempo tracks!",
-  "num_followers": 2581858,
+  "num_followers": 2581755,
   "original_name": "Power Hour",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAHjl5aP3YUWLhZSaOvxfsnhwR0de",
+  "snapshot_id": "AAAAAJ4hqTUvkla6HDVQvNN5zjx3DjPV",
   "tracks": [
     {
       "added_at": "2026-11-20 05:01:32",
@@ -719,6 +719,26 @@
     {
       "added_at": "2026-11-20 05:01:32",
       "album": {
+        "name": "Come To Life",
+        "url": "https://open.spotify.com/album/0HIW7oTP9Y1RpJ1OlvJ4lD"
+      },
+      "artists": [
+        {
+          "name": "Cassian",
+          "url": "https://open.spotify.com/artist/1ChtRJ3f4rbv4vtz87i6CD"
+        },
+        {
+          "name": "AR/CO",
+          "url": "https://open.spotify.com/artist/7mGI9Sd66FqHjIkwzkgbG7"
+        }
+      ],
+      "duration_ms": 192209,
+      "name": "Come To Life",
+      "url": "https://open.spotify.com/track/0CBRDrO5BuFxmfIjOSYUaW"
+    },
+    {
+      "added_at": "2026-11-20 05:01:32",
+      "album": {
         "name": "Hard To be Around",
         "url": "https://open.spotify.com/album/4ZQt0dgf0YJr9EJkewya6H"
       },
@@ -775,26 +795,6 @@
       "duration_ms": 245264,
       "name": "Bizarre",
       "url": "https://open.spotify.com/track/15RhivSFgiIWYugV2FqV5I"
-    },
-    {
-      "added_at": "2026-11-20 05:01:32",
-      "album": {
-        "name": "Come To Life",
-        "url": "https://open.spotify.com/album/0HIW7oTP9Y1RpJ1OlvJ4lD"
-      },
-      "artists": [
-        {
-          "name": "Cassian",
-          "url": "https://open.spotify.com/artist/1ChtRJ3f4rbv4vtz87i6CD"
-        },
-        {
-          "name": "AR/CO",
-          "url": "https://open.spotify.com/artist/7mGI9Sd66FqHjIkwzkgbG7"
-        }
-      ],
-      "duration_ms": 192209,
-      "name": "Come To Life",
-      "url": "https://open.spotify.com/track/0CBRDrO5BuFxmfIjOSYUaW"
     },
     {
       "added_at": "2026-11-20 05:01:32",
@@ -1279,30 +1279,6 @@
     {
       "added_at": "2026-11-20 05:01:32",
       "album": {
-        "name": "Like A Child",
-        "url": "https://open.spotify.com/album/21kP7foJu4VQRhlnkVgrgC"
-      },
-      "artists": [
-        {
-          "name": "Armin van Buuren",
-          "url": "https://open.spotify.com/artist/0SfsnGyD8FpIN4U4WCkBZ5"
-        },
-        {
-          "name": "Argy",
-          "url": "https://open.spotify.com/artist/1NaQOKgddaJipUtmptb7GI"
-        },
-        {
-          "name": "Marlo Rex",
-          "url": "https://open.spotify.com/artist/3honvvPh3jtS2fTJEYKexS"
-        }
-      ],
-      "duration_ms": 183181,
-      "name": "Like A Child",
-      "url": "https://open.spotify.com/track/0wGlXAZU2OQlOiCghAOCqm"
-    },
-    {
-      "added_at": "2026-11-20 05:01:32",
-      "album": {
         "name": "Love Parade",
         "url": "https://open.spotify.com/album/2UfAenTFsiHb6rLqbHVMHv"
       },
@@ -1323,6 +1299,30 @@
       "duration_ms": 206308,
       "name": "Love Parade",
       "url": "https://open.spotify.com/track/6sx8YefY3PQgfY8TpVg34w"
+    },
+    {
+      "added_at": "2026-11-20 05:01:32",
+      "album": {
+        "name": "Like A Child",
+        "url": "https://open.spotify.com/album/21kP7foJu4VQRhlnkVgrgC"
+      },
+      "artists": [
+        {
+          "name": "Armin van Buuren",
+          "url": "https://open.spotify.com/artist/0SfsnGyD8FpIN4U4WCkBZ5"
+        },
+        {
+          "name": "Argy",
+          "url": "https://open.spotify.com/artist/1NaQOKgddaJipUtmptb7GI"
+        },
+        {
+          "name": "Marlo Rex",
+          "url": "https://open.spotify.com/artist/3honvvPh3jtS2fTJEYKexS"
+        }
+      ],
+      "duration_ms": 183181,
+      "name": "Like A Child",
+      "url": "https://open.spotify.com/track/0wGlXAZU2OQlOiCghAOCqm"
     },
     {
       "added_at": "2026-11-20 05:01:32",
@@ -1759,6 +1759,22 @@
     {
       "added_at": "2026-11-20 05:01:32",
       "album": {
+        "name": "5AM",
+        "url": "https://open.spotify.com/album/1H4LHLHLLckvd7VAgInxwP"
+      },
+      "artists": [
+        {
+          "name": "KI/KI",
+          "url": "https://open.spotify.com/artist/0UMs6dTf23FC2fHc40fXNS"
+        }
+      ],
+      "duration_ms": 204324,
+      "name": "5AM",
+      "url": "https://open.spotify.com/track/59oSJUWLxsD6gQRup9aGCY"
+    },
+    {
+      "added_at": "2026-11-20 05:01:32",
+      "album": {
         "name": "Short Stop",
         "url": "https://open.spotify.com/album/0Q0dqm7mFU4UhTveiWrRXP"
       },
@@ -1775,22 +1791,6 @@
       "duration_ms": 225584,
       "name": "Short Stop",
       "url": "https://open.spotify.com/track/6ZXDqJiNIgQfWow7KruP6I"
-    },
-    {
-      "added_at": "2026-11-20 05:01:32",
-      "album": {
-        "name": "5AM",
-        "url": "https://open.spotify.com/album/1H4LHLHLLckvd7VAgInxwP"
-      },
-      "artists": [
-        {
-          "name": "KI/KI",
-          "url": "https://open.spotify.com/artist/0UMs6dTf23FC2fHc40fXNS"
-        }
-      ],
-      "duration_ms": 204324,
-      "name": "5AM",
-      "url": "https://open.spotify.com/track/59oSJUWLxsD6gQRup9aGCY"
     },
     {
       "added_at": "2026-11-20 05:01:32",
@@ -1911,6 +1911,22 @@
     {
       "added_at": "2026-11-20 05:01:32",
       "album": {
+        "name": "Lost (In All The Lights)",
+        "url": "https://open.spotify.com/album/354PlL7RC6QKmolEblejz6"
+      },
+      "artists": [
+        {
+          "name": "Cassian",
+          "url": "https://open.spotify.com/artist/1ChtRJ3f4rbv4vtz87i6CD"
+        }
+      ],
+      "duration_ms": 196615,
+      "name": "Lost (In All The Lights)",
+      "url": "https://open.spotify.com/track/7ePlnZqXWbaryOgABGbhrv"
+    },
+    {
+      "added_at": "2026-11-20 05:01:32",
+      "album": {
         "name": "Enjoy the Silence (Don Diablo Version)",
         "url": "https://open.spotify.com/album/4QsFjDF4p71D1fkmC1Foh9"
       },
@@ -1931,8 +1947,8 @@
     {
       "added_at": "2026-11-20 05:01:32",
       "album": {
-        "name": "Turn Up The Dose",
-        "url": "https://open.spotify.com/album/4QVwTM7fq8X71sXAPhMi7P"
+        "name": "Keep Me Up",
+        "url": "https://open.spotify.com/album/7BFK1xjZqGecYVt7Cgu8xp"
       },
       "artists": [
         {
@@ -1940,29 +1956,13 @@
           "url": "https://open.spotify.com/artist/0DdDnziut7wOo6cAYWVZC5"
         },
         {
-          "name": "SCRIPT",
-          "url": "https://open.spotify.com/artist/4CvDmoy5yE6L4hdBOHg1sz"
+          "name": "BJOERN",
+          "url": "https://open.spotify.com/artist/7fNc8ClzpuYFYVhBOmD6aN"
         }
       ],
-      "duration_ms": 172615,
-      "name": "Turn Up The Dose",
-      "url": "https://open.spotify.com/track/4IIb4DQxNBAowpUJmKYNMD"
-    },
-    {
-      "added_at": "2026-11-20 05:01:32",
-      "album": {
-        "name": "Lost (In All The Lights)",
-        "url": "https://open.spotify.com/album/354PlL7RC6QKmolEblejz6"
-      },
-      "artists": [
-        {
-          "name": "Cassian",
-          "url": "https://open.spotify.com/artist/1ChtRJ3f4rbv4vtz87i6CD"
-        }
-      ],
-      "duration_ms": 196615,
-      "name": "Lost (In All The Lights)",
-      "url": "https://open.spotify.com/track/7ePlnZqXWbaryOgABGbhrv"
+      "duration_ms": 231562,
+      "name": "Keep Me Up",
+      "url": "https://open.spotify.com/track/4U8HGyQPnClspBlkHBYQbv"
     },
     {
       "added_at": "2026-11-20 05:01:32",
@@ -2047,6 +2047,26 @@
     {
       "added_at": "2026-11-20 05:01:32",
       "album": {
+        "name": "Turn Up The Dose",
+        "url": "https://open.spotify.com/album/4QVwTM7fq8X71sXAPhMi7P"
+      },
+      "artists": [
+        {
+          "name": "KREAM",
+          "url": "https://open.spotify.com/artist/0DdDnziut7wOo6cAYWVZC5"
+        },
+        {
+          "name": "SCRIPT",
+          "url": "https://open.spotify.com/artist/4CvDmoy5yE6L4hdBOHg1sz"
+        }
+      ],
+      "duration_ms": 172615,
+      "name": "Turn Up The Dose",
+      "url": "https://open.spotify.com/track/4IIb4DQxNBAowpUJmKYNMD"
+    },
+    {
+      "added_at": "2026-11-20 05:01:32",
+      "album": {
         "name": "Don't Want Your Love (R\u00d8Z Remix)",
         "url": "https://open.spotify.com/album/3xrbpZqyJXzxyJeo6kI7DZ"
       },
@@ -2067,26 +2087,6 @@
       "duration_ms": 163555,
       "name": "Don't Want Your Love - R\u00d8Z Remix",
       "url": "https://open.spotify.com/track/15kZV9MznawyHrCeExDXcj"
-    },
-    {
-      "added_at": "2026-11-20 05:01:32",
-      "album": {
-        "name": "Keep Me Up",
-        "url": "https://open.spotify.com/album/7BFK1xjZqGecYVt7Cgu8xp"
-      },
-      "artists": [
-        {
-          "name": "KREAM",
-          "url": "https://open.spotify.com/artist/0DdDnziut7wOo6cAYWVZC5"
-        },
-        {
-          "name": "BJOERN",
-          "url": "https://open.spotify.com/artist/7fNc8ClzpuYFYVhBOmD6aN"
-        }
-      ],
-      "duration_ms": 231562,
-      "name": "Keep Me Up",
-      "url": "https://open.spotify.com/track/4U8HGyQPnClspBlkHBYQbv"
     },
     {
       "added_at": "2026-11-20 05:01:32",
@@ -2231,30 +2231,6 @@
     {
       "added_at": "2026-11-20 05:01:32",
       "album": {
-        "name": "Tonight",
-        "url": "https://open.spotify.com/album/1yFzaDx3ibycTAZqUQHJMh"
-      },
-      "artists": [
-        {
-          "name": "Layton Giordani",
-          "url": "https://open.spotify.com/artist/7mC3RkNNTV6p2j9w4F8Ip4"
-        },
-        {
-          "name": "Patrick Topping",
-          "url": "https://open.spotify.com/artist/7yRimuQSC5Ks3T2Ts0iyZa"
-        },
-        {
-          "name": "Kosmo Kint",
-          "url": "https://open.spotify.com/artist/5xPHGeNecDlCoEezCF2bWn"
-        }
-      ],
-      "duration_ms": 213953,
-      "name": "Tonight",
-      "url": "https://open.spotify.com/track/4FRuekKdW64dsRJXzzVOLy"
-    },
-    {
-      "added_at": "2026-11-20 05:01:32",
-      "album": {
         "name": "1998",
         "url": "https://open.spotify.com/album/3V9TSSLdxLoe1aAOIJBsd5"
       },
@@ -2275,6 +2251,30 @@
       "duration_ms": 218482,
       "name": "1998",
       "url": "https://open.spotify.com/track/7emb2qTYBDUqrmVMBZjJPb"
+    },
+    {
+      "added_at": "2026-11-20 05:01:32",
+      "album": {
+        "name": "Tonight",
+        "url": "https://open.spotify.com/album/1yFzaDx3ibycTAZqUQHJMh"
+      },
+      "artists": [
+        {
+          "name": "Layton Giordani",
+          "url": "https://open.spotify.com/artist/7mC3RkNNTV6p2j9w4F8Ip4"
+        },
+        {
+          "name": "Patrick Topping",
+          "url": "https://open.spotify.com/artist/7yRimuQSC5Ks3T2Ts0iyZa"
+        },
+        {
+          "name": "Kosmo Kint",
+          "url": "https://open.spotify.com/artist/5xPHGeNecDlCoEezCF2bWn"
+        }
+      ],
+      "duration_ms": 213953,
+      "name": "Tonight",
+      "url": "https://open.spotify.com/track/4FRuekKdW64dsRJXzzVOLy"
     },
     {
       "added_at": "2026-11-20 05:01:32",
@@ -2347,6 +2347,22 @@
     {
       "added_at": "2026-11-20 05:01:32",
       "album": {
+        "name": "Motel",
+        "url": "https://open.spotify.com/album/28YOATj8fmRniN5K6W3pok"
+      },
+      "artists": [
+        {
+          "name": "Lisa Korver",
+          "url": "https://open.spotify.com/artist/3erkoMXFF8JTY5PvwolFUH"
+        }
+      ],
+      "duration_ms": 225405,
+      "name": "Motel",
+      "url": "https://open.spotify.com/track/2xLA3OXFudJwPgdpdEkIiS"
+    },
+    {
+      "added_at": "2026-11-20 05:01:32",
+      "album": {
         "name": "The Realm",
         "url": "https://open.spotify.com/album/17fphJG2iSPRDIXKZtaweO"
       },
@@ -2363,22 +2379,6 @@
       "duration_ms": 184615,
       "name": "The Realm",
       "url": "https://open.spotify.com/track/2KtVx4lNWEgRW7UXGxJZwO"
-    },
-    {
-      "added_at": "2026-11-20 05:01:32",
-      "album": {
-        "name": "Motel",
-        "url": "https://open.spotify.com/album/28YOATj8fmRniN5K6W3pok"
-      },
-      "artists": [
-        {
-          "name": "Lisa Korver",
-          "url": "https://open.spotify.com/artist/3erkoMXFF8JTY5PvwolFUH"
-        }
-      ],
-      "duration_ms": 225405,
-      "name": "Motel",
-      "url": "https://open.spotify.com/track/2xLA3OXFudJwPgdpdEkIiS"
     },
     {
       "added_at": "2026-11-20 05:01:32",
@@ -2487,6 +2487,30 @@
     {
       "added_at": "2026-11-20 05:01:32",
       "album": {
+        "name": "The Afterlife",
+        "url": "https://open.spotify.com/album/0x9VaE3LYQITREjZfCKTYM"
+      },
+      "artists": [
+        {
+          "name": "Joseph Capriati",
+          "url": "https://open.spotify.com/artist/7onsqSWPufMm5ZnUCECDpf"
+        },
+        {
+          "name": "Seth Troxler",
+          "url": "https://open.spotify.com/artist/3JkLFcTej6tdwZoQT6Nx4B"
+        },
+        {
+          "name": "TB-203",
+          "url": "https://open.spotify.com/artist/3BX90WAUaZmZFL7wrSvcEj"
+        }
+      ],
+      "duration_ms": 193548,
+      "name": "The Afterlife",
+      "url": "https://open.spotify.com/track/3m1HL47WhuqW3SCHZIlsuP"
+    },
+    {
+      "added_at": "2026-11-20 05:01:32",
+      "album": {
         "name": "ALL OVER AGAIN",
         "url": "https://open.spotify.com/album/6IOcXv652Y2jDpFT8LLA6S"
       },
@@ -2523,22 +2547,6 @@
       "duration_ms": 306500,
       "name": "It's Chemical",
       "url": "https://open.spotify.com/track/6httD7xB1MLxBcSw7q4fVD"
-    },
-    {
-      "added_at": "2026-11-20 05:01:32",
-      "album": {
-        "name": "What U Like EP",
-        "url": "https://open.spotify.com/album/2M4V0ZkJQocpTyjyOh6FuX"
-      },
-      "artists": [
-        {
-          "name": "Sarah de Warren",
-          "url": "https://open.spotify.com/artist/2V431yZGG08uroH2CZAgur"
-        }
-      ],
-      "duration_ms": 193345,
-      "name": "Goddess",
-      "url": "https://open.spotify.com/track/3VdkjUOiLFiUOPyKK03F19"
     }
   ],
   "unique_name": "Power Hour",

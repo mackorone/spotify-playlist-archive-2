@@ -1,12 +1,12 @@
 {
   "description": "This is Gunna. The essential tracks, all in one playlist.",
-  "num_followers": 213773,
+  "num_followers": 213810,
   "original_name": "This Is Gunna",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "awIwgAAAAAAFIO0E+SPKaZGseU2L04Hi",
+  "snapshot_id": "awOCAAAAAAAbjABNm4Zm1cZum4Txl2ZW",
   "tracks": [
     {
       "added_at": null,
@@ -275,26 +275,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "So Much Fun (Deluxe)",
-        "url": "https://open.spotify.com/album/24jAbLMFzCTlIv3kQ94HwK"
+        "name": "CLARITY OF MIND (EXTENDED)",
+        "url": "https://open.spotify.com/album/3JCrhHb1xMqHUXoNyu0jkz"
       },
       "artists": [
         {
-          "name": "Young Thug",
-          "url": "https://open.spotify.com/artist/50co4Is1HCEo8bhOyUWKpn"
-        },
-        {
-          "name": "Travis Scott",
-          "url": "https://open.spotify.com/artist/0Y5tJX1MQlPlqiwlOH1tJY"
+          "name": "OMAH LAY",
+          "url": "https://open.spotify.com/artist/5yOvAmpIR7hVxiS6Ls5DPO"
         },
         {
           "name": "Gunna",
           "url": "https://open.spotify.com/artist/2hlmm7s2ICUX0LVIhVFlZQ"
         }
       ],
-      "duration_ms": 279906,
-      "name": "Hot (Remix) [feat. Gunna and Travis Scott]",
-      "url": "https://open.spotify.com/track/4ea9w8c4ROqiZpJVhfBA3m"
+      "duration_ms": 125367,
+      "name": "BACK TO LAGOS",
+      "url": "https://open.spotify.com/track/7uxgPffrHiOF64gxIWzMDB"
     },
     {
       "added_at": null,
@@ -319,22 +315,26 @@
     {
       "added_at": null,
       "album": {
-        "name": "CLARITY OF MIND (EXTENDED)",
-        "url": "https://open.spotify.com/album/3JCrhHb1xMqHUXoNyu0jkz"
+        "name": "So Much Fun (Deluxe)",
+        "url": "https://open.spotify.com/album/24jAbLMFzCTlIv3kQ94HwK"
       },
       "artists": [
         {
-          "name": "OMAH LAY",
-          "url": "https://open.spotify.com/artist/5yOvAmpIR7hVxiS6Ls5DPO"
+          "name": "Young Thug",
+          "url": "https://open.spotify.com/artist/50co4Is1HCEo8bhOyUWKpn"
+        },
+        {
+          "name": "Travis Scott",
+          "url": "https://open.spotify.com/artist/0Y5tJX1MQlPlqiwlOH1tJY"
         },
         {
           "name": "Gunna",
           "url": "https://open.spotify.com/artist/2hlmm7s2ICUX0LVIhVFlZQ"
         }
       ],
-      "duration_ms": 125367,
-      "name": "BACK TO LAGOS",
-      "url": "https://open.spotify.com/track/7uxgPffrHiOF64gxIWzMDB"
+      "duration_ms": 279906,
+      "name": "Hot (Remix) [feat. Gunna and Travis Scott]",
+      "url": "https://open.spotify.com/track/4ea9w8c4ROqiZpJVhfBA3m"
     },
     {
       "added_at": null,
@@ -499,6 +499,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "One of Wun",
+        "url": "https://open.spotify.com/album/7g0PJ7VbsOkYTECUFkyNPN"
+      },
+      "artists": [
+        {
+          "name": "Gunna",
+          "url": "https://open.spotify.com/artist/2hlmm7s2ICUX0LVIhVFlZQ"
+        }
+      ],
+      "duration_ms": 204386,
+      "name": "blackjack",
+      "url": "https://open.spotify.com/track/7wFNZdZ0PaUTjmWv6cU5jx"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Slime Language 2",
         "url": "https://open.spotify.com/album/3ihwKkIMJWmmp1huNH0iWC"
       },
@@ -523,22 +539,6 @@
       "duration_ms": 215693,
       "name": "Solid (feat. Drake)",
       "url": "https://open.spotify.com/track/6rTInqW3YECMkQsBEHw4sd"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "One of Wun",
-        "url": "https://open.spotify.com/album/7g0PJ7VbsOkYTECUFkyNPN"
-      },
-      "artists": [
-        {
-          "name": "Gunna",
-          "url": "https://open.spotify.com/artist/2hlmm7s2ICUX0LVIhVFlZQ"
-        }
-      ],
-      "duration_ms": 204386,
-      "name": "blackjack",
-      "url": "https://open.spotify.com/track/7wFNZdZ0PaUTjmWv6cU5jx"
     },
     {
       "added_at": null,
@@ -575,22 +575,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "DS4EVER",
-        "url": "https://open.spotify.com/album/02uWB8Kekadkl3yGBoOOcx"
-      },
-      "artists": [
-        {
-          "name": "Gunna",
-          "url": "https://open.spotify.com/artist/2hlmm7s2ICUX0LVIhVFlZQ"
-        }
-      ],
-      "duration_ms": 122693,
-      "name": "south to west",
-      "url": "https://open.spotify.com/track/7rEUuRanwV9piOwwPKxPIM"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "One of Wun",
         "url": "https://open.spotify.com/album/7g0PJ7VbsOkYTECUFkyNPN"
       },
@@ -603,6 +587,22 @@
       "duration_ms": 192000,
       "name": "still prevail",
       "url": "https://open.spotify.com/track/5ieqvcZfycFIMJnF84D1Du"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "DS4EVER",
+        "url": "https://open.spotify.com/album/02uWB8Kekadkl3yGBoOOcx"
+      },
+      "artists": [
+        {
+          "name": "Gunna",
+          "url": "https://open.spotify.com/artist/2hlmm7s2ICUX0LVIhVFlZQ"
+        }
+      ],
+      "duration_ms": 122693,
+      "name": "south to west",
+      "url": "https://open.spotify.com/track/7rEUuRanwV9piOwwPKxPIM"
     },
     {
       "added_at": null,
@@ -659,22 +659,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Banking On Me",
-        "url": "https://open.spotify.com/album/0J2kO9eiQauyjKyYgBFtPn"
-      },
-      "artists": [
-        {
-          "name": "Gunna",
-          "url": "https://open.spotify.com/artist/2hlmm7s2ICUX0LVIhVFlZQ"
-        }
-      ],
-      "duration_ms": 200000,
-      "name": "Banking On Me",
-      "url": "https://open.spotify.com/track/7Fege3yv4dvehB3NdRBGwI"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "GMFU",
         "url": "https://open.spotify.com/album/0sjhU3kzHU2dfd6SVrzLIp"
       },
@@ -691,6 +675,22 @@
       "duration_ms": 196437,
       "name": "Spit Propane (feat. Gunna)",
       "url": "https://open.spotify.com/track/0Gwfb3N7Le6CyiY5rSs4Ty"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Banking On Me",
+        "url": "https://open.spotify.com/album/0J2kO9eiQauyjKyYgBFtPn"
+      },
+      "artists": [
+        {
+          "name": "Gunna",
+          "url": "https://open.spotify.com/artist/2hlmm7s2ICUX0LVIhVFlZQ"
+        }
+      ],
+      "duration_ms": 200000,
+      "name": "Banking On Me",
+      "url": "https://open.spotify.com/track/7Fege3yv4dvehB3NdRBGwI"
     },
     {
       "added_at": null,

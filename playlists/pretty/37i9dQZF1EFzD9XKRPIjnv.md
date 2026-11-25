@@ -43,8 +43,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFzD9XKRPIjnv.md) - [plain]
 | 33 | [Exit Sign](https://open.spotify.com/track/4c2cdWv3GLKoP12tY0OzZl) | [Hilltop Hoods](https://open.spotify.com/artist/7dlqUnjoF2U2DkNDMhcgG4), [Illy](https://open.spotify.com/artist/6NFyaN9PMCDZ3LKxGwHAXt), [Ecca Vandal](https://open.spotify.com/artist/0NhKCHTPG7Sz62S3zxV1Cf) | [The Great Expanse](https://open.spotify.com/album/4ROQFvVOISvh3ypktsynm1) | 3:43 |
 | 34 | [Drive and Disconnect](https://open.spotify.com/track/6pEAd0UjznaKABT7WLLvmC) | [Nao](https://open.spotify.com/artist/7aFTOGFDEqDtJUCziLVsVC) | [Saturn](https://open.spotify.com/album/5rojZ5uUIKKkfNsFT92Vld) | 3:30 |
 | 35 | [Fire](https://open.spotify.com/track/3BZkEOJwKUYRlkLWZB1izC) | [Peking Duk](https://open.spotify.com/artist/0UZ1nu3kcdNlCoiKRjmSSY) | [Reprisal](https://open.spotify.com/album/1BJ0H6MrMADSdqHm3aadbM) | 3:46 |
-| 36 | [Preach](https://open.spotify.com/track/2AaF78iCWISMWYog5RnSi5) | [John Legend](https://open.spotify.com/artist/5y2Xq6xcjJb2jVM54GHK3t) | [Preach](https://open.spotify.com/album/32r4o1R9a1lK5DoVXGEC7E) | 3:56 |
-| 37 | [Days On End](https://open.spotify.com/track/3pr1kknjt4upS2sDgwxAvn) | [Brenn!](https://open.spotify.com/artist/74slMAMk8L6oMf6OhNyZ8Q) | [Upstate](https://open.spotify.com/album/2XDV7BTvNQvgGaJLTHHEF9) | 3:28 |
+| 36 | [Days On End](https://open.spotify.com/track/3pr1kknjt4upS2sDgwxAvn) | [Brenn!](https://open.spotify.com/artist/74slMAMk8L6oMf6OhNyZ8Q) | [Upstate](https://open.spotify.com/album/2XDV7BTvNQvgGaJLTHHEF9) | 3:28 |
+| 37 | [Preach](https://open.spotify.com/track/2AaF78iCWISMWYog5RnSi5) | [John Legend](https://open.spotify.com/artist/5y2Xq6xcjJb2jVM54GHK3t) | [Preach](https://open.spotify.com/album/32r4o1R9a1lK5DoVXGEC7E) | 3:56 |
 | 38 | [Paradise](https://open.spotify.com/track/6fOOKqQWcSy33ApU1wqkkW) | [Khalid](https://open.spotify.com/artist/6LuN9FCkKOj5PcnpouEgny) | [Free Spirit](https://open.spotify.com/album/6KT8x5oqZJl9CcnM66hddo) | 2:54 |
 | 39 | [plastic palm trees](https://open.spotify.com/track/41k9KtT2dRhYr7YeA6xO9M) | [Tate McRae](https://open.spotify.com/artist/45dkTj5sMRSjrmBSBeiHym) | [THINK LATER](https://open.spotify.com/album/5YxG0ULdAixTrnzfo60HX4) | 2:52 |
 | 40 | [For Real This Time](https://open.spotify.com/track/1cR29lpK5mJIlajSpRqfNF) | [Gracie Abrams](https://open.spotify.com/artist/4tuJ0bMpJh08umKkEXKUI5) | [This Is What It Feels Like](https://open.spotify.com/album/7l2g05NyprwonSFIs2y8at) | 3:13 |
@@ -173,4 +173,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFzD9XKRPIjnv.md) - [plain]
 | 163 | [I'm Blue](https://open.spotify.com/track/4fxjwpYb69BFXlVDZVUnGH) | [Marlowe Wilton](https://open.spotify.com/artist/2T33g5HKf9IdpHnx0swzwY) | [I'm Blue](https://open.spotify.com/album/3dALB5GpC5arbXCUEpHNoO) | 3:03 |
 | 164 | [Why](https://open.spotify.com/track/5h09Ksb1ctl0naenwVkrau) | [The Fabulous Cadillacs](https://open.spotify.com/artist/1pxfJicxxf1Ce8OEJnorT3) | [Classics \- The Fabulous Cadillacs](https://open.spotify.com/album/2IJa1TA0j0t06LWl1dt8Ft) | 1:50 |
 
-Snapshot ID: `AcifMgAAAADKrTgYxiH8n3fGmSNjr8uU`
+Snapshot ID: `AciklgAAAACf2MdvyrqpGDodFzel2I8+`

@@ -5,6 +5,24 @@
   "tracks": [
     {
       "album": {
+        "name": "#NeXt To Losers",
+        "url": "https://open.spotify.com/album/1cNbpNRHISRufk7yCobq8c"
+      },
+      "artists": [
+        {
+          "name": "IDY bran",
+          "url": "https://open.spotify.com/artist/5rc3NuCtECQu3KfAN2kdE3"
+        }
+      ],
+      "date_added": "2026-11-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 126204,
+      "name": "#NeXt To Losers",
+      "url": "https://open.spotify.com/track/2RE8nQ3kBBBVFsAjuSDjZo"
+    },
+    {
+      "album": {
         "name": "Rifferent 2",
         "url": "https://open.spotify.com/album/3adaiFx0vsDv3GfHacDGsU"
       },
@@ -242,7 +260,7 @@
       ],
       "date_added": "2026-01-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-25",
       "duration_ms": 106728,
       "name": "Air Bender",
       "url": "https://open.spotify.com/track/0SC10wGF4YMLIdL1QMGlm8"
@@ -698,7 +716,7 @@
       ],
       "date_added": "2026-11-04",
       "date_added_asterisk": false,
-      "date_removed": "2026-11-18",
+      "date_removed": null,
       "duration_ms": 117937,
       "name": "Black Trucks (dirty souf)",
       "url": "https://open.spotify.com/track/0kdwZawCRqIZjKHEXRO8aX"
@@ -1002,7 +1020,7 @@
       ],
       "date_added": "2026-11-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-25",
       "duration_ms": 120913,
       "name": "cake batter",
       "url": "https://open.spotify.com/track/6CcKcOxXq2BD3k9M9CLOHc"
@@ -2234,7 +2252,7 @@
       ],
       "date_added": "2026-07-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-25",
       "duration_ms": 180119,
       "name": "Freaky Head",
       "url": "https://open.spotify.com/track/6JzYlKtLIy0Qi2x6eF9imR"
@@ -3494,7 +3512,7 @@
       ],
       "date_added": "2025-11-29",
       "date_added_asterisk": false,
-      "date_removed": "2026-11-18",
+      "date_removed": null,
       "duration_ms": 163062,
       "name": "Jersey",
       "url": "https://open.spotify.com/track/4fFG5J3kEBFQ0tL6YVKrdn"
@@ -6370,7 +6388,7 @@
       ],
       "date_added": "2026-04-19",
       "date_added_asterisk": false,
-      "date_removed": "2026-11-09",
+      "date_removed": null,
       "duration_ms": 120639,
       "name": "Tap Hour",
       "url": "https://open.spotify.com/track/5fB6BsaBff7NzskLlUDvHY"
@@ -6388,7 +6406,7 @@
       ],
       "date_added": "2026-02-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-25",
       "duration_ms": 145841,
       "name": "Telephones",
       "url": "https://open.spotify.com/track/1AKsJHv1KawhTIKa9ZD2FU"

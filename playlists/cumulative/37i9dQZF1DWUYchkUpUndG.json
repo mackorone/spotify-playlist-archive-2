@@ -3189,24 +3189,6 @@
     },
     {
       "album": {
-        "name": "African Praise 2.0",
-        "url": "https://open.spotify.com/album/75mcr3BoMUp5SKaIs8MaCW"
-      },
-      "artists": [
-        {
-          "name": "Nii Kwei",
-          "url": "https://open.spotify.com/artist/65C7zhOX4wDfK2pd7YsSTJ"
-        }
-      ],
-      "date_added": "2026-11-20",
-      "date_added_asterisk": false,
-      "date_removed": null,
-      "duration_ms": 874029,
-      "name": "African Praise 2.0",
-      "url": "https://open.spotify.com/track/6CVRv1DiBJRzbtGlfTugCC"
-    },
-    {
-      "album": {
         "name": "African Praise Medley 1.0",
         "url": "https://open.spotify.com/album/60oZMHloCR5rqoUcqm3ltr"
       },
@@ -3222,6 +3204,24 @@
       "duration_ms": 858947,
       "name": "African Praise Medley 1.0",
       "url": "https://open.spotify.com/track/4fJHZanfV8CyTkW4pt6VJx"
+    },
+    {
+      "album": {
+        "name": "African Praise Medley 2.0",
+        "url": "https://open.spotify.com/album/75mcr3BoMUp5SKaIs8MaCW"
+      },
+      "artists": [
+        {
+          "name": "Nii Kwei",
+          "url": "https://open.spotify.com/artist/65C7zhOX4wDfK2pd7YsSTJ"
+        }
+      ],
+      "date_added": "2026-11-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 874029,
+      "name": "African Praise Medley 2.0",
+      "url": "https://open.spotify.com/track/6CVRv1DiBJRzbtGlfTugCC"
     },
     {
       "album": {

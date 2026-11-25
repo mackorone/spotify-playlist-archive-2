@@ -1,12 +1,12 @@
 {
   "description": "<a href=\"spotify:genre:edm_dance\">Dance</a> to the rhythm and move your feet!",
-  "num_followers": 9238003,
+  "num_followers": 9237677,
   "original_name": "Dance Party",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAOEuzuL3Rzs2i15sTVFEjTJl7aTW",
+  "snapshot_id": "AAAAADu1sKB5DuJA4xHjAhSBrfbi1GYU",
   "tracks": [
     {
       "added_at": "2026-11-20 05:01:22",
@@ -111,6 +111,22 @@
     {
       "added_at": "2026-11-20 05:01:22",
       "album": {
+        "name": "brand new chanel$",
+        "url": "https://open.spotify.com/album/75NIUjwFzYkzok7nRwNurg"
+      },
+      "artists": [
+        {
+          "name": "Slayyyter",
+          "url": "https://open.spotify.com/artist/4QM5QCHicznALtX885CnZC"
+        }
+      ],
+      "duration_ms": 238505,
+      "name": "brand new chanel$",
+      "url": "https://open.spotify.com/track/3FZoov0ORtnr8TznSNI1y2"
+    },
+    {
+      "added_at": "2026-11-20 05:01:22",
+      "album": {
         "name": "Talk To You (ft. 54 Ultra)",
         "url": "https://open.spotify.com/album/374Z5kI6lNCztQV7HItzUJ"
       },
@@ -127,22 +143,6 @@
       "duration_ms": 191076,
       "name": "Talk To You (ft. 54 Ultra)",
       "url": "https://open.spotify.com/track/0kl6Ozan3fuUdCl6TlB15v"
-    },
-    {
-      "added_at": "2026-11-20 05:01:22",
-      "album": {
-        "name": "brand new chanel$",
-        "url": "https://open.spotify.com/album/75NIUjwFzYkzok7nRwNurg"
-      },
-      "artists": [
-        {
-          "name": "Slayyyter",
-          "url": "https://open.spotify.com/artist/4QM5QCHicznALtX885CnZC"
-        }
-      ],
-      "duration_ms": 238505,
-      "name": "brand new chanel$",
-      "url": "https://open.spotify.com/track/3FZoov0ORtnr8TznSNI1y2"
     },
     {
       "added_at": "2026-11-20 05:01:22",
@@ -331,26 +331,6 @@
     {
       "added_at": "2026-11-20 05:01:22",
       "album": {
-        "name": "Can I Ride",
-        "url": "https://open.spotify.com/album/4N2frseoAuec502jnHYCb8"
-      },
-      "artists": [
-        {
-          "name": "SIDEPIECE",
-          "url": "https://open.spotify.com/artist/5czbzNZZfWpyFgZyfT3Mkk"
-        },
-        {
-          "name": "95 South",
-          "url": "https://open.spotify.com/artist/3vjd6YHdWCqO3MWaYbxDf0"
-        }
-      ],
-      "duration_ms": 163888,
-      "name": "Can I Ride",
-      "url": "https://open.spotify.com/track/3gXGtYT41b4FXYctdxMwCI"
-    },
-    {
-      "added_at": "2026-11-20 05:01:22",
-      "album": {
         "name": "Fancy Footwork",
         "url": "https://open.spotify.com/album/1alVbRjUS3mG2Uk2D6iflR"
       },
@@ -371,6 +351,26 @@
     {
       "added_at": "2026-11-20 05:01:22",
       "album": {
+        "name": "Can I Ride",
+        "url": "https://open.spotify.com/album/4N2frseoAuec502jnHYCb8"
+      },
+      "artists": [
+        {
+          "name": "SIDEPIECE",
+          "url": "https://open.spotify.com/artist/5czbzNZZfWpyFgZyfT3Mkk"
+        },
+        {
+          "name": "95 South",
+          "url": "https://open.spotify.com/artist/3vjd6YHdWCqO3MWaYbxDf0"
+        }
+      ],
+      "duration_ms": 163888,
+      "name": "Can I Ride",
+      "url": "https://open.spotify.com/track/3gXGtYT41b4FXYctdxMwCI"
+    },
+    {
+      "added_at": "2026-11-20 05:01:22",
+      "album": {
         "name": "New Religion",
         "url": "https://open.spotify.com/album/20tsEm7Eiww4EqHRYzWdyH"
       },
@@ -387,6 +387,30 @@
       "duration_ms": 174400,
       "name": "New Religion",
       "url": "https://open.spotify.com/track/2Lb9ww5vZAnveWnrFQfAKR"
+    },
+    {
+      "added_at": "2026-11-20 05:01:22",
+      "album": {
+        "name": "Prada",
+        "url": "https://open.spotify.com/album/5MU0RmBSpoSxOPYBfcobDc"
+      },
+      "artists": [
+        {
+          "name": "cass\u00f6",
+          "url": "https://open.spotify.com/artist/5wCmhq5J2hPwL2r0eKurxn"
+        },
+        {
+          "name": "RAYE",
+          "url": "https://open.spotify.com/artist/5KKpBU5eC2tJDzf0wmlRp2"
+        },
+        {
+          "name": "D-Block Europe",
+          "url": "https://open.spotify.com/artist/5VadK1havLhK1OpKYsXv9y"
+        }
+      ],
+      "duration_ms": 132359,
+      "name": "Prada",
+      "url": "https://open.spotify.com/track/59NraMJsLaMCVtwXTSia8i"
     },
     {
       "added_at": "2026-11-20 05:01:22",
@@ -439,30 +463,6 @@
     {
       "added_at": "2026-11-20 05:01:22",
       "album": {
-        "name": "Prada",
-        "url": "https://open.spotify.com/album/5MU0RmBSpoSxOPYBfcobDc"
-      },
-      "artists": [
-        {
-          "name": "cass\u00f6",
-          "url": "https://open.spotify.com/artist/5wCmhq5J2hPwL2r0eKurxn"
-        },
-        {
-          "name": "RAYE",
-          "url": "https://open.spotify.com/artist/5KKpBU5eC2tJDzf0wmlRp2"
-        },
-        {
-          "name": "D-Block Europe",
-          "url": "https://open.spotify.com/artist/5VadK1havLhK1OpKYsXv9y"
-        }
-      ],
-      "duration_ms": 132359,
-      "name": "Prada",
-      "url": "https://open.spotify.com/track/59NraMJsLaMCVtwXTSia8i"
-    },
-    {
-      "added_at": "2026-11-20 05:01:22",
-      "album": {
         "name": "Friday (feat. Mufasa & Hypeman) [Dopamine Re-Edit]",
         "url": "https://open.spotify.com/album/39qsmsNRXjVaFqTZj9af0j"
       },
@@ -495,6 +495,22 @@
     {
       "added_at": "2026-11-20 05:01:22",
       "album": {
+        "name": "Pepas",
+        "url": "https://open.spotify.com/album/2A5ksnhz7YWbRLvFMjX1j1"
+      },
+      "artists": [
+        {
+          "name": "Farruko",
+          "url": "https://open.spotify.com/artist/329e4yvIujISKGKz1BZZbO"
+        }
+      ],
+      "duration_ms": 287120,
+      "name": "Pepas",
+      "url": "https://open.spotify.com/track/5fwSHlTEWpluwOM0Sxnh5k"
+    },
+    {
+      "added_at": "2026-11-20 05:01:22",
+      "album": {
         "name": "Rasputin",
         "url": "https://open.spotify.com/album/6PzYuR9c0CYCPJTnqylPhd"
       },
@@ -511,22 +527,6 @@
       "duration_ms": 186209,
       "name": "Rasputin",
       "url": "https://open.spotify.com/track/0b18g3G5spr4ZCkz7Y6Q0Q"
-    },
-    {
-      "added_at": "2026-11-20 05:01:22",
-      "album": {
-        "name": "Pepas",
-        "url": "https://open.spotify.com/album/2A5ksnhz7YWbRLvFMjX1j1"
-      },
-      "artists": [
-        {
-          "name": "Farruko",
-          "url": "https://open.spotify.com/artist/329e4yvIujISKGKz1BZZbO"
-        }
-      ],
-      "duration_ms": 287120,
-      "name": "Pepas",
-      "url": "https://open.spotify.com/track/5fwSHlTEWpluwOM0Sxnh5k"
     },
     {
       "added_at": "2026-11-20 05:01:22",
@@ -719,22 +719,6 @@
     {
       "added_at": "2026-11-20 05:01:22",
       "album": {
-        "name": "TOO COOL TO BE CARELESS",
-        "url": "https://open.spotify.com/album/17zk2lz0xesn8Y4YncohZa"
-      },
-      "artists": [
-        {
-          "name": "PAWSA",
-          "url": "https://open.spotify.com/artist/4E0HD2PMY8kQJIjlShrLUS"
-        }
-      ],
-      "duration_ms": 220046,
-      "name": "TOO COOL TO BE CARELESS",
-      "url": "https://open.spotify.com/track/6KqM3xmPIDonsTjCSGrrr5"
-    },
-    {
-      "added_at": "2026-11-20 05:01:22",
-      "album": {
         "name": "Where Are You Now",
         "url": "https://open.spotify.com/album/5YrOK7zze6egKg9a8WRcnD"
       },
@@ -751,6 +735,22 @@
       "duration_ms": 148197,
       "name": "Where Are You Now",
       "url": "https://open.spotify.com/track/3uUuGVFu1V7jTQL60S1r8z"
+    },
+    {
+      "added_at": "2026-11-20 05:01:22",
+      "album": {
+        "name": "TOO COOL TO BE CARELESS",
+        "url": "https://open.spotify.com/album/17zk2lz0xesn8Y4YncohZa"
+      },
+      "artists": [
+        {
+          "name": "PAWSA",
+          "url": "https://open.spotify.com/artist/4E0HD2PMY8kQJIjlShrLUS"
+        }
+      ],
+      "duration_ms": 220046,
+      "name": "TOO COOL TO BE CARELESS",
+      "url": "https://open.spotify.com/track/6KqM3xmPIDonsTjCSGrrr5"
     },
     {
       "added_at": "2026-11-20 05:01:22",
@@ -1275,26 +1275,6 @@
     {
       "added_at": "2026-11-20 05:01:22",
       "album": {
-        "name": "Where You Are",
-        "url": "https://open.spotify.com/album/4bIEy1wDeaEklS1BanbsmR"
-      },
-      "artists": [
-        {
-          "name": "John Summit",
-          "url": "https://open.spotify.com/artist/7kNqXtgeIwFtelmRjWv205"
-        },
-        {
-          "name": "HAYLA",
-          "url": "https://open.spotify.com/artist/4yX6mpMyBGf9UfvBB8JJrc"
-        }
-      ],
-      "duration_ms": 236000,
-      "name": "Where You Are",
-      "url": "https://open.spotify.com/track/4qDpLaFGf5ampf2DXD2TMA"
-    },
-    {
-      "added_at": "2026-11-20 05:01:22",
-      "album": {
         "name": "HIGHJACK (right back)",
         "url": "https://open.spotify.com/album/6CkVgejgX1Oypxu8rGI1VQ"
       },
@@ -1319,6 +1299,26 @@
     {
       "added_at": "2026-11-20 05:01:22",
       "album": {
+        "name": "Where You Are",
+        "url": "https://open.spotify.com/album/4bIEy1wDeaEklS1BanbsmR"
+      },
+      "artists": [
+        {
+          "name": "John Summit",
+          "url": "https://open.spotify.com/artist/7kNqXtgeIwFtelmRjWv205"
+        },
+        {
+          "name": "HAYLA",
+          "url": "https://open.spotify.com/artist/4yX6mpMyBGf9UfvBB8JJrc"
+        }
+      ],
+      "duration_ms": 236000,
+      "name": "Where You Are",
+      "url": "https://open.spotify.com/track/4qDpLaFGf5ampf2DXD2TMA"
+    },
+    {
+      "added_at": "2026-11-20 05:01:22",
+      "album": {
         "name": "Body Talk Pt. 1",
         "url": "https://open.spotify.com/album/4ektWErsV6EIxW0jBWq1Jn"
       },
@@ -1331,26 +1331,6 @@
       "duration_ms": 285973,
       "name": "Dancing On My Own",
       "url": "https://open.spotify.com/track/3Rc2ajBMInxeNGVkMPC92Y"
-    },
-    {
-      "added_at": "2026-11-20 05:01:22",
-      "album": {
-        "name": "High On Me",
-        "url": "https://open.spotify.com/album/2fpKAar1kXe4bWkzZSX88J"
-      },
-      "artists": [
-        {
-          "name": "Rossi.",
-          "url": "https://open.spotify.com/artist/7itMGcVGRKS43LcTQvJitf"
-        },
-        {
-          "name": "Jazzy",
-          "url": "https://open.spotify.com/artist/7zAAwgV5Wqmvpb4GzvlRkP"
-        }
-      ],
-      "duration_ms": 189767,
-      "name": "High On Me",
-      "url": "https://open.spotify.com/track/3Z23sDc2J9ZkmFiMStRoIp"
     },
     {
       "added_at": "2026-11-20 05:01:22",
@@ -1371,6 +1351,26 @@
       "duration_ms": 165909,
       "name": "Get Busy - Odd Mob Club Mix",
       "url": "https://open.spotify.com/track/6u6vaQoR0IXCWRSOP7h7D6"
+    },
+    {
+      "added_at": "2026-11-20 05:01:22",
+      "album": {
+        "name": "High On Me",
+        "url": "https://open.spotify.com/album/2fpKAar1kXe4bWkzZSX88J"
+      },
+      "artists": [
+        {
+          "name": "Rossi.",
+          "url": "https://open.spotify.com/artist/7itMGcVGRKS43LcTQvJitf"
+        },
+        {
+          "name": "Jazzy",
+          "url": "https://open.spotify.com/artist/7zAAwgV5Wqmvpb4GzvlRkP"
+        }
+      ],
+      "duration_ms": 189767,
+      "name": "High On Me",
+      "url": "https://open.spotify.com/track/3Z23sDc2J9ZkmFiMStRoIp"
     },
     {
       "added_at": "2026-11-20 05:01:22",
@@ -1739,42 +1739,6 @@
     {
       "added_at": "2026-11-20 05:01:22",
       "album": {
-        "name": "Got To Do",
-        "url": "https://open.spotify.com/album/20TS1WaOBsMkzH0zdOeevB"
-      },
-      "artists": [
-        {
-          "name": "Disco Lines",
-          "url": "https://open.spotify.com/artist/5Kmr0b3ip8g9P2i0dLTC3Z"
-        }
-      ],
-      "duration_ms": 169323,
-      "name": "Got To Do",
-      "url": "https://open.spotify.com/track/3JGVhjbPvMdxKqDE7NDJEK"
-    },
-    {
-      "added_at": "2026-11-20 05:01:22",
-      "album": {
-        "name": "Baby",
-        "url": "https://open.spotify.com/album/4MbyPhOldP6NLm1CZf8Oxo"
-      },
-      "artists": [
-        {
-          "name": "Prospa",
-          "url": "https://open.spotify.com/artist/6HabM2PUM519iIxervGWSb"
-        },
-        {
-          "name": "Murda Beatz",
-          "url": "https://open.spotify.com/artist/3CbYyyd8wH3RT6t0jwpdzC"
-        }
-      ],
-      "duration_ms": 193384,
-      "name": "Baby",
-      "url": "https://open.spotify.com/track/5q6QXK4K3DvIlwGEtElny3"
-    },
-    {
-      "added_at": "2026-11-20 05:01:22",
-      "album": {
         "name": "MYSTERY OF RAW",
         "url": "https://open.spotify.com/album/4bIsm7G40iX21BGY567Xaw"
       },
@@ -1799,22 +1763,38 @@
     {
       "added_at": "2026-11-20 05:01:22",
       "album": {
-        "name": "Up Down",
-        "url": "https://open.spotify.com/album/3rClZY3iOdiE4bwY6P25hY"
+        "name": "Baby",
+        "url": "https://open.spotify.com/album/4MbyPhOldP6NLm1CZf8Oxo"
       },
       "artists": [
         {
-          "name": "bradeazy",
-          "url": "https://open.spotify.com/artist/1dESZUZevzhd5dzq9ZsMLI"
+          "name": "Prospa",
+          "url": "https://open.spotify.com/artist/6HabM2PUM519iIxervGWSb"
         },
         {
-          "name": "TyriqueOrDie",
-          "url": "https://open.spotify.com/artist/6IyH7Och2DBHZAEBH9t9dE"
+          "name": "Murda Beatz",
+          "url": "https://open.spotify.com/artist/3CbYyyd8wH3RT6t0jwpdzC"
         }
       ],
-      "duration_ms": 172733,
-      "name": "Up Down",
-      "url": "https://open.spotify.com/track/5jqEybi7fIl2BpT0njbfhO"
+      "duration_ms": 193384,
+      "name": "Baby",
+      "url": "https://open.spotify.com/track/5q6QXK4K3DvIlwGEtElny3"
+    },
+    {
+      "added_at": "2026-11-20 05:01:22",
+      "album": {
+        "name": "Got To Do",
+        "url": "https://open.spotify.com/album/20TS1WaOBsMkzH0zdOeevB"
+      },
+      "artists": [
+        {
+          "name": "Disco Lines",
+          "url": "https://open.spotify.com/artist/5Kmr0b3ip8g9P2i0dLTC3Z"
+        }
+      ],
+      "duration_ms": 169323,
+      "name": "Got To Do",
+      "url": "https://open.spotify.com/track/3JGVhjbPvMdxKqDE7NDJEK"
     },
     {
       "added_at": "2026-11-20 05:01:22",
@@ -1831,6 +1811,26 @@
       "duration_ms": 148047,
       "name": "What's a Girl to Do in '25",
       "url": "https://open.spotify.com/track/3OgdqZIgGIqusstV9IqX6p"
+    },
+    {
+      "added_at": "2026-11-20 05:01:22",
+      "album": {
+        "name": "Up Down",
+        "url": "https://open.spotify.com/album/3rClZY3iOdiE4bwY6P25hY"
+      },
+      "artists": [
+        {
+          "name": "bradeazy",
+          "url": "https://open.spotify.com/artist/1dESZUZevzhd5dzq9ZsMLI"
+        },
+        {
+          "name": "TyriqueOrDie",
+          "url": "https://open.spotify.com/artist/6IyH7Och2DBHZAEBH9t9dE"
+        }
+      ],
+      "duration_ms": 172733,
+      "name": "Up Down",
+      "url": "https://open.spotify.com/track/5jqEybi7fIl2BpT0njbfhO"
     },
     {
       "added_at": "2026-11-20 05:01:22",
@@ -1855,22 +1855,6 @@
     {
       "added_at": "2026-11-20 05:01:22",
       "album": {
-        "name": "neck",
-        "url": "https://open.spotify.com/album/7E2mR54aGGrcACLRBWfOS7"
-      },
-      "artists": [
-        {
-          "name": "Mau P",
-          "url": "https://open.spotify.com/artist/0w1sbtZVQoK6GzV4A4OkCv"
-        }
-      ],
-      "duration_ms": 220465,
-      "name": "neck",
-      "url": "https://open.spotify.com/track/6KrrcOQiX7NQ4h038wKTUy"
-    },
-    {
-      "added_at": "2026-11-20 05:01:22",
-      "album": {
         "name": "The Sound of Silence (CYRIL Remix)",
         "url": "https://open.spotify.com/album/2aj8dhy2wfAtzBwh0bYuQc"
       },
@@ -1887,6 +1871,22 @@
       "duration_ms": 185238,
       "name": "The Sound of Silence - CYRIL Remix",
       "url": "https://open.spotify.com/track/32aeRhnsILUPSbPiH5x62t"
+    },
+    {
+      "added_at": "2026-11-20 05:01:22",
+      "album": {
+        "name": "neck",
+        "url": "https://open.spotify.com/album/7E2mR54aGGrcACLRBWfOS7"
+      },
+      "artists": [
+        {
+          "name": "Mau P",
+          "url": "https://open.spotify.com/artist/0w1sbtZVQoK6GzV4A4OkCv"
+        }
+      ],
+      "duration_ms": 220465,
+      "name": "neck",
+      "url": "https://open.spotify.com/track/6KrrcOQiX7NQ4h038wKTUy"
     },
     {
       "added_at": "2026-11-20 05:01:22",
@@ -1967,26 +1967,6 @@
     {
       "added_at": "2026-11-20 05:01:22",
       "album": {
-        "name": "Addicted To Bass (Dom Dolla Relapse)",
-        "url": "https://open.spotify.com/album/659fi13MrTySSxJqmatMMu"
-      },
-      "artists": [
-        {
-          "name": "Dom Dolla",
-          "url": "https://open.spotify.com/artist/205i7E8fNVfojowcQSfK9m"
-        },
-        {
-          "name": "Puretone",
-          "url": "https://open.spotify.com/artist/0Ykcjr4TDZEiWlv6ULmSK8"
-        }
-      ],
-      "duration_ms": 189179,
-      "name": "Addicted To Bass (Dom Dolla Relapse)",
-      "url": "https://open.spotify.com/track/0umvGSFCXSyrHGcXKwsvCg"
-    },
-    {
-      "added_at": "2026-11-20 05:01:22",
-      "album": {
         "name": "I'm Not Alone (MPH Remix)",
         "url": "https://open.spotify.com/album/17Ig8wh18XZqSjxfzyXCW5"
       },
@@ -2023,6 +2003,50 @@
       "duration_ms": 164244,
       "name": "Toxic",
       "url": "https://open.spotify.com/track/6bavRPbVF9voNZ4r6hTgVO"
+    },
+    {
+      "added_at": "2026-11-20 05:01:22",
+      "album": {
+        "name": "Addicted To Bass (Dom Dolla Relapse)",
+        "url": "https://open.spotify.com/album/659fi13MrTySSxJqmatMMu"
+      },
+      "artists": [
+        {
+          "name": "Dom Dolla",
+          "url": "https://open.spotify.com/artist/205i7E8fNVfojowcQSfK9m"
+        },
+        {
+          "name": "Puretone",
+          "url": "https://open.spotify.com/artist/0Ykcjr4TDZEiWlv6ULmSK8"
+        }
+      ],
+      "duration_ms": 189179,
+      "name": "Addicted To Bass (Dom Dolla Relapse)",
+      "url": "https://open.spotify.com/track/0umvGSFCXSyrHGcXKwsvCg"
+    },
+    {
+      "added_at": "2026-11-20 05:01:22",
+      "album": {
+        "name": "Rinse & Repeat (Again)",
+        "url": "https://open.spotify.com/album/6Be8HD5xgudGGLvAdZsLfP"
+      },
+      "artists": [
+        {
+          "name": "Kolter",
+          "url": "https://open.spotify.com/artist/2Invsp3HSrAeJy4u7Retry"
+        },
+        {
+          "name": "Riton",
+          "url": "https://open.spotify.com/artist/7i9j813KFoSBMldGqlh2Z1"
+        },
+        {
+          "name": "Kah-Lo",
+          "url": "https://open.spotify.com/artist/59iOp415oyqGlBHyAhu4z3"
+        }
+      ],
+      "duration_ms": 160909,
+      "name": "Rinse & Repeat (Again)",
+      "url": "https://open.spotify.com/track/1LIpl58FE75TGjyTz7AKTY"
     },
     {
       "added_at": "2026-11-20 05:01:22",
@@ -2067,22 +2091,6 @@
     {
       "added_at": "2026-11-20 05:01:22",
       "album": {
-        "name": "girl$",
-        "url": "https://open.spotify.com/album/5a9XC3rwRYjos3SaTRM1uc"
-      },
-      "artists": [
-        {
-          "name": "Dom Dolla",
-          "url": "https://open.spotify.com/artist/205i7E8fNVfojowcQSfK9m"
-        }
-      ],
-      "duration_ms": 209552,
-      "name": "girl$",
-      "url": "https://open.spotify.com/track/46N3FCKFABRjNoNBVq4osr"
-    },
-    {
-      "added_at": "2026-11-20 05:01:22",
-      "album": {
         "name": "BREAD",
         "url": "https://open.spotify.com/album/4diOe5MxsDKBVZbqKaoaex"
       },
@@ -2103,26 +2111,18 @@
     {
       "added_at": "2026-11-20 05:01:22",
       "album": {
-        "name": "Rinse & Repeat (Again)",
-        "url": "https://open.spotify.com/album/6Be8HD5xgudGGLvAdZsLfP"
+        "name": "girl$",
+        "url": "https://open.spotify.com/album/5a9XC3rwRYjos3SaTRM1uc"
       },
       "artists": [
         {
-          "name": "Kolter",
-          "url": "https://open.spotify.com/artist/2Invsp3HSrAeJy4u7Retry"
-        },
-        {
-          "name": "Riton",
-          "url": "https://open.spotify.com/artist/7i9j813KFoSBMldGqlh2Z1"
-        },
-        {
-          "name": "Kah-Lo",
-          "url": "https://open.spotify.com/artist/59iOp415oyqGlBHyAhu4z3"
+          "name": "Dom Dolla",
+          "url": "https://open.spotify.com/artist/205i7E8fNVfojowcQSfK9m"
         }
       ],
-      "duration_ms": 160909,
-      "name": "Rinse & Repeat (Again)",
-      "url": "https://open.spotify.com/track/1LIpl58FE75TGjyTz7AKTY"
+      "duration_ms": 209552,
+      "name": "girl$",
+      "url": "https://open.spotify.com/track/46N3FCKFABRjNoNBVq4osr"
     },
     {
       "added_at": "2026-11-20 05:01:22",
@@ -2263,6 +2263,22 @@
     {
       "added_at": "2026-11-20 05:01:22",
       "album": {
+        "name": "The Ringmaster",
+        "url": "https://open.spotify.com/album/30uB4Apy4yJgDSfE7xyA6n"
+      },
+      "artists": [
+        {
+          "name": "Bakermat",
+          "url": "https://open.spotify.com/artist/3MyFDtqB80WZvbtCZRsekM"
+        }
+      ],
+      "duration_ms": 180842,
+      "name": "Baian\u00e1",
+      "url": "https://open.spotify.com/track/17B9XlyyYDKkTmPay4z02V"
+    },
+    {
+      "added_at": "2026-11-20 05:01:22",
+      "album": {
         "name": "I Don't Trust A Soul",
         "url": "https://open.spotify.com/album/1K34ZHVTpDsWUvvHjwfBQP"
       },
@@ -2279,22 +2295,6 @@
       "duration_ms": 146059,
       "name": "I Don't Trust A Soul",
       "url": "https://open.spotify.com/track/6XIh9BtczdxO7HRQwrIPti"
-    },
-    {
-      "added_at": "2026-11-20 05:01:22",
-      "album": {
-        "name": "The Ringmaster",
-        "url": "https://open.spotify.com/album/30uB4Apy4yJgDSfE7xyA6n"
-      },
-      "artists": [
-        {
-          "name": "Bakermat",
-          "url": "https://open.spotify.com/artist/3MyFDtqB80WZvbtCZRsekM"
-        }
-      ],
-      "duration_ms": 180842,
-      "name": "Baian\u00e1",
-      "url": "https://open.spotify.com/track/17B9XlyyYDKkTmPay4z02V"
     },
     {
       "added_at": "2026-11-20 05:01:22",
@@ -2471,30 +2471,6 @@
     {
       "added_at": "2026-11-20 05:01:22",
       "album": {
-        "name": "Galvanize (Chris Lake Remix)",
-        "url": "https://open.spotify.com/album/4rxSgHTfUkvO4PCuIQUcMB"
-      },
-      "artists": [
-        {
-          "name": "The Chemical Brothers",
-          "url": "https://open.spotify.com/artist/1GhPHrq36VKCY3ucVaZCfo"
-        },
-        {
-          "name": "Chris Lake",
-          "url": "https://open.spotify.com/artist/5Igpc9iLZ3YGtKeYfSrrOE"
-        },
-        {
-          "name": "Q-Tip",
-          "url": "https://open.spotify.com/artist/3ZotbHeyVQKxQCPDJuQ4SU"
-        }
-      ],
-      "duration_ms": 223618,
-      "name": "Galvanize - Chris Lake Remix",
-      "url": "https://open.spotify.com/track/7Ki6lQlcAW565EsHfP8U7S"
-    },
-    {
-      "added_at": "2026-11-20 05:01:22",
-      "album": {
         "name": "All I Need Is Somebody",
         "url": "https://open.spotify.com/album/2YM4BEDJeuB6qJ67BClxGg"
       },
@@ -2515,6 +2491,30 @@
       "duration_ms": 165338,
       "name": "All I Need Is Somebody",
       "url": "https://open.spotify.com/track/6FiKm0uMPClvM0Tb1s6Bt9"
+    },
+    {
+      "added_at": "2026-11-20 05:01:22",
+      "album": {
+        "name": "Galvanize (Chris Lake Remix)",
+        "url": "https://open.spotify.com/album/4rxSgHTfUkvO4PCuIQUcMB"
+      },
+      "artists": [
+        {
+          "name": "The Chemical Brothers",
+          "url": "https://open.spotify.com/artist/1GhPHrq36VKCY3ucVaZCfo"
+        },
+        {
+          "name": "Chris Lake",
+          "url": "https://open.spotify.com/artist/5Igpc9iLZ3YGtKeYfSrrOE"
+        },
+        {
+          "name": "Q-Tip",
+          "url": "https://open.spotify.com/artist/3ZotbHeyVQKxQCPDJuQ4SU"
+        }
+      ],
+      "duration_ms": 223618,
+      "name": "Galvanize - Chris Lake Remix",
+      "url": "https://open.spotify.com/track/7Ki6lQlcAW565EsHfP8U7S"
     },
     {
       "added_at": "2026-11-20 05:01:22",
@@ -2603,26 +2603,6 @@
     {
       "added_at": "2026-11-20 05:01:22",
       "album": {
-        "name": "Zone (feat. Poppy Baskcomb)",
-        "url": "https://open.spotify.com/album/00rU0tWrqlGziKpGgOgxkF"
-      },
-      "artists": [
-        {
-          "name": "MK",
-          "url": "https://open.spotify.com/artist/1yqxFtPHKcGcv6SXZNdyT9"
-        },
-        {
-          "name": "Poppy Baskcomb",
-          "url": "https://open.spotify.com/artist/4STmXOXUF3UieHU46NWLVt"
-        }
-      ],
-      "duration_ms": 176274,
-      "name": "Zone (feat. Poppy Baskcomb)",
-      "url": "https://open.spotify.com/track/7EFn41OWyp4bl9UxUaysdr"
-    },
-    {
-      "added_at": "2026-11-20 05:01:22",
-      "album": {
         "name": "Slow Burner",
         "url": "https://open.spotify.com/album/6j4ffFjnsHqYexblnGJwdB"
       },
@@ -2639,6 +2619,26 @@
       "duration_ms": 212647,
       "name": "Slow Burner",
       "url": "https://open.spotify.com/track/1Siu5Bnrt90vtjUddXeTUg"
+    },
+    {
+      "added_at": "2026-11-20 05:01:22",
+      "album": {
+        "name": "Zone (feat. Poppy Baskcomb)",
+        "url": "https://open.spotify.com/album/00rU0tWrqlGziKpGgOgxkF"
+      },
+      "artists": [
+        {
+          "name": "MK",
+          "url": "https://open.spotify.com/artist/1yqxFtPHKcGcv6SXZNdyT9"
+        },
+        {
+          "name": "Poppy Baskcomb",
+          "url": "https://open.spotify.com/artist/4STmXOXUF3UieHU46NWLVt"
+        }
+      ],
+      "duration_ms": 176274,
+      "name": "Zone (feat. Poppy Baskcomb)",
+      "url": "https://open.spotify.com/track/7EFn41OWyp4bl9UxUaysdr"
     },
     {
       "added_at": "2026-11-20 05:01:22",
@@ -2723,22 +2723,6 @@
     {
       "added_at": "2026-11-20 05:01:22",
       "album": {
-        "name": "Get Up And Dance",
-        "url": "https://open.spotify.com/album/3PbkeRh92HBhRCs08U9PQr"
-      },
-      "artists": [
-        {
-          "name": "Cloonee",
-          "url": "https://open.spotify.com/artist/7MdlXmq2HViAJWo9cf30sR"
-        }
-      ],
-      "duration_ms": 155081,
-      "name": "Get Up And Dance",
-      "url": "https://open.spotify.com/track/3XO43dyBY9DWKIAeFEidRC"
-    },
-    {
-      "added_at": "2026-11-20 05:01:22",
-      "album": {
         "name": "WTF",
         "url": "https://open.spotify.com/album/6Qs4FQFYCMfLnuYEFATGEo"
       },
@@ -2751,6 +2735,22 @@
       "duration_ms": 193903,
       "name": "WTF",
       "url": "https://open.spotify.com/track/18rxxU3lErSMcyoYIXR4k1"
+    },
+    {
+      "added_at": "2026-11-20 05:01:22",
+      "album": {
+        "name": "Get Up And Dance",
+        "url": "https://open.spotify.com/album/3PbkeRh92HBhRCs08U9PQr"
+      },
+      "artists": [
+        {
+          "name": "Cloonee",
+          "url": "https://open.spotify.com/artist/7MdlXmq2HViAJWo9cf30sR"
+        }
+      ],
+      "duration_ms": 155081,
+      "name": "Get Up And Dance",
+      "url": "https://open.spotify.com/track/3XO43dyBY9DWKIAeFEidRC"
     },
     {
       "added_at": "2026-11-20 05:01:22",
@@ -2907,6 +2907,30 @@
     {
       "added_at": "2026-11-20 05:01:22",
       "album": {
+        "name": "Personal",
+        "url": "https://open.spotify.com/album/08UUNBzSbmrxH6m4FuEeGu"
+      },
+      "artists": [
+        {
+          "name": "Jaden Thompson",
+          "url": "https://open.spotify.com/artist/0mdzsyApmam6OqNr4Z3vKQ"
+        },
+        {
+          "name": "Rampa",
+          "url": "https://open.spotify.com/artist/08jywfUS0hp8XYlYs0cvz8"
+        },
+        {
+          "name": "Nafe Smallz",
+          "url": "https://open.spotify.com/artist/3dKjmeRZcSUw617CoMzEA0"
+        }
+      ],
+      "duration_ms": 202559,
+      "name": "Personal",
+      "url": "https://open.spotify.com/track/624l2EfYCGPJzV6Kn3oWKH"
+    },
+    {
+      "added_at": "2026-11-20 05:01:22",
+      "album": {
         "name": "Don't Worry Baby",
         "url": "https://open.spotify.com/album/1F3Ph8gHm2aCnMJbNvmo5f"
       },
@@ -2971,22 +2995,6 @@
     {
       "added_at": "2026-11-20 05:01:22",
       "album": {
-        "name": "Mi Casa",
-        "url": "https://open.spotify.com/album/2zSH8i7T0nR7jMvV17dnjO"
-      },
-      "artists": [
-        {
-          "name": "Patrick Topping",
-          "url": "https://open.spotify.com/artist/7yRimuQSC5Ks3T2Ts0iyZa"
-        }
-      ],
-      "duration_ms": 229174,
-      "name": "Mi Casa",
-      "url": "https://open.spotify.com/track/3GQURTVhI9LRYy8Q8CCggN"
-    },
-    {
-      "added_at": "2026-11-20 05:01:22",
-      "album": {
         "name": "The Way I Are (Max Dean Remix)",
         "url": "https://open.spotify.com/album/2PGg01PDpfS5pJqUj7iaEj"
       },
@@ -3015,26 +3023,18 @@
     {
       "added_at": "2026-11-20 05:01:22",
       "album": {
-        "name": "Personal",
-        "url": "https://open.spotify.com/album/08UUNBzSbmrxH6m4FuEeGu"
+        "name": "Mi Casa",
+        "url": "https://open.spotify.com/album/2zSH8i7T0nR7jMvV17dnjO"
       },
       "artists": [
         {
-          "name": "Jaden Thompson",
-          "url": "https://open.spotify.com/artist/0mdzsyApmam6OqNr4Z3vKQ"
-        },
-        {
-          "name": "Rampa",
-          "url": "https://open.spotify.com/artist/08jywfUS0hp8XYlYs0cvz8"
-        },
-        {
-          "name": "Nafe Smallz",
-          "url": "https://open.spotify.com/artist/3dKjmeRZcSUw617CoMzEA0"
+          "name": "Patrick Topping",
+          "url": "https://open.spotify.com/artist/7yRimuQSC5Ks3T2Ts0iyZa"
         }
       ],
-      "duration_ms": 202559,
-      "name": "Personal",
-      "url": "https://open.spotify.com/track/624l2EfYCGPJzV6Kn3oWKH"
+      "duration_ms": 229174,
+      "name": "Mi Casa",
+      "url": "https://open.spotify.com/track/3GQURTVhI9LRYy8Q8CCggN"
     },
     {
       "added_at": "2026-11-20 05:01:22",

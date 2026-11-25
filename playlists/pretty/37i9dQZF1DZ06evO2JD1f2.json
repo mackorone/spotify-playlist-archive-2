@@ -6,7 +6,7 @@
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "awIwgAAAAABo8qf3HeOOiTR7mp6wQby3",
+  "snapshot_id": "awOCAAAAAAAVrgEcLhItvI9r9lmvEfoC",
   "tracks": [
     {
       "added_at": null,
@@ -352,9 +352,9 @@
           "url": "https://open.spotify.com/artist/4FlG0V0jhLO4qGpayFOphj"
         }
       ],
-      "duration_ms": 108147,
-      "name": "I GOT IT LIT",
-      "url": "https://open.spotify.com/track/5TKOFhT7FmAh7hb5xX03Lg"
+      "duration_ms": 99259,
+      "name": "BIRTH OF A ROYAL CHILD",
+      "url": "https://open.spotify.com/track/3Pctmz9EYtQVDYp2JSd0q1"
     },
     {
       "added_at": null,
@@ -399,6 +399,42 @@
     {
       "added_at": null,
       "album": {
+        "name": "everything i said i am. / everything she said she is.",
+        "url": "https://open.spotify.com/album/49Cx6ll4BOruqwiHoPVcIj"
+      },
+      "artists": [
+        {
+          "name": "YFN Lucci",
+          "url": "https://open.spotify.com/artist/5Berubt6ysOy2LCMyqhmXP"
+        },
+        {
+          "name": "EST Gee",
+          "url": "https://open.spotify.com/artist/4FlG0V0jhLO4qGpayFOphj"
+        }
+      ],
+      "duration_ms": 139676,
+      "name": "real ONE. ft. EST GEE.",
+      "url": "https://open.spotify.com/track/4JuqDKAypioaAjG0tWV0UL"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "BIGGER THAN THE DEVIL",
+        "url": "https://open.spotify.com/album/2vKNBGUmM8uHe9GfrlV4mE"
+      },
+      "artists": [
+        {
+          "name": "EST Gee",
+          "url": "https://open.spotify.com/artist/4FlG0V0jhLO4qGpayFOphj"
+        }
+      ],
+      "duration_ms": 108147,
+      "name": "I GOT IT LIT",
+      "url": "https://open.spotify.com/track/5TKOFhT7FmAh7hb5xX03Lg"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "I Aint Feeling You",
         "url": "https://open.spotify.com/album/2qBkwnQ9M3pwuQWJXDiaGa"
       },
@@ -423,8 +459,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "BIGGER THAN THE DEVIL",
-        "url": "https://open.spotify.com/album/2vKNBGUmM8uHe9GfrlV4mE"
+        "name": "I Still Dont Feel Nun",
+        "url": "https://open.spotify.com/album/7ilMGv7d9zo5DF6k87qv7w"
       },
       "artists": [
         {
@@ -432,9 +468,9 @@
           "url": "https://open.spotify.com/artist/4FlG0V0jhLO4qGpayFOphj"
         }
       ],
-      "duration_ms": 99259,
-      "name": "BIRTH OF A ROYAL CHILD",
-      "url": "https://open.spotify.com/track/3Pctmz9EYtQVDYp2JSd0q1"
+      "duration_ms": 155413,
+      "name": "Young Shiners",
+      "url": "https://open.spotify.com/track/1g2nx2OTpQqGV3hF1BnpIK"
     },
     {
       "added_at": null,
@@ -455,42 +491,6 @@
       "duration_ms": 106843,
       "name": "Can't Be Fucked With",
       "url": "https://open.spotify.com/track/7AmVwZ9vImbly1xOkUFJZI"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "I Still Dont Feel Nun",
-        "url": "https://open.spotify.com/album/7ilMGv7d9zo5DF6k87qv7w"
-      },
-      "artists": [
-        {
-          "name": "EST Gee",
-          "url": "https://open.spotify.com/artist/4FlG0V0jhLO4qGpayFOphj"
-        }
-      ],
-      "duration_ms": 155413,
-      "name": "Young Shiners",
-      "url": "https://open.spotify.com/track/1g2nx2OTpQqGV3hF1BnpIK"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "EL TORO 2",
-        "url": "https://open.spotify.com/album/1hkONxY47acT0rAdOlwhjs"
-      },
-      "artists": [
-        {
-          "name": "EST Gee",
-          "url": "https://open.spotify.com/artist/4FlG0V0jhLO4qGpayFOphj"
-        },
-        {
-          "name": "Lil Baby",
-          "url": "https://open.spotify.com/artist/5f7VJjfbwm532GiveGC0ZK"
-        }
-      ],
-      "duration_ms": 145317,
-      "name": "I THINK (FEAT. LIL BABY)",
-      "url": "https://open.spotify.com/track/4wYXfAEYdfKkOmtOE6c8Hx"
     },
     {
       "added_at": null,
@@ -519,6 +519,42 @@
     {
       "added_at": null,
       "album": {
+        "name": "I Still Dont Feel Nun",
+        "url": "https://open.spotify.com/album/7ilMGv7d9zo5DF6k87qv7w"
+      },
+      "artists": [
+        {
+          "name": "EST Gee",
+          "url": "https://open.spotify.com/artist/4FlG0V0jhLO4qGpayFOphj"
+        }
+      ],
+      "duration_ms": 124235,
+      "name": "I Still Dont Feel Nun",
+      "url": "https://open.spotify.com/track/46p6sJzt93LopLhYZHafHL"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "EL TORO 2",
+        "url": "https://open.spotify.com/album/1hkONxY47acT0rAdOlwhjs"
+      },
+      "artists": [
+        {
+          "name": "EST Gee",
+          "url": "https://open.spotify.com/artist/4FlG0V0jhLO4qGpayFOphj"
+        },
+        {
+          "name": "Lil Baby",
+          "url": "https://open.spotify.com/artist/5f7VJjfbwm532GiveGC0ZK"
+        }
+      ],
+      "duration_ms": 145317,
+      "name": "I THINK (FEAT. LIL BABY)",
+      "url": "https://open.spotify.com/track/4wYXfAEYdfKkOmtOE6c8Hx"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Bigger Than Life Or Death",
         "url": "https://open.spotify.com/album/1RsqFdvHFKN9VGpBmJtUku"
       },
@@ -543,22 +579,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "I Still Dont Feel Nun",
-        "url": "https://open.spotify.com/album/7ilMGv7d9zo5DF6k87qv7w"
-      },
-      "artists": [
-        {
-          "name": "EST Gee",
-          "url": "https://open.spotify.com/artist/4FlG0V0jhLO4qGpayFOphj"
-        }
-      ],
-      "duration_ms": 124235,
-      "name": "I Still Dont Feel Nun",
-      "url": "https://open.spotify.com/track/46p6sJzt93LopLhYZHafHL"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Creed III: The Soundtrack",
         "url": "https://open.spotify.com/album/00hCNOuhFfKYCeLgRRRAT6"
       },
@@ -579,26 +599,6 @@
       "duration_ms": 125885,
       "name": "Anthem (with Big Sean & EST Gee) - Soundtrack Version",
       "url": "https://open.spotify.com/track/7CeNOTM3asX0zt6pAi9a6W"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "everything i said i am. / everything she said she is.",
-        "url": "https://open.spotify.com/album/49Cx6ll4BOruqwiHoPVcIj"
-      },
-      "artists": [
-        {
-          "name": "YFN Lucci",
-          "url": "https://open.spotify.com/artist/5Berubt6ysOy2LCMyqhmXP"
-        },
-        {
-          "name": "EST Gee",
-          "url": "https://open.spotify.com/artist/4FlG0V0jhLO4qGpayFOphj"
-        }
-      ],
-      "duration_ms": 139676,
-      "name": "real ONE. ft. EST GEE.",
-      "url": "https://open.spotify.com/track/4JuqDKAypioaAjG0tWV0UL"
     },
     {
       "added_at": null,

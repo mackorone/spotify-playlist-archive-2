@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7LGssahBoms.md) - [plain]
 
 > Le meilleur des années 70 en 70 titres.
 
-[Spotify](https://open.spotify.com/user/spotify) - 207,841 likes - 70 songs - 4 hr 54 min
+[Spotify](https://open.spotify.com/user/spotify) - 207,840 likes - 70 songs - 4 hr 54 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -79,4 +79,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7LGssahBoms.md) - [plain]
 | 69 | [My Sweet Lord \- Remastered 2014](https://open.spotify.com/track/0qdQUeKVyevrbKhAo0ibxS) | [George Harrison](https://open.spotify.com/artist/7FIoB5PHdrMZVC3q2HE5MS) | [All Things Must Pass \(Remastered 2014\)](https://open.spotify.com/album/4I4xtHaIFOzhZfp1NIHkY6) | 4:41 |
 | 70 | [Sultans Of Swing](https://open.spotify.com/track/3LTMnFa0hhwisyq6ILahyj) | [Dire Straits](https://open.spotify.com/artist/0WwSkZ7LtFUFjGjMZBMt6T) | [Dire Straits \(Remastered\)](https://open.spotify.com/album/3QEcBcqPmefFWd5ZrLNuDX) | 5:48 |
 
-Snapshot ID: `AAAAAMDnqHAn+CNw/5yWoxUx0+vTNrB+`
+Snapshot ID: `AAAAAOZ8FoSooNydOpgDBuk7JKJE6Nn1`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO096Rby.md) - [plain]
 
 > This is Edgardo Nuñez\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 63,995 likes - 50 songs - 2 hr 33 min
+[Spotify](https://open.spotify.com/user/spotify) - 64,016 likes - 50 songs - 2 hr 33 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -34,9 +34,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO096Rby.md) - [plain]
 | 24 | [El Don Nadie \- En Vivo](https://open.spotify.com/track/3AxzKzoESCwJcwFFpXlQNE) | [Edgardo Nuñez](https://open.spotify.com/artist/0mA4dkNGiN4fqTBi2SLlAv) | [En Vivo Con Banda y Norteño](https://open.spotify.com/album/6ofKDT8xaWhO6VIpaf3wdp) | 3:00 |
 | 25 | [Renacer](https://open.spotify.com/track/3xu6gF8R4fa0ghzvj67aI6) | [Edgardo Nuñez](https://open.spotify.com/artist/0mA4dkNGiN4fqTBi2SLlAv) | [Renacer](https://open.spotify.com/album/0opXTeDZShv3Si2I2XWJsi) | 2:46 |
 | 26 | [NO VOLVERE \- En Vivo desde Los Ángeles](https://open.spotify.com/track/5VeaJKovkYUfGvjCOdjL9M) | [Codiciado](https://open.spotify.com/artist/0IoWUuXfqpkfpxBRzthHU4), [Edgardo Nuñez](https://open.spotify.com/artist/0mA4dkNGiN4fqTBi2SLlAv) | [PISTEANDO DESDE LOS ANGELES \(En Vivo\)](https://open.spotify.com/album/3QbPa15debwncYYRMvb1hL) | 2:33 |
-| 27 | [Que Chulada \- En Vivo](https://open.spotify.com/track/46z3JlKiEREkLGhuL71qXF) | [Edgardo Nuñez](https://open.spotify.com/artist/0mA4dkNGiN4fqTBi2SLlAv) | [Puros Exitos Con Banda \(En Vivo\)](https://open.spotify.com/album/75rw7dmVjcLhBBYysPNon3) | 2:02 |
+| 27 | [En Los Puritos Huesos \- En Vivo](https://open.spotify.com/track/3lrhIGDAi0AELopgjKVJJf) | [Edgardo Nuñez](https://open.spotify.com/artist/0mA4dkNGiN4fqTBi2SLlAv) | [Corridos 602 Vol.3 \(En Vivo\)](https://open.spotify.com/album/1BqEmjAfzAAtKWULjOW0z8) | 2:22 |
 | 28 | [Yo Soy El Pirata](https://open.spotify.com/track/5rzULa4UZ6XbWLIxoMdukv) | [Edgardo Nuñez](https://open.spotify.com/artist/0mA4dkNGiN4fqTBi2SLlAv) | [Yo Soy El Pirata](https://open.spotify.com/album/3I5LuSJcPwnlA3VFwnQXuh) | 2:48 |
-| 29 | [En Los Puritos Huesos \- En Vivo](https://open.spotify.com/track/3lrhIGDAi0AELopgjKVJJf) | [Edgardo Nuñez](https://open.spotify.com/artist/0mA4dkNGiN4fqTBi2SLlAv) | [Corridos 602 Vol.3 \(En Vivo\)](https://open.spotify.com/album/1BqEmjAfzAAtKWULjOW0z8) | 2:22 |
+| 29 | [Que Chulada \- En Vivo](https://open.spotify.com/track/46z3JlKiEREkLGhuL71qXF) | [Edgardo Nuñez](https://open.spotify.com/artist/0mA4dkNGiN4fqTBi2SLlAv) | [Puros Exitos Con Banda \(En Vivo\)](https://open.spotify.com/album/75rw7dmVjcLhBBYysPNon3) | 2:02 |
 | 30 | [El Buenas Tardes](https://open.spotify.com/track/1gb3SXBZ05dqxy7KD616m6) | [Los Alegres Del Barranco](https://open.spotify.com/artist/2TSslwx9J30KElgEr68sdv), [Edgardo Nuñez](https://open.spotify.com/artist/0mA4dkNGiN4fqTBi2SLlAv), [Los Farmerz](https://open.spotify.com/artist/5aZppZ1lCv3Y09RuunlN1a) | [El Buenas Tardes](https://open.spotify.com/album/32JOOGL0H1g27caRVFuuIE) | 3:31 |
 | 31 | [De Los Dientes Pa Fuera](https://open.spotify.com/track/6U4MQb60Hkvv4ZS2Qwg3Lo) | [Los Alegres Del Barranco](https://open.spotify.com/artist/2TSslwx9J30KElgEr68sdv), [Edgardo Nuñez](https://open.spotify.com/artist/0mA4dkNGiN4fqTBi2SLlAv), [Los Farmerz](https://open.spotify.com/artist/5aZppZ1lCv3Y09RuunlN1a) | [De Los Dientes Pa Fuera](https://open.spotify.com/album/3rGviY23qfCvsHXiauzv19) | 2:48 |
 | 32 | [Los 5 Pesos](https://open.spotify.com/track/5FsULCWGefpCSSxufIH4lw) | [Edgardo Nuñez](https://open.spotify.com/artist/0mA4dkNGiN4fqTBi2SLlAv), [Adrian Chaparro](https://open.spotify.com/artist/3Y4EQUPoAoMmzHwq4LUYtl) | [No Ando Solo](https://open.spotify.com/album/04B0jWoQI5vd3hFqFrKa7e) | 4:05 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO096Rby.md) - [plain]
 | 49 | [La Envidia Se Dio Cuenta \- En Vivo](https://open.spotify.com/track/46WJUGGILoo7R7GwheR1wh) | [Edgardo Nuñez](https://open.spotify.com/artist/0mA4dkNGiN4fqTBi2SLlAv), [Fuerza Regida](https://open.spotify.com/artist/0ys2OFYzWYB5hRDLCsBqxt) | [La Envidia Se Dio Cuenta \(En Vivo\)](https://open.spotify.com/album/63XdgF882pL2ryGEM8jPSR) | 3:26 |
 | 50 | [El Piyi](https://open.spotify.com/track/4aJPDh3dn3MVppavGXs3ao) | [Edgardo Nuñez](https://open.spotify.com/artist/0mA4dkNGiN4fqTBi2SLlAv) | [Corridos 602 Vol.2](https://open.spotify.com/album/76LhAh0fmsd3yYbLYMv86x) | 3:11 |
 
-Snapshot ID: `awIwgAAAAAC1EdykcJaQt+24LJNv66RP`
+Snapshot ID: `awOCAAAAAAB/gsdVU5QaIfYwIbODMXpF`

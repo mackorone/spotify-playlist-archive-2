@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWW2E6sxVAQU6.md) - [plain]
 
 > Dedicata a chi non ha rischiato ed è sempre andato al massimo  ⚡️
 
-[Spotify](https://open.spotify.com/user/spotify) - 13,637 likes - 50 songs - 3 hr 2 min
+[Spotify](https://open.spotify.com/user/spotify) - 13,641 likes - 50 songs - 3 hr 2 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -28,14 +28,14 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWW2E6sxVAQU6.md) - [plain]
 | 18 | [Sincero \(feat\. Morgan\)](https://open.spotify.com/track/6v2eWAtpP4WDrxRDAG9FwL) | [Bugo](https://open.spotify.com/artist/01U4yWwtUKMckbI55OiT7g), [Morgan](https://open.spotify.com/artist/6RUY9TXdPIoeOExtd9twr0) | [Sincero \(feat\. Morgan\)](https://open.spotify.com/album/1N1j43lLEbPtcH2agEYos7) | 3:43 |
 | 19 | [Ma Che Ne Sai..\. \(...Se Non Hai Fatto Il Piano\-Bar\)](https://open.spotify.com/track/4ukx28Dx9UnZlFWk81HNaV) | [Gigi Proietti](https://open.spotify.com/artist/4aztUD9n74oCxu7ss8C8UD), [Trio Melody](https://open.spotify.com/artist/2JhA5aOKefzHPXKbyhi61y), [Peppino Di Capri](https://open.spotify.com/artist/4zg9VA3wNR2KFwpvPabqa4), [Stefano Palatresi](https://open.spotify.com/artist/5hyNfdEAhG5oKIRhpgS5bx) | [Ma Che Ne Sai..\. \(...Se Non Hai Fatto Il Piano\-Bar\)](https://open.spotify.com/album/5MEDvsrCUMJ5HbYaozGNRU) | 3:13 |
 | 20 | [Combat pop \(ALBI \#1\)](https://open.spotify.com/track/1SIp3BtzYxFfVy7AD8r0PZ) | [Lo Stato Sociale](https://open.spotify.com/artist/1MBjY2JFotAGoTYDfO80cM) | [Attentato alla musica italiana](https://open.spotify.com/album/2ARUgdwDSy3vW5mhcnDvP8) | 3:25 |
-| 21 | [Il farmacista](https://open.spotify.com/track/3tx0Rl5JSvTVfPMuDd0CdN) | [Max Gazzè](https://open.spotify.com/artist/1h5O32I1o0VOnpLmKXLfRa) | [Il farmacista](https://open.spotify.com/album/5O37ctKTp6CZyfhrRZhLq3) | 4:11 |
-| 22 | [Se me lo dicevi prima](https://open.spotify.com/track/7bDDUMonsSUQyvctsj9lg9) | [Enzo Jannacci](https://open.spotify.com/artist/02tKmsUnu6UIYpTx5Wyle8) | [No, Tu No](https://open.spotify.com/album/6KZkxbFfmuaWe8EiiRo3S4) | 4:23 |
+| 21 | [Se me lo dicevi prima](https://open.spotify.com/track/7bDDUMonsSUQyvctsj9lg9) | [Enzo Jannacci](https://open.spotify.com/artist/02tKmsUnu6UIYpTx5Wyle8) | [No, Tu No](https://open.spotify.com/album/6KZkxbFfmuaWe8EiiRo3S4) | 4:23 |
+| 22 | [Il farmacista](https://open.spotify.com/track/3tx0Rl5JSvTVfPMuDd0CdN) | [Max Gazzè](https://open.spotify.com/artist/1h5O32I1o0VOnpLmKXLfRa) | [Il farmacista](https://open.spotify.com/album/5O37ctKTp6CZyfhrRZhLq3) | 4:11 |
 | 23 | [Mi sono innamorato di mia moglie](https://open.spotify.com/track/7vvzB2UIc9cZUxrSNN5U9u) | [Gianni Nazzaro](https://open.spotify.com/artist/4Xyv6XmF999fSruMHlHu6o) | [Il meglio](https://open.spotify.com/album/64N7AuJBH4se9KM2GXzdsc) | 3:47 |
 | 24 | [Mezze verità](https://open.spotify.com/track/7rdw5FwyUOuXtTQCKRtsWy) | [Sottotono](https://open.spotify.com/artist/7y9fjudnPW7IIhom2ZES3N) | [Playlist: Sottotono](https://open.spotify.com/album/3PNhqVcLql4ffwqtzIKXMr) | 4:18 |
 | 25 | [Buona Giornata](https://open.spotify.com/track/7LFXimqV3fbyE1IQrTkwlk) | [Ricchi E Poveri](https://open.spotify.com/artist/5BwOOeKayeMZXa5SSaiRxv) | [Made In Italy](https://open.spotify.com/album/0aHIpO6L0A7hgp5Czy8OFF) | 3:38 |
 | 26 | [Linda Bella Linda \- 2004 Digital Remaster](https://open.spotify.com/track/2YCL69ro0MbYfCQHj0rY7z) | [Daniel Sentacruz Ensemble](https://open.spotify.com/artist/0VkTO4kWbmwTFNReojnv26) | [Daniel Sentacruz Ensemble: Solo Grandi Successi](https://open.spotify.com/album/5f9JDlOz09tMEcXmWljoZ0) | 3:42 |
-| 27 | [Quelli Che Non Hanno Età \- Gabry Ponte Power Cut](https://open.spotify.com/track/2mz1KvlR3aHoLSJTdh1nwR) | [Eiffel 65](https://open.spotify.com/artist/64rxQRJsLgZwHHyWKB8fiF), [Gabry Ponte](https://open.spotify.com/artist/5ENS85nZShljwNgg4wFD7D) | [Eiffel 65 \(Italian Album\)](https://open.spotify.com/album/1JhmNKRWia4bEo6IH8AFpg) | 3:59 |
-| 28 | [Verso il 2000](https://open.spotify.com/track/2Jgl0CTX70DeULejc5XUsn) | [Flavia Fortunato](https://open.spotify.com/artist/6u4qQuBV1wEiChGgPVT45f) | [Verso il 2000](https://open.spotify.com/album/5QybZhfwjSfKnDIRkmi1h6) | 4:34 |
+| 27 | [Verso il 2000](https://open.spotify.com/track/2Jgl0CTX70DeULejc5XUsn) | [Flavia Fortunato](https://open.spotify.com/artist/6u4qQuBV1wEiChGgPVT45f) | [Verso il 2000](https://open.spotify.com/album/5QybZhfwjSfKnDIRkmi1h6) | 4:34 |
+| 28 | [Quelli Che Non Hanno Età \- Gabry Ponte Power Cut](https://open.spotify.com/track/2mz1KvlR3aHoLSJTdh1nwR) | [Eiffel 65](https://open.spotify.com/artist/64rxQRJsLgZwHHyWKB8fiF), [Gabry Ponte](https://open.spotify.com/artist/5ENS85nZShljwNgg4wFD7D) | [Eiffel 65 \(Italian Album\)](https://open.spotify.com/album/1JhmNKRWia4bEo6IH8AFpg) | 3:59 |
 | 29 | [Bentivoglio Angelina](https://open.spotify.com/track/2EYm6XYiMF1o3jUCR0ElnW) | [Quintorigo](https://open.spotify.com/artist/4guRW6Wa0XPtSNDy5yDkjP) | [Grigio](https://open.spotify.com/album/270IC3XZCJIoxK5uRPzWmY) | 4:14 |
 | 30 | [Ping Pong](https://open.spotify.com/track/2H9copqgXrRBpjLnMBZjh8) | [Plastic Bertrand](https://open.spotify.com/artist/1KeIof0zqga5ojkmOKg88P) | [Ça Plane Pour Moi](https://open.spotify.com/album/6bv0t7P61aPvCjgbqMZk0V) | 2:46 |
 | 31 | [Tu fai schifo sempre](https://open.spotify.com/track/3wtQeyl59gDxcJkvbV036k) | [I Pandemonium](https://open.spotify.com/artist/717AOR8NywHgYvjrlQtzyp) | [I Pandemonium](https://open.spotify.com/album/4JWO6OQfAhyNzTIBnOvhO2) | 3:35 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWW2E6sxVAQU6.md) - [plain]
 | 49 | [Caffè nero bollente](https://open.spotify.com/track/7Mbuzp7QeQH35dHQeQDUz0) | [Fiorella Mannoia](https://open.spotify.com/artist/5VxhGHbcuvqTLRUWzBUN8L) | [Fiorella Mannoia](https://open.spotify.com/album/089iETyoc1V7iJyjo26cDK) | 4:26 |
 | 50 | [La terra dei cachi](https://open.spotify.com/track/7B1a9ZioRPIan2ejYapGxt) | [Elio e le Storie Tese](https://open.spotify.com/artist/61r4cE4aoOD50wPNhQ5fF7) | [Del meglio del nostro meglio Vol\. 1 \(remastered\)](https://open.spotify.com/album/05KkxDmNE4o75OO2Xnq9pQ) | 4:41 |
 
-Snapshot ID: `AAAAAF7xFFwFsRnlFyvjzcoqbFALlGXe`
+Snapshot ID: `AAAAALa+D0F8lybaVQPLefRhjlCVp/3p`

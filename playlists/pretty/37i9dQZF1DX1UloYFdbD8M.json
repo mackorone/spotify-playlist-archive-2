@@ -1,12 +1,12 @@
 {
   "description": "Super Cool Indie Tracks from Gods Own Country\nCover: Eechuu",
-  "num_followers": 42369,
+  "num_followers": 42372,
   "original_name": "Malayalam Indie",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAKbFPErzwt5d6lilD1jFx8eOCgPq",
+  "snapshot_id": "AAAAAJ+GbOV9p7iByCfrE2OSrN4vdYIh",
   "tracks": [
     {
       "added_at": "2026-10-12 12:39:20",
@@ -824,12 +824,16 @@
       },
       "artists": [
         {
+          "name": "Sam Simon George",
+          "url": "https://open.spotify.com/artist/6m4TSHRaMG9HjBSRItBtwy"
+        },
+        {
           "name": "K. S. Harisankar",
           "url": "https://open.spotify.com/artist/4JXqxFqi9dxlsiXKZhKvzB"
         },
         {
-          "name": "Sam Simon George",
-          "url": "https://open.spotify.com/artist/6m4TSHRaMG9HjBSRItBtwy"
+          "name": "Dijin K Devaraj",
+          "url": "https://open.spotify.com/artist/0Lv3iEDVcVDUOU46iLMWYq"
         }
       ],
       "duration_ms": 292173,

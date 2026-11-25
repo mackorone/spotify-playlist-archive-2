@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3qQrNm.md) - [plain]
 
 > This is RÜFÜS DU SOL\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 525,253 likes - 41 songs - 3 hr 20 min
+[Spotify](https://open.spotify.com/user/spotify) - 525,359 likes - 41 songs - 3 hr 20 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -29,16 +29,16 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3qQrNm.md) - [plain]
 | 19 | [Surrender \(feat\. Curtis Harding\)](https://open.spotify.com/track/1qX3kSjUNJkUlVSPDXGGP1) | [RÜFÜS DU SOL](https://open.spotify.com/artist/5Pb27ujIyYb33zBqVysBkj), [Curtis Harding](https://open.spotify.com/artist/0CUpzKPDfIVzYqMn47jiV3) | [Surrender](https://open.spotify.com/album/3SB9ntsoNwC4oUP6xM9DIN) | 5:36 |
 | 20 | [Break My Love](https://open.spotify.com/track/7kWLSsy2KfSFPhbbNysnns) | [RÜFÜS DU SOL](https://open.spotify.com/artist/5Pb27ujIyYb33zBqVysBkj) | [Inhale / Exhale](https://open.spotify.com/album/3Fda4vhPP0Clk3EQNVipUP) | 4:20 |
 | 21 | [New Sky](https://open.spotify.com/track/29tIhq8ByVaG5GVlnS4XRL) | [RÜFÜS DU SOL](https://open.spotify.com/artist/5Pb27ujIyYb33zBqVysBkj) | [SOLACE](https://open.spotify.com/album/5Jazpq8mEgSgQs06mdwkQd) | 5:27 |
-| 22 | [Brighter](https://open.spotify.com/track/7D5gkUVhkLbe5e8qG1NqcZ) | [RÜFÜS DU SOL](https://open.spotify.com/artist/5Pb27ujIyYb33zBqVysBkj) | [Bloom](https://open.spotify.com/album/4EAehCii5lZgeewct1LA5p) | 4:41 |
-| 23 | [Make It Happen](https://open.spotify.com/track/7K1TsEgLCoNxr7tvPRJgrL) | [RÜFÜS DU SOL](https://open.spotify.com/artist/5Pb27ujIyYb33zBqVysBkj) | [Surrender](https://open.spotify.com/album/3SB9ntsoNwC4oUP6xM9DIN) | 5:12 |
+| 22 | [Make It Happen](https://open.spotify.com/track/7K1TsEgLCoNxr7tvPRJgrL) | [RÜFÜS DU SOL](https://open.spotify.com/artist/5Pb27ujIyYb33zBqVysBkj) | [Surrender](https://open.spotify.com/album/3SB9ntsoNwC4oUP6xM9DIN) | 5:12 |
+| 23 | [Brighter](https://open.spotify.com/track/7D5gkUVhkLbe5e8qG1NqcZ) | [RÜFÜS DU SOL](https://open.spotify.com/artist/5Pb27ujIyYb33zBqVysBkj) | [Bloom](https://open.spotify.com/album/4EAehCii5lZgeewct1LA5p) | 4:41 |
 | 24 | [Breathe](https://open.spotify.com/track/1qMGujcR5TWGxvCismyc6U) | [RÜFÜS DU SOL](https://open.spotify.com/artist/5Pb27ujIyYb33zBqVysBkj) | [Inhale / Exhale](https://open.spotify.com/album/3Fda4vhPP0Clk3EQNVipUP) | 3:01 |
-| 25 | [Tell Me](https://open.spotify.com/track/48ZVsNDCnSxbOTL4uz77qZ) | [RÜFÜS DU SOL](https://open.spotify.com/artist/5Pb27ujIyYb33zBqVysBkj) | [Bloom](https://open.spotify.com/album/4EAehCii5lZgeewct1LA5p) | 3:49 |
+| 25 | [Eyes](https://open.spotify.com/track/6vkFCzPmJ3beYG0zeevdmX) | [RÜFÜS DU SOL](https://open.spotify.com/artist/5Pb27ujIyYb33zBqVysBkj) | [SOLACE](https://open.spotify.com/album/5Jazpq8mEgSgQs06mdwkQd) | 3:50 |
 | 26 | [Devotion](https://open.spotify.com/track/56Qdvab5ordX97OCvgY3ie) | [RÜFÜS DU SOL](https://open.spotify.com/artist/5Pb27ujIyYb33zBqVysBkj) | [Surrender](https://open.spotify.com/album/3SB9ntsoNwC4oUP6xM9DIN) | 5:19 |
-| 27 | [Eyes](https://open.spotify.com/track/6vkFCzPmJ3beYG0zeevdmX) | [RÜFÜS DU SOL](https://open.spotify.com/artist/5Pb27ujIyYb33zBqVysBkj) | [SOLACE](https://open.spotify.com/album/5Jazpq8mEgSgQs06mdwkQd) | 3:50 |
+| 27 | [Tell Me](https://open.spotify.com/track/48ZVsNDCnSxbOTL4uz77qZ) | [RÜFÜS DU SOL](https://open.spotify.com/artist/5Pb27ujIyYb33zBqVysBkj) | [Bloom](https://open.spotify.com/album/4EAehCii5lZgeewct1LA5p) | 3:49 |
 | 28 | [Levitating](https://open.spotify.com/track/2rpop76oW4FQlZJHIZo7Cj) | [RÜFÜS DU SOL](https://open.spotify.com/artist/5Pb27ujIyYb33zBqVysBkj) | [Inhale / Exhale](https://open.spotify.com/album/3Fda4vhPP0Clk3EQNVipUP) | 4:03 |
 | 29 | [Desert Night](https://open.spotify.com/track/3absRUCrN1eRMe9Wg04zgg) | [RÜFÜS DU SOL](https://open.spotify.com/artist/5Pb27ujIyYb33zBqVysBkj) | [Atlas](https://open.spotify.com/album/1AD72FZKFKPeamhZzcuW9l) | 5:25 |
-| 30 | [Paris Collides](https://open.spotify.com/track/1mS1EHAvaLGUmn45dVj8Oo) | [RÜFÜS DU SOL](https://open.spotify.com/artist/5Pb27ujIyYb33zBqVysBkj) | [RÜFÜS \- EP](https://open.spotify.com/album/1LSLppK6YfZHKKjGUhIxeP) | 3:37 |
-| 31 | [All I've Got](https://open.spotify.com/track/1LqcIO6jY4XEsObcuU5YiJ) | [RÜFÜS DU SOL](https://open.spotify.com/artist/5Pb27ujIyYb33zBqVysBkj) | [SOLACE](https://open.spotify.com/album/5Jazpq8mEgSgQs06mdwkQd) | 3:43 |
+| 30 | [All I've Got](https://open.spotify.com/track/1LqcIO6jY4XEsObcuU5YiJ) | [RÜFÜS DU SOL](https://open.spotify.com/artist/5Pb27ujIyYb33zBqVysBkj) | [SOLACE](https://open.spotify.com/album/5Jazpq8mEgSgQs06mdwkQd) | 3:43 |
+| 31 | [Paris Collides](https://open.spotify.com/track/1mS1EHAvaLGUmn45dVj8Oo) | [RÜFÜS DU SOL](https://open.spotify.com/artist/5Pb27ujIyYb33zBqVysBkj) | [RÜFÜS \- EP](https://open.spotify.com/album/1LSLppK6YfZHKKjGUhIxeP) | 3:37 |
 | 32 | [New York \- Fahlberg Remix](https://open.spotify.com/track/7uQ6n8cAnm3yTb5QSwrTVR) | [RÜFÜS DU SOL](https://open.spotify.com/artist/5Pb27ujIyYb33zBqVysBkj), [Fahlberg](https://open.spotify.com/artist/6lFGvLLUwT6MB6Fx0CkRwk) | [Inhale / Exhale Remixed, Vol\. 1](https://open.spotify.com/album/1Dh0p4T4xkmUuTFI1QViss) | 6:53 |
 | 33 | [Take Me](https://open.spotify.com/track/47CIsUktv8PGNWiHm4lahX) | [RÜFÜS DU SOL](https://open.spotify.com/artist/5Pb27ujIyYb33zBqVysBkj) | [Atlas](https://open.spotify.com/album/1AD72FZKFKPeamhZzcuW9l) | 4:02 |
 | 34 | [Unforgiven \- The Presets Remix](https://open.spotify.com/track/4Gim2bNaeGvR9K4zxD19nO) | [RÜFÜS DU SOL](https://open.spotify.com/artist/5Pb27ujIyYb33zBqVysBkj), [Makaw](https://open.spotify.com/artist/1xaih1SB9X3RKnav4OGpEc), [The Presets](https://open.spotify.com/artist/1zTAQ6zkGz2L2i6lfR30EX) | [Atlas \(10 Year Anniversary\)](https://open.spotify.com/album/0cY0tA0ermWHywPtSy01oe) | 4:42 |
@@ -50,4 +50,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3qQrNm.md) - [plain]
 | 40 | [Standing at the Gates \- Weval Remix](https://open.spotify.com/track/1opUUDEWEvvYmNa3FzzlFA) | [RÜFÜS DU SOL](https://open.spotify.com/artist/5Pb27ujIyYb33zBqVysBkj), [Weval](https://open.spotify.com/artist/12tZvy2xFpWSkuJ3FsfisZ) | [Inhale / Exhale Remixed, Vol\. 2](https://open.spotify.com/album/1AonxwXjN8rALKh1tfLgg6) | 3:44 |
 | 41 | [Modest Life](https://open.spotify.com/track/0zWYh6P2LatyIs2w8fk6Qw) | [RÜFÜS DU SOL](https://open.spotify.com/artist/5Pb27ujIyYb33zBqVysBkj) | [Atlas](https://open.spotify.com/album/1AD72FZKFKPeamhZzcuW9l) | 3:42 |
 
-Snapshot ID: `awIwgAAAAABLqOr+ZfHtPDCw1CxP8ETe`
+Snapshot ID: `awOCAAAAAADoK38SFJSyCRiyefDZ16rc`

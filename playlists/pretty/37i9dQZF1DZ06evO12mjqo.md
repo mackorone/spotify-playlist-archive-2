@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO12mjqo.md) - [plain]
 
 > This is Ghost\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 482,983 likes - 50 songs - 3 hr 39 min
+[Spotify](https://open.spotify.com/user/spotify) - 483,007 likes - 50 songs - 3 hr 39 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO12mjqo.md) - [plain]
 | 49 | [Devil Church \- Live from Mexico City](https://open.spotify.com/track/0WRIAl1b5gYX1nog5qE1Z2) | [Ghost](https://open.spotify.com/artist/1Qp56T7n950O3EGMsSl81D) | [2 Big To Rig \(Original Motion Picture Soundtrack / Live\)](https://open.spotify.com/album/421FQJqvQRTfRkTpHSLljx) | 1:02 |
 | 50 | [Prime Mover](https://open.spotify.com/track/13Tw9FDhXVN5brv974A46H) | [Ghost](https://open.spotify.com/artist/1Qp56T7n950O3EGMsSl81D) | [Opus Eponymous](https://open.spotify.com/album/7xusHmkJUWt1XqPrM3pC9U) | 3:53 |
 
-Snapshot ID: `awIwgAAAAADVEgED2JWoC9FZ4892Kaxh`
+Snapshot ID: `awOCAAAAAAAN/2PJ29W8DXe7v9UXcsBD`

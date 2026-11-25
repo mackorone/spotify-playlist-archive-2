@@ -1,12 +1,12 @@
 {
   "description": "De aqu\u00ed y de all\u00e1 ~ un poquito de todo \u2728 en un vibe con ZUCO OMG.",
-  "num_followers": 730599,
+  "num_followers": 730506,
   "original_name": "Mixto",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAEj+CqcRMGh3JTXH/zcCEQkroCfJ",
+  "snapshot_id": "AAAAAEWqApdInfrFEzvBFwrASU3x38Gv",
   "tracks": [
     {
       "added_at": "2026-11-19 22:13:10",
@@ -231,18 +231,18 @@
     {
       "added_at": "2026-11-19 22:13:10",
       "album": {
-        "name": "Hombre De Bien",
-        "url": "https://open.spotify.com/album/6tUMEhQHiTN8kzVz8lfCQ3"
+        "name": "El Hueso",
+        "url": "https://open.spotify.com/album/6sxeIWSvy8JBemcPyy0JXM"
       },
       "artists": [
         {
-          "name": "Nsqk",
-          "url": "https://open.spotify.com/artist/1jtvmXiemNFkPO11NMdjfu"
+          "name": "Ralphie Choo",
+          "url": "https://open.spotify.com/artist/5qjnPRE33rMgYAxIjGUrI7"
         }
       ],
-      "duration_ms": 181714,
-      "name": "Hombre De Bien",
-      "url": "https://open.spotify.com/track/2FkhJgD9FUnaoAxbWv6cyy"
+      "duration_ms": 143301,
+      "name": "El Hueso",
+      "url": "https://open.spotify.com/track/1Dr7IM4yoNwvucqW1KOAbk"
     },
     {
       "added_at": "2026-11-19 22:13:10",
@@ -263,18 +263,18 @@
     {
       "added_at": "2026-11-19 22:13:10",
       "album": {
-        "name": "El Hueso",
-        "url": "https://open.spotify.com/album/6sxeIWSvy8JBemcPyy0JXM"
+        "name": "Hombre De Bien",
+        "url": "https://open.spotify.com/album/6tUMEhQHiTN8kzVz8lfCQ3"
       },
       "artists": [
         {
-          "name": "Ralphie Choo",
-          "url": "https://open.spotify.com/artist/5qjnPRE33rMgYAxIjGUrI7"
+          "name": "Nsqk",
+          "url": "https://open.spotify.com/artist/1jtvmXiemNFkPO11NMdjfu"
         }
       ],
-      "duration_ms": 143301,
-      "name": "El Hueso",
-      "url": "https://open.spotify.com/track/1Dr7IM4yoNwvucqW1KOAbk"
+      "duration_ms": 181714,
+      "name": "Hombre De Bien",
+      "url": "https://open.spotify.com/track/2FkhJgD9FUnaoAxbWv6cyy"
     },
     {
       "added_at": "2026-11-19 22:13:10",
@@ -627,26 +627,6 @@
     {
       "added_at": "2026-11-19 22:13:10",
       "album": {
-        "name": "Vendr\u00e1n Suaves Lluvias (y el tiempo prudente)",
-        "url": "https://open.spotify.com/album/2yhcXITwUBTEAs3g3l5AXB"
-      },
-      "artists": [
-        {
-          "name": "Silvana Estrada",
-          "url": "https://open.spotify.com/artist/72VywtXEoONiBLNu3ibGI7"
-        },
-        {
-          "name": "M. Ward",
-          "url": "https://open.spotify.com/artist/6nXSnNEdLuKTzAQozRtqiI"
-        }
-      ],
-      "duration_ms": 173778,
-      "name": "Todo Baila (feat. M. Ward)",
-      "url": "https://open.spotify.com/track/2rkUvywotsLZBxHg4L6YP2"
-    },
-    {
-      "added_at": "2026-11-19 22:13:10",
-      "album": {
         "name": "Cry about it! (feat. Ravyn Lenae)",
         "url": "https://open.spotify.com/album/4gbcThRmONElpN3nvdqBWd"
       },
@@ -663,6 +643,26 @@
       "duration_ms": 171507,
       "name": "Cry about it! (feat. Ravyn Lenae)",
       "url": "https://open.spotify.com/track/6Vj5GNXyZPXZ6Hh5NASfHH"
+    },
+    {
+      "added_at": "2026-11-19 22:13:10",
+      "album": {
+        "name": "Vendr\u00e1n Suaves Lluvias (y el tiempo prudente)",
+        "url": "https://open.spotify.com/album/2yhcXITwUBTEAs3g3l5AXB"
+      },
+      "artists": [
+        {
+          "name": "Silvana Estrada",
+          "url": "https://open.spotify.com/artist/72VywtXEoONiBLNu3ibGI7"
+        },
+        {
+          "name": "M. Ward",
+          "url": "https://open.spotify.com/artist/6nXSnNEdLuKTzAQozRtqiI"
+        }
+      ],
+      "duration_ms": 173778,
+      "name": "Todo Baila (feat. M. Ward)",
+      "url": "https://open.spotify.com/track/2rkUvywotsLZBxHg4L6YP2"
     },
     {
       "added_at": "2026-11-19 22:13:10",
@@ -843,18 +843,18 @@
     {
       "added_at": "2026-11-19 22:13:10",
       "album": {
-        "name": "Qui\u00e9reme as\u00ed",
-        "url": "https://open.spotify.com/album/0t6yHJC5VBXAbc5KY6Wprl"
+        "name": "Down",
+        "url": "https://open.spotify.com/album/1SWoztqnHAcvlYPP9bUQyI"
       },
       "artists": [
         {
-          "name": "Ivana",
-          "url": "https://open.spotify.com/artist/5AXxk4cxkMNsTb4TtwLAQJ"
+          "name": "ZTVZ",
+          "url": "https://open.spotify.com/artist/6WCmoxe1uqfNMFPqHkwzfs"
         }
       ],
-      "duration_ms": 211611,
-      "name": "Qui\u00e9reme as\u00ed",
-      "url": "https://open.spotify.com/track/59ZGZeD9krTAmIiXZtoHGZ"
+      "duration_ms": 155134,
+      "name": "Down",
+      "url": "https://open.spotify.com/track/5C2G9fJkUplRPY4aEOMgoI"
     },
     {
       "added_at": "2026-11-19 22:13:10",
@@ -879,18 +879,18 @@
     {
       "added_at": "2026-11-19 22:13:10",
       "album": {
-        "name": "Down",
-        "url": "https://open.spotify.com/album/1SWoztqnHAcvlYPP9bUQyI"
+        "name": "Qui\u00e9reme as\u00ed",
+        "url": "https://open.spotify.com/album/0t6yHJC5VBXAbc5KY6Wprl"
       },
       "artists": [
         {
-          "name": "ZTVZ",
-          "url": "https://open.spotify.com/artist/6WCmoxe1uqfNMFPqHkwzfs"
+          "name": "Ivana",
+          "url": "https://open.spotify.com/artist/5AXxk4cxkMNsTb4TtwLAQJ"
         }
       ],
-      "duration_ms": 155134,
-      "name": "Down",
-      "url": "https://open.spotify.com/track/5C2G9fJkUplRPY4aEOMgoI"
+      "duration_ms": 211611,
+      "name": "Qui\u00e9reme as\u00ed",
+      "url": "https://open.spotify.com/track/59ZGZeD9krTAmIiXZtoHGZ"
     },
     {
       "added_at": "2026-11-19 22:13:10",
@@ -1239,22 +1239,6 @@
     {
       "added_at": "2026-11-19 22:13:10",
       "album": {
-        "name": "Vatos",
-        "url": "https://open.spotify.com/album/1fkFUzh9CvwIHntVF0YVWB"
-      },
-      "artists": [
-        {
-          "name": "Vanita Leo",
-          "url": "https://open.spotify.com/artist/1ygRaSoCU4Ph22Y4b7UfB9"
-        }
-      ],
-      "duration_ms": 146511,
-      "name": "Vatos",
-      "url": "https://open.spotify.com/track/4YOY1oa1UvoAxEaWX9fi9n"
-    },
-    {
-      "added_at": "2026-11-19 22:13:10",
-      "album": {
         "name": "What Do You Want",
         "url": "https://open.spotify.com/album/6uJ3tYCQp2gcQS0Lw5t6Bp"
       },
@@ -1275,22 +1259,18 @@
     {
       "added_at": "2026-11-19 22:13:10",
       "album": {
-        "name": "PINK LEMONADE",
-        "url": "https://open.spotify.com/album/0Zv6IMPprJQeSqKsMpCVLq"
+        "name": "Vatos",
+        "url": "https://open.spotify.com/album/1fkFUzh9CvwIHntVF0YVWB"
       },
       "artists": [
         {
-          "name": "Pink Pablo",
-          "url": "https://open.spotify.com/artist/6grKEGFYz5bqq0IQraQhsQ"
-        },
-        {
-          "name": "De La Ghetto",
-          "url": "https://open.spotify.com/artist/3EiLUeyEcA6fbRPSHkG5kb"
+          "name": "Vanita Leo",
+          "url": "https://open.spotify.com/artist/1ygRaSoCU4Ph22Y4b7UfB9"
         }
       ],
-      "duration_ms": 235906,
-      "name": "creiziiii",
-      "url": "https://open.spotify.com/track/7F37hWsqlVNux3dATtr4ls"
+      "duration_ms": 146511,
+      "name": "Vatos",
+      "url": "https://open.spotify.com/track/4YOY1oa1UvoAxEaWX9fi9n"
     },
     {
       "added_at": "2026-11-19 22:13:10",
@@ -1331,6 +1311,26 @@
       "duration_ms": 153764,
       "name": "RODEO CLOWN",
       "url": "https://open.spotify.com/track/7tWnp2xzGbZXPSARvtu3ba"
+    },
+    {
+      "added_at": "2026-11-19 22:13:10",
+      "album": {
+        "name": "PINK LEMONADE",
+        "url": "https://open.spotify.com/album/0Zv6IMPprJQeSqKsMpCVLq"
+      },
+      "artists": [
+        {
+          "name": "Pink Pablo",
+          "url": "https://open.spotify.com/artist/6grKEGFYz5bqq0IQraQhsQ"
+        },
+        {
+          "name": "De La Ghetto",
+          "url": "https://open.spotify.com/artist/3EiLUeyEcA6fbRPSHkG5kb"
+        }
+      ],
+      "duration_ms": 235906,
+      "name": "creiziiii",
+      "url": "https://open.spotify.com/track/7F37hWsqlVNux3dATtr4ls"
     },
     {
       "added_at": "2026-11-19 22:13:10",
@@ -1475,18 +1475,22 @@
     {
       "added_at": "2026-11-19 22:13:10",
       "album": {
-        "name": "Falta Algo",
-        "url": "https://open.spotify.com/album/5psNcnKQlvazaFbBN8MUVv"
+        "name": "Un Castigo",
+        "url": "https://open.spotify.com/album/73hHOb8aSNjaKjgxp2n57h"
       },
       "artists": [
         {
-          "name": "Chuwi",
-          "url": "https://open.spotify.com/artist/6wF1Cz760dpdbX9RJIDpQW"
+          "name": "Natalia Lacunza",
+          "url": "https://open.spotify.com/artist/3Zs59sqZJ6fWQqWbRC8bOP"
+        },
+        {
+          "name": "Jesse Baez",
+          "url": "https://open.spotify.com/artist/4rriNpL1lxpoysDDctWgl3"
         }
       ],
-      "duration_ms": 203127,
-      "name": "Falta Algo",
-      "url": "https://open.spotify.com/track/6zZjV6QPv2DQqcBQRPyd5f"
+      "duration_ms": 189580,
+      "name": "Un Castigo",
+      "url": "https://open.spotify.com/track/7EmcbgQbWJhn06t8gHckgX"
     },
     {
       "added_at": "2026-11-19 22:13:10",
@@ -1507,22 +1511,18 @@
     {
       "added_at": "2026-11-19 22:13:10",
       "album": {
-        "name": "Un Castigo",
-        "url": "https://open.spotify.com/album/73hHOb8aSNjaKjgxp2n57h"
+        "name": "Falta Algo",
+        "url": "https://open.spotify.com/album/5psNcnKQlvazaFbBN8MUVv"
       },
       "artists": [
         {
-          "name": "Natalia Lacunza",
-          "url": "https://open.spotify.com/artist/3Zs59sqZJ6fWQqWbRC8bOP"
-        },
-        {
-          "name": "Jesse Baez",
-          "url": "https://open.spotify.com/artist/4rriNpL1lxpoysDDctWgl3"
+          "name": "Chuwi",
+          "url": "https://open.spotify.com/artist/6wF1Cz760dpdbX9RJIDpQW"
         }
       ],
-      "duration_ms": 189580,
-      "name": "Un Castigo",
-      "url": "https://open.spotify.com/track/7EmcbgQbWJhn06t8gHckgX"
+      "duration_ms": 203127,
+      "name": "Falta Algo",
+      "url": "https://open.spotify.com/track/6zZjV6QPv2DQqcBQRPyd5f"
     },
     {
       "added_at": "2026-11-19 22:13:10",
@@ -1615,22 +1615,6 @@
     {
       "added_at": "2026-11-19 22:13:10",
       "album": {
-        "name": "06199",
-        "url": "https://open.spotify.com/album/6sJilcDMJaudLckAxxMxON"
-      },
-      "artists": [
-        {
-          "name": "VEI HABACHE",
-          "url": "https://open.spotify.com/artist/2sLkiZWy89QT6JzA3uP56Z"
-        }
-      ],
-      "duration_ms": 225000,
-      "name": "Vitamina C",
-      "url": "https://open.spotify.com/track/3rTfXhVegp74Zh2Btm3vpD"
-    },
-    {
-      "added_at": "2026-11-19 22:13:10",
-      "album": {
         "name": "IND 2 JFK",
         "url": "https://open.spotify.com/album/0FqTf8CVWS4j9qfXryaqS7"
       },
@@ -1643,6 +1627,22 @@
       "duration_ms": 153836,
       "name": "IND 2 JFK",
       "url": "https://open.spotify.com/track/6lEAEa2rLSDMyw2I2wUek3"
+    },
+    {
+      "added_at": "2026-11-19 22:13:10",
+      "album": {
+        "name": "06199",
+        "url": "https://open.spotify.com/album/6sJilcDMJaudLckAxxMxON"
+      },
+      "artists": [
+        {
+          "name": "VEI HABACHE",
+          "url": "https://open.spotify.com/artist/2sLkiZWy89QT6JzA3uP56Z"
+        }
+      ],
+      "duration_ms": 225000,
+      "name": "Vitamina C",
+      "url": "https://open.spotify.com/track/3rTfXhVegp74Zh2Btm3vpD"
     },
     {
       "added_at": "2026-11-19 22:13:10",
@@ -1739,6 +1739,22 @@
     {
       "added_at": "2026-11-19 22:13:10",
       "album": {
+        "name": "Mentira",
+        "url": "https://open.spotify.com/album/1bE571SVKRZZkI9zK5ov9M"
+      },
+      "artists": [
+        {
+          "name": "YE\u0418DRY",
+          "url": "https://open.spotify.com/artist/3Lk9AWrpD4bminO5LwmBOw"
+        }
+      ],
+      "duration_ms": 131904,
+      "name": "Mentira",
+      "url": "https://open.spotify.com/track/3R7vjL9lt5W1bidvbJn3gu"
+    },
+    {
+      "added_at": "2026-11-19 22:13:10",
+      "album": {
         "name": "PERMANENTE",
         "url": "https://open.spotify.com/album/0JLo9Cf13yWYWebq6rIU0d"
       },
@@ -1755,22 +1771,6 @@
       "duration_ms": 142275,
       "name": "PERMANENTE",
       "url": "https://open.spotify.com/track/5yfaf9e2rp5u4R80DlFB9V"
-    },
-    {
-      "added_at": "2026-11-19 22:13:10",
-      "album": {
-        "name": "Mentira",
-        "url": "https://open.spotify.com/album/1bE571SVKRZZkI9zK5ov9M"
-      },
-      "artists": [
-        {
-          "name": "YE\u0418DRY",
-          "url": "https://open.spotify.com/artist/3Lk9AWrpD4bminO5LwmBOw"
-        }
-      ],
-      "duration_ms": 131904,
-      "name": "Mentira",
-      "url": "https://open.spotify.com/track/3R7vjL9lt5W1bidvbJn3gu"
     },
     {
       "added_at": "2026-11-19 22:13:10",

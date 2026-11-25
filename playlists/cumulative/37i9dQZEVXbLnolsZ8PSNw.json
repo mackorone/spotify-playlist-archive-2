@@ -4096,7 +4096,7 @@
       ],
       "date_added": "2025-08-23",
       "date_added_asterisk": false,
-      "date_removed": "2026-11-23",
+      "date_removed": null,
       "duration_ms": 199032,
       "name": "back to friends",
       "url": "https://open.spotify.com/track/7qjZnBKE73H4Oxkopwulqe"
@@ -12080,7 +12080,7 @@
       ],
       "date_added": "2026-07-04",
       "date_added_asterisk": false,
-      "date_removed": "2026-11-24",
+      "date_removed": null,
       "duration_ms": 217008,
       "name": "Die On This Hill",
       "url": "https://open.spotify.com/track/7gkZNvBHfI30qG7hA0eopT"
@@ -12734,7 +12734,7 @@
       ],
       "date_added": "2022-11-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-25",
       "duration_ms": 222533,
       "name": "Do They Know It's Christmas? - 1984 Version",
       "url": "https://open.spotify.com/track/4Yg2w0P29BBBMixyeNjDtj"
@@ -13662,7 +13662,7 @@
       ],
       "date_added": "2026-10-03",
       "date_added_asterisk": false,
-      "date_removed": "2026-10-12",
+      "date_removed": null,
       "duration_ms": 255984,
       "name": "Draw You Out - From The Hunger Games: Sunrise on the Reaping - The Album",
       "url": "https://open.spotify.com/track/5KTcGJKm4HgLhLt8Tc7EQ5"
@@ -13832,7 +13832,7 @@
       ],
       "date_added": "2021-11-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-25",
       "duration_ms": 241626,
       "name": "Driving Home for Christmas - 2019 Remaster",
       "url": "https://open.spotify.com/track/27qAMKrDdKEs8HDXcvR24R"
@@ -16138,7 +16138,7 @@
       ],
       "date_added": "2023-11-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-25",
       "duration_ms": 181794,
       "name": "Feliz Navidad",
       "url": "https://open.spotify.com/track/0oPdaY4dXtc3ZsaG17V972"
@@ -19662,7 +19662,7 @@
       ],
       "date_added": "2021-11-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-25",
       "duration_ms": 214333,
       "name": "Happy Xmas (War Is Over) - Remastered 2010",
       "url": "https://open.spotify.com/track/27RYrbL6S02LNVhDWVl38b"
@@ -21106,7 +21106,7 @@
       ],
       "date_added": "2025-11-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-25",
       "duration_ms": 121526,
       "name": "Holly Jolly Christmas",
       "url": "https://open.spotify.com/track/6rqn19AqjcM5wgI1hCYciJ"
@@ -23114,7 +23114,7 @@
       ],
       "date_added": "2026-11-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-25",
       "duration_ms": 114400,
       "name": "I Wish You A Merry Christmas - Remastered 2006",
       "url": "https://open.spotify.com/track/1lkhGcjgLCr9StHHYXMyuK"
@@ -23738,7 +23738,7 @@
       ],
       "date_added": "2026-07-14",
       "date_added_asterisk": false,
-      "date_removed": "2026-11-23",
+      "date_removed": null,
       "duration_ms": 183237,
       "name": "iloveitiloveitiloveit",
       "url": "https://open.spotify.com/track/4ek0oGBCJal4Gxz8zEnMjn"
@@ -24215,6 +24215,24 @@
     },
     {
       "album": {
+        "name": "Dizzy up the Girl",
+        "url": "https://open.spotify.com/album/4kBJTOKS4XeN7FQVG6PoOK"
+      },
+      "artists": [
+        {
+          "name": "The Goo Goo Dolls",
+          "url": "https://open.spotify.com/artist/2sil8z5kiy4r76CRTXxBCA"
+        }
+      ],
+      "date_added": "2026-11-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 289558,
+      "name": "Iris",
+      "url": "https://open.spotify.com/track/3zslQ5Mhpez7nivcOs3dXn"
+    },
+    {
+      "album": {
         "name": "Paranoid",
         "url": "https://open.spotify.com/album/4kA2o0L3tz9vFKJetiFUJI"
       },
@@ -24374,7 +24392,7 @@
       ],
       "date_added": "2022-12-16",
       "date_added_asterisk": false,
-      "date_removed": "2024-12-29",
+      "date_removed": null,
       "duration_ms": 207199,
       "name": "It's Beginning to Look a Lot like Christmas",
       "url": "https://open.spotify.com/track/1rv46mRwDqMEhOBZ7vODg3"
@@ -24392,7 +24410,7 @@
       ],
       "date_added": "2025-11-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-25",
       "duration_ms": 207199,
       "name": "It's Beginning to Look a Lot like Christmas",
       "url": "https://open.spotify.com/track/3it2BvJfyhPEWF3kD2TZJ1"
@@ -30876,7 +30894,7 @@
       ],
       "date_added": "2024-12-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-25",
       "duration_ms": 182946,
       "name": "Mistletoe",
       "url": "https://open.spotify.com/track/54K9GOVJqIaDZNXLnnxiKc"
@@ -32000,7 +32018,7 @@
       ],
       "date_added": "2026-11-18",
       "date_added_asterisk": false,
-      "date_removed": "2026-11-21",
+      "date_removed": null,
       "duration_ms": 228360,
       "name": "My Moon My Man",
       "url": "https://open.spotify.com/track/4fQVQKIiidREPI0MhFEuDn"
@@ -41946,7 +41964,7 @@
       ],
       "date_added": "2021-11-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-25",
       "duration_ms": 181266,
       "name": "Sleigh Ride",
       "url": "https://open.spotify.com/track/7fUYUcWy853HS8YJn0b3Sr"
@@ -43616,7 +43634,7 @@
       ],
       "date_added": "2026-11-18",
       "date_added_asterisk": false,
-      "date_removed": "2026-11-23",
+      "date_removed": null,
       "duration_ms": 221450,
       "name": "Starburster",
       "url": "https://open.spotify.com/track/09ttHg3ZNVgDlYBZa1ZBw0"
@@ -44174,7 +44192,7 @@
       ],
       "date_added": "2021-11-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-25",
       "duration_ms": 272393,
       "name": "Step Into Christmas - Remastered 1995",
       "url": "https://open.spotify.com/track/6sBWmE23q6xQHlnEZ8jYPT"
@@ -45296,7 +45314,7 @@
       ],
       "date_added": "2026-04-06",
       "date_added_asterisk": false,
-      "date_removed": "2026-11-21",
+      "date_removed": null,
       "duration_ms": 240426,
       "name": "Sweater Weather",
       "url": "https://open.spotify.com/track/0cQVqPuHQP4KEwc7ZUQmj6"
@@ -48012,7 +48030,7 @@
       ],
       "date_added": "2026-11-12",
       "date_added_asterisk": false,
-      "date_removed": "2026-11-23",
+      "date_removed": null,
       "duration_ms": 148000,
       "name": "The Sun Will Never Settle",
       "url": "https://open.spotify.com/track/23SqhGYsqaZJNbDSc17wqA"

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1HCSfq0nSal.md) - [plain]
 
 > Si está pegao, está aquí\. Feat\. Myke Towers
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,486,080 likes - 40 songs - 2 hr 16 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,486,044 likes - 40 songs - 2 hr 16 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -49,4 +49,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1HCSfq0nSal.md) - [plain]
 | 39 | [ANORMAL](https://open.spotify.com/track/0wKFiFNxkn8Ylkewwlq8X8) | [Yung Beef](https://open.spotify.com/artist/1rTUwYS38LkQTlT2fhikch), [Spiff TV](https://open.spotify.com/artist/1PruL3P8slDEQAjSuOjuPd), [Xiyo](https://open.spotify.com/artist/2FzRIRtYVDBIJBvTqh7xzQ), [Fernandezz](https://open.spotify.com/artist/7mVQGK5j4VKkAvdOhUotB1), [geomafia](https://open.spotify.com/artist/2mzrWihYniKXcK0vNi9UUh), [Pablo Chill\-E](https://open.spotify.com/artist/2XcZshqzPKm3iZcmt73R8D), [Manny ElDomi](https://open.spotify.com/artist/7LiNKukmSqLPtM8bZl6e4f) | [ANORMAL](https://open.spotify.com/album/1HUE0eklOPE395Itpwjv92) | 3:03 |
 | 40 | [ZIZI](https://open.spotify.com/track/5BsvzSvw98mLqpZznMjuLX) | [Ozuna](https://open.spotify.com/artist/1i8SpTcr7yvPOmcqrbnVXY), [Omar Courtz](https://open.spotify.com/artist/3E12tRURRvPfHz0hAMCFYc) | [ZIZI](https://open.spotify.com/album/4f0YTBqSbvM1iJpuY9r3yQ) | 4:02 |
 
-Snapshot ID: `AAAAAE26eazm3exQLwJELbggtRsBG0A1`
+Snapshot ID: `AAAAADk5WA2kpkhYSO+tZhgscPkPKKeD`

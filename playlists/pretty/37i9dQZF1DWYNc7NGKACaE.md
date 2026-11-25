@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYNc7NGKACaE.md) - [plain]
 
 > essa é só pra quem vive no 2.0x
 
-[Spotify](https://open.spotify.com/user/spotify) - 82,760 likes - 66 songs - 2 hr 27 min
+[Spotify](https://open.spotify.com/user/spotify) - 82,747 likes - 66 songs - 2 hr 27 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -30,8 +30,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYNc7NGKACaE.md) - [plain]
 | 20 | [Karma \- Speed](https://open.spotify.com/track/1cX47FI8Fasq3pY6p6kXV4) | [Gapes](https://open.spotify.com/artist/3ADff4whbAS71o4L1B3vYu), [fallkee](https://open.spotify.com/artist/6Hchz4vXMjAxlkpjiwQC4o), [Dougb](https://open.spotify.com/artist/74FaA4BR2SefBgRTPa8jJh) | [Karma](https://open.spotify.com/album/28Ie3Vq0wTIfjnrfrHsFS6) | 2:00 |
 | 21 | [Se a Saudade Bater \(Workout Version\)](https://open.spotify.com/track/4WDFyuqWL2TzMFeiBqMdK2) | [MC Tairon](https://open.spotify.com/artist/7ujbuq6hAjLSf7cGr6au0b) | [Se a Saudade Bater \(Workout Version\)](https://open.spotify.com/album/5XC3pLLrZMj6d254BFHBD3) | 2:11 |
 | 22 | [Meus Manos Faz Dinheiro Com Site](https://open.spotify.com/track/1fokvYsLRaqplJKbFGNwWd) | [St.Borges](https://open.spotify.com/artist/1Yc7h842kGeQTZfdSVQtrQ) | [Meus Manos Faz Dinheiro Com Site](https://open.spotify.com/album/4fhA34Jwxwa1QFxD5l2ggp) | 2:10 |
-| 23 | [Kill Bill \- Speed](https://open.spotify.com/track/2BFlLdo7yye9ZNXlCo3xbS) | [Cabrxlzin](https://open.spotify.com/artist/72ZS9JdFcROgzmTG2jmhkF), [éoTGL](https://open.spotify.com/artist/5h32OOrRYLBSUfE7COLjfx) | [Kill Bill \- Speed](https://open.spotify.com/album/65EoSVA4XRpos1EZEgu2KB) | 1:28 |
-| 24 | [Luxo & Crime Speed](https://open.spotify.com/track/5ePLQDDDMDk2iJgJuciFq6) | [Lord Ralph Lauren](https://open.spotify.com/artist/3SyOg7lVYi7SEIVgvaVKe0), [Yung Nobre](https://open.spotify.com/artist/1zRwEApJZMUKUZDPYTNsrB), [akao.47](https://open.spotify.com/artist/28lnuiU2tScvRMesfbeHMh), [Yauke](https://open.spotify.com/artist/175mTYHITiXXjSZAICQrPr) | [Luxo & Crime Speed](https://open.spotify.com/album/5gE4qRAOr2KTTqKI3OBOGc) | 2:20 |
+| 23 | [Luxo & Crime Speed](https://open.spotify.com/track/5ePLQDDDMDk2iJgJuciFq6) | [Lord Ralph Lauren](https://open.spotify.com/artist/3SyOg7lVYi7SEIVgvaVKe0), [Yung Nobre](https://open.spotify.com/artist/1zRwEApJZMUKUZDPYTNsrB), [akao.47](https://open.spotify.com/artist/28lnuiU2tScvRMesfbeHMh), [Yauke](https://open.spotify.com/artist/175mTYHITiXXjSZAICQrPr) | [Luxo & Crime Speed](https://open.spotify.com/album/5gE4qRAOr2KTTqKI3OBOGc) | 2:20 |
+| 24 | [Kill Bill \- Speed](https://open.spotify.com/track/2BFlLdo7yye9ZNXlCo3xbS) | [Cabrxlzin](https://open.spotify.com/artist/72ZS9JdFcROgzmTG2jmhkF), [éoTGL](https://open.spotify.com/artist/5h32OOrRYLBSUfE7COLjfx) | [Kill Bill \- Speed](https://open.spotify.com/album/65EoSVA4XRpos1EZEgu2KB) | 1:28 |
 | 25 | [Plug do São João SPEED](https://open.spotify.com/track/5aIwsGfLgCrafntNMP8S2l) | [rs9](https://open.spotify.com/artist/3pg4wlhwWAUDvmONc1O0i9) | [SPEED Versions](https://open.spotify.com/album/5hqTK4W81BhI8srFdaCIyw) | 1:46 |
 | 26 | [Ele Te Bota Soca Soca \- Speed Up](https://open.spotify.com/track/548LVIsbvfP70STa240ZeI) | [MC Mazzie](https://open.spotify.com/artist/05bZ3QOlK7vfflzspO0Jk5), [Mc Rd](https://open.spotify.com/artist/6ugw7JCu0AG7txRcRAxU8d), [DJ Wizard](https://open.spotify.com/artist/2S1GntfP92SLbiPaiQsy8P), [DJ NpcSize](https://open.spotify.com/artist/00B9mff8749d1A2LOLH41b) | [Ele Te Bota Soca Soca \(Speed Up\)](https://open.spotify.com/album/3rFJruJgtv2Y83i5dUydCg) | 2:08 |
 | 27 | [Posturado e Calmo \(Speedplug\)](https://open.spotify.com/track/6fpUsqLmeozvHBzWPJslmZ) | [Eusoares085](https://open.spotify.com/artist/0T4h7cQARJcizvV3JuKasg) | [Posturado e Calmo \(Speedplug\)](https://open.spotify.com/album/797TrPg1DNXRxrEkuaZJJi) | 1:43 |
@@ -75,4 +75,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYNc7NGKACaE.md) - [plain]
 | 65 | [Contatos \- Speed Plug](https://open.spotify.com/track/2uagJoFfpDCEnIwHftuduv) | [Rod 011](https://open.spotify.com/artist/0EQKO8vvXzLyITxRJHfC00), [yMontana](https://open.spotify.com/artist/7MO8VSUH29NuqPJHcCflnO), [wazy](https://open.spotify.com/artist/05CehQVgU6xs0LJOGoj3OO), [Dexhenry](https://open.spotify.com/artist/6ogNxRbtZDpaCtOUBaf09u) | [Gorilla Dream, Vol\. I](https://open.spotify.com/album/2q9mARnuyo6TwdNmTwRkqk) | 2:14 |
 | 66 | [EU NÃO SOU UM GÊNIO MAS SOU O CARA QUE REALIZA SEUS DESEJOS FANATICA](https://open.spotify.com/track/1YjPBxRkXcybgV3Jq16dIW) | [PL JUNIOR](https://open.spotify.com/artist/0aRFRMsUrV2E2pFu8VbMc0), [ANNY SUCESSADA](https://open.spotify.com/artist/2QgksP01YMIrB0y7DTXqlj) | [EU NÃO SOU UM GÊNIO MAS SOU O CARA QUE REALIZA SEUS DESEJOS FANATICA](https://open.spotify.com/album/6Uo1EzghXdykjOM1lzbx04) | 1:46 |
 
-Snapshot ID: `AAAAAEegpAN1HrFeE0pSKApnVeRccaX4`
+Snapshot ID: `AAAAAOKBatk6w0t5dxnoW/AGkMtR9WZR`

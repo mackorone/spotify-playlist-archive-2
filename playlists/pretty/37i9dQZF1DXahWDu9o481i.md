@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXahWDu9o481i.md) - [plain]
 
 > The best new songs of the month, handpicked by Spotify editors\. Cover: Victony
 
-[Spotify](https://open.spotify.com/user/spotify) - 124,450 likes - 62 songs - 3 hr 35 min
+[Spotify](https://open.spotify.com/user/spotify) - 124,446 likes - 62 songs - 3 hr 35 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -30,8 +30,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXahWDu9o481i.md) - [plain]
 | 20 | [let’s talk about it](https://open.spotify.com/track/27cxAnDyoYaR0pCbwTjFwX) | [Gabriel Jacoby](https://open.spotify.com/artist/05pLxSVIyZiQTqQnR4QQ9H) | [let's talk about it](https://open.spotify.com/album/7aFjbfEQ4MyToGqH7zhX9A) | 2:37 |
 | 21 | [Power](https://open.spotify.com/track/4AgFz88NHRADgVAV2MzOSq) | [Sophia Stel](https://open.spotify.com/artist/18w9tq3c2x11niEFNYqeex) | [the greatest album of all time](https://open.spotify.com/album/604KxCjle0KCw0VXdoMNgj) | 3:53 |
 | 22 | [Karma](https://open.spotify.com/track/4tkaRLzfaYQyaqvIaiyz4h) | [Snoh Aalegra](https://open.spotify.com/artist/1A9o3Ljt67pFZ89YtPPL5X) | [Karma](https://open.spotify.com/album/0ZYZgEwmt3NAS54RC8Y8Zz) | 3:29 |
-| 23 | [Dientes De Fierro](https://open.spotify.com/track/4dAjV0Fmr0NfBjR09KpiFj) | [Nsqk](https://open.spotify.com/artist/1jtvmXiemNFkPO11NMdjfu), [Jean Dawson](https://open.spotify.com/artist/7vNNmjV14SKQzlQAEg0BXP) | [Dientes De Fierro](https://open.spotify.com/album/0CIFeXjeCPwCL2fvydBmtd) | 3:42 |
-| 24 | [DANGER DANGER \(feat\. Skepta\)](https://open.spotify.com/track/4PyDd3GxUijMVOdJA2IQEG) | [Dom Dolla](https://open.spotify.com/artist/205i7E8fNVfojowcQSfK9m), [Solomun](https://open.spotify.com/artist/5wJK4kQAkVGjqM9x46KQOC), [Skepta](https://open.spotify.com/artist/2p1fiYHYiXz9qi0JJyxBzN) | [DANGER DANGER \(feat\. Skepta\)](https://open.spotify.com/album/7MUTu0zrGAnszw4SbT8pHx) | 3:00 |
+| 23 | [DANGER DANGER \(feat\. Skepta\)](https://open.spotify.com/track/4PyDd3GxUijMVOdJA2IQEG) | [Dom Dolla](https://open.spotify.com/artist/205i7E8fNVfojowcQSfK9m), [Solomun](https://open.spotify.com/artist/5wJK4kQAkVGjqM9x46KQOC), [Skepta](https://open.spotify.com/artist/2p1fiYHYiXz9qi0JJyxBzN) | [DANGER DANGER \(feat\. Skepta\)](https://open.spotify.com/album/7MUTu0zrGAnszw4SbT8pHx) | 3:00 |
+| 24 | [Dientes De Fierro](https://open.spotify.com/track/4dAjV0Fmr0NfBjR09KpiFj) | [Nsqk](https://open.spotify.com/artist/1jtvmXiemNFkPO11NMdjfu), [Jean Dawson](https://open.spotify.com/artist/7vNNmjV14SKQzlQAEg0BXP) | [Dientes De Fierro](https://open.spotify.com/album/0CIFeXjeCPwCL2fvydBmtd) | 3:42 |
 | 25 | [Do Better](https://open.spotify.com/track/20FuukFQQQfJO23T1ni18h) | [Jonah Kagen](https://open.spotify.com/artist/5KsRA81UaMVKvLNiwDySfp) | [Do Better](https://open.spotify.com/album/4BZGQnej0aqk97EEIwW7dM) | 3:31 |
 | 26 | [Punched In The Head](https://open.spotify.com/track/5aYGNl8tDxpl5tURCF3UW0) | [Cowboy Hunters](https://open.spotify.com/artist/5GSSYBJxAbpSyj2w2vr5Cp) | [Punched In The Head](https://open.spotify.com/album/62V5yNNUirACiRWOXe4ydI) | 1:58 |
 | 27 | [Emperor XIII in Shades \- Live at Carnegie Hall](https://open.spotify.com/track/6UIqRlYsnQVpWzCD1GkoeX) | [Cameron Winter](https://open.spotify.com/artist/0kGweFvHWUfh6oLnookVeO) | [Live at Carnegie Hall](https://open.spotify.com/album/5FjFRlo7diqzHNpVz5wJCt) | 4:18 |
@@ -56,14 +56,14 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXahWDu9o481i.md) - [plain]
 | 46 | [Covergirl](https://open.spotify.com/track/00i9FK4EX5YRmgGe9WRtKj) | [Wishy](https://open.spotify.com/artist/1TkiNxDsrc0PgIWBrATCbe) | [Nature's Pill](https://open.spotify.com/album/2VeCYcmbUk083SQ6QZykQM) | 4:17 |
 | 47 | [Stalks](https://open.spotify.com/track/3aoIIvR9CkLUJ5aKpnsy5u) | [Twisted Teens](https://open.spotify.com/artist/40Hgbyjt4LQmrZYecbXebv) | [Stalks](https://open.spotify.com/album/0ljLVwqEMPGaqsG9mtDRHC) | 2:47 |
 | 48 | [Can I Smoke In Here?](https://open.spotify.com/track/5No1sIcO5UJmQk8U3StIrG) | [A/S/L](https://open.spotify.com/artist/2BX74Qt23X4mO6oAK28KBh) | [Can I Smoke In Here?](https://open.spotify.com/album/0DjdZdFumFL4aFCOhHr3lu) | 2:42 |
-| 49 | [Trillions](https://open.spotify.com/track/4FZA8C75s6Zm1Tqj71ej3M) | [DIIV](https://open.spotify.com/artist/4OrizGCKhOrW6iDDJHN9xd) | [Trillions](https://open.spotify.com/album/3kiUaXYBALEztZZ6ujxKGw) | 3:00 |
-| 50 | [Beautiful Stranger](https://open.spotify.com/track/5US5ItwqqZDT2SVysukwWQ) | [Mackeeper](https://open.spotify.com/artist/22NwVn8gHhq8eeWhZXgjOX) | [Believe You Me](https://open.spotify.com/album/0da8HogwCCHMOcDSCVsOd8) | 2:38 |
+| 49 | [Beautiful Stranger](https://open.spotify.com/track/5US5ItwqqZDT2SVysukwWQ) | [Mackeeper](https://open.spotify.com/artist/22NwVn8gHhq8eeWhZXgjOX) | [Believe You Me](https://open.spotify.com/album/0da8HogwCCHMOcDSCVsOd8) | 2:38 |
+| 50 | [Trillions](https://open.spotify.com/track/4FZA8C75s6Zm1Tqj71ej3M) | [DIIV](https://open.spotify.com/artist/4OrizGCKhOrW6iDDJHN9xd) | [Trillions](https://open.spotify.com/album/3kiUaXYBALEztZZ6ujxKGw) | 3:00 |
 | 51 | [I am a Man](https://open.spotify.com/track/1XTm0IoirGy34suvHWY9oT) | [Billboard Style](https://open.spotify.com/artist/3oqmZ1rujvoBP7ZyMBKqUQ) | [Pull of the Moon](https://open.spotify.com/album/7Hj6pSXdu05tnEttYuut2z) | 3:22 |
 | 52 | [SUPERHERO](https://open.spotify.com/track/4IXKuIqYieftE5Qe8caNQp) | [Ryan Trey](https://open.spotify.com/artist/5YHM0i7v5TqqibZhS0YiuX) | [FAITH OVER FAME](https://open.spotify.com/album/3FnKPMzKFcoISmM5LT5YsI) | 3:14 |
 | 53 | [Thank You](https://open.spotify.com/track/0YwtsLxxci8s57omyhPvfV) | [Worldpeace DMT](https://open.spotify.com/artist/48Nf4afKn9nV8OqgnTP7dV) | [Stick Around For Tea](https://open.spotify.com/album/6fHv4lP1mfXizl1StQkRLU) | 3:36 |
 | 54 | [potion](https://open.spotify.com/track/42cTujnWEeALsFQKiKcg6w) | [TEILZ](https://open.spotify.com/artist/5FXeiHtcyalHwoeViwaEno) | [come to mommy](https://open.spotify.com/album/1CyYAGOMbi7szTakqDtt6I) | 2:43 |
-| 55 | [Free](https://open.spotify.com/track/18fGxP6u7Nz8IGI2fdcD1D) | [Leslie Perez](https://open.spotify.com/artist/2NUERBKvU6ghDuqmLReybs) | [Free](https://open.spotify.com/album/5K2vTpujgKWvx4qJNYpxYW) | 3:16 |
-| 56 | [Trace me on2 u](https://open.spotify.com/track/1T649fr2klZ11hjPH5MZfC) | [Touching Ice](https://open.spotify.com/artist/0tlUMIekHSOfWiGg3PeeD4) | [Trace me on2 u](https://open.spotify.com/album/0TKnisEIRC5QyEI2ySnlaj) | 3:01 |
+| 55 | [Trace me on2 u](https://open.spotify.com/track/1T649fr2klZ11hjPH5MZfC) | [Touching Ice](https://open.spotify.com/artist/0tlUMIekHSOfWiGg3PeeD4) | [Trace me on2 u](https://open.spotify.com/album/0TKnisEIRC5QyEI2ySnlaj) | 3:01 |
+| 56 | [Free](https://open.spotify.com/track/18fGxP6u7Nz8IGI2fdcD1D) | [Leslie Perez](https://open.spotify.com/artist/2NUERBKvU6ghDuqmLReybs) | [Free](https://open.spotify.com/album/5K2vTpujgKWvx4qJNYpxYW) | 3:16 |
 | 57 | [Queens](https://open.spotify.com/track/38BxonKtYegINzHKASHfty) | [Grumpy](https://open.spotify.com/artist/480FcWBc0dlEZc52noh462) | [Queens](https://open.spotify.com/album/58mb074KdbNxpLKrkvDZej) | 6:27 |
 | 58 | [My Forever](https://open.spotify.com/track/1R8I3H65pxDY4t9ujP0huO) | [Sal Ly](https://open.spotify.com/artist/0FozbkkgjGS40HDmqhC5WZ) | [My Forever](https://open.spotify.com/album/3tTVKzLEPClBY7e4TT1RP6) | 4:09 |
 | 59 | [Sentimental Ultra](https://open.spotify.com/track/0wYPKYQolCnObH3WJ3Pzmk) | [DJ HEARTSTRING](https://open.spotify.com/artist/5tcwaJBUyEdxQxvieuQxU7), [Spriitzz](https://open.spotify.com/artist/3miuS25cOBju4yfVUmOj6D) | [Sentimental Ultra](https://open.spotify.com/album/3mwrUezSGWpXz75S49oIqT) | 3:12 |
@@ -71,4 +71,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXahWDu9o481i.md) - [plain]
 | 61 | [The Girl \(feat\. yunè pinku\)](https://open.spotify.com/track/1PQfMjnZQSkvlrh8YiidiN) | [Logic1000](https://open.spotify.com/artist/2EFsfh1zewsSWhDINv7j1I), [yunè pinku](https://open.spotify.com/artist/2sY4BbYrbvNVgsNzo6HddD) | [The Girl \(feat\. yunè pinku\)](https://open.spotify.com/album/7hwWqMaQXl9123zUweN9mA) | 2:52 |
 | 62 | [Karma](https://open.spotify.com/track/4s1xndGOzjMU1sSgC8FJkz) | [Snoh Aalegra](https://open.spotify.com/artist/1A9o3Ljt67pFZ89YtPPL5X) | [Legendary Love](https://open.spotify.com/album/74ExA1UleSA3kSC0TyNObv) | 3:29 |
 
-Snapshot ID: `AAAAANYWyNrExz0sSQRKN5EqKl+14pSL`
+Snapshot ID: `AAAAAP3qXX1is6nL/cki2HXY24TImvWe`

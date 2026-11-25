@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbTop77dnX35.md) - [plain]
 
 > New Music from  Rema, Olamide, Burna Boy, Deto Blvck, Fameye, Shoday  and more
 
-[Spotify](https://open.spotify.com/user/spotify) - 231,741 likes - 81 songs - 3 hr 39 min
+[Spotify](https://open.spotify.com/user/spotify) - 231,865 likes - 81 songs - 3 hr 39 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -90,4 +90,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbTop77dnX35.md) - [plain]
 | 80 | [Your Lies](https://open.spotify.com/track/0k65jpxAil63RGVtJDcdfD) | [Debba](https://open.spotify.com/artist/3Upr4OOMVKLF2LoFgBaL5X) | [Your Lies](https://open.spotify.com/album/3vsg9BDGvAeiZv5YEwb4q2) | 3:39 |
 | 81 | [liminal?](https://open.spotify.com/track/3vmGvIxO2H1fIGyq4Q5pbR) | [bartek turski](https://open.spotify.com/artist/5HArWtrcYhpxplTtZ848wR) | [liminal?](https://open.spotify.com/album/19sZSR3N2gmjYAvYC0i04O) | 2:39 |
 
-Snapshot ID: `AAAAAKlc8ig19uuMP95V1LD83c1oDNKk`
+Snapshot ID: `AAAAAKZ10km2zaq5XYDbX3fiZKqIzoz8`

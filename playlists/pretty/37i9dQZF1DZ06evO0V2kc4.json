@@ -1,12 +1,12 @@
 {
   "description": "This is Joan Baez. The essential tracks, all in one playlist.",
-  "num_followers": 75511,
+  "num_followers": 75513,
   "original_name": "This Is Joan Baez",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "awIwgAAAAABhmz45CEAmIxflMHPUE/9k",
+  "snapshot_id": "awOCAAAAAAD4krMmpiRM/8BTwy0O/pjC",
   "tracks": [
     {
       "added_at": null,
@@ -227,18 +227,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "Diamonds & Rust",
-        "url": "https://open.spotify.com/album/3O9LYeSXXEypjdptHMghUg"
+        "name": "Joan Baez 75th Birthday Celebration",
+        "url": "https://open.spotify.com/album/5kvie06FINHgDDv7wfZ3hl"
       },
       "artists": [
         {
           "name": "Joan Baez",
           "url": "https://open.spotify.com/artist/1EevBGfUh3RSQSGpluxgBm"
+        },
+        {
+          "name": "Mary Chapin Carpenter",
+          "url": "https://open.spotify.com/artist/0qAmeOULjwn04k6jMMeDyr"
         }
       ],
-      "duration_ms": 270333,
-      "name": "Fountain Of Sorrow",
-      "url": "https://open.spotify.com/track/7Epjhq046YB3Sjjtz9nx0J"
+      "duration_ms": 239520,
+      "name": "Catch The Wind",
+      "url": "https://open.spotify.com/track/4tZICB8neer87JfvyEMl5d"
     },
     {
       "added_at": null,
@@ -259,22 +263,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "Joan Baez 75th Birthday Celebration",
-        "url": "https://open.spotify.com/album/5kvie06FINHgDDv7wfZ3hl"
+        "name": "Diamonds & Rust",
+        "url": "https://open.spotify.com/album/3O9LYeSXXEypjdptHMghUg"
       },
       "artists": [
         {
           "name": "Joan Baez",
           "url": "https://open.spotify.com/artist/1EevBGfUh3RSQSGpluxgBm"
-        },
-        {
-          "name": "Mary Chapin Carpenter",
-          "url": "https://open.spotify.com/artist/0qAmeOULjwn04k6jMMeDyr"
         }
       ],
-      "duration_ms": 239520,
-      "name": "Catch The Wind",
-      "url": "https://open.spotify.com/track/4tZICB8neer87JfvyEMl5d"
+      "duration_ms": 270333,
+      "name": "Fountain Of Sorrow",
+      "url": "https://open.spotify.com/track/7Epjhq046YB3Sjjtz9nx0J"
     },
     {
       "added_at": null,
@@ -327,6 +327,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "The Complete A&M Recordings",
+        "url": "https://open.spotify.com/album/1R5up0FfwnF2ZABN9ff85L"
+      },
+      "artists": [
+        {
+          "name": "Joan Baez",
+          "url": "https://open.spotify.com/artist/1EevBGfUh3RSQSGpluxgBm"
+        }
+      ],
+      "duration_ms": 232800,
+      "name": "Forever Young - Single Version",
+      "url": "https://open.spotify.com/track/5q5UESTbbcTM1vEyheQA4u"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "The Bootleg Volume 6: Bob Dylan Live 1964 - Concert At Philharmonic Hall",
         "url": "https://open.spotify.com/album/2iM5ZikFu4dvZLHZRwWiLY"
       },
@@ -375,22 +391,6 @@
       "duration_ms": 268173,
       "name": "Jesse",
       "url": "https://open.spotify.com/track/4jZ6cogfz7DCQNGzJhojp4"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "The Complete A&M Recordings",
-        "url": "https://open.spotify.com/album/1R5up0FfwnF2ZABN9ff85L"
-      },
-      "artists": [
-        {
-          "name": "Joan Baez",
-          "url": "https://open.spotify.com/artist/1EevBGfUh3RSQSGpluxgBm"
-        }
-      ],
-      "duration_ms": 232800,
-      "name": "Forever Young - Single Version",
-      "url": "https://open.spotify.com/track/5q5UESTbbcTM1vEyheQA4u"
     },
     {
       "added_at": null,
@@ -459,6 +459,26 @@
     {
       "added_at": null,
       "album": {
+        "name": "Joan Baez 75th Birthday Celebration",
+        "url": "https://open.spotify.com/album/5kvie06FINHgDDv7wfZ3hl"
+      },
+      "artists": [
+        {
+          "name": "Joan Baez",
+          "url": "https://open.spotify.com/artist/1EevBGfUh3RSQSGpluxgBm"
+        },
+        {
+          "name": "Paul Simon",
+          "url": "https://open.spotify.com/artist/2CvCyf1gEVhI0mX6aFXmVI"
+        }
+      ],
+      "duration_ms": 445880,
+      "name": "The Boxer",
+      "url": "https://open.spotify.com/track/2wdvaWg7mqmLUDVYLOrKVJ"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Greatest Hits And Others",
         "url": "https://open.spotify.com/album/1ycddMO4m3ij8zGNIYVITj"
       },
@@ -507,26 +527,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Joan Baez 75th Birthday Celebration",
-        "url": "https://open.spotify.com/album/5kvie06FINHgDDv7wfZ3hl"
-      },
-      "artists": [
-        {
-          "name": "Joan Baez",
-          "url": "https://open.spotify.com/artist/1EevBGfUh3RSQSGpluxgBm"
-        },
-        {
-          "name": "Paul Simon",
-          "url": "https://open.spotify.com/artist/2CvCyf1gEVhI0mX6aFXmVI"
-        }
-      ],
-      "duration_ms": 445880,
-      "name": "The Boxer",
-      "url": "https://open.spotify.com/track/2wdvaWg7mqmLUDVYLOrKVJ"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Diamonds & Rust",
         "url": "https://open.spotify.com/album/3O9LYeSXXEypjdptHMghUg"
       },
@@ -539,6 +539,26 @@
       "duration_ms": 184666,
       "name": "Hello In There",
       "url": "https://open.spotify.com/track/5T0sb6FbmtLkOkAW08Wfqs"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Paradise",
+        "url": "https://open.spotify.com/album/2fm8pHor9hd3t6szmNZv1x"
+      },
+      "artists": [
+        {
+          "name": "Judy Collins",
+          "url": "https://open.spotify.com/artist/5yzE49FicYiSxN61oaxkNn"
+        },
+        {
+          "name": "Joan Baez",
+          "url": "https://open.spotify.com/artist/1EevBGfUh3RSQSGpluxgBm"
+        }
+      ],
+      "duration_ms": 215240,
+      "name": "Diamonds & Rust",
+      "url": "https://open.spotify.com/track/3mq4d0XatVGY7vOMIhUBEz"
     },
     {
       "added_at": null,
@@ -591,6 +611,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Come From The Shadows",
+        "url": "https://open.spotify.com/album/4WFbML0LdLr3b0u6rxn8Hw"
+      },
+      "artists": [
+        {
+          "name": "Joan Baez",
+          "url": "https://open.spotify.com/artist/1EevBGfUh3RSQSGpluxgBm"
+        }
+      ],
+      "duration_ms": 241226,
+      "name": "To Bobby",
+      "url": "https://open.spotify.com/track/7BCPRW68OQu98UXC5qDOGe"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Gracias A La Vida (Here's To Life)",
         "url": "https://open.spotify.com/album/6h8pQTs3EOI20ITEA1xZy7"
       },
@@ -607,26 +643,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Paradise",
-        "url": "https://open.spotify.com/album/2fm8pHor9hd3t6szmNZv1x"
-      },
-      "artists": [
-        {
-          "name": "Judy Collins",
-          "url": "https://open.spotify.com/artist/5yzE49FicYiSxN61oaxkNn"
-        },
-        {
-          "name": "Joan Baez",
-          "url": "https://open.spotify.com/artist/1EevBGfUh3RSQSGpluxgBm"
-        }
-      ],
-      "duration_ms": 215240,
-      "name": "Diamonds & Rust",
-      "url": "https://open.spotify.com/track/3mq4d0XatVGY7vOMIhUBEz"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Any Day Now",
         "url": "https://open.spotify.com/album/4CRzOSYsOxwYVPIwMro4Fl"
       },
@@ -639,22 +655,6 @@
       "duration_ms": 302000,
       "name": "North Country Blues",
       "url": "https://open.spotify.com/track/5fqzV7YD1ePrh4JSfWhG6m"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Come From The Shadows",
-        "url": "https://open.spotify.com/album/4WFbML0LdLr3b0u6rxn8Hw"
-      },
-      "artists": [
-        {
-          "name": "Joan Baez",
-          "url": "https://open.spotify.com/artist/1EevBGfUh3RSQSGpluxgBm"
-        }
-      ],
-      "duration_ms": 241226,
-      "name": "To Bobby",
-      "url": "https://open.spotify.com/track/7BCPRW68OQu98UXC5qDOGe"
     },
     {
       "added_at": null,
@@ -691,6 +691,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Come From The Shadows",
+        "url": "https://open.spotify.com/album/4WFbML0LdLr3b0u6rxn8Hw"
+      },
+      "artists": [
+        {
+          "name": "Joan Baez",
+          "url": "https://open.spotify.com/artist/1EevBGfUh3RSQSGpluxgBm"
+        }
+      ],
+      "duration_ms": 263893,
+      "name": "Prison Trilogy (Billy Rose)",
+      "url": "https://open.spotify.com/track/09dGiyUBUGQBV0I6uH0sDY"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "No Kings (feat. Joan Baez)",
         "url": "https://open.spotify.com/album/6XJBVOUONYdjZWLio9emIz"
       },
@@ -707,22 +723,6 @@
       "duration_ms": 171706,
       "name": "No Kings (feat. Joan Baez)",
       "url": "https://open.spotify.com/track/3TQeJtbJjv8Q4V0a7f5NvT"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Come From The Shadows",
-        "url": "https://open.spotify.com/album/4WFbML0LdLr3b0u6rxn8Hw"
-      },
-      "artists": [
-        {
-          "name": "Joan Baez",
-          "url": "https://open.spotify.com/artist/1EevBGfUh3RSQSGpluxgBm"
-        }
-      ],
-      "duration_ms": 263893,
-      "name": "Prison Trilogy (Billy Rose)",
-      "url": "https://open.spotify.com/track/09dGiyUBUGQBV0I6uH0sDY"
     },
     {
       "added_at": null,
@@ -759,22 +759,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Farewell, Angelina",
-        "url": "https://open.spotify.com/album/0KWZmGhxNlNMOQgi4LPWun"
-      },
-      "artists": [
-        {
-          "name": "Joan Baez",
-          "url": "https://open.spotify.com/artist/1EevBGfUh3RSQSGpluxgBm"
-        }
-      ],
-      "duration_ms": 459133,
-      "name": "A Hard Rain's A-Gonna Fall",
-      "url": "https://open.spotify.com/track/3KQRvCKd6elig016BuK6Zp"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "The First 10 Years",
         "url": "https://open.spotify.com/album/4r2BckN3R24ifqfXKUUbMn"
       },
@@ -787,6 +771,22 @@
       "duration_ms": 223733,
       "name": "Sweet Sir Galahad",
       "url": "https://open.spotify.com/track/0wVsSz391qR4eORwDy3Xvg"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Farewell, Angelina",
+        "url": "https://open.spotify.com/album/0KWZmGhxNlNMOQgi4LPWun"
+      },
+      "artists": [
+        {
+          "name": "Joan Baez",
+          "url": "https://open.spotify.com/artist/1EevBGfUh3RSQSGpluxgBm"
+        }
+      ],
+      "duration_ms": 459133,
+      "name": "A Hard Rain's A-Gonna Fall",
+      "url": "https://open.spotify.com/track/3KQRvCKd6elig016BuK6Zp"
     },
     {
       "added_at": null,
@@ -835,8 +835,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Come From The Shadows",
-        "url": "https://open.spotify.com/album/4WFbML0LdLr3b0u6rxn8Hw"
+        "name": "Gracias A La Vida (Here's To Life)",
+        "url": "https://open.spotify.com/album/6h8pQTs3EOI20ITEA1xZy7"
       },
       "artists": [
         {
@@ -844,9 +844,9 @@
           "url": "https://open.spotify.com/artist/1EevBGfUh3RSQSGpluxgBm"
         }
       ],
-      "duration_ms": 175373,
-      "name": "In The Quiet Morning",
-      "url": "https://open.spotify.com/track/4Kol6Ecm4yCgHvbLSP3XUG"
+      "duration_ms": 134133,
+      "name": "Llego Con Tres Heridas",
+      "url": "https://open.spotify.com/track/1QxEVZb7xDlAOmc0hPs2L7"
     }
   ],
   "unique_name": "This Is Joan Baez",

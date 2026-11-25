@@ -19665,6 +19665,24 @@
     },
     {
       "album": {
+        "name": "GHOST TOWN",
+        "url": "https://open.spotify.com/album/1T6ZJsZZIlPstmsK7SaLiH"
+      },
+      "artists": [
+        {
+          "name": "KONISHI",
+          "url": "https://open.spotify.com/artist/1kdiiDDLFkQ90jLJpw3FI0"
+        }
+      ],
+      "date_added": "2026-11-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 181517,
+      "name": "GHOST TOWN",
+      "url": "https://open.spotify.com/track/22Dg2L6nvMIjrrhB9qEqSn"
+    },
+    {
+      "album": {
         "name": "Shenanigansia Vol.2",
         "url": "https://open.spotify.com/album/0JrGNjTeA3ObLmAnvhcqWR"
       },

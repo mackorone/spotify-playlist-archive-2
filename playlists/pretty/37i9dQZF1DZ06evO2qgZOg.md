@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2qgZOg.md) - [plain]
 
 > This is Skillet\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 336,219 likes - 50 songs - 2 hr 57 min
+[Spotify](https://open.spotify.com/user/spotify) - 336,270 likes - 50 songs - 2 hr 58 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -35,16 +35,16 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2qgZOg.md) - [plain]
 | 25 | [Lift Me Up](https://open.spotify.com/track/6OlXM5xkhNs8jcI56ax8zc) | [Skillet](https://open.spotify.com/artist/49bzE5vRBRIota4qeHtQM8) | [Lift Me Up](https://open.spotify.com/album/6L4SxtZZYtbp7uLYz37guc) | 3:24 |
 | 26 | [Take It All Back](https://open.spotify.com/track/1486GTNZyKS12K9NSP1QRj) | [Tauren Wells](https://open.spotify.com/artist/3SKza3YPBri1k43LB1Tqy4), [Skillet](https://open.spotify.com/artist/49bzE5vRBRIota4qeHtQM8), [Davies.](https://open.spotify.com/artist/4gHYwyqJOALI9pJO1QCzq8) | [Take It All Back](https://open.spotify.com/album/0JNxzwUAvDPOboU7nmP9GU) | 3:24 |
 | 27 | [Heaven Help Us](https://open.spotify.com/track/0NT4gDp41RefSVTIvs0qom) | [Skillet](https://open.spotify.com/artist/49bzE5vRBRIota4qeHtQM8) | [After The Storm](https://open.spotify.com/album/1GE38CgvNGJMxgm5lAfyOs) | 3:46 |
-| 28 | [Save Me](https://open.spotify.com/track/4REoG68IFlZyqVAaUwmUl0) | [Skillet](https://open.spotify.com/artist/49bzE5vRBRIota4qeHtQM8) | [Victorious](https://open.spotify.com/album/6uBm8oGd1fJNWpCsaURaPZ) | 3:43 |
-| 29 | [What I Believe](https://open.spotify.com/track/5aUl2cPg4O7yXXdzWQVTYO) | [Skillet](https://open.spotify.com/artist/49bzE5vRBRIota4qeHtQM8) | [Rise \(Deluxe Edition\)](https://open.spotify.com/album/3AUIurHdBrfvqSs7EEr3AA) | 3:19 |
+| 28 | [What I Believe](https://open.spotify.com/track/5aUl2cPg4O7yXXdzWQVTYO) | [Skillet](https://open.spotify.com/artist/49bzE5vRBRIota4qeHtQM8) | [Rise \(Deluxe Edition\)](https://open.spotify.com/album/3AUIurHdBrfvqSs7EEr3AA) | 3:19 |
+| 29 | [Save Me](https://open.spotify.com/track/4REoG68IFlZyqVAaUwmUl0) | [Skillet](https://open.spotify.com/artist/49bzE5vRBRIota4qeHtQM8) | [Victorious](https://open.spotify.com/album/6uBm8oGd1fJNWpCsaURaPZ) | 3:43 |
 | 30 | [The Last Night](https://open.spotify.com/track/37CMjUAU8fL6YqZVTplZqZ) | [Skillet](https://open.spotify.com/artist/49bzE5vRBRIota4qeHtQM8) | [Comatose](https://open.spotify.com/album/16ElbnOtY2UgGaPKoLfst4) | 3:30 |
 | 31 | [Showtime](https://open.spotify.com/track/0LX82kX5rUJ1PTOKybET6m) | [Skillet](https://open.spotify.com/artist/49bzE5vRBRIota4qeHtQM8) | [Revolution](https://open.spotify.com/album/10ZHxI5PePZZqVwtSw4RNq) | 3:33 |
-| 32 | [Victorious](https://open.spotify.com/track/4emQrNiz37OidY7SoXXQls) | [Skillet](https://open.spotify.com/artist/49bzE5vRBRIota4qeHtQM8) | [Victorious](https://open.spotify.com/album/6uBm8oGd1fJNWpCsaURaPZ) | 4:05 |
-| 33 | [Surviving The Game](https://open.spotify.com/track/0urubGmXiODfWyGL6o6W4P) | [Skillet](https://open.spotify.com/artist/49bzE5vRBRIota4qeHtQM8) | [Dominion](https://open.spotify.com/album/1ZUW7enyVvaUZgkcWXk6wG) | 3:58 |
+| 32 | [Surviving The Game](https://open.spotify.com/track/0urubGmXiODfWyGL6o6W4P) | [Skillet](https://open.spotify.com/artist/49bzE5vRBRIota4qeHtQM8) | [Dominion](https://open.spotify.com/album/1ZUW7enyVvaUZgkcWXk6wG) | 3:58 |
+| 33 | [Victorious](https://open.spotify.com/track/4emQrNiz37OidY7SoXXQls) | [Skillet](https://open.spotify.com/artist/49bzE5vRBRIota4qeHtQM8) | [Victorious](https://open.spotify.com/album/6uBm8oGd1fJNWpCsaURaPZ) | 4:05 |
 | 34 | [Never Surrender](https://open.spotify.com/track/4MoVvVkDGFNtQPHciZgG3w) | [Skillet](https://open.spotify.com/artist/49bzE5vRBRIota4qeHtQM8) | [Awake](https://open.spotify.com/album/0RySAmM6oDPGSE03X3dzi1) | 3:30 |
 | 35 | [Ash In The Wind](https://open.spotify.com/track/3MExPJbadqPSX3GlUeqzfl) | [Skillet](https://open.spotify.com/artist/49bzE5vRBRIota4qeHtQM8) | [Revolution](https://open.spotify.com/album/10ZHxI5PePZZqVwtSw4RNq) | 3:52 |
-| 36 | [Anchor](https://open.spotify.com/track/6EwnYm73XEibpAPOnTc8li) | [Skillet](https://open.spotify.com/artist/49bzE5vRBRIota4qeHtQM8) | [Victorious](https://open.spotify.com/album/6uBm8oGd1fJNWpCsaURaPZ) | 3:36 |
-| 37 | [Those Nights](https://open.spotify.com/track/1ZWEsoqJSrtZA1qjlG02Hp) | [Skillet](https://open.spotify.com/artist/49bzE5vRBRIota4qeHtQM8) | [Comatose](https://open.spotify.com/album/16ElbnOtY2UgGaPKoLfst4) | 3:46 |
+| 36 | [Those Nights](https://open.spotify.com/track/1ZWEsoqJSrtZA1qjlG02Hp) | [Skillet](https://open.spotify.com/artist/49bzE5vRBRIota4qeHtQM8) | [Comatose](https://open.spotify.com/album/16ElbnOtY2UgGaPKoLfst4) | 3:46 |
+| 37 | [Anchor](https://open.spotify.com/track/6EwnYm73XEibpAPOnTc8li) | [Skillet](https://open.spotify.com/artist/49bzE5vRBRIota4qeHtQM8) | [Victorious](https://open.spotify.com/album/6uBm8oGd1fJNWpCsaURaPZ) | 3:36 |
 | 38 | [It's Not Me, It's You](https://open.spotify.com/track/1swaR8iEKe5qyCoyCWjyvP) | [Skillet](https://open.spotify.com/artist/49bzE5vRBRIota4qeHtQM8) | [Awake](https://open.spotify.com/album/0RySAmM6oDPGSE03X3dzi1) | 3:24 |
 | 39 | [Unpopular](https://open.spotify.com/track/74PfOfWFgxpUBBucEiWWNx) | [Skillet](https://open.spotify.com/artist/49bzE5vRBRIota4qeHtQM8) | [Revolution](https://open.spotify.com/album/10ZHxI5PePZZqVwtSw4RNq) | 3:05 |
 | 40 | [Breaking Free \(feat\. Lacey Sturm\)](https://open.spotify.com/track/3sT99jz232QWq5Q2LEaFJ5) | [Skillet](https://open.spotify.com/artist/49bzE5vRBRIota4qeHtQM8), [Lacey Sturm](https://open.spotify.com/artist/09LCTrVGnMsGbxexUFJoap) | [Unleashed Beyond \(Special Edition\)](https://open.spotify.com/album/2KKPw3uv39fzhiUTS7zw37) | 3:52 |
@@ -56,7 +56,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2qgZOg.md) - [plain]
 | 46 | [Beyond Incredible](https://open.spotify.com/track/3qd9Dq8PpCsrFD5WGbpjK8) | [Skillet](https://open.spotify.com/artist/49bzE5vRBRIota4qeHtQM8) | [Dominion](https://open.spotify.com/album/1ZUW7enyVvaUZgkcWXk6wG) | 3:31 |
 | 47 | [Not Afraid](https://open.spotify.com/track/1TnAZhq4cp6K2I4UmHJzZ4) | [Skillet](https://open.spotify.com/artist/49bzE5vRBRIota4qeHtQM8) | [Revolution](https://open.spotify.com/album/10ZHxI5PePZZqVwtSw4RNq) | 3:13 |
 | 48 | [Crossfire](https://open.spotify.com/track/4bwvPbiPCsjyMZc6W4VPA2) | [Skillet](https://open.spotify.com/artist/49bzE5vRBRIota4qeHtQM8) | [Dominion: Day of Destiny](https://open.spotify.com/album/0yppsQTW8pACnrnH75Rvhv) | 3:12 |
-| 49 | [You Ain't Ready](https://open.spotify.com/track/1v0031VtKGsWfPDkKzGV3s) | [Skillet](https://open.spotify.com/artist/49bzE5vRBRIota4qeHtQM8) | [Victorious](https://open.spotify.com/album/6uBm8oGd1fJNWpCsaURaPZ) | 3:17 |
+| 49 | [Rise Up](https://open.spotify.com/track/5sxSfajurxK1jzBUzTLou5) | [Skillet](https://open.spotify.com/artist/49bzE5vRBRIota4qeHtQM8) | [Victorious](https://open.spotify.com/album/6uBm8oGd1fJNWpCsaURaPZ) | 3:58 |
 | 50 | [You Get Me High](https://open.spotify.com/track/4AapC5EaUVuL7LZojRPyGu) | [Skillet](https://open.spotify.com/artist/49bzE5vRBRIota4qeHtQM8) | [Unleashed Beyond \(Special Edition\)](https://open.spotify.com/album/2KKPw3uv39fzhiUTS7zw37) | 3:17 |
 
-Snapshot ID: `awIwgAAAAAA3hMXe+0CJxJQEj8sRNTzP`
+Snapshot ID: `awOCAAAAAAAEw8GxiuzBKwLS3ZXCOKfJ`

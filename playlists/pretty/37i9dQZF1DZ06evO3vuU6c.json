@@ -1,12 +1,12 @@
 {
   "description": "This is Sia. The essential tracks, all in one playlist.",
-  "num_followers": 1435697,
+  "num_followers": 1435691,
   "original_name": "This Is Sia",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "awIwgAAAAADrYsEA6a2w7abYmuCW9fPz",
+  "snapshot_id": "awOCAAAAAACUNz+fAGp9Fe6/z5GcaXtG",
   "tracks": [
     {
       "added_at": null,
@@ -363,26 +363,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "The Marshall Mathers LP2 (Deluxe)",
-        "url": "https://open.spotify.com/album/6DN7GcZF1HywzrkGN6Eeqk"
-      },
-      "artists": [
-        {
-          "name": "Eminem",
-          "url": "https://open.spotify.com/artist/7dGJo4pcD2V6oG8kP0tJRR"
-        },
-        {
-          "name": "Sia",
-          "url": "https://open.spotify.com/artist/5WUlDfRSoLAfcVSX1WnrxN"
-        }
-      ],
-      "duration_ms": 265025,
-      "name": "Beautiful Pain",
-      "url": "https://open.spotify.com/track/7hiBhOh4s8G0xmGYBAjyuw"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "ENOC",
         "url": "https://open.spotify.com/album/69iuPQsXel3luOSDNF0q2Q"
       },
@@ -403,6 +383,26 @@
       "duration_ms": 214506,
       "name": "Del Mar",
       "url": "https://open.spotify.com/track/5cpJFiNwYyWwFLH0V6B3N8"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "The Marshall Mathers LP2 (Deluxe)",
+        "url": "https://open.spotify.com/album/6DN7GcZF1HywzrkGN6Eeqk"
+      },
+      "artists": [
+        {
+          "name": "Eminem",
+          "url": "https://open.spotify.com/artist/7dGJo4pcD2V6oG8kP0tJRR"
+        },
+        {
+          "name": "Sia",
+          "url": "https://open.spotify.com/artist/5WUlDfRSoLAfcVSX1WnrxN"
+        }
+      ],
+      "duration_ms": 265025,
+      "name": "Beautiful Pain",
+      "url": "https://open.spotify.com/track/7hiBhOh4s8G0xmGYBAjyuw"
     },
     {
       "added_at": null,
@@ -887,26 +887,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Chakzilla",
-        "url": "https://open.spotify.com/album/0dQyfJN05ICpQfK9dvKRRF"
-      },
-      "artists": [
-        {
-          "name": "Chaka Khan",
-          "url": "https://open.spotify.com/artist/6mQfAAqZGBzIfrmlZCeaYT"
-        },
-        {
-          "name": "Sia",
-          "url": "https://open.spotify.com/artist/5WUlDfRSoLAfcVSX1WnrxN"
-        }
-      ],
-      "duration_ms": 210426,
-      "name": "Cool You Down - feat. Sia",
-      "url": "https://open.spotify.com/track/1zXyCObXWABxy8cBY0NQvV"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "MOVIE",
         "url": "https://open.spotify.com/album/34b2JCGkaXuPeYZk1FB4SR"
       },
@@ -923,6 +903,26 @@
       "duration_ms": 179652,
       "name": "Gimme Love Orchestra",
       "url": "https://open.spotify.com/track/3e3zugz8yZ7Y48RyLWyKWd"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Chakzilla",
+        "url": "https://open.spotify.com/album/0dQyfJN05ICpQfK9dvKRRF"
+      },
+      "artists": [
+        {
+          "name": "Chaka Khan",
+          "url": "https://open.spotify.com/artist/6mQfAAqZGBzIfrmlZCeaYT"
+        },
+        {
+          "name": "Sia",
+          "url": "https://open.spotify.com/artist/5WUlDfRSoLAfcVSX1WnrxN"
+        }
+      ],
+      "duration_ms": 210426,
+      "name": "Cool You Down - feat. Sia",
+      "url": "https://open.spotify.com/track/1zXyCObXWABxy8cBY0NQvV"
     },
     {
       "added_at": null,

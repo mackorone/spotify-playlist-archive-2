@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3NRlBOcUOcY.md) - [plain]
 
 > Good vibes only! Aquí solo hay buena vibra.
 
-[Spotify](https://open.spotify.com/user/spotify) - 433,440 likes - 100 songs - 5 hr 6 min
+[Spotify](https://open.spotify.com/user/spotify) - 433,384 likes - 100 songs - 5 hr 6 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -56,12 +56,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3NRlBOcUOcY.md) - [plain]
 | 46 | [COSITA LINDA](https://open.spotify.com/track/1fDjHyaZnNCPo9QsuFdQVO) | [ELENA ROSE](https://open.spotify.com/artist/0zO8yNnw5GQgutcIyXfGBY), [Justin Quiles](https://open.spotify.com/artist/14zUHaJZo1mnYtn6IBRaRP) | [COSITA LINDA](https://open.spotify.com/album/6dyQjzZ1vQWxU28edG6AOA) | 2:19 |
 | 47 | [blackout 🧊](https://open.spotify.com/track/2efbgTtEGNpsUZaOfgRTR6) | [Emilia](https://open.spotify.com/artist/0AqlFI0tz2DsEoJlKSIiT9), [TINI](https://open.spotify.com/artist/7vXDAI8JwjW531ouMGbfcp), [Nicki Nicole](https://open.spotify.com/artist/2UZIAOlrnyZmyzt1nuXr9y) | [blackout 🧊](https://open.spotify.com/album/6BWhAZgUrFRWSfXbCaIz2E) | 3:02 |
 | 48 | [Sonríele](https://open.spotify.com/track/1ibAbmVpngm3LQGvAWqZXX) | [Daddy Yankee](https://open.spotify.com/artist/4VMYDCV2IEDYJArk749S6m) | [Sonríele](https://open.spotify.com/album/4RShTSx84DqaQZ45XaYeRn) | 2:58 |
-| 49 | [ILY](https://open.spotify.com/track/5ru2w4Y7xP58IXE6m4orW0) | [Kapo](https://open.spotify.com/artist/3UTF2no3muGdiFXVujl94i), [Myke Towers](https://open.spotify.com/artist/7iK8PXO48WeuP03g8YR51W) | [ILY](https://open.spotify.com/album/7ct2yMkPUUMjmgjJh9MdQW) | 3:36 |
+| 49 | [BOMBÓN](https://open.spotify.com/track/0FBOPrPkQaLBEwtdCOdXiX) | [Kapo](https://open.spotify.com/artist/3UTF2no3muGdiFXVujl94i) | [BOMBÓN](https://open.spotify.com/album/4wix4eBwzjNtaf5wlMexEF) | 2:10 |
 | 50 | [BUBALU](https://open.spotify.com/track/36FTXlmbiV2diZdZukzLDm) | [Feid](https://open.spotify.com/artist/2LRoIwlKmHjgvigdNGBHNo), [Rema](https://open.spotify.com/artist/46pWGuE3dSwY3bMMXGBvVS) | [BUBALU](https://open.spotify.com/album/0RjxDLuy3YP0zLuo8VB0JX) | 3:48 |
 | 51 | [CHULA](https://open.spotify.com/track/4SEQheyYUhSyCoOHvDdkla) | [Becky G](https://open.spotify.com/artist/4obzFoKoKRHIphyHzJ35G3) | [BARAJA BENDITA](https://open.spotify.com/album/1B8QJFOcpBeycykDaWttDY) | 2:07 |
 | 52 | [París](https://open.spotify.com/track/3ehHqgYRzmeUi345MfHS2N) | [Morat](https://open.spotify.com/artist/5C4PDR4LnhZTbVnKWXuDKD), [Duki](https://open.spotify.com/artist/1bAftSH8umNcGZ0uyV7LMg) | [París](https://open.spotify.com/album/2dhk2kLdjVxWps1PW9WSTj) | 3:02 |
 | 53 | [Me Gusta](https://open.spotify.com/track/2grcaP2t5eJpDv4YhOuMWn) | [Miranda!](https://open.spotify.com/artist/2eEmsgWmUFMbtU7agJpnjY), [TINI](https://open.spotify.com/artist/7vXDAI8JwjW531ouMGbfcp) | [Nuevo Hotel Miranda!](https://open.spotify.com/album/4di9h6Igl1rbd0xtZfsyD6) | 2:37 |
-| 54 | [BOMBÓN](https://open.spotify.com/track/0FBOPrPkQaLBEwtdCOdXiX) | [Kapo](https://open.spotify.com/artist/3UTF2no3muGdiFXVujl94i) | [BOMBÓN](https://open.spotify.com/album/4wix4eBwzjNtaf5wlMexEF) | 2:10 |
+| 54 | [ILY](https://open.spotify.com/track/5ru2w4Y7xP58IXE6m4orW0) | [Kapo](https://open.spotify.com/artist/3UTF2no3muGdiFXVujl94i), [Myke Towers](https://open.spotify.com/artist/7iK8PXO48WeuP03g8YR51W) | [ILY](https://open.spotify.com/album/7ct2yMkPUUMjmgjJh9MdQW) | 3:36 |
 | 55 | [4LIFE](https://open.spotify.com/track/23Nnf4FeFWz4nbEaHG4z9D) | [Hamilton](https://open.spotify.com/artist/2Gke7HMz6MgNWSX71pBMyX), [Ryan Castro](https://open.spotify.com/artist/7j6DKwmjbxvpQO8h914uEz) | [4LIFE](https://open.spotify.com/album/08m1n2W8oZA3DUIyZoGfHf) | 3:32 |
 | 56 | [BRONCEADOR](https://open.spotify.com/track/6LYg8Ks95O7GNNLfB6kh4j) | [Maluma](https://open.spotify.com/artist/1r4hJ1h58CWwUQe3MxPuau) | [BRONCEADOR](https://open.spotify.com/album/1xMXyKKRsXoPe34kS7w2SF) | 2:29 |
 | 57 | [/Lentes](https://open.spotify.com/track/1ur0gl2eeCUwzaO2iev7eP) | [Neton Vega](https://open.spotify.com/artist/6pV5zH2LzjOUHaAvENdMMa) | [DELIRIUM](https://open.spotify.com/album/0xTFLxAqGha7RPtlHkDqm6) | 3:09 |
@@ -88,10 +88,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3NRlBOcUOcY.md) - [plain]
 | 78 | [Mantis](https://open.spotify.com/track/6ImCkOkytyhBDWDU3a26iL) | [Greeicy](https://open.spotify.com/artist/5dbaLmK5SHLLg8Z4CcTJpX), [Cultura Profética](https://open.spotify.com/artist/65HuWBUC1d8ty1q6J42Nfi) | [Mantis](https://open.spotify.com/album/6YtFYvsLVJpOSLDJdQ5bdK) | 4:14 |
 | 79 | [JEEP](https://open.spotify.com/track/7ctWQyAdC1OVpFDtqxNk8t) | [MAGNA](https://open.spotify.com/artist/3r7eiuLSmaw4jXeUG6NatF), [Mi Compa el Chino](https://open.spotify.com/artist/2DdimmphdLA00UsduU3SX4) | [JEEP](https://open.spotify.com/album/2g5iVDVoQ1WvWTUfxhtzOm) | 3:15 |
 | 80 | [Pasaporte](https://open.spotify.com/track/3LkVlYZK41uDwBHX26m8mi) | [Rauw Alejandro](https://open.spotify.com/artist/1mcTU81TzQhprhouKaTkpq), [Mr\. Naisgai](https://open.spotify.com/artist/37BIBvfliXJpSgn10yQUJM) | [Pasaporte](https://open.spotify.com/album/6jGjJCN5uEufVPfbbdjVbf) | 4:26 |
-| 81 | [Isla Pa Dos \(Wawawao\)](https://open.spotify.com/track/2oZMbHvRq7jEpCfupABOlp) | [Hamilton](https://open.spotify.com/artist/2Gke7HMz6MgNWSX71pBMyX) | [Isla Pa Dos \(Wawawao\)](https://open.spotify.com/album/2H5VQ2AyPAAwq2QVLsgLwh) | 2:17 |
-| 82 | [Sin Gato \(MIAU!\)](https://open.spotify.com/track/3vGYACdHXBG9COwobk3J5U) | [Rels B](https://open.spotify.com/artist/2IMZYfNi21MGqxopj9fWx8) | [Sin Gato \(MIAU!\)](https://open.spotify.com/album/5Kav6970mLaRDQN1tSqWom) | 2:27 |
+| 81 | [Canta Pajarito](https://open.spotify.com/track/3hIBOOB7qwnlVkBz68g5ma) | [Alisun](https://open.spotify.com/artist/2EiL0H8ZBmpOSCdmzcLijb) | [Canta Pajarito](https://open.spotify.com/album/0281jSvWsYbQmrYMtN6HDe) | 3:50 |
+| 82 | [Isla Pa Dos \(Wawawao\)](https://open.spotify.com/track/2oZMbHvRq7jEpCfupABOlp) | [Hamilton](https://open.spotify.com/artist/2Gke7HMz6MgNWSX71pBMyX) | [Isla Pa Dos \(Wawawao\)](https://open.spotify.com/album/2H5VQ2AyPAAwq2QVLsgLwh) | 2:17 |
 | 83 | [Estas Ganas](https://open.spotify.com/track/6axFk0R5Fm7BmnAle3CJ2T) | [Greeicy](https://open.spotify.com/artist/5dbaLmK5SHLLg8Z4CcTJpX) | [Estas Ganas](https://open.spotify.com/album/1JyeUyl21sY9G60Clzk7vO) | 2:46 |
-| 84 | [Canta Pajarito](https://open.spotify.com/track/3hIBOOB7qwnlVkBz68g5ma) | [Alisun](https://open.spotify.com/artist/2EiL0H8ZBmpOSCdmzcLijb) | [Canta Pajarito](https://open.spotify.com/album/0281jSvWsYbQmrYMtN6HDe) | 3:50 |
+| 84 | [Sin Gato \(MIAU!\)](https://open.spotify.com/track/3vGYACdHXBG9COwobk3J5U) | [Rels B](https://open.spotify.com/artist/2IMZYfNi21MGqxopj9fWx8) | [Sin Gato \(MIAU!\)](https://open.spotify.com/album/5Kav6970mLaRDQN1tSqWom) | 2:27 |
 | 85 | [T O M A !](https://open.spotify.com/track/7IodjW5qSbvOpeIBIlVOwF) | [Zulia](https://open.spotify.com/artist/5m5MnSiB5nnLBZCU8Gcggp) | [T O M A !](https://open.spotify.com/album/1YSjnTrxtytIj4OHDXzaWI) | 2:40 |
 | 86 | [MALIBU](https://open.spotify.com/track/4fPXanSrPMbboicrHPzV0M) | [Chiquis](https://open.spotify.com/artist/5QcHBpoxrY7vx3ulMKEvTS), [Jesse & Joy](https://open.spotify.com/artist/1mX1TWKpNxDSAH16LgDfiR) | [Janney](https://open.spotify.com/album/25X59yD47dtzAAq6bzXliA) | 2:34 |
 | 87 | [Gracias](https://open.spotify.com/track/58G2ukj1pUgsZZo5MHX9U3) | [Yami Safdie](https://open.spotify.com/artist/4RWJOoYwgF978LOn8Fainp) | [Gracias](https://open.spotify.com/album/3chlK1TsdvDxw0NB7o5W8S) | 2:12 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3NRlBOcUOcY.md) - [plain]
 | 99 | [Luna Llena](https://open.spotify.com/track/0w37XvWazgBzY1bD0Pi0yz) | [Yexel](https://open.spotify.com/artist/1PeS3QND0gDk8tLtyQg4NL) | [Luna Llena](https://open.spotify.com/album/4hInLhxtl2xGXS5FIpPSNr) | 2:30 |
 | 100 | [Corazón Adentro \(Escorpio\)](https://open.spotify.com/track/10ehMz8cxmyxUjTrY35Op6) | [Bomba Estéreo](https://open.spotify.com/artist/5n9bMYfz9qss2VOW89EVs2), [Rawayana](https://open.spotify.com/artist/2AbQwU2cuEGfD465wCXlg2), [ASTROPICAL](https://open.spotify.com/artist/4PLRnJfNKiel5v2GEZPItz) | [ASTROPICAL](https://open.spotify.com/album/4dkik5WazJ0OoZHrdpbot8) | 2:56 |
 
-Snapshot ID: `AAAAAKHL06/OY6j25ACXa09x6jTOcVQJ`
+Snapshot ID: `AAAAAAXB+zwCPj4uvuSIAuXi/IOAzJbU`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/1nydLfizjzY84t5hAoc5ct.md) - [plain]
 
 > OffAxisTours.com \| Indie \| Folk \| Electro \| Rock \| Pop  \| NO autotune, AI or instrumental
 
-[newfoundsound](https://open.spotify.com/user/newfoundsound) - 1,427 likes - 140 songs - 7 hr 46 min
+[newfoundsound](https://open.spotify.com/user/newfoundsound) - 1,426 likes - 140 songs - 7 hr 46 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

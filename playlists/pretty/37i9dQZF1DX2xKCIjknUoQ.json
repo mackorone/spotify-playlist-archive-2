@@ -1,12 +1,12 @@
 {
   "description": "Le meilleur du rock fran\u00e7ais moderne. Photo : Last Train",
-  "num_followers": 220865,
+  "num_followers": 220874,
   "original_name": "G\u00e9n\u00e9ration Rock Fran\u00e7ais",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAMV4Y4H27Jbw1fNseTlKHIFt1YBP",
+  "snapshot_id": "AAAAAG8eKT6UOX7pFyUxLt/1HKw6Od8R",
   "tracks": [
     {
       "added_at": "2025-11-13 09:07:41",
@@ -299,22 +299,6 @@
     {
       "added_at": "2025-11-13 09:07:41",
       "album": {
-        "name": "Dolly (Edition Deluxe)",
-        "url": "https://open.spotify.com/album/1nzF8zJTQEtuqCkOhWdX1Y"
-      },
-      "artists": [
-        {
-          "name": "Dolly",
-          "url": "https://open.spotify.com/artist/7gjbBSAraXRXxOTAkmWWQn"
-        }
-      ],
-      "duration_ms": 283093,
-      "name": "Je n'veux pas rester sage",
-      "url": "https://open.spotify.com/track/1zPGduhDQB86IhxmK9uxaR"
-    },
-    {
-      "added_at": "2025-11-13 09:07:41",
-      "album": {
         "name": "Coming Out (Standard)",
         "url": "https://open.spotify.com/album/7k8ONKDSNThARwHLKnm2Tm"
       },
@@ -327,6 +311,22 @@
       "duration_ms": 232773,
       "name": "Le retour \u00e0 la terre",
       "url": "https://open.spotify.com/track/715zIQcEj658KTFby8MJYp"
+    },
+    {
+      "added_at": "2025-11-13 09:07:41",
+      "album": {
+        "name": "Dolly (Edition Deluxe)",
+        "url": "https://open.spotify.com/album/1nzF8zJTQEtuqCkOhWdX1Y"
+      },
+      "artists": [
+        {
+          "name": "Dolly",
+          "url": "https://open.spotify.com/artist/7gjbBSAraXRXxOTAkmWWQn"
+        }
+      ],
+      "duration_ms": 283093,
+      "name": "Je n'veux pas rester sage",
+      "url": "https://open.spotify.com/track/1zPGduhDQB86IhxmK9uxaR"
     },
     {
       "added_at": "2025-11-13 09:07:41",

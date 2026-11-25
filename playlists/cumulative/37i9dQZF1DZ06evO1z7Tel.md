@@ -4,7 +4,7 @@
 
 > This is Carlos Y Jose\. The essential tracks, all in one playlist.
 
-133 songs - 6 hr 36 min
+134 songs - 6 hr 40 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -34,7 +34,7 @@
 | [Corrido De Cruz Estrada Aka Crucillo Estrada](https://open.spotify.com/track/2fT6krdKBX5bWSm4mnsA3G) | [Carlos Y Jose](https://open.spotify.com/artist/2IRfUbSEqoOzedNHXVD1Xb) | [Es Imposible](https://open.spotify.com/album/459tUpIpt2G8td6hbszxCY) | 2:48 | 2023-12-23 |  |
 | [Corrido De Gabino](https://open.spotify.com/track/6bkpivmltOd4bvG8WKWQuv) | [Carlos Y Jose](https://open.spotify.com/artist/2IRfUbSEqoOzedNHXVD1Xb) | [Corridos Norteños Con Carlos Y José](https://open.spotify.com/album/0tkrAv4a7Cad5wqrBc1V0Z) | 2:36 | 2026-03-12 |  |
 | [Cuenta Cobrada](https://open.spotify.com/track/4UytravBJOMST6t7qoa31Z) | [Carlos Y Jose](https://open.spotify.com/artist/2IRfUbSEqoOzedNHXVD1Xb) | [Por Nuestro Bien](https://open.spotify.com/album/6vu03Cw5oDyd3rS4cmsB1a) | 3:13 | 2025-04-07 | 2025-11-16 |
-| [Cuenta Cobrado](https://open.spotify.com/track/6aMIefsSZSiZsRyXjLnKoV) | [Carlos Y Jose](https://open.spotify.com/artist/2IRfUbSEqoOzedNHXVD1Xb) | [Noches Eternas](https://open.spotify.com/album/5pk5NixB6iYy7OJp7syRPL) | 3:13 | 2026-09-08 |  |
+| [Cuenta Cobrado](https://open.spotify.com/track/6aMIefsSZSiZsRyXjLnKoV) | [Carlos Y Jose](https://open.spotify.com/artist/2IRfUbSEqoOzedNHXVD1Xb) | [Noches Eternas](https://open.spotify.com/album/5pk5NixB6iYy7OJp7syRPL) | 3:13 | 2026-09-08 | 2026-11-25 |
 | [Dados Cargados](https://open.spotify.com/track/0BmbH5Lhlj2r1JtiNo8ADn) | [Carlos Y Jose](https://open.spotify.com/artist/2IRfUbSEqoOzedNHXVD1Xb) | [15 Éxitos De \(Vol\. 2\)](https://open.spotify.com/album/7LDBCeInFVYwylBAC3mqpW) | 2:40 | 2022-08-13 | 2026-04-24 |
 | [Dados Cargados](https://open.spotify.com/track/0wkoc68QhXWw3YjkkBZ3AE) | [Carlos Y Jose](https://open.spotify.com/artist/2IRfUbSEqoOzedNHXVD1Xb) | [Me Voy De Estas Tierras](https://open.spotify.com/album/1wdXQGOKGS3ihbtKKASPc3) | 2:41 | 2026-04-25 |  |
 | [Dados Cargados](https://open.spotify.com/track/2V9lolR3rDL9wf1961MDMt) | [Carlos Y Jose](https://open.spotify.com/artist/2IRfUbSEqoOzedNHXVD1Xb) | [Coleccion Superma Plus\- Carlos Y Jose](https://open.spotify.com/album/2K2mjjkSyQp0Ote1B3aCaY) | 2:43 | 2022-06-01 | 2022-08-14 |
@@ -100,6 +100,7 @@
 | [Juanita y Miguel](https://open.spotify.com/track/1hBvx69jOTLHYPPmKMZ55O) | [Carlos Y Jose](https://open.spotify.com/artist/2IRfUbSEqoOzedNHXVD1Xb) | [Los 15 Mejores Corridos de Carlos y Jose, Vol\. 1](https://open.spotify.com/album/3bmUCbODBolcXg0WjaGvk2) | 2:46 | 2022-06-01 | 2023-03-12 |
 | [La Amapola](https://open.spotify.com/track/1urkLh3lci1vMfMJOUc2y2) | [Carlos Y Jose](https://open.spotify.com/artist/2IRfUbSEqoOzedNHXVD1Xb) | [30 Años De Cabalgata Norteña](https://open.spotify.com/album/6EZ3nnXkoSIm45sPCSMWrW) | 2:57 | 2022-08-31 | 2022-09-06 |
 | [La Cosecha](https://open.spotify.com/track/1E1jCVbLh580fnsy6f9qO2) | [Carlos Y Jose](https://open.spotify.com/artist/2IRfUbSEqoOzedNHXVD1Xb) | [15 Éxitos De \(Vol\. 2\)](https://open.spotify.com/album/7LDBCeInFVYwylBAC3mqpW) | 3:14 | 2022-06-01 | 2025-11-27 |
+| [La Cosecha](https://open.spotify.com/track/5XIQHYRvkT4wnznsbbwYhV) | [Carlos Y Jose](https://open.spotify.com/artist/2IRfUbSEqoOzedNHXVD1Xb) | [Norteñas De Corazón 20 Exitos](https://open.spotify.com/album/2RUgpSKWqoXr7uQvLgmYGF) | 3:17 | 2026-11-25 |  |
 | [La Cuerva De La Petaca](https://open.spotify.com/track/2oCE2kA2Nx20OrtJDjoc4B) | [Carlos Y Jose](https://open.spotify.com/artist/2IRfUbSEqoOzedNHXVD1Xb) | [Corridos De Lujo](https://open.spotify.com/album/62O0ZTLYhSPhG2RSUsQJPZ) | 3:39 | 2026-10-23 |  |
 | [La Cuerva De La Petaca](https://open.spotify.com/track/3bqvOniJGpeHcildrbB1TQ) | [Carlos Y Jose](https://open.spotify.com/artist/2IRfUbSEqoOzedNHXVD1Xb) | [15 Claves En Corrido](https://open.spotify.com/album/3M4A3npKRXpMB14aZXh8B7) | 3:39 | 2025-04-04 | 2025-05-07 |
 | [La Cuerva De La Petaca](https://open.spotify.com/track/5ZkChrkppdAUnav4LDxVZ5) | [Carlos Y Jose](https://open.spotify.com/artist/2IRfUbSEqoOzedNHXVD1Xb) | [Corridos De Lujo](https://open.spotify.com/album/1mgpi8kIeS9Vz8Fa9W0tbh) | 3:39 | 2025-05-07 | 2026-10-23 |

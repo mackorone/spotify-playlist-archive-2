@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSiyIBdVQrkk.md) - [plain]
 
 > The best in classic and contemporary Reggae\. Cover: Original Koffee, for <a href=spotify:playlist:37i9dQZF1DX0rM1NjYKMJa> Carnival Sounds Live 2026.</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 2,106,562 likes - 110 songs - 7 hr 0 min
+[Spotify](https://open.spotify.com/user/spotify) - 2,106,380 likes - 110 songs - 7 hr 0 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -39,8 +39,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSiyIBdVQrkk.md) - [plain]
 | 29 | [One Day](https://open.spotify.com/track/5JlqbEj7Bbh2RdZgcO5kJE) | [Matisyahu](https://open.spotify.com/artist/5eyMzR1hYiEZtN2c9ly2kw) | [Light](https://open.spotify.com/album/6V4eAv3rPLeQhAO8RnOKFs) | 3:27 |
 | 30 | [Rock Away](https://open.spotify.com/track/2RlVyAjLnGJQYp7uzpfUta) | [Beres Hammond](https://open.spotify.com/artist/2ruMkdO4e1tJWDHsYSEtxr) | [Music Is Life](https://open.spotify.com/album/3IySm9LueCi3FKBNexYOh6) | 3:59 |
 | 31 | [Youth Dem Cold](https://open.spotify.com/track/4VoYv3ByzeEEIb8YEOT2rg) | [Richie Spice](https://open.spotify.com/artist/3PqSrKPGZXefu4krgFCZSP) | [In The Streets To Africa](https://open.spotify.com/album/0scr0WIAfItBBbefIYqvuc) | 3:45 |
-| 32 | [All Of Me](https://open.spotify.com/track/6cZRY3VaE6FeiMPHpaTvq0) | [Jah Cure](https://open.spotify.com/artist/1bSn5aMcE83TXLlLDU9rTy) | [The Cure](https://open.spotify.com/album/58fLSvm42vx4tNK9o3hhpU) | 4:39 |
-| 33 | [Smile Jamaica](https://open.spotify.com/track/7KhQx2EJaZIPGsbMAjf4jg) | [Chronixx](https://open.spotify.com/artist/2oZcMYiKpjaA2Et5mU3RPP) | [Chronology](https://open.spotify.com/album/1w71axmi9UJfsKCdEqGdNm) | 3:33 |
+| 32 | [Smile Jamaica](https://open.spotify.com/track/7KhQx2EJaZIPGsbMAjf4jg) | [Chronixx](https://open.spotify.com/artist/2oZcMYiKpjaA2Et5mU3RPP) | [Chronology](https://open.spotify.com/album/1w71axmi9UJfsKCdEqGdNm) | 3:33 |
+| 33 | [All Of Me](https://open.spotify.com/track/6cZRY3VaE6FeiMPHpaTvq0) | [Jah Cure](https://open.spotify.com/artist/1bSn5aMcE83TXLlLDU9rTy) | [The Cure](https://open.spotify.com/album/58fLSvm42vx4tNK9o3hhpU) | 4:39 |
 | 34 | [Love And Affection](https://open.spotify.com/track/4o6ZuLYr04LqFQNiSGVK4u) | [Pressure Busspipe](https://open.spotify.com/artist/61meTZVdfRrHMotU1AJipD) | [Reggae Gold 2007](https://open.spotify.com/album/4SPmILNzFDI8pwcj6VSr9X) | 4:18 |
 | 35 | [Kingston Town](https://open.spotify.com/track/3yDxEMaxtUATqs22VgqzTu) | [UB40](https://open.spotify.com/artist/69MEO1AADKg1IZrq2XLzo5) | [Labour Of Love I & II](https://open.spotify.com/album/5Rl7hIIz0a2O6qQNEeHBV3) | 3:51 |
 | 36 | [Natty Rebel \- Remaster 1990](https://open.spotify.com/track/5FgdPuK51WBYhuMhV0XIBg) | [U\-Roy](https://open.spotify.com/artist/4aCH6cwaYahrWfJWqfEfra) | [Natty Rebel \(Extra Version\)](https://open.spotify.com/album/6HTLFNdjeW75Am1fKMHGyZ) | 3:31 |
@@ -51,7 +51,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSiyIBdVQrkk.md) - [plain]
 | 41 | [Zungguzungguguzungguzeng](https://open.spotify.com/track/4czopM9AcLjrH4IunzRoBg) | [Yellowman](https://open.spotify.com/artist/6yTNMMqumesCWhMJ47HB2a) | [Most Wanted: The Best of King Yellowman](https://open.spotify.com/album/7nPRCptBHN7td5mKb6ON3N) | 6:27 |
 | 42 | [Old Sunrise](https://open.spotify.com/track/3IZVcI4XBomuSZTF6CBd28) | [Stick Figure](https://open.spotify.com/artist/5SXEylV07TC57eanSxxg4R) | [Wisdom](https://open.spotify.com/album/447C0uIwKJY0AXGkR6Bfa1) | 5:23 |
 | 43 | [Missing You](https://open.spotify.com/track/5BkEtAa7LHwm5qs2vLegX3) | [Sanchez](https://open.spotify.com/artist/6550dJCDSrZ8Cv6IDAjHpf) | [Missing You](https://open.spotify.com/album/3688VgiRVASa05x5FHEmc9) | 3:22 |
-| 44 | [It's A Pity](https://open.spotify.com/track/46oKpr00CmuPJGvPZ3y9uk) | [Tanya Stephens](https://open.spotify.com/artist/0vL0HKEtNHGobKmDNarMFQ) | [Tanya...Collection Of Hits](https://open.spotify.com/album/0jeZIxOER2j9RbJqokIwja) | 4:13 |
+| 44 | [It's A Pity](https://open.spotify.com/track/46oKpr00CmuPJGvPZ3y9uk) | [Tanya Stephens](https://open.spotify.com/artist/0vL0HKEtNHGobKmDNarMFQ) | [Tanya...Collection Of Hits](https://open.spotify.com/album/0jeZIxOER2j9RbJqokIwja) | 4:14 |
 | 45 | [King Without a Crown \- Live at Stubb's, Austin, TX \- February 2005](https://open.spotify.com/track/6yalDzJGNoUQ2qSDlAdqU8) | [Matisyahu](https://open.spotify.com/artist/5eyMzR1hYiEZtN2c9ly2kw) | [Live at Stubb's](https://open.spotify.com/album/6kfMhZYXTwm9HGMJuLl7HO) | 4:48 |
 | 46 | [Cool Runnings](https://open.spotify.com/track/70A4fwnfHIok2WsdKY7X0P) | [Duane Stephenson](https://open.spotify.com/artist/4jdHfc4ZIDd7RYn1reuDg2) | [Dangerously Roots \- Journey From August Town](https://open.spotify.com/album/49dwhhUPqqjIbfPfVoRIc2) | 3:54 |
 | 47 | [Lady In Red](https://open.spotify.com/track/5OJ3X6sG29MQH3FgeYg66k) | [Busy Signal](https://open.spotify.com/artist/4RfTXjK9aiiIKDaKUHpL57) | [Lady In Red](https://open.spotify.com/album/4e7IXAGjHgtqDAALVF75cn) | 3:54 |
@@ -119,4 +119,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSiyIBdVQrkk.md) - [plain]
 | 109 | [Turn Your Lights Down Low](https://open.spotify.com/track/1ILZVxd4FCgURhwRRNKQ85) | [Bob Marley](https://open.spotify.com/artist/6BH2lormtpjy3X9DyrGHVj), [Ms\. Lauryn Hill](https://open.spotify.com/artist/2Mu5NfyYm8n5iTomuKAEHl) | [Chant Down Babylon](https://open.spotify.com/album/3P9TIaf3gZfBhIIUpAqbBD) | 5:46 |
 | 110 | [Waiting In Vain](https://open.spotify.com/track/7FILn9Akg2468HPNsRZCkq) | [Bob Marley & The Wailers](https://open.spotify.com/artist/2QsynagSdAqZj3U9HgDzjD) | [Legend \(The Definitive Remasters\)](https://open.spotify.com/album/4qsXcmAgPNSliu6oMQGOQ9) | 4:16 |
 
-Snapshot ID: `AAAAABNpFKCWdLB8sf1MvZTWKr8gv0T+`
+Snapshot ID: `AAAAAHM3TOrjOo0dPLH07olJQ+vp6UO7`

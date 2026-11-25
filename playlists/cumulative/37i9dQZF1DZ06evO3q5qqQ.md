@@ -4,7 +4,7 @@
 
 > This is Grupo Arriesgado\. The essential tracks, all in one playlist.
 
-178 songs - 8 hr 38 min
+179 songs - 8 hr 40 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -17,6 +17,7 @@
 | [Ayer & Hoy](https://open.spotify.com/track/3Z8dLMmpusKUZNLotCMH0V) | [Grupo Arriesgado](https://open.spotify.com/artist/5NUPPRjsbXHNyVDrUESYeh) | [Ayer & Hoy](https://open.spotify.com/album/6R0IH7A8RtsCl3HXOI7aiR) | 2:35 | 2026-07-26 |  |
 | [Belico El Asunto \(En Vivo\)](https://open.spotify.com/track/7kIDShjwKNfhXv1dNfT9ec) | [Codiciado](https://open.spotify.com/artist/0IoWUuXfqpkfpxBRzthHU4), [Grupo Arriesgado](https://open.spotify.com/artist/5NUPPRjsbXHNyVDrUESYeh) | [Belico El Asunto \(En Vivo\)](https://open.spotify.com/album/2cfOMyHwOEIOVWiOjYB5OS) | 3:28 | 2024-01-29 |  |
 | [Bien Belicones \(En vivo\)](https://open.spotify.com/track/6PAUJwzFJgtL6eFZzcg6Ne) | [Grupo Arriesgado](https://open.spotify.com/artist/5NUPPRjsbXHNyVDrUESYeh), [Tony Aguirre](https://open.spotify.com/artist/6twEaJ9RPRYiCmWapjG8xh) | [Bien Belicones \(En vivo\)](https://open.spotify.com/album/0lroHqTkfmsxY3OYhRWZda) | 2:30 | 2024-01-29 | 2025-09-16 |
+| [Bien Belicones \- En vivo](https://open.spotify.com/track/6EK8NOcU0D8vEHLF645n2F) | [Grupo Arriesgado](https://open.spotify.com/artist/5NUPPRjsbXHNyVDrUESYeh), [Tony Aguirre](https://open.spotify.com/artist/6twEaJ9RPRYiCmWapjG8xh) | [Bien Belicones \(En vivo\)](https://open.spotify.com/album/7e9iwAbMcl1KN58AX5nqUK) | 2:30 | 2026-11-25 |  |
 | [Bloqueada](https://open.spotify.com/track/472neU5v6nPCe81cPaiZOT) | [Grupo Arriesgado](https://open.spotify.com/artist/5NUPPRjsbXHNyVDrUESYeh), [Tony Aguirre](https://open.spotify.com/artist/6twEaJ9RPRYiCmWapjG8xh) | [Resiliencia](https://open.spotify.com/album/2UEVtNtjdV9m8GXYVLm7Ve) | 2:58 | 2025-11-01 | 2025-11-14 |
 | [Borracho](https://open.spotify.com/track/0B9tQdZqaVy9RyDuvGz0eD) | [Pepe Walker](https://open.spotify.com/artist/77R9hp0RJqY3frwTqmQLGZ), [Grupo Arriesgado](https://open.spotify.com/artist/5NUPPRjsbXHNyVDrUESYeh) | [Borracho](https://open.spotify.com/album/3SEZaNsO6qhifPCLyaQgkU) | 2:57 | 2025-12-01 | 2026-03-30 |
 | [Celos Del Viento \(En vivo\)](https://open.spotify.com/track/0tg8RppkhrRC972fm380kd) | [Grupo Arriesgado](https://open.spotify.com/artist/5NUPPRjsbXHNyVDrUESYeh) | [Pistiando Con Mi Tata, Vol\. 1 \(En Vivo\)](https://open.spotify.com/album/05uudYnuSJPNR6tFefx699) | 2:47 | 2024-01-29 | 2026-04-22 |
@@ -156,7 +157,7 @@
 | [Pese A Quien Le Pese](https://open.spotify.com/track/2Pvx5MfPEzmDUNjnq9GFjP) | [Grupo Arriesgado](https://open.spotify.com/artist/5NUPPRjsbXHNyVDrUESYeh) | [Pese A Quien Le Pese](https://open.spotify.com/album/6cnEHJEveEigJeAZIUQrQ4) | 1:44 | 2024-01-29 | 2024-02-04 |
 | [Prohibido \(En vivo\)](https://open.spotify.com/track/1WBk7QTwuuFbBnSCEEpk8D) | [Grupo Arriesgado](https://open.spotify.com/artist/5NUPPRjsbXHNyVDrUESYeh), [Los Populares Del Llano](https://open.spotify.com/artist/5ZZ2zIylJkPJVKZDVwW29B) | [Jalando La Bandona \(En Vivo\)](https://open.spotify.com/album/1XOu9hIZACtCfv5XyK7Ns7) | 2:52 | 2024-01-29 | 2026-04-21 |
 | [Prohibido \(feat\. Los Populares del Llano\) \- En Vivo](https://open.spotify.com/track/5JBqC2isnLsXdv1otoJuyl) | [Grupo Arriesgado](https://open.spotify.com/artist/5NUPPRjsbXHNyVDrUESYeh), [Los Populares Del Llano](https://open.spotify.com/artist/5ZZ2zIylJkPJVKZDVwW29B) | [Jalando La Bandona \(feat\. Los Populares del Llano\) \[En Vivo\]](https://open.spotify.com/album/73JejPFzvxbgBDxUAH54Z0) | 2:52 | 2026-04-21 | 2026-05-18 |
-| [Prohibido \- En vivo](https://open.spotify.com/track/1qGPyiu4WWIp3sc4jfQeO8) | [Grupo Arriesgado](https://open.spotify.com/artist/5NUPPRjsbXHNyVDrUESYeh), [Los Populares Del Llano](https://open.spotify.com/artist/5ZZ2zIylJkPJVKZDVwW29B) | [Jalando La Bandona \(En Vivo\)](https://open.spotify.com/album/7Hvlt44BchPib2I0DEc45E) | 2:52 | 2026-05-18 |  |
+| [Prohibido \- En vivo](https://open.spotify.com/track/1qGPyiu4WWIp3sc4jfQeO8) | [Grupo Arriesgado](https://open.spotify.com/artist/5NUPPRjsbXHNyVDrUESYeh), [Los Populares Del Llano](https://open.spotify.com/artist/5ZZ2zIylJkPJVKZDVwW29B) | [Jalando La Bandona \(En Vivo\)](https://open.spotify.com/album/7Hvlt44BchPib2I0DEc45E) | 2:52 | 2026-05-18 | 2026-11-25 |
 | [Que Chulada](https://open.spotify.com/track/401D4uoDg8e2PmWLhXfic1) | [Grupo Arriesgado](https://open.spotify.com/artist/5NUPPRjsbXHNyVDrUESYeh) | [Que Chulada](https://open.spotify.com/album/05y6633FW9WAlIsZR3Z7c6) | 2:38 | 2024-12-01 |  |
 | [Que las Cuartitos No Falten](https://open.spotify.com/track/1J5y2EFPoqlUp995jiMiD9) | [Grupo Arriesgado](https://open.spotify.com/artist/5NUPPRjsbXHNyVDrUESYeh) | [Que Las Cuartitos No Falten](https://open.spotify.com/album/2gdVut9gbjgP5m6puh7QK3) | 2:59 | 2024-01-29 | 2026-02-25 |
 | [Que las Cuartitos No Falten](https://open.spotify.com/track/22ROpSqeUipP6zWucqTLMa) | [Grupo Arriesgado](https://open.spotify.com/artist/5NUPPRjsbXHNyVDrUESYeh) | [Que Las Cuartitos No Falten](https://open.spotify.com/album/3ZwmpO7idpLUzTvVeRkQbJ) | 2:59 | 2026-04-21 | 2026-05-12 |

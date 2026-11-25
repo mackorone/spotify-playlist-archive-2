@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTvfFlvhiszK.md) - [plain]
 
 > Old school jams to kick nostalgia up a notch.
 
-[Spotify](https://open.spotify.com/user/spotify) - 24,063 likes - 50 songs - 4 hr 2 min
+[Spotify](https://open.spotify.com/user/spotify) - 24,068 likes - 50 songs - 4 hr 2 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTvfFlvhiszK.md) - [plain]
 | 49 | [Aso](https://open.spotify.com/track/0g1VSk3zf99q1ku5LLUaws) | [Reggie Zippy](https://open.spotify.com/artist/42pJWNBJ7CtAGFjmuPksEp), [Kwabena Kwabena](https://open.spotify.com/artist/6zKu61RG80pBKOMUbBKNMr) | [Ghana Old Skuul Mix](https://open.spotify.com/album/1XFPqApmPThTt8LEddI55m) | 5:49 |
 | 50 | [Anadwo Yede](https://open.spotify.com/track/7BcXZP856gok2P9nVp0hD6) | [KK Fosu](https://open.spotify.com/artist/3LJawO6XULI4SZT5dVHEYO) | [Ghana Old School HipLife Essentials](https://open.spotify.com/album/21puoieJiYxAfxXcjQtGmG) | 4:38 |
 
-Snapshot ID: `AAAAAE4pI6c5dZJWO7Bja/Ya6pW2EjDG`
+Snapshot ID: `AAAAAPc9X2KmUvIhlwC/3qVmurDOUptH`

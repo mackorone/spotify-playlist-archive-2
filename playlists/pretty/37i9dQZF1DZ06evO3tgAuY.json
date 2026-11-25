@@ -6,7 +6,7 @@
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "awIwgAAAAACAdC3EYw26jBStFntkK+D+",
+  "snapshot_id": "awOCAAAAAAAPT+yy5Asj1JfHbGncAhtb",
   "tracks": [
     {
       "added_at": null,
@@ -595,6 +595,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Mi Credo",
+        "url": "https://open.spotify.com/album/47h0H9ZyHTvncTvxU11zuY"
+      },
+      "artists": [
+        {
+          "name": "Alex Favela",
+          "url": "https://open.spotify.com/artist/5TcnuUD5MHBfd1cO4kweWD"
+        }
+      ],
+      "duration_ms": 127384,
+      "name": "Mi Credo",
+      "url": "https://open.spotify.com/track/5GitO3AT8NbzUQKcXRApLy"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Culichi Vibes",
         "url": "https://open.spotify.com/album/4Qb6M1XyHrgR4zwlyPs4bS"
       },
@@ -635,22 +651,6 @@
       "duration_ms": 181818,
       "name": "RUMBA",
       "url": "https://open.spotify.com/track/14d1byXmKewvxEp0VyZmuI"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Mi Credo",
-        "url": "https://open.spotify.com/album/47h0H9ZyHTvncTvxU11zuY"
-      },
-      "artists": [
-        {
-          "name": "Alex Favela",
-          "url": "https://open.spotify.com/artist/5TcnuUD5MHBfd1cO4kweWD"
-        }
-      ],
-      "duration_ms": 127384,
-      "name": "Mi Credo",
-      "url": "https://open.spotify.com/track/5GitO3AT8NbzUQKcXRApLy"
     },
     {
       "added_at": null,
@@ -871,22 +871,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Nadie Lo Hubiera Pensado",
-        "url": "https://open.spotify.com/album/3kQI0RMI9OZVg6jW3NOTJQ"
-      },
-      "artists": [
-        {
-          "name": "Alex Favela",
-          "url": "https://open.spotify.com/artist/5TcnuUD5MHBfd1cO4kweWD"
-        }
-      ],
-      "duration_ms": 149994,
-      "name": "Nadie Lo Hubiera Pensado",
-      "url": "https://open.spotify.com/track/6sXCqAsxAWBv1cjlNsZS2H"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Fama De Ingrata",
         "url": "https://open.spotify.com/album/0Gkerz0nQtgjTLhcwEVyqZ"
       },
@@ -903,6 +887,22 @@
       "duration_ms": 188666,
       "name": "Zendaya",
       "url": "https://open.spotify.com/track/0dTtxXu9BDh6PE7uwzpBZp"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Que Hice Mal",
+        "url": "https://open.spotify.com/album/07mzKlWxyriGNACSC9VUHI"
+      },
+      "artists": [
+        {
+          "name": "Alex Favela",
+          "url": "https://open.spotify.com/artist/5TcnuUD5MHBfd1cO4kweWD"
+        }
+      ],
+      "duration_ms": 205237,
+      "name": "Que Hice Mal",
+      "url": "https://open.spotify.com/track/6SvTX3foelQ3i38hNHLnaS"
     },
     {
       "added_at": null,
@@ -927,8 +927,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Que Hice Mal",
-        "url": "https://open.spotify.com/album/07mzKlWxyriGNACSC9VUHI"
+        "name": "Nadie Lo Hubiera Pensado",
+        "url": "https://open.spotify.com/album/3kQI0RMI9OZVg6jW3NOTJQ"
       },
       "artists": [
         {
@@ -936,29 +936,9 @@
           "url": "https://open.spotify.com/artist/5TcnuUD5MHBfd1cO4kweWD"
         }
       ],
-      "duration_ms": 205237,
-      "name": "Que Hice Mal",
-      "url": "https://open.spotify.com/track/6SvTX3foelQ3i38hNHLnaS"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "El Uno Al 7 (En Vivo)",
-        "url": "https://open.spotify.com/album/3ZQHJaeHx9bGyZIsRC8Abs"
-      },
-      "artists": [
-        {
-          "name": "Alex Favela",
-          "url": "https://open.spotify.com/artist/5TcnuUD5MHBfd1cO4kweWD"
-        },
-        {
-          "name": "Los Desvelados",
-          "url": "https://open.spotify.com/artist/0JqtmoAuCmkDrdfpHzBBW9"
-        }
-      ],
-      "duration_ms": 204826,
-      "name": "El Uno Al 7 - En Vivo",
-      "url": "https://open.spotify.com/track/6xTQCejd4DEUcJyEHl3Ahj"
+      "duration_ms": 149994,
+      "name": "Nadie Lo Hubiera Pensado",
+      "url": "https://open.spotify.com/track/6sXCqAsxAWBv1cjlNsZS2H"
     },
     {
       "added_at": null,
@@ -979,6 +959,26 @@
       "duration_ms": 169780,
       "name": "No Digas No",
       "url": "https://open.spotify.com/track/6GVXNywMiGRsVbVf46SxAZ"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "El Uno Al 7 (En Vivo)",
+        "url": "https://open.spotify.com/album/3ZQHJaeHx9bGyZIsRC8Abs"
+      },
+      "artists": [
+        {
+          "name": "Alex Favela",
+          "url": "https://open.spotify.com/artist/5TcnuUD5MHBfd1cO4kweWD"
+        },
+        {
+          "name": "Los Desvelados",
+          "url": "https://open.spotify.com/artist/0JqtmoAuCmkDrdfpHzBBW9"
+        }
+      ],
+      "duration_ms": 204826,
+      "name": "El Uno Al 7 - En Vivo",
+      "url": "https://open.spotify.com/track/6xTQCejd4DEUcJyEHl3Ahj"
     },
     {
       "added_at": null,

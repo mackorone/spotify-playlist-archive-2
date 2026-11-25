@@ -1,12 +1,12 @@
 {
   "description": "This is Megan Thee Stallion. The essential tracks, all in one playlist.",
-  "num_followers": 316788,
+  "num_followers": 316829,
   "original_name": "This Is Megan Thee Stallion",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "awIwgAAAAABSqTJ6mJzguEM3RSz3kimJ",
+  "snapshot_id": "awOCAAAAAADR8PKDnEDtiFeXfBWaluez",
   "tracks": [
     {
       "added_at": null,
@@ -771,22 +771,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "Mean Girls (Music From The Motion Picture)",
-        "url": "https://open.spotify.com/album/1LJWyyP756YVEeIRa6DU74"
+        "name": "Tina Snow",
+        "url": "https://open.spotify.com/album/26jEIrN7WSAnVQXXUmLRSN"
       },
       "artists": [
-        {
-          "name": "Rene\u00e9 Rapp",
-          "url": "https://open.spotify.com/artist/2hUYKu1x0UZQXvzCmggvSn"
-        },
         {
           "name": "Megan Thee Stallion",
           "url": "https://open.spotify.com/artist/181bsRPaVXVlUKXrxwZfHK"
         }
       ],
-      "duration_ms": 170528,
-      "name": "Not My Fault (with Megan Thee Stallion)",
-      "url": "https://open.spotify.com/track/18dlAFKaajLjRgBNZZ4ThU"
+      "duration_ms": 173798,
+      "name": "Freak Nasty",
+      "url": "https://open.spotify.com/track/4rd4bY5IzC4AN6NdgYGtWD"
     },
     {
       "added_at": null,
@@ -807,18 +803,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "Tina Snow",
-        "url": "https://open.spotify.com/album/26jEIrN7WSAnVQXXUmLRSN"
+        "name": "Mean Girls (Music From The Motion Picture)",
+        "url": "https://open.spotify.com/album/1LJWyyP756YVEeIRa6DU74"
       },
       "artists": [
+        {
+          "name": "Rene\u00e9 Rapp",
+          "url": "https://open.spotify.com/artist/2hUYKu1x0UZQXvzCmggvSn"
+        },
         {
           "name": "Megan Thee Stallion",
           "url": "https://open.spotify.com/artist/181bsRPaVXVlUKXrxwZfHK"
         }
       ],
-      "duration_ms": 173798,
-      "name": "Freak Nasty",
-      "url": "https://open.spotify.com/track/4rd4bY5IzC4AN6NdgYGtWD"
+      "duration_ms": 170528,
+      "name": "Not My Fault (with Megan Thee Stallion)",
+      "url": "https://open.spotify.com/track/18dlAFKaajLjRgBNZZ4ThU"
     },
     {
       "added_at": null,

@@ -2977,6 +2977,24 @@
     },
     {
       "album": {
+        "name": "Proof",
+        "url": "https://open.spotify.com/album/6al2VdKbb6FIz9d7lU7WRB"
+      },
+      "artists": [
+        {
+          "name": "BTS",
+          "url": "https://open.spotify.com/artist/3Nrfpe0tUJi4K4DXYWgMUX"
+        }
+      ],
+      "date_added": "2026-11-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 164952,
+      "name": "Butter",
+      "url": "https://open.spotify.com/track/6jjYDGxVJsWS0a5wlVF5vS"
+    },
+    {
+      "album": {
         "name": "Butter (Megan Thee Stallion Remix)",
         "url": "https://open.spotify.com/album/4VmlZdGnrtNpiCJFXplGrP"
       },
@@ -4784,7 +4802,7 @@
       ],
       "date_added": "2026-10-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-25",
       "duration_ms": 189986,
       "name": "DESERVE",
       "url": "https://open.spotify.com/track/7It5Iy4mnJWMhESt7qfipt"
@@ -7506,7 +7524,7 @@
       ],
       "date_added": "2026-03-21",
       "date_added_asterisk": false,
-      "date_removed": "2026-11-24",
+      "date_removed": null,
       "duration_ms": 180543,
       "name": "FYA",
       "url": "https://open.spotify.com/track/0KmrKOdScRDVYwWS8hkkdv"
@@ -28884,7 +28902,7 @@
       ],
       "date_added": "2024-09-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-25",
       "duration_ms": 238133,
       "name": "\u64f1\u6dfa",
       "url": "https://open.spotify.com/track/56mzU03ZesV0iRroHR2K04"

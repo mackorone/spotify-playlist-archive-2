@@ -10819,6 +10819,24 @@
     },
     {
       "album": {
+        "name": "Essay ep.4",
+        "url": "https://open.spotify.com/album/4vyJAxY5yOAqmMjedguEVY"
+      },
+      "artists": [
+        {
+          "name": "Jang Minho",
+          "url": "https://open.spotify.com/artist/2SeVOe0CXUEKtCq3BR5A0v"
+        }
+      ],
+      "date_added": "2026-11-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 231000,
+      "name": "Mountain, Life",
+      "url": "https://open.spotify.com/track/2T3dihXcl6YkNqmdH5QU6f"
+    },
+    {
+      "album": {
         "name": "Bongsungah school PART14",
         "url": "https://open.spotify.com/album/3Rmq4pcai47nT6G020fGDw"
       },

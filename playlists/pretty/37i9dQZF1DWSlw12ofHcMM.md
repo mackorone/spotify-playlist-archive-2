@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSlw12ofHcMM.md) - [plain]
 
 > bold tracks, serious swagger.
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,361,523 likes - 50 songs - 2 hr 56 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,361,489 likes - 50 songs - 2 hr 56 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -28,9 +28,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSlw12ofHcMM.md) - [plain]
 | 18 | [All on My Mind](https://open.spotify.com/track/5GRPAVCMwnUNvIOKzDYYSb) | [Anderson East](https://open.spotify.com/artist/5q6z6GTth6lMbL9I8CAgby) | [Encore](https://open.spotify.com/album/6EIlfHDKZxmDMjcaRbFj8d) | 3:44 |
 | 19 | [Glitter & Gold](https://open.spotify.com/track/1aJtyIMev4kW8IMUxOjn1Y) | [Barns Courtney](https://open.spotify.com/artist/5tFRohaO5yEsuJxmMnlCO9) | [The Dull Drums \- EP](https://open.spotify.com/album/4VK3Q5h20xhrakwpBnxDDf) | 2:56 |
 | 20 | [On the Road Again](https://open.spotify.com/track/1BQkVDlEOtYKOaotnJuNzz) | [Jack Broadbent](https://open.spotify.com/artist/2yk5jg6yi5fV6xmUZoBPHU) | [Along the Trail of Tears](https://open.spotify.com/album/6IcVeQFhXfXimexDoOYJoy) | 3:43 |
-| 21 | [Medicine Woman](https://open.spotify.com/track/3S9rZU1GDPhs8WNDv5HQSs) | [Robert Finley](https://open.spotify.com/artist/29mRqqZ15WaYjEsKNzcRkv) | [Goin' Platinum!](https://open.spotify.com/album/6M5DQTTp3zGaWOH6hXsYJV) | 2:37 |
+| 21 | [Bad Things](https://open.spotify.com/track/6FR7CxgunBBN1jYJxsX8uZ) | [Rayland Baxter](https://open.spotify.com/artist/251UrhgNbMr15NLzQ2KyKq) | [Ashkelon](https://open.spotify.com/album/2JZRyLhDpddo6XUwtb2ZJA) | 5:13 |
 | 22 | [Be](https://open.spotify.com/track/7hfi4ZTfV7akmGINh6qYCF) | [Hozier](https://open.spotify.com/artist/2FXC3k01G6Gw61bmprjgqS) | [Wasteland, Baby!](https://open.spotify.com/album/2c7gFThUYyo2t6ogAgIYNw) | 4:49 |
-| 23 | [Bad Things](https://open.spotify.com/track/6FR7CxgunBBN1jYJxsX8uZ) | [Rayland Baxter](https://open.spotify.com/artist/251UrhgNbMr15NLzQ2KyKq) | [Ashkelon](https://open.spotify.com/album/2JZRyLhDpddo6XUwtb2ZJA) | 5:13 |
+| 23 | [Medicine Woman](https://open.spotify.com/track/3S9rZU1GDPhs8WNDv5HQSs) | [Robert Finley](https://open.spotify.com/artist/29mRqqZ15WaYjEsKNzcRkv) | [Goin' Platinum!](https://open.spotify.com/album/6M5DQTTp3zGaWOH6hXsYJV) | 2:37 |
 | 24 | [Tell That Devil](https://open.spotify.com/track/4wU4XL8nX0we6MXgmFAmnh) | [Jill Andrews](https://open.spotify.com/artist/35VpsbV6V2NdfTeNZEbKfc) | [Tell That Devil](https://open.spotify.com/album/4SUzxP2sBgdjiogiNlbSaw) | 2:38 |
 | 25 | [Get Right Church](https://open.spotify.com/track/5qX4r5vT9bY8xMsiKuZhQn) | [Ben Miller Band](https://open.spotify.com/artist/692LYMl7s0bV6X3iduX5rG) | [Heavy Load](https://open.spotify.com/album/1BgJCVNqPuzwbGD0e27dCx) | 3:44 |
 | 26 | [Fire](https://open.spotify.com/track/3twEx52dboO1CqWu5x1i2h) | [Barns Courtney](https://open.spotify.com/artist/5tFRohaO5yEsuJxmMnlCO9) | [Fire](https://open.spotify.com/album/3zxPi455ceNpbN55gBMSIu) | 3:17 |
@@ -45,11 +45,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSlw12ofHcMM.md) - [plain]
 | 35 | [Troublemaker](https://open.spotify.com/track/1XDLcR3ykWZx7p0UmMoLKp) | [Devon Gilfillian](https://open.spotify.com/artist/5cbak2U6nZWXDYiG72E3lH) | [Troublemaker](https://open.spotify.com/album/4K2P5H65cGZMz9bFLPwCVd) | 3:32 |
 | 36 | [Avalanche](https://open.spotify.com/track/2J6FjuQNSU0tvcplhtl5AP) | [Torus](https://open.spotify.com/artist/2hAbK9kNETmY7FHExyadGM), [The Blue Stones](https://open.spotify.com/artist/5VPCIIfZPK8KPsgz4jmOEC) | [Avalanche](https://open.spotify.com/album/0DQe0tsjxE9yfB2dntQmUR) | 3:24 |
 | 37 | [Fancy Drones \(Fracture Me\)](https://open.spotify.com/track/1l9LNsjdOQ3Wfkmnsjetxj) | [Amythyst Kiah](https://open.spotify.com/artist/1lhaaKpTyXOnjp79M3xYBl) | [Wary + Strange](https://open.spotify.com/album/75g27i85SR6XYAXKRRfOda) | 3:37 |
-| 38 | [Beach Seduction \(feat\. Leah Wellbaum\)](https://open.spotify.com/track/6pd6XXS3cCOrLm0Ey7MDYD) | [The Picturebooks](https://open.spotify.com/artist/5L8u4AcYBOnxAtRrluOjKo), [Leah Wellbaum](https://open.spotify.com/artist/2IeRkiNiO3aibtTyAWntzp) | [The Major Minor Collective \(Bonus Track Edition\)](https://open.spotify.com/album/0zUSmhg6ccJjjMlR0T5j9j) | 4:16 |
-| 39 | [Trouble Finds You](https://open.spotify.com/track/1gwDIyATjLVi42oBsyUgyJ) | [Juliet Simms](https://open.spotify.com/artist/1hlXIybvN1I8r3ooBEkYRh) | [From the Grave](https://open.spotify.com/album/5DZwggP6PDtv9VMkAmpAsD) | 3:35 |
+| 38 | [Trouble Finds You](https://open.spotify.com/track/1gwDIyATjLVi42oBsyUgyJ) | [Juliet Simms](https://open.spotify.com/artist/1hlXIybvN1I8r3ooBEkYRh) | [From the Grave](https://open.spotify.com/album/5DZwggP6PDtv9VMkAmpAsD) | 3:35 |
+| 39 | [Beach Seduction \(feat\. Leah Wellbaum\)](https://open.spotify.com/track/6pd6XXS3cCOrLm0Ey7MDYD) | [The Picturebooks](https://open.spotify.com/artist/5L8u4AcYBOnxAtRrluOjKo), [Leah Wellbaum](https://open.spotify.com/artist/2IeRkiNiO3aibtTyAWntzp) | [The Major Minor Collective \(Bonus Track Edition\)](https://open.spotify.com/album/0zUSmhg6ccJjjMlR0T5j9j) | 4:16 |
 | 40 | [GREAT NIGHT \(feat\. Shovels & Rope\)](https://open.spotify.com/track/53xIMpFKswj3mqbPuiFJC0) | [NEEDTOBREATHE](https://open.spotify.com/artist/610EjgFatGvVPtib97jQ8G), [Shovels & Rope](https://open.spotify.com/artist/1M3BVQ36cqPQix8lQNCh4K) | [GREAT NIGHT \(feat\. Shovels & Rope\)](https://open.spotify.com/album/0DzSbOJZt5KxkQnTolpYgA) | 2:55 |
-| 41 | [Rocky](https://open.spotify.com/track/7gM0JRYTtThuGj7akmaEVE) | [The White Buffalo](https://open.spotify.com/artist/3ohcHMuUq1717s8AH17hfT) | [Love and the Death of Damnation](https://open.spotify.com/album/6h4xI9ztHRecvIT80mk8gW) | 3:57 |
-| 42 | [Smoke Rising](https://open.spotify.com/track/54d6U1U3Y74mDmJJECZNNQ) | [Brown Bird](https://open.spotify.com/artist/5zzbSFZMVpvxSlWAkqqtHP) | [Axis Mundi](https://open.spotify.com/album/1Br1pBqY2XH6L3cQpNUFLY) | 4:33 |
+| 41 | [Smoke Rising](https://open.spotify.com/track/54d6U1U3Y74mDmJJECZNNQ) | [Brown Bird](https://open.spotify.com/artist/5zzbSFZMVpvxSlWAkqqtHP) | [Axis Mundi](https://open.spotify.com/album/1Br1pBqY2XH6L3cQpNUFLY) | 4:33 |
+| 42 | [Rocky](https://open.spotify.com/track/7gM0JRYTtThuGj7akmaEVE) | [The White Buffalo](https://open.spotify.com/artist/3ohcHMuUq1717s8AH17hfT) | [Love and the Death of Damnation](https://open.spotify.com/album/6h4xI9ztHRecvIT80mk8gW) | 3:57 |
 | 43 | [Where We Are \- Edit](https://open.spotify.com/track/4ebNp6KQ4cUVeD3YSXcWTI) | [Curtis Harding](https://open.spotify.com/artist/0CUpzKPDfIVzYqMn47jiV3) | [Where We Are](https://open.spotify.com/album/7ckwltseCfQmCc7JvobNeE) | 3:58 |
 | 44 | [Wild Horses](https://open.spotify.com/track/5eN5nGmW92Iuzh77yM1Qd4) | [Mondo Cozmo](https://open.spotify.com/artist/7ybnRZKtRbWQzJfKyYSyh6) | [Wild Horses](https://open.spotify.com/album/5tZVK7vHvdmh3AOMr6X1dd) | 3:51 |
 | 45 | [Want](https://open.spotify.com/track/7BVRDaghQHyDqtRdjdMTsu) | [Kelsey Waters](https://open.spotify.com/artist/7rjqEDqvREzfmSP58SLYXT) | [Want](https://open.spotify.com/album/0QrNnavvkoA9dehE8N3sSQ) | 2:50 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSlw12ofHcMM.md) - [plain]
 | 49 | [Moonlight](https://open.spotify.com/track/14wY5SJ4WoyMi5GLVeew4c) | [Jeremiah Tall](https://open.spotify.com/artist/11mBQlqUJqZCgqLCKQdhSP) | [Where the Lore Began](https://open.spotify.com/album/3LaoH7HZsER4wBPApBiwa9) | 1:51 |
 | 50 | [Boy Got It Bad \(Live with the Charleston City Choir\)](https://open.spotify.com/track/2tu4dVYXtD9D0hUMEHidp9) | [KaiL Baxley](https://open.spotify.com/artist/3fV14PAU0MWFaj0Kt8MDWx) | [Sugar Cane Sessions](https://open.spotify.com/album/7aeXHOQbK5fBT58INAtCz0) | 2:52 |
 
-Snapshot ID: `AAAAABSfyYdqGbXI871krN5PlwN+fkP7`
+Snapshot ID: `AAAAAIOyY1y0sdW93lZEwFlG2TJlsBIS`

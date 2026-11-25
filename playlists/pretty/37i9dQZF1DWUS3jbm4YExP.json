@@ -1,12 +1,12 @@
 {
   "description": "Groovy sounds from around the world.",
-  "num_followers": 891906,
+  "num_followers": 891953,
   "original_name": "Global Groove",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAABuDzXO5Hjz/IA0UCImYyZQ2SnRn",
+  "snapshot_id": "AAAAAFpYvDD/Cm7Z6/zDO8E3OSKjJBEX",
   "tracks": [
     {
       "added_at": "2026-11-13 08:55:45",
@@ -1299,6 +1299,22 @@
     {
       "added_at": "2026-11-13 08:55:45",
       "album": {
+        "name": "Mount Matsu",
+        "url": "https://open.spotify.com/album/4pGx4kwa3nb51qACYJJkgB"
+      },
+      "artists": [
+        {
+          "name": "Yin Yin",
+          "url": "https://open.spotify.com/artist/2sLMYvxNmHIYNx6re1WUM2"
+        }
+      ],
+      "duration_ms": 324978,
+      "name": "Takahashi Timing",
+      "url": "https://open.spotify.com/track/07Waqz8Zkad6oM7dL4MNce"
+    },
+    {
+      "added_at": "2026-11-13 08:55:45",
+      "album": {
         "name": "Suco de Sol",
         "url": "https://open.spotify.com/album/6i0GabOxJdPoUrtUQGKGDh"
       },
@@ -1323,18 +1339,18 @@
     {
       "added_at": "2026-11-13 08:55:45",
       "album": {
-        "name": "Mount Matsu",
-        "url": "https://open.spotify.com/album/4pGx4kwa3nb51qACYJJkgB"
+        "name": "Ka Rica-Tar",
+        "url": "https://open.spotify.com/album/2Y1w4MWDnXvVaHavVnEbzg"
       },
       "artists": [
         {
-          "name": "Yin Yin",
-          "url": "https://open.spotify.com/artist/2sLMYvxNmHIYNx6re1WUM2"
+          "name": "Karl Hector & The Malcouns",
+          "url": "https://open.spotify.com/artist/1RrTQU4gM94QB6XWSBy8yB"
         }
       ],
-      "duration_ms": 324978,
-      "name": "Takahashi Timing",
-      "url": "https://open.spotify.com/track/07Waqz8Zkad6oM7dL4MNce"
+      "duration_ms": 195652,
+      "name": "Kingdom of D'mt",
+      "url": "https://open.spotify.com/track/15Cv0RFfDJQwAeZKcgQjrf"
     },
     {
       "added_at": "2026-11-13 08:55:45",
@@ -1351,22 +1367,6 @@
       "duration_ms": 340720,
       "name": "Nineteen Hundred and Eighty Five",
       "url": "https://open.spotify.com/track/65KrPjUkVnvUUfQaDGn6n7"
-    },
-    {
-      "added_at": "2026-11-13 08:55:45",
-      "album": {
-        "name": "Ka Rica-Tar",
-        "url": "https://open.spotify.com/album/2Y1w4MWDnXvVaHavVnEbzg"
-      },
-      "artists": [
-        {
-          "name": "Karl Hector & The Malcouns",
-          "url": "https://open.spotify.com/artist/1RrTQU4gM94QB6XWSBy8yB"
-        }
-      ],
-      "duration_ms": 195652,
-      "name": "Kingdom of D'mt",
-      "url": "https://open.spotify.com/track/15Cv0RFfDJQwAeZKcgQjrf"
     },
     {
       "added_at": "2026-11-13 08:55:45",
@@ -1731,26 +1731,6 @@
     {
       "added_at": "2026-11-13 08:55:45",
       "album": {
-        "name": "Koin\u00e8",
-        "url": "https://open.spotify.com/album/6PRXnH6Her6u85OU7j0GyN"
-      },
-      "artists": [
-        {
-          "name": "Pellegrino",
-          "url": "https://open.spotify.com/artist/7vCQ7NQVgCumcAWj8aaVow"
-        },
-        {
-          "name": "Zodyaco",
-          "url": "https://open.spotify.com/artist/33PuaySauEdkTeCaa3bOB1"
-        }
-      ],
-      "duration_ms": 231500,
-      "name": "Mario",
-      "url": "https://open.spotify.com/track/1EvKBtW2AE4vh6gkL0cw11"
-    },
-    {
-      "added_at": "2026-11-13 08:55:45",
-      "album": {
         "name": "Easy To Love",
         "url": "https://open.spotify.com/album/04asBtmK3GCvnjDvEVKefV"
       },
@@ -1767,6 +1747,26 @@
       "duration_ms": 240587,
       "name": "Easy To Love",
       "url": "https://open.spotify.com/track/7nDdoz7NIXvWArl6a0XhN0"
+    },
+    {
+      "added_at": "2026-11-13 08:55:45",
+      "album": {
+        "name": "Koin\u00e8",
+        "url": "https://open.spotify.com/album/6PRXnH6Her6u85OU7j0GyN"
+      },
+      "artists": [
+        {
+          "name": "Pellegrino",
+          "url": "https://open.spotify.com/artist/7vCQ7NQVgCumcAWj8aaVow"
+        },
+        {
+          "name": "Zodyaco",
+          "url": "https://open.spotify.com/artist/33PuaySauEdkTeCaa3bOB1"
+        }
+      ],
+      "duration_ms": 231500,
+      "name": "Mario",
+      "url": "https://open.spotify.com/track/1EvKBtW2AE4vh6gkL0cw11"
     },
     {
       "added_at": "2026-11-13 08:55:45",
@@ -1827,26 +1827,6 @@
     {
       "added_at": "2026-11-13 08:55:45",
       "album": {
-        "name": "Thonga Lami (Gaudi Remix)",
-        "url": "https://open.spotify.com/album/2rQLjfLvGU79IAD4eRBNhL"
-      },
-      "artists": [
-        {
-          "name": "BCUC",
-          "url": "https://open.spotify.com/artist/5CGnQOjeOoZW4a4FoPhUxW"
-        },
-        {
-          "name": "Gaudi",
-          "url": "https://open.spotify.com/artist/4VPauFDuyMnoakRnCPmcgP"
-        }
-      ],
-      "duration_ms": 351124,
-      "name": "Thonga Lami - Gaudi Remix",
-      "url": "https://open.spotify.com/track/5GR8F9LBYWOLbSe5eBTP5Y"
-    },
-    {
-      "added_at": "2026-11-13 08:55:45",
-      "album": {
         "name": "Mama",
         "url": "https://open.spotify.com/album/1ZvCj7rr10to6fz4dzGCgv"
       },
@@ -1867,6 +1847,26 @@
       "duration_ms": 304178,
       "name": "Mama - D\u00e9ni-Shain & Mister Francky Remix",
       "url": "https://open.spotify.com/track/0LoVuHRdOFBhT61crHWyIo"
+    },
+    {
+      "added_at": "2026-11-13 08:55:45",
+      "album": {
+        "name": "Thonga Lami (Gaudi Remix)",
+        "url": "https://open.spotify.com/album/2rQLjfLvGU79IAD4eRBNhL"
+      },
+      "artists": [
+        {
+          "name": "BCUC",
+          "url": "https://open.spotify.com/artist/5CGnQOjeOoZW4a4FoPhUxW"
+        },
+        {
+          "name": "Gaudi",
+          "url": "https://open.spotify.com/artist/4VPauFDuyMnoakRnCPmcgP"
+        }
+      ],
+      "duration_ms": 351124,
+      "name": "Thonga Lami - Gaudi Remix",
+      "url": "https://open.spotify.com/track/5GR8F9LBYWOLbSe5eBTP5Y"
     },
     {
       "added_at": "2026-11-13 08:55:45",
@@ -2011,22 +2011,6 @@
     {
       "added_at": "2026-11-13 08:55:45",
       "album": {
-        "name": "Can't Deny",
-        "url": "https://open.spotify.com/album/1peaO7KtUAfYM7mkKX1hVz"
-      },
-      "artists": [
-        {
-          "name": "Benni Ola",
-          "url": "https://open.spotify.com/artist/4q90901wzb3GPqUBKuhoRg"
-        }
-      ],
-      "duration_ms": 162477,
-      "name": "Can't Deny",
-      "url": "https://open.spotify.com/track/5iTy8oqFjqdNPY3QZxq0tS"
-    },
-    {
-      "added_at": "2026-11-13 08:55:45",
-      "album": {
         "name": "The Age of Aquarius",
         "url": "https://open.spotify.com/album/4hocimNA2HqHGJENlvTvws"
       },
@@ -2039,6 +2023,22 @@
       "duration_ms": 368108,
       "name": "Sh\u0113nzhou V.",
       "url": "https://open.spotify.com/track/0AULxj8PjVnPL8vuUGwVkb"
+    },
+    {
+      "added_at": "2026-11-13 08:55:45",
+      "album": {
+        "name": "Can't Deny",
+        "url": "https://open.spotify.com/album/1peaO7KtUAfYM7mkKX1hVz"
+      },
+      "artists": [
+        {
+          "name": "Benni Ola",
+          "url": "https://open.spotify.com/artist/4q90901wzb3GPqUBKuhoRg"
+        }
+      ],
+      "duration_ms": 162477,
+      "name": "Can't Deny",
+      "url": "https://open.spotify.com/track/5iTy8oqFjqdNPY3QZxq0tS"
     },
     {
       "added_at": "2026-11-13 08:55:45",
@@ -2103,22 +2103,6 @@
     {
       "added_at": "2026-11-13 08:55:45",
       "album": {
-        "name": "KB's Mixtape No. 2",
-        "url": "https://open.spotify.com/album/4Kf6c23vulrmowV1rj3iHP"
-      },
-      "artists": [
-        {
-          "name": "Karate Boogaloo",
-          "url": "https://open.spotify.com/artist/6D1VqVFh9yM5oARLleWNpQ"
-        }
-      ],
-      "duration_ms": 304333,
-      "name": "Juicy Fruit",
-      "url": "https://open.spotify.com/track/2K7h1g3vxQZEFPisYq0Qlv"
-    },
-    {
-      "added_at": "2026-11-13 08:55:45",
-      "album": {
         "name": "Tropics",
         "url": "https://open.spotify.com/album/1BnY0XdMPXBPzDXglO3tfG"
       },
@@ -2131,6 +2115,22 @@
       "duration_ms": 149745,
       "name": "Tropics",
       "url": "https://open.spotify.com/track/4EF3IusotKC8IoC1CuZFc5"
+    },
+    {
+      "added_at": "2026-11-13 08:55:45",
+      "album": {
+        "name": "KB's Mixtape No. 2",
+        "url": "https://open.spotify.com/album/4Kf6c23vulrmowV1rj3iHP"
+      },
+      "artists": [
+        {
+          "name": "Karate Boogaloo",
+          "url": "https://open.spotify.com/artist/6D1VqVFh9yM5oARLleWNpQ"
+        }
+      ],
+      "duration_ms": 304333,
+      "name": "Juicy Fruit",
+      "url": "https://open.spotify.com/track/2K7h1g3vxQZEFPisYq0Qlv"
     },
     {
       "added_at": "2026-11-13 08:55:45",
@@ -2295,22 +2295,6 @@
     {
       "added_at": "2026-11-13 08:55:45",
       "album": {
-        "name": "La N\u00famero Uno",
-        "url": "https://open.spotify.com/album/2qMKOE7IQlLOlFgXqoqwzW"
-      },
-      "artists": [
-        {
-          "name": "El Drag\u00f3n Criollo",
-          "url": "https://open.spotify.com/artist/2e5EPaxeuRZ8sMxElaiP2G"
-        }
-      ],
-      "duration_ms": 244403,
-      "name": "La N\u00famero Uno",
-      "url": "https://open.spotify.com/track/2U0oiUjN3BqsIAVEdTgqoy"
-    },
-    {
-      "added_at": "2026-11-13 08:55:45",
-      "album": {
         "name": "Encontrar",
         "url": "https://open.spotify.com/album/07rglBX8NImD5GFtEusVFs"
       },
@@ -2323,6 +2307,22 @@
       "duration_ms": 353109,
       "name": "Somos",
       "url": "https://open.spotify.com/track/6IUKavHeCTT13k7zS1KKCH"
+    },
+    {
+      "added_at": "2026-11-13 08:55:45",
+      "album": {
+        "name": "La N\u00famero Uno",
+        "url": "https://open.spotify.com/album/2qMKOE7IQlLOlFgXqoqwzW"
+      },
+      "artists": [
+        {
+          "name": "El Drag\u00f3n Criollo",
+          "url": "https://open.spotify.com/artist/2e5EPaxeuRZ8sMxElaiP2G"
+        }
+      ],
+      "duration_ms": 244403,
+      "name": "La N\u00famero Uno",
+      "url": "https://open.spotify.com/track/2U0oiUjN3BqsIAVEdTgqoy"
     },
     {
       "added_at": "2026-11-13 08:55:45",
@@ -2399,6 +2399,22 @@
     {
       "added_at": "2026-11-13 08:55:45",
       "album": {
+        "name": "Darker Than Blue",
+        "url": "https://open.spotify.com/album/3AHvkBPz12A5UAcDHfFvn7"
+      },
+      "artists": [
+        {
+          "name": "Devon Russell",
+          "url": "https://open.spotify.com/artist/5qpAbHQfFzjfDhHRTTMwkz"
+        }
+      ],
+      "duration_ms": 235706,
+      "name": "Move on Up",
+      "url": "https://open.spotify.com/track/3LIy6dd3MYDjtS2AuIWB9h"
+    },
+    {
+      "added_at": "2026-11-13 08:55:45",
+      "album": {
         "name": "iZem Remixes",
         "url": "https://open.spotify.com/album/7w4HYQplaz3uezp8tUm9hf"
       },
@@ -2415,22 +2431,6 @@
       "duration_ms": 272221,
       "name": "L'origine du Monde - iZem Remix",
       "url": "https://open.spotify.com/track/1gfWtL0rEJwEJwyfaInfgu"
-    },
-    {
-      "added_at": "2026-11-13 08:55:45",
-      "album": {
-        "name": "Darker Than Blue",
-        "url": "https://open.spotify.com/album/3AHvkBPz12A5UAcDHfFvn7"
-      },
-      "artists": [
-        {
-          "name": "Devon Russell",
-          "url": "https://open.spotify.com/artist/5qpAbHQfFzjfDhHRTTMwkz"
-        }
-      ],
-      "duration_ms": 235706,
-      "name": "Move on Up",
-      "url": "https://open.spotify.com/track/3LIy6dd3MYDjtS2AuIWB9h"
     },
     {
       "added_at": "2026-11-13 08:55:45",
@@ -2483,42 +2483,6 @@
     {
       "added_at": "2026-11-13 08:55:45",
       "album": {
-        "name": "Mentallogenic",
-        "url": "https://open.spotify.com/album/6yIJxxHYflUXbspDdrrJym"
-      },
-      "artists": [
-        {
-          "name": "Alex Figueira",
-          "url": "https://open.spotify.com/artist/1KKpoCjkEc0b0vAuiMe2uT"
-        }
-      ],
-      "duration_ms": 259933,
-      "name": "Silky",
-      "url": "https://open.spotify.com/track/7oelcLcMEvuvcr8AOqNFdm"
-    },
-    {
-      "added_at": "2026-11-13 08:55:45",
-      "album": {
-        "name": "Ombak, Ombak",
-        "url": "https://open.spotify.com/album/4BuWyOgJi2Yooy0JrE0HUP"
-      },
-      "artists": [
-        {
-          "name": "Charif Megarbane",
-          "url": "https://open.spotify.com/artist/3251WMUEVLhM2xvYlpkyG4"
-        },
-        {
-          "name": "Ali",
-          "url": "https://open.spotify.com/artist/6NNWuImyEhZANj6R2JnDwZ"
-        }
-      ],
-      "duration_ms": 199250,
-      "name": "Ombak, Ombak",
-      "url": "https://open.spotify.com/track/3QXXfiedawWWQQUljBwh75"
-    },
-    {
-      "added_at": "2026-11-13 08:55:45",
-      "album": {
         "name": "Space Echo (Analog Africa No. 20)",
         "url": "https://open.spotify.com/album/58gj8oagDeV8xq7ZWPaWNz"
       },
@@ -2531,6 +2495,22 @@
       "duration_ms": 276981,
       "name": "Dia Ja Manche",
       "url": "https://open.spotify.com/track/4DZ8RCTKx5swCemyBYcgaH"
+    },
+    {
+      "added_at": "2026-11-13 08:55:45",
+      "album": {
+        "name": "Mentallogenic",
+        "url": "https://open.spotify.com/album/6yIJxxHYflUXbspDdrrJym"
+      },
+      "artists": [
+        {
+          "name": "Alex Figueira",
+          "url": "https://open.spotify.com/artist/1KKpoCjkEc0b0vAuiMe2uT"
+        }
+      ],
+      "duration_ms": 259933,
+      "name": "Silky",
+      "url": "https://open.spotify.com/track/7oelcLcMEvuvcr8AOqNFdm"
     },
     {
       "added_at": "2026-11-13 08:55:45",
@@ -2555,18 +2535,22 @@
     {
       "added_at": "2026-11-13 08:55:45",
       "album": {
-        "name": "Back To Bahia",
-        "url": "https://open.spotify.com/album/7EtY3NqhDQ4XAqZg5l06Zd"
+        "name": "Ombak, Ombak",
+        "url": "https://open.spotify.com/album/4BuWyOgJi2Yooy0JrE0HUP"
       },
       "artists": [
         {
-          "name": "John Beltran",
-          "url": "https://open.spotify.com/artist/0si3qPiSptTnVbdGByVAMd"
+          "name": "Charif Megarbane",
+          "url": "https://open.spotify.com/artist/3251WMUEVLhM2xvYlpkyG4"
+        },
+        {
+          "name": "Ali",
+          "url": "https://open.spotify.com/artist/6NNWuImyEhZANj6R2JnDwZ"
         }
       ],
-      "duration_ms": 326986,
-      "name": "Entardecer",
-      "url": "https://open.spotify.com/track/2E3J6m0Q4uyKC2eMVonWfC"
+      "duration_ms": 199250,
+      "name": "Ombak, Ombak",
+      "url": "https://open.spotify.com/track/3QXXfiedawWWQQUljBwh75"
     },
     {
       "added_at": "2026-11-13 08:55:45",
@@ -2583,6 +2567,22 @@
       "duration_ms": 269859,
       "name": "M'akoma Nnwom",
       "url": "https://open.spotify.com/track/1FkQaRUsKY4Ele0UcYF0bG"
+    },
+    {
+      "added_at": "2026-11-13 08:55:45",
+      "album": {
+        "name": "Back To Bahia",
+        "url": "https://open.spotify.com/album/7EtY3NqhDQ4XAqZg5l06Zd"
+      },
+      "artists": [
+        {
+          "name": "John Beltran",
+          "url": "https://open.spotify.com/artist/0si3qPiSptTnVbdGByVAMd"
+        }
+      ],
+      "duration_ms": 326986,
+      "name": "Entardecer",
+      "url": "https://open.spotify.com/track/2E3J6m0Q4uyKC2eMVonWfC"
     },
     {
       "added_at": "2026-11-13 08:55:45",
@@ -2619,22 +2619,26 @@
     {
       "added_at": "2026-11-13 08:55:45",
       "album": {
-        "name": "Magnolia Tree",
-        "url": "https://open.spotify.com/album/0s8skAYOKtD2M7r6X9LptB"
+        "name": "Canette",
+        "url": "https://open.spotify.com/album/3bFbLHjl3kb0DZYtrNWOt5"
       },
       "artists": [
         {
-          "name": "Pale Jay",
-          "url": "https://open.spotify.com/artist/7H3z77VbkJcCcFilmKqKNM"
+          "name": "Pat Kalla",
+          "url": "https://open.spotify.com/artist/3qOrdMiR9VBKS6MIlDH4Aj"
         },
         {
-          "name": "Dahi",
-          "url": "https://open.spotify.com/artist/5BozIJTTNCufaZpjhy2der"
+          "name": "Le Super Mojo",
+          "url": "https://open.spotify.com/artist/5gS8DfFU8NYsqLiuZ96bHd"
+        },
+        {
+          "name": "Bosq",
+          "url": "https://open.spotify.com/artist/2tpbLTmBZZcGvcCHX6uw1U"
         }
       ],
-      "duration_ms": 168837,
-      "name": "Magnolia Tree",
-      "url": "https://open.spotify.com/track/3rQWK48enFpN2cAWtrU813"
+      "duration_ms": 373515,
+      "name": "Canette - Bosq remix",
+      "url": "https://open.spotify.com/track/1lon4oPNClhPdQfPUui0SM"
     }
   ],
   "unique_name": "Global Groove",

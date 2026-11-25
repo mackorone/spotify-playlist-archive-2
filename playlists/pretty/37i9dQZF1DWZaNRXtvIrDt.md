@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZaNRXtvIrDt.md) - [plain]
 
 > A new world of alternative electronic music\. Cover: William Kiss
 
-[Spotify](https://open.spotify.com/user/spotify) - 128,350 likes - 50 songs - 3 hr 32 min
+[Spotify](https://open.spotify.com/user/spotify) - 128,336 likes - 50 songs - 3 hr 32 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -32,8 +32,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZaNRXtvIrDt.md) - [plain]
 | 22 | [Mantra](https://open.spotify.com/track/6FRKbLeBePLS0KTZqhVMgR) | [Shygirl](https://open.spotify.com/artist/3M3wTTCDwicRubwMyHyEDy) | [Mantra](https://open.spotify.com/album/3y2isq1rsZQLsjXSjIwFBL) | 3:05 |
 | 23 | [Old' On](https://open.spotify.com/track/38zrbBzmIUC4OPL2NUBx4n) | [JACK MARLOW](https://open.spotify.com/artist/5qIDbjJ9VyV3eogXzEA6H3) | [Tastes Like The 90s](https://open.spotify.com/album/0IZhc4XwdP5S3HADTrddV1) | 3:21 |
 | 24 | [Your Shadow at Morning \- Four Tet Rework](https://open.spotify.com/track/4Y4U1NdAExAYEqYALEgWU2) | [The Durutti Column](https://open.spotify.com/artist/7fh7bwX9qV60tLxxsp9bTe), [Four Tet](https://open.spotify.com/artist/7Eu1txygG6nJttLHbZdQOh) | [Your Shadow at Morning \(Four Tet Rework\)](https://open.spotify.com/album/1JZdNabvsqLfrMcOYRlybS) | 9:37 |
-| 25 | [Make a Wish](https://open.spotify.com/track/0G2cq0o0vlcb0qHbjouDFf) | [Headache](https://open.spotify.com/artist/1iX0eIvL5iHnaDny7BBtWH), [Vegyn](https://open.spotify.com/artist/5iUnvXddCpOrbWKm7QMr6o) | [Make a Wish](https://open.spotify.com/album/1lg0RjkuYXjmVrJuG6EUJl) | 3:18 |
-| 26 | [78 To Stanley Bay](https://open.spotify.com/track/74LRqSi9vqy4vnxCLInNAw) | [Chaos In The CBD](https://open.spotify.com/artist/0QOQc6jEsPX5Y45TV0hXQy), [Isaac Aesili](https://open.spotify.com/artist/3zEfsUok55Gll9L0YN2YOE) | [816 To Nunhead](https://open.spotify.com/album/1OKJNHif5s5NzcScX4ac44) | 5:07 |
+| 25 | [78 To Stanley Bay](https://open.spotify.com/track/74LRqSi9vqy4vnxCLInNAw) | [Chaos In The CBD](https://open.spotify.com/artist/0QOQc6jEsPX5Y45TV0hXQy), [Isaac Aesili](https://open.spotify.com/artist/3zEfsUok55Gll9L0YN2YOE) | [816 To Nunhead](https://open.spotify.com/album/1OKJNHif5s5NzcScX4ac44) | 5:07 |
+| 26 | [Make a Wish](https://open.spotify.com/track/0G2cq0o0vlcb0qHbjouDFf) | [Headache](https://open.spotify.com/artist/1iX0eIvL5iHnaDny7BBtWH), [Vegyn](https://open.spotify.com/artist/5iUnvXddCpOrbWKm7QMr6o) | [Make a Wish](https://open.spotify.com/album/1lg0RjkuYXjmVrJuG6EUJl) | 3:18 |
 | 27 | [Alyse](https://open.spotify.com/track/3KJ9LSGMl7vTZ1lHIP2CBZ) | [Shygirl](https://open.spotify.com/artist/3M3wTTCDwicRubwMyHyEDy) | [Alyse](https://open.spotify.com/album/3S4XqwT4tjFW1f6R1kmlo3) | 3:51 |
 | 28 | [you're a star](https://open.spotify.com/track/017erFbOyCrdz0yburnVGZ) | [Fred again..](https://open.spotify.com/artist/4oLeXFyACqeem2VImYeBFe), [Amyl and The Sniffers](https://open.spotify.com/artist/3NqV2DJoAWsjl787bWaHW7) | [you're a star](https://open.spotify.com/album/3dmu97DsoFpSptXPtJEzCJ) | 3:39 |
 | 29 | [Now U Do \- Edit](https://open.spotify.com/track/0fK4NmIDXetjIiZ2Oxz2tF) | [DJ Seinfeld](https://open.spotify.com/artist/37YzpfBeFju8QRZ3g0Ha1Q), [Confidence Man](https://open.spotify.com/artist/0RwXnFrEoI8tltFvYpJgP6) | [Now U Do](https://open.spotify.com/album/7k7TUZNKlDHu5MfSSCX8rR) | 2:38 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZaNRXtvIrDt.md) - [plain]
 | 49 | [The Right](https://open.spotify.com/track/6Rs9a5wCEYHviyHVIMa0Eb) | [DJ Seinfeld](https://open.spotify.com/artist/37YzpfBeFju8QRZ3g0Ha1Q), [Confidence Man](https://open.spotify.com/artist/0RwXnFrEoI8tltFvYpJgP6) | [The Right](https://open.spotify.com/album/4CyulwPn7kwxzAuVfKIGIE) | 3:54 |
 | 50 | [Back to Basics \(feat\. Skepta\) \(Floating Points Remix\)](https://open.spotify.com/track/7JvuiP16UTKCnieS9E2Bg3) | [Headie One](https://open.spotify.com/artist/6UCQYrcJ6wab6gnQ89OJFh), [Skepta](https://open.spotify.com/artist/2p1fiYHYiXz9qi0JJyxBzN), [Floating Points](https://open.spotify.com/artist/2AR42Ur9PcchQDtEdwkv4L) | [Back to Basics \(feat\. Skepta\) \(Floating Points Remix\)](https://open.spotify.com/album/5AqA9sP5nWY0Q4ysvpJOdo) | 3:49 |
 
-Snapshot ID: `AAAAAMH2F6ZjZpUypxjrbDtGhDuoB4Op`
+Snapshot ID: `AAAAAN9jX8Ra+SogpowR4XlSe/rvrx5X`

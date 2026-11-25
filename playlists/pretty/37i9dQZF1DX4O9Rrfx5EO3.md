@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4O9Rrfx5EO3.md) - [plain]
 
 > Music from "LoveLive! Series"「ラブライブ！シリーズ」の楽曲をプレイリストで。©2013 PL! ©2017 PL!S ©2024 PL!NM ©2024 PL!SP ©2026 PL!HS ©PL!SIM ©IKZL
 
-[Spotify](https://open.spotify.com/user/spotify) - 2,242 likes - 68 songs - 4 hr 46 min
+[Spotify](https://open.spotify.com/user/spotify) - 2,250 likes - 73 songs - 5 hr 6 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -63,18 +63,23 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4O9Rrfx5EO3.md) - [plain]
 | 53 | [Dou\-Da? DOING!](https://open.spotify.com/track/4RRq7urXYNuCv0B4OWntoj) | [いきづらい部！](https://open.spotify.com/artist/1zJfgB2BeMgTB3pXkgrg3P) | [Dou\-Da? DOING! / REGAIN AGAIN LLLLOVE](https://open.spotify.com/album/4bUp9nWOI00VJ76Ccp40UB) | 3:48 |
 | 54 | [REGAIN AGAIN LLLLOVE](https://open.spotify.com/track/0iBxSkmiCbVMHRdECIZg9y) | [いきづらい部！](https://open.spotify.com/artist/1zJfgB2BeMgTB3pXkgrg3P) | [Dou\-Da? DOING! / REGAIN AGAIN LLLLOVE](https://open.spotify.com/album/4bUp9nWOI00VJ76Ccp40UB) | 4:57 |
 | 55 | [SUPER SUMMER SENSATION!!](https://open.spotify.com/track/4KYdGsRXBJ0g1niWI6968Y) | [いきづらい部！](https://open.spotify.com/artist/1zJfgB2BeMgTB3pXkgrg3P) | [Dou\-Da? DOING! / REGAIN AGAIN LLLLOVE](https://open.spotify.com/album/4bUp9nWOI00VJ76Ccp40UB) | 3:23 |
-| 56 | [愛♡スクリ～ム！](https://open.spotify.com/track/2BBIUV8wIBbqc7HXObzdgH) | [AiScReam](https://open.spotify.com/artist/5cW1SVDUXXzsj3eFT7Gmta) | [愛♡スクリ～ム！](https://open.spotify.com/album/1l4SKYcXWUhCQ1jiasP9XZ) | 4:22 |
-| 57 | [ICE LIMIT](https://open.spotify.com/track/6MenoySDGSrOv3MDLpL3Pk) | [AiScReam](https://open.spotify.com/artist/5cW1SVDUXXzsj3eFT7Gmta) | [愛♡スクリ～ム！](https://open.spotify.com/album/1l4SKYcXWUhCQ1jiasP9XZ) | 3:44 |
-| 58 | [NEXT CARD](https://open.spotify.com/track/6rZlzao97RWwllySqCEsDw) | [AiScReam](https://open.spotify.com/artist/5cW1SVDUXXzsj3eFT7Gmta) | [NEXT CARD](https://open.spotify.com/album/6Y0QVClF7QrsHBvi3NMwO6) | 3:12 |
-| 59 | [未完成ドリーム！](https://open.spotify.com/track/2IsZWVCP0LGPtDEsRKDouu) | [スクールアイドルミュージカル](https://open.spotify.com/artist/6imsymLKQPmMWeEwrw3i55) | [未完成ドリーム！](https://open.spotify.com/album/70bJHR459CNziFwRud0LTD) | 3:57 |
-| 60 | [きらりひらり舞う桜](https://open.spotify.com/track/0Woj206cTMxm4FUTC3pzhK) | [スクールアイドルミュージカル](https://open.spotify.com/artist/6imsymLKQPmMWeEwrw3i55) | [スクールアイドルミュージカル](https://open.spotify.com/album/28sYusszRjvnFlYrVtQEfq) | 2:32 |
-| 61 | [あなたがセンター](https://open.spotify.com/track/748YmDTopDgyeZ0rOkvA7Z) | [スクールアイドルミュージカル](https://open.spotify.com/artist/6imsymLKQPmMWeEwrw3i55) | [スクールアイドルミュージカル](https://open.spotify.com/album/28sYusszRjvnFlYrVtQEfq) | 1:33 |
-| 62 | [夢見る世界](https://open.spotify.com/track/45lsthpz0Ys7a2hvVTYPmS) | [スクールアイドルミュージカル](https://open.spotify.com/artist/6imsymLKQPmMWeEwrw3i55) | [スクールアイドルミュージカル](https://open.spotify.com/album/28sYusszRjvnFlYrVtQEfq) | 7:13 |
-| 63 | [真っ白なキャンバス](https://open.spotify.com/track/3Kt1JJ4Os2xrJ6qRHNcG4T) | [スクールアイドルミュージカル](https://open.spotify.com/artist/6imsymLKQPmMWeEwrw3i55) | [スクールアイドルミュージカル](https://open.spotify.com/album/28sYusszRjvnFlYrVtQEfq) | 2:43 |
-| 64 | [君と見る夢 \- 文化祭 Ver.](https://open.spotify.com/track/5ufitNsEZgXDQSkN2SlcO4) | [スクールアイドルミュージカル](https://open.spotify.com/artist/6imsymLKQPmMWeEwrw3i55) | [スクールアイドルミュージカル](https://open.spotify.com/album/28sYusszRjvnFlYrVtQEfq) | 3:57 |
-| 65 | [ゆめの羅針盤 \(コンパス\) \- 文化祭 Ver.](https://open.spotify.com/track/7zKE6XhoyEjFkIMPAkqcNj) | [スクールアイドルミュージカル](https://open.spotify.com/artist/6imsymLKQPmMWeEwrw3i55) | [スクールアイドルミュージカル](https://open.spotify.com/album/28sYusszRjvnFlYrVtQEfq) | 2:48 |
-| 66 | [今すぐはじめよ！](https://open.spotify.com/track/0PMGWTHay21eTrAaOugROe) | [スクールアイドルミュージカル](https://open.spotify.com/artist/6imsymLKQPmMWeEwrw3i55) | [椿滝桜女学院高等学校スクールアイドル部 後夜祭アルバム！](https://open.spotify.com/album/6fw18RXMWwf8ULmuALNITE) | 2:24 |
-| 67 | [意識し合うとか惹かれ合うとか](https://open.spotify.com/track/2C5g8qgE3LKMLTyGnS0Ekx) | [スクールアイドルミュージカル](https://open.spotify.com/artist/6imsymLKQPmMWeEwrw3i55) | [椿滝桜女学院高等学校スクールアイドル部 後夜祭アルバム！](https://open.spotify.com/album/6fw18RXMWwf8ULmuALNITE) | 4:01 |
-| 68 | [夢はドコカラ](https://open.spotify.com/track/6WO2yH01MJhapgAPUbCOKx) | [スクールアイドルミュージカル](https://open.spotify.com/artist/6imsymLKQPmMWeEwrw3i55) | [椿滝桜女学院高等学校スクールアイドル部 後夜祭アルバム！](https://open.spotify.com/album/6fw18RXMWwf8ULmuALNITE) | 3:24 |
+| 56 | [Tale of Primavera](https://open.spotify.com/track/1bjgfDrpl5UA3aBNRMdEnp) | [いきづらい部！](https://open.spotify.com/artist/1zJfgB2BeMgTB3pXkgrg3P) | [いきづらい部！ あつまれユニットソング！ vol.1 \(Complete Edition\)](https://open.spotify.com/album/3e5ATiEpQEncup71CEPZaU) | 4:24 |
+| 57 | [凸凹Quartet](https://open.spotify.com/track/3TZoVhuZYsJxMtDyMVSPn8) | [いきづらい部！](https://open.spotify.com/artist/1zJfgB2BeMgTB3pXkgrg3P), [CHAKI!](https://open.spotify.com/artist/0g2001aGU44TSxDP5KSQBk) | [いきづらい部！ あつまれユニットソング！ vol.1 \(Complete Edition\)](https://open.spotify.com/album/3e5ATiEpQEncup71CEPZaU) | 4:03 |
+| 58 | [シンメトリー](https://open.spotify.com/track/0UWqP1bMuAohLGABNbwv1X) | [いきづらい部！](https://open.spotify.com/artist/1zJfgB2BeMgTB3pXkgrg3P), [Mi×Nori=Tea](https://open.spotify.com/artist/2WpIrXxPqUBwLglDlzk10F) | [いきづらい部！ あつまれユニットソング！ vol.1 \(Complete Edition\)](https://open.spotify.com/album/3e5ATiEpQEncup71CEPZaU) | 3:52 |
+| 59 | [Daitan Party Time](https://open.spotify.com/track/23v6BqWsltBxe3qB6ljE5p) | [いきづらい部！](https://open.spotify.com/artist/1zJfgB2BeMgTB3pXkgrg3P), [Plumina](https://open.spotify.com/artist/1kojgIS1ml3Fk0ehu3PTF0) | [いきづらい部！ あつまれユニットソング！ vol.1 \(Complete Edition\)](https://open.spotify.com/album/3e5ATiEpQEncup71CEPZaU) | 4:17 |
+| 60 | [Silent Stella](https://open.spotify.com/track/4lGpQy74xRhCCkrAkWHI48) | [いきづらい部！](https://open.spotify.com/artist/1zJfgB2BeMgTB3pXkgrg3P), [SH1ON](https://open.spotify.com/artist/2apYbGvkcmbNpEMH6KCJNJ) | [いきづらい部！ あつまれユニットソング！ vol.1 \(Complete Edition\)](https://open.spotify.com/album/3e5ATiEpQEncup71CEPZaU) | 3:34 |
+| 61 | [愛♡スクリ～ム！](https://open.spotify.com/track/2BBIUV8wIBbqc7HXObzdgH) | [AiScReam](https://open.spotify.com/artist/5cW1SVDUXXzsj3eFT7Gmta) | [愛♡スクリ～ム！](https://open.spotify.com/album/1l4SKYcXWUhCQ1jiasP9XZ) | 4:22 |
+| 62 | [ICE LIMIT](https://open.spotify.com/track/6MenoySDGSrOv3MDLpL3Pk) | [AiScReam](https://open.spotify.com/artist/5cW1SVDUXXzsj3eFT7Gmta) | [愛♡スクリ～ム！](https://open.spotify.com/album/1l4SKYcXWUhCQ1jiasP9XZ) | 3:44 |
+| 63 | [NEXT CARD](https://open.spotify.com/track/6rZlzao97RWwllySqCEsDw) | [AiScReam](https://open.spotify.com/artist/5cW1SVDUXXzsj3eFT7Gmta) | [NEXT CARD](https://open.spotify.com/album/6Y0QVClF7QrsHBvi3NMwO6) | 3:12 |
+| 64 | [未完成ドリーム！](https://open.spotify.com/track/2IsZWVCP0LGPtDEsRKDouu) | [スクールアイドルミュージカル](https://open.spotify.com/artist/6imsymLKQPmMWeEwrw3i55) | [未完成ドリーム！](https://open.spotify.com/album/70bJHR459CNziFwRud0LTD) | 3:57 |
+| 65 | [きらりひらり舞う桜](https://open.spotify.com/track/0Woj206cTMxm4FUTC3pzhK) | [スクールアイドルミュージカル](https://open.spotify.com/artist/6imsymLKQPmMWeEwrw3i55) | [スクールアイドルミュージカル](https://open.spotify.com/album/28sYusszRjvnFlYrVtQEfq) | 2:32 |
+| 66 | [あなたがセンター](https://open.spotify.com/track/748YmDTopDgyeZ0rOkvA7Z) | [スクールアイドルミュージカル](https://open.spotify.com/artist/6imsymLKQPmMWeEwrw3i55) | [スクールアイドルミュージカル](https://open.spotify.com/album/28sYusszRjvnFlYrVtQEfq) | 1:33 |
+| 67 | [夢見る世界](https://open.spotify.com/track/45lsthpz0Ys7a2hvVTYPmS) | [スクールアイドルミュージカル](https://open.spotify.com/artist/6imsymLKQPmMWeEwrw3i55) | [スクールアイドルミュージカル](https://open.spotify.com/album/28sYusszRjvnFlYrVtQEfq) | 7:13 |
+| 68 | [真っ白なキャンバス](https://open.spotify.com/track/3Kt1JJ4Os2xrJ6qRHNcG4T) | [スクールアイドルミュージカル](https://open.spotify.com/artist/6imsymLKQPmMWeEwrw3i55) | [スクールアイドルミュージカル](https://open.spotify.com/album/28sYusszRjvnFlYrVtQEfq) | 2:43 |
+| 69 | [君と見る夢 \- 文化祭 Ver.](https://open.spotify.com/track/5ufitNsEZgXDQSkN2SlcO4) | [スクールアイドルミュージカル](https://open.spotify.com/artist/6imsymLKQPmMWeEwrw3i55) | [スクールアイドルミュージカル](https://open.spotify.com/album/28sYusszRjvnFlYrVtQEfq) | 3:57 |
+| 70 | [ゆめの羅針盤 \(コンパス\) \- 文化祭 Ver.](https://open.spotify.com/track/7zKE6XhoyEjFkIMPAkqcNj) | [スクールアイドルミュージカル](https://open.spotify.com/artist/6imsymLKQPmMWeEwrw3i55) | [スクールアイドルミュージカル](https://open.spotify.com/album/28sYusszRjvnFlYrVtQEfq) | 2:48 |
+| 71 | [今すぐはじめよ！](https://open.spotify.com/track/0PMGWTHay21eTrAaOugROe) | [スクールアイドルミュージカル](https://open.spotify.com/artist/6imsymLKQPmMWeEwrw3i55) | [椿滝桜女学院高等学校スクールアイドル部 後夜祭アルバム！](https://open.spotify.com/album/6fw18RXMWwf8ULmuALNITE) | 2:24 |
+| 72 | [意識し合うとか惹かれ合うとか](https://open.spotify.com/track/2C5g8qgE3LKMLTyGnS0Ekx) | [スクールアイドルミュージカル](https://open.spotify.com/artist/6imsymLKQPmMWeEwrw3i55) | [椿滝桜女学院高等学校スクールアイドル部 後夜祭アルバム！](https://open.spotify.com/album/6fw18RXMWwf8ULmuALNITE) | 4:01 |
+| 73 | [夢はドコカラ](https://open.spotify.com/track/6WO2yH01MJhapgAPUbCOKx) | [スクールアイドルミュージカル](https://open.spotify.com/artist/6imsymLKQPmMWeEwrw3i55) | [椿滝桜女学院高等学校スクールアイドル部 後夜祭アルバム！](https://open.spotify.com/album/6fw18RXMWwf8ULmuALNITE) | 3:24 |
 
-Snapshot ID: `AAAAALPZRzomDFOreYR2bnlm5JrgNbea`
+Snapshot ID: `AAAAAOV6qSdDCouEvH3IOJf5fqof8Ej4`

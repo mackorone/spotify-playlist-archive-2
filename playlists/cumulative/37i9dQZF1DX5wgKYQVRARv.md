@@ -2,7 +2,7 @@
 
 ### [Progressive Metal](https://open.spotify.com/playlist/37i9dQZF1DX5wgKYQVRARv)
 
-> New and recent favorites of Progressive Metal\. Cover: TesseracT
+> New and recent favorites of Progressive Metal\. Cover: Enslaved
 
 898 songs - 3 day 5 hr 14 min
 

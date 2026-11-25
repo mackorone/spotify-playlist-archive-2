@@ -4,7 +4,7 @@
 
 > This is Patti Smith\. The essential tracks, all in one playlist.
 
-98 songs - 8 hr 1 min
+99 songs - 8 hr 13 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -27,11 +27,12 @@
 | [Break It Up](https://open.spotify.com/track/5UoBmpb4VHNBbKjxmL8WGe) | [Patti Smith](https://open.spotify.com/artist/0vYkHhJ48Bs3jWcvZXvOrP) | [Horses \(Legacy Edition\)](https://open.spotify.com/album/7xg7u99lilTCPbaRfnYuy6) | 4:01 | 2025-03-08 | 2025-11-02 |
 | [Break It Up](https://open.spotify.com/track/5zE0J5kDTbcQeMYnxRj0QY) | [Patti Smith](https://open.spotify.com/artist/0vYkHhJ48Bs3jWcvZXvOrP) | [Horses](https://open.spotify.com/album/0OeuSeP8wp8n8OuTqYb61C) | 4:04 | 2025-11-13 |  |
 | [Broken Flag](https://open.spotify.com/track/4aCBaCTzY7bnqMZnpVHYPH) | [Patti Smith](https://open.spotify.com/artist/0vYkHhJ48Bs3jWcvZXvOrP) | [Wave](https://open.spotify.com/album/5Azni9In90zMkWAFgWh6RE) | 4:55 | 2026-08-26 | 2026-08-28 |
-| [Capitol Letter \- From “The Hunger Games: Catching Fire" Soundtrack](https://open.spotify.com/track/6nFTOfz07bLtJWaAwLKYkF) | [Patti Smith](https://open.spotify.com/artist/0vYkHhJ48Bs3jWcvZXvOrP) | [The Hunger Games: Catching Fire \(Original Motion Picture Soundtrack / Deluxe Version\)](https://open.spotify.com/album/0SEBE7BfXHY4o9VQICoZOC) | 3:33 | 2026-08-26 |  |
+| [Capitol Letter \- From “The Hunger Games: Catching Fire" Soundtrack](https://open.spotify.com/track/6nFTOfz07bLtJWaAwLKYkF) | [Patti Smith](https://open.spotify.com/artist/0vYkHhJ48Bs3jWcvZXvOrP) | [The Hunger Games: Catching Fire \(Original Motion Picture Soundtrack / Deluxe Version\)](https://open.spotify.com/album/0SEBE7BfXHY4o9VQICoZOC) | 3:33 | 2026-08-26 | 2026-11-25 |
 | [Changing of the Guards](https://open.spotify.com/track/2NUDgu1fFrFHSKda4IErpr) | [Patti Smith](https://open.spotify.com/artist/0vYkHhJ48Bs3jWcvZXvOrP) | [Twelve](https://open.spotify.com/album/3hlHi5Mz5hRao09uUvT0ta) | 5:45 | 2025-05-11 |  |
 | [Changing of the Guards](https://open.spotify.com/track/6w6uf3E3yPgyFq6DmzI4nG) | [Patti Smith](https://open.spotify.com/artist/0vYkHhJ48Bs3jWcvZXvOrP) | [Twelve](https://open.spotify.com/album/2r4tFFrAv3tgLjmCl0rLeR) | 5:47 | 2025-03-08 | 2025-05-11 |
 | [Children Of Chernobyl](https://open.spotify.com/track/4cOv1iSkg0OTwndjY3ee8B) | [Soundwalk Collective](https://open.spotify.com/artist/3fo31cpxTYmcMT3m4A1RNC), [Patti Smith](https://open.spotify.com/artist/0vYkHhJ48Bs3jWcvZXvOrP) | [Children Of Chernobyl](https://open.spotify.com/album/0EknzyMtSPdEvHbgOt0Nmj) | 15:00 | 2025-03-13 | 2025-04-24 |
 | [Citizen Ship](https://open.spotify.com/track/3h95pVJF0P5cWBO6dNWqK8) | [Patti Smith](https://open.spotify.com/artist/0vYkHhJ48Bs3jWcvZXvOrP) | [Wave](https://open.spotify.com/album/5Azni9In90zMkWAFgWh6RE) | 5:12 | 2025-03-08 |  |
+| [Cry of The Lost](https://open.spotify.com/track/2MpmgRTU5euOWXr2fHfDiP) | [Soundwalk Collective](https://open.spotify.com/artist/3fo31cpxTYmcMT3m4A1RNC), [Patti Smith](https://open.spotify.com/artist/0vYkHhJ48Bs3jWcvZXvOrP) | [Cry of The Lost](https://open.spotify.com/album/3cuIfFagO6gCejCWC9nyEl) | 12:15 | 2026-11-25 |  |
 | [Dancing Barefoot](https://open.spotify.com/track/4kPSjEg8u1U4pg2dHHMmtf) | [Patti Smith](https://open.spotify.com/artist/0vYkHhJ48Bs3jWcvZXvOrP) | [Wave](https://open.spotify.com/album/5Azni9In90zMkWAFgWh6RE) | 4:16 | 2025-03-08 |  |
 | [Dead To The World](https://open.spotify.com/track/4mJvTXNFDhmUkUIpokZ314) | [Patti Smith](https://open.spotify.com/artist/0vYkHhJ48Bs3jWcvZXvOrP) | [Gone Again](https://open.spotify.com/album/00Oaqp3cDVtauWepC7cXfZ) | 4:17 | 2025-03-08 | 2025-08-13 |
 | [Distant Fingers](https://open.spotify.com/track/5fI00jX4cWUfCGpYvchDjR) | [Patti Smith](https://open.spotify.com/artist/0vYkHhJ48Bs3jWcvZXvOrP) | [Radio Ethiopia](https://open.spotify.com/album/7jmAoRWQ9qUXtRXUOW2agu) | 4:19 | 2025-03-08 |  |

@@ -1,12 +1,12 @@
 {
   "description": "\u05de\u05d0\u05d9\u05e0\u05d3\u05d9 \u05d5\u05e2\u05d3 \u05e8\u05d5\u05e7, \u05e7\u05d1\u05dc\u05d5 \u05d0\u05ea \u05d4\u05e9\u05d9\u05e8\u05d9\u05dd \u05d4\u05d9\u05e4\u05d9\u05dd \u05e9\u05dc \u05d4\u05e1\u05e6\u05e0\u05d4 \u05d4\u05d0\u05dc\u05d8\u05e8\u05e0\u05d8\u05d9\u05d1\u05d9\u05ea \u05d1\u05d9\u05e9\u05e8\u05d0\u05dc : \u05d1\u05e8\u05d9 \u05e1\u05d7\u05e8\u05d5\u05e3",
-  "num_followers": 34752,
+  "num_followers": 34758,
   "original_name": "\u05d4\u05d0\u05dc\u05d8\u05e8\u05e0\u05d8\u05d9\u05d1 \u05e9\u05dc \u05d9\u05e9\u05e8\u05d0\u05dc",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAJBwivOb+W48ZxYB1GfW9+5UjAYw",
+  "snapshot_id": "AAAAAK8zQnZIyzTgxtM6/OKaKwMYeF4Y",
   "tracks": [
     {
       "added_at": "2026-11-12 22:00:45",
@@ -251,22 +251,6 @@
     {
       "added_at": "2026-11-12 22:00:45",
       "album": {
-        "name": "\u05d4\u05db\u05dc \u05d8\u05d5\u05d1",
-        "url": "https://open.spotify.com/album/7zyivKsWsDRAIuhFQCGrYj"
-      },
-      "artists": [
-        {
-          "name": "Jimbo J",
-          "url": "https://open.spotify.com/artist/6ltKIf1bortd0DQbpgKdQu"
-        }
-      ],
-      "duration_ms": 188242,
-      "name": "\u05d9\u05d5\u05ea\u05e8 \u05de\u05d9\u05d3\u05d9",
-      "url": "https://open.spotify.com/track/2HYS3rLZrOD57DsxAgeTym"
-    },
-    {
-      "added_at": "2026-11-12 22:00:45",
-      "album": {
         "name": "\u05d4\u05e0\u05e4\u05d9\u05dc\u05d4",
         "url": "https://open.spotify.com/album/3vWFwZEmwXppnSL15bxLB1"
       },
@@ -279,6 +263,22 @@
       "duration_ms": 193909,
       "name": "\u05d4\u05e0\u05e4\u05d9\u05dc\u05d4",
       "url": "https://open.spotify.com/track/6tBVF2sMUZZqnFs4zvT1U1"
+    },
+    {
+      "added_at": "2026-11-12 22:00:45",
+      "album": {
+        "name": "\u05d4\u05db\u05dc \u05d8\u05d5\u05d1",
+        "url": "https://open.spotify.com/album/7zyivKsWsDRAIuhFQCGrYj"
+      },
+      "artists": [
+        {
+          "name": "Jimbo J",
+          "url": "https://open.spotify.com/artist/6ltKIf1bortd0DQbpgKdQu"
+        }
+      ],
+      "duration_ms": 188242,
+      "name": "\u05d9\u05d5\u05ea\u05e8 \u05de\u05d9\u05d3\u05d9",
+      "url": "https://open.spotify.com/track/2HYS3rLZrOD57DsxAgeTym"
     },
     {
       "added_at": "2026-11-12 22:00:45",
@@ -623,22 +623,6 @@
     {
       "added_at": "2026-11-12 22:00:45",
       "album": {
-        "name": "\u05e9\u05d7\u05d5\u05e8 \u05d6\u05d5\u05d4\u05e8",
-        "url": "https://open.spotify.com/album/0ygZBvSGFZVZZjiz8PQHgB"
-      },
-      "artists": [
-        {
-          "name": "Hila Ruach",
-          "url": "https://open.spotify.com/artist/24Rzfui4UwLMlhZcWYYk7P"
-        }
-      ],
-      "duration_ms": 340387,
-      "name": "\u05d0\u05d5\u05dc\u05d9 \u05d6\u05d4 \u05e0\u05d2\u05de\u05e8",
-      "url": "https://open.spotify.com/track/5E7oagaoSXn2O1d24JlfCh"
-    },
-    {
-      "added_at": "2026-11-12 22:00:45",
-      "album": {
         "name": "\u05dc\u05d9 \u05e2\u05d5\u05d3 \u05d9\u05e9 \u05d9\u05dd \u05d1\u05ea\u05d5\u05db\u05d9",
         "url": "https://open.spotify.com/album/1A7LZitYPUfoTPnvCeztKb"
       },
@@ -655,6 +639,22 @@
       "duration_ms": 205496,
       "name": "\u05d4\u05d1\u05e0\u05d9\u05d9\u05df \u05d4\u05d0\u05d7\u05e8\u05d5\u05df \u05d1\u05ea\u05dc \u05d0\u05d1\u05d9\u05d1",
       "url": "https://open.spotify.com/track/0CFizxIBQmArw9wLFDxpeE"
+    },
+    {
+      "added_at": "2026-11-12 22:00:45",
+      "album": {
+        "name": "\u05e9\u05d7\u05d5\u05e8 \u05d6\u05d5\u05d4\u05e8",
+        "url": "https://open.spotify.com/album/0ygZBvSGFZVZZjiz8PQHgB"
+      },
+      "artists": [
+        {
+          "name": "Hila Ruach",
+          "url": "https://open.spotify.com/artist/24Rzfui4UwLMlhZcWYYk7P"
+        }
+      ],
+      "duration_ms": 340387,
+      "name": "\u05d0\u05d5\u05dc\u05d9 \u05d6\u05d4 \u05e0\u05d2\u05de\u05e8",
+      "url": "https://open.spotify.com/track/5E7oagaoSXn2O1d24JlfCh"
     },
     {
       "added_at": "2026-11-12 22:00:45",
@@ -811,22 +811,6 @@
     {
       "added_at": "2026-11-12 22:00:45",
       "album": {
-        "name": "\u05d1\u05e1\u05d5\u05e3 \u05d4\u05dd \u05d4\u05e1\u05db\u05d9\u05de\u05d5",
-        "url": "https://open.spotify.com/album/5t7zbIvLJ6m39REiREuTkZ"
-      },
-      "artists": [
-        {
-          "name": "Amir Lev",
-          "url": "https://open.spotify.com/artist/405W8bax1d6ErtkwTg6siH"
-        }
-      ],
-      "duration_ms": 192576,
-      "name": "\u05e1\u05dc\u05d5\u05e0\u05d9\u05e7\u05d9",
-      "url": "https://open.spotify.com/track/1YRh2dIrZn70gHoInP6MXF"
-    },
-    {
-      "added_at": "2026-11-12 22:00:45",
-      "album": {
         "name": "\u05d9\u05d5\u05ea\u05e8 \u05de\u05d3\u05d9 \u05d1\u05d1\u05ea \u05d0\u05d7\u05ea",
         "url": "https://open.spotify.com/album/4NCqWhw52XSrUFUJRA02uo"
       },
@@ -839,6 +823,22 @@
       "duration_ms": 191474,
       "name": "\u05d9\u05d5\u05ea\u05e8 \u05de\u05d3\u05d9 \u05d1\u05d1\u05ea \u05d0\u05d7\u05ea",
       "url": "https://open.spotify.com/track/3t2GoEUZyLUeXogiQqzg5o"
+    },
+    {
+      "added_at": "2026-11-12 22:00:45",
+      "album": {
+        "name": "\u05d1\u05e1\u05d5\u05e3 \u05d4\u05dd \u05d4\u05e1\u05db\u05d9\u05de\u05d5",
+        "url": "https://open.spotify.com/album/5t7zbIvLJ6m39REiREuTkZ"
+      },
+      "artists": [
+        {
+          "name": "Amir Lev",
+          "url": "https://open.spotify.com/artist/405W8bax1d6ErtkwTg6siH"
+        }
+      ],
+      "duration_ms": 192576,
+      "name": "\u05e1\u05dc\u05d5\u05e0\u05d9\u05e7\u05d9",
+      "url": "https://open.spotify.com/track/1YRh2dIrZn70gHoInP6MXF"
     },
     {
       "added_at": "2026-11-12 22:00:45",

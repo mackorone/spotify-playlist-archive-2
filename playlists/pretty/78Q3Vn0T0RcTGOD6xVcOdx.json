@@ -6,7 +6,7 @@
     "name": "Nuvora",
     "url": "https://open.spotify.com/user/11141650175"
   },
-  "snapshot_id": "AAAC2s1pY9IxuyRM0Uk8dB/gIIX28fa8",
+  "snapshot_id": "AAAC34k9Q4s4rVanAgTO4uesC9wCZ4Mt",
   "tracks": [
     {
       "added_at": "2026-10-07 15:07:55",
@@ -1983,6 +1983,90 @@
       "duration_ms": 182500,
       "name": "Fuera de su tiempo",
       "url": "https://open.spotify.com/track/5Cj1B87X025rUBF6RjFJwx"
+    },
+    {
+      "added_at": "2026-11-24 13:01:40",
+      "album": {
+        "name": "Off The Pound",
+        "url": "https://open.spotify.com/album/3cEZ0o3ovQRYmP1qnepqAw"
+      },
+      "artists": [
+        {
+          "name": "Vance",
+          "url": "https://open.spotify.com/artist/11LpEjg6drv4G1kBItUSn6"
+        },
+        {
+          "name": "NSM Deebo",
+          "url": "https://open.spotify.com/artist/3lvTJMKR7uL9GcL7PMahvI"
+        }
+      ],
+      "duration_ms": 155724,
+      "name": "Off The Pound",
+      "url": "https://open.spotify.com/track/18RLsL4a9LzHRoa0KXXahA"
+    },
+    {
+      "added_at": "2026-11-24 13:04:50",
+      "album": {
+        "name": "Alaba Lambo",
+        "url": "https://open.spotify.com/album/7ChINoOG77zjPsHKDNLlqb"
+      },
+      "artists": [
+        {
+          "name": "ODG Beatz",
+          "url": "https://open.spotify.com/artist/70CBsq6ZZno3oSswWP5kIa"
+        }
+      ],
+      "duration_ms": 116869,
+      "name": "Alaba Lambo",
+      "url": "https://open.spotify.com/track/6MpZ69AOhelpMvhvbKC63A"
+    },
+    {
+      "added_at": "2026-11-24 13:06:23",
+      "album": {
+        "name": "The Weight",
+        "url": "https://open.spotify.com/album/4CYNSB9C1me7dJWyJI6jHC"
+      },
+      "artists": [
+        {
+          "name": "Delorean Time Warp",
+          "url": "https://open.spotify.com/artist/1HXPiQIZzvALL8NEDmpOcn"
+        }
+      ],
+      "duration_ms": 204930,
+      "name": "The Weight",
+      "url": "https://open.spotify.com/track/0CwuWOr6C9CnDT5PA0btDb"
+    },
+    {
+      "added_at": "2026-11-24 13:07:08",
+      "album": {
+        "name": "BURN IT DOWN",
+        "url": "https://open.spotify.com/album/1eoIc4usKkH5JA0NDh1OC9"
+      },
+      "artists": [
+        {
+          "name": "claudiomproduction",
+          "url": "https://open.spotify.com/artist/480q3vxyDiauwwnVnpav5Y"
+        }
+      ],
+      "duration_ms": 204056,
+      "name": "BURN IT DOWN",
+      "url": "https://open.spotify.com/track/1EzvOVlyaQhmBDIA3hQiTr"
+    },
+    {
+      "added_at": "2026-11-24 13:07:56",
+      "album": {
+        "name": "Tats\u0131z",
+        "url": "https://open.spotify.com/album/1zixNH9ctQSuezasOwJgvv"
+      },
+      "artists": [
+        {
+          "name": "\u00d6zg\u00fcr Yetgin",
+          "url": "https://open.spotify.com/artist/4VFWtBvDFnpZOAWPCfLKwq"
+        }
+      ],
+      "duration_ms": 277894,
+      "name": "Tats\u0131z",
+      "url": "https://open.spotify.com/track/1EhsXtvJjjFrTrRxxFww31"
     }
   ],
   "unique_name": "Top Hits 2026 \ud83d\udd25 Best Songs Right Now, Chart Hits, Pop & R&B Hits",

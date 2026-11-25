@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO45Aj3b.md) - [plain]
 
 > This is Dominic Fike\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 114,851 likes - 50 songs - 2 hr 5 min
+[Spotify](https://open.spotify.com/user/spotify) - 114,868 likes - 50 songs - 2 hr 5 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -19,8 +19,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO45Aj3b.md) - [plain]
 | 9 | [Why](https://open.spotify.com/track/1xLs8Mu1QEVbGCpyHQ2r2U) | [Dominic Fike](https://open.spotify.com/artist/6USv9qhCn6zfxlBQIYJ9qs) | [What Could Possibly Go Wrong](https://open.spotify.com/album/1BubKJqf6Uc4fNae5kLJJ7) | 2:19 |
 | 10 | [Love Hangover \(feat\. Dominic Fike\)](https://open.spotify.com/track/0rx7xu0RmZLpJjKNVZjSVv) | [JENNIE](https://open.spotify.com/artist/250b0Wlc5Vk0CoUsaCY84M), [Dominic Fike](https://open.spotify.com/artist/6USv9qhCn6zfxlBQIYJ9qs) | [Ruby](https://open.spotify.com/album/1vWMw6pu3err6qqZzI3RhH) | 3:00 |
 | 11 | [SQUEEZE](https://open.spotify.com/track/2xW7bASREYFI9hnoOtuKEv) | [Dominic Fike](https://open.spotify.com/artist/6USv9qhCn6zfxlBQIYJ9qs) | [HOW TO QUIT SMOKING](https://open.spotify.com/album/4JxUxYheA8Xs2dvEZTWsyg) | 2:04 |
-| 12 | [Phone Numbers](https://open.spotify.com/track/3f9Mzvd3URfbbIJBX4pz9Z) | [Dominic Fike](https://open.spotify.com/artist/6USv9qhCn6zfxlBQIYJ9qs), [Kenny Beats](https://open.spotify.com/artist/1rHOtdmGNr5vcYNw5v7QGC) | [Phone Numbers](https://open.spotify.com/album/6RhSCF1Z3g95Q1rZWqpUdT) | 2:26 |
-| 13 | [SMALL TOWN](https://open.spotify.com/track/3i1eMUF4POV3G1xkQIisoN) | [Dominic Fike](https://open.spotify.com/artist/6USv9qhCn6zfxlBQIYJ9qs), [Gabriel Jacoby](https://open.spotify.com/artist/05pLxSVIyZiQTqQnR4QQ9H), [Emma Ogier](https://open.spotify.com/artist/7lVBH2nQlHcpcU4RiY7izm) | [SMALL TOWN](https://open.spotify.com/album/5HWgZgMLGybC8F7RMHL7Y2) | 2:49 |
+| 12 | [SMALL TOWN](https://open.spotify.com/track/3i1eMUF4POV3G1xkQIisoN) | [Dominic Fike](https://open.spotify.com/artist/6USv9qhCn6zfxlBQIYJ9qs), [Gabriel Jacoby](https://open.spotify.com/artist/05pLxSVIyZiQTqQnR4QQ9H), [Emma Ogier](https://open.spotify.com/artist/7lVBH2nQlHcpcU4RiY7izm) | [SMALL TOWN](https://open.spotify.com/album/5HWgZgMLGybC8F7RMHL7Y2) | 2:49 |
+| 13 | [Phone Numbers](https://open.spotify.com/track/3f9Mzvd3URfbbIJBX4pz9Z) | [Dominic Fike](https://open.spotify.com/artist/6USv9qhCn6zfxlBQIYJ9qs), [Kenny Beats](https://open.spotify.com/artist/1rHOtdmGNr5vcYNw5v7QGC) | [Phone Numbers](https://open.spotify.com/album/6RhSCF1Z3g95Q1rZWqpUdT) | 2:26 |
 | 14 | [Frisky](https://open.spotify.com/track/3my33XXLpYUzVEeLOyftV2) | [Dominic Fike](https://open.spotify.com/artist/6USv9qhCn6zfxlBQIYJ9qs) | [Sunburn](https://open.spotify.com/album/2T7LuxZRr6SQMgABLtoYTH) | 1:55 |
 | 15 | [LILY WAS A CAVALIER](https://open.spotify.com/track/5ZzoyYAFQr3L0IBQTovBjy) | [Dominic Fike](https://open.spotify.com/artist/6USv9qhCn6zfxlBQIYJ9qs) | [HOW TO QUIT SMOKING](https://open.spotify.com/album/4JxUxYheA8Xs2dvEZTWsyg) | 2:11 |
 | 16 | [Westcoast Collective](https://open.spotify.com/track/7rNun2AyLu4u4rQpRt0iS9) | [Dominic Fike](https://open.spotify.com/artist/6USv9qhCn6zfxlBQIYJ9qs) | [Don't Forget About Me, Demos](https://open.spotify.com/album/05jbNkYoEQdjVDHEHtg1gY) | 1:47 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO45Aj3b.md) - [plain]
 | 49 | [Geezer](https://open.spotify.com/track/76jsGLoaUN5kgYglcACpvC) | [Kevin Abstract](https://open.spotify.com/artist/07EcmJpfAday8xGkslfanE), [Dominic Fike](https://open.spotify.com/artist/6USv9qhCn6zfxlBQIYJ9qs), [Geezer](https://open.spotify.com/artist/1Px3z0pAOyBLWpcFPb5VYH) | [Blush](https://open.spotify.com/album/59pGTYofVrG2K6Q12h7gm0) | 2:49 |
 | 50 | [One Glass](https://open.spotify.com/track/5cm8sMvF8qskWFUrDdDIhr) | [Dominic Fike](https://open.spotify.com/artist/6USv9qhCn6zfxlBQIYJ9qs) | [Rocket](https://open.spotify.com/album/3KKqjBV0QBcgfTErzdkEd3) | 1:29 |
 
-Snapshot ID: `awIwgAAAAADzIwXOF7h47BrnVWtkgwTk`
+Snapshot ID: `awOCAAAAAACVOAupCmjDw4dkAgy1PL9P`

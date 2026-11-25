@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXb5BKLTO7ULa.md) - [plain]
 
 > Nieuw: Zoë Livay, Kevin, Justen de Wildt, Dua Lipa, Kybba, Within Temptation & S10 en meer..
 
-[Spotify](https://open.spotify.com/user/spotify) - 302,900 likes - 100 songs - 5 hr 17 min
+[Spotify](https://open.spotify.com/user/spotify) - 302,886 likes - 100 songs - 5 hr 17 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -38,7 +38,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXb5BKLTO7ULa.md) - [plain]
 | 28 | [Love Language](https://open.spotify.com/track/2F2VcPy01p1rRUdvwnXMpc) | [Sugababes](https://open.spotify.com/artist/7rZNSLWMjTbwdLNskFbzFf) | [Love Language](https://open.spotify.com/album/1X6BLPFIeELLwBVwxYz2yD) | 3:33 |
 | 29 | [African Love Story \(From Children of Blood and Bone\)](https://open.spotify.com/track/1hZZUYSBu8xpyTGxgsI8Wn) | [Tems](https://open.spotify.com/artist/687cZJR45JO7jhk1LHIbgq), [Children of Blood and Bone \(Original Motion Picture Soundtrack\)](https://open.spotify.com/artist/3MZ6lG1KXPRbhjCuAxGr0x) | [African Love Story \(From Children of Blood and Bone\)](https://open.spotify.com/album/3gatJjBKQfFZlRKLW0TUX6) | 3:02 |
 | 30 | [Fast Asleep](https://open.spotify.com/track/4EMW9BdGJ8avDfuab1ostA) | [GIVĒON](https://open.spotify.com/artist/4fxd5Ee7UefO4CUXgwJ7IP) | [Fast Asleep](https://open.spotify.com/album/3W4zbFnTRn0dUvkzm8HjLd) | 3:00 |
-| 31 | [Starting From Zero \(feat\. Michael McDonald\)](https://open.spotify.com/track/171rxWDjFvjPeFjSHF4WS5) | [Justice](https://open.spotify.com/artist/1gR0gsQYfi6joyO1dlp76N), [Michael McDonald](https://open.spotify.com/artist/24hJWbo98sH84tb0nkeaqy) | [Grand Theft Auto VI: The Album](https://open.spotify.com/album/5BYKG4MHfySZthe2W6r7n4) | 3:09 |
+| 31 | [Starting From Zero \(feat\. Michael McDonald\)](https://open.spotify.com/track/171rxWDjFvjPeFjSHF4WS5) | [Justice](https://open.spotify.com/artist/1gR0gsQYfi6joyO1dlp76N), [Michael McDonald](https://open.spotify.com/artist/24hJWbo98sH84tb0nkeaqy) | [Grand Theft Auto VI: The Album](https://open.spotify.com/album/5BYKG4MHfySZthe2W6r7n4) | 3:10 |
 | 32 | [The Vacation Song](https://open.spotify.com/track/65m7niEXFiqqUB7spmOPGX) | [Kacey Musgraves](https://open.spotify.com/artist/70kkdajctXSbqSMJbQO424) | [The Vacation Song](https://open.spotify.com/album/5hitACdfYcvfAKu1uZqiCK) | 3:27 |
 | 33 | [Hier Heb Ik Geen Tijd Meer Voor](https://open.spotify.com/track/0UH9tn3DjHthal2jDGRiUY) | [Gerard Joling](https://open.spotify.com/artist/5V2zReaoPvB7EsZ4160uLG) | [Hier Heb Ik Geen Tijd Meer Voor](https://open.spotify.com/album/4YrVk8426Rnbt5pyHuhIxL) | 3:27 |
 | 34 | [Vlinders](https://open.spotify.com/track/1kYo0gziAjD4oe9iHWQLr3) | [Kimberly Fransens](https://open.spotify.com/artist/4YvTZPiLAVdVA5VkCwyBWk) | [Vlinders](https://open.spotify.com/album/71is3fQG4sfVH8pbOLCssp) | 2:32 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXb5BKLTO7ULa.md) - [plain]
 | 99 | [Sonido Concreto](https://open.spotify.com/track/1rvDgIzsi17FSLmOIcrkTQ) | [New Cool Collective](https://open.spotify.com/artist/6d6i5VzXGwecR7EtMasWsZ) | [Sonido Concreto](https://open.spotify.com/album/2xJp5hHJ6ocZ1R5A17JIs3) | 3:45 |
 | 100 | [4everest](https://open.spotify.com/track/5H3HeC9BoHDxFvc0cYHbP9) | [SMANDEM.](https://open.spotify.com/artist/3pBZ54BloAsAYIkZS15jol) | [Nothing Is Ever Finished](https://open.spotify.com/album/53UiOmVLQjGWUmA29wYh3S) | 4:05 |
 
-Snapshot ID: `AAAAACRdOAuQ4PMWkKxiQLj8YiGeiQOt`
+Snapshot ID: `AAAAAJe5dHuf5fjj2rxk/fPbxIqoOe3V`

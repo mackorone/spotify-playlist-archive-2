@@ -1,12 +1,12 @@
 {
   "description": "You bring the ingredients, we bring the flavor. Enjoy la cena...",
-  "num_followers": 436531,
+  "num_followers": 436513,
   "original_name": "Latin Dinner",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAFXc/0fusZTd9o4QYik7Mdvexh4K",
+  "snapshot_id": "AAAAAAky412vQz4o408xHUhQUAEFzDCT",
   "tracks": [
     {
       "added_at": "2026-11-23 19:10:25",
@@ -483,6 +483,26 @@
     {
       "added_at": "2026-11-23 19:10:25",
       "album": {
+        "name": "Perseidas",
+        "url": "https://open.spotify.com/album/302NyzvjfPqnXV2iukilqP"
+      },
+      "artists": [
+        {
+          "name": "YoSoyMatt",
+          "url": "https://open.spotify.com/artist/0NYE6CFlP7ElQR6r395gbV"
+        },
+        {
+          "name": "Diana Meril",
+          "url": "https://open.spotify.com/artist/2VzNlNyc9lEAKr7wjKnTlo"
+        }
+      ],
+      "duration_ms": 210285,
+      "name": "Perseidas",
+      "url": "https://open.spotify.com/track/1vbqIhKTKwSM3QdKCTm2Dm"
+    },
+    {
+      "added_at": "2026-11-23 19:10:25",
+      "album": {
         "name": "Catalina",
         "url": "https://open.spotify.com/album/35l4EIrb4K76NjH2lI3K2x"
       },
@@ -503,26 +523,6 @@
     {
       "added_at": "2026-11-23 19:10:25",
       "album": {
-        "name": "Eres",
-        "url": "https://open.spotify.com/album/503JdbgCMQzgpYU4sEDKSC"
-      },
-      "artists": [
-        {
-          "name": "Sindicato Del Ritmo",
-          "url": "https://open.spotify.com/artist/5eCshP4zg9fMuQvc1LygXI"
-        },
-        {
-          "name": "Caf\u00e9 Tacvba",
-          "url": "https://open.spotify.com/artist/09xj0S68Y1OU1vHMCZAIvz"
-        }
-      ],
-      "duration_ms": 248720,
-      "name": "Eres",
-      "url": "https://open.spotify.com/track/4oa27owMHu69L0eou4gK10"
-    },
-    {
-      "added_at": "2026-11-23 19:10:25",
-      "album": {
         "name": "Regalo",
         "url": "https://open.spotify.com/album/512JRiq6UX5wYeFIAXN4KK"
       },
@@ -539,6 +539,26 @@
       "duration_ms": 177640,
       "name": "Regalo",
       "url": "https://open.spotify.com/track/7mU8ts3VQhufEOMc00vzKX"
+    },
+    {
+      "added_at": "2026-11-23 19:10:25",
+      "album": {
+        "name": "Eres",
+        "url": "https://open.spotify.com/album/503JdbgCMQzgpYU4sEDKSC"
+      },
+      "artists": [
+        {
+          "name": "Sindicato Del Ritmo",
+          "url": "https://open.spotify.com/artist/5eCshP4zg9fMuQvc1LygXI"
+        },
+        {
+          "name": "Caf\u00e9 Tacvba",
+          "url": "https://open.spotify.com/artist/09xj0S68Y1OU1vHMCZAIvz"
+        }
+      ],
+      "duration_ms": 248720,
+      "name": "Eres",
+      "url": "https://open.spotify.com/track/4oa27owMHu69L0eou4gK10"
     },
     {
       "added_at": "2026-11-23 19:10:25",
@@ -591,26 +611,6 @@
       "duration_ms": 276239,
       "name": "Que Alguien Me Diga - En Vivo",
       "url": "https://open.spotify.com/track/1UQB7AlBK4X3hTPbSHOXJf"
-    },
-    {
-      "added_at": "2026-11-23 19:10:25",
-      "album": {
-        "name": "Perseidas",
-        "url": "https://open.spotify.com/album/302NyzvjfPqnXV2iukilqP"
-      },
-      "artists": [
-        {
-          "name": "YoSoyMatt",
-          "url": "https://open.spotify.com/artist/0NYE6CFlP7ElQR6r395gbV"
-        },
-        {
-          "name": "Diana Meril",
-          "url": "https://open.spotify.com/artist/2VzNlNyc9lEAKr7wjKnTlo"
-        }
-      ],
-      "duration_ms": 210285,
-      "name": "Perseidas",
-      "url": "https://open.spotify.com/track/1vbqIhKTKwSM3QdKCTm2Dm"
     },
     {
       "added_at": "2026-11-23 19:10:25",
@@ -987,22 +987,18 @@
     {
       "added_at": "2026-11-23 19:10:25",
       "album": {
-        "name": "Tiene Sabor",
-        "url": "https://open.spotify.com/album/5B5XX53acuLFw8JHXK1UU2"
+        "name": "Mariposas",
+        "url": "https://open.spotify.com/album/6mc4GtVnrTUk5lScACco4q"
       },
       "artists": [
         {
-          "name": "Alex Cuba",
-          "url": "https://open.spotify.com/artist/7gZRUp2WL6r11PXTv309P1"
-        },
-        {
-          "name": "Valent\u00edn Puentes",
-          "url": "https://open.spotify.com/artist/0ssydpx5rK6vZlXkIeHnw5"
+          "name": "Omara Portuondo",
+          "url": "https://open.spotify.com/artist/1h4iSQAKdvAAm07l6FX6dy"
         }
       ],
-      "duration_ms": 240562,
-      "name": "Tiene Sabor",
-      "url": "https://open.spotify.com/track/56zLMDP0ZacyFkQwxHz8yr"
+      "duration_ms": 261696,
+      "name": "Mariposas Blancas",
+      "url": "https://open.spotify.com/track/2eOyh4AuxBnX5uAwWLrgsB"
     },
     {
       "added_at": "2026-11-23 19:10:25",
@@ -1027,18 +1023,22 @@
     {
       "added_at": "2026-11-23 19:10:25",
       "album": {
-        "name": "Mariposas",
-        "url": "https://open.spotify.com/album/6mc4GtVnrTUk5lScACco4q"
+        "name": "Tiene Sabor",
+        "url": "https://open.spotify.com/album/5B5XX53acuLFw8JHXK1UU2"
       },
       "artists": [
         {
-          "name": "Omara Portuondo",
-          "url": "https://open.spotify.com/artist/1h4iSQAKdvAAm07l6FX6dy"
+          "name": "Alex Cuba",
+          "url": "https://open.spotify.com/artist/7gZRUp2WL6r11PXTv309P1"
+        },
+        {
+          "name": "Valent\u00edn Puentes",
+          "url": "https://open.spotify.com/artist/0ssydpx5rK6vZlXkIeHnw5"
         }
       ],
-      "duration_ms": 261696,
-      "name": "Mariposas Blancas",
-      "url": "https://open.spotify.com/track/2eOyh4AuxBnX5uAwWLrgsB"
+      "duration_ms": 240562,
+      "name": "Tiene Sabor",
+      "url": "https://open.spotify.com/track/56zLMDP0ZacyFkQwxHz8yr"
     },
     {
       "added_at": "2026-11-23 19:10:25",
@@ -1187,6 +1187,26 @@
     {
       "added_at": "2026-11-23 19:10:25",
       "album": {
+        "name": "Todo Cambi\u00f3",
+        "url": "https://open.spotify.com/album/1Zc8gfpNoHmszL1ybIF2jb"
+      },
+      "artists": [
+        {
+          "name": "Arthur Hanlon",
+          "url": "https://open.spotify.com/artist/2tYwhzzfvvDr29BbBFcHhB"
+        },
+        {
+          "name": "Mariangela",
+          "url": "https://open.spotify.com/artist/6rbhHufoSGkldXNhOtb6Mf"
+        }
+      ],
+      "duration_ms": 218909,
+      "name": "Todo Cambi\u00f3",
+      "url": "https://open.spotify.com/track/0sYhfDMlg2G1NC0OclLoTx"
+    },
+    {
+      "added_at": "2026-11-23 19:10:25",
+      "album": {
         "name": "Bajofondo Tango Club",
         "url": "https://open.spotify.com/album/3KtZ7CB9lIVCekOB0e8HSk"
       },
@@ -1215,26 +1235,6 @@
       "duration_ms": 230877,
       "name": "Somos Hermanas",
       "url": "https://open.spotify.com/track/41THofGqCI97EnFDlPr7uZ"
-    },
-    {
-      "added_at": "2026-11-23 19:10:25",
-      "album": {
-        "name": "Todo Cambi\u00f3",
-        "url": "https://open.spotify.com/album/1Zc8gfpNoHmszL1ybIF2jb"
-      },
-      "artists": [
-        {
-          "name": "Arthur Hanlon",
-          "url": "https://open.spotify.com/artist/2tYwhzzfvvDr29BbBFcHhB"
-        },
-        {
-          "name": "Mariangela",
-          "url": "https://open.spotify.com/artist/6rbhHufoSGkldXNhOtb6Mf"
-        }
-      ],
-      "duration_ms": 218909,
-      "name": "Todo Cambi\u00f3",
-      "url": "https://open.spotify.com/track/0sYhfDMlg2G1NC0OclLoTx"
     },
     {
       "added_at": "2026-11-23 19:10:25",
@@ -1759,6 +1759,22 @@
     {
       "added_at": "2026-11-23 19:10:25",
       "album": {
+        "name": "A Toda Cuba Le Gusta",
+        "url": "https://open.spotify.com/album/3mjwCWLCCtHiEv0Ttek5zT"
+      },
+      "artists": [
+        {
+          "name": "Afro-Cuban All Stars",
+          "url": "https://open.spotify.com/artist/5cvnQ2gtwZraxeE99Y8aOg"
+        }
+      ],
+      "duration_ms": 396440,
+      "name": "Amor verdadero",
+      "url": "https://open.spotify.com/track/6Ds9miFD06FwpFdAuqDo0h"
+    },
+    {
+      "added_at": "2026-11-23 19:10:25",
+      "album": {
         "name": "M\u00fasica Sin Tiempo",
         "url": "https://open.spotify.com/album/1glGF4NuNqwLeLeEh1VFA9"
       },
@@ -1787,22 +1803,6 @@
       "duration_ms": 238760,
       "name": "Electric Soul",
       "url": "https://open.spotify.com/track/2DlDgDM7wNOjfJhN90rWmv"
-    },
-    {
-      "added_at": "2026-11-23 19:10:25",
-      "album": {
-        "name": "A Toda Cuba Le Gusta",
-        "url": "https://open.spotify.com/album/3mjwCWLCCtHiEv0Ttek5zT"
-      },
-      "artists": [
-        {
-          "name": "Afro-Cuban All Stars",
-          "url": "https://open.spotify.com/artist/5cvnQ2gtwZraxeE99Y8aOg"
-        }
-      ],
-      "duration_ms": 396440,
-      "name": "Amor verdadero",
-      "url": "https://open.spotify.com/track/6Ds9miFD06FwpFdAuqDo0h"
     }
   ],
   "unique_name": "Latin Dinner",

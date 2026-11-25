@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTcLP9S6ATGK.md) - [plain]
 
 > Menemani akhir pekanmu dengan lagu\-lagu terbaru\. Cover: KIM
 
-[Spotify](https://open.spotify.com/user/spotify) - 167,851 likes - 102 songs - 6 hr 30 min
+[Spotify](https://open.spotify.com/user/spotify) - 167,818 likes - 102 songs - 6 hr 30 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -111,4 +111,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTcLP9S6ATGK.md) - [plain]
 | 101 | [Ini Bukan Cinta](https://open.spotify.com/track/3KFi5afCTz6clzLXK7noue) | [ASTRI](https://open.spotify.com/artist/7rn4Z9vVBJDsz4ehMwCmOg) | [Ini Bukan Cinta](https://open.spotify.com/album/2BScMn8yGahXrZs5qAV0Ex) | 2:54 |
 | 102 | [Strategi Memilikimu](https://open.spotify.com/track/1mwLvEiFXRKrxdFIDiuySS) | [Alisha Dira](https://open.spotify.com/artist/7HGA1yaatBdtc7N7S7gPFi) | [Strategi Memilikimu](https://open.spotify.com/album/6h0LAtMzO6fNCDQjgsQUtJ) | 3:34 |
 
-Snapshot ID: `AAAAAGRaHkM9nTAFhwgymrMEIStkxQrt`
+Snapshot ID: `AAAAAC3hQH48fDWBOIbsU7VOWAK5d894`

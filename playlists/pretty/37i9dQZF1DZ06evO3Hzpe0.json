@@ -1,12 +1,12 @@
 {
   "description": "This is Carl Carlton. The essential tracks, all in one playlist.",
-  "num_followers": 929,
+  "num_followers": 930,
   "original_name": "This Is Carl Carlton",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "awIwgAAAAADY1rGqc44F3BSKIAssBBor",
+  "snapshot_id": "awOCAAAAAAAVwvaw5rJhyxuEFjcpHZ8y",
   "tracks": [
     {
       "added_at": null,
@@ -107,22 +107,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "I Wanna Be With You",
-        "url": "https://open.spotify.com/album/1ylIK4HqN5u8zMDz3fNQBJ"
-      },
-      "artists": [
-        {
-          "name": "Carl Carlton",
-          "url": "https://open.spotify.com/artist/6gYjIUFuKIBVJfxXnmrd5P"
-        }
-      ],
-      "duration_ms": 210338,
-      "name": "I Wanna Be With You",
-      "url": "https://open.spotify.com/track/4ebSFxwzrgMrmoaNT1Cl61"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Three Way Love",
         "url": "https://open.spotify.com/album/4J8klFc6tXtpSwRt9Z6gvF"
       },
@@ -135,6 +119,22 @@
       "duration_ms": 149606,
       "name": "Three Way Love",
       "url": "https://open.spotify.com/track/3cs4NayPNNcJ03KIjDJFBO"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "I Wanna Be With You",
+        "url": "https://open.spotify.com/album/1ylIK4HqN5u8zMDz3fNQBJ"
+      },
+      "artists": [
+        {
+          "name": "Carl Carlton",
+          "url": "https://open.spotify.com/artist/6gYjIUFuKIBVJfxXnmrd5P"
+        }
+      ],
+      "duration_ms": 210338,
+      "name": "I Wanna Be With You",
+      "url": "https://open.spotify.com/track/4ebSFxwzrgMrmoaNT1Cl61"
     },
     {
       "added_at": null,
@@ -171,6 +171,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "You You",
+        "url": "https://open.spotify.com/album/0GOHJR66iTPfNsAXfN7UK8"
+      },
+      "artists": [
+        {
+          "name": "Carl Carlton",
+          "url": "https://open.spotify.com/artist/6gYjIUFuKIBVJfxXnmrd5P"
+        }
+      ],
+      "duration_ms": 239625,
+      "name": "You You",
+      "url": "https://open.spotify.com/track/48T0gxYeCMeuQDNRM3NNMw"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "I Wanna Be With You",
         "url": "https://open.spotify.com/album/1ylIK4HqN5u8zMDz3fNQBJ"
       },
@@ -183,22 +199,6 @@
       "duration_ms": 448891,
       "name": "Willing and Able",
       "url": "https://open.spotify.com/track/1SUgxQccR3O2GiCrFIblNk"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "La La Song",
-        "url": "https://open.spotify.com/album/7o6QHeec9l9hR3vfL7PmUZ"
-      },
-      "artists": [
-        {
-          "name": "Carl Carlton",
-          "url": "https://open.spotify.com/artist/6gYjIUFuKIBVJfxXnmrd5P"
-        }
-      ],
-      "duration_ms": 196500,
-      "name": "La La Song",
-      "url": "https://open.spotify.com/track/3IC5NaEEJaAjoEAOTFy2bV"
     },
     {
       "added_at": null,
@@ -235,22 +235,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "I Wanna Be With You",
-        "url": "https://open.spotify.com/album/1ylIK4HqN5u8zMDz3fNQBJ"
-      },
-      "artists": [
-        {
-          "name": "Carl Carlton",
-          "url": "https://open.spotify.com/artist/6gYjIUFuKIBVJfxXnmrd5P"
-        }
-      ],
-      "duration_ms": 313721,
-      "name": "Universal Girl",
-      "url": "https://open.spotify.com/track/4O2N9wZ1KvvfjIGlM786K7"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Hold On a Little Longer",
         "url": "https://open.spotify.com/album/78kWRNYPsSD4HSMBTNNiQq"
       },
@@ -263,6 +247,22 @@
       "duration_ms": 201962,
       "name": "Hold On a Little Longer",
       "url": "https://open.spotify.com/track/7uNmf3URsQftTLFPXo5VRM"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "I Wanna Be With You",
+        "url": "https://open.spotify.com/album/1ylIK4HqN5u8zMDz3fNQBJ"
+      },
+      "artists": [
+        {
+          "name": "Carl Carlton",
+          "url": "https://open.spotify.com/artist/6gYjIUFuKIBVJfxXnmrd5P"
+        }
+      ],
+      "duration_ms": 313721,
+      "name": "Universal Girl",
+      "url": "https://open.spotify.com/track/4O2N9wZ1KvvfjIGlM786K7"
     },
     {
       "added_at": null,
@@ -299,8 +299,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "You You",
-        "url": "https://open.spotify.com/album/0GOHJR66iTPfNsAXfN7UK8"
+        "name": "La La Song",
+        "url": "https://open.spotify.com/album/7o6QHeec9l9hR3vfL7PmUZ"
       },
       "artists": [
         {
@@ -308,15 +308,15 @@
           "url": "https://open.spotify.com/artist/6gYjIUFuKIBVJfxXnmrd5P"
         }
       ],
-      "duration_ms": 239625,
-      "name": "You You",
-      "url": "https://open.spotify.com/track/48T0gxYeCMeuQDNRM3NNMw"
+      "duration_ms": 196500,
+      "name": "La La Song",
+      "url": "https://open.spotify.com/track/3IC5NaEEJaAjoEAOTFy2bV"
     },
     {
       "added_at": null,
       "album": {
-        "name": "Don't You Need a Boy Like Me",
-        "url": "https://open.spotify.com/album/3slEt5DjLk1aBN9owomaXM"
+        "name": "I Wanna Be With You",
+        "url": "https://open.spotify.com/album/1ylIK4HqN5u8zMDz3fNQBJ"
       },
       "artists": [
         {
@@ -324,9 +324,9 @@
           "url": "https://open.spotify.com/artist/6gYjIUFuKIBVJfxXnmrd5P"
         }
       ],
-      "duration_ms": 116888,
-      "name": "Don't You Need a Boy Like Me",
-      "url": "https://open.spotify.com/track/3zLEgjXLFNp9ucP5003ZNQ"
+      "duration_ms": 196319,
+      "name": "Ain't Been No One Before You",
+      "url": "https://open.spotify.com/track/3P1vhPtCccWnN2T8I22TUM"
     },
     {
       "added_at": null,
@@ -363,6 +363,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Don't You Need a Boy Like Me",
+        "url": "https://open.spotify.com/album/3slEt5DjLk1aBN9owomaXM"
+      },
+      "artists": [
+        {
+          "name": "Carl Carlton",
+          "url": "https://open.spotify.com/artist/6gYjIUFuKIBVJfxXnmrd5P"
+        }
+      ],
+      "duration_ms": 116888,
+      "name": "Don't You Need a Boy Like Me",
+      "url": "https://open.spotify.com/track/3zLEgjXLFNp9ucP5003ZNQ"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "I Wanna Be With You",
         "url": "https://open.spotify.com/album/1ylIK4HqN5u8zMDz3fNQBJ"
       },
@@ -372,25 +388,9 @@
           "url": "https://open.spotify.com/artist/6gYjIUFuKIBVJfxXnmrd5P"
         }
       ],
-      "duration_ms": 196319,
-      "name": "Ain't Been No One Before You",
-      "url": "https://open.spotify.com/track/3P1vhPtCccWnN2T8I22TUM"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Two Timer",
-        "url": "https://open.spotify.com/album/1voy5GjsqFOhSeIqhS9hYt"
-      },
-      "artists": [
-        {
-          "name": "Carl Carlton",
-          "url": "https://open.spotify.com/artist/6gYjIUFuKIBVJfxXnmrd5P"
-        }
-      ],
-      "duration_ms": 154250,
-      "name": "Two Timer",
-      "url": "https://open.spotify.com/track/0GLEMJnSLLZYY8ubZ6JkK9"
+      "duration_ms": 378907,
+      "name": "Spend the Night",
+      "url": "https://open.spotify.com/track/7GfdXWpwnUeqAtzDXsCV0i"
     },
     {
       "added_at": null,
@@ -407,6 +407,22 @@
       "duration_ms": 219615,
       "name": "Stand By Me",
       "url": "https://open.spotify.com/track/2VsBpRY1animyX0KmVVG1Q"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Two Timer",
+        "url": "https://open.spotify.com/album/1voy5GjsqFOhSeIqhS9hYt"
+      },
+      "artists": [
+        {
+          "name": "Carl Carlton",
+          "url": "https://open.spotify.com/artist/6gYjIUFuKIBVJfxXnmrd5P"
+        }
+      ],
+      "duration_ms": 154250,
+      "name": "Two Timer",
+      "url": "https://open.spotify.com/track/0GLEMJnSLLZYY8ubZ6JkK9"
     },
     {
       "added_at": null,
@@ -444,9 +460,9 @@
           "url": "https://open.spotify.com/artist/6gYjIUFuKIBVJfxXnmrd5P"
         }
       ],
-      "duration_ms": 378907,
-      "name": "Spend the Night",
-      "url": "https://open.spotify.com/track/7GfdXWpwnUeqAtzDXsCV0i"
+      "duration_ms": 208678,
+      "name": "Things Ain't Always Been This Good",
+      "url": "https://open.spotify.com/track/4AlHAYIdsSHoVBEFOiT9tT"
     },
     {
       "added_at": null,
@@ -467,8 +483,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "God Is Good",
-        "url": "https://open.spotify.com/album/2JktMstBcepNgVJX58Ig7Z"
+        "name": "Dubbin on the Dancefloor, Vol. 1 (House Dubs & Deep Tracks)",
+        "url": "https://open.spotify.com/album/6cekweXZKnBrFkNSgsYkfm"
       },
       "artists": [
         {
@@ -476,9 +492,9 @@
           "url": "https://open.spotify.com/artist/6gYjIUFuKIBVJfxXnmrd5P"
         }
       ],
-      "duration_ms": 260706,
-      "name": "God Is Good",
-      "url": "https://open.spotify.com/track/7kNdtp5dx70N6doCbllzsF"
+      "duration_ms": 194621,
+      "name": "Release Soul - Long Island Mix",
+      "url": "https://open.spotify.com/track/1ZkDqpq8ak5GQapv9BNJVx"
     },
     {
       "added_at": null,
@@ -499,38 +515,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "I Wanna Be With You",
-        "url": "https://open.spotify.com/album/1ylIK4HqN5u8zMDz3fNQBJ"
-      },
-      "artists": [
-        {
-          "name": "Carl Carlton",
-          "url": "https://open.spotify.com/artist/6gYjIUFuKIBVJfxXnmrd5P"
-        }
-      ],
-      "duration_ms": 208678,
-      "name": "Things Ain't Always Been This Good",
-      "url": "https://open.spotify.com/track/4AlHAYIdsSHoVBEFOiT9tT"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Private Property",
-        "url": "https://open.spotify.com/album/78sYYdjYiy7XgpjXqOEJwU"
-      },
-      "artists": [
-        {
-          "name": "Carl Carlton",
-          "url": "https://open.spotify.com/artist/6gYjIUFuKIBVJfxXnmrd5P"
-        }
-      ],
-      "duration_ms": 237009,
-      "name": "Free Fine and 21",
-      "url": "https://open.spotify.com/track/2epGU96QmILHnfs3RFX7sz"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "You Times Me Plus Love",
         "url": "https://open.spotify.com/album/44jRoq7XaNWNbqyuGzPFuf"
       },
@@ -547,8 +531,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Dubbin on the Dancefloor, Vol. 1 (House Dubs & Deep Tracks)",
-        "url": "https://open.spotify.com/album/6cekweXZKnBrFkNSgsYkfm"
+        "name": "God Is Good",
+        "url": "https://open.spotify.com/album/2JktMstBcepNgVJX58Ig7Z"
       },
       "artists": [
         {
@@ -556,9 +540,25 @@
           "url": "https://open.spotify.com/artist/6gYjIUFuKIBVJfxXnmrd5P"
         }
       ],
-      "duration_ms": 194621,
-      "name": "Release Soul - Long Island Mix",
-      "url": "https://open.spotify.com/track/1ZkDqpq8ak5GQapv9BNJVx"
+      "duration_ms": 260706,
+      "name": "God Is Good",
+      "url": "https://open.spotify.com/track/7kNdtp5dx70N6doCbllzsF"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Private Property",
+        "url": "https://open.spotify.com/album/78sYYdjYiy7XgpjXqOEJwU"
+      },
+      "artists": [
+        {
+          "name": "Carl Carlton",
+          "url": "https://open.spotify.com/artist/6gYjIUFuKIBVJfxXnmrd5P"
+        }
+      ],
+      "duration_ms": 237009,
+      "name": "Free Fine and 21",
+      "url": "https://open.spotify.com/track/2epGU96QmILHnfs3RFX7sz"
     },
     {
       "added_at": null,
@@ -603,22 +603,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Private Property",
-        "url": "https://open.spotify.com/album/78sYYdjYiy7XgpjXqOEJwU"
-      },
-      "artists": [
-        {
-          "name": "Carl Carlton",
-          "url": "https://open.spotify.com/artist/6gYjIUFuKIBVJfxXnmrd5P"
-        }
-      ],
-      "duration_ms": 232521,
-      "name": "Thank You for Sticking Around",
-      "url": "https://open.spotify.com/track/4XA7G7vlHRnMK6eEQYJDLs"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Saturday",
         "url": "https://open.spotify.com/album/064WgfCRzGQpkYR62DFe4U"
       },
@@ -631,6 +615,22 @@
       "duration_ms": 280640,
       "name": "Saturday",
       "url": "https://open.spotify.com/track/1kwHC09McmaYlj2U6vbZRZ"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Private Property",
+        "url": "https://open.spotify.com/album/78sYYdjYiy7XgpjXqOEJwU"
+      },
+      "artists": [
+        {
+          "name": "Carl Carlton",
+          "url": "https://open.spotify.com/artist/6gYjIUFuKIBVJfxXnmrd5P"
+        }
+      ],
+      "duration_ms": 247355,
+      "name": "Hot",
+      "url": "https://open.spotify.com/track/2aIqulwYsfldNK9u11Bg0B"
     },
     {
       "added_at": null,
@@ -664,25 +664,9 @@
           "url": "https://open.spotify.com/artist/6gYjIUFuKIBVJfxXnmrd5P"
         }
       ],
-      "duration_ms": 247355,
-      "name": "Hot",
-      "url": "https://open.spotify.com/track/2aIqulwYsfldNK9u11Bg0B"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Private Property",
-        "url": "https://open.spotify.com/album/78sYYdjYiy7XgpjXqOEJwU"
-      },
-      "artists": [
-        {
-          "name": "Carl Carlton",
-          "url": "https://open.spotify.com/artist/6gYjIUFuKIBVJfxXnmrd5P"
-        }
-      ],
-      "duration_ms": 250377,
-      "name": "Mama's Boy",
-      "url": "https://open.spotify.com/track/1dmyGytxcI7OQLAclmOJ52"
+      "duration_ms": 232521,
+      "name": "Thank You for Sticking Around",
+      "url": "https://open.spotify.com/track/4XA7G7vlHRnMK6eEQYJDLs"
     },
     {
       "added_at": null,
@@ -699,6 +683,22 @@
       "duration_ms": 245666,
       "name": "Never Got Over You",
       "url": "https://open.spotify.com/track/2ALzgSYKqqfNFG83nTqIge"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Private Property",
+        "url": "https://open.spotify.com/album/78sYYdjYiy7XgpjXqOEJwU"
+      },
+      "artists": [
+        {
+          "name": "Carl Carlton",
+          "url": "https://open.spotify.com/artist/6gYjIUFuKIBVJfxXnmrd5P"
+        }
+      ],
+      "duration_ms": 250377,
+      "name": "Mama's Boy",
+      "url": "https://open.spotify.com/track/1dmyGytxcI7OQLAclmOJ52"
     }
   ],
   "unique_name": "This Is Carl Carlton",

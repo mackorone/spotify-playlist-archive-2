@@ -4,7 +4,7 @@
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/6pIqJXrWHth17iGoiK0mPz">Justin Tranter</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-712 songs - 1 day 15 hr 1 min
+713 songs - 1 day 15 hr 4 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -91,7 +91,7 @@
 | [Casual Lady](https://open.spotify.com/track/56edMzlWCGCZNsTGAXbZDs) | [flowerovlove](https://open.spotify.com/artist/1JspXUvEv3D9ddMeLNqYWj) | [Casual Lady](https://open.spotify.com/album/5wA8jdtd6ipkhSILzenhzh) | 3:14 | 2026-02-25 |  |
 | [Celebration](https://open.spotify.com/track/14CuAx9KIrVXC0O4ac91uH) | [A$AP Rocky](https://open.spotify.com/artist/13ubrt8QOOCPljQ2FL1Kca) | [In Trap We Trust, Vol\. 1](https://open.spotify.com/album/4lU2rIbaKMUbwnN4FQj8Hu) | 4:22 | 2024-02-27 | 2025-07-10 |
 | [Celebration](https://open.spotify.com/track/5D2r5KcaVPuri7xD0FZZJC) | [A$AP Rocky](https://open.spotify.com/artist/13ubrt8QOOCPljQ2FL1Kca), [DJ Khaled](https://open.spotify.com/artist/0QHgL1lAIqAw0HtD7YldmP) | [We Turnt Up, Vol\. 6](https://open.spotify.com/album/4rESAMfV7F2cNSz93OEa2M) | 3:50 | 2024-02-27 |  |
-| [Centuries](https://open.spotify.com/track/04aAxqtGp5pv12UXAg4pkq) | [Fall Out Boy](https://open.spotify.com/artist/4UXqAaa6dQYAk18Lv7PEgX) | [American Beauty/American Psycho](https://open.spotify.com/album/022DrG7Wp2PSCwzuD0bSzT) | 3:48 | 2024-02-27 |  |
+| [Centuries](https://open.spotify.com/track/04aAxqtGp5pv12UXAg4pkq) | [Fall Out Boy](https://open.spotify.com/artist/4UXqAaa6dQYAk18Lv7PEgX) | [American Beauty/American Psycho](https://open.spotify.com/album/022DrG7Wp2PSCwzuD0bSzT) | 3:48 | 2024-02-27 | 2026-11-25 |
 | [Centuries \- Gazzo Remix](https://open.spotify.com/track/4ZzbcSm6MxnC15BcDqEYyK) | [Fall Out Boy](https://open.spotify.com/artist/4UXqAaa6dQYAk18Lv7PEgX), [Gazzo](https://open.spotify.com/artist/5st4KKihmnSMLRsxWOs2x3) | [Centuries \(Gazzo Remix\)](https://open.spotify.com/album/4dFub54EO7uoweA7OYoZd7) | 4:19 | 2025-05-29 |  |
 | [Centuries \- Remix](https://open.spotify.com/track/4LutIwQfcpXjVs7mIySYCD) | [Fall Out Boy](https://open.spotify.com/artist/4UXqAaa6dQYAk18Lv7PEgX), [Juicy J](https://open.spotify.com/artist/5gCRApTajqwbnHHPbr2Fpi), [Jonathan "JR" Rotem](https://open.spotify.com/artist/0td8n3WZG9kptG9UsmYfc9) | [Make America Psycho Again](https://open.spotify.com/album/4vfQ7uk37WT80Ed8JeIdNO) | 3:22 | 2025-05-29 |  |
 | [Change Your Mind \(No Seas Cortes\)](https://open.spotify.com/track/51zZkW3FSCS9N5MjWOyJJU) | [Britney Spears](https://open.spotify.com/artist/26dSoYclwsYLMAKD3tpOr4) | [Glory \(Japan Deluxe Version\)](https://open.spotify.com/album/6IM1rlrohJp2B4QtA6dLDy) | 2:59 | 2024-02-27 |  |
@@ -394,6 +394,7 @@
 | [Mean Girls](https://open.spotify.com/track/5AspWMn9KWy9VxeIhZnRcu) | [KATSEYE](https://open.spotify.com/artist/3c0gDdb9lhnHGFtP4prQpn) | [BEAUTIFUL CHAOS](https://open.spotify.com/album/7zDBcYSeMAVESJXnVJnzM4) | 3:36 | 2025-07-25 |  |
 | [Mean Girls](https://open.spotify.com/track/5u9BcWGR5e1VlXPU0SY8OT) | [KATSEYE](https://open.spotify.com/artist/3c0gDdb9lhnHGFtP4prQpn) | [BEAUTIFUL CHAOS](https://open.spotify.com/album/4Bd27JFKxVcDPYGUkLHKPi) | 3:36 | 2025-06-30 | 2025-07-10 |
 | [Mean Girls](https://open.spotify.com/track/6oDFDGaAayXd8HXmynsgPv) | [KATSEYE](https://open.spotify.com/artist/3c0gDdb9lhnHGFtP4prQpn) | [BEAUTIFUL CHAOS](https://open.spotify.com/album/4llrXTk6u4QYI1j7KHIsCx) | 3:36 | 2025-07-10 | 2025-07-26 |
+| [Meet Me on the Dance Floor \(from the Netflix Film "Steps"\)](https://open.spotify.com/track/1DmjYF2U6PZg2CxbDoYEHM) | [Rose Gray](https://open.spotify.com/artist/5YYrWH3w4JYijU4JZrOXWA) | [Meet Me on the Dance Floor \(from the Netflix Film "Steps"\)](https://open.spotify.com/album/3Pv7ot40kesmbFjZq17RJr) | 2:58 | 2026-11-24 |  |
 | [Meet You There](https://open.spotify.com/track/4YYmvuwndD3YNfi43M7EC5) | [5 Seconds of Summer](https://open.spotify.com/artist/5Rl15oVamLq7FbSb0NNBNy) | [Youngblood \(Deluxe\)](https://open.spotify.com/album/2D0Hi3Jj6RFnpWDcSa0Otu) | 3:10 | 2024-02-27 |  |
 | [Melon Cake](https://open.spotify.com/track/1qWjN1wINoiSJJqEXjiD0h) | [Demi Lovato](https://open.spotify.com/artist/6S2OmqARrzebs0tKUEyXyp) | [Dancing With The Devil…The Art of Starting Over \(Expanded Edition\)](https://open.spotify.com/album/3XsdVkuj3zMVHPRvodOgeE) | 3:32 | 2024-02-27 |  |
 | [Merely Players \- From the Paramount+ Series ‘Grease: Rise of the Pink Ladies'](https://open.spotify.com/track/3Vrn7I9q2Lz7VvQNIzmuQ2) | [Ari Notartomaso](https://open.spotify.com/artist/3kpcOPO2xmHh1ClcFXnd5o), [Niamh Wilson](https://open.spotify.com/artist/06B6LBieVFwAXZW6Tj7Lca), [The Cast of Grease: Rise of the Pink Ladies](https://open.spotify.com/artist/3bF30kGvclxPV6pFKdRdXQ) | [Grease: Rise of the Pink Ladies \(Music from the Paramount+ Original Series\)](https://open.spotify.com/album/3Dymqe2SV05fcXkxSZDVXz) | 2:43 | 2024-02-27 |  |

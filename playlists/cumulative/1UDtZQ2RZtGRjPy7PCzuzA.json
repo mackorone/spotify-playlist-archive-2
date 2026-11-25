@@ -2683,6 +2683,24 @@
     },
     {
       "album": {
+        "name": "Anything",
+        "url": "https://open.spotify.com/album/0ULXa77Rw81AiaU4xymLiW"
+      },
+      "artists": [
+        {
+          "name": "Phoebe Bridgers",
+          "url": "https://open.spotify.com/artist/1r1uxoy19fzMxunt3ONAkG"
+        }
+      ],
+      "date_added": "2026-11-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 215427,
+      "name": "Anything",
+      "url": "https://open.spotify.com/track/3htz0sRGLYHbbAS9QeEqpy"
+    },
+    {
+      "album": {
         "name": "SO CLOSE TO WHAT??? (deluxe)",
         "url": "https://open.spotify.com/album/4AIX5TN8oT656mgxRwDevJ"
       },

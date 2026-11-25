@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYbOY1zkU5qF.md) - [plain]
 
 > Versiones acústicas de tus canciones favoritas.
 
-[Spotify](https://open.spotify.com/user/spotify) - 266,509 likes - 80 songs - 4 hr 26 min
+[Spotify](https://open.spotify.com/user/spotify) - 266,549 likes - 80 songs - 4 hr 26 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -46,8 +46,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYbOY1zkU5qF.md) - [plain]
 | 36 | [Felices los 4 \- Acoustic version](https://open.spotify.com/track/4N0Md19ln8Fq3O7Up0lqme) | [Aberola](https://open.spotify.com/artist/0i3cbCgMSQS3tXMVFXoaTC) | [Felices los 4 \(Acoustic Version\)](https://open.spotify.com/album/5ywUlCNTlkwvnnpZ5uXNd7) | 4:09 |
 | 37 | [Calma \- Remix](https://open.spotify.com/track/01afy14WMg3JohCIAb3oTe) | [Laura Naranjo](https://open.spotify.com/artist/3xf1o37bU0ANm6kT3YAlLr) | [Calma \(Remix\)](https://open.spotify.com/album/6kSXYCwKZbkzwDhcls7tlQ) | 2:52 |
 | 38 | [Y Cómo Es Él?](https://open.spotify.com/track/3sTh8rnycgz4pBRqAd1V9y) | [Nara Gilberto](https://open.spotify.com/artist/5H8qAk2IBifRhZK1BS8XFs) | [Y Cómo Es Él?](https://open.spotify.com/album/5CmwEq7NdDCZSLtl44Vu90) | 3:51 |
-| 39 | [Échame La Culpa](https://open.spotify.com/track/0qo4ywp67nbYaxI2hRBVts) | [Cris Moné](https://open.spotify.com/artist/5Exvb6CXfgIb7sYwvzO7pS), [Lou Cornago](https://open.spotify.com/artist/71QLvXvl9jdkFiGzLIwh9v) | [Échame La Culpa](https://open.spotify.com/album/5zmiQwf0xQI91Yhh65riGr) | 3:00 |
-| 40 | [Despacito](https://open.spotify.com/track/0anEuO11FGUN4Y9hDHGuym) | [Carolina Ross](https://open.spotify.com/artist/5wx70QuZtxRUIIYek3RSaV) | [Mis Covers, Vol\. 3](https://open.spotify.com/album/3Z5c9YxXkoRBfbPfgMgXsy) | 3:51 |
+| 39 | [Despacito](https://open.spotify.com/track/0anEuO11FGUN4Y9hDHGuym) | [Carolina Ross](https://open.spotify.com/artist/5wx70QuZtxRUIIYek3RSaV) | [Mis Covers, Vol\. 3](https://open.spotify.com/album/3Z5c9YxXkoRBfbPfgMgXsy) | 3:51 |
+| 40 | [Échame La Culpa](https://open.spotify.com/track/0qo4ywp67nbYaxI2hRBVts) | [Cris Moné](https://open.spotify.com/artist/5Exvb6CXfgIb7sYwvzO7pS), [Lou Cornago](https://open.spotify.com/artist/71QLvXvl9jdkFiGzLIwh9v) | [Échame La Culpa](https://open.spotify.com/album/5zmiQwf0xQI91Yhh65riGr) | 3:00 |
 | 41 | [Mátenme Porque Me Muero](https://open.spotify.com/track/4sVoEFCyerZgHpVuPK4klD) | [Pedro y el Lobo](https://open.spotify.com/artist/46p5O2p6Qi9L0RPB55gzak) | [Mátenme Porque Me Muero](https://open.spotify.com/album/1xnmcDkmUfiN7fJXU85tRQ) | 3:26 |
 | 42 | [Dembow \- Acoustic Version](https://open.spotify.com/track/2DpBQ4fq4bEr2IZJ40s9Dy) | [Rebeca Luna](https://open.spotify.com/artist/5haTMRhcwfF9yHRJGTMvbi) | [Acoustic Sessions](https://open.spotify.com/album/3mYIi2EtIUUVWsMlEUzrUb) | 3:34 |
 | 43 | [Lucha De Gigantes](https://open.spotify.com/track/0xq83JuGO0zzaUuIAJXKMQ) | [Mac Gregor](https://open.spotify.com/artist/15s9gq5gVKup8mbM2KmawF) | [Lucha De Gigantes](https://open.spotify.com/album/47rUQhjmVyqm9Yut7fegrl) | 3:46 |
@@ -63,8 +63,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYbOY1zkU5qF.md) - [plain]
 | 53 | [Bolero Falaz](https://open.spotify.com/track/0B6vcicywjS5S1AKq0BttX) | [Maribel Sur](https://open.spotify.com/artist/6RUOKxDTKgQE0baELaHJcf) | [Bolero Falaz](https://open.spotify.com/album/4pLS5CLe2cnjNEZQQkB0R0) | 4:23 |
 | 54 | [Un año](https://open.spotify.com/track/0X0cGcn1tkNimeB2EKRZCq) | [Laura Naranjo](https://open.spotify.com/artist/3xf1o37bU0ANm6kT3YAlLr) | [Un año](https://open.spotify.com/album/06kz8w5KKmpwS7JHZRhtUe) | 2:29 |
 | 55 | [Cuando Calienta El Sol](https://open.spotify.com/track/0ic53a5YySQxpEi14fRq6s) | [Roberta Loki](https://open.spotify.com/artist/69CSvWqSOjhUXBM8VcgbjB) | [Cuando Calienta El Sol](https://open.spotify.com/album/1fQp9n1xWOGAFfF3TOjMg2) | 2:39 |
-| 56 | [Solamente una Vez](https://open.spotify.com/track/4uqmcATBKbBKN5Tec5I4T1) | [César Avila](https://open.spotify.com/artist/3rngVMXFqeLP0WFB1ss6J1) | [Extrañándote en Cuarentena](https://open.spotify.com/album/1UfEr0bXeemQhpBacsZRfO) | 2:11 |
-| 57 | [Dime Que No](https://open.spotify.com/track/44v0ugSESJkLjn9ZbSMc5m) | [Jenny Thorn](https://open.spotify.com/artist/6lyyztZQV3gJ1ptg97K2y9) | [Dime Que No](https://open.spotify.com/album/7JfcZLkDCS64ip1f7bMsAn) | 4:51 |
+| 56 | [Dime Que No](https://open.spotify.com/track/44v0ugSESJkLjn9ZbSMc5m) | [Jenny Thorn](https://open.spotify.com/artist/6lyyztZQV3gJ1ptg97K2y9) | [Dime Que No](https://open.spotify.com/album/7JfcZLkDCS64ip1f7bMsAn) | 4:51 |
+| 57 | [Solamente una Vez](https://open.spotify.com/track/4uqmcATBKbBKN5Tec5I4T1) | [César Avila](https://open.spotify.com/artist/3rngVMXFqeLP0WFB1ss6J1) | [Extrañándote en Cuarentena](https://open.spotify.com/album/1UfEr0bXeemQhpBacsZRfO) | 2:11 |
 | 58 | [Me Rehúso](https://open.spotify.com/track/2KUni5F9f3ERUIJk59Zg2S) | [Ledes Diaz](https://open.spotify.com/artist/47IqbEaIiXjlosr45bjtPV) | [Me Rehúso](https://open.spotify.com/album/1vR7aiG4xXlNGoVXxXoC41) | 2:52 |
 | 59 | [Amigos con derechos](https://open.spotify.com/track/1HfYMwc523BOgGi6xBIFJX) | [Laura Naranjo](https://open.spotify.com/artist/3xf1o37bU0ANm6kT3YAlLr) | [Amigos con derechos](https://open.spotify.com/album/1wrc9RHnvnQRrtjlErc8w2) | 2:40 |
 | 60 | [Otros Labios \(Versión Acústica\)](https://open.spotify.com/track/2eTLsumTdtFMIrS1g37sId) | [Jaime Kohen](https://open.spotify.com/artist/3dPV32rIkpT2Y7w8mwkg2l) | [Otros Labios \(Versión Acústica\)](https://open.spotify.com/album/5fRkFb6UrPeUlCpwJTLTil) | 3:38 |
@@ -89,4 +89,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYbOY1zkU5qF.md) - [plain]
 | 79 | [La Nave del Olvido](https://open.spotify.com/track/4O4qat7D2fs9iErTOXJcKk) | [Flora Martínez](https://open.spotify.com/artist/7gjr06Lie1BDJuefW3v9YQ) | [La Nave del Olvido](https://open.spotify.com/album/38Ofq9oRq6PgGA33Z8goP0) | 2:55 |
 | 80 | [Adoro](https://open.spotify.com/track/1QrO86DNflLQ0Y958UtvT8) | [Samo](https://open.spotify.com/artist/68QUssU8KffP7KmgO3Z6Ye) | [Adoro](https://open.spotify.com/album/7MLPNcVin60lWrssZhKuMV) | 3:16 |
 
-Snapshot ID: `AAAAAPIkmLmazaUEvjZkhYNgaIR8QbYK`
+Snapshot ID: `AAAAAA2J3pwpzBjGpJFbS8Jd4x0lUMA4`

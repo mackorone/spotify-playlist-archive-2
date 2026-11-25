@@ -1,12 +1,12 @@
 {
   "description": "Real nasty house \ud83d\udd25\ud83d\udd25 featuring Matroda + San Pacho",
-  "num_followers": 1310361,
+  "num_followers": 1310323,
   "original_name": "Nasty Bits",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAABliBUsmp30Fi5+lyBG0rBa5Anm0",
+  "snapshot_id": "AAAAAF9H8m8hWaeHYsQ17N5eYUcZyM7w",
   "tracks": [
     {
       "added_at": "2026-07-24 04:02:19",
@@ -1197,6 +1197,26 @@
       "url": "https://open.spotify.com/track/3vF5tKs2uDgmFd3TzwrJ17"
     },
     {
+      "added_at": "2026-01-09 16:39:37",
+      "album": {
+        "name": "Deeper Underground",
+        "url": "https://open.spotify.com/album/7FAxa5LoYrhF0WG900qKVO"
+      },
+      "artists": [
+        {
+          "name": "Jamiroquai",
+          "url": "https://open.spotify.com/artist/6J7biCazzYhU3gM9j1wfid"
+        },
+        {
+          "name": "Don Diablo",
+          "url": "https://open.spotify.com/artist/1l2ekx5skC4gJH8djERwh1"
+        }
+      ],
+      "duration_ms": 190476,
+      "name": "Deeper Underground",
+      "url": "https://open.spotify.com/track/4wfrI5vr5YpNY23VTcoXJS"
+    },
+    {
       "added_at": "2026-08-04 14:38:07",
       "album": {
         "name": "Blas\u00e9 (Bryce Alakai Remix)",
@@ -1223,26 +1243,6 @@
       "duration_ms": 196363,
       "name": "Blas\u00e9 (Bryce Alakai Remix)",
       "url": "https://open.spotify.com/track/3HvFhvZPgQOPUOTpDi1fZU"
-    },
-    {
-      "added_at": "2026-01-09 16:39:37",
-      "album": {
-        "name": "Deeper Underground",
-        "url": "https://open.spotify.com/album/7FAxa5LoYrhF0WG900qKVO"
-      },
-      "artists": [
-        {
-          "name": "Jamiroquai",
-          "url": "https://open.spotify.com/artist/6J7biCazzYhU3gM9j1wfid"
-        },
-        {
-          "name": "Don Diablo",
-          "url": "https://open.spotify.com/artist/1l2ekx5skC4gJH8djERwh1"
-        }
-      ],
-      "duration_ms": 190476,
-      "name": "Deeper Underground",
-      "url": "https://open.spotify.com/track/4wfrI5vr5YpNY23VTcoXJS"
     },
     {
       "added_at": "2026-01-09 16:39:37",
@@ -1473,22 +1473,6 @@
       "url": "https://open.spotify.com/track/3jdBt6du0bbnOdvonxJgDr"
     },
     {
-      "added_at": "2026-09-11 04:01:44",
-      "album": {
-        "name": "BADDIE",
-        "url": "https://open.spotify.com/album/0g1RE8cvHgGNfeOHxXGe2D"
-      },
-      "artists": [
-        {
-          "name": "Matt Faulk",
-          "url": "https://open.spotify.com/artist/3HHRdsa1Tn7cl2cfJc0O7x"
-        }
-      ],
-      "duration_ms": 190170,
-      "name": "BADDIE",
-      "url": "https://open.spotify.com/track/5aCfSFFmhyaKASq13OPlaA"
-    },
-    {
       "added_at": "2026-01-09 16:39:37",
       "album": {
         "name": "At The Disco",
@@ -1503,6 +1487,22 @@
       "duration_ms": 165146,
       "name": "At The Disco",
       "url": "https://open.spotify.com/track/2PLAhK85fxXzy64KoIKQqg"
+    },
+    {
+      "added_at": "2026-09-11 04:01:44",
+      "album": {
+        "name": "BADDIE",
+        "url": "https://open.spotify.com/album/0g1RE8cvHgGNfeOHxXGe2D"
+      },
+      "artists": [
+        {
+          "name": "Matt Faulk",
+          "url": "https://open.spotify.com/artist/3HHRdsa1Tn7cl2cfJc0O7x"
+        }
+      ],
+      "duration_ms": 190170,
+      "name": "BADDIE",
+      "url": "https://open.spotify.com/track/5aCfSFFmhyaKASq13OPlaA"
     },
     {
       "added_at": "2026-01-09 16:39:37",
@@ -1631,30 +1631,6 @@
     {
       "added_at": "2026-01-09 16:39:37",
       "album": {
-        "name": "Fashion From France",
-        "url": "https://open.spotify.com/album/4XgWx25OZd07OphjZQxsvz"
-      },
-      "artists": [
-        {
-          "name": "Sevek",
-          "url": "https://open.spotify.com/artist/0aOIluXr131XqrXFwFCFGT"
-        },
-        {
-          "name": "BAN DELLO",
-          "url": "https://open.spotify.com/artist/4BrGkYYLoyb06i8FeuXV8v"
-        },
-        {
-          "name": "TOOMANYLEFTHANDS",
-          "url": "https://open.spotify.com/artist/5tCPpDoXfTKy5yTongtDAT"
-        }
-      ],
-      "duration_ms": 132760,
-      "name": "Fashion From France",
-      "url": "https://open.spotify.com/track/3CapV3APaBIJKtg65nbefT"
-    },
-    {
-      "added_at": "2026-01-09 16:39:37",
-      "album": {
         "name": "WHO (You Know What I'm Waiting For)",
         "url": "https://open.spotify.com/album/5UsK5bC1PptKzN6YGNxsaH"
       },
@@ -1675,6 +1651,30 @@
       "duration_ms": 134400,
       "name": "WHO (You Know What I'm Waiting For)",
       "url": "https://open.spotify.com/track/6eTWVeUjiHH9BeWZI5oyyq"
+    },
+    {
+      "added_at": "2026-01-09 16:39:37",
+      "album": {
+        "name": "Fashion From France",
+        "url": "https://open.spotify.com/album/4XgWx25OZd07OphjZQxsvz"
+      },
+      "artists": [
+        {
+          "name": "Sevek",
+          "url": "https://open.spotify.com/artist/0aOIluXr131XqrXFwFCFGT"
+        },
+        {
+          "name": "BAN DELLO",
+          "url": "https://open.spotify.com/artist/4BrGkYYLoyb06i8FeuXV8v"
+        },
+        {
+          "name": "TOOMANYLEFTHANDS",
+          "url": "https://open.spotify.com/artist/5tCPpDoXfTKy5yTongtDAT"
+        }
+      ],
+      "duration_ms": 132760,
+      "name": "Fashion From France",
+      "url": "https://open.spotify.com/track/3CapV3APaBIJKtg65nbefT"
     },
     {
       "added_at": "2026-01-09 16:39:37",
@@ -1961,26 +1961,6 @@
       "url": "https://open.spotify.com/track/55gp7v87CYS1lxWQ5ho5nK"
     },
     {
-      "added_at": "2026-09-18 04:02:27",
-      "album": {
-        "name": "Astronaught",
-        "url": "https://open.spotify.com/album/13mgYrLZkjdswhFO6HAAp0"
-      },
-      "artists": [
-        {
-          "name": "Matt Sassari",
-          "url": "https://open.spotify.com/artist/21dVknSLCsK37cWozWDZZS"
-        },
-        {
-          "name": "Mont Rouge",
-          "url": "https://open.spotify.com/artist/29Spoit35xez115MTLfMB4"
-        }
-      ],
-      "duration_ms": 181868,
-      "name": "Astronaught",
-      "url": "https://open.spotify.com/track/1pnkha1hAbEinnneiO6ICF"
-    },
-    {
       "added_at": "2026-07-10 04:01:45",
       "album": {
         "name": "Bangarang",
@@ -2011,6 +1991,26 @@
       "duration_ms": 181417,
       "name": "No Bite",
       "url": "https://open.spotify.com/track/7EJHzVwc2j2wr7vD8QOHAx"
+    },
+    {
+      "added_at": "2026-09-18 04:02:27",
+      "album": {
+        "name": "Astronaught",
+        "url": "https://open.spotify.com/album/13mgYrLZkjdswhFO6HAAp0"
+      },
+      "artists": [
+        {
+          "name": "Matt Sassari",
+          "url": "https://open.spotify.com/artist/21dVknSLCsK37cWozWDZZS"
+        },
+        {
+          "name": "Mont Rouge",
+          "url": "https://open.spotify.com/artist/29Spoit35xez115MTLfMB4"
+        }
+      ],
+      "duration_ms": 181868,
+      "name": "Astronaught",
+      "url": "https://open.spotify.com/track/1pnkha1hAbEinnneiO6ICF"
     },
     {
       "added_at": "2026-06-15 17:48:38",
@@ -2105,6 +2105,46 @@
       "url": "https://open.spotify.com/track/62yNypLpqka98xwxh0zZ3J"
     },
     {
+      "added_at": "2026-01-09 16:39:37",
+      "album": {
+        "name": "Animal",
+        "url": "https://open.spotify.com/album/0AneBzWKn1gf3K5oK6t9OD"
+      },
+      "artists": [
+        {
+          "name": "Ship Wrek",
+          "url": "https://open.spotify.com/artist/1ic0FHNGIjXZAWH6O6Reif"
+        },
+        {
+          "name": "Datti",
+          "url": "https://open.spotify.com/artist/0QJjhIiIMNvHGyltsojy5Q"
+        }
+      ],
+      "duration_ms": 193655,
+      "name": "Animal",
+      "url": "https://open.spotify.com/track/0N4X1hvBtjRkF8zbD1FOGc"
+    },
+    {
+      "added_at": "2026-01-09 16:39:37",
+      "album": {
+        "name": "Grind It",
+        "url": "https://open.spotify.com/album/08uu6Hm0wKc8mJX95nwhu1"
+      },
+      "artists": [
+        {
+          "name": "Julian Jordan",
+          "url": "https://open.spotify.com/artist/2vUCVkeZjzDcaoX4gagHdV"
+        },
+        {
+          "name": "EJ3000",
+          "url": "https://open.spotify.com/artist/6dpX7szxr75uXCxiqhp7Cu"
+        }
+      ],
+      "duration_ms": 185033,
+      "name": "Grind It",
+      "url": "https://open.spotify.com/track/59oNw10kWdQbWaYl2mYUVM"
+    },
+    {
       "added_at": "2026-08-28 04:01:56",
       "album": {
         "name": "Thirsty (feat. Datti)",
@@ -2127,22 +2167,18 @@
     {
       "added_at": "2026-01-09 16:39:37",
       "album": {
-        "name": "Animal",
-        "url": "https://open.spotify.com/album/0AneBzWKn1gf3K5oK6t9OD"
+        "name": "Gimme That Money",
+        "url": "https://open.spotify.com/album/4SGGU2KzI9HnljEl6EjKIJ"
       },
       "artists": [
         {
-          "name": "Ship Wrek",
-          "url": "https://open.spotify.com/artist/1ic0FHNGIjXZAWH6O6Reif"
-        },
-        {
-          "name": "Datti",
-          "url": "https://open.spotify.com/artist/0QJjhIiIMNvHGyltsojy5Q"
+          "name": "Wax Motif",
+          "url": "https://open.spotify.com/artist/7zm3aSdmGiOkTt0aZFSO8R"
         }
       ],
-      "duration_ms": 193655,
-      "name": "Animal",
-      "url": "https://open.spotify.com/track/0N4X1hvBtjRkF8zbD1FOGc"
+      "duration_ms": 211904,
+      "name": "Gimme That Money",
+      "url": "https://open.spotify.com/track/1oGns5fvUsvrsm9TtYQdmN"
     },
     {
       "added_at": "2026-08-21 04:01:29",
@@ -2167,18 +2203,18 @@
     {
       "added_at": "2026-01-09 16:39:37",
       "album": {
-        "name": "Gimme That Money",
-        "url": "https://open.spotify.com/album/4SGGU2KzI9HnljEl6EjKIJ"
+        "name": "Ice Cold",
+        "url": "https://open.spotify.com/album/31TlX2Ge3rHi1fDpC87REU"
       },
       "artists": [
         {
-          "name": "Wax Motif",
-          "url": "https://open.spotify.com/artist/7zm3aSdmGiOkTt0aZFSO8R"
+          "name": "Matt Faulk",
+          "url": "https://open.spotify.com/artist/3HHRdsa1Tn7cl2cfJc0O7x"
         }
       ],
-      "duration_ms": 211904,
-      "name": "Gimme That Money",
-      "url": "https://open.spotify.com/track/1oGns5fvUsvrsm9TtYQdmN"
+      "duration_ms": 194076,
+      "name": "Ice Cold",
+      "url": "https://open.spotify.com/track/17WGZkgxe1U2qYpT7wjUQV"
     },
     {
       "added_at": "2026-01-09 16:39:37",
@@ -2203,58 +2239,6 @@
     {
       "added_at": "2026-01-09 16:39:37",
       "album": {
-        "name": "Ice Cold",
-        "url": "https://open.spotify.com/album/31TlX2Ge3rHi1fDpC87REU"
-      },
-      "artists": [
-        {
-          "name": "Matt Faulk",
-          "url": "https://open.spotify.com/artist/3HHRdsa1Tn7cl2cfJc0O7x"
-        }
-      ],
-      "duration_ms": 194076,
-      "name": "Ice Cold",
-      "url": "https://open.spotify.com/track/17WGZkgxe1U2qYpT7wjUQV"
-    },
-    {
-      "added_at": "2026-01-09 16:39:37",
-      "album": {
-        "name": "Grind It",
-        "url": "https://open.spotify.com/album/08uu6Hm0wKc8mJX95nwhu1"
-      },
-      "artists": [
-        {
-          "name": "Julian Jordan",
-          "url": "https://open.spotify.com/artist/2vUCVkeZjzDcaoX4gagHdV"
-        },
-        {
-          "name": "EJ3000",
-          "url": "https://open.spotify.com/artist/6dpX7szxr75uXCxiqhp7Cu"
-        }
-      ],
-      "duration_ms": 185033,
-      "name": "Grind It",
-      "url": "https://open.spotify.com/track/59oNw10kWdQbWaYl2mYUVM"
-    },
-    {
-      "added_at": "2026-07-17 04:01:08",
-      "album": {
-        "name": "Salt on my lips",
-        "url": "https://open.spotify.com/album/0FasIYtmgj7NY5QqScruCH"
-      },
-      "artists": [
-        {
-          "name": "Chapter & Verse",
-          "url": "https://open.spotify.com/artist/5yPVuutf3WAXUt1VqDaN1t"
-        }
-      ],
-      "duration_ms": 219534,
-      "name": "Salt on my lips",
-      "url": "https://open.spotify.com/track/29qf4tjIsZbpjXCfLa6UWf"
-    },
-    {
-      "added_at": "2026-01-09 16:39:37",
-      "album": {
         "name": "Renegade Master (Don Diablo Edit)",
         "url": "https://open.spotify.com/album/0NRlW0uReoU6nZN5Rc3xlj"
       },
@@ -2271,6 +2255,22 @@
       "duration_ms": 217846,
       "name": "Renegade Master - Don Diablo Edit",
       "url": "https://open.spotify.com/track/4lNAIalHgxfJGztrrxVFom"
+    },
+    {
+      "added_at": "2026-07-17 04:01:08",
+      "album": {
+        "name": "Salt on my lips",
+        "url": "https://open.spotify.com/album/0FasIYtmgj7NY5QqScruCH"
+      },
+      "artists": [
+        {
+          "name": "Chapter & Verse",
+          "url": "https://open.spotify.com/artist/5yPVuutf3WAXUt1VqDaN1t"
+        }
+      ],
+      "duration_ms": 219534,
+      "name": "Salt on my lips",
+      "url": "https://open.spotify.com/track/29qf4tjIsZbpjXCfLa6UWf"
     },
     {
       "added_at": "2026-08-21 04:01:29",
@@ -2381,22 +2381,6 @@
       "url": "https://open.spotify.com/track/3z6iNWPSuT1YeytMUNlqkP"
     },
     {
-      "added_at": "2026-10-02 04:01:32",
-      "album": {
-        "name": "Never Crash",
-        "url": "https://open.spotify.com/album/4jBbHw1xY7l0F51Wv4Cmlc"
-      },
-      "artists": [
-        {
-          "name": "Rafael Cerato",
-          "url": "https://open.spotify.com/artist/3NUcxMYt10f6cx567crDk2"
-        }
-      ],
-      "duration_ms": 225230,
-      "name": "Never Crash",
-      "url": "https://open.spotify.com/track/04yNxRlfSYO2hUhgOOx3Nb"
-    },
-    {
       "added_at": "2026-03-06 05:00:10",
       "album": {
         "name": "INERTIA",
@@ -2415,6 +2399,22 @@
       "duration_ms": 175000,
       "name": "YOU GOT ME",
       "url": "https://open.spotify.com/track/0clHsShVOKyXflPbH5adcg"
+    },
+    {
+      "added_at": "2026-10-02 04:01:32",
+      "album": {
+        "name": "Never Crash",
+        "url": "https://open.spotify.com/album/4jBbHw1xY7l0F51Wv4Cmlc"
+      },
+      "artists": [
+        {
+          "name": "Rafael Cerato",
+          "url": "https://open.spotify.com/artist/3NUcxMYt10f6cx567crDk2"
+        }
+      ],
+      "duration_ms": 225230,
+      "name": "Never Crash",
+      "url": "https://open.spotify.com/track/04yNxRlfSYO2hUhgOOx3Nb"
     }
   ],
   "unique_name": "Nasty Bits",

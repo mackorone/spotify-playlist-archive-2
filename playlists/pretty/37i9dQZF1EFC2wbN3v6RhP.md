@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFC2wbN3v6RhP.md) - [plain]
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/1Pk7rcCDQIzm46M7Z50xDh">Taylor Swift</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 65,996 likes - 229 songs - 15 hr 2 min
+[Spotify](https://open.spotify.com/user/spotify) - 65,995 likes - 229 songs - 15 hr 2 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -147,8 +147,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFC2wbN3v6RhP.md) - [plain]
 | 137 | [High Infidelity](https://open.spotify.com/track/4356PL6jkERzJouVfQQkZo) | [Taylor Swift](https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02) | [Midnights \(3am Edition\)](https://open.spotify.com/album/4894htPwC6zoiuTqUQwn4I) | 3:51 |
 | 138 | [How You Get The Girl](https://open.spotify.com/track/0fM9dEhUFV4MHDuJgrcfOv) | [Taylor Swift](https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02) | [1989 \(Deluxe\)](https://open.spotify.com/album/1yGbNOtRIgdIiGHOEBaZWf) | 4:07 |
 | 139 | [Sparks Fly \(Taylor’s Version\)](https://open.spotify.com/track/3MytWN8L7shNYzGl4tAKRp) | [Taylor Swift](https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02) | [Speak Now \(Taylor's Version\)](https://open.spotify.com/album/5AEDGbliTTfjOB8TSm1sxt) | 4:21 |
-| 140 | [Welcome To New York \(Taylor's Version\)](https://open.spotify.com/track/1hR8BSuEqPCCZfv93zzzz9) | [Taylor Swift](https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02) | [1989 \(Taylor's Version\)](https://open.spotify.com/album/64LU4c1nfjz1t4VnGhagcg) | 3:32 |
-| 141 | [I Can Fix Him \(No Really I Can\)](https://open.spotify.com/track/2h3MDMf8sd9s4XIzpTBIjX) | [Taylor Swift](https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02) | [THE TORTURED POETS DEPARTMENT](https://open.spotify.com/album/1Mo4aZ8pdj6L1jx8zSwJnt) | 2:36 |
+| 140 | [I Can Fix Him \(No Really I Can\)](https://open.spotify.com/track/2h3MDMf8sd9s4XIzpTBIjX) | [Taylor Swift](https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02) | [THE TORTURED POETS DEPARTMENT](https://open.spotify.com/album/1Mo4aZ8pdj6L1jx8zSwJnt) | 2:36 |
+| 141 | [Welcome To New York \(Taylor's Version\)](https://open.spotify.com/track/1hR8BSuEqPCCZfv93zzzz9) | [Taylor Swift](https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02) | [1989 \(Taylor's Version\)](https://open.spotify.com/album/64LU4c1nfjz1t4VnGhagcg) | 3:32 |
 | 142 | [Clean \(Taylor's Version\)](https://open.spotify.com/track/2ByBBvpR9b7IynvRmnG7kG) | [Taylor Swift](https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02) | [1989 \(Taylor's Version\)](https://open.spotify.com/album/64LU4c1nfjz1t4VnGhagcg) | 4:31 |
 | 143 | [Peter](https://open.spotify.com/track/3zMDGj4D8ogaYgAIZPeU7S) | [Taylor Swift](https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02) | [THE TORTURED POETS DEPARTMENT: THE ANTHOLOGY](https://open.spotify.com/album/5H7ixXZfsNMGbIE5OBSpcb) | 4:43 |
 | 144 | [I Hate It Here](https://open.spotify.com/track/3hlGuz3loYoLfI3bpwieWq) | [Taylor Swift](https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02) | [THE TORTURED POETS DEPARTMENT: THE ANTHOLOGY](https://open.spotify.com/album/5H7ixXZfsNMGbIE5OBSpcb) | 4:03 |
@@ -226,8 +226,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFC2wbN3v6RhP.md) - [plain]
 | 216 | [Bye Bye Baby \(Taylor’s Version\) \(From The Vault\)](https://open.spotify.com/track/4qUijfYU8EoIWiY6oSyrgT) | [Taylor Swift](https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02) | [Fearless \(Taylor's Version\)](https://open.spotify.com/album/4hDok0OAJd57SGIT8xuWJH) | 4:02 |
 | 217 | [Innocent \(Taylor's Version\)](https://open.spotify.com/track/12nBPF4Rh4XLFJV0YLN7uj) | [Taylor Swift](https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02) | [Speak Now \(Taylor's Version\)](https://open.spotify.com/album/5AEDGbliTTfjOB8TSm1sxt) | 5:01 |
 | 218 | [Babylon](https://open.spotify.com/track/2j7wI9QWrP8cjKDdOLVQTU) | [Taylor Swift](https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02) | [The Life of a Showgirl: The Encore](https://open.spotify.com/album/4hF2gTGuPYlykYuphDxi8J) | 3:39 |
-| 219 | [Change \(Taylor’s Version\)](https://open.spotify.com/track/3ExweHKZF9B752DPQByRVT) | [Taylor Swift](https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02) | [Fearless \(Taylor's Version\)](https://open.spotify.com/album/4hDok0OAJd57SGIT8xuWJH) | 4:39 |
-| 220 | [Pink Clouding](https://open.spotify.com/track/3gyJbNBTRVRdZDA1yO3clm) | [Taylor Swift](https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02) | [The Life of a Showgirl: The Encore](https://open.spotify.com/album/4hF2gTGuPYlykYuphDxi8J) | 3:10 |
+| 219 | [Pink Clouding](https://open.spotify.com/track/3gyJbNBTRVRdZDA1yO3clm) | [Taylor Swift](https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02) | [The Life of a Showgirl: The Encore](https://open.spotify.com/album/4hF2gTGuPYlykYuphDxi8J) | 3:10 |
+| 220 | [Change \(Taylor’s Version\)](https://open.spotify.com/track/3ExweHKZF9B752DPQByRVT) | [Taylor Swift](https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02) | [Fearless \(Taylor's Version\)](https://open.spotify.com/album/4hDok0OAJd57SGIT8xuWJH) | 4:39 |
 | 221 | [Superman \(Taylor’s Version\)](https://open.spotify.com/track/4evLyY5Ue1Wesc61t2KXAU) | [Taylor Swift](https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02) | [Speak Now \(Taylor's Version\)](https://open.spotify.com/album/5AEDGbliTTfjOB8TSm1sxt) | 4:34 |
 | 222 | [Ronan \(Taylor's Version\)](https://open.spotify.com/track/7nWui6jiMM2m9qFmET1Mtj) | [Taylor Swift](https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02) | [Red \(Taylor's Version\)](https://open.spotify.com/album/6kZ42qRrzov54LcAk4onW9) | 4:24 |
 | 223 | [Cleveland!](https://open.spotify.com/track/7uxkx8HPBYkJKcimOyggUM) | [Taylor Swift](https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02) | [The Life of a Showgirl: The Encore](https://open.spotify.com/album/4hF2gTGuPYlykYuphDxi8J) | 3:26 |
@@ -238,4 +238,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFC2wbN3v6RhP.md) - [plain]
 | 228 | [ME! \- Live From Paris](https://open.spotify.com/track/5fOV54t6mMYv3H9CsnvU81) | [Taylor Swift](https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02) | [ME! \(Live From Paris\)](https://open.spotify.com/album/1jIp7CChnwdj9zUCvPxzQ7) | 3:33 |
 | 229 | [Beautiful Ghosts \(Victoria’s Song\) \- From The Motion Picture Soundtrack "Cats"](https://open.spotify.com/track/1EBBNQDbxG6jfdiGTeWPdT) | [Francesca Hayward](https://open.spotify.com/artist/73jlloXDUzlTRHOcO9JhIg) | [Cats: Highlights From The Motion Picture Soundtrack](https://open.spotify.com/album/3OjtXmDVcfHAjJOS3xBoYU) | 2:50 |
 
-Snapshot ID: `AcifMgAAAACMVd79QWvA+N/tqxw32cZV`
+Snapshot ID: `AciklgAAAAB//4J5IA7LSndYMKQqdv6w`

@@ -17671,6 +17671,24 @@
     },
     {
       "album": {
+        "name": "Headliner",
+        "url": "https://open.spotify.com/album/6JcCv9NZt9eqxPHtO9hnjl"
+      },
+      "artists": [
+        {
+          "name": "Pretty Sick",
+          "url": "https://open.spotify.com/artist/5JUGL6ec4eULQ5eVEbOC7e"
+        }
+      ],
+      "date_added": "2026-11-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 192000,
+      "name": "Headliner",
+      "url": "https://open.spotify.com/track/4KDJfug28h0LbZpdJmC73S"
+    },
+    {
+      "album": {
         "name": "Baggy$$",
         "url": "https://open.spotify.com/album/0cX9ldzQG2UYMHo6ILXXYk"
       },

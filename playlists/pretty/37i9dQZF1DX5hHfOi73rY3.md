@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5hHfOi73rY3.md) - [plain]
 
 > Dance anthems from the club to your ears!
 
-[Spotify](https://open.spotify.com/user/spotify) - 328,998 likes - 50 songs - 2 hr 44 min
+[Spotify](https://open.spotify.com/user/spotify) - 329,015 likes - 50 songs - 2 hr 47 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -42,8 +42,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5hHfOi73rY3.md) - [plain]
 | 32 | [Groove Thang](https://open.spotify.com/track/6pyjUNNPUAHqRkvD0ZEDFz) | [Ewan McVicar](https://open.spotify.com/artist/4d2NUjh9ZrzG1ZZdhpSDKH) | [Groove Thang](https://open.spotify.com/album/1PPPSHY19tixIaMCbDJihZ) | 3:40 |
 | 33 | [Up Front](https://open.spotify.com/track/74X66DXVuSLDEOp3sR8GFL) | [DREYA V](https://open.spotify.com/artist/4EFAuQI8Ou0bmpf5Vh1P5P) | [Up Front](https://open.spotify.com/album/6eLVBuH7e14JC1pRR09kzP) | 3:27 |
 | 34 | [Campeón](https://open.spotify.com/track/5TpWybXTsLTUAj4WcUYkP0) | [ZULAN](https://open.spotify.com/artist/2Yz9F5lQVc0p6SDxkw2BvF) | [Campeón](https://open.spotify.com/album/5O3GNoKOWUnyvUQoGSceKy) | 2:53 |
-| 35 | [Gets Like That \- Jamie Jones Remix](https://open.spotify.com/track/0axzZ7BBLs8n6XXkheqX3W) | [Jamie Jones](https://open.spotify.com/artist/4admDxmnri5Zco0xYrJ0ji), [Max Dean](https://open.spotify.com/artist/65TLDWbTJxYASqadmNAxvc), [Luke Dean](https://open.spotify.com/artist/2BhXOZ96YbOdXz8F6HVUw4) | [Gets Like That \(Jamie Jones Remix\)](https://open.spotify.com/album/2pIThEiymteX1pfyoQAd3G) | 3:43 |
-| 36 | [COLLECT THE COMMAS](https://open.spotify.com/track/5e3NwBC0E6xjX9c1Uc8RHy) | [PAWSA](https://open.spotify.com/artist/4E0HD2PMY8kQJIjlShrLUS) | [COLLECT THE COMMAS](https://open.spotify.com/album/6AVl6czEyN0v5GRaeCr4WY) | 3:41 |
+| 35 | [COLLECT THE COMMAS](https://open.spotify.com/track/5e3NwBC0E6xjX9c1Uc8RHy) | [PAWSA](https://open.spotify.com/artist/4E0HD2PMY8kQJIjlShrLUS) | [COLLECT THE COMMAS](https://open.spotify.com/album/6AVl6czEyN0v5GRaeCr4WY) | 3:41 |
+| 36 | [Gets Like That \- Jamie Jones Remix](https://open.spotify.com/track/0axzZ7BBLs8n6XXkheqX3W) | [Jamie Jones](https://open.spotify.com/artist/4admDxmnri5Zco0xYrJ0ji), [Max Dean](https://open.spotify.com/artist/65TLDWbTJxYASqadmNAxvc), [Luke Dean](https://open.spotify.com/artist/2BhXOZ96YbOdXz8F6HVUw4) | [Gets Like That \(Jamie Jones Remix\)](https://open.spotify.com/album/2pIThEiymteX1pfyoQAd3G) | 3:43 |
 | 37 | [stayinit](https://open.spotify.com/track/6WS2TcsMEGOFtveWbtbuwZ) | [Fred again..](https://open.spotify.com/artist/4oLeXFyACqeem2VImYeBFe), [Lil Yachty](https://open.spotify.com/artist/6icQOAFXDZKsumw3YXyusw), [Overmono](https://open.spotify.com/artist/01PnN11ovfen6xUOHfNpn3) | [stayinit](https://open.spotify.com/album/0DeGmYq33W6Svw1eTgnxDF) | 4:34 |
 | 38 | [Atmosphere](https://open.spotify.com/track/0yfJlRyn9VEZfonQUIPdkr) | [FISHER](https://open.spotify.com/artist/1VJ0briNOlXRtJUAzoUJdt), [Kita Alexander](https://open.spotify.com/artist/3CGuwWgoCYSO5Z72H5G2Ec) | [Atmosphere](https://open.spotify.com/album/0HJyrlWLM8NLuxsjbvLejV) | 3:02 |
 | 39 | [Break](https://open.spotify.com/track/0KDWgkllpxZtcy5fNQOzwO) | [Tini Gessler](https://open.spotify.com/artist/5k1fr2qbGZrk40njMAyv0x) | [Break](https://open.spotify.com/album/1s7ypuIcLO2C9Qc4MFH4hj) | 2:31 |
@@ -52,11 +52,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5hHfOi73rY3.md) - [plain]
 | 42 | [KILL DEM](https://open.spotify.com/track/5CE0k1VmTXgCtaa5L288LP) | [Jamie xx](https://open.spotify.com/artist/7A0awCXkE1FtSU8B0qwOJQ) | [KILL DEM](https://open.spotify.com/album/71iqkeqFNSiCgum1gPfeZo) | 3:43 |
 | 43 | [Good Lies](https://open.spotify.com/track/59GW6EKtdyaJ10t2yQdqrt) | [Overmono](https://open.spotify.com/artist/01PnN11ovfen6xUOHfNpn3) | [Good Lies](https://open.spotify.com/album/7whc0AZT0radX0A08ZgbCd) | 2:40 |
 | 44 | [That's Right](https://open.spotify.com/track/34bvypiveNLMCrB0iGWviM) | [Bontan](https://open.spotify.com/artist/1tZgoMqNTa7lII4w9pV3ud) | [That's Right](https://open.spotify.com/album/5pkd3bdFVLqSUBGbYda4gU) | 3:39 |
-| 45 | [God Made Me Phunky \- Jess Bays Remix](https://open.spotify.com/track/6qRzNXm3vpGcGoLVB3zk9n) | [MD X\-Spress](https://open.spotify.com/artist/61YPxKmHE20pcKZNYi4sUS), [Jess Bays](https://open.spotify.com/artist/5xEJ7FQOtIUMLdnKyZrvPB) | [God Made Me Phunky \(Jess Bays Remix\)](https://open.spotify.com/album/5ntomn4F2F0AA7r6n8Y8Hl) | 3:40 |
-| 46 | [My Body \(feat\. Y&M\)](https://open.spotify.com/track/2SrEtVmJxuhLTshjg6tYpZ) | [illusionize](https://open.spotify.com/artist/3RloA7E4XMItSP4FjMBv3L), [Y&M](https://open.spotify.com/artist/4kBQMGA0POEYcQHxWMaf7Q) | [My Body \(feat\. Y&M\)](https://open.spotify.com/album/4BsjnI1ksUfBQbOZXXL0PL) | 2:40 |
+| 45 | [My Body \(feat\. Y&M\)](https://open.spotify.com/track/2SrEtVmJxuhLTshjg6tYpZ) | [illusionize](https://open.spotify.com/artist/3RloA7E4XMItSP4FjMBv3L), [Y&M](https://open.spotify.com/artist/4kBQMGA0POEYcQHxWMaf7Q) | [My Body \(feat\. Y&M\)](https://open.spotify.com/album/4BsjnI1ksUfBQbOZXXL0PL) | 2:40 |
+| 46 | [God Made Me Phunky \- Jess Bays Remix](https://open.spotify.com/track/6qRzNXm3vpGcGoLVB3zk9n) | [MD X\-Spress](https://open.spotify.com/artist/61YPxKmHE20pcKZNYi4sUS), [Jess Bays](https://open.spotify.com/artist/5xEJ7FQOtIUMLdnKyZrvPB) | [God Made Me Phunky \(Jess Bays Remix\)](https://open.spotify.com/album/5ntomn4F2F0AA7r6n8Y8Hl) | 3:40 |
 | 47 | [Stunner](https://open.spotify.com/track/6RmHESttla4I4g4vr0NLkQ) | [Deeper Purpose](https://open.spotify.com/artist/10Bo1ofGMWr6hFD7OM7W7r), [Jack Orley](https://open.spotify.com/artist/0pT6RTEfYjBYhx3poFov1j), [Michael Ekow](https://open.spotify.com/artist/2WImvuJ2dUdnyZDT69SROJ) | [Stunner](https://open.spotify.com/album/2N9S0Hd0AzQSdRxlLhS1oP) | 2:58 |
-| 48 | [Watch Out Now](https://open.spotify.com/track/5kLXDttdWGI7ERlQHwULX0) | [Tim Sanders](https://open.spotify.com/artist/1E3ho9kLdNdFz1L1JISV82), [Marshall Jefferson](https://open.spotify.com/artist/2Di8r9df6xjyj6CVOqbGVz) | [Watch Out Now](https://open.spotify.com/album/36UhpTxYgQTTZS4usewuKY) | 2:43 |
-| 49 | [Tension](https://open.spotify.com/track/4PJYVBDYTKwK1hODEfytY7) | [Kamino](https://open.spotify.com/artist/6XYhu7HPIJ47SY98bY1Hnx), [Kyra Mastro](https://open.spotify.com/artist/0VijmgKPGaaOsmM6jWgbQJ) | [Tension](https://open.spotify.com/album/0mNkjg8bqk5QdiIiDcHXcC) | 2:28 |
-| 50 | [Motions](https://open.spotify.com/track/17uHvLtwD5GefKQECNBUv8) | [Prospa](https://open.spotify.com/artist/6HabM2PUM519iIxervGWSb) | [If You Want My Loving](https://open.spotify.com/album/7DF7P83D9H9q6e6LXLr5JH) | 3:28 |
+| 48 | [Paradise Runner](https://open.spotify.com/track/3L7TOZvbuTsxH5EM8LVHUZ) | [Overmono](https://open.spotify.com/artist/01PnN11ovfen6xUOHfNpn3) | [Paradise Runner](https://open.spotify.com/album/2llFvkt14pwvA4XzsSC9I5) | 4:36 |
+| 49 | [Motions](https://open.spotify.com/track/17uHvLtwD5GefKQECNBUv8) | [Prospa](https://open.spotify.com/artist/6HabM2PUM519iIxervGWSb) | [If You Want My Loving](https://open.spotify.com/album/7DF7P83D9H9q6e6LXLr5JH) | 3:28 |
+| 50 | [Watch Out Now](https://open.spotify.com/track/5kLXDttdWGI7ERlQHwULX0) | [Tim Sanders](https://open.spotify.com/artist/1E3ho9kLdNdFz1L1JISV82), [Marshall Jefferson](https://open.spotify.com/artist/2Di8r9df6xjyj6CVOqbGVz) | [Watch Out Now](https://open.spotify.com/album/36UhpTxYgQTTZS4usewuKY) | 2:43 |
 
-Snapshot ID: `AAAAAGAR0ACXc/6+WLh+G7TQ8FUqyCmD`
+Snapshot ID: `AAAAAOrvkSlXgBM6/6AcJo6cOw/Gv/ir`

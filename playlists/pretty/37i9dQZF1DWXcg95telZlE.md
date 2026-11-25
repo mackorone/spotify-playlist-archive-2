@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXcg95telZlE.md) - [plain]
 
 > Mellow songs from the 1950s\. Cover: Frank Sinatra.
 
-[Spotify](https://open.spotify.com/user/spotify) - 546,074 likes - 82 songs - 3 hr 52 min
+[Spotify](https://open.spotify.com/user/spotify) - 546,116 likes - 82 songs - 3 hr 52 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -56,9 +56,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXcg95telZlE.md) - [plain]
 | 46 | [Born Too Late](https://open.spotify.com/track/3JebzygT2LJdcS24gfZ6ti) | [The Poni\-Tails](https://open.spotify.com/artist/2NbPfkf3TYSRoJ64inF0AN) | [Born to Late](https://open.spotify.com/album/5TKfp7L2xIT6hRMaBlHM5y) | 2:19 |
 | 47 | [I Believe](https://open.spotify.com/track/3FzkbFgVGdg4zqyCMzUPM7) | [Frankie Laine](https://open.spotify.com/artist/3cgO5CdhEHKMxldjZlP5ix) | [Command Performance](https://open.spotify.com/album/44i8VkJcTp0sKdBtXGa2nk) | 2:07 |
 | 48 | [Chances Are \- Single Version](https://open.spotify.com/track/63NmQTtxQLHSRp7li6aAmP) | [Johnny Mathis](https://open.spotify.com/artist/21LGsW7bziR4Ledx7WZ1Wf) | [The Essential Johnny Mathis 3.0](https://open.spotify.com/album/2VSzjViVZMciyUX0M1rFTv) | 3:01 |
-| 49 | [Mood Indigo \- Remastered 1998](https://open.spotify.com/track/2LuKtTtotMk41MxesmjCdR) | [Frank Sinatra](https://open.spotify.com/artist/1Mxqyy3pSjf8kZZL4QVxS0) | [In The Wee Small Hours](https://open.spotify.com/album/3GmwKB1tgPZgXeRJZSm9WX) | 3:30 |
+| 49 | [I've Got A Crush On You](https://open.spotify.com/track/6f4Zazr4tHJ8iekdSwbBpT) | [Sarah Vaughan](https://open.spotify.com/artist/1bgyxtWjZwA5PQlDsvs9b8) | [Sarah Vaughan Sings George Gershwin](https://open.spotify.com/album/3WNkR1jew5kfBxl1PhgwPa) | 4:06 |
 | 50 | [Prisoner Of Love](https://open.spotify.com/track/44i1lqENyhAqAi9IDJI0j4) | [The Platters](https://open.spotify.com/artist/6KWcxMWVNVIYbdOQyJtsSy) | [Remember When?](https://open.spotify.com/album/3hf24dCfmmDihusVyBLliZ) | 3:04 |
-| 51 | [I've Got A Crush On You](https://open.spotify.com/track/6f4Zazr4tHJ8iekdSwbBpT) | [Sarah Vaughan](https://open.spotify.com/artist/1bgyxtWjZwA5PQlDsvs9b8) | [Sarah Vaughan Sings George Gershwin](https://open.spotify.com/album/3WNkR1jew5kfBxl1PhgwPa) | 4:06 |
+| 51 | [Mood Indigo \- Remastered 1998](https://open.spotify.com/track/2LuKtTtotMk41MxesmjCdR) | [Frank Sinatra](https://open.spotify.com/artist/1Mxqyy3pSjf8kZZL4QVxS0) | [In The Wee Small Hours](https://open.spotify.com/album/3GmwKB1tgPZgXeRJZSm9WX) | 3:30 |
 | 52 | [Cry](https://open.spotify.com/track/4wnFpRgQu2gLN8d76dYOGr) | [Johnnie Ray](https://open.spotify.com/artist/6SQKNCUKIWjR1pQ1U3PZZq) | [16 Most Requested Songs](https://open.spotify.com/album/1MqnaRP5Mi9yN8mOis4YUM) | 3:01 |
 | 53 | [A Certain Smile \- From the 20th Century Fox Film "A Certain Smile"](https://open.spotify.com/track/76eNJQoJmN4mfsUW0q8HPv) | [Johnny Mathis](https://open.spotify.com/artist/21LGsW7bziR4Ledx7WZ1Wf) | [The Essential Johnny Mathis](https://open.spotify.com/album/4KM9hhWCgasx9j7y3NogNv) | 2:48 |
 | 54 | [April Love](https://open.spotify.com/track/5ax1MN2MGW0ZJXquCkpuLM) | [Pat Boone](https://open.spotify.com/artist/7fmKtIgmxqNEKjATioVNsu) | [Pat Boone's Greatest Hits \(Reissue\)](https://open.spotify.com/album/4UfDMjg8GFc3RZx5KILDlZ) | 2:41 |
@@ -91,4 +91,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXcg95telZlE.md) - [plain]
 | 81 | [Tennessee Waltz](https://open.spotify.com/track/7t8Tzd9FqVz2asFMCL0HpZ) | [Patti Page](https://open.spotify.com/artist/4nZN9kln8toEzOifhWG2uF) | [Rockin' Gals Of The 1950's](https://open.spotify.com/album/27lZJLd8V0j7jQdmQ7ZNx4) | 3:03 |
 | 82 | [Mona Lisa](https://open.spotify.com/track/3KC5yrPGuw8NFjtCBt5qOZ) | [Nat King Cole](https://open.spotify.com/artist/7v4imS0moSyGdXyLgVTIV7) | [The Ultimate Collection](https://open.spotify.com/album/0X60d06UrpWTMaLwMPd4Od) | 3:27 |
 
-Snapshot ID: `AAAAAOQqdnrz0hx0grMXhm8u5K31HREY`
+Snapshot ID: `AAAAAIhbgqaiUEoVJXSt7QfxF86dOzeq`

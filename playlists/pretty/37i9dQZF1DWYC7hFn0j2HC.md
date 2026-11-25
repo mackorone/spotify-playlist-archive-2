@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYC7hFn0j2HC.md) - [plain]
 
 > ¡Lo mejor de los charros cantores! Antonio Aguilar en portada.
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,175,877 likes - 70 songs - 3 hr 28 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,175,855 likes - 70 songs - 3 hr 28 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -77,6 +77,6 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYC7hFn0j2HC.md) - [plain]
 | 67 | [Tu Recuerdo y Yo](https://open.spotify.com/track/3lZoUqRzTxWhcdb09i0Pqd) | [José Alfredo Jimenez](https://open.spotify.com/artist/2T06whb4s6UiufL1j5Qtz9) | [Cuando Lloran Los Hombres Jose Alfredo Jimenez](https://open.spotify.com/album/0bTcFD3avkAGQBnWuGF4sO) | 3:17 |
 | 68 | [Ojitos Traidores](https://open.spotify.com/track/0Q3lMnbeDXiNkSKyLOT2tM) | [Javier Solís](https://open.spotify.com/artist/7jerD1mbWgyDukHAmCvdCj) | [Javier Solis Con Acoo De Mariachi](https://open.spotify.com/album/0mo4FKlS0n0NtMAQw8SdNn) | 2:42 |
 | 69 | [A Quién Vas a Amar Más Que a Mí](https://open.spotify.com/track/1IV8PlSxx5PUiaxKwVrlg9) | [Vicente Fernández](https://open.spotify.com/artist/4PPoI9LuYeFX8V674Z1R6l) | [Vicente Fernandez Para Siempre](https://open.spotify.com/album/3o98FgxhuEuR7PrLRIA203) | 2:47 |
-| 70 | [Tata Dios](https://open.spotify.com/track/3hk6MLu7MCPDGQJPL6SY9s) | [Miguel Aceves Mejia](https://open.spotify.com/artist/23XJNT1Hb35h3ZCDl7lpWY) | [Lo Mejor De Lo Mejor De RCA Victor](https://open.spotify.com/album/2PactlWmapDE3PmauHBEPo) | 3:29 |
+| 70 | [El Jinete](https://open.spotify.com/track/7rvTNx03Rl9R9uO4wMqB9G) | [Miguel Aceves Mejia](https://open.spotify.com/artist/23XJNT1Hb35h3ZCDl7lpWY) | [Miguel Aceves Mejía](https://open.spotify.com/album/1kT6rtJaVnbltJIRR8jbl6) | 2:59 |
 
-Snapshot ID: `AAAAAOk2w/DTVIueXTwlBn+hI9NAz33H`
+Snapshot ID: `AAAAALDGIUwcpJG7YdigJ5/OERHaCtt4`

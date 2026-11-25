@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8HtC0bZzINB.md) - [plain]
 
 > Yerli Afro, Latin ve trap ritimleri ile yazın en hareketli hali.
 
-[Spotify](https://open.spotify.com/user/spotify) - 110,622 likes - 50 songs - 2 hr 18 min
+[Spotify](https://open.spotify.com/user/spotify) - 110,618 likes - 50 songs - 2 hr 18 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -18,8 +18,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8HtC0bZzINB.md) - [plain]
 | 8 | [Bul Beni](https://open.spotify.com/track/6ipyu0Am4avjFkBcFAhVAz) | [Ezhel](https://open.spotify.com/artist/6LnJKrtFnTEGdbWQ2riWCL) | [Bul Beni](https://open.spotify.com/album/2M1LgLBJVDPsiYRGHwDfoQ) | 2:34 |
 | 9 | [ıslak kum](https://open.spotify.com/track/3XeMdSHi48X0XsDHckDhIM) | [Contra](https://open.spotify.com/artist/3tJELJoPZ4VTKmL0vppqLj) | [ıslak kum](https://open.spotify.com/album/3EYBLj3sg0egpnL9Dhwmdh) | 3:06 |
 | 10 | [behzat ç](https://open.spotify.com/track/5OSGbpKvvi0iAJg6XHUois) | [Lvbel C5](https://open.spotify.com/artist/0V2oXYR7DtrZAEFeILRW2r), [AKDO](https://open.spotify.com/artist/17EAWIoXAMU9Vo9xRrdZQ0) | [behzat ç](https://open.spotify.com/album/0eW0R6w0rIoP3B0kJE1HDW) | 2:06 |
-| 11 | [Dale Don Dale](https://open.spotify.com/track/1f9X5YDmXDxyIwhzB06JJd) | [ElMusto](https://open.spotify.com/artist/1Tjaa3WWIVU00kfZ8Dvpcl) | [Dale Don Dale](https://open.spotify.com/album/4vrNgKR0CTcHMHrb8io0nV) | 1:58 |
-| 12 | [Favela](https://open.spotify.com/track/0OSmjU2982agUzLQ08Wqkl) | [UZI](https://open.spotify.com/artist/51DevdOxIJin6DB1FXJpD1) | [Favela](https://open.spotify.com/album/3HPYQBXJg7qGD51sBOfqRm) | 3:41 |
+| 11 | [Favela](https://open.spotify.com/track/0OSmjU2982agUzLQ08Wqkl) | [UZI](https://open.spotify.com/artist/51DevdOxIJin6DB1FXJpD1) | [Favela](https://open.spotify.com/album/3HPYQBXJg7qGD51sBOfqRm) | 3:41 |
+| 12 | [Dale Don Dale](https://open.spotify.com/track/1f9X5YDmXDxyIwhzB06JJd) | [ElMusto](https://open.spotify.com/artist/1Tjaa3WWIVU00kfZ8Dvpcl) | [Dale Don Dale](https://open.spotify.com/album/4vrNgKR0CTcHMHrb8io0nV) | 1:58 |
 | 13 | [Pofuduk](https://open.spotify.com/track/7eaIFSCVBsXIwQ03aG8ClE) | [Ezhel](https://open.spotify.com/artist/6LnJKrtFnTEGdbWQ2riWCL), [JUGGLERZ](https://open.spotify.com/artist/5dM0ApSI0k1TcOseiik0sY) | [Pofuduk](https://open.spotify.com/album/5eNHvrxTk4IdTgqFB1cLmu) | 2:22 |
 | 14 | [Savaştım Harbiden](https://open.spotify.com/track/082Z8aWrikvq4JA8qpgcgX) | [Zeynep Bastık](https://open.spotify.com/artist/1mpOD8ZwHnbsryIuXWq0R1), [Kozmos](https://open.spotify.com/artist/0qERHMCWkMoZvWZMngc1A6) | [Savaştım Harbiden](https://open.spotify.com/album/5uLpCvsEo70kqh0fUD1u2w) | 2:31 |
 | 15 | [NERDESİN](https://open.spotify.com/track/3JQCETql5pwrFFG5y2CrLC) | [Ati242](https://open.spotify.com/artist/6bGOmNBU1AOgttgOjh0ldf) | [DIPSOMANIA](https://open.spotify.com/album/3qWgcWz8vKzsFF1rSRoPhu) | 3:45 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8HtC0bZzINB.md) - [plain]
 | 49 | [PARAMPARÇA](https://open.spotify.com/track/4NA5nUTn0KM457fR9ba20A) | [Papa Benj](https://open.spotify.com/artist/6VxQOfN8SzlyH78rd7fyQB), [Oversize](https://open.spotify.com/artist/56P4MjAIYVf0ruSy9pzKLs) | [PARAMPARÇA](https://open.spotify.com/album/6s48Hfq7goYvPnRbTXSOOR) | 2:08 |
 | 50 | [Senden Vazgeçtim](https://open.spotify.com/track/3RAmJSQDSJWgrzu66Ftcrr) | [Bora](https://open.spotify.com/artist/0EJe5gUmpf6NraeLEyFF7E) | [Senden Vazgeçtim](https://open.spotify.com/album/72ulEcsqjpgL4lcGO8gnyT) | 1:50 |
 
-Snapshot ID: `AAAAAGrP2QzWyaI+wwugBeaXTCU0iTO3`
+Snapshot ID: `AAAAANJ0RrY00V++mx4k1OClghHmARrO`

@@ -6,7 +6,7 @@
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "awIwgAAAAABQ3SkZdSEQoD5Hkrz3qnlD",
+  "snapshot_id": "awOCAAAAAAACic062TDjtzQPxNOKsWUs",
   "tracks": [
     {
       "added_at": null,
@@ -431,26 +431,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Terremoto",
-        "url": "https://open.spotify.com/album/6jSnmwRfQxofOlRzKEFBAa"
-      },
-      "artists": [
-        {
-          "name": "Yoss Bones",
-          "url": "https://open.spotify.com/artist/0SmgVe3giVHaJjGmIz8xA4"
-        },
-        {
-          "name": "Sharif",
-          "url": "https://open.spotify.com/artist/5pIapcAHb6WV4fUjfQchMf"
-        }
-      ],
-      "duration_ms": 207000,
-      "name": "Terremoto",
-      "url": "https://open.spotify.com/track/2RiEHEoEOKk4v3pKb522RR"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Por Tu Piel",
         "url": "https://open.spotify.com/album/4ALasG3sQBw3IZDZUbHiuz"
       },
@@ -467,6 +447,26 @@
       "duration_ms": 221413,
       "name": "Por Tu Piel",
       "url": "https://open.spotify.com/track/0ryHBlMBdjJksukX0xdQh9"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Terremoto",
+        "url": "https://open.spotify.com/album/6jSnmwRfQxofOlRzKEFBAa"
+      },
+      "artists": [
+        {
+          "name": "Yoss Bones",
+          "url": "https://open.spotify.com/artist/0SmgVe3giVHaJjGmIz8xA4"
+        },
+        {
+          "name": "Sharif",
+          "url": "https://open.spotify.com/artist/5pIapcAHb6WV4fUjfQchMf"
+        }
+      ],
+      "duration_ms": 207000,
+      "name": "Terremoto",
+      "url": "https://open.spotify.com/track/2RiEHEoEOKk4v3pKb522RR"
     },
     {
       "added_at": null,
@@ -855,6 +855,26 @@
     {
       "added_at": null,
       "album": {
+        "name": "LQRA Session #3",
+        "url": "https://open.spotify.com/album/4CiyVMTKizu2N88qPuqPVR"
+      },
+      "artists": [
+        {
+          "name": "La Loquera",
+          "url": "https://open.spotify.com/artist/6CXMmTckIVMgPu5wRX1ECI"
+        },
+        {
+          "name": "Yoss Bones",
+          "url": "https://open.spotify.com/artist/0SmgVe3giVHaJjGmIz8xA4"
+        }
+      ],
+      "duration_ms": 174285,
+      "name": "LQRA Session #3",
+      "url": "https://open.spotify.com/track/65jUseB3hi312R6Sdg2eon"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Ya No Quiero Verte",
         "url": "https://open.spotify.com/album/711cIsL3jwCkosLTeycAg8"
       },
@@ -891,26 +911,6 @@
       "duration_ms": 231111,
       "name": "Otra Oportunidad",
       "url": "https://open.spotify.com/track/0BXk6oUSkehJkZOv2TBzgG"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "LQRA Session #3",
-        "url": "https://open.spotify.com/album/4CiyVMTKizu2N88qPuqPVR"
-      },
-      "artists": [
-        {
-          "name": "La Loquera",
-          "url": "https://open.spotify.com/artist/6CXMmTckIVMgPu5wRX1ECI"
-        },
-        {
-          "name": "Yoss Bones",
-          "url": "https://open.spotify.com/artist/0SmgVe3giVHaJjGmIz8xA4"
-        }
-      ],
-      "duration_ms": 174285,
-      "name": "LQRA Session #3",
-      "url": "https://open.spotify.com/track/65jUseB3hi312R6Sdg2eon"
     },
     {
       "added_at": null,

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcwHMQ31Y15k.md) - [plain]
 
 > Sopo wae sing ngerti, yuk nyanyi sik\. Cover: Vandesta
 
-[Spotify](https://open.spotify.com/user/spotify) - 265,431 likes - 101 songs - 8 hr 24 min
+[Spotify](https://open.spotify.com/user/spotify) - 265,538 likes - 101 songs - 8 hr 24 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -110,4 +110,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcwHMQ31Y15k.md) - [plain]
 | 100 | [Los Dol](https://open.spotify.com/track/4CQdZW0qvq4MqvilSGScEk) | [Denny Caknan](https://open.spotify.com/artist/3Gr3opnAGpJiTowsTyJFWG) | [Los Dol](https://open.spotify.com/album/0w5TDBNCSj2aasUNDFbhPv) | 4:48 |
 | 101 | [Full Senyum Sayang](https://open.spotify.com/track/5iJjv9LgIpgZglbfT7RvGS) | [Evan Loss](https://open.spotify.com/artist/4mzKYnv5GDC0hsEwcnJdjo) | [Full Senyum Sayang](https://open.spotify.com/album/3djAwAaADJz4EVGZCJghLc) | 4:06 |
 
-Snapshot ID: `AAAAAK0s6n59kY9A7OCTBRYqDqr3ps4d`
+Snapshot ID: `AAAAAMQSADQCM/EhfDoFWsImh17PpGWl`

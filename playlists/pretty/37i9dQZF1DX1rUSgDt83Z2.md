@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1rUSgDt83Z2.md) - [plain]
 
 > Fijn voor thuis of op werk\. Helemaal van eigen bodem 🇳🇱
 
-[Spotify](https://open.spotify.com/user/spotify) - 82,213 likes - 80 songs - 4 hr 9 min
+[Spotify](https://open.spotify.com/user/spotify) - 82,215 likes - 80 songs - 4 hr 9 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -49,8 +49,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1rUSgDt83Z2.md) - [plain]
 | 39 | [File Lied](https://open.spotify.com/track/1Pzpr4nl7apUt2pXMSQr3E) | [Acda en de Munnik](https://open.spotify.com/artist/040Fqhc0l7a4MPeDx6cneh) | [Niets Doen](https://open.spotify.com/album/2k2s5a6JlV2olXRitmux9S) | 3:03 |
 | 40 | [Alles Wat Ik Zoek \- Radio Edit](https://open.spotify.com/track/1XdUtqaf0KdDxgnO8wY1y3) | [Hiigo](https://open.spotify.com/artist/49wmW9ZxLK5Fg0grFZl0iX) | [Alles Wat Ik Zoek \(Radio Edit\)](https://open.spotify.com/album/5UUFAAiSKelbyEjBLzepjt) | 2:48 |
 | 41 | [Wat Is Dan Liefde \- Hazes Is De Basis](https://open.spotify.com/track/07jhRADuYVbpnmanPyoNQ2) | [Silver Metz](https://open.spotify.com/artist/3w4VjT1j3QVUuc63Aq9Nyt) | [Wat Is Dan Liefde](https://open.spotify.com/album/62HLijQSSFCY1yP8TMpqyl) | 2:36 |
-| 42 | [Je weet dat ik zo ben](https://open.spotify.com/track/5mxKs4CgMOMTgt91hzIs8a) | [LOE.](https://open.spotify.com/artist/1eDoSNvWLwNIhkw3oIml2R) | [Je weet dat ik zo ben](https://open.spotify.com/album/5ig2lcjH8ttYtY89MFpxJr) | 3:02 |
-| 43 | [Waar Heb Je Op Gewacht](https://open.spotify.com/track/0ZPXDZWfZCFECzPS39PZYj) | [Van Dik Hout](https://open.spotify.com/artist/7t1YgV4PxSjBg9P8ZqE4Vo) | [Teveel Is Niet Genoeg](https://open.spotify.com/album/7gRDr3BmTd9R0XnlOgjJE7) | 3:19 |
+| 42 | [Waar Heb Je Op Gewacht](https://open.spotify.com/track/0ZPXDZWfZCFECzPS39PZYj) | [Van Dik Hout](https://open.spotify.com/artist/7t1YgV4PxSjBg9P8ZqE4Vo) | [Teveel Is Niet Genoeg](https://open.spotify.com/album/7gRDr3BmTd9R0XnlOgjJE7) | 3:19 |
+| 43 | [Je weet dat ik zo ben](https://open.spotify.com/track/5mxKs4CgMOMTgt91hzIs8a) | [LOE.](https://open.spotify.com/artist/1eDoSNvWLwNIhkw3oIml2R) | [Je weet dat ik zo ben](https://open.spotify.com/album/5ig2lcjH8ttYtY89MFpxJr) | 3:02 |
 | 44 | [Ik Zeg Niets](https://open.spotify.com/track/2gmXfe301S1Hpla35JYzBw) | [Acda en de Munnik](https://open.spotify.com/artist/040Fqhc0l7a4MPeDx6cneh) | [Ik Zeg Niets](https://open.spotify.com/album/7drCcFtZkN6zxdXmehJHSM) | 3:07 |
 | 45 | [Niets Meer](https://open.spotify.com/track/24dVAws8icjFeBnWfRJMuj) | [Hiigo](https://open.spotify.com/artist/49wmW9ZxLK5Fg0grFZl0iX) | [Leven In De Leegte](https://open.spotify.com/album/7aV7m6fQ6DW1Vka6TpVwWe) | 3:31 |
 | 46 | [Met de tijd](https://open.spotify.com/track/5EHMrjRk0K07KSlz93XPNA) | [Anouk & Yora](https://open.spotify.com/artist/5xBk20bBlcLJV5ZLS3EgfQ) | [Met de tijd](https://open.spotify.com/album/4LshNNq3ZIxCkzKDkjukyW) | 3:31 |
@@ -89,4 +89,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1rUSgDt83Z2.md) - [plain]
 | 79 | [Hoe Zou Het Nu Gaan?](https://open.spotify.com/track/4v4FKaaPqjDJcvLGqJ6ubz) | [Simon Keizer](https://open.spotify.com/artist/2dUSZq5IktJI18xdpIEjs2) | [Hoe Zou Het Nu Gaan?](https://open.spotify.com/album/4l2fsFB7cnPiYkVk7JrlGi) | 3:10 |
 | 80 | [Daarboven](https://open.spotify.com/track/16LnFe5k54hGXBdOA2mwN3) | [FLEUR](https://open.spotify.com/artist/5jE7YqOC3yRqDh0QsOmTV0) | [Onder Mijn Huid](https://open.spotify.com/album/26sxmbUvqKpa88X0XzoeWR) | 3:21 |
 
-Snapshot ID: `AAAAAE54rsMuDc2UJhm1XaweFcWO1taT`
+Snapshot ID: `AAAAALJq/enRNcH2bnvtoHd9O2c3CUVr`

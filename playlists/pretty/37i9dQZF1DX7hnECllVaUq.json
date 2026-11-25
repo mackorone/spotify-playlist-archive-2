@@ -1,12 +1,12 @@
 {
   "description": "The biggest hits from country artists around the globe. Cover: Rick Duff, Gustavo Mioto",
-  "num_followers": 343896,
+  "num_followers": 343922,
   "original_name": "Country Worldwide",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAABLQZ/zcvbSwcGF/M/dmQE4HS1dz",
+  "snapshot_id": "AAAAAPb99w8ttMI+GKLxB3jNXwmH/9Sm",
   "tracks": [
     {
       "added_at": "2026-11-13 05:02:03",
@@ -528,8 +528,8 @@
       },
       "artists": [
         {
-          "name": "BlackByrd",
-          "url": "https://open.spotify.com/artist/2EcQCsx4TPZ4VXmK8FbTbm"
+          "name": "Blackbyrd",
+          "url": "https://open.spotify.com/artist/0fS21y200O3YrGcVFeS2kO"
         }
       ],
       "duration_ms": 205860,
@@ -1407,22 +1407,6 @@
     {
       "added_at": "2026-11-13 05:02:03",
       "album": {
-        "name": "Stereotype",
-        "url": "https://open.spotify.com/album/5UgaQfAOaOdfLxFClw8EWa"
-      },
-      "artists": [
-        {
-          "name": "Cole Swindell",
-          "url": "https://open.spotify.com/artist/1mfDfLsMxYcOOZkzBxvSVW"
-        }
-      ],
-      "duration_ms": 206106,
-      "name": "She Had Me At Heads Carolina",
-      "url": "https://open.spotify.com/track/200x8ONbPfFzByUr3fVz46"
-    },
-    {
-      "added_at": "2026-11-13 05:02:03",
-      "album": {
         "name": "Livin' My Best Life (Still)",
         "url": "https://open.spotify.com/album/3B38AH4XMqDiI9W2Yd6mDT"
       },
@@ -1435,6 +1419,22 @@
       "duration_ms": 153906,
       "name": "What He'll Never Have",
       "url": "https://open.spotify.com/track/61SRKyox0R9jCzci4JXKBS"
+    },
+    {
+      "added_at": "2026-11-13 05:02:03",
+      "album": {
+        "name": "Stereotype",
+        "url": "https://open.spotify.com/album/5UgaQfAOaOdfLxFClw8EWa"
+      },
+      "artists": [
+        {
+          "name": "Cole Swindell",
+          "url": "https://open.spotify.com/artist/1mfDfLsMxYcOOZkzBxvSVW"
+        }
+      ],
+      "duration_ms": 206106,
+      "name": "She Had Me At Heads Carolina",
+      "url": "https://open.spotify.com/track/200x8ONbPfFzByUr3fVz46"
     },
     {
       "added_at": "2026-11-13 05:02:03",

@@ -1,12 +1,12 @@
 {
   "description": "Tuyo es el reino, Tuyo el poder y la gloria por siempre, Se\u00f1or.",
-  "num_followers": 243257,
+  "num_followers": 243238,
   "original_name": "Jes\u00fas Vive",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAADR8fwJrvCsUaLN8SqoQEFq+lYNq",
+  "snapshot_id": "AAAAAKFb2jlkIzJNLj7S5jLqrU6OLT1y",
   "tracks": [
     {
       "added_at": "2026-04-04 05:56:44",
@@ -427,26 +427,18 @@
     {
       "added_at": "2026-04-04 05:56:44",
       "album": {
-        "name": "Resucit\u00f3",
-        "url": "https://open.spotify.com/album/3q5SSAhsZNIZqnW7IxVLex"
+        "name": "Dios No Est\u00e1 Muerto",
+        "url": "https://open.spotify.com/album/1IZIdFfVL4pqxBHVE6QonJ"
       },
       "artists": [
-        {
-          "name": "Gateway Worship Espa\u00f1ol",
-          "url": "https://open.spotify.com/artist/6CyrlDkin8EyehBeKUxcSV"
-        },
-        {
-          "name": "Josh Morales",
-          "url": "https://open.spotify.com/artist/4BzluhaYmHa9iCkX7pehgS"
-        },
         {
           "name": "Miel San Marcos",
           "url": "https://open.spotify.com/artist/7zpvy5B9gb5KprNUzNCOEE"
         }
       ],
-      "duration_ms": 370279,
-      "name": "Resucit\u00f3",
-      "url": "https://open.spotify.com/track/6uIoBI8IB5JDya1YloP54g"
+      "duration_ms": 255451,
+      "name": "Dios No Est\u00e1 Muerto",
+      "url": "https://open.spotify.com/track/0XBYD82idDJOtcv4wXCzr5"
     },
     {
       "added_at": "2026-04-04 05:56:44",
@@ -471,18 +463,26 @@
     {
       "added_at": "2026-04-04 05:56:44",
       "album": {
-        "name": "Dios No Est\u00e1 Muerto",
-        "url": "https://open.spotify.com/album/1IZIdFfVL4pqxBHVE6QonJ"
+        "name": "Resucit\u00f3",
+        "url": "https://open.spotify.com/album/3q5SSAhsZNIZqnW7IxVLex"
       },
       "artists": [
+        {
+          "name": "Gateway Worship Espa\u00f1ol",
+          "url": "https://open.spotify.com/artist/6CyrlDkin8EyehBeKUxcSV"
+        },
+        {
+          "name": "Josh Morales",
+          "url": "https://open.spotify.com/artist/4BzluhaYmHa9iCkX7pehgS"
+        },
         {
           "name": "Miel San Marcos",
           "url": "https://open.spotify.com/artist/7zpvy5B9gb5KprNUzNCOEE"
         }
       ],
-      "duration_ms": 255451,
-      "name": "Dios No Est\u00e1 Muerto",
-      "url": "https://open.spotify.com/track/0XBYD82idDJOtcv4wXCzr5"
+      "duration_ms": 370279,
+      "name": "Resucit\u00f3",
+      "url": "https://open.spotify.com/track/6uIoBI8IB5JDya1YloP54g"
     },
     {
       "added_at": "2026-04-04 05:56:44",
@@ -767,22 +767,6 @@
     {
       "added_at": "2026-04-04 05:56:44",
       "album": {
-        "name": "Sin Fronteras",
-        "url": "https://open.spotify.com/album/51PR5dCBvEsCNcjXofx2VT"
-      },
-      "artists": [
-        {
-          "name": "Alex Rodriguez",
-          "url": "https://open.spotify.com/artist/0xcJ6S4UGlO2NVwOU4mhxa"
-        }
-      ],
-      "duration_ms": 327400,
-      "name": "Merecedor de Alabanza",
-      "url": "https://open.spotify.com/track/6x8I8rtoNFAvj70zdvtCQi"
-    },
-    {
-      "added_at": "2026-04-04 05:56:44",
-      "album": {
         "name": "No Temas",
         "url": "https://open.spotify.com/album/5gayNP2PRbA9gq5foXJeBM"
       },
@@ -799,6 +783,22 @@
       "duration_ms": 243250,
       "name": "No Temas",
       "url": "https://open.spotify.com/track/1WJjXVxrprcrrixUt7kJoC"
+    },
+    {
+      "added_at": "2026-04-04 05:56:44",
+      "album": {
+        "name": "Sin Fronteras",
+        "url": "https://open.spotify.com/album/51PR5dCBvEsCNcjXofx2VT"
+      },
+      "artists": [
+        {
+          "name": "Alex Rodriguez",
+          "url": "https://open.spotify.com/artist/0xcJ6S4UGlO2NVwOU4mhxa"
+        }
+      ],
+      "duration_ms": 327400,
+      "name": "Merecedor de Alabanza",
+      "url": "https://open.spotify.com/track/6x8I8rtoNFAvj70zdvtCQi"
     },
     {
       "added_at": "2026-04-04 05:56:44",
@@ -1163,18 +1163,30 @@
     {
       "added_at": "2026-04-04 05:56:44",
       "album": {
-        "name": "Seamos Luz",
-        "url": "https://open.spotify.com/album/5pvHvfyAdZyeunmyYLtfHS"
+        "name": "Tu Reino Est\u00e1 Aqu\u00ed",
+        "url": "https://open.spotify.com/album/23WpengG8gPWQSRXQG5aoO"
       },
       "artists": [
         {
           "name": "Generaci\u00f3n 12",
           "url": "https://open.spotify.com/artist/1w76rpst0I6hGUgCR2B33C"
+        },
+        {
+          "name": "Sof\u00eda Mancipe",
+          "url": "https://open.spotify.com/artist/13JxTQpXz8TBhXjOjYDioQ"
+        },
+        {
+          "name": "Fernando Ramos",
+          "url": "https://open.spotify.com/artist/5MJzy9qF9CL7CWapio7IPv"
+        },
+        {
+          "name": "Johan Manjarr\u00e9s",
+          "url": "https://open.spotify.com/artist/1jsU0SifGEeNfwJyIS4qc7"
         }
       ],
-      "duration_ms": 424534,
-      "name": "Hay Poder",
-      "url": "https://open.spotify.com/track/3VSYtAqWgzIrUJp3sTk4h2"
+      "duration_ms": 715466,
+      "name": "Quiero Conocer a Jes\u00fas (Yeshua) / Nuestro Dios",
+      "url": "https://open.spotify.com/track/293og3yEKwAjriGh8ps8W9"
     },
     {
       "added_at": "2026-04-04 05:56:44",
@@ -1251,30 +1263,18 @@
     {
       "added_at": "2026-04-04 05:56:44",
       "album": {
-        "name": "Tu Reino Est\u00e1 Aqu\u00ed",
-        "url": "https://open.spotify.com/album/23WpengG8gPWQSRXQG5aoO"
+        "name": "Seamos Luz",
+        "url": "https://open.spotify.com/album/5pvHvfyAdZyeunmyYLtfHS"
       },
       "artists": [
         {
           "name": "Generaci\u00f3n 12",
           "url": "https://open.spotify.com/artist/1w76rpst0I6hGUgCR2B33C"
-        },
-        {
-          "name": "Sof\u00eda Mancipe",
-          "url": "https://open.spotify.com/artist/13JxTQpXz8TBhXjOjYDioQ"
-        },
-        {
-          "name": "Fernando Ramos",
-          "url": "https://open.spotify.com/artist/5MJzy9qF9CL7CWapio7IPv"
-        },
-        {
-          "name": "Johan Manjarr\u00e9s",
-          "url": "https://open.spotify.com/artist/1jsU0SifGEeNfwJyIS4qc7"
         }
       ],
-      "duration_ms": 715466,
-      "name": "Quiero Conocer a Jes\u00fas (Yeshua) / Nuestro Dios",
-      "url": "https://open.spotify.com/track/293og3yEKwAjriGh8ps8W9"
+      "duration_ms": 424534,
+      "name": "Hay Poder",
+      "url": "https://open.spotify.com/track/3VSYtAqWgzIrUJp3sTk4h2"
     },
     {
       "added_at": "2026-04-04 05:56:44",
@@ -1327,6 +1327,30 @@
     {
       "added_at": "2026-04-04 05:56:44",
       "album": {
+        "name": "Jesucristo Basta (Versi\u00f3n Ac\u00fastica)",
+        "url": "https://open.spotify.com/album/7qYIGL8Zkxg0ItaAa5Ex96"
+      },
+      "artists": [
+        {
+          "name": "Un Coraz\u00f3n",
+          "url": "https://open.spotify.com/artist/4UGA0TDpRVVt2SCz8FZOMm"
+        },
+        {
+          "name": "Living",
+          "url": "https://open.spotify.com/artist/2miffAnnUvKSyB9ykA2su9"
+        },
+        {
+          "name": "Kim Richards",
+          "url": "https://open.spotify.com/artist/5njxJJEEXE6Kxkr4yiFeJi"
+        }
+      ],
+      "duration_ms": 279858,
+      "name": "Jesucristo Basta (Ver. Ac\u00fastica) feat. Living",
+      "url": "https://open.spotify.com/track/2XKkNxB8oxQHIy8023f2wH"
+    },
+    {
+      "added_at": "2026-04-04 05:56:44",
+      "album": {
         "name": "Amor Palabra Poder",
         "url": "https://open.spotify.com/album/5sTiKrYnSSbcYyZYzgz4sm"
       },
@@ -1355,30 +1379,6 @@
       "duration_ms": 305626,
       "name": "Gracias",
       "url": "https://open.spotify.com/track/38GjgoCoXBStVNBBgl6Ove"
-    },
-    {
-      "added_at": "2026-04-04 05:56:44",
-      "album": {
-        "name": "Jesucristo Basta (Versi\u00f3n Ac\u00fastica)",
-        "url": "https://open.spotify.com/album/7qYIGL8Zkxg0ItaAa5Ex96"
-      },
-      "artists": [
-        {
-          "name": "Un Coraz\u00f3n",
-          "url": "https://open.spotify.com/artist/4UGA0TDpRVVt2SCz8FZOMm"
-        },
-        {
-          "name": "Living",
-          "url": "https://open.spotify.com/artist/2miffAnnUvKSyB9ykA2su9"
-        },
-        {
-          "name": "Kim Richards",
-          "url": "https://open.spotify.com/artist/5njxJJEEXE6Kxkr4yiFeJi"
-        }
-      ],
-      "duration_ms": 279858,
-      "name": "Jesucristo Basta (Ver. Ac\u00fastica) feat. Living",
-      "url": "https://open.spotify.com/track/2XKkNxB8oxQHIy8023f2wH"
     },
     {
       "added_at": "2026-04-04 05:56:44",
@@ -1423,6 +1423,26 @@
     {
       "added_at": "2026-04-04 05:56:44",
       "album": {
+        "name": "M\u00fasica en el Desierto",
+        "url": "https://open.spotify.com/album/7LNruLOqxbdoXT2gucKbKN"
+      },
+      "artists": [
+        {
+          "name": "Un Coraz\u00f3n",
+          "url": "https://open.spotify.com/artist/4UGA0TDpRVVt2SCz8FZOMm"
+        },
+        {
+          "name": "Kim Richards",
+          "url": "https://open.spotify.com/artist/5njxJJEEXE6Kxkr4yiFeJi"
+        }
+      ],
+      "duration_ms": 271419,
+      "name": "Eterna luz",
+      "url": "https://open.spotify.com/track/1u1d13KMNYZAIIEEWIo5ng"
+    },
+    {
+      "added_at": "2026-04-04 05:56:44",
+      "album": {
         "name": "Rojo 10 A\u00f1os",
         "url": "https://open.spotify.com/album/3tk3y6FPUIGhNmaV0m4st6"
       },
@@ -1451,26 +1471,6 @@
       "duration_ms": 269640,
       "name": "Por Amor",
       "url": "https://open.spotify.com/track/7j2pRAjkERWLyg4ULzxWTR"
-    },
-    {
-      "added_at": "2026-04-04 05:56:44",
-      "album": {
-        "name": "M\u00fasica en el Desierto",
-        "url": "https://open.spotify.com/album/7LNruLOqxbdoXT2gucKbKN"
-      },
-      "artists": [
-        {
-          "name": "Un Coraz\u00f3n",
-          "url": "https://open.spotify.com/artist/4UGA0TDpRVVt2SCz8FZOMm"
-        },
-        {
-          "name": "Kim Richards",
-          "url": "https://open.spotify.com/artist/5njxJJEEXE6Kxkr4yiFeJi"
-        }
-      ],
-      "duration_ms": 271419,
-      "name": "Eterna luz",
-      "url": "https://open.spotify.com/track/1u1d13KMNYZAIIEEWIo5ng"
     },
     {
       "added_at": "2026-04-04 05:56:44",

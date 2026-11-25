@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3JKYkV.md) - [plain]
 
 > This is Aphex Twin\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 85,420 likes - 50 songs - 3 hr 44 min
+[Spotify](https://open.spotify.com/user/spotify) - 85,436 likes - 50 songs - 3 hr 44 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -33,8 +33,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3JKYkV.md) - [plain]
 | 23 | [Jynweythek](https://open.spotify.com/track/3I0rWmF86CwQpajoZjkXtG) | [Aphex Twin](https://open.spotify.com/artist/6kBDZFXuLrZgHnvmPu9NsG) | [Drukqs](https://open.spotify.com/album/2oJo7cB45gMVuRsaWNwDq2) | 2:23 |
 | 24 | [\#13](https://open.spotify.com/track/3jRCZkYVcDniUrXjL71QwE) | [Aphex Twin](https://open.spotify.com/artist/6kBDZFXuLrZgHnvmPu9NsG) | [Selected Ambient Works Volume II](https://open.spotify.com/album/2SZZihZiCsFo87NKxDfxlH) | 7:20 |
 | 25 | [Polynomial\-C](https://open.spotify.com/track/1CaTIckDNXtzUypdTOAghF) | [Aphex Twin](https://open.spotify.com/artist/6kBDZFXuLrZgHnvmPu9NsG) | [Xylem Tube EP](https://open.spotify.com/album/6Lvdji4Bkcr17XHwVZyRfX) | 4:46 |
-| 26 | [Bbydhyonchord](https://open.spotify.com/track/0lLCH4mtQQYp6ASyJqhzgN) | [Aphex Twin](https://open.spotify.com/artist/6kBDZFXuLrZgHnvmPu9NsG) | [Drukqs](https://open.spotify.com/album/2oJo7cB45gMVuRsaWNwDq2) | 2:33 |
-| 27 | [Kladfvgbung Mischk](https://open.spotify.com/track/47O5CKgLTHDAo2BPxcECYw) | [Aphex Twin](https://open.spotify.com/artist/6kBDZFXuLrZgHnvmPu9NsG) | [Drukqs \(Expanded Edition\)](https://open.spotify.com/album/0KFEayVJto9FySIVo4ODUn) | 2:06 |
+| 26 | [Kladfvgbung Mischk](https://open.spotify.com/track/47O5CKgLTHDAo2BPxcECYw) | [Aphex Twin](https://open.spotify.com/artist/6kBDZFXuLrZgHnvmPu9NsG) | [Drukqs \(Expanded Edition\)](https://open.spotify.com/album/0KFEayVJto9FySIVo4ODUn) | 2:06 |
+| 27 | [Bbydhyonchord](https://open.spotify.com/track/0lLCH4mtQQYp6ASyJqhzgN) | [Aphex Twin](https://open.spotify.com/artist/6kBDZFXuLrZgHnvmPu9NsG) | [Drukqs](https://open.spotify.com/album/2oJo7cB45gMVuRsaWNwDq2) | 2:33 |
 | 28 | [4](https://open.spotify.com/track/7yhDdQt66YaCfjlKjYjZKd) | [Aphex Twin](https://open.spotify.com/artist/6kBDZFXuLrZgHnvmPu9NsG) | [Richard D\. James Album](https://open.spotify.com/album/77Lae5VorRCNpgZFMW8yRO) | 3:37 |
 | 29 | [\#1](https://open.spotify.com/track/6ryJQswzoXDmmFazg91c0c) | [Aphex Twin](https://open.spotify.com/artist/6kBDZFXuLrZgHnvmPu9NsG) | [Selected Ambient Works Volume II](https://open.spotify.com/album/2SZZihZiCsFo87NKxDfxlH) | 7:27 |
 | 30 | [em2500 M253X \[London 03.06.17\]](https://open.spotify.com/track/6j5qH88J2AHWYiNq0tCMjN) | [Aphex Twin](https://open.spotify.com/artist/6kBDZFXuLrZgHnvmPu9NsG) | [Music From The Merch Desk \(2016 \- 2023\)](https://open.spotify.com/album/72pxRHG1VNIcIibziKpH03) | 1:52 |
@@ -46,17 +46,17 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3JKYkV.md) - [plain]
 | 36 | [Gwely Mernans](https://open.spotify.com/track/4g6qsLXJvMybGoPlnDM4yU) | [Aphex Twin](https://open.spotify.com/artist/6kBDZFXuLrZgHnvmPu9NsG) | [Drukqs \(Expanded Edition\)](https://open.spotify.com/album/0KFEayVJto9FySIVo4ODUn) | 5:08 |
 | 37 | [On](https://open.spotify.com/track/7uy3fN7TaX7YkPecOYHf5S) | [Aphex Twin](https://open.spotify.com/artist/6kBDZFXuLrZgHnvmPu9NsG) | [On](https://open.spotify.com/album/3ST4JBcwc8LDpQCYoSx8YG) | 7:12 |
 | 38 | [Goon Gumpas](https://open.spotify.com/track/61mG2PGpS0GDSVnjMmhzC4) | [Aphex Twin](https://open.spotify.com/artist/6kBDZFXuLrZgHnvmPu9NsG) | [Richard D\. James Album](https://open.spotify.com/album/77Lae5VorRCNpgZFMW8yRO) | 2:02 |
-| 39 | [Blue Calx](https://open.spotify.com/track/7cx5gNKRDzMfd5o9S6e9yK) | [Aphex Twin](https://open.spotify.com/artist/6kBDZFXuLrZgHnvmPu9NsG) | [Selected Ambient Works Volume II \(Expanded Edition\)](https://open.spotify.com/album/7gpblNxStuPCUouPvlyf2i) | 7:20 |
-| 40 | [Omgyjya\-Switch7](https://open.spotify.com/track/4iy9wqRmqu3JMPKkBmJcjA) | [Aphex Twin](https://open.spotify.com/artist/6kBDZFXuLrZgHnvmPu9NsG) | [Drukqs \(Expanded Edition\)](https://open.spotify.com/album/0KFEayVJto9FySIVo4ODUn) | 4:52 |
-| 41 | [produk 29 \[101\]](https://open.spotify.com/track/2oe8134WXw7Pw0ixstdOu8) | [Aphex Twin](https://open.spotify.com/artist/6kBDZFXuLrZgHnvmPu9NsG) | [Syro](https://open.spotify.com/album/4mwrMLVKo940qLFXEIef4w) | 5:03 |
-| 42 | [Mookid](https://open.spotify.com/track/75Ml44CCprAbusMbPZuHEr) | [Aphex Twin](https://open.spotify.com/artist/6kBDZFXuLrZgHnvmPu9NsG) | [...I Care Because You Do](https://open.spotify.com/album/6TmEZKJtPJ9mPsMBmyteCE) | 3:51 |
-| 43 | [in a room7 F760](https://open.spotify.com/track/3sFYzy26BTS3te7WV8QeLx) | [Aphex Twin](https://open.spotify.com/artist/6kBDZFXuLrZgHnvmPu9NsG) | [Blackbox Life Recorder 21f / in a room7 F760](https://open.spotify.com/album/0yp0GVa92trHmWZuEZTuL2) | 3:53 |
-| 44 | [avril 14th doubletempo,half speed](https://open.spotify.com/track/7tN2eRw0nTc6CljBAj9yZZ) | [Aphex Twin](https://open.spotify.com/artist/6kBDZFXuLrZgHnvmPu9NsG) | [Drukqs \(Expanded Edition\)](https://open.spotify.com/album/0KFEayVJto9FySIVo4ODUn) | 2:16 |
-| 45 | [4 bit 9d api+e+6 \[126.26\]](https://open.spotify.com/track/3FCC4tcQTQSzfiWz1VFw1v) | [Aphex Twin](https://open.spotify.com/artist/6kBDZFXuLrZgHnvmPu9NsG) | [Syro](https://open.spotify.com/album/4mwrMLVKo940qLFXEIef4w) | 4:28 |
-| 46 | [Acrid Avid Jam Shred](https://open.spotify.com/track/6RjEg1YpdNJlXrGOy4KeVs) | [Aphex Twin](https://open.spotify.com/artist/6kBDZFXuLrZgHnvmPu9NsG) | [...I Care Because You Do](https://open.spotify.com/album/6TmEZKJtPJ9mPsMBmyteCE) | 7:39 |
-| 47 | [Girl/Boy Song](https://open.spotify.com/track/2w6AYp7c3d4D3hbOISz0i0) | [Aphex Twin](https://open.spotify.com/artist/6kBDZFXuLrZgHnvmPu9NsG) | [Richard D\. James Album](https://open.spotify.com/album/77Lae5VorRCNpgZFMW8yRO) | 4:52 |
-| 48 | [Rhubarb Orc\. 19.53 Rev](https://open.spotify.com/track/2fRIkIeA6I99RfxmcKAaUG) | [Aphex Twin](https://open.spotify.com/artist/6kBDZFXuLrZgHnvmPu9NsG) | [Selected Ambient Works Volume II \(Expanded Edition\)](https://open.spotify.com/album/7gpblNxStuPCUouPvlyf2i) | 6:41 |
+| 39 | [produk 29 \[101\]](https://open.spotify.com/track/2oe8134WXw7Pw0ixstdOu8) | [Aphex Twin](https://open.spotify.com/artist/6kBDZFXuLrZgHnvmPu9NsG) | [Syro](https://open.spotify.com/album/4mwrMLVKo940qLFXEIef4w) | 5:03 |
+| 40 | [avril 14th doubletempo,half speed](https://open.spotify.com/track/7tN2eRw0nTc6CljBAj9yZZ) | [Aphex Twin](https://open.spotify.com/artist/6kBDZFXuLrZgHnvmPu9NsG) | [Drukqs \(Expanded Edition\)](https://open.spotify.com/album/0KFEayVJto9FySIVo4ODUn) | 2:16 |
+| 41 | [Blue Calx](https://open.spotify.com/track/7cx5gNKRDzMfd5o9S6e9yK) | [Aphex Twin](https://open.spotify.com/artist/6kBDZFXuLrZgHnvmPu9NsG) | [Selected Ambient Works Volume II \(Expanded Edition\)](https://open.spotify.com/album/7gpblNxStuPCUouPvlyf2i) | 7:20 |
+| 42 | [Acrid Avid Jam Shred](https://open.spotify.com/track/6RjEg1YpdNJlXrGOy4KeVs) | [Aphex Twin](https://open.spotify.com/artist/6kBDZFXuLrZgHnvmPu9NsG) | [...I Care Because You Do](https://open.spotify.com/album/6TmEZKJtPJ9mPsMBmyteCE) | 7:39 |
+| 43 | [4 bit 9d api+e+6 \[126.26\]](https://open.spotify.com/track/3FCC4tcQTQSzfiWz1VFw1v) | [Aphex Twin](https://open.spotify.com/artist/6kBDZFXuLrZgHnvmPu9NsG) | [Syro](https://open.spotify.com/album/4mwrMLVKo940qLFXEIef4w) | 4:28 |
+| 44 | [Omgyjya\-Switch7](https://open.spotify.com/track/4iy9wqRmqu3JMPKkBmJcjA) | [Aphex Twin](https://open.spotify.com/artist/6kBDZFXuLrZgHnvmPu9NsG) | [Drukqs \(Expanded Edition\)](https://open.spotify.com/album/0KFEayVJto9FySIVo4ODUn) | 4:52 |
+| 45 | [Girl/Boy Song](https://open.spotify.com/track/2w6AYp7c3d4D3hbOISz0i0) | [Aphex Twin](https://open.spotify.com/artist/6kBDZFXuLrZgHnvmPu9NsG) | [Richard D\. James Album](https://open.spotify.com/album/77Lae5VorRCNpgZFMW8yRO) | 4:52 |
+| 46 | [Mookid](https://open.spotify.com/track/75Ml44CCprAbusMbPZuHEr) | [Aphex Twin](https://open.spotify.com/artist/6kBDZFXuLrZgHnvmPu9NsG) | [...I Care Because You Do](https://open.spotify.com/album/6TmEZKJtPJ9mPsMBmyteCE) | 3:51 |
+| 47 | [Rhubarb Orc\. 19.53 Rev](https://open.spotify.com/track/2fRIkIeA6I99RfxmcKAaUG) | [Aphex Twin](https://open.spotify.com/artist/6kBDZFXuLrZgHnvmPu9NsG) | [Selected Ambient Works Volume II \(Expanded Edition\)](https://open.spotify.com/album/7gpblNxStuPCUouPvlyf2i) | 6:41 |
+| 48 | [in a room7 F760](https://open.spotify.com/track/3sFYzy26BTS3te7WV8QeLx) | [Aphex Twin](https://open.spotify.com/artist/6kBDZFXuLrZgHnvmPu9NsG) | [Blackbox Life Recorder 21f / in a room7 F760](https://open.spotify.com/album/0yp0GVa92trHmWZuEZTuL2) | 3:53 |
 | 49 | [Come To Daddy \- Pappy Mix](https://open.spotify.com/track/5H6cQ9QrYP23R6PALr1KCc) | [Aphex Twin](https://open.spotify.com/artist/6kBDZFXuLrZgHnvmPu9NsG) | [Come To Daddy](https://open.spotify.com/album/6sIEBpy5gl3DqC6KPasPpx) | 4:22 |
 | 50 | [Yellow Calx](https://open.spotify.com/track/4nouVnQrrO8Q1yje5Gz8Tq) | [Aphex Twin](https://open.spotify.com/artist/6kBDZFXuLrZgHnvmPu9NsG) | [Richard D\. James Album](https://open.spotify.com/album/77Lae5VorRCNpgZFMW8yRO) | 3:04 |
 
-Snapshot ID: `awIwgAAAAACa4d2Fe+njQKAdPBaIxDOM`
+Snapshot ID: `awOCAAAAAAA4ieDZxC7oIiI+TclD94o1`

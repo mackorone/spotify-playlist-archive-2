@@ -2,7 +2,7 @@
 
 ### [DePitcha Radio](https://open.spotify.com/playlist/37i9dQZF1E4vUDR7p3pzuy)
 
-> With Captain Margaret, Then Comes Silence, Mercury Teardrop and more
+> With Desperate Journalist, JUST LIZZY, Captain Margaret and more
 
 1,502 songs - 4 day 1 hr 6 min
 

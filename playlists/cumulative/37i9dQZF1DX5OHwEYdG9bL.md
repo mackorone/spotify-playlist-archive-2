@@ -4,7 +4,7 @@
 
 > 뮤직비디오 기능이 지원되는 노래들을 플레이리스트로 즐겨보세요! \(Cover: TOMORROW X TOGETHER\) \(Enjoy  songs that support music video features!\)
 
-301 songs - 16 hr 18 min
+302 songs - 16 hr 22 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -40,6 +40,7 @@
 | [Beat It Up \| Spotify Performance Video](https://open.spotify.com/track/5B5SLuIkevqp9KlCzxhupw) | [NCT DREAM](https://open.spotify.com/artist/1gBUSTR3TyDdTVFIaQnc02) | [Beat It Up \| Spotify Performance Video](https://open.spotify.com/album/2H001xNfwbodUi051OEO6Y) | 3:56 | 2025-12-03 |  |
 | [Beautiful Strangers](https://open.spotify.com/track/2hOpoSL862RFX2rvjaZdCG) | [TOMORROW X TOGETHER](https://open.spotify.com/artist/0ghlgldX5Dd6720Q3qFyQB) | [Beautiful Strangers](https://open.spotify.com/album/2Jv4foRbcSTwFkrzHiSWQi) | 3:12 | 2025-08-13 |  |
 | [Beautiful Strangers](https://open.spotify.com/track/19ATlltGZxoYLBallj64nV) | [TOMORROW X TOGETHER](https://open.spotify.com/artist/0ghlgldX5Dd6720Q3qFyQB) | [Beautiful Strangers](https://open.spotify.com/album/4wg920jmXzQFTstRzODmHK) | 3:14 | 2025-08-13 |  |
+| [Before Sunrise](https://open.spotify.com/track/4ZkM1Zy8NYBP9Jsi9b3IKd) | [WENDY](https://open.spotify.com/artist/0FRUZvZNPzM3YJMABJxf2K) | [Gleam Hour](https://open.spotify.com/album/7cpvQwipRjHGg1PJRKxtU6) | 3:20 | 2026-11-24 |  |
 | [BIG BANDS \(狂想曲\)](https://open.spotify.com/track/1njLqea3MtJCFQYRcz6K6D) | [WayV](https://open.spotify.com/artist/1qBsABYUrxg9afpMtyoFKz) | [BIG BANDS \(狂想曲\)](https://open.spotify.com/album/0iZHacBPz21y0VbKh9hxjU) | 3:07 | 2025-08-13 |  |
 | [BiiiG](https://open.spotify.com/track/6dYHr8D8ZMBpIopqs7iPPp) | [BIGBANG](https://open.spotify.com/artist/4Kxlr1PRlDKEB0ekOCyHgX) | [BiiiG](https://open.spotify.com/album/7f4e9Fj0i9eAxltoxox8zi) | 3:03 | 2026-08-25 |  |
 | [Billyeoon Goyangi \(Do the Dance\)](https://open.spotify.com/track/1J2BuUdQf6XdMYmJvs2Iop) | [ILLIT](https://open.spotify.com/artist/36cgvBn0aadzOijnjjwqMN) | [Billyeoon Goyangi \(Do the Dance\)](https://open.spotify.com/album/52MVpIzjKFjLoJtmcCc8LU) | 3:18 | 2025-07-15 |  |

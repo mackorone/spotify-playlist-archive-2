@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWgccrbg3zbJ.md) - [plain]
 
 > The classic recordings from Bossa Nova\. Cover: João Gilberto
 
-[Spotify](https://open.spotify.com/user/spotify) - 666,834 likes - 70 songs - 3 hr 39 min
+[Spotify](https://open.spotify.com/user/spotify) - 667,059 likes - 70 songs - 3 hr 39 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -70,8 +70,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWgccrbg3zbJ.md) - [plain]
 | 60 | [O Morro Nao Tem Vez](https://open.spotify.com/track/57U0iv9L9gG6fqXXIle1GB) | [Antônio Carlos Jobim](https://open.spotify.com/artist/3pO5VjZ4wOHCMBXOvbMISG) | [Antonio Carlos Jobim](https://open.spotify.com/album/1cnvL1UIhCM0OQODOGJYyT) | 3:19 |
 | 61 | [Pra Que Discutir Com Madame? \- Live](https://open.spotify.com/track/13VTZ3mO1X6tYFvAwn61aB) | [João Gilberto](https://open.spotify.com/artist/77ZUbcdoU5KCPHNUl8bgQy) | [In Tokyo](https://open.spotify.com/album/4V81DhwAOf9L0M20rbWZDn) | 6:01 |
 | 62 | [Triste](https://open.spotify.com/track/0w4ufcWQwpRuLjOS1dpxu7) | [Antônio Carlos Jobim](https://open.spotify.com/artist/3pO5VjZ4wOHCMBXOvbMISG), [Elis Regina](https://open.spotify.com/artist/0yFvXd36g5sNKYDi0Kkvl8) | [Elis & Tom](https://open.spotify.com/album/1xusjxfHer7CzdlQwjuZWx) | 2:39 |
-| 63 | [Pela luz dos olhos teus](https://open.spotify.com/track/6tyYK7y3kboS7GQulNtwo5) | [Antônio Carlos Jobim](https://open.spotify.com/artist/3pO5VjZ4wOHCMBXOvbMISG), [Miúcha](https://open.spotify.com/artist/24ZP6P1JgCo65CEJsk2OQ2) | [Jobim, Vinicius, Baden, Menescal, Lyra..\. \(54 Songs\)](https://open.spotify.com/album/16s66A7p1Z0L5H8u5Cr9Wt) | 2:48 |
-| 64 | [Doralice](https://open.spotify.com/track/1Hy8rhQjCQtscISAE6GmVP) | [João Gilberto](https://open.spotify.com/artist/77ZUbcdoU5KCPHNUl8bgQy) | [O Amor, o Sorriso e a Flor](https://open.spotify.com/album/5OaElNWVFpJLxvu0aBfVS2) | 1:27 |
+| 63 | [Doralice](https://open.spotify.com/track/1Hy8rhQjCQtscISAE6GmVP) | [João Gilberto](https://open.spotify.com/artist/77ZUbcdoU5KCPHNUl8bgQy) | [O Amor, o Sorriso e a Flor](https://open.spotify.com/album/5OaElNWVFpJLxvu0aBfVS2) | 1:27 |
+| 64 | [Pela luz dos olhos teus](https://open.spotify.com/track/6tyYK7y3kboS7GQulNtwo5) | [Antônio Carlos Jobim](https://open.spotify.com/artist/3pO5VjZ4wOHCMBXOvbMISG), [Miúcha](https://open.spotify.com/artist/24ZP6P1JgCo65CEJsk2OQ2) | [Jobim, Vinicius, Baden, Menescal, Lyra..\. \(54 Songs\)](https://open.spotify.com/album/16s66A7p1Z0L5H8u5Cr9Wt) | 2:48 |
 | 65 | [Chega de Saudade](https://open.spotify.com/track/0QhoniumuDQIQY46aIebRq) | [João Gilberto](https://open.spotify.com/artist/77ZUbcdoU5KCPHNUl8bgQy) | [Chega de Saudade \(42 Original Tracks\)](https://open.spotify.com/album/3pWt2byZuo2KDF8wac8JXR) | 2:01 |
 | 66 | [Bim Bom](https://open.spotify.com/track/2v9LGwYybWMNhO0xZXpo6M) | [João Gilberto](https://open.spotify.com/artist/77ZUbcdoU5KCPHNUl8bgQy) | [Bossa Nova Café](https://open.spotify.com/album/2umykbaUStNVXKLtbGclUz) | 1:12 |
 | 67 | [Meditação](https://open.spotify.com/track/4XUjJAMQ0sYoyOQJZf2AS0) | [João Gilberto](https://open.spotify.com/artist/77ZUbcdoU5KCPHNUl8bgQy) | [Ultimate Guitar Classics 1951\-1961](https://open.spotify.com/album/0d03HJwweHFZRzvqzCrito) | 1:47 |
@@ -79,4 +79,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWgccrbg3zbJ.md) - [plain]
 | 69 | [Ela e Carioca](https://open.spotify.com/track/6zPpAkAQQ4GDvUEtd4wiG7) | [João Gilberto](https://open.spotify.com/artist/77ZUbcdoU5KCPHNUl8bgQy) | [Brazil 2](https://open.spotify.com/album/4cUSNzcj0flfzz7BUlnSAT) | 3:04 |
 | 70 | [O Grande Amor](https://open.spotify.com/track/21n8OogtCoE8INAOdGQ38M) | [Stan Getz](https://open.spotify.com/artist/0FMucZsEnCxs5pqBjHjIc8), [João Gilberto](https://open.spotify.com/artist/77ZUbcdoU5KCPHNUl8bgQy), [Antônio Carlos Jobim](https://open.spotify.com/artist/3pO5VjZ4wOHCMBXOvbMISG) | [Getz/Gilberto](https://open.spotify.com/album/69xayFuQfFKnxxSmHtNo6Y) | 5:27 |
 
-Snapshot ID: `AAAAAK/EaOEmXDRtkum5SMfw5LwrVDkI`
+Snapshot ID: `AAAAAOsZD4Rxj1jN2IFgR/47nHiI3cA7`

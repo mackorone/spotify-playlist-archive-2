@@ -1,60 +1,44 @@
 {
-  "description": "<a href=spotify:playlist:37i9dQZF1EIYIe6aZAczQL>Harry Styles</a>, <a href=spotify:playlist:37i9dQZF1EIV5Po98yTZ2l>Lana Del Rey</a>, <a href=spotify:playlist:37i9dQZF1EIZlNy1eYPptu>Shawn Mendes</a> and more",
+  "description": "<a href=spotify:playlist:37i9dQZF1EIWBvTtlGcdKW>Djo</a>, <a href=spotify:playlist:37i9dQZF1EIZIiJvqaSAaz>sombr</a>, <a href=spotify:playlist:37i9dQZF1EIXIanoPjZlfL>Gigi Perez</a> and more",
   "num_followers": 0,
   "original_name": "Chill Mix",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAACh6Ys2l0Yc3rAiXPxnzrRJ/fysJ",
+  "snapshot_id": "AAAAADclV6mxSCvzk5fmdqC4pv4DJkHK",
   "tracks": [
     {
       "added_at": null,
       "album": {
-        "name": "Harry's House",
-        "url": "https://open.spotify.com/album/5r36AJ6VOJtp00oxSkBZ5h"
+        "name": "DECIDE",
+        "url": "https://open.spotify.com/album/4JDXBZdRPId4devseaAOKH"
       },
       "artists": [
         {
-          "name": "Harry Styles",
-          "url": "https://open.spotify.com/artist/6KImCVD70vtIoJWnq6nGn3"
+          "name": "Djo",
+          "url": "https://open.spotify.com/artist/5p9HO3XC5P3BLxJs5Mtrhm"
         }
       ],
-      "duration_ms": 167303,
-      "name": "As It Was",
-      "url": "https://open.spotify.com/track/4Dvkj6JhhA12EX05fT7y2e"
+      "duration_ms": 159245,
+      "name": "End of Beginning",
+      "url": "https://open.spotify.com/track/3qhlB30KknSejmIvZZLjOD"
     },
     {
       "added_at": null,
       "album": {
-        "name": "Illuminate",
-        "url": "https://open.spotify.com/album/1ne2D0NxoGyZd31gAM4HNd"
+        "name": "At The Beach, In Every Life",
+        "url": "https://open.spotify.com/album/58vZavXqh1P5uoTXteudWl"
       },
       "artists": [
         {
-          "name": "Shawn Mendes",
-          "url": "https://open.spotify.com/artist/7n2wHs1TKAczGzO7Dd2rGr"
+          "name": "Gigi Perez",
+          "url": "https://open.spotify.com/artist/1iCnM8foFssWlPRLfAbIwo"
         }
       ],
-      "duration_ms": 187973,
-      "name": "Treat You Better",
-      "url": "https://open.spotify.com/track/3QGsuHI8jO1Rx4JWLUh9jd"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Young And Beautiful",
-        "url": "https://open.spotify.com/album/1D92WOHWUI2AGQCCdplcXL"
-      },
-      "artists": [
-        {
-          "name": "Lana Del Rey",
-          "url": "https://open.spotify.com/artist/00FQb4jTyendYWaN8pK0wa"
-        }
-      ],
-      "duration_ms": 236053,
-      "name": "Young And Beautiful",
-      "url": "https://open.spotify.com/track/2nMeu6UenVvwUktBCpLMK9"
+      "duration_ms": 211978,
+      "name": "Sailor Song",
+      "url": "https://open.spotify.com/track/21IYMdzTrzSe191Cy5eMap"
     },
     {
       "added_at": null,
@@ -243,22 +227,6 @@
       "duration_ms": 307151,
       "name": "Nights",
       "url": "https://open.spotify.com/track/7eqoqGkKwgOaWNNHx90uEZ"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "DECIDE",
-        "url": "https://open.spotify.com/album/4JDXBZdRPId4devseaAOKH"
-      },
-      "artists": [
-        {
-          "name": "Djo",
-          "url": "https://open.spotify.com/artist/5p9HO3XC5P3BLxJs5Mtrhm"
-        }
-      ],
-      "duration_ms": 159245,
-      "name": "End of Beginning",
-      "url": "https://open.spotify.com/track/3qhlB30KknSejmIvZZLjOD"
     },
     {
       "added_at": null,
@@ -503,6 +471,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Perception EP",
+        "url": "https://open.spotify.com/album/5UoWl95U6YTsS1N6JyQ7j4"
+      },
+      "artists": [
+        {
+          "name": "Joy Crookes",
+          "url": "https://open.spotify.com/artist/5XMyhVhi5ZN2pi0Qwi1zXS"
+        }
+      ],
+      "duration_ms": 202474,
+      "name": "Hurts",
+      "url": "https://open.spotify.com/track/1wliWYGaW0WHkZEOB469dI"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Stevie Doesn't Wonder",
         "url": "https://open.spotify.com/album/4QOjBDPM9AbaxFzV9khrca"
       },
@@ -551,18 +535,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "Perception EP",
-        "url": "https://open.spotify.com/album/5UoWl95U6YTsS1N6JyQ7j4"
+        "name": "Oh yeah?",
+        "url": "https://open.spotify.com/album/289GZwycrFReuNB706obBx"
       },
       "artists": [
         {
-          "name": "Joy Crookes",
-          "url": "https://open.spotify.com/artist/5XMyhVhi5ZN2pi0Qwi1zXS"
+          "name": "Steve Lacy",
+          "url": "https://open.spotify.com/artist/57vWImR43h4CaDao012Ofp"
         }
       ],
-      "duration_ms": 202474,
-      "name": "Hurts",
-      "url": "https://open.spotify.com/track/1wliWYGaW0WHkZEOB469dI"
+      "duration_ms": 170584,
+      "name": "oh yeah?",
+      "url": "https://open.spotify.com/track/22NHkFYbgxB2Zirj29Gbp8"
     },
     {
       "added_at": null,
@@ -615,22 +599,6 @@
       "duration_ms": 177455,
       "name": "hypocritical (feat. starfall)",
       "url": "https://open.spotify.com/track/1aY1MlHUIETEQsXKCo14VI"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Oh yeah?",
-        "url": "https://open.spotify.com/album/289GZwycrFReuNB706obBx"
-      },
-      "artists": [
-        {
-          "name": "Steve Lacy",
-          "url": "https://open.spotify.com/artist/57vWImR43h4CaDao012Ofp"
-        }
-      ],
-      "duration_ms": 170584,
-      "name": "oh yeah?",
-      "url": "https://open.spotify.com/track/22NHkFYbgxB2Zirj29Gbp8"
     },
     {
       "added_at": null,
@@ -863,6 +831,42 @@
       "duration_ms": 186666,
       "name": "Come Back To Me",
       "url": "https://open.spotify.com/track/0hi1Ih9flyXlfBxv9fwtSq"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Best Friend",
+        "url": "https://open.spotify.com/album/7nLg6Pwut1eqXoK51ZjVFW"
+      },
+      "artists": [
+        {
+          "name": "Rex Orange County",
+          "url": "https://open.spotify.com/artist/7pbDxGE6nQSZVfiFdq9lOL"
+        }
+      ],
+      "duration_ms": 262231,
+      "name": "Best Friend",
+      "url": "https://open.spotify.com/track/3rPtS4nfpy7PsARctAWpzd"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Straight Up",
+        "url": "https://open.spotify.com/album/5VClUlb6S09XzCToiqhOxK"
+      },
+      "artists": [
+        {
+          "name": "Wildson",
+          "url": "https://open.spotify.com/artist/1Zy7BWE5e2cJFeXvawEJjV"
+        },
+        {
+          "name": "LaKesha Nugent",
+          "url": "https://open.spotify.com/artist/5WKHVPD6N8FP2ixMse2RX3"
+        }
+      ],
+      "duration_ms": 150553,
+      "name": "You Got Me All Lost",
+      "url": "https://open.spotify.com/track/5sPV2WtUJeUvqdXcxT8bdk"
     }
   ],
   "unique_name": "Chill Mix",

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXc8VZ9nbXQ1z.md) - [plain]
 
 > <a href="spotify:artist:6wMr4zKPrrR0UVz08WtUWc">Black Coffee</a>'s favorite tracks\. Updated regularly\. Curated by Black Coffee\. More track IDs <a href="spotify:genre:track\_id">here</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 238,343 likes - 30 songs - 2 hr 37 min
+[Spotify](https://open.spotify.com/user/spotify) - 238,414 likes - 30 songs - 2 hr 37 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -39,4 +39,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXc8VZ9nbXQ1z.md) - [plain]
 | 29 | [The Night](https://open.spotify.com/track/2ZBjwsvdIDD4yyKD1IxQAn) | [Washington Soul](https://open.spotify.com/artist/2xcCNwm2PYoCWCa9q5GPhc) | [The Night](https://open.spotify.com/album/4Ao0XfhyIzkmQ6jA3iNh1u) | 7:38 |
 | 30 | [See My Eyes](https://open.spotify.com/track/0e1fUqDgztQz7fZ4nnqrkr) | [Rydz](https://open.spotify.com/artist/4WoYfeD73d5vx3UE0rsJnC), [MALHO](https://open.spotify.com/artist/5NlYxoBDyhRbuvUADO4Etf) | [See My Eyes](https://open.spotify.com/album/0kqmOFcDnvIh3jEQXRIGDX) | 3:31 |
 
-Snapshot ID: `AAAAALNUTK/G8PtLQBfa9OARlrJNk2OL`
+Snapshot ID: `AAAAALM/1vanJhwKObdOltVMzMmAPRVC`

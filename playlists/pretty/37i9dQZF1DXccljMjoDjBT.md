@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXccljMjoDjBT.md) - [plain]
 
 > The best soft rock from the 1980s.
 
-[Spotify](https://open.spotify.com/user/spotify) - 372,496 likes - 75 songs - 5 hr 27 min
+[Spotify](https://open.spotify.com/user/spotify) - 372,535 likes - 75 songs - 5 hr 27 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -21,8 +21,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXccljMjoDjBT.md) - [plain]
 | 11 | [I Can't Go for That \(No Can Do\)](https://open.spotify.com/track/41dDygR3r7e926oGUXfrLt) | [Daryl Hall & John Oates](https://open.spotify.com/artist/77tT1kLj6mCWtFNqiOmP9H) | [Private Eyes \(Expanded Edition\)](https://open.spotify.com/album/7rfpaXxmQG7dnFycZjLae0) | 5:07 |
 | 12 | [I'll Be Over You](https://open.spotify.com/track/1WeoeHh0TSzsApyJ6Q8OOK) | [TOTO](https://open.spotify.com/artist/0PFtn5NtBbbUNbU9EAmIWF) | [Fahrenheit](https://open.spotify.com/album/2FsaIC8jrXvWGIfokVZ4Jg) | 3:49 |
 | 13 | [I Keep Forgettin' \(Every Time You're Near\)](https://open.spotify.com/track/5GvWrvLIqoHroq7YvO260M) | [Michael McDonald](https://open.spotify.com/artist/24hJWbo98sH84tb0nkeaqy) | [If That's What It Takes](https://open.spotify.com/album/43P5lpZxSh8r0uNz7x6Sx1) | 3:42 |
-| 14 | [Biggest Part of Me](https://open.spotify.com/track/6JHXiRD1QjMK1N6AQEnL04) | [Ambrosia](https://open.spotify.com/artist/0J2Ej2rMQyqaUX3G6MUISw) | [One Eighty](https://open.spotify.com/album/4WsQBaO2DLvDZ5VRmsXbUH) | 5:24 |
-| 15 | [Lost In Love](https://open.spotify.com/track/6MfVSA5iKBPHzo6RGARjL0) | [Air Supply](https://open.spotify.com/artist/4xXCRXOfQKQ2gjWxNhNzYW) | [Lost in Love](https://open.spotify.com/album/3fB2z5YtmKvSCu77Z3nTnW) | 3:53 |
+| 14 | [Lost In Love](https://open.spotify.com/track/6MfVSA5iKBPHzo6RGARjL0) | [Air Supply](https://open.spotify.com/artist/4xXCRXOfQKQ2gjWxNhNzYW) | [Lost in Love](https://open.spotify.com/album/3fB2z5YtmKvSCu77Z3nTnW) | 3:53 |
+| 15 | [Biggest Part of Me](https://open.spotify.com/track/6JHXiRD1QjMK1N6AQEnL04) | [Ambrosia](https://open.spotify.com/artist/0J2Ej2rMQyqaUX3G6MUISw) | [One Eighty](https://open.spotify.com/album/4WsQBaO2DLvDZ5VRmsXbUH) | 5:24 |
 | 16 | [Private Eyes](https://open.spotify.com/track/5HQ639Z3ms3hnZx0KfWnkp) | [Daryl Hall & John Oates](https://open.spotify.com/artist/77tT1kLj6mCWtFNqiOmP9H) | [Private Eyes \(Expanded Edition\)](https://open.spotify.com/album/7rfpaXxmQG7dnFycZjLae0) | 3:37 |
 | 17 | [Foolish Heart](https://open.spotify.com/track/4mxkQkZSX1BWgIYh5Q2Jt9) | [Steve Perry](https://open.spotify.com/artist/5xQKoGD7Ql92fWd1uWwKkf) | [Street Talk \(Expanded Edition\)](https://open.spotify.com/album/0laWXQxeNNyr3N6waUu4tw) | 3:39 |
 | 18 | [Sara](https://open.spotify.com/track/0HzjKCZmFhwcO2vnnHpj9q) | [Starship](https://open.spotify.com/artist/0kObWap02DEg9EAJ3PBxzf) | [Knee Deep In The Hoopla](https://open.spotify.com/album/0YCraVqAWvJHiBYP2AXgV6) | 4:52 |
@@ -58,8 +58,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXccljMjoDjBT.md) - [plain]
 | 48 | [That Girl Is Gone](https://open.spotify.com/track/3Zl6aRDcumXbkNMIQeCjeb) | [David Pack](https://open.spotify.com/artist/22iNiLtvlzsvUw9KDiROnl) | [Anywhere You Go](https://open.spotify.com/album/2YoeVDeWhmHQgf2kMBRMKo) | 4:44 |
 | 49 | [So Much In Love](https://open.spotify.com/track/0shzwsbUpKgI8kQhFsOl0w) | [Sheena Easton](https://open.spotify.com/artist/5dcOK4stT4JDkP6Dqhbz5s) | [Take My Time](https://open.spotify.com/album/7bNpYL4bvBMLRyafghBrCs) | 3:04 |
 | 50 | [MARGARITA](https://open.spotify.com/track/6FTkyVYA8sQv43TK28zJON) | [Marc Jordan](https://open.spotify.com/artist/2clUjxvyf90rQi8Rz7absT) | [A HOLE IN THE WALL](https://open.spotify.com/album/7piu0CaJxClSyIvPQO9aNz) | 4:10 |
-| 51 | [Once In a Lifetime](https://open.spotify.com/track/5mfSMt0ns1tUbqvgrPTweE) | [Michael Ruff](https://open.spotify.com/artist/5skgtnwVGfdVqnPnTBF6ZI) | [Once In a Lifetime](https://open.spotify.com/album/43jipQPPOtUEs0v6LlxmAf) | 4:24 |
-| 52 | [You're the Inspiration \- 2009 Remaster](https://open.spotify.com/track/6d7PQZtTbHbcYqaygOW7vs) | [Chicago](https://open.spotify.com/artist/3iDD7bnsjL9J4fO298r0L0) | [Chicago 17 \(Expanded Edition\)](https://open.spotify.com/album/3kkAB63Am6POYuMTisinaa) | 3:49 |
+| 51 | [You're the Inspiration \- 2009 Remaster](https://open.spotify.com/track/6d7PQZtTbHbcYqaygOW7vs) | [Chicago](https://open.spotify.com/artist/3iDD7bnsjL9J4fO298r0L0) | [Chicago 17 \(Expanded Edition\)](https://open.spotify.com/album/3kkAB63Am6POYuMTisinaa) | 3:49 |
+| 52 | [Once In a Lifetime](https://open.spotify.com/track/5mfSMt0ns1tUbqvgrPTweE) | [Michael Ruff](https://open.spotify.com/artist/5skgtnwVGfdVqnPnTBF6ZI) | [Once In a Lifetime](https://open.spotify.com/album/43jipQPPOtUEs0v6LlxmAf) | 4:24 |
 | 53 | [Boys of Autumn](https://open.spotify.com/track/0pDCVNozy0RLEfQpJ6bPYJ) | [David Roberts](https://open.spotify.com/artist/6opjDqwktGxPYPdOAs6T83) | [All Dressed Up](https://open.spotify.com/album/6CoCuashl0StGSgw5XKEJz) | 4:14 |
 | 54 | [Our Love](https://open.spotify.com/track/3P16X8qsN8fMQQT7o0Tfgy) | [Michael McDonald](https://open.spotify.com/artist/24hJWbo98sH84tb0nkeaqy) | [No Lookin' Back](https://open.spotify.com/album/5EgP5Nh4vxShzBrBJk87qW) | 4:30 |
 | 55 | [Throwing It All Away](https://open.spotify.com/track/6Tl40NMUnrFqhQssrW0TYB) | [Genesis](https://open.spotify.com/artist/3CkvROUTQ6nRi9yQOcsB50) | [Invisible Touch](https://open.spotify.com/album/7jYfZ6i2taKDkiuxncR8P1) | 3:50 |
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXccljMjoDjBT.md) - [plain]
 | 74 | [It Will Be Alright](https://open.spotify.com/track/2fbQVHBdsNLD6ol4KsUHPM) | [Airplay](https://open.spotify.com/artist/0yci1UcbunmiExfI7U0jGw) | [Airplay](https://open.spotify.com/album/3uxLkATnYOuXXIkUb2d04n) | 4:01 |
 | 75 | [All Right \- 2019 Remaster](https://open.spotify.com/track/0DtJ6l10vlXET3UGZv8rMV) | [Christopher Cross](https://open.spotify.com/artist/695W5F2Ih8dYahLdjVOIoH) | [Another Page \(2019 Remaster\)](https://open.spotify.com/album/3GkUmzCpICEFZ7sZRiHdBV) | 4:18 |
 
-Snapshot ID: `AAAAAEhFNB5w10wRmhwbXYMA2pdX/Udq`
+Snapshot ID: `AAAAAE95HNIcKGfzmgcrorn5xCxpyKAE`

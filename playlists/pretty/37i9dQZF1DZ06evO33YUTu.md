@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO33YUTu.md) - [plain]
 
 > This is Greeicy\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 136,228 likes - 49 songs - 2 hr 33 min
+[Spotify](https://open.spotify.com/user/spotify) - 136,244 likes - 49 songs - 2 hr 33 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -46,8 +46,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO33YUTu.md) - [plain]
 | 36 | [LAS BURBUJAS DEL JACUZZI](https://open.spotify.com/track/1u7m5t7YwN5neo0RtL3oRB) | [India Martinez](https://open.spotify.com/artist/6FOpWOxsjQxKEbLiJpU1xV), [Greeicy](https://open.spotify.com/artist/5dbaLmK5SHLLg8Z4CcTJpX), [Lele Pons](https://open.spotify.com/artist/6i3DxIlAqnDkwELLw4aVrx) | [LAS BURBUJAS DEL JACUZZI](https://open.spotify.com/album/5XrAHXh8BA2Ncvltge5YPk) | 2:36 |
 | 37 | [Cuando Te Vi](https://open.spotify.com/track/6hFoqFZ7hiEafAkIVXtytB) | [Greeicy](https://open.spotify.com/artist/5dbaLmK5SHLLg8Z4CcTJpX) | [La Carta](https://open.spotify.com/album/1RWGsSW1RxScfvYp5ZR3Jl) | 3:10 |
 | 38 | [Te Estás Enamorando de Mí \- Fiesta Remix](https://open.spotify.com/track/2DBrWAfbqHmyX8iYYm2HLD) | [Luciano Pereyra](https://open.spotify.com/artist/6ZZ2DeepA3GpoGU4KwqSlU), [Greeicy](https://open.spotify.com/artist/5dbaLmK5SHLLg8Z4CcTJpX) | [Te Estás Enamorando de Mí \(Fiesta Remix\)](https://open.spotify.com/album/7gLrC5Ix8bZCFAX2U28tzh) | 2:15 |
-| 39 | [todavíA](https://open.spotify.com/track/5d3G5eCkzT3U1dSGx8hTem) | [Boza](https://open.spotify.com/artist/2NfSBtmWe7oPw1EmetJVso), [Greeicy](https://open.spotify.com/artist/5dbaLmK5SHLLg8Z4CcTJpX) | [SAN BLAS](https://open.spotify.com/album/0FftKMxAvrnFuynmLCvjQ0) | 3:03 |
-| 40 | [Ya Para Qué](https://open.spotify.com/track/5jX5LKsgCcM2GMSLfVYn78) | [Greeicy](https://open.spotify.com/artist/5dbaLmK5SHLLg8Z4CcTJpX) | [Baila](https://open.spotify.com/album/0ZrbrBx1Rkc7hq3hDKdOmH) | 3:26 |
+| 39 | [Ya Para Qué](https://open.spotify.com/track/5jX5LKsgCcM2GMSLfVYn78) | [Greeicy](https://open.spotify.com/artist/5dbaLmK5SHLLg8Z4CcTJpX) | [Baila](https://open.spotify.com/album/0ZrbrBx1Rkc7hq3hDKdOmH) | 3:26 |
+| 40 | [todavíA](https://open.spotify.com/track/5d3G5eCkzT3U1dSGx8hTem) | [Boza](https://open.spotify.com/artist/2NfSBtmWe7oPw1EmetJVso), [Greeicy](https://open.spotify.com/artist/5dbaLmK5SHLLg8Z4CcTJpX) | [SAN BLAS](https://open.spotify.com/album/0FftKMxAvrnFuynmLCvjQ0) | 3:03 |
 | 41 | [cómo fue? \(feat\. Greeicy\)](https://open.spotify.com/track/0XLyEDUC3dvXcwye9HqdkG) | [Zhamira ](https://open.spotify.com/artist/2IdDxiUkjLI0WfypRO1Rh3), [Greeicy](https://open.spotify.com/artist/5dbaLmK5SHLLg8Z4CcTJpX) | [Curita Para El Corazón](https://open.spotify.com/album/6mbclyEcneNuIoOYOMGKXj) | 3:45 |
 | 42 | [Perdón](https://open.spotify.com/track/4iCJFRTRsFlj4UWoEd7bS9) | [David Bisbal](https://open.spotify.com/artist/5gOJTI4TusSENizxhcG7jB), [Greeicy](https://open.spotify.com/artist/5dbaLmK5SHLLg8Z4CcTJpX) | [Perdón](https://open.spotify.com/album/3mS6qSzJvfbFkhLsp6hO8P) | 3:26 |
 | 43 | [Jerusalema \(feat\. Micro TDH, Greeicy & Nomcebo Zikode\) \[Remix\]](https://open.spotify.com/track/54nChLooSgU5bUQCV2oVOY) | [Master KG](https://open.spotify.com/artist/523y9KSneKh6APd1hKxLuF), [Micro TDH](https://open.spotify.com/artist/1aWJsBQa67l72j1VT3D6Ow), [Greeicy](https://open.spotify.com/artist/5dbaLmK5SHLLg8Z4CcTJpX), [Nomcebo Zikode](https://open.spotify.com/artist/4cfKtwkefMW3aiXtxfw8w6) | [Jerusalema \(feat\. Micro TDH, Greeicy & Nomcebo Zikode\) \[Remix\]](https://open.spotify.com/album/0f7eKFD7GWis0BuKXaikB5) | 3:38 |
@@ -58,4 +58,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO33YUTu.md) - [plain]
 | 48 | [Efímero](https://open.spotify.com/track/65752X0pjHO407mHsCTjwn) | [Greeicy](https://open.spotify.com/artist/5dbaLmK5SHLLg8Z4CcTJpX) | [Efímero](https://open.spotify.com/album/399gq5SAYmEAG8WcmsaSoq) | 3:29 |
 | 49 | [Perfecta](https://open.spotify.com/track/5gH9CSkFW45IjfocI8MPsb) | [Feid](https://open.spotify.com/artist/2LRoIwlKmHjgvigdNGBHNo), [Greeicy](https://open.spotify.com/artist/5dbaLmK5SHLLg8Z4CcTJpX) | [Perfecta](https://open.spotify.com/album/7qFvB7ZvDIud6x16xMv3Ur) | 3:02 |
 
-Snapshot ID: `awIwgAAAAAAvehoxih6FJSaCxIlaEuEs`
+Snapshot ID: `awOCAAAAAAAfomNaY/azDhog9DPZH8nq`

@@ -2297,6 +2297,24 @@
     },
     {
       "album": {
+        "name": "A CHL\u00d6E CHRISTMAS",
+        "url": "https://open.spotify.com/album/34XcRmbVvNXU28TNzbr2TU"
+      },
+      "artists": [
+        {
+          "name": "Chl\u00f6e",
+          "url": "https://open.spotify.com/artist/1FtBEIWAwvw5ymBen5GICR"
+        }
+      ],
+      "date_added": "2026-11-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 171034,
+      "name": "MOOD 4",
+      "url": "https://open.spotify.com/track/5zsIK5F07x4CUFl7EXSDzh"
+    },
+    {
+      "album": {
         "name": "Mr. Know It All",
         "url": "https://open.spotify.com/album/6pSMDQxVmzO16b4feWczz1"
       },

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/1c66mgdrPmio97QsJHNN2M.md) - [plain]
 
 > FREE SUBMISSIONS \- Got unreleased music in 2026 or like to hear unsigned artists?  30 days free promotion for new music\. Just submit via my linktree: https:&\#x2F;&\#x2F;linktr.ee&\#x2F;Anythings.Possible.Music
 
-[Anything's Possible Music](https://open.spotify.com/user/ashdown1981) - 6,276 likes - 246 songs - 12 hr 45 min
+[Anything's Possible Music](https://open.spotify.com/user/ashdown1981) - 6,287 likes - 247 songs - 12 hr 48 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -254,5 +254,6 @@ pretty - [cumulative](/playlists/cumulative/1c66mgdrPmio97QsJHNN2M.md) - [plain]
 | 244 | [\(This Is Not A\) Christmas Song](https://open.spotify.com/track/0ZwhAZXd6VUMFl9YASv9HM) | [Un Rodo Cora](https://open.spotify.com/artist/0RKA0a9z4xnW67jEsVSnxX) | [\(This Is Not A\) Christmas Song](https://open.spotify.com/album/0HFNFqoA5JeCgicCc8pkoZ) | 3:19 |
 | 245 | [Bock Haben](https://open.spotify.com/track/5Yg44Z4B4VHZs2OwH2C2U3) | [World Sound Creations](https://open.spotify.com/artist/7ouI7ewdzlgfkh4n1rq8OR) | [Bock Haben](https://open.spotify.com/album/0lNiOi3eis2Shf15nzbVA6) | 3:04 |
 | 246 | [The Persian](https://open.spotify.com/track/2buthbCMjZzOR4Fp1QlawX) | [Ardeshir Farah](https://open.spotify.com/artist/3ijA529qU4mK7pOsSObT0P) | [The Persian](https://open.spotify.com/album/2b5tBYvPQYIjlfLxqMr6m0) | 4:09 |
+| 247 | [GHOST TOWN](https://open.spotify.com/track/22Dg2L6nvMIjrrhB9qEqSn) | [KONISHI](https://open.spotify.com/artist/1kdiiDDLFkQ90jLJpw3FI0) | [GHOST TOWN](https://open.spotify.com/album/1T6ZJsZZIlPstmsK7SaLiH) | 3:01 |
 
-Snapshot ID: `AAA+UGWLNjK4mA/dJImprpcHWS0obd9p`
+Snapshot ID: `AAA+UV/RZ4bZmVOEz6vLGwwMz4cdZ1v0`

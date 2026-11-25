@@ -1,12 +1,12 @@
 {
   "description": "\u00a1Lo mejor de la Cumbia Pop! \nFoto: Emanero & Bandana",
-  "num_followers": 1081263,
+  "num_followers": 1081073,
   "original_name": "Dame M\u00e1s Cumbia",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAADbExDLMwkh71hPVL+q1C0Uoy9yU",
+  "snapshot_id": "AAAAAJfRhKw6JNWw4/A/0TuOfbazoK7l",
   "tracks": [
     {
       "added_at": "2026-10-23 13:41:51",
@@ -643,22 +643,6 @@
     {
       "added_at": "2026-10-23 13:41:51",
       "album": {
-        "name": "Vos y Yo",
-        "url": "https://open.spotify.com/album/0rOgo14OGQSISmPyG5uXmx"
-      },
-      "artists": [
-        {
-          "name": "Valen",
-          "url": "https://open.spotify.com/artist/4OpKA1Qx8VYnSmrhKQ4zJz"
-        }
-      ],
-      "duration_ms": 139058,
-      "name": "Vos y Yo",
-      "url": "https://open.spotify.com/track/45mSkRFdOQwCz1N3uSpVIa"
-    },
-    {
-      "added_at": "2026-10-23 13:41:51",
-      "album": {
         "name": "Soltero Hasta la Tumba (Remix)",
         "url": "https://open.spotify.com/album/02jgpEF6No10jypd9B6dsk"
       },
@@ -691,6 +675,22 @@
     {
       "added_at": "2026-10-23 13:41:51",
       "album": {
+        "name": "Vos y Yo",
+        "url": "https://open.spotify.com/album/0rOgo14OGQSISmPyG5uXmx"
+      },
+      "artists": [
+        {
+          "name": "Valen",
+          "url": "https://open.spotify.com/artist/4OpKA1Qx8VYnSmrhKQ4zJz"
+        }
+      ],
+      "duration_ms": 139058,
+      "name": "Vos y Yo",
+      "url": "https://open.spotify.com/track/45mSkRFdOQwCz1N3uSpVIa"
+    },
+    {
+      "added_at": "2026-10-23 13:41:51",
+      "album": {
         "name": "Cuidado Que Te Supero / Calumnia / Tattoo",
         "url": "https://open.spotify.com/album/095xvXfYBWnxcyeSTsViVC"
       },
@@ -707,22 +707,18 @@
     {
       "added_at": "2026-10-23 13:41:51",
       "album": {
-        "name": "VIAJEMOS EN EL TIEMPO #3 | Te Amo",
-        "url": "https://open.spotify.com/album/5OCxqsmfDFDnxNftSVjE6h"
+        "name": "QUE ES ESO?",
+        "url": "https://open.spotify.com/album/7uCxdJ7EEfsbPfiERz7hGB"
       },
       "artists": [
         {
-          "name": "Max Carra",
-          "url": "https://open.spotify.com/artist/483P9cJ9pdCoc08XvNunPL"
-        },
-        {
-          "name": "Flor Alvarez",
-          "url": "https://open.spotify.com/artist/3R8XhCi6bUcoR1CJx2XASa"
+          "name": "VIUS",
+          "url": "https://open.spotify.com/artist/29UQ00CArXvEpg0GjKyOPE"
         }
       ],
-      "duration_ms": 157078,
-      "name": "VIAJEMOS EN EL TIEMPO #3 | Te Amo",
-      "url": "https://open.spotify.com/track/1szeNjcQhCq2TPO2TrTyag"
+      "duration_ms": 145847,
+      "name": "QUE ES ESO?",
+      "url": "https://open.spotify.com/track/5T3oZ1EcofOcGiMIhfw8VL"
     },
     {
       "added_at": "2026-10-23 13:41:51",
@@ -751,18 +747,22 @@
     {
       "added_at": "2026-10-23 13:41:51",
       "album": {
-        "name": "QUE ES ESO?",
-        "url": "https://open.spotify.com/album/7uCxdJ7EEfsbPfiERz7hGB"
+        "name": "VIAJEMOS EN EL TIEMPO #3 | Te Amo",
+        "url": "https://open.spotify.com/album/5OCxqsmfDFDnxNftSVjE6h"
       },
       "artists": [
         {
-          "name": "VIUS",
-          "url": "https://open.spotify.com/artist/29UQ00CArXvEpg0GjKyOPE"
+          "name": "Max Carra",
+          "url": "https://open.spotify.com/artist/483P9cJ9pdCoc08XvNunPL"
+        },
+        {
+          "name": "Flor Alvarez",
+          "url": "https://open.spotify.com/artist/3R8XhCi6bUcoR1CJx2XASa"
         }
       ],
-      "duration_ms": 145847,
-      "name": "QUE ES ESO?",
-      "url": "https://open.spotify.com/track/5T3oZ1EcofOcGiMIhfw8VL"
+      "duration_ms": 157078,
+      "name": "VIAJEMOS EN EL TIEMPO #3 | Te Amo",
+      "url": "https://open.spotify.com/track/1szeNjcQhCq2TPO2TrTyag"
     },
     {
       "added_at": "2026-10-23 13:41:51",
@@ -1395,26 +1395,6 @@
     {
       "added_at": "2026-10-23 13:41:51",
       "album": {
-        "name": "FINGI DEMENCIA",
-        "url": "https://open.spotify.com/album/3gbWzrqyQqjMc4g8TdRVWk"
-      },
-      "artists": [
-        {
-          "name": "RAMKY EN LOS CONTROLES",
-          "url": "https://open.spotify.com/artist/6jXFmaC0CvsIRSzxapsnNd"
-        },
-        {
-          "name": "The La Planta",
-          "url": "https://open.spotify.com/artist/4oZolC0sCwCAKqsNXfRlVS"
-        }
-      ],
-      "duration_ms": 126705,
-      "name": "FINGI DEMENCIA",
-      "url": "https://open.spotify.com/track/6JAaPxRPeElmUGPqyIkhCS"
-    },
-    {
-      "added_at": "2026-10-23 13:41:51",
-      "album": {
         "name": "Son de Amores / Chica del Este / Me Olvide de Ti / Cenizas / No Lo Enga\u00f1es Mas",
         "url": "https://open.spotify.com/album/5H2hv6jPGgW87AYmAmIFoR"
       },
@@ -1431,6 +1411,26 @@
       "duration_ms": 326437,
       "name": "Son de Amores / Chica del Este / Me Olvide de Ti / Cenizas / No Lo Enga\u00f1es Mas",
       "url": "https://open.spotify.com/track/3WYGGrbZKz6AiMVDX9QblT"
+    },
+    {
+      "added_at": "2026-10-23 13:41:51",
+      "album": {
+        "name": "FINGI DEMENCIA",
+        "url": "https://open.spotify.com/album/3gbWzrqyQqjMc4g8TdRVWk"
+      },
+      "artists": [
+        {
+          "name": "RAMKY EN LOS CONTROLES",
+          "url": "https://open.spotify.com/artist/6jXFmaC0CvsIRSzxapsnNd"
+        },
+        {
+          "name": "The La Planta",
+          "url": "https://open.spotify.com/artist/4oZolC0sCwCAKqsNXfRlVS"
+        }
+      ],
+      "duration_ms": 126705,
+      "name": "FINGI DEMENCIA",
+      "url": "https://open.spotify.com/track/6JAaPxRPeElmUGPqyIkhCS"
     },
     {
       "added_at": "2026-10-23 13:41:51",
@@ -1483,22 +1483,6 @@
     {
       "added_at": "2026-10-23 13:41:51",
       "album": {
-        "name": "Imagina",
-        "url": "https://open.spotify.com/album/3POy2qVDRvo8VhnVvAhZSq"
-      },
-      "artists": [
-        {
-          "name": "Valen",
-          "url": "https://open.spotify.com/artist/4OpKA1Qx8VYnSmrhKQ4zJz"
-        }
-      ],
-      "duration_ms": 176577,
-      "name": "Imagina",
-      "url": "https://open.spotify.com/track/7qpP03SFwP9zKVwK0blnhl"
-    },
-    {
-      "added_at": "2026-10-23 13:41:51",
-      "album": {
         "name": "A 30 A\u00f1os de una Pasi\u00f3n Inexplicable... Solo He Nacido para Amarte",
         "url": "https://open.spotify.com/album/2oAr9qO4Lfm8PgSBHgox8l"
       },
@@ -1511,6 +1495,22 @@
       "duration_ms": 475951,
       "name": "Juego de Seduccion / Persiana Americana / Corazon Delator / Cuando Pase el Temblor / Tratame Suavemente / De Musica Ligera",
       "url": "https://open.spotify.com/track/4LVAaT0AupDe4EKttxYazr"
+    },
+    {
+      "added_at": "2026-10-23 13:41:51",
+      "album": {
+        "name": "Imagina",
+        "url": "https://open.spotify.com/album/3POy2qVDRvo8VhnVvAhZSq"
+      },
+      "artists": [
+        {
+          "name": "Valen",
+          "url": "https://open.spotify.com/artist/4OpKA1Qx8VYnSmrhKQ4zJz"
+        }
+      ],
+      "duration_ms": 176577,
+      "name": "Imagina",
+      "url": "https://open.spotify.com/track/7qpP03SFwP9zKVwK0blnhl"
     },
     {
       "added_at": "2026-10-23 13:41:51",
@@ -1611,6 +1611,22 @@
     {
       "added_at": "2026-10-23 13:41:51",
       "album": {
+        "name": "D\u00eda de Enero",
+        "url": "https://open.spotify.com/album/47XYg0bJ7zGeBv2o12Z22B"
+      },
+      "artists": [
+        {
+          "name": "Agapornis",
+          "url": "https://open.spotify.com/artist/27Yc5RzJf27tJfqezJnHY1"
+        }
+      ],
+      "duration_ms": 145626,
+      "name": "D\u00eda de Enero",
+      "url": "https://open.spotify.com/track/7KlKHAIzWjtGnKNYCJNdYw"
+    },
+    {
+      "added_at": "2026-10-23 13:41:51",
+      "album": {
         "name": "\u00daltima Noche",
         "url": "https://open.spotify.com/album/790KUJY6zHaq2K18B3PvxK"
       },
@@ -1631,22 +1647,6 @@
       "duration_ms": 166153,
       "name": "\u00daltima Noche",
       "url": "https://open.spotify.com/track/20GboINqv3c8q3h8ppVANK"
-    },
-    {
-      "added_at": "2026-10-23 13:41:51",
-      "album": {
-        "name": "D\u00eda de Enero",
-        "url": "https://open.spotify.com/album/47XYg0bJ7zGeBv2o12Z22B"
-      },
-      "artists": [
-        {
-          "name": "Agapornis",
-          "url": "https://open.spotify.com/artist/27Yc5RzJf27tJfqezJnHY1"
-        }
-      ],
-      "duration_ms": 145626,
-      "name": "D\u00eda de Enero",
-      "url": "https://open.spotify.com/track/7KlKHAIzWjtGnKNYCJNdYw"
     },
     {
       "added_at": "2026-10-23 13:41:51",
@@ -1691,6 +1691,26 @@
     {
       "added_at": "2026-10-23 13:41:51",
       "album": {
+        "name": "Copacabana (Remix)",
+        "url": "https://open.spotify.com/album/3FBdw6cz2xafwzvukIVtuy"
+      },
+      "artists": [
+        {
+          "name": "ECKO",
+          "url": "https://open.spotify.com/artist/2Jb9jVnCpWkXtoGznFJ6bF"
+        },
+        {
+          "name": "La T y La M",
+          "url": "https://open.spotify.com/artist/1FxPMQ9A0882eNDx3ZkD6B"
+        }
+      ],
+      "duration_ms": 153133,
+      "name": "Copacabana - Remix",
+      "url": "https://open.spotify.com/track/5QNPsYAr31UzNJ0NlsYPVQ"
+    },
+    {
+      "added_at": "2026-10-23 13:41:51",
+      "album": {
         "name": "No Voy a Llorar Por Ti (Remix)",
         "url": "https://open.spotify.com/album/6pWXJRKJFbxcq4aZsMEBYM"
       },
@@ -1719,26 +1739,6 @@
       "duration_ms": 199389,
       "name": "No Voy a Llorar Por Ti - Remix",
       "url": "https://open.spotify.com/track/5zl3j3FkzhLhHJPWQ3JbNM"
-    },
-    {
-      "added_at": "2026-10-23 13:41:51",
-      "album": {
-        "name": "Copacabana (Remix)",
-        "url": "https://open.spotify.com/album/3FBdw6cz2xafwzvukIVtuy"
-      },
-      "artists": [
-        {
-          "name": "ECKO",
-          "url": "https://open.spotify.com/artist/2Jb9jVnCpWkXtoGznFJ6bF"
-        },
-        {
-          "name": "La T y La M",
-          "url": "https://open.spotify.com/artist/1FxPMQ9A0882eNDx3ZkD6B"
-        }
-      ],
-      "duration_ms": 153133,
-      "name": "Copacabana - Remix",
-      "url": "https://open.spotify.com/track/5QNPsYAr31UzNJ0NlsYPVQ"
     },
     {
       "added_at": "2026-10-23 13:41:51",
@@ -1795,6 +1795,22 @@
     {
       "added_at": "2026-10-23 13:41:51",
       "album": {
+        "name": "Pechito Partido",
+        "url": "https://open.spotify.com/album/2DSB1Vljm1tDrcH6Hk06F7"
+      },
+      "artists": [
+        {
+          "name": "Rei",
+          "url": "https://open.spotify.com/artist/4IG1SDlwgNKzqTmjBrvY3K"
+        }
+      ],
+      "duration_ms": 147109,
+      "name": "Pechito Partido",
+      "url": "https://open.spotify.com/track/1IT2VUL1Nx6Y3AdCfm0wcO"
+    },
+    {
+      "added_at": "2026-10-23 13:41:51",
+      "album": {
         "name": "La Teoria",
         "url": "https://open.spotify.com/album/0Wb5nJvGGpCe6uyOu0SPk1"
       },
@@ -1811,22 +1827,6 @@
       "duration_ms": 142087,
       "name": "La Teoria",
       "url": "https://open.spotify.com/track/2T9oLvdZpa6I8WPAdAHi51"
-    },
-    {
-      "added_at": "2026-10-23 13:41:51",
-      "album": {
-        "name": "Pechito Partido",
-        "url": "https://open.spotify.com/album/2DSB1Vljm1tDrcH6Hk06F7"
-      },
-      "artists": [
-        {
-          "name": "Rei",
-          "url": "https://open.spotify.com/artist/4IG1SDlwgNKzqTmjBrvY3K"
-        }
-      ],
-      "duration_ms": 147109,
-      "name": "Pechito Partido",
-      "url": "https://open.spotify.com/track/1IT2VUL1Nx6Y3AdCfm0wcO"
     },
     {
       "added_at": "2026-10-23 13:41:51",

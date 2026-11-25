@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSrVdvTl1tVY.md) - [plain]
 
 > The biggest house bangers popping off in the UK, let's go! Cover: CHRIS STASSY, Interplanetary Criminal
 
-[Spotify](https://open.spotify.com/user/spotify) - 741,514 likes - 121 songs - 6 hr 30 min
+[Spotify](https://open.spotify.com/user/spotify) - 741,468 likes - 121 songs - 6 hr 30 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -130,4 +130,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSrVdvTl1tVY.md) - [plain]
 | 120 | [Vibrant](https://open.spotify.com/track/3gOYJbFvz4naxjXCbAlpJ0) | [Fleur Shore](https://open.spotify.com/artist/7GyRA9n7JVslQGcbo72Dil) | [Vibrant](https://open.spotify.com/album/0tZlj1BUGzpwqpHboQa5yX) | 3:00 |
 | 121 | [In My Veins](https://open.spotify.com/track/0148ol9yjygNNjiofkwx7w) | [BETH](https://open.spotify.com/artist/3CoXOHEx4is85lgENqoO17) | [In My Veins](https://open.spotify.com/album/3InJZFwoVp3AIQfT4O53E3) | 3:15 |
 
-Snapshot ID: `AAAAACx4PelTQvlDn7nnBycVT8G2mKwR`
+Snapshot ID: `AAAAADt4rYHokHiH2Oxg5YP+ZgORUsxP`

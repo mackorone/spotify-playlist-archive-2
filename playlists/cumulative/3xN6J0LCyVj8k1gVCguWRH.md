@@ -4,7 +4,7 @@
 
 > Obama&\#x27;s actual playlist? Nope, just a fan who grouped all his summer song picks into one list\. \(2026, 2024 &amp; 2023 + bonus tracks\) Enjoy!
 
-6,745 songs - 15 day 17 hr 31 min
+6,747 songs - 15 day 17 hr 36 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -4443,6 +4443,7 @@
 | [Peach tree](https://open.spotify.com/track/628oi7AB8GI0j0Gr7gqgbH) | [Santa Chiara](https://open.spotify.com/artist/4ypMT9SN8PDvScLqLcGcEU) | [Peach tree](https://open.spotify.com/album/5Pa2aNyiDR6WtjeKoTTXr4) | 3:40 | 2023-06-02 | 2023-06-23 |
 | [Peaches \(feat\. Daniel Caesar & Giveon\)](https://open.spotify.com/track/4iJyoBOLtHqaGxP12qzhQI) | [Justin Bieber](https://open.spotify.com/artist/1uNFoZAHBGtllmzznpCI3s), [Daniel Caesar](https://open.spotify.com/artist/20wkVLutqVOYrc0kxFs7rA), [GIVĒON](https://open.spotify.com/artist/4fxd5Ee7UefO4CUXgwJ7IP) | [Justice](https://open.spotify.com/album/5dGWwsZ9iB2Xc3UKR0gif2) | 3:18 | 2025-03-10 | 2025-07-12 |
 | [Pegasus \(ft\. Phoebe Bridgers\)](https://open.spotify.com/track/79rDSeSX1tm97qaYDmPSnD) | [Arlo Parks](https://open.spotify.com/artist/4kIwETcbpuFgRukE8o7Opx), [Phoebe Bridgers](https://open.spotify.com/artist/1r1uxoy19fzMxunt3ONAkG) | [My Soft Machine](https://open.spotify.com/album/4YCScpRHPfvu81qmsIGGmn) | 3:06 | 2023-05-31 | 2023-07-21 |
+| [Pele na Pele](https://open.spotify.com/track/3Prx5TyhsEyxLmrrhmNhxZ) | [Mikaela & Melany](https://open.spotify.com/artist/4vpudZ3MPaJobRhiVdYETT) | [Pele na Pele](https://open.spotify.com/album/2XvXCwcPz5MVY0AxN22v5C) | 2:31 | 2026-11-24 |  |
 | [pelham blues](https://open.spotify.com/track/5kCTCG4zNVLwFplYln24TS) | [ØZWALD](https://open.spotify.com/artist/7pwk3M6iETEiAFLwqkgLrk) | [pelham blues](https://open.spotify.com/album/5PQdUntrtEJxhczEvp6I1e) | 2:56 | 2021-06-01 | 2021-06-08 |
 | [Penas con Pan](https://open.spotify.com/track/0va257dK5KpE35Gd2EHH7E) | [La Doña](https://open.spotify.com/artist/5eBVoDUYv0feTepoBSz4SJ) | [Penas con Pan](https://open.spotify.com/album/7nxJz9F14aEwdO7eyq7qmb) | 1:43 | 2023-07-20 |  |
 | [PENDING](https://open.spotify.com/track/0hXDXNdyM8jwRkcMrHEmCo) | [Lil Naay](https://open.spotify.com/artist/3hfWiirwdO1ijoZQwj7uzZ), [Myke Towers](https://open.spotify.com/artist/7iK8PXO48WeuP03g8YR51W) | [PENDING](https://open.spotify.com/album/37q4GGvfqAmGkQn4huXKTP) | 2:36 | 2025-12-18 | 2026-04-15 |
@@ -6371,6 +6372,7 @@
 | [We Dey](https://open.spotify.com/track/5KryeTvG0C02vF9cpgZrYA) | [Sofie](https://open.spotify.com/artist/1EJcOEBbh3yXuat8rF7lR0), [Sister Deborah](https://open.spotify.com/artist/3RM7YoeiC3yijn8k8uCGA7) | [We Dey](https://open.spotify.com/album/3idMIRqDQBaPKXTAGZUn4a) | 2:32 | 2022-12-11 | 2023-01-03 |
 | [We Don't Trust You](https://open.spotify.com/track/1pnDvUuAEd6z8bKEsbAjk1) | [Future](https://open.spotify.com/artist/1RyvyyTE3xzB2ZywiAwp0i), [Metro Boomin](https://open.spotify.com/artist/0iEtIxbK0KxaSlF7G42ZOp) | [WE DON'T TRUST YOU](https://open.spotify.com/album/4iqbFIdGOTzXeDtt9owjQn) | 3:46 | 2024-03-24 | 2024-03-26 |
 | [WE LE LE](https://open.spotify.com/track/1qb355GEuTidwStoROG5zh) | [Sasu](https://open.spotify.com/artist/4JBTC5mmVvAyPwXbpPCuQh) | [WE LE LE](https://open.spotify.com/album/0uGeyIboXcAvfru3aLcsJe) | 4:46 | 2023-12-23 | 2024-01-10 |
+| [We Live in a UFO](https://open.spotify.com/track/6ylWM5irLRqspHCZDgVzmn) | [Alex Boszhardt](https://open.spotify.com/artist/3Cznrrtf07HLJZ9OTGusD2) | [We Live in a UFO](https://open.spotify.com/album/0MgjVmfkQ7ztPA0UgPdosx) | 1:55 | 2026-11-24 |  |
 | [WE LOST TRACK OF RIGHT](https://open.spotify.com/track/24PGpSiHKTn58M2n5JI8kJ) | [Tom Morgan](https://open.spotify.com/artist/3O1tV7GESyriJiAnhjeR0c) | [WE LOST TRACK OF RIGHT](https://open.spotify.com/album/7FJRQydSWxelwsSoo57gKN) | 2:50 | 2026-01-20 | 2026-02-02 |
 | [We Made It](https://open.spotify.com/track/5BF59OP3Fin0OyucX3S1Vw) | [Welcome2hills](https://open.spotify.com/artist/7xCL2844XqfWaBLZtVDAmz) | [We Made It](https://open.spotify.com/album/2Jwa1Ybl2a0GCbGHhNHYyN) | 2:33 | 2025-11-27 | 2025-12-09 |
 | [We Need](https://open.spotify.com/track/6noYxnpmqg5ILjLXy8Ui5N) | [Cloud Ray](https://open.spotify.com/artist/3dL5rP9PjkUR5xniV38mg1) | [We Need](https://open.spotify.com/album/0RlfiuZOHF5lfer91kGveC) | 2:54 | 2025-01-05 | 2025-01-19 |

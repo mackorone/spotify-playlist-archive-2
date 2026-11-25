@@ -1966,7 +1966,7 @@
       ],
       "date_added": "2021-11-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-25",
       "duration_ms": 241562,
       "name": "All I Want for Christmas Is You",
       "url": "https://open.spotify.com/track/0bYg9bo50gSsH3LtXe2SQn"
@@ -5234,7 +5234,7 @@
       ],
       "date_added": "2026-02-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-25",
       "duration_ms": 146666,
       "name": "BOTR\u00c1NY",
       "url": "https://open.spotify.com/track/1Y4yr3lzCoV0I4m21W5LWB"
@@ -10612,7 +10612,7 @@
       ],
       "date_added": "2026-10-29",
       "date_added_asterisk": false,
-      "date_removed": "2026-11-23",
+      "date_removed": null,
       "duration_ms": 197538,
       "name": "Estelente",
       "url": "https://open.spotify.com/track/3vATKG0ju6znf3IchoY3aQ"
@@ -10742,7 +10742,7 @@
       ],
       "date_added": "2026-04-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-25",
       "duration_ms": 145950,
       "name": "EX N GO",
       "url": "https://open.spotify.com/track/6nvDIhdi3Dcet4sIZR5qDk"
@@ -17100,7 +17100,7 @@
       ],
       "date_added": "2021-11-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-25",
       "duration_ms": 130973,
       "name": "Jingle Bell Rock",
       "url": "https://open.spotify.com/track/7vQbuQcyTflfCIOu3Uzzya"
@@ -20180,6 +20180,24 @@
       "duration_ms": 165517,
       "name": "LUCYD",
       "url": "https://open.spotify.com/track/1gmRmL0I6z0yT84VV1c5rM"
+    },
+    {
+      "album": {
+        "name": "YIN \u00c9S YANG",
+        "url": "https://open.spotify.com/album/0PVkAQpbqyUx1hgnpTC7S8"
+      },
+      "artists": [
+        {
+          "name": "Grasa",
+          "url": "https://open.spotify.com/artist/7roOHVUjZASn8tsyBoyn7C"
+        }
+      ],
+      "date_added": "2026-11-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 183544,
+      "name": "LULU",
+      "url": "https://open.spotify.com/track/1aDXA9gnoXJZgcCNSjTaX3"
     },
     {
       "album": {
@@ -25502,7 +25520,7 @@
       ],
       "date_added": "2024-07-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-25",
       "duration_ms": 147120,
       "name": "PANNONIA",
       "url": "https://open.spotify.com/track/5v1qS9RS2g42zeXHevEdYn"
@@ -31070,7 +31088,7 @@
       ],
       "date_added": "2021-11-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-25",
       "duration_ms": 165900,
       "name": "Snowman",
       "url": "https://open.spotify.com/track/7uoFMmxln0GPXQ0AcCBXRq"
@@ -31878,7 +31896,7 @@
       ],
       "date_added": "2026-11-03",
       "date_added_asterisk": false,
-      "date_removed": "2026-11-22",
+      "date_removed": null,
       "duration_ms": 199460,
       "name": "Stop The Wedding!",
       "url": "https://open.spotify.com/track/7MOO89Qv9AV7VZkt5mcqA8"
@@ -39143,6 +39161,28 @@
     },
     {
       "album": {
+        "name": "YIN \u00c9S YANG",
+        "url": "https://open.spotify.com/album/0PVkAQpbqyUx1hgnpTC7S8"
+      },
+      "artists": [
+        {
+          "name": "Grasa",
+          "url": "https://open.spotify.com/artist/7roOHVUjZASn8tsyBoyn7C"
+        },
+        {
+          "name": "ekhoe",
+          "url": "https://open.spotify.com/artist/6lZA0phZLDcwn6k9ElfESM"
+        }
+      ],
+      "date_added": "2026-11-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 131200,
+      "name": "X365 BAZOOKA",
+      "url": "https://open.spotify.com/track/2USX0US247EAR7T71ddf5F"
+    },
+    {
+      "album": {
         "name": "A MASZK",
         "url": "https://open.spotify.com/album/7GAIOSkRnnTyYnoziR7I1y"
       },
@@ -39993,6 +40033,24 @@
     },
     {
       "album": {
+        "name": "YIN \u00c9S YANG",
+        "url": "https://open.spotify.com/album/0PVkAQpbqyUx1hgnpTC7S8"
+      },
+      "artists": [
+        {
+          "name": "Grasa",
+          "url": "https://open.spotify.com/artist/7roOHVUjZASn8tsyBoyn7C"
+        }
+      ],
+      "date_added": "2026-11-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 103870,
+      "name": "\u00c9DESEM",
+      "url": "https://open.spotify.com/track/5S43Khsb6OCrAJQuhSQvQ0"
+    },
+    {
+      "album": {
         "name": "\u00c9get a nap",
         "url": "https://open.spotify.com/album/2g6EW3GB1zeDuGVs5TJGX4"
       },
@@ -40310,7 +40368,7 @@
       ],
       "date_added": "2026-10-31",
       "date_added_asterisk": false,
-      "date_removed": "2026-11-23",
+      "date_removed": null,
       "duration_ms": 160403,
       "name": "\u00f6sszevissza",
       "url": "https://open.spotify.com/track/5CgMYs7FYpqR1WRqj0MS9U"

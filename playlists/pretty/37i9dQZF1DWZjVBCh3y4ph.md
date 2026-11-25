@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZjVBCh3y4ph.md) - [plain]
 
 > Les hits zouk & kompa du moment\. Photo : Marvin x Senyss
 
-[Spotify](https://open.spotify.com/user/spotify) - 97,680 likes - 40 songs - 2 hr 9 min
+[Spotify](https://open.spotify.com/user/spotify) - 97,705 likes - 40 songs - 2 hr 9 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -49,4 +49,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZjVBCh3y4ph.md) - [plain]
 | 39 | [DON'T CARE](https://open.spotify.com/track/5kYQ0GagBehowLHQOvlXQY) | [Dj Blax](https://open.spotify.com/artist/44VNFYznTUZXUy2b0KMhZx), [Tamillia](https://open.spotify.com/artist/5yjlPxR2NMOjm2JiHtJR3Q) | [DON'T CARE](https://open.spotify.com/album/2nNnIqw4MROGSDYiXhnY28) | 2:12 |
 | 40 | [Bandit](https://open.spotify.com/track/2dkfeyEWCbCCYgfXqlN2u0) | [Saina Manotte](https://open.spotify.com/artist/0ftpDCmIMJEV7wODuCu6Cj), [Blicassty](https://open.spotify.com/artist/1MbUL0JryiwgLoPNX8esk6) | [Bandit](https://open.spotify.com/album/0smJ1wGocZWRvZX5ZpzmSF) | 3:18 |
 
-Snapshot ID: `AAAAAB3oSXs/yk0Cmsj0FhktiTQo6uR5`
+Snapshot ID: `AAAAACaA5L7/PRIeavp01oTYx0RINFxF`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUW2bvSkjcJ6.md) - [plain]
 
 > Neue Musik von Dua Lipa, Sido, Helene Fischer, Zartmann, reezy & vielen mehr!
 
-[Spotify](https://open.spotify.com/user/spotify) - 939,542 likes - 84 songs - 4 hr 14 min
+[Spotify](https://open.spotify.com/user/spotify) - 939,477 likes - 84 songs - 4 hr 14 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -93,4 +93,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUW2bvSkjcJ6.md) - [plain]
 | 83 | [Ein Geschenk](https://open.spotify.com/track/10JalXCGT8odOSWrYVG3Ei) | [Beatrice Egli](https://open.spotify.com/artist/7J8A1bNBCuikXoOOetFCKz) | [Hör nie auf damit \(Heimat Edition\)](https://open.spotify.com/album/7H3os8268Vp1vTIAIdPfOd) | 2:58 |
 | 84 | [Du hast gehofft \- JazzDP](https://open.spotify.com/track/5u5XxRMJiLcPFd03er2r4w) | [SDP](https://open.spotify.com/artist/1EfwyuCzDQpCslZc8C9gkG), [JazzDP](https://open.spotify.com/artist/2bftZEJHkriaOKsUO4Uwqy), [The Capital Dance Orchestra](https://open.spotify.com/artist/4NfATmRSocOFbq7WEjBAEO) | [JazzDP](https://open.spotify.com/album/48OxLlndap85Er8IgBtYuz) | 4:19 |
 
-Snapshot ID: `AAAAAMtmgn9L0iIpg6yOt+McytnbCO/z`
+Snapshot ID: `AAAAACE6z33jeT0qLYXzh1zR6gXF1Q/R`

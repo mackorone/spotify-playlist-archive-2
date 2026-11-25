@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/3kGugw6rkGcCPd6CnybCWP.md) - [plain]
 
 > Celebrating individuality within independent music
 
-[The Mushy Pea](https://open.spotify.com/user/1139243362) - 1,158 likes - 94 songs - 5 hr 18 min
+[The Mushy Pea](https://open.spotify.com/user/1139243362) - 1,158 likes - 96 songs - 5 hr 27 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -102,5 +102,7 @@ pretty - [cumulative](/playlists/cumulative/3kGugw6rkGcCPd6CnybCWP.md) - [plain]
 | 92 | [scarlet](https://open.spotify.com/track/7Ci35qKkrYPH1Ief73EpBB) | [SIKADE](https://open.spotify.com/artist/2DrSLniejh3OLn1XnU6lCY) | [scarlet](https://open.spotify.com/album/5tkQh34B3zHQEvdp3xHxRI) | 2:13 |
 | 93 | [Stay](https://open.spotify.com/track/5xTsuY31OnjYSoc5oGzBjv) | [Noé Solange](https://open.spotify.com/artist/1mn0xkOCIsGf36mamUq7M6) | [Stay](https://open.spotify.com/album/2diPcf8av13aOOXwATVOpE) | 4:16 |
 | 94 | [Numb](https://open.spotify.com/track/2V6ISIjnCBFDz05OjdbWPM) | [Ellijai](https://open.spotify.com/artist/5Co53lS8iBu9ZaH8S0yOoR) | [Numb](https://open.spotify.com/album/37v6MGEHYk5n37AJo0gJdJ) | 3:20 |
+| 95 | [Isnt It Beautiful](https://open.spotify.com/track/4YZMVe3BVBcZSwxJ2AMDen) | [Bruce Derby](https://open.spotify.com/artist/3L7v52f5rkuzgDWI2BIhJl) | [Isnt It Beautiful](https://open.spotify.com/album/3dnxEjKCOViLHS9qm9omx0) | 3:37 |
+| 96 | [Sacrifice](https://open.spotify.com/track/46UHppFKdvYRKKtn4ibXox) | [MAEVE](https://open.spotify.com/artist/3DNFhvW8CCWslJ8idXFwgn) | [Sacrifice](https://open.spotify.com/album/3a9z2mt1DIO1nGOneaIiSE) | 5:18 |
 
-Snapshot ID: `AAAQdnyo29sWM9Y3L5Sar15wL9Ih8XXM`
+Snapshot ID: `AAAQeIM6uLC8kx8eJCk34IF7+83t1Ybj`

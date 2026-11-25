@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0QNpebF7rcL.md) - [plain]
 
 > The best in blues right now\. Cover: Christone "Kingfish" Ingram
 
-[Spotify](https://open.spotify.com/user/spotify) - 161,301 likes - 100 songs - 6 hr 37 min
+[Spotify](https://open.spotify.com/user/spotify) - 161,320 likes - 100 songs - 6 hr 37 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0QNpebF7rcL.md) - [plain]
 | 99 | [Son of a Broken Man](https://open.spotify.com/track/6sTKa8DhJcS7X53hBi3lrN) | [Fantastic Negrito](https://open.spotify.com/artist/5QXLMdpKeByOo5ypH9gT13) | [Son of a Broken Man](https://open.spotify.com/album/5jL3XdYW4DmApDB3EAdm7O) | 4:58 |
 | 100 | [Drunk on Your Love](https://open.spotify.com/track/3bEiLUc6SNYVtJr1FgcN4k) | [Jovin Webb](https://open.spotify.com/artist/7tPs43oKJNTRvGr6IQ8N9k) | [Drifter](https://open.spotify.com/album/3K3Pd91BolfUsaTUhp6jZR) | 3:42 |
 
-Snapshot ID: `AAAAAFIcHHsudRcMegnFcnxweYvAN2AU`
+Snapshot ID: `AAAAAIfe4DB3GF2x2qw824d56uaC/vd3`

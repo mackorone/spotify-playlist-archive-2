@@ -933,6 +933,24 @@
     },
     {
       "album": {
+        "name": "SWALLOW!",
+        "url": "https://open.spotify.com/album/3dQzmmWFcow0z84wGW6RpD"
+      },
+      "artists": [
+        {
+          "name": "Shygirl",
+          "url": "https://open.spotify.com/artist/3M3wTTCDwicRubwMyHyEDy"
+        }
+      ],
+      "date_added": "2026-11-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 216053,
+      "name": "Eternal",
+      "url": "https://open.spotify.com/track/7CyqGGsu0bV0fvwzQA7z9F"
+    },
+    {
+      "album": {
         "name": "Blue Island",
         "url": "https://open.spotify.com/album/7I4OxTeNnQgLalOEJZzBqG"
       },

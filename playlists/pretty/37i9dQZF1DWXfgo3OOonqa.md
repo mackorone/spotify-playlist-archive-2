@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXfgo3OOonqa.md) - [plain]
 
 > håll det 100.
 
-[Spotify](https://open.spotify.com/user/spotify) - 439,176 likes - 100 songs - 4 hr 4 min
+[Spotify](https://open.spotify.com/user/spotify) - 439,137 likes - 100 songs - 4 hr 4 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXfgo3OOonqa.md) - [plain]
 | 99 | [pompeii](https://open.spotify.com/track/5Zoojk4bL1IuEtIXMAPcQz) | [Shiro](https://open.spotify.com/artist/2r9JAY6ISvp0VvZsT6cBJo) | [pompeii](https://open.spotify.com/album/7EA5RpqKTYnM3LL1Hg4Khp) | 2:42 |
 | 100 | [Mademoiselle](https://open.spotify.com/track/0oZSUWZPd5EXeCE0ATO1k0) | [Nineb Youk](https://open.spotify.com/artist/1tR8hI9nP55dVOK0DBvWbU) | [Mademoiselle](https://open.spotify.com/album/0Ewz2TsfYNkbm9XtlaPNDq) | 2:27 |
 
-Snapshot ID: `AAAAAJ3IpTZsVhKqwygXcKoJ9NHdUIYG`
+Snapshot ID: `AAAAAJeDQwHdzAkCfjL4DRokTCkg9tvc`

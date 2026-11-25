@@ -307,6 +307,32 @@
     },
     {
       "album": {
+        "name": "Regalia",
+        "url": "https://open.spotify.com/album/1QHUFwvlQQ1ziAQzGjVN7q"
+      },
+      "artists": [
+        {
+          "name": "Yvng Patra",
+          "url": "https://open.spotify.com/artist/2gkb6UKhXZeuEN5EBQkQv8"
+        },
+        {
+          "name": "D.O",
+          "url": "https://open.spotify.com/artist/0uwSiUPpmfE6SNGryFGZPS"
+        },
+        {
+          "name": "S TILL I DIE",
+          "url": "https://open.spotify.com/artist/1ICd95tL6iZcEKFEQpuWaW"
+        }
+      ],
+      "date_added": "2026-11-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 274751,
+      "name": "9 tips (feat. D.O & S till I die)",
+      "url": "https://open.spotify.com/track/267FqlZJnMt1MnkmlGfvun"
+    },
+    {
+      "album": {
         "name": "9's SOUL",
         "url": "https://open.spotify.com/album/1ZIlT9iY0JoCIm02obryyh"
       },
@@ -1070,6 +1096,28 @@
       "duration_ms": 180970,
       "name": "BOUNCE",
       "url": "https://open.spotify.com/track/4sgg00CyZovLy3X4ihe80x"
+    },
+    {
+      "album": {
+        "name": "brand new shit",
+        "url": "https://open.spotify.com/album/794HJpMGGe4a9KVFMiYttR"
+      },
+      "artists": [
+        {
+          "name": "keg\u00f8n",
+          "url": "https://open.spotify.com/artist/1K65FMS221HfgzjJoYo1Jb"
+        },
+        {
+          "name": "jellyy",
+          "url": "https://open.spotify.com/artist/5dSu6mjOtLlmE209ifesMt"
+        }
+      ],
+      "date_added": "2026-11-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 160000,
+      "name": "brand new shit",
+      "url": "https://open.spotify.com/track/0eTyApyawIvnnkW2sqXvwR"
     },
     {
       "album": {
@@ -4647,6 +4695,24 @@
     },
     {
       "album": {
+        "name": "Latte",
+        "url": "https://open.spotify.com/album/1Skq93K1jY95LqmjuBperM"
+      },
+      "artists": [
+        {
+          "name": "AI jacky",
+          "url": "https://open.spotify.com/artist/6cOuEef5ejInNSGz7d2OLU"
+        }
+      ],
+      "date_added": "2026-11-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 195715,
+      "name": "Latte",
+      "url": "https://open.spotify.com/track/581Bum735PVrRUavqiKkVS"
+    },
+    {
+      "album": {
         "name": "LEAD",
         "url": "https://open.spotify.com/album/4pmDFVR4ofQ5jOXfjVlHM9"
       },
@@ -5678,6 +5744,28 @@
       "duration_ms": 162107,
       "name": "NERI CHAGI",
       "url": "https://open.spotify.com/track/7MEtFiQy6Y4uwSLRDlgbHz"
+    },
+    {
+      "album": {
+        "name": "NEXT UP",
+        "url": "https://open.spotify.com/album/4loHmnheKNd0w4UTRofJJy"
+      },
+      "artists": [
+        {
+          "name": "SSP",
+          "url": "https://open.spotify.com/artist/3jeRJZ4t8Fb3taqWbMttQ6"
+        },
+        {
+          "name": "SAFUJI",
+          "url": "https://open.spotify.com/artist/58vNN6IQ13NzNenmjn6jGm"
+        }
+      ],
+      "date_added": "2026-11-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 141227,
+      "name": "NEXT UP",
+      "url": "https://open.spotify.com/track/55RDdWdnmMFJS6Su4BPaZY"
     },
     {
       "album": {
@@ -6897,6 +6985,28 @@
     },
     {
       "album": {
+        "name": "ROOTS STAGE",
+        "url": "https://open.spotify.com/album/3Qf8e6yzdRFnwPWAB2jAQF"
+      },
+      "artists": [
+        {
+          "name": "TAKEKO420",
+          "url": "https://open.spotify.com/artist/2FtjPnppfeem0hu0wteHr0"
+        },
+        {
+          "name": "VEINTI4",
+          "url": "https://open.spotify.com/artist/4o7vyB4AfcMinZMlhs5zDw"
+        }
+      ],
+      "date_added": "2026-11-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 105986,
+      "name": "ROOTS STAGE",
+      "url": "https://open.spotify.com/track/0o0WVuoyzr260Bt7MQjK2W"
+    },
+    {
+      "album": {
         "name": "Run This Town",
         "url": "https://open.spotify.com/album/0LtPST8JfL2ATb4IsBtRCS"
       },
@@ -7482,7 +7592,7 @@
       ],
       "date_added": "2026-10-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-25",
       "duration_ms": 228387,
       "name": "Stand up",
       "url": "https://open.spotify.com/track/5tWhK020x2Z7vQFxsnZu1x"
@@ -7548,6 +7658,24 @@
       "duration_ms": 164374,
       "name": "Still Blond, Stay Gold",
       "url": "https://open.spotify.com/track/6Et5GQ81uB0HVcoNWQaOGP"
+    },
+    {
+      "album": {
+        "name": "Stop That",
+        "url": "https://open.spotify.com/album/0etXo12zanFSSSuussMYDf"
+      },
+      "artists": [
+        {
+          "name": "Esosa Vee",
+          "url": "https://open.spotify.com/artist/5kPHeikKvfVPeoJ9n1BgfN"
+        }
+      ],
+      "date_added": "2026-11-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 173052,
+      "name": "Stop That",
+      "url": "https://open.spotify.com/track/0HHMRPW8lD1l7UIVaba70w"
     },
     {
       "album": {
@@ -9068,7 +9196,7 @@
       ],
       "date_added": "2026-11-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-25",
       "duration_ms": 187432,
       "name": "\u30b5\u30e2\u30c8\u30e9\u30b1\u306e\u30cb\u30b1 (feat. Jairo nark)",
       "url": "https://open.spotify.com/track/4ta2XrA6eAvC5iTiZGHi5U"
@@ -9494,6 +9622,24 @@
       "duration_ms": 136000,
       "name": "\u4e00\u756a",
       "url": "https://open.spotify.com/track/7wavtAX6hJO1FF0dWjceGS"
+    },
+    {
+      "album": {
+        "name": "\u4ffa\u306f\u30c0\u30a4\u30d1\u4e16\u4ee3",
+        "url": "https://open.spotify.com/album/5ygrVrYAPCCAZgPIIJv5ua"
+      },
+      "artists": [
+        {
+          "name": "TellU(TellHer)TellU-5/\u30c6\u30eb\u30c6\u30e9\u30c6\u30eb\u30b3",
+          "url": "https://open.spotify.com/artist/4SWvVcRpTAmXyuTF3qiVVs"
+        }
+      ],
+      "date_added": "2026-11-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 106370,
+      "name": "\u4ffa\u306f\u30c0\u30a4\u30d1\u4e16\u4ee3",
+      "url": "https://open.spotify.com/track/37C5iybu2GWpUpjE0WkbyV"
     },
     {
       "album": {

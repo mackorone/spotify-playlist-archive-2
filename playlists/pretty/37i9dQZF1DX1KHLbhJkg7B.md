@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1KHLbhJkg7B.md) - [plain]
 
 > Unique covers by your favorite country artists\. Cover: Morgan Evans
 
-[Spotify](https://open.spotify.com/user/spotify) - 137,046 likes - 100 songs - 6 hr 16 min
+[Spotify](https://open.spotify.com/user/spotify) - 137,050 likes - 100 songs - 6 hr 18 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -49,9 +49,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1KHLbhJkg7B.md) - [plain]
 | 39 | [The Chair](https://open.spotify.com/track/5i74TSFhkAla3RRMiE7vuQ) | [Braxton Keith](https://open.spotify.com/artist/5JHw4x1RYIlwNfCq6FNXxf) | [The Chair](https://open.spotify.com/album/6r8XKL8A1fARjiXxcSifNm) | 2:50 |
 | 40 | [Complicated](https://open.spotify.com/track/6XtCRiSN5qHIa32aundC6Y) | [Gareth](https://open.spotify.com/artist/0r0HGFrFjLgQZch834rCSq) | [Complicated](https://open.spotify.com/album/0xbmMCxRyQtswaJnCcLLbL) | 3:24 |
 | 41 | [Here For The Party \(feat\. Ella Langley\)](https://open.spotify.com/track/3BSnorURw8w3Or1mUk6uQY) | [Gretchen Wilson](https://open.spotify.com/artist/0IdYRFTswLdsGwSnzOaGNF), [Ella Langley](https://open.spotify.com/artist/6BRxQ8cD3eqnrVj6WKDok8) | [Here For The Party \(feat\. Ella Langley\)](https://open.spotify.com/album/6hvlH4suNoYwtph63T1CjY) | 3:30 |
-| 42 | [Nothing Breaks Like a Heart \- Spotify Singles](https://open.spotify.com/track/5szvpZOIMuzCrwNrRwnB9B) | [Damiano David](https://open.spotify.com/artist/7AaGbSgUxJFuZ49VvclNH6) | [Nothing Breaks Like a Heart \- Spotify Singles](https://open.spotify.com/album/4dbDPnJUvamYRBEJ6nA2n2) | 3:38 |
+| 42 | [Lover, Lover](https://open.spotify.com/track/5UzU0qw21okODBNUnxptVo) | [Jerrod Niemann](https://open.spotify.com/artist/0RKP52f5PNDCRZ9Luq2Sr7) | [Judge Jerrod & The Hung Jury](https://open.spotify.com/album/3VzLXlCQo9voFegEhlJPd9) | 3:13 |
 | 43 | [As It Was](https://open.spotify.com/track/1HGJ4GFxZ23X6o2aAivZsz) | [Zach John King](https://open.spotify.com/artist/7d00Y5kG1ZIPvWNl8LgHqB) | [As It Was](https://open.spotify.com/album/75JYBozBzFe38f8w5wB1Vy) | 2:40 |
-| 44 | [Lover, Lover](https://open.spotify.com/track/5UzU0qw21okODBNUnxptVo) | [Jerrod Niemann](https://open.spotify.com/artist/0RKP52f5PNDCRZ9Luq2Sr7) | [Judge Jerrod & The Hung Jury](https://open.spotify.com/album/3VzLXlCQo9voFegEhlJPd9) | 3:13 |
+| 44 | [Nothing Breaks Like a Heart \- Spotify Singles](https://open.spotify.com/track/5szvpZOIMuzCrwNrRwnB9B) | [Damiano David](https://open.spotify.com/artist/7AaGbSgUxJFuZ49VvclNH6) | [Nothing Breaks Like a Heart \- Spotify Singles](https://open.spotify.com/album/4dbDPnJUvamYRBEJ6nA2n2) | 3:38 |
 | 45 | [Neon Moon \- with Kacey Musgraves](https://open.spotify.com/track/3lVPtkNFoIyPPGVdNri4VH) | [Brooks & Dunn](https://open.spotify.com/artist/0XKOBt59crntr7HQXXO8Yz), [Kacey Musgraves](https://open.spotify.com/artist/70kkdajctXSbqSMJbQO424) | [Reboot](https://open.spotify.com/album/0U3nI78LUpAwprraUf7vAS) | 4:38 |
 | 46 | [Iris](https://open.spotify.com/track/77bmyAECj4pwi6uhIjoVo1) | [Gareth](https://open.spotify.com/artist/0r0HGFrFjLgQZch834rCSq) | [Iris](https://open.spotify.com/album/0Cy6TGrIY2E13BwGHJl6kI) | 2:56 |
 | 47 | [Please Please Please](https://open.spotify.com/track/0o6gdGNGOuqxLSCE4txlXe) | [Ashley Anne](https://open.spotify.com/artist/4oAZAzn6NKRzLM8LTtrVsw), [Grace Tyler](https://open.spotify.com/artist/7rJg0c4D0Xu1TtLmkaEMDH) | [Please Please Please](https://open.spotify.com/album/2isabKKBBT7OLiyP6i2kfj) | 3:10 |
@@ -74,8 +74,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1KHLbhJkg7B.md) - [plain]
 | 64 | [You Are My Sunshine](https://open.spotify.com/track/7Cz3jTJOZkwU0WCKBTDWLP) | [Zach Bryan](https://open.spotify.com/artist/40ZNYROS4zLfyyBSs2PGe2) | [American Heartbreak](https://open.spotify.com/album/7IouDrXPdAZwT1NzVV3vef) | 2:57 |
 | 65 | [Blinding Lights \- Country Version](https://open.spotify.com/track/6cRJTmba0JHDquftAkxUgG) | [Tebey](https://open.spotify.com/artist/2S0WpGRnEPyS5OuMp3KOEo) | [Blinding Lights \(Country Version\)](https://open.spotify.com/album/2xdFoFzJDYziRnia2PBEgt) | 3:06 |
 | 66 | [Outskirts of Heaven \(feat\. Craig Campbell\)](https://open.spotify.com/track/2BzVAwyvy5yHbPkMUGhRRH) | [Warren Zeiders](https://open.spotify.com/artist/7kplJl06UmldxLKseURAYi), [Craig Campbell](https://open.spotify.com/artist/7tkwiWhGKSuQV8LwPWceWN) | [Acoustic Covers \(Deluxe\)](https://open.spotify.com/album/2tSbrXGTWwgkNnXD6LCABm) | 3:52 |
-| 67 | [Here Without You](https://open.spotify.com/track/08QNaOyfKSEVTwU4DYiDwo) | [Dylan Wolfe](https://open.spotify.com/artist/6NM2BhEMkVbLgCB6RlM6SX) | [Here Without You](https://open.spotify.com/album/5SapcMVBJM7ojBtGZPV2La) | 3:51 |
-| 68 | [Home](https://open.spotify.com/track/78NDstvbMtbdiPsYmGrHid) | [Blake Shelton](https://open.spotify.com/artist/1UTPBmNbXNTittyMJrNkvw) | [Pure BS \(Deluxe Edition\)](https://open.spotify.com/album/1Y2uUDf2eqGm2KxvlvaJbe) | 3:50 |
+| 67 | [Home](https://open.spotify.com/track/78NDstvbMtbdiPsYmGrHid) | [Blake Shelton](https://open.spotify.com/artist/1UTPBmNbXNTittyMJrNkvw) | [Pure BS \(Deluxe Edition\)](https://open.spotify.com/album/1Y2uUDf2eqGm2KxvlvaJbe) | 3:50 |
+| 68 | [Here Without You](https://open.spotify.com/track/08QNaOyfKSEVTwU4DYiDwo) | [Dylan Wolfe](https://open.spotify.com/artist/6NM2BhEMkVbLgCB6RlM6SX) | [Here Without You](https://open.spotify.com/album/5SapcMVBJM7ojBtGZPV2La) | 3:51 |
 | 69 | [Clay Pigeons](https://open.spotify.com/track/4wRaxwESUculLyFFXJIGNg) | [Luke Grimes](https://open.spotify.com/artist/7Cezk2wEDBPfYCwEuKum1Y) | [Clay Pigeons](https://open.spotify.com/album/0mfCJkowstwfyLwXA3r7Gz) | 3:50 |
 | 70 | [Someone Like You](https://open.spotify.com/track/1DjDt7ngqk7r1vpcV7d9sx) | [Dillon Carmichael](https://open.spotify.com/artist/3lvYE3o75PNjyvcKuBPXo6) | [Someone Like You/Run](https://open.spotify.com/album/6xkhaMcs6Esu7gfHW1TGK5) | 4:15 |
 | 71 | [Can't Help Falling in Love](https://open.spotify.com/track/4FCNizKAqQ0JDx9ZWDEt1Z) | [Kacey Musgraves](https://open.spotify.com/artist/70kkdajctXSbqSMJbQO424) | [Can't Help Falling in Love \(From The Original Motion Picture Soundtrack ELVIS\)](https://open.spotify.com/album/4wxj79WgqJdspoHES5dvcY) | 2:48 |
@@ -107,6 +107,6 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1KHLbhJkg7B.md) - [plain]
 | 97 | [I Swear](https://open.spotify.com/track/0XrZybkQwtDUvLNehXqyVR) | [John Michael Montgomery](https://open.spotify.com/artist/7mPcfx7PhnBh6n4HMCd61A) | [Love Songs](https://open.spotify.com/album/5AYFktXxjedXNj49mUUv5i) | 4:22 |
 | 98 | [Dammit](https://open.spotify.com/track/0fQIh3kxy3MeDDuHuJMEXN) | [Alexandra Kay](https://open.spotify.com/artist/67ZcPnEGiAlCx2O3sQarWV) | [Dammit](https://open.spotify.com/album/0dWV3dZmZvr2ku5ho29GeU) | 3:19 |
 | 99 | [For What It's Worth](https://open.spotify.com/track/7wvx4oBOAvMhWVITi9lY46) | [Hootie & The Blowfish](https://open.spotify.com/artist/08ct2eZF5lUPdJpHwNKWof) | [For What It's Worth](https://open.spotify.com/album/6eaCoCGomz1EEEtiIRgywz) | 2:42 |
-| 100 | [Eastside](https://open.spotify.com/track/3sfJXqWV7sr2aQiSaahbZc) | [Dylan Scott](https://open.spotify.com/artist/78YqeIji3mgAS2K1Maca6x) | [Eastside](https://open.spotify.com/album/4xM6xa81ZVLpjjaFbFqx8k) | 2:47 |
+| 100 | [Fooled Around and Fell in Love \(feat\. Maren Morris, Elle King, Ashley McBryde, Tenille Townes & Caylee Hammack\)](https://open.spotify.com/track/3P9mtsqs0J79yGVmVuAs4B) | [Miranda Lambert](https://open.spotify.com/artist/66lH4jAE7pqPlOlzUKbwA0), [Maren Morris](https://open.spotify.com/artist/6WY7D3jk8zTrHtmkqqo5GI), [Elle King](https://open.spotify.com/artist/3bhu7P5PfngueRHiB9hjcx), [Ashley McBryde](https://open.spotify.com/artist/371jpyGdoChzUASOIG2ECV), [Tenille Townes](https://open.spotify.com/artist/3TyeX0lk4B7k56ukfzEE0z), [Caylee Hammack](https://open.spotify.com/artist/1ok6sI97SuTRNc7Hjj7Uj9) | [Fooled Around and Fell in Love \(feat\. Maren Morris, Elle King, Ashley McBryde, Tenille Townes & Caylee Hammack\)](https://open.spotify.com/album/6l4667PMmvxv6kEZT1SoPH) | 4:09 |
 
-Snapshot ID: `AAAAAIJwH5KJeUNolZR+UZRRs8Fyptk/`
+Snapshot ID: `AAAAAMdGw9qLy7hWts8R5LBzcdgjtJyy`

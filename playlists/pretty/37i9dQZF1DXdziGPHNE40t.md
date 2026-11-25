@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdziGPHNE40t.md) - [plain]
 | 74 | [Mirabelle](https://open.spotify.com/track/5ZZUajubKFkpNW9eI8pedD) | [Isac Solo Trio](https://open.spotify.com/artist/0PQJ8CW64ZpCQTXIWvpkUN) | [Mirabelle](https://open.spotify.com/album/6svrhdbZqSWr6lUuoF16nV) | 3:42 |
 | 75 | [The Cage](https://open.spotify.com/track/0nshd6vK1OcwIeUFyniwes) | [Arta Porting](https://open.spotify.com/artist/6e2ZpZDumV9AabK9rxpIUg) | [The Cage](https://open.spotify.com/album/2N5dwzmK0uyhR9gTAFIZJk) | 4:59 |
 
-Snapshot ID: `AAAAAGYGEyL+l8FYlPkmHcEjpq9N542s`
+Snapshot ID: `AAAAAJPl2ffQgktQQkEK3eZ+r1pgfnhc`

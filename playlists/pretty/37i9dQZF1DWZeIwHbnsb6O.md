@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZeIwHbnsb6O.md) - [plain]
 
 > Recuerda la década de los acampanados, patillas y cuellos picudos\. Juan Gabriel en portada.
 
-[Spotify](https://open.spotify.com/user/spotify) - 362,088 likes - 62 songs - 3 hr 27 min
+[Spotify](https://open.spotify.com/user/spotify) - 362,108 likes - 62 songs - 3 hr 27 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -15,8 +15,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZeIwHbnsb6O.md) - [plain]
 | 5 | [Wendolyne](https://open.spotify.com/track/5UzphHLxBUS69n6J30BZea) | [La Rondalla De Saltillo](https://open.spotify.com/artist/65wmIidwFZCCoT1BUewp5P) | [La Rondalla Etc.](https://open.spotify.com/album/21iFLZ2JMHMhPU2zKkzFAp) | 2:26 |
 | 6 | [Espejismo](https://open.spotify.com/track/0VmvHXrh43fkRYszGYYRck) | [Juanello](https://open.spotify.com/artist/5cNtT3ILdrynZyfVPk4XX6) | [Juanello](https://open.spotify.com/album/5we1e4gjzNfjhEI6eRZknj) | 3:06 |
 | 7 | [Nada de tu amor](https://open.spotify.com/track/3N7oZZG0sPkdBITPI7LwYf) | [Los Solitarios](https://open.spotify.com/artist/5oXtNxxScsHb1cRjqqfcMj) | [Antología\. \. \. Los Solitarios](https://open.spotify.com/album/0yui0kzwnX3DgfpKKYIlrg) | 2:53 |
-| 8 | [No Se Ha Dado Cuenta](https://open.spotify.com/track/3lzkOHkG5yH3xj40sY4nVI) | [Roberto Jordan](https://open.spotify.com/artist/5SyvBTttsNPEcFjtceTBmx) | [RCA 100 Años De Musica](https://open.spotify.com/album/7vMnaKzlmBN2GRVYCMOMqc) | 2:38 |
-| 9 | [Un Sueño](https://open.spotify.com/track/713S1nCNk4yzpR8WbJcQF1) | [La Tropa Loca](https://open.spotify.com/artist/3yRt7RrCEFnIIEgenUFElv) | [El Disco de Oro de la Tropa Loca](https://open.spotify.com/album/4DfcRh0MYcnlcZOUMLGyX3) | 3:25 |
+| 8 | [Un Sueño](https://open.spotify.com/track/713S1nCNk4yzpR8WbJcQF1) | [La Tropa Loca](https://open.spotify.com/artist/3yRt7RrCEFnIIEgenUFElv) | [El Disco de Oro de la Tropa Loca](https://open.spotify.com/album/4DfcRh0MYcnlcZOUMLGyX3) | 3:25 |
+| 9 | [No Se Ha Dado Cuenta](https://open.spotify.com/track/3lzkOHkG5yH3xj40sY4nVI) | [Roberto Jordan](https://open.spotify.com/artist/5SyvBTttsNPEcFjtceTBmx) | [RCA 100 Años De Musica](https://open.spotify.com/album/7vMnaKzlmBN2GRVYCMOMqc) | 2:38 |
 | 10 | [Mi Matamoros Querido](https://open.spotify.com/track/1PMHd6rJgiSIcJnKaGTvIi) | [Rigo Tovar](https://open.spotify.com/artist/5fKc00Wh60ggl0QptZ2aBx) | [Íconos 25 Éxitos](https://open.spotify.com/album/0rUQEWfnveBDeFFiseFOsJ) | 3:06 |
 | 11 | [Te He Prometido](https://open.spotify.com/track/15vvGrycJyA5tMb6PXdQYO) | [Leo Dan](https://open.spotify.com/artist/6qhOH2mrlqUDod9sWA5kR2) | [Roma \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/3fbJSth7xYdLAphGOSqJl5) | 3:07 |
 | 12 | [Vive](https://open.spotify.com/track/0pJdq9MuSNqcGzFaZBDDMr) | [José Maria Napoleón](https://open.spotify.com/artist/72v53CufRiSyqcQ78KUQ5p) | [Imprescindibles](https://open.spotify.com/album/34FPXkANKuTO0ZixD9fqrm) | 3:06 |
@@ -71,4 +71,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZeIwHbnsb6O.md) - [plain]
 | 61 | [Quedate](https://open.spotify.com/track/6eyWgog31WtU2IG1irXU9l) | [Los João](https://open.spotify.com/artist/7u23Qh2OuzqBbQEuzHh7X9) | [Los Joao \- Quedate](https://open.spotify.com/album/2ZcSYMy0gzMQjSnT3PVNJL) | 3:34 |
 | 62 | [La Felicidad](https://open.spotify.com/track/4HfazXWeoXF1Tg4IRQUz7U) | [Gualberto Castro](https://open.spotify.com/artist/31YYMJNqlsj6dAlZLjShbC) | [Tesoros De Coleccion \- Gualberto Castro](https://open.spotify.com/album/1larO2IxJUB00ju9MTGTfv) | 3:32 |
 
-Snapshot ID: `AAAAAFfFOal59MV+Plyke33PrlXH9LmV`
+Snapshot ID: `AAAAAHxKOXoLOnQCleevRsk9OWXCmF6n`

@@ -6301,6 +6301,28 @@
     },
     {
       "album": {
+        "name": "Blood In Your Eyes (from GTAVI: The Album)",
+        "url": "https://open.spotify.com/album/2J5ttiLhgBPxcLyHlhQVKO"
+      },
+      "artists": [
+        {
+          "name": "Tove Lo",
+          "url": "https://open.spotify.com/artist/4NHQUGzhtTLFvgF5SZesLK"
+        },
+        {
+          "name": "Grand Theft Auto VI",
+          "url": "https://open.spotify.com/artist/15o7qdDTBzs6xWRUYUtZc1"
+        }
+      ],
+      "date_added": "2026-11-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 161219,
+      "name": "Blood In Your Eyes (from GTAVI: The Album)",
+      "url": "https://open.spotify.com/track/4h3tY2zV4easaHEAbHVmgj"
+    },
+    {
+      "album": {
         "name": "The Time Traveler",
         "url": "https://open.spotify.com/album/5b3IgxlpLn4OB2zbwentEv"
       },
@@ -6596,7 +6618,7 @@
       ],
       "date_added": "2025-03-31",
       "date_added_asterisk": false,
-      "date_removed": "2026-11-23",
+      "date_removed": null,
       "duration_ms": 192533,
       "name": "Body to body",
       "url": "https://open.spotify.com/track/58Kx48jdexHfT7reFY1TVE"
@@ -10698,7 +10720,7 @@
       ],
       "date_added": "2026-06-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-25",
       "duration_ms": 223448,
       "name": "Dai Dai",
       "url": "https://open.spotify.com/track/0kosUz0jePvjiz4ctmR6wL"
@@ -19894,7 +19916,7 @@
       ],
       "date_added": "2026-02-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-25",
       "duration_ms": 100377,
       "name": "HIP THRUST",
       "url": "https://open.spotify.com/track/3kjReKinqmvImzc9CAXDGk"
@@ -20828,7 +20850,7 @@
       ],
       "date_added": "2026-07-03",
       "date_added_asterisk": false,
-      "date_removed": "2026-11-20",
+      "date_removed": null,
       "duration_ms": 162805,
       "name": "Hovorili mi \u017ee",
       "url": "https://open.spotify.com/track/0lZV2GBqqCK5LcL8JS2slW"
@@ -24116,7 +24138,7 @@
       ],
       "date_added": "2026-10-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-25",
       "duration_ms": 242721,
       "name": "Just Give Me a Reason (feat. Nate Ruess)",
       "url": "https://open.spotify.com/track/1mKXFLRA179hdOWQBwUk9e"
@@ -40426,7 +40448,7 @@
       ],
       "date_added": "2025-01-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-25",
       "duration_ms": 215988,
       "name": "Pre Dni",
       "url": "https://open.spotify.com/track/4vUqYLKsvAxlrvd9TEmtbw"
@@ -45454,7 +45476,7 @@
       ],
       "date_added": "2026-11-15",
       "date_added_asterisk": false,
-      "date_removed": "2026-11-24",
+      "date_removed": null,
       "duration_ms": 160000,
       "name": "SHOW MUST GO ON",
       "url": "https://open.spotify.com/track/73MIMW1HVwlMrHUPKv9viX"

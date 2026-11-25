@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX10zKzsJ2jva.md) - [plain]
 
 > Today's top Latin hits, elevando nuestra música\. Cover: Fuerza Regida
 
-[Spotify](https://open.spotify.com/user/spotify) - 15,045,968 likes - 50 songs - 2 hr 51 min
+[Spotify](https://open.spotify.com/user/spotify) - 15,043,950 likes - 50 songs - 2 hr 51 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX10zKzsJ2jva.md) - [plain]
 | 49 | [King of Watches](https://open.spotify.com/track/47ovAtI7DPTKTPbyRsqHmc) | [Omar Camacho](https://open.spotify.com/artist/0rUu2qzqezBrCddX1RuUyJ) | [Nunca Voy a Morir](https://open.spotify.com/album/4MsP9iWrITXsRXgW1ebsyy) | 2:27 |
 | 50 | [Milko Freestyle](https://open.spotify.com/track/6qP0OSXyS6vMS7Ib4waLHt) | [C\. Tangana](https://open.spotify.com/artist/5TYxZTjIPqKM8K8NuP9woO), [Agorazein](https://open.spotify.com/artist/7s6ca8qq2BOyKb5FRkKupP) | [Milko Freestyle](https://open.spotify.com/album/07EUOM05hnrPJhP2WtNNv6) | 2:07 |
 
-Snapshot ID: `AAAAAKsfPivQ5sm59iaSSFtVOIkFNJa0`
+Snapshot ID: `AAAAAAwoNFX7/2HYUxby0XAHBvKVZmqs`

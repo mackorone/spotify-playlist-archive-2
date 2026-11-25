@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaPCIWxzZwR1.md) - [plain]
 
 > next gen pop<br/>Cover: Haute & Freddy
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,252,091 likes - 100 songs - 5 hr 20 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,252,200 likes - 100 songs - 5 hr 20 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaPCIWxzZwR1.md) - [plain]
 | 99 | [Little Blue House](https://open.spotify.com/track/0KUcvWJzx9McoYo31gAqDy) | [Moody Joody](https://open.spotify.com/artist/0ndpuECxVStTsHhzq4Euxz) | [Little Blue House](https://open.spotify.com/album/07nAbhyj2hNr2HYpt9uB8Y) | 2:59 |
 | 100 | [Gracie](https://open.spotify.com/track/5XpfG1xcdznjc3BPdotlXK) | [Naomi Scott](https://open.spotify.com/artist/2Zi3RrdQqk63Xj0914STkS) | [F.I.G](https://open.spotify.com/album/1zz0xielltztZ2Uvh7xzdX) | 2:54 |
 
-Snapshot ID: `AAAAACeJ0P9r8xpbGYKH0AulT9ADboHv`
+Snapshot ID: `AAAAABn9ql3kzx7hH5B1DoN2Ygwj5jmi`

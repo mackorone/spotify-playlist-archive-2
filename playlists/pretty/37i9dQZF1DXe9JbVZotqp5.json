@@ -1,12 +1,12 @@
 {
   "description": "Easy rock for that peaceful, easy feeling. Cover: U2",
-  "num_followers": 694880,
+  "num_followers": 694893,
   "original_name": "Easy Rock",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAB+OI4D34nDi62m8R8GTO/dnKZJ4",
+  "snapshot_id": "AAAAAIUHuxcQxVRS+Ft5Z3mAkq5XUneb",
   "tracks": [
     {
       "added_at": "2023-04-11 13:31:58",
@@ -303,22 +303,6 @@
     {
       "added_at": "2023-04-11 13:31:58",
       "album": {
-        "name": "Nimrod",
-        "url": "https://open.spotify.com/album/3x2uer6Xh0d5rF8toWpRDA"
-      },
-      "artists": [
-        {
-          "name": "Green Day",
-          "url": "https://open.spotify.com/artist/7oPftvlwr6VrsViSDV7fJY"
-        }
-      ],
-      "duration_ms": 153466,
-      "name": "Good Riddance (Time of Your Life)",
-      "url": "https://open.spotify.com/track/6ORqU0bHbVCRjXm9AjyHyZ"
-    },
-    {
-      "added_at": "2023-04-11 13:31:58",
-      "album": {
         "name": "Waking Up The Neighbours",
         "url": "https://open.spotify.com/album/6Rk2VghhfqeYrgKxS21eBh"
       },
@@ -331,6 +315,22 @@
       "duration_ms": 393640,
       "name": "(Everything I Do) I Do It For You",
       "url": "https://open.spotify.com/track/1Eb90nmqTrxylKFhcUzW8P"
+    },
+    {
+      "added_at": "2023-04-11 13:31:58",
+      "album": {
+        "name": "Nimrod",
+        "url": "https://open.spotify.com/album/3x2uer6Xh0d5rF8toWpRDA"
+      },
+      "artists": [
+        {
+          "name": "Green Day",
+          "url": "https://open.spotify.com/artist/7oPftvlwr6VrsViSDV7fJY"
+        }
+      ],
+      "duration_ms": 153466,
+      "name": "Good Riddance (Time of Your Life)",
+      "url": "https://open.spotify.com/track/6ORqU0bHbVCRjXm9AjyHyZ"
     },
     {
       "added_at": "2023-04-11 13:31:58",
@@ -607,22 +607,6 @@
     {
       "added_at": "2023-04-11 13:31:58",
       "album": {
-        "name": "Cracked Rear View",
-        "url": "https://open.spotify.com/album/5AYmpTfdv1OoASUJ5rZB7K"
-      },
-      "artists": [
-        {
-          "name": "Hootie & The Blowfish",
-          "url": "https://open.spotify.com/artist/08ct2eZF5lUPdJpHwNKWof"
-        }
-      ],
-      "duration_ms": 318533,
-      "name": "Let Her Cry",
-      "url": "https://open.spotify.com/track/6NGi23FFKq9tH5NR1NcTw2"
-    },
-    {
-      "added_at": "2023-04-11 13:31:58",
-      "album": {
         "name": "Bellamy Brothers",
         "url": "https://open.spotify.com/album/77EM0wkGevYQcBo1AJt7B0"
       },
@@ -635,6 +619,22 @@
       "duration_ms": 196826,
       "name": "Let Your Love Flow",
       "url": "https://open.spotify.com/track/064SVQsmWl5EF0zahmzkQk"
+    },
+    {
+      "added_at": "2023-04-11 13:31:58",
+      "album": {
+        "name": "Cracked Rear View",
+        "url": "https://open.spotify.com/album/5AYmpTfdv1OoASUJ5rZB7K"
+      },
+      "artists": [
+        {
+          "name": "Hootie & The Blowfish",
+          "url": "https://open.spotify.com/artist/08ct2eZF5lUPdJpHwNKWof"
+        }
+      ],
+      "duration_ms": 318533,
+      "name": "Let Her Cry",
+      "url": "https://open.spotify.com/track/6NGi23FFKq9tH5NR1NcTw2"
     },
     {
       "added_at": "2023-04-11 13:31:58",
@@ -799,6 +799,22 @@
     {
       "added_at": "2023-04-11 13:31:58",
       "album": {
+        "name": "Heartbeat City",
+        "url": "https://open.spotify.com/album/5ycnwHGkzOlTuMOI3Zh4iO"
+      },
+      "artists": [
+        {
+          "name": "The Cars",
+          "url": "https://open.spotify.com/artist/6DCIj8jNaNpBz8e5oKFPtp"
+        }
+      ],
+      "duration_ms": 234493,
+      "name": "Drive",
+      "url": "https://open.spotify.com/track/3wfujdbamR3Z46F4xav7LM"
+    },
+    {
+      "added_at": "2023-04-11 13:31:58",
+      "album": {
         "name": "Grace",
         "url": "https://open.spotify.com/album/7yQtjAjhtNi76KRu05XWFS"
       },
@@ -827,22 +843,6 @@
       "duration_ms": 238173,
       "name": "Far Away",
       "url": "https://open.spotify.com/track/0ADZ5dmXhlfzjMw6lefoPl"
-    },
-    {
-      "added_at": "2023-04-11 13:31:58",
-      "album": {
-        "name": "Heartbeat City",
-        "url": "https://open.spotify.com/album/5ycnwHGkzOlTuMOI3Zh4iO"
-      },
-      "artists": [
-        {
-          "name": "The Cars",
-          "url": "https://open.spotify.com/artist/6DCIj8jNaNpBz8e5oKFPtp"
-        }
-      ],
-      "duration_ms": 234493,
-      "name": "Drive",
-      "url": "https://open.spotify.com/track/3wfujdbamR3Z46F4xav7LM"
     },
     {
       "added_at": "2023-04-11 13:31:58",
@@ -1279,22 +1279,6 @@
     {
       "added_at": "2023-04-11 13:31:58",
       "album": {
-        "name": "Greatest Hits",
-        "url": "https://open.spotify.com/album/211iJYKUbpqrykRsPG27CG"
-      },
-      "artists": [
-        {
-          "name": "Bruce Springsteen",
-          "url": "https://open.spotify.com/artist/3eqjTLE0HfPfh78zjh6TqT"
-        }
-      ],
-      "duration_ms": 267853,
-      "name": "Secret Garden",
-      "url": "https://open.spotify.com/track/68uuz61IqrSJjO6ffO3yHc"
-    },
-    {
-      "added_at": "2023-04-11 13:31:58",
-      "album": {
         "name": "Bump Ahead [Expanded]",
         "url": "https://open.spotify.com/album/4CgsfLFMXaJVXz0k2mHkVA"
       },
@@ -1307,6 +1291,22 @@
       "duration_ms": 208560,
       "name": "Wild World",
       "url": "https://open.spotify.com/track/2kj5f1eRhUFhW6K0qUwoD8"
+    },
+    {
+      "added_at": "2023-04-11 13:31:58",
+      "album": {
+        "name": "Greatest Hits",
+        "url": "https://open.spotify.com/album/211iJYKUbpqrykRsPG27CG"
+      },
+      "artists": [
+        {
+          "name": "Bruce Springsteen",
+          "url": "https://open.spotify.com/artist/3eqjTLE0HfPfh78zjh6TqT"
+        }
+      ],
+      "duration_ms": 267853,
+      "name": "Secret Garden",
+      "url": "https://open.spotify.com/track/68uuz61IqrSJjO6ffO3yHc"
     },
     {
       "added_at": "2023-04-11 13:31:58",
@@ -1359,6 +1359,22 @@
     {
       "added_at": "2023-04-11 13:31:58",
       "album": {
+        "name": "Greatest Hits (2024 Remaster)",
+        "url": "https://open.spotify.com/album/1Gtf2hZQlOGVER16uemmzR"
+      },
+      "artists": [
+        {
+          "name": "Journey",
+          "url": "https://open.spotify.com/artist/0rvjqX7ttXeg3mTy8Xscbt"
+        }
+      ],
+      "duration_ms": 250835,
+      "name": "Don't Stop Believin' (2024 Remaster)",
+      "url": "https://open.spotify.com/track/5ehcf6UL1TkwozB386cRAp"
+    },
+    {
+      "added_at": "2023-04-11 13:31:58",
+      "album": {
         "name": "Born In The U.S.A.",
         "url": "https://open.spotify.com/album/0PMasrHdpaoIRuHuhHp72O"
       },
@@ -1387,22 +1403,6 @@
       "duration_ms": 337400,
       "name": "6th Avenue Heartache",
       "url": "https://open.spotify.com/track/1qEyqHR1xsj2MC4Qy0dsaI"
-    },
-    {
-      "added_at": "2023-04-11 13:31:58",
-      "album": {
-        "name": "Greatest Hits (2024 Remaster)",
-        "url": "https://open.spotify.com/album/1Gtf2hZQlOGVER16uemmzR"
-      },
-      "artists": [
-        {
-          "name": "Journey",
-          "url": "https://open.spotify.com/artist/0rvjqX7ttXeg3mTy8Xscbt"
-        }
-      ],
-      "duration_ms": 250835,
-      "name": "Don't Stop Believin' (2024 Remaster)",
-      "url": "https://open.spotify.com/track/5ehcf6UL1TkwozB386cRAp"
     },
     {
       "added_at": "2023-04-11 13:31:58",
@@ -1455,22 +1455,6 @@
     {
       "added_at": "2023-04-11 13:31:58",
       "album": {
-        "name": "Greatest Hits",
-        "url": "https://open.spotify.com/album/0LfM3PGkXE6KvJEE1HkOnz"
-      },
-      "artists": [
-        {
-          "name": "Fleetwood Mac",
-          "url": "https://open.spotify.com/artist/08GQAI4eElDnROBrJRGE0X"
-        }
-      ],
-      "duration_ms": 382373,
-      "name": "Sara",
-      "url": "https://open.spotify.com/track/0q1exbzIDRxqJ6VUKH3seg"
-    },
-    {
-      "added_at": "2023-04-11 13:31:58",
-      "album": {
         "name": "Plans",
         "url": "https://open.spotify.com/album/4guW5WPxFzHrXg04FPC9v9"
       },
@@ -1483,6 +1467,22 @@
       "duration_ms": 189400,
       "name": "I Will Follow You into the Dark",
       "url": "https://open.spotify.com/track/2ndWbjiiNBEOrlfToKlABE"
+    },
+    {
+      "added_at": "2023-04-11 13:31:58",
+      "album": {
+        "name": "Greatest Hits",
+        "url": "https://open.spotify.com/album/0LfM3PGkXE6KvJEE1HkOnz"
+      },
+      "artists": [
+        {
+          "name": "Fleetwood Mac",
+          "url": "https://open.spotify.com/artist/08GQAI4eElDnROBrJRGE0X"
+        }
+      ],
+      "duration_ms": 382373,
+      "name": "Sara",
+      "url": "https://open.spotify.com/track/0q1exbzIDRxqJ6VUKH3seg"
     },
     {
       "added_at": "2023-04-11 13:31:58",

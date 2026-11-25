@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0mdCc3.md) - [plain]
 
 > This is Kittie\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 16,875 likes - 43 songs - 2 hr 33 min
+[Spotify](https://open.spotify.com/user/spotify) - 16,877 likes - 43 songs - 2 hr 33 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -27,11 +27,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0mdCc3.md) - [plain]
 | 17 | [Do You Think I'm a Whore?](https://open.spotify.com/track/7tonKC2RWNxneYbNAXfm0e) | [Kittie](https://open.spotify.com/artist/0ImEDe9tW5n4pxHOK39zIc) | [Spit](https://open.spotify.com/album/5PyNZ5DIu4UNWYfIgJwqXH) | 3:04 |
 | 18 | [Spit XXV](https://open.spotify.com/track/4XXmMpTVgc0tZYmGVnnRRL) | [Kittie](https://open.spotify.com/artist/0ImEDe9tW5n4pxHOK39zIc) | [Spit XXV](https://open.spotify.com/album/53mtO02lIp0MrMv3zccDYB) | 2:45 |
 | 19 | [In Winter](https://open.spotify.com/track/3meQtXNdUBDx2ksYS1mXiV) | [Kittie](https://open.spotify.com/artist/0ImEDe9tW5n4pxHOK39zIc) | [Oracle](https://open.spotify.com/album/2gvntE2fsMMbMXNxIOnBsD) | 5:32 |
-| 20 | [Vultures](https://open.spotify.com/track/1oovkcMNHgaHePdLk5ShuV) | [Kittie](https://open.spotify.com/artist/0ImEDe9tW5n4pxHOK39zIc) | [Fire](https://open.spotify.com/album/4EbO8Gm17SmOY3vS9Rqhsu) | 3:18 |
+| 20 | [I Still Wear This Crown](https://open.spotify.com/track/4Wjb1WOfGXzQlgxMNvMkiE) | [Kittie](https://open.spotify.com/artist/0ImEDe9tW5n4pxHOK39zIc) | [Fire](https://open.spotify.com/album/4EbO8Gm17SmOY3vS9Rqhsu) | 3:42 |
 | 21 | [Suck](https://open.spotify.com/track/4UeVTOxOBUwUF8mjXD9EKc) | [Kittie](https://open.spotify.com/artist/0ImEDe9tW5n4pxHOK39zIc) | [Spit](https://open.spotify.com/album/5PyNZ5DIu4UNWYfIgJwqXH) | 3:33 |
 | 22 | [Loveless](https://open.spotify.com/track/2NAa2OHG4Jk0P3XmH0UsjJ) | [Kittie](https://open.spotify.com/artist/0ImEDe9tW5n4pxHOK39zIc) | [Until the End](https://open.spotify.com/album/7JH0GlTxHyknSS8qMKBIjZ) | 2:08 |
 | 23 | [Cut Throat](https://open.spotify.com/track/0uSCW9vv8Vo4kGlSfemJ80) | [Kittie](https://open.spotify.com/artist/0ImEDe9tW5n4pxHOK39zIc) | [In The Black](https://open.spotify.com/album/2yXPKlNs2R2aGKKZeM2cnC) | 3:01 |
-| 24 | [I Still Wear This Crown](https://open.spotify.com/track/4Wjb1WOfGXzQlgxMNvMkiE) | [Kittie](https://open.spotify.com/artist/0ImEDe9tW5n4pxHOK39zIc) | [Fire](https://open.spotify.com/album/4EbO8Gm17SmOY3vS9Rqhsu) | 3:42 |
+| 24 | [Vultures](https://open.spotify.com/track/1oovkcMNHgaHePdLk5ShuV) | [Kittie](https://open.spotify.com/artist/0ImEDe9tW5n4pxHOK39zIc) | [Fire](https://open.spotify.com/album/4EbO8Gm17SmOY3vS9Rqhsu) | 3:18 |
 | 25 | [Do You Think I'm a Whore? XXV](https://open.spotify.com/track/28Ao9W3TmgM7xzIxICkAgI) | [Kittie](https://open.spotify.com/artist/0ImEDe9tW5n4pxHOK39zIc) | [Spit XXV](https://open.spotify.com/album/0WYZiJ2D46evxGdyAJOchS) | 3:06 |
 | 26 | [Until the End](https://open.spotify.com/track/0ZVPBe1MWTQr2nIL2apfaN) | [Kittie](https://open.spotify.com/artist/0ImEDe9tW5n4pxHOK39zIc) | [Until the End](https://open.spotify.com/album/7JH0GlTxHyknSS8qMKBIjZ) | 4:13 |
 | 27 | [Pain](https://open.spotify.com/track/54y5nUFqtxTan8dQHkImL9) | [Kittie](https://open.spotify.com/artist/0ImEDe9tW5n4pxHOK39zIc) | [Oracle](https://open.spotify.com/album/2gvntE2fsMMbMXNxIOnBsD) | 3:49 |
@@ -52,4 +52,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0mdCc3.md) - [plain]
 | 42 | [Forgive And Forget](https://open.spotify.com/track/01GIdWkDvSRqSwoZe4VmtL) | [Kittie](https://open.spotify.com/artist/0ImEDe9tW5n4pxHOK39zIc) | [In The Black](https://open.spotify.com/album/2yXPKlNs2R2aGKKZeM2cnC) | 3:44 |
 | 43 | [Sorrow I Know](https://open.spotify.com/track/3JBAtWrSOO0xPCZNlwMhcV) | [Kittie](https://open.spotify.com/artist/0ImEDe9tW5n4pxHOK39zIc) | [In The Black](https://open.spotify.com/album/2yXPKlNs2R2aGKKZeM2cnC) | 3:30 |
 
-Snapshot ID: `awIwgAAAAABRfbhsL+MQ8c8mYLxjq23e`
+Snapshot ID: `awOCAAAAAAAWW0P97S75cvLIoGkkwUZF`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdXbKzsf80lE.md) - [plain]
 
 > Queeeima paredão! Pra forrozeiro sofrer dançando e dançar sofrendo, bora.
 
-[Spotify](https://open.spotify.com/user/spotify) - 283,395 likes - 60 songs - 3 hr 1 min
+[Spotify](https://open.spotify.com/user/spotify) - 283,402 likes - 60 songs - 3 hr 1 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -61,12 +61,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdXbKzsf80lE.md) - [plain]
 | 51 | [Você Me Conquistou](https://open.spotify.com/track/00SFicbFKGIT0ONRRD79Uw) | [Eric Land](https://open.spotify.com/artist/007FXgr0jLBJxhPJjacXQH), [Ytalo Paulo](https://open.spotify.com/artist/1HBCU4PyKgKz6nFTuFyMbA), [Raí Saia Rodada](https://open.spotify.com/artist/0NiaKn55OzJswiYevvlKfz) | [Você Me Conquistou](https://open.spotify.com/album/2A8fVvBedsIsoXtzdi3pfx) | 3:08 |
 | 52 | [Ela É Linda](https://open.spotify.com/track/35uPMtbq7v1L5z8j52BOSG) | [Vitinho Imperador](https://open.spotify.com/artist/6xrc4RXcso9uKlYWlIANPU) | [Ela É Linda](https://open.spotify.com/album/0FO1Axe7IAeyK9vv6ZhGJX) | 3:02 |
 | 53 | [O Apostador](https://open.spotify.com/track/4JCNKUDiJi9GOKjfur6R9S) | [Zé Vaqueiro](https://open.spotify.com/artist/5K8Rmjmf4RZFffz94EmBRt), [Alanzim Coreano](https://open.spotify.com/artist/3z1hkcmUuBH6lmB91l73MC) | [O Apostador](https://open.spotify.com/album/5Djfedu3tD8JnJ27Te8LcX) | 2:16 |
-| 54 | [Saudade Vai Bater](https://open.spotify.com/track/6b5GquyOcc5326bJoEUafU) | [MC Bruninho](https://open.spotify.com/artist/3shPgAzHMyRwWOkXeoWKeB), [Aldair Playboy](https://open.spotify.com/artist/6LjdKBMnP1Da8Oe6WhrN56) | [Saudade Vai Bater](https://open.spotify.com/album/7iISpLEaOAfgBq83h4NxNh) | 3:02 |
-| 55 | [Então Vem Cá \- Ao Vivo](https://open.spotify.com/track/1FIaoiLn0E5ilfE5T0P9xx) | [Mano Walter](https://open.spotify.com/artist/35YkpX0zYwHG8vOIhObvxP), [Claudia Leitte](https://open.spotify.com/artist/2OjoIDVPQKT9B7loZbPEfp) | [Ao Vivo Em São Paulo \(Deluxe\)](https://open.spotify.com/album/4yqE9BgU3r6tMfR3cVhwEw) | 2:57 |
-| 56 | [Pisadinha \- Ao Vivo](https://open.spotify.com/track/36P6ptTyxOggYgR2aoZiAl) | [Diego & Victor Hugo](https://open.spotify.com/artist/3k68C6mNMJL6OaAdWeW2ZF), [Raí Saia Rodada](https://open.spotify.com/artist/0NiaKn55OzJswiYevvlKfz) | [Pisadinha \(Ao Vivo\)](https://open.spotify.com/album/2Ir3JLRBTe6UNagIu9CsYV) | 2:38 |
+| 54 | [Pisadinha \- Ao Vivo](https://open.spotify.com/track/36P6ptTyxOggYgR2aoZiAl) | [Diego & Victor Hugo](https://open.spotify.com/artist/3k68C6mNMJL6OaAdWeW2ZF), [Raí Saia Rodada](https://open.spotify.com/artist/0NiaKn55OzJswiYevvlKfz) | [Pisadinha \(Ao Vivo\)](https://open.spotify.com/album/2Ir3JLRBTe6UNagIu9CsYV) | 2:38 |
+| 55 | [Saudade Vai Bater](https://open.spotify.com/track/6b5GquyOcc5326bJoEUafU) | [MC Bruninho](https://open.spotify.com/artist/3shPgAzHMyRwWOkXeoWKeB), [Aldair Playboy](https://open.spotify.com/artist/6LjdKBMnP1Da8Oe6WhrN56) | [Saudade Vai Bater](https://open.spotify.com/album/7iISpLEaOAfgBq83h4NxNh) | 3:02 |
+| 56 | [Então Vem Cá \- Ao Vivo](https://open.spotify.com/track/1FIaoiLn0E5ilfE5T0P9xx) | [Mano Walter](https://open.spotify.com/artist/35YkpX0zYwHG8vOIhObvxP), [Claudia Leitte](https://open.spotify.com/artist/2OjoIDVPQKT9B7loZbPEfp) | [Ao Vivo Em São Paulo \(Deluxe\)](https://open.spotify.com/album/4yqE9BgU3r6tMfR3cVhwEw) | 2:57 |
 | 57 | [Edilene](https://open.spotify.com/track/7xEvzxbqAxFYDC5OzF51aQ) | [Tayrone](https://open.spotify.com/artist/2T1se5h5FRkw7ZfR7yxdlm) | [Edilene](https://open.spotify.com/album/6WOKAQp9jXSSpICGAoEyPN) | 3:09 |
-| 58 | [Se quiser é assim \- Ao Vivo](https://open.spotify.com/track/4eIz5tYOpqUrZiCxTm1ZAa) | [Solange Almeida](https://open.spotify.com/artist/3Hew3AuvrbKxCbehT4Rorq), [João Gomes](https://open.spotify.com/artist/4JNo6Q5KdcRf1vtSX9mB0S) | [Solange Almeida 50/50 Ao Vivo em Fortaleza Deluxe](https://open.spotify.com/album/2bFebA9Rb9o1t6e1jJJt8m) | 3:45 |
-| 59 | [Adivinha Aí](https://open.spotify.com/track/36VuUsoIGq395mwQFhhXfY) | [Zé Vaqueiro](https://open.spotify.com/artist/5K8Rmjmf4RZFffz94EmBRt) | [Adivinha Aí](https://open.spotify.com/album/4ZOltnZGREqjx7I1FSf1Xj) | 2:36 |
-| 60 | [Juramento do Dedinho](https://open.spotify.com/track/4Eco98ezksfnQzVNJCjg9j) | [Mano Walter](https://open.spotify.com/artist/35YkpX0zYwHG8vOIhObvxP) | [Juramento do Dedinho](https://open.spotify.com/album/2OKTFhlxZ0yvUEQsgXaCP0) | 2:44 |
+| 58 | [Adivinha Aí](https://open.spotify.com/track/36VuUsoIGq395mwQFhhXfY) | [Zé Vaqueiro](https://open.spotify.com/artist/5K8Rmjmf4RZFffz94EmBRt) | [Adivinha Aí](https://open.spotify.com/album/4ZOltnZGREqjx7I1FSf1Xj) | 2:36 |
+| 59 | [Se quiser é assim \- Ao Vivo](https://open.spotify.com/track/4eIz5tYOpqUrZiCxTm1ZAa) | [Solange Almeida](https://open.spotify.com/artist/3Hew3AuvrbKxCbehT4Rorq), [João Gomes](https://open.spotify.com/artist/4JNo6Q5KdcRf1vtSX9mB0S) | [Solange Almeida 50/50 Ao Vivo em Fortaleza Deluxe](https://open.spotify.com/album/2bFebA9Rb9o1t6e1jJJt8m) | 3:45 |
+| 60 | [Ele Não Te Merece](https://open.spotify.com/track/48nxUG7ATqzudxNqzRXt4S) | [Wesley Safadão](https://open.spotify.com/artist/1AL2GKpmRrKXkYIcASuRFa), [Tarcísio do Acordeon](https://open.spotify.com/artist/48HORs6F9P7IgdyKrk4MZC) | [WS Sem Limites \(Deluxe\)](https://open.spotify.com/album/1lSBPfQScnxvu24BbRQ2BD) | 3:07 |
 
-Snapshot ID: `AAAAAJDsE/YlScMqF9qFlHp0DjOJSWmd`
+Snapshot ID: `AAAAAItbg5mD4VzqGej1Px5ECX1CBLuW`

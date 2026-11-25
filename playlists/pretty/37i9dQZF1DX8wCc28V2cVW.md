@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8wCc28V2cVW.md) - [plain]
 
 > Be the first to hear the FINAL FANTASY VII REBIRTH soundtrack and stay tuned for the upcoming theme song\. 最新作『FINAL FANTASY VII REBIRTH』をはじめとするファイナルファンタジーの珠玉の名曲集。テーマソング、サウンドトラックの追加をお待ちください。©2019 SQUARE ENIX CO., LTD\. All Rights Reserved.
 
-[Spotify](https://open.spotify.com/user/spotify) - 208,135 likes - 75 songs - 5 hr 2 min
+[Spotify](https://open.spotify.com/user/spotify) - 208,134 likes - 75 songs - 5 hr 4 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -82,6 +82,6 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8wCc28V2cVW.md) - [plain]
 | 72 | [The Ark](https://open.spotify.com/track/52owa26O52mjroTJTfnHGI) | [Mitsuto Suzuki](https://open.spotify.com/artist/5W4sTIDfoLa7FKduC4R8AE) | [LIGHTNING RETURNS:FINAL FANTASY XIII ORIGINAL SOUNDTRACK](https://open.spotify.com/album/5AAlUHdWLoL1ih4vroqWSI) | 4:31 |
 | 73 | [Yeul's Theme](https://open.spotify.com/track/4bJcsstaAf36WJZHny1oLf) | [Joelle](https://open.spotify.com/artist/6F3V2oqTV0cAf0fuZKtGh8) | [FINAL FANTASY XIII\-2 Original Soundtrack](https://open.spotify.com/album/3VV4BLl2Eik6xVyHXlDjLK) | 6:45 |
 | 74 | [A Chapel](https://open.spotify.com/track/1Ptt2vsB5QfmzcpcO75Vbc) | [Hitoshi Sakimoto](https://open.spotify.com/artist/5ogVrEHxkGUuyavOqRapnm) | [FINAL FANTASY TACTICS Original Soundtrack](https://open.spotify.com/album/2ocBMg8FH8M91wOHMf2cKc) | 2:33 |
-| 75 | [Character Creation](https://open.spotify.com/track/6wLLZeNrVi3UFtYgp9onhd) | [Masaharu Iwata](https://open.spotify.com/artist/44WcmZasHi1s8IIRP9l8b3) | [FINAL FANTASY TACTICS Original Soundtrack](https://open.spotify.com/album/2ocBMg8FH8M91wOHMf2cKc) | 1:45 |
+| 75 | [Boss Battle](https://open.spotify.com/track/4E14gq0mqxeNUJ4ydNQRaV) | [崎元仁](https://open.spotify.com/artist/5IgtFW3mCaIGAuPbx7qE04) | [FINAL FANTASY XII Original Soundtrack](https://open.spotify.com/album/6BUaUV4g19n1zwF6iwkh4C) | 3:23 |
 
-Snapshot ID: `AAAAAGNVMTYEbx+nnbp3oOaeScpXZfVx`
+Snapshot ID: `AAAAABNjg9Ljm9zk/DGzFhRF7EDUQshf`

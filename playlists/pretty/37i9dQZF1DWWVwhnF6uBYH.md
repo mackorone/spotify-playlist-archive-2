@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWVwhnF6uBYH.md) - [plain]
 
 > ¡Alista la hielerona que nos vamos pa' las dunas!
 
-[Spotify](https://open.spotify.com/user/spotify) - 793,942 likes - 100 songs - 5 hr 12 min
+[Spotify](https://open.spotify.com/user/spotify) - 794,131 likes - 100 songs - 5 hr 12 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -27,8 +27,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWVwhnF6uBYH.md) - [plain]
 | 17 | [Hacia La Cima \(Traje Pa' Rutear\)](https://open.spotify.com/track/4eJ8CosP2e43CbOacEHGwF) | [Uno En Un Millon](https://open.spotify.com/artist/1vggB0VqdzLMHZFcUd9E1h) | [Hacia La Cima \(Traje Pa' Rutear\)](https://open.spotify.com/album/0G7BjdCW7le78BJOOuieJh) | 5:28 |
 | 18 | [El Hijo Mayor](https://open.spotify.com/track/1RGlfmdvcfatN0ZLOmzanS) | [Junior H](https://open.spotify.com/artist/7Gi6gjaWy3DxyilpF1a8Is) | [El Hijo Mayor](https://open.spotify.com/album/5uNnU1f0N66Xkll4wRnjXL) | 3:16 |
 | 19 | [Ya Fue](https://open.spotify.com/track/0l9nwoGmhk5ckCdRqJcPB8) | [Herencia De Grandes](https://open.spotify.com/artist/0ocHleb3SllGNQQcDH35Xz) | [Noches Sin Fin](https://open.spotify.com/album/465rqQUVN9J9KTCphdfAKM) | 3:57 |
-| 20 | [El Peor De Mis Fracasos \- En Vivo](https://open.spotify.com/track/3MTvkLdzVB2V86oYpDpupp) | [Los Del Roble](https://open.spotify.com/artist/4GP79lfzsxYXZn1HNu31Dj), [Gabito Ballesteros](https://open.spotify.com/artist/6Sbl0NT50roqWvy746MfVf), [El Gerry Oficial](https://open.spotify.com/artist/1HcpnkXa6w9PuTKwB1hduQ) | [El Peor De Mis Fracasos \(En Vivo\)](https://open.spotify.com/album/0XJmyq88KBAab5dqKvDhi8) | 3:45 |
-| 21 | [Mejores Jordans](https://open.spotify.com/track/1cZHUhGz7xJ8c4szDipipd) | [Victor Mendivil](https://open.spotify.com/artist/5YqI7p8zYsOpKJtjxYdOce), [Oscar Maydon](https://open.spotify.com/artist/3l9G1G9MxH6DaRhwLklaf5) | [Mejores Jordans](https://open.spotify.com/album/6gK267rs4q9swdpzj79Roz) | 3:54 |
+| 20 | [Mejores Jordans](https://open.spotify.com/track/1cZHUhGz7xJ8c4szDipipd) | [Victor Mendivil](https://open.spotify.com/artist/5YqI7p8zYsOpKJtjxYdOce), [Oscar Maydon](https://open.spotify.com/artist/3l9G1G9MxH6DaRhwLklaf5) | [Mejores Jordans](https://open.spotify.com/album/6gK267rs4q9swdpzj79Roz) | 3:54 |
+| 21 | [El Peor De Mis Fracasos \- En Vivo](https://open.spotify.com/track/3MTvkLdzVB2V86oYpDpupp) | [Los Del Roble](https://open.spotify.com/artist/4GP79lfzsxYXZn1HNu31Dj), [Gabito Ballesteros](https://open.spotify.com/artist/6Sbl0NT50roqWvy746MfVf), [El Gerry Oficial](https://open.spotify.com/artist/1HcpnkXa6w9PuTKwB1hduQ) | [El Peor De Mis Fracasos \(En Vivo\)](https://open.spotify.com/album/0XJmyq88KBAab5dqKvDhi8) | 3:45 |
 | 22 | [Voy Llegando a tu Ciudad](https://open.spotify.com/track/25Um6XtI3adYkxZpl1qtQE) | [Cornelio Vega y su Dinastia](https://open.spotify.com/artist/3xNhaqwvNIAP57dWgMTP1d) | [Experto](https://open.spotify.com/album/1jbw7dNHbODAxiWgugRRdF) | 2:51 |
 | 23 | [Si No Quieres No](https://open.spotify.com/track/1C84d9abZVKWHT2YYpoean) | [Luis R Conriquez](https://open.spotify.com/artist/0pePYDrJGk8gqMRbXrLJC8), [Neton Vega](https://open.spotify.com/artist/6pV5zH2LzjOUHaAvENdMMa) | [Si No Quieres No](https://open.spotify.com/album/6WkOBnYkj6y5iSr14uhUZF) | 2:27 |
 | 24 | [ROSONES](https://open.spotify.com/track/0LTwdL5yZ6YOTEGUQPFuSN) | [Tito Double P](https://open.spotify.com/artist/5eumcnUkdmGvkvcsx1WFNG) | [ROSONES](https://open.spotify.com/album/5cQfpT5TqmekHpZqYDcGTL) | 2:57 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWVwhnF6uBYH.md) - [plain]
 | 99 | [Mi Princesa](https://open.spotify.com/track/6RsQABV4IRHotGGKVf2YGt) | [Grupo Mente Maestra](https://open.spotify.com/artist/7fReOInDdj4876IaRNzHC2) | [Mi Princesa](https://open.spotify.com/album/3FvPdNZ9tqDYElBcnBvypq) | 3:22 |
 | 100 | [El Jefe de las Plazas](https://open.spotify.com/track/3CyCK4IXTHHz5ablmO72ny) | [Victor Cibrian](https://open.spotify.com/artist/1iXdpCz3AeLEAvzqeNodt8) | [LAS QUE SUENAN EN MI TROCA](https://open.spotify.com/album/6xdYPEZELEEsQjuXIwaShL) | 3:38 |
 
-Snapshot ID: `AAAAADHZfImXF/ebq2AsNqtQ2K26kOZl`
+Snapshot ID: `AAAAAKO5mdstc4Eq7teYVHlfCIjXvFwJ`

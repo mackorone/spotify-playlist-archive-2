@@ -1,12 +1,12 @@
 {
   "description": "aLex vs aLex its barking season <a href=\"https://loremandfriends.substack.com/p/sincerely-and-always-forever\"> plus ~new substack ft Heathers & Sammie Pearson here~</a>   ",
-  "num_followers": 1184516,
+  "num_followers": 1184713,
   "original_name": "Lorem",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAFFfuK1/ZC8MIA9ucnS5GfWGciLf",
+  "snapshot_id": "AAAAAJlm5Qs6dYO7nw+ajdqrKHV/gg/u",
   "tracks": [
     {
       "added_at": "2026-11-13 05:01:41",
@@ -231,6 +231,26 @@
       "duration_ms": 191754,
       "name": "Pardon My French",
       "url": "https://open.spotify.com/track/2MCb6Q5SJMt5eeIlwjOZd1"
+    },
+    {
+      "added_at": "2026-11-25 04:21:09",
+      "album": {
+        "name": "Amazing Grace",
+        "url": "https://open.spotify.com/album/3AHsOQKjDfLmkCuudJcNhy"
+      },
+      "artists": [
+        {
+          "name": "Mackeeper",
+          "url": "https://open.spotify.com/artist/22NwVn8gHhq8eeWhZXgjOX"
+        },
+        {
+          "name": "Brat Star",
+          "url": "https://open.spotify.com/artist/75paBOTrEufCOCKV1n4Cn8"
+        }
+      ],
+      "duration_ms": 279480,
+      "name": "Amazing Grace",
+      "url": "https://open.spotify.com/track/7wdVWU0mWfXieiORD0PNh6"
     },
     {
       "added_at": "2026-11-13 05:01:41",

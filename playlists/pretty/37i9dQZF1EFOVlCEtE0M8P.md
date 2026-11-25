@@ -218,8 +218,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFOVlCEtE0M8P.md) - [plain]
 | 208 | [people like you](https://open.spotify.com/track/28bqKJ8P2akWe6Q1hf3x37) | [Christina Perri](https://open.spotify.com/artist/7H55rcKCfwqkyDFH9wpKM6) | [a lighter shade of blue](https://open.spotify.com/album/7HEHgvui9j8u79SCn80tbq) | 3:32 |
 | 209 | [Keep My Love](https://open.spotify.com/track/6neXvpyApAjbNi97sGJwVk) | [Sekou](https://open.spotify.com/artist/1mYgKcXdbklH5RwjU6XA8c) | [In A World We Don't Belong \(Pt.1\)](https://open.spotify.com/album/2qmKexam2hulUGtbFkOPO6) | 3:45 |
 | 210 | [Magic](https://open.spotify.com/track/0OinzPSjK2fSJwjRsAlJMn) | [Mark Owen](https://open.spotify.com/artist/1NCH3NhzIufLfHz32GLAzM) | [Land of Dreams](https://open.spotify.com/album/1M9ejv6LWxnhdioucmyaAn) | 3:40 |
-| 211 | [Something Better](https://open.spotify.com/track/4dhKiwTcdoM5itwNklLp00) | [Taylor Janzen](https://open.spotify.com/artist/3rTVTBOBT7NPgXtI5oWyxc) | [I Live In Patterns](https://open.spotify.com/album/2msBvZC5EUxnYRpQ5UfE8i) | 3:55 |
-| 212 | [Swallower](https://open.spotify.com/track/3NqnKChCusKRMEGPtWa393) | [Chelsea Wolfe](https://open.spotify.com/artist/6ZK2nrW8aCTg8Bid7I7N10) | [The Dark](https://open.spotify.com/album/4gpQHITIKf01iFm9gtcmLA) | 4:04 |
+| 211 | [Swallower](https://open.spotify.com/track/3NqnKChCusKRMEGPtWa393) | [Chelsea Wolfe](https://open.spotify.com/artist/6ZK2nrW8aCTg8Bid7I7N10) | [The Dark](https://open.spotify.com/album/4gpQHITIKf01iFm9gtcmLA) | 4:04 |
+| 212 | [Something Better](https://open.spotify.com/track/4dhKiwTcdoM5itwNklLp00) | [Taylor Janzen](https://open.spotify.com/artist/3rTVTBOBT7NPgXtI5oWyxc) | [I Live In Patterns](https://open.spotify.com/album/2msBvZC5EUxnYRpQ5UfE8i) | 3:55 |
 | 213 | [White House](https://open.spotify.com/track/46ic6ADcmPA9mw1wKFLKEO) | [Bibi Bourelly](https://open.spotify.com/artist/3jDtqAKltRxJi64svLZGj7) | [White House](https://open.spotify.com/album/2JUYm2GSrvmt6oiuvjpChg) | 3:30 |
 | 214 | [Mississippi](https://open.spotify.com/track/6YLRLilsZL2fyuKyQD3kEq) | [Caitlyn Smith](https://open.spotify.com/artist/3uikSah4dwqwuk0EidFI4R) | [High & Low](https://open.spotify.com/album/3aHniWCq391zmVHUc7zBew) | 3:47 |
 | 215 | [SLUG](https://open.spotify.com/track/4rrC8ISPknjED8ziBKosO9) | [Royal & the Serpent](https://open.spotify.com/artist/64EHXDoln95lnccszdPum0) | [RAT TRAP 2: the burn](https://open.spotify.com/album/4kDBAwGGcSpxs6d4FFdPYG) | 2:42 |
@@ -307,4 +307,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFOVlCEtE0M8P.md) - [plain]
 | 297 | [Goodbye Wrong](https://open.spotify.com/track/5DrxXrWnsxkpbR0QUBj8aS) | [Dawn Marie](https://open.spotify.com/artist/4BCgFgcMiSfFEmRIqeAD1K) | [Goodbye Wrong](https://open.spotify.com/album/3dFRqt0nO1GxdcBaE3ryth) | 3:25 |
 | 298 | [You Don't Care](https://open.spotify.com/track/1mBTncvALjv971xEw6fBFK) | [Steven Wood](https://open.spotify.com/artist/4GU9C2rc9E6v3v2TpLzyfS), [Brandon Harms](https://open.spotify.com/artist/3yGwH9xSAbRwwvmIp09ZSW) | [You Don't Care](https://open.spotify.com/album/3K36b4gNevnCaCqmNntHMt) | 4:08 |
 
-Snapshot ID: `AcifMgAAAAA4yXrfcKloHLxUgP2uHJkt`
+Snapshot ID: `AciklgAAAABC0krb0pkxFq0y4XKcVPq+`

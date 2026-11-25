@@ -1,12 +1,12 @@
 {
   "description": "Luke Combs and Country hits that will have you singing every word.",
-  "num_followers": 449224,
+  "num_followers": 449209,
   "original_name": "Country Favourites",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAKEM+5WLqW83RwSliKrFDS1MAHZH",
+  "snapshot_id": "AAAAANLL7SspjqMla9A9YGqbuuSn7jHt",
   "tracks": [
     {
       "added_at": "2025-12-12 19:32:52",
@@ -1485,20 +1485,20 @@
       "url": "https://open.spotify.com/track/06CYe9F4IaMmSTAswOHQDD"
     },
     {
-      "added_at": "2025-07-04 04:00:22",
+      "added_at": "2025-12-12 19:32:52",
       "album": {
-        "name": "Standing Room Only",
-        "url": "https://open.spotify.com/album/3Rg5omHq5NUUpRQq6Bsuuw"
+        "name": "One Of Us",
+        "url": "https://open.spotify.com/album/1JusbAeAs7tTPKAn0Y6iiA"
       },
       "artists": [
         {
-          "name": "Tim McGraw",
-          "url": "https://open.spotify.com/artist/6roFdX1y5BYSbp60OTJWMd"
+          "name": "James Barker Band",
+          "url": "https://open.spotify.com/artist/54lUDwCk35ihJuK3yJCqHA"
         }
       ],
-      "duration_ms": 226090,
-      "name": "Standing Room Only",
-      "url": "https://open.spotify.com/track/6BOP0cv1eeXcvi1oE8bDVZ"
+      "duration_ms": 189638,
+      "name": "You Didn\u2019t Hear It From Me",
+      "url": "https://open.spotify.com/track/3nf11phTAo1DOMNwEWCBBf"
     },
     {
       "added_at": "2025-07-04 04:00:22",
@@ -1521,20 +1521,20 @@
       "url": "https://open.spotify.com/track/5GgOktu3FrHdb26jTrS4AK"
     },
     {
-      "added_at": "2025-12-12 19:32:52",
+      "added_at": "2025-07-04 04:00:22",
       "album": {
-        "name": "One Of Us",
-        "url": "https://open.spotify.com/album/1JusbAeAs7tTPKAn0Y6iiA"
+        "name": "Standing Room Only",
+        "url": "https://open.spotify.com/album/3Rg5omHq5NUUpRQq6Bsuuw"
       },
       "artists": [
         {
-          "name": "James Barker Band",
-          "url": "https://open.spotify.com/artist/54lUDwCk35ihJuK3yJCqHA"
+          "name": "Tim McGraw",
+          "url": "https://open.spotify.com/artist/6roFdX1y5BYSbp60OTJWMd"
         }
       ],
-      "duration_ms": 189638,
-      "name": "You Didn\u2019t Hear It From Me",
-      "url": "https://open.spotify.com/track/3nf11phTAo1DOMNwEWCBBf"
+      "duration_ms": 226090,
+      "name": "Standing Room Only",
+      "url": "https://open.spotify.com/track/6BOP0cv1eeXcvi1oE8bDVZ"
     },
     {
       "added_at": "2025-07-04 04:00:22",

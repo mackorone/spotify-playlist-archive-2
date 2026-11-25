@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO4BMO7S.md) - [plain]
 
 > This is Japanese Breakfast\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 24,849 likes - 40 songs - 2 hr 16 min
+[Spotify](https://open.spotify.com/user/spotify) - 24,851 likes - 40 songs - 2 hr 18 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -47,6 +47,6 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO4BMO7S.md) - [plain]
 | 37 | [Psychopomp](https://open.spotify.com/track/1VeVcMCuC8f6rvsyVsi7Pj) | [Japanese Breakfast](https://open.spotify.com/artist/7MoIc5s9KXolCBH1fy9kkw) | [Psychopomp](https://open.spotify.com/album/3CeBfyjSIfbWyf0RTNbq1G) | 1:15 |
 | 38 | [The Ewer \(Day\)](https://open.spotify.com/track/6DCm22M3hiXoNpq3WB5FWP) | [Japanese Breakfast](https://open.spotify.com/artist/7MoIc5s9KXolCBH1fy9kkw) | [Sable \(Original Video Game Soundtrack\)](https://open.spotify.com/album/7B6Zmp3r1iY1DFPV08vPBY) | 4:05 |
 | 39 | [Better the Mask](https://open.spotify.com/track/6tQfAfTBvhmgJCjOPsltN4) | [Japanese Breakfast](https://open.spotify.com/artist/7MoIc5s9KXolCBH1fy9kkw) | [Sable \(Original Video Game Soundtrack\)](https://open.spotify.com/album/7B6Zmp3r1iY1DFPV08vPBY) | 3:30 |
-| 40 | [Ibexxi Camp \(Night\)](https://open.spotify.com/track/7yD6F9iAImQr9yhpfG671w) | [Japanese Breakfast](https://open.spotify.com/artist/7MoIc5s9KXolCBH1fy9kkw) | [Sable \(Original Video Game Soundtrack\)](https://open.spotify.com/album/7B6Zmp3r1iY1DFPV08vPBY) | 2:30 |
+| 40 | [Hakoa \(Night\)](https://open.spotify.com/track/2v7TXZL6ufZj49yXhuATlY) | [Japanese Breakfast](https://open.spotify.com/artist/7MoIc5s9KXolCBH1fy9kkw) | [Sable \(Original Video Game Soundtrack\)](https://open.spotify.com/album/7B6Zmp3r1iY1DFPV08vPBY) | 4:40 |
 
-Snapshot ID: `awIwgAAAAABVgLxnQ3O9V210qx/CDszG`
+Snapshot ID: `awOCAAAAAABWvRGLAcHZtKSakz/RiTAW`

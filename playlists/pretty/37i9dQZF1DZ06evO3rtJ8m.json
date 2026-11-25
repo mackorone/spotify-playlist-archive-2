@@ -1,12 +1,12 @@
 {
   "description": "This is Big Thief. The essential tracks, all in one playlist.",
-  "num_followers": 48824,
+  "num_followers": 48847,
   "original_name": "This Is Big Thief",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "awIwgAAAAABLC8h+9SrnZESLfPczxsUD",
+  "snapshot_id": "awOCAAAAAACdQCv6I/S019QQedWRTWvh",
   "tracks": [
     {
       "added_at": null,
@@ -356,9 +356,9 @@
           "url": "https://open.spotify.com/artist/5QdyldG4Fl4TPiOIeMNpBZ"
         }
       ],
-      "duration_ms": 252823,
-      "name": "Double Infinity",
-      "url": "https://open.spotify.com/track/4jdNbCXGGciAOLwAShbJ9Z"
+      "duration_ms": 288890,
+      "name": "How Could I Have Known",
+      "url": "https://open.spotify.com/track/17tN4TOGM562ach3uvZZUi"
     },
     {
       "added_at": null,
@@ -420,9 +420,9 @@
           "url": "https://open.spotify.com/artist/5QdyldG4Fl4TPiOIeMNpBZ"
         }
       ],
-      "duration_ms": 288890,
-      "name": "How Could I Have Known",
-      "url": "https://open.spotify.com/track/17tN4TOGM562ach3uvZZUi"
+      "duration_ms": 252823,
+      "name": "Double Infinity",
+      "url": "https://open.spotify.com/track/4jdNbCXGGciAOLwAShbJ9Z"
     },
     {
       "added_at": null,

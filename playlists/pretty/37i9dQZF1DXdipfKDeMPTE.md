@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdipfKDeMPTE.md) - [plain]
 
 > after dark beats that stay up with you 🌙  for night owls, night drives, or midnight thoughts.
 
-[Spotify](https://open.spotify.com/user/spotify) - 217,348 likes - 99 songs - 3 hr 45 min
+[Spotify](https://open.spotify.com/user/spotify) - 217,377 likes - 99 songs - 3 hr 45 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -108,4 +108,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdipfKDeMPTE.md) - [plain]
 | 98 | [Niigata](https://open.spotify.com/track/5yBsxiaKvNiI7sbqVlqC5A) | [7apes](https://open.spotify.com/artist/4smeBjKru2y3oeQkGSfotv), [Smoke Trees](https://open.spotify.com/artist/6cN5TvotJoRbhYHoCHw8BI) | [Niigata](https://open.spotify.com/album/5kG6HGQ6LweRDr6us00u71) | 2:38 |
 | 99 | [Lucid](https://open.spotify.com/track/2spoQnHvSANa0W6d567SjA) | [Spring Bingo](https://open.spotify.com/artist/6nKx4Rzt8UvlMs3zEiwMif) | [Lucid](https://open.spotify.com/album/4fLLQYSeCv7meJmc0KnI09) | 2:41 |
 
-Snapshot ID: `AAAAAFDTJkV13qzEjFxSFUE0PgaKiHRI`
+Snapshot ID: `AAAAAIteAIVADNAZ+h8SDTwoZahY+v2S`

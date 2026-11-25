@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5cXGtVmblSB.md) - [plain]
 
 > Soft music to calm down cats, kittens and their humans.
 
-[Spotify](https://open.spotify.com/user/spotify) - 181,575 likes - 300 songs - 13 hr 41 min
+[Spotify](https://open.spotify.com/user/spotify) - 181,698 likes - 300 songs - 13 hr 41 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -309,4 +309,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5cXGtVmblSB.md) - [plain]
 | 299 | [Clear Mind \- 432 Hz](https://open.spotify.com/track/7w5rZvkQ9OH6aW0uKvD4xA) | [Liilia Janes](https://open.spotify.com/artist/3wJTyh4srXwp5jfld7LZ8j) | [Clear Mind \- 432 Hz](https://open.spotify.com/album/6HKa2Okr1EpZfHFBTrtqTM) | 2:51 |
 | 300 | [Spiritual Echoes](https://open.spotify.com/track/5TGrXaVmrNlJoeaCcuyGhc) | [Bernie Longo](https://open.spotify.com/artist/7N3bLImLosoZTt8HJTmLw1) | [Spiritual Echoes](https://open.spotify.com/album/20ztVU1HJ6YJSVCVruojPu) | 2:44 |
 
-Snapshot ID: `AAAAAPdqQNnAgG8iwoIfmyUyL0B4UHkR`
+Snapshot ID: `AAAAAK4qwj+AHFjc8eLeeb+Y+u6pHZHF`

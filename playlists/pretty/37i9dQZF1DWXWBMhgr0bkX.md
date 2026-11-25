@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXWBMhgr0bkX.md) - [plain]
 
 > New pop releases from the UK & Ireland 🌟 cover: FLO
 
-[Spotify](https://open.spotify.com/user/spotify) - 48,690 likes - 90 songs - 4 hr 52 min
+[Spotify](https://open.spotify.com/user/spotify) - 48,692 likes - 90 songs - 4 hr 52 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -99,4 +99,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXWBMhgr0bkX.md) - [plain]
 | 89 | [Daydreaming](https://open.spotify.com/track/4OqGAjIXTwVt7pxTekpuuf) | [CHIRAI](https://open.spotify.com/artist/2p3FQ1wlwCWcCXQpUuxWTa) | [Daydreaming](https://open.spotify.com/album/58bEBWRLvRZ9sUU7GweNIZ) | 4:03 |
 | 90 | [HOLE IN MY HEART](https://open.spotify.com/track/2sEQW09iEvYUu8WdnBZzSd) | [Alex Apolline](https://open.spotify.com/artist/45daMU0LyV9jLb0e8gbKvU) | [THE SUN FROM BOTH SIDES](https://open.spotify.com/album/4sQGptlAPSLA8MN4NP45bv) | 3:13 |
 
-Snapshot ID: `AAAAAINImuzYUHs16xMdxLWiMy8ua2+1`
+Snapshot ID: `AAAAANEniyOjNUp8PCD1E0Nh79EYEAf8`

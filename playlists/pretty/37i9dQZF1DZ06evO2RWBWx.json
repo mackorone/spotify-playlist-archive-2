@@ -6,7 +6,7 @@
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "awIwgAAAAABZPEaTJF7A9DZaQ0h0WbH1",
+  "snapshot_id": "awOCAAAAAADz/fa8EIcr0MtRi6dQTP7i",
   "tracks": [
     {
       "added_at": null,
@@ -231,8 +231,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "\u98a8\u306b\u306a\u308c\u308b\u306f\u305a",
-        "url": "https://open.spotify.com/album/7aZZDsYbHBvOuDXjxEB8QU"
+        "name": "\u540d\u524d\u306e\u306a\u3044\u65e5\u3005",
+        "url": "https://open.spotify.com/album/7hI2wmVbRhjWRRRGcjwyR1"
       },
       "artists": [
         {
@@ -240,9 +240,9 @@
           "url": "https://open.spotify.com/artist/4TaSvnT5o4REFwhqfrmK27"
         }
       ],
-      "duration_ms": 236856,
-      "name": "\u98a8\u306b\u306a\u308c\u308b\u306f\u305a",
-      "url": "https://open.spotify.com/track/3zjOOTnR1kFcS1OYVDjhob"
+      "duration_ms": 254842,
+      "name": "\u540d\u524d\u306e\u306a\u3044\u65e5\u3005",
+      "url": "https://open.spotify.com/track/78rUMtPs1p2zFebeMcmCZB"
     },
     {
       "added_at": null,
@@ -263,8 +263,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "\u540d\u524d\u306e\u306a\u3044\u65e5\u3005",
-        "url": "https://open.spotify.com/album/7hI2wmVbRhjWRRRGcjwyR1"
+        "name": "\u98a8\u306b\u306a\u308c\u308b\u306f\u305a",
+        "url": "https://open.spotify.com/album/7aZZDsYbHBvOuDXjxEB8QU"
       },
       "artists": [
         {
@@ -272,9 +272,9 @@
           "url": "https://open.spotify.com/artist/4TaSvnT5o4REFwhqfrmK27"
         }
       ],
-      "duration_ms": 254842,
-      "name": "\u540d\u524d\u306e\u306a\u3044\u65e5\u3005",
-      "url": "https://open.spotify.com/track/78rUMtPs1p2zFebeMcmCZB"
+      "duration_ms": 236856,
+      "name": "\u98a8\u306b\u306a\u308c\u308b\u306f\u305a",
+      "url": "https://open.spotify.com/track/3zjOOTnR1kFcS1OYVDjhob"
     },
     {
       "added_at": null,
@@ -295,8 +295,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "I say bye",
-        "url": "https://open.spotify.com/album/7GuwXufXafM8Fe5kmSdVHZ"
+        "name": "\u51e1\u624d",
+        "url": "https://open.spotify.com/album/2wKpub8y8xRkPboyfBvsEM"
       },
       "artists": [
         {
@@ -304,9 +304,9 @@
           "url": "https://open.spotify.com/artist/4TaSvnT5o4REFwhqfrmK27"
         }
       ],
-      "duration_ms": 180596,
-      "name": "I say bye",
-      "url": "https://open.spotify.com/track/3rnYiGxQPdzbUpktxZP3oN"
+      "duration_ms": 168120,
+      "name": "Rainy Driver",
+      "url": "https://open.spotify.com/track/7svKQMA0pJZmeYejScMa3G"
     },
     {
       "added_at": null,
@@ -327,8 +327,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "\u51e1\u624d",
-        "url": "https://open.spotify.com/album/2wKpub8y8xRkPboyfBvsEM"
+        "name": "I say bye",
+        "url": "https://open.spotify.com/album/7GuwXufXafM8Fe5kmSdVHZ"
       },
       "artists": [
         {
@@ -336,9 +336,9 @@
           "url": "https://open.spotify.com/artist/4TaSvnT5o4REFwhqfrmK27"
         }
       ],
-      "duration_ms": 168120,
-      "name": "Rainy Driver",
-      "url": "https://open.spotify.com/track/7svKQMA0pJZmeYejScMa3G"
+      "duration_ms": 180596,
+      "name": "I say bye",
+      "url": "https://open.spotify.com/track/3rnYiGxQPdzbUpktxZP3oN"
     },
     {
       "added_at": null,
@@ -464,9 +464,9 @@
           "url": "https://open.spotify.com/artist/4TaSvnT5o4REFwhqfrmK27"
         }
       ],
-      "duration_ms": 128065,
-      "name": "BONSAI",
-      "url": "https://open.spotify.com/track/4gv9id0HvLVhaQWp4jtfH7"
+      "duration_ms": 212826,
+      "name": "Happy Order?",
+      "url": "https://open.spotify.com/track/4xl4ZDZi9V5ZnWKUJyQzeW"
     },
     {
       "added_at": null,
@@ -487,18 +487,26 @@
     {
       "added_at": null,
       "album": {
-        "name": "\u30d2\u30ed\u30a4\u30f3",
-        "url": "https://open.spotify.com/album/4ZUaCxpjZyZjesAOJYPyv5"
+        "name": "\u30b3\u30b3\u30ed\u30a6\u30c1\u30e5\u30a6",
+        "url": "https://open.spotify.com/album/1NWysueydKyRT3RoEgEjBb"
       },
       "artists": [
         {
+          "name": "\u30cb\u30e3\u30f3\u3061\u3085\u3046\u30aa\u30fc\u30eb\u30b9\u30bf\u30fc\u30ba",
+          "url": "https://open.spotify.com/artist/4rHAi3k9q5g3pmlmM0JDEf"
+        },
+        {
           "name": "imase",
           "url": "https://open.spotify.com/artist/4TaSvnT5o4REFwhqfrmK27"
+        },
+        {
+          "name": "\u300e\u30e6\u30a4\u30ab\u300f",
+          "url": "https://open.spotify.com/artist/2EqaSEa0WkE59Aca9iXSYj"
         }
       ],
-      "duration_ms": 202333,
-      "name": "\u30d2\u30ed\u30a4\u30f3",
-      "url": "https://open.spotify.com/track/6ED3HJaMveomLnJDwDSQ37"
+      "duration_ms": 196000,
+      "name": "\u30b3\u30b3\u30ed\u30a6\u30c1\u30e5\u30a6",
+      "url": "https://open.spotify.com/track/0NEAt1CzccdplwulH7IvTu"
     },
     {
       "added_at": null,
@@ -528,33 +536,25 @@
           "url": "https://open.spotify.com/artist/4TaSvnT5o4REFwhqfrmK27"
         }
       ],
-      "duration_ms": 212826,
-      "name": "Happy Order?",
-      "url": "https://open.spotify.com/track/4xl4ZDZi9V5ZnWKUJyQzeW"
+      "duration_ms": 128065,
+      "name": "BONSAI",
+      "url": "https://open.spotify.com/track/4gv9id0HvLVhaQWp4jtfH7"
     },
     {
       "added_at": null,
       "album": {
-        "name": "\u30b3\u30b3\u30ed\u30a6\u30c1\u30e5\u30a6",
-        "url": "https://open.spotify.com/album/1NWysueydKyRT3RoEgEjBb"
+        "name": "\u30d2\u30ed\u30a4\u30f3",
+        "url": "https://open.spotify.com/album/4ZUaCxpjZyZjesAOJYPyv5"
       },
       "artists": [
         {
-          "name": "\u30cb\u30e3\u30f3\u3061\u3085\u3046\u30aa\u30fc\u30eb\u30b9\u30bf\u30fc\u30ba",
-          "url": "https://open.spotify.com/artist/4rHAi3k9q5g3pmlmM0JDEf"
-        },
-        {
           "name": "imase",
           "url": "https://open.spotify.com/artist/4TaSvnT5o4REFwhqfrmK27"
-        },
-        {
-          "name": "\u300e\u30e6\u30a4\u30ab\u300f",
-          "url": "https://open.spotify.com/artist/2EqaSEa0WkE59Aca9iXSYj"
         }
       ],
-      "duration_ms": 196000,
-      "name": "\u30b3\u30b3\u30ed\u30a6\u30c1\u30e5\u30a6",
-      "url": "https://open.spotify.com/track/0NEAt1CzccdplwulH7IvTu"
+      "duration_ms": 202333,
+      "name": "\u30d2\u30ed\u30a4\u30f3",
+      "url": "https://open.spotify.com/track/6ED3HJaMveomLnJDwDSQ37"
     },
     {
       "added_at": null,
@@ -631,22 +631,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "\u6e26",
-        "url": "https://open.spotify.com/album/7kYLEXVhvTilbDM67hrBub"
-      },
-      "artists": [
-        {
-          "name": "imase",
-          "url": "https://open.spotify.com/artist/4TaSvnT5o4REFwhqfrmK27"
-        }
-      ],
-      "duration_ms": 189203,
-      "name": "\u6e26",
-      "url": "https://open.spotify.com/track/5J1xalv6l7lze1AvFeLstR"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "18",
         "url": "https://open.spotify.com/album/4pyHUmAJzl9dZUvFwVzLe7"
       },
@@ -663,8 +647,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "FRIENDS!!!",
-        "url": "https://open.spotify.com/album/2y6GPV0mKA4ARESWO4vTBc"
+        "name": "\u6e26",
+        "url": "https://open.spotify.com/album/7kYLEXVhvTilbDM67hrBub"
       },
       "artists": [
         {
@@ -672,9 +656,9 @@
           "url": "https://open.spotify.com/artist/4TaSvnT5o4REFwhqfrmK27"
         }
       ],
-      "duration_ms": 232649,
-      "name": "FRIENDS!!!",
-      "url": "https://open.spotify.com/track/74w6Blyx8EeUHzCjJaynFx"
+      "duration_ms": 189203,
+      "name": "\u6e26",
+      "url": "https://open.spotify.com/track/5J1xalv6l7lze1AvFeLstR"
     },
     {
       "added_at": null,
@@ -723,6 +707,22 @@
       "duration_ms": 221460,
       "name": "Pale Rain",
       "url": "https://open.spotify.com/track/6YYC9PEH4T4rLTo5EcHgyF"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "FRIENDS!!!",
+        "url": "https://open.spotify.com/album/2y6GPV0mKA4ARESWO4vTBc"
+      },
+      "artists": [
+        {
+          "name": "imase",
+          "url": "https://open.spotify.com/artist/4TaSvnT5o4REFwhqfrmK27"
+        }
+      ],
+      "duration_ms": 232649,
+      "name": "FRIENDS!!!",
+      "url": "https://open.spotify.com/track/74w6Blyx8EeUHzCjJaynFx"
     },
     {
       "added_at": null,

@@ -1,12 +1,12 @@
 {
   "description": "All the best new songs from the pop punk scene. Cover: Like Roses",
-  "num_followers": 604718,
+  "num_followers": 604692,
   "original_name": "Pop Punk's Not Dead",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAFEaoyZdEK6meydDxD28SB+B873F",
+  "snapshot_id": "AAAAABpwJ8UEJayGNELXvTDnrbDORh39",
   "tracks": [
     {
       "added_at": "2026-10-23 04:01:58",
@@ -831,18 +831,18 @@
     {
       "added_at": "2026-10-23 04:01:58",
       "album": {
-        "name": "Stare at the Sun",
-        "url": "https://open.spotify.com/album/1gnGoWFZChwOHLXYllPKEy"
+        "name": "FAKE FEELINGS",
+        "url": "https://open.spotify.com/album/0Z87ON0ERp62oEq898whkF"
       },
       "artists": [
         {
-          "name": "Makari",
-          "url": "https://open.spotify.com/artist/4YW1GDcW9hobRPMDi8v6XH"
+          "name": "all in ur head",
+          "url": "https://open.spotify.com/artist/4N6UmTDmrZtbku2ZfdfIDd"
         }
       ],
-      "duration_ms": 172941,
-      "name": "Stare at the Sun",
-      "url": "https://open.spotify.com/track/3n9SUVGqDwNKaRPeOjeEcC"
+      "duration_ms": 185741,
+      "name": "FAKE FEELINGS",
+      "url": "https://open.spotify.com/track/5VvE6jfg00Mt17bGDTKVP5"
     },
     {
       "added_at": "2026-10-23 04:01:58",
@@ -867,6 +867,22 @@
     {
       "added_at": "2026-10-23 04:01:58",
       "album": {
+        "name": "Stare at the Sun",
+        "url": "https://open.spotify.com/album/1gnGoWFZChwOHLXYllPKEy"
+      },
+      "artists": [
+        {
+          "name": "Makari",
+          "url": "https://open.spotify.com/artist/4YW1GDcW9hobRPMDi8v6XH"
+        }
+      ],
+      "duration_ms": 172941,
+      "name": "Stare at the Sun",
+      "url": "https://open.spotify.com/track/3n9SUVGqDwNKaRPeOjeEcC"
+    },
+    {
+      "added_at": "2026-10-23 04:01:58",
+      "album": {
         "name": "Big Couch",
         "url": "https://open.spotify.com/album/63AHpXbfKdMuJlzZpCTujr"
       },
@@ -883,18 +899,18 @@
     {
       "added_at": "2026-10-23 04:01:58",
       "album": {
-        "name": "FAKE FEELINGS",
-        "url": "https://open.spotify.com/album/0Z87ON0ERp62oEq898whkF"
+        "name": "Deadbeat",
+        "url": "https://open.spotify.com/album/0LxegpHfZguBMHYKM5oVFK"
       },
       "artists": [
         {
-          "name": "all in ur head",
-          "url": "https://open.spotify.com/artist/4N6UmTDmrZtbku2ZfdfIDd"
+          "name": "Fluorescents",
+          "url": "https://open.spotify.com/artist/3k7eYa4LVI5wqhLj7PACE2"
         }
       ],
-      "duration_ms": 185741,
-      "name": "FAKE FEELINGS",
-      "url": "https://open.spotify.com/track/5VvE6jfg00Mt17bGDTKVP5"
+      "duration_ms": 190000,
+      "name": "Deadbeat",
+      "url": "https://open.spotify.com/track/0HekjtwjtV06N95r56zLmA"
     },
     {
       "added_at": "2026-10-23 04:01:58",
@@ -911,22 +927,6 @@
       "duration_ms": 176381,
       "name": "Butterfly Effect",
       "url": "https://open.spotify.com/track/0LlYTDPa9zOcmbxbQadKG4"
-    },
-    {
-      "added_at": "2026-10-23 04:01:58",
-      "album": {
-        "name": "Deadbeat",
-        "url": "https://open.spotify.com/album/0LxegpHfZguBMHYKM5oVFK"
-      },
-      "artists": [
-        {
-          "name": "Fluorescents",
-          "url": "https://open.spotify.com/artist/3k7eYa4LVI5wqhLj7PACE2"
-        }
-      ],
-      "duration_ms": 190000,
-      "name": "Deadbeat",
-      "url": "https://open.spotify.com/track/0HekjtwjtV06N95r56zLmA"
     },
     {
       "added_at": "2026-10-23 04:01:58",
@@ -1035,6 +1035,22 @@
     {
       "added_at": "2026-10-23 04:01:58",
       "album": {
+        "name": "Sad",
+        "url": "https://open.spotify.com/album/7AglGpevhw3sJGjgYKVgW9"
+      },
+      "artists": [
+        {
+          "name": "Mayday Parade",
+          "url": "https://open.spotify.com/artist/3WfJ1OtrWI7RViX9DMyEGy"
+        }
+      ],
+      "duration_ms": 218583,
+      "name": "Under My Sweater",
+      "url": "https://open.spotify.com/track/4UEJAEpEXaTvP8mu6JDeRn"
+    },
+    {
+      "added_at": "2026-10-23 04:01:58",
+      "album": {
         "name": "That's So True",
         "url": "https://open.spotify.com/album/3FvX4IEMpHelqrHziNfqj4"
       },
@@ -1095,22 +1111,6 @@
       "duration_ms": 191475,
       "name": "Common Sense",
       "url": "https://open.spotify.com/track/6I9nwHabyomUdktg1UdRB6"
-    },
-    {
-      "added_at": "2026-10-23 04:01:58",
-      "album": {
-        "name": "Sad",
-        "url": "https://open.spotify.com/album/7AglGpevhw3sJGjgYKVgW9"
-      },
-      "artists": [
-        {
-          "name": "Mayday Parade",
-          "url": "https://open.spotify.com/artist/3WfJ1OtrWI7RViX9DMyEGy"
-        }
-      ],
-      "duration_ms": 218583,
-      "name": "Under My Sweater",
-      "url": "https://open.spotify.com/track/4UEJAEpEXaTvP8mu6JDeRn"
     },
     {
       "added_at": "2026-10-23 04:01:58",
@@ -1195,22 +1195,6 @@
     {
       "added_at": "2026-10-23 04:01:58",
       "album": {
-        "name": "Moments Before The Wind (Deluxe)",
-        "url": "https://open.spotify.com/album/2TBomMshXvL6lQZpt2CG3r"
-      },
-      "artists": [
-        {
-          "name": "Free Throw",
-          "url": "https://open.spotify.com/artist/49b68DLRK5eCbtJf7Xx4Cc"
-        }
-      ],
-      "duration_ms": 155000,
-      "name": "Phoenix Down",
-      "url": "https://open.spotify.com/track/2KTXPQ7PG1Z4yrjAmmsjdl"
-    },
-    {
-      "added_at": "2026-10-23 04:01:58",
-      "album": {
         "name": "By My Side",
         "url": "https://open.spotify.com/album/22jvQUpeTifAL3JSyptoeX"
       },
@@ -1223,6 +1207,22 @@
       "duration_ms": 209625,
       "name": "By My Side",
       "url": "https://open.spotify.com/track/37WXuf4FKCFgJ58YOHqTIu"
+    },
+    {
+      "added_at": "2026-10-23 04:01:58",
+      "album": {
+        "name": "Moments Before The Wind (Deluxe)",
+        "url": "https://open.spotify.com/album/2TBomMshXvL6lQZpt2CG3r"
+      },
+      "artists": [
+        {
+          "name": "Free Throw",
+          "url": "https://open.spotify.com/artist/49b68DLRK5eCbtJf7Xx4Cc"
+        }
+      ],
+      "duration_ms": 155000,
+      "name": "Phoenix Down",
+      "url": "https://open.spotify.com/track/2KTXPQ7PG1Z4yrjAmmsjdl"
     },
     {
       "added_at": "2026-10-23 04:01:58",
@@ -1279,22 +1279,6 @@
     {
       "added_at": "2026-10-23 04:01:58",
       "album": {
-        "name": "Moments Before The Wind",
-        "url": "https://open.spotify.com/album/3PFZyu1ND2jxImmSSonOng"
-      },
-      "artists": [
-        {
-          "name": "Free Throw",
-          "url": "https://open.spotify.com/artist/49b68DLRK5eCbtJf7Xx4Cc"
-        }
-      ],
-      "duration_ms": 189915,
-      "name": "MissingNo.",
-      "url": "https://open.spotify.com/track/2jJkqTRSJ9EHIGQXckDW20"
-    },
-    {
-      "added_at": "2026-10-23 04:01:58",
-      "album": {
         "name": "Extremely Fragile Human Being",
         "url": "https://open.spotify.com/album/06wGyYh7RZtH8vvtxugpSw"
       },
@@ -1307,6 +1291,22 @@
       "duration_ms": 190673,
       "name": "Be Someone",
       "url": "https://open.spotify.com/track/5JC10odokU2ja6RDJjc3mZ"
+    },
+    {
+      "added_at": "2026-10-23 04:01:58",
+      "album": {
+        "name": "Moments Before The Wind",
+        "url": "https://open.spotify.com/album/3PFZyu1ND2jxImmSSonOng"
+      },
+      "artists": [
+        {
+          "name": "Free Throw",
+          "url": "https://open.spotify.com/artist/49b68DLRK5eCbtJf7Xx4Cc"
+        }
+      ],
+      "duration_ms": 189915,
+      "name": "MissingNo.",
+      "url": "https://open.spotify.com/track/2jJkqTRSJ9EHIGQXckDW20"
     },
     {
       "added_at": "2026-10-23 04:01:58",
@@ -1443,22 +1443,6 @@
     {
       "added_at": "2026-10-23 04:01:58",
       "album": {
-        "name": "Pain In My Chest",
-        "url": "https://open.spotify.com/album/4BgUVBqz07FTh0yMiCGBG4"
-      },
-      "artists": [
-        {
-          "name": "Meet Me @ The Altar",
-          "url": "https://open.spotify.com/artist/4bzfsZhaLW6VWHLh1sqcrK"
-        }
-      ],
-      "duration_ms": 222700,
-      "name": "Pain In My Chest",
-      "url": "https://open.spotify.com/track/0YobqklTgLRvmzE0P6Odly"
-    },
-    {
-      "added_at": "2026-10-23 04:01:58",
-      "album": {
         "name": "Someone You Need",
         "url": "https://open.spotify.com/album/7vwwoea4VauM5Jt2PRPbdy"
       },
@@ -1471,6 +1455,22 @@
       "duration_ms": 183375,
       "name": "Someone You Need",
       "url": "https://open.spotify.com/track/28aV10DPdhF068Utw7d4ZY"
+    },
+    {
+      "added_at": "2026-10-23 04:01:58",
+      "album": {
+        "name": "Pain In My Chest",
+        "url": "https://open.spotify.com/album/4BgUVBqz07FTh0yMiCGBG4"
+      },
+      "artists": [
+        {
+          "name": "Meet Me @ The Altar",
+          "url": "https://open.spotify.com/artist/4bzfsZhaLW6VWHLh1sqcrK"
+        }
+      ],
+      "duration_ms": 222700,
+      "name": "Pain In My Chest",
+      "url": "https://open.spotify.com/track/0YobqklTgLRvmzE0P6Odly"
     },
     {
       "added_at": "2026-10-23 04:01:58",
@@ -1491,18 +1491,18 @@
     {
       "added_at": "2026-10-23 04:01:58",
       "album": {
-        "name": "Ray Hawthorne Can't Be Trusted",
-        "url": "https://open.spotify.com/album/34FoGD5SVFX5W33yOxtBT8"
+        "name": "A Place Like This",
+        "url": "https://open.spotify.com/album/7hlgWv92V8NLFNoY2K2x1z"
       },
       "artists": [
         {
-          "name": "Ray Hawthorne",
-          "url": "https://open.spotify.com/artist/0J5nCTJjXFkd88GfmZX1K2"
+          "name": "Grave Secrets",
+          "url": "https://open.spotify.com/artist/7kYAkWC1PaiB9QXwAh0MVo"
         }
       ],
-      "duration_ms": 178119,
-      "name": "Bummer",
-      "url": "https://open.spotify.com/track/0loJzrN5qLXFW7m4X8u1tU"
+      "duration_ms": 159786,
+      "name": "Cherry Chapstick",
+      "url": "https://open.spotify.com/track/7k9z20CcZWLWMFJI72r3vm"
     },
     {
       "added_at": "2026-10-23 04:01:58",
@@ -1523,6 +1523,22 @@
     {
       "added_at": "2026-10-23 04:01:58",
       "album": {
+        "name": "Ray Hawthorne Can't Be Trusted",
+        "url": "https://open.spotify.com/album/34FoGD5SVFX5W33yOxtBT8"
+      },
+      "artists": [
+        {
+          "name": "Ray Hawthorne",
+          "url": "https://open.spotify.com/artist/0J5nCTJjXFkd88GfmZX1K2"
+        }
+      ],
+      "duration_ms": 178119,
+      "name": "Bummer",
+      "url": "https://open.spotify.com/track/0loJzrN5qLXFW7m4X8u1tU"
+    },
+    {
+      "added_at": "2026-10-23 04:01:58",
+      "album": {
         "name": "As It Is",
         "url": "https://open.spotify.com/album/4SwZk5yMVhVTy2QV98w7mK"
       },
@@ -1535,38 +1551,6 @@
       "duration_ms": 213364,
       "name": "Do You Remember?",
       "url": "https://open.spotify.com/track/3CyB1pFsEIqtlDw61JzWEm"
-    },
-    {
-      "added_at": "2026-10-23 04:01:58",
-      "album": {
-        "name": "A Place Like This",
-        "url": "https://open.spotify.com/album/7hlgWv92V8NLFNoY2K2x1z"
-      },
-      "artists": [
-        {
-          "name": "Grave Secrets",
-          "url": "https://open.spotify.com/artist/7kYAkWC1PaiB9QXwAh0MVo"
-        }
-      ],
-      "duration_ms": 159786,
-      "name": "Cherry Chapstick",
-      "url": "https://open.spotify.com/track/7k9z20CcZWLWMFJI72r3vm"
-    },
-    {
-      "added_at": "2026-10-23 04:01:58",
-      "album": {
-        "name": "when we were friends",
-        "url": "https://open.spotify.com/album/0EKr0IF82LGWsTFMJJygT3"
-      },
-      "artists": [
-        {
-          "name": "Pinkshift",
-          "url": "https://open.spotify.com/artist/3bfSaJqEYosPcdoCN06G3P"
-        }
-      ],
-      "duration_ms": 145800,
-      "name": "when we were friends",
-      "url": "https://open.spotify.com/track/6VleKNFc2xxqiQSAPUBnRR"
     },
     {
       "added_at": "2026-10-23 04:01:58",
@@ -1603,6 +1587,22 @@
     {
       "added_at": "2026-10-23 04:01:58",
       "album": {
+        "name": "when we were friends",
+        "url": "https://open.spotify.com/album/0EKr0IF82LGWsTFMJJygT3"
+      },
+      "artists": [
+        {
+          "name": "Pinkshift",
+          "url": "https://open.spotify.com/artist/3bfSaJqEYosPcdoCN06G3P"
+        }
+      ],
+      "duration_ms": 145800,
+      "name": "when we were friends",
+      "url": "https://open.spotify.com/track/6VleKNFc2xxqiQSAPUBnRR"
+    },
+    {
+      "added_at": "2026-10-23 04:01:58",
+      "album": {
         "name": "Fields Behind The House",
         "url": "https://open.spotify.com/album/7v2BjRHb8j9D90khy7VPJF"
       },
@@ -1635,22 +1635,6 @@
     {
       "added_at": "2026-10-23 04:01:58",
       "album": {
-        "name": "I Feel Like Shit And It's All Your Fault",
-        "url": "https://open.spotify.com/album/0xRwUTIex3TLyNLzKkfYHn"
-      },
-      "artists": [
-        {
-          "name": "Lina-Mariah",
-          "url": "https://open.spotify.com/artist/3oCoTG5YGC6Z8cqH942oav"
-        }
-      ],
-      "duration_ms": 177236,
-      "name": "Hate My Mom",
-      "url": "https://open.spotify.com/track/1IeLyvjv9fwB8HalE2Fr4O"
-    },
-    {
-      "added_at": "2026-10-23 04:01:58",
-      "album": {
         "name": "Give or Take",
         "url": "https://open.spotify.com/album/3OC3EE2AUL6cu81szg0rQu"
       },
@@ -1663,6 +1647,22 @@
       "duration_ms": 203444,
       "name": "Give or Take",
       "url": "https://open.spotify.com/track/1WqcU47Rm0e94bWzltV4vl"
+    },
+    {
+      "added_at": "2026-10-23 04:01:58",
+      "album": {
+        "name": "I Feel Like Shit And It's All Your Fault",
+        "url": "https://open.spotify.com/album/0xRwUTIex3TLyNLzKkfYHn"
+      },
+      "artists": [
+        {
+          "name": "Lina-Mariah",
+          "url": "https://open.spotify.com/artist/3oCoTG5YGC6Z8cqH942oav"
+        }
+      ],
+      "duration_ms": 177236,
+      "name": "Hate My Mom",
+      "url": "https://open.spotify.com/track/1IeLyvjv9fwB8HalE2Fr4O"
     },
     {
       "added_at": "2026-10-23 04:01:58",
@@ -1715,6 +1715,22 @@
     {
       "added_at": "2026-10-23 04:01:58",
       "album": {
+        "name": "Oxy Moron",
+        "url": "https://open.spotify.com/album/3lVC4YhcGK3nmktbvCTts6"
+      },
+      "artists": [
+        {
+          "name": "Cartel",
+          "url": "https://open.spotify.com/artist/6wQMF27xWhSyJFnO9L5mQk"
+        }
+      ],
+      "duration_ms": 246433,
+      "name": "Oxy Moron",
+      "url": "https://open.spotify.com/track/3JTy5HftSASB9yTXwoRTAn"
+    },
+    {
+      "added_at": "2026-10-23 04:01:58",
+      "album": {
         "name": "Not The Doctor ('Mile End Kicks' - Music Inspired by the Motion Picture)",
         "url": "https://open.spotify.com/album/4W622Tk0Epvc3bSZXtPN42"
       },
@@ -1731,22 +1747,6 @@
       "duration_ms": 222550,
       "name": "Not The Doctor - 'Mile End Kicks' - Music Inspired by the Motion Picture",
       "url": "https://open.spotify.com/track/49uuAUIKXWeG4e8xStGKEB"
-    },
-    {
-      "added_at": "2026-10-23 04:01:58",
-      "album": {
-        "name": "Oxy Moron",
-        "url": "https://open.spotify.com/album/3lVC4YhcGK3nmktbvCTts6"
-      },
-      "artists": [
-        {
-          "name": "Cartel",
-          "url": "https://open.spotify.com/artist/6wQMF27xWhSyJFnO9L5mQk"
-        }
-      ],
-      "duration_ms": 246433,
-      "name": "Oxy Moron",
-      "url": "https://open.spotify.com/track/3JTy5HftSASB9yTXwoRTAn"
     },
     {
       "added_at": "2026-10-23 04:01:58",
@@ -1783,22 +1783,6 @@
     {
       "added_at": "2026-10-23 04:01:58",
       "album": {
-        "name": "NORTHERN LIGHTS//",
-        "url": "https://open.spotify.com/album/3bZ8pVQSBpeGqJjMC5bB43"
-      },
-      "artists": [
-        {
-          "name": "KennyHoopla",
-          "url": "https://open.spotify.com/artist/5ObBtv5VunwwhQaXXnUrsM"
-        }
-      ],
-      "duration_ms": 280065,
-      "name": "NORTHERN LIGHTS//",
-      "url": "https://open.spotify.com/track/3sC1NBKIjCtkR7tIOzdFSj"
-    },
-    {
-      "added_at": "2026-10-23 04:01:58",
-      "album": {
         "name": "Die A Million Times",
         "url": "https://open.spotify.com/album/0HEF2ivJVzvDrbJggVouGp"
       },
@@ -1811,6 +1795,22 @@
       "duration_ms": 206400,
       "name": "Die A Million Times",
       "url": "https://open.spotify.com/track/13vBvwz8OIu1gbgKWFCsir"
+    },
+    {
+      "added_at": "2026-10-23 04:01:58",
+      "album": {
+        "name": "NORTHERN LIGHTS//",
+        "url": "https://open.spotify.com/album/3bZ8pVQSBpeGqJjMC5bB43"
+      },
+      "artists": [
+        {
+          "name": "KennyHoopla",
+          "url": "https://open.spotify.com/artist/5ObBtv5VunwwhQaXXnUrsM"
+        }
+      ],
+      "duration_ms": 280065,
+      "name": "NORTHERN LIGHTS//",
+      "url": "https://open.spotify.com/track/3sC1NBKIjCtkR7tIOzdFSj"
     },
     {
       "added_at": "2026-10-23 04:01:58",
@@ -1911,22 +1911,6 @@
     {
       "added_at": "2026-10-23 04:01:58",
       "album": {
-        "name": "You Wanna Fade?",
-        "url": "https://open.spotify.com/album/5U51CwRUXkYgYjeIaWUaGb"
-      },
-      "artists": [
-        {
-          "name": "Alien Boy",
-          "url": "https://open.spotify.com/artist/65vqyT3OjG2zvb3cO1s44j"
-        }
-      ],
-      "duration_ms": 230010,
-      "name": "Changes",
-      "url": "https://open.spotify.com/track/2VjI9YVlSxVDPzth59lMAb"
-    },
-    {
-      "added_at": "2026-10-23 04:01:58",
-      "album": {
         "name": "6SPEED",
         "url": "https://open.spotify.com/album/2ENDgbxygyyv5GEYDq4EEt"
       },
@@ -1939,6 +1923,22 @@
       "duration_ms": 182000,
       "name": "6SPEED",
       "url": "https://open.spotify.com/track/50YqXG4WbLBYndkE7wPztt"
+    },
+    {
+      "added_at": "2026-10-23 04:01:58",
+      "album": {
+        "name": "You Wanna Fade?",
+        "url": "https://open.spotify.com/album/5U51CwRUXkYgYjeIaWUaGb"
+      },
+      "artists": [
+        {
+          "name": "Alien Boy",
+          "url": "https://open.spotify.com/artist/65vqyT3OjG2zvb3cO1s44j"
+        }
+      ],
+      "duration_ms": 230010,
+      "name": "Changes",
+      "url": "https://open.spotify.com/track/2VjI9YVlSxVDPzth59lMAb"
     },
     {
       "added_at": "2026-10-23 04:01:58",

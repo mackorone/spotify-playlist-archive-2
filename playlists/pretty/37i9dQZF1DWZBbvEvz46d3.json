@@ -1,12 +1,12 @@
 {
   "description": "Nowe przeboje i ponadczasowe klasyki o  mi\u0142o\u015bci. Tylko po polsku.",
-  "num_followers": 76882,
+  "num_followers": 76883,
   "original_name": "Polskie hity o mi\u0142o\u015bci",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAACY1jSxoptwsRdAgVG62ILIIowlG",
+  "snapshot_id": "AAAAAHZ9NEZBVbs9bgGG8Ujk8/8FyEMJ",
   "tracks": [
     {
       "added_at": "2025-10-16 09:34:51",
@@ -539,22 +539,6 @@
     {
       "added_at": "2025-10-16 09:34:51",
       "album": {
-        "name": "Ma\u0142omiasteczkowy",
-        "url": "https://open.spotify.com/album/00hXe7ttZI4gjjWYqKAdMX"
-      },
-      "artists": [
-        {
-          "name": "Dawid Podsiad\u0142o",
-          "url": "https://open.spotify.com/artist/6EB8VE9f7Ut6NOgviN6gDW"
-        }
-      ],
-      "duration_ms": 229666,
-      "name": "Najnowszy Klip",
-      "url": "https://open.spotify.com/track/35UvOH0tRlSCdtWtaXuiWh"
-    },
-    {
-      "added_at": "2025-10-16 09:34:51",
-      "album": {
         "name": "Ania Karwan",
         "url": "https://open.spotify.com/album/3tXnKtoEc9lzcWOy5EnkZA"
       },
@@ -567,6 +551,22 @@
       "duration_ms": 197764,
       "name": "S\u0142ucham Ci\u0119 w radiu co tydzie\u0144",
       "url": "https://open.spotify.com/track/6h0UXt92WNnRthd0t1AVaq"
+    },
+    {
+      "added_at": "2025-10-16 09:34:51",
+      "album": {
+        "name": "Ma\u0142omiasteczkowy",
+        "url": "https://open.spotify.com/album/00hXe7ttZI4gjjWYqKAdMX"
+      },
+      "artists": [
+        {
+          "name": "Dawid Podsiad\u0142o",
+          "url": "https://open.spotify.com/artist/6EB8VE9f7Ut6NOgviN6gDW"
+        }
+      ],
+      "duration_ms": 229666,
+      "name": "Najnowszy Klip",
+      "url": "https://open.spotify.com/track/35UvOH0tRlSCdtWtaXuiWh"
     },
     {
       "added_at": "2025-10-16 09:34:51",
@@ -631,22 +631,6 @@
     {
       "added_at": "2025-10-16 09:34:51",
       "album": {
-        "name": "Comfort and Happiness",
-        "url": "https://open.spotify.com/album/3Ku50CLulJHPS5DTKRNyaM"
-      },
-      "artists": [
-        {
-          "name": "Dawid Podsiad\u0142o",
-          "url": "https://open.spotify.com/artist/6EB8VE9f7Ut6NOgviN6gDW"
-        }
-      ],
-      "duration_ms": 243066,
-      "name": "Tr\u00f3jk\u0105ty i Kwadraty",
-      "url": "https://open.spotify.com/track/3v0fVON6z5CnRlle3SJZU1"
-    },
-    {
-      "added_at": "2025-10-16 09:34:51",
-      "album": {
         "name": "Komponuj\u0105c siebie",
         "url": "https://open.spotify.com/album/0BUCC6q7Y8lFrX6cBU7Llh"
       },
@@ -659,6 +643,22 @@
       "duration_ms": 184514,
       "name": "Ksi\u0119\u017cniczka",
       "url": "https://open.spotify.com/track/7Hd16iz8di8JQkdNkajYJ4"
+    },
+    {
+      "added_at": "2025-10-16 09:34:51",
+      "album": {
+        "name": "Comfort and Happiness",
+        "url": "https://open.spotify.com/album/3Ku50CLulJHPS5DTKRNyaM"
+      },
+      "artists": [
+        {
+          "name": "Dawid Podsiad\u0142o",
+          "url": "https://open.spotify.com/artist/6EB8VE9f7Ut6NOgviN6gDW"
+        }
+      ],
+      "duration_ms": 243066,
+      "name": "Tr\u00f3jk\u0105ty i Kwadraty",
+      "url": "https://open.spotify.com/track/3v0fVON6z5CnRlle3SJZU1"
     },
     {
       "added_at": "2025-10-16 09:34:51",
@@ -711,6 +711,22 @@
     {
       "added_at": "2025-10-16 09:34:51",
       "album": {
+        "name": "Motyle",
+        "url": "https://open.spotify.com/album/00FcCZBbHD1FmOfn3FdDHj"
+      },
+      "artists": [
+        {
+          "name": "Sylwia Grzeszczak",
+          "url": "https://open.spotify.com/artist/2TRVhYMkHV4jwB92R3McaS"
+        }
+      ],
+      "duration_ms": 175667,
+      "name": "Motyle",
+      "url": "https://open.spotify.com/track/1Eaiv6OMMwO3v4iWl4eHHY"
+    },
+    {
+      "added_at": "2025-10-16 09:34:51",
+      "album": {
         "name": "Duety",
         "url": "https://open.spotify.com/album/2ubxdOP13B5rWDTeEHPw1t"
       },
@@ -727,22 +743,6 @@
       "duration_ms": 263853,
       "name": "Trudno tak (razem byc nam ze soba)",
       "url": "https://open.spotify.com/track/2XaWRFfWAopw4MjhWzuJ15"
-    },
-    {
-      "added_at": "2025-10-16 09:34:51",
-      "album": {
-        "name": "Motyle",
-        "url": "https://open.spotify.com/album/00FcCZBbHD1FmOfn3FdDHj"
-      },
-      "artists": [
-        {
-          "name": "Sylwia Grzeszczak",
-          "url": "https://open.spotify.com/artist/2TRVhYMkHV4jwB92R3McaS"
-        }
-      ],
-      "duration_ms": 175667,
-      "name": "Motyle",
-      "url": "https://open.spotify.com/track/1Eaiv6OMMwO3v4iWl4eHHY"
     },
     {
       "added_at": "2025-10-16 09:34:51",
@@ -775,6 +775,22 @@
       "duration_ms": 189000,
       "name": "Nic dwa razy (W. Szymborska)",
       "url": "https://open.spotify.com/track/6C5A0xV8tvW8NqzLUb2xt1"
+    },
+    {
+      "added_at": "2025-10-16 09:34:51",
+      "album": {
+        "name": "Mi\u0142o\u015b\u0107 w czasach popkultury",
+        "url": "https://open.spotify.com/album/7A0cDRZUQt4GhpSrMSfUcQ"
+      },
+      "artists": [
+        {
+          "name": "Myslovitz",
+          "url": "https://open.spotify.com/artist/3sntDD4Y2K97qvDq3GPqZ5"
+        }
+      ],
+      "duration_ms": 206186,
+      "name": "My",
+      "url": "https://open.spotify.com/track/7JwyKyBWo65WaJA6zcYxjR"
     },
     {
       "added_at": "2025-10-16 09:34:51",
@@ -823,18 +839,18 @@
     {
       "added_at": "2025-10-16 09:34:51",
       "album": {
-        "name": "Mi\u0142o\u015b\u0107 w czasach popkultury",
-        "url": "https://open.spotify.com/album/7A0cDRZUQt4GhpSrMSfUcQ"
+        "name": "Szok 'N' Show",
+        "url": "https://open.spotify.com/album/13Lel55hdHNJejfro8RJKH"
       },
       "artists": [
         {
-          "name": "Myslovitz",
-          "url": "https://open.spotify.com/artist/3sntDD4Y2K97qvDq3GPqZ5"
+          "name": "Edyta Bartosiewicz",
+          "url": "https://open.spotify.com/artist/1MrKvFb6ie6bTXGpSEYx0g"
         }
       ],
-      "duration_ms": 206186,
-      "name": "My",
-      "url": "https://open.spotify.com/track/7JwyKyBWo65WaJA6zcYxjR"
+      "duration_ms": 304666,
+      "name": "Ostatni",
+      "url": "https://open.spotify.com/track/4EbrkWbN93ZMN6bCiol0YX"
     },
     {
       "added_at": "2025-10-16 09:34:51",
@@ -855,22 +871,6 @@
       "duration_ms": 104733,
       "name": "B\u0119dziesz moj\u0105 pani\u0105",
       "url": "https://open.spotify.com/track/34BMY6d2POkFLERCJPOrlS"
-    },
-    {
-      "added_at": "2025-10-16 09:34:51",
-      "album": {
-        "name": "Szok 'N' Show",
-        "url": "https://open.spotify.com/album/13Lel55hdHNJejfro8RJKH"
-      },
-      "artists": [
-        {
-          "name": "Edyta Bartosiewicz",
-          "url": "https://open.spotify.com/artist/1MrKvFb6ie6bTXGpSEYx0g"
-        }
-      ],
-      "duration_ms": 304666,
-      "name": "Ostatni",
-      "url": "https://open.spotify.com/track/4EbrkWbN93ZMN6bCiol0YX"
     },
     {
       "added_at": "2025-10-16 09:34:51",
@@ -907,18 +907,22 @@
     {
       "added_at": "2025-10-16 09:34:51",
       "album": {
-        "name": "O nich, o Tobie",
-        "url": "https://open.spotify.com/album/08ViqDYKABc3OpTCh4Ng5r"
+        "name": "Tamta dziewczyna",
+        "url": "https://open.spotify.com/album/10xXsahXWCsHQDS5IR82QN"
       },
       "artists": [
         {
           "name": "Sylwia Grzeszczak",
           "url": "https://open.spotify.com/artist/2TRVhYMkHV4jwB92R3McaS"
+        },
+        {
+          "name": "Mateusz Zi\u00f3\u0142ko",
+          "url": "https://open.spotify.com/artist/0bfBH61NEvZOmVTUyUL1yO"
         }
       ],
-      "duration_ms": 147417,
-      "name": "O nich, o Tobie",
-      "url": "https://open.spotify.com/track/129VFFHvkAzwpYHqTrmtKB"
+      "duration_ms": 222865,
+      "name": "Bezdro\u017ca (feat. Mateusz Zi\u00f3\u0142ko)",
+      "url": "https://open.spotify.com/track/3uLUwh8j0KWi9kyynQ3nUI"
     },
     {
       "added_at": "2025-10-16 09:34:51",
@@ -991,22 +995,18 @@
     {
       "added_at": "2025-10-16 09:34:51",
       "album": {
-        "name": "Tamta dziewczyna",
-        "url": "https://open.spotify.com/album/10xXsahXWCsHQDS5IR82QN"
+        "name": "O nich, o Tobie",
+        "url": "https://open.spotify.com/album/08ViqDYKABc3OpTCh4Ng5r"
       },
       "artists": [
         {
           "name": "Sylwia Grzeszczak",
           "url": "https://open.spotify.com/artist/2TRVhYMkHV4jwB92R3McaS"
-        },
-        {
-          "name": "Mateusz Zi\u00f3\u0142ko",
-          "url": "https://open.spotify.com/artist/0bfBH61NEvZOmVTUyUL1yO"
         }
       ],
-      "duration_ms": 222865,
-      "name": "Bezdro\u017ca (feat. Mateusz Zi\u00f3\u0142ko)",
-      "url": "https://open.spotify.com/track/3uLUwh8j0KWi9kyynQ3nUI"
+      "duration_ms": 147417,
+      "name": "O nich, o Tobie",
+      "url": "https://open.spotify.com/track/129VFFHvkAzwpYHqTrmtKB"
     },
     {
       "added_at": "2025-10-16 09:34:51",
@@ -1203,22 +1203,6 @@
     {
       "added_at": "2025-10-16 09:34:51",
       "album": {
-        "name": "NATinterpretacje",
-        "url": "https://open.spotify.com/album/6PojSY8WZEY6Pbr9eQmrtV"
-      },
-      "artists": [
-        {
-          "name": "Natalia Szroeder",
-          "url": "https://open.spotify.com/artist/2DhJauCHKgwVilZO9A8og3"
-        }
-      ],
-      "duration_ms": 184270,
-      "name": "Zamieni\u0119 ci\u0119",
-      "url": "https://open.spotify.com/track/38TfzGmItoEUpJs4kVpqq3"
-    },
-    {
-      "added_at": "2025-10-16 09:34:51",
-      "album": {
         "name": "Tylko Mnie Kochaj",
         "url": "https://open.spotify.com/album/2oHewePut3hKygGxcCNaLR"
       },
@@ -1235,8 +1219,24 @@
     {
       "added_at": "2025-10-16 09:34:51",
       "album": {
-        "name": "M\u00f3j dom",
-        "url": "https://open.spotify.com/album/6j3XzrGQ3yatMc9hqAM5DJ"
+        "name": "NATinterpretacje",
+        "url": "https://open.spotify.com/album/6PojSY8WZEY6Pbr9eQmrtV"
+      },
+      "artists": [
+        {
+          "name": "Natalia Szroeder",
+          "url": "https://open.spotify.com/artist/2DhJauCHKgwVilZO9A8og3"
+        }
+      ],
+      "duration_ms": 184270,
+      "name": "Zamieni\u0119 ci\u0119",
+      "url": "https://open.spotify.com/track/38TfzGmItoEUpJs4kVpqq3"
+    },
+    {
+      "added_at": "2025-10-16 09:34:51",
+      "album": {
+        "name": "Bumerang",
+        "url": "https://open.spotify.com/album/1dXikLZ5jGqZ3y3dfR0ugt"
       },
       "artists": [
         {
@@ -1244,9 +1244,9 @@
           "url": "https://open.spotify.com/artist/6o7xoNMeAUgi1SVl9rHYNk"
         }
       ],
-      "duration_ms": 212915,
-      "name": "Dobrze, \u017ce Ci\u0119 mam",
-      "url": "https://open.spotify.com/track/3zkRnBtA9RYxjkwEdDdfXF"
+      "duration_ms": 246771,
+      "name": "Zosta\u0144",
+      "url": "https://open.spotify.com/track/4Pslf0rV8BsQVYmXjdei37"
     },
     {
       "added_at": "2025-10-16 09:34:51",
@@ -1299,18 +1299,18 @@
     {
       "added_at": "2025-10-16 09:34:51",
       "album": {
-        "name": "Revolving Door",
-        "url": "https://open.spotify.com/album/5AzZFFyTZnxQ8lqNlTOp88"
+        "name": "Dzi\u015b ju\u017c wiem",
+        "url": "https://open.spotify.com/album/6bsRRM9FkPHx5dZZ9wsNPr"
       },
       "artists": [
         {
-          "name": "Piotr Zio\u0142a",
-          "url": "https://open.spotify.com/artist/70W7rQt07eDkynzl9JqHAB"
+          "name": "Urszula",
+          "url": "https://open.spotify.com/artist/6vIPbNGbwdrg7LSpz4V2QX"
         }
       ],
-      "duration_ms": 216706,
-      "name": "Safari",
-      "url": "https://open.spotify.com/track/6iWe35n6ufDWMQaNUTDXdN"
+      "duration_ms": 228053,
+      "name": "Dzi\u015b ju\u017c wiem",
+      "url": "https://open.spotify.com/track/0BleuvVMt39PmQaukAdEcv"
     }
   ],
   "unique_name": "Polskie hity o mi\u0142o\u015bci",

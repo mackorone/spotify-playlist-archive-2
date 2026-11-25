@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdOhsna07Pvz.md) - [plain]
 
 > O balanço é certo: a sua festa de brasilidades tá aqui!
 
-[Spotify](https://open.spotify.com/user/spotify) - 120,609 likes - 70 songs - 4 hr 30 min
+[Spotify](https://open.spotify.com/user/spotify) - 120,643 likes - 70 songs - 4 hr 30 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -79,4 +79,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdOhsna07Pvz.md) - [plain]
 | 69 | [Vou Festejar](https://open.spotify.com/track/6sZLKTlrntLVo7KoySzwFS) | [Beth Carvalho](https://open.spotify.com/artist/56TkPi7rpmU8jTpkcK7FY3) | [Latin Grooves \- Samba](https://open.spotify.com/album/5GMVnDFZfxr5EyhEnGStdU) | 3:10 |
 | 70 | [Calor no Rio](https://open.spotify.com/track/3ThEeFihlrZhfaAPItIArO) | [Luísa e os Alquimistas](https://open.spotify.com/artist/4MavQ0I0q9aAXj0mErfkqC), [Doralyce](https://open.spotify.com/artist/2y04NODkS9eKJV33k3VZBU) | [Jaguatirica Print](https://open.spotify.com/album/0JkLQKEz5jnRohRSLIEewl) | 3:09 |
 
-Snapshot ID: `AAAAAC2C8T6/CsfgUW5gl3PkKFD18/E/`
+Snapshot ID: `AAAAAE4WAytEeRO2isI5dRdBeVTsfNJb`

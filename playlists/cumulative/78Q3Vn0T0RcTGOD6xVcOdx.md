@@ -4,7 +4,7 @@
 
 > Top hits 2026: best songs right now, chart hits, pop and R&amp;B hits.
 
-435 songs - 1 day 1 hr 3 min
+440 songs - 1 day 1 hr 19 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -22,6 +22,7 @@
 | [Ageless and Evergreen](https://open.spotify.com/track/53wavi3G6qo2YaTXeOInZl) | [Everton Vidal](https://open.spotify.com/artist/12ejUrQ6HgI6OEvDGG8cs9) | [Ageless and Evergreen](https://open.spotify.com/album/4EkG6nIOlVAyi5yoJqFvXy) | 3:06 | 2025-12-17 | 2026-04-06 |
 | [Aguacero \(Paisaje en Ruinas\)](https://open.spotify.com/track/2mS4dpRhbOvqCqVIvDvdmG) | [Detrapo](https://open.spotify.com/artist/3cjnl4G8EXCdyKkyfYmA60), [Sinaia](https://open.spotify.com/artist/0B1wJktoH76W0tLHB75BTG) | [Aguacero \(Paisaje en Ruinas\)](https://open.spotify.com/album/02qP2SC6wWDsDAntFBxCjJ) | 4:58 | 2025-06-15 | 2026-04-06 |
 | [AIN'T PUTTING ON NO SHOW](https://open.spotify.com/track/4Uo6ryrx9VhoVeee52ZFfF) | [Prissy Young](https://open.spotify.com/artist/6KarQ55OChQitzSyA7Q94d) | [AIN'T PUTTING ON NO SHOW](https://open.spotify.com/album/1e8oJU7lydM3x4bd3YrdBm) | 3:26 | 2026-11-17 |  |
+| [Alaba Lambo](https://open.spotify.com/track/6MpZ69AOhelpMvhvbKC63A) | [ODG Beatz](https://open.spotify.com/artist/70CBsq6ZZno3oSswWP5kIa) | [Alaba Lambo](https://open.spotify.com/album/7ChINoOG77zjPsHKDNLlqb) | 1:56 | 2026-11-24 |  |
 | [Amargo Necesario](https://open.spotify.com/track/2x4mtdidiPj1USHdmnOVi0) | [Agua Brava](https://open.spotify.com/artist/6OqhcLozmF3LVegZEhPf8u) | [Amargo Necesario](https://open.spotify.com/album/6y89ptIe7mkHfF3CZP81lY) | 3:50 | 2025-02-20 | 2026-04-06 |
 | [Amor](https://open.spotify.com/track/0wxsASvjlNJ7Tld2Mnyd94) | [Alex Payró](https://open.spotify.com/artist/7MnamQUTTBuEmvTdxnJV9w) | [Amor](https://open.spotify.com/album/2jAk7bJjWtamQxA7qyI8cH) | 3:00 | 2025-07-12 | 2026-04-06 |
 | [Amor por error](https://open.spotify.com/track/591Lqwjmf9hzbYKJm7yh27) | [Dominivenezs](https://open.spotify.com/artist/4axdI6V0aMVc4vB9ZiCRu8), [Aledial](https://open.spotify.com/artist/5ah89tZb2RI5hlL88ZvepI) | [Amor por error](https://open.spotify.com/album/1b7FNLKig8LkYkhzPAUhVI) | 3:50 | 2025-04-06 | 2026-04-06 |
@@ -59,6 +60,7 @@
 | [Brand New Summer Day](https://open.spotify.com/track/2Z9HPl7uKx1fFtDYZv4vi5) | [Eddy Willemsen](https://open.spotify.com/artist/66l6yInrt4qUcvAICPaR7t) | [Brand New Summer Day](https://open.spotify.com/album/5XQ7pg3uzeJZuttpRaJ5fR) | 1:55 | 2025-01-25 | 2026-06-12 |
 | [Brandos Espaços Brancos](https://open.spotify.com/track/6bfFQDzW9b717Obk9UZDVM) | [Everton Vidal](https://open.spotify.com/artist/12ejUrQ6HgI6OEvDGG8cs9) | [Nuances](https://open.spotify.com/album/14pzQStt2oOEUVjFe2bcSJ) | 4:17 | 2025-12-17 | 2026-04-06 |
 | [Buitre](https://open.spotify.com/track/5nxUPbg1pnv58NpTLOAQHD) | [Brujo Nativo](https://open.spotify.com/artist/0fAQrIC5Rz7nvbUyDV9wCX) | [Buitre](https://open.spotify.com/album/6H5XztWhk6kZApudObpKCW) | 4:13 | 2025-09-13 | 2026-04-06 |
+| [BURN IT DOWN](https://open.spotify.com/track/1EzvOVlyaQhmBDIA3hQiTr) | [claudiomproduction](https://open.spotify.com/artist/480q3vxyDiauwwnVnpav5Y) | [BURN IT DOWN](https://open.spotify.com/album/1eoIc4usKkH5JA0NDh1OC9) | 3:24 | 2026-11-24 |  |
 | [Burning Soul](https://open.spotify.com/track/07JAFOVPFj7HLNGspfJPMR) | [David Lenoc](https://open.spotify.com/artist/0bwgixs0srFeTkbOEA7CvJ) | [Burning Soul](https://open.spotify.com/album/4mrAj3lYWjzYIhnuS1dplA) | 3:08 | 2025-01-25 | 2026-06-12 |
 | [By All Means](https://open.spotify.com/track/6ZlwOKl1epw066iFNjilEh) | [Birgitte And The Dusty Trails](https://open.spotify.com/artist/6VfH4YCvgDclCiYLJhk8zc), [Emma Birgitte Ovlien](https://open.spotify.com/artist/10ooU0BJqSyHNTaW49tCfE) | [By All Means](https://open.spotify.com/album/19QJO68vLhLR2Jm0fl58Qj) | 3:21 | 2026-11-15 |  |
 | [Büitre](https://open.spotify.com/track/2SbXb00q4taXT4ewzyTVug) | [Brujo Nativo](https://open.spotify.com/artist/0fAQrIC5Rz7nvbUyDV9wCX) | [La Fuerza](https://open.spotify.com/album/5emGsXnZncj5fo2kVb2DId) | 4:12 | 2025-09-13 | 2026-04-06 |
@@ -288,6 +290,7 @@
 | [Nuje Sotto ’O Cielo](https://open.spotify.com/track/2CgWhoeovLTH3G9KezqLjG) | [Nero Vesuvio](https://open.spotify.com/artist/6K0PlJ1GGgfIsqYaNKO0uT) | [Nuje Sotto ’O Cielo](https://open.spotify.com/album/7LCODKwjudnuXVQcR6YXtD) | 3:18 | 2026-09-30 |  |
 | [Obsesion](https://open.spotify.com/track/0MPJwDBHhNve1nEpI1P9aG) | [Junior Hodie](https://open.spotify.com/artist/6aghE4xmKWwUiM42X2BiJR) | [Obsesion](https://open.spotify.com/album/3GnvbalbJvtbt5BbtdgRpT) | 2:52 | 2025-10-11 | 2026-04-06 |
 | [Odio a mi jefe](https://open.spotify.com/track/7jLS003HamIVPmdqfEKEjp) | [Ami Amarela](https://open.spotify.com/artist/6G8xgWVfQiLW23DSepp6vE) | [Odio a mi jefe](https://open.spotify.com/album/03sUhVUOflOyEWpawlPZxN) | 3:02 | 2025-02-15 | 2026-04-06 |
+| [Off The Pound](https://open.spotify.com/track/18RLsL4a9LzHRoa0KXXahA) | [Vance](https://open.spotify.com/artist/11LpEjg6drv4G1kBItUSn6), [NSM Deebo](https://open.spotify.com/artist/3lvTJMKR7uL9GcL7PMahvI) | [Off The Pound](https://open.spotify.com/album/3cEZ0o3ovQRYmP1qnepqAw) | 2:35 | 2026-11-24 |  |
 | [Ojos Verdes](https://open.spotify.com/track/4Dm0V6rpjbEjQKACxbnG2L) | [Exen](https://open.spotify.com/artist/1nifjsMyLyjkDexOqptbeq) | [Ojos Verdes](https://open.spotify.com/album/197SmE1V69QtScoUSnvlhy) | 2:49 | 2025-03-08 | 2026-06-12 |
 | [On My Own \- Valence Remix](https://open.spotify.com/track/17z9D8bhQ5kAqqDWp8Dra6) | [The Engagement](https://open.spotify.com/artist/0rLsMRlRAKLpRO6CjgFoeV), [Valence](https://open.spotify.com/artist/1DNs16u01pv3jYnZAORG4Y) | [On My Own \(Valence Remix\)](https://open.spotify.com/album/4252N1zNSp8VeB69VUXMWT) | 3:10 | 2025-01-25 | 2026-06-12 |
 | [On This Sunny Day \- Acoustic Version](https://open.spotify.com/track/6dOth3Yidrkt6bpCLPWrrk) | [Nicholas Koontz](https://open.spotify.com/artist/0L24SOGFqmKdnI4ty6VAEq) | [On This Sunny Day \(Acoustic Version\)](https://open.spotify.com/album/5hZmy6Oq59DqwVOHAcH9gH) | 3:57 | 2026-11-21 |  |
@@ -375,6 +378,7 @@
 | [SÓ UM PLANO](https://open.spotify.com/track/67nArEz1zeWjbZm62adUzi) | [Real Brutal One](https://open.spotify.com/artist/32bVsNnz2q85tLoFVPns0y), [JOVEM PERCK](https://open.spotify.com/artist/1dVwq8YEqypaAMpNGFNT6U) | [SÓ UM PLANO](https://open.spotify.com/album/0LOaX1D2FfCMpjymf8R5jR) | 3:31 | 2026-11-21 |  |
 | [T HACE MAL](https://open.spotify.com/track/6K11rw2zA1nR77PBL9YDDj) | [CocoWash](https://open.spotify.com/artist/3zxFr108CK2XWyqPi48cqF), [NABU](https://open.spotify.com/artist/1laHadJeHgkvbIjDEjNx2n), [Roki Fernandez](https://open.spotify.com/artist/2MCfICN62faLf6aDJZhlx6) | [T HACE MAL](https://open.spotify.com/album/2eQ6lXbL5CrfDg1577JEkL) | 2:59 | 2025-03-02 | 2026-04-06 |
 | [Taste](https://open.spotify.com/track/1d7Ptw3qYcfpdLNL5REhtJ) | [Sabrina Carpenter](https://open.spotify.com/artist/74KM79TiuVKeVCqs8QtB0B) | [Short n' Sweet](https://open.spotify.com/album/4B4Elma4nNDUyl6D5PvQkj) | 2:37 | 2025-01-24 |  |
+| [Tatsız](https://open.spotify.com/track/1EhsXtvJjjFrTrRxxFww31) | [Özgür Yetgin](https://open.spotify.com/artist/4VFWtBvDFnpZOAWPCfLKwq) | [Tatsız](https://open.spotify.com/album/1zixNH9ctQSuezasOwJgvv) | 4:37 | 2026-11-24 |  |
 | [Te Quedaste Aqui](https://open.spotify.com/track/0M1N6VKGZOT31h5hVeHB2l) | [NBA D OG](https://open.spotify.com/artist/0XOLgv10SqN7yAZ5JGHtjy) | [Te Quedaste Aqui](https://open.spotify.com/album/3ZPvwZaFc4cQ1l2J1xgXR0) | 3:46 | 2026-06-23 |  |
 | [Te traigo flores](https://open.spotify.com/track/1SjMQAJlwptaKoROgg5yJH) | [Fran Torrella](https://open.spotify.com/artist/7bFXH7TevOccNpWYQjmMc6) | [Te traigo flores](https://open.spotify.com/album/5Di1I75DrCvgr0zRuxXM16) | 3:04 | 2025-09-13 | 2026-04-06 |
 | [THC](https://open.spotify.com/track/2ZiqXENnVKW4qs9ViowXQ2) | [Agua Brava](https://open.spotify.com/artist/6OqhcLozmF3LVegZEhPf8u) | [THC](https://open.spotify.com/album/7A0maicM1QVA0jz5Zu5h8l) | 4:24 | 2025-02-20 | 2026-04-06 |
@@ -383,6 +387,7 @@
 | [The Girl I Love](https://open.spotify.com/track/3DPuXRLGViQTSq7xoGFGfu) | [Stanshow](https://open.spotify.com/artist/43pMkEmyvlWuS1jwqp8I3j) | [The Girl I Love](https://open.spotify.com/album/59ImkOVscYwjNxaUHA9LSX) | 4:14 | 2026-11-22 |  |
 | [The Trumpet](https://open.spotify.com/track/1vJUY7EZ1mVd0MvwOm6du7) | [Maxito](https://open.spotify.com/artist/58rz1Rxm9nSYnFzXhp34GR) | [Electric Mixtape](https://open.spotify.com/album/4kEcEnQUIA4FL7GEYHxscV) | 3:58 | 2025-02-22 | 2026-04-06 |
 | [The Way \(2017\)](https://open.spotify.com/track/6EmlNC4GsSm3asec6nJX6u) | [Pazzo](https://open.spotify.com/artist/1DDE68aTInM89DhuzkIWAR) | [The Way \(2017\)](https://open.spotify.com/album/1lbmc2m2WxtyZzp7YoyEmI) | 2:58 | 2025-01-25 | 2026-06-12 |
+| [The Weight](https://open.spotify.com/track/0CwuWOr6C9CnDT5PA0btDb) | [Delorean Time Warp](https://open.spotify.com/artist/1HXPiQIZzvALL8NEDmpOcn) | [The Weight](https://open.spotify.com/album/4CYNSB9C1me7dJWyJI6jHC) | 3:24 | 2026-11-24 |  |
 | [This Is The Fire](https://open.spotify.com/track/4KLLTA3jPpWJwOfIMoULTn) | [Adam Lytle](https://open.spotify.com/artist/6B2RySp4tzI15xq3au9Ie0) | [This Is the Fire](https://open.spotify.com/album/4sqFQ2SKwuLGAArvx3N0Qm) | 4:28 | 2025-01-26 | 2026-06-12 |
 | [Time Away](https://open.spotify.com/track/4xMXO0JY8qmv54Irn16VEF) | [Disco Dreams](https://open.spotify.com/artist/5KRlBkGzQFsekajKbhN7WX) | [Mystic Daze](https://open.spotify.com/album/2PdHmqqIYXFH8tOJdGSJLF) | 4:09 | 2025-02-01 | 2026-06-12 |
 | [TODAVIA CREO EN EL AMOR](https://open.spotify.com/track/2ieoYpTIQTG45FIANsmHu1) | [Norbiwyso](https://open.spotify.com/artist/3n92Nht0BNvgrdonVb1lF4) | [TODAVIA CREO EN EL AMOR](https://open.spotify.com/album/5fOn4GW1qIVB1OHxSDRhDs) | 4:44 | 2026-08-31 |  |

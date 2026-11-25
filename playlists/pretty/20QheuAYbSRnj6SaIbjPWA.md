@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/20QheuAYbSRnj6SaIbjPWA.md) - [plain]
 
 > 
 
-[Evan](https://open.spotify.com/user/sn313e4ludhgj8lelf5kmxk1l) - 4 likes - 183 songs - 12 hr 40 min
+[Evan](https://open.spotify.com/user/sn313e4ludhgj8lelf5kmxk1l) - 4 likes - 184 songs - 12 hr 44 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -191,5 +191,6 @@ pretty - [cumulative](/playlists/cumulative/20QheuAYbSRnj6SaIbjPWA.md) - [plain]
 | 181 | [Demolition](https://open.spotify.com/track/2w9liMSRv3edqM67cGUamD) | [Fontaines D.C.](https://open.spotify.com/artist/3SXwqSqAoBz9WCI9PDQzY6) | [Dopamine Chamber](https://open.spotify.com/album/0JICUfSKOdGqzE9FJSrNci) | 3:19 |
 | 182 | [Atwater](https://open.spotify.com/track/0qvCv4Onyf91TEjMbu9NVZ) | [Pina Palau](https://open.spotify.com/artist/6Ktx4W0UWEkRQKxhkIUFvP) | [Atwater](https://open.spotify.com/album/3a1d0Dq8PoRaTDD2PZEQVj) | 4:27 |
 | 183 | [Loser](https://open.spotify.com/track/0dHoN2r23LzobJS5FynRip) | [Keo](https://open.spotify.com/artist/30FAFv3oKzNR9amC0XfmUA) | [Put A Smile On For Me](https://open.spotify.com/album/6lsuxUBgd9TFAfzS9lBkCH) | 3:46 |
+| 184 | [Better Days](https://open.spotify.com/track/28s5iRbX62GZG2ReZTLKDa) | [Graham Nash](https://open.spotify.com/artist/2E6Roj0oQnJIm2BeXwDica) | [Songs For Beginners](https://open.spotify.com/album/3Lh1KbeS801PtOeojquUPk) | 3:50 |
 
-Snapshot ID: `AAABOE1sQ9u46IB9nI229UShCrwXWty9`
+Snapshot ID: `AAABOd6Oz7POL9NfWlREtiyfk2/VitJC`

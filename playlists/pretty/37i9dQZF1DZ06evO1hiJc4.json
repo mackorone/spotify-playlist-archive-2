@@ -1,12 +1,12 @@
 {
   "description": "This is Labrinth. The essential tracks, all in one playlist.",
-  "num_followers": 158189,
+  "num_followers": 158194,
   "original_name": "This Is Labrinth",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "awIwgAAAAAC5s1ImtULcl5GnfPcNTkkP",
+  "snapshot_id": "awOCAAAAAAD3YzHbi4uuwN8gJMWJev9O",
   "tracks": [
     {
       "added_at": null,
@@ -659,8 +659,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "SHUT YOUR DAMN 95.7892",
-        "url": "https://open.spotify.com/album/2BMDpo4X23IpQDqQYCBhDY"
+        "name": "Ends & Begins",
+        "url": "https://open.spotify.com/album/5kGUy2eONqGocT26fvKo9v"
       },
       "artists": [
         {
@@ -668,9 +668,9 @@
           "url": "https://open.spotify.com/artist/2feDdbD5araYcm6JhFHHw7"
         }
       ],
-      "duration_ms": 184034,
-      "name": "SHUT YOUR DAMN 95.7892",
-      "url": "https://open.spotify.com/track/3lCQOU4BWvyWhoNAKGoO6l"
+      "duration_ms": 150222,
+      "name": "Power Couple",
+      "url": "https://open.spotify.com/track/2RpcvZ3VEGaXXufRTYe8TQ"
     },
     {
       "added_at": null,
@@ -719,8 +719,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Ends & Begins",
-        "url": "https://open.spotify.com/album/5kGUy2eONqGocT26fvKo9v"
+        "name": "SHUT YOUR DAMN 95.7892",
+        "url": "https://open.spotify.com/album/2BMDpo4X23IpQDqQYCBhDY"
       },
       "artists": [
         {
@@ -728,9 +728,9 @@
           "url": "https://open.spotify.com/artist/2feDdbD5araYcm6JhFHHw7"
         }
       ],
-      "duration_ms": 150222,
-      "name": "Power Couple",
-      "url": "https://open.spotify.com/track/2RpcvZ3VEGaXXufRTYe8TQ"
+      "duration_ms": 184034,
+      "name": "SHUT YOUR DAMN 95.7892",
+      "url": "https://open.spotify.com/track/3lCQOU4BWvyWhoNAKGoO6l"
     },
     {
       "added_at": null,
@@ -779,26 +779,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "THE BRIDGE",
-        "url": "https://open.spotify.com/album/136DnJdQKnudDjbqn97oNV"
-      },
-      "artists": [
-        {
-          "name": "Tobe Nwigwe",
-          "url": "https://open.spotify.com/artist/3Qh89pgJeZq6d8uM1bTot3"
-        },
-        {
-          "name": "Labrinth",
-          "url": "https://open.spotify.com/artist/2feDdbD5araYcm6JhFHHw7"
-        }
-      ],
-      "duration_ms": 199516,
-      "name": "ALL OR NOTHING",
-      "url": "https://open.spotify.com/track/4QDvm7aauRy7sFLaBnhzHf"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "The Kitchen (Score from the Netflix Film)",
         "url": "https://open.spotify.com/album/67JwhnzZp9DLFIHfsfK6Uf"
       },
@@ -815,6 +795,26 @@
       "duration_ms": 102603,
       "name": "Accepted By The Crew",
       "url": "https://open.spotify.com/track/20pJfe2XnmhYQWlKUlamHh"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "THE BRIDGE",
+        "url": "https://open.spotify.com/album/136DnJdQKnudDjbqn97oNV"
+      },
+      "artists": [
+        {
+          "name": "Tobe Nwigwe",
+          "url": "https://open.spotify.com/artist/3Qh89pgJeZq6d8uM1bTot3"
+        },
+        {
+          "name": "Labrinth",
+          "url": "https://open.spotify.com/artist/2feDdbD5araYcm6JhFHHw7"
+        }
+      ],
+      "duration_ms": 199516,
+      "name": "ALL OR NOTHING",
+      "url": "https://open.spotify.com/track/4QDvm7aauRy7sFLaBnhzHf"
     },
     {
       "added_at": null,
@@ -863,6 +863,54 @@
     {
       "added_at": null,
       "album": {
+        "name": "The Kitchen (Score from the Netflix Film)",
+        "url": "https://open.spotify.com/album/67JwhnzZp9DLFIHfsfK6Uf"
+      },
+      "artists": [
+        {
+          "name": "Labrinth",
+          "url": "https://open.spotify.com/artist/2feDdbD5araYcm6JhFHHw7"
+        }
+      ],
+      "duration_ms": 69153,
+      "name": "Benji Puts His Mum To Rest",
+      "url": "https://open.spotify.com/track/34G1uKTSzL3Rw0FzX93Mpw"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Electronic Earth (Expanded Edition)",
+        "url": "https://open.spotify.com/album/6PBBbXmYV7dKnaik0fjkOI"
+      },
+      "artists": [
+        {
+          "name": "Labrinth",
+          "url": "https://open.spotify.com/artist/2feDdbD5araYcm6JhFHHw7"
+        }
+      ],
+      "duration_ms": 179800,
+      "name": "Let the Sun Shine",
+      "url": "https://open.spotify.com/track/7nRAK7blAQt94WRDI3EciA"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "EUPHORIA SEASON 2 OFFICIAL SCORE (FROM THE HBO ORIGINAL SERIES)",
+        "url": "https://open.spotify.com/album/43tSLc6ZxW8TTRLrBO0SU1"
+      },
+      "artists": [
+        {
+          "name": "Labrinth",
+          "url": "https://open.spotify.com/artist/2feDdbD5araYcm6JhFHHw7"
+        }
+      ],
+      "duration_ms": 142848,
+      "name": "Skeletons (Lexi Needed a Break)",
+      "url": "https://open.spotify.com/track/2E8PpcxzMRAv2YdqRxg0jR"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "COSMIC OPERA ACT II",
         "url": "https://open.spotify.com/album/6sTGPeQccQvmDiOIxJLZyD"
       },
@@ -888,41 +936,9 @@
           "url": "https://open.spotify.com/artist/2feDdbD5araYcm6JhFHHw7"
         }
       ],
-      "duration_ms": 69153,
-      "name": "Benji Puts His Mum To Rest",
-      "url": "https://open.spotify.com/track/34G1uKTSzL3Rw0FzX93Mpw"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "EUPHORIA SEASON 2 OFFICIAL SCORE (FROM THE HBO ORIGINAL SERIES)",
-        "url": "https://open.spotify.com/album/43tSLc6ZxW8TTRLrBO0SU1"
-      },
-      "artists": [
-        {
-          "name": "Labrinth",
-          "url": "https://open.spotify.com/artist/2feDdbD5araYcm6JhFHHw7"
-        }
-      ],
-      "duration_ms": 142848,
-      "name": "Skeletons (Lexi Needed a Break)",
-      "url": "https://open.spotify.com/track/2E8PpcxzMRAv2YdqRxg0jR"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Electronic Earth (Expanded Edition)",
-        "url": "https://open.spotify.com/album/6PBBbXmYV7dKnaik0fjkOI"
-      },
-      "artists": [
-        {
-          "name": "Labrinth",
-          "url": "https://open.spotify.com/artist/2feDdbD5araYcm6JhFHHw7"
-        }
-      ],
-      "duration_ms": 179800,
-      "name": "Let the Sun Shine",
-      "url": "https://open.spotify.com/track/7nRAK7blAQt94WRDI3EciA"
+      "duration_ms": 53353,
+      "name": "What Would You Want Me To Be",
+      "url": "https://open.spotify.com/track/5qdma4cGhLzg5fkX57dnmH"
     },
     {
       "added_at": null,
@@ -947,22 +963,6 @@
       "duration_ms": 295653,
       "name": "Majesty (with Labrinth & feat. Eminem)",
       "url": "https://open.spotify.com/track/38TgLPNHsPzgqri5G4SPun"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "The Kitchen (Score from the Netflix Film)",
-        "url": "https://open.spotify.com/album/67JwhnzZp9DLFIHfsfK6Uf"
-      },
-      "artists": [
-        {
-          "name": "Labrinth",
-          "url": "https://open.spotify.com/artist/2feDdbD5araYcm6JhFHHw7"
-        }
-      ],
-      "duration_ms": 53353,
-      "name": "What Would You Want Me To Be",
-      "url": "https://open.spotify.com/track/5qdma4cGhLzg5fkX57dnmH"
     }
   ],
   "unique_name": "This Is Labrinth",

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO17aFuo.md) - [plain]
 
 > This is Megadeth\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 325,600 likes - 50 songs - 3 hr 33 min
+[Spotify](https://open.spotify.com/user/spotify) - 325,627 likes - 50 songs - 3 hr 33 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -31,10 +31,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO17aFuo.md) - [plain]
 | 21 | [Lucretia](https://open.spotify.com/track/1n538MfKDtkS4GTAaWN25H) | [Megadeth](https://open.spotify.com/artist/1Yox196W7bzVNZI7RBaPnf) | [Rust In Peace](https://open.spotify.com/album/4e6ML9RBhDyyKTaTwbiRZv) | 3:58 |
 | 22 | [I Don't Care](https://open.spotify.com/track/6NsNlkOOVpuJ0ibq0KDJ74) | [Megadeth](https://open.spotify.com/artist/1Yox196W7bzVNZI7RBaPnf) | [Megadeth](https://open.spotify.com/album/6ouAFvDtaYWB7PdGaRtJGq) | 3:09 |
 | 23 | [In My Darkest Hour](https://open.spotify.com/track/423EZWcCxPBVuWgejCwUWF) | [Megadeth](https://open.spotify.com/artist/1Yox196W7bzVNZI7RBaPnf) | [So Far, So Good...So What!](https://open.spotify.com/album/4rW8n1hOkavPGIxPvEnT18) | 6:16 |
-| 24 | [Skin O' My Teeth \- 2004 Remastered](https://open.spotify.com/track/7EFho37SrizYaQ2NVxLejd) | [Megadeth](https://open.spotify.com/artist/1Yox196W7bzVNZI7RBaPnf) | [Countdown To Extinction \(Expanded Edition \- Remastered\)](https://open.spotify.com/album/1w9opfGdFtR3ulNHxnnO1e) | 3:15 |
+| 24 | [Kill The King](https://open.spotify.com/track/6QpLvP6lx2AuK51d1PcSOK) | [Megadeth](https://open.spotify.com/artist/1Yox196W7bzVNZI7RBaPnf) | [Greatest Hits: Back To The Start](https://open.spotify.com/album/00sgBMhbJo1lEa1hHhYtw4) | 3:42 |
 | 25 | [Rust In Peace...Polaris](https://open.spotify.com/track/1A9bOtUg91RLO9nGzXF8ao) | [Megadeth](https://open.spotify.com/artist/1Yox196W7bzVNZI7RBaPnf) | [Rust In Peace](https://open.spotify.com/album/4e6ML9RBhDyyKTaTwbiRZv) | 5:36 |
 | 26 | [Hey God?!](https://open.spotify.com/track/2vwrGgIy5cUeU375P6w8aL) | [Megadeth](https://open.spotify.com/artist/1Yox196W7bzVNZI7RBaPnf) | [Megadeth](https://open.spotify.com/album/6ouAFvDtaYWB7PdGaRtJGq) | 3:28 |
-| 27 | [Kill The King](https://open.spotify.com/track/6QpLvP6lx2AuK51d1PcSOK) | [Megadeth](https://open.spotify.com/artist/1Yox196W7bzVNZI7RBaPnf) | [Greatest Hits: Back To The Start](https://open.spotify.com/album/00sgBMhbJo1lEa1hHhYtw4) | 3:42 |
+| 27 | [Skin O' My Teeth \- 2004 Remastered](https://open.spotify.com/track/7EFho37SrizYaQ2NVxLejd) | [Megadeth](https://open.spotify.com/artist/1Yox196W7bzVNZI7RBaPnf) | [Countdown To Extinction \(Expanded Edition \- Remastered\)](https://open.spotify.com/album/1w9opfGdFtR3ulNHxnnO1e) | 3:15 |
 | 28 | [Mechanix](https://open.spotify.com/track/2bfwYcc1FzkIym0XRkYb7F) | [Megadeth](https://open.spotify.com/artist/1Yox196W7bzVNZI7RBaPnf) | [Killing Is My Business...And Business Is Good!](https://open.spotify.com/album/0TFQuO4m3XR5pTJCFS88Qk) | 4:25 |
 | 29 | [Poison Was The Cure](https://open.spotify.com/track/5ONVnHYT7srwxU9UDsJH2k) | [Megadeth](https://open.spotify.com/artist/1Yox196W7bzVNZI7RBaPnf) | [Rust In Peace](https://open.spotify.com/album/4e6ML9RBhDyyKTaTwbiRZv) | 2:58 |
 | 30 | [Puppet Parade](https://open.spotify.com/track/7bcdR8mEMVJNybCFC7dTlX) | [Megadeth](https://open.spotify.com/artist/1Yox196W7bzVNZI7RBaPnf) | [Megadeth](https://open.spotify.com/album/6ouAFvDtaYWB7PdGaRtJGq) | 4:40 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO17aFuo.md) - [plain]
 | 49 | [Hook In Mouth \- Remastered](https://open.spotify.com/track/3DCrXcdOW9iWUPtcEFH2er) | [Megadeth](https://open.spotify.com/artist/1Yox196W7bzVNZI7RBaPnf) | [So Far, So Good...So What! \(Expanded Edition \- Remastered\)](https://open.spotify.com/album/5f4vbRLrRmoDH0zpdQnyrE) | 4:48 |
 | 50 | [My Last Words \- Remastered](https://open.spotify.com/track/6VdoivAOy8oRR6Pmpw4Ux4) | [Megadeth](https://open.spotify.com/artist/1Yox196W7bzVNZI7RBaPnf) | [Peace Sells...But Who's Buying? \(Expanded Edition \- Remastered\)](https://open.spotify.com/album/4U8ZF5zDIRy4lBnnXBN2uO) | 4:55 |
 
-Snapshot ID: `awIwgAAAAADCtpSjIwXMg0NQDr+H03x9`
+Snapshot ID: `awOCAAAAAACH9kmvuiYJ+/LZVZbaSWaQ`

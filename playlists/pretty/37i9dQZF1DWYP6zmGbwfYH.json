@@ -1,12 +1,12 @@
 {
   "description": "Tallando, bailando y cantando. ",
-  "num_followers": 412343,
+  "num_followers": 412445,
   "original_name": "Canciones para lavar",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAHVviEwV/5a34SaIOkm2+BIZMwH1",
+  "snapshot_id": "AAAAAEPgmcRSA7ptmGq/YWDJxuncwBQV",
   "tracks": [
     {
       "added_at": "2026-09-21 17:58:20",
@@ -123,18 +123,18 @@
     {
       "added_at": "2026-09-21 17:58:20",
       "album": {
-        "name": "Entrega De Amor",
-        "url": "https://open.spotify.com/album/5RskNC4hvSZfi1b2k1tFPw"
+        "name": "Todo tuyo",
+        "url": "https://open.spotify.com/album/6EGXXDM0tEb4mTuC4ofMei"
       },
       "artists": [
         {
-          "name": "Los \u00c1ngeles Azules",
-          "url": "https://open.spotify.com/artist/0ZCO8oVkMj897cKgFH7fRW"
+          "name": "Pesado",
+          "url": "https://open.spotify.com/artist/4BwiodzEp9Hwes5HeFjMVK"
         }
       ],
-      "duration_ms": 176560,
-      "name": "Entrega De Amor",
-      "url": "https://open.spotify.com/track/2SNP0sm56HwUvZh7bL66pi"
+      "duration_ms": 235906,
+      "name": "Loco",
+      "url": "https://open.spotify.com/track/0uCuoqJ3uvSTU8I3Vtvnfu"
     },
     {
       "added_at": "2026-09-21 17:58:20",
@@ -155,18 +155,18 @@
     {
       "added_at": "2026-09-21 17:58:20",
       "album": {
-        "name": "Todo tuyo",
-        "url": "https://open.spotify.com/album/6EGXXDM0tEb4mTuC4ofMei"
+        "name": "Entrega De Amor",
+        "url": "https://open.spotify.com/album/5RskNC4hvSZfi1b2k1tFPw"
       },
       "artists": [
         {
-          "name": "Pesado",
-          "url": "https://open.spotify.com/artist/4BwiodzEp9Hwes5HeFjMVK"
+          "name": "Los \u00c1ngeles Azules",
+          "url": "https://open.spotify.com/artist/0ZCO8oVkMj897cKgFH7fRW"
         }
       ],
-      "duration_ms": 235906,
-      "name": "Loco",
-      "url": "https://open.spotify.com/track/0uCuoqJ3uvSTU8I3Vtvnfu"
+      "duration_ms": 176560,
+      "name": "Entrega De Amor",
+      "url": "https://open.spotify.com/track/2SNP0sm56HwUvZh7bL66pi"
     },
     {
       "added_at": "2026-09-21 17:58:20",
@@ -651,22 +651,6 @@
     {
       "added_at": "2026-09-21 17:58:20",
       "album": {
-        "name": "Negra Ron y Velas",
-        "url": "https://open.spotify.com/album/2CN4H5EWZliNhozx62mnWD"
-      },
-      "artists": [
-        {
-          "name": "Morgan Blanco",
-          "url": "https://open.spotify.com/artist/3ff3ZIeqM9LA1R0aPul14w"
-        }
-      ],
-      "duration_ms": 276199,
-      "name": "Negra Ron y Velas",
-      "url": "https://open.spotify.com/track/4WhZLHyENNOqKk0HOjTZLI"
-    },
-    {
-      "added_at": "2026-09-21 17:58:20",
-      "album": {
         "name": "Inalcanzable",
         "url": "https://open.spotify.com/album/13UzYROsKbVZF4RZCrMtQF"
       },
@@ -679,6 +663,22 @@
       "duration_ms": 229880,
       "name": "Encadenada A Mi - Cumbia",
       "url": "https://open.spotify.com/track/72dq7syxHMZF44QX3r1yXH"
+    },
+    {
+      "added_at": "2026-09-21 17:58:20",
+      "album": {
+        "name": "Negra Ron y Velas",
+        "url": "https://open.spotify.com/album/2CN4H5EWZliNhozx62mnWD"
+      },
+      "artists": [
+        {
+          "name": "Morgan Blanco",
+          "url": "https://open.spotify.com/artist/3ff3ZIeqM9LA1R0aPul14w"
+        }
+      ],
+      "duration_ms": 276199,
+      "name": "Negra Ron y Velas",
+      "url": "https://open.spotify.com/track/4WhZLHyENNOqKk0HOjTZLI"
     },
     {
       "added_at": "2026-09-21 17:58:20",

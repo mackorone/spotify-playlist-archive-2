@@ -1,12 +1,12 @@
 {
   "description": "Odkryj nowych ulubionych artyst\u00f3w. Cover:  <a href=\"spotify:artist:3KL9m4NwBRDjBEcybcgfyh\">wane</a>",
-  "num_followers": 24109,
+  "num_followers": 24112,
   "original_name": "RADAR Polska",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAI0NMYlTIcX5aEfIlEhAorIJfuiL",
+  "snapshot_id": "AAAAAMWJnZ3ozdyn7nKiFpdkAqsIk56P",
   "tracks": [
     {
       "added_at": "2026-11-13 17:06:42",
@@ -654,10 +654,6 @@
         {
           "name": "Koder",
           "url": "https://open.spotify.com/artist/1qJPIWsxxzTulBOb5kFllO"
-        },
-        {
-          "name": "Deemz",
-          "url": "https://open.spotify.com/artist/3gm9b6AeMf2eGQTLashkDt"
         }
       ],
       "duration_ms": 144000,

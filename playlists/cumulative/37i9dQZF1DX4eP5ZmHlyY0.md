@@ -2,9 +2,9 @@
 
 ### [Boy in the Moon](https://open.spotify.com/playlist/37i9dQZF1DX4eP5ZmHlyY0)
 
-> Boys groups/solo artists shining beyond borders\.  グローバルに活躍するボーイズグループ/ソロアーティストを一つのプレイリストに。Cover: TOMORROW X TOGETHER
+> Boys groups/solo artists shining beyond borders\.  グローバルに活躍するボーイズグループ/ソロアーティストを一つのプレイリストに。Cover: ENHYPEN
 
-1,185 songs - 2 day 15 hr 49 min
+1,186 songs - 2 day 15 hr 51 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -103,7 +103,7 @@
 | [Beautiful Strangers](https://open.spotify.com/track/6IYvOX6K6tbBmj00JRU5Rw) | [TOMORROW X TOGETHER](https://open.spotify.com/artist/0ghlgldX5Dd6720Q3qFyQB) | [The Star Chapter: TOGETHER](https://open.spotify.com/album/1FwFdMp4ewxTlLSudNzlyG) | 2:18 | 2025-07-22 | 2025-10-25 |
 | [Because of You, I Shine \- Japanese Version](https://open.spotify.com/track/13syne8ZMO7QJbnJ7PIzyv) | [BUS](https://open.spotify.com/artist/5kU6FKYW7YBB2ikPQnk8cS) | [Because of You, I Shine \(Japanese Version\)](https://open.spotify.com/album/0Wp46PJlRjEfZyGmyNiwyN) | 3:46 | 2025-04-17 | 2025-07-09 |
 | [Believe in You](https://open.spotify.com/track/3Hk8BKGT8dvK0ytIEtW58I) | [JO1](https://open.spotify.com/artist/2koP6FEfIEVk4l2Fe6jFhu) | [Believe in You](https://open.spotify.com/album/2TF8O4dj2PjVi7ANQp5ACH) | 4:16 | 2024-07-09 | 2024-11-15 |
-| [BESAME](https://open.spotify.com/track/3ms2vEOPubBVHAbMGQ7OXM) | [8TURN](https://open.spotify.com/artist/7tCg9aiVKZ5Cmhbfb7UoqM) | [BESAME](https://open.spotify.com/album/1MHzmpn4cvoSXAkWBRqHJj) | 2:24 | 2026-09-15 |  |
+| [BESAME](https://open.spotify.com/track/3ms2vEOPubBVHAbMGQ7OXM) | [8TURN](https://open.spotify.com/artist/7tCg9aiVKZ5Cmhbfb7UoqM) | [BESAME](https://open.spotify.com/album/1MHzmpn4cvoSXAkWBRqHJj) | 2:24 | 2026-09-15 | 2026-11-25 |
 | [Best Friend](https://open.spotify.com/track/6LiTEXFsVO0hbSnplg5HNO) | [TRENDZ](https://open.spotify.com/artist/6Bmr9e9x44iib7equMj5Qj) | [Best Friend](https://open.spotify.com/album/6AD5IWv6dxm5JGo6D4lulH) | 3:17 | 2025-03-06 | 2025-03-18 |
 | [BET YOUR LIFE](https://open.spotify.com/track/3i3i4SqqAjWvihgVhWbQXS) | [ONE OR EIGHT](https://open.spotify.com/artist/5bIttAFRf7URUmuuI9w7XA) | [BET YOUR LIFE](https://open.spotify.com/album/7vOz3K6W0hzTyPI5PrKJvA) | 2:17 | 2025-09-18 | 2026-01-15 |
 | [Better Half \(feat\. Omoinotake\)](https://open.spotify.com/track/1beUALLSloBEvYre65QiW6) | [JEONGHAN](https://open.spotify.com/artist/6KDLlQYeeqUe5OQ2JrdNzF), [Omoinotake](https://open.spotify.com/artist/63ylN6WBUUxxMsySiDmr0B) | [Better Half \(feat\. Omoinotake\)](https://open.spotify.com/album/6nIPGzCGclgKS7r5vt5oy9) | 3:54 | 2025-03-06 | 2025-04-09 |
@@ -581,7 +581,7 @@
 | [Mainstream](https://open.spotify.com/track/6twDMJoG8tzwL21LQ3EEtA) | [BE:FIRST](https://open.spotify.com/artist/4wCW8kZ8LL7QIdcE8EOKPP) | [Mainstream](https://open.spotify.com/album/7ixevog8Pu3jbd3VeZSK7j) | 3:27 | 2023-11-23 | 2024-11-20 |
 | [Major](https://open.spotify.com/track/0EzHIwggAVyiJNizm6UDHy) | [ENJIN](https://open.spotify.com/artist/1xO6BVi6M8m2Q2O1EE7oEC) | [Major](https://open.spotify.com/album/6wB9poeCgF8QKdymMJ5Phc) | 3:18 | 2024-06-04 | 2024-06-13 |
 | [Make It Count](https://open.spotify.com/track/5yH5ZOM6rzDisQrahixgM9) | [INI](https://open.spotify.com/artist/73kxDUq2Hl7Upy4o0yFxXv) | [Make It Count](https://open.spotify.com/album/2xZTCdsoeOjHuLfKt5cZM1) | 3:30 | 2025-01-14 | 2025-04-03 |
-| [Make it hot](https://open.spotify.com/track/06ZgGUzxTQ27mkYKvXcoZU) | [MINHO](https://open.spotify.com/artist/08uRwDeNv1d7FSwlOUZdSn) | [Make it hot \- The 2nd Mini Album](https://open.spotify.com/album/2P6CBXbbiWNv9CXVAXSy6z) | 2:37 | 2026-09-07 |  |
+| [Make it hot](https://open.spotify.com/track/06ZgGUzxTQ27mkYKvXcoZU) | [MINHO](https://open.spotify.com/artist/08uRwDeNv1d7FSwlOUZdSn) | [Make it hot \- The 2nd Mini Album](https://open.spotify.com/album/2P6CBXbbiWNv9CXVAXSy6z) | 2:37 | 2026-09-07 | 2026-11-25 |
 | [Mama Said](https://open.spotify.com/track/66JIwn15D6suNJDf4KAkKI) | [KickFlip](https://open.spotify.com/artist/6F4yXjmhQBqo6HVr6K234k) | [Flip it, Kick it!](https://open.spotify.com/album/0BSrqB9raFo2dCR8jw3JPG) | 2:56 | 2025-03-06 | 2025-05-20 |
 | [Mania](https://open.spotify.com/track/672t5orA6YcHdTM5aGFjUG) | [原因は自分にある。](https://open.spotify.com/artist/752sVqd0A0Hki7Gd2iOOV6) | [Mania](https://open.spotify.com/album/5Fve3jeQNug5Y8EuWt78ot) | 3:19 | 2024-05-07 | 2024-05-29 |
 | [Maniac \- Japanese Ver.](https://open.spotify.com/track/4ckyOStRfNqZLJ1I9q8b3V) | [MAX CHANGMIN](https://open.spotify.com/artist/7FiAkNWMb6ZBYI8tbQLuIS) | [Maniac \(Japanese Ver.\)](https://open.spotify.com/album/6Qqif0GArwgxcVSWj3wMdZ) | 3:16 | 2025-06-05 | 2025-06-13 |
@@ -658,6 +658,7 @@
 | [No Doubt](https://open.spotify.com/track/44hqFxUWsADWewEJELnncj) | [ENHYPEN](https://open.spotify.com/artist/5t5FqBwTcgKTaWmfEbwQY9) | [ROMANCE : UNTOLD \-daydream\-](https://open.spotify.com/album/380UbSJnNQ9SioALGRB0Cf) | 2:47 | 2025-03-06 | 2025-04-15 |
 | [NO FEAR NO MORE](https://open.spotify.com/track/3xeisaUnuXnMr6jFrFmzCu) | [片寄涼太](https://open.spotify.com/artist/6RexcbImnLm1O83WNPzZV2), [DOBERMAN INFINITY](https://open.spotify.com/artist/25X0RB2EWCmj9u0Pnj1uW5) | [NO FEAR NO MORE](https://open.spotify.com/album/02nzdH6EXpFF1ggzmylOHA) | 3:05 | 2024-01-31 | 2024-02-14 |
 | [No Flexin'](https://open.spotify.com/track/2Dmy2W5vepmLsAjGC1vwpd) | [SKY\-HI](https://open.spotify.com/artist/4Kbxm7oCQujaslLxf9q7k2) | [No Flexin'](https://open.spotify.com/album/7A7VatptjJ9Y6KCx6bFZ9e) | 2:29 | 2025-03-25 | 2025-05-02 |
+| [NO RETURN](https://open.spotify.com/track/21OJyEEvSpkLNi3tmdSKEQ) | [I.N](https://open.spotify.com/artist/1odvXbzhdzNajv6un9x5Mc) | [NO RETURN](https://open.spotify.com/album/2SeLjL2WqdGKRMggFypJKl) | 2:48 | 2026-11-24 |  |
 | [Nova Flame \~One of the BE:ST\-01 JUNON\~](https://open.spotify.com/track/3BA92nG2AdECdOBsWAfVPo) | [JUNON](https://open.spotify.com/artist/1EWFvN7t1373R3BrGZOLsn) | [Masterplan](https://open.spotify.com/album/58yBNtbNsOEaps6kZW8XhR) | 2:39 | 2024-04-23 | 2024-07-25 |
 | [November 11th](https://open.spotify.com/track/3WnEmdrwEvNMSv8rdTRfzA) | [Stray Kids](https://open.spotify.com/artist/2dIgFjalVxs4ThymZ67YCE) | [November 11th](https://open.spotify.com/album/4ezGU843c91AcdpAazDldU) | 3:06 | 2026-09-11 | 2026-10-21 |
 | [NOW OR NEVER](https://open.spotify.com/track/2xRSV9JyN6xJe0Puyitnzj) | [ZEROBASEONE](https://open.spotify.com/artist/7cjg7EkeZy3OI5o9Qthc6n) | [NOW OR NEVER](https://open.spotify.com/album/2X6c4OK7DZVbEAOHTfaIfi) | 3:22 | 2025-01-14 | 2025-03-07 |

@@ -179,6 +179,28 @@
     },
     {
       "album": {
+        "name": "Relaxing Classical for Studying",
+        "url": "https://open.spotify.com/album/0WfJqLaQANECrxskT2QCKM"
+      },
+      "artists": [
+        {
+          "name": "Gautier Capu\u00e7on",
+          "url": "https://open.spotify.com/artist/57ziOSBD3x0PhVbl7MXTgI"
+        },
+        {
+          "name": "Renaud Capu\u00e7on",
+          "url": "https://open.spotify.com/artist/6ttz1LgWFVgRiNDOjtDb2L"
+        }
+      ],
+      "date_added": "2026-09-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 82306,
+      "name": "Bach, JS: French Suite No. 2 in C Minor, BWV 813: V. Menuet (Transcr. Neumann for Violin and Cello)",
+      "url": "https://open.spotify.com/track/4RPoCHgFfVjgITQdxDp3nQ"
+    },
+    {
+      "album": {
         "name": "Studying with Relaxing Classical Music",
         "url": "https://open.spotify.com/album/6wOT3uLx11ITi5lsdICEWk"
       },
@@ -228,32 +250,6 @@
       "duration_ms": 82306,
       "name": "Bach, JS: French Suite No. 2 in C Minor, BWV 813: V. Menuet (Transcr. Neumann for Violin and Cello)",
       "url": "https://open.spotify.com/track/3vIOzLHn6CphNNK4f5piER"
-    },
-    {
-      "album": {
-        "name": "Relaxing Classical for Studying",
-        "url": "https://open.spotify.com/album/0WfJqLaQANECrxskT2QCKM"
-      },
-      "artists": [
-        {
-          "name": "Johann Sebastian Bach",
-          "url": "https://open.spotify.com/artist/5aIqB5nVVvmFsvSdExz408"
-        },
-        {
-          "name": "Gautier Capu\u00e7on",
-          "url": "https://open.spotify.com/artist/57ziOSBD3x0PhVbl7MXTgI"
-        },
-        {
-          "name": "Renaud Capu\u00e7on",
-          "url": "https://open.spotify.com/artist/6ttz1LgWFVgRiNDOjtDb2L"
-        }
-      ],
-      "date_added": "2026-09-24",
-      "date_added_asterisk": false,
-      "date_removed": null,
-      "duration_ms": 82306,
-      "name": "Bach, JS: French Suite No. 2 in C Minor, BWV 813: V. Menuet (Transcr. Neumann for Violin and Cello)",
-      "url": "https://open.spotify.com/track/4RPoCHgFfVjgITQdxDp3nQ"
     },
     {
       "album": {
@@ -1037,6 +1033,36 @@
     },
     {
       "album": {
+        "name": "Danny Elfman: Cello Concerto & Film Music",
+        "url": "https://open.spotify.com/album/7kZ5FcQnPYmA5WQVjlsxaK"
+      },
+      "artists": [
+        {
+          "name": "Danny Elfman",
+          "url": "https://open.spotify.com/artist/5qBZETtyzfYnXOobDXbmcD"
+        },
+        {
+          "name": "Gautier Capu\u00e7on",
+          "url": "https://open.spotify.com/artist/57ziOSBD3x0PhVbl7MXTgI"
+        },
+        {
+          "name": "Lionel Bringuier",
+          "url": "https://open.spotify.com/artist/78tOC3otzyHJOy6wO6j6hB"
+        },
+        {
+          "name": "BBC Concert Orchestra",
+          "url": "https://open.spotify.com/artist/3dIPaddbWppnquuPkcYVDg"
+        }
+      ],
+      "date_added": "2026-11-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 158506,
+      "name": "Elfman: Black Beauty: Main Titles",
+      "url": "https://open.spotify.com/track/3QKGW7Sr8vpe158j50SVeB"
+    },
+    {
+      "album": {
         "name": "Cello Concerto: III. Meditazione",
         "url": "https://open.spotify.com/album/44mSDqHmfuXaDlHHYXjNi3"
       },
@@ -1060,7 +1086,7 @@
       ],
       "date_added": "2026-10-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-25",
       "duration_ms": 306546,
       "name": "Elfman: Cello Concerto: III. Meditazione",
       "url": "https://open.spotify.com/track/4sD23S6usbHqkUlIBf5JC1"

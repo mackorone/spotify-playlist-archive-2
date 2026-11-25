@@ -4,7 +4,7 @@
 
 > Turn traffic stops into jam sessions.
 
-1,318 songs - 2 day 16 hr 6 min
+1,319 songs - 2 day 16 hr 9 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -947,7 +947,7 @@
 | [oSHA\-PIANO](https://open.spotify.com/track/7Ac8a2AhlTxlbmgj4SAEFk) | [oSHAMO](https://open.spotify.com/artist/6T8LsW0wEmWLi2IriLoQgA) | [oSHA\-PIANO](https://open.spotify.com/album/5Blk5rVGndIswfPVDBIMjr) | 2:55 | 2024-06-14 | 2024-06-21 |
 | [Oshe](https://open.spotify.com/track/3edihwD7auDVvxOi05w1kz) | [KvngVidarr](https://open.spotify.com/artist/709ds7PAYwKTWT6XsHUQmD) | [Kvng Vidarr](https://open.spotify.com/album/0Qi9VmXSx23hM7RSSIPRyP) | 2:32 | 2024-11-07 | 2025-01-22 |
 | [Oshe \(feat\. The Cavemen.\)](https://open.spotify.com/track/4upQnh3K5k1xbVOr97fdG7) | [Kizz Daniel](https://open.spotify.com/artist/1X6cBGnXpEpN7CmflLKmLV), [The Cavemen.](https://open.spotify.com/artist/1cnBVQulaNSvbind6A0dVD) | [Barnabas](https://open.spotify.com/album/0uk18xBtNopYpvMT1t7BCU) | 2:38 | 2022-06-08 | 2023-12-15 |
-| [Osusu](https://open.spotify.com/track/3yaMisjmccUHlzZYgSh9zf) | [Famous Pluto](https://open.spotify.com/artist/2hg21aqtw66FhKSo3Uzbne), [Jeriq](https://open.spotify.com/artist/7MJaBrtUNMCVWliXOa7mwk) | [Uzama The 3rd](https://open.spotify.com/album/5LKnGwKYyreWBY14SIizkw) | 2:34 | 2025-07-04 |  |
+| [Osusu](https://open.spotify.com/track/3yaMisjmccUHlzZYgSh9zf) | [Famous Pluto](https://open.spotify.com/artist/2hg21aqtw66FhKSo3Uzbne), [Jeriq](https://open.spotify.com/artist/7MJaBrtUNMCVWliXOa7mwk) | [Uzama The 3rd](https://open.spotify.com/album/5LKnGwKYyreWBY14SIizkw) | 2:34 | 2025-07-04 | 2026-11-25 |
 | [Otilo \(Izz Gone\)](https://open.spotify.com/track/3nTzEDC9sTD0YsC9C7osnN) | [Poco Lee](https://open.spotify.com/artist/63NVCM00HP3vWokNnWQAIc), [Hotkid](https://open.spotify.com/artist/18o7UrZPvSitJxti0OodSj) | [Otilo \(Izz Gone\)](https://open.spotify.com/album/6kke6rJHaFiXh99zlicPY5) | 2:42 | 2022-10-17 | 2023-10-28 |
 | [OTS](https://open.spotify.com/track/4Wq6zxgdDDHqsVOYv9T0bz) | [Tml Vibez](https://open.spotify.com/artist/4x4ggvlhCaj5oNqKRRwOAL), [Minz](https://open.spotify.com/artist/2XNwtpu314ZSFziTt0ZqZT), [Efosa](https://open.spotify.com/artist/6bMDcfWfOVl5mWw8DUgLO3) | [A Street Kid's Diary](https://open.spotify.com/album/03CVM99wc5g02qpBGKgfYM) | 3:43 | 2025-12-05 | 2026-01-15 |
 | [Outside](https://open.spotify.com/track/7hX5sPNowvaye8PiecIjJ9) | [Boy Muller](https://open.spotify.com/artist/0B8MhbUZz93I65AJSnVEUZ), [Young Jonn](https://open.spotify.com/artist/4JM1zsVj1pt38Q8mhv5teI) | [Outside](https://open.spotify.com/album/0IH78EjnVb0kPWfJlna48S) | 2:13 | 2026-11-13 |  |
@@ -1161,6 +1161,7 @@
 | [Sweet](https://open.spotify.com/track/2aisLWyo4vnIsh7yJHweaN) | [Spyro](https://open.spotify.com/artist/5ZJQWu95i72nZXLD8VC5ys), [Shoday](https://open.spotify.com/artist/23R4AtMwVv0pbJYB1joioW) | [Sweet](https://open.spotify.com/album/08MZ91zt5s5BXOnsgVDmhm) | 2:33 | 2025-05-23 | 2025-10-18 |
 | [Sweet Tea \(Aduke\)](https://open.spotify.com/track/1L7mOi50c91uzwkmeUhClS) | [Bnxn](https://open.spotify.com/artist/3zaDigUwjHvjOkSn0NDf9x) | [Sweet Tea \(Aduke\)](https://open.spotify.com/album/419GRX5ILJgc9uIMlxFWBB) | 2:29 | 2023-09-09 | 2023-11-09 |
 | [Ta Ta Ta](https://open.spotify.com/track/3rmqNsOiGqqvFNTmGlzl4R) | [Bayanni](https://open.spotify.com/artist/6FbCERtE2CKqEWihHMYjcG) | [Bayanni](https://open.spotify.com/album/0XIgw74GKfTD6MCOHzhovL) | 2:39 | 2023-01-12 | 2024-01-26 |
+| [Take Away](https://open.spotify.com/track/2nbe4zL3CBDuanu7HzmEQT) | [Ayo Maff](https://open.spotify.com/artist/4kuHnKdDObYPKYPcyJC4f6), [Naira Marley](https://open.spotify.com/artist/5DfaMudUwkoz6TAPYifqkJ) | [Take Away](https://open.spotify.com/album/1slYaqmgpal5K94Vz58XNb) | 2:44 | 2026-11-20 |  |
 | [Taku](https://open.spotify.com/track/4WLDsffcuTVCcuxUuCzKtm) | [Balloranking](https://open.spotify.com/artist/0GCgnG9YEbz5i9ASbvZNTP), [Timaya](https://open.spotify.com/artist/7gEgjd9W1P1iAD9FbubrqC) | [Taku](https://open.spotify.com/album/5atDupZQP8V0pZBVnKmyQK) | 2:28 | 2024-09-27 | 2024-10-08 |
 | [Talibans II](https://open.spotify.com/track/5zq5fYXIE7X842DD5HBiiB) | [Burna Boy](https://open.spotify.com/artist/3wcj11K77LjEY1PkEazffa), [Byron Messia](https://open.spotify.com/artist/3IDfJpj4YVkaBl7Dd52Pxv) | [Talibans II](https://open.spotify.com/album/4EouhaKTJkW8xRpLsCz7va) | 2:56 | 2023-07-20 | 2023-09-29 |
 | [Tanko \(feat\. Terry G\)](https://open.spotify.com/track/3XoYWo0jdGq0T25KfNIr3L) | [Victony](https://open.spotify.com/artist/1E5hfn5BduN2nnoZCJmUVG), [Terry G](https://open.spotify.com/artist/0Azkx5tjOLekLGEavycJ3S) | [Tanko \(feat\. Terry G\)](https://open.spotify.com/album/7FyAwmXXi3r1fwJZI7HZXN) | 3:47 | 2025-08-08 | 2026-04-03 |

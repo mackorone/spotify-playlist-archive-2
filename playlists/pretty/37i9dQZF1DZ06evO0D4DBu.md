@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0D4DBu.md) - [plain]
 
 > This is Chance the Rapper\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 210,576 likes - 50 songs - 3 hr 6 min
+[Spotify](https://open.spotify.com/user/spotify) - 210,572 likes - 50 songs - 3 hr 7 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -28,8 +28,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0D4DBu.md) - [plain]
 | 18 | [May I Have This Dance \(Remix\) \[feat\. Chance the Rapper\]](https://open.spotify.com/track/0VaIsQoIQY10uxBrOyZ5cQ) | [Francis and the Lights](https://open.spotify.com/artist/23EA28263XvtIrXuySX6oI), [Chance the Rapper](https://open.spotify.com/artist/1anyVhU62p31KFi8MEzkbf) | [May I Have This Dance \(Remix\) \[feat\. Chance the Rapper\]](https://open.spotify.com/album/25KYUrojMfQ12t7IRan2Vx) | 3:15 |
 | 19 | [Juke Jam \(feat\. Justin Bieber & Towkio\)](https://open.spotify.com/track/3eze1OsZ1rqeXkKStNfTmi) | [Chance the Rapper](https://open.spotify.com/artist/1anyVhU62p31KFi8MEzkbf), [Justin Bieber](https://open.spotify.com/artist/1uNFoZAHBGtllmzznpCI3s), [Towkio](https://open.spotify.com/artist/23sYU61n9f1CzYi8NJhAXS) | [Coloring Book](https://open.spotify.com/album/71QyofYesSsRMwFOTafnhB) | 3:39 |
 | 20 | [Juice](https://open.spotify.com/track/4J2s7nWDdA7i92sojYX8RJ) | [Chance the Rapper](https://open.spotify.com/artist/1anyVhU62p31KFi8MEzkbf) | [Acid Rap \(10th Anniversary \- Complete Edition\)](https://open.spotify.com/album/3rYMmOfNQlWXYrbd8yXqJ1) | 3:35 |
-| 21 | [Acid Rain](https://open.spotify.com/track/1aYeBUofVM4l9Pc1XGwz5q) | [Chance the Rapper](https://open.spotify.com/artist/1anyVhU62p31KFi8MEzkbf) | [Acid Rap](https://open.spotify.com/album/7Ffm3ZluTZRYEdlE5Jjlid) | 3:36 |
-| 22 | [Living Single](https://open.spotify.com/track/36xxq7VDZZsGwARsn6Clo7) | [Big Sean](https://open.spotify.com/artist/0c173mlxpT3dSFRgMO8XPh), [Chance the Rapper](https://open.spotify.com/artist/1anyVhU62p31KFi8MEzkbf), [Jeremih](https://open.spotify.com/artist/3KV3p5EY4AvKxOlhGHORLg) | [Living Single](https://open.spotify.com/album/02pV9mCJ2PJNPVWyOFTv37) | 4:36 |
+| 21 | [Living Single](https://open.spotify.com/track/36xxq7VDZZsGwARsn6Clo7) | [Big Sean](https://open.spotify.com/artist/0c173mlxpT3dSFRgMO8XPh), [Chance the Rapper](https://open.spotify.com/artist/1anyVhU62p31KFi8MEzkbf), [Jeremih](https://open.spotify.com/artist/3KV3p5EY4AvKxOlhGHORLg) | [Living Single](https://open.spotify.com/album/02pV9mCJ2PJNPVWyOFTv37) | 4:36 |
+| 22 | [Acid Rain](https://open.spotify.com/track/1aYeBUofVM4l9Pc1XGwz5q) | [Chance the Rapper](https://open.spotify.com/artist/1anyVhU62p31KFi8MEzkbf) | [Acid Rap](https://open.spotify.com/album/7Ffm3ZluTZRYEdlE5Jjlid) | 3:36 |
 | 23 | [Same Drugs](https://open.spotify.com/track/6m9qPYXmhge2QhBLfFKnVF) | [Chance the Rapper](https://open.spotify.com/artist/1anyVhU62p31KFi8MEzkbf) | [Coloring Book](https://open.spotify.com/album/71QyofYesSsRMwFOTafnhB) | 4:17 |
 | 24 | [Bad Idea \(feat\. Chance the Rapper\)](https://open.spotify.com/track/5yK37zazHUe3WxEvymZs20) | [Cordae](https://open.spotify.com/artist/0huGjMyP507tBCARyzSkrv), [Chance the Rapper](https://open.spotify.com/artist/1anyVhU62p31KFi8MEzkbf) | [The Lost Boy](https://open.spotify.com/album/6Pb7PMZtW0fuEM1lCGvCDu) | 3:54 |
 | 25 | [The Highs & The Lows \(feat\. Joey BadA$$\)](https://open.spotify.com/track/3DYZnMH1MpCJRlHzZ7fR18) | [Chance the Rapper](https://open.spotify.com/artist/1anyVhU62p31KFi8MEzkbf), [Joey Bada$$](https://open.spotify.com/artist/2P5sC9cVZDToPxyomzF1UH) | [STAR LINE](https://open.spotify.com/album/4if1BvvWfmG4go4uAmow8h) | 4:15 |
@@ -56,7 +56,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0D4DBu.md) - [plain]
 | 46 | [No More Old Men \(feat\. Jamila Woods\)](https://open.spotify.com/track/6LZLbkN28UIxUK5Q8sSta4) | [Chance the Rapper](https://open.spotify.com/artist/1anyVhU62p31KFi8MEzkbf), [Jamila Woods](https://open.spotify.com/artist/4UodukR17NIQfNu5uaqm9B) | [STAR LINE](https://open.spotify.com/album/4if1BvvWfmG4go4uAmow8h) | 4:53 |
 | 47 | [Still Get Chanel \(feat\. Chance The Rapper\)](https://open.spotify.com/track/3CwLcNeac7m8ideW4m7AC6) | [Kodak Black](https://open.spotify.com/artist/46SHBwWsqBkxI7EeeBEQG7), [Chance the Rapper](https://open.spotify.com/artist/1anyVhU62p31KFi8MEzkbf) | [Just Getting Started](https://open.spotify.com/album/29CRmHA3hsGk1nwoRnjbxC) | 3:19 |
 | 48 | [The Man Who Has Everything](https://open.spotify.com/track/7zw8liUMFv18r0FIoOXFwP) | [Chance the Rapper](https://open.spotify.com/artist/1anyVhU62p31KFi8MEzkbf) | [The Man Who Has Everything](https://open.spotify.com/album/6uVmpm7xTaSmTraOa2ydUo) | 3:38 |
-| 49 | [Together](https://open.spotify.com/track/57pOyrIbZjxLqRbME7haSW) | [Chance the Rapper](https://open.spotify.com/artist/1anyVhU62p31KFi8MEzkbf), [DJ Premier](https://open.spotify.com/artist/6GEykX11lQqp92UVOQQCC7) | [Together](https://open.spotify.com/album/5HgjPTY2Sw4yEHrZIl2TWf) | 2:59 |
+| 49 | [Broad Shoulders \(feat\. Chance the Rapper\)](https://open.spotify.com/track/6m3ZXs465Rt4Tc1iiLktXL) | [Taylor Bennett](https://open.spotify.com/artist/6CqjoQyGZlnhnq5gAUz92c), [Ludlow](https://open.spotify.com/artist/1M53T7uktQTvgqM2ui1fui), [Chance the Rapper](https://open.spotify.com/artist/1anyVhU62p31KFi8MEzkbf) | [Broad Shoulders](https://open.spotify.com/album/61KTKfjFX7exj2Od31ulYA) | 3:47 |
 | 50 | [Star Side Intro](https://open.spotify.com/track/0YiizfHPZxx0LfUQsEzsDo) | [Chance the Rapper](https://open.spotify.com/artist/1anyVhU62p31KFi8MEzkbf) | [STAR LINE](https://open.spotify.com/album/4if1BvvWfmG4go4uAmow8h) | 3:43 |
 
-Snapshot ID: `awIwgAAAAAB78KgpmkKg133/VFzk+j5p`
+Snapshot ID: `awOCAAAAAAAutPepiYJz6+jKVEq0LNfl`

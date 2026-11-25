@@ -1,12 +1,12 @@
 {
   "description": "Canta juntos con tus artistas favoritos.",
-  "num_followers": 2609,
+  "num_followers": 2612,
   "original_name": "Cantando con tus Favoritos",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAHR8VMo7xoc/rsHXIHf0mtzl6Pe4",
+  "snapshot_id": "AAAAAPyjVYjFmqbhQMZ8nzsUBlPAGYaf",
   "tracks": [
     {
       "added_at": "2020-04-27 15:43:16",
@@ -328,9 +328,9 @@
           "url": "https://open.spotify.com/artist/3y6NjjMEV0m5fSaz6AXTsa"
         }
       ],
-      "duration_ms": 165733,
-      "name": "Bichos",
-      "url": "https://open.spotify.com/track/3peRufMxZi9baS60hEK4BN"
+      "duration_ms": 124853,
+      "name": "Un Nuevo Viaje",
+      "url": "https://open.spotify.com/track/0amtQOumjJeGVMVbnq6EMl"
     },
     {
       "added_at": "2020-04-27 15:43:16",
@@ -456,9 +456,9 @@
           "url": "https://open.spotify.com/artist/3y6NjjMEV0m5fSaz6AXTsa"
         }
       ],
-      "duration_ms": 124853,
-      "name": "Un Nuevo Viaje",
-      "url": "https://open.spotify.com/track/0amtQOumjJeGVMVbnq6EMl"
+      "duration_ms": 165733,
+      "name": "Bichos",
+      "url": "https://open.spotify.com/track/3peRufMxZi9baS60hEK4BN"
     },
     {
       "added_at": "2020-04-27 15:43:16",

@@ -8775,6 +8775,24 @@
     },
     {
       "album": {
+        "name": "Master of My Make-Believe",
+        "url": "https://open.spotify.com/album/58ZjpgafuBeQ0JVxIt0hdr"
+      },
+      "artists": [
+        {
+          "name": "Santigold",
+          "url": "https://open.spotify.com/artist/6Jrxnp0JgqmeUX1veU591p"
+        }
+      ],
+      "date_added": "2026-11-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 284400,
+      "name": "Disparate Youth",
+      "url": "https://open.spotify.com/track/0t2QiRkpag0fAgs9zuCPlH"
+    },
+    {
+      "album": {
         "name": "Let's Get It On (Deluxe Edition)",
         "url": "https://open.spotify.com/album/1pwi5nEtbeFghwkwRTcZFe"
       },
@@ -9532,6 +9550,24 @@
       "duration_ms": 145542,
       "name": "Drip Too Hard (Lil Baby & Gunna)",
       "url": "https://open.spotify.com/track/78QR3Wp35dqAhFEc2qAGjE"
+    },
+    {
+      "album": {
+        "name": "Heartbeat City",
+        "url": "https://open.spotify.com/album/5ycnwHGkzOlTuMOI3Zh4iO"
+      },
+      "artists": [
+        {
+          "name": "The Cars",
+          "url": "https://open.spotify.com/artist/6DCIj8jNaNpBz8e5oKFPtp"
+        }
+      ],
+      "date_added": "2026-11-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 234493,
+      "name": "Drive",
+      "url": "https://open.spotify.com/track/3wfujdbamR3Z46F4xav7LM"
     },
     {
       "album": {
@@ -15082,7 +15118,7 @@
       ],
       "date_added": "2022-11-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-25",
       "duration_ms": 142657,
       "name": "HOTEL LOBBY (Unc & Phew)",
       "url": "https://open.spotify.com/track/0QNNd0qMCDbraS1nQPg3aA"
@@ -20662,6 +20698,24 @@
       "duration_ms": 180953,
       "name": "Lost Me",
       "url": "https://open.spotify.com/track/6TSO4hwz9WGrEUY7ABGVim"
+    },
+    {
+      "album": {
+        "name": "FILM NOIR",
+        "url": "https://open.spotify.com/album/0FffqcK2whBazSFcAIxebQ"
+      },
+      "artists": [
+        {
+          "name": "Faouzia",
+          "url": "https://open.spotify.com/artist/5NhgsV7qPWHZqYEMKzbYvo"
+        }
+      ],
+      "date_added": "2026-11-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 189471,
+      "name": "LOST MY MIND IN PARIS",
+      "url": "https://open.spotify.com/track/1p7HFcNMWbxEndrxP5sU1d"
     },
     {
       "album": {
@@ -27110,7 +27164,7 @@
       ],
       "date_added": "2026-11-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-25",
       "duration_ms": 125062,
       "name": "Pink Blush",
       "url": "https://open.spotify.com/track/7hVkWGXGtvAKtiLmHmKjPr"
@@ -29410,6 +29464,24 @@
       "duration_ms": 213753,
       "name": "Run Away to Mars",
       "url": "https://open.spotify.com/track/6G1Mz5yMgn0ydOlIvTrZ65"
+    },
+    {
+      "album": {
+        "name": "Emotion (10th Anniversary Edition)",
+        "url": "https://open.spotify.com/album/1iFZcNmUvhWq5uXYmlKlKb"
+      },
+      "artists": [
+        {
+          "name": "Carly Rae Jepsen",
+          "url": "https://open.spotify.com/artist/6sFIWsNpZYqfjUpaCgueju"
+        }
+      ],
+      "date_added": "2026-11-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 251327,
+      "name": "Run Away With Me",
+      "url": "https://open.spotify.com/track/3rLLDjCJ9JllYvwUKfd3vW"
     },
     {
       "album": {
@@ -34076,7 +34148,7 @@
       ],
       "date_added": "2026-10-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-25",
       "duration_ms": 236173,
       "name": "tell me what you want",
       "url": "https://open.spotify.com/track/72fSEYOXmccGvk5GjiNtKX"
@@ -35998,7 +36070,7 @@
       ],
       "date_added": "2026-10-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-25",
       "duration_ms": 213306,
       "name": "Touch",
       "url": "https://open.spotify.com/track/1gG5MoWK5SmHUcQPa2jxdP"

@@ -416,7 +416,7 @@
       ],
       "date_added": "2022-03-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-25",
       "duration_ms": 203424,
       "name": "Bardo Landscape",
       "url": "https://open.spotify.com/track/45QrxIJ95T9J4qrdP8DU4e"
@@ -1148,7 +1148,7 @@
       ],
       "date_added": "2022-02-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-25",
       "duration_ms": 645000,
       "name": "Dry Retch - 2021 Remaster",
       "url": "https://open.spotify.com/track/6unZyubxwrlThrvlfMw1Ot"
@@ -1674,6 +1674,24 @@
       "duration_ms": 316000,
       "name": "Gazing Back At Earth",
       "url": "https://open.spotify.com/track/2KoGypklxRxHITV7UreTUP"
+    },
+    {
+      "album": {
+        "name": "Ghost Station",
+        "url": "https://open.spotify.com/album/416gUVmBsHUEf0paMCIonf"
+      },
+      "artists": [
+        {
+          "name": "Crxz",
+          "url": "https://open.spotify.com/artist/0tTZKRMqdmvXvKBSkEjPR2"
+        }
+      ],
+      "date_added": "2026-11-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 127692,
+      "name": "Ghost Station",
+      "url": "https://open.spotify.com/track/7pt437dM53MMQruZy6Qv7V"
     },
     {
       "album": {
@@ -2859,6 +2877,24 @@
     },
     {
       "album": {
+        "name": "nightcrawler",
+        "url": "https://open.spotify.com/album/15RBCT2Myr7itvU7GCqi3L"
+      },
+      "artists": [
+        {
+          "name": "Blu Velvet",
+          "url": "https://open.spotify.com/artist/4GhQUESEKnWAUS4d9pcSS8"
+        }
+      ],
+      "date_added": "2026-11-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 124000,
+      "name": "nightcrawler",
+      "url": "https://open.spotify.com/track/7r902NW3oP6YxP9VPGfNz7"
+    },
+    {
+      "album": {
         "name": "no good",
         "url": "https://open.spotify.com/album/5bXac2jAurbn7UhA9rhBRw"
       },
@@ -3307,6 +3343,24 @@
     },
     {
       "album": {
+        "name": "reminescence",
+        "url": "https://open.spotify.com/album/5b0jCRG8t1f1FVksEIjqTl"
+      },
+      "artists": [
+        {
+          "name": "lumenveil",
+          "url": "https://open.spotify.com/artist/5Qsv1extg9HCZT67v228d3"
+        }
+      ],
+      "date_added": "2026-11-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 143080,
+      "name": "reminescence",
+      "url": "https://open.spotify.com/track/38uBaisVepPcewgK95ajym"
+    },
+    {
+      "album": {
         "name": "RITUAL (nothing is lost)",
         "url": "https://open.spotify.com/album/011DfCTPYJDAcHt8Tahjei"
       },
@@ -3466,7 +3520,7 @@
       ],
       "date_added": "2025-11-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-25",
       "duration_ms": 279935,
       "name": "searching",
       "url": "https://open.spotify.com/track/7JI8f3m5ur75iRRWZpj8sm"
@@ -4074,7 +4128,7 @@
       ],
       "date_added": "2022-02-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-25",
       "duration_ms": 159972,
       "name": "Take My Hand",
       "url": "https://open.spotify.com/track/2li1k57BZcIGJrISHXlOmh"
@@ -4326,7 +4380,7 @@
       ],
       "date_added": "2026-02-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-25",
       "duration_ms": 133591,
       "name": "Too Much Love",
       "url": "https://open.spotify.com/track/27bJg4uzTXoqMS1Udjacni"
@@ -4420,6 +4474,42 @@
       "duration_ms": 418349,
       "name": "Untethering",
       "url": "https://open.spotify.com/track/2qwUHXTpXXDGuCpjbssBdQ"
+    },
+    {
+      "album": {
+        "name": "vastness",
+        "url": "https://open.spotify.com/album/7L2l3xbcvgAoX8tXwigJvB"
+      },
+      "artists": [
+        {
+          "name": "away from",
+          "url": "https://open.spotify.com/artist/40dRV2ORNV9fYyPnTkHw0a"
+        }
+      ],
+      "date_added": "2026-11-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 128888,
+      "name": "up in the sky",
+      "url": "https://open.spotify.com/track/08h8ps2JD1P4DBNUzLvk0k"
+    },
+    {
+      "album": {
+        "name": "vacant III",
+        "url": "https://open.spotify.com/album/0nCGuzMO9N8Gpn7jrsBdb8"
+      },
+      "artists": [
+        {
+          "name": "Blu Velvet",
+          "url": "https://open.spotify.com/artist/4GhQUESEKnWAUS4d9pcSS8"
+        }
+      ],
+      "date_added": "2026-11-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 188661,
+      "name": "vacant III",
+      "url": "https://open.spotify.com/track/6FrM79mbGxbylNvi1NNGeM"
     },
     {
       "album": {

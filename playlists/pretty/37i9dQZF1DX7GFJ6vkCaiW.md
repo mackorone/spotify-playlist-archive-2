@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7GFJ6vkCaiW.md) - [plain]
 
 > Video musik lagu\-lagu Indonesia hanya untuk pengguna premium\. Cover: Nuca
 
-[Spotify](https://open.spotify.com/user/spotify) - 46,930 likes - 98 songs - 6 hr 18 min
+[Spotify](https://open.spotify.com/user/spotify) - 46,950 likes - 98 songs - 6 hr 18 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -107,4 +107,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7GFJ6vkCaiW.md) - [plain]
 | 97 | [Telat!](https://open.spotify.com/track/1NalriTQmBmSbkg0FBfw0D) | [Maisha Kanna](https://open.spotify.com/artist/4E46R3KgyeZmiJjeCaCQze) | [Telat!](https://open.spotify.com/album/0bk9Cm5TdubCQj3LbwUDpD) | 3:43 |
 | 98 | [Kita Yang Mesra](https://open.spotify.com/track/5Dr0kHJTKfd5KlbCUfjPJB) | [Adrian Khalif](https://open.spotify.com/artist/6X28gNASnalAWseUA8uI4X) | [Kita Yang Mesra](https://open.spotify.com/album/5l9TJ5nOPwVg4Mp9hjZYtl) | 3:45 |
 
-Snapshot ID: `AAAAACE7dbQIe5AonDRKttDZgfQ2/BnY`
+Snapshot ID: `AAAAALMHQjkJQHsVbkZmGAPIkTQLXFvz`

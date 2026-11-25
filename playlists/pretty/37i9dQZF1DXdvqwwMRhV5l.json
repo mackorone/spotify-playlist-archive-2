@@ -1,12 +1,12 @@
 {
   "description": "Allerbeste songs uit de 00's! Cover: Dinand Woesthoff (Kane)",
-  "num_followers": 75500,
+  "num_followers": 75497,
   "original_name": "00's Allerbeste",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAF+aH3vCBBe3OG81CxYX6++KlbFd",
+  "snapshot_id": "AAAAANkHQed141LixeRorl7drpbfmxJx",
   "tracks": [
     {
       "added_at": "2024-07-19 06:48:03",
@@ -59,22 +59,6 @@
     {
       "added_at": "2024-07-19 06:48:03",
       "album": {
-        "name": "Hopes And Fears",
-        "url": "https://open.spotify.com/album/0MlTOiC5ZYKFGeZ8h3D4rd"
-      },
-      "artists": [
-        {
-          "name": "Keane",
-          "url": "https://open.spotify.com/artist/53A0W3U0s8diEn9RhXQhVz"
-        }
-      ],
-      "duration_ms": 237146,
-      "name": "Somewhere Only We Know",
-      "url": "https://open.spotify.com/track/1SKPmfSYaPsETbRHaiA18G"
-    },
-    {
-      "added_at": "2024-07-19 06:48:03",
-      "album": {
         "name": "Good Girl Gone Bad: Reloaded",
         "url": "https://open.spotify.com/album/3JSWZWeTHF4HDGt5Eozdy7"
       },
@@ -91,6 +75,22 @@
       "duration_ms": 275986,
       "name": "Umbrella",
       "url": "https://open.spotify.com/track/49FYlytm3dAAraYgpoJZux"
+    },
+    {
+      "added_at": "2024-07-19 06:48:03",
+      "album": {
+        "name": "Hopes And Fears",
+        "url": "https://open.spotify.com/album/0MlTOiC5ZYKFGeZ8h3D4rd"
+      },
+      "artists": [
+        {
+          "name": "Keane",
+          "url": "https://open.spotify.com/artist/53A0W3U0s8diEn9RhXQhVz"
+        }
+      ],
+      "duration_ms": 237146,
+      "name": "Somewhere Only We Know",
+      "url": "https://open.spotify.com/track/1SKPmfSYaPsETbRHaiA18G"
     },
     {
       "added_at": "2024-07-19 06:48:03",
@@ -239,22 +239,6 @@
     {
       "added_at": "2024-07-19 06:48:03",
       "album": {
-        "name": "Justified",
-        "url": "https://open.spotify.com/album/6QPkyl04rXwTGlGlcYaRoW"
-      },
-      "artists": [
-        {
-          "name": "Justin Timberlake",
-          "url": "https://open.spotify.com/artist/31TPClRtHm23RisEBtV3X7"
-        }
-      ],
-      "duration_ms": 267266,
-      "name": "Rock Your Body",
-      "url": "https://open.spotify.com/track/1AWQoqb9bSvzTjaLralEkT"
-    },
-    {
-      "added_at": "2024-07-19 06:48:03",
-      "album": {
         "name": "Only By The Night",
         "url": "https://open.spotify.com/album/5CZR6ljD0x9fTiS4mh9wMp"
       },
@@ -267,6 +251,22 @@
       "duration_ms": 230760,
       "name": "Use Somebody",
       "url": "https://open.spotify.com/track/5VGlqQANWDKJFl0MBG3sg2"
+    },
+    {
+      "added_at": "2024-07-19 06:48:03",
+      "album": {
+        "name": "Crush",
+        "url": "https://open.spotify.com/album/0Q9SljCrM0CL0bR23MuP69"
+      },
+      "artists": [
+        {
+          "name": "Bon Jovi",
+          "url": "https://open.spotify.com/artist/58lV9VcRSjABbAbfWS6skp"
+        }
+      ],
+      "duration_ms": 224493,
+      "name": "It's My Life",
+      "url": "https://open.spotify.com/track/0v1XpBHnsbkCn7iJ9Ucr1l"
     },
     {
       "added_at": "2024-07-19 06:48:03",
@@ -287,18 +287,18 @@
     {
       "added_at": "2024-07-19 06:48:03",
       "album": {
-        "name": "Crush",
-        "url": "https://open.spotify.com/album/0Q9SljCrM0CL0bR23MuP69"
+        "name": "Justified",
+        "url": "https://open.spotify.com/album/6QPkyl04rXwTGlGlcYaRoW"
       },
       "artists": [
         {
-          "name": "Bon Jovi",
-          "url": "https://open.spotify.com/artist/58lV9VcRSjABbAbfWS6skp"
+          "name": "Justin Timberlake",
+          "url": "https://open.spotify.com/artist/31TPClRtHm23RisEBtV3X7"
         }
       ],
-      "duration_ms": 224493,
-      "name": "It's My Life",
-      "url": "https://open.spotify.com/track/0v1XpBHnsbkCn7iJ9Ucr1l"
+      "duration_ms": 267266,
+      "name": "Rock Your Body",
+      "url": "https://open.spotify.com/track/1AWQoqb9bSvzTjaLralEkT"
     },
     {
       "added_at": "2024-07-19 06:48:03",
@@ -1431,22 +1431,6 @@
     {
       "added_at": "2024-07-19 06:48:03",
       "album": {
-        "name": "The Best of Anastacia",
-        "url": "https://open.spotify.com/album/0uO5BAM0HsJoC4PQxXKDAf"
-      },
-      "artists": [
-        {
-          "name": "Anastacia",
-          "url": "https://open.spotify.com/artist/2siHvYaxjaW5rKVRiIrMYH"
-        }
-      ],
-      "duration_ms": 258800,
-      "name": "Left Outside Alone",
-      "url": "https://open.spotify.com/track/3OLf2Gid7GdhRBPKi1ZPeP"
-    },
-    {
-      "added_at": "2024-07-19 06:48:03",
-      "album": {
         "name": "Hallelujah",
         "url": "https://open.spotify.com/album/6gBHHYfOLj1FgZIqU3ujbr"
       },
@@ -1459,6 +1443,22 @@
       "duration_ms": 226360,
       "name": "Hallelujah",
       "url": "https://open.spotify.com/track/0m86OeKQHxdpygDPzGQUPK"
+    },
+    {
+      "added_at": "2024-07-19 06:48:03",
+      "album": {
+        "name": "The Best of Anastacia",
+        "url": "https://open.spotify.com/album/0uO5BAM0HsJoC4PQxXKDAf"
+      },
+      "artists": [
+        {
+          "name": "Anastacia",
+          "url": "https://open.spotify.com/artist/2siHvYaxjaW5rKVRiIrMYH"
+        }
+      ],
+      "duration_ms": 258800,
+      "name": "Left Outside Alone",
+      "url": "https://open.spotify.com/track/3OLf2Gid7GdhRBPKi1ZPeP"
     },
     {
       "added_at": "2024-07-19 06:48:03",

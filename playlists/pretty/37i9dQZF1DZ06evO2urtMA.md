@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2urtMA.md) - [plain]
 
 > This is Narrow Head\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 2,859 likes - 26 songs - 1 hr 30 min
+[Spotify](https://open.spotify.com/user/spotify) - 2,861 likes - 26 songs - 1 hr 30 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -35,4 +35,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2urtMA.md) - [plain]
 | 25 | [Hard to Swallow](https://open.spotify.com/track/6XSR3rZzQRQ7oaRYqbe408) | [Narrow Head](https://open.spotify.com/artist/4g6ODwOQYRZLsP89kEoBIu) | [12th House Rock](https://open.spotify.com/album/5YHS5GXWuW5IuXwGqET6t0) | 2:46 |
 | 26 | [12th House](https://open.spotify.com/track/1thpTj5LbAQbWTzPBbWRQX) | [Narrow Head](https://open.spotify.com/artist/4g6ODwOQYRZLsP89kEoBIu) | [12th House Rock](https://open.spotify.com/album/5YHS5GXWuW5IuXwGqET6t0) | 1:28 |
 
-Snapshot ID: `awIwgAAAAABX8R1RvKSFxJfMeCcoRzI8`
+Snapshot ID: `awOCAAAAAADU0X9nVU/b6T03oLDawoKT`

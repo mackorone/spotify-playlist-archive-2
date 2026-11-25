@@ -513,6 +513,36 @@
     },
     {
       "album": {
+        "name": "Dawn Chorus",
+        "url": "https://open.spotify.com/album/0QFltWe8mBdI4oKIV3CsSh"
+      },
+      "artists": [
+        {
+          "name": "Erland Cooper",
+          "url": "https://open.spotify.com/artist/636k3cBTCgdZfXzCj7Cuaa"
+        },
+        {
+          "name": "BBC Scottish Symphony Orchestra",
+          "url": "https://open.spotify.com/artist/3CufywuKIBC8WhWNvzTQr1"
+        },
+        {
+          "name": "Freya Goldmark",
+          "url": "https://open.spotify.com/artist/3JlsLQ4654rWTZKRqoWhr1"
+        },
+        {
+          "name": "Janne Nisonen",
+          "url": "https://open.spotify.com/artist/0wAXBGTTMma4WuOU8B8XbU"
+        }
+      ],
+      "date_added": "2026-11-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 205977,
+      "name": "Dawn Chorus - III. Fratercula arctica - Andante",
+      "url": "https://open.spotify.com/track/27aXOOXT0NbnFmb0DvXgOl"
+    },
+    {
+      "album": {
         "name": "Daydream Damsel",
         "url": "https://open.spotify.com/album/479QMqPZQxdBp9HZKp5j1B"
       },

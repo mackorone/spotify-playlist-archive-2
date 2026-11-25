@@ -1,12 +1,12 @@
 {
   "description": "This is Ana Gabriel. The essential tracks, all in one playlist.",
-  "num_followers": 378749,
+  "num_followers": 378774,
   "original_name": "This Is Ana Gabriel",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "awIwgAAAAAALVRAK3j2sz/GatJMfiNuS",
+  "snapshot_id": "awOCAAAAAABWr2NVv/BwK0NZV1wcr1K9",
   "tracks": [
     {
       "added_at": null,
@@ -239,22 +239,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "Conquistando Corazones",
-        "url": "https://open.spotify.com/album/2sVo3Q8BIKVwRtgplt6YYP"
+        "name": "Ayer Y Hoy",
+        "url": "https://open.spotify.com/album/301WAwIJ2sSfY8I4Jwujqm"
       },
       "artists": [
-        {
-          "name": "K-Paz De La Sierra",
-          "url": "https://open.spotify.com/artist/1TCSet7pGZCDkcXCOzH359"
-        },
         {
           "name": "Ana Gabriel",
           "url": "https://open.spotify.com/artist/41ESHLayJ5sDKjAOv6cMhe"
         }
       ],
-      "duration_ms": 224653,
-      "name": "Y Aqu\u00ed Estoy",
-      "url": "https://open.spotify.com/track/2fKimbKY2cu68b63kYODbB"
+      "duration_ms": 208066,
+      "name": "Qu\u00e9 Manera de Perder",
+      "url": "https://open.spotify.com/track/1Tntl6GISO58wXuQ7bxXcg"
     },
     {
       "added_at": null,
@@ -275,18 +271,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "Ayer Y Hoy",
-        "url": "https://open.spotify.com/album/301WAwIJ2sSfY8I4Jwujqm"
+        "name": "Conquistando Corazones",
+        "url": "https://open.spotify.com/album/2sVo3Q8BIKVwRtgplt6YYP"
       },
       "artists": [
+        {
+          "name": "K-Paz De La Sierra",
+          "url": "https://open.spotify.com/artist/1TCSet7pGZCDkcXCOzH359"
+        },
         {
           "name": "Ana Gabriel",
           "url": "https://open.spotify.com/artist/41ESHLayJ5sDKjAOv6cMhe"
         }
       ],
-      "duration_ms": 208066,
-      "name": "Qu\u00e9 Manera de Perder",
-      "url": "https://open.spotify.com/track/1Tntl6GISO58wXuQ7bxXcg"
+      "duration_ms": 224653,
+      "name": "Y Aqu\u00ed Estoy",
+      "url": "https://open.spotify.com/track/2fKimbKY2cu68b63kYODbB"
     },
     {
       "added_at": null,

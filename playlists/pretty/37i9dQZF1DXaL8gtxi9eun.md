@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaL8gtxi9eun.md) - [plain]
 
 > كل ما هو جديد في عالم البوب المصري\. الغلاف: سميرة سعيد
 
-[Spotify](https://open.spotify.com/user/spotify) - 284,961 likes - 93 songs - 5 hr 2 min
+[Spotify](https://open.spotify.com/user/spotify) - 284,963 likes - 93 songs - 5 hr 2 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -30,7 +30,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaL8gtxi9eun.md) - [plain]
 | 20 | [العيله](https://open.spotify.com/track/2U1l0QOBJJuxlywhWsrPJL) | [Ahmed Saad](https://open.spotify.com/artist/5D2ui1KD49TfyCDb35zf5V) | [العيله](https://open.spotify.com/album/5bAhyAktQQvqvJhBNSrS3b) | 3:15 |
 | 21 | [ZEKRA](https://open.spotify.com/track/32is7x8ALfhlgd04BUBbmV) | [Khaled Ali](https://open.spotify.com/artist/4usD9NgDPMmANZrcqBvgK1), [Ahmed Diaa](https://open.spotify.com/artist/4lO4iNwFLpdjj2JRTJlFyy) | [ZEKRA](https://open.spotify.com/album/1SNBCKKs6CNPi7P9LyUvUG) | 3:16 |
 | 22 | [عارفه اكتر حاجه بتوجع؟](https://open.spotify.com/track/5sSglUuLP6OdZ0khWwD3vB) | [Youssif Elashry](https://open.spotify.com/artist/4IMgqWorWJUqUlbULGdoBa) | [عارفه اكتر حاجه بتوجع؟](https://open.spotify.com/album/6OvQhP8dKzcP264IOupwiI) | 2:37 |
-| 23 | [MESH SAME3 \- مش سامع](https://open.spotify.com/track/1jGgbWTCRhtCiFGXSJjyjO) | [ESS](https://open.spotify.com/artist/4Ac6dsXygagJvXowyX9btP), [Shodzoo](https://open.spotify.com/artist/6aDqeSZwA4Pjsjfjp1b8CU) | [MESH SAME3 \- مش سامع](https://open.spotify.com/album/6V1NjxxKNXhlFHuhvqSPU2) | 2:22 |
+| 23 | [MESH SAME3 \- مش سامع](https://open.spotify.com/track/1jGgbWTCRhtCiFGXSJjyjO) | [ESS](https://open.spotify.com/artist/4Ac6dsXygagJvXowyX9btP), [SHODZOO](https://open.spotify.com/artist/2wWH8cYdEaH509ff9Jnbxp) | [MESH SAME3 \- مش سامع](https://open.spotify.com/album/6V1NjxxKNXhlFHuhvqSPU2) | 2:22 |
 | 24 | [Zanbak / ذنبك](https://open.spotify.com/track/6WkMPTRGq1FsjG4jGGsulO) | [Ghaliaa](https://open.spotify.com/artist/3FVonQ6pTMMbqYb0Rf7WE8), [Aziz Maraka](https://open.spotify.com/artist/2qi698G7BphxwdPUbQgZMU) | [Zanbak / ذنبك](https://open.spotify.com/album/7zg7bvhK3nDtRIfEd66lqp) | 2:20 |
 | 25 | [قمر](https://open.spotify.com/track/2DHHUo0fxHjzNcepnyd5Qa) | [Karim Mohsen](https://open.spotify.com/artist/56JGGZouDaedckdIuTg98X) | [إبن الناس](https://open.spotify.com/album/4DBBNMMZW2Ogo66XYA6qBM) | 3:59 |
 | 26 | [Wahed Bas](https://open.spotify.com/track/6XIWYbfSGxcK0yaNtGdrNU) | [Sharnouby](https://open.spotify.com/artist/7zUEJRavunKtqi2n029IHn) | [Wahed Bas](https://open.spotify.com/album/0aOYDx9ERBWahhcF9yQkqb) | 3:20 |
@@ -102,4 +102,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaL8gtxi9eun.md) - [plain]
 | 92 | [Aalo Anni Eih](https://open.spotify.com/track/5wWNCy79noqVF1Q7bYGme2) | [Mohamed Hamaki](https://open.spotify.com/artist/6bb9VI1PpPTEmdgcgjTppX) | [Aalo Anni Eih](https://open.spotify.com/album/1FgIBotuC2fN2XktxG2LW2) | 5:00 |
 | 93 | [Wasalt Ma3ak](https://open.spotify.com/track/1SRla7UVFXue89poJ52X4L) | [Ahmed Saad](https://open.spotify.com/artist/5D2ui1KD49TfyCDb35zf5V) | [THE SORROWS ALBUM](https://open.spotify.com/album/7gSawX3Lw4xbpFUj8ZRtiN) | 4:42 |
 
-Snapshot ID: `AAAAACrAopeccyZVwKxOmiL6WwAuOHR8`
+Snapshot ID: `AAAAADlfZGUwcZGpf0FNTVjZI6PQCrdR`

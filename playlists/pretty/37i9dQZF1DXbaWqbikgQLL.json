@@ -1,12 +1,12 @@
 {
   "description": "Antes de entrar, permita salir.",
-  "num_followers": 90815,
+  "num_followers": 90877,
   "original_name": "Coraz\u00f3n Chilango",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAABlT3MBS9PVahlxxiMiBQVDrPTCo",
+  "snapshot_id": "AAAAAMjCpJFeF5Pyz5BIQD44VYPVo3Zh",
   "tracks": [
     {
       "added_at": "2026-09-11 06:00:32",
@@ -231,22 +231,6 @@
     {
       "added_at": "2026-09-11 06:00:32",
       "album": {
-        "name": "Tus Jefes No Me Quieren. Lleg\u00f3 la Cumbia",
-        "url": "https://open.spotify.com/album/59DJY70HuReCmWs6EzRoNA"
-      },
-      "artists": [
-        {
-          "name": "Grupo Ensamble",
-          "url": "https://open.spotify.com/artist/4qDQBPUMcJUH7BQ9dfJnfI"
-        }
-      ],
-      "duration_ms": 226346,
-      "name": "Tus Jefes No Me Quieren",
-      "url": "https://open.spotify.com/track/5ZkVnHs6BZViyXnl4LmRXh"
-    },
-    {
-      "added_at": "2026-09-11 06:00:32",
-      "album": {
         "name": "Contraste",
         "url": "https://open.spotify.com/album/00LOUiA5823qxkOcHiio0W"
       },
@@ -259,6 +243,22 @@
       "duration_ms": 266786,
       "name": "Conteo Regresivo - Salsa Version",
       "url": "https://open.spotify.com/track/37nXsqE1XW0cxOQvIMsmFc"
+    },
+    {
+      "added_at": "2026-09-11 06:00:32",
+      "album": {
+        "name": "Tus Jefes No Me Quieren. Lleg\u00f3 la Cumbia",
+        "url": "https://open.spotify.com/album/59DJY70HuReCmWs6EzRoNA"
+      },
+      "artists": [
+        {
+          "name": "Grupo Ensamble",
+          "url": "https://open.spotify.com/artist/4qDQBPUMcJUH7BQ9dfJnfI"
+        }
+      ],
+      "duration_ms": 226346,
+      "name": "Tus Jefes No Me Quieren",
+      "url": "https://open.spotify.com/track/5ZkVnHs6BZViyXnl4LmRXh"
     },
     {
       "added_at": "2026-09-11 06:00:32",
@@ -551,22 +551,6 @@
     {
       "added_at": "2026-09-11 06:00:32",
       "album": {
-        "name": "Una rola para los minusv\u00e1lidos",
-        "url": "https://open.spotify.com/album/1gk6tISd64foZA1eWwDnNg"
-      },
-      "artists": [
-        {
-          "name": "El Tri",
-          "url": "https://open.spotify.com/artist/3HgZDevp7GspkLUAa5cKne"
-        }
-      ],
-      "duration_ms": 198040,
-      "name": "Las piedras rodantes",
-      "url": "https://open.spotify.com/track/1gd7Q7mxviLWkG5HgvAMAc"
-    },
-    {
-      "added_at": "2026-09-11 06:00:32",
-      "album": {
         "name": "Cicatrices",
         "url": "https://open.spotify.com/album/1p4Y2PEsXTnTxWrYjihemm"
       },
@@ -579,6 +563,22 @@
       "duration_ms": 204680,
       "name": "Besar Tu Piel",
       "url": "https://open.spotify.com/track/3sxYWCxHH0TcbPcEd6Ie0N"
+    },
+    {
+      "added_at": "2026-09-11 06:00:32",
+      "album": {
+        "name": "Una rola para los minusv\u00e1lidos",
+        "url": "https://open.spotify.com/album/1gk6tISd64foZA1eWwDnNg"
+      },
+      "artists": [
+        {
+          "name": "El Tri",
+          "url": "https://open.spotify.com/artist/3HgZDevp7GspkLUAa5cKne"
+        }
+      ],
+      "duration_ms": 198040,
+      "name": "Las piedras rodantes",
+      "url": "https://open.spotify.com/track/1gd7Q7mxviLWkG5HgvAMAc"
     },
     {
       "added_at": "2026-09-11 06:00:32",
@@ -783,22 +783,6 @@
     {
       "added_at": "2026-09-11 06:00:32",
       "album": {
-        "name": "El Circo",
-        "url": "https://open.spotify.com/album/5VJ9cWdT6Kv9UawePqLhCI"
-      },
-      "artists": [
-        {
-          "name": "Maldita Vecindad Y Los Hijos Del 5to. Patio",
-          "url": "https://open.spotify.com/artist/6WvDtNFHOWHfiNy8NVHujT"
-        }
-      ],
-      "duration_ms": 194200,
-      "name": "Pachuco",
-      "url": "https://open.spotify.com/track/5ovYwJmYcFvSvn6nRQOPyL"
-    },
-    {
-      "added_at": "2026-09-11 06:00:32",
-      "album": {
         "name": "15 Grandes",
         "url": "https://open.spotify.com/album/5IFN7h62KHYzNaI5BBIpHj"
       },
@@ -811,6 +795,22 @@
       "duration_ms": 308837,
       "name": "Si No La Tengo",
       "url": "https://open.spotify.com/track/5BSYu3CEg0L9sDBNXOwKTk"
+    },
+    {
+      "added_at": "2026-09-11 06:00:32",
+      "album": {
+        "name": "El Circo",
+        "url": "https://open.spotify.com/album/5VJ9cWdT6Kv9UawePqLhCI"
+      },
+      "artists": [
+        {
+          "name": "Maldita Vecindad Y Los Hijos Del 5to. Patio",
+          "url": "https://open.spotify.com/artist/6WvDtNFHOWHfiNy8NVHujT"
+        }
+      ],
+      "duration_ms": 194200,
+      "name": "Pachuco",
+      "url": "https://open.spotify.com/track/5ovYwJmYcFvSvn6nRQOPyL"
     },
     {
       "added_at": "2026-09-11 06:00:32",
@@ -1155,22 +1155,6 @@
     {
       "added_at": "2026-09-11 06:00:32",
       "album": {
-        "name": "Amanec\u00ed Contigo Y Sin Tab\u00fa",
-        "url": "https://open.spotify.com/album/40PyxT3MBm2aGxKLKKBfBB"
-      },
-      "artists": [
-        {
-          "name": "Hildemaro",
-          "url": "https://open.spotify.com/artist/2jc6xa4fD1dcYzuzGadGic"
-        }
-      ],
-      "duration_ms": 242648,
-      "name": "Desde El Fondo De Mi Coraz\u00f3n",
-      "url": "https://open.spotify.com/track/3rQndjZ676PPjV9QvL42te"
-    },
-    {
-      "added_at": "2026-09-11 06:00:32",
-      "album": {
         "name": "Grito En Silencio",
         "url": "https://open.spotify.com/album/5FXAiILW1gioBCuF7I39wS"
       },
@@ -1183,6 +1167,22 @@
       "duration_ms": 215973,
       "name": "El Afilador",
       "url": "https://open.spotify.com/track/7ob6SovekT6cESeyUHiFQn"
+    },
+    {
+      "added_at": "2026-09-11 06:00:32",
+      "album": {
+        "name": "Amanec\u00ed Contigo Y Sin Tab\u00fa",
+        "url": "https://open.spotify.com/album/40PyxT3MBm2aGxKLKKBfBB"
+      },
+      "artists": [
+        {
+          "name": "Hildemaro",
+          "url": "https://open.spotify.com/artist/2jc6xa4fD1dcYzuzGadGic"
+        }
+      ],
+      "duration_ms": 242648,
+      "name": "Desde El Fondo De Mi Coraz\u00f3n",
+      "url": "https://open.spotify.com/track/3rQndjZ676PPjV9QvL42te"
     },
     {
       "added_at": "2026-09-11 06:00:32",
@@ -1219,22 +1219,6 @@
     {
       "added_at": "2026-09-11 06:00:32",
       "album": {
-        "name": "Victimas Del Doctor Cerebro",
-        "url": "https://open.spotify.com/album/4dcFGAgSnvjUK2fBUWoWSv"
-      },
-      "artists": [
-        {
-          "name": "Victimas Del Doctor Cerebro",
-          "url": "https://open.spotify.com/artist/6Z112eJxKl1E3nAbYZBr7M"
-        }
-      ],
-      "duration_ms": 221640,
-      "name": "El Esqueleto",
-      "url": "https://open.spotify.com/track/1Z05BEFLTKxdp9xSjUnPGX"
-    },
-    {
-      "added_at": "2026-09-11 06:00:32",
-      "album": {
         "name": "Nelson D\u00edaz y la Constelaci\u00f3n",
         "url": "https://open.spotify.com/album/09vJMrho92acNaYIBvqcVi"
       },
@@ -1247,6 +1231,22 @@
       "duration_ms": 267416,
       "name": "As\u00ed Fue",
       "url": "https://open.spotify.com/track/4xaOEKr5ekCoBcGesvcrM9"
+    },
+    {
+      "added_at": "2026-09-11 06:00:32",
+      "album": {
+        "name": "Victimas Del Doctor Cerebro",
+        "url": "https://open.spotify.com/album/4dcFGAgSnvjUK2fBUWoWSv"
+      },
+      "artists": [
+        {
+          "name": "Victimas Del Doctor Cerebro",
+          "url": "https://open.spotify.com/artist/6Z112eJxKl1E3nAbYZBr7M"
+        }
+      ],
+      "duration_ms": 221640,
+      "name": "El Esqueleto",
+      "url": "https://open.spotify.com/track/1Z05BEFLTKxdp9xSjUnPGX"
     },
     {
       "added_at": "2026-09-11 06:00:32",
@@ -2159,22 +2159,6 @@
     {
       "added_at": "2026-09-11 06:00:32",
       "album": {
-        "name": "Llorar",
-        "url": "https://open.spotify.com/album/7Jg8fZez7GpqByiKAnej88"
-      },
-      "artists": [
-        {
-          "name": "Los Socios Del Ritmo",
-          "url": "https://open.spotify.com/artist/7bzt5lHL6bzLO3c9mkxNMW"
-        }
-      ],
-      "duration_ms": 223160,
-      "name": "Llorar",
-      "url": "https://open.spotify.com/track/2f9XA7pBMjrHPO2cJW5XCu"
-    },
-    {
-      "added_at": "2026-09-11 06:00:32",
-      "album": {
         "name": "Guajiro Natural",
         "url": "https://open.spotify.com/album/1X7NlROjvvMICSei8xcFJh"
       },
@@ -2187,6 +2171,22 @@
       "duration_ms": 364573,
       "name": "Un Mont\u00f3n De Estrellas",
       "url": "https://open.spotify.com/track/21iD8UKoYicaMmVISo6Pi4"
+    },
+    {
+      "added_at": "2026-09-11 06:00:32",
+      "album": {
+        "name": "Llorar",
+        "url": "https://open.spotify.com/album/7Jg8fZez7GpqByiKAnej88"
+      },
+      "artists": [
+        {
+          "name": "Los Socios Del Ritmo",
+          "url": "https://open.spotify.com/artist/7bzt5lHL6bzLO3c9mkxNMW"
+        }
+      ],
+      "duration_ms": 223160,
+      "name": "Llorar",
+      "url": "https://open.spotify.com/track/2f9XA7pBMjrHPO2cJW5XCu"
     },
     {
       "added_at": "2026-09-11 06:00:32",

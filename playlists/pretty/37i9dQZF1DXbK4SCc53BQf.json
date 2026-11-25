@@ -1,12 +1,12 @@
 {
   "description": "\u00a1Aqui est\u00e1n todas las esenciales Tropicales de adoraci\u00f3n!",
-  "num_followers": 108710,
+  "num_followers": 108717,
   "original_name": "Inspiraci\u00f3n Tropical",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAPhPk+3culuWn+usuYun/R+V5jp3",
+  "snapshot_id": "AAAAAFm1vpOJ8IRQNfTwPtSNmdEk2KLM",
   "tracks": [
     {
       "added_at": "2026-11-06 05:01:41",
@@ -587,6 +587,22 @@
     {
       "added_at": "2026-11-06 05:01:41",
       "album": {
+        "name": "Mi Canto",
+        "url": "https://open.spotify.com/album/3g50FSDPFIWq8faoEtUyKx"
+      },
+      "artists": [
+        {
+          "name": "Antonio y Joel Con Labranza",
+          "url": "https://open.spotify.com/artist/3UDEikwpkDlVfELpX7kM6z"
+        }
+      ],
+      "duration_ms": 225870,
+      "name": "Que Estes Presente",
+      "url": "https://open.spotify.com/track/6RYEaMxLgyopcSMR98exqu"
+    },
+    {
+      "added_at": "2026-11-06 05:01:41",
+      "album": {
         "name": "Quien Vive",
         "url": "https://open.spotify.com/album/03KtAeAhimNGguuhEljubt"
       },
@@ -607,22 +623,6 @@
     {
       "added_at": "2026-11-06 05:01:41",
       "album": {
-        "name": "Mi Canto",
-        "url": "https://open.spotify.com/album/3g50FSDPFIWq8faoEtUyKx"
-      },
-      "artists": [
-        {
-          "name": "Antonio y Joel Con Labranza",
-          "url": "https://open.spotify.com/artist/3UDEikwpkDlVfELpX7kM6z"
-        }
-      ],
-      "duration_ms": 225870,
-      "name": "Que Estes Presente",
-      "url": "https://open.spotify.com/track/6RYEaMxLgyopcSMR98exqu"
-    },
-    {
-      "added_at": "2026-11-06 05:01:41",
-      "album": {
         "name": "Waymaker (Espa\u00f1ol)",
         "url": "https://open.spotify.com/album/1oTCGEEJlZXPaSQFoO45c1"
       },
@@ -635,30 +635,6 @@
       "duration_ms": 393750,
       "name": "Waymaker (Espa\u00f1ol)",
       "url": "https://open.spotify.com/track/3zuzfS5hHgSTzTUW6bw6Z8"
-    },
-    {
-      "added_at": "2026-11-06 05:01:41",
-      "album": {
-        "name": "Con Yahweh 357",
-        "url": "https://open.spotify.com/album/0YX3ImYiB3lShSjoFVIjWD"
-      },
-      "artists": [
-        {
-          "name": "Lenny357",
-          "url": "https://open.spotify.com/artist/5mJr77O0o0QHkcD24dwCse"
-        },
-        {
-          "name": "Emanuel Lara",
-          "url": "https://open.spotify.com/artist/4h8AlGulCUpliPcRlj40Ap"
-        },
-        {
-          "name": "Frank Miami",
-          "url": "https://open.spotify.com/artist/036v4kwZy1i0z79JX4or5K"
-        }
-      ],
-      "duration_ms": 132127,
-      "name": "Con Yahweh 357",
-      "url": "https://open.spotify.com/track/6ugafxRL2qE1sbhWUdgcZj"
     },
     {
       "added_at": "2026-11-06 05:01:41",
@@ -699,6 +675,30 @@
     {
       "added_at": "2026-11-06 05:01:41",
       "album": {
+        "name": "Con Yahweh 357",
+        "url": "https://open.spotify.com/album/0YX3ImYiB3lShSjoFVIjWD"
+      },
+      "artists": [
+        {
+          "name": "Lenny357",
+          "url": "https://open.spotify.com/artist/5mJr77O0o0QHkcD24dwCse"
+        },
+        {
+          "name": "Emanuel Lara",
+          "url": "https://open.spotify.com/artist/4h8AlGulCUpliPcRlj40Ap"
+        },
+        {
+          "name": "Frank Miami",
+          "url": "https://open.spotify.com/artist/036v4kwZy1i0z79JX4or5K"
+        }
+      ],
+      "duration_ms": 132127,
+      "name": "Con Yahweh 357",
+      "url": "https://open.spotify.com/track/6ugafxRL2qE1sbhWUdgcZj"
+    },
+    {
+      "added_at": "2026-11-06 05:01:41",
+      "album": {
         "name": "Yo la Tengo",
         "url": "https://open.spotify.com/album/4OskArflNrMkkkrFi7cv7e"
       },
@@ -715,22 +715,6 @@
       "duration_ms": 202525,
       "name": "Yo la Tengo",
       "url": "https://open.spotify.com/track/71SVOiLqzoTGtI8P90Pt8Q"
-    },
-    {
-      "added_at": "2026-11-06 05:01:41",
-      "album": {
-        "name": "Hombre Nuevo",
-        "url": "https://open.spotify.com/album/5fwaqRiuPuWy20W0H8L33G"
-      },
-      "artists": [
-        {
-          "name": "Yore",
-          "url": "https://open.spotify.com/artist/6vBxQQKQFsW9PtLxFUOGPa"
-        }
-      ],
-      "duration_ms": 178285,
-      "name": "Hombre Nuevo",
-      "url": "https://open.spotify.com/track/72WPumC5PUtjxDqei587sW"
     },
     {
       "added_at": "2026-11-06 05:01:41",
@@ -755,18 +739,18 @@
     {
       "added_at": "2026-11-06 05:01:41",
       "album": {
-        "name": "El M\u00e1s Buscado",
-        "url": "https://open.spotify.com/album/4iExEpHD8bkvJ9NHzqM157"
+        "name": "Hombre Nuevo",
+        "url": "https://open.spotify.com/album/5fwaqRiuPuWy20W0H8L33G"
       },
       "artists": [
         {
-          "name": "Domingo Qui\u00f1ones",
-          "url": "https://open.spotify.com/artist/4JqvRbbOIF4EUmsVQMTgjs"
+          "name": "Yore",
+          "url": "https://open.spotify.com/artist/6vBxQQKQFsW9PtLxFUOGPa"
         }
       ],
-      "duration_ms": 305450,
-      "name": "Despu\u00e9s De La Ca\u00edda",
-      "url": "https://open.spotify.com/track/0gndRNlMyZnWODdbUmbIRM"
+      "duration_ms": 178285,
+      "name": "Hombre Nuevo",
+      "url": "https://open.spotify.com/track/72WPumC5PUtjxDqei587sW"
     },
     {
       "added_at": "2026-11-06 05:01:41",
@@ -783,6 +767,22 @@
       "duration_ms": 172560,
       "name": "Abr\u00e1zame M\u00e1s",
       "url": "https://open.spotify.com/track/1x8TSwFJ3UGBt4UcDJXtLh"
+    },
+    {
+      "added_at": "2026-11-06 05:01:41",
+      "album": {
+        "name": "El M\u00e1s Buscado",
+        "url": "https://open.spotify.com/album/4iExEpHD8bkvJ9NHzqM157"
+      },
+      "artists": [
+        {
+          "name": "Domingo Qui\u00f1ones",
+          "url": "https://open.spotify.com/artist/4JqvRbbOIF4EUmsVQMTgjs"
+        }
+      ],
+      "duration_ms": 305450,
+      "name": "Despu\u00e9s De La Ca\u00edda",
+      "url": "https://open.spotify.com/track/0gndRNlMyZnWODdbUmbIRM"
     },
     {
       "added_at": "2026-11-06 05:01:41",
@@ -875,6 +875,22 @@
     {
       "added_at": "2026-11-06 05:01:41",
       "album": {
+        "name": "Exaltado",
+        "url": "https://open.spotify.com/album/0PghaXjAKeqtdldeXhx7jL"
+      },
+      "artists": [
+        {
+          "name": "David Ordo\u00f1ez",
+          "url": "https://open.spotify.com/artist/2ObAn94Bm0Q9cSyryDKVI0"
+        }
+      ],
+      "duration_ms": 177049,
+      "name": "Gracias",
+      "url": "https://open.spotify.com/track/75c5TPdMHuGYw9FXH0TLMs"
+    },
+    {
+      "added_at": "2026-11-06 05:01:41",
+      "album": {
         "name": "Dale Candela",
         "url": "https://open.spotify.com/album/12hBGKv5JjY2CB3K89fak4"
       },
@@ -899,22 +915,6 @@
       "duration_ms": 188437,
       "name": "Dale Candela",
       "url": "https://open.spotify.com/track/238tjakaabtBzeJirHl0oc"
-    },
-    {
-      "added_at": "2026-11-06 05:01:41",
-      "album": {
-        "name": "Exaltado",
-        "url": "https://open.spotify.com/album/0PghaXjAKeqtdldeXhx7jL"
-      },
-      "artists": [
-        {
-          "name": "David Ordo\u00f1ez",
-          "url": "https://open.spotify.com/artist/2ObAn94Bm0Q9cSyryDKVI0"
-        }
-      ],
-      "duration_ms": 177049,
-      "name": "Gracias",
-      "url": "https://open.spotify.com/track/75c5TPdMHuGYw9FXH0TLMs"
     },
     {
       "added_at": "2026-11-06 05:01:41",
@@ -1227,6 +1227,22 @@
     {
       "added_at": "2026-11-06 05:01:41",
       "album": {
+        "name": "NAZARENO",
+        "url": "https://open.spotify.com/album/6WhbOWidyCQ0sEmjCbbHof"
+      },
+      "artists": [
+        {
+          "name": "Chris Paradise",
+          "url": "https://open.spotify.com/artist/0EapwSGXUTMLdmUNCuMB2T"
+        }
+      ],
+      "duration_ms": 270807,
+      "name": "NAZARENO",
+      "url": "https://open.spotify.com/track/1zw8W2e8YV0fRj5cUbjc6c"
+    },
+    {
+      "added_at": "2026-11-06 05:01:41",
+      "album": {
         "name": "Sublime Gracia",
         "url": "https://open.spotify.com/album/4JMgMpgaGlSDXTEa8kV1CX"
       },
@@ -1243,22 +1259,6 @@
       "duration_ms": 166875,
       "name": "Sublime Gracia",
       "url": "https://open.spotify.com/track/7ql7c661G5jstNSU3UVt0S"
-    },
-    {
-      "added_at": "2026-11-06 05:01:41",
-      "album": {
-        "name": "NAZARENO",
-        "url": "https://open.spotify.com/album/6WhbOWidyCQ0sEmjCbbHof"
-      },
-      "artists": [
-        {
-          "name": "Chris Paradise",
-          "url": "https://open.spotify.com/artist/0EapwSGXUTMLdmUNCuMB2T"
-        }
-      ],
-      "duration_ms": 270807,
-      "name": "NAZARENO",
-      "url": "https://open.spotify.com/track/1zw8W2e8YV0fRj5cUbjc6c"
     },
     {
       "added_at": "2026-11-06 05:01:41",
@@ -1295,22 +1295,6 @@
     {
       "added_at": "2026-11-06 05:01:41",
       "album": {
-        "name": "Agua Pal Sediento",
-        "url": "https://open.spotify.com/album/1zgFyQWTxZ3JxsgpFTAujN"
-      },
-      "artists": [
-        {
-          "name": "Martin Alonso",
-          "url": "https://open.spotify.com/artist/4eV6vWQNknlFJu7W2nGxk5"
-        }
-      ],
-      "duration_ms": 239291,
-      "name": "Agua Pal Sediento",
-      "url": "https://open.spotify.com/track/0iIwX1uK6PzPEuwQCWOnku"
-    },
-    {
-      "added_at": "2026-11-06 05:01:41",
-      "album": {
         "name": "Consejos",
         "url": "https://open.spotify.com/album/1B2IQoytSybgbWJFqgGlS2"
       },
@@ -1343,6 +1327,22 @@
       "duration_ms": 234432,
       "name": "Me Encontr\u00f3",
       "url": "https://open.spotify.com/track/63u65QjlAGPZeWFiqtRnUu"
+    },
+    {
+      "added_at": "2026-11-06 05:01:41",
+      "album": {
+        "name": "Agua Pal Sediento",
+        "url": "https://open.spotify.com/album/1zgFyQWTxZ3JxsgpFTAujN"
+      },
+      "artists": [
+        {
+          "name": "Martin Alonso",
+          "url": "https://open.spotify.com/artist/4eV6vWQNknlFJu7W2nGxk5"
+        }
+      ],
+      "duration_ms": 239291,
+      "name": "Agua Pal Sediento",
+      "url": "https://open.spotify.com/track/0iIwX1uK6PzPEuwQCWOnku"
     },
     {
       "added_at": "2026-11-06 05:01:41",
@@ -1403,6 +1403,22 @@
     {
       "added_at": "2026-11-06 05:01:41",
       "album": {
+        "name": "M\u00e1s de Una Vez",
+        "url": "https://open.spotify.com/album/5BZAv2tmF7d1m6iRx31OBG"
+      },
+      "artists": [
+        {
+          "name": "Soly",
+          "url": "https://open.spotify.com/artist/2HfhjHrQurBYcK7EEXH3kQ"
+        }
+      ],
+      "duration_ms": 173332,
+      "name": "M\u00e1s de Una Vez",
+      "url": "https://open.spotify.com/track/67mNCKyJeruy19jjXzmdVm"
+    },
+    {
+      "added_at": "2026-11-06 05:01:41",
+      "album": {
         "name": "Diez Mil Razones",
         "url": "https://open.spotify.com/album/1z18dSxKVxkeRZeK9Jp37H"
       },
@@ -1439,22 +1455,6 @@
       "duration_ms": 211891,
       "name": "CONMIGO VA",
       "url": "https://open.spotify.com/track/71bIRq6Bpt1CT6Luo6u12Z"
-    },
-    {
-      "added_at": "2026-11-06 05:01:41",
-      "album": {
-        "name": "M\u00e1s de Una Vez",
-        "url": "https://open.spotify.com/album/5BZAv2tmF7d1m6iRx31OBG"
-      },
-      "artists": [
-        {
-          "name": "Soly",
-          "url": "https://open.spotify.com/artist/2HfhjHrQurBYcK7EEXH3kQ"
-        }
-      ],
-      "duration_ms": 173332,
-      "name": "M\u00e1s de Una Vez",
-      "url": "https://open.spotify.com/track/67mNCKyJeruy19jjXzmdVm"
     },
     {
       "added_at": "2026-11-06 05:01:41",
@@ -1787,6 +1787,22 @@
     {
       "added_at": "2026-11-06 05:01:41",
       "album": {
+        "name": "ETE' MUNDO",
+        "url": "https://open.spotify.com/album/1JTQXLQlkOsJENEK7OoVTF"
+      },
+      "artists": [
+        {
+          "name": "LINARES",
+          "url": "https://open.spotify.com/artist/1ZcXhSocsTKmpTQQnreFS8"
+        }
+      ],
+      "duration_ms": 162551,
+      "name": "ETE' MUNDO",
+      "url": "https://open.spotify.com/track/5mxXHC2esSHpS76ZZferdn"
+    },
+    {
+      "added_at": "2026-11-06 05:01:41",
+      "album": {
         "name": "Oye",
         "url": "https://open.spotify.com/album/0qFqOqkNSBjstpjtYdGUkS"
       },
@@ -1803,22 +1819,6 @@
       "duration_ms": 179286,
       "name": "Oye",
       "url": "https://open.spotify.com/track/1tib88sDmTOsH7hGVLDATC"
-    },
-    {
-      "added_at": "2026-11-06 05:01:41",
-      "album": {
-        "name": "ETE' MUNDO",
-        "url": "https://open.spotify.com/album/1JTQXLQlkOsJENEK7OoVTF"
-      },
-      "artists": [
-        {
-          "name": "LINARES",
-          "url": "https://open.spotify.com/artist/1ZcXhSocsTKmpTQQnreFS8"
-        }
-      ],
-      "duration_ms": 162551,
-      "name": "ETE' MUNDO",
-      "url": "https://open.spotify.com/track/5mxXHC2esSHpS76ZZferdn"
     },
     {
       "added_at": "2026-11-06 05:01:41",

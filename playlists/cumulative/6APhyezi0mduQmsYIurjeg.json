@@ -495,6 +495,24 @@
     },
     {
       "album": {
+        "name": "Che cos'\u00e8 l'amore",
+        "url": "https://open.spotify.com/album/7ejVBP9ObEiQzpWAhUhAmX"
+      },
+      "artists": [
+        {
+          "name": "Costa Calcinara",
+          "url": "https://open.spotify.com/artist/7rCyfyNrDTZyh5Zfnq3oM1"
+        }
+      ],
+      "date_added": "2026-11-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 155306,
+      "name": "Amsterdam",
+      "url": "https://open.spotify.com/track/5uaYokdz8GYpEsmF4Ewn9w"
+    },
+    {
+      "album": {
         "name": "1982",
         "url": "https://open.spotify.com/album/2LKgyvwKnS0oBvDFXJYvJr"
       },
@@ -1812,6 +1830,24 @@
       "duration_ms": 232875,
       "name": "Como Yo No Hay 2",
       "url": "https://open.spotify.com/track/3K5TOXm4QzeFXVgkkllvMq"
+    },
+    {
+      "album": {
+        "name": "Company",
+        "url": "https://open.spotify.com/album/6LYuV2VYA0JKLGCinc92gD"
+      },
+      "artists": [
+        {
+          "name": "Barbara Grace Romano",
+          "url": "https://open.spotify.com/artist/2mlirNl1shb7bkoEaOGCXS"
+        }
+      ],
+      "date_added": "2026-11-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 351500,
+      "name": "Company",
+      "url": "https://open.spotify.com/track/5qScYWI7wcffKfcoysfjJW"
     },
     {
       "album": {
@@ -9660,6 +9696,24 @@
       "duration_ms": 243230,
       "name": "Tearing Me Apart",
       "url": "https://open.spotify.com/track/7pLTFhW698v0hpSWksVy2i"
+    },
+    {
+      "album": {
+        "name": "Tears (Kyo Kusanagi The King of Fighters '99) [Vocal Version]",
+        "url": "https://open.spotify.com/album/5Py5DnojD5T3nj0aXKnU4g"
+      },
+      "artists": [
+        {
+          "name": "Vocal Game Orchestra",
+          "url": "https://open.spotify.com/artist/4LvoFWmhUT7CNWjppMoaUK"
+        }
+      ],
+      "date_added": "2026-11-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 252563,
+      "name": "Tears (Kyo Kusanagi The King of Fighters '99) - Vocal Version",
+      "url": "https://open.spotify.com/track/6YBiU7aCpxDmApjb3AODLR"
     },
     {
       "album": {

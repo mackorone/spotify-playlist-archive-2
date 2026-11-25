@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX54Fkcz35jfT.md) - [plain]
 
 > 国内外の様々なシーンと共鳴する日本のラウド・ロックを特集。/  Discover the intensity and emotion resonating through Japan’s hard rock\. Cover: FZMZ
 
-[Spotify](https://open.spotify.com/user/spotify) - 55,984 likes - 100 songs - 5 hr 55 min
+[Spotify](https://open.spotify.com/user/spotify) - 55,977 likes - 100 songs - 5 hr 55 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -54,18 +54,18 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX54Fkcz35jfT.md) - [plain]
 | 44 | [Puppets Can’t Control You](https://open.spotify.com/track/6ERrZ4qND7JFoqNCnVBSKV) | [ONE OK ROCK](https://open.spotify.com/artist/7k73EtZwoPs516ZxE72KsO) | [Puppets Can't Control You](https://open.spotify.com/album/3y2CQYe2BvdDlrRP5CjQYR) | 3:14 |
 | 45 | [Salamander](https://open.spotify.com/track/4oQXYIYJ6Kxc89KrhoZTYq) | [ELLEGARDEN](https://open.spotify.com/artist/3cbd5GWGOknxmFAe77MDbk) | [ELEVEN FIRE CRACKERS](https://open.spotify.com/album/62h711GD0PJcK2HfqO7dmB) | 3:46 |
 | 46 | [DREAM OF BUTTERFLY](https://open.spotify.com/track/611IQQ87evnbCgEFY9Cail) | [FZMZ](https://open.spotify.com/artist/0RrQBLmeSCUkYFs0vncrhb) | [DREAM OF BUTTERFLY](https://open.spotify.com/album/6yUwXez9a1xA0RY7D81rsy) | 2:57 |
-| 47 | [You're already dead](https://open.spotify.com/track/1Y4PaFa4vxujKdXnXfWVtj) | [MY FIRST STORY](https://open.spotify.com/artist/6cutt8thPFUICMfxaYerWd) | [You're already dead](https://open.spotify.com/album/3VepurP4D6ovZqyvIebBsG) | 3:19 |
-| 48 | [命短し対する乙女よ](https://open.spotify.com/track/3uXfyndmsK3fRNSMr7uWrI) | [花冷え。](https://open.spotify.com/artist/4N2I7VsF86h59tbsvVoB1h) | [命短し対する乙女よ](https://open.spotify.com/album/5bHN3dSjlEq7AX09q4U9dC) | 3:48 |
+| 47 | [命短し対する乙女よ](https://open.spotify.com/track/3uXfyndmsK3fRNSMr7uWrI) | [花冷え。](https://open.spotify.com/artist/4N2I7VsF86h59tbsvVoB1h) | [命短し対する乙女よ](https://open.spotify.com/album/5bHN3dSjlEq7AX09q4U9dC) | 3:48 |
+| 48 | [You're already dead](https://open.spotify.com/track/1Y4PaFa4vxujKdXnXfWVtj) | [MY FIRST STORY](https://open.spotify.com/artist/6cutt8thPFUICMfxaYerWd) | [You're already dead](https://open.spotify.com/album/3VepurP4D6ovZqyvIebBsG) | 3:19 |
 | 49 | [The Animals](https://open.spotify.com/track/5ewQI9visQ5IjEXnt4H2BN) | [MAN WITH A MISSION](https://open.spotify.com/artist/3NTbOmzlj2cL86XFuDVFvZ) | [The Animals](https://open.spotify.com/album/1TdCsRcpaj8DpF014vyooi) | 3:50 |
 | 50 | [Vengeance](https://open.spotify.com/track/1Jz6GFrsgtyVwQtIUiHYMw) | [coldrain](https://open.spotify.com/artist/4pCVGaLWxDe4d8bsjsnmUM) | [Vengeance](https://open.spotify.com/album/2zlZb3IpmrLwSUT0NLdoXU) | 3:58 |
 | 51 | [壊れて消えるまで](https://open.spotify.com/track/2Zz6FNkpg9w1GXSi6y3oYB) | [10\-FEET](https://open.spotify.com/artist/0QZqdhoRQkn1VphAa5eX8h) | [壊れて消えるまで](https://open.spotify.com/album/63ChJv0TC3OLHVZVe6Qjeh) | 4:09 |
-| 52 | [Kill the Noise](https://open.spotify.com/track/43hn4s6ik2tccvWF5ltrEb) | [SPYAIR](https://open.spotify.com/artist/7gRg6C2qgQ1F01k3sgyEVt) | [Kill the Noise](https://open.spotify.com/album/0QLdJL8eYUGXTFmJbt79Ud) | 3:33 |
-| 53 | [バリバリBuddy](https://open.spotify.com/track/03jc1xUdkdwNbbzum0TPEF) | [花冷え。](https://open.spotify.com/artist/4N2I7VsF86h59tbsvVoB1h) | [バリバリBuddy](https://open.spotify.com/album/3C3xh5nClBcyLQFJlyrWTK) | 3:39 |
+| 52 | [バリバリBuddy](https://open.spotify.com/track/03jc1xUdkdwNbbzum0TPEF) | [花冷え。](https://open.spotify.com/artist/4N2I7VsF86h59tbsvVoB1h) | [バリバリBuddy](https://open.spotify.com/album/3C3xh5nClBcyLQFJlyrWTK) | 3:39 |
+| 53 | [Kill the Noise](https://open.spotify.com/track/43hn4s6ik2tccvWF5ltrEb) | [SPYAIR](https://open.spotify.com/artist/7gRg6C2qgQ1F01k3sgyEVt) | [Kill the Noise](https://open.spotify.com/album/0QLdJL8eYUGXTFmJbt79Ud) | 3:33 |
 | 54 | [realitYhurts.](https://open.spotify.com/track/5TcBpp37mTlEGhDRp9T8iy) | [CVLTE](https://open.spotify.com/artist/3IVZ4DbJgnhOtXQruNdomA) | [realitYhurts.](https://open.spotify.com/album/1oPQjjPHehiERqQ2HQil7Y) | 2:31 |
 | 55 | [小さな恋のうた](https://open.spotify.com/track/5hVvF58sY57yb7O7G3g1yM) | [WANIMA](https://open.spotify.com/artist/6YqdtpUutxodni6lUD4stM) | [800TRIBUTE\-champloo is the BEST!!2\-](https://open.spotify.com/album/2zzC7u1h87UCWnnT60zTTm) | 4:20 |
 | 56 | [スパートシンドローマー](https://open.spotify.com/track/0DKaod4U8DOyesrlwvQzVH) | [10\-FEET](https://open.spotify.com/artist/0QZqdhoRQkn1VphAa5eX8h) | [スパートシンドローマー](https://open.spotify.com/album/7ivYLdm0eoIJ2Ew34JHRaK) | 3:44 |
-| 57 | [Be The One](https://open.spotify.com/track/2qsCq95jjiHvlpAT7fsMQm) | [HEY\-SMITH](https://open.spotify.com/artist/180SgP7FcRAhmrgwuNTvhL) | [Be The One](https://open.spotify.com/album/5242skyRrpMPFR9dYgFZpq) | 3:06 |
-| 58 | [O･TA･KUラブリー伝説](https://open.spotify.com/track/1i8HL5vylExlgvbUbVLLdC) | [花冷え。](https://open.spotify.com/artist/4N2I7VsF86h59tbsvVoB1h) | [O･TA･KUラブリー伝説](https://open.spotify.com/album/7BBa5Q3EcrambON0lW4xQb) | 3:12 |
+| 57 | [O･TA･KUラブリー伝説](https://open.spotify.com/track/1i8HL5vylExlgvbUbVLLdC) | [花冷え。](https://open.spotify.com/artist/4N2I7VsF86h59tbsvVoB1h) | [O･TA･KUラブリー伝説](https://open.spotify.com/album/7BBa5Q3EcrambON0lW4xQb) | 3:12 |
+| 58 | [Be The One](https://open.spotify.com/track/2qsCq95jjiHvlpAT7fsMQm) | [HEY\-SMITH](https://open.spotify.com/artist/180SgP7FcRAhmrgwuNTvhL) | [Be The One](https://open.spotify.com/album/5242skyRrpMPFR9dYgFZpq) | 3:06 |
 | 59 | [ズーキッド｜Zookid](https://open.spotify.com/track/2MMFKAKnmYQL8KwGbcuidD) | [bed](https://open.spotify.com/artist/5nJqGF6KUDFS2jVMW9Oix9) | [ズーキッド｜Zookid](https://open.spotify.com/album/0maaspUDFaviSfLXawwMrS) | 3:01 |
 | 60 | [POISON feat\. Bert McCracken \(The Used\)](https://open.spotify.com/track/35N1r1X3vzTs5hIk42SPBR) | [coldrain](https://open.spotify.com/artist/4pCVGaLWxDe4d8bsjsnmUM), [The Used](https://open.spotify.com/artist/55VydwMyCuGcavwPuhutPL), [Bert McCracken](https://open.spotify.com/artist/7rEzlkwGjVgUXbWi0kDEAA) | [POISON feat\. Bert McCracken \(The Used\)](https://open.spotify.com/album/1a2lPzj5stWhiIOnftpyGD) | 3:35 |
 | 61 | [GOLDEN GOAL](https://open.spotify.com/track/00lusA3uBfYQGxzfGrpFZ2) | [Paledusk](https://open.spotify.com/artist/2GWuBfYdmPB91krBNQavHa) | [GOLDEN GOAL](https://open.spotify.com/album/64ZG646ndz53D7Hw47eKjX) | 4:47 |
@@ -74,12 +74,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX54Fkcz35jfT.md) - [plain]
 | 64 | [Inside of Me](https://open.spotify.com/track/20Y2bZDq6iSvWgykeyShXD) | [HEY\-SMITH](https://open.spotify.com/artist/180SgP7FcRAhmrgwuNTvhL) | [Inside Of Me](https://open.spotify.com/album/3qhR0fpKLkCSGWn63xBXHE) | 3:13 |
 | 65 | [EPIPHANY](https://open.spotify.com/track/0lnyoAKhIfozU8aEWV3IOR) | [UVERworld](https://open.spotify.com/artist/6m14xgA0m3w92UM7ujJgky) | [EPIPHANY](https://open.spotify.com/album/5rhtPiGWtRZkF7Y81yeNtw) | 3:16 |
 | 66 | [SLAY!!](https://open.spotify.com/track/5r2ctEKO9aSEudC85lqZZT) | [Paledusk](https://open.spotify.com/artist/2GWuBfYdmPB91krBNQavHa), [Hideyoshi](https://open.spotify.com/artist/6CYau5txsDk6Flq7NmlUG7) | [SLAY!!](https://open.spotify.com/album/1Si2sHK43ZueadlTaBP6bO) | 3:12 |
-| 67 | [DUA･RHYTHM](https://open.spotify.com/track/4gTa2HNlJEfGr9q1s2PsFD) | [Chevon](https://open.spotify.com/artist/5eOzdoFyAe6ugv5bhf1wQr) | [DUA･RHYTHM](https://open.spotify.com/album/4Cfgh8X6COsvtyirAF5iBF) | 3:33 |
-| 68 | [I'll be there](https://open.spotify.com/track/0lfcOko3BkbcOOQvIJVUG0) | [MAN WITH A MISSION](https://open.spotify.com/artist/3NTbOmzlj2cL86XFuDVFvZ) | [I'll be there](https://open.spotify.com/album/2XV1p7LViusogXzUiB338X) | 4:38 |
+| 67 | [I'll be there](https://open.spotify.com/track/0lfcOko3BkbcOOQvIJVUG0) | [MAN WITH A MISSION](https://open.spotify.com/artist/3NTbOmzlj2cL86XFuDVFvZ) | [I'll be there](https://open.spotify.com/album/2XV1p7LViusogXzUiB338X) | 4:38 |
+| 68 | [DUA･RHYTHM](https://open.spotify.com/track/4gTa2HNlJEfGr9q1s2PsFD) | [Chevon](https://open.spotify.com/artist/5eOzdoFyAe6ugv5bhf1wQr) | [DUA･RHYTHM](https://open.spotify.com/album/4Cfgh8X6COsvtyirAF5iBF) | 3:33 |
 | 69 | [東京ミッドナイト \- Tokyo Midnight](https://open.spotify.com/track/2zKMBHW3j6E4uxXXZhYwwD) | [MY FIRST STORY](https://open.spotify.com/artist/6cutt8thPFUICMfxaYerWd) | [The Crown](https://open.spotify.com/album/7ENXjwkWhcXDZ09XIQAzca) | 3:48 |
 | 70 | [SPIN](https://open.spotify.com/track/1JiI5Qkmvc2UZ5WJy7dYTM) | [BAND\-MAID](https://open.spotify.com/artist/5Wh3G01Xfxn2zzEZNpuYHH) | [SPIN](https://open.spotify.com/album/0O2KymxU4WJLifb6fJK7Xd) | 3:44 |
-| 71 | [VIBES BY VIBES](https://open.spotify.com/track/4IQ8TRkM7s24li5Y6xbEtp) | [10\-FEET](https://open.spotify.com/artist/0QZqdhoRQkn1VphAa5eX8h), [WANIMA](https://open.spotify.com/artist/6YqdtpUutxodni6lUD4stM) | [10\-feat](https://open.spotify.com/album/0fEuThtACeHQcSULrDR1ma) | 3:56 |
-| 72 | [Say My Name](https://open.spotify.com/track/0j0GW5mzmOk4upfkXzdNOM) | [HEY\-SMITH](https://open.spotify.com/artist/180SgP7FcRAhmrgwuNTvhL) | [Say My Name](https://open.spotify.com/album/25nYwRoD4LAWtvCqcgtVm6) | 1:48 |
+| 71 | [Say My Name](https://open.spotify.com/track/0j0GW5mzmOk4upfkXzdNOM) | [HEY\-SMITH](https://open.spotify.com/artist/180SgP7FcRAhmrgwuNTvhL) | [Say My Name](https://open.spotify.com/album/25nYwRoD4LAWtvCqcgtVm6) | 1:48 |
+| 72 | [VIBES BY VIBES](https://open.spotify.com/track/4IQ8TRkM7s24li5Y6xbEtp) | [10\-FEET](https://open.spotify.com/artist/0QZqdhoRQkn1VphAa5eX8h), [WANIMA](https://open.spotify.com/artist/6YqdtpUutxodni6lUD4stM) | [10\-feat](https://open.spotify.com/album/0fEuThtACeHQcSULrDR1ma) | 3:56 |
 | 73 | [Love song](https://open.spotify.com/track/1Xv3BEDnnkYdJbBnoclyA4) | [The BONEZ](https://open.spotify.com/artist/4YxoxjA4x3YukLHeNNgJqQ) | [Yours](https://open.spotify.com/album/660LlaSFIjdfpzi7pwBjs1) | 2:33 |
 | 74 | [GIZA](https://open.spotify.com/track/4VtKZP3vOFd0hHKCRzLTfX) | [METALVERSE](https://open.spotify.com/artist/4FZB47paQH8eOatPhgG7pp) | [GIZA](https://open.spotify.com/album/0CnyDtoegFUUEm9uZbcMb6) | 3:13 |
 | 75 | [UNDER THE TREE \- Full Length Ver.](https://open.spotify.com/track/5YcUxwigZPVTeBAMXWHaYq) | [SiM](https://open.spotify.com/artist/2BM933ADIluGGrPBOhPgIt) | [PLAYDEAD](https://open.spotify.com/album/40a3oAU208h1oFcfi0U25E) | 4:31 |
@@ -97,8 +97,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX54Fkcz35jfT.md) - [plain]
 | 87 | [SUPER NATURAL HIGH \- feat\. 唾奇](https://open.spotify.com/track/7H2G4gNAop4IEmLSJJP6L7) | [Paledusk](https://open.spotify.com/artist/2GWuBfYdmPB91krBNQavHa), [tubakiii](https://open.spotify.com/artist/2Bi1XtdmndNK6V2nlpI2A1) | [PALEDUSK](https://open.spotify.com/album/60WzIOT8v9ww4FeKfndWwI) | 3:18 |
 | 88 | [SONGS](https://open.spotify.com/track/0l93cYkJLTiSgHSBGful5p) | [Age Factory](https://open.spotify.com/artist/7pgRyTH4nTH4KoruoGuAQo) | [Songs](https://open.spotify.com/album/5KCNofx4mr0Blk7WXGiPXU) | 2:47 |
 | 89 | [CHASING SHADOWS](https://open.spotify.com/track/2KzPlIJdel4ObXJBDqcFOk) | [coldrain](https://open.spotify.com/artist/4pCVGaLWxDe4d8bsjsnmUM) | [CHASING SHADOWS](https://open.spotify.com/album/3DU6iVhXE99QOPKpmTW4RQ) | 3:47 |
-| 90 | [ENERGETIC](https://open.spotify.com/track/136RFhFtC1lDlKgXw7eXM3) | [BAND\-MAID](https://open.spotify.com/artist/5Wh3G01Xfxn2zzEZNpuYHH) | [ENERGETIC](https://open.spotify.com/album/6xa5EHn3K16kLv3oYtKP4N) | 3:22 |
-| 91 | [Keep going](https://open.spotify.com/track/0ZCpVXA2TCoxpYCdtnQWJg) | [04 Limited Sazabys](https://open.spotify.com/artist/6Gem5Nh6gd9PCtWdzR7Odh) | [Keep going](https://open.spotify.com/album/5qanfHlbiLvT8JGKsY9OUT) | 2:40 |
+| 90 | [Keep going](https://open.spotify.com/track/0ZCpVXA2TCoxpYCdtnQWJg) | [04 Limited Sazabys](https://open.spotify.com/artist/6Gem5Nh6gd9PCtWdzR7Odh) | [Keep going](https://open.spotify.com/album/5qanfHlbiLvT8JGKsY9OUT) | 2:40 |
+| 91 | [ENERGETIC](https://open.spotify.com/track/136RFhFtC1lDlKgXw7eXM3) | [BAND\-MAID](https://open.spotify.com/artist/5Wh3G01Xfxn2zzEZNpuYHH) | [ENERGETIC](https://open.spotify.com/album/6xa5EHn3K16kLv3oYtKP4N) | 3:22 |
 | 92 | [Schmerz](https://open.spotify.com/track/5xeD8ZfRdinMDzUfaw1T4B) | [\-真天地開闢集団\-ジグザグ](https://open.spotify.com/artist/6X80cxJKMsSqzFmwHX7QCu) | [Gran ∞ Grace](https://open.spotify.com/album/4T8vKqEfLe7aS914pjg7A3) | 3:01 |
 | 93 | [OMIKUJI](https://open.spotify.com/track/0s0v24Z8OFvhXWTWDZmRzN) | [METALVERSE](https://open.spotify.com/artist/4FZB47paQH8eOatPhgG7pp) | [OMIKUJI](https://open.spotify.com/album/4kpZcMq9Zjaw0t7e1YxULn) | 3:13 |
 | 94 | [IKIZAMA](https://open.spotify.com/track/5yppaWzGbOvKS2Wik6oWUk) | [East Of Eden](https://open.spotify.com/artist/3lvaevDiFzsr9cUrMV8HYn) | [The First Eden \- Seeds Of Hope \(Selected Edition\)](https://open.spotify.com/album/3TPdkObXMZnVVW2JhivaZf) | 3:51 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX54Fkcz35jfT.md) - [plain]
 | 99 | [Liberator](https://open.spotify.com/track/2dXc1QR4mD7jahydVs2CBc) | [PassCode](https://open.spotify.com/artist/6AIX7SZPkjZ2u7gZaw1uQo) | [Liberator](https://open.spotify.com/album/1EkdBVchn0CsCleE7ARh7h) | 3:40 |
 | 100 | [🔥おっかない🔥](https://open.spotify.com/track/7nymdpRh8yfJsHt6VWoKfQ) | [WANIMA](https://open.spotify.com/artist/6YqdtpUutxodni6lUD4stM) | [🔥おっかない🔥](https://open.spotify.com/album/2vfqUvyv98Z354MvJ2a3Lz) | 3:16 |
 
-Snapshot ID: `AAAAAIRAY7Qqr+KGCIQgcakNlREJa1OP`
+Snapshot ID: `AAAAABXWINWUX/rLJAHem5AbNhYlcg9o`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSt7oHsDTXzj.md) - [plain]
 
 > The ultimate seasonal \(indie\) playlist, ft Phoebe Bridgers
 
-[Spotify](https://open.spotify.com/user/spotify) - 271,656 likes - 75 songs - 4 hr 14 min
+[Spotify](https://open.spotify.com/user/spotify) - 271,737 likes - 75 songs - 4 hr 14 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -42,17 +42,17 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSt7oHsDTXzj.md) - [plain]
 | 32 | [The Trapeze Swinger](https://open.spotify.com/track/0EAvKXjChn1Rc3QmfYXevy) | [Iron & Wine](https://open.spotify.com/artist/4M5nCE77Qaxayuhp3fVn4V) | [Around the Well](https://open.spotify.com/album/5tOzXq44rU4yCCVY94f6m7) | 9:31 |
 | 33 | [Jesus Fucking Christmas](https://open.spotify.com/track/5Xs7BSN0HvUhcrc0X3tTa7) | [Claud](https://open.spotify.com/artist/5MaQlvNGOaTj39apHsXVq1) | [Jesus Fucking Christmas](https://open.spotify.com/album/2n7iqOgFGeRYJk9V5CtQVd) | 2:48 |
 | 34 | [Hallelujah](https://open.spotify.com/track/5fxJc8fxbbM5ZiqaL6Ob6y) | [HAIM](https://open.spotify.com/artist/4Ui2kfOqGujY81UcPrb5KE) | [Hallelujah](https://open.spotify.com/album/7f7BojlN7pow14eayG4UOn) | 3:10 |
-| 35 | [Have Yourself A Merry Little Christmas](https://open.spotify.com/track/6lsfG5fQhtkfIkqQIWfNns) | [Birdy](https://open.spotify.com/artist/2WX2uTcsvV5OnS0inACecP) | [Have Yourself A Merry Little Christmas](https://open.spotify.com/album/61AIHomKS1lF5ZgcXjvtFX) | 2:08 |
+| 35 | [Have Yourself A Merry Little Christmas](https://open.spotify.com/track/0OF3lDc1c9Ws1WyElEUnnW) | [Norah Jones](https://open.spotify.com/artist/2Kx7MNY7cI1ENniW7vT30N), [Laufey](https://open.spotify.com/artist/7gW0r5CkdEUMm42w9XpyZO) | [Christmas With You](https://open.spotify.com/album/2cWrkknTj4squbs2aANuHp) | 4:18 |
 | 36 | [Snowbank Blues](https://open.spotify.com/track/3SsGrCb1eaSpGhRDqPaTln) | [The Backseat Lovers](https://open.spotify.com/artist/6p2HnfM955TI1bX34dkLnI) | [Waiting to Spill](https://open.spotify.com/album/2Gb2plO2TkNRIgoCuJGm7C) | 3:17 |
-| 37 | [Have Yourself A Merry Little Christmas](https://open.spotify.com/track/0OF3lDc1c9Ws1WyElEUnnW) | [Norah Jones](https://open.spotify.com/artist/2Kx7MNY7cI1ENniW7vT30N), [Laufey](https://open.spotify.com/artist/7gW0r5CkdEUMm42w9XpyZO) | [Christmas With You](https://open.spotify.com/album/2cWrkknTj4squbs2aANuHp) | 4:18 |
+| 37 | [Have Yourself A Merry Little Christmas](https://open.spotify.com/track/6lsfG5fQhtkfIkqQIWfNns) | [Birdy](https://open.spotify.com/artist/2WX2uTcsvV5OnS0inACecP) | [Have Yourself A Merry Little Christmas](https://open.spotify.com/album/61AIHomKS1lF5ZgcXjvtFX) | 2:08 |
 | 38 | [This Christmas](https://open.spotify.com/track/7FNsGGAGyMoSwjH3ivmcep) | [Oh Wonder](https://open.spotify.com/artist/5cIc3SBFuBLVxJz58W2tU9) | [This Christmas](https://open.spotify.com/album/08zgrixDuu7cQJ5AJO0KHW) | 3:39 |
 | 39 | [Home To You \(This Christmas\)](https://open.spotify.com/track/1SBo8LdLGOieucdStHz6iV) | [Sigrid](https://open.spotify.com/artist/4TrraAsitQKl821DQY42cZ) | [Home To You \(This Christmas\)](https://open.spotify.com/album/3yqzTFvOGOsoruu0G4KjNV) | 3:45 |
 | 40 | [Snowplow](https://open.spotify.com/track/6LvRXtQfbvMF7m0hNQu5eF) | [Runnner](https://open.spotify.com/artist/7adlRX57hqe6Pc4YHrSGG0), [Skullcrusher](https://open.spotify.com/artist/1GUaQ6GpaxFPKZ0SCSsnwD) | [Snowplow](https://open.spotify.com/album/2pvt0zp6tTBZdF1HZ50LsQ) | 2:41 |
 | 41 | [Ain't Christmas \(with Laufey\)](https://open.spotify.com/track/1ishMaKoZFGrxFdGLa2qZN) | [Alexander 23](https://open.spotify.com/artist/6sFHvCyqklnJpXC9Nh1aag), [Laufey](https://open.spotify.com/artist/7gW0r5CkdEUMm42w9XpyZO) | [Ain't Christmas \(with Laufey\)](https://open.spotify.com/album/4O0enrkdTf0pNzVAx6QeEL) | 3:09 |
 | 42 | [All You're Dreaming Of](https://open.spotify.com/track/17Xof0GRZZfS7ZgjUJ27pH) | [Liam Gallagher](https://open.spotify.com/artist/6sN51vEARnAAdBw1IKZ8Q9) | [All You're Dreaming Of](https://open.spotify.com/album/7J50mCUWpCQdoMQ6RAUKaG) | 4:01 |
 | 43 | [I'll Be Home For Christmas \- From The Kacey Musgraves Christmas Show](https://open.spotify.com/track/0dEAzedAp3dKqhvGa1BRIC) | [Kacey Musgraves](https://open.spotify.com/artist/70kkdajctXSbqSMJbQO424), [Lana Del Rey](https://open.spotify.com/artist/00FQb4jTyendYWaN8pK0wa) | [The Kacey Musgraves Christmas Show](https://open.spotify.com/album/0KY2QQMpqsy1tOyNhr4zxI) | 2:12 |
-| 44 | [Rudolph](https://open.spotify.com/track/0HJll1OUSh4FUrDUKG0ikX) | [MJ Lenderman](https://open.spotify.com/artist/4tK6Z8fK7Sc9133byjPGIT) | [Manning Fireworks](https://open.spotify.com/album/1bKiiYGt1fzm9YMlTnUqpN) | 3:31 |
-| 45 | [Christmas Must Be Tonight](https://open.spotify.com/track/5HGeTJqFRlhY3VYC9phKw6) | [Bahamas](https://open.spotify.com/artist/4C50EbCS11M0VbGyH3OfLt) | [This Warm December, A Brushfire Holiday Vol\. 2](https://open.spotify.com/album/4dTpeR3SNPSp77CztAXT7T) | 3:47 |
+| 44 | [Christmas Must Be Tonight](https://open.spotify.com/track/5HGeTJqFRlhY3VYC9phKw6) | [Bahamas](https://open.spotify.com/artist/4C50EbCS11M0VbGyH3OfLt) | [This Warm December, A Brushfire Holiday Vol\. 2](https://open.spotify.com/album/4dTpeR3SNPSp77CztAXT7T) | 3:47 |
+| 45 | [Rudolph](https://open.spotify.com/track/0HJll1OUSh4FUrDUKG0ikX) | [MJ Lenderman](https://open.spotify.com/artist/4tK6Z8fK7Sc9133byjPGIT) | [Manning Fireworks](https://open.spotify.com/album/1bKiiYGt1fzm9YMlTnUqpN) | 3:31 |
 | 46 | [Home Alone, Too](https://open.spotify.com/track/0DspUQUTwLtKeUO3Bb7LKK) | [The Staves](https://open.spotify.com/artist/5G49Sq5mMzAkGL4ZP6eVPY) | [Home Alone, Too](https://open.spotify.com/album/4y57bVmY8Jj0BK0RxcLRXb) | 4:00 |
 | 47 | [Angel In The Snow](https://open.spotify.com/track/5ajxIVMf6INoeHqkNjvQ73) | [Elliott Smith](https://open.spotify.com/artist/2ApaG60P4r0yhBoDCGD8YG) | [New Moon](https://open.spotify.com/album/7shC5Rf3b9a2rTEFP0Fel3) | 2:38 |
 | 48 | [Winter Wonderland](https://open.spotify.com/track/45Fz5fmd0Iogz63iJ3kLV7) | [beabadoobee](https://open.spotify.com/artist/35l9BRT7MXmM8bv2WDQiyB) | [Winter Wonderland](https://open.spotify.com/album/1x3pOVjZvQ5cj7bjCNpgBf) | 3:02 |
@@ -80,8 +80,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSt7oHsDTXzj.md) - [plain]
 | 70 | [Blue Christmas](https://open.spotify.com/track/5Tkq8xiWGkcnCoU9itcCBN) | [Bright Eyes](https://open.spotify.com/artist/5o206eFLx38glA2bb4zqIU) | [A Christmas Album](https://open.spotify.com/album/5wJqsHjlA2jaubK0t3D4n1) | 2:19 |
 | 71 | [Another Sappy Xmas Love Song](https://open.spotify.com/track/45dXG5XwdHHVPIngz4VmJc) | [Maja Francis](https://open.spotify.com/artist/0RxWnw4aoWwxXsC2cdCj4c) | [Another Sappy Xmas Love Song](https://open.spotify.com/album/6i3hKwxlvvmvvNwPiYO2hS) | 2:24 |
 | 72 | [Frosty The Snowman](https://open.spotify.com/track/5lrziVtAiX5olTaTmmSNGq) | [Cocteau Twins](https://open.spotify.com/artist/5Wabl1lPdNOeIn0SQ5A1mp), [Robin Guthrie](https://open.spotify.com/artist/3ZqRIzadY4WYQEg4Hj2vGC), [Elizabeth Fraser](https://open.spotify.com/artist/791Z3924aa619hZ3xsOJEx), [Simon Raymonde](https://open.spotify.com/artist/31eiHDLnkVg1fEezZihdfQ) | [Lullabies To Violaine \- Volume 2](https://open.spotify.com/album/6yrVgxDtLcJT6fiLHz4rLh) | 2:55 |
-| 73 | [santa baby](https://open.spotify.com/track/1gpXsWIb9HhdiK3KYDsCZr) | [The Two Lips](https://open.spotify.com/artist/0jtiZkDcuWRf647co8id50) | [santa baby](https://open.spotify.com/album/7wCLSfmIX1QqLnGwM35R4h) | 2:39 |
-| 74 | [ugly xmas sweater party](https://open.spotify.com/track/1yHF4X4RtaXHYaQzoQ9TUU) | [girlhouse](https://open.spotify.com/artist/7AWyYXZ5tIc0xNSfKLD3QX) | [ugly xmas sweater party](https://open.spotify.com/album/42SBvg1Vs8eMGAILnG4hSI) | 3:28 |
+| 73 | [ugly xmas sweater party](https://open.spotify.com/track/1yHF4X4RtaXHYaQzoQ9TUU) | [girlhouse](https://open.spotify.com/artist/7AWyYXZ5tIc0xNSfKLD3QX) | [ugly xmas sweater party](https://open.spotify.com/album/42SBvg1Vs8eMGAILnG4hSI) | 3:28 |
+| 74 | [santa baby](https://open.spotify.com/track/1gpXsWIb9HhdiK3KYDsCZr) | [The Two Lips](https://open.spotify.com/artist/0jtiZkDcuWRf647co8id50) | [santa baby](https://open.spotify.com/album/7wCLSfmIX1QqLnGwM35R4h) | 2:39 |
 | 75 | [Not So Merry Christmas](https://open.spotify.com/track/2PJus90Cvm31pZPMiUHvsT) | [Michigander](https://open.spotify.com/artist/0oL26Dn9y761yfJgNb3vfu) | [Not So Merry Christmas](https://open.spotify.com/album/3FjEsDVwunoyH7JsM8CyVi) | 3:53 |
 
-Snapshot ID: `AAAAAG+WRQ98DlIenH+2/jfoLmySLzOW`
+Snapshot ID: `AAAAAE5+ClGUyqzM+UfPitfeuYlAjC7W`

@@ -1,12 +1,12 @@
 {
   "description": "This is Bon Iver. The essential tracks, all in one playlist.",
-  "num_followers": 294255,
+  "num_followers": 294283,
   "original_name": "This Is Bon Iver",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "awIwgAAAAACUdmqZaEoyUhtSXrfcEBrc",
+  "snapshot_id": "awOCAAAAAAD4y75rHrfBG2cr8S1kCWAM",
   "tracks": [
     {
       "added_at": null,
@@ -664,9 +664,9 @@
           "url": "https://open.spotify.com/artist/4LEiUm1SRbFMgfqnQTwUbQ"
         }
       ],
-      "duration_ms": 245200,
-      "name": "29 #Strafford APTS",
-      "url": "https://open.spotify.com/track/5qngJJcuGPqUyX3VPKvH11"
+      "duration_ms": 168000,
+      "name": "22 (OVER S\u221e\u221eN)",
+      "url": "https://open.spotify.com/track/3EYj5rxRbNM3nijF9dOtry"
     },
     {
       "added_at": null,
@@ -728,9 +728,9 @@
           "url": "https://open.spotify.com/artist/4LEiUm1SRbFMgfqnQTwUbQ"
         }
       ],
-      "duration_ms": 168000,
-      "name": "22 (OVER S\u221e\u221eN)",
-      "url": "https://open.spotify.com/track/3EYj5rxRbNM3nijF9dOtry"
+      "duration_ms": 245200,
+      "name": "29 #Strafford APTS",
+      "url": "https://open.spotify.com/track/5qngJJcuGPqUyX3VPKvH11"
     },
     {
       "added_at": null,

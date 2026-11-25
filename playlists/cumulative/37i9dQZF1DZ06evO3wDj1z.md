@@ -4,7 +4,7 @@
 
 > This is Sergio Vega "El Shaka"\. The essential tracks, all in one playlist.
 
-99 songs - 5 hr 16 min
+100 songs - 5 hr 21 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -35,7 +35,8 @@
 | [El Inventario](https://open.spotify.com/track/2YwcyooqDD93NTilVURM0s) | [Sergio Vega "El Shaka"](https://open.spotify.com/artist/5YNi3BopLa4XtYRtzML80L) | [Desde el Cielo](https://open.spotify.com/album/3NLkn2oW8lkfe6pLbTQiRV) | 4:18 | 2025-01-12 | 2025-03-31 |
 | [El Jefe De Las Plazas](https://open.spotify.com/track/1pJMMnem25kCij6sF62hut) | [Sergio Vega "El Shaka"](https://open.spotify.com/artist/5YNi3BopLa4XtYRtzML80L) | [El Jefe De Las Plazas](https://open.spotify.com/album/6Fuiu6sxPNbpGFlEIrNilN) | 3:31 | 2022-06-01 |  |
 | [El Licenciado](https://open.spotify.com/track/6PEkLz630jJBn80ddIhi5o) | [Sergio Vega "El Shaka"](https://open.spotify.com/artist/5YNi3BopLa4XtYRtzML80L) | [Serie Top Ten](https://open.spotify.com/album/74dGCcyijMhAuNLja18GUZ) | 2:53 | 2023-01-24 |  |
-| [El Maestro](https://open.spotify.com/track/6eZ4prY9gxv8AAYVasW5FR) | [Sergio Vega "El Shaka"](https://open.spotify.com/artist/5YNi3BopLa4XtYRtzML80L) | [Millonario De Amor](https://open.spotify.com/album/13d6INVzyUnmbJlFEjvZMQ) | 4:14 | 2022-06-01 |  |
+| [El Maestro](https://open.spotify.com/track/6eZ4prY9gxv8AAYVasW5FR) | [Sergio Vega "El Shaka"](https://open.spotify.com/artist/5YNi3BopLa4XtYRtzML80L) | [Millonario De Amor](https://open.spotify.com/album/13d6INVzyUnmbJlFEjvZMQ) | 4:14 | 2022-06-01 | 2026-11-25 |
+| [El Maestro](https://open.spotify.com/track/1wssMmfnAk8oSlfpjNX0Y0) | [Sergio Vega "El Shaka"](https://open.spotify.com/artist/5YNi3BopLa4XtYRtzML80L) | [Millonario De Amor](https://open.spotify.com/album/2rmdRwcMsZIZF1PWnErclz) | 4:16 | 2026-11-25 |  |
 | [El Malandrín](https://open.spotify.com/track/3YfrZf562Ixxq5rAHmO4GI) | [Sergio Vega "El Shaka"](https://open.spotify.com/artist/5YNi3BopLa4XtYRtzML80L) | [¿Quién Es Usted?](https://open.spotify.com/album/3NoapLHvTH6AlaSczk2e3o) | 2:21 | 2022-06-12 | 2024-06-26 |
 | [El Melate](https://open.spotify.com/track/6ykBuAVP23NGrXVm9HsuVt) | [Sergio Vega "El Shaka"](https://open.spotify.com/artist/5YNi3BopLa4XtYRtzML80L) | [El Jefe De Las Plazas](https://open.spotify.com/album/6Fuiu6sxPNbpGFlEIrNilN) | 3:21 | 2022-06-01 | 2024-06-04 |
 | [El Santo De La Palma](https://open.spotify.com/track/3W9AG3MZIN1EwBijFfpt91) | [Sergio Vega "El Shaka"](https://open.spotify.com/artist/5YNi3BopLa4XtYRtzML80L) | [El Jefe De Las Plazas](https://open.spotify.com/album/6Fuiu6sxPNbpGFlEIrNilN) | 3:14 | 2022-06-01 | 2026-03-29 |

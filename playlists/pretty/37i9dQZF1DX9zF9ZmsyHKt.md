@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9zF9ZmsyHKt.md) - [plain]
 
 > O melhor do Tecnobrega, Melody e Brega do norte! Foto: Viviane Batidão
 
-[Spotify](https://open.spotify.com/user/spotify) - 363,484 likes - 65 songs - 3 hr 32 min
+[Spotify](https://open.spotify.com/user/spotify) - 363,479 likes - 65 songs - 3 hr 32 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -74,4 +74,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9zF9ZmsyHKt.md) - [plain]
 | 64 | [Não Deixei De Amar](https://open.spotify.com/track/1F7NChVuwGbrPf7DIQQ9eK) | [Viviane Batidão](https://open.spotify.com/artist/1p2aDZsmPNSKQynqjXN7Hj), [Mara Pavanelly](https://open.spotify.com/artist/62JzMDXMXiiCrfTFbzT0BX) | [Não Deixei De Amar](https://open.spotify.com/album/5dEzsBRLiiXgDF7bqUyha9) | 2:42 |
 | 65 | [Olha Bem Pra Mim](https://open.spotify.com/track/4gLQDSMuWg9JOkTtURE0po) | [Viviane Batidão](https://open.spotify.com/artist/1p2aDZsmPNSKQynqjXN7Hj), [Solange Almeida](https://open.spotify.com/artist/3Hew3AuvrbKxCbehT4Rorq) | [Olha Bem Pra Mim](https://open.spotify.com/album/0Bc2jtElw3UGoWFzL1CSzU) | 3:18 |
 
-Snapshot ID: `AAAAAHCGtMAqt2OQibmjmnBJ/u/1+Led`
+Snapshot ID: `AAAAACJKPisaMcM96CxqW1kI0Dk4rTjs`

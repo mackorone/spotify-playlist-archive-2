@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5DfG8gQdC3F.md) - [plain]
 
 > The latest from Dua Lipa for GTA VI, Gracie Abrams, Rema, Grimes, TOMORROW X TOGETHER, TALK and more.
 
-[Spotify](https://open.spotify.com/user/spotify) - 599,793 likes - 100 songs - 5 hr 12 min
+[Spotify](https://open.spotify.com/user/spotify) - 599,757 likes - 100 songs - 5 hr 12 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -73,7 +73,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5DfG8gQdC3F.md) - [plain]
 | 63 | [Don't](https://open.spotify.com/track/0xJErtvPm1ThhucOMyuaBt) | [Pimmie](https://open.spotify.com/artist/30AbYddXmSkDXhnW6lB0ll) | [Don't](https://open.spotify.com/album/4YkeLdX8Bh4XCXz7AksGt6) | 2:46 |
 | 64 | [Canari](https://open.spotify.com/track/7kKov71AzQjYiDRbTYpiFw) | [Alexandre Poulin](https://open.spotify.com/artist/5ILOB9Q4xiPUxzo2tYwxQy) | [Canari](https://open.spotify.com/album/6wfp6blDhzkdOgUdoCLMdZ) | 3:30 |
 | 65 | [BAD GIRLS](https://open.spotify.com/track/5Apg49WWj1oaivcuST6kFN) | [Kelland](https://open.spotify.com/artist/7nZJ6x2Wj2suztg4H53GSf), [BIJOU](https://open.spotify.com/artist/3abRKajGbb3kLMy9AWzfMA) | [RODEO RADIO](https://open.spotify.com/album/1IyTBb77zcr87nyK2oWETy) | 2:31 |
-| 66 | [Ça fait mal](https://open.spotify.com/track/2AYGusyyjwqhD1vghWgd3f) | [No Limit](https://open.spotify.com/artist/2Ns3GuAU2LYllDr7z20d0e), [Orelsan](https://open.spotify.com/artist/4FpJcNgOvIpSBeJgRg3OfN), [L2B](https://open.spotify.com/artist/4hYxvgmTzS29XAXlo5adgM) | [Ça fait mal](https://open.spotify.com/album/2hn3gS94UbKonBWLPpFdMU) | 2:39 |
+| 66 | [Ça fait mal \(feat\. L2B\)](https://open.spotify.com/track/2AYGusyyjwqhD1vghWgd3f) | [No Limit](https://open.spotify.com/artist/2Ns3GuAU2LYllDr7z20d0e), [Orelsan](https://open.spotify.com/artist/4FpJcNgOvIpSBeJgRg3OfN), [L2B](https://open.spotify.com/artist/4hYxvgmTzS29XAXlo5adgM) | [Ça fait mal \(feat\. L2B\)](https://open.spotify.com/album/2hn3gS94UbKonBWLPpFdMU) | 2:39 |
 | 67 | [Mess](https://open.spotify.com/track/434zOIC7NUw4fBlRl8WIaD) | [mercury](https://open.spotify.com/artist/0MaDtBu4Hw0qLH95poDSCk) | [Mess](https://open.spotify.com/album/3y5tcA5iWOW2EKnQVTH1dO) | 3:13 |
 | 68 | [FAH](https://open.spotify.com/track/6O1p3AtdHMlecFxpXizgm7) | [Kofi](https://open.spotify.com/artist/2MjVr5NjCCoPSEkXnl92Ld) | [FAH](https://open.spotify.com/album/5IyMVmb0uocJfBvRKd1ggc) | 1:39 |
 | 69 | [Santorini](https://open.spotify.com/track/4ppNFofJCDaq7rpRDmyAiW) | [Joeboy](https://open.spotify.com/artist/1XavfPKBpNjkOfxHINlMHF), [Ruger](https://open.spotify.com/artist/0a1SidMjD8D6EHvJph4n2H) | [Lavida Boy](https://open.spotify.com/album/0dNVbO6bgRlqs1d6jDZ7wy) | 2:35 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5DfG8gQdC3F.md) - [plain]
 | 99 | [Dreams](https://open.spotify.com/track/4bIqQDoNfAXaeXhnmGK8jf) | [Che\_nous](https://open.spotify.com/artist/6iUtbHzHDDlKkoze6YG4Bk), [D\-Track](https://open.spotify.com/artist/6iCGxocdnrQ3pxNN1drzNu), [Dumis9ne I](https://open.spotify.com/artist/0HHIBSnMhAHwIpLlSc0uQr), [QUEST](https://open.spotify.com/artist/53EnPnTBwa06MmLjFNKjDi), [Émilie Marcadé](https://open.spotify.com/artist/3vHngeXdPWW2Dvj3TeHjra) | [Frontières ouvertes](https://open.spotify.com/album/4NpPIrFZ2lhXJfit3pLDRy) | 3:32 |
 | 100 | [Tous les miroirs](https://open.spotify.com/track/3Kkz6SJnDHpzUY0uyvvycr) | [Chenier](https://open.spotify.com/artist/6CyZpauvBib7G1oZd5Mztx) | [Les fantômes](https://open.spotify.com/album/7e9tE04o6f9jOP2wjGi7Kb) | 3:07 |
 
-Snapshot ID: `AAAAAJvS0L3LSFCdby2FJ3nlqDmFC6r+`
+Snapshot ID: `AAAAAGIQq9bZc9u/JCXumPAwFY4R047i`

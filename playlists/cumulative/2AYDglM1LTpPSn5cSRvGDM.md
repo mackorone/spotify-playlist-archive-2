@@ -4,7 +4,7 @@
 
 > The best Progressive House in the scene\. <a href="https://ffm.link/9o81evb/">Instagram</a>, <a href="https://ffm.link/xjgmb7">Website, </a><a href="https://ffm.link/bknqm1j">Merch</a>
 
-316 songs - 18 hr 12 min
+317 songs - 18 hr 15 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -178,6 +178,7 @@
 | [LOW](https://open.spotify.com/track/6haDUN6avkD3hgIalNJkyt) | [Serve Cold](https://open.spotify.com/artist/0jkLg9cCRdKYTay0hte9xm), [Grigoré](https://open.spotify.com/artist/2RemyvxrdxNsB7ycf3rJHX), [Jaguar Jaguar](https://open.spotify.com/artist/2R8sfGkLsBHLRIrJVmR2t4) | [LOW](https://open.spotify.com/album/5yVW2lirxVrpemK2mj6K43) | 3:05 | 2025-09-05 | 2025-10-04 |
 | [Lucky](https://open.spotify.com/track/5ECf8gpBqmIUN7MWMN4WZx) | [MORTEN](https://open.spotify.com/artist/19HFRWmRCl27kTk6LeqAO8), [David Guetta](https://open.spotify.com/artist/1Cs0zKBU1kc0i8ypK3B9ai) | [Lucky](https://open.spotify.com/album/2CqOc7E7a4aQHEAD6ctS8I) | 2:26 | 2025-09-05 | 2025-11-29 |
 | [Madan](https://open.spotify.com/track/7ljzf9Lu5hbzLrE6jU0nLd) | [U\-Jeen](https://open.spotify.com/artist/0AFOtwiZNKRKPx7WlDXUWJ), [Spectorsonic](https://open.spotify.com/artist/73xgdt1MLi3493DXG5koga), [Alex Believe](https://open.spotify.com/artist/6QtCY1hjuTMMf0e3T6u8z5), [INNA JAYA](https://open.spotify.com/artist/7sJXnbiOYLH3CCmCfT3bo2) | [Madan](https://open.spotify.com/album/6NvgXX3065McysQS0PjvED) | 2:26 | 2025-08-22 | 2025-11-29 |
+| [Make Believe](https://open.spotify.com/track/1PMhRhjGXRKLsU1caZaf80) | [Guy Didden](https://open.spotify.com/artist/1DaOoPiSgkDkuBOSnDG7Pz) | [Make Believe](https://open.spotify.com/album/31W9x2hQfLWRNvUtPPARx5) | 3:51 | 2026-11-25 |  |
 | [Man Down](https://open.spotify.com/track/6pNcL961TXLN8wtpmlnnsY) | [PARISI](https://open.spotify.com/artist/1UJfZU4rQx3bJ3tGypRuAT), [Daniel Allan](https://open.spotify.com/artist/5JQ1XqKJ2Art01rF4tu1Ra) | [Man Down](https://open.spotify.com/album/6hpP8LO620i29PHC3NQDSd) | 2:29 | 2025-07-11 | 2025-10-11 |
 | [MANIC PANIC](https://open.spotify.com/track/6zNay415yUFY75Z4LmJzNO) | [dot](https://open.spotify.com/artist/1A18QbMmejwewRn5hfEFMT) | [MANIC PANIC](https://open.spotify.com/album/4dcUYfcBdNYvfKp5Pf5KT7) | 2:57 | 2025-09-26 | 2025-12-06 |
 | [Manta](https://open.spotify.com/track/0uXlFJxr5zDnoLql7DELIm) | [KREAM](https://open.spotify.com/artist/0DdDnziut7wOo6cAYWVZC5) | [Manta](https://open.spotify.com/album/26PV47U9aFqbYOkcsUUcq5) | 4:07 | 2025-07-11 | 2025-09-06 |

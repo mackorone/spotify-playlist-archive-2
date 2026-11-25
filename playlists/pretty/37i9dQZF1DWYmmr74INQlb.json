@@ -1,12 +1,12 @@
 {
   "description": "Celebrating 20 years of B'Day. Cover: Beyonc\u00e9",
-  "num_followers": 4812829,
+  "num_followers": 4812865,
   "original_name": "I Love My '00s R&B",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAALq6HjYM5mopWXMk5owKnhGJojfd",
+  "snapshot_id": "AAAAAIzlBiS6uM+R90+xiV7nOk6TB5P3",
   "tracks": [
     {
       "added_at": "2026-09-04 04:02:27",
@@ -881,22 +881,6 @@
       "url": "https://open.spotify.com/track/1vwUsp52io0AGQ5yv470IC"
     },
     {
-      "added_at": "2022-08-21 11:22:08",
-      "album": {
-        "name": "Trey Day",
-        "url": "https://open.spotify.com/album/6vnUL0NxqV1JrBvYW1M2wn"
-      },
-      "artists": [
-        {
-          "name": "Trey Songz",
-          "url": "https://open.spotify.com/artist/2iojnBLj0qIMiKPvVhLnsH"
-        }
-      ],
-      "duration_ms": 206413,
-      "name": "Can't Help but Wait",
-      "url": "https://open.spotify.com/track/5k3VjTwIsOjQ2woGz3Yx71"
-    },
-    {
       "added_at": "2022-02-11 05:00:00",
       "album": {
         "name": "Goodies",
@@ -915,6 +899,22 @@
       "duration_ms": 256346,
       "name": "Oh (feat. Ludacris)",
       "url": "https://open.spotify.com/track/7i7UIbm5E0DD7aSOYvwp2v"
+    },
+    {
+      "added_at": "2022-08-21 11:22:08",
+      "album": {
+        "name": "Trey Day",
+        "url": "https://open.spotify.com/album/6vnUL0NxqV1JrBvYW1M2wn"
+      },
+      "artists": [
+        {
+          "name": "Trey Songz",
+          "url": "https://open.spotify.com/artist/2iojnBLj0qIMiKPvVhLnsH"
+        }
+      ],
+      "duration_ms": 206413,
+      "name": "Can't Help but Wait",
+      "url": "https://open.spotify.com/track/5k3VjTwIsOjQ2woGz3Yx71"
     },
     {
       "added_at": "2022-02-11 05:00:00",
@@ -1023,22 +1023,6 @@
     {
       "added_at": "2022-08-21 11:22:08",
       "album": {
-        "name": "Street Love",
-        "url": "https://open.spotify.com/album/6Lq7nLkIq7C0zVJp0OGSGO"
-      },
-      "artists": [
-        {
-          "name": "Lloyd",
-          "url": "https://open.spotify.com/artist/1Xfmvd48oOhEWkscWyEbh9"
-        }
-      ],
-      "duration_ms": 209533,
-      "name": "Get It Shawty",
-      "url": "https://open.spotify.com/track/2a03afRiyAbNAleOByVju4"
-    },
-    {
-      "added_at": "2022-08-21 11:22:08",
-      "album": {
         "name": "Lovers Rock",
         "url": "https://open.spotify.com/album/0NxA1D1taWpPdIc6uIlAi9"
       },
@@ -1051,6 +1035,22 @@
       "duration_ms": 253106,
       "name": "Lovers Rock",
       "url": "https://open.spotify.com/track/77lKjGkhvWuimTzQxA4STK"
+    },
+    {
+      "added_at": "2022-08-21 11:22:08",
+      "album": {
+        "name": "Street Love",
+        "url": "https://open.spotify.com/album/6Lq7nLkIq7C0zVJp0OGSGO"
+      },
+      "artists": [
+        {
+          "name": "Lloyd",
+          "url": "https://open.spotify.com/artist/1Xfmvd48oOhEWkscWyEbh9"
+        }
+      ],
+      "duration_ms": 209533,
+      "name": "Get It Shawty",
+      "url": "https://open.spotify.com/track/2a03afRiyAbNAleOByVju4"
     },
     {
       "added_at": "2022-02-11 05:00:00",
@@ -1279,22 +1279,6 @@
     {
       "added_at": "2022-08-21 11:22:08",
       "album": {
-        "name": "Floetic",
-        "url": "https://open.spotify.com/album/37dLqaW3KP18Aeqesq0Exi"
-      },
-      "artists": [
-        {
-          "name": "Floetry",
-          "url": "https://open.spotify.com/artist/0un6YenPxWZ2VW4aFGMupM"
-        }
-      ],
-      "duration_ms": 268373,
-      "name": "Say Yes",
-      "url": "https://open.spotify.com/track/2fE4MbwX3QGMzNaMjGVhtw"
-    },
-    {
-      "added_at": "2022-08-21 11:22:08",
-      "album": {
         "name": "The Evolution",
         "url": "https://open.spotify.com/album/0hfJ35SzCkWesdUpLKXLto"
       },
@@ -1307,6 +1291,22 @@
       "duration_ms": 267413,
       "name": "Promise",
       "url": "https://open.spotify.com/track/1pLdjo3lOBbMaoR4ZpybFH"
+    },
+    {
+      "added_at": "2022-08-21 11:22:08",
+      "album": {
+        "name": "Floetic",
+        "url": "https://open.spotify.com/album/37dLqaW3KP18Aeqesq0Exi"
+      },
+      "artists": [
+        {
+          "name": "Floetry",
+          "url": "https://open.spotify.com/artist/0un6YenPxWZ2VW4aFGMupM"
+        }
+      ],
+      "duration_ms": 268373,
+      "name": "Say Yes",
+      "url": "https://open.spotify.com/track/2fE4MbwX3QGMzNaMjGVhtw"
     },
     {
       "added_at": "2024-11-15 03:47:13",

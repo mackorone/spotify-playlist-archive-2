@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3TKWnpd3vOb.md) - [plain]
 
 > Encuentra un mix de clásicos y nuevos talentos\. Foto: Fother Muckers
 
-[Spotify](https://open.spotify.com/user/spotify) - 179,861 likes - 100 songs - 6 hr 21 min
+[Spotify](https://open.spotify.com/user/spotify) - 179,848 likes - 100 songs - 6 hr 21 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -34,8 +34,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3TKWnpd3vOb.md) - [plain]
 | 24 | [¡Respira!](https://open.spotify.com/track/6sOOUEkE4AF4BIdC7U1Hqv) | [Beto Cuevas](https://open.spotify.com/artist/0kUZTk2JLPEAUyCWoN6eoL) | [¡Respira!](https://open.spotify.com/album/4s2waJJMAp7DCJrJ50GudD) | 4:02 |
 | 25 | [Tú y yo](https://open.spotify.com/track/2ZQmqMw6HnLY7qYvpGpqQ6) | [Flangr](https://open.spotify.com/artist/1tUjulrz0ekNbpxrStQDPG) | [Tú y yo](https://open.spotify.com/album/5a7sLXe6QboFGrKJZ955qg) | 2:50 |
 | 26 | [He barrido el sol \(Revuelta en vivo\)](https://open.spotify.com/track/5flEqRCBL4AJ4NAYvK7KVY) | [Los Tres](https://open.spotify.com/artist/4qXIYIWo6wRsN0lZxvgH6S) | [Revuelta En Vivo](https://open.spotify.com/album/2ym8AVQH15hneb9a4des9V) | 4:36 |
-| 27 | [Ella es de Ella](https://open.spotify.com/track/3NBJ3ZHjVLKhROv9vyB449) | [Chinoy](https://open.spotify.com/artist/7ah2GYpn05JkpAIk7vop8g) | [Ella es de Ella](https://open.spotify.com/album/0ysyQSkGKg5GxdlrbxDwyp) | 4:32 |
-| 28 | [Te van a olvidar](https://open.spotify.com/track/2cZjl4wIclVjzFzCZYVQRP) | [Plumas](https://open.spotify.com/artist/3y5Ow3rtN1WGkfFIXLIxMg), [Pedro Piedra](https://open.spotify.com/artist/18rP7uwYEhsn4DdRCxEVf3) | [Te van a olvidar](https://open.spotify.com/album/458faUpDTootevU4wWRBY9) | 4:01 |
+| 27 | [Te van a olvidar](https://open.spotify.com/track/2cZjl4wIclVjzFzCZYVQRP) | [Plumas](https://open.spotify.com/artist/3y5Ow3rtN1WGkfFIXLIxMg), [Pedro Piedra](https://open.spotify.com/artist/18rP7uwYEhsn4DdRCxEVf3) | [Te van a olvidar](https://open.spotify.com/album/458faUpDTootevU4wWRBY9) | 4:01 |
+| 28 | [Ella es de Ella](https://open.spotify.com/track/3NBJ3ZHjVLKhROv9vyB449) | [Chinoy](https://open.spotify.com/artist/7ah2GYpn05JkpAIk7vop8g) | [Ella es de Ella](https://open.spotify.com/album/0ysyQSkGKg5GxdlrbxDwyp) | 4:32 |
 | 29 | [De Volver a Comenzar](https://open.spotify.com/track/7aUCXhB4HReQZxJbpJoqAt) | [Beto Cuevas](https://open.spotify.com/artist/0kUZTk2JLPEAUyCWoN6eoL) | [Respira: Vol 1](https://open.spotify.com/album/2WsFttKsztYbXLVD8Qtc03) | 3:27 |
 | 30 | [A las Nueve](https://open.spotify.com/track/798CtkUHeziOJ3vdbQEWrw) | [Triciclo Parlante](https://open.spotify.com/artist/1MnxpVolHmvO5azL3WRwbp) | [SE ARRIENDA](https://open.spotify.com/album/2BRGgzEPWoyZU7JnUPXXQz) | 3:28 |
 | 31 | [Traicionarse](https://open.spotify.com/track/0qG3gzcSJSs80Ln7kHPiIL) | [Los Animales También Se Suicidan](https://open.spotify.com/artist/18FgNgLaepUxsAIWuD8K9T) | [Traicionarse](https://open.spotify.com/album/3U7I3y7jTE2IRQp7n7mfeU) | 3:13 |
@@ -50,9 +50,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3TKWnpd3vOb.md) - [plain]
 | 40 | [La Pelea](https://open.spotify.com/track/2sevFQjf4CLlhosI9knEhs) | [Super Especial](https://open.spotify.com/artist/7EiWbSp3dVXfPJMfIFnbJ1) | [La Pelea](https://open.spotify.com/album/3kbW39Z4MLMUv8TQogzwD3) | 3:25 |
 | 41 | [Veneno](https://open.spotify.com/track/3YJNkKxZghsufLlhEODFZa) | [Cler Canifrú](https://open.spotify.com/artist/1dBUAcFepQhvIVgUUHxRPf), [Lula Bertoldi](https://open.spotify.com/artist/5WX7W5ESabcsJrPMHYkjNQ) | [Veneno](https://open.spotify.com/album/6JARYXt8wnQyjIyqnPLmP7) | 3:39 |
 | 42 | [La vida mi vida se vive así \- Radio Edit](https://open.spotify.com/track/4KiadmrJu0p0LYGPshd7kB) | [Valija Diplomatica](https://open.spotify.com/artist/2euAtk0firHMqPFDJHLJCV) | [La vida mi vida se vive así \(Radio Edit\)](https://open.spotify.com/album/6d8HeRuWTKAoDDWxzeoRGS) | 2:54 |
-| 43 | [Let Me Fly](https://open.spotify.com/track/1mf0JSb8GiZd8yFzLodBUh) | [Cigarbox Man](https://open.spotify.com/artist/6KvYkMetRUoKfIjEt9A0QV) | [Blue Dalom](https://open.spotify.com/album/7rrdkE6Jr2xkS2H0wiATV8) | 3:42 |
+| 43 | [Despertar \(Cuando Todo Quema\)](https://open.spotify.com/track/7nSP1Z0q3am5FizKDJTTOX) | [Massonico](https://open.spotify.com/artist/1ztINaqHzkQnwJJR75cKfB) | [Despertar \(Cuando Todo Quema\)](https://open.spotify.com/album/5HN0SbzXXWutMumpGzUJAk) | 3:21 |
 | 44 | [Todo Cae](https://open.spotify.com/track/6gdC1mhWIYI9JUWoaubh0J) | [Plumas](https://open.spotify.com/artist/3y5Ow3rtN1WGkfFIXLIxMg) | [Plumas](https://open.spotify.com/album/1KxjF6uxm8ZeYbugagqqgG) | 4:22 |
-| 45 | [Despertar \(Cuando Todo Quema\)](https://open.spotify.com/track/7nSP1Z0q3am5FizKDJTTOX) | [Massonico](https://open.spotify.com/artist/1ztINaqHzkQnwJJR75cKfB) | [Despertar \(Cuando Todo Quema\)](https://open.spotify.com/album/5HN0SbzXXWutMumpGzUJAk) | 3:21 |
+| 45 | [Let Me Fly](https://open.spotify.com/track/1mf0JSb8GiZd8yFzLodBUh) | [Cigarbox Man](https://open.spotify.com/artist/6KvYkMetRUoKfIjEt9A0QV) | [Blue Dalom](https://open.spotify.com/album/7rrdkE6Jr2xkS2H0wiATV8) | 3:42 |
 | 46 | [Lo Que Es Real](https://open.spotify.com/track/0BWlOb5MiXGRhVcCpeRwrF) | [El Otro Astronauta](https://open.spotify.com/artist/0XgIpxvQkRLs1IbbCkNcFa) | [Lo Que Es Real](https://open.spotify.com/album/4EhoOmnnr75ndHqBbsT7CA) | 3:43 |
 | 47 | [SUEÑOS MOJADOS](https://open.spotify.com/track/5b47pG0qPtebWxYZzrfQHD) | [Sir Valen](https://open.spotify.com/artist/31J0nfGXpgjWwbakScICTn), [Millonarios Depresivos](https://open.spotify.com/artist/00GDE8rkCDdatrLufmZvEn) | [SUEÑOS MOJADOS](https://open.spotify.com/album/5E9GuX20mLPXUwTxqRrQxp) | 2:24 |
 | 48 | [Rescatame](https://open.spotify.com/track/0GjoTJLgbBerEXztomm2WU) | [De Saloon](https://open.spotify.com/artist/04Z3mRXKnp5PmZcJ8QCULt), [DLD](https://open.spotify.com/artist/7CwiLiC1S8B69RMPxbDb6S) | [Rescatame](https://open.spotify.com/album/3bOkkudjnp66n6MYzhMshl) | 4:11 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3TKWnpd3vOb.md) - [plain]
 | 99 | [Mujer Primavera](https://open.spotify.com/track/4lOvfLvl7BhAbNKMpVOY51) | [Julius Popper](https://open.spotify.com/artist/4ZWex7Cr0HbNkpnTZPCcfO) | [Mujer Primavera](https://open.spotify.com/album/4JBPCOkcSLndKUtKDg5JZQ) | 4:36 |
 | 100 | [Adecuado](https://open.spotify.com/track/1I5n8449fEIHXSnoAh7K6K) | [Paracaidistas](https://open.spotify.com/artist/6q0e1oKgBOTIhnNQTbfdWP) | [Adecuado](https://open.spotify.com/album/0A6pBSUdKFD6bCuFtuC8ef) | 2:52 |
 
-Snapshot ID: `AAAAALE7vOSim/+1b24qNbkpmL2RVZvL`
+Snapshot ID: `AAAAAOTieyEXKBSh63s3mdbOUp0AG+/l`

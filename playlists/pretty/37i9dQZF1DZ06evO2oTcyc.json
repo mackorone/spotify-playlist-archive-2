@@ -1,12 +1,12 @@
 {
   "description": "This is Kodak Black. The essential tracks, all in one playlist.",
-  "num_followers": 234988,
+  "num_followers": 235049,
   "original_name": "This Is Kodak Black",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "awIwgAAAAACu7w+6ERFg+LuZaXIAFIZz",
+  "snapshot_id": "awOCAAAAAACb+MLr2VyFlG3duGDshkX0",
   "tracks": [
     {
       "added_at": null,
@@ -387,22 +387,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Lil Big Pac",
-        "url": "https://open.spotify.com/album/6dAUCUgPdEiorKV7101AtE"
-      },
-      "artists": [
-        {
-          "name": "Kodak Black",
-          "url": "https://open.spotify.com/artist/46SHBwWsqBkxI7EeeBEQG7"
-        }
-      ],
-      "duration_ms": 240274,
-      "name": "Purp",
-      "url": "https://open.spotify.com/track/4RVDMSnj0BdE03cbbYg5rW"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "HARDSTONE PSYCHO",
         "url": "https://open.spotify.com/album/0Kzb3u6kMnOJOZXYFSk33F"
       },
@@ -423,8 +407,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Dying to Live",
-        "url": "https://open.spotify.com/album/5n1GSzC1Reao29ScnpLYqp"
+        "name": "Lil Big Pac",
+        "url": "https://open.spotify.com/album/6dAUCUgPdEiorKV7101AtE"
       },
       "artists": [
         {
@@ -432,9 +416,9 @@
           "url": "https://open.spotify.com/artist/46SHBwWsqBkxI7EeeBEQG7"
         }
       ],
-      "duration_ms": 152000,
-      "name": "Calling My Spirit",
-      "url": "https://open.spotify.com/track/2MShy1GSSgbmGUxADNIao5"
+      "duration_ms": 240274,
+      "name": "Purp",
+      "url": "https://open.spotify.com/track/4RVDMSnj0BdE03cbbYg5rW"
     },
     {
       "added_at": null,
@@ -451,6 +435,38 @@
       "duration_ms": 182833,
       "name": "Corrlinks and JPay",
       "url": "https://open.spotify.com/track/189SCF7XFCfIQybq5CZwD9"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Dying to Live",
+        "url": "https://open.spotify.com/album/5n1GSzC1Reao29ScnpLYqp"
+      },
+      "artists": [
+        {
+          "name": "Kodak Black",
+          "url": "https://open.spotify.com/artist/46SHBwWsqBkxI7EeeBEQG7"
+        }
+      ],
+      "duration_ms": 152000,
+      "name": "Calling My Spirit",
+      "url": "https://open.spotify.com/track/2MShy1GSSgbmGUxADNIao5"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Project Baby 2: All Grown Up",
+        "url": "https://open.spotify.com/album/51wp3EOOp2mBIjhZjR7W0i"
+      },
+      "artists": [
+        {
+          "name": "Kodak Black",
+          "url": "https://open.spotify.com/artist/46SHBwWsqBkxI7EeeBEQG7"
+        }
+      ],
+      "duration_ms": 196672,
+      "name": "Don't Wanna Breathe",
+      "url": "https://open.spotify.com/track/567CrVjCl2p3qmZqMKfOD9"
     },
     {
       "added_at": null,
@@ -491,8 +507,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Project Baby 2: All Grown Up",
-        "url": "https://open.spotify.com/album/51wp3EOOp2mBIjhZjR7W0i"
+        "name": "Painting Pictures",
+        "url": "https://open.spotify.com/album/5mG8oNkNKM2my7t9ywra96"
       },
       "artists": [
         {
@@ -500,9 +516,9 @@
           "url": "https://open.spotify.com/artist/46SHBwWsqBkxI7EeeBEQG7"
         }
       ],
-      "duration_ms": 196672,
-      "name": "Don't Wanna Breathe",
-      "url": "https://open.spotify.com/track/567CrVjCl2p3qmZqMKfOD9"
+      "duration_ms": 198109,
+      "name": "Patty Cake",
+      "url": "https://open.spotify.com/track/0bXFIF7iL17TYLyx8JHziM"
     },
     {
       "added_at": null,
@@ -523,8 +539,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Painting Pictures",
-        "url": "https://open.spotify.com/album/5mG8oNkNKM2my7t9ywra96"
+        "name": "Project Baby 2: All Grown Up",
+        "url": "https://open.spotify.com/album/51wp3EOOp2mBIjhZjR7W0i"
       },
       "artists": [
         {
@@ -532,9 +548,9 @@
           "url": "https://open.spotify.com/artist/46SHBwWsqBkxI7EeeBEQG7"
         }
       ],
-      "duration_ms": 198109,
-      "name": "Patty Cake",
-      "url": "https://open.spotify.com/track/0bXFIF7iL17TYLyx8JHziM"
+      "duration_ms": 150979,
+      "name": "Unexplainable",
+      "url": "https://open.spotify.com/track/6X5x6uOKio6vBiHyptfkGV"
     },
     {
       "added_at": null,
@@ -551,22 +567,6 @@
       "duration_ms": 183562,
       "name": "Shake Back",
       "url": "https://open.spotify.com/track/7HbJiOw9TePjIcvvHCeWRc"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Project Baby 2: All Grown Up",
-        "url": "https://open.spotify.com/album/51wp3EOOp2mBIjhZjR7W0i"
-      },
-      "artists": [
-        {
-          "name": "Kodak Black",
-          "url": "https://open.spotify.com/artist/46SHBwWsqBkxI7EeeBEQG7"
-        }
-      ],
-      "duration_ms": 150979,
-      "name": "Unexplainable",
-      "url": "https://open.spotify.com/track/6X5x6uOKio6vBiHyptfkGV"
     },
     {
       "added_at": null,
@@ -591,22 +591,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "Cucuy",
-        "url": "https://open.spotify.com/album/1QhpBrDBt9aYF0NMw8SVKU"
+        "name": "Lil Big Pac",
+        "url": "https://open.spotify.com/album/6dAUCUgPdEiorKV7101AtE"
       },
       "artists": [
         {
-          "name": "That Mexican OT",
-          "url": "https://open.spotify.com/artist/3BAgmPNIK5IJl7zMK1wvMA"
-        },
-        {
           "name": "Kodak Black",
           "url": "https://open.spotify.com/artist/46SHBwWsqBkxI7EeeBEQG7"
+        },
+        {
+          "name": "PnB Rock",
+          "url": "https://open.spotify.com/artist/21WS9wngs9AqFckK7yYJPM"
         }
       ],
-      "duration_ms": 157782,
-      "name": "Yo Mama (feat. Kodak Black)",
-      "url": "https://open.spotify.com/track/35s4C6GUe0tpeoSZ6npYHV"
+      "duration_ms": 196336,
+      "name": "Too Many Years",
+      "url": "https://open.spotify.com/track/7KyTq7H5f3Oavmuo9TX6QK"
     },
     {
       "added_at": null,
@@ -635,8 +635,28 @@
     {
       "added_at": null,
       "album": {
-        "name": "Lil Big Pac",
-        "url": "https://open.spotify.com/album/6dAUCUgPdEiorKV7101AtE"
+        "name": "Cucuy",
+        "url": "https://open.spotify.com/album/1QhpBrDBt9aYF0NMw8SVKU"
+      },
+      "artists": [
+        {
+          "name": "That Mexican OT",
+          "url": "https://open.spotify.com/artist/3BAgmPNIK5IJl7zMK1wvMA"
+        },
+        {
+          "name": "Kodak Black",
+          "url": "https://open.spotify.com/artist/46SHBwWsqBkxI7EeeBEQG7"
+        }
+      ],
+      "duration_ms": 157782,
+      "name": "Yo Mama (feat. Kodak Black)",
+      "url": "https://open.spotify.com/track/35s4C6GUe0tpeoSZ6npYHV"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Grand Theft Auto VI: The Album",
+        "url": "https://open.spotify.com/album/5BYKG4MHfySZthe2W6r7n4"
       },
       "artists": [
         {
@@ -644,13 +664,13 @@
           "url": "https://open.spotify.com/artist/46SHBwWsqBkxI7EeeBEQG7"
         },
         {
-          "name": "PnB Rock",
-          "url": "https://open.spotify.com/artist/21WS9wngs9AqFckK7yYJPM"
+          "name": "Don Toliver",
+          "url": "https://open.spotify.com/artist/4Gso3d4CscCijv0lmajZWs"
         }
       ],
-      "duration_ms": 196336,
-      "name": "Too Many Years",
-      "url": "https://open.spotify.com/track/7KyTq7H5f3Oavmuo9TX6QK"
+      "duration_ms": 151446,
+      "name": "Let's Rock",
+      "url": "https://open.spotify.com/track/3MHXtz0Qu0ksVGcvlp7Mfu"
     },
     {
       "added_at": null,
@@ -775,22 +795,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "Grand Theft Auto VI: The Album",
-        "url": "https://open.spotify.com/album/5BYKG4MHfySZthe2W6r7n4"
+        "name": "Lil Big Pac",
+        "url": "https://open.spotify.com/album/6dAUCUgPdEiorKV7101AtE"
       },
       "artists": [
         {
           "name": "Kodak Black",
           "url": "https://open.spotify.com/artist/46SHBwWsqBkxI7EeeBEQG7"
-        },
-        {
-          "name": "Don Toliver",
-          "url": "https://open.spotify.com/artist/4Gso3d4CscCijv0lmajZWs"
         }
       ],
-      "duration_ms": 151446,
-      "name": "Let's Rock",
-      "url": "https://open.spotify.com/track/3MHXtz0Qu0ksVGcvlp7Mfu"
+      "duration_ms": 215954,
+      "name": "Can I",
+      "url": "https://open.spotify.com/track/3kRJETVZOoYlCMoTY1EQGS"
     },
     {
       "added_at": null,
@@ -827,22 +843,6 @@
       "duration_ms": 214781,
       "name": "Coolin and Booted",
       "url": "https://open.spotify.com/track/1Nh5WUisukhSNgwXLRoyZf"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Lil Big Pac",
-        "url": "https://open.spotify.com/album/6dAUCUgPdEiorKV7101AtE"
-      },
-      "artists": [
-        {
-          "name": "Kodak Black",
-          "url": "https://open.spotify.com/artist/46SHBwWsqBkxI7EeeBEQG7"
-        }
-      ],
-      "duration_ms": 215954,
-      "name": "Can I",
-      "url": "https://open.spotify.com/track/3kRJETVZOoYlCMoTY1EQGS"
     },
     {
       "added_at": null,

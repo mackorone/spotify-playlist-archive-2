@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXMJdkLQRrmg.md) - [plain]
 
 > Rock unplugged.
 
-[Spotify](https://open.spotify.com/user/spotify) - 371,604 likes - 75 songs - 4 hr 32 min
+[Spotify](https://open.spotify.com/user/spotify) - 371,617 likes - 75 songs - 4 hr 32 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -66,8 +66,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXMJdkLQRrmg.md) - [plain]
 | 56 | [Behind Your Walls \- Acoustic](https://open.spotify.com/track/6j64GT8KPQE1AaLkjXNyMV) | [The Offspring](https://open.spotify.com/artist/5LfGQac0EIXyAN8aUwmNAQ) | [Behind Your Walls](https://open.spotify.com/album/071cCoc1WosvNgGdke7JRZ) | 3:21 |
 | 57 | [Unintended \- Acoustic Version](https://open.spotify.com/track/2rx43ysBD4sXw5CuhsAWPT) | [Matt Bellamy](https://open.spotify.com/artist/5M76Uwozk3WE3oYE8TNKoR) | [Unintended \[Acoustic Version\]](https://open.spotify.com/album/4h1Etv3O9PHFBwpiZJ8L5b) | 4:02 |
 | 58 | [YOU DON’T KNOW WHAT LOVE MEANS \(feat\. Taylor Acorn\) \- Piano Version](https://open.spotify.com/track/4oFkgWU2B7rPqQsU66E5MG) | [NOTHING MORE](https://open.spotify.com/artist/39VNwvlQTqE9SvgPjjnMpc), [Taylor Acorn](https://open.spotify.com/artist/1A0WloDoRE88uUwo3wensY) | [YOU DON’T KNOW WHAT LOVE MEANS \(feat\. Taylor Acorn\) \[Piano Version\]](https://open.spotify.com/album/62wf2rnKI9Tdet34h5jduw) | 3:54 |
-| 59 | [Look At Us Now \(Honeycomb\) \- Acoustic Demo](https://open.spotify.com/track/4DuGcxb3gRaefxya5lBYzb) | [Daisy Jones & The Six](https://open.spotify.com/artist/0ZUdYzRCIrxbsd80MmGMqo) | [Look At Us Now \(Honeycomb\) \[Acoustic Demo\]](https://open.spotify.com/album/49p1GJegoFfu4I1ltBmgY9) | 3:51 |
-| 60 | [blindfolded \(acoustic\)](https://open.spotify.com/track/1FEcTIxhkqJAE1RlHnpRO7) | [Against The Current](https://open.spotify.com/artist/6yhD1KjhLxIETFF7vIRf8B) | [blindfolded \(acoustic\)](https://open.spotify.com/album/4yReYM4NUqCJS1jJBme8bW) | 3:24 |
+| 59 | [blindfolded \(acoustic\)](https://open.spotify.com/track/1FEcTIxhkqJAE1RlHnpRO7) | [Against The Current](https://open.spotify.com/artist/6yhD1KjhLxIETFF7vIRf8B) | [blindfolded \(acoustic\)](https://open.spotify.com/album/4yReYM4NUqCJS1jJBme8bW) | 3:24 |
+| 60 | [Look At Us Now \(Honeycomb\) \- Acoustic Demo](https://open.spotify.com/track/4DuGcxb3gRaefxya5lBYzb) | [Daisy Jones & The Six](https://open.spotify.com/artist/0ZUdYzRCIrxbsd80MmGMqo) | [Look At Us Now \(Honeycomb\) \[Acoustic Demo\]](https://open.spotify.com/album/49p1GJegoFfu4I1ltBmgY9) | 3:51 |
 | 61 | [Sleepwalking \- Unplugged](https://open.spotify.com/track/1oADRDNPNzmNl50HRiQhQD) | [All Time Low](https://open.spotify.com/artist/46gyXjRIvN1NL1eCB8GBxo) | [Sleepwalking Reimagined](https://open.spotify.com/album/2f8uR6f3g5RbcQbP9PFOC6) | 2:55 |
 | 62 | [Fix Me \- Alternate Take](https://open.spotify.com/track/5ejkJ9w6g7KRdy1zE9SxfD) | [10 Years](https://open.spotify.com/artist/0REMf7H0VP6DwfZ9MbuWph) | [Deconstructed](https://open.spotify.com/album/4Vv97RwuMvSulvOSbuJlT7) | 4:08 |
 | 63 | [Like a Child \- Piano Demo](https://open.spotify.com/track/7wZmK348C8gLNsrnlGZP0P) | [Mother Mother](https://open.spotify.com/artist/0e86yPdC41PGRkLp2Q1Bph) | [Inside \(Deluxe\)](https://open.spotify.com/album/03EqExvZuxLK86huLxGIa2) | 3:37 |
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXMJdkLQRrmg.md) - [plain]
 | 74 | [sail away \(acoustic\)](https://open.spotify.com/track/3NFQODWQ3Fa3ar4moCAiff) | [lovelytheband](https://open.spotify.com/artist/4KJ6jujcNPzOyhdNoiNftp) | [sail away](https://open.spotify.com/album/2ecM3Ast6U07GBP7fnqHJm) | 2:51 |
 | 75 | [Harley Darling \- Acoustic](https://open.spotify.com/track/322f2YoWzoItz0jasljmXR) | [The Pretty Reckless](https://open.spotify.com/artist/2R57sY41L9XvGPiIgHOaYq) | [Harley Darling \(Acoustic\)](https://open.spotify.com/album/5M0sJQ4t6ZCg57VH9kENUG) | 2:50 |
 
-Snapshot ID: `AAAAAHCjkFqgaLap2YBf5Iz4MlZnPquY`
+Snapshot ID: `AAAAAO/uUc8pWefS6qdHp2lx0rvmeeil`

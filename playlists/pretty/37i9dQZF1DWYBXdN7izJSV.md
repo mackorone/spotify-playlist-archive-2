@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYBXdN7izJSV.md) - [plain]
 
 > Classic cuts from the alternative country music scene\. Cover: Uncle Tupelo
 
-[Spotify](https://open.spotify.com/user/spotify) - 117,591 likes - 75 songs - 4 hr 49 min
+[Spotify](https://open.spotify.com/user/spotify) - 117,593 likes - 75 songs - 4 hr 49 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -72,16 +72,16 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYBXdN7izJSV.md) - [plain]
 | 62 | [Tecumseh Valley](https://open.spotify.com/track/7eby7k1AaLr3YT8z9wE996) | [Jason Isbell](https://open.spotify.com/artist/3Q8wgwyVVv0z4UEh1HB0KY), [Elizabeth Cook](https://open.spotify.com/artist/0dyEUZv8ftA0dzL5vb2Y9s) | [Tecumseh Valley / Pancho & Lefty](https://open.spotify.com/album/79qPXm841M359NMu11XLEH) | 4:40 |
 | 63 | [Moonshiner](https://open.spotify.com/track/7KJ2nuhkrBXudfs0fmyw04) | [Uncle Tupelo](https://open.spotify.com/artist/2Plkkomsc4DKawkCioLKjc) | [Uncle Tupelo 89/93: An Anthology](https://open.spotify.com/album/3QTZMpN4IHejzml5kxVGEG) | 4:23 |
 | 64 | [Keep the Home Fires Burnin'](https://open.spotify.com/track/7gwmLVgGZ43UxpvnKAcZJz) | [Sarah Shook & the Disarmers](https://open.spotify.com/artist/6ahZTaoJs2D0gcscsEx64r) | [Sidelong](https://open.spotify.com/album/6b5MHLkj051eiAt1NgBLe3) | 3:03 |
-| 65 | [Brimstone Rock](https://open.spotify.com/track/1nzQhAyJBeWmR75nGcrbKG) | [16 Horsepower](https://open.spotify.com/artist/188gwh9RnRT58ZQPwqwHE3) | [Low Estate](https://open.spotify.com/album/5uoiYvMMws1vvpUUXXF2RM) | 4:28 |
+| 65 | [Tennessee Song](https://open.spotify.com/track/3g9j6JMBhbrEiY65PEmkv5) | [Margo Price](https://open.spotify.com/artist/09yvLritEUxHrzx5TlFvbl) | [Midwest Farmer's Daughter](https://open.spotify.com/album/1RV9pacIcXvkUiAD0EjTdL) | 4:40 |
 | 66 | [Drown](https://open.spotify.com/track/0pudWyp5g98c7jAYYp7MUL) | [Son Volt](https://open.spotify.com/artist/7AhDVqsNA5q46WKsRPXvoe) | [Trace](https://open.spotify.com/album/5secpXfB8n8zeDiA0l60K6) | 3:21 |
-| 67 | [Tennessee Song](https://open.spotify.com/track/3g9j6JMBhbrEiY65PEmkv5) | [Margo Price](https://open.spotify.com/artist/09yvLritEUxHrzx5TlFvbl) | [Midwest Farmer's Daughter](https://open.spotify.com/album/1RV9pacIcXvkUiAD0EjTdL) | 4:40 |
+| 67 | [Brimstone Rock](https://open.spotify.com/track/1nzQhAyJBeWmR75nGcrbKG) | [16 Horsepower](https://open.spotify.com/artist/188gwh9RnRT58ZQPwqwHE3) | [Low Estate](https://open.spotify.com/album/5uoiYvMMws1vvpUUXXF2RM) | 4:28 |
 | 68 | [The Beauty Way](https://open.spotify.com/track/5plZsXyfMyDP5bvDIGrqOz) | [Ray Wylie Hubbard](https://open.spotify.com/artist/4gQ8biCMcMrOuBdJx639Q0) | [Delirium Tremolos](https://open.spotify.com/album/3CQA3UGZ7hj4HbTnGpEGf9) | 3:29 |
 | 69 | [The El](https://open.spotify.com/track/6C0SXBkORzmP9elNb2gMcu) | [Rhett Miller](https://open.spotify.com/artist/0wNZd1CMOsFZ0TiBhlqjD5) | [The Instigator](https://open.spotify.com/album/0Pup5rX8QvSNgSBLX7Vu69) | 3:09 |
 | 70 | [Too Lazy To Work, Too Nervous To Steal](https://open.spotify.com/track/0kkBKoElWdLJKlEHt4nM58) | [BR549](https://open.spotify.com/artist/6h72WuqMdodzUIZGS0YEyU) | [This Is BR549](https://open.spotify.com/album/4E1URWpVQFzwRlCokb2mc0) | 3:53 |
 | 71 | [Brady](https://open.spotify.com/track/42FrunKt2Ad5bDW2fVrRIj) | [Backyard Tire Fire](https://open.spotify.com/artist/3OvUCYn1LXlIffYy9HSxT0) | [Good to Be](https://open.spotify.com/album/3g1s5N9mNDd8ZV2GlOJ8NX) | 4:06 |
 | 72 | [Walk Through The Fire](https://open.spotify.com/track/4waV8mpuoXeZqvWch7Cl95) | [Mary Gauthier](https://open.spotify.com/artist/4SK1IgkcWWc5HC1TOBq1VS) | [Filth & Fire](https://open.spotify.com/album/1TXlWspn7oQGH0FDMOE2M0) | 4:38 |
 | 73 | [Whiskey Angel](https://open.spotify.com/track/3Z1BWdwfiXnmLdnNBfRv9u) | [The Black Lillies](https://open.spotify.com/artist/06Y4yJmsrlzPrwIG46ce7X) | [Whiskey Angel](https://open.spotify.com/album/5c6mKZXRDC5vCKqVTpU9kf) | 4:52 |
-| 74 | [I'm Over You](https://open.spotify.com/track/3QcdXZVpVqc1D5ZdrNBshK) | [The Silos](https://open.spotify.com/artist/4CvAzkeYfFG9DbZ4rCRzih) | [The Silos \(Bonus Track Version\)](https://open.spotify.com/album/4fjTfbiZfqOPtkcuvucevg) | 4:58 |
-| 75 | [Post to Wire](https://open.spotify.com/track/2vwOmgQGX1abLc6dDqyRry) | [Richmond Fontaine](https://open.spotify.com/artist/2zTCLiQ8OUIWEyV6eZWzFy) | [Post to Wire](https://open.spotify.com/album/1IQSQJop8pMbbWozvZsMbc) | 2:13 |
+| 74 | [Post to Wire](https://open.spotify.com/track/2vwOmgQGX1abLc6dDqyRry) | [Richmond Fontaine](https://open.spotify.com/artist/2zTCLiQ8OUIWEyV6eZWzFy) | [Post to Wire](https://open.spotify.com/album/1IQSQJop8pMbbWozvZsMbc) | 2:13 |
+| 75 | [I'm Over You](https://open.spotify.com/track/3QcdXZVpVqc1D5ZdrNBshK) | [The Silos](https://open.spotify.com/artist/4CvAzkeYfFG9DbZ4rCRzih) | [The Silos \(Bonus Track Version\)](https://open.spotify.com/album/4fjTfbiZfqOPtkcuvucevg) | 4:58 |
 
-Snapshot ID: `AAAAAIQJSNkppXRiZAWeYQBHnvhVoB2P`
+Snapshot ID: `AAAAAGGwdDqvlrayTeTy3HyuUSECAo8Y`

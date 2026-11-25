@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7W8X7B8YNLZ.md) - [plain]
 
 > Les plus grands tubes français des années 70\. Photo : Dalida
 
-[Spotify](https://open.spotify.com/user/spotify) - 628,948 likes - 50 songs - 3 hr 8 min
+[Spotify](https://open.spotify.com/user/spotify) - 628,919 likes - 50 songs - 3 hr 8 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -24,8 +24,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7W8X7B8YNLZ.md) - [plain]
 | 14 | [Message personnel \- Remasterisé en 2013](https://open.spotify.com/track/1E1fwQ5Wmls13iEf4QjL9y) | [Françoise Hardy](https://open.spotify.com/artist/7x3f7c0fBanNlQwpx1255g) | [Message personnel \(Version Deluxe\)](https://open.spotify.com/album/6tU1iGwcfWjFasYGnoVj6k) | 4:16 |
 | 15 | [L'été indien](https://open.spotify.com/track/7BNeFchpHDCWYSUV4hfU89) | [Joe Dassin](https://open.spotify.com/artist/64LCTpIu9Iji2EPaxxPpxF) | [Joe Dassin Éternel...](https://open.spotify.com/album/3BRgfYZqKjLoqmEt1jZSHa) | 4:29 |
 | 16 | [Lettre à France](https://open.spotify.com/track/7wOv0Qd3aKaDEw0QplvJzl) | [Michel Polnareff](https://open.spotify.com/artist/7aKldvGENbL4bj8TCWHuhT) | [Coucou Me Revoilou](https://open.spotify.com/album/3wqj1dmx9XqLSdPGwaWEDk) | 4:50 |
-| 17 | [San Francisco](https://open.spotify.com/track/4EucYViqJKQ4lCECHnec1P) | [Maxime Le Forestier](https://open.spotify.com/artist/63daU3zd0ubMpG5sgOorgC) | [Mon Frère](https://open.spotify.com/album/3AQhnilaP323JIXSDAYofu) | 2:45 |
-| 18 | [Qui saura](https://open.spotify.com/track/17X2d0BXk1sgVvH94JIiOR) | [Mike Brant](https://open.spotify.com/artist/1u9tovPnCMYuZiV3EMZqDV) | [20eme anniversaire](https://open.spotify.com/album/45feqbqIXi45boCrjlo0cV) | 3:20 |
+| 17 | [Qui saura](https://open.spotify.com/track/17X2d0BXk1sgVvH94JIiOR) | [Mike Brant](https://open.spotify.com/artist/1u9tovPnCMYuZiV3EMZqDV) | [20eme anniversaire](https://open.spotify.com/album/45feqbqIXi45boCrjlo0cV) | 3:20 |
+| 18 | [San Francisco](https://open.spotify.com/track/4EucYViqJKQ4lCECHnec1P) | [Maxime Le Forestier](https://open.spotify.com/artist/63daU3zd0ubMpG5sgOorgC) | [Mon Frère](https://open.spotify.com/album/3AQhnilaP323JIXSDAYofu) | 2:45 |
 | 19 | [En chantant](https://open.spotify.com/track/4agHyTtI7txejGgCciL6fX) | [Michel Sardou](https://open.spotify.com/artist/0krCd0zVANPv9ryri4T0TO) | [En Chantant](https://open.spotify.com/album/6jpgSolMOIaEyNgF4TrYbC) | 3:54 |
 | 20 | [Alexandrie Alexandra](https://open.spotify.com/track/2e9Sa881KIjKK0y86iNZ6C) | [Claude François](https://open.spotify.com/artist/0P2p1bqVyP2EgqubwjTBUJ) | [Magnolias for Ever](https://open.spotify.com/album/3Q7plxq5RjD1ba3L6vslrM) | 4:22 |
 | 21 | [Mon vieux](https://open.spotify.com/track/6xs2iOXaBfCeVKeyfo2VNE) | [Daniel Guichard](https://open.spotify.com/artist/0lFr08kPxkwkXfsrHSmPvs) | [Mon Vieux](https://open.spotify.com/album/1DJRvlJg6vGlXWQihVdMtb) | 3:30 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7W8X7B8YNLZ.md) - [plain]
 | 49 | [L'avventura](https://open.spotify.com/track/3E1xf2aDc3eRFt69PrXnaw) | [Stone & Charden](https://open.spotify.com/artist/4ndPdP6aVSDCvhsjOHLGjb) | [22 titres inoubliables](https://open.spotify.com/album/72euUqr3HkpoXf7I8UUGAs) | 3:36 |
 | 50 | [Une belle histoire](https://open.spotify.com/track/1GdtMDRiaF1EnG2LJpELme) | [Michel Fugain & Le Big Bazar](https://open.spotify.com/artist/5KnLt0VENhwsfmQL3y2nsY) | [Fais Comme L'Oiseau](https://open.spotify.com/album/6u9tEKSghovMOBy9rwTMLn) | 3:15 |
 
-Snapshot ID: `AAAAAFbntB5mg9n1dK659VTGe604ANxR`
+Snapshot ID: `AAAAANcz0GAa8v17VpFVbWTbd/m6hLPX`

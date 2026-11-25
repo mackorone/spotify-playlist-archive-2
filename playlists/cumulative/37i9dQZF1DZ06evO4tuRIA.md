@@ -4,7 +4,7 @@
 
 > This is LEGADO 7\. The essential tracks, all in one playlist.
 
-127 songs - 6 hr 7 min
+128 songs - 6 hr 10 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -102,7 +102,8 @@
 | [Olor a Kush](https://open.spotify.com/track/1hhnHl9vyHvX2rMHBoOvKY) | [LEGADO 7](https://open.spotify.com/artist/7yCGrS6Xh3UngvY6Ad5sMJ) | [100% Corridos Verdes](https://open.spotify.com/album/2MHgqohl0QpnsFLEViC7Q4) | 2:36 | 2026-11-15 |  |
 | [Olor a Kush](https://open.spotify.com/track/2MUyOgaUmr77dHeqPoZhAc) | [LEGADO 7](https://open.spotify.com/artist/7yCGrS6Xh3UngvY6Ad5sMJ) | [100% Corridos Verdes](https://open.spotify.com/album/1DUb3GFpaTgNkxkCjdoc2i) | 2:36 | 2024-02-26 | 2024-07-14 |
 | [On D Gas](https://open.spotify.com/track/2HSqF98IZ3OIGVUHHUwGdV) | [LEGADO 7](https://open.spotify.com/artist/7yCGrS6Xh3UngvY6Ad5sMJ), [Kane Rodriguez](https://open.spotify.com/artist/163DQlpiiNqxgn2m4WsD3e) | [Pa Que Se Motiven](https://open.spotify.com/album/7DNy735fYZw62qx3CHTtJL) | 3:21 | 2024-08-25 |  |
-| [Pancho Conos](https://open.spotify.com/track/5NNu8DfB4Db1cbr4BSeUsu) | [LEGADO 7](https://open.spotify.com/artist/7yCGrS6Xh3UngvY6Ad5sMJ) | [En Vivo con Tololoche Vol\. 1](https://open.spotify.com/album/6qUgwVEuv48l4qe2ZQrvOg) | 2:54 | 2024-01-29 |  |
+| [Pancho Conos](https://open.spotify.com/track/33LPDb0QDuMH1rzGLsN980) | [LEGADO 7](https://open.spotify.com/artist/7yCGrS6Xh3UngvY6Ad5sMJ) | [En Vivo con Tololoche Vol\. 1](https://open.spotify.com/album/2u8iePc8KXL6TylQtflsCn) | 2:54 | 2026-11-25 |  |
+| [Pancho Conos](https://open.spotify.com/track/5NNu8DfB4Db1cbr4BSeUsu) | [LEGADO 7](https://open.spotify.com/artist/7yCGrS6Xh3UngvY6Ad5sMJ) | [En Vivo con Tololoche Vol\. 1](https://open.spotify.com/album/6qUgwVEuv48l4qe2ZQrvOg) | 2:54 | 2024-01-29 | 2026-11-25 |
 | [Paso En Culiacan \(En Vivo\)](https://open.spotify.com/track/0PXsTgZLZkpEJepjyZAGTS) | [Jaime Y Fernando](https://open.spotify.com/artist/6hd4yoO98vmwUq150wB5gm), [LEGADO 7](https://open.spotify.com/artist/7yCGrS6Xh3UngvY6Ad5sMJ) | [Paso En Culiacan \(En Vivo\)](https://open.spotify.com/album/6dWQ03bpI9ODThTAlqKWbP) | 4:00 | 2024-01-29 | 2024-06-22 |
 | [Pateando Latas](https://open.spotify.com/track/2z7N2urXPNsYHSA4kks2Dv) | [Grupo Marca Registrada](https://open.spotify.com/artist/1gW6pz5n1aK249L0GvfQCC), [LEGADO 7](https://open.spotify.com/artist/7yCGrS6Xh3UngvY6Ad5sMJ) | [The Magic, Vol.1](https://open.spotify.com/album/4MEuvVVOvDnERcJKrZxct2) | 3:11 | 2025-08-23 |  |
 | [Pateando Latas](https://open.spotify.com/track/3yQXmNacfHANLuaK5qomxz) | [Grupo Marca Registrada](https://open.spotify.com/artist/1gW6pz5n1aK249L0GvfQCC), [LEGADO 7](https://open.spotify.com/artist/7yCGrS6Xh3UngvY6Ad5sMJ) | [The Magic, Vol.1](https://open.spotify.com/album/4q02YCUCtiUpDcUZ75D561) | 3:11 | 2024-01-29 | 2025-04-25 |

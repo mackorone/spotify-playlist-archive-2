@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1nTCV2.md) - [plain]
 
 > This is Ryan Adams\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 45,422 likes - 50 songs - 3 hr 3 min
+[Spotify](https://open.spotify.com/user/spotify) - 45,424 likes - 50 songs - 3 hr 4 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -56,7 +56,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1nTCV2.md) - [plain]
 | 46 | [Hallelujah](https://open.spotify.com/track/35IXhsIR2ZgELZABz7iRVr) | [Ryan Adams](https://open.spotify.com/artist/2qc41rNTtdLK0tV3mJn2Pm) | [Demolition](https://open.spotify.com/album/748GLnbrpsibJyQ5HvxV8q) | 3:10 |
 | 47 | [Tell It to My Heart](https://open.spotify.com/track/0mTSH5lWFl69GdXiKmi9Df) | [Ryan Adams](https://open.spotify.com/artist/2qc41rNTtdLK0tV3mJn2Pm) | [The Suicide Handbook](https://open.spotify.com/album/0yp0bbJRApf6V8cg3TwOKM) | 3:22 |
 | 48 | [Come Home](https://open.spotify.com/track/1c7QlGCnOxQY0ToOezw9zS) | [Ryan Adams](https://open.spotify.com/artist/2qc41rNTtdLK0tV3mJn2Pm) | [Ashes & Fire](https://open.spotify.com/album/1w2aDtXIq2HjpZQOt8JaRa) | 4:50 |
-| 49 | [Starfire](https://open.spotify.com/track/2TpNrJWGjdjLK13IzcXQ67) | [Ryan Adams](https://open.spotify.com/artist/2qc41rNTtdLK0tV3mJn2Pm) | [BLACKHOLE](https://open.spotify.com/album/1MoCKOv0WAsaLq01voKMAD) | 2:50 |
-| 50 | [My Wrecking Ball](https://open.spotify.com/track/1ciMtKsxopVddDlM2g6Dgr) | [Ryan Adams](https://open.spotify.com/artist/2qc41rNTtdLK0tV3mJn2Pm) | [Ryan Adams](https://open.spotify.com/album/5FV8d3DhSoArvwr0Qqgzq3) | 3:08 |
+| 49 | [My Wrecking Ball](https://open.spotify.com/track/1ciMtKsxopVddDlM2g6Dgr) | [Ryan Adams](https://open.spotify.com/artist/2qc41rNTtdLK0tV3mJn2Pm) | [Ryan Adams](https://open.spotify.com/album/5FV8d3DhSoArvwr0Qqgzq3) | 3:08 |
+| 50 | [Burning Photographs](https://open.spotify.com/track/6PKNfjoN5MLXoqdTSjq6I4) | [Ryan Adams](https://open.spotify.com/artist/2qc41rNTtdLK0tV3mJn2Pm) | [Rock N Roll](https://open.spotify.com/album/3wPNe9aWZjMVr1UULcPuSX) | 4:12 |
 
-Snapshot ID: `awIwgAAAAAAT+Xnmw6D6tNwZ8gyxSeYV`
+Snapshot ID: `awOCAAAAAAA+AI4FbHDlGT/2tUYBw6gX`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSXAHZTiX76o.md) - [plain]
 
 > Las mujeres que la rompieron este año con su música\. Mon Laferte en portada.
 
-[Spotify](https://open.spotify.com/user/spotify) - 343,031 likes - 60 songs - 3 hr 5 min
+[Spotify](https://open.spotify.com/user/spotify) - 343,015 likes - 60 songs - 3 hr 5 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -69,4 +69,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSXAHZTiX76o.md) - [plain]
 | 59 | [Indecisa](https://open.spotify.com/track/6J3LSNRHLDxHTZRXiRhRIf) | [Susana Cala](https://open.spotify.com/artist/68LgpWsaAwjflP3CLXC0LB) | [Indecisa](https://open.spotify.com/album/5dPuGA5JVHtbrGvenykZNl) | 2:22 |
 | 60 | [Agarradinho \- Spotify Singles](https://open.spotify.com/track/6j9YiLIN5TqwUuBwoyglMW) | [Enme](https://open.spotify.com/artist/3ttiKwSvGG74O588DvPIG8) | [Agarradinho \- Spotify Singles](https://open.spotify.com/album/6ldTBilOX402xGqAcFeFWi) | 2:44 |
 
-Snapshot ID: `AAAAAMrwvLMNxqcTaduWhOP9RcGAvnQX`
+Snapshot ID: `AAAAABvYeRK5TEAgWjWMW3ZbOcdSkrK0`

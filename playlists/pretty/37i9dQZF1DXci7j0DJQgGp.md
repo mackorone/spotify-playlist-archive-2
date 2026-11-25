@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXci7j0DJQgGp.md) - [plain]
 
 > The perfect playlist to just sit back and chill out with.
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,669,255 likes - 100 songs - 6 hr 27 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,669,151 likes - 100 songs - 6 hr 27 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -67,8 +67,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXci7j0DJQgGp.md) - [plain]
 | 57 | [Ocean Bed](https://open.spotify.com/track/53dyuOtRb9WMz5puNHodZN) | [Darlingside](https://open.spotify.com/artist/3DkhgIw7lIyxekurpXNTrm) | [Ocean Bed](https://open.spotify.com/album/2xCrzpspW5gU2hkMENVexR) | 4:00 |
 | 58 | [Astral Projection](https://open.spotify.com/track/0cIcEuNjpHSKaXEiH3H1NW) | [Yumi Zouma](https://open.spotify.com/artist/4tPyCwWrsvZ8OKYl7QRavL) | [Present Tense](https://open.spotify.com/album/6xhv13hoRmxMHCXjp87Kl0) | 3:52 |
 | 59 | [Holocene \[feat\. Weyes Blood\]](https://open.spotify.com/track/0zbc8UgOfYyG96pAWjx3hH) | [Zella Day](https://open.spotify.com/artist/100sLnojEpcadRx4edEBA6), [Weyes Blood](https://open.spotify.com/artist/3Uqu1mEdkUJxPe7s31n1M9) | [Holocene \[feat\. Weyes Blood\]](https://open.spotify.com/album/4sZmMxrfujVWfFtYk6tfXH) | 4:26 |
-| 60 | [Where’s Your Love Now \- Waxahatchee Version](https://open.spotify.com/track/5hLbAu2TGDhiwhvebzY5cv) | [This Is Lorelei](https://open.spotify.com/artist/0GmYGGZZIU8vHbI0bAXZun), [Waxahatchee](https://open.spotify.com/artist/5IWCU0V9evBlW4gIeGY4zF) | [Where’s Your Love Now \(Waxahatchee Version\)](https://open.spotify.com/album/1pnhU7gq3vrxKaq8cWkNs3) | 5:21 |
-| 61 | [white lies](https://open.spotify.com/track/3twtKmTjKfNjavNLZg5jLH) | [Katie Gregson\-MacLeod](https://open.spotify.com/artist/2xCYQunn7ZXK6qOwXWPvcF) | [songs written for piano](https://open.spotify.com/album/4b3sAKmiYUPq7OCe7JEX4O) | 2:27 |
+| 60 | [white lies](https://open.spotify.com/track/3twtKmTjKfNjavNLZg5jLH) | [Katie Gregson\-MacLeod](https://open.spotify.com/artist/2xCYQunn7ZXK6qOwXWPvcF) | [songs written for piano](https://open.spotify.com/album/4b3sAKmiYUPq7OCe7JEX4O) | 2:27 |
+| 61 | [Where’s Your Love Now \- Waxahatchee Version](https://open.spotify.com/track/5hLbAu2TGDhiwhvebzY5cv) | [This Is Lorelei](https://open.spotify.com/artist/0GmYGGZZIU8vHbI0bAXZun), [Waxahatchee](https://open.spotify.com/artist/5IWCU0V9evBlW4gIeGY4zF) | [Where’s Your Love Now \(Waxahatchee Version\)](https://open.spotify.com/album/1pnhU7gq3vrxKaq8cWkNs3) | 5:21 |
 | 62 | [Lemon \[Feat\. Sharon Van Etten\]](https://open.spotify.com/track/2WphjSfmTbX4wZ48SzYwaH) | [Local Natives](https://open.spotify.com/artist/75dQReiBOHN37fQgWQrIAJ), [Sharon Van Etten](https://open.spotify.com/artist/2wJ4vsxWd7df7dRU4KcoDe) | [Lemon \[Feat\. Sharon Van Etten\]](https://open.spotify.com/album/5TQRtgQRRNiXb2fIah2lE4) | 3:17 |
 | 63 | [Pretty Pictures](https://open.spotify.com/track/330fmJp9kvEMPjLhoc29Zl) | [Indigo De Souza](https://open.spotify.com/artist/3ir2pF2mkiEWqyPenKTh5e) | [Any Shape You Take](https://open.spotify.com/album/7G7lPTcJta35qGZ8LMIJ4y) | 2:58 |
 | 64 | [Bed Head \- Acoustic](https://open.spotify.com/track/2d7DuVXlzYByepNPmQSejc) | [Manchester Orchestra](https://open.spotify.com/artist/5wFXmYsg3KFJ8BDsQudJ4f) | [Bed Head \(Acoustic\)](https://open.spotify.com/album/51adUeflIsXW7VBLulUd3M) | 4:03 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXci7j0DJQgGp.md) - [plain]
 | 99 | [Summer](https://open.spotify.com/track/5wghHTSgz3KugE6b7QTm2e) | [Tasha](https://open.spotify.com/artist/4ZbFpxbORhzU78ve8e62Ej) | [Summer](https://open.spotify.com/album/0ZRGex2LSlTPx9Na2PBqB5) | 3:21 |
 | 100 | [Stay](https://open.spotify.com/track/5wTnei9CxGTNVn8vgH1Yhj) | [Sam Evian](https://open.spotify.com/artist/5MXsi1oKkm8LuStuKkMdzu) | [Stay](https://open.spotify.com/album/2cC5M33uZRseQLHhEUK3lW) | 3:17 |
 
-Snapshot ID: `AAAAAIR7r/l23R+53uNMkMRY/rnwiTN2`
+Snapshot ID: `AAAAAC4+k3cmTaE32ZKCim3A5Lwwjd+X`

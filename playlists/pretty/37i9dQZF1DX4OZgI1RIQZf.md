@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4OZgI1RIQZf.md) - [plain]
 
 > The best indie songs from all decades for your Halloween party
 
-[Spotify](https://open.spotify.com/user/spotify) - 142,394 likes - 100 songs - 6 hr 5 min
+[Spotify](https://open.spotify.com/user/spotify) - 142,374 likes - 100 songs - 6 hr 5 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -48,24 +48,24 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4OZgI1RIQZf.md) - [plain]
 | 38 | [brainrot](https://open.spotify.com/track/0YRO8UVYzlPLBzt9UbsZ4L) | [ivri](https://open.spotify.com/artist/5EjK7aUvQ9LMNqc2zXiWLS) | [brainrot](https://open.spotify.com/album/1b7N3MUAHOq7vsjelQ8VDj) | 2:12 |
 | 39 | [Call Me The Witch](https://open.spotify.com/track/3xQG9PIAhv20rO1tusH380) | [lùisa](https://open.spotify.com/artist/0we7IYHF0G5i1j934KBxUa) | [Call Me The Witch](https://open.spotify.com/album/0yfHcJzLqipWIvB8KPHTnz) | 3:06 |
 | 40 | [Skeleton Boy](https://open.spotify.com/track/7nNyOfMS79SwXWum8XHnJa) | [Friendly Fires](https://open.spotify.com/artist/3mZqziCJj4pq3P2VBpmK6p) | [Friendly Fires](https://open.spotify.com/album/2IYQugcYGspBIJRz67Ppft) | 3:33 |
-| 41 | [The Witch](https://open.spotify.com/track/18k49mXvNPtKlcT6Ky39pe) | [The Sonics](https://open.spotify.com/artist/2g3PKH7Z1Ofn5oGR6oDjLy) | [Introducing The Sonics](https://open.spotify.com/album/2EmUijeHFyILSHUC2kzxXv) | 2:38 |
-| 42 | [Blood Gets Thin](https://open.spotify.com/track/4Ik9Yhh91b4KsCuyx9NtyF) | [Pete And The Pirates](https://open.spotify.com/artist/4s80V6BJwBbS1UEbjeQejQ) | [One Thousand Pictures](https://open.spotify.com/album/21HqWBPHTbiD5tM7XM2Z3h) | 3:08 |
-| 43 | [Halloween Parade](https://open.spotify.com/track/5Hb0p1Ti6nkeA3SSKfbvM2) | [Lou Reed](https://open.spotify.com/artist/42TFhl7WlMRXiNqzSrnzPL) | [New York](https://open.spotify.com/album/7xGqf9DddW89cg7m6zX88t) | 3:33 |
-| 44 | [head, shoulders, knees and ankles](https://open.spotify.com/track/7sDf2g3AxsuAQKqghO8Ubg) | [hemlocke springs](https://open.spotify.com/artist/52PdgUJOjvS6Mpmjy1SAlx) | [head, shoulders, knees and ankles](https://open.spotify.com/album/2q3cjxX6rCpaYJSPaiTGpN) | 3:12 |
-| 45 | [It's Halloween!](https://open.spotify.com/track/2vaxJplblWuxdSzD7UdbGP) | [iamnotshane](https://open.spotify.com/artist/3jN7f9X0EmFnsbRS6nl6as) | [It's Halloween!](https://open.spotify.com/album/670eYWGcQVl6I04oCvzkDi) | 2:29 |
-| 46 | [Flexorcist](https://open.spotify.com/track/2P4FWhDB0wxPyULFAAmx15) | [The Voidz](https://open.spotify.com/artist/4nUBBtLtzqZGpdiynTJbYJ) | [Flexorcist](https://open.spotify.com/album/182ckyYQ6wiPAbi121pAKb) | 5:57 |
+| 41 | [Blood Gets Thin](https://open.spotify.com/track/4Ik9Yhh91b4KsCuyx9NtyF) | [Pete And The Pirates](https://open.spotify.com/artist/4s80V6BJwBbS1UEbjeQejQ) | [One Thousand Pictures](https://open.spotify.com/album/21HqWBPHTbiD5tM7XM2Z3h) | 3:08 |
+| 42 | [Halloween Parade](https://open.spotify.com/track/5Hb0p1Ti6nkeA3SSKfbvM2) | [Lou Reed](https://open.spotify.com/artist/42TFhl7WlMRXiNqzSrnzPL) | [New York](https://open.spotify.com/album/7xGqf9DddW89cg7m6zX88t) | 3:33 |
+| 43 | [The Witch](https://open.spotify.com/track/18k49mXvNPtKlcT6Ky39pe) | [The Sonics](https://open.spotify.com/artist/2g3PKH7Z1Ofn5oGR6oDjLy) | [Introducing The Sonics](https://open.spotify.com/album/2EmUijeHFyILSHUC2kzxXv) | 2:38 |
+| 44 | [Flexorcist](https://open.spotify.com/track/2P4FWhDB0wxPyULFAAmx15) | [The Voidz](https://open.spotify.com/artist/4nUBBtLtzqZGpdiynTJbYJ) | [Flexorcist](https://open.spotify.com/album/182ckyYQ6wiPAbi121pAKb) | 5:57 |
+| 45 | [head, shoulders, knees and ankles](https://open.spotify.com/track/7sDf2g3AxsuAQKqghO8Ubg) | [hemlocke springs](https://open.spotify.com/artist/52PdgUJOjvS6Mpmjy1SAlx) | [head, shoulders, knees and ankles](https://open.spotify.com/album/2q3cjxX6rCpaYJSPaiTGpN) | 3:12 |
+| 46 | [It's Halloween!](https://open.spotify.com/track/2vaxJplblWuxdSzD7UdbGP) | [iamnotshane](https://open.spotify.com/artist/3jN7f9X0EmFnsbRS6nl6as) | [It's Halloween!](https://open.spotify.com/album/670eYWGcQVl6I04oCvzkDi) | 2:29 |
 | 47 | [Vampire Again](https://open.spotify.com/track/5GX3fBrtiHlPBo93yRoECA) | [Marlon Williams](https://open.spotify.com/artist/5ENM4Vw9brkpcN51HtC8ga) | [Vampire Again](https://open.spotify.com/album/5EvYLfpCjwAq8Uc2ivH4uZ) | 4:02 |
 | 48 | [River Styx](https://open.spotify.com/track/6F9KW2QPgUH7GNxVWku4Nu) | [Black Rebel Motorcycle Club](https://open.spotify.com/artist/1tpXaFf2F55E7kVJON4j4G) | [Beat the Devil's Tattoo \(Deluxe Version\)](https://open.spotify.com/album/5hqmEMXO32v9e8mjWljKkP) | 3:52 |
 | 49 | [Frankenstein](https://open.spotify.com/track/2N0vFGHku7wNk66Aw5HZSR) | [Editors](https://open.spotify.com/artist/6e9wIFWhBPHLE9bXK8gtBI) | [Frankenstein](https://open.spotify.com/album/48ULeYOIxptWfLQdebRfVB) | 4:28 |
-| 50 | [i walk this earth all by myself](https://open.spotify.com/track/6oofvZ4K8vBHnCT1oKERcd) | [EKKSTACY](https://open.spotify.com/artist/0ynzbXwyCzxicMKHBoOkSH) | [NEGATIVE](https://open.spotify.com/album/2momrvUqAMigmBoOOKuavE) | 2:25 |
-| 51 | [Halloween Store](https://open.spotify.com/track/3oWGBitSdsizfiIlCfwUqV) | [Andy Shauf](https://open.spotify.com/artist/5mFKYdmiYwNJTDtSzgFyQx) | [Norm](https://open.spotify.com/album/0TaN6TZg6BpT0lQNJAhGrC) | 2:59 |
+| 50 | [Halloween Store](https://open.spotify.com/track/3oWGBitSdsizfiIlCfwUqV) | [Andy Shauf](https://open.spotify.com/artist/5mFKYdmiYwNJTDtSzgFyQx) | [Norm](https://open.spotify.com/album/0TaN6TZg6BpT0lQNJAhGrC) | 2:59 |
+| 51 | [i walk this earth all by myself](https://open.spotify.com/track/6oofvZ4K8vBHnCT1oKERcd) | [EKKSTACY](https://open.spotify.com/artist/0ynzbXwyCzxicMKHBoOkSH) | [NEGATIVE](https://open.spotify.com/album/2momrvUqAMigmBoOOKuavE) | 2:25 |
 | 52 | [Highly Suspicious](https://open.spotify.com/track/5TF4OlQZ2vD7qWinHDfO1j) | [My Morning Jacket](https://open.spotify.com/artist/43O3c6wewpzPKwVaGEEtBM) | [Evil Urges](https://open.spotify.com/album/4IqeW3hG9973Yd6ajqiNl1) | 3:04 |
 | 53 | [Monster](https://open.spotify.com/track/0cJQkYXQhDnqzhcCAF8PW2) | [Flawless Issues](https://open.spotify.com/artist/6Arj1L7vuPVkK3foh4PQmU), [Ariel Pink](https://open.spotify.com/artist/5H0YoDsPDi9fObFmJtTjfN) | [Peanuts EP](https://open.spotify.com/album/4AWfbUBoDN3p3WCjc0z1Sw) | 2:23 |
 | 54 | [Skeleton Song](https://open.spotify.com/track/6r2PtKqXYf0MfAG74uLvsL) | [Kate Nash](https://open.spotify.com/artist/5vBKu1igxFo6g1sHADkIdg) | [Made of Bricks](https://open.spotify.com/album/2gDCBa5P6SnAaY0cadefQS) | 5:07 |
 | 55 | [Zombie Prom](https://open.spotify.com/track/7yMbT5HHdk8NpuchXIL18b) | [Kaiser Chiefs](https://open.spotify.com/artist/0LbLWjaweRbO4FDKYlbfNt) | [Zombie Prom \(Hallowe'en At Home Edition\)](https://open.spotify.com/album/6PQJubA12Yap1KhrUruMfW) | 3:38 |
 | 56 | [Suck the Blood from My Wound](https://open.spotify.com/track/08udle8t4dGZzQ67AEs8X4) | [Ezra Furman](https://open.spotify.com/artist/1uR7zoLrSRI8bSL43OZ0GY) | [Transangelic Exodus](https://open.spotify.com/album/0qH9x299SJCF03WuVXgXAN) | 4:49 |
-| 57 | [Stay In Your Grave \(feat\. Alice Cooper\)](https://open.spotify.com/track/7F24giQdWEKip6mIyGuGs7) | [The Black Keys](https://open.spotify.com/artist/7mnBLXK823vNxN3UWB7Gfz), [Alice Cooper](https://open.spotify.com/artist/3EhbVgyfGd7HkpsagwL9GS) | [Stay In Your Grave \(feat\. Alice Cooper\)](https://open.spotify.com/album/08vLRPd996FPgpqffEUzq9) | 2:19 |
-| 58 | [Standing on Ghosts](https://open.spotify.com/track/3Hae7QZVTET77QI7zSYc1g) | [Two Door Cinema Club](https://open.spotify.com/artist/536BYVgOnRky0xjsPT96zl) | [Four Words to Stand On](https://open.spotify.com/album/6MG0XArKf08UY3LfLaavp5) | 3:31 |
+| 57 | [Standing on Ghosts](https://open.spotify.com/track/3Hae7QZVTET77QI7zSYc1g) | [Two Door Cinema Club](https://open.spotify.com/artist/536BYVgOnRky0xjsPT96zl) | [Four Words to Stand On](https://open.spotify.com/album/6MG0XArKf08UY3LfLaavp5) | 3:31 |
+| 58 | [Stay In Your Grave \(feat\. Alice Cooper\)](https://open.spotify.com/track/7F24giQdWEKip6mIyGuGs7) | [The Black Keys](https://open.spotify.com/artist/7mnBLXK823vNxN3UWB7Gfz), [Alice Cooper](https://open.spotify.com/artist/3EhbVgyfGd7HkpsagwL9GS) | [Stay In Your Grave \(feat\. Alice Cooper\)](https://open.spotify.com/album/08vLRPd996FPgpqffEUzq9) | 2:19 |
 | 59 | [Dark and Stormy](https://open.spotify.com/track/2gvwIqaOOWQdP3uKRISk06) | [Hot Chip](https://open.spotify.com/artist/37uLId6Z5ZXCx19vuruvv5) | [Dark and Stormy](https://open.spotify.com/album/7lbMXq5sMJqxSEBXEsQZE6) | 4:55 |
 | 60 | [The Feast](https://open.spotify.com/track/3zX3qdlhBdjSs0uE1mST8V) | [Mary Middlefield](https://open.spotify.com/artist/4AHdi9slY1QQdgFXRFUUIs) | [The Feast](https://open.spotify.com/album/0eNHN1wdo7BA0kP0a2P7Gu) | 5:02 |
 | 61 | [St\. Charles Square](https://open.spotify.com/track/0JQ3jQlKcmS3HUssKGfyLL) | [Blur](https://open.spotify.com/artist/7MhMgCo0Bl0Kukl93PZbYS) | [St\. Charles Square](https://open.spotify.com/album/6yNkTZJhIhSP7N8BsBzwLK) | 3:55 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4OZgI1RIQZf.md) - [plain]
 | 99 | [Halloween Blues](https://open.spotify.com/track/3Wby5EleliIk9ZF9aYynX9) | [The Fratellis](https://open.spotify.com/artist/3M4ThdJR28z9eSMcQHAZ5G) | [We Need Medicine](https://open.spotify.com/album/20K4oohZg7r3nYN8VSBtj6) | 3:16 |
 | 100 | [So Haunted](https://open.spotify.com/track/5TM606Zfk31aNXIR63baT5) | [Cut Copy](https://open.spotify.com/artist/4EENT7N7rCBwrddM3s0vFS) | [In Ghost Colours](https://open.spotify.com/album/56YFlkW3xQdHKel5VzPvv9) | 4:27 |
 
-Snapshot ID: `AAAAAJIMpjiUtNMWv58SnRjhyEC3n9Dy`
+Snapshot ID: `AAAAADd8dsxH7KBKkLxsDyz0YpLb0lIJ`

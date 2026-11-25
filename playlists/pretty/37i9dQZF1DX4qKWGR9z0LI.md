@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4qKWGR9z0LI.md) - [plain]
 
 > Un ícono que marcó la música para siempre, gracias Willie Colón\. 🕊️ Lo nuevo y lo mejor de la salsa.
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,847,085 likes - 100 songs - 7 hr 10 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,846,942 likes - 100 songs - 7 hr 10 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -50,8 +50,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4qKWGR9z0LI.md) - [plain]
 | 40 | [Vivir Lo Nuestro](https://open.spotify.com/track/0LIZVQBQtDi4lLhB83qJIp) | [LA INDIA](https://open.spotify.com/artist/3NIZFmehJM8YiGpCdihlck), [Marc Anthony](https://open.spotify.com/artist/4wLXwxDeWQ8mtUIRPxGiD6) | [Desde Un Principio / From The Beginning](https://open.spotify.com/album/5d7Tr9DguGh9z9oByKWYoI) | 6:06 |
 | 41 | [1+1](https://open.spotify.com/track/4IIVfcAGxVXGMbwIpj6ZXJ) | [Maluma](https://open.spotify.com/artist/1r4hJ1h58CWwUQe3MxPuau), [Kany García](https://open.spotify.com/artist/69UypehHabb68utzfjAVlV) | [1+1](https://open.spotify.com/album/2DIxLzdiEgIh7Bh9XIv4E1) | 3:06 |
 | 42 | [Valió la Pena \- Salsa Version](https://open.spotify.com/track/4pUmQqaZklcCOB3rFdWc7g) | [Marc Anthony](https://open.spotify.com/artist/4wLXwxDeWQ8mtUIRPxGiD6) | [Sigo Siendo Yo](https://open.spotify.com/album/70XO7jxoVIV9p9IFyjXGvJ) | 4:49 |
-| 43 | [Abre Que Voy](https://open.spotify.com/track/3ihMiG7GPZdsWJcf7Tyevw) | [Miguel Enriquez](https://open.spotify.com/artist/3BuDl3fIeTGNTV50Y7NyqL) | [Grandes Exitos](https://open.spotify.com/album/5syjNOn67VhltUhaZMkVoZ) | 4:22 |
-| 44 | [ROMÁNTICA](https://open.spotify.com/track/0sbtnge2Ao6yk4ypmTmOGb) | [Maria Becerra](https://open.spotify.com/artist/1DxLCyH42yaHKGK3cl5bvG), [Jay Wheeler](https://open.spotify.com/artist/2cPqdH7XMvwaBJEVjheH8g), [XROSS](https://open.spotify.com/artist/1sV3HHU1TBH5owKu0WLHf7) | [ROMÁNTICA](https://open.spotify.com/album/06RVDKvYTLFWIwED9Kv24M) | 3:51 |
+| 43 | [ROMÁNTICA](https://open.spotify.com/track/0sbtnge2Ao6yk4ypmTmOGb) | [Maria Becerra](https://open.spotify.com/artist/1DxLCyH42yaHKGK3cl5bvG), [Jay Wheeler](https://open.spotify.com/artist/2cPqdH7XMvwaBJEVjheH8g), [XROSS](https://open.spotify.com/artist/1sV3HHU1TBH5owKu0WLHf7) | [ROMÁNTICA](https://open.spotify.com/album/06RVDKvYTLFWIwED9Kv24M) | 3:51 |
+| 44 | [Abre Que Voy](https://open.spotify.com/track/3ihMiG7GPZdsWJcf7Tyevw) | [Miguel Enriquez](https://open.spotify.com/artist/3BuDl3fIeTGNTV50Y7NyqL) | [Grandes Exitos](https://open.spotify.com/album/5syjNOn67VhltUhaZMkVoZ) | 4:22 |
 | 45 | [Incomprendido](https://open.spotify.com/track/26PPEd7Q5tpmFLpAFmpUIl) | [Rawayana](https://open.spotify.com/artist/2AbQwU2cuEGfD465wCXlg2), [Neutro Shorty](https://open.spotify.com/artist/5wUO3A6DT4tO5UDz21kE2Y), [Orestes Gomez](https://open.spotify.com/artist/6XToOxid134FKnslBTQZW1) | [Incomprendido](https://open.spotify.com/album/1QquGCJr1NtfXM1quq6qAw) | 2:59 |
 | 46 | [Como Te Hago Entender](https://open.spotify.com/track/4wSBxQJhhohJeMUeqRfCX8) | [Mike Bahía](https://open.spotify.com/artist/1phfTBIocBW3UwqcYjaEN6) | [Como Te Hago Entender](https://open.spotify.com/album/1POcDfTTyKJeBITAjSOScI) | 3:28 |
 | 47 | [Pa'lla Voy](https://open.spotify.com/track/05jVbjHBsX3V8OxFWlpayR) | [Marc Anthony](https://open.spotify.com/artist/4wLXwxDeWQ8mtUIRPxGiD6) | [Pa'lla Voy](https://open.spotify.com/album/7Egfnc2y2UO9Gqeh5nYzDh) | 4:06 |
@@ -62,9 +62,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4qKWGR9z0LI.md) - [plain]
 | 52 | [Es Un Secreto](https://open.spotify.com/track/1Wi86cXpfWulFjThqb3JcF) | [Christian Alicea](https://open.spotify.com/artist/7e3WPrCLa3zHg6Er0lq7mp), [DJ Buddha](https://open.spotify.com/artist/2m7JzVtYyAwdU0CnET9IvA) | [Yo Deluxe](https://open.spotify.com/album/5dJ9HMLXMR6ALFr4dcBLPU) | 3:28 |
 | 53 | [Cosa Extraña](https://open.spotify.com/track/18z0OksR0zYfEHA7WkADf9) | [Moa Rivera](https://open.spotify.com/artist/3SVGxBlWR0Cnamj9e2Ybmz) | [Mal Necesario](https://open.spotify.com/album/7utWV0K0bud4V8tca7S5Sl) | 2:59 |
 | 54 | [Gordo](https://open.spotify.com/track/0KcyU1JCY5W8WGuILa8MDv) | [Camilo](https://open.spotify.com/artist/28gNT5KBp7IjEOQoevXf9N) | [un](https://open.spotify.com/album/69qvzyO2jAil3U6DZpckxr) | 3:40 |
-| 55 | [Caer y Levantarse](https://open.spotify.com/track/0FYGlxgKse1U1v5QrfjXwj) | [Pedro Capó](https://open.spotify.com/artist/4QVBYiagIaa6ZGSPMbybpy) | [Caer y Levantarse](https://open.spotify.com/album/7sRTvhUtL6QbVeVNO7BaYa) | 4:30 |
-| 56 | [Los Campeones De La Salsa](https://open.spotify.com/track/4Ii4Fk8ylnGcPn0zQ8WIdB) | [Willy Chirino](https://open.spotify.com/artist/4dvonCK12HCv1UUryzRppO) | [Pa'lante](https://open.spotify.com/album/5iphNcNTNLbwxGKmEnlVu3) | 4:18 |
-| 57 | [Cartas Sobre La Mesa](https://open.spotify.com/track/0uXqpDkoW72tss8cbja7Ew) | [Gilberto Santa Rosa](https://open.spotify.com/artist/27vNK840zYq6IfDijHPsv1) | [Cartas Sobre La Mesa](https://open.spotify.com/album/2vHiGSGYRjcoJMarvktzhi) | 3:11 |
+| 55 | [Los Campeones De La Salsa](https://open.spotify.com/track/4Ii4Fk8ylnGcPn0zQ8WIdB) | [Willy Chirino](https://open.spotify.com/artist/4dvonCK12HCv1UUryzRppO) | [Pa'lante](https://open.spotify.com/album/5iphNcNTNLbwxGKmEnlVu3) | 4:18 |
+| 56 | [Cartas Sobre La Mesa](https://open.spotify.com/track/0uXqpDkoW72tss8cbja7Ew) | [Gilberto Santa Rosa](https://open.spotify.com/artist/27vNK840zYq6IfDijHPsv1) | [Cartas Sobre La Mesa](https://open.spotify.com/album/2vHiGSGYRjcoJMarvktzhi) | 3:11 |
+| 57 | [Caer y Levantarse](https://open.spotify.com/track/0FYGlxgKse1U1v5QrfjXwj) | [Pedro Capó](https://open.spotify.com/artist/4QVBYiagIaa6ZGSPMbybpy) | [Caer y Levantarse](https://open.spotify.com/album/7sRTvhUtL6QbVeVNO7BaYa) | 4:30 |
 | 58 | [Tengo Ganas](https://open.spotify.com/track/0gVmUkRX09cY5uNPSI74JC) | [Víctor Manuelle](https://open.spotify.com/artist/4N5fp4zhTsVITZTVfsXpc2) | [Historia De Un Sonero](https://open.spotify.com/album/1v1eJiZh9virmkSaMeMwi4) | 4:26 |
 | 59 | [Acuyuye](https://open.spotify.com/track/5LCpO7pp92DHmXzCLtJnnj) | [Johnny Pacheco](https://open.spotify.com/artist/09947uhj2ZwU9mFXK5v50o) | [Pacheco Y Su Charanga Vol\. 3: Que Suene La Flauta](https://open.spotify.com/album/694VA7cAltUDJrYV05dvsy) | 2:33 |
 | 60 | [Carro de Fuego](https://open.spotify.com/track/4guUX2YppY1kPGpjDaenhQ) | [Guayacán Orquesta](https://open.spotify.com/artist/2pZ81eCkqxemIjqqfE1fhE) | [Bueno y Más](https://open.spotify.com/album/5YYL0N32bGmdz3b2kmsQpC) | 4:30 |
@@ -97,8 +97,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4qKWGR9z0LI.md) - [plain]
 | 87 | [Cuenta Bien](https://open.spotify.com/track/5uAUdYqKxwofLV0p47ED5Y) | [Edwin Bonilla](https://open.spotify.com/artist/2bf5VxFC3tr25BxumNDQxM) | [Soy La Candela](https://open.spotify.com/album/7yx4SxwUnCKxIecRpCGkR5) | 5:41 |
 | 88 | [LA RONDA](https://open.spotify.com/track/6LsXU5cUoOqC2YnUCu7b5E) | [Myke Towers](https://open.spotify.com/artist/7iK8PXO48WeuP03g8YR51W) | [LVEU: VIVE LA TUYA...NO LA MIA](https://open.spotify.com/album/1ZVJTCW5rxpHKNgsNL91J2) | 3:29 |
 | 89 | [Juguete de Nadie](https://open.spotify.com/track/3pDjbxoNsCVoDwabAl2jSR) | [Luisito Ayala Y La Puerto Rican Power](https://open.spotify.com/artist/2UoLlLFDkqewHH7EzaZcl7) | [Exitos y Mas](https://open.spotify.com/album/3TbMMalrMelzvOnprzpVpD) | 5:04 |
-| 90 | [Porque Te Amo](https://open.spotify.com/track/41dBR9Gy1WZSiBkLBWbl2l) | [Nino Segarra](https://open.spotify.com/artist/7titF03HCJwxZeJ98nMWbK) | [Salsa At It's Best](https://open.spotify.com/album/3h6vm8JRXQ43IiGXWH235R) | 5:04 |
-| 91 | [Mi Propiedad Privada](https://open.spotify.com/track/3DAxwWtA3N41eNZ9pCsQnl) | [LA INDIA](https://open.spotify.com/artist/3NIZFmehJM8YiGpCdihlck) | [Mi Propiedad Privada](https://open.spotify.com/album/5wzCExW5NvwRMvDRav2taR) | 4:12 |
+| 90 | [Mi Propiedad Privada](https://open.spotify.com/track/3DAxwWtA3N41eNZ9pCsQnl) | [LA INDIA](https://open.spotify.com/artist/3NIZFmehJM8YiGpCdihlck) | [Mi Propiedad Privada](https://open.spotify.com/album/5wzCExW5NvwRMvDRav2taR) | 4:12 |
+| 91 | [Porque Te Amo](https://open.spotify.com/track/41dBR9Gy1WZSiBkLBWbl2l) | [Nino Segarra](https://open.spotify.com/artist/7titF03HCJwxZeJ98nMWbK) | [Salsa At It's Best](https://open.spotify.com/album/3h6vm8JRXQ43IiGXWH235R) | 5:04 |
 | 92 | [Así Es la Vida](https://open.spotify.com/track/72AMsl79P96E6rz36zQ7Rc) | [Luis Enrique](https://open.spotify.com/artist/2mUI4K6csTQd3jieswcmiI) | [Mis Favoritas](https://open.spotify.com/album/2egG2DlANQY3fxAI3gOaCZ) | 4:41 |
 | 93 | [Me Espera \(La Salsa del Nonno\) \- Esp\. Vesion](https://open.spotify.com/track/5WXqJIriE5tbaRiXtVE2lo) | [Los Amigos Invisibles](https://open.spotify.com/artist/5x3mrCTZmkoTXURN7pWdGN) | [Me Espera \(La Salsa del Nonno\)](https://open.spotify.com/album/6t4tcMhyknRfmN9s3EewpE) | 3:40 |
 | 94 | [Tesoro Mío](https://open.spotify.com/track/1Rl1t74MdEZVcRHYVSdawK) | [Yan Collazo](https://open.spotify.com/artist/6D9rSZLgUiBRupCIsfhErW), [Olga Tañón](https://open.spotify.com/artist/4pv1Jo4PbYI8LMADJoTWjE) | [Tesoro Mío](https://open.spotify.com/album/60l2KWmlLtMEPWJMNLv3UD) | 4:02 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4qKWGR9z0LI.md) - [plain]
 | 99 | [No Me Lo Creo](https://open.spotify.com/track/4gwHxA0k6vffsqrlQM5KqI) | [Daniela Darcourt](https://open.spotify.com/artist/4exGY59juoSimpcH1NiuaR), [Tito Nieves](https://open.spotify.com/artist/4vOycwLXdkMMzpZW04VW5m) | [No Me Lo Creo](https://open.spotify.com/album/1uEJjZcUacPru75YliRbJg) | 4:28 |
 | 100 | [La Puerta](https://open.spotify.com/track/34bjkVVJ0bPS1NbeseqpVj) | [Sergio George](https://open.spotify.com/artist/4Ht1HigABvctq7wW4D3jAC), [Jay Wheeler](https://open.spotify.com/artist/2cPqdH7XMvwaBJEVjheH8g) | [La Puerta](https://open.spotify.com/album/3B48WTakHmgv5x8ADMirMj) | 3:22 |
 
-Snapshot ID: `AAAAAOF72VjhL6IcLpCYRdJ8ZhXg3RuW`
+Snapshot ID: `AAAAAFRGfTpn3jDoNWTUNTOFUgI241eg`

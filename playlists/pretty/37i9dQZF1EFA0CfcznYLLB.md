@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFA0CfcznYLLB.md) - [plain]
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/3QX3YzE51B2iuT5ol1U6BC">Murda Beatz</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 12,842 likes - 313 songs - 16 hr 4 min
+[Spotify](https://open.spotify.com/user/spotify) - 12,841 likes - 313 songs - 16 hr 4 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -47,8 +47,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFA0CfcznYLLB.md) - [plain]
 | 37 | [Nothing Changed](https://open.spotify.com/track/37If4sC0Si28T6z63qhR5z) | [Quavo](https://open.spotify.com/artist/0VRj0yCOv2FXJNP47XQnx5), [Takeoff](https://open.spotify.com/artist/3EW0kQ1skZiK1NHg3Spt9J) | [Only Built For Infinity Links](https://open.spotify.com/album/59hIIDzaPSH5O3QSz4zX0t) | 3:19 |
 | 38 | [You Wouldn't Understand](https://open.spotify.com/track/0veO6y9anwdVTaRuW7y8NJ) | [Juice WRLD](https://open.spotify.com/artist/4MCBfE4596Uoi2O4DtmEMz) | [Fighting Demons \(Deluxe\)](https://open.spotify.com/album/1typPCwqyXMfFpvDZAyKew) | 2:50 |
 | 39 | [GRoCERIES](https://open.spotify.com/track/2ZueZJriwJi7vFXD1UVEVj) | [Chance the Rapper](https://open.spotify.com/artist/1anyVhU62p31KFi8MEzkbf), [TisaKorean](https://open.spotify.com/artist/6lEhBhAv6HOopjXssi09cq), [Murda Beatz](https://open.spotify.com/artist/3CbYyyd8wH3RT6t0jwpdzC) | [GRoCERIES](https://open.spotify.com/album/4ukKkRaCiWcgJ3YZ3jmUfu) | 3:46 |
-| 40 | [Back on Road](https://open.spotify.com/track/39liuGHPxn2sAyvO6DINor) | [Gucci Mane](https://open.spotify.com/artist/13y7CgLHjMVRMDqxdx0Xdo), [Drake](https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4) | [Everybody Looking](https://open.spotify.com/album/3WjDB3j2yZL4g0hBGHF04i) | 2:29 |
-| 41 | [How](https://open.spotify.com/track/2b7rt5gCEy2p2zTp656s4U) | [Lil Baby](https://open.spotify.com/artist/5f7VJjfbwm532GiveGC0ZK) | [My Turn](https://open.spotify.com/album/1ynyQdPQiXdYJNQEDL1S3d) | 3:01 |
+| 40 | [How](https://open.spotify.com/track/2b7rt5gCEy2p2zTp656s4U) | [Lil Baby](https://open.spotify.com/artist/5f7VJjfbwm532GiveGC0ZK) | [My Turn](https://open.spotify.com/album/1ynyQdPQiXdYJNQEDL1S3d) | 3:01 |
+| 41 | [Back on Road](https://open.spotify.com/track/39liuGHPxn2sAyvO6DINor) | [Gucci Mane](https://open.spotify.com/artist/13y7CgLHjMVRMDqxdx0Xdo), [Drake](https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4) | [Everybody Looking](https://open.spotify.com/album/3WjDB3j2yZL4g0hBGHF04i) | 2:29 |
 | 42 | [Undefeated \(feat\. 21 Savage\)](https://open.spotify.com/track/2vaMWMPMgsWX4fwJiKmdWm) | [A Boogie Wit da Hoodie](https://open.spotify.com/artist/31W5EY0aAly4Qieq6OFu6I), [21 Savage](https://open.spotify.com/artist/1URnnhqYAYcrqrcwql10ft) | [The Bigger Artist](https://open.spotify.com/album/3HHp5I6Q6SEyU5bkvoCtnV) | 2:54 |
 | 43 | [123](https://open.spotify.com/track/2uVRSSzX96V7Rzlhx7fosj) | [Smokepurpp](https://open.spotify.com/artist/21dooacK2WGBB5amYvKyfM), [Murda Beatz](https://open.spotify.com/artist/3CbYyyd8wH3RT6t0jwpdzC) | [Bless Yo Trap](https://open.spotify.com/album/3UTI3QQcowXYG3DA0Piy5f) | 2:50 |
 | 44 | [Unexplainable](https://open.spotify.com/track/6X5x6uOKio6vBiHyptfkGV) | [Kodak Black](https://open.spotify.com/artist/46SHBwWsqBkxI7EeeBEQG7) | [Project Baby 2: All Grown Up](https://open.spotify.com/album/51wp3EOOp2mBIjhZjR7W0i) | 2:30 |
@@ -322,4 +322,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFA0CfcznYLLB.md) - [plain]
 | 312 | [Body Parts](https://open.spotify.com/track/0PRldWb2v0PVYHHmK3ammB) | [Bomshot](https://open.spotify.com/artist/3SSMWOv4oxoSrm1lJP5kfc) | [Abomination](https://open.spotify.com/album/32eTpy2grvmPhZ7WjPXtBD) | 3:22 |
 | 313 | [City Girls](https://open.spotify.com/track/3eGXiQ0xwjzu5B4bdxE14e) | [Todd Beasley](https://open.spotify.com/artist/4udSYVL9DLYtvOHnNYNN5R) | [City Girls](https://open.spotify.com/album/0zb9WXHVd14zSKmDjZwcmi) | 3:29 |
 
-Snapshot ID: `AcifWgAAAADVigPBSdNr9BYUvaYd2y3v`
+Snapshot ID: `AcikZAAAAABK9Ot2EEFJAuVjsvL9V9qa`

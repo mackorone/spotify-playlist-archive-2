@@ -1,12 +1,12 @@
 {
   "description": "This is Bluey. The essential tracks, all in one playlist.",
-  "num_followers": 53005,
+  "num_followers": 53008,
   "original_name": "This Is Bluey",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "awIwgAAAAAD8Q14yAHs/p6Rsg+LhjBd8",
+  "snapshot_id": "awOCAAAAAAB1H9I233fdSd5WfjCAjTSZ",
   "tracks": [
     {
       "added_at": null,
@@ -302,15 +302,11 @@
         {
           "name": "Joff Bush",
           "url": "https://open.spotify.com/artist/6aNjg7pL4fUyvEgdGczOAV"
-        },
-        {
-          "name": "Daniel O\u2019Brien",
-          "url": "https://open.spotify.com/artist/0uSEEB8TwdhevZ2hv80BoL"
         }
       ],
-      "duration_ms": 144125,
-      "name": "Alongside (Instrumental)",
-      "url": "https://open.spotify.com/track/190HNzzsBBgH7BmCtbzv6f"
+      "duration_ms": 116537,
+      "name": "Tradies",
+      "url": "https://open.spotify.com/track/2559xiglYjf0N6gwkKWGeQ"
     },
     {
       "added_at": null,
@@ -394,11 +390,15 @@
         {
           "name": "Joff Bush",
           "url": "https://open.spotify.com/artist/6aNjg7pL4fUyvEgdGczOAV"
+        },
+        {
+          "name": "Daniel O\u2019Brien",
+          "url": "https://open.spotify.com/artist/0uSEEB8TwdhevZ2hv80BoL"
         }
       ],
-      "duration_ms": 116537,
-      "name": "Tradies",
-      "url": "https://open.spotify.com/track/2559xiglYjf0N6gwkKWGeQ"
+      "duration_ms": 144125,
+      "name": "Alongside (Instrumental)",
+      "url": "https://open.spotify.com/track/190HNzzsBBgH7BmCtbzv6f"
     },
     {
       "added_at": null,

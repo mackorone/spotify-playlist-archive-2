@@ -1,12 +1,12 @@
 {
   "description": "Alcuni amori bruciano pi\u00f9 di altri. Cover:  Shiva",
-  "num_followers": 130750,
+  "num_followers": 130752,
   "original_name": "Arsenico ",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAIAF6pI0ZFwHlKWIdAENQ5a5b5K5",
+  "snapshot_id": "AAAAAPMmyrCnNlwStldT1aGe7axzAVcg",
   "tracks": [
     {
       "added_at": "2026-11-20 00:01:54",
@@ -682,11 +682,19 @@
         {
           "name": "Geolier",
           "url": "https://open.spotify.com/artist/27LlKWxS3KXW7RRAxN5S8s"
+        },
+        {
+          "name": "Shiva",
+          "url": "https://open.spotify.com/artist/2K5nCggbhSZ00YCYP5qkZS"
+        },
+        {
+          "name": "Michelangelo",
+          "url": "https://open.spotify.com/artist/1K7IC4qha4KEXySo6yZmnH"
         }
       ],
-      "duration_ms": 172615,
-      "name": "COME VUOI",
-      "url": "https://open.spotify.com/track/5x9LonDyHxGUO2VzfHJHLE"
+      "duration_ms": 165216,
+      "name": "MONDAY (feat. Shiva & Michelangelo)",
+      "url": "https://open.spotify.com/track/3gMPES6pOosBWxkXAakOxq"
     },
     {
       "added_at": "2026-11-20 00:01:54",
@@ -766,19 +774,11 @@
         {
           "name": "Geolier",
           "url": "https://open.spotify.com/artist/27LlKWxS3KXW7RRAxN5S8s"
-        },
-        {
-          "name": "Shiva",
-          "url": "https://open.spotify.com/artist/2K5nCggbhSZ00YCYP5qkZS"
-        },
-        {
-          "name": "Michelangelo",
-          "url": "https://open.spotify.com/artist/1K7IC4qha4KEXySo6yZmnH"
         }
       ],
-      "duration_ms": 165216,
-      "name": "MONDAY (feat. Shiva & Michelangelo)",
-      "url": "https://open.spotify.com/track/3gMPES6pOosBWxkXAakOxq"
+      "duration_ms": 172615,
+      "name": "COME VUOI",
+      "url": "https://open.spotify.com/track/5x9LonDyHxGUO2VzfHJHLE"
     },
     {
       "added_at": "2026-11-20 00:01:54",

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6EQe4DjJNfI.md) - [plain]
 
 > O R&B com tempero e gostinho brasileiro para você ouvir\. Foto: Maui
 
-[Spotify](https://open.spotify.com/user/spotify) - 192,368 likes - 75 songs - 4 hr 2 min
+[Spotify](https://open.spotify.com/user/spotify) - 192,369 likes - 75 songs - 4 hr 2 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6EQe4DjJNfI.md) - [plain]
 | 74 | [Rosa Maria](https://open.spotify.com/track/2dtqWQf6ye7d1k5bHxjJQI) | [Ryan Fidelis](https://open.spotify.com/artist/4rkTUIMEwnwtVEXFZDqFjm) | [Rosa Maria](https://open.spotify.com/album/1j3O7ndLOJazzQmfKh6FdT) | 3:52 |
 | 75 | [Sobrenatural](https://open.spotify.com/track/5E60i7KlJHPaTHOLkqprMM) | [Ryan Fidelis](https://open.spotify.com/artist/4rkTUIMEwnwtVEXFZDqFjm) | [Sobrenatural](https://open.spotify.com/album/0F3j9jMNLDWaN2y6OB8L2a) | 2:47 |
 
-Snapshot ID: `AAAAAJOGrGxR0j9NHE2betqodnXGbBAx`
+Snapshot ID: `AAAAAC+VpR/8NWegjhWPPRi0WS+gOGxb`

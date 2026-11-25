@@ -4,7 +4,7 @@
 
 > Filthy bass bangers to soundtrack your sesh
 
-753 songs - 1 day 19 hr 10 min
+754 songs - 1 day 19 hr 12 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -304,7 +304,7 @@
 | [Hive Mind](https://open.spotify.com/track/1rDI8nPgcXUKJkXr5iWYd3) | [Degs](https://open.spotify.com/artist/7gYMOxGbwZZgvaOc6z5VJG), [NCT](https://open.spotify.com/artist/5iWNGhdgW9MA0l5AqFLqh9), [Dux n Bass](https://open.spotify.com/artist/5LlJwFI0pt18QEmRZMT7EA) | [Hive Mind](https://open.spotify.com/album/1tMHEBaGjw7diyPDiNyyf3) | 3:00 | 2025-05-08 | 2025-05-15 |
 | [Hold It Down](https://open.spotify.com/track/6PLIpSkUhvggHJb4vzeHUa) | [ENiGMA Dubz](https://open.spotify.com/artist/7ygSJBM6sZ0vXGJvjnL1V5), [Emz](https://open.spotify.com/artist/42uWTOhFxOD21pXuBmuEp9) | [Mixtape 3: \#Bars](https://open.spotify.com/album/5txos8riEKfpxCgXJdmVdy) | 3:12 | 2026-08-27 | 2026-09-18 |
 | [Holy Ghost](https://open.spotify.com/track/394SgqkD6gJOM08pZI8kol) | [Zero](https://open.spotify.com/artist/6ocDQwCTkVro3cmejcF1DH) | [Holy Ghost](https://open.spotify.com/album/54JOZGnbDW4l1P1i2UlMju) | 3:29 | 2025-11-28 | 2026-07-03 |
-| [Holy Moly \- VIP](https://open.spotify.com/track/2lR38u65dPKs0ZJ3BHVoz6) | [Document One](https://open.spotify.com/artist/70E0CLEf2H8hCo06gHJ7tu) | [Holy Moly \(VIP\)](https://open.spotify.com/album/1IRwkwVuNeReBF1E9ANuxJ) | 4:13 | 2026-08-27 |  |
+| [Holy Moly \- VIP](https://open.spotify.com/track/2lR38u65dPKs0ZJ3BHVoz6) | [Document One](https://open.spotify.com/artist/70E0CLEf2H8hCo06gHJ7tu) | [Holy Moly \(VIP\)](https://open.spotify.com/album/1IRwkwVuNeReBF1E9ANuxJ) | 4:13 | 2026-08-27 | 2026-11-25 |
 | [Home In That Bass](https://open.spotify.com/track/2WtlAPdL3vRvGijgwaAP4z) | [Andy C](https://open.spotify.com/artist/75HK7rgkmDMTnWwwmcN53N) | [Home In That Bass](https://open.spotify.com/album/6n9bf2en9wnB2R0N15hFGT) | 3:09 | 2024-09-12 | 2025-05-09 |
 | [Hooked](https://open.spotify.com/track/4v7kKFlEDmpVToHOICsXaM) | [NOTION](https://open.spotify.com/artist/1uRVM0wBdtyEuU582EeKJM) | [Hooked](https://open.spotify.com/album/69QTaXErGkvPW9pQ0GYY4H) | 3:26 | 2022-09-30 | 2024-02-23 |
 | [Hot In Here](https://open.spotify.com/track/0jzGm5fCcbUdaiUj4hAxeM) | [Champion](https://open.spotify.com/artist/3cHya45cxGzLYIPg2LRCCR), [Sammy Virji](https://open.spotify.com/artist/1GuqTQbuixFHD6eBkFwVcb) | [Hot In Here](https://open.spotify.com/album/02oLtxGI6xxN68iVnnDR6W) | 3:11 | 2023-12-01 | 2024-09-06 |
@@ -336,6 +336,7 @@
 | [It's Just This Thing](https://open.spotify.com/track/1PzMiuvUMQRKfxxNsPAjZR) | [Zero](https://open.spotify.com/artist/6ocDQwCTkVro3cmejcF1DH), [COUCOU CHLOE](https://open.spotify.com/artist/5xmw3tD4MbvhA1ay1U0HEC) | [Feel So Free Mixtape](https://open.spotify.com/album/4dHbS7oUzTsbkc0SPRhTWB) | 3:39 | 2023-01-25 | 2023-06-13 |
 | [It's Time 2 Get Funky](https://open.spotify.com/track/39nRRikME7JHKn0Spi8Anh) | [Da Klubb Kings](https://open.spotify.com/artist/3Al5uAJr54fYkKWMPohQ65) | [It's Time 2 Get Funky](https://open.spotify.com/album/2AfqV3QUzBsNJiEInUGFMc) | 6:31 | 2023-12-27 | 2024-01-12 |
 | [I’m Confused](https://open.spotify.com/track/23IMx0AeVBouS72DfACGQt) | [Zero](https://open.spotify.com/artist/6ocDQwCTkVro3cmejcF1DH) | [14ZERO V2](https://open.spotify.com/album/2IRS9qLBd27Wp824FxnZqw) | 3:18 | 2026-09-17 | 2026-11-09 |
+| [JD](https://open.spotify.com/track/3Mdtfg95L09wTRFn4HujVf) | [Emporio](https://open.spotify.com/artist/3fQvLQgwCxhkpIA3uZHqvb), [Gino Bonazzi](https://open.spotify.com/artist/3boLJaAmPzBTomtB1o4pv4), [DixonBeats](https://open.spotify.com/artist/1tPcm7nlLFtOsr42qq19Ej) | [JD](https://open.spotify.com/album/5oPOkuY3oMRCsxWnFZjlk8) | 1:49 | 2026-11-06 |  |
 | [Jet black](https://open.spotify.com/track/6LQKFnu5NApfRZJoJqfPVG) | [Mr Traumatik](https://open.spotify.com/artist/2ZKsAq380W6XWsyWyuKv3Z), [Devilman](https://open.spotify.com/artist/73nEd2GvjMYNSsFnxKSDAK), [Frenzee](https://open.spotify.com/artist/3TM1dK0UnEKVId1zfhycFO) | [Jet black](https://open.spotify.com/album/1wZFS7CI07eg1TfFCaYT5h) | 3:21 | 2025-01-17 | 2025-02-05 |
 | [Jordan 1s \- Effy Rework](https://open.spotify.com/track/1PsmJW9eYuXY7zRtYxRzMI) | [Vv Pete](https://open.spotify.com/artist/66IkoRt5JAg88LCnPuyxXr), [UTILITY](https://open.spotify.com/artist/07SL7uPXhqtBGz0Pqljjgi), [Effy](https://open.spotify.com/artist/19SX00qkAvpVQroAka9GI0) | [Jordan 1s \(Effy Rework\)](https://open.spotify.com/album/6mv6SyHksCO4Pnq4IxXFps) | 3:39 | 2024-06-27 | 2025-02-07 |
 | [Jungle Diva](https://open.spotify.com/track/3SOYIrIqTRHBb6BZweU4AS) | [Lens](https://open.spotify.com/artist/6XKxTAwaVZS4dhFj8IxFFz), [Sarah Ikumu](https://open.spotify.com/artist/6nDkhVNHd7xpZGilqARZoS), [Pola & Bryson](https://open.spotify.com/artist/79PzyYqAyunWsVH4tY4vpr), [goddard.](https://open.spotify.com/artist/3yDDYheQFqfhKZXdjFQuuP) | [Jungle Diva](https://open.spotify.com/album/0hYssqIhcO38ksOscEwsoK) | 3:09 | 2024-07-25 | 2025-05-09 |

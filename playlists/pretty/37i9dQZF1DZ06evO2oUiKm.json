@@ -1,12 +1,12 @@
 {
   "description": "This is Cynthia Erivo. The essential tracks, all in one playlist.",
-  "num_followers": 11679,
+  "num_followers": 11676,
   "original_name": "This Is Cynthia Erivo",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "awIwgAAAAADkddI8BMAA3UWSBCodAsGh",
+  "snapshot_id": "awOCAAAAAAAds86ureAnq4A5Lai8YyKh",
   "tracks": [
     {
       "added_at": null,
@@ -536,9 +536,9 @@
           "url": "https://open.spotify.com/artist/46UMQ0cW8ToR8egkBRwAxZ"
         }
       ],
-      "duration_ms": 314765,
-      "name": "You\u2019re Not Here",
-      "url": "https://open.spotify.com/track/4kxDgHQrOP9EraTWTh3lwk"
+      "duration_ms": 209893,
+      "name": "The Good",
+      "url": "https://open.spotify.com/track/7sPW54QvTCMlWQEB0tyhJ3"
     },
     {
       "added_at": null,
@@ -575,22 +575,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "Bobby Tarantino III",
-        "url": "https://open.spotify.com/album/5gJDUpoOlZxxgk2SDsTa6h"
+        "name": "Beyond The Lights (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/76IoyEyJjmgL6vLAK6a6EI"
       },
       "artists": [
-        {
-          "name": "Logic",
-          "url": "https://open.spotify.com/artist/4xRYI6VqpkE3UwrDrAZL8L"
-        },
         {
           "name": "Cynthia Erivo",
           "url": "https://open.spotify.com/artist/46UMQ0cW8ToR8egkBRwAxZ"
         }
       ],
-      "duration_ms": 140370,
-      "name": "Inside (feat. Cynthia Erivo)",
-      "url": "https://open.spotify.com/track/4FC0MkDV5elZUcHDXZm1nj"
+      "duration_ms": 183506,
+      "name": "Fly Before You Fall",
+      "url": "https://open.spotify.com/track/6Ch1e7h3b19r8HnR6HD1MW"
     },
     {
       "added_at": null,
@@ -604,9 +600,9 @@
           "url": "https://open.spotify.com/artist/46UMQ0cW8ToR8egkBRwAxZ"
         }
       ],
-      "duration_ms": 209893,
-      "name": "The Good",
-      "url": "https://open.spotify.com/track/7sPW54QvTCMlWQEB0tyhJ3"
+      "duration_ms": 314765,
+      "name": "You\u2019re Not Here",
+      "url": "https://open.spotify.com/track/4kxDgHQrOP9EraTWTh3lwk"
     },
     {
       "added_at": null,
@@ -627,6 +623,26 @@
     {
       "added_at": null,
       "album": {
+        "name": "Bobby Tarantino III",
+        "url": "https://open.spotify.com/album/5gJDUpoOlZxxgk2SDsTa6h"
+      },
+      "artists": [
+        {
+          "name": "Logic",
+          "url": "https://open.spotify.com/artist/4xRYI6VqpkE3UwrDrAZL8L"
+        },
+        {
+          "name": "Cynthia Erivo",
+          "url": "https://open.spotify.com/artist/46UMQ0cW8ToR8egkBRwAxZ"
+        }
+      ],
+      "duration_ms": 140370,
+      "name": "Inside (feat. Cynthia Erivo)",
+      "url": "https://open.spotify.com/track/4FC0MkDV5elZUcHDXZm1nj"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Everytime You Go Away (From the Documentary \u201cJohn Candy: I Like Me\")",
         "url": "https://open.spotify.com/album/1WdHwykRftuLBoD4LlzOBg"
       },
@@ -639,22 +655,6 @@
       "duration_ms": 308948,
       "name": "Everytime You Go Away - From the Documentary \u201cJohn Candy: I Like Me\"",
       "url": "https://open.spotify.com/track/2m32Fp49p0F3ojwUJ295WC"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Beyond The Lights (Original Motion Picture Soundtrack)",
-        "url": "https://open.spotify.com/album/76IoyEyJjmgL6vLAK6a6EI"
-      },
-      "artists": [
-        {
-          "name": "Cynthia Erivo",
-          "url": "https://open.spotify.com/artist/46UMQ0cW8ToR8egkBRwAxZ"
-        }
-      ],
-      "duration_ms": 183506,
-      "name": "Fly Before You Fall",
-      "url": "https://open.spotify.com/track/6Ch1e7h3b19r8HnR6HD1MW"
     },
     {
       "added_at": null,
@@ -895,6 +895,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "The Color Purple (New Broadway Cast Recording)",
+        "url": "https://open.spotify.com/album/2bzQfE92hKUBxYiNkFTq5W"
+      },
+      "artists": [
+        {
+          "name": "Cynthia Erivo",
+          "url": "https://open.spotify.com/artist/46UMQ0cW8ToR8egkBRwAxZ"
+        }
+      ],
+      "duration_ms": 77077,
+      "name": "Somebody Gonna Love You",
+      "url": "https://open.spotify.com/track/1dKsRmAjZ8HAvdVMZYEval"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Still Blooming",
         "url": "https://open.spotify.com/album/6kllfmayC7Mg9S3SkV67Fj"
       },
@@ -915,22 +931,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "The Color Purple (New Broadway Cast Recording)",
-        "url": "https://open.spotify.com/album/2bzQfE92hKUBxYiNkFTq5W"
-      },
-      "artists": [
-        {
-          "name": "Cynthia Erivo",
-          "url": "https://open.spotify.com/artist/46UMQ0cW8ToR8egkBRwAxZ"
-        }
-      ],
-      "duration_ms": 77077,
-      "name": "Somebody Gonna Love You",
-      "url": "https://open.spotify.com/track/1dKsRmAjZ8HAvdVMZYEval"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Ch. 1 Vs. 1",
         "url": "https://open.spotify.com/album/0KeLt7XCGtfAKAbrmM59De"
       },
@@ -947,26 +947,34 @@
     {
       "added_at": null,
       "album": {
-        "name": "Forbidden",
-        "url": "https://open.spotify.com/album/7IRsmb8NBHNvFYVW0NZkbV"
+        "name": "Together (Soundtrack from Year in Search)",
+        "url": "https://open.spotify.com/album/1lBWCio6Lq0FcZTkyV7GWy"
       },
       "artists": [
         {
-          "name": "Todrick Hall",
-          "url": "https://open.spotify.com/artist/0gBvuNzrFCOVaiyKexoYMH"
-        },
-        {
-          "name": "Jade Novah",
-          "url": "https://open.spotify.com/artist/7HvZ0wFF6TW2kxX8AVVY3K"
+          "name": "Peter CottonTale",
+          "url": "https://open.spotify.com/artist/4mkGZGaUTIpyG1LnZ6nNIi"
         },
         {
           "name": "Cynthia Erivo",
           "url": "https://open.spotify.com/artist/46UMQ0cW8ToR8egkBRwAxZ"
+        },
+        {
+          "name": "Chance the Rapper",
+          "url": "https://open.spotify.com/artist/1anyVhU62p31KFi8MEzkbf"
+        },
+        {
+          "name": "Chicago Children's Choir",
+          "url": "https://open.spotify.com/artist/6e64nPdtxyICfh90RJukpg"
+        },
+        {
+          "name": "Matt Jones (Re-Collective Orchestra)",
+          "url": "https://open.spotify.com/artist/5aIudIa5jdxKBDLH1qVPWC"
         }
       ],
-      "duration_ms": 232800,
-      "name": "Nobody",
-      "url": "https://open.spotify.com/track/7akYphvbRlVJ7dWKOAeTus"
+      "duration_ms": 192873,
+      "name": "Together (Soundtrack from Year in Search)",
+      "url": "https://open.spotify.com/track/4P3YIQ8etgONpiS1DIpFat"
     }
   ],
   "unique_name": "This Is Cynthia Erivo",

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYs8YYEWLlaB.md) - [plain]
 
 > viral, trend ve yükselenler\. Kapak: Yıldızlardan Düştük
 
-[Spotify](https://open.spotify.com/user/spotify) - 588,706 likes - 50 songs - 2 hr 27 min
+[Spotify](https://open.spotify.com/user/spotify) - 588,698 likes - 50 songs - 2 hr 27 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -35,9 +35,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYs8YYEWLlaB.md) - [plain]
 | 25 | [CRUSH!](https://open.spotify.com/track/4uFIhAOi62bRG1OhmQfDB9) | [CRUSH](https://open.spotify.com/artist/2JEo6ivzJS4vQbHZycSsS6) | [CRUSH!](https://open.spotify.com/album/3Ayegr0sD9IvpNiGFsVzR0) | 2:28 |
 | 26 | [TAMPONTAMPONA](https://open.spotify.com/track/0OhrOm2AfOkav7tjWSMjEf) | [Ati242](https://open.spotify.com/artist/6bGOmNBU1AOgttgOjh0ldf) | [TAMPONTAMPONA](https://open.spotify.com/album/5flqeedURwamU6B8An5lAb) | 3:16 |
 | 27 | [Ömrüm](https://open.spotify.com/track/4e54GhjU0PAXwbGvbwAPz6) | [Eypio](https://open.spotify.com/artist/6h5P3J0j1x2lhiDk9w4deZ) | [Ömrüm](https://open.spotify.com/album/6FQixEQWNUYSu7FPuKLCDN) | 2:54 |
-| 28 | [Bulamazsın](https://open.spotify.com/track/0IZ2qKKg9xwYrur7N4kjyT) | [PERMA](https://open.spotify.com/artist/4P4eANB9QIIM1hFAlG5mPt) | [Bulamazsın](https://open.spotify.com/album/1e73nJRhj6dn6V7Blh08sM) | 2:17 |
+| 28 | [Ayaza Serdim](https://open.spotify.com/track/7wZRlmI91BOt7JF7rMOrej) | [Kubilay Karça](https://open.spotify.com/artist/2pbct1ni3yLLAfzrSXQDrH) | [Ayaza Serdim](https://open.spotify.com/album/3xDzaEo83O8jaKlvYzUboF) | 3:38 |
 | 29 | [Daha İyi](https://open.spotify.com/track/2AhfH5OG1o12XEqGZUgEPT) | [manifest](https://open.spotify.com/artist/2WjzL05RyqIk5n53sZc9nf) | [Daha İyi](https://open.spotify.com/album/7rkBjeuLQ7UgSty5yAOLpx) | 3:18 |
-| 30 | [Ayaza Serdim](https://open.spotify.com/track/7wZRlmI91BOt7JF7rMOrej) | [Kubilay Karça](https://open.spotify.com/artist/2pbct1ni3yLLAfzrSXQDrH) | [Ayaza Serdim](https://open.spotify.com/album/3xDzaEo83O8jaKlvYzUboF) | 3:38 |
+| 30 | [Bulamazsın](https://open.spotify.com/track/0IZ2qKKg9xwYrur7N4kjyT) | [PERMA](https://open.spotify.com/artist/4P4eANB9QIIM1hFAlG5mPt) | [Bulamazsın](https://open.spotify.com/album/1e73nJRhj6dn6V7Blh08sM) | 2:17 |
 | 31 | [Sen Orda Yoksun](https://open.spotify.com/track/0xB1twgXnL1hEwLRWdRUIe) | [Göksel](https://open.spotify.com/artist/4i4ALRtQQmFxn3BCIB6iC0) | [Sen Orda Yoksun](https://open.spotify.com/album/3TJcFAQKCaxzQQyw7aSkvD) | 4:01 |
 | 32 | [GEL GEL GEL](https://open.spotify.com/track/2tni0FShSW5lPlCGyhy6xR) | [Lvbel C5](https://open.spotify.com/artist/0V2oXYR7DtrZAEFeILRW2r), [DYSTINCT](https://open.spotify.com/artist/1cKyknhftNKXCjMBd2hDrG) | [GEL GEL GEL](https://open.spotify.com/album/6POXXtou8ETiuvDKpCc5HK) | 2:40 |
 | 33 | [Ah Be Manolya](https://open.spotify.com/track/6jufCZrWWPnuL8ozXjMqIp) | [Burak Bulut](https://open.spotify.com/artist/2a2YSCx78HHWVOsCuMpeXz) | [Ah Be Manolya](https://open.spotify.com/album/0w21vGqaC3h0KLyXsNSAb8) | 2:54 |
@@ -51,12 +51,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYs8YYEWLlaB.md) - [plain]
 | 41 | [Noldu Böyle](https://open.spotify.com/track/0Yhn2lIPjySylxMkmHuBIW) | [Asil Gök](https://open.spotify.com/artist/0d43Fqs68Oboh6XXo4ztgn) | [Noldu Böyle](https://open.spotify.com/album/3LG4klpFuFGNyYl0RytLtU) | 2:20 |
 | 42 | [Gel](https://open.spotify.com/track/5zUWw3yj83bZVkkCMa11Eu) | [Umur Doma](https://open.spotify.com/artist/2kv6srmlOrk6584oHo4XGj), [Hande Ünsal](https://open.spotify.com/artist/6YapGsI8u59kfewJjjJ2LJ) | [Gel](https://open.spotify.com/album/6laK7g3UFya62bl36AmMrq) | 2:44 |
 | 43 | [Güm Güm \(Serhat Karadağ Remix\) \(feat\. Onurr\)](https://open.spotify.com/track/3IgB5XnUKnrcKto3tsNcKI) | [Ayse Hatun Onal](https://open.spotify.com/artist/25yeRs08qswXKKtq0HYTMS), [Onurr](https://open.spotify.com/artist/3I3kGrPbyHSER6DIxsbsac), [Serhat Karadag](https://open.spotify.com/artist/5lnel6i9CbZEYoWSyiYnEk) | [Güm Güm \(Serhat Karadağ Remix\) \(feat\. Onurr\)](https://open.spotify.com/album/5t4zxaoJRFxNBnzXQeSWIO) | 3:47 |
-| 44 | [kozzy](https://open.spotify.com/track/04d7aMynHFsfWOhJo4gFIf) | [Murda](https://open.spotify.com/artist/2y1VzMKAa5nmfXKtJL9jnj) | [kozzy](https://open.spotify.com/album/1tfEQVJsIqwsI0cs6qKV2q) | 2:46 |
-| 45 | [Yanar \- Dedub Sessions II](https://open.spotify.com/track/6TXH41wtFj3o1dMOp7lKHM) | [Dedublüman](https://open.spotify.com/artist/5PRW6j58xEEWL4DDVEITKT), [Aleyna Tilki](https://open.spotify.com/artist/4ckLjJztj53Ifid7WHweBn) | [Yanar \(Dedub Sessions II\)](https://open.spotify.com/album/1DmcdJDrMN6kqAUFTY3sZc) | 2:40 |
+| 44 | [Yanar \- Dedub Sessions II](https://open.spotify.com/track/6TXH41wtFj3o1dMOp7lKHM) | [Dedublüman](https://open.spotify.com/artist/5PRW6j58xEEWL4DDVEITKT), [Aleyna Tilki](https://open.spotify.com/artist/4ckLjJztj53Ifid7WHweBn) | [Yanar \(Dedub Sessions II\)](https://open.spotify.com/album/1DmcdJDrMN6kqAUFTY3sZc) | 2:40 |
+| 45 | [kozzy](https://open.spotify.com/track/04d7aMynHFsfWOhJo4gFIf) | [Murda](https://open.spotify.com/artist/2y1VzMKAa5nmfXKtJL9jnj) | [kozzy](https://open.spotify.com/album/1tfEQVJsIqwsI0cs6qKV2q) | 2:46 |
 | 46 | [Aşkın Ertesi](https://open.spotify.com/track/1XPzrCHbRbhLngUgkPW76c) | [Bahadır Tatlıöz](https://open.spotify.com/artist/2cJHtXWQuFgxQ0GkpE7dNR) | [Aşkın Ertesi](https://open.spotify.com/album/1v0x4JmlMlpSCqyd4yZeLI) | 2:59 |
 | 47 | [Seninle Başlar](https://open.spotify.com/track/5lJtI1uJPDrv2x6vhCmml0) | [Sıla Şahin](https://open.spotify.com/artist/7p71hjdN4GlGgIsmCQIvuC), [Samet Kardeşler](https://open.spotify.com/artist/4Jah47VbnOtQGLtmdrDRXp) | [Seninle Başlar](https://open.spotify.com/album/0ZsZilQ9p3sThUWyZiMLZl) | 2:31 |
 | 48 | [Vursunlar \- Roman Version](https://open.spotify.com/track/0WlBjF1DLEw8jg3i8nPm5N) | [Tekir](https://open.spotify.com/artist/2SqjgMx7edUilMzPosMR1P), [Gökhan Namlı](https://open.spotify.com/artist/5bwgqxjC9Gh77Re63SHKxc) | [ROMANESA](https://open.spotify.com/album/2o1RxIqShrINHYIbWDWfny) | 2:37 |
 | 49 | [gece lambası](https://open.spotify.com/track/0uV7yyR4chmf0Fy8nMtt4X) | [Canozan](https://open.spotify.com/artist/4MUb8ilmrxyePXwSkG31lC), [M Lisa](https://open.spotify.com/artist/7CLojerj7StFcAX03tA8Pc) | [gece lambası](https://open.spotify.com/album/6rGtSUjuQzFROqxDtaFWjw) | 2:34 |
 | 50 | [Kıskanç](https://open.spotify.com/track/7d89xmlIognhoDrp3vTosD) | [Zeki Arkun](https://open.spotify.com/artist/0o370GMjPTWUz6gv8lasfs) | [Kıskanç](https://open.spotify.com/album/3AUZa51FrqJIOcUvM8lFom) | 2:35 |
 
-Snapshot ID: `AAAAAGBNpVo81uTjPNP+4e7Wr449+L6L`
+Snapshot ID: `AAAAACR9kLUBmDPo/jCN7eGfAaMHBTZL`

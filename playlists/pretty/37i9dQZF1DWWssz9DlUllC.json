@@ -1,12 +1,12 @@
 {
   "description": "Where afrobeats meets amapiano.\nCover:  Olamide",
-  "num_followers": 104475,
+  "num_followers": 104525,
   "original_name": "afro-piano",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAOyfBPincFKegSjYr0lCIcR33ktS",
+  "snapshot_id": "AAAAANVm7TwF3fpbMYjDnTU4imEygoWW",
   "tracks": [
     {
       "added_at": "2026-11-20 11:06:12",
@@ -367,22 +367,6 @@
     {
       "added_at": "2026-11-20 11:06:12",
       "album": {
-        "name": "attention!",
-        "url": "https://open.spotify.com/album/3Z9nEOl5fo7PzP9feRWyz4"
-      },
-      "artists": [
-        {
-          "name": "FOLA",
-          "url": "https://open.spotify.com/artist/0FK1hXdXst70HD11n5J26z"
-        }
-      ],
-      "duration_ms": 155852,
-      "name": "attention!",
-      "url": "https://open.spotify.com/track/1MGCRWKSEutuqNQwbktV7C"
-    },
-    {
-      "added_at": "2026-11-20 11:06:12",
-      "album": {
         "name": "Uzama The 3rd",
         "url": "https://open.spotify.com/album/5LKnGwKYyreWBY14SIizkw"
       },
@@ -403,6 +387,22 @@
       "duration_ms": 180765,
       "name": "Ewo",
       "url": "https://open.spotify.com/track/3w0eFAME3IxlonearUIaXJ"
+    },
+    {
+      "added_at": "2026-11-20 11:06:12",
+      "album": {
+        "name": "attention!",
+        "url": "https://open.spotify.com/album/3Z9nEOl5fo7PzP9feRWyz4"
+      },
+      "artists": [
+        {
+          "name": "FOLA",
+          "url": "https://open.spotify.com/artist/0FK1hXdXst70HD11n5J26z"
+        }
+      ],
+      "duration_ms": 155852,
+      "name": "attention!",
+      "url": "https://open.spotify.com/track/1MGCRWKSEutuqNQwbktV7C"
     },
     {
       "added_at": "2026-11-20 11:06:12",
@@ -599,22 +599,6 @@
     {
       "added_at": "2026-11-20 11:06:12",
       "album": {
-        "name": "Round One (Elle Mummy)",
-        "url": "https://open.spotify.com/album/3j09wQBdGXlk0YK27mGKEX"
-      },
-      "artists": [
-        {
-          "name": "T.I BLAZE",
-          "url": "https://open.spotify.com/artist/1FIsnQiSPsuqA38z48irJC"
-        }
-      ],
-      "duration_ms": 146000,
-      "name": "Round One (Elle Mummy)",
-      "url": "https://open.spotify.com/track/3CKyzdQM4EjX6JoZw3UEmB"
-    },
-    {
-      "added_at": "2026-11-20 11:06:12",
-      "album": {
         "name": "My Darling",
         "url": "https://open.spotify.com/album/5UOf3gDg4dnNBBaLi9qTK9"
       },
@@ -627,6 +611,22 @@
       "duration_ms": 146086,
       "name": "My Darling",
       "url": "https://open.spotify.com/track/7mdvPu1ZAOIgMzr3sfpAqk"
+    },
+    {
+      "added_at": "2026-11-20 11:06:12",
+      "album": {
+        "name": "Round One (Elle Mummy)",
+        "url": "https://open.spotify.com/album/3j09wQBdGXlk0YK27mGKEX"
+      },
+      "artists": [
+        {
+          "name": "T.I BLAZE",
+          "url": "https://open.spotify.com/artist/1FIsnQiSPsuqA38z48irJC"
+        }
+      ],
+      "duration_ms": 146000,
+      "name": "Round One (Elle Mummy)",
+      "url": "https://open.spotify.com/track/3CKyzdQM4EjX6JoZw3UEmB"
     },
     {
       "added_at": "2026-11-20 11:06:12",
@@ -739,22 +739,6 @@
     {
       "added_at": "2026-11-20 11:06:12",
       "album": {
-        "name": "WayWard",
-        "url": "https://open.spotify.com/album/4Xqnwnf1KiSEot9peaO64C"
-      },
-      "artists": [
-        {
-          "name": "Shallipopi",
-          "url": "https://open.spotify.com/artist/4TKhxSkqClXrdtUWgKqHVU"
-        }
-      ],
-      "duration_ms": 217777,
-      "name": ".com",
-      "url": "https://open.spotify.com/track/0fRIOr5E0aol2co2LQWuBf"
-    },
-    {
-      "added_at": "2026-11-20 11:06:12",
-      "album": {
         "name": "Waist",
         "url": "https://open.spotify.com/album/4aRqZD1I60EoU85eNCVAil"
       },
@@ -767,6 +751,22 @@
       "duration_ms": 165625,
       "name": "Waist",
       "url": "https://open.spotify.com/track/3sW9XZW5xK95CXBHrwNFiK"
+    },
+    {
+      "added_at": "2026-11-20 11:06:12",
+      "album": {
+        "name": "WayWard",
+        "url": "https://open.spotify.com/album/4Xqnwnf1KiSEot9peaO64C"
+      },
+      "artists": [
+        {
+          "name": "Shallipopi",
+          "url": "https://open.spotify.com/artist/4TKhxSkqClXrdtUWgKqHVU"
+        }
+      ],
+      "duration_ms": 217777,
+      "name": ".com",
+      "url": "https://open.spotify.com/track/0fRIOr5E0aol2co2LQWuBf"
     },
     {
       "added_at": "2026-11-20 11:06:12",
@@ -855,6 +855,22 @@
     {
       "added_at": "2026-11-20 11:06:12",
       "album": {
+        "name": "Wahala Pikin",
+        "url": "https://open.spotify.com/album/3DVSsOwiOvKGN6t639kjy4"
+      },
+      "artists": [
+        {
+          "name": "Zhus Jdo",
+          "url": "https://open.spotify.com/artist/0USpP7ibi3P6TRXcaPKOSv"
+        }
+      ],
+      "duration_ms": 118801,
+      "name": "Opium Amapiano",
+      "url": "https://open.spotify.com/track/7oocZnr0yjZxJfRkbOHkYv"
+    },
+    {
+      "added_at": "2026-11-20 11:06:12",
+      "album": {
         "name": "Energy",
         "url": "https://open.spotify.com/album/4DkDQnkfCfgniEm33g3IEV"
       },
@@ -875,22 +891,6 @@
       "duration_ms": 140505,
       "name": "Energy",
       "url": "https://open.spotify.com/track/5KkV60IH22ERQHfNxkGa1G"
-    },
-    {
-      "added_at": "2026-11-20 11:06:12",
-      "album": {
-        "name": "Wahala Pikin",
-        "url": "https://open.spotify.com/album/3DVSsOwiOvKGN6t639kjy4"
-      },
-      "artists": [
-        {
-          "name": "Zhus Jdo",
-          "url": "https://open.spotify.com/artist/0USpP7ibi3P6TRXcaPKOSv"
-        }
-      ],
-      "duration_ms": 118801,
-      "name": "Opium Amapiano",
-      "url": "https://open.spotify.com/track/7oocZnr0yjZxJfRkbOHkYv"
     },
     {
       "added_at": "2026-11-20 11:06:12",
@@ -1019,6 +1019,22 @@
     {
       "added_at": "2026-11-20 11:06:12",
       "album": {
+        "name": "Attack",
+        "url": "https://open.spotify.com/album/5XOU1WFpMlPfcZveE5lbaM"
+      },
+      "artists": [
+        {
+          "name": "Ayo Maff",
+          "url": "https://open.spotify.com/artist/4kuHnKdDObYPKYPcyJC4f6"
+        }
+      ],
+      "duration_ms": 153000,
+      "name": "Attack",
+      "url": "https://open.spotify.com/track/1q3elqW7SADLW6CBTMOFOQ"
+    },
+    {
+      "added_at": "2026-11-20 11:06:12",
+      "album": {
         "name": "KING COAL",
         "url": "https://open.spotify.com/album/6KPqebNAhpIVGeDzjaATxr"
       },
@@ -1039,22 +1055,6 @@
       "duration_ms": 188803,
       "name": "GBESUNMO",
       "url": "https://open.spotify.com/track/4erCeMYq7wsuiKTpBF69hH"
-    },
-    {
-      "added_at": "2026-11-20 11:06:12",
-      "album": {
-        "name": "Attack",
-        "url": "https://open.spotify.com/album/5XOU1WFpMlPfcZveE5lbaM"
-      },
-      "artists": [
-        {
-          "name": "Ayo Maff",
-          "url": "https://open.spotify.com/artist/4kuHnKdDObYPKYPcyJC4f6"
-        }
-      ],
-      "duration_ms": 153000,
-      "name": "Attack",
-      "url": "https://open.spotify.com/track/1q3elqW7SADLW6CBTMOFOQ"
     },
     {
       "added_at": "2026-11-20 11:06:12",
@@ -1087,6 +1087,22 @@
     {
       "added_at": "2026-11-20 11:06:12",
       "album": {
+        "name": "Love Is Not Enough, Vol. 2",
+        "url": "https://open.spotify.com/album/4Z8XKYQDIVxQx6s2LTqDiG"
+      },
+      "artists": [
+        {
+          "name": "Young Jonn",
+          "url": "https://open.spotify.com/artist/4JM1zsVj1pt38Q8mhv5teI"
+        }
+      ],
+      "duration_ms": 149243,
+      "name": "If You Leave",
+      "url": "https://open.spotify.com/track/2eknBYpfzA4Mp5zWHMGac5"
+    },
+    {
+      "added_at": "2026-11-20 11:06:12",
+      "album": {
         "name": "11:11 (Deluxe)",
         "url": "https://open.spotify.com/album/5onhEG8O3aKdg9b4lIdkNz"
       },
@@ -1103,22 +1119,6 @@
       "duration_ms": 176503,
       "name": "Hmmm (feat. Davido)",
       "url": "https://open.spotify.com/track/2JfRd9fkzyZge8BZzs7aUI"
-    },
-    {
-      "added_at": "2026-11-20 11:06:12",
-      "album": {
-        "name": "Love Is Not Enough, Vol. 2",
-        "url": "https://open.spotify.com/album/4Z8XKYQDIVxQx6s2LTqDiG"
-      },
-      "artists": [
-        {
-          "name": "Young Jonn",
-          "url": "https://open.spotify.com/artist/4JM1zsVj1pt38Q8mhv5teI"
-        }
-      ],
-      "duration_ms": 149243,
-      "name": "If You Leave",
-      "url": "https://open.spotify.com/track/2eknBYpfzA4Mp5zWHMGac5"
     },
     {
       "added_at": "2026-11-20 11:06:12",
@@ -1187,22 +1187,6 @@
     {
       "added_at": "2026-11-20 11:06:12",
       "album": {
-        "name": "ZUKO!",
-        "url": "https://open.spotify.com/album/7ALh95O2ioQV7a3sW4L2CG"
-      },
-      "artists": [
-        {
-          "name": "Fireboy DML",
-          "url": "https://open.spotify.com/artist/75VKfyoBlkmrJFDqo1o2VY"
-        }
-      ],
-      "duration_ms": 152869,
-      "name": "ONAZO!",
-      "url": "https://open.spotify.com/track/6aRhkPzTCrSGrDZJEUvtBM"
-    },
-    {
-      "added_at": "2026-11-20 11:06:12",
-      "album": {
         "name": "1 WORK (Remix)",
         "url": "https://open.spotify.com/album/7yezfWrnSRLPRkHIM0nvls"
       },
@@ -1227,6 +1211,22 @@
     {
       "added_at": "2026-11-20 11:06:12",
       "album": {
+        "name": "ZUKO!",
+        "url": "https://open.spotify.com/album/7ALh95O2ioQV7a3sW4L2CG"
+      },
+      "artists": [
+        {
+          "name": "Fireboy DML",
+          "url": "https://open.spotify.com/artist/75VKfyoBlkmrJFDqo1o2VY"
+        }
+      ],
+      "duration_ms": 152869,
+      "name": "ONAZO!",
+      "url": "https://open.spotify.com/track/6aRhkPzTCrSGrDZJEUvtBM"
+    },
+    {
+      "added_at": "2026-11-20 11:06:12",
+      "album": {
         "name": "Shakabulizzy",
         "url": "https://open.spotify.com/album/3C9TWb7MPEM0gOJOmEk54s"
       },
@@ -1239,6 +1239,22 @@
       "duration_ms": 165296,
       "name": "Shakabulizzy",
       "url": "https://open.spotify.com/track/1Yf58S4QQwxqYSJZm5JxmA"
+    },
+    {
+      "added_at": "2026-11-20 11:06:12",
+      "album": {
+        "name": "Me Sisi",
+        "url": "https://open.spotify.com/album/3IwecGnHivXYOnhC5IFmDl"
+      },
+      "artists": [
+        {
+          "name": "DopeNation",
+          "url": "https://open.spotify.com/artist/25vbw2Uw68Ny6ae7tekmky"
+        }
+      ],
+      "duration_ms": 171805,
+      "name": "Me Sisi",
+      "url": "https://open.spotify.com/track/02w07PEgTDY7IiuGWhqBWM"
     },
     {
       "added_at": "2026-11-20 11:06:12",
@@ -1267,22 +1283,6 @@
       "duration_ms": 142487,
       "name": "Bank Alert",
       "url": "https://open.spotify.com/track/4wEpSkZ9V6CNZu8gwiOw1a"
-    },
-    {
-      "added_at": "2026-11-20 11:06:12",
-      "album": {
-        "name": "Me Sisi",
-        "url": "https://open.spotify.com/album/3IwecGnHivXYOnhC5IFmDl"
-      },
-      "artists": [
-        {
-          "name": "DopeNation",
-          "url": "https://open.spotify.com/artist/25vbw2Uw68Ny6ae7tekmky"
-        }
-      ],
-      "duration_ms": 171805,
-      "name": "Me Sisi",
-      "url": "https://open.spotify.com/track/02w07PEgTDY7IiuGWhqBWM"
     },
     {
       "added_at": "2026-11-20 11:06:12",
@@ -1435,26 +1435,6 @@
     {
       "added_at": "2026-11-20 11:06:12",
       "album": {
-        "name": "Involve Me",
-        "url": "https://open.spotify.com/album/5CsPRYCuSIEBn72XeOkBCV"
-      },
-      "artists": [
-        {
-          "name": "G4 Boyz",
-          "url": "https://open.spotify.com/artist/4ZtqSJYEh407LR6NM5hNcS"
-        },
-        {
-          "name": "Famous Pluto",
-          "url": "https://open.spotify.com/artist/2hg21aqtw66FhKSo3Uzbne"
-        }
-      ],
-      "duration_ms": 155044,
-      "name": "Involve Me",
-      "url": "https://open.spotify.com/track/4n8tbxIMKNtDiAEskx5n0E"
-    },
-    {
-      "added_at": "2026-11-20 11:06:12",
-      "album": {
         "name": "Cash Flow (feat. Wizkid)",
         "url": "https://open.spotify.com/album/5KAL8vFHHE5cbRZaPfDx8F"
       },
@@ -1475,18 +1455,22 @@
     {
       "added_at": "2026-11-20 11:06:12",
       "album": {
-        "name": "SWAGGA",
-        "url": "https://open.spotify.com/album/2ait40lrJyFVOkV4tABe80"
+        "name": "Involve Me",
+        "url": "https://open.spotify.com/album/5CsPRYCuSIEBn72XeOkBCV"
       },
       "artists": [
         {
-          "name": "SSSoundGawd",
-          "url": "https://open.spotify.com/artist/3rCVow8RScBBIyrdceDOiw"
+          "name": "G4 Boyz",
+          "url": "https://open.spotify.com/artist/4ZtqSJYEh407LR6NM5hNcS"
+        },
+        {
+          "name": "Famous Pluto",
+          "url": "https://open.spotify.com/artist/2hg21aqtw66FhKSo3Uzbne"
         }
       ],
-      "duration_ms": 156473,
-      "name": "SWAGGA",
-      "url": "https://open.spotify.com/track/3TGKQazDOeJyub3Bg7Te7K"
+      "duration_ms": 155044,
+      "name": "Involve Me",
+      "url": "https://open.spotify.com/track/4n8tbxIMKNtDiAEskx5n0E"
     },
     {
       "added_at": "2026-11-20 11:06:12",
@@ -1503,6 +1487,22 @@
       "duration_ms": 163993,
       "name": "Therapy",
       "url": "https://open.spotify.com/track/6kHHEy1fKfQVmtvqiMupzQ"
+    },
+    {
+      "added_at": "2026-11-20 11:06:12",
+      "album": {
+        "name": "SWAGGA",
+        "url": "https://open.spotify.com/album/2ait40lrJyFVOkV4tABe80"
+      },
+      "artists": [
+        {
+          "name": "SSSoundGawd",
+          "url": "https://open.spotify.com/artist/3rCVow8RScBBIyrdceDOiw"
+        }
+      ],
+      "duration_ms": 156473,
+      "name": "SWAGGA",
+      "url": "https://open.spotify.com/track/3TGKQazDOeJyub3Bg7Te7K"
     },
     {
       "added_at": "2026-11-20 11:06:12",

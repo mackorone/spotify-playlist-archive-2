@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO42EWMo.md) - [plain]
 
 > This is Amy Winehouse\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,211,232 likes - 49 songs - 2 hr 54 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,211,240 likes - 49 songs - 2 hr 54 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -58,4 +58,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO42EWMo.md) - [plain]
 | 48 | [Lullaby Of Birdland \- Live From The Stables / 2004](https://open.spotify.com/track/52nsOnLZuRQSNJr7940Xyb) | [Amy Winehouse](https://open.spotify.com/artist/6Q192DXotxtaysaqNPy5yR) | [At The BBC](https://open.spotify.com/album/741JhzvIOudONDzRg6wuWJ) | 2:34 |
 | 49 | [He Can Only Hold Her](https://open.spotify.com/track/0sSdFMuYrn3N9moumV466B) | [Amy Winehouse](https://open.spotify.com/artist/6Q192DXotxtaysaqNPy5yR) | [Back To Black](https://open.spotify.com/album/097eYvf9NKjFnv4xA9s2oV) | 2:44 |
 
-Snapshot ID: `awIwgAAAAACbjiTZKPtVKfZfeumjDhd3`
+Snapshot ID: `awOCAAAAAABL2vwynrZ2ZRzMBmlsOsjD`

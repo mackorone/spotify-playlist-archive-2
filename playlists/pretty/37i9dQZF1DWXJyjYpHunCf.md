@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXJyjYpHunCf.md) - [plain]
 
 > The best of folk\-infused pop and singer\-songwriter\. Cover: Buffalo Traffic Jam
 
-[Spotify](https://open.spotify.com/user/spotify) - 954,585 likes - 100 songs - 5 hr 32 min
+[Spotify](https://open.spotify.com/user/spotify) - 954,589 likes - 100 songs - 5 hr 32 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXJyjYpHunCf.md) - [plain]
 | 99 | [Sweet Tooth](https://open.spotify.com/track/04FZ1kLHEr2YsHDQXWI9Zx) | [The 502s](https://open.spotify.com/artist/4sIuoDOzSlBqeiNJl631zX) | [Easy Street](https://open.spotify.com/album/2bKTADz2Vsmr6jvKzSsEFq) | 3:08 |
 | 100 | [Canaries in a Coal Mine](https://open.spotify.com/track/4JFPamq2IExOgg7mZV6XRs) | [Thelma & James](https://open.spotify.com/artist/60WW5HfHRijpxoTRlaU8BE) | [Canaries in a Coal Mine](https://open.spotify.com/album/33UCr0zXoaacNfDUcznxxX) | 3:37 |
 
-Snapshot ID: `AAAAAJL4kRIL4k3v/DfDdqv8jiq7m9sW`
+Snapshot ID: `AAAAANKU6TgfEXLaH7AKkEM8zwsKHg0Y`

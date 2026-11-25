@@ -1,12 +1,12 @@
 {
   "description": "Playlist Takeover by Bligg!",
-  "num_followers": 13840,
+  "num_followers": 13839,
   "original_name": "Alte Schule",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAGYsM49DSMvTqP87ckEnIrxJmwHb",
+  "snapshot_id": "AAAAAKYxnA1NEUHFMhMtLvnXEEwWJhke",
   "tracks": [
     {
       "added_at": "2026-10-08 22:00:12",
@@ -515,22 +515,6 @@
     {
       "added_at": "2026-10-08 22:00:12",
       "album": {
-        "name": "From Hell to Heaven and Back",
-        "url": "https://open.spotify.com/album/1vA38gyL67ps4S0Vqa8nHz"
-      },
-      "artists": [
-        {
-          "name": "PVP",
-          "url": "https://open.spotify.com/artist/5HRA33OVSrSR37rbbFKtNG"
-        }
-      ],
-      "duration_ms": 226826,
-      "name": "From Hell to Heaven and Back",
-      "url": "https://open.spotify.com/track/6g936DAdwRwEhzq6ABxxEH"
-    },
-    {
-      "added_at": "2026-10-08 22:00:12",
-      "album": {
         "name": "Nahdisnah",
         "url": "https://open.spotify.com/album/6RRQcMVBLhYLGxGXIMhjj4"
       },
@@ -543,6 +527,22 @@
       "duration_ms": 219426,
       "name": "Lauf Junge, Lauf!",
       "url": "https://open.spotify.com/track/0I5FCVJSDvLNtGAlIcr1nV"
+    },
+    {
+      "added_at": "2026-10-08 22:00:12",
+      "album": {
+        "name": "From Hell to Heaven and Back",
+        "url": "https://open.spotify.com/album/1vA38gyL67ps4S0Vqa8nHz"
+      },
+      "artists": [
+        {
+          "name": "PVP",
+          "url": "https://open.spotify.com/artist/5HRA33OVSrSR37rbbFKtNG"
+        }
+      ],
+      "duration_ms": 226826,
+      "name": "From Hell to Heaven and Back",
+      "url": "https://open.spotify.com/track/6g936DAdwRwEhzq6ABxxEH"
     },
     {
       "added_at": "2026-10-08 22:00:12",
@@ -603,6 +603,22 @@
     {
       "added_at": "2026-10-08 22:00:12",
       "album": {
+        "name": "Nahdisnah",
+        "url": "https://open.spotify.com/album/6RRQcMVBLhYLGxGXIMhjj4"
+      },
+      "artists": [
+        {
+          "name": "Bligg'N'Lexx",
+          "url": "https://open.spotify.com/artist/2YTqyRWexXW6jaGClLdCiK"
+        }
+      ],
+      "duration_ms": 207013,
+      "name": "W\u00e4nn",
+      "url": "https://open.spotify.com/track/7G8YSQkUa5BOH1EDUVcPZ3"
+    },
+    {
+      "added_at": "2026-10-08 22:00:12",
+      "album": {
         "name": "Deheim?",
         "url": "https://open.spotify.com/album/3TTzTj4qNDBe5FpnsLyjzZ"
       },
@@ -619,22 +635,6 @@
       "duration_ms": 272933,
       "name": "Du Hesch Ke",
       "url": "https://open.spotify.com/track/6AxLcMZFBLbBd5Hqvp7zdt"
-    },
-    {
-      "added_at": "2026-10-08 22:00:12",
-      "album": {
-        "name": "Nahdisnah",
-        "url": "https://open.spotify.com/album/6RRQcMVBLhYLGxGXIMhjj4"
-      },
-      "artists": [
-        {
-          "name": "Bligg'N'Lexx",
-          "url": "https://open.spotify.com/artist/2YTqyRWexXW6jaGClLdCiK"
-        }
-      ],
-      "duration_ms": 207013,
-      "name": "W\u00e4nn",
-      "url": "https://open.spotify.com/track/7G8YSQkUa5BOH1EDUVcPZ3"
     },
     {
       "added_at": "2026-10-08 22:00:12",
@@ -695,26 +695,6 @@
     {
       "added_at": "2026-10-08 22:00:12",
       "album": {
-        "name": "L\u00e4benslauf",
-        "url": "https://open.spotify.com/album/3hGDhRc16xd2dhfjLQsHZh"
-      },
-      "artists": [
-        {
-          "name": "Wrecked Mob",
-          "url": "https://open.spotify.com/artist/0QIYFbo3qmvlapTnwPM6i3"
-        },
-        {
-          "name": "Dj Thomilla",
-          "url": "https://open.spotify.com/artist/2WLE4ikok9I4HuBm9637rx"
-        }
-      ],
-      "duration_ms": 242293,
-      "name": "L\u00e4benslauf",
-      "url": "https://open.spotify.com/track/3DdMYzqyIg7mXI47UTcNmN"
-    },
-    {
-      "added_at": "2026-10-08 22:00:12",
-      "album": {
         "name": "Nahdisnah",
         "url": "https://open.spotify.com/album/6RRQcMVBLhYLGxGXIMhjj4"
       },
@@ -731,6 +711,26 @@
       "duration_ms": 309720,
       "name": "Du & Ich",
       "url": "https://open.spotify.com/track/5jAylcCbJaBKmRHgRUTxQC"
+    },
+    {
+      "added_at": "2026-10-08 22:00:12",
+      "album": {
+        "name": "L\u00e4benslauf",
+        "url": "https://open.spotify.com/album/3hGDhRc16xd2dhfjLQsHZh"
+      },
+      "artists": [
+        {
+          "name": "Wrecked Mob",
+          "url": "https://open.spotify.com/artist/0QIYFbo3qmvlapTnwPM6i3"
+        },
+        {
+          "name": "Dj Thomilla",
+          "url": "https://open.spotify.com/artist/2WLE4ikok9I4HuBm9637rx"
+        }
+      ],
+      "duration_ms": 242293,
+      "name": "L\u00e4benslauf",
+      "url": "https://open.spotify.com/track/3DdMYzqyIg7mXI47UTcNmN"
     },
     {
       "added_at": "2026-10-08 22:00:12",

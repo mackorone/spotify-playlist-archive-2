@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWU8quswnFt3c.md) - [plain]
 
 > Listen to women at full volume with Miss Monique from Ukraine.
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,019,343 likes - 50 songs - 3 hr 3 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,019,247 likes - 50 songs - 3 hr 3 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -42,9 +42,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWU8quswnFt3c.md) - [plain]
 | 32 | [Bad Boy \- GENESI Remix](https://open.spotify.com/track/4MKqROsy64whz0A1YyCXGE) | [Linska](https://open.spotify.com/artist/5f7jxYF5js7lD5lMyIPUBq), [GENESI](https://open.spotify.com/artist/4OG9hOPsfAEziKvOJj2SG7) | [Bad Boy \(GENESI Remix\)](https://open.spotify.com/album/4Dcsa8dzEEkaqAwdF7q7rM) | 3:08 |
 | 33 | [I'm Going Back to Lebanon](https://open.spotify.com/track/5YDkE7W72iz7iN4tHi32SZ) | [Thoom](https://open.spotify.com/artist/2Tpvy7ryLgM835gDgN2nL5) | [Everyday, Everything Is At Stake](https://open.spotify.com/album/73MzukUBuiIOYbC6V3P4Wj) | 2:45 |
 | 34 | [Keddab](https://open.spotify.com/track/7Hh4hykGxO7hT0FoFVkonP) | [ASSIA](https://open.spotify.com/artist/3x7veOAhTEg0Z3abcNQhzu) | [Keddab](https://open.spotify.com/album/430OinMfmEtvRBeKNYPbeL) | 2:46 |
-| 35 | [Almohada](https://open.spotify.com/track/4GWsAeu3Ga2NR0XpRWdpB8) | [Majo Aguilar](https://open.spotify.com/artist/77WEAaYIiO4SbK5IU9pWZP) | [Almohada](https://open.spotify.com/album/2LtO4iBh2fHscyiVnPq1cw) | 3:42 |
-| 36 | [Danger](https://open.spotify.com/track/397C7dN58u7bEUBG7jD5JM) | [Chelsea Dinorath](https://open.spotify.com/artist/0iFUMxC62joHJMxZwMZvzp), [Teo No Beat](https://open.spotify.com/artist/4HLRxCBJE5n6Mm0sTzUEv2) | [Danger](https://open.spotify.com/album/1SUlBk5BgGheoAkEQIsgWF) | 3:28 |
-| 37 | [隱痛](https://open.spotify.com/track/6U2ZB5NZTr5qHfVTSouaXD) | [JOYY](https://open.spotify.com/artist/7L98ngCpo0DMZDBeJXQB3h) | [重寫第一章](https://open.spotify.com/album/15RnFD9jAQj0z3ZFKBZzM6) | 3:32 |
+| 35 | [Danger](https://open.spotify.com/track/397C7dN58u7bEUBG7jD5JM) | [Chelsea Dinorath](https://open.spotify.com/artist/0iFUMxC62joHJMxZwMZvzp), [Teo No Beat](https://open.spotify.com/artist/4HLRxCBJE5n6Mm0sTzUEv2) | [Danger](https://open.spotify.com/album/1SUlBk5BgGheoAkEQIsgWF) | 3:28 |
+| 36 | [隱痛](https://open.spotify.com/track/6U2ZB5NZTr5qHfVTSouaXD) | [JOYY](https://open.spotify.com/artist/7L98ngCpo0DMZDBeJXQB3h) | [重寫第一章](https://open.spotify.com/album/15RnFD9jAQj0z3ZFKBZzM6) | 3:32 |
+| 37 | [Almohada](https://open.spotify.com/track/4GWsAeu3Ga2NR0XpRWdpB8) | [Majo Aguilar](https://open.spotify.com/artist/77WEAaYIiO4SbK5IU9pWZP) | [Almohada](https://open.spotify.com/album/2LtO4iBh2fHscyiVnPq1cw) | 3:42 |
 | 38 | [December Forever](https://open.spotify.com/track/1lV0KkH0yn4nxdfxQUlOoy) | [Thoom](https://open.spotify.com/artist/2Tpvy7ryLgM835gDgN2nL5) | [Everyday, Everything Is At Stake](https://open.spotify.com/album/73MzukUBuiIOYbC6V3P4Wj) | 2:38 |
 | 39 | [Every Aching Minute](https://open.spotify.com/track/1mxFh0yxb2lZzqdy8jFseo) | [Gretta Ray](https://open.spotify.com/artist/4xdEmbimxXyo9wXy9lq3ek) | [Heartsong](https://open.spotify.com/album/5bOHldwxMlxDhzSuMc1s8G) | 4:51 |
 | 40 | [RUDE](https://open.spotify.com/track/1myezJ7Cty6YVRPa96penu) | [Nikhita Gandhi](https://open.spotify.com/artist/3tPQOjkxO3mrYrrgkTeXgH), [Dino James](https://open.spotify.com/artist/45PG2L6Fh2XvYL4ONzpdoW) | [RUDE](https://open.spotify.com/album/6XfoImzNgOYzcLVp7ybzCz) | 2:44 |
@@ -54,9 +54,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWU8quswnFt3c.md) - [plain]
 | 44 | [Por Debajo De La Mesa](https://open.spotify.com/track/3fkdu0ySrFF0Y3VAyyGPjL) | [Majo Aguilar](https://open.spotify.com/artist/77WEAaYIiO4SbK5IU9pWZP) | [Por Debajo De La Mesa](https://open.spotify.com/album/5hGNkM9FmYIDSGvQElWcpR) | 3:04 |
 | 45 | [Dust U Off](https://open.spotify.com/track/1MjkvZOLEgJqSShFr1Ixui) | [Moyka](https://open.spotify.com/artist/2u7pjisWrThF8JErPVIPlJ) | [BULLSEYE](https://open.spotify.com/album/6cBdLtktEMZP9m3e0jKytE) | 3:59 |
 | 46 | [Pretoria](https://open.spotify.com/track/5ViijhC2983J1B8Bo1wbbo) | [Nora En Pure](https://open.spotify.com/artist/24DO0PijjITGIEWsO8XaPs) | [Pretoria](https://open.spotify.com/album/05tbS23ZFVmITyuwgFWFvO) | 3:27 |
-| 47 | [aftertears](https://open.spotify.com/track/7lyewi26KwzRM9XNB7Sl6y) | [mindfreakk!](https://open.spotify.com/artist/72eq3oLf1MBNNAZNv0Ua0a) | [aftertears](https://open.spotify.com/album/0qtTQO2tmH6a03Dey9zeaz) | 6:27 |
-| 48 | [SKIN AFROPATY](https://open.spotify.com/track/4ThjZY42ya58WehhodPAdx) | [BUDAH](https://open.spotify.com/artist/08zSkHjCY3ypH4gdBVHWgO) | [FREQUÊNCIA LUNAR](https://open.spotify.com/album/3qbfxWGIF45fv8btLzrsDR) | 2:52 |
+| 47 | [SKIN AFROPATY](https://open.spotify.com/track/4ThjZY42ya58WehhodPAdx) | [BUDAH](https://open.spotify.com/artist/08zSkHjCY3ypH4gdBVHWgO) | [FREQUÊNCIA LUNAR](https://open.spotify.com/album/3qbfxWGIF45fv8btLzrsDR) | 2:52 |
+| 48 | [aftertears](https://open.spotify.com/track/7lyewi26KwzRM9XNB7Sl6y) | [mindfreakk!](https://open.spotify.com/artist/72eq3oLf1MBNNAZNv0Ua0a) | [aftertears](https://open.spotify.com/album/0qtTQO2tmH6a03Dey9zeaz) | 6:27 |
 | 49 | [winters gonna come](https://open.spotify.com/track/3OoJRP74QttUB17tTe5gwm) | [Asal](https://open.spotify.com/artist/2CPDwyokR2lgqu0yNGe2cU) | [winters gonna come](https://open.spotify.com/album/6qr5fMgyonax6366SQHTfy) | 4:12 |
 | 50 | [Victoria](https://open.spotify.com/track/3aDrC0uyqKWOXc9bclRdQc) | [Suena](https://open.spotify.com/artist/3ZCy1ehzbzEAcpcHnHJYXd), [Esther Abrami](https://open.spotify.com/artist/5zCkKfOMcIx8ISU53JBPng) | [INSTINCTA](https://open.spotify.com/album/3PLxcpG6HX1bPdqrJTUNfT) | 2:23 |
 
-Snapshot ID: `AAAAANQvFKNUXu7MoF2EC5o+kbE+NGmE`
+Snapshot ID: `AAAAANZYtW5XGe4ZVKrahFoQ6+2EOoBv`

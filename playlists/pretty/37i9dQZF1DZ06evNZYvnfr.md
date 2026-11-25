@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evNZYvnfr.md) - [plain]
 
 > This is Micah Tyler\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 5,668 likes - 35 songs - 2 hr 2 min
+[Spotify](https://open.spotify.com/user/spotify) - 5,670 likes - 35 songs - 2 hr 2 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -20,11 +20,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evNZYvnfr.md) - [plain]
 | 10 | [What Mercy Did for Me \(feat\. Crystal Yates, Micah Tyler & Joshua Sherman\)](https://open.spotify.com/track/7lKYLdBXZtYbwysK0GFnOr) | [People & Songs](https://open.spotify.com/artist/0DLoqaxhfWU5litFyzLqn8), [Crystal Yates](https://open.spotify.com/artist/1px9WTV9bYGfGYjLimvsxJ), [Micah Tyler](https://open.spotify.com/artist/04XtgzagYQRpeZt1sJThKi), [Joshua Sherman](https://open.spotify.com/artist/7adV3tjip6mYhVUxLUZ4QR) | [The Emerging Sound, Vol\. 3](https://open.spotify.com/album/1NIgu5W7M1HFNqNuzUmwjP) | 4:08 |
 | 11 | [Never Been a Moment](https://open.spotify.com/track/7rC5fxyrbNDRymrH7OwSxE) | [Micah Tyler](https://open.spotify.com/artist/04XtgzagYQRpeZt1sJThKi) | [Different](https://open.spotify.com/album/6qDY9KRWCs4DX3hNvN9wMB) | 3:20 |
 | 12 | [Nothing Too Broken](https://open.spotify.com/track/6NmSmXmPs4YZJZYFHM3rwR) | [Micah Tyler](https://open.spotify.com/artist/04XtgzagYQRpeZt1sJThKi) | [People Like Us](https://open.spotify.com/album/5s8qFUq2nCBCREC3EXjwVL) | 3:34 |
-| 13 | [New Today](https://open.spotify.com/track/4oOSKLUsqd2N0tHhV6LyuP) | [Micah Tyler](https://open.spotify.com/artist/04XtgzagYQRpeZt1sJThKi) | [New Today](https://open.spotify.com/album/7AboNyd4LqFy35DOEOzBtK) | 3:20 |
-| 14 | [Feels Like Joy](https://open.spotify.com/track/0pOt34RFSDjTSb7Sx6zRmr) | [Micah Tyler](https://open.spotify.com/artist/04XtgzagYQRpeZt1sJThKi) | [Feels Like Joy](https://open.spotify.com/album/0T6ORE72qQSU2WYkOn2szO) | 2:52 |
+| 13 | [Feels Like Joy](https://open.spotify.com/track/0pOt34RFSDjTSb7Sx6zRmr) | [Micah Tyler](https://open.spotify.com/artist/04XtgzagYQRpeZt1sJThKi) | [Feels Like Joy](https://open.spotify.com/album/0T6ORE72qQSU2WYkOn2szO) | 2:52 |
+| 14 | [New Today](https://open.spotify.com/track/4oOSKLUsqd2N0tHhV6LyuP) | [Micah Tyler](https://open.spotify.com/artist/04XtgzagYQRpeZt1sJThKi) | [New Today](https://open.spotify.com/album/7AboNyd4LqFy35DOEOzBtK) | 3:20 |
 | 15 | [Comeback Song](https://open.spotify.com/track/7p17D91YMHqR6LuhnDcR2D) | [Micah Tyler](https://open.spotify.com/artist/04XtgzagYQRpeZt1sJThKi) | [Different](https://open.spotify.com/album/6qDY9KRWCs4DX3hNvN9wMB) | 3:05 |
-| 16 | [Mighty to Love](https://open.spotify.com/track/3ZvaDtWralCVTrI3SP2K8H) | [Micah Tyler](https://open.spotify.com/artist/04XtgzagYQRpeZt1sJThKi) | [The Story I Tell](https://open.spotify.com/album/1sEhas5NNPMi3FM7vRicOC) | 4:02 |
-| 17 | [My God Fights for Me \(feat\. Micah Tyler & Kaden Slay\)](https://open.spotify.com/track/5jZpp4a0E77ESDHtriYvlb) | [Charity Gayle](https://open.spotify.com/artist/57YsESW6BGZLHQgOg8AiAq), [Micah Tyler](https://open.spotify.com/artist/04XtgzagYQRpeZt1sJThKi), [Kaden Slay](https://open.spotify.com/artist/5dH8GEZ4cLQddQIWwAkL4o) | [Lord You Are My Song](https://open.spotify.com/album/7uvmYf2SgOokDnGyxF6moX) | 3:43 |
+| 16 | [My God Fights for Me \(feat\. Micah Tyler & Kaden Slay\)](https://open.spotify.com/track/5jZpp4a0E77ESDHtriYvlb) | [Charity Gayle](https://open.spotify.com/artist/57YsESW6BGZLHQgOg8AiAq), [Micah Tyler](https://open.spotify.com/artist/04XtgzagYQRpeZt1sJThKi), [Kaden Slay](https://open.spotify.com/artist/5dH8GEZ4cLQddQIWwAkL4o) | [Lord You Are My Song](https://open.spotify.com/album/7uvmYf2SgOokDnGyxF6moX) | 3:43 |
+| 17 | [Mighty to Love](https://open.spotify.com/track/3ZvaDtWralCVTrI3SP2K8H) | [Micah Tyler](https://open.spotify.com/artist/04XtgzagYQRpeZt1sJThKi) | [The Story I Tell](https://open.spotify.com/album/1sEhas5NNPMi3FM7vRicOC) | 4:02 |
 | 18 | [What Mercy Did For Me \(feat\. Maranda Curtis & Jason Crabb\)](https://open.spotify.com/track/7IHxJcnPxR7Mm6ADNNrQO8) | [Micah Tyler](https://open.spotify.com/artist/04XtgzagYQRpeZt1sJThKi), [Maranda Curtis](https://open.spotify.com/artist/28BlrKFyTd2woqU7ai8502), [Jason Crabb](https://open.spotify.com/artist/61SFRZAmfyJhcffwR2Ijuq) | [New Today](https://open.spotify.com/album/7AboNyd4LqFy35DOEOzBtK) | 3:43 |
 | 19 | [Directions](https://open.spotify.com/track/1IxaVqea651MG8OxnYByrP) | [Micah Tyler](https://open.spotify.com/artist/04XtgzagYQRpeZt1sJThKi) | [Different](https://open.spotify.com/album/6qDY9KRWCs4DX3hNvN9wMB) | 3:33 |
 | 20 | [My Story Your Glory \- Micah Tyler Collab Version](https://open.spotify.com/track/4049ATZU2lzziyACfxMiqc) | [Matthew West](https://open.spotify.com/artist/6e8OTLDQpaz1Tl2GEaxsNj), [Micah Tyler](https://open.spotify.com/artist/04XtgzagYQRpeZt1sJThKi) | [My Story Your Glory \(Expanded Edition\)](https://open.spotify.com/album/1FNe9cy8XHcI8JS4cqU6lD) | 3:08 |
@@ -44,4 +44,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evNZYvnfr.md) - [plain]
 | 34 | [Southern Soul](https://open.spotify.com/track/45ZjkCNqpKoNb4sJg96OWu) | [Micah Tyler](https://open.spotify.com/artist/04XtgzagYQRpeZt1sJThKi) | [The Kitchen Sink EP](https://open.spotify.com/album/1fvW7x2SVv18l0DM97INrp) | 4:01 |
 | 35 | [It's Raining, It's Pouring](https://open.spotify.com/track/5xhWkwmAEnpucMLb6lULpR) | [Micah Tyler](https://open.spotify.com/artist/04XtgzagYQRpeZt1sJThKi) | [The Story I Tell](https://open.spotify.com/album/1sEhas5NNPMi3FM7vRicOC) | 4:06 |
 
-Snapshot ID: `awIwgAAAAAAfrzp0q6vj25tkwy0yQwIN`
+Snapshot ID: `awOCAAAAAABGE354gTBRJFXy1mcreVEF`

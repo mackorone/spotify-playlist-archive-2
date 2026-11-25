@@ -1,12 +1,12 @@
 {
   "description": "SPINGERE",
-  "num_followers": 118387,
+  "num_followers": 118394,
   "original_name": "Club Rap ",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAE69/YxTW6jNXzBCei+eercW3sDy",
+  "snapshot_id": "AAAAAL37TtdbXGdI+iBkaAI04ais/jH/",
   "tracks": [
     {
       "added_at": "2026-09-03 22:02:54",
@@ -743,6 +743,22 @@
     {
       "added_at": "2026-09-03 22:02:54",
       "album": {
+        "name": "Bossoli",
+        "url": "https://open.spotify.com/album/6DkNp8K9LeYR2xryLdW7Sq"
+      },
+      "artists": [
+        {
+          "name": "Shiva",
+          "url": "https://open.spotify.com/artist/2K5nCggbhSZ00YCYP5qkZS"
+        }
+      ],
+      "duration_ms": 178758,
+      "name": "Bossoli",
+      "url": "https://open.spotify.com/track/5mn8bU8IjYqr8ZqTDmLtSO"
+    },
+    {
+      "added_at": "2026-09-03 22:02:54",
+      "album": {
         "name": "FERITE",
         "url": "https://open.spotify.com/album/4mLp42UXbXFTMhAM4V1Kgz"
       },
@@ -759,22 +775,6 @@
       "duration_ms": 151515,
       "name": "Soldi Arrotolati (feat. ANNA)",
       "url": "https://open.spotify.com/track/1zp4TEQ9zaNGXTjY6fsz1p"
-    },
-    {
-      "added_at": "2026-09-03 22:02:54",
-      "album": {
-        "name": "Bossoli",
-        "url": "https://open.spotify.com/album/6DkNp8K9LeYR2xryLdW7Sq"
-      },
-      "artists": [
-        {
-          "name": "Shiva",
-          "url": "https://open.spotify.com/artist/2K5nCggbhSZ00YCYP5qkZS"
-        }
-      ],
-      "duration_ms": 178758,
-      "name": "Bossoli",
-      "url": "https://open.spotify.com/track/5mn8bU8IjYqr8ZqTDmLtSO"
     },
     {
       "added_at": "2026-09-03 22:02:54",
@@ -979,26 +979,6 @@
     {
       "added_at": "2026-09-03 22:02:54",
       "album": {
-        "name": "WAO",
-        "url": "https://open.spotify.com/album/6nMTRVyMQdql9a5Afk1lOD"
-      },
-      "artists": [
-        {
-          "name": "Niky Savage",
-          "url": "https://open.spotify.com/artist/4w9mPW732RnZkoqsy3lRsg"
-        },
-        {
-          "name": "Blssd",
-          "url": "https://open.spotify.com/artist/1lG5HZN4p1f0SBCRzmZXr0"
-        }
-      ],
-      "duration_ms": 149464,
-      "name": "WAO",
-      "url": "https://open.spotify.com/track/24mzKw9LcwPNUMHSFAarvJ"
-    },
-    {
-      "added_at": "2026-09-03 22:02:54",
-      "album": {
         "name": "Serio",
         "url": "https://open.spotify.com/album/1ic2J2plYa6rkNs2KeGav3"
       },
@@ -1015,6 +995,26 @@
       "duration_ms": 218769,
       "name": "Serio (feat. Capo Plaza)",
       "url": "https://open.spotify.com/track/2Cm9pUNjLYpLo2gjIiTBPa"
+    },
+    {
+      "added_at": "2026-09-03 22:02:54",
+      "album": {
+        "name": "WAO",
+        "url": "https://open.spotify.com/album/6nMTRVyMQdql9a5Afk1lOD"
+      },
+      "artists": [
+        {
+          "name": "Niky Savage",
+          "url": "https://open.spotify.com/artist/4w9mPW732RnZkoqsy3lRsg"
+        },
+        {
+          "name": "Blssd",
+          "url": "https://open.spotify.com/artist/1lG5HZN4p1f0SBCRzmZXr0"
+        }
+      ],
+      "duration_ms": 149464,
+      "name": "WAO",
+      "url": "https://open.spotify.com/track/24mzKw9LcwPNUMHSFAarvJ"
     },
     {
       "added_at": "2026-09-03 22:02:54",
@@ -1311,26 +1311,22 @@
     {
       "added_at": "2026-09-03 22:02:54",
       "album": {
-        "name": "Tip Tap",
-        "url": "https://open.spotify.com/album/2tSal9T7uUzWFIGwO4jUN5"
+        "name": "THE BIGGEST SBLAO",
+        "url": "https://open.spotify.com/album/7CgOXOllcrg4B889ovCsPp"
       },
       "artists": [
         {
-          "name": "Papa V",
-          "url": "https://open.spotify.com/artist/0vAALEhfbmllIOX1t7k5KU"
+          "name": "Low-Red",
+          "url": "https://open.spotify.com/artist/6iE4D1r501drzd1fyM6z9N"
         },
         {
-          "name": "Nerissima Serpe",
-          "url": "https://open.spotify.com/artist/08ppjXEpROUgrG1X0DEquB"
-        },
-        {
-          "name": "Fritu",
-          "url": "https://open.spotify.com/artist/4PYZsCk6AeRr8VjtJ7z1RF"
+          "name": "Yung Snapp",
+          "url": "https://open.spotify.com/artist/4y5lvMadZv6NAv8RgcCRem"
         }
       ],
-      "duration_ms": 129795,
-      "name": "Tip Tap",
-      "url": "https://open.spotify.com/track/2O8jjjtyEfXliQ6vdtdPvH"
+      "duration_ms": 157795,
+      "name": "BISEX (feat. Yung Snapp)",
+      "url": "https://open.spotify.com/track/1N7cE9RdKR5FRkB9cxsjH4"
     },
     {
       "added_at": "2026-09-03 22:02:54",
@@ -1351,22 +1347,26 @@
     {
       "added_at": "2026-09-03 22:02:54",
       "album": {
-        "name": "THE BIGGEST SBLAO",
-        "url": "https://open.spotify.com/album/7CgOXOllcrg4B889ovCsPp"
+        "name": "Tip Tap",
+        "url": "https://open.spotify.com/album/2tSal9T7uUzWFIGwO4jUN5"
       },
       "artists": [
         {
-          "name": "Low-Red",
-          "url": "https://open.spotify.com/artist/6iE4D1r501drzd1fyM6z9N"
+          "name": "Papa V",
+          "url": "https://open.spotify.com/artist/0vAALEhfbmllIOX1t7k5KU"
         },
         {
-          "name": "Yung Snapp",
-          "url": "https://open.spotify.com/artist/4y5lvMadZv6NAv8RgcCRem"
+          "name": "Nerissima Serpe",
+          "url": "https://open.spotify.com/artist/08ppjXEpROUgrG1X0DEquB"
+        },
+        {
+          "name": "Fritu",
+          "url": "https://open.spotify.com/artist/4PYZsCk6AeRr8VjtJ7z1RF"
         }
       ],
-      "duration_ms": 157795,
-      "name": "BISEX (feat. Yung Snapp)",
-      "url": "https://open.spotify.com/track/1N7cE9RdKR5FRkB9cxsjH4"
+      "duration_ms": 129795,
+      "name": "Tip Tap",
+      "url": "https://open.spotify.com/track/2O8jjjtyEfXliQ6vdtdPvH"
     },
     {
       "added_at": "2026-09-03 22:02:54",

@@ -1,12 +1,12 @@
 {
   "description": "Bringing the energy to hype you up",
-  "num_followers": 136294,
+  "num_followers": 136291,
   "original_name": "Sweat It Out",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAABIvlQjelV8kq701MnlB7Ezq3vyh",
+  "snapshot_id": "AAAAALUvSeVdcsBGfKobKulX4CKcTmA+",
   "tracks": [
     {
       "added_at": "2026-06-26 10:22:21",
@@ -767,6 +767,26 @@
     {
       "added_at": "2026-06-26 10:22:21",
       "album": {
+        "name": "Would You (go to bed with me?)",
+        "url": "https://open.spotify.com/album/41f0FqPlL8qM5Dx5LS57j1"
+      },
+      "artists": [
+        {
+          "name": "Campbell",
+          "url": "https://open.spotify.com/artist/5udgXJYWwK7cchnPSKqEkK"
+        },
+        {
+          "name": "Alcemist",
+          "url": "https://open.spotify.com/artist/6WzWO3A5YAYxLVD224S9P0"
+        }
+      ],
+      "duration_ms": 120522,
+      "name": "Would You (go to bed with me?)",
+      "url": "https://open.spotify.com/track/2N8gR2yftrHbZR53U5kYnX"
+    },
+    {
+      "added_at": "2026-06-26 10:22:21",
+      "album": {
         "name": "Wo, man (Edit)",
         "url": "https://open.spotify.com/album/2QTswa6ASdPGZ6DXfQWrax"
       },
@@ -787,22 +807,18 @@
     {
       "added_at": "2026-06-26 10:22:21",
       "album": {
-        "name": "Would You (go to bed with me?)",
-        "url": "https://open.spotify.com/album/41f0FqPlL8qM5Dx5LS57j1"
+        "name": "Forever",
+        "url": "https://open.spotify.com/album/7cXPqivcSwwoWsx29zT6lq"
       },
       "artists": [
         {
-          "name": "Campbell",
-          "url": "https://open.spotify.com/artist/5udgXJYWwK7cchnPSKqEkK"
-        },
-        {
-          "name": "Alcemist",
-          "url": "https://open.spotify.com/artist/6WzWO3A5YAYxLVD224S9P0"
+          "name": "ZULAN",
+          "url": "https://open.spotify.com/artist/2Yz9F5lQVc0p6SDxkw2BvF"
         }
       ],
-      "duration_ms": 120522,
-      "name": "Would You (go to bed with me?)",
-      "url": "https://open.spotify.com/track/2N8gR2yftrHbZR53U5kYnX"
+      "duration_ms": 159120,
+      "name": "Forever",
+      "url": "https://open.spotify.com/track/32GOfiLnbER2VOOxJkg29P"
     },
     {
       "added_at": "2026-06-26 10:22:21",
@@ -847,22 +863,6 @@
     {
       "added_at": "2026-06-26 10:22:21",
       "album": {
-        "name": "Forever",
-        "url": "https://open.spotify.com/album/7cXPqivcSwwoWsx29zT6lq"
-      },
-      "artists": [
-        {
-          "name": "ZULAN",
-          "url": "https://open.spotify.com/artist/2Yz9F5lQVc0p6SDxkw2BvF"
-        }
-      ],
-      "duration_ms": 159120,
-      "name": "Forever",
-      "url": "https://open.spotify.com/track/32GOfiLnbER2VOOxJkg29P"
-    },
-    {
-      "added_at": "2026-06-26 10:22:21",
-      "album": {
         "name": "Don't Wake Me Up",
         "url": "https://open.spotify.com/album/3j5uOXYCe6ebHU86UcAMAg"
       },
@@ -875,26 +875,6 @@
       "duration_ms": 154139,
       "name": "Don't Wake Me Up",
       "url": "https://open.spotify.com/track/3sU1L9okYWbN61oHZNQTfh"
-    },
-    {
-      "added_at": "2026-06-26 10:22:21",
-      "album": {
-        "name": "Good Love",
-        "url": "https://open.spotify.com/album/4SCAkvXJmXuvoQTlQU7Q48"
-      },
-      "artists": [
-        {
-          "name": "Hannah Laing",
-          "url": "https://open.spotify.com/artist/1QEd635szhierW6gzRiS1o"
-        },
-        {
-          "name": "RoRo",
-          "url": "https://open.spotify.com/artist/4AuHHsxMRVg7bXSgvlrAff"
-        }
-      ],
-      "duration_ms": 169534,
-      "name": "Good Love",
-      "url": "https://open.spotify.com/track/0ZVjgfaC2Ptrod9v6p9KFP"
     },
     {
       "added_at": "2026-06-26 10:22:21",
@@ -915,6 +895,26 @@
       "duration_ms": 160766,
       "name": "Remember",
       "url": "https://open.spotify.com/track/4laAKIq9ZxBCwf99rauPYb"
+    },
+    {
+      "added_at": "2026-06-26 10:22:21",
+      "album": {
+        "name": "Good Love",
+        "url": "https://open.spotify.com/album/4SCAkvXJmXuvoQTlQU7Q48"
+      },
+      "artists": [
+        {
+          "name": "Hannah Laing",
+          "url": "https://open.spotify.com/artist/1QEd635szhierW6gzRiS1o"
+        },
+        {
+          "name": "RoRo",
+          "url": "https://open.spotify.com/artist/4AuHHsxMRVg7bXSgvlrAff"
+        }
+      ],
+      "duration_ms": 169534,
+      "name": "Good Love",
+      "url": "https://open.spotify.com/track/0ZVjgfaC2Ptrod9v6p9KFP"
     },
     {
       "added_at": "2026-06-26 10:22:21",

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3fD9Xc.md) - [plain]
 
 > This is Carolina Ross\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 103,837 likes - 50 songs - 2 hr 48 min
+[Spotify](https://open.spotify.com/user/spotify) - 103,834 likes - 50 songs - 2 hr 47 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -57,6 +57,6 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3fD9Xc.md) - [plain]
 | 47 | [Ya Lo Sé Que Tú Te Vas](https://open.spotify.com/track/13JmKPnANDG4nNcXdURZNR) | [Carolina Ross](https://open.spotify.com/artist/5wx70QuZtxRUIIYek3RSaV) | [Mis Covers](https://open.spotify.com/album/5vGaNv6zQIAixUzSo0o9qY) | 3:16 |
 | 48 | [Se Me Va A Pasar](https://open.spotify.com/track/1Otrczl9uZqXBcUcPowZwy) | [Carolina Ross](https://open.spotify.com/artist/5wx70QuZtxRUIIYek3RSaV) | [Coleccionando Corazones](https://open.spotify.com/album/2Lkkjn0SYlRVUksgK3CWhd) | 3:16 |
 | 49 | [Te Lo Pido por Favor](https://open.spotify.com/track/1Uv0WKqaR9JDqEUJvflJB9) | [Carolina Ross](https://open.spotify.com/artist/5wx70QuZtxRUIIYek3RSaV) | [Mis Covers, Vol\. 3](https://open.spotify.com/album/3Z5c9YxXkoRBfbPfgMgXsy) | 2:44 |
-| 50 | [Me dediqué a perderte \- En Vivo](https://open.spotify.com/track/1XGSBhZPKeoiHDCuWhYDdZ) | [Carolina Ross](https://open.spotify.com/artist/5wx70QuZtxRUIIYek3RSaV) | [Intermedio \(En Vivo\)](https://open.spotify.com/album/2CwfmIR8GCaAlkXNpbMG8g) | 4:08 |
+| 50 | [No Te Contaron Mal](https://open.spotify.com/track/3oapm4AXLMjdBafY90vZ4R) | [Carolina Ross](https://open.spotify.com/artist/5wx70QuZtxRUIIYek3RSaV) | [Mis Covers, Vol\. 5](https://open.spotify.com/album/269CUSn61yMvZIcJqkxGgH) | 2:55 |
 
-Snapshot ID: `awIwgAAAAADfUPehkmeigMopNJfoafiL`
+Snapshot ID: `awOCAAAAAACevuLHr0CuinIRUImKW3km`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8vwRmUsEIMT.md) - [plain]
 
 > All the new music you need to hear right now\. Cover: Gracie Abrams
 
-[Spotify](https://open.spotify.com/user/spotify) - 614,430 likes - 80 songs - 4 hr 28 min
+[Spotify](https://open.spotify.com/user/spotify) - 614,413 likes - 80 songs - 4 hr 28 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -89,4 +89,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8vwRmUsEIMT.md) - [plain]
 | 79 | [ANONYMOUS](https://open.spotify.com/track/3OB1h5XUdhy5BN097aXT2N) | [M Huncho](https://open.spotify.com/artist/491U1PrV1EoQuhM0aUCn9r) | [ANONYMOUS](https://open.spotify.com/album/1GvZ5kfmqian1afqd1tL23) | 2:10 |
 | 80 | [BBBBBOOTER](https://open.spotify.com/track/0ushExwm6Sw3vISci3U1aK) | [Booter Bee](https://open.spotify.com/artist/4UqCESpZKvidid87gOWQyU) | [BBBBBOOTER](https://open.spotify.com/album/650JRfz7OBSb3vw7mPzdCp) | 1:57 |
 
-Snapshot ID: `AAAAABhbuQTCXDw6UQPUiambS9S4dVWL`
+Snapshot ID: `AAAAAJlq008wX7rJA7L7Apm70HiXqtpw`

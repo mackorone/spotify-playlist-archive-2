@@ -4,7 +4,7 @@
 
 > Celebrating individuality within independent music
 
-565 songs - 1 day 8 hr 41 min
+566 songs - 1 day 8 hr 47 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -272,7 +272,7 @@
 | [Invisible](https://open.spotify.com/track/2Kw99OuynMcNBAPauany8L) | [Melany Cubero](https://open.spotify.com/artist/4OrIEJHh24oAbE1evJRR7c) | [Invisible](https://open.spotify.com/album/35LwtfCOsUxMdNuhzwfkcm) | 2:09 | 2026-02-08 | 2026-03-29 |
 | [INVITE ONLY](https://open.spotify.com/track/01GXPg6mBgZndeB0R5pxZj) | [TONE](https://open.spotify.com/artist/7BTanMvfNlUM7nc1GSeiAu) | [INVITE ONLY](https://open.spotify.com/album/3YJmqiyXFF8QokbmiUQLxt) | 1:42 | 2026-04-21 | 2026-07-02 |
 | [Is It True?](https://open.spotify.com/track/0Lqo9N2dhvQiHWXMNKmcQc) | [Jane Chong](https://open.spotify.com/artist/5JIrvkgmaktnwNI9XcVzwy) | [Is It True?](https://open.spotify.com/album/5W1vVrvYRqwwVeOmdNXgQP) | 3:31 | 2026-05-10 | 2026-07-24 |
-| [Isnt It Beautiful](https://open.spotify.com/track/4YZMVe3BVBcZSwxJ2AMDen) | [Bruce Derby](https://open.spotify.com/artist/3L7v52f5rkuzgDWI2BIhJl) | [Isnt It Beautiful](https://open.spotify.com/album/3dnxEjKCOViLHS9qm9omx0) | 3:37 | 2026-07-25 | 2026-11-18 |
+| [Isnt It Beautiful](https://open.spotify.com/track/4YZMVe3BVBcZSwxJ2AMDen) | [Bruce Derby](https://open.spotify.com/artist/3L7v52f5rkuzgDWI2BIhJl) | [Isnt It Beautiful](https://open.spotify.com/album/3dnxEjKCOViLHS9qm9omx0) | 3:37 | 2026-07-25 |  |
 | [It Keeps](https://open.spotify.com/track/2VJwP0nOIdaIQTTadQY8oF) | [Quarter Short](https://open.spotify.com/artist/5Bfa4fJtEIH2cZH5uu4xmv) | [It Keeps](https://open.spotify.com/album/7fF7TJmT7Q2CxN9wTmB60J) | 4:52 | 2025-10-24 | 2025-12-02 |
 | [It's Coming Soon](https://open.spotify.com/track/4ilN3buPvTXvnvgbFkAtjh) | [The Orb](https://open.spotify.com/artist/5HAtRoEPUvGSA7ziTGB1cF) | [It's Coming Soon](https://open.spotify.com/album/08lUKyWInjb0ae5INhps8q) | 6:20 | 2026-01-12 | 2026-02-20 |
 | [I’m Hateful, I’m Horrible, I Love You](https://open.spotify.com/track/0b1x4o4APSYGjWTmLe5eHI) | [Seb Lowe](https://open.spotify.com/artist/3ebD7fhAtxAuVaIxi1T2BJ) | [I’m Hateful, I’m Horrible, I Love You](https://open.spotify.com/album/0QRneNwpd3eLpI5O4Gna21) | 3:14 | 2025-11-04 | 2026-01-17 |
@@ -415,6 +415,7 @@
 | [Runnin' On Empty](https://open.spotify.com/track/4Ak9DIQXtFKsB5xc9u6LTw) | [Brandon Birdwell](https://open.spotify.com/artist/0AhCptHCR9jOUnM5nYzVSi) | [Runnin' On Empty](https://open.spotify.com/album/6zrNLo1HS4qF1d72WfDqiE) | 3:30 | 2026-03-31 | 2026-05-06 |
 | [Rust](https://open.spotify.com/track/67a8xIHvOxrTtzTykAkine) | [Local Kin](https://open.spotify.com/artist/3vq4Y0KYGSp3Yowdgw9YgB) | [Rust](https://open.spotify.com/album/1lugVKNxTIMQpjEiDgvpCD) | 4:38 | 2026-11-23 |  |
 | [S.A.D.](https://open.spotify.com/track/4qtr4X6SQU3KZcFN1E8y9e) | [Patch Habits](https://open.spotify.com/artist/1BONbFNsdNqafUlqv9xVkZ) | [S.A.D.](https://open.spotify.com/album/3hGmdAkoso8AqAaxiLNgi0) | 3:20 | 2026-07-10 | 2026-08-18 |
+| [Sacrifice](https://open.spotify.com/track/46UHppFKdvYRKKtn4ibXox) | [MAEVE](https://open.spotify.com/artist/3DNFhvW8CCWslJ8idXFwgn) | [Sacrifice](https://open.spotify.com/album/3a9z2mt1DIO1nGOneaIiSE) | 5:18 | 2026-11-24 |  |
 | [SALEM](https://open.spotify.com/track/1XQEKHZ7DkLbttxrSWI72j) | [Wikka](https://open.spotify.com/artist/1PTXGpEQqVfBYjv5sGbfjq) | [SALEM](https://open.spotify.com/album/2yxTaNnjFgwUVjEO3xNAUt) | 4:54 | 2026-03-08 | 2026-04-16 |
 | [Satellite](https://open.spotify.com/track/0DubPnJ1rX0O1dIBiAihPZ) | [Cold Equations](https://open.spotify.com/artist/2axEJPob8hT3XbjX72Npii) | [Satellite](https://open.spotify.com/album/6yjxqvOUnOQRiIpi4MtEHN) | 4:11 | 2025-10-27 | 2025-12-02 |
 | [SATISFIED](https://open.spotify.com/track/4tgRMPgQF7cjJ0t2oeqAEg) | [Mike Manos](https://open.spotify.com/artist/6pdy7rMEZXFowM5Z2gu6yA) | [SATISFIED](https://open.spotify.com/album/4wl2aolRxxD08ItnHxsovn) | 2:59 | 2025-10-30 | 2025-12-12 |

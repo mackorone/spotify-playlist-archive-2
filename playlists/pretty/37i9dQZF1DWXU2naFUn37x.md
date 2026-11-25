@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXU2naFUn37x.md) - [plain]
 
 > Yugi in cover della playlist dello street rap italiano ⛓️
 
-[Spotify](https://open.spotify.com/user/spotify) - 917,840 likes - 50 songs - 2 hr 21 min
+[Spotify](https://open.spotify.com/user/spotify) - 917,808 likes - 50 songs - 2 hr 21 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXU2naFUn37x.md) - [plain]
 | 49 | [Mu'Ammar Gheddafi \(feat\. Simba La Rue\)](https://open.spotify.com/track/6Nr1XULPuJgumCyXBEfcgx) | [Kid Yugi](https://open.spotify.com/artist/0EUR8jz8L936AEbV2Spkca), [Simba La Rue](https://open.spotify.com/artist/2PEMswqQspTSsAltdeF5kO), [FT Kings](https://open.spotify.com/artist/2iRUfXetAwNoxIN42BQ5hq) | [Anche gli Eroi Muoiono](https://open.spotify.com/album/5QGyZ7xyZX8vrwI4DB6pvV) | 2:29 |
 | 50 | [Blatte](https://open.spotify.com/track/2rO2UamSwPb7hgfkHxVIOR) | [Lubi](https://open.spotify.com/artist/6RS8ydeeuOdtRNMI6sdWQy) | [Blatte](https://open.spotify.com/album/6qnVG5gaUiYY0qaxvXFQ8W) | 2:31 |
 
-Snapshot ID: `AAAAAFm+gdRgasG3fbtoQw9d3ch32e4y`
+Snapshot ID: `AAAAAJ8KbnTd2h/xy/P4TAR+61rc/f8K`

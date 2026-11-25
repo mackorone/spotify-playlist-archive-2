@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaqIZ7YXxc6o.md) - [plain]
 
 > Your weekly dose of new dance\. Cover: Confidence Man
 
-[Spotify](https://open.spotify.com/user/spotify) - 148,955 likes - 99 songs - 5 hr 19 min
+[Spotify](https://open.spotify.com/user/spotify) - 148,952 likes - 99 songs - 5 hr 19 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -108,4 +108,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaqIZ7YXxc6o.md) - [plain]
 | 98 | [TALK](https://open.spotify.com/track/1sg7sMjbf6qkuLPqA8G4Ws) | [DON'T THINK](https://open.spotify.com/artist/0JkeEwbkFQLU4C5voqbjFG) | [TALK](https://open.spotify.com/album/32nNW7DlCmuT8sOgEMG5Pw) | 2:42 |
 | 99 | [CSIRAC \- Dylan Brady Remix](https://open.spotify.com/track/0HlP3ZtuhEhTMYoEEQkuML) | [Ninajirachi](https://open.spotify.com/artist/3MekbRujJg5VZThubOlrkR), [Dylan Brady](https://open.spotify.com/artist/2Cm6C9PNHioyjRKBfO7n9N) | [CSIRAC \(Dylan Brady Remix\)](https://open.spotify.com/album/4aPDJrAGd2zVBC2vEVDvHD) | 2:24 |
 
-Snapshot ID: `AAAAAAXf5Sp/fB2KX9y0VwdD2JAJNjzm`
+Snapshot ID: `AAAAAADV8kbhDiMYKlVV1zKB08ESLIM6`

@@ -1,12 +1,12 @@
 {
   "description": "This is Grupo Arriesgado. The essential tracks, all in one playlist.",
-  "num_followers": 118911,
+  "num_followers": 118923,
   "original_name": "This Is Grupo Arriesgado",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "awIwgAAAAACcy5fN82glKc7855FEBURe",
+  "snapshot_id": "awOCAAAAAAD4FfGV5Hb6lLT0iNTMq6f7",
   "tracks": [
     {
       "added_at": null,
@@ -455,6 +455,26 @@
     {
       "added_at": null,
       "album": {
+        "name": "La Novedad",
+        "url": "https://open.spotify.com/album/655zzucpnGOJfBgO8bxU57"
+      },
+      "artists": [
+        {
+          "name": "Ra\u00fal Beltran",
+          "url": "https://open.spotify.com/artist/1XrNDYzPQVM08PdMRn1mvP"
+        },
+        {
+          "name": "Grupo Arriesgado",
+          "url": "https://open.spotify.com/artist/5NUPPRjsbXHNyVDrUESYeh"
+        }
+      ],
+      "duration_ms": 209157,
+      "name": "La Novedad",
+      "url": "https://open.spotify.com/track/7eYwzBlQ9vAiboYVg7fk5Q"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "\u00bfC\u00f3mo Te Olvido?",
         "url": "https://open.spotify.com/album/2RMo1JLJ9Kr1twPWbqzfBJ"
       },
@@ -471,26 +491,6 @@
       "duration_ms": 208409,
       "name": "\u00bfC\u00f3mo Te Olvido?",
       "url": "https://open.spotify.com/track/2DzLUxQ1QB30GSQBYa1zIT"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Deli",
-        "url": "https://open.spotify.com/album/4leFgTpQRveiOxDJ2y99RE"
-      },
-      "artists": [
-        {
-          "name": "Grupo Arriesgado",
-          "url": "https://open.spotify.com/artist/5NUPPRjsbXHNyVDrUESYeh"
-        },
-        {
-          "name": "La F\u00f3rmula",
-          "url": "https://open.spotify.com/artist/3Cdm0n7u3cH5vVioNaByZ0"
-        }
-      ],
-      "duration_ms": 185427,
-      "name": "Deli",
-      "url": "https://open.spotify.com/track/16WSMvxhuxH9mYA5E5YXl8"
     },
     {
       "added_at": null,
@@ -527,26 +527,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "La Novedad",
-        "url": "https://open.spotify.com/album/655zzucpnGOJfBgO8bxU57"
-      },
-      "artists": [
-        {
-          "name": "Ra\u00fal Beltran",
-          "url": "https://open.spotify.com/artist/1XrNDYzPQVM08PdMRn1mvP"
-        },
-        {
-          "name": "Grupo Arriesgado",
-          "url": "https://open.spotify.com/artist/5NUPPRjsbXHNyVDrUESYeh"
-        }
-      ],
-      "duration_ms": 209157,
-      "name": "La Novedad",
-      "url": "https://open.spotify.com/track/7eYwzBlQ9vAiboYVg7fk5Q"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "La Otra Cara",
         "url": "https://open.spotify.com/album/3PXMIloVcTFvoOKsFrloNt"
       },
@@ -579,6 +559,26 @@
       "duration_ms": 179786,
       "name": "Alumno Y Maestro",
       "url": "https://open.spotify.com/track/5ZBHGCgLDISEHmhSZXIDMa"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Deli",
+        "url": "https://open.spotify.com/album/4leFgTpQRveiOxDJ2y99RE"
+      },
+      "artists": [
+        {
+          "name": "Grupo Arriesgado",
+          "url": "https://open.spotify.com/artist/5NUPPRjsbXHNyVDrUESYeh"
+        },
+        {
+          "name": "La F\u00f3rmula",
+          "url": "https://open.spotify.com/artist/3Cdm0n7u3cH5vVioNaByZ0"
+        }
+      ],
+      "duration_ms": 185427,
+      "name": "Deli",
+      "url": "https://open.spotify.com/track/16WSMvxhuxH9mYA5E5YXl8"
     },
     {
       "added_at": null,
@@ -631,6 +631,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Pistiando Con Mi Tata, Vol. 1 (En Vivo)",
+        "url": "https://open.spotify.com/album/5PGwa2q6KhQkBrQ7GbHzmD"
+      },
+      "artists": [
+        {
+          "name": "Grupo Arriesgado",
+          "url": "https://open.spotify.com/artist/5NUPPRjsbXHNyVDrUESYeh"
+        }
+      ],
+      "duration_ms": 149696,
+      "name": "La Pasadita - En vivo",
+      "url": "https://open.spotify.com/track/2l9grS1b0xzLCKTWdWqeeO"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "La Otra Cara",
         "url": "https://open.spotify.com/album/3PXMIloVcTFvoOKsFrloNt"
       },
@@ -659,22 +675,6 @@
       "duration_ms": 168317,
       "name": "De Aqui Soy",
       "url": "https://open.spotify.com/track/4JB95jzbRRnCvcW4mA0Qel"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Pistiando Con Mi Tata, Vol. 1 (En Vivo)",
-        "url": "https://open.spotify.com/album/5PGwa2q6KhQkBrQ7GbHzmD"
-      },
-      "artists": [
-        {
-          "name": "Grupo Arriesgado",
-          "url": "https://open.spotify.com/artist/5NUPPRjsbXHNyVDrUESYeh"
-        }
-      ],
-      "duration_ms": 149696,
-      "name": "La Pasadita - En vivo",
-      "url": "https://open.spotify.com/track/2l9grS1b0xzLCKTWdWqeeO"
     },
     {
       "added_at": null,
@@ -711,26 +711,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Solo Por Bonita",
-        "url": "https://open.spotify.com/album/7AYn3L69giDtaSue0qMEgI"
-      },
-      "artists": [
-        {
-          "name": "Conjunto Rienda Real",
-          "url": "https://open.spotify.com/artist/5N3AyFVEE8vJa7AZEl7nD3"
-        },
-        {
-          "name": "Grupo Arriesgado",
-          "url": "https://open.spotify.com/artist/5NUPPRjsbXHNyVDrUESYeh"
-        }
-      ],
-      "duration_ms": 132711,
-      "name": "Solo Por Bonita",
-      "url": "https://open.spotify.com/track/2AVepiHwOMlNl1DnIttQYI"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Hasta La Caja Cuesta",
         "url": "https://open.spotify.com/album/4u0jPQcfzJhe0a9kwSspky"
       },
@@ -747,6 +727,26 @@
       "duration_ms": 173760,
       "name": "Hasta La Caja Cuesta",
       "url": "https://open.spotify.com/track/6Wh9RDEd5wjWETZNWkwt1F"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Solo Por Bonita",
+        "url": "https://open.spotify.com/album/7AYn3L69giDtaSue0qMEgI"
+      },
+      "artists": [
+        {
+          "name": "Conjunto Rienda Real",
+          "url": "https://open.spotify.com/artist/5N3AyFVEE8vJa7AZEl7nD3"
+        },
+        {
+          "name": "Grupo Arriesgado",
+          "url": "https://open.spotify.com/artist/5NUPPRjsbXHNyVDrUESYeh"
+        }
+      ],
+      "duration_ms": 132711,
+      "name": "Solo Por Bonita",
+      "url": "https://open.spotify.com/track/2AVepiHwOMlNl1DnIttQYI"
     },
     {
       "added_at": null,
@@ -831,8 +831,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Jalando La Bandona (En Vivo)",
-        "url": "https://open.spotify.com/album/7Hvlt44BchPib2I0DEc45E"
+        "name": "Bien Belicones (En vivo)",
+        "url": "https://open.spotify.com/album/7e9iwAbMcl1KN58AX5nqUK"
       },
       "artists": [
         {
@@ -840,13 +840,13 @@
           "url": "https://open.spotify.com/artist/5NUPPRjsbXHNyVDrUESYeh"
         },
         {
-          "name": "Los Populares Del Llano",
-          "url": "https://open.spotify.com/artist/5ZZ2zIylJkPJVKZDVwW29B"
+          "name": "Tony Aguirre",
+          "url": "https://open.spotify.com/artist/6twEaJ9RPRYiCmWapjG8xh"
         }
       ],
-      "duration_ms": 172466,
-      "name": "Prohibido - En vivo",
-      "url": "https://open.spotify.com/track/1qGPyiu4WWIp3sc4jfQeO8"
+      "duration_ms": 150200,
+      "name": "Bien Belicones - En vivo",
+      "url": "https://open.spotify.com/track/6EK8NOcU0D8vEHLF645n2F"
     },
     {
       "added_at": null,

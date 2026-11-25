@@ -1,12 +1,12 @@
 {
   "description": "Good vibes only! Aqu\u00ed solo hay buena vibra.",
-  "num_followers": 433440,
+  "num_followers": 433384,
   "original_name": "Buenas Vibras",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAKHL06/OY6j25ACXa09x6jTOcVQJ",
+  "snapshot_id": "AAAAAAXB+zwCPj4uvuSIAuXi/IOAzJbU",
   "tracks": [
     {
       "added_at": "2026-10-10 02:08:42",
@@ -939,22 +939,18 @@
     {
       "added_at": "2026-10-10 02:08:42",
       "album": {
-        "name": "ILY",
-        "url": "https://open.spotify.com/album/7ct2yMkPUUMjmgjJh9MdQW"
+        "name": "BOMB\u00d3N",
+        "url": "https://open.spotify.com/album/4wix4eBwzjNtaf5wlMexEF"
       },
       "artists": [
         {
           "name": "Kapo",
           "url": "https://open.spotify.com/artist/3UTF2no3muGdiFXVujl94i"
-        },
-        {
-          "name": "Myke Towers",
-          "url": "https://open.spotify.com/artist/7iK8PXO48WeuP03g8YR51W"
         }
       ],
-      "duration_ms": 216621,
-      "name": "ILY",
-      "url": "https://open.spotify.com/track/5ru2w4Y7xP58IXE6m4orW0"
+      "duration_ms": 130148,
+      "name": "BOMB\u00d3N",
+      "url": "https://open.spotify.com/track/0FBOPrPkQaLBEwtdCOdXiX"
     },
     {
       "added_at": "2026-10-10 02:08:42",
@@ -1035,18 +1031,22 @@
     {
       "added_at": "2026-10-10 02:08:42",
       "album": {
-        "name": "BOMB\u00d3N",
-        "url": "https://open.spotify.com/album/4wix4eBwzjNtaf5wlMexEF"
+        "name": "ILY",
+        "url": "https://open.spotify.com/album/7ct2yMkPUUMjmgjJh9MdQW"
       },
       "artists": [
         {
           "name": "Kapo",
           "url": "https://open.spotify.com/artist/3UTF2no3muGdiFXVujl94i"
+        },
+        {
+          "name": "Myke Towers",
+          "url": "https://open.spotify.com/artist/7iK8PXO48WeuP03g8YR51W"
         }
       ],
-      "duration_ms": 130148,
-      "name": "BOMB\u00d3N",
-      "url": "https://open.spotify.com/track/0FBOPrPkQaLBEwtdCOdXiX"
+      "duration_ms": 216621,
+      "name": "ILY",
+      "url": "https://open.spotify.com/track/5ru2w4Y7xP58IXE6m4orW0"
     },
     {
       "added_at": "2026-10-10 02:08:42",
@@ -1555,6 +1555,22 @@
     {
       "added_at": "2026-10-10 02:08:42",
       "album": {
+        "name": "Canta Pajarito",
+        "url": "https://open.spotify.com/album/0281jSvWsYbQmrYMtN6HDe"
+      },
+      "artists": [
+        {
+          "name": "Alisun",
+          "url": "https://open.spotify.com/artist/2EiL0H8ZBmpOSCdmzcLijb"
+        }
+      ],
+      "duration_ms": 230697,
+      "name": "Canta Pajarito",
+      "url": "https://open.spotify.com/track/3hIBOOB7qwnlVkBz68g5ma"
+    },
+    {
+      "added_at": "2026-10-10 02:08:42",
+      "album": {
         "name": "Isla Pa Dos (Wawawao)",
         "url": "https://open.spotify.com/album/2H5VQ2AyPAAwq2QVLsgLwh"
       },
@@ -1567,22 +1583,6 @@
       "duration_ms": 137691,
       "name": "Isla Pa Dos (Wawawao)",
       "url": "https://open.spotify.com/track/2oZMbHvRq7jEpCfupABOlp"
-    },
-    {
-      "added_at": "2026-10-10 02:08:42",
-      "album": {
-        "name": "Sin Gato (MIAU!)",
-        "url": "https://open.spotify.com/album/5Kav6970mLaRDQN1tSqWom"
-      },
-      "artists": [
-        {
-          "name": "Rels B",
-          "url": "https://open.spotify.com/artist/2IMZYfNi21MGqxopj9fWx8"
-        }
-      ],
-      "duration_ms": 147943,
-      "name": "Sin Gato (MIAU!)",
-      "url": "https://open.spotify.com/track/3vGYACdHXBG9COwobk3J5U"
     },
     {
       "added_at": "2026-10-10 02:08:42",
@@ -1603,18 +1603,18 @@
     {
       "added_at": "2026-10-10 02:08:42",
       "album": {
-        "name": "Canta Pajarito",
-        "url": "https://open.spotify.com/album/0281jSvWsYbQmrYMtN6HDe"
+        "name": "Sin Gato (MIAU!)",
+        "url": "https://open.spotify.com/album/5Kav6970mLaRDQN1tSqWom"
       },
       "artists": [
         {
-          "name": "Alisun",
-          "url": "https://open.spotify.com/artist/2EiL0H8ZBmpOSCdmzcLijb"
+          "name": "Rels B",
+          "url": "https://open.spotify.com/artist/2IMZYfNi21MGqxopj9fWx8"
         }
       ],
-      "duration_ms": 230697,
-      "name": "Canta Pajarito",
-      "url": "https://open.spotify.com/track/3hIBOOB7qwnlVkBz68g5ma"
+      "duration_ms": 147943,
+      "name": "Sin Gato (MIAU!)",
+      "url": "https://open.spotify.com/track/3vGYACdHXBG9COwobk3J5U"
     },
     {
       "added_at": "2026-10-10 02:08:42",

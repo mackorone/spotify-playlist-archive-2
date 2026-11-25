@@ -1,12 +1,12 @@
 {
   "description": "Uni Uni Uni",
-  "num_followers": 76485,
+  "num_followers": 76486,
   "original_name": "Uni Bangers",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAANuq8bKPNCwUo6jAlAQ6Tti5d0nV",
+  "snapshot_id": "AAAAAP1mvviRMM+54iKQyHxbfOHui54b",
   "tracks": [
     {
       "added_at": "2025-01-24 13:34:29",
@@ -267,18 +267,22 @@
     {
       "added_at": "2025-01-24 13:34:29",
       "album": {
-        "name": "Touch",
-        "url": "https://open.spotify.com/album/1hjqg3TuQ2YqooaPhxHwdv"
+        "name": "My 21st Century Blues",
+        "url": "https://open.spotify.com/album/3U8n8LzBx2o9gYXvvNq4uH"
       },
       "artists": [
         {
-          "name": "KATSEYE",
-          "url": "https://open.spotify.com/artist/3c0gDdb9lhnHGFtP4prQpn"
+          "name": "RAYE",
+          "url": "https://open.spotify.com/artist/5KKpBU5eC2tJDzf0wmlRp2"
+        },
+        {
+          "name": "070 Shake",
+          "url": "https://open.spotify.com/artist/12Zk1DFhCbHY6v3xep2ZjI"
         }
       ],
-      "duration_ms": 129882,
-      "name": "Touch",
-      "url": "https://open.spotify.com/track/6aJn7Cst74cj4lNIiPRgav"
+      "duration_ms": 272373,
+      "name": "Escapism.",
+      "url": "https://open.spotify.com/track/5mHdCZtVyb4DcJw8799hZp"
     },
     {
       "added_at": "2025-01-24 13:34:29",
@@ -299,22 +303,18 @@
     {
       "added_at": "2025-01-24 13:34:29",
       "album": {
-        "name": "My 21st Century Blues",
-        "url": "https://open.spotify.com/album/3U8n8LzBx2o9gYXvvNq4uH"
+        "name": "Touch",
+        "url": "https://open.spotify.com/album/1hjqg3TuQ2YqooaPhxHwdv"
       },
       "artists": [
         {
-          "name": "RAYE",
-          "url": "https://open.spotify.com/artist/5KKpBU5eC2tJDzf0wmlRp2"
-        },
-        {
-          "name": "070 Shake",
-          "url": "https://open.spotify.com/artist/12Zk1DFhCbHY6v3xep2ZjI"
+          "name": "KATSEYE",
+          "url": "https://open.spotify.com/artist/3c0gDdb9lhnHGFtP4prQpn"
         }
       ],
-      "duration_ms": 272373,
-      "name": "Escapism.",
-      "url": "https://open.spotify.com/track/5mHdCZtVyb4DcJw8799hZp"
+      "duration_ms": 129882,
+      "name": "Touch",
+      "url": "https://open.spotify.com/track/6aJn7Cst74cj4lNIiPRgav"
     },
     {
       "added_at": "2025-01-24 13:34:29",
@@ -659,6 +659,22 @@
     {
       "added_at": "2025-01-24 13:34:29",
       "album": {
+        "name": "HIT ME HARD AND SOFT",
+        "url": "https://open.spotify.com/album/7aJuG4TFXa2hmE4z1yxc3n"
+      },
+      "artists": [
+        {
+          "name": "Billie Eilish",
+          "url": "https://open.spotify.com/artist/6qqNVTkY8uBg9cP3Jd7DAH"
+        }
+      ],
+      "duration_ms": 179586,
+      "name": "LUNCH",
+      "url": "https://open.spotify.com/track/629DixmZGHc7ILtEntuiWE"
+    },
+    {
+      "added_at": "2025-01-24 13:34:29",
+      "album": {
         "name": "Invasion of Privacy",
         "url": "https://open.spotify.com/album/4KdtEKjY3Gi0mKiSdy96ML"
       },
@@ -679,22 +695,6 @@
       "duration_ms": 253390,
       "name": "I Like It",
       "url": "https://open.spotify.com/track/58q2HKrzhC3ozto2nDdN4z"
-    },
-    {
-      "added_at": "2025-01-24 13:34:29",
-      "album": {
-        "name": "HIT ME HARD AND SOFT",
-        "url": "https://open.spotify.com/album/7aJuG4TFXa2hmE4z1yxc3n"
-      },
-      "artists": [
-        {
-          "name": "Billie Eilish",
-          "url": "https://open.spotify.com/artist/6qqNVTkY8uBg9cP3Jd7DAH"
-        }
-      ],
-      "duration_ms": 179586,
-      "name": "LUNCH",
-      "url": "https://open.spotify.com/track/629DixmZGHc7ILtEntuiWE"
     },
     {
       "added_at": "2025-01-24 13:34:29",
@@ -1111,22 +1111,6 @@
     {
       "added_at": "2025-01-24 13:34:29",
       "album": {
-        "name": "Paint The Town Red",
-        "url": "https://open.spotify.com/album/54dZypaXHAIDzBe9ujAZ63"
-      },
-      "artists": [
-        {
-          "name": "Doja Cat",
-          "url": "https://open.spotify.com/artist/5cj0lLjcoR7YOSnhnX0Po5"
-        }
-      ],
-      "duration_ms": 231750,
-      "name": "Paint The Town Red",
-      "url": "https://open.spotify.com/track/2IGMVunIBsBLtEQyoI1Mu7"
-    },
-    {
-      "added_at": "2025-01-24 13:34:29",
-      "album": {
         "name": "Melodrama",
         "url": "https://open.spotify.com/album/2B87zXm9bOWvAJdkJBTpzF"
       },
@@ -1139,6 +1123,22 @@
       "duration_ms": 234652,
       "name": "Green Light",
       "url": "https://open.spotify.com/track/6ie2Bw3xLj2JcGowOlcMhb"
+    },
+    {
+      "added_at": "2025-01-24 13:34:29",
+      "album": {
+        "name": "Paint The Town Red",
+        "url": "https://open.spotify.com/album/54dZypaXHAIDzBe9ujAZ63"
+      },
+      "artists": [
+        {
+          "name": "Doja Cat",
+          "url": "https://open.spotify.com/artist/5cj0lLjcoR7YOSnhnX0Po5"
+        }
+      ],
+      "duration_ms": 231750,
+      "name": "Paint The Town Red",
+      "url": "https://open.spotify.com/track/2IGMVunIBsBLtEQyoI1Mu7"
     },
     {
       "added_at": "2025-01-24 13:34:29",
@@ -1219,18 +1219,18 @@
     {
       "added_at": "2025-01-24 13:34:29",
       "album": {
-        "name": "Lil Boo Thang",
-        "url": "https://open.spotify.com/album/1j5AROUr8rq5xb2CXDIH1c"
+        "name": "My 21st Century Blues",
+        "url": "https://open.spotify.com/album/3U8n8LzBx2o9gYXvvNq4uH"
       },
       "artists": [
         {
-          "name": "Paul Russell",
-          "url": "https://open.spotify.com/artist/4zoRNhOhsGX3w8yBAnFSQ8"
+          "name": "RAYE",
+          "url": "https://open.spotify.com/artist/5KKpBU5eC2tJDzf0wmlRp2"
         }
       ],
-      "duration_ms": 114233,
-      "name": "Lil Boo Thang",
-      "url": "https://open.spotify.com/track/0cVyQfDyRnMJ0V3rjjdlU3"
+      "duration_ms": 183653,
+      "name": "Oscar Winning Tears.",
+      "url": "https://open.spotify.com/track/0iO2iCAjtX0t5duvczNQt6"
     },
     {
       "added_at": "2025-01-24 13:34:29",
@@ -1255,18 +1255,18 @@
     {
       "added_at": "2025-01-24 13:34:29",
       "album": {
-        "name": "My 21st Century Blues",
-        "url": "https://open.spotify.com/album/3U8n8LzBx2o9gYXvvNq4uH"
+        "name": "Lil Boo Thang",
+        "url": "https://open.spotify.com/album/1j5AROUr8rq5xb2CXDIH1c"
       },
       "artists": [
         {
-          "name": "RAYE",
-          "url": "https://open.spotify.com/artist/5KKpBU5eC2tJDzf0wmlRp2"
+          "name": "Paul Russell",
+          "url": "https://open.spotify.com/artist/4zoRNhOhsGX3w8yBAnFSQ8"
         }
       ],
-      "duration_ms": 183653,
-      "name": "Oscar Winning Tears.",
-      "url": "https://open.spotify.com/track/0iO2iCAjtX0t5duvczNQt6"
+      "duration_ms": 114233,
+      "name": "Lil Boo Thang",
+      "url": "https://open.spotify.com/track/0cVyQfDyRnMJ0V3rjjdlU3"
     },
     {
       "added_at": "2025-01-24 13:34:29",
@@ -1323,26 +1323,6 @@
     {
       "added_at": "2025-01-24 13:34:29",
       "album": {
-        "name": "Relax My Eyes",
-        "url": "https://open.spotify.com/album/2vIDF8BeMN3BcF0yOSMgmN"
-      },
-      "artists": [
-        {
-          "name": "ANOTR",
-          "url": "https://open.spotify.com/artist/4p5WgeiPSPpqPDs7T6OkWf"
-        },
-        {
-          "name": "Abel Balder",
-          "url": "https://open.spotify.com/artist/0jqbEIAvdjUOi5Za48pzQG"
-        }
-      ],
-      "duration_ms": 192150,
-      "name": "Relax My Eyes",
-      "url": "https://open.spotify.com/track/5u4hhtZ7f4rWkMZEZcTKrH"
-    },
-    {
-      "added_at": "2025-01-24 13:34:29",
-      "album": {
         "name": "Symphony (feat. Zara Larsson)",
         "url": "https://open.spotify.com/album/4b13SJlne61y53KSEwuQtD"
       },
@@ -1359,6 +1339,26 @@
       "duration_ms": 212459,
       "name": "Symphony (feat. Zara Larsson)",
       "url": "https://open.spotify.com/track/1x5sYLZiu9r5E43kMlt9f8"
+    },
+    {
+      "added_at": "2025-01-24 13:34:29",
+      "album": {
+        "name": "Relax My Eyes",
+        "url": "https://open.spotify.com/album/2vIDF8BeMN3BcF0yOSMgmN"
+      },
+      "artists": [
+        {
+          "name": "ANOTR",
+          "url": "https://open.spotify.com/artist/4p5WgeiPSPpqPDs7T6OkWf"
+        },
+        {
+          "name": "Abel Balder",
+          "url": "https://open.spotify.com/artist/0jqbEIAvdjUOi5Za48pzQG"
+        }
+      ],
+      "duration_ms": 192150,
+      "name": "Relax My Eyes",
+      "url": "https://open.spotify.com/track/5u4hhtZ7f4rWkMZEZcTKrH"
     },
     {
       "added_at": "2025-01-24 13:34:29",
@@ -1395,6 +1395,22 @@
     {
       "added_at": "2025-01-24 13:34:29",
       "album": {
+        "name": "Summer 91 (Looking Back)",
+        "url": "https://open.spotify.com/album/4QCh5emLRWuIg8CUzprNXm"
+      },
+      "artists": [
+        {
+          "name": "Noizu",
+          "url": "https://open.spotify.com/artist/3VRyybsQu0MDG0F2LBxnv7"
+        }
+      ],
+      "duration_ms": 180000,
+      "name": "Summer 91 (Looking Back)",
+      "url": "https://open.spotify.com/track/4FEcEwbE2vsqhxbTPtiNTL"
+    },
+    {
+      "added_at": "2025-01-24 13:34:29",
+      "album": {
         "name": "Head & Heart (feat. MNEK)",
         "url": "https://open.spotify.com/album/5glfCPECXSHzidU6exW8wO"
       },
@@ -1415,18 +1431,18 @@
     {
       "added_at": "2025-01-24 13:34:29",
       "album": {
-        "name": "Summer 91 (Looking Back)",
-        "url": "https://open.spotify.com/album/4QCh5emLRWuIg8CUzprNXm"
+        "name": "Whatever People Say I Am, That's What I'm Not",
+        "url": "https://open.spotify.com/album/50Zz8CkIhATKUlQMbHO3k1"
       },
       "artists": [
         {
-          "name": "Noizu",
-          "url": "https://open.spotify.com/artist/3VRyybsQu0MDG0F2LBxnv7"
+          "name": "Arctic Monkeys",
+          "url": "https://open.spotify.com/artist/7Ln80lUS6He07XvHI8qqHH"
         }
       ],
-      "duration_ms": 180000,
-      "name": "Summer 91 (Looking Back)",
-      "url": "https://open.spotify.com/track/4FEcEwbE2vsqhxbTPtiNTL"
+      "duration_ms": 173680,
+      "name": "I Bet You Look Good On The Dancefloor",
+      "url": "https://open.spotify.com/track/3DQVgcqaP3iSMbaKsd57l5"
     },
     {
       "added_at": "2025-01-24 13:34:29",
@@ -1443,22 +1459,6 @@
       "duration_ms": 186046,
       "name": "COULD BE WRONG",
       "url": "https://open.spotify.com/track/5zuex7tbGFz0gSHlrMvQdu"
-    },
-    {
-      "added_at": "2025-01-24 13:34:29",
-      "album": {
-        "name": "Whatever People Say I Am, That's What I'm Not",
-        "url": "https://open.spotify.com/album/50Zz8CkIhATKUlQMbHO3k1"
-      },
-      "artists": [
-        {
-          "name": "Arctic Monkeys",
-          "url": "https://open.spotify.com/artist/7Ln80lUS6He07XvHI8qqHH"
-        }
-      ],
-      "duration_ms": 173680,
-      "name": "I Bet You Look Good On The Dancefloor",
-      "url": "https://open.spotify.com/track/3DQVgcqaP3iSMbaKsd57l5"
     },
     {
       "added_at": "2025-01-24 13:34:29",
@@ -1555,22 +1555,6 @@
     {
       "added_at": "2025-01-24 13:34:29",
       "album": {
-        "name": "Unheard",
-        "url": "https://open.spotify.com/album/6rjpYHZwFktbc0RCiTfEG6"
-      },
-      "artists": [
-        {
-          "name": "Hozier",
-          "url": "https://open.spotify.com/artist/2FXC3k01G6Gw61bmprjgqS"
-        }
-      ],
-      "duration_ms": 251424,
-      "name": "Too Sweet",
-      "url": "https://open.spotify.com/track/3HMY0r2BAdpasXMY8rseR0"
-    },
-    {
-      "added_at": "2025-01-24 13:34:29",
-      "album": {
         "name": "BEST INTEREST",
         "url": "https://open.spotify.com/album/5iUwaD3wFVwfaAfs9Z0eCh"
       },
@@ -1583,6 +1567,22 @@
       "duration_ms": 127921,
       "name": "BEST INTEREST",
       "url": "https://open.spotify.com/track/3jHdKaLCkuNEkWcLVmQPCX"
+    },
+    {
+      "added_at": "2025-01-24 13:34:29",
+      "album": {
+        "name": "Unheard",
+        "url": "https://open.spotify.com/album/6rjpYHZwFktbc0RCiTfEG6"
+      },
+      "artists": [
+        {
+          "name": "Hozier",
+          "url": "https://open.spotify.com/artist/2FXC3k01G6Gw61bmprjgqS"
+        }
+      ],
+      "duration_ms": 251424,
+      "name": "Too Sweet",
+      "url": "https://open.spotify.com/track/3HMY0r2BAdpasXMY8rseR0"
     },
     {
       "added_at": "2025-01-24 13:34:29",

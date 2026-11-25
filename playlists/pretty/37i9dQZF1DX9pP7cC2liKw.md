@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9pP7cC2liKw.md) - [plain]
 
 > Immerse yourself in the mysticism of Tulum!
 
-[Spotify](https://open.spotify.com/user/spotify) - 481,453 likes - 70 songs - 5 hr 1 min
+[Spotify](https://open.spotify.com/user/spotify) - 481,557 likes - 70 songs - 5 hr 1 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -43,8 +43,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9pP7cC2liKw.md) - [plain]
 | 33 | [Bella](https://open.spotify.com/track/5KA4V0ZJMkz6jpi13Zgk9w) | [YoSoyMatt](https://open.spotify.com/artist/0NYE6CFlP7ElQR6r395gbV), [French Braids](https://open.spotify.com/artist/5y8mGL7UFApHn1BotAfcj1), [Los Miranda](https://open.spotify.com/artist/1gEJUDZiXSNjVJBDzpZh8f) | [Bella](https://open.spotify.com/album/6govxhovGzVddUXNOlA74I) | 3:08 |
 | 34 | [AIO \- Bosq Remix](https://open.spotify.com/track/185ggbhnpTgHC5E5yEqYTE) | [BALTHVS](https://open.spotify.com/artist/2CtiNJi0zB35RHYXViVjKG), [Bosq](https://open.spotify.com/artist/2tpbLTmBZZcGvcCHX6uw1U) | [AIO \(Bosq Remix\)](https://open.spotify.com/album/398yIs7sB6fNFJkpbMJcAg) | 3:13 |
 | 35 | [Nineteen Hundred and Eighty Five](https://open.spotify.com/track/65KrPjUkVnvUUfQaDGn6n7) | [Quantic](https://open.spotify.com/artist/5ZMwoAjeDtLJ0XRwRTgaK8) | [Theme from Selva](https://open.spotify.com/album/6ht7LwHxyNVk8gkqGaK6mM) | 5:40 |
-| 36 | [Laberinto \- Bosq Remix](https://open.spotify.com/track/73EADOHLCpA5Fk4EM8vzO1) | [Rawayana](https://open.spotify.com/artist/2AbQwU2cuEGfD465wCXlg2), [Bosq](https://open.spotify.com/artist/2tpbLTmBZZcGvcCHX6uw1U) | [Laberinto \(Bosq Remix\)](https://open.spotify.com/album/5vfciS3URPiFrOBnzSIy2k) | 3:44 |
-| 37 | [Tártaro](https://open.spotify.com/track/0gH3JQ2qEulnQXmw8ig5U5) | [Buscabulla](https://open.spotify.com/artist/0MoaBi6dSquXp6rrlqlF8R) | [EP II](https://open.spotify.com/album/735mM1CtmQAiWX1yaNtda5) | 3:43 |
+| 36 | [Tártaro](https://open.spotify.com/track/0gH3JQ2qEulnQXmw8ig5U5) | [Buscabulla](https://open.spotify.com/artist/0MoaBi6dSquXp6rrlqlF8R) | [EP II](https://open.spotify.com/album/735mM1CtmQAiWX1yaNtda5) | 3:43 |
+| 37 | [Laberinto \- Bosq Remix](https://open.spotify.com/track/73EADOHLCpA5Fk4EM8vzO1) | [Rawayana](https://open.spotify.com/artist/2AbQwU2cuEGfD465wCXlg2), [Bosq](https://open.spotify.com/artist/2tpbLTmBZZcGvcCHX6uw1U) | [Laberinto \(Bosq Remix\)](https://open.spotify.com/album/5vfciS3URPiFrOBnzSIy2k) | 3:44 |
 | 38 | [todo el día \- sonic ranch version](https://open.spotify.com/track/5qpurGWSxraAEIb0FkQmve) | [Cadereira](https://open.spotify.com/artist/7DTKyMRxUoxcN0cXqrRzIO) | [todo el día \(sonic ranch version\)](https://open.spotify.com/album/5iOetlgp0gp3WH3NjgTtI1) | 3:37 |
 | 39 | [Road Of The Lonely Ones](https://open.spotify.com/track/4VaICpePVA67Wqvv8SryFr) | [Madlib](https://open.spotify.com/artist/5LhTec3c7dcqBvpLRWbMcf) | [Road Of The Lonely Ones](https://open.spotify.com/album/28MiwOX8Od693aOkUnEgsf) | 3:38 |
 | 40 | [São Paulo Motoboy](https://open.spotify.com/track/7vCbKxrU2y0wZpuogiuuEf) | [Manu Chao](https://open.spotify.com/artist/6wH6iStAh4KIaWfuhf0NYM) | [São Paulo Motoboy](https://open.spotify.com/album/120c6Vr3TyGwYhL2rX9BfP) | 2:28 |
@@ -54,8 +54,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9pP7cC2liKw.md) - [plain]
 | 44 | [Tropical Gypsy](https://open.spotify.com/track/2NT4Qm591F5sel8OupNhWp) | [DJ Cam](https://open.spotify.com/artist/1hwAhXzyuEUjug2pyNVSvg) | [Tropical Gypsy](https://open.spotify.com/album/57y7GwBbU7iWlVt3fO4yQA) | 3:01 |
 | 45 | [Corazón \(Feat\. Bomba Estéreo\)](https://open.spotify.com/track/4fUoX5rgq5Ep2cCVxAeBeh) | [Nelly Furtado](https://open.spotify.com/artist/2jw70GZXlAI8QzWeY2bgRc), [Bomba Estéreo](https://open.spotify.com/artist/5n9bMYfz9qss2VOW89EVs2) | [Corazón \(Feat\. Bomba Estéreo\)](https://open.spotify.com/album/7ix2EWiNF7gDXdXoy99NjK) | 2:37 |
 | 46 | [Ta Que Tiembla \- Pachyman Remix](https://open.spotify.com/track/0m1pyzxZBiDy4wWTdNY5mU) | [Buscabulla](https://open.spotify.com/artist/0MoaBi6dSquXp6rrlqlF8R), [Pachyman](https://open.spotify.com/artist/515f4vsvg0JQWrmt7qpR6l) | [Ta Que Tiembla \(Pachyman Remix\)](https://open.spotify.com/album/47R62dwZJFZzeiYH9IPBW6) | 3:21 |
-| 47 | [Temazcal](https://open.spotify.com/track/0SOG7VMrKYCHoMRYqS9fjK) | [Matanza](https://open.spotify.com/artist/4nZIpprPGQmOEECVZ8VDIT) | [Apolinar](https://open.spotify.com/album/1BVtwlD7BSkrbUeNyYO75U) | 4:11 |
-| 48 | [Na Procura](https://open.spotify.com/track/5jHL9thvvnkuKPExerUgTg) | [Yemanjo](https://open.spotify.com/artist/20rsBY890yu3Jms9QHTg7N) | [Na Procura](https://open.spotify.com/album/4MjVYF2WrA2LxHOekWZREA) | 6:30 |
+| 47 | [Na Procura](https://open.spotify.com/track/5jHL9thvvnkuKPExerUgTg) | [Yemanjo](https://open.spotify.com/artist/20rsBY890yu3Jms9QHTg7N) | [Na Procura](https://open.spotify.com/album/4MjVYF2WrA2LxHOekWZREA) | 6:30 |
+| 48 | [Temazcal](https://open.spotify.com/track/0SOG7VMrKYCHoMRYqS9fjK) | [Matanza](https://open.spotify.com/artist/4nZIpprPGQmOEECVZ8VDIT) | [Apolinar](https://open.spotify.com/album/1BVtwlD7BSkrbUeNyYO75U) | 4:11 |
 | 49 | [Selva y mar](https://open.spotify.com/track/2DsUXoqK3HXx2Sat09W7uN) | [Tati Falco](https://open.spotify.com/artist/2iaZ9zGdSh6fSP3uBS6jV6) | [Selva y mar](https://open.spotify.com/album/79AHYPMxeWRc5NR7WqwUFG) | 4:08 |
 | 50 | [Soñando](https://open.spotify.com/track/3UUkMsnp1NDwN0g1Rg48Y4) | [Acid Coco](https://open.spotify.com/artist/5UiKi49d0fbeffWl4aPWNW) | [Soñando](https://open.spotify.com/album/5HDXllRh6Kyp0TWilBuDsr) | 4:02 |
 | 51 | [Grind](https://open.spotify.com/track/13LVADAG1jdD42fe5wihFc) | [Les Sins](https://open.spotify.com/artist/4gSTRpmeyYppvIXuFKjfAL) | [Grind / Prelims](https://open.spotify.com/album/0hDAUxNVrjkDmfzuVCueMs) | 5:18 |
@@ -79,4 +79,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9pP7cC2liKw.md) - [plain]
 | 69 | [Encerrada](https://open.spotify.com/track/0iJU9tl5QNx0x9Tkg2Z7zt) | [Reyna Tropical](https://open.spotify.com/artist/7i6bx5ASeX99tjQYqahDXL), [Y La Bamba](https://open.spotify.com/artist/6eb2gxfoBSQhmDYkQKz93b) | [Encerrada](https://open.spotify.com/album/5jCdPRTOcPLQNPZNHugD0s) | 3:03 |
 | 70 | [SMT](https://open.spotify.com/track/01j2SBoRQWzrcHmsycw415) | [Pierre Kwenders](https://open.spotify.com/artist/04B6sMoIopTgUAQM3dcSxP) | [SMT](https://open.spotify.com/album/03D2z5rFjWwL1menJGfcmQ) | 3:17 |
 
-Snapshot ID: `AAAAADRZMk22B+bpNXa6uLvkEuFD0lKJ`
+Snapshot ID: `AAAAAC9KBjSvgN6d9BHZaybr8i7yYnv2`

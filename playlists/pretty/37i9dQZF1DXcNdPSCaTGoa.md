@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcNdPSCaTGoa.md) - [plain]
 
 > Celebrating South Africa's most beloved hits\. Cover: The Mahotella Queens, lordkez
 
-[Spotify](https://open.spotify.com/user/spotify) - 9,202 likes - 60 songs - 4 hr 52 min
+[Spotify](https://open.spotify.com/user/spotify) - 9,234 likes - 60 songs - 4 hr 52 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -28,8 +28,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcNdPSCaTGoa.md) - [plain]
 | 18 | [Love Me For Me](https://open.spotify.com/track/5uOQhnhCDxGb9QlSmCcXRO) | [Jamali](https://open.spotify.com/artist/4dyN2fwkUd8Y0qjKH7ztK0) | [Jamali](https://open.spotify.com/album/5Qe0Khsxx4fLlzk7cdATN7) | 4:02 |
 | 19 | [Reach It](https://open.spotify.com/track/2cV5IKy6RdZ5RyN6mLGy1j) | [Zonke](https://open.spotify.com/artist/1eBaQkCXWlq1vhCLMVFdqn) | [Work of Heart](https://open.spotify.com/album/0EH4i0I9Mjw7skmHXqfCUk) | 3:34 |
 | 20 | [Umqombothi](https://open.spotify.com/track/3JPrTUwhK3Utti9ilI75fB) | [Yvonne Chaka Chaka](https://open.spotify.com/artist/27JX5L90Wv4SBk4FJZVQcH) | [Best Of](https://open.spotify.com/album/084jtk8aAbHaOgd2hWOfSd) | 4:56 |
-| 21 | [Lwandle](https://open.spotify.com/track/6UQCZ9wUMdDX87eVYAqJy4) | [Zola](https://open.spotify.com/artist/2ymJS3hSwX5yiNdYroipCW) | [Ibutho](https://open.spotify.com/album/5l4OrBtOd4rGfpCEzWrfi2) | 5:11 |
-| 22 | [Kaptein](https://open.spotify.com/track/2dN6ZxgmN21aRTNeDDI4qB) | [Kurt Darren](https://open.spotify.com/artist/3fFoaTI85WuaVkSMUxeYRd) | [Uit Die Diepte Van My Hart](https://open.spotify.com/album/72xPC5J61vPhQdPdRmBlKp) | 3:49 |
+| 21 | [Kaptein](https://open.spotify.com/track/2dN6ZxgmN21aRTNeDDI4qB) | [Kurt Darren](https://open.spotify.com/artist/3fFoaTI85WuaVkSMUxeYRd) | [Uit Die Diepte Van My Hart](https://open.spotify.com/album/72xPC5J61vPhQdPdRmBlKp) | 3:49 |
+| 22 | [Lwandle](https://open.spotify.com/track/6UQCZ9wUMdDX87eVYAqJy4) | [Zola](https://open.spotify.com/artist/2ymJS3hSwX5yiNdYroipCW) | [Ibutho](https://open.spotify.com/album/5l4OrBtOd4rGfpCEzWrfi2) | 5:11 |
 | 23 | [Weekend Special](https://open.spotify.com/track/0t8R66DymqgWq2BjureW9r) | [Brenda & The Big Dudes](https://open.spotify.com/artist/3PGhsvfwxsjXsQw2swnopZ) | [Legends](https://open.spotify.com/album/0RDdkzqoqSDVle30Cn4csO) | 4:39 |
 | 24 | [Mambotjie \(feat\. 2Shot\)](https://open.spotify.com/track/0whydZVhYUiAQ7LIQErJeM) | [TKZEE](https://open.spotify.com/artist/0dOZQGyxb6MGkTnRAxKmmi), [2 Shot](https://open.spotify.com/artist/1w7mqJk0lodbOOb7tZGPzX) | [Halloween](https://open.spotify.com/album/15SNp2BWjBL3oSs2KnExpF) | 4:22 |
 | 25 | [Congratulate](https://open.spotify.com/track/4rpeguIp4kLV1uExPjQqjm) | [AKA](https://open.spotify.com/artist/1QIghPIrXQQ22G1yNtAKFX) | [Levels \(Explicit\)](https://open.spotify.com/album/2vaRvfNXHyrXOQ8Aw6MEXe) | 3:45 |
@@ -40,18 +40,18 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcNdPSCaTGoa.md) - [plain]
 | 30 | [Mbuso's Revenge](https://open.spotify.com/track/4ZZ3OWpdPxsX5aBlLPz6B2) | [DJ Mbuso](https://open.spotify.com/artist/6SYbxrGWWJybDiZx1aqOb3) | [House Player](https://open.spotify.com/album/2CbZUpkxIDvJMyPy2JDSr6) | 6:10 |
 | 31 | [Sondela \(feat\. Zano\)](https://open.spotify.com/track/00gec53aXVCqYMWbKFJHGg) | [Riky Rick](https://open.spotify.com/artist/61ZRdppZ5sCtl9m5gfhoGO), [ZANO](https://open.spotify.com/artist/0adNleAt3fifQiP12TGZBJ) | [Family Values](https://open.spotify.com/album/4Vka3hwfaOqISTHYyOdkKC) | 4:34 |
 | 32 | [Doo Be Doo](https://open.spotify.com/track/1MzgAa6fUqeUuLipCnTyak) | [Freshlyground](https://open.spotify.com/artist/7AcV1lk8Zrgo1691PDWEle) | [Nomvula](https://open.spotify.com/album/2kKXMbWFVcqYms0Y5WsjFx) | 5:11 |
-| 33 | [Sana Luma \(Thats The Way Love Is\)](https://open.spotify.com/track/1jgwlt5ERSd0uAERPxLYKp) | [Zola](https://open.spotify.com/artist/2ymJS3hSwX5yiNdYroipCW) | [Khokhovula](https://open.spotify.com/album/4r17XN1HWE0xuRfptWVeiK) | 5:17 |
+| 33 | [Nizalwa Ngobani?](https://open.spotify.com/track/0SGnd95BYWd1m583zt7mqC) | [Thandiswa](https://open.spotify.com/artist/6Y5DNQAHBjLtlb7xPOmk3N) | [Zabalaza](https://open.spotify.com/album/2nzNQQpCe88qXWHNUwx7k2) | 6:44 |
 | 34 | [Dlala Mapantsula](https://open.spotify.com/track/0DaGK6Zlg0lr2QknjZAgh4) | [TKZEE](https://open.spotify.com/artist/0dOZQGyxb6MGkTnRAxKmmi) | [Guz Hits](https://open.spotify.com/album/305izURXDMmcRRwR8INvWY) | 5:32 |
-| 35 | [Nizalwa Ngobani?](https://open.spotify.com/track/0SGnd95BYWd1m583zt7mqC) | [Thandiswa](https://open.spotify.com/artist/6Y5DNQAHBjLtlb7xPOmk3N) | [Zabalaza](https://open.spotify.com/album/2nzNQQpCe88qXWHNUwx7k2) | 6:44 |
+| 35 | [Sana Luma \(Thats The Way Love Is\)](https://open.spotify.com/track/1jgwlt5ERSd0uAERPxLYKp) | [Zola](https://open.spotify.com/artist/2ymJS3hSwX5yiNdYroipCW) | [Khokhovula](https://open.spotify.com/album/4r17XN1HWE0xuRfptWVeiK) | 5:17 |
 | 36 | [S.O.S \- Release Me](https://open.spotify.com/track/5Vv6Qh1oE7WQNkdIDSTeiX) | [Zonke](https://open.spotify.com/artist/1eBaQkCXWlq1vhCLMVFdqn) | [Work of Heart](https://open.spotify.com/album/0EH4i0I9Mjw7skmHXqfCUk) | 4:03 |
 | 37 | [I'd Like](https://open.spotify.com/track/15lW7MKcnprhsReAmQ2E95) | [Freshlyground](https://open.spotify.com/artist/7AcV1lk8Zrgo1691PDWEle) | [Nomvula](https://open.spotify.com/album/2kKXMbWFVcqYms0Y5WsjFx) | 6:22 |
 | 38 | [Another Universe](https://open.spotify.com/track/6djogrE7rj6KTRE7OfxZkw) | [Arno Carstens](https://open.spotify.com/artist/4VE8VoX8eVfwfVSuikRyxE) | [Another Universe](https://open.spotify.com/album/4dFHkHm4bOqHphNjtTFGcn) | 3:34 |
-| 39 | [Palafala \(feat\. S'bu\)](https://open.spotify.com/track/3tAVyo7TeXRoSEDkl2qT1k) | [TKZEE](https://open.spotify.com/artist/0dOZQGyxb6MGkTnRAxKmmi), [S'bu](https://open.spotify.com/artist/2ewhd7uWaZplwMtqKpevwd) | [Guz Hits](https://open.spotify.com/album/305izURXDMmcRRwR8INvWY) | 5:15 |
-| 40 | [Ingoma](https://open.spotify.com/track/1L8hlyQDH09vqHzuCwZDA2) | [Thandiswa](https://open.spotify.com/artist/6Y5DNQAHBjLtlb7xPOmk3N) | [Ibokwe](https://open.spotify.com/album/4iCpOjGwWQzIbHPlna6QyM) | 6:12 |
+| 39 | [Ingoma](https://open.spotify.com/track/1L8hlyQDH09vqHzuCwZDA2) | [Thandiswa](https://open.spotify.com/artist/6Y5DNQAHBjLtlb7xPOmk3N) | [Ibokwe](https://open.spotify.com/album/4iCpOjGwWQzIbHPlna6QyM) | 6:12 |
+| 40 | [Palafala \(feat\. S'bu\)](https://open.spotify.com/track/3tAVyo7TeXRoSEDkl2qT1k) | [TKZEE](https://open.spotify.com/artist/0dOZQGyxb6MGkTnRAxKmmi), [S'bu](https://open.spotify.com/artist/2ewhd7uWaZplwMtqKpevwd) | [Guz Hits](https://open.spotify.com/album/305izURXDMmcRRwR8INvWY) | 5:15 |
 | 41 | [Black President](https://open.spotify.com/track/1u6y55ANLeAiIP26F3I3r4) | [Brenda Fassie](https://open.spotify.com/artist/07Pw9XQo0hIwtKRrBwo0Rl) | [Black President](https://open.spotify.com/album/3HhEwfPwfAqK2D0fe7TBWW) | 4:30 |
 | 42 | [Cooler as Ekke](https://open.spotify.com/track/4fBxUtH4erpLDc2BEvUkgf) | [Jack Parow](https://open.spotify.com/artist/2zzOTg1SHx5vuqgcexJRxA) | [Jack Parow](https://open.spotify.com/album/4NOqbyrs8P30p5fXgcCqX4) | 4:08 |
-| 43 | [Y U 4 Me](https://open.spotify.com/track/6019mUh1nhmsqDtfbKuZnu) | [M'Du](https://open.spotify.com/artist/2941g2EP7e8x7Kv3EukgmD) | [Y U 4 Me](https://open.spotify.com/album/4RELzas44ynDy4FZb8XRj7) | 7:31 |
-| 44 | [Ndawo Yami](https://open.spotify.com/track/0syt5xfbxS2n888ZPib8ES) | [Zamajobe](https://open.spotify.com/artist/4wJoiQmG43ZNUSvlj6uDYv) | [Ndawo Yami](https://open.spotify.com/album/212O2AvgE4xzUuULXvmlGU) | 4:47 |
+| 43 | [Ndawo Yami](https://open.spotify.com/track/0syt5xfbxS2n888ZPib8ES) | [Zamajobe](https://open.spotify.com/artist/4wJoiQmG43ZNUSvlj6uDYv) | [Ndawo Yami](https://open.spotify.com/album/212O2AvgE4xzUuULXvmlGU) | 4:47 |
+| 44 | [Y U 4 Me](https://open.spotify.com/track/6019mUh1nhmsqDtfbKuZnu) | [M'Du](https://open.spotify.com/artist/2941g2EP7e8x7Kv3EukgmD) | [Y U 4 Me](https://open.spotify.com/album/4RELzas44ynDy4FZb8XRj7) | 7:31 |
 | 45 | [Feel Good](https://open.spotify.com/track/6o3P5XYvDDWWTbzoJMURZo) | [Lira](https://open.spotify.com/artist/1ChWj9EwLoK9J0hnHMgKHj) | [Feel Good](https://open.spotify.com/album/2AmhJ7jidf7ZijWlRRZ7gB) | 5:20 |
 | 46 | [Fester](https://open.spotify.com/track/4QNTWh444lOn7C4kPGUoYR) | [Jacknife](https://open.spotify.com/artist/2MU7y4Bj9rg69oHvc70YGs) | [Vintage Sounds of Johannesburg](https://open.spotify.com/album/45j6bfm5dD2m2V9mjaVYL3) | 4:52 |
 | 47 | [Sbali](https://open.spotify.com/track/5F8GhL8UTDDydH7HNq5geV) | [Joe Nina](https://open.spotify.com/artist/0uKndkSvFjmZxg61p1YLEs) | [Mababaza](https://open.spotify.com/album/4CGpMIEdICSqLHyrVAxFxt) | 4:07 |
@@ -69,4 +69,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcNdPSCaTGoa.md) - [plain]
 | 59 | [Too Late For Mama](https://open.spotify.com/track/3vKtCxQ5Q2l1LCzJiGxlcV) | [Brenda Fassie](https://open.spotify.com/artist/07Pw9XQo0hIwtKRrBwo0Rl) | [Too Late For Mama](https://open.spotify.com/album/46iGQsed63hPnVAF45FCLN) | 5:59 |
 | 60 | [Wozobona](https://open.spotify.com/track/5dIOKpPN20BHKd56jOVsoN) | [Pro Kid](https://open.spotify.com/artist/5HE0pmik1Vo6uww4nZKxli), [Hoodlum](https://open.spotify.com/artist/1jN8jSEK1ODKCfjviN7Hxp) | [Heads and Tales](https://open.spotify.com/album/0H1DKASzcSdPOSrXc8Ovx6) | 4:10 |
 
-Snapshot ID: `AAAAABnLHqFKsuD1fAXBT9yM3ZV5q0El`
+Snapshot ID: `AAAAAOdMpIQIHQ+3lcknti5j6NvGZyf6`

@@ -349,6 +349,28 @@
     },
     {
       "album": {
+        "name": "Blood In Your Eyes (from GTAVI: The Album)",
+        "url": "https://open.spotify.com/album/2J5ttiLhgBPxcLyHlhQVKO"
+      },
+      "artists": [
+        {
+          "name": "Tove Lo",
+          "url": "https://open.spotify.com/artist/4NHQUGzhtTLFvgF5SZesLK"
+        },
+        {
+          "name": "Grand Theft Auto VI",
+          "url": "https://open.spotify.com/artist/15o7qdDTBzs6xWRUYUtZc1"
+        }
+      ],
+      "date_added": "2026-11-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 161219,
+      "name": "Blood In Your Eyes (from GTAVI: The Album)",
+      "url": "https://open.spotify.com/track/4h3tY2zV4easaHEAbHVmgj"
+    },
+    {
+      "album": {
         "name": "KIARI:OFFSET",
         "url": "https://open.spotify.com/album/6TAosyqS0VOSBzYnfKk0O6"
       },
@@ -412,6 +434,28 @@
       "duration_ms": 99213,
       "name": "Break from Toronto",
       "url": "https://open.spotify.com/track/5fEB6ZmVkg63GZg9qO86jh"
+    },
+    {
+      "album": {
+        "name": "Burn This Shit Down (from GTAVI: The Album)",
+        "url": "https://open.spotify.com/album/0jgRjaxbK29djrWFc8qcTN"
+      },
+      "artists": [
+        {
+          "name": "Travis Scott",
+          "url": "https://open.spotify.com/artist/0Y5tJX1MQlPlqiwlOH1tJY"
+        },
+        {
+          "name": "Grand Theft Auto VI",
+          "url": "https://open.spotify.com/artist/15o7qdDTBzs6xWRUYUtZc1"
+        }
+      ],
+      "date_added": "2026-11-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 260000,
+      "name": "Burn This Shit Down (from GTAVI: The Album)",
+      "url": "https://open.spotify.com/track/30YpKShBDGUAGfUx2BfVIb"
     },
     {
       "album": {
@@ -1202,7 +1246,7 @@
       ],
       "date_added": "2026-07-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-25",
       "duration_ms": 225706,
       "name": "Hard Beat",
       "url": "https://open.spotify.com/track/2yksZVaKYIbh4IEEAa2kJV"
@@ -2218,7 +2262,7 @@
       ],
       "date_added": "2023-09-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-25",
       "duration_ms": 143226,
       "name": "Playing Games (with Bryson Tiller) - Extended Version",
       "url": "https://open.spotify.com/track/2xyx0o4xNOLLjBSbOOdcbA"

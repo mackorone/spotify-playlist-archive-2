@@ -2000,7 +2000,7 @@
       ],
       "date_added": "2021-12-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-25",
       "duration_ms": 266808,
       "name": "Jes\u00fas",
       "url": "https://open.spotify.com/track/0tvj2F88KQi0rZDpneC5bp"
@@ -2494,6 +2494,24 @@
       "duration_ms": 178720,
       "name": "Llorar\u00e1s en Navidad",
       "url": "https://open.spotify.com/track/5BgP3UYLNQI8QnaLHM2otE"
+    },
+    {
+      "album": {
+        "name": "Eterna Navidad",
+        "url": "https://open.spotify.com/album/19dK1Gq4fsFhoOXHdx5DPb"
+      },
+      "artists": [
+        {
+          "name": "Pandora",
+          "url": "https://open.spotify.com/artist/44nb9BaqV2jVvxKCaXHwlP"
+        }
+      ],
+      "date_added": "2025-12-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 192560,
+      "name": "Los Peces En El Rio",
+      "url": "https://open.spotify.com/track/21uQlJ4U7ogvSTH6JkyR9P"
     },
     {
       "album": {

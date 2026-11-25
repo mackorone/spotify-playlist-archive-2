@@ -1,12 +1,12 @@
 {
   "description": "This is Bob Dylan. The essential tracks, all in one playlist.",
-  "num_followers": 595373,
+  "num_followers": 595363,
   "original_name": "This Is Bob Dylan",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "awIwgAAAAACBU3m2jzXb5hWmBOMGS2BD",
+  "snapshot_id": "awOCAAAAAAC0OxF/HA6DLzgfGjH3dEdR",
   "tracks": [
     {
       "added_at": null,
@@ -723,22 +723,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "The Times They Are A-Changin'",
-        "url": "https://open.spotify.com/album/7DZeLXvr9eTVpyI1OlqtcS"
-      },
-      "artists": [
-        {
-          "name": "Bob Dylan",
-          "url": "https://open.spotify.com/artist/74ASZWbe4lXaubB36ztrGX"
-        }
-      ],
-      "duration_ms": 162436,
-      "name": "One Too Many Mornings",
-      "url": "https://open.spotify.com/track/5ATUmaVJWUTTagmPwQLck3"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Time Out Of Mind",
         "url": "https://open.spotify.com/album/185DHT5SvszXRrezx3lOjt"
       },
@@ -755,8 +739,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Nashville Skyline",
-        "url": "https://open.spotify.com/album/5WBx64FIN04CvM2T1MGrUN"
+        "name": "The Times They Are A-Changin'",
+        "url": "https://open.spotify.com/album/7DZeLXvr9eTVpyI1OlqtcS"
       },
       "artists": [
         {
@@ -764,9 +748,25 @@
           "url": "https://open.spotify.com/artist/74ASZWbe4lXaubB36ztrGX"
         }
       ],
-      "duration_ms": 146521,
-      "name": "I Threw It All Away",
-      "url": "https://open.spotify.com/track/2HXnjMxrO4QccqE3Grwmd0"
+      "duration_ms": 162436,
+      "name": "One Too Many Mornings",
+      "url": "https://open.spotify.com/track/5ATUmaVJWUTTagmPwQLck3"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Desire",
+        "url": "https://open.spotify.com/album/1T8usYsiGEMPMQOLFgJEbE"
+      },
+      "artists": [
+        {
+          "name": "Bob Dylan",
+          "url": "https://open.spotify.com/artist/74ASZWbe4lXaubB36ztrGX"
+        }
+      ],
+      "duration_ms": 419189,
+      "name": "Isis",
+      "url": "https://open.spotify.com/track/5j216bw8PG0EcIdfu92k4l"
     },
     {
       "added_at": null,
@@ -787,8 +787,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Desire",
-        "url": "https://open.spotify.com/album/1T8usYsiGEMPMQOLFgJEbE"
+        "name": "Nashville Skyline",
+        "url": "https://open.spotify.com/album/5WBx64FIN04CvM2T1MGrUN"
       },
       "artists": [
         {
@@ -796,9 +796,9 @@
           "url": "https://open.spotify.com/artist/74ASZWbe4lXaubB36ztrGX"
         }
       ],
-      "duration_ms": 419189,
-      "name": "Isis",
-      "url": "https://open.spotify.com/track/5j216bw8PG0EcIdfu92k4l"
+      "duration_ms": 146521,
+      "name": "I Threw It All Away",
+      "url": "https://open.spotify.com/track/2HXnjMxrO4QccqE3Grwmd0"
     },
     {
       "added_at": null,

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXa9XlH8nDPns.md) - [plain]
 
 > upbeat indie en alternative voor onderweg: fietsrit, roadtrip of treinreis.
 
-[Spotify](https://open.spotify.com/user/spotify) - 30,066 likes - 80 songs - 4 hr 40 min
+[Spotify](https://open.spotify.com/user/spotify) - 30,065 likes - 80 songs - 4 hr 40 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -47,21 +47,21 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXa9XlH8nDPns.md) - [plain]
 | 37 | [Simple Pleasures](https://open.spotify.com/track/2WrxJ6w8SWXFtCRs14cpso) | [Warhaus](https://open.spotify.com/artist/5uy67fWgovgNdbkP1kAf7m) | [Simple Pleasures](https://open.spotify.com/album/1YAHNLFNRpKTg7BchT8crJ) | 3:52 |
 | 38 | [Caroline](https://open.spotify.com/track/6iWK4oyy9z1qBVbsAlwRhm) | [Mumford & Sons](https://open.spotify.com/artist/3gd8FJtBJtkRxdfbTu19U2) | [RUSHMERE](https://open.spotify.com/album/6Ztf9NgYuS1j2df55TXi9r) | 3:20 |
 | 39 | [It's Amazing To Be Young](https://open.spotify.com/track/2m3SuMEdjlOWVN05steEXf) | [Fontaines D.C.](https://open.spotify.com/artist/3SXwqSqAoBz9WCI9PDQzY6) | [It's Amazing To Be Young](https://open.spotify.com/album/7MvJ6Zr1OEcMYUxHZA9gWs) | 3:30 |
-| 40 | [Deep Blue](https://open.spotify.com/track/5IlF14TaFNSN7zNkRyGgas) | [Towa Bird](https://open.spotify.com/artist/1Yq3rS7K1SQKqjMOHXpqqt) | [Deep Blue](https://open.spotify.com/album/5UBT8VuOkdqNZzt0BNMI9q) | 3:31 |
-| 41 | [Walk Walk Walk](https://open.spotify.com/track/38Uu9WTMaVKOGW6LXxt6rK) | [Good Neighbours](https://open.spotify.com/artist/52N3KGrTWDRhdQJrgBTofE) | [Blue Sky Mentality](https://open.spotify.com/album/0FOIHe5RLulAgBq3HMV4wd) | 2:56 |
-| 42 | [LY](https://open.spotify.com/track/7c9MmK1KocaSXLhsXCDnCq) | [Dressed Like Boys](https://open.spotify.com/artist/5qQLp6Xal6S6KXEHgvxmvp) | [LY](https://open.spotify.com/album/16nQg0IJ2lgJLXxg7bR77c) | 3:24 |
+| 40 | [LY](https://open.spotify.com/track/7c9MmK1KocaSXLhsXCDnCq) | [Dressed Like Boys](https://open.spotify.com/artist/5qQLp6Xal6S6KXEHgvxmvp) | [LY](https://open.spotify.com/album/16nQg0IJ2lgJLXxg7bR77c) | 3:24 |
+| 41 | [Deep Blue](https://open.spotify.com/track/5IlF14TaFNSN7zNkRyGgas) | [Towa Bird](https://open.spotify.com/artist/1Yq3rS7K1SQKqjMOHXpqqt) | [Deep Blue](https://open.spotify.com/album/5UBT8VuOkdqNZzt0BNMI9q) | 3:31 |
+| 42 | [Walk Walk Walk](https://open.spotify.com/track/38Uu9WTMaVKOGW6LXxt6rK) | [Good Neighbours](https://open.spotify.com/artist/52N3KGrTWDRhdQJrgBTofE) | [Blue Sky Mentality](https://open.spotify.com/album/0FOIHe5RLulAgBq3HMV4wd) | 2:56 |
 | 43 | [Burnout Days](https://open.spotify.com/track/1zBP4F9PUGfH8Ll3U1V31y) | [flipturn](https://open.spotify.com/artist/7FKTg75ADVMZgY3P9ZMRtH) | [Burnout Days](https://open.spotify.com/album/55d55SbCCo7jCmBFvCvDBC) | 3:38 |
 | 44 | [Naked And Alive](https://open.spotify.com/track/5ivyL3WEFCo0IfivYC0FOF) | [Milky Chance](https://open.spotify.com/artist/1hzfo8twXdOegF3xireCYs) | [Naked And Alive](https://open.spotify.com/album/6mPCKnNWmqzIhuLAwuCfQe) | 3:27 |
 | 45 | [Somebody's Son \(feat\. Lindsey Buckingham\)](https://open.spotify.com/track/1aU2gDpImIIzWVJtiqOCvU) | [Empire Of The Sun](https://open.spotify.com/artist/67hb7towEyKvt5Z8Bx306c), [Lindsey Buckingham](https://open.spotify.com/artist/3Dzj993UEz8Z5ovxuirzFO) | [Ask That God \(Deluxe\)](https://open.spotify.com/album/6CPodMnqYXqbfZ9Rw8CO1e) | 3:25 |
-| 46 | [Starry Eyed](https://open.spotify.com/track/69iHQfZMuNshmrixkhWYBe) | [Good Neighbours](https://open.spotify.com/artist/52N3KGrTWDRhdQJrgBTofE) | [Starry Eyed](https://open.spotify.com/album/2yByFS4ml3PMBBLhBPJIfN) | 2:16 |
-| 47 | [More More More](https://open.spotify.com/track/3l8t8MTOomTwvN7I4dc0LZ) | [Mt\. Joy](https://open.spotify.com/artist/69tiO1fG8VWduDl3ji2qhI) | [More More More](https://open.spotify.com/album/2gVSL0UNZknT1leTnK46Pz) | 3:12 |
+| 46 | [More More More](https://open.spotify.com/track/3l8t8MTOomTwvN7I4dc0LZ) | [Mt\. Joy](https://open.spotify.com/artist/69tiO1fG8VWduDl3ji2qhI) | [More More More](https://open.spotify.com/album/2gVSL0UNZknT1leTnK46Pz) | 3:12 |
+| 47 | [Starry Eyed](https://open.spotify.com/track/69iHQfZMuNshmrixkhWYBe) | [Good Neighbours](https://open.spotify.com/artist/52N3KGrTWDRhdQJrgBTofE) | [Starry Eyed](https://open.spotify.com/album/2yByFS4ml3PMBBLhBPJIfN) | 2:16 |
 | 48 | [Think Twice](https://open.spotify.com/track/7gVVb2Tpoc4S9fkfm4j5if) | [Vicky Sometani](https://open.spotify.com/artist/29uVFPS7wo6RBGzewIc6pt) | [Think Twice](https://open.spotify.com/album/1iSV82EFX3NPgV4EpuNC3j) | 3:04 |
 | 49 | [Hit The Sky](https://open.spotify.com/track/2Ei6xk9HEEAv16zFA60iht) | [Wolf Alice](https://open.spotify.com/artist/3btzEQD6sugImIHPMRgkwV) | [The Clearing \(B Sides\)](https://open.spotify.com/album/6HmTemMMhm4C8tiM39Dz28) | 2:39 |
 | 50 | [Cancel Me \(I’m Tired\)](https://open.spotify.com/track/5cYKa4Cowu3Xl6qD2Mh2e6) | [Fat Dog](https://open.spotify.com/artist/4DLjEphXbW7qIhX4iwmNEe) | [Cancel Me \(I'm Tired\)](https://open.spotify.com/album/3zy6TbZpMq8qDwEtJfVTvi) | 3:42 |
 | 51 | [Soms Is Het Te Laat](https://open.spotify.com/track/26LR1DyAaLRGXjq0IiVz4b) | [WIES](https://open.spotify.com/artist/4kswme1Kl2NXRCJ326f14n) | [Het Is Een WIES](https://open.spotify.com/album/0nODZFNixZTpRbiDh7zOnX) | 3:06 |
-| 52 | [too late](https://open.spotify.com/track/05mx8Fh7aWVMmYIxT9eoBu) | [Juney Boy](https://open.spotify.com/artist/4OwdeZBCSGtdhopP20sGaq) | [too late](https://open.spotify.com/album/6peOnkd4LW2ut1b2xgnAUJ) | 3:10 |
-| 53 | [In Search of Yang](https://open.spotify.com/track/6FR6o5mqPEVRffn9Jxsnqr) | [Yin Yin](https://open.spotify.com/artist/2sLMYvxNmHIYNx6re1WUM2) | [Yatta!](https://open.spotify.com/album/14miHHQBXPPlt61Ax0SK2W) | 4:31 |
-| 54 | [Lost In Space](https://open.spotify.com/track/1PIBxfR4k67snh0hUSgzPs) | [Foster The People](https://open.spotify.com/artist/7gP3bB2nilZXLfPHJhMdvc) | [Lost In Space](https://open.spotify.com/album/02lrMtGj1XXii9azaaBtPl) | 4:18 |
+| 52 | [In Search of Yang](https://open.spotify.com/track/6FR6o5mqPEVRffn9Jxsnqr) | [Yin Yin](https://open.spotify.com/artist/2sLMYvxNmHIYNx6re1WUM2) | [Yatta!](https://open.spotify.com/album/14miHHQBXPPlt61Ax0SK2W) | 4:31 |
+| 53 | [Lost In Space](https://open.spotify.com/track/1PIBxfR4k67snh0hUSgzPs) | [Foster The People](https://open.spotify.com/artist/7gP3bB2nilZXLfPHJhMdvc) | [Lost In Space](https://open.spotify.com/album/02lrMtGj1XXii9azaaBtPl) | 4:18 |
+| 54 | [too late](https://open.spotify.com/track/05mx8Fh7aWVMmYIxT9eoBu) | [Juney Boy](https://open.spotify.com/artist/4OwdeZBCSGtdhopP20sGaq) | [too late](https://open.spotify.com/album/6peOnkd4LW2ut1b2xgnAUJ) | 3:10 |
 | 55 | [SEEIN’ STARS](https://open.spotify.com/track/0vbdCsYHg1by09QKOGO4PR) | [Turnstile](https://open.spotify.com/artist/2qnpHrOzdmOo1S4ox3j17x) | [SEEIN’ STARS / BIRDS](https://open.spotify.com/album/75bLGYFnRRlH7wn33WnGdX) | 3:06 |
 | 56 | [Heart of Darkness](https://open.spotify.com/track/24zbHhoxY7EKcijv98EWL7) | [Fat Dog](https://open.spotify.com/artist/4DLjEphXbW7qIhX4iwmNEe) | [Heart of Darkness](https://open.spotify.com/album/3x9DfNi4Tmn81AI2Db7buQ) | 3:26 |
 | 57 | [Don't Forget You Love Me](https://open.spotify.com/track/3PCpcXOeOFSkJORnFuBF4B) | [Calum Hood](https://open.spotify.com/artist/663fZd6uEkPKLwBzPj50S3) | [Don't Forget You Love Me](https://open.spotify.com/album/4ZyeSbYo2RNNTqLtuxahK1) | 3:37 |
@@ -72,8 +72,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXa9XlH8nDPns.md) - [plain]
 | 62 | [Glimmer](https://open.spotify.com/track/6HxdF6wqrHeuIyyypYaeUK) | [Temples](https://open.spotify.com/artist/4ogwGU9VPWrnVBs1GEwZVV) | [BLISS](https://open.spotify.com/album/7ma9QDQt7T6WhjF4UIITvA) | 3:55 |
 | 63 | [BedHead](https://open.spotify.com/track/1aPrxGK9OZBVscOkKwklR4) | [Balu Brigada](https://open.spotify.com/artist/6O9vGMmTwzihULICPCsNf2) | [BedHead](https://open.spotify.com/album/6FlHRbr03eXBAnuuXHvrer) | 5:02 |
 | 64 | [Tequila Shots](https://open.spotify.com/track/41a9e1pccolyyJxkg2reuw) | [Rikas](https://open.spotify.com/artist/3OWO2LOPTl1u6XvJHkwHmd) | [Tequila Shots](https://open.spotify.com/album/3RvspKF4izNsVsFfawFeH2) | 3:03 |
-| 65 | [Passion](https://open.spotify.com/track/6DD3DloL8AvZCI64707q5F) | [Milky Chance](https://open.spotify.com/artist/1hzfo8twXdOegF3xireCYs) | [Passion](https://open.spotify.com/album/49Lan6ZyZ9eqn7e9NV5hxK) | 3:07 |
-| 66 | [Malibu](https://open.spotify.com/track/1ATQ3x83vDSmiSY8PvHrXJ) | [Mumford & Sons](https://open.spotify.com/artist/3gd8FJtBJtkRxdfbTu19U2) | [Malibu](https://open.spotify.com/album/3rdky53UG5s1ORpeOTJ2fm) | 4:02 |
+| 65 | [Malibu](https://open.spotify.com/track/1ATQ3x83vDSmiSY8PvHrXJ) | [Mumford & Sons](https://open.spotify.com/artist/3gd8FJtBJtkRxdfbTu19U2) | [Malibu](https://open.spotify.com/album/3rdky53UG5s1ORpeOTJ2fm) | 4:02 |
+| 66 | [Passion](https://open.spotify.com/track/6DD3DloL8AvZCI64707q5F) | [Milky Chance](https://open.spotify.com/artist/1hzfo8twXdOegF3xireCYs) | [Passion](https://open.spotify.com/album/49Lan6ZyZ9eqn7e9NV5hxK) | 3:07 |
 | 67 | [Take a trip](https://open.spotify.com/track/2lc22De7oWxlAj5Dm3JDy4) | [Henrik](https://open.spotify.com/artist/7osFcSwjlRPwxZdVALIOuC) | [Take a trip](https://open.spotify.com/album/0K6gjjwKxkwlwBWHOfYxMB) | 2:27 |
 | 68 | [Midnight Cruiser](https://open.spotify.com/track/2zdZICJSfEfZVuiD5aXWdM) | [De Nachtwacht](https://open.spotify.com/artist/3Sd7vfg45nJIesPsjvyFgp) | [De Nachtwacht](https://open.spotify.com/album/6QTcUbIQ0VLethxET8iSah) | 2:51 |
 | 69 | [Drive](https://open.spotify.com/track/5tdS0ZR30mNjJKGS6YU8kA) | [Son Mieux](https://open.spotify.com/artist/1BCBAzjX8J0qpvNTPRDCLc) | [The Mustard Seed](https://open.spotify.com/album/7ri2zz9FdwG1fcmUMHXe1R) | 3:29 |
@@ -81,12 +81,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXa9XlH8nDPns.md) - [plain]
 | 71 | [Hot!](https://open.spotify.com/track/3FEWfnYH4NG3iBsWySY3gh) | [Chloe Parché](https://open.spotify.com/artist/6jCOKlQ9OBPbQgPoZ3haov), [Holly Hebe](https://open.spotify.com/artist/3K511ClkYJM2a9tcaf2R3t) | [Hot!](https://open.spotify.com/album/45LEesLYqM29tkihh8Yyr0) | 2:45 |
 | 72 | [Rescue Me](https://open.spotify.com/track/6layeClm9iQ1xOPYZ9zbJU) | [Sons Of The East](https://open.spotify.com/artist/6cSxzHrQgGc4I4Ck5Gewej) | [Rescue Me](https://open.spotify.com/album/2xpvAnyCde4Q20Q193vfgR) | 2:47 |
 | 73 | [Give Me Your Love Back](https://open.spotify.com/track/070mI5fDgAV77ZBrmoAcfs) | [Anna of the North](https://open.spotify.com/artist/1mSJCvDX0W7Dn7S9C6vmvI) | [Give Me Your Love Back](https://open.spotify.com/album/4r1zRFQ6pgIPFid4U7ztUO) | 2:56 |
-| 74 | [Better, I Swear](https://open.spotify.com/track/74rfrufWL0TF6ORmled9w8) | [BLUAI](https://open.spotify.com/artist/5CJhBRBaE9MaWfPwcg2WbF), [Lara Chedraoui](https://open.spotify.com/artist/5IChSgxJI43mKPYp6S34Jx) | [Save It For Later](https://open.spotify.com/album/1JCSyDDYF8k1dAxbchvxbl) | 4:03 |
-| 75 | [Sunny Baby](https://open.spotify.com/track/1AH1KdgFBW2orzVFDqzrup) | [The Kooks](https://open.spotify.com/artist/1GLtl8uqKmnyCWxHmw9tL4) | [Sunny Baby](https://open.spotify.com/album/5QTrD7sEFUlkt5wXHS2wEa) | 3:19 |
-| 76 | [I Wanna Know](https://open.spotify.com/track/3dHxz2xClaQdyh8KuZIwrr) | [Quentyn](https://open.spotify.com/artist/5bYML8xTIbwYZg5e3izzjl) | [I Wanna Know](https://open.spotify.com/album/7jqC0VJUpFoEY8W1H69i76) | 3:44 |
-| 77 | [T'Materiaal](https://open.spotify.com/track/6fz9rL2ofLahE4nf602QDM) | [Don Melody Club](https://open.spotify.com/artist/0gnt5Tp8lW6u8obPtO3kuY) | [T'Materiaal](https://open.spotify.com/album/0ihPYf8yaLgFoVkbr6ITDV) | 4:11 |
+| 74 | [T'Materiaal](https://open.spotify.com/track/6fz9rL2ofLahE4nf602QDM) | [Don Melody Club](https://open.spotify.com/artist/0gnt5Tp8lW6u8obPtO3kuY) | [T'Materiaal](https://open.spotify.com/album/0ihPYf8yaLgFoVkbr6ITDV) | 4:11 |
+| 75 | [Better, I Swear](https://open.spotify.com/track/74rfrufWL0TF6ORmled9w8) | [BLUAI](https://open.spotify.com/artist/5CJhBRBaE9MaWfPwcg2WbF), [Lara Chedraoui](https://open.spotify.com/artist/5IChSgxJI43mKPYp6S34Jx) | [Save It For Later](https://open.spotify.com/album/1JCSyDDYF8k1dAxbchvxbl) | 4:03 |
+| 76 | [Sunny Baby](https://open.spotify.com/track/1AH1KdgFBW2orzVFDqzrup) | [The Kooks](https://open.spotify.com/artist/1GLtl8uqKmnyCWxHmw9tL4) | [Sunny Baby](https://open.spotify.com/album/5QTrD7sEFUlkt5wXHS2wEa) | 3:19 |
+| 77 | [I Wanna Know](https://open.spotify.com/track/3dHxz2xClaQdyh8KuZIwrr) | [Quentyn](https://open.spotify.com/artist/5bYML8xTIbwYZg5e3izzjl) | [I Wanna Know](https://open.spotify.com/album/7jqC0VJUpFoEY8W1H69i76) | 3:44 |
 | 78 | [NIGHTWALKING](https://open.spotify.com/track/4vLO8S0divDxTVRc80jpk8) | [GANS](https://open.spotify.com/artist/05PzzXnIetN4rWDlYv23SK) | [GOOD FOR THE SOUL](https://open.spotify.com/album/1RWoRM3u9vb7AMDSWkaZtG) | 3:21 |
 | 79 | [Will You Remember](https://open.spotify.com/track/730Yp6xDqRJ5Cjxwz3D76H) | [Daniel Docherty](https://open.spotify.com/artist/186gOhAX0pNXjYldk47D0F) | [Will You Remember](https://open.spotify.com/album/0moBXENvUaHNqnWBMMsqHf) | 3:40 |
 | 80 | [9to5](https://open.spotify.com/track/5nKwlZGvnxI3mKPl0JCXyv) | [uwase](https://open.spotify.com/artist/2QuwXg3dnpvGTMeoilcszr) | [9to5](https://open.spotify.com/album/137SrdxZngzFFwUaZuRqS7) | 3:42 |
 
-Snapshot ID: `AAAAANwRezBe80TYkp4Gr9kj0kzoUp1m`
+Snapshot ID: `AAAAAPiCN+J2ukoU7zD/AkoO9V8eRlUn`

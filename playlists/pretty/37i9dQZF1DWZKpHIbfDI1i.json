@@ -1,12 +1,12 @@
 {
   "description": "La playlist con los m\u00e1s grandes \u00e9xitos de nuestrxs artistas mexicanxs. Majo Aguilar",
-  "num_followers": 881799,
+  "num_followers": 881789,
   "original_name": "Top M\u00e9xico",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAACMxiw4LxDzEr5py3+/DNd++KyFe",
+  "snapshot_id": "AAAAADlQ97OBTD5B3+xYqvplpzjVokR5",
   "tracks": [
     {
       "added_at": "2026-11-20 06:00:29",
@@ -331,26 +331,6 @@
     {
       "added_at": "2026-11-20 06:00:29",
       "album": {
-        "name": "Porque La Demora",
-        "url": "https://open.spotify.com/album/7EIuLIjhFQAGPvq6L5gBvZ"
-      },
-      "artists": [
-        {
-          "name": "Natanael Cano",
-          "url": "https://open.spotify.com/artist/0elWFr7TW8piilVRYJUe4P"
-        },
-        {
-          "name": "Gabito Ballesteros",
-          "url": "https://open.spotify.com/artist/6Sbl0NT50roqWvy746MfVf"
-        }
-      ],
-      "duration_ms": 203357,
-      "name": "Perlas Negras",
-      "url": "https://open.spotify.com/track/0N6h5RnzCNJG3JfROXQIMQ"
-    },
-    {
-      "added_at": "2026-11-20 06:00:29",
-      "album": {
         "name": "Ay Weyy",
         "url": "https://open.spotify.com/album/7CCnBjQRcWctQWGcyfxWlY"
       },
@@ -371,6 +351,26 @@
       "duration_ms": 158669,
       "name": "Taco El Flaco",
       "url": "https://open.spotify.com/track/1TKtOAr9HUZyF3dCdwwcJE"
+    },
+    {
+      "added_at": "2026-11-20 06:00:29",
+      "album": {
+        "name": "Porque La Demora",
+        "url": "https://open.spotify.com/album/7EIuLIjhFQAGPvq6L5gBvZ"
+      },
+      "artists": [
+        {
+          "name": "Natanael Cano",
+          "url": "https://open.spotify.com/artist/0elWFr7TW8piilVRYJUe4P"
+        },
+        {
+          "name": "Gabito Ballesteros",
+          "url": "https://open.spotify.com/artist/6Sbl0NT50roqWvy746MfVf"
+        }
+      ],
+      "duration_ms": 203357,
+      "name": "Perlas Negras",
+      "url": "https://open.spotify.com/track/0N6h5RnzCNJG3JfROXQIMQ"
     },
     {
       "added_at": "2026-11-20 06:00:29",
@@ -499,6 +499,22 @@
     {
       "added_at": "2026-11-20 06:00:29",
       "album": {
+        "name": "FRANCIA",
+        "url": "https://open.spotify.com/album/0tm1saZfhOkgkyNXJoGpTg"
+      },
+      "artists": [
+        {
+          "name": "Tito Double P",
+          "url": "https://open.spotify.com/artist/5eumcnUkdmGvkvcsx1WFNG"
+        }
+      ],
+      "duration_ms": 206817,
+      "name": "FRANCIA",
+      "url": "https://open.spotify.com/track/0oPun2a1Vi1QWJRiQC6Ass"
+    },
+    {
+      "added_at": "2026-11-20 06:00:29",
+      "album": {
         "name": "Seguro Le Doli\u00f3",
         "url": "https://open.spotify.com/album/0laSYvHtmxy7gG0z8secrX"
       },
@@ -515,22 +531,6 @@
       "duration_ms": 149459,
       "name": "Seguro Le Doli\u00f3",
       "url": "https://open.spotify.com/track/6KslzTHpbnoFGcRUkVgRXc"
-    },
-    {
-      "added_at": "2026-11-20 06:00:29",
-      "album": {
-        "name": "FRANCIA",
-        "url": "https://open.spotify.com/album/0tm1saZfhOkgkyNXJoGpTg"
-      },
-      "artists": [
-        {
-          "name": "Tito Double P",
-          "url": "https://open.spotify.com/artist/5eumcnUkdmGvkvcsx1WFNG"
-        }
-      ],
-      "duration_ms": 206817,
-      "name": "FRANCIA",
-      "url": "https://open.spotify.com/track/0oPun2a1Vi1QWJRiQC6Ass"
     },
     {
       "added_at": "2026-11-20 06:00:29",
@@ -647,6 +647,22 @@
     {
       "added_at": "2026-11-20 06:00:29",
       "album": {
+        "name": "STAR (Deluxe Version)",
+        "url": "https://open.spotify.com/album/3ulpgz1vE0A0Mw8wrUbdnn"
+      },
+      "artists": [
+        {
+          "name": "Tombochio",
+          "url": "https://open.spotify.com/artist/76yamFWr2gZGn03EaAbX2r"
+        }
+      ],
+      "duration_ms": 177942,
+      "name": "\u00daLTIMAMENTE",
+      "url": "https://open.spotify.com/track/5MULsNlAMhxUPvDFznwZfo"
+    },
+    {
+      "added_at": "2026-11-20 06:00:29",
+      "album": {
         "name": "Afr1n",
         "url": "https://open.spotify.com/album/2xQgu93rXVVOH83sHcAc2E"
       },
@@ -667,22 +683,6 @@
       "duration_ms": 186501,
       "name": "Afr1n",
       "url": "https://open.spotify.com/track/1dBEe0uyZ2Bszwc49xaIlg"
-    },
-    {
-      "added_at": "2026-11-20 06:00:29",
-      "album": {
-        "name": "STAR (Deluxe Version)",
-        "url": "https://open.spotify.com/album/3ulpgz1vE0A0Mw8wrUbdnn"
-      },
-      "artists": [
-        {
-          "name": "Tombochio",
-          "url": "https://open.spotify.com/artist/76yamFWr2gZGn03EaAbX2r"
-        }
-      ],
-      "duration_ms": 177942,
-      "name": "\u00daLTIMAMENTE",
-      "url": "https://open.spotify.com/track/5MULsNlAMhxUPvDFznwZfo"
     },
     {
       "added_at": "2026-11-20 06:00:29",
@@ -991,6 +991,26 @@
     {
       "added_at": "2026-11-20 06:00:29",
       "album": {
+        "name": "Ooh Laka Laka La",
+        "url": "https://open.spotify.com/album/2DvVwgvTeursrplYuXc1Xj"
+      },
+      "artists": [
+        {
+          "name": "Enrique Iglesias",
+          "url": "https://open.spotify.com/artist/7qG3b048QCHVRO5Pv1T5lw"
+        },
+        {
+          "name": "SANTOS BRAVOS",
+          "url": "https://open.spotify.com/artist/24Vjp1gvnNuNSWJ0vFMZ6G"
+        }
+      ],
+      "duration_ms": 134797,
+      "name": "Ooh Laka Laka La",
+      "url": "https://open.spotify.com/track/1daYqzioWz91LXUzgGYwjA"
+    },
+    {
+      "added_at": "2026-11-20 06:00:29",
+      "album": {
         "name": "Cuando No Era Cantante (Remix)",
         "url": "https://open.spotify.com/album/544ufGb3kucRiYrB93cteJ"
       },
@@ -1015,26 +1035,6 @@
       "duration_ms": 327488,
       "name": "Cuando No Era Cantante - Remix",
       "url": "https://open.spotify.com/track/2pbSCYzxrG0wa6qcj8IyiE"
-    },
-    {
-      "added_at": "2026-11-20 06:00:29",
-      "album": {
-        "name": "Ooh Laka Laka La",
-        "url": "https://open.spotify.com/album/2DvVwgvTeursrplYuXc1Xj"
-      },
-      "artists": [
-        {
-          "name": "Enrique Iglesias",
-          "url": "https://open.spotify.com/artist/7qG3b048QCHVRO5Pv1T5lw"
-        },
-        {
-          "name": "SANTOS BRAVOS",
-          "url": "https://open.spotify.com/artist/24Vjp1gvnNuNSWJ0vFMZ6G"
-        }
-      ],
-      "duration_ms": 134797,
-      "name": "Ooh Laka Laka La",
-      "url": "https://open.spotify.com/track/1daYqzioWz91LXUzgGYwjA"
     },
     {
       "added_at": "2026-11-20 06:00:29",
@@ -1391,22 +1391,22 @@
     {
       "added_at": "2026-11-20 06:00:29",
       "album": {
-        "name": "HOTEL",
-        "url": "https://open.spotify.com/album/67a6fNLaEqegUlJqwUIZBl"
+        "name": "A La Luz De La luna",
+        "url": "https://open.spotify.com/album/5FknMjAXtPKD26VySnMtNs"
       },
       "artists": [
         {
-          "name": "Yng Lvcas",
-          "url": "https://open.spotify.com/artist/1NNRWkhwmcXRimFYSBpB1y"
+          "name": "Pepe Walker",
+          "url": "https://open.spotify.com/artist/77R9hp0RJqY3frwTqmQLGZ"
         },
         {
-          "name": "Bohemio",
-          "url": "https://open.spotify.com/artist/2mtVUHNMxLAnBFD6wVmdEH"
+          "name": "Gabito Ballesteros",
+          "url": "https://open.spotify.com/artist/6Sbl0NT50roqWvy746MfVf"
         }
       ],
-      "duration_ms": 153745,
-      "name": "HOTEL",
-      "url": "https://open.spotify.com/track/14DsN6NTIqzJ1hbRjy0t3j"
+      "duration_ms": 165212,
+      "name": "A La Luz De La luna",
+      "url": "https://open.spotify.com/track/6VZiBmPwjTdNjyrOLKkCNa"
     }
   ],
   "unique_name": "Top M\u00e9xico",

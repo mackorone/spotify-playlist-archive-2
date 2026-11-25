@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0I5DUY.md) - [plain]
 
 > This is Los Cadetes De Linares\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 246,290 likes - 50 songs - 2 hr 24 min
+[Spotify](https://open.spotify.com/user/spotify) - 246,302 likes - 50 songs - 2 hr 24 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0I5DUY.md) - [plain]
 | 49 | [Un Noble Engaño](https://open.spotify.com/track/6xmQN57KeoivWxIah2OLPg) | [Los Cadetes De Linares](https://open.spotify.com/artist/1iIxNEvPPmdFIIP0tdpw6G) | [Un Noble Engaño](https://open.spotify.com/album/6vPSI7T4CRvX00PpyqLmKO) | 3:03 |
 | 50 | [Sabor de Engaño](https://open.spotify.com/track/1ucR3VU4afYj9xKBulkBjS) | [Los Cadetes De Linares](https://open.spotify.com/artist/1iIxNEvPPmdFIIP0tdpw6G) | [15 Boleros de Oro](https://open.spotify.com/album/7GqZKE68HTdrIGkRpa81w6) | 3:07 |
 
-Snapshot ID: `awIwgAAAAAABPLcZjT4Z3Bqju+gS4YuU`
+Snapshot ID: `awOCAAAAAABNk38q14IXaPB7Wvu+JUXL`

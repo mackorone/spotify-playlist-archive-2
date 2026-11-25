@@ -6,7 +6,7 @@
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "awIwgAAAAABeIeFlg8tx0CGufYhli/PV",
+  "snapshot_id": "awOCAAAAAACwtB16+xV5VRu0b2vR88KZ",
   "tracks": [
     {
       "added_at": null,
@@ -43,22 +43,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "From Here to Infirmary",
-        "url": "https://open.spotify.com/album/7gtS3OJQlbZg16KZ59Qyhh"
-      },
-      "artists": [
-        {
-          "name": "Alkaline Trio",
-          "url": "https://open.spotify.com/artist/1aEYCT7t18aM3VvM6y8oVR"
-        }
-      ],
-      "duration_ms": 210173,
-      "name": "Private Eye",
-      "url": "https://open.spotify.com/track/3pKd2WdIgHxw9ztbAjWUJ6"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Remains",
         "url": "https://open.spotify.com/album/6U1NRLEie1cPXfDt2kf8Nz"
       },
@@ -91,6 +75,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "From Here to Infirmary",
+        "url": "https://open.spotify.com/album/7gtS3OJQlbZg16KZ59Qyhh"
+      },
+      "artists": [
+        {
+          "name": "Alkaline Trio",
+          "url": "https://open.spotify.com/artist/1aEYCT7t18aM3VvM6y8oVR"
+        }
+      ],
+      "duration_ms": 210173,
+      "name": "Private Eye",
+      "url": "https://open.spotify.com/track/3pKd2WdIgHxw9ztbAjWUJ6"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Crimson",
         "url": "https://open.spotify.com/album/3VKf6mjVtOgynbmAxH0H6F"
       },
@@ -103,22 +103,6 @@
       "duration_ms": 251986,
       "name": "Time to Waste",
       "url": "https://open.spotify.com/track/6q0058HsQQ7Ch3SrvcatAD"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "From Here to Infirmary",
-        "url": "https://open.spotify.com/album/7gtS3OJQlbZg16KZ59Qyhh"
-      },
-      "artists": [
-        {
-          "name": "Alkaline Trio",
-          "url": "https://open.spotify.com/artist/1aEYCT7t18aM3VvM6y8oVR"
-        }
-      ],
-      "duration_ms": 143533,
-      "name": "Stupid Kid",
-      "url": "https://open.spotify.com/track/1vb6phGMBr133Y4bwKxrsT"
     },
     {
       "added_at": null,
@@ -159,6 +143,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "From Here to Infirmary",
+        "url": "https://open.spotify.com/album/7gtS3OJQlbZg16KZ59Qyhh"
+      },
+      "artists": [
+        {
+          "name": "Alkaline Trio",
+          "url": "https://open.spotify.com/artist/1aEYCT7t18aM3VvM6y8oVR"
+        }
+      ],
+      "duration_ms": 143533,
+      "name": "Stupid Kid",
+      "url": "https://open.spotify.com/track/1vb6phGMBr133Y4bwKxrsT"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Good Mourning",
         "url": "https://open.spotify.com/album/1iT5nziNpSIeIFWB1Vx8hq"
       },
@@ -171,22 +171,6 @@
       "duration_ms": 227026,
       "name": "This Could Be Love",
       "url": "https://open.spotify.com/track/0jFqJQtQs9BjogBXNzK5Ag"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "From Here to Infirmary",
-        "url": "https://open.spotify.com/album/7gtS3OJQlbZg16KZ59Qyhh"
-      },
-      "artists": [
-        {
-          "name": "Alkaline Trio",
-          "url": "https://open.spotify.com/artist/1aEYCT7t18aM3VvM6y8oVR"
-        }
-      ],
-      "duration_ms": 169173,
-      "name": "Armageddon",
-      "url": "https://open.spotify.com/track/4vjr73F3KT000ii3fzPrib"
     },
     {
       "added_at": null,
@@ -207,8 +191,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Agony & Irony (Deluxe Edition)",
-        "url": "https://open.spotify.com/album/4QbqynBp5vF2eyJpCSOe0l"
+        "name": "Remains",
+        "url": "https://open.spotify.com/album/6U1NRLEie1cPXfDt2kf8Nz"
       },
       "artists": [
         {
@@ -216,9 +200,25 @@
           "url": "https://open.spotify.com/artist/1aEYCT7t18aM3VvM6y8oVR"
         }
       ],
-      "duration_ms": 224600,
-      "name": "Help Me",
-      "url": "https://open.spotify.com/track/2RHNirj8PxX3g6FBiHMney"
+      "duration_ms": 207213,
+      "name": "Jaked on Green Beers",
+      "url": "https://open.spotify.com/track/3Xaaa4IOhf3x4rzI2Xfkfe"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "From Here to Infirmary",
+        "url": "https://open.spotify.com/album/7gtS3OJQlbZg16KZ59Qyhh"
+      },
+      "artists": [
+        {
+          "name": "Alkaline Trio",
+          "url": "https://open.spotify.com/artist/1aEYCT7t18aM3VvM6y8oVR"
+        }
+      ],
+      "duration_ms": 169173,
+      "name": "Armageddon",
+      "url": "https://open.spotify.com/track/4vjr73F3KT000ii3fzPrib"
     },
     {
       "added_at": null,
@@ -239,8 +239,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "From Here to Infirmary",
-        "url": "https://open.spotify.com/album/7gtS3OJQlbZg16KZ59Qyhh"
+        "name": "Agony & Irony (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/4QbqynBp5vF2eyJpCSOe0l"
       },
       "artists": [
         {
@@ -248,25 +248,9 @@
           "url": "https://open.spotify.com/artist/1aEYCT7t18aM3VvM6y8oVR"
         }
       ],
-      "duration_ms": 185400,
-      "name": "Mr. Chainsaw",
-      "url": "https://open.spotify.com/track/2LAL6TJoTWhqvI5b0rfYTV"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Remains",
-        "url": "https://open.spotify.com/album/6U1NRLEie1cPXfDt2kf8Nz"
-      },
-      "artists": [
-        {
-          "name": "Alkaline Trio",
-          "url": "https://open.spotify.com/artist/1aEYCT7t18aM3VvM6y8oVR"
-        }
-      ],
-      "duration_ms": 207213,
-      "name": "Jaked on Green Beers",
-      "url": "https://open.spotify.com/track/3Xaaa4IOhf3x4rzI2Xfkfe"
+      "duration_ms": 224600,
+      "name": "Help Me",
+      "url": "https://open.spotify.com/track/2RHNirj8PxX3g6FBiHMney"
     },
     {
       "added_at": null,
@@ -283,6 +267,22 @@
       "duration_ms": 245373,
       "name": "Burn",
       "url": "https://open.spotify.com/track/2gnxN79ZSX9bOZsAXsQEmk"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "From Here to Infirmary",
+        "url": "https://open.spotify.com/album/7gtS3OJQlbZg16KZ59Qyhh"
+      },
+      "artists": [
+        {
+          "name": "Alkaline Trio",
+          "url": "https://open.spotify.com/artist/1aEYCT7t18aM3VvM6y8oVR"
+        }
+      ],
+      "duration_ms": 185400,
+      "name": "Mr. Chainsaw",
+      "url": "https://open.spotify.com/track/2LAL6TJoTWhqvI5b0rfYTV"
     },
     {
       "added_at": null,
@@ -403,22 +403,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Muppets: The Green Album",
-        "url": "https://open.spotify.com/album/77klgRm6FxdgXYArYvXGYj"
-      },
-      "artists": [
-        {
-          "name": "Alkaline Trio",
-          "url": "https://open.spotify.com/artist/1aEYCT7t18aM3VvM6y8oVR"
-        }
-      ],
-      "duration_ms": 153840,
-      "name": "Movin' Right Along",
-      "url": "https://open.spotify.com/track/0avaVpOJTKyV87oMmjVMXw"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Good Mourning",
         "url": "https://open.spotify.com/album/1iT5nziNpSIeIFWB1Vx8hq"
       },
@@ -431,6 +415,22 @@
       "duration_ms": 240213,
       "name": "All on Black",
       "url": "https://open.spotify.com/track/3bW28EUV2h0gBv0hCIdMYH"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Muppets: The Green Album",
+        "url": "https://open.spotify.com/album/77klgRm6FxdgXYArYvXGYj"
+      },
+      "artists": [
+        {
+          "name": "Alkaline Trio",
+          "url": "https://open.spotify.com/artist/1aEYCT7t18aM3VvM6y8oVR"
+        }
+      ],
+      "duration_ms": 153840,
+      "name": "Movin' Right Along",
+      "url": "https://open.spotify.com/track/0avaVpOJTKyV87oMmjVMXw"
     },
     {
       "added_at": null,
@@ -499,22 +499,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "The Alkaline Trio",
-        "url": "https://open.spotify.com/album/0H1aJgfXxsVNzfpAlKGhtH"
-      },
-      "artists": [
-        {
-          "name": "Alkaline Trio",
-          "url": "https://open.spotify.com/artist/1aEYCT7t18aM3VvM6y8oVR"
-        }
-      ],
-      "duration_ms": 134880,
-      "name": "My Friend Peter",
-      "url": "https://open.spotify.com/track/7s5Q2uZ3NcolrQnyCZx0zX"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "This Addiction (Deluxe Edition)",
         "url": "https://open.spotify.com/album/4otoRgtApYRPsuxrW3Xaxj"
       },
@@ -527,6 +511,22 @@
       "duration_ms": 154866,
       "name": "This Addiction",
       "url": "https://open.spotify.com/track/2LI6D6z57Lq2QTQH6Tgsz0"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "The Alkaline Trio",
+        "url": "https://open.spotify.com/album/0H1aJgfXxsVNzfpAlKGhtH"
+      },
+      "artists": [
+        {
+          "name": "Alkaline Trio",
+          "url": "https://open.spotify.com/artist/1aEYCT7t18aM3VvM6y8oVR"
+        }
+      ],
+      "duration_ms": 134880,
+      "name": "My Friend Peter",
+      "url": "https://open.spotify.com/track/7s5Q2uZ3NcolrQnyCZx0zX"
     },
     {
       "added_at": null,
@@ -707,22 +707,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Split",
-        "url": "https://open.spotify.com/album/7d7Kr9pgXTuYx6buE5kcHw"
-      },
-      "artists": [
-        {
-          "name": "Alkaline Trio",
-          "url": "https://open.spotify.com/artist/1aEYCT7t18aM3VvM6y8oVR"
-        }
-      ],
-      "duration_ms": 237813,
-      "name": "Queen Of Pain",
-      "url": "https://open.spotify.com/track/38F8SEbblEVwEm8HByJ0yE"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Surprise Surprise",
         "url": "https://open.spotify.com/album/0FDA1qgav59oEQxtu8fZBc"
       },
@@ -735,6 +719,22 @@
       "duration_ms": 253257,
       "name": "Surprise Surprise",
       "url": "https://open.spotify.com/track/3pM6JXD9ELe2GATA6NXyQt"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Split",
+        "url": "https://open.spotify.com/album/7d7Kr9pgXTuYx6buE5kcHw"
+      },
+      "artists": [
+        {
+          "name": "Alkaline Trio",
+          "url": "https://open.spotify.com/artist/1aEYCT7t18aM3VvM6y8oVR"
+        }
+      ],
+      "duration_ms": 237813,
+      "name": "Queen Of Pain",
+      "url": "https://open.spotify.com/track/38F8SEbblEVwEm8HByJ0yE"
     },
     {
       "added_at": null,
@@ -755,22 +755,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Goddamnit!",
-        "url": "https://open.spotify.com/album/6600hazblXXS27uIdcPLBs"
-      },
-      "artists": [
-        {
-          "name": "Alkaline Trio",
-          "url": "https://open.spotify.com/artist/1aEYCT7t18aM3VvM6y8oVR"
-        }
-      ],
-      "duration_ms": 143893,
-      "name": "Cringe",
-      "url": "https://open.spotify.com/track/7ybKcYQZbAF7QGSovgqwPQ"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Crimson",
         "url": "https://open.spotify.com/album/3VKf6mjVtOgynbmAxH0H6F"
       },
@@ -783,6 +767,22 @@
       "duration_ms": 124560,
       "name": "The Poison",
       "url": "https://open.spotify.com/track/2uO0Rd59JF7D1pWBUwEWKg"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Goddamnit!",
+        "url": "https://open.spotify.com/album/6600hazblXXS27uIdcPLBs"
+      },
+      "artists": [
+        {
+          "name": "Alkaline Trio",
+          "url": "https://open.spotify.com/artist/1aEYCT7t18aM3VvM6y8oVR"
+        }
+      ],
+      "duration_ms": 143893,
+      "name": "Cringe",
+      "url": "https://open.spotify.com/track/7ybKcYQZbAF7QGSovgqwPQ"
     },
     {
       "added_at": null,

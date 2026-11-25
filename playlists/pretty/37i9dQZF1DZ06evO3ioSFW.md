@@ -4,18 +4,18 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3ioSFW.md) - [plain]
 
 > This is Yuridia\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 546,638 likes - 50 songs - 2 hr 58 min
+[Spotify](https://open.spotify.com/user/spotify) - 546,798 likes - 50 songs - 2 hr 58 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [Ya Te Olvidé](https://open.spotify.com/track/4FsVB8msXzmemjJdTKUoal) | [Yuridia](https://open.spotify.com/artist/5B8ApeENp4bE4EE3LI8jK2) | [Para Mí](https://open.spotify.com/album/0nN4sE3MnNnZQSCXcYFiF0) | 3:31 |
 | 2 | [Sin Llorar](https://open.spotify.com/track/2KH3bdA7lQn2b86fCYUJFE) | [Yuridia](https://open.spotify.com/artist/5B8ApeENp4bE4EE3LI8jK2) | [Sin Llorar](https://open.spotify.com/album/3KPjzXi1TgFbGtHNO57tnC) | 3:42 |
 | 3 | [Eres Mi Nada](https://open.spotify.com/track/0c0NnNE5ZDrR09ss5tM13G) | [Yuridia](https://open.spotify.com/artist/5B8ApeENp4bE4EE3LI8jK2) | [Eres Mi Nada / Tu Pasado y Tú](https://open.spotify.com/album/0BZ3dO6C8OGRRyXfV9FLhE) | 2:51 |
-| 4 | [Me Hace Tanto Bien](https://open.spotify.com/track/0J87ieRdbGPItHA6qc3KCr) | [Yuridia](https://open.spotify.com/artist/5B8ApeENp4bE4EE3LI8jK2), [Eden Muñoz](https://open.spotify.com/artist/1gJdf4Yybu4X5A2xYV3NMV) | [Pa' Luego Es Tarde](https://open.spotify.com/album/4l8OrF24fhXsCFF6wvP5fE) | 3:51 |
+| 4 | [Qué Agonía](https://open.spotify.com/track/4H6o1bxKRGzmsE0vzo968m) | [Yuridia](https://open.spotify.com/artist/5B8ApeENp4bE4EE3LI8jK2), [Ángela Aguilar](https://open.spotify.com/artist/3abT87tqQ4Q5PA5nw6CYyH) | [Pa' Luego Es Tarde](https://open.spotify.com/album/4l8OrF24fhXsCFF6wvP5fE) | 2:32 |
 | 5 | [Bajón Emocional](https://open.spotify.com/track/19X9Y3l16W6wPUKJwiwHdC) | [Yuridia](https://open.spotify.com/artist/5B8ApeENp4bE4EE3LI8jK2) | [Bajón Emocional](https://open.spotify.com/album/0DFSDliY3G4lBL76rwipGm) | 3:17 |
 | 6 | [Amigos No por Favor \(Primera Fila\) \- En Vivo](https://open.spotify.com/track/2hyAEExgoEfxrVJKUJTqZV) | [Yuridia](https://open.spotify.com/artist/5B8ApeENp4bE4EE3LI8jK2) | [Primera Fila \(En Vivo\)](https://open.spotify.com/album/59AvNgPPcI6C8o3kuWfZQG) | 3:45 |
 | 7 | [Te Equivocaste](https://open.spotify.com/track/4QS7axg5vSSSbR7CA3z5QU) | [Yuridia](https://open.spotify.com/artist/5B8ApeENp4bE4EE3LI8jK2) | [6](https://open.spotify.com/album/1K33cjiOp7BN2ZMR4BgXbG) | 4:04 |
-| 8 | [Qué Agonía](https://open.spotify.com/track/4H6o1bxKRGzmsE0vzo968m) | [Yuridia](https://open.spotify.com/artist/5B8ApeENp4bE4EE3LI8jK2), [Ángela Aguilar](https://open.spotify.com/artist/3abT87tqQ4Q5PA5nw6CYyH) | [Pa' Luego Es Tarde](https://open.spotify.com/album/4l8OrF24fhXsCFF6wvP5fE) | 2:32 |
+| 8 | [Me Hace Tanto Bien](https://open.spotify.com/track/0J87ieRdbGPItHA6qc3KCr) | [Yuridia](https://open.spotify.com/artist/5B8ApeENp4bE4EE3LI8jK2), [Eden Muñoz](https://open.spotify.com/artist/1gJdf4Yybu4X5A2xYV3NMV) | [Pa' Luego Es Tarde](https://open.spotify.com/album/4l8OrF24fhXsCFF6wvP5fE) | 3:51 |
 | 9 | [Lo Que Son las Cosas](https://open.spotify.com/track/7GprMlRqZpBd6LYqar2hBv) | [Yuridia](https://open.spotify.com/artist/5B8ApeENp4bE4EE3LI8jK2) | [Para Mí](https://open.spotify.com/album/0nN4sE3MnNnZQSCXcYFiF0) | 3:54 |
 | 10 | [Tu Pasado y Tú](https://open.spotify.com/track/2F5LR4CswVxmU82WNAhhQC) | [Yuridia](https://open.spotify.com/artist/5B8ApeENp4bE4EE3LI8jK2) | [Eres Mi Nada / Tu Pasado y Tú](https://open.spotify.com/album/0BZ3dO6C8OGRRyXfV9FLhE) | 3:02 |
 | 11 | [Él Lo Tiene Todo](https://open.spotify.com/track/5AV4sa9x9Qt3CYUIUbUadZ) | [Yuridia](https://open.spotify.com/artist/5B8ApeENp4bE4EE3LI8jK2) | [Él Lo Tiene Todo](https://open.spotify.com/album/1LGkKJvNJbYTeKcMzzECN5) | 3:34 |
@@ -46,12 +46,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3ioSFW.md) - [plain]
 | 36 | [Yo Te Prefiero a Ti](https://open.spotify.com/track/0LuHppPzpqZ6lxdpmjmAz8) | [Río Roma](https://open.spotify.com/artist/2O3v9rCTzLhPFaGaAVgZLt), [Yuridia](https://open.spotify.com/artist/5B8ApeENp4bE4EE3LI8jK2) | [Rojo](https://open.spotify.com/album/3n0zkanqLGhc1R0O7Ddl1G) | 3:32 |
 | 37 | [Respóndeme Tú \(Primera Fila\) \(feat\. Pepe Aguilar\) \- En Vivo](https://open.spotify.com/track/2nFcMS2GvgK1vZmtnnZ6d7) | [Yuridia](https://open.spotify.com/artist/5B8ApeENp4bE4EE3LI8jK2), [Pepe Aguilar](https://open.spotify.com/artist/03Yb3iBy9GCifXiATEFcit) | [Primera Fila \(En Vivo\)](https://open.spotify.com/album/59AvNgPPcI6C8o3kuWfZQG) | 3:25 |
 | 38 | [Un Bendito Día](https://open.spotify.com/track/12jZ2WSziAxeJqMwOmz6jV) | [Yuridia](https://open.spotify.com/artist/5B8ApeENp4bE4EE3LI8jK2), [Alejandro Fernández](https://open.spotify.com/artist/6sq1yF0OZEWA4xoXVKW1L9) | [Sin Llorar](https://open.spotify.com/album/3KPjzXi1TgFbGtHNO57tnC) | 3:31 |
-| 39 | [Me Olvidarás](https://open.spotify.com/track/3702UGFpHLtMh25rZoSbVx) | [Yuridia](https://open.spotify.com/artist/5B8ApeENp4bE4EE3LI8jK2) | [Nada Es Color De Rosa](https://open.spotify.com/album/0bD5fShn27gOBTTh2PI5Ln) | 4:15 |
-| 40 | [Lo Siento Mi Amor](https://open.spotify.com/track/3336v3uxCP78aPN2wetZjx) | [Yuridia](https://open.spotify.com/artist/5B8ApeENp4bE4EE3LI8jK2) | [La Voz de un Ángel](https://open.spotify.com/album/7C00pR2m5tkpqjRczIdbqw) | 4:02 |
+| 39 | [Lo Siento Mi Amor](https://open.spotify.com/track/3336v3uxCP78aPN2wetZjx) | [Yuridia](https://open.spotify.com/artist/5B8ApeENp4bE4EE3LI8jK2) | [La Voz de un Ángel](https://open.spotify.com/album/7C00pR2m5tkpqjRczIdbqw) | 4:02 |
+| 40 | [Me Olvidarás](https://open.spotify.com/track/3702UGFpHLtMh25rZoSbVx) | [Yuridia](https://open.spotify.com/artist/5B8ApeENp4bE4EE3LI8jK2) | [Nada Es Color De Rosa](https://open.spotify.com/album/0bD5fShn27gOBTTh2PI5Ln) | 4:15 |
 | 41 | [Ahora Entendi](https://open.spotify.com/track/3ExYgqotmwh9sG0hs3Zjqw) | [Yuridia](https://open.spotify.com/artist/5B8ApeENp4bE4EE3LI8jK2) | [Entre Mariposas](https://open.spotify.com/album/1jPtvaUml63VAJGOwTixv0) | 3:46 |
 | 42 | [Enamorada y Herida](https://open.spotify.com/track/6HfYJQt9WHhfXKJT8bGdBM) | [Yuridia](https://open.spotify.com/artist/5B8ApeENp4bE4EE3LI8jK2) | [Para Mí](https://open.spotify.com/album/0nN4sE3MnNnZQSCXcYFiF0) | 3:43 |
-| 43 | [No Me Preguntes Más](https://open.spotify.com/track/7AV5Uh7QsSZuWa9MP4oy9k) | [Yuridia](https://open.spotify.com/artist/5B8ApeENp4bE4EE3LI8jK2) | [Nada Es Color De Rosa](https://open.spotify.com/album/0bD5fShn27gOBTTh2PI5Ln) | 3:59 |
-| 44 | [Eclipse Total del Amor \(Total Eclipse of the Heart\) \(with Patricio Borghetti\)](https://open.spotify.com/track/2rvDPgJnBxnkIRpYwVFrY2) | [Yuridia](https://open.spotify.com/artist/5B8ApeENp4bE4EE3LI8jK2), [Patricio Borghetti](https://open.spotify.com/artist/2Ih1clLteUElCgQc7VYklP) | [Habla el Corazón](https://open.spotify.com/album/4LKPqWQKZjngVlTfGbh8xy) | 5:24 |
+| 43 | [Eclipse Total del Amor \(Total Eclipse of the Heart\) \(with Patricio Borghetti\)](https://open.spotify.com/track/2rvDPgJnBxnkIRpYwVFrY2) | [Yuridia](https://open.spotify.com/artist/5B8ApeENp4bE4EE3LI8jK2), [Patricio Borghetti](https://open.spotify.com/artist/2Ih1clLteUElCgQc7VYklP) | [Habla el Corazón](https://open.spotify.com/album/4LKPqWQKZjngVlTfGbh8xy) | 5:24 |
+| 44 | [No Me Preguntes Más](https://open.spotify.com/track/7AV5Uh7QsSZuWa9MP4oy9k) | [Yuridia](https://open.spotify.com/artist/5B8ApeENp4bE4EE3LI8jK2) | [Nada Es Color De Rosa](https://open.spotify.com/album/0bD5fShn27gOBTTh2PI5Ln) | 3:59 |
 | 45 | [Dime \- En Vivo Desde la Plaza de Toros la México](https://open.spotify.com/track/3qLOy8BOZKF68TYNLJ8SAu) | [Yuridia](https://open.spotify.com/artist/5B8ApeENp4bE4EE3LI8jK2) | [Monumental \(En Vivo Desde la Plaza de Toros la México\)](https://open.spotify.com/album/6JeSToKtEW7j3lgLWQXNmE) | 2:54 |
 | 46 | [Viento y Cielo Alcanzar](https://open.spotify.com/track/7xP1PzRNG24qpTWdtin1Gb) | [Yuridia](https://open.spotify.com/artist/5B8ApeENp4bE4EE3LI8jK2) | [Valiente](https://open.spotify.com/album/4M25KZhSDUMpXklhN3X199) | 2:33 |
 | 47 | [A Dónde Va el Amor](https://open.spotify.com/track/4IXOuSEG9SHehdBRwEdezg) | [Yuridia](https://open.spotify.com/artist/5B8ApeENp4bE4EE3LI8jK2) | [Para Mí](https://open.spotify.com/album/0nN4sE3MnNnZQSCXcYFiF0) | 3:44 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3ioSFW.md) - [plain]
 | 49 | [Pensando Positivo](https://open.spotify.com/track/7c8y7v1RLIn4YvEjSFcTwq) | [Joss Favela](https://open.spotify.com/artist/0EocQPg9ycs21gcvaVm9hh), [Yuridia](https://open.spotify.com/artist/5B8ApeENp4bE4EE3LI8jK2) | [Pensando Positivo](https://open.spotify.com/album/58iuRein03jS4ByY5s8OE1) | 3:13 |
 | 50 | [Con Toda Libertad](https://open.spotify.com/track/2J2PshVOxoKEk8XZzmVnwc) | [Yuridia](https://open.spotify.com/artist/5B8ApeENp4bE4EE3LI8jK2) | [Valiente](https://open.spotify.com/album/4M25KZhSDUMpXklhN3X199) | 2:41 |
 
-Snapshot ID: `awIwgAAAAADlZ7+7UsLAIGlKePzHBB9J`
+Snapshot ID: `awOCAAAAAABmYNqwLyeMOjoEZaVa0TIW`

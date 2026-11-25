@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2NM7Yf.md) - [plain]
 
 > This is Meg Smith\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 488 likes - 28 songs - 1 hr 20 min
+[Spotify](https://open.spotify.com/user/spotify) - 487 likes - 28 songs - 1 hr 20 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -37,4 +37,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2NM7Yf.md) - [plain]
 | 27 | [Why Do I Keep Playing It](https://open.spotify.com/track/7AxloZ14VKQ1ac6QNZQjem) | [Meg Smith](https://open.spotify.com/artist/4MfdeUAPPDpi4xdc1jvnwg) | [Cross My Heart I Hope U Die](https://open.spotify.com/album/1FediPQ7sTybNA5NfXjOKx) | 2:45 |
 | 28 | [Who Not to Love](https://open.spotify.com/track/0p69ggdl6UOeBnSf4dn8o8) | [Meg Smith](https://open.spotify.com/artist/4MfdeUAPPDpi4xdc1jvnwg) | [Who Not to Love](https://open.spotify.com/album/5y0KsMeMor5EGBOtsVIfzw) | 3:05 |
 
-Snapshot ID: `awIwgAAAAAAPhyI5/NDWcSIGYnySVxMU`
+Snapshot ID: `awOCAAAAAACkQG9Hs1lq7d1ebXSxU32m`

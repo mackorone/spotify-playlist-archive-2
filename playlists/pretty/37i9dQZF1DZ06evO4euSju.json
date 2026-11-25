@@ -6,7 +6,7 @@
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "awIwgAAAAABM4SKQWCUVwshfO2iCNZnj",
+  "snapshot_id": "awOCAAAAAADKfnck0rH/2p9uxqh6Mj5o",
   "tracks": [
     {
       "added_at": null,
@@ -108,9 +108,9 @@
           "url": "https://open.spotify.com/artist/79HbBkVgOVUuVhuTJ50pIx"
         }
       ],
-      "duration_ms": 250841,
-      "name": "Don't Mind",
-      "url": "https://open.spotify.com/track/17zTi5qIudDrPKoorQuYs3"
+      "duration_ms": 243405,
+      "name": "Wishing Well",
+      "url": "https://open.spotify.com/track/0h3DlFT7aOFZiKuS6EsLm0"
     },
     {
       "added_at": null,
@@ -140,9 +140,9 @@
           "url": "https://open.spotify.com/artist/79HbBkVgOVUuVhuTJ50pIx"
         }
       ],
-      "duration_ms": 230817,
-      "name": "Swallow",
-      "url": "https://open.spotify.com/track/5zodPVnHmq8hOERLIDBmpC"
+      "duration_ms": 263029,
+      "name": "Dweeb",
+      "url": "https://open.spotify.com/track/2rJs5L8S6ivX0Bhk1snhUm"
     },
     {
       "added_at": null,
@@ -172,9 +172,9 @@
           "url": "https://open.spotify.com/artist/79HbBkVgOVUuVhuTJ50pIx"
         }
       ],
-      "duration_ms": 243405,
-      "name": "Wishing Well",
-      "url": "https://open.spotify.com/track/0h3DlFT7aOFZiKuS6EsLm0"
+      "duration_ms": 250841,
+      "name": "Don't Mind",
+      "url": "https://open.spotify.com/track/17zTi5qIudDrPKoorQuYs3"
     },
     {
       "added_at": null,
@@ -204,9 +204,9 @@
           "url": "https://open.spotify.com/artist/79HbBkVgOVUuVhuTJ50pIx"
         }
       ],
-      "duration_ms": 263029,
-      "name": "Dweeb",
-      "url": "https://open.spotify.com/track/2rJs5L8S6ivX0Bhk1snhUm"
+      "duration_ms": 230817,
+      "name": "Swallow",
+      "url": "https://open.spotify.com/track/5zodPVnHmq8hOERLIDBmpC"
     },
     {
       "added_at": null,

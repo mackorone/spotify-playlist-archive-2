@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX654l3fFiq56.md) - [plain]
 
 > 雞年生的人謙虛謹慎、端莊尊貴，而且經常是眾人的注目焦點哦！看看有哪些歌手吧！Cover: 林俊傑 \(JJ Lin\)
 
-[Spotify](https://open.spotify.com/user/spotify) - 14,362 likes - 42 songs - 2 hr 47 min
+[Spotify](https://open.spotify.com/user/spotify) - 14,359 likes - 42 songs - 2 hr 47 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -25,7 +25,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX654l3fFiq56.md) - [plain]
 | 15 | [親愛的小孩](https://open.spotify.com/track/05wxKK9H471Y7RS8lUnk9Y) | [Rene Liu](https://open.spotify.com/artist/6qzfo7jiO4OrhxrvPFPlWX), [王寶強](https://open.spotify.com/artist/7eotA2FjlKFkWO94ilJb8p) | [親愛的小孩](https://open.spotify.com/album/7p5DKys0DhkoJ2WzALam97) | 4:42 |
 | 16 | [Rewind](https://open.spotify.com/track/1Z0sk4J3E8Nc7ELs1UWG3x) | [Selina](https://open.spotify.com/artist/322fcjb9quEAxAXtmWyNeJ) | [Rewind](https://open.spotify.com/album/3QO2j6MBJjtVKA2iSCoQAc) | 2:47 |
 | 17 | [夢裡花落知多少\(今生篇\)](https://open.spotify.com/track/3CBOrr4pt2CmL0pyvBKebB) | [孟庭葦](https://open.spotify.com/artist/2Ovp3J8JzCirwcGAgvK9cQ) | [夢裡花落知多少\(今生篇\)](https://open.spotify.com/album/2jFjQ2Aovi5ftlr41ReNOj) | 3:25 |
-| 18 | [集體孤獨 Being Lonesome Together](https://open.spotify.com/track/6LaxVtnbsRhRZ9Qssfsj73) | [Nicholas Teo](https://open.spotify.com/artist/2met7Idcy1Ze7hnoUtpPmX) | [集體孤獨 Being Lonesome Together](https://open.spotify.com/album/1eM4ypMWnrm50Tp98pnv0a) | 3:33 |
+| 18 | [集體孤獨 Being Lonesome Together](https://open.spotify.com/track/6LaxVtnbsRhRZ9Qssfsj73) | [Nicholas Teo張棟樑](https://open.spotify.com/artist/2met7Idcy1Ze7hnoUtpPmX) | [集體孤獨 Being Lonesome Together](https://open.spotify.com/album/1eM4ypMWnrm50Tp98pnv0a) | 3:33 |
 | 19 | [99](https://open.spotify.com/track/17cxua75ZCuluD9Wfbwy8w) | [Tizzy T](https://open.spotify.com/artist/1ShC8iSQrfdxlSbtIXfCaa) | [99](https://open.spotify.com/album/7m9ZTCJkt3JQg6qoEdMBgn) | 4:42 |
 | 20 | [心安即是歸處](https://open.spotify.com/track/0u9bxTSi0K3GhOtte2azMd) | [E\-Jun Lee](https://open.spotify.com/artist/39YbP9PakVwqfXFtRdn5vI) | [心安即是歸處](https://open.spotify.com/album/1IUuIESjb4BZJ6O4Q6dKOK) | 4:44 |
 | 21 | [SEMI\-FINAL](https://open.spotify.com/track/6hJ6Ws24hrcnt3eRyqk2MU) | [J\. WALK](https://open.spotify.com/artist/4YSoOO88r7dAftFHvGkYFP) | [SEMI\-FINAL](https://open.spotify.com/album/2f3WhJGOgW4IAUmQKjijEV) | 2:51 |
@@ -46,9 +46,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX654l3fFiq56.md) - [plain]
 | 36 | [後來](https://open.spotify.com/track/2wzXhxWPX0aODraKNXoJYY) | [Rene Liu](https://open.spotify.com/artist/6qzfo7jiO4OrhxrvPFPlWX) | [我等你](https://open.spotify.com/album/2P6sQ9RlHZQv0FOK0X3P3B) | 5:41 |
 | 37 | [心如止水](https://open.spotify.com/track/45mkA7zdhjdl3qajixhiJt) | [Selina](https://open.spotify.com/artist/322fcjb9quEAxAXtmWyNeJ) | [心如止水](https://open.spotify.com/album/4DNdTOLbWP90QOCglGFeSr) | 4:02 |
 | 38 | [冬季到台北來看雨](https://open.spotify.com/track/59db3kNoPFmph8WgnGRzw0) | [孟庭葦](https://open.spotify.com/artist/2Ovp3J8JzCirwcGAgvK9cQ) | [冬季到台北來看雨](https://open.spotify.com/album/3NB932AkcvgzMNkxUEAyad) | 5:09 |
-| 39 | [当你孤单你会想起谁](https://open.spotify.com/track/558dTfMGywYbzFX0zVU4aC) | [Nicholas Teo](https://open.spotify.com/artist/2met7Idcy1Ze7hnoUtpPmX) | [From Now On 新歌＋精选](https://open.spotify.com/album/5KM8hybz2fW6ThBDWETbX1) | 4:15 |
+| 39 | [当你孤单你会想起谁](https://open.spotify.com/track/558dTfMGywYbzFX0zVU4aC) | [Nicholas Teo張棟樑](https://open.spotify.com/artist/2met7Idcy1Ze7hnoUtpPmX) | [From Now On 新歌＋精选](https://open.spotify.com/album/5KM8hybz2fW6ThBDWETbX1) | 4:15 |
 | 40 | [冷戰](https://open.spotify.com/track/4fq1wnzohJvzP1yhx5kQQw) | [Tizzy T](https://open.spotify.com/artist/1ShC8iSQrfdxlSbtIXfCaa), [Vinida Weng](https://open.spotify.com/artist/6oYvpkS6pM9ts4nbXRaINg) | [做舊](https://open.spotify.com/album/3MBFGMhVo9a0nlXbH9CONV) | 3:43 |
 | 41 | [雨蝶](https://open.spotify.com/track/4PLVAN7d2k4brMHmFTjKRa) | [E\-Jun Lee](https://open.spotify.com/artist/39YbP9PakVwqfXFtRdn5vI) | [誓言謊言](https://open.spotify.com/album/1kTSEPqCFKUYDrk18OlCDo) | 3:50 |
 | 42 | [玉蘭](https://open.spotify.com/track/3TWobisc8YIIIe24QFsRz0) | [J\. WALK](https://open.spotify.com/artist/4YSoOO88r7dAftFHvGkYFP) | [玉蘭](https://open.spotify.com/album/4SeVQIQ7MklclsPKJBwnb8) | 3:15 |
 
-Snapshot ID: `AAAAACqKJfnyoRFOouQRpmIkKKWw3kd+`
+Snapshot ID: `AAAAAFchQ8ok+zt6CiMDA68HcFqiEH5f`

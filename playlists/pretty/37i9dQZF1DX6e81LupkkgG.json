@@ -1,12 +1,12 @@
 {
   "description": "M\u00fasicas aconchegantes para aquecer a alma nos dias frios.",
-  "num_followers": 328550,
+  "num_followers": 328538,
   "original_name": "Friozinho",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAKAJiM50HoocLgomplKGZbf9/MYk",
+  "snapshot_id": "AAAAANR0BgqPo9lcIGAxDZP9u8ELvu/K",
   "tracks": [
     {
       "added_at": "2025-06-20 19:25:41",
@@ -751,22 +751,6 @@
     {
       "added_at": "2025-06-20 19:25:41",
       "album": {
-        "name": "Do You Like Me?",
-        "url": "https://open.spotify.com/album/1Jlpz65a64XDxwAVjufFUG"
-      },
-      "artists": [
-        {
-          "name": "Daniel Caesar",
-          "url": "https://open.spotify.com/artist/20wkVLutqVOYrc0kxFs7rA"
-        }
-      ],
-      "duration_ms": 227663,
-      "name": "Do You Like Me?",
-      "url": "https://open.spotify.com/track/6q4yusLwjDYEcF6jXHdt7J"
-    },
-    {
-      "added_at": "2025-06-20 19:25:41",
-      "album": {
         "name": "Butterflies (feat. AURORA)",
         "url": "https://open.spotify.com/album/3399XMtHgSm7F0DClLiSsU"
       },
@@ -783,6 +767,22 @@
       "duration_ms": 130666,
       "name": "Butterflies (feat. AURORA)",
       "url": "https://open.spotify.com/track/1dWUBCoztAMZcqec1CAE6z"
+    },
+    {
+      "added_at": "2025-06-20 19:25:41",
+      "album": {
+        "name": "Do You Like Me?",
+        "url": "https://open.spotify.com/album/1Jlpz65a64XDxwAVjufFUG"
+      },
+      "artists": [
+        {
+          "name": "Daniel Caesar",
+          "url": "https://open.spotify.com/artist/20wkVLutqVOYrc0kxFs7rA"
+        }
+      ],
+      "duration_ms": 227663,
+      "name": "Do You Like Me?",
+      "url": "https://open.spotify.com/track/6q4yusLwjDYEcF6jXHdt7J"
     },
     {
       "added_at": "2025-06-20 19:25:41",

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4908CEYEdlz.md) - [plain]
 
 > Lançamentos de rock que você precisa conhecer, AUMENTA O VOLUME! Foto: Queens of the Stoneage
 
-[Spotify](https://open.spotify.com/user/spotify) - 894,575 likes - 75 songs - 4 hr 47 min
+[Spotify](https://open.spotify.com/user/spotify) - 894,435 likes - 75 songs - 4 hr 47 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -17,14 +17,14 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4908CEYEdlz.md) - [plain]
 | 7 | [Unshatter](https://open.spotify.com/track/0D7RVmTlKkmRchqKA4zJht) | [Linkin Park](https://open.spotify.com/artist/6XyY86QOPPrYVGvF9ch6wz) | [Unshatter](https://open.spotify.com/album/56zX5d4lPMLS5dkjLXpOd7) | 3:16 |
 | 8 | [Evergreen](https://open.spotify.com/track/3fLX6yRLD2IkWQUxDJEQ0S) | [Young the Giant](https://open.spotify.com/artist/4j56EQDQu5XnL7R3E9iFJT) | [Victory Garden](https://open.spotify.com/album/70ch2R18v3Zho0SlcN4CAN) | 3:41 |
 | 9 | [Nothing Changes](https://open.spotify.com/track/3lZaRkDVeEHYEDkrWsr1uN) | [Simple Plan](https://open.spotify.com/artist/2p4FqHnazRucYQHyDCdBrJ) | [The Kids In The Crowd \- Music From The Documentary Soundtrack](https://open.spotify.com/album/5VRxr2rH1AMR0k57mF1wAO) | 3:14 |
-| 10 | [In A Life](https://open.spotify.com/track/1fbIlgO7EgYsDzk3r3uRz2) | [U2](https://open.spotify.com/artist/51Blml2LZPmy7TTiAg47vQ) | [Easter Lily EP](https://open.spotify.com/album/1DY06ZzIoHYFQ83jPfm9aF) | 4:33 |
-| 11 | [BRAINDEAD \(feat\. Toby Morse\)](https://open.spotify.com/track/4lSXxf1buHPHRqz4otuxde) | [Papa Roach](https://open.spotify.com/artist/4RddZ3iHvSpGV4dvATac9X), [Toby Morse](https://open.spotify.com/artist/3bUT7vUCfASm9rKV19DAjd) | [BRAINDEAD \(feat\. Toby Morse\)](https://open.spotify.com/album/6K484LDhrNh4mzq95WMPbv) | 3:11 |
+| 10 | [BRAINDEAD \(feat\. Toby Morse\)](https://open.spotify.com/track/4lSXxf1buHPHRqz4otuxde) | [Papa Roach](https://open.spotify.com/artist/4RddZ3iHvSpGV4dvATac9X), [Toby Morse](https://open.spotify.com/artist/3bUT7vUCfASm9rKV19DAjd) | [BRAINDEAD \(feat\. Toby Morse\)](https://open.spotify.com/album/6K484LDhrNh4mzq95WMPbv) | 3:11 |
+| 11 | [In A Life](https://open.spotify.com/track/1fbIlgO7EgYsDzk3r3uRz2) | [U2](https://open.spotify.com/artist/51Blml2LZPmy7TTiAg47vQ) | [Easter Lily EP](https://open.spotify.com/album/1DY06ZzIoHYFQ83jPfm9aF) | 4:33 |
 | 12 | [Hexagons](https://open.spotify.com/track/6dN6m9zDXxLKtckqbLxaPX) | [Muse](https://open.spotify.com/artist/12Chz98pHFMPJEknJQMWvI) | [Hexagons](https://open.spotify.com/album/3KoOHa3ZGsWo85OQv6fRSV) | 5:26 |
 | 13 | [I Will Not Break](https://open.spotify.com/track/3MfqS0MYdNOZ5Xk7itm4jJ) | [Disturbed](https://open.spotify.com/artist/3TOqt5oJwL9BE2NG9MEwDa) | [I Will Not Break](https://open.spotify.com/album/3tstswhmigzOMuCWC4rpwr) | 4:52 |
 | 14 | [Ego](https://open.spotify.com/track/3slE260q9d8ZtFefQZzdVl) | [The Warning](https://open.spotify.com/artist/2SmW1lFlBJn4IfBzBZDlSh) | [Ego](https://open.spotify.com/album/6pqls6IegvNFLdrVbUinvl) | 2:53 |
 | 15 | [Too Far Gone?](https://open.spotify.com/track/2ZPnedMaS4W1de05Xz18hF) | [Metallica](https://open.spotify.com/artist/2ye2Wgw4gimLv2eAKyk1NB) | [72 Seasons](https://open.spotify.com/album/6UwjRSX9RQyNgJ3LwYhr9i) | 4:33 |
-| 16 | [Tipping Point](https://open.spotify.com/track/6jhxeGvYuGY6KHHmUDj8Sv) | [Megadeth](https://open.spotify.com/artist/1Yox196W7bzVNZI7RBaPnf) | [Tipping Point](https://open.spotify.com/album/09fWUtFj5UY5gEJapwj0xa) | 4:28 |
-| 17 | [Glass Half Empty](https://open.spotify.com/track/6rCQjBLxanBaAShpnNsmHh) | [VOILÀ](https://open.spotify.com/artist/6NnBBumbcMYsaPTHFhPtXD) | [Glass Half Empty \(Part I\)](https://open.spotify.com/album/0DGJyFVAhqx3DsnB0eonvA) | 3:38 |
+| 16 | [Glass Half Empty](https://open.spotify.com/track/6rCQjBLxanBaAShpnNsmHh) | [VOILÀ](https://open.spotify.com/artist/6NnBBumbcMYsaPTHFhPtXD) | [Glass Half Empty \(Part I\)](https://open.spotify.com/album/0DGJyFVAhqx3DsnB0eonvA) | 3:38 |
+| 17 | [Tipping Point](https://open.spotify.com/track/6jhxeGvYuGY6KHHmUDj8Sv) | [Megadeth](https://open.spotify.com/artist/1Yox196W7bzVNZI7RBaPnf) | [Tipping Point](https://open.spotify.com/album/09fWUtFj5UY5gEJapwj0xa) | 4:28 |
 | 18 | [Sepsis](https://open.spotify.com/track/3ScIZdvkqGTrhW4hZDIL00) | [Lamb of God](https://open.spotify.com/artist/3JFsVIxOn7STeilPICkkB2) | [Sepsis](https://open.spotify.com/album/3M2vuwAY3UtNNvGiclTR7V) | 3:38 |
 | 19 | [She Does It Right](https://open.spotify.com/track/1pO3dqvwGvCQzRQV67xfZd) | [The Black Keys](https://open.spotify.com/artist/7mnBLXK823vNxN3UWB7Gfz) | [Peaches!](https://open.spotify.com/album/4wl0lStE236Kc7pJ7eTpgq) | 3:43 |
 | 20 | [AFRAID TO DIE \(feat\. Tatiana Shmayluk from Jinjer\)](https://open.spotify.com/track/0MVhJOLU3VhNRzWLwTtA26) | [P.O.D.](https://open.spotify.com/artist/6KO6G41BBLTDNYOLefWTMU), [Tatiana Shmayluk](https://open.spotify.com/artist/4jUJBAkaX0Foc8fjhuyfpa), [Jinjer](https://open.spotify.com/artist/7o6cOczXTB8ioTAAJTbESf) | [AFRAID TO DIE](https://open.spotify.com/album/2kObu5MHhR6BCsvgtptz2T) | 3:04 |
@@ -52,8 +52,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4908CEYEdlz.md) - [plain]
 | 42 | [Soldier In The Army of Love](https://open.spotify.com/track/1gQP8UKHi9eRVrTS8pm4ep) | [Tom Morello](https://open.spotify.com/artist/74NBPbyyftqJ4SpDZ4c1Ed), [Roman Morello](https://open.spotify.com/artist/4MtYU5kRFzruyn6gbO1Hju) | [Soldier In The Army of Love](https://open.spotify.com/album/05gBPlkrFzoHDBtN4JseUS) | 2:58 |
 | 43 | [The Falling Sky](https://open.spotify.com/track/22MaTYGutS36j4KOXfqvQn) | [Greta Van Fleet](https://open.spotify.com/artist/4NpFxQe2UvRCAjto3JqlSl) | [The Falling Sky](https://open.spotify.com/album/3YCJJtpStsr9BbwmgF31qq) | 3:38 |
 | 44 | [Living A Lie](https://open.spotify.com/track/60m6nJnTF7AFOztDSmYqMh) | [The Amazons](https://open.spotify.com/artist/7243txmysJ4KbRmH8UAMKO) | [Living A Lie](https://open.spotify.com/album/5zkvA4NOwqPYSf0Tm5AEBg) | 4:33 |
-| 45 | [Anxiety \- Spotify Singles](https://open.spotify.com/track/4HFtwRQcTGZPtcmvi2x2hw) | [Nova Twins](https://open.spotify.com/artist/7I95CM75shzCjHuTzrepjM) | [Spotify Singles](https://open.spotify.com/album/1DC5dj0OSRe5vszmnlImyp) | 3:50 |
-| 46 | [Enter Sandman](https://open.spotify.com/track/494G3Mjgv0bLEQ3DGzG9t4) | [Halocene](https://open.spotify.com/artist/1S4xN9nvW5vlFoRBisdxUL), [Lauren Babic](https://open.spotify.com/artist/6nT7RjBCuuggrafnb43vUX), [Violet Orlandi](https://open.spotify.com/artist/3amoyQla9uUhiJhhMS7CLz) | [Enter Sandman](https://open.spotify.com/album/1DDaQfNe1xrphcpezscTf7) | 5:22 |
+| 45 | [Enter Sandman](https://open.spotify.com/track/494G3Mjgv0bLEQ3DGzG9t4) | [Halocene](https://open.spotify.com/artist/1S4xN9nvW5vlFoRBisdxUL), [Lauren Babic](https://open.spotify.com/artist/6nT7RjBCuuggrafnb43vUX), [Violet Orlandi](https://open.spotify.com/artist/3amoyQla9uUhiJhhMS7CLz) | [Enter Sandman](https://open.spotify.com/album/1DDaQfNe1xrphcpezscTf7) | 5:22 |
+| 46 | [Anxiety \- Spotify Singles](https://open.spotify.com/track/4HFtwRQcTGZPtcmvi2x2hw) | [Nova Twins](https://open.spotify.com/artist/7I95CM75shzCjHuTzrepjM) | [Spotify Singles](https://open.spotify.com/album/1DC5dj0OSRe5vszmnlImyp) | 3:50 |
 | 47 | [Bad Friend](https://open.spotify.com/track/304JMEIUEQw4t5MKsY0Ad6) | [Bad Wolves](https://open.spotify.com/artist/0eI3X5rAzHRZVe5FPk4MN1) | [Bad Friend](https://open.spotify.com/album/3cyXgBvwkhf1rIO5B23H8m) | 3:31 |
 | 48 | [Carnivore](https://open.spotify.com/track/1WHwVpN07pJZ8UVPlB5isM) | [Body Count](https://open.spotify.com/artist/5KCph1z3jaSwhtwPzoYp6i) | [Carnivore](https://open.spotify.com/album/304v3uVECkuBPw2SAwWE8x) | 3:11 |
 | 49 | [Happiness](https://open.spotify.com/track/4bMiqeOGu8szuBoJ2SYVCR) | [U2](https://open.spotify.com/artist/51Blml2LZPmy7TTiAg47vQ) | [Happiness](https://open.spotify.com/album/3DzHyRbyjAQiaFuBq7TjG1) | 4:29 |
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4908CEYEdlz.md) - [plain]
 | 74 | [More Than Machines](https://open.spotify.com/track/1y1l61KJCj8EDE35iS4ZgC) | [Bush](https://open.spotify.com/artist/78SHxLdtysAXgywQ4vE0Oa) | [More Than Machines](https://open.spotify.com/album/3h4MWIFNt3pb3IHaifAW83) | 3:21 |
 | 75 | [Fighting On \- 2021 \- Remaster](https://open.spotify.com/track/1oanSbsnFXySrSFgQznX1R) | [Sepultura](https://open.spotify.com/artist/6JW8wliOEwaDZ231ZY7cf4) | [Dante XXI \(2021 \- Remaster\)](https://open.spotify.com/album/7ERVgqxIIkmy5CfPRlWrWi) | 4:29 |
 
-Snapshot ID: `AAAAAIY0+SlHUSrBaRVtRSF9pFF9RiqR`
+Snapshot ID: `AAAAAMQr+DqK+SeveNx35PVUnAvI2MtY`

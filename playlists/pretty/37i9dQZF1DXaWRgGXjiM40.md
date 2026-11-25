@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaWRgGXjiM40.md) - [plain]
 
 > Uma seleção sertaneja para você curtir a sua paixão sem limites.
 
-[Spotify](https://open.spotify.com/user/spotify) - 944,329 likes - 50 songs - 2 hr 38 min
+[Spotify](https://open.spotify.com/user/spotify) - 944,284 likes - 50 songs - 2 hr 38 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -42,15 +42,15 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaWRgGXjiM40.md) - [plain]
 | 32 | [Mural Dos Sonhos](https://open.spotify.com/track/1yEM9OQRmOzlidStpV7bsR) | [Matheus Vargas](https://open.spotify.com/artist/61Y0yB7JKvkyHQ5g4Neirl), [Zé Felipe](https://open.spotify.com/artist/7cmuxPnXRJxwuYDHfbD8Eu) | [Mural Dos Sonhos](https://open.spotify.com/album/54Gtm2scFqiZ1OxO5MdMyn) | 2:38 |
 | 33 | [Sabe Ser Linda \- Ao Vivo](https://open.spotify.com/track/0YDssIvo35Py7gUldsDEom) | [Rafael Quadros](https://open.spotify.com/artist/77q2E7KVunjbcwLiceWv1b), [Mariana Fagundes](https://open.spotify.com/artist/63yBOaK3N1kG2g1M5ZxBox) | [Sabe Ser Linda \(Ao Vivo\)](https://open.spotify.com/album/0Fvswt4JVkG5WaE19N07Zo) | 2:21 |
 | 34 | [Bagunça Minha Vida \- Ao Vivo Em Goiânia / 2019](https://open.spotify.com/track/33g4LmRrWddOvMLnynSktj) | [George Henrique & Rodrigo](https://open.spotify.com/artist/3FlCKtwOEYQQYyGVEbxG2Z) | [Bagunça Minha Vida \(Ao Vivo Em Goiânia / 2019\)](https://open.spotify.com/album/6Px1WC9c2hYtmrfu6wPNZ4) | 2:25 |
-| 35 | [Exclusividade \- Ao Vivo](https://open.spotify.com/track/2s5tpyIbG70M0E8QuLTffS) | [Matheus & Kauan](https://open.spotify.com/artist/2Z0lRIqr997lIUiPtrpKCr) | [Na Praia 2 \(Ao Vivo\)](https://open.spotify.com/album/6J8zN2iOjJzMwNJ6oI75dN) | 3:12 |
+| 35 | [Do Que Seria Eu](https://open.spotify.com/track/47OsX0o2CHtC28dmeuMn5X) | [Marcos & Belutti](https://open.spotify.com/artist/0NsJZ5PMjqghGDuMzY7CuT) | [Maiores de 18 \(Deluxe\)](https://open.spotify.com/album/2TxIcNyOiiABHDkkehMkjx) | 2:22 |
 | 36 | [água com açúcar \- ao vivo](https://open.spotify.com/track/6nI98wtHOJAYSASq22TCYu) | [Luan Santana](https://open.spotify.com/artist/3qvcCP2J0fWi0m0uQDUf6r) | [VIVA \(Ao Vivo\)](https://open.spotify.com/album/1n4L6uxvbs8n1hnXI2WOTR) | 4:09 |
-| 37 | [Do Que Seria Eu](https://open.spotify.com/track/47OsX0o2CHtC28dmeuMn5X) | [Marcos & Belutti](https://open.spotify.com/artist/0NsJZ5PMjqghGDuMzY7CuT) | [Maiores de 18 \(Deluxe\)](https://open.spotify.com/album/2TxIcNyOiiABHDkkehMkjx) | 2:22 |
+| 37 | [Exclusividade \- Ao Vivo](https://open.spotify.com/track/2s5tpyIbG70M0E8QuLTffS) | [Matheus & Kauan](https://open.spotify.com/artist/2Z0lRIqr997lIUiPtrpKCr) | [Na Praia 2 \(Ao Vivo\)](https://open.spotify.com/album/6J8zN2iOjJzMwNJ6oI75dN) | 3:12 |
 | 38 | [Flor e Água \- Ao Vivo](https://open.spotify.com/track/0GdCNA2ugmaVJxywy2fl5f) | [Guilherme & Benuto](https://open.spotify.com/artist/6m6e7D2TnV0aYMllFFwMxu) | [Da Minha Casa Pra Sua \(Ao Vivo\)](https://open.spotify.com/album/1l8SlujuKwMRpzoXwOAo8l) | 3:29 |
 | 39 | [Facas \- Ao Vivo](https://open.spotify.com/track/1ere9b9vDw2N3m9d4uiXxa) | [Diego & Victor Hugo](https://open.spotify.com/artist/3k68C6mNMJL6OaAdWeW2ZF), [Bruno & Marrone](https://open.spotify.com/artist/5JXhkyafynxCvxtov7C1PV) | [Facas \(Ao Vivo\)](https://open.spotify.com/album/0t4odyaTT5r6RJ7L2CjR8q) | 3:16 |
 | 40 | [tem sentimento](https://open.spotify.com/track/6xYzvSt8htoqxDI8yFeorV) | [Gustavo Mioto](https://open.spotify.com/artist/1X6ORK7IekgmyjV6IFPszP), [Mariana Fagundes](https://open.spotify.com/artist/63yBOaK3N1kG2g1M5ZxBox) | [PENSAMENTOS INTRUSIVOS](https://open.spotify.com/album/2Iqe5EdCaswtGkjy5R7Web) | 2:29 |
 | 41 | [Escreve Aí \- Ao Vivo](https://open.spotify.com/track/69uKYDeTWn1wFssqP6OZjb) | [Luan Santana](https://open.spotify.com/artist/3qvcCP2J0fWi0m0uQDUf6r) | [Acústico \(Ao Vivo\)](https://open.spotify.com/album/3xCayP2LKZhZotGfzVT9Fx) | 4:03 |
-| 42 | [Serenata \- Ao Vivo](https://open.spotify.com/track/5fY9bVl1Wj4PIM3wnduWop) | [Marília Mendonça](https://open.spotify.com/artist/1yR65psqiazQpeM79CcGh8) | [Todos Os Cantos, Vol\. 2 \(ao Vivo\)](https://open.spotify.com/album/3mTbv6MyAR4KEDh0w8s9Nk) | 2:36 |
-| 43 | [Até Ficar Velhin \- Ao Vivo](https://open.spotify.com/track/37CkPWc8sgdSd6LkxSsSrT) | [Cleber & Cauan](https://open.spotify.com/artist/6Y8pfJkEdw4EAST4g9C026), [Hitstar](https://open.spotify.com/artist/42eIB6VfunEI8Y1XxLK3Zv) | [Resenha Piri \(Ao Vivo\)](https://open.spotify.com/album/0gm3AjkQZ8q0Cy7z1rjWNs) | 2:45 |
+| 42 | [Até Ficar Velhin \- Ao Vivo](https://open.spotify.com/track/37CkPWc8sgdSd6LkxSsSrT) | [Cleber & Cauan](https://open.spotify.com/artist/6Y8pfJkEdw4EAST4g9C026), [Hitstar](https://open.spotify.com/artist/42eIB6VfunEI8Y1XxLK3Zv) | [Resenha Piri \(Ao Vivo\)](https://open.spotify.com/album/0gm3AjkQZ8q0Cy7z1rjWNs) | 2:45 |
+| 43 | [Serenata \- Ao Vivo](https://open.spotify.com/track/5fY9bVl1Wj4PIM3wnduWop) | [Marília Mendonça](https://open.spotify.com/artist/1yR65psqiazQpeM79CcGh8) | [Todos Os Cantos, Vol\. 2 \(ao Vivo\)](https://open.spotify.com/album/3mTbv6MyAR4KEDh0w8s9Nk) | 2:36 |
 | 44 | [Amigo Taxista \- Ao Vivo](https://open.spotify.com/track/6LEFk0KHRfahO5pOMJlbdV) | [Zé Neto & Cristiano](https://open.spotify.com/artist/487N2T9nIPEHrlTZLL3SQs) | [Um Novo Sonho \(Deluxe\)](https://open.spotify.com/album/2uWVAReCZBKft4bKCDSEMy) | 3:17 |
 | 45 | [Princesa \- Ao Vivo](https://open.spotify.com/track/5agC5wI07VVfe5dQfXmud8) | [Gustavo Mioto](https://open.spotify.com/artist/1X6ORK7IekgmyjV6IFPszP), [Ana Castela](https://open.spotify.com/artist/2CKOmarVWvWqkNWUatHCex) | [Princesa \(Ao Vivo\)](https://open.spotify.com/album/1oigWQMt92MvWGBMmjcUIH) | 3:28 |
 | 46 | [Nosso Quadro](https://open.spotify.com/track/1bzRhnrWU1l1u4Bby9ZbfQ) | [AgroPlay](https://open.spotify.com/artist/0uGWkZRPp1Urk77XBrPBsZ), [Ana Castela](https://open.spotify.com/artist/2CKOmarVWvWqkNWUatHCex) | [AgroPlay Verão Vol.1](https://open.spotify.com/album/5nLj4u8xY6bfCAHNQVM87i) | 2:53 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaWRgGXjiM40.md) - [plain]
 | 49 | [Mulher Maravilha \- Ao Vivo](https://open.spotify.com/track/2cbMXc0P5s271VwZOUk1Gb) | [Zé Neto & Cristiano](https://open.spotify.com/artist/487N2T9nIPEHrlTZLL3SQs) | [Esquece o Mundo Lá Fora \(Ao Vivo \| Deluxe\)](https://open.spotify.com/album/0wQ5Sn6RU4yL6WpeiWSaBN) | 2:37 |
 | 50 | [boa memória \- ao vivo](https://open.spotify.com/track/79BHjj4YkvbpOlMvG6wf3n) | [Luan Santana](https://open.spotify.com/artist/3qvcCP2J0fWi0m0uQDUf6r) | [VIVA \(Ao Vivo\)](https://open.spotify.com/album/1n4L6uxvbs8n1hnXI2WOTR) | 3:34 |
 
-Snapshot ID: `AAAAAGqietlt3JHcK+VChPaTFrWFGcgJ`
+Snapshot ID: `AAAAAGxAyX7u0xTPLN5ujiarzO5DCl/j`

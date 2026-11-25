@@ -1596,7 +1596,7 @@
       ],
       "date_added": "2026-08-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-25",
       "duration_ms": 231435,
       "name": "Building \"What are you waiting on?\"",
       "url": "https://open.spotify.com/track/4ZEyGNBns1pkOdmGRPcZ6F"
@@ -10366,6 +10366,28 @@
       "duration_ms": 195358,
       "name": "Say Goodbye (Say Hello)",
       "url": "https://open.spotify.com/track/29qRIyGVrmRiCdZpHAVNa7"
+    },
+    {
+      "album": {
+        "name": "Gospel House Chronicles",
+        "url": "https://open.spotify.com/album/4QAnKTR82bZJD3o4qBTYNH"
+      },
+      "artists": [
+        {
+          "name": "Bruzzo",
+          "url": "https://open.spotify.com/artist/21agXTEKVEZtKVwvUxgnZM"
+        },
+        {
+          "name": "KMJ Soulz",
+          "url": "https://open.spotify.com/artist/1mCp9y7I4MODU7f1uRoDtK"
+        }
+      ],
+      "date_added": "2026-10-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 500869,
+      "name": "Say Yes",
+      "url": "https://open.spotify.com/track/012B61YGzcTAoxH6CUnOda"
     },
     {
       "album": {

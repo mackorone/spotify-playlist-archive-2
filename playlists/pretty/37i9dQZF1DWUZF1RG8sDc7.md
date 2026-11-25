@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUZF1RG8sDc7.md) - [plain]
 
 > Porque el corazón habla vallenato\. ¡Ay ombe!
 
-[Spotify](https://open.spotify.com/user/spotify) - 169,612 likes - 60 songs - 4 hr 32 min
+[Spotify](https://open.spotify.com/user/spotify) - 169,636 likes - 60 songs - 4 hr 32 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -29,8 +29,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUZF1RG8sDc7.md) - [plain]
 | 19 | [El Invierno Pasado](https://open.spotify.com/track/11LPNeouMLQ3GZM4IUHPWF) | [Jorge Celedón](https://open.spotify.com/artist/7rNbdH4pgrnwguvzxhA2Ek), [Jimmy Zambrano](https://open.spotify.com/artist/3uKiTiDNyvbeVE5zlM4Zlj) | [¡Juepa Je!](https://open.spotify.com/album/1OB90EcEUuYoDRl3izM5b4) | 4:54 |
 | 20 | [Te Amo y Te Amo](https://open.spotify.com/track/1oGQsCmd5B0AyqX1YW0Qm7) | [Felipe Peláez](https://open.spotify.com/artist/6dexNK5MjEL8UvmA5MjSgg), [Zabaleta](https://open.spotify.com/artist/234WpokzuaWmbfhdocebBU) | [A Mi Manera](https://open.spotify.com/album/6kpMEptxTLyqUZ1yjIqKTt) | 4:47 |
 | 21 | [Sirena Encantada](https://open.spotify.com/track/0hjgPmqi7IzcWnSiJYm2OL) | [Miguel Morales](https://open.spotify.com/artist/1viot8lL4r3cgRLb2hBUri), [Juan David Herrera](https://open.spotify.com/artist/1hYXDj3QsJFjAXz53VIKTh) | [30 Mejores](https://open.spotify.com/album/1BJm4d0jiwVsh5DhfYONtX) | 5:10 |
-| 22 | [Chillar A Otra Parte](https://open.spotify.com/track/4v4E5uXzoxlDrO7XSkH5u2) | [Luifer Cuello](https://open.spotify.com/artist/3t4QqzE7i62nLJ6nsAEswx), [Manuel Julian Martinez](https://open.spotify.com/artist/0jp90sYsCfDxbHOvRyIc2z) | [Echao Pa Lante](https://open.spotify.com/album/4IogOvGu1rhSNDke7MzrMG) | 4:11 |
-| 23 | [Cuando lleguen los millones](https://open.spotify.com/track/6RbTILaocvHxdrgLUYS8Mi) | [Grupo Kvrass](https://open.spotify.com/artist/0xHOGt5gf3A1XJP79Zth9k) | [Cinco Estrellas](https://open.spotify.com/album/2cpbqSDc0kPoLvyCDjoRvn) | 4:37 |
+| 22 | [Cuando lleguen los millones](https://open.spotify.com/track/6RbTILaocvHxdrgLUYS8Mi) | [Grupo Kvrass](https://open.spotify.com/artist/0xHOGt5gf3A1XJP79Zth9k) | [Cinco Estrellas](https://open.spotify.com/album/2cpbqSDc0kPoLvyCDjoRvn) | 4:37 |
+| 23 | [Chillar A Otra Parte](https://open.spotify.com/track/4v4E5uXzoxlDrO7XSkH5u2) | [Luifer Cuello](https://open.spotify.com/artist/3t4QqzE7i62nLJ6nsAEswx), [Manuel Julian Martinez](https://open.spotify.com/artist/0jp90sYsCfDxbHOvRyIc2z) | [Echao Pa Lante](https://open.spotify.com/album/4IogOvGu1rhSNDke7MzrMG) | 4:11 |
 | 24 | [Lo Que Tú Necesitas](https://open.spotify.com/track/4WsyJhB9CnYwTH8DuoM4Ww) | [Jorge Celedón](https://open.spotify.com/artist/7rNbdH4pgrnwguvzxhA2Ek), [Jimmy Zambrano](https://open.spotify.com/artist/3uKiTiDNyvbeVE5zlM4Zlj) | [Lo Que Tu Necesitas](https://open.spotify.com/album/5vadrNhB85U1GDBbP8Pl8k) | 3:47 |
 | 25 | [Mi Celosa Hermosa](https://open.spotify.com/track/2qBYoUdefV0JufBpNCGor1) | [Felipe Peláez](https://open.spotify.com/artist/6dexNK5MjEL8UvmA5MjSgg), [Manuel Julián](https://open.spotify.com/artist/5N73Yokp47tjesghCSGnNC) | [Diferente](https://open.spotify.com/album/6GQZroG4H7wW0UrX12P3Kp) | 4:09 |
 | 26 | [Imborrable](https://open.spotify.com/track/1X0RfkzkHU9AetJrOpUigO) | [Mono Zabaleta](https://open.spotify.com/artist/2Q6L4B0awar0BWcQOWsAvu), [Daniel Maestre](https://open.spotify.com/artist/3Kyp9mcwSXZmeXPld7I202) | [Imborrable](https://open.spotify.com/album/1Ncdq0jK1D4HVp85ikBBP5) | 4:00 |
@@ -49,8 +49,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUZF1RG8sDc7.md) - [plain]
 | 39 | [Obsesión](https://open.spotify.com/track/4OhFOoVfaqw3Xuz2vjceDq) | [Peter Manjarrés](https://open.spotify.com/artist/5p1D7KgsRRcS9gpQyRARrL), [Emiliano Zuleta](https://open.spotify.com/artist/4j2ttDkyLZNpyM2RS9hCf5), [Sergio Luis Rodríguez](https://open.spotify.com/artist/6IA0c7ljnyM14XsePnrFpw) | [Sólo Clásicos](https://open.spotify.com/album/5bsES1XTrXLgo9HGpFWVK0) | 3:42 |
 | 40 | [No Pude Quitarte las Espinas](https://open.spotify.com/track/13DlPBOKn753WqIu4qgq4Y) | [Erick Escobar](https://open.spotify.com/artist/4WWNNgB0VUh7xYkldxV74W), [Nayo Quintero](https://open.spotify.com/artist/3VJqPtgfD62abRloZW1xWO) | [Mis Nuevos Cantares](https://open.spotify.com/album/4uToZOnwl3AWFrUrVxTFz9) | 3:55 |
 | 41 | [Sombra Perdida](https://open.spotify.com/track/6CfZqZsIyWKrYGebzivkV6) | [Binomio de Oro](https://open.spotify.com/artist/6n21XaDAuqpceTXBiypR9W) | [Rafael Orozco El Ídolo de Siempre](https://open.spotify.com/album/3OOfzYCpcJBvIWt4rAN6HX) | 4:24 |
-| 42 | [Todo daria por ti](https://open.spotify.com/track/1bEzRBe3wSVaBKUaf5WMQJ) | [Patricia Teheran y las diosas del vallenato](https://open.spotify.com/artist/3rqI6yAH8n3G3DHesSW6f2) | [Los 50 vallenatos más recordados, dedicados, vendidos y sonados](https://open.spotify.com/album/4cVUjJKyfpB5JH7mf34YRA) | 4:48 |
-| 43 | [Busca Un Confidente](https://open.spotify.com/track/1XIbVdp8h98ZTtRKmsHeBy) | [Los Diablitos](https://open.spotify.com/artist/1f6CQnTy4FKDgLGzp6G2Wd) | [30 Mejores](https://open.spotify.com/album/2CGzpCTcMQij6NpZJW83s7) | 4:06 |
+| 42 | [Busca Un Confidente](https://open.spotify.com/track/1XIbVdp8h98ZTtRKmsHeBy) | [Los Diablitos](https://open.spotify.com/artist/1f6CQnTy4FKDgLGzp6G2Wd) | [30 Mejores](https://open.spotify.com/album/2CGzpCTcMQij6NpZJW83s7) | 4:06 |
+| 43 | [Todo daria por ti](https://open.spotify.com/track/1bEzRBe3wSVaBKUaf5WMQJ) | [Patricia Teheran y las diosas del vallenato](https://open.spotify.com/artist/3rqI6yAH8n3G3DHesSW6f2) | [Los 50 vallenatos más recordados, dedicados, vendidos y sonados](https://open.spotify.com/album/4cVUjJKyfpB5JH7mf34YRA) | 4:48 |
 | 44 | [Si Tu Amor No Vuelve](https://open.spotify.com/track/4frx1sI3l2Chq71SLHjiSx) | [Binomio de Oro de América](https://open.spotify.com/artist/3yHLsTJ9OZ19qwY1Q5BEQJ) | […Que viva el vallenato!](https://open.spotify.com/album/0d2xaYm4ahP90Bdbm2Ea28) | 4:54 |
 | 45 | [Mi Primer Amor](https://open.spotify.com/track/25BjqOwuQ1L7MOBfB6Ksm7) | [Los Chiches Vallenatos](https://open.spotify.com/artist/34zJjO7ns1qmMYJxJPF1wP), [Amin Martinez](https://open.spotify.com/artist/607isqlxhVW67C1guzVjCi) | [Más Románticos](https://open.spotify.com/album/1VNHcyoehwXkC4f0KlfFh6) | 4:32 |
 | 46 | [Dime pajarito](https://open.spotify.com/track/2k3691QJP2dunDmktCzg3j) | [Binomio de Oro](https://open.spotify.com/artist/6n21XaDAuqpceTXBiypR9W) | [Rafael Orozco El Ídolo de Siempre](https://open.spotify.com/album/3OOfzYCpcJBvIWt4rAN6HX) | 5:19 |
@@ -69,4 +69,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUZF1RG8sDc7.md) - [plain]
 | 59 | [No He Podido Ser Feliz](https://open.spotify.com/track/0VocaCjgzgnJII4KIX8hmJ) | [Los Gigantes Del Vallenato](https://open.spotify.com/artist/0P8EpsSMekkWtsX331Iebt) | [Por Buen Camino](https://open.spotify.com/album/4OkoHGNKWvZHJTDTeEvwNG) | 5:06 |
 | 60 | [Me Sobran las Palabras](https://open.spotify.com/track/5tQXpp3ciJYkqu2NEXiZHh) | [Binomio de Oro](https://open.spotify.com/artist/6n21XaDAuqpceTXBiypR9W) | [Marca Registrada del Binomio de Oro](https://open.spotify.com/album/5HOi98tAJriR5Dkde2wiys) | 4:30 |
 
-Snapshot ID: `AAAAADddWKV4NRtlHQFZbY2dW6D4aUS6`
+Snapshot ID: `AAAAAEPUsjpegCcm15zQhcsQUjnvVFlb`

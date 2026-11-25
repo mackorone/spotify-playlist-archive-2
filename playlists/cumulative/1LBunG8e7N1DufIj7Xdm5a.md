@@ -4,7 +4,7 @@
 
 > playlist spotify free
 
-5,535 songs - 12 day 21 hr 41 min
+5,539 songs - 12 day 21 hr 56 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -1644,6 +1644,7 @@
 | [Erlkoenig](https://open.spotify.com/track/5o6D0lVsCnvAULsm4T4SnL) | [Gilgulim](https://open.spotify.com/artist/3qknrzxuZcqDS2TZksVWLj) | [Soulslike](https://open.spotify.com/album/1hU2zINgJZfvnSTo65Yb9T) | 2:28 | 2025-05-19 |  |
 | [Eroe per niente](https://open.spotify.com/track/0CR19CEnlcq451kw8ZAgkg) | [AEROFAGIA](https://open.spotify.com/artist/6eVRVwalD8ZWo66MNxT1UA) | [Affetti d'aerofagismo](https://open.spotify.com/album/5WquDWAAfgcnVTRM5m1CUG) | 3:33 | 2026-02-01 |  |
 | [eroe per niente](https://open.spotify.com/track/2cYBeGNgpUtafHcgDzjGn1) | [AEROFAGIA](https://open.spotify.com/artist/6eVRVwalD8ZWo66MNxT1UA) | [Affetti d'aerofagismo](https://open.spotify.com/album/0hsJvao5WQIG3TzR5YnpRE) | 3:33 | 2026-02-01 |  |
+| [Errorzone](https://open.spotify.com/track/5eFI3Z10boOcLyJO4PnZ0F) | [Vein.fm](https://open.spotify.com/artist/5NU7mpGqMvlZpq63RajHOH) | [Errorzone](https://open.spotify.com/album/5KSIgVF5lx4JURkS50jRS9) | 4:15 | 2026-11-24 |  |
 | [Es ser](https://open.spotify.com/track/1zHN8roXBJPDgzyqbCf6Mw) | [Alisone](https://open.spotify.com/artist/4jREeAP6ogIlfy7c2ME4Y5) | [Puzzles](https://open.spotify.com/album/7e2bA6vx7HTLvrOtyFLChY) | 2:40 | 2026-03-15 |  |
 | [Escape](https://open.spotify.com/track/43nqv4QZLdroszZ03wKCCh) | [Nemzzz](https://open.spotify.com/artist/3DHtfeD4PsmR9YGhCP4VF7) | [Escape](https://open.spotify.com/album/7htW5qv2yBt0dH7be0zMbc) | 2:08 | 2025-07-28 |  |
 | [Escena Perfecta](https://open.spotify.com/track/1EJdgzBQib9T5eXlsoiZe5) | [RELUCIENTE](https://open.spotify.com/artist/6CHwkn2hl7YJibB5B52P99) | [Escena Perfecta](https://open.spotify.com/album/6NxGoUXCWFcFDFZw3gIQu6) | 4:32 | 2026-11-03 |  |
@@ -1832,6 +1833,7 @@
 | [Fish in the Sea](https://open.spotify.com/track/5J0VbqUXyj1djSsYdIAUHy) | [HAMLIN](https://open.spotify.com/artist/08UO9aJMvPU8w2BfXKeZbk) | [Fish in the Sea](https://open.spotify.com/album/0RAPYqZlvRgLSBvQYXKY4g) | 1:58 | 2026-07-20 |  |
 | [Fit](https://open.spotify.com/track/7awMmCYaGE1I6z0oX30sUN) | [Absinthe SV](https://open.spotify.com/artist/3Cv96sBI0A62ZHVRDR2aj1) | [Le 20 Parole in Slang Più Virali del 2025 \(Se Non Le Usi, Sei Fuori!\)](https://open.spotify.com/album/69RjNyMSGbTMcHDf8psNgs) | 1:57 | 2025-09-17 |  |
 | [five](https://open.spotify.com/track/0bFuDC16t5CfysEsdR0UpF) | [Absinthe SV](https://open.spotify.com/artist/3Cv96sBI0A62ZHVRDR2aj1) | [Relaxing songs](https://open.spotify.com/album/0vvgdvru0enjJknJVwKloZ) | 3:53 | 2025-08-20 |  |
+| [Five Stars](https://open.spotify.com/track/1QswqzN2X2tC9cWYBymPnP) | [OUTLAW SOCIETY](https://open.spotify.com/artist/5mem2hI70zuwz2nkkUWWKQ) | [Five Stars](https://open.spotify.com/album/45Q6agfZoAo5zyWSoqptb0) | 3:52 | 2026-11-25 |  |
 | [flash](https://open.spotify.com/track/46bUjfJt7SVePcWtBVKa7W) | [2hollis](https://open.spotify.com/artist/72NhFAGG5Pt91VbheJeEPG) | [star](https://open.spotify.com/album/1HjSoAhxhq4RtappX15Xt7) | 2:44 | 2025-07-28 |  |
 | [Flavour of Labour](https://open.spotify.com/track/1Ccrql8zrGgxqXzD3ZQg8x) | [Public Body](https://open.spotify.com/artist/0afEu0n4WzBeNOdyjfBU6X) | [Flavour of Labour](https://open.spotify.com/album/1rMRBWB4YbPuzG6fTGj57n) | 1:51 | 2025-11-05 |  |
 | [Flex on 'Em](https://open.spotify.com/track/4Kmk6knQrQncpGCXWp6Oq6) | [Absinthe SV](https://open.spotify.com/artist/3Cv96sBI0A62ZHVRDR2aj1) | [Trendy Rap Music](https://open.spotify.com/album/6lQku2RcXD7DkkoVLRsVO1) | 3:16 | 2025-09-17 |  |
@@ -2539,6 +2541,7 @@
 | [Kickflip Dreams \(another\)](https://open.spotify.com/track/3Imf3dHfe1X66M0RnkJmpG) | [Absinthe SV](https://open.spotify.com/artist/3Cv96sBI0A62ZHVRDR2aj1) | [Skate punk](https://open.spotify.com/album/4SRDpSExvdGd0QXK9E5UTI) | 1:49 | 2025-09-13 |  |
 | [Kikiri](https://open.spotify.com/track/0Ph4ZM6ALp60ee0QLYqIhb) | [HOZATHEBOSS](https://open.spotify.com/artist/5qlQBBPsnIsx0UxLSVotFj), [Quobo blessing](https://open.spotify.com/artist/7EHMTSkPqZTNMIpFE2vR4q) | [Kikiri](https://open.spotify.com/album/6k3FPD6wqHQ61hNGb2eQIE) | 2:09 | 2026-05-01 |  |
 | [Kilimanjaro](https://open.spotify.com/track/0o2v8uvzdaNdKhl50rz0z0) | [Jack Vultur](https://open.spotify.com/artist/4UIDVuQxTCzkVVNP2YAMf8) | [Kilimanjaro](https://open.spotify.com/album/0dr2X1NMkee0OV2og9fbik) | 3:24 | 2025-08-10 |  |
+| [Killer in Me](https://open.spotify.com/track/0jj4Zch9p9bWbyO1HlGST6) | [NitRo \- Tunes](https://open.spotify.com/artist/4jYkECQhDrMZPm8DNPafYP) | [Eternal Lights](https://open.spotify.com/album/71hEBDtxSuQswTT1E7Iszu) | 3:50 | 2026-11-25 |  |
 | [Kilos](https://open.spotify.com/track/1DuTUjP51H2YfBTsBUczGu) | [Ash](https://open.spotify.com/artist/1oNJRkVDb7UEvRpPp4rNff), [Dritan Hoxhaa](https://open.spotify.com/artist/2P7kmlQXwIvItOE9rOMxsB) | [Sincerely, Don](https://open.spotify.com/album/2n3zroFTMzQobzBqhWyuB6) | 2:40 | 2026-06-05 |  |
 | [Kinfølk](https://open.spotify.com/track/6lgBD3xdcyFDxmOqa6DYaR) | [Nøyre](https://open.spotify.com/artist/3VM5a2nh6VEXEW7FpLHwEz) | [Kinfølk](https://open.spotify.com/album/1M1JCVztOBDv7W12JSEBTI) | 2:20 | 2025-03-31 |  |
 | [King of Carrot Flowers Pt\. 1](https://open.spotify.com/track/5CU1bbfY1wUPm7fU255Dhf) | [Neutral Milk Hotel](https://open.spotify.com/artist/2ooIqOf4X2uz4mMptXCtie) | [In the Aeroplane Over the Sea](https://open.spotify.com/album/0vVekV45lOaVKs6RZQQNob) | 2:00 | 2025-11-05 |  |
@@ -5052,6 +5055,7 @@
 | [Under Spell \- Original Mix](https://open.spotify.com/track/13M61w9HqLLyvHn2g4QFC1) | [Vellkhan](https://open.spotify.com/artist/4IkkkRiHwKB0fnXWcFjLEp) | [A Tale of Regret EP](https://open.spotify.com/album/2sgPwOIBIEVwyiBsrccADL) | 3:54 | 2025-06-22 |  |
 | [Under the Cover of Dark](https://open.spotify.com/track/6kKJW10O6VQyEgtztp3BOH) | [Riptide River](https://open.spotify.com/artist/34jMmxTuTBIR5DnbUE9AkX) | [Under the Cover of Dark](https://open.spotify.com/album/1WBN7tKPtRr3iNXAJwpkCY) | 3:57 | 2025-09-26 |  |
 | [Under the Cover of Dark \(yeah yeah mix\)](https://open.spotify.com/track/3QzcF6FaRVBLN5TiE6kSEh) | [Riptide River](https://open.spotify.com/artist/34jMmxTuTBIR5DnbUE9AkX) | [Under the Cover of Dark \(yeah yeah mix\)](https://open.spotify.com/album/1pvBmdbABkeZaIXT6PiAAB) | 4:06 | 2025-09-26 |  |
+| [Under The Jaded Sun](https://open.spotify.com/track/6EIoOjiBnnoR382xfX1FgF) | [Asylum Road](https://open.spotify.com/artist/6PFbmYMHD0zVYIDtR9ugg2) | [Under The Jaded Sun](https://open.spotify.com/album/5wibbTubk9ipe4Yblsm4bh) | 3:31 | 2026-11-24 |  |
 | [Under the Milky Way](https://open.spotify.com/track/1RCtHLyq1xIbgGMrYRrKJ2) | [The Church](https://open.spotify.com/artist/2ZfogSsOWP4mVfEqfpLXCt) | [Starfish](https://open.spotify.com/album/3gz1CZk5wFg2inBuUWDa8x) | 4:57 | 2026-11-03 |  |
 | [Under the Moon](https://open.spotify.com/track/3lKZshqLUPUkuvqQZrWBcB) | [Absinthe SV](https://open.spotify.com/artist/3Cv96sBI0A62ZHVRDR2aj1) | [Mystic Mistic Pop Music](https://open.spotify.com/album/13eNKYe77sZpdlvrkepF5P) | 3:33 | 2025-09-18 |  |
 | [Under the Moon \(another\)](https://open.spotify.com/track/7fOdFDrHnOj8QKMUvXnoUN) | [Absinthe SV](https://open.spotify.com/artist/3Cv96sBI0A62ZHVRDR2aj1) | [Mystic Mistic Pop Music](https://open.spotify.com/album/13eNKYe77sZpdlvrkepF5P) | 3:11 | 2025-09-18 |  |

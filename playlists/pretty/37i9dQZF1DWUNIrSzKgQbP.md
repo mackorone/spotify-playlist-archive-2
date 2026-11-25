@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUNIrSzKgQbP.md) - [plain]
 
 > Sweet songs for sunny days.
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,622,517 likes - 75 songs - 4 hr 42 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,622,346 likes - 75 songs - 4 hr 42 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -34,8 +34,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUNIrSzKgQbP.md) - [plain]
 | 24 | [Feeling](https://open.spotify.com/track/5J6TfufAsesi9BPnvlgBl8) | [Billie Marten](https://open.spotify.com/artist/02YLJJnWC7YQVixkjEBRn7) | [Feeling](https://open.spotify.com/album/15BiKQLRmY8xQIk4arEEsq) | 3:20 |
 | 25 | [What Would I Do Without You](https://open.spotify.com/track/11TK5KLtLZUdKr1C549bAw) | [Drew Holcomb & The Neighbors](https://open.spotify.com/artist/4RwbDag6jWIYJnEGH6Wte9) | [Good Light](https://open.spotify.com/album/4WXwjwVrr6TFi0HpE5QXq4) | 2:52 |
 | 26 | [Mount Airy Hill \(Way Gone\)](https://open.spotify.com/track/5tJR6RjWugeOXA97HROWEt) | [Kurt Vile](https://open.spotify.com/artist/5gspAQIAH8nJUrMYgXjCJ2) | [\(watch my moves\)](https://open.spotify.com/album/0iUKX7bSb68dbhM7sfcNwo) | 5:32 |
-| 27 | [Golden Days](https://open.spotify.com/track/7midhUSAQfwD3aFwQrLZYc) | [Whitney](https://open.spotify.com/artist/32aUoW94mJ7xTJI7fG0V1G) | [Light Upon the Lake](https://open.spotify.com/album/3UhUTuYtGypQWuhqqoImsv) | 4:02 |
-| 28 | [Miffed It](https://open.spotify.com/track/2Akjix15UL9ec80rPlzW9P) | [Way Dynamic](https://open.spotify.com/artist/10aehkZWLg2dqDftjp5SXk) | [Massive Shoe](https://open.spotify.com/album/7iOuhPNM8lxGVLBO9Jz9lL) | 4:06 |
+| 27 | [Miffed It](https://open.spotify.com/track/2Akjix15UL9ec80rPlzW9P) | [Way Dynamic](https://open.spotify.com/artist/10aehkZWLg2dqDftjp5SXk) | [Massive Shoe](https://open.spotify.com/album/7iOuhPNM8lxGVLBO9Jz9lL) | 4:06 |
+| 28 | [Golden Days](https://open.spotify.com/track/7midhUSAQfwD3aFwQrLZYc) | [Whitney](https://open.spotify.com/artist/32aUoW94mJ7xTJI7fG0V1G) | [Light Upon the Lake](https://open.spotify.com/album/3UhUTuYtGypQWuhqqoImsv) | 4:02 |
 | 29 | [Billy Came Back](https://open.spotify.com/track/4llSkj7K4ekT5wzcLKd4C5) | [This Is Lorelei](https://open.spotify.com/artist/0GmYGGZZIU8vHbI0bAXZun) | [Billy Came Back](https://open.spotify.com/album/5PWPGFNrbIuXQoLcI8FsAe) | 3:09 |
 | 30 | [Fine \(feat\. Paul Kelly\)](https://open.spotify.com/track/6MQ2BFdh2Rtn6uYX4NWffi) | [Meg Washington](https://open.spotify.com/artist/5AHMfr68CzfjKxMU7MQAeZ), [Paul Kelly](https://open.spotify.com/artist/0SNWoGaDlrCompmg9rXeNq) | [Fine \(feat\. Paul Kelly\)](https://open.spotify.com/album/1ZmehdFS3WXShPPt2WMztb) | 4:22 |
 | 31 | [Blackberry Song](https://open.spotify.com/track/2jGWmm8AkM9bEmMZObSXvu) | [Kurt Vile](https://open.spotify.com/artist/5gspAQIAH8nJUrMYgXjCJ2) | [Childish Prodigy](https://open.spotify.com/album/3TmWAswHIm0Vb08qymeagU) | 3:26 |
@@ -49,8 +49,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUNIrSzKgQbP.md) - [plain]
 | 39 | [Follow The Sun](https://open.spotify.com/track/3Y7fpFZbHLpAvWJJYGehz0) | [Xavier Rudd](https://open.spotify.com/artist/5lbM4g6bhxjNX7R5QHP2nD) | [Spirit Bird](https://open.spotify.com/album/2GFXYpDQ1TOZ9zJUk30tXO) | 4:16 |
 | 40 | [Old Pine \- EP Version](https://open.spotify.com/track/3KdYkzww6dbqQ37bNQSODD) | [Ben Howard](https://open.spotify.com/artist/5schNIzWdI9gJ1QRK8SBnc) | [The Old Pine E.P.](https://open.spotify.com/album/0k58WX5uI2CNJ0BlH1cKXA) | 4:17 |
 | 41 | [Strawberry](https://open.spotify.com/track/0VB2DbuUCBkDuD5ZMJxPJN) | [Andrew Montana](https://open.spotify.com/artist/05MbxRG8XyYmFhv7ZUMylc) | [Strawberry](https://open.spotify.com/album/2YnTYD0KOo8XrAQJTjnyQy) | 3:09 |
-| 42 | [Weather](https://open.spotify.com/track/1WwAqeweh8B5WVO041pRFf) | [Molly Parden](https://open.spotify.com/artist/5dUUxJQg27XaHdKyLYwNg5) | [With Me in the Summer](https://open.spotify.com/album/1d6S1Z19Ia7xJkVd6ZoOlk) | 5:00 |
-| 43 | [Smoked](https://open.spotify.com/track/4RC5sdt02mjwuxSG1e7QDe) | [Hayden Pedigo](https://open.spotify.com/artist/4OR0gbDLGgJ4fxoXB0ZCYZ) | [I'll Be Waving As You Drive Away](https://open.spotify.com/album/5LZVQiwNWzbq8W1cT9MxHe) | 5:18 |
+| 42 | [Smoked](https://open.spotify.com/track/4RC5sdt02mjwuxSG1e7QDe) | [Hayden Pedigo](https://open.spotify.com/artist/4OR0gbDLGgJ4fxoXB0ZCYZ) | [I'll Be Waving As You Drive Away](https://open.spotify.com/album/5LZVQiwNWzbq8W1cT9MxHe) | 5:18 |
+| 43 | [Weather](https://open.spotify.com/track/1WwAqeweh8B5WVO041pRFf) | [Molly Parden](https://open.spotify.com/artist/5dUUxJQg27XaHdKyLYwNg5) | [With Me in the Summer](https://open.spotify.com/album/1d6S1Z19Ia7xJkVd6ZoOlk) | 5:00 |
 | 44 | [Twin](https://open.spotify.com/track/4l7sD2PFNFdeJpQueQR2YK) | [Anna Mieke](https://open.spotify.com/artist/52HjDHLlkCYt5Pemr9wefL) | [Theatre](https://open.spotify.com/album/0EoYsG4MursZcQp8DGp5pH) | 5:17 |
 | 45 | [Riptide](https://open.spotify.com/track/3JvrhDOgAt6p7K8mDyZwRd) | [Vance Joy](https://open.spotify.com/artist/10exVja0key0uqUkk6LJRT) | [Dream Your Life Away \(Special Edition\)](https://open.spotify.com/album/5S9b8euumqMhQbMk0zzQdH) | 3:24 |
 | 46 | [Birdseye](https://open.spotify.com/track/3g3WLQLqNNLyzCY7rBZup7) | [Babehoven](https://open.spotify.com/artist/3Yjr5lVbAr2Fe7Lmpwja70) | [Birdseye](https://open.spotify.com/album/15nDuQXtC6M3m3esLEa4w7) | 2:31 |
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUNIrSzKgQbP.md) - [plain]
 | 74 | [Shark Smile](https://open.spotify.com/track/0Fc0vCE3yWvAGKbU5twVOz) | [Big Thief](https://open.spotify.com/artist/5QdyldG4Fl4TPiOIeMNpBZ) | [Capacity](https://open.spotify.com/album/3jXbdginoAtjcBqT7GcYRd) | 3:57 |
 | 75 | [Ancient Light](https://open.spotify.com/track/42Xt27QoxLh1XxxG8ILEMI) | [I'm With Her](https://open.spotify.com/artist/3oXddLOOjkoUuC2sX1RMdr), [Sarah Jarosz](https://open.spotify.com/artist/6nFBonVf7Lqaj05R0v5VGJ), [Aoife O'Donovan](https://open.spotify.com/artist/1f3ubTd6eyxuy30ddDJQQa), [Sara Watkins](https://open.spotify.com/artist/1FDE7zZ6jmP8HHb9ej3mek) | [Ancient Light](https://open.spotify.com/album/3RoX6N86SIrznMx2k28sdl) | 3:34 |
 
-Snapshot ID: `AAAAAIK4O7/FhjYERlbr9XaW4e0CzK9W`
+Snapshot ID: `AAAAAEmMwegJXXbzmcqUjiCjZHxluBlZ`

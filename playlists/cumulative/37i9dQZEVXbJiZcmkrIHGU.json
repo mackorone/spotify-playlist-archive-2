@@ -2854,7 +2854,7 @@
       ],
       "date_added": "2026-09-05",
       "date_added_asterisk": false,
-      "date_removed": "2026-11-24",
+      "date_removed": null,
       "duration_ms": 124647,
       "name": "7 MANN",
       "url": "https://open.spotify.com/track/1KGQmd5UoLQ8ami2RyNFJJ"
@@ -7026,7 +7026,7 @@
       ],
       "date_added": "2026-11-12",
       "date_added_asterisk": false,
-      "date_removed": "2026-11-24",
+      "date_removed": null,
       "duration_ms": 150153,
       "name": "arm um mich",
       "url": "https://open.spotify.com/track/5jRvFqocteQ2pgwdbST4AN"
@@ -13863,6 +13863,28 @@
     },
     {
       "album": {
+        "name": "Blood In Your Eyes (from GTAVI: The Album)",
+        "url": "https://open.spotify.com/album/2J5ttiLhgBPxcLyHlhQVKO"
+      },
+      "artists": [
+        {
+          "name": "Tove Lo",
+          "url": "https://open.spotify.com/artist/4NHQUGzhtTLFvgF5SZesLK"
+        },
+        {
+          "name": "Grand Theft Auto VI",
+          "url": "https://open.spotify.com/artist/15o7qdDTBzs6xWRUYUtZc1"
+        }
+      ],
+      "date_added": "2026-11-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 161219,
+      "name": "Blood In Your Eyes (from GTAVI: The Album)",
+      "url": "https://open.spotify.com/track/4h3tY2zV4easaHEAbHVmgj"
+    },
+    {
+      "album": {
         "name": "Bloodline (with Jelly Roll)",
         "url": "https://open.spotify.com/album/2KoAn4MyptQWG1qBx7mu01"
       },
@@ -17678,7 +17700,7 @@
       ],
       "date_added": "2021-11-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-25",
       "duration_ms": 243057,
       "name": "Christmas Time",
       "url": "https://open.spotify.com/track/7LoFMtL7hxP9tr5HYyyUrJ"
@@ -22192,7 +22214,7 @@
       ],
       "date_added": "2022-11-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-25",
       "duration_ms": 222533,
       "name": "Do They Know It's Christmas? - 1984 Version",
       "url": "https://open.spotify.com/track/4Yg2w0P29BBBMixyeNjDtj"
@@ -35696,7 +35718,7 @@
       ],
       "date_added": "2021-12-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-25",
       "duration_ms": 268956,
       "name": "Hallelujah",
       "url": "https://open.spotify.com/track/550rQQCGkrTzvp4SfpOPzx"
@@ -37550,7 +37572,7 @@
       ],
       "date_added": "2025-11-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-25",
       "duration_ms": 121526,
       "name": "Holly Jolly Christmas",
       "url": "https://open.spotify.com/track/6rqn19AqjcM5wgI1hCYciJ"
@@ -41344,7 +41366,7 @@
       ],
       "date_added": "2024-09-09",
       "date_added_asterisk": false,
-      "date_removed": "2026-11-24",
+      "date_removed": null,
       "duration_ms": 216880,
       "name": "In the End",
       "url": "https://open.spotify.com/track/60a0Rd6pjrkxjPbaKzXjfq"
@@ -42000,7 +42022,7 @@
       ],
       "date_added": "2026-08-22",
       "date_added_asterisk": false,
-      "date_removed": "2026-11-24",
+      "date_removed": null,
       "duration_ms": 144861,
       "name": "ISSA",
       "url": "https://open.spotify.com/track/7medoAnENNaeVAHQbGcOMK"
@@ -42228,7 +42250,7 @@
       ],
       "date_added": "2024-12-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-25",
       "duration_ms": 152570,
       "name": "It's the Most Wonderful Time of the Year",
       "url": "https://open.spotify.com/track/5hslUAKq9I9CG2bAulFkHN"
@@ -54858,7 +54880,7 @@
       ],
       "date_added": "2022-11-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-25",
       "duration_ms": 208546,
       "name": "Merry Christmas",
       "url": "https://open.spotify.com/track/3bH2Eu9A9ymI4UnGHRmoXg"
@@ -55830,7 +55852,7 @@
       ],
       "date_added": "2024-11-25",
       "date_added_asterisk": false,
-      "date_removed": "2025-12-27",
+      "date_removed": null,
       "duration_ms": 182946,
       "name": "Mistletoe",
       "url": "https://open.spotify.com/track/54K9GOVJqIaDZNXLnnxiKc"
@@ -55848,7 +55870,7 @@
       ],
       "date_added": "2021-11-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-25",
       "duration_ms": 182946,
       "name": "Mistletoe",
       "url": "https://open.spotify.com/track/7xapw9Oy21WpfEcib2ErSA"
@@ -72260,7 +72282,7 @@
       ],
       "date_added": "2021-12-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-25",
       "duration_ms": 242644,
       "name": "Santa, Can\u2019t You Hear Me",
       "url": "https://open.spotify.com/track/2O3MQ6H3gjrIWDcpeTrikT"
@@ -75502,7 +75524,7 @@
       ],
       "date_added": "2021-11-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-25",
       "duration_ms": 181266,
       "name": "Sleigh Ride",
       "url": "https://open.spotify.com/track/7fUYUcWy853HS8YJn0b3Sr"
@@ -81454,7 +81476,7 @@
       ],
       "date_added": "2026-11-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-25",
       "duration_ms": 262306,
       "name": "Thank God It's Christmas",
       "url": "https://open.spotify.com/track/2AEjZQblAZwdbcYA1qiexM"
@@ -81798,7 +81820,7 @@
       ],
       "date_added": "2026-06-13",
       "date_added_asterisk": false,
-      "date_removed": "2026-11-23",
+      "date_removed": null,
       "duration_ms": 297090,
       "name": "the cure",
       "url": "https://open.spotify.com/track/55pBIZO1cqoldeqpp5WR7H"
@@ -85088,7 +85110,7 @@
       ],
       "date_added": "2026-11-21",
       "date_added_asterisk": false,
-      "date_removed": "2026-11-24",
+      "date_removed": null,
       "duration_ms": 159049,
       "name": "Tut mir leid (feat. Mucco)",
       "url": "https://open.spotify.com/track/7Lk3oCxmZ6afsxkMARZcdi"
@@ -85966,7 +85988,7 @@
       ],
       "date_added": "2026-10-20",
       "date_added_asterisk": false,
-      "date_removed": "2026-11-22",
+      "date_removed": null,
       "duration_ms": 219864,
       "name": "UNETHICAL",
       "url": "https://open.spotify.com/track/7G8EmDx7L5zRHb6rBJDqEG"
@@ -88340,7 +88362,7 @@
       ],
       "date_added": "2026-08-17",
       "date_added_asterisk": false,
-      "date_removed": "2026-11-24",
+      "date_removed": null,
       "duration_ms": 210666,
       "name": "Von hier an blind",
       "url": "https://open.spotify.com/track/6XYydpbZMrgQbZdv5J31oU"

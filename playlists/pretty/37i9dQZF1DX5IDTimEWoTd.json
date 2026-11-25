@@ -1,12 +1,12 @@
 {
   "description": "Beautiful songs to give you that warm, fuzzy feeling.",
-  "num_followers": 3970198,
+  "num_followers": 3970087,
   "original_name": "Warm Fuzzy Feeling",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAJST7KB5ZieklfnROc4kQxmxGCFb",
+  "snapshot_id": "AAAAAElstFMkzXqkoOlyTwyG5/eDGogR",
   "tracks": [
     {
       "added_at": "2026-11-22 23:29:36",
@@ -319,22 +319,6 @@
     {
       "added_at": "2026-11-22 23:29:36",
       "album": {
-        "name": "We Sing. We Dance. We Steal Things.",
-        "url": "https://open.spotify.com/album/04G0YylSjvDQZrjOfE5jA5"
-      },
-      "artists": [
-        {
-          "name": "Jason Mraz",
-          "url": "https://open.spotify.com/artist/4phGZZrJZRo4ElhRtViYdl"
-        }
-      ],
-      "duration_ms": 242946,
-      "name": "I'm Yours",
-      "url": "https://open.spotify.com/track/1EzrEOXmMH3G43AXT1y7pA"
-    },
-    {
-      "added_at": "2026-11-22 23:29:36",
-      "album": {
         "name": "Blue Hawaii",
         "url": "https://open.spotify.com/album/7xe8VI48TxUpU1IIo0RfGi"
       },
@@ -347,6 +331,22 @@
       "duration_ms": 185877,
       "name": "Can't Help Falling in Love",
       "url": "https://open.spotify.com/track/44AyOl4qVkzS48vBsbNXaC"
+    },
+    {
+      "added_at": "2026-11-22 23:29:36",
+      "album": {
+        "name": "We Sing. We Dance. We Steal Things.",
+        "url": "https://open.spotify.com/album/04G0YylSjvDQZrjOfE5jA5"
+      },
+      "artists": [
+        {
+          "name": "Jason Mraz",
+          "url": "https://open.spotify.com/artist/4phGZZrJZRo4ElhRtViYdl"
+        }
+      ],
+      "duration_ms": 242946,
+      "name": "I'm Yours",
+      "url": "https://open.spotify.com/track/1EzrEOXmMH3G43AXT1y7pA"
     },
     {
       "added_at": "2026-11-22 23:29:36",
@@ -539,22 +539,6 @@
     {
       "added_at": "2026-11-22 23:29:36",
       "album": {
-        "name": "Leather",
-        "url": "https://open.spotify.com/album/5CLwcVp4tfZqwxHLr77dnY"
-      },
-      "artists": [
-        {
-          "name": "Cody Johnson",
-          "url": "https://open.spotify.com/artist/6zLBxLdl60ekBLpawtT63I"
-        }
-      ],
-      "duration_ms": 211413,
-      "name": "The Painter",
-      "url": "https://open.spotify.com/track/5DQU4Fmdx7Hs7pwtcZMSTK"
-    },
-    {
-      "added_at": "2026-11-22 23:29:36",
-      "album": {
         "name": "Thee Sacred Souls",
         "url": "https://open.spotify.com/album/6ofJrAZaaX0iWTXYXObUxE"
       },
@@ -567,6 +551,22 @@
       "duration_ms": 190546,
       "name": "Can I Call You Rose?",
       "url": "https://open.spotify.com/track/6IAuH3hgTRpUUdmOGubXGS"
+    },
+    {
+      "added_at": "2026-11-22 23:29:36",
+      "album": {
+        "name": "Leather",
+        "url": "https://open.spotify.com/album/5CLwcVp4tfZqwxHLr77dnY"
+      },
+      "artists": [
+        {
+          "name": "Cody Johnson",
+          "url": "https://open.spotify.com/artist/6zLBxLdl60ekBLpawtT63I"
+        }
+      ],
+      "duration_ms": 211413,
+      "name": "The Painter",
+      "url": "https://open.spotify.com/track/5DQU4Fmdx7Hs7pwtcZMSTK"
     },
     {
       "added_at": "2026-11-22 23:29:36",
@@ -667,22 +667,6 @@
     {
       "added_at": "2026-11-22 23:29:36",
       "album": {
-        "name": "GABRIEL",
-        "url": "https://open.spotify.com/album/1WVIJaAboRSwJOe4u0n0Q7"
-      },
-      "artists": [
-        {
-          "name": "keshi",
-          "url": "https://open.spotify.com/artist/3pc0bOVB5whxmD50W79wwO"
-        }
-      ],
-      "duration_ms": 150519,
-      "name": "UNDERSTAND",
-      "url": "https://open.spotify.com/track/72sfmdpuO5r8cBDgs7MqZZ"
-    },
-    {
-      "added_at": "2026-11-22 23:29:36",
-      "album": {
         "name": "Justice",
         "url": "https://open.spotify.com/album/5dGWwsZ9iB2Xc3UKR0gif2"
       },
@@ -695,6 +679,22 @@
       "duration_ms": 156467,
       "name": "Off My Face",
       "url": "https://open.spotify.com/track/3T03rPwlL8NVk1yIaxeD8U"
+    },
+    {
+      "added_at": "2026-11-22 23:29:36",
+      "album": {
+        "name": "GABRIEL",
+        "url": "https://open.spotify.com/album/1WVIJaAboRSwJOe4u0n0Q7"
+      },
+      "artists": [
+        {
+          "name": "keshi",
+          "url": "https://open.spotify.com/artist/3pc0bOVB5whxmD50W79wwO"
+        }
+      ],
+      "duration_ms": 150519,
+      "name": "UNDERSTAND",
+      "url": "https://open.spotify.com/track/72sfmdpuO5r8cBDgs7MqZZ"
     },
     {
       "added_at": "2026-11-22 23:29:36",
@@ -767,26 +767,6 @@
     {
       "added_at": "2026-11-22 23:29:36",
       "album": {
-        "name": "We Sing. We Dance. We Steal Things.",
-        "url": "https://open.spotify.com/album/04G0YylSjvDQZrjOfE5jA5"
-      },
-      "artists": [
-        {
-          "name": "Jason Mraz",
-          "url": "https://open.spotify.com/artist/4phGZZrJZRo4ElhRtViYdl"
-        },
-        {
-          "name": "Colbie Caillat",
-          "url": "https://open.spotify.com/artist/6aZyMrc4doVtZyKNilOmwu"
-        }
-      ],
-      "duration_ms": 189613,
-      "name": "Lucky",
-      "url": "https://open.spotify.com/track/0IktbUcnAGrvD03AWnz3Q8"
-    },
-    {
-      "added_at": "2026-11-22 23:29:36",
-      "album": {
         "name": "If You Love Her",
         "url": "https://open.spotify.com/album/5hgwPA78vCrhEDaTazNMyR"
       },
@@ -815,6 +795,26 @@
       "duration_ms": 177382,
       "name": "dna",
       "url": "https://open.spotify.com/track/2McTSCNNzxgDtAqiuibhPI"
+    },
+    {
+      "added_at": "2026-11-22 23:29:36",
+      "album": {
+        "name": "We Sing. We Dance. We Steal Things.",
+        "url": "https://open.spotify.com/album/04G0YylSjvDQZrjOfE5jA5"
+      },
+      "artists": [
+        {
+          "name": "Jason Mraz",
+          "url": "https://open.spotify.com/artist/4phGZZrJZRo4ElhRtViYdl"
+        },
+        {
+          "name": "Colbie Caillat",
+          "url": "https://open.spotify.com/artist/6aZyMrc4doVtZyKNilOmwu"
+        }
+      ],
+      "duration_ms": 189613,
+      "name": "Lucky",
+      "url": "https://open.spotify.com/track/0IktbUcnAGrvD03AWnz3Q8"
     },
     {
       "added_at": "2026-11-22 23:29:36",
@@ -939,22 +939,6 @@
     {
       "added_at": "2026-11-22 23:29:36",
       "album": {
-        "name": "Love Is a Four Letter Word (Deluxe Edition)",
-        "url": "https://open.spotify.com/album/64SChsjQBiEe3aVTFYnW1b"
-      },
-      "artists": [
-        {
-          "name": "Jason Mraz",
-          "url": "https://open.spotify.com/artist/4phGZZrJZRo4ElhRtViYdl"
-        }
-      ],
-      "duration_ms": 240165,
-      "name": "I Won't Give Up",
-      "url": "https://open.spotify.com/track/53QF56cjZA9RTuuMZDrSA6"
-    },
-    {
-      "added_at": "2026-11-22 23:29:36",
-      "album": {
         "name": "Dan + Shay",
         "url": "https://open.spotify.com/album/0g1F5eGVwX4Sxi1n8ojPkE"
       },
@@ -967,6 +951,22 @@
       "duration_ms": 213386,
       "name": "Speechless",
       "url": "https://open.spotify.com/track/3GJ4hzg4lrGwU51Y3VARbF"
+    },
+    {
+      "added_at": "2026-11-22 23:29:36",
+      "album": {
+        "name": "Love Is a Four Letter Word (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/64SChsjQBiEe3aVTFYnW1b"
+      },
+      "artists": [
+        {
+          "name": "Jason Mraz",
+          "url": "https://open.spotify.com/artist/4phGZZrJZRo4ElhRtViYdl"
+        }
+      ],
+      "duration_ms": 240165,
+      "name": "I Won't Give Up",
+      "url": "https://open.spotify.com/track/53QF56cjZA9RTuuMZDrSA6"
     },
     {
       "added_at": "2026-11-22 23:29:36",
@@ -1039,22 +1039,6 @@
     {
       "added_at": "2026-11-22 23:29:36",
       "album": {
-        "name": "Made For Me",
-        "url": "https://open.spotify.com/album/2VIJu8iWncUpGcv64UOxnv"
-      },
-      "artists": [
-        {
-          "name": "Muni Long",
-          "url": "https://open.spotify.com/artist/7tjVFCxJdwT4NdrTmjyjQ6"
-        }
-      ],
-      "duration_ms": 188000,
-      "name": "Made For Me",
-      "url": "https://open.spotify.com/track/0WIv5qV41y6YjjB9V1biuC"
-    },
-    {
-      "added_at": "2026-11-22 23:29:36",
-      "album": {
         "name": "HELP EVER HURT NEVER",
         "url": "https://open.spotify.com/album/03QiFOKDh6xMiSTkOnsmMG"
       },
@@ -1067,6 +1051,22 @@
       "duration_ms": 185573,
       "name": "\u6b7b\u306c\u306e\u304c\u3044\u3044\u308f",
       "url": "https://open.spotify.com/track/0HYAsQwJIO6FLqpyTeD3l6"
+    },
+    {
+      "added_at": "2026-11-22 23:29:36",
+      "album": {
+        "name": "Made For Me",
+        "url": "https://open.spotify.com/album/2VIJu8iWncUpGcv64UOxnv"
+      },
+      "artists": [
+        {
+          "name": "Muni Long",
+          "url": "https://open.spotify.com/artist/7tjVFCxJdwT4NdrTmjyjQ6"
+        }
+      ],
+      "duration_ms": 188000,
+      "name": "Made For Me",
+      "url": "https://open.spotify.com/track/0WIv5qV41y6YjjB9V1biuC"
     },
     {
       "added_at": "2026-11-22 23:29:36",
@@ -1103,22 +1103,6 @@
     {
       "added_at": "2026-11-22 23:29:36",
       "album": {
-        "name": "Midnights",
-        "url": "https://open.spotify.com/album/151w1FgRZfnKZA9FEcg9Z3"
-      },
-      "artists": [
-        {
-          "name": "Taylor Swift",
-          "url": "https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02"
-        }
-      ],
-      "duration_ms": 188496,
-      "name": "Sweet Nothing",
-      "url": "https://open.spotify.com/track/0wavGRldH0AWyu2zvTz8zb"
-    },
-    {
-      "added_at": "2026-11-22 23:29:36",
-      "album": {
         "name": "x (Deluxe Edition)",
         "url": "https://open.spotify.com/album/1xn54DMo2qIqBuMqHtUsFd"
       },
@@ -1131,6 +1115,22 @@
       "duration_ms": 241346,
       "name": "Tenerife Sea",
       "url": "https://open.spotify.com/track/1HbcclMpw0q2WDWpdGCKdS"
+    },
+    {
+      "added_at": "2026-11-22 23:29:36",
+      "album": {
+        "name": "Midnights",
+        "url": "https://open.spotify.com/album/151w1FgRZfnKZA9FEcg9Z3"
+      },
+      "artists": [
+        {
+          "name": "Taylor Swift",
+          "url": "https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02"
+        }
+      ],
+      "duration_ms": 188496,
+      "name": "Sweet Nothing",
+      "url": "https://open.spotify.com/track/0wavGRldH0AWyu2zvTz8zb"
     },
     {
       "added_at": "2026-11-22 23:29:36",
@@ -1183,22 +1183,6 @@
     {
       "added_at": "2026-11-22 23:29:36",
       "album": {
-        "name": "Speak Now",
-        "url": "https://open.spotify.com/album/5MfAxS5zz8MlfROjGQVXhy"
-      },
-      "artists": [
-        {
-          "name": "Taylor Swift",
-          "url": "https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02"
-        }
-      ],
-      "duration_ms": 352186,
-      "name": "Enchanted",
-      "url": "https://open.spotify.com/track/10eBRyImhfqVvkiVEGf0N0"
-    },
-    {
-      "added_at": "2026-11-22 23:29:36",
-      "album": {
         "name": "Play",
         "url": "https://open.spotify.com/album/20dY0uZi9SzfrcWYfiWGqH"
       },
@@ -1211,6 +1195,22 @@
       "duration_ms": 215511,
       "name": "Camera",
       "url": "https://open.spotify.com/track/6vqyk3mbDBv3npTpctYoka"
+    },
+    {
+      "added_at": "2026-11-22 23:29:36",
+      "album": {
+        "name": "Speak Now",
+        "url": "https://open.spotify.com/album/5MfAxS5zz8MlfROjGQVXhy"
+      },
+      "artists": [
+        {
+          "name": "Taylor Swift",
+          "url": "https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02"
+        }
+      ],
+      "duration_ms": 352186,
+      "name": "Enchanted",
+      "url": "https://open.spotify.com/track/10eBRyImhfqVvkiVEGf0N0"
     },
     {
       "added_at": "2026-11-22 23:29:36",
@@ -1247,22 +1247,6 @@
     {
       "added_at": "2026-11-22 23:29:36",
       "album": {
-        "name": "Plans",
-        "url": "https://open.spotify.com/album/1NFGnxmeIEBakre4DvLaJq"
-      },
-      "artists": [
-        {
-          "name": "Death Cab for Cutie",
-          "url": "https://open.spotify.com/artist/0YrtvWJMgSdVrk3SfNjTbx"
-        }
-      ],
-      "duration_ms": 189186,
-      "name": "I Will Follow You into the Dark",
-      "url": "https://open.spotify.com/track/3kZC0ZmFWrEHdUCmUqlvgZ"
-    },
-    {
-      "added_at": "2026-11-22 23:29:36",
-      "album": {
         "name": "James Bay Spotify Session 2015",
         "url": "https://open.spotify.com/album/2DSUg9hHXIb9KBvOWXQvNf"
       },
@@ -1291,6 +1275,22 @@
       "duration_ms": 185486,
       "name": "Afterglow",
       "url": "https://open.spotify.com/track/0E4Y1XIbs8GrAT1YqVy6dq"
+    },
+    {
+      "added_at": "2026-11-22 23:29:36",
+      "album": {
+        "name": "Plans",
+        "url": "https://open.spotify.com/album/1NFGnxmeIEBakre4DvLaJq"
+      },
+      "artists": [
+        {
+          "name": "Death Cab for Cutie",
+          "url": "https://open.spotify.com/artist/0YrtvWJMgSdVrk3SfNjTbx"
+        }
+      ],
+      "duration_ms": 189186,
+      "name": "I Will Follow You into the Dark",
+      "url": "https://open.spotify.com/track/3kZC0ZmFWrEHdUCmUqlvgZ"
     },
     {
       "added_at": "2026-11-22 23:29:36",
@@ -1415,22 +1415,6 @@
     {
       "added_at": "2026-11-22 23:29:36",
       "album": {
-        "name": "LEGEND",
-        "url": "https://open.spotify.com/album/48XBEHGNh0oVF5foY3ZtvT"
-      },
-      "artists": [
-        {
-          "name": "John Legend",
-          "url": "https://open.spotify.com/artist/5y2Xq6xcjJb2jVM54GHK3t"
-        }
-      ],
-      "duration_ms": 188046,
-      "name": "Nervous",
-      "url": "https://open.spotify.com/track/1XNAH3h63O1hWFcgyHGbjf"
-    },
-    {
-      "added_at": "2026-11-22 23:29:36",
-      "album": {
         "name": "That Part",
         "url": "https://open.spotify.com/album/3BBoVJSqbpAPVYWt5lXHfC"
       },
@@ -1443,6 +1427,22 @@
       "duration_ms": 174052,
       "name": "That Part",
       "url": "https://open.spotify.com/track/7vfCm8tEWV9lCpyY1nvJVB"
+    },
+    {
+      "added_at": "2026-11-22 23:29:36",
+      "album": {
+        "name": "LEGEND",
+        "url": "https://open.spotify.com/album/48XBEHGNh0oVF5foY3ZtvT"
+      },
+      "artists": [
+        {
+          "name": "John Legend",
+          "url": "https://open.spotify.com/artist/5y2Xq6xcjJb2jVM54GHK3t"
+        }
+      ],
+      "duration_ms": 188046,
+      "name": "Nervous",
+      "url": "https://open.spotify.com/track/1XNAH3h63O1hWFcgyHGbjf"
     },
     {
       "added_at": "2026-11-22 23:29:36",
@@ -1631,22 +1631,6 @@
     {
       "added_at": "2026-11-22 23:29:36",
       "album": {
-        "name": "My Guy",
-        "url": "https://open.spotify.com/album/0x6tr75ApACgiGnraluC8t"
-      },
-      "artists": [
-        {
-          "name": "Sam Smith",
-          "url": "https://open.spotify.com/artist/2wY79sveU1sp5g7SokKOiI"
-        }
-      ],
-      "duration_ms": 230604,
-      "name": "My Guy",
-      "url": "https://open.spotify.com/track/3n6ytjkbhypwQsRMreKjyT"
-    },
-    {
-      "added_at": "2026-11-22 23:29:36",
-      "album": {
         "name": "love is just a word",
         "url": "https://open.spotify.com/album/6c7hlhcoeifiXU0NlHTPhg"
       },
@@ -1663,6 +1647,22 @@
       "duration_ms": 226954,
       "name": "love is just a word",
       "url": "https://open.spotify.com/track/5ozaEo4KGNnJgdzChs7FQi"
+    },
+    {
+      "added_at": "2026-11-22 23:29:36",
+      "album": {
+        "name": "My Guy",
+        "url": "https://open.spotify.com/album/0x6tr75ApACgiGnraluC8t"
+      },
+      "artists": [
+        {
+          "name": "Sam Smith",
+          "url": "https://open.spotify.com/artist/2wY79sveU1sp5g7SokKOiI"
+        }
+      ],
+      "duration_ms": 230604,
+      "name": "My Guy",
+      "url": "https://open.spotify.com/track/3n6ytjkbhypwQsRMreKjyT"
     }
   ],
   "unique_name": "Warm Fuzzy Feeling",

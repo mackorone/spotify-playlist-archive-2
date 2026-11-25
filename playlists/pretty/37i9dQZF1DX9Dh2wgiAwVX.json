@@ -1,12 +1,12 @@
 {
   "description": "\u00a1Tu dosis de energ\u00eda para alegrarte el d\u00eda!",
-  "num_followers": 1780440,
+  "num_followers": 1780368,
   "original_name": "Hits Alegres",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAH9wgU5tpvWB/tp1cUt+yiGe1rkC",
+  "snapshot_id": "AAAAAMfqkOIL63IPoSSFn1VmofsOI1DV",
   "tracks": [
     {
       "added_at": "2026-10-13 15:25:02",
@@ -339,22 +339,6 @@
     {
       "added_at": "2026-10-13 15:25:02",
       "album": {
-        "name": "Astro Lounge",
-        "url": "https://open.spotify.com/album/2kyTLcEZe6nc1s6ve0zW9P"
-      },
-      "artists": [
-        {
-          "name": "Smash Mouth",
-          "url": "https://open.spotify.com/artist/2iEvnFsWxR0Syqu2JNopAd"
-        }
-      ],
-      "duration_ms": 200373,
-      "name": "All Star",
-      "url": "https://open.spotify.com/track/3cfOd4CMv2snFaKAnMdnvK"
-    },
-    {
-      "added_at": "2026-10-13 15:25:02",
-      "album": {
         "name": "SORDO DE UN PIE",
         "url": "https://open.spotify.com/album/6W88MgHDPkCPL64IIH3jir"
       },
@@ -367,6 +351,22 @@
       "duration_ms": 202200,
       "name": "RETRICA",
       "url": "https://open.spotify.com/track/7AZ2LheRr13nDXyVrXKKMQ"
+    },
+    {
+      "added_at": "2026-10-13 15:25:02",
+      "album": {
+        "name": "Astro Lounge",
+        "url": "https://open.spotify.com/album/2kyTLcEZe6nc1s6ve0zW9P"
+      },
+      "artists": [
+        {
+          "name": "Smash Mouth",
+          "url": "https://open.spotify.com/artist/2iEvnFsWxR0Syqu2JNopAd"
+        }
+      ],
+      "duration_ms": 200373,
+      "name": "All Star",
+      "url": "https://open.spotify.com/track/3cfOd4CMv2snFaKAnMdnvK"
     },
     {
       "added_at": "2026-10-13 15:25:02",
@@ -407,26 +407,6 @@
     {
       "added_at": "2026-10-13 15:25:02",
       "album": {
-        "name": "De mi pu\u00f1o y letra - Edicion Coleccionista",
-        "url": "https://open.spotify.com/album/1cz8fhax6HNiCSE1uuV2Vs"
-      },
-      "artists": [
-        {
-          "name": "Carlos Baute",
-          "url": "https://open.spotify.com/artist/3smfreCkyJt7bShaTYpG77"
-        },
-        {
-          "name": "Marta S\u00e1nchez",
-          "url": "https://open.spotify.com/artist/368rTiMKMrz3b03az6B14w"
-        }
-      ],
-      "duration_ms": 232533,
-      "name": "Colgando en tus manos (con Marta S\u00e1nchez)",
-      "url": "https://open.spotify.com/track/3UI9I3e1g1y5T3SMfdgfGO"
-    },
-    {
-      "added_at": "2026-10-13 15:25:02",
-      "album": {
         "name": "Motivan2",
         "url": "https://open.spotify.com/album/22lEQJ7khtB2yvsq84FDQb"
       },
@@ -443,6 +423,26 @@
       "duration_ms": 209453,
       "name": "Otra Vez (feat. J Balvin)",
       "url": "https://open.spotify.com/track/3QwBODjSEzelZyVjxPOHdq"
+    },
+    {
+      "added_at": "2026-10-13 15:25:02",
+      "album": {
+        "name": "De mi pu\u00f1o y letra - Edicion Coleccionista",
+        "url": "https://open.spotify.com/album/1cz8fhax6HNiCSE1uuV2Vs"
+      },
+      "artists": [
+        {
+          "name": "Carlos Baute",
+          "url": "https://open.spotify.com/artist/3smfreCkyJt7bShaTYpG77"
+        },
+        {
+          "name": "Marta S\u00e1nchez",
+          "url": "https://open.spotify.com/artist/368rTiMKMrz3b03az6B14w"
+        }
+      ],
+      "duration_ms": 232533,
+      "name": "Colgando en tus manos (con Marta S\u00e1nchez)",
+      "url": "https://open.spotify.com/track/3UI9I3e1g1y5T3SMfdgfGO"
     },
     {
       "added_at": "2026-10-13 15:25:02",
@@ -695,6 +695,22 @@
     {
       "added_at": "2026-10-13 15:25:02",
       "album": {
+        "name": "Where The Shadow Ends",
+        "url": "https://open.spotify.com/album/7jPoliCU7TRA13Wro32AOD"
+      },
+      "artists": [
+        {
+          "name": "BANNERS",
+          "url": "https://open.spotify.com/artist/4qWnlmXWuGv2TtuxtIWlJX"
+        }
+      ],
+      "duration_ms": 219801,
+      "name": "Someone To You",
+      "url": "https://open.spotify.com/track/2f0pn9DkEJwAzXApnFh5cr"
+    },
+    {
+      "added_at": "2026-10-13 15:25:02",
+      "album": {
         "name": "Mon Amour (Remix)",
         "url": "https://open.spotify.com/album/4TWsxSw8df17aja6JSaar5"
       },
@@ -711,22 +727,6 @@
       "duration_ms": 179940,
       "name": "Mon Amour - Remix",
       "url": "https://open.spotify.com/track/5TMLavqGRKNxgzMBrVpC9R"
-    },
-    {
-      "added_at": "2026-10-13 15:25:02",
-      "album": {
-        "name": "Where The Shadow Ends",
-        "url": "https://open.spotify.com/album/7jPoliCU7TRA13Wro32AOD"
-      },
-      "artists": [
-        {
-          "name": "BANNERS",
-          "url": "https://open.spotify.com/artist/4qWnlmXWuGv2TtuxtIWlJX"
-        }
-      ],
-      "duration_ms": 219801,
-      "name": "Someone To You",
-      "url": "https://open.spotify.com/track/2f0pn9DkEJwAzXApnFh5cr"
     },
     {
       "added_at": "2026-10-13 15:25:02",
@@ -1047,6 +1047,22 @@
     {
       "added_at": "2026-10-13 15:25:02",
       "album": {
+        "name": "Curiosa La Cara De Tu Padre",
+        "url": "https://open.spotify.com/album/00UlhRF25elWQ4ImKuj8SI"
+      },
+      "artists": [
+        {
+          "name": "Melendi",
+          "url": "https://open.spotify.com/artist/1EXjXQpDx2pROygh8zvHs4"
+        }
+      ],
+      "duration_ms": 222720,
+      "name": "Un violinista en tu tejado",
+      "url": "https://open.spotify.com/track/62sv8pbKqGwVeN4F20DSXM"
+    },
+    {
+      "added_at": "2026-10-13 15:25:02",
+      "album": {
         "name": "EL BACHAT\u00d3N DE LA L",
         "url": "https://open.spotify.com/album/65gUW0rI0yrnYpZUSS4Us2"
       },
@@ -1063,22 +1079,6 @@
       "duration_ms": 201233,
       "name": "EL BACHAT\u00d3N DE LA L",
       "url": "https://open.spotify.com/track/3RHT8N9fhgqsD6KGDrquaW"
-    },
-    {
-      "added_at": "2026-10-13 15:25:02",
-      "album": {
-        "name": "Curiosa La Cara De Tu Padre",
-        "url": "https://open.spotify.com/album/00UlhRF25elWQ4ImKuj8SI"
-      },
-      "artists": [
-        {
-          "name": "Melendi",
-          "url": "https://open.spotify.com/artist/1EXjXQpDx2pROygh8zvHs4"
-        }
-      ],
-      "duration_ms": 222720,
-      "name": "Un violinista en tu tejado",
-      "url": "https://open.spotify.com/track/62sv8pbKqGwVeN4F20DSXM"
     },
     {
       "added_at": "2026-10-13 15:25:02",

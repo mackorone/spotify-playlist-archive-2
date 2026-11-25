@@ -1,12 +1,12 @@
 {
   "description": "This is Cardi B. The essential tracks, all in one playlist.",
-  "num_followers": 697807,
+  "num_followers": 697823,
   "original_name": "This Is Cardi B",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "awIwgAAAAAA91i/IsVbKKOUIujC1MKd4",
+  "snapshot_id": "awOCAAAAAACaddJtJpUahU6m9356zzgr",
   "tracks": [
     {
       "added_at": null,
@@ -636,9 +636,9 @@
           "url": "https://open.spotify.com/artist/4kYSro6naA4h99UJvo89HB"
         }
       ],
-      "duration_ms": 183426,
-      "name": "Pretty & Petty",
-      "url": "https://open.spotify.com/track/4qpqtd3FqIzZaFgHrDYExi"
+      "duration_ms": 146560,
+      "name": "ErrTime",
+      "url": "https://open.spotify.com/track/4VpME4V6tVCPGI5KCyZDw2"
     },
     {
       "added_at": null,
@@ -708,9 +708,9 @@
           "url": "https://open.spotify.com/artist/4kYSro6naA4h99UJvo89HB"
         }
       ],
-      "duration_ms": 146560,
-      "name": "ErrTime",
-      "url": "https://open.spotify.com/track/4VpME4V6tVCPGI5KCyZDw2"
+      "duration_ms": 183426,
+      "name": "Pretty & Petty",
+      "url": "https://open.spotify.com/track/4qpqtd3FqIzZaFgHrDYExi"
     },
     {
       "added_at": null,
@@ -883,6 +883,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "AM I THE DRAMA? (Beat Edition)",
+        "url": "https://open.spotify.com/album/68qkDEJOnNepRvHL1SkVDi"
+      },
+      "artists": [
+        {
+          "name": "Cardi B",
+          "url": "https://open.spotify.com/artist/4kYSro6naA4h99UJvo89HB"
+        }
+      ],
+      "duration_ms": 178360,
+      "name": "Magnet",
+      "url": "https://open.spotify.com/track/0oLhAQpQ1Y7H1haNDmzr1L"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Who Want The Smoke?",
         "url": "https://open.spotify.com/album/56jF03rEi6shj9lKH0Y2Wc"
       },
@@ -903,22 +919,6 @@
       "duration_ms": 198666,
       "name": "Who Want The Smoke?",
       "url": "https://open.spotify.com/track/3LR0t8XqZ1FUj6nj01sXN0"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "AM I THE DRAMA? (Beat Edition)",
-        "url": "https://open.spotify.com/album/68qkDEJOnNepRvHL1SkVDi"
-      },
-      "artists": [
-        {
-          "name": "Cardi B",
-          "url": "https://open.spotify.com/artist/4kYSro6naA4h99UJvo89HB"
-        }
-      ],
-      "duration_ms": 178360,
-      "name": "Magnet",
-      "url": "https://open.spotify.com/track/0oLhAQpQ1Y7H1haNDmzr1L"
     },
     {
       "added_at": null,

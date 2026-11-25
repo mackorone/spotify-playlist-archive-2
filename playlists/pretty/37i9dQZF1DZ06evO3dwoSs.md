@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3dwoSs.md) - [plain]
 
 > This is Five Finger Death Punch\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 574,405 likes - 49 songs - 3 hr 8 min
+[Spotify](https://open.spotify.com/user/spotify) - 574,422 likes - 49 songs - 3 hr 8 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -37,8 +37,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3dwoSs.md) - [plain]
 | 27 | [Coming Down](https://open.spotify.com/track/6AEnqV1hHhG5ckUMysMftn) | [Five Finger Death Punch](https://open.spotify.com/artist/5t28BP42x2axFnqOOMg3CM) | [American Capitalist \(Deluxe Edition\)](https://open.spotify.com/album/6pJqO1A0sdJEiXfGeQ0VVV) | 4:01 |
 | 28 | [Inside Out](https://open.spotify.com/track/163Kb2pSLLduhfbO6Zn0sL) | [Five Finger Death Punch](https://open.spotify.com/artist/5t28BP42x2axFnqOOMg3CM) | [F8](https://open.spotify.com/album/7vAcymF4feKxvqcUDzLQD2) | 3:46 |
 | 29 | [Thanks For Asking](https://open.spotify.com/track/1pZwsIB2ogBnbjydoIHQnL) | [Five Finger Death Punch](https://open.spotify.com/artist/5t28BP42x2axFnqOOMg3CM) | [AfterLife](https://open.spotify.com/album/2xO5zlCGNyap7Jx1ED3HgG) | 3:18 |
-| 30 | [I Apologize](https://open.spotify.com/track/1FZzaCV2hGxEmvOK7xp77h) | [Five Finger Death Punch](https://open.spotify.com/artist/5t28BP42x2axFnqOOMg3CM) | [Got Your Six \(Deluxe\)](https://open.spotify.com/album/2rxvWo1v0fJVD3PGAYgycP) | 4:02 |
-| 31 | [Holy Water \(feat\. Ivan Moody of Five Finger Death Punch\)](https://open.spotify.com/track/0cFJWQ1cFH1e6BdtBHiHPl) | [The Funeral Portrait](https://open.spotify.com/artist/4iGsihTcyZ80RQFZhC8bf8), [Five Finger Death Punch](https://open.spotify.com/artist/5t28BP42x2axFnqOOMg3CM) | [Greetings From Suffocate City \(From Beyond The Abyss: Deluxe Edition\)](https://open.spotify.com/album/12ttyJzXOnnpSzA1Pk8FD2) | 3:01 |
+| 30 | [Holy Water \(feat\. Ivan Moody of Five Finger Death Punch\)](https://open.spotify.com/track/0cFJWQ1cFH1e6BdtBHiHPl) | [The Funeral Portrait](https://open.spotify.com/artist/4iGsihTcyZ80RQFZhC8bf8), [Five Finger Death Punch](https://open.spotify.com/artist/5t28BP42x2axFnqOOMg3CM) | [Greetings From Suffocate City \(From Beyond The Abyss: Deluxe Edition\)](https://open.spotify.com/album/12ttyJzXOnnpSzA1Pk8FD2) | 3:01 |
+| 31 | [I Apologize](https://open.spotify.com/track/1FZzaCV2hGxEmvOK7xp77h) | [Five Finger Death Punch](https://open.spotify.com/artist/5t28BP42x2axFnqOOMg3CM) | [Got Your Six \(Deluxe\)](https://open.spotify.com/album/2rxvWo1v0fJVD3PGAYgycP) | 4:02 |
 | 32 | [Full Circle](https://open.spotify.com/track/76CWLFHm3OFuE2P1dDMhi3) | [Five Finger Death Punch](https://open.spotify.com/artist/5t28BP42x2axFnqOOMg3CM) | [F8](https://open.spotify.com/album/7vAcymF4feKxvqcUDzLQD2) | 3:22 |
 | 33 | [AfterLife](https://open.spotify.com/track/40gGeC397vLmz4eETZDSrG) | [Five Finger Death Punch](https://open.spotify.com/artist/5t28BP42x2axFnqOOMg3CM) | [AfterLife](https://open.spotify.com/album/2xO5zlCGNyap7Jx1ED3HgG) | 4:03 |
 | 34 | [The Bleeding](https://open.spotify.com/track/6Q1VTJwPerMgRAD0ojg8Ax) | [Five Finger Death Punch](https://open.spotify.com/artist/5t28BP42x2axFnqOOMg3CM) | [The Way of the Fist](https://open.spotify.com/album/6IYm3QNNraRFIJdMBPh1wN) | 4:31 |
@@ -58,4 +58,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3dwoSs.md) - [plain]
 | 48 | [Mama Said Knock You Out](https://open.spotify.com/track/2TdpWCDMpjeNqrrLeZY4V5) | [Five Finger Death Punch](https://open.spotify.com/artist/5t28BP42x2axFnqOOMg3CM) | [The Wrong Side of Heaven and the Righteous Side of Hell, Vol\. 1 \(Deluxe Edition\)](https://open.spotify.com/album/1nW4xR4B2Ok6JOv9KyMYhy) | 2:47 |
 | 49 | [Hard to See](https://open.spotify.com/track/0rrv8cn4zvF4tS9a6ulxur) | [Five Finger Death Punch](https://open.spotify.com/artist/5t28BP42x2axFnqOOMg3CM) | [War Is the Answer](https://open.spotify.com/album/5x2DACMr5TlOFvDEi14DiC) | 3:29 |
 
-Snapshot ID: `awIwgAAAAABE3wmcEOicuYoHW7wp+Dg7`
+Snapshot ID: `awOCAAAAAACnm3AeLyLDW2TJN2cIDvOp`

@@ -111,8 +111,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFQZiyOrknvy8.md) - [plain]
 | 101 | [VIELLEICHT \- Intro](https://open.spotify.com/track/1AsxPpTZji5ID11pwrmZ3t) | [badchieff](https://open.spotify.com/artist/6GoNVmYCl0yUm4pEp80vn6) | [I SEE YOU WHEN I SEE YOU](https://open.spotify.com/album/6opoFip0TslsRO61u8baue) | 1:38 |
 | 102 | [Goodbye](https://open.spotify.com/track/57uVeCwm1sjRnS06Wx02fV) | [RANE](https://open.spotify.com/artist/4XXpC48bL6E032lJw4aSFz) | [Goodbye](https://open.spotify.com/album/74w4R1v3OWfHB6AWlcuQJe) | 2:18 |
 | 103 | [Dragonflies](https://open.spotify.com/track/3avJVZ3PVXX54rfCiZnLdX) | [SVRCINA](https://open.spotify.com/artist/3wRt3iJpZDOg73CTUkfv5C) | [Hearing Colour](https://open.spotify.com/album/4JRa8rklT1kE6cN1toiirY) | 3:18 |
-| 104 | [Mal Amor](https://open.spotify.com/track/4uhmn8qVCJD4F9aEF9cYtH) | [Nico Santos](https://open.spotify.com/artist/3A9B6c1CrSPauiOblw7pWz), [Alvaro Soler](https://open.spotify.com/artist/2urF8dgLVfDjunO0pcHUEe) | [Ride](https://open.spotify.com/album/7dPtQ96HtsmPSq8oWsmkJv) | 3:09 |
-| 105 | [optimist](https://open.spotify.com/track/50qIwYTcQBpe4ZMDMpiitK) | [Nico Santos](https://open.spotify.com/artist/3A9B6c1CrSPauiOblw7pWz) | [POV \(Personal \- Optimist \- ...\)](https://open.spotify.com/album/2HGSaouTojQVwhkHGIRIHn) | 2:56 |
+| 104 | [optimist](https://open.spotify.com/track/50qIwYTcQBpe4ZMDMpiitK) | [Nico Santos](https://open.spotify.com/artist/3A9B6c1CrSPauiOblw7pWz) | [POV \(Personal \- Optimist \- ...\)](https://open.spotify.com/album/2HGSaouTojQVwhkHGIRIHn) | 2:56 |
+| 105 | [Mal Amor](https://open.spotify.com/track/4uhmn8qVCJD4F9aEF9cYtH) | [Nico Santos](https://open.spotify.com/artist/3A9B6c1CrSPauiOblw7pWz), [Alvaro Soler](https://open.spotify.com/artist/2urF8dgLVfDjunO0pcHUEe) | [Ride](https://open.spotify.com/album/7dPtQ96HtsmPSq8oWsmkJv) | 3:09 |
 | 106 | [Pieces](https://open.spotify.com/track/03GwGxzLsZoMDPodpFGWDf) | [Nico Santos](https://open.spotify.com/artist/3A9B6c1CrSPauiOblw7pWz) | [Pieces](https://open.spotify.com/album/3VWyg2FxDIhfwBgRzDxw6I) | 3:12 |
 | 107 | [Berlin City Girl](https://open.spotify.com/track/214zEjNd21eUMoXxr3VqWj) | [anaïs](https://open.spotify.com/artist/5uT4SmzhWTYv1iia2BFnVQ) | [Wasting My Nights](https://open.spotify.com/album/1X9H1qiFnjyIK5OuFv0FJF) | 2:11 |
 | 108 | [So Mean](https://open.spotify.com/track/4BiBdzJFaHY6VLIXa5CPpc) | [Iggy](https://open.spotify.com/artist/0MDfMKBf1cV65pnQ1ZRm9O) | [So Mean](https://open.spotify.com/album/1YeB4Y72furzzlpmxTsgFc) | 2:41 |
@@ -172,4 +172,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFQZiyOrknvy8.md) - [plain]
 | 162 | [Fliegen](https://open.spotify.com/track/1vlSFUZcOHEbotxb1BPVMx) | [Julian Williams](https://open.spotify.com/artist/6dZcFNvJUa9yTkEF1mG3NY) | [5 EP](https://open.spotify.com/album/7tG6m07jxmMFaqBpVRDXxO) | 3:53 |
 | 163 | [Playlist](https://open.spotify.com/track/2eLkiZOJ0xevCWgAvfgJGP) | [Feel Glück](https://open.spotify.com/artist/3wgEyEndxjMfRILKuvqihv), [Arend Peter Kraus](https://open.spotify.com/artist/2BOd9SVFrYP7OpAQmAUf3n) | [Playlist](https://open.spotify.com/album/6cgZXJJFgzMwL6kiyQeVv7) | 3:54 |
 
-Snapshot ID: `AcifMgAAAAAKIX9jzSeFBlitKCk3DufI`
+Snapshot ID: `AciklgAAAAAkWJ+vMUx3QCEnfC7q+5Q8`

@@ -1,12 +1,12 @@
 {
   "description": "This is Rico Nasty. The essential tracks, all in one playlist.",
-  "num_followers": 20454,
+  "num_followers": 20452,
   "original_name": "This Is Rico Nasty",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "awIwgAAAAAB/HWGfsT5/ALTGtqkWhyWy",
+  "snapshot_id": "awOCAAAAAAClrljxxUYJRYwEzRAFmz9S",
   "tracks": [
     {
       "added_at": null,
@@ -139,26 +139,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Traumazine",
-        "url": "https://open.spotify.com/album/4YP0h2KGDb20eJuStnBvim"
-      },
-      "artists": [
-        {
-          "name": "Megan Thee Stallion",
-          "url": "https://open.spotify.com/artist/181bsRPaVXVlUKXrxwZfHK"
-        },
-        {
-          "name": "Rico Nasty",
-          "url": "https://open.spotify.com/artist/2OaHYHb2XcFPvqL3VsyPzU"
-        }
-      ],
-      "duration_ms": 153645,
-      "name": "Scary (feat. Rico Nasty)",
-      "url": "https://open.spotify.com/track/0QWauSvdEXExwUUDa4QCsj"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Las Ruinas",
         "url": "https://open.spotify.com/album/6pyTFqxVk6Js8A8xfOg8ZO"
       },
@@ -175,6 +155,26 @@
       "duration_ms": 213133,
       "name": "Jungle - Rico Nasty Remix",
       "url": "https://open.spotify.com/track/3ycgBFWvzxjLtY2YJuQMms"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Traumazine",
+        "url": "https://open.spotify.com/album/4YP0h2KGDb20eJuStnBvim"
+      },
+      "artists": [
+        {
+          "name": "Megan Thee Stallion",
+          "url": "https://open.spotify.com/artist/181bsRPaVXVlUKXrxwZfHK"
+        },
+        {
+          "name": "Rico Nasty",
+          "url": "https://open.spotify.com/artist/2OaHYHb2XcFPvqL3VsyPzU"
+        }
+      ],
+      "duration_ms": 153645,
+      "name": "Scary (feat. Rico Nasty)",
+      "url": "https://open.spotify.com/track/0QWauSvdEXExwUUDa4QCsj"
     },
     {
       "added_at": null,
@@ -436,9 +436,9 @@
           "url": "https://open.spotify.com/artist/2OaHYHb2XcFPvqL3VsyPzU"
         }
       ],
-      "duration_ms": 134373,
-      "name": "Runway",
-      "url": "https://open.spotify.com/track/3CQ61nWHp8oiGK1HlGRS3d"
+      "duration_ms": 159200,
+      "name": "Rotation",
+      "url": "https://open.spotify.com/track/0AvmWUrj07p6VNfyiWShch"
     },
     {
       "added_at": null,
@@ -504,9 +504,9 @@
           "url": "https://open.spotify.com/artist/2OaHYHb2XcFPvqL3VsyPzU"
         }
       ],
-      "duration_ms": 159200,
-      "name": "Rotation",
-      "url": "https://open.spotify.com/track/0AvmWUrj07p6VNfyiWShch"
+      "duration_ms": 134373,
+      "name": "Runway",
+      "url": "https://open.spotify.com/track/3CQ61nWHp8oiGK1HlGRS3d"
     },
     {
       "added_at": null,
@@ -783,22 +783,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Nasty",
-        "url": "https://open.spotify.com/album/4RKiTVGT9pCVRnqIkwKWo1"
-      },
-      "artists": [
-        {
-          "name": "Rico Nasty",
-          "url": "https://open.spotify.com/artist/2OaHYHb2XcFPvqL3VsyPzU"
-        }
-      ],
-      "duration_ms": 91754,
-      "name": "Bitch I'm Nasty",
-      "url": "https://open.spotify.com/track/2xXNa4tR2CronQsZ6OKQtP"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Digital Dancer",
         "url": "https://open.spotify.com/album/5evPq2oHq5hdABTAlZgGfp"
       },
@@ -819,6 +803,22 @@
       "duration_ms": 131392,
       "name": "Get Nasty",
       "url": "https://open.spotify.com/track/2eTcyvCgBNiguw7wdmynh2"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Nasty",
+        "url": "https://open.spotify.com/album/4RKiTVGT9pCVRnqIkwKWo1"
+      },
+      "artists": [
+        {
+          "name": "Rico Nasty",
+          "url": "https://open.spotify.com/artist/2OaHYHb2XcFPvqL3VsyPzU"
+        }
+      ],
+      "duration_ms": 91754,
+      "name": "Bitch I'm Nasty",
+      "url": "https://open.spotify.com/track/2xXNa4tR2CronQsZ6OKQtP"
     },
     {
       "added_at": null,

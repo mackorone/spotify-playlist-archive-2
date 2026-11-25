@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evNZYoM4E.md) - [plain]
 
 > This is Andre Hazes\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 109,247 likes - 50 songs - 3 hr 4 min
+[Spotify](https://open.spotify.com/user/spotify) - 109,251 likes - 50 songs - 3 hr 4 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evNZYoM4E.md) - [plain]
 | 49 | [Het Hoeft Niet Meer](https://open.spotify.com/track/0c5LO2LA2m94FKEVRCje6B) | [Andre Hazes](https://open.spotify.com/artist/04MtOUkmIDC4LAxDDBjrOY) | [Kleine Jongen](https://open.spotify.com/album/3bFmAoee6ezDnTaWMP7USl) | 3:15 |
 | 50 | ['T Is Voorbij](https://open.spotify.com/track/1Vfyx8K5ccwCcIaTMUuDsZ) | [Andre Hazes](https://open.spotify.com/artist/04MtOUkmIDC4LAxDDBjrOY) | [Jij Bent Alles](https://open.spotify.com/album/15mOfcMsTYi6chFIA0jyXH) | 3:30 |
 
-Snapshot ID: `awIwgAAAAABZeDW+iydXXyNlSSIqKxOV`
+Snapshot ID: `awOCAAAAAABAB96safFKgi4MPPNCi8rR`

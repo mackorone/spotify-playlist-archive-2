@@ -1,12 +1,12 @@
 {
   "description": "bold tracks, serious swagger.",
-  "num_followers": 1361523,
+  "num_followers": 1361489,
   "original_name": "Swagger",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAABSfyYdqGbXI871krN5PlwN+fkP7",
+  "snapshot_id": "AAAAAIOyY1y0sdW93lZEwFlG2TJlsBIS",
   "tracks": [
     {
       "added_at": "2024-08-23 15:39:31",
@@ -343,18 +343,18 @@
     {
       "added_at": "2024-08-23 15:39:31",
       "album": {
-        "name": "Goin' Platinum!",
-        "url": "https://open.spotify.com/album/6M5DQTTp3zGaWOH6hXsYJV"
+        "name": "Ashkelon",
+        "url": "https://open.spotify.com/album/2JZRyLhDpddo6XUwtb2ZJA"
       },
       "artists": [
         {
-          "name": "Robert Finley",
-          "url": "https://open.spotify.com/artist/29mRqqZ15WaYjEsKNzcRkv"
+          "name": "Rayland Baxter",
+          "url": "https://open.spotify.com/artist/251UrhgNbMr15NLzQ2KyKq"
         }
       ],
-      "duration_ms": 157093,
-      "name": "Medicine Woman",
-      "url": "https://open.spotify.com/track/3S9rZU1GDPhs8WNDv5HQSs"
+      "duration_ms": 313867,
+      "name": "Bad Things",
+      "url": "https://open.spotify.com/track/6FR7CxgunBBN1jYJxsX8uZ"
     },
     {
       "added_at": "2024-08-23 15:39:31",
@@ -375,18 +375,18 @@
     {
       "added_at": "2024-08-23 15:39:31",
       "album": {
-        "name": "Ashkelon",
-        "url": "https://open.spotify.com/album/2JZRyLhDpddo6XUwtb2ZJA"
+        "name": "Goin' Platinum!",
+        "url": "https://open.spotify.com/album/6M5DQTTp3zGaWOH6hXsYJV"
       },
       "artists": [
         {
-          "name": "Rayland Baxter",
-          "url": "https://open.spotify.com/artist/251UrhgNbMr15NLzQ2KyKq"
+          "name": "Robert Finley",
+          "url": "https://open.spotify.com/artist/29mRqqZ15WaYjEsKNzcRkv"
         }
       ],
-      "duration_ms": 313867,
-      "name": "Bad Things",
-      "url": "https://open.spotify.com/track/6FR7CxgunBBN1jYJxsX8uZ"
+      "duration_ms": 157093,
+      "name": "Medicine Woman",
+      "url": "https://open.spotify.com/track/3S9rZU1GDPhs8WNDv5HQSs"
     },
     {
       "added_at": "2024-08-23 15:39:31",
@@ -623,6 +623,22 @@
     {
       "added_at": "2024-08-23 15:39:31",
       "album": {
+        "name": "From the Grave",
+        "url": "https://open.spotify.com/album/5DZwggP6PDtv9VMkAmpAsD"
+      },
+      "artists": [
+        {
+          "name": "Juliet Simms",
+          "url": "https://open.spotify.com/artist/1hlXIybvN1I8r3ooBEkYRh"
+        }
+      ],
+      "duration_ms": 215559,
+      "name": "Trouble Finds You",
+      "url": "https://open.spotify.com/track/1gwDIyATjLVi42oBsyUgyJ"
+    },
+    {
+      "added_at": "2024-08-23 15:39:31",
+      "album": {
         "name": "The Major Minor Collective (Bonus Track Edition)",
         "url": "https://open.spotify.com/album/0zUSmhg6ccJjjMlR0T5j9j"
       },
@@ -639,22 +655,6 @@
       "duration_ms": 256773,
       "name": "Beach Seduction (feat. Leah Wellbaum)",
       "url": "https://open.spotify.com/track/6pd6XXS3cCOrLm0Ey7MDYD"
-    },
-    {
-      "added_at": "2024-08-23 15:39:31",
-      "album": {
-        "name": "From the Grave",
-        "url": "https://open.spotify.com/album/5DZwggP6PDtv9VMkAmpAsD"
-      },
-      "artists": [
-        {
-          "name": "Juliet Simms",
-          "url": "https://open.spotify.com/artist/1hlXIybvN1I8r3ooBEkYRh"
-        }
-      ],
-      "duration_ms": 215559,
-      "name": "Trouble Finds You",
-      "url": "https://open.spotify.com/track/1gwDIyATjLVi42oBsyUgyJ"
     },
     {
       "added_at": "2024-08-23 15:39:31",
@@ -679,22 +679,6 @@
     {
       "added_at": "2024-08-23 15:39:31",
       "album": {
-        "name": "Love and the Death of Damnation",
-        "url": "https://open.spotify.com/album/6h4xI9ztHRecvIT80mk8gW"
-      },
-      "artists": [
-        {
-          "name": "The White Buffalo",
-          "url": "https://open.spotify.com/artist/3ohcHMuUq1717s8AH17hfT"
-        }
-      ],
-      "duration_ms": 237053,
-      "name": "Rocky",
-      "url": "https://open.spotify.com/track/7gM0JRYTtThuGj7akmaEVE"
-    },
-    {
-      "added_at": "2024-08-23 15:39:31",
-      "album": {
         "name": "Axis Mundi",
         "url": "https://open.spotify.com/album/1Br1pBqY2XH6L3cQpNUFLY"
       },
@@ -707,6 +691,22 @@
       "duration_ms": 273866,
       "name": "Smoke Rising",
       "url": "https://open.spotify.com/track/54d6U1U3Y74mDmJJECZNNQ"
+    },
+    {
+      "added_at": "2024-08-23 15:39:31",
+      "album": {
+        "name": "Love and the Death of Damnation",
+        "url": "https://open.spotify.com/album/6h4xI9ztHRecvIT80mk8gW"
+      },
+      "artists": [
+        {
+          "name": "The White Buffalo",
+          "url": "https://open.spotify.com/artist/3ohcHMuUq1717s8AH17hfT"
+        }
+      ],
+      "duration_ms": 237053,
+      "name": "Rocky",
+      "url": "https://open.spotify.com/track/7gM0JRYTtThuGj7akmaEVE"
     },
     {
       "added_at": "2024-08-23 15:39:31",

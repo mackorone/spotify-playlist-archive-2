@@ -1,12 +1,12 @@
 {
   "description": "'Tis the season! All new holiday releases. Cover: Olivia Rodrigo",
-  "num_followers": 274488,
+  "num_followers": 274788,
   "original_name": "New Music Holiday",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAM0jj5ZAkkJGUJLoWhTMXBU4juSf",
+  "snapshot_id": "AAAAAL36mKJzPlyuriPzL1CrE4YD61Z2",
   "tracks": [
     {
       "added_at": "2026-11-06 19:01:16",
@@ -61,6 +61,38 @@
       "url": "https://open.spotify.com/track/06tOzNfqvoD38Fo5lfg459"
     },
     {
+      "added_at": "2026-11-25 04:01:35",
+      "album": {
+        "name": "Last Christmas",
+        "url": "https://open.spotify.com/album/2f0zKmLGiADHklRZRD0Qnb"
+      },
+      "artists": [
+        {
+          "name": "Alfie Jukes",
+          "url": "https://open.spotify.com/artist/06qfcPQQZ3AplWOg3KxsQ9"
+        }
+      ],
+      "duration_ms": 213206,
+      "name": "Last Christmas",
+      "url": "https://open.spotify.com/track/6nRzUXop9fvRTNnYyYxGhi"
+    },
+    {
+      "added_at": "2026-11-13 05:41:06",
+      "album": {
+        "name": "Christmas in New York",
+        "url": "https://open.spotify.com/album/3Arw97tnQUGQ3zBkWrEORn"
+      },
+      "artists": [
+        {
+          "name": "EJAE",
+          "url": "https://open.spotify.com/artist/0RMJOzHDhAKY1o2j0W0vxY"
+        }
+      ],
+      "duration_ms": 178013,
+      "name": "Christmas in New York",
+      "url": "https://open.spotify.com/track/02AkOM9aadzbRmOuLvVh3A"
+    },
+    {
       "added_at": "2026-11-20 06:02:53",
       "album": {
         "name": "Christmas in New England (Deluxe Edition)",
@@ -107,22 +139,6 @@
       "duration_ms": 276415,
       "name": "Because It's Christmas",
       "url": "https://open.spotify.com/track/4AlRASyUMQpHCQBBiM106y"
-    },
-    {
-      "added_at": "2026-11-13 05:41:06",
-      "album": {
-        "name": "Christmas in New York",
-        "url": "https://open.spotify.com/album/3Arw97tnQUGQ3zBkWrEORn"
-      },
-      "artists": [
-        {
-          "name": "EJAE",
-          "url": "https://open.spotify.com/artist/0RMJOzHDhAKY1o2j0W0vxY"
-        }
-      ],
-      "duration_ms": 178013,
-      "name": "Christmas in New York",
-      "url": "https://open.spotify.com/track/02AkOM9aadzbRmOuLvVh3A"
     },
     {
       "added_at": "2026-11-20 06:02:53",
@@ -203,6 +219,38 @@
       "duration_ms": 182549,
       "name": "it's the most wonderful time of the year",
       "url": "https://open.spotify.com/track/6ozYsjpGOTCgsQg77xvHaX"
+    },
+    {
+      "added_at": "2026-11-25 04:01:35",
+      "album": {
+        "name": "New & Used",
+        "url": "https://open.spotify.com/album/5jSHfcmmFnNGq1Ykm0ZaRE"
+      },
+      "artists": [
+        {
+          "name": "Nathan Willett",
+          "url": "https://open.spotify.com/artist/7wEIArE2DKbAdDH0G6jxyA"
+        }
+      ],
+      "duration_ms": 234000,
+      "name": "O Holy Night",
+      "url": "https://open.spotify.com/track/6w483e6FtpxXM08pIwXnEN"
+    },
+    {
+      "added_at": "2026-11-25 04:54:50",
+      "album": {
+        "name": "Love On Christmas Day",
+        "url": "https://open.spotify.com/album/4wr3Ti9J4x6jGN2HUf2uLY"
+      },
+      "artists": [
+        {
+          "name": "Brother Wallace",
+          "url": "https://open.spotify.com/artist/1Obi4nLN1WU3jho5LoPV5Z"
+        }
+      ],
+      "duration_ms": 165772,
+      "name": "Love On Christmas Day",
+      "url": "https://open.spotify.com/track/0Rn7rLBoc0bCrbEl1hejm5"
     },
     {
       "added_at": "2026-11-20 06:02:53",

@@ -4,7 +4,7 @@
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/6RZkiFMODT1nUffw6ABTvz">Dolly Parton</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-531 songs - 1 day 3 hr 26 min
+532 songs - 1 day 3 hr 27 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -416,6 +416,7 @@
 | [Talkin' to Myself](https://open.spotify.com/track/6WoEOPgwt9sV5fLAYqJ7lN) | [Porter Wagoner](https://open.spotify.com/artist/4PcLkq6IefIYiRWLXOfwKA) | [I'll Keep On Lovin' You](https://open.spotify.com/album/15IIQzChRHbYX1yR0SZJiy) | 2:21 | 2026-09-08 |  |
 | [Teach Me To Trust](https://open.spotify.com/track/7x7yZoEMXRrjd8PaEWcPSO) | [Dolly Parton](https://open.spotify.com/artist/32vWCbZh0xZ4o9gkz4PsEU) | [SOMETHING SPECIAL](https://open.spotify.com/album/10nsFheUD3oXtcFqMzq1Mj) | 3:27 | 2026-09-08 |  |
 | [Tennessee Homesick Blues](https://open.spotify.com/track/0WFJEeyfg5iSaxCPMcVNRi) | [Dolly Parton](https://open.spotify.com/artist/32vWCbZh0xZ4o9gkz4PsEU) | [Ultimate Dolly Parton](https://open.spotify.com/album/03DTXxfU0UJ96lt1umUtts) | 3:23 | 2026-09-08 |  |
+| [Thanks To You](https://open.spotify.com/track/1MW03pOMqZrkZx5pZczeLp) | [Bill Owens](https://open.spotify.com/artist/1Tf6cTjrIYFQ0DB3ewRGVU), [Louis Owens](https://open.spotify.com/artist/3uL5ZUq6xGHcsDzA6nz9ns) | [The Owens Brothers \- Tomorrow's Tears Today \- Singles 1961 \- 1967](https://open.spotify.com/album/6aCkSUeG211DdQNv14Wwis) | 1:26 | 2026-11-24 |  |
 | [The Alley](https://open.spotify.com/track/5CXXJ7WOvLXXPkPHrWQ38d) | [Porter Wagoner](https://open.spotify.com/artist/4PcLkq6IefIYiRWLXOfwKA) | [Down In the Alley](https://open.spotify.com/album/4YF4fY9YmxyVOfODe4yjyC) | 2:21 | 2026-09-08 |  |
 | [The Bargain Store](https://open.spotify.com/track/2GEuNbl2Aan68tQeHn4ADi) | [Dolly Parton](https://open.spotify.com/artist/32vWCbZh0xZ4o9gkz4PsEU) | [The Bargain Store](https://open.spotify.com/album/1QODRNFrssyoPjn1hQKVX3) | 2:44 | 2026-09-08 |  |
 | [The Beginning](https://open.spotify.com/track/0b0wL2rlmXUTXg89lwcU8a) | [Porter Wagoner](https://open.spotify.com/artist/4PcLkq6IefIYiRWLXOfwKA), [Dolly Parton](https://open.spotify.com/artist/32vWCbZh0xZ4o9gkz4PsEU) | [Say Forever You'll Be Mine](https://open.spotify.com/album/2vSbYIqiZru00WuECI2GUF) | 3:07 | 2026-09-08 |  |

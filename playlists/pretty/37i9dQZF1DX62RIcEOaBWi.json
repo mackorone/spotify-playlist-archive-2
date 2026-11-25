@@ -1,12 +1,12 @@
 {
   "description": "M\u00fasica alegre para que el trabajo se te pase volando.",
-  "num_followers": 569114,
+  "num_followers": 569095,
   "original_name": "En el Trabajo",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAFJs8/KRha+JhqTA+X6c/RcJOpbB",
+  "snapshot_id": "AAAAAOYBEmtzgnGkj6fTLecULvh2kyy0",
   "tracks": [
     {
       "added_at": "2026-09-17 16:51:37",
@@ -567,22 +567,6 @@
     {
       "added_at": "2026-09-17 16:51:37",
       "album": {
-        "name": "The Very Best Of",
-        "url": "https://open.spotify.com/album/05owfigVGpgPe7RKJG1hum"
-      },
-      "artists": [
-        {
-          "name": "UB40",
-          "url": "https://open.spotify.com/artist/69MEO1AADKg1IZrq2XLzo5"
-        }
-      ],
-      "duration_ms": 183733,
-      "name": "Red Red Wine",
-      "url": "https://open.spotify.com/track/4uOKFydzAejjSFqYbv1XPt"
-    },
-    {
-      "added_at": "2026-09-17 16:51:37",
-      "album": {
         "name": "ENOC",
         "url": "https://open.spotify.com/album/69iuPQsXel3luOSDNF0q2Q"
       },
@@ -603,22 +587,18 @@
     {
       "added_at": "2026-09-17 16:51:37",
       "album": {
-        "name": "My Universe",
-        "url": "https://open.spotify.com/album/39McjovZ3M6n5SFtNmWTdp"
+        "name": "The Very Best Of",
+        "url": "https://open.spotify.com/album/05owfigVGpgPe7RKJG1hum"
       },
       "artists": [
         {
-          "name": "Coldplay",
-          "url": "https://open.spotify.com/artist/4gzpq5DPGxSnKTe4SA8HAU"
-        },
-        {
-          "name": "BTS",
-          "url": "https://open.spotify.com/artist/3Nrfpe0tUJi4K4DXYWgMUX"
+          "name": "UB40",
+          "url": "https://open.spotify.com/artist/69MEO1AADKg1IZrq2XLzo5"
         }
       ],
-      "duration_ms": 228000,
-      "name": "My Universe",
-      "url": "https://open.spotify.com/track/3FeVmId7tL5YN8B7R3imoM"
+      "duration_ms": 183733,
+      "name": "Red Red Wine",
+      "url": "https://open.spotify.com/track/4uOKFydzAejjSFqYbv1XPt"
     },
     {
       "added_at": "2026-09-17 16:51:37",
@@ -639,6 +619,26 @@
       "duration_ms": 202386,
       "name": "Ingl\u00e9s En Miami",
       "url": "https://open.spotify.com/track/3Y1xjjepdqMP141ipYCAqA"
+    },
+    {
+      "added_at": "2026-09-17 16:51:37",
+      "album": {
+        "name": "My Universe",
+        "url": "https://open.spotify.com/album/39McjovZ3M6n5SFtNmWTdp"
+      },
+      "artists": [
+        {
+          "name": "Coldplay",
+          "url": "https://open.spotify.com/artist/4gzpq5DPGxSnKTe4SA8HAU"
+        },
+        {
+          "name": "BTS",
+          "url": "https://open.spotify.com/artist/3Nrfpe0tUJi4K4DXYWgMUX"
+        }
+      ],
+      "duration_ms": 228000,
+      "name": "My Universe",
+      "url": "https://open.spotify.com/track/3FeVmId7tL5YN8B7R3imoM"
     },
     {
       "added_at": "2026-09-17 16:51:37",
@@ -727,6 +727,22 @@
     {
       "added_at": "2026-09-17 16:51:37",
       "album": {
+        "name": "Rockferry",
+        "url": "https://open.spotify.com/album/6Yw7f0kqQ1gbt2OHa7fi1g"
+      },
+      "artists": [
+        {
+          "name": "Duffy",
+          "url": "https://open.spotify.com/artist/37NqXwtb6nIEqRt4EJSoIO"
+        }
+      ],
+      "duration_ms": 219920,
+      "name": "Mercy",
+      "url": "https://open.spotify.com/track/1zusIxNqJu8i4g6P6hJ2Qa"
+    },
+    {
+      "added_at": "2026-09-17 16:51:37",
+      "album": {
         "name": "Yo Era Poes\u00eda",
         "url": "https://open.spotify.com/album/18ssoZ7EPMn7mLqV0bW2j5"
       },
@@ -747,22 +763,6 @@
     {
       "added_at": "2026-09-17 16:51:37",
       "album": {
-        "name": "Rockferry",
-        "url": "https://open.spotify.com/album/6Yw7f0kqQ1gbt2OHa7fi1g"
-      },
-      "artists": [
-        {
-          "name": "Duffy",
-          "url": "https://open.spotify.com/artist/37NqXwtb6nIEqRt4EJSoIO"
-        }
-      ],
-      "duration_ms": 219920,
-      "name": "Mercy",
-      "url": "https://open.spotify.com/track/1zusIxNqJu8i4g6P6hJ2Qa"
-    },
-    {
-      "added_at": "2026-09-17 16:51:37",
-      "album": {
         "name": "Apambichao",
         "url": "https://open.spotify.com/album/0DOZOtgMZm8GvvFJFZ6vvT"
       },
@@ -775,22 +775,6 @@
       "duration_ms": 161285,
       "name": "Te hacen falta dos",
       "url": "https://open.spotify.com/track/3Oohz3N32glZTOz0nuxGMD"
-    },
-    {
-      "added_at": "2026-09-17 16:51:37",
-      "album": {
-        "name": "Tacones Rojos",
-        "url": "https://open.spotify.com/album/4mdWMx4VouAqsIqgLt3R6S"
-      },
-      "artists": [
-        {
-          "name": "Sebastian Yatra",
-          "url": "https://open.spotify.com/artist/07YUOmWljBTXwIseAUd9TW"
-        }
-      ],
-      "duration_ms": 189320,
-      "name": "Tacones Rojos",
-      "url": "https://open.spotify.com/track/0Be7sopyKMv8Y8npsUkax2"
     },
     {
       "added_at": "2026-09-17 16:51:37",
@@ -811,6 +795,22 @@
       "duration_ms": 188213,
       "name": "El Mismo Aire - con Pablo Albor\u00e1n",
       "url": "https://open.spotify.com/track/5EbtodsuLbxrFDH6j5avVS"
+    },
+    {
+      "added_at": "2026-09-17 16:51:37",
+      "album": {
+        "name": "Tacones Rojos",
+        "url": "https://open.spotify.com/album/4mdWMx4VouAqsIqgLt3R6S"
+      },
+      "artists": [
+        {
+          "name": "Sebastian Yatra",
+          "url": "https://open.spotify.com/artist/07YUOmWljBTXwIseAUd9TW"
+        }
+      ],
+      "duration_ms": 189320,
+      "name": "Tacones Rojos",
+      "url": "https://open.spotify.com/track/0Be7sopyKMv8Y8npsUkax2"
     },
     {
       "added_at": "2026-09-17 16:51:37",
@@ -867,22 +867,6 @@
     {
       "added_at": "2026-09-17 16:51:37",
       "album": {
-        "name": "El Amor En Los Tiempos Del Perreo",
-        "url": "https://open.spotify.com/album/4ARUAVQnIDB02yVO8uvaJE"
-      },
-      "artists": [
-        {
-          "name": "Piso 21",
-          "url": "https://open.spotify.com/artist/4bw2Am3p9ji3mYsXNXtQcd"
-        }
-      ],
-      "duration_ms": 211998,
-      "name": "Tan Bonita",
-      "url": "https://open.spotify.com/track/6mm3K0yWp6uzfOMuipM9Zh"
-    },
-    {
-      "added_at": "2026-09-17 16:51:37",
-      "album": {
         "name": "Future Nostalgia (The Moonlight Edition)",
         "url": "https://open.spotify.com/album/0JeyP8r2hBxYIoxXv11XiX"
       },
@@ -895,6 +879,22 @@
       "duration_ms": 165506,
       "name": "We're Good",
       "url": "https://open.spotify.com/track/1diS6nkxMQc3wwC4G1j0bh"
+    },
+    {
+      "added_at": "2026-09-17 16:51:37",
+      "album": {
+        "name": "El Amor En Los Tiempos Del Perreo",
+        "url": "https://open.spotify.com/album/4ARUAVQnIDB02yVO8uvaJE"
+      },
+      "artists": [
+        {
+          "name": "Piso 21",
+          "url": "https://open.spotify.com/artist/4bw2Am3p9ji3mYsXNXtQcd"
+        }
+      ],
+      "duration_ms": 211998,
+      "name": "Tan Bonita",
+      "url": "https://open.spotify.com/track/6mm3K0yWp6uzfOMuipM9Zh"
     },
     {
       "added_at": "2026-09-17 16:51:37",
@@ -1299,22 +1299,6 @@
     {
       "added_at": "2026-09-17 16:51:37",
       "album": {
-        "name": "Por un Pendejo no se llora",
-        "url": "https://open.spotify.com/album/2EruLTvow64kevFfTRKP6f"
-      },
-      "artists": [
-        {
-          "name": "Manuel Turizo",
-          "url": "https://open.spotify.com/artist/0tmwSHipWxN12fsoLcFU3B"
-        }
-      ],
-      "duration_ms": 151146,
-      "name": "Por un Pendejo no se llora",
-      "url": "https://open.spotify.com/track/4VPl3WGYKxQG8EVis7uLDt"
-    },
-    {
-      "added_at": "2026-09-17 16:51:37",
-      "album": {
         "name": "Love Hurts",
         "url": "https://open.spotify.com/album/23ZynaAt0r7guEQef3baHW"
       },
@@ -1327,6 +1311,22 @@
       "duration_ms": 170000,
       "name": "The Shoop Shoop Song (It's In His Kiss)",
       "url": "https://open.spotify.com/track/5oV1YjM2rtyZ55txHHsFUu"
+    },
+    {
+      "added_at": "2026-09-17 16:51:37",
+      "album": {
+        "name": "Por un Pendejo no se llora",
+        "url": "https://open.spotify.com/album/2EruLTvow64kevFfTRKP6f"
+      },
+      "artists": [
+        {
+          "name": "Manuel Turizo",
+          "url": "https://open.spotify.com/artist/0tmwSHipWxN12fsoLcFU3B"
+        }
+      ],
+      "duration_ms": 151146,
+      "name": "Por un Pendejo no se llora",
+      "url": "https://open.spotify.com/track/4VPl3WGYKxQG8EVis7uLDt"
     },
     {
       "added_at": "2026-09-17 16:51:37",
@@ -1419,22 +1419,18 @@
     {
       "added_at": "2026-09-17 16:51:37",
       "album": {
-        "name": "LA GUARACHA (Oh Oh Oh)",
-        "url": "https://open.spotify.com/album/2I5gxj9pxbyE7o0TpcadAN"
+        "name": "Por la boca vive el pez",
+        "url": "https://open.spotify.com/album/5iW5yzlJsGBIfsemMr8v8y"
       },
       "artists": [
         {
-          "name": "Manuel Turizo",
-          "url": "https://open.spotify.com/artist/0tmwSHipWxN12fsoLcFU3B"
-        },
-        {
-          "name": "Martinwhite",
-          "url": "https://open.spotify.com/artist/1PANUPmT5KUDGs3Xgkhw3T"
+          "name": "Fito y Fitipaldis",
+          "url": "https://open.spotify.com/artist/1tZ99AnqyjgrmPwLfGU5eo"
         }
       ],
-      "duration_ms": 200307,
-      "name": "LA GUARACHA (Oh Oh Oh)",
-      "url": "https://open.spotify.com/track/3RP9FdSAylqEeHCaEgw8CM"
+      "duration_ms": 375119,
+      "name": "Acabo de llegar",
+      "url": "https://open.spotify.com/track/5LlXYUfSei584BdUJ05Lo3"
     },
     {
       "added_at": "2026-09-17 16:51:37",
@@ -1455,18 +1451,22 @@
     {
       "added_at": "2026-09-17 16:51:37",
       "album": {
-        "name": "Por la boca vive el pez",
-        "url": "https://open.spotify.com/album/5iW5yzlJsGBIfsemMr8v8y"
+        "name": "LA GUARACHA (Oh Oh Oh)",
+        "url": "https://open.spotify.com/album/2I5gxj9pxbyE7o0TpcadAN"
       },
       "artists": [
         {
-          "name": "Fito y Fitipaldis",
-          "url": "https://open.spotify.com/artist/1tZ99AnqyjgrmPwLfGU5eo"
+          "name": "Manuel Turizo",
+          "url": "https://open.spotify.com/artist/0tmwSHipWxN12fsoLcFU3B"
+        },
+        {
+          "name": "Martinwhite",
+          "url": "https://open.spotify.com/artist/1PANUPmT5KUDGs3Xgkhw3T"
         }
       ],
-      "duration_ms": 375119,
-      "name": "Acabo de llegar",
-      "url": "https://open.spotify.com/track/5LlXYUfSei584BdUJ05Lo3"
+      "duration_ms": 200307,
+      "name": "LA GUARACHA (Oh Oh Oh)",
+      "url": "https://open.spotify.com/track/3RP9FdSAylqEeHCaEgw8CM"
     },
     {
       "added_at": "2026-09-17 16:51:37",
@@ -1607,6 +1607,22 @@
     {
       "added_at": "2026-09-17 16:51:37",
       "album": {
+        "name": "Tarde",
+        "url": "https://open.spotify.com/album/4S33ZpEVs5S2RqcqkM4KGF"
+      },
+      "artists": [
+        {
+          "name": "Morat",
+          "url": "https://open.spotify.com/artist/5C4PDR4LnhZTbVnKWXuDKD"
+        }
+      ],
+      "duration_ms": 162181,
+      "name": "Tarde",
+      "url": "https://open.spotify.com/track/1rGqazNAf6UvmnAC7a5M3B"
+    },
+    {
+      "added_at": "2026-09-17 16:51:37",
+      "album": {
         "name": "El Tiempo Que Paso Contigo",
         "url": "https://open.spotify.com/album/3HUdg4OZNjJAlgYRxrg31A"
       },
@@ -1623,22 +1639,6 @@
       "duration_ms": 190205,
       "name": "El Tiempo Que Paso Contigo",
       "url": "https://open.spotify.com/track/48ikKqBYGbNApD8bEJCamc"
-    },
-    {
-      "added_at": "2026-09-17 16:51:37",
-      "album": {
-        "name": "Tarde",
-        "url": "https://open.spotify.com/album/4S33ZpEVs5S2RqcqkM4KGF"
-      },
-      "artists": [
-        {
-          "name": "Morat",
-          "url": "https://open.spotify.com/artist/5C4PDR4LnhZTbVnKWXuDKD"
-        }
-      ],
-      "duration_ms": 162181,
-      "name": "Tarde",
-      "url": "https://open.spotify.com/track/1rGqazNAf6UvmnAC7a5M3B"
     },
     {
       "added_at": "2026-09-17 16:51:37",
@@ -2095,22 +2095,6 @@
     {
       "added_at": "2026-09-17 16:51:37",
       "album": {
-        "name": "Canciones",
-        "url": "https://open.spotify.com/album/42Gjhf7f1h2dKvWTKDHd90"
-      },
-      "artists": [
-        {
-          "name": "Duncan Dhu",
-          "url": "https://open.spotify.com/artist/2MLHBMApNE5h8wIufiTPs7"
-        }
-      ],
-      "duration_ms": 169773,
-      "name": "Cien gaviotas",
-      "url": "https://open.spotify.com/track/020Gj87SqDRvzGHELzcCEc"
-    },
-    {
-      "added_at": "2026-09-17 16:51:37",
-      "album": {
         "name": "Luz V",
         "url": "https://open.spotify.com/album/495PNGzppo3wT27Em5Yy8o"
       },
@@ -2123,6 +2107,22 @@
       "duration_ms": 247680,
       "name": "No me importa nada",
       "url": "https://open.spotify.com/track/77eDrs7w2utSdbBdpbefol"
+    },
+    {
+      "added_at": "2026-09-17 16:51:37",
+      "album": {
+        "name": "Canciones",
+        "url": "https://open.spotify.com/album/42Gjhf7f1h2dKvWTKDHd90"
+      },
+      "artists": [
+        {
+          "name": "Duncan Dhu",
+          "url": "https://open.spotify.com/artist/2MLHBMApNE5h8wIufiTPs7"
+        }
+      ],
+      "duration_ms": 169773,
+      "name": "Cien gaviotas",
+      "url": "https://open.spotify.com/track/020Gj87SqDRvzGHELzcCEc"
     },
     {
       "added_at": "2026-09-17 16:51:37",
@@ -2379,26 +2379,6 @@
     {
       "added_at": "2026-09-17 16:51:37",
       "album": {
-        "name": "Vestidos De Domingo",
-        "url": "https://open.spotify.com/album/3ASW0wki9GC0PB5CTyOaLA"
-      },
-      "artists": [
-        {
-          "name": "La Cabra Mecanica",
-          "url": "https://open.spotify.com/artist/1g2kmC27Pg8fcsT3O9ecje"
-        },
-        {
-          "name": "Mar\u00eda Jim\u00e9nez",
-          "url": "https://open.spotify.com/artist/3xg8yTZPuoRF0uFGl1O0FS"
-        }
-      ],
-      "duration_ms": 221373,
-      "name": "La lista de la compra (feat. Mar\u00eda Jim\u00e9nez)",
-      "url": "https://open.spotify.com/track/6htAV9HKCmoDdyyvDNX9DQ"
-    },
-    {
-      "added_at": "2026-09-17 16:51:37",
-      "album": {
         "name": "Desde Que No Nos Vemos",
         "url": "https://open.spotify.com/album/1pQrDGSI9b3W3ur1XEYhVN"
       },
@@ -2431,18 +2411,22 @@
     {
       "added_at": "2026-09-17 16:51:37",
       "album": {
-        "name": "A Puerta Cerrada",
-        "url": "https://open.spotify.com/album/5oEdjJV5w3M9Odc7y2pWS1"
+        "name": "Vestidos De Domingo",
+        "url": "https://open.spotify.com/album/3ASW0wki9GC0PB5CTyOaLA"
       },
       "artists": [
         {
-          "name": "Fito y Fitipaldis",
-          "url": "https://open.spotify.com/artist/1tZ99AnqyjgrmPwLfGU5eo"
+          "name": "La Cabra Mecanica",
+          "url": "https://open.spotify.com/artist/1g2kmC27Pg8fcsT3O9ecje"
+        },
+        {
+          "name": "Mar\u00eda Jim\u00e9nez",
+          "url": "https://open.spotify.com/artist/3xg8yTZPuoRF0uFGl1O0FS"
         }
       ],
-      "duration_ms": 224133,
-      "name": "Rojitas las orejas",
-      "url": "https://open.spotify.com/track/42R5irny7qThOYUThAL7VW"
+      "duration_ms": 221373,
+      "name": "La lista de la compra (feat. Mar\u00eda Jim\u00e9nez)",
+      "url": "https://open.spotify.com/track/6htAV9HKCmoDdyyvDNX9DQ"
     },
     {
       "added_at": "2026-09-17 16:51:37",
@@ -2459,6 +2443,22 @@
       "duration_ms": 180074,
       "name": "L\u00e1rgate",
       "url": "https://open.spotify.com/track/6xMEkgHI4X3biKg9fQ45RI"
+    },
+    {
+      "added_at": "2026-09-17 16:51:37",
+      "album": {
+        "name": "A Puerta Cerrada",
+        "url": "https://open.spotify.com/album/5oEdjJV5w3M9Odc7y2pWS1"
+      },
+      "artists": [
+        {
+          "name": "Fito y Fitipaldis",
+          "url": "https://open.spotify.com/artist/1tZ99AnqyjgrmPwLfGU5eo"
+        }
+      ],
+      "duration_ms": 224133,
+      "name": "Rojitas las orejas",
+      "url": "https://open.spotify.com/track/42R5irny7qThOYUThAL7VW"
     },
     {
       "added_at": "2026-09-17 16:51:37",
@@ -2511,26 +2511,6 @@
     {
       "added_at": "2026-09-17 16:51:37",
       "album": {
-        "name": "B\u00e9same",
-        "url": "https://open.spotify.com/album/0jmILM3yDH04Forg1iU1Kl"
-      },
-      "artists": [
-        {
-          "name": "Alejandro Sanz",
-          "url": "https://open.spotify.com/artist/5sUrlPAHlS9NEirDB8SEbF"
-        },
-        {
-          "name": "Shakira",
-          "url": "https://open.spotify.com/artist/0EmeFodog0BfCgMzAIvKQp"
-        }
-      ],
-      "duration_ms": 202285,
-      "name": "B\u00e9same",
-      "url": "https://open.spotify.com/track/0TsqrYn4ta8Xkvez2oHx7B"
-    },
-    {
-      "added_at": "2026-09-17 16:51:37",
-      "album": {
         "name": "LAS 12",
         "url": "https://open.spotify.com/album/1hmsYXkobJ54BGe1sBVv5O"
       },
@@ -2551,6 +2531,26 @@
     {
       "added_at": "2026-09-17 16:51:37",
       "album": {
+        "name": "B\u00e9same",
+        "url": "https://open.spotify.com/album/0jmILM3yDH04Forg1iU1Kl"
+      },
+      "artists": [
+        {
+          "name": "Alejandro Sanz",
+          "url": "https://open.spotify.com/artist/5sUrlPAHlS9NEirDB8SEbF"
+        },
+        {
+          "name": "Shakira",
+          "url": "https://open.spotify.com/artist/0EmeFodog0BfCgMzAIvKQp"
+        }
+      ],
+      "duration_ms": 202285,
+      "name": "B\u00e9same",
+      "url": "https://open.spotify.com/track/0TsqrYn4ta8Xkvez2oHx7B"
+    },
+    {
+      "added_at": "2026-09-17 16:51:37",
+      "album": {
         "name": "Flags",
         "url": "https://open.spotify.com/album/4JYjZh7R8F7Na5x1lVqOl9"
       },
@@ -2567,22 +2567,22 @@
     {
       "added_at": "2026-09-17 16:51:37",
       "album": {
-        "name": "Te Quiero",
-        "url": "https://open.spotify.com/album/11DqCI7qqSdScS5cOrFpwr"
+        "name": "A Contracorriente",
+        "url": "https://open.spotify.com/album/4GAsbhINFlN5K9PZ6vEaCW"
       },
       "artists": [
         {
-          "name": "Mau y Ricky",
-          "url": "https://open.spotify.com/artist/2wkoKEfS6dXwThbyTnZWFU"
+          "name": "El Canto Del Loco",
+          "url": "https://open.spotify.com/artist/5RK6c1tyaKpwcDpbgCGNgj"
         },
         {
-          "name": "Kapo",
-          "url": "https://open.spotify.com/artist/3UTF2no3muGdiFXVujl94i"
+          "name": "Amaia Montero",
+          "url": "https://open.spotify.com/artist/4LbuSjHhhAddvN44qXpRJo"
         }
       ],
-      "duration_ms": 125482,
-      "name": "Te Quiero",
-      "url": "https://open.spotify.com/track/7GzRxRiDEBBa42S6Nx3IHJ"
+      "duration_ms": 181026,
+      "name": "Puede Ser (with Amaia Montero)",
+      "url": "https://open.spotify.com/track/1TtwCkFbGv89XmuUNmoINt"
     },
     {
       "added_at": "2026-09-17 16:51:37",
@@ -2607,22 +2607,22 @@
     {
       "added_at": "2026-09-17 16:51:37",
       "album": {
-        "name": "A Contracorriente",
-        "url": "https://open.spotify.com/album/4GAsbhINFlN5K9PZ6vEaCW"
+        "name": "Te Quiero",
+        "url": "https://open.spotify.com/album/11DqCI7qqSdScS5cOrFpwr"
       },
       "artists": [
         {
-          "name": "El Canto Del Loco",
-          "url": "https://open.spotify.com/artist/5RK6c1tyaKpwcDpbgCGNgj"
+          "name": "Mau y Ricky",
+          "url": "https://open.spotify.com/artist/2wkoKEfS6dXwThbyTnZWFU"
         },
         {
-          "name": "Amaia Montero",
-          "url": "https://open.spotify.com/artist/4LbuSjHhhAddvN44qXpRJo"
+          "name": "Kapo",
+          "url": "https://open.spotify.com/artist/3UTF2no3muGdiFXVujl94i"
         }
       ],
-      "duration_ms": 181026,
-      "name": "Puede Ser (with Amaia Montero)",
-      "url": "https://open.spotify.com/track/1TtwCkFbGv89XmuUNmoINt"
+      "duration_ms": 125482,
+      "name": "Te Quiero",
+      "url": "https://open.spotify.com/track/7GzRxRiDEBBa42S6Nx3IHJ"
     },
     {
       "added_at": "2026-09-17 16:51:37",
@@ -2679,18 +2679,18 @@
     {
       "added_at": "2026-09-17 16:51:37",
       "album": {
-        "name": "Atlantic 60th: Soul, Sweat And Strut",
-        "url": "https://open.spotify.com/album/1LBWNRMsbEWb17KmDD4jfD"
+        "name": "Diamonds",
+        "url": "https://open.spotify.com/album/2IAyprsfyoPBGDvbLjgsN5"
       },
       "artists": [
         {
-          "name": "Aretha Franklin",
-          "url": "https://open.spotify.com/artist/7nwUJBm0HE4ZxD3f5cy5ok"
+          "name": "Sam Smith",
+          "url": "https://open.spotify.com/artist/2wY79sveU1sp5g7SokKOiI"
         }
       ],
-      "duration_ms": 142186,
-      "name": "Respect - 2003 Remaster",
-      "url": "https://open.spotify.com/track/5AoTuHE5P5bvC7BBppYnja"
+      "duration_ms": 213869,
+      "name": "Diamonds",
+      "url": "https://open.spotify.com/track/5hvwx5i67IwnCkjl9VHkNv"
     }
   ],
   "unique_name": "En el Trabajo",

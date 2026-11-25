@@ -1,12 +1,12 @@
 {
   "description": "Vocals and keys, front and center. Cover: Bruno Mars",
-  "num_followers": 1795060,
+  "num_followers": 1794948,
   "original_name": "Piano Ballads",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAJS6zEqMql4Yv3kXFgCngIu0SlOA",
+  "snapshot_id": "AAAAANvtORw0wmnqz3yrGoYlqOnUve5T",
   "tracks": [
     {
       "added_at": "2024-10-09 03:40:03",
@@ -367,22 +367,6 @@
     {
       "added_at": "2024-10-09 03:40:03",
       "album": {
-        "name": "The Element Of Freedom",
-        "url": "https://open.spotify.com/album/0Rxab8t0y7GlaTJTHX2wEN"
-      },
-      "artists": [
-        {
-          "name": "Alicia Keys",
-          "url": "https://open.spotify.com/artist/3DiDSECUqqY1AuBP8qtaIa"
-        }
-      ],
-      "duration_ms": 216480,
-      "name": "Empire State of Mind (Part II) Broken Down",
-      "url": "https://open.spotify.com/track/5sra5UY6sD658OabHL3QtI"
-    },
-    {
-      "added_at": "2024-10-09 03:40:03",
-      "album": {
         "name": "us",
         "url": "https://open.spotify.com/album/3L0H4RjVXpEkwfDgi3XOdf"
       },
@@ -399,6 +383,22 @@
       "duration_ms": 251033,
       "name": "i hate u, i love u (feat. olivia o'brien)",
       "url": "https://open.spotify.com/track/7vRriwrloYVaoAe3a9wJHe"
+    },
+    {
+      "added_at": "2024-10-09 03:40:03",
+      "album": {
+        "name": "The Element Of Freedom",
+        "url": "https://open.spotify.com/album/0Rxab8t0y7GlaTJTHX2wEN"
+      },
+      "artists": [
+        {
+          "name": "Alicia Keys",
+          "url": "https://open.spotify.com/artist/3DiDSECUqqY1AuBP8qtaIa"
+        }
+      ],
+      "duration_ms": 216480,
+      "name": "Empire State of Mind (Part II) Broken Down",
+      "url": "https://open.spotify.com/track/5sra5UY6sD658OabHL3QtI"
     },
     {
       "added_at": "2024-10-09 03:40:03",
@@ -1131,6 +1131,22 @@
     {
       "added_at": "2024-10-09 03:40:03",
       "album": {
+        "name": "I Get to Love You",
+        "url": "https://open.spotify.com/album/1HsdgBRnsxFPpt3HjknZEP"
+      },
+      "artists": [
+        {
+          "name": "Ruelle",
+          "url": "https://open.spotify.com/artist/5tIkXJTex4JY7cv9mmgAZx"
+        }
+      ],
+      "duration_ms": 239362,
+      "name": "I Get to Love You",
+      "url": "https://open.spotify.com/track/3CV4lFELdziNM1OnHU8nwz"
+    },
+    {
+      "added_at": "2024-10-09 03:40:03",
+      "album": {
         "name": "Heartbreak Weather",
         "url": "https://open.spotify.com/album/5gdoRB1AUsGnScCuZ8gmPp"
       },
@@ -1159,22 +1175,6 @@
       "duration_ms": 233021,
       "name": "Gravity",
       "url": "https://open.spotify.com/track/4oa14QBfWRDfJy2agySy0L"
-    },
-    {
-      "added_at": "2024-10-09 03:40:03",
-      "album": {
-        "name": "I Get to Love You",
-        "url": "https://open.spotify.com/album/1HsdgBRnsxFPpt3HjknZEP"
-      },
-      "artists": [
-        {
-          "name": "Ruelle",
-          "url": "https://open.spotify.com/artist/5tIkXJTex4JY7cv9mmgAZx"
-        }
-      ],
-      "duration_ms": 239362,
-      "name": "I Get to Love You",
-      "url": "https://open.spotify.com/track/3CV4lFELdziNM1OnHU8nwz"
     },
     {
       "added_at": "2024-10-09 03:40:03",

@@ -1,12 +1,12 @@
 {
   "description": "Enhance your focus with classical music.",
-  "num_followers": 620816,
+  "num_followers": 620926,
   "original_name": "Classical Focus",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAALNPBT+G0wDIJdADwGuN4At3QjqA",
+  "snapshot_id": "AAAAAPAXjl65/uZer73i5hFym1ueHf/4",
   "tracks": [
     {
       "added_at": "2026-11-06 04:00:44",
@@ -875,26 +875,6 @@
     {
       "added_at": "2026-11-06 04:00:44",
       "album": {
-        "name": "Corea: Children's Song No. 1",
-        "url": "https://open.spotify.com/album/4v9sxGj2nTgRz1FQi2GoXE"
-      },
-      "artists": [
-        {
-          "name": "Chick Corea",
-          "url": "https://open.spotify.com/artist/5olDKSsFhhmwh8UCWwKtpq"
-        },
-        {
-          "name": "Sean Shibe",
-          "url": "https://open.spotify.com/artist/4EFuBkf11kth7fbFXIpre5"
-        }
-      ],
-      "duration_ms": 111178,
-      "name": "Children's Song No. 1 (Arr. for guitar by Forbes Henderson) - Classical Session",
-      "url": "https://open.spotify.com/track/6rpfMfLTgzfw7VzebK5Q9u"
-    },
-    {
-      "added_at": "2026-11-06 04:00:44",
-      "album": {
         "name": "02:07",
         "url": "https://open.spotify.com/album/2OvmDHl2A8TQNWmpIQSS4v"
       },
@@ -911,6 +891,26 @@
       "duration_ms": 200762,
       "name": "02:07",
       "url": "https://open.spotify.com/track/48cEP4ehxkhonJfyfIL4gM"
+    },
+    {
+      "added_at": "2026-11-06 04:00:44",
+      "album": {
+        "name": "Corea: Children's Song No. 1",
+        "url": "https://open.spotify.com/album/4v9sxGj2nTgRz1FQi2GoXE"
+      },
+      "artists": [
+        {
+          "name": "Chick Corea",
+          "url": "https://open.spotify.com/artist/5olDKSsFhhmwh8UCWwKtpq"
+        },
+        {
+          "name": "Sean Shibe",
+          "url": "https://open.spotify.com/artist/4EFuBkf11kth7fbFXIpre5"
+        }
+      ],
+      "duration_ms": 111178,
+      "name": "Children's Song No. 1 (Arr. for guitar by Forbes Henderson) - Classical Session",
+      "url": "https://open.spotify.com/track/6rpfMfLTgzfw7VzebK5Q9u"
     },
     {
       "added_at": "2026-11-06 04:00:44",
@@ -935,8 +935,8 @@
     {
       "added_at": "2026-11-06 04:00:44",
       "album": {
-        "name": "Air Piano Variation (From Orchestral Suite No. 3, BWV 1068, Arr. for Piano by Svetoslav Karparov)",
-        "url": "https://open.spotify.com/album/4eYyEdtwong1g17SQMvbww"
+        "name": "Bach: Inventions & Sinfonias",
+        "url": "https://open.spotify.com/album/1O53QRsMlkSId0cbp1mXCr"
       },
       "artists": [
         {
@@ -944,13 +944,13 @@
           "url": "https://open.spotify.com/artist/5aIqB5nVVvmFsvSdExz408"
         },
         {
-          "name": "Gabriele Bagnati",
-          "url": "https://open.spotify.com/artist/0OG7Jsxh29ESIeAHlElBOj"
+          "name": "Simone Dinnerstein",
+          "url": "https://open.spotify.com/artist/6I5PzbEIGEQaQqWRmwKmFQ"
         }
       ],
-      "duration_ms": 151923,
-      "name": "Air Piano Variation (From Orchestral Suite No. 3, BWV 1068, Arr. for Piano by Svetoslav Karparov)",
-      "url": "https://open.spotify.com/track/4hgo2apb7EngXvnpQiYJBK"
+      "duration_ms": 92853,
+      "name": "Invention No. 1 in C Major, BWV 772",
+      "url": "https://open.spotify.com/track/3pfdjnHlyKoLd6UYYrifWs"
     },
     {
       "added_at": "2026-11-06 04:00:44",
@@ -1031,8 +1031,8 @@
     {
       "added_at": "2026-11-06 04:00:44",
       "album": {
-        "name": "Bach: Inventions & Sinfonias",
-        "url": "https://open.spotify.com/album/1O53QRsMlkSId0cbp1mXCr"
+        "name": "Air Piano Variation (From Orchestral Suite No. 3, BWV 1068, Arr. for Piano by Svetoslav Karparov)",
+        "url": "https://open.spotify.com/album/4eYyEdtwong1g17SQMvbww"
       },
       "artists": [
         {
@@ -1040,13 +1040,13 @@
           "url": "https://open.spotify.com/artist/5aIqB5nVVvmFsvSdExz408"
         },
         {
-          "name": "Simone Dinnerstein",
-          "url": "https://open.spotify.com/artist/6I5PzbEIGEQaQqWRmwKmFQ"
+          "name": "Gabriele Bagnati",
+          "url": "https://open.spotify.com/artist/0OG7Jsxh29ESIeAHlElBOj"
         }
       ],
-      "duration_ms": 92853,
-      "name": "Invention No. 1 in C Major, BWV 772",
-      "url": "https://open.spotify.com/track/3pfdjnHlyKoLd6UYYrifWs"
+      "duration_ms": 151923,
+      "name": "Air Piano Variation (From Orchestral Suite No. 3, BWV 1068, Arr. for Piano by Svetoslav Karparov)",
+      "url": "https://open.spotify.com/track/4hgo2apb7EngXvnpQiYJBK"
     },
     {
       "added_at": "2026-11-06 04:00:44",

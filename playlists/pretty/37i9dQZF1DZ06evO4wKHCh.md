@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO4wKHCh.md) - [plain]
 
 > This is Emei\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 13,698 likes - 40 songs - 1 hr 42 min
+[Spotify](https://open.spotify.com/user/spotify) - 13,707 likes - 40 songs - 1 hr 42 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -14,8 +14,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO4wKHCh.md) - [plain]
 | 4 | [Regularly Scheduled Program](https://open.spotify.com/track/2Sjpi4RA5zFmgYuwwZY8zi) | [Emei](https://open.spotify.com/artist/7E2aQQjErJocovYFjYLzWU) | [Night at the Opera: Intermission](https://open.spotify.com/album/1wR0iRw6AKwbNED8OG37PB) | 2:09 |
 | 5 | [Molly](https://open.spotify.com/track/2K6OICqRw35RvWFsCCCh1U) | [Emei](https://open.spotify.com/artist/7E2aQQjErJocovYFjYLzWU) | [Molly](https://open.spotify.com/album/7szwDKPkHb7sJejPieuRD0) | 3:12 |
 | 6 | [That Girl](https://open.spotify.com/track/5UebR77vjap8LVd6eqITiY) | [Emei](https://open.spotify.com/artist/7E2aQQjErJocovYFjYLzWU) | [That Girl](https://open.spotify.com/album/7wrW0h4PjKiU3lyvbMtJrN) | 2:20 |
-| 7 | [Irresponsible](https://open.spotify.com/track/0zlJpc8mUU9x92uU8t5f6p) | [Emei](https://open.spotify.com/artist/7E2aQQjErJocovYFjYLzWU) | [Scatterbrain](https://open.spotify.com/album/7nMsq0A9k3KjCNBPu2RN3v) | 2:04 |
-| 8 | [Better People To Leave On Read](https://open.spotify.com/track/7szJfhzlrGh2hkNwEPDWpn) | [Emei](https://open.spotify.com/artist/7E2aQQjErJocovYFjYLzWU) | [Better People To Leave On Read](https://open.spotify.com/album/5jHDAAIvcOrvVKaq8CsU9A) | 2:11 |
+| 7 | [Better People To Leave On Read](https://open.spotify.com/track/7szJfhzlrGh2hkNwEPDWpn) | [Emei](https://open.spotify.com/artist/7E2aQQjErJocovYFjYLzWU) | [Better People To Leave On Read](https://open.spotify.com/album/5jHDAAIvcOrvVKaq8CsU9A) | 2:11 |
+| 8 | [Irresponsible](https://open.spotify.com/track/0zlJpc8mUU9x92uU8t5f6p) | [Emei](https://open.spotify.com/artist/7E2aQQjErJocovYFjYLzWU) | [Scatterbrain](https://open.spotify.com/album/7nMsq0A9k3KjCNBPu2RN3v) | 2:04 |
 | 9 | [Trust Issues](https://open.spotify.com/track/0SSu4wiFjCPcRE5Sx3ni0A) | [Emei](https://open.spotify.com/artist/7E2aQQjErJocovYFjYLzWU) | [Trust Issues](https://open.spotify.com/album/29FWknxiELyLTfZGBDpmRk) | 2:20 |
 | 10 | [You Are Bad](https://open.spotify.com/track/6tSSghRWA2iOW4jGXSttwX) | [Emei](https://open.spotify.com/artist/7E2aQQjErJocovYFjYLzWU) | [Scatterbrain \(Deluxe\)](https://open.spotify.com/album/0kb0Eq1AKUHztZpCJYUrZ5) | 2:18 |
 | 11 | [Late to the Party](https://open.spotify.com/track/7hdMPlOGOngKH3mj4pVLcG) | [Emei](https://open.spotify.com/artist/7E2aQQjErJocovYFjYLzWU) | [Late to the Party](https://open.spotify.com/album/1g9Kxqn7NNZyHB2dGtlbmR) | 2:57 |
@@ -38,15 +38,15 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO4wKHCh.md) - [plain]
 | 28 | [Stereo](https://open.spotify.com/track/65crqZhjAbaM6bmNCgDf9M) | [Jax Jones](https://open.spotify.com/artist/4Q6nIcaBED8qUel8bBx6Cr), [Emei](https://open.spotify.com/artist/7E2aQQjErJocovYFjYLzWU) | [Stereo](https://open.spotify.com/album/0znufLvqCiP9LblUItyAeQ) | 2:27 |
 | 29 | [SUGARCOAT](https://open.spotify.com/track/7ds2cvPKeRrbIVHTctkBc4) | [Emei](https://open.spotify.com/artist/7E2aQQjErJocovYFjYLzWU) | [RABBITHOLE](https://open.spotify.com/album/1gyUNc54TWzgzXtPvOdOYN) | 2:30 |
 | 30 | [Agree to Disagree](https://open.spotify.com/track/4oD9gB11wTctdCMMzmuZWH) | [Emei](https://open.spotify.com/artist/7E2aQQjErJocovYFjYLzWU) | [Scatterbrain \(Deluxe\)](https://open.spotify.com/album/0kb0Eq1AKUHztZpCJYUrZ5) | 2:22 |
-| 31 | [Talk Talk Talk](https://open.spotify.com/track/4HvSwd9s3C6UdLQyUm2Elk) | [Emei](https://open.spotify.com/artist/7E2aQQjErJocovYFjYLzWU) | [Talk Talk Talk](https://open.spotify.com/album/4w7lV4bRkdPxEfkv3CGEbo) | 3:15 |
-| 32 | [Ginger Tea](https://open.spotify.com/track/4jBCtBR2iSffMZPh3Bdk2L) | [Emei](https://open.spotify.com/artist/7E2aQQjErJocovYFjYLzWU) | [Ginger Tea](https://open.spotify.com/album/3HD6dMq4zT1yMugmUNNZdN) | 2:37 |
+| 31 | [Ginger Tea](https://open.spotify.com/track/4jBCtBR2iSffMZPh3Bdk2L) | [Emei](https://open.spotify.com/artist/7E2aQQjErJocovYFjYLzWU) | [Ginger Tea](https://open.spotify.com/album/3HD6dMq4zT1yMugmUNNZdN) | 2:37 |
+| 32 | [Talk Talk Talk](https://open.spotify.com/track/4HvSwd9s3C6UdLQyUm2Elk) | [Emei](https://open.spotify.com/artist/7E2aQQjErJocovYFjYLzWU) | [Talk Talk Talk](https://open.spotify.com/album/4w7lV4bRkdPxEfkv3CGEbo) | 3:15 |
 | 33 | [Regrets](https://open.spotify.com/track/64l8UD4BRovWTSyrLqManD) | [Emei](https://open.spotify.com/artist/7E2aQQjErJocovYFjYLzWU) | [Regrets](https://open.spotify.com/album/2JNxwslDi54vHpSMofYiNR) | 2:02 |
 | 34 | [Human Being \- Demo](https://open.spotify.com/track/304dMIr0dsQ9JUliawZVKT) | [Emei](https://open.spotify.com/artist/7E2aQQjErJocovYFjYLzWU) | [Scatterbrain \(Deluxe\)](https://open.spotify.com/album/0kb0Eq1AKUHztZpCJYUrZ5) | 1:59 |
-| 35 | [Hold On Me \(feat\. Emei\)](https://open.spotify.com/track/5asMstLe5UTmy01PCdM43c) | [NOTD](https://open.spotify.com/artist/5jAMCwdNHWr7JThxtMuEyy), [Emei](https://open.spotify.com/artist/7E2aQQjErJocovYFjYLzWU) | [Hold On Me \(feat\. Emei\)](https://open.spotify.com/album/0tMVeea5aLMQqOFGSPWwyI) | 2:29 |
-| 36 | [Watermelon Sugar \- Spotify Singles](https://open.spotify.com/track/0kIsnEg0TzJTsb6wTVHSeG) | [Emei](https://open.spotify.com/artist/7E2aQQjErJocovYFjYLzWU) | [Watermelon Sugar \(Spotify Singles\)](https://open.spotify.com/album/0kKBZgTc90Mdudfsu3bDl3) | 2:09 |
-| 37 | [Don't Know About The World](https://open.spotify.com/track/7xil2jjcEh4kaU3XXoAPh8) | [Emei](https://open.spotify.com/artist/7E2aQQjErJocovYFjYLzWU) | [Scatterbrain](https://open.spotify.com/album/7nMsq0A9k3KjCNBPu2RN3v) | 2:23 |
-| 38 | [ALL THESE KIDS](https://open.spotify.com/track/4GCMUoBhLMELZ9yf1xHQbc) | [Emei](https://open.spotify.com/artist/7E2aQQjErJocovYFjYLzWU) | [ALL THESE KIDS](https://open.spotify.com/album/2PiygkH7sI89FdZc9GVdKM) | 1:57 |
+| 35 | [Watermelon Sugar \- Spotify Singles](https://open.spotify.com/track/0kIsnEg0TzJTsb6wTVHSeG) | [Emei](https://open.spotify.com/artist/7E2aQQjErJocovYFjYLzWU) | [Watermelon Sugar \(Spotify Singles\)](https://open.spotify.com/album/0kKBZgTc90Mdudfsu3bDl3) | 2:09 |
+| 36 | [Hold On Me \(feat\. Emei\)](https://open.spotify.com/track/5asMstLe5UTmy01PCdM43c) | [NOTD](https://open.spotify.com/artist/5jAMCwdNHWr7JThxtMuEyy), [Emei](https://open.spotify.com/artist/7E2aQQjErJocovYFjYLzWU) | [Hold On Me \(feat\. Emei\)](https://open.spotify.com/album/0tMVeea5aLMQqOFGSPWwyI) | 2:29 |
+| 37 | [ALL THESE KIDS](https://open.spotify.com/track/4GCMUoBhLMELZ9yf1xHQbc) | [Emei](https://open.spotify.com/artist/7E2aQQjErJocovYFjYLzWU) | [ALL THESE KIDS](https://open.spotify.com/album/2PiygkH7sI89FdZc9GVdKM) | 1:57 |
+| 38 | [Don't Know About The World](https://open.spotify.com/track/7xil2jjcEh4kaU3XXoAPh8) | [Emei](https://open.spotify.com/artist/7E2aQQjErJocovYFjYLzWU) | [Scatterbrain](https://open.spotify.com/album/7nMsq0A9k3KjCNBPu2RN3v) | 2:23 |
 | 39 | [Simple Request](https://open.spotify.com/track/2qMXHqR78AghFekIyXExCC) | [Emei](https://open.spotify.com/artist/7E2aQQjErJocovYFjYLzWU) | [Night at the Opera](https://open.spotify.com/album/30XL7bANBr0cBA9nVCq8CN) | 3:49 |
 | 40 | [SUNNYD](https://open.spotify.com/track/4vnauoJf6OYYU73jPUJbZa) | [Emei](https://open.spotify.com/artist/7E2aQQjErJocovYFjYLzWU), [Whethan](https://open.spotify.com/artist/0vqJkZ0RpLZixt3lTmD8vP) | [SUNNYD](https://open.spotify.com/album/1D8kmnJy5pX2oxTsydOEYZ) | 2:06 |
 
-Snapshot ID: `awIwgAAAAABSG2ewjHEuDVrgh6BEvzSd`
+Snapshot ID: `awOCAAAAAACetKY65NGyd7adaLP6l1H5`

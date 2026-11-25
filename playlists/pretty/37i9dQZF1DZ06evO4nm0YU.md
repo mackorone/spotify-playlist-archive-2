@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO4nm0YU.md) - [plain]
 
 > This is Héctor Lavoe\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 195,478 likes - 50 songs - 4 hr 36 min
+[Spotify](https://open.spotify.com/user/spotify) - 195,522 likes - 50 songs - 4 hr 36 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -48,15 +48,15 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO4nm0YU.md) - [plain]
 | 38 | [Tus Ojos](https://open.spotify.com/track/6p30u7NhMMgPFCLbQqj3Hc) | [Héctor Lavoe](https://open.spotify.com/artist/7opp16lU7VM3l2WBdGMYHP) | [Tú Bien Lo Sabes](https://open.spotify.com/album/4Lm8DCc4Bj58xztz72CgJ6) | 3:35 |
 | 39 | [Él Son](https://open.spotify.com/track/7EN7Hl5S3UHMtK3eDUaMFc) | [Héctor Lavoe](https://open.spotify.com/artist/7opp16lU7VM3l2WBdGMYHP) | [¡Que Sentimiento!](https://open.spotify.com/album/2QhJvPPEdERyZmzAxYVzeo) | 6:06 |
 | 40 | [No Me Llores Más](https://open.spotify.com/track/74SLiN21pdSJEktbjyjO5I) | [Héctor Lavoe](https://open.spotify.com/artist/7opp16lU7VM3l2WBdGMYHP), [Willie Colón](https://open.spotify.com/artist/7x5Slu7yTE5icZjNsc3OzW) | [Cosa Nuestra](https://open.spotify.com/album/2ta1doHAXdTOtLLoc02fZf) | 5:37 |
-| 41 | [Bandolera](https://open.spotify.com/track/5UCnz9Q6GSFLl6oeCSaSSZ) | [Héctor Lavoe](https://open.spotify.com/artist/7opp16lU7VM3l2WBdGMYHP) | [Comedia](https://open.spotify.com/album/7CBmznpnzPgLpBXFlB40B6) | 9:34 |
+| 41 | [Ublabadú](https://open.spotify.com/track/3mHv2JoSRRIjYCcnG6mgJO) | [Fania All Stars](https://open.spotify.com/artist/1OdyhpUABf8avaZ9r8nI1u), [Héctor Lavoe](https://open.spotify.com/artist/7opp16lU7VM3l2WBdGMYHP) | [Commitment](https://open.spotify.com/album/3GEZV1mPQfeAyobbQ15U4x) | 5:51 |
 | 42 | [De Ti Depende](https://open.spotify.com/track/6uM3cqVSU6yzhkkXIvMGfs) | [Héctor Lavoe](https://open.spotify.com/artist/7opp16lU7VM3l2WBdGMYHP) | [Tú Bien Lo Sabes](https://open.spotify.com/album/4Lm8DCc4Bj58xztz72CgJ6) | 4:35 |
-| 43 | [Ublabadú](https://open.spotify.com/track/3mHv2JoSRRIjYCcnG6mgJO) | [Fania All Stars](https://open.spotify.com/artist/1OdyhpUABf8avaZ9r8nI1u), [Héctor Lavoe](https://open.spotify.com/artist/7opp16lU7VM3l2WBdGMYHP) | [Commitment](https://open.spotify.com/album/3GEZV1mPQfeAyobbQ15U4x) | 5:51 |
+| 43 | [Bandolera](https://open.spotify.com/track/5UCnz9Q6GSFLl6oeCSaSSZ) | [Héctor Lavoe](https://open.spotify.com/artist/7opp16lU7VM3l2WBdGMYHP) | [Comedia](https://open.spotify.com/album/7CBmznpnzPgLpBXFlB40B6) | 9:34 |
 | 44 | [El Malo](https://open.spotify.com/track/5kRCz2YwhQ2gCcltRcRsz2) | [Willie Colón](https://open.spotify.com/artist/7x5Slu7yTE5icZjNsc3OzW), [Héctor Lavoe](https://open.spotify.com/artist/7opp16lU7VM3l2WBdGMYHP) | [Crime Pays](https://open.spotify.com/album/31FDxX16G7sPB3p5bNhf8K) | 4:02 |
-| 45 | [Songoro Cosongo](https://open.spotify.com/track/0cCLNIYOUthHiQHOS8iGRV) | [Héctor Lavoe](https://open.spotify.com/artist/7opp16lU7VM3l2WBdGMYHP) | [Comedia](https://open.spotify.com/album/7CBmznpnzPgLpBXFlB40B6) | 7:50 |
-| 46 | [Mi Suerte](https://open.spotify.com/track/1t45VJU0gMfYht74Es3NMP) | [Wakyin](https://open.spotify.com/artist/2CnJJITnV40TB5UtCRhwIZ), [underdogs](https://open.spotify.com/artist/0KTIlyXpaefGQS3Q3BbXQC), [Willie Colón](https://open.spotify.com/artist/7x5Slu7yTE5icZjNsc3OzW), [Héctor Lavoe](https://open.spotify.com/artist/7opp16lU7VM3l2WBdGMYHP) | [Mi Suerte](https://open.spotify.com/album/4KDCVmbEfvx0oRq7kyvhjB) | 2:49 |
-| 47 | [Soy Vagabundo](https://open.spotify.com/track/5jQimaqP3GwhdvIDKAQZor) | [Héctor Lavoe](https://open.spotify.com/artist/7opp16lU7VM3l2WBdGMYHP) | [¡Que Sentimiento!](https://open.spotify.com/album/2QhJvPPEdERyZmzAxYVzeo) | 5:58 |
+| 45 | [Mi Suerte](https://open.spotify.com/track/1t45VJU0gMfYht74Es3NMP) | [Wakyin](https://open.spotify.com/artist/2CnJJITnV40TB5UtCRhwIZ), [underdogs](https://open.spotify.com/artist/0KTIlyXpaefGQS3Q3BbXQC), [Willie Colón](https://open.spotify.com/artist/7x5Slu7yTE5icZjNsc3OzW), [Héctor Lavoe](https://open.spotify.com/artist/7opp16lU7VM3l2WBdGMYHP) | [Mi Suerte](https://open.spotify.com/album/4KDCVmbEfvx0oRq7kyvhjB) | 2:49 |
+| 46 | [Soy Vagabundo](https://open.spotify.com/track/5jQimaqP3GwhdvIDKAQZor) | [Héctor Lavoe](https://open.spotify.com/artist/7opp16lU7VM3l2WBdGMYHP) | [¡Que Sentimiento!](https://open.spotify.com/album/2QhJvPPEdERyZmzAxYVzeo) | 5:58 |
+| 47 | [Songoro Cosongo](https://open.spotify.com/track/0cCLNIYOUthHiQHOS8iGRV) | [Héctor Lavoe](https://open.spotify.com/artist/7opp16lU7VM3l2WBdGMYHP) | [Comedia](https://open.spotify.com/album/7CBmznpnzPgLpBXFlB40B6) | 7:50 |
 | 48 | [Paraíso de Dulzura \- Remastered 2023](https://open.spotify.com/track/00VNjC3VctSnxJ1xKzcoIm) | [Héctor Lavoe](https://open.spotify.com/artist/7opp16lU7VM3l2WBdGMYHP) | [La Voz \(Remastered 2023\)](https://open.spotify.com/album/4OAr7LoCvz26ux4SYqzUcW) | 4:36 |
 | 49 | [Todo Tiene Su Final](https://open.spotify.com/track/5CKhbcNbrqpcWdVmoQsjb1) | [Willie Colón](https://open.spotify.com/artist/7x5Slu7yTE5icZjNsc3OzW), [Héctor Lavoe](https://open.spotify.com/artist/7opp16lU7VM3l2WBdGMYHP) | [The Originals: El Cantante](https://open.spotify.com/album/0aeABbfuKPEc27O8fl5pjJ) | 5:02 |
 | 50 | [Consejo De Oro](https://open.spotify.com/track/7DlwfBB4NQDQEn88FefveR) | [Héctor Lavoe](https://open.spotify.com/artist/7opp16lU7VM3l2WBdGMYHP) | [Tú Bien Lo Sabes](https://open.spotify.com/album/4Lm8DCc4Bj58xztz72CgJ6) | 2:45 |
 
-Snapshot ID: `awIwgAAAAADzFH1u9s1BnLRJis9bY1nH`
+Snapshot ID: `awOCAAAAAABzC8zLbZyWs9yJ+8v8tOUo`

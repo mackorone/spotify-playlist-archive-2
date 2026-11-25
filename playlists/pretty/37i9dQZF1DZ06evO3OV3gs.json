@@ -1,12 +1,12 @@
 {
   "description": "This is Madonna. The essential tracks, all in one playlist.",
-  "num_followers": 717283,
+  "num_followers": 717302,
   "original_name": "This Is Madonna",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "awIwgAAAAAB9TnS07pLkW6Zi0fFD5Mao",
+  "snapshot_id": "awOCAAAAAAAL8xbGWtwk5TZre4qa06yg",
   "tracks": [
     {
       "added_at": null,
@@ -239,22 +239,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "Danceteria Afterhours",
-        "url": "https://open.spotify.com/album/7jX2nfe1lBHd4BsOLwuzh9"
+        "name": "Ray of Light",
+        "url": "https://open.spotify.com/album/6cuNyrSmRjBeekioLdLkvI"
       },
       "artists": [
         {
           "name": "Madonna",
           "url": "https://open.spotify.com/artist/6tbjWDEIzxoDsBA1FuhfPW"
-        },
-        {
-          "name": "Charli xcx",
-          "url": "https://open.spotify.com/artist/25uiPmTg16RbhZWAqwLBy5"
         }
       ],
-      "duration_ms": 230503,
-      "name": "Danceteria Afterhours",
-      "url": "https://open.spotify.com/track/3j7BhP71ROCpc9R3w9P9UE"
+      "duration_ms": 367333,
+      "name": "Frozen",
+      "url": "https://open.spotify.com/track/2II03llydk4YnkBBvoYB3B"
     },
     {
       "added_at": null,
@@ -275,22 +271,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Ray of Light",
-        "url": "https://open.spotify.com/album/6cuNyrSmRjBeekioLdLkvI"
-      },
-      "artists": [
-        {
-          "name": "Madonna",
-          "url": "https://open.spotify.com/artist/6tbjWDEIzxoDsBA1FuhfPW"
-        }
-      ],
-      "duration_ms": 367333,
-      "name": "Frozen",
-      "url": "https://open.spotify.com/track/2II03llydk4YnkBBvoYB3B"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Hard Candy",
         "url": "https://open.spotify.com/album/7jgBVzMVZuuhaTG5zQ0Vgk"
       },
@@ -303,6 +283,26 @@
       "duration_ms": 245080,
       "name": "4 Minutes (feat. Justin Timberlake and Timbaland)",
       "url": "https://open.spotify.com/track/1dDNz8h95Gsu0W4QdxVVln"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Danceteria Afterhours",
+        "url": "https://open.spotify.com/album/7jX2nfe1lBHd4BsOLwuzh9"
+      },
+      "artists": [
+        {
+          "name": "Madonna",
+          "url": "https://open.spotify.com/artist/6tbjWDEIzxoDsBA1FuhfPW"
+        },
+        {
+          "name": "Charli xcx",
+          "url": "https://open.spotify.com/artist/25uiPmTg16RbhZWAqwLBy5"
+        }
+      ],
+      "duration_ms": 230503,
+      "name": "Danceteria Afterhours",
+      "url": "https://open.spotify.com/track/3j7BhP71ROCpc9R3w9P9UE"
     },
     {
       "added_at": null,
@@ -371,8 +371,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Hung Up (Remixes)",
-        "url": "https://open.spotify.com/album/5tlf5Grqk3ywZqvkEoECd3"
+        "name": "True Blue",
+        "url": "https://open.spotify.com/album/6fmnT17jc2Sc69q3nza1eD"
       },
       "artists": [
         {
@@ -380,9 +380,9 @@
           "url": "https://open.spotify.com/artist/6tbjWDEIzxoDsBA1FuhfPW"
         }
       ],
-      "duration_ms": 202720,
-      "name": "Hung Up - Radio Version",
-      "url": "https://open.spotify.com/track/1Mo3b48tkMoOqSqguVrlC6"
+      "duration_ms": 268533,
+      "name": "Papa Don't Preach",
+      "url": "https://open.spotify.com/track/6A8OnjnpShshNpcqWtZRjr"
     },
     {
       "added_at": null,
@@ -407,8 +407,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "True Blue",
-        "url": "https://open.spotify.com/album/6fmnT17jc2Sc69q3nza1eD"
+        "name": "Hung Up (Remixes)",
+        "url": "https://open.spotify.com/album/5tlf5Grqk3ywZqvkEoECd3"
       },
       "artists": [
         {
@@ -416,9 +416,9 @@
           "url": "https://open.spotify.com/artist/6tbjWDEIzxoDsBA1FuhfPW"
         }
       ],
-      "duration_ms": 268533,
-      "name": "Papa Don't Preach",
-      "url": "https://open.spotify.com/track/6A8OnjnpShshNpcqWtZRjr"
+      "duration_ms": 202720,
+      "name": "Hung Up - Radio Version",
+      "url": "https://open.spotify.com/track/1Mo3b48tkMoOqSqguVrlC6"
     },
     {
       "added_at": null,
@@ -439,8 +439,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Confessions on a Dance Floor",
-        "url": "https://open.spotify.com/album/1hg0pQJLE9dzfT1kgZtDPr"
+        "name": "True Blue",
+        "url": "https://open.spotify.com/album/6fmnT17jc2Sc69q3nza1eD"
       },
       "artists": [
         {
@@ -448,9 +448,9 @@
           "url": "https://open.spotify.com/artist/6tbjWDEIzxoDsBA1FuhfPW"
         }
       ],
-      "duration_ms": 238560,
-      "name": "Jump",
-      "url": "https://open.spotify.com/track/5hmRhU6fWzH0NjYmfhHjhp"
+      "duration_ms": 351920,
+      "name": "Live to Tell",
+      "url": "https://open.spotify.com/track/095MMFhB9qxPx2VsmvjnUs"
     },
     {
       "added_at": null,
@@ -471,8 +471,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "True Blue",
-        "url": "https://open.spotify.com/album/6fmnT17jc2Sc69q3nza1eD"
+        "name": "Confessions on a Dance Floor",
+        "url": "https://open.spotify.com/album/1hg0pQJLE9dzfT1kgZtDPr"
       },
       "artists": [
         {
@@ -480,25 +480,9 @@
           "url": "https://open.spotify.com/artist/6tbjWDEIzxoDsBA1FuhfPW"
         }
       ],
-      "duration_ms": 351920,
-      "name": "Live to Tell",
-      "url": "https://open.spotify.com/track/095MMFhB9qxPx2VsmvjnUs"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Borderline",
-        "url": "https://open.spotify.com/album/6cjHCJvAo9ohp6jsY8QcdQ"
-      },
-      "artists": [
-        {
-          "name": "Madonna",
-          "url": "https://open.spotify.com/artist/6tbjWDEIzxoDsBA1FuhfPW"
-        }
-      ],
-      "duration_ms": 238360,
-      "name": "Borderline",
-      "url": "https://open.spotify.com/track/4sfSGt1c19O2LI7lLn272S"
+      "duration_ms": 238560,
+      "name": "Jump",
+      "url": "https://open.spotify.com/track/5hmRhU6fWzH0NjYmfhHjhp"
     },
     {
       "added_at": null,
@@ -519,22 +503,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Ray of Light",
-        "url": "https://open.spotify.com/album/6cuNyrSmRjBeekioLdLkvI"
-      },
-      "artists": [
-        {
-          "name": "Madonna",
-          "url": "https://open.spotify.com/artist/6tbjWDEIzxoDsBA1FuhfPW"
-        }
-      ],
-      "duration_ms": 322000,
-      "name": "Ray of Light",
-      "url": "https://open.spotify.com/track/4Fpsa3pYc3gozrxHRRPvR6"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "True Blue",
         "url": "https://open.spotify.com/album/6fmnT17jc2Sc69q3nza1eD"
       },
@@ -547,6 +515,38 @@
       "duration_ms": 257466,
       "name": "True Blue",
       "url": "https://open.spotify.com/track/7azOuDeJGbxt5mvq3GQHXp"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Borderline",
+        "url": "https://open.spotify.com/album/6cjHCJvAo9ohp6jsY8QcdQ"
+      },
+      "artists": [
+        {
+          "name": "Madonna",
+          "url": "https://open.spotify.com/artist/6tbjWDEIzxoDsBA1FuhfPW"
+        }
+      ],
+      "duration_ms": 238360,
+      "name": "Borderline",
+      "url": "https://open.spotify.com/track/4sfSGt1c19O2LI7lLn272S"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Ray of Light",
+        "url": "https://open.spotify.com/album/6cuNyrSmRjBeekioLdLkvI"
+      },
+      "artists": [
+        {
+          "name": "Madonna",
+          "url": "https://open.spotify.com/artist/6tbjWDEIzxoDsBA1FuhfPW"
+        }
+      ],
+      "duration_ms": 322000,
+      "name": "Ray of Light",
+      "url": "https://open.spotify.com/track/4Fpsa3pYc3gozrxHRRPvR6"
     },
     {
       "added_at": null,

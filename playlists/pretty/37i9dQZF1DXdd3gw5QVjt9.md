@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdd3gw5QVjt9.md) - [plain]
 
 > Rise with a relaxing blend of folk and acoustic.
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,063,732 likes - 75 songs - 4 hr 30 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,063,639 likes - 75 songs - 4 hr 30 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -17,8 +17,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdd3gw5QVjt9.md) - [plain]
 | 7 | [Georgia](https://open.spotify.com/track/6Fha6tXHkL3r9m9nNqQG8p) | [Vance Joy](https://open.spotify.com/artist/10exVja0key0uqUkk6LJRT) | [Dream Your Life Away](https://open.spotify.com/album/6rIbiUMmZJfqJRnXhVxFvg) | 3:50 |
 | 8 | [Redemption](https://open.spotify.com/track/7sJIqdSLw7lvQUsX2NOxJB) | [Nathaniel Rateliff](https://open.spotify.com/artist/4qKpLkR911SUlnd4HAtF79) | [Redemption \(From the Apple Original Film “Palmer”\)](https://open.spotify.com/album/2d9J4LzLm6h9eNIg8COFCB) | 4:58 |
 | 9 | [Where The River Goes](https://open.spotify.com/track/34ZuYTjotU24xALX5Hi23C) | [House Phone](https://open.spotify.com/artist/4BHMLvxLKkWPL7iuTnUdZC) | [Sunrise / Where The River Goes](https://open.spotify.com/album/2iF7lvvF2n8rX17ItmBeXZ) | 5:31 |
-| 10 | [Cinnamon Bread](https://open.spotify.com/track/5mo3EVm7FmmqRnLg2ipBGN) | [Ryan Beatty](https://open.spotify.com/artist/60NNvDqsif0u40CXMV6jDQ) | [Calico](https://open.spotify.com/album/5OWpskyoZl9UMkHQwgA05O) | 3:08 |
-| 11 | [However You May](https://open.spotify.com/track/2krfD3TzLiV1WVNepAYJW9) | [Jacob Slade](https://open.spotify.com/artist/2BxFZaG9zCwZI09r2RQtL0) | [Jacob Slade](https://open.spotify.com/album/6SHtNkpygr9rKrR5ZnwS58) | 3:03 |
+| 10 | [However You May](https://open.spotify.com/track/2krfD3TzLiV1WVNepAYJW9) | [Jacob Slade](https://open.spotify.com/artist/2BxFZaG9zCwZI09r2RQtL0) | [Jacob Slade](https://open.spotify.com/album/6SHtNkpygr9rKrR5ZnwS58) | 3:03 |
+| 11 | [Cinnamon Bread](https://open.spotify.com/track/5mo3EVm7FmmqRnLg2ipBGN) | [Ryan Beatty](https://open.spotify.com/artist/60NNvDqsif0u40CXMV6jDQ) | [Calico](https://open.spotify.com/album/5OWpskyoZl9UMkHQwgA05O) | 3:08 |
 | 12 | [Virginia May](https://open.spotify.com/track/435XaJ1Mqo5Pd7AwRE7nrF) | [Gregory Alan Isakov](https://open.spotify.com/artist/5sXaGoRLSpd7VeyZrLkKwt) | [This Empty Northern Hemisphere](https://open.spotify.com/album/06UoTVgpPiGnRPGjowrG3g) | 2:58 |
 | 13 | [Like Real People Do](https://open.spotify.com/track/7K6LFPfjdnN6QqvGzhvpRO) | [Hozier](https://open.spotify.com/artist/2FXC3k01G6Gw61bmprjgqS) | [Hozier](https://open.spotify.com/album/04E0aLUdCHnhnnYrDDvcHq) | 3:18 |
 | 14 | [With You](https://open.spotify.com/track/2xuNO2twEAziI59xyKYxzZ) | [Cujo Moon](https://open.spotify.com/artist/28PfPnmxT8rQJiLEByR81N) | [With You](https://open.spotify.com/album/4FmaIvv5uBPgwrm8v7tbjJ) | 3:31 |
@@ -69,8 +69,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdd3gw5QVjt9.md) - [plain]
 | 59 | [baby, get your ticket](https://open.spotify.com/track/5QDC5EuXkPT6EsX6Fe8EqG) | [Tarune](https://open.spotify.com/artist/2tIerRKCwa3Zz1oVBDOUlq) | [baby, get your ticket](https://open.spotify.com/album/5HOXrzxrJveyr7QTR4xqDs) | 2:35 |
 | 60 | [Silent Advance](https://open.spotify.com/track/1rmQpmB07R7ehokVR74AQW) | [Bryan Rahija](https://open.spotify.com/artist/17OekKFB72Bbu7R14sde59) | [Silent Advance](https://open.spotify.com/album/5j5jKiWgjZ7w4VDNVBEuW8) | 2:25 |
 | 61 | [The Spur](https://open.spotify.com/track/27ViD2ifBwYqlwzpY5LoTB) | [Joan Shelley](https://open.spotify.com/artist/4eR9k3I0YKCQUvvP2ojptw) | [The Spur](https://open.spotify.com/album/5zjQU3GjKhWFVHG5pHLqwI) | 3:52 |
-| 62 | [Morning](https://open.spotify.com/track/7wStk0361hcPEtJc4KbOPf) | [Sarah Jarosz](https://open.spotify.com/artist/6nFBonVf7Lqaj05R0v5VGJ) | [Blue Heron Suite](https://open.spotify.com/album/3FK0O5gu17HYHEtbelgZaV) | 3:28 |
-| 63 | [Sleeping with Headphones](https://open.spotify.com/track/1YjbOF5pRNTMKnIvZxYEfY) | [Melanie MacLaren](https://open.spotify.com/artist/2R1li8gWj9IYRHBAHzylbF), [Lorkin O'Reilly](https://open.spotify.com/artist/4NQg2mwGxphbDjrkc1Rb6l) | [Sleeping with Headphones](https://open.spotify.com/album/3LAmo7buPnacVykNc2Iho9) | 4:11 |
+| 62 | [Sleeping with Headphones](https://open.spotify.com/track/1YjbOF5pRNTMKnIvZxYEfY) | [Melanie MacLaren](https://open.spotify.com/artist/2R1li8gWj9IYRHBAHzylbF), [Lorkin O'Reilly](https://open.spotify.com/artist/4NQg2mwGxphbDjrkc1Rb6l) | [Sleeping with Headphones](https://open.spotify.com/album/3LAmo7buPnacVykNc2Iho9) | 4:11 |
+| 63 | [Morning](https://open.spotify.com/track/7wStk0361hcPEtJc4KbOPf) | [Sarah Jarosz](https://open.spotify.com/artist/6nFBonVf7Lqaj05R0v5VGJ) | [Blue Heron Suite](https://open.spotify.com/album/3FK0O5gu17HYHEtbelgZaV) | 3:28 |
 | 64 | [How Do I Show My Love?](https://open.spotify.com/track/6WeH2AdmFGMNd3Sujcoca0) | [Lizzie Reid](https://open.spotify.com/artist/0GytihetIdprntMyuyAJm6) | [How Do I Show My Love?](https://open.spotify.com/album/26qehkmpNVmzYhjNMgPnJS) | 3:42 |
 | 65 | [Ordinary](https://open.spotify.com/track/09oN29QLxsnpcR7NynThZD) | [Miya Folick](https://open.spotify.com/artist/1jFVu6Z7wmwywivOeBTSIV) | [Ordinary](https://open.spotify.com/album/7woZghnU0pwffWLVWcghwr) | 2:52 |
 | 66 | [The Next Good Time](https://open.spotify.com/track/2CttQN84ikl6AZ3ffwVdbZ) | [Caroline Spence](https://open.spotify.com/artist/4De2r7QdHl1eZwnEnQ1IzE) | [True North](https://open.spotify.com/album/1XGrCmcWifmmiKfpK4nwm2) | 3:30 |
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdd3gw5QVjt9.md) - [plain]
 | 74 | [Highway Miles](https://open.spotify.com/track/5G4E6DAJDH7NkA7cyxiODa) | [Kirby Brown](https://open.spotify.com/artist/1pe81cUBCGxM11cnOq17kr) | [Break into Blossom](https://open.spotify.com/album/5SYgXqtohMgMhevigsAb6a) | 3:39 |
 | 75 | [Only Love](https://open.spotify.com/track/0QB71BDzh36guAExsTIgNO) | [Ben Howard](https://open.spotify.com/artist/5schNIzWdI9gJ1QRK8SBnc) | [Every Kingdom](https://open.spotify.com/album/1HWi1cL1VGLCiIYGfvHJmG) | 4:09 |
 
-Snapshot ID: `AAAAANK7FBz+QtBs8jNivWVHQQQOsGRO`
+Snapshot ID: `AAAAAMZw0hRFWe/eZyhQWBBeSSk0Jngj`

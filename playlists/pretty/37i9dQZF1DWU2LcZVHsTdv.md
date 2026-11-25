@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWU2LcZVHsTdv.md) - [plain]
 
 > The country way of testifying.
 
-[Spotify](https://open.spotify.com/user/spotify) - 313,843 likes - 191 songs - 11 hr 33 min
+[Spotify](https://open.spotify.com/user/spotify) - 313,844 likes - 191 songs - 11 hr 33 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -83,7 +83,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWU2LcZVHsTdv.md) - [plain]
 | 73 | [God Plays a Gibson](https://open.spotify.com/track/6Ug6GZZzefggGWig5j2vxM) | [Megan Moroney](https://open.spotify.com/artist/5Ppie0uPnbnvGBYRwYmlt0) | [Lucky](https://open.spotify.com/album/5DFed53ADZwnPOYuqoZJHK) | 3:31 |
 | 74 | [Jesus Loves](https://open.spotify.com/track/6RJ2RMBiczjNiwr1SqEgFt) | [Zach Williams](https://open.spotify.com/artist/6g10GEtmIVqIQBhPZh4ScQ) | [Jesus Loves](https://open.spotify.com/album/2a5kK7pL7IeyfEnNnDrs9i) | 4:11 |
 | 75 | [My Foundation \- Acoustic](https://open.spotify.com/track/79z6TAwIBBFavJECflBOEN) | [Jordan St\. Cyr](https://open.spotify.com/artist/4RbkVdTJEHZEfppvxBD6Il) | [My Foundation \(Acoustic\)](https://open.spotify.com/album/6gLpyUkE7xMRAxe5tW8nle) | 3:25 |
-| 76 | [In Your Hands](https://open.spotify.com/track/5eprHro0hjcFn4xqmeWSVU) | [BlackByrd](https://open.spotify.com/artist/2EcQCsx4TPZ4VXmK8FbTbm) | [Praise](https://open.spotify.com/album/72IRJbkNL1PAsKVX50S4QW) | 3:45 |
+| 76 | [In Your Hands](https://open.spotify.com/track/5eprHro0hjcFn4xqmeWSVU) | [Blackbyrd](https://open.spotify.com/artist/0fS21y200O3YrGcVFeS2kO) | [Praise](https://open.spotify.com/album/72IRJbkNL1PAsKVX50S4QW) | 3:45 |
 | 77 | [Church](https://open.spotify.com/track/2CuozTAQkXtwB4eQ0lMbyG) | [Owen Riegling](https://open.spotify.com/artist/0FDlMMfT3tLEKM0QdEIHYu) | [Church](https://open.spotify.com/album/1Q303HZ7KT6B5xGlfJBF6c) | 3:31 |
 | 78 | [Last Page of The Bible \(feat\. Anne Wilson\)](https://open.spotify.com/track/0GY7zDv4ny3kDY8mtbkNEM) | [Matthew West](https://open.spotify.com/artist/6e8OTLDQpaz1Tl2GEaxsNj), [Anne Wilson](https://open.spotify.com/artist/75JvBeqW4BJ4xgnbMAq6MN) | [Last Page of The Bible](https://open.spotify.com/album/3HC1pc0lS8duludyrFFTbu) | 3:11 |
 | 79 | [Dirt Roads And Jesus](https://open.spotify.com/track/0rAsn40XCigrz7XZNxV2pr) | [Dalton Dover](https://open.spotify.com/artist/5xF3SekjB3b2VO0FKN3K0A) | [Never Giving Up On That](https://open.spotify.com/album/34AyKaRR2hTQOHTmaxUeDD) | 3:10 |
@@ -200,4 +200,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWU2LcZVHsTdv.md) - [plain]
 | 190 | [Made For Me To Love \- Demo](https://open.spotify.com/track/06ksFBqRI5cSghYy0ix1de) | [RaeLynn](https://open.spotify.com/artist/5dMnvpYEfXvSexjwnSRH5n) | [Made For Me To Love \(Demo\)](https://open.spotify.com/album/6IVFgta0BGd8IGVwLRPb71) | 3:05 |
 | 191 | [Streets](https://open.spotify.com/track/4IGA2hFfOSJSw0gScaNCw6) | [Kenny Chesney](https://open.spotify.com/artist/3grHWM9bx2E9vwJCdlRv9O) | [Here And Now \(Deluxe\)](https://open.spotify.com/album/1KElY4EWWoOIQeYfpUbJrM) | 5:05 |
 
-Snapshot ID: `AAAAANy8CBua7xSnohdaN7WPsXFqXCLp`
+Snapshot ID: `AAAAADobMyGxs8Vdwa7ikztUtrnSTs5d`

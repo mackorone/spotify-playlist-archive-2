@@ -4,7 +4,7 @@
 
 > 
 
-3,267 songs - 6 day 23 hr 53 min
+3,268 songs - 6 day 23 hr 55 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -2973,6 +2973,7 @@
 | [Turn The Tide](https://open.spotify.com/track/4XEXr4wfMqqwxubPieTTXd) | [RAYZEN](https://open.spotify.com/artist/2x7wHChcawAYikCTKfhjId) | [Turn The Tide](https://open.spotify.com/album/4kGYzcQkiL2NKzqniRqCOl) | 2:45 | 2024-09-06 |  |
 | [Turn Up the Bass](https://open.spotify.com/track/3rJgXbdGP8ip29TJgzYuA8) | [Sandro Cardio](https://open.spotify.com/artist/2zdIePmkWwpZote67KM17v), [NO RULES SOUND](https://open.spotify.com/artist/4ZYpceTd0FQmD7bLuEDhSO) | [Turn Up the Bass](https://open.spotify.com/album/2F8K8V7rw5kyX0vjPaoD00) | 3:56 | 2026-02-16 |  |
 | [TURN UP THE MUSIC](https://open.spotify.com/track/6ZSWaurLsV9pAX2QD8QPsf) | [SL Complex](https://open.spotify.com/artist/1K24lyixWU3NZMhevM0UQW) | [TURN UP THE MUSIC](https://open.spotify.com/album/32MFKqo5HOdoNiGLy2Z9ZE) | 2:27 | 2025-10-18 |  |
+| [Turn Up The Rave](https://open.spotify.com/track/21k14WfCMNBx0mwlI3m3rP) | [Hysta](https://open.spotify.com/artist/5b4R0928g89y6qmOgtEN1O), [Advanced Dealer](https://open.spotify.com/artist/6GR6nVejsTwxyjtPqBHqyo) | [Turn Up The Rave](https://open.spotify.com/album/38nITg25D36SqICbW9V1ho) | 2:43 | 2026-11-24 |  |
 | [Tutti Rutti](https://open.spotify.com/track/1p1oRgpvthwtOAtt48r1Dy) | [The Sickest Squad](https://open.spotify.com/artist/1NGSmZz3W7RduM185NLWdk), [Hungry Beats](https://open.spotify.com/artist/4120OK88Qq7ipIhxGHpHEY) | [Tutti Rutti](https://open.spotify.com/album/4lJQbfLroaRc6EK8cXxE02) | 2:13 | 2022-09-09 |  |
 | [TWINKLE MAGIC](https://open.spotify.com/track/13gahdItSfDhCCxRz15Iqc) | [P\*Light](https://open.spotify.com/artist/7A5iW5McqgmSz4uV12zw5J) | [TWINKLE MAGIC](https://open.spotify.com/album/5QbIfFcmQd0KsyamtJyCOA) | 2:10 | 2022-08-17 |  |
 | [Twinkle Twinkle \- Radio Edit](https://open.spotify.com/track/0cIw3J2IfebUSbISWWcNcM) | [KimSize](https://open.spotify.com/artist/0lx6sUv47x7B44muGCbVCY) | [Twinkle Twinkle \(Radio Edit\)](https://open.spotify.com/album/5xBKhnht6sm1n5gWkTagfU) | 2:36 | 2023-03-27 |  |

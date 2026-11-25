@@ -1,12 +1,12 @@
 {
   "description": "Les nouveaut\u00e9s rap franco sans fronti\u00e8res. Photo: Ninho",
-  "num_followers": 25400,
+  "num_followers": 25426,
   "original_name": "Rap francophone",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAFHemY3fTRl1H3YAalA0Q11H/Y33",
+  "snapshot_id": "AAAAAP+g3RZu2Ik/CItOFF1lPRnBKo1I",
   "tracks": [
     {
       "added_at": "2026-11-20 05:03:08",
@@ -21,7 +21,7 @@
         }
       ],
       "duration_ms": 202860,
-      "name": "OC\u00c9AN DE PROBL\u00c8MES",
+      "name": "OC\ufffdAN DE PROBL\ufffdMES",
       "url": "https://open.spotify.com/track/5dIeUtbhqDLrT61OmVis32"
     },
     {
@@ -111,7 +111,7 @@
     {
       "added_at": "2026-11-20 05:03:08",
       "album": {
-        "name": "\u00c7a fait mal",
+        "name": "\u00c7a fait mal (feat. L2B)",
         "url": "https://open.spotify.com/album/2hn3gS94UbKonBWLPpFdMU"
       },
       "artists": [
@@ -129,7 +129,7 @@
         }
       ],
       "duration_ms": 159108,
-      "name": "\u00c7a fait mal",
+      "name": "\u00c7a fait mal (feat. L2B)",
       "url": "https://open.spotify.com/track/2AYGusyyjwqhD1vghWgd3f"
     },
     {
@@ -467,18 +467,18 @@
     {
       "added_at": "2026-11-20 05:03:08",
       "album": {
-        "name": "Jeunesse Dor\u00e9e",
-        "url": "https://open.spotify.com/album/2W8FV0Qcb6DsyZWFWPVTD3"
+        "name": "WpointM",
+        "url": "https://open.spotify.com/album/3DQjIYAljCg3htgIMPjLf8"
       },
       "artists": [
         {
-          "name": "Guy2Bezbar",
-          "url": "https://open.spotify.com/artist/07h4CCFmlXkwx0g4PL5Uuh"
+          "name": "Tiakola",
+          "url": "https://open.spotify.com/artist/3vUMXQ9kPnZAQkMkZZ7Hfh"
         }
       ],
-      "duration_ms": 172786,
-      "name": "Je pense \u00e0 toi",
-      "url": "https://open.spotify.com/track/5qq9r3KUlpinOXLO7zEDo8"
+      "duration_ms": 180186,
+      "name": "C\u0153ur De Pirate",
+      "url": "https://open.spotify.com/track/3KfdpLKJxBGrUnCw8KBOCR"
     },
     {
       "added_at": "2026-11-20 05:03:08",
@@ -499,18 +499,18 @@
     {
       "added_at": "2026-11-20 05:03:08",
       "album": {
-        "name": "En Croix",
-        "url": "https://open.spotify.com/album/2W1UqRYHgB4vEG4dEdtbhv"
+        "name": "Jeunesse Dor\u00e9e",
+        "url": "https://open.spotify.com/album/2W8FV0Qcb6DsyZWFWPVTD3"
       },
       "artists": [
         {
-          "name": "Lagui",
-          "url": "https://open.spotify.com/artist/3TP2Ucsow6rW1s24aq9gb4"
+          "name": "Guy2Bezbar",
+          "url": "https://open.spotify.com/artist/07h4CCFmlXkwx0g4PL5Uuh"
         }
       ],
-      "duration_ms": 166779,
-      "name": "Olivia Valere",
-      "url": "https://open.spotify.com/track/6UThEXDDl7N3CWeFxYTMnm"
+      "duration_ms": 172786,
+      "name": "Je pense \u00e0 toi",
+      "url": "https://open.spotify.com/track/5qq9r3KUlpinOXLO7zEDo8"
     },
     {
       "added_at": "2026-11-20 05:03:08",
@@ -531,18 +531,18 @@
     {
       "added_at": "2026-11-20 05:03:08",
       "album": {
-        "name": "WpointM",
-        "url": "https://open.spotify.com/album/3DQjIYAljCg3htgIMPjLf8"
+        "name": "En Croix",
+        "url": "https://open.spotify.com/album/2W1UqRYHgB4vEG4dEdtbhv"
       },
       "artists": [
         {
-          "name": "Tiakola",
-          "url": "https://open.spotify.com/artist/3vUMXQ9kPnZAQkMkZZ7Hfh"
+          "name": "Lagui",
+          "url": "https://open.spotify.com/artist/3TP2Ucsow6rW1s24aq9gb4"
         }
       ],
-      "duration_ms": 180186,
-      "name": "C\u0153ur De Pirate",
-      "url": "https://open.spotify.com/track/3KfdpLKJxBGrUnCw8KBOCR"
+      "duration_ms": 166779,
+      "name": "Olivia Valere",
+      "url": "https://open.spotify.com/track/6UThEXDDl7N3CWeFxYTMnm"
     },
     {
       "added_at": "2026-11-20 05:03:08",
@@ -915,18 +915,22 @@
     {
       "added_at": "2026-11-20 05:03:08",
       "album": {
-        "name": "FRENCH CONNEXION, Pt.3",
-        "url": "https://open.spotify.com/album/2hFWii4JgG7lYZIR309Vec"
+        "name": "BLOQU\u00c9",
+        "url": "https://open.spotify.com/album/5HZSEWInouI6tWp1C3ousL"
       },
       "artists": [
         {
-          "name": "Timar",
-          "url": "https://open.spotify.com/artist/4BUeuxQIWI69tEYuvzbv6D"
+          "name": "GIMS",
+          "url": "https://open.spotify.com/artist/0GOx72r5AAEKRGQFn3xqXK"
+        },
+        {
+          "name": "L2B",
+          "url": "https://open.spotify.com/artist/4hYxvgmTzS29XAXlo5adgM"
         }
       ],
-      "duration_ms": 208372,
-      "name": "FRENCH CONNEXION, Pt.3",
-      "url": "https://open.spotify.com/track/2O4oItDRAYlaJPqCcpN2FP"
+      "duration_ms": 201103,
+      "name": "BLOQU\u00c9",
+      "url": "https://open.spotify.com/track/4eGoCBOGEAQty5nfWRC0VD"
     },
     {
       "added_at": "2026-11-20 05:03:08",
@@ -983,38 +987,18 @@
     {
       "added_at": "2026-11-20 05:03:08",
       "album": {
-        "name": "BLOQU\u00c9",
-        "url": "https://open.spotify.com/album/5HZSEWInouI6tWp1C3ousL"
+        "name": "FRENCH CONNEXION, Pt.3",
+        "url": "https://open.spotify.com/album/2hFWii4JgG7lYZIR309Vec"
       },
       "artists": [
         {
-          "name": "GIMS",
-          "url": "https://open.spotify.com/artist/0GOx72r5AAEKRGQFn3xqXK"
-        },
-        {
-          "name": "L2B",
-          "url": "https://open.spotify.com/artist/4hYxvgmTzS29XAXlo5adgM"
+          "name": "Timar",
+          "url": "https://open.spotify.com/artist/4BUeuxQIWI69tEYuvzbv6D"
         }
       ],
-      "duration_ms": 201103,
-      "name": "BLOQU\u00c9",
-      "url": "https://open.spotify.com/track/4eGoCBOGEAQty5nfWRC0VD"
-    },
-    {
-      "added_at": "2026-11-20 05:03:08",
-      "album": {
-        "name": "RANIA",
-        "url": "https://open.spotify.com/album/1FjfhevUGJ8RjvAi3ZhMPV"
-      },
-      "artists": [
-        {
-          "name": "Niro",
-          "url": "https://open.spotify.com/artist/1wAtSe79kItIb9nf5EhI2Q"
-        }
-      ],
-      "duration_ms": 222369,
-      "name": "RANIA",
-      "url": "https://open.spotify.com/track/11toKjZRD7soOuH5ZFpWkL"
+      "duration_ms": 208372,
+      "name": "FRENCH CONNEXION, Pt.3",
+      "url": "https://open.spotify.com/track/2O4oItDRAYlaJPqCcpN2FP"
     },
     {
       "added_at": "2026-11-20 05:03:08",
@@ -1035,6 +1019,22 @@
       "duration_ms": 209617,
       "name": "Histoire sans fin",
       "url": "https://open.spotify.com/track/1T8rMFY5DayEfuwnkIPYm8"
+    },
+    {
+      "added_at": "2026-11-20 05:03:08",
+      "album": {
+        "name": "RANIA",
+        "url": "https://open.spotify.com/album/1FjfhevUGJ8RjvAi3ZhMPV"
+      },
+      "artists": [
+        {
+          "name": "Niro",
+          "url": "https://open.spotify.com/artist/1wAtSe79kItIb9nf5EhI2Q"
+        }
+      ],
+      "duration_ms": 222369,
+      "name": "RANIA",
+      "url": "https://open.spotify.com/track/11toKjZRD7soOuH5ZFpWkL"
     },
     {
       "added_at": "2026-11-20 05:03:08",
@@ -1071,22 +1071,6 @@
     {
       "added_at": "2026-11-20 05:03:08",
       "album": {
-        "name": "BBL",
-        "url": "https://open.spotify.com/album/5vETXvgVjoVMQPuduE0pqM"
-      },
-      "artists": [
-        {
-          "name": "OG Plugging",
-          "url": "https://open.spotify.com/artist/4nNMVdEVJRDHBVpKbvtsPx"
-        }
-      ],
-      "duration_ms": 135793,
-      "name": "BBL",
-      "url": "https://open.spotify.com/track/3zoUavHhrlojdvFOxZo1Ny"
-    },
-    {
-      "added_at": "2026-11-20 05:03:08",
-      "album": {
         "name": "Sarah B.",
         "url": "https://open.spotify.com/album/3aBWGrSwqmQwcEGpCvXXLu"
       },
@@ -1099,6 +1083,22 @@
       "duration_ms": 187200,
       "name": "Prohib\u00e9",
       "url": "https://open.spotify.com/track/7oNYzT2f496mdWLzE4J7XK"
+    },
+    {
+      "added_at": "2026-11-20 05:03:08",
+      "album": {
+        "name": "BBL",
+        "url": "https://open.spotify.com/album/5vETXvgVjoVMQPuduE0pqM"
+      },
+      "artists": [
+        {
+          "name": "OG Plugging",
+          "url": "https://open.spotify.com/artist/4nNMVdEVJRDHBVpKbvtsPx"
+        }
+      ],
+      "duration_ms": 135793,
+      "name": "BBL",
+      "url": "https://open.spotify.com/track/3zoUavHhrlojdvFOxZo1Ny"
     },
     {
       "added_at": "2026-11-20 05:03:08",
@@ -1303,22 +1303,6 @@
     {
       "added_at": "2026-11-20 05:03:08",
       "album": {
-        "name": "Pas Comme Eux",
-        "url": "https://open.spotify.com/album/7xiXKWEcTSh5AI6d4C3raw"
-      },
-      "artists": [
-        {
-          "name": "SDM",
-          "url": "https://open.spotify.com/artist/0LKAV3zJ8a8AIGnyc5OvfB"
-        }
-      ],
-      "duration_ms": 152240,
-      "name": "Pas Comme Eux",
-      "url": "https://open.spotify.com/track/7MKKSAsgDDRRscuy5XLbnZ"
-    },
-    {
-      "added_at": "2026-11-20 05:03:08",
-      "album": {
         "name": "L'humain",
         "url": "https://open.spotify.com/album/0iL2qBxWhrhEccFz37OaQG"
       },
@@ -1351,6 +1335,22 @@
       "duration_ms": 206250,
       "name": "Ballon D'or",
       "url": "https://open.spotify.com/track/3ygslH1eoPaSrhW8ewR4Og"
+    },
+    {
+      "added_at": "2026-11-20 05:03:08",
+      "album": {
+        "name": "Pas Comme Eux",
+        "url": "https://open.spotify.com/album/7xiXKWEcTSh5AI6d4C3raw"
+      },
+      "artists": [
+        {
+          "name": "SDM",
+          "url": "https://open.spotify.com/artist/0LKAV3zJ8a8AIGnyc5OvfB"
+        }
+      ],
+      "duration_ms": 152240,
+      "name": "Pas Comme Eux",
+      "url": "https://open.spotify.com/track/7MKKSAsgDDRRscuy5XLbnZ"
     },
     {
       "added_at": "2026-11-20 05:03:08",
@@ -1695,26 +1695,6 @@
     {
       "added_at": "2026-11-20 05:03:08",
       "album": {
-        "name": "1981 - A COLORS SHOW",
-        "url": "https://open.spotify.com/album/4g5gIL6vDqvTJ2fywP1oVy"
-      },
-      "artists": [
-        {
-          "name": "La Fouine",
-          "url": "https://open.spotify.com/artist/6QS84S3i4gwdEKqWoTtDLd"
-        },
-        {
-          "name": "COLORS",
-          "url": "https://open.spotify.com/artist/3FvwVFWRyvxmLyVBO9nBmM"
-        }
-      ],
-      "duration_ms": 171242,
-      "name": "1981 - A COLORS SHOW",
-      "url": "https://open.spotify.com/track/4DQeKvQEgzdRU0NeG53k83"
-    },
-    {
-      "added_at": "2026-11-20 05:03:08",
-      "album": {
         "name": "Bara (Freestyle)",
         "url": "https://open.spotify.com/album/1Bd9qZ7Geg4wXDD6W5URhT"
       },
@@ -1727,22 +1707,6 @@
       "duration_ms": 143173,
       "name": "Bara - Freestyle",
       "url": "https://open.spotify.com/track/2AOXJs5CMW8ojiwhg3h3Xo"
-    },
-    {
-      "added_at": "2026-11-20 05:03:08",
-      "album": {
-        "name": "Empire",
-        "url": "https://open.spotify.com/album/3r1fvBANzOiciHjLmrjzh2"
-      },
-      "artists": [
-        {
-          "name": "Bigflo & Oli",
-          "url": "https://open.spotify.com/artist/5mmEMfYChd6MImBagU7zCs"
-        }
-      ],
-      "duration_ms": 245581,
-      "name": "Empire",
-      "url": "https://open.spotify.com/track/3NBxk7pMkRgLEznxMcFwFs"
     },
     {
       "added_at": "2026-11-20 05:03:08",
@@ -1763,6 +1727,26 @@
     {
       "added_at": "2026-11-20 05:03:08",
       "album": {
+        "name": "1981 - A COLORS SHOW",
+        "url": "https://open.spotify.com/album/4g5gIL6vDqvTJ2fywP1oVy"
+      },
+      "artists": [
+        {
+          "name": "La Fouine",
+          "url": "https://open.spotify.com/artist/6QS84S3i4gwdEKqWoTtDLd"
+        },
+        {
+          "name": "COLORS",
+          "url": "https://open.spotify.com/artist/3FvwVFWRyvxmLyVBO9nBmM"
+        }
+      ],
+      "duration_ms": 171242,
+      "name": "1981 - A COLORS SHOW",
+      "url": "https://open.spotify.com/track/4DQeKvQEgzdRU0NeG53k83"
+    },
+    {
+      "added_at": "2026-11-20 05:03:08",
+      "album": {
         "name": "MCM",
         "url": "https://open.spotify.com/album/09EfixvderJHbDPcLYfajv"
       },
@@ -1775,6 +1759,22 @@
       "duration_ms": 161586,
       "name": "MCM",
       "url": "https://open.spotify.com/track/2T44mRgdxoqZpRrbG2WbQZ"
+    },
+    {
+      "added_at": "2026-11-20 05:03:08",
+      "album": {
+        "name": "Empire",
+        "url": "https://open.spotify.com/album/3r1fvBANzOiciHjLmrjzh2"
+      },
+      "artists": [
+        {
+          "name": "Bigflo & Oli",
+          "url": "https://open.spotify.com/artist/5mmEMfYChd6MImBagU7zCs"
+        }
+      ],
+      "duration_ms": 245581,
+      "name": "Empire",
+      "url": "https://open.spotify.com/track/3NBxk7pMkRgLEznxMcFwFs"
     },
     {
       "added_at": "2026-11-20 05:03:08",

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4pHb5aF7Ipw.md) - [plain]
 
 > Fresh Punjabi Hip\-Hop Tracks by Tarsem Jassar, Wazir Patar, Gagg E and more!
 
-[Spotify](https://open.spotify.com/user/spotify) - 53,722 likes - 75 songs - 3 hr 28 min
+[Spotify](https://open.spotify.com/user/spotify) - 53,739 likes - 75 songs - 3 hr 28 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4pHb5aF7Ipw.md) - [plain]
 | 74 | [Thoughts](https://open.spotify.com/track/535D6Ix1iRJrMXpxz6kc68) | [Bagga](https://open.spotify.com/artist/4R0DCzIwdV8q5zLrG869Cr), [Haakam](https://open.spotify.com/artist/1gPdNRLkL8J1nZrck72moJ) | [Thoughts](https://open.spotify.com/album/1M06S5fk8uCONkI1KOjQJU) | 2:15 |
 | 75 | [Zyada Suno](https://open.spotify.com/track/00xjWWnUtpk0rlbyxa6mSS) | [PNM](https://open.spotify.com/artist/1Kephmmdzn9A1498IX9u0E), [Gary Sidana](https://open.spotify.com/artist/6u3udaZVm2zdnn2uKlMLXd) | [Zyada Suno](https://open.spotify.com/album/3vEEfA1i7lOCDXeNogTHhR) | 2:58 |
 
-Snapshot ID: `AAAAAN1uIb3kEARDypOldlocMeOGf+Se`
+Snapshot ID: `AAAAAGo2PStSL6+Ohnb5q9VwVEr4CVQR`

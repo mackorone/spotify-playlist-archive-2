@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3Cf9ug.md) - [plain]
 
 > This is Tems\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 157,227 likes - 50 songs - 2 hr 48 min
+[Spotify](https://open.spotify.com/user/spotify) - 157,274 likes - 50 songs - 2 hr 48 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -54,9 +54,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3Cf9ug.md) - [plain]
 | 44 | [ESSENCE](https://open.spotify.com/track/3Pf5zVXlpgUOs0pT1IiYjb) | [Justin Bieber](https://open.spotify.com/artist/1uNFoZAHBGtllmzznpCI3s), [Wizkid](https://open.spotify.com/artist/3tVQdUvClmAT7URs9V3rsp), [Tems](https://open.spotify.com/artist/687cZJR45JO7jhk1LHIbgq) | [SWAG LIVE FROM COACHELLA \(Weekend I\)](https://open.spotify.com/album/3oPUIxsRBq2riLShD6V2m8) | 4:12 |
 | 45 | [Good Time](https://open.spotify.com/track/39uiJ40PjYT9TZTtwGOYcR) | [Lady Donli](https://open.spotify.com/artist/5joHzVrVQzu41KFBlZQDvG), [Tems](https://open.spotify.com/artist/687cZJR45JO7jhk1LHIbgq) | [Enjoy Your Life](https://open.spotify.com/album/0NZAQrwyssJG5y6CfGR7eL) | 3:16 |
 | 46 | [No Woman No Cry](https://open.spotify.com/track/2yrtWT6W4KUMbfNtBcH8iN) | [Tems](https://open.spotify.com/artist/687cZJR45JO7jhk1LHIbgq) | [Black Panther: Wakanda Forever \- Music From and Inspired By](https://open.spotify.com/album/06RK0wX4GqHcxBtHlVoGH5) | 3:33 |
-| 47 | [Tales By Moonlight](https://open.spotify.com/track/41dadXGDnC0DZfBmOHC1l1) | [Show Dem Camp](https://open.spotify.com/artist/0XqLMMiljB30SqHKV9PYsD), [Tems](https://open.spotify.com/artist/687cZJR45JO7jhk1LHIbgq) | [The Palmwine Express](https://open.spotify.com/album/46m9079uCxKSFAwMFfadwf) | 2:48 |
-| 48 | [Soon](https://open.spotify.com/track/1kfQmWnwajgFHQhJMvk6LF) | [Blackmagic](https://open.spotify.com/artist/711uESshM9OxGFc3lT8CL8), [Tems](https://open.spotify.com/artist/687cZJR45JO7jhk1LHIbgq) | [Blackmagic Version 3.0 \(Starving Artist\)](https://open.spotify.com/album/0uoZGAda5pPCSU2yfoZNx5) | 3:04 |
+| 47 | [Soon](https://open.spotify.com/track/1kfQmWnwajgFHQhJMvk6LF) | [Blackmagic](https://open.spotify.com/artist/711uESshM9OxGFc3lT8CL8), [Tems](https://open.spotify.com/artist/687cZJR45JO7jhk1LHIbgq) | [Blackmagic Version 3.0 \(Starving Artist\)](https://open.spotify.com/album/0uoZGAda5pPCSU2yfoZNx5) | 3:04 |
+| 48 | [Tales By Moonlight](https://open.spotify.com/track/41dadXGDnC0DZfBmOHC1l1) | [Show Dem Camp](https://open.spotify.com/artist/0XqLMMiljB30SqHKV9PYsD), [Tems](https://open.spotify.com/artist/687cZJR45JO7jhk1LHIbgq) | [The Palmwine Express](https://open.spotify.com/album/46m9079uCxKSFAwMFfadwf) | 2:48 |
 | 49 | [Falling](https://open.spotify.com/track/14AZvDYPvlYIGYAFC3GU0F) | [LADIPOE](https://open.spotify.com/artist/379IT6Szv0zgnw4xrdu4mu), [Tems](https://open.spotify.com/artist/687cZJR45JO7jhk1LHIbgq) | [T.A.P \(Talk About Poe\)](https://open.spotify.com/album/3DlhJ97XCthypfMPdgb3Mx) | 3:12 |
 | 50 | [Trouble](https://open.spotify.com/track/319xYgRF9JFpGLTtiCDhC7) | [DRB Lasgidi](https://open.spotify.com/artist/5jypR313fdSfpa6y1GMLqZ), [Teezee](https://open.spotify.com/artist/6qgNjbWXJ9mbqKwznBLj5B), [Boj](https://open.spotify.com/artist/4qYpTEJThZ8FC8KzyFrSWW), [Fresh L.](https://open.spotify.com/artist/5Req3092u4LKlAcv6kZALj), [Tems](https://open.spotify.com/artist/687cZJR45JO7jhk1LHIbgq) | [Pioneers](https://open.spotify.com/album/7tFUesVQ7An8e5pEu7sPYv) | 3:14 |
 
-Snapshot ID: `awIwgAAAAAAfWUD4r1vnn1A/zuIiH2RZ`
+Snapshot ID: `awOCAAAAAABeiqS/DVyVoQzIr0iejwxJ`

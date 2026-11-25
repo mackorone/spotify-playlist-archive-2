@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7XF2hFaHoss.md) - [plain]
 
 > The very best acoustic songs from singer\-songwriters making waves\. Cover: I'm With Her
 
-[Spotify](https://open.spotify.com/user/spotify) - 155,753 likes - 90 songs - 5 hr 23 min
+[Spotify](https://open.spotify.com/user/spotify) - 155,752 likes - 90 songs - 5 hr 23 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -99,4 +99,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7XF2hFaHoss.md) - [plain]
 | 89 | [How Could I Forget](https://open.spotify.com/track/38Kbca2Yc3eGMwRYbbI8so) | [Chastity Brown](https://open.spotify.com/artist/6vRqjrYlvurWLEwRKvTdEw) | [The Acoustic Guitar Project: Minneapolis 2014](https://open.spotify.com/album/2qdU8Zs5lu87f49YCzNL8E) | 4:02 |
 | 90 | [Unsteady Ground](https://open.spotify.com/track/5aU5EVIbdKn6Xg4ujLTrll) | [Angel Snow](https://open.spotify.com/artist/4awtkia1cywuwJ2OrxNw6j) | [Low](https://open.spotify.com/album/1wMYbFE4Xxeb6qxe2nkeIX) | 3:51 |
 
-Snapshot ID: `AAAAAG+Apo4EO5+QjGpMey2ehzCl7aBt`
+Snapshot ID: `AAAAAJHFnQ38TC2ACtgLMt4W9ozrJ5/9`

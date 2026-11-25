@@ -1,12 +1,12 @@
 {
   "description": "This is Angela Torres. The essential tracks, all in one playlist.",
-  "num_followers": 10059,
+  "num_followers": 10069,
   "original_name": "This Is Angela Torres",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "awIwgAAAAABUzOg4quPFRP2L+wEhUha5",
+  "snapshot_id": "awOCAAAAAABFLnXczyGJXtW0M8YQDDmT",
   "tracks": [
     {
       "added_at": null,
@@ -359,6 +359,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Deja Vu",
+        "url": "https://open.spotify.com/album/2d5OQTVxmRIoYCSlwSOBOs"
+      },
+      "artists": [
+        {
+          "name": "Angela Torres",
+          "url": "https://open.spotify.com/artist/6LZA6PhNCwUfHzqfpN1nYL"
+        }
+      ],
+      "duration_ms": 201951,
+      "name": "Deja Vu",
+      "url": "https://open.spotify.com/track/4uqc8T9Aq7k9wlNQeXxSuY"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Favorita (En Vivo)",
         "url": "https://open.spotify.com/album/1n4aXYVrnqSV8ahYenLZGo"
       },
@@ -375,22 +391,6 @@
       "duration_ms": 260244,
       "name": "Favorita (En Vivo)",
       "url": "https://open.spotify.com/track/6zTK7QwntQ9CuDJowNVFSS"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Deja Vu",
-        "url": "https://open.spotify.com/album/2d5OQTVxmRIoYCSlwSOBOs"
-      },
-      "artists": [
-        {
-          "name": "Angela Torres",
-          "url": "https://open.spotify.com/artist/6LZA6PhNCwUfHzqfpN1nYL"
-        }
-      ],
-      "duration_ms": 201951,
-      "name": "Deja Vu",
-      "url": "https://open.spotify.com/track/4uqc8T9Aq7k9wlNQeXxSuY"
     },
     {
       "added_at": null,
@@ -635,6 +635,26 @@
     {
       "added_at": null,
       "album": {
+        "name": "PURA",
+        "url": "https://open.spotify.com/album/2PAJpftisSwkakrKmheRcl"
+      },
+      "artists": [
+        {
+          "name": "BB ASUL",
+          "url": "https://open.spotify.com/artist/27PauMy7dOiHb7sI8h6s4T"
+        },
+        {
+          "name": "Angela Torres",
+          "url": "https://open.spotify.com/artist/6LZA6PhNCwUfHzqfpN1nYL"
+        }
+      ],
+      "duration_ms": 221714,
+      "name": "Tu Mitad (feat. Angela Torres)",
+      "url": "https://open.spotify.com/track/6rkAc7HYaGhSAS8O5vCcKy"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Me Di Cuenta",
         "url": "https://open.spotify.com/album/6jFRVOjcQ9Ca7LwZbdpzyo"
       },
@@ -655,22 +675,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "PURA",
-        "url": "https://open.spotify.com/album/2PAJpftisSwkakrKmheRcl"
+        "name": "mitad",
+        "url": "https://open.spotify.com/album/7yBVnMTs3IbijMx8wsXyEp"
       },
       "artists": [
         {
-          "name": "BB ASUL",
-          "url": "https://open.spotify.com/artist/27PauMy7dOiHb7sI8h6s4T"
-        },
-        {
           "name": "Angela Torres",
           "url": "https://open.spotify.com/artist/6LZA6PhNCwUfHzqfpN1nYL"
+        },
+        {
+          "name": "Rusherking",
+          "url": "https://open.spotify.com/artist/3Apb2lGmGJaBmr0TTBJvIZ"
         }
       ],
-      "duration_ms": 221714,
-      "name": "Tu Mitad (feat. Angela Torres)",
-      "url": "https://open.spotify.com/track/6rkAc7HYaGhSAS8O5vCcKy"
+      "duration_ms": 172392,
+      "name": "mitad",
+      "url": "https://open.spotify.com/track/0OmKNkSVTMfRFbrgvmz1bO"
     },
     {
       "added_at": null,
@@ -695,26 +715,6 @@
       "duration_ms": 212363,
       "name": "Fresh Prince - Remix",
       "url": "https://open.spotify.com/track/29bhlg1hLwg8I4jDH1UCCZ"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "mitad",
-        "url": "https://open.spotify.com/album/7yBVnMTs3IbijMx8wsXyEp"
-      },
-      "artists": [
-        {
-          "name": "Angela Torres",
-          "url": "https://open.spotify.com/artist/6LZA6PhNCwUfHzqfpN1nYL"
-        },
-        {
-          "name": "Rusherking",
-          "url": "https://open.spotify.com/artist/3Apb2lGmGJaBmr0TTBJvIZ"
-        }
-      ],
-      "duration_ms": 172392,
-      "name": "mitad",
-      "url": "https://open.spotify.com/track/0OmKNkSVTMfRFbrgvmz1bO"
     },
     {
       "added_at": null,

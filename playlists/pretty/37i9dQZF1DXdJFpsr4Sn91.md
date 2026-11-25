@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdJFpsr4Sn91.md) - [plain]
 
 > Nousussa olevat hitit\. 🌪️
 
-[Spotify](https://open.spotify.com/user/spotify) - 59,270 likes - 50 songs - 2 hr 23 min
+[Spotify](https://open.spotify.com/user/spotify) - 59,264 likes - 50 songs - 2 hr 23 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -57,6 +57,6 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdJFpsr4Sn91.md) - [plain]
 | 47 | [Don't Let It Get to You](https://open.spotify.com/track/4QLSVMOYIFo4618S9UkRyb) | [Goldielocks](https://open.spotify.com/artist/5v1NrlZC6GuQq2Ci8H1A59) | [Don't Let It Get to You](https://open.spotify.com/album/2ll6LCwWcfJljpb9qGDslb) | 3:23 |
 | 48 | [Helena](https://open.spotify.com/track/7CL0XvdOIunKIAjshljO3p) | [Annika Pudas](https://open.spotify.com/artist/1UEWzQeV0TWpwFQvhIeJiA) | [Romantica](https://open.spotify.com/album/7q3uiwEifMQBcqJMmDDZ67) | 2:56 |
 | 49 | [Joutsenet](https://open.spotify.com/track/2KGHeli3UfHVsn1LUPezYH) | [Jenni & Juho](https://open.spotify.com/artist/5uYU6UHu7wuyF2Oa4OjZnp) | [Parasta ja paskinta](https://open.spotify.com/album/3ncZk0RQHxOWp59avtHOFC) | 2:22 |
-| 50 | [I'll Die Happily](https://open.spotify.com/track/3GbtxhWAT8NltZsd2THDEq) | [martta](https://open.spotify.com/artist/0MiaKVPx1j2fJr4A37YhLW) | [I'll Die Happily](https://open.spotify.com/album/1cZim98guoUVCwT4RRguae) | 2:49 |
+| 50 | [Värit](https://open.spotify.com/track/0wvcMn4YYcmdAzvcvJkRZQ) | [BENI](https://open.spotify.com/artist/0yVKqanLFd6BLlbkfYOnqX) | [Värit](https://open.spotify.com/album/2lihJzuMtlNJASqgaIKFRA) | 2:49 |
 
-Snapshot ID: `AAAAAL+xFwWsY9WEdojH22tsHPYMXe9T`
+Snapshot ID: `AAAAAFg26ahv8d4ie9TOZTPSs7KAc/gT`

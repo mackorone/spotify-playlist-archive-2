@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5J7FIl4q56G.md) - [plain]
 
 > The best new tracks in metal, hard rock, and all things heavy\. Cover: DOWN
 
-[Spotify](https://open.spotify.com/user/spotify) - 812,439 likes - 186 songs - 12 hr 5 min
+[Spotify](https://open.spotify.com/user/spotify) - 812,413 likes - 186 songs - 12 hr 5 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -195,4 +195,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5J7FIl4q56G.md) - [plain]
 | 185 | [Gratitude Meditation](https://open.spotify.com/track/68tmyqVi1jwbqulimapAXh) | [Genital Shame](https://open.spotify.com/artist/6jEQ9wweXV1cIGa6Wga1do) | [Wellness Plan](https://open.spotify.com/album/6bRIRHbrh29nsNlLyXJ3UT) | 10:29 |
 | 186 | [I Am Ice](https://open.spotify.com/track/6ZNscYeVhHgM3RHU4TjEMZ) | [Enslaved](https://open.spotify.com/artist/2HmtB6wVRRi3z0JwZHtkiD), [Johan Sara Jr.](https://open.spotify.com/artist/2P466JXaRfp8M9fX2eVhwR) | [Mið](https://open.spotify.com/album/4YMrTpx1I30qGlSsRzzwMm) | 5:02 |
 
-Snapshot ID: `AAAAAPpGOSmpk1Wis9uqFV8yAy6OHINx`
+Snapshot ID: `AAAAADWF4wsjWmt3RHKGlHxzyLHp+8Qu`

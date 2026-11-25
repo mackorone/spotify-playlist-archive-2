@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO271ive.md) - [plain]
 
 > This is Sexyy Red\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 31,653 likes - 50 songs - 2 hr 21 min
+[Spotify](https://open.spotify.com/user/spotify) - 31,665 likes - 50 songs - 2 hr 21 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -27,8 +27,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO271ive.md) - [plain]
 | 17 | [U My Everything \(feat\. Drake\)](https://open.spotify.com/track/1TgStpMGTflN84asKJ8VU3) | [Sexyy Red](https://open.spotify.com/artist/3DbwFQlvLxRSi2uX8mf81A), [Drake](https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4) | [In Sexyy We Trust](https://open.spotify.com/album/5PmtX9B5vNa4uaiXQVn4Gx) | 3:45 |
 | 18 | [If You Want It](https://open.spotify.com/track/2w7eSCgQr9mZ7u2FUfkRnv) | [Sexyy Red](https://open.spotify.com/artist/3DbwFQlvLxRSi2uX8mf81A) | [Yo Favorite Trappa Favorite Rappa \(Hosted by DJ Holiday\)](https://open.spotify.com/album/4lnnjuRw10Swa4WrMXRhOk) | 3:02 |
 | 19 | [SkeeYee](https://open.spotify.com/track/7icwQvajsokotDfM3tefW6) | [Sexyy Red](https://open.spotify.com/artist/3DbwFQlvLxRSi2uX8mf81A) | [Hood Hottest Princess](https://open.spotify.com/album/6uoGeT623i76TwlgYFfe42) | 2:37 |
-| 20 | [Hang Wit a Bad Bitch \(feat\. Key Glock\)](https://open.spotify.com/track/58kIVm8Mb2CS4j6UQa1PE4) | [Sexyy Red](https://open.spotify.com/artist/3DbwFQlvLxRSi2uX8mf81A), [Key Glock](https://open.spotify.com/artist/0RESbWvOMyua0yuyVrztJ5) | [Hang Wit a Bad Bitch \(feat\. Key Glock\)](https://open.spotify.com/album/2baqPDpNzQ8eu8tGM98lZA) | 2:34 |
-| 21 | [Blue Strips \(feat\. Sexyy Red\) \- Remix](https://open.spotify.com/track/1GLJ9AZrhDpU32WQirWBzV) | [Jessie Murph](https://open.spotify.com/artist/2yLzlEFtIS0Q9UkyBZdQA7), [Sexyy Red](https://open.spotify.com/artist/3DbwFQlvLxRSi2uX8mf81A) | [Blue Strips \(Remix\) \(feat\. Sexyy Red\)](https://open.spotify.com/album/6ILm92QdF5a6w58j7xb7so) | 2:13 |
+| 20 | [Blue Strips \(feat\. Sexyy Red\) \- Remix](https://open.spotify.com/track/1GLJ9AZrhDpU32WQirWBzV) | [Jessie Murph](https://open.spotify.com/artist/2yLzlEFtIS0Q9UkyBZdQA7), [Sexyy Red](https://open.spotify.com/artist/3DbwFQlvLxRSi2uX8mf81A) | [Blue Strips \(Remix\) \(feat\. Sexyy Red\)](https://open.spotify.com/album/6ILm92QdF5a6w58j7xb7so) | 2:13 |
+| 21 | [Hang Wit a Bad Bitch \(feat\. Key Glock\)](https://open.spotify.com/track/58kIVm8Mb2CS4j6UQa1PE4) | [Sexyy Red](https://open.spotify.com/artist/3DbwFQlvLxRSi2uX8mf81A), [Key Glock](https://open.spotify.com/artist/0RESbWvOMyua0yuyVrztJ5) | [Hang Wit a Bad Bitch \(feat\. Key Glock\)](https://open.spotify.com/album/2baqPDpNzQ8eu8tGM98lZA) | 2:34 |
 | 22 | [Call Your Name \(feat\. Sexyy Red & GloRilla\)](https://open.spotify.com/track/484opyiuSN7OTv4Au8sv2p) | [Chris Brown](https://open.spotify.com/artist/7bXgB6jMjp9ATFy66eO08Z), [Sexyy Red](https://open.spotify.com/artist/3DbwFQlvLxRSi2uX8mf81A), [GloRilla](https://open.spotify.com/artist/2qoQgPAilErOKCwE2Y8wOG) | [BROWN](https://open.spotify.com/album/7GToxH8az0ztPfYCeOAqij) | 4:31 |
 | 23 | [Embrace It \(feat\. Sexyy Red, Flo Milli\) \- Remix](https://open.spotify.com/track/1KkeD458LJuw0KkU9AIfqo) | [Ndotz](https://open.spotify.com/artist/5HK6QtizXJzCmoYTkvFRik), [Flo Milli](https://open.spotify.com/artist/08PvCOlef4xdOr20jFSTPd), [RJ Pasin](https://open.spotify.com/artist/3BTY807ipaaT6QHW1tHTt0), [Sexyy Red](https://open.spotify.com/artist/3DbwFQlvLxRSi2uX8mf81A) | [Embrace It \(Remix\) \(feat\. Sexyy Red, Flo Milli, RJ Pasin\)](https://open.spotify.com/album/566dEBWNKAa9yh16I1GtrT) | 3:22 |
 | 24 | [SEXY](https://open.spotify.com/track/4ZxgdNoF4zjxa75j46hhlc) | [YOLAMASCARA](https://open.spotify.com/artist/7b3s3AO7HK6A2MJHFvSDvd), [Sexyy Red](https://open.spotify.com/artist/3DbwFQlvLxRSi2uX8mf81A) | [SEXY](https://open.spotify.com/album/6CB6mOUulAZbiPgXPcZVtE) | 2:08 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO271ive.md) - [plain]
 | 49 | [Face Down](https://open.spotify.com/track/69uzomsgzj5yG6CztWeC56) | [MCVERTT](https://open.spotify.com/artist/5vqMF43W0Sex6zjJJKv7LC), [A$AP Ferg](https://open.spotify.com/artist/5dHt1vcEm9qb8fCyLcB3HL), [Sexyy Red](https://open.spotify.com/artist/3DbwFQlvLxRSi2uX8mf81A) | [Face Down](https://open.spotify.com/album/3hnstzTuprnjM56Xm1MRSr) | 2:54 |
 | 50 | [Hoochie Coochie](https://open.spotify.com/track/7ygjfxmmkgPN0nbyYOMD2T) | [Sexyy Red](https://open.spotify.com/artist/3DbwFQlvLxRSi2uX8mf81A) | [Hoochie Coochie](https://open.spotify.com/album/3AGhrLfPdpOZQnI7s5GBjz) | 2:27 |
 
-Snapshot ID: `awIwgAAAAABZYmOR4BO3mz2WjNK+wqgb`
+Snapshot ID: `awOCAAAAAABz0+R9KvowamjyXgb96r09`

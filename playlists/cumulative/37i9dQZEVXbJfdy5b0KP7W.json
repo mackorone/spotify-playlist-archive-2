@@ -3526,7 +3526,7 @@
       ],
       "date_added": "2026-06-03",
       "date_added_asterisk": false,
-      "date_removed": "2026-11-18",
+      "date_removed": null,
       "duration_ms": 207500,
       "name": "Candy",
       "url": "https://open.spotify.com/track/2cRtuTadVm0JzoW4NNTIqI"
@@ -3544,7 +3544,7 @@
       ],
       "date_added": "2025-06-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-25",
       "duration_ms": 207626,
       "name": "Candy",
       "url": "https://open.spotify.com/track/5MYPciceOHMd7Vl7ntELEq"
@@ -4868,7 +4868,7 @@
       ],
       "date_added": "2026-09-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-25",
       "duration_ms": 278013,
       "name": "Cuatro Babys (feat. Trap Capos, Noriel, Bryant Myers & Juhn)",
       "url": "https://open.spotify.com/track/15AlCAcyTVSqibPxZbTwRg"
@@ -6806,7 +6806,7 @@
       ],
       "date_added": "2025-10-14",
       "date_added_asterisk": false,
-      "date_removed": "2026-11-24",
+      "date_removed": null,
       "duration_ms": 235626,
       "name": "El Tel\u00e9fono",
       "url": "https://open.spotify.com/track/614NVFo5csQqRnryl4jXs2"
@@ -6828,7 +6828,7 @@
       ],
       "date_added": "2025-11-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-25",
       "duration_ms": 239293,
       "name": "El Tel\u00e9fono",
       "url": "https://open.spotify.com/track/1sbiqeh3fCNwebhohDRXAp"
@@ -18758,7 +18758,7 @@
       ],
       "date_added": "2026-05-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-25",
       "duration_ms": 244360,
       "name": "Reina Pepiada",
       "url": "https://open.spotify.com/track/3yJ8buQlPzQtHyCicOGDJ0"
@@ -19806,6 +19806,24 @@
       "duration_ms": 220300,
       "name": "Se Me Olvid\u00f3",
       "url": "https://open.spotify.com/track/7xLYLM5K6S1TwiSdfuhZQg"
+    },
+    {
+      "album": {
+        "name": "Se Toco El T#tito Con Mi Gl*ck",
+        "url": "https://open.spotify.com/album/2J33n3xk9ArHdSdJf09zfR"
+      },
+      "artists": [
+        {
+          "name": "Anuel AA",
+          "url": "https://open.spotify.com/artist/2R21vXR83lH98kGeO99Y66"
+        }
+      ],
+      "date_added": "2026-11-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 261818,
+      "name": "Se Toco El T#tito Con Mi Gl*ck",
+      "url": "https://open.spotify.com/track/48m48t4jXHpMbo805OOaj1"
     },
     {
       "album": {
@@ -23820,7 +23838,7 @@
       ],
       "date_added": "2025-01-06",
       "date_added_asterisk": false,
-      "date_removed": "2026-11-24",
+      "date_removed": null,
       "duration_ms": 235336,
       "name": "VeLD\u00c1",
       "url": "https://open.spotify.com/track/7d6yK8v8J484SWH5prIQiE"

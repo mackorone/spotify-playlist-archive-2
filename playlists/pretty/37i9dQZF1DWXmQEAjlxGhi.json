@@ -1,12 +1,12 @@
 {
   "description": "Upbeat Latin songs to keep your heart rate up.",
-  "num_followers": 1399609,
+  "num_followers": 1399620,
   "original_name": "Gym Latino",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAKruBSCMTucLDJCvS9BSxeSEucGH",
+  "snapshot_id": "AAAAAORe87duTaDSAKlPyFvud2zxC0Pq",
   "tracks": [
     {
       "added_at": "2026-11-06 14:34:52",
@@ -543,22 +543,6 @@
     {
       "added_at": "2026-11-06 14:34:52",
       "album": {
-        "name": "Si Antes Te Hubiera Conocido",
-        "url": "https://open.spotify.com/album/5ylbxH7EqpsmHZCRuiYewS"
-      },
-      "artists": [
-        {
-          "name": "KAROL G",
-          "url": "https://open.spotify.com/artist/790FomKkXshlbRYZFtlgla"
-        }
-      ],
-      "duration_ms": 195824,
-      "name": "Si Antes Te Hubiera Conocido",
-      "url": "https://open.spotify.com/track/6WatFBLVB0x077xWeoVc2k"
-    },
-    {
-      "added_at": "2026-11-06 14:34:52",
-      "album": {
         "name": "Quevedo: Bzrp Music Sessions, Vol. 52/66",
         "url": "https://open.spotify.com/album/4PNqWiJAfjj32hVvlchV5u"
       },
@@ -575,6 +559,22 @@
       "duration_ms": 198937,
       "name": "Quevedo: Bzrp Music Sessions, Vol. 52/66",
       "url": "https://open.spotify.com/track/2tTmW7RDtMQtBk7m2rYeSw"
+    },
+    {
+      "added_at": "2026-11-06 14:34:52",
+      "album": {
+        "name": "Si Antes Te Hubiera Conocido",
+        "url": "https://open.spotify.com/album/5ylbxH7EqpsmHZCRuiYewS"
+      },
+      "artists": [
+        {
+          "name": "KAROL G",
+          "url": "https://open.spotify.com/artist/790FomKkXshlbRYZFtlgla"
+        }
+      ],
+      "duration_ms": 195824,
+      "name": "Si Antes Te Hubiera Conocido",
+      "url": "https://open.spotify.com/track/6WatFBLVB0x077xWeoVc2k"
     },
     {
       "added_at": "2026-11-06 14:34:52",
@@ -631,26 +631,6 @@
     {
       "added_at": "2026-11-06 14:34:52",
       "album": {
-        "name": "Tropicoqueta",
-        "url": "https://open.spotify.com/album/0yY0fT7zibMEffhBJD9Nab"
-      },
-      "artists": [
-        {
-          "name": "KAROL G",
-          "url": "https://open.spotify.com/artist/790FomKkXshlbRYZFtlgla"
-        },
-        {
-          "name": "Feid",
-          "url": "https://open.spotify.com/artist/2LRoIwlKmHjgvigdNGBHNo"
-        }
-      ],
-      "duration_ms": 210047,
-      "name": "Verano Rosa",
-      "url": "https://open.spotify.com/track/0nafF9MxcXJBQWv3BTKtdF"
-    },
-    {
-      "added_at": "2026-11-06 14:34:52",
-      "album": {
         "name": "X (feat. Maluma & Ozuna) [Remix]",
         "url": "https://open.spotify.com/album/5VQfOfiYcDLGZo9HFW1IJM"
       },
@@ -675,6 +655,26 @@
       "duration_ms": 236000,
       "name": "X (feat. Maluma & Ozuna) - Remix",
       "url": "https://open.spotify.com/track/6JjPBQfI2Y8nIjnm65X6Pw"
+    },
+    {
+      "added_at": "2026-11-06 14:34:52",
+      "album": {
+        "name": "Tropicoqueta",
+        "url": "https://open.spotify.com/album/0yY0fT7zibMEffhBJD9Nab"
+      },
+      "artists": [
+        {
+          "name": "KAROL G",
+          "url": "https://open.spotify.com/artist/790FomKkXshlbRYZFtlgla"
+        },
+        {
+          "name": "Feid",
+          "url": "https://open.spotify.com/artist/2LRoIwlKmHjgvigdNGBHNo"
+        }
+      ],
+      "duration_ms": 210047,
+      "name": "Verano Rosa",
+      "url": "https://open.spotify.com/track/0nafF9MxcXJBQWv3BTKtdF"
     },
     {
       "added_at": "2026-11-06 14:34:52",
@@ -727,6 +727,22 @@
     {
       "added_at": "2026-11-06 14:34:52",
       "album": {
+        "name": "PLAYA SATURNO",
+        "url": "https://open.spotify.com/album/6E7Awtyx6opYTbPXx6ApzB"
+      },
+      "artists": [
+        {
+          "name": "Rauw Alejandro",
+          "url": "https://open.spotify.com/artist/1mcTU81TzQhprhouKaTkpq"
+        }
+      ],
+      "duration_ms": 197052,
+      "name": "DILUVIO",
+      "url": "https://open.spotify.com/track/2kz1YOhJiNubjigR1gB1VX"
+    },
+    {
+      "added_at": "2026-11-06 14:34:52",
+      "album": {
         "name": "MA\u00d1ANA SER\u00c1 BONITO (BICHOTA SEASON)",
         "url": "https://open.spotify.com/album/0FqAaUEyKCyUNFE1uQPZ7i"
       },
@@ -743,22 +759,6 @@
       "duration_ms": 172797,
       "name": "QLONA",
       "url": "https://open.spotify.com/track/5RqSsdzTNPX1uzkmlHCFvK"
-    },
-    {
-      "added_at": "2026-11-06 14:34:52",
-      "album": {
-        "name": "PLAYA SATURNO",
-        "url": "https://open.spotify.com/album/6E7Awtyx6opYTbPXx6ApzB"
-      },
-      "artists": [
-        {
-          "name": "Rauw Alejandro",
-          "url": "https://open.spotify.com/artist/1mcTU81TzQhprhouKaTkpq"
-        }
-      ],
-      "duration_ms": 197052,
-      "name": "DILUVIO",
-      "url": "https://open.spotify.com/track/2kz1YOhJiNubjigR1gB1VX"
     },
     {
       "added_at": "2026-11-06 14:34:52",
@@ -811,6 +811,22 @@
     {
       "added_at": "2026-11-06 14:34:52",
       "album": {
+        "name": "Cosa Nuestra",
+        "url": "https://open.spotify.com/album/0aX0UXrHG2ceYIxTQcqJdA"
+      },
+      "artists": [
+        {
+          "name": "Rauw Alejandro",
+          "url": "https://open.spotify.com/artist/1mcTU81TzQhprhouKaTkpq"
+        }
+      ],
+      "duration_ms": 289131,
+      "name": "T\u00fa Con \u00c9l",
+      "url": "https://open.spotify.com/track/2eQFYGegTZaObk2kuBz83Z"
+    },
+    {
+      "added_at": "2026-11-06 14:34:52",
+      "album": {
         "name": "Shakira: Bzrp Music Sessions, Vol. 53/66",
         "url": "https://open.spotify.com/album/1gi2iwr1l8IUyHYHxi01pg"
       },
@@ -827,22 +843,6 @@
       "duration_ms": 214945,
       "name": "Shakira: Bzrp Music Sessions, Vol. 53/66",
       "url": "https://open.spotify.com/track/4nrPB8O7Y7wsOCJdgXkthe"
-    },
-    {
-      "added_at": "2026-11-06 14:34:52",
-      "album": {
-        "name": "Cosa Nuestra",
-        "url": "https://open.spotify.com/album/0aX0UXrHG2ceYIxTQcqJdA"
-      },
-      "artists": [
-        {
-          "name": "Rauw Alejandro",
-          "url": "https://open.spotify.com/artist/1mcTU81TzQhprhouKaTkpq"
-        }
-      ],
-      "duration_ms": 289131,
-      "name": "T\u00fa Con \u00c9l",
-      "url": "https://open.spotify.com/track/2eQFYGegTZaObk2kuBz83Z"
     },
     {
       "added_at": "2026-11-06 14:34:52",
@@ -911,6 +911,22 @@
     {
       "added_at": "2026-11-06 14:34:52",
       "album": {
+        "name": "Loco",
+        "url": "https://open.spotify.com/album/1vNUD9sUBRHFFQiwYZm232"
+      },
+      "artists": [
+        {
+          "name": "Neton Vega",
+          "url": "https://open.spotify.com/artist/6pV5zH2LzjOUHaAvENdMMa"
+        }
+      ],
+      "duration_ms": 186521,
+      "name": "Loco",
+      "url": "https://open.spotify.com/track/63EQbNhgaih4yg5412usWG"
+    },
+    {
+      "added_at": "2026-11-06 14:34:52",
+      "album": {
         "name": "Daddy Yankee: Bzrp Music Sessions, Vol. 0/66",
         "url": "https://open.spotify.com/album/1lYZ1jkIDGcPVbBRIadB4t"
       },
@@ -931,18 +947,18 @@
     {
       "added_at": "2026-11-06 14:34:52",
       "album": {
-        "name": "Loco",
-        "url": "https://open.spotify.com/album/1vNUD9sUBRHFFQiwYZm232"
+        "name": "Mu\u00e9velo",
+        "url": "https://open.spotify.com/album/6tKu7fGPGQyKD1nbSMWTje"
       },
       "artists": [
         {
-          "name": "Neton Vega",
-          "url": "https://open.spotify.com/artist/6pV5zH2LzjOUHaAvENdMMa"
+          "name": "Kali Uchis",
+          "url": "https://open.spotify.com/artist/1U1el3k54VvEUzo3ybLPlM"
         }
       ],
-      "duration_ms": 186521,
-      "name": "Loco",
-      "url": "https://open.spotify.com/track/63EQbNhgaih4yg5412usWG"
+      "duration_ms": 127366,
+      "name": "Mu\u00e9velo",
+      "url": "https://open.spotify.com/track/7N3mR4WnEuq1MUQlxb6JWH"
     },
     {
       "added_at": "2026-11-06 14:34:52",
@@ -963,22 +979,6 @@
       "duration_ms": 159404,
       "name": "mi refe",
       "url": "https://open.spotify.com/track/7ricDBUakN3N0YkkKE8Obu"
-    },
-    {
-      "added_at": "2026-11-06 14:34:52",
-      "album": {
-        "name": "Mu\u00e9velo",
-        "url": "https://open.spotify.com/album/6tKu7fGPGQyKD1nbSMWTje"
-      },
-      "artists": [
-        {
-          "name": "Kali Uchis",
-          "url": "https://open.spotify.com/artist/1U1el3k54VvEUzo3ybLPlM"
-        }
-      ],
-      "duration_ms": 127366,
-      "name": "Mu\u00e9velo",
-      "url": "https://open.spotify.com/track/7N3mR4WnEuq1MUQlxb6JWH"
     },
     {
       "added_at": "2026-11-06 14:34:52",
@@ -1179,26 +1179,6 @@
     {
       "added_at": "2026-11-06 14:34:52",
       "album": {
-        "name": "Perlas Negras",
-        "url": "https://open.spotify.com/album/5IPuOgZp4wLcGprLrfjSy0"
-      },
-      "artists": [
-        {
-          "name": "Natanael Cano",
-          "url": "https://open.spotify.com/artist/0elWFr7TW8piilVRYJUe4P"
-        },
-        {
-          "name": "Gabito Ballesteros",
-          "url": "https://open.spotify.com/artist/6Sbl0NT50roqWvy746MfVf"
-        }
-      ],
-      "duration_ms": 203357,
-      "name": "Perlas Negras",
-      "url": "https://open.spotify.com/track/3piSbt4J3UElNC2d5jhjJr"
-    },
-    {
-      "added_at": "2026-11-06 14:34:52",
-      "album": {
         "name": "BELLAKEO",
         "url": "https://open.spotify.com/album/3VLY9g3CAG1Y5r2eGVEaZ0"
       },
@@ -1215,6 +1195,26 @@
       "duration_ms": 197333,
       "name": "BELLAKEO",
       "url": "https://open.spotify.com/track/05WVKTdZhlIMX4qqMLuo0f"
+    },
+    {
+      "added_at": "2026-11-06 14:34:52",
+      "album": {
+        "name": "Perlas Negras",
+        "url": "https://open.spotify.com/album/5IPuOgZp4wLcGprLrfjSy0"
+      },
+      "artists": [
+        {
+          "name": "Natanael Cano",
+          "url": "https://open.spotify.com/artist/0elWFr7TW8piilVRYJUe4P"
+        },
+        {
+          "name": "Gabito Ballesteros",
+          "url": "https://open.spotify.com/artist/6Sbl0NT50roqWvy746MfVf"
+        }
+      ],
+      "duration_ms": 203357,
+      "name": "Perlas Negras",
+      "url": "https://open.spotify.com/track/3piSbt4J3UElNC2d5jhjJr"
     },
     {
       "added_at": "2026-11-06 14:34:52",
@@ -1455,22 +1455,6 @@
     {
       "added_at": "2026-11-06 14:34:52",
       "album": {
-        "name": "Envolver",
-        "url": "https://open.spotify.com/album/6UsualeqgzPnb8cfaQ5nL7"
-      },
-      "artists": [
-        {
-          "name": "Anitta",
-          "url": "https://open.spotify.com/artist/7FNnA9vBm6EKceENgCGRMb"
-        }
-      ],
-      "duration_ms": 193805,
-      "name": "Envolver",
-      "url": "https://open.spotify.com/track/3IAfUEeaXRX9s9UdKOJrFI"
-    },
-    {
-      "added_at": "2026-11-06 14:34:52",
-      "album": {
         "name": "Cuando Te Vi | CROSSOVER #5",
         "url": "https://open.spotify.com/album/4u5sL85dlRv7eIMJIozZl8"
       },
@@ -1491,6 +1475,22 @@
       "duration_ms": 218400,
       "name": "Cuando Te Vi | CROSSOVER #5",
       "url": "https://open.spotify.com/track/3KeYEr9ogMBemsOfQIJmZp"
+    },
+    {
+      "added_at": "2026-11-06 14:34:52",
+      "album": {
+        "name": "Envolver",
+        "url": "https://open.spotify.com/album/6UsualeqgzPnb8cfaQ5nL7"
+      },
+      "artists": [
+        {
+          "name": "Anitta",
+          "url": "https://open.spotify.com/artist/7FNnA9vBm6EKceENgCGRMb"
+        }
+      ],
+      "duration_ms": 193805,
+      "name": "Envolver",
+      "url": "https://open.spotify.com/track/3IAfUEeaXRX9s9UdKOJrFI"
     },
     {
       "added_at": "2026-11-06 14:34:52",

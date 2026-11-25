@@ -1,12 +1,12 @@
 {
   "description": "Go hard or go home. Cover: SOTA",
-  "num_followers": 77375,
+  "num_followers": 77381,
   "original_name": "Jump Up!",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAABDOI0JcM+QxwKyzye4NYmxL+JXc",
+  "snapshot_id": "AAAAANhaGQuVJOvHWz01T4AZaOShwdVd",
   "tracks": [
     {
       "added_at": "2026-10-22 23:00:31",
@@ -595,6 +595,26 @@
     {
       "added_at": "2026-10-22 23:00:31",
       "album": {
+        "name": "Outlaw",
+        "url": "https://open.spotify.com/album/1CmpfvkAdZF2M3X25bwsWQ"
+      },
+      "artists": [
+        {
+          "name": "Flowidus",
+          "url": "https://open.spotify.com/artist/410Yzyq0DmhJImIxqy5wOC"
+        },
+        {
+          "name": "Frisco",
+          "url": "https://open.spotify.com/artist/1AKNroq6zJX4DlJaA0dcKw"
+        }
+      ],
+      "duration_ms": 177136,
+      "name": "Outlaw",
+      "url": "https://open.spotify.com/track/1dgTcXVMLvp0aeiBFPtW9a"
+    },
+    {
+      "added_at": "2026-10-22 23:00:31",
+      "album": {
         "name": "Round + Round",
         "url": "https://open.spotify.com/album/7gc1xnYMRQAuyc9Gnq2mr9"
       },
@@ -615,26 +635,6 @@
       "duration_ms": 158620,
       "name": "Round + Round",
       "url": "https://open.spotify.com/track/5EMKhf5HieDSJHbVuaucd4"
-    },
-    {
-      "added_at": "2026-10-22 23:00:31",
-      "album": {
-        "name": "Outlaw",
-        "url": "https://open.spotify.com/album/1CmpfvkAdZF2M3X25bwsWQ"
-      },
-      "artists": [
-        {
-          "name": "Flowidus",
-          "url": "https://open.spotify.com/artist/410Yzyq0DmhJImIxqy5wOC"
-        },
-        {
-          "name": "Frisco",
-          "url": "https://open.spotify.com/artist/1AKNroq6zJX4DlJaA0dcKw"
-        }
-      ],
-      "duration_ms": 177136,
-      "name": "Outlaw",
-      "url": "https://open.spotify.com/track/1dgTcXVMLvp0aeiBFPtW9a"
     },
     {
       "added_at": "2026-10-22 23:00:31",
@@ -863,22 +863,6 @@
     {
       "added_at": "2026-10-22 23:00:31",
       "album": {
-        "name": "Rhythm & Gash VIP",
-        "url": "https://open.spotify.com/album/4G3ulwIvimf6PqAXIBN2wg"
-      },
-      "artists": [
-        {
-          "name": "Phibes",
-          "url": "https://open.spotify.com/artist/21VZgcYa29ZVvRQzmUNakx"
-        }
-      ],
-      "duration_ms": 164571,
-      "name": "Rhythm & Gash VIP",
-      "url": "https://open.spotify.com/track/7HJufiWVirU6D6kHgqmmRF"
-    },
-    {
-      "added_at": "2026-10-22 23:00:31",
-      "album": {
         "name": "Good Times (feat. ellen lynch)",
         "url": "https://open.spotify.com/album/53fbG8wV8ADsa1iIc2ZeAu"
       },
@@ -903,6 +887,22 @@
     {
       "added_at": "2026-10-22 23:00:31",
       "album": {
+        "name": "Rhythm & Gash VIP",
+        "url": "https://open.spotify.com/album/4G3ulwIvimf6PqAXIBN2wg"
+      },
+      "artists": [
+        {
+          "name": "Phibes",
+          "url": "https://open.spotify.com/artist/21VZgcYa29ZVvRQzmUNakx"
+        }
+      ],
+      "duration_ms": 164571,
+      "name": "Rhythm & Gash VIP",
+      "url": "https://open.spotify.com/track/7HJufiWVirU6D6kHgqmmRF"
+    },
+    {
+      "added_at": "2026-10-22 23:00:31",
+      "album": {
         "name": "Reaper (feat. Comma Dee)",
         "url": "https://open.spotify.com/album/6ZbwTsAcuOWAnN3gbyS807"
       },
@@ -923,6 +923,22 @@
     {
       "added_at": "2026-10-22 23:00:31",
       "album": {
+        "name": "Go Hard / Wednesday",
+        "url": "https://open.spotify.com/album/6E3kaGfskdiO3Z6N08RDVB"
+      },
+      "artists": [
+        {
+          "name": "T-Lex",
+          "url": "https://open.spotify.com/artist/3diWJAdGxsO9OT4cRe0khL"
+        }
+      ],
+      "duration_ms": 267586,
+      "name": "Go Hard",
+      "url": "https://open.spotify.com/track/5wzjPaLjmAshBs0oT4SOaQ"
+    },
+    {
+      "added_at": "2026-10-22 23:00:31",
+      "album": {
         "name": "Skanka",
         "url": "https://open.spotify.com/album/7iLy4GlBqnLAneS5KuPboU"
       },
@@ -939,22 +955,6 @@
       "duration_ms": 190689,
       "name": "Skanka",
       "url": "https://open.spotify.com/track/0oQsppeTfYFHbDHLrPFXno"
-    },
-    {
-      "added_at": "2026-10-22 23:00:31",
-      "album": {
-        "name": "Go Hard / Wednesday",
-        "url": "https://open.spotify.com/album/6E3kaGfskdiO3Z6N08RDVB"
-      },
-      "artists": [
-        {
-          "name": "T-Lex",
-          "url": "https://open.spotify.com/artist/3diWJAdGxsO9OT4cRe0khL"
-        }
-      ],
-      "duration_ms": 267586,
-      "name": "Go Hard",
-      "url": "https://open.spotify.com/track/5wzjPaLjmAshBs0oT4SOaQ"
     },
     {
       "added_at": "2026-10-22 23:00:31",

@@ -1,12 +1,12 @@
 {
   "description": "Darren Hayes gets it",
-  "num_followers": 572844,
+  "num_followers": 572806,
   "original_name": "Vibe Check",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAGKq8ZaKZUn/TCCalRzpZ7aPtfn1",
+  "snapshot_id": "AAAAADJfRpq4tWUaYgxpMp+lq9sURgJC",
   "tracks": [
     {
       "added_at": "2026-05-19 14:00:13",
@@ -851,22 +851,6 @@
     {
       "added_at": "2026-05-19 14:00:13",
       "album": {
-        "name": "Bloom",
-        "url": "https://open.spotify.com/album/4EAehCii5lZgeewct1LA5p"
-      },
-      "artists": [
-        {
-          "name": "R\u00dcF\u00dcS DU SOL",
-          "url": "https://open.spotify.com/artist/5Pb27ujIyYb33zBqVysBkj"
-        }
-      ],
-      "duration_ms": 239417,
-      "name": "You Were Right",
-      "url": "https://open.spotify.com/track/5HGxLtYxTriF7mMiriSpaz"
-    },
-    {
-      "added_at": "2026-05-19 14:00:13",
-      "album": {
         "name": "Still Into You",
         "url": "https://open.spotify.com/album/12AGcC8vmuGnxLIoyJDrj5"
       },
@@ -879,6 +863,22 @@
       "duration_ms": 151875,
       "name": "Still Into You",
       "url": "https://open.spotify.com/track/0GYx8Q9iS05CRe9kyzwAIL"
+    },
+    {
+      "added_at": "2026-05-19 14:00:13",
+      "album": {
+        "name": "Bloom",
+        "url": "https://open.spotify.com/album/4EAehCii5lZgeewct1LA5p"
+      },
+      "artists": [
+        {
+          "name": "R\u00dcF\u00dcS DU SOL",
+          "url": "https://open.spotify.com/artist/5Pb27ujIyYb33zBqVysBkj"
+        }
+      ],
+      "duration_ms": 239417,
+      "name": "You Were Right",
+      "url": "https://open.spotify.com/track/5HGxLtYxTriF7mMiriSpaz"
     },
     {
       "added_at": "2026-05-19 14:00:13",
@@ -987,38 +987,6 @@
     {
       "added_at": "2026-05-19 14:00:13",
       "album": {
-        "name": "Somebody (2024)",
-        "url": "https://open.spotify.com/album/5eKQYtDqVmrHPZoKHG1LlH"
-      },
-      "artists": [
-        {
-          "name": "Gotye",
-          "url": "https://open.spotify.com/artist/2AsusXITU8P25dlRNhcAbG"
-        },
-        {
-          "name": "FISHER",
-          "url": "https://open.spotify.com/artist/1VJ0briNOlXRtJUAzoUJdt"
-        },
-        {
-          "name": "Chris Lake",
-          "url": "https://open.spotify.com/artist/5Igpc9iLZ3YGtKeYfSrrOE"
-        },
-        {
-          "name": "Kimbra",
-          "url": "https://open.spotify.com/artist/6hk7Yq1DU9QcCCrz9uc0Ti"
-        },
-        {
-          "name": "Sante Sansone",
-          "url": "https://open.spotify.com/artist/5fAwPpS78sokZdpktoSUE8"
-        }
-      ],
-      "duration_ms": 153518,
-      "name": "Somebody (2024)",
-      "url": "https://open.spotify.com/track/0agQ9vIV7NP4dntGKLcCXO"
-    },
-    {
-      "added_at": "2026-05-19 14:00:13",
-      "album": {
         "name": "Move (feat. Camila Cabello & Malachiii)",
         "url": "https://open.spotify.com/album/1Jo5dOD8bFEWnPIXKlORVp"
       },
@@ -1051,6 +1019,38 @@
       "duration_ms": 180236,
       "name": "Move (feat. Camila Cabello & Malachiii)",
       "url": "https://open.spotify.com/track/0scd3nh27AYTNXo0KHRmsG"
+    },
+    {
+      "added_at": "2026-05-19 14:00:13",
+      "album": {
+        "name": "Somebody (2024)",
+        "url": "https://open.spotify.com/album/5eKQYtDqVmrHPZoKHG1LlH"
+      },
+      "artists": [
+        {
+          "name": "Gotye",
+          "url": "https://open.spotify.com/artist/2AsusXITU8P25dlRNhcAbG"
+        },
+        {
+          "name": "FISHER",
+          "url": "https://open.spotify.com/artist/1VJ0briNOlXRtJUAzoUJdt"
+        },
+        {
+          "name": "Chris Lake",
+          "url": "https://open.spotify.com/artist/5Igpc9iLZ3YGtKeYfSrrOE"
+        },
+        {
+          "name": "Kimbra",
+          "url": "https://open.spotify.com/artist/6hk7Yq1DU9QcCCrz9uc0Ti"
+        },
+        {
+          "name": "Sante Sansone",
+          "url": "https://open.spotify.com/artist/5fAwPpS78sokZdpktoSUE8"
+        }
+      ],
+      "duration_ms": 153518,
+      "name": "Somebody (2024)",
+      "url": "https://open.spotify.com/track/0agQ9vIV7NP4dntGKLcCXO"
     },
     {
       "added_at": "2026-05-19 14:00:13",

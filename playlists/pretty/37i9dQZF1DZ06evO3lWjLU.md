@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3lWjLU.md) - [plain]
 
 > This is Danny Ocean\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 341,292 likes - 50 songs - 2 hr 31 min
+[Spotify](https://open.spotify.com/user/spotify) - 341,323 likes - 50 songs - 2 hr 31 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -49,8 +49,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3lWjLU.md) - [plain]
 | 39 | [Llego](https://open.spotify.com/track/0I1cHghDEtreiO6tRrh2wm) | [Empire Of The Sun](https://open.spotify.com/artist/67hb7towEyKvt5Z8Bx306c), [Danny Ocean](https://open.spotify.com/artist/5H1nN1SzW0qNeUEZvuXjAj), [FIFA Sound](https://open.spotify.com/artist/5C01hDqpEmrmDfUhX9YWsH) | [Llego \(FIFA World Cup 2026™\)](https://open.spotify.com/album/1JgwpOf45JaiwHpViQcyde) | 3:12 |
 | 40 | [Las estrellas / Si tu me love me](https://open.spotify.com/track/5TAsVTozAW7U4JjoW9dDH8) | [Danny Ocean](https://open.spotify.com/artist/5H1nN1SzW0qNeUEZvuXjAj), [ELENA ROSE](https://open.spotify.com/artist/0zO8yNnw5GQgutcIyXfGBY) | [@dannocean](https://open.spotify.com/album/27588WrJksr8zu7ujmRsOA) | 5:09 |
 | 41 | [Real time love](https://open.spotify.com/track/4zAzvr7CwU5En0McHy2H5B) | [Danny Ocean](https://open.spotify.com/artist/5H1nN1SzW0qNeUEZvuXjAj) | [babylona blue](https://open.spotify.com/album/6Q4c6DexERmNLUyDeTj738) | 2:50 |
-| 42 | [Hot Body \(feat\. Danny Ocean\) \- Remix](https://open.spotify.com/track/0fErhKMUoUGmQ9bBitUwAV) | [Ayra Starr](https://open.spotify.com/artist/3ZpEKRjHaHANcpk10u6Ntq), [Danny Ocean](https://open.spotify.com/artist/5H1nN1SzW0qNeUEZvuXjAj) | [Starrgirl](https://open.spotify.com/album/2xLmXWgnyK0bUBoqq17Mma) | 3:01 |
-| 43 | [CANAIMA](https://open.spotify.com/track/5QsTUq4tWI0QiVAMNoKDFs) | [Big Soto](https://open.spotify.com/artist/2TQ4CGgxxCWHqa9yYIGDoU), [Danny Ocean](https://open.spotify.com/artist/5H1nN1SzW0qNeUEZvuXjAj) | [CANAIMA](https://open.spotify.com/album/0mwHC4EpVfJ1y2hY7PvfYX) | 2:31 |
+| 42 | [CANAIMA](https://open.spotify.com/track/5QsTUq4tWI0QiVAMNoKDFs) | [Big Soto](https://open.spotify.com/artist/2TQ4CGgxxCWHqa9yYIGDoU), [Danny Ocean](https://open.spotify.com/artist/5H1nN1SzW0qNeUEZvuXjAj) | [CANAIMA](https://open.spotify.com/album/0mwHC4EpVfJ1y2hY7PvfYX) | 2:31 |
+| 43 | [Hot Body \(feat\. Danny Ocean\) \- Remix](https://open.spotify.com/track/0fErhKMUoUGmQ9bBitUwAV) | [Ayra Starr](https://open.spotify.com/artist/3ZpEKRjHaHANcpk10u6Ntq), [Danny Ocean](https://open.spotify.com/artist/5H1nN1SzW0qNeUEZvuXjAj) | [Starrgirl](https://open.spotify.com/album/2xLmXWgnyK0bUBoqq17Mma) | 3:01 |
 | 44 | [Tú no me conoces](https://open.spotify.com/track/0JzUsZUR6ZySpPNrWRvcL3) | [Danny Ocean](https://open.spotify.com/artist/5H1nN1SzW0qNeUEZvuXjAj), [TINI](https://open.spotify.com/artist/7vXDAI8JwjW531ouMGbfcp) | [@dannocean](https://open.spotify.com/album/21IzWBMtUfaOOfFx8CiR6I) | 2:29 |
 | 45 | [Por qué dudas de mi?](https://open.spotify.com/track/6VEWNOA9aKe2ZtOfk7HeDA) | [Danny Ocean](https://open.spotify.com/artist/5H1nN1SzW0qNeUEZvuXjAj) | [babylona blue](https://open.spotify.com/album/6Q4c6DexERmNLUyDeTj738) | 1:52 |
 | 46 | [Correcaminos](https://open.spotify.com/track/3aCLD0IqnpnG09ZhfyUqIC) | [Alejandro Sanz](https://open.spotify.com/artist/5sUrlPAHlS9NEirDB8SEbF), [Danny Ocean](https://open.spotify.com/artist/5H1nN1SzW0qNeUEZvuXjAj) | [Correcaminos](https://open.spotify.com/album/5URH83B2vJrrZ47uTOb3zQ) | 3:02 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3lWjLU.md) - [plain]
 | 49 | [Partidazo](https://open.spotify.com/track/09xBXD2xw44iIrhZekMsaN) | [Danny Ocean](https://open.spotify.com/artist/5H1nN1SzW0qNeUEZvuXjAj) | [Official FIFA World Cup 2026™ Album](https://open.spotify.com/album/3cLao7JVaEFsplFdY8TkJT) | 2:22 |
 | 50 | [Si no no](https://open.spotify.com/track/5v1gwuCHx5CcNN6NLrNWO9) | [Danny Ocean](https://open.spotify.com/artist/5H1nN1SzW0qNeUEZvuXjAj) | [REFLEXA](https://open.spotify.com/album/79t9QXn7NKUDBPo4rywYcy) | 2:29 |
 
-Snapshot ID: `awIwgAAAAAAxSLzKwaQSYvjKvce2FstO`
+Snapshot ID: `awOCAAAAAADeFCQqxGWhaGSuuAnxeGNf`

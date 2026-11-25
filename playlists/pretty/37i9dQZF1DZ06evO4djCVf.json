@@ -1,12 +1,12 @@
 {
   "description": "This is Suzan & Freek. The essential tracks, all in one playlist.",
-  "num_followers": 106334,
+  "num_followers": 106347,
   "original_name": "This Is Suzan & Freek",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "awIwgAAAAABARR3y9MmPpPJOpneNCMAJ",
+  "snapshot_id": "awOCAAAAAABSvAcK9QwfSd1hNcUQPOEW",
   "tracks": [
     {
       "added_at": null,
@@ -155,8 +155,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Ken Je Dat Gevoel",
-        "url": "https://open.spotify.com/album/6GW5a2DNFBewhniIe3LD2x"
+        "name": "Verleden Tijd",
+        "url": "https://open.spotify.com/album/1jhy8byW2VtIarRBzAyoOC"
       },
       "artists": [
         {
@@ -164,9 +164,9 @@
           "url": "https://open.spotify.com/artist/77IW5ZK1smDQYYKDCQugXh"
         }
       ],
-      "duration_ms": 171750,
-      "name": "Ken Je Dat Gevoel",
-      "url": "https://open.spotify.com/track/1nzVNvN2bLkN8AMjfTxvTT"
+      "duration_ms": 176166,
+      "name": "Verleden Tijd",
+      "url": "https://open.spotify.com/track/7FR89ZwB3ilNeUMsz1P80O"
     },
     {
       "added_at": null,
@@ -223,8 +223,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Verleden Tijd",
-        "url": "https://open.spotify.com/album/1jhy8byW2VtIarRBzAyoOC"
+        "name": "Ken Je Dat Gevoel",
+        "url": "https://open.spotify.com/album/6GW5a2DNFBewhniIe3LD2x"
       },
       "artists": [
         {
@@ -232,9 +232,9 @@
           "url": "https://open.spotify.com/artist/77IW5ZK1smDQYYKDCQugXh"
         }
       ],
-      "duration_ms": 176166,
-      "name": "Verleden Tijd",
-      "url": "https://open.spotify.com/track/7FR89ZwB3ilNeUMsz1P80O"
+      "duration_ms": 171750,
+      "name": "Ken Je Dat Gevoel",
+      "url": "https://open.spotify.com/track/1nzVNvN2bLkN8AMjfTxvTT"
     },
     {
       "added_at": null,
@@ -544,9 +544,9 @@
           "url": "https://open.spotify.com/artist/77IW5ZK1smDQYYKDCQugXh"
         }
       ],
-      "duration_ms": 200717,
-      "name": "Nooit Meer Regen",
-      "url": "https://open.spotify.com/track/2XsFaDEaXhsFv2ZBQ2nXn2"
+      "duration_ms": 176396,
+      "name": "Iemand Van Vroeger",
+      "url": "https://open.spotify.com/track/3UQxsixsTnS8vbtQLgAO29"
     },
     {
       "added_at": null,
@@ -608,9 +608,9 @@
           "url": "https://open.spotify.com/artist/77IW5ZK1smDQYYKDCQugXh"
         }
       ],
-      "duration_ms": 176396,
-      "name": "Iemand Van Vroeger",
-      "url": "https://open.spotify.com/track/3UQxsixsTnS8vbtQLgAO29"
+      "duration_ms": 200717,
+      "name": "Nooit Meer Regen",
+      "url": "https://open.spotify.com/track/2XsFaDEaXhsFv2ZBQ2nXn2"
     },
     {
       "added_at": null,

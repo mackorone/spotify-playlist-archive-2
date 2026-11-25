@@ -4,7 +4,7 @@
 
 > 
 
-293 songs - 15 hr 19 min
+294 songs - 15 hr 23 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -102,6 +102,7 @@
 | [Fastlife](https://open.spotify.com/track/37X0LVMpjlxIeiW7mpre4I) | [Ovthex](https://open.spotify.com/artist/5GitDiJdtHyC7aHejcDn7s) | [Fastlife](https://open.spotify.com/album/17qINZKWn4KsLPIpiyZqV8) | 2:58 | 2025-04-06 |  |
 | [Feel Like I'm Brunson](https://open.spotify.com/track/4SQhdRS8ZGqBfrv5sHuAgB) | [LVLuck](https://open.spotify.com/artist/6I1V23yCf9NR48DNdniRd6) | [Feel Like I'm Brunson](https://open.spotify.com/album/4bPXWupAcwdH8olxYJZeWU) | 2:57 | 2026-07-03 |  |
 | [Fire](https://open.spotify.com/track/6s9qYXqxPCV2x2EJglACvd) | [The Steel](https://open.spotify.com/artist/0o8mtfGFaxEYBF5TtoVOGY) | [The Steel II](https://open.spotify.com/album/5CelAdbDkCINozP22sFgEd) | 4:04 | 2026-06-24 |  |
+| [Flüchtlinge \- Radio Edit](https://open.spotify.com/track/1ENK4X6NnxxdR0uIU0XwUI) | [The Parachute Testers](https://open.spotify.com/artist/1PAxZHUziAlRgffxOonf9E) | [Flüchtlinge \(Radio Edit\)](https://open.spotify.com/album/6XEsZm9oyuI3NN01NnFUVD) | 4:40 | 2026-11-24 |  |
 | [Foolish](https://open.spotify.com/track/4Rx9hSHqsf7EnarIK4ogCq) | [Absorbingpersona](https://open.spotify.com/artist/19vhCix1RBZqXR9PqKZXAo) | [Foolish](https://open.spotify.com/album/0qu3zdChmXT5ByD9A9Y0Zw) | 3:22 | 2026-03-15 |  |
 | [Footsteps In The Snow](https://open.spotify.com/track/4rEIvYWAoxaJMQtn2Vxh22) | [TRUE VIOLENCE](https://open.spotify.com/artist/4Nd2abwG3lQaZFAOJkrKc5), [Semzo](https://open.spotify.com/artist/6B5ZIMPRas4DEOC5j9mGii) | [TRUE VIOLENCE II](https://open.spotify.com/album/675EWaERbVUkX532tpDywe) | 7:00 | 2026-06-24 |  |
 | [for the day \(my life doesn't seem so gray\)](https://open.spotify.com/track/5jEA3MfSYes1opYzW1A15B) | [jj!s](https://open.spotify.com/artist/2JashvlZeoFOiLpIy6dFE6) | [for the day \(my life doesn't seem so gray\)](https://open.spotify.com/album/54etYLc84CmETgjN65td9C) | 1:58 | 2026-03-05 |  |

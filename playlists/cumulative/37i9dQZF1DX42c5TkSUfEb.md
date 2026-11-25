@@ -4,7 +4,7 @@
 
 > La playlist idéale pour se détendre en musique.
 
-556 songs - 1 day 9 hr 39 min
+557 songs - 1 day 9 hr 42 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -72,6 +72,7 @@
 | [blade bird](https://open.spotify.com/track/7ypm9ZGrUXGmSXgmpAd2hZ) | [Oklou](https://open.spotify.com/artist/6fFcUOFcbjeIuEomuUthkw) | [blade bird](https://open.spotify.com/album/1FyfAcUFlchVi4txMXabRZ) | 3:18 | 2025-03-27 | 2025-05-03 |
 | [Blank Space](https://open.spotify.com/track/6FyuXQr3BDEKnD3hTxypEI) | [RHODES](https://open.spotify.com/artist/07FfkbljNIdl45Ijlh1aXS) | [Wishes](https://open.spotify.com/album/29JFdF5PDfyTtfRZe1SaXC) | 4:05 | 2024-06-07 | 2025-01-24 |
 | [Bloody Eyes](https://open.spotify.com/track/4YUBcBSUIXfCNNFAaWQcyG) | [Passion Mango](https://open.spotify.com/artist/1duhcJbPuZ66kIsntXd9zn), [EKKSTACY](https://open.spotify.com/artist/0ynzbXwyCzxicMKHBoOkSH) | [Bloody Eyes](https://open.spotify.com/album/7x7YMbEy3FNKzoRPMa5hIU) | 2:39 | 2026-01-30 | 2026-07-25 |
+| [Bloom](https://open.spotify.com/track/16eC6kYiQlUZRSfnARss5Q) | [uwase](https://open.spotify.com/artist/2QuwXg3dnpvGTMeoilcszr) | [Bloom](https://open.spotify.com/album/4GplUUKTt0yY6DDTjwGwm0) | 2:44 | 2026-11-13 |  |
 | [Blowin' in the Wind](https://open.spotify.com/track/18GiV1BaXzPVYpp9rmOg0E) | [Bob Dylan](https://open.spotify.com/artist/74ASZWbe4lXaubB36ztrGX) | [The Freewheelin' Bob Dylan](https://open.spotify.com/album/0o1uFxZ1VTviqvNaYkTJek) | 2:48 | 2022-11-25 |  |
 | [Blue](https://open.spotify.com/track/6LHtiQJqqh3CnMpzT7VfRX) | [alayna](https://open.spotify.com/artist/7JwNWaTv4y9WNJCihQFHpv), [Mokita](https://open.spotify.com/artist/3sKeaby6GMSJWgYueZaSjE) | [Blue](https://open.spotify.com/album/5eG7Gg0mRTskvCoWn45HOb) | 3:22 | 2025-01-30 | 2026-02-07 |
 | [Blue](https://open.spotify.com/track/4NsmI3RX9yZDCuCW75Ezvp) | [Joshua Bassett](https://open.spotify.com/artist/4VdV2qRAYBLINR6uU72V1J) | [Blue](https://open.spotify.com/album/4sDhnxgHsTp65nUWTlEjBl) | 4:15 | 2025-10-02 | 2026-02-07 |
@@ -507,7 +508,7 @@
 | [Till the Flame Turns Blue](https://open.spotify.com/track/3Zz37G6EggIIMiqgBnovnH) | [The Paper Kites](https://open.spotify.com/artist/79hrYiudVcFyyxyJW0ipTy) | [Till the Flame Turns Blue](https://open.spotify.com/album/7LLMYmgPN4YRHFqm3ipAjM) | 4:05 | 2023-05-12 | 2023-07-05 |
 | [Time Waited](https://open.spotify.com/track/3YvHeJwoLvl06hHDKHRVDR) | [My Morning Jacket](https://open.spotify.com/artist/43O3c6wewpzPKwVaGEEtBM) | [Time Waited](https://open.spotify.com/album/7KAQ5nrJbMGqLtfCVWH1dF) | 3:39 | 2025-01-23 | 2025-02-28 |
 | [Times Square Jesus](https://open.spotify.com/track/7j34jXXTTV5oCnlbqs7PQc) | [The Favors](https://open.spotify.com/artist/78R275jHTtGF0ue4QfBKpI), [FINNEAS](https://open.spotify.com/artist/37M5pPGs6V1fchFJSgCguX), [Ashe](https://open.spotify.com/artist/6P5NO5hzJbuOqSdyPB7SJM) | [Times Square Jesus](https://open.spotify.com/album/5UqS4pYqBUNpzjiOLWyhhX) | 4:15 | 2025-08-14 | 2025-10-18 |
-| [tired](https://open.spotify.com/track/6Su2NSVqxgb8MPn9nj7YBg) | [Felix Antonio](https://open.spotify.com/artist/2pSPk7tWs5NpVMB6l6EbyZ) | [tired](https://open.spotify.com/album/6gcpcA8kop087FU6dtUqPE) | 3:13 | 2026-09-17 |  |
+| [tired](https://open.spotify.com/track/6Su2NSVqxgb8MPn9nj7YBg) | [Felix Antonio](https://open.spotify.com/artist/2pSPk7tWs5NpVMB6l6EbyZ) | [tired](https://open.spotify.com/album/6gcpcA8kop087FU6dtUqPE) | 3:13 | 2026-09-17 | 2026-11-25 |
 | [tired eyes](https://open.spotify.com/track/01KdnakFsRqKyGAQBhH4kB) | [Vancouver Sleep Clinic](https://open.spotify.com/artist/77BznF1Dr1k5KyEZ6Nn3jB) | [tired eyes](https://open.spotify.com/album/7l7cGeNEJWgprS1d5if5DW) | 3:41 | 2026-09-04 | 2026-11-06 |
 | [To Zion \(feat\. Carlos Santana\)](https://open.spotify.com/track/7x6hO9VMAee9x1iWaeNkL6) | [Ms\. Lauryn Hill](https://open.spotify.com/artist/2Mu5NfyYm8n5iTomuKAEHl), [Carlos Santana](https://open.spotify.com/artist/0MsXN56oNCyqorqEPViWgQ) | [The Miseducation of Lauryn Hill](https://open.spotify.com/album/1BZoqf8Zje5nGdwZhOjAtD) | 6:09 | 2022-11-25 | 2023-11-17 |
 | [tolerate it](https://open.spotify.com/track/0PurA4JVJ8YQgSVopY8fn6) | [Taylor Swift](https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02) | [evermore](https://open.spotify.com/album/2Xoteh7uEpea4TohMxjtaq) | 4:05 | 2022-11-25 | 2023-01-10 |

@@ -4,14 +4,14 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWWvWJNPeyJE.md) - [plain]
 
 > Let’s get it on....
 
-[Spotify](https://open.spotify.com/user/spotify) - 385,163 likes - 80 songs - 5 hr 1 min
+[Spotify](https://open.spotify.com/user/spotify) - 385,236 likes - 80 songs - 5 hr 1 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [Snooze](https://open.spotify.com/track/4iZ4pt7kvcaH6Yo8UoZ4s2) | [SZA](https://open.spotify.com/artist/7tYKF4w9nC0nq9CsPZTHyP) | [SOS](https://open.spotify.com/album/07w0rG5TETcyihsEIZR3qG) | 3:21 |
 | 2 | [My Boo](https://open.spotify.com/track/68vgtRHr7iZHpzGpon6Jlo) | [USHER](https://open.spotify.com/artist/23zg3TcAtWQy7J6upgbUnj), [Alicia Keys](https://open.spotify.com/artist/3DiDSECUqqY1AuBP8qtaIa) | [Confessions \(Expanded Edition\)](https://open.spotify.com/album/1RM6MGv6bcl6NrAG8PGoZk) | 3:43 |
-| 3 | [Sex With Me](https://open.spotify.com/track/7BiELrM90hRxpozaIXbsLw) | [Rihanna](https://open.spotify.com/artist/5pKCCKE2ajJHZ9KAiaK11H) | [ANTI \(Deluxe\)](https://open.spotify.com/album/4UlGauD7ROb3YbVOFMgW5u) | 3:26 |
-| 4 | [Say It](https://open.spotify.com/track/2Gyc6e2cLxA5hoX1NOvYnU) | [Tory Lanez](https://open.spotify.com/artist/2jku7tDXc6XoB6MO2hFuqg) | [I Told You](https://open.spotify.com/album/5tBOCi2TekXZ1IbrmlBZO4) | 3:57 |
+| 3 | [Say It](https://open.spotify.com/track/2Gyc6e2cLxA5hoX1NOvYnU) | [Tory Lanez](https://open.spotify.com/artist/2jku7tDXc6XoB6MO2hFuqg) | [I Told You](https://open.spotify.com/album/5tBOCi2TekXZ1IbrmlBZO4) | 3:57 |
+| 4 | [Sex With Me](https://open.spotify.com/track/7BiELrM90hRxpozaIXbsLw) | [Rihanna](https://open.spotify.com/artist/5pKCCKE2ajJHZ9KAiaK11H) | [ANTI \(Deluxe\)](https://open.spotify.com/album/4UlGauD7ROb3YbVOFMgW5u) | 3:26 |
 | 5 | [oui](https://open.spotify.com/track/0PJIbOdMs3bd5AT8liULMQ) | [Jeremih](https://open.spotify.com/artist/3KV3p5EY4AvKxOlhGHORLg) | [Late Nights: The Album](https://open.spotify.com/album/7DMyQuDPe8xzjC0UDSDa96) | 3:58 |
 | 6 | [ALL MINE](https://open.spotify.com/track/3XgGQ1wjo5khvq2UImjyNF) | [Brent Faiyaz](https://open.spotify.com/artist/3tlXnStJ1fFhdScmQeLpuG) | [WASTELAND](https://open.spotify.com/album/0PHMNbcgHfzSUALlfk7wGg) | 3:36 |
 | 7 | [Let Me Love You](https://open.spotify.com/track/3ibKnFDaa3GhpPGlOUj7ff) | [Mario](https://open.spotify.com/artist/20s0P9QLxGqKuCsGwFsp7w) | [Let Me Love You](https://open.spotify.com/album/7EXstuWka51pNFzEAidEol) | 4:16 |
@@ -22,8 +22,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWWvWJNPeyJE.md) - [plain]
 | 12 | [Fantasy \(feat\. Don Toliver\)](https://open.spotify.com/track/1dvqHhLNccePPBHq11TW7v) | [Kali Uchis](https://open.spotify.com/artist/1U1el3k54VvEUzo3ybLPlM), [Don Toliver](https://open.spotify.com/artist/4Gso3d4CscCijv0lmajZWs) | [Red Moon In Venus](https://open.spotify.com/album/5OZ44LaqZbpP3m9B3oT8br) | 2:58 |
 | 13 | [Adorn](https://open.spotify.com/track/5hJFhO9dvhJoDvUZZ9iWSw) | [Miguel](https://open.spotify.com/artist/360IAlyVv4PCEVjgyMZrxK) | [Kaleidoscope Dream \(Deluxe Version\)](https://open.spotify.com/album/4Rvzx3X6hcDb7nty1IzVP4) | 3:13 |
 | 14 | [Slow Motion](https://open.spotify.com/track/4NYwy0R3NdvORX2B6OZXBT) | [Trey Songz](https://open.spotify.com/artist/2iojnBLj0qIMiKPvVhLnsH) | [Trigga Reloaded](https://open.spotify.com/album/3pKTKC0AAe3yTcXQLzvpSW) | 3:17 |
-| 15 | [Come Thru \(with Usher\)](https://open.spotify.com/track/3TTMUI5dFcbeNSDTTDY9M8) | [Summer Walker](https://open.spotify.com/artist/57LYzLEk2LcFghVwuWbcuS), [USHER](https://open.spotify.com/artist/23zg3TcAtWQy7J6upgbUnj) | [Over It](https://open.spotify.com/album/1qgJNWnPIeK9rx7hF8JCPK) | 3:01 |
-| 16 | [Bed](https://open.spotify.com/track/6TlRNJaezOdzdECnQeRuMM) | [J\. Holiday](https://open.spotify.com/artist/7G6hXrjGpi6I7waNl4wxAk) | [Back Of My Lac'](https://open.spotify.com/album/1Ypwht853ZVmsplg2DnZLI) | 4:35 |
+| 15 | [Bed](https://open.spotify.com/track/6TlRNJaezOdzdECnQeRuMM) | [J\. Holiday](https://open.spotify.com/artist/7G6hXrjGpi6I7waNl4wxAk) | [Back Of My Lac'](https://open.spotify.com/album/1Ypwht853ZVmsplg2DnZLI) | 4:35 |
+| 16 | [Come Thru \(with Usher\)](https://open.spotify.com/track/3TTMUI5dFcbeNSDTTDY9M8) | [Summer Walker](https://open.spotify.com/artist/57LYzLEk2LcFghVwuWbcuS), [USHER](https://open.spotify.com/artist/23zg3TcAtWQy7J6upgbUnj) | [Over It](https://open.spotify.com/album/1qgJNWnPIeK9rx7hF8JCPK) | 3:01 |
 | 17 | [Love Language](https://open.spotify.com/track/1eIXYZWEfJO3Na2LCCnIJE) | [SZA](https://open.spotify.com/artist/7tYKF4w9nC0nq9CsPZTHyP) | [SOS](https://open.spotify.com/album/07w0rG5TETcyihsEIZR3qG) | 3:03 |
 | 18 | [Body Party](https://open.spotify.com/track/0rFZaQ4crlGAzuCjWCQ2xu) | [Ciara](https://open.spotify.com/artist/2NdeV5rLm47xAvogXrYhJX) | [Ciara](https://open.spotify.com/album/1ZhBKlFwsI2ppVo8LivPyG) | 3:54 |
 | 19 | [You](https://open.spotify.com/track/01jIO8SJFnpSiNLH1JaBZ5) | [Jacquees](https://open.spotify.com/artist/4tMm1dU6Gn04VAZ9ClHcIZ) | [4275 \(Bonus Version\)](https://open.spotify.com/album/03AdJ15pTDdmxry6qkKwlO) | 3:37 |
@@ -69,8 +69,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWWvWJNPeyJE.md) - [plain]
 | 59 | [Lights On](https://open.spotify.com/track/0MbTorBGV6tW2ePPVJ9Chu) | [H.E.R.](https://open.spotify.com/artist/3Y7RZ31TRPVadSFVy1o8os) | [H.E.R\. Volume 2](https://open.spotify.com/album/3Bdtv2Y8lHrXOsboFA96hX) | 3:39 |
 | 60 | [Balcony](https://open.spotify.com/track/3CBwK6H17WEX6qkVZsVVDo) | [Yade Lauren](https://open.spotify.com/artist/2YkP9pfIZ6hJKeuppuz8qT) | [Balcony](https://open.spotify.com/album/0lIPzAZfD2t5wfOGbHr8fL) | 2:48 |
 | 61 | [Rock wit Me \(feat\. IAMSU!\)](https://open.spotify.com/track/1UFg9EPjaPAiHl9lurJK0I) | [Trevor Jackson](https://open.spotify.com/artist/6vZUJpsm4VHjSWpedp05vg), [Iamsu!](https://open.spotify.com/artist/2ZavqCJe7uqkRpISes0NFi) | [In My Feelings](https://open.spotify.com/album/1UEdyTHXWW9nXcNv9z590a) | 3:24 |
-| 62 | [All You Need](https://open.spotify.com/track/7jtmFB5v6jXFsX6zVccf1U) | [Victoria Monét](https://open.spotify.com/artist/63XBtGSEZINSyXylZxEUbv) | [Life After Love, Pt\. 2](https://open.spotify.com/album/6Xy3XPmtoXJFM1pgk2lZky) | 3:44 |
-| 63 | [Waiting for You](https://open.spotify.com/track/3PgmQl12KXQofJDeBROKcU) | [Rexx Life Raj](https://open.spotify.com/artist/5rDXcEIODl8TgGTgrntnjX), [Russ](https://open.spotify.com/artist/1z7b1Pr1rSlvWRzsW3HOrS) | [Waiting for You](https://open.spotify.com/album/14md98nP3ELQss8GguD6dt) | 3:31 |
+| 62 | [Waiting for You](https://open.spotify.com/track/3PgmQl12KXQofJDeBROKcU) | [Rexx Life Raj](https://open.spotify.com/artist/5rDXcEIODl8TgGTgrntnjX), [Russ](https://open.spotify.com/artist/1z7b1Pr1rSlvWRzsW3HOrS) | [Waiting for You](https://open.spotify.com/album/14md98nP3ELQss8GguD6dt) | 3:31 |
+| 63 | [All You Need](https://open.spotify.com/track/7jtmFB5v6jXFsX6zVccf1U) | [Victoria Monét](https://open.spotify.com/artist/63XBtGSEZINSyXylZxEUbv) | [Life After Love, Pt\. 2](https://open.spotify.com/album/6Xy3XPmtoXJFM1pgk2lZky) | 3:44 |
 | 64 | [F With U \(feat\. Ty Dolla $ign\)](https://open.spotify.com/track/2kHdu1N31NkD5roBf1EHh7) | [Kid Ink](https://open.spotify.com/artist/6KZDXtSj0SzGOV705nNeh3), [Ty Dolla $ign](https://open.spotify.com/artist/7c0XG5cIJTrrAgEC3ULPiq) | [F With U \(feat\. Ty Dolla $ign\)](https://open.spotify.com/album/6d2MsVWqoCbMWCKiHtDE2r) | 2:59 |
 | 65 | [Ocean \(feat\. Jacquees\)](https://open.spotify.com/track/1CkNm4gprWnFCdiHGoql5C) | [TK Kravitz](https://open.spotify.com/artist/65rDIPdQD7ijLSOq32cMXo), [Jacquees](https://open.spotify.com/artist/4tMm1dU6Gn04VAZ9ClHcIZ) | [Ocean \(feat\. Jacquees\)](https://open.spotify.com/album/3dEOPmRGGZF1g9OOd3wvs2) | 3:39 |
 | 66 | [Body](https://open.spotify.com/track/5PNa1MjGan22iWil3F4zv6) | [Syd](https://open.spotify.com/artist/3jk39CGeaaSO3FPKNx1RUx) | [Body](https://open.spotify.com/album/4Q4lurjRENDP1VOEfww9Im) | 4:22 |
@@ -83,10 +83,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWWvWJNPeyJE.md) - [plain]
 | 73 | [Boundaries](https://open.spotify.com/track/0IaQTnE3gZvk6SjtCuFduu) | [southernwade](https://open.spotify.com/artist/4AhmVfS4VIU9vQzElhRu2R) | [Boundaries](https://open.spotify.com/album/6YB5sMHE89Ote6ddCoFxOH) | 2:53 |
 | 74 | [All I See Is You](https://open.spotify.com/track/3iGCmdEr1Nja2gPhJAUsD3) | [Meaku](https://open.spotify.com/artist/2zD28cZO766exrIWQBDFEJ) | [All I See Is You](https://open.spotify.com/album/1MexXJHmamEttAaPeUsq7T) | 3:44 |
 | 75 | [Control Me](https://open.spotify.com/track/6ImX9KIEXSf3xEIOXoBTG6) | [VanJess](https://open.spotify.com/artist/0Ek89uaJyo6NfWK22awFvI) | [Control Me](https://open.spotify.com/album/4YNz9YitCxbSJawRhMkPbL) | 3:33 |
-| 76 | [Sexpectations](https://open.spotify.com/track/2k4m30eHE9biBFaez21JBG) | [JR Castro](https://open.spotify.com/artist/19xmzzjYSHNrV6s0DBzEi7) | [Sexpectations](https://open.spotify.com/album/7uLUbZc2ImAYcGnPYJ1e21) | 3:44 |
-| 77 | [idc bout the club, i just want you](https://open.spotify.com/track/6VZzikzN98UdBhTyGhczBK) | [Kalin White](https://open.spotify.com/artist/49ygis4xkYsXbHMGCD7ajq) | [idc bout the club, i just want you](https://open.spotify.com/album/5bZYHqlS13XZOdLAWMS01M) | 2:44 |
+| 76 | [idc bout the club, i just want you](https://open.spotify.com/track/6VZzikzN98UdBhTyGhczBK) | [Kalin White](https://open.spotify.com/artist/49ygis4xkYsXbHMGCD7ajq) | [idc bout the club, i just want you](https://open.spotify.com/album/5bZYHqlS13XZOdLAWMS01M) | 2:44 |
+| 77 | [Sexpectations](https://open.spotify.com/track/2k4m30eHE9biBFaez21JBG) | [JR Castro](https://open.spotify.com/artist/19xmzzjYSHNrV6s0DBzEi7) | [Sexpectations](https://open.spotify.com/album/7uLUbZc2ImAYcGnPYJ1e21) | 3:44 |
 | 78 | [Devour](https://open.spotify.com/track/4wEDkySDxnlg9wBwcFsp6v) | [Quincy](https://open.spotify.com/artist/19dpHprxtijzCuWbrtmGrL) | [Devour](https://open.spotify.com/album/4HPoxlB9tyhq1LJHswoVeT) | 2:28 |
 | 79 | [Get You \(feat\. Kali Uchis\)](https://open.spotify.com/track/7zFXmv6vqI4qOt4yGf3jYZ) | [Daniel Caesar](https://open.spotify.com/artist/20wkVLutqVOYrc0kxFs7rA), [Kali Uchis](https://open.spotify.com/artist/1U1el3k54VvEUzo3ybLPlM) | [Freudian](https://open.spotify.com/album/3xybjP7r2VsWzwvDQipdM0) | 4:38 |
 | 80 | [Always On Time](https://open.spotify.com/track/4hrae8atte6cRlSC9a7VCO) | [Ja Rule](https://open.spotify.com/artist/1J2VVASYAamtQ3Bt8wGgA6), [Ashanti](https://open.spotify.com/artist/5rkVyNGXEgeUqKkB5ccK83) | [Pain Is Love](https://open.spotify.com/album/2wMavIKnu6feFNOeQ1hVwf) | 4:05 |
 
-Snapshot ID: `AAAAAOv3yfYkOrTDYaq3T9Mwy1s76DpJ`
+Snapshot ID: `AAAAAKUzYfmpk7YJWaepJ5NPddOWL0XP`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTW3H6N0Hkg4.md) - [plain]
 
 > Cumbias de antaño para bailar.
 
-[Spotify](https://open.spotify.com/user/spotify) - 350,666 likes - 125 songs - 7 hr 28 min
+[Spotify](https://open.spotify.com/user/spotify) - 350,735 likes - 125 songs - 7 hr 28 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -41,16 +41,16 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTW3H6N0Hkg4.md) - [plain]
 | 31 | [Cumbia de Marisol](https://open.spotify.com/track/3S03VuRu7nAkPHisVB87ma) | [Supergrupo Son Tepito](https://open.spotify.com/artist/2OsVjQ6haJx589IpLmpYBp) | [Cumbia de Marisol](https://open.spotify.com/album/61sd5yEb8gDv6Ey9vHi0nE) | 4:13 |
 | 32 | [La Charamusca](https://open.spotify.com/track/5FhS4o00eET27gljoXscDw) | [Sonido La Conga](https://open.spotify.com/artist/46OZl3GCx6gVfyqMIbS1ex) | [La Charamusca](https://open.spotify.com/album/4aKNeN2AAU4alvDmtUJOCG) | 3:36 |
 | 33 | [El Negro José](https://open.spotify.com/track/3uGL5ejR483pQ9W1qVW8e2) | [El Combo Palacio](https://open.spotify.com/artist/3aBcVktPy5mssT2slj5kC7), [Los Virtuosos De La Salsa](https://open.spotify.com/artist/1q9QXB3clbcfukhyR5aLub) | [Nuevamente! Salsas y Cumbias](https://open.spotify.com/album/3Zx5e0NwrsEZdgyWwA9KWZ) | 4:12 |
-| 34 | [Matamoros Querido](https://open.spotify.com/track/0ZrptJWS6dYhcv7j8ncrmf) | [Rigo Tovar](https://open.spotify.com/artist/5fKc00Wh60ggl0QptZ2aBx) | [Matamoros Querido](https://open.spotify.com/album/3JhqydiRWszqD9YZ7xf4PR) | 3:07 |
-| 35 | [El Hombre Que Yo Amo](https://open.spotify.com/track/3bukaSKEeFiyYx9JfgiqYf) | [Sonora Tropicana](https://open.spotify.com/artist/0XKgjkHamDZy6obrO52fIs) | [Tesoros De Coleccion](https://open.spotify.com/album/7g5bfjbwzzYDTXFqBXaGfn) | 4:07 |
+| 34 | [El Hombre Que Yo Amo](https://open.spotify.com/track/3bukaSKEeFiyYx9JfgiqYf) | [Sonora Tropicana](https://open.spotify.com/artist/0XKgjkHamDZy6obrO52fIs) | [Tesoros De Coleccion](https://open.spotify.com/album/7g5bfjbwzzYDTXFqBXaGfn) | 4:07 |
+| 35 | [Matamoros Querido](https://open.spotify.com/track/0ZrptJWS6dYhcv7j8ncrmf) | [Rigo Tovar](https://open.spotify.com/artist/5fKc00Wh60ggl0QptZ2aBx) | [Matamoros Querido](https://open.spotify.com/album/3JhqydiRWszqD9YZ7xf4PR) | 3:07 |
 | 36 | [Las Caleñas](https://open.spotify.com/track/0wPpztRZgvcRCdk3jtHS7r) | [Pastor Lopez](https://open.spotify.com/artist/6Ud6RjvNXVe39mKiGUb7zE) | [Sus Más Grandes Éxitos Volume 1](https://open.spotify.com/album/3Zh2ReqhDsU5aiR8aO6rfM) | 3:32 |
 | 37 | [Pero Tu No Estas](https://open.spotify.com/track/00c81raDwIJa803nmAgcU3) | [Grupo Flash](https://open.spotify.com/artist/7z8b1bQhJLtJYr3xd9jTsK) | [20 Joyas de la Historia Musical](https://open.spotify.com/album/2WSLrdOSbaiTS6efB7Xk2B) | 2:34 |
-| 38 | [La del Vestido Rojo](https://open.spotify.com/track/5oJNIP34E9aE7rAKpGqyZp) | [Acapulco Tropical](https://open.spotify.com/artist/0wNzx85rLgKy0OXYhpCItV) | [La Del Vestido Rojo](https://open.spotify.com/album/6BLCRfawi0B0rwezVC8hiS) | 3:41 |
+| 38 | [Cangrejito Playero](https://open.spotify.com/track/6mitEFB3w4GBe8YDlLfITL) | [Acapulco Tropical](https://open.spotify.com/artist/0wNzx85rLgKy0OXYhpCItV) | [El Soltero](https://open.spotify.com/album/0bjpHFI6ooAjv8ePZj8NsL) | 2:26 |
 | 39 | [Dile, Cuentale](https://open.spotify.com/track/3zl1a8RoZZTYQGoeEaDjtb) | [Claudio Morán](https://open.spotify.com/artist/7nhmhY1TyOa8drWz4O6tAO) | [Dile, Cuentale](https://open.spotify.com/album/4KBZ7utamIypncr1uN6iqu) | 4:10 |
 | 40 | [Amor De Unas Horas](https://open.spotify.com/track/61qpGyo77FZw8HixIR0S0K) | [Internacional Carro Show](https://open.spotify.com/artist/7xOvjCKtJ2rjrclwvqZXqt) | [Música Sin Limites \- Tropical](https://open.spotify.com/album/44uggEuojKvKPTL1jQumGp) | 2:41 |
 | 41 | [Mami \(Angel De Paz\)](https://open.spotify.com/track/6Ty47iTpofWm0kytiMddq9) | [Andikiru](https://open.spotify.com/artist/7lVcmAxMvrV6ALiIKnNp8o) | [Sueño Contigo](https://open.spotify.com/album/6g6KhEpDtyvSFyoUXk9g2O) | 3:31 |
 | 42 | [Me Vas A Recordar](https://open.spotify.com/track/5Nh4sheOYL11EWJzxhRu5c) | [Los Angeles De Charly](https://open.spotify.com/artist/01pQZzNIPRiVaCozNUrnyL) | [Serie Diamante \- 15 Súper Exitos](https://open.spotify.com/album/6CbDYnfZuYfuC9aKn9LcSq) | 3:00 |
-| 43 | [Cangrejito Playero](https://open.spotify.com/track/6mitEFB3w4GBe8YDlLfITL) | [Acapulco Tropical](https://open.spotify.com/artist/0wNzx85rLgKy0OXYhpCItV) | [El Soltero](https://open.spotify.com/album/0bjpHFI6ooAjv8ePZj8NsL) | 2:26 |
+| 43 | [La del Vestido Rojo](https://open.spotify.com/track/5oJNIP34E9aE7rAKpGqyZp) | [Acapulco Tropical](https://open.spotify.com/artist/0wNzx85rLgKy0OXYhpCItV) | [La Del Vestido Rojo](https://open.spotify.com/album/6BLCRfawi0B0rwezVC8hiS) | 3:41 |
 | 44 | [El Ausente \- Remastered](https://open.spotify.com/track/2yFGylyE6vbZQKXVZcvWFj) | [Pastor Lopez](https://open.spotify.com/artist/6Ud6RjvNXVe39mKiGUb7zE) | [Sus Más Grandes Éxitos](https://open.spotify.com/album/3NUMhmhwTK4uatK413RSOd) | 3:26 |
 | 45 | [Tan Bella Y Tan Presumida](https://open.spotify.com/track/5KOu0YxjEPkbFjP9yPCNoP) | [Tropical Panamá](https://open.spotify.com/artist/5ztS529zLHyaHXhGi0kwsb) | [Eva María](https://open.spotify.com/album/7nsXFT6vkw3cwbv1Igyv3y) | 3:05 |
 | 46 | [Llorando Se Fue "Lambada"](https://open.spotify.com/track/2X5nEYIzulPNs3abgszxXH) | [Cuarteto Continental de Alberto Maraví](https://open.spotify.com/artist/22YXWmEIyYQ4UL4j4QsHyq) | [El Auténtico e Imbatible](https://open.spotify.com/album/2wNHVSeBDQLAl1WT8tBw62) | 3:28 |
@@ -79,9 +79,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTW3H6N0Hkg4.md) - [plain]
 | 69 | [Pero No Puedo](https://open.spotify.com/track/2FGNSe2U9AEoXVZIfGPjb5) | [Los Charros](https://open.spotify.com/artist/1poWksyUHxANlcdBLPhsV9) | [Inolvidable Amor](https://open.spotify.com/album/7HnUowvSStoPDJUeVYPHCo) | 2:58 |
 | 70 | [La Cumbia Sampuesana](https://open.spotify.com/track/3R0b08CZgjbYhtF9PjMUbq) | [La Luz Roja De San Marcos](https://open.spotify.com/artist/5YeFdMPC50VCSc91uYLOGb) | [Coleccion De Oro Puro](https://open.spotify.com/album/1oyXpx45VV9E7K9rS33TS8) | 5:07 |
 | 71 | [Muñeca Esquiva](https://open.spotify.com/track/0MKcsRCnzWOlwdy9txHNFY) | [Napelao Con los Rivales](https://open.spotify.com/artist/6130nJytdu6outIqqH0G1R) | [Tequendama de Oro, Vol\. 4](https://open.spotify.com/album/52k7leNvJSZROJgEZhHuku) | 3:31 |
-| 72 | [Ojitos Mentirosos](https://open.spotify.com/track/4b8Dn37dyqyQ101TuC2Vgw) | [Moab](https://open.spotify.com/artist/5B7UoQQ1YBUcVbrmUZ24XN) | [Tequendama de Oro, Vol\. 4](https://open.spotify.com/album/52k7leNvJSZROJgEZhHuku) | 3:44 |
-| 73 | [Cumbia de Luna](https://open.spotify.com/track/38mjf8hD52QkGv65Quk2Js) | [Los Picoteros de la Cumbia](https://open.spotify.com/artist/70QPws9LuvhBl1Da9rejYY), [Alberto Pedraza](https://open.spotify.com/artist/3TQh6LXI9ADgyZJTT19TeR) | [Los Picoteros de la Cumbia](https://open.spotify.com/album/5CdJooD3fQ3yMXnCUdXssH) | 3:36 |
-| 74 | [Las Palmitas del Ecuador](https://open.spotify.com/track/6xUqaIld9T5BlqkhVD6C3C) | [Sensacion Latina](https://open.spotify.com/artist/0t4U97R9dS4uYMAvlb7J1e) | [Por Encima de Todos](https://open.spotify.com/album/3oU1cOrdFNJayzA9kY70DG) | 5:16 |
+| 72 | [Cumbia de Luna](https://open.spotify.com/track/38mjf8hD52QkGv65Quk2Js) | [Los Picoteros de la Cumbia](https://open.spotify.com/artist/70QPws9LuvhBl1Da9rejYY), [Alberto Pedraza](https://open.spotify.com/artist/3TQh6LXI9ADgyZJTT19TeR) | [Los Picoteros de la Cumbia](https://open.spotify.com/album/5CdJooD3fQ3yMXnCUdXssH) | 3:36 |
+| 73 | [Las Palmitas del Ecuador](https://open.spotify.com/track/6xUqaIld9T5BlqkhVD6C3C) | [Sensacion Latina](https://open.spotify.com/artist/0t4U97R9dS4uYMAvlb7J1e) | [Por Encima de Todos](https://open.spotify.com/album/3oU1cOrdFNJayzA9kY70DG) | 5:16 |
+| 74 | [Ojitos Mentirosos](https://open.spotify.com/track/4b8Dn37dyqyQ101TuC2Vgw) | [Moab](https://open.spotify.com/artist/5B7UoQQ1YBUcVbrmUZ24XN) | [Tequendama de Oro, Vol\. 4](https://open.spotify.com/album/52k7leNvJSZROJgEZhHuku) | 3:44 |
 | 75 | [No Te Vayas, Corazón](https://open.spotify.com/track/6ZHOAF8cCGLXsSvNAFADMi) | [Los Wawanco](https://open.spotify.com/artist/0WSHVLqlPkVePCFIUiDuC6), [Hernán Rojas](https://open.spotify.com/artist/3dkjB35iFamrfo9flhThs7) | [20 Superéxitos Originales](https://open.spotify.com/album/4f7zlhcg4b7kuEZhPlKX6f) | 2:27 |
 | 76 | [La Velludita](https://open.spotify.com/track/2zPwwv0B5DCxOrXaF6whE7) | [La Sonora Vallenata](https://open.spotify.com/artist/530Lr7Eet6w3rsNhPYxw0l) | [Tequendama de Oro, Vol\. 4](https://open.spotify.com/album/52k7leNvJSZROJgEZhHuku) | 2:58 |
 | 77 | [El Sonido de los Mirlos](https://open.spotify.com/track/4MRbkMRzKLEPsgVvmSnDIJ) | [Los Mirlos](https://open.spotify.com/artist/1ga48mxYYI9RuUrWLa3voh) | [Cumbia Amazonica](https://open.spotify.com/album/3Almc0ajaT7YXLxpn18QBL) | 2:38 |
@@ -134,4 +134,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTW3H6N0Hkg4.md) - [plain]
 | 124 | [Corazón Solitario](https://open.spotify.com/track/7pxs0seevgCsp3h23lUGBw) | [Alberto Pedraza](https://open.spotify.com/artist/3TQh6LXI9ADgyZJTT19TeR) | [Guarachando](https://open.spotify.com/album/18alqYy5VLW7BxT86gmAGI) | 4:03 |
 | 125 | [Amor de Internet](https://open.spotify.com/track/5LxGgIGHOjbzvPm5CclD1h) | [Los Socios Del Ritmo](https://open.spotify.com/artist/7bzt5lHL6bzLO3c9mkxNMW) | [Amor de Internet](https://open.spotify.com/album/0x63AO9cXTLCjhRzdT1BuW) | 3:50 |
 
-Snapshot ID: `AAAAALyE/c27rB9mfhngjFWrsoYXtLHx`
+Snapshot ID: `AAAAAIXivrAdnuYHrh8zQzz2bjHLkrmv`

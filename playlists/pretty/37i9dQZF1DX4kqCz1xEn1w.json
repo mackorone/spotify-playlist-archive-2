@@ -1,12 +1,12 @@
 {
   "description": "Victory over death has been won today, forever!",
-  "num_followers": 77980,
+  "num_followers": 77978,
   "original_name": "Easter Worship",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAHWwzSqR5vzQ7RXAB5fur2uBXUG3",
+  "snapshot_id": "AAAAAJVr1OWgs2rEEHnDJA0hYqsuJE7J",
   "tracks": [
     {
       "added_at": "2026-04-04 06:11:10",
@@ -619,30 +619,18 @@
     {
       "added_at": "2026-04-04 06:11:10",
       "album": {
-        "name": "Freedom.",
-        "url": "https://open.spotify.com/album/1VDEosYeESOUFnySf8mxDJ"
+        "name": "God I'm Just Grateful (Radio Version)",
+        "url": "https://open.spotify.com/album/7tuFbno5P8tgY8dQ8KjIpB"
       },
       "artists": [
         {
-          "name": "Justin Bieber",
-          "url": "https://open.spotify.com/artist/1uNFoZAHBGtllmzznpCI3s"
-        },
-        {
-          "name": "Tori Kelly",
-          "url": "https://open.spotify.com/artist/1vSN1fsvrzpbttOYGsliDr"
-        },
-        {
           "name": "Chandler Moore",
           "url": "https://open.spotify.com/artist/6y7frW1RUq3XBBXbYowVpk"
-        },
-        {
-          "name": "Judah Smith",
-          "url": "https://open.spotify.com/artist/0EoQD7uLccw0iwkTJTzsB9"
         }
       ],
-      "duration_ms": 286453,
-      "name": "Where Do I Fit In (feat. Tori Kelly, Chandler Moore & Judah Smith)",
-      "url": "https://open.spotify.com/track/6e3oGWsdfHSKBCFv548RRm"
+      "duration_ms": 234844,
+      "name": "God I'm Just Grateful - Radio Version",
+      "url": "https://open.spotify.com/track/1PVWmMVBJ8RrHMsvL1c15o"
     },
     {
       "added_at": "2026-04-04 06:11:10",
@@ -679,18 +667,30 @@
     {
       "added_at": "2026-04-04 06:11:10",
       "album": {
-        "name": "God I'm Just Grateful (Radio Version)",
-        "url": "https://open.spotify.com/album/7tuFbno5P8tgY8dQ8KjIpB"
+        "name": "Freedom.",
+        "url": "https://open.spotify.com/album/1VDEosYeESOUFnySf8mxDJ"
       },
       "artists": [
         {
+          "name": "Justin Bieber",
+          "url": "https://open.spotify.com/artist/1uNFoZAHBGtllmzznpCI3s"
+        },
+        {
+          "name": "Tori Kelly",
+          "url": "https://open.spotify.com/artist/1vSN1fsvrzpbttOYGsliDr"
+        },
+        {
           "name": "Chandler Moore",
           "url": "https://open.spotify.com/artist/6y7frW1RUq3XBBXbYowVpk"
+        },
+        {
+          "name": "Judah Smith",
+          "url": "https://open.spotify.com/artist/0EoQD7uLccw0iwkTJTzsB9"
         }
       ],
-      "duration_ms": 234844,
-      "name": "God I'm Just Grateful - Radio Version",
-      "url": "https://open.spotify.com/track/1PVWmMVBJ8RrHMsvL1c15o"
+      "duration_ms": 286453,
+      "name": "Where Do I Fit In (feat. Tori Kelly, Chandler Moore & Judah Smith)",
+      "url": "https://open.spotify.com/track/6e3oGWsdfHSKBCFv548RRm"
     },
     {
       "added_at": "2026-04-04 06:11:10",
@@ -879,22 +879,6 @@
     {
       "added_at": "2026-04-04 06:11:10",
       "album": {
-        "name": "Greater Things",
-        "url": "https://open.spotify.com/album/6zCU9zG1tIfA9V1UEfSPsz"
-      },
-      "artists": [
-        {
-          "name": "Mack Brock",
-          "url": "https://open.spotify.com/artist/5yCOPpDHEQxwSJJL2LAqLj"
-        }
-      ],
-      "duration_ms": 307026,
-      "name": "Christ Is Risen",
-      "url": "https://open.spotify.com/track/1GQsaKKI0ZJJPI5Zsop20u"
-    },
-    {
-      "added_at": "2026-04-04 06:11:10",
-      "album": {
         "name": "Alive Again",
         "url": "https://open.spotify.com/album/6Y07x7oqvxOt0oUiBBWaHX"
       },
@@ -907,6 +891,22 @@
       "duration_ms": 294813,
       "name": "Christ Is Risen",
       "url": "https://open.spotify.com/track/27q0d0DgZrcnUNr2K0kMPC"
+    },
+    {
+      "added_at": "2026-04-04 06:11:10",
+      "album": {
+        "name": "Greater Things",
+        "url": "https://open.spotify.com/album/6zCU9zG1tIfA9V1UEfSPsz"
+      },
+      "artists": [
+        {
+          "name": "Mack Brock",
+          "url": "https://open.spotify.com/artist/5yCOPpDHEQxwSJJL2LAqLj"
+        }
+      ],
+      "duration_ms": 307026,
+      "name": "Christ Is Risen",
+      "url": "https://open.spotify.com/track/1GQsaKKI0ZJJPI5Zsop20u"
     },
     {
       "added_at": "2026-04-04 06:11:10",
@@ -1011,6 +1011,22 @@
     {
       "added_at": "2026-04-04 06:11:10",
       "album": {
+        "name": "Peace Be Still",
+        "url": "https://open.spotify.com/album/5NB3XmeK1ICymTWKPEWnSt"
+      },
+      "artists": [
+        {
+          "name": "Hope Darst",
+          "url": "https://open.spotify.com/artist/0B5924KrMyjdeYqZsPpw36"
+        }
+      ],
+      "duration_ms": 300733,
+      "name": "Promise Keeper",
+      "url": "https://open.spotify.com/track/2Cr9jbqKa0fr2ROrHDn8Rb"
+    },
+    {
+      "added_at": "2026-04-04 06:11:10",
+      "album": {
         "name": "He Lives",
         "url": "https://open.spotify.com/album/4p1AUbD3hdYhEu62DUOUEQ"
       },
@@ -1027,22 +1043,6 @@
       "duration_ms": 292453,
       "name": "He Lives - Live",
       "url": "https://open.spotify.com/track/68OJj3OTc9mnXsy39B7eve"
-    },
-    {
-      "added_at": "2026-04-04 06:11:10",
-      "album": {
-        "name": "Peace Be Still",
-        "url": "https://open.spotify.com/album/5NB3XmeK1ICymTWKPEWnSt"
-      },
-      "artists": [
-        {
-          "name": "Hope Darst",
-          "url": "https://open.spotify.com/artist/0B5924KrMyjdeYqZsPpw36"
-        }
-      ],
-      "duration_ms": 300733,
-      "name": "Promise Keeper",
-      "url": "https://open.spotify.com/track/2Cr9jbqKa0fr2ROrHDn8Rb"
     },
     {
       "added_at": "2026-04-04 06:11:10",
@@ -2011,22 +2011,6 @@
     {
       "added_at": "2026-04-04 06:11:10",
       "album": {
-        "name": "Surrounded",
-        "url": "https://open.spotify.com/album/0RpjkgJDTV3IiltZf1Udkl"
-      },
-      "artists": [
-        {
-          "name": "Michael W. Smith",
-          "url": "https://open.spotify.com/artist/5aBxFPaaGk9204ssHUvXWN"
-        }
-      ],
-      "duration_ms": 300026,
-      "name": "Surrounded (Fight My Battles)",
-      "url": "https://open.spotify.com/track/73u7dTjaBTMyvs3KWOThGR"
-    },
-    {
-      "added_at": "2026-04-04 06:11:10",
-      "album": {
         "name": "I Really Love You (Live)",
         "url": "https://open.spotify.com/album/4WqclX4OiJKC0eriTugFmO"
       },
@@ -2047,18 +2031,18 @@
     {
       "added_at": "2026-04-04 06:11:10",
       "album": {
-        "name": "Worthy",
-        "url": "https://open.spotify.com/album/7tPxeU9EAOLcMGKRQFHEMe"
+        "name": "Surrounded",
+        "url": "https://open.spotify.com/album/0RpjkgJDTV3IiltZf1Udkl"
       },
       "artists": [
         {
-          "name": "Ryan Horton",
-          "url": "https://open.spotify.com/artist/3TYiYJLd8SVrIOprwpTGVa"
+          "name": "Michael W. Smith",
+          "url": "https://open.spotify.com/artist/5aBxFPaaGk9204ssHUvXWN"
         }
       ],
-      "duration_ms": 459500,
-      "name": "Worthy",
-      "url": "https://open.spotify.com/track/3JhcteIYMvEeCrAsQkEn1L"
+      "duration_ms": 300026,
+      "name": "Surrounded (Fight My Battles)",
+      "url": "https://open.spotify.com/track/73u7dTjaBTMyvs3KWOThGR"
     },
     {
       "added_at": "2026-04-04 06:11:10",
@@ -2083,6 +2067,22 @@
     {
       "added_at": "2026-04-04 06:11:10",
       "album": {
+        "name": "Worthy",
+        "url": "https://open.spotify.com/album/7tPxeU9EAOLcMGKRQFHEMe"
+      },
+      "artists": [
+        {
+          "name": "Ryan Horton",
+          "url": "https://open.spotify.com/artist/3TYiYJLd8SVrIOprwpTGVa"
+        }
+      ],
+      "duration_ms": 459500,
+      "name": "Worthy",
+      "url": "https://open.spotify.com/track/3JhcteIYMvEeCrAsQkEn1L"
+    },
+    {
+      "added_at": "2026-04-04 06:11:10",
+      "album": {
         "name": "Jesus You Alone",
         "url": "https://open.spotify.com/album/3FQEV5T91MUH6qPDqEluZK"
       },
@@ -2095,6 +2095,22 @@
       "duration_ms": 372150,
       "name": "Jesus You Alone",
       "url": "https://open.spotify.com/track/4zYvDOveReSl6t86OfBMCU"
+    },
+    {
+      "added_at": "2026-04-04 06:11:10",
+      "album": {
+        "name": "When I Survey the Wondrous Cross",
+        "url": "https://open.spotify.com/album/0PnXQgy18i1VJsOL9MHwgS"
+      },
+      "artists": [
+        {
+          "name": "Sky Hymnal",
+          "url": "https://open.spotify.com/artist/0sPadWytMscx06KVFzWhba"
+        }
+      ],
+      "duration_ms": 180000,
+      "name": "When I Survey the Wondrous Cross",
+      "url": "https://open.spotify.com/track/1BD2tTkCBdUwT9FVV1kxZX"
     },
     {
       "added_at": "2026-04-04 06:11:10",
@@ -2119,22 +2135,6 @@
       "duration_ms": 437131,
       "name": "Waymaker",
       "url": "https://open.spotify.com/track/0hLsDRLsfvwExXMBeDS53k"
-    },
-    {
-      "added_at": "2026-04-04 06:11:10",
-      "album": {
-        "name": "When I Survey the Wondrous Cross",
-        "url": "https://open.spotify.com/album/0PnXQgy18i1VJsOL9MHwgS"
-      },
-      "artists": [
-        {
-          "name": "Sky Hymnal",
-          "url": "https://open.spotify.com/artist/0sPadWytMscx06KVFzWhba"
-        }
-      ],
-      "duration_ms": 180000,
-      "name": "When I Survey the Wondrous Cross",
-      "url": "https://open.spotify.com/track/1BD2tTkCBdUwT9FVV1kxZX"
     },
     {
       "added_at": "2026-04-04 06:11:10",
@@ -2279,6 +2279,22 @@
     {
       "added_at": "2026-04-04 06:11:10",
       "album": {
+        "name": "Land of the Living (Live)",
+        "url": "https://open.spotify.com/album/4CVXOAkmstbNySWmp5LXIx"
+      },
+      "artists": [
+        {
+          "name": "UPPERROOM",
+          "url": "https://open.spotify.com/artist/107CG0UhUl9GJnPwF83N63"
+        }
+      ],
+      "duration_ms": 325701,
+      "name": "Rest on Us - Live",
+      "url": "https://open.spotify.com/track/5hbyxp9uM2iLSUTi5swnV3"
+    },
+    {
+      "added_at": "2026-04-04 06:11:10",
+      "album": {
         "name": "Behold Him",
         "url": "https://open.spotify.com/album/1lKIY0hKw9fU7EWfnGDOZy"
       },
@@ -2311,30 +2327,6 @@
       "duration_ms": 361386,
       "name": "Revelation Song",
       "url": "https://open.spotify.com/track/3pZVH0mPC6fxtmjOT0i9t5"
-    },
-    {
-      "added_at": "2026-04-04 06:11:10",
-      "album": {
-        "name": "We Will Not Be Shaken (Live)",
-        "url": "https://open.spotify.com/album/6Es2No0kYBzVAQlSmsEaZm"
-      },
-      "artists": [
-        {
-          "name": "Bethel Music",
-          "url": "https://open.spotify.com/artist/26T4yOaOoFJvUvxR87Y9HO"
-        },
-        {
-          "name": "Melissa Helser",
-          "url": "https://open.spotify.com/artist/0cng44S55pPu1nDrtFFy7r"
-        },
-        {
-          "name": "Jonathan David Helser",
-          "url": "https://open.spotify.com/artist/7vKyyJZVFb16NTWrUV1fGp"
-        }
-      ],
-      "duration_ms": 373691,
-      "name": "No Longer Slaves (Live)",
-      "url": "https://open.spotify.com/track/63SF10lPoWA71bDYYzxfUs"
     },
     {
       "added_at": "2026-04-04 06:11:10",
@@ -2383,6 +2375,30 @@
     {
       "added_at": "2026-04-04 06:11:10",
       "album": {
+        "name": "We Will Not Be Shaken (Live)",
+        "url": "https://open.spotify.com/album/6Es2No0kYBzVAQlSmsEaZm"
+      },
+      "artists": [
+        {
+          "name": "Bethel Music",
+          "url": "https://open.spotify.com/artist/26T4yOaOoFJvUvxR87Y9HO"
+        },
+        {
+          "name": "Melissa Helser",
+          "url": "https://open.spotify.com/artist/0cng44S55pPu1nDrtFFy7r"
+        },
+        {
+          "name": "Jonathan David Helser",
+          "url": "https://open.spotify.com/artist/7vKyyJZVFb16NTWrUV1fGp"
+        }
+      ],
+      "duration_ms": 373691,
+      "name": "No Longer Slaves (Live)",
+      "url": "https://open.spotify.com/track/63SF10lPoWA71bDYYzxfUs"
+    },
+    {
+      "added_at": "2026-04-04 06:11:10",
+      "album": {
         "name": "All The Earth",
         "url": "https://open.spotify.com/album/6AmRmySvr449vMyF5Eq7ty"
       },
@@ -2399,22 +2415,6 @@
       "duration_ms": 242913,
       "name": "Zeal (feat. Henry Seeley)",
       "url": "https://open.spotify.com/track/3DL0ENqjvC8ThxivuL3AUW"
-    },
-    {
-      "added_at": "2026-04-04 06:11:10",
-      "album": {
-        "name": "Land of the Living (Live)",
-        "url": "https://open.spotify.com/album/4CVXOAkmstbNySWmp5LXIx"
-      },
-      "artists": [
-        {
-          "name": "UPPERROOM",
-          "url": "https://open.spotify.com/artist/107CG0UhUl9GJnPwF83N63"
-        }
-      ],
-      "duration_ms": 325701,
-      "name": "Rest on Us - Live",
-      "url": "https://open.spotify.com/track/5hbyxp9uM2iLSUTi5swnV3"
     },
     {
       "added_at": "2026-04-04 06:11:10",
@@ -2479,6 +2479,22 @@
     {
       "added_at": "2026-04-04 06:11:10",
       "album": {
+        "name": "To the One",
+        "url": "https://open.spotify.com/album/4OhRAM6ypyVkxEqO7wy4xt"
+      },
+      "artists": [
+        {
+          "name": "UPPERROOM",
+          "url": "https://open.spotify.com/artist/107CG0UhUl9GJnPwF83N63"
+        }
+      ],
+      "duration_ms": 448808,
+      "name": "To the One (Live)",
+      "url": "https://open.spotify.com/track/7aJeq9pEDHSxOA1xcRlT9u"
+    },
+    {
+      "added_at": "2026-04-04 06:11:10",
+      "album": {
         "name": "All The Earth",
         "url": "https://open.spotify.com/album/6AmRmySvr449vMyF5Eq7ty"
       },
@@ -2495,22 +2511,6 @@
       "duration_ms": 486944,
       "name": "Peace Be Still (feat. Lauren Daigle)",
       "url": "https://open.spotify.com/track/6zvSkAEtFZIJD7kVeo5by4"
-    },
-    {
-      "added_at": "2026-04-04 06:11:10",
-      "album": {
-        "name": "To the One",
-        "url": "https://open.spotify.com/album/4OhRAM6ypyVkxEqO7wy4xt"
-      },
-      "artists": [
-        {
-          "name": "UPPERROOM",
-          "url": "https://open.spotify.com/artist/107CG0UhUl9GJnPwF83N63"
-        }
-      ],
-      "duration_ms": 448808,
-      "name": "To the One (Live)",
-      "url": "https://open.spotify.com/track/7aJeq9pEDHSxOA1xcRlT9u"
     },
     {
       "added_at": "2026-04-04 06:11:10",
@@ -2591,6 +2591,22 @@
       "duration_ms": 288986,
       "name": "Hope Has a Name",
       "url": "https://open.spotify.com/track/6qzEwrOf3GGrqH7ijrxLli"
+    },
+    {
+      "added_at": "2026-04-04 06:11:10",
+      "album": {
+        "name": "Still",
+        "url": "https://open.spotify.com/album/1nFQuXVKFf4FqmJcuyG7eS"
+      },
+      "artists": [
+        {
+          "name": "Amanda Cook",
+          "url": "https://open.spotify.com/artist/53Gnd3lGlcL8ua9Yyu9xDP"
+        }
+      ],
+      "duration_ms": 256226,
+      "name": "Still",
+      "url": "https://open.spotify.com/track/6sVrA1nimqutReZF9V4n6R"
     },
     {
       "added_at": "2026-04-04 06:11:10",
@@ -2735,26 +2751,6 @@
       "duration_ms": 287933,
       "name": "Our God Is Alive",
       "url": "https://open.spotify.com/track/2CAztZQ7LpJdtiIBhHWgnM"
-    },
-    {
-      "added_at": "2026-04-04 06:11:10",
-      "album": {
-        "name": "Canyons",
-        "url": "https://open.spotify.com/album/57mkNBrzh5e29JZE9PMp5R"
-      },
-      "artists": [
-        {
-          "name": "Corey Voss",
-          "url": "https://open.spotify.com/artist/1eqQW3Oj7MHXK05b8O5RHa"
-        },
-        {
-          "name": "Krissy Nordhoff",
-          "url": "https://open.spotify.com/artist/6JuQ1D9qv2atxeYHJmkgw0"
-        }
-      ],
-      "duration_ms": 306585,
-      "name": "Canyons - Live",
-      "url": "https://open.spotify.com/track/1t8gqoON8xpcB7uAtm1TiW"
     }
   ],
   "unique_name": "Easter Worship",

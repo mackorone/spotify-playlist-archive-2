@@ -1,12 +1,12 @@
 {
   "description": "This is Celia Cruz. The essential tracks, all in one playlist.",
-  "num_followers": 107725,
+  "num_followers": 107729,
   "original_name": "This Is Celia Cruz",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "awIwgAAAAABL7j7grlDBiE6aYp8w9HNR",
+  "snapshot_id": "awOCAAAAAADg3MfFgeARDp/86rKXFJb5",
   "tracks": [
     {
       "added_at": null,
@@ -575,26 +575,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "The Queen Of Salsa (Remastered 2025)",
-        "url": "https://open.spotify.com/album/0dgFgOU1v9fqUZBIEcse7g"
-      },
-      "artists": [
-        {
-          "name": "Celia Cruz",
-          "url": "https://open.spotify.com/artist/2weA6hhVqTIN2gSn9PUB9U"
-        },
-        {
-          "name": "Fania All Stars",
-          "url": "https://open.spotify.com/artist/1OdyhpUABf8avaZ9r8nI1u"
-        }
-      ],
-      "duration_ms": 326866,
-      "name": "Bambol\u00e9o - Remastered 2025",
-      "url": "https://open.spotify.com/track/5JHRM5anrrnCnLAIrcgCrn"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Celia & Johnny (Remastered 2024)",
         "url": "https://open.spotify.com/album/2Fim0ltdhy5696Nuo2yjY0"
       },
@@ -631,6 +611,26 @@
       "duration_ms": 172295,
       "name": "Plazos Traicioneros - Remastered 2024",
       "url": "https://open.spotify.com/track/7Ml5UAdvDfXljFSwHCHwTj"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "The Queen Of Salsa (Remastered 2025)",
+        "url": "https://open.spotify.com/album/0dgFgOU1v9fqUZBIEcse7g"
+      },
+      "artists": [
+        {
+          "name": "Celia Cruz",
+          "url": "https://open.spotify.com/artist/2weA6hhVqTIN2gSn9PUB9U"
+        },
+        {
+          "name": "Fania All Stars",
+          "url": "https://open.spotify.com/artist/1OdyhpUABf8avaZ9r8nI1u"
+        }
+      ],
+      "duration_ms": 326866,
+      "name": "Bambol\u00e9o - Remastered 2025",
+      "url": "https://open.spotify.com/track/5JHRM5anrrnCnLAIrcgCrn"
     },
     {
       "added_at": null,
@@ -675,26 +675,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "La Tierna, Conmovedora, Bamboleadora",
-        "url": "https://open.spotify.com/album/3505DvX9TkUjchDLCeSv5I"
-      },
-      "artists": [
-        {
-          "name": "Celia Cruz",
-          "url": "https://open.spotify.com/artist/2weA6hhVqTIN2gSn9PUB9U"
-        },
-        {
-          "name": "La Sonora Matancera",
-          "url": "https://open.spotify.com/artist/01p7Homi0d4XxZ06f2NYYD"
-        }
-      ],
-      "duration_ms": 174626,
-      "name": "Desvelo De Amor",
-      "url": "https://open.spotify.com/track/5z46fEEorQBtY64lIyyBfo"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Canciones Premiadas De Celia Cruz",
         "url": "https://open.spotify.com/album/2RwLH5eQUSysH3JYCGC0HB"
       },
@@ -711,6 +691,26 @@
       "duration_ms": 175600,
       "name": "Melao De Ca\u00f1a",
       "url": "https://open.spotify.com/track/3plteX0fS86RHbRTwEIHuo"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "La Tierna, Conmovedora, Bamboleadora",
+        "url": "https://open.spotify.com/album/3505DvX9TkUjchDLCeSv5I"
+      },
+      "artists": [
+        {
+          "name": "Celia Cruz",
+          "url": "https://open.spotify.com/artist/2weA6hhVqTIN2gSn9PUB9U"
+        },
+        {
+          "name": "La Sonora Matancera",
+          "url": "https://open.spotify.com/artist/01p7Homi0d4XxZ06f2NYYD"
+        }
+      ],
+      "duration_ms": 174626,
+      "name": "Desvelo De Amor",
+      "url": "https://open.spotify.com/track/5z46fEEorQBtY64lIyyBfo"
     },
     {
       "added_at": null,
@@ -767,6 +767,26 @@
     {
       "added_at": null,
       "album": {
+        "name": "Cuba's Queen Of Rhythm",
+        "url": "https://open.spotify.com/album/4FwaFU87BXwp3EQVr4cLIX"
+      },
+      "artists": [
+        {
+          "name": "La Sonora Matancera",
+          "url": "https://open.spotify.com/artist/01p7Homi0d4XxZ06f2NYYD"
+        },
+        {
+          "name": "Celia Cruz",
+          "url": "https://open.spotify.com/artist/2weA6hhVqTIN2gSn9PUB9U"
+        }
+      ],
+      "duration_ms": 186106,
+      "name": "Pa La Paloma",
+      "url": "https://open.spotify.com/track/35NvKX5qqxt2Q9Ma5VVlZJ"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Tremendo Trio! (Remastered 2024)",
         "url": "https://open.spotify.com/album/0p4q1T1q8BOJeWpTbjPK9d"
       },
@@ -787,26 +807,6 @@
       "duration_ms": 346144,
       "name": "Nadie Se Salva de la Rumba - Remastered 2024",
       "url": "https://open.spotify.com/track/5mL4kLnUGSWARxafTkocHM"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Cuba's Queen Of Rhythm",
-        "url": "https://open.spotify.com/album/4FwaFU87BXwp3EQVr4cLIX"
-      },
-      "artists": [
-        {
-          "name": "La Sonora Matancera",
-          "url": "https://open.spotify.com/artist/01p7Homi0d4XxZ06f2NYYD"
-        },
-        {
-          "name": "Celia Cruz",
-          "url": "https://open.spotify.com/artist/2weA6hhVqTIN2gSn9PUB9U"
-        }
-      ],
-      "duration_ms": 186106,
-      "name": "Pa La Paloma",
-      "url": "https://open.spotify.com/track/35NvKX5qqxt2Q9Ma5VVlZJ"
     },
     {
       "added_at": null,
@@ -883,26 +883,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Celia & Johnny (Remastered 2024)",
-        "url": "https://open.spotify.com/album/2Fim0ltdhy5696Nuo2yjY0"
-      },
-      "artists": [
-        {
-          "name": "Celia Cruz",
-          "url": "https://open.spotify.com/artist/2weA6hhVqTIN2gSn9PUB9U"
-        },
-        {
-          "name": "Johnny Pacheco",
-          "url": "https://open.spotify.com/artist/09947uhj2ZwU9mFXK5v50o"
-        }
-      ],
-      "duration_ms": 331244,
-      "name": "Canto a la Habana - Remastered 2024",
-      "url": "https://open.spotify.com/track/46GaLgU3v1BYoCUREVysW2"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Cuba's Queen Of Rhythm",
         "url": "https://open.spotify.com/album/4FwaFU87BXwp3EQVr4cLIX"
       },
@@ -943,8 +923,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Tremendo Cache",
-        "url": "https://open.spotify.com/album/1Wbmg5TqfFELODTlgeihcN"
+        "name": "Celia & Johnny (Remastered 2024)",
+        "url": "https://open.spotify.com/album/2Fim0ltdhy5696Nuo2yjY0"
       },
       "artists": [
         {
@@ -956,9 +936,9 @@
           "url": "https://open.spotify.com/artist/09947uhj2ZwU9mFXK5v50o"
         }
       ],
-      "duration_ms": 299133,
-      "name": "Tres D\u00edas De Carnaval",
-      "url": "https://open.spotify.com/track/7M9c79GkV5Kt8eBRtoW7sL"
+      "duration_ms": 331244,
+      "name": "Canto a la Habana - Remastered 2024",
+      "url": "https://open.spotify.com/track/46GaLgU3v1BYoCUREVysW2"
     },
     {
       "added_at": null,
@@ -995,6 +975,26 @@
       "duration_ms": 159266,
       "name": "Y Mi Negro Esta Cansao",
       "url": "https://open.spotify.com/track/2lQL2ZIO7m4dE3bMAymTIj"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Tremendo Cache",
+        "url": "https://open.spotify.com/album/1Wbmg5TqfFELODTlgeihcN"
+      },
+      "artists": [
+        {
+          "name": "Celia Cruz",
+          "url": "https://open.spotify.com/artist/2weA6hhVqTIN2gSn9PUB9U"
+        },
+        {
+          "name": "Johnny Pacheco",
+          "url": "https://open.spotify.com/artist/09947uhj2ZwU9mFXK5v50o"
+        }
+      ],
+      "duration_ms": 299133,
+      "name": "Tres D\u00edas De Carnaval",
+      "url": "https://open.spotify.com/track/7M9c79GkV5Kt8eBRtoW7sL"
     },
     {
       "added_at": null,

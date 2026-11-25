@@ -6,7 +6,7 @@
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAD9n4paX/SzSnAs4eDQTQEDCUwHy",
+  "snapshot_id": "AAAAAGRxd35Yh0t6hEFxU+LpVnzjzOVT",
   "tracks": [
     {
       "added_at": "2026-11-20 03:01:03",
@@ -411,18 +411,22 @@
     {
       "added_at": "2026-11-20 03:01:03",
       "album": {
-        "name": "Raizes Do Samba",
-        "url": "https://open.spotify.com/album/0i9SwtLwZ8cOuH5qtkwTvT"
+        "name": "Gal Costa",
+        "url": "https://open.spotify.com/album/5ZVLLME05cmciSZz4IGcZu"
       },
       "artists": [
         {
-          "name": "Cartola",
-          "url": "https://open.spotify.com/artist/0RSWHhBUwW7lhCqXqxKxWN"
+          "name": "Gal Costa",
+          "url": "https://open.spotify.com/artist/1b8kpp4DUwt1hWaxTiWQhD"
+        },
+        {
+          "name": "Caetano Veloso",
+          "url": "https://open.spotify.com/artist/7HGNYPmbDrMkylWqeFCOIQ"
         }
       ],
-      "duration_ms": 179933,
-      "name": "Preciso Me Encontrar",
-      "url": "https://open.spotify.com/track/1op7nM2R2M6FAU6dSCTRWV"
+      "duration_ms": 212933,
+      "name": "Baby",
+      "url": "https://open.spotify.com/track/0C13P4IghHNFPjt4zIJ8vX"
     },
     {
       "added_at": "2026-11-20 03:01:03",
@@ -459,22 +463,18 @@
     {
       "added_at": "2026-11-20 03:01:03",
       "album": {
-        "name": "Gal Costa",
-        "url": "https://open.spotify.com/album/5ZVLLME05cmciSZz4IGcZu"
+        "name": "Raizes Do Samba",
+        "url": "https://open.spotify.com/album/0i9SwtLwZ8cOuH5qtkwTvT"
       },
       "artists": [
         {
-          "name": "Gal Costa",
-          "url": "https://open.spotify.com/artist/1b8kpp4DUwt1hWaxTiWQhD"
-        },
-        {
-          "name": "Caetano Veloso",
-          "url": "https://open.spotify.com/artist/7HGNYPmbDrMkylWqeFCOIQ"
+          "name": "Cartola",
+          "url": "https://open.spotify.com/artist/0RSWHhBUwW7lhCqXqxKxWN"
         }
       ],
-      "duration_ms": 212933,
-      "name": "Baby",
-      "url": "https://open.spotify.com/track/0C13P4IghHNFPjt4zIJ8vX"
+      "duration_ms": 179933,
+      "name": "Preciso Me Encontrar",
+      "url": "https://open.spotify.com/track/1op7nM2R2M6FAU6dSCTRWV"
     },
     {
       "added_at": "2026-11-20 03:01:03",
@@ -847,6 +847,26 @@
     {
       "added_at": "2026-11-20 03:01:03",
       "album": {
+        "name": "Itapuano",
+        "url": "https://open.spotify.com/album/4sbckdbcPaSoyBhSFvJaax"
+      },
+      "artists": [
+        {
+          "name": "C\u00e9zar Mendes",
+          "url": "https://open.spotify.com/artist/7qfp2YUHGZ6mgcJzk4iMIP"
+        },
+        {
+          "name": "Chico Buarque",
+          "url": "https://open.spotify.com/artist/6tOsSffQQIXmK8TqsDck8t"
+        }
+      ],
+      "duration_ms": 190991,
+      "name": "Tamb\u00e9m Pede Bis",
+      "url": "https://open.spotify.com/track/12WNxDkTfNOVy5qajaRn6T"
+    },
+    {
+      "added_at": "2026-11-20 03:01:03",
+      "album": {
         "name": "Mentiras (Ao Vivo)",
         "url": "https://open.spotify.com/album/7EIvnWGjG2cwm4amIuIpGf"
       },
@@ -887,26 +907,6 @@
       "duration_ms": 276013,
       "name": "Amigos Novos e Antigos",
       "url": "https://open.spotify.com/track/4lfemtNyGfHygcrF5C2tg4"
-    },
-    {
-      "added_at": "2026-11-20 03:01:03",
-      "album": {
-        "name": "Itapuano",
-        "url": "https://open.spotify.com/album/4sbckdbcPaSoyBhSFvJaax"
-      },
-      "artists": [
-        {
-          "name": "C\u00e9zar Mendes",
-          "url": "https://open.spotify.com/artist/7qfp2YUHGZ6mgcJzk4iMIP"
-        },
-        {
-          "name": "Chico Buarque",
-          "url": "https://open.spotify.com/artist/6tOsSffQQIXmK8TqsDck8t"
-        }
-      ],
-      "duration_ms": 190991,
-      "name": "Tamb\u00e9m Pede Bis",
-      "url": "https://open.spotify.com/track/12WNxDkTfNOVy5qajaRn6T"
     },
     {
       "added_at": "2026-11-20 03:01:03",

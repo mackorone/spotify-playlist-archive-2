@@ -1,12 +1,12 @@
 {
   "description": "",
-  "num_followers": 523,
+  "num_followers": 524,
   "original_name": "u pwetty",
   "owner": {
     "name": "CerVon Campbell",
     "url": "https://open.spotify.com/user/1275620579"
   },
-  "snapshot_id": "AAAWN/Qpkg89jx1BL/3Y0ZSLgWSydjdw",
+  "snapshot_id": "AAAWOG2bH4sdrTC6PphTGV6teht8q/O3",
   "tracks": [
     {
       "added_at": "2025-03-12 13:37:59",
@@ -5171,6 +5171,22 @@
       "duration_ms": 138461,
       "name": "One Night Glance",
       "url": "https://open.spotify.com/track/6frjxTxA4yHrNrifHlMSNL"
+    },
+    {
+      "added_at": "2026-11-24 14:48:26",
+      "album": {
+        "name": "Fl\u00fcchtlinge (Radio Edit)",
+        "url": "https://open.spotify.com/album/6XEsZm9oyuI3NN01NnFUVD"
+      },
+      "artists": [
+        {
+          "name": "The Parachute Testers",
+          "url": "https://open.spotify.com/artist/1PAxZHUziAlRgffxOonf9E"
+        }
+      ],
+      "duration_ms": 280122,
+      "name": "Fl\u00fcchtlinge - Radio Edit",
+      "url": "https://open.spotify.com/track/1ENK4X6NnxxdR0uIU0XwUI"
     }
   ],
   "unique_name": "u pwetty",

@@ -1,12 +1,12 @@
 {
   "description": "Grab your coffee and ease into the day with this light blend.",
-  "num_followers": 434454,
+  "num_followers": 434532,
   "original_name": "Morning Coffee",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAIwb9ujsFP4ii+R8x1Z+CoibINlO",
+  "snapshot_id": "AAAAAAIg3T7mbImIL4omxwprjjq5WvIH",
   "tracks": [
     {
       "added_at": "2026-10-07 15:36:18",
@@ -439,26 +439,6 @@
     {
       "added_at": "2026-10-07 15:36:18",
       "album": {
-        "name": "Oh My Messy Mind",
-        "url": "https://open.spotify.com/album/2aIsEIVLrAP75xdEhdVm1d"
-      },
-      "artists": [
-        {
-          "name": "James Bay",
-          "url": "https://open.spotify.com/artist/4EzkuveR9pLvDVFNx6foYD"
-        },
-        {
-          "name": "Julia Michaels",
-          "url": "https://open.spotify.com/artist/0ZED1XzwlLHW4ZaG4lOT6m"
-        }
-      ],
-      "duration_ms": 176826,
-      "name": "Peer Pressure",
-      "url": "https://open.spotify.com/track/4RE3vueod5PL48rvHtuu9C"
-    },
-    {
-      "added_at": "2026-10-07 15:36:18",
-      "album": {
         "name": "She Calls Me Back (with Kacey Musgraves)",
         "url": "https://open.spotify.com/album/6XPbfNCiFWlz1Licn4IEHz"
       },
@@ -475,6 +455,26 @@
       "duration_ms": 243962,
       "name": "She Calls Me Back (with Kacey Musgraves)",
       "url": "https://open.spotify.com/track/0p1hBWPaSxUDTSa32PyhnU"
+    },
+    {
+      "added_at": "2026-10-07 15:36:18",
+      "album": {
+        "name": "Oh My Messy Mind",
+        "url": "https://open.spotify.com/album/2aIsEIVLrAP75xdEhdVm1d"
+      },
+      "artists": [
+        {
+          "name": "James Bay",
+          "url": "https://open.spotify.com/artist/4EzkuveR9pLvDVFNx6foYD"
+        },
+        {
+          "name": "Julia Michaels",
+          "url": "https://open.spotify.com/artist/0ZED1XzwlLHW4ZaG4lOT6m"
+        }
+      ],
+      "duration_ms": 176826,
+      "name": "Peer Pressure",
+      "url": "https://open.spotify.com/track/4RE3vueod5PL48rvHtuu9C"
     },
     {
       "added_at": "2026-10-07 15:36:18",
@@ -851,6 +851,22 @@
     {
       "added_at": "2026-10-07 15:36:18",
       "album": {
+        "name": "That Was Yesterday",
+        "url": "https://open.spotify.com/album/2GYGaipOwfLGveAF3ta6Iv"
+      },
+      "artists": [
+        {
+          "name": "Leon Bridges",
+          "url": "https://open.spotify.com/artist/3qnGvpP8Yth1AqSBMqON5x"
+        }
+      ],
+      "duration_ms": 230013,
+      "name": "That Was Yesterday",
+      "url": "https://open.spotify.com/track/3gwfEBrFpzEFCZMjw7mqxA"
+    },
+    {
+      "added_at": "2026-10-07 15:36:18",
+      "album": {
         "name": "Foolish",
         "url": "https://open.spotify.com/album/460TrK0D9edU86CAKWJu3x"
       },
@@ -867,18 +883,18 @@
     {
       "added_at": "2026-10-07 15:36:18",
       "album": {
-        "name": "That Was Yesterday",
-        "url": "https://open.spotify.com/album/2GYGaipOwfLGveAF3ta6Iv"
+        "name": "Tearing At The Seams",
+        "url": "https://open.spotify.com/album/6d0PPZVxoyKN3VlFrzsKYp"
       },
       "artists": [
         {
-          "name": "Leon Bridges",
-          "url": "https://open.spotify.com/artist/3qnGvpP8Yth1AqSBMqON5x"
+          "name": "Nathaniel Rateliff & The Night Sweats",
+          "url": "https://open.spotify.com/artist/02seUFsFQP7TH4hLrTj77o"
         }
       ],
-      "duration_ms": 230013,
-      "name": "That Was Yesterday",
-      "url": "https://open.spotify.com/track/3gwfEBrFpzEFCZMjw7mqxA"
+      "duration_ms": 240666,
+      "name": "Hey Mama",
+      "url": "https://open.spotify.com/track/71DxoKxpHcW8iaYNczwGi3"
     },
     {
       "added_at": "2026-10-07 15:36:18",
@@ -899,18 +915,18 @@
     {
       "added_at": "2026-10-07 15:36:18",
       "album": {
-        "name": "Tearing At The Seams",
-        "url": "https://open.spotify.com/album/6d0PPZVxoyKN3VlFrzsKYp"
+        "name": "Brush Fire",
+        "url": "https://open.spotify.com/album/0q9LcQHXp9DuszlWNJZoLB"
       },
       "artists": [
         {
-          "name": "Nathaniel Rateliff & The Night Sweats",
-          "url": "https://open.spotify.com/artist/02seUFsFQP7TH4hLrTj77o"
+          "name": "Gracie Abrams",
+          "url": "https://open.spotify.com/artist/4tuJ0bMpJh08umKkEXKUI5"
         }
       ],
-      "duration_ms": 240666,
-      "name": "Hey Mama",
-      "url": "https://open.spotify.com/track/71DxoKxpHcW8iaYNczwGi3"
+      "duration_ms": 190426,
+      "name": "Brush Fire",
+      "url": "https://open.spotify.com/track/4jp8ragG1fHm1eucECebYF"
     },
     {
       "added_at": "2026-10-07 15:36:18",
@@ -943,22 +959,6 @@
       "duration_ms": 298935,
       "name": "Redemption",
       "url": "https://open.spotify.com/track/7sJIqdSLw7lvQUsX2NOxJB"
-    },
-    {
-      "added_at": "2026-10-07 15:36:18",
-      "album": {
-        "name": "Brush Fire",
-        "url": "https://open.spotify.com/album/0q9LcQHXp9DuszlWNJZoLB"
-      },
-      "artists": [
-        {
-          "name": "Gracie Abrams",
-          "url": "https://open.spotify.com/artist/4tuJ0bMpJh08umKkEXKUI5"
-        }
-      ],
-      "duration_ms": 190426,
-      "name": "Brush Fire",
-      "url": "https://open.spotify.com/track/4jp8ragG1fHm1eucECebYF"
     },
     {
       "added_at": "2026-10-07 15:36:18",
@@ -1059,22 +1059,6 @@
     {
       "added_at": "2026-10-07 15:36:18",
       "album": {
-        "name": "Hell Freezes Over (Remaster 2018)",
-        "url": "https://open.spotify.com/album/2Tz88LCwtg5sli8x2YjJyF"
-      },
-      "artists": [
-        {
-          "name": "Eagles",
-          "url": "https://open.spotify.com/artist/0ECwFtbIWEVNwjlrfc6xoL"
-        }
-      ],
-      "duration_ms": 268880,
-      "name": "Learn To Be Still",
-      "url": "https://open.spotify.com/track/5POu9RspR7sR9zD5m6ZZkJ"
-    },
-    {
-      "added_at": "2026-10-07 15:36:18",
-      "album": {
         "name": "Deep End",
         "url": "https://open.spotify.com/album/4nbcHRQuErLlToxQWa9eRc"
       },
@@ -1087,6 +1071,22 @@
       "duration_ms": 171662,
       "name": "Deep End",
       "url": "https://open.spotify.com/track/3DXEbjIftmPeBj638CxyJD"
+    },
+    {
+      "added_at": "2026-10-07 15:36:18",
+      "album": {
+        "name": "Hell Freezes Over (Remaster 2018)",
+        "url": "https://open.spotify.com/album/2Tz88LCwtg5sli8x2YjJyF"
+      },
+      "artists": [
+        {
+          "name": "Eagles",
+          "url": "https://open.spotify.com/artist/0ECwFtbIWEVNwjlrfc6xoL"
+        }
+      ],
+      "duration_ms": 268880,
+      "name": "Learn To Be Still",
+      "url": "https://open.spotify.com/track/5POu9RspR7sR9zD5m6ZZkJ"
     },
     {
       "added_at": "2026-10-07 15:36:18",
@@ -1211,6 +1211,22 @@
     {
       "added_at": "2026-10-07 15:36:18",
       "album": {
+        "name": "Spotify Singles",
+        "url": "https://open.spotify.com/album/79Eaui1AldvjTjHIY7V6vu"
+      },
+      "artists": [
+        {
+          "name": "Ray LaMontagne",
+          "url": "https://open.spotify.com/artist/6DoH7ywD5BcQvjloe9OcIj"
+        }
+      ],
+      "duration_ms": 307534,
+      "name": "Such A Simple Thing - Recorded at Sound Stage Studios Nashville",
+      "url": "https://open.spotify.com/track/1xYMyM7MxFi4OuzDA2op9Q"
+    },
+    {
+      "added_at": "2026-10-07 15:36:18",
+      "album": {
         "name": "Turning Onto You (HNNY Remix)",
         "url": "https://open.spotify.com/album/3GJkWCJPr1egPYRDXaQcE2"
       },
@@ -1227,22 +1243,6 @@
       "duration_ms": 210013,
       "name": "Turning Onto You - HNNY Remix",
       "url": "https://open.spotify.com/track/38hxhxzCWO8ffzhdY57pBM"
-    },
-    {
-      "added_at": "2026-10-07 15:36:18",
-      "album": {
-        "name": "Spotify Singles",
-        "url": "https://open.spotify.com/album/79Eaui1AldvjTjHIY7V6vu"
-      },
-      "artists": [
-        {
-          "name": "Ray LaMontagne",
-          "url": "https://open.spotify.com/artist/6DoH7ywD5BcQvjloe9OcIj"
-        }
-      ],
-      "duration_ms": 307534,
-      "name": "Such A Simple Thing - Recorded at Sound Stage Studios Nashville",
-      "url": "https://open.spotify.com/track/1xYMyM7MxFi4OuzDA2op9Q"
     },
     {
       "added_at": "2026-10-07 15:36:18",
@@ -1279,22 +1279,6 @@
     {
       "added_at": "2026-10-07 15:36:18",
       "album": {
-        "name": "You In My Life",
-        "url": "https://open.spotify.com/album/4VAyFHlTN3wS2I04RGcKj5"
-      },
-      "artists": [
-        {
-          "name": "Ed Patrick",
-          "url": "https://open.spotify.com/artist/3LE4OOntA2Yq3x1TTuQURx"
-        }
-      ],
-      "duration_ms": 217293,
-      "name": "You In My Life",
-      "url": "https://open.spotify.com/track/0xVQa1rlcbYtemV7TezzZJ"
-    },
-    {
-      "added_at": "2026-10-07 15:36:18",
-      "album": {
         "name": "Spotify Singles",
         "url": "https://open.spotify.com/album/3pTs60Mj7DSSseycisLJxf"
       },
@@ -1307,6 +1291,22 @@
       "duration_ms": 309359,
       "name": "re: Stacks - Spotify Singles",
       "url": "https://open.spotify.com/track/6X6fJzF0BGbUk6mhqNvgZZ"
+    },
+    {
+      "added_at": "2026-10-07 15:36:18",
+      "album": {
+        "name": "You In My Life",
+        "url": "https://open.spotify.com/album/4VAyFHlTN3wS2I04RGcKj5"
+      },
+      "artists": [
+        {
+          "name": "Ed Patrick",
+          "url": "https://open.spotify.com/artist/3LE4OOntA2Yq3x1TTuQURx"
+        }
+      ],
+      "duration_ms": 217293,
+      "name": "You In My Life",
+      "url": "https://open.spotify.com/track/0xVQa1rlcbYtemV7TezzZJ"
     },
     {
       "added_at": "2026-10-07 15:36:18",
@@ -1367,22 +1367,6 @@
     {
       "added_at": "2026-10-07 15:36:18",
       "album": {
-        "name": "You And I (Moon And Stars / Acoustic)",
-        "url": "https://open.spotify.com/album/2U3hbvwpQPFlRexqPBNV1C"
-      },
-      "artists": [
-        {
-          "name": "Valerie June",
-          "url": "https://open.spotify.com/artist/4QZdOCb3UacKbQ1ybDFAKM"
-        }
-      ],
-      "duration_ms": 200000,
-      "name": "You And I - Moon And Stars / Acoustic",
-      "url": "https://open.spotify.com/track/5E87q3c0yZ5n5m2Fuq2RMZ"
-    },
-    {
-      "added_at": "2026-10-07 15:36:18",
-      "album": {
         "name": "Don't Put It All On Me (feat. Fleet Foxes)",
         "url": "https://open.spotify.com/album/2oj7wFuIFkVPcUENYjkS9U"
       },
@@ -1399,6 +1383,22 @@
       "duration_ms": 247306,
       "name": "Don't Put It All On Me (feat. Fleet Foxes)",
       "url": "https://open.spotify.com/track/4xZK9tK3N0aOIO18k1Ldul"
+    },
+    {
+      "added_at": "2026-10-07 15:36:18",
+      "album": {
+        "name": "You And I (Moon And Stars / Acoustic)",
+        "url": "https://open.spotify.com/album/2U3hbvwpQPFlRexqPBNV1C"
+      },
+      "artists": [
+        {
+          "name": "Valerie June",
+          "url": "https://open.spotify.com/artist/4QZdOCb3UacKbQ1ybDFAKM"
+        }
+      ],
+      "duration_ms": 200000,
+      "name": "You And I - Moon And Stars / Acoustic",
+      "url": "https://open.spotify.com/track/5E87q3c0yZ5n5m2Fuq2RMZ"
     },
     {
       "added_at": "2026-10-07 15:36:18",
@@ -1551,22 +1551,6 @@
     {
       "added_at": "2026-10-07 15:36:18",
       "album": {
-        "name": "Gonna Be Alright",
-        "url": "https://open.spotify.com/album/00p8obmJfzvDLXACx2VNVn"
-      },
-      "artists": [
-        {
-          "name": "Samuel Jack",
-          "url": "https://open.spotify.com/artist/78rEst9B8h5utylmzIoUgb"
-        }
-      ],
-      "duration_ms": 194237,
-      "name": "Gonna Be Alright",
-      "url": "https://open.spotify.com/track/1si9NdGIgzOvt9iutjL7G3"
-    },
-    {
-      "added_at": "2026-10-07 15:36:18",
-      "album": {
         "name": "Lucy",
         "url": "https://open.spotify.com/album/2241CnrLPBaerawjf6vPFa"
       },
@@ -1579,6 +1563,22 @@
       "duration_ms": 218151,
       "name": "Lucy",
       "url": "https://open.spotify.com/track/6O1vElqf77upV8az275UZs"
+    },
+    {
+      "added_at": "2026-10-07 15:36:18",
+      "album": {
+        "name": "Gonna Be Alright",
+        "url": "https://open.spotify.com/album/00p8obmJfzvDLXACx2VNVn"
+      },
+      "artists": [
+        {
+          "name": "Samuel Jack",
+          "url": "https://open.spotify.com/artist/78rEst9B8h5utylmzIoUgb"
+        }
+      ],
+      "duration_ms": 194237,
+      "name": "Gonna Be Alright",
+      "url": "https://open.spotify.com/track/1si9NdGIgzOvt9iutjL7G3"
     },
     {
       "added_at": "2026-10-07 15:36:18",
@@ -1875,22 +1875,6 @@
     {
       "added_at": "2026-10-07 15:36:18",
       "album": {
-        "name": "would you call me up?",
-        "url": "https://open.spotify.com/album/6sq8d7ejYstY6hhWByEIXs"
-      },
-      "artists": [
-        {
-          "name": "Jon Bryant",
-          "url": "https://open.spotify.com/artist/2gzH4rGNFJeNg13yv2uI4L"
-        }
-      ],
-      "duration_ms": 251504,
-      "name": "would you call me up?",
-      "url": "https://open.spotify.com/track/5HGQR6WBelocGIuDKTNCxM"
-    },
-    {
-      "added_at": "2026-10-07 15:36:18",
-      "album": {
         "name": "Wild Honey (Acoustic)",
         "url": "https://open.spotify.com/album/5tINqKaSnJLJfQZhMWmkO9"
       },
@@ -1903,6 +1887,22 @@
       "duration_ms": 247250,
       "name": "Wild Honey (Acoustic)",
       "url": "https://open.spotify.com/track/5yP0mhRJkEEzGlCQLyC9Mn"
+    },
+    {
+      "added_at": "2026-10-07 15:36:18",
+      "album": {
+        "name": "would you call me up?",
+        "url": "https://open.spotify.com/album/6sq8d7ejYstY6hhWByEIXs"
+      },
+      "artists": [
+        {
+          "name": "Jon Bryant",
+          "url": "https://open.spotify.com/artist/2gzH4rGNFJeNg13yv2uI4L"
+        }
+      ],
+      "duration_ms": 251504,
+      "name": "would you call me up?",
+      "url": "https://open.spotify.com/track/5HGQR6WBelocGIuDKTNCxM"
     },
     {
       "added_at": "2026-10-07 15:36:18",
@@ -2515,22 +2515,6 @@
     {
       "added_at": "2026-10-07 15:36:18",
       "album": {
-        "name": "Spotify Singles",
-        "url": "https://open.spotify.com/album/567rqOb89dfo0lvj72Esnp"
-      },
-      "artists": [
-        {
-          "name": "Calum Scott",
-          "url": "https://open.spotify.com/artist/6ydoSd3N2mwgwBHtF6K7eX"
-        }
-      ],
-      "duration_ms": 226957,
-      "name": "Rhythm Inside - Recorded At Spotify Studios NYC",
-      "url": "https://open.spotify.com/track/5YsocYoe3DGrh3EBJb5gTU"
-    },
-    {
-      "added_at": "2026-10-07 15:36:18",
-      "album": {
         "name": "Falling in Love",
         "url": "https://open.spotify.com/album/5UcEl0EyV0MfNJsJAQLKru"
       },
@@ -2543,6 +2527,22 @@
       "duration_ms": 204549,
       "name": "Falling in Love",
       "url": "https://open.spotify.com/track/2VQ86zc6pRjhvZFCs3QGKP"
+    },
+    {
+      "added_at": "2026-10-07 15:36:18",
+      "album": {
+        "name": "Spotify Singles",
+        "url": "https://open.spotify.com/album/567rqOb89dfo0lvj72Esnp"
+      },
+      "artists": [
+        {
+          "name": "Calum Scott",
+          "url": "https://open.spotify.com/artist/6ydoSd3N2mwgwBHtF6K7eX"
+        }
+      ],
+      "duration_ms": 226957,
+      "name": "Rhythm Inside - Recorded At Spotify Studios NYC",
+      "url": "https://open.spotify.com/track/5YsocYoe3DGrh3EBJb5gTU"
     },
     {
       "added_at": "2026-10-07 15:36:18",
@@ -2735,6 +2735,22 @@
     {
       "added_at": "2026-10-07 15:36:18",
       "album": {
+        "name": "Love To Love You",
+        "url": "https://open.spotify.com/album/3zQUpu75HI0zMSFB4g5mog"
+      },
+      "artists": [
+        {
+          "name": "The Lagoons",
+          "url": "https://open.spotify.com/artist/3oK9o2DLbk1VEda7KOMotd"
+        }
+      ],
+      "duration_ms": 159190,
+      "name": "Love To Love You",
+      "url": "https://open.spotify.com/track/3Xhn8Im10ctTVFkCMrUD1M"
+    },
+    {
+      "added_at": "2026-10-07 15:36:18",
+      "album": {
         "name": "Hold Space (Live Acoustic)",
         "url": "https://open.spotify.com/album/5WVojDixFdPVRiiGq976S5"
       },
@@ -2751,22 +2767,6 @@
       "duration_ms": 193432,
       "name": "Hold Space - Live Acoustic",
       "url": "https://open.spotify.com/track/3Eyis5vCi3NfeQktrFtSwU"
-    },
-    {
-      "added_at": "2026-10-07 15:36:18",
-      "album": {
-        "name": "Love To Love You",
-        "url": "https://open.spotify.com/album/3zQUpu75HI0zMSFB4g5mog"
-      },
-      "artists": [
-        {
-          "name": "The Lagoons",
-          "url": "https://open.spotify.com/artist/3oK9o2DLbk1VEda7KOMotd"
-        }
-      ],
-      "duration_ms": 159190,
-      "name": "Love To Love You",
-      "url": "https://open.spotify.com/track/3Xhn8Im10ctTVFkCMrUD1M"
     },
     {
       "added_at": "2026-10-07 15:36:18",
@@ -3051,22 +3051,6 @@
     {
       "added_at": "2026-10-07 15:36:18",
       "album": {
-        "name": "Mud Blood Bone",
-        "url": "https://open.spotify.com/album/6eT5qu4VM8hXFm2uJ1JiQU"
-      },
-      "artists": [
-        {
-          "name": "Cat Clyde",
-          "url": "https://open.spotify.com/artist/7oRT0oC3vhUGQJCL6CYYzk"
-        }
-      ],
-      "duration_ms": 195314,
-      "name": "Hold My Hand",
-      "url": "https://open.spotify.com/track/1fSj1wldqrtSdZvTrvBZkq"
-    },
-    {
-      "added_at": "2026-10-07 15:36:18",
-      "album": {
         "name": "Starfire",
         "url": "https://open.spotify.com/album/0AwyOQYwqrVYA0owehyAIB"
       },
@@ -3079,6 +3063,22 @@
       "duration_ms": 190057,
       "name": "Cheap Date",
       "url": "https://open.spotify.com/track/4HLNo8wZoxWejkPY9W59J4"
+    },
+    {
+      "added_at": "2026-10-07 15:36:18",
+      "album": {
+        "name": "Mud Blood Bone",
+        "url": "https://open.spotify.com/album/6eT5qu4VM8hXFm2uJ1JiQU"
+      },
+      "artists": [
+        {
+          "name": "Cat Clyde",
+          "url": "https://open.spotify.com/artist/7oRT0oC3vhUGQJCL6CYYzk"
+        }
+      ],
+      "duration_ms": 195314,
+      "name": "Hold My Hand",
+      "url": "https://open.spotify.com/track/1fSj1wldqrtSdZvTrvBZkq"
     },
     {
       "added_at": "2026-10-07 15:36:18",
@@ -3179,22 +3179,6 @@
     {
       "added_at": "2026-10-07 15:36:18",
       "album": {
-        "name": "Peach Sky",
-        "url": "https://open.spotify.com/album/2LfKD41S5iuCa6iiT7XM5x"
-      },
-      "artists": [
-        {
-          "name": "Theo Bleak",
-          "url": "https://open.spotify.com/artist/1P7Y9mc5VzxlEeo15JpNAk"
-        }
-      ],
-      "duration_ms": 181806,
-      "name": "Peach Sky",
-      "url": "https://open.spotify.com/track/5wT6tIjnF3wM8fBHfUr4V7"
-    },
-    {
-      "added_at": "2026-10-07 15:36:18",
-      "album": {
         "name": "GIRL",
         "url": "https://open.spotify.com/album/3XpxioqzCTiqOSuHTXuaGf"
       },
@@ -3207,6 +3191,22 @@
       "duration_ms": 240958,
       "name": "Just for Now",
       "url": "https://open.spotify.com/track/0B0Kv1dO7clBuDwZMO0dxP"
+    },
+    {
+      "added_at": "2026-10-07 15:36:18",
+      "album": {
+        "name": "Peach Sky",
+        "url": "https://open.spotify.com/album/2LfKD41S5iuCa6iiT7XM5x"
+      },
+      "artists": [
+        {
+          "name": "Theo Bleak",
+          "url": "https://open.spotify.com/artist/1P7Y9mc5VzxlEeo15JpNAk"
+        }
+      ],
+      "duration_ms": 181806,
+      "name": "Peach Sky",
+      "url": "https://open.spotify.com/track/5wT6tIjnF3wM8fBHfUr4V7"
     },
     {
       "added_at": "2026-10-07 15:36:18",

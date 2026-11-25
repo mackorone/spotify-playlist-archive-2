@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7N7YskrtOXJ.md) - [plain]
 
 > La fiesta se enciende con cumbia.
 
-[Spotify](https://open.spotify.com/user/spotify) - 130,195 likes - 100 songs - 5 hr 55 min
+[Spotify](https://open.spotify.com/user/spotify) - 130,210 likes - 100 songs - 5 hr 55 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -37,21 +37,21 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7N7YskrtOXJ.md) - [plain]
 | 27 | [Su Florcita](https://open.spotify.com/track/558S2P5A4Ku4bnXheLaXeG) | [Agrupación Marilyn](https://open.spotify.com/artist/1dJfjAj2mnpKrGm8ldBjNG) | [Historias](https://open.spotify.com/album/1SEf8KBy0khQM5Hxrk9CYm) | 3:44 |
 | 28 | [La Vecina](https://open.spotify.com/track/1cs24klrqgJtj5MC4JHaMm) | [Amar Azul](https://open.spotify.com/artist/04TVfWdJWbfH0FOT2zA1Tg) | [Cumbia Nena](https://open.spotify.com/album/0bD7aJOQVENKQFq0ayzh9y) | 2:59 |
 | 29 | [Que Calor](https://open.spotify.com/track/6UhA9om01c39JQAT17rtQn) | [Supermerk2](https://open.spotify.com/artist/3coKfYwV0ppdzD65z1cu3i) | [La Lata](https://open.spotify.com/album/5FiOEoJn43wbtD6aqLrQqP) | 4:04 |
-| 30 | [Las Seis](https://open.spotify.com/track/56Q1u9KJUMcun4UWv0b7ik) | [Joe Vasconcellos](https://open.spotify.com/artist/4sGC7K2rSpWrWudBgYPMce) | [Toque](https://open.spotify.com/album/3fGKGJuofCLwmPzK2wLIxn) | 2:55 |
-| 31 | [Iluminará](https://open.spotify.com/track/76BnEV7y0FIyDodcCt9sxC) | [La Nueva Luna](https://open.spotify.com/artist/6pVmT18pd1QaofDegZUEKX) | [Grandes Éxitos Regrabados](https://open.spotify.com/album/7Hui8LAkH3zKpZMIztPYLr) | 4:02 |
+| 30 | [Iluminará](https://open.spotify.com/track/76BnEV7y0FIyDodcCt9sxC) | [La Nueva Luna](https://open.spotify.com/artist/6pVmT18pd1QaofDegZUEKX) | [Grandes Éxitos Regrabados](https://open.spotify.com/album/7Hui8LAkH3zKpZMIztPYLr) | 4:02 |
+| 31 | [Las Seis](https://open.spotify.com/track/56Q1u9KJUMcun4UWv0b7ik) | [Joe Vasconcellos](https://open.spotify.com/artist/4sGC7K2rSpWrWudBgYPMce) | [Toque](https://open.spotify.com/album/3fGKGJuofCLwmPzK2wLIxn) | 2:55 |
 | 32 | [Y Dime](https://open.spotify.com/track/5be0AiqAcjVqapIqvVeP38) | [Agrupación Marilyn](https://open.spotify.com/artist/1dJfjAj2mnpKrGm8ldBjNG) | [Historias](https://open.spotify.com/album/1SEf8KBy0khQM5Hxrk9CYm) | 3:15 |
 | 33 | [Yo Me Enamore](https://open.spotify.com/track/6pHggeQk3ZnOm10uAnsqAG) | [Amar Azul](https://open.spotify.com/artist/04TVfWdJWbfH0FOT2zA1Tg) | [Cumbia Nena](https://open.spotify.com/album/0bD7aJOQVENKQFq0ayzh9y) | 3:07 |
 | 34 | [Ya Te Olvidé](https://open.spotify.com/track/14wlPLPgWlPv42Y7G0YQ9y) | [Luis Lambis](https://open.spotify.com/artist/6ouwZ3vbVnP5WIwEMurzJ5) | [Fiesta a la Colombiana](https://open.spotify.com/album/7JYeyBox4EWUvB6Wl8CHnj) | 3:44 |
 | 35 | [Que calor](https://open.spotify.com/track/0RDDMvevLZkkBhAHP2mNpb) | [Los Pibes Chorros](https://open.spotify.com/artist/3TINnlLcMBQA88OoalsvYR) | [Pibes Chorros \- Criando Cuervos](https://open.spotify.com/album/4nMOd2K00P2kLWJj8FyFOs) | 3:45 |
-| 36 | [Quiero Ser Libre](https://open.spotify.com/track/5IYYyNV4ly1IFNBFLQO6ge) | [La Noche](https://open.spotify.com/artist/74RYbbIHke18VFvcsP2iD9) | [En Tu Cuarto](https://open.spotify.com/album/1gxuJDFiKPibw5TAZ9NXqJ) | 3:40 |
+| 36 | [Se Te Ve la Tanga](https://open.spotify.com/track/3GUMMzUB7Kk0BSqxEDyieS) | [Damas Gratis](https://open.spotify.com/artist/3YeBTR1Q1rUxKguz4jP6UV) | [El Bonaerense](https://open.spotify.com/album/5A0jz6qj9yuxVpQxahbC0x) | 4:23 |
 | 37 | [Bonita](https://open.spotify.com/track/2ndfn8f7o94Y33HPcWjyay) | [Agrupación Marilyn](https://open.spotify.com/artist/1dJfjAj2mnpKrGm8ldBjNG) | [Hecho con Amor](https://open.spotify.com/album/7M8zzURI76D1gAX5M0o0bl) | 3:22 |
-| 38 | [Se Te Ve la Tanga](https://open.spotify.com/track/3GUMMzUB7Kk0BSqxEDyieS) | [Damas Gratis](https://open.spotify.com/artist/3YeBTR1Q1rUxKguz4jP6UV) | [El Bonaerense](https://open.spotify.com/album/5A0jz6qj9yuxVpQxahbC0x) | 4:23 |
-| 39 | [Ya llegó el sabor](https://open.spotify.com/track/5BG9WgcEpgdC8dLZIA8CTj) | [La Cumbia](https://open.spotify.com/artist/1JBqDQ2nqzGdgOEv7f4Gev) | [Sa, Za...Sabor](https://open.spotify.com/album/1FEdWlYk1Sncb8j3WJTO06) | 3:37 |
-| 40 | [Una Calle Nos Separa](https://open.spotify.com/track/1TvjOTe5HcnzxnlvQ8JRy8) | [Nestor En Bloque](https://open.spotify.com/artist/2to8xMgnoxHCXPF7eWJPvg) | [Mi Único Amor](https://open.spotify.com/album/1bc0MLEqmNIXBPrSwkyN2j) | 3:34 |
-| 41 | [Lástima](https://open.spotify.com/track/2ndgJ8HW0gqQnJwKUCJdm6) | [La Noche](https://open.spotify.com/artist/74RYbbIHke18VFvcsP2iD9) | [Amor Entre Sábanas](https://open.spotify.com/album/0TKpSJvxQTxePOFcN9Tj50) | 3:39 |
-| 42 | [Te Vi](https://open.spotify.com/track/0Czh7yRIgkTJfM9Ju4QY88) | [La Banda De Lechuga](https://open.spotify.com/artist/4fILEHnYOJmHI2Z1VhuWLZ) | [Sueño Cumplido](https://open.spotify.com/album/1gF6aBVQUo0kf76juna4fz) | 3:10 |
-| 43 | [Gotitas](https://open.spotify.com/track/2hVciOpMaH3ZkXHUjn4mS6) | [Garras de Amor](https://open.spotify.com/artist/6kcdJiENvD273QC9rFoP5a) | [Te Mueve](https://open.spotify.com/album/4eRQmsu8YLnY629lHyDlda) | 3:22 |
-| 44 | [Mirá Como Está La Vagancia](https://open.spotify.com/track/5CmYHW6tHT8tPbLef7mjBP) | [Damas Gratis](https://open.spotify.com/artist/3YeBTR1Q1rUxKguz4jP6UV) | [Sin Remedio](https://open.spotify.com/album/3C7wJlpB5i90gaL1XBvwcT) | 4:59 |
+| 38 | [Quiero Ser Libre](https://open.spotify.com/track/5IYYyNV4ly1IFNBFLQO6ge) | [La Noche](https://open.spotify.com/artist/74RYbbIHke18VFvcsP2iD9) | [En Tu Cuarto](https://open.spotify.com/album/1gxuJDFiKPibw5TAZ9NXqJ) | 3:40 |
+| 39 | [Una Calle Nos Separa](https://open.spotify.com/track/1TvjOTe5HcnzxnlvQ8JRy8) | [Nestor En Bloque](https://open.spotify.com/artist/2to8xMgnoxHCXPF7eWJPvg) | [Mi Único Amor](https://open.spotify.com/album/1bc0MLEqmNIXBPrSwkyN2j) | 3:34 |
+| 40 | [Ya llegó el sabor](https://open.spotify.com/track/5BG9WgcEpgdC8dLZIA8CTj) | [La Cumbia](https://open.spotify.com/artist/1JBqDQ2nqzGdgOEv7f4Gev) | [Sa, Za...Sabor](https://open.spotify.com/album/1FEdWlYk1Sncb8j3WJTO06) | 3:37 |
+| 41 | [Te Vi](https://open.spotify.com/track/0Czh7yRIgkTJfM9Ju4QY88) | [La Banda De Lechuga](https://open.spotify.com/artist/4fILEHnYOJmHI2Z1VhuWLZ) | [Sueño Cumplido](https://open.spotify.com/album/1gF6aBVQUo0kf76juna4fz) | 3:10 |
+| 42 | [Mirá Como Está La Vagancia](https://open.spotify.com/track/5CmYHW6tHT8tPbLef7mjBP) | [Damas Gratis](https://open.spotify.com/artist/3YeBTR1Q1rUxKguz4jP6UV) | [Sin Remedio](https://open.spotify.com/album/3C7wJlpB5i90gaL1XBvwcT) | 4:59 |
+| 43 | [Lástima](https://open.spotify.com/track/2ndgJ8HW0gqQnJwKUCJdm6) | [La Noche](https://open.spotify.com/artist/74RYbbIHke18VFvcsP2iD9) | [Amor Entre Sábanas](https://open.spotify.com/album/0TKpSJvxQTxePOFcN9Tj50) | 3:39 |
+| 44 | [Gotitas](https://open.spotify.com/track/2hVciOpMaH3ZkXHUjn4mS6) | [Garras de Amor](https://open.spotify.com/artist/6kcdJiENvD273QC9rFoP5a) | [Te Mueve](https://open.spotify.com/album/4eRQmsu8YLnY629lHyDlda) | 3:22 |
 | 45 | [Le Hace Falta un Beso](https://open.spotify.com/track/2l6muDVPIFFw4egn7DeDjz) | [Luis Lambis](https://open.spotify.com/artist/6ouwZ3vbVnP5WIwEMurzJ5) | [Fiesta a la Colombiana](https://open.spotify.com/album/7JYeyBox4EWUvB6Wl8CHnj) | 3:53 |
 | 46 | [Entre el Odio y el Amor](https://open.spotify.com/track/1TmHJBYmcbLzUCpJbYCfRp) | [Américo](https://open.spotify.com/artist/6eUAVH8tSq8WSJGPLeDN9c) | [A Morir](https://open.spotify.com/album/5zlUl4R0tqxC6GUlYemOZy) | 3:52 |
 | 47 | [Supermandoneao](https://open.spotify.com/track/3gS8gNb2W5h89cYsGTpyev) | [Sonora 5 Estrellas](https://open.spotify.com/artist/0oGbFTtR8UqMpgDFLpFKc1) | [Cumbia E' Plaza](https://open.spotify.com/album/1GIrK9JtY36HaNnixqCzDj) | 4:32 |
@@ -96,8 +96,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7N7YskrtOXJ.md) - [plain]
 | 86 | [La Diabla](https://open.spotify.com/track/2c9TribYylkXZRuUVNuNEy) | [Toma 2](https://open.spotify.com/artist/4R8tEiRjYy5OkYzDM2u097), [Los Wachiturros](https://open.spotify.com/artist/1LUSs33lIrjmo5XTgX6Yoo), [1 de kal](https://open.spotify.com/artist/25S9QqOslbH6r8cvnP3WY1), [El Adri Music](https://open.spotify.com/artist/0meQtjreUHEscunPE1xSb5) | [La Diabla](https://open.spotify.com/album/54yV9x0FxfEVmZPwPysUOo) | 2:39 |
 | 87 | [Sigo Enamorado de Ti](https://open.spotify.com/track/58GV7Ukem6jhvnTv5u9YIQ) | [La Liga](https://open.spotify.com/artist/0WG7v7wcDK5ZsUHjnZo9E6), [A Su Manera](https://open.spotify.com/artist/0ZWg0OhnFL02qbG9fIVLbZ) | [Sigo Enamorado de Ti](https://open.spotify.com/album/6marjqP7dKhR7yrkTLECOr) | 2:51 |
 | 88 | [Rompi](https://open.spotify.com/track/7mukVrTuo5b3SOBWaA8F5P) | [Brian Lanzelotta](https://open.spotify.com/artist/6SV6TCY7KVVWmAhnX5WnS3), [Santi y lo que faltaba](https://open.spotify.com/artist/521DJ1K79j3pQ47dfAAtmN) | [Rompi](https://open.spotify.com/album/3rogzlBO7odVe65Vr8fv78) | 3:13 |
-| 89 | [¿Cómo Te Explico?](https://open.spotify.com/track/3SKg1RSmLkyV81MU7DFIcY) | [Baketha](https://open.spotify.com/artist/5EnlVsNjGwBWWexlQoO1sX), [Pushi](https://open.spotify.com/artist/1l6UgL5G16tId4qoYH8qJn) | [¿Cómo Te Explico?](https://open.spotify.com/album/7xYBX4ndfTPCfLzpuIwJoK) | 3:09 |
-| 90 | [Hermano Mio](https://open.spotify.com/track/5bVUbOMOQfG9uXnN7c9AKk) | [Los Kachorros](https://open.spotify.com/artist/7hFe2cAs691Jb0Pxvb2yad) | [Con Paso Firme](https://open.spotify.com/album/3UHCJyfAEAXcc7CrR2OWvZ) | 3:54 |
+| 89 | [Hermano Mio](https://open.spotify.com/track/5bVUbOMOQfG9uXnN7c9AKk) | [Los Kachorros](https://open.spotify.com/artist/7hFe2cAs691Jb0Pxvb2yad) | [Con Paso Firme](https://open.spotify.com/album/3UHCJyfAEAXcc7CrR2OWvZ) | 3:54 |
+| 90 | [¿Cómo Te Explico?](https://open.spotify.com/track/3SKg1RSmLkyV81MU7DFIcY) | [Baketha](https://open.spotify.com/artist/5EnlVsNjGwBWWexlQoO1sX), [Pushi](https://open.spotify.com/artist/1l6UgL5G16tId4qoYH8qJn) | [¿Cómo Te Explico?](https://open.spotify.com/album/7xYBX4ndfTPCfLzpuIwJoK) | 3:09 |
 | 91 | [OJITOS ROJOS](https://open.spotify.com/track/11PV8CaPqlto9Uejx92C35) | [Grupo Frontera](https://open.spotify.com/artist/6XkjpgcEsYab502Vr1bBeW), [Ke Personajes](https://open.spotify.com/artist/06Q5VlSAku57lFzyME3HrM) | [El Comienzo](https://open.spotify.com/album/5i9lMMUZ1QZNsLEE3j50kT) | 3:41 |
 | 92 | [Quédate Aquí \- Remix](https://open.spotify.com/track/2U9Gb3oT3sZQL6nKN1R14d) | [Megapuesta](https://open.spotify.com/artist/2u70zmwJlNfRR89itoO8j2), [Cavish](https://open.spotify.com/artist/0rYomOIanqbClnK2orsZn5) | [Quédate Aquí \(Remix\)](https://open.spotify.com/album/1p3658ksvuSuUIUMVKLPE8) | 3:31 |
 | 93 | [Adiós Amor / Oye Mujer](https://open.spotify.com/track/0hvsOvo1zARlNnmHNhrxIF) | [Ke Personajes](https://open.spotify.com/artist/06Q5VlSAku57lFzyME3HrM) | [Adiós Amor / Oye Mujer](https://open.spotify.com/album/0BfSiRWo0RiAGhKowhcrxn) | 6:47 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7N7YskrtOXJ.md) - [plain]
 | 99 | [Megamix](https://open.spotify.com/track/4IaTGBLqlOee3S98dm4Zxx) | [Los Charros De Lumaco](https://open.spotify.com/artist/6diRAnbJMBmn4MXIS4IHYk) | [17 Hits](https://open.spotify.com/album/1rHbOwCoyYyoD116zagfP2) | 7:47 |
 | 100 | [La Cumbia De Los Trapos](https://open.spotify.com/track/3hFYJSfGQgEOXfMAHL30Tl) | [Yerba Brava](https://open.spotify.com/artist/7JRxvyluWYJ3M3ssmZrVs6) | [20 Grandes Exitos](https://open.spotify.com/album/3T7lpBIg7KxF3yVucAXsUj) | 4:11 |
 
-Snapshot ID: `AAAAAOS3HB6coB7oi9mg/qKslrutiMUx`
+Snapshot ID: `AAAAAMqiowPUnOucztb+XehoO8xU/59G`

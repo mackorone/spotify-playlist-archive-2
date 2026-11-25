@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2vYju3i0lNX.md) - [plain]
 
 > Mellow jazz for focus or unwinding.
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,075,468 likes - 220 songs - 12 hr 22 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,075,537 likes - 220 songs - 12 hr 22 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -229,4 +229,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2vYju3i0lNX.md) - [plain]
 | 219 | [Time Passes Quickly](https://open.spotify.com/track/2NsN8ak00vcXTEzymRT0RZ) | [Benjamin Davies](https://open.spotify.com/artist/1FQTVgIX9eb3eS8qK3vSiQ) | [Time Passes Quickly](https://open.spotify.com/album/3QC3utZMD4qR2aeSX6OOwX) | 3:31 |
 | 220 | [When We Used to Dance](https://open.spotify.com/track/5Id5aycj6xfkbsFnPPkGpM) | [Andy Goodman](https://open.spotify.com/artist/2zsZdG7rQdh5YDhxCSeVJi) | [When We Used to Dance](https://open.spotify.com/album/5n7kAGhnRuq6125wXayPR4) | 3:09 |
 
-Snapshot ID: `AAAAAFYbDSngupbNuXRGi8ztbjy/Svi4`
+Snapshot ID: `AAAAADPHKt9NH2+76DvMuroHmpr7i0jc`

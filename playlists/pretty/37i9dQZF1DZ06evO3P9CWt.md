@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3P9CWt.md) - [plain]
 
 > This is Pabllo Vittar\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 279,957 likes - 50 songs - 2 hr 20 min
+[Spotify](https://open.spotify.com/user/spotify) - 279,955 likes - 50 songs - 2 hr 20 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -26,11 +26,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3P9CWt.md) - [plain]
 | 16 | [Corpo Sensual \(feat\. Mateus Carrilho\)](https://open.spotify.com/track/4kkQGhScJDzNIIGavQE9SN) | [Pabllo Vittar](https://open.spotify.com/artist/6tzRZ39aZlNqlUzQlkuhDV), [Mateus Carrilho](https://open.spotify.com/artist/0TSMy9QFSMnBR2si7qZ0VT) | [Vai Passar Mal](https://open.spotify.com/album/2HTrcsRAZAfD28QdqNc2jT) | 2:50 |
 | 17 | [MEXE](https://open.spotify.com/track/43x4drok2kDJqm9dgRr685) | [Pabllo Vittar](https://open.spotify.com/artist/6tzRZ39aZlNqlUzQlkuhDV), [NMIXX](https://open.spotify.com/artist/28ot3wh4oNmoFOdVajibBl) | [MEXE](https://open.spotify.com/album/3pqOt29EZkGpqPHBfpPskX) | 2:26 |
 | 18 | [Fala Quem É](https://open.spotify.com/track/6tJvgq2imhqTdmDivVlefX) | [Anitta](https://open.spotify.com/artist/7FNnA9vBm6EKceENgCGRMb), [Marina Sena](https://open.spotify.com/artist/0nFdWpwl7h6fp3ADRyG14L), [Pabllo Vittar](https://open.spotify.com/artist/6tzRZ39aZlNqlUzQlkuhDV) | [Ensaios Da Anitta](https://open.spotify.com/album/6EkCnMeO4zOURLKlTKbl39) | 2:03 |
-| 19 | [FRIENDS WITH...](https://open.spotify.com/track/1tiFkvnbKIqabnR9aHqm6E) | [Pabllo Vittar](https://open.spotify.com/artist/6tzRZ39aZlNqlUzQlkuhDV) | [LOST IN LUST](https://open.spotify.com/album/5T0XGpHYAdQKJycz00qYIz) | 1:59 |
+| 19 | [ROCKSTAR](https://open.spotify.com/track/1ylXtdgjPCGaKAcbIgBElF) | [Pabllo Vittar](https://open.spotify.com/artist/6tzRZ39aZlNqlUzQlkuhDV), [Villano Antillano](https://open.spotify.com/artist/1pi7nGhOM7PTHR5YEgXVGq) | [LOST IN LUST](https://open.spotify.com/album/5T0XGpHYAdQKJycz00qYIz) | 2:28 |
 | 20 | [Seu Crime](https://open.spotify.com/track/220QqE38Qrmyrtyd5xqB8i) | [Pabllo Vittar](https://open.spotify.com/artist/6tzRZ39aZlNqlUzQlkuhDV) | [Não Para Não](https://open.spotify.com/album/7GRhzFj2BulxZBqqOMBdDe) | 2:34 |
 | 21 | [que delícia o verão](https://open.spotify.com/track/2yHWE0r9mqlLnIIMtASg7o) | [Marina Sena](https://open.spotify.com/artist/0nFdWpwl7h6fp3ADRyG14L), [Pabllo Vittar](https://open.spotify.com/artist/6tzRZ39aZlNqlUzQlkuhDV) | [que delícia o verão](https://open.spotify.com/album/6CkP6Rf62M3QtNVtQlgt7z) | 2:34 |
 | 22 | [VAMPIRA](https://open.spotify.com/track/53sU5FYujB8QaiH61RyQ5l) | [BUDAH](https://open.spotify.com/artist/08zSkHjCY3ypH4gdBVHWgO), [Pabllo Vittar](https://open.spotify.com/artist/6tzRZ39aZlNqlUzQlkuhDV) | [FREQUÊNCIA LUNAR](https://open.spotify.com/album/3qbfxWGIF45fv8btLzrsDR) | 2:50 |
-| 23 | [ROCKSTAR](https://open.spotify.com/track/1ylXtdgjPCGaKAcbIgBElF) | [Pabllo Vittar](https://open.spotify.com/artist/6tzRZ39aZlNqlUzQlkuhDV), [Villano Antillano](https://open.spotify.com/artist/1pi7nGhOM7PTHR5YEgXVGq) | [LOST IN LUST](https://open.spotify.com/album/5T0XGpHYAdQKJycz00qYIz) | 2:28 |
+| 23 | [FRIENDS WITH...](https://open.spotify.com/track/1tiFkvnbKIqabnR9aHqm6E) | [Pabllo Vittar](https://open.spotify.com/artist/6tzRZ39aZlNqlUzQlkuhDV) | [LOST IN LUST](https://open.spotify.com/album/5T0XGpHYAdQKJycz00qYIz) | 1:59 |
 | 24 | [São Amores](https://open.spotify.com/track/7cj3mQ5XeEQq8Zfa1O5CXB) | [Pabllo Vittar](https://open.spotify.com/artist/6tzRZ39aZlNqlUzQlkuhDV) | [Batidão Tropical Vol\. 2](https://open.spotify.com/album/7taQQZWIVcnHK6spr9N21l) | 2:55 |
 | 25 | [SAL](https://open.spotify.com/track/4b5rbmik2mSrGo8IvjDUUp) | [PEDRO SAMPAIO](https://open.spotify.com/artist/5wbf52LA6kcaboHSN6NEF1), [Pabllo Vittar](https://open.spotify.com/artist/6tzRZ39aZlNqlUzQlkuhDV) | [SAL](https://open.spotify.com/album/2QhW0MWqMoUENkeL2CFSXE) | 2:00 |
 | 26 | [A Ceia](https://open.spotify.com/track/3fk20rAk1r0sD4KDh3Ws07) | [Pabllo Vittar](https://open.spotify.com/artist/6tzRZ39aZlNqlUzQlkuhDV), [DUPÊ](https://open.spotify.com/artist/33Ol2AOgNFyAlhIZXQmPEm) | [Prazer, Mamãe Noel](https://open.spotify.com/album/3N9ANUKLXnxmyff9xG9UqB) | 2:52 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3P9CWt.md) - [plain]
 | 49 | [Parabéns](https://open.spotify.com/track/3mikf8qZaNp6wrrWxHgawH) | [Pabllo Vittar](https://open.spotify.com/artist/6tzRZ39aZlNqlUzQlkuhDV), [Psirico](https://open.spotify.com/artist/20L3gYREq24KddkFreyiNv) | [111](https://open.spotify.com/album/67rOBOMZsXiQwoPpZbnC8b) | 2:16 |
 | 50 | [Falta Coragem](https://open.spotify.com/track/2Ai0zPyvWl5BWpdv5YVguy) | [Pabllo Vittar](https://open.spotify.com/artist/6tzRZ39aZlNqlUzQlkuhDV), [Taty Girl](https://open.spotify.com/artist/3vvHdmRO7G0C3sWP5mHxDE) | [Batidão Tropical Vol\. 2](https://open.spotify.com/album/7taQQZWIVcnHK6spr9N21l) | 2:37 |
 
-Snapshot ID: `awIwgAAAAAA8oAjrCtDld/An9EebM2vj`
+Snapshot ID: `awOCAAAAAAC7ECtF72lk1J/DLCoU1k2o`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0Tkc6ltcBfU.md) - [plain]
 
 > The hottest out the South\. Cover: YFN Lucci
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,265,306 likes - 100 songs - 4 hr 33 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,265,230 likes - 100 songs - 4 hr 33 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0Tkc6ltcBfU.md) - [plain]
 | 99 | [Knuckle](https://open.spotify.com/track/39joTOIiLjgzDAp3r5racP) | [MexikoDro](https://open.spotify.com/artist/6VTn4Wmhm4uD4UNFcEIkEP) | [Knuckle](https://open.spotify.com/album/26bKk2o2uqOCAJqUxssE5o) | 2:20 |
 | 100 | [Take Me Thru Dere](https://open.spotify.com/track/2GFawZaMjG8QLxiR4OD3db) | [Metro Boomin](https://open.spotify.com/artist/0iEtIxbK0KxaSlF7G42ZOp), [Quavo](https://open.spotify.com/artist/0VRj0yCOv2FXJNP47XQnx5), [Breskii](https://open.spotify.com/artist/2wVt4s4eHizk62Er2CLunw), [YKNIECE](https://open.spotify.com/artist/0W1zQBUWnDofTkc0APdaog), [DJ Spinz](https://open.spotify.com/artist/7m4YY1JUSagIGuM9BL7KR1) | [Metro Boomin Presents: A Futuristic Summa \(Hosted by DJ Spinz\)](https://open.spotify.com/album/48UcYpGBpoNhEJriPfZFWJ) | 2:42 |
 
-Snapshot ID: `AAAAAEY5qBsj13TA49qfphD+wNm6nTh+`
+Snapshot ID: `AAAAAFnIaKUaCYFxwg4KriMKxSn9rNc8`

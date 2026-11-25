@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX89EkrAT8Z6U.md) - [plain]
 
 > The perfect mixtape for an anime fight scene\. Also, check out <a href='spotify:playlist:37i9dQZF1EId8uVIwoG4N5'>Anime Rap Mix</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,341,420 likes - 75 songs - 2 hr 56 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,341,467 likes - 75 songs - 2 hr 56 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -66,10 +66,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX89EkrAT8Z6U.md) - [plain]
 | 56 | [RUN UP!](https://open.spotify.com/track/7oDUCu36rMex65tc03C8er) | [iamjakehill](https://open.spotify.com/artist/26JloX1vHxGGrGUVeMItFJ), [Josh A](https://open.spotify.com/artist/2rWCIhENZyPVDAeFC0ESWN) | [RUN UP!](https://open.spotify.com/album/6MoWt5Hvt4tdkrer9dppB5) | 2:19 |
 | 57 | [dedd barchetta](https://open.spotify.com/track/19PGCm7eOw4IGTXeAI5Ye9) | [Sugs](https://open.spotify.com/artist/3jsxOJ7aipBF4ijXEBZDNb) | [dedd barchetta](https://open.spotify.com/album/5oZ9FpKNr2D3HvZrWvBpDL) | 1:20 |
 | 58 | [OKE](https://open.spotify.com/track/6Qah1RanKHrrv7iYoqjNKM) | [Maddy Soma](https://open.spotify.com/artist/1wFTlSSnvzNxs7FpbTyEuO) | [OKE](https://open.spotify.com/album/2yZNGTY9G1WABteaesNDRR) | 2:26 |
-| 59 | [BLACKED OUT](https://open.spotify.com/track/11YEKSSOXXw0rXVCZgHKi6) | [777villain](https://open.spotify.com/artist/1W1JrFrwTTyv081hWOQJa7) | [BLACKED OUT](https://open.spotify.com/album/6NNH2nFEZqwaHWONf8qTvJ) | 2:13 |
-| 60 | [Awake](https://open.spotify.com/track/3WPdIdjJP77kguVy3tFeiy) | [Derek Pope](https://open.spotify.com/artist/5wWvcn0hJXPhCw9eYUody0) | [Awake](https://open.spotify.com/album/6TNXXQpElH89ZOuJM9dLU5) | 3:14 |
-| 61 | [OLIVIA](https://open.spotify.com/track/2s14ypvd880AiEfZssEjaY) | [Softwilly](https://open.spotify.com/artist/0fAEWMlRd4yiJBT2usaqqc), [Yung Kage](https://open.spotify.com/artist/7j8MiVdcaaVpUvhkXWwYDT) | [OLIVIA](https://open.spotify.com/album/3hNNuCctdqZqKJvPcb5UbV) | 2:23 |
-| 62 | [BREATHE](https://open.spotify.com/track/2qmn3UsrMtbt3orqjZSDVh) | [yatashigang](https://open.spotify.com/artist/2GBDI5PSiEnVoH0YnFFRLx), [January RT](https://open.spotify.com/artist/1o2BMJgKJoVX6x0bQ4sMpu) | [BREATHE](https://open.spotify.com/album/3c9lEzKYoMMjZz1sLzilHx) | 3:02 |
+| 59 | [OLIVIA](https://open.spotify.com/track/2s14ypvd880AiEfZssEjaY) | [Softwilly](https://open.spotify.com/artist/0fAEWMlRd4yiJBT2usaqqc), [Yung Kage](https://open.spotify.com/artist/7j8MiVdcaaVpUvhkXWwYDT) | [OLIVIA](https://open.spotify.com/album/3hNNuCctdqZqKJvPcb5UbV) | 2:23 |
+| 60 | [BLACKED OUT](https://open.spotify.com/track/11YEKSSOXXw0rXVCZgHKi6) | [777villain](https://open.spotify.com/artist/1W1JrFrwTTyv081hWOQJa7) | [BLACKED OUT](https://open.spotify.com/album/6NNH2nFEZqwaHWONf8qTvJ) | 2:13 |
+| 61 | [BREATHE](https://open.spotify.com/track/2qmn3UsrMtbt3orqjZSDVh) | [yatashigang](https://open.spotify.com/artist/2GBDI5PSiEnVoH0YnFFRLx), [January RT](https://open.spotify.com/artist/1o2BMJgKJoVX6x0bQ4sMpu) | [BREATHE](https://open.spotify.com/album/3c9lEzKYoMMjZz1sLzilHx) | 3:02 |
+| 62 | [Awake](https://open.spotify.com/track/3WPdIdjJP77kguVy3tFeiy) | [Derek Pope](https://open.spotify.com/artist/5wWvcn0hJXPhCw9eYUody0) | [Awake](https://open.spotify.com/album/6TNXXQpElH89ZOuJM9dLU5) | 3:14 |
 | 63 | [Dalai Lama](https://open.spotify.com/track/3OXPEU3MLoJTWQmozs4IVc) | [Shotgun Willy](https://open.spotify.com/artist/7Gz6VlTVwlNtBNMYV4OI3w) | [Dalai Lama](https://open.spotify.com/album/78gNxj2hj39is15hwP82IC) | 2:15 |
 | 64 | [Overthinking](https://open.spotify.com/track/3ZVKdwchXde5oVaXANYjso) | [Khantrast](https://open.spotify.com/artist/1MOetFIO4hBem9p9FVP9Jo), [AVGOTDRIP](https://open.spotify.com/artist/7igrDEryu1H8kwrg2jMP06) | [Overthinking](https://open.spotify.com/album/6hkrx6PxCGohC0fPEmdsms) | 2:25 |
 | 65 | [Nikes](https://open.spotify.com/track/65ha6jDdEeQ05hbiDeSUjT) | [Nimstarr](https://open.spotify.com/artist/25hjCXq9ACmSkWbnvKMThf), [kid toni](https://open.spotify.com/artist/3FQn8qCboTin4JhAPP8gEy) | [Nikes](https://open.spotify.com/album/15mUcH1QPGllxiAjJUJQJn) | 2:19 |
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX89EkrAT8Z6U.md) - [plain]
 | 74 | [Heart Attack](https://open.spotify.com/track/3nSEvbi2v1z1QATbznIvTT) | [Khantrast](https://open.spotify.com/artist/1MOetFIO4hBem9p9FVP9Jo), [Musicality](https://open.spotify.com/artist/3jbwoqhl1GhkvC5rNBvHH3) | [Heart Attack](https://open.spotify.com/album/45zTQIoXr2QXHDM9DFgs9L) | 1:38 |
 | 75 | [SOLO](https://open.spotify.com/track/2zkTK9vKqjNkLp4SOzpSXc) | [Rustage](https://open.spotify.com/artist/6cd3XfCAc3e596RQW8P94H), [anoravt](https://open.spotify.com/artist/4szuM6PQ5KeTofZSykuhgK) | [SOLO](https://open.spotify.com/album/2uUtMMIbcPIT5qHtab90CB) | 2:51 |
 
-Snapshot ID: `AAAAAFt2G33KYFBLNNCS3EQnlUY7Xhf0`
+Snapshot ID: `AAAAAAS5cU2+u/oTmpidkE0igT6Sg4yK`

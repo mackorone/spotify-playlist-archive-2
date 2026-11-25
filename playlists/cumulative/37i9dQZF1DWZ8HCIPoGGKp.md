@@ -4,7 +4,7 @@
 
 > Calming green frequencies and nature sounds to help you relax and sleep.
 
-365 songs - 16 hr 24 min
+365 songs - 16 hr 25 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -25,7 +25,7 @@
 | [Calm Green Waves](https://open.spotify.com/track/2JgSQywGRhFhO6IeUAcuRx) | [Marronicity](https://open.spotify.com/artist/0YvU1cVEZlg5XkGV2Vb0GI) | [Calm Green Waves](https://open.spotify.com/album/0UMqdawdYvLYv6e5ZXQKCa) | 3:41 | 2023-03-10 |  |
 | [Calm Rainfield Green Noise](https://open.spotify.com/track/4UOnFvlPCJ9iAErkQhgAJi) | [Natsound](https://open.spotify.com/artist/1GJH8huKOcDNdAdgwExXnw) | [Calm Rainfield Green Noise](https://open.spotify.com/album/2LT72HhOva6jJYBjRUe7Ke) | 2:44 | 2026-03-31 |  |
 | [Calm Winter Wind](https://open.spotify.com/track/1Y9y1fN1f8OzbRYdJn9CE8) | [Surrounding Life](https://open.spotify.com/artist/7x0g29FUOlzLsQrKB0NioF) | [Green Noise by Nature](https://open.spotify.com/album/4V9LXDB6CiKe6v6qtMlP5d) | 2:37 | 2023-02-03 |  |
-| [Calming Creek](https://open.spotify.com/track/5R113kfoXvoFBlIPpUUuRd) | [EFX Mirelight](https://open.spotify.com/artist/1xC1qS9lztnzURXtrrXFuv) | [Calm Green Wave Sounds](https://open.spotify.com/album/6bx52OyqGSwW8oCpooPjTT) | 1:44 | 2026-03-31 |  |
+| [Calming Creek](https://open.spotify.com/track/5R113kfoXvoFBlIPpUUuRd) | [EFX Mirelight](https://open.spotify.com/artist/1xC1qS9lztnzURXtrrXFuv) | [Calm Green Wave Sounds](https://open.spotify.com/album/6bx52OyqGSwW8oCpooPjTT) | 2:17 | 2026-03-31 |  |
 | [Calming Green Noise](https://open.spotify.com/track/0QT7Dck1QWqG0NQGJKR7Ou) | [Eltern FX](https://open.spotify.com/artist/0VV8uJMoSg5QJHEigLjulE) | [Study Green Noise](https://open.spotify.com/album/0fSfFSn50FtC2Z2q2QHwzP) | 2:32 | 2022-12-09 | 2025-12-11 |
 | [Chilled River Green Noise](https://open.spotify.com/track/1UpiQ7Z6bnoBFbJKXcgZ2s) | [EXOA](https://open.spotify.com/artist/16fII77WGyUG8E5DTIW4EU) | [Chilled River Green Noise](https://open.spotify.com/album/7IwRJAsn5nU3zFtailEEgN) | 4:51 | 2024-01-30 |  |
 | [Chilled Waves](https://open.spotify.com/track/2HZh3z8Mj0V27Jm7A8PVV9) | [Berg & Sjo](https://open.spotify.com/artist/5DaWXcbvLdip9ADHVSwVVt) | [Green Sleep Noise](https://open.spotify.com/album/1Ye7g943rA8l6Rkv99RCtz) | 2:08 | 2022-12-09 | 2025-12-11 |
@@ -367,9 +367,9 @@
 | [Wide Stereo Dark Green Noise](https://open.spotify.com/track/49rrqpIJRxckaki0jh603M) | [White Noise Workshop](https://open.spotify.com/artist/2Nb3UPrkX8zyfTpHLiPPMI) | [Ambient Green Noise](https://open.spotify.com/album/0Ql7DZpQhomZch4cbEGMWz) | 2:24 | 2022-12-09 | 2023-01-13 |
 | [Willow Whispers \- Green Noise](https://open.spotify.com/track/7MEdVlzuF4kr6MI6dpPg4W) | [Natsound](https://open.spotify.com/artist/1GJH8huKOcDNdAdgwExXnw) | [Willow Whispers \(Green Noise\)](https://open.spotify.com/album/2NPrj910o3GxzQYF3zeRTQ) | 3:10 | 2023-06-16 | 2023-10-21 |
 | [Wind & Water Green Noise](https://open.spotify.com/track/7zcNN5RVo3lhbvSXGUeKHw) | [Imma Belten](https://open.spotify.com/artist/7ACbSM2atJDaC0jzT0JyNc) | [Green Noise Natural Sounds](https://open.spotify.com/album/6Kecrfs3qWcElAPROQ3C1M) | 2:10 | 2022-12-09 | 2024-06-11 |
-| [Wind My Waterfall](https://open.spotify.com/track/5v7R6BktiMgdeBfTfy8Sqy) | [El Tiempo Central](https://open.spotify.com/artist/2jrgRXoeKU9D8qrOcnS9fZ) | [Noise of Green](https://open.spotify.com/album/3Wb2WiFkdvJMoAu4BS46YL) | 1:56 | 2026-03-31 |  |
+| [Wind My Waterfall](https://open.spotify.com/track/5v7R6BktiMgdeBfTfy8Sqy) | [El Tiempo Central](https://open.spotify.com/artist/2jrgRXoeKU9D8qrOcnS9fZ) | [Noise of Green](https://open.spotify.com/album/3Wb2WiFkdvJMoAu4BS46YL) | 2:22 | 2026-03-31 |  |
 | [Windy Night Green Noise](https://open.spotify.com/track/3tsKtJAeBH9lTEfMLNTd4u) | [White Noise Workshop](https://open.spotify.com/artist/2Nb3UPrkX8zyfTpHLiPPMI) | [Green Noise Soundscapes](https://open.spotify.com/album/4MGL6PRUrSOFVDfAGxnmSy) | 2:12 | 2022-12-09 | 2023-01-13 |
-| [Windy Ocean Green Noise](https://open.spotify.com/track/3xifPSyioFK60gLWlxvCGJ) | [Tonality X](https://open.spotify.com/artist/7rFRyQGntyqOr103TOqVwx) | [Wide Waves & Wind](https://open.spotify.com/album/4r4P2oLJrQLGS5IWsXgTDU) | 1:46 | 2026-03-31 |  |
+| [Windy Ocean Green Noise](https://open.spotify.com/track/3xifPSyioFK60gLWlxvCGJ) | [Tonality X](https://open.spotify.com/artist/7rFRyQGntyqOr103TOqVwx) | [Wide Waves & Wind](https://open.spotify.com/album/4r4P2oLJrQLGS5IWsXgTDU) | 2:26 | 2026-03-31 |  |
 | [Windy Rain Green Noise](https://open.spotify.com/track/4UGT9U7YsHyloUvynyjDG4) | [Audioable Noise](https://open.spotify.com/artist/6GSMXtegoAGXg4CvixzInT) | [Benefitial Green Noise](https://open.spotify.com/album/6oz26icls7R9tS5xDgPb8a) | 1:54 | 2022-12-09 | 2023-06-17 |
 | [Windy Rainy Green Noise](https://open.spotify.com/track/74cBRth54DlhjSLMbrtdpI) | [Tech Sleep](https://open.spotify.com/artist/3yHChfIskI5mp08P6Ukgoy) | [The Pure Sound of Green Noise](https://open.spotify.com/album/5YqR7sqoYnFioZRCFHTh8R) | 1:52 | 2022-12-09 | 2023-06-17 |
 | [Windy Waves](https://open.spotify.com/track/7DARDOK8wSQsdtDyWAZbEZ) | [Sonic Focuz](https://open.spotify.com/artist/2kYTPo2RENyX39AVuDCY9j) | [Green Color Noise](https://open.spotify.com/album/5nDkhoqIrNFylLUnkOksE6) | 2:34 | 2022-12-09 | 2023-10-06 |

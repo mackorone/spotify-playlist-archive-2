@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYP6zmGbwfYH.md) - [plain]
 
 > Tallando, bailando y cantando.
 
-[Spotify](https://open.spotify.com/user/spotify) - 412,343 likes - 100 songs - 6 hr 6 min
+[Spotify](https://open.spotify.com/user/spotify) - 412,445 likes - 100 songs - 6 hr 6 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -15,9 +15,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYP6zmGbwfYH.md) - [plain]
 | 5 | [Como Una Novela](https://open.spotify.com/track/43Z6YxVTYyr5ewyo2uepdy) | [Los Acosta](https://open.spotify.com/artist/1sxekzjeHJaqkZbpaaGR9x) | [Intimidades](https://open.spotify.com/album/40EJlz5pez7U5J6CwlUu39) | 3:46 |
 | 6 | [Sé Que Te Amo](https://open.spotify.com/track/46HSR9UPHXZxeR7EUvFERG) | [Los Temerarios](https://open.spotify.com/artist/3YbOSxo85kla7RID8ugnW3) | [Una Lágrima No Basta](https://open.spotify.com/album/6mQJfbwCFc2PxT0Kf7k1He) | 4:06 |
 | 7 | [Ese Loco Soy Yo](https://open.spotify.com/track/0J0zz9v1hRXQXQ2rJLgKq1) | [Liberación](https://open.spotify.com/artist/5xwugJ4uudppmOCCZateE5) | [Directo Al Corazón](https://open.spotify.com/album/6w4hod1ifRryFs208eKPLe) | 4:40 |
-| 8 | [Entrega De Amor](https://open.spotify.com/track/2SNP0sm56HwUvZh7bL66pi) | [Los Ángeles Azules](https://open.spotify.com/artist/0ZCO8oVkMj897cKgFH7fRW) | [Entrega De Amor](https://open.spotify.com/album/5RskNC4hvSZfi1b2k1tFPw) | 2:56 |
+| 8 | [Loco](https://open.spotify.com/track/0uCuoqJ3uvSTU8I3Vtvnfu) | [Pesado](https://open.spotify.com/artist/4BwiodzEp9Hwes5HeFjMVK) | [Todo tuyo](https://open.spotify.com/album/6EGXXDM0tEb4mTuC4ofMei) | 3:55 |
 | 9 | [Tu Traición](https://open.spotify.com/track/2ObbqCZZgwK8VowFYf0RPh) | [Grupo Bryndis](https://open.spotify.com/artist/44WCHvwXBOMz6nm7Mu2ReO) | [Tu Amor Secreto](https://open.spotify.com/album/1ICfNn1KnGQnjyXaYOiB3c) | 3:34 |
-| 10 | [Loco](https://open.spotify.com/track/0uCuoqJ3uvSTU8I3Vtvnfu) | [Pesado](https://open.spotify.com/artist/4BwiodzEp9Hwes5HeFjMVK) | [Todo tuyo](https://open.spotify.com/album/6EGXXDM0tEb4mTuC4ofMei) | 3:55 |
+| 10 | [Entrega De Amor](https://open.spotify.com/track/2SNP0sm56HwUvZh7bL66pi) | [Los Ángeles Azules](https://open.spotify.com/artist/0ZCO8oVkMj897cKgFH7fRW) | [Entrega De Amor](https://open.spotify.com/album/5RskNC4hvSZfi1b2k1tFPw) | 2:56 |
 | 11 | [Amor Regresa](https://open.spotify.com/track/3nbCTU4k0l68vml8nDajwU) | [Los Askis](https://open.spotify.com/artist/7wiOKrtPg196Hh90CdoKPi) | [Pasión Y Cumbia](https://open.spotify.com/album/6DPWLpcFLqrD50JfN6NOk1) | 3:33 |
 | 12 | [Cómo Estás Tú](https://open.spotify.com/track/34dKLs3lTn2gqEai9xZSgc) | [Liberación](https://open.spotify.com/artist/5xwugJ4uudppmOCCZateE5) | [Con La Fuerza Del Destino](https://open.spotify.com/album/4TOGT8365axV7cXPk1XueY) | 2:57 |
 | 13 | [La Loca](https://open.spotify.com/track/7mpz4Drmu692aPo4qsaHTC) | [Los Fugitivos](https://open.spotify.com/artist/4S7UxwDIG6o3FJkcGPdaBq) | [Vanidosa](https://open.spotify.com/album/0Vqmm3BrCwMeo79WVZz5Gs) | 4:14 |
@@ -47,8 +47,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYP6zmGbwfYH.md) - [plain]
 | 37 | [24/7](https://open.spotify.com/track/02hdaX3rWzdjZL6uqBZNhG) | [De Parranda](https://open.spotify.com/artist/0OTHm6AFLxgeTm0gHNOuWi) | [24/7](https://open.spotify.com/album/352LrVMlDficyblK9e7Olr) | 3:30 |
 | 38 | [Par De Anillos](https://open.spotify.com/track/3hNa7iKRzCK06IawGLlsbz) | [Viento Y Sol](https://open.spotify.com/artist/4d4OGW8V5resuylQWT6S9s) | [Grandes Éxitos Remezclados Y Remasterizados](https://open.spotify.com/album/3RMafNWPxjqnrg1MU44Uei) | 3:14 |
 | 39 | [Quiero Volar](https://open.spotify.com/track/55FBgPXgynD9ommdmsTEhN) | [Jorge Meza Y Su Tropi Colombia](https://open.spotify.com/artist/745IcJOBUvnbNsDKAMyUVa) | [25 Éxitos de Oro](https://open.spotify.com/album/2JH6KP5WTvgosU9DMPrizo) | 4:46 |
-| 40 | [Negra Ron y Velas](https://open.spotify.com/track/4WhZLHyENNOqKk0HOjTZLI) | [Morgan Blanco](https://open.spotify.com/artist/3ff3ZIeqM9LA1R0aPul14w) | [Negra Ron y Velas](https://open.spotify.com/album/2CN4H5EWZliNhozx62mnWD) | 4:36 |
-| 41 | [Encadenada A Mi \- Cumbia](https://open.spotify.com/track/72dq7syxHMZF44QX3r1yXH) | [Los Bukis](https://open.spotify.com/artist/16kOCiqZ1auY4sokSeZuKf) | [Inalcanzable](https://open.spotify.com/album/13UzYROsKbVZF4RZCrMtQF) | 3:49 |
+| 40 | [Encadenada A Mi \- Cumbia](https://open.spotify.com/track/72dq7syxHMZF44QX3r1yXH) | [Los Bukis](https://open.spotify.com/artist/16kOCiqZ1auY4sokSeZuKf) | [Inalcanzable](https://open.spotify.com/album/13UzYROsKbVZF4RZCrMtQF) | 3:49 |
+| 41 | [Negra Ron y Velas](https://open.spotify.com/track/4WhZLHyENNOqKk0HOjTZLI) | [Morgan Blanco](https://open.spotify.com/artist/3ff3ZIeqM9LA1R0aPul14w) | [Negra Ron y Velas](https://open.spotify.com/album/2CN4H5EWZliNhozx62mnWD) | 4:36 |
 | 42 | [La Burbuja](https://open.spotify.com/track/1sk0LP75QkHk9xCgBQiA82) | [Liberación](https://open.spotify.com/artist/5xwugJ4uudppmOCCZateE5) | [La Burbuja](https://open.spotify.com/album/4WEKmA2MnfexKkfthwKv6y) | 3:18 |
 | 43 | [Antes Muerta Que Sencilla](https://open.spotify.com/track/7tKDsV1gA7iVJHep2KZKOj) | [Los Horóscopos De Durango](https://open.spotify.com/artist/46uJrEeqP88sYlHFqaGPid) | [Antes Muertas Que Sencillas](https://open.spotify.com/album/0afOzI8hKSRU3QV0cdf0NO) | 2:50 |
 | 44 | [Ilusión](https://open.spotify.com/track/2PzXc0FEgMEi08IAUuSr8H) | [Cuerdas De Venezuela](https://open.spotify.com/artist/3lmP34nf7TS7DuCpmcdUMy) | [Ilusión y Más Ilusión](https://open.spotify.com/album/4mLoZZEfZ9TC9q5AmikXB9) | 2:57 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYP6zmGbwfYH.md) - [plain]
 | 99 | [Hola Como Estas](https://open.spotify.com/track/04iLS6kaGO7lrFGMI2C0fa) | [Grupo Pegasso](https://open.spotify.com/artist/00YglmekVqqlHbv8N8erfv) | [Amor Vendido, Vol\. 4](https://open.spotify.com/album/7JJG7BywhJnVF9vMHKIk8T) | 3:24 |
 | 100 | [Te vez Buena](https://open.spotify.com/track/0GzOtepkwolnl5WrDv61ys) | [De Parranda](https://open.spotify.com/artist/0OTHm6AFLxgeTm0gHNOuWi) | [De Parranda Lives Vol\. 5](https://open.spotify.com/album/1JsM9bGRvLyZvZbALOFj3E) | 4:12 |
 
-Snapshot ID: `AAAAAHVviEwV/5a34SaIOkm2+BIZMwH1`
+Snapshot ID: `AAAAAEPgmcRSA7ptmGq/YWDJxuncwBQV`

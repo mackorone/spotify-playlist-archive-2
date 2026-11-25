@@ -5474,7 +5474,7 @@
       ],
       "date_added": "2026-03-19",
       "date_added_asterisk": false,
-      "date_removed": "2026-11-22",
+      "date_removed": null,
       "duration_ms": 247980,
       "name": "Beatriz",
       "url": "https://open.spotify.com/track/3RDv5uDgHJS8wBdPkoCXUF"
@@ -9332,7 +9332,7 @@
       ],
       "date_added": "2024-11-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-25",
       "duration_ms": 195794,
       "name": "Cora\u00e7\u00e3o Partido (Coraz\u00f3n Part\u00edo) - Ao Vivo",
       "url": "https://open.spotify.com/track/6Kyl2nFgU0J8WBlbBvDv6g"
@@ -10288,7 +10288,7 @@
       ],
       "date_added": "2026-08-06",
       "date_added_asterisk": false,
-      "date_removed": "2026-11-22",
+      "date_removed": null,
       "duration_ms": 213191,
       "name": "Deixe Me Ir (feat. Pablo Martins) - Ac\u00fastico 1Kilo",
       "url": "https://open.spotify.com/track/6JKkP9ABQzYZUFSKSVDKIc"
@@ -14188,7 +14188,7 @@
       ],
       "date_added": "2025-08-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-25",
       "duration_ms": 205714,
       "name": "Eu Me Apaixonei",
       "url": "https://open.spotify.com/track/4SjcIkVc4cvFgURD1EHxDM"
@@ -15052,7 +15052,7 @@
       ],
       "date_added": "2026-11-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-25",
       "duration_ms": 158176,
       "name": "Exigente",
       "url": "https://open.spotify.com/track/3y1DTmkETpAhDePWF7Uiis"
@@ -15480,7 +15480,7 @@
       ],
       "date_added": "2026-03-31",
       "date_added_asterisk": false,
-      "date_removed": "2026-11-24",
+      "date_removed": null,
       "duration_ms": 217845,
       "name": "Famoso \u00cdm\u00e3 | O poderoso chat\u00e3o",
       "url": "https://open.spotify.com/track/22bl3LPkCHQSBhCAdw8Jwk"
@@ -16458,6 +16458,40 @@
       "duration_ms": 165925,
       "name": "Flow Espacial",
       "url": "https://open.spotify.com/track/4qDT0BeJ7BjatrN9k8AvB4"
+    },
+    {
+      "album": {
+        "name": "Flower In A Hurricane (feat. Tame Impala, SZA, King Gizzard & the Lizard Wizard) [From GTAVI: Original Score]",
+        "url": "https://open.spotify.com/album/1V8Qu6CwkBfYucnCWxynq8"
+      },
+      "artists": [
+        {
+          "name": "Justice",
+          "url": "https://open.spotify.com/artist/1gR0gsQYfi6joyO1dlp76N"
+        },
+        {
+          "name": "Tame Impala",
+          "url": "https://open.spotify.com/artist/5INjqkS1o8h1imAzPqGZBb"
+        },
+        {
+          "name": "SZA",
+          "url": "https://open.spotify.com/artist/7tYKF4w9nC0nq9CsPZTHyP"
+        },
+        {
+          "name": "Grand Theft Auto VI",
+          "url": "https://open.spotify.com/artist/15o7qdDTBzs6xWRUYUtZc1"
+        },
+        {
+          "name": "King Gizzard & The Lizard Wizard",
+          "url": "https://open.spotify.com/artist/6XYvaoDGE0VmRt83Jss9Sn"
+        }
+      ],
+      "date_added": "2026-11-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 224877,
+      "name": "Flower In A Hurricane (feat. Tame Impala, SZA, King Gizzard & the Lizard Wizard) [From GTAVI: Original Score]",
+      "url": "https://open.spotify.com/track/4HCOHRCSQelz2GPX8iTamO"
     },
     {
       "album": {
@@ -23860,7 +23894,7 @@
       ],
       "date_added": "2026-05-26",
       "date_added_asterisk": false,
-      "date_removed": "2026-11-22",
+      "date_removed": null,
       "duration_ms": 215433,
       "name": "Mente Barulhenta",
       "url": "https://open.spotify.com/track/2364CtKIeJNVUnZZHKrzIr"
@@ -26572,7 +26606,7 @@
       ],
       "date_added": "2026-10-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-25",
       "duration_ms": 167399,
       "name": "Nem Balancei",
       "url": "https://open.spotify.com/track/05DdX8vwi9kiPbWr3fkeZp"
@@ -29370,7 +29404,7 @@
       ],
       "date_added": "2025-10-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-25",
       "duration_ms": 192367,
       "name": "P do Pecado - Ao Vivo",
       "url": "https://open.spotify.com/track/38Ps9Kui6qJjpVqdBOfN5M"
@@ -32532,7 +32566,7 @@
       ],
       "date_added": "2026-10-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-25",
       "duration_ms": 240098,
       "name": "Primavera",
       "url": "https://open.spotify.com/track/3qe1l1SXlr1Vamkt0h3G9b"
@@ -33314,7 +33348,7 @@
       ],
       "date_added": "2026-07-22",
       "date_added_asterisk": false,
-      "date_removed": "2026-11-22",
+      "date_removed": null,
       "duration_ms": 167999,
       "name": "QUANDO EU TOMO GIN DE 10",
       "url": "https://open.spotify.com/track/5xebls1ZOUqKDVVwQA5YDG"
@@ -34170,6 +34204,52 @@
       "duration_ms": 255758,
       "name": "Resenha dos Amigos 2.0",
       "url": "https://open.spotify.com/track/3uZpICdc5ScOYV6xNCMNJr"
+    },
+    {
+      "album": {
+        "name": "Resenha dos Amigos 2.0 ( Especial )",
+        "url": "https://open.spotify.com/album/2C9dlY2KoeQhFNoaKCQoAi"
+      },
+      "artists": [
+        {
+          "name": "DG e Batid\u00e3o Stronda",
+          "url": "https://open.spotify.com/artist/7gIeuq2qBfYhO1budb6TSQ"
+        },
+        {
+          "name": "Iguzin",
+          "url": "https://open.spotify.com/artist/7ub8q6QONytBzB5nEuq2te"
+        },
+        {
+          "name": "DLIMA7",
+          "url": "https://open.spotify.com/artist/29u3JaZVRn9ICRK7M82Ynr"
+        },
+        {
+          "name": "Bernardo Gomes",
+          "url": "https://open.spotify.com/artist/1kq4buzqp7pWWozhbc1vOg"
+        },
+        {
+          "name": "Ana Liz",
+          "url": "https://open.spotify.com/artist/3IGD9W9i4JwkWkGSRH6tND"
+        },
+        {
+          "name": "Sofia Reis",
+          "url": "https://open.spotify.com/artist/1LkRepfjV4zoEgl8IopZtX"
+        },
+        {
+          "name": "Davi Motta",
+          "url": "https://open.spotify.com/artist/4o3iHfv6VQMClnSGkieKh5"
+        },
+        {
+          "name": "Camila Miranda",
+          "url": "https://open.spotify.com/artist/1n4E2Ua058VwEmX9oC4B7Y"
+        }
+      ],
+      "date_added": "2026-11-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 255758,
+      "name": "Resenha dos Amigos 2.0 ( Especial )",
+      "url": "https://open.spotify.com/track/7wW8HwFnKatnDBIFmbOLc5"
     },
     {
       "album": {
@@ -35390,7 +35470,7 @@
       ],
       "date_added": "2026-08-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-25",
       "duration_ms": 174794,
       "name": "Saudade Estranha - Du Nada - Ao Vivo",
       "url": "https://open.spotify.com/track/2YwupCiayMlumvtFwToiVG"
@@ -36888,7 +36968,7 @@
       ],
       "date_added": "2026-08-28",
       "date_added_asterisk": false,
-      "date_removed": "2026-11-22",
+      "date_removed": null,
       "duration_ms": 431219,
       "name": "SET BOCA 09 (feat. Mc Jvila, Mc Lele JP, Mc Leozin, Mc Bruninho da Praia & Dj Daltin no Beat)",
       "url": "https://open.spotify.com/track/7By1xSEpnisnvOK6CvrEk1"
@@ -41794,7 +41874,7 @@
       ],
       "date_added": "2026-03-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-25",
       "duration_ms": 162580,
       "name": "Tubar\u00f5es - Ao Vivo",
       "url": "https://open.spotify.com/track/3JojUdNlifAfB5J9dLvJ9H"

@@ -1,12 +1,12 @@
 {
   "description": "This is T.I BLAZE. The essential tracks, all in one playlist.",
-  "num_followers": 13459,
+  "num_followers": 13463,
   "original_name": "This Is T.I BLAZE",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "awIwgAAAAADQ7ahmacA7OvNQaFC7ieTq",
+  "snapshot_id": "awOCAAAAAABF91aCpr8QjSphcJVQbV05",
   "tracks": [
     {
       "added_at": null,
@@ -127,22 +127,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Round One (Elle Mummy)",
-        "url": "https://open.spotify.com/album/3j09wQBdGXlk0YK27mGKEX"
-      },
-      "artists": [
-        {
-          "name": "T.I BLAZE",
-          "url": "https://open.spotify.com/artist/1FIsnQiSPsuqA38z48irJC"
-        }
-      ],
-      "duration_ms": 146000,
-      "name": "Round One (Elle Mummy)",
-      "url": "https://open.spotify.com/track/3CKyzdQM4EjX6JoZw3UEmB"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Shakur",
         "url": "https://open.spotify.com/album/4dI1QNQSKTYSU6zKtmzwum"
       },
@@ -159,6 +143,22 @@
       "duration_ms": 164745,
       "name": "Hope",
       "url": "https://open.spotify.com/track/1HBWK4lSLU6b4MjeK5OA2B"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Round One (Elle Mummy)",
+        "url": "https://open.spotify.com/album/3j09wQBdGXlk0YK27mGKEX"
+      },
+      "artists": [
+        {
+          "name": "T.I BLAZE",
+          "url": "https://open.spotify.com/artist/1FIsnQiSPsuqA38z48irJC"
+        }
+      ],
+      "duration_ms": 146000,
+      "name": "Round One (Elle Mummy)",
+      "url": "https://open.spotify.com/track/3CKyzdQM4EjX6JoZw3UEmB"
     },
     {
       "added_at": null,
@@ -227,6 +227,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "The Blueprint",
+        "url": "https://open.spotify.com/album/1FEF9Jh7BOuISVXjQynfR4"
+      },
+      "artists": [
+        {
+          "name": "T.I BLAZE",
+          "url": "https://open.spotify.com/artist/1FIsnQiSPsuqA38z48irJC"
+        }
+      ],
+      "duration_ms": 147692,
+      "name": "23",
+      "url": "https://open.spotify.com/track/6Zk5i2UKYzdf2YrjBUMWOt"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Lonely Road",
         "url": "https://open.spotify.com/album/4zldXsyHbRQL9nP17xiFom"
       },
@@ -243,22 +259,6 @@
       "duration_ms": 157538,
       "name": "Lonely Road",
       "url": "https://open.spotify.com/track/2aCskdq9N9RczrwEujAV13"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "The Blueprint",
-        "url": "https://open.spotify.com/album/1FEF9Jh7BOuISVXjQynfR4"
-      },
-      "artists": [
-        {
-          "name": "T.I BLAZE",
-          "url": "https://open.spotify.com/artist/1FIsnQiSPsuqA38z48irJC"
-        }
-      ],
-      "duration_ms": 147692,
-      "name": "23",
-      "url": "https://open.spotify.com/track/6Zk5i2UKYzdf2YrjBUMWOt"
     },
     {
       "added_at": null,
@@ -295,22 +295,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Shakur (Deluxe)",
-        "url": "https://open.spotify.com/album/3ZgFmnpdR7O8sX6USTzWDE"
-      },
-      "artists": [
-        {
-          "name": "T.I BLAZE",
-          "url": "https://open.spotify.com/artist/1FIsnQiSPsuqA38z48irJC"
-        }
-      ],
-      "duration_ms": 173871,
-      "name": "Controlla",
-      "url": "https://open.spotify.com/track/24A2eZ8yd8vWwYmDocknNy"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "The Blueprint",
         "url": "https://open.spotify.com/album/1FEF9Jh7BOuISVXjQynfR4"
       },
@@ -323,6 +307,22 @@
       "duration_ms": 167395,
       "name": "Cana",
       "url": "https://open.spotify.com/track/0OMYJlEiOkvNbSux3f5IJm"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Shakur (Deluxe)",
+        "url": "https://open.spotify.com/album/3ZgFmnpdR7O8sX6USTzWDE"
+      },
+      "artists": [
+        {
+          "name": "T.I BLAZE",
+          "url": "https://open.spotify.com/artist/1FIsnQiSPsuqA38z48irJC"
+        }
+      ],
+      "duration_ms": 173871,
+      "name": "Controlla",
+      "url": "https://open.spotify.com/track/24A2eZ8yd8vWwYmDocknNy"
     },
     {
       "added_at": null,

@@ -4,7 +4,7 @@
 
 > Pop to fuel your gaming\. Cover: Zara Larsson
 
-485 songs - 23 hr 45 min
+486 songs - 23 hr 49 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -22,6 +22,7 @@
 | [Acapulco](https://open.spotify.com/track/3eJH2nAjvNXdmPfBkALiPZ) | [Jason Derulo](https://open.spotify.com/artist/07YZf4WDAMNwqr4jfgOZ8y) | [Acapulco](https://open.spotify.com/album/76f2Wq7QxiHImxzsYwiXWW) | 2:19 | 2021-10-22 | 2022-07-06 |
 | [Adderall \(Corvette Corvette\) \- Remix](https://open.spotify.com/track/2Y3USTCETS4xbjJOzT1Icm) | [Popp Hunna](https://open.spotify.com/artist/3fyhhXHbGVLuSHFk2SYx4I), [Lil Uzi Vert](https://open.spotify.com/artist/4O15NlyKLIASxsJ0PrXPfz) | [Adderall \(Corvette Corvette\) \[Remix\]](https://open.spotify.com/album/3CHhjAvREJII4YPk4qyDXq) | 2:56 | 2021-10-22 | 2022-04-29 |
 | [Again \(feat\. XXXTENTACION\)](https://open.spotify.com/track/2S2od3hT7ceytw7d1pTRuE) | [Noah Cyrus](https://open.spotify.com/artist/55fhWPvDiMpLnE4ZzNXZyW), [XXXTENTACION](https://open.spotify.com/artist/15UsOTVnJzReFVN1VCnxy4) | [Again \(feat\. XXXTENTACION\)](https://open.spotify.com/album/5UD36hu4fYZ6R8b8crkKL7) | 3:13 | 2024-12-13 |  |
+| [All Again](https://open.spotify.com/track/4Fv459S7bhBGbDHJhICbUy) | [Rose Gray](https://open.spotify.com/artist/5YYrWH3w4JYijU4JZrOXWA) | [Grand Theft Auto VI: The Album](https://open.spotify.com/album/5BYKG4MHfySZthe2W6r7n4) | 3:59 | 2026-11-24 |  |
 | [All At Once](https://open.spotify.com/track/3Jd3aTezMFWeuDcUkANdQQ) | [Madison Beer](https://open.spotify.com/artist/2kRfqPViCqYdSGhYSM9R0Q) | [F1 The Album \(Cinematic Edition\)](https://open.spotify.com/album/5TNQ53hp55WtBA1H8LYtMw) | 2:34 | 2025-06-27 | 2026-05-16 |
 | [All Girls Are The Same \(All Guys Are The Same\) \- Remix](https://open.spotify.com/track/4y8YDi41saykiA2Eau0eDz) | [RØNIN](https://open.spotify.com/artist/5AueQd01cgyqBRQ82ns5cd), [Kaela](https://open.spotify.com/artist/15sAywRlhEXj0ZjoUbft5r) | [All Girls Are The Same \(All Guys Are The Same\) \[Remix\]](https://open.spotify.com/album/2JsykBBT1sx0ReG6XYxkx9) | 2:58 | 2021-11-16 | 2022-02-24 |
 | [AMERICAN HORROR SHOW](https://open.spotify.com/track/38RLObegC9ggpKPRVQDc1g) | [Snow Wife](https://open.spotify.com/artist/7CV3dQkhJB2dEqb85ICD33) | [AMERICAN HORROR SHOW](https://open.spotify.com/album/5JyHQrBtMytztLaqG8czrG) | 2:29 | 2023-07-28 |  |
@@ -325,7 +326,7 @@
 | [Pain](https://open.spotify.com/track/4IQbJSOLVAe6FWYF07UUO9) | [Jake Daniels](https://open.spotify.com/artist/3AYZMgvmzNKc3cGmJUSITh) | [Pain](https://open.spotify.com/album/2htCiITFkoo3V99rvrrsXk) | 2:42 | 2022-07-15 | 2022-07-27 |
 | [Pain](https://open.spotify.com/track/39LJCSHy7nB1akjmhMQ7Y7) | [Josh A](https://open.spotify.com/artist/2rWCIhENZyPVDAeFC0ESWN) | [Fearless](https://open.spotify.com/album/2leou6sxHz7CaxyV6f4cf1) | 3:08 | 2022-04-15 | 2023-09-21 |
 | [Pain](https://open.spotify.com/track/7CIERzyqIwLVKGp00YbHRO) | [PinkPantheress](https://open.spotify.com/artist/78rUTD7y6Cy67W1RVzYs7t) | [Pain](https://open.spotify.com/album/6N4ySRXQsXl6g9mCr7QPFx) | 1:38 | 2021-10-22 | 2022-11-13 |
-| [Paint The Town Blue \- from the series Arcane League of Legends](https://open.spotify.com/track/0g0qfC3nAaIsfbxS29ksJx) | [Ashnikko](https://open.spotify.com/artist/3PyJHH2wyfQK3WZrk9rpmP), [Arcane](https://open.spotify.com/artist/57nPqD7z62gDdq37US9XJR), [League of Legends](https://open.spotify.com/artist/47mIJdHORyRerp4os813jD) | [Paint The Town Blue \(from the series Arcane League of Legends\)](https://open.spotify.com/album/1bnLKOSyzZOiY4Mrw7GCGZ) | 1:55 | 2024-09-06 |  |
+| [Paint The Town Blue \- from the series Arcane League of Legends](https://open.spotify.com/track/0g0qfC3nAaIsfbxS29ksJx) | [Ashnikko](https://open.spotify.com/artist/3PyJHH2wyfQK3WZrk9rpmP), [Arcane](https://open.spotify.com/artist/57nPqD7z62gDdq37US9XJR), [League of Legends](https://open.spotify.com/artist/47mIJdHORyRerp4os813jD) | [Paint The Town Blue \(from the series Arcane League of Legends\)](https://open.spotify.com/album/1bnLKOSyzZOiY4Mrw7GCGZ) | 1:55 | 2024-09-06 | 2026-11-25 |
 | [PARANOIA](https://open.spotify.com/track/29WxJqIfDRMo9isV07kbJP) | [HEARTSTEEL](https://open.spotify.com/artist/4lY2DXvRv9RPeFcUtn6PUh), [League of Legends](https://open.spotify.com/artist/47mIJdHORyRerp4os813jD), [BAEKHYUN](https://open.spotify.com/artist/4ufh0WuMZh6y4Dmdnklvdl), [tobi lou](https://open.spotify.com/artist/4T8NIfZmVY6TJFqVzN6X49), [ØZI](https://open.spotify.com/artist/7Icsejk4pdIhkq2KO5A0jD), [Cal Scruby](https://open.spotify.com/artist/2wcrc3fjebDRLVdtRUa3pu) | [PARANOIA](https://open.spotify.com/album/1RPJNNRo1WUciegpWfioAc) | 3:18 | 2023-10-27 | 2024-12-30 |
 | [Party Girl](https://open.spotify.com/track/5RqR4ZCCKJDcBLIn4sih9l) | [StaySolidRocky](https://open.spotify.com/artist/1XLWox9w1Yvbodui0SRhUQ) | [Party Girl](https://open.spotify.com/album/4NPX54YtocHqTOq6yXDEFM) | 2:27 | 2021-10-22 | 2024-12-14 |
 | [PASSENGER PRINCESS](https://open.spotify.com/track/3Md1Rphgz24viHtEVSWWi9) | [Nessa Barrett](https://open.spotify.com/artist/7pwufEBGfggjoI8twqlsmQ) | [PASSENGER PRINCESS](https://open.spotify.com/album/2r00aQwsYDAVak9PWghWnU) | 2:35 | 2024-08-07 | 2024-12-05 |

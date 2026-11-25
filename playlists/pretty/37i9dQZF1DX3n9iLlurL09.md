@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3n9iLlurL09.md) - [plain]
 
 > The Indie highlights of 2012\. Cover: Flume
 
-[Spotify](https://open.spotify.com/user/spotify) - 116,093 likes - 100 songs - 6 hr 24 min
+[Spotify](https://open.spotify.com/user/spotify) - 116,104 likes - 100 songs - 6 hr 24 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -101,12 +101,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3n9iLlurL09.md) - [plain]
 | 91 | [Fitzpleasure](https://open.spotify.com/track/09BGE23vqmtylTUBEhzu2H) | [alt\-J](https://open.spotify.com/artist/3XHO7cRUPCLOr6jwp8vsx5) | [An Awesome Wave](https://open.spotify.com/album/2AxfZb5aQHIXgsB1HA6OLL) | 3:39 |
 | 92 | [Yet Again](https://open.spotify.com/track/202QyrB6Q3Kimsr7KqJut3) | [Grizzly Bear](https://open.spotify.com/artist/2Jv5eshHtLycR6R8KQCdc4) | [Shields](https://open.spotify.com/album/57LAEzKL94ZHwbIkUWYCDY) | 5:18 |
 | 93 | [Man on Fire](https://open.spotify.com/track/5GFfRpAb26A57ao6nxjIIS) | [Edward Sharpe & The Magnetic Zeros](https://open.spotify.com/artist/7giUHu5pv6YTZgSkxxCcgh) | [Here](https://open.spotify.com/album/6JyPG8lkkHvE1f76H1fysw) | 4:18 |
-| 94 | [Breathing Underwater](https://open.spotify.com/track/3V1sX80FB5C1D0azCC1DII) | [Metric](https://open.spotify.com/artist/1rCIEwPp5OnXW0ornlSsRl) | [Synthetica](https://open.spotify.com/album/1WDdaw9niyv06kRmspU1U4) | 3:58 |
-| 95 | [Default](https://open.spotify.com/track/0d2O5TNHO2T5XR95TVmgfp) | [Django Django](https://open.spotify.com/artist/2ARO60gI5do88ho6azmzab) | [Django Django](https://open.spotify.com/album/2iKuaJUhHIXk8p9xNFM7d9) | 3:04 |
+| 94 | [Catamaran](https://open.spotify.com/track/5WI4GytPeTnIoVRnUiP8TE) | [Allah\-Las](https://open.spotify.com/artist/2yDodJUwXfdHzg4crwslUp) | [Allah\-Las](https://open.spotify.com/album/1aAKZy0fdFn57xgka1xeDV) | 3:32 |
+| 95 | [Breathing Underwater](https://open.spotify.com/track/3V1sX80FB5C1D0azCC1DII) | [Metric](https://open.spotify.com/artist/1rCIEwPp5OnXW0ornlSsRl) | [Synthetica](https://open.spotify.com/album/1WDdaw9niyv06kRmspU1U4) | 3:58 |
 | 96 | [Taro](https://open.spotify.com/track/7EDMvrb5PA5TP0VQ8z9p82) | [alt\-J](https://open.spotify.com/artist/3XHO7cRUPCLOr6jwp8vsx5) | [An Awesome Wave](https://open.spotify.com/album/2AxfZb5aQHIXgsB1HA6OLL) | 5:14 |
-| 97 | [Forest Whitaker](https://open.spotify.com/track/2kW59AS9OrpFsuXbi2939R) | [Bad Books](https://open.spotify.com/artist/0e9H8oaYYRCKFXOVv848nt) | [II](https://open.spotify.com/album/1yDgzhR6Dtv7r8F7vOKyIz) | 3:40 |
-| 98 | [The John Wayne](https://open.spotify.com/track/3oGxLwyJ7oU2kepx0z5S18) | [Little Green Cars](https://open.spotify.com/artist/2Vz3AN2wY3xjS2jCaGMVsy) | [The John Wayne](https://open.spotify.com/album/3DmeelYEmVIPtB9qOLNyMG) | 4:51 |
-| 99 | [Heaven](https://open.spotify.com/track/4JYgvIKYhLBDn4OqPeJOGh) | [The Walkmen](https://open.spotify.com/artist/6kFay2DQ5aZfeu5OsrF3Pw) | [Heaven](https://open.spotify.com/album/6aNJ374poL5VkfwWAqe1iX) | 4:26 |
-| 100 | [All Of Me](https://open.spotify.com/track/0B4R6lMH2Fsyzcndp4RP4c) | [Tanlines](https://open.spotify.com/artist/7pW390CJdmhakvtcGZIqGP) | [Mixed Emotions](https://open.spotify.com/album/6ilQUgysYUuauHDwqJ0l7L) | 3:50 |
+| 97 | [Default](https://open.spotify.com/track/0d2O5TNHO2T5XR95TVmgfp) | [Django Django](https://open.spotify.com/artist/2ARO60gI5do88ho6azmzab) | [Django Django](https://open.spotify.com/album/2iKuaJUhHIXk8p9xNFM7d9) | 3:04 |
+| 98 | [Forest Whitaker](https://open.spotify.com/track/2kW59AS9OrpFsuXbi2939R) | [Bad Books](https://open.spotify.com/artist/0e9H8oaYYRCKFXOVv848nt) | [II](https://open.spotify.com/album/1yDgzhR6Dtv7r8F7vOKyIz) | 3:40 |
+| 99 | [The John Wayne](https://open.spotify.com/track/3oGxLwyJ7oU2kepx0z5S18) | [Little Green Cars](https://open.spotify.com/artist/2Vz3AN2wY3xjS2jCaGMVsy) | [The John Wayne](https://open.spotify.com/album/3DmeelYEmVIPtB9qOLNyMG) | 4:51 |
+| 100 | [Heaven](https://open.spotify.com/track/4JYgvIKYhLBDn4OqPeJOGh) | [The Walkmen](https://open.spotify.com/artist/6kFay2DQ5aZfeu5OsrF3Pw) | [Heaven](https://open.spotify.com/album/6aNJ374poL5VkfwWAqe1iX) | 4:26 |
 
-Snapshot ID: `AAAAAAQu0qncRlglBz+gmLMUuEu2qrxI`
+Snapshot ID: `AAAAAFqIAKBxiuzEu3427flG6gSYWpnh`

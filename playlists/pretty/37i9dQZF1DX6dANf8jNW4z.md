@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6dANf8jNW4z.md) - [plain]
 
 > Escucha mujeres a todo volumen\. Foto: Alaska.
 
-[Spotify](https://open.spotify.com/user/spotify) - 59,432 likes - 78 songs - 3 hr 55 min
+[Spotify](https://open.spotify.com/user/spotify) - 59,430 likes - 78 songs - 3 hr 55 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -65,7 +65,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6dANf8jNW4z.md) - [plain]
 | 55 | [British Museum style](https://open.spotify.com/track/5yqAz2yl5EbySJzMXzboIM) | [Ashleys](https://open.spotify.com/artist/78rDLh5yrOapboJgm6gTi9) | [En el Club](https://open.spotify.com/album/47dJyjWSLLK9rks7zrtBQ9) | 2:42 |
 | 56 | [Me quedo dormida](https://open.spotify.com/track/71U4KEzdZoyGTWYbgul2eH) | [La 126](https://open.spotify.com/artist/7F7eCZ1XNx2ojbcd40IRQY) | [NADA PUEDE HACERNOS MAL](https://open.spotify.com/album/6PtvhUqI1kNryFjK4QnvCW) | 3:24 |
 | 57 | [Nunca](https://open.spotify.com/track/3CMyUBiIYgYw6erXvG4LDK) | [Pinpilinpussies](https://open.spotify.com/artist/4Mbv7MoBUcLBWCuGBCxRf1) | [Para ser dos chicas](https://open.spotify.com/album/74WKBugVVlgVqnpPH9onwa) | 3:01 |
-| 58 | [La Húngara](https://open.spotify.com/track/60eHWtTKKOrqOkPIVPvNxk) | [EDDI CIRCA](https://open.spotify.com/artist/5Fa143x669siyI5jjBuTIa) | [Por Los Signos](https://open.spotify.com/album/73Zg7W7Lauj67vCu3IGccw) | 2:28 |
+| 58 | [La Húngara](https://open.spotify.com/track/60eHWtTKKOrqOkPIVPvNxk) | [EDDI CIRCA](https://open.spotify.com/artist/5Fa143x669siyI5jjBuTIa), [Ángeles Toledano](https://open.spotify.com/artist/4E1RSsrjfViRShEG4r0ofW) | [Por Los Signos](https://open.spotify.com/album/73Zg7W7Lauj67vCu3IGccw) | 2:28 |
 | 59 | [TRIQUITRÁ](https://open.spotify.com/track/7E7xOpun0BhYe0fl6v1nzL) | [Dianka](https://open.spotify.com/artist/1wEtCoZtRJARnoN74e5Seh) | [TRIQUITRÁ](https://open.spotify.com/album/4fyA6fEJoPKHHfb0CoRtaa) | 2:06 |
 | 60 | [mansplaining](https://open.spotify.com/track/5EwXkMZaIGOiWHuTRhvCSr) | [Alddara](https://open.spotify.com/artist/45XxOFbnA9XkEOVTEphCB2) | [nada serio](https://open.spotify.com/album/0XSgsV6y1h1ZL2Nh7gjDYZ) | 2:24 |
 | 61 | [estecuerpomío](https://open.spotify.com/track/0b1UNLFhCOcqGD0ATKVs7v) | [TÉYOU](https://open.spotify.com/artist/0X6EyLnyb4fJEmg1WnBwQv) | [estecuerpomío](https://open.spotify.com/album/5yY2METM47is7eKeyYyk2M) | 2:20 |
@@ -87,4 +87,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6dANf8jNW4z.md) - [plain]
 | 77 | [La inocencia](https://open.spotify.com/track/2lQ2PJWBTgzgcbG4Ct518l) | [Anouck The Band](https://open.spotify.com/artist/6JM2EjjDGfDztVwi1wO6Ag) | [La inocencia](https://open.spotify.com/album/3kj5j9gjrCvZHsHDCwcowS) | 3:32 |
 | 78 | [Ni Lugar Ni Manera](https://open.spotify.com/track/6FkhKpzAydTDW3VXcf4157) | [PRENDA](https://open.spotify.com/artist/4CZAm9Ahn8YEemHClytQKk) | [Ni Lugar Ni Manera](https://open.spotify.com/album/5twQXl7YhmA4QeOjww5UG7) | 4:19 |
 
-Snapshot ID: `AAAAAKTk3RRzhDi0sLDI9guQul1Nh390`
+Snapshot ID: `AAAAABP+dWbkZqdsJOIeIsmXW+JlL5b0`

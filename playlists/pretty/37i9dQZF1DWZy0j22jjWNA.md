@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZy0j22jjWNA.md) - [plain]
 
 > New morning mercies\. ☀️
 
-[Spotify](https://open.spotify.com/user/spotify) - 126,591 likes - 100 songs - 6 hr 3 min
+[Spotify](https://open.spotify.com/user/spotify) - 126,609 likes - 100 songs - 6 hr 3 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -43,8 +43,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZy0j22jjWNA.md) - [plain]
 | 33 | [Thank God I'm Free](https://open.spotify.com/track/2yolugG5vuEjiiDq7A47mE) | [Bryan & Katie Torwalt](https://open.spotify.com/artist/7bvAtcPT3evvSeHDyu2zBC) | [Thank God I'm Free](https://open.spotify.com/album/5fqWCD1SxUfcvMkN7x2NN4) | 2:51 |
 | 34 | [Brand New \(feat\. Terrian\)](https://open.spotify.com/track/6VvG67rVJmeFUKsr0k0jhn) | [Bay Turner](https://open.spotify.com/artist/5Swex8uNIDsDJecu35hSRV), [Terrian](https://open.spotify.com/artist/19TPpTWkgX13Qc2stbqVoP) | [Brand New \(feat\. Terrian\)](https://open.spotify.com/album/7fJpxRI9nTu4iloWvOquOJ) | 2:55 |
 | 35 | [Good Lord](https://open.spotify.com/track/1Jy3KTQbhHHr7DEc72oys2) | [David Leonard](https://open.spotify.com/artist/2r9qoFx4EhGP8RYFQ4eMIE) | [Good Lord](https://open.spotify.com/album/6UvRiid9Mlguj4Lt7oYfeF) | 3:19 |
-| 36 | [YES BE YES](https://open.spotify.com/track/3InQ4YRFxbpi3wKYuQWxKU) | [Mark Barlow](https://open.spotify.com/artist/6hR5fuwetYvTHfea4EwHvl) | [YES BE YES](https://open.spotify.com/album/61bZIMzzqIpNzkDgHmnQGj) | 2:45 |
-| 37 | [Blinded](https://open.spotify.com/track/1wsxYJWrgYuVzieibPpyIP) | [Ryan Stevenson](https://open.spotify.com/artist/1rxhmvc4pue9A2fEXnLT97) | [Blinded](https://open.spotify.com/album/4HIa4aAv2MMUq8eTlJUVCc) | 3:27 |
+| 36 | [Blinded](https://open.spotify.com/track/1wsxYJWrgYuVzieibPpyIP) | [Ryan Stevenson](https://open.spotify.com/artist/1rxhmvc4pue9A2fEXnLT97) | [Blinded](https://open.spotify.com/album/4HIa4aAv2MMUq8eTlJUVCc) | 3:27 |
+| 37 | [YES BE YES](https://open.spotify.com/track/3InQ4YRFxbpi3wKYuQWxKU) | [Mark Barlow](https://open.spotify.com/artist/6hR5fuwetYvTHfea4EwHvl) | [YES BE YES](https://open.spotify.com/album/61bZIMzzqIpNzkDgHmnQGj) | 2:45 |
 | 38 | [Hopeful](https://open.spotify.com/track/0xujGe3mc7mKc7N655UpdL) | [Jervis Campbell](https://open.spotify.com/artist/31Bh5G3Q9JzwqPpHDLIQtW) | [Hopeful](https://open.spotify.com/album/3Ol2xD0wKSn172kgB85JnM) | 4:27 |
 | 39 | [Monday Morning Faith \- Acoustic](https://open.spotify.com/track/2V7ozI3jvpPyLVxnvSac3z) | [SEU Worship](https://open.spotify.com/artist/7M7UXUwtz3Wb25PVS8dwHs), [Chelsea Plank](https://open.spotify.com/artist/2rZyX9csPrIfGn1E7iSF7y) | [Monday Morning Faith \(Acoustic\)](https://open.spotify.com/album/4u5miLlJ3i9y6mOgoE2HWi) | 5:38 |
 | 40 | [Days Like This](https://open.spotify.com/track/1DE1SPuhjnsgKa9Uu5m5P9) | [7 Hills Worship](https://open.spotify.com/artist/0SLXOHoqcGPOsH9RZETtp1) | [Not The Same](https://open.spotify.com/album/0VFPdgc6mUfCNXSkvGqs0p) | 2:21 |
@@ -74,8 +74,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZy0j22jjWNA.md) - [plain]
 | 64 | [GOOD THING](https://open.spotify.com/track/2XGAo5OoJFwaauhyxgwKlq) | [Cecily](https://open.spotify.com/artist/4hryzFSB8IYFIaBba9jUvT) | [GOOD THING](https://open.spotify.com/album/0WTOcneeZqfL5RwvmiBAo7) | 2:33 |
 | 65 | [Morning Psalm \(feat\. Ben Cruse\)](https://open.spotify.com/track/3X1lam7uHad3F3sMuvFp0l) | [River Valley Worship](https://open.spotify.com/artist/1VXCIEol192OgSF9VzowGV), [Ben Cruse](https://open.spotify.com/artist/3WOiJEhXDFffYyUDKo8isf) | [First Light / Last Word](https://open.spotify.com/album/4PxxW2zfSOhoysKPLZMLII) | 5:33 |
 | 66 | [05 \(Morning\)](https://open.spotify.com/track/072T9qhiz29GNZmoqOzCEk) | [Tom Read](https://open.spotify.com/artist/2KqFfpWJjwA1xr9ZxfIqmd) | [05 \(Morning\)](https://open.spotify.com/album/1SW6r6zCRzX9YuXN50DCT5) | 3:48 |
-| 67 | [Sunday Morning](https://open.spotify.com/track/0meZ1wG8nZT8Yw7edBonju) | [JOSHUA LAZER](https://open.spotify.com/artist/2CtZZgLqDy4tgYKMLHdpO0) | [Sunday Morning](https://open.spotify.com/album/2H6J9gtIWRPJkBwqAq97z6) | 2:19 |
-| 68 | [THIS IS THE DAY](https://open.spotify.com/track/15ZHJggxSsnjk3CbQH0SCd) | [Vintage Worship](https://open.spotify.com/artist/0qUuZVm9ly1AlsuZyYMQwp), [Joshua Seller](https://open.spotify.com/artist/0hMcMrkgNgJC7oO82fZsli) | [THIS IS THE DAY](https://open.spotify.com/album/7KKCTcSzQTJMlmeP0C43T7) | 3:44 |
+| 67 | [THIS IS THE DAY](https://open.spotify.com/track/15ZHJggxSsnjk3CbQH0SCd) | [Vintage Worship](https://open.spotify.com/artist/0qUuZVm9ly1AlsuZyYMQwp), [Joshua Seller](https://open.spotify.com/artist/0hMcMrkgNgJC7oO82fZsli) | [THIS IS THE DAY](https://open.spotify.com/album/7KKCTcSzQTJMlmeP0C43T7) | 3:44 |
+| 68 | [Sunday Morning](https://open.spotify.com/track/0meZ1wG8nZT8Yw7edBonju) | [JOSHUA LAZER](https://open.spotify.com/artist/2CtZZgLqDy4tgYKMLHdpO0) | [Sunday Morning](https://open.spotify.com/album/2H6J9gtIWRPJkBwqAq97z6) | 2:19 |
 | 69 | [Pure Gold](https://open.spotify.com/track/4GPfoPbpLppbzVLBIR337i) | [IMRSQD](https://open.spotify.com/artist/3SjPZFpbGUgmdGqpLIZ2lc) | [Pure Gold](https://open.spotify.com/album/29QjD47g5WsFp4H7RlxyRJ) | 2:17 |
 | 70 | [Hope Builds \- Live](https://open.spotify.com/track/5z29OLLU0EQq2mSVR44TTE) | [Citipointe Worship](https://open.spotify.com/artist/4QU2KMv8a76IHXUYruc3r2), [Jess Steer](https://open.spotify.com/artist/6nQhS19N2Vi3J3xAVgcgu4) | [Hope Builds \(Live\)](https://open.spotify.com/album/7nqbKIBhttgx5EXg8BW5sD) | 5:43 |
 | 71 | [Power \- Acoustic](https://open.spotify.com/track/3XwxvufJ0ve4BdOOCJ5OEb) | [Naffymar](https://open.spotify.com/artist/31XHZpkBidKYdb27RBePrr) | [Meditations](https://open.spotify.com/album/7emwnr2wmTB84uXqIkMYxk) | 3:18 |
@@ -88,8 +88,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZy0j22jjWNA.md) - [plain]
 | 78 | [Surrounded](https://open.spotify.com/track/060RZ3PLJSvIxuxIhFv5gA) | [Anthem Lights](https://open.spotify.com/artist/7kwEvDE8e7EBGKh5bLczqQ) | [Surrounded](https://open.spotify.com/album/3nN8aSgpM6zDKZEd4Wu7zs) | 3:03 |
 | 79 | [Encompassed](https://open.spotify.com/track/4VoMZnltCPuFtkRWgubFq0) | [Spencer Annis](https://open.spotify.com/artist/3PcnAVq9b3HyDUkNFTvyUu) | [Take Heart](https://open.spotify.com/album/3PB6qqj5LdwcmRTMzbPxcH) | 3:49 |
 | 80 | [WAKE UP](https://open.spotify.com/track/2xrEND8nyYh9TQjkJoonVQ) | [Kkah$o](https://open.spotify.com/artist/3TmFsLdilzP3JlrhUK2Edp), [RaJan Monroe](https://open.spotify.com/artist/0oF0QUoqa0NGRgXTNtFtkT) | [WAKE UP](https://open.spotify.com/album/6GSCGstsgnXEGlCauEB9Xi) | 2:30 |
-| 81 | [Wake Up \- Remix](https://open.spotify.com/track/4ioFDwWM3lSGDsWr4mFsVp) | [Toyalove](https://open.spotify.com/artist/5OoxlokuJXx0MIk9GyR1f6), [808 BEEZY](https://open.spotify.com/artist/3CltJZLndpJKtpUyRVBB1k) | [Wake Up \(Remix\)](https://open.spotify.com/album/2eagZIie0DPIZqDuGiAVOY) | 2:37 |
-| 82 | [Don't Run Away](https://open.spotify.com/track/260GZLqtxDDQGAJ4EpQCyZ) | [Ryce](https://open.spotify.com/artist/0gKR8NI5vgeG9kCyt8q06v), [DJ DENZ The Rooster](https://open.spotify.com/artist/05OAH9fFWOKINDaeJ9N3Pd) | [Don't Run Away](https://open.spotify.com/album/3Xi4X6KM4PsNmc6c9Cshau) | 3:08 |
+| 81 | [Don't Run Away](https://open.spotify.com/track/260GZLqtxDDQGAJ4EpQCyZ) | [Ryce](https://open.spotify.com/artist/0gKR8NI5vgeG9kCyt8q06v), [DJ DENZ The Rooster](https://open.spotify.com/artist/05OAH9fFWOKINDaeJ9N3Pd) | [Don't Run Away](https://open.spotify.com/album/3Xi4X6KM4PsNmc6c9Cshau) | 3:08 |
+| 82 | [Wake Up \- Remix](https://open.spotify.com/track/4ioFDwWM3lSGDsWr4mFsVp) | [Toyalove](https://open.spotify.com/artist/5OoxlokuJXx0MIk9GyR1f6), [808 BEEZY](https://open.spotify.com/artist/3CltJZLndpJKtpUyRVBB1k) | [Wake Up \(Remix\)](https://open.spotify.com/album/2eagZIie0DPIZqDuGiAVOY) | 2:37 |
 | 83 | [Happy Again](https://open.spotify.com/track/4fYyuiKLTfzlTXMDawgCNu) | [Adriel Cruz](https://open.spotify.com/artist/1aBDTgXnbKTDCUubYLbtoa) | [Happy Again](https://open.spotify.com/album/3qEVYXuGEN7eMSOBvM7vuS) | 3:52 |
 | 84 | [Seeking](https://open.spotify.com/track/1Od2rkHMK2AfGyZ0LgqGB8) | [WYLD](https://open.spotify.com/artist/5Rw6396SuRpo6CRSLrZzKt), [Cether](https://open.spotify.com/artist/4DPWhihNMGBAgXYyYLOXn7), [Emely Williams](https://open.spotify.com/artist/0LC1yPnOQaj6VIz5gtZ82H) | [Seeking](https://open.spotify.com/album/4CR9mh2tbBq6OqCRPokdBf) | 3:34 |
 | 85 | [So Blessed](https://open.spotify.com/track/316ezycEDNS7M5AGWt1YAr) | [7 Hills Worship](https://open.spotify.com/artist/0SLXOHoqcGPOsH9RZETtp1), [Chris Cleveland](https://open.spotify.com/artist/5Z6gnOe0q5LWQ6jWaIhyne) | [So Blessed](https://open.spotify.com/album/3EktI6lc5MDYt1JpyPmbYt) | 3:16 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZy0j22jjWNA.md) - [plain]
 | 99 | [Day For Singing \- Live](https://open.spotify.com/track/1YXCgMrPlgmdSeaP2WT1jQ) | [Mission House](https://open.spotify.com/artist/1kfAQBrI7qZInqadGFtW8C), [Cecily](https://open.spotify.com/artist/4hryzFSB8IYFIaBba9jUvT) | [Day for Singing](https://open.spotify.com/album/6ouC5uHTCzX5sHM8dyWYD7) | 5:41 |
 | 100 | [JOY](https://open.spotify.com/track/6B6N8a0SvyEyJ77h1fuCwA) | [Phil the Voice](https://open.spotify.com/artist/5MZ5XLMvg4UQA7l2ipaU3E) | [JOY](https://open.spotify.com/album/2uLur9asrRPLo1hBUbh0t6) | 2:34 |
 
-Snapshot ID: `AAAAADfo1C0/Z0y1jckjrGtvxLOvN3fT`
+Snapshot ID: `AAAAAP8pDqDUtxOMtEabDYibtBol80yD`

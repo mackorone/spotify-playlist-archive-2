@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX94QVAxB7Dum.md) - [plain]
 
 > Music from the award\-winning doc: The Black Power Mixtape 1967–1975.
 
-[Spotify](https://open.spotify.com/user/spotify) - 834,175 likes - 69 songs - 4 hr 1 min
+[Spotify](https://open.spotify.com/user/spotify) - 834,211 likes - 69 songs - 4 hr 1 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -26,8 +26,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX94QVAxB7Dum.md) - [plain]
 | 16 | [Cissy Strut](https://open.spotify.com/track/7b8s4Z0abQQ4x4jpct4GjR) | [The Meters](https://open.spotify.com/artist/2JRvXPGWiINrnJljNJhG5s) | [Funkify Your Life: The Meters Anthology](https://open.spotify.com/album/40VWlphQtyDSj3ldPNhDvz) | 3:05 |
 | 17 | [Why Can't We Live Together](https://open.spotify.com/track/5mBHcJ6yNXyYGLosWkuGqv) | [Timmy Thomas](https://open.spotify.com/artist/7JLwBH0X2G8tgHceqvOu5B) | [Why Can't We Live Together: The Best Of The TK Years 1972\-'81](https://open.spotify.com/album/6SVDOGFshodeWxZt1Mz92Y) | 4:49 |
 | 18 | [\(If Loving You Is Wrong\) I Don't Want to Be Right](https://open.spotify.com/track/54K7o2yNOMZYCtEDnfD6wI) | [Luther Ingram](https://open.spotify.com/artist/5Pek6HAr0BoHD9P1RuA7d5) | [\(If Loving You Is Wrong\) I Don't Want to Be Right](https://open.spotify.com/album/3hiwk4q34fJTUJsAzrlNMD) | 3:36 |
-| 19 | [Ain't No Love In The Heart Of The City \- Single Version](https://open.spotify.com/track/14rTFBs1cCkOBp5JPUrJhw) | [Bobby "Blue" Bland](https://open.spotify.com/artist/48nwxUvPJZkm8uPa7xMzmj) | [Music For Groovin'](https://open.spotify.com/album/2kGXFgIy6EBmYZRrQjTtON) | 3:45 |
-| 20 | [See See Rider](https://open.spotify.com/track/1MW7hcqDWh0ODZA5hVunaO) | [LaVern Baker](https://open.spotify.com/artist/0V6zo2mJw9FdwWLClKC9yw) | [See See Rider](https://open.spotify.com/album/4ngkRpyw98uagKb7lOlQ03) | 2:30 |
+| 19 | [See See Rider](https://open.spotify.com/track/1MW7hcqDWh0ODZA5hVunaO) | [LaVern Baker](https://open.spotify.com/artist/0V6zo2mJw9FdwWLClKC9yw) | [See See Rider](https://open.spotify.com/album/4ngkRpyw98uagKb7lOlQ03) | 2:30 |
+| 20 | [Ain't No Love In The Heart Of The City \- Single Version](https://open.spotify.com/track/14rTFBs1cCkOBp5JPUrJhw) | [Bobby "Blue" Bland](https://open.spotify.com/artist/48nwxUvPJZkm8uPa7xMzmj) | [Music For Groovin'](https://open.spotify.com/album/2kGXFgIy6EBmYZRrQjTtON) | 3:45 |
 | 21 | [Express Yourself \- Remastered Version](https://open.spotify.com/track/6gQZKkphKIMxZgca5r7ImA) | [Charles Wright & The Watts 103rd Street Rhythm Band](https://open.spotify.com/artist/2t0kaaDtGZtmpczIAMaVTQ) | [Express Yourself \(Remastered & Expanded\)](https://open.spotify.com/album/5qDWJPnZ9IXMMDBhAFQgq3) | 3:49 |
 | 22 | [Get out of My Life Woman](https://open.spotify.com/track/6DNgKv1sWH2505Z5SAqAXr) | [Lee Dorsey](https://open.spotify.com/artist/0En4EEcDMJ5kaUCf1aZ9js) | [Ride Your Pony](https://open.spotify.com/album/7AmWUlNaYvQlK8UqmD4tvF) | 2:26 |
 | 23 | [Starting All Over Again](https://open.spotify.com/track/3EN9HHihu5CtBWhcNi7Wa3) | [Mel & Tim](https://open.spotify.com/artist/2ubLClBEuddw29m7QRx4IL) | [Stax Volt Chartbusters Vol 1](https://open.spotify.com/album/17V0RTHI4GvWwGIIpPnVqE) | 3:50 |
@@ -42,8 +42,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX94QVAxB7Dum.md) - [plain]
 | 32 | [One of a Kind \(Love Affair\)](https://open.spotify.com/track/0s5lu82Sx3aymTuGdCoQK5) | [The Spinners](https://open.spotify.com/artist/5fbhwqYYh4YwUoEs582mq5) | [The Platinum Collection](https://open.spotify.com/album/1zTfR7F2hKmdTkv3pZ7LkO) | 3:34 |
 | 33 | [Hurt so Bad \- Rerecorded](https://open.spotify.com/track/3qY8Ni73Tx4mJXASDmBWJN) | [Little Anthony & The Imperials](https://open.spotify.com/artist/3PF1KBeHYb14yKgsiE693V) | [100 Hits of the Swingin' Sixties](https://open.spotify.com/album/36QisDW5zB4phHrXOzE60V) | 2:17 |
 | 34 | [Ain't No Sunshine](https://open.spotify.com/track/7u8LNgkrmUXGT6JEwiy8Ia) | [Bill Withers](https://open.spotify.com/artist/1ThoqLcyIYvZn7iWbj8fsj) | [The Best Of Bill Withers: Lean On Me](https://open.spotify.com/album/7t5voPAepq85BXJ2lFE79e) | 2:03 |
-| 35 | [What's Going On](https://open.spotify.com/track/42PyxnviKRfOa8z39g8aZj) | [Marvin Gaye](https://open.spotify.com/artist/3koiLjNrgRTNbOwViDipeA) | [Favorites](https://open.spotify.com/album/43Axle5un9qnVUp113oHzB) | 3:53 |
-| 36 | [I Forgot To Be Your Lover](https://open.spotify.com/track/1yPWD2ZQ8kLPYJtuIWHpa6) | [William Bell](https://open.spotify.com/artist/33BiBNoSXa7sQ3ef8OLTQO) | [The Very Best Of William Bell](https://open.spotify.com/album/0JyBAA6AYVPsJc2KWj4x3D) | 2:20 |
+| 35 | [I Forgot To Be Your Lover](https://open.spotify.com/track/1yPWD2ZQ8kLPYJtuIWHpa6) | [William Bell](https://open.spotify.com/artist/33BiBNoSXa7sQ3ef8OLTQO) | [The Very Best Of William Bell](https://open.spotify.com/album/0JyBAA6AYVPsJc2KWj4x3D) | 2:20 |
+| 36 | [What's Going On](https://open.spotify.com/track/42PyxnviKRfOa8z39g8aZj) | [Marvin Gaye](https://open.spotify.com/artist/3koiLjNrgRTNbOwViDipeA) | [Favorites](https://open.spotify.com/album/43Axle5un9qnVUp113oHzB) | 3:53 |
 | 37 | [Be Thankful for What You Got \(Pt\. 1 & Pt\. 2\)](https://open.spotify.com/track/7pN8GMLw3prWFn5nvJRM6O) | [William DeVaughn](https://open.spotify.com/artist/1l51Sc9HBh8fLXUDEjFhxU) | [Be Thankful for What You Got](https://open.spotify.com/album/1SCaqfkBnsMXOvdJIZi93Z) | 7:09 |
 | 38 | [War](https://open.spotify.com/track/3yCRbRnRraIpWzWTOZDyX9) | [Edwin Starr](https://open.spotify.com/artist/1B8AXU6gIIafpyLEpbcv1u) | [Motown Remixed & Unmixed](https://open.spotify.com/album/7kRPqxlWTvT7F4fKX9ruOc) | 3:23 |
 | 39 | [Hang On In There Baby](https://open.spotify.com/track/03ZrvcYZGCYpimu6dYdhPY) | [Johnny Bristol](https://open.spotify.com/artist/0F4yfY9manxJrgsfwbXdZa) | [Soul, Vol\. 1](https://open.spotify.com/album/5qwkIFb6Kz2s7vgMRh3WGT) | 3:53 |
@@ -78,4 +78,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX94QVAxB7Dum.md) - [plain]
 | 68 | [Boogie Down \- Single Version](https://open.spotify.com/track/1g6IiMTz9cPHLOIn7aAkCd) | [Eddie Kendricks](https://open.spotify.com/artist/2Uuon75BhnuuxdKLYn4wHn) | [True Funk \[3 CD Set\]](https://open.spotify.com/album/6YQxPRto33Zn2SpzIFIobt) | 3:43 |
 | 69 | [Rockin' Robin](https://open.spotify.com/track/0XFRGKNOzBElJCR3lz1NX0) | [Michael Jackson](https://open.spotify.com/artist/3fMbdgg4jU18AjLCKBhRSm) | [Number 1’s: The Jacksons Story](https://open.spotify.com/album/42oS02bWIcliOvLFHsDawf) | 2:32 |
 
-Snapshot ID: `AAAAAFzzg8pJarUVA4aOdATgGjIRYBzt`
+Snapshot ID: `AAAAAIzCzbMuHrYhLWG0Q5NKovjkKRKX`

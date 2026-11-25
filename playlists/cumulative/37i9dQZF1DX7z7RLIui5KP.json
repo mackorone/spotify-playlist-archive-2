@@ -4003,6 +4003,24 @@
     },
     {
       "album": {
+        "name": "Mkataba",
+        "url": "https://open.spotify.com/album/13DsBPHi3mbwSEGugLdJKO"
+      },
+      "artists": [
+        {
+          "name": "Jovial",
+          "url": "https://open.spotify.com/artist/2iULDphri5hyIfw6Z1HhcH"
+        }
+      ],
+      "date_added": "2026-11-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 182608,
+      "name": "Mkataba",
+      "url": "https://open.spotify.com/track/3kiVWA4g1Kx3l9jtWROR0F"
+    },
+    {
+      "album": {
         "name": "Wingu la Mapenzi",
         "url": "https://open.spotify.com/album/1lOe5Rc4WwPxnV3puNMPkx"
       },

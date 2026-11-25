@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTKHCqejn1Vg.md) - [plain]
 
 > 사랑이 더욱 뜨겁게 섞일 때.
 
-[Spotify](https://open.spotify.com/user/spotify) - 34,781 likes - 60 songs - 3 hr 15 min
+[Spotify](https://open.spotify.com/user/spotify) - 34,783 likes - 60 songs - 3 hr 15 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -69,4 +69,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTKHCqejn1Vg.md) - [plain]
 | 59 | [i said it](https://open.spotify.com/track/26a0JIitgz3Ut1CNnf2HgW) | [Jiselle](https://open.spotify.com/artist/6tjbcCaexKI8esvvEZPVnt) | [i said it](https://open.spotify.com/album/4Bwf79TKUV0FYcc9e9A3GN) | 2:27 |
 | 60 | [muah](https://open.spotify.com/track/0AHhkuNuqjFPzMfi72JIxr) | [Coogie](https://open.spotify.com/artist/0IznZPMUyaPGdqfP4oqBja) | [AFTER UPSET](https://open.spotify.com/album/3hv9aXwK1pz50JrCXZqiVh) | 2:09 |
 
-Snapshot ID: `AAAAAKypVw0icqbzOduirK00/uq7jAoO`
+Snapshot ID: `AAAAADNZig3o+iz1uxyXeeXEnZ71Db1t`

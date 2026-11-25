@@ -59,6 +59,24 @@
     },
     {
       "album": {
+        "name": "The 25 Songs for You",
+        "url": "https://open.spotify.com/album/7MBxdFDpEhUBGTm7f3QHHY"
+      },
+      "artists": [
+        {
+          "name": "The Ronettes",
+          "url": "https://open.spotify.com/artist/7CyeXFnOrfC1N6z4naIpgo"
+        }
+      ],
+      "date_added": "2026-11-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 204878,
+      "name": "\"Is This What I Get for Loving You",
+      "url": "https://open.spotify.com/track/0wRTE1SmgTI4xWVaCCTUdB"
+    },
+    {
+      "album": {
         "name": "BANSHEE/#REBEL",
         "url": "https://open.spotify.com/album/6PjFaskT6uwLjRmvrJgg2V"
       },
@@ -528,6 +546,28 @@
       "duration_ms": 62240,
       "name": "12 Contredanses, WoO 14: No. 3 in D Major",
       "url": "https://open.spotify.com/track/4re5nepP8KnXVtfIlLeYp0"
+    },
+    {
+      "album": {
+        "name": "Chopin: The Great Works",
+        "url": "https://open.spotify.com/album/2ltyXuaKAKOSTzfZNKDf5Y"
+      },
+      "artists": [
+        {
+          "name": "Fr\u00e9d\u00e9ric Chopin",
+          "url": "https://open.spotify.com/artist/7y97mc3bZRFXzT2szRM4L4"
+        },
+        {
+          "name": "Tam\u00e1s V\u00e1s\u00e1ry",
+          "url": "https://open.spotify.com/artist/4ylqqqUMfc5TdqwoLuq6he"
+        }
+      ],
+      "date_added": "2026-11-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 173013,
+      "name": "12 Etudes, Op. 25: No. 1 in A-Flat Major \"Harp Study\"",
+      "url": "https://open.spotify.com/track/55rJiUs5rE54AWA1BdaeDQ"
     },
     {
       "album": {
@@ -11078,7 +11118,7 @@
       ],
       "date_added": "2026-11-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-25",
       "duration_ms": 172120,
       "name": "Breakin' Up",
       "url": "https://open.spotify.com/track/3KDGxA6lixuBmwHWpirVch"
@@ -19758,7 +19798,7 @@
       ],
       "date_added": "2026-11-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-25",
       "duration_ms": 221430,
       "name": "Doorbell Camera",
       "url": "https://open.spotify.com/track/4KfKGlueFM5YfWnGdZpcqP"
@@ -35612,7 +35652,7 @@
       ],
       "date_added": "2026-11-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-25",
       "duration_ms": 177817,
       "name": "If You Don\u2019t Mind - Remastered 2026",
       "url": "https://open.spotify.com/track/26VnPlCLyNINWQrUrXRWzB"
@@ -44234,7 +44274,7 @@
       ],
       "date_added": "2026-11-06",
       "date_added_asterisk": false,
-      "date_removed": "2026-11-08",
+      "date_removed": null,
       "duration_ms": 298760,
       "name": "Lost In Your Eyes",
       "url": "https://open.spotify.com/track/0MS0GHiOMtj51vJrv12YPJ"
@@ -45838,7 +45878,7 @@
       ],
       "date_added": "2026-11-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-25",
       "duration_ms": 341595,
       "name": "Mam\u00fcll Reke",
       "url": "https://open.spotify.com/track/35XRswZqmRgIRm5V8TjXNY"
@@ -51368,7 +51408,7 @@
       ],
       "date_added": "2026-11-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-25",
       "duration_ms": 76960,
       "name": "Nocturne No. 2 in E-Flat Major, Op. 9 No. 2 - Pt. 2",
       "url": "https://open.spotify.com/track/5Jik1EADzrYiuO028PEO2T"
@@ -56208,7 +56248,7 @@
       ],
       "date_added": "2026-11-20",
       "date_added_asterisk": false,
-      "date_removed": "2026-11-24",
+      "date_removed": null,
       "duration_ms": 332386,
       "name": "Piano Sonata No. 4 in E-Flat Major, K. 282: I. Adagio",
       "url": "https://open.spotify.com/track/2jDpxF3B53yRvOtPr6Q6Vh"
@@ -56252,7 +56292,7 @@
       ],
       "date_added": "2026-11-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-25",
       "duration_ms": 185720,
       "name": "Piano Sonata No. 4 in E-Flat Major, K. 282: III. Allegro",
       "url": "https://open.spotify.com/track/4FZqLzDlLuSRq3GGe46Pqe"
@@ -67502,7 +67542,7 @@
       ],
       "date_added": "2026-11-06",
       "date_added_asterisk": false,
-      "date_removed": "2026-11-11",
+      "date_removed": null,
       "duration_ms": 212424,
       "name": "Soul Destruction",
       "url": "https://open.spotify.com/track/1UxI5V2yBsOAOCNHQl3587"
@@ -74342,7 +74382,7 @@
       ],
       "date_added": "2026-11-06",
       "date_added_asterisk": false,
-      "date_removed": "2026-11-12",
+      "date_removed": null,
       "duration_ms": 247854,
       "name": "The Last Song I'm Wasting On You - Remastered 2026",
       "url": "https://open.spotify.com/track/0s2OT471HQP5qASpIiAicB"
@@ -80834,7 +80874,7 @@
       ],
       "date_added": "2026-11-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-25",
       "duration_ms": 153026,
       "name": "Unheard of Kind of Hero",
       "url": "https://open.spotify.com/track/2lq5dYZ52hr14K2HEsfsEW"
@@ -82164,7 +82204,7 @@
       ],
       "date_added": "2026-11-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-25",
       "duration_ms": 271960,
       "name": "Violin Concerto in E Major, Op. 8, No. 1, RV 269 \"La Primavera\": 3. Allegro (Danza pastorale)",
       "url": "https://open.spotify.com/track/7Dvu77uBchK5fRa91eTLnf"
@@ -82190,7 +82230,7 @@
       ],
       "date_added": "2026-11-20",
       "date_added_asterisk": false,
-      "date_removed": "2026-11-24",
+      "date_removed": null,
       "duration_ms": 303453,
       "name": "Violin Concerto in G Minor, Op. 8, No. 2, RV 315 \"L'estate\": 1. Allegro non molto - Allegro",
       "url": "https://open.spotify.com/track/0DS6Iwie9pFCanFP4TN9l8"
@@ -85640,6 +85680,24 @@
       "duration_ms": 205987,
       "name": "Wine into Water (feat. Elton John)",
       "url": "https://open.spotify.com/track/5ptZgAvkeGAzQfUFzmmYgb"
+    },
+    {
+      "album": {
+        "name": "I\u00d1 MONGELETEW",
+        "url": "https://open.spotify.com/album/2PmDqLLSnTzQqYuEJ7LGMP"
+      },
+      "artists": [
+        {
+          "name": "Mawiza",
+          "url": "https://open.spotify.com/artist/4oJP24bXA2fbdVmNGNmCtt"
+        }
+      ],
+      "date_added": "2026-11-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 174312,
+      "name": "Wingkawnoam",
+      "url": "https://open.spotify.com/track/2UF6pjU9HUDncJrWriWq8I"
     },
     {
       "album": {

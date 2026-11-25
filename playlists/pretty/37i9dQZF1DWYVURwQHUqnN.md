@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYVURwQHUqnN.md) - [plain]
 
 > Photo : J Balvin x Jul
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,150,813 likes - 50 songs - 2 hr 13 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,150,689 likes - 50 songs - 2 hr 13 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYVURwQHUqnN.md) - [plain]
 | 49 | [LÉ TAL](https://open.spotify.com/track/3jL0jnNJLEC2zUHBtILCXS) | [Ino Casablanca](https://open.spotify.com/artist/5blvB6N3OACeH0gJL9BRqf) | [EXTASIAAAAA](https://open.spotify.com/album/3UgEqtgcM9rzK7wMmnwmTq) | 2:51 |
 | 50 | [AFFECTION \(feat\. Genezio\)](https://open.spotify.com/track/16HcZnsLVs8wIZSrvK5lL5) | [twinsmatic](https://open.spotify.com/artist/3gYoYSbWPhxA0zY9lZ4Ldv), [Genezio](https://open.spotify.com/artist/0PcU18DNfkn3pmbjy5yMFz) | [AFFECTION \(feat\. Genezio\)](https://open.spotify.com/album/6ViIWL9rtfyeMNCXnN8vbg) | 2:48 |
 
-Snapshot ID: `AAAAAPrGmehFOlEKlDpZ2dukmKIiVyBy`
+Snapshot ID: `AAAAAFVu/QUsdrg3rj6es0GJ1tEObKux`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3bwnP3.md) - [plain]
 
 > This is Kara\-Lis Coverdale\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 130 likes - 41 songs - 3 hr 50 min
+[Spotify](https://open.spotify.com/user/spotify) - 130 likes - 41 songs - 3 hr 48 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -21,23 +21,23 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3bwnP3.md) - [plain]
 | 11 | [Grafts](https://open.spotify.com/track/3MNKjPvkQnMNq8BU2GwYFq) | [Kara\-Lis Coverdale](https://open.spotify.com/artist/5pHUdo5THDtmE9yu3iC2hA) | [Grafts](https://open.spotify.com/album/6hT28oOwJbnRX9qvxbXbTw) | 22:31 |
 | 12 | [Cumulative Resolution](https://open.spotify.com/track/0kcPM8OPrJM4th8SGKrP3t) | [Kara\-Lis Coverdale](https://open.spotify.com/artist/5pHUdo5THDtmE9yu3iC2hA) | [A Series of Actions in a Sphere of Forever](https://open.spotify.com/album/7jqanGEo3DEBp0nsg2PNjt) | 1:42 |
 | 13 | [Labyrinth I](https://open.spotify.com/track/5BV4TPbH6jQnDOs8B1En4j) | [Kara\-Lis Coverdale](https://open.spotify.com/artist/5pHUdo5THDtmE9yu3iC2hA) | [Changes in Air](https://open.spotify.com/album/3UfJSJzmYcUex6Uj5f7DdI) | 10:44 |
-| 14 | [Equal Exchange](https://open.spotify.com/track/76oCgSqT7J9T6UlSUtPD1Q) | [Kara\-Lis Coverdale](https://open.spotify.com/artist/5pHUdo5THDtmE9yu3iC2hA) | [From Where You Came](https://open.spotify.com/album/7ngtNHKrtpN37n5Sr2lwQV) | 2:03 |
+| 14 | [Eternity](https://open.spotify.com/track/2EFrVQIBtydHgQd8S6Ftrz) | [Kara\-Lis Coverdale](https://open.spotify.com/artist/5pHUdo5THDtmE9yu3iC2hA) | [From Where You Came](https://open.spotify.com/album/7ngtNHKrtpN37n5Sr2lwQV) | 3:31 |
 | 15 | [Imgs /r](https://open.spotify.com/track/5aTBLrW5ACeiRAGtGLN9dE) | [Kara\-Lis Coverdale](https://open.spotify.com/artist/5pHUdo5THDtmE9yu3iC2hA) | [Aftertouches](https://open.spotify.com/album/7Fe43zwjkO6cMNrP8HdDoN) | 4:26 |
 | 16 | [Circularism](https://open.spotify.com/track/0hqnrTulWeD25GZBr1SERM) | [Kara\-Lis Coverdale](https://open.spotify.com/artist/5pHUdo5THDtmE9yu3iC2hA) | [A Series of Actions in a Sphere of Forever](https://open.spotify.com/album/7jqanGEo3DEBp0nsg2PNjt) | 3:37 |
 | 17 | [Strait of Phase](https://open.spotify.com/track/4IywKZMcRrWHSmDeGekJB2) | [Kara\-Lis Coverdale](https://open.spotify.com/artist/5pHUdo5THDtmE9yu3iC2hA) | [Changes in Air](https://open.spotify.com/album/3UfJSJzmYcUex6Uj5f7DdI) | 12:10 |
-| 18 | [Eternity](https://open.spotify.com/track/2EFrVQIBtydHgQd8S6Ftrz) | [Kara\-Lis Coverdale](https://open.spotify.com/artist/5pHUdo5THDtmE9yu3iC2hA) | [From Where You Came](https://open.spotify.com/album/7ngtNHKrtpN37n5Sr2lwQV) | 3:31 |
-| 19 | [Undo](https://open.spotify.com/track/04ulTcYnjXajnw2T3KO6D1) | [Kara\-Lis Coverdale](https://open.spotify.com/artist/5pHUdo5THDtmE9yu3iC2hA) | [Grafts \(Expanded Reissue\)](https://open.spotify.com/album/2sB7YlLZuBhoQjovV8bZTW) | 20:10 |
-| 20 | [Fireflight](https://open.spotify.com/track/106Kuzs6vIiW908vLAOm0G) | [Kara\-Lis Coverdale](https://open.spotify.com/artist/5pHUdo5THDtmE9yu3iC2hA) | [Fireflight](https://open.spotify.com/album/28vw89lvpwrlfi54Rgvv8S) | 3:04 |
+| 18 | [Equal Exchange](https://open.spotify.com/track/76oCgSqT7J9T6UlSUtPD1Q) | [Kara\-Lis Coverdale](https://open.spotify.com/artist/5pHUdo5THDtmE9yu3iC2hA) | [From Where You Came](https://open.spotify.com/album/7ngtNHKrtpN37n5Sr2lwQV) | 2:03 |
+| 19 | [Fireflight](https://open.spotify.com/track/106Kuzs6vIiW908vLAOm0G) | [Kara\-Lis Coverdale](https://open.spotify.com/artist/5pHUdo5THDtmE9yu3iC2hA) | [Fireflight](https://open.spotify.com/album/28vw89lvpwrlfi54Rgvv8S) | 3:04 |
+| 20 | [Undo](https://open.spotify.com/track/04ulTcYnjXajnw2T3KO6D1) | [Kara\-Lis Coverdale](https://open.spotify.com/artist/5pHUdo5THDtmE9yu3iC2hA) | [Grafts \(Expanded Reissue\)](https://open.spotify.com/album/2sB7YlLZuBhoQjovV8bZTW) | 20:10 |
 | 21 | [Oriri](https://open.spotify.com/track/60LOVP00FWMzZUQLZw6RW7) | [Kara\-Lis Coverdale](https://open.spotify.com/artist/5pHUdo5THDtmE9yu3iC2hA) | [Changes in Air](https://open.spotify.com/album/3UfJSJzmYcUex6Uj5f7DdI) | 4:17 |
 | 22 | [In Charge of the Hour](https://open.spotify.com/track/1GHdBzTFgGOjpIk2oCmfSw) | [Kara\-Lis Coverdale](https://open.spotify.com/artist/5pHUdo5THDtmE9yu3iC2hA) | [A Series of Actions in a Sphere of Forever](https://open.spotify.com/album/7jqanGEo3DEBp0nsg2PNjt) | 3:32 |
 | 23 | [Habitat](https://open.spotify.com/track/31svskbKJJBnUFVl6DUCuE) | [Kara\-Lis Coverdale](https://open.spotify.com/artist/5pHUdo5THDtmE9yu3iC2hA) | [From Where You Came](https://open.spotify.com/album/7ngtNHKrtpN37n5Sr2lwQV) | 2:11 |
 | 24 | [Icon /c](https://open.spotify.com/track/0efZEOgLVMMmjO5Gdz5ul7) | [Kara\-Lis Coverdale](https://open.spotify.com/artist/5pHUdo5THDtmE9yu3iC2hA) | [Aftertouches](https://open.spotify.com/album/7Fe43zwjkO6cMNrP8HdDoN) | 3:52 |
 | 25 | [Buried Trig](https://open.spotify.com/track/0cmTYyCmYFOQjrR94Qph4A) | [Kara\-Lis Coverdale](https://open.spotify.com/artist/5pHUdo5THDtmE9yu3iC2hA) | [Inscriptions, Vol\. 3](https://open.spotify.com/album/4xjqtaDrXhWVPHZzB5pMfq) | 4:08 |
-| 26 | [Suspension of Swallowed Earth](https://open.spotify.com/track/3VxrMBKHaeYqJJ6K6A0AZ0) | [Kara\-Lis Coverdale](https://open.spotify.com/artist/5pHUdo5THDtmE9yu3iC2hA) | [A Series of Actions in a Sphere of Forever](https://open.spotify.com/album/7jqanGEo3DEBp0nsg2PNjt) | 3:33 |
+| 26 | [Soft Fold 3/4](https://open.spotify.com/track/3nn1FUPOFu0PUu6hemr6Dl) | [Kara\-Lis Coverdale](https://open.spotify.com/artist/5pHUdo5THDtmE9yu3iC2hA) | [A Series of Actions in a Sphere of Forever](https://open.spotify.com/album/7jqanGEo3DEBp0nsg2PNjt) | 3:16 |
 | 27 | [Problem of No Name](https://open.spotify.com/track/65pLS8T7mESnWG1EFmZkQK) | [Kara\-Lis Coverdale](https://open.spotify.com/artist/5pHUdo5THDtmE9yu3iC2hA) | [From Where You Came](https://open.spotify.com/album/7ngtNHKrtpN37n5Sr2lwQV) | 4:05 |
 | 28 | [X 4Ewi](https://open.spotify.com/track/47AGpXeFWGGEDODJTPyLel) | [Kara\-Lis Coverdale](https://open.spotify.com/artist/5pHUdo5THDtmE9yu3iC2hA) | [Aftertouches](https://open.spotify.com/album/7Fe43zwjkO6cMNrP8HdDoN) | 5:20 |
 | 29 | [Territory of Subtle Entries](https://open.spotify.com/track/0Kl61IXkzmvPEHTObYIG3Z) | [Kara\-Lis Coverdale](https://open.spotify.com/artist/5pHUdo5THDtmE9yu3iC2hA), [LXV](https://open.spotify.com/artist/1hPsIMuL2e8gJ0CvjoVYTY) | [Sirens](https://open.spotify.com/album/6en5BWb6TtVh1g7LqMIXol) | 4:28 |
-| 30 | [Soft Fold 3/4](https://open.spotify.com/track/3nn1FUPOFu0PUu6hemr6Dl) | [Kara\-Lis Coverdale](https://open.spotify.com/artist/5pHUdo5THDtmE9yu3iC2hA) | [A Series of Actions in a Sphere of Forever](https://open.spotify.com/album/7jqanGEo3DEBp0nsg2PNjt) | 3:16 |
+| 30 | [Suspension of Swallowed Earth](https://open.spotify.com/track/3VxrMBKHaeYqJJ6K6A0AZ0) | [Kara\-Lis Coverdale](https://open.spotify.com/artist/5pHUdo5THDtmE9yu3iC2hA) | [A Series of Actions in a Sphere of Forever](https://open.spotify.com/album/7jqanGEo3DEBp0nsg2PNjt) | 3:33 |
 | 31 | [Kvinne med gresskar](https://open.spotify.com/track/193aqF62XnBBlBEvdT73Eh) | [Kara\-Lis Coverdale](https://open.spotify.com/artist/5pHUdo5THDtmE9yu3iC2hA) | [Jordsvingninger \(A Smalltown Supersound compilation of exclusive tracks\)](https://open.spotify.com/album/0IPRLbTk25WC4mUneVUgRN) | 2:28 |
 | 32 | [Splash 144](https://open.spotify.com/track/2gYY1MQiNbdbvOY054ty0j) | [Kara\-Lis Coverdale](https://open.spotify.com/artist/5pHUdo5THDtmE9yu3iC2hA) | [Aftertouches](https://open.spotify.com/album/7Fe43zwjkO6cMNrP8HdDoN) | 3:31 |
 | 33 | [Grigori in Jakarta](https://open.spotify.com/track/1JdN8N43xEjTNNGAjP3HIg) | [Kara\-Lis Coverdale](https://open.spotify.com/artist/5pHUdo5THDtmE9yu3iC2hA), [LXV](https://open.spotify.com/artist/1hPsIMuL2e8gJ0CvjoVYTY) | [Sirens](https://open.spotify.com/album/6en5BWb6TtVh1g7LqMIXol) | 3:47 |
@@ -48,6 +48,6 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3bwnP3.md) - [plain]
 | 38 | [A 480](https://open.spotify.com/track/59fgjCn7ebqw8l3tl93Hfr) | [Kara\-Lis Coverdale](https://open.spotify.com/artist/5pHUdo5THDtmE9yu3iC2hA) | [A 480](https://open.spotify.com/album/4vYhuBSKCeJ6DcARcvS1Fm) | 2:37 |
 | 39 | [Subfall \(to\)](https://open.spotify.com/track/7DCelWwpKq62RHmAgpOJEI) | [Kara\-Lis Coverdale](https://open.spotify.com/artist/5pHUdo5THDtmE9yu3iC2hA), [LXV](https://open.spotify.com/artist/1hPsIMuL2e8gJ0CvjoVYTY) | [Sirens](https://open.spotify.com/album/6en5BWb6TtVh1g7LqMIXol) | 6:12 |
 | 40 | [Informant](https://open.spotify.com/track/5DlXehvZA7eKs50M8UEcgc) | [Kara\-Lis Coverdale](https://open.spotify.com/artist/5pHUdo5THDtmE9yu3iC2hA), [LXV](https://open.spotify.com/artist/1hPsIMuL2e8gJ0CvjoVYTY) | [Sirens](https://open.spotify.com/album/6en5BWb6TtVh1g7LqMIXol) | 7:06 |
-| 41 | [Disney](https://open.spotify.com/track/5MkuEX1acmkliCnJggxXgo) | [Kara\-Lis Coverdale](https://open.spotify.com/artist/5pHUdo5THDtmE9yu3iC2hA), [LXV](https://open.spotify.com/artist/1hPsIMuL2e8gJ0CvjoVYTY) | [Sirens](https://open.spotify.com/album/6en5BWb6TtVh1g7LqMIXol) | 8:14 |
+| 41 | [Tunnel Vision](https://open.spotify.com/track/1D28HzWfjCZQ3uxUYfahoT) | [Kara\-Lis Coverdale](https://open.spotify.com/artist/5pHUdo5THDtmE9yu3iC2hA), [LXV](https://open.spotify.com/artist/1hPsIMuL2e8gJ0CvjoVYTY) | [Sirens](https://open.spotify.com/album/6en5BWb6TtVh1g7LqMIXol) | 5:56 |
 
-Snapshot ID: `awIwgAAAAACNRm+iD7aIGjzc/uLNUgJW`
+Snapshot ID: `awOCAAAAAABPohLniXRGfvyIH1TNfWYe`

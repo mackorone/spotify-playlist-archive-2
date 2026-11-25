@@ -4,7 +4,7 @@
 
 > Your daily update of the most played tracks right now \- Taiwan.
 
-1,808 songs - 4 day 8 hr 59 min
+1,809 songs - 4 day 9 hr 2 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -166,6 +166,7 @@
 | [But Daddy I Love Him](https://open.spotify.com/track/5og4Qzt92jJzVDkOtSEilb) | [Taylor Swift](https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02) | [THE TORTURED POETS DEPARTMENT](https://open.spotify.com/album/1Mo4aZ8pdj6L1jx8zSwJnt) | 5:40 | 2024-04-20 | 2024-04-26 |
 | [Butter](https://open.spotify.com/track/2bgTY4UwhfBYhGT4HUYStN) | [BTS](https://open.spotify.com/artist/3Nrfpe0tUJi4K4DXYWgMUX) | [Butter \(Hotter, Sweeter, Cooler\)](https://open.spotify.com/album/1HnJKmB4P6Z8RBdLMWx18w) | 2:44 | 2021-06-10 | 2021-10-23 |
 | [Butter](https://open.spotify.com/track/3VqeTFIvhxu3DIe4eZVzGq) | [BTS](https://open.spotify.com/artist/3Nrfpe0tUJi4K4DXYWgMUX) | [Butter](https://open.spotify.com/album/2BDhPi2XCYujYxU6VM0QaD) | 2:44 | 2021-05-23 | 2021-06-10 |
+| [Butter](https://open.spotify.com/track/6jjYDGxVJsWS0a5wlVF5vS) | [BTS](https://open.spotify.com/artist/3Nrfpe0tUJi4K4DXYWgMUX) | [Proof](https://open.spotify.com/album/6al2VdKbb6FIz9d7lU7WRB) | 2:44 | 2026-11-24 |  |
 | [Butter \(Megan Thee Stallion Remix\)](https://open.spotify.com/track/3JR0ducCexKbeK47g6AHm5) | [BTS](https://open.spotify.com/artist/3Nrfpe0tUJi4K4DXYWgMUX), [Megan Thee Stallion](https://open.spotify.com/artist/181bsRPaVXVlUKXrxwZfHK) | [Butter \(Megan Thee Stallion Remix\)](https://open.spotify.com/album/4VmlZdGnrtNpiCJFXplGrP) | 2:44 | 2021-09-01 | 2021-09-04 |
 | [BUTTERFLIES](https://open.spotify.com/track/263Nr1Hd1soxwsCLZpslTS) | [Justin Bieber](https://open.spotify.com/artist/1uNFoZAHBGtllmzznpCI3s) | [SWAG](https://open.spotify.com/album/6ZXIXOT3F3ixjH66eqJl0S) | 3:13 | 2025-07-12 | 2025-07-14 |
 | [BUZZ](https://open.spotify.com/track/4uTZm3WrT4gGWZx77N80gv) | [PANTHEPACK](https://open.spotify.com/artist/3mtw7Fkg8wdXJdub6ZIkJb) | [The Pack](https://open.spotify.com/album/5z8pxdSutKoCU5hcrOznpB) | 3:11 | 2021-09-19 | 2021-09-30 |
@@ -262,7 +263,7 @@
 | [deja vu](https://open.spotify.com/track/61KpQadow081I2AsbeLcsb) | [Olivia Rodrigo](https://open.spotify.com/artist/1McMsnEElThX1knmY4oliG) | [deja vu](https://open.spotify.com/album/3lwHyR4joA1xB7Nun21EP6) | 3:35 | 2021-04-07 | 2021-05-23 |
 | [Deja Vu](https://open.spotify.com/track/3aAnwyBJY9OLNLqSgd4fZU) | [TOMORROW X TOGETHER](https://open.spotify.com/artist/0ghlgldX5Dd6720Q3qFyQB) | [minisode 3: TOMORROW](https://open.spotify.com/album/0mDwrOXZHN1lgCNeBvkBbj) | 2:51 | 2024-04-03 | 2024-05-26 |
 | [DEPENDS](https://open.spotify.com/track/23rcMbTChRPIwtCycyb3E4) | [XG](https://open.spotify.com/artist/0LOK81e9H5lr61HlGGHqwA) | [DEPENDS](https://open.spotify.com/album/1ovXAdBxEGkXoYkIEg0IG8) | 3:05 | 2026-11-12 | 2026-11-16 |
-| [DESERVE](https://open.spotify.com/track/7It5Iy4mnJWMhESt7qfipt) | [BABYMONSTER](https://open.spotify.com/artist/1SIocsqdEefUTE6XKGUiVS) | [DESERVE](https://open.spotify.com/album/7Aj6krHADdqO0MQaYejME0) | 3:09 | 2026-10-24 |  |
+| [DESERVE](https://open.spotify.com/track/7It5Iy4mnJWMhESt7qfipt) | [BABYMONSTER](https://open.spotify.com/artist/1SIocsqdEefUTE6XKGUiVS) | [DESERVE](https://open.spotify.com/album/7Aj6krHADdqO0MQaYejME0) | 3:09 | 2026-10-24 | 2026-11-25 |
 | [DESERVE](https://open.spotify.com/track/4pqPtMvJlvrCAws8Xtz2T5) | [Gummy B](https://open.spotify.com/artist/041GibkKYtPdNlIAqxs1gs) | [更好](https://open.spotify.com/album/0FKC566l6cp7gHF0QXe9G3) | 2:34 | 2025-10-02 | 2025-10-05 |
 | [Destiny \(WOOZI Solo\)](https://open.spotify.com/track/0z2DWFjnHhuWjlMFqAH4GN) | [SEVENTEEN](https://open.spotify.com/artist/7nqOGRxlXj7N2JYbgNEjYH) | [SEVENTEEN 5th Album 'HAPPY BURSTDAY'](https://open.spotify.com/album/0xlyof8BowaJtYPsxWYmkN) | 4:21 | 2025-05-28 | 2025-05-30 |
 | [Di Da Di](https://open.spotify.com/track/3MmdjiDvWsn5kmDJAbOmiK) | [CoCo Lee](https://open.spotify.com/artist/3ioHf138TiMxYRCWmC8yJX) | [DI\-DA\-DI暗示](https://open.spotify.com/album/1hW9QA6WJxiH8VqxSa4KTz) | 4:29 | 2023-07-07 | 2023-07-09 |
@@ -403,7 +404,7 @@
 | [FRI\(END\)S](https://open.spotify.com/track/0PBTlQ84CBJF0tBnKGmQa6) | [V](https://open.spotify.com/artist/3JsHnjpbhX4SnySpvpa9DK) | [FRI\(END\)S](https://open.spotify.com/album/7v4sqd0NZ9Fm8HnwCcCGIs) | 2:28 | 2024-03-16 | 2026-03-22 |
 | [FXCK UP THE WORLD \(feat\. Future\)](https://open.spotify.com/track/4rBRRLgdB9DYJhqA9uVcWt) | [LISA](https://open.spotify.com/artist/5L1lO4eRHmJ7a0Q6csE5cT), [Future](https://open.spotify.com/artist/1RyvyyTE3xzB2ZywiAwp0i) | [Alter Ego](https://open.spotify.com/album/5eoWRkeplmcCL97afSMJVm) | 3:04 | 2025-03-01 | 2025-03-12 |
 | [Fxxxboy](https://open.spotify.com/track/7m0duH1vdTNxM2g8BLfR0F) | [BLACKPINK](https://open.spotify.com/artist/41MozSoPIsD1dJM0CLPjZF) | [DEADLINE](https://open.spotify.com/album/2SrWldMz9dfCB7kAGQNbcC) | 3:07 | 2026-02-28 | 2026-03-08 |
-| [FYA](https://open.spotify.com/track/0KmrKOdScRDVYwWS8hkkdv) | [BTS](https://open.spotify.com/artist/3Nrfpe0tUJi4K4DXYWgMUX) | [ARIRANG](https://open.spotify.com/album/3ukkRHDHbN8tNRPKsGZR1h) | 3:00 | 2026-03-21 | 2026-11-24 |
+| [FYA](https://open.spotify.com/track/0KmrKOdScRDVYwWS8hkkdv) | [BTS](https://open.spotify.com/artist/3Nrfpe0tUJi4K4DXYWgMUX) | [ARIRANG](https://open.spotify.com/album/3ukkRHDHbN8tNRPKsGZR1h) | 3:00 | 2026-03-21 |  |
 | [Gabriela](https://open.spotify.com/track/1xOqGUkyxGQRdCvGpvWKmL) | [KATSEYE](https://open.spotify.com/artist/3c0gDdb9lhnHGFtP4prQpn) | [Gabriela](https://open.spotify.com/album/6rpin9IVOuBEWBYnrA9hft) | 3:17 | 2025-06-24 | 2025-11-28 |
 | [gameboy](https://open.spotify.com/track/77n3jFGqPPxYrEGwrWylNv) | [ROSÉ](https://open.spotify.com/artist/3eVa5w3URK5duf6eyVDbu9) | [rosie](https://open.spotify.com/album/7kFyd5oyJdVX2pIi6P4iHE) | 2:46 | 2024-12-07 | 2024-12-29 |
 | [GANADARA \(Feat\. IU\)](https://open.spotify.com/track/5quFr5s5PXYfUX5jV2EBZ1) | [Jay Park](https://open.spotify.com/artist/4XDi67ZENZcbfKnvMnTYsI), [IU](https://open.spotify.com/artist/3HqSLMAZ3g3d5poNaI7GOU) | [GANADARA](https://open.spotify.com/album/4cwyl5ynvYVojZRbZ3dSFH) | 3:23 | 2022-03-13 | 2022-04-03 |
@@ -1536,7 +1537,7 @@
 | [擋一根](https://open.spotify.com/track/6439IQyiZV5I7aOo8UREgm) | [Amazing Show](https://open.spotify.com/artist/3n16EAnJtz6SZGx2zJssrI) | [電火王](https://open.spotify.com/album/2M55kmmq0xR32RKDtBIeHT) | 3:56 | 2025-05-20 | 2025-05-28 |
 | [擱淺](https://open.spotify.com/track/4Rt9k4SE8dbfKzngxKJPq9) | [Jay Chou](https://open.spotify.com/artist/2elBjNSdBE2Y3f0j1mjrql) | [七里香](https://open.spotify.com/album/27I7fCoQRSdL9PT1nFWEPC) | 3:56 | 2022-11-13 | 2024-01-09 |
 | [擱淺](https://open.spotify.com/track/0cOMncRq4cmDLO4tPQnkBF) | [Jay Chou](https://open.spotify.com/artist/2elBjNSdBE2Y3f0j1mjrql) | [七里香](https://open.spotify.com/album/6WdM1OfmVIPuQ56QPmaJIr) | 3:58 | 2024-01-08 | 2026-11-24 |
-| [擱淺](https://open.spotify.com/track/56mzU03ZesV0iRroHR2K04) | [Jay Chou](https://open.spotify.com/artist/2elBjNSdBE2Y3f0j1mjrql) | [七里香](https://open.spotify.com/album/7vSaodFzUYCexkKXeEhkpc) | 3:58 | 2024-09-16 |  |
+| [擱淺](https://open.spotify.com/track/56mzU03ZesV0iRroHR2K04) | [Jay Chou](https://open.spotify.com/artist/2elBjNSdBE2Y3f0j1mjrql) | [七里香](https://open.spotify.com/album/7vSaodFzUYCexkKXeEhkpc) | 3:58 | 2024-09-16 | 2026-11-25 |
 | [敦化南路 \(Revisit\)](https://open.spotify.com/track/1fN2vfoCaDR1CkGsTAn6aT) | [Gummy B](https://open.spotify.com/artist/041GibkKYtPdNlIAqxs1gs) | [大嘻哈時代2: BLOCK TO BLOCK 區域對決](https://open.spotify.com/album/6LFaMq5M9auGTQ2ynneItM) | 4:06 | 2023-03-03 | 2023-03-23 |
 | [數到十](https://open.spotify.com/track/6RN4rGtDTTx9orufM72pC4) | [Pets Tseng](https://open.spotify.com/artist/1he19XnDUahODrmRwKlC8w) | [下週同樣時間](https://open.spotify.com/album/5q6W70On4xxzLuYlKMHxTz) | 3:52 | 2025-05-30 | 2026-10-10 |
 | [新時代](https://open.spotify.com/track/28MATCYDctW5EiBa2repxb) | [Ado](https://open.spotify.com/artist/6mEQK9m2krja6X1cfsAjfl) | [ウタの歌 ONE PIECE FILM RED](https://open.spotify.com/album/5WStsinR0ZOQRoCI6rQPZA) | 3:46 | 2022-08-20 | 2022-10-07 |

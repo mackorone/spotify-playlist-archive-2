@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1NyWWI.md) - [plain]
 
 > This is Led Zeppelin\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,222,725 likes - 50 songs - 4 hr 29 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,222,736 likes - 50 songs - 4 hr 29 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -18,16 +18,16 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1NyWWI.md) - [plain]
 | 8 | [Over the Hills and Far Away \- Remaster](https://open.spotify.com/track/2eDdFHgqNJltzlvlZFVDWd) | [Led Zeppelin](https://open.spotify.com/artist/36QJpDe2go2KgaRleHCDTp) | [Houses of the Holy \(Remaster\)](https://open.spotify.com/album/0GqpoHJREPp0iuXK3HzrHk) | 4:50 |
 | 9 | [Black Dog \- Remaster](https://open.spotify.com/track/3qT4bUD1MaWpGrTwcvguhb) | [Led Zeppelin](https://open.spotify.com/artist/36QJpDe2go2KgaRleHCDTp) | [Led Zeppelin IV \(Deluxe Edition\)](https://open.spotify.com/album/44Ig8dzqOkvkGDzaUof9lK) | 4:55 |
 | 10 | [D'yer Mak'er \- Remaster](https://open.spotify.com/track/4ItljeeAXtHsnsnnQojaO2) | [Led Zeppelin](https://open.spotify.com/artist/36QJpDe2go2KgaRleHCDTp) | [Houses of the Holy \(Deluxe Edition\)](https://open.spotify.com/album/7gS8ozSkvPW3VBPLnXOZ7S) | 4:22 |
-| 11 | [Fool in the Rain \- Remaster](https://open.spotify.com/track/3i25w2HOWoafnTIiWJCL71) | [Led Zeppelin](https://open.spotify.com/artist/36QJpDe2go2KgaRleHCDTp) | [In Through the out Door \(Remaster\)](https://open.spotify.com/album/1W5CtQ7Ng0kP3lXyz7PIT2) | 6:10 |
-| 12 | [Good Times Bad Times \- 1993 Remaster](https://open.spotify.com/track/0QwZfbw26QeUoIy82Z2jYp) | [Led Zeppelin](https://open.spotify.com/artist/36QJpDe2go2KgaRleHCDTp) | [Led Zeppelin](https://open.spotify.com/album/3ycjBixZf7S3WpC5WZhhUK) | 2:46 |
+| 11 | [Good Times Bad Times \- 1993 Remaster](https://open.spotify.com/track/0QwZfbw26QeUoIy82Z2jYp) | [Led Zeppelin](https://open.spotify.com/artist/36QJpDe2go2KgaRleHCDTp) | [Led Zeppelin](https://open.spotify.com/album/3ycjBixZf7S3WpC5WZhhUK) | 2:46 |
+| 12 | [Fool in the Rain \- Remaster](https://open.spotify.com/track/3i25w2HOWoafnTIiWJCL71) | [Led Zeppelin](https://open.spotify.com/artist/36QJpDe2go2KgaRleHCDTp) | [In Through the out Door \(Remaster\)](https://open.spotify.com/album/1W5CtQ7Ng0kP3lXyz7PIT2) | 6:10 |
 | 13 | [Going to California \- Remaster](https://open.spotify.com/track/70gbuMqwNBE2Y5rkQJE9By) | [Led Zeppelin](https://open.spotify.com/artist/36QJpDe2go2KgaRleHCDTp) | [Led Zeppelin IV \(Deluxe Edition\)](https://open.spotify.com/album/44Ig8dzqOkvkGDzaUof9lK) | 3:32 |
 | 14 | [Hey, Hey, What Can I Do \- Remaster](https://open.spotify.com/track/16VhHtoaOjTU4AJBNSBNQ1) | [Led Zeppelin](https://open.spotify.com/artist/36QJpDe2go2KgaRleHCDTp) | [Coda \(Deluxe Edition\)](https://open.spotify.com/album/56G9UnPmRifbubzPDJfAyd) | 3:56 |
-| 15 | [Tangerine \- Remaster](https://open.spotify.com/track/4ywWJqYKOwaVVh9xXARWUS) | [Led Zeppelin](https://open.spotify.com/artist/36QJpDe2go2KgaRleHCDTp) | [Led Zeppelin III \(Remaster\)](https://open.spotify.com/album/6P5QHz4XtxOmS5EuiGIPut) | 3:11 |
-| 16 | [Babe I'm Gonna Leave You \- 1990 Remaster](https://open.spotify.com/track/4OMu5a8sFpcRCPCcsoEaov) | [Led Zeppelin](https://open.spotify.com/artist/36QJpDe2go2KgaRleHCDTp) | [Led Zeppelin](https://open.spotify.com/album/3ycjBixZf7S3WpC5WZhhUK) | 6:41 |
+| 15 | [Babe I'm Gonna Leave You \- 1990 Remaster](https://open.spotify.com/track/4OMu5a8sFpcRCPCcsoEaov) | [Led Zeppelin](https://open.spotify.com/artist/36QJpDe2go2KgaRleHCDTp) | [Led Zeppelin](https://open.spotify.com/album/3ycjBixZf7S3WpC5WZhhUK) | 6:41 |
+| 16 | [Tangerine \- Remaster](https://open.spotify.com/track/4ywWJqYKOwaVVh9xXARWUS) | [Led Zeppelin](https://open.spotify.com/artist/36QJpDe2go2KgaRleHCDTp) | [Led Zeppelin III \(Remaster\)](https://open.spotify.com/album/6P5QHz4XtxOmS5EuiGIPut) | 3:11 |
 | 17 | [When the Levee Breaks \- Remaster](https://open.spotify.com/track/05f8Hg3RSfiPSCBQOtxl3i) | [Led Zeppelin](https://open.spotify.com/artist/36QJpDe2go2KgaRleHCDTp) | [Led Zeppelin IV \(Deluxe Edition\)](https://open.spotify.com/album/44Ig8dzqOkvkGDzaUof9lK) | 7:08 |
 | 18 | [Heartbreaker \- 1990 Remaster](https://open.spotify.com/track/6WE7jSshLCuVKoCmobVKVf) | [Led Zeppelin](https://open.spotify.com/artist/36QJpDe2go2KgaRleHCDTp) | [Led Zeppelin II \(1994 Remaster\)](https://open.spotify.com/album/70lQYZtypdCALtFVlQAcvx) | 4:14 |
-| 19 | [Since I've Been Loving You \- Remaster](https://open.spotify.com/track/1SDiiE3v2z89VxC3aVRKHQ) | [Led Zeppelin](https://open.spotify.com/artist/36QJpDe2go2KgaRleHCDTp) | [Led Zeppelin III \(Remaster\)](https://open.spotify.com/album/6P5QHz4XtxOmS5EuiGIPut) | 7:24 |
-| 20 | [Dazed and Confused \- 1990 Remaster](https://open.spotify.com/track/6hu1f1cXSw7OAqhpSQ2zDy) | [Led Zeppelin](https://open.spotify.com/artist/36QJpDe2go2KgaRleHCDTp) | [Led Zeppelin](https://open.spotify.com/album/3ycjBixZf7S3WpC5WZhhUK) | 6:26 |
+| 19 | [Dazed and Confused \- 1990 Remaster](https://open.spotify.com/track/6hu1f1cXSw7OAqhpSQ2zDy) | [Led Zeppelin](https://open.spotify.com/artist/36QJpDe2go2KgaRleHCDTp) | [Led Zeppelin](https://open.spotify.com/album/3ycjBixZf7S3WpC5WZhhUK) | 6:26 |
+| 20 | [Since I've Been Loving You \- Remaster](https://open.spotify.com/track/1SDiiE3v2z89VxC3aVRKHQ) | [Led Zeppelin](https://open.spotify.com/artist/36QJpDe2go2KgaRleHCDTp) | [Led Zeppelin III \(Remaster\)](https://open.spotify.com/album/6P5QHz4XtxOmS5EuiGIPut) | 7:24 |
 | 21 | [The Rain Song \- Remaster](https://open.spotify.com/track/3JLrri1xSCui3bzITDJbkk) | [Led Zeppelin](https://open.spotify.com/artist/36QJpDe2go2KgaRleHCDTp) | [Houses of the Holy \(Remaster\)](https://open.spotify.com/album/0GqpoHJREPp0iuXK3HzrHk) | 7:39 |
 | 22 | [Ten Years Gone \- Remaster](https://open.spotify.com/track/6M5m8gfTj3rhYEPDzLmdL4) | [Led Zeppelin](https://open.spotify.com/artist/36QJpDe2go2KgaRleHCDTp) | [Physical Graffiti \(Deluxe Edition\)](https://open.spotify.com/album/26tH0kjUhkxBEd3ipGkx3Y) | 6:34 |
 | 23 | [Thank You \- 1990 Remaster](https://open.spotify.com/track/4ZkhFcoS3apzze9w2yI9NO) | [Led Zeppelin](https://open.spotify.com/artist/36QJpDe2go2KgaRleHCDTp) | [Led Zeppelin II \(1994 Remaster\)](https://open.spotify.com/album/70lQYZtypdCALtFVlQAcvx) | 4:49 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1NyWWI.md) - [plain]
 | 49 | [What Is and What Should Never Be \- 1990 Remaster](https://open.spotify.com/track/5G7uLHtoEW140QOcBpJlfz) | [Led Zeppelin](https://open.spotify.com/artist/36QJpDe2go2KgaRleHCDTp) | [Led Zeppelin II \(1994 Remaster\)](https://open.spotify.com/album/70lQYZtypdCALtFVlQAcvx) | 4:43 |
 | 50 | [Friends \- Remaster](https://open.spotify.com/track/7jP44G0vKQLkfJ3x19pqPn) | [Led Zeppelin](https://open.spotify.com/artist/36QJpDe2go2KgaRleHCDTp) | [Led Zeppelin III \(Remaster\)](https://open.spotify.com/album/6P5QHz4XtxOmS5EuiGIPut) | 3:53 |
 
-Snapshot ID: `awIwgAAAAABcpv7qUUXeGeOfp5e0pI02`
+Snapshot ID: `awOCAAAAAAC9QYiGMOO5+FAnx+/i/aOd`

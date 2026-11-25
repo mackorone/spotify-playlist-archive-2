@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5bjCEbRU4SJ.md) - [plain]
 
 > Calm Down with this chilled out playlist\. For when it's time to just sit and bask in the afterglow.
 
-[Spotify](https://open.spotify.com/user/spotify) - 26,232 likes - 70 songs - 4 hr 45 min
+[Spotify](https://open.spotify.com/user/spotify) - 26,250 likes - 70 songs - 4 hr 45 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -79,4 +79,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5bjCEbRU4SJ.md) - [plain]
 | 69 | [The Healing Day](https://open.spotify.com/track/6L8XgwcRqIZGWvvyEEPtui) | [Bill Fay](https://open.spotify.com/artist/3Wok7FweiLrlia97LMCJh1) | [Life Is People \[Spotify Exclusive\]](https://open.spotify.com/album/1W9WpSBCm665dwflnP7dSt) | 5:14 |
 | 70 | [Dry Your Eyes](https://open.spotify.com/track/3wfyXleQB8piYZimuVLazF) | [Kevin Morby](https://open.spotify.com/artist/6fxk3UXHTFYET8qCT9WlBF) | [City Music](https://open.spotify.com/album/2vBwQxoey9MJ7CApSpGya9) | 4:12 |
 
-Snapshot ID: `AAAAALdZmJmBRYzuxqealghF6pdx3rpo`
+Snapshot ID: `AAAAADzv7P63aMaRUtWbHwwzZdHNu9UZ`

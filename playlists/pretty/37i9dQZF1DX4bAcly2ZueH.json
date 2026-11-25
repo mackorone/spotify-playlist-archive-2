@@ -1,12 +1,12 @@
 {
   "description": "\u4f8b\u3048\u3070\u3001\u90e8\u5c4b\u3067\u732b\u3068\u663c\u5bdd\u3092\u3059\u308b\u3088\u3046\u306b\u3001\u3086\u3063\u305f\u308a\u3068\u3057\u305f\u30a8\u30ec\u30af\u30c8\u30ed\u30c1\u30eb\u3067\u5c0f\u4f11\u61a9\u3057\u307e\u305b\u3093\u304b\uff1f\uff1f",
-  "num_followers": 55521,
+  "num_followers": 55525,
   "original_name": "\u732b\u3068\u304a\u663c\u5bdd Afternoon Catnap",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAO61w0ZHrvD3JxhAT1mDRv1uEUGt",
+  "snapshot_id": "AAAAAJleRsCPMj6WAxDn8kDWkNKQoVY+",
   "tracks": [
     {
       "added_at": "2026-11-15 13:57:05",
@@ -95,22 +95,6 @@
     {
       "added_at": "2026-11-15 13:57:05",
       "album": {
-        "name": "Nujabes PRAY Reflections",
-        "url": "https://open.spotify.com/album/2twxbqlVdtk1kzg8610aiM"
-      },
-      "artists": [
-        {
-          "name": "haruka nakamura",
-          "url": "https://open.spotify.com/artist/52R2tXlJMDDDYcpBSnn3k4"
-        }
-      ],
-      "duration_ms": 275195,
-      "name": "Horizon",
-      "url": "https://open.spotify.com/track/3NNbuvmcBYQiTN1eKL3WVo"
-    },
-    {
-      "added_at": "2026-11-15 13:57:05",
-      "album": {
         "name": "\u591a\u5909\u6570",
         "url": "https://open.spotify.com/album/6lWSo35E2z9FBgbHuAEElU"
       },
@@ -127,6 +111,22 @@
       "duration_ms": 184166,
       "name": "\u591a\u5909\u6570",
       "url": "https://open.spotify.com/track/1yrb9lYmUnu8jTC0gwGyUk"
+    },
+    {
+      "added_at": "2026-11-15 13:57:05",
+      "album": {
+        "name": "Nujabes PRAY Reflections",
+        "url": "https://open.spotify.com/album/2twxbqlVdtk1kzg8610aiM"
+      },
+      "artists": [
+        {
+          "name": "haruka nakamura",
+          "url": "https://open.spotify.com/artist/52R2tXlJMDDDYcpBSnn3k4"
+        }
+      ],
+      "duration_ms": 275195,
+      "name": "Horizon",
+      "url": "https://open.spotify.com/track/3NNbuvmcBYQiTN1eKL3WVo"
     },
     {
       "added_at": "2026-11-15 13:57:05",
@@ -223,22 +223,6 @@
     {
       "added_at": "2026-11-15 13:57:05",
       "album": {
-        "name": "Scenery",
-        "url": "https://open.spotify.com/album/25lxQAWZibPwdsEznczNM2"
-      },
-      "artists": [
-        {
-          "name": "Snail's House",
-          "url": "https://open.spotify.com/artist/29O9ZebFa65aIEvMaW5pQY"
-        }
-      ],
-      "duration_ms": 159009,
-      "name": "Stray Cat",
-      "url": "https://open.spotify.com/track/29xNgitB4Ymeg8P6GSBPib"
-    },
-    {
-      "added_at": "2026-11-15 13:57:05",
-      "album": {
         "name": "no one else",
         "url": "https://open.spotify.com/album/55GSHcWOrbvL233s62HEPG"
       },
@@ -259,6 +243,22 @@
       "duration_ms": 138000,
       "name": "no one else",
       "url": "https://open.spotify.com/track/0P983JO9vCqhq3Tv7arhNa"
+    },
+    {
+      "added_at": "2026-11-15 13:57:05",
+      "album": {
+        "name": "Scenery",
+        "url": "https://open.spotify.com/album/25lxQAWZibPwdsEznczNM2"
+      },
+      "artists": [
+        {
+          "name": "Snail's House",
+          "url": "https://open.spotify.com/artist/29O9ZebFa65aIEvMaW5pQY"
+        }
+      ],
+      "duration_ms": 159009,
+      "name": "Stray Cat",
+      "url": "https://open.spotify.com/track/29xNgitB4Ymeg8P6GSBPib"
     },
     {
       "added_at": "2026-11-15 13:57:05",
@@ -631,6 +631,26 @@
     {
       "added_at": "2026-11-15 13:57:05",
       "album": {
+        "name": "When We Were Small",
+        "url": "https://open.spotify.com/album/0iJ6h9uWLJZCqS6l4yYbtm"
+      },
+      "artists": [
+        {
+          "name": "Naomi Eno",
+          "url": "https://open.spotify.com/artist/3ggj8CCCXXL0C9n6CLzifo"
+        },
+        {
+          "name": "mahiro iska",
+          "url": "https://open.spotify.com/artist/68hHRIEDCPLajRFRa9J3fo"
+        }
+      ],
+      "duration_ms": 133953,
+      "name": "When We Were Small",
+      "url": "https://open.spotify.com/track/3aYsApItrWLtRbk7YA42m8"
+    },
+    {
+      "added_at": "2026-11-15 13:57:05",
+      "album": {
         "name": "Yura Yura",
         "url": "https://open.spotify.com/album/4I6LEZPwd2lRIsbRgfbOBd"
       },
@@ -659,26 +679,6 @@
       "duration_ms": 211999,
       "name": "Sushi In Tokyo",
       "url": "https://open.spotify.com/track/4SYjKQ4GmsRNfC4odrRENP"
-    },
-    {
-      "added_at": "2026-11-15 13:57:05",
-      "album": {
-        "name": "When We Were Small",
-        "url": "https://open.spotify.com/album/0iJ6h9uWLJZCqS6l4yYbtm"
-      },
-      "artists": [
-        {
-          "name": "Naomi Eno",
-          "url": "https://open.spotify.com/artist/3ggj8CCCXXL0C9n6CLzifo"
-        },
-        {
-          "name": "mahiro iska",
-          "url": "https://open.spotify.com/artist/68hHRIEDCPLajRFRa9J3fo"
-        }
-      ],
-      "duration_ms": 133953,
-      "name": "When We Were Small",
-      "url": "https://open.spotify.com/track/3aYsApItrWLtRbk7YA42m8"
     },
     {
       "added_at": "2026-11-15 13:57:05",
@@ -787,22 +787,6 @@
     {
       "added_at": "2026-11-15 13:57:05",
       "album": {
-        "name": "yomichi",
-        "url": "https://open.spotify.com/album/048Hs52yaVV2YrTTVHeMnj"
-      },
-      "artists": [
-        {
-          "name": "The LASTTRAK",
-          "url": "https://open.spotify.com/artist/27tedpw5lwTFuWL8i8xVqT"
-        }
-      ],
-      "duration_ms": 120000,
-      "name": "yomichi",
-      "url": "https://open.spotify.com/track/5tEn5wDeLSd0fX98oGGKJQ"
-    },
-    {
-      "added_at": "2026-11-15 13:57:05",
-      "album": {
         "name": "KUMORI",
         "url": "https://open.spotify.com/album/10w0lTzIkTEUyw0wYolUOu"
       },
@@ -815,6 +799,22 @@
       "duration_ms": 163809,
       "name": "KUMORI",
       "url": "https://open.spotify.com/track/6UqDlPe144ugEhzgN15voY"
+    },
+    {
+      "added_at": "2026-11-15 13:57:05",
+      "album": {
+        "name": "yomichi",
+        "url": "https://open.spotify.com/album/048Hs52yaVV2YrTTVHeMnj"
+      },
+      "artists": [
+        {
+          "name": "The LASTTRAK",
+          "url": "https://open.spotify.com/artist/27tedpw5lwTFuWL8i8xVqT"
+        }
+      ],
+      "duration_ms": 120000,
+      "name": "yomichi",
+      "url": "https://open.spotify.com/track/5tEn5wDeLSd0fX98oGGKJQ"
     },
     {
       "added_at": "2026-11-15 13:57:05",
@@ -863,30 +863,6 @@
       "duration_ms": 200489,
       "name": "Pockets",
       "url": "https://open.spotify.com/track/2aAeIDcFTkSEFh1mx6YNnD"
-    },
-    {
-      "added_at": "2026-11-15 13:57:05",
-      "album": {
-        "name": "Chips & Chill",
-        "url": "https://open.spotify.com/album/0E1rfCBX4C7dbg6ozJFJwE"
-      },
-      "artists": [
-        {
-          "name": "Pandrezz",
-          "url": "https://open.spotify.com/artist/65ZGdYSRT3Rmv6P7DN4XCC"
-        },
-        {
-          "name": "j'san",
-          "url": "https://open.spotify.com/artist/5iMUho98faEp2w6j5p44PH"
-        },
-        {
-          "name": "Epektase",
-          "url": "https://open.spotify.com/artist/31jYTsfmnHqcK7ahdqlqmo"
-        }
-      ],
-      "duration_ms": 154482,
-      "name": "Cristo Redentor",
-      "url": "https://open.spotify.com/track/3WfdmO2714po65ED2nyaXt"
     },
     {
       "added_at": "2026-11-15 13:57:05",
@@ -947,6 +923,30 @@
     {
       "added_at": "2026-11-15 13:57:05",
       "album": {
+        "name": "Chips & Chill",
+        "url": "https://open.spotify.com/album/0E1rfCBX4C7dbg6ozJFJwE"
+      },
+      "artists": [
+        {
+          "name": "Pandrezz",
+          "url": "https://open.spotify.com/artist/65ZGdYSRT3Rmv6P7DN4XCC"
+        },
+        {
+          "name": "j'san",
+          "url": "https://open.spotify.com/artist/5iMUho98faEp2w6j5p44PH"
+        },
+        {
+          "name": "Epektase",
+          "url": "https://open.spotify.com/artist/31jYTsfmnHqcK7ahdqlqmo"
+        }
+      ],
+      "duration_ms": 154482,
+      "name": "Cristo Redentor",
+      "url": "https://open.spotify.com/track/3WfdmO2714po65ED2nyaXt"
+    },
+    {
+      "added_at": "2026-11-15 13:57:05",
+      "album": {
         "name": "flowingtime",
         "url": "https://open.spotify.com/album/1xLKYSBa8nqg2CTfncO5Ma"
       },
@@ -963,22 +963,6 @@
     {
       "added_at": "2026-11-15 13:57:05",
       "album": {
-        "name": "hakubo",
-        "url": "https://open.spotify.com/album/5BvWPRjGwNBnKMywBcRHl2"
-      },
-      "artists": [
-        {
-          "name": "THE LIQUID RAY",
-          "url": "https://open.spotify.com/artist/55jCtLMcMsuaeJ0JFKL3ja"
-        }
-      ],
-      "duration_ms": 55226,
-      "name": "hakubo",
-      "url": "https://open.spotify.com/track/4L9Luwn85s67Nrq4L3dT23"
-    },
-    {
-      "added_at": "2026-11-15 13:57:05",
-      "album": {
         "name": "SHIBUYA 246",
         "url": "https://open.spotify.com/album/40vdY6VAsuAgGXaWK6YO7U"
       },
@@ -991,6 +975,22 @@
       "duration_ms": 171851,
       "name": "SHIBUYA 246",
       "url": "https://open.spotify.com/track/5BGcu5bwV51odilErIUURl"
+    },
+    {
+      "added_at": "2026-11-15 13:57:05",
+      "album": {
+        "name": "hakubo",
+        "url": "https://open.spotify.com/album/5BvWPRjGwNBnKMywBcRHl2"
+      },
+      "artists": [
+        {
+          "name": "THE LIQUID RAY",
+          "url": "https://open.spotify.com/artist/55jCtLMcMsuaeJ0JFKL3ja"
+        }
+      ],
+      "duration_ms": 55226,
+      "name": "hakubo",
+      "url": "https://open.spotify.com/track/4L9Luwn85s67Nrq4L3dT23"
     },
     {
       "added_at": "2026-11-15 13:57:05",
@@ -1055,22 +1055,6 @@
     {
       "added_at": "2026-11-15 13:57:05",
       "album": {
-        "name": "Love",
-        "url": "https://open.spotify.com/album/4JqlARz1ulnW4QkaMEhuXe"
-      },
-      "artists": [
-        {
-          "name": "Kastorbeats",
-          "url": "https://open.spotify.com/artist/49iPLmqT2MJYoLqR1xzcMC"
-        }
-      ],
-      "duration_ms": 138352,
-      "name": "Love",
-      "url": "https://open.spotify.com/track/3XeT86JyIocazYBBuKAnN5"
-    },
-    {
-      "added_at": "2026-11-15 13:57:05",
-      "album": {
         "name": "Touch the Sky",
         "url": "https://open.spotify.com/album/5BFRRkW0hn1Wijw4LJUmtD"
       },
@@ -1087,6 +1071,22 @@
       "duration_ms": 222985,
       "name": "Touch the Sky",
       "url": "https://open.spotify.com/track/3O4IXYk2mTnA4pTHjcRtdr"
+    },
+    {
+      "added_at": "2026-11-15 13:57:05",
+      "album": {
+        "name": "Love",
+        "url": "https://open.spotify.com/album/4JqlARz1ulnW4QkaMEhuXe"
+      },
+      "artists": [
+        {
+          "name": "Kastorbeats",
+          "url": "https://open.spotify.com/artist/49iPLmqT2MJYoLqR1xzcMC"
+        }
+      ],
+      "duration_ms": 138352,
+      "name": "Love",
+      "url": "https://open.spotify.com/track/3XeT86JyIocazYBBuKAnN5"
     },
     {
       "added_at": "2026-11-15 13:57:05",
@@ -1139,6 +1139,22 @@
     {
       "added_at": "2026-11-15 13:57:05",
       "album": {
+        "name": "C.itosakura f.ascendens (synfilums rework)",
+        "url": "https://open.spotify.com/album/1DXkYyB68FntNvBlqZPHDu"
+      },
+      "artists": [
+        {
+          "name": "synfilums",
+          "url": "https://open.spotify.com/artist/5YQHHzgCxtQyfGzmrlfHgi"
+        }
+      ],
+      "duration_ms": 131500,
+      "name": "C.itosakura f.ascendens - synfilums rework",
+      "url": "https://open.spotify.com/track/7gRHZIYvTLIRqVWRbjinjr"
+    },
+    {
+      "added_at": "2026-11-15 13:57:05",
+      "album": {
         "name": "It Hurts to Love You (it meant a lot)",
         "url": "https://open.spotify.com/album/5Y4c4Kw0d200NV2xrSRf9T"
       },
@@ -1175,22 +1191,6 @@
       "duration_ms": 198369,
       "name": "Blue Notes",
       "url": "https://open.spotify.com/track/6tzQ5fqJVqEnw36qwdliJs"
-    },
-    {
-      "added_at": "2026-11-15 13:57:05",
-      "album": {
-        "name": "C.itosakura f.ascendens (synfilums rework)",
-        "url": "https://open.spotify.com/album/1DXkYyB68FntNvBlqZPHDu"
-      },
-      "artists": [
-        {
-          "name": "synfilums",
-          "url": "https://open.spotify.com/artist/5YQHHzgCxtQyfGzmrlfHgi"
-        }
-      ],
-      "duration_ms": 131500,
-      "name": "C.itosakura f.ascendens - synfilums rework",
-      "url": "https://open.spotify.com/track/7gRHZIYvTLIRqVWRbjinjr"
     },
     {
       "added_at": "2026-11-15 13:57:05",
@@ -1479,6 +1479,22 @@
     {
       "added_at": "2026-11-15 13:57:05",
       "album": {
+        "name": "Dragon Collection",
+        "url": "https://open.spotify.com/album/0grDrfjal45SSpAVr2okoh"
+      },
+      "artists": [
+        {
+          "name": "Four Face",
+          "url": "https://open.spotify.com/artist/5c2zHqQMxPMh7ZP3Ldtrko"
+        }
+      ],
+      "duration_ms": 222222,
+      "name": "Dragon Collection",
+      "url": "https://open.spotify.com/track/3om00NSQvFa2fHEFkMxbzt"
+    },
+    {
+      "added_at": "2026-11-15 13:57:05",
+      "album": {
         "name": "falling asleep.",
         "url": "https://open.spotify.com/album/4tKFwi75AtxxN1EaGC87gK"
       },
@@ -1495,22 +1511,6 @@
       "duration_ms": 194000,
       "name": "falling asleep.",
       "url": "https://open.spotify.com/track/0X88c8pOrPZhuwBYe1lgWl"
-    },
-    {
-      "added_at": "2026-11-15 13:57:05",
-      "album": {
-        "name": "Dragon Collection",
-        "url": "https://open.spotify.com/album/0grDrfjal45SSpAVr2okoh"
-      },
-      "artists": [
-        {
-          "name": "Four Face",
-          "url": "https://open.spotify.com/artist/5c2zHqQMxPMh7ZP3Ldtrko"
-        }
-      ],
-      "duration_ms": 222222,
-      "name": "Dragon Collection",
-      "url": "https://open.spotify.com/track/3om00NSQvFa2fHEFkMxbzt"
     },
     {
       "added_at": "2026-11-15 13:57:05",
@@ -1567,6 +1567,22 @@
     {
       "added_at": "2026-11-15 13:57:05",
       "album": {
+        "name": "asobiba",
+        "url": "https://open.spotify.com/album/39hbk7o6d2nSJW8yJjBwox"
+      },
+      "artists": [
+        {
+          "name": "chanoma",
+          "url": "https://open.spotify.com/artist/3owviMt1gJ0DszBvNjPLyN"
+        }
+      ],
+      "duration_ms": 185000,
+      "name": "asobiba",
+      "url": "https://open.spotify.com/track/4bD6zmsrx0LeUZtZVZOqvi"
+    },
+    {
+      "added_at": "2026-11-15 13:57:05",
+      "album": {
         "name": "Generic",
         "url": "https://open.spotify.com/album/0YTqkKm4WdDeCARIrHQ3BS"
       },
@@ -1583,22 +1599,6 @@
       "duration_ms": 191875,
       "name": "Generic",
       "url": "https://open.spotify.com/track/5ljunHfdK4WvqK4eQo5MI9"
-    },
-    {
-      "added_at": "2026-11-15 13:57:05",
-      "album": {
-        "name": "asobiba",
-        "url": "https://open.spotify.com/album/39hbk7o6d2nSJW8yJjBwox"
-      },
-      "artists": [
-        {
-          "name": "chanoma",
-          "url": "https://open.spotify.com/artist/3owviMt1gJ0DszBvNjPLyN"
-        }
-      ],
-      "duration_ms": 185000,
-      "name": "asobiba",
-      "url": "https://open.spotify.com/track/4bD6zmsrx0LeUZtZVZOqvi"
     },
     {
       "added_at": "2026-11-15 13:57:05",

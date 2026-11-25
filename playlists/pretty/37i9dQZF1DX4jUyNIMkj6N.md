@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4jUyNIMkj6N.md) - [plain]
 
 > The very best in Scandifolk \- from Icelandic blues rock to Norwegicana.
 
-[Spotify](https://open.spotify.com/user/spotify) - 226,173 likes - 60 songs - 3 hr 43 min
+[Spotify](https://open.spotify.com/user/spotify) - 226,200 likes - 60 songs - 3 hr 43 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -37,8 +37,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4jUyNIMkj6N.md) - [plain]
 | 27 | [Emmylou \- Spotify Sessions](https://open.spotify.com/track/7exdcu9SmgcrZ7hW9ZdcYo) | [First Aid Kit](https://open.spotify.com/artist/21egYD1eInY6bGFcniCRT1) | [Spotify Sessions](https://open.spotify.com/album/0YneOS1OMqNFfnOTtccqwv) | 5:04 |
 | 28 | [I Miss You](https://open.spotify.com/track/729Rt2RbcFwecV0Jo5UmNu) | [The Oldsfire Band](https://open.spotify.com/artist/35boIHWcDqOzDkVWZIgdio) | [I Miss You](https://open.spotify.com/album/0lLQNchoJCqE6R1ThbopDO) | 2:32 |
 | 29 | [Say you want me still](https://open.spotify.com/track/2IWNsgtu04OXJjx7KkKomH) | [Beharie](https://open.spotify.com/artist/2CzpBz4VaRU3cqM1rJZN6M) | [Say you want me still](https://open.spotify.com/album/5oiBQ2m62WA1UYXBQ3Ig0v) | 3:59 |
-| 30 | [Raven](https://open.spotify.com/track/7AF2UzVYXqxdJLKzKuKq1U) | [Harriet Nauer](https://open.spotify.com/artist/7ntzg1pA71vjzEhdSwYj3Q) | [Vampire Country](https://open.spotify.com/album/2DZpZ3j4yZrv39kuKeNtvZ) | 4:07 |
-| 31 | [love isn't everything](https://open.spotify.com/track/75kGiT9k4Gor7JOBbl4QWi) | [Orange Oak](https://open.spotify.com/artist/622vfvXmIK16EfIZszsVYy) | [love isn't everything](https://open.spotify.com/album/2GHPtoxe8P9I9fbbq8eG77) | 3:27 |
+| 30 | [love isn't everything](https://open.spotify.com/track/75kGiT9k4Gor7JOBbl4QWi) | [Orange Oak](https://open.spotify.com/artist/622vfvXmIK16EfIZszsVYy) | [love isn't everything](https://open.spotify.com/album/2GHPtoxe8P9I9fbbq8eG77) | 3:27 |
+| 31 | [Raven](https://open.spotify.com/track/7AF2UzVYXqxdJLKzKuKq1U) | [Harriet Nauer](https://open.spotify.com/artist/7ntzg1pA71vjzEhdSwYj3Q) | [Vampire Country](https://open.spotify.com/album/2DZpZ3j4yZrv39kuKeNtvZ) | 4:07 |
 | 32 | [Brick by Brick](https://open.spotify.com/track/4bhQUsObZYGGtiZPe2kGYN) | [August Green](https://open.spotify.com/artist/4ZoIkqWHz47n5xuIfVbncu) | [Brick by Brick](https://open.spotify.com/album/2MyNPpaEbiLzjwXkMrjIfz) | 3:38 |
 | 33 | [Lonely Cowboy \- Radio Edit](https://open.spotify.com/track/2KXeAarYaM997AvWtrlaZm) | [KALEO](https://open.spotify.com/artist/7jdFEYD2LTYjfwxOdlVjmc) | [Lonely Cowboy](https://open.spotify.com/album/4D6uVAiz0FYzdbn3nPdl1A) | 3:23 |
 | 34 | [Down the River](https://open.spotify.com/track/5RbcXgY0pHBJfgSXU55JSr) | [ViVii](https://open.spotify.com/artist/21m5PZPUgSF0k76W1MMCAa) | [Down the River](https://open.spotify.com/album/5xXDE5uhAnIeXaYwM8Kgm6) | 6:23 |
@@ -56,17 +56,17 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4jUyNIMkj6N.md) - [plain]
 | 46 | [Nights Like These](https://open.spotify.com/track/1QCEVDKBXdnMniG3Aw1M98) | [Winnie Raeder](https://open.spotify.com/artist/1QnifH4HAt0yWP9A9IcoMK) | [GUTWORK](https://open.spotify.com/album/19jfPmJsR2KHzZF9Wq9k9F) | 3:23 |
 | 47 | [Colors](https://open.spotify.com/track/7eWLaTshSGOtQJ2KHoNEZZ) | [The Tallest Man On Earth](https://open.spotify.com/artist/2BpAc5eK7Rz5GAwSp9UYXa) | [Colors](https://open.spotify.com/album/5gYt9wiCn8FXxQhu58Rrbv) | 5:15 |
 | 48 | [How Love’s Supposed to Feel](https://open.spotify.com/track/32dvZRmuTmsIPlAw3bCEAk) | [Kristian Kristensen](https://open.spotify.com/artist/75ZTlOo6olxm9thcXVh6Ta) | [Love Freely](https://open.spotify.com/album/1V0cNxts85DS7hmWmkRnBa) | 4:07 |
-| 49 | [I Let the Good Ones Go](https://open.spotify.com/track/3Q30mwHAXv4cYoIQFiIWt8) | [Smith & Thell](https://open.spotify.com/artist/1ZrBGJWLL8NiAjgNifCy90) | [A Chosen Family](https://open.spotify.com/album/5edXe34CzaJQps4q5ADGdr) | 3:55 |
-| 50 | [Feels like That](https://open.spotify.com/track/6odNsNmG4RJbxIkNBe9otp) | [Victor Lundberg](https://open.spotify.com/artist/3aPt0ITiKD1r1GXV3RvOUh) | [Feels like That](https://open.spotify.com/album/74iE9zshOGQsSLWsAtmPlq) | 3:36 |
-| 51 | [Cult to A Saint](https://open.spotify.com/track/6LiZv6hKaSY9DMMqVO3hgy) | [Rhys Frank](https://open.spotify.com/artist/5yMkHmsdRZA4OVeCylF4xU), [AKA lisa](https://open.spotify.com/artist/0WTTqGh79njNF2o4Cgklc1) | [Cult to A Saint](https://open.spotify.com/album/5J51HUdRQFacntDsIhRmbf) | 3:38 |
+| 49 | [Feels like That](https://open.spotify.com/track/6odNsNmG4RJbxIkNBe9otp) | [Victor Lundberg](https://open.spotify.com/artist/3aPt0ITiKD1r1GXV3RvOUh) | [Feels like That](https://open.spotify.com/album/74iE9zshOGQsSLWsAtmPlq) | 3:36 |
+| 50 | [I Let the Good Ones Go](https://open.spotify.com/track/3Q30mwHAXv4cYoIQFiIWt8) | [Smith & Thell](https://open.spotify.com/artist/1ZrBGJWLL8NiAjgNifCy90) | [A Chosen Family](https://open.spotify.com/album/5edXe34CzaJQps4q5ADGdr) | 3:55 |
+| 51 | [forever, for a while](https://open.spotify.com/track/3TXIqqudMSSS0kkQ3sQV0S) | [AKA lisa](https://open.spotify.com/artist/0WTTqGh79njNF2o4Cgklc1) | [Laminar Flow](https://open.spotify.com/album/5kPtNtdTsetojNrljTLF42) | 2:13 |
 | 52 | [Deliver Me From Trying](https://open.spotify.com/track/7hYvMqoqHqoow0XRJ6RCNk) | [The Tallest Man On Earth](https://open.spotify.com/artist/2BpAc5eK7Rz5GAwSp9UYXa) | [Deliver Me From Trying](https://open.spotify.com/album/6EdfaGpqsJBOlnaD0KeT8r) | 3:54 |
-| 53 | [Til hverdagen tar oss igjen](https://open.spotify.com/track/7sEtrKKZjXd3OgIeMi0e3w) | [Daniela Reyes](https://open.spotify.com/artist/68fwnXPTQaiMV7rKvSkTYQ) | [Til hverdagen tar oss igjen](https://open.spotify.com/album/1QfiYSZcs3ezTBfv5KZn5U) | 3:42 |
-| 54 | [forever, for a while](https://open.spotify.com/track/3TXIqqudMSSS0kkQ3sQV0S) | [AKA lisa](https://open.spotify.com/artist/0WTTqGh79njNF2o4Cgklc1) | [Laminar Flow](https://open.spotify.com/album/5kPtNtdTsetojNrljTLF42) | 2:13 |
+| 53 | [Cult to A Saint](https://open.spotify.com/track/6LiZv6hKaSY9DMMqVO3hgy) | [Rhys Frank](https://open.spotify.com/artist/5yMkHmsdRZA4OVeCylF4xU), [AKA lisa](https://open.spotify.com/artist/0WTTqGh79njNF2o4Cgklc1) | [Cult to A Saint](https://open.spotify.com/album/5J51HUdRQFacntDsIhRmbf) | 3:38 |
+| 54 | [Til hverdagen tar oss igjen](https://open.spotify.com/track/7sEtrKKZjXd3OgIeMi0e3w) | [Daniela Reyes](https://open.spotify.com/artist/68fwnXPTQaiMV7rKvSkTYQ) | [Til hverdagen tar oss igjen](https://open.spotify.com/album/1QfiYSZcs3ezTBfv5KZn5U) | 3:42 |
 | 55 | [The Man Who Lost it All](https://open.spotify.com/track/3hrL1naeO9Z02XjKD44Mze) | [Boy In Space](https://open.spotify.com/artist/0xu4jAQQv7ZAqvFGdc9HgP) | [The Man Who Lost it All](https://open.spotify.com/album/7DvL5aHAGTW4sliUCDvXDA) | 3:19 |
 | 56 | [vár](https://open.spotify.com/track/34iSLP2Qs7dH4BZqP0Bj9U) | [Fay Wildhagen](https://open.spotify.com/artist/7lu3ibFfJWrm1X1eLLRz2P) | [vár](https://open.spotify.com/album/4Fy4CcZQ4WpfmRjfNmQMZF) | 3:51 |
-| 57 | [Closer Now With You](https://open.spotify.com/track/6AYzCA6Amw49cbWOMp09k8) | [Hannes Aitman](https://open.spotify.com/artist/1c4LDWC8eotoBU95E0YJef) | [By The Morning](https://open.spotify.com/album/2m7ZHEwziLuTtC0nBXujYe) | 4:45 |
-| 58 | [Wild Geese, Wild Love](https://open.spotify.com/track/6AKLCejap9zRZ4QDKyrmSR) | [Amanda Bergman](https://open.spotify.com/artist/4FmkyL0ggkDBUUoPzBlo80) | [Wild Geese, Wild Love / Day 2000 Awake](https://open.spotify.com/album/66GZtWDeK1hpl8runVWZQB) | 5:23 |
+| 57 | [Wild Geese, Wild Love](https://open.spotify.com/track/6AKLCejap9zRZ4QDKyrmSR) | [Amanda Bergman](https://open.spotify.com/artist/4FmkyL0ggkDBUUoPzBlo80) | [Wild Geese, Wild Love / Day 2000 Awake](https://open.spotify.com/album/66GZtWDeK1hpl8runVWZQB) | 5:23 |
+| 58 | [Closer Now With You](https://open.spotify.com/track/6AYzCA6Amw49cbWOMp09k8) | [Hannes Aitman](https://open.spotify.com/artist/1c4LDWC8eotoBU95E0YJef) | [By The Morning](https://open.spotify.com/album/2m7ZHEwziLuTtC0nBXujYe) | 4:45 |
 | 59 | [Pixie's Parasol](https://open.spotify.com/track/00Gbi2ytn6ZmA1ObVcPT93) | [Smith & Thell](https://open.spotify.com/artist/1ZrBGJWLL8NiAjgNifCy90) | [Pixie's Parasol](https://open.spotify.com/album/4giKFINYxPLvnV0fBsv4Vw) | 3:02 |
 | 60 | [It Won't Change Anything](https://open.spotify.com/track/6nGwy3SRY37YtQgF35Zxrc) | [Simen Mitlid](https://open.spotify.com/artist/3AE2EXc8hnJxb0AoGf3i2A) | [It Won't Change Anything](https://open.spotify.com/album/48FtnMgZUyYZdNMSboDuOr) | 4:33 |
 
-Snapshot ID: `AAAAAOsoVL3ViP4OZT+3meksS3dfUU8E`
+Snapshot ID: `AAAAAP7MT73wp+CmaHVtBB2dmZNwjZTn`

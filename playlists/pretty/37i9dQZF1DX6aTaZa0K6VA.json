@@ -1,12 +1,12 @@
 {
   "description": "Super mega hits!  Foto: Dua Lipa",
-  "num_followers": 6498910,
+  "num_followers": 6498242,
   "original_name": "Pop Up",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAFPFvApaNBCuydh7bY8Xjt9CtBeV",
+  "snapshot_id": "AAAAAOoOGXCoZsGVQDfMglcTGpi1KLKJ",
   "tracks": [
     {
       "added_at": "2026-11-20 06:00:18",
@@ -231,6 +231,22 @@
     {
       "added_at": "2026-11-20 06:00:18",
       "album": {
+        "name": "Babydoll",
+        "url": "https://open.spotify.com/album/2FRSDXehsQLDy2rYnZ9Drq"
+      },
+      "artists": [
+        {
+          "name": "Jamie Miller",
+          "url": "https://open.spotify.com/artist/2LkkwxA19J8C52wPQl5bG6"
+        }
+      ],
+      "duration_ms": 178822,
+      "name": "Babydoll",
+      "url": "https://open.spotify.com/track/1o9mAOmNm3wT2NdyGV1Ard"
+    },
+    {
+      "added_at": "2026-11-20 06:00:18",
+      "album": {
         "name": "Dai Dai",
         "url": "https://open.spotify.com/album/2eeufspLkAubwTJfOGSrI8"
       },
@@ -247,22 +263,6 @@
       "duration_ms": 223448,
       "name": "Dai Dai",
       "url": "https://open.spotify.com/track/0kosUz0jePvjiz4ctmR6wL"
-    },
-    {
-      "added_at": "2026-11-20 06:00:18",
-      "album": {
-        "name": "Babydoll",
-        "url": "https://open.spotify.com/album/2FRSDXehsQLDy2rYnZ9Drq"
-      },
-      "artists": [
-        {
-          "name": "Jamie Miller",
-          "url": "https://open.spotify.com/artist/2LkkwxA19J8C52wPQl5bG6"
-        }
-      ],
-      "duration_ms": 178822,
-      "name": "Babydoll",
-      "url": "https://open.spotify.com/track/1o9mAOmNm3wT2NdyGV1Ard"
     },
     {
       "added_at": "2026-11-20 06:00:18",
@@ -379,6 +379,22 @@
     {
       "added_at": "2026-11-20 06:00:18",
       "album": {
+        "name": "Bird's Eye",
+        "url": "https://open.spotify.com/album/1uE3dRPe3SrGdNhd1nWlSa"
+      },
+      "artists": [
+        {
+          "name": "Ravyn Lenae",
+          "url": "https://open.spotify.com/artist/5RTLRtXjbXI2lSXc6jxlAz"
+        }
+      ],
+      "duration_ms": 213466,
+      "name": "Love Me Not",
+      "url": "https://open.spotify.com/track/4WFgvKVfEhb3IUAFGrutTR"
+    },
+    {
+      "added_at": "2026-11-20 06:00:18",
+      "album": {
         "name": "The Life of a Showgirl: The Encore",
         "url": "https://open.spotify.com/album/4hF2gTGuPYlykYuphDxi8J"
       },
@@ -395,18 +411,18 @@
     {
       "added_at": "2026-11-20 06:00:18",
       "album": {
-        "name": "Bird's Eye",
-        "url": "https://open.spotify.com/album/1uE3dRPe3SrGdNhd1nWlSa"
+        "name": "The Girl Of Your Dreams",
+        "url": "https://open.spotify.com/album/03HD0ohJOvejRoesXWKZFl"
       },
       "artists": [
         {
-          "name": "Ravyn Lenae",
-          "url": "https://open.spotify.com/artist/5RTLRtXjbXI2lSXc6jxlAz"
+          "name": "Ashe",
+          "url": "https://open.spotify.com/artist/6P5NO5hzJbuOqSdyPB7SJM"
         }
       ],
-      "duration_ms": 213466,
-      "name": "Love Me Not",
-      "url": "https://open.spotify.com/track/4WFgvKVfEhb3IUAFGrutTR"
+      "duration_ms": 199460,
+      "name": "Stop The Wedding!",
+      "url": "https://open.spotify.com/track/7MOO89Qv9AV7VZkt5mcqA8"
     },
     {
       "added_at": "2026-11-20 06:00:18",
@@ -427,22 +443,6 @@
     {
       "added_at": "2026-11-20 06:00:18",
       "album": {
-        "name": "Homewrecker",
-        "url": "https://open.spotify.com/album/5KzDGTJ3sGlfuwSryRB4p4"
-      },
-      "artists": [
-        {
-          "name": "sombr",
-          "url": "https://open.spotify.com/artist/4G9NDjRyZFDlJKMRL8hx3S"
-        }
-      ],
-      "duration_ms": 209066,
-      "name": "Homewrecker",
-      "url": "https://open.spotify.com/track/7tICCrK3CcyRFKza7yrR0z"
-    },
-    {
-      "added_at": "2026-11-20 06:00:18",
-      "album": {
         "name": "Deadbeat",
         "url": "https://open.spotify.com/album/5WulAOx9ilWy1h8UGZ1gkI"
       },
@@ -459,18 +459,18 @@
     {
       "added_at": "2026-11-20 06:00:18",
       "album": {
-        "name": "The Girl Of Your Dreams",
-        "url": "https://open.spotify.com/album/03HD0ohJOvejRoesXWKZFl"
+        "name": "Homewrecker",
+        "url": "https://open.spotify.com/album/5KzDGTJ3sGlfuwSryRB4p4"
       },
       "artists": [
         {
-          "name": "Ashe",
-          "url": "https://open.spotify.com/artist/6P5NO5hzJbuOqSdyPB7SJM"
+          "name": "sombr",
+          "url": "https://open.spotify.com/artist/4G9NDjRyZFDlJKMRL8hx3S"
         }
       ],
-      "duration_ms": 199460,
-      "name": "Stop The Wedding!",
-      "url": "https://open.spotify.com/track/7MOO89Qv9AV7VZkt5mcqA8"
+      "duration_ms": 209066,
+      "name": "Homewrecker",
+      "url": "https://open.spotify.com/track/7tICCrK3CcyRFKza7yrR0z"
     },
     {
       "added_at": "2026-11-20 06:00:18",
@@ -503,22 +503,6 @@
       "duration_ms": 209680,
       "name": "stupid song",
       "url": "https://open.spotify.com/track/4LfCY65LvojKjWEnU7fNN4"
-    },
-    {
-      "added_at": "2026-11-20 06:00:18",
-      "album": {
-        "name": "My Body Isn't Ready",
-        "url": "https://open.spotify.com/album/27fL8TMJUfW4XRXZqougTh"
-      },
-      "artists": [
-        {
-          "name": "sombr",
-          "url": "https://open.spotify.com/artist/4G9NDjRyZFDlJKMRL8hx3S"
-        }
-      ],
-      "duration_ms": 217380,
-      "name": "My Body Isn't Ready",
-      "url": "https://open.spotify.com/track/79RJg6MqIJlBuedcMqB9F0"
     },
     {
       "added_at": "2026-11-20 06:00:18",
@@ -575,6 +559,22 @@
     {
       "added_at": "2026-11-20 06:00:18",
       "album": {
+        "name": "My Body Isn't Ready",
+        "url": "https://open.spotify.com/album/27fL8TMJUfW4XRXZqougTh"
+      },
+      "artists": [
+        {
+          "name": "sombr",
+          "url": "https://open.spotify.com/artist/4G9NDjRyZFDlJKMRL8hx3S"
+        }
+      ],
+      "duration_ms": 217380,
+      "name": "My Body Isn't Ready",
+      "url": "https://open.spotify.com/track/79RJg6MqIJlBuedcMqB9F0"
+    },
+    {
+      "added_at": "2026-11-20 06:00:18",
+      "album": {
         "name": "SWAG",
         "url": "https://open.spotify.com/album/5vD5M5VW62LL78Ko8x0CVZ"
       },
@@ -627,6 +627,22 @@
     {
       "added_at": "2026-11-20 06:00:18",
       "album": {
+        "name": "hate that i made you love me",
+        "url": "https://open.spotify.com/album/1x159B5VzbDWAGBik5cr1z"
+      },
+      "artists": [
+        {
+          "name": "Ariana Grande",
+          "url": "https://open.spotify.com/artist/66CXWjxzNUsdJxJ2JdwvnR"
+        }
+      ],
+      "duration_ms": 197949,
+      "name": "hate that i made you love me",
+      "url": "https://open.spotify.com/track/20jbSiX29FDX4oQxBXyUEi"
+    },
+    {
+      "added_at": "2026-11-20 06:00:18",
+      "album": {
         "name": "expectations (feat. Chappell Roan)",
         "url": "https://open.spotify.com/album/1q9LM9xC5ebSY216u31FOx"
       },
@@ -643,22 +659,6 @@
       "duration_ms": 223935,
       "name": "expectations (feat. Chappell Roan)",
       "url": "https://open.spotify.com/track/3XmwAZpIMNpTJy8faw3ajD"
-    },
-    {
-      "added_at": "2026-11-20 06:00:18",
-      "album": {
-        "name": "hate that i made you love me",
-        "url": "https://open.spotify.com/album/1x159B5VzbDWAGBik5cr1z"
-      },
-      "artists": [
-        {
-          "name": "Ariana Grande",
-          "url": "https://open.spotify.com/artist/66CXWjxzNUsdJxJ2JdwvnR"
-        }
-      ],
-      "duration_ms": 197949,
-      "name": "hate that i made you love me",
-      "url": "https://open.spotify.com/track/20jbSiX29FDX4oQxBXyUEi"
     },
     {
       "added_at": "2026-11-20 06:00:18",
@@ -1523,22 +1523,6 @@
     {
       "added_at": "2026-11-20 06:00:18",
       "album": {
-        "name": "Abracadabra",
-        "url": "https://open.spotify.com/album/2I6LyArz82waG94e9V5B9d"
-      },
-      "artists": [
-        {
-          "name": "Lady Gaga",
-          "url": "https://open.spotify.com/artist/1HY2Jd0NmPuamShAr6KMms"
-        }
-      ],
-      "duration_ms": 223398,
-      "name": "Abracadabra",
-      "url": "https://open.spotify.com/track/5ZLUm9eab8y3tqQ1OhQSHI"
-    },
-    {
-      "added_at": "2026-11-20 06:00:18",
-      "album": {
         "name": "Until I Found You (Em Beihold Version)",
         "url": "https://open.spotify.com/album/7ARtQpvnPN2ucbmVHngLOs"
       },
@@ -1555,6 +1539,22 @@
       "duration_ms": 176440,
       "name": "Until I Found You (with Em Beihold) - Em Beihold Version",
       "url": "https://open.spotify.com/track/1Y3LN4zO1Edc2EluIoSPJN"
+    },
+    {
+      "added_at": "2026-11-20 06:00:18",
+      "album": {
+        "name": "Abracadabra",
+        "url": "https://open.spotify.com/album/2I6LyArz82waG94e9V5B9d"
+      },
+      "artists": [
+        {
+          "name": "Lady Gaga",
+          "url": "https://open.spotify.com/artist/1HY2Jd0NmPuamShAr6KMms"
+        }
+      ],
+      "duration_ms": 223398,
+      "name": "Abracadabra",
+      "url": "https://open.spotify.com/track/5ZLUm9eab8y3tqQ1OhQSHI"
     },
     {
       "added_at": "2026-11-20 06:00:18",
@@ -1591,22 +1591,6 @@
     {
       "added_at": "2026-11-20 06:00:18",
       "album": {
-        "name": "Fallen Angel",
-        "url": "https://open.spotify.com/album/2k3ICqEXZR7jmZESOqXxWx"
-      },
-      "artists": [
-        {
-          "name": "JENNIE",
-          "url": "https://open.spotify.com/artist/250b0Wlc5Vk0CoUsaCY84M"
-        }
-      ],
-      "duration_ms": 186720,
-      "name": "HEAVEN",
-      "url": "https://open.spotify.com/track/6uhCnqc4Tncn1vqkuGubPO"
-    },
-    {
-      "added_at": "2026-11-20 06:00:18",
-      "album": {
         "name": "Bones",
         "url": "https://open.spotify.com/album/1Q9SnHWPNEjVM0LrBFvJ1q"
       },
@@ -1619,22 +1603,6 @@
       "duration_ms": 165264,
       "name": "Bones",
       "url": "https://open.spotify.com/track/0HqZX76SFLDz2aW8aiqi7G"
-    },
-    {
-      "added_at": "2026-11-20 06:00:18",
-      "album": {
-        "name": "Bass Persuades",
-        "url": "https://open.spotify.com/album/2ISe213QZCTwp18P7jvgC3"
-      },
-      "artists": [
-        {
-          "name": "Miley Cyrus",
-          "url": "https://open.spotify.com/artist/5YGY8feqx7naU7z4HrwZM6"
-        }
-      ],
-      "duration_ms": 202460,
-      "name": "Bass Persuades",
-      "url": "https://open.spotify.com/track/2FZcjBYK4dTt48q94pJbJD"
     },
     {
       "added_at": "2026-11-20 06:00:18",
@@ -1655,6 +1623,22 @@
     {
       "added_at": "2026-11-20 06:00:18",
       "album": {
+        "name": "Fallen Angel",
+        "url": "https://open.spotify.com/album/2k3ICqEXZR7jmZESOqXxWx"
+      },
+      "artists": [
+        {
+          "name": "JENNIE",
+          "url": "https://open.spotify.com/artist/250b0Wlc5Vk0CoUsaCY84M"
+        }
+      ],
+      "duration_ms": 186720,
+      "name": "HEAVEN",
+      "url": "https://open.spotify.com/track/6uhCnqc4Tncn1vqkuGubPO"
+    },
+    {
+      "added_at": "2026-11-20 06:00:18",
+      "album": {
         "name": "Mystical Magical",
         "url": "https://open.spotify.com/album/7y5UZkCSxTUo47pxeTWbXK"
       },
@@ -1667,6 +1651,22 @@
       "duration_ms": 165746,
       "name": "Mystical Magical",
       "url": "https://open.spotify.com/track/221eHga9f9Ne4f8D7WVgPT"
+    },
+    {
+      "added_at": "2026-11-20 06:00:18",
+      "album": {
+        "name": "Bass Persuades",
+        "url": "https://open.spotify.com/album/2ISe213QZCTwp18P7jvgC3"
+      },
+      "artists": [
+        {
+          "name": "Miley Cyrus",
+          "url": "https://open.spotify.com/artist/5YGY8feqx7naU7z4HrwZM6"
+        }
+      ],
+      "duration_ms": 202460,
+      "name": "Bass Persuades",
+      "url": "https://open.spotify.com/track/2FZcjBYK4dTt48q94pJbJD"
     },
     {
       "added_at": "2026-11-20 06:00:18",
@@ -1707,18 +1707,18 @@
     {
       "added_at": "2026-11-20 06:00:18",
       "album": {
-        "name": "Bass Persuades",
-        "url": "https://open.spotify.com/album/6x7zk5GeCgqRn0Yujq135L"
+        "name": "Unheard",
+        "url": "https://open.spotify.com/album/6rjpYHZwFktbc0RCiTfEG6"
       },
       "artists": [
         {
-          "name": "Miley Cyrus",
-          "url": "https://open.spotify.com/artist/5YGY8feqx7naU7z4HrwZM6"
+          "name": "Hozier",
+          "url": "https://open.spotify.com/artist/2FXC3k01G6Gw61bmprjgqS"
         }
       ],
-      "duration_ms": 216104,
-      "name": "Let\u2019s Get Married",
-      "url": "https://open.spotify.com/track/3Ln4JSpTO4Zc7oRinGsp4k"
+      "duration_ms": 251424,
+      "name": "Too Sweet",
+      "url": "https://open.spotify.com/track/3HMY0r2BAdpasXMY8rseR0"
     }
   ],
   "unique_name": "Pop Up",

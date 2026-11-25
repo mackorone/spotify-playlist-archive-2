@@ -1,12 +1,12 @@
 {
   "description": "Meet the best Korean vocalists who will melt your eardrums! (Cover: WENDY) \uc5ec\ub7ec\ubd84\uc758 \uace0\ub9c9\uc744 \ub179\uc5ec\uc904 \ud55c\uad6d \ucd5c\uace0\uc758 \ubcf4\uceec\ub4e4\uc744 \ub9cc\ub098\ubcf4\uc138\uc694!",
-  "num_followers": 413772,
+  "num_followers": 413757,
   "original_name": "v o K a l",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAACaC2bynxR6ZQD3EDaSw6d2Xx+1P",
+  "snapshot_id": "AAAAAHZKRP0Xqnh+JQqmHDEehlCjxiU+",
   "tracks": [
     {
       "added_at": "2026-11-24 08:01:09",
@@ -303,18 +303,22 @@
     {
       "added_at": "2026-11-24 08:01:09",
       "album": {
-        "name": "Moonlight",
-        "url": "https://open.spotify.com/album/46uEItiUj8dJavY8Jw3fye"
+        "name": "For You",
+        "url": "https://open.spotify.com/album/6hiwkmlOoNm8F3UkAZJcEz"
       },
       "artists": [
         {
-          "name": "MeloMance",
-          "url": "https://open.spotify.com/artist/6k4r73Wq8nhkCDoUsECL1e"
+          "name": "LEEHI",
+          "url": "https://open.spotify.com/artist/7cVZApDoQZpS447nHTsNqu"
+        },
+        {
+          "name": "Crush",
+          "url": "https://open.spotify.com/artist/6aLdhHUqgdKE86xbtNmY8g"
         }
       ],
-      "duration_ms": 260607,
-      "name": "Gift",
-      "url": "https://open.spotify.com/track/5eO04wLeM487N9qhPHPPoB"
+      "duration_ms": 205120,
+      "name": "For You",
+      "url": "https://open.spotify.com/track/0JL7DoEqAUcOntWmBuOSdh"
     },
     {
       "added_at": "2026-11-24 08:01:09",
@@ -335,22 +339,18 @@
     {
       "added_at": "2026-11-24 08:01:09",
       "album": {
-        "name": "For You",
-        "url": "https://open.spotify.com/album/6hiwkmlOoNm8F3UkAZJcEz"
+        "name": "Moonlight",
+        "url": "https://open.spotify.com/album/46uEItiUj8dJavY8Jw3fye"
       },
       "artists": [
         {
-          "name": "LEEHI",
-          "url": "https://open.spotify.com/artist/7cVZApDoQZpS447nHTsNqu"
-        },
-        {
-          "name": "Crush",
-          "url": "https://open.spotify.com/artist/6aLdhHUqgdKE86xbtNmY8g"
+          "name": "MeloMance",
+          "url": "https://open.spotify.com/artist/6k4r73Wq8nhkCDoUsECL1e"
         }
       ],
-      "duration_ms": 205120,
-      "name": "For You",
-      "url": "https://open.spotify.com/track/0JL7DoEqAUcOntWmBuOSdh"
+      "duration_ms": 260607,
+      "name": "Gift",
+      "url": "https://open.spotify.com/track/5eO04wLeM487N9qhPHPPoB"
     },
     {
       "added_at": "2026-11-24 08:01:09",
@@ -507,22 +507,6 @@
     {
       "added_at": "2026-11-24 08:01:09",
       "album": {
-        "name": "Bitter Sweet Love",
-        "url": "https://open.spotify.com/album/02muSEofPSAk276DCafUPb"
-      },
-      "artists": [
-        {
-          "name": "James Arthur",
-          "url": "https://open.spotify.com/artist/4IWBUUAFIplrNtaOHcJPRM"
-        }
-      ],
-      "duration_ms": 173407,
-      "name": "Free Falling",
-      "url": "https://open.spotify.com/track/13d25rq5AA5ppzekwPwtUz"
-    },
-    {
-      "added_at": "2026-11-24 08:01:09",
-      "album": {
         "name": "Panorama : The Best of TAEYEON",
         "url": "https://open.spotify.com/album/0ALRDKNI0rnUcwQKMsEbyg"
       },
@@ -535,6 +519,22 @@
       "duration_ms": 180000,
       "name": "Panorama",
       "url": "https://open.spotify.com/track/6aj9Cf3LDG3zehyw3qJyRu"
+    },
+    {
+      "added_at": "2026-11-24 08:01:09",
+      "album": {
+        "name": "Bitter Sweet Love",
+        "url": "https://open.spotify.com/album/02muSEofPSAk276DCafUPb"
+      },
+      "artists": [
+        {
+          "name": "James Arthur",
+          "url": "https://open.spotify.com/artist/4IWBUUAFIplrNtaOHcJPRM"
+        }
+      ],
+      "duration_ms": 173407,
+      "name": "Free Falling",
+      "url": "https://open.spotify.com/track/13d25rq5AA5ppzekwPwtUz"
     },
     {
       "added_at": "2026-11-24 08:01:09",
@@ -555,22 +555,6 @@
     {
       "added_at": "2026-11-24 08:01:09",
       "album": {
-        "name": "Through the Night",
-        "url": "https://open.spotify.com/album/1zQnkQc68sQj2Ns5GIuxld"
-      },
-      "artists": [
-        {
-          "name": "IU",
-          "url": "https://open.spotify.com/artist/3HqSLMAZ3g3d5poNaI7GOU"
-        }
-      ],
-      "duration_ms": 253293,
-      "name": "Through the Night",
-      "url": "https://open.spotify.com/track/1Bb6jVrsg8cXxMCBxIWJUn"
-    },
-    {
-      "added_at": "2026-11-24 08:01:09",
-      "album": {
         "name": "Alchemy of Souls: Light and Shadow, Pt. 3 (Original Television Soundtrack)",
         "url": "https://open.spotify.com/album/5GeLZHhhxLRaDeL2o6aaTg"
       },
@@ -583,6 +567,22 @@
       "duration_ms": 256173,
       "name": "I\u2032m Sorry",
       "url": "https://open.spotify.com/track/3LUkaacGXrVcn8jo29Vymi"
+    },
+    {
+      "added_at": "2026-11-24 08:01:09",
+      "album": {
+        "name": "Through the Night",
+        "url": "https://open.spotify.com/album/1zQnkQc68sQj2Ns5GIuxld"
+      },
+      "artists": [
+        {
+          "name": "IU",
+          "url": "https://open.spotify.com/artist/3HqSLMAZ3g3d5poNaI7GOU"
+        }
+      ],
+      "duration_ms": 253293,
+      "name": "Through the Night",
+      "url": "https://open.spotify.com/track/1Bb6jVrsg8cXxMCBxIWJUn"
     },
     {
       "added_at": "2026-11-24 08:01:09",
@@ -715,22 +715,6 @@
     {
       "added_at": "2026-11-24 08:01:09",
       "album": {
-        "name": "BLOSSOM - THE 3RD MINI ALBUM",
-        "url": "https://open.spotify.com/album/6ZlXpA35FslDym9FIKaygk"
-      },
-      "artists": [
-        {
-          "name": "D.O.",
-          "url": "https://open.spotify.com/artist/2CQZr2RPZmrcvDnaod1ldC"
-        }
-      ],
-      "duration_ms": 215946,
-      "name": "About Time",
-      "url": "https://open.spotify.com/track/5QZTJG7X1ocodzYKmyhFoD"
-    },
-    {
-      "added_at": "2026-11-24 08:01:09",
-      "album": {
         "name": "Like Water - The 1st Mini Album",
         "url": "https://open.spotify.com/album/1Ao5vWPO13f4l0ldwxOKL7"
       },
@@ -743,6 +727,22 @@
       "duration_ms": 244546,
       "name": "When This Rain Stops",
       "url": "https://open.spotify.com/track/6mavVLsxaa4YcPje9qZKcf"
+    },
+    {
+      "added_at": "2026-11-24 08:01:09",
+      "album": {
+        "name": "BLOSSOM - THE 3RD MINI ALBUM",
+        "url": "https://open.spotify.com/album/6ZlXpA35FslDym9FIKaygk"
+      },
+      "artists": [
+        {
+          "name": "D.O.",
+          "url": "https://open.spotify.com/artist/2CQZr2RPZmrcvDnaod1ldC"
+        }
+      ],
+      "duration_ms": 215946,
+      "name": "About Time",
+      "url": "https://open.spotify.com/track/5QZTJG7X1ocodzYKmyhFoD"
     },
     {
       "added_at": "2026-11-24 08:01:09",
@@ -855,22 +855,6 @@
     {
       "added_at": "2026-11-24 08:01:09",
       "album": {
-        "name": "Summer, I",
-        "url": "https://open.spotify.com/album/5l7WQaKkWSyj9kR6NnqtEU"
-      },
-      "artists": [
-        {
-          "name": "JEONG EUN JI",
-          "url": "https://open.spotify.com/artist/7cgAZ03K2mMaWB70gwZs92"
-        }
-      ],
-      "duration_ms": 180000,
-      "name": "i love LOVE",
-      "url": "https://open.spotify.com/track/5rkbfBD7Na0dYrcxZGqRO3"
-    },
-    {
-      "added_at": "2026-11-24 08:01:09",
-      "album": {
         "name": "The King's Affection OST Part.3",
         "url": "https://open.spotify.com/album/0BIXwx4XAJR9xe9k3DZK2J"
       },
@@ -883,6 +867,22 @@
       "duration_ms": 221080,
       "name": "IF I",
       "url": "https://open.spotify.com/track/3QGz3EzsWbW9LoNVk5MPHT"
+    },
+    {
+      "added_at": "2026-11-24 08:01:09",
+      "album": {
+        "name": "Summer, I",
+        "url": "https://open.spotify.com/album/5l7WQaKkWSyj9kR6NnqtEU"
+      },
+      "artists": [
+        {
+          "name": "JEONG EUN JI",
+          "url": "https://open.spotify.com/artist/7cgAZ03K2mMaWB70gwZs92"
+        }
+      ],
+      "duration_ms": 180000,
+      "name": "i love LOVE",
+      "url": "https://open.spotify.com/track/5rkbfBD7Na0dYrcxZGqRO3"
     },
     {
       "added_at": "2026-11-24 08:01:09",
@@ -923,6 +923,22 @@
     {
       "added_at": "2026-11-24 08:01:09",
       "album": {
+        "name": "I Miss You So Much",
+        "url": "https://open.spotify.com/album/50HgFoUXWE2jT2eABh4DcM"
+      },
+      "artists": [
+        {
+          "name": "Hwang Karam",
+          "url": "https://open.spotify.com/artist/61jr8e2uLQusD1PLqTKqQc"
+        }
+      ],
+      "duration_ms": 216813,
+      "name": "I Miss You So Much",
+      "url": "https://open.spotify.com/track/0wLizUzIFwrPbzohRmm8LU"
+    },
+    {
+      "added_at": "2026-11-24 08:01:09",
+      "album": {
         "name": "Officially Cool",
         "url": "https://open.spotify.com/album/7ak1PBCmrVLvOANEenebe9"
       },
@@ -959,34 +975,18 @@
     {
       "added_at": "2026-11-24 08:01:09",
       "album": {
-        "name": "I Miss You So Much",
-        "url": "https://open.spotify.com/album/50HgFoUXWE2jT2eABh4DcM"
+        "name": "Destined with You (Original Television Soundtrack), Pt.1",
+        "url": "https://open.spotify.com/album/45i3tB9z0dgJ33olyrsLUz"
       },
       "artists": [
         {
-          "name": "Hwang Karam",
-          "url": "https://open.spotify.com/artist/61jr8e2uLQusD1PLqTKqQc"
+          "name": "PARK WON",
+          "url": "https://open.spotify.com/artist/1XujSdsxykPhP3dn6HaT4l"
         }
       ],
-      "duration_ms": 216813,
-      "name": "I Miss You So Much",
-      "url": "https://open.spotify.com/track/0wLizUzIFwrPbzohRmm8LU"
-    },
-    {
-      "added_at": "2026-11-24 08:01:09",
-      "album": {
-        "name": "Rain on me",
-        "url": "https://open.spotify.com/album/7DFohRoscL9ora3kVf1z3p"
-      },
-      "artists": [
-        {
-          "name": "Kwon Jin Ah",
-          "url": "https://open.spotify.com/artist/0kRAVpQhUUArA8UnYwEdeZ"
-        }
-      ],
-      "duration_ms": 253000,
-      "name": "Rain on me",
-      "url": "https://open.spotify.com/track/7cR31CCUrUv3xBPLwV8DKl"
+      "duration_ms": 203746,
+      "name": "It's You",
+      "url": "https://open.spotify.com/track/3YP99J8wTzG55t1cFmd6iq"
     },
     {
       "added_at": "2026-11-24 08:01:09",
@@ -1007,34 +1007,18 @@
     {
       "added_at": "2026-11-24 08:01:09",
       "album": {
-        "name": "Destined with You (Original Television Soundtrack), Pt.1",
-        "url": "https://open.spotify.com/album/45i3tB9z0dgJ33olyrsLUz"
+        "name": "Rain on me",
+        "url": "https://open.spotify.com/album/7DFohRoscL9ora3kVf1z3p"
       },
       "artists": [
         {
-          "name": "PARK WON",
-          "url": "https://open.spotify.com/artist/1XujSdsxykPhP3dn6HaT4l"
+          "name": "Kwon Jin Ah",
+          "url": "https://open.spotify.com/artist/0kRAVpQhUUArA8UnYwEdeZ"
         }
       ],
-      "duration_ms": 203746,
-      "name": "It's You",
-      "url": "https://open.spotify.com/track/3YP99J8wTzG55t1cFmd6iq"
-    },
-    {
-      "added_at": "2026-11-24 08:01:09",
-      "album": {
-        "name": "Moving Away",
-        "url": "https://open.spotify.com/album/4zhODMfhF2d2aBP5YSfLVS"
-      },
-      "artists": [
-        {
-          "name": "#Annyeong",
-          "url": "https://open.spotify.com/artist/4M9tATKeCZPhipaM6ge2VS"
-        }
-      ],
-      "duration_ms": 264069,
-      "name": "Moving Away",
-      "url": "https://open.spotify.com/track/57Ylr5UBALW6Rrkue2vBB3"
+      "duration_ms": 253000,
+      "name": "Rain on me",
+      "url": "https://open.spotify.com/track/7cR31CCUrUv3xBPLwV8DKl"
     },
     {
       "added_at": "2026-11-24 08:01:09",
@@ -1075,18 +1059,18 @@
     {
       "added_at": "2026-11-24 08:01:09",
       "album": {
-        "name": "Where We Are - The 2nd Album",
-        "url": "https://open.spotify.com/album/3RCHqfl9LOuLnoSJzsSc7f"
+        "name": "Moving Away",
+        "url": "https://open.spotify.com/album/4zhODMfhF2d2aBP5YSfLVS"
       },
       "artists": [
         {
-          "name": "YESUNG",
-          "url": "https://open.spotify.com/artist/4hyF8Vtc73RYJr3RgTE2Zf"
+          "name": "#Annyeong",
+          "url": "https://open.spotify.com/artist/4M9tATKeCZPhipaM6ge2VS"
         }
       ],
-      "duration_ms": 231426,
-      "name": "Pedazos",
-      "url": "https://open.spotify.com/track/7fS4aqE7l4YljkkIEFjAWb"
+      "duration_ms": 264069,
+      "name": "Moving Away",
+      "url": "https://open.spotify.com/track/57Ylr5UBALW6Rrkue2vBB3"
     },
     {
       "added_at": "2026-11-24 08:01:09",
@@ -1107,18 +1091,18 @@
     {
       "added_at": "2026-11-24 08:01:09",
       "album": {
-        "name": "Last Love",
-        "url": "https://open.spotify.com/album/4jMqo0Fsa1nGt0yq5S2pk6"
+        "name": "Where We Are - The 2nd Album",
+        "url": "https://open.spotify.com/album/3RCHqfl9LOuLnoSJzsSc7f"
       },
       "artists": [
         {
-          "name": "Tei",
-          "url": "https://open.spotify.com/artist/0pnTDtr7r9ThLMVrEZ6byK"
+          "name": "YESUNG",
+          "url": "https://open.spotify.com/artist/4hyF8Vtc73RYJr3RgTE2Zf"
         }
       ],
-      "duration_ms": 255000,
-      "name": "Last Love",
-      "url": "https://open.spotify.com/track/5wOCYMy0SP58fPiXOc4p3s"
+      "duration_ms": 231426,
+      "name": "Pedazos",
+      "url": "https://open.spotify.com/track/7fS4aqE7l4YljkkIEFjAWb"
     },
     {
       "added_at": "2026-11-24 08:01:09",
@@ -1135,6 +1119,22 @@
       "duration_ms": 225120,
       "name": "Back In Time (The Moon during the Day X K.will)",
       "url": "https://open.spotify.com/track/5rGMxvUu4su0Vg3BaV9BGe"
+    },
+    {
+      "added_at": "2026-11-24 08:01:09",
+      "album": {
+        "name": "Last Love",
+        "url": "https://open.spotify.com/album/4jMqo0Fsa1nGt0yq5S2pk6"
+      },
+      "artists": [
+        {
+          "name": "Tei",
+          "url": "https://open.spotify.com/artist/0pnTDtr7r9ThLMVrEZ6byK"
+        }
+      ],
+      "duration_ms": 255000,
+      "name": "Last Love",
+      "url": "https://open.spotify.com/track/5wOCYMy0SP58fPiXOc4p3s"
     },
     {
       "added_at": "2026-11-24 08:01:09",
@@ -1463,6 +1463,42 @@
     {
       "added_at": "2026-11-24 08:01:09",
       "album": {
+        "name": "Mother Nature (H\u2082O)",
+        "url": "https://open.spotify.com/album/6gdnJ11QQyvpVljTUR3BWw"
+      },
+      "artists": [
+        {
+          "name": "IU",
+          "url": "https://open.spotify.com/artist/3HqSLMAZ3g3d5poNaI7GOU"
+        },
+        {
+          "name": "Kang Seungwon",
+          "url": "https://open.spotify.com/artist/48DsjCcpYJQWi5fulzyuBm"
+        }
+      ],
+      "duration_ms": 232586,
+      "name": "Mother Nature (H\u2082O)",
+      "url": "https://open.spotify.com/track/7KZThhMaRjQpB9x6yIJvZ8"
+    },
+    {
+      "added_at": "2026-11-24 08:01:09",
+      "album": {
+        "name": "Lost & Found",
+        "url": "https://open.spotify.com/album/7IJeu8xLUbTmFO8OVMN1nQ"
+      },
+      "artists": [
+        {
+          "name": "Gaho",
+          "url": "https://open.spotify.com/artist/3ybZTNrlK0QhL4rBxfLHOc"
+        }
+      ],
+      "duration_ms": 193653,
+      "name": "Lost & Found",
+      "url": "https://open.spotify.com/track/6jfGYnP2Mmr6jT0kXncfzj"
+    },
+    {
+      "added_at": "2026-11-24 08:01:09",
+      "album": {
         "name": "Eternity",
         "url": "https://open.spotify.com/album/7ouOKBMuNwrBddH82YWTmO"
       },
@@ -1475,6 +1511,22 @@
       "duration_ms": 337480,
       "name": "Eternity",
       "url": "https://open.spotify.com/track/6FzyaKj1ra703h2h7ymkfn"
+    },
+    {
+      "added_at": "2026-11-24 08:01:09",
+      "album": {
+        "name": "WAW",
+        "url": "https://open.spotify.com/album/0gt7dy4ONFo6uc8D5w2WNi"
+      },
+      "artists": [
+        {
+          "name": "MAMAMOO",
+          "url": "https://open.spotify.com/artist/0XATRDCYuuGhk0oE7C0o5G"
+        }
+      ],
+      "duration_ms": 223546,
+      "name": "Where Are We Now",
+      "url": "https://open.spotify.com/track/0cLXk75Pan3mhRlWqHiynh"
     },
     {
       "added_at": "2026-11-24 08:01:09",
@@ -1499,58 +1551,6 @@
     {
       "added_at": "2026-11-24 08:01:09",
       "album": {
-        "name": "WAW",
-        "url": "https://open.spotify.com/album/0gt7dy4ONFo6uc8D5w2WNi"
-      },
-      "artists": [
-        {
-          "name": "MAMAMOO",
-          "url": "https://open.spotify.com/artist/0XATRDCYuuGhk0oE7C0o5G"
-        }
-      ],
-      "duration_ms": 223546,
-      "name": "Where Are We Now",
-      "url": "https://open.spotify.com/track/0cLXk75Pan3mhRlWqHiynh"
-    },
-    {
-      "added_at": "2026-11-24 08:01:09",
-      "album": {
-        "name": "Mother Nature (H\u2082O)",
-        "url": "https://open.spotify.com/album/6gdnJ11QQyvpVljTUR3BWw"
-      },
-      "artists": [
-        {
-          "name": "IU",
-          "url": "https://open.spotify.com/artist/3HqSLMAZ3g3d5poNaI7GOU"
-        },
-        {
-          "name": "Kang Seungwon",
-          "url": "https://open.spotify.com/artist/48DsjCcpYJQWi5fulzyuBm"
-        }
-      ],
-      "duration_ms": 232586,
-      "name": "Mother Nature (H\u2082O)",
-      "url": "https://open.spotify.com/track/7KZThhMaRjQpB9x6yIJvZ8"
-    },
-    {
-      "added_at": "2026-11-24 08:01:09",
-      "album": {
-        "name": "Jay Park Season 1",
-        "url": "https://open.spotify.com/album/36K9BD9KNPIT8JA2qcO9u7"
-      },
-      "artists": [
-        {
-          "name": "Jay Park",
-          "url": "https://open.spotify.com/artist/4XDi67ZENZcbfKnvMnTYsI"
-        }
-      ],
-      "duration_ms": 219742,
-      "name": "Your/My",
-      "url": "https://open.spotify.com/track/08sKf43ghwPD9SvdUAetTY"
-    },
-    {
-      "added_at": "2026-11-24 08:01:09",
-      "album": {
         "name": "SUZUME",
         "url": "https://open.spotify.com/album/0jIf0pFZslLCWgTfJbuvUx"
       },
@@ -1567,18 +1567,18 @@
     {
       "added_at": "2026-11-24 08:01:09",
       "album": {
-        "name": "Lost & Found",
-        "url": "https://open.spotify.com/album/7IJeu8xLUbTmFO8OVMN1nQ"
+        "name": "Jay Park Season 1",
+        "url": "https://open.spotify.com/album/36K9BD9KNPIT8JA2qcO9u7"
       },
       "artists": [
         {
-          "name": "Gaho",
-          "url": "https://open.spotify.com/artist/3ybZTNrlK0QhL4rBxfLHOc"
+          "name": "Jay Park",
+          "url": "https://open.spotify.com/artist/4XDi67ZENZcbfKnvMnTYsI"
         }
       ],
-      "duration_ms": 193653,
-      "name": "Lost & Found",
-      "url": "https://open.spotify.com/track/6jfGYnP2Mmr6jT0kXncfzj"
+      "duration_ms": 219742,
+      "name": "Your/My",
+      "url": "https://open.spotify.com/track/08sKf43ghwPD9SvdUAetTY"
     },
     {
       "added_at": "2026-11-24 08:01:09",
@@ -1603,22 +1603,6 @@
     {
       "added_at": "2026-11-24 08:01:09",
       "album": {
-        "name": "Summer Breeze",
-        "url": "https://open.spotify.com/album/4slUF3getoU3xR2UcxFMUL"
-      },
-      "artists": [
-        {
-          "name": "Lee Sora",
-          "url": "https://open.spotify.com/artist/58BWh3yJrluDugLv0QF0eC"
-        }
-      ],
-      "duration_ms": 222000,
-      "name": "Summer Breeze",
-      "url": "https://open.spotify.com/track/1g1sttRV6Dy2tj6aE92TnM"
-    },
-    {
-      "added_at": "2026-11-24 08:01:09",
-      "album": {
         "name": "Walk through the rain",
         "url": "https://open.spotify.com/album/4Bf0fX2sBnNtN8GeQx6p23"
       },
@@ -1635,18 +1619,18 @@
     {
       "added_at": "2026-11-24 08:01:09",
       "album": {
-        "name": "Family by Choice (Original Television Soundtrack) Pt. 4",
-        "url": "https://open.spotify.com/album/4lZPOXajtPXz2lOvpzLPNT"
+        "name": "Summer Breeze",
+        "url": "https://open.spotify.com/album/4slUF3getoU3xR2UcxFMUL"
       },
       "artists": [
         {
-          "name": "Kim Feel",
-          "url": "https://open.spotify.com/artist/4EPYWwU4c8eG2GzD7MenUA"
+          "name": "Lee Sora",
+          "url": "https://open.spotify.com/artist/58BWh3yJrluDugLv0QF0eC"
         }
       ],
-      "duration_ms": 288046,
-      "name": "All Our Days",
-      "url": "https://open.spotify.com/track/6SCzQNXZpExdFIJ5vsX04y"
+      "duration_ms": 222000,
+      "name": "Summer Breeze",
+      "url": "https://open.spotify.com/track/1g1sttRV6Dy2tj6aE92TnM"
     },
     {
       "added_at": "2026-11-24 08:01:09",
@@ -1663,6 +1647,22 @@
       "duration_ms": 256252,
       "name": "It's love",
       "url": "https://open.spotify.com/track/2V39IroCENdZjsgL3hcFfe"
+    },
+    {
+      "added_at": "2026-11-24 08:01:09",
+      "album": {
+        "name": "Family by Choice (Original Television Soundtrack) Pt. 4",
+        "url": "https://open.spotify.com/album/4lZPOXajtPXz2lOvpzLPNT"
+      },
+      "artists": [
+        {
+          "name": "Kim Feel",
+          "url": "https://open.spotify.com/artist/4EPYWwU4c8eG2GzD7MenUA"
+        }
+      ],
+      "duration_ms": 288046,
+      "name": "All Our Days",
+      "url": "https://open.spotify.com/track/6SCzQNXZpExdFIJ5vsX04y"
     },
     {
       "added_at": "2026-11-24 08:01:09",

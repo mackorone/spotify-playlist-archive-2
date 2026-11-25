@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXa2EiKmMLhFD.md) - [plain]
 
 > Hits terpanas dari Raim Laode,  eńau, Ari Lesmana, Harry Styles, Adrian Khalif serta artis terfavorit Anda dari dalam negeri dan mancanegara.
 
-[Spotify](https://open.spotify.com/user/spotify) - 2,420,484 likes - 50 songs - 3 hr 4 min
+[Spotify](https://open.spotify.com/user/spotify) - 2,420,382 likes - 50 songs - 3 hr 4 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXa2EiKmMLhFD.md) - [plain]
 | 49 | [rollerblade](https://open.spotify.com/track/3fL35dqYnnabdEp8Sln0lf) | [no na](https://open.spotify.com/artist/25ZVvmN0Tm9Os5K42swK8b) | [rollerblade](https://open.spotify.com/album/6TFeJFQOM62KtRRHe8fxGV) | 1:54 |
 | 50 | [HEAVEN](https://open.spotify.com/track/6uhCnqc4Tncn1vqkuGubPO) | [JENNIE](https://open.spotify.com/artist/250b0Wlc5Vk0CoUsaCY84M) | [Fallen Angel](https://open.spotify.com/album/2k3ICqEXZR7jmZESOqXxWx) | 3:06 |
 
-Snapshot ID: `AAAAAOAMNDRqVyRbGS/1X+F+5MfQbsi1`
+Snapshot ID: `AAAAALGjZnPrlwSffIMgucqttLmzAb9O`

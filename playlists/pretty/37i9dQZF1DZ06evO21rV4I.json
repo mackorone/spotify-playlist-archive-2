@@ -1,12 +1,12 @@
 {
   "description": "This is Wizkid. The essential tracks, all in one playlist.",
-  "num_followers": 181946,
+  "num_followers": 182617,
   "original_name": "This Is Wizkid",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "awIwgAAAAACO6EbXlDedl7nECLRrEC2G",
+  "snapshot_id": "awOCAAAAAAB0rJIYrVMIMSzxIX+gI5Lw",
   "tracks": [
     {
       "added_at": null,
@@ -183,6 +183,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Ayo",
+        "url": "https://open.spotify.com/album/3K4CaKaEcLuJkJZ3lATzrq"
+      },
+      "artists": [
+        {
+          "name": "Wizkid",
+          "url": "https://open.spotify.com/artist/3tVQdUvClmAT7URs9V3rsp"
+        }
+      ],
+      "duration_ms": 216242,
+      "name": "Ojuelegba",
+      "url": "https://open.spotify.com/track/1AtBzcUzKLh4BGwXhFA9K6"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Protect Sarz At All Costs",
         "url": "https://open.spotify.com/album/5h3RPX0SZMPQGz6Mwbly0h"
       },
@@ -207,22 +223,6 @@
       "duration_ms": 148550,
       "name": "Getting Paid \u200b(f\u200beat\u200b. Asake, Wizkid, Skillibeng\u200b)",
       "url": "https://open.spotify.com/track/1HJr3tp2LIrvXFexwiyn7s"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Ayo",
-        "url": "https://open.spotify.com/album/3K4CaKaEcLuJkJZ3lATzrq"
-      },
-      "artists": [
-        {
-          "name": "Wizkid",
-          "url": "https://open.spotify.com/artist/3tVQdUvClmAT7URs9V3rsp"
-        }
-      ],
-      "duration_ms": 216242,
-      "name": "Ojuelegba",
-      "url": "https://open.spotify.com/track/1AtBzcUzKLh4BGwXhFA9K6"
     },
     {
       "added_at": null,
@@ -423,26 +423,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "EASY WITH ME",
-        "url": "https://open.spotify.com/album/2GNIedD3ftWWWBdG7i3ftM"
+        "name": "Feel Alright",
+        "url": "https://open.spotify.com/album/2tkpoFs09vZRoSEhtwzeqF"
       },
       "artists": [
         {
-          "name": "DJ Tunez",
-          "url": "https://open.spotify.com/artist/64oW4P0vsDhlorOxZKQi6a"
+          "name": "Rema",
+          "url": "https://open.spotify.com/artist/46pWGuE3dSwY3bMMXGBvVS"
         },
         {
           "name": "Wizkid",
           "url": "https://open.spotify.com/artist/3tVQdUvClmAT7URs9V3rsp"
-        },
-        {
-          "name": "ODUMODUBLVCK",
-          "url": "https://open.spotify.com/artist/3LOm0AZjpwVQebvkyanjDy"
         }
       ],
-      "duration_ms": 217269,
-      "name": "EASY WITH ME",
-      "url": "https://open.spotify.com/track/3gvi43dx7YWnQX0Tb5T2NV"
+      "duration_ms": 229757,
+      "name": "Feel Alright",
+      "url": "https://open.spotify.com/track/1ZxXUnXPNUBXVLDXY9rypW"
     },
     {
       "added_at": null,
@@ -467,6 +463,30 @@
       "duration_ms": 226800,
       "name": "Billionaires Club",
       "url": "https://open.spotify.com/track/65cRt4uGMzo51AzXqptVsX"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "EASY WITH ME",
+        "url": "https://open.spotify.com/album/2GNIedD3ftWWWBdG7i3ftM"
+      },
+      "artists": [
+        {
+          "name": "DJ Tunez",
+          "url": "https://open.spotify.com/artist/64oW4P0vsDhlorOxZKQi6a"
+        },
+        {
+          "name": "Wizkid",
+          "url": "https://open.spotify.com/artist/3tVQdUvClmAT7URs9V3rsp"
+        },
+        {
+          "name": "ODUMODUBLVCK",
+          "url": "https://open.spotify.com/artist/3LOm0AZjpwVQebvkyanjDy"
+        }
+      ],
+      "duration_ms": 217269,
+      "name": "EASY WITH ME",
+      "url": "https://open.spotify.com/track/3gvi43dx7YWnQX0Tb5T2NV"
     },
     {
       "added_at": null,
@@ -551,26 +571,6 @@
       "duration_ms": 214230,
       "name": "Lagos to Kampala",
       "url": "https://open.spotify.com/track/5eUKFq7L2qX6YRjJ2YfBDI"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Feel Alright",
-        "url": "https://open.spotify.com/album/2tkpoFs09vZRoSEhtwzeqF"
-      },
-      "artists": [
-        {
-          "name": "Rema",
-          "url": "https://open.spotify.com/artist/46pWGuE3dSwY3bMMXGBvVS"
-        },
-        {
-          "name": "Wizkid",
-          "url": "https://open.spotify.com/artist/3tVQdUvClmAT7URs9V3rsp"
-        }
-      ],
-      "duration_ms": 229757,
-      "name": "Feel Alright",
-      "url": "https://open.spotify.com/track/1ZxXUnXPNUBXVLDXY9rypW"
     },
     {
       "added_at": null,
@@ -751,26 +751,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Refuse to Be Broke: Da Revolution 2",
-        "url": "https://open.spotify.com/album/1ERZOMokw1NKzB47dfarQ7"
-      },
-      "artists": [
-        {
-          "name": "R2Bees",
-          "url": "https://open.spotify.com/artist/0LFsP7WPfu5inz9a1amcE4"
-        },
-        {
-          "name": "Wizkid",
-          "url": "https://open.spotify.com/artist/3tVQdUvClmAT7URs9V3rsp"
-        }
-      ],
-      "duration_ms": 261545,
-      "name": "Slow Down (feat. Wiz Kid)",
-      "url": "https://open.spotify.com/track/4voOsb8qpJ569JaMiGAyrl"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Tonight (feat. Wizkid)",
         "url": "https://open.spotify.com/album/2ZmBo6BuOV5bYzffc79hqS"
       },
@@ -787,6 +767,26 @@
       "duration_ms": 211826,
       "name": "Tonight (feat. Wizkid)",
       "url": "https://open.spotify.com/track/0DJuhvcgV1jaxg1Zd0xyQq"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Refuse to Be Broke: Da Revolution 2",
+        "url": "https://open.spotify.com/album/1ERZOMokw1NKzB47dfarQ7"
+      },
+      "artists": [
+        {
+          "name": "R2Bees",
+          "url": "https://open.spotify.com/artist/0LFsP7WPfu5inz9a1amcE4"
+        },
+        {
+          "name": "Wizkid",
+          "url": "https://open.spotify.com/artist/3tVQdUvClmAT7URs9V3rsp"
+        }
+      ],
+      "duration_ms": 261545,
+      "name": "Slow Down (feat. Wiz Kid)",
+      "url": "https://open.spotify.com/track/4voOsb8qpJ569JaMiGAyrl"
     },
     {
       "added_at": null,
@@ -839,26 +839,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "DYNAMITE",
-        "url": "https://open.spotify.com/album/0mk0S1Ytt2fDJYvc4AdzAQ"
-      },
-      "artists": [
-        {
-          "name": "Tyla",
-          "url": "https://open.spotify.com/artist/3SozjO3Lat463tQICI9LcE"
-        },
-        {
-          "name": "Wizkid",
-          "url": "https://open.spotify.com/artist/3tVQdUvClmAT7URs9V3rsp"
-        }
-      ],
-      "duration_ms": 177011,
-      "name": "DYNAMITE",
-      "url": "https://open.spotify.com/track/1myE3bHoWoSO5hyr3MxdHJ"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "More Love, Less Ego",
         "url": "https://open.spotify.com/album/73rKiFhHZatrwJL0B1F6hY"
       },
@@ -875,6 +855,26 @@
       "duration_ms": 187906,
       "name": "2 Sugar (feat. Ayra Starr)",
       "url": "https://open.spotify.com/track/1DA2ADZs6O28y2rmdmpekw"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "DYNAMITE",
+        "url": "https://open.spotify.com/album/0mk0S1Ytt2fDJYvc4AdzAQ"
+      },
+      "artists": [
+        {
+          "name": "Tyla",
+          "url": "https://open.spotify.com/artist/3SozjO3Lat463tQICI9LcE"
+        },
+        {
+          "name": "Wizkid",
+          "url": "https://open.spotify.com/artist/3tVQdUvClmAT7URs9V3rsp"
+        }
+      ],
+      "duration_ms": 177011,
+      "name": "DYNAMITE",
+      "url": "https://open.spotify.com/track/1myE3bHoWoSO5hyr3MxdHJ"
     },
     {
       "added_at": null,

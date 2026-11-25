@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX30DGof92rQX.md) - [plain]
 
 > Latest Pakistani pop releases\. Like this? Listen to the Pop hits in <a href="https://open.spotify.com/playlist/37i9dQZF1DWZj47aylvVUN?si=3569b01a867d4b2b"> Pakistani Pop</a>\. Cover \- Aashir Wajahat, Sabaat Batin
 
-[Spotify](https://open.spotify.com/user/spotify) - 22,691 likes - 118 songs - 6 hr 7 min
+[Spotify](https://open.spotify.com/user/spotify) - 22,698 likes - 118 songs - 6 hr 7 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -127,4 +127,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX30DGof92rQX.md) - [plain]
 | 117 | [stay away](https://open.spotify.com/track/0ZFDZDX4Z67uoMXYRgBUjh) | [Arshman Khan](https://open.spotify.com/artist/7Gg4O0kIXEu2DYgycQrz8x) | [stay away](https://open.spotify.com/album/5XPw4B0NuZh3BbfzEEiXtw) | 3:29 |
 | 118 | [Pablo](https://open.spotify.com/track/1PLT6v3VhugzzLarvG76Ko) | [Hania Aamir](https://open.spotify.com/artist/0Mqyon2f1de1y9AcGbb1Jf) | [Pablo](https://open.spotify.com/album/41WcjlLxGl5uI9J325Ffyz) | 2:06 |
 
-Snapshot ID: `AAAAALtvTHfuQTos65yBxuiKL0HWx/UZ`
+Snapshot ID: `AAAAAGBu+UNcPfVKCrvrsE/BprsMtAB3`

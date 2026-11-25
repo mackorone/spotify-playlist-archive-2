@@ -4,7 +4,7 @@
 
 > Det beste av ny pop akkurat nå! 🍭<br/>Cover: Zara Larsson
 
-755 songs - 1 day 15 hr 15 min
+757 songs - 1 day 15 hr 23 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -23,6 +23,7 @@
 | [A Little More](https://open.spotify.com/track/18FN1Kz7KMF0ujN6ID4ans) | [Ed Sheeran](https://open.spotify.com/artist/6eUKZXaKkcviH0Ku9w2n3V) | [A Little More](https://open.spotify.com/album/0FFwoqf6fRZCxERyjIOI4X) | 3:12 | 2025-08-07 | 2026-04-12 |
 | [A Little Too Lost Sometimes](https://open.spotify.com/track/5T5sOXwBzka5WAdy6jahsV) | [RABO](https://open.spotify.com/artist/6bf8OgxXTVqU1OZIJmnBpf) | [A Little Too Lost Sometimes](https://open.spotify.com/album/1hgILChVJdx3d1s6CqUUnb) | 3:48 | 2025-10-09 | 2025-10-31 |
 | [A Night To Remember](https://open.spotify.com/track/180AbZduI6bYQIzwCHRwu9) | [beabadoobee](https://open.spotify.com/artist/35l9BRT7MXmM8bv2WDQiyB), [Laufey](https://open.spotify.com/artist/7gW0r5CkdEUMm42w9XpyZO) | [A Night To Remember](https://open.spotify.com/album/73wBVA41AulgjGiL3rBwfe) | 3:53 | 2024-07-04 | 2024-08-09 |
+| [A PLACE TO GO](https://open.spotify.com/track/1sCi4rGpZTqajyJufnrbhb) | [The Kid LAROI](https://open.spotify.com/artist/2tIP7SsRs7vjIcLrU85W8J) | [A PLACE TO GO](https://open.spotify.com/album/5DievKzmlCMzHlE2mqB68S) | 3:32 | 2026-11-19 |  |
 | [Abba](https://open.spotify.com/track/5xaLNTIiiaNPZvNPGWNhAN) | [Chris Holsten](https://open.spotify.com/artist/63Dir7MyAhpGcHU3rOh3uF) | [Abba](https://open.spotify.com/album/5Nb4zhPvV8PyrM035JybzM) | 3:52 | 2026-01-08 | 2026-03-05 |
 | [Abracadabra](https://open.spotify.com/track/5ZLUm9eab8y3tqQ1OhQSHI) | [Lady Gaga](https://open.spotify.com/artist/1HY2Jd0NmPuamShAr6KMms) | [Abracadabra](https://open.spotify.com/album/2I6LyArz82waG94e9V5B9d) | 3:43 | 2025-02-06 | 2025-08-12 |
 | [Adrian](https://open.spotify.com/track/2Ln8xLOCZhoVnPOeS8L1XY) | [Maria Jane Smith](https://open.spotify.com/artist/4WwXZFXWvXCc6cHvgP5m7u) | [Adrian](https://open.spotify.com/album/2elgEJLcjWjFTRObJuxmDS) | 3:37 | 2024-09-26 | 2024-10-22 |
@@ -165,7 +166,7 @@
 | [Dopamine](https://open.spotify.com/track/168GHxsiJyT9tlJN74ZO11) | [Robyn](https://open.spotify.com/artist/6UE7nl9mha6s8z0wFQFIZ2) | [Dopamine](https://open.spotify.com/album/3k63fb9eki4aVFPzU3Ptvw) | 3:35 | 2025-11-13 | 2026-04-13 |
 | [Draw You Out \- From The Hunger Games: Sunrise on the Reaping \- The Album](https://open.spotify.com/track/5KTcGJKm4HgLhLt8Tc7EQ5) | [Noah Kahan](https://open.spotify.com/artist/2RQXRUsr4IW1f3mKyKsy4B), [The Hunger Games](https://open.spotify.com/artist/6UdECsev3yuXe2rfLrdDiF) | [Draw You Out](https://open.spotify.com/album/6AAZV1VyL6Y6HC4hbPg3Cr) | 4:15 | 2026-10-01 |  |
 | [Dream Out Loud](https://open.spotify.com/track/1Tcsmov8MTNdZGXShRiviQ) | [INNA](https://open.spotify.com/artist/2w9zwq3AktTeYYMuhMjju8), [Matoma](https://open.spotify.com/artist/4YXycRbyyAE0wozTk7QMEq) | [Dream Out Loud](https://open.spotify.com/album/0AZ9wbbbM32nrzD8czHDwX) | 3:04 | 2026-05-07 | 2026-05-15 |
-| [Drive Safe](https://open.spotify.com/track/024GxR7aMUMCPtp8Y3c1zn) | [Myles Smith](https://open.spotify.com/artist/3bO19AOone0ubCsfDXDtYt), [Niall Horan](https://open.spotify.com/artist/1Hsdzj7Dlq2I7tHP7501T4) | [Drive Safe](https://open.spotify.com/album/7zEiuGlnzrMy1FrhXWpDSw) | 3:21 | 2026-02-05 |  |
+| [Drive Safe](https://open.spotify.com/track/024GxR7aMUMCPtp8Y3c1zn) | [Myles Smith](https://open.spotify.com/artist/3bO19AOone0ubCsfDXDtYt), [Niall Horan](https://open.spotify.com/artist/1Hsdzj7Dlq2I7tHP7501T4) | [Drive Safe](https://open.spotify.com/album/7zEiuGlnzrMy1FrhXWpDSw) | 3:21 | 2026-02-05 | 2026-11-25 |
 | [drop dead](https://open.spotify.com/track/6gkbtMtioHgtyGjrMel6ei) | [Olivia Rodrigo](https://open.spotify.com/artist/1McMsnEElThX1knmY4oliG) | [drop dead](https://open.spotify.com/album/4OMvPbXaYlbUm6TnwyXGct) | 3:44 | 2026-04-17 |  |
 | [Du lyg](https://open.spotify.com/track/1v0Erq90AMsmP8C0vJk4q7) | [Ruben](https://open.spotify.com/artist/0x3PXj1WnuW7YsBxQK57xM) | [Du lyg](https://open.spotify.com/album/2b6ovHU9jpZPH1WNXa1fjg) | 3:14 | 2025-09-11 | 2026-02-13 |
 | [Du lyg så lett](https://open.spotify.com/track/5ZUNPjGDdz47W26AtUQfXf) | [Ruben](https://open.spotify.com/artist/0x3PXj1WnuW7YsBxQK57xM) | [Du lyg så lett](https://open.spotify.com/album/7I7xV8JNutYB3lnoCge3UQ) | 3:25 | 2025-12-25 | 2026-01-02 |
@@ -200,7 +201,7 @@
 | [Feel Sorry](https://open.spotify.com/track/279ekaCFBznmQh44Z3Eqpu) | [JOA](https://open.spotify.com/artist/3gei6uuyG10zkyfeb6CQo9) | [Feelings You Don't Say Out Loud](https://open.spotify.com/album/5O7hIdvsWAgt2DnphqZfQP) | 2:54 | 2025-11-13 | 2025-11-28 |
 | [feelslikeimfallinginlove \- Single Version](https://open.spotify.com/track/1YsU8rW2u8z4F0pwOBQ4Ea) | [Coldplay](https://open.spotify.com/artist/4gzpq5DPGxSnKTe4SA8HAU) | [feelslikeimfallinginlove](https://open.spotify.com/album/6RjTapeTvms8jSeIRGc5Ve) | 3:57 | 2024-06-27 | 2025-03-28 |
 | [Feil](https://open.spotify.com/track/7t8DCW6HxYFBsgKPhXNfWB) | [brvge](https://open.spotify.com/artist/33lBP13fSNr2FdUBXZ7vtK) | [Feil](https://open.spotify.com/album/3rpg6fTQUrA2TpulD6zNIb) | 2:14 | 2026-07-02 | 2026-07-10 |
-| [FINE PLACE TO DIE](https://open.spotify.com/track/2k4PvUBCu1mkNbXLXhvaBW) | [Alex Warren](https://open.spotify.com/artist/0fTSzq9jAh4c36UVb4V7CB) | [FINE PLACE TO DIE](https://open.spotify.com/album/5BE6sXUzT8u1Dm02n1pN5r) | 3:07 | 2026-04-30 |  |
+| [FINE PLACE TO DIE](https://open.spotify.com/track/2k4PvUBCu1mkNbXLXhvaBW) | [Alex Warren](https://open.spotify.com/artist/0fTSzq9jAh4c36UVb4V7CB) | [FINE PLACE TO DIE](https://open.spotify.com/album/5BE6sXUzT8u1Dm02n1pN5r) | 3:07 | 2026-04-30 | 2026-11-25 |
 | [Fineste Dama På Utestedet](https://open.spotify.com/track/0VJAnLZlBHZIPsRcBW3kSw) | [Vidar Villa](https://open.spotify.com/artist/4ec09tknYr0531ivdBMNIg), [Bølgen](https://open.spotify.com/artist/1oG6SP2Hw5TfGeRY5923PW) | [Fineste Dama På Utestedet](https://open.spotify.com/album/7pU45MsJfs2xoqC34wPKeV) | 2:44 | 2025-06-26 | 2025-07-11 |
 | [First Light](https://open.spotify.com/track/2vd3HbaEqhEJpvVNHEago8) | [Lana Del Rey](https://open.spotify.com/artist/00FQb4jTyendYWaN8pK0wa) | [First Light](https://open.spotify.com/album/2uPAqoHMW8fvvP5cFYejc4) | 3:24 | 2026-04-17 | 2026-08-01 |
 | [Flere liv](https://open.spotify.com/track/3obSPly7GLEOJXBEZ08JBU) | [Sval](https://open.spotify.com/artist/3pEGp6I1uBPalwgcku2CS0) | [Flere liv](https://open.spotify.com/album/4Yt9v8JhhSnnfvsKisgso0) | 2:59 | 2026-05-28 | 2026-06-12 |
@@ -342,6 +343,7 @@
 | [I takt med deg \(feat\. Bjørn Eidsvåg\)](https://open.spotify.com/track/0swzY7LDbkMXepuOM9GGKb) | [Zimmermann](https://open.spotify.com/artist/624LRh2tnvHek6iQrWZcmB), [Bjørn Eidsvåg](https://open.spotify.com/artist/11Vny8qHe4KR50ZIjhz7sz) | [I takt med deg \(feat\. Bjørn Eidsvåg\)](https://open.spotify.com/album/5k1bYCkpe0dSgwXNzePENq) | 3:48 | 2026-08-20 |  |
 | [I'LL NEVER KNOW WHY](https://open.spotify.com/track/2C097JtMsYHKwgWmaErqFx) | [Jessie J](https://open.spotify.com/artist/2gsggkzM5R49q6jpPvazou) | [Don't Tease Me With A Good Time](https://open.spotify.com/album/5x8HW0WELQYm5Cp8408sfg) | 3:52 | 2025-11-27 | 2026-01-02 |
 | [I'm a girl with feelings, baby!](https://open.spotify.com/track/6BHunRN9cypPJq0OpIODxA) | [JOA](https://open.spotify.com/artist/3gei6uuyG10zkyfeb6CQo9) | [I'm a girl with feelings, baby!](https://open.spotify.com/album/4x3KAEGZq3nHmtK1J6Mftc) | 2:50 | 2026-10-16 | 2026-10-23 |
+| [I'm a Song \(feat\. Chris Stapleton\)](https://open.spotify.com/track/0v9ZnTzTMTkl4hkJT8yVGE) | [Stephen Wilson Jr.](https://open.spotify.com/artist/4DSDa4HvAWqvb3dMHUOAfd), [Chris Stapleton](https://open.spotify.com/artist/4YLtscXsxbVgi031ovDDdh) | [I'm a Song](https://open.spotify.com/album/1FvFf5xivch1Q13ouzmC8o) | 4:35 | 2026-11-19 |  |
 | [I'm Still](https://open.spotify.com/track/3Hnz8f9G9HsbJL56vb6zJr) | [HILLARI](https://open.spotify.com/artist/1bEzbwo8LkrDN0imp4dkEM) | [I'm Still](https://open.spotify.com/album/3BoiZa3vYxc4as8qO5MKQu) | 2:42 | 2025-09-04 | 2025-09-26 |
 | [I'm Yours](https://open.spotify.com/track/6u1cfFnKAVw5QBPLXoUJ8i) | [Vilhelm Buchaus](https://open.spotify.com/artist/1WqdwYhwSMzVexRFkOtcwl) | [I'm Yours](https://open.spotify.com/album/3QOTSHOekBcuSL4n53DbkB) | 2:53 | 2025-03-05 | 2025-04-23 |
 | [Icarus](https://open.spotify.com/track/6PpJ7gIAckwYRLwpSWgi0U) | [Moyka](https://open.spotify.com/artist/2u7pjisWrThF8JErPVIPlJ) | [Icarus](https://open.spotify.com/album/4uRhoJT3E5wMmam3uOsqmg) | 2:30 | 2026-05-07 | 2026-05-15 |

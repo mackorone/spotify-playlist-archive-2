@@ -1,12 +1,12 @@
 {
   "description": "Potras, rancherxs y la \ud83e\uddc0 Julieta Venegas en portada ",
-  "num_followers": 38010,
+  "num_followers": 38019,
   "original_name": "Sombreruda y nimoderrimo \ud83c\udff3\ufe0f\u200d\ud83c\udf08",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAMOseOufExhdixJOPFfobXrtVvm1",
+  "snapshot_id": "AAAAALeVJcnLCxkJCwZoxP45+ONWf6Xu",
   "tracks": [
     {
       "added_at": "2026-05-18 21:58:22",
@@ -599,6 +599,22 @@
     {
       "added_at": "2026-05-18 21:58:22",
       "album": {
+        "name": "Por Puro Amor",
+        "url": "https://open.spotify.com/album/4EHVcKOs6x6DyYqocO6rTe"
+      },
+      "artists": [
+        {
+          "name": "Grupo Limite",
+          "url": "https://open.spotify.com/artist/2qWNYueLfc979iEdLOIK2C"
+        }
+      ],
+      "duration_ms": 187400,
+      "name": "Te Aprovechas",
+      "url": "https://open.spotify.com/track/2gwPSweI4iehGyEkDYYxzF"
+    },
+    {
+      "added_at": "2026-05-18 21:58:22",
+      "album": {
         "name": "No Capea",
         "url": "https://open.spotify.com/album/3fsVOb8vnAjEaxfuh5Kqdd"
       },
@@ -615,22 +631,6 @@
       "duration_ms": 194605,
       "name": "No Capea",
       "url": "https://open.spotify.com/track/3IcaWsnVb6NOsjtcuedsM8"
-    },
-    {
-      "added_at": "2026-05-18 21:58:22",
-      "album": {
-        "name": "Por Puro Amor",
-        "url": "https://open.spotify.com/album/4EHVcKOs6x6DyYqocO6rTe"
-      },
-      "artists": [
-        {
-          "name": "Grupo Limite",
-          "url": "https://open.spotify.com/artist/2qWNYueLfc979iEdLOIK2C"
-        }
-      ],
-      "duration_ms": 187400,
-      "name": "Te Aprovechas",
-      "url": "https://open.spotify.com/track/2gwPSweI4iehGyEkDYYxzF"
     },
     {
       "added_at": "2026-05-18 21:58:22",
@@ -687,22 +687,6 @@
     {
       "added_at": "2026-05-18 21:58:22",
       "album": {
-        "name": "La V\u00edctima",
-        "url": "https://open.spotify.com/album/30KJEN3ICjhYsZ1NgunRCr"
-      },
-      "artists": [
-        {
-          "name": "Xavi",
-          "url": "https://open.spotify.com/artist/3Me35AWHCGqW4sZ7bWWJt1"
-        }
-      ],
-      "duration_ms": 156345,
-      "name": "La V\u00edctima",
-      "url": "https://open.spotify.com/track/5XVdHRf4CAJ2Jm0uMIy5qY"
-    },
-    {
-      "added_at": "2026-05-18 21:58:22",
-      "album": {
         "name": "Bebe Dame",
         "url": "https://open.spotify.com/album/6PdUbuaqXLdQKPGFLhLpRC"
       },
@@ -719,6 +703,22 @@
       "duration_ms": 271861,
       "name": "Bebe Dame",
       "url": "https://open.spotify.com/track/0mzsLrUNazBaRfYZfjmpSV"
+    },
+    {
+      "added_at": "2026-05-18 21:58:22",
+      "album": {
+        "name": "La V\u00edctima",
+        "url": "https://open.spotify.com/album/30KJEN3ICjhYsZ1NgunRCr"
+      },
+      "artists": [
+        {
+          "name": "Xavi",
+          "url": "https://open.spotify.com/artist/3Me35AWHCGqW4sZ7bWWJt1"
+        }
+      ],
+      "duration_ms": 156345,
+      "name": "La V\u00edctima",
+      "url": "https://open.spotify.com/track/5XVdHRf4CAJ2Jm0uMIy5qY"
     },
     {
       "added_at": "2026-05-18 21:58:22",
@@ -831,18 +831,18 @@
     {
       "added_at": "2026-05-18 21:58:22",
       "album": {
-        "name": "Ens\u00e9\u00f1ame",
-        "url": "https://open.spotify.com/album/6wrBXd8mUK0dp3yMM29kWK"
+        "name": "Por Puro Amor",
+        "url": "https://open.spotify.com/album/4EHVcKOs6x6DyYqocO6rTe"
       },
       "artists": [
         {
-          "name": "Bobby Pulido",
-          "url": "https://open.spotify.com/artist/4EEZg8R3dxbTCCQ1DVWtHg"
+          "name": "Grupo Limite",
+          "url": "https://open.spotify.com/artist/2qWNYueLfc979iEdLOIK2C"
         }
       ],
-      "duration_ms": 186280,
-      "name": "Se Muri\u00f3 De Amor",
-      "url": "https://open.spotify.com/track/5iuGn3RXvfvHIyIe8fyxBE"
+      "duration_ms": 179533,
+      "name": "Yo Sin Tu Amor",
+      "url": "https://open.spotify.com/track/3zuiOe6mJQ2fNe67FyqcrT"
     },
     {
       "added_at": "2026-05-18 21:58:22",
@@ -859,22 +859,6 @@
       "duration_ms": 140133,
       "name": "Nunca Voy a Olvidarte",
       "url": "https://open.spotify.com/track/7AbWRB5vMPUYSXeHhdlUSQ"
-    },
-    {
-      "added_at": "2026-05-18 21:58:22",
-      "album": {
-        "name": "Por Puro Amor",
-        "url": "https://open.spotify.com/album/4EHVcKOs6x6DyYqocO6rTe"
-      },
-      "artists": [
-        {
-          "name": "Grupo Limite",
-          "url": "https://open.spotify.com/artist/2qWNYueLfc979iEdLOIK2C"
-        }
-      ],
-      "duration_ms": 179533,
-      "name": "Yo Sin Tu Amor",
-      "url": "https://open.spotify.com/track/3zuiOe6mJQ2fNe67FyqcrT"
     },
     {
       "added_at": "2026-05-18 21:58:22",
@@ -911,6 +895,22 @@
       "duration_ms": 247538,
       "name": "OTRO AMOR",
       "url": "https://open.spotify.com/track/45jWNNpTqJ4gSty54msOLx"
+    },
+    {
+      "added_at": "2026-05-18 21:58:22",
+      "album": {
+        "name": "Ens\u00e9\u00f1ame",
+        "url": "https://open.spotify.com/album/6wrBXd8mUK0dp3yMM29kWK"
+      },
+      "artists": [
+        {
+          "name": "Bobby Pulido",
+          "url": "https://open.spotify.com/artist/4EEZg8R3dxbTCCQ1DVWtHg"
+        }
+      ],
+      "duration_ms": 186280,
+      "name": "Se Muri\u00f3 De Amor",
+      "url": "https://open.spotify.com/track/5iuGn3RXvfvHIyIe8fyxBE"
     },
     {
       "added_at": "2026-05-18 21:58:22",
@@ -1375,22 +1375,6 @@
     {
       "added_at": "2026-05-18 21:58:22",
       "album": {
-        "name": "Tu Regalo",
-        "url": "https://open.spotify.com/album/6hUQFOztpF095UsEhq7QlR"
-      },
-      "artists": [
-        {
-          "name": "Chuy Lizarraga y Su Banda Tierra Sinaloense",
-          "url": "https://open.spotify.com/artist/1DA8SLXtp8MMVpgaOWzMQr"
-        }
-      ],
-      "duration_ms": 204640,
-      "name": "La Peinada (La Peinadita)",
-      "url": "https://open.spotify.com/track/1Lp14SCjlGEvGSC4uDwrpD"
-    },
-    {
-      "added_at": "2026-05-18 21:58:22",
-      "album": {
         "name": "Vive",
         "url": "https://open.spotify.com/album/4v2fdmkaVrrT0eYhy2ix3a"
       },
@@ -1403,6 +1387,22 @@
       "duration_ms": 180560,
       "name": "Ojal\u00e1 Te Animes",
       "url": "https://open.spotify.com/track/1tg7ZzCAkjDNENdWL7WuIr"
+    },
+    {
+      "added_at": "2026-05-18 21:58:22",
+      "album": {
+        "name": "Tu Regalo",
+        "url": "https://open.spotify.com/album/6hUQFOztpF095UsEhq7QlR"
+      },
+      "artists": [
+        {
+          "name": "Chuy Lizarraga y Su Banda Tierra Sinaloense",
+          "url": "https://open.spotify.com/artist/1DA8SLXtp8MMVpgaOWzMQr"
+        }
+      ],
+      "duration_ms": 204640,
+      "name": "La Peinada (La Peinadita)",
+      "url": "https://open.spotify.com/track/1Lp14SCjlGEvGSC4uDwrpD"
     },
     {
       "added_at": "2026-05-18 21:58:22",

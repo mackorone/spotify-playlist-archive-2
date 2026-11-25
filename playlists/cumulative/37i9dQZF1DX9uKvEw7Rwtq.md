@@ -4,7 +4,7 @@
 
 > Soaring soundscapes from the most epic Post\-Rock artists.
 
-193 songs - 15 hr 18 min
+194 songs - 15 hr 20 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -15,7 +15,7 @@
 | [A Dream to Call My Own \(feat\. Janell Rosa\)](https://open.spotify.com/track/1QRbOx5X5oCNla0mfHJOH3) | [Nature Feels](https://open.spotify.com/artist/1ltepWinShlb0TKyJrNfEq), [Janell Rosa](https://open.spotify.com/artist/1p9RwfShi3tpt02GuEs7HD) | [A Dream to Call My Own \(feat\. Janell Rosa\)](https://open.spotify.com/album/2VX4sX25BcOUOY7sofYgaq) | 3:49 | 2022-03-25 |  |
 | [A Letter from the Past](https://open.spotify.com/track/2Da5dLkBzADcZ0qcTOuiYk) | [Carlos Ferreira](https://open.spotify.com/artist/7J6KXAg6cV2B2BKGYZJhEB), [bu.re\_](https://open.spotify.com/artist/6CJUEvrgdk2Qy2M8M8ucy0) | [Momentary Ghosts](https://open.spotify.com/album/7sAHthUnnbu2lpLkzDdqiI) | 4:43 | 2022-03-18 |  |
 | [A Moonrise Was the Second Coming](https://open.spotify.com/track/7JmqKUTrUIoHz2uzgsEUlk) | [Hammock](https://open.spotify.com/artist/0VOR7Ie9xUSb45fzIIVJQ1) | [A Moonrise Was the Second Coming](https://open.spotify.com/album/5k0Xl7zwM8V6jVJqCJOzbi) | 4:56 | 2026-11-23 |  |
-| [A Place to Breathe](https://open.spotify.com/track/6buddStONGyZPOSDaYODVU) | [Lumestria](https://open.spotify.com/artist/2EgAcyKbKswfRo9sHGG3xC) | [A Place to Breathe](https://open.spotify.com/album/1MfQ1WJQ5IihFUkqusIgxQ) | 2:58 | 2026-05-29 |  |
+| [A Place to Breathe](https://open.spotify.com/track/6buddStONGyZPOSDaYODVU) | [Lumestria](https://open.spotify.com/artist/2EgAcyKbKswfRo9sHGG3xC) | [A Place to Breathe](https://open.spotify.com/album/1MfQ1WJQ5IihFUkqusIgxQ) | 2:58 | 2026-05-29 | 2026-11-25 |
 | [Abell 1835](https://open.spotify.com/track/6hyj3mdLzyCq1Cd2F8S42o) | [LIGHTS OUT ASIA](https://open.spotify.com/artist/1jtXwxapRCfIUoU6gbGWzi) | [Hy\-Brasil](https://open.spotify.com/album/0Ovb8VJpDHHtTbqjbYhywu) | 3:55 | 2023-01-27 | 2023-11-01 |
 | [Abell 1835](https://open.spotify.com/track/7r2tHb7QeJVe04dV93tw26) | [LIGHTS OUT ASIA](https://open.spotify.com/artist/1jtXwxapRCfIUoU6gbGWzi) | [Hy\-Brasil](https://open.spotify.com/album/4t9ezLYdrfdwL042DhSPVI) | 3:55 | 2022-03-25 |  |
 | [Above the Fog \(Pt.2\)](https://open.spotify.com/track/4cjRiT6COzETZ3mWQXydnr) | [The Best Pessimist](https://open.spotify.com/artist/6W4aup6f745SyZe2vShUnZ) | [Love Is...](https://open.spotify.com/album/5RQJ2Gk1ep33nVpWZCNivn) | 8:46 | 2022-03-18 | 2026-02-28 |
@@ -69,6 +69,7 @@
 | [Green Arrow](https://open.spotify.com/track/0jgsq6l1yMZIlJX4AFXAgA) | [Yo La Tengo](https://open.spotify.com/artist/5hAhrnb0Ch4ODwWu4tsbpi) | [I Can Hear The Heart Beating As One](https://open.spotify.com/album/3NFNNMIWnByvVPvCf7LsRU) | 5:43 | 2022-03-18 | 2025-06-24 |
 | [Green Arrow](https://open.spotify.com/track/6o65Xn8X3IXf7zmxVjXDWJ) | [Yo La Tengo](https://open.spotify.com/artist/5hAhrnb0Ch4ODwWu4tsbpi) | [I Can Hear The Heart Beating As One](https://open.spotify.com/album/3V18DIKvRuwdxc2LE4wuac) | 5:43 | 2022-05-27 | 2024-04-19 |
 | [growing up](https://open.spotify.com/track/3PWVoUzYBlcHDlAgR0Zz5d) | [asystole](https://open.spotify.com/artist/6rp87dosllRvq8qTexWknV) | [growing up](https://open.spotify.com/album/4pvgtTIF9WIWyvtUs3AD2y) | 2:37 | 2026-05-29 |  |
+| [habit](https://open.spotify.com/track/4IIDTnfRbJOeG2BfNLmBXe) | [Sungiovese](https://open.spotify.com/artist/1coz1ceyz5xJV9Tts1GkLL) | [habit](https://open.spotify.com/album/6kzpKvFCz4448pyTWwR5up) | 2:15 | 2026-11-23 |  |
 | [Headache](https://open.spotify.com/track/4EDj8GXOlI45vG4SOfswK3) | [Grouper](https://open.spotify.com/artist/31uyAcnY0kjjKKIQZMKX4i) | [Paradise Valley](https://open.spotify.com/album/5e5MtmjBRnh3eI5g5C0Tyv) | 5:04 | 2022-03-18 | 2026-02-28 |
 | [Her Beating Wings](https://open.spotify.com/track/2FGsWazGl3pdFX1kNk2NY1) | [This Patch of Sky](https://open.spotify.com/artist/5SizWbJ5S7KxIR8e07jvqf) | [These Small Spaces](https://open.spotify.com/album/7ACcoSiFkGjT3TlntaogzB) | 6:59 | 2022-03-18 |  |
 | [Ho Renomo](https://open.spotify.com/track/2nBtV4NSZJiarMBMpsn6UH) | [Cluster](https://open.spotify.com/artist/5mNY0NPszdalbrb4ITO3M8), [Brian Eno](https://open.spotify.com/artist/7MSUfLeTdDEoZiJPDSBXgi) | [Cluster & Eno](https://open.spotify.com/album/0VSmGsL1RtyjE7bdAaSAvy) | 5:11 | 2022-03-25 |  |

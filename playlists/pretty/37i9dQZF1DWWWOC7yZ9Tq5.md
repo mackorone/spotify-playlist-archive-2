@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWWOC7yZ9Tq5.md) - [plain]
 
 > A selection of anime tracks perfect for listening to during your gaming time\.  Illustration by <a href="https://www.instagram.com/nostalook7090/">NOSTALOOK</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,403 likes - 50 songs - 2 hr 36 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,443 likes - 50 songs - 2 hr 36 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -19,9 +19,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWWOC7yZ9Tq5.md) - [plain]
 | 9 | [FAIRY TAIL メインテーマ](https://open.spotify.com/track/240VBEMFhNTUlnSFF1OMyR) | [Yasuharu Takanashi](https://open.spotify.com/artist/64mecceQewFCKwCK6JBW0o) | [「FAIRY TAIL」ORIGINAL SOUNDTRACK VOL.1](https://open.spotify.com/album/392VpSJMuN0khLk66tMv1T) | 2:32 |
 | 10 | [竈門炭治郎のうた \-OST ver.\-](https://open.spotify.com/track/03OsFs8Qcyzl3cCOcrMALw) | [椎名豪](https://open.spotify.com/artist/5SwtzFnHzuWGai6tPOHBeH), [中川奈美](https://open.spotify.com/artist/6fRAchGeMqG9ppHP8QBQuk) | [「鬼滅の刃」竈門炭治郎 立志編 オリジナルサウンドトラック](https://open.spotify.com/album/2NTJua5Rhkszhg6b99TK78) | 5:30 |
 | 11 | [You Say Run](https://open.spotify.com/track/0hHc2igYYlSUyZdByauJmB) | [Yuki Hayashi](https://open.spotify.com/artist/3oGVQWQy7lgTMuTnKUZZNZ) | [TVアニメ『僕のヒーローアカデミア』オリジナル・サウンドトラック](https://open.spotify.com/album/173zS6O8pRYiAU3UJUzg2S) | 3:48 |
-| 12 | [Bauklotze](https://open.spotify.com/track/6oh6pyBUaJWZbhQKsq0iAm) | [Sawano Hiroyuki](https://open.spotify.com/artist/0Riv2KnFcLZA3JSVryRg4y) | [TV Anime "Attack on Titan" Original Soundtrack](https://open.spotify.com/album/3WDkuVqT1OfkTdCyYQ2gXa) | 3:56 |
+| 12 | [イザベラの唄](https://open.spotify.com/track/6qzTbAFDX82BxJIBbdKPH8) | [小畑貴裕](https://open.spotify.com/artist/1ts9YsGOQHW0vzUrhG4ZpH) | [約束のネバーランド Season1 Original Soundtrack](https://open.spotify.com/album/6yN3OuEpq0YkHK21VDQJKb) | 2:29 |
 | 13 | [Contre Les Agressions \(EM04\_A\)](https://open.spotify.com/track/6h2aOn20jbzx0HCFtfl3gA) | [Shiro SAGISU](https://open.spotify.com/artist/5k3NfhEeZHpouIGDpjKOPo) | [Shiro SAGISU Music from "EVANGELION 1.0" YOU ARE\(NOT\)ALONE.](https://open.spotify.com/album/05icPAiE1jH4d0tjjrtE0k) | 2:01 |
-| 14 | [イザベラの唄](https://open.spotify.com/track/6qzTbAFDX82BxJIBbdKPH8) | [小畑貴裕](https://open.spotify.com/artist/1ts9YsGOQHW0vzUrhG4ZpH) | [約束のネバーランド Season1 Original Soundtrack](https://open.spotify.com/album/6yN3OuEpq0YkHK21VDQJKb) | 2:29 |
+| 14 | [Bauklotze](https://open.spotify.com/track/6oh6pyBUaJWZbhQKsq0iAm) | [Sawano Hiroyuki](https://open.spotify.com/artist/0Riv2KnFcLZA3JSVryRg4y) | [TV Anime "Attack on Titan" Original Soundtrack](https://open.spotify.com/album/3WDkuVqT1OfkTdCyYQ2gXa) | 3:56 |
 | 15 | [Fly Away](https://open.spotify.com/track/7olMFQZhjN2EHf7ra2PjE7) | [TeddyLoid](https://open.spotify.com/artist/3GfNJrDTZY7voXPDx8gH9I) | [Panty & Stocking with Garterbelt　The Original Soundtrack](https://open.spotify.com/album/1OcPnTk7T4fgB8nkl4AOh6) | 4:23 |
 | 16 | [Never Coming Back](https://open.spotify.com/track/3Ah4c5PA249AR1QOyVCsc4) | [Evan Call](https://open.spotify.com/artist/0nMGbTpPx4b3h5fMG9CpWJ) | [Violet Evergarden: Automemories](https://open.spotify.com/album/72gCyV73fW93aTkOM8C4W2) | 2:24 |
 | 17 | [あの夏へ](https://open.spotify.com/track/6RxsExIM2y163Iy1Qst36S) | [Joe Hisaishi](https://open.spotify.com/artist/7nzSoJISlVJsn7O0yTeMOB) | [千と千尋の神隠し サウンドトラック](https://open.spotify.com/album/3nok62UEPi0gHJsIrHbhMY) | 3:09 |
@@ -36,8 +36,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWWOC7yZ9Tq5.md) - [plain]
 | 26 | [SAE](https://open.spotify.com/track/68slfkIx29BAtyBZJu8pj3) | [村山☆潤](https://open.spotify.com/artist/3lhpkn7TNzz8kqNE8PUOqm) | [TVアニメ『ブルーロック VS\. U\-20 JAPAN』オリジナルサウンドトラック](https://open.spotify.com/album/2gAHilt1aA7tO194lQBdKC) | 2:47 |
 | 27 | [Trisha's Lullaby](https://open.spotify.com/track/3Acs78RQqrAQNEuDd4ucOP) | [Warsaw Philharmonic Orchestra & Choir](https://open.spotify.com/artist/10LmYfv5wE9or9EBI60asK) | [鋼の錬金術師 FULLMETAL ALCHEMIST Original Soundtrack 1](https://open.spotify.com/album/5AyohASGLv7HW6vZuYjYxT) | 3:31 |
 | 28 | [上](https://open.spotify.com/track/5N5iImDfoQ4IF3YvXBpxPX) | [Yuki Hayashi](https://open.spotify.com/artist/3oGVQWQy7lgTMuTnKUZZNZ) | [TVアニメ『ハイキュー!! セカンドシーズン』オリジナル・サウンドトラック \(Vol.1\)](https://open.spotify.com/album/0QUKlTBDQczWoXUKvNYF8Z) | 4:01 |
-| 29 | [疾風伝](https://open.spotify.com/track/0y2OZcxtwVvzk4vHsSJXwu) | [Yasuharu Takanashi](https://open.spotify.com/artist/64mecceQewFCKwCK6JBW0o) | [NARUTO\-ナルト\- 疾風伝　オリジナル・サウンドトラック](https://open.spotify.com/album/4f5CITLlnnTPE49n5Bd0zN) | 2:05 |
-| 30 | [愛のシルエット](https://open.spotify.com/track/6oibGjoc3gDoow4eXyX04f) | [Yuji Ohno](https://open.spotify.com/artist/7xIfi0ePXzLGlYO5lFjnvu), [ユー & ザ・エクスプロージョン・バンド](https://open.spotify.com/artist/3D3jcW12AeIw0FtXJGvilD) | [ルパン三世 オリジナル・サウンドトラック](https://open.spotify.com/album/4PZ92qFQ2dNB4MWpNE8PQl) | 4:24 |
+| 29 | [愛のシルエット](https://open.spotify.com/track/6oibGjoc3gDoow4eXyX04f) | [Yuji Ohno](https://open.spotify.com/artist/7xIfi0ePXzLGlYO5lFjnvu), [ユー & ザ・エクスプロージョン・バンド](https://open.spotify.com/artist/3D3jcW12AeIw0FtXJGvilD) | [ルパン三世 オリジナル・サウンドトラック](https://open.spotify.com/album/4PZ92qFQ2dNB4MWpNE8PQl) | 4:24 |
+| 30 | [疾風伝](https://open.spotify.com/track/0y2OZcxtwVvzk4vHsSJXwu) | [Yasuharu Takanashi](https://open.spotify.com/artist/64mecceQewFCKwCK6JBW0o) | [NARUTO\-ナルト\- 疾風伝　オリジナル・サウンドトラック](https://open.spotify.com/album/4f5CITLlnnTPE49n5Bd0zN) | 2:05 |
 | 31 | [Sis puella magica!](https://open.spotify.com/track/4S40MDl8IuzSHsmsctWaKI) | [梶浦 由記](https://open.spotify.com/artist/0BLHMPWOZ2aTI0ZCCbtZem) | [「魔法少女まどか☆マギカ」 Ultimate Best](https://open.spotify.com/album/6HbO9Uv1onX9RfLTQUrF8l) | 2:49 |
 | 32 | [人生のメリーゴーランド－オープニング－](https://open.spotify.com/track/6pIirGODmVMu57AlyzXC2R) | [Joe Hisaishi](https://open.spotify.com/artist/7nzSoJISlVJsn7O0yTeMOB) | [ハウルの動く城 サウンドトラック](https://open.spotify.com/album/5Xw7PhqdMRhdtd1UVFSxoF) | 2:33 |
 | 33 | [Shingeki Gt 20130218 Kyojin](https://open.spotify.com/track/6AFkv6rIVRusZNifR74Q7t) | [Sawano Hiroyuki](https://open.spotify.com/artist/0Riv2KnFcLZA3JSVryRg4y) | [TV Anime "Attack on Titan Season 2" \(Original Soundtrack\)](https://open.spotify.com/album/0jNwqmKIwudqqbMJRRtzQb) | 2:31 |
@@ -53,10 +53,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWWOC7yZ9Tq5.md) - [plain]
 | 43 | [livingroom](https://open.spotify.com/track/6XAEEforyl2ntmg6ZIeePj) | [kensuke ushio](https://open.spotify.com/artist/4L0gz16xuM1as1OgYzh1SR) | [Chainsaw Man Original Soundtrack EP Vol.2 \(Episode 4\-7\)](https://open.spotify.com/album/4lvjSSzNcXLniTEyIrzaBX) | 2:42 |
 | 44 | [ルパン三世のテーマ \- 「ルパン三世のテーマ'78」シングル・ヴァージョン](https://open.spotify.com/track/5VZn5Gsn2ckFJ2bmRo9GPe) | [Yuji Ohno](https://open.spotify.com/artist/7xIfi0ePXzLGlYO5lFjnvu), [ユー & ザ・エクスプロージョン・バンド](https://open.spotify.com/artist/3D3jcW12AeIw0FtXJGvilD) | [ルパン三世 オリジナル・サウンドトラック](https://open.spotify.com/album/4PZ92qFQ2dNB4MWpNE8PQl) | 3:24 |
 | 45 | [BEASTARS](https://open.spotify.com/track/1Iiq3tVtUZF0y8TYRENOHv) | [神前 暁](https://open.spotify.com/artist/1IdRNuzZylVdtc9oA3wZTk) | [TVアニメ「BEASTARS」オリジナルサウンドトラック](https://open.spotify.com/album/2rVmetH0Kki1VtcXuABSAH) | 1:18 |
-| 46 | [ワノ国 幕開け、幕引きのテーマ](https://open.spotify.com/track/15WLsibdUCBTyN6a9YUajB) | [Kohei Tanaka](https://open.spotify.com/artist/74ov6NjGYL0LHHyDD2Dy2b) | [ONE PIECE オリジナルサウンドトラック"WANOKUNI"](https://open.spotify.com/album/0DyIQWyWWthQ3f9xRP1hXa) | 3:39 |
-| 47 | [BLUELOCK](https://open.spotify.com/track/42Pf9Ox42Ye44dquMrCvk4) | [村山☆潤](https://open.spotify.com/artist/3lhpkn7TNzz8kqNE8PUOqm) | [TVアニメ『ブルーロック』オリジナルサウンドトラック](https://open.spotify.com/album/4wenjBpGw8Hh3tqTJHX23F) | 2:22 |
+| 46 | [Theme of Stone Ocean](https://open.spotify.com/track/61mLwf16eBgltPVQ487rPT) | [Yugo Kanno](https://open.spotify.com/artist/56DDzGJXY0xndL9wu9aHUD) | [ジョジョの奇妙な冒険 ストーンオーシャン O.S.T.](https://open.spotify.com/album/0jkIDp65gHymoVhF62qUWw) | 4:43 |
+| 47 | [ワノ国 幕開け、幕引きのテーマ](https://open.spotify.com/track/15WLsibdUCBTyN6a9YUajB) | [Kohei Tanaka](https://open.spotify.com/artist/74ov6NjGYL0LHHyDD2Dy2b) | [ONE PIECE オリジナルサウンドトラック"WANOKUNI"](https://open.spotify.com/album/0DyIQWyWWthQ3f9xRP1hXa) | 3:39 |
 | 48 | [lit\(var\)](https://open.spotify.com/track/6bTCdqB1PN5J93hiiZvQzW) | [kensuke ushio](https://open.spotify.com/artist/4L0gz16xuM1as1OgYzh1SR) | [A Shape of Light "A Silent Voice the Movie" Original Soundtrack](https://open.spotify.com/album/3WlmFFtmePwfhN9pQdVJ5v) | 2:14 |
-| 49 | [Theme of Stone Ocean](https://open.spotify.com/track/61mLwf16eBgltPVQ487rPT) | [Yugo Kanno](https://open.spotify.com/artist/56DDzGJXY0xndL9wu9aHUD) | [ジョジョの奇妙な冒険 ストーンオーシャン O.S.T.](https://open.spotify.com/album/0jkIDp65gHymoVhF62qUWw) | 4:43 |
+| 49 | [BLUELOCK](https://open.spotify.com/track/42Pf9Ox42Ye44dquMrCvk4) | [村山☆潤](https://open.spotify.com/artist/3lhpkn7TNzz8kqNE8PUOqm) | [TVアニメ『ブルーロック』オリジナルサウンドトラック](https://open.spotify.com/album/4wenjBpGw8Hh3tqTJHX23F) | 2:22 |
 | 50 | [栄の活躍](https://open.spotify.com/track/1k7KjB9enzo5xxbnfkqO8X) | [Akihiko Matsumoto](https://open.spotify.com/artist/7npYxeGYDN9qZmbxYuzunM) | [サマーウォーズ オリジナル・サウンドトラック](https://open.spotify.com/album/6wBgo2pf7e2HxsBUQA7BuV) | 3:09 |
 
-Snapshot ID: `AAAAABQjnP8OvG6qNDw6lcRskK5OajNM`
+Snapshot ID: `AAAAANm5wtQ5b0P6wBqwXudaQHloBTrI`

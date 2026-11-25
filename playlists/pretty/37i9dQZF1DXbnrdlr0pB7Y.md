@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbnrdlr0pB7Y.md) - [plain]
 
 > Piezas acústicas que te ayudarán a enfocarte.
 
-[Spotify](https://open.spotify.com/user/spotify) - 42,340 likes - 87 songs - 4 hr 10 min
+[Spotify](https://open.spotify.com/user/spotify) - 42,344 likes - 87 songs - 4 hr 10 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -96,4 +96,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbnrdlr0pB7Y.md) - [plain]
 | 86 | [Goiânia](https://open.spotify.com/track/4HiU3fxYZI6w2jNTTLhowT) | [Joana Ema](https://open.spotify.com/artist/2W1k5KydRQg7MsOSgGEm9u) | [Goiânia](https://open.spotify.com/album/559F8ws4FRpTbvaNc08VEE) | 2:52 |
 | 87 | [silver lining](https://open.spotify.com/track/6HjCf5a7Zw9VrIxTjL15Z0) | [Andrew Savignon](https://open.spotify.com/artist/64RGjNCHRYOPxY93HKm2pZ) | [Lonely Sailor](https://open.spotify.com/album/6pEABLFpolzNbmvXnrBYEL) | 3:04 |
 
-Snapshot ID: `AAAAAIhPW9+edVHn/1VGqVTte0elw1t0`
+Snapshot ID: `AAAAAFw6ow2vY+GawbtjFdOIX8eov99k`

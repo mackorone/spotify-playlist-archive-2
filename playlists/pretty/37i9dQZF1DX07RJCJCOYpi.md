@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX07RJCJCOYpi.md) - [plain]
 
 > The wave of Latin Electronic music\. Cover: KAROL G, John Summit
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,719,462 likes - 100 songs - 5 hr 23 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,718,998 likes - 100 songs - 5 hr 23 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX07RJCJCOYpi.md) - [plain]
 | 99 | [Revolu](https://open.spotify.com/track/1yDUEtPpsEYzM3eM2wI72t) | [Mr\. Pauer](https://open.spotify.com/artist/0yYKXWJ4TLMKfx4UugL8dJ), [Fulanito](https://open.spotify.com/artist/0hD97064k3LBUrRvfT42SE) | [Revolu](https://open.spotify.com/album/4fG7T74X5cICSV4tGPBmBp) | 2:51 |
 | 100 | [Triki Taka](https://open.spotify.com/track/0DLrV34kYAvm3S7w1Mko0i) | [BOLO THE DJ](https://open.spotify.com/artist/4qaAcBXIagTIWYkJRlxYZ7) | [Prendido](https://open.spotify.com/album/303SkBT6SDVxvQjOLntGz4) | 2:39 |
 
-Snapshot ID: `AAAAAIM36MDTyvv5aimPRDUvfMFnkBFd`
+Snapshot ID: `AAAAAKz9qutFqBis2RnKw8Syx3xumf/6`

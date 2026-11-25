@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0VSl3fhlAIa.md) - [plain]
 
 > Japanese R&B flowing with the graceful smoothness and radiant sheen of a silk kimono.
 
-[Spotify](https://open.spotify.com/user/spotify) - 11,725 likes - 50 songs - 3 hr 38 min
+[Spotify](https://open.spotify.com/user/spotify) - 11,750 likes - 50 songs - 3 hr 38 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -41,8 +41,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0VSl3fhlAIa.md) - [plain]
 | 31 | [Over The Moon \- feat\. Sagiri Sól](https://open.spotify.com/track/2WPC6nZTTdbDJ5J2KMkhRN) | [VivaOla](https://open.spotify.com/artist/5t8n1FYliYmJ4tqtITVbF9), [Sagiri Sól](https://open.spotify.com/artist/7lMbNnC8YEcy8zZDekmhcb) | [Juliet is the moon](https://open.spotify.com/album/4PeztBLuZAi4GvZqQXNM19) | 3:23 |
 | 32 | [HIT NUMBER \- EVISBEATSとPUNCH REMIX](https://open.spotify.com/track/3qAT9iw2AiiJ0CxTcqxQn1) | [Emi Okamoto](https://open.spotify.com/artist/20RZYpmOiZTCdkl4c5u4li), [EVISBEATS](https://open.spotify.com/artist/3dkhk6RTgOerN0NQEmt8Nc) | [ストライク！](https://open.spotify.com/album/5mJrUjgKk7jzSr9TohY7qx) | 3:28 |
 | 33 | [YOU NEVER SAY THAT](https://open.spotify.com/track/7zHvV0uRh49mI9qm3yywus) | [Arche](https://open.spotify.com/artist/3jDlhNVDWv8mLSdTekLgZI) | [YOU NEVER SAY THAT](https://open.spotify.com/album/5EjcsYJZgSh5OjOgKD6RNK) | 3:14 |
-| 34 | [Slow brew morning](https://open.spotify.com/track/3cTHSRJq34IYP3uadM3UGb) | [佐久間龍星](https://open.spotify.com/artist/5knUYLel4ycC38VJKvMCSm) | [Slow brew morning](https://open.spotify.com/album/6HfItavipVgNp1zCSbpBrv) | 2:42 |
-| 35 | [the Sound of Carnival](https://open.spotify.com/track/31d4AsUA23WddpidqaWsVh) | [Toshinobu Kubota](https://open.spotify.com/artist/45JvI0rkPkFFL14Cj0eput) | [As One](https://open.spotify.com/album/0g0RRKsclwRPg2rCjfbFIS) | 4:43 |
+| 34 | [the Sound of Carnival](https://open.spotify.com/track/31d4AsUA23WddpidqaWsVh) | [Toshinobu Kubota](https://open.spotify.com/artist/45JvI0rkPkFFL14Cj0eput) | [As One](https://open.spotify.com/album/0g0RRKsclwRPg2rCjfbFIS) | 4:43 |
+| 35 | [Slow brew morning](https://open.spotify.com/track/3cTHSRJq34IYP3uadM3UGb) | [佐久間龍星](https://open.spotify.com/artist/5knUYLel4ycC38VJKvMCSm) | [Slow brew morning](https://open.spotify.com/album/6HfItavipVgNp1zCSbpBrv) | 2:42 |
 | 36 | [緩りらら](https://open.spotify.com/track/6riSc8FTUeqwFvClmN6M73) | [笠原瑠斗](https://open.spotify.com/artist/7r93kNe7B9HyEXuLvbjXIr) | [緩りらら](https://open.spotify.com/album/1CJAwiWiBFKgxbkxNhHzLv) | 4:00 |
 | 37 | [Shake \- \(Original\)](https://open.spotify.com/track/2i2dlGChzEtkAOB5RSP8gd) | [Double](https://open.spotify.com/artist/17R4EPcqqyTa84kesDmNGq) | [Crystal](https://open.spotify.com/album/3QFHFLCxtePvkDaObgDCgc) | 5:31 |
 | 38 | [FAKE](https://open.spotify.com/track/3PUfI9Tprsqla2pk5moQqL) | [AI](https://open.spotify.com/artist/0aD7NQx7yauKlVDnqOxk6q), [Namie Amuro](https://open.spotify.com/artist/4BmWSGKG6HiYvLuJvZ9afa) | [FAKE feat． 安室奈美恵](https://open.spotify.com/album/7sy3It4biBMzVzmZdlgK9U) | 4:15 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0VSl3fhlAIa.md) - [plain]
 | 49 | [BED \(DOUBLES\)](https://open.spotify.com/track/5AhAbUiIlGP6Cp4Lq6rigR) | [Double](https://open.spotify.com/artist/17R4EPcqqyTa84kesDmNGq) | [Crystal](https://open.spotify.com/album/3QFHFLCxtePvkDaObgDCgc) | 5:21 |
 | 50 | [Love / Hate](https://open.spotify.com/track/2dr0U0kEHfZv19o0lESsPO) | [SUKISHA](https://open.spotify.com/artist/2Ea7qJOrKOD6OYkXNEUwrs), [荒谷翔大](https://open.spotify.com/artist/3H8pmg8yKsqyghjN9h1As2) | [Love / Hate](https://open.spotify.com/album/7IVEMKNDRehODrCp0owdds) | 4:36 |
 
-Snapshot ID: `AAAAAKUCe7ktlIe3Ogu7kj+0urJz5qNE`
+Snapshot ID: `AAAAAJsEhvlo7bb3ex/4QxfeDfeJaVbp`

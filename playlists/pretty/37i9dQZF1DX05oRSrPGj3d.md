@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX05oRSrPGj3d.md) - [plain]
 
 > Today's Texas country featuring trending tracks and classic hits from Lonestar State icons and rising stars\. Cover: Willie Nelson
 
-[Spotify](https://open.spotify.com/user/spotify) - 292,492 likes - 100 songs - 6 hr 21 min
+[Spotify](https://open.spotify.com/user/spotify) - 292,498 likes - 100 songs - 6 hr 21 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -38,8 +38,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX05oRSrPGj3d.md) - [plain]
 | 28 | [Dear Rodeo](https://open.spotify.com/track/5S8TnsIYMVrUg1bKxiGf6e) | [Cody Johnson](https://open.spotify.com/artist/6zLBxLdl60ekBLpawtT63I) | [Ain't Nothin' to It](https://open.spotify.com/album/62aYom0k3j1RBe4uPC64ob) | 4:14 |
 | 29 | [Diamonds & Gasoline](https://open.spotify.com/track/2nAHmQV9WKA6c1emQilxih) | [Turnpike Troubadours](https://open.spotify.com/artist/1YSA4byX5AL1zoTsSTlB03) | [Diamonds & Gasoline](https://open.spotify.com/album/5I249HRmXIxJw3IQDUOP5p) | 3:54 |
 | 30 | [If You Were Mine](https://open.spotify.com/track/1GL0nollq8IdnV4tfYtEZT) | [Miranda Lambert](https://open.spotify.com/artist/66lH4jAE7pqPlOlzUKbwA0), [Leon Bridges](https://open.spotify.com/artist/3qnGvpP8Yth1AqSBMqON5x) | [If You Were Mine](https://open.spotify.com/album/0FrbfHvjj5olr9w7dUeDrZ) | 3:39 |
-| 31 | [Wave on Wave](https://open.spotify.com/track/7rS87NoPWbAkVURdVFbGH9) | [Pat Green](https://open.spotify.com/artist/0EhgpjUqiIIQhM6ZRF4kXX) | [Wave On Wave](https://open.spotify.com/album/0HjdNkgyrUKC2ynRUNna7V) | 4:04 |
-| 32 | [West Texas in My Eye](https://open.spotify.com/track/7rr2MisgPp9gRn1ydcwpe7) | [The Panhandlers](https://open.spotify.com/artist/3PDBePAkhZWQPgR72nhbW8), [John Baumann](https://open.spotify.com/artist/5OCPKdyvsphdpbIVpVts3L), [William Clark Green](https://open.spotify.com/artist/0cshCXEe1I7wlRwdrL91ZQ), [Josh Abbott Band](https://open.spotify.com/artist/2EJ5MRZCzpHSSNNEpTx9Kb), [Flatland Cavalry](https://open.spotify.com/artist/4SfGzWmeoNPKIOmiyc7Pav) | [The Panhandlers](https://open.spotify.com/album/4ZTVXx7vjRCbLhIUteip4R) | 3:08 |
+| 31 | [West Texas in My Eye](https://open.spotify.com/track/7rr2MisgPp9gRn1ydcwpe7) | [The Panhandlers](https://open.spotify.com/artist/3PDBePAkhZWQPgR72nhbW8), [John Baumann](https://open.spotify.com/artist/5OCPKdyvsphdpbIVpVts3L), [William Clark Green](https://open.spotify.com/artist/0cshCXEe1I7wlRwdrL91ZQ), [Josh Abbott Band](https://open.spotify.com/artist/2EJ5MRZCzpHSSNNEpTx9Kb), [Flatland Cavalry](https://open.spotify.com/artist/4SfGzWmeoNPKIOmiyc7Pav) | [The Panhandlers](https://open.spotify.com/album/4ZTVXx7vjRCbLhIUteip4R) | 3:08 |
+| 32 | [Wave on Wave](https://open.spotify.com/track/7rS87NoPWbAkVURdVFbGH9) | [Pat Green](https://open.spotify.com/artist/0EhgpjUqiIIQhM6ZRF4kXX) | [Wave On Wave](https://open.spotify.com/album/0HjdNkgyrUKC2ynRUNna7V) | 4:04 |
 | 33 | [Cowboy Take Me Away](https://open.spotify.com/track/3rXCZRMiMZp0feGcYXpwYX) | [The Chicks](https://open.spotify.com/artist/25IG9fa7cbdmCIy3OnuH57) | [Fly](https://open.spotify.com/album/3y6G5El2I6QrJA9BdfAbqA) | 4:51 |
 | 34 | [7 & 7](https://open.spotify.com/track/62EcdBCqjB62CxnhgBkkJT) | [Turnpike Troubadours](https://open.spotify.com/artist/1YSA4byX5AL1zoTsSTlB03) | [Diamonds & Gasoline](https://open.spotify.com/album/5I249HRmXIxJw3IQDUOP5p) | 4:49 |
 | 35 | [Tequila Does](https://open.spotify.com/track/2fmHMSaIadDzLPT4Im3Mze) | [Miranda Lambert](https://open.spotify.com/artist/66lH4jAE7pqPlOlzUKbwA0) | [Wildcard](https://open.spotify.com/album/5Or2XM0Gjy6Y8qlaERqsSn) | 4:01 |
@@ -91,9 +91,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX05oRSrPGj3d.md) - [plain]
 | 81 | [Rest Of My Life](https://open.spotify.com/track/2fhgFd9pEvTUhyBacCrPOn) | [Parker McCollum](https://open.spotify.com/artist/0Z8XVUAOBPM4x12wKnFHEQ) | [Rest Of My Life](https://open.spotify.com/album/3fOdo5NTgvDRnGtw70Eekp) | 2:54 |
 | 82 | [Three Days](https://open.spotify.com/track/0vCfqTdVanc42UWTQmVU2S) | [Pat Green](https://open.spotify.com/artist/0EhgpjUqiIIQhM6ZRF4kXX) | [Three Days](https://open.spotify.com/album/2lGigUytoUfyQOWqA5DIC4) | 3:44 |
 | 83 | [The Love That We Need](https://open.spotify.com/track/31dEh1OeZGv61RZzDIixue) | [Hayes Carll](https://open.spotify.com/artist/6UWifcscEdbjPgmbevBxZV) | [Lovers and Leavers](https://open.spotify.com/album/7z5FvJZESvRTwHTJT2uKc4) | 4:08 |
-| 84 | [Don't Forget Where You Come From](https://open.spotify.com/track/15EJEiqpaFgDISecfkyxH1) | [Kyle Park](https://open.spotify.com/artist/5uZZpd0gd1c36OcQBGxgGC) | [Don't Forget Where You Come From](https://open.spotify.com/album/57L4MhqfDun3uimhVBXX0Z) | 3:02 |
+| 84 | [Love](https://open.spotify.com/track/0cif0x9Pl03qzN02YiwCzm) | [Roger Creager](https://open.spotify.com/artist/1DyywGnuzXGEzlZMXBcc0j) | [I Got the Guns](https://open.spotify.com/album/5EdH9V1WdL9hRKEqHKiD4N) | 3:50 |
 | 85 | [Marfa Lights](https://open.spotify.com/track/62TNzM2AkC9NiTu9nEcmMI) | [Kaitlin Butts](https://open.spotify.com/artist/6QmSTo72BYMATkQVOV1axD) | [Marfa Lights](https://open.spotify.com/album/24NOQ09OAx540cYX976EEo) | 3:42 |
-| 86 | [Love](https://open.spotify.com/track/0cif0x9Pl03qzN02YiwCzm) | [Roger Creager](https://open.spotify.com/artist/1DyywGnuzXGEzlZMXBcc0j) | [I Got the Guns](https://open.spotify.com/album/5EdH9V1WdL9hRKEqHKiD4N) | 3:50 |
+| 86 | [Don't Forget Where You Come From](https://open.spotify.com/track/15EJEiqpaFgDISecfkyxH1) | [Kyle Park](https://open.spotify.com/artist/5uZZpd0gd1c36OcQBGxgGC) | [Don't Forget Where You Come From](https://open.spotify.com/album/57L4MhqfDun3uimhVBXX0Z) | 3:02 |
 | 87 | [Delta Dawn](https://open.spotify.com/track/26O47HvtANzG1c2Uv6eW5H) | [Tanya Tucker](https://open.spotify.com/artist/7dmeVSH4lJqxXU7C87dKIB) | [16 Biggest Hits](https://open.spotify.com/album/3YD1UC4LwnmtJoJMxrWWKx) | 2:56 |
 | 88 | [New Strings](https://open.spotify.com/track/3aLD4sG82hq2c1xVpiIkK5) | [Miranda Lambert](https://open.spotify.com/artist/66lH4jAE7pqPlOlzUKbwA0) | [Kerosene](https://open.spotify.com/album/1NovG9mTUookEBrlHP6QC1) | 3:50 |
 | 89 | [Grow Old with Me](https://open.spotify.com/track/5Z871eY8ziD9AXw3EM9ymx) | [Sunny Sweeney](https://open.spotify.com/artist/3uBMhKEXqr2UtRlx7Jn9LL) | [Trophy](https://open.spotify.com/album/2Kz9ZpZpEZRvdBhdxcR45v) | 3:22 |
@@ -105,8 +105,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX05oRSrPGj3d.md) - [plain]
 | 95 | [Ballad Of Spider John](https://open.spotify.com/track/3FOkwx3AhHEuRBu1rUJCsd) | [Willis Alan Ramsey](https://open.spotify.com/artist/0e4Y5YLe1wySeraOkkUiAX) | [Willis Alan Ramsey](https://open.spotify.com/album/1isk3Q87nsxN1p47aBVyPL) | 4:18 |
 | 96 | [With You Gone](https://open.spotify.com/track/2obuXeXtTvUx2O3cppurXN) | [David Pugh](https://open.spotify.com/artist/78vWObWn1yGHBmZlZTXZog) | [With You Gone](https://open.spotify.com/album/4fPB3brCS9rOmoU54rIBK6) | 4:06 |
 | 97 | [There Goes My Heart Again](https://open.spotify.com/track/6U42tr2pL6gFjdX6iY57PH) | [Holly Dunn](https://open.spotify.com/artist/5RkW6o1M8sDx2FzeAEoNbH) | [Milestones\- Greatest Hits](https://open.spotify.com/album/1rMIWKHHf4rEp1li4Z8UZP) | 2:37 |
-| 98 | [Cowboy Man](https://open.spotify.com/track/5OnywzRyf7oWKZUdpvXtlQ) | [Lyle Lovett](https://open.spotify.com/artist/0zlJDQgqnr9AocrH9gs1Es) | [Lyle Lovett](https://open.spotify.com/album/7uMTmBlPNpXh85cX2w41XE) | 2:50 |
-| 99 | [When Love Comes Around](https://open.spotify.com/track/6YlFNWOL2Q1kFOsIvd3Otm) | [Wade Bowen](https://open.spotify.com/artist/3OftZbLfcqulxWNZMX8zLI) | [When Love Comes Around](https://open.spotify.com/album/1P2UKfT58J3L0wSdUs92jc) | 3:30 |
+| 98 | [When Love Comes Around](https://open.spotify.com/track/6YlFNWOL2Q1kFOsIvd3Otm) | [Wade Bowen](https://open.spotify.com/artist/3OftZbLfcqulxWNZMX8zLI) | [When Love Comes Around](https://open.spotify.com/album/1P2UKfT58J3L0wSdUs92jc) | 3:30 |
+| 99 | [Cowboy Man](https://open.spotify.com/track/5OnywzRyf7oWKZUdpvXtlQ) | [Lyle Lovett](https://open.spotify.com/artist/0zlJDQgqnr9AocrH9gs1Es) | [Lyle Lovett](https://open.spotify.com/album/7uMTmBlPNpXh85cX2w41XE) | 2:50 |
 | 100 | [Where the Neon Lies \(with Ronnie Dunn\)](https://open.spotify.com/track/7EiReSdSNMGYz2ki0RRiYP) | [Triston Marez](https://open.spotify.com/artist/34J7mIMU9nyg5px9m3ur88), [Ronnie Dunn](https://open.spotify.com/artist/1iLuTmIgxCEiEllDSWkeIy) | [Where the Neon Lies \(with Ronnie Dunn\)](https://open.spotify.com/album/2oZKygcTIrbhxKSKjRCGZy) | 4:02 |
 
-Snapshot ID: `AAAAAL/CFnR0ktCPyCxS2VsmeuUc5RuU`
+Snapshot ID: `AAAAAAghXUBIryxHJh4zxxjigY8Rc1TC`

@@ -1,12 +1,12 @@
 {
   "description": "This is Natanael Cano. The essential tracks, all in one playlist.",
-  "num_followers": 879427,
+  "num_followers": 879588,
   "original_name": "This Is Natanael Cano",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "awIwgAAAAACQdwc2U2H8y0GBLFrtkBfL",
+  "snapshot_id": "awOCAAAAAADQMU5XpEWsUGOmQxIBGx4W",
   "tracks": [
     {
       "added_at": null,
@@ -479,22 +479,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Natanael Cano, Vol.1",
-        "url": "https://open.spotify.com/album/5LfkNiWQJAV4dpUeBxxoMN"
-      },
-      "artists": [
-        {
-          "name": "Natanael Cano",
-          "url": "https://open.spotify.com/artist/0elWFr7TW8piilVRYJUe4P"
-        }
-      ],
-      "duration_ms": 175508,
-      "name": "Frente a Frente",
-      "url": "https://open.spotify.com/track/035b3zWZOwsBYyjevY0Iec"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "INC\u00d3MODO",
         "url": "https://open.spotify.com/album/27GWSFRITD8JJcSGMgEfTN"
       },
@@ -511,26 +495,6 @@
       "duration_ms": 164991,
       "name": "PRIMO",
       "url": "https://open.spotify.com/track/7AysIqSEDiwP4CUsAXJwrk"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Corazon Tumbado",
-        "url": "https://open.spotify.com/album/1szNQrO35SYGUVFbInudGc"
-      },
-      "artists": [
-        {
-          "name": "Natanael Cano",
-          "url": "https://open.spotify.com/artist/0elWFr7TW8piilVRYJUe4P"
-        },
-        {
-          "name": "Junior H",
-          "url": "https://open.spotify.com/artist/7Gi6gjaWy3DxyilpF1a8Is"
-        }
-      ],
-      "duration_ms": 116455,
-      "name": "Seca Tus Lagrimas",
-      "url": "https://open.spotify.com/track/54JxxJ2KW8nCeb6ZnroLA0"
     },
     {
       "added_at": null,
@@ -560,9 +524,29 @@
           "url": "https://open.spotify.com/artist/0elWFr7TW8piilVRYJUe4P"
         }
       ],
-      "duration_ms": 176230,
-      "name": "La Factura",
-      "url": "https://open.spotify.com/track/41sOOY5ifowka7cCtzLTvR"
+      "duration_ms": 175508,
+      "name": "Frente a Frente",
+      "url": "https://open.spotify.com/track/035b3zWZOwsBYyjevY0Iec"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Corazon Tumbado",
+        "url": "https://open.spotify.com/album/1szNQrO35SYGUVFbInudGc"
+      },
+      "artists": [
+        {
+          "name": "Natanael Cano",
+          "url": "https://open.spotify.com/artist/0elWFr7TW8piilVRYJUe4P"
+        },
+        {
+          "name": "Junior H",
+          "url": "https://open.spotify.com/artist/7Gi6gjaWy3DxyilpF1a8Is"
+        }
+      ],
+      "duration_ms": 116455,
+      "name": "Seca Tus Lagrimas",
+      "url": "https://open.spotify.com/track/54JxxJ2KW8nCeb6ZnroLA0"
     },
     {
       "added_at": null,
@@ -615,6 +599,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Natanael Cano, Vol.1",
+        "url": "https://open.spotify.com/album/5LfkNiWQJAV4dpUeBxxoMN"
+      },
+      "artists": [
+        {
+          "name": "Natanael Cano",
+          "url": "https://open.spotify.com/artist/0elWFr7TW8piilVRYJUe4P"
+        }
+      ],
+      "duration_ms": 176230,
+      "name": "La Factura",
+      "url": "https://open.spotify.com/track/41sOOY5ifowka7cCtzLTvR"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Retumban2",
         "url": "https://open.spotify.com/album/7e1b68gNd73TPKZgrq3tiy"
       },
@@ -639,26 +639,6 @@
       "duration_ms": 238120,
       "name": "Los 4 Ases (Corrido Tumbado)",
       "url": "https://open.spotify.com/track/2MLb1cIk2HkTyfLjh1NEcz"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "PRC",
-        "url": "https://open.spotify.com/album/2OXBosbXT7Qs3J6vBd6IkI"
-      },
-      "artists": [
-        {
-          "name": "Peso Pluma",
-          "url": "https://open.spotify.com/artist/12GqGscKJx3aE4t07u7eVZ"
-        },
-        {
-          "name": "Natanael Cano",
-          "url": "https://open.spotify.com/artist/0elWFr7TW8piilVRYJUe4P"
-        }
-      ],
-      "duration_ms": 184066,
-      "name": "PRC",
-      "url": "https://open.spotify.com/track/2mpoNBkngUEwnaKoBhZ0vl"
     },
     {
       "added_at": null,
@@ -691,6 +671,26 @@
       "duration_ms": 154760,
       "name": "Brillo",
       "url": "https://open.spotify.com/track/5gS11pL9yQcnKrzbmliOwh"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "PRC",
+        "url": "https://open.spotify.com/album/2OXBosbXT7Qs3J6vBd6IkI"
+      },
+      "artists": [
+        {
+          "name": "Peso Pluma",
+          "url": "https://open.spotify.com/artist/12GqGscKJx3aE4t07u7eVZ"
+        },
+        {
+          "name": "Natanael Cano",
+          "url": "https://open.spotify.com/artist/0elWFr7TW8piilVRYJUe4P"
+        }
+      ],
+      "duration_ms": 184066,
+      "name": "PRC",
+      "url": "https://open.spotify.com/track/2mpoNBkngUEwnaKoBhZ0vl"
     },
     {
       "added_at": null,

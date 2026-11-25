@@ -1,12 +1,12 @@
 {
   "description": "Bring the festival vibes to wherever you are with these dance bangers. ",
-  "num_followers": 90472,
+  "num_followers": 90477,
   "original_name": "The Dance Tent",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAALE5JciGdhAm/Bicx6KKP6FRKxIw",
+  "snapshot_id": "AAAAALye66bFqCJ1aRnlq8nNw39NuThr",
   "tracks": [
     {
       "added_at": "2026-10-02 10:12:09",
@@ -1111,26 +1111,6 @@
     {
       "added_at": "2026-10-02 10:12:09",
       "album": {
-        "name": "Wide Awake",
-        "url": "https://open.spotify.com/album/6BguZq2rejbft6NBT95dBe"
-      },
-      "artists": [
-        {
-          "name": "CHRIS STASSY",
-          "url": "https://open.spotify.com/artist/3BxjasMelf9pKaE4f7Y0So"
-        },
-        {
-          "name": "Tom Did It",
-          "url": "https://open.spotify.com/artist/3EoEOfPPbvev26JtNAXEdJ"
-        }
-      ],
-      "duration_ms": 256901,
-      "name": "Wide Awake",
-      "url": "https://open.spotify.com/track/0ScBO3EflBAKRC1WjOyJT1"
-    },
-    {
-      "added_at": "2026-10-02 10:12:09",
-      "album": {
         "name": "Galvanize (Chris Lake Remix)",
         "url": "https://open.spotify.com/album/4rxSgHTfUkvO4PCuIQUcMB"
       },
@@ -1151,6 +1131,50 @@
       "duration_ms": 223618,
       "name": "Galvanize - Chris Lake Remix",
       "url": "https://open.spotify.com/track/7Ki6lQlcAW565EsHfP8U7S"
+    },
+    {
+      "added_at": "2026-10-02 10:12:09",
+      "album": {
+        "name": "Wide Awake",
+        "url": "https://open.spotify.com/album/6BguZq2rejbft6NBT95dBe"
+      },
+      "artists": [
+        {
+          "name": "CHRIS STASSY",
+          "url": "https://open.spotify.com/artist/3BxjasMelf9pKaE4f7Y0So"
+        },
+        {
+          "name": "Tom Did It",
+          "url": "https://open.spotify.com/artist/3EoEOfPPbvev26JtNAXEdJ"
+        }
+      ],
+      "duration_ms": 256901,
+      "name": "Wide Awake",
+      "url": "https://open.spotify.com/track/0ScBO3EflBAKRC1WjOyJT1"
+    },
+    {
+      "added_at": "2026-10-02 10:12:09",
+      "album": {
+        "name": "London's On Fire",
+        "url": "https://open.spotify.com/album/3LqNJnokJGQgkYzskHNJGB"
+      },
+      "artists": [
+        {
+          "name": "Chris Lorenzo",
+          "url": "https://open.spotify.com/artist/7tm9Tuc70geXOOyKhtZHIj"
+        },
+        {
+          "name": "Max Styler",
+          "url": "https://open.spotify.com/artist/3NKKngINK1tP6BFy0WOyWk"
+        },
+        {
+          "name": "Audio Bullys",
+          "url": "https://open.spotify.com/artist/5kwHgbzNHq1iHkUSrAmjjQ"
+        }
+      ],
+      "duration_ms": 179076,
+      "name": "London's On Fire",
+      "url": "https://open.spotify.com/track/3kFGYfnYWraDZ8iAWx45QR"
     },
     {
       "added_at": "2026-10-02 10:12:09",
@@ -1179,30 +1203,6 @@
       "duration_ms": 181363,
       "name": "Good Life",
       "url": "https://open.spotify.com/track/5dtFOeNz6FEtZSPkm5f1Ed"
-    },
-    {
-      "added_at": "2026-10-02 10:12:09",
-      "album": {
-        "name": "London's On Fire",
-        "url": "https://open.spotify.com/album/3LqNJnokJGQgkYzskHNJGB"
-      },
-      "artists": [
-        {
-          "name": "Chris Lorenzo",
-          "url": "https://open.spotify.com/artist/7tm9Tuc70geXOOyKhtZHIj"
-        },
-        {
-          "name": "Max Styler",
-          "url": "https://open.spotify.com/artist/3NKKngINK1tP6BFy0WOyWk"
-        },
-        {
-          "name": "Audio Bullys",
-          "url": "https://open.spotify.com/artist/5kwHgbzNHq1iHkUSrAmjjQ"
-        }
-      ],
-      "duration_ms": 179076,
-      "name": "London's On Fire",
-      "url": "https://open.spotify.com/track/3kFGYfnYWraDZ8iAWx45QR"
     },
     {
       "added_at": "2026-10-02 10:12:09",
@@ -1519,6 +1519,22 @@
     {
       "added_at": "2026-10-02 10:12:09",
       "album": {
+        "name": "Suddenly",
+        "url": "https://open.spotify.com/album/34iY3hgyKCn1EJe6YVNFro"
+      },
+      "artists": [
+        {
+          "name": "Caribou",
+          "url": "https://open.spotify.com/artist/4aEnNH9PuU1HF3TsZTru54"
+        }
+      ],
+      "duration_ms": 305480,
+      "name": "Never Come Back",
+      "url": "https://open.spotify.com/track/0Ej6OBBtMvhjaJvtt1vtUt"
+    },
+    {
+      "added_at": "2026-10-02 10:12:09",
+      "album": {
         "name": "Mi Combi EP",
         "url": "https://open.spotify.com/album/4eQDew4OYl7gq9cDF3yIYd"
       },
@@ -1559,22 +1575,6 @@
       "duration_ms": 216796,
       "name": "Ecstasy (Over & Over)",
       "url": "https://open.spotify.com/track/2nHBfIdQ4ndFNaWilLdBUN"
-    },
-    {
-      "added_at": "2026-10-02 10:12:09",
-      "album": {
-        "name": "Suddenly",
-        "url": "https://open.spotify.com/album/34iY3hgyKCn1EJe6YVNFro"
-      },
-      "artists": [
-        {
-          "name": "Caribou",
-          "url": "https://open.spotify.com/artist/4aEnNH9PuU1HF3TsZTru54"
-        }
-      ],
-      "duration_ms": 305480,
-      "name": "Never Come Back",
-      "url": "https://open.spotify.com/track/0Ej6OBBtMvhjaJvtt1vtUt"
     },
     {
       "added_at": "2026-10-02 10:12:09",

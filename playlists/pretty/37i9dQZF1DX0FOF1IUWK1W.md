@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0FOF1IUWK1W.md) - [plain]
 
 > TOKIODK e os maiores hits do país\. O que tá bombando tá aqui.
 
-[Spotify](https://open.spotify.com/user/spotify) - 8,719,057 likes - 50 songs - 2 hr 55 min
+[Spotify](https://open.spotify.com/user/spotify) - 8,718,500 likes - 50 songs - 2 hr 55 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -19,7 +19,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0FOF1IUWK1W.md) - [plain]
 | 9 | [Telefone Sem Fio \- Ao Vivo](https://open.spotify.com/track/0mo4IFJlaejAEzwUmyOyTD) | [Mari Fernandez](https://open.spotify.com/artist/0BHm7qbh3ENxvXzkQAG7MP) | [Mari no Barzinho \(Ao Vivo em Fortaleza\)](https://open.spotify.com/album/6P4kv2DgtMn2d9YnxZYBrX) | 2:47 |
 | 10 | [Oi, Tudo Bem? \- Ao Vivo](https://open.spotify.com/track/1Otolzb8QH4OnBc0zlbjjF) | [Zé Neto & Cristiano](https://open.spotify.com/artist/487N2T9nIPEHrlTZLL3SQs) | [Vocês & Deus, Vol\. 1 \(Ao Vivo no Rio de Janeiro\)](https://open.spotify.com/album/1URfI21LdTBjIZoiVCV1rB) | 3:07 |
 | 11 | [Primavera](https://open.spotify.com/track/3qe1l1SXlr1Vamkt0h3G9b) | [Jorge & Mateus](https://open.spotify.com/artist/1elUiq4X7pxej6FRlrEzjM) | [Primavera](https://open.spotify.com/album/1rlJ0h1OLB2ebkeg00oUwe) | 4:00 |
-| 12 | [Ai Bebê](https://open.spotify.com/track/1tBccUSs900N2FRmoYXchz) | [Zé Felipe](https://open.spotify.com/artist/7cmuxPnXRJxwuYDHfbD8Eu), [Felipe Amorim](https://open.spotify.com/artist/3CIIaeZuFYrAD6PRVyuO4U) | [Ai Bebê](https://open.spotify.com/album/4tnhEIKhyCE2rsVXsjSp7i) | 2:13 |
+| 12 | [Ai Bebê](https://open.spotify.com/track/1tBccUSs900N2FRmoYXchz) | [Zé Felipe](https://open.spotify.com/artist/7cmuxPnXRJxwuYDHfbD8Eu), [Felipe Amorim](https://open.spotify.com/artist/3CIIaeZuFYrAD6PRVyuO4U), [ARIA VEGA](https://open.spotify.com/artist/6B3aCWGjO81DSSehnlqRxD) | [Ai Bebê](https://open.spotify.com/album/4tnhEIKhyCE2rsVXsjSp7i) | 2:13 |
 | 13 | [Ta Pedindo Toma](https://open.spotify.com/track/5GAAx9l33gDaECUMPcEP7y) | [MC Leozinho ZS](https://open.spotify.com/artist/6VyttZwyEMGBl90oGdKCB8), [MC Murilo MT](https://open.spotify.com/artist/0KelBuBLAY4mPbrEdNtzlP), [Mc DR](https://open.spotify.com/artist/02RhvXTIhg46MyWF8yN6GG), [DJ JHOW BEATS](https://open.spotify.com/artist/4CpxOMOqIfPQmEet9UnWhe), [MC RN do Capão](https://open.spotify.com/artist/0ktgQZv6VIj48TP9VupyFB), [Mc Pelourinho](https://open.spotify.com/artist/7xjBn5rLzBR2MsY3SN5odx) | [Na Contramão](https://open.spotify.com/album/0zMJoB9PzAqOu3ejesaxnM) | 4:36 |
 | 14 | [Mon Amour](https://open.spotify.com/track/69lnNVsVKJs3yrfv06UZtI) | [Baco Exu do Blues](https://open.spotify.com/artist/78nr1pVnDR7qZH6QbVMYZf), [Marina Sena](https://open.spotify.com/artist/0nFdWpwl7h6fp3ADRyG14L) | [Mon Amour](https://open.spotify.com/album/7CGVeBieYqzryYS7HIUwQB) | 4:29 |
 | 15 | [Puxa o Lança](https://open.spotify.com/track/5nzn9neUXxZhv0WPYMbBQw) | [MC Jvila](https://open.spotify.com/artist/2f8xoxornfSw6ePzgyM9NO), [KayBlack](https://open.spotify.com/artist/2h5Ha0ZiMFmOQD3iYcSXsy), [Veigh](https://open.spotify.com/artist/4YqwRbMLqGHRHLS1w2ZKse), [Vulgo FK](https://open.spotify.com/artist/27azwwkxutWL1BWMkgNIh0), [Honaiser](https://open.spotify.com/artist/0PNcEYeVDBqbywI00Y3ANT), [Nagalli](https://open.spotify.com/artist/6TPJK8tv3AKKSsw0lENTQk), [Stick](https://open.spotify.com/artist/06DkLIR1RQFV7kEom04Frt), [Toledo](https://open.spotify.com/artist/7I4OIWw3Zm4lUmt2QHnz30) | [Já Virei Lenda Aqui](https://open.spotify.com/album/1zBrs91xffe9UfAyMICwt2) | 4:51 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0FOF1IUWK1W.md) - [plain]
 | 49 | [Mente Barulhenta](https://open.spotify.com/track/2364CtKIeJNVUnZZHKrzIr) | [Mc IG](https://open.spotify.com/artist/2q9wk5fkeU2C9CgCKdh4AN), [Mc Lele JP](https://open.spotify.com/artist/1mV9h1AwhRXSjBFcYpajgY), [DJ Oreia](https://open.spotify.com/artist/1b8S7EPzdckRyIh0uSbOMI), [DJ Noiskita](https://open.spotify.com/artist/3TYTLGZJkc58xamupVrfFl) | [Quem Tá Vivo, Tá Vivendo](https://open.spotify.com/album/5bfMYcaucm6RfNqZZTFjo9) | 3:35 |
 | 50 | [Ignora \- Ao Vivo](https://open.spotify.com/track/0dI5yI0wplyuwBMEGKXeJC) | [Felipe e Rodrigo](https://open.spotify.com/artist/7gZu6kPnY9enEi5FvgTO4F) | [Velhos Hábitos Vol\. 1 \(Ao Vivo\)](https://open.spotify.com/album/5yHzNUDYfdl02KiOqld5mm) | 2:59 |
 
-Snapshot ID: `AAAAAC7z+5sv8MeFBDRh4guCLw3ipsF2`
+Snapshot ID: `AAAAAPXSf9w5Hvx6HNebrf9XO+pO6x84`

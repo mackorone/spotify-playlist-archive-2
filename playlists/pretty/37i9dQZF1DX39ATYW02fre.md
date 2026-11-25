@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX39ATYW02fre.md) - [plain]
 
 > Beautiful electronic music for melancholy moments.
 
-[Spotify](https://open.spotify.com/user/spotify) - 278,509 likes - 50 songs - 3 hr 5 min
+[Spotify](https://open.spotify.com/user/spotify) - 278,533 likes - 50 songs - 3 hr 5 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -20,10 +20,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX39ATYW02fre.md) - [plain]
 | 10 | [1991](https://open.spotify.com/track/0xJA9Yc2qB9I5Rhs6UNK7Q) | [Catching Flies](https://open.spotify.com/artist/4zAOqBfNLyWFvj1e3yvypJ) | [1991](https://open.spotify.com/album/5rBFtrFPKWL2s7aSRNpUfn) | 2:48 |
 | 11 | [Talk to me.](https://open.spotify.com/track/2CjCINQC9GwKJnkmxZM8X9) | [Bolden.](https://open.spotify.com/artist/4CxK8Xr9IqYUzhTLhdSfp5) | [Talk to me.](https://open.spotify.com/album/3pOyuefXEHtWqCw3BsW5Wb) | 1:43 |
 | 12 | [Road](https://open.spotify.com/track/6kckNpuM5oXZrObLExRg6d) | [Lane 8](https://open.spotify.com/artist/27gtK7m9vYwCyJ04zz0kIb), [Arctic Lake](https://open.spotify.com/artist/0IEPb9ily3E5IAYMSkwtQ6) | [Brightest Lights](https://open.spotify.com/album/6EdbqQvOCialJuOjEEUlsL) | 3:58 |
-| 13 | [Howling \- Âme Remix](https://open.spotify.com/track/78jIj6Ph2364zg1ZVIvbIN) | [Howling](https://open.spotify.com/artist/3WTWOrIS77vY3hkCFqTyIw), [RY X](https://open.spotify.com/artist/2KjAo6wVc9d2WcxdxSArpV), [Frank Wiedemann](https://open.spotify.com/artist/1gbnoyNZEf6K9HytIv1D94), [Âme](https://open.spotify.com/artist/5muFO8VqYRCRW13EkvX564) | [Howling \(Âme Remix\)](https://open.spotify.com/album/3qHg26OrsZMxmd2Y8X6WW5) | 8:05 |
+| 13 | [Not Giving You Up](https://open.spotify.com/track/5s7KszYX1mfvpKA7XCMvfw) | [Rules](https://open.spotify.com/artist/3CYrfsHEf7AZRlKUvzTnpA) | [Not Giving You Up](https://open.spotify.com/album/5V3TvHdleNDEhSIC4g7IFM) | 2:52 |
 | 14 | [Me \(heavy\)](https://open.spotify.com/track/3MhbnxA1JnksiATu9xyB2c) | [Fred again..](https://open.spotify.com/artist/4oLeXFyACqeem2VImYeBFe) | [Actual Life \(April 14 \- December 17 2020\)](https://open.spotify.com/album/6o86bV7TAt5x4exc2qLDqC) | 3:03 |
 | 15 | [Eyes Turn Blue](https://open.spotify.com/track/304qtBTwDOwkiwGIcsl15T) | [Wayward](https://open.spotify.com/artist/6QzNZv95Ql8TJ7PsHvOvZS) | [Eyes Turn Blue](https://open.spotify.com/album/56eDVWsy2AeahPXVZbRtDC) | 3:34 |
-| 16 | [Not Giving You Up](https://open.spotify.com/track/5s7KszYX1mfvpKA7XCMvfw) | [Rules](https://open.spotify.com/artist/3CYrfsHEf7AZRlKUvzTnpA) | [Not Giving You Up](https://open.spotify.com/album/5V3TvHdleNDEhSIC4g7IFM) | 2:52 |
+| 16 | [Howling \- Âme Remix](https://open.spotify.com/track/78jIj6Ph2364zg1ZVIvbIN) | [Howling](https://open.spotify.com/artist/3WTWOrIS77vY3hkCFqTyIw), [RY X](https://open.spotify.com/artist/2KjAo6wVc9d2WcxdxSArpV), [Frank Wiedemann](https://open.spotify.com/artist/1gbnoyNZEf6K9HytIv1D94), [Âme](https://open.spotify.com/artist/5muFO8VqYRCRW13EkvX564) | [Howling \(Âme Remix\)](https://open.spotify.com/album/3qHg26OrsZMxmd2Y8X6WW5) | 8:05 |
 | 17 | [Looped](https://open.spotify.com/track/2bB6iDVgm25WkYv0yBz1BD) | [Kiasmos](https://open.spotify.com/artist/6X8lhZ7YaRUBlOsOYimlyD) | [Kiasmos](https://open.spotify.com/album/7pBDu7nc2KaMsh0SfZMc2d) | 6:00 |
 | 18 | [Come Back](https://open.spotify.com/track/6KgPnvY7NrvwUi406Al6Ep) | [Satin Jackets](https://open.spotify.com/artist/5Gn7NoCZvbVlGgtZMILRcv), [Flashbaxx](https://open.spotify.com/artist/0C4OfYbJVV7T6osLXsCb23) | [Come Back](https://open.spotify.com/album/5DbjNsmFVnR8OE67MLnisG) | 3:58 |
 | 19 | [Faisal \(envelops me\)](https://open.spotify.com/track/1uyQNwG1sFl7etjFTEHlQp) | [Fred again..](https://open.spotify.com/artist/4oLeXFyACqeem2VImYeBFe) | [Actual Life 2 \(February 2 \- October 15 2021\)](https://open.spotify.com/album/0SFtIrRytNI4kcf93Tbhdf) | 4:10 |
@@ -52,11 +52,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX39ATYW02fre.md) - [plain]
 | 42 | [Yesterday](https://open.spotify.com/track/2dMVIVXxaO9v2ImiSrWO0C) | [breathe.](https://open.spotify.com/artist/6XrEYPg6rrQMV4GKabTxbE) | [Yesterday](https://open.spotify.com/album/1Ay7BiWxgugN1YXqomG7w1) | 3:24 |
 | 43 | [With You](https://open.spotify.com/track/1G5APoTLndLof2DsggGPzz) | [Alex Baker](https://open.spotify.com/artist/0U6Adu2ODsqB9urN7BslVo), [Hanging Valleys](https://open.spotify.com/artist/6KGv0PaZVxmtUozMBfsOaO) | [With You](https://open.spotify.com/album/2ALEn1ILPaPj885QMF9C4O) | 3:42 |
 | 44 | [Ride At Dawn](https://open.spotify.com/track/55Q7oDS8Y4e6dYyqZKax7d) | [Above & Beyond](https://open.spotify.com/artist/10gzBoINW3cLJfZUka8Zoe), [Zoë Johnston](https://open.spotify.com/artist/3dWyWwLvZWsWtXZHhmAiFL) | [Ride At Dawn](https://open.spotify.com/album/7DiasgKMXc817JWAUi1org) | 2:53 |
-| 45 | [October](https://open.spotify.com/track/6FIQ8o2hqlDmHQFoBKmKgW) | [Icarus](https://open.spotify.com/artist/0nUF7iT0e6D5xEl743Jfu3) | [October](https://open.spotify.com/album/5PdBG1Q3tLZlSLoxB1LtK8) | 5:54 |
-| 46 | [If They Only Knew?](https://open.spotify.com/track/6FVnK1051a9f4ihuekcgMF) | [Archie Holmes](https://open.spotify.com/artist/1FAe23gB6feByMu2oQUI4J) | [If They Only Knew?](https://open.spotify.com/album/160OvH6SGn0IFRUkZBq15R) | 3:05 |
+| 45 | [If They Only Knew?](https://open.spotify.com/track/6FVnK1051a9f4ihuekcgMF) | [Archie Holmes](https://open.spotify.com/artist/1FAe23gB6feByMu2oQUI4J) | [If They Only Knew?](https://open.spotify.com/album/160OvH6SGn0IFRUkZBq15R) | 3:05 |
+| 46 | [October](https://open.spotify.com/track/6FIQ8o2hqlDmHQFoBKmKgW) | [Icarus](https://open.spotify.com/artist/0nUF7iT0e6D5xEl743Jfu3) | [October](https://open.spotify.com/album/5PdBG1Q3tLZlSLoxB1LtK8) | 5:54 |
 | 47 | [Return to Ojai](https://open.spotify.com/track/3g70GmoZQlHPOTIkPUxLd9) | [Catching Flies](https://open.spotify.com/artist/4zAOqBfNLyWFvj1e3yvypJ), [TEED](https://open.spotify.com/artist/0g3NiCRhEv7M4SEDMrpItN) | [Return to Ojai](https://open.spotify.com/album/5HiSFg20JTQ5KTcD5Xsini) | 4:19 |
 | 48 | [Lydia \(please make it better\)](https://open.spotify.com/track/04yl0gqAhDRZe3MLAncaiD) | [Fred again..](https://open.spotify.com/artist/4oLeXFyACqeem2VImYeBFe) | [Actual Life \(April 14 \- December 17 2020\)](https://open.spotify.com/album/6o86bV7TAt5x4exc2qLDqC) | 3:07 |
 | 49 | [The Sun](https://open.spotify.com/track/5NQMv0smXYCkzRAY1IbzIN) | [Nohr](https://open.spotify.com/artist/5ksOqe4QEaUjadayPHNX82) | [The Sun](https://open.spotify.com/album/78XbGK7E58bZuKdG30UlYQ) | 2:27 |
 | 50 | [If You Love Her](https://open.spotify.com/track/1MaDw1BQ797k8j7xXnH486) | [Tokyo Tea Room](https://open.spotify.com/artist/3lzTKwFsOqxtp5cLJ2qbSD) | [If You Love Her](https://open.spotify.com/album/7rMnIouqweD8JlFSw3LyIm) | 2:44 |
 
-Snapshot ID: `AAAAAKwZDHZEZubYWh9Dwuak2/h5v7p4`
+Snapshot ID: `AAAAAKgfkTHnTWpKiYcWHRstFbimwIXy`

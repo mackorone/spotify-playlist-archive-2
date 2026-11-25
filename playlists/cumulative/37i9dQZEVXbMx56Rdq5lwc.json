@@ -1402,7 +1402,7 @@
       ],
       "date_added": "2026-09-05",
       "date_added_asterisk": false,
-      "date_removed": "2026-11-24",
+      "date_removed": null,
       "duration_ms": 184927,
       "name": "Ain't In LA",
       "url": "https://open.spotify.com/track/6U9VpmP3dEinuezxCJ2Zg9"
@@ -8666,7 +8666,7 @@
       ],
       "date_added": "2026-11-17",
       "date_added_asterisk": false,
-      "date_removed": "2026-11-21",
+      "date_removed": null,
       "duration_ms": 434733,
       "name": "Cowboys and Angels - Remastered",
       "url": "https://open.spotify.com/track/1TDzHrMyt99Ey8IB72i7u9"
@@ -10516,7 +10516,7 @@
       ],
       "date_added": "2026-11-18",
       "date_added_asterisk": false,
-      "date_removed": "2026-11-20",
+      "date_removed": null,
       "duration_ms": 284400,
       "name": "Disparate Youth",
       "url": "https://open.spotify.com/track/7d23MhPFE9eB3U8DPRirnL"
@@ -20490,7 +20490,7 @@
       ],
       "date_added": "2022-12-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-25",
       "duration_ms": 207199,
       "name": "It's Beginning to Look a Lot like Christmas",
       "url": "https://open.spotify.com/track/1rv46mRwDqMEhOBZ7vODg3"
@@ -24350,7 +24350,7 @@
       ],
       "date_added": "2021-11-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-25",
       "duration_ms": 117146,
       "name": "Let It Snow! Let It Snow! Let It Snow!",
       "url": "https://open.spotify.com/track/2uFaJJtFpPDc5Pa95XzTvg"
@@ -37926,7 +37926,7 @@
       ],
       "date_added": "2021-11-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-25",
       "duration_ms": 126266,
       "name": "Rockin' Around The Christmas Tree",
       "url": "https://open.spotify.com/track/2EjXfH91m7f8HiJN1yQg97"
@@ -38970,7 +38970,7 @@
       ],
       "date_added": "2021-11-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-25",
       "duration_ms": 204093,
       "name": "Santa Tell Me",
       "url": "https://open.spotify.com/track/0lizgQ7Qw35od7CYaoMBZb"
@@ -43324,7 +43324,7 @@
       ],
       "date_added": "2021-03-27",
       "date_added_asterisk": true,
-      "date_removed": "2026-11-24",
+      "date_removed": null,
       "duration_ms": 240400,
       "name": "Sweater Weather",
       "url": "https://open.spotify.com/track/2QjOHCTQ1Jl3zawyYOpxh6"
@@ -43342,7 +43342,7 @@
       ],
       "date_added": "2024-09-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-25",
       "duration_ms": 240426,
       "name": "Sweater Weather",
       "url": "https://open.spotify.com/track/0cQVqPuHQP4KEwc7ZUQmj6"
@@ -47608,7 +47608,7 @@
       ],
       "date_added": "2026-11-16",
       "date_added_asterisk": false,
-      "date_removed": "2026-11-23",
+      "date_removed": null,
       "duration_ms": 238080,
       "name": "Tyliai Sald\u017eiai",
       "url": "https://open.spotify.com/track/0xWhpsU9lAnG42qi9oqArb"
@@ -47820,7 +47820,7 @@
       ],
       "date_added": "2021-12-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-25",
       "duration_ms": 229638,
       "name": "Underneath the Tree",
       "url": "https://open.spotify.com/track/3nAp4IvdMPPWEH9uuXFFV5"
@@ -52802,6 +52802,28 @@
       "duration_ms": 223190,
       "name": "\u041c\u043e\u0439 \u043c\u0430\u0440\u043c\u0435\u043b\u0430\u0434\u043d\u044b\u0439 (\u042f \u043d\u0435 \u043f\u0440\u0430\u0432\u0430)",
       "url": "https://open.spotify.com/track/1Hg0KhBCuME4PgsTYMBK9y"
+    },
+    {
+      "album": {
+        "name": "AMEN",
+        "url": "https://open.spotify.com/album/5EHYgkvWi5bg8X78YMKtZj"
+      },
+      "artists": [
+        {
+          "name": "Icegergert",
+          "url": "https://open.spotify.com/artist/4z3TiM4dsnvWDRcnqf3l0r"
+        },
+        {
+          "name": "A-THIS 52",
+          "url": "https://open.spotify.com/artist/0UHqSfz7HUzhSAi1aq1euQ"
+        }
+      ],
+      "date_added": "2026-11-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 164571,
+      "name": "\u041d\u0435 \u0432\u0438\u043d\u043e\u0432\u0435\u043d",
+      "url": "https://open.spotify.com/track/2WeDu0QB8FlNel61v1VnoG"
     },
     {
       "album": {

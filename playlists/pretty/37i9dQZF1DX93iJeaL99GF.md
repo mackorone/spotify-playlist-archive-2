@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX93iJeaL99GF.md) - [plain]
 
 > Prominent Indian independent music creators\. Cover \- Lucky Ali
 
-[Spotify](https://open.spotify.com/user/spotify) - 92,895 likes - 37 songs - 3 hr 8 min
+[Spotify](https://open.spotify.com/user/spotify) - 92,911 likes - 37 songs - 3 hr 8 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -46,4 +46,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX93iJeaL99GF.md) - [plain]
 | 36 | [MoFunk](https://open.spotify.com/track/3UwvtlbJbexgUmBtxVLJCp) | [Advaita](https://open.spotify.com/artist/4FMduZvsMYM69TKN3i0YRp) | [The Silent Sea](https://open.spotify.com/album/3EnuabTWwljjKXRfjyePy3) | 6:06 |
 | 37 | [Fish Rock](https://open.spotify.com/track/5N1ede3QcEvtJNtM1een6B) | [Thaikkudam Bridge](https://open.spotify.com/artist/0kf7l9HNKxJcq6cgSjSWGI) | [Fish Rock](https://open.spotify.com/album/68lzkVQY5ajzptkUi2jMOv) | 4:19 |
 
-Snapshot ID: `AAAAAHARmEyh2QxCwjUyIVhHDFt6i0aJ`
+Snapshot ID: `AAAAALxZKv5YF1dauypfIGq0iR2XM9TU`

@@ -4,16 +4,16 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYP5PUsVbso9.md) - [plain]
 
 > The decade of the Outlaws of Country Music \- where traditional and crossover country collided\. Cover: Charley Pride
 
-[Spotify](https://open.spotify.com/user/spotify) - 320,697 likes - 100 songs - 5 hr 8 min
+[Spotify](https://open.spotify.com/user/spotify) - 320,710 likes - 100 songs - 5 hr 8 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [Kiss an Angel Good Mornin'](https://open.spotify.com/track/0alXPC11fIucBFD6qcCE94) | [Charley Pride](https://open.spotify.com/artist/69Fk1s1lzINOKqoSWjjEiE) | [The Essential Charley Pride](https://open.spotify.com/album/4ALGvSzcQF4SD9WXLyDI75) | 2:03 |
 | 2 | [Jolene](https://open.spotify.com/track/2SpEHTbUuebeLkgs9QB7Ue) | [Dolly Parton](https://open.spotify.com/artist/32vWCbZh0xZ4o9gkz4PsEU) | [Jolene](https://open.spotify.com/album/5DyOxuvdSmTSNAmkfcsBsj) | 2:43 |
-| 3 | [Sundown](https://open.spotify.com/track/0SjnBEHZVXgCKvOrpvzL2k) | [Gordon Lightfoot](https://open.spotify.com/artist/23rleGXVOVVgTk3xgtmfE4) | [Sundown](https://open.spotify.com/album/2IPD9EcNjUmsHvqULDMU9Y) | 3:33 |
+| 3 | [Let Your Love Flow](https://open.spotify.com/track/064SVQsmWl5EF0zahmzkQk) | [The Bellamy Brothers](https://open.spotify.com/artist/5iB5AWIa7qreioi0AF3Bxa) | [Bellamy Brothers](https://open.spotify.com/album/77EM0wkGevYQcBo1AJt7B0) | 3:16 |
 | 4 | [Delta Dawn](https://open.spotify.com/track/62qNdSlhFznQD0gHpCGrtw) | [Tanya Tucker](https://open.spotify.com/artist/7dmeVSH4lJqxXU7C87dKIB) | [Delta Dawn](https://open.spotify.com/album/3iyNh3uhudXLW5tNLapDZS) | 2:58 |
 | 5 | [Rhinestone Cowboy](https://open.spotify.com/track/0VwTeYNjcl30DyQlt3GPe0) | [Glen Campbell](https://open.spotify.com/artist/59hLmB5DrdihCYtNeFeW1U) | [Rhinestone Cowboy \(Expanded Edition\)](https://open.spotify.com/album/7rPkdQjs9TuObO1qAAovky) | 3:14 |
-| 6 | [Let Your Love Flow](https://open.spotify.com/track/064SVQsmWl5EF0zahmzkQk) | [The Bellamy Brothers](https://open.spotify.com/artist/5iB5AWIa7qreioi0AF3Bxa) | [Bellamy Brothers](https://open.spotify.com/album/77EM0wkGevYQcBo1AJt7B0) | 3:16 |
+| 6 | [Sundown](https://open.spotify.com/track/0SjnBEHZVXgCKvOrpvzL2k) | [Gordon Lightfoot](https://open.spotify.com/artist/23rleGXVOVVgTk3xgtmfE4) | [Sundown](https://open.spotify.com/album/2IPD9EcNjUmsHvqULDMU9Y) | 3:33 |
 | 7 | [Psycho](https://open.spotify.com/track/6D8zVrXxtOfJ6JZXV1WYRh) | [Jack Kittel](https://open.spotify.com/artist/5cXJERCnv50nZBXCk8Zq9X) | [Psycho](https://open.spotify.com/album/61aNBBIj2eIN1HINjED86a) | 3:43 |
 | 8 | [Sleeping Single In A Double Bed \- Single Version](https://open.spotify.com/track/2Ln5JJOBoVDIoA8MJ2vG0C) | [Barbara Mandrell](https://open.spotify.com/artist/67BqBdApdbZ0onglFqRoTg) | [Ultimate Collection: Barbara Mandrell](https://open.spotify.com/album/42G4gGwqZzt4t9dlJTzDcX) | 2:18 |
 | 9 | [The Gambler](https://open.spotify.com/track/5KqldkCunQ2rWxruMEtGh0) | [Kenny Rogers](https://open.spotify.com/artist/4tw2Lmn9tTPUv7Gy7mVPI4) | [The Gambler](https://open.spotify.com/album/3XdvQjIMjdwxRivZrg1ziJ) | 3:34 |
@@ -90,15 +90,15 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYP5PUsVbso9.md) - [plain]
 | 80 | [I'll Get Over You \- Remastered](https://open.spotify.com/track/0jtLwaA1Y2Da0xrNSJEgs0) | [Crystal Gayle](https://open.spotify.com/artist/6OheJTrDFGiyZ67F1BBLhc) | [Certified Hits](https://open.spotify.com/album/0SqgAUdIDTesLUoLn3sTn2) | 3:31 |
 | 81 | [Before the Next Teardrop Falls](https://open.spotify.com/track/3awuorsQsio2PUOvzq3hpd) | [Freddy Fender](https://open.spotify.com/artist/0SNdq9iJyup4XY6JbNHbt6) | [The Freddy Fender Collection](https://open.spotify.com/album/7nXadSb5djsc7Lfdv4IPLp) | 2:38 |
 | 82 | [Sweet Dreams](https://open.spotify.com/track/0x1voumEkvPYIm3xKHDXnZ) | [Reba McEntire](https://open.spotify.com/artist/02rd0anEWfMtF7iMku9uor) | [Out Of A Dream](https://open.spotify.com/album/4lwwXOsQZyqwnZSEh9xCtP) | 3:03 |
-| 83 | [Till the End](https://open.spotify.com/track/7pwA0yTkSFYDiiplqmy8KE) | [Vern Gosdin](https://open.spotify.com/artist/4kNRotUiNCcfZhnpJJTDtl) | [Till The End](https://open.spotify.com/album/1D1ddPbzhq1L4w5AJler8F) | 2:46 |
+| 83 | [When You're Hot, You're Hot](https://open.spotify.com/track/6sykijVtS1m8vxLnkKXrJ5) | [Jerry Reed](https://open.spotify.com/artist/3kvy8do7n0qVqvlNFS4yOF) | [The Essential Jerry Reed](https://open.spotify.com/album/0NoIqI4xsXGOpd4vvBjo7O) | 2:19 |
 | 84 | [Out Of My Head And Back In My Bed](https://open.spotify.com/track/2cLb9n7u5iJTXNOrrJI1F1) | [Loretta Lynn](https://open.spotify.com/artist/1FE0rls8gfQT3laAeRYNgl) | [The Definitive Collection](https://open.spotify.com/album/7hdLJRd4vHkHbMzaGgQsJ2) | 2:40 |
-| 85 | [Don't Let Me Cross Over](https://open.spotify.com/track/6d0peKL7ZyWiRipp0bq8Ls) | [Jim Reeves](https://open.spotify.com/artist/2Ev0e8GUIX4u7d9etNLTXg) | [Good 'N' Country](https://open.spotify.com/album/2OT5kYQuoqLb4ZPsDHZzMu) | 2:19 |
-| 86 | [When You're Hot, You're Hot](https://open.spotify.com/track/6sykijVtS1m8vxLnkKXrJ5) | [Jerry Reed](https://open.spotify.com/artist/3kvy8do7n0qVqvlNFS4yOF) | [The Essential Jerry Reed](https://open.spotify.com/album/0NoIqI4xsXGOpd4vvBjo7O) | 2:19 |
+| 85 | [Till the End](https://open.spotify.com/track/7pwA0yTkSFYDiiplqmy8KE) | [Vern Gosdin](https://open.spotify.com/artist/4kNRotUiNCcfZhnpJJTDtl) | [Till The End](https://open.spotify.com/album/1D1ddPbzhq1L4w5AJler8F) | 2:46 |
+| 86 | [Don't Let Me Cross Over](https://open.spotify.com/track/6d0peKL7ZyWiRipp0bq8Ls) | [Jim Reeves](https://open.spotify.com/artist/2Ev0e8GUIX4u7d9etNLTXg) | [Good 'N' Country](https://open.spotify.com/album/2OT5kYQuoqLb4ZPsDHZzMu) | 2:19 |
 | 87 | [Tennessee Waltz](https://open.spotify.com/track/7A3TAN0Epolvort9IcqKvq) | [Anne Murray](https://open.spotify.com/artist/7d7q5Y1p2QWS4QRAhTQR5E) | [Let's Keep It That Way](https://open.spotify.com/album/5cLFy5cKLjOetxzo5micoR) | 2:49 |
 | 88 | [Some Broken Hearts Never Mend \- Single Version](https://open.spotify.com/track/6OREPdoHWU3IehSiZA6rcw) | [Don Williams](https://open.spotify.com/artist/4Ti0EKl2PVEms2NRMVGqNe) | [20 Greatest Hits](https://open.spotify.com/album/1EoBcNqFMobg6Wrzskv6G9) | 2:48 |
 | 89 | [Take This Job and Shove It](https://open.spotify.com/track/6yT7kcpsXNW7QS9xunPaox) | [Johnny Paycheck](https://open.spotify.com/artist/0DchahWJGQqrqr8PMM5zQD) | [Johnny Paycheck \- 16 Biggest Hits](https://open.spotify.com/album/7EcDMC33XvuCEWwLTwc8N5) | 2:36 |
-| 90 | [For the Good Times](https://open.spotify.com/track/4cIGNFaKpoVuJfVvixS0mU) | [Ray Price](https://open.spotify.com/artist/5sAg1HZePcFfhrs0G8A8OP) | [The Essential Ray Price](https://open.spotify.com/album/5ficfpIRTeXi6BRePNGQCQ) | 3:47 |
-| 91 | [East Bound and Down](https://open.spotify.com/track/7rLaJmjANgWaHEys3p6SDu) | [Jerry Reed](https://open.spotify.com/artist/3kvy8do7n0qVqvlNFS4yOF) | [The Essential Jerry Reed](https://open.spotify.com/album/1SpsDklXoa1vV9OzBsSXe0) | 2:49 |
+| 90 | [East Bound and Down](https://open.spotify.com/track/7rLaJmjANgWaHEys3p6SDu) | [Jerry Reed](https://open.spotify.com/artist/3kvy8do7n0qVqvlNFS4yOF) | [The Essential Jerry Reed](https://open.spotify.com/album/1SpsDklXoa1vV9OzBsSXe0) | 2:49 |
+| 91 | [For the Good Times](https://open.spotify.com/track/4cIGNFaKpoVuJfVvixS0mU) | [Ray Price](https://open.spotify.com/artist/5sAg1HZePcFfhrs0G8A8OP) | [The Essential Ray Price](https://open.spotify.com/album/5ficfpIRTeXi6BRePNGQCQ) | 3:47 |
 | 92 | [Why Have You Left The One You Left Me For](https://open.spotify.com/track/4u2Fcnbsf2KtH7gE86vxM0) | [Crystal Gayle](https://open.spotify.com/artist/6OheJTrDFGiyZ67F1BBLhc) | [When I Dream](https://open.spotify.com/album/6yjOONx5zNbysHWi6a9sah) | 2:56 |
 | 93 | [Her Name Is...](https://open.spotify.com/track/6v3ozeTaUGr5Wwmya1Xhg0) | [George Jones](https://open.spotify.com/artist/2OpqcUtj10HHvGG6h9VYC5) | [Anniversary \(Ten Years Of Hits\)](https://open.spotify.com/album/03CmBZWedcwyCLKmypX5Lb) | 2:18 |
 | 94 | [Mother Country Music](https://open.spotify.com/track/06z1kxyyax5xkyJVWK0U3K) | [Vern Gosdin](https://open.spotify.com/artist/4kNRotUiNCcfZhnpJJTDtl) | [Till The End](https://open.spotify.com/album/1D1ddPbzhq1L4w5AJler8F) | 2:53 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYP5PUsVbso9.md) - [plain]
 | 99 | [Y'all Come Back Saloon](https://open.spotify.com/track/5O8eCRZGcjLfztSye87CMw) | [The Oak Ridge Boys](https://open.spotify.com/artist/3XnO697XIus1M0cMuxZjos) | [Oak Ridge Boys Greatest Hits](https://open.spotify.com/album/3LeMf9unDBiy665fDBJWcN) | 2:54 |
 | 100 | [Rub It In](https://open.spotify.com/track/6q014fQ3SqLy180KPuCTG1) | [Billy 'Crash' Craddock](https://open.spotify.com/artist/4Se104PDIxemxBgtWynyIq) | [The Best Of Billy "Crash" Craddock](https://open.spotify.com/album/6GLL2DGK5Dw8P99pbUGkii) | 2:26 |
 
-Snapshot ID: `AAAAAO9wiziwaSLv18ThjGB8T3wr1iNS`
+Snapshot ID: `AAAAAKiR1Kw0V+FpGiI9sNN0pju3llT8`

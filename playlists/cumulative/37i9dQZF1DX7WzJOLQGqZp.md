@@ -4,7 +4,7 @@
 
 > The best music videos in Black music\. Cover: Chxrry
 
-52 songs - 2 hr 40 min
+53 songs - 2 hr 42 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -19,6 +19,7 @@
 | [BRABUS MUSIC](https://open.spotify.com/track/48q0swLEzxNpbiVqI7VTiE) | [Hurricane Wisdom](https://open.spotify.com/artist/4PooHx6BstbetDtBMrLyV7) | [BRABUS MUSIC](https://open.spotify.com/album/5JRDWzhOJB4iLMz1oBpf7S) | 2:07 | 2026-11-23 |  |
 | [BRUCKSWEAT](https://open.spotify.com/track/4RgwqFlAfzSiDC71CQrZRF) | [Shenseea](https://open.spotify.com/artist/1OFOShsIbhy1l5x73yuVyB) | [BRUCKSWEAT](https://open.spotify.com/album/2m3HYs6Ojn3jXuA6DcLJYj) | 3:08 | 2026-10-23 |  |
 | [Build a Bitch](https://open.spotify.com/track/59PK68hbhNDJ974UVE46UK) | [Future](https://open.spotify.com/artist/1RyvyyTE3xzB2ZywiAwp0i) | [The Real Me](https://open.spotify.com/album/0pFlE0rc68RS8f3UHzioQY) | 2:43 | 2026-10-23 |  |
+| [BUNK](https://open.spotify.com/track/0W2q0ZfVRVFydiTEgO5N7U) | [Mark Lux](https://open.spotify.com/artist/29fuOxHZkxmYqLIpBjE7V5) | [BUNK](https://open.spotify.com/album/3QxoZZayEouZx4qjHF3wNf) | 2:26 | 2026-11-24 |  |
 | [Burukutu](https://open.spotify.com/track/4vwzDIuXLtdevmmjPtnemz) | [Olamide](https://open.spotify.com/artist/4ovtyvs7j1jSmwhkBGHqSr) | [Burukutu](https://open.spotify.com/album/5fmsGkc9fvR1MYajeQFwB7) | 5:11 | 2026-10-23 |  |
 | [CARITA FELIZ](https://open.spotify.com/track/6bQsFck5fRznOrCfJMxF1c) | [Myke Towers](https://open.spotify.com/artist/7iK8PXO48WeuP03g8YR51W) | [CARITA FELIZ](https://open.spotify.com/album/72fKROtde4M6Rv14mgIOpm) | 3:13 | 2026-10-23 |  |
 | [DADAMAN](https://open.spotify.com/track/5O9aVGryqU0Um5l4a1pezL) | [DESTIN CONRAD](https://open.spotify.com/artist/4jwROPSUkTkohLCRiyjiZZ), [kwn](https://open.spotify.com/artist/2KnhnL8zuqLhIhGk601fsb) | [ROADRUNNER](https://open.spotify.com/album/7joEKdjJC5ROVOVc15CNfj) | 2:41 | 2026-10-23 |  |
@@ -51,7 +52,7 @@
 | [Solar Eclipse \(feat\. Don Toliver\)](https://open.spotify.com/track/4IAWZw00ZI9DLKDjesx86u) | [Drake](https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4), [Don Toliver](https://open.spotify.com/artist/4Gso3d4CscCijv0lmajZWs) | [HABIBTI \(FOMO\)](https://open.spotify.com/album/4gvyJRNQPBb1kOWqwZjUYI) | 3:38 | 2026-10-23 |  |
 | [Spend Dat](https://open.spotify.com/track/0LWIiBYFmOnkqysugp0VKo) | [Yung Miami](https://open.spotify.com/artist/5lbW0rNhFyCiSlClBMYbki) | [Spend Dat](https://open.spotify.com/album/4bHuSvx7cbXCmVj5Y4XzFC) | 3:01 | 2026-10-23 |  |
 | [Stateside](https://open.spotify.com/track/7rtdCHpgzfz5uAVmHE8bAz) | [PinkPantheress](https://open.spotify.com/artist/78rUTD7y6Cy67W1RVzYs7t) | [Stateside](https://open.spotify.com/album/4gl5NtA40O5iTPY2jWLEmr) | 2:50 | 2026-10-23 |  |
-| [Te Imagino](https://open.spotify.com/track/2zMwhxsn38rjCCnIwpaoh4) | [Myke Towers](https://open.spotify.com/artist/7iK8PXO48WeuP03g8YR51W) | [Te Imagino](https://open.spotify.com/album/5wlpcIXWRQQ2IrpvKkGSzN) | 4:11 | 2026-10-23 |  |
+| [Te Imagino](https://open.spotify.com/track/2zMwhxsn38rjCCnIwpaoh4) | [Myke Towers](https://open.spotify.com/artist/7iK8PXO48WeuP03g8YR51W) | [Te Imagino](https://open.spotify.com/album/5wlpcIXWRQQ2IrpvKkGSzN) | 4:11 | 2026-10-23 | 2026-11-25 |
 | [Tell Everybody \(feat\. Leon Thomas\)](https://open.spotify.com/track/2BewxbxoGj2w6xIsz5CTn0) | [Davido](https://open.spotify.com/artist/0Y3agQaa6g2r0YmHPOO9rh), [Leon Thomas](https://open.spotify.com/artist/0nnBZ8FXWjG9wZgM2cpfeb) | [Tell Everybody \(feat\. Leon Thomas\)](https://open.spotify.com/album/4TW0eYZ972UcDruzl7IZbk) | 2:28 | 2026-10-23 |  |
 | [the bridge](https://open.spotify.com/track/3z0nNELGfWxjatVfmC6Vda) | [Kelela](https://open.spotify.com/artist/1U0sIzpRtDkvu1hXXzxh60), [PinkPantheress](https://open.spotify.com/artist/78rUTD7y6Cy67W1RVzYs7t) | [the bridge](https://open.spotify.com/album/3G8hKAn4uTQZ77ZjU5cIwi) | 4:33 | 2026-10-23 |  |
 | [the feeling](https://open.spotify.com/track/1OWBh1eVxUdA1Z6UA8r4nh) | [Steve Lacy](https://open.spotify.com/artist/57vWImR43h4CaDao012Ofp) | [Oh yeah?](https://open.spotify.com/album/289GZwycrFReuNB706obBx) | 4:35 | 2026-10-23 |  |

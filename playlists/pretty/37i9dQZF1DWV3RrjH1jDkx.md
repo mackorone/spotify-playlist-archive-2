@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWV3RrjH1jDkx.md) - [plain]
 
 > Endelig fredag og ny musikk fra bl.a\. Cezinando, Zara Larsson, Alan Walker, og mange flere 🔎
 
-[Spotify](https://open.spotify.com/user/spotify) - 204,835 likes - 100 songs - 5 hr 6 min
+[Spotify](https://open.spotify.com/user/spotify) - 204,821 likes - 100 songs - 5 hr 6 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWV3RrjH1jDkx.md) - [plain]
 | 99 | [unfolded](https://open.spotify.com/track/7Be42TyWXpNFStuxNw8Khg) | [shinyhunt](https://open.spotify.com/artist/6HzmHkcqEfZjqzsd5rGG63) | [unfolded](https://open.spotify.com/album/0I5uPQBjW366cqW5FCalvM) | 1:39 |
 | 100 | [Get ‘Em Girls](https://open.spotify.com/track/0PLJ8yOxocpIiRlo20Bp0f) | [KARLEE GIRL](https://open.spotify.com/artist/2fF1XYfUG2IbdEQZ4H0lHX) | [Get ‘Em Girls](https://open.spotify.com/album/2Gtzo1b2Hsv9kkh5r4CT6P) | 3:19 |
 
-Snapshot ID: `AAAAADlxN2Lp34eN0QW/XzvhmCKKIiSc`
+Snapshot ID: `AAAAAFEwAphtLwMAyq1W1+KbsiivD8iK`

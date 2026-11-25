@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5ZYqTmgPJ9Z.md) - [plain]
 
 > Grab a drink and let us help you see off the evening.
 
-[Spotify](https://open.spotify.com/user/spotify) - 134,634 likes - 100 songs - 6 hr 10 min
+[Spotify](https://open.spotify.com/user/spotify) - 134,635 likes - 100 songs - 6 hr 10 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -32,8 +32,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5ZYqTmgPJ9Z.md) - [plain]
 | 22 | [something will happen](https://open.spotify.com/track/0T3aN5baN9c90j11pzoDPW) | [berlioz](https://open.spotify.com/artist/3k3RY7kR8f0vp8Cq27P141) | [something will happen](https://open.spotify.com/album/68OpuwNvN1Yw8eeDHJsnhC) | 2:59 |
 | 23 | [Dancing Circles 2.0](https://open.spotify.com/track/3C5eqElWp0s4of3vTU37bF) | [Sampha](https://open.spotify.com/artist/2WoVwexZuODvclzULjPQtm) | [Lahai \(Deluxe\)](https://open.spotify.com/album/0oKro6GftR6X0sk7fVH7T8) | 3:46 |
 | 24 | [Love The Things You Do](https://open.spotify.com/track/1ONzZIqZm1F9dEOPMDjdEi) | [Pip Millett](https://open.spotify.com/artist/1QfEfvB62EEl4upf2ANKkR) | [Love The Things You Do](https://open.spotify.com/album/4PWJm5KgebAlYm2c1pg11p) | 3:53 |
-| 25 | [Not Today](https://open.spotify.com/track/0La1VlmPQNwvTyJD3qIxGL) | [Thee Marloes](https://open.spotify.com/artist/0rTTgwJUHLQWqQV9sNvcbE) | [Perak](https://open.spotify.com/album/5FdHePoYyJiUsjG0ownNbb) | 3:06 |
-| 26 | [Labyrinth](https://open.spotify.com/track/4K24FedWyG2LXIXp6kXYyW) | [Toro y Moi](https://open.spotify.com/artist/6O4EGCCb6DoIiR6B1QCQgp) | [Boo Boo](https://open.spotify.com/album/1or1EVymKizDf9IovJURHD) | 4:01 |
+| 25 | [Labyrinth](https://open.spotify.com/track/4K24FedWyG2LXIXp6kXYyW) | [Toro y Moi](https://open.spotify.com/artist/6O4EGCCb6DoIiR6B1QCQgp) | [Boo Boo](https://open.spotify.com/album/1or1EVymKizDf9IovJURHD) | 4:01 |
+| 26 | [Not Today](https://open.spotify.com/track/0La1VlmPQNwvTyJD3qIxGL) | [Thee Marloes](https://open.spotify.com/artist/0rTTgwJUHLQWqQV9sNvcbE) | [Perak](https://open.spotify.com/album/5FdHePoYyJiUsjG0ownNbb) | 3:06 |
 | 27 | [Pineapple](https://open.spotify.com/track/0lwkL0G07NYtLrQCugi8lX) | [Blue Lab Beats](https://open.spotify.com/artist/4YLUMAgNyttwx4hUHgtBtR), [Moses Boyd](https://open.spotify.com/artist/1otDUlTEBjcyDQg6CkHRaV), [Nérija](https://open.spotify.com/artist/3alosBIW8nGb6TXqfM8wbI) | [Xover](https://open.spotify.com/album/08OWYxVuGW8F7Ne2TdNMUp) | 3:16 |
 | 28 | [Space is the Place](https://open.spotify.com/track/38PFECJBX4yGhiHFH9XgYX) | [Ezra Collective](https://open.spotify.com/artist/5BRAUN0yN8557PLRZIr02W) | [You Can't Steal My Joy](https://open.spotify.com/album/1eY0OQek6FHZWiPgJaXAzl) | 2:34 |
 | 29 | [All on My Mind \- Acoustic](https://open.spotify.com/track/4piJ8pnoRvC5sqMEpbH0FA) | [Anderson East](https://open.spotify.com/artist/5q6z6GTth6lMbL9I8CAgby) | [All on My Mind \(Acoustic\)](https://open.spotify.com/album/7tz2tP0MyzjpNg13tgRyx9) | 3:49 |
@@ -73,9 +73,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5ZYqTmgPJ9Z.md) - [plain]
 | 63 | [At What Cost](https://open.spotify.com/track/45dq2Tj670CC0WOZEFashZ) | [Ella More](https://open.spotify.com/artist/727Q7I2a8uB63eFKd4N38p) | [At What Cost](https://open.spotify.com/album/0EMkOcbLfE9zCeDVjxLqsL) | 4:16 |
 | 64 | [Stuck Wit U](https://open.spotify.com/track/5nDIBUarJMA7qlpuiryATA) | [Nao Yoshioka](https://open.spotify.com/artist/4YPiq62lEVjRdzhSlNto08), [Blue Lab Beats](https://open.spotify.com/artist/4YLUMAgNyttwx4hUHgtBtR) | [Stuck Wit U](https://open.spotify.com/album/29vqF5DQuNIzcYM0tept6C) | 3:33 |
 | 65 | [Near Enough A Woman](https://open.spotify.com/track/1ncO5CMaYySNsnOrBXuFYd) | [otta](https://open.spotify.com/artist/2c04R4WjyZyi1qiRLPhpsO) | [Near Enough A Woman](https://open.spotify.com/album/3L341kxmBXonqWSRNLPLCT) | 3:34 |
-| 66 | [Trouble Sleeping](https://open.spotify.com/track/4Ev6olpuoQQeNxyhOaI503) | [Ross Carlo](https://open.spotify.com/artist/1V8iNXoBHwRc9774nQxSR4) | [Trouble Sleeping](https://open.spotify.com/album/1RAYi3l2RC6gpbp0gMVVb7) | 3:35 |
-| 67 | [Look What You've Done](https://open.spotify.com/track/6fvNQAjbTdqEBjCoCx7v2U) | [Dayo Bello](https://open.spotify.com/artist/41mwTkqJfMxPMbQmEdN2S2) | [Look What You've Done](https://open.spotify.com/album/1lCjjuAzUoAxW9ATjqdFDc) | 5:12 |
-| 68 | [Shade](https://open.spotify.com/track/3N7ZfhWeLFRRJtGG5Oy1bB) | [The Silhouettes Project](https://open.spotify.com/artist/3CJEpzlVzfyLTpKJlpKdHw), [Karl Benjamin](https://open.spotify.com/artist/1w7NVtwrAk4p50JGIhE9cs), [Elisa Imperilee](https://open.spotify.com/artist/4nVDBC1sxEE5zS8EgtVplj), [Purple Cloud](https://open.spotify.com/artist/0uqmXcssVwrJzz9wVl0pRl), [Jordan Tait](https://open.spotify.com/artist/45r14HjCcLzpQw2kB4Cfee), [Alabaster DePlume](https://open.spotify.com/artist/3LfKt6bEMIfFIEryeai8Mm) | [Shade](https://open.spotify.com/album/7xkXsOZbSh9qFLRQJwNCkk) | 3:34 |
+| 66 | [Look What You've Done](https://open.spotify.com/track/6fvNQAjbTdqEBjCoCx7v2U) | [Dayo Bello](https://open.spotify.com/artist/41mwTkqJfMxPMbQmEdN2S2) | [Look What You've Done](https://open.spotify.com/album/1lCjjuAzUoAxW9ATjqdFDc) | 5:12 |
+| 67 | [Shade](https://open.spotify.com/track/3N7ZfhWeLFRRJtGG5Oy1bB) | [The Silhouettes Project](https://open.spotify.com/artist/3CJEpzlVzfyLTpKJlpKdHw), [Karl Benjamin](https://open.spotify.com/artist/1w7NVtwrAk4p50JGIhE9cs), [Elisa Imperilee](https://open.spotify.com/artist/4nVDBC1sxEE5zS8EgtVplj), [Purple Cloud](https://open.spotify.com/artist/0uqmXcssVwrJzz9wVl0pRl), [Jordan Tait](https://open.spotify.com/artist/45r14HjCcLzpQw2kB4Cfee), [Alabaster DePlume](https://open.spotify.com/artist/3LfKt6bEMIfFIEryeai8Mm) | [Shade](https://open.spotify.com/album/7xkXsOZbSh9qFLRQJwNCkk) | 3:34 |
+| 68 | [Trouble Sleeping](https://open.spotify.com/track/4Ev6olpuoQQeNxyhOaI503) | [Ross Carlo](https://open.spotify.com/artist/1V8iNXoBHwRc9774nQxSR4) | [Trouble Sleeping](https://open.spotify.com/album/1RAYi3l2RC6gpbp0gMVVb7) | 3:35 |
 | 69 | [Love Theme For Leisure Trip](https://open.spotify.com/track/1v0gfS8rwkD3Vgnm12NslK) | [Hemai](https://open.spotify.com/artist/0eOlWPcqRSIbrJ1i9ESFhz), [Quinn Oulton](https://open.spotify.com/artist/2lqAPLmP9BsHPymfa6UFO7) | [Love Theme For Leisure Trip](https://open.spotify.com/album/4mtqjAKgZTaqenC7XcI6TT) | 3:29 |
 | 70 | [My Head Will Be Back Around Noon](https://open.spotify.com/track/3AloBUFJeFyp4qj4GCGboS) | [Amber Burgoyne](https://open.spotify.com/artist/6ywsm0W8iqUXa55S06iJq9) | [My Head Will Be Back Around Noon](https://open.spotify.com/album/3zguAlnxNRKABTqdnO8UzR) | 2:09 |
 | 71 | [So Far](https://open.spotify.com/track/7hADXOuwRKNu7U2SCd9Hct) | [Causier](https://open.spotify.com/artist/1qkumKhqyNt9jlyDoaLFcu), [Erin LeCount](https://open.spotify.com/artist/1h6v3Gd5Ub1xmiSMq0X5f3) | [So Far](https://open.spotify.com/album/5LEB36Hao9h6bdTzTB5g1F) | 2:52 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5ZYqTmgPJ9Z.md) - [plain]
 | 99 | [Vancouver Time](https://open.spotify.com/track/3IVqLH79sttzFRDB2MorvV) | [Leif Vollebekk](https://open.spotify.com/artist/3jzXlBF2157k4exx7idecs) | [Twin Solitude](https://open.spotify.com/album/64Yh7XkMmHan0qMmmYTcZj) | 4:37 |
 | 100 | [Another Night](https://open.spotify.com/track/0fqeNjCIxg4kEsKVHChsvb) | [Two Another](https://open.spotify.com/artist/35RvGPQ1OxbEZknWyiaAcs) | [Another Night](https://open.spotify.com/album/3CvDoqMwvSq21vN4l9P40w) | 4:11 |
 
-Snapshot ID: `AAAAAFDQN199SVSTfYim91AcGZnuMcwl`
+Snapshot ID: `AAAAAF3jLFTwmse+/dFedRDq1TUcCuyo`

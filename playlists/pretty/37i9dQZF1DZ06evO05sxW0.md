@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO05sxW0.md) - [plain]
 
 > This is Bikini Kill\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 9,762 likes - 32 songs - 1 hr 15 min
+[Spotify](https://open.spotify.com/user/spotify) - 9,763 likes - 32 songs - 1 hr 15 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -33,12 +33,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO05sxW0.md) - [plain]
 | 23 | [Don't Need You](https://open.spotify.com/track/3RVxsu0EDweX6ffTLDy9WP) | [Bikini Kill](https://open.spotify.com/artist/0gvHPdYxlU94W7V5MSIlFe) | [The First Two Records](https://open.spotify.com/album/6U4EMkDA3CZarmG5t3Bqze) | 1:27 |
 | 24 | [This Is Not a Test](https://open.spotify.com/track/2wtTxiBekNiST4pF0ODF1J) | [Bikini Kill](https://open.spotify.com/artist/0gvHPdYxlU94W7V5MSIlFe) | [Revolution Girl Style Now](https://open.spotify.com/album/1ovByadNR5ynugbrKlr1m3) | 1:48 |
 | 25 | [Star Bellied Boy](https://open.spotify.com/track/3btz8qzIt3dbNFhEsTdFwv) | [Bikini Kill](https://open.spotify.com/artist/0gvHPdYxlU94W7V5MSIlFe) | [Pussy Whipped](https://open.spotify.com/album/4rCgFExY3JIJdFij2kwB1w) | 1:33 |
-| 26 | [Bloody Ice Cream](https://open.spotify.com/track/7oFIVslwckI6BcJ0TQwl5D) | [Bikini Kill](https://open.spotify.com/artist/0gvHPdYxlU94W7V5MSIlFe) | [Reject All American](https://open.spotify.com/album/2FQqJCzYzA2Lmtb5XpEMon) | 1:25 |
+| 26 | [R.I.P.](https://open.spotify.com/track/1Elf4v0lR2RTR0jyHBhjVQ) | [Bikini Kill](https://open.spotify.com/artist/0gvHPdYxlU94W7V5MSIlFe) | [Reject All American](https://open.spotify.com/album/2FQqJCzYzA2Lmtb5XpEMon) | 3:37 |
 | 27 | [Daddy's L'il Girl](https://open.spotify.com/track/3QJPGtdJgiHgoC2wZBpgRh) | [Bikini Kill](https://open.spotify.com/artist/0gvHPdYxlU94W7V5MSIlFe) | [Revolution Girl Style Now](https://open.spotify.com/album/1ovByadNR5ynugbrKlr1m3) | 2:28 |
-| 28 | [R.I.P.](https://open.spotify.com/track/1Elf4v0lR2RTR0jyHBhjVQ) | [Bikini Kill](https://open.spotify.com/artist/0gvHPdYxlU94W7V5MSIlFe) | [Reject All American](https://open.spotify.com/album/2FQqJCzYzA2Lmtb5XpEMon) | 3:37 |
+| 28 | [Bloody Ice Cream](https://open.spotify.com/track/7oFIVslwckI6BcJ0TQwl5D) | [Bikini Kill](https://open.spotify.com/artist/0gvHPdYxlU94W7V5MSIlFe) | [Reject All American](https://open.spotify.com/album/2FQqJCzYzA2Lmtb5XpEMon) | 1:25 |
 | 29 | [Playground](https://open.spotify.com/track/5MXEac2zwxs47zq0ftFgpy) | [Bikini Kill](https://open.spotify.com/artist/0gvHPdYxlU94W7V5MSIlFe) | [Revolution Girl Style Now](https://open.spotify.com/album/1ovByadNR5ynugbrKlr1m3) | 3:33 |
 | 30 | [Jet Ski](https://open.spotify.com/track/1nIAfunQnMb64VPivMjstf) | [Bikini Kill](https://open.spotify.com/artist/0gvHPdYxlU94W7V5MSIlFe) | [Reject All American](https://open.spotify.com/album/2FQqJCzYzA2Lmtb5XpEMon) | 2:34 |
 | 31 | [Ocean Song](https://open.spotify.com/track/2fM9MUueSFsILkptHaiE9N) | [Bikini Kill](https://open.spotify.com/artist/0gvHPdYxlU94W7V5MSIlFe) | [Revolution Girl Style Now](https://open.spotify.com/album/1ovByadNR5ynugbrKlr1m3) | 3:29 |
 | 32 | [Just Once](https://open.spotify.com/track/1sGHJSgeRVGlsWMW3H0bak) | [Bikini Kill](https://open.spotify.com/artist/0gvHPdYxlU94W7V5MSIlFe) | [Revolution Girl Style Now](https://open.spotify.com/album/1ovByadNR5ynugbrKlr1m3) | 3:35 |
 
-Snapshot ID: `awIwgAAAAADfr7W+Y32wNduQWhWx4fL1`
+Snapshot ID: `awOCAAAAAABTGV1WIk8PHPZBgP3zJMaf`

@@ -6,7 +6,7 @@
     "name": "The Mushy Pea",
     "url": "https://open.spotify.com/user/1139243362"
   },
-  "snapshot_id": "AAAQdnyo29sWM9Y3L5Sar15wL9Ih8XXM",
+  "snapshot_id": "AAAQeIM6uLC8kx8eJCk34IF7+83t1Ybj",
   "tracks": [
     {
       "added_at": "2026-08-11 08:38:53",
@@ -1527,6 +1527,38 @@
       "duration_ms": 200213,
       "name": "Numb",
       "url": "https://open.spotify.com/track/2V6ISIjnCBFDz05OjdbWPM"
+    },
+    {
+      "added_at": "2026-11-24 13:45:23",
+      "album": {
+        "name": "Isnt It Beautiful",
+        "url": "https://open.spotify.com/album/3dnxEjKCOViLHS9qm9omx0"
+      },
+      "artists": [
+        {
+          "name": "Bruce Derby",
+          "url": "https://open.spotify.com/artist/3L7v52f5rkuzgDWI2BIhJl"
+        }
+      ],
+      "duration_ms": 217500,
+      "name": "Isnt It Beautiful",
+      "url": "https://open.spotify.com/track/4YZMVe3BVBcZSwxJ2AMDen"
+    },
+    {
+      "added_at": "2026-11-24 13:45:42",
+      "album": {
+        "name": "Sacrifice",
+        "url": "https://open.spotify.com/album/3a9z2mt1DIO1nGOneaIiSE"
+      },
+      "artists": [
+        {
+          "name": "MAEVE",
+          "url": "https://open.spotify.com/artist/3DNFhvW8CCWslJ8idXFwgn"
+        }
+      ],
+      "duration_ms": 318868,
+      "name": "Sacrifice",
+      "url": "https://open.spotify.com/track/46UHppFKdvYRKKtn4ibXox"
     }
   ],
   "unique_name": "INDI(E)VIDUAL",

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSBi5svWQ9Nk.md) - [plain]
 
 > De 50 grootste hits in NL met cover: Tate McRae
 
-[Spotify](https://open.spotify.com/user/spotify) - 928,150 likes - 50 songs - 2 hr 24 min
+[Spotify](https://open.spotify.com/user/spotify) - 928,070 likes - 50 songs - 2 hr 24 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSBi5svWQ9Nk.md) - [plain]
 | 49 | [Magnetic](https://open.spotify.com/track/4hFDFmMnSYZ32ssqNUOCjt) | [The Bausa](https://open.spotify.com/artist/7krakxeyEmge6pzTthKNyg) | [Magnetic / Addicted To Your Love](https://open.spotify.com/album/5spP5OwikL076tVBuw7gb8) | 3:01 |
 | 50 | [Het Komt Door Jou](https://open.spotify.com/track/5JWHSbwDQIXQP9532k3uqQ) | [Zoë Livay](https://open.spotify.com/artist/2avtvk1ZeiEf3wZ8dE8JfE), [Beste Zangers](https://open.spotify.com/artist/5tOJq6eS9TQEya6rxFvfEa) | [Beste Zangers 2026 \(Zoë Livay\)](https://open.spotify.com/album/4r5YD8D2gp85QTuo6pcv26) | 3:03 |
 
-Snapshot ID: `AAAAAG3ZcomWGDtDFOPsATlBMmE2XzUu`
+Snapshot ID: `AAAAAEBRoDM+69jnqvkkEb48UD98u29U`

@@ -1864,7 +1864,7 @@
       ],
       "date_added": "2021-12-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-25",
       "duration_ms": 143467,
       "name": "Glittery - From The Kacey Musgraves Christmas Show",
       "url": "https://open.spotify.com/track/4dFtIGQBrYjiskk7fN5Wmx"
@@ -2601,6 +2601,24 @@
     },
     {
       "album": {
+        "name": "christmas dream",
+        "url": "https://open.spotify.com/album/2JWdOmygDfiRzazzfGGomt"
+      },
+      "artists": [
+        {
+          "name": "aron!",
+          "url": "https://open.spotify.com/artist/5rCTkyHZUIUcPwKwIz8YOg"
+        }
+      ],
+      "date_added": "2026-11-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 182549,
+      "name": "it's the most wonderful time of the year",
+      "url": "https://open.spotify.com/track/6ozYsjpGOTCgsQg77xvHaX"
+    },
+    {
+      "album": {
         "name": "A Classic Christmas",
         "url": "https://open.spotify.com/album/5zPiyi6NAqHkuETPjhBHW1"
       },
@@ -2612,7 +2630,7 @@
       ],
       "date_added": "2023-11-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-25",
       "duration_ms": 153200,
       "name": "It's the Most Wonderful Time of the Year",
       "url": "https://open.spotify.com/track/1C85AHCMc9BjX5SWeUEsHo"
@@ -3522,6 +3540,28 @@
       "duration_ms": 303520,
       "name": "Please Come Home For Christmas",
       "url": "https://open.spotify.com/track/2ZQlt4cuWOY6xrNtkP4OsS"
+    },
+    {
+      "album": {
+        "name": "A Very Kacey Christmas",
+        "url": "https://open.spotify.com/album/7sIB15nu0Rp1vR8wXnTx3a"
+      },
+      "artists": [
+        {
+          "name": "Kacey Musgraves",
+          "url": "https://open.spotify.com/artist/70kkdajctXSbqSMJbQO424"
+        },
+        {
+          "name": "Leon Bridges",
+          "url": "https://open.spotify.com/artist/3qnGvpP8Yth1AqSBMqON5x"
+        }
+      ],
+      "date_added": "2026-11-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 230480,
+      "name": "Present Without A Bow",
+      "url": "https://open.spotify.com/track/0Pj9cTJcWbrDPjtCKx4Ody"
     },
     {
       "album": {
@@ -4742,10 +4782,28 @@
       ],
       "date_added": "2023-11-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-25",
       "duration_ms": 172809,
       "name": "Wonderful Christmastime",
       "url": "https://open.spotify.com/track/1eDJEL8bpj88WReUBTaYxb"
+    },
+    {
+      "album": {
+        "name": "Christmas on East Houston",
+        "url": "https://open.spotify.com/album/0c1cd77LdvkmWA4bGfNq7J"
+      },
+      "artists": [
+        {
+          "name": "Mark Ambor",
+          "url": "https://open.spotify.com/artist/11p2E654TTU8e0nZWBR4AL"
+        }
+      ],
+      "date_added": "2026-11-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 155371,
+      "name": "Wonderful Christmastime",
+      "url": "https://open.spotify.com/track/5vNZXNUlmXIKsOwxaOTSRQ"
     }
   ],
   "url": "https://open.spotify.com/playlist/37i9dQZF1DWSFWSTYGmXDl"

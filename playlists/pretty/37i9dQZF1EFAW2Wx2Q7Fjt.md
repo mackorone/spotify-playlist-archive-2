@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFAW2Wx2Q7Fjt.md) - [plain]
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/1YH0NMJEWHxG6AoyYZivZX">Amy Allen</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 6,978 likes - 254 songs - 13 hr 6 min
+[Spotify](https://open.spotify.com/user/spotify) - 6,977 likes - 254 songs - 13 hr 6 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -116,8 +116,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFAW2Wx2Q7Fjt.md) - [plain]
 | 106 | [Talk About Love \(feat\. Young Thug\)](https://open.spotify.com/track/5UkMXb3IfK9fTCCrMr0v9A) | [Zara Larsson](https://open.spotify.com/artist/1Xylc3o4UrD53lo9CvFvVg), [Young Thug](https://open.spotify.com/artist/50co4Is1HCEo8bhOyUWKpn) | [Poster Girl](https://open.spotify.com/album/79y7DSLFQH3907u4ysOMGr) | 3:19 |
 | 107 | [Need To Know](https://open.spotify.com/track/5VBKZ21vgMcUt9D25Qmh2M) | [Calum Scott](https://open.spotify.com/artist/6ydoSd3N2mwgwBHtF6K7eX) | [Only Human \(Special Edition\)](https://open.spotify.com/album/2Qm3jtYKIsCVWgpvFiIDX4) | 2:47 |
 | 108 | [The First One](https://open.spotify.com/track/0eQJy4VAW7AkhKIHzXx3jG) | [Astrid S](https://open.spotify.com/artist/3AVfmawzu83sp94QW7CEGm) | [The First One](https://open.spotify.com/album/6BxGxt7LU2viJ6U2eba5Ix) | 3:08 |
-| 109 | [Drown](https://open.spotify.com/track/5P2VkMhz1Rod5OAbxsplgr) | [Justin Timberlake](https://open.spotify.com/artist/31TPClRtHm23RisEBtV3X7) | [Everything I Thought It Was](https://open.spotify.com/album/44e3xckIbDMtFm8jeZLLZ7) | 4:20 |
-| 110 | [is it new years yet?](https://open.spotify.com/track/48xGcNwekbGcux5rIjKPQM) | [Sabrina Carpenter](https://open.spotify.com/artist/74KM79TiuVKeVCqs8QtB0B) | [fruitcake](https://open.spotify.com/album/7EisdwWcodpmHxgpGVE5Pg) | 2:38 |
+| 109 | [is it new years yet?](https://open.spotify.com/track/48xGcNwekbGcux5rIjKPQM) | [Sabrina Carpenter](https://open.spotify.com/artist/74KM79TiuVKeVCqs8QtB0B) | [fruitcake](https://open.spotify.com/album/7EisdwWcodpmHxgpGVE5Pg) | 2:38 |
+| 110 | [Drown](https://open.spotify.com/track/5P2VkMhz1Rod5OAbxsplgr) | [Justin Timberlake](https://open.spotify.com/artist/31TPClRtHm23RisEBtV3X7) | [Everything I Thought It Was](https://open.spotify.com/album/44e3xckIbDMtFm8jeZLLZ7) | 4:20 |
 | 111 | [Jello](https://open.spotify.com/track/2jaaONYdaOUk8hhhIRIp4A) | [PRETTYMUCH](https://open.spotify.com/artist/5Y8eJDj37KhaEeqbVO7Ag1) | [Jello](https://open.spotify.com/album/4WMrgBWI8uWqp7ilLTfPXx) | 2:57 |
 | 112 | [Girl That I Am](https://open.spotify.com/track/7jZk5cOxV1LVZFG7RIOaHE) | [Ella Bright](https://open.spotify.com/artist/7bzIKcaSnlUfRLJ9m00XZr) | [Off Campus: The Mixtape](https://open.spotify.com/album/5CJqPFrc9hPete87L5DFSN) | 4:11 |
 | 113 | [Feel It Twice](https://open.spotify.com/track/39jcp8zJH7nHWbB7Hr3sFJ) | [Camila Cabello](https://open.spotify.com/artist/4nDoRrQiYLoBzwC5BhVJzF) | [Romance](https://open.spotify.com/album/3Vsbl0diFGw8HNSjG8ue9m) | 3:08 |
@@ -138,10 +138,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFAW2Wx2Q7Fjt.md) - [plain]
 | 128 | [Welcome Back \(feat\. Alessia Cara\)](https://open.spotify.com/track/50I4Px0ip8mYOT2TwUZT8k) | [Ali Gatie](https://open.spotify.com/artist/4rTv3Ejc7hKMtmoBOK1B4T), [Alessia Cara](https://open.spotify.com/artist/2wUjUUtkb5lvLKcGKsKqsR) | [Welcome Back \(feat\. Alessia Cara\)](https://open.spotify.com/album/6ESCsWmTref0L1BpRlOUQJ) | 2:52 |
 | 129 | [Time Goes On](https://open.spotify.com/track/6tZ6fU4h937KsFoKWe7KJh) | [Koe Wetzel](https://open.spotify.com/artist/1Tie3AZgLQZqYEp8Fv4zOZ) | [The Night Champion](https://open.spotify.com/album/1BE3z8NRxfAV8ASyXoJmbe) | 2:55 |
 | 130 | [9 Lives \(Black Cat\)](https://open.spotify.com/track/01t65qatZeJZRmjmBqIwBA) | [Koe Wetzel](https://open.spotify.com/artist/1Tie3AZgLQZqYEp8Fv4zOZ) | [9 Lives](https://open.spotify.com/album/5W2ZpWhrvHK0h68xiP7ajj) | 3:24 |
-| 131 | [The Wedding Song](https://open.spotify.com/track/3UNTCTqSGhVaaMQvBty1q6) | [Reneé Rapp](https://open.spotify.com/artist/2hUYKu1x0UZQXvzCmggvSn) | [Snow Angel](https://open.spotify.com/album/3RqO05jxT9YYgNtMdQmo8Z) | 3:03 |
-| 132 | [Casamigos](https://open.spotify.com/track/359bNXrILKwIm6J6vgz5zM) | [Koe Wetzel](https://open.spotify.com/artist/1Tie3AZgLQZqYEp8Fv4zOZ) | [9 Lives](https://open.spotify.com/album/1hLKup9UE01jC6E49VzBqj) | 3:14 |
-| 133 | [The Day That I Die](https://open.spotify.com/track/5etUFBAEUiOSS50lAY7Z3U) | [Lewis Capaldi](https://open.spotify.com/artist/4GNC7GD6oZMSxPGyXy4MNB) | [Survive \- EP](https://open.spotify.com/album/4HXHuDnVGEl2Mwz6X1xlOe) | 2:54 |
-| 134 | [Here You Come, There You Go](https://open.spotify.com/track/5mRaXkSSXs4bipWZUTtHsu) | [Gracie Abrams](https://open.spotify.com/artist/4tuJ0bMpJh08umKkEXKUI5) | [Daughter from Hell \(Deluxe\)](https://open.spotify.com/album/7hAEgpAEje0obsJ8SrJKg2) | 2:50 |
+| 131 | [Here You Come, There You Go](https://open.spotify.com/track/5mRaXkSSXs4bipWZUTtHsu) | [Gracie Abrams](https://open.spotify.com/artist/4tuJ0bMpJh08umKkEXKUI5) | [Daughter from Hell \(Deluxe\)](https://open.spotify.com/album/7hAEgpAEje0obsJ8SrJKg2) | 2:50 |
+| 132 | [The Wedding Song](https://open.spotify.com/track/3UNTCTqSGhVaaMQvBty1q6) | [Reneé Rapp](https://open.spotify.com/artist/2hUYKu1x0UZQXvzCmggvSn) | [Snow Angel](https://open.spotify.com/album/3RqO05jxT9YYgNtMdQmo8Z) | 3:03 |
+| 133 | [Casamigos](https://open.spotify.com/track/359bNXrILKwIm6J6vgz5zM) | [Koe Wetzel](https://open.spotify.com/artist/1Tie3AZgLQZqYEp8Fv4zOZ) | [9 Lives](https://open.spotify.com/album/1hLKup9UE01jC6E49VzBqj) | 3:14 |
+| 134 | [The Day That I Die](https://open.spotify.com/track/5etUFBAEUiOSS50lAY7Z3U) | [Lewis Capaldi](https://open.spotify.com/artist/4GNC7GD6oZMSxPGyXy4MNB) | [Survive \- EP](https://open.spotify.com/album/4HXHuDnVGEl2Mwz6X1xlOe) | 2:54 |
 | 135 | [Stupid](https://open.spotify.com/track/6PRJyDLu05iw1rDcIbu6nD) | [Megan Moroney](https://open.spotify.com/artist/5Ppie0uPnbnvGBYRwYmlt0) | [Cloud 9](https://open.spotify.com/album/4ntHwySryzYS8Td67WlVVq) | 3:21 |
 | 136 | [Skeletons](https://open.spotify.com/track/3hj8W5q7BI1Uam1rn47a9Q) | [Ed Sheeran](https://open.spotify.com/artist/6eUKZXaKkcviH0Ku9w2n3V) | [Play \(Deluxe\)](https://open.spotify.com/album/2ajCD41iDxflpYBZmSO9S7) | 2:41 |
 | 137 | [Guess We Lied...](https://open.spotify.com/track/2TpZAFpamrkPQcCdQcNjRT) | [FLETCHER](https://open.spotify.com/artist/5qa31A9HySw3T7MKWI9bGg) | [Girl Of My Dreams](https://open.spotify.com/album/38aH4OObJSjtO48q2eNoA4) | 2:31 |
@@ -191,13 +191,13 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFAW2Wx2Q7Fjt.md) - [plain]
 | 181 | [Conditions](https://open.spotify.com/track/7BQdqre9lvLM3HmZ7QPgjU) | [Justin Timberlake](https://open.spotify.com/artist/31TPClRtHm23RisEBtV3X7) | [Everything I Thought It Was](https://open.spotify.com/album/716B2iWcwoKolCXrqwLGQh) | 4:36 |
 | 182 | [roses](https://open.spotify.com/track/2g46efmE9mpxnkXP7sNkdh) | [Kelly Clarkson](https://open.spotify.com/artist/3BmGtnKgCSGYIUhmivXKWX) | [chemistry \(Deluxe\)](https://open.spotify.com/album/3THFV3WrofiRQoBWNyZ54F) | 3:33 |
 | 183 | [Hail Mary](https://open.spotify.com/track/6VvvFnxvcPjoKelou9NJxZ) | [Shaboozey](https://open.spotify.com/artist/3y2cIKLjiOlp1Np37WiUdH), [Sierra Ferrell](https://open.spotify.com/artist/3oVcF3VdpMuvMvLLyHPT4t) | [Where I've Been, Isn't Where I'm Going: The Complete Edition](https://open.spotify.com/album/4iSZXBgHUpzVGl8qfuZSEv) | 2:44 |
-| 184 | [Eddie In The Darkness](https://open.spotify.com/track/4I0VuGVxsWKFcbniaUs835) | [Inhaler](https://open.spotify.com/artist/6lyMYewq2SuTFIXgiv7OxH) | [Open Wide](https://open.spotify.com/album/0BOPVh2yWYPZLXbHRQtib1) | 3:35 |
-| 185 | [Virtuoso](https://open.spotify.com/track/2RtNoFR37ieZtxShQ5BSSI) | [Ryan Beatty](https://open.spotify.com/artist/60NNvDqsif0u40CXMV6jDQ) | [Sweet Fortune](https://open.spotify.com/album/6FYDpZcqoVFDb31Zo4KA5S) | 3:41 |
-| 186 | [Heaven](https://open.spotify.com/track/2aNISqHFs3s2JXf2b6buIb) | [Talvin Singh](https://open.spotify.com/artist/30Y7JOpiNgAGEhnkYPdI1P), [Rakesh Chaurasia](https://open.spotify.com/artist/10LLaI6A4jACT6M5ddEEFg) | [Vira](https://open.spotify.com/album/25FqK9OvigzpudKNfrRkZO) | 5:28 |
-| 187 | [Runnin' Low](https://open.spotify.com/track/2LQA6pUCmMeefsuGkasID5) | [Koe Wetzel](https://open.spotify.com/artist/1Tie3AZgLQZqYEp8Fv4zOZ) | [9 Lives](https://open.spotify.com/album/5W2ZpWhrvHK0h68xiP7ajj) | 3:28 |
-| 188 | [Bad](https://open.spotify.com/track/4HaPoW6VbjC0iWBsuAmw5z) | [Dylan](https://open.spotify.com/artist/4LOM7NzyrZvlGSYPFDsnTk) | [Bad](https://open.spotify.com/album/3mu4Y69CWMH21RNGDzt9Eu) | 2:32 |
-| 189 | [April Showers](https://open.spotify.com/track/4nvuNhufNEwsBSvJAN2yeZ) | [Maisie Peters](https://open.spotify.com/artist/2RVvqRBon9NgaGXKfywDSs) | [It's Your Bed Babe, It's Your Funeral](https://open.spotify.com/album/1sbCW0I7rP05Zyru3gSyiH) | 2:58 |
-| 190 | [Lost in It](https://open.spotify.com/track/3DS1UrDXwnpnYZsLjNnugt) | [Gracie Abrams](https://open.spotify.com/artist/4tuJ0bMpJh08umKkEXKUI5) | [Daughter from Hell \(Deluxe\)](https://open.spotify.com/album/7hAEgpAEje0obsJ8SrJKg2) | 2:55 |
+| 184 | [Virtuoso](https://open.spotify.com/track/2RtNoFR37ieZtxShQ5BSSI) | [Ryan Beatty](https://open.spotify.com/artist/60NNvDqsif0u40CXMV6jDQ) | [Sweet Fortune](https://open.spotify.com/album/6FYDpZcqoVFDb31Zo4KA5S) | 3:41 |
+| 185 | [Eddie In The Darkness](https://open.spotify.com/track/4I0VuGVxsWKFcbniaUs835) | [Inhaler](https://open.spotify.com/artist/6lyMYewq2SuTFIXgiv7OxH) | [Open Wide](https://open.spotify.com/album/0BOPVh2yWYPZLXbHRQtib1) | 3:35 |
+| 186 | [Lost in It](https://open.spotify.com/track/3DS1UrDXwnpnYZsLjNnugt) | [Gracie Abrams](https://open.spotify.com/artist/4tuJ0bMpJh08umKkEXKUI5) | [Daughter from Hell \(Deluxe\)](https://open.spotify.com/album/7hAEgpAEje0obsJ8SrJKg2) | 2:55 |
+| 187 | [Heaven](https://open.spotify.com/track/2aNISqHFs3s2JXf2b6buIb) | [Talvin Singh](https://open.spotify.com/artist/30Y7JOpiNgAGEhnkYPdI1P), [Rakesh Chaurasia](https://open.spotify.com/artist/10LLaI6A4jACT6M5ddEEFg) | [Vira](https://open.spotify.com/album/25FqK9OvigzpudKNfrRkZO) | 5:28 |
+| 188 | [Runnin' Low](https://open.spotify.com/track/2LQA6pUCmMeefsuGkasID5) | [Koe Wetzel](https://open.spotify.com/artist/1Tie3AZgLQZqYEp8Fv4zOZ) | [9 Lives](https://open.spotify.com/album/5W2ZpWhrvHK0h68xiP7ajj) | 3:28 |
+| 189 | [Bad](https://open.spotify.com/track/4HaPoW6VbjC0iWBsuAmw5z) | [Dylan](https://open.spotify.com/artist/4LOM7NzyrZvlGSYPFDsnTk) | [Bad](https://open.spotify.com/album/3mu4Y69CWMH21RNGDzt9Eu) | 2:32 |
+| 190 | [April Showers](https://open.spotify.com/track/4nvuNhufNEwsBSvJAN2yeZ) | [Maisie Peters](https://open.spotify.com/artist/2RVvqRBon9NgaGXKfywDSs) | [It's Your Bed Babe, It's Your Funeral](https://open.spotify.com/album/1sbCW0I7rP05Zyru3gSyiH) | 2:58 |
 | 191 | [ARE U SERIOUS?](https://open.spotify.com/track/5ZVsCKomk3UHQ4kf1S9XrH) | [flowerovlove](https://open.spotify.com/artist/1JspXUvEv3D9ddMeLNqYWj) | [ache in my tooth](https://open.spotify.com/album/7v4V5gZA1KiktE3KijfMKO) | 2:23 |
 | 192 | [Heavy Weight](https://open.spotify.com/track/2zITwPNDc7aUkwRpWasK43) | [Tinashe](https://open.spotify.com/artist/0NIIxcxNHmOoyBx03SfTCD) | [Popstar](https://open.spotify.com/album/06CjF89lLSSiVWXujVVtQs) | 2:53 |
 | 193 | [Do You Miss Me](https://open.spotify.com/track/6IppX350neGLNsjkVGACNp) | [Olivia Holt](https://open.spotify.com/artist/188VINPQh5dyNfLUkevKqf) | [Do You Miss Me](https://open.spotify.com/album/2gCl7oG3bbT6AmcMJM0CEI) | 3:02 |
@@ -263,4 +263,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFAW2Wx2Q7Fjt.md) - [plain]
 | 253 | [break](https://open.spotify.com/track/3F7mNkXtkAtFRHCkwp0L4c) | [Amy Allen](https://open.spotify.com/artist/4Ebm2DC4Spo173X85D1n5x) | [amy allen](https://open.spotify.com/album/2ZMnjyTPQdQAgVBoSZlrXb) | 3:04 |
 | 254 | [kind sadness](https://open.spotify.com/track/14D1PA47cBk9pI3UMnzEn8) | [Amy Allen](https://open.spotify.com/artist/4Ebm2DC4Spo173X85D1n5x) | [amy allen](https://open.spotify.com/album/2ZMnjyTPQdQAgVBoSZlrXb) | 3:16 |
 
-Snapshot ID: `AcifPAAAAACk+aDIr3UzIpT0LHMe+8EV`
+Snapshot ID: `AcikZAAAAACle1tS5YeWeGwFzYvsM0jE`

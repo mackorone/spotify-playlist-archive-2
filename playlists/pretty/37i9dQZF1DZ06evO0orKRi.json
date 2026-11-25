@@ -1,12 +1,12 @@
 {
   "description": "This is Slim Dusty. The essential tracks, all in one playlist.",
-  "num_followers": 25992,
+  "num_followers": 25993,
   "original_name": "This Is Slim Dusty",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "awIwgAAAAAAolWTg7S74+gTjvbmiSh50",
+  "snapshot_id": "awOCAAAAAAD+S4k3U0qRzbuRJXHMuka6",
   "tracks": [
     {
       "added_at": null,
@@ -535,22 +535,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Truck Songs",
-        "url": "https://open.spotify.com/album/2tnFvsouoPXa3zILj5YRNd"
-      },
-      "artists": [
-        {
-          "name": "Slim Dusty",
-          "url": "https://open.spotify.com/artist/0M4w6wFmaVFmP4lIndnEU5"
-        }
-      ],
-      "duration_ms": 191693,
-      "name": "Gotta Keep Moving",
-      "url": "https://open.spotify.com/track/3SAeAgYnbVqtNQZH9S6j6i"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Lights On The Hill (Remastered)",
         "url": "https://open.spotify.com/album/7x201Ntvhwic5InkKSNRZa"
       },
@@ -567,6 +551,22 @@
       "duration_ms": 190200,
       "name": "Truckin's In My Blood",
       "url": "https://open.spotify.com/track/6Zxga3jpf99AQ6b160pLrI"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Truck Songs",
+        "url": "https://open.spotify.com/album/2tnFvsouoPXa3zILj5YRNd"
+      },
+      "artists": [
+        {
+          "name": "Slim Dusty",
+          "url": "https://open.spotify.com/artist/0M4w6wFmaVFmP4lIndnEU5"
+        }
+      ],
+      "duration_ms": 191693,
+      "name": "Gotta Keep Moving",
+      "url": "https://open.spotify.com/track/3SAeAgYnbVqtNQZH9S6j6i"
     },
     {
       "added_at": null,
@@ -603,22 +603,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "'99",
-        "url": "https://open.spotify.com/album/6PQ7WiRt56ugNzUiqVG7kr"
-      },
-      "artists": [
-        {
-          "name": "Slim Dusty",
-          "url": "https://open.spotify.com/artist/0M4w6wFmaVFmP4lIndnEU5"
-        }
-      ],
-      "duration_ms": 183760,
-      "name": "Abalinga Mail",
-      "url": "https://open.spotify.com/track/24FVM4cb3qAIiCzblZqjQA"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "I'll Take Mine Country Style",
         "url": "https://open.spotify.com/album/1j3QzDW5zZo6o44C6whI59"
       },
@@ -651,6 +635,38 @@
     {
       "added_at": null,
       "album": {
+        "name": "'99",
+        "url": "https://open.spotify.com/album/6PQ7WiRt56ugNzUiqVG7kr"
+      },
+      "artists": [
+        {
+          "name": "Slim Dusty",
+          "url": "https://open.spotify.com/artist/0M4w6wFmaVFmP4lIndnEU5"
+        }
+      ],
+      "duration_ms": 183760,
+      "name": "Abalinga Mail",
+      "url": "https://open.spotify.com/track/24FVM4cb3qAIiCzblZqjQA"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Slim Dusty... Live Into The 90's",
+        "url": "https://open.spotify.com/album/65OyUkNXHW2BncXXQ4AqeB"
+      },
+      "artists": [
+        {
+          "name": "Slim Dusty",
+          "url": "https://open.spotify.com/artist/0M4w6wFmaVFmP4lIndnEU5"
+        }
+      ],
+      "duration_ms": 92000,
+      "name": "I'm Going Back Again To Yarrawonga - Live",
+      "url": "https://open.spotify.com/track/58nl5MF8brCEqggrFbv9nL"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Sittin' On 80 (Remastered)",
         "url": "https://open.spotify.com/album/444une4Wfn6IvXEOrpqi6T"
       },
@@ -679,22 +695,6 @@
       "duration_ms": 266706,
       "name": "And The Band Played Waltzing Matilda - 1992 Digital Remaster",
       "url": "https://open.spotify.com/track/4O9L3Uau0ZbjMhXcnGrJCy"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Slim Dusty... Live Into The 90's",
-        "url": "https://open.spotify.com/album/65OyUkNXHW2BncXXQ4AqeB"
-      },
-      "artists": [
-        {
-          "name": "Slim Dusty",
-          "url": "https://open.spotify.com/artist/0M4w6wFmaVFmP4lIndnEU5"
-        }
-      ],
-      "duration_ms": 92000,
-      "name": "I'm Going Back Again To Yarrawonga - Live",
-      "url": "https://open.spotify.com/track/58nl5MF8brCEqggrFbv9nL"
     },
     {
       "added_at": null,

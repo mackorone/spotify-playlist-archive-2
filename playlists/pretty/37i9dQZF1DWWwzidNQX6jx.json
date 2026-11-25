@@ -1,12 +1,12 @@
 {
   "description": "These songs rocked the 70s. Cover: Meat Loaf",
-  "num_followers": 3150741,
+  "num_followers": 3150745,
   "original_name": "70s Rock Anthems",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAADZav6KqzEF1jlUonLOKAYSQLgbJ",
+  "snapshot_id": "AAAAAExy5H913vdTm0ymQXfemDhblIo5",
   "tracks": [
     {
       "added_at": "2024-06-26 01:48:20",
@@ -171,22 +171,6 @@
     {
       "added_at": "2024-06-26 01:48:20",
       "album": {
-        "name": "Boston",
-        "url": "https://open.spotify.com/album/2QLp07RO6anZHmtcKTEvSC"
-      },
-      "artists": [
-        {
-          "name": "Boston",
-          "url": "https://open.spotify.com/artist/29kkCKKGXheHuoO829FxWK"
-        }
-      ],
-      "duration_ms": 285133,
-      "name": "More Than a Feeling",
-      "url": "https://open.spotify.com/track/1QEEqeFIZktqIpPI4jSVSF"
-    },
-    {
-      "added_at": "2024-06-26 01:48:20",
-      "album": {
         "name": "Toto",
         "url": "https://open.spotify.com/album/1mnu4hYvdwQgZXcNvtJ3D3"
       },
@@ -199,6 +183,22 @@
       "duration_ms": 235552,
       "name": "Hold the Line",
       "url": "https://open.spotify.com/track/4aVuWgvD0X63hcOCnZtNFA"
+    },
+    {
+      "added_at": "2024-06-26 01:48:20",
+      "album": {
+        "name": "Boston",
+        "url": "https://open.spotify.com/album/2QLp07RO6anZHmtcKTEvSC"
+      },
+      "artists": [
+        {
+          "name": "Boston",
+          "url": "https://open.spotify.com/artist/29kkCKKGXheHuoO829FxWK"
+        }
+      ],
+      "duration_ms": 285133,
+      "name": "More Than a Feeling",
+      "url": "https://open.spotify.com/track/1QEEqeFIZktqIpPI4jSVSF"
     },
     {
       "added_at": "2024-06-26 01:48:20",
@@ -799,22 +799,6 @@
     {
       "added_at": "2024-06-26 01:48:20",
       "album": {
-        "name": "Hunky Dory (2015 Remaster)",
-        "url": "https://open.spotify.com/album/6fQElzBNTiEMGdIeY0hy5l"
-      },
-      "artists": [
-        {
-          "name": "David Bowie",
-          "url": "https://open.spotify.com/artist/0oSGxfWSnnOXhD2fKuz2Gy"
-        }
-      ],
-      "duration_ms": 235986,
-      "name": "Life on Mars? - 2015 Remaster",
-      "url": "https://open.spotify.com/track/3ZE3wv8V3w2T2f7nOCjV0N"
-    },
-    {
-      "added_at": "2024-06-26 01:48:20",
-      "album": {
         "name": "But Seriously, Folks...",
         "url": "https://open.spotify.com/album/5yqBTSoJqE9EfApl2Pptva"
       },
@@ -827,6 +811,22 @@
       "duration_ms": 536226,
       "name": "Life's Been Good",
       "url": "https://open.spotify.com/track/2wvMC5EyaaYQwBfiwwY2xE"
+    },
+    {
+      "added_at": "2024-06-26 01:48:20",
+      "album": {
+        "name": "Hunky Dory (2015 Remaster)",
+        "url": "https://open.spotify.com/album/6fQElzBNTiEMGdIeY0hy5l"
+      },
+      "artists": [
+        {
+          "name": "David Bowie",
+          "url": "https://open.spotify.com/artist/0oSGxfWSnnOXhD2fKuz2Gy"
+        }
+      ],
+      "duration_ms": 235986,
+      "name": "Life on Mars? - 2015 Remaster",
+      "url": "https://open.spotify.com/track/3ZE3wv8V3w2T2f7nOCjV0N"
     },
     {
       "added_at": "2024-06-26 01:48:20",
@@ -879,22 +879,6 @@
     {
       "added_at": "2024-06-26 01:48:20",
       "album": {
-        "name": "Hunky Dory (2015 Remaster)",
-        "url": "https://open.spotify.com/album/6fQElzBNTiEMGdIeY0hy5l"
-      },
-      "artists": [
-        {
-          "name": "David Bowie",
-          "url": "https://open.spotify.com/artist/0oSGxfWSnnOXhD2fKuz2Gy"
-        }
-      ],
-      "duration_ms": 217746,
-      "name": "Changes - 2015 Remaster",
-      "url": "https://open.spotify.com/track/0LrwgdLsFaWh9VXIjBRe8t"
-    },
-    {
-      "added_at": "2024-06-26 01:48:20",
-      "album": {
         "name": "The Wall",
         "url": "https://open.spotify.com/album/5Dbax7G8SWrP9xyzkOvy2F"
       },
@@ -907,6 +891,22 @@
       "duration_ms": 191293,
       "name": "Another Brick in the Wall, Pt. 1",
       "url": "https://open.spotify.com/track/7K6xMPtAjTuLPNlJMLf5bS"
+    },
+    {
+      "added_at": "2024-06-26 01:48:20",
+      "album": {
+        "name": "Hunky Dory (2015 Remaster)",
+        "url": "https://open.spotify.com/album/6fQElzBNTiEMGdIeY0hy5l"
+      },
+      "artists": [
+        {
+          "name": "David Bowie",
+          "url": "https://open.spotify.com/artist/0oSGxfWSnnOXhD2fKuz2Gy"
+        }
+      ],
+      "duration_ms": 217746,
+      "name": "Changes - 2015 Remaster",
+      "url": "https://open.spotify.com/track/0LrwgdLsFaWh9VXIjBRe8t"
     },
     {
       "added_at": "2024-06-26 01:48:20",
@@ -959,22 +959,6 @@
     {
       "added_at": "2024-06-26 01:48:20",
       "album": {
-        "name": "Diamond Dogs (2016 Remaster)",
-        "url": "https://open.spotify.com/album/72mfhbEsMtXR6s7v9UhKe3"
-      },
-      "artists": [
-        {
-          "name": "David Bowie",
-          "url": "https://open.spotify.com/artist/0oSGxfWSnnOXhD2fKuz2Gy"
-        }
-      ],
-      "duration_ms": 274746,
-      "name": "Rebel Rebel - 2016 Remaster",
-      "url": "https://open.spotify.com/track/2EC9IJj7g0mN1Q5VrZkiYY"
-    },
-    {
-      "added_at": "2024-06-26 01:48:20",
-      "album": {
         "name": "Fly Like An Eagle",
         "url": "https://open.spotify.com/album/0fjJOLqG3v7vXRYhz2wxPC"
       },
@@ -987,6 +971,22 @@
       "duration_ms": 282693,
       "name": "Fly Like An Eagle",
       "url": "https://open.spotify.com/track/3e0FzZjTXOUtiJGSClOBrI"
+    },
+    {
+      "added_at": "2024-06-26 01:48:20",
+      "album": {
+        "name": "Diamond Dogs (2016 Remaster)",
+        "url": "https://open.spotify.com/album/72mfhbEsMtXR6s7v9UhKe3"
+      },
+      "artists": [
+        {
+          "name": "David Bowie",
+          "url": "https://open.spotify.com/artist/0oSGxfWSnnOXhD2fKuz2Gy"
+        }
+      ],
+      "duration_ms": 274746,
+      "name": "Rebel Rebel - 2016 Remaster",
+      "url": "https://open.spotify.com/track/2EC9IJj7g0mN1Q5VrZkiYY"
     },
     {
       "added_at": "2024-06-26 01:48:20",
@@ -1007,22 +1007,6 @@
     {
       "added_at": "2024-06-26 01:48:20",
       "album": {
-        "name": "Heaven Tonight",
-        "url": "https://open.spotify.com/album/5w20U3G3GyWiPvvDeVzkhN"
-      },
-      "artists": [
-        {
-          "name": "Cheap Trick",
-          "url": "https://open.spotify.com/artist/1LB8qB5BPb3MHQrfkvifXU"
-        }
-      ],
-      "duration_ms": 255968,
-      "name": "Surrender",
-      "url": "https://open.spotify.com/track/2ccUQnjjNWT0rsNnsBpsCA"
-    },
-    {
-      "added_at": "2024-06-26 01:48:20",
-      "album": {
         "name": "Who's Next (Deluxe Edition)",
         "url": "https://open.spotify.com/album/5MqyhhHbT13zsloD3uHhlQ"
       },
@@ -1035,6 +1019,22 @@
       "duration_ms": 511400,
       "name": "Won't Get Fooled Again - Original Album Version",
       "url": "https://open.spotify.com/track/0cJPLFrlV7TTCyPLupHzcH"
+    },
+    {
+      "added_at": "2024-06-26 01:48:20",
+      "album": {
+        "name": "Heaven Tonight",
+        "url": "https://open.spotify.com/album/5w20U3G3GyWiPvvDeVzkhN"
+      },
+      "artists": [
+        {
+          "name": "Cheap Trick",
+          "url": "https://open.spotify.com/artist/1LB8qB5BPb3MHQrfkvifXU"
+        }
+      ],
+      "duration_ms": 255968,
+      "name": "Surrender",
+      "url": "https://open.spotify.com/track/2ccUQnjjNWT0rsNnsBpsCA"
     },
     {
       "added_at": "2024-06-26 01:48:20",
@@ -1087,22 +1087,6 @@
     {
       "added_at": "2024-06-26 01:48:20",
       "album": {
-        "name": "Bat Out Of Hell",
-        "url": "https://open.spotify.com/album/6mvI80w5r78niBmwtu7RF9"
-      },
-      "artists": [
-        {
-          "name": "Meat Loaf",
-          "url": "https://open.spotify.com/artist/7dnB1wSxbYa8CejeVg98hz"
-        }
-      ],
-      "duration_ms": 509315,
-      "name": "Paradise By the Dashboard Light",
-      "url": "https://open.spotify.com/track/2g7gviEeJr6pyxO7G35EWQ"
-    },
-    {
-      "added_at": "2024-06-26 01:48:20",
-      "album": {
         "name": "So Far",
         "url": "https://open.spotify.com/album/5C1NUv7hNWS6n0GBtLetKM"
       },
@@ -1115,6 +1099,22 @@
       "duration_ms": 183733,
       "name": "Ohio",
       "url": "https://open.spotify.com/track/0ToHhkK4qtwEyKOxhQpMbJ"
+    },
+    {
+      "added_at": "2024-06-26 01:48:20",
+      "album": {
+        "name": "Bat Out Of Hell",
+        "url": "https://open.spotify.com/album/6mvI80w5r78niBmwtu7RF9"
+      },
+      "artists": [
+        {
+          "name": "Meat Loaf",
+          "url": "https://open.spotify.com/artist/7dnB1wSxbYa8CejeVg98hz"
+        }
+      ],
+      "duration_ms": 509315,
+      "name": "Paradise By the Dashboard Light",
+      "url": "https://open.spotify.com/track/2g7gviEeJr6pyxO7G35EWQ"
     },
     {
       "added_at": "2024-06-26 01:48:20",
@@ -1183,22 +1183,6 @@
     {
       "added_at": "2024-06-26 01:48:20",
       "album": {
-        "name": "Desolation Boulevard",
-        "url": "https://open.spotify.com/album/3PsFboiPeObjAc6gbQHt54"
-      },
-      "artists": [
-        {
-          "name": "Sweet",
-          "url": "https://open.spotify.com/artist/3JaAGmSTpJK35DqWrDUzBz"
-        }
-      ],
-      "duration_ms": 246573,
-      "name": "Ballroom Blitz",
-      "url": "https://open.spotify.com/track/3Pu3IChaAoa5EjgUBv5F6x"
-    },
-    {
-      "added_at": "2024-06-26 01:48:20",
-      "album": {
         "name": "Naturally",
         "url": "https://open.spotify.com/album/2v8XEhOPoKX7iVWq5mWWBM"
       },
@@ -1211,6 +1195,22 @@
       "duration_ms": 220573,
       "name": "Joy To The World",
       "url": "https://open.spotify.com/track/2ymeOsYijJz09LfKw3yM2x"
+    },
+    {
+      "added_at": "2024-06-26 01:48:20",
+      "album": {
+        "name": "Desolation Boulevard",
+        "url": "https://open.spotify.com/album/3PsFboiPeObjAc6gbQHt54"
+      },
+      "artists": [
+        {
+          "name": "Sweet",
+          "url": "https://open.spotify.com/artist/3JaAGmSTpJK35DqWrDUzBz"
+        }
+      ],
+      "duration_ms": 246573,
+      "name": "Ballroom Blitz",
+      "url": "https://open.spotify.com/track/3Pu3IChaAoa5EjgUBv5F6x"
     },
     {
       "added_at": "2024-06-26 01:48:20",

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1aXwAOtpwvU.md) - [plain]
 
 > Odkryj nowych ulubionych artystów\. Cover:  <a href="spotify:artist:3KL9m4NwBRDjBEcybcgfyh">wane</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 24,109 likes - 131 songs - 6 hr 25 min
+[Spotify](https://open.spotify.com/user/spotify) - 24,112 likes - 131 songs - 6 hr 25 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -45,7 +45,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1aXwAOtpwvU.md) - [plain]
 | 35 | [BESOS](https://open.spotify.com/track/7xgb8DRD74b2UhUUkRtzqv) | [Jan Marczewski](https://open.spotify.com/artist/0JIgW2OFhm0hH8UdCMU5SU), [Hugo Tarres](https://open.spotify.com/artist/6VaYrjshHIPyNBnmVdLdgQ) | [BESOS](https://open.spotify.com/album/5iDoFpdKXCswpu35WTZMjg) | 2:38 |
 | 36 | [poza Tobą nic](https://open.spotify.com/track/4fxmxMlrViwVyolXZJUJ8Z) | [Livka](https://open.spotify.com/artist/0eWYWLizN5us1MOF1rdyh9) | [poza Tobą nic](https://open.spotify.com/album/6NLJMNdUdNY3Mv2jnlxKWv) | 2:53 |
 | 37 | [A2](https://open.spotify.com/track/2Rp3DxWW6buNBK55yJGlDa) | [Carla Fernandes](https://open.spotify.com/artist/2PowY1osU1K9Qa8d1fn0PF) | [A2](https://open.spotify.com/album/1j4NyStUaoif2pPqvC7NYB) | 3:15 |
-| 38 | [MAM TO](https://open.spotify.com/track/0QL7cweJhjP0JGNMgKrpwa) | [maja janowska](https://open.spotify.com/artist/7qAu2kYGjO28g0CJERiQhM), [Koder](https://open.spotify.com/artist/1qJPIWsxxzTulBOb5kFllO), [Deemz](https://open.spotify.com/artist/3gm9b6AeMf2eGQTLashkDt) | [MAM TO](https://open.spotify.com/album/4bJQIeloOH45HRwjWvn7xn) | 2:24 |
+| 38 | [MAM TO](https://open.spotify.com/track/0QL7cweJhjP0JGNMgKrpwa) | [maja janowska](https://open.spotify.com/artist/7qAu2kYGjO28g0CJERiQhM), [Koder](https://open.spotify.com/artist/1qJPIWsxxzTulBOb5kFllO) | [MAM TO](https://open.spotify.com/album/4bJQIeloOH45HRwjWvn7xn) | 2:24 |
 | 39 | [daj mi znak](https://open.spotify.com/track/7qOAHK3XcMHz9YlSopJ107) | [Zalia](https://open.spotify.com/artist/3VKQYnCpM6ofG8QUmlnW6d) | [daj mi znak](https://open.spotify.com/album/5crKBVQ9Tp0yMZJrgDCNG7) | 2:44 |
 | 40 | [Szklane oczy](https://open.spotify.com/track/34ZbBdoFqHbBG069yK9aiq) | [bryska](https://open.spotify.com/artist/5I8Y0U8doFLVCsSY88v4Vh) | [Szklane oczy](https://open.spotify.com/album/75foZ05gIGgmWm3aI57zjO) | 2:45 |
 | 41 | [SO BAD!](https://open.spotify.com/track/4y6B57dTltCg3HxMB8c0Ge) | [Marie](https://open.spotify.com/artist/5o7Atiia4I0WLFuN2qAu6M) | [SO BAD!](https://open.spotify.com/album/0nG9De2yIW4XvXl7TBkZnt) | 2:30 |
@@ -140,4 +140,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1aXwAOtpwvU.md) - [plain]
 | 130 | [nerw](https://open.spotify.com/track/1aAaSTXKjnVA9c0ZsnwbND) | [KIWI](https://open.spotify.com/artist/6VQUyaRqUl5BCTJS0cCEki) | [nerw](https://open.spotify.com/album/59Xgro4RsujClc1AFmwuuF) | 3:46 |
 | 131 | [jest ok](https://open.spotify.com/track/5DigAqqBPxlYVJ2bYJzPWk) | [stickxr](https://open.spotify.com/artist/5RwiBwEEW5dOXGUlEVA0LT) | [xoxo](https://open.spotify.com/album/1fNZT5ZnzRafSraPgJlsDf) | 1:20 |
 
-Snapshot ID: `AAAAAI0NMYlTIcX5aEfIlEhAorIJfuiL`
+Snapshot ID: `AAAAAMWJnZ3ozdyn7nKiFpdkAqsIk56P`

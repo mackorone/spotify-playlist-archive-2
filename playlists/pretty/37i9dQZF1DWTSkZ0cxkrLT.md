@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTSkZ0cxkrLT.md) - [plain]
 
 > Música ideal para tomar el té y relajar.
 
-[Spotify](https://open.spotify.com/user/spotify) - 425,206 likes - 90 songs - 5 hr 11 min
+[Spotify](https://open.spotify.com/user/spotify) - 425,182 likes - 90 songs - 5 hr 11 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -33,8 +33,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTSkZ0cxkrLT.md) - [plain]
 | 23 | [Inoportuna](https://open.spotify.com/track/5GCB9mqJzKN4kDKvmqQ03X) | [Jorge Drexler](https://open.spotify.com/artist/4ssUf5gLb1GBLxi1BhPrVt) | [12 segundos de oscuridad](https://open.spotify.com/album/7CzMD65vBeWb6xRRK9iHgz) | 2:44 |
 | 24 | [A Las Nueve](https://open.spotify.com/track/68cko9zdsKwaxgb98sF36S) | [No Te Va Gustar](https://open.spotify.com/artist/4ZDoy7AWNgQVmX7T0u0B1j) | [Otras Canciones](https://open.spotify.com/album/72SqrtijWJKq6ukitktd1D) | 3:22 |
 | 25 | [Lo que el Aire Quiere Hablar](https://open.spotify.com/track/6zrlZOUsvdhiDTJjhuilnv) | [Máximo Disfrute](https://open.spotify.com/artist/0JAOb3tfbVRRNNDqZiL2Pc) | [El Orden Implicado](https://open.spotify.com/album/0FJfFCQ6mMxMyu7RZLqfxF) | 2:53 |
-| 26 | [La Noche Sin Ti](https://open.spotify.com/track/3o9cQ5wp9QXhKXHAOAESFG) | [AHYRE](https://open.spotify.com/artist/2IucHN96T0BZ3e4mXe9AgP) | [Ahyre](https://open.spotify.com/album/2jJyXMCAAQmgk1WlsFFwAN) | 4:29 |
-| 27 | [siempre te voy a querer](https://open.spotify.com/track/6HVnd5EXfbaLU4YuYElXEe) | [Arroba Nat](https://open.spotify.com/artist/4Srl3qf5e1RfnXi5wBlIL4) | [los días en la sala](https://open.spotify.com/album/6E2TF0rYiJCwIxyLqP61GE) | 2:43 |
+| 26 | [siempre te voy a querer](https://open.spotify.com/track/6HVnd5EXfbaLU4YuYElXEe) | [Arroba Nat](https://open.spotify.com/artist/4Srl3qf5e1RfnXi5wBlIL4) | [los días en la sala](https://open.spotify.com/album/6E2TF0rYiJCwIxyLqP61GE) | 2:43 |
+| 27 | [La Noche Sin Ti](https://open.spotify.com/track/3o9cQ5wp9QXhKXHAOAESFG) | [AHYRE](https://open.spotify.com/artist/2IucHN96T0BZ3e4mXe9AgP) | [Ahyre](https://open.spotify.com/album/2jJyXMCAAQmgk1WlsFFwAN) | 4:29 |
 | 28 | [Ojos Noche \(feat\. Carla Morrison\)](https://open.spotify.com/track/0fl9zrtFxmZEE3sx7RbS7k) | [Elsa y Elmar](https://open.spotify.com/artist/5nKGeITSNCVP76muyOlszy), [Carla Morrison](https://open.spotify.com/artist/0XK6kT7xcZAlcYrNjOgzJe) | [Ojos Noche \(feat\. Carla Morrison\)](https://open.spotify.com/album/5f0AJWM6jB4pzEsC6b0vDV) | 4:14 |
 | 29 | [Bemaste](https://open.spotify.com/track/1caKQ2Nqtr1eoczaB83cUz) | [Tiago PZK](https://open.spotify.com/artist/5Y3MV9DZ0d87NnVm56qSY1) | [Bemaste](https://open.spotify.com/album/0A3QuRFlfoqdw8sIH9C9OO) | 2:24 |
 | 30 | [Todo Estaba Bien](https://open.spotify.com/track/0qRE2t4scDRFsBgBXsQIH9) | [Carlos Sadness](https://open.spotify.com/artist/2LCcy9CZWwZ7Vvykt8IVVq), [Manuel Medrano](https://open.spotify.com/artist/0i5iO6icb7kxg48thi9gBM) | [Tropical Jesus](https://open.spotify.com/album/1hNj4AB6pbahegd5dBYPV7) | 3:08 |
@@ -67,8 +67,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTSkZ0cxkrLT.md) - [plain]
 | 57 | [Susurrito](https://open.spotify.com/track/7btTCfo8fyFOhqFXFdMi7b) | [Feli Colina](https://open.spotify.com/artist/4EmjPNMuvvKSEAyx7ibGrs) | [Feroza](https://open.spotify.com/album/3Ear2Vze1ZV4JDk4ZfWp2A) | 2:58 |
 | 58 | [Cuídame](https://open.spotify.com/track/3gW6YHqQjiSHCncALFvFPE) | [Silvina Moreno](https://open.spotify.com/artist/2wMN1UAgISJA8yQusQL18G) | [Sofá](https://open.spotify.com/album/3qMq7yv06IdD14Q4MkxJD4) | 4:24 |
 | 59 | [Monoambiente en Capital](https://open.spotify.com/track/1prdmkn7pO2S0FJChx0fN4) | [Zoe Gotusso](https://open.spotify.com/artist/3XBw8ImFEo86mEB2dYh0vS), [Nico Cotton](https://open.spotify.com/artist/78hoprvwWi9cDX4KJvpECc) | [Monoambiente en Capital](https://open.spotify.com/album/1HjSFjgizVFIZ9c1aG9VC7) | 3:01 |
-| 60 | [Viaje Tropical \- El lado B](https://open.spotify.com/track/1T6pfCOc803RV2LlRYwojH) | [Sofia Macchi](https://open.spotify.com/artist/4gtaTXIhBK1iyVUAkB2YZu) | [El lado B](https://open.spotify.com/album/0herv01D7VruP9cPQli1xn) | 3:24 |
-| 61 | [Las Cosas Tienen Movimiento](https://open.spotify.com/track/35CG9WjAKJSvUaWRaJr5um) | [Juan Carlos Baglietto](https://open.spotify.com/artist/1Mt6JeVWV9Tvgk8ercp5O9) | [Modelo Para Armar](https://open.spotify.com/album/4mo9qZYKGJK7Nk2vJr5age) | 4:20 |
+| 60 | [Las Cosas Tienen Movimiento](https://open.spotify.com/track/35CG9WjAKJSvUaWRaJr5um) | [Juan Carlos Baglietto](https://open.spotify.com/artist/1Mt6JeVWV9Tvgk8ercp5O9) | [Modelo Para Armar](https://open.spotify.com/album/4mo9qZYKGJK7Nk2vJr5age) | 4:20 |
+| 61 | [Viaje Tropical \- El lado B](https://open.spotify.com/track/1T6pfCOc803RV2LlRYwojH) | [Sofia Macchi](https://open.spotify.com/artist/4gtaTXIhBK1iyVUAkB2YZu) | [El lado B](https://open.spotify.com/album/0herv01D7VruP9cPQli1xn) | 3:24 |
 | 62 | [Inconsciente Colectivo](https://open.spotify.com/track/5RoCO3jikMGLZk3TvGHxhi) | [Fabiana Cantilo](https://open.spotify.com/artist/5R6YR0pasdxlynyq0Abq7x) | [En La Vereda del Sol](https://open.spotify.com/album/6xQTculC8vS7Wi97yE1s3U) | 2:53 |
 | 63 | [Oye Mi Amor](https://open.spotify.com/track/5p1RdRVrH5uXL7xKF2lWby) | [Anabel](https://open.spotify.com/artist/12IF5EUgrWK8dnnlLQaaTx) | [Oye Mi Amor](https://open.spotify.com/album/66PCDbgVKriCpWIEVtP3GY) | 3:15 |
 | 64 | [Ganas](https://open.spotify.com/track/1Sr0zBbzovJTg5yxd41CcQ) | [Zoe Gotusso](https://open.spotify.com/artist/3XBw8ImFEo86mEB2dYh0vS) | [Ganas](https://open.spotify.com/album/7hjSVz7TryKxWe8Y4AHZe0) | 4:14 |
@@ -93,10 +93,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTSkZ0cxkrLT.md) - [plain]
 | 83 | [Lo que elegiste.](https://open.spotify.com/track/55qDpPBtGGoryXEZ3AyUPf) | [Paula Prieto](https://open.spotify.com/artist/03ZdCrkA0RaY3tslOLbSTl) | [\[PAULA\] Compilación VOL 1.](https://open.spotify.com/album/4YFaiAtamHL4yL0TDFRenQ) | 1:06 |
 | 84 | [me hace bien amar\(te\)](https://open.spotify.com/track/6tpri2UVMbpWLpiwvWz4fB) | [LARÓ](https://open.spotify.com/artist/30BfEIsC9RFTPJDIVy43ri) | [me hace bien amar\(te\)](https://open.spotify.com/album/2HAvhKv3XT3yIifmoPCKp2) | 3:43 |
 | 85 | [Por Amor al Arte](https://open.spotify.com/track/2M6gFpCKX6IxkdQZrzi7r6) | [Santi Celli](https://open.spotify.com/artist/3zoMlg6gx6K4NcGE15qtCF), [Abel Pintos](https://open.spotify.com/artist/6HTUcOExehqydqa7C3usAa) | [Por Amor al Arte](https://open.spotify.com/album/5hpbQTlqiYxmrwLn4IYQls) | 2:05 |
-| 86 | [Burn](https://open.spotify.com/track/6NHLDaBJR7QZd7Q8iS8VO0) | [goodtoknow](https://open.spotify.com/artist/4oZUJYnV2dhImBZsagR0pc), [Paula Prieto](https://open.spotify.com/artist/03ZdCrkA0RaY3tslOLbSTl), [Benjamín Walker](https://open.spotify.com/artist/4uqz8sHfvYPHlpHZYyanEK), [Sir Hope](https://open.spotify.com/artist/53TIYA7MKf5c5tgpI4gcEA), [Nano Gillio](https://open.spotify.com/artist/0jHw5SRMONIzy7bMgT8LP0) | [I'LL STAY \(EP\)](https://open.spotify.com/album/3a3VPuqZpU505o0LifvwWt) | 3:45 |
-| 87 | [DÍA DEL AMOR](https://open.spotify.com/track/7B4fViGgWYNzc27j9fyTdU) | [Cami](https://open.spotify.com/artist/3VCrybIJKH7UurbDcZbMmn) | [ANASTASIA](https://open.spotify.com/album/3wbzzUJD8dnfUODIpoCoHO) | 3:02 |
+| 86 | [DÍA DEL AMOR](https://open.spotify.com/track/7B4fViGgWYNzc27j9fyTdU) | [Cami](https://open.spotify.com/artist/3VCrybIJKH7UurbDcZbMmn) | [ANASTASIA](https://open.spotify.com/album/3wbzzUJD8dnfUODIpoCoHO) | 3:02 |
+| 87 | [Burn](https://open.spotify.com/track/6NHLDaBJR7QZd7Q8iS8VO0) | [goodtoknow](https://open.spotify.com/artist/4oZUJYnV2dhImBZsagR0pc), [Paula Prieto](https://open.spotify.com/artist/03ZdCrkA0RaY3tslOLbSTl), [Benjamín Walker](https://open.spotify.com/artist/4uqz8sHfvYPHlpHZYyanEK), [Sir Hope](https://open.spotify.com/artist/53TIYA7MKf5c5tgpI4gcEA), [Nano Gillio](https://open.spotify.com/artist/0jHw5SRMONIzy7bMgT8LP0) | [I'LL STAY \(EP\)](https://open.spotify.com/album/3a3VPuqZpU505o0LifvwWt) | 3:45 |
 | 88 | [Los Paisajes](https://open.spotify.com/track/6EraKvLemUTpusIFpGdPTn) | [Soledad](https://open.spotify.com/artist/0K59Fm1y7s3j498ueS4qzY) | [Natural](https://open.spotify.com/album/6vmXyjSgcNzzi7Zd1ikhvx) | 3:58 |
 | 89 | [Me Entrego](https://open.spotify.com/track/2lft7FPs5Js1tYbwZ99wvc) | [Juan Solo](https://open.spotify.com/artist/033ki1tu7MbVUn1nhuD2yV), [KURT](https://open.spotify.com/artist/4kcnsS1aAB40FMcLD01gmI) | [Me Entrego](https://open.spotify.com/album/2jhUW0bDLjyfORs3KGiuS4) | 3:27 |
 | 90 | [El Amor en Mi Vida](https://open.spotify.com/track/2uBYq9tm9G5UapyQmbeU6K) | [Abel Pintos](https://open.spotify.com/artist/6HTUcOExehqydqa7C3usAa) | [El Amor en Mi Vida](https://open.spotify.com/album/0it2idFNTKDK9DzyxL6vy1) | 3:42 |
 
-Snapshot ID: `AAAAAOKcS2UtgPT413xUuGm/jwMDsGZq`
+Snapshot ID: `AAAAAIH+iNrla3MwpLrUijW7L7bug4Fq`

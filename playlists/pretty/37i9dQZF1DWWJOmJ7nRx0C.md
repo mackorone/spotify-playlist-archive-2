@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWJOmJ7nRx0C.md) - [plain]
 
 > Rock songs you need to know\. Turn it  ⬆️ Cover: Sleep Theory
 
-[Spotify](https://open.spotify.com/user/spotify) - 950,328 likes - 100 songs - 6 hr 3 min
+[Spotify](https://open.spotify.com/user/spotify) - 950,280 likes - 100 songs - 6 hr 3 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWJOmJ7nRx0C.md) - [plain]
 | 99 | [blueprints](https://open.spotify.com/track/2IcdRdXh3E7E50rehZmAP5) | [unpeople](https://open.spotify.com/artist/515JoZzxBrdm0TxOhHa2n2) | [blueprints](https://open.spotify.com/album/4hmI2HMwNymNWg7wUAlaUx) | 3:48 |
 | 100 | [Bug In The Cake](https://open.spotify.com/track/0eqW8uWYZD19N46werkSTF) | [Violet Grohl](https://open.spotify.com/artist/3PbVZAe3y6cQKBDdG2YASB) | [Be Sweet To Me](https://open.spotify.com/album/0x4K7avY6nlNEppKxJg6fu) | 2:48 |
 
-Snapshot ID: `AAAAAJkd2LjZBOTu+WsKqj+UE9Pvdrsn`
+Snapshot ID: `AAAAAFtuWPjBvlbFBPJDU69qNYZd9Mc2`

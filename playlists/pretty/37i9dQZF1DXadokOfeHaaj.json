@@ -1,12 +1,12 @@
 {
   "description": "The best new electronic indie music. Cover: FKJ",
-  "num_followers": 44458,
+  "num_followers": 44465,
   "original_name": "Indie Electronic ",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAGVKsL7r8Y8q5h5thXJbVjlRRZb4",
+  "snapshot_id": "AAAAAEMZeYmeS/4lmhmSz1J+STPICu2D",
   "tracks": [
     {
       "added_at": "2026-11-04 09:14:06",
@@ -591,6 +591,22 @@
     {
       "added_at": "2026-11-04 09:14:06",
       "album": {
+        "name": "if you wanna party, come over to my house",
+        "url": "https://open.spotify.com/album/6idF8Ss7GdiB5L0jfMs4wT"
+      },
+      "artists": [
+        {
+          "name": "Fcukers",
+          "url": "https://open.spotify.com/artist/3UtzOHYm3lQALkKzVD4wyO"
+        }
+      ],
+      "duration_ms": 171613,
+      "name": "if you wanna party, come over to my house",
+      "url": "https://open.spotify.com/track/5rBBVYaOqtFS1Dx6MVpr5O"
+    },
+    {
+      "added_at": "2026-11-04 09:14:06",
+      "album": {
         "name": "Party Time (feat. Aatig)",
         "url": "https://open.spotify.com/album/49PLdkqAKVdfy608nqQchl"
       },
@@ -611,22 +627,6 @@
       "duration_ms": 199072,
       "name": "Party Time (feat. Aatig)",
       "url": "https://open.spotify.com/track/5yYY6UIqKUIgv1gFnlIokW"
-    },
-    {
-      "added_at": "2026-11-04 09:14:06",
-      "album": {
-        "name": "if you wanna party, come over to my house",
-        "url": "https://open.spotify.com/album/6idF8Ss7GdiB5L0jfMs4wT"
-      },
-      "artists": [
-        {
-          "name": "Fcukers",
-          "url": "https://open.spotify.com/artist/3UtzOHYm3lQALkKzVD4wyO"
-        }
-      ],
-      "duration_ms": 171613,
-      "name": "if you wanna party, come over to my house",
-      "url": "https://open.spotify.com/track/5rBBVYaOqtFS1Dx6MVpr5O"
     },
     {
       "added_at": "2026-11-04 09:14:06",
@@ -859,6 +859,26 @@
     {
       "added_at": "2026-11-04 09:14:06",
       "album": {
+        "name": "Reckoning",
+        "url": "https://open.spotify.com/album/1JQ8cmqQi2Z8Fzuri3Hnlq"
+      },
+      "artists": [
+        {
+          "name": "Jon Hopkins",
+          "url": "https://open.spotify.com/artist/7yxi31szvlbwvKq9dYOmFI"
+        },
+        {
+          "name": "Imogen Heap",
+          "url": "https://open.spotify.com/artist/6Xb4ezwoAQC4516kI89nWz"
+        }
+      ],
+      "duration_ms": 349218,
+      "name": "Reckoning",
+      "url": "https://open.spotify.com/track/0rpc7hLrZi8n1aLVwavwrp"
+    },
+    {
+      "added_at": "2026-11-04 09:14:06",
+      "album": {
         "name": "Far Away (feat. John Glacier & Khadija Al Hanafi)",
         "url": "https://open.spotify.com/album/2A54dXXDuhdZSXfQPQf3rH"
       },
@@ -883,26 +903,6 @@
     {
       "added_at": "2026-11-04 09:14:06",
       "album": {
-        "name": "Reckoning",
-        "url": "https://open.spotify.com/album/1JQ8cmqQi2Z8Fzuri3Hnlq"
-      },
-      "artists": [
-        {
-          "name": "Jon Hopkins",
-          "url": "https://open.spotify.com/artist/7yxi31szvlbwvKq9dYOmFI"
-        },
-        {
-          "name": "Imogen Heap",
-          "url": "https://open.spotify.com/artist/6Xb4ezwoAQC4516kI89nWz"
-        }
-      ],
-      "duration_ms": 349218,
-      "name": "Reckoning",
-      "url": "https://open.spotify.com/track/0rpc7hLrZi8n1aLVwavwrp"
-    },
-    {
-      "added_at": "2026-11-04 09:14:06",
-      "album": {
         "name": "I LUV IT",
         "url": "https://open.spotify.com/album/5oEIprEr2NPtmVt60Ajahw"
       },
@@ -915,42 +915,6 @@
       "duration_ms": 166875,
       "name": "I LUV IT",
       "url": "https://open.spotify.com/track/4uhOF6xbnELupVcp4wqnfT"
-    },
-    {
-      "added_at": "2026-11-04 09:14:06",
-      "album": {
-        "name": "Illusion",
-        "url": "https://open.spotify.com/album/1QBnnhNimYbsPtwSODQxuo"
-      },
-      "artists": [
-        {
-          "name": "DJ BORING",
-          "url": "https://open.spotify.com/artist/3MkIU5jhXTMK9pYQTRVI6p"
-        },
-        {
-          "name": "TEED",
-          "url": "https://open.spotify.com/artist/0g3NiCRhEv7M4SEDMrpItN"
-        }
-      ],
-      "duration_ms": 165454,
-      "name": "Illusion",
-      "url": "https://open.spotify.com/track/3oowIGctmBAAOLGi04Ysvo"
-    },
-    {
-      "added_at": "2026-11-04 09:14:06",
-      "album": {
-        "name": "pull u right thru",
-        "url": "https://open.spotify.com/album/0e51IHdwpZXCx5qEXEbodB"
-      },
-      "artists": [
-        {
-          "name": "ATRIP",
-          "url": "https://open.spotify.com/artist/4fu0Er7pG6kZZa7Awf3NMI"
-        }
-      ],
-      "duration_ms": 217864,
-      "name": "pull u right thru",
-      "url": "https://open.spotify.com/track/75bDCmZPGwtOI4DAbpNRV8"
     },
     {
       "added_at": "2026-11-04 09:14:06",
@@ -971,6 +935,22 @@
     {
       "added_at": "2026-11-04 09:14:06",
       "album": {
+        "name": "pull u right thru",
+        "url": "https://open.spotify.com/album/0e51IHdwpZXCx5qEXEbodB"
+      },
+      "artists": [
+        {
+          "name": "ATRIP",
+          "url": "https://open.spotify.com/artist/4fu0Er7pG6kZZa7Awf3NMI"
+        }
+      ],
+      "duration_ms": 217864,
+      "name": "pull u right thru",
+      "url": "https://open.spotify.com/track/75bDCmZPGwtOI4DAbpNRV8"
+    },
+    {
+      "added_at": "2026-11-04 09:14:06",
+      "album": {
         "name": "Bad Bara",
         "url": "https://open.spotify.com/album/1nkgMtnzvbBSt0BWxFYAlg"
       },
@@ -983,6 +963,26 @@
       "duration_ms": 245571,
       "name": "Bad Bara",
       "url": "https://open.spotify.com/track/4NVV7bdI8LYB2PG2uqrxu6"
+    },
+    {
+      "added_at": "2026-11-04 09:14:06",
+      "album": {
+        "name": "Illusion",
+        "url": "https://open.spotify.com/album/1QBnnhNimYbsPtwSODQxuo"
+      },
+      "artists": [
+        {
+          "name": "DJ BORING",
+          "url": "https://open.spotify.com/artist/3MkIU5jhXTMK9pYQTRVI6p"
+        },
+        {
+          "name": "TEED",
+          "url": "https://open.spotify.com/artist/0g3NiCRhEv7M4SEDMrpItN"
+        }
+      ],
+      "duration_ms": 165454,
+      "name": "Illusion",
+      "url": "https://open.spotify.com/track/3oowIGctmBAAOLGi04Ysvo"
     },
     {
       "added_at": "2026-11-04 09:14:06",
@@ -1023,6 +1023,22 @@
     {
       "added_at": "2026-11-04 09:14:06",
       "album": {
+        "name": "Elation",
+        "url": "https://open.spotify.com/album/4QRm9lRAF72XSD7TyDKye3"
+      },
+      "artists": [
+        {
+          "name": "Two Another",
+          "url": "https://open.spotify.com/artist/35RvGPQ1OxbEZknWyiaAcs"
+        }
+      ],
+      "duration_ms": 212500,
+      "name": "Elation",
+      "url": "https://open.spotify.com/track/5moqdrtdKL64nHKhYZ7IKD"
+    },
+    {
+      "added_at": "2026-11-04 09:14:06",
+      "album": {
         "name": "Center Peace",
         "url": "https://open.spotify.com/album/7eiuDmrXMfHJWqKyil5sEf"
       },
@@ -1055,22 +1071,6 @@
       "duration_ms": 218506,
       "name": "TripoWah",
       "url": "https://open.spotify.com/track/7BzWIpEbBKKMBPez33o3jU"
-    },
-    {
-      "added_at": "2026-11-04 09:14:06",
-      "album": {
-        "name": "Elation",
-        "url": "https://open.spotify.com/album/4QRm9lRAF72XSD7TyDKye3"
-      },
-      "artists": [
-        {
-          "name": "Two Another",
-          "url": "https://open.spotify.com/artist/35RvGPQ1OxbEZknWyiaAcs"
-        }
-      ],
-      "duration_ms": 212500,
-      "name": "Elation",
-      "url": "https://open.spotify.com/track/5moqdrtdKL64nHKhYZ7IKD"
     },
     {
       "added_at": "2026-11-04 09:14:06",
@@ -1115,6 +1115,22 @@
     {
       "added_at": "2026-11-04 09:14:06",
       "album": {
+        "name": "retrograde",
+        "url": "https://open.spotify.com/album/0WDRptbH0eIqZ0Fzx1EhQE"
+      },
+      "artists": [
+        {
+          "name": "Sonnee",
+          "url": "https://open.spotify.com/artist/2QmItUyhRFr5NBHFTVOBxr"
+        }
+      ],
+      "duration_ms": 175257,
+      "name": "retrograde",
+      "url": "https://open.spotify.com/track/1Snept69jtJ8foNZsUrmQm"
+    },
+    {
+      "added_at": "2026-11-04 09:14:06",
+      "album": {
         "name": "Rise & Shine",
         "url": "https://open.spotify.com/album/7DwqmyRo2dJeIpoQxE5cjo"
       },
@@ -1151,22 +1167,6 @@
       "duration_ms": 164611,
       "name": "2Love (feat. FAUZIA)",
       "url": "https://open.spotify.com/track/0aTchi7o5BEChVOmdAHrNW"
-    },
-    {
-      "added_at": "2026-11-04 09:14:06",
-      "album": {
-        "name": "retrograde",
-        "url": "https://open.spotify.com/album/0WDRptbH0eIqZ0Fzx1EhQE"
-      },
-      "artists": [
-        {
-          "name": "Sonnee",
-          "url": "https://open.spotify.com/artist/2QmItUyhRFr5NBHFTVOBxr"
-        }
-      ],
-      "duration_ms": 175257,
-      "name": "retrograde",
-      "url": "https://open.spotify.com/track/1Snept69jtJ8foNZsUrmQm"
     },
     {
       "added_at": "2026-11-04 09:14:06",

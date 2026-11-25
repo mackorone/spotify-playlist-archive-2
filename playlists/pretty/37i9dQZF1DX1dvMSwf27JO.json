@@ -1,12 +1,12 @@
 {
   "description": "music to get fly to ft. Erykah Badu",
-  "num_followers": 551894,
+  "num_followers": 551860,
   "original_name": "'fit check",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAKSr+IKO3sMyL0HSK5UNrmFYp7aT",
+  "snapshot_id": "AAAAAMjWkHfJ+z/2JklYkQFprTVxIxYC",
   "tracks": [
     {
       "added_at": "2024-08-23 04:00:00",
@@ -475,22 +475,6 @@
     {
       "added_at": "2024-08-23 04:00:00",
       "album": {
-        "name": "FORWARD",
-        "url": "https://open.spotify.com/album/367frJ4GG9UMlXlMrVanYL"
-      },
-      "artists": [
-        {
-          "name": "Jordan Ward",
-          "url": "https://open.spotify.com/artist/3DGlTwdM5Dim9XQipb3jMf"
-        }
-      ],
-      "duration_ms": 158133,
-      "name": "FAMJAM4000",
-      "url": "https://open.spotify.com/track/08vlprFBmwh9TQnjXUtZDG"
-    },
-    {
-      "added_at": "2024-08-23 04:00:00",
-      "album": {
         "name": "HYPNOS",
         "url": "https://open.spotify.com/album/5Y4hUd0FPvCed5lu7loMXZ"
       },
@@ -507,6 +491,22 @@
       "duration_ms": 227000,
       "name": "Skin Tight (feat. Steve Lacy)",
       "url": "https://open.spotify.com/track/4KVSdwwJ67JHu5s9vIA0zi"
+    },
+    {
+      "added_at": "2024-08-23 04:00:00",
+      "album": {
+        "name": "FORWARD",
+        "url": "https://open.spotify.com/album/367frJ4GG9UMlXlMrVanYL"
+      },
+      "artists": [
+        {
+          "name": "Jordan Ward",
+          "url": "https://open.spotify.com/artist/3DGlTwdM5Dim9XQipb3jMf"
+        }
+      ],
+      "duration_ms": 158133,
+      "name": "FAMJAM4000",
+      "url": "https://open.spotify.com/track/08vlprFBmwh9TQnjXUtZDG"
     },
     {
       "added_at": "2024-08-23 04:00:00",
@@ -583,22 +583,6 @@
     {
       "added_at": "2024-08-23 04:00:00",
       "album": {
-        "name": "I Know",
-        "url": "https://open.spotify.com/album/6MxC0Icp2DZi0jbzvD4M8Z"
-      },
-      "artists": [
-        {
-          "name": "Kanii",
-          "url": "https://open.spotify.com/artist/1S82w4yw9TYIHZ889mPPaW"
-        }
-      ],
-      "duration_ms": 152593,
-      "name": "I Know",
-      "url": "https://open.spotify.com/track/2RkMSIqUdveO3p8KVpYBYI"
-    },
-    {
-      "added_at": "2024-08-23 04:00:00",
-      "album": {
         "name": "Biking (Solo)",
         "url": "https://open.spotify.com/album/46H4UzFHMLnGgpyrj9HpKr"
       },
@@ -611,6 +595,22 @@
       "duration_ms": 212494,
       "name": "Biking (Solo)",
       "url": "https://open.spotify.com/track/6gtNiLJNLBcV0P6Juenstp"
+    },
+    {
+      "added_at": "2024-08-23 04:00:00",
+      "album": {
+        "name": "I Know",
+        "url": "https://open.spotify.com/album/6MxC0Icp2DZi0jbzvD4M8Z"
+      },
+      "artists": [
+        {
+          "name": "Kanii",
+          "url": "https://open.spotify.com/artist/1S82w4yw9TYIHZ889mPPaW"
+        }
+      ],
+      "duration_ms": 152593,
+      "name": "I Know",
+      "url": "https://open.spotify.com/track/2RkMSIqUdveO3p8KVpYBYI"
     },
     {
       "added_at": "2024-08-23 04:00:00",
@@ -1079,18 +1079,18 @@
     {
       "added_at": "2024-08-23 04:00:00",
       "album": {
-        "name": "EXTC",
-        "url": "https://open.spotify.com/album/5U3qHK1s6FljIZNrNCFyk1"
+        "name": "Dog Daze",
+        "url": "https://open.spotify.com/album/0APqibgHREHUQyPXOqVzBa"
       },
       "artists": [
         {
-          "name": "greek",
-          "url": "https://open.spotify.com/artist/23FgP9gxRT6QMcRhsV71kY"
+          "name": "Cruza",
+          "url": "https://open.spotify.com/artist/7zxS4o4zmwxJNe5UvC2Fx5"
         }
       ],
-      "duration_ms": 235801,
-      "name": "hmu",
-      "url": "https://open.spotify.com/track/4fC8mW8ZFQanmSHq30mgWz"
+      "duration_ms": 148058,
+      "name": "Indeed",
+      "url": "https://open.spotify.com/track/1jASJWOio1y6HX9noE7FWi"
     },
     {
       "added_at": "2024-08-23 04:00:00",
@@ -1115,34 +1115,18 @@
     {
       "added_at": "2024-08-23 04:00:00",
       "album": {
-        "name": "Dog Daze",
-        "url": "https://open.spotify.com/album/0APqibgHREHUQyPXOqVzBa"
+        "name": "EXTC",
+        "url": "https://open.spotify.com/album/5U3qHK1s6FljIZNrNCFyk1"
       },
       "artists": [
         {
-          "name": "Cruza",
-          "url": "https://open.spotify.com/artist/7zxS4o4zmwxJNe5UvC2Fx5"
+          "name": "greek",
+          "url": "https://open.spotify.com/artist/23FgP9gxRT6QMcRhsV71kY"
         }
       ],
-      "duration_ms": 148058,
-      "name": "Indeed",
-      "url": "https://open.spotify.com/track/1jASJWOio1y6HX9noE7FWi"
-    },
-    {
-      "added_at": "2024-08-23 04:00:00",
-      "album": {
-        "name": "Far Rockaway",
-        "url": "https://open.spotify.com/album/75lW5iDCy7Cr8IMRCHq7L0"
-      },
-      "artists": [
-        {
-          "name": "KAMAUU",
-          "url": "https://open.spotify.com/artist/3IAQ6JspwRCPY06WXnaguc"
-        }
-      ],
-      "duration_ms": 142566,
-      "name": "Far Rockaway",
-      "url": "https://open.spotify.com/track/2AcEZtXsn6en6Dh9CptAtQ"
+      "duration_ms": 235801,
+      "name": "hmu",
+      "url": "https://open.spotify.com/track/4fC8mW8ZFQanmSHq30mgWz"
     },
     {
       "added_at": "2024-08-23 04:00:00",
@@ -1159,6 +1143,22 @@
       "duration_ms": 289400,
       "name": "Crystalfilm",
       "url": "https://open.spotify.com/track/5bBrbeCtAntjU0SOUXnIC8"
+    },
+    {
+      "added_at": "2024-08-23 04:00:00",
+      "album": {
+        "name": "Far Rockaway",
+        "url": "https://open.spotify.com/album/75lW5iDCy7Cr8IMRCHq7L0"
+      },
+      "artists": [
+        {
+          "name": "KAMAUU",
+          "url": "https://open.spotify.com/artist/3IAQ6JspwRCPY06WXnaguc"
+        }
+      ],
+      "duration_ms": 142566,
+      "name": "Far Rockaway",
+      "url": "https://open.spotify.com/track/2AcEZtXsn6en6Dh9CptAtQ"
     },
     {
       "added_at": "2024-08-23 04:00:00",
@@ -1487,22 +1487,6 @@
     {
       "added_at": "2024-08-23 04:00:00",
       "album": {
-        "name": "Mr Valentine",
-        "url": "https://open.spotify.com/album/2TuYvh4A25VRWjqxnC4sf0"
-      },
-      "artists": [
-        {
-          "name": "YAZ",
-          "url": "https://open.spotify.com/artist/6VvnLfGL8XDQomLEa91WPk"
-        }
-      ],
-      "duration_ms": 157875,
-      "name": "Mr Valentine",
-      "url": "https://open.spotify.com/track/2E51gp6rrOPtfvmrk6wIL5"
-    },
-    {
-      "added_at": "2024-08-23 04:00:00",
-      "album": {
         "name": "Star Girl",
         "url": "https://open.spotify.com/album/3njJmSyA76HMuYzDRBOYYW"
       },
@@ -1515,6 +1499,22 @@
       "duration_ms": 180000,
       "name": "Star Girl",
       "url": "https://open.spotify.com/track/15iOxEc0Zvnn0wMbK2uhPc"
+    },
+    {
+      "added_at": "2024-08-23 04:00:00",
+      "album": {
+        "name": "Mr Valentine",
+        "url": "https://open.spotify.com/album/2TuYvh4A25VRWjqxnC4sf0"
+      },
+      "artists": [
+        {
+          "name": "YAZ",
+          "url": "https://open.spotify.com/artist/6VvnLfGL8XDQomLEa91WPk"
+        }
+      ],
+      "duration_ms": 157875,
+      "name": "Mr Valentine",
+      "url": "https://open.spotify.com/track/2E51gp6rrOPtfvmrk6wIL5"
     },
     {
       "added_at": "2024-08-23 04:00:00",

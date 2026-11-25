@@ -1,12 +1,12 @@
 {
   "description": "Keep calm and enjoy this musical cafecito.",
-  "num_followers": 635671,
+  "num_followers": 635657,
   "original_name": "Caf\u00e9 con Leche",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAJHxX6fQD0l2k3uXJrtdhrMWqGYk",
+  "snapshot_id": "AAAAAKBBMc4YgU1Tj966gPWwcynGdKys",
   "tracks": [
     {
       "added_at": "2026-11-19 16:19:25",
@@ -291,22 +291,6 @@
     {
       "added_at": "2026-11-19 16:19:25",
       "album": {
-        "name": "iLevitable",
-        "url": "https://open.spotify.com/album/0gHFIMoIvLqYw13PtRd2ky"
-      },
-      "artists": [
-        {
-          "name": "iLe",
-          "url": "https://open.spotify.com/artist/1CztIa6fCQ0WmVPidXuwSs"
-        }
-      ],
-      "duration_ms": 251039,
-      "name": "Te Quiero Con Bugal\u00fa",
-      "url": "https://open.spotify.com/track/0uRr2EBqlCu2CLa8LmQc2c"
-    },
-    {
-      "added_at": "2026-11-19 16:19:25",
-      "album": {
         "name": "barquito (bonus track)",
         "url": "https://open.spotify.com/album/3szw5BHAAHGTkYsDoK75k0"
       },
@@ -339,6 +323,22 @@
       "duration_ms": 233760,
       "name": "Todas Juntas (feat. Vicente Garc\u00eda)",
       "url": "https://open.spotify.com/track/2I5BjOL9xpobbem28XWQxD"
+    },
+    {
+      "added_at": "2026-11-19 16:19:25",
+      "album": {
+        "name": "iLevitable",
+        "url": "https://open.spotify.com/album/0gHFIMoIvLqYw13PtRd2ky"
+      },
+      "artists": [
+        {
+          "name": "iLe",
+          "url": "https://open.spotify.com/artist/1CztIa6fCQ0WmVPidXuwSs"
+        }
+      ],
+      "duration_ms": 251039,
+      "name": "Te Quiero Con Bugal\u00fa",
+      "url": "https://open.spotify.com/track/0uRr2EBqlCu2CLa8LmQc2c"
     },
     {
       "added_at": "2026-11-19 16:19:25",
@@ -635,26 +635,6 @@
     {
       "added_at": "2026-11-19 16:19:25",
       "album": {
-        "name": "Preso (Grabado en ONErpm Studios)",
-        "url": "https://open.spotify.com/album/7zeQVlK0bClZRzg7pc0bRt"
-      },
-      "artists": [
-        {
-          "name": "Nora Gonz\u00e1lez",
-          "url": "https://open.spotify.com/artist/0BVCyIztXUUpw2Ek7REmd9"
-        },
-        {
-          "name": "Los Rumberos",
-          "url": "https://open.spotify.com/artist/05k3uSz8dyKtbllIY988Ip"
-        }
-      ],
-      "duration_ms": 175000,
-      "name": "Preso (Grabado en ONErpm Studios)",
-      "url": "https://open.spotify.com/track/6CGN4Qx3KC3sFROIqXpKdS"
-    },
-    {
-      "added_at": "2026-11-19 16:19:25",
-      "album": {
         "name": "Qu\u00e9mame",
         "url": "https://open.spotify.com/album/0kAh4D7msjeaAh3wEUnEjL"
       },
@@ -675,6 +655,22 @@
     {
       "added_at": "2026-11-19 16:19:25",
       "album": {
+        "name": "Dimensi\u00f3n Caribe",
+        "url": "https://open.spotify.com/album/1zsckcApfP5i2PGcGbJttW"
+      },
+      "artists": [
+        {
+          "name": "Okills",
+          "url": "https://open.spotify.com/artist/5byIHYV7DDUKtHPAMyf3lA"
+        }
+      ],
+      "duration_ms": 202173,
+      "name": "Caf\u00e9 Con Chocolate",
+      "url": "https://open.spotify.com/track/5oI5l1FUvJqKCbZTYTKWII"
+    },
+    {
+      "added_at": "2026-11-19 16:19:25",
+      "album": {
         "name": "Conc\u00e9ntrica Canci\u00f3n",
         "url": "https://open.spotify.com/album/4LepOoTd1jPdGdouTPdiYS"
       },
@@ -691,18 +687,22 @@
     {
       "added_at": "2026-11-19 16:19:25",
       "album": {
-        "name": "Dimensi\u00f3n Caribe",
-        "url": "https://open.spotify.com/album/1zsckcApfP5i2PGcGbJttW"
+        "name": "Preso (Grabado en ONErpm Studios)",
+        "url": "https://open.spotify.com/album/7zeQVlK0bClZRzg7pc0bRt"
       },
       "artists": [
         {
-          "name": "Okills",
-          "url": "https://open.spotify.com/artist/5byIHYV7DDUKtHPAMyf3lA"
+          "name": "Nora Gonz\u00e1lez",
+          "url": "https://open.spotify.com/artist/0BVCyIztXUUpw2Ek7REmd9"
+        },
+        {
+          "name": "Los Rumberos",
+          "url": "https://open.spotify.com/artist/05k3uSz8dyKtbllIY988Ip"
         }
       ],
-      "duration_ms": 202173,
-      "name": "Caf\u00e9 Con Chocolate",
-      "url": "https://open.spotify.com/track/5oI5l1FUvJqKCbZTYTKWII"
+      "duration_ms": 175000,
+      "name": "Preso (Grabado en ONErpm Studios)",
+      "url": "https://open.spotify.com/track/6CGN4Qx3KC3sFROIqXpKdS"
     },
     {
       "added_at": "2026-11-19 16:19:25",
@@ -827,22 +827,6 @@
     {
       "added_at": "2026-11-19 16:19:25",
       "album": {
-        "name": "L\u00ednea Recta",
-        "url": "https://open.spotify.com/album/19Gt3qUgfakD1rVw82iyzL"
-      },
-      "artists": [
-        {
-          "name": "Vale",
-          "url": "https://open.spotify.com/artist/22p8vOZwMABvl5qt2nZHWD"
-        }
-      ],
-      "duration_ms": 182186,
-      "name": "Para Verte",
-      "url": "https://open.spotify.com/track/1ck68b7U7AUPEefAfQBWiO"
-    },
-    {
-      "added_at": "2026-11-19 16:19:25",
-      "album": {
         "name": "Por qu\u00e9 Ser\u00e1 (feat. La Tania & Yerai Cort\u00e9s)",
         "url": "https://open.spotify.com/album/24xWSIdWaIWJHnMfgYVqaR"
       },
@@ -867,6 +851,22 @@
     {
       "added_at": "2026-11-19 16:19:25",
       "album": {
+        "name": "L\u00ednea Recta",
+        "url": "https://open.spotify.com/album/19Gt3qUgfakD1rVw82iyzL"
+      },
+      "artists": [
+        {
+          "name": "Vale",
+          "url": "https://open.spotify.com/artist/22p8vOZwMABvl5qt2nZHWD"
+        }
+      ],
+      "duration_ms": 182186,
+      "name": "Para Verte",
+      "url": "https://open.spotify.com/track/1ck68b7U7AUPEefAfQBWiO"
+    },
+    {
+      "added_at": "2026-11-19 16:19:25",
+      "album": {
         "name": "Epitafio",
         "url": "https://open.spotify.com/album/7B7Sdq7h3TwFq5TTWyy4AK"
       },
@@ -879,6 +879,22 @@
       "duration_ms": 157120,
       "name": "Epitafio",
       "url": "https://open.spotify.com/track/4k0MEDp6V71N0sbGbSiGwk"
+    },
+    {
+      "added_at": "2026-11-19 16:19:25",
+      "album": {
+        "name": "D\u00e9jame as\u00ed",
+        "url": "https://open.spotify.com/album/5Df7GhdZJ2DpTC7qil6pex"
+      },
+      "artists": [
+        {
+          "name": "Mar\u00e9h",
+          "url": "https://open.spotify.com/artist/2SIZkgqao1WVQAuliN0PN4"
+        }
+      ],
+      "duration_ms": 250750,
+      "name": "D\u00e9jame as\u00ed",
+      "url": "https://open.spotify.com/track/31qfi6YIDxdoZT93DKkbP5"
     },
     {
       "added_at": "2026-11-19 16:19:25",
@@ -899,22 +915,6 @@
       "duration_ms": 238000,
       "name": "Eterno Verano",
       "url": "https://open.spotify.com/track/1LKZ4TNbzvhXypk8XSEVOR"
-    },
-    {
-      "added_at": "2026-11-19 16:19:25",
-      "album": {
-        "name": "D\u00e9jame as\u00ed",
-        "url": "https://open.spotify.com/album/5Df7GhdZJ2DpTC7qil6pex"
-      },
-      "artists": [
-        {
-          "name": "Mar\u00e9h",
-          "url": "https://open.spotify.com/artist/2SIZkgqao1WVQAuliN0PN4"
-        }
-      ],
-      "duration_ms": 250750,
-      "name": "D\u00e9jame as\u00ed",
-      "url": "https://open.spotify.com/track/31qfi6YIDxdoZT93DKkbP5"
     },
     {
       "added_at": "2026-11-19 16:19:25",
@@ -967,26 +967,6 @@
     {
       "added_at": "2026-11-19 16:19:25",
       "album": {
-        "name": "En Otra Vida",
-        "url": "https://open.spotify.com/album/3MAdfRaNymHqVYoylkmsKD"
-      },
-      "artists": [
-        {
-          "name": "Nella",
-          "url": "https://open.spotify.com/artist/6hgiVWraSMs9mbUrhPq8Oh"
-        },
-        {
-          "name": "Paula Arenas",
-          "url": "https://open.spotify.com/artist/4ay2pQwnYqa44OAnWCGix2"
-        }
-      ],
-      "duration_ms": 222000,
-      "name": "Como la Cigarra",
-      "url": "https://open.spotify.com/track/6EPT7OQS6A3w0T4LDXqpKp"
-    },
-    {
-      "added_at": "2026-11-19 16:19:25",
-      "album": {
         "name": "Juan de Dios",
         "url": "https://open.spotify.com/album/753t5Yiwkv1Mg89H4IolDm"
       },
@@ -1007,6 +987,26 @@
     {
       "added_at": "2026-11-19 16:19:25",
       "album": {
+        "name": "En Otra Vida",
+        "url": "https://open.spotify.com/album/3MAdfRaNymHqVYoylkmsKD"
+      },
+      "artists": [
+        {
+          "name": "Nella",
+          "url": "https://open.spotify.com/artist/6hgiVWraSMs9mbUrhPq8Oh"
+        },
+        {
+          "name": "Paula Arenas",
+          "url": "https://open.spotify.com/artist/4ay2pQwnYqa44OAnWCGix2"
+        }
+      ],
+      "duration_ms": 222000,
+      "name": "Como la Cigarra",
+      "url": "https://open.spotify.com/track/6EPT7OQS6A3w0T4LDXqpKp"
+    },
+    {
+      "added_at": "2026-11-19 16:19:25",
+      "album": {
         "name": "2 MANOS 1 MUNDO",
         "url": "https://open.spotify.com/album/4hMqeZaxdYC4GxMl5vzylA"
       },
@@ -1023,30 +1023,6 @@
       "duration_ms": 176000,
       "name": "DEL\u00cdRIO",
       "url": "https://open.spotify.com/track/21X0KPbq6zvI2I8iMIJgEw"
-    },
-    {
-      "added_at": "2026-11-19 16:19:25",
-      "album": {
-        "name": "pa' que sue\u00f1es",
-        "url": "https://open.spotify.com/album/1bGXKrzpyFq1TVzNOr6Fbq"
-      },
-      "artists": [
-        {
-          "name": "Yorghaki",
-          "url": "https://open.spotify.com/artist/4eq1q0o9XPyNq9RG3fNDD1"
-        },
-        {
-          "name": "Danny Schiller",
-          "url": "https://open.spotify.com/artist/6Jrjs10cg0Sf0uMzLjfraC"
-        },
-        {
-          "name": "Gus",
-          "url": "https://open.spotify.com/artist/3tQrRoZiGXR5uMkaCYf8S4"
-        }
-      ],
-      "duration_ms": 170795,
-      "name": "pa' que sue\u00f1es",
-      "url": "https://open.spotify.com/track/4KuSic9vPLVLgB5lCfeFQy"
     },
     {
       "added_at": "2026-11-19 16:19:25",
@@ -1119,6 +1095,30 @@
       "duration_ms": 206284,
       "name": "Mojo",
       "url": "https://open.spotify.com/track/70NxnUV2P0uOus3V5eL9gs"
+    },
+    {
+      "added_at": "2026-11-19 16:19:25",
+      "album": {
+        "name": "pa' que sue\u00f1es",
+        "url": "https://open.spotify.com/album/1bGXKrzpyFq1TVzNOr6Fbq"
+      },
+      "artists": [
+        {
+          "name": "Yorghaki",
+          "url": "https://open.spotify.com/artist/4eq1q0o9XPyNq9RG3fNDD1"
+        },
+        {
+          "name": "Danny Schiller",
+          "url": "https://open.spotify.com/artist/6Jrjs10cg0Sf0uMzLjfraC"
+        },
+        {
+          "name": "Gus",
+          "url": "https://open.spotify.com/artist/3tQrRoZiGXR5uMkaCYf8S4"
+        }
+      ],
+      "duration_ms": 170795,
+      "name": "pa' que sue\u00f1es",
+      "url": "https://open.spotify.com/track/4KuSic9vPLVLgB5lCfeFQy"
     },
     {
       "added_at": "2026-11-19 16:19:25",
@@ -1199,6 +1199,22 @@
     {
       "added_at": "2026-11-19 16:19:25",
       "album": {
+        "name": "Amor En Cuarentena",
+        "url": "https://open.spotify.com/album/0NDsxPkfntANuEyF5NpMHW"
+      },
+      "artists": [
+        {
+          "name": "Raquel Sof\u00eda",
+          "url": "https://open.spotify.com/artist/0J9JLJmiTXJFvvyHS3Qzn4"
+        }
+      ],
+      "duration_ms": 165586,
+      "name": "Amor En Cuarentena",
+      "url": "https://open.spotify.com/track/2siIxRukc4AFw9rxeE9La8"
+    },
+    {
+      "added_at": "2026-11-19 16:19:25",
+      "album": {
         "name": "Coraz\u00f3n Gitano",
         "url": "https://open.spotify.com/album/6G6kXacmfhK2QoD3FL9QYx"
       },
@@ -1215,22 +1231,6 @@
       "duration_ms": 221453,
       "name": "Coraz\u00f3n Gitano",
       "url": "https://open.spotify.com/track/0lOABKEHFsQ5dYvFZO6ssG"
-    },
-    {
-      "added_at": "2026-11-19 16:19:25",
-      "album": {
-        "name": "Amor En Cuarentena",
-        "url": "https://open.spotify.com/album/0NDsxPkfntANuEyF5NpMHW"
-      },
-      "artists": [
-        {
-          "name": "Raquel Sof\u00eda",
-          "url": "https://open.spotify.com/artist/0J9JLJmiTXJFvvyHS3Qzn4"
-        }
-      ],
-      "duration_ms": 165586,
-      "name": "Amor En Cuarentena",
-      "url": "https://open.spotify.com/track/2siIxRukc4AFw9rxeE9La8"
     },
     {
       "added_at": "2026-11-19 16:19:25",
@@ -1255,6 +1255,22 @@
     {
       "added_at": "2026-11-19 16:19:25",
       "album": {
+        "name": "Calle Cima",
+        "url": "https://open.spotify.com/album/7M2Ps9s3Y4A77q0Z4OYLim"
+      },
+      "artists": [
+        {
+          "name": "Gepe",
+          "url": "https://open.spotify.com/artist/1fHGzTSloWCtrlKfbLNVhM"
+        }
+      ],
+      "duration_ms": 219477,
+      "name": "Calle Cima",
+      "url": "https://open.spotify.com/track/4x9O03XkmAed2E7GAPUqUE"
+    },
+    {
+      "added_at": "2026-11-19 16:19:25",
+      "album": {
         "name": "Primera Cita",
         "url": "https://open.spotify.com/album/3I4UkECZBBvXTkM5T1Inoq"
       },
@@ -1271,22 +1287,6 @@
       "duration_ms": 136390,
       "name": "Primera Cita",
       "url": "https://open.spotify.com/track/6KUzB9mbZ9zHFAI6klMtmZ"
-    },
-    {
-      "added_at": "2026-11-19 16:19:25",
-      "album": {
-        "name": "Calle Cima",
-        "url": "https://open.spotify.com/album/7M2Ps9s3Y4A77q0Z4OYLim"
-      },
-      "artists": [
-        {
-          "name": "Gepe",
-          "url": "https://open.spotify.com/artist/1fHGzTSloWCtrlKfbLNVhM"
-        }
-      ],
-      "duration_ms": 219477,
-      "name": "Calle Cima",
-      "url": "https://open.spotify.com/track/4x9O03XkmAed2E7GAPUqUE"
     },
     {
       "added_at": "2026-11-19 16:19:25",
@@ -1527,6 +1527,22 @@
     {
       "added_at": "2026-11-19 16:19:25",
       "album": {
+        "name": "Flotando (Ac\u00fastico)",
+        "url": "https://open.spotify.com/album/6ESGXcMWl63n7PzIzPdtxh"
+      },
+      "artists": [
+        {
+          "name": "Francisca Valenzuela",
+          "url": "https://open.spotify.com/artist/2piHiUbXwUNNIvYyIOIUKt"
+        }
+      ],
+      "duration_ms": 256708,
+      "name": "Flotando (Ac\u00fastico)",
+      "url": "https://open.spotify.com/track/1UmmEBHP4MKyExlob4MJbu"
+    },
+    {
+      "added_at": "2026-11-19 16:19:25",
+      "album": {
         "name": "for good (with RENEE)",
         "url": "https://open.spotify.com/album/3WdMJuv0B4oYEZBaFVJI2H"
       },
@@ -1543,22 +1559,6 @@
       "duration_ms": 182481,
       "name": "for good (with RENEE)",
       "url": "https://open.spotify.com/track/78HK0gO7EqqvTrxvnHX9VP"
-    },
-    {
-      "added_at": "2026-11-19 16:19:25",
-      "album": {
-        "name": "Flotando (Ac\u00fastico)",
-        "url": "https://open.spotify.com/album/6ESGXcMWl63n7PzIzPdtxh"
-      },
-      "artists": [
-        {
-          "name": "Francisca Valenzuela",
-          "url": "https://open.spotify.com/artist/2piHiUbXwUNNIvYyIOIUKt"
-        }
-      ],
-      "duration_ms": 256708,
-      "name": "Flotando (Ac\u00fastico)",
-      "url": "https://open.spotify.com/track/1UmmEBHP4MKyExlob4MJbu"
     },
     {
       "added_at": "2026-11-19 16:19:25",
@@ -1599,26 +1599,6 @@
     {
       "added_at": "2026-11-19 16:19:25",
       "album": {
-        "name": "maracas y cuero",
-        "url": "https://open.spotify.com/album/4IZSe1qS5PxcquNyop7wgn"
-      },
-      "artists": [
-        {
-          "name": "Dav Julca",
-          "url": "https://open.spotify.com/artist/5WVyfv3T27DrkqOclE85b2"
-        },
-        {
-          "name": "Jambene",
-          "url": "https://open.spotify.com/artist/4u1dsEB1FKbGcdG0EAvxP8"
-        }
-      ],
-      "duration_ms": 174065,
-      "name": "maracas y cuero",
-      "url": "https://open.spotify.com/track/2nJ9Dt22tBCkrbY2mpIYK6"
-    },
-    {
-      "added_at": "2026-11-19 16:19:25",
-      "album": {
         "name": "Me Haces Muy Bien (Ac\u00fastico)",
         "url": "https://open.spotify.com/album/6AprbucUx2tyYsEFAn0gWP"
       },
@@ -1635,6 +1615,26 @@
       "duration_ms": 205177,
       "name": "Me Haces Muy Bien - Ac\u00fastico",
       "url": "https://open.spotify.com/track/6jjMRgscg8yawMvoBNPfA5"
+    },
+    {
+      "added_at": "2026-11-19 16:19:25",
+      "album": {
+        "name": "maracas y cuero",
+        "url": "https://open.spotify.com/album/4IZSe1qS5PxcquNyop7wgn"
+      },
+      "artists": [
+        {
+          "name": "Dav Julca",
+          "url": "https://open.spotify.com/artist/5WVyfv3T27DrkqOclE85b2"
+        },
+        {
+          "name": "Jambene",
+          "url": "https://open.spotify.com/artist/4u1dsEB1FKbGcdG0EAvxP8"
+        }
+      ],
+      "duration_ms": 174065,
+      "name": "maracas y cuero",
+      "url": "https://open.spotify.com/track/2nJ9Dt22tBCkrbY2mpIYK6"
     },
     {
       "added_at": "2026-11-19 16:19:25",

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/1UDtZQ2RZtGRjPy7PCzuzA.md) - [plain]
 
 > 
 
-[julia](https://open.spotify.com/user/312yejiy4j6if5jxguepsue756fu) - 3 likes - 1,686 songs - 4 day 1 hr 46 min
+[julia](https://open.spotify.com/user/312yejiy4j6if5jxguepsue756fu) - 3 likes - 1,687 songs - 4 day 1 hr 49 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -1694,5 +1694,6 @@ pretty - [cumulative](/playlists/cumulative/1UDtZQ2RZtGRjPy7PCzuzA.md) - [plain]
 | 1684 | [The Elevator](https://open.spotify.com/track/61k8ZA1BqCYXOrevJtzuH8) | [Lizzy McAlpine](https://open.spotify.com/artist/1GmsPCcpKgF9OhlNXjOsbS) | [Older](https://open.spotify.com/album/30fIbIvd1AN04FrBt12KhM) | 1:40 |
 | 1685 | [Come Down Soon](https://open.spotify.com/track/6rEcXviYlZCEx01m1z7qZv) | [Lizzy McAlpine](https://open.spotify.com/artist/1GmsPCcpKgF9OhlNXjOsbS) | [Older](https://open.spotify.com/album/30fIbIvd1AN04FrBt12KhM) | 3:44 |
 | 1686 | [I'll Never Stop Loving You](https://open.spotify.com/track/53cB5yfTFpMfaw7oBcAi2c) | [Britney Spears](https://open.spotify.com/artist/26dSoYclwsYLMAKD3tpOr4) | [...Baby One More Time \(Digital Deluxe Version\)](https://open.spotify.com/album/3WNxdumkSMGMJRhEgK80qx) | 3:41 |
+| 1687 | [Anything](https://open.spotify.com/track/3htz0sRGLYHbbAS9QeEqpy) | [Phoebe Bridgers](https://open.spotify.com/artist/1r1uxoy19fzMxunt3ONAkG) | [Anything](https://open.spotify.com/album/0ULXa77Rw81AiaU4xymLiW) | 3:35 |
 
-Snapshot ID: `AAAOxkO76HQhy0nbmgnRbxZ7QdUbrOjS`
+Snapshot ID: `AAAOx35BdUavKXNpL5HuEuIiTcfvLgiA`

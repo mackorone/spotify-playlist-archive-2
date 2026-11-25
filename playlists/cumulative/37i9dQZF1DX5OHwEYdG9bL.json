@@ -593,6 +593,24 @@
     },
     {
       "album": {
+        "name": "Gleam Hour",
+        "url": "https://open.spotify.com/album/7cpvQwipRjHGg1PJRKxtU6"
+      },
+      "artists": [
+        {
+          "name": "WENDY",
+          "url": "https://open.spotify.com/artist/0FRUZvZNPzM3YJMABJxf2K"
+        }
+      ],
+      "date_added": "2026-11-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 200000,
+      "name": "Before Sunrise",
+      "url": "https://open.spotify.com/track/4ZkM1Zy8NYBP9Jsi9b3IKd"
+    },
+    {
+      "album": {
         "name": "BIG BANDS (\u72c2\u60f3\u66f2)",
         "url": "https://open.spotify.com/album/0iZHacBPz21y0VbKh9hxjU"
       },

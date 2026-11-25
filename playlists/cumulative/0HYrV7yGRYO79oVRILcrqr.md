@@ -4,7 +4,7 @@
 
 > 👉 Free Pitch : audiartist.com \| Insta : stardust\_from\_sun \| Email : musiqueslibre2droit@gmail.com \| 🎸 Rock &\#x27;n Blues delivers Blues Rock, Classic Rock, Southern Rock, Hard Rock, R&amp;B &amp; Soul\. Soulful rhythms, timeless riffs, and electrifying energy\. Follow now and vibe with the best of rock and blues!
 
-901 songs - 2 day 8 hr 7 min
+903 songs - 2 day 8 hr 12 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -95,6 +95,7 @@
 | [Blacktop and Burnt Rubber](https://open.spotify.com/track/4YJorBOy38zLV1KaoBSDYA) | [The Blacktop Bandits](https://open.spotify.com/artist/4by5whOHavPyqKYPSbF0zK) | [Six Days and A Single Dime](https://open.spotify.com/album/4310R5du1lBvnARr5VcIGX) | 3:16 | 2026-03-16 | 2026-04-21 |
 | [Blacktop Mojo](https://open.spotify.com/track/1YUuT3I4JDrFi24YwJQ0xS) | [Ario Nanaj](https://open.spotify.com/artist/3oxKAakkUQ02MoRb5Z6qrq) | [Echos From The Mountains](https://open.spotify.com/album/06rsDsZw8cpL50L92qtRmT) | 3:48 | 2026-01-27 | 2026-03-18 |
 | [Bled Dry \(Shamisen\)](https://open.spotify.com/track/2XCq0XGy96fW9D8onfffHd) | [Ekpra](https://open.spotify.com/artist/6MgbENVCXXFMF0GxKTmsXJ) | [Bled Dry \(Shamisen\)](https://open.spotify.com/album/6QhmTPqo6c8Gb9Tka9P1EX) | 3:32 | 2026-07-14 | 2026-08-01 |
+| [Bloom](https://open.spotify.com/track/0wqHRP5OoeHA8lceP6cxVk) | [Lil Neroz](https://open.spotify.com/artist/4Io4x5Ren2j0v68lRiJsuT) | [Bloom](https://open.spotify.com/album/11WQn8Z7emp1DwHuIyEpsW) | 2:40 | 2026-11-24 |  |
 | [Blue](https://open.spotify.com/track/60Opr83gQPHZd410ykHScx) | [People You Know](https://open.spotify.com/artist/3eMy8KyUvhwO3T2Nkl5FHz) | [Blue](https://open.spotify.com/album/6Eif0ayU6BbiWNVEidXcNc) | 4:30 | 2025-12-06 | 2026-04-21 |
 | [Blue Collar Swaller](https://open.spotify.com/track/04PTzfMWSBwwK2fG5wRxle) | [Brandon Bing](https://open.spotify.com/artist/3iZ4FWTAjIRDhQI9El9dlR) | [Huckleberry](https://open.spotify.com/album/72jB7XjZSEevzrGC9GaikJ) | 2:50 | 2025-11-30 | 2026-05-26 |
 | [Blue Money Bills](https://open.spotify.com/track/3cNEkCAFg82SSWqkyNdwRp) | [Steve Larkman](https://open.spotify.com/artist/451tRc86Zp28twMLVHv22v) | [Blue Money Bills](https://open.spotify.com/album/36zqHa3fQZ0kROvyzvl33L) | 3:23 | 2025-10-23 | 2025-11-28 |
@@ -287,6 +288,7 @@
 | [Ganho Ou Perco?](https://open.spotify.com/track/7A5YUDJZjBHV7pU71cEFW4) | [J.V\. Ferreira](https://open.spotify.com/artist/71IyZPuWgamI0vGHr0YKj7) | [Ganho Ou Perco?](https://open.spotify.com/album/0KFl9FoQhS7YNvok86360L) | 5:41 | 2025-12-24 | 2026-03-18 |
 | [Gedankengewitter](https://open.spotify.com/track/1Hze4rox0RnhkKtJiQ5m6k) | [Elaria Sol](https://open.spotify.com/artist/5rbCDCbfSBmLmLBp9J7NDH) | [Gedankengewitter](https://open.spotify.com/album/0rKxIPQemkSVpupIUZfqjI) | 3:37 | 2026-05-27 | 2026-06-18 |
 | [Genie](https://open.spotify.com/track/00bniyPFNFRkEyER0dQX0m) | [Bit Commander](https://open.spotify.com/artist/53aISfz35xV7ZbrD9vQBPF) | [Feral Child](https://open.spotify.com/album/1BNemdbTYPHl5gPVQJMwWq) | 6:55 | 2026-03-03 | 2026-03-18 |
+| [Georgia On My Mind](https://open.spotify.com/track/3UC8xlRz4rVfvVhftUPSVW) | [John Allen Kipta](https://open.spotify.com/artist/6VMENRR0HKdBPQrihvsCB4) | [Georgia On My Mind](https://open.spotify.com/album/4OicfDt3bktglvk5twni8o) | 2:42 | 2026-11-24 |  |
 | [Get Lost Blues](https://open.spotify.com/track/68TaMRM7uQyrVZz6oW1lrW) | [DELREI](https://open.spotify.com/artist/77Xku7f5rq7hfoooTiv5jW) | [Desolation and Radiation](https://open.spotify.com/album/1P6cd5pDxmFNFZedAMWwh1) | 3:47 | 2025-10-17 | 2025-11-28 |
 | [Get up on Your Feet](https://open.spotify.com/track/54QamBb8HwxpfeiTFNwaKZ) | [Jangle Wave](https://open.spotify.com/artist/46IbeWIF6yDPAZ1Me3Mrqv) | [Get up on Your Feet](https://open.spotify.com/album/3VGwnfhp3TtamNolKFcFvd) | 3:34 | 2026-09-07 |  |
 | [Ghost in the Machine](https://open.spotify.com/track/4FpzYZW8n0ACFuqPbgYVHY) | [Dan Folland](https://open.spotify.com/artist/0LCVaqmDMsBXKbN8JINKFu) | [Ghost in the Machine](https://open.spotify.com/album/4odVoAJovnpjem0S5Fx0Oy) | 3:10 | 2026-10-16 |  |

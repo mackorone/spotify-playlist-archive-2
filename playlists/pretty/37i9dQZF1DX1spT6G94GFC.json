@@ -1,12 +1,12 @@
 {
   "description": "These songs rocked the 80s.",
-  "num_followers": 4104686,
+  "num_followers": 4104720,
   "original_name": "80s Rock Anthems",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAANoWpln9+gy954H9O85yL7iaXGa3",
+  "snapshot_id": "AAAAANAkGufWSYpfFpwIqk/yicsve1SB",
   "tracks": [
     {
       "added_at": "2024-09-13 16:58:23",
@@ -532,9 +532,9 @@
           "url": "https://open.spotify.com/artist/2UZMlIwnkgAEDBsw1Rejkn"
         }
       ],
-      "duration_ms": 178360,
-      "name": "I Won't Back Down",
-      "url": "https://open.spotify.com/track/7gSQv1OHpkIoAdUiRLdmI6"
+      "duration_ms": 247600,
+      "name": "Love Is A Long Road",
+      "url": "https://open.spotify.com/track/4PJEK76V3A1S0XzZJuTWh7"
     },
     {
       "added_at": "2024-09-13 16:58:23",
@@ -587,18 +587,18 @@
     {
       "added_at": "2024-09-13 16:58:23",
       "album": {
-        "name": "Crimes Of Passion",
-        "url": "https://open.spotify.com/album/7HlWbMlmhASeeZ61ZiHpWJ"
+        "name": "Brothers in Arms",
+        "url": "https://open.spotify.com/album/7jvcSnCnugLcisBCNBm60s"
       },
       "artists": [
         {
-          "name": "Pat Benatar",
-          "url": "https://open.spotify.com/artist/43mhFhQ4JAknA7Ik1bOZuV"
+          "name": "Dire Straits",
+          "url": "https://open.spotify.com/artist/0WwSkZ7LtFUFjGjMZBMt6T"
         }
       ],
-      "duration_ms": 171266,
-      "name": "Hit Me With Your Best Shot",
-      "url": "https://open.spotify.com/track/0vOkmmJEtjuFZDzrQSFzEE"
+      "duration_ms": 506400,
+      "name": "Money for Nothing",
+      "url": "https://open.spotify.com/track/4yqtwO7MQIIXqoiRBPHAgR"
     },
     {
       "added_at": "2024-09-13 16:58:23",
@@ -612,25 +612,25 @@
           "url": "https://open.spotify.com/artist/2UZMlIwnkgAEDBsw1Rejkn"
         }
       ],
-      "duration_ms": 247600,
-      "name": "Love Is A Long Road",
-      "url": "https://open.spotify.com/track/4PJEK76V3A1S0XzZJuTWh7"
+      "duration_ms": 178360,
+      "name": "I Won't Back Down",
+      "url": "https://open.spotify.com/track/7gSQv1OHpkIoAdUiRLdmI6"
     },
     {
       "added_at": "2024-09-13 16:58:23",
       "album": {
-        "name": "Brothers in Arms",
-        "url": "https://open.spotify.com/album/7jvcSnCnugLcisBCNBm60s"
+        "name": "Crimes Of Passion",
+        "url": "https://open.spotify.com/album/7HlWbMlmhASeeZ61ZiHpWJ"
       },
       "artists": [
         {
-          "name": "Dire Straits",
-          "url": "https://open.spotify.com/artist/0WwSkZ7LtFUFjGjMZBMt6T"
+          "name": "Pat Benatar",
+          "url": "https://open.spotify.com/artist/43mhFhQ4JAknA7Ik1bOZuV"
         }
       ],
-      "duration_ms": 506400,
-      "name": "Money for Nothing",
-      "url": "https://open.spotify.com/track/4yqtwO7MQIIXqoiRBPHAgR"
+      "duration_ms": 171266,
+      "name": "Hit Me With Your Best Shot",
+      "url": "https://open.spotify.com/track/0vOkmmJEtjuFZDzrQSFzEE"
     },
     {
       "added_at": "2024-09-13 16:58:23",
@@ -1151,22 +1151,6 @@
     {
       "added_at": "2024-09-13 16:58:23",
       "album": {
-        "name": "The Game (Deluxe Remastered Version)",
-        "url": "https://open.spotify.com/album/6wPXUmYJ9mOWrKlLzZ5cCa"
-      },
-      "artists": [
-        {
-          "name": "Queen",
-          "url": "https://open.spotify.com/artist/1dfeR4HaWDbWqFHLkxsg1d"
-        }
-      ],
-      "duration_ms": 214653,
-      "name": "Another One Bites The Dust - Remastered 2011",
-      "url": "https://open.spotify.com/track/57JVGBtBLCfHw2muk5416J"
-    },
-    {
-      "added_at": "2024-09-13 16:58:23",
-      "album": {
         "name": "Document (The I.R.S. Years Vintage 1987)",
         "url": "https://open.spotify.com/album/2y1UeJQy95zVxN8Y6IjUck"
       },
@@ -1179,6 +1163,22 @@
       "duration_ms": 246973,
       "name": "It's The End Of The World As We Know It (And I Feel Fine)",
       "url": "https://open.spotify.com/track/2abfaXRfvXr9ErmI8oqz4g"
+    },
+    {
+      "added_at": "2024-09-13 16:58:23",
+      "album": {
+        "name": "The Game (Deluxe Remastered Version)",
+        "url": "https://open.spotify.com/album/6wPXUmYJ9mOWrKlLzZ5cCa"
+      },
+      "artists": [
+        {
+          "name": "Queen",
+          "url": "https://open.spotify.com/artist/1dfeR4HaWDbWqFHLkxsg1d"
+        }
+      ],
+      "duration_ms": 214653,
+      "name": "Another One Bites The Dust - Remastered 2011",
+      "url": "https://open.spotify.com/track/57JVGBtBLCfHw2muk5416J"
     },
     {
       "added_at": "2024-09-13 16:58:23",
@@ -1231,6 +1231,22 @@
     {
       "added_at": "2024-09-13 16:58:23",
       "album": {
+        "name": "Stay Hungry",
+        "url": "https://open.spotify.com/album/0dzqapIToiOhULGvzDKpXm"
+      },
+      "artists": [
+        {
+          "name": "Twisted Sister",
+          "url": "https://open.spotify.com/artist/7b85ve82Sh36a3UAx74wut"
+        }
+      ],
+      "duration_ms": 179760,
+      "name": "I Wanna Rock",
+      "url": "https://open.spotify.com/track/70Z9t1qhytWtG4cCmmi7mU"
+    },
+    {
+      "added_at": "2024-09-13 16:58:23",
+      "album": {
         "name": "Hot Space (2011 Remaster)",
         "url": "https://open.spotify.com/album/6reTSIf5MoBco62rk8T7Q1"
       },
@@ -1247,22 +1263,6 @@
       "duration_ms": 248440,
       "name": "Under Pressure - Remastered 2011",
       "url": "https://open.spotify.com/track/2fuCquhmrzHpu5xcA1ci9x"
-    },
-    {
-      "added_at": "2024-09-13 16:58:23",
-      "album": {
-        "name": "Stay Hungry",
-        "url": "https://open.spotify.com/album/0dzqapIToiOhULGvzDKpXm"
-      },
-      "artists": [
-        {
-          "name": "Twisted Sister",
-          "url": "https://open.spotify.com/artist/7b85ve82Sh36a3UAx74wut"
-        }
-      ],
-      "duration_ms": 179760,
-      "name": "I Wanna Rock",
-      "url": "https://open.spotify.com/track/70Z9t1qhytWtG4cCmmi7mU"
     },
     {
       "added_at": "2024-09-13 16:58:23",

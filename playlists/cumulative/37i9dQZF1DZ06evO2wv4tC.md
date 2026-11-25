@@ -4,7 +4,7 @@
 
 > This is DESTIN CONRAD\. The essential tracks, all in one playlist.
 
-52 songs - 2 hr 24 min
+53 songs - 2 hr 27 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -21,7 +21,7 @@
 | [DAY PARTY](https://open.spotify.com/track/0ila3e0oFa7dVYmnICN4fR) | [DESTIN CONRAD](https://open.spotify.com/artist/4jwROPSUkTkohLCRiyjiZZ) | [SATIN](https://open.spotify.com/album/14DbuWegTlHKKUW1WfUdny) | 3:06 | 2026-11-04 |  |
 | [DAYDREAM](https://open.spotify.com/track/2dsbZwFPMYhchakMgL72DD) | [DESTIN CONRAD](https://open.spotify.com/artist/4jwROPSUkTkohLCRiyjiZZ) | [SATIN](https://open.spotify.com/album/14DbuWegTlHKKUW1WfUdny) | 3:01 | 2026-11-04 |  |
 | [DELUSIONAL](https://open.spotify.com/track/2SA9OUfBjt97F67NuAf8yT) | [DESTIN CONRAD](https://open.spotify.com/artist/4jwROPSUkTkohLCRiyjiZZ) | [LOVE ON DIGITAL](https://open.spotify.com/album/7ChitlgU5oFgKmjLtViJ8K) | 1:58 | 2026-11-04 |  |
-| [Destin’s Interlude \(feat\. Destin Conrad\)](https://open.spotify.com/track/2RAEXZ8zJn42egs3BonDTY) | [Ambré](https://open.spotify.com/artist/6gj3sMEZYP6IESIptoXnrP), [DESTIN CONRAD](https://open.spotify.com/artist/4jwROPSUkTkohLCRiyjiZZ) | [PEYOTE](https://open.spotify.com/album/5JMp3qoFDPu1rVxh3RRyjl) | 2:19 | 2026-11-04 |  |
+| [Destin’s Interlude \(feat\. Destin Conrad\)](https://open.spotify.com/track/2RAEXZ8zJn42egs3BonDTY) | [Ambré](https://open.spotify.com/artist/6gj3sMEZYP6IESIptoXnrP), [DESTIN CONRAD](https://open.spotify.com/artist/4jwROPSUkTkohLCRiyjiZZ) | [PEYOTE](https://open.spotify.com/album/5JMp3qoFDPu1rVxh3RRyjl) | 2:19 | 2026-11-04 | 2026-11-25 |
 | [DIAMOND GOLD](https://open.spotify.com/track/1HDemO62blrYXP4IuZv0Ta) | [DESTIN CONRAD](https://open.spotify.com/artist/4jwROPSUkTkohLCRiyjiZZ) | [wHIMSY!](https://open.spotify.com/album/1Qx04kMMQn0mCWljoV7loF) | 3:15 | 2026-11-04 |  |
 | [EXCITED!](https://open.spotify.com/track/3qE98sHohjBGmohgKOSK01) | [DESTIN CONRAD](https://open.spotify.com/artist/4jwROPSUkTkohLCRiyjiZZ) | [COLORWAY](https://open.spotify.com/album/4cGY0jqWYTCIPwQRXHgKvy) | 1:37 | 2026-11-04 |  |
 | [FAVORITE LOVER](https://open.spotify.com/track/7qjPjdMQmj2ivIuQsc0Cid) | [DESTIN CONRAD](https://open.spotify.com/artist/4jwROPSUkTkohLCRiyjiZZ) | [ROADRUNNER](https://open.spotify.com/album/7joEKdjJC5ROVOVc15CNfj) | 2:28 | 2026-11-04 |  |
@@ -54,6 +54,7 @@
 | [STARLET \(+ Destin Conrad + Ambré\)](https://open.spotify.com/track/6lFLaBipCz894UP3rhj5T2) | [Leven Kali](https://open.spotify.com/artist/5YZ5AExR68U3ZblH6HcO6B), [DESTIN CONRAD](https://open.spotify.com/artist/4jwROPSUkTkohLCRiyjiZZ), [Ambré](https://open.spotify.com/artist/6gj3sMEZYP6IESIptoXnrP) | [LK99+ DELUXE](https://open.spotify.com/album/0i1UCnrf20ijJm8IEUsr66) | 3:33 | 2026-11-04 |  |
 | [The Closer I Get To You \(with Destin Conrad, Moses Sumney\)](https://open.spotify.com/track/5DU13OfCGd3jM4aTY6cONd) | [Meshell Ndegeocello](https://open.spotify.com/artist/0uZRjholJ0fVC2J9EvnYnj), [DESTIN CONRAD](https://open.spotify.com/artist/4jwROPSUkTkohLCRiyjiZZ), [Moses Sumney](https://open.spotify.com/artist/5W10uJRsbt9bROJDKoI1Wn) | [Synonym](https://open.spotify.com/album/6ssRIhqoOblT5x1xdJDkJQ) | 3:40 | 2026-11-04 |  |
 | [THE LAST TIME](https://open.spotify.com/track/4zkH2YuWOZlXgzOH17TvKs) | [DESTIN CONRAD](https://open.spotify.com/artist/4jwROPSUkTkohLCRiyjiZZ), [Teezo Touchdown](https://open.spotify.com/artist/0fGcIStdT1OpFFhOC7Wp36) | [THE LAST TIME](https://open.spotify.com/album/0GyFu1r5ctSDKHwvkF6Coy) | 3:14 | 2026-11-04 |  |
+| [To This Day](https://open.spotify.com/track/7JM71c4NDJh0gllX45eWRi) | [DESTIN CONRAD](https://open.spotify.com/artist/4jwROPSUkTkohLCRiyjiZZ), [Musiq Soulchild](https://open.spotify.com/artist/3UVRliakQfa1pMWIsNuiZ8) | [To This Day](https://open.spotify.com/album/3Mub17z8Rz5f6xTQjbukjI) | 3:30 | 2026-11-25 |  |
 | [Tough](https://open.spotify.com/track/5TmpaPaxP6DjvoGyets9sO) | [Nia Smith](https://open.spotify.com/artist/50MUpOKyCZMtBcYlBQP260), [DESTIN CONRAD](https://open.spotify.com/artist/4jwROPSUkTkohLCRiyjiZZ) | [Tough](https://open.spotify.com/album/7kAuTCG3RtuNsILTvuMGms) | 3:15 | 2026-11-04 |  |
 | [Typical](https://open.spotify.com/track/3MaaRJ0vGUmHyKPPr0eMJh) | [Bellah](https://open.spotify.com/artist/6UZk0TOb0uZ1JWa3BW81FQ), [DESTIN CONRAD](https://open.spotify.com/artist/4jwROPSUkTkohLCRiyjiZZ) | [State Of Emergency Vol 1.](https://open.spotify.com/album/4jtVxQTmYdjIHLrOog4gmG) | 2:56 | 2026-11-04 |  |
 | [WANT YOU](https://open.spotify.com/track/6RVPor9kA8QUfBiwmY1jCl) | [SPINALL](https://open.spotify.com/artist/2NtQA3PY9chI8l65ejZLTP), [JayO](https://open.spotify.com/artist/1IMENE2OCzsrXuu62aW1mD), [DESTIN CONRAD](https://open.spotify.com/artist/4jwROPSUkTkohLCRiyjiZZ) | [ÈKÓ GROOVE](https://open.spotify.com/album/2F8tF7YFS8ZJCJ57x9Xi8z) | 3:19 | 2026-11-04 |  |

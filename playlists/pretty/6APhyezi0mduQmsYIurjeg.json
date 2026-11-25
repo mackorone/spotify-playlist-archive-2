@@ -6,7 +6,7 @@
     "name": "RADIO PLUG PRO",
     "url": "https://open.spotify.com/user/31j62y3lgk2wiycoov2nuie5hp3e"
   },
-  "snapshot_id": "AAADF9N6EhZ2PmyhqJZ8eLxvj6Lmn6sk",
+  "snapshot_id": "AAADGipUHzjNHz+3SkzEef8I0d+hlQ7V",
   "tracks": [
     {
       "added_at": "2023-08-20 17:59:56",
@@ -10503,6 +10503,54 @@
       "duration_ms": 289963,
       "name": "After The Show",
       "url": "https://open.spotify.com/track/2HMHJeKnIKUvVwvysbtW5r"
+    },
+    {
+      "added_at": "2026-11-24 16:47:46",
+      "album": {
+        "name": "Company",
+        "url": "https://open.spotify.com/album/6LYuV2VYA0JKLGCinc92gD"
+      },
+      "artists": [
+        {
+          "name": "Barbara Grace Romano",
+          "url": "https://open.spotify.com/artist/2mlirNl1shb7bkoEaOGCXS"
+        }
+      ],
+      "duration_ms": 351500,
+      "name": "Company",
+      "url": "https://open.spotify.com/track/5qScYWI7wcffKfcoysfjJW"
+    },
+    {
+      "added_at": "2026-11-24 16:48:47",
+      "album": {
+        "name": "Che cos'\u00e8 l'amore",
+        "url": "https://open.spotify.com/album/7ejVBP9ObEiQzpWAhUhAmX"
+      },
+      "artists": [
+        {
+          "name": "Costa Calcinara",
+          "url": "https://open.spotify.com/artist/7rCyfyNrDTZyh5Zfnq3oM1"
+        }
+      ],
+      "duration_ms": 155306,
+      "name": "Amsterdam",
+      "url": "https://open.spotify.com/track/5uaYokdz8GYpEsmF4Ewn9w"
+    },
+    {
+      "added_at": "2026-11-24 16:49:10",
+      "album": {
+        "name": "Tears (Kyo Kusanagi The King of Fighters '99) [Vocal Version]",
+        "url": "https://open.spotify.com/album/5Py5DnojD5T3nj0aXKnU4g"
+      },
+      "artists": [
+        {
+          "name": "Vocal Game Orchestra",
+          "url": "https://open.spotify.com/artist/4LvoFWmhUT7CNWjppMoaUK"
+        }
+      ],
+      "duration_ms": 252563,
+      "name": "Tears (Kyo Kusanagi The King of Fighters '99) - Vocal Version",
+      "url": "https://open.spotify.com/track/6YBiU7aCpxDmApjb3AODLR"
     }
   ],
   "unique_name": "Rock Frequency (2)",

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7YE2tQ4q86h.md) - [plain]
 
 > Slayyyter is THE main pop girl emergency✨
 
-[Spotify](https://open.spotify.com/user/spotify) - 246,492 likes - 100 songs - 5 hr 11 min
+[Spotify](https://open.spotify.com/user/spotify) - 246,572 likes - 100 songs - 5 hr 11 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7YE2tQ4q86h.md) - [plain]
 | 99 | [PARTIES IN LA](https://open.spotify.com/track/7ilxKzPgTaF5P8N8BBlKFW) | [XKYLAR](https://open.spotify.com/artist/0wel071ci7nqjnNT0ywKWq) | [PARTIES IN LA](https://open.spotify.com/album/67DRtDC05EXXlanrnThwvw) | 2:28 |
 | 100 | [BOOMPALA](https://open.spotify.com/track/41d2WjuL0ikRKVjxmL7ZFz) | [LE SSERAFIM](https://open.spotify.com/artist/4SpbR6yFEvexJuaBpgAU5p) | ['PUREFLOW', Pt\. 1](https://open.spotify.com/album/7vQRIpYlfMRCGU9GUx8Fko) | 2:56 |
 
-Snapshot ID: `AAAAAGONdS/GWA/4L2GeBKvl2LkiXgYS`
+Snapshot ID: `AAAAAAjcLSxoJgNjG2kaqvf+SJwyjtOh`

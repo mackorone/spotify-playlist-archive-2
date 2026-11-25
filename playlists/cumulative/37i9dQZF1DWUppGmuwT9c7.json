@@ -790,6 +790,10 @@
           "url": "https://open.spotify.com/artist/6PBYhsdRwm1WbQC4GvNiCp"
         },
         {
+          "name": "Brace",
+          "url": "https://open.spotify.com/artist/2eHZ1Vns5972fZNdhnjopG"
+        },
+        {
           "name": "Billy Dans",
           "url": "https://open.spotify.com/artist/1eCYPvT9MAbK5htIBYQ4dW"
         },
@@ -800,10 +804,6 @@
         {
           "name": "Poke",
           "url": "https://open.spotify.com/artist/0hgX6slgQFj1QpjpKHbcK1"
-        },
-        {
-          "name": "Brace",
-          "url": "https://open.spotify.com/artist/2eHZ1Vns5972fZNdhnjopG"
         }
       ],
       "date_added": "2026-02-26",
@@ -1206,6 +1206,24 @@
       "duration_ms": 141149,
       "name": "Een Droom",
       "url": "https://open.spotify.com/track/0GO9dV7Tk8uV5n5khaH7VA"
+    },
+    {
+      "album": {
+        "name": "Een Nacht In Napoli",
+        "url": "https://open.spotify.com/album/1wA9f1cLuZQksu5HIUt76x"
+      },
+      "artists": [
+        {
+          "name": "Joey Nicolay",
+          "url": "https://open.spotify.com/artist/1uCUEXtWoTs2odKdZTbAaG"
+        }
+      ],
+      "date_added": "2026-11-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 155294,
+      "name": "Een Nacht In Napoli",
+      "url": "https://open.spotify.com/track/3pWeWUvsXKVvdJ2cRTQvoY"
     },
     {
       "album": {
@@ -2830,7 +2848,7 @@
       ],
       "date_added": "2025-11-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-25",
       "duration_ms": 159377,
       "name": "Met Je Moeder Niks Te Maken",
       "url": "https://open.spotify.com/track/3qi2R0sJMjEftAaSjpFTot"

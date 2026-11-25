@@ -4,7 +4,7 @@
 
 > Submit your song: https:&\#x2F;&\#x2F;dailyplaylists.com&\#x2F;playlists&\#x2F;6APhyezi0mduQmsYIurjeg
 
-635 songs - 1 day 14 hr 29 min
+638 songs - 1 day 14 hr 42 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -35,6 +35,7 @@
 | [Almost Alright](https://open.spotify.com/track/1e2bfdoVKrSM4VbfhQkucw) | [Ugly Bridesmaids](https://open.spotify.com/artist/0gj5NWtV59oZATC9oRiCuB) | [Almost Alright](https://open.spotify.com/album/1DLCkneGG65a5rQHuSZwon) | 1:39 | 2026-11-22 |  |
 | [Alone](https://open.spotify.com/track/5IOmXE3jdhQp2vXvumHeR9) | [Smoking Twinz](https://open.spotify.com/artist/2aIYbcsZ3GlFy8fDPDJrcc) | [Alone](https://open.spotify.com/album/52NSwtP9ARhPFlRpfKFrYc) | 2:48 | 2025-11-12 |  |
 | [Alpha Rats Quarterback](https://open.spotify.com/track/5SN9ka0tgzod8md4Y1uyO4) | [Mrs\. Hopewell](https://open.spotify.com/artist/4J8Dsc1kexzLk3nRfig2AU) | [Alpha Rats Quarterback](https://open.spotify.com/album/7pXlEETIkHsLlqrV2AYLse) | 2:56 | 2023-04-14 |  |
+| [Amsterdam](https://open.spotify.com/track/5uaYokdz8GYpEsmF4Ewn9w) | [Costa Calcinara](https://open.spotify.com/artist/7rCyfyNrDTZyh5Zfnq3oM1) | [Che cos'è l'amore](https://open.spotify.com/album/7ejVBP9ObEiQzpWAhUhAmX) | 2:35 | 2026-11-24 |  |
 | [Anclado a tus piernas](https://open.spotify.com/track/7iTosMN4gbF49S3UwZDJfW) | [Sergio Medina](https://open.spotify.com/artist/0ORqJysjGs60RzE1FRVzrB), [los errantes](https://open.spotify.com/artist/5SYbFTyYHqROBnwWEioqqV) | [1982](https://open.spotify.com/album/2LKgyvwKnS0oBvDFXJYvJr) | 4:24 | 2024-12-20 |  |
 | [Anger Is Energy](https://open.spotify.com/track/1DMGtRbcddlhe5JBqGtZGj) | [ANGER MGMT.](https://open.spotify.com/artist/2ivOTVGR8YstFMPLpyhxO4) | [Anger Is Energy](https://open.spotify.com/album/4FGeNrqGYLbbcFk4pL8g28) | 3:00 | 2023-04-21 |  |
 | [Another hero's gone](https://open.spotify.com/track/7Joi8eHXlOykrlxiWlocSB) | [Juan El Grande](https://open.spotify.com/artist/1EKGn7PcgUA19OXlhZ7xgS) | [Another hero's gone](https://open.spotify.com/album/73pNsgmQW0mEnhzbtziXPM) | 2:52 | 2024-11-18 |  |
@@ -107,6 +108,7 @@
 | [Cold Little Feelings](https://open.spotify.com/track/2Nc5TocmZjZU4RwnfUEauE) | [Eric Schenkman](https://open.spotify.com/artist/2uqNhcHAzAEwtupvfqFYY4) | [Cold Little Feelings](https://open.spotify.com/album/484muB9x6pL29ETmDnYXXL) | 4:05 | 2026-11-17 |  |
 | [Coming Home](https://open.spotify.com/track/05aflt4G358K9bAmKPKkUN) | [DJ Leonardo Rafael](https://open.spotify.com/artist/1H3ly1FV1jdgQTutTBX1tf) | [Coming Home](https://open.spotify.com/album/71jED3Whf9E839O2UwkJwl) | 1:57 | 2023-04-24 |  |
 | [Como Yo No Hay 2](https://open.spotify.com/track/3K5TOXm4QzeFXVgkkllvMq) | [Mil Disparos](https://open.spotify.com/artist/4yhzOd2WrjwPz9yHG2TwKn), [Yaiza San Martín](https://open.spotify.com/artist/6QipDbAuBORy8OPNzjI8tE) | [Como Yo No Hay 2](https://open.spotify.com/album/7f6EWxdmRQfsv3WJFgUHEr) | 3:52 | 2026-10-07 |  |
+| [Company](https://open.spotify.com/track/5qScYWI7wcffKfcoysfjJW) | [Barbara Grace Romano](https://open.spotify.com/artist/2mlirNl1shb7bkoEaOGCXS) | [Company](https://open.spotify.com/album/6LYuV2VYA0JKLGCinc92gD) | 5:51 | 2026-11-24 |  |
 | [Conversation](https://open.spotify.com/track/2CnTdiaJ4DZoRUgE2IfCGX) | [Lost Like Lions](https://open.spotify.com/artist/0wg1sFLR3OowB5S1r7OjIV) | [Conversation](https://open.spotify.com/album/5vh7YAjh8BErPIaw6kgkaf) | 2:43 | 2024-11-18 |  |
 | [Crash Test Dummies](https://open.spotify.com/track/2EYInEupTN9SeX6cltm473) | [Fat Fungus](https://open.spotify.com/artist/5JvuLxzIE57fVdo7U29d2D) | [Crash Test Dummies](https://open.spotify.com/album/0mz2yg6rQM8nGbnhwNWY74) | 3:40 | 2024-10-25 |  |
 | [Critics of Neon](https://open.spotify.com/track/5GErt7vpDrfzUjr8FLM0VH) | [Loc Harp](https://open.spotify.com/artist/03NpM6Pz59hIUDTuP587pY) | [Critics of Neon](https://open.spotify.com/album/1L1bxqGy28y3uiBaTBjANa) | 3:19 | 2024-11-18 |  |
@@ -533,6 +535,7 @@
 | [Te Espero](https://open.spotify.com/track/2WbUcnimOPVlE34G9oxCNv) | [Die Dazinger](https://open.spotify.com/artist/4GzHmce5SZwt0pDZw2jjDq) | [Te Espero](https://open.spotify.com/album/2exJRSiSEGZkVMtmaI56DC) | 1:58 | 2023-01-10 |  |
 | [Te Soñe](https://open.spotify.com/track/7x34YAJ81KkPSiPDBSCCZ0) | [David Marco](https://open.spotify.com/artist/2RwoP8cwoPu11rvPoLyNG9), [Hugo Matias](https://open.spotify.com/artist/6ZxFBBkYPnv0GbE0DyuR0N), [Tommy Ramírez](https://open.spotify.com/artist/0PHU2ttcZ1dsGE4xh1oEsq) | [Te Soñe](https://open.spotify.com/album/46LYHh1PyHo8zUnblCVZRU) | 3:44 | 2024-12-24 |  |
 | [Tearing Me Apart](https://open.spotify.com/track/7pLTFhW698v0hpSWksVy2i) | [Mathias Oskarsson](https://open.spotify.com/artist/37brwTe53HRusgvtL7qQOc) | [Tearing Me Apart](https://open.spotify.com/album/20WHlyVfpLwD4BqkLwgcXV) | 4:03 | 2023-01-10 |  |
+| [Tears \(Kyo Kusanagi The King of Fighters '99\) \- Vocal Version](https://open.spotify.com/track/6YBiU7aCpxDmApjb3AODLR) | [Vocal Game Orchestra](https://open.spotify.com/artist/4LvoFWmhUT7CNWjppMoaUK) | [Tears \(Kyo Kusanagi The King of Fighters '99\) \[Vocal Version\]](https://open.spotify.com/album/5Py5DnojD5T3nj0aXKnU4g) | 4:12 | 2026-11-24 |  |
 | [Tell Me How \(A Perfect Mistress for a King\)](https://open.spotify.com/track/76YPKHElXvfWANZzGmOdkW) | [Cormac O Caoimh](https://open.spotify.com/artist/5tTI635bEYNCY5PDx79cvt) | [Tell Me How \(A Perfect Mistress for a King\)](https://open.spotify.com/album/7hoTMVBJUKeZ8NqwSa2M7r) | 3:34 | 2025-01-08 |  |
 | [Terbang](https://open.spotify.com/track/3YRDqZWVVgwJM7zeC9SATa) | [Asira SW](https://open.spotify.com/artist/5OiJGU1KwhMVzEuU2cGYkA) | [Terbang](https://open.spotify.com/album/10IXPMkuDp33deghdiyIVa) | 3:28 | 2025-02-19 |  |
 | [Teresa](https://open.spotify.com/track/5sPIvKwhJXjk3lWhEGNmHK) | [Ribera del Júcar Revival](https://open.spotify.com/artist/04gcWUfNrbcWSklXOdnmjY) | [El regreso de Misha](https://open.spotify.com/album/1WzQvW37ruDPOL1jPk9FKb) | 4:11 | 2026-05-13 |  |

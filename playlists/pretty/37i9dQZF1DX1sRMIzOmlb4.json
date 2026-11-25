@@ -1,12 +1,12 @@
 {
   "description": "The biggest songs in Latin America in 2015. Cover: Nicky Jam\n",
-  "num_followers": 78494,
+  "num_followers": 78516,
   "original_name": "Latin Hits 2015",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAC4xSIqIe6QuXf6ffGjohPqqIDJQ",
+  "snapshot_id": "AAAAAD7Mtm+whefmgmhu+HwRVdry1lnJ",
   "tracks": [
     {
       "added_at": "2024-07-13 01:09:02",
@@ -75,22 +75,22 @@
     {
       "added_at": "2024-07-13 01:09:02",
       "album": {
-        "name": "Visual\u00edzate",
-        "url": "https://open.spotify.com/album/2HXRjHb2nbLJa5r70FBtdT"
+        "name": "Los Que Gustan",
+        "url": "https://open.spotify.com/album/303q7Gwd1npoNdMFtoAe9s"
       },
       "artists": [
         {
-          "name": "Gente De Zona",
-          "url": "https://open.spotify.com/artist/2cy1zPcrFcXAJTP0APWewL"
+          "name": "Klasico",
+          "url": "https://open.spotify.com/artist/6ejQ8vRKDUNBT2UyG3OaAM"
         },
         {
-          "name": "Marc Anthony",
-          "url": "https://open.spotify.com/artist/4wLXwxDeWQ8mtUIRPxGiD6"
+          "name": "Ozuna",
+          "url": "https://open.spotify.com/artist/1i8SpTcr7yvPOmcqrbnVXY"
         }
       ],
-      "duration_ms": 203049,
-      "name": "La Gozadera (feat. Marc Anthony)",
-      "url": "https://open.spotify.com/track/0OMRAvrtLWE2TvcXorRiB9"
+      "duration_ms": 186976,
+      "name": "Corazon De Seda (feat. Ozuna)",
+      "url": "https://open.spotify.com/track/0uRHot8ml8U8cYVwwzMwNT"
     },
     {
       "added_at": "2024-07-13 01:09:02",
@@ -111,22 +111,22 @@
     {
       "added_at": "2024-07-13 01:09:02",
       "album": {
-        "name": "Los Que Gustan",
-        "url": "https://open.spotify.com/album/303q7Gwd1npoNdMFtoAe9s"
+        "name": "Visual\u00edzate",
+        "url": "https://open.spotify.com/album/2HXRjHb2nbLJa5r70FBtdT"
       },
       "artists": [
         {
-          "name": "Klasico",
-          "url": "https://open.spotify.com/artist/6ejQ8vRKDUNBT2UyG3OaAM"
+          "name": "Gente De Zona",
+          "url": "https://open.spotify.com/artist/2cy1zPcrFcXAJTP0APWewL"
         },
         {
-          "name": "Ozuna",
-          "url": "https://open.spotify.com/artist/1i8SpTcr7yvPOmcqrbnVXY"
+          "name": "Marc Anthony",
+          "url": "https://open.spotify.com/artist/4wLXwxDeWQ8mtUIRPxGiD6"
         }
       ],
-      "duration_ms": 186976,
-      "name": "Corazon De Seda (feat. Ozuna)",
-      "url": "https://open.spotify.com/track/0uRHot8ml8U8cYVwwzMwNT"
+      "duration_ms": 203049,
+      "name": "La Gozadera (feat. Marc Anthony)",
+      "url": "https://open.spotify.com/track/0OMRAvrtLWE2TvcXorRiB9"
     },
     {
       "added_at": "2024-07-13 01:09:02",
@@ -299,6 +299,22 @@
     {
       "added_at": "2024-07-13 01:09:02",
       "album": {
+        "name": "Manuel Medrano",
+        "url": "https://open.spotify.com/album/3XeEBV0owMhwHmyLfaMxwg"
+      },
+      "artists": [
+        {
+          "name": "Manuel Medrano",
+          "url": "https://open.spotify.com/artist/0i5iO6icb7kxg48thi9gBM"
+        }
+      ],
+      "duration_ms": 190605,
+      "name": "Una y Otra Vez",
+      "url": "https://open.spotify.com/track/0bK3jxkbq5cDKWr68KtO8G"
+    },
+    {
+      "added_at": "2024-07-13 01:09:02",
+      "album": {
         "name": "Visionary",
         "url": "https://open.spotify.com/album/1zFp5Q3Dgo8wmKsmfZ23QX"
       },
@@ -315,22 +331,6 @@
       "duration_ms": 197852,
       "name": "Chillax (feat. Ky-Mani Marley)",
       "url": "https://open.spotify.com/track/1lxswgIpzV6HhENRvkflES"
-    },
-    {
-      "added_at": "2024-07-13 01:09:02",
-      "album": {
-        "name": "Manuel Medrano",
-        "url": "https://open.spotify.com/album/3XeEBV0owMhwHmyLfaMxwg"
-      },
-      "artists": [
-        {
-          "name": "Manuel Medrano",
-          "url": "https://open.spotify.com/artist/0i5iO6icb7kxg48thi9gBM"
-        }
-      ],
-      "duration_ms": 190605,
-      "name": "Una y Otra Vez",
-      "url": "https://open.spotify.com/track/0bK3jxkbq5cDKWr68KtO8G"
     },
     {
       "added_at": "2024-07-13 01:09:02",
@@ -387,22 +387,6 @@
     {
       "added_at": "2024-07-13 01:09:02",
       "album": {
-        "name": "Un Besito M\u00e1s",
-        "url": "https://open.spotify.com/album/6pmTwCb5SeTjV9wdnkbDo3"
-      },
-      "artists": [
-        {
-          "name": "Jesse & Joy",
-          "url": "https://open.spotify.com/artist/1mX1TWKpNxDSAH16LgDfiR"
-        }
-      ],
-      "duration_ms": 229933,
-      "name": "Me Soltaste",
-      "url": "https://open.spotify.com/track/02yD6Wmpx5kLAoXLQOnuEb"
-    },
-    {
-      "added_at": "2024-07-13 01:09:02",
-      "album": {
         "name": "Manuel Medrano",
         "url": "https://open.spotify.com/album/3XeEBV0owMhwHmyLfaMxwg"
       },
@@ -415,6 +399,22 @@
       "duration_ms": 256948,
       "name": "Si Pudiera",
       "url": "https://open.spotify.com/track/5SqG2MEuRjwhxi1DcRR4V8"
+    },
+    {
+      "added_at": "2024-07-13 01:09:02",
+      "album": {
+        "name": "Un Besito M\u00e1s",
+        "url": "https://open.spotify.com/album/6pmTwCb5SeTjV9wdnkbDo3"
+      },
+      "artists": [
+        {
+          "name": "Jesse & Joy",
+          "url": "https://open.spotify.com/artist/1mX1TWKpNxDSAH16LgDfiR"
+        }
+      ],
+      "duration_ms": 229933,
+      "name": "Me Soltaste",
+      "url": "https://open.spotify.com/track/02yD6Wmpx5kLAoXLQOnuEb"
     },
     {
       "added_at": "2024-07-13 01:09:02",

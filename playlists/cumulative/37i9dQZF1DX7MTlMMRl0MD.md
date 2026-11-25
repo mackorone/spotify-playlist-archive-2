@@ -4,7 +4,7 @@
 
 > Tu lista favorita de Bachata ❤️ Cover: Romeo Santos & Prince Royce
 
-443 songs - 1 day 2 hr 45 min
+444 songs - 1 day 2 hr 48 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -72,7 +72,7 @@
 | [Carita de Inocente \(feat\. Myke Towers\) \- Remix](https://open.spotify.com/track/5kQre7o8ky5DXeEPcyaCR1) | [Prince Royce](https://open.spotify.com/artist/3MHaV05u0io8fQbZ2XPtlC), [Myke Towers](https://open.spotify.com/artist/7iK8PXO48WeuP03g8YR51W) | [Carita de Inocente \(feat\. Myke Towers\) \[Remix\]](https://open.spotify.com/album/54m2Pe3Khdiarwv2PCS8DY) | 3:12 | 2022-03-04 | 2022-09-30 |
 | [Carmín \(feat\. Juan Luis Guerra\)](https://open.spotify.com/track/7feNblkR0A56vttsAGTyzK) | [Romeo Santos](https://open.spotify.com/artist/5lwmRuXgjX8xIwlnauTZIP), [Juan Luis Guerra 4.40](https://open.spotify.com/artist/3nlpTZci9O5W8RsNoNH559) | [Golden](https://open.spotify.com/album/6bm9EpUNvQ9xMglBJGRmgS) | 3:28 | 2022-03-04 | 2022-07-29 |
 | [Celoso](https://open.spotify.com/track/73DAgDEI5kFmascekWsZIe) | [Lil Eddie](https://open.spotify.com/artist/5CY0QKsbUBpQJIE2yycsYi) | [Celoso](https://open.spotify.com/album/0l60Oj3eiI7gBWUoAn8YLq) | 3:23 | 2023-09-01 | 2023-10-16 |
-| [Cita](https://open.spotify.com/track/6qunupscDkjPmalMp3ybbs) | [Mr\. Don](https://open.spotify.com/artist/12YP3RGVLp3c36Zi6lFRtR), [DerekVinci](https://open.spotify.com/artist/7du7SizqDeaP96ds19p1yu) | [Cita](https://open.spotify.com/album/3ttKofk4OSgzyNzvAgHeSo) | 3:28 | 2025-10-17 |  |
+| [Cita](https://open.spotify.com/track/6qunupscDkjPmalMp3ybbs) | [Mr\. Don](https://open.spotify.com/artist/12YP3RGVLp3c36Zi6lFRtR), [DerekVinci](https://open.spotify.com/artist/7du7SizqDeaP96ds19p1yu) | [Cita](https://open.spotify.com/album/3ttKofk4OSgzyNzvAgHeSo) | 3:28 | 2025-10-17 | 2026-11-25 |
 | [Ciudadana](https://open.spotify.com/track/7fCvGG97wqAIqtOxX87Uv1) | [Romeo Santos](https://open.spotify.com/artist/5lwmRuXgjX8xIwlnauTZIP) | [Fórmula, Vol\. 3](https://open.spotify.com/album/3kGn13mW34Ookfj6yiY8BF) | 3:33 | 2022-09-02 | 2022-09-10 |
 | [Clavada En Mi Cuerpo](https://open.spotify.com/track/2r8f3ojwoRpnz6Aszufnrt) | [Daniel Simo](https://open.spotify.com/artist/4HZGfCiVVgfmaKlvyIF65k) | [Clavada En Mi Cuerpo](https://open.spotify.com/album/5k3fW7bHYsk7dSDD89FZiJ) | 3:20 | 2023-11-10 | 2024-04-19 |
 | [Clavaito](https://open.spotify.com/track/26V1bLUk0SBYkLEwl4caPR) | [Chanel](https://open.spotify.com/artist/5DeX42pr2TilrnsUgjG8D1), [Abraham Mateo](https://open.spotify.com/artist/2bxxlINUlcMQQb39K7IopR) | [Clavaito](https://open.spotify.com/album/04EvopsobNB5TNIzzAp0w0) | 2:42 | 2023-04-28 | 2024-01-13 |
@@ -346,6 +346,7 @@
 | [Quiéreme](https://open.spotify.com/track/0M9Qr6K4wfoGUDBDgSzXgf) | [Toby Love](https://open.spotify.com/artist/72R3RMGmSmzG57R7OUaDaN) | [Quiéreme](https://open.spotify.com/album/49caV5I1ACJoWhF8najT9U) | 4:01 | 2022-03-25 | 2022-09-03 |
 | [Quiéreme Menos](https://open.spotify.com/track/08lj7xleA0SBiLhrDZUqIU) | [NATTI NATASHA](https://open.spotify.com/artist/1GDbiv3spRmZ1XdM1jQbT7) | [Quiéreme Menos](https://open.spotify.com/album/7wU6rEuPAtlHXFqRnrdWic) | 3:33 | 2024-06-07 | 2025-02-08 |
 | [Qué Pecao](https://open.spotify.com/track/456U68M8lIymkz56Zroxh8) | [Manuel Turizo](https://open.spotify.com/artist/0tmwSHipWxN12fsoLcFU3B), [Kapo](https://open.spotify.com/artist/3UTF2no3muGdiFXVujl94i) | [Qué Pecao](https://open.spotify.com/album/753zWh3I26DZ8pCOfJFZfA) | 3:50 | 2024-10-04 |  |
+| [Química](https://open.spotify.com/track/3Gq7jBOYcn2SsbTdfEFWtU) | [Johnny Sky](https://open.spotify.com/artist/3EVZsBWq5KqdtS6eVNHN8d) | [Química](https://open.spotify.com/album/4pt3YzSijT0QJBowxRd7Jm) | 3:08 | 2026-11-20 |  |
 | [Quíteme La Inocencia](https://open.spotify.com/track/6w7Ku2mTaB2NKg59Gx2lxA) | [Henry Santos](https://open.spotify.com/artist/1cUfMJtWJXfhTQvYGJQtaF) | [2.0](https://open.spotify.com/album/4tuxS7kkwSZ3IGqJpuc2Kd) | 4:10 | 2024-05-31 | 2025-11-22 |
 | [R.I.P.](https://open.spotify.com/track/7hpx4wsPAgsLNokB1CLT1w) | [Romeo Santos](https://open.spotify.com/artist/5lwmRuXgjX8xIwlnauTZIP) | [Fórmula, Vol\. 3](https://open.spotify.com/album/3kGn13mW34Ookfj6yiY8BF) | 3:21 | 2022-09-02 | 2022-09-10 |
 | [Rechazame](https://open.spotify.com/track/07p0kLnvfQQ2bLujHyzSGK) | [Prince Royce](https://open.spotify.com/artist/3MHaV05u0io8fQbZ2XPtlC) | [Prince Royce](https://open.spotify.com/album/5zEFCJy9kAyD8rMbBESdYh) | 3:43 | 2022-03-04 | 2023-10-21 |

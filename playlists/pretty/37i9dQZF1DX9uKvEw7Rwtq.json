@@ -1,12 +1,12 @@
 {
   "description": "Soaring soundscapes from the most epic Post-Rock artists.",
-  "num_followers": 129585,
+  "num_followers": 129617,
   "original_name": "Ambient Post-Rock",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAHLoGjaVzck99m5gKLa8c4wFGINi",
+  "snapshot_id": "AAAAAO66GyLitHN4qmpp//Bszto9qrx3",
   "tracks": [
     {
       "added_at": "2026-11-23 14:17:34",
@@ -435,6 +435,22 @@
     {
       "added_at": "2026-11-23 14:17:34",
       "album": {
+        "name": "Feeling Everything but Lost",
+        "url": "https://open.spotify.com/album/44TCjQ57NmQQD5BAkT6lqG"
+      },
+      "artists": [
+        {
+          "name": "Andrew Prahlow",
+          "url": "https://open.spotify.com/artist/0z4uBJEzO1dJy57Qk5UYt8"
+        }
+      ],
+      "duration_ms": 295104,
+      "name": "Feeling Everything but Lost",
+      "url": "https://open.spotify.com/track/5OY253uETDSe8456oYvkS3"
+    },
+    {
+      "added_at": "2026-11-23 14:17:34",
+      "album": {
         "name": "Healing Is A Miracle",
         "url": "https://open.spotify.com/album/4GaLdSDDbRK0CoJKSnihbo"
       },
@@ -451,22 +467,6 @@
       "duration_ms": 366290,
       "name": "In Light",
       "url": "https://open.spotify.com/track/3de74WrhYh5VKf6t86acCb"
-    },
-    {
-      "added_at": "2026-11-23 14:17:34",
-      "album": {
-        "name": "Feeling Everything but Lost",
-        "url": "https://open.spotify.com/album/44TCjQ57NmQQD5BAkT6lqG"
-      },
-      "artists": [
-        {
-          "name": "Andrew Prahlow",
-          "url": "https://open.spotify.com/artist/0z4uBJEzO1dJy57Qk5UYt8"
-        }
-      ],
-      "duration_ms": 295104,
-      "name": "Feeling Everything but Lost",
-      "url": "https://open.spotify.com/track/5OY253uETDSe8456oYvkS3"
     },
     {
       "added_at": "2026-11-23 14:17:34",
@@ -663,6 +663,22 @@
     {
       "added_at": "2026-11-23 14:17:34",
       "album": {
+        "name": "sleepmakeswaves",
+        "url": "https://open.spotify.com/album/4n51rWv1OwFWlYmrFNQFVp"
+      },
+      "artists": [
+        {
+          "name": "sleepmakeswaves",
+          "url": "https://open.spotify.com/artist/0EnDtiDrCgklr97QMJOSPv"
+        }
+      ],
+      "duration_ms": 290453,
+      "name": "It's Dark, It's Cold, It's Winter",
+      "url": "https://open.spotify.com/track/0hZSni3035ItjVGyfYGiQX"
+    },
+    {
+      "added_at": "2026-11-23 14:17:34",
+      "album": {
         "name": "Drifting",
         "url": "https://open.spotify.com/album/1bGo7G5JOcy9jE8S4uNo0H"
       },
@@ -679,22 +695,6 @@
       "duration_ms": 173705,
       "name": "Drifting",
       "url": "https://open.spotify.com/track/2ttXU3cfx8unAngSRQ60CK"
-    },
-    {
-      "added_at": "2026-11-23 14:17:34",
-      "album": {
-        "name": "sleepmakeswaves",
-        "url": "https://open.spotify.com/album/4n51rWv1OwFWlYmrFNQFVp"
-      },
-      "artists": [
-        {
-          "name": "sleepmakeswaves",
-          "url": "https://open.spotify.com/artist/0EnDtiDrCgklr97QMJOSPv"
-        }
-      ],
-      "duration_ms": 290453,
-      "name": "It's Dark, It's Cold, It's Winter",
-      "url": "https://open.spotify.com/track/0hZSni3035ItjVGyfYGiQX"
     },
     {
       "added_at": "2026-11-23 14:17:34",
@@ -927,22 +927,6 @@
     {
       "added_at": "2026-11-23 14:17:34",
       "album": {
-        "name": "Blurring",
-        "url": "https://open.spotify.com/album/1JvlqLOBMVJZm0jGSYM3WB"
-      },
-      "artists": [
-        {
-          "name": "Vivienne Eastwood",
-          "url": "https://open.spotify.com/artist/70MmXzSdRlMVKHTpM85Jmu"
-        }
-      ],
-      "duration_ms": 216237,
-      "name": "Fog",
-      "url": "https://open.spotify.com/track/6FuTWOqsTYwGvjRxqcwdEU"
-    },
-    {
-      "added_at": "2026-11-23 14:17:34",
-      "album": {
         "name": "Dusk/Dawn",
         "url": "https://open.spotify.com/album/3lnSqrokikM7TF5tIhnle0"
       },
@@ -955,6 +939,22 @@
       "duration_ms": 182760,
       "name": "Tear Trails",
       "url": "https://open.spotify.com/track/6FpXTmp13c5NyUCv1XBwIU"
+    },
+    {
+      "added_at": "2026-11-23 14:17:34",
+      "album": {
+        "name": "Blurring",
+        "url": "https://open.spotify.com/album/1JvlqLOBMVJZm0jGSYM3WB"
+      },
+      "artists": [
+        {
+          "name": "Vivienne Eastwood",
+          "url": "https://open.spotify.com/artist/70MmXzSdRlMVKHTpM85Jmu"
+        }
+      ],
+      "duration_ms": 216237,
+      "name": "Fog",
+      "url": "https://open.spotify.com/track/6FuTWOqsTYwGvjRxqcwdEU"
     },
     {
       "added_at": "2026-11-23 14:17:34",
@@ -1047,38 +1047,6 @@
     {
       "added_at": "2026-11-23 14:17:34",
       "album": {
-        "name": "Dragoon",
-        "url": "https://open.spotify.com/album/4zZR5AnYdvyChSGy0aEGEp"
-      },
-      "artists": [
-        {
-          "name": "Amparo",
-          "url": "https://open.spotify.com/artist/55FRGLGEoc58o9fNM6gEdf"
-        }
-      ],
-      "duration_ms": 183050,
-      "name": "Dragoon",
-      "url": "https://open.spotify.com/track/6LGFTYASAcu8YMCcAwRG2g"
-    },
-    {
-      "added_at": "2026-11-23 14:17:34",
-      "album": {
-        "name": "Mockingbird Love",
-        "url": "https://open.spotify.com/album/78iqh8E1w21f5RxVUNXPuq"
-      },
-      "artists": [
-        {
-          "name": "Robin Guthrie",
-          "url": "https://open.spotify.com/artist/3ZqRIzadY4WYQEg4Hj2vGC"
-        }
-      ],
-      "duration_ms": 173853,
-      "name": "My Courtesan",
-      "url": "https://open.spotify.com/track/3Mpwsnfe7Q6AspY7aM7qvF"
-    },
-    {
-      "added_at": "2026-11-23 14:17:34",
-      "album": {
         "name": "Love in the Void",
         "url": "https://open.spotify.com/album/1zlinQtrWot4RrBtxB4UTX"
       },
@@ -1095,6 +1063,22 @@
     {
       "added_at": "2026-11-23 14:17:34",
       "album": {
+        "name": "Dragoon",
+        "url": "https://open.spotify.com/album/4zZR5AnYdvyChSGy0aEGEp"
+      },
+      "artists": [
+        {
+          "name": "Amparo",
+          "url": "https://open.spotify.com/artist/55FRGLGEoc58o9fNM6gEdf"
+        }
+      ],
+      "duration_ms": 183050,
+      "name": "Dragoon",
+      "url": "https://open.spotify.com/track/6LGFTYASAcu8YMCcAwRG2g"
+    },
+    {
+      "added_at": "2026-11-23 14:17:34",
+      "album": {
         "name": "(not) alone",
         "url": "https://open.spotify.com/album/51dQuuCnhq9ofFbktytfSx"
       },
@@ -1107,6 +1091,22 @@
       "duration_ms": 279197,
       "name": "(not) alone",
       "url": "https://open.spotify.com/track/5H160uvDJVx2e0kfVu4s9u"
+    },
+    {
+      "added_at": "2026-11-23 14:17:34",
+      "album": {
+        "name": "Mockingbird Love",
+        "url": "https://open.spotify.com/album/78iqh8E1w21f5RxVUNXPuq"
+      },
+      "artists": [
+        {
+          "name": "Robin Guthrie",
+          "url": "https://open.spotify.com/artist/3ZqRIzadY4WYQEg4Hj2vGC"
+        }
+      ],
+      "duration_ms": 173853,
+      "name": "My Courtesan",
+      "url": "https://open.spotify.com/track/3Mpwsnfe7Q6AspY7aM7qvF"
     },
     {
       "added_at": "2026-11-23 14:17:34",
@@ -1143,22 +1143,6 @@
     {
       "added_at": "2026-11-23 14:17:34",
       "album": {
-        "name": "Blowback",
-        "url": "https://open.spotify.com/album/7qalD6mlYYh5lFxaEQ5qS5"
-      },
-      "artists": [
-        {
-          "name": "Marconi Union",
-          "url": "https://open.spotify.com/artist/3nZ3ed6p4CKc1McTLypr6H"
-        }
-      ],
-      "duration_ms": 309200,
-      "name": "Blowback - Edit",
-      "url": "https://open.spotify.com/track/4sARF0lHRj1dnK7twhxSJy"
-    },
-    {
-      "added_at": "2026-11-23 14:17:34",
-      "album": {
         "name": "The Blurred Horizon",
         "url": "https://open.spotify.com/album/5dV6WbZFE6pFBDty0iSHLi"
       },
@@ -1171,6 +1155,22 @@
       "duration_ms": 236792,
       "name": "The Blurred Horizon",
       "url": "https://open.spotify.com/track/3VabinWYofsmVNxaqwEtaM"
+    },
+    {
+      "added_at": "2026-11-23 14:17:34",
+      "album": {
+        "name": "Blowback",
+        "url": "https://open.spotify.com/album/7qalD6mlYYh5lFxaEQ5qS5"
+      },
+      "artists": [
+        {
+          "name": "Marconi Union",
+          "url": "https://open.spotify.com/artist/3nZ3ed6p4CKc1McTLypr6H"
+        }
+      ],
+      "duration_ms": 309200,
+      "name": "Blowback - Edit",
+      "url": "https://open.spotify.com/track/4sARF0lHRj1dnK7twhxSJy"
     },
     {
       "added_at": "2026-11-23 14:17:34",
@@ -1263,6 +1263,22 @@
     {
       "added_at": "2026-11-23 14:17:34",
       "album": {
+        "name": "Chronos",
+        "url": "https://open.spotify.com/album/4w6Khg9vi5Dsw9Si0M8fxn"
+      },
+      "artists": [
+        {
+          "name": "Ausklang",
+          "url": "https://open.spotify.com/artist/1ZcJinECNbDAgjHi91jf8Z"
+        }
+      ],
+      "duration_ms": 355360,
+      "name": "Abschied",
+      "url": "https://open.spotify.com/track/5l0a62AwHR4Im5HZ7uhMAy"
+    },
+    {
+      "added_at": "2026-11-23 14:17:34",
+      "album": {
         "name": "Lifelike",
         "url": "https://open.spotify.com/album/3I0Vuo5qaEIKB5OL6KIIRL"
       },
@@ -1295,22 +1311,6 @@
       "duration_ms": 226760,
       "name": "Enfold",
       "url": "https://open.spotify.com/track/28NPBeo0MgVDYCJnu2C5Hq"
-    },
-    {
-      "added_at": "2026-11-23 14:17:34",
-      "album": {
-        "name": "Chronos",
-        "url": "https://open.spotify.com/album/4w6Khg9vi5Dsw9Si0M8fxn"
-      },
-      "artists": [
-        {
-          "name": "Ausklang",
-          "url": "https://open.spotify.com/artist/1ZcJinECNbDAgjHi91jf8Z"
-        }
-      ],
-      "duration_ms": 355360,
-      "name": "Abschied",
-      "url": "https://open.spotify.com/track/5l0a62AwHR4Im5HZ7uhMAy"
     },
     {
       "added_at": "2026-11-23 14:17:34",
@@ -1415,22 +1415,6 @@
     {
       "added_at": "2026-11-23 14:17:34",
       "album": {
-        "name": "Pajama Avenue",
-        "url": "https://open.spotify.com/album/3qAEUZXgpWwJSt9YxyAB7E"
-      },
-      "artists": [
-        {
-          "name": "Zelienople",
-          "url": "https://open.spotify.com/artist/7JoqPuWVcwttLMTT0jgSgY"
-        }
-      ],
-      "duration_ms": 232026,
-      "name": "Back To Dangerous",
-      "url": "https://open.spotify.com/track/60E5CKMclWgAFxcqKVz0rg"
-    },
-    {
-      "added_at": "2026-11-23 14:17:34",
-      "album": {
         "name": "Dark Awakening",
         "url": "https://open.spotify.com/album/23tATsqQ7WTsGCMByB3PBh"
       },
@@ -1447,6 +1431,22 @@
       "duration_ms": 281176,
       "name": "Dark Awakening",
       "url": "https://open.spotify.com/track/4kT3wvtV8P40nwbw5vRGlk"
+    },
+    {
+      "added_at": "2026-11-23 14:17:34",
+      "album": {
+        "name": "Pajama Avenue",
+        "url": "https://open.spotify.com/album/3qAEUZXgpWwJSt9YxyAB7E"
+      },
+      "artists": [
+        {
+          "name": "Zelienople",
+          "url": "https://open.spotify.com/artist/7JoqPuWVcwttLMTT0jgSgY"
+        }
+      ],
+      "duration_ms": 232026,
+      "name": "Back To Dangerous",
+      "url": "https://open.spotify.com/track/60E5CKMclWgAFxcqKVz0rg"
     },
     {
       "added_at": "2026-11-23 14:17:34",
@@ -1483,22 +1483,6 @@
     {
       "added_at": "2026-11-23 14:17:34",
       "album": {
-        "name": "Water Temple",
-        "url": "https://open.spotify.com/album/2tDEN7aZafEFVRcoNiBdtp"
-      },
-      "artists": [
-        {
-          "name": "Lords of Lounge",
-          "url": "https://open.spotify.com/artist/1rr5AQb3MwrAJB4mrw2K88"
-        }
-      ],
-      "duration_ms": 258510,
-      "name": "Water Temple",
-      "url": "https://open.spotify.com/track/1lyprGNpWaB0Ay8DZxNBoW"
-    },
-    {
-      "added_at": "2026-11-23 14:17:34",
-      "album": {
         "name": "A Dream to Call My Own (feat. Janell Rosa)",
         "url": "https://open.spotify.com/album/2VX4sX25BcOUOY7sofYgaq"
       },
@@ -1515,6 +1499,22 @@
       "duration_ms": 229186,
       "name": "A Dream to Call My Own (feat. Janell Rosa)",
       "url": "https://open.spotify.com/track/1QRbOx5X5oCNla0mfHJOH3"
+    },
+    {
+      "added_at": "2026-11-23 14:17:34",
+      "album": {
+        "name": "Water Temple",
+        "url": "https://open.spotify.com/album/2tDEN7aZafEFVRcoNiBdtp"
+      },
+      "artists": [
+        {
+          "name": "Lords of Lounge",
+          "url": "https://open.spotify.com/artist/1rr5AQb3MwrAJB4mrw2K88"
+        }
+      ],
+      "duration_ms": 258510,
+      "name": "Water Temple",
+      "url": "https://open.spotify.com/track/1lyprGNpWaB0Ay8DZxNBoW"
     },
     {
       "added_at": "2026-11-23 14:17:34",
@@ -1583,22 +1583,6 @@
     {
       "added_at": "2026-11-23 14:17:34",
       "album": {
-        "name": "The crossing of the body, the crossing of the mind",
-        "url": "https://open.spotify.com/album/7utBi0iF3bDZhxPHYUkRLN"
-      },
-      "artists": [
-        {
-          "name": "Grand River",
-          "url": "https://open.spotify.com/artist/7HtrqYEdzfxQcGct9YBxAO"
-        }
-      ],
-      "duration_ms": 369000,
-      "name": "The crossing of the body, the crossing of the mind",
-      "url": "https://open.spotify.com/track/6MgoSroXxLl11g41YX5jnF"
-    },
-    {
-      "added_at": "2026-11-23 14:17:34",
-      "album": {
         "name": "Home",
         "url": "https://open.spotify.com/album/0qYTcGFEUHoPldbtmQS7Ig"
       },
@@ -1611,6 +1595,22 @@
       "duration_ms": 230000,
       "name": "Astronomer",
       "url": "https://open.spotify.com/track/19XzE3XTdm2wwA6Y5OnK5L"
+    },
+    {
+      "added_at": "2026-11-23 14:17:34",
+      "album": {
+        "name": "The crossing of the body, the crossing of the mind",
+        "url": "https://open.spotify.com/album/7utBi0iF3bDZhxPHYUkRLN"
+      },
+      "artists": [
+        {
+          "name": "Grand River",
+          "url": "https://open.spotify.com/artist/7HtrqYEdzfxQcGct9YBxAO"
+        }
+      ],
+      "duration_ms": 369000,
+      "name": "The crossing of the body, the crossing of the mind",
+      "url": "https://open.spotify.com/track/6MgoSroXxLl11g41YX5jnF"
     },
     {
       "added_at": "2026-11-23 14:17:34",
@@ -1667,18 +1667,18 @@
     {
       "added_at": "2026-11-23 14:17:34",
       "album": {
-        "name": "A Place to Breathe",
-        "url": "https://open.spotify.com/album/1MfQ1WJQ5IihFUkqusIgxQ"
+        "name": "habit",
+        "url": "https://open.spotify.com/album/6kzpKvFCz4448pyTWwR5up"
       },
       "artists": [
         {
-          "name": "Lumestria",
-          "url": "https://open.spotify.com/artist/2EgAcyKbKswfRo9sHGG3xC"
+          "name": "Sungiovese",
+          "url": "https://open.spotify.com/artist/1coz1ceyz5xJV9Tts1GkLL"
         }
       ],
-      "duration_ms": 178285,
-      "name": "A Place to Breathe",
-      "url": "https://open.spotify.com/track/6buddStONGyZPOSDaYODVU"
+      "duration_ms": 135529,
+      "name": "habit",
+      "url": "https://open.spotify.com/track/4IIDTnfRbJOeG2BfNLmBXe"
     }
   ],
   "unique_name": "Ambient Post-Rock",

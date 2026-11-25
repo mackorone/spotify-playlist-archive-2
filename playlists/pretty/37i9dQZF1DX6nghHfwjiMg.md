@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6nghHfwjiMg.md) - [plain]
 
 > Artistas para descubrir 📸 Trouve Feraud
 
-[Spotify](https://open.spotify.com/user/spotify) - 57,387 likes - 85 songs - 4 hr 33 min
+[Spotify](https://open.spotify.com/user/spotify) - 57,391 likes - 85 songs - 4 hr 33 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -94,4 +94,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6nghHfwjiMg.md) - [plain]
 | 84 | [El Aplauso](https://open.spotify.com/track/4tsVNk3h7QUEz8KhOHPpaY) | [Broke Carrey](https://open.spotify.com/artist/6FWTqLIVK9jjMGcNJnF7xE) | [HIJO DEL PAÍS](https://open.spotify.com/album/7wN3L4ddlP7ZaLICrN7SI1) | 3:20 |
 | 85 | [Entre Lazos](https://open.spotify.com/track/1YQ1QK6S5QpfFdbzV74KSj) | [Mariano Brocchini](https://open.spotify.com/artist/0F2RJxdzNxdnAIg43Sh7H2), [MARTIN JOTA YUBRO](https://open.spotify.com/artist/22blB9WFLiajsDgReo97BU) | [Entre Lazos](https://open.spotify.com/album/3tXjgHkdAM7uVRBHZRYgtY) | 3:05 |
 
-Snapshot ID: `AAAAAJmPBmrURuJeK7s+Wb2H9Yf2jgkn`
+Snapshot ID: `AAAAAMw72r7HziNZ1/Gx8eaSjAyTOIpB`

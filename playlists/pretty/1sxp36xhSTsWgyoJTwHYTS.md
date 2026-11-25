@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/1sxp36xhSTsWgyoJTwHYTS.md) - [plain]
 
 > Submit your song: https:&\#x2F;&\#x2F;dailyplaylists.com&\#x2F;playlists&\#x2F;1sxp36xhSTsWgyoJTwHYTS
 
-[RADIO PLUG PRO](https://open.spotify.com/user/31j62y3lgk2wiycoov2nuie5hp3e) - 642 likes - 272 songs - 14 hr 36 min
+[RADIO PLUG PRO](https://open.spotify.com/user/31j62y3lgk2wiycoov2nuie5hp3e) - 642 likes - 273 songs - 14 hr 39 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -280,5 +280,6 @@ pretty - [cumulative](/playlists/cumulative/1sxp36xhSTsWgyoJTwHYTS.md) - [plain]
 | 270 | [Magie](https://open.spotify.com/track/25kB5gdH7TxgTIkwpk9yMT) | [Colossale](https://open.spotify.com/artist/1eektsWsMeBWe0icYCQj2x) | [Magus](https://open.spotify.com/album/4dViPrbDf2sIFrnL3tffsW) | 3:15 |
 | 271 | [2012](https://open.spotify.com/track/0tekBW6yZxwHcWBOF3jaFD) | [Colossale](https://open.spotify.com/artist/1eektsWsMeBWe0icYCQj2x) | [Magus](https://open.spotify.com/album/4dViPrbDf2sIFrnL3tffsW) | 3:34 |
 | 272 | [Hypervantiler](https://open.spotify.com/track/5BwOvTHQwkyj9MfczfPZbK) | [YTP](https://open.spotify.com/artist/4FkXK5mCRdCOAfBWiKeX5H) | [Hypervantiler](https://open.spotify.com/album/6gep93s2umgaIA0m22BJkO) | 1:59 |
+| 273 | [ROCHE](https://open.spotify.com/track/6sg2okNZyfwumYs3uJ5TYh) | [Bello](https://open.spotify.com/artist/4mWgQMhFbTAyRtjyOFmm50) | [ROCHE](https://open.spotify.com/album/0ND4XlFwgs0oSPQe76BaFg) | 2:33 |
 
-Snapshot ID: `AAABOn1lqIHNvZbm3EpJjvGyF3X9d2Pf`
+Snapshot ID: `AAABO5cVi/lE7rjW6kRWdj5cojtxxCC7`

@@ -1,12 +1,12 @@
 {
   "description": "This is Macklemore. The essential tracks, all in one playlist.",
-  "num_followers": 210486,
+  "num_followers": 210493,
   "original_name": "This Is Macklemore",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "awIwgAAAAABytPiLTMYfYI6uWjzOVWew",
+  "snapshot_id": "awOCAAAAAABZNQknmmY2I0TgwfES/xYJ",
   "tracks": [
     {
       "added_at": null,
@@ -315,22 +315,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "HIND'S HALL",
-        "url": "https://open.spotify.com/album/5sufLQAlJG3TnaZ1EgfqzB"
-      },
-      "artists": [
-        {
-          "name": "Macklemore",
-          "url": "https://open.spotify.com/artist/3JhNCzhSMTxs9WLGJJxWOY"
-        }
-      ],
-      "duration_ms": 168941,
-      "name": "HIND'S HALL",
-      "url": "https://open.spotify.com/track/1zOgXnODZUp87IGbF3b8YB"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "The Unplanned Mixtape",
         "url": "https://open.spotify.com/album/0Oy5pcr8Ijx4TqNn9AbC2k"
       },
@@ -343,6 +327,22 @@
       "duration_ms": 246213,
       "name": "And We Danced (feat. Ziggy Stardust)",
       "url": "https://open.spotify.com/track/1FCQEg7wOK9IIBuxx63krr"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "HIND'S HALL",
+        "url": "https://open.spotify.com/album/5sufLQAlJG3TnaZ1EgfqzB"
+      },
+      "artists": [
+        {
+          "name": "Macklemore",
+          "url": "https://open.spotify.com/artist/3JhNCzhSMTxs9WLGJJxWOY"
+        }
+      ],
+      "duration_ms": 168941,
+      "name": "HIND'S HALL",
+      "url": "https://open.spotify.com/track/1zOgXnODZUp87IGbF3b8YB"
     },
     {
       "added_at": null,
@@ -915,26 +915,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Love Song (feat. Evan Roman)",
-        "url": "https://open.spotify.com/album/4xvsLZ4l6iFWSBK0vnO9cg"
-      },
-      "artists": [
-        {
-          "name": "Macklemore",
-          "url": "https://open.spotify.com/artist/3JhNCzhSMTxs9WLGJJxWOY"
-        },
-        {
-          "name": "Evan Roman",
-          "url": "https://open.spotify.com/artist/3pB1yT1RqutcdHkI3oAdVS"
-        }
-      ],
-      "duration_ms": 263732,
-      "name": "Love Song (feat. Evan Roman)",
-      "url": "https://open.spotify.com/track/2RZ9EanhMHmfzFRH9WhZbW"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Lesser Oceans",
         "url": "https://open.spotify.com/album/3BHWgxELnhUxh6O3MnNKTp"
       },
@@ -955,6 +935,26 @@
       "duration_ms": 235557,
       "name": "Arrows (feat. Macklemore & Ryan Lewis)",
       "url": "https://open.spotify.com/track/6nTqAwkbh7I2ij0N52dxiw"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Love Song (feat. Evan Roman)",
+        "url": "https://open.spotify.com/album/4xvsLZ4l6iFWSBK0vnO9cg"
+      },
+      "artists": [
+        {
+          "name": "Macklemore",
+          "url": "https://open.spotify.com/artist/3JhNCzhSMTxs9WLGJJxWOY"
+        },
+        {
+          "name": "Evan Roman",
+          "url": "https://open.spotify.com/artist/3pB1yT1RqutcdHkI3oAdVS"
+        }
+      ],
+      "duration_ms": 263732,
+      "name": "Love Song (feat. Evan Roman)",
+      "url": "https://open.spotify.com/track/2RZ9EanhMHmfzFRH9WhZbW"
     },
     {
       "added_at": null,

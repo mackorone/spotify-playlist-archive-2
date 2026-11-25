@@ -1,12 +1,12 @@
 {
   "description": "P\u00f4r do sol com p\u00e9 na areia e aquela resenha com viol\u00e3o e muita rima.",
-  "num_followers": 157785,
+  "num_followers": 157781,
   "original_name": "Resenha na Praia",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAFFPs/8NMnioy5ntnUGIKCccOhRe",
+  "snapshot_id": "AAAAAHDmlnbvvVmhtzjEALXBHC8UqPnE",
   "tracks": [
     {
       "added_at": "2026-10-19 15:52:42",
@@ -351,6 +351,26 @@
     {
       "added_at": "2026-10-19 15:52:42",
       "album": {
+        "name": "Tom Cinza",
+        "url": "https://open.spotify.com/album/0eLyfqhf9aO3lXXhkmEUb6"
+      },
+      "artists": [
+        {
+          "name": "Cr\u00f4nicas de um Babaca",
+          "url": "https://open.spotify.com/artist/72ee6oTbXukPvwM6BOhVUV"
+        },
+        {
+          "name": "brandu",
+          "url": "https://open.spotify.com/artist/4b60qd5W1wYRQ94acEugv0"
+        }
+      ],
+      "duration_ms": 182400,
+      "name": "Tom Cinza",
+      "url": "https://open.spotify.com/track/0MXJUujqsue1TZpNsc7lnq"
+    },
+    {
+      "added_at": "2026-10-19 15:52:42",
+      "album": {
         "name": "At\u00e9 o Final",
         "url": "https://open.spotify.com/album/7JkPXfrHRDk8LA4hSeRoZ5"
       },
@@ -375,26 +395,6 @@
       "duration_ms": 144682,
       "name": "At\u00e9 o Final",
       "url": "https://open.spotify.com/track/688hyNXeh5JnbRc7tkxmGw"
-    },
-    {
-      "added_at": "2026-10-19 15:52:42",
-      "album": {
-        "name": "Tom Cinza",
-        "url": "https://open.spotify.com/album/0eLyfqhf9aO3lXXhkmEUb6"
-      },
-      "artists": [
-        {
-          "name": "Cr\u00f4nicas de um Babaca",
-          "url": "https://open.spotify.com/artist/72ee6oTbXukPvwM6BOhVUV"
-        },
-        {
-          "name": "brandu",
-          "url": "https://open.spotify.com/artist/4b60qd5W1wYRQ94acEugv0"
-        }
-      ],
-      "duration_ms": 182400,
-      "name": "Tom Cinza",
-      "url": "https://open.spotify.com/track/0MXJUujqsue1TZpNsc7lnq"
     },
     {
       "added_at": "2026-10-19 15:52:42",
@@ -507,6 +507,22 @@
     {
       "added_at": "2026-10-19 15:52:42",
       "album": {
+        "name": "UM44K Ac\u00fastico",
+        "url": "https://open.spotify.com/album/1ZhPU7ZlUoaGbvzvnuTxXh"
+      },
+      "artists": [
+        {
+          "name": "UM44K",
+          "url": "https://open.spotify.com/artist/3zhKxZr516VdNDa8v3oft2"
+        }
+      ],
+      "duration_ms": 163492,
+      "name": "Pode falar - Ac\u00fastico",
+      "url": "https://open.spotify.com/track/6r87fPeXYiKvG9Wa6oFcUP"
+    },
+    {
+      "added_at": "2026-10-19 15:52:42",
+      "album": {
         "name": "OCANV",
         "url": "https://open.spotify.com/album/4Bikfxcrqxu8mVuGPkkJ0D"
       },
@@ -527,22 +543,6 @@
       "duration_ms": 225138,
       "name": "Mundo Louco, N\u00f3s Tamb\u00e9m",
       "url": "https://open.spotify.com/track/7HZ2vnYJeKhByc42E57EEo"
-    },
-    {
-      "added_at": "2026-10-19 15:52:42",
-      "album": {
-        "name": "UM44K Ac\u00fastico",
-        "url": "https://open.spotify.com/album/1ZhPU7ZlUoaGbvzvnuTxXh"
-      },
-      "artists": [
-        {
-          "name": "UM44K",
-          "url": "https://open.spotify.com/artist/3zhKxZr516VdNDa8v3oft2"
-        }
-      ],
-      "duration_ms": 163492,
-      "name": "Pode falar - Ac\u00fastico",
-      "url": "https://open.spotify.com/track/6r87fPeXYiKvG9Wa6oFcUP"
     },
     {
       "added_at": "2026-10-19 15:52:42",
@@ -835,22 +835,6 @@
     {
       "added_at": "2026-10-19 15:52:42",
       "album": {
-        "name": "MARQUINHA",
-        "url": "https://open.spotify.com/album/0jK64HhmQ9W4Z5q54zgCqz"
-      },
-      "artists": [
-        {
-          "name": "DAY LIMNS",
-          "url": "https://open.spotify.com/artist/1x1qM3ZqHhJOn11m42svnc"
-        }
-      ],
-      "duration_ms": 146651,
-      "name": "MARQUINHA",
-      "url": "https://open.spotify.com/track/2kpH7eRW7kjkXIlJpde87R"
-    },
-    {
-      "added_at": "2026-10-19 15:52:42",
-      "album": {
         "name": "Talism\u00e3",
         "url": "https://open.spotify.com/album/6w8KrZmc4Lvo8CHOxcWsMX"
       },
@@ -871,6 +855,22 @@
       "duration_ms": 155744,
       "name": "Talism\u00e3",
       "url": "https://open.spotify.com/track/26DVRByfW09GuvoX7CO4Bu"
+    },
+    {
+      "added_at": "2026-10-19 15:52:42",
+      "album": {
+        "name": "MARQUINHA",
+        "url": "https://open.spotify.com/album/0jK64HhmQ9W4Z5q54zgCqz"
+      },
+      "artists": [
+        {
+          "name": "DAY LIMNS",
+          "url": "https://open.spotify.com/artist/1x1qM3ZqHhJOn11m42svnc"
+        }
+      ],
+      "duration_ms": 146651,
+      "name": "MARQUINHA",
+      "url": "https://open.spotify.com/track/2kpH7eRW7kjkXIlJpde87R"
     },
     {
       "added_at": "2026-10-19 15:52:42",
@@ -1007,6 +1007,22 @@
     {
       "added_at": "2026-10-19 15:52:42",
       "album": {
+        "name": "OBRA PRIMA",
+        "url": "https://open.spotify.com/album/059jQeL3t3lHZqzcTcs39N"
+      },
+      "artists": [
+        {
+          "name": "MC Gustavinho",
+          "url": "https://open.spotify.com/artist/77yd8ef29EG05232JEQzXu"
+        }
+      ],
+      "duration_ms": 169855,
+      "name": "OBRA PRIMA",
+      "url": "https://open.spotify.com/track/0IEHquF8iEgFBtTntygFcv"
+    },
+    {
+      "added_at": "2026-10-19 15:52:42",
+      "album": {
         "name": "Amor N\u00e3o Sai de Moda",
         "url": "https://open.spotify.com/album/6dk9pgzQaucd5U72M7tWZB"
       },
@@ -1083,42 +1099,6 @@
     {
       "added_at": "2026-10-19 15:52:42",
       "album": {
-        "name": "OBRA PRIMA",
-        "url": "https://open.spotify.com/album/059jQeL3t3lHZqzcTcs39N"
-      },
-      "artists": [
-        {
-          "name": "MC Gustavinho",
-          "url": "https://open.spotify.com/artist/77yd8ef29EG05232JEQzXu"
-        }
-      ],
-      "duration_ms": 169855,
-      "name": "OBRA PRIMA",
-      "url": "https://open.spotify.com/track/0IEHquF8iEgFBtTntygFcv"
-    },
-    {
-      "added_at": "2026-10-19 15:52:42",
-      "album": {
-        "name": "Pra Voc\u00ea Ficar",
-        "url": "https://open.spotify.com/album/3Ub14El2fpwfXczl3uPPrl"
-      },
-      "artists": [
-        {
-          "name": "Nairo",
-          "url": "https://open.spotify.com/artist/1D8czLMHw5DiZCQGd6xHXa"
-        },
-        {
-          "name": "Mun-Ra",
-          "url": "https://open.spotify.com/artist/0TCMOxaDMS40afITXwbE96"
-        }
-      ],
-      "duration_ms": 160819,
-      "name": "Pra Voc\u00ea Ficar",
-      "url": "https://open.spotify.com/track/7nfuTyQl3FDwxBspaww3Ng"
-    },
-    {
-      "added_at": "2026-10-19 15:52:42",
-      "album": {
         "name": "VIRADA DE CHAVE",
         "url": "https://open.spotify.com/album/4UEBroaikJEkW1tGDqGVGL"
       },
@@ -1139,6 +1119,26 @@
       "duration_ms": 188470,
       "name": "QUARTAS DE CINZA",
       "url": "https://open.spotify.com/track/6469XGbPcTiCKuZxOuvTYP"
+    },
+    {
+      "added_at": "2026-10-19 15:52:42",
+      "album": {
+        "name": "Pra Voc\u00ea Ficar",
+        "url": "https://open.spotify.com/album/3Ub14El2fpwfXczl3uPPrl"
+      },
+      "artists": [
+        {
+          "name": "Nairo",
+          "url": "https://open.spotify.com/artist/1D8czLMHw5DiZCQGd6xHXa"
+        },
+        {
+          "name": "Mun-Ra",
+          "url": "https://open.spotify.com/artist/0TCMOxaDMS40afITXwbE96"
+        }
+      ],
+      "duration_ms": 160819,
+      "name": "Pra Voc\u00ea Ficar",
+      "url": "https://open.spotify.com/track/7nfuTyQl3FDwxBspaww3Ng"
     },
     {
       "added_at": "2026-10-19 15:52:42",
@@ -1211,26 +1211,6 @@
     {
       "added_at": "2026-10-19 15:52:42",
       "album": {
-        "name": "Tanta Hist\u00f3ria",
-        "url": "https://open.spotify.com/album/4aWI6XIjlv7Ccs3AnufvzR"
-      },
-      "artists": [
-        {
-          "name": "Neo Beats",
-          "url": "https://open.spotify.com/artist/6PERJZF7wohA034PAxDK0b"
-        },
-        {
-          "name": "Dudu",
-          "url": "https://open.spotify.com/artist/5Ynf8bbQV9ICbK3vZoPxGF"
-        }
-      ],
-      "duration_ms": 195295,
-      "name": "Tanta Hist\u00f3ria",
-      "url": "https://open.spotify.com/track/1SQssy9EIJzkbp9nOtd89B"
-    },
-    {
-      "added_at": "2026-10-19 15:52:42",
-      "album": {
         "name": "ALAKASAM",
         "url": "https://open.spotify.com/album/6OvCm5b3mYCKuNEzFB63A6"
       },
@@ -1255,22 +1235,22 @@
     {
       "added_at": "2026-10-19 15:52:42",
       "album": {
-        "name": "Passa a Bola (Ao Vivo em Noronha)",
-        "url": "https://open.spotify.com/album/4eCXQWkuhMpQJpF33batUs"
+        "name": "Tanta Hist\u00f3ria",
+        "url": "https://open.spotify.com/album/4aWI6XIjlv7Ccs3AnufvzR"
       },
       "artists": [
         {
-          "name": "Planta E Raiz",
-          "url": "https://open.spotify.com/artist/5fKHm5RVUWIIirTGZlwGeO"
+          "name": "Neo Beats",
+          "url": "https://open.spotify.com/artist/6PERJZF7wohA034PAxDK0b"
         },
         {
-          "name": "MC Hariel",
-          "url": "https://open.spotify.com/artist/0pcoadNMmvrUyab1RxWBoV"
+          "name": "Dudu",
+          "url": "https://open.spotify.com/artist/5Ynf8bbQV9ICbK3vZoPxGF"
         }
       ],
-      "duration_ms": 188319,
-      "name": "Passa a Bola - Ao Vivo em Noronha",
-      "url": "https://open.spotify.com/track/41nNYqljJ4TY1ORtcMoNA1"
+      "duration_ms": 195295,
+      "name": "Tanta Hist\u00f3ria",
+      "url": "https://open.spotify.com/track/1SQssy9EIJzkbp9nOtd89B"
     },
     {
       "added_at": "2026-10-19 15:52:42",
@@ -1295,6 +1275,26 @@
       "duration_ms": 143448,
       "name": "Conex\u00e3o",
       "url": "https://open.spotify.com/track/1hoBqJiq8sR58nxGA1Wyva"
+    },
+    {
+      "added_at": "2026-10-19 15:52:42",
+      "album": {
+        "name": "Passa a Bola (Ao Vivo em Noronha)",
+        "url": "https://open.spotify.com/album/4eCXQWkuhMpQJpF33batUs"
+      },
+      "artists": [
+        {
+          "name": "Planta E Raiz",
+          "url": "https://open.spotify.com/artist/5fKHm5RVUWIIirTGZlwGeO"
+        },
+        {
+          "name": "MC Hariel",
+          "url": "https://open.spotify.com/artist/0pcoadNMmvrUyab1RxWBoV"
+        }
+      ],
+      "duration_ms": 188319,
+      "name": "Passa a Bola - Ao Vivo em Noronha",
+      "url": "https://open.spotify.com/track/41nNYqljJ4TY1ORtcMoNA1"
     },
     {
       "added_at": "2026-10-19 15:52:42",

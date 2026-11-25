@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZBCPUIUs2iR.md) - [plain]
 
 > A compilation of the all\-time biggest hits in Country Music\. Cover: Dolly Parton
 
-[Spotify](https://open.spotify.com/user/spotify) - 814,400 likes - 100 songs - 5 hr 47 min
+[Spotify](https://open.spotify.com/user/spotify) - 814,531 likes - 100 songs - 5 hr 47 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZBCPUIUs2iR.md) - [plain]
 | 99 | [Party Time](https://open.spotify.com/track/6hlvRaZM1U279W3rVkQ9qY) | [T.G\. Sheppard](https://open.spotify.com/artist/23C7hNBr8GRdsk3VoTSZXh) | [Super Hits](https://open.spotify.com/album/6J6IoDmM8Ls9koPtdm11Yu) | 3:32 |
 | 100 | [Is Anybody Goin' to San Antone](https://open.spotify.com/track/2hbrah0o7ppR1HeQkDvLhj) | [Charley Pride](https://open.spotify.com/artist/69Fk1s1lzINOKqoSWjjEiE) | [The Essential Charley Pride](https://open.spotify.com/album/4ALGvSzcQF4SD9WXLyDI75) | 2:13 |
 
-Snapshot ID: `AAAAAPVK3aG4lUlJyjSxS0ErKSoEhACN`
+Snapshot ID: `AAAAAJ2msc7RdcOBBQOJ+1l+xp+S4Vqa`

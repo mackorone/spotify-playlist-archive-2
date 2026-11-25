@@ -1,12 +1,12 @@
 {
   "description": "Classic rock to get your motor running. Cover: AC/DC",
-  "num_followers": 1316440,
+  "num_followers": 1316546,
   "original_name": "Classic Rock Drive",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAF/hvkuBQH8iSQZ3LdYej15+RV4z",
+  "snapshot_id": "AAAAAOUSgY9LefGcrs3orqmkJMX0Qzd/",
   "tracks": [
     {
       "added_at": "2021-03-02 18:13:49",
@@ -139,22 +139,6 @@
     {
       "added_at": "2021-03-02 18:13:49",
       "album": {
-        "name": "Boston",
-        "url": "https://open.spotify.com/album/2QLp07RO6anZHmtcKTEvSC"
-      },
-      "artists": [
-        {
-          "name": "Boston",
-          "url": "https://open.spotify.com/artist/29kkCKKGXheHuoO829FxWK"
-        }
-      ],
-      "duration_ms": 285133,
-      "name": "More Than a Feeling",
-      "url": "https://open.spotify.com/track/1QEEqeFIZktqIpPI4jSVSF"
-    },
-    {
-      "added_at": "2021-03-02 18:13:49",
-      "album": {
         "name": "Toto",
         "url": "https://open.spotify.com/album/1mnu4hYvdwQgZXcNvtJ3D3"
       },
@@ -167,6 +151,22 @@
       "duration_ms": 235552,
       "name": "Hold the Line",
       "url": "https://open.spotify.com/track/4aVuWgvD0X63hcOCnZtNFA"
+    },
+    {
+      "added_at": "2021-03-02 18:13:49",
+      "album": {
+        "name": "Boston",
+        "url": "https://open.spotify.com/album/2QLp07RO6anZHmtcKTEvSC"
+      },
+      "artists": [
+        {
+          "name": "Boston",
+          "url": "https://open.spotify.com/artist/29kkCKKGXheHuoO829FxWK"
+        }
+      ],
+      "duration_ms": 285133,
+      "name": "More Than a Feeling",
+      "url": "https://open.spotify.com/track/1QEEqeFIZktqIpPI4jSVSF"
     },
     {
       "added_at": "2021-03-02 18:13:49",
@@ -251,18 +251,18 @@
     {
       "added_at": "2021-03-02 18:13:49",
       "album": {
-        "name": "Abbey Road (Remastered 2009)",
-        "url": "https://open.spotify.com/album/0ETFjACtuP2ADo6LFhL6HN"
+        "name": "Rebel Yell",
+        "url": "https://open.spotify.com/album/2FZNWUmgRoP8uJZBaHJdfj"
       },
       "artists": [
         {
-          "name": "The Beatles",
-          "url": "https://open.spotify.com/artist/3WrFJ7ztbogyGnTHbHJFl2"
+          "name": "Billy Idol",
+          "url": "https://open.spotify.com/artist/7lzordPuZEXxwt9aoVZYmG"
         }
       ],
-      "duration_ms": 259946,
-      "name": "Come Together - Remastered 2009",
-      "url": "https://open.spotify.com/track/2EqlS6tkEnglzr7tkKAAYD"
+      "duration_ms": 288533,
+      "name": "Rebel Yell",
+      "url": "https://open.spotify.com/track/4TIJ7zSBNejpoIPaWpWRKc"
     },
     {
       "added_at": "2021-03-02 18:13:49",
@@ -283,34 +283,18 @@
     {
       "added_at": "2021-03-02 18:13:49",
       "album": {
-        "name": "Rebel Yell",
-        "url": "https://open.spotify.com/album/2FZNWUmgRoP8uJZBaHJdfj"
+        "name": "Abbey Road (Remastered 2009)",
+        "url": "https://open.spotify.com/album/0ETFjACtuP2ADo6LFhL6HN"
       },
       "artists": [
         {
-          "name": "Billy Idol",
-          "url": "https://open.spotify.com/artist/7lzordPuZEXxwt9aoVZYmG"
+          "name": "The Beatles",
+          "url": "https://open.spotify.com/artist/3WrFJ7ztbogyGnTHbHJFl2"
         }
       ],
-      "duration_ms": 288533,
-      "name": "Rebel Yell",
-      "url": "https://open.spotify.com/track/4TIJ7zSBNejpoIPaWpWRKc"
-    },
-    {
-      "added_at": "2021-03-02 18:13:49",
-      "album": {
-        "name": "Agents Of Fortune",
-        "url": "https://open.spotify.com/album/6C9WzlQANeoD0GW5B41YJt"
-      },
-      "artists": [
-        {
-          "name": "Blue \u00d6yster Cult",
-          "url": "https://open.spotify.com/artist/00tVTdpEhQQw1bqdu8RCx2"
-        }
-      ],
-      "duration_ms": 308123,
-      "name": "(Don't Fear) The Reaper",
-      "url": "https://open.spotify.com/track/5QTxFnGygVM4jFQiBovmRo"
+      "duration_ms": 259946,
+      "name": "Come Together - Remastered 2009",
+      "url": "https://open.spotify.com/track/2EqlS6tkEnglzr7tkKAAYD"
     },
     {
       "added_at": "2021-03-02 18:13:49",
@@ -327,6 +311,22 @@
       "duration_ms": 323000,
       "name": "Carry on Wayward Son",
       "url": "https://open.spotify.com/track/4DMKwE2E2iYDKY01C335Uw"
+    },
+    {
+      "added_at": "2021-03-02 18:13:49",
+      "album": {
+        "name": "Agents Of Fortune",
+        "url": "https://open.spotify.com/album/6C9WzlQANeoD0GW5B41YJt"
+      },
+      "artists": [
+        {
+          "name": "Blue \u00d6yster Cult",
+          "url": "https://open.spotify.com/artist/00tVTdpEhQQw1bqdu8RCx2"
+        }
+      ],
+      "duration_ms": 308123,
+      "name": "(Don't Fear) The Reaper",
+      "url": "https://open.spotify.com/track/5QTxFnGygVM4jFQiBovmRo"
     },
     {
       "added_at": "2021-03-02 18:13:49",
@@ -779,22 +779,6 @@
     {
       "added_at": "2021-03-02 18:13:49",
       "album": {
-        "name": "Born To Run",
-        "url": "https://open.spotify.com/album/43YIoHKSrEw2GJsWmhZIpu"
-      },
-      "artists": [
-        {
-          "name": "Bruce Springsteen",
-          "url": "https://open.spotify.com/artist/3eqjTLE0HfPfh78zjh6TqT"
-        }
-      ],
-      "duration_ms": 269932,
-      "name": "Born to Run",
-      "url": "https://open.spotify.com/track/6hTcuIQa0sxrrByu9wTD7s"
-    },
-    {
-      "added_at": "2021-03-02 18:13:49",
-      "album": {
         "name": "Departure",
         "url": "https://open.spotify.com/album/2OyVtIEp7O7a6o82DF4Ba5"
       },
@@ -807,6 +791,22 @@
       "duration_ms": 201693,
       "name": "Any Way You Want It",
       "url": "https://open.spotify.com/track/71SvEDmsOwIWw1IozsZoMA"
+    },
+    {
+      "added_at": "2021-03-02 18:13:49",
+      "album": {
+        "name": "Born To Run",
+        "url": "https://open.spotify.com/album/43YIoHKSrEw2GJsWmhZIpu"
+      },
+      "artists": [
+        {
+          "name": "Bruce Springsteen",
+          "url": "https://open.spotify.com/artist/3eqjTLE0HfPfh78zjh6TqT"
+        }
+      ],
+      "duration_ms": 269932,
+      "name": "Born to Run",
+      "url": "https://open.spotify.com/track/6hTcuIQa0sxrrByu9wTD7s"
     },
     {
       "added_at": "2021-03-02 18:13:49",
@@ -843,18 +843,34 @@
     {
       "added_at": "2021-03-02 18:13:49",
       "album": {
-        "name": "Morrison Hotel",
-        "url": "https://open.spotify.com/album/6AFLOkpJjFF652jevcSOZX"
+        "name": "Pieces Of Eight",
+        "url": "https://open.spotify.com/album/294yFGYq9SBXWR4g6dK63D"
       },
       "artists": [
         {
-          "name": "The Doors",
-          "url": "https://open.spotify.com/artist/22WZ7M8sxp5THdruNY3gXt"
+          "name": "Styx",
+          "url": "https://open.spotify.com/artist/4salDzkGmfycRqNUbyBphh"
         }
       ],
-      "duration_ms": 243826,
-      "name": "Roadhouse Blues",
-      "url": "https://open.spotify.com/track/1Q5kgpp4pmyGqPwNBzkSrw"
+      "duration_ms": 257226,
+      "name": "Renegade",
+      "url": "https://open.spotify.com/track/1CQqupcyMg7176PPmIVmSj"
+    },
+    {
+      "added_at": "2021-03-02 18:13:49",
+      "album": {
+        "name": "Fire And Water",
+        "url": "https://open.spotify.com/album/1ydlm89JR8cV8VuSaNvHNL"
+      },
+      "artists": [
+        {
+          "name": "Free",
+          "url": "https://open.spotify.com/artist/2e53aHBQdCMKWqHDuyJsjC"
+        }
+      ],
+      "duration_ms": 330643,
+      "name": "All Right Now",
+      "url": "https://open.spotify.com/track/1gcESexgftSuLuML57Y69q"
     },
     {
       "added_at": "2021-03-02 18:13:49",
@@ -875,22 +891,6 @@
     {
       "added_at": "2021-03-02 18:13:49",
       "album": {
-        "name": "Pieces Of Eight",
-        "url": "https://open.spotify.com/album/294yFGYq9SBXWR4g6dK63D"
-      },
-      "artists": [
-        {
-          "name": "Styx",
-          "url": "https://open.spotify.com/artist/4salDzkGmfycRqNUbyBphh"
-        }
-      ],
-      "duration_ms": 257226,
-      "name": "Renegade",
-      "url": "https://open.spotify.com/track/1CQqupcyMg7176PPmIVmSj"
-    },
-    {
-      "added_at": "2021-03-02 18:13:49",
-      "album": {
         "name": "Moving Pictures (2011 Remaster)",
         "url": "https://open.spotify.com/album/2xg7iIKoSqaDNpDbJnyCjY"
       },
@@ -907,18 +907,18 @@
     {
       "added_at": "2021-03-02 18:13:49",
       "album": {
-        "name": "Fire And Water",
-        "url": "https://open.spotify.com/album/1ydlm89JR8cV8VuSaNvHNL"
+        "name": "Morrison Hotel",
+        "url": "https://open.spotify.com/album/6AFLOkpJjFF652jevcSOZX"
       },
       "artists": [
         {
-          "name": "Free",
-          "url": "https://open.spotify.com/artist/2e53aHBQdCMKWqHDuyJsjC"
+          "name": "The Doors",
+          "url": "https://open.spotify.com/artist/22WZ7M8sxp5THdruNY3gXt"
         }
       ],
-      "duration_ms": 330643,
-      "name": "All Right Now",
-      "url": "https://open.spotify.com/track/1gcESexgftSuLuML57Y69q"
+      "duration_ms": 243826,
+      "name": "Roadhouse Blues",
+      "url": "https://open.spotify.com/track/1Q5kgpp4pmyGqPwNBzkSrw"
     },
     {
       "added_at": "2021-03-02 18:13:49",
@@ -971,22 +971,6 @@
     {
       "added_at": "2021-03-02 18:13:49",
       "album": {
-        "name": "4 (Expanded)",
-        "url": "https://open.spotify.com/album/2Pw51hAGvWpTA3AYl2WVuu"
-      },
-      "artists": [
-        {
-          "name": "Foreigner",
-          "url": "https://open.spotify.com/artist/6IRouO5mvvfcyxtPDKMYFN"
-        }
-      ],
-      "duration_ms": 259799,
-      "name": "Juke Box Hero",
-      "url": "https://open.spotify.com/track/00qOE7OjRl0BpYiCiweZB2"
-    },
-    {
-      "added_at": "2021-03-02 18:13:49",
-      "album": {
         "name": "BAD TO THE BONE",
         "url": "https://open.spotify.com/album/2YeoeDa3soxjD4ANZGG1fj"
       },
@@ -999,6 +983,22 @@
       "duration_ms": 292173,
       "name": "Bad To The Bone",
       "url": "https://open.spotify.com/track/6s0NHplywwr1IjnQpUpWJk"
+    },
+    {
+      "added_at": "2021-03-02 18:13:49",
+      "album": {
+        "name": "4 (Expanded)",
+        "url": "https://open.spotify.com/album/2Pw51hAGvWpTA3AYl2WVuu"
+      },
+      "artists": [
+        {
+          "name": "Foreigner",
+          "url": "https://open.spotify.com/artist/6IRouO5mvvfcyxtPDKMYFN"
+        }
+      ],
+      "duration_ms": 259799,
+      "name": "Juke Box Hero",
+      "url": "https://open.spotify.com/track/00qOE7OjRl0BpYiCiweZB2"
     },
     {
       "added_at": "2021-03-02 18:13:49",
@@ -1115,22 +1115,6 @@
     {
       "added_at": "2021-03-02 18:13:49",
       "album": {
-        "name": "Fly Like An Eagle",
-        "url": "https://open.spotify.com/album/0fjJOLqG3v7vXRYhz2wxPC"
-      },
-      "artists": [
-        {
-          "name": "Steve Miller Band",
-          "url": "https://open.spotify.com/artist/6QtGlUje9TIkLrgPZrESuk"
-        }
-      ],
-      "duration_ms": 187066,
-      "name": "Rock'n Me",
-      "url": "https://open.spotify.com/track/1orVKbp6vqtfAPOmvRofVq"
-    },
-    {
-      "added_at": "2021-03-02 18:13:49",
-      "album": {
         "name": "Don't Say No (Remastered 2010)",
         "url": "https://open.spotify.com/album/6TwlLNU5Zd9qGuNgSLeWPt"
       },
@@ -1143,6 +1127,22 @@
       "duration_ms": 217613,
       "name": "The Stroke - Remastered 2010",
       "url": "https://open.spotify.com/track/52KvuGmgcgRdrLMXOtda0E"
+    },
+    {
+      "added_at": "2021-03-02 18:13:49",
+      "album": {
+        "name": "Fly Like An Eagle",
+        "url": "https://open.spotify.com/album/0fjJOLqG3v7vXRYhz2wxPC"
+      },
+      "artists": [
+        {
+          "name": "Steve Miller Band",
+          "url": "https://open.spotify.com/artist/6QtGlUje9TIkLrgPZrESuk"
+        }
+      ],
+      "duration_ms": 187066,
+      "name": "Rock'n Me",
+      "url": "https://open.spotify.com/track/1orVKbp6vqtfAPOmvRofVq"
     },
     {
       "added_at": "2021-03-02 18:13:49",
@@ -1355,22 +1355,6 @@
     {
       "added_at": "2021-03-02 18:13:49",
       "album": {
-        "name": "Damn The Torpedoes (Deluxe Edition)",
-        "url": "https://open.spotify.com/album/708Whrc4abJEtqBINv9S2b"
-      },
-      "artists": [
-        {
-          "name": "Tom Petty and the Heartbreakers",
-          "url": "https://open.spotify.com/artist/4tX2TplrkIP4v05BNC903e"
-        }
-      ],
-      "duration_ms": 201693,
-      "name": "Refugee",
-      "url": "https://open.spotify.com/track/4mcZYzoGwPRDdhWVlygiHf"
-    },
-    {
-      "added_at": "2021-03-02 18:13:49",
-      "album": {
         "name": "Rumours (Super Deluxe)",
         "url": "https://open.spotify.com/album/0BwWUstDMUbgq2NYONRqlu"
       },
@@ -1383,6 +1367,22 @@
       "duration_ms": 223613,
       "name": "Go Your Own Way - 2004 Remaster",
       "url": "https://open.spotify.com/track/4xh7W7tlNMIczFhupCPniY"
+    },
+    {
+      "added_at": "2021-03-02 18:13:49",
+      "album": {
+        "name": "Damn The Torpedoes (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/708Whrc4abJEtqBINv9S2b"
+      },
+      "artists": [
+        {
+          "name": "Tom Petty and the Heartbreakers",
+          "url": "https://open.spotify.com/artist/4tX2TplrkIP4v05BNC903e"
+        }
+      ],
+      "duration_ms": 201693,
+      "name": "Refugee",
+      "url": "https://open.spotify.com/track/4mcZYzoGwPRDdhWVlygiHf"
     },
     {
       "added_at": "2022-04-08 19:07:59",
@@ -1401,22 +1401,6 @@
       "url": "https://open.spotify.com/track/6xMHglHoafdDFGXS6qfwSH"
     },
     {
-      "added_at": "2022-04-08 19:07:59",
-      "album": {
-        "name": "School's Out",
-        "url": "https://open.spotify.com/album/0zKjnOsXxs63unPR6TWoHq"
-      },
-      "artists": [
-        {
-          "name": "Alice Cooper",
-          "url": "https://open.spotify.com/artist/3EhbVgyfGd7HkpsagwL9GS"
-        }
-      ],
-      "duration_ms": 210106,
-      "name": "School's Out",
-      "url": "https://open.spotify.com/track/5Z8EDau8uNcP1E8JvmfkZe"
-    },
-    {
       "added_at": "2021-03-02 18:13:49",
       "album": {
         "name": "Electric Warrior [Expanded & Remastered]",
@@ -1433,20 +1417,20 @@
       "url": "https://open.spotify.com/track/6FsQrRpBLgsrFeAeiQqytm"
     },
     {
-      "added_at": "2021-03-02 18:13:49",
+      "added_at": "2022-04-08 19:07:59",
       "album": {
-        "name": "The Captain and Me",
-        "url": "https://open.spotify.com/album/0M2KWMbvY5x1sUnIKNpyUt"
+        "name": "School's Out",
+        "url": "https://open.spotify.com/album/0zKjnOsXxs63unPR6TWoHq"
       },
       "artists": [
         {
-          "name": "The Doobie Brothers",
-          "url": "https://open.spotify.com/artist/39T6qqI0jDtSWWioX8eGJz"
+          "name": "Alice Cooper",
+          "url": "https://open.spotify.com/artist/3EhbVgyfGd7HkpsagwL9GS"
         }
       ],
-      "duration_ms": 195306,
-      "name": "China Grove",
-      "url": "https://open.spotify.com/track/7cy1bEJV6FCtDaYpsk8aG6"
+      "duration_ms": 210106,
+      "name": "School's Out",
+      "url": "https://open.spotify.com/track/5Z8EDau8uNcP1E8JvmfkZe"
     },
     {
       "added_at": "2022-06-08 19:19:44",
@@ -1463,6 +1447,22 @@
       "duration_ms": 289893,
       "name": "Takin' Care Of Business",
       "url": "https://open.spotify.com/track/0lzNXoZINVBLHWNIxKxWOo"
+    },
+    {
+      "added_at": "2021-03-02 18:13:49",
+      "album": {
+        "name": "The Captain and Me",
+        "url": "https://open.spotify.com/album/0M2KWMbvY5x1sUnIKNpyUt"
+      },
+      "artists": [
+        {
+          "name": "The Doobie Brothers",
+          "url": "https://open.spotify.com/artist/39T6qqI0jDtSWWioX8eGJz"
+        }
+      ],
+      "duration_ms": 195306,
+      "name": "China Grove",
+      "url": "https://open.spotify.com/track/7cy1bEJV6FCtDaYpsk8aG6"
     },
     {
       "added_at": "2021-03-02 18:13:49",
@@ -2239,22 +2239,6 @@
     {
       "added_at": "2021-03-02 18:13:49",
       "album": {
-        "name": "Dressed To Kill",
-        "url": "https://open.spotify.com/album/1YCC4oZXg2zGn7pVSKVlGF"
-      },
-      "artists": [
-        {
-          "name": "KISS",
-          "url": "https://open.spotify.com/artist/07XSN3sPlIlB2L2XNcTwJw"
-        }
-      ],
-      "duration_ms": 168840,
-      "name": "Rock And Roll All Nite",
-      "url": "https://open.spotify.com/track/6KTv0Z8BmVqM7DPxbGzpVC"
-    },
-    {
-      "added_at": "2021-03-02 18:13:49",
-      "album": {
         "name": "Dr. Feelgood",
         "url": "https://open.spotify.com/album/6pL7kL9cOc0DpWCq6qJtxQ"
       },
@@ -2267,6 +2251,22 @@
       "duration_ms": 282653,
       "name": "Kickstart My Heart",
       "url": "https://open.spotify.com/track/7GonnnalI2s19OCQO1J7Tf"
+    },
+    {
+      "added_at": "2021-03-02 18:13:49",
+      "album": {
+        "name": "Dressed To Kill",
+        "url": "https://open.spotify.com/album/1YCC4oZXg2zGn7pVSKVlGF"
+      },
+      "artists": [
+        {
+          "name": "KISS",
+          "url": "https://open.spotify.com/artist/07XSN3sPlIlB2L2XNcTwJw"
+        }
+      ],
+      "duration_ms": 168840,
+      "name": "Rock And Roll All Nite",
+      "url": "https://open.spotify.com/track/6KTv0Z8BmVqM7DPxbGzpVC"
     },
     {
       "added_at": "2021-03-02 18:13:49",

@@ -3972,7 +3972,7 @@
       ],
       "date_added": "2026-09-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-25",
       "duration_ms": 230132,
       "name": "Are You Willing",
       "url": "https://open.spotify.com/track/6my2GkulHxUnSzKZkRv38d"
@@ -11633,6 +11633,24 @@
     },
     {
       "album": {
+        "name": "Grand Theft Auto VI: The Album",
+        "url": "https://open.spotify.com/album/5BYKG4MHfySZthe2W6r7n4"
+      },
+      "artists": [
+        {
+          "name": "Lana Del Rey",
+          "url": "https://open.spotify.com/artist/00FQb4jTyendYWaN8pK0wa"
+        }
+      ],
+      "date_added": "2026-11-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 223683,
+      "name": "Crazy For You",
+      "url": "https://open.spotify.com/track/7atOpwxr1aIeRlyGEPNn0C"
+    },
+    {
+      "album": {
         "name": "Creatures In Heaven",
         "url": "https://open.spotify.com/album/6l3Qxnvv49CGolilrSvsd3"
       },
@@ -12190,6 +12208,24 @@
       "duration_ms": 212339,
       "name": "Dafodil",
       "url": "https://open.spotify.com/track/6VVRLkRdr7EzgKTHzYZ1pa"
+    },
+    {
+      "album": {
+        "name": "How to Count to Five",
+        "url": "https://open.spotify.com/album/336ZRfgCtvRuRPp0THNrYJ"
+      },
+      "artists": [
+        {
+          "name": "Holidays in United States",
+          "url": "https://open.spotify.com/artist/4Hx2EMq5CumzokenbyEcSM"
+        }
+      ],
+      "date_added": "2026-11-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 246895,
+      "name": "Dainty Flower Song",
+      "url": "https://open.spotify.com/track/3hMcwwnatAWMmDfcD3r1z2"
     },
     {
       "album": {
@@ -42940,7 +42976,7 @@
       ],
       "date_added": "2026-11-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-25",
       "duration_ms": 157349,
       "name": "RENO",
       "url": "https://open.spotify.com/track/65CWvURRoOpaCZbuwaV4ZA"
@@ -56268,6 +56304,24 @@
       "duration_ms": 206356,
       "name": "Villa Sacchetti",
       "url": "https://open.spotify.com/track/3imSNF31ZSYcLdM7zbGDBd"
+    },
+    {
+      "album": {
+        "name": "the after glow",
+        "url": "https://open.spotify.com/album/2OYqbmOlEATNjnA9OVC18F"
+      },
+      "artists": [
+        {
+          "name": "earfzilla",
+          "url": "https://open.spotify.com/artist/65SDZetBIC5qK27DoJUx0f"
+        }
+      ],
+      "date_added": "2026-11-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 86964,
+      "name": "vintage vuitton",
+      "url": "https://open.spotify.com/track/6fuVQuXh7Bq4eMKUT994dd"
     },
     {
       "album": {

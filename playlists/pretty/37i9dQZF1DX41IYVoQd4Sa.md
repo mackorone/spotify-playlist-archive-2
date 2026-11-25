@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX41IYVoQd4Sa.md) - [plain]
 
 > מאינדי ועד רוק, קבלו את השירים היפים של הסצנה האלטרנטיבית בישראל : ברי סחרוף
 
-[Spotify](https://open.spotify.com/user/spotify) - 34,752 likes - 50 songs - 2 hr 56 min
+[Spotify](https://open.spotify.com/user/spotify) - 34,758 likes - 50 songs - 2 hr 56 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -22,8 +22,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX41IYVoQd4Sa.md) - [plain]
 | 12 | [BUBBLING](https://open.spotify.com/track/6s5eOLOj3Zlb9x6eOfN1lM) | [Noga Erez](https://open.spotify.com/artist/5VwCIS8jdx9ZHjApLFNrTZ) | [BUBBLING](https://open.spotify.com/album/5Olp3mWtW2kYfGxGKNXzID) | 2:45 |
 | 13 | [ישנם ימים](https://open.spotify.com/track/4XVhvCZ61rqSeg6cgArJNz) | [יושי](https://open.spotify.com/artist/55at4C8Kzzr6TkFeZKyPzJ) | [ישנם ימים](https://open.spotify.com/album/7yTXwvTfMewAt0yQa4KXki) | 3:22 |
 | 14 | [אמרתי תודה](https://open.spotify.com/track/7rZMtcxPtHkkXo4qsMGGh8) | [E\-Z](https://open.spotify.com/artist/2YHuWGXNWLmpBTKo1rQ3me), [Jane Bordeaux](https://open.spotify.com/artist/2a76fsDcTl6A43zwaFNPr4) | [אמרתי תודה](https://open.spotify.com/album/7JoSpZ3Kdj37sEV9QHPFPs) | 3:06 |
-| 15 | [יותר מידי](https://open.spotify.com/track/2HYS3rLZrOD57DsxAgeTym) | [Jimbo J](https://open.spotify.com/artist/6ltKIf1bortd0DQbpgKdQu) | [הכל טוב](https://open.spotify.com/album/7zyivKsWsDRAIuhFQCGrYj) | 3:08 |
-| 16 | [הנפילה](https://open.spotify.com/track/6tBVF2sMUZZqnFs4zvT1U1) | [Alma Gov](https://open.spotify.com/artist/5BwDD7OLlEuoLxt0cTHaYv) | [הנפילה](https://open.spotify.com/album/3vWFwZEmwXppnSL15bxLB1) | 3:13 |
+| 15 | [הנפילה](https://open.spotify.com/track/6tBVF2sMUZZqnFs4zvT1U1) | [Alma Gov](https://open.spotify.com/artist/5BwDD7OLlEuoLxt0cTHaYv) | [הנפילה](https://open.spotify.com/album/3vWFwZEmwXppnSL15bxLB1) | 3:13 |
+| 16 | [יותר מידי](https://open.spotify.com/track/2HYS3rLZrOD57DsxAgeTym) | [Jimbo J](https://open.spotify.com/artist/6ltKIf1bortd0DQbpgKdQu) | [הכל טוב](https://open.spotify.com/album/7zyivKsWsDRAIuhFQCGrYj) | 3:08 |
 | 17 | [שיר לאסף](https://open.spotify.com/track/1ugjWzPek3YqiGlftecI2e) | [Adi Ulmansky](https://open.spotify.com/artist/3USGrdyXkg1eLoWJ7KhrhJ) | [שיר לאסף](https://open.spotify.com/album/3tqeeRP38qLKgEuxx3wQt2) | 4:08 |
 | 18 | [שלושה ימים וחדר](https://open.spotify.com/track/77gLzL7HAimJ5rpdg683Vv) | [Rona Kenan](https://open.spotify.com/artist/5Rpubz1id17VKCrm0mBW1h) | [שלושה ימים וחדר](https://open.spotify.com/album/4t0duxGE1Af4zf7KkxSCJh) | 3:16 |
 | 19 | [Flights \(from the Netflix Series "Nobody Wants This" Season 3\)](https://open.spotify.com/track/1nT8wDLn00juo9I23XdN7Y) | [Noga Erez](https://open.spotify.com/artist/5VwCIS8jdx9ZHjApLFNrTZ) | [Flights \(from the Netflix Series "Nobody Wants This" Season 3\)](https://open.spotify.com/album/2aJcx6xkcDQYxTurI7kRaM) | 2:22 |
@@ -44,8 +44,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX41IYVoQd4Sa.md) - [plain]
 | 34 | [יומולדת](https://open.spotify.com/track/0GL9PoiDvHf1GDQuTIRg2X) | [Jane Bordeaux](https://open.spotify.com/artist/2a76fsDcTl6A43zwaFNPr4) | [יומולדת](https://open.spotify.com/album/5ZtFKRNP2g5xnlAc2xWaJs) | 2:51 |
 | 35 | [טאם טאם](https://open.spotify.com/track/5psxA79JSFx9e05NXsWGP2) | [Girafot](https://open.spotify.com/artist/5EgEUxXi9uTYYN4cQwmLPy), [ליעם חכמון](https://open.spotify.com/artist/73WXnxFFw9slGZoWweDFPh) | [טאם טאם](https://open.spotify.com/album/2BLA8UylBQBMEYUve5sK2Z) | 2:56 |
 | 36 | [כמו הדובים](https://open.spotify.com/track/1q0GlKlKUZsY7q69T5L6vz) | [Mashina](https://open.spotify.com/artist/7iE2GZiF0xVFzlA2E93m3g) | [כמו הדובים](https://open.spotify.com/album/6wHWOEHQsSGTzJnOHOjq3y) | 3:47 |
-| 37 | [אולי זה נגמר](https://open.spotify.com/track/5E7oagaoSXn2O1d24JlfCh) | [Hila Ruach](https://open.spotify.com/artist/24Rzfui4UwLMlhZcWYYk7P) | [שחור זוהר](https://open.spotify.com/album/0ygZBvSGFZVZZjiz8PQHgB) | 5:40 |
-| 38 | [הבניין האחרון בתל אביב](https://open.spotify.com/track/0CFizxIBQmArw9wLFDxpeE) | [יוגב גלוסמן](https://open.spotify.com/artist/59PEfBoqGJwGqZ6G4zv0vO), [Maor Alush](https://open.spotify.com/artist/0nrgbCy8BaY0tQzE87Ikal) | [לי עוד יש ים בתוכי](https://open.spotify.com/album/1A7LZitYPUfoTPnvCeztKb) | 3:25 |
+| 37 | [הבניין האחרון בתל אביב](https://open.spotify.com/track/0CFizxIBQmArw9wLFDxpeE) | [יוגב גלוסמן](https://open.spotify.com/artist/59PEfBoqGJwGqZ6G4zv0vO), [Maor Alush](https://open.spotify.com/artist/0nrgbCy8BaY0tQzE87Ikal) | [לי עוד יש ים בתוכי](https://open.spotify.com/album/1A7LZitYPUfoTPnvCeztKb) | 3:25 |
+| 38 | [אולי זה נגמר](https://open.spotify.com/track/5E7oagaoSXn2O1d24JlfCh) | [Hila Ruach](https://open.spotify.com/artist/24Rzfui4UwLMlhZcWYYk7P) | [שחור זוהר](https://open.spotify.com/album/0ygZBvSGFZVZZjiz8PQHgB) | 5:40 |
 | 39 | [ח'ת שתיים](https://open.spotify.com/track/7FfYo7iCiFyfXKCQbpaXtT) | [Ninet Tayeb](https://open.spotify.com/artist/4oEhVAb4wkpqQbOqVMroI4) | [אני נינה](https://open.spotify.com/album/1BtYEQGPMG5ich1PCAR7rB) | 4:07 |
 | 40 | [Haunted](https://open.spotify.com/track/5cPMjdmwBWdbNpviqSj944) | [Asaf Avidan](https://open.spotify.com/artist/7t51dSX8ZkKC7VoKRd0lME) | [Haunted](https://open.spotify.com/album/59TgUlQXE5FqObb58LJsWL) | 3:58 |
 | 41 | [תפילה](https://open.spotify.com/track/4jQ5ypwCpPiu5oqPHwy2SY) | [Karolina](https://open.spotify.com/artist/1h40NvcAHSbG4O2r3932kB), [Uri Brauner Kinrot](https://open.spotify.com/artist/2QXyIEJXxoYuf8MNZ5M3L9) | [תפילה](https://open.spotify.com/album/4zWXDMHrJjzSAyFkl6FV1u) | 3:30 |
@@ -55,8 +55,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX41IYVoQd4Sa.md) - [plain]
 | 45 | [Summer Rain](https://open.spotify.com/track/21hXLnC7sgCI3wO1g8lyy2) | [Asaf Avidan](https://open.spotify.com/artist/7t51dSX8ZkKC7VoKRd0lME) | [Summer Rain](https://open.spotify.com/album/7s1oTVvZjikJiUtGVqcmY5) | 3:12 |
 | 46 | [אם נותרנו נאהב](https://open.spotify.com/track/5qTc8bd77U6gGOVnV8ztLG) | [Dana Berger](https://open.spotify.com/artist/7Ajb0nIvHDMuwppUJouvFH) | [אם נותרנו נאהב](https://open.spotify.com/album/6hDdDyAq7IKjtyvQhcbbnC) | 3:33 |
 | 47 | [אולי יכולתי יותר](https://open.spotify.com/track/4XfuFnOvQv7FsKdSlmrCUy) | [Ninet Tayeb](https://open.spotify.com/artist/4oEhVAb4wkpqQbOqVMroI4) | [אולי יכולתי יותר](https://open.spotify.com/album/3o2QYnNyEY2u8u0h4uNNqh) | 4:01 |
-| 48 | [סלוניקי](https://open.spotify.com/track/1YRh2dIrZn70gHoInP6MXF) | [Amir Lev](https://open.spotify.com/artist/405W8bax1d6ErtkwTg6siH) | [בסוף הם הסכימו](https://open.spotify.com/album/5t7zbIvLJ6m39REiREuTkZ) | 3:12 |
-| 49 | [יותר מדי בבת אחת](https://open.spotify.com/track/3t2GoEUZyLUeXogiQqzg5o) | [Rotem Shafran](https://open.spotify.com/artist/20NIZyW3khoiUoTuBtK8Hi) | [יותר מדי בבת אחת](https://open.spotify.com/album/4NCqWhw52XSrUFUJRA02uo) | 3:11 |
+| 48 | [יותר מדי בבת אחת](https://open.spotify.com/track/3t2GoEUZyLUeXogiQqzg5o) | [Rotem Shafran](https://open.spotify.com/artist/20NIZyW3khoiUoTuBtK8Hi) | [יותר מדי בבת אחת](https://open.spotify.com/album/4NCqWhw52XSrUFUJRA02uo) | 3:11 |
+| 49 | [סלוניקי](https://open.spotify.com/track/1YRh2dIrZn70gHoInP6MXF) | [Amir Lev](https://open.spotify.com/artist/405W8bax1d6ErtkwTg6siH) | [בסוף הם הסכימו](https://open.spotify.com/album/5t7zbIvLJ6m39REiREuTkZ) | 3:12 |
 | 50 | [דינה](https://open.spotify.com/track/5XmwcmebBMGaPrI7UPedDj) | [Anat Moshkovski](https://open.spotify.com/artist/1b8wOY9TQjOLjxAsXvwi49) | [89 שניות](https://open.spotify.com/album/3vzweL9BFuBqgriv3fq3fL) | 2:49 |
 
-Snapshot ID: `AAAAAJBwivOb+W48ZxYB1GfW9+5UjAYw`
+Snapshot ID: `AAAAAK8zQnZIyzTgxtM6/OKaKwMYeF4Y`

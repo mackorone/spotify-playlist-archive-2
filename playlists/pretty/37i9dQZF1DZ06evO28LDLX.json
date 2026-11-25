@@ -6,7 +6,7 @@
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "awIwgAAAAACMpiGrKTal+psthIhHPO9V",
+  "snapshot_id": "awOCAAAAAACs1bpIFb03prxNSvXtq3js",
   "tracks": [
     {
       "added_at": null,
@@ -631,26 +631,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "\"An Era of Classical\": Piano and Orchestral Works",
-        "url": "https://open.spotify.com/album/5CEHCB6KsbNnQbkDRrCV4D"
-      },
-      "artists": [
-        {
-          "name": "Johannes Brahms",
-          "url": "https://open.spotify.com/artist/5wTAi7QkpP6kp8a54lmTOq"
-        },
-        {
-          "name": "Stephen Hough",
-          "url": "https://open.spotify.com/artist/3G5zQYaRH9y6ruE4QnoITP"
-        }
-      ],
-      "duration_ms": 149453,
-      "name": "6 Klavierst\u00fccke, Op. 118: No. 4, Intermezzo in F Minor",
-      "url": "https://open.spotify.com/track/71OGi8SpiJfeTgcWBWCDuH"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Children's Cello",
         "url": "https://open.spotify.com/album/4mQAMbLF1myizjbSMUr01o"
       },
@@ -715,26 +695,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "\"An Era of Classical\": Piano and Orchestral Works",
-        "url": "https://open.spotify.com/album/5CEHCB6KsbNnQbkDRrCV4D"
-      },
-      "artists": [
-        {
-          "name": "Johannes Brahms",
-          "url": "https://open.spotify.com/artist/5wTAi7QkpP6kp8a54lmTOq"
-        },
-        {
-          "name": "Stephen Hough",
-          "url": "https://open.spotify.com/artist/3G5zQYaRH9y6ruE4QnoITP"
-        }
-      ],
-      "duration_ms": 195746,
-      "name": "4 Klavierst\u00fccke, Op. 119: No. 1, Intermezzo in B Minor",
-      "url": "https://open.spotify.com/track/5oeY83YbuftBZi3H6XbWdB"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "\"The Last Tea of Summer: Classical Masterpieces\"",
         "url": "https://open.spotify.com/album/63y1jOyJJA89Vu89AxcUqd"
       },
@@ -775,6 +735,26 @@
     {
       "added_at": null,
       "album": {
+        "name": "The Piano Album 1: Music by Paderewski, Godowsky, Dohn\u00e1nyi...",
+        "url": "https://open.spotify.com/album/7EpprRSNyrDC5Mgh4CRk6a"
+      },
+      "artists": [
+        {
+          "name": "Ignacy Jan Paderewski",
+          "url": "https://open.spotify.com/artist/7Im00DCJCJrFrC1Ho6vjD6"
+        },
+        {
+          "name": "Stephen Hough",
+          "url": "https://open.spotify.com/artist/3G5zQYaRH9y6ruE4QnoITP"
+        }
+      ],
+      "duration_ms": 257066,
+      "name": "Paderewski: Miscellanea, Op. 16: No. 4, Nocturne in B-Flat Major",
+      "url": "https://open.spotify.com/track/4QP6MmA7nrBItjVk4RxlUn"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Chopin: Nocturnes (Complete)",
         "url": "https://open.spotify.com/album/4laomoW9n1HN2R2DRoFVCn"
       },
@@ -808,29 +788,9 @@
           "url": "https://open.spotify.com/artist/3G5zQYaRH9y6ruE4QnoITP"
         }
       ],
-      "duration_ms": 255613,
-      "name": "4 Klavierst\u00fccke, Op. 119: No. 2, Intermezzo in E Minor",
-      "url": "https://open.spotify.com/track/2HfKZKv5dwF2Hrk0KaKFFb"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "The Piano Album 1: Music by Paderewski, Godowsky, Dohn\u00e1nyi...",
-        "url": "https://open.spotify.com/album/7EpprRSNyrDC5Mgh4CRk6a"
-      },
-      "artists": [
-        {
-          "name": "Ignacy Jan Paderewski",
-          "url": "https://open.spotify.com/artist/7Im00DCJCJrFrC1Ho6vjD6"
-        },
-        {
-          "name": "Stephen Hough",
-          "url": "https://open.spotify.com/artist/3G5zQYaRH9y6ruE4QnoITP"
-        }
-      ],
-      "duration_ms": 257066,
-      "name": "Paderewski: Miscellanea, Op. 16: No. 4, Nocturne in B-Flat Major",
-      "url": "https://open.spotify.com/track/4QP6MmA7nrBItjVk4RxlUn"
+      "duration_ms": 120133,
+      "name": "6 Klavierst\u00fccke, Op. 118: No. 1, Intermezzo in A Minor",
+      "url": "https://open.spotify.com/track/4z8yqwzWZxn1kwH0M8jwmg"
     },
     {
       "added_at": null,
@@ -855,6 +815,26 @@
     {
       "added_at": null,
       "album": {
+        "name": "The Piano Album 1: Music by Paderewski, Godowsky, Dohn\u00e1nyi...",
+        "url": "https://open.spotify.com/album/7EpprRSNyrDC5Mgh4CRk6a"
+      },
+      "artists": [
+        {
+          "name": "Roger Quilter",
+          "url": "https://open.spotify.com/artist/3uFNhCH4eh3y1BN0sPwQzC"
+        },
+        {
+          "name": "Stephen Hough",
+          "url": "https://open.spotify.com/artist/3G5zQYaRH9y6ruE4QnoITP"
+        }
+      ],
+      "duration_ms": 129386,
+      "name": "Quilter: 3 Songs, Op. 3: No. 2, Now Sleeps the Crimson Petal (Arr. Hough for Piano)",
+      "url": "https://open.spotify.com/track/1CvZunMt1k73dAtRltTo2S"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Chopin: Nocturnes (Complete)",
         "url": "https://open.spotify.com/album/4laomoW9n1HN2R2DRoFVCn"
       },
@@ -875,8 +855,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "\"An Era of Classical\": Piano and Orchestral Works",
-        "url": "https://open.spotify.com/album/5CEHCB6KsbNnQbkDRrCV4D"
+        "name": "Brahms: The Final Piano Pieces, Op. 116-119",
+        "url": "https://open.spotify.com/album/0zecLuGhn3F4Fne4ruUjxl"
       },
       "artists": [
         {
@@ -888,29 +868,37 @@
           "url": "https://open.spotify.com/artist/3G5zQYaRH9y6ruE4QnoITP"
         }
       ],
-      "duration_ms": 282706,
-      "name": "4 Klavierst\u00fccke, Op. 119: No. 4, Rhapsody in E-Flat Major",
-      "url": "https://open.spotify.com/track/4tsLvVUFvGWM21ThByuyWG"
+      "duration_ms": 239293,
+      "name": "Intermezzos, Op. 117: No. 2 in B-Flat Minor. Andante non troppo e con molto espressione",
+      "url": "https://open.spotify.com/track/22AR0LumFEGmDhjH7j0vlc"
     },
     {
       "added_at": null,
       "album": {
-        "name": "The Piano Album 1: Music by Paderewski, Godowsky, Dohn\u00e1nyi...",
-        "url": "https://open.spotify.com/album/7EpprRSNyrDC5Mgh4CRk6a"
+        "name": "Beethoven: Piano Concertos Nos. 1-5",
+        "url": "https://open.spotify.com/album/6jUAmivzjgDifAcMMcSQWN"
       },
       "artists": [
         {
-          "name": "Roger Quilter",
-          "url": "https://open.spotify.com/artist/3uFNhCH4eh3y1BN0sPwQzC"
+          "name": "Ludwig van Beethoven",
+          "url": "https://open.spotify.com/artist/2wOqMjp9TyABvtHdOSOTUS"
+        },
+        {
+          "name": "Finnish Radio Symphony Orchestra",
+          "url": "https://open.spotify.com/artist/5Lf1SAS15AisICBsyP1L0Z"
+        },
+        {
+          "name": "Hannu Lintu",
+          "url": "https://open.spotify.com/artist/5Tmg9YbCEQSH2gft7Ftpdo"
         },
         {
           "name": "Stephen Hough",
           "url": "https://open.spotify.com/artist/3G5zQYaRH9y6ruE4QnoITP"
         }
       ],
-      "duration_ms": 129386,
-      "name": "Quilter: 3 Songs, Op. 3: No. 2, Now Sleeps the Crimson Petal (Arr. Hough for Piano)",
-      "url": "https://open.spotify.com/track/1CvZunMt1k73dAtRltTo2S"
+      "duration_ms": 637200,
+      "name": "Piano Concerto No. 5 in E-Flat Major, Op. 73 \"Emperor\": III. Rondo. Allegro ma non troppo",
+      "url": "https://open.spotify.com/track/73DLt511eJniCAPV1DSEQO"
     },
     {
       "added_at": null,
@@ -955,70 +943,74 @@
     {
       "added_at": null,
       "album": {
-        "name": "\"An Era of Classical\": Piano and Orchestral Works",
-        "url": "https://open.spotify.com/album/5CEHCB6KsbNnQbkDRrCV4D"
+        "name": "\"Amazing Classical\" - Mozart: Piano Concerto No. 21, Barber's Adagio, Mahler's Adagietto",
+        "url": "https://open.spotify.com/album/1gWv1v5EroROEO5kyvf3Zo"
       },
       "artists": [
         {
-          "name": "Johannes Brahms",
-          "url": "https://open.spotify.com/artist/5wTAi7QkpP6kp8a54lmTOq"
+          "name": "Wolfgang Amadeus Mozart",
+          "url": "https://open.spotify.com/artist/4NJhFmfw43RLBLjQvxDuRS"
         },
         {
           "name": "Stephen Hough",
           "url": "https://open.spotify.com/artist/3G5zQYaRH9y6ruE4QnoITP"
+        },
+        {
+          "name": "Bryden Thomson",
+          "url": "https://open.spotify.com/artist/7q7RpicjbjUik3RCrjSKuz"
+        },
+        {
+          "name": "Hall\u00e9",
+          "url": "https://open.spotify.com/artist/0VzwesVsEMjYDaMrrdukam"
         }
       ],
-      "duration_ms": 120133,
-      "name": "6 Klavierst\u00fccke, Op. 118: No. 1, Intermezzo in A Minor",
-      "url": "https://open.spotify.com/track/4z8yqwzWZxn1kwH0M8jwmg"
+      "duration_ms": 56933,
+      "name": "Mozart: Piano Concerto No. 21 in C Major, K. 467: III. Allegro vivace assai, Pt. 4",
+      "url": "https://open.spotify.com/track/25t6b99XBBXivgSHHpr2il"
     },
     {
       "added_at": null,
       "album": {
-        "name": "Beethoven: Piano Concertos Nos. 1-5",
-        "url": "https://open.spotify.com/album/6jUAmivzjgDifAcMMcSQWN"
+        "name": "Children's Cello",
+        "url": "https://open.spotify.com/album/4mQAMbLF1myizjbSMUr01o"
       },
       "artists": [
         {
-          "name": "Ludwig van Beethoven",
-          "url": "https://open.spotify.com/artist/2wOqMjp9TyABvtHdOSOTUS"
+          "name": "Francis Purcell Warren",
+          "url": "https://open.spotify.com/artist/5NqOK1EfGXUxEIilMACcoq"
         },
         {
-          "name": "Finnish Radio Symphony Orchestra",
-          "url": "https://open.spotify.com/artist/5Lf1SAS15AisICBsyP1L0Z"
-        },
-        {
-          "name": "Hannu Lintu",
-          "url": "https://open.spotify.com/artist/5Tmg9YbCEQSH2gft7Ftpdo"
+          "name": "Steven Isserlis",
+          "url": "https://open.spotify.com/artist/3lqUltCfNNgeU38vDVBbI1"
         },
         {
           "name": "Stephen Hough",
           "url": "https://open.spotify.com/artist/3G5zQYaRH9y6ruE4QnoITP"
         }
       ],
-      "duration_ms": 637200,
-      "name": "Piano Concerto No. 5 in E-Flat Major, Op. 73 \"Emperor\": III. Rondo. Allegro ma non troppo",
-      "url": "https://open.spotify.com/track/73DLt511eJniCAPV1DSEQO"
+      "duration_ms": 102826,
+      "name": "No. 5, A Sunday Evening in Autumn",
+      "url": "https://open.spotify.com/track/5eqFbgTlAMcxbFYfCt62sx"
     },
     {
       "added_at": null,
       "album": {
-        "name": "Brahms: The Final Piano Pieces, Op. 116-119",
-        "url": "https://open.spotify.com/album/0zecLuGhn3F4Fne4ruUjxl"
+        "name": "Yu-Hsien: Spring Breeze Prelude (Arr. Hough for Piano)",
+        "url": "https://open.spotify.com/album/56EXJS1jqCManutDOSqUJw"
       },
       "artists": [
         {
-          "name": "Johannes Brahms",
-          "url": "https://open.spotify.com/artist/5wTAi7QkpP6kp8a54lmTOq"
+          "name": "Deng Yu-Hsien",
+          "url": "https://open.spotify.com/artist/1oqtotVTUEX731HQPuxaRT"
         },
         {
           "name": "Stephen Hough",
           "url": "https://open.spotify.com/artist/3G5zQYaRH9y6ruE4QnoITP"
         }
       ],
-      "duration_ms": 239293,
-      "name": "Intermezzos, Op. 117: No. 2 in B-Flat Minor. Andante non troppo e con molto espressione",
-      "url": "https://open.spotify.com/track/22AR0LumFEGmDhjH7j0vlc"
+      "duration_ms": 153666,
+      "name": "Spring Breeze Prelude (Arr. Hough for Piano)",
+      "url": "https://open.spotify.com/track/2wirrdaPrmLhUw607iGAuH"
     },
     {
       "added_at": null,
@@ -1043,22 +1035,42 @@
     {
       "added_at": null,
       "album": {
-        "name": "\"An Era of Classical\": Piano and Orchestral Works",
-        "url": "https://open.spotify.com/album/5CEHCB6KsbNnQbkDRrCV4D"
+        "name": "Mompou: M\u00fasica callada",
+        "url": "https://open.spotify.com/album/1beT6dgdmYDnIJViobuwib"
       },
       "artists": [
         {
-          "name": "Johannes Brahms",
-          "url": "https://open.spotify.com/artist/5wTAi7QkpP6kp8a54lmTOq"
+          "name": "Federico Mompou",
+          "url": "https://open.spotify.com/artist/25OpIkirunuJjVw6TgTV9M"
         },
         {
           "name": "Stephen Hough",
           "url": "https://open.spotify.com/artist/3G5zQYaRH9y6ruE4QnoITP"
         }
       ],
-      "duration_ms": 202746,
-      "name": "6 Klavierst\u00fccke, Op. 118: No. 3, Ballade in G Minor",
-      "url": "https://open.spotify.com/track/3yw57oWxaPL2PnI7v6q4md"
+      "duration_ms": 151133,
+      "name": "M\u00fasica callada I: No. 5, [Crotchet = 54]",
+      "url": "https://open.spotify.com/track/297APKXNe2Tmww7WH8afea"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "The Piano Album",
+        "url": "https://open.spotify.com/album/7feNtVabPanUXWWbq2SmBL"
+      },
+      "artists": [
+        {
+          "name": "Mischa Levitzki",
+          "url": "https://open.spotify.com/artist/42V9f8k71W0oF3pS5yPhzf"
+        },
+        {
+          "name": "Stephen Hough",
+          "url": "https://open.spotify.com/artist/3G5zQYaRH9y6ruE4QnoITP"
+        }
+      ],
+      "duration_ms": 290173,
+      "name": "Levitzki: The Enchanted Nymph",
+      "url": "https://open.spotify.com/track/3MbiuckD1ew5b6YF0VaaIp"
     }
   ],
   "unique_name": "This Is Stephen Hough",

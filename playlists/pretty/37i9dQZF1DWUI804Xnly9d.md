@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUI804Xnly9d.md) - [plain]
 
 > Magic of acoustic poured into your Chai\. Cover \- Bhediya
 
-[Spotify](https://open.spotify.com/user/spotify) - 158,739 likes - 75 songs - 4 hr 17 min
+[Spotify](https://open.spotify.com/user/spotify) - 158,774 likes - 75 songs - 4 hr 17 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -12,7 +12,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUI804Xnly9d.md) - [plain]
 | 2 | [Kho Gaye Hum Kahan](https://open.spotify.com/track/7nPCAO0Q9AHbM7PWyj9O98) | [Jasleen Royal](https://open.spotify.com/artist/74OaRjmyh0XyRZsQQQ5l7c), [Prateek Kuhad](https://open.spotify.com/artist/0tC995Rfn9k2l7nqgCZsV7) | [Baar Baar Dekho \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/110yeLSV0XY4Wtu7DnenNq) | 3:33 |
 | 3 | [Iktara \- Male Version](https://open.spotify.com/track/37QFYtNOmvmXrgesLTRhMq) | [Amit Trivedi](https://open.spotify.com/artist/7HCqGPJcQTyGJ2yqntbuyr), [Tochi Raina](https://open.spotify.com/artist/6k6dimE4a6OFnD0HWmkIUW), [Amitabh Bhattacharya](https://open.spotify.com/artist/2fMqTqiTxUDlmcOEPaQSsx), [Raman Mahadevan](https://open.spotify.com/artist/5jbcmPkWWDvnHws3S60EVd) | [Javeda Sufiaana](https://open.spotify.com/album/4veoDRq0o3nLw4lqVKU4Pl) | 3:44 |
 | 4 | [Barbaad Reprise \- Female](https://open.spotify.com/track/2A7uwnEzSin7nf0498AE3x) | [The Rish](https://open.spotify.com/artist/0Eb38FY9vOjiRA10iXPGHI), [Shilpa Rao](https://open.spotify.com/artist/19LIHDDSHBD5NyYHI3gpzB) | [Saiyaara](https://open.spotify.com/album/58eNU0JJvtAWAg9KUZ9Ghf) | 2:09 |
-| 5 | [Naina Saavan \- Reprise](https://open.spotify.com/track/60E6ahAL4ANvC4lvbOjUFP) | [KhoslaRaghu](https://open.spotify.com/artist/20tfEk8GA9lO1i0cZsslKS), [Kavita Seth](https://open.spotify.com/artist/3nQ125TJobosBH446Dsvvv) | [Naina Saavan \- Reprise](https://open.spotify.com/album/7dDWVIsPi87MBQ8IJtXQIk) | 4:22 |
+| 5 | [Jaane Do](https://open.spotify.com/track/2HiXOHE3bXvon1olnpqiAz) | [Fiddlecraft](https://open.spotify.com/artist/0xhbB0DrR0MnaU1ynq4itU) | [Jaane Do](https://open.spotify.com/album/4z7AxUbqrElx1HsVTFGm6z) | 4:49 |
 | 6 | [Jaan 'Nisaar](https://open.spotify.com/track/17cYtwy8kdB6e6b2EBTn4M) | [Amit Trivedi](https://open.spotify.com/artist/7HCqGPJcQTyGJ2yqntbuyr), [Arijit Singh](https://open.spotify.com/artist/4YRxDV8wJFPHPTeXepOstw) | [Kedarnath \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/5tr2QN1s6pREyv0Kc39Zpm) | 3:58 |
 | 7 | [Kaafi Hai Na \- Unplugged](https://open.spotify.com/track/50RMvku2RcxXyycpTNGvhE) | [Garvit \- Priyansh](https://open.spotify.com/artist/6pYc4P7IWYwWttTPzYkDV4), [Jonita Gandhi](https://open.spotify.com/artist/00sCATpEvwH48ays7PlQFU), [Garvit Soni](https://open.spotify.com/artist/4MCoxHC5rvQP0I7o63RXSH), [Priyansh Srivastava](https://open.spotify.com/artist/1mmWHJzVXCNSQBlbeAMKFU), [Aniket Shukla](https://open.spotify.com/artist/4FDtRL3oDJNggf5ABZcVEe) | [Musafir Cafe \- Unplugged \(Songs from the Netflix Series\)](https://open.spotify.com/album/4ZEH5RT3u40ypHY9zooszc) | 3:14 |
 | 8 | [Sab Theek Hain](https://open.spotify.com/track/5SuRBH076ra6QEIK9cBQkK) | [KoustavC](https://open.spotify.com/artist/0EAgG1Ko1vRGwFkNFIDRFg), [Pronoy Chakraborty](https://open.spotify.com/artist/19lj4rECbQgXJolzriEp8c), [Debayan Banerjee](https://open.spotify.com/artist/4Tlcxmv5bmYpBgETYTUHZw) | [Sab Theek Hain](https://open.spotify.com/album/0Ogsk8LA820NDUhRpb5geQ) | 5:45 |
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUI804Xnly9d.md) - [plain]
 | 74 | [Tu Hai Kahaan \- From "Do Aur Do Pyaar"](https://open.spotify.com/track/5qu00elDJgCJMlbCLlTsvD) | [The Local Train](https://open.spotify.com/artist/7b6Ui7JVaBDEfZB9k6nHL0), [Lucky Ali](https://open.spotify.com/artist/2L16nDKTxhFGaDriR2AHTB) | [Tu Hai Kahaan \(From "Do Aur Do Pyaar"\)](https://open.spotify.com/album/2xkyBtiU8rMkow6ymV9cUe) | 3:39 |
 | 75 | [Piya Tose Naina Lage Re](https://open.spotify.com/track/3DsIkyKjAe4yOvTsaS6dnn) | [Khatija Rahman](https://open.spotify.com/artist/3FQoWZ1cZzYzZKMg2MaAYP), [Firdaus Orchestra](https://open.spotify.com/artist/3drENjzQNPCE5CSMby4SwB) | [Kuhu Kuhu](https://open.spotify.com/album/4WXQQBBQsr1sKMp2I3IPGB) | 4:14 |
 
-Snapshot ID: `AAAAAM5QcAkEECsaHrOaH0JpSpMMB96B`
+Snapshot ID: `AAAAACVTzaZ/VnVXpRlVmfBhOhRpeIzG`

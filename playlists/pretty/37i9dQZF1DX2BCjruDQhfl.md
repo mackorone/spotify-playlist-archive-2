@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2BCjruDQhfl.md) - [plain]
 
 > Tracks voor de juiste vibe\. Cover: Idaly & CHO
 
-[Spotify](https://open.spotify.com/user/spotify) - 193,084 likes - 70 songs - 3 hr 5 min
+[Spotify](https://open.spotify.com/user/spotify) - 193,078 likes - 70 songs - 3 hr 5 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -79,4 +79,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2BCjruDQhfl.md) - [plain]
 | 69 | [HEART](https://open.spotify.com/track/5MExgHwOCLbBARAv74OCOA) | [KM](https://open.spotify.com/artist/0MSYpagcvnSP2o91Ji2OCw), [Jandro](https://open.spotify.com/artist/7hofCdl9njgv82JjU0HPwI) | [HEART](https://open.spotify.com/album/2XQKrvcYx5Oby2oTLv0xkn) | 2:26 |
 | 70 | [Met Mij Zijn](https://open.spotify.com/track/1EOSFJC2w4LvFaInJr9G4T) | [Sigourney K](https://open.spotify.com/artist/0JgazfmeUqlV0HSXvs7kvj), [Yssi SB](https://open.spotify.com/artist/0o1hCS1PDOc1UtVrcXB9s8) | [Met Mij Zijn](https://open.spotify.com/album/2slIoPsgmDzAcvkF5g2Uyt) | 2:33 |
 
-Snapshot ID: `AAAAAB4xcAmgfX+VL0cp5FLSO3gIO7pi`
+Snapshot ID: `AAAAAFp+LQrA3pRCS5lTgZlU9PQ7XdGP`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX20S3TU4dlyR.md) - [plain]
 
 > Este es el Reggae, al sur del continente americano\. Foto: Dread Mar I.
 
-[Spotify](https://open.spotify.com/user/spotify) - 77,626 likes - 89 songs - 5 hr 45 min
+[Spotify](https://open.spotify.com/user/spotify) - 77,633 likes - 89 songs - 5 hr 45 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -69,8 +69,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX20S3TU4dlyR.md) - [plain]
 | 59 | [Pensando En Ti](https://open.spotify.com/track/5eqOwQa8tABk6m6wMPRJSd) | [Quique Neira](https://open.spotify.com/artist/7BfDn0T1IbJiD0U8j27obe) | [Cover Me](https://open.spotify.com/album/7pWasGxWxY1oVOA852CSM0) | 5:25 |
 | 60 | [Vale la Pena](https://open.spotify.com/track/1AWBu5AXFzNry1wZJan5so) | [Leonchalon](https://open.spotify.com/artist/18hhcln4FwPkj2iwxT5yB0), [Roman El Original](https://open.spotify.com/artist/72kCHSLbK0D94Bgpo7G4sJ), [Fidel Nadal](https://open.spotify.com/artist/7l2wptrNdI4wEHxTlWa6SS) | [Vale la Pena](https://open.spotify.com/album/3WRqiBrtFLAiAEkp2p3l5F) | 2:50 |
 | 61 | [Vamos Tu y Yo](https://open.spotify.com/track/18hBIeESqJqIQ3M9FGOHBT) | [Juan Pablo Vega](https://open.spotify.com/artist/2PfyKA4qhjkxUVkerTCxz0), [Guillermo Bonetto](https://open.spotify.com/artist/1rijasyRtILod4s1wmI78L) | [Cachacoleto](https://open.spotify.com/album/0OloiZOXxNtn1m8Psr5cum) | 3:09 |
-| 62 | [La Bondad De Dios](https://open.spotify.com/track/1ipdH4iZ4ERII5dTsmwIqR) | [Jah Love](https://open.spotify.com/artist/2ZjAUPTLH9Z3zmVsUdBsOd) | [La Bondad De Dios](https://open.spotify.com/album/5h1nuRMHAlLG0t9Zzmy4pd) | 3:56 |
-| 63 | [La Clave](https://open.spotify.com/track/7CkVCRgoZWPt2v1WXRV7rs) | [Rondamon](https://open.spotify.com/artist/3rFiEktiHH0wicgmF2HEMP) | [Sí Serás](https://open.spotify.com/album/0ZToxlCx1Z93ECG3yZWsZ0) | 4:43 |
+| 62 | [La Clave](https://open.spotify.com/track/7CkVCRgoZWPt2v1WXRV7rs) | [Rondamon](https://open.spotify.com/artist/3rFiEktiHH0wicgmF2HEMP) | [Sí Serás](https://open.spotify.com/album/0ZToxlCx1Z93ECG3yZWsZ0) | 4:43 |
+| 63 | [La Bondad De Dios](https://open.spotify.com/track/1ipdH4iZ4ERII5dTsmwIqR) | [Jah Love](https://open.spotify.com/artist/2ZjAUPTLH9Z3zmVsUdBsOd) | [La Bondad De Dios](https://open.spotify.com/album/5h1nuRMHAlLG0t9Zzmy4pd) | 3:56 |
 | 64 | [Culpable O No](https://open.spotify.com/track/6YkcpvwqXdo8TJCX0ku6Pq) | [Quique Neira](https://open.spotify.com/artist/7BfDn0T1IbJiD0U8j27obe) | [Cover Me](https://open.spotify.com/album/7pWasGxWxY1oVOA852CSM0) | 4:10 |
 | 65 | [Lo Que Dicta El Tiempo](https://open.spotify.com/track/5kSkRMrl8p1w63pybLjg0S) | [Leonchalon](https://open.spotify.com/artist/18hhcln4FwPkj2iwxT5yB0) | [Amor De Barrio](https://open.spotify.com/album/2LvjJW52h7wcohlk5hvGCj) | 4:27 |
 | 66 | [Fiesta de zombis](https://open.spotify.com/track/3KUJQbTrxzTcDCOrZREJpc) | [Los Caballeros De La Quema](https://open.spotify.com/artist/6Iv9dXeKX45ff7qe0LDuFW) | [Fiesta de Zombis](https://open.spotify.com/album/4KwoJGzMTFm6UqiODYriCp) | 4:14 |
@@ -80,9 +80,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX20S3TU4dlyR.md) - [plain]
 | 70 | [My Love](https://open.spotify.com/track/2YKv6SXLar1fRtk9xYUd6b) | [Dancing Mood](https://open.spotify.com/artist/70XauTb6oEJbXxFoH6wY9F), [Mimi Maura](https://open.spotify.com/artist/4VKHNaUBImLsxPOCdG5Mwl) | [My Love](https://open.spotify.com/album/2eYLzfawsxegd6ppMH2FVC) | 3:33 |
 | 71 | [Family](https://open.spotify.com/track/1oOXaVhLJnpNmdvB0JLSOl) | [Stailok](https://open.spotify.com/artist/3raEZI89hszEBTTvb5wLsi), [Pailita](https://open.spotify.com/artist/4yxLYO2imECxGYTTV7RQKb) | [Family](https://open.spotify.com/album/3ErU1DF7DYc6bcFf2zcBrB) | 4:18 |
 | 72 | [Diablito](https://open.spotify.com/track/2Z1rlQEgYannUuHeJmWYzp) | [Mamita Peyote](https://open.spotify.com/artist/241K0nllagXEonPEu1Yyo8) | [Runfla Calavera](https://open.spotify.com/album/7jSJ3aBEE9ENZrg5LJPAfc) | 3:50 |
-| 73 | [Revolución DuB \(feat\. Tippy I\-Grade, Micah Shemaiah & Sly Dunbar\)](https://open.spotify.com/track/4jMKxILEpy6gf0SD3Xzsts) | [Nonpalidece](https://open.spotify.com/artist/0W1EfnztQTHuv03MuMzWPe), [Tippy I\-Grade](https://open.spotify.com/artist/2PzLpvNk9o1Lm1hQ0Djlb9), [Micah Shemaiah](https://open.spotify.com/artist/3eZZJk4Ik5kBSK2dsdxX6X), [Sly Dunbar](https://open.spotify.com/artist/2Ub1N1tF1AK2NkWvw87oP8) | [Tippy I Meets Nonpalidece • Hecho en Jamaica DuB \(feat\. Tippy I\-Grade\)](https://open.spotify.com/album/53qaELz2GflEOBS2PUxcPs) | 4:40 |
+| 73 | [Torito](https://open.spotify.com/track/2ZwuTO02WfcIVWwp6CBRbd) | [Bahiano](https://open.spotify.com/artist/3FXD2eQcHOiacO9qXENLUN) | [Torito](https://open.spotify.com/album/4rJJIsQzU6JTebS1JztNp4) | 3:16 |
 | 74 | [Felicidad](https://open.spotify.com/track/1ykf7TrdvlwgitSzzisVE1) | [Quique Neira](https://open.spotify.com/artist/7BfDn0T1IbJiD0U8j27obe), [Camaleón Landáez](https://open.spotify.com/artist/6luDf7ZddPhDV5TBMVzJNF) | [La Vida Es Una Canción II](https://open.spotify.com/album/3SJYDcY21FIkFFieIy8Qsd) | 6:04 |
-| 75 | [Torito](https://open.spotify.com/track/2ZwuTO02WfcIVWwp6CBRbd) | [Bahiano](https://open.spotify.com/artist/3FXD2eQcHOiacO9qXENLUN) | [Torito](https://open.spotify.com/album/4rJJIsQzU6JTebS1JztNp4) | 3:16 |
+| 75 | [Revolución DuB \(feat\. Tippy I\-Grade, Micah Shemaiah & Sly Dunbar\)](https://open.spotify.com/track/4jMKxILEpy6gf0SD3Xzsts) | [Nonpalidece](https://open.spotify.com/artist/0W1EfnztQTHuv03MuMzWPe), [Tippy I\-Grade](https://open.spotify.com/artist/2PzLpvNk9o1Lm1hQ0Djlb9), [Micah Shemaiah](https://open.spotify.com/artist/3eZZJk4Ik5kBSK2dsdxX6X), [Sly Dunbar](https://open.spotify.com/artist/2Ub1N1tF1AK2NkWvw87oP8) | [Tippy I Meets Nonpalidece • Hecho en Jamaica DuB \(feat\. Tippy I\-Grade\)](https://open.spotify.com/album/53qaELz2GflEOBS2PUxcPs) | 4:40 |
 | 76 | [+ UNIDAD](https://open.spotify.com/track/6anJzxYYM8gkFhjE6CKlP8) | [Tiano Bless](https://open.spotify.com/artist/35B3K7HUycrePapFhO8X5v), [Pablo Chill\-E](https://open.spotify.com/artist/2XcZshqzPKm3iZcmt73R8D) | [+ UNIDAD](https://open.spotify.com/album/3z3IHTyAZP2EtRP7B2AwiG) | 3:05 |
 | 77 | [Tenia Tanto Para Darte](https://open.spotify.com/track/5qrhqH8hLTSKD7kWBBPLSb) | [Matamba](https://open.spotify.com/artist/7icDj3mEmk3X2phthD7iA2) | [Tenia Tanto Para Darte](https://open.spotify.com/album/43pSNKPzm4MTPmqbgzc96B) | 4:23 |
 | 78 | [Nada Que Me Venga Mal](https://open.spotify.com/track/3mCh5KP0yBG8j3ZKN32HBo) | [Slow Burnin´](https://open.spotify.com/artist/5oASUTlwuH3OXP0hRx52IV) | [Liberación](https://open.spotify.com/album/6f4GpIJ3krZEEVCxGNQLi1) | 2:51 |
@@ -98,4 +98,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX20S3TU4dlyR.md) - [plain]
 | 88 | [Bebamos de las Copas Lindas](https://open.spotify.com/track/0stjjSmOBJfmBvVL8qd7jy) | [El Natty Combo](https://open.spotify.com/artist/4fH7GgndN1PBmd6S3Ux5W9) | [Bebamos de las Copas Lindas](https://open.spotify.com/album/1Cn8QXjbDdiDEJst9nmWqV) | 3:27 |
 | 89 | [Arde](https://open.spotify.com/track/277Ochy22GtV7PPtYAHiWy) | [Escorpia](https://open.spotify.com/artist/1mZ7eKZB1gTlzWbwNBZszv) | [Arde](https://open.spotify.com/album/6g9EGDsax2ZfUDOwpuaYy7) | 3:06 |
 
-Snapshot ID: `AAAAANBq8VdSukACNj0qS71NHr1iWmjC`
+Snapshot ID: `AAAAAPlFyJgomoxaeQjnxa7ty954yzEz`

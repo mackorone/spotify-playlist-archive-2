@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWV8SP2WsR9MK.md) - [plain]
 
 > The classic Jazz guitarists and their finest pieces\. Cover: Grant Green
 
-[Spotify](https://open.spotify.com/user/spotify) - 135,195 likes - 100 songs - 9 hr 13 min
+[Spotify](https://open.spotify.com/user/spotify) - 135,226 likes - 100 songs - 9 hr 13 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -29,10 +29,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWV8SP2WsR9MK.md) - [plain]
 | 19 | [How Insensitive](https://open.spotify.com/track/6XrRsEiP7KccIkRgqxcL70) | [Wes Montgomery](https://open.spotify.com/artist/03YhcM6fxypfwckPCQV8pQ) | [Tequila \(Expanded Edition\)](https://open.spotify.com/album/7DGv1MKlPZrLkP0HCSDm8I) | 3:49 |
 | 20 | [Father Time](https://open.spotify.com/track/4GuzBvxkGq1MHaeYVWO7dL) | [Ralph Towner](https://open.spotify.com/artist/1tbxopipOkDjnRDfMKj535), [Wolfgang Muthspiel](https://open.spotify.com/artist/7a7Vs88vzOcmHh4GOpUEJJ), [Slava Grigoryan](https://open.spotify.com/artist/77wkuxKkegWzlyPxnX2dtG) | [Travel Guide](https://open.spotify.com/album/5ygzx8GmxucUl8RhAU2Nua) | 4:37 |
 | 21 | [Soul Lament \- Remastered 1999/Rudy Van Gelder Edition](https://open.spotify.com/track/7xBpyAsYTgSxqOpMnMHNEt) | [Kenny Burrell](https://open.spotify.com/artist/1sdyFmN4bVOcuFDpTVsxBB) | [Midnight Blue \(The Rudy Van Gelder Edition\)](https://open.spotify.com/album/0hMuKAciHKinu4L3R4Ojjl) | 2:43 |
-| 22 | [Hüttengriffe](https://open.spotify.com/track/15pJPbo0r00e82puUIUS1i) | [Wolfgang Muthspiel](https://open.spotify.com/artist/7a7Vs88vzOcmHh4GOpUEJJ), [Scott Colley](https://open.spotify.com/artist/7AxNB7slEfo3WsWmZf4TSs), [Brian Blade](https://open.spotify.com/artist/0nXwIc4NAbu2K881ealRDu) | [Angular Blues](https://open.spotify.com/album/4wxLJpGmJetMtZHslJz3DR) | 5:15 |
+| 22 | [Sookie Sookie \- Live At The Cliche' Lounge, Newark, New Jersey, 1970 / Remastered 2000](https://open.spotify.com/track/6i9Uhx8fUHQu9aHXCjiu7B) | [Grant Green](https://open.spotify.com/artist/6dAtGAnHCQ1ujMUZ9Ep82k), [Ray Blair](https://open.spotify.com/artist/2D3XOzloX98FKjvCa9inP1) | [Alive! \(Live At The Cliche' Lounge, Newark, New Jersey, 1970 / Remastered 2000\)](https://open.spotify.com/album/4NL6PN6GkMqI7Ztz4iGPU6) | 10:58 |
 | 23 | [James](https://open.spotify.com/track/5E7hYtzDxeIsa5yEI597KO) | [Pat Metheny](https://open.spotify.com/artist/3t58jfUhoMLYVO14XaUFLA), [Lyle Mays](https://open.spotify.com/artist/3yjmQDYGp9XYnFwptDvYc4), [Pat Metheny Group](https://open.spotify.com/artist/4uBSazM6snEc9wCG3jMlYt) | [Offramp](https://open.spotify.com/album/1heeMC7VVWEDxdQKxesqQK) | 6:41 |
 | 24 | [In Your Own Sweet Way](https://open.spotify.com/track/392OK8Qdmos0wNDrduiwy0) | [Wes Montgomery](https://open.spotify.com/artist/03YhcM6fxypfwckPCQV8pQ) | [Incredible Jazz Guitar](https://open.spotify.com/album/74kBIzv8E0CG5V6qx5ytm2) | 4:51 |
-| 25 | [Sookie Sookie \- Live At The Cliche' Lounge, Newark, New Jersey, 1970 / Remastered 2000](https://open.spotify.com/track/6i9Uhx8fUHQu9aHXCjiu7B) | [Grant Green](https://open.spotify.com/artist/6dAtGAnHCQ1ujMUZ9Ep82k), [Ray Blair](https://open.spotify.com/artist/2D3XOzloX98FKjvCa9inP1) | [Alive! \(Live At The Cliche' Lounge, Newark, New Jersey, 1970 / Remastered 2000\)](https://open.spotify.com/album/4NL6PN6GkMqI7Ztz4iGPU6) | 10:58 |
+| 25 | [Hüttengriffe](https://open.spotify.com/track/15pJPbo0r00e82puUIUS1i) | [Wolfgang Muthspiel](https://open.spotify.com/artist/7a7Vs88vzOcmHh4GOpUEJJ), [Scott Colley](https://open.spotify.com/artist/7AxNB7slEfo3WsWmZf4TSs), [Brian Blade](https://open.spotify.com/artist/0nXwIc4NAbu2K881ealRDu) | [Angular Blues](https://open.spotify.com/album/4wxLJpGmJetMtZHslJz3DR) | 5:15 |
 | 26 | [Wavy Gravy \- Remastered 1999/Rudy Van Gelder Edition](https://open.spotify.com/track/6HpGqqpmoQ9O9kOzPtELhy) | [Kenny Burrell](https://open.spotify.com/artist/1sdyFmN4bVOcuFDpTVsxBB) | [Midnight Blue \(The Rudy Van Gelder Edition\)](https://open.spotify.com/album/0hMuKAciHKinu4L3R4Ojjl) | 5:47 |
 | 27 | [The Red One](https://open.spotify.com/track/1P4XzKG2bldGbhg6EO1N23) | [John Scofield](https://open.spotify.com/artist/14RXohtx6NiBGFTW8IdmAK), [Pat Metheny](https://open.spotify.com/artist/3t58jfUhoMLYVO14XaUFLA) | [I Can See Your House From Here](https://open.spotify.com/album/6rrp2wRfrtYxuHM6N5Uavb) | 4:19 |
 | 28 | [Au Lait](https://open.spotify.com/track/5qNUdnpg2b2Xj1ZCYFZxFr) | [Pat Metheny](https://open.spotify.com/artist/3t58jfUhoMLYVO14XaUFLA), [Lyle Mays](https://open.spotify.com/artist/3yjmQDYGp9XYnFwptDvYc4), [Pat Metheny Group](https://open.spotify.com/artist/4uBSazM6snEc9wCG3jMlYt) | [Offramp](https://open.spotify.com/album/1heeMC7VVWEDxdQKxesqQK) | 8:28 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWV8SP2WsR9MK.md) - [plain]
 | 99 | [And I Love Her](https://open.spotify.com/track/6ITNRagpLcw79jH8gkiyBS) | [Pat Metheny](https://open.spotify.com/artist/3t58jfUhoMLYVO14XaUFLA) | [What's It All About](https://open.spotify.com/album/1PFk7YXdSPenmhnsy85qN0) | 4:22 |
 | 100 | [Solar](https://open.spotify.com/track/0AduWgUPoSsKHMzhHKzqkn) | [Pat Metheny](https://open.spotify.com/artist/3t58jfUhoMLYVO14XaUFLA) | [Question and Answer](https://open.spotify.com/album/1kM7n3aiIKwS4FZqWLLdLv) | 8:25 |
 
-Snapshot ID: `AAAAAA/tlbXQVZQ1xGf9oo0eeczGq4Z6`
+Snapshot ID: `AAAAAMtGJNxC7I2KSGSJ/UEg2KLI4Rcn`

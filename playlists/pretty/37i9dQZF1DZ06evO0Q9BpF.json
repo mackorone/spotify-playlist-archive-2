@@ -1,12 +1,12 @@
 {
   "description": "This is Generaci\u00f3n 12. The essential tracks, all in one playlist.",
-  "num_followers": 52036,
+  "num_followers": 52043,
   "original_name": "This Is Generaci\u00f3n 12",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "awIwgAAAAAAYb4XwBpHpWXV5yhYMxhI1",
+  "snapshot_id": "awOCAAAAAADhDqe7b109Pq6rSdRKtQ8E",
   "tracks": [
     {
       "added_at": null,
@@ -319,6 +319,30 @@
     {
       "added_at": null,
       "album": {
+        "name": "Yo Me Rindo a \u00c9l (Si Te Tengo a Ti)",
+        "url": "https://open.spotify.com/album/4SwxEpsxZpn0VMQy569y8c"
+      },
+      "artists": [
+        {
+          "name": "MISSION MUSICA",
+          "url": "https://open.spotify.com/artist/16xtOvCPk7NaeGsdrLehgw"
+        },
+        {
+          "name": "Generaci\u00f3n 12",
+          "url": "https://open.spotify.com/artist/1w76rpst0I6hGUgCR2B33C"
+        },
+        {
+          "name": "Daniel Calveti",
+          "url": "https://open.spotify.com/artist/4lZXpKLxWjMDFeNmiU4H1h"
+        }
+      ],
+      "duration_ms": 564281,
+      "name": "Yo Me Rindo a \u00c9l (Si Te Tengo a Ti)",
+      "url": "https://open.spotify.com/track/7JVhj6oOsmPXjKz2c99zzg"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Sana Nuestra Naci\u00f3n",
         "url": "https://open.spotify.com/album/21FcQ9b3whbOUi5m7opU4p"
       },
@@ -359,30 +383,6 @@
       "duration_ms": 256295,
       "name": "Unidos Somos M\u00e1s Fuertes",
       "url": "https://open.spotify.com/track/6MDqbFekDpUxzRgBOoOYwo"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Yo Me Rindo a \u00c9l (Si Te Tengo a Ti)",
-        "url": "https://open.spotify.com/album/4SwxEpsxZpn0VMQy569y8c"
-      },
-      "artists": [
-        {
-          "name": "MISSION MUSICA",
-          "url": "https://open.spotify.com/artist/16xtOvCPk7NaeGsdrLehgw"
-        },
-        {
-          "name": "Generaci\u00f3n 12",
-          "url": "https://open.spotify.com/artist/1w76rpst0I6hGUgCR2B33C"
-        },
-        {
-          "name": "Daniel Calveti",
-          "url": "https://open.spotify.com/artist/4lZXpKLxWjMDFeNmiU4H1h"
-        }
-      ],
-      "duration_ms": 564281,
-      "name": "Yo Me Rindo a \u00c9l (Si Te Tengo a Ti)",
-      "url": "https://open.spotify.com/track/7JVhj6oOsmPXjKz2c99zzg"
     },
     {
       "added_at": null,
@@ -499,8 +499,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Mientras Viva (En Vivo Desde Sudam\u00e9rica)",
-        "url": "https://open.spotify.com/album/509ue0LQK7UVQieiDCFky2"
+        "name": "Ah\u00ed Est\u00e1s T\u00fa",
+        "url": "https://open.spotify.com/album/0pM8CYyLNaNS40GftOEWxt"
       },
       "artists": [
         {
@@ -508,17 +508,13 @@
           "url": "https://open.spotify.com/artist/1w76rpst0I6hGUgCR2B33C"
         },
         {
-          "name": "Fernando Ramos",
-          "url": "https://open.spotify.com/artist/5MJzy9qF9CL7CWapio7IPv"
-        },
-        {
-          "name": "Alex Campos",
-          "url": "https://open.spotify.com/artist/6slyJwua5e5GuhuP82sTHR"
+          "name": "Sof\u00eda Mancipe",
+          "url": "https://open.spotify.com/artist/13JxTQpXz8TBhXjOjYDioQ"
         }
       ],
-      "duration_ms": 280893,
-      "name": "Eres Todo Para Mi (feat. Alex Campos)",
-      "url": "https://open.spotify.com/track/5Tzpfe2cW7FTrPZBCV0gIj"
+      "duration_ms": 356200,
+      "name": "Ah\u00ed Est\u00e1s T\u00fa",
+      "url": "https://open.spotify.com/track/4woe9G6U1MYJw5EOkJ0izZ"
     },
     {
       "added_at": null,
@@ -551,8 +547,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Ah\u00ed Est\u00e1s T\u00fa",
-        "url": "https://open.spotify.com/album/0pM8CYyLNaNS40GftOEWxt"
+        "name": "Mientras Viva (En Vivo Desde Sudam\u00e9rica)",
+        "url": "https://open.spotify.com/album/509ue0LQK7UVQieiDCFky2"
       },
       "artists": [
         {
@@ -560,13 +556,17 @@
           "url": "https://open.spotify.com/artist/1w76rpst0I6hGUgCR2B33C"
         },
         {
-          "name": "Sof\u00eda Mancipe",
-          "url": "https://open.spotify.com/artist/13JxTQpXz8TBhXjOjYDioQ"
+          "name": "Fernando Ramos",
+          "url": "https://open.spotify.com/artist/5MJzy9qF9CL7CWapio7IPv"
+        },
+        {
+          "name": "Alex Campos",
+          "url": "https://open.spotify.com/artist/6slyJwua5e5GuhuP82sTHR"
         }
       ],
-      "duration_ms": 356200,
-      "name": "Ah\u00ed Est\u00e1s T\u00fa",
-      "url": "https://open.spotify.com/track/4woe9G6U1MYJw5EOkJ0izZ"
+      "duration_ms": 280893,
+      "name": "Eres Todo Para Mi (feat. Alex Campos)",
+      "url": "https://open.spotify.com/track/5Tzpfe2cW7FTrPZBCV0gIj"
     },
     {
       "added_at": null,
@@ -918,19 +918,11 @@
         {
           "name": "Generaci\u00f3n 12",
           "url": "https://open.spotify.com/artist/1w76rpst0I6hGUgCR2B33C"
-        },
-        {
-          "name": "Johan Manjarr\u00e9s",
-          "url": "https://open.spotify.com/artist/1jsU0SifGEeNfwJyIS4qc7"
-        },
-        {
-          "name": "Barak",
-          "url": "https://open.spotify.com/artist/2IzxJqK9NbSIdw7rQVW03P"
         }
       ],
-      "duration_ms": 389946,
-      "name": "La Nube De Tu Gloria (feat. Grupo Barak)",
-      "url": "https://open.spotify.com/track/1NseCbBak84iCLgbcqEPWS"
+      "duration_ms": 388853,
+      "name": "Milagros",
+      "url": "https://open.spotify.com/track/6np3uZnAFzDKTLmenvVCgh"
     },
     {
       "added_at": null,
@@ -1010,11 +1002,19 @@
         {
           "name": "Generaci\u00f3n 12",
           "url": "https://open.spotify.com/artist/1w76rpst0I6hGUgCR2B33C"
+        },
+        {
+          "name": "Johan Manjarr\u00e9s",
+          "url": "https://open.spotify.com/artist/1jsU0SifGEeNfwJyIS4qc7"
+        },
+        {
+          "name": "Barak",
+          "url": "https://open.spotify.com/artist/2IzxJqK9NbSIdw7rQVW03P"
         }
       ],
-      "duration_ms": 388853,
-      "name": "Milagros",
-      "url": "https://open.spotify.com/track/6np3uZnAFzDKTLmenvVCgh"
+      "duration_ms": 389946,
+      "name": "La Nube De Tu Gloria (feat. Grupo Barak)",
+      "url": "https://open.spotify.com/track/1NseCbBak84iCLgbcqEPWS"
     },
     {
       "added_at": null,

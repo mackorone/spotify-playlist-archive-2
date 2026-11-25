@@ -1,12 +1,12 @@
 {
   "description": "This is Gloria Groove. The essential tracks, all in one playlist.",
-  "num_followers": 167160,
+  "num_followers": 167168,
   "original_name": "This Is Gloria Groove",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "awIwgAAAAAAnf/p60yGqZTGIU0ZkR9Jm",
+  "snapshot_id": "awOCAAAAAAB2yi9pNQWxDq5bMSwM+BQj",
   "tracks": [
     {
       "added_at": null,
@@ -634,11 +634,15 @@
         {
           "name": "Gloria Groove",
           "url": "https://open.spotify.com/artist/7rXMvXRnWHaSwnVvPeUUfw"
+        },
+        {
+          "name": "Ferrugem",
+          "url": "https://open.spotify.com/artist/5ZfBThYiIIhL7jHMG8gDB2"
         }
       ],
-      "duration_ms": 222208,
-      "name": "Loucuras De Amor - Ao Vivo",
-      "url": "https://open.spotify.com/track/35RXnVCNCdiJ6NUNjeKNsN"
+      "duration_ms": 198665,
+      "name": "C\u00e2mera Frontal - Ao Vivo",
+      "url": "https://open.spotify.com/track/1baKllsMyEEdKIUiNx58KA"
     },
     {
       "added_at": null,
@@ -710,15 +714,11 @@
         {
           "name": "Gloria Groove",
           "url": "https://open.spotify.com/artist/7rXMvXRnWHaSwnVvPeUUfw"
-        },
-        {
-          "name": "Ferrugem",
-          "url": "https://open.spotify.com/artist/5ZfBThYiIIhL7jHMG8gDB2"
         }
       ],
-      "duration_ms": 198665,
-      "name": "C\u00e2mera Frontal - Ao Vivo",
-      "url": "https://open.spotify.com/track/1baKllsMyEEdKIUiNx58KA"
+      "duration_ms": 222208,
+      "name": "Loucuras De Amor - Ao Vivo",
+      "url": "https://open.spotify.com/track/35RXnVCNCdiJ6NUNjeKNsN"
     },
     {
       "added_at": null,
@@ -903,26 +903,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Chama A Lexa",
-        "url": "https://open.spotify.com/album/1tOLPBLDxM18D5X3yDOF8S"
-      },
-      "artists": [
-        {
-          "name": "Lexa",
-          "url": "https://open.spotify.com/artist/0jTDeBJQr3unrK29LklnAv"
-        },
-        {
-          "name": "Gloria Groove",
-          "url": "https://open.spotify.com/artist/7rXMvXRnWHaSwnVvPeUUfw"
-        }
-      ],
-      "duration_ms": 168138,
-      "name": "Provocar",
-      "url": "https://open.spotify.com/track/00op33CP1mD3I7U1NGfzaZ"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Zod\u00edaco",
         "url": "https://open.spotify.com/album/0drpSoLid5OVerEWbDyrMR"
       },
@@ -947,6 +927,26 @@
       "duration_ms": 198620,
       "name": "Capric\u00f3rnio",
       "url": "https://open.spotify.com/track/2lcSfqZ5QO07wH3xz8SzOK"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Chama A Lexa",
+        "url": "https://open.spotify.com/album/1tOLPBLDxM18D5X3yDOF8S"
+      },
+      "artists": [
+        {
+          "name": "Lexa",
+          "url": "https://open.spotify.com/artist/0jTDeBJQr3unrK29LklnAv"
+        },
+        {
+          "name": "Gloria Groove",
+          "url": "https://open.spotify.com/artist/7rXMvXRnWHaSwnVvPeUUfw"
+        }
+      ],
+      "duration_ms": 168138,
+      "name": "Provocar",
+      "url": "https://open.spotify.com/track/00op33CP1mD3I7U1NGfzaZ"
     },
     {
       "added_at": null,

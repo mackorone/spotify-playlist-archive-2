@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdXliePGSvEb.md) - [plain]
 
 > Our favourite electronic songs from around the world this year\. Cover: KI/KI
 
-[Spotify](https://open.spotify.com/user/spotify) - 78,737 likes - 75 songs - 5 hr 1 min
+[Spotify](https://open.spotify.com/user/spotify) - 78,735 likes - 75 songs - 5 hr 1 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -33,12 +33,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdXliePGSvEb.md) - [plain]
 | 23 | [Into Dust \(Still Falling\)](https://open.spotify.com/track/4kd3HIkMbwO4sVgkYkrBGo) | [Four Tet](https://open.spotify.com/artist/7Eu1txygG6nJttLHbZdQOh) | [Into Dust \(Still Falling\)](https://open.spotify.com/album/407vGRsnaFAEBtYFRNsid0) | 5:33 |
 | 24 | [Peace Talk](https://open.spotify.com/track/4c1GHCAXEFa08WHckJ6txh) | [Maribou State](https://open.spotify.com/artist/7zrkALJ9ayRjzysp4QYoEg), [Holly Walker](https://open.spotify.com/artist/5vssQp6TyMHsx4mihKVAsC) | [Hallucinating Love](https://open.spotify.com/album/6NyoU5F25y1I7V9fqbKqy9) | 3:30 |
 | 25 | [Dream Night](https://open.spotify.com/track/2DewmibGFWxakcxvVyf2Tv) | [Jamie xx](https://open.spotify.com/artist/7A0awCXkE1FtSU8B0qwOJQ) | [Dream Night](https://open.spotify.com/album/1sggIBo9jEoQFrX4ApjCD3) | 4:27 |
-| 26 | [Hold On](https://open.spotify.com/track/0zKGqyfegTfDT2ZwKCiSW9) | [Funk Tribu](https://open.spotify.com/artist/1vK8NnrPlBlF34LaiFX1SK) | [Hold On](https://open.spotify.com/album/1M5wUrormWAz4REo5hAwDs) | 4:09 |
-| 27 | [Monsoon](https://open.spotify.com/track/1JUzQ21p11mRdSkNVibKtx) | [Emma Louise](https://open.spotify.com/artist/1A96iePIMNFBjLrjXEl718), [Flume](https://open.spotify.com/artist/6nxWCVXbOlEVRexSbLsTer) | [DUMB](https://open.spotify.com/album/7e7r5fXrnD2eRJEZ6DVnKs) | 2:50 |
+| 26 | [Monsoon](https://open.spotify.com/track/1JUzQ21p11mRdSkNVibKtx) | [Emma Louise](https://open.spotify.com/artist/1A96iePIMNFBjLrjXEl718), [Flume](https://open.spotify.com/artist/6nxWCVXbOlEVRexSbLsTer) | [DUMB](https://open.spotify.com/album/7e7r5fXrnD2eRJEZ6DVnKs) | 2:50 |
+| 27 | [Hold On](https://open.spotify.com/track/0zKGqyfegTfDT2ZwKCiSW9) | [Funk Tribu](https://open.spotify.com/artist/1vK8NnrPlBlF34LaiFX1SK) | [Hold On](https://open.spotify.com/album/1M5wUrormWAz4REo5hAwDs) | 4:09 |
 | 28 | [START UP A RUMOUR](https://open.spotify.com/track/1Zb6tdJlJA0DwDkpoBYqge) | [Sam Gellaitry](https://open.spotify.com/artist/07UJz804RJxqNvxFXC3h9H) | [START UP A RUMOUR](https://open.spotify.com/album/08I2aQ28yE0sGG79klKqTt) | 3:20 |
 | 29 | [Air](https://open.spotify.com/track/1hGFbfiUfo4xVIR0R706rR) | [DJ HEARTSTRING](https://open.spotify.com/artist/5tcwaJBUyEdxQxvieuQxU7), [SWIM](https://open.spotify.com/artist/1OxXLWb0AXEgOfTUzlDg3V) | [FOREVER](https://open.spotify.com/album/45eDwIUGCbJKLNGwXj00Jh) | 3:42 |
-| 30 | [Romance](https://open.spotify.com/track/2uAo2AItW7yJFPBhcyfOhi) | [Shanti Celeste](https://open.spotify.com/artist/3CkM2290WOa2ESzhlu5mzM) | [Romance](https://open.spotify.com/album/3ojz3uQI6fpYmHj3xBWSW3) | 4:16 |
-| 31 | [Mystical Energy](https://open.spotify.com/track/6jQJKutPT5MicGc9jvgFhu) | [Alignment](https://open.spotify.com/artist/4eFbq5PZgW7YbtA65PP4wS) | [Mystical Energy EP](https://open.spotify.com/album/6urgbmkPO0TUtsAdS1ityi) | 5:20 |
+| 30 | [Mystical Energy](https://open.spotify.com/track/6jQJKutPT5MicGc9jvgFhu) | [Alignment](https://open.spotify.com/artist/4eFbq5PZgW7YbtA65PP4wS) | [Mystical Energy EP](https://open.spotify.com/album/6urgbmkPO0TUtsAdS1ityi) | 5:20 |
+| 31 | [Romance](https://open.spotify.com/track/2uAo2AItW7yJFPBhcyfOhi) | [Shanti Celeste](https://open.spotify.com/artist/3CkM2290WOa2ESzhlu5mzM) | [Romance](https://open.spotify.com/album/3ojz3uQI6fpYmHj3xBWSW3) | 4:16 |
 | 32 | [Play Me](https://open.spotify.com/track/20UnbY4JAUTbSCf38TKDdz) | [Fcukers](https://open.spotify.com/artist/3UtzOHYm3lQALkKzVD4wyO) | [Play Me](https://open.spotify.com/album/68J2MTHvW4gM5C6aevE1fV) | 2:49 |
 | 33 | [Love Will Win The Day \- Take 3 Radio Edit](https://open.spotify.com/track/4r4G0PQIrASzTRrT9R1Pd5) | [Nutty Nys](https://open.spotify.com/artist/7Hbhksw9E9NGS44qobhTSX) | [Love Will Win The Day \(Take 3 Radio Edit\)](https://open.spotify.com/album/6X8YeWB1WRps0m4DXEu23a) | 3:15 |
 | 34 | [Song for You](https://open.spotify.com/track/0SMFOOsqD1jicOhuorY1vz) | [Myd](https://open.spotify.com/artist/3QFiymmbJlVBPpnrOatEAk) | [Song for You / The Wizard](https://open.spotify.com/album/4nK22U0cwj5m6tzV3plY3l) | 3:33 |
@@ -73,8 +73,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdXliePGSvEb.md) - [plain]
 | 63 | [Ondatonda](https://open.spotify.com/track/54msm7wWFdqpbwMln20Mwn) | [Ceri Wax](https://open.spotify.com/artist/6m62Dx1zgJshfmKYQHImew), [HÅN](https://open.spotify.com/artist/7n3jYxJuLzLuOv8Fk1s9N1) | [ONDATONDA](https://open.spotify.com/album/6ugAB2uGoZ5YrqKoS5ycbG) | 3:31 |
 | 64 | [Odyssey](https://open.spotify.com/track/3uQRqiNdBjjTIvb1bq5FH4) | [Ede](https://open.spotify.com/artist/7mxkWNWc7ceydKrZmVQmKK) | [Odyssey EP](https://open.spotify.com/album/2SBRzynmqYkPw0Yf6Jn0pK) | 5:45 |
 | 65 | [Remember \(feat\. Ravyn Lenae & Scrufizzer\)](https://open.spotify.com/track/2HlT1qcOgxlnbzBFirVz0K) | [BAMBII](https://open.spotify.com/artist/6kf69CwzgodrETRgzcjX95), [Ravyn Lenae](https://open.spotify.com/artist/5RTLRtXjbXI2lSXc6jxlAz), [Scruffizer](https://open.spotify.com/artist/4nFfDHAqAGzzafiRt7KdEb) | [INFINITY CLUB II](https://open.spotify.com/album/65rerxGdYHjGKB9Fx26rYK) | 2:45 |
-| 66 | [Sad Piano House](https://open.spotify.com/track/5aoW3sHEi8uBBYEQyC16i9) | [Daphni](https://open.spotify.com/artist/4nhvb6x9ZhPiYCzrHDNia9) | [Sad Piano House](https://open.spotify.com/album/5RqK2ppKKTOIZbCl9wNbtv) | 5:05 |
-| 67 | [Que Isso](https://open.spotify.com/track/5S9GRasmX7UTbYHq2aluMn) | [PPJ](https://open.spotify.com/artist/7KuCPW8FtCyMhcPxrxjeyi) | [Que Isso](https://open.spotify.com/album/0RWmxVvoTvE1B4H0FDiprK) | 3:18 |
+| 66 | [Que Isso](https://open.spotify.com/track/5S9GRasmX7UTbYHq2aluMn) | [PPJ](https://open.spotify.com/artist/7KuCPW8FtCyMhcPxrxjeyi) | [Que Isso](https://open.spotify.com/album/0RWmxVvoTvE1B4H0FDiprK) | 3:18 |
+| 67 | [Sad Piano House](https://open.spotify.com/track/5aoW3sHEi8uBBYEQyC16i9) | [Daphni](https://open.spotify.com/artist/4nhvb6x9ZhPiYCzrHDNia9) | [Sad Piano House](https://open.spotify.com/album/5RqK2ppKKTOIZbCl9wNbtv) | 5:05 |
 | 68 | [2 Go](https://open.spotify.com/track/0OEdFRb2jr5dNF4kOfl8aq) | [Mel Blue](https://open.spotify.com/artist/6GV5OpDaGm4sYeWlaXMHnJ) | [nomorejacketsplease](https://open.spotify.com/album/0FIC7MqBXHof4Q52dI0GEz) | 4:06 |
 | 69 | [Are We There](https://open.spotify.com/track/4IC12iWEBhquqm9xcWI7nY) | [Breaka](https://open.spotify.com/artist/2hTtDy5yaNWqVmBj7EpaAq) | [Aeoui](https://open.spotify.com/album/7GiryhyiYis1NEfjEAb4tv) | 4:45 |
 | 70 | [More of You](https://open.spotify.com/track/0chp8IMadByVPHjKbK2Kou) | [Harry Hayes](https://open.spotify.com/artist/7BBSATOdEaY07XbxlUzfFu) | [Before It Goes \- EP](https://open.spotify.com/album/6yMpxMGTJsrhxBWbtRCgXC) | 4:13 |
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdXliePGSvEb.md) - [plain]
 | 74 | [L F G](https://open.spotify.com/track/3oaDqABHAzKwOXdLbuPdgd) | [ZVRI](https://open.spotify.com/artist/1or4sxcSSFThb2p8VuK8Sn), [Okmalumkoolkat](https://open.spotify.com/artist/0CaeXDVwH52TDLA0GLRo4f), [Sastii](https://open.spotify.com/artist/32Mj58IRbLXY5O8uj2O0Ml), [Yungboyvegeta](https://open.spotify.com/artist/0RYxiK8P3O1SwUY9jRt7sh), [Una Rams](https://open.spotify.com/artist/0R9J43uwcbEaNfTb9y3FAS) | [Relentless](https://open.spotify.com/album/2E55tzIeMiNScqBLX7rF9T) | 4:26 |
 | 75 | [Drifting](https://open.spotify.com/track/6x1Jhg9iL48RDdsqPvqibR) | [Megra](https://open.spotify.com/artist/75JMPNQ1B2A6WZydvs06Ok) | [Drifting](https://open.spotify.com/album/49kc12hoXV2SNlWV4URmrj) | 3:42 |
 
-Snapshot ID: `AAAAAPZ3kScy50UbVUOWX7xO7CoOeYE9`
+Snapshot ID: `AAAAAIzlHjE7eAmy4BBS9R3Lgqb2wlf1`

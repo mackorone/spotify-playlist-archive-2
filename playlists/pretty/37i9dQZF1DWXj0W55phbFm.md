@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXj0W55phbFm.md) - [plain]
 
 > The classic trumpet players in Jazz\. Cover: Miles Davis
 
-[Spotify](https://open.spotify.com/user/spotify) - 92,956 likes - 100 songs - 10 hr 5 min
+[Spotify](https://open.spotify.com/user/spotify) - 92,980 likes - 100 songs - 10 hr 5 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -47,8 +47,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXj0W55phbFm.md) - [plain]
 | 37 | [I Should Care](https://open.spotify.com/track/4cbO7bZIfQPyHhzhe6S1c9) | [Nat Adderley](https://open.spotify.com/artist/7KjjSmSX5wCE1KYOerEf6D) | [Introducing Nat Adderley](https://open.spotify.com/album/43ZOof3094D6Uqvnj1tOUT) | 4:27 |
 | 38 | [Gilimanuk](https://open.spotify.com/track/330Ke2S95HMiuZwykzcFCW) | [Nils Petter Molvær](https://open.spotify.com/artist/2r1f1zkIjuQ7ETeJHsXpsc) | [Buoyancy](https://open.spotify.com/album/1INC2K6yyGoafXSqHrdAAv) | 3:48 |
 | 39 | [What Is This Thing Called Love](https://open.spotify.com/track/3zqVCujN4nNryzTCwLGO3G) | [Clifford Brown](https://open.spotify.com/artist/1HJHwWck1EY096ea2iPAHO), [Max Roach Quintet](https://open.spotify.com/artist/6ynifrh6ZrWXHAywnUlNV3) | [Clifford Brown And Max Roach At Basin Street \(Expanded Edition\)](https://open.spotify.com/album/6PuVuJwyxyBZXMz73teSoV) | 7:33 |
-| 40 | [A Night In Tunisia \- Rudy Van Gelder Edition/2006 Digital Remaster](https://open.spotify.com/track/2nHFS2Ia5BZRS9X6zzlURI) | [Lee Morgan](https://open.spotify.com/artist/38C3okxv3fyyOIQUVPCdGX) | [The Cooker](https://open.spotify.com/album/4qHvDIHdLQfX0aZr7MrGDw) | 9:20 |
-| 41 | [Moten Swing \- Remastered](https://open.spotify.com/track/3sWqSY5y19xWDjjG58jtBS) | [Jonah Jones](https://open.spotify.com/artist/5u7FXbK7whWNTbgeicnbG9) | [Jumpin' With Jonah](https://open.spotify.com/album/7LUrssAM48grNDmYreSiXS) | 3:13 |
+| 40 | [Moten Swing \- Remastered](https://open.spotify.com/track/3sWqSY5y19xWDjjG58jtBS) | [Jonah Jones](https://open.spotify.com/artist/5u7FXbK7whWNTbgeicnbG9) | [Jumpin' With Jonah](https://open.spotify.com/album/7LUrssAM48grNDmYreSiXS) | 3:13 |
+| 41 | [A Night In Tunisia \- Rudy Van Gelder Edition/2006 Digital Remaster](https://open.spotify.com/track/2nHFS2Ia5BZRS9X6zzlURI) | [Lee Morgan](https://open.spotify.com/artist/38C3okxv3fyyOIQUVPCdGX) | [The Cooker](https://open.spotify.com/album/4qHvDIHdLQfX0aZr7MrGDw) | 9:20 |
 | 42 | [Easy To Remember](https://open.spotify.com/track/0QKbUoVUNbmxpOaURXiday) | [Roy Hargrove](https://open.spotify.com/artist/49zXTngyUTielHTbbH5YKs) | [Approaching Standards](https://open.spotify.com/album/1OGhqJimAFVAtyX7PKbakD) | 6:09 |
 | 43 | [Smatter](https://open.spotify.com/track/38ywfRlqUclNcqCjCUINJt) | [Kenny Wheeler](https://open.spotify.com/artist/2GIms8u3bruipn5MOR5wcs), [Keith Jarrett](https://open.spotify.com/artist/0F3Aew9DSd6fb6192K1K0Y), [Dave Holland](https://open.spotify.com/artist/1bqaQBqbqbEXPxLF0v6AAH), [Jack DeJohnette](https://open.spotify.com/artist/7rDjbKTLlpNYJRWMm7QVxU) | [Gnu High](https://open.spotify.com/album/3ZJDOnK3ypck3huOlnBYrn) | 5:58 |
 | 44 | [Comin' Down](https://open.spotify.com/track/60EjvhLsxvgFbkQR6s4Jsx) | [Chet Baker](https://open.spotify.com/artist/3rxeQlsv0Sc2nyYaZ5W71T) | [Baby Breeze \(Expanded Edition\)](https://open.spotify.com/album/4FwmVb94KamiFQNi2uslNM) | 4:28 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXj0W55phbFm.md) - [plain]
 | 99 | [So What \- Live at Festival Mondial Du Jazz Antibes/Juan\-Les\-Pins, France \- July 26, 1963](https://open.spotify.com/track/05DVJdzKMwe9YLIpWfscLP) | [Miles Davis](https://open.spotify.com/artist/0kbYTNQb4Pb1rPbbaF0pT4) | [So What \(Live at Festival Mondial Du Jazz Antibes/Juan\-Les\-Pins, France \- July 26, 1963\)](https://open.spotify.com/album/3lsoWhkQVSWgFuFREKwpV2) | 9:46 |
 | 100 | [Children's Waltz](https://open.spotify.com/track/6vhp7oVhC3y83H1ItCzNce) | [Chet Baker](https://open.spotify.com/artist/3rxeQlsv0Sc2nyYaZ5W71T), [Philip Catherine](https://open.spotify.com/artist/3MK08earaAAPhouY2WTvqn) | [Late Night Jazz \(Deluxe Edition\)](https://open.spotify.com/album/4R3CM1E0eEgn4RVAz7ve64) | 2:59 |
 
-Snapshot ID: `AAAAAAgh7USW4176gy8DR9aYFc7fh3ZU`
+Snapshot ID: `AAAAABfwjK16qsIaFYOoEw2/aIz02U81`

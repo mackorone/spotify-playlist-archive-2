@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2QxIuk.md) - [plain]
 
 > This is Earth, Wind & Fire\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 376,838 likes - 50 songs - 3 hr 34 min
+[Spotify](https://open.spotify.com/user/spotify) - 376,843 likes - 50 songs - 3 hr 34 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -37,9 +37,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2QxIuk.md) - [plain]
 | 27 | [Be Ever Wonderful](https://open.spotify.com/track/1Q02TxUD4iUeqtkRSXBxrs) | [Earth, Wind & Fire](https://open.spotify.com/artist/4QQgXkCYTt3BlENzhyNETg) | [All 'N All](https://open.spotify.com/album/0w0eT42Gyq6G9yXB0RirWh) | 5:08 |
 | 28 | [Star](https://open.spotify.com/track/4e0Yl8XceW6RLi8zZpL1qW) | [Earth, Wind & Fire](https://open.spotify.com/artist/4QQgXkCYTt3BlENzhyNETg) | [I Am](https://open.spotify.com/album/4RLVTxnuVN5ZWZqBFnaaQt) | 4:25 |
 | 29 | [Love Music](https://open.spotify.com/track/4a5aC5C4MAfqHPGgVZhSrr) | [Earth, Wind & Fire](https://open.spotify.com/artist/4QQgXkCYTt3BlENzhyNETg) | [The Best Of Earth, Wind & Fire Vol\. 1](https://open.spotify.com/album/2FW0uQ4WL25umm5p2VrZO7) | 3:55 |
-| 30 | [September](https://open.spotify.com/track/1fPI4n7mTvKOrhGRSaCbaU) | [Throttle](https://open.spotify.com/artist/6mPZJXtFVaakznkRxdgWtC), [Earth, Wind & Fire](https://open.spotify.com/artist/4QQgXkCYTt3BlENzhyNETg) | [September](https://open.spotify.com/album/11tbgwXv0FQSnqqt7iCfK4) | 4:16 |
-| 31 | [I'll Write a Song for You](https://open.spotify.com/track/5RMTMx6CQ5g8ZoYTnh9dkB) | [Earth, Wind & Fire](https://open.spotify.com/artist/4QQgXkCYTt3BlENzhyNETg) | [All 'N All](https://open.spotify.com/album/0w0eT42Gyq6G9yXB0RirWh) | 5:24 |
-| 32 | [Gratitude](https://open.spotify.com/track/3u6RUwssIdqbeXSjU8bX8F) | [Earth, Wind & Fire](https://open.spotify.com/artist/4QQgXkCYTt3BlENzhyNETg) | [Gratitude](https://open.spotify.com/album/7AqOsJkpKZdkiap6CmIJ3Z) | 3:26 |
+| 30 | [Gratitude](https://open.spotify.com/track/3u6RUwssIdqbeXSjU8bX8F) | [Earth, Wind & Fire](https://open.spotify.com/artist/4QQgXkCYTt3BlENzhyNETg) | [Gratitude](https://open.spotify.com/album/7AqOsJkpKZdkiap6CmIJ3Z) | 3:26 |
+| 31 | [September](https://open.spotify.com/track/1fPI4n7mTvKOrhGRSaCbaU) | [Throttle](https://open.spotify.com/artist/6mPZJXtFVaakznkRxdgWtC), [Earth, Wind & Fire](https://open.spotify.com/artist/4QQgXkCYTt3BlENzhyNETg) | [September](https://open.spotify.com/album/11tbgwXv0FQSnqqt7iCfK4) | 4:16 |
+| 32 | [I'll Write a Song for You](https://open.spotify.com/track/5RMTMx6CQ5g8ZoYTnh9dkB) | [Earth, Wind & Fire](https://open.spotify.com/artist/4QQgXkCYTt3BlENzhyNETg) | [All 'N All](https://open.spotify.com/album/0w0eT42Gyq6G9yXB0RirWh) | 5:24 |
 | 33 | [And Love Goes On](https://open.spotify.com/track/4fLyo0TfSm6eZuYpK33Wye) | [Earth, Wind & Fire](https://open.spotify.com/artist/4QQgXkCYTt3BlENzhyNETg) | [Faces](https://open.spotify.com/album/6LapfqQYqVWO1kDb6GDXr6) | 4:05 |
 | 34 | [Would You Mind](https://open.spotify.com/track/5wnRvlX2POTq4K8p3ssP7Y) | [Earth, Wind & Fire](https://open.spotify.com/artist/4QQgXkCYTt3BlENzhyNETg) | [Constellations: The Universe of Earth, Wind & Fire](https://open.spotify.com/album/3aw9cxZ6RY9OscIP7rXalf) | 2:21 |
 | 35 | [Brazilian Rhyme](https://open.spotify.com/track/21AnCQUMUBi2YzgHR4wU1M) | [Earth, Wind & Fire](https://open.spotify.com/artist/4QQgXkCYTt3BlENzhyNETg) | [Live in Rio](https://open.spotify.com/album/3gCFUQmjNT5kVnSIapZPvM) | 2:09 |
@@ -54,9 +54,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2QxIuk.md) - [plain]
 | 44 | [Evil](https://open.spotify.com/track/0IFbyuvJUXroM8UkZ2Pnsk) | [Earth, Wind & Fire](https://open.spotify.com/artist/4QQgXkCYTt3BlENzhyNETg) | [Head To The Sky](https://open.spotify.com/album/01c1PLpIdfwy47yid7GqKB) | 5:00 |
 | 45 | [Side by Side](https://open.spotify.com/track/1nv7USeo1Y4gqQRqD7PsPI) | [Earth, Wind & Fire](https://open.spotify.com/artist/4QQgXkCYTt3BlENzhyNETg) | [Powerlight](https://open.spotify.com/album/3hZjcwZDDQOYB9PiGzEKSa) | 5:56 |
 | 46 | [Happy Feelin'](https://open.spotify.com/track/4X7hACjMfokfcgfNWPasdZ) | [Earth, Wind & Fire](https://open.spotify.com/artist/4QQgXkCYTt3BlENzhyNETg) | [That's The Way Of The World](https://open.spotify.com/album/5tXZfxvr2VaWibD74nw8VL) | 3:35 |
-| 47 | [I've Had Enough](https://open.spotify.com/track/157By8hFx0KvNuSKtjubDo) | [Earth, Wind & Fire](https://open.spotify.com/artist/4QQgXkCYTt3BlENzhyNETg) | [Raise!](https://open.spotify.com/album/1hj1SYbJYdXloRiSjsCLXg) | 4:37 |
-| 48 | [September/The Joker](https://open.spotify.com/track/1yW6zNGmBCP95LLy2w1p1O) | [Earth, Wind & Fire](https://open.spotify.com/artist/4QQgXkCYTt3BlENzhyNETg), [Fatboy Slim](https://open.spotify.com/artist/4Y7tXHSEejGu1vQ9bwDdXW) | [Babel \- Music From And Inspired By The Motion Picture](https://open.spotify.com/album/3oHysLqzr30LVkciv5idom) | 6:29 |
-| 49 | [Let's Go Dumb Crasy](https://open.spotify.com/track/44xXX5Z6CiaAjx4Yd4EZh6) | [Big Boogie](https://open.spotify.com/artist/372IgXgnCt4wlfumrMTIOs), [Big Money Blitz](https://open.spotify.com/artist/5u7vwAzFX2vW9KdLwpGOr9), [Earth, Wind & Fire](https://open.spotify.com/artist/4QQgXkCYTt3BlENzhyNETg), [So Supa](https://open.spotify.com/artist/6D6Uf2RTnvHkD64pUapryP) | [Let's Go Dumb Crasy](https://open.spotify.com/album/3nmPYcTH2TvFFnxgeCB0MF) | 2:12 |
+| 47 | [September/The Joker](https://open.spotify.com/track/1yW6zNGmBCP95LLy2w1p1O) | [Earth, Wind & Fire](https://open.spotify.com/artist/4QQgXkCYTt3BlENzhyNETg), [Fatboy Slim](https://open.spotify.com/artist/4Y7tXHSEejGu1vQ9bwDdXW) | [Babel \- Music From And Inspired By The Motion Picture](https://open.spotify.com/album/3oHysLqzr30LVkciv5idom) | 6:29 |
+| 48 | [Let's Go Dumb Crasy](https://open.spotify.com/track/44xXX5Z6CiaAjx4Yd4EZh6) | [Big Boogie](https://open.spotify.com/artist/372IgXgnCt4wlfumrMTIOs), [Big Money Blitz](https://open.spotify.com/artist/5u7vwAzFX2vW9KdLwpGOr9), [Earth, Wind & Fire](https://open.spotify.com/artist/4QQgXkCYTt3BlENzhyNETg), [So Supa](https://open.spotify.com/artist/6D6Uf2RTnvHkD64pUapryP) | [Let's Go Dumb Crasy](https://open.spotify.com/album/3nmPYcTH2TvFFnxgeCB0MF) | 2:12 |
+| 49 | [I've Had Enough](https://open.spotify.com/track/157By8hFx0KvNuSKtjubDo) | [Earth, Wind & Fire](https://open.spotify.com/artist/4QQgXkCYTt3BlENzhyNETg) | [Raise!](https://open.spotify.com/album/1hj1SYbJYdXloRiSjsCLXg) | 4:37 |
 | 50 | [Show Me the Way \(feat\. Raphael Saadiq\)](https://open.spotify.com/track/0wMW42Ho6PLXPNjRy9HMqg) | [Earth, Wind & Fire](https://open.spotify.com/artist/4QQgXkCYTt3BlENzhyNETg), [Raphael Saadiq](https://open.spotify.com/artist/6g0Wah2YFtb1rFgKhUktlo) | [Illumination](https://open.spotify.com/album/05dTNXB4JyV4I0h6ShWyFY) | 7:47 |
 
-Snapshot ID: `awIwgAAAAAAYhYDJxQjPf3m8RQXWigaj`
+Snapshot ID: `awOCAAAAAAB6nRzj1VRQ08DQ+6qWou9v`

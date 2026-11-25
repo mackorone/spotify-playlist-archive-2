@@ -6,7 +6,7 @@
     "name": "Evan",
     "url": "https://open.spotify.com/user/sn313e4ludhgj8lelf5kmxk1l"
   },
-  "snapshot_id": "AAABOE1sQ9u46IB9nI229UShCrwXWty9",
+  "snapshot_id": "AAABOd6Oz7POL9NfWlREtiyfk2/VitJC",
   "tracks": [
     {
       "added_at": "2023-02-27 21:53:34",
@@ -3083,6 +3083,22 @@
       "duration_ms": 226643,
       "name": "Loser",
       "url": "https://open.spotify.com/track/0dHoN2r23LzobJS5FynRip"
+    },
+    {
+      "added_at": "2026-11-25 02:41:01",
+      "album": {
+        "name": "Songs For Beginners",
+        "url": "https://open.spotify.com/album/3Lh1KbeS801PtOeojquUPk"
+      },
+      "artists": [
+        {
+          "name": "Graham Nash",
+          "url": "https://open.spotify.com/artist/2E6Roj0oQnJIm2BeXwDica"
+        }
+      ],
+      "duration_ms": 230173,
+      "name": "Better Days",
+      "url": "https://open.spotify.com/track/28s5iRbX62GZG2ReZTLKDa"
     }
   ],
   "unique_name": "20QheuAYbSRnj6SaIbjPWA",

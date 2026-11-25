@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0Q4kU2.md) - [plain]
 
 > This is Gabríel Ólafs\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 2,667 likes - 50 songs - 2 hr 18 min
+[Spotify](https://open.spotify.com/user/spotify) - 2,667 likes - 50 songs - 2 hr 19 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -57,6 +57,6 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0Q4kU2.md) - [plain]
 | 47 | [Noktúrna Variation](https://open.spotify.com/track/4AnUtAQBpd8S8woFEqVgzL) | [Gabríel Ólafs](https://open.spotify.com/artist/1vYrIm6O7VtBGszIWe75mB) | [Lullabies for Piano and Cello \(Deluxe\)](https://open.spotify.com/album/0V9codAUbAzXJSD1c5jkk3) | 1:43 |
 | 48 | [The Waves](https://open.spotify.com/track/4MlRPfn6fTD1RIr3Auvh4r) | [Gabríel Ólafs](https://open.spotify.com/artist/1vYrIm6O7VtBGszIWe75mB) | [Polar](https://open.spotify.com/album/7whIybEX8ypYwba3UGePr9) | 4:38 |
 | 49 | [Courtroom](https://open.spotify.com/track/2QqRYsqmUZLqPvd5WJMh1l) | [Gabríel Ólafs](https://open.spotify.com/artist/1vYrIm6O7VtBGszIWe75mB) | [Prosecution \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/7IWpGK5mGaME8bg9QmR77X) | 1:40 |
-| 50 | [Ocean Variation II](https://open.spotify.com/track/1ql9vbXw8QSYvJfudDpmuj) | [Gabríel Ólafs](https://open.spotify.com/artist/1vYrIm6O7VtBGszIWe75mB) | [Polar: Dusk](https://open.spotify.com/album/1sGm9UPHtHbnoHhmyhY7td) | 1:55 |
+| 50 | [Hind / Aska \- Harpa Sessions](https://open.spotify.com/track/3xAXkaB8vlhYa41vuM5RNM) | [Gabríel Ólafs](https://open.spotify.com/artist/1vYrIm6O7VtBGszIWe75mB) | [Hind / Aska \(Harpa Sessions\)](https://open.spotify.com/album/4wMVESeu9wtxdBBUteIKV2) | 2:59 |
 
-Snapshot ID: `awIwgAAAAAD9Y+O3kzpTeX/eVGqFcMtW`
+Snapshot ID: `awOCAAAAAADOnJ4KtQ3JlNhjqyD7xhI0`

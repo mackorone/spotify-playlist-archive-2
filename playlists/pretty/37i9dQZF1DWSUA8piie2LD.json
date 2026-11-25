@@ -1,12 +1,12 @@
 {
   "description": "The smoothest of smooth Jazz for your romantic evening.",
-  "num_followers": 176218,
+  "num_followers": 176257,
   "original_name": "Romantic Smooth Jazz",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAJ7Nw4WkQbD94FVgkZM2MLAs8PMx",
+  "snapshot_id": "AAAAAFfuScmsiByPitfv749ezvl4IHcf",
   "tracks": [
     {
       "added_at": "2026-02-09 08:21:39",
@@ -155,22 +155,6 @@
     {
       "added_at": "2026-02-09 08:21:39",
       "album": {
-        "name": "Sweet Thing",
-        "url": "https://open.spotify.com/album/1we21be2R4o56iwheyKMxE"
-      },
-      "artists": [
-        {
-          "name": "Boney James",
-          "url": "https://open.spotify.com/artist/1sBRcMH8DDR8Nsk2RoJmjS"
-        }
-      ],
-      "duration_ms": 234733,
-      "name": "Sweet Thing",
-      "url": "https://open.spotify.com/track/3M44mD2haxaLsG6chVL9l1"
-    },
-    {
-      "added_at": "2026-02-09 08:21:39",
-      "album": {
         "name": "Jumpin' Off",
         "url": "https://open.spotify.com/album/5wQf2a11tk7gJcx6GKfCt2"
       },
@@ -183,6 +167,22 @@
       "duration_ms": 257000,
       "name": "In The Groove",
       "url": "https://open.spotify.com/track/2AyEl9H2FwNNdW7xdNRlSI"
+    },
+    {
+      "added_at": "2026-02-09 08:21:39",
+      "album": {
+        "name": "Sweet Thing",
+        "url": "https://open.spotify.com/album/1we21be2R4o56iwheyKMxE"
+      },
+      "artists": [
+        {
+          "name": "Boney James",
+          "url": "https://open.spotify.com/artist/1sBRcMH8DDR8Nsk2RoJmjS"
+        }
+      ],
+      "duration_ms": 234733,
+      "name": "Sweet Thing",
+      "url": "https://open.spotify.com/track/3M44mD2haxaLsG6chVL9l1"
     },
     {
       "added_at": "2026-02-09 08:21:39",
@@ -267,18 +267,18 @@
     {
       "added_at": "2026-02-09 08:21:39",
       "album": {
-        "name": "Seduction",
-        "url": "https://open.spotify.com/album/132qZxDylYwv3vvUA3AH7D"
+        "name": "Presence",
+        "url": "https://open.spotify.com/album/3y3NkJMbTM1JLwrDKxEFZb"
       },
       "artists": [
         {
-          "name": "Boney James",
-          "url": "https://open.spotify.com/artist/1sBRcMH8DDR8Nsk2RoJmjS"
+          "name": "Chuck Loeb",
+          "url": "https://open.spotify.com/artist/02L5Rmh1RtTbHOBdzPzfoQ"
         }
       ],
-      "duration_ms": 238053,
-      "name": "Ain't No Sunshine",
-      "url": "https://open.spotify.com/track/6gWHevH6rJOaLpRYIVQWll"
+      "duration_ms": 247333,
+      "name": "Window of the Soul",
+      "url": "https://open.spotify.com/track/32eDGGkGf1lcJ8aWrjGhFO"
     },
     {
       "added_at": "2026-02-09 08:21:39",
@@ -299,18 +299,18 @@
     {
       "added_at": "2026-02-09 08:21:39",
       "album": {
-        "name": "Presence",
-        "url": "https://open.spotify.com/album/3y3NkJMbTM1JLwrDKxEFZb"
+        "name": "Seduction",
+        "url": "https://open.spotify.com/album/132qZxDylYwv3vvUA3AH7D"
       },
       "artists": [
         {
-          "name": "Chuck Loeb",
-          "url": "https://open.spotify.com/artist/02L5Rmh1RtTbHOBdzPzfoQ"
+          "name": "Boney James",
+          "url": "https://open.spotify.com/artist/1sBRcMH8DDR8Nsk2RoJmjS"
         }
       ],
-      "duration_ms": 247333,
-      "name": "Window of the Soul",
-      "url": "https://open.spotify.com/track/32eDGGkGf1lcJ8aWrjGhFO"
+      "duration_ms": 238053,
+      "name": "Ain't No Sunshine",
+      "url": "https://open.spotify.com/track/6gWHevH6rJOaLpRYIVQWll"
     },
     {
       "added_at": "2026-02-09 08:21:39",
@@ -347,18 +347,18 @@
     {
       "added_at": "2026-02-09 08:21:39",
       "album": {
-        "name": "Body Language",
-        "url": "https://open.spotify.com/album/5UJmUYnpdtUGCcoMa7hDKE"
+        "name": "Dance Of The Soul",
+        "url": "https://open.spotify.com/album/1AMsdS2ZKQRYTuo4HSKywh"
       },
       "artists": [
         {
-          "name": "Boney James",
-          "url": "https://open.spotify.com/artist/1sBRcMH8DDR8Nsk2RoJmjS"
+          "name": "Ramsey Lewis",
+          "url": "https://open.spotify.com/artist/7Kfrmups2Z3ncDQmNS5jRc"
         }
       ],
-      "duration_ms": 295840,
-      "name": "Body Language",
-      "url": "https://open.spotify.com/track/5fzXNCgCGt3NnjfmpMSs7M"
+      "duration_ms": 271800,
+      "name": "Love's Serenade",
+      "url": "https://open.spotify.com/track/0kuI1W0TxINXsHrrcHiMQS"
     },
     {
       "added_at": "2026-02-09 08:21:39",
@@ -379,18 +379,18 @@
     {
       "added_at": "2026-02-09 08:21:39",
       "album": {
-        "name": "Dance Of The Soul",
-        "url": "https://open.spotify.com/album/1AMsdS2ZKQRYTuo4HSKywh"
+        "name": "Body Language",
+        "url": "https://open.spotify.com/album/5UJmUYnpdtUGCcoMa7hDKE"
       },
       "artists": [
         {
-          "name": "Ramsey Lewis",
-          "url": "https://open.spotify.com/artist/7Kfrmups2Z3ncDQmNS5jRc"
+          "name": "Boney James",
+          "url": "https://open.spotify.com/artist/1sBRcMH8DDR8Nsk2RoJmjS"
         }
       ],
-      "duration_ms": 271800,
-      "name": "Love's Serenade",
-      "url": "https://open.spotify.com/track/0kuI1W0TxINXsHrrcHiMQS"
+      "duration_ms": 295840,
+      "name": "Body Language",
+      "url": "https://open.spotify.com/track/5fzXNCgCGt3NnjfmpMSs7M"
     },
     {
       "added_at": "2026-02-09 08:21:39",
@@ -539,6 +539,22 @@
     {
       "added_at": "2026-02-09 08:21:39",
       "album": {
+        "name": "Somethin' Bout Love",
+        "url": "https://open.spotify.com/album/0GijMXMEEFAD7N4P1eIOhb"
+      },
+      "artists": [
+        {
+          "name": "Brian Culbertson",
+          "url": "https://open.spotify.com/artist/4WQ8grqJHB2Y0IDjpro1FE"
+        }
+      ],
+      "duration_ms": 285733,
+      "name": "Somethin' Bout Love",
+      "url": "https://open.spotify.com/track/0nbpJT18zdfjt0dN2tds9h"
+    },
+    {
+      "added_at": "2026-02-09 08:21:39",
+      "album": {
         "name": "Nightlife",
         "url": "https://open.spotify.com/album/3REfT3hfJrLkfsfmkS8ZHN"
       },
@@ -567,22 +583,6 @@
       "duration_ms": 303680,
       "name": "Rikke",
       "url": "https://open.spotify.com/track/1wvb7JFKm9QeLJ7VNRmncw"
-    },
-    {
-      "added_at": "2026-02-09 08:21:39",
-      "album": {
-        "name": "Somethin' Bout Love",
-        "url": "https://open.spotify.com/album/0GijMXMEEFAD7N4P1eIOhb"
-      },
-      "artists": [
-        {
-          "name": "Brian Culbertson",
-          "url": "https://open.spotify.com/artist/4WQ8grqJHB2Y0IDjpro1FE"
-        }
-      ],
-      "duration_ms": 285733,
-      "name": "Somethin' Bout Love",
-      "url": "https://open.spotify.com/track/0nbpJT18zdfjt0dN2tds9h"
     },
     {
       "added_at": "2026-02-09 08:21:39",
@@ -619,22 +619,6 @@
     {
       "added_at": "2026-02-09 08:21:39",
       "album": {
-        "name": "Steppin' Out",
-        "url": "https://open.spotify.com/album/253BTggCrxk5ULsiaYTZfF"
-      },
-      "artists": [
-        {
-          "name": "Paul Taylor",
-          "url": "https://open.spotify.com/artist/3wBSOZFd5KLsEZ1yoVSICQ"
-        }
-      ],
-      "duration_ms": 238293,
-      "name": "Night Rider",
-      "url": "https://open.spotify.com/track/3mn4KmAcvj2mhpkO11EsGQ"
-    },
-    {
-      "added_at": "2026-02-09 08:21:39",
-      "album": {
         "name": "Journey",
         "url": "https://open.spotify.com/album/3O6pouh9bYPTnzzpl1ssPI"
       },
@@ -647,6 +631,22 @@
       "duration_ms": 340386,
       "name": "Fields of Gold",
       "url": "https://open.spotify.com/track/0f8lc6QabkwdZ89O2qRXkp"
+    },
+    {
+      "added_at": "2026-02-09 08:21:39",
+      "album": {
+        "name": "Steppin' Out",
+        "url": "https://open.spotify.com/album/253BTggCrxk5ULsiaYTZfF"
+      },
+      "artists": [
+        {
+          "name": "Paul Taylor",
+          "url": "https://open.spotify.com/artist/3wBSOZFd5KLsEZ1yoVSICQ"
+        }
+      ],
+      "duration_ms": 238293,
+      "name": "Night Rider",
+      "url": "https://open.spotify.com/track/3mn4KmAcvj2mhpkO11EsGQ"
     },
     {
       "added_at": "2026-02-09 08:21:39",
@@ -683,22 +683,6 @@
     {
       "added_at": "2026-02-09 08:21:39",
       "album": {
-        "name": "Nightshift",
-        "url": "https://open.spotify.com/album/6fCnWPp7z8tsb3eDdRCf3G"
-      },
-      "artists": [
-        {
-          "name": "Gregg Karukas",
-          "url": "https://open.spotify.com/artist/5hmQC9wWiUuHCJNRZFBi2V"
-        }
-      ],
-      "duration_ms": 253760,
-      "name": "Nightshift",
-      "url": "https://open.spotify.com/track/5T7rGLBBmkjrKMuoaabrkZ"
-    },
-    {
-      "added_at": "2026-02-09 08:21:39",
-      "album": {
         "name": "In the Moment",
         "url": "https://open.spotify.com/album/1PA4zjWrIdycExmlDIxYHk"
       },
@@ -711,6 +695,22 @@
       "duration_ms": 251960,
       "name": "In the Moment",
       "url": "https://open.spotify.com/track/3fIjgiM4QNP8xz6MyUwetQ"
+    },
+    {
+      "added_at": "2026-02-09 08:21:39",
+      "album": {
+        "name": "Nightshift",
+        "url": "https://open.spotify.com/album/6fCnWPp7z8tsb3eDdRCf3G"
+      },
+      "artists": [
+        {
+          "name": "Gregg Karukas",
+          "url": "https://open.spotify.com/artist/5hmQC9wWiUuHCJNRZFBi2V"
+        }
+      ],
+      "duration_ms": 253760,
+      "name": "Nightshift",
+      "url": "https://open.spotify.com/track/5T7rGLBBmkjrKMuoaabrkZ"
     },
     {
       "added_at": "2026-02-09 08:21:39",
@@ -731,22 +731,6 @@
     {
       "added_at": "2026-02-09 08:21:39",
       "album": {
-        "name": "Perfect Moment",
-        "url": "https://open.spotify.com/album/26mZwyn3GPRjgaRZmaCwhr"
-      },
-      "artists": [
-        {
-          "name": "Peter White",
-          "url": "https://open.spotify.com/artist/4siC0n7Bs9OzoZlB1HKquS"
-        }
-      ],
-      "duration_ms": 289826,
-      "name": "Midnight In Manhattan",
-      "url": "https://open.spotify.com/track/3HMDFevQzJFDInhHmP2sRM"
-    },
-    {
-      "added_at": "2026-02-09 08:21:39",
-      "album": {
         "name": "Destiny",
         "url": "https://open.spotify.com/album/6dfSJHkRu7PPsg13MjoIbf"
       },
@@ -759,6 +743,22 @@
       "duration_ms": 332333,
       "name": "Grace",
       "url": "https://open.spotify.com/track/4Ld3gMZnlIGuDOaUiybrko"
+    },
+    {
+      "added_at": "2026-02-09 08:21:39",
+      "album": {
+        "name": "Perfect Moment",
+        "url": "https://open.spotify.com/album/26mZwyn3GPRjgaRZmaCwhr"
+      },
+      "artists": [
+        {
+          "name": "Peter White",
+          "url": "https://open.spotify.com/artist/4siC0n7Bs9OzoZlB1HKquS"
+        }
+      ],
+      "duration_ms": 289826,
+      "name": "Midnight In Manhattan",
+      "url": "https://open.spotify.com/track/3HMDFevQzJFDInhHmP2sRM"
     },
     {
       "added_at": "2026-02-09 08:21:39",
@@ -795,22 +795,6 @@
     {
       "added_at": "2026-02-09 08:21:39",
       "album": {
-        "name": "Colors",
-        "url": "https://open.spotify.com/album/0ZymVVHN1W2T6rYSqIjLaW"
-      },
-      "artists": [
-        {
-          "name": "Kirk Whalum",
-          "url": "https://open.spotify.com/artist/6v2VjBVPcGVbBqJrUWYiG1"
-        }
-      ],
-      "duration_ms": 276226,
-      "name": "If Only For One Night",
-      "url": "https://open.spotify.com/track/7eAboOIUeI5RYXVjCI6p0S"
-    },
-    {
-      "added_at": "2026-02-09 08:21:39",
-      "album": {
         "name": "Kisses In The Rain",
         "url": "https://open.spotify.com/album/36tLRdlIbuXboC0QyMhfaX"
       },
@@ -823,6 +807,22 @@
       "duration_ms": 280240,
       "name": "Grover's Groove",
       "url": "https://open.spotify.com/track/4st8tyWOqApXeqy5GeHAst"
+    },
+    {
+      "added_at": "2026-02-09 08:21:39",
+      "album": {
+        "name": "Colors",
+        "url": "https://open.spotify.com/album/0ZymVVHN1W2T6rYSqIjLaW"
+      },
+      "artists": [
+        {
+          "name": "Kirk Whalum",
+          "url": "https://open.spotify.com/artist/6v2VjBVPcGVbBqJrUWYiG1"
+        }
+      ],
+      "duration_ms": 276226,
+      "name": "If Only For One Night",
+      "url": "https://open.spotify.com/track/7eAboOIUeI5RYXVjCI6p0S"
     },
     {
       "added_at": "2026-02-09 08:21:39",
@@ -843,22 +843,6 @@
     {
       "added_at": "2026-02-09 08:21:39",
       "album": {
-        "name": "Inside Out",
-        "url": "https://open.spotify.com/album/1DU7S0sd2bxh62puU2vPHi"
-      },
-      "artists": [
-        {
-          "name": "Dan Siegel",
-          "url": "https://open.spotify.com/artist/0TknnwW9imlXjnjxfHcvFd"
-        }
-      ],
-      "duration_ms": 302506,
-      "name": "This Time Around",
-      "url": "https://open.spotify.com/track/1HBNkjEwlYzcscjBEoCQVA"
-    },
-    {
-      "added_at": "2026-02-09 08:21:39",
-      "album": {
         "name": "Excusez-Moi",
         "url": "https://open.spotify.com/album/4kNEM4zelH69nf1mFyysDA"
       },
@@ -871,6 +855,22 @@
       "duration_ms": 356040,
       "name": "Dreamwalk",
       "url": "https://open.spotify.com/track/1tDdDgGz1q5CqmteYO7Dni"
+    },
+    {
+      "added_at": "2026-02-09 08:21:39",
+      "album": {
+        "name": "Inside Out",
+        "url": "https://open.spotify.com/album/1DU7S0sd2bxh62puU2vPHi"
+      },
+      "artists": [
+        {
+          "name": "Dan Siegel",
+          "url": "https://open.spotify.com/artist/0TknnwW9imlXjnjxfHcvFd"
+        }
+      ],
+      "duration_ms": 302506,
+      "name": "This Time Around",
+      "url": "https://open.spotify.com/track/1HBNkjEwlYzcscjBEoCQVA"
     },
     {
       "added_at": "2026-02-09 08:21:39",

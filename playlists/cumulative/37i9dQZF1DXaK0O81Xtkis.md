@@ -4,7 +4,7 @@
 
 > a little indie, a little pop, soda featuring OK MICKEY
 
-1,703 songs - 3 day 13 hr 8 min
+1,704 songs - 3 day 13 hr 12 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -978,6 +978,7 @@
 | [Mean girls featuring julian casablancas](https://open.spotify.com/track/11J4S7N9cyB1Xvx2ClzTkt) | [Charli xcx](https://open.spotify.com/artist/25uiPmTg16RbhZWAqwLBy5), [Julian Casablancas](https://open.spotify.com/artist/1rAv1GhTQ2rmG94p9lU3rB) | [Brat and it’s completely different but also still brat](https://open.spotify.com/album/36P07bti6xD99o7S1acmin) | 3:46 | 2024-10-11 | 2025-01-04 |
 | [Medical Attention](https://open.spotify.com/track/331XiSC8eOEhnG0zINJfyl) | [good problem](https://open.spotify.com/artist/3aRk4W0Y1YbyEXJT6UL2cK) | [Medical Attention](https://open.spotify.com/album/1wgjwMZKGL71NU5quWHqQe) | 2:56 | 2023-04-14 | 2023-07-01 |
 | [MEET ME IN THE MIDDLE](https://open.spotify.com/track/5O2rU7yq4rFSHyUUZJ76DS) | [Obed Padilla](https://open.spotify.com/artist/3aXWXIWEaVHVsCCCkTLVzl) | [RODEO CLOWN \- ACT I](https://open.spotify.com/album/3OmutvHqH55kXnqoCJ1lOh) | 2:45 | 2026-05-29 | 2026-10-17 |
+| [Melatonin](https://open.spotify.com/track/4NzEWVatIybO6qqNmfMfNj) | [Southcourt](https://open.spotify.com/artist/0Q9B4uehudditCDzJ00JlS) | [Melatonin](https://open.spotify.com/album/1YdebVaLHSS7IGw1aMAodS) | 3:14 | 2026-11-24 |  |
 | [Melrose](https://open.spotify.com/track/6yaIAV2KtoXufowCjrbxmP) | [iann dior](https://open.spotify.com/artist/6ASri4ePR7RlsvIQgWPJpS) | [Melrose](https://open.spotify.com/album/4c4dsFrjHca8YKm1JOVVkY) | 2:28 | 2024-09-27 | 2025-02-15 |
 | [Melt](https://open.spotify.com/track/65OuiV65csFjciXDCRmWir) | [Quinn XCII](https://open.spotify.com/artist/3ApUX1o6oSz321MMECyIYd) | [Melt](https://open.spotify.com/album/4Les9E0vFIzG1El2F4BEvm) | 3:32 | 2024-06-21 | 2024-08-17 |
 | [Memories](https://open.spotify.com/track/3dFghmP0JgZf7W6RcweLoq) | [Michael Sanzone](https://open.spotify.com/artist/54LJoumlGbXHOSoC01aSYm) | [Memories](https://open.spotify.com/album/1RO9csUg4Bkpb5xSGReQZs) | 3:12 | 2025-08-08 | 2025-12-20 |

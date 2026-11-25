@@ -1,12 +1,12 @@
 {
   "description": "This is Wale. The essential tracks, all in one playlist.",
-  "num_followers": 41415,
+  "num_followers": 41417,
   "original_name": "This Is Wale",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "awIwgAAAAAD3UxhPE/TJZpzPPkdCmmgW",
+  "snapshot_id": "awOCAAAAAAC77Cu2c4bFcIsklBHeOSgt",
   "tracks": [
     {
       "added_at": null,
@@ -270,15 +270,11 @@
         {
           "name": "Wale",
           "url": "https://open.spotify.com/artist/67nwj3Y5sZQLl72VNUHEYE"
-        },
-        {
-          "name": "Odeal",
-          "url": "https://open.spotify.com/artist/2BPwxhCvvcb8xDl8GWIjbh"
         }
       ],
-      "duration_ms": 153935,
-      "name": "City On Fire",
-      "url": "https://open.spotify.com/track/5hvt3s4LH6kZETJ18nxgYa"
+      "duration_ms": 175417,
+      "name": "Fly Away",
+      "url": "https://open.spotify.com/track/6boHVtRiLPHR1sm1I1ZdJr"
     },
     {
       "added_at": null,
@@ -354,11 +350,15 @@
         {
           "name": "Wale",
           "url": "https://open.spotify.com/artist/67nwj3Y5sZQLl72VNUHEYE"
+        },
+        {
+          "name": "Odeal",
+          "url": "https://open.spotify.com/artist/2BPwxhCvvcb8xDl8GWIjbh"
         }
       ],
-      "duration_ms": 175417,
-      "name": "Fly Away",
-      "url": "https://open.spotify.com/track/6boHVtRiLPHR1sm1I1ZdJr"
+      "duration_ms": 153935,
+      "name": "City On Fire",
+      "url": "https://open.spotify.com/track/5hvt3s4LH6kZETJ18nxgYa"
     },
     {
       "added_at": null,

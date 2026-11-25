@@ -1,12 +1,12 @@
 {
   "description": "f\u00fcr ein bisschen ruhe im (schnee)sturm",
-  "num_followers": 1111480,
+  "num_followers": 1111672,
   "original_name": "Winter Chillout",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAFW+I6PgjKRbfrBsKuL9W+OEQ7u2",
+  "snapshot_id": "AAAAAApNPZE2xQSlEupFvbQDWNMJhdb7",
   "tracks": [
     {
       "added_at": "2026-11-19 23:01:14",
@@ -407,6 +407,22 @@
     {
       "added_at": "2026-11-19 23:01:14",
       "album": {
+        "name": "Take Me There",
+        "url": "https://open.spotify.com/album/0hT1cJPUyBfkscqU1gMbpa"
+      },
+      "artists": [
+        {
+          "name": "DA TI",
+          "url": "https://open.spotify.com/artist/0E1Yd4BPHXB4DfTaYb9Y5i"
+        }
+      ],
+      "duration_ms": 202626,
+      "name": "Take Me There",
+      "url": "https://open.spotify.com/track/5Xlm6r0hBIxe0OvtfUG9UX"
+    },
+    {
+      "added_at": "2026-11-19 23:01:14",
+      "album": {
         "name": "Soleil Bleu",
         "url": "https://open.spotify.com/album/2WxTQ8aChxbPZB6RphhXtA"
       },
@@ -423,22 +439,6 @@
       "duration_ms": 246000,
       "name": "Soleil Bleu",
       "url": "https://open.spotify.com/track/7xWvRVssTTECvWCDNgCzSH"
-    },
-    {
-      "added_at": "2026-11-19 23:01:14",
-      "album": {
-        "name": "Take Me There",
-        "url": "https://open.spotify.com/album/0hT1cJPUyBfkscqU1gMbpa"
-      },
-      "artists": [
-        {
-          "name": "DA TI",
-          "url": "https://open.spotify.com/artist/0E1Yd4BPHXB4DfTaYb9Y5i"
-        }
-      ],
-      "duration_ms": 202626,
-      "name": "Take Me There",
-      "url": "https://open.spotify.com/track/5Xlm6r0hBIxe0OvtfUG9UX"
     },
     {
       "added_at": "2026-11-19 23:01:14",
@@ -475,22 +475,6 @@
     {
       "added_at": "2026-11-19 23:01:14",
       "album": {
-        "name": "labour",
-        "url": "https://open.spotify.com/album/4h7ERA3MzqEh9B3edziLAn"
-      },
-      "artists": [
-        {
-          "name": "Paris Paloma",
-          "url": "https://open.spotify.com/artist/2EXpthNgSeTDeX8nGwxppp"
-        }
-      ],
-      "duration_ms": 237744,
-      "name": "labour",
-      "url": "https://open.spotify.com/track/2Ggr9IfS70wYQacW8nZKPG"
-    },
-    {
-      "added_at": "2026-11-19 23:01:14",
-      "album": {
         "name": "Texas Moon",
         "url": "https://open.spotify.com/album/2Xs9xSBhvyo8F6daRc1npu"
       },
@@ -507,6 +491,22 @@
       "duration_ms": 310553,
       "name": "Mariella",
       "url": "https://open.spotify.com/track/3dvXRk7TZ929m21p49RR5P"
+    },
+    {
+      "added_at": "2026-11-19 23:01:14",
+      "album": {
+        "name": "labour",
+        "url": "https://open.spotify.com/album/4h7ERA3MzqEh9B3edziLAn"
+      },
+      "artists": [
+        {
+          "name": "Paris Paloma",
+          "url": "https://open.spotify.com/artist/2EXpthNgSeTDeX8nGwxppp"
+        }
+      ],
+      "duration_ms": 237744,
+      "name": "labour",
+      "url": "https://open.spotify.com/track/2Ggr9IfS70wYQacW8nZKPG"
     },
     {
       "added_at": "2026-11-19 23:01:14",
@@ -663,6 +663,22 @@
     {
       "added_at": "2026-11-19 23:01:14",
       "album": {
+        "name": "go",
+        "url": "https://open.spotify.com/album/7KfrkeW0bJx9w3Wak4PGX2"
+      },
+      "artists": [
+        {
+          "name": "Cat Burns",
+          "url": "https://open.spotify.com/artist/6WFDpw4u23uSpon4BHvFRn"
+        }
+      ],
+      "duration_ms": 215000,
+      "name": "go",
+      "url": "https://open.spotify.com/track/4VtRHZ4tBDHaWltVAytlLY"
+    },
+    {
+      "added_at": "2026-11-19 23:01:14",
+      "album": {
         "name": "Prizefighter",
         "url": "https://open.spotify.com/album/36tMC1BcEdVTX2YN5Ygg7k"
       },
@@ -679,22 +695,6 @@
       "duration_ms": 178200,
       "name": "Badlands (with Gracie Abrams)",
       "url": "https://open.spotify.com/track/47Z5J8r3LrI0gSuqxijzSg"
-    },
-    {
-      "added_at": "2026-11-19 23:01:14",
-      "album": {
-        "name": "go",
-        "url": "https://open.spotify.com/album/7KfrkeW0bJx9w3Wak4PGX2"
-      },
-      "artists": [
-        {
-          "name": "Cat Burns",
-          "url": "https://open.spotify.com/artist/6WFDpw4u23uSpon4BHvFRn"
-        }
-      ],
-      "duration_ms": 215000,
-      "name": "go",
-      "url": "https://open.spotify.com/track/4VtRHZ4tBDHaWltVAytlLY"
     },
     {
       "added_at": "2026-11-19 23:01:14",
@@ -787,22 +787,6 @@
     {
       "added_at": "2026-11-19 23:01:14",
       "album": {
-        "name": "Loner",
-        "url": "https://open.spotify.com/album/6aE10Kz82jIDkcOM2hRhR5"
-      },
-      "artists": [
-        {
-          "name": "Barry Can't Swim",
-          "url": "https://open.spotify.com/artist/0vTVU0KH0CVzijsoKGsTPl"
-        }
-      ],
-      "duration_ms": 200500,
-      "name": "All My Friends",
-      "url": "https://open.spotify.com/track/4bDhE89Vq92CWTvwFb8zP8"
-    },
-    {
-      "added_at": "2026-11-19 23:01:14",
-      "album": {
         "name": "Wide Awake",
         "url": "https://open.spotify.com/album/0yTCTx3Xq4LGjgDVHCba81"
       },
@@ -823,18 +807,18 @@
     {
       "added_at": "2026-11-19 23:01:14",
       "album": {
-        "name": "doing my best",
-        "url": "https://open.spotify.com/album/1igte7adJCqP9ayDlbBCdC"
+        "name": "Loner",
+        "url": "https://open.spotify.com/album/6aE10Kz82jIDkcOM2hRhR5"
       },
       "artists": [
         {
-          "name": "Hazlett",
-          "url": "https://open.spotify.com/artist/1zO3MgzmcwZLLNUQqeU2XH"
+          "name": "Barry Can't Swim",
+          "url": "https://open.spotify.com/artist/0vTVU0KH0CVzijsoKGsTPl"
         }
       ],
-      "duration_ms": 182733,
-      "name": "doing my best",
-      "url": "https://open.spotify.com/track/2jEK6rkAJ82GjVSoIkxxyr"
+      "duration_ms": 200500,
+      "name": "All My Friends",
+      "url": "https://open.spotify.com/track/4bDhE89Vq92CWTvwFb8zP8"
     },
     {
       "added_at": "2026-11-19 23:01:14",
@@ -851,6 +835,22 @@
       "duration_ms": 191250,
       "name": "Call It Love",
       "url": "https://open.spotify.com/track/7y572RoCEda0D8Wm8JUEha"
+    },
+    {
+      "added_at": "2026-11-19 23:01:14",
+      "album": {
+        "name": "doing my best",
+        "url": "https://open.spotify.com/album/1igte7adJCqP9ayDlbBCdC"
+      },
+      "artists": [
+        {
+          "name": "Hazlett",
+          "url": "https://open.spotify.com/artist/1zO3MgzmcwZLLNUQqeU2XH"
+        }
+      ],
+      "duration_ms": 182733,
+      "name": "doing my best",
+      "url": "https://open.spotify.com/track/2jEK6rkAJ82GjVSoIkxxyr"
     },
     {
       "added_at": "2026-11-19 23:01:14",
@@ -1255,6 +1255,22 @@
     {
       "added_at": "2026-11-19 23:01:14",
       "album": {
+        "name": "Esquina do Sol",
+        "url": "https://open.spotify.com/album/5X30ATquawvTC3sySlEtMv"
+      },
+      "artists": [
+        {
+          "name": "Mari Froes",
+          "url": "https://open.spotify.com/artist/60oAQJsBmykZP3GwjbSL6S"
+        }
+      ],
+      "duration_ms": 204208,
+      "name": "Reza Braba",
+      "url": "https://open.spotify.com/track/05IQB3ByghBrhl1U0hYA6a"
+    },
+    {
+      "added_at": "2026-11-19 23:01:14",
+      "album": {
         "name": "Tall Pines",
         "url": "https://open.spotify.com/album/7nd1bPBc68WdwJY5WkoLjX"
       },
@@ -1275,22 +1291,6 @@
       "duration_ms": 194210,
       "name": "Tall Pines",
       "url": "https://open.spotify.com/track/2VQ5Zw5bDevO8iRx1EQ2gr"
-    },
-    {
-      "added_at": "2026-11-19 23:01:14",
-      "album": {
-        "name": "Esquina do Sol",
-        "url": "https://open.spotify.com/album/5X30ATquawvTC3sySlEtMv"
-      },
-      "artists": [
-        {
-          "name": "Mari Froes",
-          "url": "https://open.spotify.com/artist/60oAQJsBmykZP3GwjbSL6S"
-        }
-      ],
-      "duration_ms": 204208,
-      "name": "Reza Braba",
-      "url": "https://open.spotify.com/track/05IQB3ByghBrhl1U0hYA6a"
     },
     {
       "added_at": "2026-11-19 23:01:14",
@@ -1491,22 +1491,6 @@
     {
       "added_at": "2026-11-19 23:01:14",
       "album": {
-        "name": "Feeling Fine",
-        "url": "https://open.spotify.com/album/5QVuQVJgf2ibf26Vc24lTx"
-      },
-      "artists": [
-        {
-          "name": "Ocie Elliott",
-          "url": "https://open.spotify.com/artist/5jbk18C7YXRcEZxUWPJCyT"
-        }
-      ],
-      "duration_ms": 168461,
-      "name": "Feeling Fine",
-      "url": "https://open.spotify.com/track/7rL903PspMN1lJBeFI7OKF"
-    },
-    {
-      "added_at": "2026-11-19 23:01:14",
-      "album": {
         "name": "Easy",
         "url": "https://open.spotify.com/album/24j6IoQ8Junn1mIXfgijU4"
       },
@@ -1519,6 +1503,22 @@
       "duration_ms": 267100,
       "name": "Easy",
       "url": "https://open.spotify.com/track/4LIRPQO4jzel3t4aN5J8PN"
+    },
+    {
+      "added_at": "2026-11-19 23:01:14",
+      "album": {
+        "name": "Feeling Fine",
+        "url": "https://open.spotify.com/album/5QVuQVJgf2ibf26Vc24lTx"
+      },
+      "artists": [
+        {
+          "name": "Ocie Elliott",
+          "url": "https://open.spotify.com/artist/5jbk18C7YXRcEZxUWPJCyT"
+        }
+      ],
+      "duration_ms": 168461,
+      "name": "Feeling Fine",
+      "url": "https://open.spotify.com/track/7rL903PspMN1lJBeFI7OKF"
     },
     {
       "added_at": "2026-11-19 23:01:14",
@@ -1571,22 +1571,6 @@
     {
       "added_at": "2026-11-19 23:01:14",
       "album": {
-        "name": "Iman",
-        "url": "https://open.spotify.com/album/5NbAz6PiABkXYYOpaTIEQN"
-      },
-      "artists": [
-        {
-          "name": "Yuuf",
-          "url": "https://open.spotify.com/artist/3VfdXeAhqukWy1TTimSA7v"
-        }
-      ],
-      "duration_ms": 240853,
-      "name": "Iman",
-      "url": "https://open.spotify.com/track/4cQcn6Zh5mHglFWIXnckqi"
-    },
-    {
-      "added_at": "2026-11-19 23:01:14",
-      "album": {
         "name": "Weit weg",
         "url": "https://open.spotify.com/album/6DQJr9joGBiomIdsoLRevv"
       },
@@ -1615,6 +1599,22 @@
       "duration_ms": 257400,
       "name": "One in a Million",
       "url": "https://open.spotify.com/track/1LjBIsVA2ZXWPRfAngNXEQ"
+    },
+    {
+      "added_at": "2026-11-19 23:01:14",
+      "album": {
+        "name": "Iman",
+        "url": "https://open.spotify.com/album/5NbAz6PiABkXYYOpaTIEQN"
+      },
+      "artists": [
+        {
+          "name": "Yuuf",
+          "url": "https://open.spotify.com/artist/3VfdXeAhqukWy1TTimSA7v"
+        }
+      ],
+      "duration_ms": 240853,
+      "name": "Iman",
+      "url": "https://open.spotify.com/track/4cQcn6Zh5mHglFWIXnckqi"
     },
     {
       "added_at": "2026-11-19 23:01:14",
@@ -1651,22 +1651,6 @@
     {
       "added_at": "2026-11-19 23:01:14",
       "album": {
-        "name": "when words fail",
-        "url": "https://open.spotify.com/album/2NU3pJ1McxMPwuVL2udxWU"
-      },
-      "artists": [
-        {
-          "name": "Lara Samira",
-          "url": "https://open.spotify.com/artist/6bzG909aYBHPSo8DVqvJK3"
-        }
-      ],
-      "duration_ms": 176495,
-      "name": "when words fail",
-      "url": "https://open.spotify.com/track/0gxdJ21QgsITEllamSwEXA"
-    },
-    {
-      "added_at": "2026-11-19 23:01:14",
-      "album": {
         "name": "Slow It Down",
         "url": "https://open.spotify.com/album/5xeGFga33wKgIuTcef2wKn"
       },
@@ -1683,6 +1667,22 @@
       "duration_ms": 218786,
       "name": "Slow It Down",
       "url": "https://open.spotify.com/track/3BCA5KOKE7RRcrx0tK7kDK"
+    },
+    {
+      "added_at": "2026-11-19 23:01:14",
+      "album": {
+        "name": "when words fail",
+        "url": "https://open.spotify.com/album/2NU3pJ1McxMPwuVL2udxWU"
+      },
+      "artists": [
+        {
+          "name": "Lara Samira",
+          "url": "https://open.spotify.com/artist/6bzG909aYBHPSo8DVqvJK3"
+        }
+      ],
+      "duration_ms": 176495,
+      "name": "when words fail",
+      "url": "https://open.spotify.com/track/0gxdJ21QgsITEllamSwEXA"
     },
     {
       "added_at": "2026-11-19 23:01:14",

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWT0upuUFtT7o.md) - [plain]
 
 > The best new indie tracks from independent artists & labels\. Cover: Eilish Constance
 
-[Spotify](https://open.spotify.com/user/spotify) - 261,675 likes - 75 songs - 4 hr 32 min
+[Spotify](https://open.spotify.com/user/spotify) - 261,716 likes - 75 songs - 4 hr 32 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWT0upuUFtT7o.md) - [plain]
 | 74 | [Step Stool](https://open.spotify.com/track/0iYRk3FKn46LHmTr5qLjDp) | [Wynne Collins](https://open.spotify.com/artist/6h5b4XGaNg53aqbUj4JBhm) | [Step Stool](https://open.spotify.com/album/6imIuyyF1ANAA1c4pXgey8) | 2:51 |
 | 75 | [Rughook](https://open.spotify.com/track/6aSrsBWXfPnuAbTeiamLBT) | [Green Eyes, Witch Hands](https://open.spotify.com/artist/5aS48dErr9DKZGr9O8JCMg) | [I Fight Evil](https://open.spotify.com/album/4HdOKxiYVUuUokAHSsXcnm) | 2:12 |
 
-Snapshot ID: `AAAAABFHtiV8bHiESuELMY0dwTFW1UXj`
+Snapshot ID: `AAAAACxMyzP/LwahMcTi4SO9oBlBIHW7`

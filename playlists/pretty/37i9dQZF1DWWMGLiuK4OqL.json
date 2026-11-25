@@ -1,12 +1,12 @@
 {
   "description": "The soft sound of some of the smoothest and sweetest vocal Jazz.",
-  "num_followers": 301480,
+  "num_followers": 301581,
   "original_name": "Sweet Jazz",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAABBsGAoVWjkqnvFMdz2srLIgbtWT",
+  "snapshot_id": "AAAAAHQ0CXn3OKycRQwkqsgxcNXs0m26",
   "tracks": [
     {
       "added_at": "2026-07-03 04:00:58",
@@ -355,6 +355,22 @@
     {
       "added_at": "2026-07-03 04:00:58",
       "album": {
+        "name": "Moon River",
+        "url": "https://open.spotify.com/album/5aDmA5mUCdOmMveJoeKg3r"
+      },
+      "artists": [
+        {
+          "name": "Nicole Henry",
+          "url": "https://open.spotify.com/artist/17lVE8O9nHn3WWc6Csy2Sn"
+        }
+      ],
+      "duration_ms": 310826,
+      "name": "Moon River",
+      "url": "https://open.spotify.com/track/1oFnBxOvkmjiUo6dBCEEoC"
+    },
+    {
+      "added_at": "2026-07-03 04:00:58",
+      "album": {
         "name": "Isn't it Romantic: The Standards Album",
         "url": "https://open.spotify.com/album/6cq5jK4AJC91XA0UbqU1wt"
       },
@@ -371,22 +387,6 @@
       "duration_ms": 292093,
       "name": "Over the Rainbow (feat. Ray Charles)",
       "url": "https://open.spotify.com/track/62PwrwqemhBCzMU5lDOnuq"
-    },
-    {
-      "added_at": "2026-07-03 04:00:58",
-      "album": {
-        "name": "Moon River",
-        "url": "https://open.spotify.com/album/5aDmA5mUCdOmMveJoeKg3r"
-      },
-      "artists": [
-        {
-          "name": "Nicole Henry",
-          "url": "https://open.spotify.com/artist/17lVE8O9nHn3WWc6Csy2Sn"
-        }
-      ],
-      "duration_ms": 310826,
-      "name": "Moon River",
-      "url": "https://open.spotify.com/track/1oFnBxOvkmjiUo6dBCEEoC"
     },
     {
       "added_at": "2026-07-03 04:00:58",
@@ -555,22 +555,6 @@
     {
       "added_at": "2026-07-03 04:00:58",
       "album": {
-        "name": "I Love A Love Song!",
-        "url": "https://open.spotify.com/album/0j551HTufOYW6EJ9CQwNrD"
-      },
-      "artists": [
-        {
-          "name": "Rachael & Vilray",
-          "url": "https://open.spotify.com/artist/3UHyuBA5qay3xcxFr3Z1Y9"
-        }
-      ],
-      "duration_ms": 211706,
-      "name": "Any Little Time",
-      "url": "https://open.spotify.com/track/1sqn0LWWNkKM8XYaIyaw10"
-    },
-    {
-      "added_at": "2026-07-03 04:00:58",
-      "album": {
         "name": "Lips Can Lie",
         "url": "https://open.spotify.com/album/6LvGAaHEC2H8zl4K5DOtBM"
       },
@@ -583,6 +567,22 @@
       "duration_ms": 229596,
       "name": "Lips Can Lie",
       "url": "https://open.spotify.com/track/0fhfZFkNjIlCgpQSoazP2M"
+    },
+    {
+      "added_at": "2026-07-03 04:00:58",
+      "album": {
+        "name": "I Love A Love Song!",
+        "url": "https://open.spotify.com/album/0j551HTufOYW6EJ9CQwNrD"
+      },
+      "artists": [
+        {
+          "name": "Rachael & Vilray",
+          "url": "https://open.spotify.com/artist/3UHyuBA5qay3xcxFr3Z1Y9"
+        }
+      ],
+      "duration_ms": 211706,
+      "name": "Any Little Time",
+      "url": "https://open.spotify.com/track/1sqn0LWWNkKM8XYaIyaw10"
     },
     {
       "added_at": "2026-07-03 04:00:58",
@@ -619,18 +619,18 @@
     {
       "added_at": "2026-07-03 04:00:58",
       "album": {
-        "name": "Sarah Vaughan In Hi-Fi",
-        "url": "https://open.spotify.com/album/3pmwIzJoyWl2gys1A8jUml"
+        "name": "Welcome To My Love",
+        "url": "https://open.spotify.com/album/5TdtCKPxkVHmWQWoRXxuXh"
       },
       "artists": [
         {
-          "name": "Sarah Vaughan",
-          "url": "https://open.spotify.com/artist/1bgyxtWjZwA5PQlDsvs9b8"
+          "name": "Nancy Wilson",
+          "url": "https://open.spotify.com/artist/2JfVCMa3FlvQRlLT5uH9zb"
         }
       ],
-      "duration_ms": 203000,
-      "name": "Come Rain or Come Shine",
-      "url": "https://open.spotify.com/track/4LSplRZj1Xk5JUCARpUV8j"
+      "duration_ms": 188240,
+      "name": "For Once In My Life - Remastered/1994",
+      "url": "https://open.spotify.com/track/3cco5vdDFUcGLEB8bf9jmo"
     },
     {
       "added_at": "2026-07-03 04:00:58",
@@ -655,18 +655,18 @@
     {
       "added_at": "2026-07-03 04:00:58",
       "album": {
-        "name": "Welcome To My Love",
-        "url": "https://open.spotify.com/album/5TdtCKPxkVHmWQWoRXxuXh"
+        "name": "Sarah Vaughan In Hi-Fi",
+        "url": "https://open.spotify.com/album/3pmwIzJoyWl2gys1A8jUml"
       },
       "artists": [
         {
-          "name": "Nancy Wilson",
-          "url": "https://open.spotify.com/artist/2JfVCMa3FlvQRlLT5uH9zb"
+          "name": "Sarah Vaughan",
+          "url": "https://open.spotify.com/artist/1bgyxtWjZwA5PQlDsvs9b8"
         }
       ],
-      "duration_ms": 188240,
-      "name": "For Once In My Life - Remastered/1994",
-      "url": "https://open.spotify.com/track/3cco5vdDFUcGLEB8bf9jmo"
+      "duration_ms": 203000,
+      "name": "Come Rain or Come Shine",
+      "url": "https://open.spotify.com/track/4LSplRZj1Xk5JUCARpUV8j"
     },
     {
       "added_at": "2026-07-03 04:00:58",
@@ -723,6 +723,22 @@
     {
       "added_at": "2026-07-03 04:00:58",
       "album": {
+        "name": "Dreamers Do",
+        "url": "https://open.spotify.com/album/48vMJyoBaAUs7mRtVnENwh"
+      },
+      "artists": [
+        {
+          "name": "Kat Edmonson",
+          "url": "https://open.spotify.com/artist/6WxegST7d2jCYjq7SR8Bds"
+        }
+      ],
+      "duration_ms": 164693,
+      "name": "What a Wonderful World",
+      "url": "https://open.spotify.com/track/1fKTjYXhEV4f2Iz1LOYOk0"
+    },
+    {
+      "added_at": "2026-07-03 04:00:58",
+      "album": {
         "name": "Sunset In The Blue (Deluxe Version)",
         "url": "https://open.spotify.com/album/7vSwamY5i4hhnRSnpyLsAx"
       },
@@ -743,22 +759,6 @@
     {
       "added_at": "2026-07-03 04:00:58",
       "album": {
-        "name": "Dreamers Do",
-        "url": "https://open.spotify.com/album/48vMJyoBaAUs7mRtVnENwh"
-      },
-      "artists": [
-        {
-          "name": "Kat Edmonson",
-          "url": "https://open.spotify.com/artist/6WxegST7d2jCYjq7SR8Bds"
-        }
-      ],
-      "duration_ms": 164693,
-      "name": "What a Wonderful World",
-      "url": "https://open.spotify.com/track/1fKTjYXhEV4f2Iz1LOYOk0"
-    },
-    {
-      "added_at": "2026-07-03 04:00:58",
-      "album": {
         "name": "In Her Words",
         "url": "https://open.spotify.com/album/7AdQX1dp37fnchc6h8sLuv"
       },
@@ -775,6 +775,22 @@
       "duration_ms": 267160,
       "name": "Gone Again",
       "url": "https://open.spotify.com/track/2BwbCvzK0TomWh4Igp0wq3"
+    },
+    {
+      "added_at": "2026-07-03 04:00:58",
+      "album": {
+        "name": "Don't Go To Strangers (Rudy Van Gelder Remaster)",
+        "url": "https://open.spotify.com/album/5haiDu2ti0IHBHchx7dNjt"
+      },
+      "artists": [
+        {
+          "name": "Etta Jones",
+          "url": "https://open.spotify.com/artist/3CEdEF8RsuL3hAFJaujvr0"
+        }
+      ],
+      "duration_ms": 222880,
+      "name": "Something To Remember You By",
+      "url": "https://open.spotify.com/track/2YBFTDX53KehUg8RQY820l"
     },
     {
       "added_at": "2026-07-03 04:00:58",
@@ -807,22 +823,6 @@
       "duration_ms": 235533,
       "name": "But For Now",
       "url": "https://open.spotify.com/track/1oSmMZfuhctJjbrn3joJKc"
-    },
-    {
-      "added_at": "2026-07-03 04:00:58",
-      "album": {
-        "name": "Don't Go To Strangers (Rudy Van Gelder Remaster)",
-        "url": "https://open.spotify.com/album/5haiDu2ti0IHBHchx7dNjt"
-      },
-      "artists": [
-        {
-          "name": "Etta Jones",
-          "url": "https://open.spotify.com/artist/3CEdEF8RsuL3hAFJaujvr0"
-        }
-      ],
-      "duration_ms": 222880,
-      "name": "Something To Remember You By",
-      "url": "https://open.spotify.com/track/2YBFTDX53KehUg8RQY820l"
     },
     {
       "added_at": "2026-07-03 04:00:58",
@@ -919,6 +919,26 @@
     {
       "added_at": "2026-07-03 04:00:58",
       "album": {
+        "name": "Because I Love You",
+        "url": "https://open.spotify.com/album/35qbEfm5IdIPTzJxS51fT5"
+      },
+      "artists": [
+        {
+          "name": "Sachal Vasandani",
+          "url": "https://open.spotify.com/artist/4sctitB70tTmziCPMwYJJr"
+        },
+        {
+          "name": "Romain Collin",
+          "url": "https://open.spotify.com/artist/3TLGhZ93eWc4caAzMiMWJV"
+        }
+      ],
+      "duration_ms": 250936,
+      "name": "Because I Love You",
+      "url": "https://open.spotify.com/track/4nf5wpXpZ1WVF0SCdl3tLb"
+    },
+    {
+      "added_at": "2026-07-03 04:00:58",
+      "album": {
         "name": "Put Your Head on My Shoulder",
         "url": "https://open.spotify.com/album/0zTG69rJsp5Ue1uDqaNGMh"
       },
@@ -951,22 +971,18 @@
     {
       "added_at": "2026-07-03 04:00:58",
       "album": {
-        "name": "Because I Love You",
-        "url": "https://open.spotify.com/album/35qbEfm5IdIPTzJxS51fT5"
+        "name": "Edelweiss",
+        "url": "https://open.spotify.com/album/0iMw5aKpZC7Ifv7oQZ8FzF"
       },
       "artists": [
         {
-          "name": "Sachal Vasandani",
-          "url": "https://open.spotify.com/artist/4sctitB70tTmziCPMwYJJr"
-        },
-        {
-          "name": "Romain Collin",
-          "url": "https://open.spotify.com/artist/3TLGhZ93eWc4caAzMiMWJV"
+          "name": "Naama",
+          "url": "https://open.spotify.com/artist/1m4JqvlkZXqZxFZjWaY1jg"
         }
       ],
-      "duration_ms": 250936,
-      "name": "Because I Love You",
-      "url": "https://open.spotify.com/track/4nf5wpXpZ1WVF0SCdl3tLb"
+      "duration_ms": 177773,
+      "name": "Edelweiss",
+      "url": "https://open.spotify.com/track/4aRUHmTxZtltzbnv1XApBD"
     },
     {
       "added_at": "2026-07-03 04:00:58",
@@ -983,22 +999,6 @@
       "duration_ms": 223060,
       "name": "I Miss You So",
       "url": "https://open.spotify.com/track/5kCUgjpQKLmA7a2jR0odul"
-    },
-    {
-      "added_at": "2026-07-03 04:00:58",
-      "album": {
-        "name": "Edelweiss",
-        "url": "https://open.spotify.com/album/0iMw5aKpZC7Ifv7oQZ8FzF"
-      },
-      "artists": [
-        {
-          "name": "Naama",
-          "url": "https://open.spotify.com/artist/1m4JqvlkZXqZxFZjWaY1jg"
-        }
-      ],
-      "duration_ms": 177773,
-      "name": "Edelweiss",
-      "url": "https://open.spotify.com/track/4aRUHmTxZtltzbnv1XApBD"
     },
     {
       "added_at": "2026-07-03 04:00:58",
@@ -1135,22 +1135,6 @@
     {
       "added_at": "2026-07-03 04:00:58",
       "album": {
-        "name": "Midnight",
-        "url": "https://open.spotify.com/album/1h6FCpMolvagTQpoj9hlO9"
-      },
-      "artists": [
-        {
-          "name": "Diane Schuur",
-          "url": "https://open.spotify.com/artist/3YowTUlFJJA6E5Yd67GZNv"
-        }
-      ],
-      "duration_ms": 210346,
-      "name": "Our Love Will Always Be There",
-      "url": "https://open.spotify.com/track/7aX4JxBER6j1OaMMOOfW1m"
-    },
-    {
-      "added_at": "2026-07-03 04:00:58",
-      "album": {
         "name": "This Dream Of You",
         "url": "https://open.spotify.com/album/2axVAnC2sE98xigU2BV1TY"
       },
@@ -1163,6 +1147,22 @@
       "duration_ms": 290440,
       "name": "But Beautiful",
       "url": "https://open.spotify.com/track/2QJTjKjGH9JUHRwXKUrLFI"
+    },
+    {
+      "added_at": "2026-07-03 04:00:58",
+      "album": {
+        "name": "Midnight",
+        "url": "https://open.spotify.com/album/1h6FCpMolvagTQpoj9hlO9"
+      },
+      "artists": [
+        {
+          "name": "Diane Schuur",
+          "url": "https://open.spotify.com/artist/3YowTUlFJJA6E5Yd67GZNv"
+        }
+      ],
+      "duration_ms": 210346,
+      "name": "Our Love Will Always Be There",
+      "url": "https://open.spotify.com/track/7aX4JxBER6j1OaMMOOfW1m"
     },
     {
       "added_at": "2026-07-03 04:00:58",
@@ -1319,22 +1319,6 @@
     {
       "added_at": "2026-07-03 04:00:58",
       "album": {
-        "name": "I Wanna Be Loved",
-        "url": "https://open.spotify.com/album/0ymGCq0L4ZURIuEpEBli3I"
-      },
-      "artists": [
-        {
-          "name": "Naama",
-          "url": "https://open.spotify.com/artist/1m4JqvlkZXqZxFZjWaY1jg"
-        }
-      ],
-      "duration_ms": 230000,
-      "name": "I Wanna Be Loved",
-      "url": "https://open.spotify.com/track/4DVEhmEhTaUhJLGjKvK5FT"
-    },
-    {
-      "added_at": "2026-07-03 04:00:58",
-      "album": {
         "name": "Careless Love",
         "url": "https://open.spotify.com/album/5Abc3wXAy8U1f79eVn7AGd"
       },
@@ -1359,6 +1343,22 @@
       "duration_ms": 196346,
       "name": "Don't Cry Baby",
       "url": "https://open.spotify.com/track/6rmfVDXJjjBhDRlPvzR9Gb"
+    },
+    {
+      "added_at": "2026-07-03 04:00:58",
+      "album": {
+        "name": "I Wanna Be Loved",
+        "url": "https://open.spotify.com/album/0ymGCq0L4ZURIuEpEBli3I"
+      },
+      "artists": [
+        {
+          "name": "Naama",
+          "url": "https://open.spotify.com/artist/1m4JqvlkZXqZxFZjWaY1jg"
+        }
+      ],
+      "duration_ms": 230000,
+      "name": "I Wanna Be Loved",
+      "url": "https://open.spotify.com/track/4DVEhmEhTaUhJLGjKvK5FT"
     },
     {
       "added_at": "2026-07-03 04:00:58",
@@ -1431,54 +1431,6 @@
     {
       "added_at": "2026-07-03 04:00:58",
       "album": {
-        "name": "The Art Of Elegance",
-        "url": "https://open.spotify.com/album/2ZdIKuNRW5Jn9Bt1jYkevo"
-      },
-      "artists": [
-        {
-          "name": "Kristin Chenoweth",
-          "url": "https://open.spotify.com/artist/3DgcBA7P0ji5co7Z1Gfp2Q"
-        }
-      ],
-      "duration_ms": 189360,
-      "name": "Let\u2019s Fall In Love",
-      "url": "https://open.spotify.com/track/6YCIFKFWx0pxMEUl8Vko6l"
-    },
-    {
-      "added_at": "2026-07-03 04:00:58",
-      "album": {
-        "name": "Skylark",
-        "url": "https://open.spotify.com/album/3eqgxkZCEJ8dlBTMqGhgiF"
-      },
-      "artists": [
-        {
-          "name": "Emilie-Claire Barlow",
-          "url": "https://open.spotify.com/artist/4doI7TR51c6DTaveTwpIkg"
-        }
-      ],
-      "duration_ms": 274945,
-      "name": "Skylark",
-      "url": "https://open.spotify.com/track/7pM1ZCbo5MamKTCVhTKLY0"
-    },
-    {
-      "added_at": "2026-07-03 04:00:58",
-      "album": {
-        "name": "Stella Cole",
-        "url": "https://open.spotify.com/album/4mH5g7GuW3KGMziYDMHMUx"
-      },
-      "artists": [
-        {
-          "name": "Stella Cole",
-          "url": "https://open.spotify.com/artist/1JV6ZltofPUo3j5CTALYRR"
-        }
-      ],
-      "duration_ms": 201186,
-      "name": "My Future",
-      "url": "https://open.spotify.com/track/6U47K1QjLeN3lcaWVb48SQ"
-    },
-    {
-      "added_at": "2026-07-03 04:00:58",
-      "album": {
         "name": "Desperado",
         "url": "https://open.spotify.com/album/37ZtGtGstCyBZRre6ashNa"
       },
@@ -1519,6 +1471,54 @@
       "duration_ms": 165921,
       "name": "Smile",
       "url": "https://open.spotify.com/track/5H09kZp2YiQjnzhrjch3Ae"
+    },
+    {
+      "added_at": "2026-07-03 04:00:58",
+      "album": {
+        "name": "Skylark",
+        "url": "https://open.spotify.com/album/3eqgxkZCEJ8dlBTMqGhgiF"
+      },
+      "artists": [
+        {
+          "name": "Emilie-Claire Barlow",
+          "url": "https://open.spotify.com/artist/4doI7TR51c6DTaveTwpIkg"
+        }
+      ],
+      "duration_ms": 274945,
+      "name": "Skylark",
+      "url": "https://open.spotify.com/track/7pM1ZCbo5MamKTCVhTKLY0"
+    },
+    {
+      "added_at": "2026-07-03 04:00:58",
+      "album": {
+        "name": "The Art Of Elegance",
+        "url": "https://open.spotify.com/album/2ZdIKuNRW5Jn9Bt1jYkevo"
+      },
+      "artists": [
+        {
+          "name": "Kristin Chenoweth",
+          "url": "https://open.spotify.com/artist/3DgcBA7P0ji5co7Z1Gfp2Q"
+        }
+      ],
+      "duration_ms": 189360,
+      "name": "Let\u2019s Fall In Love",
+      "url": "https://open.spotify.com/track/6YCIFKFWx0pxMEUl8Vko6l"
+    },
+    {
+      "added_at": "2026-07-03 04:00:58",
+      "album": {
+        "name": "Stella Cole",
+        "url": "https://open.spotify.com/album/4mH5g7GuW3KGMziYDMHMUx"
+      },
+      "artists": [
+        {
+          "name": "Stella Cole",
+          "url": "https://open.spotify.com/artist/1JV6ZltofPUo3j5CTALYRR"
+        }
+      ],
+      "duration_ms": 201186,
+      "name": "My Future",
+      "url": "https://open.spotify.com/track/6U47K1QjLeN3lcaWVb48SQ"
     },
     {
       "added_at": "2026-07-03 04:00:58",
@@ -1831,18 +1831,18 @@
     {
       "added_at": "2026-07-03 04:00:58",
       "album": {
-        "name": "Teresa Brewer And The Dixieland Band",
-        "url": "https://open.spotify.com/album/3Co57v8XnblqHeFA8saGla"
+        "name": "Because Of Billie",
+        "url": "https://open.spotify.com/album/6Bz3G8ZBPt3raos669LnuB"
       },
       "artists": [
         {
-          "name": "Teresa Brewer",
-          "url": "https://open.spotify.com/artist/2mPL4g4v9DS55zi6QctLbP"
+          "name": "Molly Johnson",
+          "url": "https://open.spotify.com/artist/0OhbmRARz9nrChla8W2OGU"
         }
       ],
-      "duration_ms": 225312,
-      "name": "Georgia On My Mind",
-      "url": "https://open.spotify.com/track/3rvHtMwpZxmVtT1HB4zvvb"
+      "duration_ms": 263266,
+      "name": "Do Nothing 'Til You Hear From Me",
+      "url": "https://open.spotify.com/track/3by6ghRkTX4PwXVAbt61E5"
     },
     {
       "added_at": "2026-07-03 04:00:58",
@@ -1867,18 +1867,34 @@
     {
       "added_at": "2026-07-03 04:00:58",
       "album": {
-        "name": "Because Of Billie",
-        "url": "https://open.spotify.com/album/6Bz3G8ZBPt3raos669LnuB"
+        "name": "Teresa Brewer And The Dixieland Band",
+        "url": "https://open.spotify.com/album/3Co57v8XnblqHeFA8saGla"
       },
       "artists": [
         {
-          "name": "Molly Johnson",
-          "url": "https://open.spotify.com/artist/0OhbmRARz9nrChla8W2OGU"
+          "name": "Teresa Brewer",
+          "url": "https://open.spotify.com/artist/2mPL4g4v9DS55zi6QctLbP"
         }
       ],
-      "duration_ms": 263266,
-      "name": "Do Nothing 'Til You Hear From Me",
-      "url": "https://open.spotify.com/track/3by6ghRkTX4PwXVAbt61E5"
+      "duration_ms": 225312,
+      "name": "Georgia On My Mind",
+      "url": "https://open.spotify.com/track/3rvHtMwpZxmVtT1HB4zvvb"
+    },
+    {
+      "added_at": "2026-07-03 04:00:58",
+      "album": {
+        "name": "A Certain Someone",
+        "url": "https://open.spotify.com/album/5UPRQVPIXbuOwOuEcnjif1"
+      },
+      "artists": [
+        {
+          "name": "Caity Gyorgy",
+          "url": "https://open.spotify.com/artist/7MCpoKftSxsTCS8UBu1GFa"
+        }
+      ],
+      "duration_ms": 252013,
+      "name": "A Certain Someone",
+      "url": "https://open.spotify.com/track/25yMnwMO9d5urUdVtPyWee"
     },
     {
       "added_at": "2026-07-03 04:00:58",
@@ -1915,18 +1931,18 @@
     {
       "added_at": "2026-07-03 04:00:58",
       "album": {
-        "name": "A Certain Someone",
-        "url": "https://open.spotify.com/album/5UPRQVPIXbuOwOuEcnjif1"
+        "name": "More Understanding Than A Man / Dis, quand reviendras-tu ?",
+        "url": "https://open.spotify.com/album/4LiyJkRKcsoEvQjZ0cT70T"
       },
       "artists": [
         {
-          "name": "Caity Gyorgy",
-          "url": "https://open.spotify.com/artist/7MCpoKftSxsTCS8UBu1GFa"
+          "name": "Flore Benguigui & The Sensible Notes",
+          "url": "https://open.spotify.com/artist/0fPRM8MswpB7AksdDiE8g6"
         }
       ],
-      "duration_ms": 252013,
-      "name": "A Certain Someone",
-      "url": "https://open.spotify.com/track/25yMnwMO9d5urUdVtPyWee"
+      "duration_ms": 376600,
+      "name": "Dis, quand reviendras-tu ?",
+      "url": "https://open.spotify.com/track/0jMD8lrNmuSPBE4hYFIjS7"
     },
     {
       "added_at": "2026-07-03 04:00:58",
@@ -1959,22 +1975,6 @@
     {
       "added_at": "2026-07-03 04:00:58",
       "album": {
-        "name": "More Understanding Than A Man / Dis, quand reviendras-tu ?",
-        "url": "https://open.spotify.com/album/4LiyJkRKcsoEvQjZ0cT70T"
-      },
-      "artists": [
-        {
-          "name": "Flore Benguigui & The Sensible Notes",
-          "url": "https://open.spotify.com/artist/0fPRM8MswpB7AksdDiE8g6"
-        }
-      ],
-      "duration_ms": 376600,
-      "name": "Dis, quand reviendras-tu ?",
-      "url": "https://open.spotify.com/track/0jMD8lrNmuSPBE4hYFIjS7"
-    },
-    {
-      "added_at": "2026-07-03 04:00:58",
-      "album": {
         "name": "Alma",
         "url": "https://open.spotify.com/album/0lmJI5b1ilP0w7v6HsivOa"
       },
@@ -1995,22 +1995,6 @@
     {
       "added_at": "2026-07-03 04:00:58",
       "album": {
-        "name": "Sentimental Journey",
-        "url": "https://open.spotify.com/album/5Df4tcguBo4qkUYY8vA7IV"
-      },
-      "artists": [
-        {
-          "name": "Nils Landgren",
-          "url": "https://open.spotify.com/artist/6B3ZWSop1mrJd71rwFozVP"
-        }
-      ],
-      "duration_ms": 283693,
-      "name": "My Foolish Heart",
-      "url": "https://open.spotify.com/track/0kDcnUVGfVX1JvRPkslQc3"
-    },
-    {
-      "added_at": "2026-07-03 04:00:58",
-      "album": {
         "name": "Grasiela Piasson & Guga Stroeter",
         "url": "https://open.spotify.com/album/1bZ1IxMM8lVMtMVkLWqSZ4"
       },
@@ -2027,6 +2011,22 @@
       "duration_ms": 136813,
       "name": "Doop-Doo-De-Doop a Doodlin' Song",
       "url": "https://open.spotify.com/track/3EjfZfDx8fxsUZrhomIkNA"
+    },
+    {
+      "added_at": "2026-07-03 04:00:58",
+      "album": {
+        "name": "Sentimental Journey",
+        "url": "https://open.spotify.com/album/5Df4tcguBo4qkUYY8vA7IV"
+      },
+      "artists": [
+        {
+          "name": "Nils Landgren",
+          "url": "https://open.spotify.com/artist/6B3ZWSop1mrJd71rwFozVP"
+        }
+      ],
+      "duration_ms": 283693,
+      "name": "My Foolish Heart",
+      "url": "https://open.spotify.com/track/0kDcnUVGfVX1JvRPkslQc3"
     },
     {
       "added_at": "2026-07-03 04:00:58",
@@ -2183,38 +2183,6 @@
     {
       "added_at": "2026-07-03 04:00:58",
       "album": {
-        "name": "An Evening with/ Andy James & John Patitucci",
-        "url": "https://open.spotify.com/album/3wmErkWqIMYJiQhplNUPhl"
-      },
-      "artists": [
-        {
-          "name": "Andy James",
-          "url": "https://open.spotify.com/artist/1MXvoR1huidjc1GRRcAs1F"
-        },
-        {
-          "name": "John Patitucci",
-          "url": "https://open.spotify.com/artist/4KmKbbEq6PMnW2TdkrbBIH"
-        },
-        {
-          "name": "Chris Potter",
-          "url": "https://open.spotify.com/artist/4hdVPbHhsWAn2XTXVRJoxB"
-        },
-        {
-          "name": "Bill Cunliffe",
-          "url": "https://open.spotify.com/artist/2FfWqpDJg7emSdQljKfwHM"
-        },
-        {
-          "name": "Vinnie Colaiuta",
-          "url": "https://open.spotify.com/artist/3JE0rhvpwUB5mK2OgUnWlO"
-        }
-      ],
-      "duration_ms": 263282,
-      "name": "Autumn In New York (feat. Chris Potter, Bill Cunliffe & Vinnie Colaiuta)",
-      "url": "https://open.spotify.com/track/6DwflQH9R5Y4hpJrGPeNsC"
-    },
-    {
-      "added_at": "2026-07-03 04:00:58",
-      "album": {
         "name": "Live Sings Sassy",
         "url": "https://open.spotify.com/album/1iimKeyogFlVxDgnrpaKTr"
       },
@@ -2319,6 +2287,38 @@
     {
       "added_at": "2026-07-03 04:00:58",
       "album": {
+        "name": "An Evening with/ Andy James & John Patitucci",
+        "url": "https://open.spotify.com/album/3wmErkWqIMYJiQhplNUPhl"
+      },
+      "artists": [
+        {
+          "name": "Andy James",
+          "url": "https://open.spotify.com/artist/1MXvoR1huidjc1GRRcAs1F"
+        },
+        {
+          "name": "John Patitucci",
+          "url": "https://open.spotify.com/artist/4KmKbbEq6PMnW2TdkrbBIH"
+        },
+        {
+          "name": "Chris Potter",
+          "url": "https://open.spotify.com/artist/4hdVPbHhsWAn2XTXVRJoxB"
+        },
+        {
+          "name": "Bill Cunliffe",
+          "url": "https://open.spotify.com/artist/2FfWqpDJg7emSdQljKfwHM"
+        },
+        {
+          "name": "Vinnie Colaiuta",
+          "url": "https://open.spotify.com/artist/3JE0rhvpwUB5mK2OgUnWlO"
+        }
+      ],
+      "duration_ms": 263282,
+      "name": "Autumn In New York (feat. Chris Potter, Bill Cunliffe & Vinnie Colaiuta)",
+      "url": "https://open.spotify.com/track/6DwflQH9R5Y4hpJrGPeNsC"
+    },
+    {
+      "added_at": "2026-07-03 04:00:58",
+      "album": {
         "name": "It's Only a Paper Moon",
         "url": "https://open.spotify.com/album/1Ml1lR7ejgAB6K3uaXMQ8p"
       },
@@ -2359,22 +2359,6 @@
     {
       "added_at": "2026-07-03 04:00:58",
       "album": {
-        "name": "All Or Nothing At All",
-        "url": "https://open.spotify.com/album/0Y9LX6aX9SxXZnvd1K0HAz"
-      },
-      "artists": [
-        {
-          "name": "Matt Dusk",
-          "url": "https://open.spotify.com/artist/1UbA3tvm40VqUsiFlJaPCs"
-        }
-      ],
-      "duration_ms": 224016,
-      "name": "All Or Nothing At All",
-      "url": "https://open.spotify.com/track/0j6BoHPikfrtJFYZdVnIT8"
-    },
-    {
-      "added_at": "2026-07-03 04:00:58",
-      "album": {
         "name": "Yellow Rose",
         "url": "https://open.spotify.com/album/5DLSXBQx09pE2XbMdB6yVn"
       },
@@ -2391,6 +2375,22 @@
       "duration_ms": 307600,
       "name": "Yellow Rose",
       "url": "https://open.spotify.com/track/6zxeA2sdHQJTXsElhc4K6z"
+    },
+    {
+      "added_at": "2026-07-03 04:00:58",
+      "album": {
+        "name": "All Or Nothing At All",
+        "url": "https://open.spotify.com/album/0Y9LX6aX9SxXZnvd1K0HAz"
+      },
+      "artists": [
+        {
+          "name": "Matt Dusk",
+          "url": "https://open.spotify.com/artist/1UbA3tvm40VqUsiFlJaPCs"
+        }
+      ],
+      "duration_ms": 224016,
+      "name": "All Or Nothing At All",
+      "url": "https://open.spotify.com/track/0j6BoHPikfrtJFYZdVnIT8"
     },
     {
       "added_at": "2026-07-03 04:00:58",

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXa71eg5j9dKZ.md) - [plain]
 
 > The home for alternative electronic music\. Cover: MPH
 
-[Spotify](https://open.spotify.com/user/spotify) - 547,041 likes - 100 songs - 6 hr 18 min
+[Spotify](https://open.spotify.com/user/spotify) - 547,058 likes - 100 songs - 6 hr 18 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXa71eg5j9dKZ.md) - [plain]
 | 99 | [Piece Of Me](https://open.spotify.com/track/65EwgM3cxN9aPUDKopCFif) | [Wilfy D](https://open.spotify.com/artist/42RD2DVYDZPVEVPYsGpsMR), [Crazy Cousinz](https://open.spotify.com/artist/6VXB0WH4MfmhZyongoEYZr), [Amaeya](https://open.spotify.com/artist/7LBhTlMPyB6xjAr8muuR56) | [Piece Of Me](https://open.spotify.com/album/4wEdCOFLRFC8fmgb8t0IuO) | 3:09 |
 | 100 | [Wicked N Ruff](https://open.spotify.com/track/4XjgbpZ4rtt0PwE0QNOMJh) | [Sempra](https://open.spotify.com/artist/76YrQ1DtiiJ5MFbIIWLOSq) | [Wicked N Ruff](https://open.spotify.com/album/5EJu2S7NXFtotFysgcl8WN) | 4:41 |
 
-Snapshot ID: `AAAAAMmPaZ+bhSqgYxm+zZ1iLhJp8Rvi`
+Snapshot ID: `AAAAADhMLFykBz4zOk81wIf9N4l0mXbo`

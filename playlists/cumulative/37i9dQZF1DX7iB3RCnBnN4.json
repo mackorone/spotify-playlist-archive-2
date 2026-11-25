@@ -5049,6 +5049,24 @@
     },
     {
       "album": {
+        "name": "Cradles",
+        "url": "https://open.spotify.com/album/52Ed6S0NpZtq8BiXNGxmnp"
+      },
+      "artists": [
+        {
+          "name": "Sub Urban",
+          "url": "https://open.spotify.com/artist/7gXb99Sf9nNmpNYeAgIQFG"
+        }
+      ],
+      "date_added": "2026-11-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 209829,
+      "name": "Cradles",
+      "url": "https://open.spotify.com/track/5S4S3xF0T1ZvtTabQu1TYc"
+    },
+    {
+      "album": {
         "name": "Hybrid Theory (Bonus Edition)",
         "url": "https://open.spotify.com/album/6hPkbAV3ZXpGZBGUvL6jVM"
       },
@@ -17544,6 +17562,24 @@
       "duration_ms": 192190,
       "name": "My House",
       "url": "https://open.spotify.com/track/6Knv6wdA0luoMUuuoYi2i1"
+    },
+    {
+      "album": {
+        "name": "2",
+        "url": "https://open.spotify.com/album/21dQQ64FJmgc0zTBUpk1Mb"
+      },
+      "artists": [
+        {
+          "name": "Mac DeMarco",
+          "url": "https://open.spotify.com/artist/3Sz7ZnJQBIHsXLUSo0OQtM"
+        }
+      ],
+      "date_added": "2026-11-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 190845,
+      "name": "My Kind of Woman",
+      "url": "https://open.spotify.com/track/38tfi9dtBQQ5Wyt7EL0G3z"
     },
     {
       "album": {

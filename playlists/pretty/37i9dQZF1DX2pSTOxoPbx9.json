@@ -1,12 +1,12 @@
 {
   "description": "Beautifully dark, dramatic tracks.",
-  "num_followers": 864530,
+  "num_followers": 864538,
   "original_name": "Dark & Stormy",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAP4DidR2mHlaNcjFl3xrSKzTum3d",
+  "snapshot_id": "AAAAAEqp/l5lxqKqxsZP5Iw59/bJkTws",
   "tracks": [
     {
       "added_at": "2026-11-23 20:03:11",
@@ -983,22 +983,6 @@
     {
       "added_at": "2026-11-23 20:03:11",
       "album": {
-        "name": "Magnolia Blues",
-        "url": "https://open.spotify.com/album/23lmCOZk4vEMiaCMKTiZMr"
-      },
-      "artists": [
-        {
-          "name": "Adia Victoria",
-          "url": "https://open.spotify.com/artist/1HKGjRPwI0gaFyv4aSWPPl"
-        }
-      ],
-      "duration_ms": 208546,
-      "name": "Magnolia Blues",
-      "url": "https://open.spotify.com/track/7piCuE6DVjnko9oTNTqVAO"
-    },
-    {
-      "added_at": "2026-11-23 20:03:11",
-      "album": {
         "name": "Everything We Do Is Wrong",
         "url": "https://open.spotify.com/album/28U4nmmCWwmJstiNkjKxMy"
       },
@@ -1015,18 +999,18 @@
     {
       "added_at": "2026-11-23 20:03:11",
       "album": {
-        "name": "Hollowed out Sea",
-        "url": "https://open.spotify.com/album/6eiWuJTeAfTTlD6jpd766A"
+        "name": "Magnolia Blues",
+        "url": "https://open.spotify.com/album/23lmCOZk4vEMiaCMKTiZMr"
       },
       "artists": [
         {
-          "name": "Ailbhe Reddy",
-          "url": "https://open.spotify.com/artist/1YQiMR5M12HJ28hkJz7qnn"
+          "name": "Adia Victoria",
+          "url": "https://open.spotify.com/artist/1HKGjRPwI0gaFyv4aSWPPl"
         }
       ],
-      "duration_ms": 213350,
-      "name": "Distrust",
-      "url": "https://open.spotify.com/track/4oxBuMPLQxQYVPYOdCOG77"
+      "duration_ms": 208546,
+      "name": "Magnolia Blues",
+      "url": "https://open.spotify.com/track/7piCuE6DVjnko9oTNTqVAO"
     },
     {
       "added_at": "2026-11-23 20:03:11",
@@ -1043,6 +1027,22 @@
       "duration_ms": 196160,
       "name": "Every Man Is a Warrior",
       "url": "https://open.spotify.com/track/1s7UcC1RY8w1DJMry3ETYD"
+    },
+    {
+      "added_at": "2026-11-23 20:03:11",
+      "album": {
+        "name": "Hollowed out Sea",
+        "url": "https://open.spotify.com/album/6eiWuJTeAfTTlD6jpd766A"
+      },
+      "artists": [
+        {
+          "name": "Ailbhe Reddy",
+          "url": "https://open.spotify.com/artist/1YQiMR5M12HJ28hkJz7qnn"
+        }
+      ],
+      "duration_ms": 213350,
+      "name": "Distrust",
+      "url": "https://open.spotify.com/track/4oxBuMPLQxQYVPYOdCOG77"
     },
     {
       "added_at": "2026-11-23 20:03:11",
@@ -1623,6 +1623,30 @@
     {
       "added_at": "2026-11-23 20:03:11",
       "album": {
+        "name": "Killer + The Sound",
+        "url": "https://open.spotify.com/album/4vkODa4y4DQzFOOYfAK8EV"
+      },
+      "artists": [
+        {
+          "name": "Phoebe Bridgers",
+          "url": "https://open.spotify.com/artist/1r1uxoy19fzMxunt3ONAkG"
+        },
+        {
+          "name": "Noah Gundersen",
+          "url": "https://open.spotify.com/artist/34482S5nfxR441wcnVfrHi"
+        },
+        {
+          "name": "Abby Gundersen",
+          "url": "https://open.spotify.com/artist/5BlKoQLYxv24MSV5AD6i6q"
+        }
+      ],
+      "duration_ms": 475186,
+      "name": "Killer + The Sound",
+      "url": "https://open.spotify.com/track/1xuA8vy1KA1cfP5UQ7NYSS"
+    },
+    {
+      "added_at": "2026-11-23 20:03:11",
+      "album": {
         "name": "Deliverance",
         "url": "https://open.spotify.com/album/1Hk5Phd1AMnsPJ9yuFOkPj"
       },
@@ -1651,22 +1675,6 @@
       "duration_ms": 219760,
       "name": "Marked for Death",
       "url": "https://open.spotify.com/track/1fLOvLE1XRpvHpLkRHzSym"
-    },
-    {
-      "added_at": "2026-11-23 20:03:11",
-      "album": {
-        "name": "William Crighton",
-        "url": "https://open.spotify.com/album/4w4P1ihvUwfSdtuwIE0ZHq"
-      },
-      "artists": [
-        {
-          "name": "William Crighton",
-          "url": "https://open.spotify.com/artist/4EVBuMQ6XVgxeqWKH09dBM"
-        }
-      ],
-      "duration_ms": 362280,
-      "name": "Smile",
-      "url": "https://open.spotify.com/track/33Ya9pdh5KEpbaG1Q8D3eh"
     }
   ],
   "unique_name": "Dark & Stormy",

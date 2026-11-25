@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWW7BONj8RiqI.md) - [plain]
 
 > The Soca hits we all love from back then til right now\. Cover: V'ghn, for <a href=spotify:playlist:37i9dQZF1DX0rM1NjYKMJa> Carnival Sounds Live 2026.</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 251,746 likes - 100 songs - 5 hr 33 min
+[Spotify](https://open.spotify.com/user/spotify) - 251,753 likes - 100 songs - 5 hr 33 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -60,9 +60,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWW7BONj8RiqI.md) - [plain]
 | 50 | [PARDY](https://open.spotify.com/track/3HgSn2nlDVwnvlStwaA19M) | [Machel Montano](https://open.spotify.com/artist/6wxP7SSzfvi21Cnl8JicdQ) | [PARDY](https://open.spotify.com/album/09Z0OQdv4Xbks9MOjO51VL) | 3:42 |
 | 51 | [Soca Start](https://open.spotify.com/track/2rDPAKcCKNH2lXE02sP7dD) | [IQ](https://open.spotify.com/artist/10jSImvLGufcMdETaNGvsv), [DJ CHEEM](https://open.spotify.com/artist/73srMZV12x8XvV4r8VekHZ) | [Soca Start](https://open.spotify.com/album/72vCgFMjbzVbiPdFvEm8BZ) | 2:21 |
 | 52 | [Gyal Owner](https://open.spotify.com/track/7pVQceAw8jOOnajIQQcVF7) | [Blaxx](https://open.spotify.com/artist/5ix3RWfREDkS8yiuklSrjM) | [Tight Squeeze Riddim](https://open.spotify.com/album/7Ll9CqSBW14J22ls985uP3) | 3:23 |
-| 53 | [Tack Back](https://open.spotify.com/track/3GwcL1cfFEnTCYTIL8VN1W) | [Kes](https://open.spotify.com/artist/7E6r9S8qCRfZVCjF1A8do6), [Tano](https://open.spotify.com/artist/0e4gZp0pGSUYifNYGse8U1) | [Tack Back](https://open.spotify.com/album/3TdjoUXXNZvcclAJxU0Wmq) | 3:18 |
+| 53 | [Face Beat](https://open.spotify.com/track/7JOil4DFL3mgC5ZiDr82TG) | [Father Philis](https://open.spotify.com/artist/4VF0sdPSFLYdVWF6FRK6OK) | [Face Beat](https://open.spotify.com/album/5UIMx57NTFFnsnBK2ZDGNM) | 2:23 |
 | 54 | [D N A](https://open.spotify.com/track/6n9lFQTIv6pWvFXXQzPjws) | [Mical Teja](https://open.spotify.com/artist/3hAEV7AsItFtYdftNNxSMu) | [D N A](https://open.spotify.com/album/1GTcyA5SDYdffWpYUwX1Q8) | 3:26 |
-| 55 | [Face Beat](https://open.spotify.com/track/7JOil4DFL3mgC5ZiDr82TG) | [Father Philis](https://open.spotify.com/artist/4VF0sdPSFLYdVWF6FRK6OK) | [Face Beat](https://open.spotify.com/album/5UIMx57NTFFnsnBK2ZDGNM) | 2:23 |
+| 55 | [Tack Back](https://open.spotify.com/track/3GwcL1cfFEnTCYTIL8VN1W) | [Kes](https://open.spotify.com/artist/7E6r9S8qCRfZVCjF1A8do6), [Tano](https://open.spotify.com/artist/0e4gZp0pGSUYifNYGse8U1) | [Tack Back](https://open.spotify.com/album/3TdjoUXXNZvcclAJxU0Wmq) | 3:18 |
 | 56 | [Vagabond](https://open.spotify.com/track/6STKwZQQ0da003b3KHTlEL) | [Ricardo Drue](https://open.spotify.com/artist/1YxLPEyDduTjPEBWKA2BmF) | [Vagabond](https://open.spotify.com/album/2onJp2lhpNNcQgThvC6uLz) | 3:58 |
 | 57 | [Leh Go](https://open.spotify.com/track/0QMMShvfoWeOZeJ7cFd5ck) | [Blaxx](https://open.spotify.com/artist/5ix3RWfREDkS8yiuklSrjM) | [Soca Future Riddim](https://open.spotify.com/album/71tQ5QyzHeepktxNLW4Xbm) | 3:23 |
 | 58 | [Come Home](https://open.spotify.com/track/4OFdzr4mlBC7YK8XwJqwIx) | [Skinny Fabulous](https://open.spotify.com/artist/56BHYURgbka2nQbBy8XZ3x), [Nailah Blackman](https://open.spotify.com/artist/1K23l3n63BTCtIMm0TyS4c) | [Come Home](https://open.spotify.com/album/0HHOQolYzlGQ4DTqzAtdk7) | 4:18 |
@@ -70,14 +70,14 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWW7BONj8RiqI.md) - [plain]
 | 60 | [I Dare You](https://open.spotify.com/track/6JCm0aU8GlfiwyWzha3eHL) | [Destra](https://open.spotify.com/artist/0xMFjTpcN1zaf1ZU5NaNmk) | [Soca Gold 2007](https://open.spotify.com/album/1Dhb5q5N4bb3Ev753FThcm) | 3:32 |
 | 61 | [Move Out D Way](https://open.spotify.com/track/4XKEKCOyl0aAIuG3n8aD1A) | [Paris Coutain](https://open.spotify.com/artist/57EGf3uPUy2maRE9G2kpRS), [Machel Montano](https://open.spotify.com/artist/6wxP7SSzfvi21Cnl8JicdQ), [Travis World](https://open.spotify.com/artist/5AVAzwpIu9f3H1oegupPCd) | [Move Out D Way](https://open.spotify.com/album/1uRHuI74AGg69bsLhzlV3G) | 3:16 |
 | 62 | [Fling It Up](https://open.spotify.com/track/23NyOI3LyPTddD5kZRpO9b) | [Machel Montano](https://open.spotify.com/artist/6wxP7SSzfvi21Cnl8JicdQ), [Davido](https://open.spotify.com/artist/0Y3agQaa6g2r0YmHPOO9rh) | [One Degree Hotter](https://open.spotify.com/album/0XOSA0PmBmFqChJNipYAQG) | 2:38 |
-| 63 | [Workey Workey](https://open.spotify.com/track/7qBspj3xcFx2kzud2FRsRj) | [Burning Flames](https://open.spotify.com/artist/6PmJXOr7O4EZkds2bQuOTv) | [Dig](https://open.spotify.com/album/1MrOvx0Tefrl1AHvbF5JXC) | 5:35 |
-| 64 | [Anxiety](https://open.spotify.com/track/1u2lFfwvfAeqsxIsB5AEeX) | [Patrice Roberts](https://open.spotify.com/artist/0crMctn4iXaE3XCHpeBkOt) | [Anxiety](https://open.spotify.com/album/6W7sCrkEdeoBuiZOdL0Fzq) | 3:40 |
-| 65 | [Passion](https://open.spotify.com/track/0SKW8nkTRCcKEPqT6e5zdN) | [Militant](https://open.spotify.com/artist/690ABcoCdRI94KVCiFwhoj) | [Passion](https://open.spotify.com/album/1TAsad0eSc2o4tvaYVGFGG) | 4:16 |
+| 63 | [Passion](https://open.spotify.com/track/0SKW8nkTRCcKEPqT6e5zdN) | [Militant](https://open.spotify.com/artist/690ABcoCdRI94KVCiFwhoj) | [Passion](https://open.spotify.com/album/1TAsad0eSc2o4tvaYVGFGG) | 4:16 |
+| 64 | [Workey Workey](https://open.spotify.com/track/7qBspj3xcFx2kzud2FRsRj) | [Burning Flames](https://open.spotify.com/artist/6PmJXOr7O4EZkds2bQuOTv) | [Dig](https://open.spotify.com/album/1MrOvx0Tefrl1AHvbF5JXC) | 5:35 |
+| 65 | [Anxiety](https://open.spotify.com/track/1u2lFfwvfAeqsxIsB5AEeX) | [Patrice Roberts](https://open.spotify.com/artist/0crMctn4iXaE3XCHpeBkOt) | [Anxiety](https://open.spotify.com/album/6W7sCrkEdeoBuiZOdL0Fzq) | 3:40 |
 | 66 | [Fattt](https://open.spotify.com/track/5Jbo9fmh94CoGmdvje1HN7) | [Nadia Batson](https://open.spotify.com/artist/1m1PGW9tdZRXYn85Bh3w9t) | [Caution Riddim](https://open.spotify.com/album/0oCbAGTJf4aWNEjyFX2Nte) | 3:13 |
 | 67 | [Sit on My Face](https://open.spotify.com/track/0uXePy8d0vmDmhrZgUhGrc) | [Zido](https://open.spotify.com/artist/1BXk9qMGTP648nRoWwCImq) | [Sit on My Face](https://open.spotify.com/album/6ASsV15On3lnOIRSMFapBg) | 1:27 |
-| 68 | [Trini 2 De Bone](https://open.spotify.com/track/37U6SWpjdUNLmdbneCeVSP) | [David Rudder](https://open.spotify.com/artist/56LHUp2Q0S83IaayCWNavq) | [Blessed](https://open.spotify.com/album/6Vs1g73yt4Jd2pNnM5LJna) | 4:55 |
-| 69 | [One For The Team](https://open.spotify.com/track/1hEcR23cJ3K9GRlEPsvavJ) | [Full Blown](https://open.spotify.com/artist/3zbOZ8HVaeogc99IuaBinC), [Tano](https://open.spotify.com/artist/0e4gZp0pGSUYifNYGse8U1) | [Blockbuster Riddim](https://open.spotify.com/album/4SJV6OFqadRJCroiyZJ2Rr) | 3:17 |
-| 70 | [Hot and Groovy](https://open.spotify.com/track/5ufDDOz8dT9bW9tjegZ6DB) | [Militant](https://open.spotify.com/artist/690ABcoCdRI94KVCiFwhoj) | [Hot and Groovy](https://open.spotify.com/album/05BvK7qOUP4YLJxrAGaLC5) | 4:42 |
+| 68 | [Hot and Groovy](https://open.spotify.com/track/5ufDDOz8dT9bW9tjegZ6DB) | [Militant](https://open.spotify.com/artist/690ABcoCdRI94KVCiFwhoj) | [Hot and Groovy](https://open.spotify.com/album/05BvK7qOUP4YLJxrAGaLC5) | 4:42 |
+| 69 | [Trini 2 De Bone](https://open.spotify.com/track/37U6SWpjdUNLmdbneCeVSP) | [David Rudder](https://open.spotify.com/artist/56LHUp2Q0S83IaayCWNavq) | [Blessed](https://open.spotify.com/album/6Vs1g73yt4Jd2pNnM5LJna) | 4:55 |
+| 70 | [One For The Team](https://open.spotify.com/track/1hEcR23cJ3K9GRlEPsvavJ) | [Full Blown](https://open.spotify.com/artist/3zbOZ8HVaeogc99IuaBinC), [Tano](https://open.spotify.com/artist/0e4gZp0pGSUYifNYGse8U1) | [Blockbuster Riddim](https://open.spotify.com/album/4SJV6OFqadRJCroiyZJ2Rr) | 3:17 |
 | 71 | [Cloud 9](https://open.spotify.com/track/0l8jZCr1hr0t6UyBilHAqQ) | [Lyrikal](https://open.spotify.com/artist/35KCSzO0sDCLggvo39D9ng) | [Cloud 9](https://open.spotify.com/album/3VXWr4JZQJare2SN4oB5pR) | 3:28 |
 | 72 | [Long Live Soca](https://open.spotify.com/track/5eNR7uRphqgPmR5bD6IyLg) | [Voice](https://open.spotify.com/artist/61buXyJGplh38VDpEaB2ds) | [Long Live Soca](https://open.spotify.com/album/4jGyY87LLAPr9OKPZAeIkd) | 3:45 |
 | 73 | [Trinidad](https://open.spotify.com/track/0PAqVTHh24UnJJYlLxRGSC) | [Invasion Band Feat\. Naya George](https://open.spotify.com/artist/7qfUFtHsNyAxRKJxj10aqj) | [Soca Gold 2002](https://open.spotify.com/album/1PUWTrzuAUhRtQ9uCdCEfs) | 3:01 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWW7BONj8RiqI.md) - [plain]
 | 99 | [Look Back](https://open.spotify.com/track/3uU6YtcCzVCSNZf1GILbqK) | [Boogy Rankss](https://open.spotify.com/artist/2QHmjFlStzFVsLeXo4nfth), [Lyrikal](https://open.spotify.com/artist/35KCSzO0sDCLggvo39D9ng) | [Look Back](https://open.spotify.com/album/1Jd5fzgBFj1pAudc2AOdVP) | 2:31 |
 | 100 | [Sexin](https://open.spotify.com/track/15mEe2BeW0SOuAisCv4h5Q) | [Konshens](https://open.spotify.com/artist/3nwYsifpwrKmCIpw4i0HDW) | [Soca Virgin](https://open.spotify.com/album/6dVd6U3r4uwDSXBjUNyK05) | 3:05 |
 
-Snapshot ID: `AAAAAMLJf8JdESQs+sEK1N2qBeWcUjj+`
+Snapshot ID: `AAAAABPyAnOuC9tjD49ReuOVx7234oAH`

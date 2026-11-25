@@ -2090,7 +2090,7 @@
       ],
       "date_added": "2026-04-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-25",
       "duration_ms": 227986,
       "name": "Beauty And A Beat",
       "url": "https://open.spotify.com/track/6QFCMUUq1T2Vf5sFUXcuQ7"
@@ -2144,7 +2144,7 @@
       ],
       "date_added": "2025-12-17",
       "date_added_asterisk": false,
-      "date_removed": "2026-11-24",
+      "date_removed": null,
       "duration_ms": 186041,
       "name": "Better Man",
       "url": "https://open.spotify.com/track/687XL0vOW03rpY24lpAoTT"
@@ -2736,7 +2736,7 @@
       ],
       "date_added": "2025-12-18",
       "date_added_asterisk": false,
-      "date_removed": "2026-11-24",
+      "date_removed": null,
       "duration_ms": 248241,
       "name": "Boulder",
       "url": "https://open.spotify.com/track/2ziD1w2ZBLPHMmkhSHkayG"
@@ -21812,7 +21812,7 @@
       ],
       "date_added": "2026-11-07",
       "date_added_asterisk": false,
-      "date_removed": "2026-11-24",
+      "date_removed": null,
       "duration_ms": 181911,
       "name": "You're Under Arrest",
       "url": "https://open.spotify.com/track/7IY0j2xsQqaWtVqb17xpJG"
@@ -24719,6 +24719,24 @@
     },
     {
       "album": {
+        "name": "Halo",
+        "url": "https://open.spotify.com/album/0ro6EgwMav6MStWI1oi1ZG"
+      },
+      "artists": [
+        {
+          "name": "\u9673\u5353\u8ce2 Ian",
+          "url": "https://open.spotify.com/artist/1qW9Pi35NXnu7Q8KWyVYe6"
+        }
+      ],
+      "date_added": "2026-11-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 191731,
+      "name": "\u5728\u9060\u65b9\u7684\u4f60",
+      "url": "https://open.spotify.com/track/6FixMFoLCmV9JRfWnmBYyY"
+    },
+    {
+      "album": {
         "name": "\u5728\u9060\u65b9\u7684\u4f60",
         "url": "https://open.spotify.com/album/1dvB4QC4MPwJpQm724YDyO"
       },
@@ -25368,7 +25386,7 @@
       ],
       "date_added": "2026-07-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-25",
       "duration_ms": 259133,
       "name": "\u5bcc\u58eb\u5c71\u4e0b",
       "url": "https://open.spotify.com/track/3cthRwQ2X0SNTaauD7tjn5"
@@ -29088,7 +29106,7 @@
       ],
       "date_added": "2026-05-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-25",
       "duration_ms": 185040,
       "name": "\u73bb\u7483",
       "url": "https://open.spotify.com/track/4lZVYNSHy3bKN1pqTxw9Zl"
@@ -29442,7 +29460,7 @@
       ],
       "date_added": "2025-12-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-25",
       "duration_ms": 182588,
       "name": "\u767d\u679c",
       "url": "https://open.spotify.com/track/7rDG7qFA42Zx6oan6hua2q"
@@ -30654,7 +30672,7 @@
       ],
       "date_added": "2026-08-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-25",
       "duration_ms": 215154,
       "name": "\u81f3\u5c11\u76f8\u64c1\u6c92\u932f",
       "url": "https://open.spotify.com/track/1hUCAVgmwiU3op5Pw16SSf"
@@ -31424,7 +31442,7 @@
       ],
       "date_added": "2025-12-17",
       "date_added_asterisk": false,
-      "date_removed": "2026-11-24",
+      "date_removed": null,
       "duration_ms": 219263,
       "name": "\u8ffd\u611b\u72c2\u60f3",
       "url": "https://open.spotify.com/track/1OoVtwFdwCHgu65joPlp4a"
@@ -32582,7 +32600,7 @@
       ],
       "date_added": "2024-03-29",
       "date_added_asterisk": false,
-      "date_removed": "2026-11-24",
+      "date_removed": null,
       "duration_ms": 219385,
       "name": "\u9ed1\u73bb\u7483",
       "url": "https://open.spotify.com/track/65TyCkIJtF8hDF599vCXwe"
@@ -32654,7 +32672,7 @@
       ],
       "date_added": "2026-11-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-25",
       "duration_ms": 181911,
       "name": "\uccb4\ud3ec\ud558\uaca0\uc5b4",
       "url": "https://open.spotify.com/track/30T1Q5lsYzCEKzifUWwFWM"

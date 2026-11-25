@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXs1L3AC0Xio.md) - [plain]
 
 > lighters up.
 
-[Spotify](https://open.spotify.com/user/spotify) - 827,253 likes - 75 songs - 5 hr 24 min
+[Spotify](https://open.spotify.com/user/spotify) - 827,301 likes - 75 songs - 5 hr 24 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -52,11 +52,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXs1L3AC0Xio.md) - [plain]
 | 42 | [In a Darkened Room](https://open.spotify.com/track/05A9GC5OxmgvvRji2SCVzh) | [Skid Row](https://open.spotify.com/artist/4opTS86dN9uO313J9CE8xg) | [Slave to the Grind](https://open.spotify.com/album/35XOihxzj9XxmK4j1DFW3E) | 3:55 |
 | 43 | [Sorry](https://open.spotify.com/track/7qpDqr5TxcTlOHG0k7moGt) | [Buckcherry](https://open.spotify.com/artist/0yN7xI1blow9nYIK0R8nM7) | [15](https://open.spotify.com/album/0jJsG6B5PqmOMEKpuCg5ru) | 3:46 |
 | 44 | [My December](https://open.spotify.com/track/0fxGA5lxrdYNYoE7yJxTNZ) | [Linkin Park](https://open.spotify.com/artist/6XyY86QOPPrYVGvF9ch6wz) | [Hybrid Theory \(Bonus Edition\)](https://open.spotify.com/album/6hPkbAV3ZXpGZBGUvL6jVM) | 4:20 |
-| 45 | [Can't Get You Off My Mind](https://open.spotify.com/track/7bk6iZ5dsrMySXB0aVFYXO) | [Lenny Kravitz](https://open.spotify.com/artist/5gznATMVO85ZcLTkE9ULU7) | [Circus](https://open.spotify.com/album/0WGH7xwdRoCCNLJEyQQ4Z0) | 4:34 |
-| 46 | [Silent Lucidity](https://open.spotify.com/track/6OSyCAmXT4Gkd3OQ2aPOaF) | [Queensrÿche](https://open.spotify.com/artist/2OgUPVlWYgGBGMefZgGvCO) | [Empire \(20th Anniversary Edition\)](https://open.spotify.com/album/6jmesEKzKTLAa3oI96jWow) | 5:47 |
+| 45 | [Silent Lucidity](https://open.spotify.com/track/6OSyCAmXT4Gkd3OQ2aPOaF) | [Queensrÿche](https://open.spotify.com/artist/2OgUPVlWYgGBGMefZgGvCO) | [Empire \(20th Anniversary Edition\)](https://open.spotify.com/album/6jmesEKzKTLAa3oI96jWow) | 5:47 |
+| 46 | [Can't Get You Off My Mind](https://open.spotify.com/track/7bk6iZ5dsrMySXB0aVFYXO) | [Lenny Kravitz](https://open.spotify.com/artist/5gznATMVO85ZcLTkE9ULU7) | [Circus](https://open.spotify.com/album/0WGH7xwdRoCCNLJEyQQ4Z0) | 4:34 |
 | 47 | [When You're Young](https://open.spotify.com/track/6uMPJ3NmW8FfqqNwqjUHrB) | [3 Doors Down](https://open.spotify.com/artist/2RTUTCvo6onsAnheUk3aL9) | [Time Of My Life](https://open.spotify.com/album/47S9ygE3AtE7r6qRdCEFFY) | 4:16 |
-| 48 | [Now And Then](https://open.spotify.com/track/4vziJcnB2Qyi9o4nIRUeN7) | [The Beatles](https://open.spotify.com/artist/3WrFJ7ztbogyGnTHbHJFl2) | [Now And Then](https://open.spotify.com/album/2qQP2NgOoH6HqknnbpJmIk) | 4:08 |
-| 49 | [Fade In / Fade Out](https://open.spotify.com/track/3HYs3wvhafGbyoGtLspEzr) | [NOTHING MORE](https://open.spotify.com/artist/39VNwvlQTqE9SvgPjjnMpc) | [The Stories We Tell Ourselves](https://open.spotify.com/album/0A3y56apHg0MRM83MLBwhM) | 6:04 |
+| 48 | [Fade In / Fade Out](https://open.spotify.com/track/3HYs3wvhafGbyoGtLspEzr) | [NOTHING MORE](https://open.spotify.com/artist/39VNwvlQTqE9SvgPjjnMpc) | [The Stories We Tell Ourselves](https://open.spotify.com/album/0A3y56apHg0MRM83MLBwhM) | 6:04 |
+| 49 | [Now And Then](https://open.spotify.com/track/4vziJcnB2Qyi9o4nIRUeN7) | [The Beatles](https://open.spotify.com/artist/3WrFJ7ztbogyGnTHbHJFl2) | [Now And Then](https://open.spotify.com/album/2qQP2NgOoH6HqknnbpJmIk) | 4:08 |
 | 50 | [I Could Not Ask for More](https://open.spotify.com/track/14J3PO0VnhtcRa31r7Aj1L) | [Edwin McCain](https://open.spotify.com/artist/0L6Gwm0JDrgIQJfjarWSUR) | [Messenger](https://open.spotify.com/album/4DBeYVhZZiPNvpco55j8KW) | 4:33 |
 | 51 | [Hearts / Wires](https://open.spotify.com/track/1SeMnyEb5dwCBLU3QUC0K2) | [Deftones](https://open.spotify.com/artist/6Ghvu1VvMGScGpOUJBAHNH) | [Gore](https://open.spotify.com/album/3tsXyEbUQehXPaRFCS8K1n) | 5:20 |
 | 52 | [Over You](https://open.spotify.com/track/7mXmxXLAnsvXKt4Q37KoMI) | [Daughtry](https://open.spotify.com/artist/5P5FTygHyx2G57oszR3Wot) | [Daughtry](https://open.spotify.com/album/7MEQdKzqoG2QJYcT2XEKsW) | 3:24 |
@@ -65,16 +65,16 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXs1L3AC0Xio.md) - [plain]
 | 55 | [Swing Life Away](https://open.spotify.com/track/6GrrkiCRO3HYdgRpO4eKEL) | [Rise Against](https://open.spotify.com/artist/6Wr3hh341P84m3EI8qdn9O) | [Siren Song Of The Counter\-Culture](https://open.spotify.com/album/1vHYkIhnwbpzrC3hGguDN6) | 3:20 |
 | 56 | [Lifetime](https://open.spotify.com/track/19dNZyDyw00aKgr6S0Os6e) | [Three Days Grace](https://open.spotify.com/artist/2xiIXseIJcq3nG7C8fHeBj) | [EXPLOSIONS](https://open.spotify.com/album/4drZZN0HTkJzcdlPmmQyqG) | 2:56 |
 | 57 | [Wuthering Heights](https://open.spotify.com/track/14ILPmvz8SimpiISsCB58J) | [ANGRA](https://open.spotify.com/artist/7IAXZaLTb6nkJr8RmVPn5y) | [Angels Cry](https://open.spotify.com/album/0d2Els0A5zzfPMqY6TkqmS) | 4:39 |
-| 58 | [Once](https://open.spotify.com/track/34fv3psKQOOwWZBRxoIF4I) | [Liam Gallagher](https://open.spotify.com/artist/6sN51vEARnAAdBw1IKZ8Q9) | [Why Me? Why Not\. \(Deluxe Edition\)](https://open.spotify.com/album/6iInyjotj1rYpx3vbX0MxX) | 3:33 |
-| 59 | [Patience](https://open.spotify.com/track/0cMyMeOTBeweBZRfP6MJ6e) | [Chris Cornell](https://open.spotify.com/artist/0XHiH53dHrvbwfjYM7en7I) | [No One Sings Like You Anymore](https://open.spotify.com/album/50CtNizqlxOXeHICmNwc45) | 4:13 |
+| 58 | [Patience](https://open.spotify.com/track/0cMyMeOTBeweBZRfP6MJ6e) | [Chris Cornell](https://open.spotify.com/artist/0XHiH53dHrvbwfjYM7en7I) | [No One Sings Like You Anymore](https://open.spotify.com/album/50CtNizqlxOXeHICmNwc45) | 4:13 |
+| 59 | [Once](https://open.spotify.com/track/34fv3psKQOOwWZBRxoIF4I) | [Liam Gallagher](https://open.spotify.com/artist/6sN51vEARnAAdBw1IKZ8Q9) | [Why Me? Why Not\. \(Deluxe Edition\)](https://open.spotify.com/album/6iInyjotj1rYpx3vbX0MxX) | 3:33 |
 | 60 | [Snuff \(Live in London, '16\)](https://open.spotify.com/track/3auN63rMDBPfrvuer0MOCi) | [Corey Taylor](https://open.spotify.com/artist/0nhDd1RWjZ6SDV1Vg1Ku2Q) | [CMF2B..\. or Not 2B](https://open.spotify.com/album/3nt0yioggbZPw3S4lCo5KD) | 4:26 |
 | 61 | [Don't Wanna Go Home Tonight](https://open.spotify.com/track/3I3FSs3C05QUs3r8fSdSeQ) | [Three Days Grace](https://open.spotify.com/artist/2xiIXseIJcq3nG7C8fHeBj) | [Alienation](https://open.spotify.com/album/3qNCqYQyWvvgTapGWLTQsk) | 3:31 |
 | 62 | [sTraNgeRs](https://open.spotify.com/track/5fpq1wF8xa5tSSlcKHdmGQ) | [Bring Me The Horizon](https://open.spotify.com/artist/1Ffb6ejR6Fe5IamqA5oRUF) | [sTraNgeRs](https://open.spotify.com/album/55LIhZNcBHzrjNZ89I0IRc) | 3:15 |
 | 63 | [twin flame](https://open.spotify.com/track/4pR5ZEROnKQpJttWNn5er6) | [mgk](https://open.spotify.com/artist/6TIYQ3jFPwQSRmorSezPxX) | [mainstream sellout](https://open.spotify.com/album/3sKZHtQoq3tPtkXbT8PJAc) | 3:59 |
 | 64 | [Don't Tell Me \(feat\. Ann Wilson\)](https://open.spotify.com/track/54gHtLZx6LzToQBuHmIQHc) | [Disturbed](https://open.spotify.com/artist/3TOqt5oJwL9BE2NG9MEwDa), [Ann Wilson](https://open.spotify.com/artist/4lPDIYPFDs5gpcToUczJDs) | [Divisive](https://open.spotify.com/album/10y8DNZXtoHqW8NHo9eeR9) | 4:31 |
-| 65 | [Hesitate](https://open.spotify.com/track/0vgpbEfkcUF09VNkcrQRWi) | [Stone Sour](https://open.spotify.com/artist/49qiE8dj4JuNdpYGRPdKbF) | [Audio Secrecy \(Special Edition\)](https://open.spotify.com/album/0rhgCL7z1RROeZdEZKpAEK) | 4:16 |
+| 65 | [Never There](https://open.spotify.com/track/3ujzd7pcdAhILCnS3oGbaU) | [Sum 41](https://open.spotify.com/artist/0qT79UgT5tY4yudH9VfsdT) | [Order In Decline](https://open.spotify.com/album/7j11BWRSLFBFUVR4EPG6WD) | 4:20 |
 | 66 | [Watch Over You](https://open.spotify.com/track/7kxfWvj6u9oWQ5C36kMtGb) | [Alter Bridge](https://open.spotify.com/artist/4DWX7u8BV0vZIQSpJQQDWU) | [Blackbird](https://open.spotify.com/album/21lOBQT94kjWSiYQbpm3RG) | 4:19 |
-| 67 | [Never There](https://open.spotify.com/track/3ujzd7pcdAhILCnS3oGbaU) | [Sum 41](https://open.spotify.com/artist/0qT79UgT5tY4yudH9VfsdT) | [Order In Decline](https://open.spotify.com/album/7j11BWRSLFBFUVR4EPG6WD) | 4:20 |
+| 67 | [Hesitate](https://open.spotify.com/track/0vgpbEfkcUF09VNkcrQRWi) | [Stone Sour](https://open.spotify.com/artist/49qiE8dj4JuNdpYGRPdKbF) | [Audio Secrecy \(Special Edition\)](https://open.spotify.com/album/0rhgCL7z1RROeZdEZKpAEK) | 4:16 |
 | 68 | [Black Gives Way To Blue](https://open.spotify.com/track/2qLVgbR1AkdVteaeBCg2gL) | [Alice In Chains](https://open.spotify.com/artist/64tNsm6TnZe2zpcMVMOoHL) | [Black Gives Way To Blue](https://open.spotify.com/album/4puIIbtVV70tew9msnAEUY) | 3:03 |
 | 69 | [Fuego de Febrero](https://open.spotify.com/track/5Z6csaSbXqcgJKCDlSmJq7) | [El Plan De La Mariposa](https://open.spotify.com/artist/3LY3yBRRL9yxCZxaxkdUir) | [CORRENTADA](https://open.spotify.com/album/6HSNjzGTNi6esXjAAZrwHq) | 3:34 |
 | 70 | [You Do Something To Me](https://open.spotify.com/track/2dINjMxChoALja13fOn99R) | [Paul Weller](https://open.spotify.com/artist/7Lf3LOZp3U3u2f6cWMd3AH) | [Stanley Road](https://open.spotify.com/album/6AchAV6b4UKi1fZK3Q1aWo) | 3:38 |
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXs1L3AC0Xio.md) - [plain]
 | 74 | [Te Encontré \- Acústico](https://open.spotify.com/track/1PmFaxQzdTUC51slAWLMah) | [Ciro y los Persas](https://open.spotify.com/artist/2Eo4Yaukt9d6dnZrY5hQKi) | [Guerras \(Un Viaje en el Tiempo\)](https://open.spotify.com/album/5valABXwSLEulE3y4CMSWy) | 3:14 |
 | 75 | [Times Like These](https://open.spotify.com/track/6bo13cPb5M0B6LhQEl0A3E) | [Five Finger Death Punch](https://open.spotify.com/artist/5t28BP42x2axFnqOOMg3CM) | [AfterLife](https://open.spotify.com/album/2xO5zlCGNyap7Jx1ED3HgG) | 3:29 |
 
-Snapshot ID: `AAAAABzES8PD4Zl4C53xpPM6IdBCejnu`
+Snapshot ID: `AAAAAEx7gdiO8KSnM2hve0skx36uZIgj`

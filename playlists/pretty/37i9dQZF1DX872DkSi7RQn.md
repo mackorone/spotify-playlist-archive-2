@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX872DkSi7RQn.md) - [plain]
 
 > The IDs that got us here\. \#Spotify20
 
-[Spotify](https://open.spotify.com/user/spotify) - 6,631 likes - 95 songs - 7 hr 52 min
+[Spotify](https://open.spotify.com/user/spotify) - 6,637 likes - 95 songs - 7 hr 52 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -22,8 +22,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX872DkSi7RQn.md) - [plain]
 | 12 | [Starry Night \- Edit](https://open.spotify.com/track/6FwPQVdtjwfORrrFkpGhrz) | [Peggy Gou](https://open.spotify.com/artist/2mLA48B366zkELXYx7hcDN) | [Starry Night](https://open.spotify.com/album/0bYW9weJ7SXRaBFbWuBQeI) | 3:53 |
 | 13 | [Like A Fool](https://open.spotify.com/track/5wTv501Kl9wLABLwHo11RJ) | [Crazy P](https://open.spotify.com/artist/6jOz2B9qeID4dLP1o8bFGf) | [Walk Dance Talk Sing](https://open.spotify.com/album/2xHHmfzza35KfhlgOOc3y4) | 5:05 |
 | 14 | [Serotonin Moonbeams](https://open.spotify.com/track/5W9KXaUHasNgdram95MDLN) | [The Blessed Madonna](https://open.spotify.com/artist/4TvhRzxIL1le2PWCeUqxQw), [Uffie](https://open.spotify.com/artist/2s6lxOYvvCvzpHtd3VyuMj) | [Godspeed](https://open.spotify.com/album/0WGs5bQx4HefdubdFh1kfE) | 4:47 |
-| 15 | [Both Of Us \- Edit](https://open.spotify.com/track/75rGONmoi48LLYBFaGiYsv) | [Jayda G](https://open.spotify.com/artist/3NKVm2Jedcf6ibJr6pMUVx) | [Both Of Us](https://open.spotify.com/album/6tKMQ3udmP1PErZYHKXnqA) | 3:49 |
-| 16 | [Good Lies](https://open.spotify.com/track/1ZnghCVtXCrtmKJH32z4UK) | [Overmono](https://open.spotify.com/artist/01PnN11ovfen6xUOHfNpn3) | [Good Lies](https://open.spotify.com/album/7m2yEFYxnjmEyq7IXa9sXp) | 2:40 |
+| 15 | [Good Lies](https://open.spotify.com/track/1ZnghCVtXCrtmKJH32z4UK) | [Overmono](https://open.spotify.com/artist/01PnN11ovfen6xUOHfNpn3) | [Good Lies](https://open.spotify.com/album/7m2yEFYxnjmEyq7IXa9sXp) | 2:40 |
+| 16 | [Both Of Us \- Edit](https://open.spotify.com/track/75rGONmoi48LLYBFaGiYsv) | [Jayda G](https://open.spotify.com/artist/3NKVm2Jedcf6ibJr6pMUVx) | [Both Of Us](https://open.spotify.com/album/6tKMQ3udmP1PErZYHKXnqA) | 3:49 |
 | 17 | [Fake ID](https://open.spotify.com/track/1UgZXifaKYZCHtcXp9653a) | [Riton](https://open.spotify.com/artist/7i9j813KFoSBMldGqlh2Z1), [Kah\-Lo](https://open.spotify.com/artist/59iOp415oyqGlBHyAhu4z3) | [Foreign Ororo \(Special Edition\)](https://open.spotify.com/album/5oKOIiqFThV4doCMFA5Y4z) | 4:06 |
 | 18 | [Imithandazo \(feat\. Young Stunna, DJ Maphorisa, Sizwe Alakine & Umthakathi Kush\)](https://open.spotify.com/track/6Kijtp0DB6VwcoJIw7PJ9W) | [Kabza De Small](https://open.spotify.com/artist/1bNjWBFWsAAzZSR59lRdpR), [Mthunzi](https://open.spotify.com/artist/2qixIA7qPFts4yN1Av017D), [DJ Maphorisa](https://open.spotify.com/artist/0mMqD2uqwvCjFvlzo6ayGi), [Young Stunna](https://open.spotify.com/artist/6WQFTzqYHmh8Ph2X0L0QLQ), [Sizwe Alakine](https://open.spotify.com/artist/7Hb7ZlUE4ByWsV1Rkc4Uo2), [Umthakathi Kush](https://open.spotify.com/artist/4DFFwNev2bjj7QGVTxzuwM) | [Isimo](https://open.spotify.com/album/4fHsKSIC0nL0cJimyaDT21) | 5:51 |
 | 19 | [Immaterial](https://open.spotify.com/track/7ub14NqqyR1MDUTXyFBTzO) | [SOPHIE](https://open.spotify.com/artist/5a2w2tgpLwv26BYJf2qYwu) | [OIL OF EVERY PEARL'S UN\-INSIDES](https://open.spotify.com/album/6Rv8V4QeLgfEC01czqJsiI) | 3:52 |
@@ -62,8 +62,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX872DkSi7RQn.md) - [plain]
 | 52 | [Operator \- DJ Koze's Disco Edit](https://open.spotify.com/track/37ZDfygEHF7SMoYGDqM1uv) | [Låpsley](https://open.spotify.com/artist/27ze6hCgfr3HcDZAHY60pg), [DJ Koze](https://open.spotify.com/artist/1kR99O4MgSTasyeJh8UFCg) | [Operator \(DJ Koze's 12 inch Extended Disco Versions\)](https://open.spotify.com/album/2k4POCag6LGhJ83pgcub52) | 5:08 |
 | 53 | [Full Circle](https://open.spotify.com/track/4XK1a9vdsiDmhvdkFzGCQh) | [George FitzGerald](https://open.spotify.com/artist/3KOHpygRuo1ruQAbEneR3t), [Boxed In](https://open.spotify.com/artist/6bxYUbMVzrPTOmzwey8Hgh) | [Fading Love](https://open.spotify.com/album/1v6BipCE7YBMOBcAN0j0EH) | 4:52 |
 | 54 | [We Dance Again](https://open.spotify.com/track/2q1qOoQjYbqcr2WG8X9qQe) | [Black Coffee](https://open.spotify.com/artist/6wMr4zKPrrR0UVz08WtUWc), [Nakhana](https://open.spotify.com/artist/3jDsZraEOo7w90IVoapr3A) | [Pieces Of Me](https://open.spotify.com/album/52vGsPczTADGUWxavc9S9q) | 7:26 |
-| 55 | [Bad Kingdom](https://open.spotify.com/track/52XjrfqvrxaMtjCDYEKkXN) | [Moderat](https://open.spotify.com/artist/2exkZbmNqMKnT8LRWuxWgy) | [II](https://open.spotify.com/album/1udCeAJjxGO8BuhDbpvVJv) | 4:22 |
-| 56 | [Sleepless \- Stephan Bodzin Remix](https://open.spotify.com/track/124AEdOhexxJZ517ESVlzy) | [Pan\-Pot](https://open.spotify.com/artist/6OQOvP7RAdmAKVXXQqD0Se), [Stephan Bodzin](https://open.spotify.com/artist/2nq2BeSbzExGAv3Y4HgUf7) | [The Other Remixes](https://open.spotify.com/album/3rC6OKru4QhBTOcSvS0G2a) | 9:00 |
+| 55 | [Sleepless \- Stephan Bodzin Remix](https://open.spotify.com/track/124AEdOhexxJZ517ESVlzy) | [Pan\-Pot](https://open.spotify.com/artist/6OQOvP7RAdmAKVXXQqD0Se), [Stephan Bodzin](https://open.spotify.com/artist/2nq2BeSbzExGAv3Y4HgUf7) | [The Other Remixes](https://open.spotify.com/album/3rC6OKru4QhBTOcSvS0G2a) | 9:00 |
+| 56 | [Bad Kingdom](https://open.spotify.com/track/52XjrfqvrxaMtjCDYEKkXN) | [Moderat](https://open.spotify.com/artist/2exkZbmNqMKnT8LRWuxWgy) | [II](https://open.spotify.com/album/1udCeAJjxGO8BuhDbpvVJv) | 4:22 |
 | 57 | [SLIME](https://open.spotify.com/track/5alFLxnNmBmTdNM6Oq0nqD) | [Shygirl](https://open.spotify.com/artist/3M3wTTCDwicRubwMyHyEDy) | [SLIME](https://open.spotify.com/album/1VCGsWYP7dY5fLXUrEPG6L) | 2:39 |
 | 58 | [Coma Cat \- Radio Edit](https://open.spotify.com/track/6QSyeJYrO2UHVZU46pMTkr) | [Tensnake](https://open.spotify.com/artist/75nC6MXUalYZSOd7OfNkwq) | [Coma Cat](https://open.spotify.com/album/2sh7pth3akQwEILnbrgT9i) | 2:57 |
 | 59 | [Condition](https://open.spotify.com/track/1DDLcSW4CJOAo2IcoyH3Ol) | [SWIM](https://open.spotify.com/artist/1OxXLWb0AXEgOfTUzlDg3V) | [In Circles](https://open.spotify.com/album/27P7tEDJJfKCZXqrLrw4yr) | 3:36 |
@@ -104,4 +104,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX872DkSi7RQn.md) - [plain]
 | 94 | [When A Fire Starts To Burn](https://open.spotify.com/track/7cyUppcNj7ojpzPlB0CPW9) | [Disclosure](https://open.spotify.com/artist/6nS5roXSAGhTGr34W6n7Et) | [Settle](https://open.spotify.com/album/1ZFGRj11NnZHos8DUbbpF1) | 4:43 |
 | 95 | [Beg \- Hot Since 82 Future Mix](https://open.spotify.com/track/4RjnbnZ6xGHDYFbywiiQ3I) | [Yousef](https://open.spotify.com/artist/6qIx4vKCCV9aW1CvTR3GES), [Hot Since 82](https://open.spotify.com/artist/1tRBmMtER4fGrzrt8O9VpS) | [Beg](https://open.spotify.com/album/00Pe7GWhQLFpqv6Ir1zW86) | 6:50 |
 
-Snapshot ID: `AAAAACHpd2HMcdhvLghXhC7p6CsmsJVO`
+Snapshot ID: `AAAAACvJ04b4iR99qvXnTsqyuAlOJoEH`

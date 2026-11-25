@@ -4,7 +4,7 @@
 
 > This is Bella Kay\. The essential tracks, all in one playlist.
 
-25 songs - 1 hr 19 min
+26 songs - 1 hr 21 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -16,6 +16,7 @@
 | [i deserve better.](https://open.spotify.com/track/243hKd6kjvVuFBWLzgK35P) | [Bella Kay](https://open.spotify.com/artist/4Z8MrrKMBHMPa8d04Ivur8) | [My Reckless Abandon](https://open.spotify.com/album/3Es4jQPv1emwM2zP1ZisIM) | 3:17 | 2026-07-15 |  |
 | [iloveitiloveitiloveit](https://open.spotify.com/track/5IMpnpD0tQVcqWlVIgtAtV) | [Bella Kay](https://open.spotify.com/artist/4Z8MrrKMBHMPa8d04Ivur8) | [iloveitiloveitiloveit](https://open.spotify.com/album/6XxrC3tz3EuqoW5RMbYzaF) | 3:03 | 2026-06-25 |  |
 | [karaoke](https://open.spotify.com/track/2iLaE22r3gShJyFfJ8Zzbc) | [Bella Kay](https://open.spotify.com/artist/4Z8MrrKMBHMPa8d04Ivur8) | [My Reckless Abandon](https://open.spotify.com/album/3Es4jQPv1emwM2zP1ZisIM) | 3:45 | 2026-07-15 | 2026-08-24 |
+| [Like a Dog](https://open.spotify.com/track/4uedQsQUuamDPlCRAct8jZ) | [Bella Kay](https://open.spotify.com/artist/4Z8MrrKMBHMPa8d04Ivur8) | [Like a Dog](https://open.spotify.com/album/3nclAHvS4wQIIwNbiFT4Hi) | 2:42 | 2026-11-25 |  |
 | [Lonely](https://open.spotify.com/track/0brOhzwJscn8Bw5q0o2YZ6) | [Bella Kay](https://open.spotify.com/artist/4Z8MrrKMBHMPa8d04Ivur8) | [Lonely](https://open.spotify.com/album/7gYdoWfDKNMnKTjuJZKUTu) | 3:18 | 2026-06-25 |  |
 | [marrow](https://open.spotify.com/track/4otSEM5ACfsHw2YYVh0Yui) | [Bella Kay](https://open.spotify.com/artist/4Z8MrrKMBHMPa8d04Ivur8) | [My Reckless Abandon](https://open.spotify.com/album/3Es4jQPv1emwM2zP1ZisIM) | 3:12 | 2026-07-15 | 2026-09-05 |
 | [mindf\*ck](https://open.spotify.com/track/2vSIq4Upi6N47ENniIBNdt) | [Bella Kay](https://open.spotify.com/artist/4Z8MrrKMBHMPa8d04Ivur8) | [My Reckless Abandon](https://open.spotify.com/album/3Es4jQPv1emwM2zP1ZisIM) | 3:20 | 2026-07-15 |  |

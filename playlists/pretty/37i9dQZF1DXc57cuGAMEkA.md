@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXc57cuGAMEkA.md) - [plain]
 
 > 洋楽を中心に今週の新曲をチェック。Dua Lipa, Lana Del Rey, Justice, LISA and more!
 
-[Spotify](https://open.spotify.com/user/spotify) - 175,968 likes - 80 songs - 4 hr 20 min
+[Spotify](https://open.spotify.com/user/spotify) - 175,951 likes - 80 songs - 4 hr 20 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -18,7 +18,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXc57cuGAMEkA.md) - [plain]
 | 8 | [GiiiRIP](https://open.spotify.com/track/4i115Ijs5MbfNBYpNsM0Sq) | [BIGBANG](https://open.spotify.com/artist/4Kxlr1PRlDKEB0ekOCyHgX) | [GiiiRIP](https://open.spotify.com/album/4569jF2yYaWMvXuj3dDvFD) | 2:44 |
 | 9 | [No Punctuation](https://open.spotify.com/track/6eZdZWIjhIGU7OR0FhmvqJ) | [beabadoobee](https://open.spotify.com/artist/35l9BRT7MXmM8bv2WDQiyB) | [No Punctuation](https://open.spotify.com/album/6uQ5idHs3nbfHwh6U1sims) | 3:17 |
 | 10 | [Sun Showers \(From "The Angry Birds Movie 3”\)](https://open.spotify.com/track/43LLlCRgC6fYYqIaXGLmpd) | [JISOO](https://open.spotify.com/artist/6UZ0ba50XreR4TM8u322gs) | [Sun Showers \(From "The Angry Birds Movie 3”\)](https://open.spotify.com/album/4cNtPGMuwAtNKCN7NT7dMj) | 2:51 |
-| 11 | [Starting From Zero \(feat\. Michael McDonald\)](https://open.spotify.com/track/171rxWDjFvjPeFjSHF4WS5) | [Justice](https://open.spotify.com/artist/1gR0gsQYfi6joyO1dlp76N), [Michael McDonald](https://open.spotify.com/artist/24hJWbo98sH84tb0nkeaqy) | [Grand Theft Auto VI: The Album](https://open.spotify.com/album/5BYKG4MHfySZthe2W6r7n4) | 3:09 |
+| 11 | [Starting From Zero \(feat\. Michael McDonald\)](https://open.spotify.com/track/171rxWDjFvjPeFjSHF4WS5) | [Justice](https://open.spotify.com/artist/1gR0gsQYfi6joyO1dlp76N), [Michael McDonald](https://open.spotify.com/artist/24hJWbo98sH84tb0nkeaqy) | [Grand Theft Auto VI: The Album](https://open.spotify.com/album/5BYKG4MHfySZthe2W6r7n4) | 3:10 |
 | 12 | [Whispers](https://open.spotify.com/track/4JQbBJYPjnQjqmTeuNb4VK) | [Erika de Casier](https://open.spotify.com/artist/1nIJEqPyIj5qutlgWNmQB0) | [Whispers](https://open.spotify.com/album/5Mo6eSAVWITxgvIjfAeLF7) | 3:44 |
 | 13 | [The Vacation Song](https://open.spotify.com/track/65m7niEXFiqqUB7spmOPGX) | [Kacey Musgraves](https://open.spotify.com/artist/70kkdajctXSbqSMJbQO424) | [The Vacation Song](https://open.spotify.com/album/5hitACdfYcvfAKu1uZqiCK) | 3:27 |
 | 14 | [African Love Story \(From Children of Blood and Bone\)](https://open.spotify.com/track/1hZZUYSBu8xpyTGxgsI8Wn) | [Tems](https://open.spotify.com/artist/687cZJR45JO7jhk1LHIbgq), [Children of Blood and Bone \(Original Motion Picture Soundtrack\)](https://open.spotify.com/artist/3MZ6lG1KXPRbhjCuAxGr0x) | [African Love Story \(From Children of Blood and Bone\)](https://open.spotify.com/album/3gatJjBKQfFZlRKLW0TUX6) | 3:02 |
@@ -89,4 +89,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXc57cuGAMEkA.md) - [plain]
 | 79 | [transmitter park](https://open.spotify.com/track/576K97eUCsvI11BrVeke6L) | [SOAK](https://open.spotify.com/artist/4PLsMEk2DCRVlVL2a9aZAv) | [transmitter park](https://open.spotify.com/album/31ZC0ogwjW2blrxiYc2C5s) | 4:19 |
 | 80 | [SHADY SHADY](https://open.spotify.com/track/5Qd7BEDjCSpdJak3MwdNfo) | [Ganges](https://open.spotify.com/artist/7gtqMRAdH6DvPm2gdoI17Q) | [SHADY SHADY](https://open.spotify.com/album/73RKF6BpNKDuLxGxPnLneA) | 2:49 |
 
-Snapshot ID: `AAAAAND9sV0UZVk8+0m1zjbCOsyODtxJ`
+Snapshot ID: `AAAAAH7bPzRsnim9VtLapXHoMYrHsxyi`

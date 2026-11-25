@@ -1,12 +1,12 @@
 {
   "description": "\u00a1Esto s\u00ed es Bachata! Portada: Manuel Turizo",
-  "num_followers": 276713,
+  "num_followers": 276744,
   "original_name": "Bachat\u00e9ame",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAHT80nhV79QpGavYm5NH5ssLNmEN",
+  "snapshot_id": "AAAAABdoXoJpCXOQ0Wg/LhtX3VyQ71Ev",
   "tracks": [
     {
       "added_at": "2024-08-23 04:59:00",
@@ -647,22 +647,6 @@
     {
       "added_at": "2024-08-23 04:59:00",
       "album": {
-        "name": "El Amor",
-        "url": "https://open.spotify.com/album/47hm8FIBjBtP5pYjO0fJUq"
-      },
-      "artists": [
-        {
-          "name": "Zacarias Ferreira",
-          "url": "https://open.spotify.com/artist/1LKPL2O3vA3ozNsmshDg3o"
-        }
-      ],
-      "duration_ms": 216040,
-      "name": "Ya No Te Buscar\u00e9",
-      "url": "https://open.spotify.com/track/1CIUos10Or0tFaf4ZhaSfW"
-    },
-    {
-      "added_at": "2024-08-23 04:59:00",
-      "album": {
         "name": "A la Mar",
         "url": "https://open.spotify.com/album/5afHhk03AfHR76hfjRNobE"
       },
@@ -675,6 +659,22 @@
       "duration_ms": 205973,
       "name": "Te So\u00f1\u00e9 - Bonus Track",
       "url": "https://open.spotify.com/track/4lfwM9i07jPYy2iHyBmHTP"
+    },
+    {
+      "added_at": "2024-08-23 04:59:00",
+      "album": {
+        "name": "El Amor",
+        "url": "https://open.spotify.com/album/47hm8FIBjBtP5pYjO0fJUq"
+      },
+      "artists": [
+        {
+          "name": "Zacarias Ferreira",
+          "url": "https://open.spotify.com/artist/1LKPL2O3vA3ozNsmshDg3o"
+        }
+      ],
+      "duration_ms": 216040,
+      "name": "Ya No Te Buscar\u00e9",
+      "url": "https://open.spotify.com/track/1CIUos10Or0tFaf4ZhaSfW"
     },
     {
       "added_at": "2024-08-23 04:59:00",
@@ -831,22 +831,6 @@
     {
       "added_at": "2024-08-23 04:59:00",
       "album": {
-        "name": "Bachata A Su Tiempo",
-        "url": "https://open.spotify.com/album/0aYodOFwKkkWLymZj4yBOK"
-      },
-      "artists": [
-        {
-          "name": "Alex Bueno",
-          "url": "https://open.spotify.com/artist/7esCoLcCoCK7FPa9casAH4"
-        }
-      ],
-      "duration_ms": 235000,
-      "name": "Busca Un Confidente",
-      "url": "https://open.spotify.com/track/6B52JCVw2F1ZjlkNjzq2Rc"
-    },
-    {
-      "added_at": "2024-08-23 04:59:00",
-      "album": {
         "name": "Don Juan",
         "url": "https://open.spotify.com/album/3Fk8yQvPlCHgwR2pNhEIRA"
       },
@@ -879,18 +863,18 @@
     {
       "added_at": "2024-08-23 04:59:00",
       "album": {
-        "name": "Obl\u00edgame",
-        "url": "https://open.spotify.com/album/0YGZrIcgnUlZ1v4TxnuFxm"
+        "name": "Bachata A Su Tiempo",
+        "url": "https://open.spotify.com/album/0aYodOFwKkkWLymZj4yBOK"
       },
       "artists": [
         {
-          "name": "H\u00e9ctor Acosta \"El Torito\"",
-          "url": "https://open.spotify.com/artist/4TCAAIMmeZXCTVlHUsicOn"
+          "name": "Alex Bueno",
+          "url": "https://open.spotify.com/artist/7esCoLcCoCK7FPa9casAH4"
         }
       ],
-      "duration_ms": 233706,
-      "name": "Me Duele La Cabeza",
-      "url": "https://open.spotify.com/track/3rIgo725niu2yb3WNx62Jt"
+      "duration_ms": 235000,
+      "name": "Busca Un Confidente",
+      "url": "https://open.spotify.com/track/6B52JCVw2F1ZjlkNjzq2Rc"
     },
     {
       "added_at": "2024-08-23 04:59:00",
@@ -907,6 +891,22 @@
       "duration_ms": 284706,
       "name": "La Pared",
       "url": "https://open.spotify.com/track/6OXuPBJvkktBQ5I0B3wLgR"
+    },
+    {
+      "added_at": "2024-08-23 04:59:00",
+      "album": {
+        "name": "Obl\u00edgame",
+        "url": "https://open.spotify.com/album/0YGZrIcgnUlZ1v4TxnuFxm"
+      },
+      "artists": [
+        {
+          "name": "H\u00e9ctor Acosta \"El Torito\"",
+          "url": "https://open.spotify.com/artist/4TCAAIMmeZXCTVlHUsicOn"
+        }
+      ],
+      "duration_ms": 233706,
+      "name": "Me Duele La Cabeza",
+      "url": "https://open.spotify.com/track/3rIgo725niu2yb3WNx62Jt"
     },
     {
       "added_at": "2024-08-23 04:59:00",
@@ -1047,6 +1047,26 @@
     {
       "added_at": "2024-08-23 04:59:00",
       "album": {
+        "name": "Mi Pecadito",
+        "url": "https://open.spotify.com/album/2YsZcOI0c1Eyo0JlDAGwXD"
+      },
+      "artists": [
+        {
+          "name": "Mike Bah\u00eda",
+          "url": "https://open.spotify.com/artist/1phfTBIocBW3UwqcYjaEN6"
+        },
+        {
+          "name": "Greeicy",
+          "url": "https://open.spotify.com/artist/5dbaLmK5SHLLg8Z4CcTJpX"
+        }
+      ],
+      "duration_ms": 197076,
+      "name": "Mi Pecadito",
+      "url": "https://open.spotify.com/track/5yrbKnKL9mKC61StX948w1"
+    },
+    {
+      "added_at": "2024-08-23 04:59:00",
+      "album": {
         "name": "Morir Solo",
         "url": "https://open.spotify.com/album/6knKxseycCjKl3KVZizjbb"
       },
@@ -1075,26 +1095,6 @@
       "duration_ms": 242320,
       "name": "Me Voy - Bachata",
       "url": "https://open.spotify.com/track/1wfxSvHq3cdzmOHZejMkci"
-    },
-    {
-      "added_at": "2024-08-23 04:59:00",
-      "album": {
-        "name": "Mi Pecadito",
-        "url": "https://open.spotify.com/album/2YsZcOI0c1Eyo0JlDAGwXD"
-      },
-      "artists": [
-        {
-          "name": "Mike Bah\u00eda",
-          "url": "https://open.spotify.com/artist/1phfTBIocBW3UwqcYjaEN6"
-        },
-        {
-          "name": "Greeicy",
-          "url": "https://open.spotify.com/artist/5dbaLmK5SHLLg8Z4CcTJpX"
-        }
-      ],
-      "duration_ms": 197076,
-      "name": "Mi Pecadito",
-      "url": "https://open.spotify.com/track/5yrbKnKL9mKC61StX948w1"
     },
     {
       "added_at": "2024-08-23 04:59:00",
@@ -1459,22 +1459,6 @@
     {
       "added_at": "2024-08-23 04:59:00",
       "album": {
-        "name": "Bachatas Para La Historia",
-        "url": "https://open.spotify.com/album/3XpFWkLUNxJtOFRlGW1zKU"
-      },
-      "artists": [
-        {
-          "name": "Marino Castellanos",
-          "url": "https://open.spotify.com/artist/5ldlRSivvEgLKIUlrSX3Dz"
-        }
-      ],
-      "duration_ms": 210991,
-      "name": "Eso da Pa To",
-      "url": "https://open.spotify.com/track/6CNLJne75iQxfVfcqsTGzN"
-    },
-    {
-      "added_at": "2024-08-23 04:59:00",
-      "album": {
         "name": "Vine a Decirte Adios",
         "url": "https://open.spotify.com/album/5QShP54MICYu2VqkwfEnGm"
       },
@@ -1487,6 +1471,22 @@
       "duration_ms": 277453,
       "name": "Vine A Decirte Adios",
       "url": "https://open.spotify.com/track/40dliSTZf3ABIqfvenH9TI"
+    },
+    {
+      "added_at": "2024-08-23 04:59:00",
+      "album": {
+        "name": "Bachatas Para La Historia",
+        "url": "https://open.spotify.com/album/3XpFWkLUNxJtOFRlGW1zKU"
+      },
+      "artists": [
+        {
+          "name": "Marino Castellanos",
+          "url": "https://open.spotify.com/artist/5ldlRSivvEgLKIUlrSX3Dz"
+        }
+      ],
+      "duration_ms": 210991,
+      "name": "Eso da Pa To",
+      "url": "https://open.spotify.com/track/6CNLJne75iQxfVfcqsTGzN"
     },
     {
       "added_at": "2024-08-23 04:59:00",

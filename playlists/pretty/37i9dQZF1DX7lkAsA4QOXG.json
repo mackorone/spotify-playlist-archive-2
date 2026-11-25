@@ -1,12 +1,12 @@
 {
   "description": "Covers of classic songs with a touch of Jazz. Cover: Joey Alexander",
-  "num_followers": 161262,
+  "num_followers": 161280,
   "original_name": "Jazz Covers",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAJjplCHcDseQgJBOW47qeMH/qBi0",
+  "snapshot_id": "AAAAAB7fCvieggY/3B5lX/7ExCu5KUWk",
   "tracks": [
     {
       "added_at": "2025-03-13 14:12:56",
@@ -383,22 +383,6 @@
     {
       "added_at": "2025-03-13 14:12:56",
       "album": {
-        "name": "Flowers",
-        "url": "https://open.spotify.com/album/71mom1riIUOTcVZLgLhcD2"
-      },
-      "artists": [
-        {
-          "name": "Kaiak",
-          "url": "https://open.spotify.com/artist/3ib0ROvqntFv8PPQ2CIlso"
-        }
-      ],
-      "duration_ms": 176720,
-      "name": "Flowers",
-      "url": "https://open.spotify.com/track/1vNN2Zaps5wRToq3poqAV3"
-    },
-    {
-      "added_at": "2025-03-13 14:12:56",
-      "album": {
         "name": "Sunday Morning",
         "url": "https://open.spotify.com/album/6yYoYbMFB4I37AgBBsbKMy"
       },
@@ -415,6 +399,22 @@
       "duration_ms": 173253,
       "name": "A Hard Day's Night",
       "url": "https://open.spotify.com/track/3f3hT4I98nzIeqijasHcud"
+    },
+    {
+      "added_at": "2025-03-13 14:12:56",
+      "album": {
+        "name": "Flowers",
+        "url": "https://open.spotify.com/album/71mom1riIUOTcVZLgLhcD2"
+      },
+      "artists": [
+        {
+          "name": "Kaiak",
+          "url": "https://open.spotify.com/artist/3ib0ROvqntFv8PPQ2CIlso"
+        }
+      ],
+      "duration_ms": 176720,
+      "name": "Flowers",
+      "url": "https://open.spotify.com/track/1vNN2Zaps5wRToq3poqAV3"
     },
     {
       "added_at": "2025-03-13 14:12:56",
@@ -819,26 +819,6 @@
     {
       "added_at": "2025-03-13 14:12:56",
       "album": {
-        "name": "Champagne & Declarations",
-        "url": "https://open.spotify.com/album/5AY7Msz86fX5pNuQtHtPL7"
-      },
-      "artists": [
-        {
-          "name": "Nicole Zuraitis",
-          "url": "https://open.spotify.com/artist/7G5hZmmEd71pbEqiBNWp8A"
-        },
-        {
-          "name": "Thana Alexa",
-          "url": "https://open.spotify.com/artist/6jvFT2wqxaFL9lcPTrzjyV"
-        }
-      ],
-      "duration_ms": 277411,
-      "name": "Walk On The Wildside",
-      "url": "https://open.spotify.com/track/7FTnotwGzyx6fdVYfkxuTT"
-    },
-    {
-      "added_at": "2025-03-13 14:12:56",
-      "album": {
         "name": "A Modern Songbook",
         "url": "https://open.spotify.com/album/1AXxMgXOJfn5Qdnz7V9y1H"
       },
@@ -863,22 +843,22 @@
     {
       "added_at": "2025-03-13 14:12:56",
       "album": {
-        "name": "Stockholm Underground",
-        "url": "https://open.spotify.com/album/6Q2EuXcFJk2EDWpKPsBchl"
+        "name": "Champagne & Declarations",
+        "url": "https://open.spotify.com/album/5AY7Msz86fX5pNuQtHtPL7"
       },
       "artists": [
         {
-          "name": "Magnus Lindgren",
-          "url": "https://open.spotify.com/artist/1ai1y07cRSewaRoOsQ4BfN"
+          "name": "Nicole Zuraitis",
+          "url": "https://open.spotify.com/artist/7G5hZmmEd71pbEqiBNWp8A"
         },
         {
-          "name": "Nils Landgren",
-          "url": "https://open.spotify.com/artist/6B3ZWSop1mrJd71rwFozVP"
+          "name": "Thana Alexa",
+          "url": "https://open.spotify.com/artist/6jvFT2wqxaFL9lcPTrzjyV"
         }
       ],
-      "duration_ms": 303807,
-      "name": "A Whiter Shade of Pale",
-      "url": "https://open.spotify.com/track/5EQoSCrUMefedwvGUUl6ey"
+      "duration_ms": 277411,
+      "name": "Walk On The Wildside",
+      "url": "https://open.spotify.com/track/7FTnotwGzyx6fdVYfkxuTT"
     },
     {
       "added_at": "2025-03-13 14:12:56",
@@ -895,6 +875,26 @@
       "duration_ms": 187306,
       "name": "One Flight Down",
       "url": "https://open.spotify.com/track/211h8RfsBkSrbwXUP8EnsZ"
+    },
+    {
+      "added_at": "2025-03-13 14:12:56",
+      "album": {
+        "name": "Stockholm Underground",
+        "url": "https://open.spotify.com/album/6Q2EuXcFJk2EDWpKPsBchl"
+      },
+      "artists": [
+        {
+          "name": "Magnus Lindgren",
+          "url": "https://open.spotify.com/artist/1ai1y07cRSewaRoOsQ4BfN"
+        },
+        {
+          "name": "Nils Landgren",
+          "url": "https://open.spotify.com/artist/6B3ZWSop1mrJd71rwFozVP"
+        }
+      ],
+      "duration_ms": 303807,
+      "name": "A Whiter Shade of Pale",
+      "url": "https://open.spotify.com/track/5EQoSCrUMefedwvGUUl6ey"
     },
     {
       "added_at": "2025-03-13 14:12:56",
@@ -1363,6 +1363,22 @@
     {
       "added_at": "2025-03-13 14:12:56",
       "album": {
+        "name": "Strong",
+        "url": "https://open.spotify.com/album/49ZdyLXkMzzRE01tsrM61s"
+      },
+      "artists": [
+        {
+          "name": "Marco Locurcio",
+          "url": "https://open.spotify.com/artist/2RACMOQxnNns6xRkyhmrY4"
+        }
+      ],
+      "duration_ms": 263253,
+      "name": "Strong",
+      "url": "https://open.spotify.com/track/0iJhPjzqVlPsvmzwT8PRtF"
+    },
+    {
+      "added_at": "2025-03-13 14:12:56",
+      "album": {
         "name": "Only Love Can Break Your Heart",
         "url": "https://open.spotify.com/album/1E0PKpMCxtVth7DecWQfYk"
       },
@@ -1383,22 +1399,6 @@
       "duration_ms": 364626,
       "name": "Only Love Can Break Your Heart - Live",
       "url": "https://open.spotify.com/track/60LJcZ4RS3IDkp8KB3z6p9"
-    },
-    {
-      "added_at": "2025-03-13 14:12:56",
-      "album": {
-        "name": "Strong",
-        "url": "https://open.spotify.com/album/49ZdyLXkMzzRE01tsrM61s"
-      },
-      "artists": [
-        {
-          "name": "Marco Locurcio",
-          "url": "https://open.spotify.com/artist/2RACMOQxnNns6xRkyhmrY4"
-        }
-      ],
-      "duration_ms": 263253,
-      "name": "Strong",
-      "url": "https://open.spotify.com/track/0iJhPjzqVlPsvmzwT8PRtF"
     },
     {
       "added_at": "2025-03-13 14:12:56",

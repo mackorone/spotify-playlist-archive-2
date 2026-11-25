@@ -4,7 +4,7 @@
 
 > This is Billie Holiday\. The essential tracks, all in one playlist.
 
-69 songs - 3 hr 56 min
+70 songs - 4 hr 3 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -27,6 +27,7 @@
 | [East Of The Sun \(West Of The Moon\)](https://open.spotify.com/track/1zE0JZiHOBPlHwLsf4wBld) | [Billie Holiday](https://open.spotify.com/artist/1YzCsTRb22dQkh9lghPIrp) | [Solitude](https://open.spotify.com/album/4izD3SCRElbkO06i8yf4Zp) | 2:54 | 2026-04-16 | 2026-09-08 |
 | [Easy Living](https://open.spotify.com/track/0XsbCr34semDxq0ZX84BCh) | [Billie Holiday](https://open.spotify.com/artist/1YzCsTRb22dQkh9lghPIrp) | [Billie Holiday Love Songs](https://open.spotify.com/album/3MXpFQDq1cTE4WfGZDAsY4) | 3:01 | 2025-07-20 |  |
 | [Easy To Love](https://open.spotify.com/track/5FVAdaE6kYzs49jpQviM05) | [Billie Holiday](https://open.spotify.com/artist/1YzCsTRb22dQkh9lghPIrp) | [Solitude](https://open.spotify.com/album/4izD3SCRElbkO06i8yf4Zp) | 2:59 | 2025-07-20 |  |
+| [Embraceable You](https://open.spotify.com/track/6gMSKtyc2OXAh7qvMoMVKs) | [Billie Holiday](https://open.spotify.com/artist/1YzCsTRb22dQkh9lghPIrp) | [Body and Soul](https://open.spotify.com/album/3aJNsCTs6AlnGcLs2b6Rc3) | 6:45 | 2026-11-25 |  |
 | [Fine And Mellow](https://open.spotify.com/track/1QdQ4r05QWhtcTTXOgRtyA) | [Billie Holiday](https://open.spotify.com/artist/1YzCsTRb22dQkh9lghPIrp) | [Billie Holiday](https://open.spotify.com/album/4MkdTflpaaGGcXb5vtOYRs) | 3:16 | 2025-07-20 |  |
 | [Foolin' Myself \(with Teddy Wilson & His Orchestra\)](https://open.spotify.com/track/3nIpFMbuhstntUZT4FpuPG) | [Billie Holiday](https://open.spotify.com/artist/1YzCsTRb22dQkh9lghPIrp), [Teddy Wilson](https://open.spotify.com/artist/0tg5uVI4VjzZOFzBryJZii) | [A Musical Romance](https://open.spotify.com/album/4WmDWM4jSLl3EcJ716V1cu) | 2:59 | 2025-07-20 |  |
 | [Gloomy Sunday \(with Teddy Wilson & His Orchestra\) \- Take 1](https://open.spotify.com/track/41CHb7F7SXcmkj0h8wekeF) | [Billie Holiday](https://open.spotify.com/artist/1YzCsTRb22dQkh9lghPIrp), [Teddy Wilson](https://open.spotify.com/artist/0tg5uVI4VjzZOFzBryJZii) | [Lady Day: The Complete Billie Holiday On Columbia \(1933\-1944\)](https://open.spotify.com/album/7pBwUBRsdgtIyX7tGOmaoy) | 3:10 | 2025-09-12 |  |
@@ -52,7 +53,7 @@
 | [Lover, Come Back To Me](https://open.spotify.com/track/27SVIQdbsAqZkTqpEnNmQ5) | [Billie Holiday](https://open.spotify.com/artist/1YzCsTRb22dQkh9lghPIrp) | [Billie Holiday](https://open.spotify.com/album/4MkdTflpaaGGcXb5vtOYRs) | 3:15 | 2025-07-20 |  |
 | [Moonglow](https://open.spotify.com/track/1rUpHU45dBawthkWVugcQn) | [Billie Holiday](https://open.spotify.com/artist/1YzCsTRb22dQkh9lghPIrp) | [Solitude](https://open.spotify.com/album/4izD3SCRElbkO06i8yf4Zp) | 2:59 | 2025-07-20 |  |
 | [My Sweet Hunk O' Trash \- Single Version](https://open.spotify.com/track/7vVu4cjI5zfOMlQk4EuCwZ) | [Louis Armstrong](https://open.spotify.com/artist/19eLuQmk9aCobbVDHc6eek), [Billie Holiday](https://open.spotify.com/artist/1YzCsTRb22dQkh9lghPIrp), [Sy Oliver & His Orchestra](https://open.spotify.com/artist/0Y0kqoEdmURT48Od9DA8WC) | [Louis and Friends](https://open.spotify.com/album/3kEj79dO3HIi8MBPmCO0cx) | 3:20 | 2025-07-20 | 2025-10-18 |
-| [No More](https://open.spotify.com/track/75yWDS1C4ZXKoJscUK1cdg) | [Billie Holiday](https://open.spotify.com/artist/1YzCsTRb22dQkh9lghPIrp) | [Billie Holiday's Greatest Hits](https://open.spotify.com/album/6CqXthOJBMMmagymEEa8pl) | 2:45 | 2025-07-20 |  |
+| [No More](https://open.spotify.com/track/75yWDS1C4ZXKoJscUK1cdg) | [Billie Holiday](https://open.spotify.com/artist/1YzCsTRb22dQkh9lghPIrp) | [Billie Holiday's Greatest Hits](https://open.spotify.com/album/6CqXthOJBMMmagymEEa8pl) | 2:45 | 2025-07-20 | 2026-11-25 |
 | [On The Sunny Side Of The Street](https://open.spotify.com/track/16ARXAJAcL8ubHDpBLcqDQ) | [Billie Holiday](https://open.spotify.com/artist/1YzCsTRb22dQkh9lghPIrp) | [Billie Holiday](https://open.spotify.com/album/4MkdTflpaaGGcXb5vtOYRs) | 2:59 | 2025-07-20 |  |
 | [P.S\. I Love You](https://open.spotify.com/track/7vmC7JVs2lGtdaE3vg8aPp) | [Billie Holiday](https://open.spotify.com/artist/1YzCsTRb22dQkh9lghPIrp) | [The Complete Billie Holiday On Verve 1945 \- 1959](https://open.spotify.com/album/0IDzonuhaUBQp0zB03t6tC) | 3:34 | 2025-07-20 |  |
 | [Porgy](https://open.spotify.com/track/4zmNvhsd4kDCtQSmpQqLlf) | [Billie Holiday](https://open.spotify.com/artist/1YzCsTRb22dQkh9lghPIrp) | [Lover Man](https://open.spotify.com/album/7tsBTgXE5wZggdmh5qBhZH) | 2:56 | 2026-03-03 | 2026-04-13 |

@@ -4,15 +4,15 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUX3x84bv557.md) - [plain]
 
 > Frisse Nederlandse pop\. Cover: Zoë Livay \(Spotify <a href="spotify:playlist:37i9dQZF1DXaxwXKCsImRe">RADAR</a>\-artiest\)
 
-[Spotify](https://open.spotify.com/user/spotify) - 245,923 likes - 80 songs - 3 hr 54 min
+[Spotify](https://open.spotify.com/user/spotify) - 245,918 likes - 80 songs - 3 hr 54 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [Zolang Als Het Kan](https://open.spotify.com/track/1j8CnoN2fMtPrAbxJEs5iW) | [Zoë Livay](https://open.spotify.com/artist/2avtvk1ZeiEf3wZ8dE8JfE) | [Zolang Als Het Kan](https://open.spotify.com/album/0mhKIkLsJZUJ60YqxHTJ8b) | 3:00 |
-| 2 | [Hoe Kan Het Zo Zijn](https://open.spotify.com/track/0UrWdYX7B7E2pFjLrRpnm3) | [Danique](https://open.spotify.com/artist/6ihYEkLlAWkafYVAvEkMd0), [KATNUF](https://open.spotify.com/artist/4xDh11zptvPADSQxvbiClo) | [Hoe Kan Het Zo Zijn](https://open.spotify.com/album/6f2gYhc6uuCPkXYzIEuLNG) | 2:48 |
-| 3 | [Een Laatste Dans](https://open.spotify.com/track/5PJuE9ArAHb5kwavASpbcP) | [Adriaan Persons](https://open.spotify.com/artist/1TPrAXJAcBA8sUPNN39eZg) | [Dromen In Blauw](https://open.spotify.com/album/0ShIebiswEZeg16I1mX2WN) | 3:01 |
-| 4 | [Is Dit Nu Later](https://open.spotify.com/track/1nfZ1uJ4SgXlv1arqragMX) | [Thijs Pot](https://open.spotify.com/artist/3nxJAqo44XhsDnBZBXeuvP), [Yves Berendse](https://open.spotify.com/artist/7wGBPJk6sHwRCozFfhU09F), [Nick Schilder](https://open.spotify.com/artist/4pbY2GIsT2jDoVxKqNQcpu) | [Sing With Me \(Aflevering 1\)](https://open.spotify.com/album/1BrpGunw8hzjbp6cRQzRSB) | 2:31 |
-| 5 | [Dat Ik Je Zie](https://open.spotify.com/track/64vwRYnUDKYLFMyeioYbgc) | [Mart Hoogkamer](https://open.spotify.com/artist/6jhluGyF1XVIlfPol7oXqa), [Jennifer](https://open.spotify.com/artist/3LdfkUJyJmYBCtY7RQ8lKa) | [Dat Ik Je Zie](https://open.spotify.com/album/7E6x182kA3x2OYMWYQ6KZS) | 2:40 |
+| 2 | [Dat Ik Je Zie](https://open.spotify.com/track/64vwRYnUDKYLFMyeioYbgc) | [Mart Hoogkamer](https://open.spotify.com/artist/6jhluGyF1XVIlfPol7oXqa), [Jennifer](https://open.spotify.com/artist/3LdfkUJyJmYBCtY7RQ8lKa) | [Dat Ik Je Zie](https://open.spotify.com/album/7E6x182kA3x2OYMWYQ6KZS) | 2:40 |
+| 3 | [Hoe Kan Het Zo Zijn](https://open.spotify.com/track/0UrWdYX7B7E2pFjLrRpnm3) | [Danique](https://open.spotify.com/artist/6ihYEkLlAWkafYVAvEkMd0), [KATNUF](https://open.spotify.com/artist/4xDh11zptvPADSQxvbiClo) | [Hoe Kan Het Zo Zijn](https://open.spotify.com/album/6f2gYhc6uuCPkXYzIEuLNG) | 2:48 |
+| 4 | [Een Laatste Dans](https://open.spotify.com/track/5PJuE9ArAHb5kwavASpbcP) | [Adriaan Persons](https://open.spotify.com/artist/1TPrAXJAcBA8sUPNN39eZg) | [Dromen In Blauw](https://open.spotify.com/album/0ShIebiswEZeg16I1mX2WN) | 3:01 |
+| 5 | [Is Dit Nu Later](https://open.spotify.com/track/1nfZ1uJ4SgXlv1arqragMX) | [Thijs Pot](https://open.spotify.com/artist/3nxJAqo44XhsDnBZBXeuvP), [Yves Berendse](https://open.spotify.com/artist/7wGBPJk6sHwRCozFfhU09F), [Nick Schilder](https://open.spotify.com/artist/4pbY2GIsT2jDoVxKqNQcpu) | [Sing With Me \(Aflevering 1\)](https://open.spotify.com/album/1BrpGunw8hzjbp6cRQzRSB) | 2:31 |
 | 6 | [Alleen](https://open.spotify.com/track/1wUDxkCx1zJZLYz71Z5k9g) | [Suzan & Freek](https://open.spotify.com/artist/77IW5ZK1smDQYYKDCQugXh) | [Pijnstiller](https://open.spotify.com/album/5QM6B3t3Efdnq2X3vde6ml) | 2:10 |
 | 7 | [Kleine onmacht](https://open.spotify.com/track/4JzWl4iUetvYWbCZpduX2B) | [Paskal Jakobsen](https://open.spotify.com/artist/22shUi37uDfZmZQ8H6YuWr) | [Kleine onmacht](https://open.spotify.com/album/1hYapLcwriUcWcbwocDxbT) | 3:56 |
 | 8 | [Waar Heb Je Op Gewacht](https://open.spotify.com/track/0ZPXDZWfZCFECzPS39PZYj) | [Van Dik Hout](https://open.spotify.com/artist/7t1YgV4PxSjBg9P8ZqE4Vo) | [Teveel Is Niet Genoeg](https://open.spotify.com/album/7gRDr3BmTd9R0XnlOgjJE7) | 3:19 |
@@ -89,4 +89,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUX3x84bv557.md) - [plain]
 | 79 | [Luzacstraat](https://open.spotify.com/track/5IH1bXoWQd64kOIwfpT1Kc) | [Froukje](https://open.spotify.com/artist/0uBVyPbLZRDNEBiA4fZUlp) | [Kijk Je Naar Mij?](https://open.spotify.com/album/0Dmabzo3P2nHBYb0fWpDZu) | 3:00 |
 | 80 | [Stuurloos](https://open.spotify.com/track/5bCciSSJvPmdosIEFI3rIi) | [Tessa June](https://open.spotify.com/artist/67UrL3cZJQ2WhwqdikarKk) | [Stuurloos](https://open.spotify.com/album/4sLqs1mbLHANb0OGiMAVO1) | 2:40 |
 
-Snapshot ID: `AAAAAHjHHiX9f3S7kH411hjfSqoe7HQt`
+Snapshot ID: `AAAAABkS+1iQQX4q902sMJQ7AsS/alqf`

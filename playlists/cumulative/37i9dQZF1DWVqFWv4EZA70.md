@@ -4,7 +4,7 @@
 
 > Beats que le suben el ánimo a tu día.
 
-102 songs - 6 hr 22 min
+103 songs - 6 hr 25 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -19,7 +19,7 @@
 | [Blood Milk Moon](https://open.spotify.com/track/3XagHd6dQ24vSujx0ADqXK) | [Hermanos Gutiérrez](https://open.spotify.com/artist/73mSg0dykFyhvU96tb5xQV) | [Blood Milk Moon](https://open.spotify.com/album/6g0QEibSFA7mc0JDl9j3l3) | 2:57 | 2024-08-16 |  |
 | [C.R.E.A.M.](https://open.spotify.com/track/4bJ7tMJqfYmkKgCYzaaG4B) | [El Michels Affair](https://open.spotify.com/artist/0cLrgpG3pW4MX4nD8h6qCc) | [Enter The 37th Chamber](https://open.spotify.com/album/7ylTeGpMy2RbFDMGSnYjX5) | 2:54 | 2021-10-15 |  |
 | [Can't Hold It Back \- Instrumental](https://open.spotify.com/track/0TK3fh9LH2OGfex6ns2gP2) | [People Under The Stairs](https://open.spotify.com/artist/0av074qUwLn5eyzwqoq3xh) | [Highlighter](https://open.spotify.com/album/4ZZOgZ1MOnTrN3X6bIOEIW) | 3:39 | 2021-10-15 |  |
-| [Catalyze Conciousness](https://open.spotify.com/track/0ZStPeLfNLMH1EacArPO5W) | [Ackryte](https://open.spotify.com/artist/54xP4Co5hBxt3KDOeF9WqA) | [Realize](https://open.spotify.com/album/2WGk8lQFbPpRdecsNUCVlQ) | 2:42 | 2021-10-15 |  |
+| [Catalyze Conciousness](https://open.spotify.com/track/0ZStPeLfNLMH1EacArPO5W) | [Ackryte](https://open.spotify.com/artist/54xP4Co5hBxt3KDOeF9WqA) | [Realize](https://open.spotify.com/album/2WGk8lQFbPpRdecsNUCVlQ) | 2:42 | 2021-10-15 | 2026-11-25 |
 | [Church](https://open.spotify.com/track/0MzO0c9Lr1d4mTUQtGhSJX) | [Galactic](https://open.spotify.com/artist/4rMUtWPGbE6waga7PQO0oQ) | [Coolin' Off](https://open.spotify.com/album/0xkOcQLjAB9PIEDrGbl4OI) | 5:53 | 2021-10-15 | 2022-10-11 |
 | [Cirrus](https://open.spotify.com/track/2lJ4d8MCT6ZlDRHKJ1br14) | [Bonobo](https://open.spotify.com/artist/0cmWgDlu9CwTgxPhf403hb) | [The North Borders](https://open.spotify.com/album/7sN6lCgPf1rbZYmA3edMKv) | 5:52 | 2021-10-15 |  |
 | [Cream On Chrome](https://open.spotify.com/track/0yzfkTH0QKIAYVeTex1NKJ) | [Ratatat](https://open.spotify.com/artist/57dN52uHvrHOxijzpIgu3E) | [Magnifique](https://open.spotify.com/album/5bFeGIVw5pGnLamK7eVSef) | 4:15 | 2021-10-15 | 2024-04-19 |
@@ -43,6 +43,7 @@
 | [Fool's Gold](https://open.spotify.com/track/2qMOAJmGCJhUOJoZhtPAIb) | [Nokiaa](https://open.spotify.com/artist/0ikgHu560bYMZOOXFQnRLN) | [Fool's Gold](https://open.spotify.com/album/0fn9HuJ6H8wuIW4a1Yt9uH) | 1:35 | 2021-10-15 |  |
 | [Ghostwriter](https://open.spotify.com/track/5Nn2Dj7OQsGL6pgQ9iIzPp) | [RJD2](https://open.spotify.com/artist/1O3ZOjqFLEnbpZexcRjocn) | [Deadringer: Deluxe](https://open.spotify.com/album/7DmNwRBDJRUEFUlk3oa2Aj) | 5:17 | 2021-10-15 | 2024-08-17 |
 | [Give Thanks Instro \(Instrumental\)](https://open.spotify.com/track/1tJ0cJiI2hSY05InPQc93p) | [Kero One](https://open.spotify.com/artist/5EXuZB9s9F3ezkS7zpV8d1) | [Windmills of the Soul Instrumentals](https://open.spotify.com/album/21J9q0qN5O76XkGVUQLsM9) | 4:36 | 2021-10-15 |  |
+| [Good Times](https://open.spotify.com/track/57iuSmmYSbiTFXzoGBEif2) | [SoulChef](https://open.spotify.com/artist/7rdiGVXL2fFyONexHzfKFS) | [No Place Like Home](https://open.spotify.com/album/1Q7D5OHYPobp5GX5RkCwhQ) | 2:39 | 2026-11-24 |  |
 | [Green Onions](https://open.spotify.com/track/4fQMGlCawbTkH9yPPZ49kP) | [Booker T\. & the M.G.'s](https://open.spotify.com/artist/2vDV0T8sxx2ENnKXds75e5) | [Green Onions](https://open.spotify.com/album/2aGFVLz0oQPa3uxCfq9lcU) | 2:56 | 2021-10-15 |  |
 | [Headspace](https://open.spotify.com/track/24BqtlnVXT1XpccuGPje36) | [Epifania](https://open.spotify.com/artist/47OYz3d3DvnXpfaJ7i0z6b) | [Headspace](https://open.spotify.com/album/0PVtjv3yysRqlqZn2olRsc) | 2:13 | 2021-10-15 |  |
 | [Headspace](https://open.spotify.com/track/6CkTv37VYslWD9igy0pVDG) | [Epifania](https://open.spotify.com/artist/47OYz3d3DvnXpfaJ7i0z6b) | [Headspace](https://open.spotify.com/album/1hEyaZG3Y4JqrJhWtZMEtz) | 2:13 | 2021-10-15 | 2024-04-19 |

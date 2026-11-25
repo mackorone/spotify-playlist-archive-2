@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3Ee0ngF5ZVQ.md) - [plain]
 
 > New and trending tracks from Texas Country icons and rising stars\. Cover: Braxton Keith
 
-[Spotify](https://open.spotify.com/user/spotify) - 397,138 likes - 100 songs - 5 hr 56 min
+[Spotify](https://open.spotify.com/user/spotify) - 397,114 likes - 100 songs - 5 hr 56 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -34,12 +34,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3Ee0ngF5ZVQ.md) - [plain]
 | 24 | [The Painter](https://open.spotify.com/track/6UoKX6uLJwhsnyTp5k5StP) | [Cody Johnson](https://open.spotify.com/artist/6zLBxLdl60ekBLpawtT63I) | [The Painter](https://open.spotify.com/album/5KxDhlSxJGEOcaTnqKwdYu) | 3:31 |
 | 25 | [Stay Tuned](https://open.spotify.com/track/2dOtM9EeM3bhQvzOWEQPwP) | [Treaty Oak Revival](https://open.spotify.com/artist/3444S3C4U9Ts86BnCtSPRV) | [Stay Tuned](https://open.spotify.com/album/6o4nLp0Ra5dW31bxWk91s6) | 3:20 |
 | 26 | [Ask Me To Dance \(feat\. Hayes Carll\)](https://open.spotify.com/track/6cbUXmdoD6mgh7Cs6o0xQz) | [Catie Offerman](https://open.spotify.com/artist/5uB8p8cO6UniAn2rnOsaXT), [Hayes Carll](https://open.spotify.com/artist/6UWifcscEdbjPgmbevBxZV) | [Ask Me To Dance \(feat\. Hayes Carll\)](https://open.spotify.com/album/4PRPnlKErEf5LqTdiwmJqJ) | 2:36 |
-| 27 | [Handle On You](https://open.spotify.com/track/6Qpfsw8OS5HW5XxgmXYLWS) | [Parker McCollum](https://open.spotify.com/artist/0Z8XVUAOBPM4x12wKnFHEQ) | [Handle On You](https://open.spotify.com/album/65UKRbP97zWe5gBZ48jBkR) | 3:39 |
+| 27 | [What Kinda Man](https://open.spotify.com/track/2K6T1iKa7coghsISspjPv8) | [Parker McCollum](https://open.spotify.com/artist/0Z8XVUAOBPM4x12wKnFHEQ) | [What Kinda Man](https://open.spotify.com/album/53HiQCmdwiT4e7SHX74XdM) | 4:19 |
 | 28 | [Bottom of It](https://open.spotify.com/track/7Hlt8sBheuJXbBU4aFOGcp) | [Don Louis](https://open.spotify.com/artist/5LICWu7uFLkdJVcEiTnRBX) | [Bottom of It](https://open.spotify.com/album/634fjrf1xw9BpyDx83lomm) | 3:12 |
 | 29 | [It Won't Be Long](https://open.spotify.com/track/4L7H1toyQvfKJWNlD0RfHt) | [George Birge](https://open.spotify.com/artist/27R1aBy7FfkYevfYen4sMp) | [It Won't Be Long](https://open.spotify.com/album/1JXyyQl8aPFi9rAXwOF7pv) | 3:17 |
 | 30 | [Baby You Do](https://open.spotify.com/track/6SVKmktKVg5daArMbig0T3) | [Braxton Keith](https://open.spotify.com/artist/5JHw4x1RYIlwNfCq6FNXxf) | [Baby You Do](https://open.spotify.com/album/7rTdxhNOzNI1C1rbLL5tvC) | 3:19 |
 | 31 | [Chasing My Tail](https://open.spotify.com/track/33IImDk07VMw7E99BWz6jK) | [Treaty Oak Revival](https://open.spotify.com/artist/3444S3C4U9Ts86BnCtSPRV) | [Have A Nice Day](https://open.spotify.com/album/2xXY6j7QVSz6rpqEU9q1Ha) | 3:58 |
-| 32 | [What Kinda Man](https://open.spotify.com/track/2K6T1iKa7coghsISspjPv8) | [Parker McCollum](https://open.spotify.com/artist/0Z8XVUAOBPM4x12wKnFHEQ) | [What Kinda Man](https://open.spotify.com/album/53HiQCmdwiT4e7SHX74XdM) | 4:19 |
+| 32 | [Handle On You](https://open.spotify.com/track/6Qpfsw8OS5HW5XxgmXYLWS) | [Parker McCollum](https://open.spotify.com/artist/0Z8XVUAOBPM4x12wKnFHEQ) | [Handle On You](https://open.spotify.com/album/65UKRbP97zWe5gBZ48jBkR) | 3:39 |
 | 33 | [High Country](https://open.spotify.com/track/2SMxvm2rJzbPbTjwEyuFnJ) | [Jason Scott & The High Heat](https://open.spotify.com/artist/03IlJFWZVEYHlSKSBYlfAm) | [American Grin](https://open.spotify.com/album/5zPQGBpZHiUAgwVxOHH0eM) | 3:06 |
 | 34 | [Missin' Tonight](https://open.spotify.com/track/2SSwe13vyoPbUcqg1duRZG) | [George Birge](https://open.spotify.com/artist/27R1aBy7FfkYevfYen4sMp) | [Missin' Tonight](https://open.spotify.com/album/6Bmh5lJ0QdmVLIK1yTdVEP) | 2:50 |
 | 35 | [Junior Stayed Home](https://open.spotify.com/track/0LSmvfAYa3kJoVaNX6aC0a) | [Graham St\. Clair Band](https://open.spotify.com/artist/7voi3VeXYv9dzIEFGBgbkv) | [Junior Stayed Home](https://open.spotify.com/album/3wLJrVlhhX9HJRDsntBGHz) | 4:48 |
@@ -70,8 +70,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3Ee0ngF5ZVQ.md) - [plain]
 | 60 | [My Love](https://open.spotify.com/track/7KbBJ6PLkFnfO8GQu1R0il) | [Kolby Cooper](https://open.spotify.com/artist/2dz0ijxEHh6AzUzQBwBSKx) | [My Love](https://open.spotify.com/album/5VOaO6GlmbM6GcPrjl97HQ) | 4:01 |
 | 61 | [Worry is a Sickness](https://open.spotify.com/track/2gh1NyPkglSkDxNWE7DsAb) | [Ty Myers](https://open.spotify.com/artist/1Gh0pCAxpjw0Iq3JMoVAwO) | [Worry is a Sickness](https://open.spotify.com/album/3UDMgtZQoeXhbPqwUthAjf) | 4:14 |
 | 62 | [Coulda Been Love](https://open.spotify.com/track/2K7kaSsyzMKLvXH5MnOgFp) | [Randall King](https://open.spotify.com/artist/4Uux6BdaCNrVFQ0bqGRtfh) | [Coulda Been Love](https://open.spotify.com/album/2SicSV8AnsmIXZk6NmL8G6) | 2:52 |
-| 63 | [Ghosts of the Panhandle Wind](https://open.spotify.com/track/04iNvh91y5NoiaaHsfDNuX) | [Red Shahan](https://open.spotify.com/artist/5DPP8EALeVGnupgVjlWOwJ) | [Hard Land](https://open.spotify.com/album/3bfLBgtrzDaYpM4uLwfvbK) | 3:47 |
-| 64 | [Two First Names](https://open.spotify.com/track/2e7x4VTgV0faEfG9MwkHFI) | [Jake Worthington](https://open.spotify.com/artist/40v31oiMOaz7dorFhevJRp) | [When I Write The Song](https://open.spotify.com/album/0GpuzOYTm6vI23eCZV9GRw) | 4:08 |
+| 63 | [Two First Names](https://open.spotify.com/track/2e7x4VTgV0faEfG9MwkHFI) | [Jake Worthington](https://open.spotify.com/artist/40v31oiMOaz7dorFhevJRp) | [When I Write The Song](https://open.spotify.com/album/0GpuzOYTm6vI23eCZV9GRw) | 4:08 |
+| 64 | [Ghosts of the Panhandle Wind](https://open.spotify.com/track/04iNvh91y5NoiaaHsfDNuX) | [Red Shahan](https://open.spotify.com/artist/5DPP8EALeVGnupgVjlWOwJ) | [Hard Land](https://open.spotify.com/album/3bfLBgtrzDaYpM4uLwfvbK) | 3:47 |
 | 65 | [The Little Things](https://open.spotify.com/track/0yfPThPvlNrnQaOoeoQMDl) | [George Strait](https://open.spotify.com/artist/5vngPClqofybhPERIqQMYd) | [The Little Things](https://open.spotify.com/album/62iaYGnhb2PL2kzngNGxjO) | 3:38 |
 | 66 | [She'll Dance For Whiskey \- Landman \- Songs From and Inspired by the Paramount+ Original Series \(Volume I\)](https://open.spotify.com/track/5zxhqSzYH5P0ECHP5UzgtL) | [Parker McCollum](https://open.spotify.com/artist/0Z8XVUAOBPM4x12wKnFHEQ) | [She'll Dance For Whiskey \[Landman \- Songs From and Inspired by the Paramount+ Original Series \(Volume I\)\]](https://open.spotify.com/album/7gQRSCEwEUpimIawyBcBvG) | 4:47 |
 | 67 | [I Keep Your Memory Around](https://open.spotify.com/track/2mESfK7oU1V1CHr1j78FE8) | [Randall King](https://open.spotify.com/artist/4Uux6BdaCNrVFQ0bqGRtfh) | [I Keep Your Memory Around](https://open.spotify.com/album/7waJk7mvaaMcC6lauq5KbE) | 3:06 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3Ee0ngF5ZVQ.md) - [plain]
 | 99 | [Hit The Hay Runnin'](https://open.spotify.com/track/6jubVjNr6RcoZcDy6jeVQv) | [Aaron Watson](https://open.spotify.com/artist/5BKzvAPtNXnt0LwzGvKOH3) | [Hit The Hay Runnin'](https://open.spotify.com/album/4WRiI5GDDiVZyqgMklIqHN) | 3:04 |
 | 100 | [Hunt You Down](https://open.spotify.com/track/6ANjnskHNgakdZnhWO6nob) | [Kaitlin Butts](https://open.spotify.com/artist/6QmSTo72BYMATkQVOV1axD) | [Hunt You Down](https://open.spotify.com/album/3ZmBeTs68BAwCeUOknXaQ7) | 3:24 |
 
-Snapshot ID: `AAAAAGL6BgAWVupi4rrDYknkxYnbxIFq`
+Snapshot ID: `AAAAAAyRrApU9k0voUBTEPeOuRF6n3bN`

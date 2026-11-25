@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0RJRF55W5lt.md) - [plain]
 
 > Classic anthems from a classic era\. Cover: Sunship
 
-[Spotify](https://open.spotify.com/user/spotify) - 695,230 likes - 75 songs - 6 hr 13 min
+[Spotify](https://open.spotify.com/user/spotify) - 695,278 likes - 75 songs - 6 hr 9 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -80,8 +80,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0RJRF55W5lt.md) - [plain]
 | 70 | [RIP Groove \- Radio Edit](https://open.spotify.com/track/4nyZjJ9eCaEODIljcQn8gQ) | [Double 99](https://open.spotify.com/artist/3XUgFwHXbyBHNuAfv7sWu3) | [Rip Groove](https://open.spotify.com/album/6J4zZWXB1HrAnb2hibIP9v) | 3:29 |
 | 71 | [Let's Groove](https://open.spotify.com/track/2amYO9uSLjsHfLSUZVh5Wq) | [George Morel](https://open.spotify.com/artist/1lFrAhvIUbiWsTEMexSlDy) | [Morel's Grooves \(Pt\. 4\)](https://open.spotify.com/album/4YAQY5sSGCgBG9auquen4A) | 6:57 |
 | 72 | [Things We Do For Love](https://open.spotify.com/track/6WhWEu5LqhSjG37ZSk4gAe) | [Kele Le Roc](https://open.spotify.com/artist/6147A0TM1JrrEkin51nwnD), [Sticky](https://open.spotify.com/artist/2M9VekPKghfVcZKgiugbNH) | [UK Garage Beats V4](https://open.spotify.com/album/7AzNk36ApocG0SuvlKK3K2) | 3:31 |
-| 73 | [Sorry! \(Didn't Know\) \[Original Radio Edit\]](https://open.spotify.com/track/1ElsvWNXbo3jXs4OuakQLn) | [Monsta Boy](https://open.spotify.com/artist/0YgabnWomkooWIaTM6VOfE) | [Sorry](https://open.spotify.com/album/2jMkOKyXgCi9NI4dxm4EkN) | 4:10 |
-| 74 | [A London Thing \- Full Length Mix](https://open.spotify.com/track/40scKYlrjcq6mvRoMAAqIL) | [Scott Garcia](https://open.spotify.com/artist/4pmXP4rg8C8WmWtoCWdC9b), [MC Styles](https://open.spotify.com/artist/6IcEebkfhtNr55JyiZb70r) | [A London Thing](https://open.spotify.com/album/0k1AOr6bYRjQqinBnSgEee) | 6:06 |
-| 75 | [Spin Spin Sugar \- Armand's Dark Garage Mix](https://open.spotify.com/track/2nGICSgZtRkfvuvDgmVVVz) | [Sneaker Pimps](https://open.spotify.com/artist/1EJWNhiYbOyeUHbsS7Kp1P), [Armand Van Helden](https://open.spotify.com/artist/3cQA9WH8liZfeja1DxcDYE) | [Becoming Remixed](https://open.spotify.com/album/5FsOezb4BhwKgQ3rEzbIt1) | 9:03 |
+| 73 | [Little Man \- Exemen Rework](https://open.spotify.com/track/5NBEj4QYJMFUS4KvQHHiQX) | [Sia](https://open.spotify.com/artist/5WUlDfRSoLAfcVSX1WnrxN) | [Pure Garage Reload \- The Very Best Of Old Skool Garage](https://open.spotify.com/album/4FVSogOmseVSnVJwvFEwQa) | 5:00 |
+| 74 | [Sorry! \(Didn't Know\) \[Original Radio Edit\]](https://open.spotify.com/track/1ElsvWNXbo3jXs4OuakQLn) | [Monsta Boy](https://open.spotify.com/artist/0YgabnWomkooWIaTM6VOfE) | [Sorry](https://open.spotify.com/album/2jMkOKyXgCi9NI4dxm4EkN) | 4:10 |
+| 75 | [A London Thing \- Full Length Mix](https://open.spotify.com/track/40scKYlrjcq6mvRoMAAqIL) | [Scott Garcia](https://open.spotify.com/artist/4pmXP4rg8C8WmWtoCWdC9b), [MC Styles](https://open.spotify.com/artist/6IcEebkfhtNr55JyiZb70r) | [A London Thing](https://open.spotify.com/album/0k1AOr6bYRjQqinBnSgEee) | 6:06 |
 
-Snapshot ID: `AAAAAFDqSVQUeExTGdLNHYIgCyDgV6Hs`
+Snapshot ID: `AAAAAITQfMlwVzunPNiD1lRnpbMQIcfC`

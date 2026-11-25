@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXSzFkaLsPkN.md) - [plain]
 
 > Hindi hai, Indie hai! Cover\- Aanchal Tyagi
 
-[Spotify](https://open.spotify.com/user/spotify) - 135,877 likes - 75 songs - 4 hr 9 min
+[Spotify](https://open.spotify.com/user/spotify) - 135,884 likes - 75 songs - 4 hr 9 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -67,21 +67,21 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXSzFkaLsPkN.md) - [plain]
 | 57 | [With You \(From "UR Debut"\)](https://open.spotify.com/track/3gR1FcXGPjt9dUKoSarG0N) | [Bhoomi](https://open.spotify.com/artist/0gMaH5l7qBDky1LyM6ELYS), [Naaz](https://open.spotify.com/artist/0tbKF46lbRv4HqO4A4LSSs), [Gurdit](https://open.spotify.com/artist/3WcYb2jtT6M0GasOFvbYQx) | [With You \(From "UR Debut"\)](https://open.spotify.com/album/5KvnDsNuSiLY4TxworhRLC) | 2:24 |
 | 58 | [Jiya Mora](https://open.spotify.com/track/46K5Y7h6zigAt6rNGsBGCH) | [Shreya Jain](https://open.spotify.com/artist/4kf4NJ3U6oSZ423DycBpMD), [Shubham Shirule](https://open.spotify.com/artist/6beOaVvPVwBvJMHZZox3p1) | [Jiya Mora](https://open.spotify.com/album/1kJagEQC1xcP69zPDgHxDb) | 2:54 |
 | 59 | [Aashiyan](https://open.spotify.com/track/0OlYIIUtBAWF2iEiTYan5h) | [gini](https://open.spotify.com/artist/2sjFmfxifbUo2A25xuQOp0) | [Aashiyan](https://open.spotify.com/album/69WkyMOrLpLPnOML7ZYPWq) | 2:54 |
-| 60 | [Dekho Na](https://open.spotify.com/track/1tBFMrlbCnJIglzG9xroRp) | [Sobit Tamang](https://open.spotify.com/artist/5NuIxtRrRTJMaTn3oCZgyn) | [Dekho Na](https://open.spotify.com/album/4K9xegFgmuSTMcc8EGts0B) | 3:47 |
-| 61 | [Tere Gaon](https://open.spotify.com/track/3YNWnHvYHjFLQgjayEdhB9) | [Taaruk Raina](https://open.spotify.com/artist/1FWl7I9wJpb7Bhhutef4Xe), [Charan](https://open.spotify.com/artist/3hbwOFtgWSNfeRzF2o7Y65) | [Stay Vol\. 1](https://open.spotify.com/album/4pwc2Zic2F7VYloJi1cpql) | 2:54 |
+| 60 | [Tere Gaon](https://open.spotify.com/track/3YNWnHvYHjFLQgjayEdhB9) | [Taaruk Raina](https://open.spotify.com/artist/1FWl7I9wJpb7Bhhutef4Xe), [Charan](https://open.spotify.com/artist/3hbwOFtgWSNfeRzF2o7Y65) | [Stay Vol\. 1](https://open.spotify.com/album/4pwc2Zic2F7VYloJi1cpql) | 2:54 |
+| 61 | [Dekho Na](https://open.spotify.com/track/1tBFMrlbCnJIglzG9xroRp) | [Sobit Tamang](https://open.spotify.com/artist/5NuIxtRrRTJMaTn3oCZgyn) | [Dekho Na](https://open.spotify.com/album/4K9xegFgmuSTMcc8EGts0B) | 3:47 |
 | 62 | [Firki](https://open.spotify.com/track/2DVr3mimT7i7fq2znGJxrM) | [Bharat Chandak](https://open.spotify.com/artist/42x6GyehEtbb2gToHIc3lF) | [Firki](https://open.spotify.com/album/4ex57nAULj9BXxaOTFkuGv) | 2:56 |
 | 63 | [Starstruck](https://open.spotify.com/track/4B3Zu3ZkocQJ5uZ0LSVi2z) | [Kushagra](https://open.spotify.com/artist/2IKfr1JgPRXmXKAWwrABc6), [somanshu](https://open.spotify.com/artist/0q7fw7pC9FcW9AUfIw4H5H) | [Starstruck](https://open.spotify.com/album/2WJJRkBgHsxIkSX1o0Au6Z) | 2:36 |
 | 64 | [Baaton Baaton Main](https://open.spotify.com/track/764XnzLSpfB7VSMkKywfMB) | [Shashwat Sachdev](https://open.spotify.com/artist/465OXuCU8YZNmVG1leLwQ9), [Anumita Nadesan](https://open.spotify.com/artist/1nmKYy6efdYl8sIcT0gCLJ) | [Baaton Baaton Main](https://open.spotify.com/album/0QVNwZykSmyVyFLbKZkMMY) | 3:54 |
-| 65 | [Farak Nahi Padta](https://open.spotify.com/track/1J9c9T2OJr84swGCXu1TEH) | [KhoslaRaghu](https://open.spotify.com/artist/20tfEk8GA9lO1i0cZsslKS) | [Farak Nahi Padta](https://open.spotify.com/album/2SsLNVEZfLuZz0ZgC3EtrZ) | 2:19 |
-| 66 | [Ratiyaan](https://open.spotify.com/track/6AW4SkLk5mYWpsPDz8lGXz) | [Taaruk Raina](https://open.spotify.com/artist/1FWl7I9wJpb7Bhhutef4Xe), [Charan](https://open.spotify.com/artist/3hbwOFtgWSNfeRzF2o7Y65) | [Stay Vol\. 1](https://open.spotify.com/album/4pwc2Zic2F7VYloJi1cpql) | 2:28 |
-| 67 | [Muskaan](https://open.spotify.com/track/1vgvwc1KECpPkuxE1WRGey) | [Twin Strings](https://open.spotify.com/artist/0cPN6x5LmDIZjp6gFmAkqw) | [Muskaan](https://open.spotify.com/album/6fwV58bBjVf6ar8wEGiUab) | 2:42 |
-| 68 | [Payaliyaan](https://open.spotify.com/track/5RjcZhJ9W13YckU17mX2ZO) | [Zodiac Wave](https://open.spotify.com/artist/3onhR4FeK0vglwIn5t2Xsy), [Hia](https://open.spotify.com/artist/1QSqsXWlAEW0jnZzOesZ7y) | [Payaliyaan](https://open.spotify.com/album/1TkOEs3apHXVPY5Fk3G6Sg) | 3:48 |
+| 65 | [Ratiyaan](https://open.spotify.com/track/6AW4SkLk5mYWpsPDz8lGXz) | [Taaruk Raina](https://open.spotify.com/artist/1FWl7I9wJpb7Bhhutef4Xe), [Charan](https://open.spotify.com/artist/3hbwOFtgWSNfeRzF2o7Y65) | [Stay Vol\. 1](https://open.spotify.com/album/4pwc2Zic2F7VYloJi1cpql) | 2:28 |
+| 66 | [Farak Nahi Padta](https://open.spotify.com/track/1J9c9T2OJr84swGCXu1TEH) | [KhoslaRaghu](https://open.spotify.com/artist/20tfEk8GA9lO1i0cZsslKS) | [Farak Nahi Padta](https://open.spotify.com/album/2SsLNVEZfLuZz0ZgC3EtrZ) | 2:19 |
+| 67 | [Payaliyaan](https://open.spotify.com/track/5RjcZhJ9W13YckU17mX2ZO) | [Zodiac Wave](https://open.spotify.com/artist/3onhR4FeK0vglwIn5t2Xsy), [Hia](https://open.spotify.com/artist/1QSqsXWlAEW0jnZzOesZ7y) | [Payaliyaan](https://open.spotify.com/album/1TkOEs3apHXVPY5Fk3G6Sg) | 3:48 |
+| 68 | [Muskaan](https://open.spotify.com/track/1vgvwc1KECpPkuxE1WRGey) | [Twin Strings](https://open.spotify.com/artist/0cPN6x5LmDIZjp6gFmAkqw) | [Muskaan](https://open.spotify.com/album/6fwV58bBjVf6ar8wEGiUab) | 2:42 |
 | 69 | [Aadhi Chai](https://open.spotify.com/track/10Mbwe81neb7Q3AATNwUBr) | [Deepak Rathore](https://open.spotify.com/artist/1VFIeAFbzMVHmvGQtfE6OI) | [Aadhi Chai](https://open.spotify.com/album/0u5P8rVA9QOeBtkQYyZ66b) | 3:37 |
 | 70 | [Jaan Se Zyada](https://open.spotify.com/track/4MuqA3HaelY0K7OfUHQEOP) | [maahi](https://open.spotify.com/artist/59cXfBldx8F2Fpq86R4MVV), [Zain \- Sam](https://open.spotify.com/artist/0Zj3IsE2VmUjbL70EQKXHL), [Rashmi Virag](https://open.spotify.com/artist/5r2baeTwcCJnuIsDIlxUJo) | [Jaan Se Zyada](https://open.spotify.com/album/7zFdhMVq9hnCkIbV1qyWd1) | 2:53 |
 | 71 | [Tu Koi Aur Hai](https://open.spotify.com/track/3LQqccXWKya2nHcCawVwxe) | [Shunya](https://open.spotify.com/artist/5Oz3oUJpLWYpDMv75dkvc0) | [Tu Koi Aur Hai](https://open.spotify.com/album/40LLE4DnPPXwdbInq6TYIR) | 5:04 |
-| 72 | [Baaton](https://open.spotify.com/track/2d5RyNcpBc8d5NTCz5M8aK) | [When Chai Met Toast](https://open.spotify.com/artist/04hYGGSjYtLekuuJXEGrIl) | [Baaton](https://open.spotify.com/album/5lFlOlonnrtMTc9HPl1za4) | 2:05 |
-| 73 | [Marammatein](https://open.spotify.com/track/5IvcYdbyPCoFocOu5hoZyN) | [Utsavi Jha](https://open.spotify.com/artist/51pcy004juIDA1mruOZJCX), [Janisht Joshi](https://open.spotify.com/artist/0lxFJDXOwwxbYpo0EnA51Z) | [Marammatein](https://open.spotify.com/album/3fNUyCBvpJXAINIrKEPFWb) | 3:51 |
+| 72 | [Marammatein](https://open.spotify.com/track/5IvcYdbyPCoFocOu5hoZyN) | [Utsavi Jha](https://open.spotify.com/artist/51pcy004juIDA1mruOZJCX), [Janisht Joshi](https://open.spotify.com/artist/0lxFJDXOwwxbYpo0EnA51Z) | [Marammatein](https://open.spotify.com/album/3fNUyCBvpJXAINIrKEPFWb) | 3:51 |
+| 73 | [Baaton](https://open.spotify.com/track/2d5RyNcpBc8d5NTCz5M8aK) | [When Chai Met Toast](https://open.spotify.com/artist/04hYGGSjYtLekuuJXEGrIl) | [Baaton](https://open.spotify.com/album/5lFlOlonnrtMTc9HPl1za4) | 2:05 |
 | 74 | [Parinaam](https://open.spotify.com/track/3xJ0OLjMdcuvcYQiUAcGlz) | [Dorwin John](https://open.spotify.com/artist/1WrRZqtc5zXX95BV270M1v) | [Parinaam](https://open.spotify.com/album/4cQvaQtUd2Vjq0M8SNzyRv) | 2:15 |
 | 75 | [Dear Maahiya \(From "UR Debut"\)](https://open.spotify.com/track/090K4Rhx3tnhrSxCFmlzye) | [Tanishka Bahl](https://open.spotify.com/artist/0RZSHotYnUAsA9mzApotQw), [Saaheal](https://open.spotify.com/artist/29S4JzoFUP1MCyMgKd83zM), [Showkidd](https://open.spotify.com/artist/0lqjRojARBHXCBYVOm16CC) | [Dear Maahiya \(From "UR Debut"\)](https://open.spotify.com/album/7CrvLLU19X18lSGPJIsKgv) | 3:57 |
 
-Snapshot ID: `AAAAAG7bm757R0BYaBfAv+wBQymcyOvo`
+Snapshot ID: `AAAAANr+JZjogsVl1X9VQXpRrJ6yV9tN`

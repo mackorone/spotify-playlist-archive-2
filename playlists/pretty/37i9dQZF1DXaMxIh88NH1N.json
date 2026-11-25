@@ -1,12 +1,12 @@
 {
   "description": "Al mil para entrenar sin parar.",
-  "num_followers": 226801,
+  "num_followers": 226827,
   "original_name": "Modo: Al Mil",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAJ/ma9/twwAV6/iyNywe8UPlwtMb",
+  "snapshot_id": "AAAAAIoX40rDMPDKHOOeaqnM0VjeiWX1",
   "tracks": [
     {
       "added_at": "2026-11-20 04:53:35",
@@ -799,6 +799,22 @@
     {
       "added_at": "2026-11-20 04:53:35",
       "album": {
+        "name": "Consejos Gratis",
+        "url": "https://open.spotify.com/album/10e10cYupx3U37Efv5691A"
+      },
+      "artists": [
+        {
+          "name": "Eden Mu\u00f1oz",
+          "url": "https://open.spotify.com/artist/1gJdf4Yybu4X5A2xYV3NMV"
+        }
+      ],
+      "duration_ms": 142656,
+      "name": "Consejos Gratis",
+      "url": "https://open.spotify.com/track/2xTLTU2K901snq53FLWZKE"
+    },
+    {
+      "added_at": "2026-11-20 04:53:35",
+      "album": {
         "name": "MIJA NO TE ASUSTES",
         "url": "https://open.spotify.com/album/34OOEmWpj7OnO5kCfal1MO"
       },
@@ -819,22 +835,6 @@
     {
       "added_at": "2026-11-20 04:53:35",
       "album": {
-        "name": "Consejos Gratis",
-        "url": "https://open.spotify.com/album/10e10cYupx3U37Efv5691A"
-      },
-      "artists": [
-        {
-          "name": "Eden Mu\u00f1oz",
-          "url": "https://open.spotify.com/artist/1gJdf4Yybu4X5A2xYV3NMV"
-        }
-      ],
-      "duration_ms": 142656,
-      "name": "Consejos Gratis",
-      "url": "https://open.spotify.com/track/2xTLTU2K901snq53FLWZKE"
-    },
-    {
-      "added_at": "2026-11-20 04:53:35",
-      "album": {
         "name": "Al Estilo Rancheron",
         "url": "https://open.spotify.com/album/7jomGVik8nyxBGpIMSCnRd"
       },
@@ -847,22 +847,6 @@
       "duration_ms": 191994,
       "name": "El Envidioso",
       "url": "https://open.spotify.com/track/53PoPAD389bBE4ePYuT95g"
-    },
-    {
-      "added_at": "2026-11-20 04:53:35",
-      "album": {
-        "name": "En El Camino",
-        "url": "https://open.spotify.com/album/5B5zQLsqiI6PoIRQC8jn6M"
-      },
-      "artists": [
-        {
-          "name": "El Fantasma",
-          "url": "https://open.spotify.com/artist/0my6Pg4I28dVcZLSpAkqhv"
-        }
-      ],
-      "duration_ms": 168425,
-      "name": "En El Camino",
-      "url": "https://open.spotify.com/track/76QRh2Ikhr0i6dNjRvS3GS"
     },
     {
       "added_at": "2026-11-20 04:53:35",
@@ -891,18 +875,18 @@
     {
       "added_at": "2026-11-20 04:53:35",
       "album": {
-        "name": "LUZ VERDE",
-        "url": "https://open.spotify.com/album/1tjHX8YzndYoSwLOxtU62f"
+        "name": "En El Camino",
+        "url": "https://open.spotify.com/album/5B5zQLsqiI6PoIRQC8jn6M"
       },
       "artists": [
         {
-          "name": "Clave Especial",
-          "url": "https://open.spotify.com/artist/0NlNru2YcUz6RbnpYGQz26"
+          "name": "El Fantasma",
+          "url": "https://open.spotify.com/artist/0my6Pg4I28dVcZLSpAkqhv"
         }
       ],
-      "duration_ms": 170420,
-      "name": "LUZ VERDE",
-      "url": "https://open.spotify.com/track/7Ji1sx470UGJRw7gx2kr95"
+      "duration_ms": 168425,
+      "name": "En El Camino",
+      "url": "https://open.spotify.com/track/76QRh2Ikhr0i6dNjRvS3GS"
     },
     {
       "added_at": "2026-11-20 04:53:35",
@@ -923,6 +907,22 @@
       "duration_ms": 187034,
       "name": "Haciendo Memoria",
       "url": "https://open.spotify.com/track/1trlpTsQJoBoKQeHGDF72a"
+    },
+    {
+      "added_at": "2026-11-20 04:53:35",
+      "album": {
+        "name": "LUZ VERDE",
+        "url": "https://open.spotify.com/album/1tjHX8YzndYoSwLOxtU62f"
+      },
+      "artists": [
+        {
+          "name": "Clave Especial",
+          "url": "https://open.spotify.com/artist/0NlNru2YcUz6RbnpYGQz26"
+        }
+      ],
+      "duration_ms": 170420,
+      "name": "LUZ VERDE",
+      "url": "https://open.spotify.com/track/7Ji1sx470UGJRw7gx2kr95"
     },
     {
       "added_at": "2026-11-20 04:53:35",
@@ -1011,22 +1011,6 @@
     {
       "added_at": "2026-11-20 04:53:35",
       "album": {
-        "name": "Vengo a Aclarar",
-        "url": "https://open.spotify.com/album/7sRRTaXHXFn3h9gJK82rwR"
-      },
-      "artists": [
-        {
-          "name": "El Fantasma",
-          "url": "https://open.spotify.com/artist/0my6Pg4I28dVcZLSpAkqhv"
-        }
-      ],
-      "duration_ms": 150944,
-      "name": "Vengo a Aclarar",
-      "url": "https://open.spotify.com/track/4bPE4HBnxSDST0bwf1V1pn"
-    },
-    {
-      "added_at": "2026-11-20 04:53:35",
-      "album": {
         "name": "Alucin",
         "url": "https://open.spotify.com/album/6tPNZ9sIL1aQUooAlItmCB"
       },
@@ -1051,6 +1035,22 @@
       "duration_ms": 197114,
       "name": "Alucin",
       "url": "https://open.spotify.com/track/6ED7qim1NAX1HjNU8039WS"
+    },
+    {
+      "added_at": "2026-11-20 04:53:35",
+      "album": {
+        "name": "Vengo a Aclarar",
+        "url": "https://open.spotify.com/album/7sRRTaXHXFn3h9gJK82rwR"
+      },
+      "artists": [
+        {
+          "name": "El Fantasma",
+          "url": "https://open.spotify.com/artist/0my6Pg4I28dVcZLSpAkqhv"
+        }
+      ],
+      "duration_ms": 150944,
+      "name": "Vengo a Aclarar",
+      "url": "https://open.spotify.com/track/4bPE4HBnxSDST0bwf1V1pn"
     },
     {
       "added_at": "2026-11-20 04:53:35",
@@ -1095,22 +1095,6 @@
     {
       "added_at": "2026-11-20 04:53:35",
       "album": {
-        "name": "NUMBER ONE",
-        "url": "https://open.spotify.com/album/4iK80CPuM4qXIMaoNASIhd"
-      },
-      "artists": [
-        {
-          "name": "Armenta",
-          "url": "https://open.spotify.com/artist/4TdMGChhzBYNXhADaEGUZX"
-        }
-      ],
-      "duration_ms": 161900,
-      "name": "NUMBER ONE",
-      "url": "https://open.spotify.com/track/5ycPjGNxz5iuIKcXfBcEGs"
-    },
-    {
-      "added_at": "2026-11-20 04:53:35",
-      "album": {
         "name": "Aguas",
         "url": "https://open.spotify.com/album/3M2ysOq0MWdkpDydIVZ07K"
       },
@@ -1131,6 +1115,22 @@
       "duration_ms": 172682,
       "name": "Aguas",
       "url": "https://open.spotify.com/track/2KgzC2HaBfy67hMkSUDOys"
+    },
+    {
+      "added_at": "2026-11-20 04:53:35",
+      "album": {
+        "name": "NUMBER ONE",
+        "url": "https://open.spotify.com/album/4iK80CPuM4qXIMaoNASIhd"
+      },
+      "artists": [
+        {
+          "name": "Armenta",
+          "url": "https://open.spotify.com/artist/4TdMGChhzBYNXhADaEGUZX"
+        }
+      ],
+      "duration_ms": 161900,
+      "name": "NUMBER ONE",
+      "url": "https://open.spotify.com/track/5ycPjGNxz5iuIKcXfBcEGs"
     },
     {
       "added_at": "2026-11-20 04:53:35",
@@ -1527,22 +1527,6 @@
     {
       "added_at": "2026-11-20 04:53:35",
       "album": {
-        "name": "El Chaval\u00f3n",
-        "url": "https://open.spotify.com/album/0jAjnsWB9EOcFL7Cq5ykpq"
-      },
-      "artists": [
-        {
-          "name": "LOS DOS DE TAMAULIPAS",
-          "url": "https://open.spotify.com/artist/77Zc5MMUIMJriEDAcaDspi"
-        }
-      ],
-      "duration_ms": 174754,
-      "name": "El Chaval\u00f3n",
-      "url": "https://open.spotify.com/track/7uBePvu0TAwsdX2POckybu"
-    },
-    {
-      "added_at": "2026-11-20 04:53:35",
-      "album": {
         "name": "Todos Hablan, Nada Saben",
         "url": "https://open.spotify.com/album/1hAHT5gZfRLDYh0sZaTnDK"
       },
@@ -1555,6 +1539,22 @@
       "duration_ms": 163893,
       "name": "Todos Hablan, Nada Saben",
       "url": "https://open.spotify.com/track/0SIooo95Kba3UwPBRUOcmd"
+    },
+    {
+      "added_at": "2026-11-20 04:53:35",
+      "album": {
+        "name": "El Chaval\u00f3n",
+        "url": "https://open.spotify.com/album/0jAjnsWB9EOcFL7Cq5ykpq"
+      },
+      "artists": [
+        {
+          "name": "LOS DOS DE TAMAULIPAS",
+          "url": "https://open.spotify.com/artist/77Zc5MMUIMJriEDAcaDspi"
+        }
+      ],
+      "duration_ms": 174754,
+      "name": "El Chaval\u00f3n",
+      "url": "https://open.spotify.com/track/7uBePvu0TAwsdX2POckybu"
     },
     {
       "added_at": "2026-11-20 04:53:35",
@@ -1611,22 +1611,6 @@
     {
       "added_at": "2026-11-20 04:53:35",
       "album": {
-        "name": "Me Gusto Vivir La Vida",
-        "url": "https://open.spotify.com/album/4fVV0Tq3p0RTp05Wx9uVE9"
-      },
-      "artists": [
-        {
-          "name": "Ra\u00fal Beltran",
-          "url": "https://open.spotify.com/artist/1XrNDYzPQVM08PdMRn1mvP"
-        }
-      ],
-      "duration_ms": 224069,
-      "name": "Me Gusto Vivir La Vida",
-      "url": "https://open.spotify.com/track/2belCyWNI01poSMRgRKfLM"
-    },
-    {
-      "added_at": "2026-11-20 04:53:35",
-      "album": {
         "name": "Chiclona",
         "url": "https://open.spotify.com/album/5M4EVI6HzUPtzVtCLGqtB3"
       },
@@ -1671,6 +1655,22 @@
       "duration_ms": 189753,
       "name": "MAYBE",
       "url": "https://open.spotify.com/track/7DmKAXii1NFObsmBWSNO0M"
+    },
+    {
+      "added_at": "2026-11-20 04:53:35",
+      "album": {
+        "name": "Me Gusto Vivir La Vida",
+        "url": "https://open.spotify.com/album/4fVV0Tq3p0RTp05Wx9uVE9"
+      },
+      "artists": [
+        {
+          "name": "Ra\u00fal Beltran",
+          "url": "https://open.spotify.com/artist/1XrNDYzPQVM08PdMRn1mvP"
+        }
+      ],
+      "duration_ms": 224069,
+      "name": "Me Gusto Vivir La Vida",
+      "url": "https://open.spotify.com/track/2belCyWNI01poSMRgRKfLM"
     },
     {
       "added_at": "2026-11-20 04:53:35",
@@ -1727,22 +1727,6 @@
     {
       "added_at": "2026-11-20 04:53:35",
       "album": {
-        "name": "DON DINERO",
-        "url": "https://open.spotify.com/album/5Cj405WRbn27vZM1CNFVsL"
-      },
-      "artists": [
-        {
-          "name": "Ra\u00fal Beltran",
-          "url": "https://open.spotify.com/artist/1XrNDYzPQVM08PdMRn1mvP"
-        }
-      ],
-      "duration_ms": 205273,
-      "name": "DON DINERO",
-      "url": "https://open.spotify.com/track/0ykznyMivYjRgvP2OjxFXS"
-    },
-    {
-      "added_at": "2026-11-20 04:53:35",
-      "album": {
         "name": "Qu\u00e9date Conmigo",
         "url": "https://open.spotify.com/album/2ecO4JampVxMRviNZzCAPE"
       },
@@ -1779,6 +1763,22 @@
       "duration_ms": 193849,
       "name": "Hay Con Que",
       "url": "https://open.spotify.com/track/5LWQAJftnMD7SZAZhwH9CQ"
+    },
+    {
+      "added_at": "2026-11-20 04:53:35",
+      "album": {
+        "name": "DON DINERO",
+        "url": "https://open.spotify.com/album/5Cj405WRbn27vZM1CNFVsL"
+      },
+      "artists": [
+        {
+          "name": "Ra\u00fal Beltran",
+          "url": "https://open.spotify.com/artist/1XrNDYzPQVM08PdMRn1mvP"
+        }
+      ],
+      "duration_ms": 205273,
+      "name": "DON DINERO",
+      "url": "https://open.spotify.com/track/0ykznyMivYjRgvP2OjxFXS"
     },
     {
       "added_at": "2026-11-20 04:53:35",

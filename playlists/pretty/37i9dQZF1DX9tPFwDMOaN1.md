@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9tPFwDMOaN1.md) - [plain]
 
 > The new & hottest K\-Pop is here! \(Cover: TOMORROW X TOGETHER\)
 
-[Spotify](https://open.spotify.com/user/spotify) - 6,129,468 likes - 50 songs - 2 hr 28 min
+[Spotify](https://open.spotify.com/user/spotify) - 6,129,200 likes - 50 songs - 2 hr 28 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9tPFwDMOaN1.md) - [plain]
 | 49 | [CLICK](https://open.spotify.com/track/1zyNO73bPNPC6KBi3raNmZ) | [JISOO](https://open.spotify.com/artist/6UZ0ba50XreR4TM8u322gs) | [CLICK](https://open.spotify.com/album/6wj16ihEX2pPqKzbtCZ0N3) | 2:39 |
 | 50 | [BOYFRIEND](https://open.spotify.com/track/0Yyh9XpPntsMhbJcC80VfH) | [HOSHI](https://open.spotify.com/artist/6nWKAdMv1BDq1zHfZzkdbR) | [BOYFRIEND](https://open.spotify.com/album/20HcvlMoE3Y75MEkG7kATP) | 2:31 |
 
-Snapshot ID: `AAAAACIP1UFVWy6qiV6Y0EdR9h9Mr7e2`
+Snapshot ID: `AAAAAAZ8jPMwZSPwxiJViuFtWqqxGJdl`

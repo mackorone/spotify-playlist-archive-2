@@ -1,12 +1,12 @@
 {
   "description": "From the very deep spirit of the almighty North. ",
-  "num_followers": 603197,
+  "num_followers": 603265,
   "original_name": "Northern Spirits",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAGA4a6FMxTjnFeWNxLmJaASmv2QI",
+  "snapshot_id": "AAAAAEWyQRw0Uz3eUSCOznl32racUUz2",
   "tracks": [
     {
       "added_at": "2026-10-19 15:51:47",
@@ -603,6 +603,22 @@
     {
       "added_at": "2026-10-19 15:51:47",
       "album": {
+        "name": "Atoms Aligned, Coming Undone",
+        "url": "https://open.spotify.com/album/6UWmG28sc4akOQcOEQGJ1e"
+      },
+      "artists": [
+        {
+          "name": "Sylvaine",
+          "url": "https://open.spotify.com/artist/5C9ocrDvsfSz8qcxG70QEe"
+        }
+      ],
+      "duration_ms": 464160,
+      "name": "L'appel Du Vide",
+      "url": "https://open.spotify.com/track/2VUxvWxmUJXp2neuoOq1zx"
+    },
+    {
+      "added_at": "2026-10-19 15:51:47",
+      "album": {
         "name": "Der Himmel muss warten",
         "url": "https://open.spotify.com/album/43Q7gDUQETLoJmJLDa4LhF"
       },
@@ -631,22 +647,6 @@
       "duration_ms": 199000,
       "name": "Hugrheim",
       "url": "https://open.spotify.com/track/3CDB1v0zmz0nfzZrWqqwbq"
-    },
-    {
-      "added_at": "2026-10-19 15:51:47",
-      "album": {
-        "name": "Atoms Aligned, Coming Undone",
-        "url": "https://open.spotify.com/album/6UWmG28sc4akOQcOEQGJ1e"
-      },
-      "artists": [
-        {
-          "name": "Sylvaine",
-          "url": "https://open.spotify.com/artist/5C9ocrDvsfSz8qcxG70QEe"
-        }
-      ],
-      "duration_ms": 464160,
-      "name": "L'appel Du Vide",
-      "url": "https://open.spotify.com/track/2VUxvWxmUJXp2neuoOq1zx"
     },
     {
       "added_at": "2026-10-19 15:51:47",
@@ -683,18 +683,22 @@
     {
       "added_at": "2026-10-19 15:51:47",
       "album": {
-        "name": "Ylfa Spere",
-        "url": "https://open.spotify.com/album/74Waqk73z57ISc8IGhzsB3"
+        "name": "Galdr",
+        "url": "https://open.spotify.com/album/5EIujAPdoMNJepCWvKA6Tn"
       },
       "artists": [
         {
-          "name": "Faun",
-          "url": "https://open.spotify.com/artist/2wPOgnQ6eW3X73uIJZ4YFE"
+          "name": "Asynje",
+          "url": "https://open.spotify.com/artist/42mveNsBgkZr7J2aMZQouQ"
+        },
+        {
+          "name": "Nanna Barslev",
+          "url": "https://open.spotify.com/artist/5icXwn4kNVG6IZz7TmaaFI"
         }
       ],
-      "duration_ms": 215893,
-      "name": "Ylfa Spere",
-      "url": "https://open.spotify.com/track/1qA1LY2FHhsCWDai6Byfsb"
+      "duration_ms": 318213,
+      "name": "Vindr",
+      "url": "https://open.spotify.com/track/6zcPcvIJ1pf9eAdrWFHdgR"
     },
     {
       "added_at": "2026-10-19 15:51:47",
@@ -715,22 +719,34 @@
     {
       "added_at": "2026-10-19 15:51:47",
       "album": {
-        "name": "Galdr",
-        "url": "https://open.spotify.com/album/5EIujAPdoMNJepCWvKA6Tn"
+        "name": "Ylfa Spere",
+        "url": "https://open.spotify.com/album/74Waqk73z57ISc8IGhzsB3"
       },
       "artists": [
         {
-          "name": "Asynje",
-          "url": "https://open.spotify.com/artist/42mveNsBgkZr7J2aMZQouQ"
-        },
-        {
-          "name": "Nanna Barslev",
-          "url": "https://open.spotify.com/artist/5icXwn4kNVG6IZz7TmaaFI"
+          "name": "Faun",
+          "url": "https://open.spotify.com/artist/2wPOgnQ6eW3X73uIJZ4YFE"
         }
       ],
-      "duration_ms": 318213,
-      "name": "Vindr",
-      "url": "https://open.spotify.com/track/6zcPcvIJ1pf9eAdrWFHdgR"
+      "duration_ms": 215893,
+      "name": "Ylfa Spere",
+      "url": "https://open.spotify.com/track/1qA1LY2FHhsCWDai6Byfsb"
+    },
+    {
+      "added_at": "2026-10-19 15:51:47",
+      "album": {
+        "name": "Matriarch",
+        "url": "https://open.spotify.com/album/4ENwBjtTvOOWfl0hrbVAyD"
+      },
+      "artists": [
+        {
+          "name": "Shireen",
+          "url": "https://open.spotify.com/artist/5seY97ZUURo9gKO34z2G06"
+        }
+      ],
+      "duration_ms": 378986,
+      "name": "Umai",
+      "url": "https://open.spotify.com/track/3C821qtpWKmA0acEYMjXLQ"
     },
     {
       "added_at": "2026-10-19 15:51:47",
@@ -755,22 +771,6 @@
       "duration_ms": 195514,
       "name": "Shieldmaiden",
       "url": "https://open.spotify.com/track/3GMwtVxonfUVbd9DnAUqFP"
-    },
-    {
-      "added_at": "2026-10-19 15:51:47",
-      "album": {
-        "name": "Matriarch",
-        "url": "https://open.spotify.com/album/4ENwBjtTvOOWfl0hrbVAyD"
-      },
-      "artists": [
-        {
-          "name": "Shireen",
-          "url": "https://open.spotify.com/artist/5seY97ZUURo9gKO34z2G06"
-        }
-      ],
-      "duration_ms": 378986,
-      "name": "Umai",
-      "url": "https://open.spotify.com/track/3C821qtpWKmA0acEYMjXLQ"
     },
     {
       "added_at": "2026-10-19 15:51:47",
@@ -823,22 +823,6 @@
     {
       "added_at": "2026-10-19 15:51:47",
       "album": {
-        "name": "Verjugar\u00f0ar / Walls",
-        "url": "https://open.spotify.com/album/7pLRMKZ1w4cBztLcmRdz8K"
-      },
-      "artists": [
-        {
-          "name": "Eiv\u00f8r",
-          "url": "https://open.spotify.com/artist/2dB4ya2W1Gvng8gjWSPu2H"
-        }
-      ],
-      "duration_ms": 274000,
-      "name": "Verjugar\u00f0ar / Walls",
-      "url": "https://open.spotify.com/track/3lQi8tyt2mKdCTaeTz5w0k"
-    },
-    {
-      "added_at": "2026-10-19 15:51:47",
-      "album": {
         "name": "Lunar Falls",
         "url": "https://open.spotify.com/album/1HUzttzwHcJeFyIBGeLXL3"
       },
@@ -851,6 +835,22 @@
       "duration_ms": 210834,
       "name": "The Elm",
       "url": "https://open.spotify.com/track/6kGb58FphWqHUAbDQyw72G"
+    },
+    {
+      "added_at": "2026-10-19 15:51:47",
+      "album": {
+        "name": "Verjugar\u00f0ar / Walls",
+        "url": "https://open.spotify.com/album/7pLRMKZ1w4cBztLcmRdz8K"
+      },
+      "artists": [
+        {
+          "name": "Eiv\u00f8r",
+          "url": "https://open.spotify.com/artist/2dB4ya2W1Gvng8gjWSPu2H"
+        }
+      ],
+      "duration_ms": 274000,
+      "name": "Verjugar\u00f0ar / Walls",
+      "url": "https://open.spotify.com/track/3lQi8tyt2mKdCTaeTz5w0k"
     },
     {
       "added_at": "2026-10-19 15:51:47",
@@ -1167,22 +1167,6 @@
     {
       "added_at": "2026-10-19 15:51:47",
       "album": {
-        "name": "Volch'ya Yagoda",
-        "url": "https://open.spotify.com/album/0UWdMPkfaHzQclhYQc43fS"
-      },
-      "artists": [
-        {
-          "name": "Theodor Bastard",
-          "url": "https://open.spotify.com/artist/2PQ9UX4kWDE3mf2fYGRzqF"
-        }
-      ],
-      "duration_ms": 249370,
-      "name": "Les",
-      "url": "https://open.spotify.com/track/4zrkDm3R7bM53Tvknv5dks"
-    },
-    {
-      "added_at": "2026-10-19 15:51:47",
-      "album": {
         "name": "Set the Sails",
         "url": "https://open.spotify.com/album/32yJV9RCY9rHW8Hc2isL1c"
       },
@@ -1195,6 +1179,22 @@
       "duration_ms": 196066,
       "name": "Set the Sails",
       "url": "https://open.spotify.com/track/6ZOx4ehXa8K2LESIQzIaqA"
+    },
+    {
+      "added_at": "2026-10-19 15:51:47",
+      "album": {
+        "name": "Volch'ya Yagoda",
+        "url": "https://open.spotify.com/album/0UWdMPkfaHzQclhYQc43fS"
+      },
+      "artists": [
+        {
+          "name": "Theodor Bastard",
+          "url": "https://open.spotify.com/artist/2PQ9UX4kWDE3mf2fYGRzqF"
+        }
+      ],
+      "duration_ms": 249370,
+      "name": "Les",
+      "url": "https://open.spotify.com/track/4zrkDm3R7bM53Tvknv5dks"
     },
     {
       "added_at": "2026-10-19 15:51:47",

@@ -1,12 +1,12 @@
 {
   "description": "The biggest songs in Latin America in 2017. Cover: Daddy Yankee & Luis Fonsi",
-  "num_followers": 94546,
+  "num_followers": 94579,
   "original_name": "Latin Hits 2017",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAACVaJQGoqJ9iUD1uPBvbbZ4rOHBF",
+  "snapshot_id": "AAAAALh+quzNZIms3DFmupbxAA6LWKBi",
   "tracks": [
     {
       "added_at": "2024-07-13 01:15:47",
@@ -739,6 +739,26 @@
     {
       "added_at": "2024-07-13 01:15:47",
       "album": {
+        "name": "MANTRA",
+        "url": "https://open.spotify.com/album/1l1zcI8iwJg4WCb7jxHtbN"
+      },
+      "artists": [
+        {
+          "name": "Sebastian Yatra",
+          "url": "https://open.spotify.com/artist/07YUOmWljBTXwIseAUd9TW"
+        },
+        {
+          "name": "Dalmata",
+          "url": "https://open.spotify.com/artist/3jGlU8UMMo44I2xeLQ6FD3"
+        }
+      ],
+      "duration_ms": 203400,
+      "name": "SUTRA",
+      "url": "https://open.spotify.com/track/0lTYnxJdC68v0oXd5xolxY"
+    },
+    {
+      "added_at": "2024-07-13 01:15:47",
+      "album": {
         "name": "F\u00e9nix",
         "url": "https://open.spotify.com/album/2dBgWXp41imu2zBNv9oFxZ"
       },
@@ -759,22 +779,22 @@
     {
       "added_at": "2024-07-13 01:15:47",
       "album": {
-        "name": "MANTRA",
-        "url": "https://open.spotify.com/album/1l1zcI8iwJg4WCb7jxHtbN"
+        "name": "#Update",
+        "url": "https://open.spotify.com/album/3tAW0n99Uq2IlvzBsW3tQq"
       },
       "artists": [
         {
-          "name": "Sebastian Yatra",
-          "url": "https://open.spotify.com/artist/07YUOmWljBTXwIseAUd9TW"
+          "name": "Yandel",
+          "url": "https://open.spotify.com/artist/0eHQ9o50hj6ZDNBt6Ys1sD"
         },
         {
-          "name": "Dalmata",
-          "url": "https://open.spotify.com/artist/3jGlU8UMMo44I2xeLQ6FD3"
+          "name": "Wisin",
+          "url": "https://open.spotify.com/artist/3E6xrwgnVfYCrCs0ePERDz"
         }
       ],
-      "duration_ms": 203400,
-      "name": "SUTRA",
-      "url": "https://open.spotify.com/track/0lTYnxJdC68v0oXd5xolxY"
+      "duration_ms": 210786,
+      "name": "Como Antes (feat. Wisin)",
+      "url": "https://open.spotify.com/track/5YzA563GXTuwQaRq24z1k5"
     },
     {
       "added_at": "2024-07-13 01:15:47",
@@ -815,26 +835,6 @@
       "duration_ms": 263288,
       "name": "Me Acostumbre (feat. Bad Bunny)",
       "url": "https://open.spotify.com/track/2FIm6YsSGL5acOqSuJDh5s"
-    },
-    {
-      "added_at": "2024-07-13 01:15:47",
-      "album": {
-        "name": "#Update",
-        "url": "https://open.spotify.com/album/3tAW0n99Uq2IlvzBsW3tQq"
-      },
-      "artists": [
-        {
-          "name": "Yandel",
-          "url": "https://open.spotify.com/artist/0eHQ9o50hj6ZDNBt6Ys1sD"
-        },
-        {
-          "name": "Wisin",
-          "url": "https://open.spotify.com/artist/3E6xrwgnVfYCrCs0ePERDz"
-        }
-      ],
-      "duration_ms": 210786,
-      "name": "Como Antes (feat. Wisin)",
-      "url": "https://open.spotify.com/track/5YzA563GXTuwQaRq24z1k5"
     },
     {
       "added_at": "2024-07-13 01:15:47",
@@ -915,26 +915,6 @@
     {
       "added_at": "2024-07-13 01:15:47",
       "album": {
-        "name": "F\u00e9nix",
-        "url": "https://open.spotify.com/album/2dBgWXp41imu2zBNv9oFxZ"
-      },
-      "artists": [
-        {
-          "name": "Nicky Jam",
-          "url": "https://open.spotify.com/artist/1SupJlEpv7RS2tPNRaHViT"
-        },
-        {
-          "name": "Plan B",
-          "url": "https://open.spotify.com/artist/2jSGzJw0ebJLu7OLVSOcBP"
-        }
-      ],
-      "duration_ms": 218306,
-      "name": "Por el Momento (feat. Plan B)",
-      "url": "https://open.spotify.com/track/1GZZELGFwWsi2oLE1v1eyQ"
-    },
-    {
-      "added_at": "2024-07-13 01:15:47",
-      "album": {
         "name": "CNCO",
         "url": "https://open.spotify.com/album/0YCyFUN3ihGbP2x9C09NF6"
       },
@@ -951,6 +931,26 @@
       "duration_ms": 206922,
       "name": "Hey DJ",
       "url": "https://open.spotify.com/track/1XgpK29CGGjZnxPYkiRbh4"
+    },
+    {
+      "added_at": "2024-07-13 01:15:47",
+      "album": {
+        "name": "F\u00e9nix",
+        "url": "https://open.spotify.com/album/2dBgWXp41imu2zBNv9oFxZ"
+      },
+      "artists": [
+        {
+          "name": "Nicky Jam",
+          "url": "https://open.spotify.com/artist/1SupJlEpv7RS2tPNRaHViT"
+        },
+        {
+          "name": "Plan B",
+          "url": "https://open.spotify.com/artist/2jSGzJw0ebJLu7OLVSOcBP"
+        }
+      ],
+      "duration_ms": 218306,
+      "name": "Por el Momento (feat. Plan B)",
+      "url": "https://open.spotify.com/track/1GZZELGFwWsi2oLE1v1eyQ"
     },
     {
       "added_at": "2024-07-13 01:15:47",

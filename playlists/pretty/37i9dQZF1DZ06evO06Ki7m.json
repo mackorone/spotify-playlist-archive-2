@@ -1,12 +1,12 @@
 {
   "description": "This is Metro Boomin. The essential tracks, all in one playlist.",
-  "num_followers": 412778,
+  "num_followers": 412787,
   "original_name": "This Is Metro Boomin",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "awIwgAAAAACAB8tiWcDUJMU+7OSHRMA8",
+  "snapshot_id": "awOCAAAAAAAsU6qjtZ7x+Be0xuRSRGRw",
   "tracks": [
     {
       "added_at": null,
@@ -711,26 +711,30 @@
     {
       "added_at": null,
       "album": {
-        "name": "NOT ALL HEROES WEAR CAPES (Deluxe)",
-        "url": "https://open.spotify.com/album/3IO8IPjwXuzPJnoaqkwYrj"
+        "name": "Without Warning",
+        "url": "https://open.spotify.com/album/0MV1yCXcNNQBfwApqAVkH0"
       },
       "artists": [
         {
-          "name": "Metro Boomin",
-          "url": "https://open.spotify.com/artist/0iEtIxbK0KxaSlF7G42ZOp"
+          "name": "21 Savage",
+          "url": "https://open.spotify.com/artist/1URnnhqYAYcrqrcwql10ft"
         },
         {
           "name": "Offset",
           "url": "https://open.spotify.com/artist/4DdkRBBYG6Yk9Ka8tdJ9BW"
         },
         {
-          "name": "Drake",
-          "url": "https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4"
+          "name": "Metro Boomin",
+          "url": "https://open.spotify.com/artist/0iEtIxbK0KxaSlF7G42ZOp"
+        },
+        {
+          "name": "Travis Scott",
+          "url": "https://open.spotify.com/artist/0Y5tJX1MQlPlqiwlOH1tJY"
         }
       ],
-      "duration_ms": 265480,
-      "name": "No Complaints (feat. Offset & Drake) (Bonus)",
-      "url": "https://open.spotify.com/track/156LzfvMNKuXuiot4uzhGD"
+      "duration_ms": 268933,
+      "name": "Ghostface Killers (feat. Travis Scott)",
+      "url": "https://open.spotify.com/track/5u6vkDnOyaf8LsteDAj2ub"
     },
     {
       "added_at": null,
@@ -767,30 +771,26 @@
     {
       "added_at": null,
       "album": {
-        "name": "Without Warning",
-        "url": "https://open.spotify.com/album/0MV1yCXcNNQBfwApqAVkH0"
+        "name": "NOT ALL HEROES WEAR CAPES (Deluxe)",
+        "url": "https://open.spotify.com/album/3IO8IPjwXuzPJnoaqkwYrj"
       },
       "artists": [
         {
-          "name": "21 Savage",
-          "url": "https://open.spotify.com/artist/1URnnhqYAYcrqrcwql10ft"
+          "name": "Metro Boomin",
+          "url": "https://open.spotify.com/artist/0iEtIxbK0KxaSlF7G42ZOp"
         },
         {
           "name": "Offset",
           "url": "https://open.spotify.com/artist/4DdkRBBYG6Yk9Ka8tdJ9BW"
         },
         {
-          "name": "Metro Boomin",
-          "url": "https://open.spotify.com/artist/0iEtIxbK0KxaSlF7G42ZOp"
-        },
-        {
-          "name": "Travis Scott",
-          "url": "https://open.spotify.com/artist/0Y5tJX1MQlPlqiwlOH1tJY"
+          "name": "Drake",
+          "url": "https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4"
         }
       ],
-      "duration_ms": 268933,
-      "name": "Ghostface Killers (feat. Travis Scott)",
-      "url": "https://open.spotify.com/track/5u6vkDnOyaf8LsteDAj2ub"
+      "duration_ms": 265480,
+      "name": "No Complaints (feat. Offset & Drake) (Bonus)",
+      "url": "https://open.spotify.com/track/156LzfvMNKuXuiot4uzhGD"
     },
     {
       "added_at": null,
@@ -811,6 +811,34 @@
       "duration_ms": 226213,
       "name": "We Don't Trust You",
       "url": "https://open.spotify.com/track/1pnDvUuAEd6z8bKEsbAjk1"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Without Warning",
+        "url": "https://open.spotify.com/album/0MV1yCXcNNQBfwApqAVkH0"
+      },
+      "artists": [
+        {
+          "name": "21 Savage",
+          "url": "https://open.spotify.com/artist/1URnnhqYAYcrqrcwql10ft"
+        },
+        {
+          "name": "Offset",
+          "url": "https://open.spotify.com/artist/4DdkRBBYG6Yk9Ka8tdJ9BW"
+        },
+        {
+          "name": "Metro Boomin",
+          "url": "https://open.spotify.com/artist/0iEtIxbK0KxaSlF7G42ZOp"
+        },
+        {
+          "name": "Quavo",
+          "url": "https://open.spotify.com/artist/0VRj0yCOv2FXJNP47XQnx5"
+        }
+      ],
+      "duration_ms": 257600,
+      "name": "Rap Saved Me (feat. Quavo)",
+      "url": "https://open.spotify.com/track/0tdCy39PgWN8LFWu34ORn3"
     },
     {
       "added_at": null,
@@ -851,34 +879,6 @@
       "duration_ms": 215066,
       "name": "Call Me",
       "url": "https://open.spotify.com/track/1xpXnpIpuvzpx9jz15baJF"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Without Warning",
-        "url": "https://open.spotify.com/album/0MV1yCXcNNQBfwApqAVkH0"
-      },
-      "artists": [
-        {
-          "name": "21 Savage",
-          "url": "https://open.spotify.com/artist/1URnnhqYAYcrqrcwql10ft"
-        },
-        {
-          "name": "Offset",
-          "url": "https://open.spotify.com/artist/4DdkRBBYG6Yk9Ka8tdJ9BW"
-        },
-        {
-          "name": "Metro Boomin",
-          "url": "https://open.spotify.com/artist/0iEtIxbK0KxaSlF7G42ZOp"
-        },
-        {
-          "name": "Quavo",
-          "url": "https://open.spotify.com/artist/0VRj0yCOv2FXJNP47XQnx5"
-        }
-      ],
-      "duration_ms": 257600,
-      "name": "Rap Saved Me (feat. Quavo)",
-      "url": "https://open.spotify.com/track/0tdCy39PgWN8LFWu34ORn3"
     },
     {
       "added_at": null,
@@ -1094,15 +1094,11 @@
         {
           "name": "Metro Boomin",
           "url": "https://open.spotify.com/artist/0iEtIxbK0KxaSlF7G42ZOp"
-        },
-        {
-          "name": "Drake",
-          "url": "https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4"
         }
       ],
-      "duration_ms": 193838,
-      "name": "Mr. Right Now (feat. Drake)",
-      "url": "https://open.spotify.com/track/4Q34FP1AT7GEl9oLgNtiWj"
+      "duration_ms": 185036,
+      "name": "Slidin",
+      "url": "https://open.spotify.com/track/7fxSLnklnayJNBIKntXedZ"
     },
     {
       "added_at": null,
@@ -1174,11 +1170,15 @@
         {
           "name": "Metro Boomin",
           "url": "https://open.spotify.com/artist/0iEtIxbK0KxaSlF7G42ZOp"
+        },
+        {
+          "name": "Drake",
+          "url": "https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4"
         }
       ],
-      "duration_ms": 185036,
-      "name": "Slidin",
-      "url": "https://open.spotify.com/track/7fxSLnklnayJNBIKntXedZ"
+      "duration_ms": 193838,
+      "name": "Mr. Right Now (feat. Drake)",
+      "url": "https://open.spotify.com/track/4Q34FP1AT7GEl9oLgNtiWj"
     }
   ],
   "unique_name": "This Is Metro Boomin",

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXpOtMyVOt4Q.md) - [plain]
 
 > Relaxed beats to game, vibe and stay unbothered
 
-[Spotify](https://open.spotify.com/user/spotify) - 324,199 likes - 58 songs - 2 hr 34 min
+[Spotify](https://open.spotify.com/user/spotify) - 324,273 likes - 58 songs - 2 hr 34 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -67,4 +67,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXpOtMyVOt4Q.md) - [plain]
 | 57 | [Lost in 84](https://open.spotify.com/track/0EZkhX2ROJGSxsAaD3qLxA) | [After Dark](https://open.spotify.com/artist/01oXEIT0WHf08pPiMUuY9k) | [Lost in 84](https://open.spotify.com/album/4OWyKPQutGfrKK4sINSvmh) | 2:34 |
 | 58 | [Born Fighting](https://open.spotify.com/track/55ld5zFPQG6tR9vRxFLmMx) | [Hans Blu](https://open.spotify.com/artist/3EREyIqFqpNOLCxa98i5k5) | [Born Fighting](https://open.spotify.com/album/2QG0q0Liq7yU0nzGsQPG8j) | 3:08 |
 
-Snapshot ID: `AAAAADw/0T0aMv44vCWGqh5RIv5Zq5pW`
+Snapshot ID: `AAAAAJ/9pugT7fwPRTbb2S/vQGE10ruE`

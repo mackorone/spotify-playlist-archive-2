@@ -1,12 +1,12 @@
 {
   "description": "60s rock to fuel your ride. Cover: Jimi Hendrix",
-  "num_followers": 325566,
+  "num_followers": 325604,
   "original_name": "60s Rock Drive",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAKIj8ACPkxCqDEUfua8r7zGM+WwH",
+  "snapshot_id": "AAAAAE9NRvpBUST4qqPjKTSTQQaKyGWc",
   "tracks": [
     {
       "added_at": "2021-03-22 17:56:31",
@@ -607,6 +607,22 @@
     {
       "added_at": "2021-03-22 17:56:31",
       "album": {
+        "name": "Santana",
+        "url": "https://open.spotify.com/album/0hfFLQzo3OwgYFFFvTQYhT"
+      },
+      "artists": [
+        {
+          "name": "Santana",
+          "url": "https://open.spotify.com/artist/6GI52t8N5F02MxU0g5U69P"
+        }
+      ],
+      "duration_ms": 237275,
+      "name": "Evil Ways",
+      "url": "https://open.spotify.com/track/4JFG8RLpi8m0xhjYmstb38"
+    },
+    {
+      "added_at": "2021-03-22 17:56:31",
+      "album": {
         "name": "Here Are the Sonics",
         "url": "https://open.spotify.com/album/4vqaqoTEbNyeeSHJA6KpdM"
       },
@@ -639,18 +655,18 @@
     {
       "added_at": "2021-03-22 17:56:31",
       "album": {
-        "name": "Santana",
-        "url": "https://open.spotify.com/album/0hfFLQzo3OwgYFFFvTQYhT"
+        "name": "In-A-Gadda-Da-Vida",
+        "url": "https://open.spotify.com/album/4L1Qw49gKwFuQwQovBxsKI"
       },
       "artists": [
         {
-          "name": "Santana",
-          "url": "https://open.spotify.com/artist/6GI52t8N5F02MxU0g5U69P"
+          "name": "Iron Butterfly",
+          "url": "https://open.spotify.com/artist/3cdvlbCYf4WoBdy89RWkNS"
         }
       ],
-      "duration_ms": 237275,
-      "name": "Evil Ways",
-      "url": "https://open.spotify.com/track/4JFG8RLpi8m0xhjYmstb38"
+      "duration_ms": 1024133,
+      "name": "In-A-Gadda-Da-Vida - 2006 Remaster Full-Length",
+      "url": "https://open.spotify.com/track/1exUq8aG2OMbSeZeTwz06k"
     },
     {
       "added_at": "2021-03-22 17:56:31",
@@ -667,22 +683,6 @@
       "duration_ms": 185523,
       "name": "Psychotic Reaction",
       "url": "https://open.spotify.com/track/5JcaA4A9ZoXthwEnxOxWvP"
-    },
-    {
-      "added_at": "2021-03-22 17:56:31",
-      "album": {
-        "name": "In-A-Gadda-Da-Vida",
-        "url": "https://open.spotify.com/album/4L1Qw49gKwFuQwQovBxsKI"
-      },
-      "artists": [
-        {
-          "name": "Iron Butterfly",
-          "url": "https://open.spotify.com/artist/3cdvlbCYf4WoBdy89RWkNS"
-        }
-      ],
-      "duration_ms": 1024133,
-      "name": "In-A-Gadda-Da-Vida - 2006 Remaster Full-Length",
-      "url": "https://open.spotify.com/track/1exUq8aG2OMbSeZeTwz06k"
     },
     {
       "added_at": "2021-03-22 17:56:31",

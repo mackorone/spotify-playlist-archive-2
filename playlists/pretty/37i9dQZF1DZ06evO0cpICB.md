@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0cpICB.md) - [plain]
 
 > This is FLO\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 18,734 likes - 37 songs - 1 hr 54 min
+[Spotify](https://open.spotify.com/user/spotify) - 18,737 likes - 37 songs - 1 hr 54 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -36,14 +36,14 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0cpICB.md) - [plain]
 | 26 | [AAA](https://open.spotify.com/track/13jJewBlWN5XBWpSkwnl0O) | [FLO](https://open.spotify.com/artist/0s4kXsjYeH0S1xRyVGN4NO) | [Access All Areas](https://open.spotify.com/album/3wSWMuHQOJ2gU22t5sCouR) | 3:24 |
 | 27 | [Hide & Seek \- FLO Remix](https://open.spotify.com/track/6jAdi1dYM3CqKaPnaGu03H) | [Stormzy](https://open.spotify.com/artist/2SrSdSvpminqmStGELCSNd), [FLO](https://open.spotify.com/artist/0s4kXsjYeH0S1xRyVGN4NO) | [Hide & Seek \(FLO Remix\)](https://open.spotify.com/album/7sFeHL1xwkJEZzQarMXsDv) | 3:29 |
 | 28 | [Do Too Much](https://open.spotify.com/track/6y5YVn647h2dKeWtvmpj0D) | [FLO](https://open.spotify.com/artist/0s4kXsjYeH0S1xRyVGN4NO) | [Access All Areas: Unlocked](https://open.spotify.com/album/4AKsvZI1VnaaykmssL74UQ) | 3:19 |
-| 29 | [Mamacitas](https://open.spotify.com/track/5tus0rguJsYmiQEIL221uf) | [FLO](https://open.spotify.com/artist/0s4kXsjYeH0S1xRyVGN4NO) | [GOAT \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/7l7gIXOUlIasR3NjDxVRRg) | 3:26 |
-| 30 | [Change](https://open.spotify.com/track/65KZuAz5UdEXiS2YulhjDe) | [FLO](https://open.spotify.com/artist/0s4kXsjYeH0S1xRyVGN4NO) | [3 of Us](https://open.spotify.com/album/3wjvkDUEECwgqVhIfNPQSV) | 3:12 |
-| 31 | [Another Guy \- Acoustic](https://open.spotify.com/track/7rWkd70fyKUGw00s6BBSGz) | [FLO](https://open.spotify.com/artist/0s4kXsjYeH0S1xRyVGN4NO) | [The Lead](https://open.spotify.com/album/04wFsn459A8leDKrydRK56) | 3:00 |
+| 29 | [Change](https://open.spotify.com/track/65KZuAz5UdEXiS2YulhjDe) | [FLO](https://open.spotify.com/artist/0s4kXsjYeH0S1xRyVGN4NO) | [3 of Us](https://open.spotify.com/album/3wjvkDUEECwgqVhIfNPQSV) | 3:12 |
+| 30 | [Mamacitas](https://open.spotify.com/track/5tus0rguJsYmiQEIL221uf) | [FLO](https://open.spotify.com/artist/0s4kXsjYeH0S1xRyVGN4NO) | [GOAT \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/7l7gIXOUlIasR3NjDxVRRg) | 3:26 |
+| 31 | [act xvi: twentyfoe7](https://open.spotify.com/track/4T5KVXgVYIniGEpz0L8Hft) | [4batz](https://open.spotify.com/artist/5fi7lIgJGH3RgUpJYcffQ7), [FLO](https://open.spotify.com/artist/0s4kXsjYeH0S1xRyVGN4NO) | [Still Shinin](https://open.spotify.com/album/5NUNaj9pyIjcNd5e9ObgzE) | 2:44 |
 | 32 | [Say Less](https://open.spotify.com/track/6hyIzRsqpSHhfMy8QQ05sB) | [FLO](https://open.spotify.com/artist/0s4kXsjYeH0S1xRyVGN4NO) | [Access All Areas: Unlocked](https://open.spotify.com/album/4AKsvZI1VnaaykmssL74UQ) | 3:05 |
-| 33 | [act xvi: twentyfoe7](https://open.spotify.com/track/4T5KVXgVYIniGEpz0L8Hft) | [4batz](https://open.spotify.com/artist/5fi7lIgJGH3RgUpJYcffQ7), [FLO](https://open.spotify.com/artist/0s4kXsjYeH0S1xRyVGN4NO) | [Still Shinin](https://open.spotify.com/album/5NUNaj9pyIjcNd5e9ObgzE) | 2:44 |
-| 34 | [3 of Us](https://open.spotify.com/track/36V3yQnFlfRarXVJbh17lE) | [FLO](https://open.spotify.com/artist/0s4kXsjYeH0S1xRyVGN4NO) | [3 of Us](https://open.spotify.com/album/3wjvkDUEECwgqVhIfNPQSV) | 2:56 |
+| 33 | [3 of Us](https://open.spotify.com/track/36V3yQnFlfRarXVJbh17lE) | [FLO](https://open.spotify.com/artist/0s4kXsjYeH0S1xRyVGN4NO) | [3 of Us](https://open.spotify.com/album/3wjvkDUEECwgqVhIfNPQSV) | 2:56 |
+| 34 | [Another Guy \- Acoustic](https://open.spotify.com/track/7rWkd70fyKUGw00s6BBSGz) | [FLO](https://open.spotify.com/artist/0s4kXsjYeH0S1xRyVGN4NO) | [The Lead](https://open.spotify.com/album/04wFsn459A8leDKrydRK56) | 3:00 |
 | 35 | [8 \(feat\. FLO\) \- Remix](https://open.spotify.com/track/4T9f5Btf2PvDm5DT25VHTO) | [Kehlani](https://open.spotify.com/artist/0cGUm45nv7Z6M6qdXYQGTX), [FLO](https://open.spotify.com/artist/0s4kXsjYeH0S1xRyVGN4NO) | [While We Wait 2](https://open.spotify.com/album/0tmZqPHODtZmBHr3cozsOa) | 2:51 |
 | 36 | [Suite Life \(Familiar\) \[Feat\. Bellah\] \- Bonus Track](https://open.spotify.com/track/2X5hOPvGUp800KM7GG6tXn) | [FLO](https://open.spotify.com/artist/0s4kXsjYeH0S1xRyVGN4NO), [Bellah](https://open.spotify.com/artist/6UZk0TOb0uZ1JWa3BW81FQ) | [3 of Us](https://open.spotify.com/album/3K4ezkdiUh18fKYTLNF5at) | 2:34 |
 | 37 | [Control Freak](https://open.spotify.com/track/0Vo7LGRniWktyOWYEf7xjX) | [FLO](https://open.spotify.com/artist/0s4kXsjYeH0S1xRyVGN4NO) | [3 of Us](https://open.spotify.com/album/3wjvkDUEECwgqVhIfNPQSV) | 3:00 |
 
-Snapshot ID: `awIwgAAAAABBpDQvDAPcZeYvFC7byeyP`
+Snapshot ID: `awOCAAAAAACmo2Z/T5pRl4Yw22BWKtUM`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0TW7y8.md) - [plain]
 
 > This is Jorja Smith\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 328,750 likes - 50 songs - 2 hr 49 min
+[Spotify](https://open.spotify.com/user/spotify) - 328,745 likes - 50 songs - 2 hr 49 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -28,17 +28,17 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0TW7y8.md) - [plain]
 | 18 | [Peng Black Girls Remix \- A COLORS SHOW](https://open.spotify.com/track/7L15RIYFpoiHKJQNHsYhWM) | [ENNY](https://open.spotify.com/artist/3qEnCAnX23lvoxZYtBiPgL), [Jorja Smith](https://open.spotify.com/artist/1CoZyIx7UvdxT5c8UkMzHd) | [Peng Black Girls Remix \- A COLORS SHOW](https://open.spotify.com/album/472cjeBcWY3uAAJtxnpM4z) | 3:26 |
 | 19 | [I Lied, You Lied](https://open.spotify.com/track/4AtKiiVqo5lIZZBwfOmshW) | [Jorja Smith](https://open.spotify.com/artist/1CoZyIx7UvdxT5c8UkMzHd) | [What Are The Odds](https://open.spotify.com/album/53Rf76kJAhJNtyrxLgKTRa) | 3:23 |
 | 20 | [Come With Me \(feat\. Jorja Smith\)](https://open.spotify.com/track/65CwK6coaH8GnQnatXnJDH) | [Major League Djz](https://open.spotify.com/artist/0N3AcLTAS3vcx93PxN2Agb), [Jorja Smith](https://open.spotify.com/artist/1CoZyIx7UvdxT5c8UkMzHd) | [Come With Me \(feat\. Jorja Smith\)](https://open.spotify.com/album/3UZXRGAsUy1h8XdLoclc26) | 3:34 |
-| 21 | [Get Me Down \(feat\. Jorja Smith\)](https://open.spotify.com/track/4s0WWsnbCvEtOjsFo6ZdkR) | [Nia Archives](https://open.spotify.com/artist/7BMR0fwtEvzGtK4rNGdoiQ), [Jorja Smith](https://open.spotify.com/artist/1CoZyIx7UvdxT5c8UkMzHd) | [Emotional Junglist](https://open.spotify.com/album/513jv6L44NNDZQGSaPNg7S) | 3:14 |
-| 22 | [With You](https://open.spotify.com/track/5kIRv64ElvSnZgY114lqEW) | [Jorja Smith](https://open.spotify.com/artist/1CoZyIx7UvdxT5c8UkMzHd) | [With You](https://open.spotify.com/album/0CcGtpurfGXXiMJrcVJ6YY) | 3:21 |
+| 21 | [With You](https://open.spotify.com/track/5kIRv64ElvSnZgY114lqEW) | [Jorja Smith](https://open.spotify.com/artist/1CoZyIx7UvdxT5c8UkMzHd) | [With You](https://open.spotify.com/album/0CcGtpurfGXXiMJrcVJ6YY) | 3:21 |
+| 22 | [Get Me Down \(feat\. Jorja Smith\)](https://open.spotify.com/track/4s0WWsnbCvEtOjsFo6ZdkR) | [Nia Archives](https://open.spotify.com/artist/7BMR0fwtEvzGtK4rNGdoiQ), [Jorja Smith](https://open.spotify.com/artist/1CoZyIx7UvdxT5c8UkMzHd) | [Emotional Junglist](https://open.spotify.com/album/513jv6L44NNDZQGSaPNg7S) | 3:14 |
 | 23 | [What Are The Odds](https://open.spotify.com/track/7pXOVush7EakPluHkka7hr) | [Jorja Smith](https://open.spotify.com/artist/1CoZyIx7UvdxT5c8UkMzHd) | [What Are The Odds](https://open.spotify.com/album/53Rf76kJAhJNtyrxLgKTRa) | 2:37 |
 | 24 | [The Way I Love You](https://open.spotify.com/track/6u1xR1LKAiahXPrwjNCkky) | [Jorja Smith](https://open.spotify.com/artist/1CoZyIx7UvdxT5c8UkMzHd) | [The Way I Love You](https://open.spotify.com/album/5LM2wQNoA6LlS5aTR4PKJj) | 3:23 |
 | 25 | [Burn](https://open.spotify.com/track/099qKQ9zvTWcMDsNsasKpI) | [Jorja Smith](https://open.spotify.com/artist/1CoZyIx7UvdxT5c8UkMzHd) | [Be Right Back](https://open.spotify.com/album/7MbcxleVqx5qeZgXdw5FAi) | 3:34 |
 | 26 | [Feelings \(feat\. J Hus\)](https://open.spotify.com/track/13eNzMdXHUinoWsxcRXTCW) | [Jorja Smith](https://open.spotify.com/artist/1CoZyIx7UvdxT5c8UkMzHd), [J Hus](https://open.spotify.com/artist/2a0uxJgbvvIRI4GX8pYfcr) | [falling or flying](https://open.spotify.com/album/3cCpJc6LhvskN7i9w3WkaA) | 3:57 |
-| 27 | [Dancing](https://open.spotify.com/track/4rcF5dwIHEVOgQQhva1OOI) | [Jorja Smith](https://open.spotify.com/artist/1CoZyIx7UvdxT5c8UkMzHd) | [What Are The Odds](https://open.spotify.com/album/53Rf76kJAhJNtyrxLgKTRa) | 2:41 |
+| 27 | [For Life](https://open.spotify.com/track/616ATvSjdoSWGvfMM76Bq6) | [Jorja Smith](https://open.spotify.com/artist/1CoZyIx7UvdxT5c8UkMzHd) | [What Are The Odds](https://open.spotify.com/album/53Rf76kJAhJNtyrxLgKTRa) | 2:48 |
 | 28 | [Where Did I Go?](https://open.spotify.com/track/79OKfIXCPbNhZa3h1ZREag) | [Jorja Smith](https://open.spotify.com/artist/1CoZyIx7UvdxT5c8UkMzHd) | [Lost & Found](https://open.spotify.com/album/3AlSuZnX4ZCab8eoWnnfbm) | 3:11 |
 | 29 | [Addicted](https://open.spotify.com/track/3vMtiUewPWlK5UsIlE8lIy) | [Jorja Smith](https://open.spotify.com/artist/1CoZyIx7UvdxT5c8UkMzHd) | [Addicted](https://open.spotify.com/album/4oGNxeyb9Qe4LcS98Szhcs) | 3:24 |
 | 30 | [Greatest Gift \(feat\. Lila Iké\)](https://open.spotify.com/track/02DTkcgh0BpYrEYPO05Zex) | [Jorja Smith](https://open.spotify.com/artist/1CoZyIx7UvdxT5c8UkMzHd), [Lila Iké](https://open.spotify.com/artist/0uAUrmEQbwcDFzg0v7VicO) | [falling or flying](https://open.spotify.com/album/3cCpJc6LhvskN7i9w3WkaA) | 3:12 |
-| 31 | [For Life](https://open.spotify.com/track/616ATvSjdoSWGvfMM76Bq6) | [Jorja Smith](https://open.spotify.com/artist/1CoZyIx7UvdxT5c8UkMzHd) | [What Are The Odds](https://open.spotify.com/album/53Rf76kJAhJNtyrxLgKTRa) | 2:48 |
+| 31 | [Dancing](https://open.spotify.com/track/4rcF5dwIHEVOgQQhva1OOI) | [Jorja Smith](https://open.spotify.com/artist/1CoZyIx7UvdxT5c8UkMzHd) | [What Are The Odds](https://open.spotify.com/album/53Rf76kJAhJNtyrxLgKTRa) | 2:41 |
 | 32 | [Crush \(feat\. Jorja Smith\)](https://open.spotify.com/track/3cqAMw4w9px9nAV6iROr0a) | [AJ Tracey](https://open.spotify.com/artist/4Xi6LSfFqv26XgP9NKN26U), [Jorja Smith](https://open.spotify.com/artist/1CoZyIx7UvdxT5c8UkMzHd) | [Crush \(feat\. Jorja Smith\)](https://open.spotify.com/album/6NwDHbB35rZjIQsRPSkaF5) | 3:18 |
 | 33 | [Rose Rouge](https://open.spotify.com/track/36apwMphkcaS63LY3JJMPh) | [Jorja Smith](https://open.spotify.com/artist/1CoZyIx7UvdxT5c8UkMzHd) | [Rose Rouge](https://open.spotify.com/album/22cvF1LVMD3IUQeKE42r1s) | 5:57 |
 | 34 | [Little Things](https://open.spotify.com/track/5l98YzTS2wpzuKJipFXVmR) | [Jorja Smith](https://open.spotify.com/artist/1CoZyIx7UvdxT5c8UkMzHd) | [falling or flying](https://open.spotify.com/album/3cCpJc6LhvskN7i9w3WkaA) | 3:24 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0TW7y8.md) - [plain]
 | 49 | [July](https://open.spotify.com/track/7LwR08L58CiifSFw7tqdOl) | [Wesley Joseph](https://open.spotify.com/artist/1uf6plWcu7QbKiASVlTUPa), [Jorja Smith](https://open.spotify.com/artist/1CoZyIx7UvdxT5c8UkMzHd) | [Forever Ends Someday](https://open.spotify.com/album/7GVpOkI5do8Hb8NOtqb39y) | 2:32 |
 | 50 | [Falling or flying](https://open.spotify.com/track/4CNZbr3dSioXNk5bJE46XQ) | [Jorja Smith](https://open.spotify.com/artist/1CoZyIx7UvdxT5c8UkMzHd) | [falling or flying](https://open.spotify.com/album/3cCpJc6LhvskN7i9w3WkaA) | 3:24 |
 
-Snapshot ID: `awIwgAAAAAAhgUBcangrkRrktTCW4lcM`
+Snapshot ID: `awOCAAAAAAByh3AdM/Q177rdvRPjZBIF`

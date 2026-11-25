@@ -1,12 +1,12 @@
 {
   "description": "\u4eca\u65e51\u65e5\u3092\u3001\u5143\u6c17\u306b\u8fce\u3048\u308b\u305f\u3081\u306e\u30d7\u30ec\u30a4\u30ea\u30b9\u30c8\uff01",
-  "num_followers": 148176,
+  "num_followers": 148171,
   "original_name": "\u5143\u6c17Booster",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAPWdK+m528/N0W8kdEzII2h2EvgY",
+  "snapshot_id": "AAAAALJ2H2kxV1ecZNMVqa/ckBHeWu63",
   "tracks": [
     {
       "added_at": "2026-11-19 15:00:25",
@@ -275,6 +275,26 @@
     {
       "added_at": "2026-11-19 15:00:25",
       "album": {
+        "name": "Blood In Your Eyes (from GTAVI: The Album)",
+        "url": "https://open.spotify.com/album/2J5ttiLhgBPxcLyHlhQVKO"
+      },
+      "artists": [
+        {
+          "name": "Tove Lo",
+          "url": "https://open.spotify.com/artist/4NHQUGzhtTLFvgF5SZesLK"
+        },
+        {
+          "name": "Grand Theft Auto VI",
+          "url": "https://open.spotify.com/artist/15o7qdDTBzs6xWRUYUtZc1"
+        }
+      ],
+      "duration_ms": 161219,
+      "name": "Blood In Your Eyes (from GTAVI: The Album)",
+      "url": "https://open.spotify.com/track/4h3tY2zV4easaHEAbHVmgj"
+    },
+    {
+      "added_at": "2026-11-19 15:00:25",
+      "album": {
         "name": "drop dead",
         "url": "https://open.spotify.com/album/4OMvPbXaYlbUm6TnwyXGct"
       },
@@ -303,26 +323,6 @@
       "duration_ms": 160183,
       "name": "Tears",
       "url": "https://open.spotify.com/track/42VUCXerQ5qTr4Qp6PhKo4"
-    },
-    {
-      "added_at": "2026-11-19 15:00:25",
-      "album": {
-        "name": "Blood In Your Eyes (from GTAVI: The Album)",
-        "url": "https://open.spotify.com/album/2J5ttiLhgBPxcLyHlhQVKO"
-      },
-      "artists": [
-        {
-          "name": "Tove Lo",
-          "url": "https://open.spotify.com/artist/4NHQUGzhtTLFvgF5SZesLK"
-        },
-        {
-          "name": "Grand Theft Auto VI",
-          "url": "https://open.spotify.com/artist/15o7qdDTBzs6xWRUYUtZc1"
-        }
-      ],
-      "duration_ms": 161219,
-      "name": "Blood In Your Eyes (from GTAVI: The Album)",
-      "url": "https://open.spotify.com/track/4h3tY2zV4easaHEAbHVmgj"
     },
     {
       "added_at": "2026-11-19 15:00:25",
@@ -375,22 +375,6 @@
     {
       "added_at": "2026-11-19 15:00:25",
       "album": {
-        "name": "Manchild",
-        "url": "https://open.spotify.com/album/3wRHV5fOeUcM5hvYzWZsic"
-      },
-      "artists": [
-        {
-          "name": "Sabrina Carpenter",
-          "url": "https://open.spotify.com/artist/74KM79TiuVKeVCqs8QtB0B"
-        }
-      ],
-      "duration_ms": 213645,
-      "name": "Manchild",
-      "url": "https://open.spotify.com/track/42UBPzRMh5yyz0EDPr6fr1"
-    },
-    {
-      "added_at": "2026-11-19 15:00:25",
-      "album": {
         "name": "FEVER DREAM",
         "url": "https://open.spotify.com/album/1tJQ5Mp1XSf7waZzH6KhlJ"
       },
@@ -403,6 +387,22 @@
       "duration_ms": 153430,
       "name": "FEVER DREAM",
       "url": "https://open.spotify.com/track/7ogpGbKc4Io6NCU6ydxXwZ"
+    },
+    {
+      "added_at": "2026-11-19 15:00:25",
+      "album": {
+        "name": "Manchild",
+        "url": "https://open.spotify.com/album/3wRHV5fOeUcM5hvYzWZsic"
+      },
+      "artists": [
+        {
+          "name": "Sabrina Carpenter",
+          "url": "https://open.spotify.com/artist/74KM79TiuVKeVCqs8QtB0B"
+        }
+      ],
+      "duration_ms": 213645,
+      "name": "Manchild",
+      "url": "https://open.spotify.com/track/42UBPzRMh5yyz0EDPr6fr1"
     },
     {
       "added_at": "2026-11-19 15:00:25",
@@ -659,6 +659,22 @@
     {
       "added_at": "2026-11-19 15:00:25",
       "album": {
+        "name": "Daughter from Hell (Deluxe)",
+        "url": "https://open.spotify.com/album/7hAEgpAEje0obsJ8SrJKg2"
+      },
+      "artists": [
+        {
+          "name": "Gracie Abrams",
+          "url": "https://open.spotify.com/artist/4tuJ0bMpJh08umKkEXKUI5"
+        }
+      ],
+      "duration_ms": 175970,
+      "name": "Lost in It",
+      "url": "https://open.spotify.com/track/3DS1UrDXwnpnYZsLjNnugt"
+    },
+    {
+      "added_at": "2026-11-19 15:00:25",
+      "album": {
         "name": "Bling-Bang-Bang-Born",
         "url": "https://open.spotify.com/album/6M2PMiBa5zM37GQChwBHA6"
       },
@@ -695,22 +711,6 @@
     {
       "added_at": "2026-11-19 15:00:25",
       "album": {
-        "name": "Daughter from Hell (Deluxe)",
-        "url": "https://open.spotify.com/album/7hAEgpAEje0obsJ8SrJKg2"
-      },
-      "artists": [
-        {
-          "name": "Gracie Abrams",
-          "url": "https://open.spotify.com/artist/4tuJ0bMpJh08umKkEXKUI5"
-        }
-      ],
-      "duration_ms": 175970,
-      "name": "Lost in It",
-      "url": "https://open.spotify.com/track/3DS1UrDXwnpnYZsLjNnugt"
-    },
-    {
-      "added_at": "2026-11-19 15:00:25",
-      "album": {
         "name": "SPECIALZ",
         "url": "https://open.spotify.com/album/16Wxo6FKPXPzU9IApZfdlc"
       },
@@ -739,6 +739,26 @@
       "duration_ms": 179082,
       "name": "Sapphire",
       "url": "https://open.spotify.com/track/4Q0qVhFQa7j6jRKzo3HDmP"
+    },
+    {
+      "added_at": "2026-11-19 15:00:25",
+      "album": {
+        "name": "Go Easy (from GTAVI: The Album)",
+        "url": "https://open.spotify.com/album/7o1zyOQAQwAcseaLOHRpHe"
+      },
+      "artists": [
+        {
+          "name": "Dua Lipa",
+          "url": "https://open.spotify.com/artist/6M2wZ9GZgrQXHCFfjv46we"
+        },
+        {
+          "name": "Grand Theft Auto VI",
+          "url": "https://open.spotify.com/artist/15o7qdDTBzs6xWRUYUtZc1"
+        }
+      ],
+      "duration_ms": 191500,
+      "name": "Go Easy (from GTAVI: The Album)",
+      "url": "https://open.spotify.com/track/7koaKeYj2Xkw1vItkRUlX4"
     },
     {
       "added_at": "2026-11-19 15:00:25",
@@ -863,22 +883,18 @@
     {
       "added_at": "2026-11-19 15:00:25",
       "album": {
-        "name": "Go Easy (from GTAVI: The Album)",
-        "url": "https://open.spotify.com/album/7o1zyOQAQwAcseaLOHRpHe"
+        "name": "\u3069\u3046\u3057\u3066\u3082\u3069\u3046\u3057\u3066\u3082",
+        "url": "https://open.spotify.com/album/1FrDTcNmbqprRXn9s9kk8Y"
       },
       "artists": [
         {
-          "name": "Dua Lipa",
-          "url": "https://open.spotify.com/artist/6M2wZ9GZgrQXHCFfjv46we"
-        },
-        {
-          "name": "Grand Theft Auto VI",
-          "url": "https://open.spotify.com/artist/15o7qdDTBzs6xWRUYUtZc1"
+          "name": "back number",
+          "url": "https://open.spotify.com/artist/6rs1KAoQnFalSqSU4LTh8g"
         }
       ],
-      "duration_ms": 191500,
-      "name": "Go Easy (from GTAVI: The Album)",
-      "url": "https://open.spotify.com/track/7koaKeYj2Xkw1vItkRUlX4"
+      "duration_ms": 226786,
+      "name": "\u3069\u3046\u3057\u3066\u3082\u3069\u3046\u3057\u3066\u3082",
+      "url": "https://open.spotify.com/track/6hlYmR30RGaHIz4UlVOG2U"
     },
     {
       "added_at": "2026-11-19 15:00:25",
@@ -895,22 +911,6 @@
       "duration_ms": 163647,
       "name": "Jealous Type",
       "url": "https://open.spotify.com/track/1IfGOnXoMBkiKC9xljlSfa"
-    },
-    {
-      "added_at": "2026-11-19 15:00:25",
-      "album": {
-        "name": "\u3069\u3046\u3057\u3066\u3082\u3069\u3046\u3057\u3066\u3082",
-        "url": "https://open.spotify.com/album/1FrDTcNmbqprRXn9s9kk8Y"
-      },
-      "artists": [
-        {
-          "name": "back number",
-          "url": "https://open.spotify.com/artist/6rs1KAoQnFalSqSU4LTh8g"
-        }
-      ],
-      "duration_ms": 226786,
-      "name": "\u3069\u3046\u3057\u3066\u3082\u3069\u3046\u3057\u3066\u3082",
-      "url": "https://open.spotify.com/track/6hlYmR30RGaHIz4UlVOG2U"
     },
     {
       "added_at": "2026-11-19 15:00:25",
@@ -943,6 +943,22 @@
       "duration_ms": 199333,
       "name": "\u82b1\u306b\u306a\u3063\u3066 - Be a flower",
       "url": "https://open.spotify.com/track/2EmkTBTh964LQen4Vz0svg"
+    },
+    {
+      "added_at": "2026-11-19 15:00:25",
+      "album": {
+        "name": "No Punctuation",
+        "url": "https://open.spotify.com/album/6uQ5idHs3nbfHwh6U1sims"
+      },
+      "artists": [
+        {
+          "name": "beabadoobee",
+          "url": "https://open.spotify.com/artist/35l9BRT7MXmM8bv2WDQiyB"
+        }
+      ],
+      "duration_ms": 197373,
+      "name": "No Punctuation",
+      "url": "https://open.spotify.com/track/6eZdZWIjhIGU7OR0FhmvqJ"
     },
     {
       "added_at": "2026-11-19 15:00:25",
@@ -991,22 +1007,6 @@
       "duration_ms": 219252,
       "name": "\u306a\u3093\u3067\u3082\u306a\u3044\u3088\u3001",
       "url": "https://open.spotify.com/track/5W7Y92LB4jWvu9NeEQ0GZl"
-    },
-    {
-      "added_at": "2026-11-19 15:00:25",
-      "album": {
-        "name": "No Punctuation",
-        "url": "https://open.spotify.com/album/6uQ5idHs3nbfHwh6U1sims"
-      },
-      "artists": [
-        {
-          "name": "beabadoobee",
-          "url": "https://open.spotify.com/artist/35l9BRT7MXmM8bv2WDQiyB"
-        }
-      ],
-      "duration_ms": 197373,
-      "name": "No Punctuation",
-      "url": "https://open.spotify.com/track/6eZdZWIjhIGU7OR0FhmvqJ"
     },
     {
       "added_at": "2026-11-19 15:00:25",
@@ -1091,42 +1091,6 @@
     {
       "added_at": "2026-11-19 15:00:25",
       "album": {
-        "name": "3D (feat. Jack Harlow)",
-        "url": "https://open.spotify.com/album/4DKnznk5VbGVvAOYBbQrZJ"
-      },
-      "artists": [
-        {
-          "name": "Jung Kook",
-          "url": "https://open.spotify.com/artist/6HaGTQPmzraVmaVxvz6EUc"
-        },
-        {
-          "name": "Jack Harlow",
-          "url": "https://open.spotify.com/artist/2LIk90788K0zvyj2JJVwkJ"
-        }
-      ],
-      "duration_ms": 201812,
-      "name": "3D (feat. Jack Harlow)",
-      "url": "https://open.spotify.com/track/6ehWdR7cGDXnT7aKEASJxE"
-    },
-    {
-      "added_at": "2026-11-19 15:00:25",
-      "album": {
-        "name": "Sorry I'm Here For Someone Else",
-        "url": "https://open.spotify.com/album/38PKSUSFXnO4mbUhLC4ELZ"
-      },
-      "artists": [
-        {
-          "name": "Benson Boone",
-          "url": "https://open.spotify.com/artist/22wbnEMDvgVIAGdFeek6ET"
-        }
-      ],
-      "duration_ms": 156582,
-      "name": "Sorry I'm Here For Someone Else",
-      "url": "https://open.spotify.com/track/3x3K1RP3Zfi2qeMR8kyrNO"
-    },
-    {
-      "added_at": "2026-11-19 15:00:25",
-      "album": {
         "name": "Sunday Morning",
         "url": "https://open.spotify.com/album/68VH68e8EI3jXMF151Trf3"
       },
@@ -1167,6 +1131,42 @@
     {
       "added_at": "2026-11-19 15:00:25",
       "album": {
+        "name": "Sorry I'm Here For Someone Else",
+        "url": "https://open.spotify.com/album/38PKSUSFXnO4mbUhLC4ELZ"
+      },
+      "artists": [
+        {
+          "name": "Benson Boone",
+          "url": "https://open.spotify.com/artist/22wbnEMDvgVIAGdFeek6ET"
+        }
+      ],
+      "duration_ms": 156582,
+      "name": "Sorry I'm Here For Someone Else",
+      "url": "https://open.spotify.com/track/3x3K1RP3Zfi2qeMR8kyrNO"
+    },
+    {
+      "added_at": "2026-11-19 15:00:25",
+      "album": {
+        "name": "3D (feat. Jack Harlow)",
+        "url": "https://open.spotify.com/album/4DKnznk5VbGVvAOYBbQrZJ"
+      },
+      "artists": [
+        {
+          "name": "Jung Kook",
+          "url": "https://open.spotify.com/artist/6HaGTQPmzraVmaVxvz6EUc"
+        },
+        {
+          "name": "Jack Harlow",
+          "url": "https://open.spotify.com/artist/2LIk90788K0zvyj2JJVwkJ"
+        }
+      ],
+      "duration_ms": 201812,
+      "name": "3D (feat. Jack Harlow)",
+      "url": "https://open.spotify.com/track/6ehWdR7cGDXnT7aKEASJxE"
+    },
+    {
+      "added_at": "2026-11-19 15:00:25",
+      "album": {
         "name": "\u30aa\u30ec\u30f3\u30b8",
         "url": "https://open.spotify.com/album/4bpX1Wi81FjZ4d0GFlO1y3"
       },
@@ -1179,6 +1179,22 @@
       "duration_ms": 235206,
       "name": "\u30aa\u30ec\u30f3\u30b8",
       "url": "https://open.spotify.com/track/6M6ZNRplLNspFEn6Ab3mOv"
+    },
+    {
+      "added_at": "2026-11-19 15:00:25",
+      "album": {
+        "name": "Prema",
+        "url": "https://open.spotify.com/album/6ELurkxQnAif7u5Vv6Wly9"
+      },
+      "artists": [
+        {
+          "name": "Fujii Kaze",
+          "url": "https://open.spotify.com/artist/6bDWAcdtVR3WHz2xtiIPUi"
+        }
+      ],
+      "duration_ms": 262840,
+      "name": "Prema",
+      "url": "https://open.spotify.com/track/0IByNT868RxZwmcj1rQgno"
     },
     {
       "added_at": "2026-11-19 15:00:25",
@@ -1235,22 +1251,6 @@
       "duration_ms": 231174,
       "name": "Born Again (feat. Doja Cat & RAYE)",
       "url": "https://open.spotify.com/track/4CPuDVC8jhhK6lA2DIt8Cf"
-    },
-    {
-      "added_at": "2026-11-19 15:00:25",
-      "album": {
-        "name": "Prema",
-        "url": "https://open.spotify.com/album/6ELurkxQnAif7u5Vv6Wly9"
-      },
-      "artists": [
-        {
-          "name": "Fujii Kaze",
-          "url": "https://open.spotify.com/artist/6bDWAcdtVR3WHz2xtiIPUi"
-        }
-      ],
-      "duration_ms": 262840,
-      "name": "Prema",
-      "url": "https://open.spotify.com/track/0IByNT868RxZwmcj1rQgno"
     },
     {
       "added_at": "2026-11-19 15:00:25",
@@ -1351,22 +1351,6 @@
     {
       "added_at": "2026-11-19 15:00:25",
       "album": {
-        "name": "\u5e7e\u5104\u5149\u5e74",
-        "url": "https://open.spotify.com/album/6lVM8WvZY6lpBO9zrBRnE9"
-      },
-      "artists": [
-        {
-          "name": "Omoinotake",
-          "url": "https://open.spotify.com/artist/63ylN6WBUUxxMsySiDmr0B"
-        }
-      ],
-      "duration_ms": 276918,
-      "name": "\u5e7e\u5104\u5149\u5e74",
-      "url": "https://open.spotify.com/track/4dmruTsdHIOjfOIeaFitXK"
-    },
-    {
-      "added_at": "2026-11-19 15:00:25",
-      "album": {
         "name": "Period",
         "url": "https://open.spotify.com/album/6MOiPzaRFngumUQFF4qG1A"
       },
@@ -1379,6 +1363,22 @@
       "duration_ms": 206500,
       "name": "Period",
       "url": "https://open.spotify.com/track/60TwNB7uyKHsm8zpuCSaR0"
+    },
+    {
+      "added_at": "2026-11-19 15:00:25",
+      "album": {
+        "name": "\u5e7e\u5104\u5149\u5e74",
+        "url": "https://open.spotify.com/album/6lVM8WvZY6lpBO9zrBRnE9"
+      },
+      "artists": [
+        {
+          "name": "Omoinotake",
+          "url": "https://open.spotify.com/artist/63ylN6WBUUxxMsySiDmr0B"
+        }
+      ],
+      "duration_ms": 276918,
+      "name": "\u5e7e\u5104\u5149\u5e74",
+      "url": "https://open.spotify.com/track/4dmruTsdHIOjfOIeaFitXK"
     },
     {
       "added_at": "2026-11-19 15:00:25",
@@ -1479,22 +1479,6 @@
     {
       "added_at": "2026-11-19 15:00:25",
       "album": {
-        "name": "\u52c7\u8005",
-        "url": "https://open.spotify.com/album/6L7pjBfP49dh1WYDmHngOO"
-      },
-      "artists": [
-        {
-          "name": "YOASOBI",
-          "url": "https://open.spotify.com/artist/64tJ2EAv1R6UaZqc4iOCyj"
-        }
-      ],
-      "duration_ms": 194164,
-      "name": "\u52c7\u8005",
-      "url": "https://open.spotify.com/track/4LjIQmt1t6NjpM0tpttzjo"
-    },
-    {
-      "added_at": "2026-11-19 15:00:25",
-      "album": {
         "name": "Same Blue",
         "url": "https://open.spotify.com/album/7Mq690kTHBMnLHdi8WWlUF"
       },
@@ -1507,6 +1491,22 @@
       "duration_ms": 237836,
       "name": "Same Blue",
       "url": "https://open.spotify.com/track/3tRgmNTaFYgtbt7XCy6Les"
+    },
+    {
+      "added_at": "2026-11-19 15:00:25",
+      "album": {
+        "name": "\u52c7\u8005",
+        "url": "https://open.spotify.com/album/6L7pjBfP49dh1WYDmHngOO"
+      },
+      "artists": [
+        {
+          "name": "YOASOBI",
+          "url": "https://open.spotify.com/artist/64tJ2EAv1R6UaZqc4iOCyj"
+        }
+      ],
+      "duration_ms": 194164,
+      "name": "\u52c7\u8005",
+      "url": "https://open.spotify.com/track/4LjIQmt1t6NjpM0tpttzjo"
     },
     {
       "added_at": "2026-11-19 15:00:25",
@@ -1599,22 +1599,6 @@
     {
       "added_at": "2026-11-19 15:00:25",
       "album": {
-        "name": "\u30e1\u30ac\u30cd\u3092\u5916\u3057\u3066",
-        "url": "https://open.spotify.com/album/5sHKJwFpJERdma9qtdm7Gl"
-      },
-      "artists": [
-        {
-          "name": "\u4e43\u7d2b",
-          "url": "https://open.spotify.com/artist/2rUfBClgdqQ4Svcg0A6gIl"
-        }
-      ],
-      "duration_ms": 189854,
-      "name": "\u30e1\u30ac\u30cd\u3092\u5916\u3057\u3066",
-      "url": "https://open.spotify.com/track/1bf8JWS76QZLRRsGeVfWF9"
-    },
-    {
-      "added_at": "2026-11-19 15:00:25",
-      "album": {
         "name": "\u82b1",
         "url": "https://open.spotify.com/album/5ZV6rLgTmKi9xVJxLEPKcw"
       },
@@ -1627,6 +1611,22 @@
       "duration_ms": 246699,
       "name": "\u82b1",
       "url": "https://open.spotify.com/track/5RIQU2JDuXC4NkLiHNNMon"
+    },
+    {
+      "added_at": "2026-11-19 15:00:25",
+      "album": {
+        "name": "\u30e1\u30ac\u30cd\u3092\u5916\u3057\u3066",
+        "url": "https://open.spotify.com/album/5sHKJwFpJERdma9qtdm7Gl"
+      },
+      "artists": [
+        {
+          "name": "\u4e43\u7d2b",
+          "url": "https://open.spotify.com/artist/2rUfBClgdqQ4Svcg0A6gIl"
+        }
+      ],
+      "duration_ms": 189854,
+      "name": "\u30e1\u30ac\u30cd\u3092\u5916\u3057\u3066",
+      "url": "https://open.spotify.com/track/1bf8JWS76QZLRRsGeVfWF9"
     },
     {
       "added_at": "2026-11-19 15:00:25",

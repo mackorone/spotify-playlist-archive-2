@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3BNEB2.md) - [plain]
 
 > This is Wale\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 41,415 likes - 50 songs - 3 hr 12 min
+[Spotify](https://open.spotify.com/user/spotify) - 41,417 likes - 50 songs - 3 hr 12 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -20,11 +20,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3BNEB2.md) - [plain]
 | 10 | [On Chill \(feat\. Jeremih\)](https://open.spotify.com/track/5z51HY4ei5QhTjcvwq5Msw) | [Wale](https://open.spotify.com/artist/67nwj3Y5sZQLl72VNUHEYE), [Jeremih](https://open.spotify.com/artist/3KV3p5EY4AvKxOlhGHORLg) | [Wow..\. That's Crazy](https://open.spotify.com/album/0JRDNN0AuZZiwyrOWkNDXC) | 3:34 |
 | 11 | [Diced Pineapples](https://open.spotify.com/track/27mF2eUbhExYWiOT0y9cuc) | [Rick Ross](https://open.spotify.com/artist/1sBkRIssrMs1AbVkOJbc7a), [Wale](https://open.spotify.com/artist/67nwj3Y5sZQLl72VNUHEYE), [Drake](https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4) | [God Forgives, I Don't \(Deluxe Edition\)](https://open.spotify.com/album/1YSb516nyR6ALY2ji1eCAV) | 4:36 |
 | 12 | [The Need to Know \(feat\. SZA\)](https://open.spotify.com/track/6KacmqPPQ3LNoiGFuqGChs) | [Wale](https://open.spotify.com/artist/67nwj3Y5sZQLl72VNUHEYE), [SZA](https://open.spotify.com/artist/7tYKF4w9nC0nq9CsPZTHyP) | [The Album About Nothing](https://open.spotify.com/album/6aCr3UaB8lM9g6TtFB3qwd) | 3:36 |
-| 13 | [City On Fire](https://open.spotify.com/track/5hvt3s4LH6kZETJ18nxgYa) | [Wale](https://open.spotify.com/artist/67nwj3Y5sZQLl72VNUHEYE), [Odeal](https://open.spotify.com/artist/2BPwxhCvvcb8xDl8GWIjbh) | [everything is a lot.](https://open.spotify.com/album/0AIADbs20wMj3229QY0XnN) | 2:33 |
+| 13 | [Fly Away](https://open.spotify.com/track/6boHVtRiLPHR1sm1I1ZdJr) | [Wale](https://open.spotify.com/artist/67nwj3Y5sZQLl72VNUHEYE) | [everything is a lot.](https://open.spotify.com/album/0AIADbs20wMj3229QY0XnN) | 2:55 |
 | 14 | [Love..\. \(Her Fault\) \[feat\. Bryson Tiller\]](https://open.spotify.com/track/6cSBm4mtcuFtClN6yDvjQo) | [Wale](https://open.spotify.com/artist/67nwj3Y5sZQLl72VNUHEYE), [Bryson Tiller](https://open.spotify.com/artist/2EMAnMvWE2eb56ToJVfCWs) | [Wow..\. That's Crazy](https://open.spotify.com/album/0JRDNN0AuZZiwyrOWkNDXC) | 3:32 |
 | 15 | [Ambition \(feat\. Meek Mill & Rick Ross\)](https://open.spotify.com/track/5tZmLjU4vhPlJb12IweZuB) | [Wale](https://open.spotify.com/artist/67nwj3Y5sZQLl72VNUHEYE), [Meek Mill](https://open.spotify.com/artist/20sxb77xiYeusSH8cVdatc), [Rick Ross](https://open.spotify.com/artist/1sBkRIssrMs1AbVkOJbc7a) | [Ambition](https://open.spotify.com/album/0jCVC8ndYYOooEY2YTO1l6) | 5:02 |
 | 16 | [The Matrimony \(feat\. Usher\)](https://open.spotify.com/track/7vlPI45Zzzk0palLdKry4k) | [Wale](https://open.spotify.com/artist/67nwj3Y5sZQLl72VNUHEYE), [USHER](https://open.spotify.com/artist/23zg3TcAtWQy7J6upgbUnj) | [The Album About Nothing](https://open.spotify.com/album/6aCr3UaB8lM9g6TtFB3qwd) | 6:35 |
-| 17 | [Fly Away](https://open.spotify.com/track/6boHVtRiLPHR1sm1I1ZdJr) | [Wale](https://open.spotify.com/artist/67nwj3Y5sZQLl72VNUHEYE) | [everything is a lot.](https://open.spotify.com/album/0AIADbs20wMj3229QY0XnN) | 2:55 |
+| 17 | [City On Fire](https://open.spotify.com/track/5hvt3s4LH6kZETJ18nxgYa) | [Wale](https://open.spotify.com/artist/67nwj3Y5sZQLl72VNUHEYE), [Odeal](https://open.spotify.com/artist/2BPwxhCvvcb8xDl8GWIjbh) | [everything is a lot.](https://open.spotify.com/album/0AIADbs20wMj3229QY0XnN) | 2:33 |
 | 18 | [Again \- Remix](https://open.spotify.com/track/1YFc3bSctJKakFx6hHEdPX) | [Wande Coal](https://open.spotify.com/artist/1fYVmAFB7sC7eDoF3mJXla), [Wale](https://open.spotify.com/artist/67nwj3Y5sZQLl72VNUHEYE) | [Realms](https://open.spotify.com/album/0ZdiHNx2h4QTKwfF7fEM8j) | 3:11 |
 | 19 | [Respect That You Earn \(feat\. Ne\-Yo & Wale\)](https://open.spotify.com/track/0zV8HiTQ2MHlgCkDfq9Ak6) | [Yo Gotti](https://open.spotify.com/artist/6Ha4aES39QiVjR0L2lwuwq), [Ne\-Yo](https://open.spotify.com/artist/21E3waRsmPlU7jZsS13rcj), [Wale](https://open.spotify.com/artist/67nwj3Y5sZQLl72VNUHEYE) | [I Am](https://open.spotify.com/album/57gO7DyFyvl59GdBHtjI74) | 4:22 |
 | 20 | [The Body \(feat\. Jeremih\)](https://open.spotify.com/track/1cOi4OoRlpOznxiRa8FfHf) | [Wale](https://open.spotify.com/artist/67nwj3Y5sZQLl72VNUHEYE), [Jeremih](https://open.spotify.com/artist/3KV3p5EY4AvKxOlhGHORLg) | [The Album About Nothing](https://open.spotify.com/album/6aCr3UaB8lM9g6TtFB3qwd) | 3:52 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3BNEB2.md) - [plain]
 | 49 | [My Boy \(feat\. J\. Cole\) \- Freestyle](https://open.spotify.com/track/11QvWp3CsEPd0YLE6xKGyx) | [Wale](https://open.spotify.com/artist/67nwj3Y5sZQLl72VNUHEYE), [J\. Cole](https://open.spotify.com/artist/6l3HvQ5sa6mXTsMTB19rO5) | [Free Lunch](https://open.spotify.com/album/2KWMRiVC16dYpH9VkERMOF) | 4:29 |
 | 50 | [The Pessimist \(feat\. J\. Cole\)](https://open.spotify.com/track/3b3SSIcnE9a77XoUEtG5Jm) | [Wale](https://open.spotify.com/artist/67nwj3Y5sZQLl72VNUHEYE), [J\. Cole](https://open.spotify.com/artist/6l3HvQ5sa6mXTsMTB19rO5) | [The Album About Nothing](https://open.spotify.com/album/6aCr3UaB8lM9g6TtFB3qwd) | 4:32 |
 
-Snapshot ID: `awIwgAAAAAD3UxhPE/TJZpzPPkdCmmgW`
+Snapshot ID: `awOCAAAAAAC77Cu2c4bFcIsklBHeOSgt`

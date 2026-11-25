@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0Uo5pVktwNd.md) - [plain]
 
 > Throwback to the golden age of Indian pop\. Cover \- Alisha Chinai
 
-[Spotify](https://open.spotify.com/user/spotify) - 258,080 likes - 50 songs - 4 hr 5 min
+[Spotify](https://open.spotify.com/user/spotify) - 258,136 likes - 50 songs - 4 hr 5 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -32,13 +32,13 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0Uo5pVktwNd.md) - [plain]
 | 22 | [Channa Vey](https://open.spotify.com/track/3At4t5vZ0lDuNWLBPEk6Ck) | [Kunal Ganjawala](https://open.spotify.com/artist/3t4P7aXVor3NxlJPZxLzOQ) | [Channa Vey](https://open.spotify.com/album/1D3xG0AxMZbq0nVyu0PUgJ) | 4:29 |
 | 23 | [Don't Be Shy](https://open.spotify.com/track/1MbYpxr2x4f2B13OHLwQgw) | [Rouge](https://open.spotify.com/artist/68PVS6ZpjnsIIARGI0h8mi) | [Don't Be Shy](https://open.spotify.com/album/2eqktpsBOh0TMyZ0JMzryo) | 3:12 |
 | 24 | [Pyaar Ke Pal](https://open.spotify.com/track/6GWchpKWsKkwR6jcl0yG6V) | [KK](https://open.spotify.com/artist/4fEkbug6kZzzJ8eYX6Kbbp) | [Pal](https://open.spotify.com/album/43TAlCzzm5cC97LPwit4n0) | 5:59 |
-| 25 | [Is Kadar Pyar Hai Tumse](https://open.spotify.com/track/5rOTik1LSA6A1OPbRRwJdy) | [Sonu Nigam](https://open.spotify.com/artist/1dVygo6tRFXC8CSWURQJq2) | [Deewana](https://open.spotify.com/album/1dVyr572avgdyQPtLoEWnI) | 5:24 |
-| 26 | [Tanha Dil](https://open.spotify.com/track/4kO9vFarqUPNwlgFnVNgVh) | [Shaan](https://open.spotify.com/artist/5cB4d4jPYjMT326sjihQ4m) | [Tanha Dil...](https://open.spotify.com/album/2jU79jkhy5puSK6sQsDOH4) | 4:51 |
+| 25 | [Tanha Dil](https://open.spotify.com/track/4kO9vFarqUPNwlgFnVNgVh) | [Shaan](https://open.spotify.com/artist/5cB4d4jPYjMT326sjihQ4m) | [Tanha Dil...](https://open.spotify.com/album/2jU79jkhy5puSK6sQsDOH4) | 4:51 |
+| 26 | [Is Kadar Pyar Hai Tumse](https://open.spotify.com/track/5rOTik1LSA6A1OPbRRwJdy) | [Sonu Nigam](https://open.spotify.com/artist/1dVygo6tRFXC8CSWURQJq2) | [Deewana](https://open.spotify.com/album/1dVyr572avgdyQPtLoEWnI) | 5:24 |
 | 27 | [Nain Se Naino Ko Mila](https://open.spotify.com/track/5dU0yXUXYjP1e6e2s6OSh2) | [Adnan Sami](https://open.spotify.com/artist/0kJO65h553i1iGsZutBuqz) | [Tera Chehra](https://open.spotify.com/album/5RzyMZc5rfjS1G8JzuI97a) | 4:12 |
 | 28 | [Dekha Hai Aise Bhi](https://open.spotify.com/track/0GybyL5gY2kSLgiSwauFei) | [Lucky Ali](https://open.spotify.com/artist/2L16nDKTxhFGaDriR2AHTB) | [Sifar](https://open.spotify.com/album/0aHRE11myjLyOfFgEb8LpF) | 3:58 |
 | 29 | [Sochta Hun Uska Dil](https://open.spotify.com/track/5UivuAWteghGcxElCwX7Pk) | [Babul Supriyo](https://open.spotify.com/artist/7guD32ltIhsA1tHdf7IVe0) | [Sochta Hun](https://open.spotify.com/album/228iPPykSMuAzeTH71RDmc) | 4:16 |
-| 30 | [Deewana Tera](https://open.spotify.com/track/2bJZCUnAI9Se6MmtQy8Fcv) | [Sonu Nigam](https://open.spotify.com/artist/1dVygo6tRFXC8CSWURQJq2) | [Deewana](https://open.spotify.com/album/1dVyr572avgdyQPtLoEWnI) | 6:00 |
-| 31 | [Sayonee](https://open.spotify.com/track/075QYa566prNemChnZDEY1) | [Junoon](https://open.spotify.com/artist/6nyfDdTwCLGrbCFikT8PTK) | [Azadi](https://open.spotify.com/album/5xLL0ENxSbpHlSjstHntIM) | 5:04 |
+| 30 | [Sayonee](https://open.spotify.com/track/075QYa566prNemChnZDEY1) | [Junoon](https://open.spotify.com/artist/6nyfDdTwCLGrbCFikT8PTK) | [Azadi](https://open.spotify.com/album/5xLL0ENxSbpHlSjstHntIM) | 5:04 |
+| 31 | [Deewana Tera](https://open.spotify.com/track/2bJZCUnAI9Se6MmtQy8Fcv) | [Sonu Nigam](https://open.spotify.com/artist/1dVygo6tRFXC8CSWURQJq2) | [Deewana](https://open.spotify.com/album/1dVyr572avgdyQPtLoEWnI) | 6:00 |
 | 32 | [Dekha Hai Teri Aankhon Ko](https://open.spotify.com/track/3GVXeCSri5gx5TEn9MmW9V) | [Sadu](https://open.spotify.com/artist/7nIyYYhfmY8GwrzqfjqKor) | [Dekha Hai Teri Aankhon Ko](https://open.spotify.com/album/7dZkrrf2KRYUxQpJe62O4L) | 3:56 |
 | 33 | [Kya Soorat Hai](https://open.spotify.com/track/2uGLo0jNB0LNDX5yHkZhFR) | [Bombay Vikings](https://open.spotify.com/artist/0IOJyZSSqmto4oze5nSCo0) | [Kya Surat Hai](https://open.spotify.com/album/2bQctlBwJyk3uL2jG8f3bN) | 3:53 |
 | 34 | [Paree](https://open.spotify.com/track/6tY5QQhqKXRd8qCDaTlAmg) | [Suneeta Rao](https://open.spotify.com/artist/5BzzAgWSH6Q4yPQOAKeWRd) | [Dhuan](https://open.spotify.com/album/4ybpUVEq9QLSe6UncFUAZW) | 6:01 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0Uo5pVktwNd.md) - [plain]
 | 49 | [Sajan Mere Satrangiya](https://open.spotify.com/track/78RBOAspXcdhaJLTNzvFZz) | [Daler Mehndi](https://open.spotify.com/artist/6wa1AsxB9oJP7lwNSmbcYx) | [Ek\-Dana](https://open.spotify.com/album/6togBWDn0oaXTI631pmrDG) | 5:13 |
 | 50 | [Afreen Afreen](https://open.spotify.com/track/6rW0xXiKajbihwXuPDNN8k) | [Nusrat Fateh Ali Khan](https://open.spotify.com/artist/5HcunTidTUrOaf8V0iJcvl) | [Baby Doll Fully Loaded](https://open.spotify.com/album/0q9CXF0SHe4JK7q9I5b0Rw) | 5:49 |
 
-Snapshot ID: `AAAAABQ6gQWdkzppe0sstP/46VoXNzoo`
+Snapshot ID: `AAAAAM89xs89WCbg4XEy0ryJO5Uh85bI`

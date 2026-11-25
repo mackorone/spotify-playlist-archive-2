@@ -4,7 +4,7 @@
 
 > Energy flow from root to crown\. Balance your doshas with gentle sounds inspired by India.
 
-267 songs - 16 hr 2 min
+270 songs - 16 hr 10 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -84,6 +84,7 @@
 | [Follow The River](https://open.spotify.com/track/0azFg6hzd0om8ElqnuGN53) | [Varanasi Sunrise](https://open.spotify.com/artist/785euUD04UBt0l80YyYFVS) | [Follow The River](https://open.spotify.com/album/16e2Q6s3CJxdjfhChjrMRp) | 3:15 | 2024-03-08 |  |
 | [Foreign Lands](https://open.spotify.com/track/2yLYQyrHlcgfC9k6gXRAbt) | [Sol Reya](https://open.spotify.com/artist/1WOC51A3fmT0ONyhUtH1G8) | [Foreign Lands](https://open.spotify.com/album/1a8cUiV7todjPrXu4jqowW) | 2:26 | 2024-08-30 |  |
 | [Forest Gong](https://open.spotify.com/track/6gxBjEGooDV7iLB6DmJAYr) | [Rag Nally](https://open.spotify.com/artist/2uSPSc1IHPt7fv6ve5jRQK) | [Forest Gong](https://open.spotify.com/album/4LoafUz92NoRvToNTx1ERl) | 1:40 | 2026-01-28 |  |
+| [Glowing Sand](https://open.spotify.com/track/7IuyYYK2EfSBgjLMir3QHJ) | [slowerlane](https://open.spotify.com/artist/5TCtVMGX05BJEZ3uSDGr9h) | [Glowing Sand](https://open.spotify.com/album/3orAIxRY1ZLlzTMz3TDwQo) | 2:30 | 2026-11-24 |  |
 | [Golden Echoes](https://open.spotify.com/track/78uZyToiIloP5uQVWrshHo) | [Senjidema](https://open.spotify.com/artist/400zjNMBMV1D33VF5R2S1l) | [Golden Echoes](https://open.spotify.com/album/0b3olul1UdQmrqD2RMLkO5) | 2:47 | 2026-09-23 |  |
 | [Golden Night](https://open.spotify.com/track/6mJfau3oJvpYztXxW1fxKi) | [Pawan Krishna](https://open.spotify.com/artist/7MYonYhUeKuW4KKXg3EJ1O) | [Raat ki Hawa](https://open.spotify.com/album/2M9KRROg3X52wfBWWDlkmu) | 3:18 | 2022-05-13 | 2026-06-05 |
 | [Golden Rhythms](https://open.spotify.com/track/6PvRIrT27GneDwiQ8ogiYs) | [Suntam](https://open.spotify.com/artist/102ZisJTB3o3NFyOaDMXGP) | [Golden Rhythms](https://open.spotify.com/album/2L1nu8hFPfF5b7cBw0NtlI) | 3:12 | 2024-03-08 | 2026-09-24 |
@@ -160,6 +161,7 @@
 | [Peace](https://open.spotify.com/track/0as6KfIJRQvPTKVheJbCBE) | [Jo Mar Fred](https://open.spotify.com/artist/4qc5t8tVmhwpYYTCcEz8Wz) | [The Power Of Now](https://open.spotify.com/album/5p2KtH7CjijqRZUjAAeFE5) | 2:56 | 2022-09-19 |  |
 | [Peace Within](https://open.spotify.com/track/6Oz1xBaVJNyYnukyCHRgLS) | [Holly Summers](https://open.spotify.com/artist/2i8yNoDBOq0tcjOU1sA1es) | [Peace Within](https://open.spotify.com/album/1VXVFichuGqnaL5zfBgobb) | 2:16 | 2022-12-16 | 2026-06-05 |
 | [Peaceful River](https://open.spotify.com/track/6LPQsPPKH9HSCClBIP4ELr) | [Aman Nandi](https://open.spotify.com/artist/6xc1xUCBEBFTkpn6czPe10) | [Peaceful River](https://open.spotify.com/album/1c4YILLPsugruTMNNCucAz) | 4:10 | 2024-03-08 |  |
+| [Perennial](https://open.spotify.com/track/7CnHSEAZHqTUSnRi7653cs) | [oojoo](https://open.spotify.com/artist/4atuRnKfW6RSSeLFILs4Tr) | [Perennial](https://open.spotify.com/album/6qb5qLQAXAAl63OALs19gq) | 2:31 | 2026-11-24 |  |
 | [Prakriti Ke Gupt Rahasya](https://open.spotify.com/track/5WVEBO6CYYfkKfB5ei6cak) | [Kanta Khatri](https://open.spotify.com/artist/1AIZ3YGySP9lkL7BulRkA0) | [Prakriti Ke Gupt Rahasya](https://open.spotify.com/album/0l7Rz8rwxxViesi5t4C5Yx) | 4:22 | 2023-09-05 |  |
 | [Prana](https://open.spotify.com/track/1CQsJg2iaZoV3qtaODUlvB) | [Rosonance](https://open.spotify.com/artist/4SYjHr4H1LksGbBg0sXkb3) | [Prana](https://open.spotify.com/album/31XkkMwhcutlwumJkltrYa) | 2:30 | 2026-09-23 |  |
 | [Pranayama Flow](https://open.spotify.com/track/72r9AdP6UXCxqwldrWi7MG) | [Whispers of Jivatma](https://open.spotify.com/artist/1bLxPj7W9KyYOB0LPdS6dC) | [Pranayama Flow](https://open.spotify.com/album/0VQdbgbzwoqTq2yRUQlkbe) | 2:01 | 2026-09-23 |  |
@@ -184,12 +186,12 @@
 | [Restful Dream](https://open.spotify.com/track/57wGsyF2YSyRkHZrksQXrB) | [Buddha's Flute](https://open.spotify.com/artist/1j6Futx8f5ywiHqPnX32bl) | [Restful Dream](https://open.spotify.com/album/6wZFjc47KdhamOOPBMrSHL) | 6:06 | 2022-09-06 |  |
 | [Restful Nebula](https://open.spotify.com/track/01cPzvmA2BlPIT0wI7SGCY) | [Jonathan Kim](https://open.spotify.com/artist/4hsI8leYHogPoeHAiVG1Fn) | [Restful Nebula](https://open.spotify.com/album/3iY6qBxTfzsQ5BqFh8WZzr) | 2:43 | 2025-02-28 | 2026-06-05 |
 | [Ripples](https://open.spotify.com/track/1rWawgLzS079ClXGAor0QZ) | [Omiophyllus](https://open.spotify.com/artist/6qgzkp2OY1uBlebnJxfOlx) | [Ripples](https://open.spotify.com/album/1pYpHThYENxCZG3N7qcjRg) | 2:40 | 2025-04-01 |  |
-| [River](https://open.spotify.com/track/5noFpnVfIGs7nLUkfNuEFu) | [Darma Waters](https://open.spotify.com/artist/4nN4oxcvDaWafW2VAmvf7Y) | [River](https://open.spotify.com/album/4Bn5tjd6zeja3ggftvOcf8) | 2:53 | 2022-05-13 |  |
+| [River](https://open.spotify.com/track/5noFpnVfIGs7nLUkfNuEFu) | [Darma Waters](https://open.spotify.com/artist/4nN4oxcvDaWafW2VAmvf7Y) | [River](https://open.spotify.com/album/4Bn5tjd6zeja3ggftvOcf8) | 2:53 | 2022-05-13 | 2026-11-25 |
 | [River's Breath](https://open.spotify.com/track/3w0B8HCSbzYyX9DkGOENQC) | [Nineveh Skies](https://open.spotify.com/artist/3fp5CnEXdB6fA0M5iva4RA) | [River's Breath](https://open.spotify.com/album/4BwSJeYuDnZlrvN6QzOuiq) | 2:39 | 2026-09-23 |  |
 | [Rivers Of Flutes](https://open.spotify.com/track/6DewZxWwJwOTWeyIXsntrH) | [Sacred Flute](https://open.spotify.com/artist/6dn5BFtVFrmBuZXS3Pt2Qi) | [Rivers Of Flutes](https://open.spotify.com/album/2b62YJsJ8REP4fGZKh9Qv7) | 7:25 | 2022-09-06 | 2026-09-24 |
 | [Root](https://open.spotify.com/track/2bUpNGlxoI9QpTOrmTNqFM) | [Healing Sound Project](https://open.spotify.com/artist/2D61uIHGdAYQ6rQ7nFK6Vs) | [Chakras](https://open.spotify.com/album/1Fr1EjvvT0rUD8WHvood3F) | 5:25 | 2022-05-13 | 2022-12-17 |
 | [Sacred OM](https://open.spotify.com/track/2OjO1KxJ0dkXPL9L1lvM2S) | [Aroshanti](https://open.spotify.com/artist/1y6jeiJ1L8vwgt7lHDqRKd) | [Sacred OM](https://open.spotify.com/album/2k2v55z4n0rcXAxfliymH2) | 4:56 | 2022-05-13 | 2022-09-07 |
-| [Safe In Me](https://open.spotify.com/track/5pFkd2XYGXqu5ixYMWcHZX) | [Narmada Shore](https://open.spotify.com/artist/3560FDhIsM3cOYJufizogC) | [Inhale Exhale](https://open.spotify.com/album/0pjLFW61AV1xvnAaSkcEgU) | 3:16 | 2022-07-14 |  |
+| [Safe In Me](https://open.spotify.com/track/5pFkd2XYGXqu5ixYMWcHZX) | [Narmada Shore](https://open.spotify.com/artist/3560FDhIsM3cOYJufizogC) | [Inhale Exhale](https://open.spotify.com/album/0pjLFW61AV1xvnAaSkcEgU) | 3:16 | 2022-07-14 | 2026-11-25 |
 | [Saffron Skies](https://open.spotify.com/track/1O1hIkucuLUAuHgxjMpBEN) | [Rosonance](https://open.spotify.com/artist/4SYjHr4H1LksGbBg0sXkb3) | [Saffron Skies](https://open.spotify.com/album/431e3syZYFg4qVmaRC9u9W) | 2:12 | 2026-11-10 |  |
 | [Sahana Vavatu \(For Inner Nourishment\)](https://open.spotify.com/track/2SxQ32cI3A8XBH4535QnwJ) | [Manish Vyas](https://open.spotify.com/artist/4eZcz3z9PEo5TMzkjHlzrK) | [Sahaj Atma](https://open.spotify.com/album/5IZZ9OprXmK2qYkMm11QnB) | 5:59 | 2022-05-13 | 2022-07-29 |
 | [Sahana Vavatu \(For Inner Nourishment\)](https://open.spotify.com/track/6LX4pC94OndpQwepyNdqZ7) | [Manish Vyas](https://open.spotify.com/artist/4eZcz3z9PEo5TMzkjHlzrK) | [Sahaj Atma](https://open.spotify.com/album/1301F9iFu666bf4IqviXar) | 5:59 | 2022-07-14 | 2022-10-25 |
@@ -202,7 +204,8 @@
 | [Serene Desh Jor \- Solo Flute Invocation](https://open.spotify.com/track/2Xv4mzk2VHmXhW447emsbU) | [Madhavi Bose](https://open.spotify.com/artist/3d3uSFYEwuiv77ll2MsnQl) | [Serene Desh Jor \- Solo Flute Invocation](https://open.spotify.com/album/5ZQsUgeBeBxQffvRiQkBNY) | 3:36 | 2026-09-23 |  |
 | [Serene Dusk: Raga Jog with Flute and Tabla in Teental](https://open.spotify.com/track/4CU12tCGqrUsZxhKsX3anT) | [Madhavi Bose](https://open.spotify.com/artist/3d3uSFYEwuiv77ll2MsnQl) | [Serene Dusk: Raga Jog with Flute and Tabla in Teental](https://open.spotify.com/album/20YzXEg9m34A7a7yZPhWRH) | 5:40 | 2026-09-23 | 2026-11-11 |
 | [Serenity](https://open.spotify.com/track/1n234FI6z2v1rUO4oQ9vQe) | [Buddha's Flute](https://open.spotify.com/artist/1j6Futx8f5ywiHqPnX32bl) | [Serenity](https://open.spotify.com/album/2KSHTLkxbjYzZfY85s8L2O) | 5:41 | 2022-12-16 |  |
-| [Shaantipoorn Bageecha](https://open.spotify.com/track/3qqvBjzXGgeyGCTJ5x3OXu) | [Vinod Kusari](https://open.spotify.com/artist/4xt7e7m4JRwjSZ0CUdjUAZ) | [Rajasthan](https://open.spotify.com/album/3lmvyNXwElZPiV3BLpIbDr) | 4:00 | 2022-05-13 |  |
+| [Serenity](https://open.spotify.com/track/4vp14Xqb6esBGgMYqjSUYS) | [Elements](https://open.spotify.com/artist/3c6UIuZ0KCsN5nhXFErvMy) | [Serenity](https://open.spotify.com/album/7bhuBpoFugbElFbAThmwZs) | 2:58 | 2026-11-24 |  |
+| [Shaantipoorn Bageecha](https://open.spotify.com/track/3qqvBjzXGgeyGCTJ5x3OXu) | [Vinod Kusari](https://open.spotify.com/artist/4xt7e7m4JRwjSZ0CUdjUAZ) | [Rajasthan](https://open.spotify.com/album/3lmvyNXwElZPiV3BLpIbDr) | 4:00 | 2022-05-13 | 2026-11-25 |
 | [Shabdkosh](https://open.spotify.com/track/4eJE88d33ZBAEALNv3fnzv) | [Aman Nandi](https://open.spotify.com/artist/6xc1xUCBEBFTkpn6czPe10) | [Aashchary](https://open.spotify.com/album/25TMsMiB5NoYZqvTX082Xp) | 5:59 | 2022-05-13 | 2023-09-06 |
 | [Shakti Sunset, Pt\. 1 \(Alap\)](https://open.spotify.com/track/2hE86J1u0gByjj8WXpktfZ) | [Stevin McNamara](https://open.spotify.com/artist/3n25Lt7Pj891H5zFEywMX8), [Mala Ganguly](https://open.spotify.com/artist/3lRG8ptwPxwEtvwKF2krjd) | [Shakti Guitar: A Yogic Journey from Radiant Dawn to Deepest Night](https://open.spotify.com/album/49SZlnNYS7fqBLTy1588Y7) | 7:31 | 2022-05-13 | 2022-09-07 |
 | [Shanat Karna](https://open.spotify.com/track/4hb6mIPZh3N3XKHuMjGbJ4) | [Aman Nandi](https://open.spotify.com/artist/6xc1xUCBEBFTkpn6czPe10) | [Shanat Karna](https://open.spotify.com/album/4x9VFe8Cd0lj4MSl3H6116) | 4:59 | 2022-09-19 | 2024-03-27 |

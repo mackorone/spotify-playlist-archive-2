@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTJ8OyVOVcvG.md) - [plain]
 
 > Piesele potrivite pentru zilele și nopțile tale chill de toamnă
 
-[Spotify](https://open.spotify.com/user/spotify) - 22,755 likes - 60 songs - 3 hr 24 min
+[Spotify](https://open.spotify.com/user/spotify) - 22,753 likes - 60 songs - 3 hr 24 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -25,7 +25,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTJ8OyVOVcvG.md) - [plain]
 | 15 | [Noaptea](https://open.spotify.com/track/3oXWlk7N7M6pOq2BkMBUZc) | [EMAA](https://open.spotify.com/artist/4j4xD0oanPaJMB0BVqsRGE) | [Noaptea](https://open.spotify.com/album/0UmWqIkPaJp3vmURbUY45n) | 2:46 |
 | 16 | [Eu nu știu](https://open.spotify.com/track/35Et0fxBNYM8Pm9XzsRbef) | [ALECSA](https://open.spotify.com/artist/0Sxd0dl7ArFSCa4Ay0MbuP), [Criss Blaziny](https://open.spotify.com/artist/5FhmWWRpvTGJweL2wklh1e) | [Eu nu știu](https://open.spotify.com/album/6L11U5rlfnsQJRl14Iqnzy) | 2:53 |
 | 17 | [Sauvignon Blanc](https://open.spotify.com/track/10uxlzuPGekUTay2ZpZ4pR) | [ROSALÍA](https://open.spotify.com/artist/7ltDVBr6mKbRvohxheJ9h1) | [LUX](https://open.spotify.com/album/3SUEJULSGgBDG1j4GQhfYY) | 2:42 |
-| 18 | [Risk It All](https://open.spotify.com/track/5y2ijHECwFYWqcAHKTZgzD) | [Bruno Mars](https://open.spotify.com/artist/0du5cEVh5yTK9QJze8zA0C) | [The Romantic](https://open.spotify.com/album/7vI4iTxDmgEN63liQHPEX1) | 3:24 |
+| 18 | [Coming Up Roses](https://open.spotify.com/track/0QPdjsMOUhwouq1NS3HwfQ) | [Harry Styles](https://open.spotify.com/artist/6KImCVD70vtIoJWnq6nGn3) | [Kiss All The Time\. Disco, Occasionally.](https://open.spotify.com/album/69BqE1V8Bzb9GCyeP1fFeR) | 4:08 |
 | 19 | [9 2 5](https://open.spotify.com/track/4bEqzeg29i93cxH11D8Fan) | [Francis On My Mind](https://open.spotify.com/artist/6GdAYfQVlByh3CUmlMsswc) | [Ars Valendi](https://open.spotify.com/album/5LxbIjaNQZvvtWUFj2GOrh) | 2:46 |
 | 20 | [I'm Sorry](https://open.spotify.com/track/5iBXKI4n7OdjdAL057Ljad) | [Silvia Tache](https://open.spotify.com/artist/1lIt10eXYGaJpIovEYnEQ5) | [I'm Sorry](https://open.spotify.com/album/61lqVCn8wsaibnOUOBLA5B) | 3:08 |
 | 21 | [Sienna](https://open.spotify.com/track/0InIeZW4P6VO7dUGRM4AKH) | [The Marías](https://open.spotify.com/artist/2sSGPbdZJkaSE2AbcGOACx) | [Submarine](https://open.spotify.com/album/03guxdOi12XJbnvxvxbpwG) | 3:44 |
@@ -33,7 +33,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTJ8OyVOVcvG.md) - [plain]
 | 23 | [less](https://open.spotify.com/track/1LmRAxdZUEM9xc2wNivy1y) | [Olivia Rodrigo](https://open.spotify.com/artist/1McMsnEElThX1knmY4oliG) | [you seem pretty sad for a girl so in love](https://open.spotify.com/album/3WZZF72ihlKPZBS4zSsNHl) | 3:13 |
 | 24 | [Cine sunt eu](https://open.spotify.com/track/3TyePsQaanCsKyRWHuVbNr) | [Thianna](https://open.spotify.com/artist/53N39IfWFDLGSiz7dv9pRT) | [Cine sunt eu](https://open.spotify.com/album/1Cg2vytWFnYIDZO4nsW0wf) | 2:40 |
 | 25 | [Zâmbet crud](https://open.spotify.com/track/19Y0N6oQiaYqMveudGH3dX) | [Ana Coman](https://open.spotify.com/artist/4j9MwaZCANMjIyYLAC4pAW), [Eyedrops](https://open.spotify.com/artist/7aTMqAUNF2KQlEPBQFgjn7) | [Reacții adverse](https://open.spotify.com/album/1BgIjJISuq5iuF8UDnv6Y9) | 3:41 |
-| 26 | [Coming Up Roses](https://open.spotify.com/track/0QPdjsMOUhwouq1NS3HwfQ) | [Harry Styles](https://open.spotify.com/artist/6KImCVD70vtIoJWnq6nGn3) | [Kiss All The Time\. Disco, Occasionally.](https://open.spotify.com/album/69BqE1V8Bzb9GCyeP1fFeR) | 4:08 |
+| 26 | [Risk It All](https://open.spotify.com/track/5y2ijHECwFYWqcAHKTZgzD) | [Bruno Mars](https://open.spotify.com/artist/0du5cEVh5yTK9QJze8zA0C) | [The Romantic](https://open.spotify.com/album/7vI4iTxDmgEN63liQHPEX1) | 3:24 |
 | 27 | [Die With A Smile](https://open.spotify.com/track/2plbrEY59IikOBgBGLjaoe) | [Lady Gaga](https://open.spotify.com/artist/1HY2Jd0NmPuamShAr6KMms), [Bruno Mars](https://open.spotify.com/artist/0du5cEVh5yTK9QJze8zA0C) | [Die With A Smile](https://open.spotify.com/album/10FLjwfpbxLmW8c25Xyc2N) | 4:11 |
 | 28 | [hate that i made you love me](https://open.spotify.com/track/20jbSiX29FDX4oQxBXyUEi) | [Ariana Grande](https://open.spotify.com/artist/66CXWjxzNUsdJxJ2JdwvnR) | [hate that i made you love me](https://open.spotify.com/album/1x159B5VzbDWAGBik5cr1z) | 3:17 |
 | 29 | [back to friends](https://open.spotify.com/track/0FTmksd2dxiE5e3rWyJXs6) | [sombr](https://open.spotify.com/artist/4G9NDjRyZFDlJKMRL8hx3S) | [back to friends](https://open.spotify.com/album/0QLILSOq1IqAqx62drmv4E) | 3:19 |
@@ -69,4 +69,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTJ8OyVOVcvG.md) - [plain]
 | 59 | [Twizzler](https://open.spotify.com/track/55kn7P8aUDI3CyGx1jlCLT) | [Cigarettes After Sex](https://open.spotify.com/artist/1QAJqy2dA3ihHBFIHRphZj) | [Twizzler](https://open.spotify.com/album/2F1Za0y4KX2xJifGiCg47z) | 2:54 |
 | 60 | [Picture You](https://open.spotify.com/track/5KtvumPgVZmt8wg9xONE0T) | [Chappell Roan](https://open.spotify.com/artist/7GlBOeep6PqTfFi59PTUUN) | [The Rise and Fall of a Midwest Princess](https://open.spotify.com/album/0EiI8ylL0FmWWpgHVTsZjZ) | 3:07 |
 
-Snapshot ID: `AAAAAFTLQBhHDWRIsM4JOFRQchqhwYZz`
+Snapshot ID: `AAAAAGSfMJNvabZDpTK3GlwBAulWpbJ1`

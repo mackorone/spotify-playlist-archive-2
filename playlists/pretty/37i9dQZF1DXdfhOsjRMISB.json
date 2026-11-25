@@ -1,12 +1,12 @@
 {
   "description": "Country music to accompany you on the open road. Cover: Cody Johnson",
-  "num_followers": 521126,
+  "num_followers": 521263,
   "original_name": "Country Drive",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAO8fRESbDXCSMum/QMzS1pmIJb2Q",
+  "snapshot_id": "AAAAAAc6Fg7iNzI8boGRhUVuR+69/6Pz",
   "tracks": [
     {
       "added_at": "2026-11-20 05:00:34",
@@ -707,22 +707,6 @@
     {
       "added_at": "2026-11-20 05:00:34",
       "album": {
-        "name": "California Sunrise",
-        "url": "https://open.spotify.com/album/1DTBcVfk3zXPHRmgpY6rFZ"
-      },
-      "artists": [
-        {
-          "name": "Jon Pardi",
-          "url": "https://open.spotify.com/artist/4MoAOfV4ROWofLG3a3hhBN"
-        }
-      ],
-      "duration_ms": 205200,
-      "name": "Heartache On The Dance Floor",
-      "url": "https://open.spotify.com/track/0w3Q14i073jLoew1hgJkwD"
-    },
-    {
-      "added_at": "2026-11-20 05:00:34",
-      "album": {
         "name": "The Big Revival",
         "url": "https://open.spotify.com/album/2R5PAxygJ4YeRuSwoalKam"
       },
@@ -735,6 +719,22 @@
       "duration_ms": 182982,
       "name": "American Kids",
       "url": "https://open.spotify.com/track/1dgWTMoHwTUnQhOQ8SR5fV"
+    },
+    {
+      "added_at": "2026-11-20 05:00:34",
+      "album": {
+        "name": "California Sunrise",
+        "url": "https://open.spotify.com/album/1DTBcVfk3zXPHRmgpY6rFZ"
+      },
+      "artists": [
+        {
+          "name": "Jon Pardi",
+          "url": "https://open.spotify.com/artist/4MoAOfV4ROWofLG3a3hhBN"
+        }
+      ],
+      "duration_ms": 201893,
+      "name": "Dirt On My Boots",
+      "url": "https://open.spotify.com/track/7f08qp3HROTkfrtNpiYGGo"
     },
     {
       "added_at": "2026-11-20 05:00:34",
@@ -787,22 +787,6 @@
     {
       "added_at": "2026-11-20 05:00:34",
       "album": {
-        "name": "California Sunrise",
-        "url": "https://open.spotify.com/album/1DTBcVfk3zXPHRmgpY6rFZ"
-      },
-      "artists": [
-        {
-          "name": "Jon Pardi",
-          "url": "https://open.spotify.com/artist/4MoAOfV4ROWofLG3a3hhBN"
-        }
-      ],
-      "duration_ms": 201893,
-      "name": "Dirt On My Boots",
-      "url": "https://open.spotify.com/track/7f08qp3HROTkfrtNpiYGGo"
-    },
-    {
-      "added_at": "2026-11-20 05:00:34",
-      "album": {
         "name": "Lee Brice",
         "url": "https://open.spotify.com/album/3GyH4lUfzEkbxlaW5xTYYL"
       },
@@ -815,6 +799,22 @@
       "duration_ms": 198440,
       "name": "Rumor",
       "url": "https://open.spotify.com/track/56eGOeSsqdg3FLxdo83TwV"
+    },
+    {
+      "added_at": "2026-11-20 05:00:34",
+      "album": {
+        "name": "California Sunrise",
+        "url": "https://open.spotify.com/album/1DTBcVfk3zXPHRmgpY6rFZ"
+      },
+      "artists": [
+        {
+          "name": "Jon Pardi",
+          "url": "https://open.spotify.com/artist/4MoAOfV4ROWofLG3a3hhBN"
+        }
+      ],
+      "duration_ms": 205200,
+      "name": "Heartache On The Dance Floor",
+      "url": "https://open.spotify.com/track/0w3Q14i073jLoew1hgJkwD"
     },
     {
       "added_at": "2026-11-20 05:00:34",
@@ -875,22 +875,6 @@
     {
       "added_at": "2026-11-20 05:00:34",
       "album": {
-        "name": "California Sunrise",
-        "url": "https://open.spotify.com/album/1DTBcVfk3zXPHRmgpY6rFZ"
-      },
-      "artists": [
-        {
-          "name": "Jon Pardi",
-          "url": "https://open.spotify.com/artist/4MoAOfV4ROWofLG3a3hhBN"
-        }
-      ],
-      "duration_ms": 172253,
-      "name": "Night Shift",
-      "url": "https://open.spotify.com/track/0bPnT6i9H1p8Vd85GS6Z7I"
-    },
-    {
-      "added_at": "2026-11-20 05:00:34",
-      "album": {
         "name": "Stereotype",
         "url": "https://open.spotify.com/album/5UgaQfAOaOdfLxFClw8EWa"
       },
@@ -903,6 +887,22 @@
       "duration_ms": 206106,
       "name": "She Had Me At Heads Carolina",
       "url": "https://open.spotify.com/track/200x8ONbPfFzByUr3fVz46"
+    },
+    {
+      "added_at": "2026-11-20 05:00:34",
+      "album": {
+        "name": "California Sunrise",
+        "url": "https://open.spotify.com/album/1DTBcVfk3zXPHRmgpY6rFZ"
+      },
+      "artists": [
+        {
+          "name": "Jon Pardi",
+          "url": "https://open.spotify.com/artist/4MoAOfV4ROWofLG3a3hhBN"
+        }
+      ],
+      "duration_ms": 172253,
+      "name": "Night Shift",
+      "url": "https://open.spotify.com/track/0bPnT6i9H1p8Vd85GS6Z7I"
     },
     {
       "added_at": "2026-11-20 05:00:34",
@@ -991,22 +991,6 @@
     {
       "added_at": "2026-11-20 05:00:34",
       "album": {
-        "name": "Dierks Bentley",
-        "url": "https://open.spotify.com/album/2yeODPn8igz9qQiitOZRyJ"
-      },
-      "artists": [
-        {
-          "name": "Dierks Bentley",
-          "url": "https://open.spotify.com/artist/7x8nK0m0cP2ksQf0mjWdPS"
-        }
-      ],
-      "duration_ms": 260826,
-      "name": "What Was I Thinkin'",
-      "url": "https://open.spotify.com/track/0r8iDf65NHgFgZOGLwj5r8"
-    },
-    {
-      "added_at": "2026-11-20 05:00:34",
-      "album": {
         "name": "Tyler Hubbard",
         "url": "https://open.spotify.com/album/2S3Q7phoa4bZEijkTRYaLu"
       },
@@ -1019,6 +1003,22 @@
       "duration_ms": 179640,
       "name": "Dancin\u2019 In The Country",
       "url": "https://open.spotify.com/track/2KtGiBi5CrX2ERPD2PAS34"
+    },
+    {
+      "added_at": "2026-11-20 05:00:34",
+      "album": {
+        "name": "Dierks Bentley",
+        "url": "https://open.spotify.com/album/2yeODPn8igz9qQiitOZRyJ"
+      },
+      "artists": [
+        {
+          "name": "Dierks Bentley",
+          "url": "https://open.spotify.com/artist/7x8nK0m0cP2ksQf0mjWdPS"
+        }
+      ],
+      "duration_ms": 260826,
+      "name": "What Was I Thinkin'",
+      "url": "https://open.spotify.com/track/0r8iDf65NHgFgZOGLwj5r8"
     },
     {
       "added_at": "2026-11-20 05:00:34",
@@ -1423,22 +1423,6 @@
     {
       "added_at": "2026-11-20 05:00:34",
       "album": {
-        "name": "I\u2019m The Problem",
-        "url": "https://open.spotify.com/album/1o844O5I0qVpZKiePtIGcF"
-      },
-      "artists": [
-        {
-          "name": "Morgan Wallen",
-          "url": "https://open.spotify.com/artist/4oUHIQIBe0LHzYfvXNW4QM"
-        }
-      ],
-      "duration_ms": 191441,
-      "name": "Don't We",
-      "url": "https://open.spotify.com/track/45UDzIWgqj5hgQKXLlfdp7"
-    },
-    {
-      "added_at": "2026-11-20 05:00:34",
-      "album": {
         "name": "Starting Over",
         "url": "https://open.spotify.com/album/4AOloVYcXn1aa4p4IhwhRM"
       },
@@ -1455,18 +1439,18 @@
     {
       "added_at": "2026-11-20 05:00:34",
       "album": {
-        "name": "I Know I Know",
-        "url": "https://open.spotify.com/album/6vt7I2vcCWzmo8ExiTahAA"
+        "name": "I\u2019m The Problem",
+        "url": "https://open.spotify.com/album/1o844O5I0qVpZKiePtIGcF"
       },
       "artists": [
         {
-          "name": "STELLA LEFTY",
-          "url": "https://open.spotify.com/artist/6hp2uD84OrQ3u3ukmTjLz2"
+          "name": "Morgan Wallen",
+          "url": "https://open.spotify.com/artist/4oUHIQIBe0LHzYfvXNW4QM"
         }
       ],
-      "duration_ms": 159210,
-      "name": "I Know I Know",
-      "url": "https://open.spotify.com/track/1Ot6QuJzCY66UdLK1ci3sc"
+      "duration_ms": 191441,
+      "name": "Don't We",
+      "url": "https://open.spotify.com/track/45UDzIWgqj5hgQKXLlfdp7"
     },
     {
       "added_at": "2026-11-20 05:00:34",
@@ -1483,6 +1467,22 @@
       "duration_ms": 335480,
       "name": "Stay A Little Longer",
       "url": "https://open.spotify.com/track/23EkfwUdsRIz7jAZIcC8gb"
+    },
+    {
+      "added_at": "2026-11-20 05:00:34",
+      "album": {
+        "name": "I Know I Know",
+        "url": "https://open.spotify.com/album/6vt7I2vcCWzmo8ExiTahAA"
+      },
+      "artists": [
+        {
+          "name": "STELLA LEFTY",
+          "url": "https://open.spotify.com/artist/6hp2uD84OrQ3u3ukmTjLz2"
+        }
+      ],
+      "duration_ms": 159210,
+      "name": "I Know I Know",
+      "url": "https://open.spotify.com/track/1Ot6QuJzCY66UdLK1ci3sc"
     },
     {
       "added_at": "2026-11-20 05:00:34",
@@ -1611,6 +1611,22 @@
     {
       "added_at": "2026-11-20 05:00:34",
       "album": {
+        "name": "23",
+        "url": "https://open.spotify.com/album/2LTt0pFwjPS5Zdc7tlmwyl"
+      },
+      "artists": [
+        {
+          "name": "Chayce Beckham",
+          "url": "https://open.spotify.com/artist/5ujvZU2thXjZgFKPUt1rDt"
+        }
+      ],
+      "duration_ms": 228144,
+      "name": "23",
+      "url": "https://open.spotify.com/track/1ZpPaBDswjV3VSUKqLDXPE"
+    },
+    {
+      "added_at": "2026-11-20 05:00:34",
+      "album": {
         "name": "Center Point Road",
         "url": "https://open.spotify.com/album/5gnWhEFNbtCn0RLG2cp90g"
       },
@@ -1631,22 +1647,6 @@
     {
       "added_at": "2026-11-20 05:00:34",
       "album": {
-        "name": "23",
-        "url": "https://open.spotify.com/album/2LTt0pFwjPS5Zdc7tlmwyl"
-      },
-      "artists": [
-        {
-          "name": "Chayce Beckham",
-          "url": "https://open.spotify.com/artist/5ujvZU2thXjZgFKPUt1rDt"
-        }
-      ],
-      "duration_ms": 228144,
-      "name": "23",
-      "url": "https://open.spotify.com/track/1ZpPaBDswjV3VSUKqLDXPE"
-    },
-    {
-      "added_at": "2026-11-20 05:00:34",
-      "album": {
         "name": "Wildflowers and Wild Horses",
         "url": "https://open.spotify.com/album/4yec2VewOzxBHjBgQ0yauV"
       },
@@ -1659,22 +1659,6 @@
       "duration_ms": 216573,
       "name": "Wildflowers and Wild Horses (Single Version)",
       "url": "https://open.spotify.com/track/6d3QUBsiAw3aZI6F2mMhzk"
-    },
-    {
-      "added_at": "2026-11-20 05:00:34",
-      "album": {
-        "name": "Born To Die",
-        "url": "https://open.spotify.com/album/0YasyGaO1Go6ArzZtGkv27"
-      },
-      "artists": [
-        {
-          "name": "Shaboozey",
-          "url": "https://open.spotify.com/artist/3y2cIKLjiOlp1Np37WiUdH"
-        }
-      ],
-      "duration_ms": 161410,
-      "name": "Born To Die",
-      "url": "https://open.spotify.com/track/2OYL3iPdImeS7qMmV2gOsX"
     },
     {
       "added_at": "2026-11-20 05:00:34",
@@ -1695,6 +1679,22 @@
     {
       "added_at": "2026-11-20 05:00:34",
       "album": {
+        "name": "Born To Die",
+        "url": "https://open.spotify.com/album/0YasyGaO1Go6ArzZtGkv27"
+      },
+      "artists": [
+        {
+          "name": "Shaboozey",
+          "url": "https://open.spotify.com/artist/3y2cIKLjiOlp1Np37WiUdH"
+        }
+      ],
+      "duration_ms": 161410,
+      "name": "Born To Die",
+      "url": "https://open.spotify.com/track/2OYL3iPdImeS7qMmV2gOsX"
+    },
+    {
+      "added_at": "2026-11-20 05:00:34",
+      "album": {
         "name": "DEVIL YOU KNOW",
         "url": "https://open.spotify.com/album/4OWkgV3qaf52HEXYsRSTZM"
       },
@@ -1707,6 +1707,22 @@
       "duration_ms": 192693,
       "name": "DEVIL YOU KNOW",
       "url": "https://open.spotify.com/track/6tWGe6nvXFWT0KhGCXM89q"
+    },
+    {
+      "added_at": "2026-11-20 05:00:34",
+      "album": {
+        "name": "Mud On The Tires",
+        "url": "https://open.spotify.com/album/7jdM09zOoPpNn59UzAeryS"
+      },
+      "artists": [
+        {
+          "name": "Brad Paisley",
+          "url": "https://open.spotify.com/artist/13YmWQJFwgZrd4bf5IjMY4"
+        }
+      ],
+      "duration_ms": 208444,
+      "name": "Mud on the Tires",
+      "url": "https://open.spotify.com/track/4AQWKGBWTR7fVuUKxi5sKE"
     },
     {
       "added_at": "2026-11-20 05:00:34",
@@ -1727,22 +1743,6 @@
       "duration_ms": 195122,
       "name": "Pour Me A Drink (Feat. Blake Shelton)",
       "url": "https://open.spotify.com/track/5ZLL6wYXeqg0k35ZkDRfhZ"
-    },
-    {
-      "added_at": "2026-11-20 05:00:34",
-      "album": {
-        "name": "Mud On The Tires",
-        "url": "https://open.spotify.com/album/7jdM09zOoPpNn59UzAeryS"
-      },
-      "artists": [
-        {
-          "name": "Brad Paisley",
-          "url": "https://open.spotify.com/artist/13YmWQJFwgZrd4bf5IjMY4"
-        }
-      ],
-      "duration_ms": 208444,
-      "name": "Mud on the Tires",
-      "url": "https://open.spotify.com/track/4AQWKGBWTR7fVuUKxi5sKE"
     },
     {
       "added_at": "2026-11-20 05:00:34",
@@ -2071,26 +2071,6 @@
     {
       "added_at": "2026-11-20 05:00:34",
       "album": {
-        "name": "Chasing After You (with Maren Morris)",
-        "url": "https://open.spotify.com/album/5QUwCi1lbk0kZ5k87fRNbK"
-      },
-      "artists": [
-        {
-          "name": "Ryan Hurd",
-          "url": "https://open.spotify.com/artist/7lDVEkjIURPMyUYwoQRrpw"
-        },
-        {
-          "name": "Maren Morris",
-          "url": "https://open.spotify.com/artist/6WY7D3jk8zTrHtmkqqo5GI"
-        }
-      ],
-      "duration_ms": 207973,
-      "name": "Chasing After You (with Maren Morris)",
-      "url": "https://open.spotify.com/track/1ZIKpMTRPqhwAoVXWY3tXI"
-    },
-    {
-      "added_at": "2026-11-20 05:00:34",
-      "album": {
         "name": "Beers On Me",
         "url": "https://open.spotify.com/album/5MCXOrCsU3R1xQ3kLI4oXM"
       },
@@ -2111,6 +2091,26 @@
       "duration_ms": 174680,
       "name": "Beers On Me",
       "url": "https://open.spotify.com/track/19ZzEzb4BVK1wVO4brrmZz"
+    },
+    {
+      "added_at": "2026-11-20 05:00:34",
+      "album": {
+        "name": "Chasing After You (with Maren Morris)",
+        "url": "https://open.spotify.com/album/5QUwCi1lbk0kZ5k87fRNbK"
+      },
+      "artists": [
+        {
+          "name": "Ryan Hurd",
+          "url": "https://open.spotify.com/artist/7lDVEkjIURPMyUYwoQRrpw"
+        },
+        {
+          "name": "Maren Morris",
+          "url": "https://open.spotify.com/artist/6WY7D3jk8zTrHtmkqqo5GI"
+        }
+      ],
+      "duration_ms": 207973,
+      "name": "Chasing After You (with Maren Morris)",
+      "url": "https://open.spotify.com/track/1ZIKpMTRPqhwAoVXWY3tXI"
     },
     {
       "added_at": "2026-11-20 05:00:34",
@@ -2203,22 +2203,6 @@
     {
       "added_at": "2026-11-20 05:00:34",
       "album": {
-        "name": "One Margarita",
-        "url": "https://open.spotify.com/album/6BOJ3r1s8u63at3Ou7HaVw"
-      },
-      "artists": [
-        {
-          "name": "Luke Bryan",
-          "url": "https://open.spotify.com/artist/0BvkDsjIUla7X0k6CSWh1I"
-        }
-      ],
-      "duration_ms": 193426,
-      "name": "One Margarita",
-      "url": "https://open.spotify.com/track/6NhS5LwYbJ6xD7BGvlWRJO"
-    },
-    {
-      "added_at": "2026-11-20 05:00:34",
-      "album": {
         "name": "This Is the Heavy",
         "url": "https://open.spotify.com/album/7hWoBHqzfN4QMcVPFSqbBS"
       },
@@ -2231,6 +2215,22 @@
       "duration_ms": 203679,
       "name": "We Got History",
       "url": "https://open.spotify.com/track/6Awl7JBDQjfm7xkS3LkhDi"
+    },
+    {
+      "added_at": "2026-11-20 05:00:34",
+      "album": {
+        "name": "One Margarita",
+        "url": "https://open.spotify.com/album/6BOJ3r1s8u63at3Ou7HaVw"
+      },
+      "artists": [
+        {
+          "name": "Luke Bryan",
+          "url": "https://open.spotify.com/artist/0BvkDsjIUla7X0k6CSWh1I"
+        }
+      ],
+      "duration_ms": 193426,
+      "name": "One Margarita",
+      "url": "https://open.spotify.com/track/6NhS5LwYbJ6xD7BGvlWRJO"
     },
     {
       "added_at": "2026-11-20 05:00:34",
@@ -2255,6 +2255,22 @@
     {
       "added_at": "2026-11-20 05:00:34",
       "album": {
+        "name": "Coyote Cry",
+        "url": "https://open.spotify.com/album/5uQt9PVJIZvYjOL43EkOId"
+      },
+      "artists": [
+        {
+          "name": "Ian Munsick",
+          "url": "https://open.spotify.com/artist/7HjGPPtdNuHcK8crc7iNkn"
+        }
+      ],
+      "duration_ms": 231265,
+      "name": "Long Haul",
+      "url": "https://open.spotify.com/track/7nERlpaH7QghaO7jC60Xtu"
+    },
+    {
+      "added_at": "2026-11-20 05:00:34",
+      "album": {
         "name": "Rocky Mountain Low (feat. Koe Wetzel)",
         "url": "https://open.spotify.com/album/34UbZH97R1t0TR1IoV5alN"
       },
@@ -2275,18 +2291,18 @@
     {
       "added_at": "2026-11-20 05:00:34",
       "album": {
-        "name": "Coyote Cry",
-        "url": "https://open.spotify.com/album/5uQt9PVJIZvYjOL43EkOId"
+        "name": "Life With You",
+        "url": "https://open.spotify.com/album/0rONiLVsTjT9XVGtJWEu6z"
       },
       "artists": [
         {
-          "name": "Ian Munsick",
-          "url": "https://open.spotify.com/artist/7HjGPPtdNuHcK8crc7iNkn"
+          "name": "Kelsey Hart",
+          "url": "https://open.spotify.com/artist/1WKwvWRG8MdHAwHsSv9lXb"
         }
       ],
-      "duration_ms": 231265,
-      "name": "Long Haul",
-      "url": "https://open.spotify.com/track/7nERlpaH7QghaO7jC60Xtu"
+      "duration_ms": 156813,
+      "name": "Life With You",
+      "url": "https://open.spotify.com/track/38QnGbDW7KgVylfma7ZWV5"
     },
     {
       "added_at": "2026-11-20 05:00:34",
@@ -2303,22 +2319,6 @@
       "duration_ms": 199382,
       "name": "Knockin' Boots",
       "url": "https://open.spotify.com/track/6ERR6e7h6wCqGoz1TjiUJb"
-    },
-    {
-      "added_at": "2026-11-20 05:00:34",
-      "album": {
-        "name": "Life With You",
-        "url": "https://open.spotify.com/album/0rONiLVsTjT9XVGtJWEu6z"
-      },
-      "artists": [
-        {
-          "name": "Kelsey Hart",
-          "url": "https://open.spotify.com/artist/1WKwvWRG8MdHAwHsSv9lXb"
-        }
-      ],
-      "duration_ms": 156813,
-      "name": "Life With You",
-      "url": "https://open.spotify.com/track/38QnGbDW7KgVylfma7ZWV5"
     },
     {
       "added_at": "2026-11-20 05:00:34",

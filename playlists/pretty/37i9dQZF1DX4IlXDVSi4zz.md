@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4IlXDVSi4zz.md) - [plain]
 
 > Dance the night away and just blame it on Tulum!
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,036,249 likes - 100 songs - 5 hr 11 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,036,274 likes - 100 songs - 5 hr 11 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -79,8 +79,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4IlXDVSi4zz.md) - [plain]
 | 69 | [Take You Home](https://open.spotify.com/track/1bQ9WDieDZNlxJOLPfACmq) | [Quliano](https://open.spotify.com/artist/495Jh5g6cOR6DjXQd18323) | [Take You Home](https://open.spotify.com/album/09thirEgai7TNZ5jtA1yoK) | 2:55 |
 | 70 | [Want To Know](https://open.spotify.com/track/3hvH3Ecc4NCvUhX9hMwXlo) | [Rooléh](https://open.spotify.com/artist/7zCwvjLktz2o5LFYvTquJu) | [Want To Know](https://open.spotify.com/album/080Tcs0ngcJZrF8uqcvJEK) | 3:02 |
 | 71 | [CHICA 305](https://open.spotify.com/track/2xz5qmonUWZytz5jIw04LM) | [John Summit](https://open.spotify.com/artist/7kNqXtgeIwFtelmRjWv205), [Feid](https://open.spotify.com/artist/2LRoIwlKmHjgvigdNGBHNo) | [CHICA 305](https://open.spotify.com/album/5WKnVOiGYqy9Aqva01ttB2) | 3:08 |
-| 72 | [Control](https://open.spotify.com/track/4LYES3lEMg5hwWNXFfqOad) | [Joseph Capriati](https://open.spotify.com/artist/7onsqSWPufMm5ZnUCECDpf), [GENNARO](https://open.spotify.com/artist/0UVthdD1eqqsoNLX9ek4Xb) | [Control](https://open.spotify.com/album/7AraxEpTZr2hPUt04PR48N) | 2:41 |
-| 73 | [For The Soul](https://open.spotify.com/track/3tvfmoyEtk3kuktDUssJam) | [Tini Gessler](https://open.spotify.com/artist/5k1fr2qbGZrk40njMAyv0x) | [For The Soul](https://open.spotify.com/album/2aOqjUv4Fw2t7TuUoIujEW) | 2:55 |
+| 72 | [For The Soul](https://open.spotify.com/track/3tvfmoyEtk3kuktDUssJam) | [Tini Gessler](https://open.spotify.com/artist/5k1fr2qbGZrk40njMAyv0x) | [For The Soul](https://open.spotify.com/album/2aOqjUv4Fw2t7TuUoIujEW) | 2:55 |
+| 73 | [Control](https://open.spotify.com/track/4LYES3lEMg5hwWNXFfqOad) | [Joseph Capriati](https://open.spotify.com/artist/7onsqSWPufMm5ZnUCECDpf), [GENNARO](https://open.spotify.com/artist/0UVthdD1eqqsoNLX9ek4Xb) | [Control](https://open.spotify.com/album/7AraxEpTZr2hPUt04PR48N) | 2:41 |
 | 74 | [Let's Go \(Magalenha\)](https://open.spotify.com/track/30Ca9XElifcBjngQrmg0yl) | [Ian Asher](https://open.spotify.com/artist/5IrxhrMyvZxzgPYrC9j2km), [GIULIA BE](https://open.spotify.com/artist/0kjGPGtoyKwKVOZAKmv5K6) | [Let's Go \(Magalenha\)](https://open.spotify.com/album/4yIihHvohDQhwRV69DSFTU) | 2:43 |
 | 75 | [Stephanie \- HNTR Remix](https://open.spotify.com/track/4Ko4SzgkfEOw2aestyWDVn) | [Cloonee](https://open.spotify.com/artist/7MdlXmq2HViAJWo9cf30sR), [Young M.A](https://open.spotify.com/artist/7LvoDJUNGnOrPdGRzVtOJ9), [InntRaw](https://open.spotify.com/artist/0j6Tcp4NiZqsS3OEl4ppLw), [HNTR](https://open.spotify.com/artist/3R0yz9xgTmCOLQMPcJ6MuU) | [Stephanie \(HNTR Remix\)](https://open.spotify.com/album/36ugkxRl0vThlv2ytPo1ZD) | 2:25 |
 | 76 | [Asereje \- Remix](https://open.spotify.com/track/7yiZOX1floHlpZEskbbZnk) | [MESTIZA](https://open.spotify.com/artist/1l6pQ0SDItjXzbG9zloE2n), [Las Ketchup](https://open.spotify.com/artist/1e8GEl48ktvfDpruMKB6Oe) | [Asereje \(Remix\)](https://open.spotify.com/album/5wrHAkjZUkhPuj3hrHcmVB) | 2:37 |
@@ -92,9 +92,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4IlXDVSi4zz.md) - [plain]
 | 82 | [Te Doy La Libertad](https://open.spotify.com/track/5ODIUPpNdmVZRjTMHa0Vjp) | [MESTIZA](https://open.spotify.com/artist/1l6pQ0SDItjXzbG9zloE2n) | [Spanish Chica](https://open.spotify.com/album/04LUS5N9H4DIxFty3pUnTN) | 4:04 |
 | 83 | [Teka \(with Peso Pluma\)](https://open.spotify.com/track/555maXFEF9m0lE4UGRzCHk) | [DJ Snake](https://open.spotify.com/artist/540vIaP2JwjQb9dm3aArA4), [Peso Pluma](https://open.spotify.com/artist/12GqGscKJx3aE4t07u7eVZ) | [Teka \(with Peso Pluma\)](https://open.spotify.com/album/4MGpOqMU3FlZ7li35laoBu) | 2:43 |
 | 84 | [Campeón](https://open.spotify.com/track/5TpWybXTsLTUAj4WcUYkP0) | [ZULAN](https://open.spotify.com/artist/2Yz9F5lQVc0p6SDxkw2BvF) | [Campeón](https://open.spotify.com/album/5O3GNoKOWUnyvUQoGSceKy) | 2:53 |
-| 85 | [Dancing Shoes](https://open.spotify.com/track/0gbFEO8EcSzbGIf4SJR47P) | [Tom & Collins](https://open.spotify.com/artist/1XU5MjR4kex9BGyY4UMtta), [OMRI.](https://open.spotify.com/artist/36jn1T9teX1BHEJYcPoazX) | [Dancing Shoes](https://open.spotify.com/album/6lTtYYVqJCRxc28a6cUK73) | 3:48 |
+| 85 | [COLLECT THE COMMAS](https://open.spotify.com/track/5e3NwBC0E6xjX9c1Uc8RHy) | [PAWSA](https://open.spotify.com/artist/4E0HD2PMY8kQJIjlShrLUS) | [COLLECT THE COMMAS](https://open.spotify.com/album/6AVl6czEyN0v5GRaeCr4WY) | 3:41 |
 | 86 | [Keep It Exciting](https://open.spotify.com/track/4hks1EK6HEi0yNn9qCEXUp) | [Mr\. Belt & Wezol](https://open.spotify.com/artist/19VDJ9IKyBSUMDJxLsasP6), [Qobra](https://open.spotify.com/artist/1bjS3iRdJCgf410FMDVKGE), [Alex Hosking](https://open.spotify.com/artist/5YCU9eHY4IYTyNa8XRFuw9) | [Keep It Exciting](https://open.spotify.com/album/1IgE29idg8rtuHt40gfvyL) | 2:18 |
-| 87 | [COLLECT THE COMMAS](https://open.spotify.com/track/5e3NwBC0E6xjX9c1Uc8RHy) | [PAWSA](https://open.spotify.com/artist/4E0HD2PMY8kQJIjlShrLUS) | [COLLECT THE COMMAS](https://open.spotify.com/album/6AVl6czEyN0v5GRaeCr4WY) | 3:41 |
+| 87 | [Dancing Shoes](https://open.spotify.com/track/0gbFEO8EcSzbGIf4SJR47P) | [Tom & Collins](https://open.spotify.com/artist/1XU5MjR4kex9BGyY4UMtta), [OMRI.](https://open.spotify.com/artist/36jn1T9teX1BHEJYcPoazX) | [Dancing Shoes](https://open.spotify.com/album/6lTtYYVqJCRxc28a6cUK73) | 3:48 |
 | 88 | [Meu Verão](https://open.spotify.com/track/1M3osJunuDlz44RtVyCacx) | [Vintage Culture](https://open.spotify.com/artist/28uJnu5EsrGml2tBd7y8ts), [Magi](https://open.spotify.com/artist/1wO4Q3O7ljz4tGRAVZVQXy), [Doral](https://open.spotify.com/artist/3yMvydJf1VUFfuFjdYK3Hp), [Blotz](https://open.spotify.com/artist/0BWTr4DfWCSNecOH1GnZEw) | [Meu Verão](https://open.spotify.com/album/5lLsA0pN0mU93uFl7GU9VY) | 3:35 |
 | 89 | [Good Time](https://open.spotify.com/track/3Lvl7l2EY2yWXPO2HqFLZN) | [Trace](https://open.spotify.com/artist/4T0QPJFV83O1j9w8y5apQX) | [Good Time](https://open.spotify.com/album/4HUhOVgq3iJM2awJQtpAoW) | 3:52 |
 | 90 | [Horny](https://open.spotify.com/track/04GYAnoZJajIurWLcjTMIF) | [San Pacho](https://open.spotify.com/artist/5jBerZvTAajwYvdxt3UhgU), [TOBEHONEST](https://open.spotify.com/artist/5aE4f6qwsXT5hACySkxJQo) | [Horny](https://open.spotify.com/album/06r7GDrgzhhO0uP6q0Fx9N) | 3:02 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4IlXDVSi4zz.md) - [plain]
 | 99 | [Tambora](https://open.spotify.com/track/5Lm6Vl5RjOF77si7Tv5Usz) | [Faul & Wad](https://open.spotify.com/artist/6HUm6AHJE0oisACMN6NNJ5), [MESTIZA](https://open.spotify.com/artist/1l6pQ0SDItjXzbG9zloE2n), [Martina Camargo](https://open.spotify.com/artist/2vGRgVlsY6BB9PyESPm6IH) | [Tambora](https://open.spotify.com/album/7LUHIlbhuFHoZKRlamEd9Y) | 2:30 |
 | 100 | [Music Is The Answer \(Dancin' And Prancin'\) \- Edit](https://open.spotify.com/track/6YR1D5tsjAZE1Zn0lnEdEd) | [Jesús Fernández](https://open.spotify.com/artist/6bZ11vzZLe2XZhvgLVcZum), [Karl8 & Andrea Monta](https://open.spotify.com/artist/4fMsgTeKWUFIthLdhpNEjC) | [Music Is The Answer \(Dancin' And Prancin'\)](https://open.spotify.com/album/72IyE66hhtbsWt0Lmxc0tK) | 3:39 |
 
-Snapshot ID: `AAAAAAgDwn7B3QPgUFbYQGRWC5ncR7zb`
+Snapshot ID: `AAAAAPRzdK2L5muzC4thsW9MmnywB4Ij`

@@ -1,12 +1,12 @@
 {
   "description": "This is KISS. The essential tracks, all in one playlist.",
-  "num_followers": 488661,
+  "num_followers": 488669,
   "original_name": "This Is KISS",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "awIwgAAAAACiYmT98mN9ib8XMonJa7K2",
+  "snapshot_id": "awOCAAAAAAC0d1yDoOO8hS2RdpeSdo6j",
   "tracks": [
     {
       "added_at": null,
@@ -319,22 +319,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Asylum",
-        "url": "https://open.spotify.com/album/0WDUDVt1ZYTJX8KPwH3ast"
-      },
-      "artists": [
-        {
-          "name": "KISS",
-          "url": "https://open.spotify.com/artist/07XSN3sPlIlB2L2XNcTwJw"
-        }
-      ],
-      "duration_ms": 235933,
-      "name": "Tears Are Falling",
-      "url": "https://open.spotify.com/track/1hxt3chzYLAzS4NmSSi5A3"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Creatures Of The Night (40th Anniversary / Super Deluxe)",
         "url": "https://open.spotify.com/album/5jK7ZZGXUBfttfclUNUmnS"
       },
@@ -351,6 +335,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Asylum",
+        "url": "https://open.spotify.com/album/0WDUDVt1ZYTJX8KPwH3ast"
+      },
+      "artists": [
+        {
+          "name": "KISS",
+          "url": "https://open.spotify.com/artist/07XSN3sPlIlB2L2XNcTwJw"
+        }
+      ],
+      "duration_ms": 235933,
+      "name": "Tears Are Falling",
+      "url": "https://open.spotify.com/track/1hxt3chzYLAzS4NmSSi5A3"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Dynasty",
         "url": "https://open.spotify.com/album/4FA68GsblSfvKZZRfM1tI1"
       },
@@ -363,6 +363,22 @@
       "duration_ms": 265933,
       "name": "Charisma",
       "url": "https://open.spotify.com/track/6afDASlKWMARNxYSrCAAf8"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Rock And Roll Over",
+        "url": "https://open.spotify.com/album/6722nY178mLes49GPldnjj"
+      },
+      "artists": [
+        {
+          "name": "KISS",
+          "url": "https://open.spotify.com/artist/07XSN3sPlIlB2L2XNcTwJw"
+        }
+      ],
+      "duration_ms": 224666,
+      "name": "Calling Dr. Love",
+      "url": "https://open.spotify.com/track/7xD7MvjAdZkx1YICschIuI"
     },
     {
       "added_at": null,
@@ -395,22 +411,6 @@
       "duration_ms": 281373,
       "name": "We Are One",
       "url": "https://open.spotify.com/track/0dPPUcfDnvSwK38lLgzKSd"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Rock And Roll Over",
-        "url": "https://open.spotify.com/album/6722nY178mLes49GPldnjj"
-      },
-      "artists": [
-        {
-          "name": "KISS",
-          "url": "https://open.spotify.com/artist/07XSN3sPlIlB2L2XNcTwJw"
-        }
-      ],
-      "duration_ms": 224666,
-      "name": "Calling Dr. Love",
-      "url": "https://open.spotify.com/track/7xD7MvjAdZkx1YICschIuI"
     },
     {
       "added_at": null,
@@ -575,6 +575,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Rock And Roll Over",
+        "url": "https://open.spotify.com/album/6722nY178mLes49GPldnjj"
+      },
+      "artists": [
+        {
+          "name": "KISS",
+          "url": "https://open.spotify.com/artist/07XSN3sPlIlB2L2XNcTwJw"
+        }
+      ],
+      "duration_ms": 185333,
+      "name": "I Want You",
+      "url": "https://open.spotify.com/track/5pcOAhkv8BiTpzWITZShKW"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Creatures Of The Night (40th Anniversary / Super Deluxe)",
         "url": "https://open.spotify.com/album/5jK7ZZGXUBfttfclUNUmnS"
       },
@@ -591,22 +607,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Mr. Speed / Hard Luck Woman",
-        "url": "https://open.spotify.com/album/3H4aImRAbw3JXfzvXWdRny"
-      },
-      "artists": [
-        {
-          "name": "KISS",
-          "url": "https://open.spotify.com/artist/07XSN3sPlIlB2L2XNcTwJw"
-        }
-      ],
-      "duration_ms": 198933,
-      "name": "Mr. Speed - Eddie Kramer 2026 Mix",
-      "url": "https://open.spotify.com/track/3XHLc3Visn57QAi1wUR7xG"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Love Gun",
         "url": "https://open.spotify.com/album/77opKywcxPnBu5aBMASS2b"
       },
@@ -619,6 +619,22 @@
       "duration_ms": 226773,
       "name": "Shock Me",
       "url": "https://open.spotify.com/track/39hfj6Tnqgsxn7jGTfWl18"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Mr. Speed / Hard Luck Woman",
+        "url": "https://open.spotify.com/album/3H4aImRAbw3JXfzvXWdRny"
+      },
+      "artists": [
+        {
+          "name": "KISS",
+          "url": "https://open.spotify.com/artist/07XSN3sPlIlB2L2XNcTwJw"
+        }
+      ],
+      "duration_ms": 198933,
+      "name": "Mr. Speed - Eddie Kramer 2026 Mix",
+      "url": "https://open.spotify.com/track/3XHLc3Visn57QAi1wUR7xG"
     },
     {
       "added_at": null,
@@ -651,22 +667,6 @@
       "duration_ms": 198466,
       "name": "Turn On The Night",
       "url": "https://open.spotify.com/track/3L5dCw2G1sNtAaZ0cqUBnY"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Rock And Roll Over",
-        "url": "https://open.spotify.com/album/6722nY178mLes49GPldnjj"
-      },
-      "artists": [
-        {
-          "name": "KISS",
-          "url": "https://open.spotify.com/artist/07XSN3sPlIlB2L2XNcTwJw"
-        }
-      ],
-      "duration_ms": 185333,
-      "name": "I Want You",
-      "url": "https://open.spotify.com/track/5pcOAhkv8BiTpzWITZShKW"
     },
     {
       "added_at": null,

@@ -30,10 +30,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO4wEnux.md) - [plain]
 | 20 | [Everything](https://open.spotify.com/track/0vAIEEH2tkYgmotVvEb84d) | [Fatherson](https://open.spotify.com/artist/7DRjM0vtwvKxZYnd9mPaP9) | [Normal Fears](https://open.spotify.com/album/5sHW13VMI7aWGPgKM5KaJB) | 2:50 |
 | 21 | [Nothing to No One](https://open.spotify.com/track/4yTOBKjpXlbZ1VfiFmRD3W) | [Fatherson](https://open.spotify.com/artist/7DRjM0vtwvKxZYnd9mPaP9), [Bryde](https://open.spotify.com/artist/0N8tTwUhQQD75uLOyqhfVU) | [Sum of All Your Parts](https://open.spotify.com/album/6yjT3AybiPKnRbwgaPMsV2) | 4:44 |
 | 22 | [Forest](https://open.spotify.com/track/0r3D9Dq4mThOXopNSGPMjm) | [Fatherson](https://open.spotify.com/artist/7DRjM0vtwvKxZYnd9mPaP9) | [Open Book](https://open.spotify.com/album/3QtRa1ioVt6XegDsxMK8MH) | 3:51 |
-| 23 | [Piece Of Mind](https://open.spotify.com/track/5XlTOWQoMZttmK9pZvgzLv) | [Fatherson](https://open.spotify.com/artist/7DRjM0vtwvKxZYnd9mPaP9) | [Piece Of Mind](https://open.spotify.com/album/1B5wJGS5bsRvEdNg7Nyp08) | 3:21 |
+| 23 | [Lights](https://open.spotify.com/track/3Hw9NcN6S0zMt7B9IwY7z7) | [Fatherson](https://open.spotify.com/artist/7DRjM0vtwvKxZYnd9mPaP9) | [I Am an Island](https://open.spotify.com/album/2kzFBi9sWI8FJYBKP2PK4O) | 3:08 |
 | 24 | [Dive](https://open.spotify.com/track/0AiEk76GizsvBs4Qqribjl) | [Fatherson](https://open.spotify.com/artist/7DRjM0vtwvKxZYnd9mPaP9) | [Normal Fears](https://open.spotify.com/album/5sHW13VMI7aWGPgKM5KaJB) | 3:35 |
-| 25 | [Lights](https://open.spotify.com/track/3Hw9NcN6S0zMt7B9IwY7z7) | [Fatherson](https://open.spotify.com/artist/7DRjM0vtwvKxZYnd9mPaP9) | [I Am an Island](https://open.spotify.com/album/2kzFBi9sWI8FJYBKP2PK4O) | 3:08 |
-| 26 | [Afterwords](https://open.spotify.com/track/7Jp5JCzWgFBHrpJGQI0gzu) | [Fatherson](https://open.spotify.com/artist/7DRjM0vtwvKxZYnd9mPaP9) | [Afterwords](https://open.spotify.com/album/5qxhSY3SgCnFLaMQYtOF4R) | 4:28 |
-| 27 | [First Born](https://open.spotify.com/track/4KFP54wZ8L6y4X2RjB3W0m) | [Fatherson](https://open.spotify.com/artist/7DRjM0vtwvKxZYnd9mPaP9) | [First Born](https://open.spotify.com/album/7yVWgWtRl7CrJsihQ3fi66) | 3:14 |
+| 25 | [Piece Of Mind](https://open.spotify.com/track/5XlTOWQoMZttmK9pZvgzLv) | [Fatherson](https://open.spotify.com/artist/7DRjM0vtwvKxZYnd9mPaP9) | [Piece Of Mind](https://open.spotify.com/album/1B5wJGS5bsRvEdNg7Nyp08) | 3:21 |
+| 26 | [First Born](https://open.spotify.com/track/4KFP54wZ8L6y4X2RjB3W0m) | [Fatherson](https://open.spotify.com/artist/7DRjM0vtwvKxZYnd9mPaP9) | [First Born](https://open.spotify.com/album/7yVWgWtRl7CrJsihQ3fi66) | 3:14 |
+| 27 | [Afterwords](https://open.spotify.com/track/7Jp5JCzWgFBHrpJGQI0gzu) | [Fatherson](https://open.spotify.com/artist/7DRjM0vtwvKxZYnd9mPaP9) | [Afterwords](https://open.spotify.com/album/5qxhSY3SgCnFLaMQYtOF4R) | 4:28 |
 
-Snapshot ID: `awIwgAAAAAB8G/2a9zWEKRNflTVd3yVT`
+Snapshot ID: `awOCAAAAAAAiEiP1DmeVhVQyTduxE1YV`

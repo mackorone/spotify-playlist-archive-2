@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWY9crkqLGj4o.md) - [plain]
 
 > Lavando e louvando a Deus com grandes hinos.
 
-[Spotify](https://open.spotify.com/user/spotify) - 453,080 likes - 75 songs - 6 hr 38 min
+[Spotify](https://open.spotify.com/user/spotify) - 453,082 likes - 75 songs - 6 hr 38 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -42,8 +42,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWY9crkqLGj4o.md) - [plain]
 | 32 | [Deixar a Lágrima Rolar](https://open.spotify.com/track/0MYOLA6eOwPBO5KjXSpEhz) | [Bruna Karla](https://open.spotify.com/artist/0YdeGzSneJdP1NEKY3EFlR) | [Aceito o Teu Chamado](https://open.spotify.com/album/4dWAoWGTlbC0JdSbODjFpG) | 4:19 |
 | 33 | [Autor da Vida](https://open.spotify.com/track/0G59rX2uOta2lX83SfB8Rk) | [Aline Barros](https://open.spotify.com/artist/2aKyKSggb31Kw9s9i3iXoo) | [Reino](https://open.spotify.com/album/16vOvThGZLTiQf2t4m5Igi) | 4:55 |
 | 34 | [Com Muito Louvor](https://open.spotify.com/track/57JAYiwPmU93oowUWKwrEF) | [Cassiane](https://open.spotify.com/artist/6MQhMvMTFK4nAQzoOKrwY3) | [Cassiane \- Gospel Collection Ao Vivo](https://open.spotify.com/album/6tVasQXY2XtPQXfHRE6eSE) | 6:22 |
-| 35 | [Enche\-me \- Ao Vivo](https://open.spotify.com/track/7AHSqYhBEL41VTISN6wPR1) | [Isaias Saad](https://open.spotify.com/artist/1THj0JI7zld7YDsWERcSUz), [Gabriela Rocha](https://open.spotify.com/artist/4fdCGYM7dtJLa3LvR1ccto) | [Enche\-me \(Ao Vivo\)](https://open.spotify.com/album/74y0JyRZhViylaRsmrx8mk) | 7:30 |
-| 36 | [Tuas Águas](https://open.spotify.com/track/4viVbBp6H0iP8VeCp3EQge) | [Julia Vitória](https://open.spotify.com/artist/6tLHGlt7L7raSf6vr96hWi), [Gabriela Rocha](https://open.spotify.com/artist/4fdCGYM7dtJLa3LvR1ccto) | [Tuas Águas](https://open.spotify.com/album/0Zbya7Y1hAjWuvkIe7Id8M) | 5:10 |
+| 35 | [Tuas Águas](https://open.spotify.com/track/4viVbBp6H0iP8VeCp3EQge) | [Julia Vitória](https://open.spotify.com/artist/6tLHGlt7L7raSf6vr96hWi), [Gabriela Rocha](https://open.spotify.com/artist/4fdCGYM7dtJLa3LvR1ccto) | [Tuas Águas](https://open.spotify.com/album/0Zbya7Y1hAjWuvkIe7Id8M) | 5:10 |
+| 36 | [Enche\-me \- Ao Vivo](https://open.spotify.com/track/7AHSqYhBEL41VTISN6wPR1) | [Isaias Saad](https://open.spotify.com/artist/1THj0JI7zld7YDsWERcSUz), [Gabriela Rocha](https://open.spotify.com/artist/4fdCGYM7dtJLa3LvR1ccto) | [Enche\-me \(Ao Vivo\)](https://open.spotify.com/album/74y0JyRZhViylaRsmrx8mk) | 7:30 |
 | 37 | [Tudo é Possível](https://open.spotify.com/track/0RWkB6OSSKRH9ChUof0ITQ) | [Bruna Karla](https://open.spotify.com/artist/0YdeGzSneJdP1NEKY3EFlR) | [Tudo é Possível](https://open.spotify.com/album/7i3ei0xF22OnsBYRM6VfDC) | 6:35 |
 | 38 | [Como Nunca Antes](https://open.spotify.com/track/6Z3Hm5K81QquaY8nh83TST) | [Isadora Pompeo](https://open.spotify.com/artist/0f59qYByNYzspwAr7huTSB) | [Como Nunca Antes](https://open.spotify.com/album/3bbpurLdQMfiC7KgQPU4F9) | 4:43 |
 | 39 | [O Nome \- Ao Vivo](https://open.spotify.com/track/6Obssly2gJlPrrj2lNzwLZ) | [Gabriela Gomes](https://open.spotify.com/artist/2e84TbIwlMbSgm1CO6chyE), [Luma Elpidio](https://open.spotify.com/artist/6S6ekwAUY7h8PALjCq9XjR) | [O Nome \(Ao Vivo\)](https://open.spotify.com/album/2kDTQ8tUm9mVESWnyVGXgk) | 7:06 |
@@ -52,11 +52,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWY9crkqLGj4o.md) - [plain]
 | 42 | [Aba \- Ao Vivo](https://open.spotify.com/track/5zfFRWu8IjmH6g84pBOHbO) | [Kemuel](https://open.spotify.com/artist/5GHeXsPtAVd0KLe1oMikxm), [Ton Carfi](https://open.spotify.com/artist/4IefiwlkKHUFoRdBsGj756) | [Aba \(Ao Vivo\)](https://open.spotify.com/album/7HVM6QUSNxfbnnxYoS0Xey) | 5:48 |
 | 43 | [Uma Coisa \- Ao Vivo](https://open.spotify.com/track/5IY9xOZ28mVZAvjDkXmegz) | [MORADA](https://open.spotify.com/artist/2tswayWsUGjUwpvN8KRwuN) | [Uma Coisa \(Ao Vivo\)](https://open.spotify.com/album/5apwTXXwp74piToPxH30dE) | 6:00 |
 | 44 | [A Promessa](https://open.spotify.com/track/1fRw17yPVFjRS6lPovRbrL) | [Kemilly Santos](https://open.spotify.com/artist/0IkWyvcpQ0bdOmRvnJl5ld), [Damares](https://open.spotify.com/artist/1jJo9A3hVYQztRTHaIFJka) | [Vai Valer a Pena](https://open.spotify.com/album/16y13iFjoAQcnTveRj0eCx) | 4:09 |
-| 45 | [Eu Me Rendo](https://open.spotify.com/track/3UrnpCBQyiWGCbZvsJsdck) | [Renascer Praise](https://open.spotify.com/artist/2eYrf1zekGvHGRkl9DZyGR) | [Renascer Praise 13: A Colheita](https://open.spotify.com/album/5F2jRc40cXhteOGtOvsDA1) | 6:12 |
-| 46 | [Teu Santo Nome \- Ao Vivo](https://open.spotify.com/track/0CP4vevAzKaN0M5SXEGMXh) | [Gabriela Rocha](https://open.spotify.com/artist/4fdCGYM7dtJLa3LvR1ccto) | [Até Transbordar \(Ao Vivo\)](https://open.spotify.com/album/3HjpM1erx8nlbEgmNKpIj0) | 7:16 |
+| 45 | [Teu Santo Nome \- Ao Vivo](https://open.spotify.com/track/0CP4vevAzKaN0M5SXEGMXh) | [Gabriela Rocha](https://open.spotify.com/artist/4fdCGYM7dtJLa3LvR1ccto) | [Até Transbordar \(Ao Vivo\)](https://open.spotify.com/album/3HjpM1erx8nlbEgmNKpIj0) | 7:16 |
+| 46 | [Eu Me Rendo](https://open.spotify.com/track/3UrnpCBQyiWGCbZvsJsdck) | [Renascer Praise](https://open.spotify.com/artist/2eYrf1zekGvHGRkl9DZyGR) | [Renascer Praise 13: A Colheita](https://open.spotify.com/album/5F2jRc40cXhteOGtOvsDA1) | 6:12 |
 | 47 | [Faça Morada](https://open.spotify.com/track/5Mpth7qg5nxiv3JR0dt7cL) | [Kemuel](https://open.spotify.com/artist/5GHeXsPtAVd0KLe1oMikxm) | [Coral Kemuel, Vol\. 2](https://open.spotify.com/album/2I5sgWmtf2mjppkwWOWokB) | 4:05 |
-| 48 | [Deus Vai Chegar Primeiro \- Ao Vivo](https://open.spotify.com/track/09raNwSAWTI0H0wYwVZhoR) | [Leandro Borges](https://open.spotify.com/artist/1W08UTn6HSj0dHarQE7ReQ) | [A Igreja Canta \(Ao Vivo\)](https://open.spotify.com/album/5N8VNemVfa6Si2s95CriSq) | 5:47 |
-| 49 | [Sê Valente / Deus Vai Te Guiar / O Cego De Jericó \(Ao Vivo\)](https://open.spotify.com/track/3haojhxI65M4wDLPzNPPn3) | [Michele do Pandeiro](https://open.spotify.com/artist/01CFvZuAQEjTxH4Ab3yzzn) | [Jesus, Eu, Vocês E O Pandeiro \(Ao Vivo\)](https://open.spotify.com/album/4EIy665Pi9Rhn82zvVsWXL) | 5:52 |
+| 48 | [Sê Valente / Deus Vai Te Guiar / O Cego De Jericó \(Ao Vivo\)](https://open.spotify.com/track/3haojhxI65M4wDLPzNPPn3) | [Michele do Pandeiro](https://open.spotify.com/artist/01CFvZuAQEjTxH4Ab3yzzn) | [Jesus, Eu, Vocês E O Pandeiro \(Ao Vivo\)](https://open.spotify.com/album/4EIy665Pi9Rhn82zvVsWXL) | 5:52 |
+| 49 | [Deus Vai Chegar Primeiro \- Ao Vivo](https://open.spotify.com/track/09raNwSAWTI0H0wYwVZhoR) | [Leandro Borges](https://open.spotify.com/artist/1W08UTn6HSj0dHarQE7ReQ) | [A Igreja Canta \(Ao Vivo\)](https://open.spotify.com/album/5N8VNemVfa6Si2s95CriSq) | 5:47 |
 | 50 | [Pra te Ferir](https://open.spotify.com/track/4VFFsq9ZmPxmVE1pQhbUpS) | [Samuel Eleoterio](https://open.spotify.com/artist/1S4E2bNyTqNi1Pi303fcLv) | [Pra Te Ferir](https://open.spotify.com/album/4BTrNml4nN0jxrEftiO7Uo) | 4:26 |
 | 51 | [Deus Na Minha História \- Ao Vivo](https://open.spotify.com/track/2nlHtfRwbpVcpxOoF2k6c0) | [Sarah Beatriz](https://open.spotify.com/artist/5eo3eRvCHJhgMDL6K1cbMT) | [Deus Na Minha História \(Ao Vivo\)](https://open.spotify.com/album/2ln5PbRPWYVc3Cq43uVCIQ) | 3:27 |
 | 52 | [Pai Presente](https://open.spotify.com/track/17A6kCom591jICydbChxCk) | [Ton Carfi](https://open.spotify.com/artist/4IefiwlkKHUFoRdBsGj756), [Aline Barros](https://open.spotify.com/artist/2aKyKSggb31Kw9s9i3iXoo) | [Pai Presente](https://open.spotify.com/album/682eYG75UszY1zmE0yHhys) | 4:53 |
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWY9crkqLGj4o.md) - [plain]
 | 74 | [De Manhã \(Ao Vivo\)](https://open.spotify.com/track/24xEv4vmx7DkJjE5rAu3ld) | [Eyshila](https://open.spotify.com/artist/3mbX6eftyC0S5l17m31ZSW), [Samuel Messias](https://open.spotify.com/artist/5cFlGTfDoYwRGZrtEO92MJ) | [De Manhã \(Ao Vivo\)](https://open.spotify.com/album/1ZcC6cU12wzi4LP2VsEUL3) | 4:35 |
 | 75 | [Ele Não Se Esquece \- Ao Vivo](https://open.spotify.com/track/2sjtFZxsGIDkatkKR61QPA) | [Stella Laura](https://open.spotify.com/artist/1lqxvuE0yfesGRZ4sdVVNm), [Todah Music](https://open.spotify.com/artist/1A5kGvmKIVtX7NhcbtTZJY) | [Ele Não Se Esquece \(Ao Vivo\)](https://open.spotify.com/album/3ntcZXPwZzpTUwOe0vRNBs) | 6:14 |
 
-Snapshot ID: `AAAAAAQqLDrnLmwe0l2kNxMCjmagH5PL`
+Snapshot ID: `AAAAACoA8cWd0WA5DD2IdIWyZDw85Wkb`

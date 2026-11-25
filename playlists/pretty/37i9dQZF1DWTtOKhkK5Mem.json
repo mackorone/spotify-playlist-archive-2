@@ -1,12 +1,12 @@
 {
   "description": "Male artists singing about love.",
-  "num_followers": 830555,
+  "num_followers": 830568,
   "original_name": "In the Arms of a Woman",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAABxT4m8KhkOzK/3d04uBsBmUMqTT",
+  "snapshot_id": "AAAAAIskq2UmlsSr4DekMiSj0FfIq/Ax",
   "tracks": [
     {
       "added_at": "2022-08-26 12:00:00",
@@ -363,22 +363,6 @@
     {
       "added_at": "2022-08-26 12:00:00",
       "album": {
-        "name": "Can't Slow Down",
-        "url": "https://open.spotify.com/album/5U0NU0T1JKIJwgq2ZDWb2T"
-      },
-      "artists": [
-        {
-          "name": "Lionel Richie",
-          "url": "https://open.spotify.com/artist/3gMaNLQm7D9MornNILzdSl"
-        }
-      ],
-      "duration_ms": 192066,
-      "name": "Stuck On You",
-      "url": "https://open.spotify.com/track/6HPLeKiNm92RbykX2BDTUB"
-    },
-    {
-      "added_at": "2022-08-26 12:00:00",
-      "album": {
         "name": "Greatest Hits Volume One - The Singles",
         "url": "https://open.spotify.com/album/0UccZZgelTAbbk3OSPZymO"
       },
@@ -391,6 +375,22 @@
       "duration_ms": 289906,
       "name": "Iris",
       "url": "https://open.spotify.com/track/6vrUTGn5p8IrfTZ0J6sIVM"
+    },
+    {
+      "added_at": "2022-08-26 12:00:00",
+      "album": {
+        "name": "Can't Slow Down",
+        "url": "https://open.spotify.com/album/5U0NU0T1JKIJwgq2ZDWb2T"
+      },
+      "artists": [
+        {
+          "name": "Lionel Richie",
+          "url": "https://open.spotify.com/artist/3gMaNLQm7D9MornNILzdSl"
+        }
+      ],
+      "duration_ms": 192066,
+      "name": "Stuck On You",
+      "url": "https://open.spotify.com/track/6HPLeKiNm92RbykX2BDTUB"
     },
     {
       "added_at": "2022-08-26 12:00:00",
@@ -659,6 +659,22 @@
     {
       "added_at": "2022-08-26 12:00:00",
       "album": {
+        "name": "Hunter Hayes (Encore)",
+        "url": "https://open.spotify.com/album/5hVo5O3pGkc1VibXveW8gx"
+      },
+      "artists": [
+        {
+          "name": "Hunter Hayes",
+          "url": "https://open.spotify.com/artist/7H6dkUChT5EoOQtUVMg4cN"
+        }
+      ],
+      "duration_ms": 228840,
+      "name": "Wanted",
+      "url": "https://open.spotify.com/track/0p1BcEcYVO3uk4KDf3gzkY"
+    },
+    {
+      "added_at": "2022-08-26 12:00:00",
+      "album": {
         "name": "XO",
         "url": "https://open.spotify.com/album/305TANxsPTFkiqS4cEilx1"
       },
@@ -671,22 +687,6 @@
       "duration_ms": 213626,
       "name": "XO",
       "url": "https://open.spotify.com/track/7cpCU3Denug5NGZsSpQl8v"
-    },
-    {
-      "added_at": "2022-08-26 12:00:00",
-      "album": {
-        "name": "The Hits--Chapter One",
-        "url": "https://open.spotify.com/album/1NslKOZobWxINFaFkLol3r"
-      },
-      "artists": [
-        {
-          "name": "Backstreet Boys",
-          "url": "https://open.spotify.com/artist/5rSXSAkZ67PYJSvpUpkOr7"
-        }
-      ],
-      "duration_ms": 213600,
-      "name": "I Want It That Way",
-      "url": "https://open.spotify.com/track/6e40mgJiCid5HRAGrbpGA6"
     },
     {
       "added_at": "2022-08-26 12:00:00",
@@ -707,18 +707,18 @@
     {
       "added_at": "2022-08-26 12:00:00",
       "album": {
-        "name": "Hunter Hayes (Encore)",
-        "url": "https://open.spotify.com/album/5hVo5O3pGkc1VibXveW8gx"
+        "name": "The Hits--Chapter One",
+        "url": "https://open.spotify.com/album/1NslKOZobWxINFaFkLol3r"
       },
       "artists": [
         {
-          "name": "Hunter Hayes",
-          "url": "https://open.spotify.com/artist/7H6dkUChT5EoOQtUVMg4cN"
+          "name": "Backstreet Boys",
+          "url": "https://open.spotify.com/artist/5rSXSAkZ67PYJSvpUpkOr7"
         }
       ],
-      "duration_ms": 228840,
-      "name": "Wanted",
-      "url": "https://open.spotify.com/track/0p1BcEcYVO3uk4KDf3gzkY"
+      "duration_ms": 213600,
+      "name": "I Want It That Way",
+      "url": "https://open.spotify.com/track/6e40mgJiCid5HRAGrbpGA6"
     },
     {
       "added_at": "2022-08-26 12:00:00",
@@ -823,22 +823,6 @@
     {
       "added_at": "2022-08-26 12:00:00",
       "album": {
-        "name": "Double Fantasy",
-        "url": "https://open.spotify.com/album/1NWA2fPLUAW5df7UGI5thp"
-      },
-      "artists": [
-        {
-          "name": "John Lennon",
-          "url": "https://open.spotify.com/artist/4x1nvY2FN8jxqAFA0DA02H"
-        }
-      ],
-      "duration_ms": 212933,
-      "name": "Woman - Remastered 2010",
-      "url": "https://open.spotify.com/track/1BrbXIJ7b161oQ0PfC0K32"
-    },
-    {
-      "added_at": "2022-08-26 12:00:00",
-      "album": {
         "name": "It's Real",
         "url": "https://open.spotify.com/album/5gN7Im7VUNQm7sJnmdofMc"
       },
@@ -851,6 +835,22 @@
       "duration_ms": 253506,
       "name": "I Don't Have the Heart",
       "url": "https://open.spotify.com/track/5In7xBveNACCRX2uWNoPuW"
+    },
+    {
+      "added_at": "2022-08-26 12:00:00",
+      "album": {
+        "name": "Double Fantasy",
+        "url": "https://open.spotify.com/album/1NWA2fPLUAW5df7UGI5thp"
+      },
+      "artists": [
+        {
+          "name": "John Lennon",
+          "url": "https://open.spotify.com/artist/4x1nvY2FN8jxqAFA0DA02H"
+        }
+      ],
+      "duration_ms": 212933,
+      "name": "Woman - Remastered 2010",
+      "url": "https://open.spotify.com/track/1BrbXIJ7b161oQ0PfC0K32"
     },
     {
       "added_at": "2022-08-26 12:00:00",
@@ -1003,22 +1003,6 @@
     {
       "added_at": "2022-08-26 12:00:00",
       "album": {
-        "name": "Stop All the World Now (Special Edition)",
-        "url": "https://open.spotify.com/album/5OmZitvmVXYsjEXkTD3P6Y"
-      },
-      "artists": [
-        {
-          "name": "Howie Day",
-          "url": "https://open.spotify.com/artist/0ekbDNE2eOq8QiaXM34wer"
-        }
-      ],
-      "duration_ms": 277000,
-      "name": "Collide - Acoustic Version",
-      "url": "https://open.spotify.com/track/5rwq6R0Uq0BngM3rdmCeNg"
-    },
-    {
-      "added_at": "2022-08-26 12:00:00",
-      "album": {
         "name": "James Bay Spotify Session 2015",
         "url": "https://open.spotify.com/album/2DSUg9hHXIb9KBvOWXQvNf"
       },
@@ -1031,6 +1015,22 @@
       "duration_ms": 236786,
       "name": "If You Ever Wanna Be In Love - James Bay Spotify Session 2015",
       "url": "https://open.spotify.com/track/359lSGQwvAM3aZA5UNwqiQ"
+    },
+    {
+      "added_at": "2022-08-26 12:00:00",
+      "album": {
+        "name": "Stop All the World Now (Special Edition)",
+        "url": "https://open.spotify.com/album/5OmZitvmVXYsjEXkTD3P6Y"
+      },
+      "artists": [
+        {
+          "name": "Howie Day",
+          "url": "https://open.spotify.com/artist/0ekbDNE2eOq8QiaXM34wer"
+        }
+      ],
+      "duration_ms": 277000,
+      "name": "Collide - Acoustic Version",
+      "url": "https://open.spotify.com/track/5rwq6R0Uq0BngM3rdmCeNg"
     },
     {
       "added_at": "2022-08-26 12:00:00",
@@ -1419,22 +1419,6 @@
     {
       "added_at": "2022-08-26 12:00:00",
       "album": {
-        "name": "Give Me The Reason",
-        "url": "https://open.spotify.com/album/3uWgCaZ1ixRuMvBZniwxJj"
-      },
-      "artists": [
-        {
-          "name": "Luther Vandross",
-          "url": "https://open.spotify.com/artist/19y5MFBH7gohEdGwKM7QsP"
-        }
-      ],
-      "duration_ms": 285727,
-      "name": "There's Nothing Better Than Love",
-      "url": "https://open.spotify.com/track/5ufz4Pc89GU8FBAp1lPatq"
-    },
-    {
-      "added_at": "2022-08-26 12:00:00",
-      "album": {
         "name": "All I Need To Know",
         "url": "https://open.spotify.com/album/2OWY8X9HTnG6srfrO76bBL"
       },
@@ -1447,6 +1431,22 @@
       "duration_ms": 219960,
       "name": "Me and You",
       "url": "https://open.spotify.com/track/3f5rOhrNLYP53c9RcPfp02"
+    },
+    {
+      "added_at": "2022-08-26 12:00:00",
+      "album": {
+        "name": "Give Me The Reason",
+        "url": "https://open.spotify.com/album/3uWgCaZ1ixRuMvBZniwxJj"
+      },
+      "artists": [
+        {
+          "name": "Luther Vandross",
+          "url": "https://open.spotify.com/artist/19y5MFBH7gohEdGwKM7QsP"
+        }
+      ],
+      "duration_ms": 285727,
+      "name": "There's Nothing Better Than Love",
+      "url": "https://open.spotify.com/track/5ufz4Pc89GU8FBAp1lPatq"
     },
     {
       "added_at": "2022-08-26 12:00:00",
@@ -2079,22 +2079,6 @@
     {
       "added_at": "2022-08-26 12:00:00",
       "album": {
-        "name": "Elton John (Remastered Version)",
-        "url": "https://open.spotify.com/album/7dtLYwLOdYQa2S8Vjeuxci"
-      },
-      "artists": [
-        {
-          "name": "Elton John",
-          "url": "https://open.spotify.com/artist/3PhoLpVuITZKcymswpck5b"
-        }
-      ],
-      "duration_ms": 244226,
-      "name": "Your Song",
-      "url": "https://open.spotify.com/track/17VegeBoHvMlIByrdu64KR"
-    },
-    {
-      "added_at": "2022-08-26 12:00:00",
-      "album": {
         "name": "Lasting Love",
         "url": "https://open.spotify.com/album/1jZJMsrl6E1ycGXJeYykJ0"
       },
@@ -2107,6 +2091,22 @@
       "duration_ms": 285040,
       "name": "Baby, I Love Your Way",
       "url": "https://open.spotify.com/track/0tx981nZO0V21ZgRRSKxqe"
+    },
+    {
+      "added_at": "2022-08-26 12:00:00",
+      "album": {
+        "name": "Elton John (Remastered Version)",
+        "url": "https://open.spotify.com/album/7dtLYwLOdYQa2S8Vjeuxci"
+      },
+      "artists": [
+        {
+          "name": "Elton John",
+          "url": "https://open.spotify.com/artist/3PhoLpVuITZKcymswpck5b"
+        }
+      ],
+      "duration_ms": 244226,
+      "name": "Your Song",
+      "url": "https://open.spotify.com/track/17VegeBoHvMlIByrdu64KR"
     },
     {
       "added_at": "2022-08-26 12:00:00",
@@ -2159,6 +2159,22 @@
     {
       "added_at": "2022-08-26 12:00:00",
       "album": {
+        "name": "Take Me Home: Yearbook Edition",
+        "url": "https://open.spotify.com/album/5SxEsi1PNyo1XfEKDYcFKF"
+      },
+      "artists": [
+        {
+          "name": "One Direction",
+          "url": "https://open.spotify.com/artist/4AK6F7OLvEQ5QYCBNiQWHq"
+        }
+      ],
+      "duration_ms": 219640,
+      "name": "Little Things",
+      "url": "https://open.spotify.com/track/7kSLdGdXLey7pzLsWpdg1h"
+    },
+    {
+      "added_at": "2022-08-26 12:00:00",
+      "album": {
         "name": "In The Lonely Hour (Deluxe Edition)",
         "url": "https://open.spotify.com/album/7p7RFI5jtwYDknwhnQgmlp"
       },
@@ -2187,22 +2203,6 @@
       "duration_ms": 295200,
       "name": "With Or Without You",
       "url": "https://open.spotify.com/track/2JZfTvWWtpaE8NohqRXqFr"
-    },
-    {
-      "added_at": "2022-08-26 12:00:00",
-      "album": {
-        "name": "Take Me Home: Yearbook Edition",
-        "url": "https://open.spotify.com/album/5SxEsi1PNyo1XfEKDYcFKF"
-      },
-      "artists": [
-        {
-          "name": "One Direction",
-          "url": "https://open.spotify.com/artist/4AK6F7OLvEQ5QYCBNiQWHq"
-        }
-      ],
-      "duration_ms": 219640,
-      "name": "Little Things",
-      "url": "https://open.spotify.com/track/7kSLdGdXLey7pzLsWpdg1h"
     },
     {
       "added_at": "2022-08-26 12:00:00",
@@ -2239,6 +2239,22 @@
     {
       "added_at": "2022-08-26 12:00:00",
       "album": {
+        "name": "Sweet Baby James",
+        "url": "https://open.spotify.com/album/2NEQ5Q4sBbUHVVx3Wf8TEZ"
+      },
+      "artists": [
+        {
+          "name": "James Taylor",
+          "url": "https://open.spotify.com/artist/0vn7UBvSQECKJm2817Yf1P"
+        }
+      ],
+      "duration_ms": 200579,
+      "name": "Fire and Rain",
+      "url": "https://open.spotify.com/track/3LcYYV9ozePfgYYmXv0P3r"
+    },
+    {
+      "added_at": "2022-08-26 12:00:00",
+      "album": {
         "name": "Too Good At Goodbyes",
         "url": "https://open.spotify.com/album/7oiRNdTfUWmsx6DAjEe7DB"
       },
@@ -2271,22 +2287,6 @@
     {
       "added_at": "2022-08-26 12:00:00",
       "album": {
-        "name": "Sweet Baby James",
-        "url": "https://open.spotify.com/album/2NEQ5Q4sBbUHVVx3Wf8TEZ"
-      },
-      "artists": [
-        {
-          "name": "James Taylor",
-          "url": "https://open.spotify.com/artist/0vn7UBvSQECKJm2817Yf1P"
-        }
-      ],
-      "duration_ms": 200579,
-      "name": "Fire and Rain",
-      "url": "https://open.spotify.com/track/3LcYYV9ozePfgYYmXv0P3r"
-    },
-    {
-      "added_at": "2022-08-26 12:00:00",
-      "album": {
         "name": "Deep Cuts: The Best Of The Ballads",
         "url": "https://open.spotify.com/album/0DYLNt604AgwFMQhK3HNLR"
       },
@@ -2299,6 +2299,22 @@
       "duration_ms": 208066,
       "name": "To Be With You",
       "url": "https://open.spotify.com/track/0Yi128S6QgQDnAKg5A0OZw"
+    },
+    {
+      "added_at": "2022-08-26 12:00:00",
+      "album": {
+        "name": "Greatest Hits",
+        "url": "https://open.spotify.com/album/3Iq8rXgxwlSPpRsIacNLgK"
+      },
+      "artists": [
+        {
+          "name": "Westlife",
+          "url": "https://open.spotify.com/artist/5Z1CCuBsyhEHngq3U5IraY"
+        }
+      ],
+      "duration_ms": 230800,
+      "name": "My Love",
+      "url": "https://open.spotify.com/track/19LoYrMj3ZlqQUrxa1ADQh"
     },
     {
       "added_at": "2022-08-26 12:00:00",
@@ -2383,18 +2399,18 @@
     {
       "added_at": "2022-08-26 12:00:00",
       "album": {
-        "name": "Greatest Hits",
-        "url": "https://open.spotify.com/album/3Iq8rXgxwlSPpRsIacNLgK"
+        "name": "Save Me, San Francisco (Golden Gate Edition)",
+        "url": "https://open.spotify.com/album/7tEPbuzTMNGSytEMdezXtS"
       },
       "artists": [
         {
-          "name": "Westlife",
-          "url": "https://open.spotify.com/artist/5Z1CCuBsyhEHngq3U5IraY"
+          "name": "Train",
+          "url": "https://open.spotify.com/artist/3FUY2gzHeIiaesXtOAdB7A"
         }
       ],
-      "duration_ms": 230800,
-      "name": "My Love",
-      "url": "https://open.spotify.com/track/19LoYrMj3ZlqQUrxa1ADQh"
+      "duration_ms": 205453,
+      "name": "Marry Me",
+      "url": "https://open.spotify.com/track/0VZ9xPNa6ROafP6GYYuv2S"
     },
     {
       "added_at": "2022-08-26 12:00:00",
@@ -2411,22 +2427,6 @@
       "duration_ms": 258226,
       "name": "When You Say Nothing At All",
       "url": "https://open.spotify.com/track/306LQdB2k5yBGsiIV2oeC3"
-    },
-    {
-      "added_at": "2022-08-26 12:00:00",
-      "album": {
-        "name": "Save Me, San Francisco (Golden Gate Edition)",
-        "url": "https://open.spotify.com/album/7tEPbuzTMNGSytEMdezXtS"
-      },
-      "artists": [
-        {
-          "name": "Train",
-          "url": "https://open.spotify.com/artist/3FUY2gzHeIiaesXtOAdB7A"
-        }
-      ],
-      "duration_ms": 205453,
-      "name": "Marry Me",
-      "url": "https://open.spotify.com/track/0VZ9xPNa6ROafP6GYYuv2S"
     }
   ],
   "unique_name": "In the Arms of a Woman",

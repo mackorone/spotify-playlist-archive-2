@@ -1,12 +1,12 @@
 {
   "description": "Mellow songs from the 1980s. Cover: Luther Vandross",
-  "num_followers": 1758310,
+  "num_followers": 1758578,
   "original_name": "Soft 80s",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAH1jsxRrngunpj9/1CfGQr+UG5fB",
+  "snapshot_id": "AAAAALVdpRprBBK0Ju3r9qaQUsjwC7zt",
   "tracks": [
     {
       "added_at": "2026-05-04 14:51:52",
@@ -331,22 +331,6 @@
     {
       "added_at": "2026-05-04 14:51:52",
       "album": {
-        "name": "Hysteria",
-        "url": "https://open.spotify.com/album/1ja2qzCrh6bZykcojbZs82"
-      },
-      "artists": [
-        {
-          "name": "Def Leppard",
-          "url": "https://open.spotify.com/artist/6H1RjVyNruCmrBEWRbD0VZ"
-        }
-      ],
-      "duration_ms": 354636,
-      "name": "Hysteria",
-      "url": "https://open.spotify.com/track/2PFIZFcGry0po3ZfRZkzKc"
-    },
-    {
-      "added_at": "2026-05-04 14:51:52",
-      "album": {
         "name": "Words",
         "url": "https://open.spotify.com/album/3FCGXFULVQiKJkFvo6hMFo"
       },
@@ -363,6 +347,22 @@
     {
       "added_at": "2026-05-04 14:51:52",
       "album": {
+        "name": "Hysteria",
+        "url": "https://open.spotify.com/album/1ja2qzCrh6bZykcojbZs82"
+      },
+      "artists": [
+        {
+          "name": "Def Leppard",
+          "url": "https://open.spotify.com/artist/6H1RjVyNruCmrBEWRbD0VZ"
+        }
+      ],
+      "duration_ms": 354636,
+      "name": "Hysteria",
+      "url": "https://open.spotify.com/track/2PFIZFcGry0po3ZfRZkzKc"
+    },
+    {
+      "added_at": "2026-05-04 14:51:52",
+      "album": {
         "name": "The Joshua Tree (Super Deluxe)",
         "url": "https://open.spotify.com/album/5y6wlw1LnqFnQFruMeiwGU"
       },
@@ -375,22 +375,6 @@
       "duration_ms": 295515,
       "name": "With Or Without You",
       "url": "https://open.spotify.com/track/6ADSaE87h8Y3lccZlBJdXH"
-    },
-    {
-      "added_at": "2026-05-04 14:51:52",
-      "album": {
-        "name": "4 (Expanded)",
-        "url": "https://open.spotify.com/album/2Pw51hAGvWpTA3AYl2WVuu"
-      },
-      "artists": [
-        {
-          "name": "Foreigner",
-          "url": "https://open.spotify.com/artist/6IRouO5mvvfcyxtPDKMYFN"
-        }
-      ],
-      "duration_ms": 292066,
-      "name": "Waiting for a Girl like You",
-      "url": "https://open.spotify.com/track/2OgVsp77En2nju8pnCieVU"
     },
     {
       "added_at": "2026-05-04 14:51:52",
@@ -423,6 +407,22 @@
       "duration_ms": 304133,
       "name": "Sacrifice",
       "url": "https://open.spotify.com/track/0e3yhVeNaTfKIWQRw9U9sY"
+    },
+    {
+      "added_at": "2026-05-04 14:51:52",
+      "album": {
+        "name": "4 (Expanded)",
+        "url": "https://open.spotify.com/album/2Pw51hAGvWpTA3AYl2WVuu"
+      },
+      "artists": [
+        {
+          "name": "Foreigner",
+          "url": "https://open.spotify.com/artist/6IRouO5mvvfcyxtPDKMYFN"
+        }
+      ],
+      "duration_ms": 292066,
+      "name": "Waiting for a Girl like You",
+      "url": "https://open.spotify.com/track/2OgVsp77En2nju8pnCieVU"
     },
     {
       "added_at": "2026-05-04 14:51:52",
@@ -743,22 +743,6 @@
     {
       "added_at": "2026-05-04 14:51:52",
       "album": {
-        "name": "Lost in Love",
-        "url": "https://open.spotify.com/album/3fB2z5YtmKvSCu77Z3nTnW"
-      },
-      "artists": [
-        {
-          "name": "Air Supply",
-          "url": "https://open.spotify.com/artist/4xXCRXOfQKQ2gjWxNhNzYW"
-        }
-      ],
-      "duration_ms": 243000,
-      "name": "All Out of Love",
-      "url": "https://open.spotify.com/track/7dQC53NiYOY9gKg3Qsu2Bs"
-    },
-    {
-      "added_at": "2026-05-04 14:51:52",
-      "album": {
         "name": "Faith",
         "url": "https://open.spotify.com/album/34K1Kvskt9arWy8E1Gz3Lw"
       },
@@ -775,18 +759,18 @@
     {
       "added_at": "2026-05-04 14:51:52",
       "album": {
-        "name": "Fahrenheit",
-        "url": "https://open.spotify.com/album/2FsaIC8jrXvWGIfokVZ4Jg"
+        "name": "Lost in Love",
+        "url": "https://open.spotify.com/album/3fB2z5YtmKvSCu77Z3nTnW"
       },
       "artists": [
         {
-          "name": "TOTO",
-          "url": "https://open.spotify.com/artist/0PFtn5NtBbbUNbU9EAmIWF"
+          "name": "Air Supply",
+          "url": "https://open.spotify.com/artist/4xXCRXOfQKQ2gjWxNhNzYW"
         }
       ],
-      "duration_ms": 229706,
-      "name": "I'll Be Over You",
-      "url": "https://open.spotify.com/track/1WeoeHh0TSzsApyJ6Q8OOK"
+      "duration_ms": 243000,
+      "name": "All Out of Love",
+      "url": "https://open.spotify.com/track/7dQC53NiYOY9gKg3Qsu2Bs"
     },
     {
       "added_at": "2026-05-04 14:51:52",
@@ -803,6 +787,22 @@
       "duration_ms": 343933,
       "name": "Broken Wings",
       "url": "https://open.spotify.com/track/78FHUZRbFDCG6VkRAQdFLm"
+    },
+    {
+      "added_at": "2026-05-04 14:51:52",
+      "album": {
+        "name": "Fahrenheit",
+        "url": "https://open.spotify.com/album/2FsaIC8jrXvWGIfokVZ4Jg"
+      },
+      "artists": [
+        {
+          "name": "TOTO",
+          "url": "https://open.spotify.com/artist/0PFtn5NtBbbUNbU9EAmIWF"
+        }
+      ],
+      "duration_ms": 229706,
+      "name": "I'll Be Over You",
+      "url": "https://open.spotify.com/track/1WeoeHh0TSzsApyJ6Q8OOK"
     },
     {
       "added_at": "2026-05-04 14:51:52",
@@ -1195,22 +1195,6 @@
     {
       "added_at": "2026-05-04 14:51:52",
       "album": {
-        "name": "What's Love Got to Do with It?",
-        "url": "https://open.spotify.com/album/5HmYiJnUkFuciiqRrAAv4o"
-      },
-      "artists": [
-        {
-          "name": "Tina Turner",
-          "url": "https://open.spotify.com/artist/1zuJe6b1roixEKMOtyrEak"
-        }
-      ],
-      "duration_ms": 226880,
-      "name": "What's Love Got to Do with It",
-      "url": "https://open.spotify.com/track/4kOfxxnW1ukZdsNbCKY9br"
-    },
-    {
-      "added_at": "2026-05-04 14:51:52",
-      "album": {
         "name": "From Time To Time - The Singles Collection",
         "url": "https://open.spotify.com/album/6bDQgC4mNcwz46wHKI6h2y"
       },
@@ -1223,6 +1207,22 @@
       "duration_ms": 267000,
       "name": "Every Time You Go Away - Radio Edit",
       "url": "https://open.spotify.com/track/05fHQeRbCSjKVS6z0WbQKJ"
+    },
+    {
+      "added_at": "2026-05-04 14:51:52",
+      "album": {
+        "name": "What's Love Got to Do with It?",
+        "url": "https://open.spotify.com/album/5HmYiJnUkFuciiqRrAAv4o"
+      },
+      "artists": [
+        {
+          "name": "Tina Turner",
+          "url": "https://open.spotify.com/artist/1zuJe6b1roixEKMOtyrEak"
+        }
+      ],
+      "duration_ms": 226880,
+      "name": "What's Love Got to Do with It",
+      "url": "https://open.spotify.com/track/4kOfxxnW1ukZdsNbCKY9br"
     },
     {
       "added_at": "2026-05-04 14:51:52",
@@ -1371,6 +1371,22 @@
     {
       "added_at": "2026-05-04 14:51:52",
       "album": {
+        "name": "...Nothing Like The Sun",
+        "url": "https://open.spotify.com/album/3mVCQqgwEvwD7lHy9KHi7R"
+      },
+      "artists": [
+        {
+          "name": "Sting",
+          "url": "https://open.spotify.com/artist/0Ty63ceoRnnJKVEYP0VQpk"
+        }
+      ],
+      "duration_ms": 236306,
+      "name": "Fragile",
+      "url": "https://open.spotify.com/track/5oE6INocVL9viDow5y8QNM"
+    },
+    {
+      "added_at": "2026-05-04 14:51:52",
+      "album": {
         "name": "The Immaculate Collection",
         "url": "https://open.spotify.com/album/5MzwGwnO9gkh0z6Nl4FF8h"
       },
@@ -1403,18 +1419,18 @@
     {
       "added_at": "2026-05-04 14:51:52",
       "album": {
-        "name": "...Nothing Like The Sun",
-        "url": "https://open.spotify.com/album/3mVCQqgwEvwD7lHy9KHi7R"
+        "name": "Hysteria",
+        "url": "https://open.spotify.com/album/1ja2qzCrh6bZykcojbZs82"
       },
       "artists": [
         {
-          "name": "Sting",
-          "url": "https://open.spotify.com/artist/0Ty63ceoRnnJKVEYP0VQpk"
+          "name": "Def Leppard",
+          "url": "https://open.spotify.com/artist/6H1RjVyNruCmrBEWRbD0VZ"
         }
       ],
-      "duration_ms": 236306,
-      "name": "Fragile",
-      "url": "https://open.spotify.com/track/5oE6INocVL9viDow5y8QNM"
+      "duration_ms": 346960,
+      "name": "Love Bites",
+      "url": "https://open.spotify.com/track/4qWizh4UB8BuSypZ3T1zAz"
     },
     {
       "added_at": "2026-05-04 14:51:52",
@@ -1431,22 +1447,6 @@
       "duration_ms": 257759,
       "name": "For Your Babies",
       "url": "https://open.spotify.com/track/58zZvqjTZdm98YhZXvsATa"
-    },
-    {
-      "added_at": "2026-05-04 14:51:52",
-      "album": {
-        "name": "Hysteria",
-        "url": "https://open.spotify.com/album/1ja2qzCrh6bZykcojbZs82"
-      },
-      "artists": [
-        {
-          "name": "Def Leppard",
-          "url": "https://open.spotify.com/artist/6H1RjVyNruCmrBEWRbD0VZ"
-        }
-      ],
-      "duration_ms": 346960,
-      "name": "Love Bites",
-      "url": "https://open.spotify.com/track/4qWizh4UB8BuSypZ3T1zAz"
     },
     {
       "added_at": "2026-05-04 14:51:52",
@@ -1603,22 +1603,6 @@
     {
       "added_at": "2026-05-04 14:51:52",
       "album": {
-        "name": "The Secret Of Association",
-        "url": "https://open.spotify.com/album/34PyD90DDeHfhFEymKgjho"
-      },
-      "artists": [
-        {
-          "name": "Paul Young",
-          "url": "https://open.spotify.com/artist/6rqU9HQ57NYGBnBzbrY3a4"
-        }
-      ],
-      "duration_ms": 324346,
-      "name": "Every Time You Go Away",
-      "url": "https://open.spotify.com/track/3ZI3sK9ZJB3LOiZtCs9l3p"
-    },
-    {
-      "added_at": "2026-05-04 14:51:52",
-      "album": {
         "name": "Hold An Old Friend's Hand",
         "url": "https://open.spotify.com/album/1DAE5K7Rv0H1JZkJaLcV9x"
       },
@@ -1631,6 +1615,22 @@
       "duration_ms": 261906,
       "name": "All This Time",
       "url": "https://open.spotify.com/track/5jzDnEoTtwzvJfvVx52rDC"
+    },
+    {
+      "added_at": "2026-05-04 14:51:52",
+      "album": {
+        "name": "The Secret Of Association",
+        "url": "https://open.spotify.com/album/34PyD90DDeHfhFEymKgjho"
+      },
+      "artists": [
+        {
+          "name": "Paul Young",
+          "url": "https://open.spotify.com/artist/6rqU9HQ57NYGBnBzbrY3a4"
+        }
+      ],
+      "duration_ms": 324346,
+      "name": "Every Time You Go Away",
+      "url": "https://open.spotify.com/track/3ZI3sK9ZJB3LOiZtCs9l3p"
     },
     {
       "added_at": "2026-05-04 14:51:52",
@@ -2151,22 +2151,6 @@
     {
       "added_at": "2026-05-04 14:51:52",
       "album": {
-        "name": "Broadcast",
-        "url": "https://open.spotify.com/album/3wCe8HjHk6QNGcf5D3jgW1"
-      },
-      "artists": [
-        {
-          "name": "Cutting Crew",
-          "url": "https://open.spotify.com/artist/3cniTumSiUysiPWXapGx1i"
-        }
-      ],
-      "duration_ms": 308133,
-      "name": "I've Been In Love Before",
-      "url": "https://open.spotify.com/track/7yQNqjXp9BAGAppPGkTbYf"
-    },
-    {
-      "added_at": "2026-05-04 14:51:52",
-      "album": {
         "name": "Will To Power",
         "url": "https://open.spotify.com/album/39hl8vZno6XTES8Drko8uw"
       },
@@ -2179,6 +2163,22 @@
       "duration_ms": 247200,
       "name": "Baby, I Love Your Way/Freebird",
       "url": "https://open.spotify.com/track/0kzSooCGpuphLwn8iTuO9h"
+    },
+    {
+      "added_at": "2026-05-04 14:51:52",
+      "album": {
+        "name": "Broadcast",
+        "url": "https://open.spotify.com/album/3wCe8HjHk6QNGcf5D3jgW1"
+      },
+      "artists": [
+        {
+          "name": "Cutting Crew",
+          "url": "https://open.spotify.com/artist/3cniTumSiUysiPWXapGx1i"
+        }
+      ],
+      "duration_ms": 308133,
+      "name": "I've Been In Love Before",
+      "url": "https://open.spotify.com/track/7yQNqjXp9BAGAppPGkTbYf"
     },
     {
       "added_at": "2026-05-04 14:51:52",
@@ -2263,22 +2263,6 @@
     {
       "added_at": "2026-05-04 14:51:52",
       "album": {
-        "name": "Suddenly (Expanded Edition)",
-        "url": "https://open.spotify.com/album/0gNeqVQyUq6SYzVSq7Suuo"
-      },
-      "artists": [
-        {
-          "name": "Billy Ocean",
-          "url": "https://open.spotify.com/artist/5IDs1CK15HegSAhGEbSYXo"
-        }
-      ],
-      "duration_ms": 234706,
-      "name": "Suddenly",
-      "url": "https://open.spotify.com/track/65h7Qhxl2WfW31Bl6sjWAI"
-    },
-    {
-      "added_at": "2026-05-04 14:51:52",
-      "album": {
         "name": "Learning to Crawl (Expanded & Remastered)",
         "url": "https://open.spotify.com/album/48NYXFdasUBuSeO3RAolt3"
       },
@@ -2291,6 +2275,22 @@
       "duration_ms": 220426,
       "name": "2000 Miles - 2007 Remaster",
       "url": "https://open.spotify.com/track/5wTM2Bm8phDwHAuOsfBwhU"
+    },
+    {
+      "added_at": "2026-05-04 14:51:52",
+      "album": {
+        "name": "Suddenly (Expanded Edition)",
+        "url": "https://open.spotify.com/album/0gNeqVQyUq6SYzVSq7Suuo"
+      },
+      "artists": [
+        {
+          "name": "Billy Ocean",
+          "url": "https://open.spotify.com/artist/5IDs1CK15HegSAhGEbSYXo"
+        }
+      ],
+      "duration_ms": 234706,
+      "name": "Suddenly",
+      "url": "https://open.spotify.com/track/65h7Qhxl2WfW31Bl6sjWAI"
     },
     {
       "added_at": "2026-05-04 14:51:52",
@@ -2363,22 +2363,6 @@
     {
       "added_at": "2026-05-04 14:51:52",
       "album": {
-        "name": "Private Dancer (30th Anniversary Issue)",
-        "url": "https://open.spotify.com/album/7gVHUNPQr0AE2A0Yf5MjqR"
-      },
-      "artists": [
-        {
-          "name": "Tina Turner",
-          "url": "https://open.spotify.com/artist/1zuJe6b1roixEKMOtyrEak"
-        }
-      ],
-      "duration_ms": 434373,
-      "name": "Private Dancer - 2015 Remaster",
-      "url": "https://open.spotify.com/track/5JjdJK0uGRUk4skRTuQdUZ"
-    },
-    {
-      "added_at": "2026-05-04 14:51:52",
-      "album": {
         "name": "Stop!",
         "url": "https://open.spotify.com/album/1Co1PfkD3RSirfxw6h2KfJ"
       },
@@ -2399,6 +2383,22 @@
     {
       "added_at": "2026-05-04 14:51:52",
       "album": {
+        "name": "Private Dancer (30th Anniversary Issue)",
+        "url": "https://open.spotify.com/album/7gVHUNPQr0AE2A0Yf5MjqR"
+      },
+      "artists": [
+        {
+          "name": "Tina Turner",
+          "url": "https://open.spotify.com/artist/1zuJe6b1roixEKMOtyrEak"
+        }
+      ],
+      "duration_ms": 434373,
+      "name": "Private Dancer - 2015 Remaster",
+      "url": "https://open.spotify.com/track/5JjdJK0uGRUk4skRTuQdUZ"
+    },
+    {
+      "added_at": "2026-05-04 14:51:52",
+      "album": {
         "name": "The Essential Cyndi Lauper",
         "url": "https://open.spotify.com/album/5BXCm3N0Uv0IU2uIUAshr2"
       },
@@ -2415,22 +2415,6 @@
     {
       "added_at": "2026-05-04 14:51:52",
       "album": {
-        "name": "Introducing The Hardline According To Sananda Maitreya",
-        "url": "https://open.spotify.com/album/0nw38yniBfbluS93FdYcbE"
-      },
-      "artists": [
-        {
-          "name": "Sananda Maitreya",
-          "url": "https://open.spotify.com/artist/6RGxLsQUoGk5PLyMVwb3yE"
-        }
-      ],
-      "duration_ms": 276533,
-      "name": "Sign Your Name",
-      "url": "https://open.spotify.com/track/3lIpkjFnRxJ6Uvm8DgtgfV"
-    },
-    {
-      "added_at": "2026-05-04 14:51:52",
-      "album": {
         "name": "All This Love",
         "url": "https://open.spotify.com/album/0idikg3MAbtPVfX7wwfBBW"
       },
@@ -2443,6 +2427,22 @@
       "duration_ms": 352586,
       "name": "All This Love",
       "url": "https://open.spotify.com/track/6ABtlkvl08XQo6Xu24FJaf"
+    },
+    {
+      "added_at": "2026-05-04 14:51:52",
+      "album": {
+        "name": "Introducing The Hardline According To Sananda Maitreya",
+        "url": "https://open.spotify.com/album/0nw38yniBfbluS93FdYcbE"
+      },
+      "artists": [
+        {
+          "name": "Sananda Maitreya",
+          "url": "https://open.spotify.com/artist/6RGxLsQUoGk5PLyMVwb3yE"
+        }
+      ],
+      "duration_ms": 276533,
+      "name": "Sign Your Name",
+      "url": "https://open.spotify.com/track/3lIpkjFnRxJ6Uvm8DgtgfV"
     },
     {
       "added_at": "2026-05-04 14:51:52",

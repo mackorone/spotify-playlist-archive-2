@@ -4,7 +4,7 @@
 
 > Submit your song: https:&\#x2F;&\#x2F;dailyplaylists.com&\#x2F;playlists&\#x2F;1sxp36xhSTsWgyoJTwHYTS
 
-270 songs - 14 hr 29 min
+271 songs - 14 hr 31 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -215,6 +215,7 @@
 | [Reality](https://open.spotify.com/track/6ZhwQHqmgjoqimFdRmklQA) | [Dust \(UK\)](https://open.spotify.com/artist/2RZReVFSE1Op4Cy4X99klw) | [Reality](https://open.spotify.com/album/7kxea603A3LZWgy8C9GShS) | 5:30 | 2023-04-22 |  |
 | [Restaurant](https://open.spotify.com/track/1kY4SgsKQoTGQX5FVpeHPa) | [Richard Tuomi](https://open.spotify.com/artist/1PETHz2w3yPOPdndEsL0Gs), [Big Bill](https://open.spotify.com/artist/1oLYCYFtRl7WzsXMMGEFog) | [Two Birds, One Stone](https://open.spotify.com/album/4VPmfJTrkvOt41MrEwXXkS) | 2:59 | 2024-10-08 |  |
 | [Reuts](https://open.spotify.com/track/6nhd4cWEYapY5704NqOcOk) | [15 15](https://open.spotify.com/artist/2SWMwDn0bu2QcXwBWznf5u) | [Reuts](https://open.spotify.com/album/795vZthVqnG9wdjAqXsMux) | 5:26 | 2023-01-11 |  |
+| [ROCHE](https://open.spotify.com/track/6sg2okNZyfwumYs3uJ5TYh) | [Bello](https://open.spotify.com/artist/4mWgQMhFbTAyRtjyOFmm50) | [ROCHE](https://open.spotify.com/album/0ND4XlFwgs0oSPQe76BaFg) | 2:33 | 2026-11-24 |  |
 | [ROMEO x JULIET](https://open.spotify.com/track/56vQOTiqskDclpercQgdAP) | [T\-Fesk](https://open.spotify.com/artist/1PY6EFVOwGK41E5GZXXU3q) | [ROMEO x JULIET](https://open.spotify.com/album/3bK15ozaU6mABwtsV0FRPG) | 2:03 | 2024-10-08 |  |
 | [Rouge25](https://open.spotify.com/track/3rAmvEDpaVZF2npH7vExLZ) | [Pryeur](https://open.spotify.com/artist/1fN6shtwQwczw6U30IeJtR) | [Rouge25](https://open.spotify.com/album/07XdPzCMltKxRUHbsm5jsF) | 2:44 | 2024-06-26 |  |
 | [Royaume](https://open.spotify.com/track/2mB64jUKiU393yEVUIWhm8) | [Santi Man](https://open.spotify.com/artist/3oLFbm6BI4XeHe3e6pKAOg) | [Royaume](https://open.spotify.com/album/3cyCSM6I4TVfouV5yOJdL6) | 2:22 | 2024-06-15 |  |

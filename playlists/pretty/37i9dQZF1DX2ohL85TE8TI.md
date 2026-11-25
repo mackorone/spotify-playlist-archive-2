@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2ohL85TE8TI.md) - [plain]
 
 > Hot & new K\-Drama OSTs are here! \(Cover: 100일의 거짓말\) \(인기 있는 화제의 OST곡들을 즐겨보세요!\)
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,675,614 likes - 100 songs - 5 hr 49 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,675,411 likes - 100 songs - 5 hr 49 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2ohL85TE8TI.md) - [plain]
 | 99 | [Something Feels Wrong](https://open.spotify.com/track/3smVG3fNKHoO4Di5CWB3Wm) | [KickFlip](https://open.spotify.com/artist/6F4yXjmhQBqo6HVr6K234k) | [To My Beloved Thief, Pt\. 2 \(Original Soundtrack\)](https://open.spotify.com/album/73xC19YQk363A7KxR142sW) | 2:51 |
 | 100 | [spring flowers](https://open.spotify.com/track/5Yf91G3yoz8RyzPOa0rOHY) | [MIYEON](https://open.spotify.com/artist/779v40cWIJUUoIDtC1IGaF) | [Spring Fever, Pt\. 1 \(Original Soundtrack\)](https://open.spotify.com/album/08t5s7Qn4AJyYjTnDTiHy4) | 3:19 |
 
-Snapshot ID: `AAAAAAb2powqZwjBrt/bstZYECdanLCj`
+Snapshot ID: `AAAAAEJzFKliyT1uJckdPMpXnugsWhN+`

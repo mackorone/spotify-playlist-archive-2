@@ -1,12 +1,12 @@
 {
   "description": "This is Kittie. The essential tracks, all in one playlist.",
-  "num_followers": 16875,
+  "num_followers": 16877,
   "original_name": "This Is Kittie",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "awIwgAAAAABRfbhsL+MQ8c8mYLxjq23e",
+  "snapshot_id": "awOCAAAAAAAWW0P97S75cvLIoGkkwUZF",
   "tracks": [
     {
       "added_at": null,
@@ -324,9 +324,9 @@
           "url": "https://open.spotify.com/artist/0ImEDe9tW5n4pxHOK39zIc"
         }
       ],
-      "duration_ms": 198185,
-      "name": "Vultures",
-      "url": "https://open.spotify.com/track/1oovkcMNHgaHePdLk5ShuV"
+      "duration_ms": 222601,
+      "name": "I Still Wear This Crown",
+      "url": "https://open.spotify.com/track/4Wjb1WOfGXzQlgxMNvMkiE"
     },
     {
       "added_at": null,
@@ -388,9 +388,9 @@
           "url": "https://open.spotify.com/artist/0ImEDe9tW5n4pxHOK39zIc"
         }
       ],
-      "duration_ms": 222601,
-      "name": "I Still Wear This Crown",
-      "url": "https://open.spotify.com/track/4Wjb1WOfGXzQlgxMNvMkiE"
+      "duration_ms": 198185,
+      "name": "Vultures",
+      "url": "https://open.spotify.com/track/1oovkcMNHgaHePdLk5ShuV"
     },
     {
       "added_at": null,

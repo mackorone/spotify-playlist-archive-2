@@ -1,12 +1,12 @@
 {
   "description": "smooth, crisp, not too tannic. ",
-  "num_followers": 158418,
+  "num_followers": 158473,
   "original_name": "Wine Bar",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAM1YguBfBPozRDSe1odX2o+7EzAg",
+  "snapshot_id": "AAAAALhDWVhcMk99pGSNt4Aye6TjSLA6",
   "tracks": [
     {
       "added_at": "2026-11-20 05:00:49",
@@ -1567,6 +1567,22 @@
     {
       "added_at": "2026-11-20 05:00:49",
       "album": {
+        "name": "Rodeo",
+        "url": "https://open.spotify.com/album/52y3TL7eXNsdcdffjY6Uu3"
+      },
+      "artists": [
+        {
+          "name": "Pale Jay",
+          "url": "https://open.spotify.com/artist/7H3z77VbkJcCcFilmKqKNM"
+        }
+      ],
+      "duration_ms": 210591,
+      "name": "Rodeo",
+      "url": "https://open.spotify.com/track/4Y3Bv9FEcC472F2uh0Gskr"
+    },
+    {
+      "added_at": "2026-11-20 05:00:49",
+      "album": {
         "name": "Mordechai",
         "url": "https://open.spotify.com/album/2IzUZlhtBvPQYs74KeG6fb"
       },
@@ -1651,22 +1667,6 @@
       "duration_ms": 199477,
       "name": "Easy To Love",
       "url": "https://open.spotify.com/track/2qod3v3MbuBamYUZebS88U"
-    },
-    {
-      "added_at": "2026-11-20 05:00:49",
-      "album": {
-        "name": "Rodeo",
-        "url": "https://open.spotify.com/album/52y3TL7eXNsdcdffjY6Uu3"
-      },
-      "artists": [
-        {
-          "name": "Pale Jay",
-          "url": "https://open.spotify.com/artist/7H3z77VbkJcCcFilmKqKNM"
-        }
-      ],
-      "duration_ms": 210591,
-      "name": "Rodeo",
-      "url": "https://open.spotify.com/track/4Y3Bv9FEcC472F2uh0Gskr"
     },
     {
       "added_at": "2026-11-20 05:00:49",
@@ -1911,6 +1911,22 @@
     {
       "added_at": "2026-11-20 05:00:49",
       "album": {
+        "name": "Blood Milk Moon",
+        "url": "https://open.spotify.com/album/6g0QEibSFA7mc0JDl9j3l3"
+      },
+      "artists": [
+        {
+          "name": "Hermanos Guti\u00e9rrez",
+          "url": "https://open.spotify.com/artist/73mSg0dykFyhvU96tb5xQV"
+        }
+      ],
+      "duration_ms": 177852,
+      "name": "Blood Milk Moon",
+      "url": "https://open.spotify.com/track/3XagHd6dQ24vSujx0ADqXK"
+    },
+    {
+      "added_at": "2026-11-20 05:00:49",
+      "album": {
         "name": "Bubble Gum",
         "url": "https://open.spotify.com/album/1Rvk3tavC4U97f1UObfsnb"
       },
@@ -1951,22 +1967,6 @@
     {
       "added_at": "2026-11-20 05:00:49",
       "album": {
-        "name": "Blood Milk Moon",
-        "url": "https://open.spotify.com/album/6g0QEibSFA7mc0JDl9j3l3"
-      },
-      "artists": [
-        {
-          "name": "Hermanos Guti\u00e9rrez",
-          "url": "https://open.spotify.com/artist/73mSg0dykFyhvU96tb5xQV"
-        }
-      ],
-      "duration_ms": 177852,
-      "name": "Blood Milk Moon",
-      "url": "https://open.spotify.com/track/3XagHd6dQ24vSujx0ADqXK"
-    },
-    {
-      "added_at": "2026-11-20 05:00:49",
-      "album": {
         "name": "Gold",
         "url": "https://open.spotify.com/album/67DWn1tZ245gendegv7Ioz"
       },
@@ -2003,22 +2003,6 @@
     {
       "added_at": "2026-11-20 05:00:49",
       "album": {
-        "name": "Lotus 72 D",
-        "url": "https://open.spotify.com/album/5WSJRs0TjAxxljSfLQZ2ai"
-      },
-      "artists": [
-        {
-          "name": "Z\u00e9 Roberto",
-          "url": "https://open.spotify.com/artist/18pOC3dikx4dLs5znHrZJZ"
-        }
-      ],
-      "duration_ms": 180490,
-      "name": "Lotus 72 D - Fast Version",
-      "url": "https://open.spotify.com/track/7rtcBPsHDLeYW9cHDrO0NB"
-    },
-    {
-      "added_at": "2026-11-20 05:00:49",
-      "album": {
         "name": "Afro-Harping",
         "url": "https://open.spotify.com/album/1XEPKavl3nlI2qVt8HuA5n"
       },
@@ -2031,6 +2015,22 @@
       "duration_ms": 157186,
       "name": "Come Live With Me",
       "url": "https://open.spotify.com/track/3YT2vdLbvfcjfCiNR4DsKT"
+    },
+    {
+      "added_at": "2026-11-20 05:00:49",
+      "album": {
+        "name": "Lotus 72 D",
+        "url": "https://open.spotify.com/album/5WSJRs0TjAxxljSfLQZ2ai"
+      },
+      "artists": [
+        {
+          "name": "Z\u00e9 Roberto",
+          "url": "https://open.spotify.com/artist/18pOC3dikx4dLs5znHrZJZ"
+        }
+      ],
+      "duration_ms": 180490,
+      "name": "Lotus 72 D - Fast Version",
+      "url": "https://open.spotify.com/track/7rtcBPsHDLeYW9cHDrO0NB"
     },
     {
       "added_at": "2026-11-20 05:00:49",
@@ -2371,22 +2371,6 @@
     {
       "added_at": "2026-11-20 05:00:49",
       "album": {
-        "name": "Sof\u00eda y yo",
-        "url": "https://open.spotify.com/album/2JUbrn6IYLPoazlMSdBFGF"
-      },
-      "artists": [
-        {
-          "name": "PANTERA BLUE",
-          "url": "https://open.spotify.com/artist/6zAncQFGD8BV8q5PUOTjp8"
-        }
-      ],
-      "duration_ms": 131596,
-      "name": "Sof\u00eda y yo",
-      "url": "https://open.spotify.com/track/2U61szJbThDdjNh0VJjhXp"
-    },
-    {
-      "added_at": "2026-11-20 05:00:49",
-      "album": {
         "name": "Natural Pleasure",
         "url": "https://open.spotify.com/album/5tJQnCPddwUupM2qXrpVUK"
       },
@@ -2403,18 +2387,18 @@
     {
       "added_at": "2026-11-20 05:00:49",
       "album": {
-        "name": "Dance Dance Dance (\u8df3\u821e\u8df3\u821e\u8df3\u821e)",
-        "url": "https://open.spotify.com/album/1bbJm1WV1sk3oD3XEt28So"
+        "name": "Sof\u00eda y yo",
+        "url": "https://open.spotify.com/album/2JUbrn6IYLPoazlMSdBFGF"
       },
       "artists": [
         {
-          "name": "Chinese American Bear",
-          "url": "https://open.spotify.com/artist/6WIb9mpc6lyBzAjTeGWvEh"
+          "name": "PANTERA BLUE",
+          "url": "https://open.spotify.com/artist/6zAncQFGD8BV8q5PUOTjp8"
         }
       ],
-      "duration_ms": 208393,
-      "name": "Dance Dance Dance (\u8df3\u821e\u8df3\u821e\u8df3\u821e)",
-      "url": "https://open.spotify.com/track/3Ct3ro3LnsTHjeRVPNSG5s"
+      "duration_ms": 131596,
+      "name": "Sof\u00eda y yo",
+      "url": "https://open.spotify.com/track/2U61szJbThDdjNh0VJjhXp"
     },
     {
       "added_at": "2026-11-20 05:00:49",
@@ -2435,6 +2419,22 @@
       "duration_ms": 193613,
       "name": "Turtle Jazz",
       "url": "https://open.spotify.com/track/6Vx2Z3efuMINFSDOX1PoAu"
+    },
+    {
+      "added_at": "2026-11-20 05:00:49",
+      "album": {
+        "name": "Dance Dance Dance (\u8df3\u821e\u8df3\u821e\u8df3\u821e)",
+        "url": "https://open.spotify.com/album/1bbJm1WV1sk3oD3XEt28So"
+      },
+      "artists": [
+        {
+          "name": "Chinese American Bear",
+          "url": "https://open.spotify.com/artist/6WIb9mpc6lyBzAjTeGWvEh"
+        }
+      ],
+      "duration_ms": 208393,
+      "name": "Dance Dance Dance (\u8df3\u821e\u8df3\u821e\u8df3\u821e)",
+      "url": "https://open.spotify.com/track/3Ct3ro3LnsTHjeRVPNSG5s"
     },
     {
       "added_at": "2026-11-20 05:00:49",

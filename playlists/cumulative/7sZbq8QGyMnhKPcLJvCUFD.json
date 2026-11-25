@@ -25019,6 +25019,24 @@
     },
     {
       "album": {
+        "name": "let it go",
+        "url": "https://open.spotify.com/album/2RdoC0yRqoWekTHxVOHsA6"
+      },
+      "artists": [
+        {
+          "name": "SELECTA",
+          "url": "https://open.spotify.com/artist/4hJiR8Hpw6MoamcjjetuSH"
+        }
+      ],
+      "date_added": "2026-11-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 283943,
+      "name": "let it go",
+      "url": "https://open.spotify.com/track/2hEGhvanCinqXiRwsEf11y"
+    },
+    {
+      "album": {
         "name": "Let Me Go",
         "url": "https://open.spotify.com/album/2hFM48dAJpm3gshql5sPkL"
       },

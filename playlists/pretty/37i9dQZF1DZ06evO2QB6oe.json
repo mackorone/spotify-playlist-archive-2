@@ -1,12 +1,12 @@
 {
   "description": "This is Pedro Cap\u00f3. The essential tracks, all in one playlist.",
-  "num_followers": 71343,
+  "num_followers": 71344,
   "original_name": "This Is Pedro Cap\u00f3",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "awIwgAAAAAB2VCma0TUscVC96atiGFU6",
+  "snapshot_id": "awOCAAAAAAD6XoZjygG4kZRmeTtTFvjZ",
   "tracks": [
     {
       "added_at": null,
@@ -443,6 +443,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "La Carretera",
+        "url": "https://open.spotify.com/album/5rVIdtoCee1JB1OaLkTo00"
+      },
+      "artists": [
+        {
+          "name": "Pedro Cap\u00f3",
+          "url": "https://open.spotify.com/artist/4QVBYiagIaa6ZGSPMbybpy"
+        }
+      ],
+      "duration_ms": 207073,
+      "name": "Divina",
+      "url": "https://open.spotify.com/track/3Okh7qw2zSwrS9AST3SSUx"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Mesa Para Dos",
         "url": "https://open.spotify.com/album/1ZGHMTg7kh6TRqDRkJyEHO"
       },
@@ -459,22 +475,6 @@
       "duration_ms": 223192,
       "name": "Nuevas Mentiras",
       "url": "https://open.spotify.com/track/3vabwCZ4W0ommrf6wlSInU"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "La Carretera",
-        "url": "https://open.spotify.com/album/5rVIdtoCee1JB1OaLkTo00"
-      },
-      "artists": [
-        {
-          "name": "Pedro Cap\u00f3",
-          "url": "https://open.spotify.com/artist/4QVBYiagIaa6ZGSPMbybpy"
-        }
-      ],
-      "duration_ms": 207073,
-      "name": "Divina",
-      "url": "https://open.spotify.com/track/3Okh7qw2zSwrS9AST3SSUx"
     },
     {
       "added_at": null,
@@ -830,15 +830,11 @@
         {
           "name": "Pedro Cap\u00f3",
           "url": "https://open.spotify.com/artist/4QVBYiagIaa6ZGSPMbybpy"
-        },
-        {
-          "name": "SpreadLof",
-          "url": "https://open.spotify.com/artist/2mcQK34XJohxAWqROKXm9O"
         }
       ],
-      "duration_ms": 61173,
-      "name": "Lo Que Ves Cuando Cierras los Ojos",
-      "url": "https://open.spotify.com/track/3TrTXunrkaCCZsM9jZicW1"
+      "duration_ms": 198640,
+      "name": "El Chiste",
+      "url": "https://open.spotify.com/track/1nldhOIt5TC9TTXnW2fzUg"
     },
     {
       "added_at": null,
@@ -855,26 +851,6 @@
       "duration_ms": 198839,
       "name": "Adi\u00f3s",
       "url": "https://open.spotify.com/track/56egMSOttQh3ztykSqsk0u"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Mis No Lugares",
-        "url": "https://open.spotify.com/album/5UTVOml5TfH7wUeCkqxM8k"
-      },
-      "artists": [
-        {
-          "name": "Ale Z\u00e9guer",
-          "url": "https://open.spotify.com/artist/1jIeEiC6KkryFux23ekWmQ"
-        },
-        {
-          "name": "Pedro Cap\u00f3",
-          "url": "https://open.spotify.com/artist/4QVBYiagIaa6ZGSPMbybpy"
-        }
-      ],
-      "duration_ms": 178285,
-      "name": "Jard\u00edn",
-      "url": "https://open.spotify.com/track/6SpEFYmSZQJGuyL8tiyhnZ"
     },
     {
       "added_at": null,
@@ -903,6 +879,26 @@
     {
       "added_at": null,
       "album": {
+        "name": "Mis No Lugares",
+        "url": "https://open.spotify.com/album/5UTVOml5TfH7wUeCkqxM8k"
+      },
+      "artists": [
+        {
+          "name": "Ale Z\u00e9guer",
+          "url": "https://open.spotify.com/artist/1jIeEiC6KkryFux23ekWmQ"
+        },
+        {
+          "name": "Pedro Cap\u00f3",
+          "url": "https://open.spotify.com/artist/4QVBYiagIaa6ZGSPMbybpy"
+        }
+      ],
+      "duration_ms": 178285,
+      "name": "Jard\u00edn",
+      "url": "https://open.spotify.com/track/6SpEFYmSZQJGuyL8tiyhnZ"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Fulanito",
         "url": "https://open.spotify.com/album/4l7bsYy7gsvAsDCv3ThByZ"
       },
@@ -910,11 +906,15 @@
         {
           "name": "Pedro Cap\u00f3",
           "url": "https://open.spotify.com/artist/4QVBYiagIaa6ZGSPMbybpy"
+        },
+        {
+          "name": "SpreadLof",
+          "url": "https://open.spotify.com/artist/2mcQK34XJohxAWqROKXm9O"
         }
       ],
-      "duration_ms": 198640,
-      "name": "El Chiste",
-      "url": "https://open.spotify.com/track/1nldhOIt5TC9TTXnW2fzUg"
+      "duration_ms": 61173,
+      "name": "Lo Que Ves Cuando Cierras los Ojos",
+      "url": "https://open.spotify.com/track/3TrTXunrkaCCZsM9jZicW1"
     },
     {
       "added_at": null,

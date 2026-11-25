@@ -1,12 +1,12 @@
 {
   "description": "Entre na onda com hits tropicais e remixes para curtir a praia com amigos.",
-  "num_followers": 509990,
+  "num_followers": 510021,
   "original_name": "Festa na Praia",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAFUtDpFEeRya1j7yx42Gt2nv3DIf",
+  "snapshot_id": "AAAAAF7Qfmmswk1SUCtX6nxjY1lAH4Fb",
   "tracks": [
     {
       "added_at": "2026-09-25 15:56:07",
@@ -467,30 +467,6 @@
     {
       "added_at": "2026-09-25 15:56:07",
       "album": {
-        "name": "In The End (Remix)",
-        "url": "https://open.spotify.com/album/1z6wwp7VQY84KsH60ZeJh3"
-      },
-      "artists": [
-        {
-          "name": "Double MZK",
-          "url": "https://open.spotify.com/artist/6xacomOfO7szsy6qZanBtI"
-        },
-        {
-          "name": "Maffei",
-          "url": "https://open.spotify.com/artist/7xVbDhHFS3g0C1XbI5raYF"
-        },
-        {
-          "name": "Bill Sandre",
-          "url": "https://open.spotify.com/artist/5vg347odfyQfzgjctiztlC"
-        }
-      ],
-      "duration_ms": 164879,
-      "name": "In The End - Remix",
-      "url": "https://open.spotify.com/track/0gcNhrXQPf8uwyq7qAauKJ"
-    },
-    {
-      "added_at": "2026-09-25 15:56:07",
-      "album": {
         "name": "Sem Ch\u00e3o (Malemol\u00eancia)",
         "url": "https://open.spotify.com/album/1KMNZU2XgBIFejM1j0DHwR"
       },
@@ -511,6 +487,30 @@
       "duration_ms": 158769,
       "name": "Sem Ch\u00e3o (Malemol\u00eancia)",
       "url": "https://open.spotify.com/track/4DEU9APTmDLxnOsZnxhxI2"
+    },
+    {
+      "added_at": "2026-09-25 15:56:07",
+      "album": {
+        "name": "In The End (Remix)",
+        "url": "https://open.spotify.com/album/1z6wwp7VQY84KsH60ZeJh3"
+      },
+      "artists": [
+        {
+          "name": "Double MZK",
+          "url": "https://open.spotify.com/artist/6xacomOfO7szsy6qZanBtI"
+        },
+        {
+          "name": "Maffei",
+          "url": "https://open.spotify.com/artist/7xVbDhHFS3g0C1XbI5raYF"
+        },
+        {
+          "name": "Bill Sandre",
+          "url": "https://open.spotify.com/artist/5vg347odfyQfzgjctiztlC"
+        }
+      ],
+      "duration_ms": 164879,
+      "name": "In The End - Remix",
+      "url": "https://open.spotify.com/track/0gcNhrXQPf8uwyq7qAauKJ"
     },
     {
       "added_at": "2026-09-25 15:56:07",
@@ -1423,26 +1423,6 @@
     {
       "added_at": "2026-09-25 15:56:07",
       "album": {
-        "name": "Blitz (Voc\u00ea N\u00e3o Soube Me Amar)",
-        "url": "https://open.spotify.com/album/4u1iSVei2vJgYCjhBqT5b0"
-      },
-      "artists": [
-        {
-          "name": "Viot",
-          "url": "https://open.spotify.com/artist/7fld8KFMgCmJlsVOJ1oo4M"
-        },
-        {
-          "name": "Blitz",
-          "url": "https://open.spotify.com/artist/1POsQml4E21Ku75BirHFMQ"
-        }
-      ],
-      "duration_ms": 208615,
-      "name": "Blitz (Voc\u00ea N\u00e3o Soube Me Amar)",
-      "url": "https://open.spotify.com/track/3dTQZCZ6ymToMbSqaIljDB"
-    },
-    {
-      "added_at": "2026-09-25 15:56:07",
-      "album": {
         "name": "Monalisa (KVSH Remix)",
         "url": "https://open.spotify.com/album/682jx7IHZwSmVkxld1qkgz"
       },
@@ -1459,6 +1439,26 @@
       "duration_ms": 175844,
       "name": "Monalisa (KVSH Remix)",
       "url": "https://open.spotify.com/track/2DiuOqMFJcTCEquAFCtjwW"
+    },
+    {
+      "added_at": "2026-09-25 15:56:07",
+      "album": {
+        "name": "Blitz (Voc\u00ea N\u00e3o Soube Me Amar)",
+        "url": "https://open.spotify.com/album/4u1iSVei2vJgYCjhBqT5b0"
+      },
+      "artists": [
+        {
+          "name": "Viot",
+          "url": "https://open.spotify.com/artist/7fld8KFMgCmJlsVOJ1oo4M"
+        },
+        {
+          "name": "Blitz",
+          "url": "https://open.spotify.com/artist/1POsQml4E21Ku75BirHFMQ"
+        }
+      ],
+      "duration_ms": 208615,
+      "name": "Blitz (Voc\u00ea N\u00e3o Soube Me Amar)",
+      "url": "https://open.spotify.com/track/3dTQZCZ6ymToMbSqaIljDB"
     },
     {
       "added_at": "2026-09-25 15:56:07",

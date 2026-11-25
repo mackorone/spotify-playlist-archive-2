@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/78Q3Vn0T0RcTGOD6xVcOdx.md) - [plain]
 
 > Top hits 2026: best songs right now, chart hits, pop and R&amp;B hits.
 
-[Nuvora](https://open.spotify.com/user/11141650175) - 553 likes - 119 songs - 6 hr 28 min
+[Nuvora](https://open.spotify.com/user/11141650175) - 553 likes - 124 songs - 6 hr 44 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -127,5 +127,10 @@ pretty - [cumulative](/playlists/cumulative/78Q3Vn0T0RcTGOD6xVcOdx.md) - [plain]
 | 117 | [Money & Power](https://open.spotify.com/track/7FLNhnSboUnPj6sv6Ue1LN) | [Cuzzo Guapp](https://open.spotify.com/artist/50SKfJ8vhjgbfbep2ogHgC) | [Money & Power](https://open.spotify.com/album/3TqrmqVxiOsFZqZaclE66l) | 2:00 |
 | 118 | [no pidas de mas](https://open.spotify.com/track/0xE1V5iaKooIQm1BnNeyah) | [elale jaime](https://open.spotify.com/artist/5GE8U9KQnANFfsh18U3kkl), [milton leon](https://open.spotify.com/artist/1vQtS8Z0NUQZqge46C840B) | [no pidas de mas](https://open.spotify.com/album/5OYOzWppNSFeXOQljhHQxm) | 4:01 |
 | 119 | [Fuera de su tiempo](https://open.spotify.com/track/5Cj1B87X025rUBF6RjFJwx) | [Leo Tiberi](https://open.spotify.com/artist/3C9ioBuuDOiJaDBfpfH9y5) | [Fuera de su tiempo](https://open.spotify.com/album/0c0fdA2WR8rmyghdzIPhpi) | 3:02 |
+| 120 | [Off The Pound](https://open.spotify.com/track/18RLsL4a9LzHRoa0KXXahA) | [Vance](https://open.spotify.com/artist/11LpEjg6drv4G1kBItUSn6), [NSM Deebo](https://open.spotify.com/artist/3lvTJMKR7uL9GcL7PMahvI) | [Off The Pound](https://open.spotify.com/album/3cEZ0o3ovQRYmP1qnepqAw) | 2:35 |
+| 121 | [Alaba Lambo](https://open.spotify.com/track/6MpZ69AOhelpMvhvbKC63A) | [ODG Beatz](https://open.spotify.com/artist/70CBsq6ZZno3oSswWP5kIa) | [Alaba Lambo](https://open.spotify.com/album/7ChINoOG77zjPsHKDNLlqb) | 1:56 |
+| 122 | [The Weight](https://open.spotify.com/track/0CwuWOr6C9CnDT5PA0btDb) | [Delorean Time Warp](https://open.spotify.com/artist/1HXPiQIZzvALL8NEDmpOcn) | [The Weight](https://open.spotify.com/album/4CYNSB9C1me7dJWyJI6jHC) | 3:24 |
+| 123 | [BURN IT DOWN](https://open.spotify.com/track/1EzvOVlyaQhmBDIA3hQiTr) | [claudiomproduction](https://open.spotify.com/artist/480q3vxyDiauwwnVnpav5Y) | [BURN IT DOWN](https://open.spotify.com/album/1eoIc4usKkH5JA0NDh1OC9) | 3:24 |
+| 124 | [Tatsız](https://open.spotify.com/track/1EhsXtvJjjFrTrRxxFww31) | [Özgür Yetgin](https://open.spotify.com/artist/4VFWtBvDFnpZOAWPCfLKwq) | [Tatsız](https://open.spotify.com/album/1zixNH9ctQSuezasOwJgvv) | 4:37 |
 
-Snapshot ID: `AAAC2s1pY9IxuyRM0Uk8dB/gIIX28fa8`
+Snapshot ID: `AAAC34k9Q4s4rVanAgTO4uesC9wCZ4Mt`

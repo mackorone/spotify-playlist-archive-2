@@ -6,7 +6,7 @@
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAEaFzO+Wk3QuTIxDlSE342aDDTlz",
+  "snapshot_id": "AAAAAJLI9iprvIsxpAMseyrfuMYuoefM",
   "tracks": [
     {
       "added_at": "2026-05-26 09:05:26",
@@ -1307,26 +1307,6 @@
     {
       "added_at": "2026-05-26 09:05:26",
       "album": {
-        "name": "No Return No Karma",
-        "url": "https://open.spotify.com/album/6UO4PU9xukOuML8enQAEBB"
-      },
-      "artists": [
-        {
-          "name": "Micha\u0142 Bara\u0144ski",
-          "url": "https://open.spotify.com/artist/6oH0zM5dxLJn7DSHsKuM0A"
-        },
-        {
-          "name": "Kuba Badach",
-          "url": "https://open.spotify.com/artist/5370ZRL4QLnYElDr8sjDzC"
-        }
-      ],
-      "duration_ms": 350390,
-      "name": "Ballada (feat. Kuba Badach)",
-      "url": "https://open.spotify.com/track/0Okn9ZO2UnLZKqflhjZLm3"
-    },
-    {
-      "added_at": "2026-05-26 09:05:26",
-      "album": {
         "name": "Budy\u0144 o smaku Mickiewicza",
         "url": "https://open.spotify.com/album/4v1jN87zI3hmMraLsmTAPK"
       },
@@ -1343,6 +1323,26 @@
       "duration_ms": 701500,
       "name": "\u015awitezianka",
       "url": "https://open.spotify.com/track/0kPDGa8tW4fFPifXwo8F8M"
+    },
+    {
+      "added_at": "2026-05-26 09:05:26",
+      "album": {
+        "name": "No Return No Karma",
+        "url": "https://open.spotify.com/album/6UO4PU9xukOuML8enQAEBB"
+      },
+      "artists": [
+        {
+          "name": "Micha\u0142 Bara\u0144ski",
+          "url": "https://open.spotify.com/artist/6oH0zM5dxLJn7DSHsKuM0A"
+        },
+        {
+          "name": "Kuba Badach",
+          "url": "https://open.spotify.com/artist/5370ZRL4QLnYElDr8sjDzC"
+        }
+      ],
+      "duration_ms": 350390,
+      "name": "Ballada (feat. Kuba Badach)",
+      "url": "https://open.spotify.com/track/0Okn9ZO2UnLZKqflhjZLm3"
     },
     {
       "added_at": "2026-05-26 09:05:26",
@@ -1411,6 +1411,22 @@
     {
       "added_at": "2026-05-26 09:05:26",
       "album": {
+        "name": "Wsch\u00f3d",
+        "url": "https://open.spotify.com/album/2px8SaiCc5Ah5jefyoRc92"
+      },
+      "artists": [
+        {
+          "name": "Karolina B\u0142achnia",
+          "url": "https://open.spotify.com/artist/1xUsokZJfAI3eZtjjuKhtX"
+        }
+      ],
+      "duration_ms": 470111,
+      "name": "Dawno I Nieprawda",
+      "url": "https://open.spotify.com/track/0FMtDM8wYBLsbtknqqAClY"
+    },
+    {
+      "added_at": "2026-05-26 09:05:26",
+      "album": {
         "name": "No Return No Karma",
         "url": "https://open.spotify.com/album/6UO4PU9xukOuML8enQAEBB"
       },
@@ -1427,22 +1443,6 @@
       "duration_ms": 302513,
       "name": "Tisra for Zawinul (feat. Bodek Janke)",
       "url": "https://open.spotify.com/track/7MNT9fWxScxpQInHFaasdr"
-    },
-    {
-      "added_at": "2026-05-26 09:05:26",
-      "album": {
-        "name": "Wsch\u00f3d",
-        "url": "https://open.spotify.com/album/2px8SaiCc5Ah5jefyoRc92"
-      },
-      "artists": [
-        {
-          "name": "Karolina B\u0142achnia",
-          "url": "https://open.spotify.com/artist/1xUsokZJfAI3eZtjjuKhtX"
-        }
-      ],
-      "duration_ms": 470111,
-      "name": "Dawno I Nieprawda",
-      "url": "https://open.spotify.com/track/0FMtDM8wYBLsbtknqqAClY"
     },
     {
       "added_at": "2026-05-26 09:05:26",

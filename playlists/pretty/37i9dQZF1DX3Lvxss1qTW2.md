@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3Lvxss1qTW2.md) - [plain]
 
 > The future hits of today\. Up Next: Kidd Carder & BNXN
 
-[Spotify](https://open.spotify.com/user/spotify) - 125,150 likes - 80 songs - 3 hr 28 min
+[Spotify](https://open.spotify.com/user/spotify) - 125,228 likes - 80 songs - 3 hr 28 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -89,4 +89,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3Lvxss1qTW2.md) - [plain]
 | 79 | [Life of the Party](https://open.spotify.com/track/6agAF33T5TH8FUljkhTXAj) | [CupidSZN](https://open.spotify.com/artist/150lmofYTz4i9fnVzM6AZZ) | [Life of the Party](https://open.spotify.com/album/3hWOvvkPWNqt9W7NLZI7qB) | 2:47 |
 | 80 | [Next Phase](https://open.spotify.com/track/5fTRrhU6OANLRw2djAdAi2) | [Meji](https://open.spotify.com/artist/3k78thgo5x5O8rr1kkPdkD), [Yôrkk](https://open.spotify.com/artist/4KLrpPDaqivMxsrJ7X6byv), [gbókìkí](https://open.spotify.com/artist/3tFFpz0JQHngXVjHzX1o8Z) | [One Verse: Vol\. 2](https://open.spotify.com/album/1doWAxp4DFbHvq8NrZDhpx) | 2:54 |
 
-Snapshot ID: `AAAAAHjOKR3B6sNW3sDAUqDh23RS+2Bh`
+Snapshot ID: `AAAAALpQA01WWA9QMqxvBzrHJlA9bhZM`

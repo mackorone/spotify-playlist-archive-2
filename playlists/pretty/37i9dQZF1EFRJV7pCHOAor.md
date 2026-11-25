@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFRJV7pCHOAor.md) - [plain]
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/79M2N87L8igKvfAOgqndLY">Carter Lang</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 820 likes - 226 songs - 12 hr 17 min
+[Spotify](https://open.spotify.com/user/spotify) - 819 likes - 226 songs - 12 hr 17 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -144,16 +144,16 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFRJV7pCHOAor.md) - [plain]
 | 134 | [White Teeth](https://open.spotify.com/track/3Gqagi4hGvcHyoWznBi4q3) | [Ryan Beatty](https://open.spotify.com/artist/60NNvDqsif0u40CXMV6jDQ) | [Calico](https://open.spotify.com/album/5OWpskyoZl9UMkHQwgA05O) | 3:58 |
 | 135 | [WHEN IT'S OVER](https://open.spotify.com/track/3OevAJaJmLNY1PKK1b18bz) | [Justin Bieber](https://open.spotify.com/artist/1uNFoZAHBGtllmzznpCI3s) | [SWAG II](https://open.spotify.com/album/2KrREEyHxkdFGYAd1DmMdS) | 2:34 |
 | 136 | [Impurities](https://open.spotify.com/track/2jkQ4W13nSGGkUrkRt7ihK) | [Arlo Parks](https://open.spotify.com/artist/4kIwETcbpuFgRukE8o7Opx) | [My Soft Machine](https://open.spotify.com/album/4YCScpRHPfvu81qmsIGGmn) | 3:49 |
-| 137 | [Still In Love](https://open.spotify.com/track/0MbH6aXMUVPHDiBHiuhhKx) | [Jaden](https://open.spotify.com/artist/0xOeVMOz2fVg5BJY3N6akT) | [CTV3: Day Tripper's Edition](https://open.spotify.com/album/0sTsD2n8TsSpIGZhFsCXeS) | 3:25 |
-| 138 | [Wave](https://open.spotify.com/track/7F8eFixvj36lYMLtObtRrj) | [Remi Wolf](https://open.spotify.com/artist/0NB5HROxc8dDBXpkIi1v3d) | [Big Ideas](https://open.spotify.com/album/7HQOEMCDGKY8eJyQPdsnYH) | 3:49 |
+| 137 | [Wave](https://open.spotify.com/track/7F8eFixvj36lYMLtObtRrj) | [Remi Wolf](https://open.spotify.com/artist/0NB5HROxc8dDBXpkIi1v3d) | [Big Ideas](https://open.spotify.com/album/7HQOEMCDGKY8eJyQPdsnYH) | 3:49 |
+| 138 | [Still In Love](https://open.spotify.com/track/0MbH6aXMUVPHDiBHiuhhKx) | [Jaden](https://open.spotify.com/artist/0xOeVMOz2fVg5BJY3N6akT) | [CTV3: Day Tripper's Edition](https://open.spotify.com/album/0sTsD2n8TsSpIGZhFsCXeS) | 3:25 |
 | 139 | [Mataleón](https://open.spotify.com/track/5PU1h7Q0l8FODps5DPA7Tt) | [Guitarricadelafuente](https://open.spotify.com/artist/0oBiYchunKTMDesVICwrvL) | [Spanish Leather](https://open.spotify.com/album/1inJBfnZWe33KcXl6TNaXV) | 2:46 |
 | 140 | [She Think](https://open.spotify.com/track/5yzTMBpElOOx4lOsxtObLw) | [Buddy](https://open.spotify.com/artist/6PDLwWvgYNMfBRLqC1h5cJ), [Kent Jamz](https://open.spotify.com/artist/4JgGhWEWcKIyT84mknHP2w) | [Janktape Vol\. 1](https://open.spotify.com/album/2PsuKIMWPQemQhz503zvop) | 2:43 |
 | 141 | [Shades Of Blue](https://open.spotify.com/track/1TpeT2PWnAv9NDbqK1qy6J) | [VIC MENSA](https://open.spotify.com/artist/27w1NoOLMX7tJMYqcetPyG) | [There's Alot Going On](https://open.spotify.com/album/5ebtbHmQ7WZpgKtH8ir14W) | 4:46 |
 | 142 | [Calypso](https://open.spotify.com/track/0xDX2eQsx9F4xHVMNPvVge) | [Guitarricadelafuente](https://open.spotify.com/artist/0oBiYchunKTMDesVICwrvL) | [Calypso](https://open.spotify.com/album/7rfrQpTh58BeQfjmA4n2Yi) | 2:31 |
 | 143 | [BACK 2 LOVE](https://open.spotify.com/track/0ul0bjXRaO5YxLuSnHX1Qe) | [The Kid LAROI](https://open.spotify.com/artist/2tIP7SsRs7vjIcLrU85W8J) | [BEFORE I FORGET \(DELUXE\)](https://open.spotify.com/album/6CACyqngQWTOAM1UpAtco3) | 3:35 |
 | 144 | [STORY OF GOD](https://open.spotify.com/track/1Fn2pTZSBYlmQEjphUZSRi) | [Justin Bieber](https://open.spotify.com/artist/1uNFoZAHBGtllmzznpCI3s) | [SWAG II](https://open.spotify.com/album/2KrREEyHxkdFGYAd1DmMdS) | 7:46 |
-| 145 | [Personally](https://open.spotify.com/track/0j3tmysUmOvbXno7km0T2T) | [Omar Apollo](https://open.spotify.com/artist/5FxD8fkQZ6KcsSYupDVoSO) | [Ivory](https://open.spotify.com/album/5z7TD11Qh81Gbf52hd5zAv) | 3:31 |
-| 146 | [Poses](https://open.spotify.com/track/3vbwaRt6B0Xtcw12TkJjlk) | [Guitarricadelafuente](https://open.spotify.com/artist/0oBiYchunKTMDesVICwrvL) | [Spanish Leather](https://open.spotify.com/album/1inJBfnZWe33KcXl6TNaXV) | 2:33 |
+| 145 | [Poses](https://open.spotify.com/track/3vbwaRt6B0Xtcw12TkJjlk) | [Guitarricadelafuente](https://open.spotify.com/artist/0oBiYchunKTMDesVICwrvL) | [Spanish Leather](https://open.spotify.com/album/1inJBfnZWe33KcXl6TNaXV) | 2:33 |
+| 146 | [Personally](https://open.spotify.com/track/0j3tmysUmOvbXno7km0T2T) | [Omar Apollo](https://open.spotify.com/artist/5FxD8fkQZ6KcsSYupDVoSO) | [Ivory](https://open.spotify.com/album/5z7TD11Qh81Gbf52hd5zAv) | 3:31 |
 | 147 | [midsummer pipe dream](https://open.spotify.com/track/6nkQrHvWMu0vSse3nQGSPV) | [Guitarricadelafuente](https://open.spotify.com/artist/0oBiYchunKTMDesVICwrvL), [Troye Sivan](https://open.spotify.com/artist/3WGpXCj9YhhfX11TToZcXP) | [midsummer pipe dream](https://open.spotify.com/album/6HQsc7j2EyHMh5ph8tNbfH) | 2:36 |
 | 148 | [I Want Mo \(with London On Da Track\)](https://open.spotify.com/track/4IFIvreLx7CxwT0iRmWZLD) | [Rich The Kid](https://open.spotify.com/artist/1pPmIToKXyGdsCF6LmqLmI), [London On Da Track](https://open.spotify.com/artist/5Nf5yishRW9Ye174sJISkg) | [BOSS MAN](https://open.spotify.com/album/3jPpeRUHcgC8ZkDT7MgUg3) | 2:06 |
 | 149 | [Hope You’re Happy \(feat\. EARTHGANG\)](https://open.spotify.com/track/0oLszoveMRCGNFwxiWEXgC) | [Emeryld](https://open.spotify.com/artist/3YTUk9oIDoAe5VFfgUS5UL), [EARTHGANG](https://open.spotify.com/artist/5MbNzCW3qokGyoo9giHA3V) | [Young](https://open.spotify.com/album/7AN46QEX3tJzVxAdNvxJZC) | 3:48 |
@@ -235,4 +235,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFRJV7pCHOAor.md) - [plain]
 | 225 | [In the Dark \(Originally Performed by Swae Lee & Jhené Aiko\) \[Instrumental Version\]](https://open.spotify.com/track/3mBIGDPh57hQiy0tkFPe6G) | [Backing Business](https://open.spotify.com/artist/2X7pI6n8xuBbsdry2JHoju) | [Pristine Karaoke, Vol\. 46](https://open.spotify.com/album/7gSaZP3yShQTGSN8vXXZNv) | 3:05 |
 | 226 | [Without You \- Downtempo Workout Mix](https://open.spotify.com/track/09dEqoOt2ERaafwHplzjAf) | [Workout Music](https://open.spotify.com/artist/5njMahLKD1tLJ5bejvqseV) | [50 Pop Workout Downtempo](https://open.spotify.com/album/6kuOWQcfva1CAmyJ3IifMN) | 4:36 |
 
-Snapshot ID: `AcifMgAAAAAcoaTmITiynJcXywsomhPe`
+Snapshot ID: `AcikZAAAAABGapH378gCgBkfsVX6yYyA`

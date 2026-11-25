@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSVQreDCvFMf.md) - [plain]
 
 > Mga bago at lumilitaw sa mundo ng OPM\. Cover: Fern.
 
-[Spotify](https://open.spotify.com/user/spotify) - 204,075 likes - 100 songs - 6 hr 26 min
+[Spotify](https://open.spotify.com/user/spotify) - 204,094 likes - 100 songs - 6 hr 26 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSVQreDCvFMf.md) - [plain]
 | 99 | [Pang Habang Buhay](https://open.spotify.com/track/0UzxC0o0a0d4RmemwiqvIQ) | [JET](https://open.spotify.com/artist/03OqzRFwbSqQCIZyZTKOJI) | [Pang Habang Buhay](https://open.spotify.com/album/1n3FIWVQgFSJO96SAkK1jE) | 4:31 |
 | 100 | [Die with You](https://open.spotify.com/track/4kVD5XwZ9TNP0igyepqPyH) | [Eli Elijah](https://open.spotify.com/artist/2TPQLTVapuGIMQGjDDqhsi) | [Die with You](https://open.spotify.com/album/4ccTSQqx1yDC1r0FxpLqhF) | 3:58 |
 
-Snapshot ID: `AAAAAHgN5mOzuqBD93+Xluk1rKN7IPck`
+Snapshot ID: `AAAAAA7i5EGirCKrk8lUq/Beeu/9Kgdb`

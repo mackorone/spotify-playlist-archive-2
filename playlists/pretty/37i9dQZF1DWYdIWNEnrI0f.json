@@ -1,12 +1,12 @@
 {
   "description": "Let Japanese beats guide you into a calm and blissful evening. / \u5fc3\u5730\u3088\u3044\u591c\u3092\u904e\u3054\u3059\u305f\u3081\u306e\u65e5\u672c\u88fd\u30d3\u30fc\u30c8\u30b5\u30a6\u30f3\u30c9",
-  "num_followers": 35222,
+  "num_followers": 35250,
   "original_name": "Fujiyama Beats",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAMAQ+/2bGevnvSm9An4Epfp+RGFQ",
+  "snapshot_id": "AAAAAMstwvMWUzWHulMeogtC+EH2nQr9",
   "tracks": [
     {
       "added_at": "2026-11-15 14:02:32",
@@ -427,18 +427,22 @@
     {
       "added_at": "2026-11-15 14:02:32",
       "album": {
-        "name": "So Real (Instrumental)",
-        "url": "https://open.spotify.com/album/1Zm3xiOYcPdj0yGcoFqeAR"
+        "name": "Stack Wave (feat. STUTS)",
+        "url": "https://open.spotify.com/album/00n7OlFDIC3zpWOXmV2bAV"
       },
       "artists": [
         {
-          "name": "mabanua",
-          "url": "https://open.spotify.com/artist/1lBnm3edbDJ7KbWSHzSGQP"
+          "name": "DJ Mitsu The Beats",
+          "url": "https://open.spotify.com/artist/4F8O7axjzw3z0xVPRG8JFS"
+        },
+        {
+          "name": "STUTS",
+          "url": "https://open.spotify.com/artist/0qC4CNzOUtgdmdVzRqCa1d"
         }
       ],
-      "duration_ms": 188679,
-      "name": "So Real (Instrumental)",
-      "url": "https://open.spotify.com/track/7uKuva4zZIhpl9wfJ7pMTd"
+      "duration_ms": 271162,
+      "name": "Stack Wave (feat. STUTS)",
+      "url": "https://open.spotify.com/track/0U3IxVP9vj56VAuVGHrSuo"
     },
     {
       "added_at": "2026-11-15 14:02:32",
@@ -463,22 +467,18 @@
     {
       "added_at": "2026-11-15 14:02:32",
       "album": {
-        "name": "Stack Wave (feat. STUTS)",
-        "url": "https://open.spotify.com/album/00n7OlFDIC3zpWOXmV2bAV"
+        "name": "So Real (Instrumental)",
+        "url": "https://open.spotify.com/album/1Zm3xiOYcPdj0yGcoFqeAR"
       },
       "artists": [
         {
-          "name": "DJ Mitsu The Beats",
-          "url": "https://open.spotify.com/artist/4F8O7axjzw3z0xVPRG8JFS"
-        },
-        {
-          "name": "STUTS",
-          "url": "https://open.spotify.com/artist/0qC4CNzOUtgdmdVzRqCa1d"
+          "name": "mabanua",
+          "url": "https://open.spotify.com/artist/1lBnm3edbDJ7KbWSHzSGQP"
         }
       ],
-      "duration_ms": 271162,
-      "name": "Stack Wave (feat. STUTS)",
-      "url": "https://open.spotify.com/track/0U3IxVP9vj56VAuVGHrSuo"
+      "duration_ms": 188679,
+      "name": "So Real (Instrumental)",
+      "url": "https://open.spotify.com/track/7uKuva4zZIhpl9wfJ7pMTd"
     },
     {
       "added_at": "2026-11-15 14:02:32",
@@ -675,22 +675,6 @@
     {
       "added_at": "2026-11-15 14:02:32",
       "album": {
-        "name": "Stem.\u200bt\u03b4pe",
-        "url": "https://open.spotify.com/album/66hQk83LlSVTXX19sJw49S"
-      },
-      "artists": [
-        {
-          "name": "Green Assassin Dollar",
-          "url": "https://open.spotify.com/artist/64FwB76hSP9VtYtPSBbEY7"
-        }
-      ],
-      "duration_ms": 90000,
-      "name": "Elnino",
-      "url": "https://open.spotify.com/track/6Vfiq90OM9CgbTVmJAa2Mp"
-    },
-    {
-      "added_at": "2026-11-15 14:02:32",
-      "album": {
         "name": "Light Breeze EP",
         "url": "https://open.spotify.com/album/1n2VCQLZpPAQql7MyapC22"
       },
@@ -707,6 +691,22 @@
       "duration_ms": 120000,
       "name": "Light Breeze",
       "url": "https://open.spotify.com/track/3GQ8N7Rcem6Iu1HOl5jqHg"
+    },
+    {
+      "added_at": "2026-11-15 14:02:32",
+      "album": {
+        "name": "Stem.\u200bt\u03b4pe",
+        "url": "https://open.spotify.com/album/66hQk83LlSVTXX19sJw49S"
+      },
+      "artists": [
+        {
+          "name": "Green Assassin Dollar",
+          "url": "https://open.spotify.com/artist/64FwB76hSP9VtYtPSBbEY7"
+        }
+      ],
+      "duration_ms": 90000,
+      "name": "Elnino",
+      "url": "https://open.spotify.com/track/6Vfiq90OM9CgbTVmJAa2Mp"
     },
     {
       "added_at": "2026-11-15 14:02:32",
@@ -767,22 +767,6 @@
     {
       "added_at": "2026-11-15 14:02:32",
       "album": {
-        "name": "ribbon",
-        "url": "https://open.spotify.com/album/1OCsOGkd7Gxju8adsnqVC9"
-      },
-      "artists": [
-        {
-          "name": "hario island",
-          "url": "https://open.spotify.com/artist/4SSYmqlXA8awmX7PHheCJN"
-        }
-      ],
-      "duration_ms": 125142,
-      "name": "ribbon",
-      "url": "https://open.spotify.com/track/5EfoIMA6T3S5Hbj1k1yRIf"
-    },
-    {
-      "added_at": "2026-11-15 14:02:32",
-      "album": {
         "name": "Tones",
         "url": "https://open.spotify.com/album/5GQMwiF23cqZ5Fk3gQ76zp"
       },
@@ -795,6 +779,22 @@
       "duration_ms": 168677,
       "name": "For a While",
       "url": "https://open.spotify.com/track/3ceTmI36BzFxm6zbI0bfnn"
+    },
+    {
+      "added_at": "2026-11-15 14:02:32",
+      "album": {
+        "name": "ribbon",
+        "url": "https://open.spotify.com/album/1OCsOGkd7Gxju8adsnqVC9"
+      },
+      "artists": [
+        {
+          "name": "hario island",
+          "url": "https://open.spotify.com/artist/4SSYmqlXA8awmX7PHheCJN"
+        }
+      ],
+      "duration_ms": 125142,
+      "name": "ribbon",
+      "url": "https://open.spotify.com/track/5EfoIMA6T3S5Hbj1k1yRIf"
     },
     {
       "added_at": "2026-11-15 14:02:32",
@@ -851,22 +851,6 @@
     {
       "added_at": "2026-11-15 14:02:32",
       "album": {
-        "name": "Panorama",
-        "url": "https://open.spotify.com/album/3upwVLg8Z1mH1Ffd8JSysx"
-      },
-      "artists": [
-        {
-          "name": "Wataru Fujiwara",
-          "url": "https://open.spotify.com/artist/0wOfP27EddIPwwB7X7ZrWP"
-        }
-      ],
-      "duration_ms": 146014,
-      "name": "Panorama",
-      "url": "https://open.spotify.com/track/6qYZdU3w9SikFhajI8IRsS"
-    },
-    {
-      "added_at": "2026-11-15 14:02:32",
-      "album": {
         "name": "Time goes by",
         "url": "https://open.spotify.com/album/3BGcymZGetozixza8RWiAv"
       },
@@ -879,6 +863,22 @@
       "duration_ms": 115831,
       "name": "Time goes by",
       "url": "https://open.spotify.com/track/6H6pqFQ4cAybRvxkXaTihz"
+    },
+    {
+      "added_at": "2026-11-15 14:02:32",
+      "album": {
+        "name": "Panorama",
+        "url": "https://open.spotify.com/album/3upwVLg8Z1mH1Ffd8JSysx"
+      },
+      "artists": [
+        {
+          "name": "Wataru Fujiwara",
+          "url": "https://open.spotify.com/artist/0wOfP27EddIPwwB7X7ZrWP"
+        }
+      ],
+      "duration_ms": 146014,
+      "name": "Panorama",
+      "url": "https://open.spotify.com/track/6qYZdU3w9SikFhajI8IRsS"
     },
     {
       "added_at": "2026-11-15 14:02:32",
@@ -931,18 +931,18 @@
     {
       "added_at": "2026-11-15 14:02:32",
       "album": {
-        "name": "Night Step",
-        "url": "https://open.spotify.com/album/5NKwXKL1deztn3vmc7E7Ki"
+        "name": "SYMBOL",
+        "url": "https://open.spotify.com/album/5s4qlmaXiEzQrpQHEikNGC"
       },
       "artists": [
         {
-          "name": "Wataru Fujiwara",
-          "url": "https://open.spotify.com/artist/0wOfP27EddIPwwB7X7ZrWP"
+          "name": "Green Assassin Dollar",
+          "url": "https://open.spotify.com/artist/64FwB76hSP9VtYtPSBbEY7"
         }
       ],
-      "duration_ms": 150857,
-      "name": "Night Step",
-      "url": "https://open.spotify.com/track/7wzdW1urmtdQZk4KQBOtX8"
+      "duration_ms": 110308,
+      "name": "SYMBOL",
+      "url": "https://open.spotify.com/track/4zqdXlWnuD1oeaTi4pFDS1"
     }
   ],
   "unique_name": "Fujiyama Beats",

@@ -4,7 +4,7 @@
 
 > 再び脚光を浴びる日本のシティ・ポップの今をお届けします。
 
-993 songs - 2 day 17 hr 18 min
+994 songs - 2 day 17 hr 22 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -847,6 +847,7 @@
 | [出ていけ！カレシ！](https://open.spotify.com/track/25zrDXmnAZulWCfljroSc9) | [ボタニカルな暮らし。](https://open.spotify.com/artist/14K2FbpG5vkdJZiMx5JPh5) | [出ていけ！カレシ！](https://open.spotify.com/album/6FucYwKJxu8VRNCzvrMWIx) | 4:21 | 2024-01-09 | 2024-01-20 |
 | [君とdrive](https://open.spotify.com/track/0pzIH1bTIz660rCPDJQSxk) | [YONA YONA WEEKENDERS](https://open.spotify.com/artist/6DvqAr90Cw6sbEt4Iu6KDR) | [君とdrive](https://open.spotify.com/album/3xu2GN5QmP5PRfjZy13JcK) | 4:19 | 2024-04-16 |  |
 | [君の居場所](https://open.spotify.com/track/2p2aLfEpB9ItHaT5yC9Ylx) | [Mariya Takeuchi](https://open.spotify.com/artist/3WwGRA2o4Ux1RRMYaYDh7N) | [君の居場所](https://open.spotify.com/album/15x6ok2P0OFJrmk9DcAVUN) | 3:43 | 2023-12-19 | 2023-12-22 |
+| [君の道の真ん中 feat\. 堀込泰行](https://open.spotify.com/track/4bKACXbsihHbxyurgmRtqB) | [Tomita Lab.](https://open.spotify.com/artist/0nmnnGl422TngJtYeEj5vD), [Yasuyuki Horigome](https://open.spotify.com/artist/1HWivlGf6KbIyxhTlTAlnj) | [君の道の真ん中 feat\. 堀込泰行](https://open.spotify.com/album/2idJGK9nQC6szZqUqKLZPe) | 3:49 | 2026-11-24 |  |
 | [君は1000%](https://open.spotify.com/track/1T7haUkaqLJlmA4DebnUid) | [Philosophy no Dance](https://open.spotify.com/artist/2DUhXuCbn5RWAkRaKh8qaA) | [君は1000%](https://open.spotify.com/album/334Z6PwqlDMtJTmDIOAydr) | 4:17 | 2022-08-09 | 2022-10-06 |
 | [君は1000% feat\. ミズノマリ \(from paris match\)](https://open.spotify.com/track/7fbisFzuaxYSmIjhPhYotu) | [PAPER MOON PROJECT](https://open.spotify.com/artist/0Y4i2EgSgrjmUCyT3UxCn9), [ミズノマリ \(from paris match\)](https://open.spotify.com/artist/1YDvWXGgyyceWTsBziydY7) | [君は1000% feat\. ミズノマリ \(from paris match\)](https://open.spotify.com/album/3owjP8KGMy2LE1alSWSQSI) | 4:39 | 2023-06-06 | 2023-08-20 |
 | [君はきっと](https://open.spotify.com/track/2jmzz93dnIgQOgJcZYqTjy) | [えんぷてい](https://open.spotify.com/artist/7zzRFLfG1OzxyobuR74moh) | [えんぷてい](https://open.spotify.com/album/0nqp3bNhOtFKlLQHdeHDfu) | 3:02 | 2026-06-09 | 2026-07-09 |
@@ -873,7 +874,7 @@
 | [天気雨 \-Still love me\- \(feat\. ひかり\) \- Vantage Remix](https://open.spotify.com/track/5uscxCi6JPEtHUyBwNGWmd) | [Tokimeki Records](https://open.spotify.com/artist/73vrL9RiKlSaQFo2izavC1), [Vantage](https://open.spotify.com/artist/6owH8F2INpb18PhnISiVh2), [ひかり](https://open.spotify.com/artist/7FqXFvzwNYVhW12u5O3yUc) | [天気雨 \-Still love me\- \(feat\. ひかり\) \[Vantage Remix\]](https://open.spotify.com/album/4onMga0cEQ0CwZQqWipjaX) | 3:05 | 2023-08-15 | 2023-09-06 |
 | [太陽が昇るまで](https://open.spotify.com/track/58m5kIRscFXdd2SNmvdsMD) | [salasa](https://open.spotify.com/artist/5WcurhZ9M2BpSQWhUC4oPc) | [Inner Ocean](https://open.spotify.com/album/1wtnBDpaRDystPjLmcX2D1) | 3:43 | 2022-12-13 |  |
 | [女、深夜の麺屋にて](https://open.spotify.com/track/3MVqcD8Jil1ksouMJtNTMV) | [近視のサエ子](https://open.spotify.com/artist/2MsmOuarlQw1AYEhbDhwUv), [ポセイドン・石川](https://open.spotify.com/artist/4LGHcV1MMN8gOTUZKS5uoQ), [永山雄一](https://open.spotify.com/artist/40TYPMhtw5HAhVcIMqwjMx) | [女、深夜の麺屋にて](https://open.spotify.com/album/06kswcEKFy0iaBG9yzA7h2) | 4:09 | 2022-05-24 | 2022-07-28 |
-| [学芸大前](https://open.spotify.com/track/05XI1yOrAAitf2fDmychwj) | [ぷにぷに電機](https://open.spotify.com/artist/0vroxhoPPl0k04dqKWYHZK), [Kan Sano](https://open.spotify.com/artist/5b3ZFm6P1lpZIASMDnBDs9), [Shin Sakiura](https://open.spotify.com/artist/43NKdJzrtzg9rAzmbIUdW8) | [学芸大前](https://open.spotify.com/album/0Tj7XhVJC8Yeq75O16hsg6) | 3:36 | 2026-03-03 |  |
+| [学芸大前](https://open.spotify.com/track/05XI1yOrAAitf2fDmychwj) | [ぷにぷに電機](https://open.spotify.com/artist/0vroxhoPPl0k04dqKWYHZK), [Kan Sano](https://open.spotify.com/artist/5b3ZFm6P1lpZIASMDnBDs9), [Shin Sakiura](https://open.spotify.com/artist/43NKdJzrtzg9rAzmbIUdW8) | [学芸大前](https://open.spotify.com/album/0Tj7XhVJC8Yeq75O16hsg6) | 3:36 | 2026-03-03 | 2026-11-25 |
 | [安心と慢心](https://open.spotify.com/track/6zRR7wIb63JAY8FY7H5MGW) | [志摩陽立](https://open.spotify.com/artist/2XppGVZM0aitf8inKxorUG) | [安心と慢心](https://open.spotify.com/album/3zIWzQaUt0rdFDd5t5eJp6) | 4:54 | 2023-07-11 | 2023-07-19 |
 | [小さな嘘 \-Callin' me\- \(feat\. ひかり\)](https://open.spotify.com/track/31lRhol8b42FFMFAxpotvB) | [Tokimeki Records](https://open.spotify.com/artist/73vrL9RiKlSaQFo2izavC1), [ひかり](https://open.spotify.com/artist/7FqXFvzwNYVhW12u5O3yUc) | [小さな嘘 \-Callin' me\- \(feat\. ひかり\)](https://open.spotify.com/album/3skNP2DSlofDefG2aZQiGk) | 3:44 | 2022-07-05 | 2022-07-09 |
 | [小麦色のマーメイド](https://open.spotify.com/track/0ya4KBGKjtOas5XqGt97HU) | [Gota Nishidera](https://open.spotify.com/artist/6zGbXCFNnK3q6gnUrAy9lQ) | [Velvet Motel](https://open.spotify.com/album/4d6pw6jvrA6PboPbzwdu90) | 3:50 | 2023-01-10 | 2023-02-01 |

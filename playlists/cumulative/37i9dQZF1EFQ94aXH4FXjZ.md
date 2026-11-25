@@ -4,7 +4,7 @@
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/2LYO2TUZb52Fuh9qCZOMcz">Kris Kristofferson</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-186 songs - 10 hr 43 min
+187 songs - 10 hr 45 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -31,7 +31,8 @@
 | [Casey's Last Ride](https://open.spotify.com/track/2cvCoub1SygtOeKJXy5e3p) | [Kris Kristofferson](https://open.spotify.com/artist/0vYQRW5LIDeYQOccTviQNX) | [Kristofferson](https://open.spotify.com/album/7eK1jlJMyUTNTcpAms9vZu) | 3:38 | 2026-11-11 |  |
 | [Casey's Last Ride](https://open.spotify.com/track/3NPRgabPA6oqnYbq6m8pCj) | [Kris Kristofferson](https://open.spotify.com/artist/0vYQRW5LIDeYQOccTviQNX) | [Kristofferson](https://open.spotify.com/album/4HN8SWymMSOxquR6wY2vke) | 3:38 | 2024-09-29 | 2026-11-12 |
 | [Come Sundown](https://open.spotify.com/track/44jAbzqETjZFsTwQWaM30K) | [Kris Kristofferson](https://open.spotify.com/artist/0vYQRW5LIDeYQOccTviQNX) | [The Essential Kris Kristofferson](https://open.spotify.com/album/0gGq5EiYpLZaJNYwEoPRY3) | 2:36 | 2024-09-29 |  |
-| [Cyrano](https://open.spotify.com/track/6grvN3lNCObZ1GtJxfhIjv) | [Josef Laufer](https://open.spotify.com/artist/1ycbXRESTBNZhT1SCYuajT) | [Josef Laufer '74](https://open.spotify.com/album/79PbbPBO9Cg8DOpaekVSJz) | 2:24 | 2024-09-29 |  |
+| [Cyrano](https://open.spotify.com/track/6grvN3lNCObZ1GtJxfhIjv) | [Josef Laufer](https://open.spotify.com/artist/1ycbXRESTBNZhT1SCYuajT) | [Josef Laufer '74](https://open.spotify.com/album/79PbbPBO9Cg8DOpaekVSJz) | 2:24 | 2024-09-29 | 2026-11-25 |
+| [Cyrano](https://open.spotify.com/track/7BotaUWHckgwI0wcw90qjU) | [Josef Laufer](https://open.spotify.com/artist/1ycbXRESTBNZhT1SCYuajT) | ['74](https://open.spotify.com/album/6CnfWimlgoHT2f9uvaa3Is) | 2:24 | 2026-11-24 |  |
 | [Darby's Castle](https://open.spotify.com/track/38a4b0l4mPtfd2SAMF7RoA) | [Kris Kristofferson](https://open.spotify.com/artist/0vYQRW5LIDeYQOccTviQNX) | [Kristofferson](https://open.spotify.com/album/7eK1jlJMyUTNTcpAms9vZu) | 3:21 | 2026-11-11 |  |
 | [Darby's Castle](https://open.spotify.com/track/3iFUQwaSScquvQGH605LMU) | [Kris Kristofferson](https://open.spotify.com/artist/0vYQRW5LIDeYQOccTviQNX) | [Kristofferson](https://open.spotify.com/album/4HN8SWymMSOxquR6wY2vke) | 3:21 | 2024-09-29 | 2026-11-12 |
 | [Delta Day \(No Time to Cry\)](https://open.spotify.com/track/6FxBOv9K8J9ECCZg3MqCZk) | [Bucky Wilkin](https://open.spotify.com/artist/6llhUrYZmi6uP5YqxJzrq4) | [The Complete Recordings \(1964\-1968\)](https://open.spotify.com/album/1fB1c8AYgdtENfKuaUfRVW) | 3:15 | 2024-09-29 |  |
@@ -40,7 +41,7 @@
 | [Duvalier's Dream](https://open.spotify.com/track/18AMFmyINonaT125BWmUth) | [Kris Kristofferson](https://open.spotify.com/artist/0vYQRW5LIDeYQOccTviQNX) | [Kristofferson](https://open.spotify.com/album/4HN8SWymMSOxquR6wY2vke) | 3:01 | 2024-09-29 | 2026-11-12 |
 | [Duvalier's Dream](https://open.spotify.com/track/29nDY05O12PrOfJeIvhPlG) | [Kris Kristofferson](https://open.spotify.com/artist/0vYQRW5LIDeYQOccTviQNX) | [Kristofferson](https://open.spotify.com/album/7eK1jlJMyUTNTcpAms9vZu) | 3:01 | 2026-11-11 |  |
 | [Easter Island](https://open.spotify.com/track/30nsh9vrxFqSA2uQlB0mYm) | [Kris Kristofferson](https://open.spotify.com/artist/0vYQRW5LIDeYQOccTviQNX) | [Easter Island](https://open.spotify.com/album/4nQQlfcwuxo4POyvnzCds1) | 3:42 | 2024-09-29 | 2025-12-08 |
-| [Easter Island](https://open.spotify.com/track/4oaPOlfQUPPJyD4PK3DQol) | [Kris Kristofferson](https://open.spotify.com/artist/0vYQRW5LIDeYQOccTviQNX) | [Easter Island](https://open.spotify.com/album/00mpYWfgyyx2dOAlka7a8N) | 3:42 | 2025-12-17 |  |
+| [Easter Island](https://open.spotify.com/track/4oaPOlfQUPPJyD4PK3DQol) | [Kris Kristofferson](https://open.spotify.com/artist/0vYQRW5LIDeYQOccTviQNX) | [Easter Island](https://open.spotify.com/album/00mpYWfgyyx2dOAlka7a8N) | 3:42 | 2025-12-17 | 2026-11-25 |
 | [Easy, Come On](https://open.spotify.com/track/2aJaPE28GJpFqWiREYBUgS) | [Kris Kristofferson](https://open.spotify.com/artist/0vYQRW5LIDeYQOccTviQNX) | [Who's To Bless And Who's To Blame](https://open.spotify.com/album/1TDJNWGpmhpRUJJv4Siu3g) | 3:38 | 2024-09-29 | 2025-12-18 |
 | [Easy, Come On](https://open.spotify.com/track/6sNxUk9FxRmp7HdPZNPCds) | [Kris Kristofferson](https://open.spotify.com/artist/0vYQRW5LIDeYQOccTviQNX) | [Who's To Bless...And Who's to Blame](https://open.spotify.com/album/2vde6ipQcJs8ejllLtqtgT) | 3:38 | 2025-12-17 |  |
 | [Enough for You](https://open.spotify.com/track/0P0RpIHj65B6caxXHbr64e) | [Gene Watson](https://open.spotify.com/artist/3VQfHuqrRK1CNXR1V8PeR9) | [Real\. Country\. Music.](https://open.spotify.com/album/6RDg3o9IvNHbgYkFXHCIIc) | 4:00 | 2024-09-29 |  |
@@ -98,7 +99,7 @@
 | [Killing Time \- Single Version](https://open.spotify.com/track/4W1EITJUQpJzAI0rTHlZR0) | [Kris Kristofferson](https://open.spotify.com/artist/0vYQRW5LIDeYQOccTviQNX) | [Extras](https://open.spotify.com/album/4FhxquIK5TPAu2TyJjIF4Y) | 2:31 | 2024-09-29 |  |
 | [Kiss the World Goodbye](https://open.spotify.com/track/22rVxx6dkhdoZmg1eprPkY) | [Kris Kristofferson](https://open.spotify.com/artist/0vYQRW5LIDeYQOccTviQNX) | [Border Lord](https://open.spotify.com/album/4juARctGHmMzGsyLGfesRl) | 3:00 | 2025-12-17 |  |
 | [Kiss the World Goodbye](https://open.spotify.com/track/6YFNxPeprxQVDUqAbqO7CS) | [Kris Kristofferson](https://open.spotify.com/artist/0vYQRW5LIDeYQOccTviQNX) | [Border Lord](https://open.spotify.com/album/5WHCZzMjeIu4nFWoUhMEvO) | 3:00 | 2024-09-29 | 2025-12-18 |
-| [Lay Me Down and Love the World Away](https://open.spotify.com/track/1WR4O0dabcwveNq63kykmd) | [Kris Kristofferson](https://open.spotify.com/artist/0vYQRW5LIDeYQOccTviQNX) | [The Cedar Creek Sessions](https://open.spotify.com/album/1LPhChpi7Eo9givHrTaAOo) | 3:40 | 2024-09-29 |  |
+| [Lay Me Down and Love the World Away](https://open.spotify.com/track/1WR4O0dabcwveNq63kykmd) | [Kris Kristofferson](https://open.spotify.com/artist/0vYQRW5LIDeYQOccTviQNX) | [The Cedar Creek Sessions](https://open.spotify.com/album/1LPhChpi7Eo9givHrTaAOo) | 3:40 | 2024-09-29 | 2026-11-25 |
 | [Little Girl Lost](https://open.spotify.com/track/2etje2KpczlmEGmVs4yDSY) | [Kris Kristofferson](https://open.spotify.com/artist/0vYQRW5LIDeYQOccTviQNX) | [Border Lord](https://open.spotify.com/album/4juARctGHmMzGsyLGfesRl) | 3:11 | 2025-12-17 |  |
 | [Little Girl Lost](https://open.spotify.com/track/3NcE1bYYCiY0qaaBelbF1K) | [Kris Kristofferson](https://open.spotify.com/artist/0vYQRW5LIDeYQOccTviQNX) | [Border Lord](https://open.spotify.com/album/5WHCZzMjeIu4nFWoUhMEvO) | 3:11 | 2024-09-29 | 2025-12-18 |
 | [Living Legend](https://open.spotify.com/track/4iXbVCLRijzZGCSb3g6FtB) | [The Highwaymen](https://open.spotify.com/artist/6e7QpHYqEiyJGiM98IysLa), [Willie Nelson](https://open.spotify.com/artist/5W5bDNCqJ1jbCgTxDD0Cb3), [Johnny Cash](https://open.spotify.com/artist/6kACVPfCOnqzgfEF5ryl0x), [Waylon Jennings](https://open.spotify.com/artist/7wCjDgV6nqBsHguQXPAaIM), [Kris Kristofferson](https://open.spotify.com/artist/0vYQRW5LIDeYQOccTviQNX) | [Highwayman 2](https://open.spotify.com/album/7ftmg3XnQcA0bzbWolYzOn) | 4:00 | 2024-09-29 |  |

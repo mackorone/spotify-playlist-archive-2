@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWU0r6G8OGirN.md) - [plain]
 
 > Warm instrumental versions of your favorite Christmas songs.
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,053,027 likes - 100 songs - 4 hr 47 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,054,877 likes - 100 songs - 4 hr 47 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWU0r6G8OGirN.md) - [plain]
 | 99 | [Blue Christmas](https://open.spotify.com/track/45ZPyryoPXNs1xyx1yRtI8) | [Rob Mansfield](https://open.spotify.com/artist/5JxY1lEih6zxF4XYsHhKW9) | [Blue Christmas](https://open.spotify.com/album/4b7XEP8PacUsbVyN8QvI3B) | 2:59 |
 | 100 | [Go Tell It on the Mountain](https://open.spotify.com/track/0DX11hT4Ff6ST0WeaNHbta) | [Karl\-Erik Trio](https://open.spotify.com/artist/6Q43Skxi3s0lux1BZuTZnv) | [Go Tell It on the Mountain](https://open.spotify.com/album/40IXcKtQ9pykHw7dEezEgC) | 2:48 |
 
-Snapshot ID: `AAAAAKdC6d3imSDwdoao12+qobmxD90x`
+Snapshot ID: `AAAAAJBOE/of6kKxiqNu5972p67BSFly`

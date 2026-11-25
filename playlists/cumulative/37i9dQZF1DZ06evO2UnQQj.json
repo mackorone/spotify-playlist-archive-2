@@ -354,7 +354,7 @@
       ],
       "date_added": "2026-07-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-25",
       "duration_ms": 124000,
       "name": "Bandida ou Artista",
       "url": "https://open.spotify.com/track/2LqMGPTf3r5YTqicJySA9c"
@@ -1092,6 +1092,28 @@
       "duration_ms": 186086,
       "name": "De Ponta A Ponta",
       "url": "https://open.spotify.com/track/16GI7DApZbNzAtOdRJAlBM"
+    },
+    {
+      "album": {
+        "name": "O Pirata em Tokyo, Vol. 3: \"A Lenda do Drumless Ronin\"",
+        "url": "https://open.spotify.com/album/7lkSTakheDo3Fek10aJRSc"
+      },
+      "artists": [
+        {
+          "name": "Barba Negra",
+          "url": "https://open.spotify.com/artist/5BPmokvgi18I0XyI0sK0Rq"
+        },
+        {
+          "name": "Clara Lima",
+          "url": "https://open.spotify.com/artist/4XdUyu7YX6zgKLi34JYQSG"
+        }
+      ],
+      "date_added": "2026-11-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 175880,
+      "name": "De Voo em Voo",
+      "url": "https://open.spotify.com/track/5HuFC62HU0vQbwrIN7fjDP"
     },
     {
       "album": {
@@ -2818,7 +2840,7 @@
       ],
       "date_added": "2026-03-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-25",
       "duration_ms": 179347,
       "name": "No One Will Save You",
       "url": "https://open.spotify.com/track/05YNZmZxNfyNA2TvaE5H0c"
@@ -3374,7 +3396,7 @@
       ],
       "date_added": "2025-11-29",
       "date_added_asterisk": false,
-      "date_removed": "2026-11-24",
+      "date_removed": null,
       "duration_ms": 164439,
       "name": "Pensando em N\u00f3s",
       "url": "https://open.spotify.com/track/7J79yyOY75Kc3GM6sSc02N"

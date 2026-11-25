@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7MTlMMRl0MD.md) - [plain]
 
 > Tu lista favorita de Bachata ❤️ Cover: Romeo Santos & Prince Royce
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,785,715 likes - 50 songs - 2 hr 49 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,785,469 likes - 50 songs - 2 hr 49 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -27,8 +27,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7MTlMMRl0MD.md) - [plain]
 | 17 | [En Esta Boca](https://open.spotify.com/track/3zKMajDXwhD68TnmMOnCPM) | [Kany García](https://open.spotify.com/artist/69UypehHabb68utzfjAVlV), [Young Miko](https://open.spotify.com/artist/3qsKSpcV3ncke3hw52JSMB) | [En Esta Boca](https://open.spotify.com/album/6qnMEFQU0SY891OuIaOwjF) | 2:50 |
 | 18 | [Me EnRD](https://open.spotify.com/track/3GkctxmZmeGmW4K5Oya0Z1) | [Prince Royce](https://open.spotify.com/artist/3MHaV05u0io8fQbZ2XPtlC) | [Me EnRD](https://open.spotify.com/album/3BumcT1ophGlEOHCi1fzoW) | 3:05 |
 | 19 | [Sus Huellas](https://open.spotify.com/track/2NTMjOwveAazm5GS2wgDgw) | [Romeo Santos](https://open.spotify.com/artist/5lwmRuXgjX8xIwlnauTZIP) | [Sus Huellas](https://open.spotify.com/album/3dlSb1l960OG7kjmPvirXU) | 3:36 |
-| 20 | [Desde Hoy](https://open.spotify.com/track/4ob6ms155NnDHo3NcNqeue) | [NATTI NATASHA](https://open.spotify.com/artist/1GDbiv3spRmZ1XdM1jQbT7) | [Natti Natasha en Amargue](https://open.spotify.com/album/2JMAAMlcZEg2wOl7b0fRA9) | 3:23 |
-| 21 | [No Vas a Encontrar](https://open.spotify.com/track/1GGpgUDxD5bjEq0OSEDTvc) | [Jalil Lopez](https://open.spotify.com/artist/1lE4AVltTIHnpsWVdN58jN), [R.K.M.](https://open.spotify.com/artist/1g9s0VQvScNH2eh7JCbzUu) | [No Vas a Encontrar](https://open.spotify.com/album/7LEOqYU7W9dFTLwq7xoBd0) | 3:12 |
+| 20 | [No Vas a Encontrar](https://open.spotify.com/track/1GGpgUDxD5bjEq0OSEDTvc) | [Jalil Lopez](https://open.spotify.com/artist/1lE4AVltTIHnpsWVdN58jN), [R.K.M.](https://open.spotify.com/artist/1g9s0VQvScNH2eh7JCbzUu) | [No Vas a Encontrar](https://open.spotify.com/album/7LEOqYU7W9dFTLwq7xoBd0) | 3:12 |
+| 21 | [Desde Hoy](https://open.spotify.com/track/4ob6ms155NnDHo3NcNqeue) | [NATTI NATASHA](https://open.spotify.com/artist/1GDbiv3spRmZ1XdM1jQbT7) | [Natti Natasha en Amargue](https://open.spotify.com/album/2JMAAMlcZEg2wOl7b0fRA9) | 3:23 |
 | 22 | [Viral en Mi Mente](https://open.spotify.com/track/2WahHoz2VqJMet3A3OOzHd) | [Daniel Santacruz](https://open.spotify.com/artist/4tLUnrSgMM7tT0zVs3wX61) | [Viral en Mi Mente](https://open.spotify.com/album/0whdKc95C3ctNXh0gWOd6s) | 3:20 |
 | 23 | [Morfina \(feat\. Paloma Mami\)](https://open.spotify.com/track/4PFTO7EacpZMyuTa5dZGml) | [Prince Royce](https://open.spotify.com/artist/3MHaV05u0io8fQbZ2XPtlC), [Paloma Mami](https://open.spotify.com/artist/7rOlQwf8OuFLFQp4aydjBt) | [Morfina \(feat\. Paloma Mami\)](https://open.spotify.com/album/4ebIgeih3hq832lPORpKtp) | 3:49 |
 | 24 | [Espacio en Tu Corazón \- Remix](https://open.spotify.com/track/7umNc6U2AVcL0RwQIi7xZG) | [Enrique Iglesias](https://open.spotify.com/artist/7qG3b048QCHVRO5Pv1T5lw), [Ana Mena](https://open.spotify.com/artist/6k8mwkKJKKjBILo7ypBspl) | [Espacio en Tu Corazón \(Remix\)](https://open.spotify.com/album/0QbMnLTWFzzs9qiyUJ4Eco) | 2:59 |
@@ -46,9 +46,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7MTlMMRl0MD.md) - [plain]
 | 36 | [Desconocidos](https://open.spotify.com/track/0qkXMXSaDVQfQ7qiP9DDGU) | [Johnny Sky](https://open.spotify.com/artist/3EVZsBWq5KqdtS6eVNHN8d) | [Desconocidos](https://open.spotify.com/album/624xcZVXB6YCcaHHmdAGL9) | 2:50 |
 | 37 | [Que Pase](https://open.spotify.com/track/1sl3BFidCGYy9FdchsRPJ2) | [Jalil Lopez](https://open.spotify.com/artist/1lE4AVltTIHnpsWVdN58jN) | [Metamorfosis](https://open.spotify.com/album/488zuAkOMDcIF7WA6AAqDE) | 2:46 |
 | 38 | [Anestesiada \(feat\. Luis Miguel Del Amargue\)](https://open.spotify.com/track/0E4h8zC9FLEAFia0XzRL1e) | [Prince Royce](https://open.spotify.com/artist/3MHaV05u0io8fQbZ2XPtlC), [Luis Miguel Del Amargue](https://open.spotify.com/artist/0tJDMMp9vT1q6zrPih0yFQ) | [LLAMADA PERDIDA](https://open.spotify.com/album/14ZGI8bUlOfVKT8SBLFjjT) | 3:49 |
-| 39 | [1ra\. Cita](https://open.spotify.com/track/6BOUinUGu3mTwcRgrh22Ia) | [Henry Santos](https://open.spotify.com/artist/1cUfMJtWJXfhTQvYGJQtaF) | [1ra\. Cita](https://open.spotify.com/album/0YlPvYXJhtn2a74qgG5zQ3) | 3:54 |
+| 39 | [Hay Amores De Más](https://open.spotify.com/track/50q8LocPZDv2yV6IccyRj7) | [Anthony Santos](https://open.spotify.com/artist/06TVTkMAOR935MhkjX0i2A), [Akon](https://open.spotify.com/artist/0z4gvV4rjIZ9wHck67ucSV) | [A Fuerza de Dolor](https://open.spotify.com/album/45izQ4z9DiNXiJfviONW0o) | 3:52 |
 | 40 | [Tu Loca](https://open.spotify.com/track/3rNjg96AJMRTsRZ6GKRICw) | [NATTI NATASHA](https://open.spotify.com/artist/1GDbiv3spRmZ1XdM1jQbT7) | [Tu Loca](https://open.spotify.com/album/2azunHTrQxU6hJ4qPFDQoP) | 3:10 |
-| 41 | [Hay Amores De Más](https://open.spotify.com/track/50q8LocPZDv2yV6IccyRj7) | [Anthony Santos](https://open.spotify.com/artist/06TVTkMAOR935MhkjX0i2A), [Akon](https://open.spotify.com/artist/0z4gvV4rjIZ9wHck67ucSV) | [A Fuerza de Dolor](https://open.spotify.com/album/45izQ4z9DiNXiJfviONW0o) | 3:52 |
+| 41 | [1ra\. Cita](https://open.spotify.com/track/6BOUinUGu3mTwcRgrh22Ia) | [Henry Santos](https://open.spotify.com/artist/1cUfMJtWJXfhTQvYGJQtaF) | [1ra\. Cita](https://open.spotify.com/album/0YlPvYXJhtn2a74qgG5zQ3) | 3:54 |
 | 42 | [El Corazón No Perdona](https://open.spotify.com/track/3xeKYApzfxkhvoBJmCZGwa) | [Mr\. Don](https://open.spotify.com/artist/12YP3RGVLp3c36Zi6lFRtR), [DerekVinci](https://open.spotify.com/artist/7du7SizqDeaP96ds19p1yu), [Dani J](https://open.spotify.com/artist/3TEhIeweC59okLmqFu6LWv) | [El Corazón No Perdona](https://open.spotify.com/album/55Iw0VQa08ashyxD8U8VOY) | 3:16 |
 | 43 | [La Zaza](https://open.spotify.com/track/7wbca2nUc5H5uXNpyyFBUo) | [Los Sufridos](https://open.spotify.com/artist/2tmrdVbpFzIVIOcqxvErj2) | [La Zaza](https://open.spotify.com/album/7KJIMjx3aIZuHrOWDZi1K1) | 3:24 |
 | 44 | [Ruta 66](https://open.spotify.com/track/3uMZGqWOjFQTPhgls6ZVSj) | [Dani J](https://open.spotify.com/artist/3TEhIeweC59okLmqFu6LWv) | [Ruta 66](https://open.spotify.com/album/7myyJNpaXyechOOyTuQoPA) | 3:41 |
@@ -56,7 +56,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7MTlMMRl0MD.md) - [plain]
 | 46 | [El Amante](https://open.spotify.com/track/75o9TCfKzMTpNJ5QrHvrdj) | [Wilven Bello](https://open.spotify.com/artist/6cJpv2M7hjes1BxCIfqq8B) | [Midnight Confessions](https://open.spotify.com/album/6BEAJJ5WC70dfDIoqBHurP) | 3:54 |
 | 47 | [La Rueda](https://open.spotify.com/track/1IhFRotuBhS4jJGxfk10LR) | [Ralphy Dreamz](https://open.spotify.com/artist/5elxYg57OGXnqXm6wZDmvm) | [La Rueda](https://open.spotify.com/album/4wOmtNiEwFgpJkMqpPvw2k) | 3:55 |
 | 48 | [Solo](https://open.spotify.com/track/7drxsX64tVAdhqkfa3B0D1) | [mhtresuno](https://open.spotify.com/artist/1S1AhqtlhBuOTsEaM1kAOQ) | [Solo](https://open.spotify.com/album/0v93cVeuek2BnhTDbLRcGa) | 3:10 |
-| 49 | [Sin Gravedad](https://open.spotify.com/track/1Q9apOKT7wESrkgceJVOpF) | [Mario Baro](https://open.spotify.com/artist/4svxKljLyMB1HaLbJainKP) | [Sin Gravedad](https://open.spotify.com/album/4NkQuWiViMj6ZtSqYO0Py6) | 2:56 |
-| 50 | [Cita](https://open.spotify.com/track/6qunupscDkjPmalMp3ybbs) | [Mr\. Don](https://open.spotify.com/artist/12YP3RGVLp3c36Zi6lFRtR), [DerekVinci](https://open.spotify.com/artist/7du7SizqDeaP96ds19p1yu) | [Cita](https://open.spotify.com/album/3ttKofk4OSgzyNzvAgHeSo) | 3:28 |
+| 49 | [Química](https://open.spotify.com/track/3Gq7jBOYcn2SsbTdfEFWtU) | [Johnny Sky](https://open.spotify.com/artist/3EVZsBWq5KqdtS6eVNHN8d) | [Química](https://open.spotify.com/album/4pt3YzSijT0QJBowxRd7Jm) | 3:08 |
+| 50 | [Sin Gravedad](https://open.spotify.com/track/1Q9apOKT7wESrkgceJVOpF) | [Mario Baro](https://open.spotify.com/artist/4svxKljLyMB1HaLbJainKP) | [Sin Gravedad](https://open.spotify.com/album/4NkQuWiViMj6ZtSqYO0Py6) | 2:56 |
 
-Snapshot ID: `AAAAAE/ejmV99wi51nyO1vF9OoC/P8+B`
+Snapshot ID: `AAAAAPuBlu8kD6BATbQnp15OCO5Y+rlD`

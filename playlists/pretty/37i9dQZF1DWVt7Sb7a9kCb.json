@@ -1,12 +1,12 @@
 {
   "description": "Ll\u00e9vatela tranqui con los hits m\u00e1s relajados del urbano. Nicky Jam  en portada",
-  "num_followers": 217443,
+  "num_followers": 217488,
   "original_name": "Flow Tranqui",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAOLIt33R4g/xzICPLVq6Qt8d36WA",
+  "snapshot_id": "AAAAANOEDUZAsYPiMcK7WJxfUjEEQPCB",
   "tracks": [
     {
       "added_at": "2026-11-06 06:00:20",
@@ -443,26 +443,6 @@
     {
       "added_at": "2026-11-06 06:00:20",
       "album": {
-        "name": "La Semana",
-        "url": "https://open.spotify.com/album/2vdBYs1jB7bAUC495Q1ZdO"
-      },
-      "artists": [
-        {
-          "name": "ELENA ROSE",
-          "url": "https://open.spotify.com/artist/0zO8yNnw5GQgutcIyXfGBY"
-        },
-        {
-          "name": "Manuel Turizo",
-          "url": "https://open.spotify.com/artist/0tmwSHipWxN12fsoLcFU3B"
-        }
-      ],
-      "duration_ms": 210000,
-      "name": "La Semana",
-      "url": "https://open.spotify.com/track/4NMoJRudco3Fc2EO5DCtGe"
-    },
-    {
-      "added_at": "2026-11-06 06:00:20",
-      "album": {
         "name": "\u00bfD\u00f3nde Es El After?",
         "url": "https://open.spotify.com/album/4kF3HIX0K4uSLacWe25qBG"
       },
@@ -479,6 +459,26 @@
       "duration_ms": 202386,
       "name": "Ingl\u00e9s En Miami",
       "url": "https://open.spotify.com/track/3Y1xjjepdqMP141ipYCAqA"
+    },
+    {
+      "added_at": "2026-11-06 06:00:20",
+      "album": {
+        "name": "La Semana",
+        "url": "https://open.spotify.com/album/2vdBYs1jB7bAUC495Q1ZdO"
+      },
+      "artists": [
+        {
+          "name": "ELENA ROSE",
+          "url": "https://open.spotify.com/artist/0zO8yNnw5GQgutcIyXfGBY"
+        },
+        {
+          "name": "Manuel Turizo",
+          "url": "https://open.spotify.com/artist/0tmwSHipWxN12fsoLcFU3B"
+        }
+      ],
+      "duration_ms": 210000,
+      "name": "La Semana",
+      "url": "https://open.spotify.com/track/4NMoJRudco3Fc2EO5DCtGe"
     },
     {
       "added_at": "2026-11-06 06:00:20",
@@ -595,22 +595,6 @@
     {
       "added_at": "2026-11-06 06:00:20",
       "album": {
-        "name": "Colores",
-        "url": "https://open.spotify.com/album/2mX8ktJoWvyidWBU9U8Jis"
-      },
-      "artists": [
-        {
-          "name": "J Balvin",
-          "url": "https://open.spotify.com/artist/1vyhD5VmyZ7KMfW5gqLgo5"
-        }
-      ],
-      "duration_ms": 150720,
-      "name": "Rojo",
-      "url": "https://open.spotify.com/track/380HmhwTE2NJgawn1NwkXi"
-    },
-    {
-      "added_at": "2026-11-06 06:00:20",
-      "album": {
         "name": "Entre Nosotros (Remix)",
         "url": "https://open.spotify.com/album/1RXzQq8DhpkYvvbXE9CqLm"
       },
@@ -639,22 +623,6 @@
     {
       "added_at": "2026-11-06 06:00:20",
       "album": {
-        "name": "OHNANA",
-        "url": "https://open.spotify.com/album/3IdVqIfyLPqxPZusYgifLo"
-      },
-      "artists": [
-        {
-          "name": "Kapo",
-          "url": "https://open.spotify.com/artist/3UTF2no3muGdiFXVujl94i"
-        }
-      ],
-      "duration_ms": 156577,
-      "name": "OHNANA",
-      "url": "https://open.spotify.com/track/1fTjqf10accJCDYstPwwZ6"
-    },
-    {
-      "added_at": "2026-11-06 06:00:20",
-      "album": {
         "name": "Palabras Sobran",
         "url": "https://open.spotify.com/album/6B5dqaafC0ygHJ8dUW1FOs"
       },
@@ -667,6 +635,22 @@
       "duration_ms": 216250,
       "name": "Palabras Sobran",
       "url": "https://open.spotify.com/track/4wu7jIeJCUhQJaXsXVit0e"
+    },
+    {
+      "added_at": "2026-11-06 06:00:20",
+      "album": {
+        "name": "Colores",
+        "url": "https://open.spotify.com/album/2mX8ktJoWvyidWBU9U8Jis"
+      },
+      "artists": [
+        {
+          "name": "J Balvin",
+          "url": "https://open.spotify.com/artist/1vyhD5VmyZ7KMfW5gqLgo5"
+        }
+      ],
+      "duration_ms": 150720,
+      "name": "Rojo",
+      "url": "https://open.spotify.com/track/380HmhwTE2NJgawn1NwkXi"
     },
     {
       "added_at": "2026-11-06 06:00:20",
@@ -687,6 +671,22 @@
       "duration_ms": 232853,
       "name": "Bandido",
       "url": "https://open.spotify.com/track/1xK1Gg9SxG8fy2Ya373oqb"
+    },
+    {
+      "added_at": "2026-11-06 06:00:20",
+      "album": {
+        "name": "OHNANA",
+        "url": "https://open.spotify.com/album/3IdVqIfyLPqxPZusYgifLo"
+      },
+      "artists": [
+        {
+          "name": "Kapo",
+          "url": "https://open.spotify.com/artist/3UTF2no3muGdiFXVujl94i"
+        }
+      ],
+      "duration_ms": 156577,
+      "name": "OHNANA",
+      "url": "https://open.spotify.com/track/1fTjqf10accJCDYstPwwZ6"
     },
     {
       "added_at": "2026-11-06 06:00:20",
@@ -727,26 +727,6 @@
     {
       "added_at": "2026-11-06 06:00:20",
       "album": {
-        "name": "POR SI ALGUIEN NOS ESCUCHA",
-        "url": "https://open.spotify.com/album/0t4IoD2ctBdtx0zRYc8lFe"
-      },
-      "artists": [
-        {
-          "name": "Kapo",
-          "url": "https://open.spotify.com/artist/3UTF2no3muGdiFXVujl94i"
-        },
-        {
-          "name": "Feid",
-          "url": "https://open.spotify.com/artist/2LRoIwlKmHjgvigdNGBHNo"
-        }
-      ],
-      "duration_ms": 215000,
-      "name": "X TI",
-      "url": "https://open.spotify.com/track/4TFjpINnVhINpTdrtNQIvx"
-    },
-    {
-      "added_at": "2026-11-06 06:00:20",
-      "album": {
         "name": "CULE POCO (sirena_besarico_coste\u00f1a)",
         "url": "https://open.spotify.com/album/2AjV3IQ9rioKsjNPW2JiPC"
       },
@@ -783,6 +763,26 @@
       "duration_ms": 193038,
       "name": "Santa",
       "url": "https://open.spotify.com/track/5bi0gh89wRuH2OgjdAKFsb"
+    },
+    {
+      "added_at": "2026-11-06 06:00:20",
+      "album": {
+        "name": "POR SI ALGUIEN NOS ESCUCHA",
+        "url": "https://open.spotify.com/album/0t4IoD2ctBdtx0zRYc8lFe"
+      },
+      "artists": [
+        {
+          "name": "Kapo",
+          "url": "https://open.spotify.com/artist/3UTF2no3muGdiFXVujl94i"
+        },
+        {
+          "name": "Feid",
+          "url": "https://open.spotify.com/artist/2LRoIwlKmHjgvigdNGBHNo"
+        }
+      ],
+      "duration_ms": 215000,
+      "name": "X TI",
+      "url": "https://open.spotify.com/track/4TFjpINnVhINpTdrtNQIvx"
     },
     {
       "added_at": "2026-11-06 06:00:20",
@@ -1035,6 +1035,26 @@
     {
       "added_at": "2026-11-06 06:00:20",
       "album": {
+        "name": "afroLOVA 25'",
+        "url": "https://open.spotify.com/album/6j8S3AOIOXBR1qfd3n2wHm"
+      },
+      "artists": [
+        {
+          "name": "Rels B",
+          "url": "https://open.spotify.com/artist/2IMZYfNi21MGqxopj9fWx8"
+        },
+        {
+          "name": "Kapo",
+          "url": "https://open.spotify.com/artist/3UTF2no3muGdiFXVujl94i"
+        }
+      ],
+      "duration_ms": 175200,
+      "name": "Carita Angelikal",
+      "url": "https://open.spotify.com/track/1cMU20gleQO9xYjCeni3DJ"
+    },
+    {
+      "added_at": "2026-11-06 06:00:20",
+      "album": {
         "name": "SUERTE",
         "url": "https://open.spotify.com/album/7mCiwgVTJt0k8QeLp2Q5rz"
       },
@@ -1055,26 +1075,6 @@
       "duration_ms": 193654,
       "name": "SUERTE",
       "url": "https://open.spotify.com/track/6pJj7JbS6TXCZW19BzXot6"
-    },
-    {
-      "added_at": "2026-11-06 06:00:20",
-      "album": {
-        "name": "afroLOVA 25'",
-        "url": "https://open.spotify.com/album/6j8S3AOIOXBR1qfd3n2wHm"
-      },
-      "artists": [
-        {
-          "name": "Rels B",
-          "url": "https://open.spotify.com/artist/2IMZYfNi21MGqxopj9fWx8"
-        },
-        {
-          "name": "Kapo",
-          "url": "https://open.spotify.com/artist/3UTF2no3muGdiFXVujl94i"
-        }
-      ],
-      "duration_ms": 175200,
-      "name": "Carita Angelikal",
-      "url": "https://open.spotify.com/track/1cMU20gleQO9xYjCeni3DJ"
     },
     {
       "added_at": "2026-11-06 06:00:20",
@@ -1139,22 +1139,6 @@
     {
       "added_at": "2026-11-06 06:00:20",
       "album": {
-        "name": "frente al mar",
-        "url": "https://open.spotify.com/album/0Wf0E2diHQJRdkPR12BcXs"
-      },
-      "artists": [
-        {
-          "name": "Be\u00e9le",
-          "url": "https://open.spotify.com/artist/7a0XAaPaK2aDSqa8p3QnC7"
-        }
-      ],
-      "duration_ms": 165178,
-      "name": "frente al mar",
-      "url": "https://open.spotify.com/track/60u6hcpH5Qm1M3xESdNBrB"
-    },
-    {
-      "added_at": "2026-11-06 06:00:20",
-      "album": {
         "name": "\u00bfD\u00f3nde Bailar\u00e1n Las Ni\u00f1as?",
         "url": "https://open.spotify.com/album/6BvR8xqcnvm7Gpmmnr7JKa"
       },
@@ -1171,22 +1155,18 @@
     {
       "added_at": "2026-11-06 06:00:20",
       "album": {
-        "name": "Hiekka",
-        "url": "https://open.spotify.com/album/7yLjEgbX8qIr4N1JDanGN0"
+        "name": "frente al mar",
+        "url": "https://open.spotify.com/album/0Wf0E2diHQJRdkPR12BcXs"
       },
       "artists": [
-        {
-          "name": "Nicky Jam",
-          "url": "https://open.spotify.com/artist/1SupJlEpv7RS2tPNRaHViT"
-        },
         {
           "name": "Be\u00e9le",
           "url": "https://open.spotify.com/artist/7a0XAaPaK2aDSqa8p3QnC7"
         }
       ],
-      "duration_ms": 213333,
-      "name": "Hiekka",
-      "url": "https://open.spotify.com/track/6OCNg7QchXJMww1LHMjIzb"
+      "duration_ms": 165178,
+      "name": "frente al mar",
+      "url": "https://open.spotify.com/track/60u6hcpH5Qm1M3xESdNBrB"
     },
     {
       "added_at": "2026-11-06 06:00:20",
@@ -1207,6 +1187,26 @@
       "duration_ms": 165981,
       "name": "Por Dentro",
       "url": "https://open.spotify.com/track/671fHUAB2n0MocazS1bMB8"
+    },
+    {
+      "added_at": "2026-11-06 06:00:20",
+      "album": {
+        "name": "Hiekka",
+        "url": "https://open.spotify.com/album/7yLjEgbX8qIr4N1JDanGN0"
+      },
+      "artists": [
+        {
+          "name": "Nicky Jam",
+          "url": "https://open.spotify.com/artist/1SupJlEpv7RS2tPNRaHViT"
+        },
+        {
+          "name": "Be\u00e9le",
+          "url": "https://open.spotify.com/artist/7a0XAaPaK2aDSqa8p3QnC7"
+        }
+      ],
+      "duration_ms": 213333,
+      "name": "Hiekka",
+      "url": "https://open.spotify.com/track/6OCNg7QchXJMww1LHMjIzb"
     },
     {
       "added_at": "2026-11-06 06:00:20",
@@ -1747,42 +1747,6 @@
     {
       "added_at": "2026-11-06 06:00:20",
       "album": {
-        "name": "BARAJA BENDITA",
-        "url": "https://open.spotify.com/album/1B8QJFOcpBeycykDaWttDY"
-      },
-      "artists": [
-        {
-          "name": "Becky G",
-          "url": "https://open.spotify.com/artist/4obzFoKoKRHIphyHzJ35G3"
-        }
-      ],
-      "duration_ms": 127740,
-      "name": "CHULA",
-      "url": "https://open.spotify.com/track/4SEQheyYUhSyCoOHvDdkla"
-    },
-    {
-      "added_at": "2026-11-06 06:00:20",
-      "album": {
-        "name": "ILY",
-        "url": "https://open.spotify.com/album/7ct2yMkPUUMjmgjJh9MdQW"
-      },
-      "artists": [
-        {
-          "name": "Kapo",
-          "url": "https://open.spotify.com/artist/3UTF2no3muGdiFXVujl94i"
-        },
-        {
-          "name": "Myke Towers",
-          "url": "https://open.spotify.com/artist/7iK8PXO48WeuP03g8YR51W"
-        }
-      ],
-      "duration_ms": 216621,
-      "name": "ILY",
-      "url": "https://open.spotify.com/track/5ru2w4Y7xP58IXE6m4orW0"
-    },
-    {
-      "added_at": "2026-11-06 06:00:20",
-      "album": {
         "name": "SQ (W Sound 04)",
         "url": "https://open.spotify.com/album/3jmnltwKEDgQ05N5KWyMJV"
       },
@@ -1807,6 +1771,26 @@
     {
       "added_at": "2026-11-06 06:00:20",
       "album": {
+        "name": "ILY",
+        "url": "https://open.spotify.com/album/7ct2yMkPUUMjmgjJh9MdQW"
+      },
+      "artists": [
+        {
+          "name": "Kapo",
+          "url": "https://open.spotify.com/artist/3UTF2no3muGdiFXVujl94i"
+        },
+        {
+          "name": "Myke Towers",
+          "url": "https://open.spotify.com/artist/7iK8PXO48WeuP03g8YR51W"
+        }
+      ],
+      "duration_ms": 216621,
+      "name": "ILY",
+      "url": "https://open.spotify.com/track/5ru2w4Y7xP58IXE6m4orW0"
+    },
+    {
+      "added_at": "2026-11-06 06:00:20",
+      "album": {
         "name": "MUJERON",
         "url": "https://open.spotify.com/album/5f6IItc0ZOMCnHvrnp2Iqv"
       },
@@ -1819,6 +1803,22 @@
       "duration_ms": 158750,
       "name": "MUJERON",
       "url": "https://open.spotify.com/track/5k25eY71eKcGLJ7szb669M"
+    },
+    {
+      "added_at": "2026-11-06 06:00:20",
+      "album": {
+        "name": "BARAJA BENDITA",
+        "url": "https://open.spotify.com/album/1B8QJFOcpBeycykDaWttDY"
+      },
+      "artists": [
+        {
+          "name": "Becky G",
+          "url": "https://open.spotify.com/artist/4obzFoKoKRHIphyHzJ35G3"
+        }
+      ],
+      "duration_ms": 127740,
+      "name": "CHULA",
+      "url": "https://open.spotify.com/track/4SEQheyYUhSyCoOHvDdkla"
     },
     {
       "added_at": "2026-11-06 06:00:20",

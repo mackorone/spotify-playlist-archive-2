@@ -1,12 +1,12 @@
 {
   "description": "En modo: simulacro navide\u00f1o \ud83c\udf84 \ud83c\udf85\ud83c\udffc",
-  "num_followers": 144101,
+  "num_followers": 144113,
   "original_name": "M\u00fasica Decembrina",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAADMTGrZk5SRYHm3c+S/LIxO+JMU4",
+  "snapshot_id": "AAAAAEXNAV96ZXW9gJKBuBGlwBRBBaFm",
   "tracks": [
     {
       "added_at": "2026-11-20 00:48:36",
@@ -1059,26 +1059,6 @@
     {
       "added_at": "2026-11-20 00:48:36",
       "album": {
-        "name": "Muy Tropical y Bailable",
-        "url": "https://open.spotify.com/album/4FTPpblS9F4DOT7o46A9cU"
-      },
-      "artists": [
-        {
-          "name": "Rodolfo Aicardi",
-          "url": "https://open.spotify.com/artist/3IUAZiICL3J7GlHYPgT414"
-        },
-        {
-          "name": "La Tipica Ra7",
-          "url": "https://open.spotify.com/artist/0WJbT6T0nkWfYO5zEbUPOG"
-        }
-      ],
-      "duration_ms": 220354,
-      "name": "Ojitos Hechiceros",
-      "url": "https://open.spotify.com/track/6ACbgxx9BXs64G1aWVXJOV"
-    },
-    {
-      "added_at": "2026-11-20 00:48:36",
-      "album": {
         "name": "El Baile del Siglo Con Joe Arroyo",
         "url": "https://open.spotify.com/album/3vQgQ8nrQDTop2ycPhFkTp"
       },
@@ -1095,6 +1075,26 @@
       "duration_ms": 376372,
       "name": "Rebeli\u00f3n",
       "url": "https://open.spotify.com/track/0b4VE6epbojSyLeyyuEJga"
+    },
+    {
+      "added_at": "2026-11-20 00:48:36",
+      "album": {
+        "name": "Muy Tropical y Bailable",
+        "url": "https://open.spotify.com/album/4FTPpblS9F4DOT7o46A9cU"
+      },
+      "artists": [
+        {
+          "name": "Rodolfo Aicardi",
+          "url": "https://open.spotify.com/artist/3IUAZiICL3J7GlHYPgT414"
+        },
+        {
+          "name": "La Tipica Ra7",
+          "url": "https://open.spotify.com/artist/0WJbT6T0nkWfYO5zEbUPOG"
+        }
+      ],
+      "duration_ms": 220354,
+      "name": "Ojitos Hechiceros",
+      "url": "https://open.spotify.com/track/6ACbgxx9BXs64G1aWVXJOV"
     },
     {
       "added_at": "2026-11-20 00:48:36",
@@ -1119,18 +1119,22 @@
     {
       "added_at": "2026-11-20 00:48:36",
       "album": {
-        "name": "\u00c9xitos los Embajadores Vallenatos",
-        "url": "https://open.spotify.com/album/4AcJClSsSiNwBjBAvO67rn"
+        "name": "Luis Mateus y la Nueva Generaci\u00f3n",
+        "url": "https://open.spotify.com/album/4Lym0TwNPWIATju1yAexkP"
       },
       "artists": [
         {
-          "name": "Los Embajadores Vallenatos",
-          "url": "https://open.spotify.com/artist/7fKNYbN8RoEoPyi6FoGMLf"
+          "name": "Luis Mateus",
+          "url": "https://open.spotify.com/artist/4jsqU2b9LBP6vjIGl3KWyW"
+        },
+        {
+          "name": "La Nueva Generaci\u00f3n",
+          "url": "https://open.spotify.com/artist/3yxxiR793umYevxROWGMqv"
         }
       ],
-      "duration_ms": 266949,
-      "name": "El Santo Cach\u00f3n",
-      "url": "https://open.spotify.com/track/62Dsro7boSt2kTr0YY3OtX"
+      "duration_ms": 259015,
+      "name": "Adi\u00f3s Amor",
+      "url": "https://open.spotify.com/track/0Mm50XeSEj5KGUZmQRuLfo"
     },
     {
       "added_at": "2026-11-20 00:48:36",
@@ -1147,22 +1151,6 @@
       "duration_ms": 166704,
       "name": "Arbolito de Navidad",
       "url": "https://open.spotify.com/track/2eoR1IW9sS4saeRPlXlxW9"
-    },
-    {
-      "added_at": "2026-11-20 00:48:36",
-      "album": {
-        "name": "Rep\u00edtela",
-        "url": "https://open.spotify.com/album/1S3Ao9VsfFF9v8azLqaM29"
-      },
-      "artists": [
-        {
-          "name": "Jessi Uribe",
-          "url": "https://open.spotify.com/artist/3SN7I8KV2qBwTCZ4aNDcbS"
-        }
-      ],
-      "duration_ms": 209075,
-      "name": "Rep\u00edtela",
-      "url": "https://open.spotify.com/track/6syqaRHW4FsOgdGgoWvAb1"
     },
     {
       "added_at": "2026-11-20 00:48:36",
@@ -1187,22 +1175,34 @@
     {
       "added_at": "2026-11-20 00:48:36",
       "album": {
-        "name": "Luis Mateus y la Nueva Generaci\u00f3n",
-        "url": "https://open.spotify.com/album/4Lym0TwNPWIATju1yAexkP"
+        "name": "\u00c9xitos los Embajadores Vallenatos",
+        "url": "https://open.spotify.com/album/4AcJClSsSiNwBjBAvO67rn"
       },
       "artists": [
         {
-          "name": "Luis Mateus",
-          "url": "https://open.spotify.com/artist/4jsqU2b9LBP6vjIGl3KWyW"
-        },
-        {
-          "name": "La Nueva Generaci\u00f3n",
-          "url": "https://open.spotify.com/artist/3yxxiR793umYevxROWGMqv"
+          "name": "Los Embajadores Vallenatos",
+          "url": "https://open.spotify.com/artist/7fKNYbN8RoEoPyi6FoGMLf"
         }
       ],
-      "duration_ms": 259015,
-      "name": "Adi\u00f3s Amor",
-      "url": "https://open.spotify.com/track/0Mm50XeSEj5KGUZmQRuLfo"
+      "duration_ms": 266949,
+      "name": "El Santo Cach\u00f3n",
+      "url": "https://open.spotify.com/track/62Dsro7boSt2kTr0YY3OtX"
+    },
+    {
+      "added_at": "2026-11-20 00:48:36",
+      "album": {
+        "name": "Rep\u00edtela",
+        "url": "https://open.spotify.com/album/1S3Ao9VsfFF9v8azLqaM29"
+      },
+      "artists": [
+        {
+          "name": "Jessi Uribe",
+          "url": "https://open.spotify.com/artist/3SN7I8KV2qBwTCZ4aNDcbS"
+        }
+      ],
+      "duration_ms": 209075,
+      "name": "Rep\u00edtela",
+      "url": "https://open.spotify.com/track/6syqaRHW4FsOgdGgoWvAb1"
     },
     {
       "added_at": "2026-11-20 00:48:36",
@@ -1227,26 +1227,6 @@
     {
       "added_at": "2026-11-20 00:48:36",
       "album": {
-        "name": "El Baile del Siglo Con Joe Arroyo",
-        "url": "https://open.spotify.com/album/3vQgQ8nrQDTop2ycPhFkTp"
-      },
-      "artists": [
-        {
-          "name": "Fruko Y Sus Tesos",
-          "url": "https://open.spotify.com/artist/5aAlzehdUM14I4ppq24Xob"
-        },
-        {
-          "name": "Joe Arroyo",
-          "url": "https://open.spotify.com/artist/7BFnoFhJjLWcsqmN3Hizqg"
-        }
-      ],
-      "duration_ms": 219352,
-      "name": "Tania",
-      "url": "https://open.spotify.com/track/1LARS9cn21Y31d4iX0QsbW"
-    },
-    {
-      "added_at": "2026-11-20 00:48:36",
-      "album": {
         "name": "\u00c9xitos los Tupamaros",
         "url": "https://open.spotify.com/album/6LmdmdH4QOVPXNqkdr9RWM"
       },
@@ -1263,6 +1243,26 @@
       "duration_ms": 194616,
       "name": "Tu Ausencia",
       "url": "https://open.spotify.com/track/37stDm8VrYDRNBf0bzbqH9"
+    },
+    {
+      "added_at": "2026-11-20 00:48:36",
+      "album": {
+        "name": "El Baile del Siglo Con Joe Arroyo",
+        "url": "https://open.spotify.com/album/3vQgQ8nrQDTop2ycPhFkTp"
+      },
+      "artists": [
+        {
+          "name": "Fruko Y Sus Tesos",
+          "url": "https://open.spotify.com/artist/5aAlzehdUM14I4ppq24Xob"
+        },
+        {
+          "name": "Joe Arroyo",
+          "url": "https://open.spotify.com/artist/7BFnoFhJjLWcsqmN3Hizqg"
+        }
+      ],
+      "duration_ms": 219352,
+      "name": "Tania",
+      "url": "https://open.spotify.com/track/1LARS9cn21Y31d4iX0QsbW"
     },
     {
       "added_at": "2026-11-20 00:48:36",

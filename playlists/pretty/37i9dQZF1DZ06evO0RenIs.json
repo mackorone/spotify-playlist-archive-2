@@ -6,7 +6,7 @@
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "awIwgAAAAABBKV+ZJK/3lqcU716OhU2y",
+  "snapshot_id": "awOCAAAAAACsAT1QWAhAAvZ2rG49Jguf",
   "tracks": [
     {
       "added_at": null,
@@ -463,6 +463,38 @@
     {
       "added_at": null,
       "album": {
+        "name": "It's Never Been Like That (Deluxe Version)",
+        "url": "https://open.spotify.com/album/2STZqJIh4Kf0OIU5yVgYGV"
+      },
+      "artists": [
+        {
+          "name": "Phoenix",
+          "url": "https://open.spotify.com/artist/1xU878Z1QtBldR7ru9owdU"
+        }
+      ],
+      "duration_ms": 301373,
+      "name": "North",
+      "url": "https://open.spotify.com/track/0k2TN25JrgWAFG5LRQMFD7"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Ti Amo",
+        "url": "https://open.spotify.com/album/2Hr5EY19Y7gV7K7ogk9QcR"
+      },
+      "artists": [
+        {
+          "name": "Phoenix",
+          "url": "https://open.spotify.com/artist/1xU878Z1QtBldR7ru9owdU"
+        }
+      ],
+      "duration_ms": 232680,
+      "name": "Tuttifrutti",
+      "url": "https://open.spotify.com/track/4WVvyh5TyJVoC51NX2kFyW"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Winter Solstice (Braxe + Falcon Remix)",
         "url": "https://open.spotify.com/album/7ivaa2qMMkk1RfF1TDkcYz"
       },
@@ -487,38 +519,6 @@
       "duration_ms": 240156,
       "name": "Winter Solstice - Braxe + Falcon Remix",
       "url": "https://open.spotify.com/track/5Wa4A6bu00160DzJWdyiC7"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Ti Amo",
-        "url": "https://open.spotify.com/album/2Hr5EY19Y7gV7K7ogk9QcR"
-      },
-      "artists": [
-        {
-          "name": "Phoenix",
-          "url": "https://open.spotify.com/artist/1xU878Z1QtBldR7ru9owdU"
-        }
-      ],
-      "duration_ms": 232680,
-      "name": "Tuttifrutti",
-      "url": "https://open.spotify.com/track/4WVvyh5TyJVoC51NX2kFyW"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "It's Never Been Like That (Deluxe Version)",
-        "url": "https://open.spotify.com/album/2STZqJIh4Kf0OIU5yVgYGV"
-      },
-      "artists": [
-        {
-          "name": "Phoenix",
-          "url": "https://open.spotify.com/artist/1xU878Z1QtBldR7ru9owdU"
-        }
-      ],
-      "duration_ms": 301373,
-      "name": "North",
-      "url": "https://open.spotify.com/track/0k2TN25JrgWAFG5LRQMFD7"
     },
     {
       "added_at": null,
@@ -571,22 +571,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "It's Never Been Like That (Deluxe Version)",
-        "url": "https://open.spotify.com/album/2STZqJIh4Kf0OIU5yVgYGV"
-      },
-      "artists": [
-        {
-          "name": "Phoenix",
-          "url": "https://open.spotify.com/artist/1xU878Z1QtBldR7ru9owdU"
-        }
-      ],
-      "duration_ms": 196813,
-      "name": "Rally",
-      "url": "https://open.spotify.com/track/2n21r18BendiM8hynbe7XJ"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Alpha Zulu",
         "url": "https://open.spotify.com/album/1jEwa4YdGR6FvKxWgRbJcv"
       },
@@ -599,6 +583,22 @@
       "duration_ms": 302026,
       "name": "Identical",
       "url": "https://open.spotify.com/track/33FQ0dWX1P2EqlGkBVLPbD"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "It's Never Been Like That (Deluxe Version)",
+        "url": "https://open.spotify.com/album/2STZqJIh4Kf0OIU5yVgYGV"
+      },
+      "artists": [
+        {
+          "name": "Phoenix",
+          "url": "https://open.spotify.com/artist/1xU878Z1QtBldR7ru9owdU"
+        }
+      ],
+      "duration_ms": 196813,
+      "name": "Rally",
+      "url": "https://open.spotify.com/track/2n21r18BendiM8hynbe7XJ"
     },
     {
       "added_at": null,
@@ -635,22 +635,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "It's Never Been Like That (Deluxe Version)",
-        "url": "https://open.spotify.com/album/2STZqJIh4Kf0OIU5yVgYGV"
-      },
-      "artists": [
-        {
-          "name": "Phoenix",
-          "url": "https://open.spotify.com/artist/1xU878Z1QtBldR7ru9owdU"
-        }
-      ],
-      "duration_ms": 176186,
-      "name": "Lost and Found",
-      "url": "https://open.spotify.com/track/48vZNUF25E0Q35skL9QoZP"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Alpha Zulu",
         "url": "https://open.spotify.com/album/1jEwa4YdGR6FvKxWgRbJcv"
       },
@@ -663,6 +647,22 @@
       "duration_ms": 167013,
       "name": "Season 2",
       "url": "https://open.spotify.com/track/4Dy26AYLOdCjqSadkaTYJN"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "It's Never Been Like That (Deluxe Version)",
+        "url": "https://open.spotify.com/album/2STZqJIh4Kf0OIU5yVgYGV"
+      },
+      "artists": [
+        {
+          "name": "Phoenix",
+          "url": "https://open.spotify.com/artist/1xU878Z1QtBldR7ru9owdU"
+        }
+      ],
+      "duration_ms": 176186,
+      "name": "Lost and Found",
+      "url": "https://open.spotify.com/track/48vZNUF25E0Q35skL9QoZP"
     },
     {
       "added_at": null,
@@ -699,22 +699,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Alphabetical",
-        "url": "https://open.spotify.com/album/0q1YbH7gLkklLFxNBLRKHD"
-      },
-      "artists": [
-        {
-          "name": "Phoenix",
-          "url": "https://open.spotify.com/artist/1xU878Z1QtBldR7ru9owdU"
-        }
-      ],
-      "duration_ms": 264866,
-      "name": "Love for Granted",
-      "url": "https://open.spotify.com/track/3Yrk1Ytp3Vg1IRshQud90x"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Alpha Zulu",
         "url": "https://open.spotify.com/album/1jEwa4YdGR6FvKxWgRbJcv"
       },
@@ -727,6 +711,22 @@
       "duration_ms": 209093,
       "name": "The Only One",
       "url": "https://open.spotify.com/track/3jGODTQ4xpSLp8zOby4H63"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Alphabetical",
+        "url": "https://open.spotify.com/album/0q1YbH7gLkklLFxNBLRKHD"
+      },
+      "artists": [
+        {
+          "name": "Phoenix",
+          "url": "https://open.spotify.com/artist/1xU878Z1QtBldR7ru9owdU"
+        }
+      ],
+      "duration_ms": 264866,
+      "name": "Love for Granted",
+      "url": "https://open.spotify.com/track/3Yrk1Ytp3Vg1IRshQud90x"
     },
     {
       "added_at": null,
@@ -747,22 +747,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Alphabetical",
-        "url": "https://open.spotify.com/album/0q1YbH7gLkklLFxNBLRKHD"
-      },
-      "artists": [
-        {
-          "name": "Phoenix",
-          "url": "https://open.spotify.com/artist/1xU878Z1QtBldR7ru9owdU"
-        }
-      ],
-      "duration_ms": 213800,
-      "name": "(You Can't Blame It On) Anybody",
-      "url": "https://open.spotify.com/track/1kVa8X5Ifr6XVmn8XvC1iu"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Alpha Zulu",
         "url": "https://open.spotify.com/album/1jEwa4YdGR6FvKxWgRbJcv"
       },
@@ -775,6 +759,22 @@
       "duration_ms": 184120,
       "name": "All Eyes on Me",
       "url": "https://open.spotify.com/track/3xOj709WgIHbwiwvgjAHLg"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Alphabetical",
+        "url": "https://open.spotify.com/album/0q1YbH7gLkklLFxNBLRKHD"
+      },
+      "artists": [
+        {
+          "name": "Phoenix",
+          "url": "https://open.spotify.com/artist/1xU878Z1QtBldR7ru9owdU"
+        }
+      ],
+      "duration_ms": 213800,
+      "name": "(You Can't Blame It On) Anybody",
+      "url": "https://open.spotify.com/track/1kVa8X5Ifr6XVmn8XvC1iu"
     },
     {
       "added_at": null,

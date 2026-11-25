@@ -6,7 +6,7 @@
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "awIwgAAAAAB+JLLxz3KrbCF/8cPC7AUu",
+  "snapshot_id": "awOCAAAAAAAr2C0tcc2uUYRgjuACrOKE",
   "tracks": [
     {
       "added_at": null,
@@ -67,22 +67,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Who Are You Now",
-        "url": "https://open.spotify.com/album/2CE5eeFL2vKtLvVpjgpfQy"
-      },
-      "artists": [
-        {
-          "name": "Madison Cunningham",
-          "url": "https://open.spotify.com/artist/3h9TfIgwhovQELlP2jj4xL"
-        }
-      ],
-      "duration_ms": 280293,
-      "name": "Song In My Head",
-      "url": "https://open.spotify.com/track/0SqfoSpuWsk4CJpCX2LvCD"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Tales Of America (The Second Coming)",
         "url": "https://open.spotify.com/album/53NJ8rhui9uzJ1IagwQa4V"
       },
@@ -103,22 +87,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "Age of Apathy",
-        "url": "https://open.spotify.com/album/0GvP6JkCysq2idJCmIxqBo"
+        "name": "Who Are You Now",
+        "url": "https://open.spotify.com/album/2CE5eeFL2vKtLvVpjgpfQy"
       },
       "artists": [
-        {
-          "name": "Aoife O'Donovan",
-          "url": "https://open.spotify.com/artist/1f3ubTd6eyxuy30ddDJQQa"
-        },
         {
           "name": "Madison Cunningham",
           "url": "https://open.spotify.com/artist/3h9TfIgwhovQELlP2jj4xL"
         }
       ],
-      "duration_ms": 212255,
-      "name": "Passengers",
-      "url": "https://open.spotify.com/track/4DQFYIY3Dg3LwpSAEFWoi2"
+      "duration_ms": 280293,
+      "name": "Song In My Head",
+      "url": "https://open.spotify.com/track/0SqfoSpuWsk4CJpCX2LvCD"
     },
     {
       "added_at": null,
@@ -139,6 +119,26 @@
       "duration_ms": 253213,
       "name": "Side By Side",
       "url": "https://open.spotify.com/track/2BtUkMC928pz4Yqz27ZQo9"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Age of Apathy",
+        "url": "https://open.spotify.com/album/0GvP6JkCysq2idJCmIxqBo"
+      },
+      "artists": [
+        {
+          "name": "Aoife O'Donovan",
+          "url": "https://open.spotify.com/artist/1f3ubTd6eyxuy30ddDJQQa"
+        },
+        {
+          "name": "Madison Cunningham",
+          "url": "https://open.spotify.com/artist/3h9TfIgwhovQELlP2jj4xL"
+        }
+      ],
+      "duration_ms": 212255,
+      "name": "Passengers",
+      "url": "https://open.spotify.com/track/4DQFYIY3Dg3LwpSAEFWoi2"
     },
     {
       "added_at": null,
@@ -199,26 +199,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Synonym",
-        "url": "https://open.spotify.com/album/6ssRIhqoOblT5x1xdJDkJQ"
-      },
-      "artists": [
-        {
-          "name": "Meshell Ndegeocello",
-          "url": "https://open.spotify.com/artist/0uZRjholJ0fVC2J9EvnYnj"
-        },
-        {
-          "name": "Madison Cunningham",
-          "url": "https://open.spotify.com/artist/3h9TfIgwhovQELlP2jj4xL"
-        }
-      ],
-      "duration_ms": 259938,
-      "name": "It Ain't Me Babe (with Madison Cunningham)",
-      "url": "https://open.spotify.com/track/54IZNX0m68y3swRlkldfiG"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Djesse Vol. 4",
         "url": "https://open.spotify.com/album/13r6eqjYlKELFQlNvVCBz1"
       },
@@ -239,6 +219,26 @@
       "duration_ms": 291200,
       "name": "Summer Rain (feat. Madison Cunningham & Chris Thile)",
       "url": "https://open.spotify.com/track/5Mf8pNKP5NlUKL2cbE81iU"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Synonym",
+        "url": "https://open.spotify.com/album/6ssRIhqoOblT5x1xdJDkJQ"
+      },
+      "artists": [
+        {
+          "name": "Meshell Ndegeocello",
+          "url": "https://open.spotify.com/artist/0uZRjholJ0fVC2J9EvnYnj"
+        },
+        {
+          "name": "Madison Cunningham",
+          "url": "https://open.spotify.com/artist/3h9TfIgwhovQELlP2jj4xL"
+        }
+      ],
+      "duration_ms": 259938,
+      "name": "It Ain't Me Babe (with Madison Cunningham)",
+      "url": "https://open.spotify.com/track/54IZNX0m68y3swRlkldfiG"
     },
     {
       "added_at": null,
@@ -275,26 +275,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Cunningham Bird",
-        "url": "https://open.spotify.com/album/7oqmbxce6KT0PZ8manQXJB"
-      },
-      "artists": [
-        {
-          "name": "Andrew Bird",
-          "url": "https://open.spotify.com/artist/4uSftVc3FPWe6RJuMZNEe9"
-        },
-        {
-          "name": "Madison Cunningham",
-          "url": "https://open.spotify.com/artist/3h9TfIgwhovQELlP2jj4xL"
-        }
-      ],
-      "duration_ms": 252960,
-      "name": "Without A Leg To Stand On",
-      "url": "https://open.spotify.com/track/4CDF9sHXsSNSNUGOgvFI3f"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "RUSHMERE",
         "url": "https://open.spotify.com/album/15oPzWZQmZyyrsJt4st3U4"
       },
@@ -311,6 +291,26 @@
       "duration_ms": 186813,
       "name": "Blood On The Page",
       "url": "https://open.spotify.com/track/1s7fzrM3FdNDcNYc5i85ZJ"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Cunningham Bird",
+        "url": "https://open.spotify.com/album/7oqmbxce6KT0PZ8manQXJB"
+      },
+      "artists": [
+        {
+          "name": "Andrew Bird",
+          "url": "https://open.spotify.com/artist/4uSftVc3FPWe6RJuMZNEe9"
+        },
+        {
+          "name": "Madison Cunningham",
+          "url": "https://open.spotify.com/artist/3h9TfIgwhovQELlP2jj4xL"
+        }
+      ],
+      "duration_ms": 252960,
+      "name": "Without A Leg To Stand On",
+      "url": "https://open.spotify.com/track/4CDF9sHXsSNSNUGOgvFI3f"
     },
     {
       "added_at": null,
@@ -711,22 +711,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "Billboard Heart",
-        "url": "https://open.spotify.com/album/7n8ZhTHwFTpKF5u584a53t"
+        "name": "Cunningham Bird",
+        "url": "https://open.spotify.com/album/7oqmbxce6KT0PZ8manQXJB"
       },
       "artists": [
         {
-          "name": "Deep Sea Diver",
-          "url": "https://open.spotify.com/artist/6CD0HbcaKmuVB3NHJJgSdH"
+          "name": "Andrew Bird",
+          "url": "https://open.spotify.com/artist/4uSftVc3FPWe6RJuMZNEe9"
         },
         {
           "name": "Madison Cunningham",
           "url": "https://open.spotify.com/artist/3h9TfIgwhovQELlP2jj4xL"
         }
       ],
-      "duration_ms": 282200,
-      "name": "Let Me Go (feat. Madison Cunningham)",
-      "url": "https://open.spotify.com/track/3aYhXEOlMA4Fti35yLXgrX"
+      "duration_ms": 151213,
+      "name": "Lola (My Love)",
+      "url": "https://open.spotify.com/track/6xfbp79nVK2quJDtoZyUPe"
     },
     {
       "added_at": null,
@@ -747,22 +747,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "Cunningham Bird",
-        "url": "https://open.spotify.com/album/7oqmbxce6KT0PZ8manQXJB"
+        "name": "Billboard Heart",
+        "url": "https://open.spotify.com/album/7n8ZhTHwFTpKF5u584a53t"
       },
       "artists": [
         {
-          "name": "Andrew Bird",
-          "url": "https://open.spotify.com/artist/4uSftVc3FPWe6RJuMZNEe9"
+          "name": "Deep Sea Diver",
+          "url": "https://open.spotify.com/artist/6CD0HbcaKmuVB3NHJJgSdH"
         },
         {
           "name": "Madison Cunningham",
           "url": "https://open.spotify.com/artist/3h9TfIgwhovQELlP2jj4xL"
         }
       ],
-      "duration_ms": 151213,
-      "name": "Lola (My Love)",
-      "url": "https://open.spotify.com/track/6xfbp79nVK2quJDtoZyUPe"
+      "duration_ms": 282200,
+      "name": "Let Me Go (feat. Madison Cunningham)",
+      "url": "https://open.spotify.com/track/3aYhXEOlMA4Fti35yLXgrX"
     },
     {
       "added_at": null,
@@ -787,18 +787,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "Revealer",
-        "url": "https://open.spotify.com/album/3flejyQLaN7EolO3Vmg31D"
+        "name": "Send My Regards",
+        "url": "https://open.spotify.com/album/0P0fxg3LcDZuYnMNqSlBmH"
       },
       "artists": [
+        {
+          "name": "Anthony da Costa",
+          "url": "https://open.spotify.com/artist/59FeKdChfWED6sfb6QQbzj"
+        },
         {
           "name": "Madison Cunningham",
           "url": "https://open.spotify.com/artist/3h9TfIgwhovQELlP2jj4xL"
         }
       ],
-      "duration_ms": 262727,
-      "name": "Sunshine Over The Counter",
-      "url": "https://open.spotify.com/track/6OQEgClxANfwxaRCc8zrHg"
+      "duration_ms": 247893,
+      "name": "Send My Regards",
+      "url": "https://open.spotify.com/track/4k5N65CQWpIFuLmLOfSyRI"
     },
     {
       "added_at": null,
@@ -819,22 +823,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "Send My Regards",
-        "url": "https://open.spotify.com/album/0P0fxg3LcDZuYnMNqSlBmH"
+        "name": "Revealer",
+        "url": "https://open.spotify.com/album/3flejyQLaN7EolO3Vmg31D"
       },
       "artists": [
-        {
-          "name": "Anthony da Costa",
-          "url": "https://open.spotify.com/artist/59FeKdChfWED6sfb6QQbzj"
-        },
         {
           "name": "Madison Cunningham",
           "url": "https://open.spotify.com/artist/3h9TfIgwhovQELlP2jj4xL"
         }
       ],
-      "duration_ms": 247893,
-      "name": "Send My Regards",
-      "url": "https://open.spotify.com/track/4k5N65CQWpIFuLmLOfSyRI"
+      "duration_ms": 262727,
+      "name": "Sunshine Over The Counter",
+      "url": "https://open.spotify.com/track/6OQEgClxANfwxaRCc8zrHg"
     },
     {
       "added_at": null,

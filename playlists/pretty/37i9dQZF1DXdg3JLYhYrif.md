@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdg3JLYhYrif.md) - [plain]
 
 > Hits brasileiros dos últimos anos para animar sua faxina.
 
-[Spotify](https://open.spotify.com/user/spotify) - 378,934 likes - 60 songs - 3 hr 4 min
+[Spotify](https://open.spotify.com/user/spotify) - 378,936 likes - 60 songs - 3 hr 4 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -25,8 +25,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdg3JLYhYrif.md) - [plain]
 | 15 | [Meu Mundo](https://open.spotify.com/track/1hw5UuO6s1DRAJmCn4Nc1H) | [WC no Beat](https://open.spotify.com/artist/2QjS2N6sORI7H4qbf6xitS), [Pk](https://open.spotify.com/artist/5xYkM2vMrE23taj6tl7qkm), [MC Cabelinho](https://open.spotify.com/artist/1WQBwwssN6r8DSjUlkyUGW), [MC Hariel](https://open.spotify.com/artist/09bMYbg60r42iQsG8afMnA), [Orochi](https://open.spotify.com/artist/3rfM2cGqF6DB0kUyytMkXx) | [18K](https://open.spotify.com/album/5STh8ZE7MwksBxQo6APYbo) | 4:44 |
 | 16 | [Vai malandra \(feat\. Tropkillaz & DJ Yuri Martins\)](https://open.spotify.com/track/6u0EAxf1OJTLS7CvInuNd7) | [Anitta](https://open.spotify.com/artist/7FNnA9vBm6EKceENgCGRMb), [ZAAC](https://open.spotify.com/artist/76Xa625geVw0Q7BdyxNjA2), [Maejor](https://open.spotify.com/artist/3XcCT5MPlQPWFTJyzXbfuX), [Tropkillaz](https://open.spotify.com/artist/5bzWtCkjIAMgN93gLt56SO), [DJ Yuri Martins](https://open.spotify.com/artist/0xA8Rmfl9di0sVaPl9AyR9) | [Vai malandra \(feat\. Tropkillaz & DJ Yuri Martins\)](https://open.spotify.com/album/64qlhmKkqbgdezGE9vP5YK) | 3:21 |
 | 17 | [Vingança \- Ao Vivo](https://open.spotify.com/track/7KdcbYcVF8LkQeQcTYOixJ) | [Luan Santana](https://open.spotify.com/artist/3qvcCP2J0fWi0m0uQDUf6r), [MC Kekel](https://open.spotify.com/artist/2ZXnTEyYopSLCDiz5Z0XIf) | [Live\-Móvel \(Ao Vivo\)](https://open.spotify.com/album/4ypgnFdLUnA00qg9a6Z1k2) | 3:01 |
-| 18 | [Cobertor de Orelha \- Ao Vivo](https://open.spotify.com/track/1XCKlzIqaehohdUTihetGN) | [Turma do Pagode](https://open.spotify.com/artist/5JG9GISYjRLQUJMH2C6iJ5) | [Misturadin \(Ao Vivo\)](https://open.spotify.com/album/00XeMtw9lHuOzG2stN4ny4) | 2:36 |
-| 19 | [Regime Fechado \- Ao Vivo](https://open.spotify.com/track/3laDGpbCmdrGOhjrcYIBYB) | [Simone & Simaria](https://open.spotify.com/artist/0MInKJqZscEeNc5K3K0mkE) | [Simone & Simaria \(Ao Vivo\)](https://open.spotify.com/album/3bPPe3v10wYVuUw10f8uUM) | 3:52 |
+| 18 | [Regime Fechado \- Ao Vivo](https://open.spotify.com/track/3laDGpbCmdrGOhjrcYIBYB) | [Simone & Simaria](https://open.spotify.com/artist/0MInKJqZscEeNc5K3K0mkE) | [Simone & Simaria \(Ao Vivo\)](https://open.spotify.com/album/3bPPe3v10wYVuUw10f8uUM) | 3:52 |
+| 19 | [Cobertor de Orelha \- Ao Vivo](https://open.spotify.com/track/1XCKlzIqaehohdUTihetGN) | [Turma do Pagode](https://open.spotify.com/artist/5JG9GISYjRLQUJMH2C6iJ5) | [Misturadin \(Ao Vivo\)](https://open.spotify.com/album/00XeMtw9lHuOzG2stN4ny4) | 2:36 |
 | 20 | [Cerveja De Garrafa \(Fumaça Que Eu Faço\) \- Ao Vivo Em São Paulo / 2017](https://open.spotify.com/track/2PADJK4rhdklqFLQFa5oMX) | [Atitude 67](https://open.spotify.com/artist/1vp5pm1DluN0sNXx4tMZzo) | [Atitude 67 \(Ao Vivo\)](https://open.spotify.com/album/5hxexa4StN8STmpxFQaG9n) | 3:30 |
 | 21 | [Fuleragem](https://open.spotify.com/track/6tuzPD1zPPvwMbGiD0TBay) | [MC WM](https://open.spotify.com/artist/14D0I0RYqvIorkPL2EWoQh) | [Fuleragem](https://open.spotify.com/album/0tyHlKvPDsGxeCzqS12iPT) | 2:21 |
 | 22 | [Acordando o Prédio](https://open.spotify.com/track/40bK2uosUmAS92c17n98xd) | [Luan Santana](https://open.spotify.com/artist/3qvcCP2J0fWi0m0uQDUf6r) | [Acordando o Prédio](https://open.spotify.com/album/4LlZtbDgmU4SkRiALN4FAS) | 3:38 |
@@ -69,4 +69,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdg3JLYhYrif.md) - [plain]
 | 59 | [Cheguei](https://open.spotify.com/track/6cbZb9mVAc5s8HtwklLoI0) | [LUDMILLA](https://open.spotify.com/artist/3CDoRporvSjdzTrm99a3gi) | [A danada sou eu](https://open.spotify.com/album/4JZQXCD2TwUZmxSLlMDRoX) | 2:54 |
 | 60 | [Ta Tum Tum](https://open.spotify.com/track/6etab3UBCo5GOTMZqUvRka) | [MC Kevinho](https://open.spotify.com/artist/1mXAhKnZEdF6rotyyd4GBi), [Simone & Simaria](https://open.spotify.com/artist/0MInKJqZscEeNc5K3K0mkE) | [Ta Tum Tum](https://open.spotify.com/album/7ebtmJ8DgEa0AranPQOcBI) | 2:44 |
 
-Snapshot ID: `AAAAAEeZokXncx+k3zKZjXijYUR5wL2Y`
+Snapshot ID: `AAAAAKwhwE2Ez7d6VDWmid0Ozbahgtnd`

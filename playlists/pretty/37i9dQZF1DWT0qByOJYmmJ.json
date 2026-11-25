@@ -1,12 +1,12 @@
 {
   "description": "Tristeza independiente para aquellos d\u00edas de baj\u00f3n. Pehuenche, Renee Mooi en portada. ",
-  "num_followers": 625845,
+  "num_followers": 625817,
   "original_name": "Qu\u00e9 Sad!",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAALycIMqchoXVjKg7MEJM8B+IVwJx",
+  "snapshot_id": "AAAAALJalatcfC1y+m8/xtLRpd9izRtH",
   "tracks": [
     {
       "added_at": "2026-11-06 06:00:06",
@@ -595,6 +595,22 @@
     {
       "added_at": "2026-11-06 06:00:06",
       "album": {
+        "name": "C\u00d3MO RESPIRAR???",
+        "url": "https://open.spotify.com/album/4d6dB3zVorvbqroywYr09q"
+      },
+      "artists": [
+        {
+          "name": "HUMBE",
+          "url": "https://open.spotify.com/artist/1b7AEdUSudOQoZF5ebUxCL"
+        }
+      ],
+      "duration_ms": 221075,
+      "name": "C\u00d3MO RESPIRAR???",
+      "url": "https://open.spotify.com/track/0K7JLUqCpPJrFRz4Eb9g14"
+    },
+    {
+      "added_at": "2026-11-06 06:00:06",
+      "album": {
         "name": "MIS L\u00c1GRIMAS",
         "url": "https://open.spotify.com/album/0h8ySx6u9eLkaW42GhVXvA"
       },
@@ -611,22 +627,6 @@
       "duration_ms": 266150,
       "name": "MIS L\u00c1GRIMAS",
       "url": "https://open.spotify.com/track/3nBTjrgTyKW7hQwBTfa63J"
-    },
-    {
-      "added_at": "2026-11-06 06:00:06",
-      "album": {
-        "name": "C\u00d3MO RESPIRAR???",
-        "url": "https://open.spotify.com/album/4d6dB3zVorvbqroywYr09q"
-      },
-      "artists": [
-        {
-          "name": "HUMBE",
-          "url": "https://open.spotify.com/artist/1b7AEdUSudOQoZF5ebUxCL"
-        }
-      ],
-      "duration_ms": 221075,
-      "name": "C\u00d3MO RESPIRAR???",
-      "url": "https://open.spotify.com/track/0K7JLUqCpPJrFRz4Eb9g14"
     },
     {
       "added_at": "2026-11-06 06:00:06",
@@ -883,18 +883,18 @@
     {
       "added_at": "2026-11-06 06:00:06",
       "album": {
-        "name": "La Despedida",
-        "url": "https://open.spotify.com/album/7kIG2qcC1fEiIi4bOjF3qE"
+        "name": "Perd\u00ed",
+        "url": "https://open.spotify.com/album/2Q4btBxowoXPwjO0fMiJme"
       },
       "artists": [
         {
-          "name": "Pehuenche",
-          "url": "https://open.spotify.com/artist/7oXCcD0gC5pmtZk0HIxOhk"
+          "name": "El David",
+          "url": "https://open.spotify.com/artist/61h5RLs6eo1eapzuDzoA5b"
         }
       ],
-      "duration_ms": 226018,
-      "name": "La Despedida",
-      "url": "https://open.spotify.com/track/47yunkbH5ZSaT7zcRX2UZX"
+      "duration_ms": 144000,
+      "name": "Perd\u00ed",
+      "url": "https://open.spotify.com/track/5WGQuK64aA6k2xpjUxAek7"
     },
     {
       "added_at": "2026-11-06 06:00:06",
@@ -919,66 +919,18 @@
     {
       "added_at": "2026-11-06 06:00:06",
       "album": {
-        "name": "Perd\u00ed",
-        "url": "https://open.spotify.com/album/2Q4btBxowoXPwjO0fMiJme"
+        "name": "La Despedida",
+        "url": "https://open.spotify.com/album/7kIG2qcC1fEiIi4bOjF3qE"
       },
       "artists": [
         {
-          "name": "El David",
-          "url": "https://open.spotify.com/artist/61h5RLs6eo1eapzuDzoA5b"
+          "name": "Pehuenche",
+          "url": "https://open.spotify.com/artist/7oXCcD0gC5pmtZk0HIxOhk"
         }
       ],
-      "duration_ms": 144000,
-      "name": "Perd\u00ed",
-      "url": "https://open.spotify.com/track/5WGQuK64aA6k2xpjUxAek7"
-    },
-    {
-      "added_at": "2026-11-06 06:00:06",
-      "album": {
-        "name": "La Perra Soledad",
-        "url": "https://open.spotify.com/album/4KxzEIFakAHj2O5jClpLbX"
-      },
-      "artists": [
-        {
-          "name": "Arroba Nat",
-          "url": "https://open.spotify.com/artist/4Srl3qf5e1RfnXi5wBlIL4"
-        }
-      ],
-      "duration_ms": 188228,
-      "name": "La Perra Soledad",
-      "url": "https://open.spotify.com/track/1s7y3gBwzBpucREn0Pgwxr"
-    },
-    {
-      "added_at": "2026-11-06 06:00:06",
-      "album": {
-        "name": "Aeroplanos",
-        "url": "https://open.spotify.com/album/4Ar13KcjSsBGCWmcueqYtz"
-      },
-      "artists": [
-        {
-          "name": "Mi Sobrino Memo",
-          "url": "https://open.spotify.com/artist/2ae7hwWgesyGJVI2vebofH"
-        }
-      ],
-      "duration_ms": 239199,
-      "name": "Aeroplanos",
-      "url": "https://open.spotify.com/track/1ujis0ZrwUNGVXgjvu4uCU"
-    },
-    {
-      "added_at": "2026-11-06 06:00:06",
-      "album": {
-        "name": "La Vida Nos Hizo En Pares",
-        "url": "https://open.spotify.com/album/5K2ZzoGMtuuml2Bg2ueaZQ"
-      },
-      "artists": [
-        {
-          "name": "Charlie Rodd",
-          "url": "https://open.spotify.com/artist/2vylKAxeoJ2dAwIi9ck762"
-        }
-      ],
-      "duration_ms": 177450,
-      "name": "La Vida Nos Hizo En Pares",
-      "url": "https://open.spotify.com/track/3gXaySyXvlEfzUNgiJJgE7"
+      "duration_ms": 226018,
+      "name": "La Despedida",
+      "url": "https://open.spotify.com/track/47yunkbH5ZSaT7zcRX2UZX"
     },
     {
       "added_at": "2026-11-06 06:00:06",
@@ -999,6 +951,54 @@
       "duration_ms": 196890,
       "name": "Cupido - Ac\u00fastico",
       "url": "https://open.spotify.com/track/2ffVeHS5MsCF1M7w95lyJk"
+    },
+    {
+      "added_at": "2026-11-06 06:00:06",
+      "album": {
+        "name": "Aeroplanos",
+        "url": "https://open.spotify.com/album/4Ar13KcjSsBGCWmcueqYtz"
+      },
+      "artists": [
+        {
+          "name": "Mi Sobrino Memo",
+          "url": "https://open.spotify.com/artist/2ae7hwWgesyGJVI2vebofH"
+        }
+      ],
+      "duration_ms": 239199,
+      "name": "Aeroplanos",
+      "url": "https://open.spotify.com/track/1ujis0ZrwUNGVXgjvu4uCU"
+    },
+    {
+      "added_at": "2026-11-06 06:00:06",
+      "album": {
+        "name": "La Perra Soledad",
+        "url": "https://open.spotify.com/album/4KxzEIFakAHj2O5jClpLbX"
+      },
+      "artists": [
+        {
+          "name": "Arroba Nat",
+          "url": "https://open.spotify.com/artist/4Srl3qf5e1RfnXi5wBlIL4"
+        }
+      ],
+      "duration_ms": 188228,
+      "name": "La Perra Soledad",
+      "url": "https://open.spotify.com/track/1s7y3gBwzBpucREn0Pgwxr"
+    },
+    {
+      "added_at": "2026-11-06 06:00:06",
+      "album": {
+        "name": "La Vida Nos Hizo En Pares",
+        "url": "https://open.spotify.com/album/5K2ZzoGMtuuml2Bg2ueaZQ"
+      },
+      "artists": [
+        {
+          "name": "Charlie Rodd",
+          "url": "https://open.spotify.com/artist/2vylKAxeoJ2dAwIi9ck762"
+        }
+      ],
+      "duration_ms": 177450,
+      "name": "La Vida Nos Hizo En Pares",
+      "url": "https://open.spotify.com/track/3gXaySyXvlEfzUNgiJJgE7"
     },
     {
       "added_at": "2026-11-06 06:00:06",

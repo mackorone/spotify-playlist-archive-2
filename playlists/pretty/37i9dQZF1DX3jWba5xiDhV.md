@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3jWba5xiDhV.md) - [plain]
 
 > When the dancefloor calls your name, that's amore.
 
-[Spotify](https://open.spotify.com/user/spotify) - 435,643 likes - 75 songs - 5 hr 57 min
+[Spotify](https://open.spotify.com/user/spotify) - 435,710 likes - 75 songs - 5 hr 57 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -38,11 +38,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3jWba5xiDhV.md) - [plain]
 | 28 | [Dancer](https://open.spotify.com/track/4lteGaLzU5veJOe6wnOvz4) | [Gino Soccio](https://open.spotify.com/artist/3q2AjYY7FmiMh29bKki4EE) | [Outline](https://open.spotify.com/album/71NzsQgmjQ5rIm33Hpjv2V) | 8:28 |
 | 29 | [Marechià](https://open.spotify.com/track/1gE7p3b4J8p4ivOCR2CO0Y) | [Nu Genea](https://open.spotify.com/artist/77J3V0V7sEOf5ifCDBSNaJ), [Célia Kameni](https://open.spotify.com/artist/7dSwsPGp84lyzlAvuqQhLt) | [Marechià](https://open.spotify.com/album/2VWCyefmIWJn1trgychc0W) | 4:24 |
 | 30 | [Another Life \- Original](https://open.spotify.com/track/6Yo813UNQqb04YoU1wYz5e) | [Kano](https://open.spotify.com/artist/24DinDXSaOyHPz3JhdL9Qb) | [Another Life \(LP\)](https://open.spotify.com/album/6l4UUXmkTxaVmZtUxkl9xw) | 7:12 |
-| 31 | [Mediterranea \- Dumar Remix](https://open.spotify.com/track/61mjD3RK2LsWRvsi3WgRVx) | [Giuni Russo](https://open.spotify.com/artist/5Is5BvLZyxtBkp3VrXm5t3), [Dumar](https://open.spotify.com/artist/6Wqx7fxXflcJITUrFGx5Ba) | [Mediterranea \(Dumar Remix\)](https://open.spotify.com/album/6VogMpM26iauNOiyWvLSf4) | 3:04 |
-| 32 | [Tonight](https://open.spotify.com/track/6CTv5qKVvkxsvSRQfC6SjO) | [Suzy Q](https://open.spotify.com/artist/4chxVeRqRTbEAi1VtJa6vA) | [I Need You Tonite / Tonight](https://open.spotify.com/album/25RZ0JqMukSLQhdYsFpJ67) | 6:30 |
-| 33 | [Negroni Love](https://open.spotify.com/track/3zHxKd4WQKOSSqVhibeEFh) | [Mind Enterprises](https://open.spotify.com/artist/5pN1DJhPFDKso4OtC0QhnB) | [Negroni Love](https://open.spotify.com/album/3OWuVZ3kSiQ4QDjpttxN1s) | 2:38 |
+| 31 | [Tonight](https://open.spotify.com/track/6CTv5qKVvkxsvSRQfC6SjO) | [Suzy Q](https://open.spotify.com/artist/4chxVeRqRTbEAi1VtJa6vA) | [I Need You Tonite / Tonight](https://open.spotify.com/album/25RZ0JqMukSLQhdYsFpJ67) | 6:30 |
+| 32 | [Mediterranea \- Dumar Remix](https://open.spotify.com/track/61mjD3RK2LsWRvsi3WgRVx) | [Giuni Russo](https://open.spotify.com/artist/5Is5BvLZyxtBkp3VrXm5t3), [Dumar](https://open.spotify.com/artist/6Wqx7fxXflcJITUrFGx5Ba) | [Mediterranea \(Dumar Remix\)](https://open.spotify.com/album/6VogMpM26iauNOiyWvLSf4) | 3:04 |
+| 33 | [No Tengo Dinero](https://open.spotify.com/track/27Mvfc9nYszQDF6S84J39D) | [Righeira](https://open.spotify.com/artist/6hfVCgKTJbLM6M18e2z7OI) | [The Singles 83/87](https://open.spotify.com/album/41jWthqGJOAFexx6xC65Y4) | 3:20 |
 | 34 | [Onenon](https://open.spotify.com/track/7Aw5qQy9zeg9ZGtsOQAcQA) | [Nu Genea](https://open.spotify.com/artist/77J3V0V7sEOf5ifCDBSNaJ), [Tom Misch](https://open.spotify.com/artist/1uiEZYehlNivdK3iQyAbye) | [People of the Moon](https://open.spotify.com/album/7b2loBX3KU66zmHk4UI30K) | 4:04 |
-| 35 | [No Tengo Dinero](https://open.spotify.com/track/27Mvfc9nYszQDF6S84J39D) | [Righeira](https://open.spotify.com/artist/6hfVCgKTJbLM6M18e2z7OI) | [The Singles 83/87](https://open.spotify.com/album/41jWthqGJOAFexx6xC65Y4) | 3:20 |
+| 35 | [Negroni Love](https://open.spotify.com/track/3zHxKd4WQKOSSqVhibeEFh) | [Mind Enterprises](https://open.spotify.com/artist/5pN1DJhPFDKso4OtC0QhnB) | [Negroni Love](https://open.spotify.com/album/3OWuVZ3kSiQ4QDjpttxN1s) | 2:38 |
 | 36 | [One for You, One for Me](https://open.spotify.com/track/6I12Vl7TiKpYckZaezSEui) | [La Bionda](https://open.spotify.com/artist/64KxTrl5ovS7lD7pSNov9i) | [The Collection](https://open.spotify.com/album/5YZvjQajxWFGPxJMcPTwDT) | 3:34 |
 | 37 | [Il veliero \- Remastered](https://open.spotify.com/track/1nAu4E9hsyhIDf8S192m68) | [Lucio Battisti](https://open.spotify.com/artist/2caOYPej26UoQOyFnzXW3G) | [Lucio Battisti, la batteria, il contrabbasso, eccetera](https://open.spotify.com/album/4Zegl0FIvsJD0nG7yJyHqd) | 6:01 |
 | 38 | [Visitors](https://open.spotify.com/track/05ny0VoHFBDeqAxDRj77jn) | [Koto](https://open.spotify.com/artist/03Qx8J2OxTAGgZqZ4rnaB0) | [Greatest Hits &amp; Remixes](https://open.spotify.com/album/5Hpk5wBQIX2ClSSv7yLAfo) | 3:32 |
@@ -75,13 +75,13 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3jWba5xiDhV.md) - [plain]
 | 65 | [Dammi un'idea](https://open.spotify.com/track/7DrO38olLryjXBoxqKPqHN) | [Bruno Belissimo](https://open.spotify.com/artist/5LExfPIVArSHdWN83U4STI), [Whitemary](https://open.spotify.com/artist/5bfb49rPCcTFUqn6SVX8nt) | [Dammi un'idea](https://open.spotify.com/album/1Y6CC1upQq0zT8hsuhTHKj) | 3:21 |
 | 66 | [Kalimba de luna](https://open.spotify.com/track/1GhgNF88EQEhpGpBApiZfc) | [Tony Esposito](https://open.spotify.com/artist/2E236rsxSkaqZfJpv57gYF) | [The Sound of Tony Esposito](https://open.spotify.com/album/3xaaztf2ZXiBbjETpSTEQC) | 5:13 |
 | 67 | [Discamore](https://open.spotify.com/track/6Kviwj20NGF2KQQ2Jke1cB) | [Dov'è Liana](https://open.spotify.com/artist/0iZfB56PLEsG9T03C2hjhK) | [Discamore](https://open.spotify.com/album/7MrTy86ZjbVidUkrwAcHiU) | 3:44 |
-| 68 | [Tacchini](https://open.spotify.com/track/6YpeSOKGqvxO8M8K5SlsjQ) | [Mind Enterprises](https://open.spotify.com/artist/5pN1DJhPFDKso4OtC0QhnB) | [Tacchini](https://open.spotify.com/album/3j9gagsPfqOmdi7jB0F2tG) | 4:49 |
-| 69 | [Baciami](https://open.spotify.com/track/0trp5xcRDZwQiL7zatx8gs) | [Lorenzo\_BITW](https://open.spotify.com/artist/3Za28S9hIyeyGQmAk8d4FV), [Produkkt](https://open.spotify.com/artist/10AGP2d21KeHinRjJNaf4b), [Giorgi](https://open.spotify.com/artist/2NPewIaZgMicN9HeOZjuoN) | [Baciami](https://open.spotify.com/album/1Yfw5ZfDELSGZHbTvjWofP) | 2:56 |
+| 68 | [Baciami](https://open.spotify.com/track/0trp5xcRDZwQiL7zatx8gs) | [Lorenzo\_BITW](https://open.spotify.com/artist/3Za28S9hIyeyGQmAk8d4FV), [Produkkt](https://open.spotify.com/artist/10AGP2d21KeHinRjJNaf4b), [Giorgi](https://open.spotify.com/artist/2NPewIaZgMicN9HeOZjuoN) | [Baciami](https://open.spotify.com/album/1Yfw5ZfDELSGZHbTvjWofP) | 2:56 |
+| 69 | [Tacchini](https://open.spotify.com/track/6YpeSOKGqvxO8M8K5SlsjQ) | [Mind Enterprises](https://open.spotify.com/artist/5pN1DJhPFDKso4OtC0QhnB) | [Tacchini](https://open.spotify.com/album/3j9gagsPfqOmdi7jB0F2tG) | 4:49 |
 | 70 | [Signora](https://open.spotify.com/track/0jYE7oP3YhnaQuJNijQw5d) | [Popa](https://open.spotify.com/artist/3v3PilwftiZCpC4msQRNyB) | [Nuda Proprietà](https://open.spotify.com/album/16nWe1V9fqPFYuspfzt5Nn) | 3:10 |
 | 71 | [Cafè \- Original 1979 Version](https://open.spotify.com/track/6bKOUB4zXxYFhG4a3x6JGZ) | [Dd Sound](https://open.spotify.com/artist/7q9FUGUCmVh5kVfXJyCADD) | [Cafè](https://open.spotify.com/album/1vv5SsVv82uIMDMme0ow28) | 6:33 |
 | 72 | [Under the Ice \- Original 12 Inch Version](https://open.spotify.com/track/2ue8ttSzbhnvhO7zc52NjC) | [Topo](https://open.spotify.com/artist/3atWGSgG787Lwz2HRvOsc3), [Roby](https://open.spotify.com/artist/6GuBfLWCyZnUatyVaOQLX2) | [Under the Ice \- Single](https://open.spotify.com/album/3vMFalOaP1bCRm8HVFQOAk) | 7:12 |
-| 73 | [Another World](https://open.spotify.com/track/7Ky4Cj8IhPxSYSl5nvka8B) | [Mind Enterprises](https://open.spotify.com/artist/5pN1DJhPFDKso4OtC0QhnB) | [Another World](https://open.spotify.com/album/2s0nIaX5wcdvzuLj3ZWVnp) | 4:41 |
-| 74 | [Che Caldo](https://open.spotify.com/track/0pKlilwwUTxcbZsUFUouwP) | [ELASI](https://open.spotify.com/artist/3C8AlXFIhzxJ4BCKxNQJJ6), [Anoraak](https://open.spotify.com/artist/2DfP0hQCCFmZHjstSE8yXC) | [Che Caldo](https://open.spotify.com/album/20QTEjaGNPvDhQpe1nPNCX) | 3:25 |
+| 73 | [Che Caldo](https://open.spotify.com/track/0pKlilwwUTxcbZsUFUouwP) | [ELASI](https://open.spotify.com/artist/3C8AlXFIhzxJ4BCKxNQJJ6), [Anoraak](https://open.spotify.com/artist/2DfP0hQCCFmZHjstSE8yXC) | [Che Caldo](https://open.spotify.com/album/20QTEjaGNPvDhQpe1nPNCX) | 3:25 |
+| 74 | [Another World](https://open.spotify.com/track/7Ky4Cj8IhPxSYSl5nvka8B) | [Mind Enterprises](https://open.spotify.com/artist/5pN1DJhPFDKso4OtC0QhnB) | [Another World](https://open.spotify.com/album/2s0nIaX5wcdvzuLj3ZWVnp) | 4:41 |
 | 75 | [Baby I Love You](https://open.spotify.com/track/0GpbUTVkLhMb200mH8WBOW) | [Easy Going](https://open.spotify.com/artist/3t1n3uomLdEAVdSc5WkVf1) | [Baby I Love You \(Original\) \- Single](https://open.spotify.com/album/7LZpZKT1adV23tV8AJe44U) | 8:23 |
 
-Snapshot ID: `AAAAAK4TPM6Xjvyrjfa6vQJWJiigf9J9`
+Snapshot ID: `AAAAAN/2bq+ZYQZCFtEZlkg3tresKaz8`

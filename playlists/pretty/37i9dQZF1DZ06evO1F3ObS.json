@@ -1,12 +1,12 @@
 {
   "description": "This is ReoNa. The essential tracks, all in one playlist.",
-  "num_followers": 22773,
+  "num_followers": 22774,
   "original_name": "This Is ReoNa",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "awIwgAAAAAALgvQOuWh3d5hAd3bwRZHb",
+  "snapshot_id": "awOCAAAAAADeGJhN2k3hTgU98yigu3sU",
   "tracks": [
     {
       "added_at": null,
@@ -251,22 +251,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Lv.1 \u8077\u696d\uff1a\u4eba\u9593 (Special Edition)",
-        "url": "https://open.spotify.com/album/2DF1V6u01dBvnThrTpQpJf"
-      },
-      "artists": [
-        {
-          "name": "ReoNa",
-          "url": "https://open.spotify.com/artist/2SIBY7Jwq1kYng12Zguo3C"
-        }
-      ],
-      "duration_ms": 318533,
-      "name": "\u6557\u8d70",
-      "url": "https://open.spotify.com/track/5AZrJILoAIwoJO1knIntpp"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "ANIMA (Special Edition)",
         "url": "https://open.spotify.com/album/5uH5YSFKXzMhxXxJbzAbfL"
       },
@@ -279,22 +263,6 @@
       "duration_ms": 257786,
       "name": "Scar/let",
       "url": "https://open.spotify.com/track/5IMh6f4sfKR5820IkKw74f"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "\u6708\u59eb -A piece of blue glass moon- THEME SONG E.P.",
-        "url": "https://open.spotify.com/album/25lcvkvNjoSlU07gs1M3hi"
-      },
-      "artists": [
-        {
-          "name": "ReoNa",
-          "url": "https://open.spotify.com/artist/2SIBY7Jwq1kYng12Zguo3C"
-        }
-      ],
-      "duration_ms": 259179,
-      "name": "Believer",
-      "url": "https://open.spotify.com/track/0ii7ebPPvmqVl5oPlet3JL"
     },
     {
       "added_at": null,
@@ -315,8 +283,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "\u30b7\u30e3\u30eb\u30fb\u30a6\u30a3\u30fb\u30c0\u30f3\u30b9\uff1f",
-        "url": "https://open.spotify.com/album/0bJE38pebBIRov35fJG5jZ"
+        "name": "\u6708\u59eb -A piece of blue glass moon- THEME SONG E.P.",
+        "url": "https://open.spotify.com/album/25lcvkvNjoSlU07gs1M3hi"
       },
       "artists": [
         {
@@ -324,9 +292,25 @@
           "url": "https://open.spotify.com/artist/2SIBY7Jwq1kYng12Zguo3C"
         }
       ],
-      "duration_ms": 266936,
-      "name": "\u30b7\u30e3\u30eb\u30fb\u30a6\u30a3\u30fb\u30c0\u30f3\u30b9\uff1f",
-      "url": "https://open.spotify.com/track/3scQcXcg9nOfWVQDQTeDXF"
+      "duration_ms": 259179,
+      "name": "Believer",
+      "url": "https://open.spotify.com/track/0ii7ebPPvmqVl5oPlet3JL"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Lv.1 \u8077\u696d\uff1a\u4eba\u9593 (Special Edition)",
+        "url": "https://open.spotify.com/album/2DF1V6u01dBvnThrTpQpJf"
+      },
+      "artists": [
+        {
+          "name": "ReoNa",
+          "url": "https://open.spotify.com/artist/2SIBY7Jwq1kYng12Zguo3C"
+        }
+      ],
+      "duration_ms": 318533,
+      "name": "\u6557\u8d70",
+      "url": "https://open.spotify.com/track/5AZrJILoAIwoJO1knIntpp"
     },
     {
       "added_at": null,
@@ -343,6 +327,22 @@
       "duration_ms": 227840,
       "name": "\u5fc3\u75db",
       "url": "https://open.spotify.com/track/1r878sS22nS4OIpuYBUMFN"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "\u30b7\u30e3\u30eb\u30fb\u30a6\u30a3\u30fb\u30c0\u30f3\u30b9\uff1f",
+        "url": "https://open.spotify.com/album/0bJE38pebBIRov35fJG5jZ"
+      },
+      "artists": [
+        {
+          "name": "ReoNa",
+          "url": "https://open.spotify.com/artist/2SIBY7Jwq1kYng12Zguo3C"
+        }
+      ],
+      "duration_ms": 266936,
+      "name": "\u30b7\u30e3\u30eb\u30fb\u30a6\u30a3\u30fb\u30c0\u30f3\u30b9\uff1f",
+      "url": "https://open.spotify.com/track/3scQcXcg9nOfWVQDQTeDXF"
     },
     {
       "added_at": null,
@@ -379,22 +379,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "HUMAN",
-        "url": "https://open.spotify.com/album/1viQNIgOEcg34svVzSB5Ic"
-      },
-      "artists": [
-        {
-          "name": "ReoNa",
-          "url": "https://open.spotify.com/artist/2SIBY7Jwq1kYng12Zguo3C"
-        }
-      ],
-      "duration_ms": 189865,
-      "name": "SACRA",
-      "url": "https://open.spotify.com/track/3ZAzz9T4ANqovBZBJkOiVh"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Amore (Special Edition)",
         "url": "https://open.spotify.com/album/55lYpIDpUDAkftXYdBBxlY"
       },
@@ -407,6 +391,22 @@
       "duration_ms": 266466,
       "name": "\u305d\u308c\u306f\u9b54\u6cd5\u3067\u3057\u305f",
       "url": "https://open.spotify.com/track/36kIbkJeFCS9H4JTbFZy5r"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "HUMAN",
+        "url": "https://open.spotify.com/album/1viQNIgOEcg34svVzSB5Ic"
+      },
+      "artists": [
+        {
+          "name": "ReoNa",
+          "url": "https://open.spotify.com/artist/2SIBY7Jwq1kYng12Zguo3C"
+        }
+      ],
+      "duration_ms": 189865,
+      "name": "SACRA",
+      "url": "https://open.spotify.com/track/3ZAzz9T4ANqovBZBJkOiVh"
     },
     {
       "added_at": null,
@@ -483,22 +483,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "\u751f\u547d\u63db\u88c5",
-        "url": "https://open.spotify.com/album/0FKrcF7rp480YBzAcM9WPo"
-      },
-      "artists": [
-        {
-          "name": "ReoNa",
-          "url": "https://open.spotify.com/artist/2SIBY7Jwq1kYng12Zguo3C"
-        }
-      ],
-      "duration_ms": 340940,
-      "name": "\u751f\u547d\u63db\u88c5",
-      "url": "https://open.spotify.com/track/6XhPqqciCUQLWZHxbO2mcG"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "\u84bc\u7a79\u306e\u30d5\u30a1\u30f3\u30d5\u30a1\u30fc\u30ec",
         "url": "https://open.spotify.com/album/1SIWm59nMt5C5CTtxHmGBJ"
       },
@@ -543,8 +527,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Debris",
-        "url": "https://open.spotify.com/album/3s0NegKIyNZbvXrH4oRxDT"
+        "name": "\u751f\u547d\u63db\u88c5",
+        "url": "https://open.spotify.com/album/0FKrcF7rp480YBzAcM9WPo"
       },
       "artists": [
         {
@@ -552,9 +536,9 @@
           "url": "https://open.spotify.com/artist/2SIBY7Jwq1kYng12Zguo3C"
         }
       ],
-      "duration_ms": 272177,
-      "name": "Debris",
-      "url": "https://open.spotify.com/track/7cISTRx3D4mmIfn2MPDvzQ"
+      "duration_ms": 340940,
+      "name": "\u751f\u547d\u63db\u88c5",
+      "url": "https://open.spotify.com/track/6XhPqqciCUQLWZHxbO2mcG"
     },
     {
       "added_at": null,
@@ -579,6 +563,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Debris",
+        "url": "https://open.spotify.com/album/3s0NegKIyNZbvXrH4oRxDT"
+      },
+      "artists": [
+        {
+          "name": "ReoNa",
+          "url": "https://open.spotify.com/artist/2SIBY7Jwq1kYng12Zguo3C"
+        }
+      ],
+      "duration_ms": 272177,
+      "name": "Debris",
+      "url": "https://open.spotify.com/track/7cISTRx3D4mmIfn2MPDvzQ"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "\u6708\u59eb -A piece of blue glass moon- THEME SONG E.P.",
         "url": "https://open.spotify.com/album/25lcvkvNjoSlU07gs1M3hi"
       },
@@ -591,26 +591,6 @@
       "duration_ms": 315898,
       "name": "Lost",
       "url": "https://open.spotify.com/track/2GEtnhDxxWBDWUc5wHqTsC"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Wonderer",
-        "url": "https://open.spotify.com/album/1epCToRIcaej0S2RbwU8sR"
-      },
-      "artists": [
-        {
-          "name": "\u30b9\u30d1\u30a4\u30e9\u30eb\u30fb\u30e9\u30c0\u30fc",
-          "url": "https://open.spotify.com/artist/6Cdkp24HziJqIpcflRlNCb"
-        },
-        {
-          "name": "ReoNa",
-          "url": "https://open.spotify.com/artist/2SIBY7Jwq1kYng12Zguo3C"
-        }
-      ],
-      "duration_ms": 255075,
-      "name": "Wonderer",
-      "url": "https://open.spotify.com/track/1Ohak4cmxlOjnvgEr7GHLz"
     },
     {
       "added_at": null,
@@ -651,22 +631,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "GG",
-        "url": "https://open.spotify.com/album/5lCc7uhAlFqamdV552r6HJ"
-      },
-      "artists": [
-        {
-          "name": "ReoNa",
-          "url": "https://open.spotify.com/artist/2SIBY7Jwq1kYng12Zguo3C"
-        }
-      ],
-      "duration_ms": 196346,
-      "name": "GG",
-      "url": "https://open.spotify.com/track/6FTHtzIv5KmyLFkKyNe0jq"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Null",
         "url": "https://open.spotify.com/album/0Ei7kMa7ZFqHucY4rIjbLC"
       },
@@ -683,22 +647,38 @@
     {
       "added_at": null,
       "album": {
-        "name": "time",
-        "url": "https://open.spotify.com/album/18bxCRrBnYE2CKtnJWrgMj"
+        "name": "Wonderer",
+        "url": "https://open.spotify.com/album/1epCToRIcaej0S2RbwU8sR"
       },
       "artists": [
         {
-          "name": "SawanoHiroyuki[nZk]",
-          "url": "https://open.spotify.com/artist/2EWXgN0xWOnbqJOxa9pWNO"
+          "name": "\u30b9\u30d1\u30a4\u30e9\u30eb\u30fb\u30e9\u30c0\u30fc",
+          "url": "https://open.spotify.com/artist/6Cdkp24HziJqIpcflRlNCb"
         },
         {
           "name": "ReoNa",
           "url": "https://open.spotify.com/artist/2SIBY7Jwq1kYng12Zguo3C"
         }
       ],
-      "duration_ms": 238666,
-      "name": "time",
-      "url": "https://open.spotify.com/track/7grcN18xiQDGUVqWR7mUF0"
+      "duration_ms": 255075,
+      "name": "Wonderer",
+      "url": "https://open.spotify.com/track/1Ohak4cmxlOjnvgEr7GHLz"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "GG",
+        "url": "https://open.spotify.com/album/5lCc7uhAlFqamdV552r6HJ"
+      },
+      "artists": [
+        {
+          "name": "ReoNa",
+          "url": "https://open.spotify.com/artist/2SIBY7Jwq1kYng12Zguo3C"
+        }
+      ],
+      "duration_ms": 196346,
+      "name": "GG",
+      "url": "https://open.spotify.com/track/6FTHtzIv5KmyLFkKyNe0jq"
     },
     {
       "added_at": null,
@@ -719,6 +699,26 @@
       "duration_ms": 227266,
       "name": "Toxic",
       "url": "https://open.spotify.com/track/6VlPH5gZxmk5tdRJzAl6Aa"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "time",
+        "url": "https://open.spotify.com/album/18bxCRrBnYE2CKtnJWrgMj"
+      },
+      "artists": [
+        {
+          "name": "SawanoHiroyuki[nZk]",
+          "url": "https://open.spotify.com/artist/2EWXgN0xWOnbqJOxa9pWNO"
+        },
+        {
+          "name": "ReoNa",
+          "url": "https://open.spotify.com/artist/2SIBY7Jwq1kYng12Zguo3C"
+        }
+      ],
+      "duration_ms": 238666,
+      "name": "time",
+      "url": "https://open.spotify.com/track/7grcN18xiQDGUVqWR7mUF0"
     },
     {
       "added_at": null,
@@ -771,6 +771,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "unknown",
+        "url": "https://open.spotify.com/album/0IDNAr9hNxxTC8dBwcsvhW"
+      },
+      "artists": [
+        {
+          "name": "ReoNa",
+          "url": "https://open.spotify.com/artist/2SIBY7Jwq1kYng12Zguo3C"
+        }
+      ],
+      "duration_ms": 262666,
+      "name": "\u602a\u7269\u306e\u8a69",
+      "url": "https://open.spotify.com/track/4Ym1HPO8pl7zrrR2b9MEI3"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "ELZA2",
         "url": "https://open.spotify.com/album/77kWDy49o3hwlERoAyHFPG"
       },
@@ -787,22 +803,6 @@
       "duration_ms": 242533,
       "name": "\u30cf\u30ec\u30eb\u30e4",
       "url": "https://open.spotify.com/track/1bc2mLIibf9Id7DuQFWCmp"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "unknown",
-        "url": "https://open.spotify.com/album/0IDNAr9hNxxTC8dBwcsvhW"
-      },
-      "artists": [
-        {
-          "name": "ReoNa",
-          "url": "https://open.spotify.com/artist/2SIBY7Jwq1kYng12Zguo3C"
-        }
-      ],
-      "duration_ms": 262666,
-      "name": "\u602a\u7269\u306e\u8a69",
-      "url": "https://open.spotify.com/track/4Ym1HPO8pl7zrrR2b9MEI3"
     },
     {
       "added_at": null,

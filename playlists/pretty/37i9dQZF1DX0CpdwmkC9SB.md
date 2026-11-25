@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0CpdwmkC9SB.md) - [plain]
 
 > The biggest festival of the year is back\. The official playlist for Glastonbury 2027.
 
-[Spotify](https://open.spotify.com/user/spotify) - 247,059 likes - 66 songs - 4 hr 10 min
+[Spotify](https://open.spotify.com/user/spotify) - 247,307 likes - 66 songs - 4 hr 10 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -18,8 +18,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0CpdwmkC9SB.md) - [plain]
 | 8 | [Lose Control](https://open.spotify.com/track/17phhZDn6oGtzMe56NuWvj) | [Teddy Swims](https://open.spotify.com/artist/33qOK5uJ8AR2xuQQAhHump) | [I've Tried Everything But Therapy \(Part 1\)](https://open.spotify.com/album/7nacKlk586eLRBSIsrk9DB) | 3:30 |
 | 9 | [Don't Dream It's Over](https://open.spotify.com/track/7G7tgVYORlDuVprcYHuFJh) | [Crowded House](https://open.spotify.com/artist/7ohlPA8dRBtCf92zaZCaaB) | [Crowded House](https://open.spotify.com/album/1dJpgn1rqvvr4yyNYLEYBG) | 3:56 |
 | 10 | [Hate Me](https://open.spotify.com/track/15og0pCEcTFWEXOFKdcJlU) | [Ellie Goulding](https://open.spotify.com/artist/0X2BH1fck6amBIoJhDVmmJ), [Juice WRLD](https://open.spotify.com/artist/4MCBfE4596Uoi2O4DtmEMz) | [Brightest Blue](https://open.spotify.com/album/44va7sFuK8IGzrj0BIX8kK) | 3:08 |
-| 11 | [Mexico Honey](https://open.spotify.com/track/7xKr077iMufVJwge6aO9xJ) | [Kacey Musgraves](https://open.spotify.com/artist/70kkdajctXSbqSMJbQO424) | [Middle of Nowhere](https://open.spotify.com/album/1quFS6EneVBW7PTbipPlNg) | 3:43 |
-| 12 | [The Sun Will Never Settle](https://open.spotify.com/track/23SqhGYsqaZJNbDSc17wqA) | [Kingfishr](https://open.spotify.com/artist/6c2qQFq3xfxFJndX6wSe4f) | [The Sun Will Never Settle](https://open.spotify.com/album/5ybKWN5Ak1M3x0AOirxdaH) | 2:28 |
+| 11 | [The Sun Will Never Settle](https://open.spotify.com/track/23SqhGYsqaZJNbDSc17wqA) | [Kingfishr](https://open.spotify.com/artist/6c2qQFq3xfxFJndX6wSe4f) | [The Sun Will Never Settle](https://open.spotify.com/album/5ybKWN5Ak1M3x0AOirxdaH) | 2:28 |
+| 12 | [Mexico Honey](https://open.spotify.com/track/7xKr077iMufVJwge6aO9xJ) | [Kacey Musgraves](https://open.spotify.com/artist/70kkdajctXSbqSMJbQO424) | [Middle of Nowhere](https://open.spotify.com/album/1quFS6EneVBW7PTbipPlNg) | 3:43 |
 | 13 | [Can I Call You Rose?](https://open.spotify.com/track/6IAuH3hgTRpUUdmOGubXGS) | [Thee Sacred Souls](https://open.spotify.com/artist/0oK5D6uPhGu4Jk2dbZfodU) | [Thee Sacred Souls](https://open.spotify.com/album/6ofJrAZaaX0iWTXYXObUxE) | 3:10 |
 | 14 | [Teardrop](https://open.spotify.com/track/67Hna13dNDkZvBpTXRIaOJ) | [Massive Attack](https://open.spotify.com/artist/6FXMGgJwohJLUSr5nVlf9X), [Elizabeth Fraser](https://open.spotify.com/artist/791Z3924aa619hZ3xsOJEx) | [Mezzanine](https://open.spotify.com/album/49MNmJhZQewjt06rpwp6QR) | 5:30 |
 | 15 | [Leak It](https://open.spotify.com/track/2fudERIZrBL0glivkAdzco) | [FLO](https://open.spotify.com/artist/0s4kXsjYeH0S1xRyVGN4NO) | [THERAPY AT THE CLUB](https://open.spotify.com/album/1Rz7o4Hllbk3qVHEa6XgBf) | 3:03 |
@@ -75,4 +75,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0CpdwmkC9SB.md) - [plain]
 | 65 | [Rice](https://open.spotify.com/track/79yGgP2ruLB7SavHhjPFI3) | [Young Fathers](https://open.spotify.com/artist/5mZC7ndY6oGMxJentRwsuV) | [Heavy Heavy](https://open.spotify.com/album/6CmlLROLOUJZnZ8QeCCpqD) | 2:39 |
 | 66 | [Scrambled Eggs](https://open.spotify.com/track/3BpU2XEMvN0XicImzJxLD7) | [Moonchild Sanelly](https://open.spotify.com/artist/6aDX1jzNVAI9enlQzW0Pgw) | [Full Moon](https://open.spotify.com/album/2cf1s864nimHstLscbjV8C) | 3:46 |
 
-Snapshot ID: `AAAAAKz8nw1NZT+qAW6HZrGs13sywTd4`
+Snapshot ID: `AAAAAP9qvec7XfyytDYrMvvY/+0mF2gs`

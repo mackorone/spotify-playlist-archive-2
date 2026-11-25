@@ -1,12 +1,12 @@
 {
   "description": "The most interesting tracks in the current world of pop music.",
-  "num_followers": 1154315,
+  "num_followers": 1154015,
   "original_name": "Pop Right Now",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAGwOurC5EfO+BolF8aF7KBHdUm2J",
+  "snapshot_id": "AAAAAFeRm5GK8DrkisH6/j89Yof/pdB4",
   "tracks": [
     {
       "added_at": "2026-02-12 23:00:22",
@@ -1007,6 +1007,22 @@
     {
       "added_at": "2026-02-12 23:00:22",
       "album": {
+        "name": "boom",
+        "url": "https://open.spotify.com/album/2F9Hj91XXDt5FRvJyyLG6X"
+      },
+      "artists": [
+        {
+          "name": "bbno$",
+          "url": "https://open.spotify.com/artist/41X1TR6hrK8Q2ZCpp2EqCz"
+        }
+      ],
+      "duration_ms": 163000,
+      "name": "boom",
+      "url": "https://open.spotify.com/track/6zhyXTuRkMSabSHvmMchpp"
+    },
+    {
+      "added_at": "2026-02-12 23:00:22",
+      "album": {
         "name": "All I Know (with Khalid)",
         "url": "https://open.spotify.com/album/1TNPKEmo5TSj8NpXpDgMsf"
       },
@@ -1023,22 +1039,6 @@
       "duration_ms": 176046,
       "name": "All I Know (with Khalid)",
       "url": "https://open.spotify.com/track/2rgWhlzASxN4MKk7c3RAGP"
-    },
-    {
-      "added_at": "2026-02-12 23:00:22",
-      "album": {
-        "name": "boom",
-        "url": "https://open.spotify.com/album/2F9Hj91XXDt5FRvJyyLG6X"
-      },
-      "artists": [
-        {
-          "name": "bbno$",
-          "url": "https://open.spotify.com/artist/41X1TR6hrK8Q2ZCpp2EqCz"
-        }
-      ],
-      "duration_ms": 163000,
-      "name": "boom",
-      "url": "https://open.spotify.com/track/6zhyXTuRkMSabSHvmMchpp"
     },
     {
       "added_at": "2026-02-12 23:00:22",
@@ -1423,22 +1423,6 @@
     {
       "added_at": "2026-02-12 23:00:22",
       "album": {
-        "name": "WHEN A GIRL CRIES",
-        "url": "https://open.spotify.com/album/4Wd9B89j1dUHo2bLYJPWch"
-      },
-      "artists": [
-        {
-          "name": "Olga Myko",
-          "url": "https://open.spotify.com/artist/2Qs6c7sk2XP8MONg0SjaGm"
-        }
-      ],
-      "duration_ms": 124590,
-      "name": "use me!!!!!!!",
-      "url": "https://open.spotify.com/track/4RvaI6d8mWCfEcGffUN52w"
-    },
-    {
-      "added_at": "2026-02-12 23:00:22",
-      "album": {
         "name": "French Girls",
         "url": "https://open.spotify.com/album/0zNVm3xZratOorJpLbglfN"
       },
@@ -1483,6 +1467,22 @@
       "duration_ms": 264664,
       "name": "I Saw The Mountains",
       "url": "https://open.spotify.com/track/0CEpezcWFou8sCdbcGof44"
+    },
+    {
+      "added_at": "2026-02-12 23:00:22",
+      "album": {
+        "name": "WHEN A GIRL CRIES",
+        "url": "https://open.spotify.com/album/4Wd9B89j1dUHo2bLYJPWch"
+      },
+      "artists": [
+        {
+          "name": "Olga Myko",
+          "url": "https://open.spotify.com/artist/2Qs6c7sk2XP8MONg0SjaGm"
+        }
+      ],
+      "duration_ms": 124590,
+      "name": "use me!!!!!!!",
+      "url": "https://open.spotify.com/track/4RvaI6d8mWCfEcGffUN52w"
     },
     {
       "added_at": "2026-02-12 23:00:22",

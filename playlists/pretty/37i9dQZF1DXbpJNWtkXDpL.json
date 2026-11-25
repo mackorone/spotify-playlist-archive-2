@@ -1,12 +1,12 @@
 {
   "description": "Descubre el futuro de la m\u00fasica en M\u00e9xico en compa\u00f1\u00eda de Pepe Walker",
-  "num_followers": 93894,
+  "num_followers": 93891,
   "original_name": "RADAR M\u00e9xico",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAEFhckWOWuogX/BftPf2MTmqyp7X",
+  "snapshot_id": "AAAAANYRJlUhHt5425BnTf/bflQ3rSRh",
   "tracks": [
     {
       "added_at": "2026-11-06 05:59:35",
@@ -131,46 +131,6 @@
     {
       "added_at": "2026-11-06 05:59:35",
       "album": {
-        "name": "PARAMICORAZON: - RADAR M\u00e9xico",
-        "url": "https://open.spotify.com/album/5zEbCC4o0oDXJZHS3f12QI"
-      },
-      "artists": [
-        {
-          "name": "Mi Compa el Chino",
-          "url": "https://open.spotify.com/artist/2DdimmphdLA00UsduU3SX4"
-        },
-        {
-          "name": "luvKMI",
-          "url": "https://open.spotify.com/artist/0sGcc9qLxvEQtkw0BO4PNO"
-        }
-      ],
-      "duration_ms": 174545,
-      "name": "PARAMICORAZON: - RADAR M\u00e9xico",
-      "url": "https://open.spotify.com/track/4u8PaWURDwqWl8rMLSLD2P"
-    },
-    {
-      "added_at": "2026-11-06 05:59:35",
-      "album": {
-        "name": "LINEA DE METRO",
-        "url": "https://open.spotify.com/album/38e8n63dkgZEVZ9WUJ7zAs"
-      },
-      "artists": [
-        {
-          "name": "kor!",
-          "url": "https://open.spotify.com/artist/1I20nipdKCbAY4mrnI78xK"
-        },
-        {
-          "name": "Young Aleexx",
-          "url": "https://open.spotify.com/artist/0EJnKc0HF9dtK9u9n5n5tL"
-        }
-      ],
-      "duration_ms": 232500,
-      "name": "LINEA DE METRO",
-      "url": "https://open.spotify.com/track/6sy0eHT7wRL2rKRMfQ3Wuq"
-    },
-    {
-      "added_at": "2026-11-06 05:59:35",
-      "album": {
         "name": "BRAZIL",
         "url": "https://open.spotify.com/album/7LNObuBTPKtOcm7ZF7GRRq"
       },
@@ -195,6 +155,46 @@
       "duration_ms": 124878,
       "name": "BRAZIL",
       "url": "https://open.spotify.com/track/52jGzQHfgGrr6Y9hVaGM6R"
+    },
+    {
+      "added_at": "2026-11-06 05:59:35",
+      "album": {
+        "name": "LINEA DE METRO",
+        "url": "https://open.spotify.com/album/38e8n63dkgZEVZ9WUJ7zAs"
+      },
+      "artists": [
+        {
+          "name": "kor!",
+          "url": "https://open.spotify.com/artist/1I20nipdKCbAY4mrnI78xK"
+        },
+        {
+          "name": "Young Aleexx",
+          "url": "https://open.spotify.com/artist/0EJnKc0HF9dtK9u9n5n5tL"
+        }
+      ],
+      "duration_ms": 232500,
+      "name": "LINEA DE METRO",
+      "url": "https://open.spotify.com/track/6sy0eHT7wRL2rKRMfQ3Wuq"
+    },
+    {
+      "added_at": "2026-11-06 05:59:35",
+      "album": {
+        "name": "PARAMICORAZON: - RADAR M\u00e9xico",
+        "url": "https://open.spotify.com/album/5zEbCC4o0oDXJZHS3f12QI"
+      },
+      "artists": [
+        {
+          "name": "Mi Compa el Chino",
+          "url": "https://open.spotify.com/artist/2DdimmphdLA00UsduU3SX4"
+        },
+        {
+          "name": "luvKMI",
+          "url": "https://open.spotify.com/artist/0sGcc9qLxvEQtkw0BO4PNO"
+        }
+      ],
+      "duration_ms": 174545,
+      "name": "PARAMICORAZON: - RADAR M\u00e9xico",
+      "url": "https://open.spotify.com/track/4u8PaWURDwqWl8rMLSLD2P"
     },
     {
       "added_at": "2026-11-06 05:59:35",
@@ -375,26 +375,6 @@
     {
       "added_at": "2026-11-06 05:59:35",
       "album": {
-        "name": "Malas Amistades - RADAR M\u00e9xico",
-        "url": "https://open.spotify.com/album/62Gx6FPpj5t9CvSz9iiGTh"
-      },
-      "artists": [
-        {
-          "name": "8Uno",
-          "url": "https://open.spotify.com/artist/1gU9Z8jrVFnrCBauoWv2Eh"
-        },
-        {
-          "name": "DENNA LA PORRI",
-          "url": "https://open.spotify.com/artist/0xc9ZT3PSktJFx0N96FJQG"
-        }
-      ],
-      "duration_ms": 219500,
-      "name": "Malas Amistades - RADAR M\u00e9xico",
-      "url": "https://open.spotify.com/track/7kSZqJlFH4t2SdIvPCjUeM"
-    },
-    {
-      "added_at": "2026-11-06 05:59:35",
-      "album": {
         "name": "3some",
         "url": "https://open.spotify.com/album/0q3DuxifpmTxljvh7cUt1K"
       },
@@ -415,6 +395,26 @@
       "duration_ms": 162461,
       "name": "3some",
       "url": "https://open.spotify.com/track/2yqLYNfSjy633HSNTNAU3s"
+    },
+    {
+      "added_at": "2026-11-06 05:59:35",
+      "album": {
+        "name": "Malas Amistades - RADAR M\u00e9xico",
+        "url": "https://open.spotify.com/album/62Gx6FPpj5t9CvSz9iiGTh"
+      },
+      "artists": [
+        {
+          "name": "8Uno",
+          "url": "https://open.spotify.com/artist/1gU9Z8jrVFnrCBauoWv2Eh"
+        },
+        {
+          "name": "DENNA LA PORRI",
+          "url": "https://open.spotify.com/artist/0xc9ZT3PSktJFx0N96FJQG"
+        }
+      ],
+      "duration_ms": 219500,
+      "name": "Malas Amistades - RADAR M\u00e9xico",
+      "url": "https://open.spotify.com/track/7kSZqJlFH4t2SdIvPCjUeM"
     },
     {
       "added_at": "2026-11-06 05:59:35",
@@ -607,6 +607,22 @@
     {
       "added_at": "2026-11-06 05:59:35",
       "album": {
+        "name": "LOBO",
+        "url": "https://open.spotify.com/album/6X2cduTYmnwObk9vQYUsbb"
+      },
+      "artists": [
+        {
+          "name": "EMJAY",
+          "url": "https://open.spotify.com/artist/5TtCVmeuicGu9EIwiFQcyn"
+        }
+      ],
+      "duration_ms": 147386,
+      "name": "LOBO",
+      "url": "https://open.spotify.com/track/5G2slHqvNBwVi5uefAo0lT"
+    },
+    {
+      "added_at": "2026-11-06 05:59:35",
+      "album": {
         "name": "Me acuerdo",
         "url": "https://open.spotify.com/album/4YAcD058WkYrsW9SI1xqxS"
       },
@@ -623,22 +639,6 @@
       "duration_ms": 227754,
       "name": "Me acuerdo",
       "url": "https://open.spotify.com/track/62W6Q8f8xdxRQQAjdCh0yZ"
-    },
-    {
-      "added_at": "2026-11-06 05:59:35",
-      "album": {
-        "name": "LOBO",
-        "url": "https://open.spotify.com/album/6X2cduTYmnwObk9vQYUsbb"
-      },
-      "artists": [
-        {
-          "name": "EMJAY",
-          "url": "https://open.spotify.com/artist/5TtCVmeuicGu9EIwiFQcyn"
-        }
-      ],
-      "duration_ms": 147386,
-      "name": "LOBO",
-      "url": "https://open.spotify.com/track/5G2slHqvNBwVi5uefAo0lT"
     },
     {
       "added_at": "2026-11-06 05:59:35",
@@ -683,26 +683,6 @@
     {
       "added_at": "2026-11-06 05:59:35",
       "album": {
-        "name": "a la mitad",
-        "url": "https://open.spotify.com/album/7BKm5M8gOpJIdxi5tdvdwY"
-      },
-      "artists": [
-        {
-          "name": "Majo Rivas",
-          "url": "https://open.spotify.com/artist/3S4muLLIYiYK4P9ApjyLbY"
-        },
-        {
-          "name": "Kendall Pe\u00f1a",
-          "url": "https://open.spotify.com/artist/2Sb4Db1YYVwCK3l04E9cpn"
-        }
-      ],
-      "duration_ms": 174460,
-      "name": "a la mitad",
-      "url": "https://open.spotify.com/track/1dbDRlYvm4KaCVzMVUPlby"
-    },
-    {
-      "added_at": "2026-11-06 05:59:35",
-      "album": {
         "name": "AYER (Plugg conciencia)",
         "url": "https://open.spotify.com/album/0WwrrFr6K8BBUgyjjuA2FR"
       },
@@ -727,6 +707,26 @@
       "duration_ms": 193674,
       "name": "AYER - Plugg conciencia",
       "url": "https://open.spotify.com/track/2cmGC5QRB7mNufvsGwwaZM"
+    },
+    {
+      "added_at": "2026-11-06 05:59:35",
+      "album": {
+        "name": "a la mitad",
+        "url": "https://open.spotify.com/album/7BKm5M8gOpJIdxi5tdvdwY"
+      },
+      "artists": [
+        {
+          "name": "Majo Rivas",
+          "url": "https://open.spotify.com/artist/3S4muLLIYiYK4P9ApjyLbY"
+        },
+        {
+          "name": "Kendall Pe\u00f1a",
+          "url": "https://open.spotify.com/artist/2Sb4Db1YYVwCK3l04E9cpn"
+        }
+      ],
+      "duration_ms": 174460,
+      "name": "a la mitad",
+      "url": "https://open.spotify.com/track/1dbDRlYvm4KaCVzMVUPlby"
     },
     {
       "added_at": "2026-11-06 05:59:35",
@@ -783,26 +783,6 @@
     {
       "added_at": "2026-11-06 05:59:35",
       "album": {
-        "name": "Dirty Money",
-        "url": "https://open.spotify.com/album/6ZY90lysSyNJyRZbLrRQyo"
-      },
-      "artists": [
-        {
-          "name": "Mosmo",
-          "url": "https://open.spotify.com/artist/72VOLmKfTw3AbBg4Nc7Inr"
-        },
-        {
-          "name": "Grupo Maximo Grado",
-          "url": "https://open.spotify.com/artist/0ssx5sZQzc1nZZF2Ks8qXZ"
-        }
-      ],
-      "duration_ms": 154785,
-      "name": "Dirty Money",
-      "url": "https://open.spotify.com/track/63olBLnupdKLRaOfbqFmco"
-    },
-    {
-      "added_at": "2026-11-06 05:59:35",
-      "album": {
         "name": "t a l v e z : /",
         "url": "https://open.spotify.com/album/32af1nLMntBhNyM2oH6iYs"
       },
@@ -819,6 +799,26 @@
       "duration_ms": 198437,
       "name": "t a l v e z : /",
       "url": "https://open.spotify.com/track/2RbECLIYUcdKUYi8FK1NaO"
+    },
+    {
+      "added_at": "2026-11-06 05:59:35",
+      "album": {
+        "name": "Dirty Money",
+        "url": "https://open.spotify.com/album/6ZY90lysSyNJyRZbLrRQyo"
+      },
+      "artists": [
+        {
+          "name": "Mosmo",
+          "url": "https://open.spotify.com/artist/72VOLmKfTw3AbBg4Nc7Inr"
+        },
+        {
+          "name": "Grupo Maximo Grado",
+          "url": "https://open.spotify.com/artist/0ssx5sZQzc1nZZF2Ks8qXZ"
+        }
+      ],
+      "duration_ms": 154785,
+      "name": "Dirty Money",
+      "url": "https://open.spotify.com/track/63olBLnupdKLRaOfbqFmco"
     },
     {
       "added_at": "2026-11-06 05:59:35",
@@ -979,6 +979,22 @@
     {
       "added_at": "2026-11-06 05:59:35",
       "album": {
+        "name": "Cadena Nacional",
+        "url": "https://open.spotify.com/album/4P0TbN0tnLHdJVR6bMmGK6"
+      },
+      "artists": [
+        {
+          "name": "Marissa Mur",
+          "url": "https://open.spotify.com/artist/5kt4v3JNtP8svtTI8PDFOT"
+        }
+      ],
+      "duration_ms": 148274,
+      "name": "Cadena Nacional",
+      "url": "https://open.spotify.com/track/4VoIHa5TY0wvY3jwmrxRM5"
+    },
+    {
+      "added_at": "2026-11-06 05:59:35",
+      "album": {
         "name": "Ping\u00fcinos",
         "url": "https://open.spotify.com/album/3V79Llwk7Lb9EUbsYd3wiG"
       },
@@ -1007,22 +1023,6 @@
       "duration_ms": 135000,
       "name": "GU\u00c1RDAME.",
       "url": "https://open.spotify.com/track/7n8UU4gGWIaPfKaoXjwQUx"
-    },
-    {
-      "added_at": "2026-11-06 05:59:35",
-      "album": {
-        "name": "Cadena Nacional",
-        "url": "https://open.spotify.com/album/4P0TbN0tnLHdJVR6bMmGK6"
-      },
-      "artists": [
-        {
-          "name": "Marissa Mur",
-          "url": "https://open.spotify.com/artist/5kt4v3JNtP8svtTI8PDFOT"
-        }
-      ],
-      "duration_ms": 148274,
-      "name": "Cadena Nacional",
-      "url": "https://open.spotify.com/track/4VoIHa5TY0wvY3jwmrxRM5"
     },
     {
       "added_at": "2026-11-06 05:59:35",
@@ -1391,26 +1391,6 @@
     {
       "added_at": "2026-11-06 05:59:35",
       "album": {
-        "name": "DIAS LLUVIOSOS",
-        "url": "https://open.spotify.com/album/0LlsOHPgUsMadauJL0VALz"
-      },
-      "artists": [
-        {
-          "name": "Jas Marty",
-          "url": "https://open.spotify.com/artist/5TEGj13rqwwEDuuCCECNWE"
-        },
-        {
-          "name": "Plastikboy",
-          "url": "https://open.spotify.com/artist/3VN7GXEjDqW4IyEO3HgLYp"
-        }
-      ],
-      "duration_ms": 160000,
-      "name": "DIAS LLUVIOSOS",
-      "url": "https://open.spotify.com/track/76FdJ7Kb3cNaXPoOAyW2Wi"
-    },
-    {
-      "added_at": "2026-11-06 05:59:35",
-      "album": {
         "name": "Bexos",
         "url": "https://open.spotify.com/album/2g91cAXqHmVJyEb3pO9rod"
       },
@@ -1431,6 +1411,26 @@
       "duration_ms": 160661,
       "name": "Bexos",
       "url": "https://open.spotify.com/track/2mMDB5gmG6lNtxe1LDhmMO"
+    },
+    {
+      "added_at": "2026-11-06 05:59:35",
+      "album": {
+        "name": "DIAS LLUVIOSOS",
+        "url": "https://open.spotify.com/album/0LlsOHPgUsMadauJL0VALz"
+      },
+      "artists": [
+        {
+          "name": "Jas Marty",
+          "url": "https://open.spotify.com/artist/5TEGj13rqwwEDuuCCECNWE"
+        },
+        {
+          "name": "Plastikboy",
+          "url": "https://open.spotify.com/artist/3VN7GXEjDqW4IyEO3HgLYp"
+        }
+      ],
+      "duration_ms": 160000,
+      "name": "DIAS LLUVIOSOS",
+      "url": "https://open.spotify.com/track/76FdJ7Kb3cNaXPoOAyW2Wi"
     }
   ],
   "unique_name": "RADAR M\u00e9xico",

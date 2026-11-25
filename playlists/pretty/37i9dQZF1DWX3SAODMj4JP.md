@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWX3SAODMj4JP.md) - [plain]
 
 > Uma pausa no dia para tomar um chocolate quente e aproveitar seu momento com Deus.
 
-[Spotify](https://open.spotify.com/user/spotify) - 167,760 likes - 69 songs - 4 hr 58 min
+[Spotify](https://open.spotify.com/user/spotify) - 167,778 likes - 69 songs - 4 hr 58 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -42,8 +42,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWX3SAODMj4JP.md) - [plain]
 | 32 | [Estou Com Você \- Ao Vivo](https://open.spotify.com/track/3TFQbNmMPAFNHiNhHNuclS) | [Os Meireles](https://open.spotify.com/artist/4GvZo4MFJZPodaS1VXVEe1), [Pedro Valença](https://open.spotify.com/artist/2fBxIdkeMcxcjtBlPuWZl7) | [Estou Com Você \(Ao Vivo\)](https://open.spotify.com/album/49jQMSEkQCZzFtvTAzXHKB) | 4:31 |
 | 33 | [Todos Um](https://open.spotify.com/track/4Zkub4jUIwCyZItpcykvh8) | [Kemuel](https://open.spotify.com/artist/5GHeXsPtAVd0KLe1oMikxm), [Dilsinho](https://open.spotify.com/artist/4NUePmzDvCYqilXBFa91Hg) | [Todos Um](https://open.spotify.com/album/0hzqxQ85RBpimlXpp42vUF) | 3:31 |
 | 34 | [Intimidade](https://open.spotify.com/track/3ZLitoWeyPEH4qxUpyyKM0) | [Weslley Fonseca](https://open.spotify.com/artist/44tt6vxqg3vYCiTm8p8Rg9), [Vagner Dida](https://open.spotify.com/artist/2EpXG8Ya30dtA5znwtoxri) | [Intimidade](https://open.spotify.com/album/6gy3kuEBrBSBckXix84X2H) | 3:21 |
-| 35 | [Claro e Certo](https://open.spotify.com/track/2C4bL85AHMERutNrejvo0B) | [Rafa Blauth](https://open.spotify.com/artist/2nnZzrOxN6dN3zOae5MeHU), [Estevão Queiroga](https://open.spotify.com/artist/1nQaNbf287f5x9oe2R3faK) | [Claro e Certo](https://open.spotify.com/album/47ggi22ENuvh5a7AXHbDbI) | 4:01 |
-| 36 | [Tributo A Iehovah \- Ao Vivo](https://open.spotify.com/track/5cLo2Ovt9oCWq8mucuHfDi) | [Eli Soares](https://open.spotify.com/artist/5zblJYkCzvB51Jh29FB07V), [Adhemar De Campos](https://open.spotify.com/artist/03TpTPLRclj2iknzWXAXjP) | [Tributo A Iehovah \(Ao Vivo\)](https://open.spotify.com/album/4d6pzEk3gFbP4tJJFKrS62) | 6:07 |
+| 35 | [Tributo A Iehovah \- Ao Vivo](https://open.spotify.com/track/5cLo2Ovt9oCWq8mucuHfDi) | [Eli Soares](https://open.spotify.com/artist/5zblJYkCzvB51Jh29FB07V), [Adhemar De Campos](https://open.spotify.com/artist/03TpTPLRclj2iknzWXAXjP) | [Tributo A Iehovah \(Ao Vivo\)](https://open.spotify.com/album/4d6pzEk3gFbP4tJJFKrS62) | 6:07 |
+| 36 | [Claro e Certo](https://open.spotify.com/track/2C4bL85AHMERutNrejvo0B) | [Rafa Blauth](https://open.spotify.com/artist/2nnZzrOxN6dN3zOae5MeHU), [Estevão Queiroga](https://open.spotify.com/artist/1nQaNbf287f5x9oe2R3faK) | [Claro e Certo](https://open.spotify.com/album/47ggi22ENuvh5a7AXHbDbI) | 4:01 |
 | 37 | [Simples Oração](https://open.spotify.com/track/0H0lcJhH4r7XcBDm33ygaF) | [Os Meireles](https://open.spotify.com/artist/4GvZo4MFJZPodaS1VXVEe1) | [Simples Oração](https://open.spotify.com/album/5aVCOOT4mtOb7vurfxiQJC) | 4:02 |
 | 38 | [Asas](https://open.spotify.com/track/0K7p1zxjcAHPGz4w1hTxeb) | [Itagon](https://open.spotify.com/artist/1nRBkENa3rDetRoPakipOh), [Renata Calheiros](https://open.spotify.com/artist/3L3jIoTWT58r8Jrc2X8svJ) | [Primeiro](https://open.spotify.com/album/1uXUyEphU2AxCaWzEgocl6) | 4:42 |
 | 39 | [Então Vem](https://open.spotify.com/track/0tBJj2vwsjpGgEWgKd35nD) | [Caio Veríssimo](https://open.spotify.com/artist/3M1QiN5TINHyqdV1vpjTOb) | [Então Vem](https://open.spotify.com/album/2G8WdVOQFvvVwyLWeH7z2d) | 5:41 |
@@ -78,4 +78,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWX3SAODMj4JP.md) - [plain]
 | 68 | [Agora, Aqui](https://open.spotify.com/track/5x5YBX9Pfi5WodeaGYGHdO) | [Ana Heloysa](https://open.spotify.com/artist/57AZPoFXiEjFDMGRt5uTG4), [Coletivo Candiero](https://open.spotify.com/artist/2WoLRZ8lSMvx4BWJGNblqV), [Filipe da Guia](https://open.spotify.com/artist/7evpKIZ6v0ctYR24lIeQ4a) | [Agora, Aqui](https://open.spotify.com/album/7JVb4GTGgF942VVH0IJ6BR) | 3:25 |
 | 69 | [Infinito Amor](https://open.spotify.com/track/3x8ZWtrehlt4W1us1hhFzq) | [REVERE](https://open.spotify.com/artist/4O2WXMRRTS8XqmqSTcBnrb), [Central 3](https://open.spotify.com/artist/72Q3HybMPVhG3c9N4A7kTL) | [Infinito Amor](https://open.spotify.com/album/3kDwHwOF0WcZ7bUS6Rcrdv) | 4:03 |
 
-Snapshot ID: `AAAAAD+TFXiCKFLZO+F9aA4d8kwnaB5D`
+Snapshot ID: `AAAAAKN1Kwqz1jcrYn+l6JzOzzU8GT3S`

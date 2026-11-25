@@ -4,7 +4,7 @@
 
 > forever young  playlist Spotify, our Music Free, playlist funny, playlist everytime, Playlist to Study, crisvola playlist spotify
 
-2,851 songs - 6 day 21 hr 32 min
+2,855 songs - 6 day 21 hr 46 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -406,6 +406,7 @@
 | [Celebration on the Rocks](https://open.spotify.com/track/14LXgpNLe9Ba51ohBXEkfa) | [Eufrocina Manigos and Eyvind Bilstad](https://open.spotify.com/artist/31q4JP429LpIl1OEibwldo) | [Celebration on the Rocks](https://open.spotify.com/album/0id2nUjjMtWX3mx9UsBUNO) | 3:07 | 2025-06-13 |  |
 | [CELLES](https://open.spotify.com/track/21EckdWhnAnaGILOzwkyYu) | [Scott Lucchini](https://open.spotify.com/artist/2XwAoF8nWo3UNIYpGTieCQ) | [CELLES](https://open.spotify.com/album/6KMnrkJubkJc3SEfaBl7BQ) | 3:40 | 2025-05-22 |  |
 | [Celos que me Delatan](https://open.spotify.com/track/1VfRt5kJCYWlOXYMIqkali) | [Dany.Love](https://open.spotify.com/artist/3U04HRDLdtNVBZnEE6Y3le) | [Celos que me Delatan](https://open.spotify.com/album/7xdIneTMjCsxrobnkyLqxx) | 3:36 | 2026-03-12 |  |
+| [Cement Truck](https://open.spotify.com/track/13oiBsrhrL246sIG01rC6K) | [Ethan Ice](https://open.spotify.com/artist/0nok7WTxJq1I27y8uSTNUW) | [Cement Truck](https://open.spotify.com/album/7mwlNtnLUOxhChr3WZ0606) | 4:31 | 2026-11-24 |  |
 | [CENERE](https://open.spotify.com/track/0mHC3BK9vFGoEU0EcGPWRZ) | [Lazza](https://open.spotify.com/artist/0jdNdfi4vAuVi7a6cPDFBM) | [SIRIO](https://open.spotify.com/album/7qMFX6YMY6dhl4OWzve4ty) | 3:28 | 2023-03-15 |  |
 | [Ceniza en tu Boca](https://open.spotify.com/track/5EE74A4rTfwVOs5NwikSxk) | [BORDONADO](https://open.spotify.com/artist/3SGH5JptdqoFlk1jN8rtfl) | [Ceniza en tu Boca](https://open.spotify.com/album/7JsbWT2tk37LB3aPI2zBZO) | 3:28 | 2026-09-04 |  |
 | [Ceniza en tu Boca](https://open.spotify.com/track/5wxExH3v0AfHqqD3r4tJCm) | [BORDONADO](https://open.spotify.com/artist/3SGH5JptdqoFlk1jN8rtfl) | [Me Partes el Alma](https://open.spotify.com/album/3qBfpsff5R19hJJ0G7jNBR) | 3:28 | 2026-08-22 |  |
@@ -1462,6 +1463,7 @@
 | [Luka Yang Bernama Kamu](https://open.spotify.com/track/2VXPqyN2N6J15Md9fSc8s9) | [Ekkyu](https://open.spotify.com/artist/6mT1w2xe3Os7CLSR1bAU6W) | [Luka Yang Bernama Kamu](https://open.spotify.com/album/3fhiugMLvJQfLRZoM3XItY) | 4:38 | 2026-06-23 |  |
 | [Lullaby](https://open.spotify.com/track/0JZBt9YycVqBGZqwshSUuu) | [Program One](https://open.spotify.com/artist/1LTNHqcrT0pIAyidatW0aF) | [Lullaby](https://open.spotify.com/album/3e97pS7XBiFufcgcbuFlMY) | 5:08 | 2024-12-27 |  |
 | [Lumière Divine](https://open.spotify.com/track/16GL4tNeAw2elOzdmDTrjJ) | [ARNAUD KELLER](https://open.spotify.com/artist/33cRW5dZTJiwCHV9ybCFgB) | [Lumière Divine](https://open.spotify.com/album/5o5Iy7qR6zVO5uC8w6oxCd) | 2:41 | 2026-08-10 |  |
+| [Luna](https://open.spotify.com/track/2wq3wueOGylwRWuFOiPUGQ) | [DiverCounty](https://open.spotify.com/artist/6haCKefQwrqgAzCq7lbv90) | [Luna](https://open.spotify.com/album/0K2zQgvkrMAi4iyzHg7SRe) | 3:50 | 2026-11-24 |  |
 | [Luna](https://open.spotify.com/track/7zjEbjiwsr25Aiow2V1290) | [Lenoise](https://open.spotify.com/artist/1zbtdItCDLhQLlyL3ASTZG) | [Supernova](https://open.spotify.com/album/1cEtLyqdkRlTsxn3ldfGot) | 3:20 | 2025-12-28 |  |
 | [Luna Park \(HIIT 30\-10\)](https://open.spotify.com/track/1pl8wZwGoNt0GGd9WuqmFg) | [THE TRAINER](https://open.spotify.com/artist/4B1n4QNr8vjhUnTgERok66) | [80s DISCO HIIT DANCE WORKOUT](https://open.spotify.com/album/6opKcFjmEz92mrvuMdD1c8) | 1:20 | 2024-03-04 |  |
 | [Lunar reflections](https://open.spotify.com/track/1WLESO2OfEUOyeX3gb3fm2) | [Albor Sereno](https://open.spotify.com/artist/4tqf9RyFsGtkvJ7D3OXq9v) | [Turns](https://open.spotify.com/album/5ZbPPmdnCpavZDaVA55n4P) | 2:32 | 2025-06-18 |  |
@@ -1913,6 +1915,7 @@
 | [PROMESA](https://open.spotify.com/track/1O2BIausmhxIvh02DGVB2F) | [El Punto Cardinal](https://open.spotify.com/artist/6vEp4t3ZjlmWYJbzc6OTUE) | [GOLDENSHADE](https://open.spotify.com/album/6BRnUAnUIw3LFyX2Tvbdt5) | 4:45 | 2025-11-13 |  |
 | [PROMESA](https://open.spotify.com/track/3mUhVxbdYHsEsHb7Zms0ha) | [El Punto Cardinal](https://open.spotify.com/artist/6vEp4t3ZjlmWYJbzc6OTUE) | [PROMESA](https://open.spotify.com/album/4r9Fl6f7LcOuaEdA55oLeW) | 4:45 | 2026-04-18 |  |
 | [PROMESA \(Slowed + Reverb\)](https://open.spotify.com/track/4wz4CX5xWPHLFH52ImIBaK) | [El Punto Cardinal](https://open.spotify.com/artist/6vEp4t3ZjlmWYJbzc6OTUE) | [PROMESA \(Slowed + Reverb\)](https://open.spotify.com/album/7qWmol4XR5ERVfiGFxDv7o) | 5:41 | 2026-04-18 |  |
+| [Promise](https://open.spotify.com/track/2LU7YxQltA1D4wqIH3czqZ) | [Duarte Guelha](https://open.spotify.com/artist/7wUeIY5Du4ZoNo7dIxTdI8), [Ana Luísa](https://open.spotify.com/artist/4Bd9vnfeqJT6llA5oD1etP) | [Burn EP](https://open.spotify.com/album/4vIEM4CtVlXChNCeUjEaG2) | 2:41 | 2026-11-24 |  |
 | [Prosthetic](https://open.spotify.com/track/2qRfwaLyZW1jDyQoYhAahd) | [Dymer](https://open.spotify.com/artist/31uajf71LLM3lkx3jG05Tv) | [Prosthetic](https://open.spotify.com/album/7nWsdqylOgGTb4EBTmm4nM) | 3:41 | 2025-12-06 |  |
 | [Proud Mary](https://open.spotify.com/track/6gJdDnF2TzfA1WPMXuCa3x) | [Tina Turner](https://open.spotify.com/artist/1zuJe6b1roixEKMOtyrEak) | [What's Love Got to Do with It?](https://open.spotify.com/album/5HmYiJnUkFuciiqRrAAv4o) | 5:27 | 2024-03-04 |  |
 | [Psalm 103](https://open.spotify.com/track/7ukxzQRe1Mc3aPH6HBaRgv) | [Muflon Dub Soundsystem](https://open.spotify.com/artist/2Ezu1DrYA7N80DduUwUnE1), [Norma](https://open.spotify.com/artist/0m9V6VkZS0jjZXHJRjsqVC), [Kasia](https://open.spotify.com/artist/29qQXkeJ7QhNmubpz5DTJp) | [In Love with Righteousness \(2005\-2014 Best Dubs Compilation\)](https://open.spotify.com/album/0yCEH2qbynKuAzXt7x3Yzp) | 5:16 | 2024-05-01 |  |
@@ -2455,6 +2458,7 @@
 | [The Weekend \- Instrumental](https://open.spotify.com/track/3JjUm4kaHKZYdakw0g6dRf) | [Metok Maximus](https://open.spotify.com/artist/5YTX9oJVrxwWJuVbRdxNK1) | [The Weekend \(Instrumental\)](https://open.spotify.com/album/6BqZxVnaPZEsLNsVO5m5BS) | 2:32 | 2026-07-28 |  |
 | [The Weeping Rainbow](https://open.spotify.com/track/1YE981wrMDBlDb9BZgfcLd) | [Helen Keeling\-Marston](https://open.spotify.com/artist/54Nc4fNhCbrKoouLdouBNP) | [The Piano Collection](https://open.spotify.com/album/0mHDC2paInSHSaywRiya55) | 3:33 | 2025-09-22 |  |
 | [The Winner](https://open.spotify.com/track/3BCsYObh1cfCmmHoS6BLR4) | [Steady One](https://open.spotify.com/artist/2q4yXK2kPUl9TGyzCEPlQ6), [Kansai D](https://open.spotify.com/artist/69YS0sRULcC5izV36pkYyO), [Battle of the Year](https://open.spotify.com/artist/05vRRmMD2Yx0dFvZYVbyRM) | [Battle Of The Year 2022 \- The Soundtrack](https://open.spotify.com/album/58FiS8bdBWwzTpS7P53rEU) | 3:28 | 2026-02-07 |  |
+| [The Wrong Side of Lost Creek Road](https://open.spotify.com/track/4i24GF3yF7Btw8tKoFGOup) | [TimJDean](https://open.spotify.com/artist/3LgStKz1Nr9W12CfPu1zBR) | [The Wrong Side of Lost Creek Road](https://open.spotify.com/album/5HcAv6kLeBytDJzU0wWbhh) | 2:48 | 2026-11-24 |  |
 | [Therapy For My Soul](https://open.spotify.com/track/0ZLlDdJmv4tOvtG9W081rG) | [Jeezy](https://open.spotify.com/artist/4yBK75WVCQXej1p04GWqxH) | [The Recession 2](https://open.spotify.com/album/11BJJE6R9ovFR6J2fMoLWc) | 4:17 | 2024-03-04 |  |
 | [There Is A Dub](https://open.spotify.com/track/15SK6MSCSMH6LQZEL1W8rh) | [Leo Tan](https://open.spotify.com/artist/5shj8Xh6BYHjlKPygFXAat), [I\-niverse](https://open.spotify.com/artist/2WAHbjZ3rFVggTgLMCHJLA) | [Holy Ground, Vol\. 1](https://open.spotify.com/album/5RugmFSjKKXVZQKvwkk4zo) | 3:52 | 2026-10-28 |  |
 | [There Is A Place](https://open.spotify.com/track/3KqzZRI85MeT4WYgfQnAHf) | [Leo Tan](https://open.spotify.com/artist/5shj8Xh6BYHjlKPygFXAat), [I\-niverse](https://open.spotify.com/artist/2WAHbjZ3rFVggTgLMCHJLA) | [Holy Ground, Vol\. 1](https://open.spotify.com/album/5RugmFSjKKXVZQKvwkk4zo) | 3:52 | 2026-10-28 |  |

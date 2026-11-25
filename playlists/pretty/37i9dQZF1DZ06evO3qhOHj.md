@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3qhOHj.md) - [plain]
 
 > This is Mr\. Big\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 31,360 likes - 50 songs - 3 hr 25 min
+[Spotify](https://open.spotify.com/user/spotify) - 31,368 likes - 50 songs - 3 hr 25 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -35,18 +35,18 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3qhOHj.md) - [plain]
 | 25 | [Colorado Bulldog](https://open.spotify.com/track/7CqczQ0HGS9C7koT1NMWcb) | [Mr\. Big](https://open.spotify.com/artist/5OfhOoKunSnuubxxRML8J3) | [Bump Ahead \[Expanded\]](https://open.spotify.com/album/4CgsfLFMXaJVXz0k2mHkVA) | 4:13 |
 | 26 | [CDFF\-Lucky This Time](https://open.spotify.com/track/0HVMgdDyhr4pwNqrVh1TWB) | [Mr\. Big](https://open.spotify.com/artist/5OfhOoKunSnuubxxRML8J3) | [Lean Into It \[Expanded\]](https://open.spotify.com/album/6CrjpyjlfjK95oHF6dvEnQ) | 4:13 |
 | 27 | [Where Are They Now?](https://open.spotify.com/track/6624eWVGf6m29iK3AKXuI6) | [Mr\. Big](https://open.spotify.com/artist/5OfhOoKunSnuubxxRML8J3) | [Deep Cuts: The Best Of The Ballads](https://open.spotify.com/album/7ecgPBHbGOm0S4Hl21FEgq) | 4:22 |
-| 28 | [Wake Up](https://open.spotify.com/track/4QO00F2MwWmZ37IeoSWejw) | [Mr\. Big](https://open.spotify.com/artist/5OfhOoKunSnuubxxRML8J3) | [Actual Size](https://open.spotify.com/album/3l02aZ9l93Pyoq2nXkfQPq) | 3:44 |
-| 29 | [Dancin' Right into the Flame](https://open.spotify.com/track/1itoqFGkjBIoVyyibyCIjs) | [Mr\. Big](https://open.spotify.com/artist/5OfhOoKunSnuubxxRML8J3) | [Hey Man \[Expanded\]](https://open.spotify.com/album/2f5EZBoBDNDRFH6KfcFktJ) | 3:03 |
+| 28 | [Dancin' Right into the Flame](https://open.spotify.com/track/1itoqFGkjBIoVyyibyCIjs) | [Mr\. Big](https://open.spotify.com/artist/5OfhOoKunSnuubxxRML8J3) | [Hey Man \[Expanded\]](https://open.spotify.com/album/2f5EZBoBDNDRFH6KfcFktJ) | 3:03 |
+| 29 | [Wake Up](https://open.spotify.com/track/4QO00F2MwWmZ37IeoSWejw) | [Mr\. Big](https://open.spotify.com/artist/5OfhOoKunSnuubxxRML8J3) | [Actual Size](https://open.spotify.com/album/3l02aZ9l93Pyoq2nXkfQPq) | 3:44 |
 | 30 | [Stranger In My Life](https://open.spotify.com/track/25Ft3uRiRsbvnsrF9vOJXv) | [Mr\. Big](https://open.spotify.com/artist/5OfhOoKunSnuubxxRML8J3) | [Live From The Living Room](https://open.spotify.com/album/59xrZMtRGj46AFad07qjLS) | 5:03 |
 | 31 | [Strike Like Lightning](https://open.spotify.com/track/58LtaOiGBPEeVbJUUxXFRE) | [Mr\. Big](https://open.spotify.com/artist/5OfhOoKunSnuubxxRML8J3) | [Greatest Hits](https://open.spotify.com/album/7uV3SQQ8UOlvZOnEh1E8xi) | 3:42 |
 | 32 | [Road to Ruin](https://open.spotify.com/track/2mkrQ6styM2orpDSCTmfm8) | [Mr\. Big](https://open.spotify.com/artist/5OfhOoKunSnuubxxRML8J3) | [Lean Into It \[Expanded\]](https://open.spotify.com/album/6CrjpyjlfjK95oHF6dvEnQ) | 3:59 |
 | 33 | [Nothing Like It In The World](https://open.spotify.com/track/3TcMPHNlBkwvMy5b3k041x) | [Mr\. Big](https://open.spotify.com/artist/5OfhOoKunSnuubxxRML8J3) | [Actual Size](https://open.spotify.com/album/3l02aZ9l93Pyoq2nXkfQPq) | 5:00 |
-| 34 | [Undertow](https://open.spotify.com/track/3g811urVvhkvAv3fT5BzTq) | [Mr\. Big](https://open.spotify.com/artist/5OfhOoKunSnuubxxRML8J3) | [What If...](https://open.spotify.com/album/378UK4ew1Emc72jH4KzRfq) | 4:48 |
-| 35 | [The Chain](https://open.spotify.com/track/4z0gMSL3Z1pIdt8Psi2P6D) | [Mr\. Big](https://open.spotify.com/artist/5OfhOoKunSnuubxxRML8J3) | [Hey Man \[Expanded\]](https://open.spotify.com/album/2f5EZBoBDNDRFH6KfcFktJ) | 3:46 |
+| 34 | [The Chain](https://open.spotify.com/track/4z0gMSL3Z1pIdt8Psi2P6D) | [Mr\. Big](https://open.spotify.com/artist/5OfhOoKunSnuubxxRML8J3) | [Hey Man \[Expanded\]](https://open.spotify.com/album/2f5EZBoBDNDRFH6KfcFktJ) | 3:46 |
+| 35 | [Undertow](https://open.spotify.com/track/3g811urVvhkvAv3fT5BzTq) | [Mr\. Big](https://open.spotify.com/artist/5OfhOoKunSnuubxxRML8J3) | [What If...](https://open.spotify.com/album/378UK4ew1Emc72jH4KzRfq) | 4:48 |
 | 36 | [Take A Walk \- 2009 Remastered Version](https://open.spotify.com/track/2sr8VvGdSUb4KHMHRaKnPd) | [Mr\. Big](https://open.spotify.com/artist/5OfhOoKunSnuubxxRML8J3) | [Mr\. Big \[Expanded\]](https://open.spotify.com/album/18HPDet34B8LwgCfagDeZd) | 3:57 |
 | 37 | [Suffocation](https://open.spotify.com/track/6LBTeCeUVFXO9rf6LbkDYI) | [Mr\. Big](https://open.spotify.com/artist/5OfhOoKunSnuubxxRML8J3) | [Actual Size](https://open.spotify.com/album/3l02aZ9l93Pyoq2nXkfQPq) | 4:42 |
-| 38 | [All the Way Up](https://open.spotify.com/track/4JtkYz1y2fuu5r4AbedNCt) | [Mr\. Big](https://open.spotify.com/artist/5OfhOoKunSnuubxxRML8J3) | [What If...](https://open.spotify.com/album/1HSKINJIwGJj6ECnx9gSiP) | 5:12 |
-| 39 | [Tears](https://open.spotify.com/track/2dvxVshYOguKNlimauN4Mx) | [Mr\. Big](https://open.spotify.com/artist/5OfhOoKunSnuubxxRML8J3) | [Hey Man \[Expanded\]](https://open.spotify.com/album/2f5EZBoBDNDRFH6KfcFktJ) | 3:20 |
+| 38 | [Tears](https://open.spotify.com/track/2dvxVshYOguKNlimauN4Mx) | [Mr\. Big](https://open.spotify.com/artist/5OfhOoKunSnuubxxRML8J3) | [Hey Man \[Expanded\]](https://open.spotify.com/album/2f5EZBoBDNDRFH6KfcFktJ) | 3:20 |
+| 39 | [All the Way Up](https://open.spotify.com/track/4JtkYz1y2fuu5r4AbedNCt) | [Mr\. Big](https://open.spotify.com/artist/5OfhOoKunSnuubxxRML8J3) | [What If...](https://open.spotify.com/album/1HSKINJIwGJj6ECnx9gSiP) | 5:12 |
 | 40 | [How Does It Feel](https://open.spotify.com/track/4JDD3UYWUKvYX5j1UwSg5d) | [Mr\. Big](https://open.spotify.com/artist/5OfhOoKunSnuubxxRML8J3) | [Get Over It](https://open.spotify.com/album/49pbcb2iALtFnSAZDcdBDE) | 4:12 |
 | 41 | [Big Love \- 2009 Remastered Version](https://open.spotify.com/track/3HrCCxsNoBBYBoNhcjivPg) | [Mr\. Big](https://open.spotify.com/artist/5OfhOoKunSnuubxxRML8J3) | [Mr\. Big \[Expanded\]](https://open.spotify.com/album/18HPDet34B8LwgCfagDeZd) | 4:49 |
 | 42 | [Had Enough \- 2023 Remastered](https://open.spotify.com/track/4bdJBbE17wBF9BRnaodYpk) | [Mr\. Big](https://open.spotify.com/artist/5OfhOoKunSnuubxxRML8J3) | [Mr\. Big \(2023 Remastered\)](https://open.spotify.com/album/5OtrlDneedFuFRBHrtNa42) | 4:55 |
@@ -57,6 +57,6 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3qhOHj.md) - [plain]
 | 47 | [Damn I'm In Love Again](https://open.spotify.com/track/46b9DcpbBoMmTWK1zmLqMy) | [Mr\. Big](https://open.spotify.com/artist/5OfhOoKunSnuubxxRML8J3) | [Defying Gravity](https://open.spotify.com/album/0HOvcOEPF8JnjuJAw6GWME) | 2:55 |
 | 48 | [Electrified](https://open.spotify.com/track/4sRcPII8MiwTQGxptPdDVF) | [Mr\. Big](https://open.spotify.com/artist/5OfhOoKunSnuubxxRML8J3) | [Get Over It](https://open.spotify.com/album/49pbcb2iALtFnSAZDcdBDE) | 4:11 |
 | 49 | [As Far As I Can See](https://open.spotify.com/track/7K3IcXuMFzd3gTZBZNBKxf) | [Mr\. Big](https://open.spotify.com/artist/5OfhOoKunSnuubxxRML8J3) | [What If...](https://open.spotify.com/album/1HSKINJIwGJj6ECnx9gSiP) | 3:54 |
-| 50 | [Up On You](https://open.spotify.com/track/1gG6L0YWBg5HvMK5TZtyZQ) | [Mr\. Big](https://open.spotify.com/artist/5OfhOoKunSnuubxxRML8J3) | [Ten](https://open.spotify.com/album/3HA5is8uSDPpJcfZnBGkU9) | 4:34 |
+| 50 | [She's All Coming Back To Me Now](https://open.spotify.com/track/2feNXHDGrehg9fiNpnTTLN) | [Mr\. Big](https://open.spotify.com/artist/5OfhOoKunSnuubxxRML8J3) | [Defying Gravity](https://open.spotify.com/album/0HOvcOEPF8JnjuJAw6GWME) | 4:21 |
 
-Snapshot ID: `awIwgAAAAABvPHyxDtqevfaAwGk5GNkZ`
+Snapshot ID: `awOCAAAAAABR8dn25SpShyV68+3Xpzmq`

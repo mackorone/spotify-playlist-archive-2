@@ -1,12 +1,12 @@
 {
   "description": "a state of mind. Cover: Charley Crockett",
-  "num_followers": 230545,
+  "num_followers": 230565,
   "original_name": "Outlaw ",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAPJZoJ/pPtxikGgq2Nf9zmGvvBT4",
+  "snapshot_id": "AAAAAPBxptBbCY9B4pHo2o7htuhw7ZIO",
   "tracks": [
     {
       "added_at": "2026-08-21 04:01:33",
@@ -371,22 +371,6 @@
     {
       "added_at": "2026-08-21 04:01:33",
       "album": {
-        "name": "Mama Tried",
-        "url": "https://open.spotify.com/album/0f6Gx3lFLqdcY8XSXMKgCm"
-      },
-      "artists": [
-        {
-          "name": "Merle Haggard & The Strangers",
-          "url": "https://open.spotify.com/artist/3mSAqBoXQgdlpwzWsIgBzL"
-        }
-      ],
-      "duration_ms": 132626,
-      "name": "Mama Tried - Remastered 2001",
-      "url": "https://open.spotify.com/track/1FTlLpP6V05yJWmcIg0rlK"
-    },
-    {
-      "added_at": "2026-08-21 04:01:33",
-      "album": {
         "name": "Sellout",
         "url": "https://open.spotify.com/album/5lbVCoz3kk3ITB6BRBfBMy"
       },
@@ -399,6 +383,22 @@
       "duration_ms": 238211,
       "name": "Drunk Driving",
       "url": "https://open.spotify.com/track/3ERb3f5nGNwRcNLNoN3KRg"
+    },
+    {
+      "added_at": "2026-08-21 04:01:33",
+      "album": {
+        "name": "Mama Tried",
+        "url": "https://open.spotify.com/album/0f6Gx3lFLqdcY8XSXMKgCm"
+      },
+      "artists": [
+        {
+          "name": "Merle Haggard & The Strangers",
+          "url": "https://open.spotify.com/artist/3mSAqBoXQgdlpwzWsIgBzL"
+        }
+      ],
+      "duration_ms": 132626,
+      "name": "Mama Tried - Remastered 2001",
+      "url": "https://open.spotify.com/track/1FTlLpP6V05yJWmcIg0rlK"
     },
     {
       "added_at": "2026-08-21 04:01:33",

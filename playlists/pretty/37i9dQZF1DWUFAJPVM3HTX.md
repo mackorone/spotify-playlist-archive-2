@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUFAJPVM3HTX.md) - [plain]
 
 > The best new R&B by independent artists and labels\. Cover: <a href="https://open.spotify.com/artist/1d31pvQ23phSKJISEqXQLO?si=9ae1382b68cd4db3"> JEDSOUL</a>\. Updates every Wednesday.
 
-[Spotify](https://open.spotify.com/user/spotify) - 295,789 likes - 120 songs - 6 hr 3 min
+[Spotify](https://open.spotify.com/user/spotify) - 295,842 likes - 120 songs - 6 hr 3 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -129,4 +129,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUFAJPVM3HTX.md) - [plain]
 | 119 | [F.O.O.L](https://open.spotify.com/track/4nphN02N23z4bYvDlLbAYC) | [Storm Ford](https://open.spotify.com/artist/0On2yf7ZQXFJJ4CbZoYty2) | [Deposit](https://open.spotify.com/album/6Q3hvYLQBNK5vsq2ZXFjBU) | 2:22 |
 | 120 | [Tricks Are For Kids](https://open.spotify.com/track/4G59GzF7Enxx2XiGKbYkVw) | [rjtheweirdo](https://open.spotify.com/artist/5XWVWbQiBVEEXZSFyEsUcW) | [Tricks Are For Kids](https://open.spotify.com/album/1OuyXG6n4qbD91SUPss8pO) | 2:20 |
 
-Snapshot ID: `AAAAAO8I2FHnJTWsv62YaOHLIBYjaQtT`
+Snapshot ID: `AAAAAAHryOER8YYTrdQDYUL9lcr0aKnj`

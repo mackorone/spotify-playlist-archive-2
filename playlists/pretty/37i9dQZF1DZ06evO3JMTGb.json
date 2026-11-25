@@ -6,7 +6,7 @@
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "awIwgAAAAACgtpl8cwUn1SaLlOZ6l+b3",
+  "snapshot_id": "awOCAAAAAACb9YLnSQI4NjvAppIqF2ts",
   "tracks": [
     {
       "added_at": null,
@@ -539,6 +539,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Planetes",
+        "url": "https://open.spotify.com/album/7mgSukUn1BYjvnzNWCruCf"
+      },
+      "artists": [
+        {
+          "name": "Sofie Birch",
+          "url": "https://open.spotify.com/artist/6kEyGr2dFnzcKGxpHmnJnn"
+        }
+      ],
+      "duration_ms": 274115,
+      "name": "Begin Sync End",
+      "url": "https://open.spotify.com/track/4eqsRAIh3ZxHbV9uvW5oa3"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "2nd Quake",
         "url": "https://open.spotify.com/album/0e7lXXUdpt9aBP6neNLolB"
       },
@@ -555,22 +571,6 @@
       "duration_ms": 311077,
       "name": "Silver Age",
       "url": "https://open.spotify.com/track/4ztZ4SgrT8OnBCaExPva0R"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Island Alchemy",
-        "url": "https://open.spotify.com/album/1ERBT1FkGAKPslESZgxWKS"
-      },
-      "artists": [
-        {
-          "name": "Sofie Birch",
-          "url": "https://open.spotify.com/artist/6kEyGr2dFnzcKGxpHmnJnn"
-        }
-      ],
-      "duration_ms": 618138,
-      "name": "Myg",
-      "url": "https://open.spotify.com/track/5Duc5JGiBxkKMueTcdgPzp"
     },
     {
       "added_at": null,
@@ -628,9 +628,9 @@
           "url": "https://open.spotify.com/artist/3l6IHjr0ouXmcLF1eY1Kxw"
         }
       ],
-      "duration_ms": 263022,
-      "name": "Bike Sacrifice",
-      "url": "https://open.spotify.com/track/2kVlm5uFn9B47pjcZBlc7N"
+      "duration_ms": 230000,
+      "name": "Connotes Beauty",
+      "url": "https://open.spotify.com/track/5b89aevKt1ynGCX26kToQ6"
     },
     {
       "added_at": null,
@@ -668,9 +668,9 @@
           "url": "https://open.spotify.com/artist/3l6IHjr0ouXmcLF1eY1Kxw"
         }
       ],
-      "duration_ms": 230000,
-      "name": "Connotes Beauty",
-      "url": "https://open.spotify.com/track/5b89aevKt1ynGCX26kToQ6"
+      "duration_ms": 263022,
+      "name": "Bike Sacrifice",
+      "url": "https://open.spotify.com/track/2kVlm5uFn9B47pjcZBlc7N"
     },
     {
       "added_at": null,
@@ -708,9 +708,9 @@
           "url": "https://open.spotify.com/artist/2xV4z30ITk9LqUk1GKYlrR"
         }
       ],
-      "duration_ms": 256682,
-      "name": "Morning Room I",
-      "url": "https://open.spotify.com/track/4ilKTNUX2tnJFrFNHJcOHm"
+      "duration_ms": 295789,
+      "name": "The Journey",
+      "url": "https://open.spotify.com/track/7ncpJdSRl6DYSA6vw4vhbg"
     }
   ],
   "unique_name": "This Is Sofie Birch",

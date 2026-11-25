@@ -4,7 +4,7 @@
 
 > 'Tis the season! All new holiday releases\. Cover: Olivia Rodrigo
 
-1,227 songs - 2 day 17 hr 38 min
+1,230 songs - 2 day 17 hr 48 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -638,6 +638,7 @@
 | [Last Christmas](https://open.spotify.com/track/2OzSyKZBBVvFcZ7Ddr3VKU) | [Alanis Morissette](https://open.spotify.com/artist/6ogn9necmbUdCppmNnGOdi) | [Last Christmas](https://open.spotify.com/album/0hWKsbIJAxQsvd0Yzt7TAY) | 3:41 | 2023-11-03 | 2024-04-19 |
 | [Last Christmas](https://open.spotify.com/track/4ZXqNyS3RmoRoUJwRIgUgu) | [Alanis Morissette](https://open.spotify.com/artist/6ogn9necmbUdCppmNnGOdi) | [Last Christmas](https://open.spotify.com/album/6xf6YJSlWE1BDebyCnmhKK) | 3:41 | 2023-11-20 | 2024-10-19 |
 | [Last Christmas](https://open.spotify.com/track/1t1jP68mqJzqnjU7RtkoIo) | [Alexa Cappelli](https://open.spotify.com/artist/3L733apFuBmRr4GEVvhh9x) | [Last Christmas](https://open.spotify.com/album/7iFQc0QyPxE8ZCvTJqmCXH) | 3:20 | 2022-11-04 | 2023-10-04 |
+| [Last Christmas](https://open.spotify.com/track/6nRzUXop9fvRTNnYyYxGhi) | [Alfie Jukes](https://open.spotify.com/artist/06qfcPQQZ3AplWOg3KxsQ9) | [Last Christmas](https://open.spotify.com/album/2f0zKmLGiADHklRZRD0Qnb) | 3:33 | 2026-11-25 |  |
 | [Last Christmas](https://open.spotify.com/track/3MoVFHdQUkvZcQ1Ur969ON) | [Ally Salort](https://open.spotify.com/artist/5cCLvnxYLQiKTRLRD2DHxw) | [Last Christmas](https://open.spotify.com/album/6PATV6XKwlWIiBdI9dZN2E) | 3:31 | 2026-11-02 |  |
 | [Last Christmas](https://open.spotify.com/track/6KVbGwEeQU6OOFNImlaT3b) | [ASTN](https://open.spotify.com/artist/7zkwepHPyac6tCYl0fL0co) | [Last Christmas](https://open.spotify.com/album/4awqPGIwUO1svryLMY43KR) | 2:28 | 2023-11-17 | 2024-10-19 |
 | [Last Christmas](https://open.spotify.com/track/0ahxJ7fSpq0Jbg81prulC1) | [Backstreet Boys](https://open.spotify.com/artist/5rSXSAkZ67PYJSvpUpkOr7) | [A Very Backstreet Christmas](https://open.spotify.com/album/5953GQNfxqEWdLobD6lG7T) | 3:46 | 2022-10-25 | 2023-10-14 |
@@ -692,6 +693,7 @@
 | [Loud Little Town](https://open.spotify.com/track/4NatnnePSZTJlcqiSCYVDL) | [The Philly Specials](https://open.spotify.com/artist/4JPJvxDtfBlQAiNm8dd7vX), [Kylie Kelce](https://open.spotify.com/artist/04asCagz0sziZj9VBUce0z), [Jason Kelce](https://open.spotify.com/artist/11RtainpIFozRURWgPJxFL) | [Loud Little Town](https://open.spotify.com/album/40hGQHExoOvlqknryWdnOu) | 3:30 | 2024-11-25 | 2025-09-27 |
 | [Love Is Christmas](https://open.spotify.com/track/2cbqHk1Ty7BAvChQTkqFWT) | [Rosie Darling](https://open.spotify.com/artist/6kDXH8d9LugUAsHIozzDAI) | [Love Is Christmas](https://open.spotify.com/album/6N3EV1cYMQvUZXQjzsB4al) | 2:46 | 2021-12-24 | 2022-07-26 |
 | [Love Is Christmas](https://open.spotify.com/track/7edfMl8VjYXRMFzy4LQLGs) | [Rosie Darling](https://open.spotify.com/artist/6kDXH8d9LugUAsHIozzDAI) | [Love Is Christmas](https://open.spotify.com/album/35AQxuSSqGQadvkcnk28TG) | 2:46 | 2021-12-24 | 2022-09-28 |
+| [Love On Christmas Day](https://open.spotify.com/track/0Rn7rLBoc0bCrbEl1hejm5) | [Brother Wallace](https://open.spotify.com/artist/1Obi4nLN1WU3jho5LoPV5Z) | [Love On Christmas Day](https://open.spotify.com/album/4wr3Ti9J4x6jGN2HUf2uLY) | 2:45 | 2026-11-25 |  |
 | [lowest of lows](https://open.spotify.com/track/1tLxn21A4MTuRdH2qWf9sK) | [Josiah Queen](https://open.spotify.com/artist/7yAymwuYh9RcpX84GSNIq2) | [lowest of lows](https://open.spotify.com/album/4bgp6NgtB9aXIIe5xKHyl3) | 3:19 | 2024-12-03 | 2025-09-27 |
 | [Luz](https://open.spotify.com/track/63OpRl0Nt53FDrhhbyJ4w5) | [Myriam Hernandez](https://open.spotify.com/artist/6NHTDaYSUeMaroI5U0jytT) | [Luz](https://open.spotify.com/album/7nnEeq7t2acyQwlU97rd31) | 3:36 | 2022-12-02 | 2023-10-10 |
 | [Made It To Christmas](https://open.spotify.com/track/5zWDz6COO8kdNjG2PfTkew) | [Tiger La Flor](https://open.spotify.com/artist/5rWU8Vm32I8BJtPtrY5JC7) | [Once Upon a Christmastime](https://open.spotify.com/album/6LdtXOMJzqGO3L8IQKFW5v) | 3:16 | 2026-11-06 |  |
@@ -804,6 +806,7 @@
 | [O Holy Night](https://open.spotify.com/track/35L5f32OEgIu5yLVfJHFtJ) | [Mickey Guyton](https://open.spotify.com/artist/6nfN5B7Jmi853SHa9106Hz) | [O Holy Night](https://open.spotify.com/album/007MiUATIZAETzwP71vjxQ) | 5:07 | 2021-12-24 | 2022-09-28 |
 | [O Holy Night](https://open.spotify.com/track/4mB8BNXD3ASRsZtJpIJNTE) | [Mila Jam](https://open.spotify.com/artist/6m7wJXzvVyE0j6eef6pj1a), [Trans Chorus of Los Angeles](https://open.spotify.com/artist/4TtD6XNkJlufh7J0quit2c) | [O Holy Night](https://open.spotify.com/album/2NfBG1xSIrUstj0dxFUByP) | 2:44 | 2022-12-09 | 2023-10-28 |
 | [O Holy Night](https://open.spotify.com/track/6mV4z3vaaPUCTm7VUbDUcx) | [Natasha Zimbaro](https://open.spotify.com/artist/0kSB4L6pHAZrXStSSAycwa) | [O Holy Night](https://open.spotify.com/album/2nG3gvvoL2EIAWR4qodN8l) | 4:45 | 2024-11-25 | 2025-09-27 |
+| [O Holy Night](https://open.spotify.com/track/6w483e6FtpxXM08pIwXnEN) | [Nathan Willett](https://open.spotify.com/artist/7wEIArE2DKbAdDH0G6jxyA) | [New & Used](https://open.spotify.com/album/5jSHfcmmFnNGq1Ykm0ZaRE) | 3:54 | 2026-11-25 |  |
 | [O Holy Night](https://open.spotify.com/track/7tiWsq60y3wqRVaD4057a5) | [Norah Jones](https://open.spotify.com/artist/2Kx7MNY7cI1ENniW7vT30N) | [I Dream Of Christmas \(Deluxe\)](https://open.spotify.com/album/1QGL60gbmLX8f4mWFP0xBw) | 2:18 | 2022-10-23 | 2022-11-12 |
 | [O Holy Night](https://open.spotify.com/track/5l7iSMdGK03Cikeb47segj) | [Paul Cauthen](https://open.spotify.com/artist/6yHM0XQEdu9sIlbILMaKBp) | [O Holy Night](https://open.spotify.com/album/6V8sOWzQ11ldDHZXzrntdn) | 4:10 | 2026-11-20 |  |
 | [O Holy Night](https://open.spotify.com/track/5vV032EIPCaNXpq1AhfjDj) | [RAYE](https://open.spotify.com/artist/5KKpBU5eC2tJDzf0wmlRp2) | [O Holy Night](https://open.spotify.com/album/0jFqVbw8OyszgD0UKMAJW9) | 3:25 | 2024-12-13 | 2025-09-27 |

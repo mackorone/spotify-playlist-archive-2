@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbehaqJzJXqw.md) - [plain]
 
 > You are sipping on your coffee in a café in Paris while a Jazz band plays somewhere in the background.
 
-[Spotify](https://open.spotify.com/user/spotify) - 723,658 likes - 85 songs - 4 hr 51 min
+[Spotify](https://open.spotify.com/user/spotify) - 723,760 likes - 85 songs - 4 hr 51 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -23,8 +23,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbehaqJzJXqw.md) - [plain]
 | 13 | [Le Temps D'Un Jazz](https://open.spotify.com/track/5NWxFc2xocyRyx0sak1H9Z) | [DANIEL ROURE](https://open.spotify.com/artist/7chv9cbzN45866WLtedtIO) | [Le Temps D'un Jazz](https://open.spotify.com/album/1SCXuUhchyBCqujs642Uc9) | 3:53 |
 | 14 | [L'ombre et la lumière](https://open.spotify.com/track/7yzUHiCgF7JOzJOFE0Bnpd) | [Coralie Clement](https://open.spotify.com/artist/3mG2QgBwWdWbHNjnFC6pu4) | [Salle des pas perdus](https://open.spotify.com/album/4pDc7fgf4OewAt03wRsHJY) | 4:08 |
 | 15 | [Que je t'aime](https://open.spotify.com/track/2wqHH4mITmvGf0ogwCzS5r) | [Camille](https://open.spotify.com/artist/0gOsZcHl7H3ewXVIEnWFZX) | [Ilo Veyou](https://open.spotify.com/album/0tOFyyQeAYENYub9DDloWP) | 3:43 |
-| 16 | [Jardin d'hiver](https://open.spotify.com/track/7gHRVNiuL66Z6fE6DwZaFT) | [Henri Salvador](https://open.spotify.com/artist/0TQUgpZqEnfluYEfKQBYB6) | [Chambre avec vue](https://open.spotify.com/album/6M9b0h3mr9u46XCAgNsnNH) | 2:48 |
-| 17 | [La Rua Madureira](https://open.spotify.com/track/3jFtKmNqDyHp27m8lmEANY) | [Pauline Croze](https://open.spotify.com/artist/0jaaOnUYwYBQeUTH0sZVe1) | [Bossa Nova](https://open.spotify.com/album/0fVSKhuKSqeOSE3KXg1JYf) | 3:17 |
+| 16 | [La Rua Madureira](https://open.spotify.com/track/3jFtKmNqDyHp27m8lmEANY) | [Pauline Croze](https://open.spotify.com/artist/0jaaOnUYwYBQeUTH0sZVe1) | [Bossa Nova](https://open.spotify.com/album/0fVSKhuKSqeOSE3KXg1JYf) | 3:17 |
+| 17 | [Jardin d'hiver](https://open.spotify.com/track/7gHRVNiuL66Z6fE6DwZaFT) | [Henri Salvador](https://open.spotify.com/artist/0TQUgpZqEnfluYEfKQBYB6) | [Chambre avec vue](https://open.spotify.com/album/6M9b0h3mr9u46XCAgNsnNH) | 2:48 |
 | 18 | [Lettre A P](https://open.spotify.com/track/56j3S6jECUqwOExBifwy4B) | [Paris Combo](https://open.spotify.com/artist/5xDjKV6UvzyrI3RnwHq02G) | [Attraction](https://open.spotify.com/album/4Th7DyvnAE6nMqjTrNnsqS) | 3:42 |
 | 19 | [J'attendrai](https://open.spotify.com/track/0ik9ZRMOJjA9GK2QCcuVXj) | [Ibrahim Maalouf](https://open.spotify.com/artist/0NSO0g40h9CTj13hKPskeb), [Melody Gardot](https://open.spotify.com/artist/2P1puQXmG48EVLBrHbum1J) | [Dalida By Ibrahim Maalouf](https://open.spotify.com/album/6yEmVECRBuuBzZzGkSvTUH) | 4:19 |
 | 20 | [Liberté](https://open.spotify.com/track/4yqfZnLlKlNI4xOazFq0Jo) | [Carla Bruni](https://open.spotify.com/artist/1HVwzNriKEjaeE06okqSpx) | [Little French Songs \(Deluxe Version Without Videos\)](https://open.spotify.com/album/0VeKwTXHqVb5fHj2SaNXwx) | 3:36 |
@@ -66,8 +66,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbehaqJzJXqw.md) - [plain]
 | 56 | [La noyée](https://open.spotify.com/track/6IqdKYhWzcznN8TPOxD3i4) | [Carla Bruni](https://open.spotify.com/artist/1HVwzNriKEjaeE06okqSpx) | [Quelqu'un M'a Dit](https://open.spotify.com/album/3X2k1DIwkHiSw4KotUfG5x) | 3:58 |
 | 57 | [Chez Moi](https://open.spotify.com/track/16UdsCC8mjirUrtjA9HaG5) | [Blossom Dearie](https://open.spotify.com/artist/5bWApG9Vdshhd1J50UnNf6) | [My Gentleman Friend](https://open.spotify.com/album/5D5eQmgvrCleIhNPOixTqh) | 3:06 |
 | 58 | [Les jeux sont faits](https://open.spotify.com/track/7JTyXQErhpjBJMVKEmL2MZ) | [Fredrika Stahl](https://open.spotify.com/artist/3hWWpC6XAABcySpC1id9Q5) | [A Fraction Of You](https://open.spotify.com/album/64gdIpI1MJzTjRo2yZFBwS) | 3:37 |
-| 59 | [J’ai ta main](https://open.spotify.com/track/3xWxjeErA8FvMcF0Gq7yUO) | [Benjamin Biolay](https://open.spotify.com/artist/26Kq9bSJsElA93PflKEB1A), [Nicolas Fiszman](https://open.spotify.com/artist/4d0roMzc4feODS6OCmkJ5d), [Denis Benarrosh](https://open.spotify.com/artist/324sdO7LUc6DgR2tLLWoCa), [Vanessa Paradis](https://open.spotify.com/artist/1FmxE030Xe2H8Bn9bdv6Pd) | [Trenet](https://open.spotify.com/album/3ZZJVoDieCjBDyZl4ePZnQ) | 3:14 |
-| 60 | [En septembre sous la pluie](https://open.spotify.com/track/3xHPbpEevIm8kcHAisEkk7) | [Leo Marjane](https://open.spotify.com/artist/2nw3LsDBHTWySl4Jr7e7wH) | [La Chapelle Au Clair De Lune](https://open.spotify.com/album/6l6NB0K3Vq6ENDaMujgvPj) | 3:07 |
+| 59 | [En septembre sous la pluie](https://open.spotify.com/track/3xHPbpEevIm8kcHAisEkk7) | [Leo Marjane](https://open.spotify.com/artist/2nw3LsDBHTWySl4Jr7e7wH) | [La Chapelle Au Clair De Lune](https://open.spotify.com/album/6l6NB0K3Vq6ENDaMujgvPj) | 3:07 |
+| 60 | [J’ai ta main](https://open.spotify.com/track/3xWxjeErA8FvMcF0Gq7yUO) | [Benjamin Biolay](https://open.spotify.com/artist/26Kq9bSJsElA93PflKEB1A), [Nicolas Fiszman](https://open.spotify.com/artist/4d0roMzc4feODS6OCmkJ5d), [Denis Benarrosh](https://open.spotify.com/artist/324sdO7LUc6DgR2tLLWoCa), [Vanessa Paradis](https://open.spotify.com/artist/1FmxE030Xe2H8Bn9bdv6Pd) | [Trenet](https://open.spotify.com/album/3ZZJVoDieCjBDyZl4ePZnQ) | 3:14 |
 | 61 | [J'ai Deux Amours](https://open.spotify.com/track/6CVQKNoPVjU2U9wGZpr35F) | [Madeleine Peyroux](https://open.spotify.com/artist/7nXyULtoL8k7wP9l6kg8Ef) | [Keep Me In Your Heart For A While: The Best Of Madeleine Peyroux \(International Edition\)](https://open.spotify.com/album/4pkakYztIDn7LnsuNIGz4m) | 2:56 |
 | 62 | [Le soleil](https://open.spotify.com/track/1ddDudbgEXIFqMJQzHxidQ) | [Brigitte Bardot](https://open.spotify.com/artist/1q24xIsAD7JZuVkTLR9TJy) | [B Bardot \- CD Story](https://open.spotify.com/album/0moSn0vXjIrzWZH0weiFif) | 3:16 |
 | 63 | [Où veux\-tu aller ?](https://open.spotify.com/track/3MrZpuWijCWDsCPl6bqDqc) | [Fredrika Stahl](https://open.spotify.com/artist/3hWWpC6XAABcySpC1id9Q5) | [A Fraction Of You](https://open.spotify.com/album/64gdIpI1MJzTjRo2yZFBwS) | 3:31 |
@@ -94,4 +94,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbehaqJzJXqw.md) - [plain]
 | 84 | [Mes pas dans la neige \(Spanish Song Bird\)](https://open.spotify.com/track/7cM8i0m3As7TY3twK5867L) | [Keren Ann](https://open.spotify.com/artist/4v1YZL83eLyemlt32wWAoA) | [LA DISPARITION](https://open.spotify.com/album/6p2Mn3SnLuqX0HzzPh5zUV) | 4:17 |
 | 85 | [Samois A Moi](https://open.spotify.com/track/01PlkOByrDuSNkJEhaMnr3) | [Cyrille Aimee](https://open.spotify.com/artist/7rcjVbooAaV2pPRdyPHCrM), [Diego Figueiredo](https://open.spotify.com/artist/0fJMs5Xxtz4NyjMx2J09Ra) | [Just The Two Of Us](https://open.spotify.com/album/7aD6SxbDiyXAXoagiOxeO9) | 3:32 |
 
-Snapshot ID: `AAAAAA2eM3XjXuWQM/vny8dUfhODLrHb`
+Snapshot ID: `AAAAANeTmOZJgqX81Obx0nVyQ9wXOJRQ`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZGHXujRpFTl.md) - [plain]
 
 > Listen to music from and inspired by Club Kid, curated by Jordan Firstman.
 
-[Spotify](https://open.spotify.com/user/spotify) - 59,670 likes - 32 songs - 2 hr 11 min
+[Spotify](https://open.spotify.com/user/spotify) - 59,919 likes - 32 songs - 2 hr 11 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -41,4 +41,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZGHXujRpFTl.md) - [plain]
 | 31 | [The Boy With a Smile \- Christine and the Queens Version](https://open.spotify.com/track/4au8BdftyJZCFcEkYvxtp1) | [Christine and the Queens](https://open.spotify.com/artist/04vj3iPUiVh5melWr0w3xT) | [Club Kid \(Music From & Inspired by the Film\)](https://open.spotify.com/album/4zviaEC41HajSLNJ4ZInwa) | 4:05 |
 | 32 | [The Boy With a Smile \- Nirosta Steel Version](https://open.spotify.com/track/3cgFhAYEJg9vr91wXj1u0M) | [Nirosta Steel](https://open.spotify.com/artist/6B6MO6Q4QoLGVq7Kf8vlGM) | [Club Kid \(Music From & Inspired by the Film\)](https://open.spotify.com/album/4zviaEC41HajSLNJ4ZInwa) | 3:29 |
 
-Snapshot ID: `AAAAAD/X6Lhj/8h/2zNnI71OKeSIsRJo`
+Snapshot ID: `AAAAAGOgO0Wt5tvSv7UkUm9iAf7txK1w`

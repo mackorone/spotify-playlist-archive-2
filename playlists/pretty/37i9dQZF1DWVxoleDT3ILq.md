@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVxoleDT3ILq.md) - [plain]
 
 > Humboldt en portada.
 
-[Spotify](https://open.spotify.com/user/spotify) - 113,677 likes - 68 songs - 4 hr 14 min
+[Spotify](https://open.spotify.com/user/spotify) - 113,655 likes - 68 songs - 4 hr 14 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -77,4 +77,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVxoleDT3ILq.md) - [plain]
 | 67 | [POLA](https://open.spotify.com/track/64RBI6lj9sX8CCULKZWb7B) | [Los Perros de Pavlov](https://open.spotify.com/artist/0nZhzqipHRMGBF6ocgPyLq) | [POLA](https://open.spotify.com/album/2IyyoZX90AtkAaw6ywNleP) | 3:06 |
 | 68 | [Huella](https://open.spotify.com/track/4i99HAH4jsoatFXaafktzi) | [Mecánico](https://open.spotify.com/artist/2oUsBhAi9Mac4BjHxt55ct), [Dënver](https://open.spotify.com/artist/0KPHupxNcc9XMQ0SSn3LKo) | [Longitudinales](https://open.spotify.com/album/5gVtWqYnYjqHJ1jfjtpzPR) | 2:52 |
 
-Snapshot ID: `AAAAADpao3vFpUJoRRT+8khp+jrmgOJI`
+Snapshot ID: `AAAAAOFphEnGKzBJqiLZls+6okQQ8DPd`

@@ -1243,6 +1243,32 @@
     },
     {
       "album": {
+        "name": "Afsurdagi",
+        "url": "https://open.spotify.com/album/6bya9DNYL4c3b4TgPUciQ5"
+      },
+      "artists": [
+        {
+          "name": "Khan",
+          "url": "https://open.spotify.com/artist/6Pw5uJLhqmspnTuHchPnmS"
+        },
+        {
+          "name": "Noor",
+          "url": "https://open.spotify.com/artist/7F5LO6TFFBGkRhsQdCcLVm"
+        },
+        {
+          "name": "Yaani Karnawat",
+          "url": "https://open.spotify.com/artist/2DQRnUEWF0YPw4vXHgJzq8"
+        }
+      ],
+      "date_added": "2026-11-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 217959,
+      "name": "Afsurdagi",
+      "url": "https://open.spotify.com/track/45CtI088j2t6xdtlKguJt8"
+    },
+    {
+      "album": {
         "name": "rang",
         "url": "https://open.spotify.com/album/4GPA5RIUlzvOfyK9WNwwP7"
       },
@@ -9663,6 +9689,32 @@
     },
     {
       "album": {
+        "name": "Hai Mann Bawra",
+        "url": "https://open.spotify.com/album/3Uq19vieqskcPtLB4YdDe1"
+      },
+      "artists": [
+        {
+          "name": "Amjad Nadeem Aamir",
+          "url": "https://open.spotify.com/artist/47alRXX8AZZKee6glPMZXq"
+        },
+        {
+          "name": "Sahil Solanki",
+          "url": "https://open.spotify.com/artist/4HOFwTSYn9JAfqvJj9ie7F"
+        },
+        {
+          "name": "Amjad Nadeem",
+          "url": "https://open.spotify.com/artist/6hD51uyW40XNAYtUbQYytV"
+        }
+      ],
+      "date_added": "2026-11-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 198233,
+      "name": "Hai Mann Bawra",
+      "url": "https://open.spotify.com/track/06TlAGERXsHHsrLeN7Y0zm"
+    },
+    {
+      "album": {
         "name": "Pagalpan - The Album",
         "url": "https://open.spotify.com/album/6ZFCFsn4GBD4ttDdTQZ5KO"
       },
@@ -10427,6 +10479,32 @@
     },
     {
       "album": {
+        "name": "Hum Mastane",
+        "url": "https://open.spotify.com/album/1vfMuIrqsfhvvvUUUl93Xr"
+      },
+      "artists": [
+        {
+          "name": "LAKSH",
+          "url": "https://open.spotify.com/artist/4EGa6ia0ocaQEZpSwJyqOV"
+        },
+        {
+          "name": "Maven Music",
+          "url": "https://open.spotify.com/artist/7qsUZEko6gauCXtSdrOelW"
+        },
+        {
+          "name": "saksham dhyani",
+          "url": "https://open.spotify.com/artist/4UAFxXN3ovNQvlDlICUhx5"
+        }
+      ],
+      "date_added": "2026-11-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 204000,
+      "name": "Hum Mastane",
+      "url": "https://open.spotify.com/track/1a7Nn7nU9L6envlc9Pco1I"
+    },
+    {
+      "album": {
         "name": "The Revolutionaries",
         "url": "https://open.spotify.com/album/2aq7z6Dru4WZ0qdvrsngZC"
       },
@@ -10776,7 +10854,7 @@
       ],
       "date_added": "2026-11-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-25",
       "duration_ms": 192541,
       "name": "Ichak Dana (From \"Meethe Mein Kya Hai\")",
       "url": "https://open.spotify.com/track/1cKRxN6CnT8PBz32k0ivIE"
@@ -10996,6 +11074,32 @@
       "duration_ms": 142173,
       "name": "Ishaare",
       "url": "https://open.spotify.com/track/0cd2z6Lkm6Syj01l9bdEzq"
+    },
+    {
+      "album": {
+        "name": "Ishq",
+        "url": "https://open.spotify.com/album/2cEW6UxYUwYeg4Q0aQYSXf"
+      },
+      "artists": [
+        {
+          "name": "Sonu Kakkar",
+          "url": "https://open.spotify.com/artist/1Pn6pKlgzxcH6iIRp08dQr"
+        },
+        {
+          "name": "The Kabir",
+          "url": "https://open.spotify.com/artist/6yPhcGRmraBwXnqANykgQS"
+        },
+        {
+          "name": "BYG BASS",
+          "url": "https://open.spotify.com/artist/7qScqy8QkqngHWUluAWVux"
+        }
+      ],
+      "date_added": "2026-11-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 194257,
+      "name": "Ishq",
+      "url": "https://open.spotify.com/track/0r5uz6o594BJOe7voVOy96"
     },
     {
       "album": {
@@ -13912,7 +14016,7 @@
       ],
       "date_added": "2026-11-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-25",
       "duration_ms": 340212,
       "name": "Kaho Tumko",
       "url": "https://open.spotify.com/track/4RS4hRU1oiiE0cenXPkx7q"
@@ -14038,7 +14142,7 @@
       ],
       "date_added": "2026-10-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-25",
       "duration_ms": 168599,
       "name": "Kaise Kahoon",
       "url": "https://open.spotify.com/track/6qlZ1V2PSqcS7QrdJ6GpH0"
@@ -22332,7 +22436,7 @@
       ],
       "date_added": "2026-10-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-25",
       "duration_ms": 194061,
       "name": "Ravana Tandav (From \"Ramayana\") [HINDI]",
       "url": "https://open.spotify.com/track/5Bks0fnpnmV4Tt0PzieAOL"
@@ -22458,7 +22562,7 @@
       ],
       "date_added": "2026-11-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-25",
       "duration_ms": 194608,
       "name": "Reham Rakh",
       "url": "https://open.spotify.com/track/3eUaIqbtHI53pkOJpeIMsf"
@@ -24880,6 +24984,32 @@
       "duration_ms": 156477,
       "name": "Starstruck",
       "url": "https://open.spotify.com/track/4B3Zu3ZkocQJ5uZ0LSVi2z"
+    },
+    {
+      "album": {
+        "name": "Subah",
+        "url": "https://open.spotify.com/album/7lkp07INfzCEslxmRvHTFM"
+      },
+      "artists": [
+        {
+          "name": "Ajay Bijli",
+          "url": "https://open.spotify.com/artist/29I61qIZ96iWQMz6CQP0o5"
+        },
+        {
+          "name": "Amit Trivedi",
+          "url": "https://open.spotify.com/artist/7HCqGPJcQTyGJ2yqntbuyr"
+        },
+        {
+          "name": "Swanand Kirkire",
+          "url": "https://open.spotify.com/artist/4q7O0NIvhz0G1IgyfOmdcz"
+        }
+      ],
+      "date_added": "2026-11-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 198000,
+      "name": "Subah",
+      "url": "https://open.spotify.com/track/455Ogi2VThAWwkrkAnVI2a"
     },
     {
       "album": {

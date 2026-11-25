@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFIRh12Xeaf6a.md) - [plain]
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/3svMrp8RwsOrJ2NaPbK3x9">Carole King</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 4,451 likes - 290 songs - 15 hr 2 min
+[Spotify](https://open.spotify.com/user/spotify) - 4,452 likes - 290 songs - 15 hr 2 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -91,8 +91,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFIRh12Xeaf6a.md) - [plain]
 | 81 | [Is This What I Get For Loving You?](https://open.spotify.com/track/2F4ix8buVKDFhVH4yjOg2s) | [The Ronettes](https://open.spotify.com/artist/7CyeXFnOrfC1N6z4naIpgo) | [Be My Baby: The Very Best of The Ronettes](https://open.spotify.com/album/3vLFWR3fLqfY82WGvaLuyV) | 3:21 |
 | 82 | [Show Me the Way](https://open.spotify.com/track/2mz4wiWpIMbGPuV8tO4xft) | [Ben E\. King](https://open.spotify.com/artist/3plJVWt88EqjvtuB4ZDRV3) | [Don't Play That Song \(Mono\)](https://open.spotify.com/album/0miYpSKEtkvaSe3PKfpdOb) | 2:19 |
 | 83 | [Sharing You](https://open.spotify.com/track/4ypZEpTX71A1i5HY8ofw2K) | [Bobby Vee](https://open.spotify.com/artist/5MX2l6ewjOaeWn1lYNhzlO) | [A Bobby Vee Recording Session](https://open.spotify.com/album/5HVg69JrZiQStID8kndZ7K) | 2:02 |
-| 84 | [Make the Night a Little Longer](https://open.spotify.com/track/11XXkGv4pof3CTz6c3dmMx) | [The Shirelles](https://open.spotify.com/artist/0x83OBqixqdCHnStP5VMcn) | [Baby It's You](https://open.spotify.com/album/1uCxbnVYLbYGToExqSqWw9) | 2:29 |
-| 85 | [One Was Johnny](https://open.spotify.com/track/0c8SIKptqeB9qNC4g9c0jj) | [Carole King](https://open.spotify.com/artist/319yZVtYM9MBGqmSQnMyY6) | [Really Rosie](https://open.spotify.com/album/2fknQru3D4hvsU7BDfgbSd) | 2:08 |
+| 84 | [One Was Johnny](https://open.spotify.com/track/0c8SIKptqeB9qNC4g9c0jj) | [Carole King](https://open.spotify.com/artist/319yZVtYM9MBGqmSQnMyY6) | [Really Rosie](https://open.spotify.com/album/2fknQru3D4hvsU7BDfgbSd) | 2:08 |
+| 85 | [Make the Night a Little Longer](https://open.spotify.com/track/11XXkGv4pof3CTz6c3dmMx) | [The Shirelles](https://open.spotify.com/artist/0x83OBqixqdCHnStP5VMcn) | [Baby It's You](https://open.spotify.com/album/1uCxbnVYLbYGToExqSqWw9) | 2:29 |
 | 86 | [Song of Long Ago](https://open.spotify.com/track/0exUcfluyGwOgsfYh9xYNf) | [Carole King](https://open.spotify.com/artist/319yZVtYM9MBGqmSQnMyY6) | [Music](https://open.spotify.com/album/6RWKpU7niokSEFMrrtAgBj) | 2:44 |
 | 87 | [The Old Crowd](https://open.spotify.com/track/4u4elgxRlDNeiQ0tn3yxnT) | [Lesley Gore](https://open.spotify.com/artist/08b2PA6eFyugsWAk41eQKZ) | [Lesley Gore Sings Of Mixed\-Up Hearts](https://open.spotify.com/album/5eluBwSJ7uwDBizWCiazSJ) | 2:26 |
 | 88 | [Star Collector](https://open.spotify.com/track/1cYvqJrC0egct53jd6gl3e) | [The Monkees](https://open.spotify.com/artist/320EPCSEezHt1rtbfwH6Ck) | [Pisces, Aquarius, Capricorn & Jones Ltd.](https://open.spotify.com/album/3NauSOiaCDwAUJVswXCoLO) | 4:25 |
@@ -204,8 +204,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFIRh12Xeaf6a.md) - [plain]
 | 194 | [Don't Have The Right To Cry](https://open.spotify.com/track/3snVJyPEbFrnKdAYXzU0k6) | [Erma Franklin](https://open.spotify.com/artist/1CzJJJb6hnx84VNhgaJmFG) | [Erma Franklin: Piece Of Her Heart \- The Epic And Shout Years](https://open.spotify.com/album/3GykoJmCI2qmvrgi8zQ7XW) | 3:19 |
 | 195 | [Daughter Of Light](https://open.spotify.com/track/5tpL0OquIwmUJzLPdazwzx) | [Carole King](https://open.spotify.com/artist/319yZVtYM9MBGqmSQnMyY6) | [Thoroughbred](https://open.spotify.com/album/6n61GdcPqMQRkKYii9am8K) | 3:12 |
 | 196 | [A Night This Side of Dying](https://open.spotify.com/track/5iNuEBdMTstvevKBqCFUIf) | [Carole King](https://open.spotify.com/artist/319yZVtYM9MBGqmSQnMyY6) | [Breaking Up](https://open.spotify.com/album/5q2IiyDCqPptZrrw7EbtBa) | 3:01 |
-| 197 | [Heaven Is Being with You](https://open.spotify.com/track/4DCeCxzvM8jJpIcn7IykDk) | [Jackie DeShannon](https://open.spotify.com/artist/0iVed2Qu7dmL0pIYCj1Xw8) | [JACKIE DESHANNON \- FOREVER POP HITS\(Energetic, High\-energy, Dynamic, Powerful\)](https://open.spotify.com/album/019RjZLR6f60p1NYt0CrXH) | 2:19 |
-| 198 | [Ties That Bind](https://open.spotify.com/track/20psXaj97NFE662mSeJUAg) | [Carole King](https://open.spotify.com/artist/319yZVtYM9MBGqmSQnMyY6) | [Carole King: The Ode Collection](https://open.spotify.com/album/3kbEbYvWSub8LsGZpq6lcp) | 2:09 |
+| 197 | [Ties That Bind](https://open.spotify.com/track/20psXaj97NFE662mSeJUAg) | [Carole King](https://open.spotify.com/artist/319yZVtYM9MBGqmSQnMyY6) | [Carole King: The Ode Collection](https://open.spotify.com/album/3kbEbYvWSub8LsGZpq6lcp) | 2:09 |
+| 198 | [Heaven Is Being with You](https://open.spotify.com/track/4DCeCxzvM8jJpIcn7IykDk) | [Jackie DeShannon](https://open.spotify.com/artist/0iVed2Qu7dmL0pIYCj1Xw8) | [JACKIE DESHANNON \- FOREVER POP HITS\(Energetic, High\-energy, Dynamic, Powerful\)](https://open.spotify.com/album/019RjZLR6f60p1NYt0CrXH) | 2:19 |
 | 199 | [I Need You](https://open.spotify.com/track/1I8CgNZDmGPX0kcBPkcOOl) | [The Walker Brothers](https://open.spotify.com/artist/49WlsIvcUYj7Awo93hDKgf) | [The Sun Ain't Gonna Shine Anymore](https://open.spotify.com/album/6FdtrfulrgcChnVtVyw4an) | 3:13 |
 | 200 | [Time Gone By](https://open.spotify.com/track/5tDFZPFaTGbTZW0mW596k7) | [Carole King](https://open.spotify.com/artist/319yZVtYM9MBGqmSQnMyY6) | [Touch the Sky](https://open.spotify.com/album/4zWaxKSpJTVw8J6qsRi4es) | 4:15 |
 | 201 | [A Road to Nowhere](https://open.spotify.com/track/1tfyZdl5w2gxywZKR4wWT0) | [Nicole Atkins](https://open.spotify.com/artist/4ab2tQaaTr2TnairelOwvO) | [Italian Ice](https://open.spotify.com/album/5fMEqegQ5CNA7V4OB7ROWV) | 4:14 |
@@ -299,4 +299,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFIRh12Xeaf6a.md) - [plain]
 | 289 | [So This Is How It Feels](https://open.spotify.com/track/67wjnFeLF2bsZbhDAf85wg) | [The Countrymen](https://open.spotify.com/artist/0C62w20FpxpOHiWM9UCObQ) | [One Fine Day: The Songs of Goffin & King](https://open.spotify.com/album/0j2kaxs6fKFcFYiCJ7uE96) | 1:49 |
 | 290 | [So Did I](https://open.spotify.com/track/1X6oGhjB6wU1tUjnozuPtq) | [Jackie Trent](https://open.spotify.com/artist/2u5zpLHWeLbAyvfFZfcTPb) | [One Fine Day: The Songs of Goffin & King](https://open.spotify.com/album/0j2kaxs6fKFcFYiCJ7uE96) | 1:56 |
 
-Snapshot ID: `AcifWgAAAAAqpY9crVJ8ZWkNze79mfe9`
+Snapshot ID: `AcikZAAAAABVgB23mvZl9CssAcD55Q/H`

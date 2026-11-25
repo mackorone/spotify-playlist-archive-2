@@ -1,12 +1,12 @@
 {
   "description": "This is Willie Nelson. The essential tracks, all in one playlist.",
-  "num_followers": 205547,
+  "num_followers": 205552,
   "original_name": "This Is Willie Nelson",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "awIwgAAAAAA/uRvllYYltUHAqR+bVCFG",
+  "snapshot_id": "awOCAAAAAAD68fYTGR2wl2qFE/HN3W86",
   "tracks": [
     {
       "added_at": null,
@@ -859,6 +859,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "The Music of Red Dead Redemption 2 (Original Soundtrack)",
+        "url": "https://open.spotify.com/album/5Oli3gQJrHdahY7FDEoofW"
+      },
+      "artists": [
+        {
+          "name": "Willie Nelson",
+          "url": "https://open.spotify.com/artist/5W5bDNCqJ1jbCgTxDD0Cb3"
+        }
+      ],
+      "duration_ms": 148293,
+      "name": "Cruel World",
+      "url": "https://open.spotify.com/track/166Dyvfibu4SOygA4vub85"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "COWBOY CARTER",
         "url": "https://open.spotify.com/album/6BzxX6zkDsYKFJ04ziU5xQ"
       },
@@ -875,22 +891,6 @@
       "duration_ms": 50721,
       "name": "SMOKE HOUR \u2605 WILLIE NELSON",
       "url": "https://open.spotify.com/track/2dv2DYn0V0j0Wx6Ra40bce"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "The Music of Red Dead Redemption 2 (Original Soundtrack)",
-        "url": "https://open.spotify.com/album/5Oli3gQJrHdahY7FDEoofW"
-      },
-      "artists": [
-        {
-          "name": "Willie Nelson",
-          "url": "https://open.spotify.com/artist/5W5bDNCqJ1jbCgTxDD0Cb3"
-        }
-      ],
-      "duration_ms": 148293,
-      "name": "Cruel World",
-      "url": "https://open.spotify.com/track/166Dyvfibu4SOygA4vub85"
     },
     {
       "added_at": null,
@@ -967,26 +967,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "American Classic",
-        "url": "https://open.spotify.com/album/1tUvHnprAPtpCVmwA1B5WI"
-      },
-      "artists": [
-        {
-          "name": "Willie Nelson",
-          "url": "https://open.spotify.com/artist/5W5bDNCqJ1jbCgTxDD0Cb3"
-        },
-        {
-          "name": "Diana Krall",
-          "url": "https://open.spotify.com/artist/5z1VAFwT35EVvCp1XlZZuL"
-        }
-      ],
-      "duration_ms": 261706,
-      "name": "If I Had You",
-      "url": "https://open.spotify.com/track/13wnRucX2HNMXfYZWz070v"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Fire & Brimstone",
         "url": "https://open.spotify.com/album/54NjC2mCWlhIE3Ji4G9Vl0"
       },
@@ -1011,6 +991,26 @@
       "duration_ms": 181173,
       "name": "Welcome To Hazeville",
       "url": "https://open.spotify.com/track/39TYRr1lPpurfYPXzsOiBV"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "American Classic",
+        "url": "https://open.spotify.com/album/1tUvHnprAPtpCVmwA1B5WI"
+      },
+      "artists": [
+        {
+          "name": "Willie Nelson",
+          "url": "https://open.spotify.com/artist/5W5bDNCqJ1jbCgTxDD0Cb3"
+        },
+        {
+          "name": "Diana Krall",
+          "url": "https://open.spotify.com/artist/5z1VAFwT35EVvCp1XlZZuL"
+        }
+      ],
+      "duration_ms": 261706,
+      "name": "If I Had You",
+      "url": "https://open.spotify.com/track/13wnRucX2HNMXfYZWz070v"
     },
     {
       "added_at": null,
@@ -1099,6 +1099,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "It Always Will Be",
+        "url": "https://open.spotify.com/album/4Qw9sHdDJ895wC6tiILJ2U"
+      },
+      "artists": [
+        {
+          "name": "Willie Nelson",
+          "url": "https://open.spotify.com/artist/5W5bDNCqJ1jbCgTxDD0Cb3"
+        }
+      ],
+      "duration_ms": 251866,
+      "name": "It Always Will Be",
+      "url": "https://open.spotify.com/track/1GD9E5AKfQvEvmwePCQLFd"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "To All The Girls...",
         "url": "https://open.spotify.com/album/3ztZ9tYkxsTYPp9LQ4qeMx"
       },
@@ -1115,22 +1131,6 @@
       "duration_ms": 241538,
       "name": "From Here to the Moon and Back (feat. Dolly Parton)",
       "url": "https://open.spotify.com/track/1SG91Ocs6KjP8DQlPmITgU"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "It Always Will Be",
-        "url": "https://open.spotify.com/album/4Qw9sHdDJ895wC6tiILJ2U"
-      },
-      "artists": [
-        {
-          "name": "Willie Nelson",
-          "url": "https://open.spotify.com/artist/5W5bDNCqJ1jbCgTxDD0Cb3"
-        }
-      ],
-      "duration_ms": 251866,
-      "name": "It Always Will Be",
-      "url": "https://open.spotify.com/track/1GD9E5AKfQvEvmwePCQLFd"
     }
   ],
   "unique_name": "This Is Willie Nelson",

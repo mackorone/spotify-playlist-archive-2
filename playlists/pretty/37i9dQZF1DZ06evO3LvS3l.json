@@ -1,12 +1,12 @@
 {
   "description": "This is David Allan Coe. The essential tracks, all in one playlist.",
-  "num_followers": 29330,
+  "num_followers": 29332,
   "original_name": "This Is David Allan Coe",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "awIwgAAAAAAegTfhJG3tNqRB2UkEyrZt",
+  "snapshot_id": "awOCAAAAAADfInSoEgG/BR6RnABjjAJt",
   "tracks": [
     {
       "added_at": null,
@@ -299,22 +299,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Just Divorced",
-        "url": "https://open.spotify.com/album/4RzPzFa3rXfDt3M0P5JAoQ"
-      },
-      "artists": [
-        {
-          "name": "David Allan Coe",
-          "url": "https://open.spotify.com/artist/6nwh8AhPpbwOUnHZJWrHT6"
-        }
-      ],
-      "duration_ms": 147973,
-      "name": "Blue Grass Morning",
-      "url": "https://open.spotify.com/track/0DswKH36OANJJuRNlDXMLl"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Darlin', Darlin'",
         "url": "https://open.spotify.com/album/0ttaFuz2MNLsozzwbTn07B"
       },
@@ -331,6 +315,22 @@
       "duration_ms": 168080,
       "name": "Don't Cry Darlin' (Recitation by George Jones)",
       "url": "https://open.spotify.com/track/5sTNElZHQWHWkz3WuIX3XA"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Just Divorced",
+        "url": "https://open.spotify.com/album/4RzPzFa3rXfDt3M0P5JAoQ"
+      },
+      "artists": [
+        {
+          "name": "David Allan Coe",
+          "url": "https://open.spotify.com/artist/6nwh8AhPpbwOUnHZJWrHT6"
+        }
+      ],
+      "duration_ms": 147973,
+      "name": "Blue Grass Morning",
+      "url": "https://open.spotify.com/track/0DswKH36OANJJuRNlDXMLl"
     },
     {
       "added_at": null,
@@ -771,22 +771,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "A Million Reasons",
-        "url": "https://open.spotify.com/album/1bfjEyZsT3daZv9quo6XMo"
-      },
-      "artists": [
-        {
-          "name": "David Allan Coe",
-          "url": "https://open.spotify.com/artist/6nwh8AhPpbwOUnHZJWrHT6"
-        }
-      ],
-      "duration_ms": 229862,
-      "name": "A Million Reasons",
-      "url": "https://open.spotify.com/track/64BYhPaU7Tj5gFZ6sSAyUQ"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "D.A.C.",
         "url": "https://open.spotify.com/album/60EBaGNNZ6CPedkImS61v1"
       },
@@ -799,6 +783,22 @@
       "duration_ms": 150173,
       "name": "Whiskey, Whiskey (Take My Mind)",
       "url": "https://open.spotify.com/track/1wF6guhoUL3dHyzHbUX1GB"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "A Million Reasons",
+        "url": "https://open.spotify.com/album/1bfjEyZsT3daZv9quo6XMo"
+      },
+      "artists": [
+        {
+          "name": "David Allan Coe",
+          "url": "https://open.spotify.com/artist/6nwh8AhPpbwOUnHZJWrHT6"
+        }
+      ],
+      "duration_ms": 229862,
+      "name": "A Million Reasons",
+      "url": "https://open.spotify.com/track/64BYhPaU7Tj5gFZ6sSAyUQ"
     },
     {
       "added_at": null,

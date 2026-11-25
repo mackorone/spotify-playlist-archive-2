@@ -1,12 +1,12 @@
 {
   "description": "Unwind in time to these 70s classics.",
-  "num_followers": 303511,
+  "num_followers": 303514,
   "original_name": "Unwind 70s",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAD7nW3chgnEhMBZXBe4S5lK7tbLr",
+  "snapshot_id": "AAAAAHqkNvF9wu7Ui5a8BVaOfU6yISJG",
   "tracks": [
     {
       "added_at": "2024-08-05 06:44:38",
@@ -159,22 +159,6 @@
     {
       "added_at": "2024-08-05 06:44:38",
       "album": {
-        "name": "Rumours",
-        "url": "https://open.spotify.com/album/1bt6q2SruMsBtcerNVtpZB"
-      },
-      "artists": [
-        {
-          "name": "Fleetwood Mac",
-          "url": "https://open.spotify.com/artist/08GQAI4eElDnROBrJRGE0X"
-        }
-      ],
-      "duration_ms": 223613,
-      "name": "Go Your Own Way - 2004 Remaster",
-      "url": "https://open.spotify.com/track/07GvNcU1WdyZJq3XxP0kZa"
-    },
-    {
-      "added_at": "2024-08-05 06:44:38",
-      "album": {
         "name": "Just As I Am",
         "url": "https://open.spotify.com/album/6N8uPmDqbgXD3ztkCCfxoo"
       },
@@ -187,6 +171,22 @@
       "duration_ms": 126458,
       "name": "Ain't No Sunshine",
       "url": "https://open.spotify.com/track/1k1Bqnv2R0uJXQN4u6LKYt"
+    },
+    {
+      "added_at": "2024-08-05 06:44:38",
+      "album": {
+        "name": "Rumours",
+        "url": "https://open.spotify.com/album/1bt6q2SruMsBtcerNVtpZB"
+      },
+      "artists": [
+        {
+          "name": "Fleetwood Mac",
+          "url": "https://open.spotify.com/artist/08GQAI4eElDnROBrJRGE0X"
+        }
+      ],
+      "duration_ms": 223613,
+      "name": "Go Your Own Way - 2004 Remaster",
+      "url": "https://open.spotify.com/track/07GvNcU1WdyZJq3XxP0kZa"
     },
     {
       "added_at": "2024-08-05 06:44:38",
@@ -439,22 +439,6 @@
     {
       "added_at": "2024-08-05 06:44:38",
       "album": {
-        "name": "No Secrets",
-        "url": "https://open.spotify.com/album/79x0PRGIZv33znrCkPkCZ5"
-      },
-      "artists": [
-        {
-          "name": "Carly Simon",
-          "url": "https://open.spotify.com/artist/4FtSnMlCVxCswABUmdhwpm"
-        }
-      ],
-      "duration_ms": 258411,
-      "name": "You're So Vain",
-      "url": "https://open.spotify.com/track/2DnJjbjNTV9Nd5NOa1KGba"
-    },
-    {
-      "added_at": "2024-08-05 06:44:38",
-      "album": {
         "name": "Minute by Minute",
         "url": "https://open.spotify.com/album/7je2uv9QBH65HhADDZitbB"
       },
@@ -467,6 +451,22 @@
       "duration_ms": 223866,
       "name": "What a Fool Believes",
       "url": "https://open.spotify.com/track/2yBVeksU2EtrPJbTu4ZslK"
+    },
+    {
+      "added_at": "2024-08-05 06:44:38",
+      "album": {
+        "name": "No Secrets",
+        "url": "https://open.spotify.com/album/79x0PRGIZv33znrCkPkCZ5"
+      },
+      "artists": [
+        {
+          "name": "Carly Simon",
+          "url": "https://open.spotify.com/artist/4FtSnMlCVxCswABUmdhwpm"
+        }
+      ],
+      "duration_ms": 258411,
+      "name": "You're So Vain",
+      "url": "https://open.spotify.com/track/2DnJjbjNTV9Nd5NOa1KGba"
     },
     {
       "added_at": "2024-08-05 06:44:38",
@@ -615,6 +615,22 @@
     {
       "added_at": "2024-08-05 06:44:38",
       "album": {
+        "name": "Piano Man",
+        "url": "https://open.spotify.com/album/77ErLrVvYETIlQJHAwhfIH"
+      },
+      "artists": [
+        {
+          "name": "Billy Joel",
+          "url": "https://open.spotify.com/artist/6zFYqv1mOsgBRQbae3JJ9e"
+        }
+      ],
+      "duration_ms": 339290,
+      "name": "Piano Man",
+      "url": "https://open.spotify.com/track/78WVLOP9pN0G3gRLFy1rAa"
+    },
+    {
+      "added_at": "2024-08-05 06:44:38",
+      "album": {
         "name": "Take The Heat Off Me",
         "url": "https://open.spotify.com/album/1KQUrny9y5zGpktF6hAGd4"
       },
@@ -659,22 +675,6 @@
       "duration_ms": 255875,
       "name": "Walk On the Wild Side",
       "url": "https://open.spotify.com/track/5p3JunprHCxClJjOmcLV8G"
-    },
-    {
-      "added_at": "2024-08-05 06:44:38",
-      "album": {
-        "name": "Piano Man",
-        "url": "https://open.spotify.com/album/77ErLrVvYETIlQJHAwhfIH"
-      },
-      "artists": [
-        {
-          "name": "Billy Joel",
-          "url": "https://open.spotify.com/artist/6zFYqv1mOsgBRQbae3JJ9e"
-        }
-      ],
-      "duration_ms": 339290,
-      "name": "Piano Man",
-      "url": "https://open.spotify.com/track/78WVLOP9pN0G3gRLFy1rAa"
     },
     {
       "added_at": "2024-08-05 06:44:38",

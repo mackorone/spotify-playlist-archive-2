@@ -1,12 +1,12 @@
 {
   "description": "The Indie highlights of 2018. Cover: The 1975",
-  "num_followers": 96372,
+  "num_followers": 96378,
   "original_name": "Best of Indie 2018",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAMFLsR0eCaqPbPvRr20JqN6R/Q6G",
+  "snapshot_id": "AAAAADpq1E88TAY6cacEgjMm6PTzu4ms",
   "tracks": [
     {
       "added_at": "2024-03-18 13:22:22",
@@ -187,18 +187,18 @@
     {
       "added_at": "2024-03-18 13:22:22",
       "album": {
-        "name": "Mirror Master",
-        "url": "https://open.spotify.com/album/6blMxezujKgPe8HjHNveuG"
+        "name": "The Now Now",
+        "url": "https://open.spotify.com/album/1amYhlukNF8WdaQC3gKkgL"
       },
       "artists": [
         {
-          "name": "Young the Giant",
-          "url": "https://open.spotify.com/artist/4j56EQDQu5XnL7R3E9iFJT"
+          "name": "Gorillaz",
+          "url": "https://open.spotify.com/artist/3AA28KZvwAUcZuOKwyblJQ"
         }
       ],
-      "duration_ms": 230959,
-      "name": "Superposition",
-      "url": "https://open.spotify.com/track/67YPjbcxUypwNOwYBZquq1"
+      "duration_ms": 162626,
+      "name": "Tranz",
+      "url": "https://open.spotify.com/track/7jYUaoOfdcYgUvkK8NnFfx"
     },
     {
       "added_at": "2024-03-18 13:22:22",
@@ -219,18 +219,18 @@
     {
       "added_at": "2024-03-18 13:22:22",
       "album": {
-        "name": "The Now Now",
-        "url": "https://open.spotify.com/album/1amYhlukNF8WdaQC3gKkgL"
+        "name": "Mirror Master",
+        "url": "https://open.spotify.com/album/6blMxezujKgPe8HjHNveuG"
       },
       "artists": [
         {
-          "name": "Gorillaz",
-          "url": "https://open.spotify.com/artist/3AA28KZvwAUcZuOKwyblJQ"
+          "name": "Young the Giant",
+          "url": "https://open.spotify.com/artist/4j56EQDQu5XnL7R3E9iFJT"
         }
       ],
-      "duration_ms": 162626,
-      "name": "Tranz",
-      "url": "https://open.spotify.com/track/7jYUaoOfdcYgUvkK8NnFfx"
+      "duration_ms": 230959,
+      "name": "Superposition",
+      "url": "https://open.spotify.com/track/67YPjbcxUypwNOwYBZquq1"
     },
     {
       "added_at": "2024-03-18 13:22:22",
@@ -451,6 +451,22 @@
     {
       "added_at": "2024-03-18 13:22:22",
       "album": {
+        "name": "A Brief Inquiry Into Online Relationships",
+        "url": "https://open.spotify.com/album/6PWXKiakqhI17mTYM4y6oY"
+      },
+      "artists": [
+        {
+          "name": "The 1975",
+          "url": "https://open.spotify.com/artist/3mIj9lX2MWuHmhNCA7LSCW"
+        }
+      ],
+      "duration_ms": 207851,
+      "name": "TOOTIMETOOTIMETOOTIME",
+      "url": "https://open.spotify.com/track/33DzKnwuBE6lfOiADwzd5E"
+    },
+    {
+      "added_at": "2024-03-18 13:22:22",
+      "album": {
         "name": "NOTHIN LIKE U / CHANCES",
         "url": "https://open.spotify.com/album/2KVBhRpYqnjAVE4eWW3W6g"
       },
@@ -467,22 +483,6 @@
       "duration_ms": 218187,
       "name": "CHANCES",
       "url": "https://open.spotify.com/track/439X8jGytErRiPnaoUJHju"
-    },
-    {
-      "added_at": "2024-03-18 13:22:22",
-      "album": {
-        "name": "A Brief Inquiry Into Online Relationships",
-        "url": "https://open.spotify.com/album/6PWXKiakqhI17mTYM4y6oY"
-      },
-      "artists": [
-        {
-          "name": "The 1975",
-          "url": "https://open.spotify.com/artist/3mIj9lX2MWuHmhNCA7LSCW"
-        }
-      ],
-      "duration_ms": 207851,
-      "name": "TOOTIMETOOTIMETOOTIME",
-      "url": "https://open.spotify.com/track/33DzKnwuBE6lfOiADwzd5E"
     },
     {
       "added_at": "2024-03-18 13:22:22",
@@ -523,22 +523,6 @@
     {
       "added_at": "2024-03-18 13:22:22",
       "album": {
-        "name": "High As Hope",
-        "url": "https://open.spotify.com/album/0pKZJj9GzcKPCS8r4IaksA"
-      },
-      "artists": [
-        {
-          "name": "Florence + The Machine",
-          "url": "https://open.spotify.com/artist/1moxjboGR7GNWYIMWsRjgG"
-        }
-      ],
-      "duration_ms": 214666,
-      "name": "Hunger",
-      "url": "https://open.spotify.com/track/6Ju28M6P8Y8sLjBgWjyUUD"
-    },
-    {
-      "added_at": "2024-03-18 13:22:22",
-      "album": {
         "name": "Tranquility Base Hotel & Casino",
         "url": "https://open.spotify.com/album/7v6FNgLDS8KmaWA1amUtqe"
       },
@@ -551,6 +535,22 @@
       "duration_ms": 312346,
       "name": "Four Out Of Five",
       "url": "https://open.spotify.com/track/5Z5nbOXhsSbySVC7WUc6y9"
+    },
+    {
+      "added_at": "2024-03-18 13:22:22",
+      "album": {
+        "name": "High As Hope",
+        "url": "https://open.spotify.com/album/0pKZJj9GzcKPCS8r4IaksA"
+      },
+      "artists": [
+        {
+          "name": "Florence + The Machine",
+          "url": "https://open.spotify.com/artist/1moxjboGR7GNWYIMWsRjgG"
+        }
+      ],
+      "duration_ms": 214666,
+      "name": "Hunger",
+      "url": "https://open.spotify.com/track/6Ju28M6P8Y8sLjBgWjyUUD"
     },
     {
       "added_at": "2024-03-18 13:22:22",
@@ -815,6 +815,22 @@
     {
       "added_at": "2024-03-18 13:22:22",
       "album": {
+        "name": "Francis Trouble",
+        "url": "https://open.spotify.com/album/3SwIjv6JSHkY14XUbOAtkp"
+      },
+      "artists": [
+        {
+          "name": "Albert Hammond Jr",
+          "url": "https://open.spotify.com/artist/1Li0eIWeMeWcOOWpImcG9H"
+        }
+      ],
+      "duration_ms": 208213,
+      "name": "Set to Attack",
+      "url": "https://open.spotify.com/track/7sI80PK0P3tDCvULKszqzL"
+    },
+    {
+      "added_at": "2024-03-18 13:22:22",
+      "album": {
         "name": "Sit Next to Me (Stereotypes Remix)",
         "url": "https://open.spotify.com/album/0SBjLqgv3wzOb5LtvYz0zf"
       },
@@ -831,22 +847,6 @@
       "duration_ms": 190720,
       "name": "Sit Next to Me - Stereotypes Remix",
       "url": "https://open.spotify.com/track/4v0CuFW0bEMBQ1gRn2mB3X"
-    },
-    {
-      "added_at": "2024-03-18 13:22:22",
-      "album": {
-        "name": "Francis Trouble",
-        "url": "https://open.spotify.com/album/3SwIjv6JSHkY14XUbOAtkp"
-      },
-      "artists": [
-        {
-          "name": "Albert Hammond Jr",
-          "url": "https://open.spotify.com/artist/1Li0eIWeMeWcOOWpImcG9H"
-        }
-      ],
-      "duration_ms": 208213,
-      "name": "Set to Attack",
-      "url": "https://open.spotify.com/track/7sI80PK0P3tDCvULKszqzL"
     },
     {
       "added_at": "2024-03-18 13:22:22",
@@ -1268,9 +1268,25 @@
           "url": "https://open.spotify.com/artist/1QAJqy2dA3ihHBFIHRphZj"
         }
       ],
-      "duration_ms": 266666,
-      "name": "Crush",
-      "url": "https://open.spotify.com/track/4WfV1CNg91SBp8oG0VY0VB"
+      "duration_ms": 303296,
+      "name": "Sesame Syrup",
+      "url": "https://open.spotify.com/track/53k1gKFpKrDbktUzrB80f0"
+    },
+    {
+      "added_at": "2024-03-18 13:22:22",
+      "album": {
+        "name": "Classic",
+        "url": "https://open.spotify.com/album/2gHoyHYnaGEctKR8kysOAU"
+      },
+      "artists": [
+        {
+          "name": "Freedom Fry",
+          "url": "https://open.spotify.com/artist/195hFqaTDENqLCcG8uGtM7"
+        }
+      ],
+      "duration_ms": 194000,
+      "name": "Awake",
+      "url": "https://open.spotify.com/track/47ed9eO66cBHvWteLlF7C0"
     },
     {
       "added_at": "2024-03-18 13:22:22",
@@ -1291,22 +1307,6 @@
       "duration_ms": 261881,
       "name": "It Runs Through Me",
       "url": "https://open.spotify.com/track/02CygBCQOIyEuhNZqHHcNx"
-    },
-    {
-      "added_at": "2024-03-18 13:22:22",
-      "album": {
-        "name": "Classic",
-        "url": "https://open.spotify.com/album/2gHoyHYnaGEctKR8kysOAU"
-      },
-      "artists": [
-        {
-          "name": "Freedom Fry",
-          "url": "https://open.spotify.com/artist/195hFqaTDENqLCcG8uGtM7"
-        }
-      ],
-      "duration_ms": 194000,
-      "name": "Awake",
-      "url": "https://open.spotify.com/track/47ed9eO66cBHvWteLlF7C0"
     },
     {
       "added_at": "2024-03-18 13:22:22",
@@ -1352,9 +1352,9 @@
           "url": "https://open.spotify.com/artist/1QAJqy2dA3ihHBFIHRphZj"
         }
       ],
-      "duration_ms": 303296,
-      "name": "Sesame Syrup",
-      "url": "https://open.spotify.com/track/53k1gKFpKrDbktUzrB80f0"
+      "duration_ms": 266666,
+      "name": "Crush",
+      "url": "https://open.spotify.com/track/4WfV1CNg91SBp8oG0VY0VB"
     },
     {
       "added_at": "2024-03-18 13:22:22",
@@ -1403,6 +1403,22 @@
       "duration_ms": 193429,
       "name": "Nobody",
       "url": "https://open.spotify.com/track/6bTn1ovliI0OkjUNkiMBJq"
+    },
+    {
+      "added_at": "2024-03-18 13:22:22",
+      "album": {
+        "name": "Solarize",
+        "url": "https://open.spotify.com/album/0i38zdK4NoZLJmKPkzf1WB"
+      },
+      "artists": [
+        {
+          "name": "Capital Cities",
+          "url": "https://open.spotify.com/artist/4gwpcMTbLWtBUlOijbVpuu"
+        }
+      ],
+      "duration_ms": 213000,
+      "name": "Swimming Pool Summer",
+      "url": "https://open.spotify.com/track/477PCJRTtOZHVmP5ygdldS"
     },
     {
       "added_at": "2024-03-18 13:22:22",
@@ -1459,22 +1475,6 @@
     {
       "added_at": "2024-03-18 13:22:22",
       "album": {
-        "name": "Solarize",
-        "url": "https://open.spotify.com/album/0i38zdK4NoZLJmKPkzf1WB"
-      },
-      "artists": [
-        {
-          "name": "Capital Cities",
-          "url": "https://open.spotify.com/artist/4gwpcMTbLWtBUlOijbVpuu"
-        }
-      ],
-      "duration_ms": 213000,
-      "name": "Swimming Pool Summer",
-      "url": "https://open.spotify.com/track/477PCJRTtOZHVmP5ygdldS"
-    },
-    {
-      "added_at": "2024-03-18 13:22:22",
-      "album": {
         "name": "summer depression",
         "url": "https://open.spotify.com/album/3jlug1mMFqnp2rTBRV020r"
       },
@@ -1487,6 +1487,22 @@
       "duration_ms": 151693,
       "name": "summer depression",
       "url": "https://open.spotify.com/track/2zPcVDSpYNVKQ5c7jR7MXj"
+    },
+    {
+      "added_at": "2024-03-18 13:22:22",
+      "album": {
+        "name": "Beautiful People Will Ruin Your Life",
+        "url": "https://open.spotify.com/album/4kUbTSoTsbKP5MRdYMDBx1"
+      },
+      "artists": [
+        {
+          "name": "The Wombats",
+          "url": "https://open.spotify.com/artist/0Ya43ZKWHTKkAbkoJJkwIB"
+        }
+      ],
+      "duration_ms": 219481,
+      "name": "Cheetah Tongue",
+      "url": "https://open.spotify.com/track/4w9TBRGhvbhiLQB8jVCusl"
     },
     {
       "added_at": "2024-03-18 13:22:22",
@@ -1511,18 +1527,18 @@
     {
       "added_at": "2024-03-18 13:22:22",
       "album": {
-        "name": "Beautiful People Will Ruin Your Life",
-        "url": "https://open.spotify.com/album/4kUbTSoTsbKP5MRdYMDBx1"
+        "name": "Hundred Acres",
+        "url": "https://open.spotify.com/album/7J2oRTfH14BbakDbmqMgiM"
       },
       "artists": [
         {
-          "name": "The Wombats",
-          "url": "https://open.spotify.com/artist/0Ya43ZKWHTKkAbkoJJkwIB"
+          "name": "S. Carey",
+          "url": "https://open.spotify.com/artist/2LSJrlndCuTpdEluvYHc2E"
         }
       ],
-      "duration_ms": 219481,
-      "name": "Cheetah Tongue",
-      "url": "https://open.spotify.com/track/4w9TBRGhvbhiLQB8jVCusl"
+      "duration_ms": 213666,
+      "name": "Rose Petals",
+      "url": "https://open.spotify.com/track/0NJ1LV5VblYyJsJt3EbAx7"
     },
     {
       "added_at": "2024-03-18 13:22:22",
@@ -1655,22 +1671,6 @@
       "duration_ms": 308346,
       "name": "Heat Wave",
       "url": "https://open.spotify.com/track/43E0f1S0rOGCo6YYRYHjHP"
-    },
-    {
-      "added_at": "2024-03-18 13:22:22",
-      "album": {
-        "name": "Hundred Acres",
-        "url": "https://open.spotify.com/album/7J2oRTfH14BbakDbmqMgiM"
-      },
-      "artists": [
-        {
-          "name": "S. Carey",
-          "url": "https://open.spotify.com/artist/2LSJrlndCuTpdEluvYHc2E"
-        }
-      ],
-      "duration_ms": 213666,
-      "name": "Rose Petals",
-      "url": "https://open.spotify.com/track/0NJ1LV5VblYyJsJt3EbAx7"
     }
   ],
   "unique_name": "Best of Indie 2018",

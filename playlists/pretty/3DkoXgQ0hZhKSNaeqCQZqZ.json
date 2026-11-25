@@ -6,8 +6,40 @@
     "name": "Zunkz",
     "url": "https://open.spotify.com/user/21ojyqenqyu63axkiblipyqya"
   },
-  "snapshot_id": "AAAGRYK+C7+g6adAykB3gscgYGeCtYBE",
+  "snapshot_id": "AAAGRs6HxGXQz35Kla4lhSPYtN0T4l9j",
   "tracks": [
+    {
+      "added_at": "2026-11-25 06:21:44",
+      "album": {
+        "name": "sighthound",
+        "url": "https://open.spotify.com/album/5D80bD4DHnF3x1lK5LaNCO"
+      },
+      "artists": [
+        {
+          "name": "snazzyvaka",
+          "url": "https://open.spotify.com/artist/3hHniqLXSqhRZeR3xUvlr2"
+        }
+      ],
+      "duration_ms": 114495,
+      "name": "#puppycore",
+      "url": "https://open.spotify.com/track/6B3Y9HIoDRAjetGqU5e0IO"
+    },
+    {
+      "added_at": "2026-11-25 06:21:44",
+      "album": {
+        "name": "sighthound",
+        "url": "https://open.spotify.com/album/5D80bD4DHnF3x1lK5LaNCO"
+      },
+      "artists": [
+        {
+          "name": "snazzyvaka",
+          "url": "https://open.spotify.com/artist/3hHniqLXSqhRZeR3xUvlr2"
+        }
+      ],
+      "duration_ms": 163732,
+      "name": "how much i really care",
+      "url": "https://open.spotify.com/track/30mLAouFYtE0hAH8lXApAg"
+    },
     {
       "added_at": "2026-11-14 02:30:12",
       "album": {

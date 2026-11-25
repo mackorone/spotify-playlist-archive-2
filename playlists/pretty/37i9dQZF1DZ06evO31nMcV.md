@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO31nMcV.md) - [plain]
 
 > This is Alexis Ffrench\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 28,169 likes - 50 songs - 2 hr 31 min
+[Spotify](https://open.spotify.com/user/spotify) - 28,172 likes - 50 songs - 2 hr 31 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -50,8 +50,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO31nMcV.md) - [plain]
 | 40 | [Before the World Sings](https://open.spotify.com/track/46B0NQYvNcjHo2Hyz22ORU) | [Alexis Ffrench](https://open.spotify.com/artist/58R31AvN8JMHM7xkNpVLjX) | [Before the World Sings](https://open.spotify.com/album/4AqWiCs699sAOjOzXrmq4Q) | 3:05 |
 | 41 | [Where the Sunrise Finds Me](https://open.spotify.com/track/3iwKG7KbM0FioEKECKzIul) | [Alexis Ffrench](https://open.spotify.com/artist/58R31AvN8JMHM7xkNpVLjX) | [24](https://open.spotify.com/album/2WffmCGMsHFGSjdHj3YHtW) | 2:55 |
 | 42 | [Hope](https://open.spotify.com/track/5nzGqdxOAopeh7KLI9Sy6m) | [Alexis Ffrench](https://open.spotify.com/artist/58R31AvN8JMHM7xkNpVLjX) | [Piano Karma](https://open.spotify.com/album/4lZkexfsSWFwe73hLx9Tvr) | 3:11 |
-| 43 | [Shine \- Solo Piano Version](https://open.spotify.com/track/0RSGM4UB0H4OfS7DqC06qi) | [Alexis Ffrench](https://open.spotify.com/artist/58R31AvN8JMHM7xkNpVLjX) | [The Solo Piano Collection](https://open.spotify.com/album/3xrOGtm0QQAX4VsWWKOgGK) | 3:10 |
-| 44 | [The Journey](https://open.spotify.com/track/0GErrpZaCNudZ4tzImWndx) | [The Gagliano Strings](https://open.spotify.com/artist/4LJwh9ZsgqIiJcv57e6bUO), [Alexis Ffrench](https://open.spotify.com/artist/58R31AvN8JMHM7xkNpVLjX) | [Stolen Lullabies](https://open.spotify.com/album/60I6ryl6K8EqSFnwQeLqWY) | 2:14 |
+| 43 | [The Journey](https://open.spotify.com/track/0GErrpZaCNudZ4tzImWndx) | [The Gagliano Strings](https://open.spotify.com/artist/4LJwh9ZsgqIiJcv57e6bUO), [Alexis Ffrench](https://open.spotify.com/artist/58R31AvN8JMHM7xkNpVLjX) | [Stolen Lullabies](https://open.spotify.com/album/60I6ryl6K8EqSFnwQeLqWY) | 2:14 |
+| 44 | [Shine \- Solo Piano Version](https://open.spotify.com/track/0RSGM4UB0H4OfS7DqC06qi) | [Alexis Ffrench](https://open.spotify.com/artist/58R31AvN8JMHM7xkNpVLjX) | [The Solo Piano Collection](https://open.spotify.com/album/3xrOGtm0QQAX4VsWWKOgGK) | 3:10 |
 | 45 | [Stolen Whispers](https://open.spotify.com/track/0WjHPs2g6QKQNsiH00F0yE) | [Alexis Ffrench](https://open.spotify.com/artist/58R31AvN8JMHM7xkNpVLjX) | [24](https://open.spotify.com/album/2WffmCGMsHFGSjdHj3YHtW) | 2:37 |
 | 46 | [Nine on Blue](https://open.spotify.com/track/16Ke0Ui7f8y0qti3apCEIX) | [Alexis Ffrench](https://open.spotify.com/artist/58R31AvN8JMHM7xkNpVLjX) | [Nine on Blue](https://open.spotify.com/album/1h2StLeVmSrnDOHTHZ2Dt6) | 2:45 |
 | 47 | [Midnight Dreamer](https://open.spotify.com/track/6tFQJ4WjSHXCI7SvosCRPv) | [Alexis Ffrench](https://open.spotify.com/artist/58R31AvN8JMHM7xkNpVLjX) | [Midnight Dreamer](https://open.spotify.com/album/5sb0vRgPfKGi5jJ7QTM1CK) | 3:06 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO31nMcV.md) - [plain]
 | 49 | [Evermore](https://open.spotify.com/track/15AZSOh1vE8gmwdhLrfaQM) | [Alexis Ffrench](https://open.spotify.com/artist/58R31AvN8JMHM7xkNpVLjX) | [Truth](https://open.spotify.com/album/3vkgKLIXijInCpJGgeRsaY) | 2:50 |
 | 50 | [Heartbeats \- Solo Piano Version](https://open.spotify.com/track/2MLNOCTrPGCgnfiBCosdB2) | [Alexis Ffrench](https://open.spotify.com/artist/58R31AvN8JMHM7xkNpVLjX) | [The Solo Piano Collection](https://open.spotify.com/album/3xrOGtm0QQAX4VsWWKOgGK) | 3:53 |
 
-Snapshot ID: `awIwgAAAAADsyBaiaYvi8ncgd4V++Lzv`
+Snapshot ID: `awOCAAAAAABwO0iUoQbY0pDGKwqlQy4E`

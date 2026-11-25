@@ -45,6 +45,24 @@
     },
     {
       "album": {
+        "name": "Anatomy of a Cry",
+        "url": "https://open.spotify.com/album/04f1Six4RDzxB5OdzBIyPW"
+      },
+      "artists": [
+        {
+          "name": "Crystal Murray",
+          "url": "https://open.spotify.com/artist/2lRXAjsNoYGqyYkgHxk5OH"
+        }
+      ],
+      "date_added": "2026-11-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 210146,
+      "name": "73",
+      "url": "https://open.spotify.com/track/4XLJVCUlt3Gx00SX11RnWz"
+    },
+    {
+      "album": {
         "name": "Birds, Bees, The Clouds & The Trees",
         "url": "https://open.spotify.com/album/1YSgHnC5sdVXfT9E5fOUVJ"
       },
@@ -3606,6 +3624,24 @@
       "duration_ms": 309751,
       "name": "Last Words",
       "url": "https://open.spotify.com/track/3khWqd9n9x6U7UMDlXWxbm"
+    },
+    {
+      "album": {
+        "name": "Lavender Buds b/w Nettle Leaves",
+        "url": "https://open.spotify.com/album/5iTPrPucPUw4QwEM8rCV5M"
+      },
+      "artists": [
+        {
+          "name": "El Michels Affair",
+          "url": "https://open.spotify.com/artist/0cLrgpG3pW4MX4nD8h6qCc"
+        }
+      ],
+      "date_added": "2026-11-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 208170,
+      "name": "Lavender Buds",
+      "url": "https://open.spotify.com/track/3755f0ihUO09qh3dg7AH5A"
     },
     {
       "album": {

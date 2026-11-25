@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXHa19SBc9xY.md) - [plain]
 
 > Música brasileira e as cores de um pôr do sol para completar o seu dia.
 
-[Spotify](https://open.spotify.com/user/spotify) - 130,548 likes - 85 songs - 4 hr 40 min
+[Spotify](https://open.spotify.com/user/spotify) - 130,572 likes - 85 songs - 4 hr 40 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -24,9 +24,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXHa19SBc9xY.md) - [plain]
 | 14 | [Caos e Sal](https://open.spotify.com/track/2S3zSAStwmnXTbQkYwur7G) | [IZA](https://open.spotify.com/artist/3zgnrYIltMkgeejmvMCnes) | [Caos e Sal / Tão Bonito](https://open.spotify.com/album/77Y4xJC9iuWj6RncoNSPHD) | 2:36 |
 | 15 | [Meu Xodó](https://open.spotify.com/track/7lG3abZkIFufxhvZi1FUkb) | [Preta Gil](https://open.spotify.com/artist/1i2xi8v7H0aXgMNZcOaYzB), [Fran](https://open.spotify.com/artist/1vrYVHeXLynVOgRmAxzHq1) | [Meu Xodó](https://open.spotify.com/album/7wO4t4Dz8es23EGQ6CG3LS) | 3:17 |
 | 16 | [X](https://open.spotify.com/track/0yxu73Lfmnu96II1VxvpfQ) | [Ana Gabriela](https://open.spotify.com/artist/6a9WLQ5NsIV7U2qB16uFWD) | [Ana](https://open.spotify.com/album/03EODNJC2L3f9Yq6QrgEJX) | 3:46 |
-| 17 | [Banho de Mar](https://open.spotify.com/track/1XDBNAMiOr6VlzuSXjyCFd) | [Reis do Nada](https://open.spotify.com/artist/53uVJS9yN2F0iVsZU05or3), [Re.Significa](https://open.spotify.com/artist/30c4Fu3qiLOLmMW2jjThZZ) | [Banho de Mar](https://open.spotify.com/album/2eM3zzHADGI95319Ti9gl2) | 2:49 |
+| 17 | [amores vêm e vão](https://open.spotify.com/track/6EJT6JMDqVAlxBkCsMhBFi) | [Amanda Magalhães](https://open.spotify.com/artist/5wQwhxkFXV3FVQcK8Jc0sO) | [amores vêm e vão](https://open.spotify.com/album/2XF4xVFMqUIkz0bAtmrhBf) | 3:56 |
 | 18 | [Bateu](https://open.spotify.com/track/0p6hzDZGqSC86vjGF5VhEK) | [Gilsons](https://open.spotify.com/artist/6q7nMIVgGohQ14mSsq3F8t), [Rachel Reis](https://open.spotify.com/artist/12i4XNuGj3mOnIsmeyw1HR), [Mulú](https://open.spotify.com/artist/4jsA7x5v8Xg3L4FGwyhGaQ) | [Bateu](https://open.spotify.com/album/4z66LMouo4tlRmuc8xKWKz) | 3:26 |
-| 19 | [amores vêm e vão](https://open.spotify.com/track/6EJT6JMDqVAlxBkCsMhBFi) | [Amanda Magalhães](https://open.spotify.com/artist/5wQwhxkFXV3FVQcK8Jc0sO) | [amores vêm e vão](https://open.spotify.com/album/2XF4xVFMqUIkz0bAtmrhBf) | 3:56 |
+| 19 | [Banho de Mar](https://open.spotify.com/track/1XDBNAMiOr6VlzuSXjyCFd) | [Reis do Nada](https://open.spotify.com/artist/53uVJS9yN2F0iVsZU05or3), [Re.Significa](https://open.spotify.com/artist/30c4Fu3qiLOLmMW2jjThZZ) | [Banho de Mar](https://open.spotify.com/album/2eM3zzHADGI95319Ti9gl2) | 2:49 |
 | 20 | [Rua Três](https://open.spotify.com/track/4vyaIWwgD7hVwiQK2WFHlj) | [Magi](https://open.spotify.com/artist/1wO4Q3O7ljz4tGRAVZVQXy) | [Rua Três](https://open.spotify.com/album/1ZPbCMJ85qF2d3VpUn9z6C) | 2:34 |
 | 21 | [Vai sacudir, vai abalar](https://open.spotify.com/track/0NCo0U5CIPaclauxTLWZkG) | [Versão brasileira](https://open.spotify.com/artist/0W1q0QDaLqfsW43ToxMN2E), [Pe Lu](https://open.spotify.com/artist/4ngRN8F4JgsyWOGiaW5WvD), [Renato Frei](https://open.spotify.com/artist/0jmEYuZ6H9A3QvNvPdibwV) | [Vai sacudir, vai abalar](https://open.spotify.com/album/25C430Kr2rS1YAkmTUqdTN) | 2:20 |
 | 22 | [O Amor Descansa Na Varanda](https://open.spotify.com/track/1AGfDQZ5u3qw40oQeh5lY6) | [Bryan Behr](https://open.spotify.com/artist/1nbIxJpSdhe1dzImxd8WfF) | [O Amor Descansa Na Varanda](https://open.spotify.com/album/6EmxkdaZEGD52aL5iFgmFo) | 3:24 |
@@ -58,13 +58,13 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXHa19SBc9xY.md) - [plain]
 | 48 | [Alucina](https://open.spotify.com/track/1lEkEES23vMGV2MLvpCu0e) | [AREIATERRA](https://open.spotify.com/artist/5H1FWvOZmRoBOtGMRNXmJD), [Tukum](https://open.spotify.com/artist/69aatX6EpsWfK0b4rsFsly), [Planeta Gru](https://open.spotify.com/artist/3RpH8346fxFHGupH24fLyL) | [Alucina](https://open.spotify.com/album/7ELEcCyHRqct8tehKxDjA8) | 3:00 |
 | 49 | [Sala De Estar](https://open.spotify.com/track/22kzz5JUNNdKLKChbUjjx6) | [LOFRAN](https://open.spotify.com/artist/13ec82LFkO4vxAOtkahO78), [Jadeco](https://open.spotify.com/artist/2xR72gXLvfx1hi8OcADmAY) | [Sala De Estar](https://open.spotify.com/album/4s4HfTHQpIsZDrNYhDjF8A) | 4:05 |
 | 50 | [Pode Acreditar](https://open.spotify.com/track/03oe8zQqvokacoYMOlI4Ah) | [Alma Djem](https://open.spotify.com/artist/4B8KF3OtiyDkloMmJ4qCm0) | [Pode Acreditar](https://open.spotify.com/album/5esE23Donw6EIj3knQeGhf) | 3:39 |
-| 51 | [cheia de vontade](https://open.spotify.com/track/4mJ3pcf1OjSiF0ugzIJNKz) | [Clara Valverde](https://open.spotify.com/artist/0Oyxj6T9BLAkfJmxEMbuFn) | [cheia de vontade](https://open.spotify.com/album/45ALQndFdgxFNUTtJ6GWNv) | 2:26 |
-| 52 | [Estrelas](https://open.spotify.com/track/6okZQfNorLbQlOamnbuCjB) | [Jonathan Luiz](https://open.spotify.com/artist/3Gj7twC88ahnNZktJhMGb2) | [Estrelas](https://open.spotify.com/album/3KWa6AHiQLSIvlWeoEPSkj) | 3:33 |
+| 51 | [Estrelas](https://open.spotify.com/track/6okZQfNorLbQlOamnbuCjB) | [Jonathan Luiz](https://open.spotify.com/artist/3Gj7twC88ahnNZktJhMGb2) | [Estrelas](https://open.spotify.com/album/3KWa6AHiQLSIvlWeoEPSkj) | 3:33 |
+| 52 | [cheia de vontade](https://open.spotify.com/track/4mJ3pcf1OjSiF0ugzIJNKz) | [Clara Valverde](https://open.spotify.com/artist/0Oyxj6T9BLAkfJmxEMbuFn) | [cheia de vontade](https://open.spotify.com/album/45ALQndFdgxFNUTtJ6GWNv) | 2:26 |
 | 53 | [borboletas](https://open.spotify.com/track/3ix7wwdLi4h36YJh45Ishf) | [VELINO](https://open.spotify.com/artist/734KHvgPkNca48JLXvidB3) | [borboletas](https://open.spotify.com/album/3AAl60MR90VjS70y5UvjOi) | 2:55 |
 | 54 | [Vou Me Banhar](https://open.spotify.com/track/1BFf0ApsecABByJCo1jsYr) | [LOFRAN](https://open.spotify.com/artist/13ec82LFkO4vxAOtkahO78), [Jônatas Belgrande](https://open.spotify.com/artist/6hcMvglMzhhjAuXLQuWiuz) | [Vou Me Banhar](https://open.spotify.com/album/145K2alwT2soP1E7ioZr1M) | 3:42 |
 | 55 | [Atrás do Paredão](https://open.spotify.com/track/4O6i8ct2I0HtUmZVUBlDjZ) | [Tom Rezende](https://open.spotify.com/artist/3325IUJ2U4q70EegSnunmI) | [Atrás do Paredão](https://open.spotify.com/album/4Sxugxaro4A5vKGDKWjM13) | 2:50 |
-| 56 | [Vem conversar](https://open.spotify.com/track/7BWj4bLH3ppKNGH9rncZWT) | [ALMAR](https://open.spotify.com/artist/4859dldHEllxxWOTQS1QKI) | [Flora \- EP](https://open.spotify.com/album/0SQlu42O4zvJbbEolJHTC3) | 2:38 |
-| 57 | [Deixa o Verão Acontecer](https://open.spotify.com/track/39Jjxq8jmeVzvnLDIxTGMx) | [João Mar](https://open.spotify.com/artist/2NV1SEgX1h3DIADJjzRrQy) | [Deixa o Verão Acontecer](https://open.spotify.com/album/2zqlZFCt2X6QWCaM4vW5Xf) | 2:41 |
+| 56 | [Deixa o Verão Acontecer](https://open.spotify.com/track/39Jjxq8jmeVzvnLDIxTGMx) | [João Mar](https://open.spotify.com/artist/2NV1SEgX1h3DIADJjzRrQy) | [Deixa o Verão Acontecer](https://open.spotify.com/album/2zqlZFCt2X6QWCaM4vW5Xf) | 2:41 |
+| 57 | [Vem conversar](https://open.spotify.com/track/7BWj4bLH3ppKNGH9rncZWT) | [ALMAR](https://open.spotify.com/artist/4859dldHEllxxWOTQS1QKI) | [Flora \- EP](https://open.spotify.com/album/0SQlu42O4zvJbbEolJHTC3) | 2:38 |
 | 58 | [Praia do Flamengo](https://open.spotify.com/track/42Buyq4Ae5XDO7LHv8IHGV) | [Rafael Pondé](https://open.spotify.com/artist/63ONM3te92h07qo9t6OYzc) | [Praia do Flamengo](https://open.spotify.com/album/3oZNokSA98ACGWJkOhZnb9) | 4:31 |
 | 59 | [Minha Preta](https://open.spotify.com/track/39YYJZ3UwAEpO9Rfq9njw2) | [Bistro](https://open.spotify.com/artist/4COVJI0Wq3XJNci3ySWQGx) | [Minha Preta](https://open.spotify.com/album/6wvxib67l7wYhW7T27bnqu) | 2:55 |
 | 60 | [Juízo e Responsabilidade](https://open.spotify.com/track/7p01taFUjX5boi9yIiOgEK) | [Flerte Flamingo](https://open.spotify.com/artist/7zdaWFrCzl1h0jmDGt9Qih) | [Juízo e Responsabilidade](https://open.spotify.com/album/08CY5RDd32Yyd92rOA4uVa) | 2:37 |
@@ -94,4 +94,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXHa19SBc9xY.md) - [plain]
 | 84 | [Minha Menina Bonita](https://open.spotify.com/track/6TqFaqEYI3byZNAcm8lOXl) | [Fino Coletivo](https://open.spotify.com/artist/4w4OsEmXP5ogC0U7CLnOrH) | [Copacabana](https://open.spotify.com/album/63Hzw93das0WzYgvR1gP8A) | 3:58 |
 | 85 | [Love Love](https://open.spotify.com/track/0mlV6Ox95JtjLjFI5wz4Si) | [Gilsons](https://open.spotify.com/artist/6q7nMIVgGohQ14mSsq3F8t) | [Gilsons](https://open.spotify.com/album/1FNbRPG8Oy5zi5WLRZP0YZ) | 3:25 |
 
-Snapshot ID: `AAAAAHDP/C95VEd2VjGxC3HMSYgBkoen`
+Snapshot ID: `AAAAAI/eD+SaZQ6Jkfm71jBKeJobAvmc`

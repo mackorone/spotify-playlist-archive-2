@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUptwB9dhZvQ.md) - [plain]
 
 > Its time to relish the best themes of Kollywood!<br/>Cover : DC
 
-[Spotify](https://open.spotify.com/user/spotify) - 111,114 likes - 75 songs - 2 hr 23 min
+[Spotify](https://open.spotify.com/user/spotify) - 111,130 likes - 75 songs - 2 hr 23 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -21,13 +21,13 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUptwB9dhZvQ.md) - [plain]
 | 11 | [How Else to Name It?](https://open.spotify.com/track/4uTDjWUAcN89tNSntdUHOP) | [Ilaiyaraaja](https://open.spotify.com/artist/3m49WVMU4zCkaVEKb8kFW7) | [Dorothy \(Original Background Score\)](https://open.spotify.com/album/3YqDASfbZeuiKGnjHqceh6) | 2:51 |
 | 12 | [Dub Theri Step](https://open.spotify.com/track/3ZUAuDavYW0KrYf1Q3fBDP) | [G\. V\. Prakash](https://open.spotify.com/artist/5VVN3xZw1i2qihfITZlvCZ), [Arunraja Kamaraj](https://open.spotify.com/artist/3jw6WnDlhrKkNjgcp8JGQe) | [Theri \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/57PZ81n80Hwh4fNLdsx7vp) | 1:59 |
 | 13 | [Benz In The Universe Theme \- From "Benz"](https://open.spotify.com/track/0fHJMPTfOZX4ief6dp8UgO) | [Sai Abhyankkar](https://open.spotify.com/artist/5jJrJU7VVmxQQLcLAmmxXc) | [Benz In The Universe Theme \(From "Benz"\)](https://open.spotify.com/album/4QYeVQr1Uvy5Pm2G5iPclD) | 2:00 |
-| 14 | [Padaiyappa Theme](https://open.spotify.com/track/4CNDukte38IXyjvSFR55I3) | [A.R\. Rahman](https://open.spotify.com/artist/1mYsTxnqsietFxj1OgoGbG) | [Padaiyappa \(Original Background Score\)](https://open.spotify.com/album/6o4v88RU1YBb0mjjQPt83k) | 0:46 |
-| 15 | [Jilla Theme](https://open.spotify.com/track/2ev3UOM2TLhquAupkuTd6v) | [Santhosh Hariharan](https://open.spotify.com/artist/4nWXekqN93Tx8hJUJwR66n), [Deepak Blue](https://open.spotify.com/artist/5iFKS1bnBNFWBAmd7mi0vf), [Anand](https://open.spotify.com/artist/53kVUvxYgxcYwhbUjqm9X6), [Shenbagaraj](https://open.spotify.com/artist/4sOq2wyRjNnnYNhpM24NdI) | [Jilla \(Original Music Picture Soundtrack\)](https://open.spotify.com/album/3D6qVncbJK9etDCBZs1lx6) | 3:04 |
+| 14 | [Jilla Theme](https://open.spotify.com/track/2ev3UOM2TLhquAupkuTd6v) | [Santhosh Hariharan](https://open.spotify.com/artist/4nWXekqN93Tx8hJUJwR66n), [Deepak Blue](https://open.spotify.com/artist/5iFKS1bnBNFWBAmd7mi0vf), [Anand](https://open.spotify.com/artist/53kVUvxYgxcYwhbUjqm9X6), [Shenbagaraj](https://open.spotify.com/artist/4sOq2wyRjNnnYNhpM24NdI) | [Jilla \(Original Music Picture Soundtrack\)](https://open.spotify.com/album/3D6qVncbJK9etDCBZs1lx6) | 3:04 |
+| 15 | [Padaiyappa Theme](https://open.spotify.com/track/4CNDukte38IXyjvSFR55I3) | [A.R\. Rahman](https://open.spotify.com/artist/1mYsTxnqsietFxj1OgoGbG) | [Padaiyappa \(Original Background Score\)](https://open.spotify.com/album/6o4v88RU1YBb0mjjQPt83k) | 0:46 |
 | 16 | [Rowdy Ya](https://open.spotify.com/track/7AXkC07rMyKgrxD548J7sM) | [Ilaiyaraaja](https://open.spotify.com/artist/3m49WVMU4zCkaVEKb8kFW7) | [Dorothy \(Original Background Score\)](https://open.spotify.com/album/3YqDASfbZeuiKGnjHqceh6) | 2:08 |
 | 17 | [Maara Theme \(Tamil\)](https://open.spotify.com/track/6yxXPjFdAGOhv0diL81YLu) | [G\. V\. Prakash](https://open.spotify.com/artist/5VVN3xZw1i2qihfITZlvCZ), [Suriya](https://open.spotify.com/artist/5jyOS8L5CughATUjhDX8GP) | [Soorarai Pottru \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/1YXlDrh64M5ttCaRXn7fp5) | 1:10 |
 | 18 | [Twin Fish Walter \- From "Benz"](https://open.spotify.com/track/1uLRlKNoXLVeoc1cB25mva) | [Sai Abhyankkar](https://open.spotify.com/artist/5jJrJU7VVmxQQLcLAmmxXc) | [Twin Fish Walter \(From "Benz"\)](https://open.spotify.com/album/1ScLNCoLnooOF78ozrByRp) | 2:47 |
-| 19 | [Bigil Bigil Bigiluma](https://open.spotify.com/track/71MYQe743EBq3RvLqidTLi) | [A.R\. Rahman](https://open.spotify.com/artist/1mYsTxnqsietFxj1OgoGbG) | [Bigil \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/2G7JyChJHrZYCBb0jL2N5t) | 2:02 |
-| 20 | [Celebration Of Varisu \(From "Varisu"\)](https://open.spotify.com/track/3Feda69zjFHpUaJtJskq7N) | [Thaman S](https://open.spotify.com/artist/2FgHPfRprDaylrSRVf1UlN) | [Celebration Of Varisu \(From "Varisu"\)](https://open.spotify.com/album/3ef08KVjQfE97k9qFvybCh) | 2:48 |
+| 19 | [Celebration Of Varisu \(From "Varisu"\)](https://open.spotify.com/track/3Feda69zjFHpUaJtJskq7N) | [Thaman S](https://open.spotify.com/artist/2FgHPfRprDaylrSRVf1UlN) | [Celebration Of Varisu \(From "Varisu"\)](https://open.spotify.com/album/3ef08KVjQfE97k9qFvybCh) | 2:48 |
+| 20 | [Bigil Bigil Bigiluma](https://open.spotify.com/track/71MYQe743EBq3RvLqidTLi) | [A.R\. Rahman](https://open.spotify.com/artist/1mYsTxnqsietFxj1OgoGbG) | [Bigil \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/2G7JyChJHrZYCBb0jL2N5t) | 2:02 |
 | 21 | [Sambavam](https://open.spotify.com/track/3ZOOxCQmbNHsE2j2e8jMQO) | [Ilaiyaraaja](https://open.spotify.com/artist/3m49WVMU4zCkaVEKb8kFW7) | [Dorothy \(Original Background Score\)](https://open.spotify.com/album/3YqDASfbZeuiKGnjHqceh6) | 4:28 |
 | 22 | [Mahaan Title Poster Theme \(From "Mahaan"\)](https://open.spotify.com/track/5QNBsU077byAbXLLwXBCo5) | [Santhosh Narayanan](https://open.spotify.com/artist/5FVBduYaeVBb6JIghza7v6) | [Mahaan Title Poster Theme \(From "Mahaan"\)](https://open.spotify.com/album/2j9Fx8Mi6VnW1csBunbFXh) | 1:10 |
 | 23 | [Gumthalakadi Gala Gala](https://open.spotify.com/track/3CaQ7uPo5xOIFLXpL1HZLg) | [Leon James](https://open.spotify.com/artist/0wv5i0ds2z040yx7oL6UZy) | [Dragon \(Original Score\)](https://open.spotify.com/album/4J53sSdhRl5wA2qfw5AWy2) | 1:59 |
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUptwB9dhZvQ.md) - [plain]
 | 74 | [Vidaamuyarchi Theme \(From "Vidaamuyarchi"\)](https://open.spotify.com/track/79E8OWqnXS94tghoQH4xtz) | [Anirudh Ravichander](https://open.spotify.com/artist/4zCH9qm4R2DADamUHMCa6O) | [Vidaamuyarchi Theme \(From "Vidaamuyarchi"\)](https://open.spotify.com/album/5wvo1WUmTzaIOOBuErUNq5) | 1:36 |
 | 75 | [Glimpse of Antony Das \(From "Leo"\)](https://open.spotify.com/track/3yW4gZOr48Fy1DvGKDz2wj) | [Anirudh Ravichander](https://open.spotify.com/artist/4zCH9qm4R2DADamUHMCa6O) | [Glimpse of Antony Das \(From "Leo"\)](https://open.spotify.com/album/5RfVPpQcw0qYFS6I93s9gF) | 0:40 |
 
-Snapshot ID: `AAAAACXKRNcOFZK2yy12imhgq8WpkPIe`
+Snapshot ID: `AAAAAJorsQ2oMjCV3qzhiUIS4JJZUPfC`

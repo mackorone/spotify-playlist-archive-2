@@ -1,12 +1,12 @@
 {
   "description": "Your favorite indie & alternative jams, reimagined and recorded exclusively for Spotify Singles. Cover: Ezra Koenig",
-  "num_followers": 111303,
+  "num_followers": 111299,
   "original_name": "Spotify Singles: Indie & Alternative",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAHNtNzTZD8nKpKvib8bPgIMykX0i",
+  "snapshot_id": "AAAAAA3q+4/tU4aHxtT86a5EJn2cm7DI",
   "tracks": [
     {
       "added_at": "2025-01-27 20:00:12",
@@ -556,22 +556,6 @@
       "added_at": "2023-01-11 22:54:33",
       "album": {
         "name": "Spotify Singles",
-        "url": "https://open.spotify.com/album/2up3OPMp9Tb4dAKM2erWXQ"
-      },
-      "artists": [
-        {
-          "name": "Seinabo Sey",
-          "url": "https://open.spotify.com/artist/4X0v8sFoDZ6rIfkeOeVm2i"
-        }
-      ],
-      "duration_ms": 205583,
-      "name": "For You - Recorded At Spotify Studios Stockholm",
-      "url": "https://open.spotify.com/track/4AHIgOApMmqVfpvc1hxK6x"
-    },
-    {
-      "added_at": "2023-01-11 22:54:33",
-      "album": {
-        "name": "Spotify Singles",
         "url": "https://open.spotify.com/album/32iqkyCIOKogzuExLw1WTQ"
       },
       "artists": [
@@ -583,6 +567,22 @@
       "duration_ms": 217855,
       "name": "mother tongue - Recorded at Spotify Studios NYC",
       "url": "https://open.spotify.com/track/2nfUHDtJdrsDBurr05mTJx"
+    },
+    {
+      "added_at": "2023-01-11 22:54:33",
+      "album": {
+        "name": "Spotify Singles",
+        "url": "https://open.spotify.com/album/2up3OPMp9Tb4dAKM2erWXQ"
+      },
+      "artists": [
+        {
+          "name": "Seinabo Sey",
+          "url": "https://open.spotify.com/artist/4X0v8sFoDZ6rIfkeOeVm2i"
+        }
+      ],
+      "duration_ms": 205583,
+      "name": "For You - Recorded At Spotify Studios Stockholm",
+      "url": "https://open.spotify.com/track/4AHIgOApMmqVfpvc1hxK6x"
     },
     {
       "added_at": "2023-01-11 22:54:33",
@@ -972,22 +972,6 @@
       "added_at": "2023-01-11 22:54:33",
       "album": {
         "name": "Spotify Singles",
-        "url": "https://open.spotify.com/album/0pwbZvmxb1mwXNmIKupMnN"
-      },
-      "artists": [
-        {
-          "name": "A R I Z O N A",
-          "url": "https://open.spotify.com/artist/7hOGhpa8RMSuDOWntGIAJt"
-        }
-      ],
-      "duration_ms": 208396,
-      "name": "Electric Touch - Recorded at Spotify Studios NYC",
-      "url": "https://open.spotify.com/track/4ZRWxX9gfnsfKhQDRKoCui"
-    },
-    {
-      "added_at": "2023-01-11 22:54:33",
-      "album": {
-        "name": "Spotify Singles",
         "url": "https://open.spotify.com/album/2Ugyft4arCFXPSASDVIXs0"
       },
       "artists": [
@@ -1004,17 +988,17 @@
       "added_at": "2023-01-11 22:54:33",
       "album": {
         "name": "Spotify Singles",
-        "url": "https://open.spotify.com/album/7tkiGumdgkSm8gpsBmGDbe"
+        "url": "https://open.spotify.com/album/0pwbZvmxb1mwXNmIKupMnN"
       },
       "artists": [
         {
-          "name": "Lykke Li",
-          "url": "https://open.spotify.com/artist/6oBm8HB0yfrIc9IHbxs6in"
+          "name": "A R I Z O N A",
+          "url": "https://open.spotify.com/artist/7hOGhpa8RMSuDOWntGIAJt"
         }
       ],
-      "duration_ms": 268207,
-      "name": "U Got It Bad - Recorded at Spotify Studios Stockholm",
-      "url": "https://open.spotify.com/track/4Dg5moVCTqxAb7Wr8Dq2T5"
+      "duration_ms": 208396,
+      "name": "Electric Touch - Recorded at Spotify Studios NYC",
+      "url": "https://open.spotify.com/track/4ZRWxX9gfnsfKhQDRKoCui"
     },
     {
       "added_at": "2023-01-11 22:54:33",
@@ -1031,6 +1015,22 @@
       "duration_ms": 221115,
       "name": "Whole Wide World - Recorded at Spotify Studios NYC",
       "url": "https://open.spotify.com/track/1r6JOvVgGQ2QU2uNrvk98g"
+    },
+    {
+      "added_at": "2023-01-11 22:54:33",
+      "album": {
+        "name": "Spotify Singles",
+        "url": "https://open.spotify.com/album/7tkiGumdgkSm8gpsBmGDbe"
+      },
+      "artists": [
+        {
+          "name": "Lykke Li",
+          "url": "https://open.spotify.com/artist/6oBm8HB0yfrIc9IHbxs6in"
+        }
+      ],
+      "duration_ms": 268207,
+      "name": "U Got It Bad - Recorded at Spotify Studios Stockholm",
+      "url": "https://open.spotify.com/track/4Dg5moVCTqxAb7Wr8Dq2T5"
     },
     {
       "added_at": "2023-01-11 22:54:33",
@@ -1616,6 +1616,22 @@
       "added_at": "2023-01-11 22:54:33",
       "album": {
         "name": "Spotify Singles",
+        "url": "https://open.spotify.com/album/7czziv0pFx9h7WbXdcVixR"
+      },
+      "artists": [
+        {
+          "name": "Christine and the Queens",
+          "url": "https://open.spotify.com/artist/04vj3iPUiVh5melWr0w3xT"
+        }
+      ],
+      "duration_ms": 248743,
+      "name": "The walker \u2013 Recorded at RAK Studios, London",
+      "url": "https://open.spotify.com/track/27xSaNgubCeJLl5Ymh54R6"
+    },
+    {
+      "added_at": "2023-01-11 22:54:33",
+      "album": {
+        "name": "Spotify Singles",
         "url": "https://open.spotify.com/album/7BhKeRmiTdFrmc8hvGk5lb"
       },
       "artists": [
@@ -1648,17 +1664,17 @@
       "added_at": "2023-01-11 22:54:33",
       "album": {
         "name": "Spotify Singles",
-        "url": "https://open.spotify.com/album/7czziv0pFx9h7WbXdcVixR"
+        "url": "https://open.spotify.com/album/5E1LpvOY21eS1Ri6zIjT9L"
       },
       "artists": [
         {
-          "name": "Christine and the Queens",
-          "url": "https://open.spotify.com/artist/04vj3iPUiVh5melWr0w3xT"
+          "name": "KYLE",
+          "url": "https://open.spotify.com/artist/4qBgvVog0wzW75IQ48mU7v"
         }
       ],
-      "duration_ms": 248743,
-      "name": "The walker \u2013 Recorded at RAK Studios, London",
-      "url": "https://open.spotify.com/track/27xSaNgubCeJLl5Ymh54R6"
+      "duration_ms": 287960,
+      "name": "Ups & Downs - Recorded at Spotify Studios NYC",
+      "url": "https://open.spotify.com/track/5086U7EXKa23260GlpbLUy"
     },
     {
       "added_at": "2023-01-11 22:54:33",
@@ -1675,22 +1691,6 @@
       "duration_ms": 228478,
       "name": "Coloring Outside The Lines - Recorded at Spotify Studios NYC",
       "url": "https://open.spotify.com/track/5jyqoi0sqigcLuce6XOXwa"
-    },
-    {
-      "added_at": "2023-01-11 22:54:33",
-      "album": {
-        "name": "Spotify Singles",
-        "url": "https://open.spotify.com/album/5E1LpvOY21eS1Ri6zIjT9L"
-      },
-      "artists": [
-        {
-          "name": "KYLE",
-          "url": "https://open.spotify.com/artist/4qBgvVog0wzW75IQ48mU7v"
-        }
-      ],
-      "duration_ms": 287960,
-      "name": "Ups & Downs - Recorded at Spotify Studios NYC",
-      "url": "https://open.spotify.com/track/5086U7EXKa23260GlpbLUy"
     },
     {
       "added_at": "2025-01-27 20:00:12",
@@ -1776,22 +1776,6 @@
       "added_at": "2023-01-11 22:54:33",
       "album": {
         "name": "Spotify Singles",
-        "url": "https://open.spotify.com/album/5WoKNylm4lCVrLV5NuC6sI"
-      },
-      "artists": [
-        {
-          "name": "Death Cab for Cutie",
-          "url": "https://open.spotify.com/artist/0YrtvWJMgSdVrk3SfNjTbx"
-        }
-      ],
-      "duration_ms": 248398,
-      "name": "Gold Rush - Live at Spotify Studios NYC",
-      "url": "https://open.spotify.com/track/4WjTem6hVGUN0sQ83bilib"
-    },
-    {
-      "added_at": "2023-01-11 22:54:33",
-      "album": {
-        "name": "Spotify Singles",
         "url": "https://open.spotify.com/album/68X345rpDHj4iY6E7pcT6d"
       },
       "artists": [
@@ -1803,6 +1787,22 @@
       "duration_ms": 316108,
       "name": "Mourning Sound - Recorded at Spotify Studios NYC",
       "url": "https://open.spotify.com/track/4qPb53XN2ilYsBf5OIHdtV"
+    },
+    {
+      "added_at": "2023-01-11 22:54:33",
+      "album": {
+        "name": "Spotify Singles",
+        "url": "https://open.spotify.com/album/5WoKNylm4lCVrLV5NuC6sI"
+      },
+      "artists": [
+        {
+          "name": "Death Cab for Cutie",
+          "url": "https://open.spotify.com/artist/0YrtvWJMgSdVrk3SfNjTbx"
+        }
+      ],
+      "duration_ms": 248398,
+      "name": "Gold Rush - Live at Spotify Studios NYC",
+      "url": "https://open.spotify.com/track/4WjTem6hVGUN0sQ83bilib"
     },
     {
       "added_at": "2023-01-11 22:54:33",
@@ -1860,22 +1860,6 @@
       "added_at": "2023-01-11 22:54:33",
       "album": {
         "name": "Spotify Singles",
-        "url": "https://open.spotify.com/album/5yPmcKtzc9A0RcKpCFqQtZ"
-      },
-      "artists": [
-        {
-          "name": "Saint Motel",
-          "url": "https://open.spotify.com/artist/1dWEYMPtNmvSVaDNLgB6NV"
-        }
-      ],
-      "duration_ms": 231729,
-      "name": "Born Again - Recorded at Spotify Studios NYC",
-      "url": "https://open.spotify.com/track/0BGdxW79sZA6nmuws983bE"
-    },
-    {
-      "added_at": "2023-01-11 22:54:33",
-      "album": {
-        "name": "Spotify Singles",
         "url": "https://open.spotify.com/album/2bOO36ZGSYDuXj27cdnxKE"
       },
       "artists": [
@@ -1903,6 +1887,22 @@
       "duration_ms": 370674,
       "name": "Blood Under My Belt - Recorded at Spotify Studios NYC",
       "url": "https://open.spotify.com/track/5KmJKfQN4VIFbbPBoCFsVz"
+    },
+    {
+      "added_at": "2023-01-11 22:54:33",
+      "album": {
+        "name": "Spotify Singles",
+        "url": "https://open.spotify.com/album/5yPmcKtzc9A0RcKpCFqQtZ"
+      },
+      "artists": [
+        {
+          "name": "Saint Motel",
+          "url": "https://open.spotify.com/artist/1dWEYMPtNmvSVaDNLgB6NV"
+        }
+      ],
+      "duration_ms": 231729,
+      "name": "Born Again - Recorded at Spotify Studios NYC",
+      "url": "https://open.spotify.com/track/0BGdxW79sZA6nmuws983bE"
     },
     {
       "added_at": "2023-01-11 22:54:33",

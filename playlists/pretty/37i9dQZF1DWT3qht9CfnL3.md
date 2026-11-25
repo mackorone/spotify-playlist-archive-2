@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWT3qht9CfnL3.md) - [plain]
 
 > LA P\*TA GAMA LA MAMI 📸 El More
 
-[Spotify](https://open.spotify.com/user/spotify) - 312,445 likes - 50 songs - 2 hr 24 min
+[Spotify](https://open.spotify.com/user/spotify) - 312,655 likes - 50 songs - 2 hr 24 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -53,10 +53,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWT3qht9CfnL3.md) - [plain]
 | 43 | [ALERTA](https://open.spotify.com/track/46tukOtUuFOWHIj9LP1MSB) | [Nasty Vato](https://open.spotify.com/artist/2euk6cwOEpdVumMD89x6qD), [Dulzón](https://open.spotify.com/artist/7KIQoIHGwiMhd84kW3211q), [Fuentes Prod](https://open.spotify.com/artist/6nLUmIv3Hi88nYI0Xn67XV), [YOUNG MAFIA](https://open.spotify.com/artist/4caOQIWaFZ948M8onUK2RZ), [Josa El Menor](https://open.spotify.com/artist/2G2JiOdyGfRsEWqFs4hKUo), [Malo](https://open.spotify.com/artist/3voOTPDg4JXGVLVWG6wfeb) | [FULL METAL NASTY](https://open.spotify.com/album/3uKbzyEuaaXXSzebEFSCLF) | 3:37 |
 | 44 | [TEPITO BRAVO](https://open.spotify.com/track/0jac5hsD9pQg2ZARHshjax) | [Dj Foxxx](https://open.spotify.com/artist/36zAxK13gWTarN8KeYVsUe), [Dj Monst3r5](https://open.spotify.com/artist/2DAs7dxh1jqGtGmK9DWeAe), [Dj Yaso](https://open.spotify.com/artist/6tt7Ubp6rzh4lqATTvdOmd) | [TEPITO BRAVO](https://open.spotify.com/album/5ryKv6wGRAkekCOQTY9NWL) | 3:28 |
 | 45 | [Sale Sale Reggaeton Dembow](https://open.spotify.com/track/51UgeSPElclgVI3gosZSNu) | [El Gudi](https://open.spotify.com/artist/4bBHOk8nEyfPGCZsDEEZsB), [Alexito Mix](https://open.spotify.com/artist/1EJlMs9YAmWYkkZrQ01DK4) | [Sale Sale Reggaeton Dembow](https://open.spotify.com/album/4UAus8MDHFQcd0jkFouJn7) | 2:10 |
-| 46 | [Delincuentech \- Radio Edit](https://open.spotify.com/track/0LFrc6EsTEpX4uVrsf23sQ) | [DJ DAVE](https://open.spotify.com/artist/1ZrRs1vnQjCuupHAw3VeAA) | [Delincuentech \(Radio Edit\)](https://open.spotify.com/album/0IlGDd43Ys4WtuICg83Br6) | 2:03 |
-| 47 | [Frontea](https://open.spotify.com/track/2s7gqTv7AbGWefBPQudZX8) | [Los+RibeteroZ](https://open.spotify.com/artist/5TjRyfVfpPzbH9KD3jdF8H), [LoveUikari](https://open.spotify.com/artist/2baKodbakEjhcfwlaFZXGv), [Fr1zi](https://open.spotify.com/artist/7DPHb5MJ4FY3JDMTvfbtex), [Nicolvsy](https://open.spotify.com/artist/6vLOH0VqXfvIeZnwbVJlu9) | [Frontea](https://open.spotify.com/album/2IRnUfaM1ekU5jNvMFjeJd) | 2:39 |
+| 46 | [Frontea](https://open.spotify.com/track/2s7gqTv7AbGWefBPQudZX8) | [Los+RibeteroZ](https://open.spotify.com/artist/5TjRyfVfpPzbH9KD3jdF8H), [LoveUikari](https://open.spotify.com/artist/2baKodbakEjhcfwlaFZXGv), [Fr1zi](https://open.spotify.com/artist/7DPHb5MJ4FY3JDMTvfbtex), [Nicolvsy](https://open.spotify.com/artist/6vLOH0VqXfvIeZnwbVJlu9) | [Frontea](https://open.spotify.com/album/2IRnUfaM1ekU5jNvMFjeJd) | 2:39 |
+| 47 | [Delincuentech \- Radio Edit](https://open.spotify.com/track/0LFrc6EsTEpX4uVrsf23sQ) | [DJ DAVE](https://open.spotify.com/artist/1ZrRs1vnQjCuupHAw3VeAA) | [Delincuentech \(Radio Edit\)](https://open.spotify.com/album/0IlGDd43Ys4WtuICg83Br6) | 2:03 |
 | 48 | [PREÑEO](https://open.spotify.com/track/7pNs3Eikt5p3Ax5mEJCaLp) | [Ivy Wavy](https://open.spotify.com/artist/0f1hBCKMEIIvZ5TNgChNuC), [Nasty Vato](https://open.spotify.com/artist/2euk6cwOEpdVumMD89x6qD), [Emex](https://open.spotify.com/artist/6nmmRJCDNKGX7HMRwwAV6h), [Tunenegoga](https://open.spotify.com/artist/3GkPSttICET2yApg0lJdrA), [Dulzón](https://open.spotify.com/artist/7KIQoIHGwiMhd84kW3211q) | [PREÑEO](https://open.spotify.com/album/0JAbnUCQpvPmpa3xS3ZVcV) | 2:53 |
-| 49 | [CUANDO TE VEO \- DELUXE](https://open.spotify.com/track/6vLuE7XBQEZqz6KYYaT4nx) | [Porrilaporri](https://open.spotify.com/artist/5HgxQ6LFlQO4xyLM0A1r17), [DENNA LA PORRI](https://open.spotify.com/artist/0xc9ZT3PSktJFx0N96FJQG) | [PEKORITAS Vol.1 \(DELUXE\)](https://open.spotify.com/album/6kxtprQAja19RIkQOOJu3c) | 2:49 |
-| 50 | [LIL WAYNE](https://open.spotify.com/track/7M5E13NCPwRsRUxZuVmwy1) | [Tryzty](https://open.spotify.com/artist/3WwHNlLL31bBoiHYzd8hAS), [Slick La Mina](https://open.spotify.com/artist/6skLfn2ojiEKJN89maIR8n) | [LIL WAYNE](https://open.spotify.com/album/2znkkPypoQCELOiM6yKhZ2) | 2:44 |
+| 49 | [LIL WAYNE](https://open.spotify.com/track/7M5E13NCPwRsRUxZuVmwy1) | [Tryzty](https://open.spotify.com/artist/3WwHNlLL31bBoiHYzd8hAS), [Slick La Mina](https://open.spotify.com/artist/6skLfn2ojiEKJN89maIR8n) | [LIL WAYNE](https://open.spotify.com/album/2znkkPypoQCELOiM6yKhZ2) | 2:44 |
+| 50 | [CUANDO TE VEO \- DELUXE](https://open.spotify.com/track/6vLuE7XBQEZqz6KYYaT4nx) | [Porrilaporri](https://open.spotify.com/artist/5HgxQ6LFlQO4xyLM0A1r17), [DENNA LA PORRI](https://open.spotify.com/artist/0xc9ZT3PSktJFx0N96FJQG) | [PEKORITAS Vol.1 \(DELUXE\)](https://open.spotify.com/album/6kxtprQAja19RIkQOOJu3c) | 2:49 |
 
-Snapshot ID: `AAAAABMDW2wNT9ovd5BkycW/3My03svF`
+Snapshot ID: `AAAAAMXPJGEAToQme2sxvWICkIQmiApm`

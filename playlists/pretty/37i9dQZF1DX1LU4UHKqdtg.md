@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1LU4UHKqdtg.md) - [plain]
 
 > Girls groups/solo artists shining beyond borders\. グローバルに活躍するガールズグループ/ソロアーティストを一つのプレイリストに。Cover: NAYEON
 
-[Spotify](https://open.spotify.com/user/spotify) - 473,777 likes - 80 songs - 3 hr 53 min
+[Spotify](https://open.spotify.com/user/spotify) - 473,926 likes - 80 songs - 3 hr 53 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -89,4 +89,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1LU4UHKqdtg.md) - [plain]
 | 79 | [KILLA \(Face the other me\)](https://open.spotify.com/track/66fjOHg3C0mKJwEckZ875l) | [Kep1er](https://open.spotify.com/artist/5R7AMwDeroq6Ls0COQYpS4) | [CRACK CODE](https://open.spotify.com/album/4lCQ7EHjnx9fR9a79RKJ2i) | 2:56 |
 | 80 | [GO](https://open.spotify.com/track/3ZqbplDGd2MJOUgs6yY42I) | [BLACKPINK](https://open.spotify.com/artist/41MozSoPIsD1dJM0CLPjZF) | [DEADLINE](https://open.spotify.com/album/7DO7f71Dkm98AKDIgBaaSx) | 3:15 |
 
-Snapshot ID: `AAAAAAKTs3FNXuO0dKMEDkrFwQyEVHeG`
+Snapshot ID: `AAAAAIPXvG7JrupEUGRFE56LbHKqSJ2c`

@@ -1,12 +1,12 @@
 {
   "description": "Behagelig musik.",
-  "num_followers": 157728,
+  "num_followers": 157720,
   "original_name": "ren hygge",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAMExZ+LDTDFAefh7DwIr8TsLvLQk",
+  "snapshot_id": "AAAAALVJ/QqN+XO41kSrnLqEJCkD/aLY",
   "tracks": [
     {
       "added_at": "2026-05-21 12:03:22",
@@ -635,22 +635,6 @@
     {
       "added_at": "2026-05-21 12:03:22",
       "album": {
-        "name": "Smelter Under M\u00e5nen",
-        "url": "https://open.spotify.com/album/4GYrs3V9M967vgil6OP0TE"
-      },
-      "artists": [
-        {
-          "name": "APHACA",
-          "url": "https://open.spotify.com/artist/5Ppbc55kNdjvxP8Tw2P8S9"
-        }
-      ],
-      "duration_ms": 198388,
-      "name": "Smelter Under M\u00e5nen",
-      "url": "https://open.spotify.com/track/0nVUuzrVZc5t9S48ifesg6"
-    },
-    {
-      "added_at": "2026-05-21 12:03:22",
-      "album": {
         "name": "Are You Even Real (feat. Giv\u0113on)",
         "url": "https://open.spotify.com/album/0VpJTeHhzQW6Z13FeBTeJD"
       },
@@ -667,6 +651,22 @@
       "duration_ms": 147702,
       "name": "Are You Even Real (feat. Giv\u0113on)",
       "url": "https://open.spotify.com/track/4ZO4HvFADvujrrEidSatEC"
+    },
+    {
+      "added_at": "2026-05-21 12:03:22",
+      "album": {
+        "name": "Smelter Under M\u00e5nen",
+        "url": "https://open.spotify.com/album/4GYrs3V9M967vgil6OP0TE"
+      },
+      "artists": [
+        {
+          "name": "APHACA",
+          "url": "https://open.spotify.com/artist/5Ppbc55kNdjvxP8Tw2P8S9"
+        }
+      ],
+      "duration_ms": 198388,
+      "name": "Smelter Under M\u00e5nen",
+      "url": "https://open.spotify.com/track/0nVUuzrVZc5t9S48ifesg6"
     },
     {
       "added_at": "2026-05-21 12:03:22",
@@ -787,22 +787,6 @@
     {
       "added_at": "2026-05-21 12:03:22",
       "album": {
-        "name": "(over)lever",
-        "url": "https://open.spotify.com/album/7wyTjH07QtN3flUKLrcYHN"
-      },
-      "artists": [
-        {
-          "name": "Mille",
-          "url": "https://open.spotify.com/artist/1WLr84Nec3Bb8xuxgQZGb9"
-        }
-      ],
-      "duration_ms": 136503,
-      "name": "hader ik mig selv sammen med dig",
-      "url": "https://open.spotify.com/track/3Jrggxbj3XXCodbGhORmGo"
-    },
-    {
-      "added_at": "2026-05-21 12:03:22",
-      "album": {
         "name": "Shape of You (Acoustic)",
         "url": "https://open.spotify.com/album/5Nk90vGwn59ToxTvSNsKZw"
       },
@@ -815,6 +799,22 @@
       "duration_ms": 223573,
       "name": "Shape of You - Acoustic",
       "url": "https://open.spotify.com/track/5ULRlgiSPSKTaJN1vU9yso"
+    },
+    {
+      "added_at": "2026-05-21 12:03:22",
+      "album": {
+        "name": "(over)lever",
+        "url": "https://open.spotify.com/album/7wyTjH07QtN3flUKLrcYHN"
+      },
+      "artists": [
+        {
+          "name": "Mille",
+          "url": "https://open.spotify.com/artist/1WLr84Nec3Bb8xuxgQZGb9"
+        }
+      ],
+      "duration_ms": 136503,
+      "name": "hader ik mig selv sammen med dig",
+      "url": "https://open.spotify.com/track/3Jrggxbj3XXCodbGhORmGo"
     },
     {
       "added_at": "2026-05-21 12:03:22",
@@ -1003,6 +1003,22 @@
     {
       "added_at": "2026-05-21 12:03:22",
       "album": {
+        "name": "beholder mit t\u00f8j p\u00e5",
+        "url": "https://open.spotify.com/album/6AVjbXQ4M2ApoQRsa6Ft98"
+      },
+      "artists": [
+        {
+          "name": "Mille",
+          "url": "https://open.spotify.com/artist/1WLr84Nec3Bb8xuxgQZGb9"
+        }
+      ],
+      "duration_ms": 188425,
+      "name": "beholder mit t\u00f8j p\u00e5",
+      "url": "https://open.spotify.com/track/6XkLzHg4OmaWNltw6HZVBx"
+    },
+    {
+      "added_at": "2026-05-21 12:03:22",
+      "album": {
         "name": "Kogeplade",
         "url": "https://open.spotify.com/album/7jRZjDNlJewGL6dbYFP70I"
       },
@@ -1039,22 +1055,6 @@
     {
       "added_at": "2026-05-21 12:03:22",
       "album": {
-        "name": "beholder mit t\u00f8j p\u00e5",
-        "url": "https://open.spotify.com/album/6AVjbXQ4M2ApoQRsa6Ft98"
-      },
-      "artists": [
-        {
-          "name": "Mille",
-          "url": "https://open.spotify.com/artist/1WLr84Nec3Bb8xuxgQZGb9"
-        }
-      ],
-      "duration_ms": 188425,
-      "name": "beholder mit t\u00f8j p\u00e5",
-      "url": "https://open.spotify.com/track/6XkLzHg4OmaWNltw6HZVBx"
-    },
-    {
-      "added_at": "2026-05-21 12:03:22",
-      "album": {
         "name": "I Should Probably Go To Bed",
         "url": "https://open.spotify.com/album/0LptEP83Iy0SKHaVrkCmuj"
       },
@@ -1067,22 +1067,6 @@
       "duration_ms": 171826,
       "name": "I Should Probably Go To Bed",
       "url": "https://open.spotify.com/track/5ovVcYo2MvjVydFwFyaaqy"
-    },
-    {
-      "added_at": "2026-05-21 12:03:22",
-      "album": {
-        "name": "Alle veje f\u00f8rer hjem",
-        "url": "https://open.spotify.com/album/7D41dKKjgnoqsb7HilJmQy"
-      },
-      "artists": [
-        {
-          "name": "Malte Ebert",
-          "url": "https://open.spotify.com/artist/3UaEtP4pJGDhyEzy47AMzl"
-        }
-      ],
-      "duration_ms": 171794,
-      "name": "Er det mig du elsker?",
-      "url": "https://open.spotify.com/track/7Jyuh91JYGoh8ps4hIRD1P"
     },
     {
       "added_at": "2026-05-21 12:03:22",
@@ -1103,6 +1087,22 @@
       "duration_ms": 243266,
       "name": "Best Part of Me (feat. YEBBA)",
       "url": "https://open.spotify.com/track/5ug4vqGZ3eisGhY1IsziNX"
+    },
+    {
+      "added_at": "2026-05-21 12:03:22",
+      "album": {
+        "name": "Alle veje f\u00f8rer hjem",
+        "url": "https://open.spotify.com/album/7D41dKKjgnoqsb7HilJmQy"
+      },
+      "artists": [
+        {
+          "name": "Malte Ebert",
+          "url": "https://open.spotify.com/artist/3UaEtP4pJGDhyEzy47AMzl"
+        }
+      ],
+      "duration_ms": 171794,
+      "name": "Er det mig du elsker?",
+      "url": "https://open.spotify.com/track/7Jyuh91JYGoh8ps4hIRD1P"
     },
     {
       "added_at": "2026-05-21 12:03:22",
@@ -1283,6 +1283,22 @@
     {
       "added_at": "2026-05-21 12:03:22",
       "album": {
+        "name": "GENSTART",
+        "url": "https://open.spotify.com/album/7ypSM0c6URwWDv5GhSCk11"
+      },
+      "artists": [
+        {
+          "name": "PATINA",
+          "url": "https://open.spotify.com/artist/6SQ0yQG7sRlasn0yrSz7Gh"
+        }
+      ],
+      "duration_ms": 280244,
+      "name": "Genstart",
+      "url": "https://open.spotify.com/track/1RzNsIIgaXfiAghwM0btqC"
+    },
+    {
+      "added_at": "2026-05-21 12:03:22",
+      "album": {
         "name": "Gemt Dit Nummer",
         "url": "https://open.spotify.com/album/1FJeiGJjSMBPV4Z3qwc9Xv"
       },
@@ -1299,22 +1315,6 @@
       "duration_ms": 167690,
       "name": "Gemt Dit Nummer",
       "url": "https://open.spotify.com/track/5oLLC1Enkdr3TB03wFHFx0"
-    },
-    {
-      "added_at": "2026-05-21 12:03:22",
-      "album": {
-        "name": "GENSTART",
-        "url": "https://open.spotify.com/album/7ypSM0c6URwWDv5GhSCk11"
-      },
-      "artists": [
-        {
-          "name": "PATINA",
-          "url": "https://open.spotify.com/artist/6SQ0yQG7sRlasn0yrSz7Gh"
-        }
-      ],
-      "duration_ms": 280244,
-      "name": "Genstart",
-      "url": "https://open.spotify.com/track/1RzNsIIgaXfiAghwM0btqC"
     },
     {
       "added_at": "2026-05-21 12:03:22",
@@ -1379,22 +1379,6 @@
     {
       "added_at": "2026-05-21 12:03:22",
       "album": {
-        "name": "The Epilogue (Deluxe)",
-        "url": "https://open.spotify.com/album/3SuqKNkO5rlv3d9xyGzHDH"
-      },
-      "artists": [
-        {
-          "name": "Dean Lewis",
-          "url": "https://open.spotify.com/artist/3QSQFmccmX81fWCUSPTS7y"
-        }
-      ],
-      "duration_ms": 186971,
-      "name": "Hurt So Bad",
-      "url": "https://open.spotify.com/track/2ePmuCYaE8FQvYEivOEvpz"
-    },
-    {
-      "added_at": "2026-05-21 12:03:22",
-      "album": {
         "name": "I Sit In Parks",
         "url": "https://open.spotify.com/album/4gzc2g5CpI5WaXFvRHM6uj"
       },
@@ -1407,6 +1391,22 @@
       "duration_ms": 130093,
       "name": "I Sit In Parks",
       "url": "https://open.spotify.com/track/35OvmPX96d7f1ElQMl8Pq2"
+    },
+    {
+      "added_at": "2026-05-21 12:03:22",
+      "album": {
+        "name": "The Epilogue (Deluxe)",
+        "url": "https://open.spotify.com/album/3SuqKNkO5rlv3d9xyGzHDH"
+      },
+      "artists": [
+        {
+          "name": "Dean Lewis",
+          "url": "https://open.spotify.com/artist/3QSQFmccmX81fWCUSPTS7y"
+        }
+      ],
+      "duration_ms": 186971,
+      "name": "Hurt So Bad",
+      "url": "https://open.spotify.com/track/2ePmuCYaE8FQvYEivOEvpz"
     },
     {
       "added_at": "2026-05-21 12:03:22",
@@ -1795,6 +1795,22 @@
     {
       "added_at": "2026-05-21 12:03:22",
       "album": {
+        "name": "Det Hele Handler Om Dig",
+        "url": "https://open.spotify.com/album/7vBik5UaEa7RClvhh4xkSS"
+      },
+      "artists": [
+        {
+          "name": "August H\u00f8yen",
+          "url": "https://open.spotify.com/artist/3nvGdNkcrq1IYHgJBw28Nm"
+        }
+      ],
+      "duration_ms": 194500,
+      "name": "Blomster Visner",
+      "url": "https://open.spotify.com/track/0O9arYuEk17mMatL9ERQZu"
+    },
+    {
+      "added_at": "2026-05-21 12:03:22",
+      "album": {
         "name": "EGO",
         "url": "https://open.spotify.com/album/4KZGnVN2Uner3QBMC0Tfoc"
       },
@@ -1815,22 +1831,6 @@
     {
       "added_at": "2026-05-21 12:03:22",
       "album": {
-        "name": "Det Hele Handler Om Dig",
-        "url": "https://open.spotify.com/album/7vBik5UaEa7RClvhh4xkSS"
-      },
-      "artists": [
-        {
-          "name": "August H\u00f8yen",
-          "url": "https://open.spotify.com/artist/3nvGdNkcrq1IYHgJBw28Nm"
-        }
-      ],
-      "duration_ms": 194500,
-      "name": "Blomster Visner",
-      "url": "https://open.spotify.com/track/0O9arYuEk17mMatL9ERQZu"
-    },
-    {
-      "added_at": "2026-05-21 12:03:22",
-      "album": {
         "name": "Scars To Your Beautiful",
         "url": "https://open.spotify.com/album/7lwdqOUtzxHH7wxUHtFffj"
       },
@@ -1847,22 +1847,6 @@
     {
       "added_at": "2026-05-21 12:03:22",
       "album": {
-        "name": "Alice",
-        "url": "https://open.spotify.com/album/1OdvrifjMehOnaJO6FgB5g"
-      },
-      "artists": [
-        {
-          "name": "Jack Curley",
-          "url": "https://open.spotify.com/artist/1Unwe9Xco0JDlTTwpDVrcK"
-        }
-      ],
-      "duration_ms": 159680,
-      "name": "Alice",
-      "url": "https://open.spotify.com/track/2lXNibPcBjxEqtMfV15Mv2"
-    },
-    {
-      "added_at": "2026-05-21 12:03:22",
-      "album": {
         "name": "It's Gotta Be You",
         "url": "https://open.spotify.com/album/4zSLy4XMFXIMFa52jzoEdk"
       },
@@ -1875,6 +1859,22 @@
       "duration_ms": 191433,
       "name": "It's Gotta Be You",
       "url": "https://open.spotify.com/track/66yKv1kZIqfejvrLEGqTML"
+    },
+    {
+      "added_at": "2026-05-21 12:03:22",
+      "album": {
+        "name": "Alice",
+        "url": "https://open.spotify.com/album/1OdvrifjMehOnaJO6FgB5g"
+      },
+      "artists": [
+        {
+          "name": "Jack Curley",
+          "url": "https://open.spotify.com/artist/1Unwe9Xco0JDlTTwpDVrcK"
+        }
+      ],
+      "duration_ms": 159680,
+      "name": "Alice",
+      "url": "https://open.spotify.com/track/2lXNibPcBjxEqtMfV15Mv2"
     },
     {
       "added_at": "2026-05-21 12:03:22",

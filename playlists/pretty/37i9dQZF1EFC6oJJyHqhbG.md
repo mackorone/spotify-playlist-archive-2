@@ -111,8 +111,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFC6oJJyHqhbG.md) - [plain]
 | 101 | [Jenny's Got a Boyfriend](https://open.spotify.com/track/2LFs5g1oRjTihMarELyONl) | [Bonnie McKee](https://open.spotify.com/artist/7dtJROxWQe3fxxF5t7o67N) | [Hot City](https://open.spotify.com/album/7IEPLolpdghx1jkNiN2FMT) | 3:13 |
 | 102 | [Mad Mad World](https://open.spotify.com/track/7dHWQyP9o3JoZK8FLYqt9b) | [Bonnie McKee](https://open.spotify.com/artist/7dtJROxWQe3fxxF5t7o67N) | [Mad Mad World](https://open.spotify.com/album/0FMnyy6VTNMgtOzTJbIfQV) | 3:25 |
 | 103 | [Tanlines](https://open.spotify.com/track/6c44SsvjFwgmG3XCTya7lg) | [Phangs](https://open.spotify.com/artist/7zDSYCgSGUDOaKiXUiZkpi) | [Who's Gonna Break Your Heart Tonight?](https://open.spotify.com/album/6fJyUNSVHYr4UmBi0oRBX2) | 3:45 |
-| 104 | [Trouble](https://open.spotify.com/track/7BgVp7EuxrvyPCQyRdmxzg) | [Bonnie McKee](https://open.spotify.com/artist/7dtJROxWQe3fxxF5t7o67N) | [Trouble](https://open.spotify.com/album/70SkODkeESUeqcfDoRtw7S) | 4:03 |
-| 105 | [RAGE](https://open.spotify.com/track/60WVQNGxG2Ynl6VD3nEHqn) | [Adam Lambert](https://open.spotify.com/artist/6prmLEyn4LfHlD9NnXWlf7) | [ADAM](https://open.spotify.com/album/7trR3fOUnxqBvVlAb5L370) | 3:42 |
+| 104 | [RAGE](https://open.spotify.com/track/60WVQNGxG2Ynl6VD3nEHqn) | [Adam Lambert](https://open.spotify.com/artist/6prmLEyn4LfHlD9NnXWlf7) | [ADAM](https://open.spotify.com/album/7trR3fOUnxqBvVlAb5L370) | 3:42 |
+| 105 | [Trouble](https://open.spotify.com/track/7BgVp7EuxrvyPCQyRdmxzg) | [Bonnie McKee](https://open.spotify.com/artist/7dtJROxWQe3fxxF5t7o67N) | [Trouble](https://open.spotify.com/album/70SkODkeESUeqcfDoRtw7S) | 4:03 |
 | 106 | [Stars in Your Heart](https://open.spotify.com/track/2sY3vFxiV9EQfVopuo7iwZ) | [Bonnie McKee](https://open.spotify.com/artist/7dtJROxWQe3fxxF5t7o67N) | [Hot City](https://open.spotify.com/album/7IEPLolpdghx1jkNiN2FMT) | 4:47 |
 | 107 | [Sayonara](https://open.spotify.com/track/3pxpehNYmzUrRM98mjl7zV) | [Widi Widiana](https://open.spotify.com/artist/5EaOkE5kUc9OLIUgFepJKL) | [Gek Cantik](https://open.spotify.com/album/3uvjHYzBWj1CGDCHins7uP) | 4:34 |
 | 108 | [Paradise Found](https://open.spotify.com/track/5UvGZcO3KoT0x6OuXSBmjv) | [Eden xo](https://open.spotify.com/artist/4ZEHm819BPEhaYNeC2LLeI) | [Paradise Found](https://open.spotify.com/album/02txGqX40yCLUN6kab5Ok1) | 3:42 |
@@ -156,4 +156,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFC6oJJyHqhbG.md) - [plain]
 | 146 | [Make It Happen](https://open.spotify.com/track/1E1dsesLy4AYVTPtTyQEe8) | [Hybrid the Rapper](https://open.spotify.com/artist/5Ewzso9cYxwUpYYfDgcBo0), [Double](https://open.spotify.com/artist/4NOA8osMRoNN1FZ5vrR4y2) | [King of Collab](https://open.spotify.com/album/3ISMRSukyD4PM2t4HpBO1p) | 3:29 |
 | 147 | [Favorite](https://open.spotify.com/track/33IYQIbLGAeATtDHuhcp24) | [Silver Otto](https://open.spotify.com/artist/1Zi3XzucRhWF2njLeWEWTF) | [Favorite](https://open.spotify.com/album/0gXHLfKyAcWEdwcM67qyE4) | 3:57 |
 
-Snapshot ID: `AcifMgAAAAD5PWD6821JN4g9eLVcecIS`
+Snapshot ID: `AciklgAAAAAwKrKuyrqJPG07dNb3GzRP`

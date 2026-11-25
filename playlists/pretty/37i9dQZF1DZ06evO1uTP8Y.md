@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1uTP8Y.md) - [plain]
 
 > This is Odeal\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 18,143 likes - 50 songs - 2 hr 25 min
+[Spotify](https://open.spotify.com/user/spotify) - 18,178 likes - 50 songs - 2 hr 28 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -19,12 +19,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1uTP8Y.md) - [plain]
 | 9 | [Trying Things](https://open.spotify.com/track/5kR2eJal3foVQ48L1Dp4hh) | [Odeal](https://open.spotify.com/artist/2BPwxhCvvcb8xDl8GWIjbh) | [For A Good Time...](https://open.spotify.com/album/55uMsvthBm45JtBhyadkPa) | 3:11 |
 | 10 | [Be Easy](https://open.spotify.com/track/3w2PO4US2zMxFDxEjWT9yB) | [Odeal](https://open.spotify.com/artist/2BPwxhCvvcb8xDl8GWIjbh), [brazy](https://open.spotify.com/artist/5qdXUxsjbP0UAig0CtqO5b) | [Be Easy](https://open.spotify.com/album/5colQfMZet7a2Myxiz0XYl) | 2:12 |
 | 11 | [COCA BODY](https://open.spotify.com/track/1Cns7nhgjkLJL5NmcKrUPG) | [Frenna](https://open.spotify.com/artist/6m1LYS5NQonxjOcQFPQOb5), [Odeal](https://open.spotify.com/artist/2BPwxhCvvcb8xDl8GWIjbh), [Wizkid](https://open.spotify.com/artist/3tVQdUvClmAT7URs9V3rsp) | [COCA BODY](https://open.spotify.com/album/7xZTm76XopckYdgm7DVkFa) | 2:33 |
-| 12 | [Coffee \(Don't Read Signs\)](https://open.spotify.com/track/1Y3hIs5TYN18Ymvnhd8At2) | [Odeal](https://open.spotify.com/artist/2BPwxhCvvcb8xDl8GWIjbh) | [Coffee \(Don't Read Signs\)](https://open.spotify.com/album/36IbBQlEscygW12KjL5Vrh) | 2:41 |
-| 13 | [Coming Home \(feat\. Jorja Smith\)](https://open.spotify.com/track/0KUHECqcYMQGsPkfsWLUo6) | [Odeal](https://open.spotify.com/artist/2BPwxhCvvcb8xDl8GWIjbh), [Jorja Smith](https://open.spotify.com/artist/1CoZyIx7UvdxT5c8UkMzHd) | [For A Good Time...](https://open.spotify.com/album/55uMsvthBm45JtBhyadkPa) | 3:42 |
-| 14 | [Lo Life](https://open.spotify.com/track/7sCpLpIQ11hhAPwEXgyAwM) | [Venna](https://open.spotify.com/artist/7qKJMpPZfyGHHwPgsjgFCP), [Odeal](https://open.spotify.com/artist/2BPwxhCvvcb8xDl8GWIjbh) | [Lo Life](https://open.spotify.com/album/5f6nHSXSMH6LpDY6om6zdH) | 3:54 |
+| 12 | [Lo Life](https://open.spotify.com/track/7sCpLpIQ11hhAPwEXgyAwM) | [Venna](https://open.spotify.com/artist/7qKJMpPZfyGHHwPgsjgFCP), [Odeal](https://open.spotify.com/artist/2BPwxhCvvcb8xDl8GWIjbh) | [Lo Life](https://open.spotify.com/album/5f6nHSXSMH6LpDY6om6zdH) | 3:54 |
+| 13 | [Rush](https://open.spotify.com/track/7i8pBcK7oEv5EKrCkAq0pu) | [Odeal](https://open.spotify.com/artist/2BPwxhCvvcb8xDl8GWIjbh) | [For A Good Time...](https://open.spotify.com/album/55uMsvthBm45JtBhyadkPa) | 3:04 |
+| 14 | [Coffee \(Don't Read Signs\)](https://open.spotify.com/track/1Y3hIs5TYN18Ymvnhd8At2) | [Odeal](https://open.spotify.com/artist/2BPwxhCvvcb8xDl8GWIjbh) | [Coffee \(Don't Read Signs\)](https://open.spotify.com/album/36IbBQlEscygW12KjL5Vrh) | 2:41 |
 | 15 | [Soh\-Soh](https://open.spotify.com/track/30nn36X7wfesAGAkvGero4) | [Odeal](https://open.spotify.com/artist/2BPwxhCvvcb8xDl8GWIjbh) | [Soh\-Soh \(DJ Maphorisa & Xduppy Mix\)](https://open.spotify.com/album/2aUWcKg2RsmYTVvTaCfCIJ) | 3:04 |
 | 16 | [In the Chair](https://open.spotify.com/track/1GPJiUz5W8pJpmeqopYmPe) | [Odeal](https://open.spotify.com/artist/2BPwxhCvvcb8xDl8GWIjbh) | [The Summer That Saved Me](https://open.spotify.com/album/02x8WhpXJ9lVDBJAxBxl3Z) | 2:17 |
-| 17 | [Rush](https://open.spotify.com/track/7i8pBcK7oEv5EKrCkAq0pu) | [Odeal](https://open.spotify.com/artist/2BPwxhCvvcb8xDl8GWIjbh) | [For A Good Time...](https://open.spotify.com/album/55uMsvthBm45JtBhyadkPa) | 3:04 |
+| 17 | [Coming Home \(feat\. Jorja Smith\)](https://open.spotify.com/track/0KUHECqcYMQGsPkfsWLUo6) | [Odeal](https://open.spotify.com/artist/2BPwxhCvvcb8xDl8GWIjbh), [Jorja Smith](https://open.spotify.com/artist/1CoZyIx7UvdxT5c8UkMzHd) | [For A Good Time...](https://open.spotify.com/album/55uMsvthBm45JtBhyadkPa) | 3:42 |
 | 18 | [City On Fire](https://open.spotify.com/track/5hvt3s4LH6kZETJ18nxgYa) | [Wale](https://open.spotify.com/artist/67nwj3Y5sZQLl72VNUHEYE), [Odeal](https://open.spotify.com/artist/2BPwxhCvvcb8xDl8GWIjbh) | [everything is a lot.](https://open.spotify.com/album/0AIADbs20wMj3229QY0XnN) | 2:33 |
 | 19 | [Fine By Myself](https://open.spotify.com/track/6wPAtoGq4fvAHALzbgEjFP) | [Odeal](https://open.spotify.com/artist/2BPwxhCvvcb8xDl8GWIjbh) | [Thoughts I Never Said](https://open.spotify.com/album/2Sz9KQ4T0nCCXBMDQ8TjFl) | 2:43 |
 | 20 | [London Summers](https://open.spotify.com/track/43JEzpUepmETKeTwqLWauB) | [Odeal](https://open.spotify.com/artist/2BPwxhCvvcb8xDl8GWIjbh) | [The Summer That Saved Me](https://open.spotify.com/album/02x8WhpXJ9lVDBJAxBxl3Z) | 3:37 |
@@ -53,10 +53,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1uTP8Y.md) - [plain]
 | 43 | [Outside](https://open.spotify.com/track/7HUWDK8W290h5FD9G5t3eH) | [Dayo Bello](https://open.spotify.com/artist/41mwTkqJfMxPMbQmEdN2S2), [Odeal](https://open.spotify.com/artist/2BPwxhCvvcb8xDl8GWIjbh) | [Outside](https://open.spotify.com/album/48GGRBVO34uMUTyCII8ZpY) | 3:25 |
 | 44 | [Obi's Interlude](https://open.spotify.com/track/0ezr3Dznf70W0Ug1NJ4cyf) | [Odeal](https://open.spotify.com/artist/2BPwxhCvvcb8xDl8GWIjbh) | [The Summer That Saved Me](https://open.spotify.com/album/02x8WhpXJ9lVDBJAxBxl3Z) | 2:56 |
 | 45 | [Reason \(feat\. Elijah Fox\)](https://open.spotify.com/track/1r8ojhEE2Kyo4vHCumpcwl) | [Odeal](https://open.spotify.com/artist/2BPwxhCvvcb8xDl8GWIjbh), [Elijah Fox](https://open.spotify.com/artist/4Rus30xX4FOv2cyeFI79Qh) | [The Fall That Saved Us](https://open.spotify.com/album/0xMQR9PD1M0Y70uP3VpyBl) | 3:07 |
-| 46 | [Water](https://open.spotify.com/track/33LzALMkQ2EmCnCoKS8K6w) | [Odeal](https://open.spotify.com/artist/2BPwxhCvvcb8xDl8GWIjbh) | [Thoughts I Never Said](https://open.spotify.com/album/2Sz9KQ4T0nCCXBMDQ8TjFl) | 2:21 |
-| 47 | [Modern Day Suicide](https://open.spotify.com/track/6WxI6JUpelxYijiEh6O9Ra) | [Odeal](https://open.spotify.com/artist/2BPwxhCvvcb8xDl8GWIjbh) | [Lustropolis](https://open.spotify.com/album/4mFLlS3vDHSxAtnLRMmOrq) | 2:31 |
+| 46 | [Modern Day Suicide](https://open.spotify.com/track/6WxI6JUpelxYijiEh6O9Ra) | [Odeal](https://open.spotify.com/artist/2BPwxhCvvcb8xDl8GWIjbh) | [Lustropolis](https://open.spotify.com/album/4mFLlS3vDHSxAtnLRMmOrq) | 2:31 |
+| 47 | [Water](https://open.spotify.com/track/33LzALMkQ2EmCnCoKS8K6w) | [Odeal](https://open.spotify.com/artist/2BPwxhCvvcb8xDl8GWIjbh) | [Thoughts I Never Said](https://open.spotify.com/album/2Sz9KQ4T0nCCXBMDQ8TjFl) | 2:21 |
 | 48 | [Milan \(CC2\)](https://open.spotify.com/track/52ADv6b6hr9YIO0JenUCz3) | [Nines](https://open.spotify.com/artist/0tPKcpC8yXpfdWXFcN7Vwr), [Odeal](https://open.spotify.com/artist/2BPwxhCvvcb8xDl8GWIjbh), [Skrapz](https://open.spotify.com/artist/67R8l2OLqGwA9V4BKllYQY) | [Lost Tapes](https://open.spotify.com/album/1SRzm4ROUSaOaPIRzHg4EC) | 3:00 |
-| 49 | [Mwah!](https://open.spotify.com/track/3kea45Zl41BwV83RxCxBbw) | [Lojay](https://open.spotify.com/artist/3ONGmday8YN8AkbsRk01iL), [Odeal](https://open.spotify.com/artist/2BPwxhCvvcb8xDl8GWIjbh) | [Mwah!](https://open.spotify.com/album/2nACbWmfy1aPjwFXexphvQ) | 2:08 |
-| 50 | [Intro \(Landmine\)](https://open.spotify.com/track/0LxTBLGeMgCTJZvcX8rI4c) | [Odeal](https://open.spotify.com/artist/2BPwxhCvvcb8xDl8GWIjbh) | [Thoughts I Never Said](https://open.spotify.com/album/2Sz9KQ4T0nCCXBMDQ8TjFl) | 1:08 |
+| 49 | [i'm ready \(feat\. Odeal\)](https://open.spotify.com/track/6E8TyGYNEu1Y5vns35uyHa) | [Chase Shakur](https://open.spotify.com/artist/1gW1Q6W7d3a9dDXk1KlbG8), [Odeal](https://open.spotify.com/artist/2BPwxhCvvcb8xDl8GWIjbh) | [WONDERLOVE +](https://open.spotify.com/album/2T9YYatIZcgwuXx8BYpISd) | 3:26 |
+| 50 | [Take Me](https://open.spotify.com/track/6aFyUn6Z9YujYwOI7QsWLZ) | [Nippa](https://open.spotify.com/artist/4EnRRIOfqBmNcsTj4tReXq), [Odeal](https://open.spotify.com/artist/2BPwxhCvvcb8xDl8GWIjbh) | [Take Me](https://open.spotify.com/album/0o8DHoxt1tkA2lugrdnViD) | 2:28 |
 
-Snapshot ID: `awIwgAAAAADMDInl3XiJND+Sy8JUSaYF`
+Snapshot ID: `awOCAAAAAABgOGPQ1CuxJ/sEUe7yZNto`

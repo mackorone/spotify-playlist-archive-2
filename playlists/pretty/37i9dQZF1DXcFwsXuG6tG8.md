@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcFwsXuG6tG8.md) - [plain]
 
 > y el soundtrack suena así...
 
-[Spotify](https://open.spotify.com/user/spotify) - 25,172 likes - 75 songs - 4 hr 0 min
+[Spotify](https://open.spotify.com/user/spotify) - 25,188 likes - 75 songs - 4 hr 0 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -60,18 +60,18 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcFwsXuG6tG8.md) - [plain]
 | 50 | [Quisiera Ser Como Tú](https://open.spotify.com/track/5Ik9AlzPoV7NPUnOczG58f) | [LAGOS](https://open.spotify.com/artist/7uQ1D2NNHs5cUL3CLKRbia) | [Alta Fidelidad](https://open.spotify.com/album/7bhy6RPPMvCNgn2XAYRWbJ) | 3:50 |
 | 51 | [\(favorito\)](https://open.spotify.com/track/3pNklcVilHHuVKtkDbzaTq) | [nic](https://open.spotify.com/artist/3wvB1waB73AEUljz3Gl5Ph) | [\(favorito\)](https://open.spotify.com/album/63REyK0hkC2rCtgYGIqKNh) | 2:37 |
 | 52 | [2000](https://open.spotify.com/track/4pSR9KbbV3GUtg8Pissd36) | [aLex vs aLex](https://open.spotify.com/artist/5faWaRmwlvIin04bFM0tfM) | [cliché](https://open.spotify.com/album/11GETIu9HUmJlWKOjMkWce) | 2:07 |
-| 53 | [I can fix him](https://open.spotify.com/track/6BHXQiNkRvMzBskYaoTk0y) | [Nina del Río](https://open.spotify.com/artist/1wUSPdDC7yelxpg2mdnLGd) | [I can fix him](https://open.spotify.com/album/4AZ15o5BeWgBotdBzuHP7r) | 3:04 |
-| 54 | [Pececitos](https://open.spotify.com/track/35qTk5ezT7HEtA8xC7O0p0) | [Andrea Bejar](https://open.spotify.com/artist/5l3g6Xp8KQE4prw9hk6rQ8), [Danny Schiller](https://open.spotify.com/artist/6Jrjs10cg0Sf0uMzLjfraC) | [Pececitos](https://open.spotify.com/album/19VJ9ZcoruQHlefHhHmPlT) | 3:25 |
+| 53 | [Pececitos](https://open.spotify.com/track/35qTk5ezT7HEtA8xC7O0p0) | [Andrea Bejar](https://open.spotify.com/artist/5l3g6Xp8KQE4prw9hk6rQ8), [Danny Schiller](https://open.spotify.com/artist/6Jrjs10cg0Sf0uMzLjfraC) | [Pececitos](https://open.spotify.com/album/19VJ9ZcoruQHlefHhHmPlT) | 3:25 |
+| 54 | [I can fix him](https://open.spotify.com/track/6BHXQiNkRvMzBskYaoTk0y) | [Nina del Río](https://open.spotify.com/artist/1wUSPdDC7yelxpg2mdnLGd) | [I can fix him](https://open.spotify.com/album/4AZ15o5BeWgBotdBzuHP7r) | 3:04 |
 | 55 | [rompo esquemas](https://open.spotify.com/track/1WvFuZUZBHrx2JPCn4zEDK) | [Leo Rizzi](https://open.spotify.com/artist/2281RSmb2cN6knnt0Iarb2), [DannyLux](https://open.spotify.com/artist/6ElqtIfQsAkEYypgfJIjeK) | [rompo esquemas](https://open.spotify.com/album/4sdH0YoWAHoozGAkVDqhpZ) | 3:19 |
 | 56 | [Todo Regresa](https://open.spotify.com/track/1jT9pbKiwKC2kEBtpSQ9Hf) | [Lasso](https://open.spotify.com/artist/3SCOuAxngTC1yGjKMcIPEd) | [Todo Regresa](https://open.spotify.com/album/0KpuUua2SlRhsQkgI0QOQi) | 3:04 |
 | 57 | [Already Yours](https://open.spotify.com/track/4WVwZsK17vv5sOgeR8IjIu) | [Sofía Valdés](https://open.spotify.com/artist/0caswMNVJ7vPNC1Z7NOeCT) | [Sofía Valdés](https://open.spotify.com/album/1p5oSPwm2FfbFGsiZk9Nk0) | 3:18 |
-| 58 | [Pick Me](https://open.spotify.com/track/5djUJQMd8TGlDW6nhJs1uE) | [ZUCO OMG](https://open.spotify.com/artist/6hA5ALJWFb44ixgQMMvng7), [Annasofia](https://open.spotify.com/artist/37GbbR22KbzWN5Wfb9djSo) | [Pick Me](https://open.spotify.com/album/2YpbOugRMPqzmoTJW6F1J0) | 2:50 |
-| 59 | [más y menos](https://open.spotify.com/track/5RxXLXdfznLfRGMfEPyt0a) | [nic](https://open.spotify.com/artist/3wvB1waB73AEUljz3Gl5Ph) | [escrita](https://open.spotify.com/album/41DOXn1SuBBmm57gPTyb5E) | 3:22 |
+| 58 | [más y menos](https://open.spotify.com/track/5RxXLXdfznLfRGMfEPyt0a) | [nic](https://open.spotify.com/artist/3wvB1waB73AEUljz3Gl5Ph) | [escrita](https://open.spotify.com/album/41DOXn1SuBBmm57gPTyb5E) | 3:22 |
+| 59 | [Pick Me](https://open.spotify.com/track/5djUJQMd8TGlDW6nhJs1uE) | [ZUCO OMG](https://open.spotify.com/artist/6hA5ALJWFb44ixgQMMvng7), [Annasofia](https://open.spotify.com/artist/37GbbR22KbzWN5Wfb9djSo) | [Pick Me](https://open.spotify.com/album/2YpbOugRMPqzmoTJW6F1J0) | 2:50 |
 | 60 | [iii\. LaDrogaMásSuaveDelMundo\(!\) · enamoramiento](https://open.spotify.com/track/25sS3mU6hQC2FtgSf0oB1v) | [Alice Wonder](https://open.spotify.com/artist/0SquRSkIJbzPqCUxG2EZMi) | [Soulost](https://open.spotify.com/album/1UJ9oErOGqOrtQuFuZLrxE) | 4:00 |
 | 61 | [AUSENCIA](https://open.spotify.com/track/3Itdr4lEbPt7GK04M5Jr0P) | [Vera GRV](https://open.spotify.com/artist/03ibrSvByQ6WCX79oFaORa), [Toni Anzis](https://open.spotify.com/artist/4Y1YeIY4yWN4U5Qwi68Soq) | [Se me pasó llamarte, mamá](https://open.spotify.com/album/0ObHHR5E2kkgosKn6eIXLm) | 1:50 |
-| 62 | [SI NO ESTÁS TÚ](https://open.spotify.com/track/1nLER1WPkhoePtsc8QYZCt) | [Lara Project](https://open.spotify.com/artist/5FXxWnN3DpfSS4vbcoqvbs), [Gus](https://open.spotify.com/artist/3tQrRoZiGXR5uMkaCYf8S4) | [Finjo y estoy bien \(División A\)](https://open.spotify.com/album/2oBIqhcZ9Z0NjgRa9JDKQx) | 3:55 |
-| 63 | [invierno](https://open.spotify.com/track/2tjDGWIAfBhws2OzWwgtJi) | [Leo Rizzi](https://open.spotify.com/artist/2281RSmb2cN6knnt0Iarb2) | [PÁJARO AZUL](https://open.spotify.com/album/7lUllZVIhNP8mCn9h3HmxO) | 3:01 |
-| 64 | [no llames lo mío nuestro](https://open.spotify.com/track/56lEVxNmR6NYSSa4nZtEBU) | [Joaquina](https://open.spotify.com/artist/081F5qgtVMfcHZKDY1IEa0) | [no llames lo mío nuestro](https://open.spotify.com/album/2r8XKWioH1ActVuWTXePGu) | 3:39 |
+| 62 | [invierno](https://open.spotify.com/track/2tjDGWIAfBhws2OzWwgtJi) | [Leo Rizzi](https://open.spotify.com/artist/2281RSmb2cN6knnt0Iarb2) | [PÁJARO AZUL](https://open.spotify.com/album/7lUllZVIhNP8mCn9h3HmxO) | 3:01 |
+| 63 | [no llames lo mío nuestro](https://open.spotify.com/track/56lEVxNmR6NYSSa4nZtEBU) | [Joaquina](https://open.spotify.com/artist/081F5qgtVMfcHZKDY1IEa0) | [no llames lo mío nuestro](https://open.spotify.com/album/2r8XKWioH1ActVuWTXePGu) | 3:39 |
+| 64 | [SI NO ESTÁS TÚ](https://open.spotify.com/track/1nLER1WPkhoePtsc8QYZCt) | [Lara Project](https://open.spotify.com/artist/5FXxWnN3DpfSS4vbcoqvbs), [Gus](https://open.spotify.com/artist/3tQrRoZiGXR5uMkaCYf8S4) | [Finjo y estoy bien \(División A\)](https://open.spotify.com/album/2oBIqhcZ9Z0NjgRa9JDKQx) | 3:55 |
 | 65 | [Te Lo Voy a Decir](https://open.spotify.com/track/3WDMlT5t2UWDnkre7CrZbU) | [Conociendo Rusia](https://open.spotify.com/artist/79R7PUc6T6j09G8mJzNml2) | [Te Lo Voy a Decir](https://open.spotify.com/album/6MeNE5UGAISIbnDkj27hNF) | 4:06 |
 | 66 | [La Máquina](https://open.spotify.com/track/5acc1o99QTGUXSkKQHnpZZ) | [maye](https://open.spotify.com/artist/5ti5FPHgtaSf15KcUisZMt) | [La Máquina](https://open.spotify.com/album/7HPpJQmljEPIaedgm7vBsa) | 2:34 |
 | 67 | [Lágrimas de sol](https://open.spotify.com/track/3jW5qT8v9F6ZRuH6CRNGKd) | [Gonza Silva](https://open.spotify.com/artist/4DUULlizAy9zRrfsfG5ttn) | [Pronto estaré bien](https://open.spotify.com/album/72ctczMr5Lgg8WtxR5oEDF) | 3:28 |
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcFwsXuG6tG8.md) - [plain]
 | 74 | [Reconciliados](https://open.spotify.com/track/1udMSoGRgHpRvPMqCuc4m2) | [Samantha Sánchez](https://open.spotify.com/artist/1GhW0GVy12AcLQc5kA14PJ) | [Reconciliados](https://open.spotify.com/album/35XiSHghDUxUBzj7oXDau3) | 2:49 |
 | 75 | [a los 20](https://open.spotify.com/track/7gW7MA6kZEggEhB6mWGEp9) | [FABIAN](https://open.spotify.com/artist/5OHLIL5eTIYJ4WXNvKkeyG) | [NIÑO BUENO \- Lado A](https://open.spotify.com/album/36O7gM7tEVAtkuWk7HlDbl) | 3:12 |
 
-Snapshot ID: `AAAAAEr7zXcEmj4rai0L+97FAUE3vHns`
+Snapshot ID: `AAAAAPBSQauXoRN+lT+GGoBbDH/GpL+f`

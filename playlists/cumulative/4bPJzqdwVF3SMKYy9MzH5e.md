@@ -4,7 +4,7 @@
 
 > 
 
-2,468 songs - 5 day 12 hr 41 min
+2,469 songs - 5 day 12 hr 44 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -935,6 +935,7 @@
 | [Hayloft II](https://open.spotify.com/track/0kYMwaQWABTkFff8AZjmYI) | [Mother Mother](https://open.spotify.com/artist/0e86yPdC41PGRkLp2Q1Bph) | [Inside \(Deluxe\)](https://open.spotify.com/album/03EqExvZuxLK86huLxGIa2) | 3:35 | 2022-04-03 |  |
 | [HDMI](https://open.spotify.com/track/7I4ibsZgwuf46g0xHuTC8s) | [BONES](https://open.spotify.com/artist/5v2WhpA59TJSdPh7LCx1lN) | [Rotten](https://open.spotify.com/album/2jgKK8iIX83mPrCyDhvEdf) | 2:19 | 2023-04-17 |  |
 | [Headlights](https://open.spotify.com/track/7DYu9gQIkAF38H71V2uASa) | [Gaffa Tape Sandy](https://open.spotify.com/artist/00P2dAOymeYKFx4OSaVgw1) | [Family Mammal](https://open.spotify.com/album/1BO7FtrmddhXgemo7FDukl) | 2:55 | 2021-08-05 |  |
+| [Headliner](https://open.spotify.com/track/4KDJfug28h0LbZpdJmC73S) | [Pretty Sick](https://open.spotify.com/artist/5JUGL6ec4eULQ5eVEbOC7e) | [Headliner](https://open.spotify.com/album/6JcCv9NZt9eqxPHtO9hnjl) | 3:12 | 2026-11-25 |  |
 | [Heart Dub](https://open.spotify.com/track/6YOzFoMadiyRiXSYcBkshT) | [Fcukers](https://open.spotify.com/artist/3UtzOHYm3lQALkKzVD4wyO) | [Baggy$$](https://open.spotify.com/album/0cX9ldzQG2UYMHo6ILXXYk) | 2:31 | 2026-02-06 |  |
 | [Heart\-Shaped Box](https://open.spotify.com/track/11LmqTE2naFULdEP94AUBa) | [Nirvana](https://open.spotify.com/artist/6olE6TJLqED3rqDCT0FyPh) | [In Utero \(Deluxe Edition\)](https://open.spotify.com/album/6ohX7moZZnF1FwYrli1OJ6) | 4:41 | 2021-08-05 |  |
 | [heartless](https://open.spotify.com/track/0nu2e482H8Xspsx0z4KTYW) | [DJ Kuroneko](https://open.spotify.com/artist/1utT39CwCZruFdvmbvDusl) | [kuroneko](https://open.spotify.com/album/1a9GKdu2sPv7bvGg1efnx4) | 3:02 | 2022-02-04 |  |

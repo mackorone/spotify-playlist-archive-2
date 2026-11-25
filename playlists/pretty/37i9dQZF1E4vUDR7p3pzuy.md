@@ -2,7 +2,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1E4vUDR7p3pzuy.md) - [plain]
 
 ### [DePitcha Radio](https://open.spotify.com/playlist/37i9dQZF1E4vUDR7p3pzuy)
 
-> With Captain Margaret, Then Comes Silence, Mercury Teardrop and more
+> With Desperate Journalist, JUST LIZZY, Captain Margaret and more
 
 [Spotify](https://open.spotify.com/user/spotify) - 0 likes - 50 songs - 3 hr 22 min
 
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1E4vUDR7p3pzuy.md) - [plain]
 | 49 | [Mental Health \(MIK’s Miasma\)](https://open.spotify.com/track/1gNXkCxKqF3ZFveWOVpSX4) | [MIK's Reaction](https://open.spotify.com/artist/0LS00Hi5R6PcZ9mfPTjSMg) | [Mental Health \(MIK’s Miasma\)](https://open.spotify.com/album/5gfoeaTbvC2fB0ggE1FiKm) | 5:40 |
 | 50 | [Instruments of Joy](https://open.spotify.com/track/2fy5EnCgPSMoZmdSMV3FG3) | [Twice A Man](https://open.spotify.com/artist/5f4QXUKgp11PrkYGztcfGy) | [Reveries Before Silence](https://open.spotify.com/album/7E3eIkVbx2UoU5JnB0aPZY) | 5:58 |
 
-Snapshot ID: `AAAAAORFvYVVnzpbfTz4qlY7e92ah7Fd`
+Snapshot ID: `AAAAAHSCsycw6aeKKL1H+tf5Ri+/Ne30`

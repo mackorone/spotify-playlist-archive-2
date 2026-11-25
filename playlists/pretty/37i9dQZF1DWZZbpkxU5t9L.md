@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZZbpkxU5t9L.md) - [plain]
 
 > いま話題のバイラルヒット曲をまとめてチェック。Cover: Filix王
 
-[Spotify](https://open.spotify.com/user/spotify) - 230,752 likes - 60 songs - 3 hr 45 min
+[Spotify](https://open.spotify.com/user/spotify) - 230,709 likes - 60 songs - 3 hr 45 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -69,4 +69,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZZbpkxU5t9L.md) - [plain]
 | 59 | [NEON](https://open.spotify.com/track/5PvLNQRNRj61y3CU4SFIY4) | [A2O LITE](https://open.spotify.com/artist/0Vkn28k7P4K95Ce3knN0hQ), [A2O](https://open.spotify.com/artist/7rBQch7KtqQNQjV5AxdHlE) | [NEON](https://open.spotify.com/album/4LcuVwt8mIj0SIoWQqnDkd) | 3:28 |
 | 60 | [Flower In A Hurricane \(feat\. Tame Impala, SZA, King Gizzard & the Lizard Wizard\) \[From GTAVI: Original Score\]](https://open.spotify.com/track/4HCOHRCSQelz2GPX8iTamO) | [Justice](https://open.spotify.com/artist/1gR0gsQYfi6joyO1dlp76N), [Tame Impala](https://open.spotify.com/artist/5INjqkS1o8h1imAzPqGZBb), [SZA](https://open.spotify.com/artist/7tYKF4w9nC0nq9CsPZTHyP), [Grand Theft Auto VI](https://open.spotify.com/artist/15o7qdDTBzs6xWRUYUtZc1), [King Gizzard & The Lizard Wizard](https://open.spotify.com/artist/6XYvaoDGE0VmRt83Jss9Sn) | [Flower In A Hurricane \(feat\. Tame Impala, SZA, King Gizzard & the Lizard Wizard\) \[From GTAVI: Original Score\]](https://open.spotify.com/album/1V8Qu6CwkBfYucnCWxynq8) | 3:44 |
 
-Snapshot ID: `AAAAAIDoCiRYCrgs8wMqX95s+38ic6Y/`
+Snapshot ID: `AAAAAAoeiD0b9ngzMuGkL3+yoESsad7R`

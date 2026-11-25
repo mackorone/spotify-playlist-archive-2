@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2021-12-21",
-  "description": "\u65e5\u672c\u306e\u30dd\u30c3\u30d7\u30b7\u30fc\u30f3\u3092\u5f69\u308b\u6700\u65b0\u30d9\u30b9\u30c850\u3002The hottest hits in Japan right now. Cover:  XG",
+  "description": "\u65e5\u672c\u306e\u30dd\u30c3\u30d7\u30b7\u30fc\u30f3\u3092\u5f69\u308b\u6700\u65b0\u30d9\u30b9\u30c850\u3002The hottest hits in Japan right now. Cover:  \u3061\u3083\u3093\u307f\u306a",
   "name": "Tokyo Super Hits! ",
   "tracks": [
     {
@@ -976,7 +976,7 @@
       ],
       "date_added": "2026-10-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-25",
       "duration_ms": 172421,
       "name": "ANIMAL",
       "url": "https://open.spotify.com/track/0NI2z69OboDcZ0YkF2ozRo"
@@ -1252,6 +1252,24 @@
       "duration_ms": 232100,
       "name": "August",
       "url": "https://open.spotify.com/track/2iORIDxw0qWn5ezfmG4Crv"
+    },
+    {
+      "album": {
+        "name": "Aurora",
+        "url": "https://open.spotify.com/album/77i2hnrLLEg4T5GOFCXakR"
+      },
+      "artists": [
+        {
+          "name": "STARGLOW",
+          "url": "https://open.spotify.com/artist/1iw2iFU0Tpq7xvkX4VZyfZ"
+        }
+      ],
+      "date_added": "2026-11-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 221033,
+      "name": "Aurora",
+      "url": "https://open.spotify.com/track/5ht69Xbfj12h1n6Nd12qaW"
     },
     {
       "album": {
@@ -2558,7 +2576,7 @@
       ],
       "date_added": "2026-09-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-25",
       "duration_ms": 242433,
       "name": "By your side",
       "url": "https://open.spotify.com/track/59ElHgKBjJBTai1T9CpBsY"
@@ -3812,7 +3830,7 @@
       ],
       "date_added": "2026-10-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-25",
       "duration_ms": 238271,
       "name": "Destiny Journeys",
       "url": "https://open.spotify.com/track/0KW4FOvRBxXSsRBOwHWL42"
@@ -11096,6 +11114,24 @@
       "duration_ms": 212491,
       "name": "Masterplan",
       "url": "https://open.spotify.com/track/4GbVhNlk8i8r1ZFSe9R7Tc"
+    },
+    {
+      "album": {
+        "name": "AAO",
+        "url": "https://open.spotify.com/album/0sZcpa3BHSXlFor4YfAACL"
+      },
+      "artists": [
+        {
+          "name": "JO1",
+          "url": "https://open.spotify.com/artist/2koP6FEfIEVk4l2Fe6jFhu"
+        }
+      ],
+      "date_added": "2026-11-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 150000,
+      "name": "MATCHA",
+      "url": "https://open.spotify.com/track/7gESiMMOwo8uFkc1mb0ZPZ"
     },
     {
       "album": {
@@ -20606,7 +20642,7 @@
       ],
       "date_added": "2026-09-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-25",
       "duration_ms": 281766,
       "name": "You (feat. UMI)",
       "url": "https://open.spotify.com/track/4OZgLTWdsiogtoDdZVEtpZ"
@@ -23816,7 +23852,7 @@
       ],
       "date_added": "2026-11-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-25",
       "duration_ms": 237053,
       "name": "\u30ad\u30c4\u30cd\u30ce\u30dc\u30bf\u30f3",
       "url": "https://open.spotify.com/track/08tsEjEVpPUNi5rbjQRI9O"
@@ -31612,7 +31648,7 @@
       ],
       "date_added": "2026-08-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-25",
       "duration_ms": 289000,
       "name": "\u6674\u3005",
       "url": "https://open.spotify.com/track/0rlxx7HySKpl2LwyOfg2zR"
@@ -32733,6 +32769,24 @@
     },
     {
       "album": {
+        "name": "Pre: Prema",
+        "url": "https://open.spotify.com/album/1aslkAwn7kQ4HC9EkHTfaH"
+      },
+      "artists": [
+        {
+          "name": "Fujii Kaze",
+          "url": "https://open.spotify.com/artist/6bDWAcdtVR3WHz2xtiIPUi"
+        }
+      ],
+      "date_added": "2026-11-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 315375,
+      "name": "\u6e80\u3061\u3066\u3086\u304f",
+      "url": "https://open.spotify.com/track/3Ez9uxIM4nwbAZRAdJvBxS"
+    },
+    {
+      "album": {
         "name": "\u820c\u6253",
         "url": "https://open.spotify.com/album/5SxgjWfTuZEd3eqscDMU1v"
       },
@@ -33475,6 +33529,24 @@
     },
     {
       "album": {
+        "name": "\u795e\u3005\u306e\u8977(\u305f\u3059\u304d)",
+        "url": "https://open.spotify.com/album/4GXxmmS9kxeIeJBROvzQib"
+      },
+      "artists": [
+        {
+          "name": "Keisuke Kuwata",
+          "url": "https://open.spotify.com/artist/6YIqgghQqnkNne8BKQpW6v"
+        }
+      ],
+      "date_added": "2026-11-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 239692,
+      "name": "\u795e\u3005\u306e\u8977(\u305f\u3059\u304d)",
+      "url": "https://open.spotify.com/track/3e0pXn50e7wjx4tINlvXIl"
+    },
+    {
+      "album": {
         "name": "ROUNDABOUT",
         "url": "https://open.spotify.com/album/1N3qm3w4YsYgXh6XxBjkay"
       },
@@ -33652,6 +33724,24 @@
       "duration_ms": 245333,
       "name": "\u79d8\u5bc6\u306e\u30ad\u30b9",
       "url": "https://open.spotify.com/track/077Erf4RnkjumF791VOBnE"
+    },
+    {
+      "album": {
+        "name": "\u79d8\u5bc6\u306e\u30af\u30ea\u30b9\u30de\u30b9",
+        "url": "https://open.spotify.com/album/2z33pYcCFX5Y0WeZSeRt4o"
+      },
+      "artists": [
+        {
+          "name": "yangskinny",
+          "url": "https://open.spotify.com/artist/3VVMRDGpbQR2SK9nHX3DW5"
+        }
+      ],
+      "date_added": "2026-11-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 306533,
+      "name": "\u79d8\u5bc6\u306e\u30af\u30ea\u30b9\u30de\u30b9",
+      "url": "https://open.spotify.com/track/4IaTA1zo3mcB3RWAGFBiVe"
     },
     {
       "album": {
@@ -35070,6 +35160,24 @@
       "duration_ms": 191047,
       "name": "\u9065\u304b",
       "url": "https://open.spotify.com/track/6At8fG853JqHaZP72oONtA"
+    },
+    {
+      "album": {
+        "name": "\u9065\u304b\u306a\u6700\u4f4e",
+        "url": "https://open.spotify.com/album/4rXkwiT8XLuYY6rzt0HCHA"
+      },
+      "artists": [
+        {
+          "name": "indigo la End",
+          "url": "https://open.spotify.com/artist/26ZBeXl5Gqr3TAv2itmyCU"
+        }
+      ],
+      "date_added": "2026-11-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 284667,
+      "name": "\u9065\u304b\u306a\u6700\u4f4e",
+      "url": "https://open.spotify.com/track/2cbW3GjH7KJKyl1ChHLAvT"
     },
     {
       "album": {

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7WzJOLQGqZp.md) - [plain]
 
 > The best music videos in Black music\. Cover: Chxrry
 
-[Spotify](https://open.spotify.com/user/spotify) - 312 likes - 50 songs - 2 hr 34 min
+[Spotify](https://open.spotify.com/user/spotify) - 321 likes - 50 songs - 2 hr 32 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -35,14 +35,14 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7WzJOLQGqZp.md) - [plain]
 | 25 | [Piece Of Your Love](https://open.spotify.com/track/2hlmmhPIYS8XkRxq2Que6U) | [Rod Wave](https://open.spotify.com/artist/45TgXXqMDdF8BkjA83OM7z) | [Piece Of Your Love](https://open.spotify.com/album/2WVU7GV8n6u7Vub8fCSynY) | 3:45 |
 | 26 | [BOMBS](https://open.spotify.com/track/4ntjhL2eQJH1O4ow1S5zoY) | [Doechii](https://open.spotify.com/artist/4E2rKHVDssGJm2SCDOMMJB) | [BOMBS](https://open.spotify.com/album/7tvZ9e94jBOdxHTJC1VAbf) | 1:34 |
 | 27 | [Dead Fresh](https://open.spotify.com/track/5ZAMlvo6ZUjVRZOGu2bJib) | [Lil Baby](https://open.spotify.com/artist/5f7VJjfbwm532GiveGC0ZK) | [Dead Fresh](https://open.spotify.com/album/6DuuzOm5bLRIg4CVBQx136) | 2:37 |
-| 28 | [High Noon \(feat\. Gunna\)](https://open.spotify.com/track/55N2MkhE8YjcrdKkWgLg4h) | [Shaboozey](https://open.spotify.com/artist/3y2cIKLjiOlp1Np37WiUdH), [Gunna](https://open.spotify.com/artist/2hlmm7s2ICUX0LVIhVFlZQ) | [High Noon \(feat\. Gunna\)](https://open.spotify.com/album/6dTcxGI6glSzGcG5Wv3hpI) | 2:30 |
-| 29 | [Old Fashioned](https://open.spotify.com/track/6q50TzX055hdNMR2miNusd) | [Scoot Teasley](https://open.spotify.com/artist/0E9OojU6St18Zi8hPGD2kJ), [BRELAND](https://open.spotify.com/artist/0C86lmpnwiyLDUiyo4d0P1) | [Old Fashioned](https://open.spotify.com/album/3KXzYQNhM8peYgX3IAqEed) | 2:31 |
-| 30 | [I Can Change Him](https://open.spotify.com/track/3JOpwVy1PrV07FUtApoN7y) | [Jensen McRae](https://open.spotify.com/artist/11dABkjSoOjcP9p3TFSNRj) | [I Don't Know How But They Found Me...Again!](https://open.spotify.com/album/2waHNdcyBJsSKqGTPeSgYt) | 3:37 |
-| 31 | [I Kinda Like That](https://open.spotify.com/track/0PRUObTnEluxW0lgkykCDw) | [The Paradox](https://open.spotify.com/artist/6GhcI55xfZf5vqmmNqYzxW) | [Proceed With Caution](https://open.spotify.com/album/468Onsk0BAN3KorH6PrBfR) | 2:39 |
-| 32 | [CARITA FELIZ](https://open.spotify.com/track/6bQsFck5fRznOrCfJMxF1c) | [Myke Towers](https://open.spotify.com/artist/7iK8PXO48WeuP03g8YR51W) | [CARITA FELIZ](https://open.spotify.com/album/72fKROtde4M6Rv14mgIOpm) | 3:13 |
-| 33 | [Xclusiva](https://open.spotify.com/track/3oRAKVQVqot2N4hy1eskfa) | [MXKA](https://open.spotify.com/artist/4nLdZ0ohtx0T20E82Gq6UO), [JM4C](https://open.spotify.com/artist/7mzxtrqvFQDYM7t13CBJEr) | [Xclusiva](https://open.spotify.com/album/4kSLY799mGP7Y14oHaQWWh) | 2:25 |
-| 34 | [Mi Yo De Antes](https://open.spotify.com/track/5JYGc8GO8v3He5zzzL8F6J) | [Ozuna](https://open.spotify.com/artist/1i8SpTcr7yvPOmcqrbnVXY) | [Mi Yo De Antes](https://open.spotify.com/album/6fg1BYMy7ZcZ4uRJ728xno) | 3:04 |
-| 35 | [Te Imagino](https://open.spotify.com/track/2zMwhxsn38rjCCnIwpaoh4) | [Myke Towers](https://open.spotify.com/artist/7iK8PXO48WeuP03g8YR51W) | [Te Imagino](https://open.spotify.com/album/5wlpcIXWRQQ2IrpvKkGSzN) | 4:11 |
+| 28 | [BUNK](https://open.spotify.com/track/0W2q0ZfVRVFydiTEgO5N7U) | [Mark Lux](https://open.spotify.com/artist/29fuOxHZkxmYqLIpBjE7V5) | [BUNK](https://open.spotify.com/album/3QxoZZayEouZx4qjHF3wNf) | 2:26 |
+| 29 | [High Noon \(feat\. Gunna\)](https://open.spotify.com/track/55N2MkhE8YjcrdKkWgLg4h) | [Shaboozey](https://open.spotify.com/artist/3y2cIKLjiOlp1Np37WiUdH), [Gunna](https://open.spotify.com/artist/2hlmm7s2ICUX0LVIhVFlZQ) | [High Noon \(feat\. Gunna\)](https://open.spotify.com/album/6dTcxGI6glSzGcG5Wv3hpI) | 2:30 |
+| 30 | [Old Fashioned](https://open.spotify.com/track/6q50TzX055hdNMR2miNusd) | [Scoot Teasley](https://open.spotify.com/artist/0E9OojU6St18Zi8hPGD2kJ), [BRELAND](https://open.spotify.com/artist/0C86lmpnwiyLDUiyo4d0P1) | [Old Fashioned](https://open.spotify.com/album/3KXzYQNhM8peYgX3IAqEed) | 2:31 |
+| 31 | [I Can Change Him](https://open.spotify.com/track/3JOpwVy1PrV07FUtApoN7y) | [Jensen McRae](https://open.spotify.com/artist/11dABkjSoOjcP9p3TFSNRj) | [I Don't Know How But They Found Me...Again!](https://open.spotify.com/album/2waHNdcyBJsSKqGTPeSgYt) | 3:37 |
+| 32 | [I Kinda Like That](https://open.spotify.com/track/0PRUObTnEluxW0lgkykCDw) | [The Paradox](https://open.spotify.com/artist/6GhcI55xfZf5vqmmNqYzxW) | [Proceed With Caution](https://open.spotify.com/album/468Onsk0BAN3KorH6PrBfR) | 2:39 |
+| 33 | [CARITA FELIZ](https://open.spotify.com/track/6bQsFck5fRznOrCfJMxF1c) | [Myke Towers](https://open.spotify.com/artist/7iK8PXO48WeuP03g8YR51W) | [CARITA FELIZ](https://open.spotify.com/album/72fKROtde4M6Rv14mgIOpm) | 3:13 |
+| 34 | [Xclusiva](https://open.spotify.com/track/3oRAKVQVqot2N4hy1eskfa) | [MXKA](https://open.spotify.com/artist/4nLdZ0ohtx0T20E82Gq6UO), [JM4C](https://open.spotify.com/artist/7mzxtrqvFQDYM7t13CBJEr) | [Xclusiva](https://open.spotify.com/album/4kSLY799mGP7Y14oHaQWWh) | 2:25 |
+| 35 | [Mi Yo De Antes](https://open.spotify.com/track/5JYGc8GO8v3He5zzzL8F6J) | [Ozuna](https://open.spotify.com/artist/1i8SpTcr7yvPOmcqrbnVXY) | [Mi Yo De Antes](https://open.spotify.com/album/6fg1BYMy7ZcZ4uRJ728xno) | 3:04 |
 | 36 | [RAPID FYAH \(feat\. Skillibeng\)](https://open.spotify.com/track/0F8p385xgqt3gPgUWMT7Cl) | [Original Koffee](https://open.spotify.com/artist/1gWjcmBsveEYMxOZ0VRi32), [Skillibeng](https://open.spotify.com/artist/5FkUhnHQ0KC63549LHHtst) | [OVA SO](https://open.spotify.com/album/3cevsKFOsZKs0qzgnZPtj7) | 2:49 |
 | 37 | [BRUCKSWEAT](https://open.spotify.com/track/4RgwqFlAfzSiDC71CQrZRF) | [Shenseea](https://open.spotify.com/artist/1OFOShsIbhy1l5x73yuVyB) | [BRUCKSWEAT](https://open.spotify.com/album/2m3HYs6Ojn3jXuA6DcLJYj) | 3:08 |
 | 38 | [DADAMAN](https://open.spotify.com/track/5O9aVGryqU0Um5l4a1pezL) | [DESTIN CONRAD](https://open.spotify.com/artist/4jwROPSUkTkohLCRiyjiZZ), [kwn](https://open.spotify.com/artist/2KnhnL8zuqLhIhGk601fsb) | [ROADRUNNER](https://open.spotify.com/album/7joEKdjJC5ROVOVc15CNfj) | 2:41 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7WzJOLQGqZp.md) - [plain]
 | 49 | [Tell Everybody \(feat\. Leon Thomas\)](https://open.spotify.com/track/2BewxbxoGj2w6xIsz5CTn0) | [Davido](https://open.spotify.com/artist/0Y3agQaa6g2r0YmHPOO9rh), [Leon Thomas](https://open.spotify.com/artist/0nnBZ8FXWjG9wZgM2cpfeb) | [Tell Everybody \(feat\. Leon Thomas\)](https://open.spotify.com/album/4TW0eYZ972UcDruzl7IZbk) | 2:28 |
 | 50 | [WTF Goin \(Feat\. 21 Savage\)](https://open.spotify.com/track/5uFVodx5ppCFWjyQXkgCrD) | [Belly Gang Kushington](https://open.spotify.com/artist/7oHPIc7BYAIUhYFF6hSggI), [21 Savage](https://open.spotify.com/artist/1URnnhqYAYcrqrcwql10ft) | [WTF Goin \(Feat\. 21 Savage\)](https://open.spotify.com/album/0ZD6PTKIZvp9cTlI0pjLvm) | 3:06 |
 
-Snapshot ID: `AAAAALFnh1jZUCc1LhDRV5pU3Dep8k63`
+Snapshot ID: `AAAAAMUJ+NnHZZCn4MyukNHJ2o+UkDr7`

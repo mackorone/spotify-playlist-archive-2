@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaqZ3USzRiOk.md) - [plain]
 
 > Yo soy tu sangre, mi viejo, soy tu silencio y tu tiempo...
 
-[Spotify](https://open.spotify.com/user/spotify) - 269,238 likes - 150 songs - 7 hr 42 min
+[Spotify](https://open.spotify.com/user/spotify) - 269,269 likes - 150 songs - 7 hr 42 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -40,8 +40,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaqZ3USzRiOk.md) - [plain]
 | 30 | [La Ley del Monte](https://open.spotify.com/track/2qWPIc4TfXwTzw8cTNxgoI) | [Vicente Fernández](https://open.spotify.com/artist/4PPoI9LuYeFX8V674Z1R6l) | [Un Mexicano en la México](https://open.spotify.com/album/0qSxCGrIhLiqINhvkCOvwm) | 2:54 |
 | 31 | [Te Solté la Rienda](https://open.spotify.com/track/3YubPkIjza38KmXTIGdk91) | [José Alfredo Jimenez](https://open.spotify.com/artist/2T06whb4s6UiufL1j5Qtz9) | [El Cantinero](https://open.spotify.com/album/7Gxn1LKL1SUSW8CVJugfES) | 2:38 |
 | 32 | [El Borracho](https://open.spotify.com/track/5rHezo2wXys6LNAKLrghMG) | [Los Dos Carnales](https://open.spotify.com/artist/25UNJbwGZSQKvz5cPLWlv3) | [El Borracho](https://open.spotify.com/album/5njN1rfBj1cSTtGAV16lta) | 3:04 |
-| 33 | [Hasta la Miel Amarga](https://open.spotify.com/track/1Q1yISpMwHLn4SMo6VJVaa) | [Los Tiranos Del Norte](https://open.spotify.com/artist/1utHYFInTd5VfFdsshUQ7H) | [Mis 30 Mejores Canciones](https://open.spotify.com/album/5sZ8JHwkEV2s0Dbv0ylSmZ) | 3:36 |
-| 34 | [Asi Fue](https://open.spotify.com/track/1igWS2rkcWldABqxIaUiHP) | [La Arrolladora Banda El Limón De Rene Camacho](https://open.spotify.com/artist/5bSfBBCxY8QAk4Pifveisz) | [Antes De Partir](https://open.spotify.com/album/28Kb1pmRPsiBUFKSCs1Qlq) | 5:18 |
+| 33 | [Asi Fue](https://open.spotify.com/track/1igWS2rkcWldABqxIaUiHP) | [La Arrolladora Banda El Limón De Rene Camacho](https://open.spotify.com/artist/5bSfBBCxY8QAk4Pifveisz) | [Antes De Partir](https://open.spotify.com/album/28Kb1pmRPsiBUFKSCs1Qlq) | 5:18 |
+| 34 | [Hasta la Miel Amarga](https://open.spotify.com/track/1Q1yISpMwHLn4SMo6VJVaa) | [Los Tiranos Del Norte](https://open.spotify.com/artist/1utHYFInTd5VfFdsshUQ7H) | [Mis 30 Mejores Canciones](https://open.spotify.com/album/5sZ8JHwkEV2s0Dbv0ylSmZ) | 3:36 |
 | 35 | [Renunciación](https://open.spotify.com/track/1hGx333PlqfWtTuPdyKmY6) | [Javier Solís](https://open.spotify.com/artist/7jerD1mbWgyDukHAmCvdCj) | [Rancheras](https://open.spotify.com/album/0DUcKDUj3TmpxJtoxVmhle) | 2:57 |
 | 36 | [En el Último Trago](https://open.spotify.com/track/6i6tTUmg1i9PDwETgb5v7J) | [José Alfredo Jimenez](https://open.spotify.com/artist/2T06whb4s6UiufL1j5Qtz9) | [Gracias \(with Mariachi Vargas de Tecalitlán\)](https://open.spotify.com/album/6nhkBmPqfBjoJwLMVClgxH) | 2:17 |
 | 37 | [La Chancla](https://open.spotify.com/track/312yuF1Zl8N7M2RuuJ4MUi) | [Antonio Aguilar](https://open.spotify.com/artist/0PN0fbe41KbuzlRYnoajNm) | [Rancheras de Relajo](https://open.spotify.com/album/5ZvBBcbj77jfjhfkvJtr7N) | 3:44 |
@@ -54,8 +54,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaqZ3USzRiOk.md) - [plain]
 | 44 | [Prefiero Partir](https://open.spotify.com/track/5jPB0XbTQ89o5DDd0WzJ6p) | [Ezequiel Peña](https://open.spotify.com/artist/4rWWouSk4D5OSFFFo2bmty) | [Yo Vendo Unos Ojos Verdes](https://open.spotify.com/album/1Yw1ofXYmmEbmleLmNEfYZ) | 3:17 |
 | 45 | [Me Caí De La Nube](https://open.spotify.com/track/3ZLsDOTN8cFjtQ9ctntKCC) | [Cornelio Reyna](https://open.spotify.com/artist/2hbA9AbMYcgXBGgBK6MCfx) | [15 Éxitazos](https://open.spotify.com/album/5mmZxvjnPHDjasQQ1F9514) | 2:49 |
 | 46 | [El Rey](https://open.spotify.com/track/4ihZFukyNotzCUtxI4qpu8) | [José Alfredo Jimenez](https://open.spotify.com/artist/2T06whb4s6UiufL1j5Qtz9) | [El Cantinero](https://open.spotify.com/album/7Gxn1LKL1SUSW8CVJugfES) | 2:09 |
-| 47 | [Pena Tras Pena](https://open.spotify.com/track/1GLxXu6AlBjPyo3a158CW4) | [Banda El Recodo](https://open.spotify.com/artist/6AcOTCYBMvjKYy4zms0kaC) | [Tengo Una Ilusión \(60 Aniversario\)](https://open.spotify.com/album/7MAgEJa3wbOp6RfV42WtBg) | 2:48 |
-| 48 | [Apenas Te Fuistes Ayer](https://open.spotify.com/track/6V79WQFVLdiCLrlsYpdQTV) | [Los Tigres Del Norte](https://open.spotify.com/artist/3hYtANQYrE6pd2PbtEyTIy) | [Mi Buena Suerte](https://open.spotify.com/album/3Ucu7Yp0cBJvikdVn5qsUA) | 2:43 |
+| 47 | [Apenas Te Fuistes Ayer](https://open.spotify.com/track/6V79WQFVLdiCLrlsYpdQTV) | [Los Tigres Del Norte](https://open.spotify.com/artist/3hYtANQYrE6pd2PbtEyTIy) | [Mi Buena Suerte](https://open.spotify.com/album/3Ucu7Yp0cBJvikdVn5qsUA) | 2:43 |
+| 48 | [Pena Tras Pena](https://open.spotify.com/track/1GLxXu6AlBjPyo3a158CW4) | [Banda El Recodo](https://open.spotify.com/artist/6AcOTCYBMvjKYy4zms0kaC) | [Tengo Una Ilusión \(60 Aniversario\)](https://open.spotify.com/album/7MAgEJa3wbOp6RfV42WtBg) | 2:48 |
 | 49 | [El Caminante](https://open.spotify.com/track/4Mfepu07REoaF3fxJBtpzi) | [La Dinastía de Tuzantla Michoacán](https://open.spotify.com/artist/2u7j1pjcNuLlfgiNrByi0R) | [Nuestra Historia](https://open.spotify.com/album/2aRhJtFFfvHtPv9EUegbVd) | 4:01 |
 | 50 | [La basurita](https://open.spotify.com/track/11A3Ku68YxMyS6OADvRMX3) | [Beatriz Adriana](https://open.spotify.com/artist/20DKdVZd4yxzm472iHRXzQ) | [¡ Ora pues !](https://open.spotify.com/album/7o88TvoiVuWuHRoXQXsfJA) | 2:10 |
 | 51 | [Sin Fortuna](https://open.spotify.com/track/4JBHcA19SAq5EzNgZZOy9O) | [Gerardo Reyes](https://open.spotify.com/artist/2HdTW6TLACOcKKsUaRdP0e) | [Serie De Colecc\. 15 Auténticos Exitos](https://open.spotify.com/album/2NBlTAiYb311082CIMKqjU) | 2:56 |
@@ -76,8 +76,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaqZ3USzRiOk.md) - [plain]
 | 66 | [Nadie Es Eterno](https://open.spotify.com/track/5Po7xN56zj0XD9ZiHNaUOY) | [Antonio Aguilar](https://open.spotify.com/artist/0PN0fbe41KbuzlRYnoajNm) | [Un Hombre Derecho](https://open.spotify.com/album/6CYInvelVYl6zh4H0Acitl) | 3:08 |
 | 67 | [Busca Otro Amor \(1968\)](https://open.spotify.com/track/2nnw5l4JCsIFvwl63Z6hFO) | [Las Jilguerillas](https://open.spotify.com/artist/0eeAs1exNZKyZNSFTVYInV) | [45 Anos De Exitos](https://open.spotify.com/album/3OwlCqdi85JnzFeaPnyHZE) | 3:15 |
 | 68 | [Pa' Todo el Año](https://open.spotify.com/track/3O8QuZZrZF9aDYlmmClMO6) | [José Alfredo Jimenez](https://open.spotify.com/artist/2T06whb4s6UiufL1j5Qtz9) | [Las 100 Clasicas Vol\. 2](https://open.spotify.com/album/0A7PWw6nPn5DztmUhIICiG) | 3:07 |
-| 69 | [Playa Sola](https://open.spotify.com/track/31gRnzSEtKgO8kLN7ZGUxz) | [Los Invasores De Nuevo León](https://open.spotify.com/artist/5CGtBYmVPeLhI1kM2Fn9Gv) | [Puros Éxitos](https://open.spotify.com/album/0M3kQUdKaCtut8mrQ4SlDo) | 2:52 |
-| 70 | [Mi Piquito De Oro](https://open.spotify.com/track/0w6iI2pCqX2beV22BqXFCz) | [Ramon Ayala Y Sus Bravos Del Norte](https://open.spotify.com/artist/5j9R5dTGerKvdXopZnfJh9) | [Mi Piquito De Oro](https://open.spotify.com/album/2HgZcYF9GN2rhgyVuBuzJu) | 2:09 |
+| 69 | [Mi Piquito De Oro](https://open.spotify.com/track/0w6iI2pCqX2beV22BqXFCz) | [Ramon Ayala Y Sus Bravos Del Norte](https://open.spotify.com/artist/5j9R5dTGerKvdXopZnfJh9) | [Mi Piquito De Oro](https://open.spotify.com/album/2HgZcYF9GN2rhgyVuBuzJu) | 2:09 |
+| 70 | [Playa Sola](https://open.spotify.com/track/31gRnzSEtKgO8kLN7ZGUxz) | [Los Invasores De Nuevo León](https://open.spotify.com/artist/5CGtBYmVPeLhI1kM2Fn9Gv) | [Puros Éxitos](https://open.spotify.com/album/0M3kQUdKaCtut8mrQ4SlDo) | 2:52 |
 | 71 | [Libro Abierto](https://open.spotify.com/track/6squwxmGYNEgrk3Ai0piCi) | [Gerardo Reyes](https://open.spotify.com/artist/2HdTW6TLACOcKKsUaRdP0e) | [Serie De Colecc\. 15 Auténticos Exitos](https://open.spotify.com/album/2NBlTAiYb311082CIMKqjU) | 2:08 |
 | 72 | [Media Vuelta](https://open.spotify.com/track/2KGMcEzHuO83lqDTU0KORh) | [Javier Solís](https://open.spotify.com/artist/7jerD1mbWgyDukHAmCvdCj) | [Boleros\-Boleros\-Bole](https://open.spotify.com/album/7m8PpfxncQ37a8m3xkI8sl) | 2:11 |
 | 73 | [Crei](https://open.spotify.com/track/0gtWrIyzYgRIGjMBBMBEBz) | [Los Tiranos Del Norte](https://open.spotify.com/artist/1utHYFInTd5VfFdsshUQ7H) | [Entrega Total](https://open.spotify.com/album/1ynIsTxuLWB8gcIIOEV4pN) | 3:22 |
@@ -159,4 +159,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaqZ3USzRiOk.md) - [plain]
 | 149 | [El Hombre Que Nos Hizo](https://open.spotify.com/track/2DsVJPOH293xXFFsYg1h8u) | [Jovanny Cadena Y Su Estilo Privado](https://open.spotify.com/artist/0aaYORc6Zmp1SCXhRRDwNW) | [Ya Aprendí la Lección](https://open.spotify.com/album/7zdX1DPwz8PU1tsaw5qSg8) | 3:47 |
 | 150 | [Un Beso para el Cielo](https://open.spotify.com/track/2B1geKh5178U4kf6G68V3j) | [Edwin Luna y La Trakalosa de Monterrey](https://open.spotify.com/artist/4LFOoXhMhnq9U8VsZkSwxl) | [Un Beso para el Cielo](https://open.spotify.com/album/69TDq9g5j1QjcjLe2uXAvE) | 3:05 |
 
-Snapshot ID: `AAAAAAegwLNwwzojYKf0isnRd2gKsdgZ`
+Snapshot ID: `AAAAAOzJIxOQO/z0ODiNt8twrIvptO9k`

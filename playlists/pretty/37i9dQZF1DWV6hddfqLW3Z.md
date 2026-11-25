@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWV6hddfqLW3Z.md) - [plain]
 
 > Pegue seu café, ache um bom lugar para sentar, ajuste seu fone de ouvido e aproveite o momento.
 
-[Spotify](https://open.spotify.com/user/spotify) - 810,006 likes - 70 songs - 4 hr 20 min
+[Spotify](https://open.spotify.com/user/spotify) - 810,025 likes - 70 songs - 4 hr 20 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -30,8 +30,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWV6hddfqLW3Z.md) - [plain]
 | 20 | [Um dia de domingo](https://open.spotify.com/track/4Hnc4ewhudTuDkXiyZ39Vm) | [Lucas Mamede](https://open.spotify.com/artist/6pbg3DywWNPejXsXkx3iKD), [ANAVITÓRIA](https://open.spotify.com/artist/1sPg5EHuQXTMElpZ4iUgXe) | [Um dia de domingo](https://open.spotify.com/album/6UsutqrIyl5NVGoP4i4hoz) | 4:11 |
 | 21 | [Não Te Largo, Não Te Troco](https://open.spotify.com/track/4aOjUCwa65AQ0uYoeQZS6Z) | [Ana Gabriela](https://open.spotify.com/artist/6a9WLQ5NsIV7U2qB16uFWD), [Melim](https://open.spotify.com/artist/6uYrXgVHctAJtIdSODcyLJ) | [Ana](https://open.spotify.com/album/03EODNJC2L3f9Yq6QrgEJX) | 3:09 |
 | 22 | [Lugar Ao Sol \- Ao Vivo \| Acústico](https://open.spotify.com/track/4G7J6r92RH3aRlTEJQER8A) | [Raimundos](https://open.spotify.com/artist/3CfJckVRuukdJSvK3r89yJ) | [Acústico \- Ao Vivo](https://open.spotify.com/album/2DMlDuUYFSjOyEDDL86yia) | 3:39 |
-| 23 | [Preciso Me Encontrar](https://open.spotify.com/track/1op7nM2R2M6FAU6dSCTRWV) | [Cartola](https://open.spotify.com/artist/0RSWHhBUwW7lhCqXqxKxWN) | [Raizes Do Samba](https://open.spotify.com/album/0i9SwtLwZ8cOuH5qtkwTvT) | 2:59 |
-| 24 | [Não Olha Assim Pra Mim](https://open.spotify.com/track/6Nhhr4fy6YKwLfoo3GDugB) | [OUTROEU](https://open.spotify.com/artist/3gZAVWMzKOt1tVO4tHoGwo) | [Encaixe](https://open.spotify.com/album/5MdoqDbChGI02hD8d9ZdzX) | 3:32 |
+| 23 | [Não Olha Assim Pra Mim](https://open.spotify.com/track/6Nhhr4fy6YKwLfoo3GDugB) | [OUTROEU](https://open.spotify.com/artist/3gZAVWMzKOt1tVO4tHoGwo) | [Encaixe](https://open.spotify.com/album/5MdoqDbChGI02hD8d9ZdzX) | 3:32 |
+| 24 | [Preciso Me Encontrar](https://open.spotify.com/track/1op7nM2R2M6FAU6dSCTRWV) | [Cartola](https://open.spotify.com/artist/0RSWHhBUwW7lhCqXqxKxWN) | [Raizes Do Samba](https://open.spotify.com/album/0i9SwtLwZ8cOuH5qtkwTvT) | 2:59 |
 | 25 | [Algo Parecido](https://open.spotify.com/track/1xd17oTRJ5sFIHySHLnad9) | [Skank](https://open.spotify.com/artist/4C4kpaAdp6aKSkguw40SsU) | [Algo Parecido](https://open.spotify.com/album/4xujhMVqrfeMvtt4SV8QIb) | 3:45 |
 | 26 | [Mais Bonito Não Há](https://open.spotify.com/track/3TjdjYx5sBXrRdytJkzJJX) | [Milton Nascimento](https://open.spotify.com/artist/3Bnq7jiU506HcPjRgQ43TM), [TIAGO IORC](https://open.spotify.com/artist/4iWkwAVzssjb8XgxdoOL6M) | [Mais Bonito Não Há](https://open.spotify.com/album/26a6ajd9PLDhLzlMZCawEd) | 3:57 |
 | 27 | [Tempo Perdido \(Versão Os Dias Eram Assim\)](https://open.spotify.com/track/5nJNdtx7ZtkNRKiYdhb87Z) | [TIAGO IORC](https://open.spotify.com/artist/4iWkwAVzssjb8XgxdoOL6M) | [Tempo Perdido \(Versão Os Dias Eram Assim\)](https://open.spotify.com/album/7t5ScMLW7t6WIa5F1VRvNN) | 3:28 |
@@ -58,8 +58,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWV6hddfqLW3Z.md) - [plain]
 | 48 | [Samba](https://open.spotify.com/track/1E2TPHygHwO5m602LLaQZ3) | [Lagum](https://open.spotify.com/artist/5D56dZmhE9DgT01XixdHiD) | [Samba](https://open.spotify.com/album/0tTsTvzc7K3UqkTZS2AlKT) | 2:40 |
 | 49 | [A Janela, Carolina](https://open.spotify.com/track/08ccPaMAsu7IYnbFDJxUoH) | [Rubel](https://open.spotify.com/artist/0slVGXBggrLglTLNKbeEyW) | [Beleza\. Mas agora a gente faz o que com isso?](https://open.spotify.com/album/0cOW8fhryMaZZG4Mo0VuEf) | 2:38 |
 | 50 | [Lenha](https://open.spotify.com/track/03eJrJinZp8ofxM3nQQs9F) | [Zeca Baleiro](https://open.spotify.com/artist/7LunbFWIm3RPQpywjOSSd8) | [Top Hits](https://open.spotify.com/album/1QKWvjU1m1Eh2CJ2TsiPE8) | 4:09 |
-| 51 | [A Paz \- Ao Vivo](https://open.spotify.com/track/409yVdUeXfYJY7MeY0SKRf) | [Marisa Monte](https://open.spotify.com/artist/0rSTXALHu0EKAawPLBdODH), [Gilberto Gil](https://open.spotify.com/artist/7oEkUINVIj1Nr3Wnj8tzqr) | [A Paz \(Ao Vivo\)](https://open.spotify.com/album/4BXhVxKouNYfRoR6iPnYuv) | 4:34 |
-| 52 | [Ontem Sonhei Com Você](https://open.spotify.com/track/77BLShAlboRvoKHFaDRwVl) | [Os Garotin](https://open.spotify.com/artist/6aMpeys8CsM9RuRR74RNMP), [Luiz Melodia](https://open.spotify.com/artist/1zZjt7cDeeJSLWZYK34r7W) | [Ontem Sonhei Com Você](https://open.spotify.com/album/3dRVv3CeulwBj8HHgG3lGC) | 3:56 |
+| 51 | [Ontem Sonhei Com Você](https://open.spotify.com/track/77BLShAlboRvoKHFaDRwVl) | [Os Garotin](https://open.spotify.com/artist/6aMpeys8CsM9RuRR74RNMP), [Luiz Melodia](https://open.spotify.com/artist/1zZjt7cDeeJSLWZYK34r7W) | [Ontem Sonhei Com Você](https://open.spotify.com/album/3dRVv3CeulwBj8HHgG3lGC) | 3:56 |
+| 52 | [A Paz \- Ao Vivo](https://open.spotify.com/track/409yVdUeXfYJY7MeY0SKRf) | [Marisa Monte](https://open.spotify.com/artist/0rSTXALHu0EKAawPLBdODH), [Gilberto Gil](https://open.spotify.com/artist/7oEkUINVIj1Nr3Wnj8tzqr) | [A Paz \(Ao Vivo\)](https://open.spotify.com/album/4BXhVxKouNYfRoR6iPnYuv) | 4:34 |
 | 53 | [Concrete Jungle](https://open.spotify.com/track/2FgcXLNOqk8jr9S1HGdnio) | [Céu](https://open.spotify.com/artist/2eFVsaX3yHLPeWpiqvmeFn) | [Céu](https://open.spotify.com/album/17jh7tYL1hiAltz0DJlvLN) | 3:32 |
 | 54 | [I Don't Want To Talk About It](https://open.spotify.com/track/79hHaRraMY1E8t8U2TS7jK) | [Fernanda Takai](https://open.spotify.com/artist/62Yab84ZgQW4k4nOUPqIxE) | [Na Medida do Impossível Ao Vivo No Inhotim \(álbum Comentado\)](https://open.spotify.com/album/6duND4qwkaiUAyVFsoJUfB) | 3:27 |
 | 55 | [Deixar](https://open.spotify.com/track/4dTzcw2ajjxSde0XFMoxXE) | [Pedro Mizutani](https://open.spotify.com/artist/64QDqXMHjg0lUoGbXSCX2R), [Skinshape](https://open.spotify.com/artist/1itM5tXaK5THggpXA7ovAe) | [Mostrando Os Dentes](https://open.spotify.com/album/5c0oHJioFpM2zSSJCvjay8) | 2:31 |
@@ -79,4 +79,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWV6hddfqLW3Z.md) - [plain]
 | 69 | [Amuleto](https://open.spotify.com/track/5JEVbp6mX3umfQePbnN3sE) | [Tiê](https://open.spotify.com/artist/5rTjH3aABAmPM5B6DZebZ7) | [Amuleto](https://open.spotify.com/album/4HvVCCgm8aIdaDryqCjMCn) | 3:27 |
 | 70 | [Voando \(Nel Blu Dipinto Di Blu\)](https://open.spotify.com/track/5eJ4kcwdET3HsQvwT5QSuX) | [Rita Lee](https://open.spotify.com/artist/7dnT2FUXhjirperXaH22IJ), [Roberto De Carvalho](https://open.spotify.com/artist/4w4ll81d0dR8gz989jjko1) | [Voando \(Nel Blu Dipinto Di Blu\)](https://open.spotify.com/album/1QQkssDjcaEVl6pJhSOWIQ) | 3:56 |
 
-Snapshot ID: `AAAAABDfwJmfqBX5nk+SB1ayPXBAmR3Z`
+Snapshot ID: `AAAAAG4uWUGf0636j+fu5sUYqNYbYvnT`

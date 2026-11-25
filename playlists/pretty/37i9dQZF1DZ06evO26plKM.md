@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO26plKM.md) - [plain]
 
 > This is Glen Hansard\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 34,050 likes - 50 songs - 3 hr 23 min
+[Spotify](https://open.spotify.com/user/spotify) - 34,053 likes - 50 songs - 3 hr 23 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -42,9 +42,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO26plKM.md) - [plain]
 | 32 | [Flag Day](https://open.spotify.com/track/6vPFMaNspciL76HBtf05rk) | [Eddie Vedder](https://open.spotify.com/artist/0mXTJETA4XUa12MmmXxZJh), [Glen Hansard](https://open.spotify.com/artist/3Caot8EtHX6wLpNF2wRzS0) | [Flag Day \(Original Soundtrack\)](https://open.spotify.com/album/6y8qx4wS06EbInD9x8q5Xx) | 4:09 |
 | 33 | [Sleepless Nights](https://open.spotify.com/track/5tyz7e3vR8wsIEoRUdU3jy) | [Eddie Vedder](https://open.spotify.com/artist/0mXTJETA4XUa12MmmXxZJh), [Glen Hansard](https://open.spotify.com/artist/3Caot8EtHX6wLpNF2wRzS0) | [Ukulele Songs](https://open.spotify.com/album/1tcn5JXZJC0xVAFIE3iZat) | 2:39 |
 | 34 | [Sleeping](https://open.spotify.com/track/6ctbCp3KtBLpHVNZgjBU3i) | [The Swell Season](https://open.spotify.com/artist/2buJppisWV2GWWBWgkK074), [Glen Hansard](https://open.spotify.com/artist/3Caot8EtHX6wLpNF2wRzS0), [Markéta Irglová](https://open.spotify.com/artist/4SklVMGMsWTq7cJd9MixUx) | [The Swell Season](https://open.spotify.com/album/21FlPPRXTywONIRkB4g6Mb) | 3:38 |
-| 35 | [Bottle of Smoke](https://open.spotify.com/track/6zhlcfLSxjOxLR80xHAKJP) | [Glen Hansard](https://open.spotify.com/artist/3Caot8EtHX6wLpNF2wRzS0), [Shane MacGowan](https://open.spotify.com/artist/68lZHeroea1NAuEDsfBUjv) | [Bottle of Smoke](https://open.spotify.com/album/0Pn5FzzU5r98Wg0dTKD4T3) | 2:44 |
+| 35 | [Stuck In Reverse](https://open.spotify.com/track/2rQVHibsV25SwAOLhdNUUp) | [The Swell Season](https://open.spotify.com/artist/2buJppisWV2GWWBWgkK074), [Glen Hansard](https://open.spotify.com/artist/3Caot8EtHX6wLpNF2wRzS0), [Markéta Irglová](https://open.spotify.com/artist/4SklVMGMsWTq7cJd9MixUx) | [Forward](https://open.spotify.com/album/57mnXn8AGiqH6eulFq5fTQ) | 3:51 |
 | 36 | [In These Arms](https://open.spotify.com/track/1qHB7ObGoYmYEVall8JZIq) | [The Swell Season](https://open.spotify.com/artist/2buJppisWV2GWWBWgkK074), [Glen Hansard](https://open.spotify.com/artist/3Caot8EtHX6wLpNF2wRzS0), [Markéta Irglová](https://open.spotify.com/artist/4SklVMGMsWTq7cJd9MixUx) | [Strict Joy \(Deluxe Edition\)](https://open.spotify.com/album/7iqI8yPfkZSzDXYrwXgWvX) | 3:33 |
-| 37 | [Stuck In Reverse](https://open.spotify.com/track/2rQVHibsV25SwAOLhdNUUp) | [The Swell Season](https://open.spotify.com/artist/2buJppisWV2GWWBWgkK074), [Glen Hansard](https://open.spotify.com/artist/3Caot8EtHX6wLpNF2wRzS0), [Markéta Irglová](https://open.spotify.com/artist/4SklVMGMsWTq7cJd9MixUx) | [Forward](https://open.spotify.com/album/57mnXn8AGiqH6eulFq5fTQ) | 3:51 |
+| 37 | [Bottle of Smoke](https://open.spotify.com/track/6zhlcfLSxjOxLR80xHAKJP) | [Glen Hansard](https://open.spotify.com/artist/3Caot8EtHX6wLpNF2wRzS0), [Shane MacGowan](https://open.spotify.com/artist/68lZHeroea1NAuEDsfBUjv) | [Bottle of Smoke](https://open.spotify.com/album/0Pn5FzzU5r98Wg0dTKD4T3) | 2:44 |
 | 38 | [What Happens When The Heart Just Stops \(Funkhaus Version\)](https://open.spotify.com/track/40gjFISWufq2pDTgRjeu1z) | [Glen Hansard](https://open.spotify.com/artist/3Caot8EtHX6wLpNF2wRzS0) | [Don’t Settle \(Vol\. 2 \- Transmissions West\)](https://open.spotify.com/album/3l2wMz89yZGgpAssgxf4z9) | 4:15 |
 | 39 | [Fitzcarraldo](https://open.spotify.com/track/1x651IG9goWsHgtgOFIezP) | [The Frames](https://open.spotify.com/artist/6lyku6lhbB3tLc3Dghs5CM), [Glen Hansard](https://open.spotify.com/artist/3Caot8EtHX6wLpNF2wRzS0) | [Longitude](https://open.spotify.com/album/7ccMftz19C1aZM6ihllj2m) | 6:17 |
 | 40 | [Fitzcarraldo \(Funkhaus Version\)](https://open.spotify.com/track/5bgNDhKnTLFedQFTClTMx7) | [Glen Hansard](https://open.spotify.com/artist/3Caot8EtHX6wLpNF2wRzS0) | [Don’t Settle \(Vol\. 1 \- Transmissions East\)](https://open.spotify.com/album/1turbfBjdvisgkk6XLfKB1) | 6:20 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO26plKM.md) - [plain]
 | 49 | [Star Star](https://open.spotify.com/track/601Y6igy4Xewfm3daAN5c5) | [The Frames](https://open.spotify.com/artist/6lyku6lhbB3tLc3Dghs5CM), [Glen Hansard](https://open.spotify.com/artist/3Caot8EtHX6wLpNF2wRzS0) | [Longitude](https://open.spotify.com/album/7ccMftz19C1aZM6ihllj2m) | 3:58 |
 | 50 | [Just to Be the One \(Funkhaus Version\)](https://open.spotify.com/track/5TMQ0HAtRAZGPmwrCgzi0e) | [Glen Hansard](https://open.spotify.com/artist/3Caot8EtHX6wLpNF2wRzS0) | [Don’t Settle \(Vol\. 2 \- Transmissions West\)](https://open.spotify.com/album/3l2wMz89yZGgpAssgxf4z9) | 3:09 |
 
-Snapshot ID: `awIwgAAAAAAsZGmetI6vjXDkcKUG56kF`
+Snapshot ID: `awOCAAAAAADe5GlSLF67Ze30gPsyO4sr`

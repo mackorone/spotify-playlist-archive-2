@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXc5TIUNEibWO.md) - [plain]
 
 > Ghanaian Highlife Classics
 
-[Spotify](https://open.spotify.com/user/spotify) - 11,117 likes - 80 songs - 7 hr 44 min
+[Spotify](https://open.spotify.com/user/spotify) - 11,131 likes - 80 songs - 7 hr 44 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -89,4 +89,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXc5TIUNEibWO.md) - [plain]
 | 79 | [Show Your Love](https://open.spotify.com/track/0cDfFzTnNsLlNuBzKopILl) | [Paapa Yankson](https://open.spotify.com/artist/3rZx8PZWeT89QmApdVqzS8) | [Show Your Love](https://open.spotify.com/album/2VCZ8OBriGGaI2gbjHd3V7) | 6:46 |
 | 80 | [Okwanti Nyi](https://open.spotify.com/track/4B5V4CuWLDxIhvnuTq630f) | [Felix Owusu](https://open.spotify.com/artist/4JUwsChOzwk5vUol3AP4gy) | [E'SHOW ME](https://open.spotify.com/album/6DSdZfJ6QC2UEJVNjuweZk) | 4:47 |
 
-Snapshot ID: `AAAAACxs6aAjLAipJArxJfoujeQ3bplI`
+Snapshot ID: `AAAAANW9/q+v0+j8YBFE3kIc513NvExr`

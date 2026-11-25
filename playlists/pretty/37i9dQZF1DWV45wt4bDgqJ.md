@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWV45wt4bDgqJ.md) - [plain]
 
 > Turn the party on with these hits\. Music videos only available on Premium.
 
-[Spotify](https://open.spotify.com/user/spotify) - 2,798 likes - 36 songs - 2 hr 7 min
+[Spotify](https://open.spotify.com/user/spotify) - 2,826 likes - 36 songs - 2 hr 7 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -45,4 +45,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWV45wt4bDgqJ.md) - [plain]
 | 35 | [Borro Cassette](https://open.spotify.com/track/6DUdDIRgLqCGq1DwkNWQTN) | [Maluma](https://open.spotify.com/artist/1r4hJ1h58CWwUQe3MxPuau) | [Pretty Boy, Dirty Boy](https://open.spotify.com/album/3PomvFR694SrCSZzDWMWV7) | 3:27 |
 | 36 | [Otra vez \(feat\. J Balvin\)](https://open.spotify.com/track/1yeNEwCLZti2HusXE6Zpay) | [Zion & Lennox](https://open.spotify.com/artist/21451j1KhjAiaYKflxBjr1), [J Balvin](https://open.spotify.com/artist/1vyhD5VmyZ7KMfW5gqLgo5) | [Otra Vez \(feat\. J Balvin\)](https://open.spotify.com/album/2rIkvBy6neSw44CvZkxTGH) | 3:34 |
 
-Snapshot ID: `AAAAAGO6Sdd7UYQ4nEUqY+ELHGNnQWVQ`
+Snapshot ID: `AAAAAHQNeriFS/N0XKCC+mGoy2NWVltq`

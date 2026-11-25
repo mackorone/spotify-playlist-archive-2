@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6KE5n0wXSmh.md) - [plain]
 
 > Our Rock editors' picks of the very best rock, alternative, metal and punk songs of last month\. Cover: Overgrown
 
-[Spotify](https://open.spotify.com/user/spotify) - 6,365 likes - 55 songs - 3 hr 29 min
+[Spotify](https://open.spotify.com/user/spotify) - 6,391 likes - 55 songs - 3 hr 29 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -64,4 +64,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6KE5n0wXSmh.md) - [plain]
 | 54 | [Now Yr Calling Me Baby](https://open.spotify.com/track/6nOrl4RgyvPCaF6ZWiNx4V) | [Alien Boy](https://open.spotify.com/artist/65vqyT3OjG2zvb3cO1s44j) | [Rearrange My Mind](https://open.spotify.com/album/58WYQfF84BzVY18WH2TTbn) | 4:09 |
 | 55 | [Penny Drop](https://open.spotify.com/track/32GjuqtqII6OOUIzPYbrfs) | [studio20](https://open.spotify.com/artist/2RLTzU6T70BdbKDd7Fcata) | [Penny Drop](https://open.spotify.com/album/6GlTwfD72bVGcDYyG4Jyv9) | 2:12 |
 
-Snapshot ID: `AAAAANwcMjkSLEK898pSaNfADTMJyvgC`
+Snapshot ID: `AAAAAPkXtB0nd0/3vV2s+rBKsjFOIRNJ`

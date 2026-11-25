@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbUOvbOBAiPu.md) - [plain]
 
 > New music from Dua Lipa, Warhaus, Zoë Livay,  Jul & J Balvin, Adèle Castillon, Zwangere Guy & Sef and more...
 
-[Spotify](https://open.spotify.com/user/spotify) - 55,050 likes - 125 songs - 6 hr 30 min
+[Spotify](https://open.spotify.com/user/spotify) - 55,047 likes - 125 songs - 6 hr 30 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -18,7 +18,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbUOvbOBAiPu.md) - [plain]
 | 8 | [Debout](https://open.spotify.com/track/1wk6Zve0KRioYIbDVmR3tS) | [Noé Preszow](https://open.spotify.com/artist/6CZhbpXpR3VJNQWFkwd2Ic) | [Ici Noé](https://open.spotify.com/album/7vdPcR5eHr8WjKcY7bgOkc) | 3:39 |
 | 9 | [Starting From Zero \(feat\. Michael McDonald\) \[From GTAVI: Original Score\]](https://open.spotify.com/track/1akuT1qSIAoOhpPhUxGpyR) | [Justice](https://open.spotify.com/artist/1gR0gsQYfi6joyO1dlp76N), [Michael McDonald](https://open.spotify.com/artist/24hJWbo98sH84tb0nkeaqy), [Grand Theft Auto VI](https://open.spotify.com/artist/15o7qdDTBzs6xWRUYUtZc1) | [Starting From Zero \(feat\. Michael McDonald\) \[From GTAVI: Original Score\]](https://open.spotify.com/album/5TZmF4xF98fss6CqT3oCSh) | 3:10 |
 | 10 | [Through Fire & Ashes](https://open.spotify.com/track/6zXOb0twqoNTKfhckpzvjj) | [Within Temptation](https://open.spotify.com/artist/3hE8S8ohRErocpkY7uJW4a), [S10](https://open.spotify.com/artist/1zT9SWCzN45r7oVhy0VYLK) | [Through Fire & Ashes](https://open.spotify.com/album/7f1msXBK4lKC77wXUaLdg0) | 4:28 |
-| 11 | [OCÉAN DE PROBLÈMES](https://open.spotify.com/track/5dIeUtbhqDLrT61OmVis32) | [Ninho](https://open.spotify.com/artist/6Te49r3A6f5BiIgBRxH7FH) | [M.I.L.S 4 \(Deluxe Edition\)](https://open.spotify.com/album/2dYzdvprtQxTjRERTd4XsD) | 3:22 |
+| 11 | [OC�AN DE PROBL�MES](https://open.spotify.com/track/5dIeUtbhqDLrT61OmVis32) | [Ninho](https://open.spotify.com/artist/6Te49r3A6f5BiIgBRxH7FH) | [M.I.L.S 4 \(Deluxe Edition\)](https://open.spotify.com/album/2dYzdvprtQxTjRERTd4XsD) | 3:22 |
 | 12 | [Bon Appétit](https://open.spotify.com/track/2w0IA4SBx3e0ymlZ5EY9mP) | [Kurdo](https://open.spotify.com/artist/1yIifIA91WgmfzBcjbQB8i), [Chahid](https://open.spotify.com/artist/6EBuwu67SbT5U1Gns5bvCb) | [Bon Appétit](https://open.spotify.com/album/7q2bRCXRzw3LPCFCsM1XHt) | 2:30 |
 | 13 | [Lost in It](https://open.spotify.com/track/3DS1UrDXwnpnYZsLjNnugt) | [Gracie Abrams](https://open.spotify.com/artist/4tuJ0bMpJh08umKkEXKUI5) | [Daughter from Hell \(Deluxe\)](https://open.spotify.com/album/7hAEgpAEje0obsJ8SrJKg2) | 2:55 |
 | 14 | [LET ME LOVE U?](https://open.spotify.com/track/2IQCI291KZPzxZVut7Lrip) | [Spanker](https://open.spotify.com/artist/6wMnkPepu5AcV3w9rtIw09), [KM](https://open.spotify.com/artist/0MSYpagcvnSP2o91Ji2OCw), [CHO](https://open.spotify.com/artist/0YPIovtLh5msFPFuCcn30R), [Jonna Fraser](https://open.spotify.com/artist/5adKMaYrGOMyOfnbiLPuHg) | [LET ME LOVE U?](https://open.spotify.com/album/2BhrigAOtSWvXKsWbL9S9C) | 2:26 |
@@ -26,7 +26,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbUOvbOBAiPu.md) - [plain]
 | 16 | [Around The World \(La La La La La\)](https://open.spotify.com/track/6M13rru1yByqJG8NqCNha2) | [MATTN](https://open.spotify.com/artist/1RQ3ZwCNI7KniEKIN5kkio), [BEAUZ](https://open.spotify.com/artist/2Wzb0u138rgoZQTK3ytknT) | [Around The World \(La La La La La\)](https://open.spotify.com/album/6SEUHbva11yfBYcuurWGoK) | 2:06 |
 | 17 | [Feel Alright](https://open.spotify.com/track/1ZxXUnXPNUBXVLDXY9rypW) | [Rema](https://open.spotify.com/artist/46pWGuE3dSwY3bMMXGBvVS), [Wizkid](https://open.spotify.com/artist/3tVQdUvClmAT7URs9V3rsp) | [Feel Alright](https://open.spotify.com/album/2tkpoFs09vZRoSEhtwzeqF) | 3:49 |
 | 18 | [Volte\-face](https://open.spotify.com/track/3NTVVrc04FtcpNq94XH56J) | [Anouk](https://open.spotify.com/artist/1mIWgSsGsrxUOcWEF2ioHS) | [Volte\-face](https://open.spotify.com/album/22MXT6eNm3Z7fuEvTwI8yT) | 2:59 |
-| 19 | [Ça fait mal](https://open.spotify.com/track/2AYGusyyjwqhD1vghWgd3f) | [No Limit](https://open.spotify.com/artist/2Ns3GuAU2LYllDr7z20d0e), [Orelsan](https://open.spotify.com/artist/4FpJcNgOvIpSBeJgRg3OfN), [L2B](https://open.spotify.com/artist/4hYxvgmTzS29XAXlo5adgM) | [Ça fait mal](https://open.spotify.com/album/2hn3gS94UbKonBWLPpFdMU) | 2:39 |
+| 19 | [Ça fait mal \(feat\. L2B\)](https://open.spotify.com/track/2AYGusyyjwqhD1vghWgd3f) | [No Limit](https://open.spotify.com/artist/2Ns3GuAU2LYllDr7z20d0e), [Orelsan](https://open.spotify.com/artist/4FpJcNgOvIpSBeJgRg3OfN), [L2B](https://open.spotify.com/artist/4hYxvgmTzS29XAXlo5adgM) | [Ça fait mal \(feat\. L2B\)](https://open.spotify.com/album/2hn3gS94UbKonBWLPpFdMU) | 2:39 |
 | 20 | [Bruk Out](https://open.spotify.com/track/2orzQOODmU0MrB3ABFT51g) | [Kybba](https://open.spotify.com/artist/5I8OAPN5jY1wvHwpnsRRsA), [Blaiz Fayah](https://open.spotify.com/artist/2WyypmYjOdaXg0bXDP67j7), [Kalibwoy](https://open.spotify.com/artist/3xhksfxjNLUAyxUdijvk4x) | [Bruk Out](https://open.spotify.com/album/10WwNtINKl6G0AgP5LdneO) | 2:20 |
 | 21 | [No Punctuation](https://open.spotify.com/track/6eZdZWIjhIGU7OR0FhmvqJ) | [beabadoobee](https://open.spotify.com/artist/35l9BRT7MXmM8bv2WDQiyB) | [No Punctuation](https://open.spotify.com/album/6uQ5idHs3nbfHwh6U1sims) | 3:17 |
 | 22 | [FNK](https://open.spotify.com/track/0xkx1ygZqFUy4ub6UWOFZC) | [Mosoo](https://open.spotify.com/artist/4tb4RmDN2nG89wOo7SQLzh) | [FNK](https://open.spotify.com/album/6j4l3H8LA0B6OvcZIO7aKF) | 3:40 |
@@ -134,4 +134,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbUOvbOBAiPu.md) - [plain]
 | 124 | [EPITAPH](https://open.spotify.com/track/0PU4ouHMxR2mvPLIh3rkTD) | [MUDRAT](https://open.spotify.com/artist/5BXgJD35uOzh79FlVO8DQ2) | [EPITAPH](https://open.spotify.com/album/5OodKM4uld9oWTq1ZI28uj) | 3:08 |
 | 125 | [SHADY SHADY](https://open.spotify.com/track/5Qd7BEDjCSpdJak3MwdNfo) | [Ganges](https://open.spotify.com/artist/7gtqMRAdH6DvPm2gdoI17Q) | [SHADY SHADY](https://open.spotify.com/album/73RKF6BpNKDuLxGxPnLneA) | 2:49 |
 
-Snapshot ID: `AAAAADXnKKtqU7UHDc/Xiq/Y6mZZUcSp`
+Snapshot ID: `AAAAAA0WAYphRBJQM8CufrXN0PUCbqtL`

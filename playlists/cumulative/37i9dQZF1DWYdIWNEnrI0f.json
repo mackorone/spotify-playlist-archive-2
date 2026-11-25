@@ -858,7 +858,7 @@
       ],
       "date_added": "2026-07-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-25",
       "duration_ms": 150857,
       "name": "Night Step",
       "url": "https://open.spotify.com/track/7wzdW1urmtdQZk4KQBOtX8"
@@ -1496,6 +1496,24 @@
       "duration_ms": 139506,
       "name": "Sunrise at Mount Fuji",
       "url": "https://open.spotify.com/track/3wtEF6gOrkS1DTT3BPMWdA"
+    },
+    {
+      "album": {
+        "name": "SYMBOL",
+        "url": "https://open.spotify.com/album/5s4qlmaXiEzQrpQHEikNGC"
+      },
+      "artists": [
+        {
+          "name": "Green Assassin Dollar",
+          "url": "https://open.spotify.com/artist/64FwB76hSP9VtYtPSBbEY7"
+        }
+      ],
+      "date_added": "2026-11-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 110308,
+      "name": "SYMBOL",
+      "url": "https://open.spotify.com/track/4zqdXlWnuD1oeaTi4pFDS1"
     },
     {
       "album": {

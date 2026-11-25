@@ -1,12 +1,12 @@
 {
   "description": "Britpop, trip-hop, grunge and more from the other side of the 90s. ",
-  "num_followers": 1521630,
+  "num_followers": 1521709,
   "original_name": "Alternative 90s",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAMuJv+L4WTOvBQmMFKC8Eu+HqfCU",
+  "snapshot_id": "AAAAAJEB5WqWhfZcR6AsDp7otPsl8ME4",
   "tracks": [
     {
       "added_at": "2024-03-18 22:29:53",
@@ -59,22 +59,6 @@
     {
       "added_at": "2024-03-18 22:29:53",
       "album": {
-        "name": "Dookie",
-        "url": "https://open.spotify.com/album/4uG8q3GPuWHQlRbswMIRS6"
-      },
-      "artists": [
-        {
-          "name": "Green Day",
-          "url": "https://open.spotify.com/artist/7oPftvlwr6VrsViSDV7fJY"
-        }
-      ],
-      "duration_ms": 181533,
-      "name": "Basket Case",
-      "url": "https://open.spotify.com/track/6L89mwZXSOwYl76YXfX13s"
-    },
-    {
-      "added_at": "2024-03-18 22:29:53",
-      "album": {
         "name": "Blur (Special Edition)",
         "url": "https://open.spotify.com/album/7HvIrSkKGJCzd8AKyjTJ6Q"
       },
@@ -87,6 +71,22 @@
       "duration_ms": 121160,
       "name": "Song 2 - 2012 Remaster",
       "url": "https://open.spotify.com/track/1FTSo4v6BOZH9QxKc3MbVM"
+    },
+    {
+      "added_at": "2024-03-18 22:29:53",
+      "album": {
+        "name": "Dookie",
+        "url": "https://open.spotify.com/album/4uG8q3GPuWHQlRbswMIRS6"
+      },
+      "artists": [
+        {
+          "name": "Green Day",
+          "url": "https://open.spotify.com/artist/7oPftvlwr6VrsViSDV7fJY"
+        }
+      ],
+      "duration_ms": 181533,
+      "name": "Basket Case",
+      "url": "https://open.spotify.com/track/6L89mwZXSOwYl76YXfX13s"
     },
     {
       "added_at": "2024-03-18 22:29:53",
@@ -227,22 +227,6 @@
     {
       "added_at": "2024-03-18 22:29:53",
       "album": {
-        "name": "Blind Melon",
-        "url": "https://open.spotify.com/album/55jET4vDioHHd7ztX7OX3h"
-      },
-      "artists": [
-        {
-          "name": "Blind Melon",
-          "url": "https://open.spotify.com/artist/5sD1ZLf2dGQ9gQ3YJl1eAd"
-        }
-      ],
-      "duration_ms": 217106,
-      "name": "No Rain",
-      "url": "https://open.spotify.com/track/6txWz9UapYHVxEd7dDIHXT"
-    },
-    {
-      "added_at": "2024-03-18 22:29:53",
-      "album": {
         "name": "Ill Communication",
         "url": "https://open.spotify.com/album/6lfjbwFGzQ6aSNP1N3JlT8"
       },
@@ -255,6 +239,22 @@
       "duration_ms": 178440,
       "name": "Sabotage",
       "url": "https://open.spotify.com/track/0Puj4YlTm6xNzDDADXHMI9"
+    },
+    {
+      "added_at": "2024-03-18 22:29:53",
+      "album": {
+        "name": "Blind Melon",
+        "url": "https://open.spotify.com/album/55jET4vDioHHd7ztX7OX3h"
+      },
+      "artists": [
+        {
+          "name": "Blind Melon",
+          "url": "https://open.spotify.com/artist/5sD1ZLf2dGQ9gQ3YJl1eAd"
+        }
+      ],
+      "duration_ms": 217106,
+      "name": "No Rain",
+      "url": "https://open.spotify.com/track/6txWz9UapYHVxEd7dDIHXT"
     },
     {
       "added_at": "2024-03-18 22:29:53",
@@ -943,22 +943,6 @@
     {
       "added_at": "2024-03-18 22:29:53",
       "album": {
-        "name": "All Change",
-        "url": "https://open.spotify.com/album/4QpYfKscCgJ7cciYCEysg5"
-      },
-      "artists": [
-        {
-          "name": "Cast",
-          "url": "https://open.spotify.com/artist/0vBDEQ1aLZpe4zgn2fPH6Z"
-        }
-      ],
-      "duration_ms": 231733,
-      "name": "Walkaway",
-      "url": "https://open.spotify.com/track/3drQLSnECw7QSHMysFqFx7"
-    },
-    {
-      "added_at": "2024-03-18 22:29:53",
-      "album": {
         "name": "Different Class",
         "url": "https://open.spotify.com/album/3ly9T2L4pqTZijFgQssd3x"
       },
@@ -971,6 +955,22 @@
       "duration_ms": 198573,
       "name": "Something Changed",
       "url": "https://open.spotify.com/track/05FgZdqxXg40X0WG8MmWMA"
+    },
+    {
+      "added_at": "2024-03-18 22:29:53",
+      "album": {
+        "name": "All Change",
+        "url": "https://open.spotify.com/album/4QpYfKscCgJ7cciYCEysg5"
+      },
+      "artists": [
+        {
+          "name": "Cast",
+          "url": "https://open.spotify.com/artist/0vBDEQ1aLZpe4zgn2fPH6Z"
+        }
+      ],
+      "duration_ms": 231733,
+      "name": "Walkaway",
+      "url": "https://open.spotify.com/track/3drQLSnECw7QSHMysFqFx7"
     },
     {
       "added_at": "2024-03-18 22:29:53",
@@ -1023,22 +1023,6 @@
     {
       "added_at": "2024-03-18 22:29:53",
       "album": {
-        "name": "All Change",
-        "url": "https://open.spotify.com/album/4QpYfKscCgJ7cciYCEysg5"
-      },
-      "artists": [
-        {
-          "name": "Cast",
-          "url": "https://open.spotify.com/artist/0vBDEQ1aLZpe4zgn2fPH6Z"
-        }
-      ],
-      "duration_ms": 217293,
-      "name": "Alright",
-      "url": "https://open.spotify.com/track/1SqY3rqLazvQlDz24GJ1TO"
-    },
-    {
-      "added_at": "2024-03-18 22:29:53",
-      "album": {
         "name": "Odelay",
         "url": "https://open.spotify.com/album/3PpTsdpZmaLUh6RvViu9G7"
       },
@@ -1051,6 +1035,22 @@
       "duration_ms": 192933,
       "name": "Devils Haircut",
       "url": "https://open.spotify.com/track/7h69nvFshbhUpesEXBPH0w"
+    },
+    {
+      "added_at": "2024-03-18 22:29:53",
+      "album": {
+        "name": "All Change",
+        "url": "https://open.spotify.com/album/4QpYfKscCgJ7cciYCEysg5"
+      },
+      "artists": [
+        {
+          "name": "Cast",
+          "url": "https://open.spotify.com/artist/0vBDEQ1aLZpe4zgn2fPH6Z"
+        }
+      ],
+      "duration_ms": 217293,
+      "name": "Alright",
+      "url": "https://open.spotify.com/track/1SqY3rqLazvQlDz24GJ1TO"
     },
     {
       "added_at": "2024-03-18 22:29:53",
@@ -1075,22 +1075,6 @@
     {
       "added_at": "2024-03-18 22:29:53",
       "album": {
-        "name": "James: The Best Of",
-        "url": "https://open.spotify.com/album/379HctFmaWUiHTlfUjF5qN"
-      },
-      "artists": [
-        {
-          "name": "James",
-          "url": "https://open.spotify.com/artist/0qLNsNKm8bQcMoRFkR8Hmh"
-        }
-      ],
-      "duration_ms": 276600,
-      "name": "Born Of Frustration",
-      "url": "https://open.spotify.com/track/7LbvpO06tNJzVpbbj96puU"
-    },
-    {
-      "added_at": "2024-03-18 22:29:53",
-      "album": {
         "name": "Gran Turismo",
         "url": "https://open.spotify.com/album/4gNjfAA5axfUEBbHJoAKBO"
       },
@@ -1103,6 +1087,22 @@
       "duration_ms": 215760,
       "name": "Erase / Rewind",
       "url": "https://open.spotify.com/track/2oHmRO0X4gW4VlCJRcZzez"
+    },
+    {
+      "added_at": "2024-03-18 22:29:53",
+      "album": {
+        "name": "James: The Best Of",
+        "url": "https://open.spotify.com/album/379HctFmaWUiHTlfUjF5qN"
+      },
+      "artists": [
+        {
+          "name": "James",
+          "url": "https://open.spotify.com/artist/0qLNsNKm8bQcMoRFkR8Hmh"
+        }
+      ],
+      "duration_ms": 276600,
+      "name": "Born Of Frustration",
+      "url": "https://open.spotify.com/track/7LbvpO06tNJzVpbbj96puU"
     },
     {
       "added_at": "2024-03-18 22:29:53",
@@ -1123,22 +1123,6 @@
     {
       "added_at": "2024-03-18 22:29:53",
       "album": {
-        "name": "The Good Will Out",
-        "url": "https://open.spotify.com/album/3eNC1W7Y3mkEVA10eTojFK"
-      },
-      "artists": [
-        {
-          "name": "Embrace",
-          "url": "https://open.spotify.com/artist/74K7bX12L8GBAWvPuyIgJ7"
-        }
-      ],
-      "duration_ms": 366266,
-      "name": "All You Good Good People",
-      "url": "https://open.spotify.com/track/72TPbqNS18yOlXa5USPSSo"
-    },
-    {
-      "added_at": "2024-03-18 22:29:53",
-      "album": {
         "name": "Lamb",
         "url": "https://open.spotify.com/album/5pMiACEneeuFtoFR9tEzOO"
       },
@@ -1151,6 +1135,22 @@
       "duration_ms": 390426,
       "name": "Gorecki",
       "url": "https://open.spotify.com/track/5VRkJsYcf9z4Wni19FxICi"
+    },
+    {
+      "added_at": "2024-03-18 22:29:53",
+      "album": {
+        "name": "The Good Will Out",
+        "url": "https://open.spotify.com/album/3eNC1W7Y3mkEVA10eTojFK"
+      },
+      "artists": [
+        {
+          "name": "Embrace",
+          "url": "https://open.spotify.com/artist/74K7bX12L8GBAWvPuyIgJ7"
+        }
+      ],
+      "duration_ms": 366266,
+      "name": "All You Good Good People",
+      "url": "https://open.spotify.com/track/72TPbqNS18yOlXa5USPSSo"
     },
     {
       "added_at": "2024-03-18 22:29:53",
@@ -1251,22 +1251,6 @@
     {
       "added_at": "2024-03-18 22:29:53",
       "album": {
-        "name": "The Sound Of McAlmont And Butler",
-        "url": "https://open.spotify.com/album/0gquqV1L3QZjZJ0ExzxtMo"
-      },
-      "artists": [
-        {
-          "name": "McAlmont & Butler",
-          "url": "https://open.spotify.com/artist/0BV7lpkyFTbzzML7DuUnpZ"
-        }
-      ],
-      "duration_ms": 293893,
-      "name": "Yes - Full Version",
-      "url": "https://open.spotify.com/track/6joAGL5IuD66Qgcz049ObW"
-    },
-    {
-      "added_at": "2024-03-18 22:29:53",
-      "album": {
         "name": "Wake Up!",
         "url": "https://open.spotify.com/album/4Jw9nbFQEGEfB3RCwHqRNU"
       },
@@ -1295,6 +1279,22 @@
       "duration_ms": 200666,
       "name": "A.M. 180",
       "url": "https://open.spotify.com/track/1tMHDdJEz8MFrkPFgwFACG"
+    },
+    {
+      "added_at": "2024-03-18 22:29:53",
+      "album": {
+        "name": "The Sound Of McAlmont And Butler",
+        "url": "https://open.spotify.com/album/0gquqV1L3QZjZJ0ExzxtMo"
+      },
+      "artists": [
+        {
+          "name": "McAlmont & Butler",
+          "url": "https://open.spotify.com/artist/0BV7lpkyFTbzzML7DuUnpZ"
+        }
+      ],
+      "duration_ms": 293893,
+      "name": "Yes - Full Version",
+      "url": "https://open.spotify.com/track/6joAGL5IuD66Qgcz049ObW"
     },
     {
       "added_at": "2024-03-18 22:29:53",

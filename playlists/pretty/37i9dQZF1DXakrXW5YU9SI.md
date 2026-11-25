@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXakrXW5YU9SI.md) - [plain]
 
 > Daj się otulić ciepłym brzmieniom ❄️☕
 
-[Spotify](https://open.spotify.com/user/spotify) - 345,811 likes - 60 songs - 3 hr 39 min
+[Spotify](https://open.spotify.com/user/spotify) - 345,961 likes - 60 songs - 3 hr 39 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -39,11 +39,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXakrXW5YU9SI.md) - [plain]
 | 29 | [Favor \- From The Hunger Games: Sunrise on the Reaping \- The Album](https://open.spotify.com/track/4ZlBJ0KOEOz2WbaO3BN50C) | [Gigi Perez](https://open.spotify.com/artist/1iCnM8foFssWlPRLfAbIwo), [The Hunger Games](https://open.spotify.com/artist/6UdECsev3yuXe2rfLrdDiF) | [Favor](https://open.spotify.com/album/0BoKFQz38FyG4DyrGbALRr) | 5:35 |
 | 30 | [Perfect Man](https://open.spotify.com/track/6Gf8utzDFG6eImqetkF0Px) | [Teddy Swims](https://open.spotify.com/artist/33qOK5uJ8AR2xuQQAhHump) | [Perfect Man](https://open.spotify.com/album/1Oa19Clqi3niOnlDvz0v2F) | 3:33 |
 | 31 | [Mimo najlepszych chęci](https://open.spotify.com/track/0qqOZcLqriEbeUPYWyIaRO) | [Vito Bambino](https://open.spotify.com/artist/5XGkLMcwitYFdwroktQs7o) | [Mimo najlepszych chęci](https://open.spotify.com/album/51a9Vx7LSsQ43Q4fyiSueg) | 3:57 |
-| 32 | [GET EVEN \(feat\. GIVEON\)](https://open.spotify.com/track/3LdHQCpIe5HQKsimwG4izX) | [The Kid LAROI](https://open.spotify.com/artist/2tIP7SsRs7vjIcLrU85W8J), [GIVĒON](https://open.spotify.com/artist/4fxd5Ee7UefO4CUXgwJ7IP) | [GET EVEN](https://open.spotify.com/album/1npdSboUQi3hE4rrlPh17O) | 2:48 |
-| 33 | [Leave With Me](https://open.spotify.com/track/6SDT6lj8sVzFK0o8UI2Y2G) | [LISA](https://open.spotify.com/artist/5L1lO4eRHmJ7a0Q6csE5cT) | [Leave With Me \(Featured in Always Lalisa\)](https://open.spotify.com/album/4HlM53Ct0IOnrRdWLAGmAn) | 3:04 |
-| 34 | [trees for the woods](https://open.spotify.com/track/4FXQTLl5v1jlaLvrp16mFk) | [Amie Blu](https://open.spotify.com/artist/3WWvqxymB3Nypxej8XcQKC) | [trees for the woods](https://open.spotify.com/album/5a1qNYmQldBmdb5NMLGi7a) | 4:07 |
-| 35 | [blue](https://open.spotify.com/track/0RJB6ldc79QC6jW5OR2Pv1) | [girl in red](https://open.spotify.com/artist/3uwAm6vQy7kWPS2bciKWx9) | [blue](https://open.spotify.com/album/3kxuW16FADFPyKmeke0wlR) | 4:10 |
-| 36 | [No Punctuation](https://open.spotify.com/track/6eZdZWIjhIGU7OR0FhmvqJ) | [beabadoobee](https://open.spotify.com/artist/35l9BRT7MXmM8bv2WDQiyB) | [No Punctuation](https://open.spotify.com/album/6uQ5idHs3nbfHwh6U1sims) | 3:17 |
+| 32 | [Leave With Me](https://open.spotify.com/track/6SDT6lj8sVzFK0o8UI2Y2G) | [LISA](https://open.spotify.com/artist/5L1lO4eRHmJ7a0Q6csE5cT) | [Leave With Me \(Featured in Always Lalisa\)](https://open.spotify.com/album/4HlM53Ct0IOnrRdWLAGmAn) | 3:04 |
+| 33 | [GET EVEN \(feat\. GIVEON\)](https://open.spotify.com/track/3LdHQCpIe5HQKsimwG4izX) | [The Kid LAROI](https://open.spotify.com/artist/2tIP7SsRs7vjIcLrU85W8J), [GIVĒON](https://open.spotify.com/artist/4fxd5Ee7UefO4CUXgwJ7IP) | [GET EVEN](https://open.spotify.com/album/1npdSboUQi3hE4rrlPh17O) | 2:48 |
+| 34 | [No Punctuation](https://open.spotify.com/track/6eZdZWIjhIGU7OR0FhmvqJ) | [beabadoobee](https://open.spotify.com/artist/35l9BRT7MXmM8bv2WDQiyB) | [No Punctuation](https://open.spotify.com/album/6uQ5idHs3nbfHwh6U1sims) | 3:17 |
+| 35 | [trees for the woods](https://open.spotify.com/track/4FXQTLl5v1jlaLvrp16mFk) | [Amie Blu](https://open.spotify.com/artist/3WWvqxymB3Nypxej8XcQKC) | [trees for the woods](https://open.spotify.com/album/5a1qNYmQldBmdb5NMLGi7a) | 4:07 |
+| 36 | [blue](https://open.spotify.com/track/0RJB6ldc79QC6jW5OR2Pv1) | [girl in red](https://open.spotify.com/artist/3uwAm6vQy7kWPS2bciKWx9) | [blue](https://open.spotify.com/album/3kxuW16FADFPyKmeke0wlR) | 4:10 |
 | 37 | [Elvis \(feat\. Brendan Yates\)](https://open.spotify.com/track/3K9BQAQcMQRClXvuHsuuwO) | [Rex Orange County](https://open.spotify.com/artist/7pbDxGE6nQSZVfiFdq9lOL), [Brendan Yates](https://open.spotify.com/artist/4AJe4qjJG5DrDEN7Ijz6Ar) | [Dream Fatigue](https://open.spotify.com/album/3eHX7aYtV7VxxSZmWBEKPA) | 3:11 |
 | 38 | [A PLACE TO GO](https://open.spotify.com/track/1sCi4rGpZTqajyJufnrbhb) | [The Kid LAROI](https://open.spotify.com/artist/2tIP7SsRs7vjIcLrU85W8J) | [A PLACE TO GO](https://open.spotify.com/album/5DievKzmlCMzHlE2mqB68S) | 3:32 |
 | 39 | [Hitachi](https://open.spotify.com/track/3dD5ULYA0Fz4w9vra6GmHD) | [ADÉLA](https://open.spotify.com/artist/2qanRMyA5bNuTvz1dK45OP) | [PRIMA](https://open.spotify.com/album/2yDFVH9CeOHt0sc9eI0aBs) | 3:36 |
@@ -66,7 +66,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXakrXW5YU9SI.md) - [plain]
 | 56 | [obłoki](https://open.spotify.com/track/6D7uM8zuAYJ82Fwatw9rWA) | [Jasiek Piwowarczyk](https://open.spotify.com/artist/705MUvkld29STeOVijPoTe) | [obłoki](https://open.spotify.com/album/2m4fIQU7WLfjijZpViJLhN) | 2:49 |
 | 57 | [Jak Ci jest?](https://open.spotify.com/track/29paoKhPhHyffhWxZKNfVS) | [Igor Herbut](https://open.spotify.com/artist/5KTMtd3GnDdcWnwxcEBwKX) | [Jak Ci jest?](https://open.spotify.com/album/1jcLVV7fP9Lm0gfVRRTSyt) | 6:35 |
 | 58 | [Tapeta w róże](https://open.spotify.com/track/0ygre4MAF3Zwo1DFYjsP7v) | [Kasia Sienkiewicz](https://open.spotify.com/artist/3YFGEKxRqRSBCW6sSv2FJH), [Leszek Możdżer](https://open.spotify.com/artist/4iJve8QGQMl0PpIDmRG73G) | [Tapeta w róże](https://open.spotify.com/album/0di7u04wHZjDYf1OhX8vV1) | 4:20 |
-| 59 | [Another Way To Cry](https://open.spotify.com/track/6kbuePrdGoBU8FTjguZESN) | [Texas](https://open.spotify.com/artist/5JsdVATHNPE0XdMFMRoSuf) | [Another Way To Cry](https://open.spotify.com/album/70hA53FbV5cN21BYFesOSu) | 3:52 |
-| 60 | [Następny proszę](https://open.spotify.com/track/6Tps1gh9OaN7XerstTIEAi) | [Sylwia Grzeszczak](https://open.spotify.com/artist/2TRVhYMkHV4jwB92R3McaS) | [Następny proszę](https://open.spotify.com/album/54YQmIx2vjYKMMTi0e0SNn) | 2:44 |
+| 59 | [Następny proszę](https://open.spotify.com/track/6Tps1gh9OaN7XerstTIEAi) | [Sylwia Grzeszczak](https://open.spotify.com/artist/2TRVhYMkHV4jwB92R3McaS) | [Następny proszę](https://open.spotify.com/album/54YQmIx2vjYKMMTi0e0SNn) | 2:44 |
+| 60 | [Another Way To Cry](https://open.spotify.com/track/6kbuePrdGoBU8FTjguZESN) | [Texas](https://open.spotify.com/artist/5JsdVATHNPE0XdMFMRoSuf) | [Another Way To Cry](https://open.spotify.com/album/70hA53FbV5cN21BYFesOSu) | 3:52 |
 
-Snapshot ID: `AAAAANC8ZBY2ftq2MfuwH5aK8Sa9AgRA`
+Snapshot ID: `AAAAAGObQxLZ2eS8/LM45AbElLk28Vie`

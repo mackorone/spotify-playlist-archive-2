@@ -4,7 +4,7 @@
 
 > Naye Indie gaano ka khazana, featuring Himonshu Parikh, OutStation, and other exciting artists.
 
-1,667 songs - 3 day 19 hr 54 min
+1,668 songs - 3 day 19 hr 57 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -1242,7 +1242,7 @@
 | [Reply](https://open.spotify.com/track/4s4aRzq3XGJdMa7ifENl0a) | [Anami](https://open.spotify.com/artist/47YNJp3c0vE0WGNq42Wd8p) | [Reply](https://open.spotify.com/album/1Zsy8P4YKy66M0at0VVmwG) | 2:58 | 2024-10-25 | 2025-01-18 |
 | [Resham Ki Dor](https://open.spotify.com/track/0gnUcv3ZvRuW4McbtUw2wl) | [Aditya A](https://open.spotify.com/artist/4wwYGgSpeBtvk5WX6HBqzw) | [Resham Ki Dor](https://open.spotify.com/album/5WajFYo8cctUuWxTk29rSU) | 2:26 | 2025-08-22 | 2025-11-14 |
 | [Reverence](https://open.spotify.com/track/2VB5XN4H1tfwAkYWi2pRHX) | [Savera](https://open.spotify.com/artist/3CVXA5TAWpmfGPqyMqXpPb) | [Reverence](https://open.spotify.com/album/25aob4c9VgfF6LwCN0G45D) | 3:57 | 2026-04-03 | 2026-05-02 |
-| [Ribcage](https://open.spotify.com/track/5sDAKW3OQc84UMnrhuFVyO) | [Tejas](https://open.spotify.com/artist/4CK1oDthUad8mQBb8GAcfl) | [Ribcage](https://open.spotify.com/album/34dtTMu26fdXVONfe6ZeL4) | 3:28 | 2026-10-02 |  |
+| [Ribcage](https://open.spotify.com/track/5sDAKW3OQc84UMnrhuFVyO) | [Tejas](https://open.spotify.com/artist/4CK1oDthUad8mQBb8GAcfl) | [Ribcage](https://open.spotify.com/album/34dtTMu26fdXVONfe6ZeL4) | 3:28 | 2026-10-02 | 2026-11-25 |
 | [Rihaa](https://open.spotify.com/track/1BSHXk8ZlYzL5lXepb2Shi) | [Anand Bhaskar Collective](https://open.spotify.com/artist/45m11y8OUyx5EgHiKvEC3c) | [Rihaa](https://open.spotify.com/album/3R2O1pJlzKd1uWk6m2BHjk) | 4:29 | 2026-09-11 |  |
 | [Ring of Fire](https://open.spotify.com/track/4UWAREEb848f2oxm929axM) | [Dhruv Visvanath](https://open.spotify.com/artist/5npIe0yBbHoAwQ5XYVVEwn) | [Ring of Fire](https://open.spotify.com/album/1c9BDmWn2SXhImd0s2tyCH) | 2:28 | 2023-04-14 | 2023-05-27 |
 | [Romeo.](https://open.spotify.com/track/0BGkzaDbOlO8l0PosWFyyt) | [som.](https://open.spotify.com/artist/4SfYrm8nXbR7IOK04PWwU6) | [Romeo.](https://open.spotify.com/album/3FILmWCBKJpKZ2oqmspw8r) | 5:36 | 2026-07-10 | 2026-09-26 |
@@ -1413,6 +1413,7 @@
 | [Sun Re Piya](https://open.spotify.com/track/4F1OgFikCujerIVXgUhY5A) | [Raghav Kaushik](https://open.spotify.com/artist/2NSBUoP14iO3vxm14Slc5H), [Amrita Saluja](https://open.spotify.com/artist/75D3MB2b9sz8RiqLDtvkqU) | [Sun Re Piya](https://open.spotify.com/album/2uh1rvhElikYUKAswxKd8P) | 2:25 | 2026-04-17 | 2026-07-04 |
 | [Sun Zara](https://open.spotify.com/track/6ZzRPCSq03A3F76aWwZW7e) | [Nakul Chugh](https://open.spotify.com/artist/1xYJFWslO6jDXRaIC3Q20V) | [Sun Zara](https://open.spotify.com/album/4t19xw7jTU7PDndlbPHz5F) | 2:30 | 2023-11-24 | 2023-12-16 |
 | [Sunbeam](https://open.spotify.com/track/15MOuM5Jz3KJAmPPWDZI5G) | [ASHWYN](https://open.spotify.com/artist/4pw28rawqJIdrpW9BBcTUd), [Gurl](https://open.spotify.com/artist/6pvE17zpH50Jwgyl8FfeuO) | [Sunbeam](https://open.spotify.com/album/1cl634ubs2v0l1gSPO6gGk) | 2:51 | 2026-01-16 | 2026-04-04 |
+| [sunflowers](https://open.spotify.com/track/0wIKOCO6x38XXJRmcwjTGA) | [Reeshabh Purohit](https://open.spotify.com/artist/0fCayDnRBfH5Skewe8os7E), [Harsh More](https://open.spotify.com/artist/5tJPDbC6WpIoL32f2ckXIJ), [frangipani](https://open.spotify.com/artist/4pgcZYiZ180FhhtLqTDeoV) | [sunflowers](https://open.spotify.com/album/30bGIAebfAfrdPxXZTdr6m) | 3:16 | 2026-11-20 |  |
 | [Sunny](https://open.spotify.com/track/02c8V8Gx8JTbWuktQ3EanF) | [Ankur Tewari](https://open.spotify.com/artist/1ciT67XXpG2HOVsLQjKdv6), [Shrey Gupta](https://open.spotify.com/artist/34yBDo2076Osgm0GmlnzF7), [Hashbass](https://open.spotify.com/artist/0SFvkCtMeB2DSxgIPX6lzO) | [Home Session](https://open.spotify.com/album/3VdOS1TsIJojJH8yKBgu39) | 2:20 | 2025-04-18 | 2025-05-03 |
 | [Suno](https://open.spotify.com/track/0G33qJceMH9qfcfLmKcrni) | [Rishi Kumar](https://open.spotify.com/artist/3F5SVEzUMD5JVZ0K9Q4XZW), [Nakul Chugh](https://open.spotify.com/artist/1xYJFWslO6jDXRaIC3Q20V), [Anshul Mathur](https://open.spotify.com/artist/6DU9rNtAevlHMYBNnkI2LX) | [Suno](https://open.spotify.com/album/2OMcCcamzvnP3828mMgNWq) | 3:01 | 2023-07-14 | 2023-08-19 |
 | [Supposed To Be](https://open.spotify.com/track/796aAkkYSInz43RBF53i39) | [ISHAN](https://open.spotify.com/artist/4bOSK7fslWnqp8M4YQRBzm), [Keshav Tyohar](https://open.spotify.com/artist/4K2l6pikW66DDwViUWSUpS) | [Supposed To Be](https://open.spotify.com/album/3ulhL2KKIBzSDBizHJmJiO) | 3:07 | 2024-12-06 | 2025-03-15 |

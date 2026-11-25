@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO4djCVf.md) - [plain]
 
 > This is Suzan & Freek\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 106,334 likes - 50 songs - 2 hr 37 min
+[Spotify](https://open.spotify.com/user/spotify) - 106,347 likes - 50 songs - 2 hr 37 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -17,11 +17,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO4djCVf.md) - [plain]
 | 7 | [Alleen](https://open.spotify.com/track/1wUDxkCx1zJZLYz71Z5k9g) | [Suzan & Freek](https://open.spotify.com/artist/77IW5ZK1smDQYYKDCQugXh) | [Pijnstiller](https://open.spotify.com/album/5QM6B3t3Efdnq2X3vde6ml) | 2:10 |
 | 8 | [Als Het Avond Is](https://open.spotify.com/track/1MWpdDDf3Yk0w6o4oviMFY) | [Suzan & Freek](https://open.spotify.com/artist/77IW5ZK1smDQYYKDCQugXh) | [Gedeeld Door Ons](https://open.spotify.com/album/5GN0wx6gsqLgDoOSPzv2vJ) | 3:25 |
 | 9 | [Goud](https://open.spotify.com/track/5SaapweQAEx7X1R47ItZ75) | [Suzan & Freek](https://open.spotify.com/artist/77IW5ZK1smDQYYKDCQugXh) | [Dromen In Kleur](https://open.spotify.com/album/2JtjfJrGUOWfmT3AZ65IZF) | 3:22 |
-| 10 | [Ken Je Dat Gevoel](https://open.spotify.com/track/1nzVNvN2bLkN8AMjfTxvTT) | [Suzan & Freek](https://open.spotify.com/artist/77IW5ZK1smDQYYKDCQugXh) | [Ken Je Dat Gevoel](https://open.spotify.com/album/6GW5a2DNFBewhniIe3LD2x) | 2:51 |
+| 10 | [Verleden Tijd](https://open.spotify.com/track/7FR89ZwB3ilNeUMsz1P80O) | [Suzan & Freek](https://open.spotify.com/artist/77IW5ZK1smDQYYKDCQugXh) | [Verleden Tijd](https://open.spotify.com/album/1jhy8byW2VtIarRBzAyoOC) | 2:56 |
 | 11 | [Alles Is Even Goed](https://open.spotify.com/track/0B5p9XLxlDpQf9SQQ41TGd) | [Suzan & Freek](https://open.spotify.com/artist/77IW5ZK1smDQYYKDCQugXh) | [Pijnstiller](https://open.spotify.com/album/5QM6B3t3Efdnq2X3vde6ml) | 2:41 |
 | 12 | [Spiegelbeeld](https://open.spotify.com/track/43nBXdQvogPKHqRQEIqjeM) | [Suzan & Freek](https://open.spotify.com/artist/77IW5ZK1smDQYYKDCQugXh) | [Gedeeld Door Ons](https://open.spotify.com/album/5GN0wx6gsqLgDoOSPzv2vJ) | 2:48 |
 | 13 | [De Overkant](https://open.spotify.com/track/6qoh8fAoY7eVMIIKPKNSWX) | [Suzan & Freek](https://open.spotify.com/artist/77IW5ZK1smDQYYKDCQugXh), [Snelle](https://open.spotify.com/artist/3E31HqA00iCX9nRhesw6LD) | [Dromen In Kleur](https://open.spotify.com/album/2JtjfJrGUOWfmT3AZ65IZF) | 2:47 |
-| 14 | [Verleden Tijd](https://open.spotify.com/track/7FR89ZwB3ilNeUMsz1P80O) | [Suzan & Freek](https://open.spotify.com/artist/77IW5ZK1smDQYYKDCQugXh) | [Verleden Tijd](https://open.spotify.com/album/1jhy8byW2VtIarRBzAyoOC) | 2:56 |
+| 14 | [Ken Je Dat Gevoel](https://open.spotify.com/track/1nzVNvN2bLkN8AMjfTxvTT) | [Suzan & Freek](https://open.spotify.com/artist/77IW5ZK1smDQYYKDCQugXh) | [Ken Je Dat Gevoel](https://open.spotify.com/album/6GW5a2DNFBewhniIe3LD2x) | 2:51 |
 | 15 | [Blauwe Dag](https://open.spotify.com/track/0N1sqwppd1BwhNdjcIDEG2) | [Suzan & Freek](https://open.spotify.com/artist/77IW5ZK1smDQYYKDCQugXh) | [Gedeeld Door Ons](https://open.spotify.com/album/5GN0wx6gsqLgDoOSPzv2vJ) | 3:02 |
 | 16 | [Weg Van Jou](https://open.spotify.com/track/5WvPd0VhOqp3Mmxua6PfCd) | [Suzan & Freek](https://open.spotify.com/artist/77IW5ZK1smDQYYKDCQugXh) | [Dromen In Kleur](https://open.spotify.com/album/2JtjfJrGUOWfmT3AZ65IZF) | 2:26 |
 | 17 | [De Helft Van Mij](https://open.spotify.com/track/1b4EY1iGSNPRIW2fulM8Lj) | [Suzan & Freek](https://open.spotify.com/artist/77IW5ZK1smDQYYKDCQugXh) | [Iemand Van Vroeger](https://open.spotify.com/album/1AiSzH7IpBmv9O9Y6oObXc) | 3:24 |
@@ -40,11 +40,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO4djCVf.md) - [plain]
 | 30 | [Batterij](https://open.spotify.com/track/2MoLobj6hxy9NdH59TImPL) | [Suzan & Freek](https://open.spotify.com/artist/77IW5ZK1smDQYYKDCQugXh) | [Batterij](https://open.spotify.com/album/3iUA629Sgwm5LKaBXfS3bw) | 2:28 |
 | 31 | [Altijd Wel Iemand](https://open.spotify.com/track/1wRIRVwfQS1rE99l0owSjc) | [Suzan & Freek](https://open.spotify.com/artist/77IW5ZK1smDQYYKDCQugXh) | [Glass House Sessions](https://open.spotify.com/album/10d5ZDkdrat8nyLmUvcgYc) | 3:11 |
 | 32 | [Mag Ik Daar Even Stil Bij Staan](https://open.spotify.com/track/3BNKqoRnHFyyfktrNpJgwW) | [Suzan & Freek](https://open.spotify.com/artist/77IW5ZK1smDQYYKDCQugXh) | [Gedeeld Door Ons](https://open.spotify.com/album/5GN0wx6gsqLgDoOSPzv2vJ) | 3:27 |
-| 33 | [Nooit Meer Regen](https://open.spotify.com/track/2XsFaDEaXhsFv2ZBQ2nXn2) | [Suzan & Freek](https://open.spotify.com/artist/77IW5ZK1smDQYYKDCQugXh) | [Iemand Van Vroeger](https://open.spotify.com/album/1AiSzH7IpBmv9O9Y6oObXc) | 3:20 |
+| 33 | [Iemand Van Vroeger](https://open.spotify.com/track/3UQxsixsTnS8vbtQLgAO29) | [Suzan & Freek](https://open.spotify.com/artist/77IW5ZK1smDQYYKDCQugXh) | [Iemand Van Vroeger](https://open.spotify.com/album/1AiSzH7IpBmv9O9Y6oObXc) | 2:56 |
 | 34 | [De Helft Van Wat Je Doet](https://open.spotify.com/track/7f2rMSEF8WLqcbd6tvwlH1) | [Suzan & Freek](https://open.spotify.com/artist/77IW5ZK1smDQYYKDCQugXh) | [Beste Zangers Seizoen 2020 \(Suzan & Freek\)](https://open.spotify.com/album/1WN1OQhwJ4yOjZlVWgUxFo) | 3:23 |
 | 35 | [Liefde Gegeven \- uit Liefde Voor Muziek](https://open.spotify.com/track/2G2Vl8sDYYeXKyvPStUxeI) | [Suzan & Freek](https://open.spotify.com/artist/77IW5ZK1smDQYYKDCQugXh) | [Liefde Voor Muziek 2024](https://open.spotify.com/album/2Z8qdGPSpLwxOm9ekV3jXW) | 3:31 |
 | 36 | [Dit Is Voor Jou \- Uit Liefde Voor Muziek](https://open.spotify.com/track/2X8NkOztikX2ilO0QkeLvl) | [Suzan & Freek](https://open.spotify.com/artist/77IW5ZK1smDQYYKDCQugXh) | [Liefde Voor Muziek 2022](https://open.spotify.com/album/3sj3oTFpGrwbIVxNiUROZX) | 3:33 |
-| 37 | [Iemand Van Vroeger](https://open.spotify.com/track/3UQxsixsTnS8vbtQLgAO29) | [Suzan & Freek](https://open.spotify.com/artist/77IW5ZK1smDQYYKDCQugXh) | [Iemand Van Vroeger](https://open.spotify.com/album/1AiSzH7IpBmv9O9Y6oObXc) | 2:56 |
+| 37 | [Nooit Meer Regen](https://open.spotify.com/track/2XsFaDEaXhsFv2ZBQ2nXn2) | [Suzan & Freek](https://open.spotify.com/artist/77IW5ZK1smDQYYKDCQugXh) | [Iemand Van Vroeger](https://open.spotify.com/album/1AiSzH7IpBmv9O9Y6oObXc) | 3:20 |
 | 38 | ['t Geeft Niet](https://open.spotify.com/track/2kWjR4AwkP46dDV7WuEYEI) | [Suzan & Freek](https://open.spotify.com/artist/77IW5ZK1smDQYYKDCQugXh) | [Beste Zangers Seizoen 2020 \(Suzan & Freek\)](https://open.spotify.com/album/1WN1OQhwJ4yOjZlVWgUxFo) | 3:31 |
 | 39 | [Als Ik Mezelf Verlies \- uit Liefde Voor Muziek](https://open.spotify.com/track/6BVWC6f3rZwBjgtbrsdSC1) | [Suzan & Freek](https://open.spotify.com/artist/77IW5ZK1smDQYYKDCQugXh) | [Liefde Voor Muziek 2024](https://open.spotify.com/album/2Z8qdGPSpLwxOm9ekV3jXW) | 3:19 |
 | 40 | [Genoten \- Uit Liefde Voor Muziek](https://open.spotify.com/track/4Xcb21WNsntJfKAeyPTf3V) | [Suzan & Freek](https://open.spotify.com/artist/77IW5ZK1smDQYYKDCQugXh) | [Liefde Voor Muziek 2022](https://open.spotify.com/album/3sj3oTFpGrwbIVxNiUROZX) | 3:18 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO4djCVf.md) - [plain]
 | 49 | [Voor Het Leven Voor Elkaar \- Uit Liefde Voor Muziek](https://open.spotify.com/track/6iYzHNhKoXZFND7NlbbkE3) | [Suzan & Freek](https://open.spotify.com/artist/77IW5ZK1smDQYYKDCQugXh) | [Liefde Voor Muziek 2022](https://open.spotify.com/album/3sj3oTFpGrwbIVxNiUROZX) | 2:53 |
 | 50 | [Elke Keer \- uit Liefde Voor Muziek](https://open.spotify.com/track/3pi2w1mCahYRU8ZzLmI3Im) | [Suzan & Freek](https://open.spotify.com/artist/77IW5ZK1smDQYYKDCQugXh) | [Liefde Voor Muziek 2024](https://open.spotify.com/album/2Z8qdGPSpLwxOm9ekV3jXW) | 3:11 |
 
-Snapshot ID: `awIwgAAAAABARR3y9MmPpPJOpneNCMAJ`
+Snapshot ID: `awOCAAAAAABSvAcK9QwfSd1hNcUQPOEW`

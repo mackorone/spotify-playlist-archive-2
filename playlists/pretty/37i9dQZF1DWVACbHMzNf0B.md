@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVACbHMzNf0B.md) - [plain]
 
 > somos una fusión que no termina✨💚 Valdo Rodriguez en portada
 
-[Spotify](https://open.spotify.com/user/spotify) - 836,699 likes - 77 songs - 4 hr 14 min
+[Spotify](https://open.spotify.com/user/spotify) - 836,677 likes - 77 songs - 4 hr 14 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -86,4 +86,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVACbHMzNf0B.md) - [plain]
 | 76 | [Pequeñas Cosas](https://open.spotify.com/track/0c93AJEno4uLndaXNbiFiz) | [Carrera](https://open.spotify.com/artist/0RrO8NkNdR5z937K7O78n5), [Grott](https://open.spotify.com/artist/2DBR4mBdMjQJCpaigQOQsk), [valentina](https://open.spotify.com/artist/4HMB26f3qbmkplyfNX5gUj) | [Me Recuerda a Ti](https://open.spotify.com/album/5QMynjptUir4wQ30M4mKzT) | 2:28 |
 | 77 | [BbY WOW \- John Summit Remix](https://open.spotify.com/track/6i0mauyUtfJ6Wb3QLVxKc6) | [KAROL G](https://open.spotify.com/artist/790FomKkXshlbRYZFtlgla), [John Summit](https://open.spotify.com/artist/7kNqXtgeIwFtelmRjWv205), [Judeline](https://open.spotify.com/artist/1H6X7yhnXZg73f9bssaj1Q), [rusowsky](https://open.spotify.com/artist/1XEVu7gdRFfzEFqsPrancH) | [BbY WOW \- John Summit Remix](https://open.spotify.com/album/7cATL7247RiXbe4yL7KdNv) | 3:38 |
 
-Snapshot ID: `AAAAAE00yn394gYjHBP7GlYimcy8HBV7`
+Snapshot ID: `AAAAAO/VvRl+uDLBI8n17k1XbVl7f25d`

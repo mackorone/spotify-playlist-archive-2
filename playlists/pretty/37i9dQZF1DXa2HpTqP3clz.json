@@ -1,12 +1,12 @@
 {
   "description": "Today's Bluegrass and old time favorites. Cover: Tatiana Hargreaves, Laurie Lewis, and Lindsay Lou",
-  "num_followers": 168812,
+  "num_followers": 168810,
   "original_name": "Grass Roots",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAGgZKPqPjQiS4vZIts2AKrP11gzK",
+  "snapshot_id": "AAAAAPM7837jd9Bm/TeSn2rZFm5zj5tf",
   "tracks": [
     {
       "added_at": "2026-08-14 04:01:26",
@@ -167,22 +167,6 @@
     {
       "added_at": "2026-08-14 04:01:26",
       "album": {
-        "name": "Last Chance to Win",
-        "url": "https://open.spotify.com/album/2GI681ZWobL28h0VOCkDlk"
-      },
-      "artists": [
-        {
-          "name": "East Nash Grass",
-          "url": "https://open.spotify.com/artist/4RlN3jngfM6H70icTCCPjl"
-        }
-      ],
-      "duration_ms": 151728,
-      "name": "I Almost Told Her",
-      "url": "https://open.spotify.com/track/7lwlkiQlsIf8cgMi5mAVuG"
-    },
-    {
-      "added_at": "2026-08-14 04:01:26",
-      "album": {
         "name": "Outrun The Rain",
         "url": "https://open.spotify.com/album/71QwOCif4gMjnlZeJLybdP"
       },
@@ -199,6 +183,22 @@
       "duration_ms": 271973,
       "name": "Outrun The Rain",
       "url": "https://open.spotify.com/track/0jkA17RGMSwkfBYa8YjKab"
+    },
+    {
+      "added_at": "2026-08-14 04:01:26",
+      "album": {
+        "name": "Last Chance to Win",
+        "url": "https://open.spotify.com/album/2GI681ZWobL28h0VOCkDlk"
+      },
+      "artists": [
+        {
+          "name": "East Nash Grass",
+          "url": "https://open.spotify.com/artist/4RlN3jngfM6H70icTCCPjl"
+        }
+      ],
+      "duration_ms": 151728,
+      "name": "I Almost Told Her",
+      "url": "https://open.spotify.com/track/7lwlkiQlsIf8cgMi5mAVuG"
     },
     {
       "added_at": "2026-08-14 04:01:26",
@@ -223,22 +223,6 @@
     {
       "added_at": "2026-08-14 04:01:26",
       "album": {
-        "name": "My Little Girl in Tennessee (Live)",
-        "url": "https://open.spotify.com/album/2KCEPrxG000PkTJy4GyUs5"
-      },
-      "artists": [
-        {
-          "name": "Water Tower",
-          "url": "https://open.spotify.com/artist/2Ljo9zBf5ot9mZH6kpCcl0"
-        }
-      ],
-      "duration_ms": 166400,
-      "name": "My Little Girl in Tennessee - Live",
-      "url": "https://open.spotify.com/track/7c9K38G9DDNDduH9G6tWOA"
-    },
-    {
-      "added_at": "2026-08-14 04:01:26",
-      "album": {
         "name": "Leadfoot",
         "url": "https://open.spotify.com/album/29iUN1tgGWZChP7gRFrR35"
       },
@@ -251,6 +235,22 @@
       "duration_ms": 165576,
       "name": "Leadfoot",
       "url": "https://open.spotify.com/track/4xl69nffCsCcw3jNa0f8jj"
+    },
+    {
+      "added_at": "2026-08-14 04:01:26",
+      "album": {
+        "name": "My Little Girl in Tennessee (Live)",
+        "url": "https://open.spotify.com/album/2KCEPrxG000PkTJy4GyUs5"
+      },
+      "artists": [
+        {
+          "name": "Water Tower",
+          "url": "https://open.spotify.com/artist/2Ljo9zBf5ot9mZH6kpCcl0"
+        }
+      ],
+      "duration_ms": 166400,
+      "name": "My Little Girl in Tennessee - Live",
+      "url": "https://open.spotify.com/track/7c9K38G9DDNDduH9G6tWOA"
     },
     {
       "added_at": "2026-08-14 04:01:26",
@@ -451,22 +451,6 @@
     {
       "added_at": "2026-08-14 04:01:26",
       "album": {
-        "name": "North of Despair",
-        "url": "https://open.spotify.com/album/2xxpKXejWa3mgMsSldOAtY"
-      },
-      "artists": [
-        {
-          "name": "Wood & Wire",
-          "url": "https://open.spotify.com/artist/1OWDk6qANVAXtcAPIhJZEX"
-        }
-      ],
-      "duration_ms": 194320,
-      "name": "Eliza",
-      "url": "https://open.spotify.com/track/5lprg6IeVY9TNsK5WqjWcV"
-    },
-    {
-      "added_at": "2026-08-14 04:01:26",
-      "album": {
         "name": "Fall Like Rain",
         "url": "https://open.spotify.com/album/6j7KG1Gm2lK1EC3ppwcLcY"
       },
@@ -479,6 +463,22 @@
       "duration_ms": 262640,
       "name": "Fall Like Rain",
       "url": "https://open.spotify.com/track/3CbfrDVrNsfQ04RhDjHKvX"
+    },
+    {
+      "added_at": "2026-08-14 04:01:26",
+      "album": {
+        "name": "North of Despair",
+        "url": "https://open.spotify.com/album/2xxpKXejWa3mgMsSldOAtY"
+      },
+      "artists": [
+        {
+          "name": "Wood & Wire",
+          "url": "https://open.spotify.com/artist/1OWDk6qANVAXtcAPIhJZEX"
+        }
+      ],
+      "duration_ms": 194320,
+      "name": "Eliza",
+      "url": "https://open.spotify.com/track/5lprg6IeVY9TNsK5WqjWcV"
     },
     {
       "added_at": "2026-08-14 04:01:26",
@@ -1079,22 +1079,6 @@
     {
       "added_at": "2026-08-14 04:01:26",
       "album": {
-        "name": "Hillside",
-        "url": "https://open.spotify.com/album/5R0g1YKXUSmAFeJItSrFw9"
-      },
-      "artists": [
-        {
-          "name": "AJ Lee & Blue Summit",
-          "url": "https://open.spotify.com/artist/1VwMKPdHxC7tI21tynmXEr"
-        }
-      ],
-      "duration_ms": 190764,
-      "name": "Hillside",
-      "url": "https://open.spotify.com/track/2PwYgS3wfBVsHAAfhAiAOx"
-    },
-    {
-      "added_at": "2026-08-14 04:01:26",
-      "album": {
         "name": "I'll Blame It on the Rain",
         "url": "https://open.spotify.com/album/5KyempI06dBOFAtLqgxWUo"
       },
@@ -1107,6 +1091,22 @@
       "duration_ms": 223586,
       "name": "I'll Blame It on the Rain",
       "url": "https://open.spotify.com/track/3RGxcycEc2SxZ15PqjIeUc"
+    },
+    {
+      "added_at": "2026-08-14 04:01:26",
+      "album": {
+        "name": "Hillside",
+        "url": "https://open.spotify.com/album/5R0g1YKXUSmAFeJItSrFw9"
+      },
+      "artists": [
+        {
+          "name": "AJ Lee & Blue Summit",
+          "url": "https://open.spotify.com/artist/1VwMKPdHxC7tI21tynmXEr"
+        }
+      ],
+      "duration_ms": 190764,
+      "name": "Hillside",
+      "url": "https://open.spotify.com/track/2PwYgS3wfBVsHAAfhAiAOx"
     },
     {
       "added_at": "2026-08-14 04:01:26",

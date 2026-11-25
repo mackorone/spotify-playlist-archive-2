@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSFDWzEZlALC.md) - [plain]
 
 > Indie, Pop und Rap mit deutschen Texten\. Cover: Zartmann
 
-[Spotify](https://open.spotify.com/user/spotify) - 459,444 likes - 75 songs - 3 hr 27 min
+[Spotify](https://open.spotify.com/user/spotify) - 459,416 likes - 75 songs - 3 hr 27 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSFDWzEZlALC.md) - [plain]
 | 74 | [ALLES WAS ICH HASS](https://open.spotify.com/track/6J7Q0gOTdEtH5AJHZOrJ7P) | [mathi](https://open.spotify.com/artist/2WdZDDcWNpEKsQjSetoZE4) | [Die kleinste Stadt](https://open.spotify.com/album/07OJjbzHj4Cd4xF3IQB67H) | 2:32 |
 | 75 | [Stille](https://open.spotify.com/track/5ZeMthVlLr3CFHYOUfv5U5) | [FREDRIK](https://open.spotify.com/artist/4q6dFbIncP8SWxdy18XhPT) | [Stille EP](https://open.spotify.com/album/5YzhHMU4eQyu1aovE6Bj0S) | 2:59 |
 
-Snapshot ID: `AAAAAPpq/aNfSIchSTH+1tt+cZcZV3NW`
+Snapshot ID: `AAAAAJcMeUds8YWYXMEpQJpcG9b4VDbp`

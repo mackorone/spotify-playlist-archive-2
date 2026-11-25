@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3sCx6B9EAOr.md) - [plain]
 
 > 시원한 국내음악들과 드라이빙을 즐겨보세요! \(Tap your feet to the K\-Pop beats on your way through the driving moments.\)
 
-[Spotify](https://open.spotify.com/user/spotify) - 119,431 likes - 150 songs - 7 hr 18 min
+[Spotify](https://open.spotify.com/user/spotify) - 119,427 likes - 150 songs - 7 hr 18 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -91,8 +91,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3sCx6B9EAOr.md) - [plain]
 | 81 | [YEAH! YEAH!](https://open.spotify.com/track/7vmq3Ukd8csLDpCvoOM9Do) | [Jay Park](https://open.spotify.com/artist/4XDi67ZENZcbfKnvMnTYsI), [LNGSHOT](https://open.spotify.com/artist/2F4oTJOWkcD1JaTeKEa9h6) | [4SHOBOIZ Vol\. 2: 4SHOVILLE](https://open.spotify.com/album/2PmrRGuWioIjWlJGvftkRl) | 3:04 |
 | 82 | [Earth, Wind & Fire](https://open.spotify.com/track/0Tq7v8YAmwdnAYBwyR1pZ4) | [BOYNEXTDOOR](https://open.spotify.com/artist/4hnHLgMSOiqERWBL4jINP1) | [HOW?](https://open.spotify.com/album/2p5IDUbayBHcmcgSNIQx6V) | 2:59 |
 | 83 | [Who is she](https://open.spotify.com/track/16iOs2f9G9qRknDgM9cfAw) | [KISS OF LIFE](https://open.spotify.com/artist/4TEK9tIkcoxib4GxT3O4ky) | [Who is she](https://open.spotify.com/album/3oKZB7YNsYSvmI4YQjhtdS) | 2:39 |
-| 84 | [Supersonic](https://open.spotify.com/track/6oNLSQX8bcAdbCElZYju3v) | [fromis\_9](https://open.spotify.com/artist/24nUVBIlCGi4twz4nYxJum) | [Supersonic](https://open.spotify.com/album/1sxOavrEVy7krHpcbCsiJi) | 2:54 |
-| 85 | [XOXZ](https://open.spotify.com/track/3L9KMc8ImDXgDYKwdqq01V) | [IVE](https://open.spotify.com/artist/6RHTUrRF63xao58xh9FXYJ) | [IVE SECRET](https://open.spotify.com/album/0gEu9SrHjLrpTemne6OO1L) | 2:34 |
+| 84 | [XOXZ](https://open.spotify.com/track/3L9KMc8ImDXgDYKwdqq01V) | [IVE](https://open.spotify.com/artist/6RHTUrRF63xao58xh9FXYJ) | [IVE SECRET](https://open.spotify.com/album/0gEu9SrHjLrpTemne6OO1L) | 2:34 |
+| 85 | [Supersonic](https://open.spotify.com/track/6oNLSQX8bcAdbCElZYju3v) | [fromis\_9](https://open.spotify.com/artist/24nUVBIlCGi4twz4nYxJum) | [Supersonic](https://open.spotify.com/album/1sxOavrEVy7krHpcbCsiJi) | 2:54 |
 | 86 | [WDA \(Whole Different Animal\) \(feat\. G\-DRAGON\)](https://open.spotify.com/track/59QIYdXAL9XeNtM0j8vN0k) | [aespa](https://open.spotify.com/artist/6YVMFz59CuY7ngCxTxjpxE), [G\-DRAGON](https://open.spotify.com/artist/30b9WulBM8sFuBo17nNq9c) | [WDA \(Whole Different Animal\) \(feat\. G\-DRAGON\)](https://open.spotify.com/album/4AbQDUPzGwI0QKqdZsLdNL) | 2:54 |
 | 87 | [HOME SWEET HOME \(feat\. TAEYANG & DAESUNG\)](https://open.spotify.com/track/0Cu8JdYvV9DdmzLzhxaZLH) | [G\-DRAGON](https://open.spotify.com/artist/30b9WulBM8sFuBo17nNq9c), [TAEYANG](https://open.spotify.com/artist/6udveWUgX4vu75FF0DTrXV), [DAESUNG](https://open.spotify.com/artist/1OQxmfKN9UG5C7nr4MkasO) | [HOME SWEET HOME \(feat\. TAEYANG & DAESUNG\)](https://open.spotify.com/album/5fo3PoBblMOTbg7SXPNspq) | 3:31 |
 | 88 | [body](https://open.spotify.com/track/4LJJxB4a47mreJAfKwbGEM) | [DAYOUNG](https://open.spotify.com/artist/5SQHuBLqaasC50vOL9s8Mz) | [gonna love me, right?](https://open.spotify.com/album/0OvHcZkbrNQbPHKi5JzyWb) | 2:48 |
@@ -132,15 +132,15 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3sCx6B9EAOr.md) - [plain]
 | 122 | [Baby Flower](https://open.spotify.com/track/1ET5lou3teBMA3a5cYeYzN) | [tripleS](https://open.spotify.com/artist/5Z71xE9prhpHrqL5thVMyK) | [<LOVE&POP> pt.1](https://open.spotify.com/album/35aVpvg3oTNbG8N3cL7B1Z) | 3:08 |
 | 123 | [Candy Pink Magic Hole Flip Phone](https://open.spotify.com/track/5ImBkrqjl1xCxJK7yNDOsq) | [KiiiKiii](https://open.spotify.com/artist/63sat2XSMKdwKfqspmYQKP) | [WhyKiiiKiii](https://open.spotify.com/album/5k18hWGQBeS8a0CchCJrf6) | 2:46 |
 | 124 | [One \- Spotify Singles](https://open.spotify.com/track/6xOoHI8ap5SFkDiBLb3ucf) | [DxS](https://open.spotify.com/artist/4wBjmEkWhY4T22q00CiF5V) | [One \- Spotify Singles](https://open.spotify.com/album/7LdNmWfbwzpVSbsjzK0wWj) | 2:45 |
-| 125 | [Biggest Fan](https://open.spotify.com/track/63razyPQswXocUXL3cGJgo) | [IRENE](https://open.spotify.com/artist/1FCug8HMxqearaZB5qwWQj) | [Biggest Fan \- The 1st Album](https://open.spotify.com/album/70xgPAZMSZ7THUEw3xv0I9) | 2:48 |
-| 126 | [No Tears On The Dancefloor](https://open.spotify.com/track/1LN9XD8fstMDvgI8RM4lpx) | [LEE CHAEYEON](https://open.spotify.com/artist/2nkZR6LwPxaAVtaVitNIPT) | [Till I Die](https://open.spotify.com/album/1NME7mvfv1WMEGJGcSF9bs) | 2:30 |
+| 125 | [No Tears On The Dancefloor](https://open.spotify.com/track/1LN9XD8fstMDvgI8RM4lpx) | [LEE CHAEYEON](https://open.spotify.com/artist/2nkZR6LwPxaAVtaVitNIPT) | [Till I Die](https://open.spotify.com/album/1NME7mvfv1WMEGJGcSF9bs) | 2:30 |
+| 126 | [Biggest Fan](https://open.spotify.com/track/63razyPQswXocUXL3cGJgo) | [IRENE](https://open.spotify.com/artist/1FCug8HMxqearaZB5qwWQj) | [Biggest Fan \- The 1st Album](https://open.spotify.com/album/70xgPAZMSZ7THUEw3xv0I9) | 2:48 |
 | 127 | [In a Loop](https://open.spotify.com/track/7lBkZa2B6poAKTI1yGdREd) | [RIIZE](https://open.spotify.com/artist/2jOm3cYujQx6o1dxuiuqaX) | [II \- The 2nd Mini Album](https://open.spotify.com/album/31DduRZUEYnZHXmiDwRb9R) | 2:53 |
 | 128 | [I AM](https://open.spotify.com/track/7KavHYqoVFNB3IUXfs5gvP) | [IVE](https://open.spotify.com/artist/6RHTUrRF63xao58xh9FXYJ) | [I've IVE](https://open.spotify.com/album/0HDHNz6LfL46dbl9pG51g4) | 3:03 |
 | 129 | [SNAPBACK](https://open.spotify.com/track/3CVdqafJ9WtmiCGkR2d9rJ) | [HOSHI](https://open.spotify.com/artist/6nWKAdMv1BDq1zHfZzkdbR) | [SNAPBACK](https://open.spotify.com/album/25CmZCmdlDSKjQ1CyBuysZ) | 2:33 |
-| 130 | [Distant Lover](https://open.spotify.com/track/5GXyaAB474gIHxHtGdqsSF) | [JIHYO](https://open.spotify.com/artist/7F1iAHRYxR3MY7yAEuFqgL), [Shenseea](https://open.spotify.com/artist/1OFOShsIbhy1l5x73yuVyB), [FANDOM](https://open.spotify.com/artist/2A854MGtNE2Gi7Tp9BMQuv) | [Distant Lover](https://open.spotify.com/album/6Om1TG7eAZKFe0y2EWCTNi) | 3:37 |
-| 131 | [WICKED](https://open.spotify.com/track/6zRZyfYNsvgl1y6H5mkR1x) | [ALLDAY PROJECT](https://open.spotify.com/artist/4gEMn0YPOdotLOygnk0Ng2) | [FAMOUS](https://open.spotify.com/album/7qt0DzSQqJOPliOA7Wkb5x) | 2:37 |
-| 132 | [DEAD MAN WALKING](https://open.spotify.com/track/523i3lvg9ih2bgsMZZCLSX) | [ALL\(H\)OURS](https://open.spotify.com/artist/2m5lRlEucobWPA1V6xqxWO) | [NO DOUBT](https://open.spotify.com/album/3Fn1iVu9HzAzX1akVqxRLG) | 2:31 |
-| 133 | [DANCING ALONE](https://open.spotify.com/track/6vN4qMlor4D2U7a7BzSQI5) | [KiiiKiii](https://open.spotify.com/artist/63sat2XSMKdwKfqspmYQKP) | [DANCING ALONE](https://open.spotify.com/album/1Ql33tND0vujOBXqvVtzau) | 3:18 |
+| 130 | [WICKED](https://open.spotify.com/track/6zRZyfYNsvgl1y6H5mkR1x) | [ALLDAY PROJECT](https://open.spotify.com/artist/4gEMn0YPOdotLOygnk0Ng2) | [FAMOUS](https://open.spotify.com/album/7qt0DzSQqJOPliOA7Wkb5x) | 2:37 |
+| 131 | [Distant Lover](https://open.spotify.com/track/5GXyaAB474gIHxHtGdqsSF) | [JIHYO](https://open.spotify.com/artist/7F1iAHRYxR3MY7yAEuFqgL), [Shenseea](https://open.spotify.com/artist/1OFOShsIbhy1l5x73yuVyB), [FANDOM](https://open.spotify.com/artist/2A854MGtNE2Gi7Tp9BMQuv) | [Distant Lover](https://open.spotify.com/album/6Om1TG7eAZKFe0y2EWCTNi) | 3:37 |
+| 132 | [DANCING ALONE](https://open.spotify.com/track/6vN4qMlor4D2U7a7BzSQI5) | [KiiiKiii](https://open.spotify.com/artist/63sat2XSMKdwKfqspmYQKP) | [DANCING ALONE](https://open.spotify.com/album/1Ql33tND0vujOBXqvVtzau) | 3:18 |
+| 133 | [DEAD MAN WALKING](https://open.spotify.com/track/523i3lvg9ih2bgsMZZCLSX) | [ALL\(H\)OURS](https://open.spotify.com/artist/2m5lRlEucobWPA1V6xqxWO) | [NO DOUBT](https://open.spotify.com/album/3Fn1iVu9HzAzX1akVqxRLG) | 2:31 |
 | 134 | [RUN IT](https://open.spotify.com/track/0ZYs2sRaCVomWCYP2PGH1j) | [Stray Kids](https://open.spotify.com/artist/2dIgFjalVxs4ThymZ67YCE) | [RUN IT](https://open.spotify.com/album/2l6lf2MpFkDGE7XmNMAO8O) | 3:29 |
 | 135 | [Like a Bubble](https://open.spotify.com/track/68TWWOecaIglvAtHOOFMwn) | [FIFTY FIFTY](https://open.spotify.com/artist/4GJ6xDCF5jaUqD6avOuQT6) | [Imperfect\-I'mperfect](https://open.spotify.com/album/5swL0neEWqHIorlT8qTk2p) | 3:08 |
 | 136 | [BLACKHOLE](https://open.spotify.com/track/0MtiWniV24IBXmBPeW1v1m) | [IVE](https://open.spotify.com/artist/6RHTUrRF63xao58xh9FXYJ) | [REVIVE+](https://open.spotify.com/album/28fYAUhRzVQM5nu4EmlDvo) | 3:14 |
@@ -151,12 +151,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3sCx6B9EAOr.md) - [plain]
 | 141 | [GO](https://open.spotify.com/track/0XanaXeMJJ4VdjWzwok7ZI) | [BLACKPINK](https://open.spotify.com/artist/41MozSoPIsD1dJM0CLPjZF) | [DEADLINE](https://open.spotify.com/album/5EDiZm2nDfN10Uyr5XvQu8) | 3:15 |
 | 142 | [THIS IS FOR](https://open.spotify.com/track/3fwjo4HYqaQcvdJP3d4twX) | [TWICE](https://open.spotify.com/artist/7n2Ycct7Beij7Dj7meI4X0) | [THIS IS FOR](https://open.spotify.com/album/751yK5uyUr7PGOgNAVkobh) | 2:11 |
 | 143 | [Butterfly Doors](https://open.spotify.com/track/2M9u2uI82pX00qZmHvtIU4) | [AtHeart](https://open.spotify.com/artist/0ON7aUm308hzonzZGpZUvB) | [Butterfly Doors](https://open.spotify.com/album/4vqSjxtAaGRBykrdDzxc4o) | 2:51 |
-| 144 | [To\. My First Love](https://open.spotify.com/track/10nSl4tuKAfdHiSPppxrNY) | [H1\-KEY](https://open.spotify.com/artist/5GwQwY63I9hrUUFlQB8FYU) | [LOVECHAPTER](https://open.spotify.com/album/4taRaj6jpJSs4cp5KFbPJZ) | 3:30 |
-| 145 | [KEYVITUP](https://open.spotify.com/track/5BKwXFDUy903O85ATXdu5e) | [KEYVITUP](https://open.spotify.com/artist/5t5DHjgbcPnJGZJyz3YCnv) | [1ST EP ALBUM \[KEYVITUP\]](https://open.spotify.com/album/4LP65OY24zeyZRNd4GxhCH) | 2:38 |
+| 144 | [KEYVITUP](https://open.spotify.com/track/5BKwXFDUy903O85ATXdu5e) | [KEYVITUP](https://open.spotify.com/artist/5t5DHjgbcPnJGZJyz3YCnv) | [1ST EP ALBUM \[KEYVITUP\]](https://open.spotify.com/album/4LP65OY24zeyZRNd4GxhCH) | 2:38 |
+| 145 | [To\. My First Love](https://open.spotify.com/track/10nSl4tuKAfdHiSPppxrNY) | [H1\-KEY](https://open.spotify.com/artist/5GwQwY63I9hrUUFlQB8FYU) | [LOVECHAPTER](https://open.spotify.com/album/4taRaj6jpJSs4cp5KFbPJZ) | 3:30 |
 | 146 | [CODE](https://open.spotify.com/track/00bnKgDRZxvwpnWDJg7Por) | [EVERGLOW](https://open.spotify.com/artist/3ZZzT0naD25RhY2uZvIKkJ) | [CODE](https://open.spotify.com/album/6ppaIu8fzPJZZjdLPKKSTt) | 2:35 |
 | 147 | [I DON'T BARGAIN](https://open.spotify.com/track/0auFYte8i9KPYvcsOUFk9Y) | [ALLDAY PROJECT](https://open.spotify.com/artist/4gEMn0YPOdotLOygnk0Ng2) | [I DON'T BARGAIN](https://open.spotify.com/album/4WUHzPCu7BEuTxnjICJqpy) | 2:50 |
 | 148 | [Love Me Like This](https://open.spotify.com/track/2W8UduoifU1zgjKZlfY79S) | [NMIXX](https://open.spotify.com/artist/28ot3wh4oNmoFOdVajibBl) | [expérgo](https://open.spotify.com/album/2mKUepexXVL69G8bBK9ECB) | 3:08 |
 | 149 | [눈에 거슬리고 싶어 \(Eye\-Poppin'\)](https://open.spotify.com/track/5H5PDoPXLphAySmzKtpnbC) | [KickFlip](https://open.spotify.com/artist/6F4yXjmhQBqo6HVr6K234k) | [My First Kick](https://open.spotify.com/album/6w4EhlJd0BAXvE24KuaE8j) | 2:42 |
 | 150 | [Motto](https://open.spotify.com/track/3jVTmARXF5p21gaP9CqITM) | [ITZY](https://open.spotify.com/artist/2KC9Qb60EaY0kW4eH68vr3) | [Motto](https://open.spotify.com/album/2I5aOoyW9gzkOrWOuElNdj) | 3:13 |
 
-Snapshot ID: `AAAAAIc1BWg0i7zD6YH5nBot7aOa5cBG`
+Snapshot ID: `AAAAALYCVcCNwKuEEg4UMcowYC2Hmfmy`

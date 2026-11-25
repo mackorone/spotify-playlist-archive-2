@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6yQB7bkflag.md) - [plain]
 
 > Lagu\-lagu teranyar yang akan menjadi favoritmu selanjutnya\. Cover: Beabadoobee
 
-[Spotify](https://open.spotify.com/user/spotify) - 114,404 likes - 100 songs - 5 hr 36 min
+[Spotify](https://open.spotify.com/user/spotify) - 114,392 likes - 100 songs - 5 hr 36 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6yQB7bkflag.md) - [plain]
 | 99 | [breaks open](https://open.spotify.com/track/4W71gGoFVlggStxF27m3nU) | [Dove Cameron](https://open.spotify.com/artist/2W8yFh0Ga6Yf3jiayVxwkE) | [FINAL GIRL](https://open.spotify.com/album/4E6SlpgWPyvKmwYF9sM6x6) | 3:45 |
 | 100 | [Champagne](https://open.spotify.com/track/0Rxs96nQeboThWCNzP4H0c) | [Remi Wolf](https://open.spotify.com/artist/0NB5HROxc8dDBXpkIi1v3d) | [Mud](https://open.spotify.com/album/19cvoEE5d3pMkxLFL5TsAG) | 3:30 |
 
-Snapshot ID: `AAAAABsrEvMTb7+29IuJinRI4qejD88z`
+Snapshot ID: `AAAAADy5pnZm7lz9eE22j4ExxD/i3h/N`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXBG5kM768S1.md) - [plain]
 
 > Fantastiske viser fra noen av våre aller beste artister.
 
-[Spotify](https://open.spotify.com/user/spotify) - 81,864 likes - 50 songs - 3 hr 7 min
+[Spotify](https://open.spotify.com/user/spotify) - 81,871 likes - 50 songs - 3 hr 7 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -46,11 +46,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXBG5kM768S1.md) - [plain]
 | 36 | [Mysteriet deg](https://open.spotify.com/track/4Mwc191AVTn2cnlgTJYVrq) | [Bjørn Eidsvåg](https://open.spotify.com/artist/11Vny8qHe4KR50ZIjhz7sz), [Lisa Nilsson](https://open.spotify.com/artist/68QvqbdqwqqjW39YpUJHdG) | [De Beste](https://open.spotify.com/album/5Fad9LPUjww4yGt13jITUe) | 3:59 |
 | 37 | [Aldri i livet](https://open.spotify.com/track/7gadRhiN4RURlW5wmPyJ0F) | [No\. 4](https://open.spotify.com/artist/24YjyPpqFQi1Oh7PQSBT3J) | [Aldri i livet](https://open.spotify.com/album/4PWBw7XicuhaR6f6D5T36r) | 3:08 |
 | 38 | [Togsang](https://open.spotify.com/track/5qSJ6zAlnBXmIQc8vBE72R) | [Moddi](https://open.spotify.com/artist/65ltPnFGbTfv1sFjVOZBMM) | [Kæm va du?](https://open.spotify.com/album/1AQXVLdZSRPpt1HviBevmZ) | 2:59 |
-| 39 | [Evig kvile](https://open.spotify.com/track/10mUGsqnNGEUf1pt4ke1pB) | [Ingebjørg Bratland](https://open.spotify.com/artist/2tmt0z174LRgAeAi9MHA9C), [Hver gang vi møtes](https://open.spotify.com/artist/24Lqq3mnesl7IljSVFEBEO) | [Evig kvile](https://open.spotify.com/album/3FXRGtIbIadCBWasFSyOaq) | 3:09 |
-| 40 | [Alt det som skinner](https://open.spotify.com/track/0HYvxo4SmIg7pS6TDoODUD) | [Anne Grete Preus](https://open.spotify.com/artist/32mTrXKr7W8Tg4hH4S2Do1) | [Alt det som skinner](https://open.spotify.com/album/2R6Dqa6ORZaDkBXeD9SMbr) | 4:10 |
+| 39 | [Alt det som skinner](https://open.spotify.com/track/0HYvxo4SmIg7pS6TDoODUD) | [Anne Grete Preus](https://open.spotify.com/artist/32mTrXKr7W8Tg4hH4S2Do1) | [Alt det som skinner](https://open.spotify.com/album/2R6Dqa6ORZaDkBXeD9SMbr) | 4:10 |
+| 40 | [Evig kvile](https://open.spotify.com/track/10mUGsqnNGEUf1pt4ke1pB) | [Ingebjørg Bratland](https://open.spotify.com/artist/2tmt0z174LRgAeAi9MHA9C), [Hver gang vi møtes](https://open.spotify.com/artist/24Lqq3mnesl7IljSVFEBEO) | [Evig kvile](https://open.spotify.com/album/3FXRGtIbIadCBWasFSyOaq) | 3:09 |
 | 41 | [Ramler mot hverandre](https://open.spotify.com/track/3MuVUbTl1RrzIKnEl0tYIW) | [Trygve Skaug](https://open.spotify.com/artist/1Vd2c4IrEtcO5mrIwbep6n) | [Ramler mot hverandre](https://open.spotify.com/album/2ZtsLOse1UpbB5CZZRMN5b) | 3:34 |
-| 42 | [På besøk](https://open.spotify.com/track/0uoq8SgOPFuT6uq5WtlXFi) | [Eva Weel Skram](https://open.spotify.com/artist/3u2Sz4K3PFfalhDU0vSHT3) | [Vendepunkt](https://open.spotify.com/album/3eU4aCZuPIq8hL2dSoibWI) | 3:17 |
-| 43 | [Varherres Klinkekuler](https://open.spotify.com/track/5jbz1Pwz06o9fPMYFrmTOP) | [Erik Bye](https://open.spotify.com/artist/1qqBCY3Scz9Ea1mjkCDgaZ) | [Hildringstimer \- 14 velvalgte viser](https://open.spotify.com/album/3STZjoiXVRs4EnnkrBiZ1x) | 3:07 |
+| 42 | [Varherres Klinkekuler](https://open.spotify.com/track/5jbz1Pwz06o9fPMYFrmTOP) | [Erik Bye](https://open.spotify.com/artist/1qqBCY3Scz9Ea1mjkCDgaZ) | [Hildringstimer \- 14 velvalgte viser](https://open.spotify.com/album/3STZjoiXVRs4EnnkrBiZ1x) | 3:07 |
+| 43 | [På besøk](https://open.spotify.com/track/0uoq8SgOPFuT6uq5WtlXFi) | [Eva Weel Skram](https://open.spotify.com/artist/3u2Sz4K3PFfalhDU0vSHT3) | [Vendepunkt](https://open.spotify.com/album/3eU4aCZuPIq8hL2dSoibWI) | 3:17 |
 | 44 | [Lilla vackra Anna](https://open.spotify.com/track/6fAsL3cjB7fMGrMlXwYFIg) | [Finn Kalvik](https://open.spotify.com/artist/4t5H7BynY6Et5nbYwjU3an) | [Kom ut kom fram](https://open.spotify.com/album/211PaS9J8AAPWXCVkyIVkF) | 3:46 |
 | 45 | [Badebussen](https://open.spotify.com/track/1Ajp5nOYezdcpx3e8CfzMl) | [Stein Torleif Bjella](https://open.spotify.com/artist/5S2AgI8b86lQyL14ykyYYm), [Hver gang vi møtes](https://open.spotify.com/artist/24Lqq3mnesl7IljSVFEBEO) | [Badebussen](https://open.spotify.com/album/3EmJ7JUoTy85Ah0ITqQ7UX) | 2:58 |
 | 46 | [Til alle tider](https://open.spotify.com/track/6kr1xwYYaIH7ZQa3uBE921) | [Maria Mena](https://open.spotify.com/artist/3rTRHzFfbTk5GL3LpYZGHR) | [Bauta \- En hyllest til Bjørn Eidsvåg](https://open.spotify.com/album/1cj2bGhHCxMdx3wNr9u5OF) | 3:33 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXBG5kM768S1.md) - [plain]
 | 49 | [Heimlandsong](https://open.spotify.com/track/5hymGjLtHryPaJsy7RcgBJ) | [Ingebjørg Bratland](https://open.spotify.com/artist/2tmt0z174LRgAeAi9MHA9C), [Odd Nordstoga](https://open.spotify.com/artist/64zdCzD7lOFBTIpQBSH8Uv) | [Heimlandsong](https://open.spotify.com/album/5lk6moS6CZPICHbU1xRJ5m) | 4:46 |
 | 50 | [Club 7](https://open.spotify.com/track/6BfEYWOivGxDbxf4vM5SUu) | [Eva Weel Skram](https://open.spotify.com/artist/3u2Sz4K3PFfalhDU0vSHT3) | [Club 7](https://open.spotify.com/album/5HsxpRklriIeoEDbEH7KEw) | 4:20 |
 
-Snapshot ID: `AAAAAIZE7bvLe6ehGpHKyCMzu7j6yEBd`
+Snapshot ID: `AAAAAF1R5ABUkbZ6JlPY0IHY8s8LPqYc`

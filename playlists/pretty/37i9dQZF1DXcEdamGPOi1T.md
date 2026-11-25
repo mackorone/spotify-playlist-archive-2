@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcEdamGPOi1T.md) - [plain]
 
 > De la vitamine D en musique!
 
-[Spotify](https://open.spotify.com/user/spotify) - 20,853 likes - 100 songs - 5 hr 10 min
+[Spotify](https://open.spotify.com/user/spotify) - 20,854 likes - 100 songs - 5 hr 10 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -35,8 +35,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcEdamGPOi1T.md) - [plain]
 | 25 | [Midnight Sun](https://open.spotify.com/track/37UCSVSqiPGdR1DijOFyYY) | [Zara Larsson](https://open.spotify.com/artist/1Xylc3o4UrD53lo9CvFvVg) | [Midnight Sun](https://open.spotify.com/album/014U2yqVgeCNqykPGzgyki) | 3:09 |
 | 26 | [A Bar Song \(Tipsy\)](https://open.spotify.com/track/2FQrifJ1N335Ljm3TjTVVf) | [Shaboozey](https://open.spotify.com/artist/3y2cIKLjiOlp1Np37WiUdH) | [A Bar Song \(Tipsy\)](https://open.spotify.com/album/6egBeCLeGITzGSo5VyRjwZ) | 2:51 |
 | 27 | [Waves \- Robin Schulz Radio Edit](https://open.spotify.com/track/1HFfMOxCAT4GAwaPfCdmUs) | [Mr\. Probz](https://open.spotify.com/artist/33W1pnW9zScZtYTnAoWnOT), [Robin Schulz](https://open.spotify.com/artist/3t5xRXzsuZmMDkQzgOX35S) | [Waves \(Robin Schulz Radio Edit\)](https://open.spotify.com/album/29RpLEpfNr1mnrnmtbO620) | 3:28 |
-| 28 | [Busy Woman](https://open.spotify.com/track/0b0Dz0Gi86SVdBxYeiQcCP) | [Sabrina Carpenter](https://open.spotify.com/artist/74KM79TiuVKeVCqs8QtB0B) | [Short n' Sweet \(Deluxe\)](https://open.spotify.com/album/3WzBIQmn2hrulLeTY9smkk) | 3:06 |
-| 29 | [DANCE...](https://open.spotify.com/track/6Xp2Zm2sJLdODReZWBBifO) | [Slayyyter](https://open.spotify.com/artist/4QM5QCHicznALtX885CnZC) | [WOR$T GIRL IN AMERICA](https://open.spotify.com/album/5siV9C6eK0NpAqER2FfCVA) | 4:47 |
+| 28 | [DANCE...](https://open.spotify.com/track/6Xp2Zm2sJLdODReZWBBifO) | [Slayyyter](https://open.spotify.com/artist/4QM5QCHicznALtX885CnZC) | [WOR$T GIRL IN AMERICA](https://open.spotify.com/album/5siV9C6eK0NpAqER2FfCVA) | 4:47 |
+| 29 | [Busy Woman](https://open.spotify.com/track/0b0Dz0Gi86SVdBxYeiQcCP) | [Sabrina Carpenter](https://open.spotify.com/artist/74KM79TiuVKeVCqs8QtB0B) | [Short n' Sweet \(Deluxe\)](https://open.spotify.com/album/3WzBIQmn2hrulLeTY9smkk) | 3:06 |
 | 30 | [Avec classe \(feat\. Aya Nakamura & Trinix\)](https://open.spotify.com/track/2RqZ8JUBXP4C0nzttGnTL1) | [Corneille](https://open.spotify.com/artist/2GBDOaCl73BVUs2RerIme7), [Aya Nakamura](https://open.spotify.com/artist/7IlRNXHjoOCgEAWN5qYksg), [Trinix](https://open.spotify.com/artist/3HqP3nd8WI0VfHRhApPlan) | [Avec classe \(feat\. Aya Nakamura & Trinix\)](https://open.spotify.com/album/2PeOwsFqU4M5IabYcuMnAL) | 3:06 |
 | 31 | [C'EST CHAUD \(+HOT\)](https://open.spotify.com/track/2BDg5rVMGIuaiHKt1PVeI0) | [Mitsou](https://open.spotify.com/artist/2uaGBnwCVIftDwC3dcbS80), [Ya Cetidon](https://open.spotify.com/artist/2CRqfNWZYEQ7KuWr9XewAj) | [C'EST CHAUD \(+HOT\)](https://open.spotify.com/album/6tRBX3djX7xkVUBiBhabRs) | 2:53 |
 | 32 | [New Religion](https://open.spotify.com/track/2Lb9ww5vZAnveWnrFQfAKR) | [Bebe Rexha](https://open.spotify.com/artist/64M6ah0SkkRsnPGtGiRAbb), [Faithless](https://open.spotify.com/artist/5T4UKHhr4HGIC0VzdZQtAE) | [New Religion](https://open.spotify.com/album/20tsEm7Eiww4EqHRYzWdyH) | 2:54 |
@@ -92,10 +92,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcEdamGPOi1T.md) - [plain]
 | 82 | [Cool for the Summer](https://open.spotify.com/track/4YieJ8UoB4t4w8Ua0N3nGv) | [Demi Lovato](https://open.spotify.com/artist/6S2OmqARrzebs0tKUEyXyp) | [Confident \(Deluxe Edition\)](https://open.spotify.com/album/5Q2UCYr67vEfrueFndo434) | 3:34 |
 | 83 | [Midnight Ride](https://open.spotify.com/track/2BFnfCnAW6O1a1vZ8NZvkO) | [Orville Peck](https://open.spotify.com/artist/46auOkH1pk28rWrSoUNhLo), [Kylie Minogue](https://open.spotify.com/artist/4RVnAU35WRWra6OZ3CbbMA), [Diplo](https://open.spotify.com/artist/5fMUXHkw8R8eOP2RNVYEZX) | [Midnight Ride](https://open.spotify.com/album/0q0asrBrmBwrRMXeqxDvBY) | 3:31 |
 | 84 | [Miami](https://open.spotify.com/track/5JgaSkvLDbERK7BkekoQi6) | [Ariane Moffatt](https://open.spotify.com/artist/5x9UA1g9OYt1wCyPb0YN8l) | [22h22](https://open.spotify.com/album/2HdjJqBfxdOKa4LHZB21X8) | 2:46 |
-| 85 | [Soleil dans ma tête](https://open.spotify.com/track/62j5dQuXwRnUOZGoDhwBOd) | [Keen' V](https://open.spotify.com/artist/5iZMWWLoDJH1u6Ru2rOEsd) | [Soleil dans ma tête](https://open.spotify.com/album/4wtfS8im6vop0N1u5EsDMj) | 2:30 |
-| 86 | [Video \(feat\. Ravyn Lenae\)](https://open.spotify.com/track/7CPz32jHbtNIZev8vpa9yb) | [KAYTRANADA](https://open.spotify.com/artist/6qgnBH6iDM91ipVXv28OMu), [Ravyn Lenae](https://open.spotify.com/artist/5RTLRtXjbXI2lSXc6jxlAz) | [TIMELESS](https://open.spotify.com/album/3C3t2bKhwEL3wdKioqWUDh) | 3:12 |
-| 87 | [Flamme](https://open.spotify.com/track/0bFRxLr67t3gtavWOVr51y) | [Juliette Armanet](https://open.spotify.com/artist/61CPKXT0bcKj8MKTNTMOXa) | [Brûler le feu](https://open.spotify.com/album/7ftWS2YkyqOJvh602ob2l5) | 2:44 |
-| 88 | [Nouvelle\-Orléans](https://open.spotify.com/track/1CCKf8yGsKuVz5cgRwgShM) | [La Femme](https://open.spotify.com/artist/5VTWoYYizcOY3uIKnxeCGI) | [Paradigmes](https://open.spotify.com/album/1u2Q5MFWptOdPpldjC0xO9) | 3:53 |
+| 85 | [Video \(feat\. Ravyn Lenae\)](https://open.spotify.com/track/7CPz32jHbtNIZev8vpa9yb) | [KAYTRANADA](https://open.spotify.com/artist/6qgnBH6iDM91ipVXv28OMu), [Ravyn Lenae](https://open.spotify.com/artist/5RTLRtXjbXI2lSXc6jxlAz) | [TIMELESS](https://open.spotify.com/album/3C3t2bKhwEL3wdKioqWUDh) | 3:12 |
+| 86 | [Soleil dans ma tête](https://open.spotify.com/track/62j5dQuXwRnUOZGoDhwBOd) | [Keen' V](https://open.spotify.com/artist/5iZMWWLoDJH1u6Ru2rOEsd) | [Soleil dans ma tête](https://open.spotify.com/album/4wtfS8im6vop0N1u5EsDMj) | 2:30 |
+| 87 | [Nouvelle\-Orléans](https://open.spotify.com/track/1CCKf8yGsKuVz5cgRwgShM) | [La Femme](https://open.spotify.com/artist/5VTWoYYizcOY3uIKnxeCGI) | [Paradigmes](https://open.spotify.com/album/1u2Q5MFWptOdPpldjC0xO9) | 3:53 |
+| 88 | [Flamme](https://open.spotify.com/track/0bFRxLr67t3gtavWOVr51y) | [Juliette Armanet](https://open.spotify.com/artist/61CPKXT0bcKj8MKTNTMOXa) | [Brûler le feu](https://open.spotify.com/album/7ftWS2YkyqOJvh602ob2l5) | 2:44 |
 | 89 | [Cinq à sept](https://open.spotify.com/track/6XS5Qi2wUMgj88QdBXx69B) | [Koriass](https://open.spotify.com/artist/4aLij7W6aqtpsRriCSjGLq) | [La Nuit des Longs Couteaux](https://open.spotify.com/album/5bYvCCyPQ5D3PWDrapUymX) | 3:28 |
 | 90 | [Last Girls At The Party](https://open.spotify.com/track/3T00vgU0eKHjHwrEM6BlUT) | [The Beaches](https://open.spotify.com/artist/6ws5XBA70XgeBpnLZhQBoy) | [Last Girls At The Party](https://open.spotify.com/album/1PST65sjjkEcFJnktmglWU) | 2:42 |
 | 91 | [Dépotoir](https://open.spotify.com/track/2d6lf93GHyLwm4TWS0LoAl) | [Gab Bouchard](https://open.spotify.com/artist/0J0nIuBa8qMlDnlS5QrkiP) | [Grafignes](https://open.spotify.com/album/4apNI8EVLPBkQH1ceRRcFl) | 3:10 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcEdamGPOi1T.md) - [plain]
 | 99 | [Mok ya mok](https://open.spotify.com/track/2yQn0Y5mODyHfCk4oxBPfr) | [Benny Adam](https://open.spotify.com/artist/31Gbv2WFzy6QX0X6DkGiHA), [Khadija El Warzazia](https://open.spotify.com/artist/2ygf9jdzulwgls2Gx1jTdm) | [Mok ya mok](https://open.spotify.com/album/6bf0QljuZqYPriKjVQtwG7) | 2:38 |
 | 100 | [Ensemble \- Radio Edit](https://open.spotify.com/track/73G5Qtfwq7lSFR9MlpQDlj) | [Aliocha Schneider](https://open.spotify.com/artist/186IEnMYqWBPOAFn78wTPB) | [Ensemble \(Radio Edit\)](https://open.spotify.com/album/0KAc9578FWtoMFmv78oZKu) | 2:27 |
 
-Snapshot ID: `AAAAAEfbhSczT+7I9aEviXi4AODVuAYP`
+Snapshot ID: `AAAAAImjbWXM7zl1tSUipFT4M7JH2w7w`

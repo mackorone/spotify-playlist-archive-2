@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2IvZJK5xwFt.md) - [plain]
 
 > Only the best rock in the world\. Cover: Måneskin
 
-[Spotify](https://open.spotify.com/user/spotify) - 221,599 likes - 75 songs - 4 hr 42 min
+[Spotify](https://open.spotify.com/user/spotify) - 221,611 likes - 75 songs - 4 hr 42 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2IvZJK5xwFt.md) - [plain]
 | 74 | [Stray Dogs](https://open.spotify.com/track/2PPfvgdNJqXzHjg61y9AWh) | [Nothing But Thieves](https://open.spotify.com/artist/1kDGbuxWknIKx4FlgWxiSp) | [Stray Dogs](https://open.spotify.com/album/6wwFB0YmjCiqCwyrQVXAkU) | 5:23 |
 | 75 | [Tell Me When You've Had Enough](https://open.spotify.com/track/21gtso7RmFpu9051Ec2feu) | [Evanescence](https://open.spotify.com/artist/5nGIFgo0shDenQYSE0Sn7c) | [Sanctuary](https://open.spotify.com/album/5yUYipjU1lsVEFkH5SURdv) | 3:19 |
 
-Snapshot ID: `AAAAANnHzZPCc/DTawaHExCBBBLwDOu2`
+Snapshot ID: `AAAAAGAT+/qh68ZiRnTNfv24+lNE99Vs`

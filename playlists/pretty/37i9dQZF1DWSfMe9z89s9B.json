@@ -1,12 +1,12 @@
 {
   "description": "The new school - Alternative R&B. Cover: Q",
-  "num_followers": 1303418,
+  "num_followers": 1303335,
   "original_name": "Vanguard",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAInyJLEExnS6sS1+/MRgxfSQRXwZ",
+  "snapshot_id": "AAAAAJeP1XKfi2q/FdA/1yvV4VvQb66s",
   "tracks": [
     {
       "added_at": "2026-10-16 20:15:49",
@@ -1493,22 +1493,6 @@
       "url": "https://open.spotify.com/track/025c4zVMZmyLrSPtsmXA7x"
     },
     {
-      "added_at": "2026-07-31 07:26:27",
-      "album": {
-        "name": "The Hours: High Noon",
-        "url": "https://open.spotify.com/album/0nCFgJTknbfdfXiWBpREB3"
-      },
-      "artists": [
-        {
-          "name": "Cautious Clay",
-          "url": "https://open.spotify.com/artist/6iWuBN32BqCJAeXW6o3nil"
-        }
-      ],
-      "duration_ms": 144620,
-      "name": "Trail Mix (3pm)",
-      "url": "https://open.spotify.com/track/0nl0UQJrmmkxJx3kHKftpE"
-    },
-    {
       "added_at": "2024-06-07 12:28:44",
       "album": {
         "name": "TIMELESS",
@@ -1527,6 +1511,22 @@
       "duration_ms": 192017,
       "name": "Video (feat. Ravyn Lenae)",
       "url": "https://open.spotify.com/track/7CPz32jHbtNIZev8vpa9yb"
+    },
+    {
+      "added_at": "2026-07-31 07:26:27",
+      "album": {
+        "name": "The Hours: High Noon",
+        "url": "https://open.spotify.com/album/0nCFgJTknbfdfXiWBpREB3"
+      },
+      "artists": [
+        {
+          "name": "Cautious Clay",
+          "url": "https://open.spotify.com/artist/6iWuBN32BqCJAeXW6o3nil"
+        }
+      ],
+      "duration_ms": 144620,
+      "name": "Trail Mix (3pm)",
+      "url": "https://open.spotify.com/track/0nl0UQJrmmkxJx3kHKftpE"
     },
     {
       "added_at": "2024-08-09 04:00:00",
@@ -1611,22 +1611,6 @@
     {
       "added_at": "2024-09-27 23:55:30",
       "album": {
-        "name": "don't text me back",
-        "url": "https://open.spotify.com/album/5rIZhiJ4oRq0y1tdC5gf0c"
-      },
-      "artists": [
-        {
-          "name": "Rowena Fysx",
-          "url": "https://open.spotify.com/artist/6y4JQgtvRMTNfA5YVMPv3p"
-        }
-      ],
-      "duration_ms": 201000,
-      "name": "all over u",
-      "url": "https://open.spotify.com/track/7LZ3gGKfJIjf1jNWkzU637"
-    },
-    {
-      "added_at": "2024-09-27 23:55:30",
-      "album": {
         "name": "Songs About You Specifically",
         "url": "https://open.spotify.com/album/1oRATv55WFvifmpusW6Ik6"
       },
@@ -1639,6 +1623,22 @@
       "duration_ms": 163931,
       "name": "Akira",
       "url": "https://open.spotify.com/track/6jOZXCgbIsBZiYJGpRsL5O"
+    },
+    {
+      "added_at": "2024-09-27 23:55:30",
+      "album": {
+        "name": "don't text me back",
+        "url": "https://open.spotify.com/album/5rIZhiJ4oRq0y1tdC5gf0c"
+      },
+      "artists": [
+        {
+          "name": "Rowena Fysx",
+          "url": "https://open.spotify.com/artist/6y4JQgtvRMTNfA5YVMPv3p"
+        }
+      ],
+      "duration_ms": 201000,
+      "name": "all over u",
+      "url": "https://open.spotify.com/track/7LZ3gGKfJIjf1jNWkzU637"
     },
     {
       "added_at": "2026-03-06 06:14:13",
@@ -1721,20 +1721,20 @@
       "url": "https://open.spotify.com/track/5Oq6iKIWE3Q1i3G2fES5Oc"
     },
     {
-      "added_at": "2026-10-16 20:15:49",
+      "added_at": "2025-08-15 06:41:00",
       "album": {
-        "name": "Honor Me",
-        "url": "https://open.spotify.com/album/3DAUoWg6TLR8PyylebWT8o"
+        "name": "Baby",
+        "url": "https://open.spotify.com/album/3hKlec1wgYVJcI0YvwCFJB"
       },
       "artists": [
         {
-          "name": "Zeke Bleu",
-          "url": "https://open.spotify.com/artist/41A9WSBy51jtVHKO6VCeN0"
+          "name": "Dijon",
+          "url": "https://open.spotify.com/artist/0knGpCTbmG4ctl1wzYRZs4"
         }
       ],
-      "duration_ms": 95745,
-      "name": "Honor Me",
-      "url": "https://open.spotify.com/track/2lAQ52YFBLH9vQonwFOecw"
+      "duration_ms": 103743,
+      "name": "(Freak It)",
+      "url": "https://open.spotify.com/track/0s2C8FeHf0OBmphIk8jXsE"
     },
     {
       "added_at": "2026-04-03 07:16:37",
@@ -1753,20 +1753,20 @@
       "url": "https://open.spotify.com/track/0nD4peo8xBWxCkiL21ymlO"
     },
     {
-      "added_at": "2025-08-15 06:41:00",
+      "added_at": "2026-10-16 20:15:49",
       "album": {
-        "name": "Baby",
-        "url": "https://open.spotify.com/album/3hKlec1wgYVJcI0YvwCFJB"
+        "name": "Honor Me",
+        "url": "https://open.spotify.com/album/3DAUoWg6TLR8PyylebWT8o"
       },
       "artists": [
         {
-          "name": "Dijon",
-          "url": "https://open.spotify.com/artist/0knGpCTbmG4ctl1wzYRZs4"
+          "name": "Zeke Bleu",
+          "url": "https://open.spotify.com/artist/41A9WSBy51jtVHKO6VCeN0"
         }
       ],
-      "duration_ms": 103743,
-      "name": "(Freak It)",
-      "url": "https://open.spotify.com/track/0s2C8FeHf0OBmphIk8jXsE"
+      "duration_ms": 95745,
+      "name": "Honor Me",
+      "url": "https://open.spotify.com/track/2lAQ52YFBLH9vQonwFOecw"
     },
     {
       "added_at": "2024-12-13 05:00:40",
@@ -2141,42 +2141,6 @@
       "url": "https://open.spotify.com/track/5p11IMrHpfoyMsEMNPCjD9"
     },
     {
-      "added_at": "2024-10-20 00:14:41",
-      "album": {
-        "name": "Wildflowers",
-        "url": "https://open.spotify.com/album/0heiEtIymWsOMyXwxvb7cR"
-      },
-      "artists": [
-        {
-          "name": "Nao",
-          "url": "https://open.spotify.com/artist/7aFTOGFDEqDtJUCziLVsVC"
-        }
-      ],
-      "duration_ms": 205139,
-      "name": "Wildflowers",
-      "url": "https://open.spotify.com/track/0276oT52BTy2zKrTQyYPQt"
-    },
-    {
-      "added_at": "2025-04-04 04:43:43",
-      "album": {
-        "name": "THE LAST TIME",
-        "url": "https://open.spotify.com/album/0GyFu1r5ctSDKHwvkF6Coy"
-      },
-      "artists": [
-        {
-          "name": "DESTIN CONRAD",
-          "url": "https://open.spotify.com/artist/4jwROPSUkTkohLCRiyjiZZ"
-        },
-        {
-          "name": "Teezo Touchdown",
-          "url": "https://open.spotify.com/artist/0fGcIStdT1OpFFhOC7Wp36"
-        }
-      ],
-      "duration_ms": 194823,
-      "name": "THE LAST TIME",
-      "url": "https://open.spotify.com/track/4zkH2YuWOZlXgzOH17TvKs"
-    },
-    {
       "added_at": "2025-05-23 04:00:52",
       "album": {
         "name": "pilot.",
@@ -2217,6 +2181,42 @@
       "url": "https://open.spotify.com/track/5NKy0rXZGsuHnVCpuomcul"
     },
     {
+      "added_at": "2025-04-04 04:43:43",
+      "album": {
+        "name": "THE LAST TIME",
+        "url": "https://open.spotify.com/album/0GyFu1r5ctSDKHwvkF6Coy"
+      },
+      "artists": [
+        {
+          "name": "DESTIN CONRAD",
+          "url": "https://open.spotify.com/artist/4jwROPSUkTkohLCRiyjiZZ"
+        },
+        {
+          "name": "Teezo Touchdown",
+          "url": "https://open.spotify.com/artist/0fGcIStdT1OpFFhOC7Wp36"
+        }
+      ],
+      "duration_ms": 194823,
+      "name": "THE LAST TIME",
+      "url": "https://open.spotify.com/track/4zkH2YuWOZlXgzOH17TvKs"
+    },
+    {
+      "added_at": "2024-10-20 00:14:41",
+      "album": {
+        "name": "Wildflowers",
+        "url": "https://open.spotify.com/album/0heiEtIymWsOMyXwxvb7cR"
+      },
+      "artists": [
+        {
+          "name": "Nao",
+          "url": "https://open.spotify.com/artist/7aFTOGFDEqDtJUCziLVsVC"
+        }
+      ],
+      "duration_ms": 205139,
+      "name": "Wildflowers",
+      "url": "https://open.spotify.com/track/0276oT52BTy2zKrTQyYPQt"
+    },
+    {
       "added_at": "2026-03-06 06:14:13",
       "album": {
         "name": "Flood / Glow",
@@ -2235,22 +2235,6 @@
       "duration_ms": 179586,
       "name": "Flood (feat. Bon Iver)",
       "url": "https://open.spotify.com/track/2L8V5ufkP4ZzBBqjVBE2SW"
-    },
-    {
-      "added_at": "2026-06-21 21:45:09",
-      "album": {
-        "name": "MY FEET",
-        "url": "https://open.spotify.com/album/3NlIELCR7Fs7gETU7z77Cl"
-      },
-      "artists": [
-        {
-          "name": "Khal!l",
-          "url": "https://open.spotify.com/artist/4tlDGVrh821Y1AXIWarzNe"
-        }
-      ],
-      "duration_ms": 291500,
-      "name": "MY FEET",
-      "url": "https://open.spotify.com/track/5fAhY1tVGHTfWADAyRbOMp"
     },
     {
       "added_at": "2026-03-06 06:14:13",
@@ -2287,6 +2271,22 @@
       "duration_ms": 293377,
       "name": "Satellite Business 2.0",
       "url": "https://open.spotify.com/track/5y6vRQJrzPveBmvysTE4UQ"
+    },
+    {
+      "added_at": "2026-06-21 21:45:09",
+      "album": {
+        "name": "MY FEET",
+        "url": "https://open.spotify.com/album/3NlIELCR7Fs7gETU7z77Cl"
+      },
+      "artists": [
+        {
+          "name": "Khal!l",
+          "url": "https://open.spotify.com/artist/4tlDGVrh821Y1AXIWarzNe"
+        }
+      ],
+      "duration_ms": 291500,
+      "name": "MY FEET",
+      "url": "https://open.spotify.com/track/5fAhY1tVGHTfWADAyRbOMp"
     },
     {
       "added_at": "2026-05-15 07:04:17",
@@ -2353,22 +2353,6 @@
       "url": "https://open.spotify.com/track/2p9s2lLeEwanBH1L5iDiA0"
     },
     {
-      "added_at": "2024-10-20 00:14:41",
-      "album": {
-        "name": "Rick James",
-        "url": "https://open.spotify.com/album/5B0xVy0KUNYfT1dNTjTMNV"
-      },
-      "artists": [
-        {
-          "name": "MiLES.",
-          "url": "https://open.spotify.com/artist/4Mt0UzpAedYJYAvDMNjx2I"
-        }
-      ],
-      "duration_ms": 221379,
-      "name": "Rick James",
-      "url": "https://open.spotify.com/track/13lHKa49RJRMGRNGftt5Ss"
-    },
-    {
       "added_at": "2025-10-17 06:22:08",
       "album": {
         "name": "SMOKIN POTNA",
@@ -2387,6 +2371,22 @@
       "duration_ms": 153145,
       "name": "SMOKIN POTNA",
       "url": "https://open.spotify.com/track/5CAsuNKpa7tcaJOrIiaqi6"
+    },
+    {
+      "added_at": "2024-10-20 00:14:41",
+      "album": {
+        "name": "Rick James",
+        "url": "https://open.spotify.com/album/5B0xVy0KUNYfT1dNTjTMNV"
+      },
+      "artists": [
+        {
+          "name": "MiLES.",
+          "url": "https://open.spotify.com/artist/4Mt0UzpAedYJYAvDMNjx2I"
+        }
+      ],
+      "duration_ms": 221379,
+      "name": "Rick James",
+      "url": "https://open.spotify.com/track/13lHKa49RJRMGRNGftt5Ss"
     },
     {
       "added_at": "2026-03-06 06:14:13",
@@ -2437,22 +2437,6 @@
       "url": "https://open.spotify.com/track/0UNHlFaWHa66B37wcGVn0O"
     },
     {
-      "added_at": "2026-05-15 07:04:17",
-      "album": {
-        "name": "So Bad",
-        "url": "https://open.spotify.com/album/4VUNZfosz2STVMWZDbSX7l"
-      },
-      "artists": [
-        {
-          "name": "tg.blk",
-          "url": "https://open.spotify.com/artist/24ygMLBnr7isvmgvAx2Phm"
-        }
-      ],
-      "duration_ms": 233513,
-      "name": "So Bad",
-      "url": "https://open.spotify.com/track/7B0q3mDuGbjOz8J6DtFQOG"
-    },
-    {
       "added_at": "2025-04-25 06:37:11",
       "album": {
         "name": "Dark Nights",
@@ -2467,6 +2451,22 @@
       "duration_ms": 192279,
       "name": "What I Used To Get Into",
       "url": "https://open.spotify.com/track/4GEAQAtCQ50j0lZP9k4SMT"
+    },
+    {
+      "added_at": "2026-05-15 07:04:17",
+      "album": {
+        "name": "So Bad",
+        "url": "https://open.spotify.com/album/4VUNZfosz2STVMWZDbSX7l"
+      },
+      "artists": [
+        {
+          "name": "tg.blk",
+          "url": "https://open.spotify.com/artist/24ygMLBnr7isvmgvAx2Phm"
+        }
+      ],
+      "duration_ms": 233513,
+      "name": "So Bad",
+      "url": "https://open.spotify.com/track/7B0q3mDuGbjOz8J6DtFQOG"
     },
     {
       "added_at": "2025-09-07 01:24:20",

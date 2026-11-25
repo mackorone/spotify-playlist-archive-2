@@ -21,4 +21,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7D73orIfpdj.md) - [plain]
 | 11 | [ In TMZ’s defence: Society needs gossip](https://open.spotify.com/episode/7aJebc0y1bjCtbDXiiNY4Q) | [The discourse department](https://open.spotify.com/show/2GvKJApdYVJBVMrWdV2vDg) | [The discourse department](https://open.spotify.com/album/2GvKJApdYVJBVMrWdV2vDg) | 32:24 |
 | 12 | [From Illness to Intuition: Issy Oakley on Crohn's, Self\-Worth & Finding Her Power!](https://open.spotify.com/episode/1lmoVocSjVqXI5Ke6p9oDS) | [We Talk To The Dead By Chloe Mediumship](https://open.spotify.com/show/3eqEiboemCIED3H9pcooej) | [We Talk To The Dead By Chloe Mediumship](https://open.spotify.com/album/3eqEiboemCIED3H9pcooej) | 39:55 |
 
-Snapshot ID: `AAAAABDqi/aZgNA+ijJs6cPA7Wh0BRkI`
+Snapshot ID: `AAAAAAdWFLUUMT7xWPG0Pe4cO89Pg7l1`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX35sy3iPnb31.md) - [plain]
 
 > The best Canadian songs of the month, handpicked by Spotify Canada editors\. Cover: Natek
 
-[Spotify](https://open.spotify.com/user/spotify) - 3,001 likes - 50 songs - 2 hr 53 min
+[Spotify](https://open.spotify.com/user/spotify) - 3,009 likes - 50 songs - 2 hr 53 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX35sy3iPnb31.md) - [plain]
 | 49 | [Playboi 3arbi](https://open.spotify.com/track/4dbTXS5XPFokCcDum11PeB) | [Nawfal](https://open.spotify.com/artist/0YTJRguouZtIVP0xFGLfkr), [DJ White Socks](https://open.spotify.com/artist/0j0eSYnIP4NmdBRRMRvdUf) | [Playboi 3arbi](https://open.spotify.com/album/1TUo9lSxWIWZh7svWQnF7F) | 1:53 |
 | 50 | [Savage](https://open.spotify.com/track/5XiiA5KKvQCNVMxDEC5fFE) | [IDHEM](https://open.spotify.com/artist/0ev3YqTtoPa2dtCEG2HNDa) | [Sérénade / Savage](https://open.spotify.com/album/6M4JE1DAu0Go692WDk3LxF) | 1:49 |
 
-Snapshot ID: `AAAAADRK0ESN96CgguFF0iK9kmrPFfn8`
+Snapshot ID: `AAAAAHF1+TeL4T+A5IczcfJk8QkowSM/`

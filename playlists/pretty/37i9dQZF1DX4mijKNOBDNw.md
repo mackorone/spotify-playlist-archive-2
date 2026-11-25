@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4mijKNOBDNw.md) - [plain]
 
 > Si tocan a una respondemos todas.
 
-[Spotify](https://open.spotify.com/user/spotify) - 60,542 likes - 65 songs - 3 hr 49 min
+[Spotify](https://open.spotify.com/user/spotify) - 60,544 likes - 65 songs - 3 hr 49 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -49,8 +49,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4mijKNOBDNw.md) - [plain]
 | 39 | [Ni Una Mas](https://open.spotify.com/track/6kY8v7VDzPWIy1alEDQGM8) | [Ivonne Galaz](https://open.spotify.com/artist/3YXGxdYldEXVVlCdCkFD5G) | [Ni Una Mas](https://open.spotify.com/album/12pHDcyqzSNsZgQJDRiZ3W) | 2:41 |
 | 40 | [Nunca Amor](https://open.spotify.com/track/4mZuInt5AIL6PqDF1I2zRt) | [Leiden](https://open.spotify.com/artist/6fvjP4AZ19ce4gwJSr5qnI) | [Nunca Amor](https://open.spotify.com/album/7c6CsAKYwhoAcNDcKJcx1z) | 3:06 |
 | 41 | [La Loba \- Trooko Remix](https://open.spotify.com/track/5eFI4a7q8Ln0HDZ0lbIPhr) | [La Chica](https://open.spotify.com/artist/7BiV41WZCIDfp0YtYol0Wr), [Trooko](https://open.spotify.com/artist/6mPl1Nq6hMkto7vsF0PfGi) | [La Loba \(Remixes\)](https://open.spotify.com/album/6DV5ObthuIgftL8GaJqwKx) | 4:16 |
-| 42 | [Aquí Seguimos 2020](https://open.spotify.com/track/3IdyNey4zJRrCLrRDmhZBc) | [Tania Barbará](https://open.spotify.com/artist/18zlMHVUNwCW1CmnG4pgFP), [Carmen Ruiz](https://open.spotify.com/artist/6lT6X7ff95ucDbUfPkyZWB), [Cata Raybaud](https://open.spotify.com/artist/4CSP9JAlJTUjWGkTrlX03I), [Madame Récamier](https://open.spotify.com/artist/2rNCZVyZwtSaTI1HGj8LFD), [Ale Moreno](https://open.spotify.com/artist/33PzdbMNyVpDyta6Fyx1x3), [Florencia Quinteros](https://open.spotify.com/artist/7E2jCj5j3DvSf77UQ3M9TO) | [Aquí Seguimos 2020](https://open.spotify.com/album/62d6vTic3lLfCvt4HVEDYF) | 4:30 |
-| 43 | [Por Cada Unx](https://open.spotify.com/track/56we8zTvtmSuoqd8ktNzlh) | [María Pien](https://open.spotify.com/artist/3hpONtG7g11sff6QbGJIfY) | [Mala Reputación: Latfem Presenta una Memoria Feminista en Canción](https://open.spotify.com/album/5JZhhS3MgW4b4XY0aLvH6L) | 4:49 |
+| 42 | [Por Cada Unx](https://open.spotify.com/track/56we8zTvtmSuoqd8ktNzlh) | [María Pien](https://open.spotify.com/artist/3hpONtG7g11sff6QbGJIfY) | [Mala Reputación: Latfem Presenta una Memoria Feminista en Canción](https://open.spotify.com/album/5JZhhS3MgW4b4XY0aLvH6L) | 4:49 |
+| 43 | [Aquí Seguimos 2020](https://open.spotify.com/track/3IdyNey4zJRrCLrRDmhZBc) | [Tania Barbará](https://open.spotify.com/artist/18zlMHVUNwCW1CmnG4pgFP), [Carmen Ruiz](https://open.spotify.com/artist/6lT6X7ff95ucDbUfPkyZWB), [Cata Raybaud](https://open.spotify.com/artist/4CSP9JAlJTUjWGkTrlX03I), [Madame Récamier](https://open.spotify.com/artist/2rNCZVyZwtSaTI1HGj8LFD), [Ale Moreno](https://open.spotify.com/artist/33PzdbMNyVpDyta6Fyx1x3), [Florencia Quinteros](https://open.spotify.com/artist/7E2jCj5j3DvSf77UQ3M9TO) | [Aquí Seguimos 2020](https://open.spotify.com/album/62d6vTic3lLfCvt4HVEDYF) | 4:30 |
 | 44 | [Señorita Revolución](https://open.spotify.com/track/7EDmXSg0xZZT3NkcBjijCn) | [BRUSES](https://open.spotify.com/artist/5bRLeMl4Tnozmg9wR1pY7y) | [Señorita Revolución](https://open.spotify.com/album/12rvlwP0OW2UKV1lmTqQtm) | 2:38 |
 | 45 | [Ni Una Menos](https://open.spotify.com/track/11UL8736NPiJSdCiezulQp) | [Rebeca Lane](https://open.spotify.com/artist/7pTTcZQa4DzCKdoyuiPfsq) | [Ni Una Menos](https://open.spotify.com/album/2Ad42MuUjsRZFpIsPnGCkC) | 2:34 |
 | 46 | [Ni una Menos](https://open.spotify.com/track/73sv7ERsv0E9dFRJkmTroF) | [Chocolate Remix](https://open.spotify.com/artist/4kkuyWmpashrooyOFvHX2m) | [Sátira](https://open.spotify.com/album/4HsyhBMFmRLmTxEQeuROub) | 2:23 |
@@ -74,4 +74,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4mijKNOBDNw.md) - [plain]
 | 64 | [Se Quemó](https://open.spotify.com/track/2x3pyIaB1hsqU7W06lfYDL) | [La Otra](https://open.spotify.com/artist/5mHe4QndQw0Jc5dFYn1Qe7) | [Pa'fuera y Pa'dentro](https://open.spotify.com/album/29UNByudXjnpljtU2XOU6j) | 4:43 |
 | 65 | [No Ves](https://open.spotify.com/track/5y38M7sJvnfZPguQBYO7qx) | [Connie Isla](https://open.spotify.com/artist/3rRWzsERkCNBl27Nih029a) | [No Ves](https://open.spotify.com/album/0noxqh5mBtyCT5N741oUKC) | 3:19 |
 
-Snapshot ID: `AAAAANr7NRCO96ww0xOnxNEux8L64SSQ`
+Snapshot ID: `AAAAAPaCF2rU0bFc8/oet8LR/ZtMfj3/`

@@ -1,12 +1,12 @@
 {
   "description": "aqui tem feijoada hot dog com pur\u00ea sushi moqueca a\u00e7a\u00ed cm peixe frito mta coisa / Foto: Z\u00e9 Felipe, Felipe Amorim",
-  "num_followers": 766366,
+  "num_followers": 766351,
   "original_name": "Puro Suco do Brasil",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAKqzXctCK4usc6+/OFzUHciVB2Ez",
+  "snapshot_id": "AAAAALGB05vuPDPla1E2zkMM8gJ4I85S",
   "tracks": [
     {
       "added_at": "2026-11-20 03:01:02",
@@ -22,6 +22,10 @@
         {
           "name": "Felipe Amorim",
           "url": "https://open.spotify.com/artist/3CIIaeZuFYrAD6PRVyuO4U"
+        },
+        {
+          "name": "ARIA VEGA",
+          "url": "https://open.spotify.com/artist/6B3aCWGjO81DSSehnlqRxD"
         }
       ],
       "duration_ms": 133913,
@@ -319,6 +323,26 @@
     {
       "added_at": "2026-11-20 03:01:02",
       "album": {
+        "name": "A Mais Amada Do Brasil",
+        "url": "https://open.spotify.com/album/5QRsFSBXTxPSIINOpzuSdY"
+      },
+      "artists": [
+        {
+          "name": "Xand Avi\u00e3o",
+          "url": "https://open.spotify.com/artist/43DRDu6nLSeIedZ7T1A616"
+        },
+        {
+          "name": "L\u00e9o Foguete",
+          "url": "https://open.spotify.com/artist/1DuBkL1pAgaZQHXKPiVr08"
+        }
+      ],
+      "duration_ms": 170858,
+      "name": "A Mais Amada Do Brasil",
+      "url": "https://open.spotify.com/track/4wCKcA0EqDPHRvWJUGLk22"
+    },
+    {
+      "added_at": "2026-11-20 03:01:02",
+      "album": {
         "name": "Saudade do Carai",
         "url": "https://open.spotify.com/album/3PWOSqpHDsgbSNFjnsDTLn"
       },
@@ -339,26 +363,6 @@
       "duration_ms": 170777,
       "name": "Saudade do Carai",
       "url": "https://open.spotify.com/track/0HixceBFegrCY3GFBB7SlQ"
-    },
-    {
-      "added_at": "2026-11-20 03:01:02",
-      "album": {
-        "name": "A Mais Amada Do Brasil",
-        "url": "https://open.spotify.com/album/5QRsFSBXTxPSIINOpzuSdY"
-      },
-      "artists": [
-        {
-          "name": "Xand Avi\u00e3o",
-          "url": "https://open.spotify.com/artist/43DRDu6nLSeIedZ7T1A616"
-        },
-        {
-          "name": "L\u00e9o Foguete",
-          "url": "https://open.spotify.com/artist/1DuBkL1pAgaZQHXKPiVr08"
-        }
-      ],
-      "duration_ms": 170858,
-      "name": "A Mais Amada Do Brasil",
-      "url": "https://open.spotify.com/track/4wCKcA0EqDPHRvWJUGLk22"
     },
     {
       "added_at": "2026-11-20 03:01:02",
@@ -519,26 +523,6 @@
     {
       "added_at": "2026-11-20 03:01:02",
       "album": {
-        "name": "Nem Pagando",
-        "url": "https://open.spotify.com/album/6Sm3MUWysWug42nMUMTbK6"
-      },
-      "artists": [
-        {
-          "name": "Henrique Casttro",
-          "url": "https://open.spotify.com/artist/31LTPsEvAHPLNTMX06UdJK"
-        },
-        {
-          "name": "Grupo Menos \u00c9 Mais",
-          "url": "https://open.spotify.com/artist/6vTqEFbTtTRJsuIpzZgjxi"
-        }
-      ],
-      "duration_ms": 142286,
-      "name": "Nem Pagando",
-      "url": "https://open.spotify.com/track/1haTu99Drbh0fs7d09UNPu"
-    },
-    {
-      "added_at": "2026-11-20 03:01:02",
-      "album": {
         "name": "Resenha dos Amigos 2.0 ( Especial )",
         "url": "https://open.spotify.com/album/2C9dlY2KoeQhFNoaKCQoAi"
       },
@@ -579,6 +563,26 @@
       "duration_ms": 255758,
       "name": "Resenha dos Amigos 2.0 ( Especial )",
       "url": "https://open.spotify.com/track/7wW8HwFnKatnDBIFmbOLc5"
+    },
+    {
+      "added_at": "2026-11-20 03:01:02",
+      "album": {
+        "name": "Nem Pagando",
+        "url": "https://open.spotify.com/album/6Sm3MUWysWug42nMUMTbK6"
+      },
+      "artists": [
+        {
+          "name": "Henrique Casttro",
+          "url": "https://open.spotify.com/artist/31LTPsEvAHPLNTMX06UdJK"
+        },
+        {
+          "name": "Grupo Menos \u00c9 Mais",
+          "url": "https://open.spotify.com/artist/6vTqEFbTtTRJsuIpzZgjxi"
+        }
+      ],
+      "duration_ms": 142286,
+      "name": "Nem Pagando",
+      "url": "https://open.spotify.com/track/1haTu99Drbh0fs7d09UNPu"
     },
     {
       "added_at": "2026-11-20 03:01:02",
@@ -679,26 +683,6 @@
     {
       "added_at": "2026-11-20 03:01:02",
       "album": {
-        "name": "\u00daltima Noite (Solo)",
-        "url": "https://open.spotify.com/album/1kvxwru59TxOAvrRUIPTG5"
-      },
-      "artists": [
-        {
-          "name": "L\u00e9o Foguete",
-          "url": "https://open.spotify.com/artist/1DuBkL1pAgaZQHXKPiVr08"
-        },
-        {
-          "name": "Acertei",
-          "url": "https://open.spotify.com/artist/1zzQeAzbxN9ctihMrpTo3H"
-        }
-      ],
-      "duration_ms": 154553,
-      "name": "\u00daltima Noite - Solo",
-      "url": "https://open.spotify.com/track/2Doe6AaIpyDy4JvFTsxSDn"
-    },
-    {
-      "added_at": "2026-11-20 03:01:02",
-      "album": {
         "name": "Ensaios Da Anitta",
         "url": "https://open.spotify.com/album/6EkCnMeO4zOURLKlTKbl39"
       },
@@ -719,6 +703,26 @@
       "duration_ms": 129090,
       "name": "GOSTOSIN",
       "url": "https://open.spotify.com/track/2s4nhrlWTnmzSnGFH5pyAM"
+    },
+    {
+      "added_at": "2026-11-20 03:01:02",
+      "album": {
+        "name": "\u00daltima Noite (Solo)",
+        "url": "https://open.spotify.com/album/1kvxwru59TxOAvrRUIPTG5"
+      },
+      "artists": [
+        {
+          "name": "L\u00e9o Foguete",
+          "url": "https://open.spotify.com/artist/1DuBkL1pAgaZQHXKPiVr08"
+        },
+        {
+          "name": "Acertei",
+          "url": "https://open.spotify.com/artist/1zzQeAzbxN9ctihMrpTo3H"
+        }
+      ],
+      "duration_ms": 154553,
+      "name": "\u00daltima Noite - Solo",
+      "url": "https://open.spotify.com/track/2Doe6AaIpyDy4JvFTsxSDn"
     },
     {
       "added_at": "2026-11-20 03:01:02",
@@ -1116,7 +1120,7 @@
           "url": "https://open.spotify.com/artist/0riDlnXsOWdg8H7AhgA7X6"
         }
       ],
-      "duration_ms": 98409,
+      "duration_ms": 98295,
       "name": "Salgadinha",
       "url": "https://open.spotify.com/track/3POnZy4X7OpeVqhFbCiZVd"
     },

@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-05-11",
-  "description": "J-Rock acts who have broken the border and are making global impact.   Cover: Hammer Head Shark",
+  "description": "J-Rock acts who have broken the border and are making global impact.   Cover: MAN WITH A MISSION",
   "name": "Rock Strike Japan",
   "tracks": [
     {
@@ -2997,6 +2997,24 @@
     },
     {
       "album": {
+        "name": "City Blue",
+        "url": "https://open.spotify.com/album/2LaWQVVM0yebLElIVH5YhX"
+      },
+      "artists": [
+        {
+          "name": "Mili",
+          "url": "https://open.spotify.com/artist/0K05TDnN7xPwIHDOwD2YYs"
+        }
+      ],
+      "date_added": "2026-11-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 179360,
+      "name": "City Blue",
+      "url": "https://open.spotify.com/track/4sH0aKvTf9whGEGKJQkOuv"
+    },
+    {
+      "album": {
         "name": "CLASSIC",
         "url": "https://open.spotify.com/album/6tsA7mKlSnFrI1LMUbd1pP"
       },
@@ -3304,7 +3322,7 @@
       ],
       "date_added": "2026-11-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-25",
       "duration_ms": 181866,
       "name": "Dance with you (single ver.)",
       "url": "https://open.spotify.com/track/4jZp4KCWjKJgAHcIU3pcF4"
@@ -6987,6 +7005,24 @@
     },
     {
       "album": {
+        "name": "hi-liter",
+        "url": "https://open.spotify.com/album/3AqgIAjEf3cY61hL3WAOSt"
+      },
+      "artists": [
+        {
+          "name": "Suchmos",
+          "url": "https://open.spotify.com/artist/0O0hxUrO2PKxZknken3R24"
+        }
+      ],
+      "date_added": "2026-11-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 269374,
+      "name": "hi-liter",
+      "url": "https://open.spotify.com/track/5aUsHc4eKXwtzd2xSx2t5m"
+    },
+    {
+      "album": {
         "name": "High fever",
         "url": "https://open.spotify.com/album/5w340BXaQVYRDTVG0mKKk1"
       },
@@ -7070,7 +7106,7 @@
       ],
       "date_added": "2026-11-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-25",
       "duration_ms": 211226,
       "name": "HIRAETH",
       "url": "https://open.spotify.com/track/0gEkgWt1ULhCvTROcHhCvm"
@@ -10050,7 +10086,7 @@
       ],
       "date_added": "2026-11-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-25",
       "duration_ms": 250026,
       "name": "maboroshi",
       "url": "https://open.spotify.com/track/1uyg1FZ9XY68aVpqr7l77A"
@@ -12432,7 +12468,7 @@
       ],
       "date_added": "2026-11-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-25",
       "duration_ms": 274000,
       "name": "Oxygen199",
       "url": "https://open.spotify.com/track/0GFx8up9kY9kZjhhJEXM3u"
@@ -12804,7 +12840,7 @@
       ],
       "date_added": "2026-11-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-25",
       "duration_ms": 192160,
       "name": "Pinot noir",
       "url": "https://open.spotify.com/track/2DXknNYBaZlCC7tDM0i23O"
@@ -13847,6 +13883,24 @@
     },
     {
       "album": {
+        "name": "RIOT",
+        "url": "https://open.spotify.com/album/2dMmjGRIaR2C1Voa7CrijP"
+      },
+      "artists": [
+        {
+          "name": "QUINCAMPOIX",
+          "url": "https://open.spotify.com/artist/66CZGKffXQ5OrJQLeOX1oR"
+        }
+      ],
+      "date_added": "2026-11-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 158505,
+      "name": "RIOT",
+      "url": "https://open.spotify.com/track/361iYRTAPvwFQYsPpODo8i"
+    },
+    {
+      "album": {
         "name": "REALIFE",
         "url": "https://open.spotify.com/album/2wK612UgOZquVDoz9nKYmA"
       },
@@ -14424,7 +14478,7 @@
       ],
       "date_added": "2026-11-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-25",
       "duration_ms": 242500,
       "name": "Scars",
       "url": "https://open.spotify.com/track/7FebqmnAwWoLdqgiI0ZGFX"
@@ -15236,7 +15290,7 @@
       ],
       "date_added": "2023-12-12",
       "date_added_asterisk": false,
-      "date_removed": "2026-11-18",
+      "date_removed": null,
       "duration_ms": 235659,
       "name": "Sleep Walking Orchestra",
       "url": "https://open.spotify.com/track/0vMBqdJIkmflvFk728hKH7"
@@ -16814,6 +16868,24 @@
       "duration_ms": 260031,
       "name": "SweetSweet",
       "url": "https://open.spotify.com/track/7LgPH3O0HkHYo5IJBcwpTG"
+    },
+    {
+      "album": {
+        "name": "Out of the blue",
+        "url": "https://open.spotify.com/album/1vB7RWyf7qjqZlfQCfW8iX"
+      },
+      "artists": [
+        {
+          "name": "Luby Sparks",
+          "url": "https://open.spotify.com/artist/7qEdobpYOByvjiT4ux4vEq"
+        }
+      ],
+      "date_added": "2026-11-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 237888,
+      "name": "Swirling",
+      "url": "https://open.spotify.com/track/4MgpbY6YOlC3R6q6cjyqb3"
     },
     {
       "album": {
@@ -25850,6 +25922,24 @@
       "duration_ms": 201920,
       "name": "\u4e00\u9032",
       "url": "https://open.spotify.com/track/78W5EXNzK3p9Rv2pesRCiW"
+    },
+    {
+      "album": {
+        "name": "\u4e00\u9583",
+        "url": "https://open.spotify.com/album/449jOzZmpIkpgitTEt26TA"
+      },
+      "artists": [
+        {
+          "name": "MAN WITH A MISSION",
+          "url": "https://open.spotify.com/artist/3NTbOmzlj2cL86XFuDVFvZ"
+        }
+      ],
+      "date_added": "2026-11-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 244040,
+      "name": "\u4e00\u9583",
+      "url": "https://open.spotify.com/track/7anr9lo16ufKzekQpsuN7V"
     },
     {
       "album": {

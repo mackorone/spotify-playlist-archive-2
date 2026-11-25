@@ -1,12 +1,12 @@
 {
   "description": "This is Arooj Aftab. The essential tracks, all in one playlist.",
-  "num_followers": 9788,
+  "num_followers": 9790,
   "original_name": "This Is Arooj Aftab",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "awIwgAAAAADKL5+I+ExGwL30JM9oGm6v",
+  "snapshot_id": "awOCAAAAAAAwtkC4cANp/lq2ucGSP448",
   "tracks": [
     {
       "added_at": null,
@@ -311,6 +311,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Bird Under Water",
+        "url": "https://open.spotify.com/album/1NAirccLvSolVSRuDNQ61R"
+      },
+      "artists": [
+        {
+          "name": "Arooj Aftab",
+          "url": "https://open.spotify.com/artist/00JAfwtx5gNiiqyor88Dr5"
+        }
+      ],
+      "duration_ms": 340400,
+      "name": "Aey Na Balam",
+      "url": "https://open.spotify.com/track/3yqeqSvhVZBfr7Jri53Jbq"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Tails Noir (Original Game Soundtrack)",
         "url": "https://open.spotify.com/album/1fHotEKyTMFFpMCxssBoiy"
       },
@@ -327,22 +343,6 @@
       "duration_ms": 119500,
       "name": "Beyond the Smoke Screen",
       "url": "https://open.spotify.com/track/2xdoRmz28lop5nqCc4v1GC"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Bird Under Water",
-        "url": "https://open.spotify.com/album/1NAirccLvSolVSRuDNQ61R"
-      },
-      "artists": [
-        {
-          "name": "Arooj Aftab",
-          "url": "https://open.spotify.com/artist/00JAfwtx5gNiiqyor88Dr5"
-        }
-      ],
-      "duration_ms": 340400,
-      "name": "Aey Na Balam",
-      "url": "https://open.spotify.com/track/3yqeqSvhVZBfr7Jri53Jbq"
     },
     {
       "added_at": null,
@@ -755,6 +755,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Siren Islands",
+        "url": "https://open.spotify.com/album/3JXHEKcmSRlvDesUhccbDZ"
+      },
+      "artists": [
+        {
+          "name": "Arooj Aftab",
+          "url": "https://open.spotify.com/artist/00JAfwtx5gNiiqyor88Dr5"
+        }
+      ],
+      "duration_ms": 1064071,
+      "name": "Island No. 3",
+      "url": "https://open.spotify.com/track/6PUiTTMMKt4Re2xbC9kt90"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "KARPEH",
         "url": "https://open.spotify.com/album/71VLepfDo6qnAAHA0SUoyF"
       },
@@ -775,22 +791,6 @@
       "duration_ms": 197474,
       "name": "Glass Face",
       "url": "https://open.spotify.com/track/1jipF7y9D9tXnpK08W73ZK"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Siren Islands",
-        "url": "https://open.spotify.com/album/3JXHEKcmSRlvDesUhccbDZ"
-      },
-      "artists": [
-        {
-          "name": "Arooj Aftab",
-          "url": "https://open.spotify.com/artist/00JAfwtx5gNiiqyor88Dr5"
-        }
-      ],
-      "duration_ms": 1064071,
-      "name": "Island No. 3",
-      "url": "https://open.spotify.com/track/6PUiTTMMKt4Re2xbC9kt90"
     },
     {
       "added_at": null,

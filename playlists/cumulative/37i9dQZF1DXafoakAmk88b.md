@@ -4,7 +4,7 @@
 
 > New indie from black artists driving the current\. Cover: Love Spells
 
-587 songs - 1 day 7 hr 2 min
+588 songs - 1 day 7 hr 6 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -162,7 +162,7 @@
 | [Eusexua](https://open.spotify.com/track/7FdDBpqrdpWtdAromLpv4V) | [FKA twigs](https://open.spotify.com/artist/6nB0iY1cjSY1KyhYyuIIKH) | [Eusexua](https://open.spotify.com/album/79TS6ylaLCH8VRFSLhvLvj) | 4:23 | 2024-09-14 | 2026-11-24 |
 | [Even \(with Cat Burns\)](https://open.spotify.com/track/5CeJU8nNGuwR6LWUzJa5QF) | [Rachel Chinouriri](https://open.spotify.com/artist/4wrzxtBZw20ufDstKyTnnP), [Cat Burns](https://open.spotify.com/artist/6WFDpw4u23uSpon4BHvFRn) | [Even \(with Cat Burns\)](https://open.spotify.com/album/6uxqYbEgP9HE4twJFCZCIQ) | 2:31 | 2024-10-25 | 2026-11-24 |
 | [Everybody's Safe Until…](https://open.spotify.com/track/58IwEDsZJcteGZ6iZ8pmaS) | [Paris Texas](https://open.spotify.com/artist/1SCrMreNPJYSRZIlRe9SUq) | [Everybody's Safe Until…](https://open.spotify.com/album/7poRSz57XBWaG91pYjA0Bw) | 3:39 | 2023-06-16 | 2023-08-28 |
-| [Everyday](https://open.spotify.com/track/6IBD81r5jQxyUD40RPzpQF) | [Celeste](https://open.spotify.com/artist/49HlOY4gkHqsYG9GCuhkcc) | [Everyday](https://open.spotify.com/album/7rfqIJTMI65xPzjj0QA7et) | 3:40 | 2025-01-17 |  |
+| [Everyday](https://open.spotify.com/track/6IBD81r5jQxyUD40RPzpQF) | [Celeste](https://open.spotify.com/artist/49HlOY4gkHqsYG9GCuhkcc) | [Everyday](https://open.spotify.com/album/7rfqIJTMI65xPzjj0QA7et) | 3:40 | 2025-01-17 | 2026-11-25 |
 | [f\*\*k it, i'm the man](https://open.spotify.com/track/3Jq0vjC96tJlUVAdKfMajk) | [SEB](https://open.spotify.com/artist/7oPxPZSk7y5q0fhzpmX5Gi) | [f\*\*k it, i'm the man](https://open.spotify.com/album/3lT6pYJ3y8YcpMKGHQjdsj) | 2:30 | 2022-02-18 | 2023-01-19 |
 | [Fall First](https://open.spotify.com/track/575m8eKKXa0bkR6haOzVPt) | [Santigold](https://open.spotify.com/artist/6Jrxnp0JgqmeUX1veU591p) | [Spirituals](https://open.spotify.com/album/2AMcE13TUlCDdXVBlR0sdo) | 4:09 | 2022-10-03 | 2023-08-22 |
 | [Familiar](https://open.spotify.com/track/1bHjlcErAwz7qh8ME68iIR) | [Aminé](https://open.spotify.com/artist/3Gm5F95VdRxW3mqCn8RPBJ) | [Familiar](https://open.spotify.com/album/2DDhjNTlNh2tkhxwIfgrY5) | 1:47 | 2025-03-28 | 2026-01-15 |
@@ -569,6 +569,7 @@
 | [Warning Sign](https://open.spotify.com/track/3HpfHYxvRacvmEPFR9ovF7) | [Hannah Jadagu](https://open.spotify.com/artist/523ty8zP7K5cPIdenUm4bj) | [Aperture](https://open.spotify.com/album/3TqG6PvryjXqG4OplypY9A) | 3:26 | 2023-03-29 | 2023-06-08 |
 | [Warning Sign](https://open.spotify.com/track/4E76b5eScYyjahibva76Bk) | [Hannah Jadagu](https://open.spotify.com/artist/523ty8zP7K5cPIdenUm4bj) | [Warning Sign](https://open.spotify.com/album/3vJUWpd8WbFx2nCu7EfKmV) | 3:26 | 2023-03-29 | 2023-05-24 |
 | [Waterfall](https://open.spotify.com/track/2lnHmGz1KkSSw4aizcpHeo) | [SPELLLING](https://open.spotify.com/artist/7rlAAAiWScpsT1hmgURAmh) | [Portrait of My Heart](https://open.spotify.com/album/3cpbY6YDGJsTPnWTqSG2It) | 2:52 | 2025-03-28 | 2025-05-15 |
+| [Way Out](https://open.spotify.com/track/58m8vkNvKucm1ec0l5EJyc) | [stevestevesteve](https://open.spotify.com/artist/4lL9kDmkreefWNJUbYvrvf) | [Way Out](https://open.spotify.com/album/2XSHcNvl9XNCJzLhhDCOAk) | 3:20 | 2026-11-25 |  |
 | [We'll Never Be This Young Again](https://open.spotify.com/track/0cCyMQoRm3ofgJVb26APSn) | [Laila!](https://open.spotify.com/artist/7tHTnyrdTNM152slc8aQ3t) | [We'll Never Be This Young Again](https://open.spotify.com/album/6FAKkmCP208V0ubSLJ6AXl) | 2:21 | 2026-11-23 |  |
 | [Weightless](https://open.spotify.com/track/4syzriQO4gEZR61pU5FBFd) | [Arlo Parks](https://open.spotify.com/artist/4kIwETcbpuFgRukE8o7Opx) | [Weightless](https://open.spotify.com/album/6XscVw482npx8U4x0aXXyp) | 4:02 | 2023-01-18 | 2023-06-08 |
 | [whatever u like](https://open.spotify.com/track/4tv72g5KnIy4XbyDBhEFgA) | [UMI](https://open.spotify.com/artist/4ClziihVpBeFXNyDH83Lde) | [whatever u like](https://open.spotify.com/album/721LnudJW05TovLVLcSoMa) | 3:20 | 2022-06-17 | 2023-05-06 |

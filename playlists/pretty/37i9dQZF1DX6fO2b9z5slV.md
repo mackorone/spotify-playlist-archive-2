@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6fO2b9z5slV.md) - [plain]
 
 > You can't miss out on these\. Music videos only available on Premium\. Cover: Myke Towers & Rauw Alejandro
 
-[Spotify](https://open.spotify.com/user/spotify) - 299 likes - 25 songs - 1 hr 18 min
+[Spotify](https://open.spotify.com/user/spotify) - 322 likes - 25 songs - 1 hr 18 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -34,4 +34,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6fO2b9z5slV.md) - [plain]
 | 24 | [KINKY](https://open.spotify.com/track/5nzJwpQA2DiUfvNeWLp91b) | [PEDRO SAMPAIO](https://open.spotify.com/artist/5wbf52LA6kcaboHSN6NEF1), [Kenia Os](https://open.spotify.com/artist/31VFEohvhOUKrtAONEBhMG) | [KINKY](https://open.spotify.com/album/2P3o7T3rBrFKd5i8wkIssO) | 2:03 |
 | 25 | [Guacamayas ft\. Clara Vegas Goetz](https://open.spotify.com/track/1SoOaxj7Qp7eSCfjgSOxwb) | [LOS MENOR3S](https://open.spotify.com/artist/4FkBhfL2GQLkwBwV6qNhOQ) | [Guacamayas ft\. Clara Vegas Goetz](https://open.spotify.com/album/0ILmqoQ5ajcwrg5tV0wefn) | 2:55 |
 
-Snapshot ID: `AAAAAArPt/nwNJ4FiN1me9p84+IYpyUV`
+Snapshot ID: `AAAAAAbcoafls0/YLjaFG1iMh1oNYcvI`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX14rZPczlTBh.md) - [plain]
 
 > Themes to groove to from Telugu Movies!<br/><br/>Cover: Varanasi
 
-[Spotify](https://open.spotify.com/user/spotify) - 47,683 likes - 50 songs - 1 hr 44 min
+[Spotify](https://open.spotify.com/user/spotify) - 47,690 likes - 50 songs - 1 hr 45 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -23,9 +23,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX14rZPczlTBh.md) - [plain]
 | 13 | [Bujji Theme \(From "Kalki 2898 AD"\)](https://open.spotify.com/track/2zDXJrQbQW00vj3z7WX0h4) | [Santhosh Narayanan](https://open.spotify.com/artist/5FVBduYaeVBb6JIghza7v6), [Priya Ragu](https://open.spotify.com/artist/6iZTyHbQWGzpiWoyI0zz9F), [Japhna Gold](https://open.spotify.com/artist/45qODkWGC525HRSWSrkNyp) | [Bujji Theme \(From "Kalki 2898 AD"\)](https://open.spotify.com/album/2iaEp2A6I9bl62SkHYm2WZ) | 0:46 |
 | 14 | [The Arrival \(From "Varanasi"\)](https://open.spotify.com/track/2dbxZs7mhMcynrX3xsBuGH) | [M\. M\. Keeravaani](https://open.spotify.com/artist/12l1SqSNsg2mI2IcXpPWjR) | [The Arrival \(From "Varanasi"\)](https://open.spotify.com/album/77tqNdJTnM5ilKPJ4V8GeI) | 3:22 |
 | 15 | [In the Streets of Fire \(From "They Call Him OG"\)](https://open.spotify.com/track/5XPrRgrHIWUxxRa6fH2Z7Y) | [Thaman S](https://open.spotify.com/artist/2FgHPfRprDaylrSRVf1UlN), [Harsha Darivemula](https://open.spotify.com/artist/7wwMNMZtIVyNHOYXNKqQsk) | [In the Streets of Fire \(From "They Call Him OG"\)](https://open.spotify.com/album/6GaUSu3Nt2OSXNyoXGiamF) | 1:53 |
-| 16 | [Saaho \- Theme](https://open.spotify.com/track/4nspb1LG1ABlQ6eTAO4udo) | [Ghibran](https://open.spotify.com/artist/3jw2v5ZbSWBinNaECXq8cJ) | [Saaho, Vol\. 2 \(Original Background Score\)](https://open.spotify.com/album/6xRw7gpSUzP3Elh22G13Bv) | 1:26 |
+| 16 | [The Blind](https://open.spotify.com/track/1Vmq74DX8WfWIyz0odHmiS) | [B\. Ajaneesh Loknath](https://open.spotify.com/artist/3PjvC3vaZ6wh5FK6PZ4Dd5) | [Mangalavaaram \- OST](https://open.spotify.com/album/7HjFGBR2amY3WSJZXZt3o1) | 0:43 |
 | 17 | [Welcome to the Paradise](https://open.spotify.com/track/0Slil9k1FXYT2j0wNcaENf) | [Anirudh Ravichander](https://open.spotify.com/artist/4zCH9qm4R2DADamUHMCa6O), [Siddharth Basrur](https://open.spotify.com/artist/6PtoffEX0RiktNdmCeuWkl), [Heisenberg](https://open.spotify.com/artist/3bsrlEbnX8sWwXlTe80RSr) | [The Paradise \(Telugu\)](https://open.spotify.com/album/76gf9QNMKfUhnjO6J7chK9) | 3:10 |
-| 18 | [The Blind](https://open.spotify.com/track/1Vmq74DX8WfWIyz0odHmiS) | [B\. Ajaneesh Loknath](https://open.spotify.com/artist/3PjvC3vaZ6wh5FK6PZ4Dd5) | [Mangalavaaram \- OST](https://open.spotify.com/album/7HjFGBR2amY3WSJZXZt3o1) | 0:43 |
+| 18 | [Saaho \- Theme](https://open.spotify.com/track/4nspb1LG1ABlQ6eTAO4udo) | [Ghibran](https://open.spotify.com/artist/3jw2v5ZbSWBinNaECXq8cJ) | [Saaho, Vol\. 2 \(Original Background Score\)](https://open.spotify.com/album/6xRw7gpSUzP3Elh22G13Bv) | 1:26 |
 | 19 | [Desi Girl 2.0 \(Varanasi Event\)](https://open.spotify.com/track/1iteo50Gfd0ppGjlAPlNRH) | [M\. M\. Keeravaani](https://open.spotify.com/artist/12l1SqSNsg2mI2IcXpPWjR), [Lipsika Bhashyam](https://open.spotify.com/artist/21dhDPAGZuoa1M2S60hFK1), [Chaitanya Prasad](https://open.spotify.com/artist/3atkL177PZeKsF3aLyWYRf) | [Desi Girl 2.0 \(Varanasi Event\)](https://open.spotify.com/album/0LmnQpQW64JbYG6VESRi43) | 1:57 |
 | 20 | [Daaku Intro](https://open.spotify.com/track/0QN4vWb8DX4beIb17L41kY) | [Thaman S](https://open.spotify.com/artist/2FgHPfRprDaylrSRVf1UlN) | [Daaku Maharaaj \- OST](https://open.spotify.com/album/2HdQEzKxTDppNO0a6HrGvy) | 2:21 |
 | 21 | [Panjaa Titles Theme](https://open.spotify.com/track/0znGOM7mIuYsGgckd99sLh) | [Yuvan Shankar Raja](https://open.spotify.com/artist/6AiX12wXdXFoGJ2vk8zBjy) | [Panjaa OST](https://open.spotify.com/album/49Yh0sldV33hnIote5vH5e) | 1:51 |
@@ -46,7 +46,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX14rZPczlTBh.md) - [plain]
 | 36 | [Goodachari Main Theme](https://open.spotify.com/track/66pcLcrEnus8gEcbmsN4vs) | [Sricharan Pakala](https://open.spotify.com/artist/3lnECmHir8dXsqVV0QuruT) | [Goodachari](https://open.spotify.com/album/7kYmtBahBseaOVBiZQa7p5) | 2:57 |
 | 37 | [Vaishnavi Celebration Dance \(From "Baby"\)](https://open.spotify.com/track/0I053rrkNW20iX8wlvoctY) | [Vijai Bulganin](https://open.spotify.com/artist/6umn0ODoYa5UsGpswA99gx) | [Vaishnavi Celebration Dance \(From "Baby"\)](https://open.spotify.com/album/3IXz0KiwMcNuwqh4ntRakn) | 1:28 |
 | 38 | [Pushpa To Be Continued](https://open.spotify.com/track/4FAExsUfyPhBWZh40fIyrJ) | [Devi Sri Prasad](https://open.spotify.com/artist/5sSzCxHtgL82pYDvx2QyEU) | [Pushpa The Rise \- OST](https://open.spotify.com/album/64Vs6t5DycA8LzjeIGDSHk) | 1:52 |
-| 39 | [Surya's Saturday](https://open.spotify.com/track/1yPKhZYC785EHBuqddCg18) | [Jakes Bejoy](https://open.spotify.com/artist/3Q80PCEUBCiRhLSWdQApNt) | [Saripodhaa Sanivaaram \(Original Background Score\)](https://open.spotify.com/album/2ydTchXuQ19AcntlZzxhp0) | 1:22 |
+| 39 | [Yamana Dhamana](https://open.spotify.com/track/34nLhBUs9b01vJUHB0fBlI) | [Jakes Bejoy](https://open.spotify.com/artist/3Q80PCEUBCiRhLSWdQApNt) | [Saripodhaa Sanivaaram \(Original Background Score\)](https://open.spotify.com/album/2ydTchXuQ19AcntlZzxhp0) | 2:36 |
 | 40 | [Soul's Reunite](https://open.spotify.com/track/1DFbomfZEGaVDAmiSi97IR) | [Mani Sharma](https://open.spotify.com/artist/3AMxH9QIPZbK8ND8C9j4Ss) | [Athidhi \- OST](https://open.spotify.com/album/2EyiXSFf0tC6geQkFg8d0B) | 0:51 |
 | 41 | [Maa Nanna Super Hero Theme \(From "Maa Nanna Super Hero"\)](https://open.spotify.com/track/2oLLowJ2qGlV2yOuZUxSvr) | [Jay Krish](https://open.spotify.com/artist/3Yz04XcMjC097xmoo1VYob) | [Maa Nanna Super Hero Theme \(From "Maa Nanna Super Hero"\)](https://open.spotify.com/album/1Q7mJegyT3SauJqZLDLRwF) | 1:14 |
 | 42 | [Biker First Lap \- Glimpse \(From "BIKER"\)](https://open.spotify.com/track/3gKc0SULku3Zw4A1ZCAm80) | [Ghibran](https://open.spotify.com/artist/3jw2v5ZbSWBinNaECXq8cJ) | [Biker First Lap \- Glimpse \(From "BIKER"\)](https://open.spotify.com/album/2gebX5B4C0eiRJhLknFnCz) | 0:58 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX14rZPczlTBh.md) - [plain]
 | 49 | [Itlu Kanmani Announcement Theme](https://open.spotify.com/track/3UwuNDTGxZhKvgEpneC8mH) | [Praveen Sriram](https://open.spotify.com/artist/3k40nOv0gpniaMd9OsYZK6) | [Itlu Kanmani Announcement Theme](https://open.spotify.com/album/5tg9gAncqIphPnEx6MNJsn) | 1:03 |
 | 50 | [Title Glimpse \(From "BharataVarsha – Saga Of Shula"\)](https://open.spotify.com/track/1oN3V3I3ZDcae7JKXP4a62) | [Anudeep Dev](https://open.spotify.com/artist/11bBHpkCZPkktTsrXAZyql) | [Title Glimpse \(From "BharataVarsha – Saga Of Shula"\)](https://open.spotify.com/album/7h83VMmJo7RxwJNmDMckbN) | 1:04 |
 
-Snapshot ID: `AAAAALujS4kicYuvnS+Y4X+chHxrFEx/`
+Snapshot ID: `AAAAANfmIkssXp4qdbn9XWTCodZLDW54`

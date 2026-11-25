@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWU1owuN89XHr.md) - [plain]
 
 > Historias y versos que tocan la piel.
 
-[Spotify](https://open.spotify.com/user/spotify) - 296,243 likes - 100 songs - 6 hr 32 min
+[Spotify](https://open.spotify.com/user/spotify) - 296,248 likes - 100 songs - 6 hr 32 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -50,8 +50,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWU1owuN89XHr.md) - [plain]
 | 40 | [Hoy Como Ayer](https://open.spotify.com/track/2f1q9NPLts5gFxzjxQryRW) | [Alex Cuba](https://open.spotify.com/artist/7gZRUp2WL6r11PXTv309P1), [Pablo Milanés](https://open.spotify.com/artist/4vOfKh5wz7lTcdqB3EwsC5) | [Hoy Como Ayer](https://open.spotify.com/album/0VoJQbEFnbUZbwhkTxC4q4) | 4:32 |
 | 41 | [Coincidir](https://open.spotify.com/track/5dlC3IfY7JHpQhhhBWnH4P) | [Alberto Escobar](https://open.spotify.com/artist/3bZiqqT0b4rEuU0IZgspIM) | [Coincidir](https://open.spotify.com/album/42Ls1ElKBppdAbUM7aw2Vf) | 4:06 |
 | 42 | [De Vez en Cuando \- Acústica](https://open.spotify.com/track/65dCQYpdfGA1Cuj72krPov) | [Miguel Inzunza](https://open.spotify.com/artist/6BoD6RlEPXtsku4JA9rrdb), [Pavel Nuñez](https://open.spotify.com/artist/1hXeYjc99nEtjQmzp75IPN) | [De Vez en Cuando](https://open.spotify.com/album/6WgEvTz5MwBvud1zzVoETc) | 4:13 |
-| 43 | [Hasta Donde tu vayas](https://open.spotify.com/track/2xldlQfIZeDGsDztec4FkI) | [Tres de Copas](https://open.spotify.com/artist/2lCFn8Sdm6YQYmFXzrZItY) | [Tres De Copas](https://open.spotify.com/album/0KDMxNFaMvMwc58iRZul3i) | 4:14 |
-| 44 | [A Sabicas \(with Joaquín Sabina & Miguel Poveda\)](https://open.spotify.com/track/4wc6PmKBQUA1VNvrmk89Ad) | [Pedro Guerra](https://open.spotify.com/artist/2GrNjfw23jqL1NTopPlc6c), [Joaquín Sabina](https://open.spotify.com/artist/4aeIWo5CMF1uRmqgJdwkZW), [Miguel Poveda](https://open.spotify.com/artist/0BwjxWHTct80Qp5Xk7pxZj) | [14 de Ciento Volando de 14](https://open.spotify.com/album/3LsMHrpcvea3tvd3zl16DX) | 2:34 |
+| 43 | [A Sabicas \(with Joaquín Sabina & Miguel Poveda\)](https://open.spotify.com/track/4wc6PmKBQUA1VNvrmk89Ad) | [Pedro Guerra](https://open.spotify.com/artist/2GrNjfw23jqL1NTopPlc6c), [Joaquín Sabina](https://open.spotify.com/artist/4aeIWo5CMF1uRmqgJdwkZW), [Miguel Poveda](https://open.spotify.com/artist/0BwjxWHTct80Qp5Xk7pxZj) | [14 de Ciento Volando de 14](https://open.spotify.com/album/3LsMHrpcvea3tvd3zl16DX) | 2:34 |
+| 44 | [Hasta Donde tu vayas](https://open.spotify.com/track/2xldlQfIZeDGsDztec4FkI) | [Tres de Copas](https://open.spotify.com/artist/2lCFn8Sdm6YQYmFXzrZItY) | [Tres De Copas](https://open.spotify.com/album/0KDMxNFaMvMwc58iRZul3i) | 4:14 |
 | 45 | [Obsceno](https://open.spotify.com/track/5fqLZkJiVyAPWJs7oc4YC1) | [Alejandro Santiago](https://open.spotify.com/artist/7yc8RHPDlQji4ztS6pgrk0) | [Nómada](https://open.spotify.com/album/2OQpoFrcbrhVCWzjNFJF4l) | 3:32 |
 | 46 | [Destino](https://open.spotify.com/track/0Tvel29tfH38v5q9CXQC3y) | [Leiden](https://open.spotify.com/artist/6fvjP4AZ19ce4gwJSr5qnI) | [Destino](https://open.spotify.com/album/1ryt69ZHjBPDS9ytMxxh3g) | 3:25 |
 | 47 | [Ojalá](https://open.spotify.com/track/2PptHH46AdfiLRh4964cch) | [Héctor Filio](https://open.spotify.com/artist/5RUEbv1G2nJCo9vZ4tZxmj) | [Ojalá](https://open.spotify.com/album/6oMISU4bH3Bcj5XW6D0qDw) | 3:21 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWU1owuN89XHr.md) - [plain]
 | 99 | [El Manual de Lo Prohibido](https://open.spotify.com/track/4ZigeFK2QTarNLSLallsti) | [Edgar Oceransky](https://open.spotify.com/artist/6genEcweKnEZ92TZvdeLFl), [Raúl Ornelas](https://open.spotify.com/artist/3C6Jn2YYPlZoe7pBPQl845) | [Sólo / Ni Tan Sólo 2](https://open.spotify.com/album/4nB4bxKtBnl30ZhYLs6o6T) | 4:05 |
 | 100 | [Porque la Queria](https://open.spotify.com/track/4qGQMRzfi3zZRTMy5HIevR) | [Edgar Oceransky](https://open.spotify.com/artist/6genEcweKnEZ92TZvdeLFl) | [Te Seguiré](https://open.spotify.com/album/1oxsfEFwpEc1PnUYTBQpjH) | 3:39 |
 
-Snapshot ID: `AAAAAH2lU7Sp8C4QXY2VRK8GIUlw1O3t`
+Snapshot ID: `AAAAAADJUxvV8cxXiGuA7K03aiSO6vk8`

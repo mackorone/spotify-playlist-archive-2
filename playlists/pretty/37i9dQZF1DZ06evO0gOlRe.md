@@ -4,14 +4,14 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0gOlRe.md) - [plain]
 
 > This is Alexander Stewart\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 37,890 likes - 42 songs - 2 hr 4 min
+[Spotify](https://open.spotify.com/user/spotify) - 37,891 likes - 42 songs - 2 hr 4 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [Friends Don't](https://open.spotify.com/track/20sPaSqU2nGEUqEz0OkwyT) | [Alexander Stewart](https://open.spotify.com/artist/0znpFLuaey34oJTE1jHSnT), [Lauren Spencer Smith](https://open.spotify.com/artist/79AyR6ATpj2LTPxfb6FX50) | [What If?](https://open.spotify.com/album/3NQLzsml2l8kwASLKj3Av5) | 3:24 |
 | 2 | [i wish you cheated](https://open.spotify.com/track/6yCcEYC4iWqMGqOsmQV99o) | [Alexander Stewart](https://open.spotify.com/artist/0znpFLuaey34oJTE1jHSnT) | [bleeding heart](https://open.spotify.com/album/53eFX3b6OFPpKi2SEkS0au) | 3:10 |
-| 3 | [zombie](https://open.spotify.com/track/32igac7UX96WwPlOOjAGlT) | [Two Friends](https://open.spotify.com/artist/44Ewva5aHOX00EwaX2D2mh), [Alexander Stewart](https://open.spotify.com/artist/0znpFLuaey34oJTE1jHSnT), [LØLØ](https://open.spotify.com/artist/5MjcGshMggPgIHinIUDaX0) | [zombie](https://open.spotify.com/album/6lU6lWL0VEng3czSpQPstH) | 3:01 |
-| 4 | [Missing Piece](https://open.spotify.com/track/0cnx25C8BdsEEumqvzXjAF) | [Frank Walker](https://open.spotify.com/artist/6rcE30MaP92XafelMNZ2Sq), [Alexander Stewart](https://open.spotify.com/artist/0znpFLuaey34oJTE1jHSnT) | [Missing Piece](https://open.spotify.com/album/3ISKoozRNGwImVBOrOYw6R) | 2:48 |
+| 3 | [Missing Piece](https://open.spotify.com/track/0cnx25C8BdsEEumqvzXjAF) | [Frank Walker](https://open.spotify.com/artist/6rcE30MaP92XafelMNZ2Sq), [Alexander Stewart](https://open.spotify.com/artist/0znpFLuaey34oJTE1jHSnT) | [Missing Piece](https://open.spotify.com/album/3ISKoozRNGwImVBOrOYw6R) | 2:48 |
+| 4 | [zombie](https://open.spotify.com/track/32igac7UX96WwPlOOjAGlT) | [Two Friends](https://open.spotify.com/artist/44Ewva5aHOX00EwaX2D2mh), [Alexander Stewart](https://open.spotify.com/artist/0znpFLuaey34oJTE1jHSnT), [LØLØ](https://open.spotify.com/artist/5MjcGshMggPgIHinIUDaX0) | [zombie](https://open.spotify.com/album/6lU6lWL0VEng3czSpQPstH) | 3:01 |
 | 5 | [Temporary](https://open.spotify.com/track/6oe1NvIn5P8zX5HwGAU9Nr) | [Alexander Stewart](https://open.spotify.com/artist/0znpFLuaey34oJTE1jHSnT) | [Temporary](https://open.spotify.com/album/4S4a9LgBwoQPRtgLasP5Vh) | 2:34 |
 | 6 | [blame's on me](https://open.spotify.com/track/6L1kMQmgnMDtjlPKie9MQh) | [Alexander Stewart](https://open.spotify.com/artist/0znpFLuaey34oJTE1jHSnT) | [bleeding heart](https://open.spotify.com/album/53eFX3b6OFPpKi2SEkS0au) | 2:18 |
 | 7 | [echo](https://open.spotify.com/track/4rdIhBrlaAOPnlTlugZBgz) | [Alexander Stewart](https://open.spotify.com/artist/0znpFLuaey34oJTE1jHSnT) | [echo](https://open.spotify.com/album/2qd2ATRD78bQFtyYsSzxxg) | 3:18 |
@@ -25,8 +25,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0gOlRe.md) - [plain]
 | 15 | [Life at First Sight](https://open.spotify.com/track/54TAOgQWiq0jBDZ1D5F8vC) | [Alexander Stewart](https://open.spotify.com/artist/0znpFLuaey34oJTE1jHSnT) | [Life at First Sight](https://open.spotify.com/album/7pQfFjGdIT73op3XXM6G7J) | 3:21 |
 | 16 | [leave me in the dark](https://open.spotify.com/track/6ggcyYvhJCnUID8EZGQng1) | [Alexander Stewart](https://open.spotify.com/artist/0znpFLuaey34oJTE1jHSnT) | [leave me in the dark](https://open.spotify.com/album/5BGIm4ntyzoIiOYKw9SIIe) | 2:29 |
 | 17 | [day i die](https://open.spotify.com/track/6OiLEkbkyXxaDE2PXYi6js) | [Alexander Stewart](https://open.spotify.com/artist/0znpFLuaey34oJTE1jHSnT) | [bleeding heart](https://open.spotify.com/album/53eFX3b6OFPpKi2SEkS0au) | 2:55 |
-| 18 | [Every Lifetime](https://open.spotify.com/track/1Ng7KGDwVFvb07GIFWaOM3) | [Alexander Stewart](https://open.spotify.com/artist/0znpFLuaey34oJTE1jHSnT) | [Every Lifetime](https://open.spotify.com/album/2hcOXsZ8OPBtUtPdDeOh8t) | 2:41 |
-| 19 | [House of Cards](https://open.spotify.com/track/2ylh2SQbCZU56EEbra5sU6) | [Alexander Stewart](https://open.spotify.com/artist/0znpFLuaey34oJTE1jHSnT) | [House of Cards](https://open.spotify.com/album/46k7rrSYIFM6l7F5QKXSst) | 3:34 |
+| 18 | [House of Cards](https://open.spotify.com/track/2ylh2SQbCZU56EEbra5sU6) | [Alexander Stewart](https://open.spotify.com/artist/0znpFLuaey34oJTE1jHSnT) | [House of Cards](https://open.spotify.com/album/46k7rrSYIFM6l7F5QKXSst) | 3:34 |
+| 19 | [Every Lifetime](https://open.spotify.com/track/1Ng7KGDwVFvb07GIFWaOM3) | [Alexander Stewart](https://open.spotify.com/artist/0znpFLuaey34oJTE1jHSnT) | [Every Lifetime](https://open.spotify.com/album/2hcOXsZ8OPBtUtPdDeOh8t) | 2:41 |
 | 20 | [he never will](https://open.spotify.com/track/3gt3BD4A92u4nv6oS5Jkmq) | [Alexander Stewart](https://open.spotify.com/artist/0znpFLuaey34oJTE1jHSnT) | [he never will](https://open.spotify.com/album/3LRXevJN62aaXJZuxPPVJI) | 2:51 |
 | 21 | [Here Again](https://open.spotify.com/track/6M4rl0fdf1dQufWFWsFXNM) | [Alexander Stewart](https://open.spotify.com/artist/0znpFLuaey34oJTE1jHSnT) | [What If?](https://open.spotify.com/album/3NQLzsml2l8kwASLKj3Av5) | 2:45 |
 | 22 | [Backwards](https://open.spotify.com/track/0DsIoA5io9H9ViOl2YNLcR) | [Alexander Stewart](https://open.spotify.com/artist/0znpFLuaey34oJTE1jHSnT) | [Backwards](https://open.spotify.com/album/6aoNAm8yGoOu1E0ct0gsOi) | 2:52 |
@@ -51,4 +51,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0gOlRe.md) - [plain]
 | 41 | [october](https://open.spotify.com/track/65MVDci6jCmNj55alfHx3E) | [Alexander Stewart](https://open.spotify.com/artist/0znpFLuaey34oJTE1jHSnT) | [if you only knew](https://open.spotify.com/album/4b2PgBQEZbvwkKwNPlqrBy) | 2:47 |
 | 42 | [This Is Your Life](https://open.spotify.com/track/2Veh419Vk1FXpnFHHxoMzM) | [Alexander Stewart](https://open.spotify.com/artist/0znpFLuaey34oJTE1jHSnT) | [This Is Your Life](https://open.spotify.com/album/7ifRM9CmuMWh5EkjeKKaFg) | 2:36 |
 
-Snapshot ID: `awIwgAAAAAD/KT0rWYAIsXSh+nVtKmnY`
+Snapshot ID: `awOCAAAAAAABeUY88fpLsTBM4BlW2iDv`

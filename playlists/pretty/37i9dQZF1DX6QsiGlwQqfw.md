@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6QsiGlwQqfw.md) - [plain]
 
 > Instrumentals from the North Indian school of music.
 
-[Spotify](https://open.spotify.com/user/spotify) - 59,197 likes - 48 songs - 10 hr 12 min
+[Spotify](https://open.spotify.com/user/spotify) - 59,201 likes - 48 songs - 10 hr 12 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -26,8 +26,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6QsiGlwQqfw.md) - [plain]
 | 16 | [The Beginning](https://open.spotify.com/track/4BIq5SZHEJ4DEbC859nZnS) | [Rahul Sharma](https://open.spotify.com/artist/3BAOzRjHe8qlURUC3fDSTf) | [Ethereal \- Splendour of Mewar](https://open.spotify.com/album/4psBgEkC4mOMoWnoxUZPAn) | 3:36 |
 | 17 | [Raga Gauti](https://open.spotify.com/track/3ZH2BZZ4x3vt3gSz7w96tZ) | [Ustad Vilayat Khan](https://open.spotify.com/artist/1g7sP2AgbNmuDUD3qj7LVV) | [Maestro's Choice \- Vilayet Khan](https://open.spotify.com/album/4i83PHlwgynhFALhCfWeef) | 10:55 |
 | 18 | [Rachna Mishra Khamaj \(From "A Sublime Trance"\)](https://open.spotify.com/track/0qvkFBUyu1Ze5vCI5UJSSG) | [Pandit Shivkumar Sharma](https://open.spotify.com/artist/3ehCEIDusX13qf207bFKGS) | [Indian Classical Instrumental \- Pandit Shiv Kumar Sharma Special](https://open.spotify.com/album/63P7cBmEFfK72zbWGZJFtQ) | 6:21 |
-| 19 | [Raga Marwa \- Alap](https://open.spotify.com/track/4gNLtfZf390GJoNeO8T1Fl) | [Kushal Das](https://open.spotify.com/artist/1YIqdGEWAFDGcaSCtCscli) | [Inde Du Nord \- North India : Raga Marwa Surbahar](https://open.spotify.com/album/745wcG6CErNyGb0v1pE1QP) | 20:34 |
-| 20 | [Chandrakaush Alap](https://open.spotify.com/track/4hrp2BLqRV6XO2oOp5IVeY) | [Nikhil Banerjee](https://open.spotify.com/artist/7ieM2QOG3mf89WSTAfGvu1) | [Chandrakaush Khamaj 1967](https://open.spotify.com/album/4fY7XyZhcMPXyqXo5FOkh7) | 20:24 |
+| 19 | [Chandrakaush Alap](https://open.spotify.com/track/4hrp2BLqRV6XO2oOp5IVeY) | [Nikhil Banerjee](https://open.spotify.com/artist/7ieM2QOG3mf89WSTAfGvu1) | [Chandrakaush Khamaj 1967](https://open.spotify.com/album/4fY7XyZhcMPXyqXo5FOkh7) | 20:24 |
+| 20 | [Raga Marwa \- Alap](https://open.spotify.com/track/4gNLtfZf390GJoNeO8T1Fl) | [Kushal Das](https://open.spotify.com/artist/1YIqdGEWAFDGcaSCtCscli) | [Inde Du Nord \- North India : Raga Marwa Surbahar](https://open.spotify.com/album/745wcG6CErNyGb0v1pE1QP) | 20:34 |
 | 21 | [Peace & Harmony](https://open.spotify.com/track/6bMM8EO0e92d4E0XshNrB7) | [Rahul Sharma](https://open.spotify.com/artist/3BAOzRjHe8qlURUC3fDSTf) | [Ethereal \- Splendour of Mewar](https://open.spotify.com/album/4psBgEkC4mOMoWnoxUZPAn) | 2:43 |
 | 22 | [Raga Mishra Khamal: Thumri in Teentaal](https://open.spotify.com/track/6jli7CztvkqT31IxYGtHPe) | [Ram Narayan](https://open.spotify.com/artist/1PLrw4LgEWD2tFlAfnCWND), [Dilshad Khan](https://open.spotify.com/artist/2MGldsFMFcnboBIAD1okNS), [Anita Narayan](https://open.spotify.com/artist/5d8UIfE4DtivsTxqjNn1K9) | [Pt\. Ram Narayan: Sarangee Wadan](https://open.spotify.com/album/73xpfGlBt3y7UHe0YKPLI1) | 9:45 |
 | 23 | [Celebration: Raga manj khamaj](https://open.spotify.com/track/4eJ8C6nGTK7G8GtlgXpfW9) | [Anoushka Shankar](https://open.spotify.com/artist/6MTByljF8u5omBltY2VKPU), [Tanmoy Bose](https://open.spotify.com/artist/3WQoD0L9z8eoD8b0m74dPl), [Kenji Ota](https://open.spotify.com/artist/040krAnKe0UWfJkm7NBMyT) | [Home](https://open.spotify.com/album/7yzxuIjdVvqj6xbT9N7G8X) | 18:25 |
@@ -57,4 +57,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6QsiGlwQqfw.md) - [plain]
 | 47 | [Desire \(Raag Manj Khamaj\) \[Radio Edit\]](https://open.spotify.com/track/7t1FTB00MydjF7EJD0KhRa) | [Niladri Kumar](https://open.spotify.com/artist/3Qol2r2jehhR5yKbmk1Dg4) | [Desire \(Raag Manj Khamaj\) \[Radio Edit\]](https://open.spotify.com/album/0KXZo5FFkXQyKzyU0uUjSW) | 7:08 |
 | 48 | [Destiny \(Raag Hameer\)](https://open.spotify.com/track/5U6GvipM7SHVBBwuwquVAk) | [Niladri Kumar](https://open.spotify.com/artist/3Qol2r2jehhR5yKbmk1Dg4) | [Source Code](https://open.spotify.com/album/1SrVH7RjPaypnRRtihURmo) | 18:41 |
 
-Snapshot ID: `AAAAAIioY8RJv+fe3YnoxJ5eMHTMMCVn`
+Snapshot ID: `AAAAADZCK76udFtfVQ8HuRijAGLgT9YV`

@@ -4,7 +4,7 @@
 
 > Tropical nature sounds for bedtime.
 
-174 songs - 10 hr 18 min
+174 songs - 10 hr 19 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -19,7 +19,7 @@
 | [Borneo Jungle Oasis For Deep Sleep With Nature Sound](https://open.spotify.com/track/3BzfDBrjyvLLyDnhTynkOM) | [Relax Meditate Sleep](https://open.spotify.com/artist/2IPb9AuHE98BU4s8gbOk30) | [Relaxing Nature Sounds](https://open.spotify.com/album/7zVNlLfb6CSgCe5AMDhc74) | 6:00 | 2021-12-22 | 2022-07-29 |
 | [Breathe In The Forest](https://open.spotify.com/track/0mlUW1sZLOlLSy6XetboEZ) | [Amida Nature Sounds](https://open.spotify.com/artist/6ouSV6Bg58MfXLmO7daZiK) | [Brazilian Wood Therapy](https://open.spotify.com/album/4QnmfbrXHv2xQpsiCmXNT7) | 1:46 | 2023-02-20 | 2023-06-21 |
 | [Calm Night Jungle](https://open.spotify.com/track/4B7V783QPTkmXegMMFzJEE) | [Natural Song](https://open.spotify.com/artist/3ztSSZCBD8e03TBMqPTQF3) | [Calm Night Jungle](https://open.spotify.com/album/06mgWn0cxtum3yNeSCekF0) | 2:31 | 2025-11-11 |  |
-| [Calming Creek](https://open.spotify.com/track/5R113kfoXvoFBlIPpUUuRd) | [EFX Mirelight](https://open.spotify.com/artist/1xC1qS9lztnzURXtrrXFuv) | [Calm Green Wave Sounds](https://open.spotify.com/album/6bx52OyqGSwW8oCpooPjTT) | 1:44 | 2026-04-02 |  |
+| [Calming Creek](https://open.spotify.com/track/5R113kfoXvoFBlIPpUUuRd) | [EFX Mirelight](https://open.spotify.com/artist/1xC1qS9lztnzURXtrrXFuv) | [Calm Green Wave Sounds](https://open.spotify.com/album/6bx52OyqGSwW8oCpooPjTT) | 2:17 | 2026-04-02 |  |
 | [Calming Water Noise](https://open.spotify.com/track/0X7LWNqMNDZTG3mWg1tmAK) | [Amsonia Star](https://open.spotify.com/artist/3qlVZpNlhxCVf5xIuDd7kL) | [Calming Water Noise](https://open.spotify.com/album/0cOplbgtR7MRa1zUJf3Sck) | 2:45 | 2026-04-02 |  |
 | [Camping In the Forest \- \(Rain & Birds\)](https://open.spotify.com/track/0R2cDyGhOpTSl7Feeu4Zs6) | [Wide Noise HD](https://open.spotify.com/artist/2W6Z4GQCDaktUWbXP8huax) | [Cabin Rain, Crickets and Birds](https://open.spotify.com/album/4mmbBrhNanIweSk6vAqdf6) | 2:19 | 2025-11-11 | 2026-04-03 |
 | [Catching the Wild](https://open.spotify.com/track/6YEz0RELNHzC4NyxGahieP) | [Djunjo](https://open.spotify.com/artist/1DWBwafhEN1i2zYG6r05Au) | [Below the Tree Crowns](https://open.spotify.com/album/6WpLLecUsmYisQNQpJcU6A) | 3:32 | 2023-02-20 |  |
@@ -181,6 +181,6 @@
 | [Wild Forest Sleep](https://open.spotify.com/track/6yWZXCybu8fGOVOJo1mr6N) | [Oerwoud](https://open.spotify.com/artist/5nQ9HpkiXvRUN30EJpkj29) | [Orchid Stories](https://open.spotify.com/album/3pIBo72s3vU0JhwV80Am5V) | 2:58 | 2023-02-20 | 2026-04-03 |
 | [Wildlife Storm \(Nature\)](https://open.spotify.com/track/2qqME0ZRyHJjCkfNWZpnOC) | [Earth Alliance](https://open.spotify.com/artist/4u2F224Db72rESovXGKNGZ) | [Pieces of Paradise \(Nature\)](https://open.spotify.com/album/2DLSPTlBNC8o12gNrRN8mQ) | 2:04 | 2023-02-20 |  |
 | [Wind and the Crickets](https://open.spotify.com/track/3b2byusKjShwrcNTpPGFJ2) | [Natural Song](https://open.spotify.com/artist/3ztSSZCBD8e03TBMqPTQF3) | [Wind and the Crickets](https://open.spotify.com/album/0N9Fr3RD0HBSrXwhfL8if9) | 6:00 | 2025-11-11 |  |
-| [Wind My Waterfall](https://open.spotify.com/track/5v7R6BktiMgdeBfTfy8Sqy) | [El Tiempo Central](https://open.spotify.com/artist/2jrgRXoeKU9D8qrOcnS9fZ) | [Noise of Green](https://open.spotify.com/album/3Wb2WiFkdvJMoAu4BS46YL) | 1:56 | 2026-04-02 |  |
+| [Wind My Waterfall](https://open.spotify.com/track/5v7R6BktiMgdeBfTfy8Sqy) | [El Tiempo Central](https://open.spotify.com/artist/2jrgRXoeKU9D8qrOcnS9fZ) | [Noise of Green](https://open.spotify.com/album/3Wb2WiFkdvJMoAu4BS46YL) | 2:22 | 2026-04-02 |  |
 
 \*This playlist was first scraped on 2021-12-30. Prior content cannot be recovered.

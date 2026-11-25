@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZEVXbKzoK95AbRy9.md) - [plain]
 
 > Your weekly update of the most played tracks right now \- Brazil.
 
-[Spotify](https://open.spotify.com/user/spotify) - 249,497 likes - 50 songs - 2 hr 47 min
+[Spotify](https://open.spotify.com/user/spotify) - 249,512 likes - 50 songs - 2 hr 47 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZEVXbKzoK95AbRy9.md) - [plain]
 | 49 | [Beatriz](https://open.spotify.com/track/3RDv5uDgHJS8wBdPkoCXUF) | [2ZDinizz](https://open.spotify.com/artist/13zmjclMwzz8kIxRrN7JOV), [Leborato](https://open.spotify.com/artist/22YKiuRdkpMJ0yKO550zIq), [HHR](https://open.spotify.com/artist/6KHnECmT9Nn73k1tKs62Wu) | [Beatriz](https://open.spotify.com/album/4ShDsc9HALU5W3i0l8rLup) | 4:07 |
 | 50 | [Posso Até Não Te Dar Flores](https://open.spotify.com/track/4tYCyoSpv0Ujpfwcneb02l) | [DJ Japa NK](https://open.spotify.com/artist/1bpnl8qbR9GxmiNlkEufW6), [MC Meno K](https://open.spotify.com/artist/1CbQrKvCpEnekM3QMGJtXK), [MC Ryan SP](https://open.spotify.com/artist/75i9GaW2MJUgt4BkdUnuUY), [Mc Jacaré](https://open.spotify.com/artist/6qrqAYlS6lUj2BVXax7SZW), [DJ DAVI DOGDOG](https://open.spotify.com/artist/5ffbqOCrcxCejQ7oqfWXm9) | [Posso Até Não Te Dar Flores](https://open.spotify.com/album/33n7tqtuoOf2t3ENdixO7B) | 2:42 |
 
-Snapshot ID: `Mpf+KAAAAAAAAAAAAAAAAAAAAAAAAGVu`
+Snapshot ID: `Mpk6kAAAAAAAAAAAAAAAAAAAAAAAAGVu`

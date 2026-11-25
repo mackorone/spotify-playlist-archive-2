@@ -1,12 +1,12 @@
 {
   "description": "The biggest dance floor bangers of the 2010s. ",
-  "num_followers": 533844,
+  "num_followers": 533834,
   "original_name": "Dance Hits 2010s",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAADZ2R19lAYos5FODP39kfdosHl5C",
+  "snapshot_id": "AAAAAEBqtBcyeGYIG/48ULoF0Uk9jblu",
   "tracks": [
     {
       "added_at": "2023-08-25 09:30:35",
@@ -143,22 +143,18 @@
     {
       "added_at": "2023-08-25 09:30:35",
       "album": {
-        "name": "At Night, Alone.",
-        "url": "https://open.spotify.com/album/6Phl1V5P0sPrWJytXHGFeO"
+        "name": "Cheese",
+        "url": "https://open.spotify.com/album/4kEbcH3VT6NYfpv8Wkkk80"
       },
       "artists": [
         {
-          "name": "Mike Posner",
-          "url": "https://open.spotify.com/artist/2KsP6tYLJlTBvSUxnwlVWa"
-        },
-        {
-          "name": "Seeb",
-          "url": "https://open.spotify.com/artist/5iNrZmtVMtYev5M9yoWpEq"
+          "name": "Stromae",
+          "url": "https://open.spotify.com/artist/5j4HeCoUlzhfWtjAfM1acR"
         }
       ],
-      "duration_ms": 197933,
-      "name": "I Took A Pill In Ibiza - Seeb Remix",
-      "url": "https://open.spotify.com/track/0vbtURX4qv1l7besfwmnD8"
+      "duration_ms": 206066,
+      "name": "Alors on danse - Radio Edit",
+      "url": "https://open.spotify.com/track/2GYHyAoLWpkxLVa4oYTVko"
     },
     {
       "added_at": "2023-08-25 09:30:35",
@@ -179,18 +175,22 @@
     {
       "added_at": "2023-08-25 09:30:35",
       "album": {
-        "name": "Cheese",
-        "url": "https://open.spotify.com/album/4kEbcH3VT6NYfpv8Wkkk80"
+        "name": "At Night, Alone.",
+        "url": "https://open.spotify.com/album/6Phl1V5P0sPrWJytXHGFeO"
       },
       "artists": [
         {
-          "name": "Stromae",
-          "url": "https://open.spotify.com/artist/5j4HeCoUlzhfWtjAfM1acR"
+          "name": "Mike Posner",
+          "url": "https://open.spotify.com/artist/2KsP6tYLJlTBvSUxnwlVWa"
+        },
+        {
+          "name": "Seeb",
+          "url": "https://open.spotify.com/artist/5iNrZmtVMtYev5M9yoWpEq"
         }
       ],
-      "duration_ms": 206066,
-      "name": "Alors on danse - Radio Edit",
-      "url": "https://open.spotify.com/track/2GYHyAoLWpkxLVa4oYTVko"
+      "duration_ms": 197933,
+      "name": "I Took A Pill In Ibiza - Seeb Remix",
+      "url": "https://open.spotify.com/track/0vbtURX4qv1l7besfwmnD8"
     },
     {
       "added_at": "2023-08-25 09:30:35",
@@ -1663,22 +1663,6 @@
     {
       "added_at": "2023-08-25 09:30:35",
       "album": {
-        "name": "REMEDY",
-        "url": "https://open.spotify.com/album/0LOJHhz9ybWLVMLucHYtCe"
-      },
-      "artists": [
-        {
-          "name": "Alesso",
-          "url": "https://open.spotify.com/artist/4AVFqumd2ogHFlRbKIjp1t"
-        }
-      ],
-      "duration_ms": 190295,
-      "name": "REMEDY",
-      "url": "https://open.spotify.com/track/6jreFSOTUAViWjKyzOC4Kg"
-    },
-    {
-      "added_at": "2023-08-25 09:30:35",
-      "album": {
         "name": "Blood, Sweat & 3 Years",
         "url": "https://open.spotify.com/album/0KQDN58Lz8CXOsfIG6tQ7X"
       },
@@ -1695,6 +1679,22 @@
       "duration_ms": 205078,
       "name": "Take Me Home (feat. Bebe Rexha)",
       "url": "https://open.spotify.com/track/7L59vVTpoS94JU3KEeolqt"
+    },
+    {
+      "added_at": "2023-08-25 09:30:35",
+      "album": {
+        "name": "REMEDY",
+        "url": "https://open.spotify.com/album/0LOJHhz9ybWLVMLucHYtCe"
+      },
+      "artists": [
+        {
+          "name": "Alesso",
+          "url": "https://open.spotify.com/artist/4AVFqumd2ogHFlRbKIjp1t"
+        }
+      ],
+      "duration_ms": 190295,
+      "name": "REMEDY",
+      "url": "https://open.spotify.com/track/6jreFSOTUAViWjKyzOC4Kg"
     },
     {
       "added_at": "2023-08-25 09:30:35",

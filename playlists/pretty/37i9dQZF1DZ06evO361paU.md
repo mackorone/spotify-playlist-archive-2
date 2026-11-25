@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO361paU.md) - [plain]
 
 > This is Lenny Kravitz\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 300,977 likes - 50 songs - 3 hr 38 min
+[Spotify](https://open.spotify.com/user/spotify) - 300,995 likes - 50 songs - 3 hr 38 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO361paU.md) - [plain]
 | 49 | [Paralyzed](https://open.spotify.com/track/3q44HY8PBUSUVFuy8Uboxh) | [Lenny Kravitz](https://open.spotify.com/artist/5gznATMVO85ZcLTkE9ULU7) | [Blue Electric Light](https://open.spotify.com/album/33i9bBiL7PuwD5hEG9GoUi) | 4:28 |
 | 50 | [I Love The Rain](https://open.spotify.com/track/47RSWbQooWdHFrwIZCVyy9) | [Lenny Kravitz](https://open.spotify.com/artist/5gznATMVO85ZcLTkE9ULU7) | [It Is Time For A Love Revolution](https://open.spotify.com/album/5ugsV4BRJytwgevWeJnJAB) | 4:43 |
 
-Snapshot ID: `awIwgAAAAACcQAB3ay6Ds+icISMmAp5i`
+Snapshot ID: `awOCAAAAAAD4IsRWG8pMtDhMxsbYICXQ`

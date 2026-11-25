@@ -4,7 +4,7 @@
 
 > The best NCS songs that are copyright free and safe music for gaming, live streaming, studying\. Official playlist from NoCopyrightSounds\. Cover: Don Diablo
 
-2,486 songs - 5 day 11 hr 42 min
+2,487 songs - 5 day 11 hr 47 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -1201,6 +1201,7 @@
 | [Legends](https://open.spotify.com/track/0LMLxZRrYesbvqekYrkz7R) | [Star Party](https://open.spotify.com/artist/2VXRxdCCHHajU61ohOXnO1) | [Legends](https://open.spotify.com/album/6QN7NuUMmce9PX6AU3UWDi) | 2:37 | 2026-11-22 |  |
 | [Let Go](https://open.spotify.com/track/0hDaKYsiOvAnZPxAIGxrmq) | [Conro](https://open.spotify.com/artist/1BAdSa5cdtCNLbvT7gWmtJ) | [Let Go](https://open.spotify.com/album/53MP6iUg5uw3OFWwY32cGR) | 3:01 | 2025-05-20 |  |
 | [Let Go](https://open.spotify.com/track/3dtK7SED1vjv1evAISs9i4) | [Dropouts](https://open.spotify.com/artist/73LLIt54z9hmjZJm81yPrC) | [Let Go](https://open.spotify.com/album/5XddR4m43ZI2igZDpHkCrh) | 4:24 | 2026-11-22 |  |
+| [let it go](https://open.spotify.com/track/2hEGhvanCinqXiRwsEf11y) | [SELECTA](https://open.spotify.com/artist/4hJiR8Hpw6MoamcjjetuSH) | [let it go](https://open.spotify.com/album/2RdoC0yRqoWekTHxVOHsA6) | 4:43 | 2026-11-24 |  |
 | [Let Me Go](https://open.spotify.com/track/6y92sFvtV3kAYlE2fujI0z) | [Almost Weekend](https://open.spotify.com/artist/6FCDyfws4NWiy6eQbZR40O), [Max Vermeulen](https://open.spotify.com/artist/35V85QUB0dxx7I4Q6AAc5w), [Jimmy Rivler](https://open.spotify.com/artist/2VcGBf5YDWgKpQedSvx58i) | [Let Me Go](https://open.spotify.com/album/2hFM48dAJpm3gshql5sPkL) | 2:40 | 2026-11-22 |  |
 | [Let Me Go](https://open.spotify.com/track/1gXjrDp5SYunHXUyOEIDJk) | [More Plastic](https://open.spotify.com/artist/2pTv3pLM9Cw3tblbBHOAzN) | [Let Me Go](https://open.spotify.com/album/1j7TQZMuZfy01ji1m6l53U) | 3:08 | 2026-11-22 |  |
 | [Let Me In](https://open.spotify.com/track/4VjJJgxcf8OH2ynhc4Kkbe) | [Andromedik](https://open.spotify.com/artist/7miXLG9boDOGHJaEelSL7T) | [Let Me In](https://open.spotify.com/album/1BTK5ICchySVTwiqgEtAd4) | 3:48 | 2026-11-22 |  |

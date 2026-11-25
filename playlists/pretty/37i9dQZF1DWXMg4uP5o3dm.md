@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXMg4uP5o3dm.md) - [plain]
 
 > alternative meets electronic.
 
-[Spotify](https://open.spotify.com/user/spotify) - 502,582 likes - 100 songs - 5 hr 19 min
+[Spotify](https://open.spotify.com/user/spotify) - 502,607 likes - 100 songs - 5 hr 19 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -58,10 +58,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXMg4uP5o3dm.md) - [plain]
 | 48 | [Monster](https://open.spotify.com/track/6RwiFA2a6b8xICdSi4wUqk) | [PVRIS](https://open.spotify.com/artist/6oFs3qk4VepIVFdoD4jmsy) | [Monster](https://open.spotify.com/album/6amlnVgJTGqQNnAwP7fOfL) | 2:58 |
 | 49 | [Self Destruction Mode](https://open.spotify.com/track/05e1CoIPmXLy6aPBotZlTZ) | [The Chainsmokers](https://open.spotify.com/artist/69GGBxA162lTqCwzJG5jLp), [bludnymph](https://open.spotify.com/artist/7GwwoezwdbKvUaNgtg51pX) | [Self Destruction Mode](https://open.spotify.com/album/2freNDhR5KMLOUVIKZExtd) | 2:27 |
 | 50 | [Back from the Dead](https://open.spotify.com/track/19bWcmH61AXuZqRjmLyBcZ) | [Besomorph](https://open.spotify.com/artist/619CzMJPPWrCeZwx5qw6ko), [AViVA](https://open.spotify.com/artist/50tDsT4wwq8FCMJNkn1D67), [Neoni](https://open.spotify.com/artist/38wxcfNEqMwuPniHvplin5) | [Back from the Dead](https://open.spotify.com/album/0CjoPYfnPVGQ3KCen5uuku) | 2:59 |
-| 51 | [Loving You](https://open.spotify.com/track/5m5THqRa6jHwKYLMWp2DEW) | [Cannons](https://open.spotify.com/artist/7FtCyCJCJaxabYO7Uyda5B) | [Loving You](https://open.spotify.com/album/3SiKtT1GsVNunfic2eXkzx) | 3:14 |
-| 52 | [Nightmare](https://open.spotify.com/track/64A7qQZGMqYBOVKloPox8i) | [BAYBE](https://open.spotify.com/artist/22pi3Gv6sRxirhwCARETnS) | [Nightmare](https://open.spotify.com/album/0JnLJpn7HyNTPMAbQDAB3E) | 2:26 |
-| 53 | [Sunshine](https://open.spotify.com/track/4ChYzD2AahSZSSSevWrrbw) | [MOD SUN](https://open.spotify.com/artist/3u2R8st1bb6zfBqNWceRXG) | [Sunshine](https://open.spotify.com/album/2q59WbPEzBKEVJlKkh4Rp1) | 2:18 |
-| 54 | [BOO HOO](https://open.spotify.com/track/72JlIpEVjdNwFtffVJP2kK) | [Neoni](https://open.spotify.com/artist/38wxcfNEqMwuPniHvplin5), [RIELL](https://open.spotify.com/artist/0xD6n0wj7aqV5g5LcRNBUd) | [BOO HOO](https://open.spotify.com/album/340DkD2ALkoIfq553m5lgl) | 2:50 |
+| 51 | [Nightmare](https://open.spotify.com/track/64A7qQZGMqYBOVKloPox8i) | [BAYBE](https://open.spotify.com/artist/22pi3Gv6sRxirhwCARETnS) | [Nightmare](https://open.spotify.com/album/0JnLJpn7HyNTPMAbQDAB3E) | 2:26 |
+| 52 | [Loving You](https://open.spotify.com/track/5m5THqRa6jHwKYLMWp2DEW) | [Cannons](https://open.spotify.com/artist/7FtCyCJCJaxabYO7Uyda5B) | [Loving You](https://open.spotify.com/album/3SiKtT1GsVNunfic2eXkzx) | 3:14 |
+| 53 | [BOO HOO](https://open.spotify.com/track/72JlIpEVjdNwFtffVJP2kK) | [Neoni](https://open.spotify.com/artist/38wxcfNEqMwuPniHvplin5), [RIELL](https://open.spotify.com/artist/0xD6n0wj7aqV5g5LcRNBUd) | [BOO HOO](https://open.spotify.com/album/340DkD2ALkoIfq553m5lgl) | 2:50 |
+| 54 | [Sunshine](https://open.spotify.com/track/4ChYzD2AahSZSSSevWrrbw) | [MOD SUN](https://open.spotify.com/artist/3u2R8st1bb6zfBqNWceRXG) | [Sunshine](https://open.spotify.com/album/2q59WbPEzBKEVJlKkh4Rp1) | 2:18 |
 | 55 | [KULT \(feat\. Jasiah\)](https://open.spotify.com/track/22ya9ZSp7FxhcgFLALm0eS) | [Steve Aoki](https://open.spotify.com/artist/77AiFEVeAVj2ORpC85QVJs), [grandson](https://open.spotify.com/artist/4ZgQDCtRqZlhLswVS6MHN4), [Jasiah](https://open.spotify.com/artist/7502fDxg339jvGV08Jd4R0) | [KULT \(feat\. Jasiah\)](https://open.spotify.com/album/0OxOw42tYvwBMV2MVCWLKl) | 2:57 |
 | 56 | [Distorted Light Beam](https://open.spotify.com/track/7bREivF1RTm0vOYB2wi7nE) | [Bastille](https://open.spotify.com/artist/7EQ0qTo7fWT7DPxmxtSYEc) | [Distorted Light Beam](https://open.spotify.com/album/5FnEu6Hpo6dZ8qIp3BX5Bz) | 2:57 |
 | 57 | [ASHAMED](https://open.spotify.com/track/2olEwF2igUG4f2eooVChni) | [HEALTH](https://open.spotify.com/artist/6FfjnGXMhxSsJTuGLWBDth) | [RAT WARS](https://open.spotify.com/album/6tkuHFo0hTGGkWEGjdKOjz) | 3:01 |
@@ -82,8 +82,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXMg4uP5o3dm.md) - [plain]
 | 72 | [Over You](https://open.spotify.com/track/036QOmnlr52hgeH1WmQ5OB) | [Chet Faker](https://open.spotify.com/artist/6UcJxoeHWWWyT5HZP064om) | [Over You](https://open.spotify.com/album/2hhs7vyNgPFe0J8FI7HcJk) | 4:44 |
 | 73 | [BELIEVE](https://open.spotify.com/track/2VpyqzXj9ZGTSy2JVkVD2z) | [NEFFEX](https://open.spotify.com/artist/3z97WMRi731dCvKklIf2X6) | [BELIEVE](https://open.spotify.com/album/0BvaFK2hTZ13TeTFkPEdHK) | 2:36 |
 | 74 | [Dreamstate](https://open.spotify.com/track/5Gggw8WykNhnZsYExUVYxy) | [Rezz](https://open.spotify.com/artist/4aKdmOXdUKX07HVd3sGgzw), [Tim Henson](https://open.spotify.com/artist/2cMK99GYN2qw5buZecbKH4), [Silverstein](https://open.spotify.com/artist/1Tsag5J854qxeOo2apszug) | [IT'S NOT A PHASE](https://open.spotify.com/album/5etGhl198ycQOkK4mt8B1w) | 3:12 |
-| 75 | [Palm Reader](https://open.spotify.com/track/729lI4P82NDXNQljBDmkmU) | [DREAMERS](https://open.spotify.com/artist/1FgsVeOhRYuSw2ghkIXV0A), [Big Boi](https://open.spotify.com/artist/2ht3wxeT69CzyKFChNnNAB), [UPSAHL](https://open.spotify.com/artist/1294QqYm1VuxxjRiL9M0h9) | [Palm Reader](https://open.spotify.com/album/1QQRNBDVBOA4uomdDG2MxZ) | 3:00 |
-| 76 | [come around](https://open.spotify.com/track/4ghFfl5uKi45yybjTniMeJ) | [Omri](https://open.spotify.com/artist/2Lku5fIu2jo19qXhz82Qio) | [come around](https://open.spotify.com/album/2ZRUYAxTyymZaYKvPhXATs) | 3:39 |
+| 75 | [come around](https://open.spotify.com/track/4ghFfl5uKi45yybjTniMeJ) | [Omri](https://open.spotify.com/artist/2Lku5fIu2jo19qXhz82Qio) | [come around](https://open.spotify.com/album/2ZRUYAxTyymZaYKvPhXATs) | 3:39 |
+| 76 | [Palm Reader](https://open.spotify.com/track/729lI4P82NDXNQljBDmkmU) | [DREAMERS](https://open.spotify.com/artist/1FgsVeOhRYuSw2ghkIXV0A), [Big Boi](https://open.spotify.com/artist/2ht3wxeT69CzyKFChNnNAB), [UPSAHL](https://open.spotify.com/artist/1294QqYm1VuxxjRiL9M0h9) | [Palm Reader](https://open.spotify.com/album/1QQRNBDVBOA4uomdDG2MxZ) | 3:00 |
 | 77 | [Sailboat \(feat\. chloe moriondo\)](https://open.spotify.com/track/6Mr6xOUz5beVAGwOS31NkA) | [Cavetown](https://open.spotify.com/artist/2hR4h1Cao2ueuI7Cx9c7V8), [chloe moriondo](https://open.spotify.com/artist/3P4vW5tzQvmuoNaFQqzy9q) | [Sailboat \(feat\. chloe moriondo\)](https://open.spotify.com/album/60THqqLuqBeheWV1eda4im) | 3:00 |
 | 78 | [Same](https://open.spotify.com/track/5B1xsEG0hVZZETedxzTXrY) | [Kyd the Band](https://open.spotify.com/artist/0NHArXVgYnHIxtWGIS7xWS) | [Same](https://open.spotify.com/album/5xnwqBkujlYam87TmsD6qe) | 3:15 |
 | 79 | [When You & Me Dance](https://open.spotify.com/track/0rHp9fr5I0LBaK2szxKgms) | [Grabbitz](https://open.spotify.com/artist/4fv1OFJywZ7DHCz3mVQQ45) | [When You & Me Dance](https://open.spotify.com/album/5nlEUq9BStiziYyP1z5bkd) | 3:41 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXMg4uP5o3dm.md) - [plain]
 | 99 | [i’ve left my body](https://open.spotify.com/track/7f7GRJ5KnqQyjlI9SxLCnm) | [RJ Pasin](https://open.spotify.com/artist/3BTY807ipaaT6QHW1tHTt0), [ivri](https://open.spotify.com/artist/5EjK7aUvQ9LMNqc2zXiWLS), [Nextime](https://open.spotify.com/artist/6Kwqn9ZUZvG9lz4InvATNj) | [The Indomitable Human Spirit](https://open.spotify.com/album/0b2X0hMvpZJRKItQIqdDcd) | 2:12 |
 | 100 | [Upgrade](https://open.spotify.com/track/0kr277qNoo4QBUDjzPiSe2) | [TWIN XL](https://open.spotify.com/artist/4OkceeWNJehKqXINqtVeX1), [DREAMERS](https://open.spotify.com/artist/1FgsVeOhRYuSw2ghkIXV0A) | [Upgrade](https://open.spotify.com/album/3VgubxrPPu5lXCPJzXLFp7) | 2:41 |
 
-Snapshot ID: `AAAAAE24uqv9Mgr7pCDushonZMqWDQVK`
+Snapshot ID: `AAAAADbKAJ9Y1sqNykruUbmhwXZrO6OP`

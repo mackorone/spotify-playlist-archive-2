@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7ROOw5S4Xdq.md) - [plain]
 
 > Ouça os últimos lançamentos da música Cristã\. Foto: Anderson Freire
 
-[Spotify](https://open.spotify.com/user/spotify) - 385,628 likes - 50 songs - 4 hr 28 min
+[Spotify](https://open.spotify.com/user/spotify) - 385,649 likes - 50 songs - 4 hr 28 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -35,7 +35,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7ROOw5S4Xdq.md) - [plain]
 | 25 | [Eu Sei](https://open.spotify.com/track/2ZvaM3tZY4guvVSgcVZUNv) | [Padre Anderson Gomes](https://open.spotify.com/artist/7uu8kCXv4FlL0ZRJ013yw9), [Thiago Brado](https://open.spotify.com/artist/7nhFPRuBTebusd2cBMAaEK) | [Eu Sei](https://open.spotify.com/album/7BGpUsZhEKy0hmPU8EkUsp) | 4:33 |
 | 26 | [Caminho no Deserto \- Ao Vivo](https://open.spotify.com/track/2npTv9jGbyVZXGluLAqn72) | [Gabriel Brito](https://open.spotify.com/artist/4LXMmTqllPBxNh4msJMYCm) | [Caminho no Deserto \(Ao Vivo\)](https://open.spotify.com/album/7G2bNlyR4s2sFbr6Qou8b5) | 5:23 |
 | 27 | [De Repente \- Ao Vivo](https://open.spotify.com/track/7cHJD473jY68eZgstd28kX) | [Get Worship](https://open.spotify.com/artist/5ZynjHkFMZINvXZm7DD4Yp), [Ana Macedo](https://open.spotify.com/artist/3A3xzctmM5WqtpJ0am3zRI), [Get Records](https://open.spotify.com/artist/1CYUWfGfCUbH4AfbK6NG67) | [De Repente \(Ao Vivo\)](https://open.spotify.com/album/5coxXyOdOZ4Iu4YfGmpEUP) | 8:41 |
-| 28 | [Me socorre Deus](https://open.spotify.com/track/4xo5kbjFJFQ7IrI4DgkhUc) | [Na Glória De Deus](https://open.spotify.com/artist/3ZmDG2LnmYyYCHdbSrNrUa), [Pagode Restaura](https://open.spotify.com/artist/57XFcSi83RxJN7TiOiIs5C) | [Me socorre Deus](https://open.spotify.com/album/3veIk8tgKCbSzwXz6yjlJ8) | 4:12 |
+| 28 | [Me socorre Deus](https://open.spotify.com/track/4xo5kbjFJFQ7IrI4DgkhUc) | [Na Glória De Deus](https://open.spotify.com/artist/3ZmDG2LnmYyYCHdbSrNrUa), [Pagode Restaura](https://open.spotify.com/artist/0lI4gA9gi9blo58ckkV0K4) | [Me socorre Deus](https://open.spotify.com/album/3veIk8tgKCbSzwXz6yjlJ8) | 4:12 |
 | 29 | [Totalmente Dependente](https://open.spotify.com/track/4vwsV33SRn9sp81wQ1TqJM) | [Hiago Klayton](https://open.spotify.com/artist/2XcKlKmIFaf5AoOpfrvC6m), [ CGM \- Central Gospel Music](https://open.spotify.com/artist/0w3McsbWl0CdYnJ9SOruUq) | [Totalmente Dependente](https://open.spotify.com/album/5VUeY2sDCiG9nPPTPIAFpf) | 5:07 |
 | 30 | [Apocalipse 5 \- Ao Vivo](https://open.spotify.com/track/1wC1NZe86ogIX7rXC6jPZN) | [Burn Music](https://open.spotify.com/artist/61883OldEIWMHWrexEpCGH), [Gabi Sampaio](https://open.spotify.com/artist/1mwuQroxtrC6ANU2Jwb8ZQ), [Mateus Brito](https://open.spotify.com/artist/12sMRxeNux6TB0Kz1rVcLN) | [Apocalipse 5 \(Ao Vivo\)](https://open.spotify.com/album/5SrmCkCXv7oIUWR1Sd5VAi) | 6:50 |
 | 31 | [Gratidão \- Ao Vivo](https://open.spotify.com/track/6XBc5Xn1SWrRv3YsCB7FyY) | [Luiza Possi](https://open.spotify.com/artist/46P1tvf6evAk5wk2Rg3jOq) | [Gratidão \(Ao Vivo\)](https://open.spotify.com/album/0Je90syojSegXiDxgmA631) | 7:02 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7ROOw5S4Xdq.md) - [plain]
 | 49 | [Fornalha Aquecida \(Ao Vivo\)](https://open.spotify.com/track/4gqujkulvZjaBJ8lcMUhTW) | [Sophia Vitória](https://open.spotify.com/artist/47neBS9tvIdGta1S3aq08v) | [Fornalha Aquecida \(Ao Vivo\)](https://open.spotify.com/album/6zinFtazi3MT602Ffntk3A) | 4:02 |
 | 50 | [Eu Proclamo Jesus](https://open.spotify.com/track/1Ym10f5DUzjTfP6efvs5BG) | [Marianna Goes](https://open.spotify.com/artist/1R9EKfsx0KKM7M0M7Cz8gf) | [Eu Proclamo Jesus](https://open.spotify.com/album/6Dom5vKXTjhWq5LbqMMbg6) | 4:48 |
 
-Snapshot ID: `AAAAAAdUJbiOHfdO1uRrZsnERUO+CYhd`
+Snapshot ID: `AAAAAL+H0I2DUuVe+dy7+Q8H5EZ12MkR`

@@ -1,12 +1,12 @@
 {
   "description": "This is Whitney Houston. The essential tracks, all in one playlist.",
-  "num_followers": 645799,
+  "num_followers": 645817,
   "original_name": "This Is Whitney Houston",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "awIwgAAAAACsd6VChytGYZhWTjSzAaID",
+  "snapshot_id": "awOCAAAAAABBi9+7JDU8LEwsd47IT2yw",
   "tracks": [
     {
       "added_at": null,
@@ -263,8 +263,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "The Bodyguard - Original Soundtrack Album",
-        "url": "https://open.spotify.com/album/7JVJlkNNobS0GSoy4tCS96"
+        "name": "I Wish You Love: More From The Bodyguard",
+        "url": "https://open.spotify.com/album/3qEUTNGTeDXwYwSl3v2hNV"
       },
       "artists": [
         {
@@ -272,9 +272,9 @@
           "url": "https://open.spotify.com/artist/6XpaIBNiVzIetEPCWDvAFP"
         }
       ],
-      "duration_ms": 285106,
-      "name": "I'm Every Woman",
-      "url": "https://open.spotify.com/track/2eHj0klWkwRQuIrNlPpCPa"
+      "duration_ms": 274696,
+      "name": "I Will Always Love You - Film Version",
+      "url": "https://open.spotify.com/track/6XQz4HwNIQZ652JFa7putY"
     },
     {
       "added_at": null,
@@ -295,8 +295,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "I Wish You Love: More From The Bodyguard",
-        "url": "https://open.spotify.com/album/3qEUTNGTeDXwYwSl3v2hNV"
+        "name": "The Bodyguard - Original Soundtrack Album",
+        "url": "https://open.spotify.com/album/7JVJlkNNobS0GSoy4tCS96"
       },
       "artists": [
         {
@@ -304,9 +304,9 @@
           "url": "https://open.spotify.com/artist/6XpaIBNiVzIetEPCWDvAFP"
         }
       ],
-      "duration_ms": 274696,
-      "name": "I Will Always Love You - Film Version",
-      "url": "https://open.spotify.com/track/6XQz4HwNIQZ652JFa7putY"
+      "duration_ms": 285106,
+      "name": "I'm Every Woman",
+      "url": "https://open.spotify.com/track/2eHj0klWkwRQuIrNlPpCPa"
     },
     {
       "added_at": null,

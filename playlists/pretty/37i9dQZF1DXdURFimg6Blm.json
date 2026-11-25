@@ -1,12 +1,12 @@
 {
   "description": "Boost your energy with these dance tracks.",
-  "num_followers": 1488450,
+  "num_followers": 1488488,
   "original_name": "Beast Mode Dance",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAIAO7hVmjDSrk7acL9zGpdPzFVxc",
+  "snapshot_id": "AAAAAIF1xbq6jvUKQX7QsWhZgSX88GU4",
   "tracks": [
     {
       "added_at": "2026-11-20 05:01:31",
@@ -187,6 +187,26 @@
     {
       "added_at": "2026-11-20 05:01:31",
       "album": {
+        "name": "Fancy Footwork",
+        "url": "https://open.spotify.com/album/1alVbRjUS3mG2Uk2D6iflR"
+      },
+      "artists": [
+        {
+          "name": "Chris Lorenzo",
+          "url": "https://open.spotify.com/artist/7tm9Tuc70geXOOyKhtZHIj"
+        },
+        {
+          "name": "Chromeo",
+          "url": "https://open.spotify.com/artist/2mV8aJphiSHYJf43DxL7Gt"
+        }
+      ],
+      "duration_ms": 192195,
+      "name": "Fancy Footwork",
+      "url": "https://open.spotify.com/track/0BK6ACxpzK8nkWa3YKuunX"
+    },
+    {
+      "added_at": "2026-11-20 05:01:31",
+      "album": {
         "name": "WOR$T GIRL IN AMERICA",
         "url": "https://open.spotify.com/album/5siV9C6eK0NpAqER2FfCVA"
       },
@@ -219,26 +239,6 @@
       "duration_ms": 163888,
       "name": "Can I Ride",
       "url": "https://open.spotify.com/track/3gXGtYT41b4FXYctdxMwCI"
-    },
-    {
-      "added_at": "2026-11-20 05:01:31",
-      "album": {
-        "name": "Fancy Footwork",
-        "url": "https://open.spotify.com/album/1alVbRjUS3mG2Uk2D6iflR"
-      },
-      "artists": [
-        {
-          "name": "Chris Lorenzo",
-          "url": "https://open.spotify.com/artist/7tm9Tuc70geXOOyKhtZHIj"
-        },
-        {
-          "name": "Chromeo",
-          "url": "https://open.spotify.com/artist/2mV8aJphiSHYJf43DxL7Gt"
-        }
-      ],
-      "duration_ms": 192195,
-      "name": "Fancy Footwork",
-      "url": "https://open.spotify.com/track/0BK6ACxpzK8nkWa3YKuunX"
     },
     {
       "added_at": "2026-11-20 05:01:31",
@@ -735,26 +735,18 @@
     {
       "added_at": "2026-11-20 05:01:31",
       "album": {
-        "name": "World Away",
-        "url": "https://open.spotify.com/album/6k2I7QkXRPlWzylh7UsFIx"
+        "name": "Rave Never Ends",
+        "url": "https://open.spotify.com/album/6JMks2UYqlFiOQPPZK8rfX"
       },
       "artists": [
         {
-          "name": "Gryffin",
-          "url": "https://open.spotify.com/artist/2ZRQcIgzPCVaT9XKhXZIzh"
-        },
-        {
-          "name": "BUNT.",
-          "url": "https://open.spotify.com/artist/2CpLIMBoE2ZzyY3ZBCRZ7j"
-        },
-        {
-          "name": "In\u00e9z",
-          "url": "https://open.spotify.com/artist/6zBax4hSAI1BJYgwF61EP5"
+          "name": "Novah",
+          "url": "https://open.spotify.com/artist/7qvjUtp2ccRD9AiDnukyFF"
         }
       ],
-      "duration_ms": 187686,
-      "name": "World Away",
-      "url": "https://open.spotify.com/track/3GfBcRN3VaIa52Q6MsavH0"
+      "duration_ms": 207870,
+      "name": "Rave Never Ends",
+      "url": "https://open.spotify.com/track/3A5vAVf6MabbZnfC662cdn"
     },
     {
       "added_at": "2026-11-20 05:01:31",
@@ -783,18 +775,26 @@
     {
       "added_at": "2026-11-20 05:01:31",
       "album": {
-        "name": "Rave Never Ends",
-        "url": "https://open.spotify.com/album/6JMks2UYqlFiOQPPZK8rfX"
+        "name": "World Away",
+        "url": "https://open.spotify.com/album/6k2I7QkXRPlWzylh7UsFIx"
       },
       "artists": [
         {
-          "name": "Novah",
-          "url": "https://open.spotify.com/artist/7qvjUtp2ccRD9AiDnukyFF"
+          "name": "Gryffin",
+          "url": "https://open.spotify.com/artist/2ZRQcIgzPCVaT9XKhXZIzh"
+        },
+        {
+          "name": "BUNT.",
+          "url": "https://open.spotify.com/artist/2CpLIMBoE2ZzyY3ZBCRZ7j"
+        },
+        {
+          "name": "In\u00e9z",
+          "url": "https://open.spotify.com/artist/6zBax4hSAI1BJYgwF61EP5"
         }
       ],
-      "duration_ms": 207870,
-      "name": "Rave Never Ends",
-      "url": "https://open.spotify.com/track/3A5vAVf6MabbZnfC662cdn"
+      "duration_ms": 187686,
+      "name": "World Away",
+      "url": "https://open.spotify.com/track/3GfBcRN3VaIa52Q6MsavH0"
     },
     {
       "added_at": "2026-11-20 05:01:31",
@@ -883,6 +883,30 @@
     {
       "added_at": "2026-11-20 05:01:31",
       "album": {
+        "name": "MYSTERY OF RAW",
+        "url": "https://open.spotify.com/album/4bIsm7G40iX21BGY567Xaw"
+      },
+      "artists": [
+        {
+          "name": "Michael Bibi",
+          "url": "https://open.spotify.com/artist/4cvdQRyHmkSQSakUrW2oxv"
+        },
+        {
+          "name": "KETTAMA",
+          "url": "https://open.spotify.com/artist/3an9rnsXKPCAMlZgH4A0n4"
+        },
+        {
+          "name": "Wu-Tang Clan",
+          "url": "https://open.spotify.com/artist/34EP7KEpOjXcM2TCat1ISk"
+        }
+      ],
+      "duration_ms": 228923,
+      "name": "MYSTERY OF RAW",
+      "url": "https://open.spotify.com/track/2v4NP088R6LUgFBDF9JqBg"
+    },
+    {
+      "added_at": "2026-11-20 05:01:31",
+      "album": {
         "name": "Baby",
         "url": "https://open.spotify.com/album/4MbyPhOldP6NLm1CZf8Oxo"
       },
@@ -915,30 +939,6 @@
       "duration_ms": 169323,
       "name": "Got To Do",
       "url": "https://open.spotify.com/track/3JGVhjbPvMdxKqDE7NDJEK"
-    },
-    {
-      "added_at": "2026-11-20 05:01:31",
-      "album": {
-        "name": "MYSTERY OF RAW",
-        "url": "https://open.spotify.com/album/4bIsm7G40iX21BGY567Xaw"
-      },
-      "artists": [
-        {
-          "name": "Michael Bibi",
-          "url": "https://open.spotify.com/artist/4cvdQRyHmkSQSakUrW2oxv"
-        },
-        {
-          "name": "KETTAMA",
-          "url": "https://open.spotify.com/artist/3an9rnsXKPCAMlZgH4A0n4"
-        },
-        {
-          "name": "Wu-Tang Clan",
-          "url": "https://open.spotify.com/artist/34EP7KEpOjXcM2TCat1ISk"
-        }
-      ],
-      "duration_ms": 228923,
-      "name": "MYSTERY OF RAW",
-      "url": "https://open.spotify.com/track/2v4NP088R6LUgFBDF9JqBg"
     },
     {
       "added_at": "2026-11-20 05:01:31",
@@ -1015,26 +1015,6 @@
     {
       "added_at": "2026-11-20 05:01:31",
       "album": {
-        "name": "Make You Fight",
-        "url": "https://open.spotify.com/album/5mAR9SiDOEYuO4sHZwXBtK"
-      },
-      "artists": [
-        {
-          "name": "Chris Lake",
-          "url": "https://open.spotify.com/artist/5Igpc9iLZ3YGtKeYfSrrOE"
-        },
-        {
-          "name": "ATRIP",
-          "url": "https://open.spotify.com/artist/4fu0Er7pG6kZZa7Awf3NMI"
-        }
-      ],
-      "duration_ms": 175899,
-      "name": "Make You Fight",
-      "url": "https://open.spotify.com/track/5di9ztnBe0d2qim9ngmiMD"
-    },
-    {
-      "added_at": "2026-11-20 05:01:31",
-      "album": {
         "name": "COOK",
         "url": "https://open.spotify.com/album/1mgSGruu0KTcdCW9eY3ikP"
       },
@@ -1051,6 +1031,26 @@
       "duration_ms": 170243,
       "name": "COOK",
       "url": "https://open.spotify.com/track/4H2rI43vuXJuUrRIMxknzA"
+    },
+    {
+      "added_at": "2026-11-20 05:01:31",
+      "album": {
+        "name": "Make You Fight",
+        "url": "https://open.spotify.com/album/5mAR9SiDOEYuO4sHZwXBtK"
+      },
+      "artists": [
+        {
+          "name": "Chris Lake",
+          "url": "https://open.spotify.com/artist/5Igpc9iLZ3YGtKeYfSrrOE"
+        },
+        {
+          "name": "ATRIP",
+          "url": "https://open.spotify.com/artist/4fu0Er7pG6kZZa7Awf3NMI"
+        }
+      ],
+      "duration_ms": 175899,
+      "name": "Make You Fight",
+      "url": "https://open.spotify.com/track/5di9ztnBe0d2qim9ngmiMD"
     },
     {
       "added_at": "2026-11-20 05:01:31",
@@ -1203,22 +1203,6 @@
     {
       "added_at": "2026-11-20 05:01:31",
       "album": {
-        "name": "I\u2019m your girl right?",
-        "url": "https://open.spotify.com/album/5zYYpY4O9KUtwnHx3jcNAX"
-      },
-      "artists": [
-        {
-          "name": "Tove Lo",
-          "url": "https://open.spotify.com/artist/4NHQUGzhtTLFvgF5SZesLK"
-        }
-      ],
-      "duration_ms": 169059,
-      "name": "I\u2019m your girl right?",
-      "url": "https://open.spotify.com/track/6rYyqOyyw9bgugmqUaoehR"
-    },
-    {
-      "added_at": "2026-11-20 05:01:31",
-      "album": {
         "name": "No Air",
         "url": "https://open.spotify.com/album/2VFS1Gyx1f9abu19Nf7kRd"
       },
@@ -1235,6 +1219,22 @@
       "duration_ms": 197241,
       "name": "No Air",
       "url": "https://open.spotify.com/track/5MHzqBhWNta6P2jqws2CbA"
+    },
+    {
+      "added_at": "2026-11-20 05:01:31",
+      "album": {
+        "name": "I\u2019m your girl right?",
+        "url": "https://open.spotify.com/album/5zYYpY4O9KUtwnHx3jcNAX"
+      },
+      "artists": [
+        {
+          "name": "Tove Lo",
+          "url": "https://open.spotify.com/artist/4NHQUGzhtTLFvgF5SZesLK"
+        }
+      ],
+      "duration_ms": 169059,
+      "name": "I\u2019m your girl right?",
+      "url": "https://open.spotify.com/track/6rYyqOyyw9bgugmqUaoehR"
     },
     {
       "added_at": "2026-11-20 05:01:31",
@@ -1335,26 +1335,6 @@
     {
       "added_at": "2026-11-20 05:01:31",
       "album": {
-        "name": "Wide Awake",
-        "url": "https://open.spotify.com/album/6BguZq2rejbft6NBT95dBe"
-      },
-      "artists": [
-        {
-          "name": "CHRIS STASSY",
-          "url": "https://open.spotify.com/artist/3BxjasMelf9pKaE4f7Y0So"
-        },
-        {
-          "name": "Tom Did It",
-          "url": "https://open.spotify.com/artist/3EoEOfPPbvev26JtNAXEdJ"
-        }
-      ],
-      "duration_ms": 256901,
-      "name": "Wide Awake",
-      "url": "https://open.spotify.com/track/0ScBO3EflBAKRC1WjOyJT1"
-    },
-    {
-      "added_at": "2026-11-20 05:01:31",
-      "album": {
         "name": "All I Need Is Somebody",
         "url": "https://open.spotify.com/album/2YM4BEDJeuB6qJ67BClxGg"
       },
@@ -1375,6 +1355,26 @@
       "duration_ms": 165338,
       "name": "All I Need Is Somebody",
       "url": "https://open.spotify.com/track/6FiKm0uMPClvM0Tb1s6Bt9"
+    },
+    {
+      "added_at": "2026-11-20 05:01:31",
+      "album": {
+        "name": "Wide Awake",
+        "url": "https://open.spotify.com/album/6BguZq2rejbft6NBT95dBe"
+      },
+      "artists": [
+        {
+          "name": "CHRIS STASSY",
+          "url": "https://open.spotify.com/artist/3BxjasMelf9pKaE4f7Y0So"
+        },
+        {
+          "name": "Tom Did It",
+          "url": "https://open.spotify.com/artist/3EoEOfPPbvev26JtNAXEdJ"
+        }
+      ],
+      "duration_ms": 256901,
+      "name": "Wide Awake",
+      "url": "https://open.spotify.com/track/0ScBO3EflBAKRC1WjOyJT1"
     },
     {
       "added_at": "2026-11-20 05:01:31",
@@ -1459,6 +1459,26 @@
     {
       "added_at": "2026-11-20 05:01:31",
       "album": {
+        "name": "B.O.B.",
+        "url": "https://open.spotify.com/album/6GyAj12htrIhQNoFeAUGuN"
+      },
+      "artists": [
+        {
+          "name": "Subtronics",
+          "url": "https://open.spotify.com/artist/3NJ94iuAmmMjbszODYT6pO"
+        },
+        {
+          "name": "Crankdat",
+          "url": "https://open.spotify.com/artist/5lCekoJW9jNq01B1wiqdAb"
+        }
+      ],
+      "duration_ms": 123983,
+      "name": "B.O.B.",
+      "url": "https://open.spotify.com/track/4eu2C1zMf5wjOlbhBtua5n"
+    },
+    {
+      "added_at": "2026-11-20 05:01:31",
+      "album": {
         "name": "Better Off (Alone, Pt. III)",
         "url": "https://open.spotify.com/album/1eQk5l0bTQPg2w8knqu6NS"
       },
@@ -1483,30 +1503,6 @@
     {
       "added_at": "2026-11-20 05:01:31",
       "album": {
-        "name": "Take You There",
-        "url": "https://open.spotify.com/album/4EdMwpLJIKhipUrX5tdaGk"
-      },
-      "artists": [
-        {
-          "name": "Odd Mob",
-          "url": "https://open.spotify.com/artist/4qLwtWhlhyAoQ4S9mSrDW9"
-        },
-        {
-          "name": "OMNOM",
-          "url": "https://open.spotify.com/artist/3PYRXP25JcbqhvNaJYcnWy"
-        },
-        {
-          "name": "HYPERBEAM",
-          "url": "https://open.spotify.com/artist/1b4DIAooTye6qmHHYRck9n"
-        }
-      ],
-      "duration_ms": 172500,
-      "name": "Take You There",
-      "url": "https://open.spotify.com/track/0TlJ9h0O9wJeda51rW9ktj"
-    },
-    {
-      "added_at": "2026-11-20 05:01:31",
-      "album": {
         "name": "To The Front",
         "url": "https://open.spotify.com/album/0Soq75XwHqXGTgReaqVCtr"
       },
@@ -1527,22 +1523,26 @@
     {
       "added_at": "2026-11-20 05:01:31",
       "album": {
-        "name": "B.O.B.",
-        "url": "https://open.spotify.com/album/6GyAj12htrIhQNoFeAUGuN"
+        "name": "Take You There",
+        "url": "https://open.spotify.com/album/4EdMwpLJIKhipUrX5tdaGk"
       },
       "artists": [
         {
-          "name": "Subtronics",
-          "url": "https://open.spotify.com/artist/3NJ94iuAmmMjbszODYT6pO"
+          "name": "Odd Mob",
+          "url": "https://open.spotify.com/artist/4qLwtWhlhyAoQ4S9mSrDW9"
         },
         {
-          "name": "Crankdat",
-          "url": "https://open.spotify.com/artist/5lCekoJW9jNq01B1wiqdAb"
+          "name": "OMNOM",
+          "url": "https://open.spotify.com/artist/3PYRXP25JcbqhvNaJYcnWy"
+        },
+        {
+          "name": "HYPERBEAM",
+          "url": "https://open.spotify.com/artist/1b4DIAooTye6qmHHYRck9n"
         }
       ],
-      "duration_ms": 123983,
-      "name": "B.O.B.",
-      "url": "https://open.spotify.com/track/4eu2C1zMf5wjOlbhBtua5n"
+      "duration_ms": 172500,
+      "name": "Take You There",
+      "url": "https://open.spotify.com/track/0TlJ9h0O9wJeda51rW9ktj"
     },
     {
       "added_at": "2026-11-20 05:01:31",
@@ -1647,6 +1647,26 @@
     {
       "added_at": "2026-11-20 05:01:31",
       "album": {
+        "name": "Here, Forever",
+        "url": "https://open.spotify.com/album/2Ulg9K7ts7BP2nApQQrJf6"
+      },
+      "artists": [
+        {
+          "name": "MPH",
+          "url": "https://open.spotify.com/artist/62SCu33InHVq97VaWw3eof"
+        },
+        {
+          "name": "IRAH",
+          "url": "https://open.spotify.com/artist/17fY0VRyqRgmqI3dHlE1UU"
+        }
+      ],
+      "duration_ms": 184897,
+      "name": "Break Ya Neck",
+      "url": "https://open.spotify.com/track/65f7oyUrmKCKtb9cErD0Bp"
+    },
+    {
+      "added_at": "2026-11-20 05:01:31",
+      "album": {
         "name": "Don't Worry Baby",
         "url": "https://open.spotify.com/album/1F3Ph8gHm2aCnMJbNvmo5f"
       },
@@ -1663,30 +1683,6 @@
       "duration_ms": 207272,
       "name": "Don't Worry Baby",
       "url": "https://open.spotify.com/track/0uFffwji3muqn5MEe7hiYw"
-    },
-    {
-      "added_at": "2026-11-20 05:01:31",
-      "album": {
-        "name": "Dracula (with JENNIE) [Boys Noize Disko Version]",
-        "url": "https://open.spotify.com/album/3SjpreHDixSfXNxVNJDU0s"
-      },
-      "artists": [
-        {
-          "name": "Tame Impala",
-          "url": "https://open.spotify.com/artist/5INjqkS1o8h1imAzPqGZBb"
-        },
-        {
-          "name": "JENNIE",
-          "url": "https://open.spotify.com/artist/250b0Wlc5Vk0CoUsaCY84M"
-        },
-        {
-          "name": "Boys Noize",
-          "url": "https://open.spotify.com/artist/62k5LKMhymqlDNo2DWOvvv"
-        }
-      ],
-      "duration_ms": 240318,
-      "name": "Dracula (with JENNIE) - Boys Noize Disko Version",
-      "url": "https://open.spotify.com/track/53AnN5mzvc62M1KOT45ffl"
     },
     {
       "added_at": "2026-11-20 05:01:31",
@@ -1731,6 +1727,30 @@
     {
       "added_at": "2026-11-20 05:01:31",
       "album": {
+        "name": "Dracula (with JENNIE) [Boys Noize Disko Version]",
+        "url": "https://open.spotify.com/album/3SjpreHDixSfXNxVNJDU0s"
+      },
+      "artists": [
+        {
+          "name": "Tame Impala",
+          "url": "https://open.spotify.com/artist/5INjqkS1o8h1imAzPqGZBb"
+        },
+        {
+          "name": "JENNIE",
+          "url": "https://open.spotify.com/artist/250b0Wlc5Vk0CoUsaCY84M"
+        },
+        {
+          "name": "Boys Noize",
+          "url": "https://open.spotify.com/artist/62k5LKMhymqlDNo2DWOvvv"
+        }
+      ],
+      "duration_ms": 240318,
+      "name": "Dracula (with JENNIE) - Boys Noize Disko Version",
+      "url": "https://open.spotify.com/track/53AnN5mzvc62M1KOT45ffl"
+    },
+    {
+      "added_at": "2026-11-20 05:01:31",
+      "album": {
         "name": "The Way I Are (Max Dean Remix)",
         "url": "https://open.spotify.com/album/2PGg01PDpfS5pJqUj7iaEj"
       },
@@ -1755,26 +1775,6 @@
       "duration_ms": 183953,
       "name": "The Way I Are - Max Dean Remix",
       "url": "https://open.spotify.com/track/1hl81ThWpsoVYylBPaWedn"
-    },
-    {
-      "added_at": "2026-11-20 05:01:31",
-      "album": {
-        "name": "Here, Forever",
-        "url": "https://open.spotify.com/album/2Ulg9K7ts7BP2nApQQrJf6"
-      },
-      "artists": [
-        {
-          "name": "MPH",
-          "url": "https://open.spotify.com/artist/62SCu33InHVq97VaWw3eof"
-        },
-        {
-          "name": "IRAH",
-          "url": "https://open.spotify.com/artist/17fY0VRyqRgmqI3dHlE1UU"
-        }
-      ],
-      "duration_ms": 184897,
-      "name": "Break Ya Neck",
-      "url": "https://open.spotify.com/track/65f7oyUrmKCKtb9cErD0Bp"
     },
     {
       "added_at": "2026-11-20 05:01:31",
@@ -1875,18 +1875,22 @@
     {
       "added_at": "2026-11-20 05:01:31",
       "album": {
-        "name": "Electrify",
-        "url": "https://open.spotify.com/album/2BllKa75Mt0XF59p9xd0bs"
+        "name": "Follow",
+        "url": "https://open.spotify.com/album/7wIlJaB1s21YFwKkMBlDY0"
       },
       "artists": [
         {
-          "name": "Eli Brown",
-          "url": "https://open.spotify.com/artist/5lVNSw2GPci8kebrAQpZqU"
+          "name": "Mathame",
+          "url": "https://open.spotify.com/artist/6QSwQEz8CDMg8Rqk8dEkxS"
+        },
+        {
+          "name": "Bonn",
+          "url": "https://open.spotify.com/artist/7Io0XduXk7aOHFHA7sLru2"
         }
       ],
-      "duration_ms": 156428,
-      "name": "Electrify",
-      "url": "https://open.spotify.com/track/6GqRZMF2nCtYakIrnkpith"
+      "duration_ms": 226976,
+      "name": "Follow",
+      "url": "https://open.spotify.com/track/4xqKh9ZcFLssHKQWtnj6jl"
     },
     {
       "added_at": "2026-11-20 05:01:31",
@@ -1907,22 +1911,18 @@
     {
       "added_at": "2026-11-20 05:01:31",
       "album": {
-        "name": "Follow",
-        "url": "https://open.spotify.com/album/7wIlJaB1s21YFwKkMBlDY0"
+        "name": "Electrify",
+        "url": "https://open.spotify.com/album/2BllKa75Mt0XF59p9xd0bs"
       },
       "artists": [
         {
-          "name": "Mathame",
-          "url": "https://open.spotify.com/artist/6QSwQEz8CDMg8Rqk8dEkxS"
-        },
-        {
-          "name": "Bonn",
-          "url": "https://open.spotify.com/artist/7Io0XduXk7aOHFHA7sLru2"
+          "name": "Eli Brown",
+          "url": "https://open.spotify.com/artist/5lVNSw2GPci8kebrAQpZqU"
         }
       ],
-      "duration_ms": 226976,
-      "name": "Follow",
-      "url": "https://open.spotify.com/track/4xqKh9ZcFLssHKQWtnj6jl"
+      "duration_ms": 156428,
+      "name": "Electrify",
+      "url": "https://open.spotify.com/track/6GqRZMF2nCtYakIrnkpith"
     },
     {
       "added_at": "2026-11-20 05:01:31",
@@ -1987,22 +1987,6 @@
     {
       "added_at": "2026-11-20 05:01:31",
       "album": {
-        "name": "Addicted",
-        "url": "https://open.spotify.com/album/3BxfwMC0HjWxk7muzxUqyk"
-      },
-      "artists": [
-        {
-          "name": "Jackie Hollander",
-          "url": "https://open.spotify.com/artist/5ykY9Uweo3gl5VFpb6z6pQ"
-        }
-      ],
-      "duration_ms": 163384,
-      "name": "Addicted",
-      "url": "https://open.spotify.com/track/14yugoFdkgO8ZUxLlX6fpJ"
-    },
-    {
-      "added_at": "2026-11-20 05:01:31",
-      "album": {
         "name": "BASS DOWN LOW",
         "url": "https://open.spotify.com/album/3ETPAwPRfnD3RafGRa93qL"
       },
@@ -2019,6 +2003,22 @@
       "duration_ms": 139285,
       "name": "BASS DOWN LOW",
       "url": "https://open.spotify.com/track/4SfmfGdmkNKaAehfaJNBLI"
+    },
+    {
+      "added_at": "2026-11-20 05:01:31",
+      "album": {
+        "name": "Addicted",
+        "url": "https://open.spotify.com/album/3BxfwMC0HjWxk7muzxUqyk"
+      },
+      "artists": [
+        {
+          "name": "Jackie Hollander",
+          "url": "https://open.spotify.com/artist/5ykY9Uweo3gl5VFpb6z6pQ"
+        }
+      ],
+      "duration_ms": 163384,
+      "name": "Addicted",
+      "url": "https://open.spotify.com/track/14yugoFdkgO8ZUxLlX6fpJ"
     },
     {
       "added_at": "2026-11-20 05:01:31",

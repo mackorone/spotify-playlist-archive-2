@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2vTOtsQ5Isl.md) - [plain]
 
 > Gorące nowości i przeboje od światowych gwiazd muzyki pop\. Cover: Dua Lipa
 
-[Spotify](https://open.spotify.com/user/spotify) - 211,589 likes - 65 songs - 3 hr 30 min
+[Spotify](https://open.spotify.com/user/spotify) - 211,722 likes - 65 songs - 3 hr 30 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -74,4 +74,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2vTOtsQ5Isl.md) - [plain]
 | 64 | [You’re Under Arrest](https://open.spotify.com/track/0pMoUGdpD8nupNP1mSdZUn) | [ILLIT](https://open.spotify.com/artist/36cgvBn0aadzOijnjjwqMN) | [BREAK EVEN](https://open.spotify.com/album/4xYpXVSKqRTsL3ucRd8EMM) | 3:01 |
 | 65 | [hey boyyy](https://open.spotify.com/track/02q72hZq4Ds2pWiBrK8HZo) | [Slayyyter](https://open.spotify.com/artist/4QM5QCHicznALtX885CnZC) | [hey boyyy](https://open.spotify.com/album/7K9T4t0Oj0Ho8CR6Rq7hga) | 4:38 |
 
-Snapshot ID: `AAAAAFnWW+PRDNDEx28RjOXZqzQ9SizK`
+Snapshot ID: `AAAAAJXZc06EjsYwbJmzfLUClGLRV+O5`

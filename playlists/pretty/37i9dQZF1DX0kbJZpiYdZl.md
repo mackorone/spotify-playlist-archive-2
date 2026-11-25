@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0kbJZpiYdZl.md) - [plain]
 
 > The hottest tracks in the United States\. Cover: Ashe
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,577,789 likes - 49 songs - 2 hr 44 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,577,815 likes - 49 songs - 2 hr 44 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -58,4 +58,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0kbJZpiYdZl.md) - [plain]
 | 48 | [onsra](https://open.spotify.com/track/3nUc6KLhePNoS66kBcSlDH) | [comehelpglo](https://open.spotify.com/artist/5Z9nWuFMEQ97O7ixur2c8l) | [whos whybie?](https://open.spotify.com/album/2h6EUXGfXSFPa39Rp1Eqhl) | 2:11 |
 | 49 | [Animal](https://open.spotify.com/track/3ouNEk0tv5TTi8VWMe1xbX) | [KATSEYE](https://open.spotify.com/artist/3c0gDdb9lhnHGFtP4prQpn) | [Animal](https://open.spotify.com/album/3ybCwWDhYDt2GYSCYFiF83) | 2:38 |
 
-Snapshot ID: `AAAAADcla0GbVAmmrb3/Kgs/23ABkj7I`
+Snapshot ID: `AAAAAM7rAzdxCjXrPThunLzC9B7DRdJx`

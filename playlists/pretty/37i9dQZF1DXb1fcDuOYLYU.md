@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXb1fcDuOYLYU.md) - [plain]
 
 > These are the talented women of Latin music\. Cover: AKRIILA
 
-[Spotify](https://open.spotify.com/user/spotify) - 135,146 likes - 100 songs - 5 hr 29 min
+[Spotify](https://open.spotify.com/user/spotify) - 135,154 likes - 100 songs - 5 hr 29 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -19,8 +19,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXb1fcDuOYLYU.md) - [plain]
 | 9 | [Me Voy](https://open.spotify.com/track/100Tm6z29RfHTdUQ6NIs0s) | [Julieta Venegas](https://open.spotify.com/artist/2QWIScpFDNxmS6ZEMIUvgm) | [Limon Y Sal](https://open.spotify.com/album/1YhHEtOj1mhMz0769Fqa9Q) | 3:07 |
 | 10 | [Hasta la Raíz](https://open.spotify.com/track/3lGMtkONrZdJ8kTCg6KIFf) | [Natalia Lafourcade](https://open.spotify.com/artist/1hcdI2N1023RvSwLzTtdsp) | [Hasta la Raíz \(Edición Especial\)](https://open.spotify.com/album/0Kww7Dpo0uSxtOiiFTvyCv) | 3:41 |
 | 11 | [MATADORA](https://open.spotify.com/track/04d5HlcQX6zH5MMqffXOon) | [KAROL G](https://open.spotify.com/artist/790FomKkXshlbRYZFtlgla) | [NO ME ARREPIENTO DE SENTIR TANTO](https://open.spotify.com/album/7a0lnWtCz0eW15WsWu3dHQ) | 2:24 |
-| 12 | [Soltera](https://open.spotify.com/track/3OJDtCdYs8QJnui708tEU3) | [Shakira](https://open.spotify.com/artist/0EmeFodog0BfCgMzAIvKQp) | [Soltera](https://open.spotify.com/album/0VRb8B2ls0GDEfmKiL8FWJ) | 3:34 |
-| 13 | [Disfruto](https://open.spotify.com/track/50WkRwFR0BAo6If7GtXnA8) | [Carla Morrison](https://open.spotify.com/artist/0XK6kT7xcZAlcYrNjOgzJe) | [Déjenme Llorar](https://open.spotify.com/album/3PMiqyeyog96N8A8GpDVJY) | 4:04 |
+| 12 | [Disfruto](https://open.spotify.com/track/50WkRwFR0BAo6If7GtXnA8) | [Carla Morrison](https://open.spotify.com/artist/0XK6kT7xcZAlcYrNjOgzJe) | [Déjenme Llorar](https://open.spotify.com/album/3PMiqyeyog96N8A8GpDVJY) | 4:04 |
+| 13 | [Soltera](https://open.spotify.com/track/3OJDtCdYs8QJnui708tEU3) | [Shakira](https://open.spotify.com/artist/0EmeFodog0BfCgMzAIvKQp) | [Soltera](https://open.spotify.com/album/0VRb8B2ls0GDEfmKiL8FWJ) | 3:34 |
 | 14 | [MAMIII](https://open.spotify.com/track/7FlQk2gJ6TBrHHiidvdR2O) | [Becky G](https://open.spotify.com/artist/4obzFoKoKRHIphyHzJ35G3), [KAROL G](https://open.spotify.com/artist/790FomKkXshlbRYZFtlgla) | [ESQUEMAS](https://open.spotify.com/album/7eC4wtMG1I2Jtk4FDWbkKC) | 3:46 |
 | 15 | [DESPECHÁ](https://open.spotify.com/track/53tfEupEzQRtVFOeZvk7xq) | [ROSALÍA](https://open.spotify.com/artist/7ltDVBr6mKbRvohxheJ9h1) | [MOTOMAMI +](https://open.spotify.com/album/3zbiiu3JTibw0esC7eoMXr) | 2:36 |
 | 16 | [TQG](https://open.spotify.com/track/0DWdj2oZMBFSzRsi2Cvfzf) | [KAROL G](https://open.spotify.com/artist/790FomKkXshlbRYZFtlgla), [Shakira](https://open.spotify.com/artist/0EmeFodog0BfCgMzAIvKQp) | [MAÑANA SERÁ BONITO](https://open.spotify.com/album/4kS7bSuU0Jm9LYMosFU2x5) | 3:17 |
@@ -30,8 +30,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXb1fcDuOYLYU.md) - [plain]
 | 20 | [BIAF <3](https://open.spotify.com/track/6YRif0qQH6DIvfJ4DxR4vn) | [Young Miko](https://open.spotify.com/artist/3qsKSpcV3ncke3hw52JSMB) | [Do Not Disturb: Late Checkout](https://open.spotify.com/album/2h5VwiZ1SsUrPd04Zfd1jO) | 2:50 |
 | 21 | [Si Antes Te Hubiera Conocido](https://open.spotify.com/track/6WatFBLVB0x077xWeoVc2k) | [KAROL G](https://open.spotify.com/artist/790FomKkXshlbRYZFtlgla) | [Si Antes Te Hubiera Conocido](https://open.spotify.com/album/5ylbxH7EqpsmHZCRuiYewS) | 3:15 |
 | 22 | [Sin Pijama](https://open.spotify.com/track/62vDrkBEyJYEOFj1ScBqM7) | [Becky G](https://open.spotify.com/artist/4obzFoKoKRHIphyHzJ35G3), [NATTI NATASHA](https://open.spotify.com/artist/1GDbiv3spRmZ1XdM1jQbT7) | [MALA SANTA](https://open.spotify.com/album/13MHW8hoLFjX7SaVEVmj3X) | 3:10 |
-| 23 | [Te Daré](https://open.spotify.com/track/1LuWSWqoc2jtCbnOWlQipQ) | [Bad Gyal](https://open.spotify.com/artist/4F4pp8NUW08JuXwnoxglpN) | [Más Cara](https://open.spotify.com/album/1xrj7cbZtRtEt1KjXNFQ26) | 2:07 |
-| 24 | [Lento](https://open.spotify.com/track/2NsMwNWumJXCdTg2IZCLZ5) | [Julieta Venegas](https://open.spotify.com/artist/2QWIScpFDNxmS6ZEMIUvgm) | [Si](https://open.spotify.com/album/3pNoZEMsLO0HZygvwaXANB) | 3:59 |
+| 23 | [Lento](https://open.spotify.com/track/2NsMwNWumJXCdTg2IZCLZ5) | [Julieta Venegas](https://open.spotify.com/artist/2QWIScpFDNxmS6ZEMIUvgm) | [Si](https://open.spotify.com/album/3pNoZEMsLO0HZygvwaXANB) | 3:59 |
+| 24 | [Te Daré](https://open.spotify.com/track/1LuWSWqoc2jtCbnOWlQipQ) | [Bad Gyal](https://open.spotify.com/artist/4F4pp8NUW08JuXwnoxglpN) | [Más Cara](https://open.spotify.com/album/1xrj7cbZtRtEt1KjXNFQ26) | 2:07 |
 | 25 | [Yo No Soy Esa Mujer](https://open.spotify.com/track/0JAGODD5w6MeYQzA9lV6Zm) | [Paulina Rubio](https://open.spotify.com/artist/1d6dwipPrsFSJVmFTTdFSS) | [Paulina](https://open.spotify.com/album/64M45unRUhuzlOYth6w5HB) | 3:44 |
 | 26 | [LATINA FOREVA](https://open.spotify.com/track/2KrQbq3aqGOFGnkTKnN2XA) | [KAROL G](https://open.spotify.com/artist/790FomKkXshlbRYZFtlgla) | [Tropicoqueta](https://open.spotify.com/album/0yY0fT7zibMEffhBJD9Nab) | 2:39 |
 | 27 | [Me Lo Merezco](https://open.spotify.com/track/0vXKNdPKnNqojeHM696Q88) | [ELENA ROSE](https://open.spotify.com/artist/0zO8yNnw5GQgutcIyXfGBY) | [Me Lo Merezco](https://open.spotify.com/album/2v3SbLqPYXwxzwbE6kRJio) | 2:52 |
@@ -99,14 +99,14 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXb1fcDuOYLYU.md) - [plain]
 | 89 | [CARIÑO](https://open.spotify.com/track/6GR5SpN5QMumyDgmaGjecM) | [Melanie Santiler](https://open.spotify.com/artist/1ZN9ReUi4VKQjhzQDVV3Zk) | [LOS CISNES](https://open.spotify.com/album/557XWOuNRadtqs2rByxVuk) | 2:57 |
 | 90 | [Como Me Duele Perderte](https://open.spotify.com/track/2NvsxLwEnF3FtJJsdhkdmq) | [Gloria Estefan](https://open.spotify.com/artist/5IFCkqu9J6xdWeYMk5I889) | [Alma Caribeña](https://open.spotify.com/album/5JE7TvLrx9uwR1rHLPEyo9) | 4:27 |
 | 91 | [Grecia \- Spotify Sessions](https://open.spotify.com/track/2mQm96LDVXWaryyaaJfDUN) | [Elsa y Elmar](https://open.spotify.com/artist/5nKGeITSNCVP76muyOlszy), [Junior Zamora](https://open.spotify.com/artist/1xbYDYZZRWQ0mG218SGVDQ) | [Elsa y Elmar \(Spotify Sessions\)](https://open.spotify.com/album/5jmAIf4GwcKVSFwHCLWh26) | 4:47 |
-| 92 | [miau](https://open.spotify.com/track/2Z7EkSkuK9oAnTN7AyRwMq) | [Nina del Río](https://open.spotify.com/artist/1wUSPdDC7yelxpg2mdnLGd) | [miau](https://open.spotify.com/album/6rJ72wMDmU2SMehEoVG7Ts) | 3:26 |
-| 93 | [Te Vas A Arrepentir \(Don't Hurt Him\)](https://open.spotify.com/track/4Vxy6bU9BRZfLqGkiu5IpH) | [Andrea Bejar](https://open.spotify.com/artist/5l3g6Xp8KQE4prw9hk6rQ8) | [Te Vas A Arrepentir \(Don't Hurt Him\)](https://open.spotify.com/album/0812v2AHlha3OC1xhulTfj) | 3:01 |
-| 94 | [Mentirasmentiras](https://open.spotify.com/track/5NLZW2tGwAQfixHhrVv6O2) | [Girl Ultra](https://open.spotify.com/artist/7i1CyQ1fogh4bkj3EPj3ls), [Buscabulla](https://open.spotify.com/artist/0MoaBi6dSquXp6rrlqlF8R), [Chromeo](https://open.spotify.com/artist/2mV8aJphiSHYJf43DxL7Gt) | [Mentirasmentiras](https://open.spotify.com/album/2sG8kz4A3NuBzNmJm50wef) | 4:08 |
-| 95 | [LUNA](https://open.spotify.com/track/4rejyzjiLkT53w4NWC0Sct) | [Cami](https://open.spotify.com/artist/3VCrybIJKH7UurbDcZbMmn) | [ANASTASIA](https://open.spotify.com/album/3wbzzUJD8dnfUODIpoCoHO) | 2:35 |
+| 92 | [Te Vas A Arrepentir \(Don't Hurt Him\)](https://open.spotify.com/track/4Vxy6bU9BRZfLqGkiu5IpH) | [Andrea Bejar](https://open.spotify.com/artist/5l3g6Xp8KQE4prw9hk6rQ8) | [Te Vas A Arrepentir \(Don't Hurt Him\)](https://open.spotify.com/album/0812v2AHlha3OC1xhulTfj) | 3:01 |
+| 93 | [miau](https://open.spotify.com/track/2Z7EkSkuK9oAnTN7AyRwMq) | [Nina del Río](https://open.spotify.com/artist/1wUSPdDC7yelxpg2mdnLGd) | [miau](https://open.spotify.com/album/6rJ72wMDmU2SMehEoVG7Ts) | 3:26 |
+| 94 | [LUNA](https://open.spotify.com/track/4rejyzjiLkT53w4NWC0Sct) | [Cami](https://open.spotify.com/artist/3VCrybIJKH7UurbDcZbMmn) | [ANASTASIA](https://open.spotify.com/album/3wbzzUJD8dnfUODIpoCoHO) | 2:35 |
+| 95 | [Mentirasmentiras](https://open.spotify.com/track/5NLZW2tGwAQfixHhrVv6O2) | [Girl Ultra](https://open.spotify.com/artist/7i1CyQ1fogh4bkj3EPj3ls), [Buscabulla](https://open.spotify.com/artist/0MoaBi6dSquXp6rrlqlF8R), [Chromeo](https://open.spotify.com/artist/2mV8aJphiSHYJf43DxL7Gt) | [Mentirasmentiras](https://open.spotify.com/album/2sG8kz4A3NuBzNmJm50wef) | 4:08 |
 | 96 | [Piña](https://open.spotify.com/track/6Fdho6pm3GhNyA4TZajC2X) | [Snow Tha Product](https://open.spotify.com/artist/3p3jPcp8b7WL9XYj4xlsWj), [Lauren Jauregui](https://open.spotify.com/artist/3J0BpFVUc9LeOIVeN5uNhU) | [To Anywhere](https://open.spotify.com/album/0D0l81uLwVgMbS7DfaEh6V) | 2:24 |
-| 97 | [I can fix him](https://open.spotify.com/track/6BHXQiNkRvMzBskYaoTk0y) | [Nina del Río](https://open.spotify.com/artist/1wUSPdDC7yelxpg2mdnLGd) | [I can fix him](https://open.spotify.com/album/4AZ15o5BeWgBotdBzuHP7r) | 3:04 |
-| 98 | [la nena de un gang$ter](https://open.spotify.com/track/398DmYDYzH9wnoGSoCx5pk) | [paopao](https://open.spotify.com/artist/5AS4y4rlmbUYDCdg35qmI9) | [la nena de un gang$ter](https://open.spotify.com/album/1Fu0dkMZw7xmM577HnKWw9) | 3:26 |
+| 97 | [la nena de un gang$ter](https://open.spotify.com/track/398DmYDYzH9wnoGSoCx5pk) | [paopao](https://open.spotify.com/artist/5AS4y4rlmbUYDCdg35qmI9) | [la nena de un gang$ter](https://open.spotify.com/album/1Fu0dkMZw7xmM577HnKWw9) | 3:26 |
+| 98 | [I can fix him](https://open.spotify.com/track/6BHXQiNkRvMzBskYaoTk0y) | [Nina del Río](https://open.spotify.com/artist/1wUSPdDC7yelxpg2mdnLGd) | [I can fix him](https://open.spotify.com/album/4AZ15o5BeWgBotdBzuHP7r) | 3:04 |
 | 99 | [venus & romeo](https://open.spotify.com/track/7xPYhm2jFGzO6dZBjlS58n) | [aLex vs aLex](https://open.spotify.com/artist/5faWaRmwlvIin04bFM0tfM) | [venus & romeo](https://open.spotify.com/album/2nKTInQL5qoLf11ZXXBHnb) | 2:03 |
 | 100 | [no llames lo mío nuestro](https://open.spotify.com/track/56lEVxNmR6NYSSa4nZtEBU) | [Joaquina](https://open.spotify.com/artist/081F5qgtVMfcHZKDY1IEa0) | [no llames lo mío nuestro](https://open.spotify.com/album/2r8XKWioH1ActVuWTXePGu) | 3:39 |
 
-Snapshot ID: `AAAAABWN9RTaC706hTKjZq4fSjq6k8AP`
+Snapshot ID: `AAAAAEhTfknUERE8wnxSShtLorionj9u`

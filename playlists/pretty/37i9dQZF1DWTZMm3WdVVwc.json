@@ -1,12 +1,12 @@
 {
   "description": "\u5bd2\u3044\u51ac\u306f\u5fc3\u3092\u6696\u3081\u308b\u30cf\u30fc\u30c8\u30d5\u30eb\u306a\u697d\u66f2\u3092\u304a\u4f9b\u306b\u3002\u3042\u306a\u305f\u306e\u65e5\u3005\u306b\u97f3\u697d\u3092\u3002",
-  "num_followers": 27347,
+  "num_followers": 27357,
   "original_name": "\u51ac\u306e\u30b5\u30a6\u30f3\u30c9\u30c8\u30e9\u30c3\u30af",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAK0P6JnNHcDOD9FqeicHGeDnDVQR",
+  "snapshot_id": "AAAAANI/h+KwxN0aPzcM7sln7R5q9Jjj",
   "tracks": [
     {
       "added_at": "2025-10-23 13:55:51",
@@ -319,22 +319,6 @@
     {
       "added_at": "2025-03-11 22:40:18",
       "album": {
-        "name": "WINTER WITHOUT YOU",
-        "url": "https://open.spotify.com/album/19mxFJfGlthz0Gmg9AiguM"
-      },
-      "artists": [
-        {
-          "name": "XG",
-          "url": "https://open.spotify.com/artist/0LOK81e9H5lr61HlGGHqwA"
-        }
-      ],
-      "duration_ms": 243520,
-      "name": "WINTER WITHOUT YOU",
-      "url": "https://open.spotify.com/track/5KxTHd0r8eM6T2K65zxt2L"
-    },
-    {
-      "added_at": "2025-03-11 22:40:18",
-      "album": {
         "name": "\u541b\u306f\u50d5\u306e\u5b9d\u7269",
         "url": "https://open.spotify.com/album/3a5aKQqcG1rTAUcs3qYFda"
       },
@@ -349,20 +333,20 @@
       "url": "https://open.spotify.com/track/3l7GLaE6NRaPJHMcy4rYRD"
     },
     {
-      "added_at": "2025-10-23 13:55:51",
+      "added_at": "2025-03-11 22:40:18",
       "album": {
-        "name": "\u547d\u306e\u5225\u540d",
-        "url": "https://open.spotify.com/album/2brqJgfQPZcLwbFAGn8Y3I"
+        "name": "WINTER WITHOUT YOU",
+        "url": "https://open.spotify.com/album/19mxFJfGlthz0Gmg9AiguM"
       },
       "artists": [
         {
-          "name": "\u4e2d\u5cf6\u307f\u3086\u304d",
-          "url": "https://open.spotify.com/artist/0caDIM0rTovLDe5UdFvK1t"
+          "name": "XG",
+          "url": "https://open.spotify.com/artist/0LOK81e9H5lr61HlGGHqwA"
         }
       ],
-      "duration_ms": 307400,
-      "name": "\u7cf8",
-      "url": "https://open.spotify.com/track/06m8KKTa6rAYJ5I6l2gZgS"
+      "duration_ms": 243520,
+      "name": "WINTER WITHOUT YOU",
+      "url": "https://open.spotify.com/track/5KxTHd0r8eM6T2K65zxt2L"
     },
     {
       "added_at": "2025-10-24 07:45:46",
@@ -379,6 +363,22 @@
       "duration_ms": 289060,
       "name": "1999",
       "url": "https://open.spotify.com/track/5664npiyyvli6veD4VINZ1"
+    },
+    {
+      "added_at": "2025-10-23 13:55:51",
+      "album": {
+        "name": "\u547d\u306e\u5225\u540d",
+        "url": "https://open.spotify.com/album/2brqJgfQPZcLwbFAGn8Y3I"
+      },
+      "artists": [
+        {
+          "name": "\u4e2d\u5cf6\u307f\u3086\u304d",
+          "url": "https://open.spotify.com/artist/0caDIM0rTovLDe5UdFvK1t"
+        }
+      ],
+      "duration_ms": 307400,
+      "name": "\u7cf8",
+      "url": "https://open.spotify.com/track/06m8KKTa6rAYJ5I6l2gZgS"
     },
     {
       "added_at": "2025-10-23 13:55:51",
@@ -495,22 +495,6 @@
     {
       "added_at": "2025-10-24 07:45:46",
       "album": {
-        "name": "\u604b\u306b\u304a\u3061\u305f\u3089",
-        "url": "https://open.spotify.com/album/2STaKfaWGXhw3Y9Om6HWGn"
-      },
-      "artists": [
-        {
-          "name": "Crystal Kay",
-          "url": "https://open.spotify.com/artist/3yzQHdj9G34CVZ5rVUDrOM"
-        }
-      ],
-      "duration_ms": 269426,
-      "name": "\u604b\u306b\u304a\u3061\u305f\u3089",
-      "url": "https://open.spotify.com/track/4wOgBRh7btZbfiERDDYweM"
-    },
-    {
-      "added_at": "2025-10-24 07:45:46",
-      "album": {
         "name": "First Love (2022 Mix)",
         "url": "https://open.spotify.com/album/1TwR0thoGz0hCk0ot73xID"
       },
@@ -539,6 +523,22 @@
       "duration_ms": 276866,
       "name": "\u5e78\u305b\u306a\u7d50\u672b",
       "url": "https://open.spotify.com/track/5osxC77ZVAIXIE5Q3DMUuu"
+    },
+    {
+      "added_at": "2025-10-24 07:45:46",
+      "album": {
+        "name": "\u604b\u306b\u304a\u3061\u305f\u3089",
+        "url": "https://open.spotify.com/album/2STaKfaWGXhw3Y9Om6HWGn"
+      },
+      "artists": [
+        {
+          "name": "Crystal Kay",
+          "url": "https://open.spotify.com/artist/3yzQHdj9G34CVZ5rVUDrOM"
+        }
+      ],
+      "duration_ms": 269426,
+      "name": "\u604b\u306b\u304a\u3061\u305f\u3089",
+      "url": "https://open.spotify.com/track/4wOgBRh7btZbfiERDDYweM"
     },
     {
       "added_at": "2025-10-23 13:55:51",
@@ -679,22 +679,6 @@
     {
       "added_at": "2025-10-23 13:55:51",
       "album": {
-        "name": "\u6708\u306b\u5420\u3048\u308b",
-        "url": "https://open.spotify.com/album/31wNfG1NEvrOjQxI4S1AsV"
-      },
-      "artists": [
-        {
-          "name": "\u30e8\u30eb\u30b7\u30ab",
-          "url": "https://open.spotify.com/artist/4UK2Lzi6fBfUi9rpDt6cik"
-        }
-      ],
-      "duration_ms": 265803,
-      "name": "\u6708\u306b\u5420\u3048\u308b",
-      "url": "https://open.spotify.com/track/7sLxvJ2Lj4Kf2K6Wa7OEk1"
-    },
-    {
-      "added_at": "2025-10-23 13:55:51",
-      "album": {
         "name": "WINTER SONG",
         "url": "https://open.spotify.com/album/2gABzfAzxn46TpxOlj9sqf"
       },
@@ -709,20 +693,20 @@
       "url": "https://open.spotify.com/track/3fY7C8e4gZ5RfcN4GB2yDJ"
     },
     {
-      "added_at": "2025-10-24 07:45:46",
+      "added_at": "2025-10-23 13:55:51",
       "album": {
-        "name": "Shout Out to Jesus",
-        "url": "https://open.spotify.com/album/2yV4BrChz6M45ht4dJMJSI"
+        "name": "\u6708\u306b\u5420\u3048\u308b",
+        "url": "https://open.spotify.com/album/31wNfG1NEvrOjQxI4S1AsV"
       },
       "artists": [
         {
-          "name": "Kvi Baba",
-          "url": "https://open.spotify.com/artist/5VxQzcVrakID2E4UxaDPNs"
+          "name": "\u30e8\u30eb\u30b7\u30ab",
+          "url": "https://open.spotify.com/artist/4UK2Lzi6fBfUi9rpDt6cik"
         }
       ],
-      "duration_ms": 204264,
-      "name": "City Love City Love City Love",
-      "url": "https://open.spotify.com/track/1iggXYj6rRrHjPG12bmQPj"
+      "duration_ms": 265803,
+      "name": "\u6708\u306b\u5420\u3048\u308b",
+      "url": "https://open.spotify.com/track/7sLxvJ2Lj4Kf2K6Wa7OEk1"
     },
     {
       "added_at": "2025-10-24 07:45:46",
@@ -739,6 +723,22 @@
       "duration_ms": 345086,
       "name": "\u51ac\u306e\u3046\u305f",
       "url": "https://open.spotify.com/track/13ZrdwZjgT6P1In07B4TBF"
+    },
+    {
+      "added_at": "2025-10-24 07:45:46",
+      "album": {
+        "name": "Shout Out to Jesus",
+        "url": "https://open.spotify.com/album/2yV4BrChz6M45ht4dJMJSI"
+      },
+      "artists": [
+        {
+          "name": "Kvi Baba",
+          "url": "https://open.spotify.com/artist/5VxQzcVrakID2E4UxaDPNs"
+        }
+      ],
+      "duration_ms": 204264,
+      "name": "City Love City Love City Love",
+      "url": "https://open.spotify.com/track/1iggXYj6rRrHjPG12bmQPj"
     },
     {
       "added_at": "2025-10-24 07:45:46",
@@ -1225,22 +1225,6 @@
       "url": "https://open.spotify.com/track/13B7xIMV9eLj9xWO4EJF6r"
     },
     {
-      "added_at": "2025-03-11 22:40:18",
-      "album": {
-        "name": "\u9060\u3044\u8857\u306e\u3069\u3053\u304b\u3067\u2026",
-        "url": "https://open.spotify.com/album/2heEQ0XdXnD4FHLi2mXLgf"
-      },
-      "artists": [
-        {
-          "name": "Kumi Koda",
-          "url": "https://open.spotify.com/artist/2mGYHril2LuZodRtTX06BC"
-        }
-      ],
-      "duration_ms": 332703,
-      "name": "\u9060\u3044\u8857\u306e\u3069\u3053\u304b\u3067\u2026",
-      "url": "https://open.spotify.com/track/15cyI9UoqIOBXtnb5fPkq3"
-    },
-    {
       "added_at": "2025-12-05 00:27:18",
       "album": {
         "name": "Underneath the Lights",
@@ -1255,6 +1239,22 @@
       "duration_ms": 236551,
       "name": "Underneath the Lights",
       "url": "https://open.spotify.com/track/2NOeS29mW1tNJ9oEuw0njn"
+    },
+    {
+      "added_at": "2025-03-11 22:40:18",
+      "album": {
+        "name": "\u9060\u3044\u8857\u306e\u3069\u3053\u304b\u3067\u2026",
+        "url": "https://open.spotify.com/album/2heEQ0XdXnD4FHLi2mXLgf"
+      },
+      "artists": [
+        {
+          "name": "Kumi Koda",
+          "url": "https://open.spotify.com/artist/2mGYHril2LuZodRtTX06BC"
+        }
+      ],
+      "duration_ms": 332703,
+      "name": "\u9060\u3044\u8857\u306e\u3069\u3053\u304b\u3067\u2026",
+      "url": "https://open.spotify.com/track/15cyI9UoqIOBXtnb5fPkq3"
     },
     {
       "added_at": "2025-12-19 02:48:54",
@@ -1289,22 +1289,6 @@
       "url": "https://open.spotify.com/track/2wcIrfQFcXHZ7GIKfP4rD9"
     },
     {
-      "added_at": "2025-12-11 02:28:39",
-      "album": {
-        "name": "\u8857\u306f\u30b9\u30ed\u30fc\u30e2\u30fc\u30b7\u30e7\u30f3",
-        "url": "https://open.spotify.com/album/3QSkDPqUDBpsZn2MUQhxWh"
-      },
-      "artists": [
-        {
-          "name": "\u5411\u7530\u6c11\u5b50",
-          "url": "https://open.spotify.com/artist/3UcirJpXk6043mUqjDCcIS"
-        }
-      ],
-      "duration_ms": 191747,
-      "name": "\u8857\u306f\u30b9\u30ed\u30fc\u30e2\u30fc\u30b7\u30e7\u30f3",
-      "url": "https://open.spotify.com/track/1EZKPMqumpM3Jud6AQAlBZ"
-    },
-    {
       "added_at": "2026-11-10 09:14:46",
       "album": {
         "name": "WINNER",
@@ -1321,20 +1305,20 @@
       "url": "https://open.spotify.com/track/3POXPYAY4VVZPwoYknIM7N"
     },
     {
-      "added_at": "2025-10-24 07:45:46",
+      "added_at": "2025-12-11 02:28:39",
       "album": {
-        "name": "\u7518\u3044\u904b\u547d",
-        "url": "https://open.spotify.com/album/26ENJDTjqWtZWIdPCwo1X9"
+        "name": "\u8857\u306f\u30b9\u30ed\u30fc\u30e2\u30fc\u30b7\u30e7\u30f3",
+        "url": "https://open.spotify.com/album/3QSkDPqUDBpsZn2MUQhxWh"
       },
       "artists": [
         {
-          "name": "UA",
-          "url": "https://open.spotify.com/artist/43XHGbWVe5qKVCuI0HMep0"
+          "name": "\u5411\u7530\u6c11\u5b50",
+          "url": "https://open.spotify.com/artist/3UcirJpXk6043mUqjDCcIS"
         }
       ],
-      "duration_ms": 313061,
-      "name": "\u771f\u591c\u4e2d\u306e\u30ae\u30bf\u30fc",
-      "url": "https://open.spotify.com/track/2VSw9rpGvjzAGelXY7zw2c"
+      "duration_ms": 191747,
+      "name": "\u8857\u306f\u30b9\u30ed\u30fc\u30e2\u30fc\u30b7\u30e7\u30f3",
+      "url": "https://open.spotify.com/track/1EZKPMqumpM3Jud6AQAlBZ"
     },
     {
       "added_at": "2025-12-16 15:00:32",
@@ -1351,6 +1335,22 @@
       "duration_ms": 188000,
       "name": "Won't You Call My Name?",
       "url": "https://open.spotify.com/track/7KVUvkuNDMIK1ZFHI7Aafv"
+    },
+    {
+      "added_at": "2025-10-24 07:45:46",
+      "album": {
+        "name": "\u7518\u3044\u904b\u547d",
+        "url": "https://open.spotify.com/album/26ENJDTjqWtZWIdPCwo1X9"
+      },
+      "artists": [
+        {
+          "name": "UA",
+          "url": "https://open.spotify.com/artist/43XHGbWVe5qKVCuI0HMep0"
+        }
+      ],
+      "duration_ms": 313061,
+      "name": "\u771f\u591c\u4e2d\u306e\u30ae\u30bf\u30fc",
+      "url": "https://open.spotify.com/track/2VSw9rpGvjzAGelXY7zw2c"
     },
     {
       "added_at": "2025-03-11 22:40:18",
@@ -1483,22 +1483,6 @@
     {
       "added_at": "2025-03-11 22:40:18",
       "album": {
-        "name": "How are you feeling?",
-        "url": "https://open.spotify.com/album/7MbKGeppCOJglzz8ONn90T"
-      },
-      "artists": [
-        {
-          "name": "Mizuki Ohira",
-          "url": "https://open.spotify.com/artist/5rNUVqgzCi4FX47RY8n9cx"
-        }
-      ],
-      "duration_ms": 150483,
-      "name": "How are you feeling?",
-      "url": "https://open.spotify.com/track/2uPfOgWxzj99atXxkb0mXv"
-    },
-    {
-      "added_at": "2025-03-11 22:40:18",
-      "album": {
         "name": "Usurai no Hana",
         "url": "https://open.spotify.com/album/2KgtuE6ltHiqqAlNYUi2sl"
       },
@@ -1511,6 +1495,22 @@
       "duration_ms": 264233,
       "name": "Usurai no Hana",
       "url": "https://open.spotify.com/track/0zlDUXBWRFIFwmRZguJ3TV"
+    },
+    {
+      "added_at": "2025-03-11 22:40:18",
+      "album": {
+        "name": "How are you feeling?",
+        "url": "https://open.spotify.com/album/7MbKGeppCOJglzz8ONn90T"
+      },
+      "artists": [
+        {
+          "name": "Mizuki Ohira",
+          "url": "https://open.spotify.com/artist/5rNUVqgzCi4FX47RY8n9cx"
+        }
+      ],
+      "duration_ms": 150483,
+      "name": "How are you feeling?",
+      "url": "https://open.spotify.com/track/2uPfOgWxzj99atXxkb0mXv"
     },
     {
       "added_at": "2025-12-11 02:28:39",

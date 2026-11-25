@@ -1,12 +1,12 @@
 {
   "description": "This is yama. The essential tracks, all in one playlist.",
-  "num_followers": 50313,
+  "num_followers": 50315,
   "original_name": "This Is yama",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "awIwgAAAAAAVK85O6Pcu7rk36WmxfeXW",
+  "snapshot_id": "awOCAAAAAABW31uApqr+uLDYGGfBy81D",
   "tracks": [
     {
       "added_at": null,
@@ -171,22 +171,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "the meaning of life",
-        "url": "https://open.spotify.com/album/0d6nIBB385TVBIcsa5x4ZD"
-      },
-      "artists": [
-        {
-          "name": "yama",
-          "url": "https://open.spotify.com/artist/7kOrrFIBIBc8uCu2zbxbLv"
-        }
-      ],
-      "duration_ms": 208093,
-      "name": "\u8840\u6d41",
-      "url": "https://open.spotify.com/track/0bBl2jjpCFCgRd60BowZoV"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "dot",
         "url": "https://open.spotify.com/album/3cGWSm2yxbSMnrtkuO9CXq"
       },
@@ -199,6 +183,22 @@
       "duration_ms": 278853,
       "name": "dot",
       "url": "https://open.spotify.com/track/4NUxm2fWxBe7bbgmhWJftm"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "the meaning of life",
+        "url": "https://open.spotify.com/album/0d6nIBB385TVBIcsa5x4ZD"
+      },
+      "artists": [
+        {
+          "name": "yama",
+          "url": "https://open.spotify.com/artist/7kOrrFIBIBc8uCu2zbxbLv"
+        }
+      ],
+      "duration_ms": 208093,
+      "name": "\u8840\u6d41",
+      "url": "https://open.spotify.com/track/0bBl2jjpCFCgRd60BowZoV"
     },
     {
       "added_at": null,
@@ -219,22 +219,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "mountain",
-        "url": "https://open.spotify.com/album/7BHTkOKCrAxpQociodbtHn"
-      },
-      "artists": [
-        {
-          "name": "yama",
-          "url": "https://open.spotify.com/artist/7kOrrFIBIBc8uCu2zbxbLv"
-        }
-      ],
-      "duration_ms": 219666,
-      "name": "mountain",
-      "url": "https://open.spotify.com/track/5VeJrJYiHdwuwQgBlVf1GR"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Versus the night",
         "url": "https://open.spotify.com/album/4R8cMdxOUDbHaHvwjEluEq"
       },
@@ -247,6 +231,22 @@
       "duration_ms": 245466,
       "name": "Lost",
       "url": "https://open.spotify.com/track/3sz0hi6mkqq0hfRMN8RGrs"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "mountain",
+        "url": "https://open.spotify.com/album/7BHTkOKCrAxpQociodbtHn"
+      },
+      "artists": [
+        {
+          "name": "yama",
+          "url": "https://open.spotify.com/artist/7kOrrFIBIBc8uCu2zbxbLv"
+        }
+      ],
+      "duration_ms": 219666,
+      "name": "mountain",
+      "url": "https://open.spotify.com/track/5VeJrJYiHdwuwQgBlVf1GR"
     },
     {
       "added_at": null,
@@ -563,22 +563,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "\u30a2\u30c0\u30eb\u30c8\u30c1\u30c3\u30af\u30c1\u30eb\u30c9\u30ec\u30f3",
-        "url": "https://open.spotify.com/album/1fgsyeUzImXkMVBy1vVUNm"
+        "name": "Nerenaiyoruni ka-tenwoakete",
+        "url": "https://open.spotify.com/album/4ZCMR8iFTEAZNOmJdKB9pn"
       },
       "artists": [
         {
-          "name": "yama",
-          "url": "https://open.spotify.com/artist/7kOrrFIBIBc8uCu2zbxbLv"
+          "name": "whaledontsleep",
+          "url": "https://open.spotify.com/artist/5lEzAveEBteB85UVvKTanp"
         },
         {
-          "name": "Taka Perry",
-          "url": "https://open.spotify.com/artist/7eYVLxvKOQ3w2BAE10ElgF"
+          "name": "yama",
+          "url": "https://open.spotify.com/artist/7kOrrFIBIBc8uCu2zbxbLv"
         }
       ],
-      "duration_ms": 198866,
-      "name": "midnight",
-      "url": "https://open.spotify.com/track/2I4wbn6mSyyXJOXMlNB12n"
+      "duration_ms": 197067,
+      "name": "Sleeping town (feat. yama)",
+      "url": "https://open.spotify.com/track/33l85q7YTdJGn7PrR3LU8G"
     },
     {
       "added_at": null,
@@ -599,22 +599,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "Nerenaiyoruni ka-tenwoakete",
-        "url": "https://open.spotify.com/album/4ZCMR8iFTEAZNOmJdKB9pn"
+        "name": "\u30a2\u30c0\u30eb\u30c8\u30c1\u30c3\u30af\u30c1\u30eb\u30c9\u30ec\u30f3",
+        "url": "https://open.spotify.com/album/1fgsyeUzImXkMVBy1vVUNm"
       },
       "artists": [
         {
-          "name": "whaledontsleep",
-          "url": "https://open.spotify.com/artist/5lEzAveEBteB85UVvKTanp"
-        },
-        {
           "name": "yama",
           "url": "https://open.spotify.com/artist/7kOrrFIBIBc8uCu2zbxbLv"
+        },
+        {
+          "name": "Taka Perry",
+          "url": "https://open.spotify.com/artist/7eYVLxvKOQ3w2BAE10ElgF"
         }
       ],
-      "duration_ms": 197067,
-      "name": "Sleeping town (feat. yama)",
-      "url": "https://open.spotify.com/track/33l85q7YTdJGn7PrR3LU8G"
+      "duration_ms": 198866,
+      "name": "midnight",
+      "url": "https://open.spotify.com/track/2I4wbn6mSyyXJOXMlNB12n"
     },
     {
       "added_at": null,

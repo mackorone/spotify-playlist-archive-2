@@ -149,6 +149,24 @@
     },
     {
       "album": {
+        "name": "Like a Dog",
+        "url": "https://open.spotify.com/album/3nclAHvS4wQIIwNbiFT4Hi"
+      },
+      "artists": [
+        {
+          "name": "Bella Kay",
+          "url": "https://open.spotify.com/artist/4Z8MrrKMBHMPa8d04Ivur8"
+        }
+      ],
+      "date_added": "2026-11-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 162681,
+      "name": "Like a Dog",
+      "url": "https://open.spotify.com/track/4uedQsQUuamDPlCRAct8jZ"
+    },
+    {
+      "album": {
         "name": "Lonely",
         "url": "https://open.spotify.com/album/7gYdoWfDKNMnKTjuJZKUTu"
       },

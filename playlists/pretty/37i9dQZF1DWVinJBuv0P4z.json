@@ -1,12 +1,12 @@
 {
   "description": "Happy tunes from the 50s, 60s & 70s. Cover: The Beach Boys.",
-  "num_followers": 565776,
+  "num_followers": 565834,
   "original_name": "Feel Good Classics",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAFQ3EYe6pTqQKz8N16j2USexd4do",
+  "snapshot_id": "AAAAAP4Je5sFtt8MdDnWZZkuCp8AdP3l",
   "tracks": [
     {
       "added_at": "2024-07-12 21:11:00",
@@ -775,22 +775,6 @@
     {
       "added_at": "2024-07-12 21:11:00",
       "album": {
-        "name": "Rumours",
-        "url": "https://open.spotify.com/album/1bt6q2SruMsBtcerNVtpZB"
-      },
-      "artists": [
-        {
-          "name": "Fleetwood Mac",
-          "url": "https://open.spotify.com/artist/08GQAI4eElDnROBrJRGE0X"
-        }
-      ],
-      "duration_ms": 193346,
-      "name": "Don't Stop - 2004 Remaster",
-      "url": "https://open.spotify.com/track/4bEb3KE4mSKlTFjtWJQBqO"
-    },
-    {
-      "added_at": "2024-07-12 21:11:00",
-      "album": {
         "name": "Frankie Valli...Is The Word",
         "url": "https://open.spotify.com/album/0o2oPAxKGui4tvrrNgDtkc"
       },
@@ -803,6 +787,22 @@
       "duration_ms": 207306,
       "name": "Grease - 2007 Remaster",
       "url": "https://open.spotify.com/track/5Vrczz39CvlD3OGCa6utoA"
+    },
+    {
+      "added_at": "2024-07-12 21:11:00",
+      "album": {
+        "name": "Rumours",
+        "url": "https://open.spotify.com/album/1bt6q2SruMsBtcerNVtpZB"
+      },
+      "artists": [
+        {
+          "name": "Fleetwood Mac",
+          "url": "https://open.spotify.com/artist/08GQAI4eElDnROBrJRGE0X"
+        }
+      ],
+      "duration_ms": 193346,
+      "name": "Don't Stop - 2004 Remaster",
+      "url": "https://open.spotify.com/track/4bEb3KE4mSKlTFjtWJQBqO"
     },
     {
       "added_at": "2024-07-12 21:11:00",
@@ -1119,22 +1119,6 @@
     {
       "added_at": "2024-07-12 21:11:00",
       "album": {
-        "name": "Under the Boardwalk",
-        "url": "https://open.spotify.com/album/7AgI5vniflcbh86Znea7yM"
-      },
-      "artists": [
-        {
-          "name": "The Drifters",
-          "url": "https://open.spotify.com/artist/1FqqOl9itIUpXr4jZPIVoT"
-        }
-      ],
-      "duration_ms": 161960,
-      "name": "Under the Boardwalk",
-      "url": "https://open.spotify.com/track/65jrjEhWfAvysKfnojk1i0"
-    },
-    {
-      "added_at": "2024-07-12 21:11:00",
-      "album": {
         "name": "30 Years Of Funk: 1969-1999 The Anthology",
         "url": "https://open.spotify.com/album/0ib2UtSmLGssyqyoY6X8cm"
       },
@@ -1147,6 +1131,22 @@
       "duration_ms": 202733,
       "name": "Some Kind Of Wonderful - Remastered 1999",
       "url": "https://open.spotify.com/track/1cU34sZG9kF4FYHCoAD0Ib"
+    },
+    {
+      "added_at": "2024-07-12 21:11:00",
+      "album": {
+        "name": "Under the Boardwalk",
+        "url": "https://open.spotify.com/album/7AgI5vniflcbh86Znea7yM"
+      },
+      "artists": [
+        {
+          "name": "The Drifters",
+          "url": "https://open.spotify.com/artist/1FqqOl9itIUpXr4jZPIVoT"
+        }
+      ],
+      "duration_ms": 161960,
+      "name": "Under the Boardwalk",
+      "url": "https://open.spotify.com/track/65jrjEhWfAvysKfnojk1i0"
     },
     {
       "added_at": "2024-07-12 21:11:00",
@@ -1199,22 +1199,6 @@
     {
       "added_at": "2024-07-12 21:11:00",
       "album": {
-        "name": "The Birds, The Bees, & The Monkees",
-        "url": "https://open.spotify.com/album/2Ov6zb7NfgDh3EXSIIWrb2"
-      },
-      "artists": [
-        {
-          "name": "The Monkees",
-          "url": "https://open.spotify.com/artist/320EPCSEezHt1rtbfwH6Ck"
-        }
-      ],
-      "duration_ms": 179613,
-      "name": "Daydream Believer",
-      "url": "https://open.spotify.com/track/7uEcCGtM1FBBGIhPozhJjv"
-    },
-    {
-      "added_at": "2024-07-12 21:11:00",
-      "album": {
         "name": "Gorilla (2019 Remaster)",
         "url": "https://open.spotify.com/album/0x491s63vRDvG25x2Fzrny"
       },
@@ -1227,6 +1211,22 @@
       "duration_ms": 216386,
       "name": "How Sweet It Is (To Be Loved By You) - 2019 Remaster",
       "url": "https://open.spotify.com/track/75Nlnd9AJ4CYrLXgWGsuTF"
+    },
+    {
+      "added_at": "2024-07-12 21:11:00",
+      "album": {
+        "name": "The Birds, The Bees, & The Monkees",
+        "url": "https://open.spotify.com/album/2Ov6zb7NfgDh3EXSIIWrb2"
+      },
+      "artists": [
+        {
+          "name": "The Monkees",
+          "url": "https://open.spotify.com/artist/320EPCSEezHt1rtbfwH6Ck"
+        }
+      ],
+      "duration_ms": 179613,
+      "name": "Daydream Believer",
+      "url": "https://open.spotify.com/track/7uEcCGtM1FBBGIhPozhJjv"
     },
     {
       "added_at": "2024-07-12 21:11:00",
@@ -1455,22 +1455,6 @@
     {
       "added_at": "2024-07-12 21:11:00",
       "album": {
-        "name": "September",
-        "url": "https://open.spotify.com/album/4MgtwNYjD89Oj2km6eFRYd"
-      },
-      "artists": [
-        {
-          "name": "Earth, Wind & Fire",
-          "url": "https://open.spotify.com/artist/4QQgXkCYTt3BlENzhyNETg"
-        }
-      ],
-      "duration_ms": 215080,
-      "name": "September",
-      "url": "https://open.spotify.com/track/7Cuk8jsPPoNYQWXK9XRFvG"
-    },
-    {
-      "added_at": "2024-07-12 21:11:00",
-      "album": {
         "name": "Rock Around The Clock",
         "url": "https://open.spotify.com/album/2vB7uVHcRU4dmHeFQCTkSK"
       },
@@ -1483,6 +1467,22 @@
       "duration_ms": 129893,
       "name": "(We're Gonna) Rock Around The Clock",
       "url": "https://open.spotify.com/track/1uRKT2LRANv4baowBWHfDS"
+    },
+    {
+      "added_at": "2024-07-12 21:11:00",
+      "album": {
+        "name": "September",
+        "url": "https://open.spotify.com/album/4MgtwNYjD89Oj2km6eFRYd"
+      },
+      "artists": [
+        {
+          "name": "Earth, Wind & Fire",
+          "url": "https://open.spotify.com/artist/4QQgXkCYTt3BlENzhyNETg"
+        }
+      ],
+      "duration_ms": 215080,
+      "name": "September",
+      "url": "https://open.spotify.com/track/7Cuk8jsPPoNYQWXK9XRFvG"
     },
     {
       "added_at": "2024-07-12 21:11:00",
@@ -1503,22 +1503,6 @@
     {
       "added_at": "2024-07-12 21:11:00",
       "album": {
-        "name": "Presenting Dion And The Belmonts",
-        "url": "https://open.spotify.com/album/6z1hD32vUCvJZVjVZMv7el"
-      },
-      "artists": [
-        {
-          "name": "Dion & The Belmonts",
-          "url": "https://open.spotify.com/artist/2loYllWFfoWpoxC5YrJKc4"
-        }
-      ],
-      "duration_ms": 158253,
-      "name": "A Teenager In Love",
-      "url": "https://open.spotify.com/track/0QGwOFQChzflLAmPq5NwKo"
-    },
-    {
-      "added_at": "2024-07-12 21:11:00",
-      "album": {
         "name": "I'll Cry If I Want To",
         "url": "https://open.spotify.com/album/7KSrseQi4wJDUfMT4mxNo8"
       },
@@ -1531,6 +1515,22 @@
       "duration_ms": 140000,
       "name": "It's My Party",
       "url": "https://open.spotify.com/track/1Pq47iFLC5U7j8xeNiNcuS"
+    },
+    {
+      "added_at": "2024-07-12 21:11:00",
+      "album": {
+        "name": "Presenting Dion And The Belmonts",
+        "url": "https://open.spotify.com/album/6z1hD32vUCvJZVjVZMv7el"
+      },
+      "artists": [
+        {
+          "name": "Dion & The Belmonts",
+          "url": "https://open.spotify.com/artist/2loYllWFfoWpoxC5YrJKc4"
+        }
+      ],
+      "duration_ms": 158253,
+      "name": "A Teenager In Love",
+      "url": "https://open.spotify.com/track/0QGwOFQChzflLAmPq5NwKo"
     },
     {
       "added_at": "2024-07-12 21:11:00",
@@ -1663,22 +1663,6 @@
     {
       "added_at": "2024-07-12 21:11:00",
       "album": {
-        "name": "Four Tops",
-        "url": "https://open.spotify.com/album/6TPCze8g5Q3yCRYyA42qAm"
-      },
-      "artists": [
-        {
-          "name": "Four Tops",
-          "url": "https://open.spotify.com/artist/7fIvjotigTGWqjIz6EP1i4"
-        }
-      ],
-      "duration_ms": 166026,
-      "name": "Baby I Need Your Loving",
-      "url": "https://open.spotify.com/track/3aCbwWCYCT3MJjZeUnlcp4"
-    },
-    {
-      "added_at": "2024-07-12 21:11:00",
-      "album": {
         "name": "McFadden & Whitehead",
         "url": "https://open.spotify.com/album/49y7YFLvKz54gVZZzHbAzs"
       },
@@ -1691,6 +1675,22 @@
       "duration_ms": 420986,
       "name": "Ain't No Stoppin' Us Now",
       "url": "https://open.spotify.com/track/4Ymk3pqpkGx19gyxxUj5LK"
+    },
+    {
+      "added_at": "2024-07-12 21:11:00",
+      "album": {
+        "name": "Four Tops",
+        "url": "https://open.spotify.com/album/6TPCze8g5Q3yCRYyA42qAm"
+      },
+      "artists": [
+        {
+          "name": "Four Tops",
+          "url": "https://open.spotify.com/artist/7fIvjotigTGWqjIz6EP1i4"
+        }
+      ],
+      "duration_ms": 166026,
+      "name": "Baby I Need Your Loving",
+      "url": "https://open.spotify.com/track/3aCbwWCYCT3MJjZeUnlcp4"
     },
     {
       "added_at": "2024-07-12 21:11:00",
@@ -2307,22 +2307,6 @@
     {
       "added_at": "2024-07-12 21:11:00",
       "album": {
-        "name": "Definitive Pop: Bobby Darin",
-        "url": "https://open.spotify.com/album/23LtBxKUYBWCNQxcM2Iefo"
-      },
-      "artists": [
-        {
-          "name": "Bobby Darin",
-          "url": "https://open.spotify.com/artist/0EodhzA6yW1bIdD5B4tcmJ"
-        }
-      ],
-      "duration_ms": 151253,
-      "name": "Dream Lover - 2006 Remaster",
-      "url": "https://open.spotify.com/track/4GqMYg91LJXiLjvQBFc3s0"
-    },
-    {
-      "added_at": "2024-07-12 21:11:00",
-      "album": {
         "name": "Family Reunion (Expanded Edition)",
         "url": "https://open.spotify.com/album/2Q3cf5aSlA9Da2269Ai8fD"
       },
@@ -2335,6 +2319,22 @@
       "duration_ms": 413066,
       "name": "I Love Music",
       "url": "https://open.spotify.com/track/222TScMmzaZ0IdkvbLoin2"
+    },
+    {
+      "added_at": "2024-07-12 21:11:00",
+      "album": {
+        "name": "Definitive Pop: Bobby Darin",
+        "url": "https://open.spotify.com/album/23LtBxKUYBWCNQxcM2Iefo"
+      },
+      "artists": [
+        {
+          "name": "Bobby Darin",
+          "url": "https://open.spotify.com/artist/0EodhzA6yW1bIdD5B4tcmJ"
+        }
+      ],
+      "duration_ms": 151253,
+      "name": "Dream Lover - 2006 Remaster",
+      "url": "https://open.spotify.com/track/4GqMYg91LJXiLjvQBFc3s0"
     },
     {
       "added_at": "2024-07-12 21:11:00",

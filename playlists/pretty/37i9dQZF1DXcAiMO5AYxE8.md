@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcAiMO5AYxE8.md) - [plain]
 
 > All the best soul disco sounds for getting down.
 
-[Spotify](https://open.spotify.com/user/spotify) - 552,894 likes - 62 songs - 4 hr 24 min
+[Spotify](https://open.spotify.com/user/spotify) - 552,901 likes - 62 songs - 4 hr 24 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -71,4 +71,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcAiMO5AYxE8.md) - [plain]
 | 61 | [A Simple Game](https://open.spotify.com/track/1UXYaXFyEogAXs4ddBnpZg) | [Billy Ocean](https://open.spotify.com/artist/5IDs1CK15HegSAhGEbSYXo) | [A Simple Game](https://open.spotify.com/album/0teJDgHyJ9lbThnbX7oTHz) | 5:03 |
 | 62 | [Now That We Found Love](https://open.spotify.com/track/4HfY87hxvIVCCLhNlQ59M9) | [The O'Jays](https://open.spotify.com/artist/38h03gA85YYPeDPd9ER9rT) | [Collections](https://open.spotify.com/album/0mImd05G3t8DkjQdDdPEoI) | 4:39 |
 
-Snapshot ID: `AAAAAEsNw2AUZGC+lCQMf51rSk7ySpCF`
+Snapshot ID: `AAAAAAsIFt5CC0N1Rzmki5PceLvB5Sn0`

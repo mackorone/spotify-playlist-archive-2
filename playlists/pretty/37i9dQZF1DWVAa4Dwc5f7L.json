@@ -1,12 +1,12 @@
 {
   "description": "\u00a1Hasta las 15! Monster merengue hits! Cover: Manuel Turizo & Maluma",
-  "num_followers": 395896,
+  "num_followers": 395885,
   "original_name": "Merengue Mania",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAHzJsJ43B+xKB1ZNMcsT8rXiip7Z",
+  "snapshot_id": "AAAAAPUywc/dMkugFLMBAMIyow75o4fm",
   "tracks": [
     {
       "added_at": "2026-11-06 05:00:20",
@@ -835,22 +835,6 @@
     {
       "added_at": "2026-11-06 05:00:20",
       "album": {
-        "name": "O.K. All Right",
-        "url": "https://open.spotify.com/album/0APbv2lshYuYSoP7t4ypTv"
-      },
-      "artists": [
-        {
-          "name": "Jossie Esteban & La Patrulla 15",
-          "url": "https://open.spotify.com/artist/0VpcWRPcfKxjqNIs82pPpb"
-        }
-      ],
-      "duration_ms": 318306,
-      "name": "El Cantinero",
-      "url": "https://open.spotify.com/track/5FLMNeZEdB0No8TebOXc0J"
-    },
-    {
-      "added_at": "2026-11-06 05:00:20",
-      "album": {
         "name": "BIZUM (Qu\u00e9 tienen tus ojos)",
         "url": "https://open.spotify.com/album/7m1OVmMBat3C7VO0cUf6Po"
       },
@@ -867,6 +851,22 @@
       "duration_ms": 136917,
       "name": "BIZUM (Qu\u00e9 tienen tus ojos)",
       "url": "https://open.spotify.com/track/6lowoKt4hZs7L3oc8iDUO4"
+    },
+    {
+      "added_at": "2026-11-06 05:00:20",
+      "album": {
+        "name": "O.K. All Right",
+        "url": "https://open.spotify.com/album/0APbv2lshYuYSoP7t4ypTv"
+      },
+      "artists": [
+        {
+          "name": "Jossie Esteban & La Patrulla 15",
+          "url": "https://open.spotify.com/artist/0VpcWRPcfKxjqNIs82pPpb"
+        }
+      ],
+      "duration_ms": 318306,
+      "name": "El Cantinero",
+      "url": "https://open.spotify.com/track/5FLMNeZEdB0No8TebOXc0J"
     },
     {
       "added_at": "2026-11-06 05:00:20",
@@ -1127,22 +1127,6 @@
     {
       "added_at": "2026-11-06 05:00:20",
       "album": {
-        "name": "12 Golden Hits",
-        "url": "https://open.spotify.com/album/04irf8DoODG5y4esqlnLEI"
-      },
-      "artists": [
-        {
-          "name": "Bonny Cepeda",
-          "url": "https://open.spotify.com/artist/1dI3emu3Tf6ZydmpCEZmqx"
-        }
-      ],
-      "duration_ms": 286520,
-      "name": "Asesina",
-      "url": "https://open.spotify.com/track/68VJAoIwl72kQXzAm01cqG"
-    },
-    {
-      "added_at": "2026-11-06 05:00:20",
-      "album": {
         "name": "Exitos De",
         "url": "https://open.spotify.com/album/3y8cbEFw6qI5hsFKBbLEYr"
       },
@@ -1155,6 +1139,22 @@
       "duration_ms": 295320,
       "name": "Tu Eres Ajena",
       "url": "https://open.spotify.com/track/7rK8ZDv0TpSf95HUC59bxz"
+    },
+    {
+      "added_at": "2026-11-06 05:00:20",
+      "album": {
+        "name": "12 Golden Hits",
+        "url": "https://open.spotify.com/album/04irf8DoODG5y4esqlnLEI"
+      },
+      "artists": [
+        {
+          "name": "Bonny Cepeda",
+          "url": "https://open.spotify.com/artist/1dI3emu3Tf6ZydmpCEZmqx"
+        }
+      ],
+      "duration_ms": 286520,
+      "name": "Asesina",
+      "url": "https://open.spotify.com/track/68VJAoIwl72kQXzAm01cqG"
     },
     {
       "added_at": "2026-11-06 05:00:20",
@@ -1211,22 +1211,6 @@
     {
       "added_at": "2026-11-06 05:00:20",
       "album": {
-        "name": "Coleccion Diamante",
-        "url": "https://open.spotify.com/album/05ICn9Npd5HZJgKDnaMByf"
-      },
-      "artists": [
-        {
-          "name": "Wilfrido Vargas",
-          "url": "https://open.spotify.com/artist/5LCDv4TvYRQD5ehflOBEh4"
-        }
-      ],
-      "duration_ms": 255080,
-      "name": "El Hombre Divertido",
-      "url": "https://open.spotify.com/track/75ngzYAvEAuc8YvQgo76iA"
-    },
-    {
-      "added_at": "2026-11-06 05:00:20",
-      "album": {
         "name": "Imparable",
         "url": "https://open.spotify.com/album/700tpyzeI5UxIIW8j2ds7K"
       },
@@ -1239,6 +1223,22 @@
       "duration_ms": 211098,
       "name": "Sin Rumbo",
       "url": "https://open.spotify.com/track/7BJz4hamLaRwAcI1KtLHeI"
+    },
+    {
+      "added_at": "2026-11-06 05:00:20",
+      "album": {
+        "name": "Coleccion Diamante",
+        "url": "https://open.spotify.com/album/05ICn9Npd5HZJgKDnaMByf"
+      },
+      "artists": [
+        {
+          "name": "Wilfrido Vargas",
+          "url": "https://open.spotify.com/artist/5LCDv4TvYRQD5ehflOBEh4"
+        }
+      ],
+      "duration_ms": 255080,
+      "name": "El Hombre Divertido",
+      "url": "https://open.spotify.com/track/75ngzYAvEAuc8YvQgo76iA"
     },
     {
       "added_at": "2026-11-06 05:00:20",
@@ -1303,22 +1303,6 @@
     {
       "added_at": "2026-11-06 05:00:20",
       "album": {
-        "name": "Serie 2000",
-        "url": "https://open.spotify.com/album/7DZr03Gh34452PtpkVRc5m"
-      },
-      "artists": [
-        {
-          "name": "Wilfrido Vargas",
-          "url": "https://open.spotify.com/artist/5LCDv4TvYRQD5ehflOBEh4"
-        }
-      ],
-      "duration_ms": 265680,
-      "name": "Volver\u00e9",
-      "url": "https://open.spotify.com/track/0HFBBgkhwJMvPiEDIkEsyt"
-    },
-    {
-      "added_at": "2026-11-06 05:00:20",
-      "album": {
         "name": "La Faldita",
         "url": "https://open.spotify.com/album/7svwKm81mrsEdnGgtgrgRz"
       },
@@ -1331,6 +1315,22 @@
       "duration_ms": 230906,
       "name": "La Faldita",
       "url": "https://open.spotify.com/track/3glDtaaom1yLlf8aVkHllx"
+    },
+    {
+      "added_at": "2026-11-06 05:00:20",
+      "album": {
+        "name": "Serie 2000",
+        "url": "https://open.spotify.com/album/7DZr03Gh34452PtpkVRc5m"
+      },
+      "artists": [
+        {
+          "name": "Wilfrido Vargas",
+          "url": "https://open.spotify.com/artist/5LCDv4TvYRQD5ehflOBEh4"
+        }
+      ],
+      "duration_ms": 265680,
+      "name": "Volver\u00e9",
+      "url": "https://open.spotify.com/track/0HFBBgkhwJMvPiEDIkEsyt"
     },
     {
       "added_at": "2026-11-06 05:00:20",
@@ -1367,22 +1367,6 @@
     {
       "added_at": "2026-11-06 05:00:20",
       "album": {
-        "name": "LIMI-T Para Siempre",
-        "url": "https://open.spotify.com/album/6tYC7QibL9ENqOc3GSdEHM"
-      },
-      "artists": [
-        {
-          "name": "Limi-T 21",
-          "url": "https://open.spotify.com/artist/5j8Q0VC4Be4yhcQ1tf8Sh7"
-        }
-      ],
-      "duration_ms": 153789,
-      "name": "Quiero Quemar La Pista",
-      "url": "https://open.spotify.com/track/38PuJLicgcUTFgb7FqmXaJ"
-    },
-    {
-      "added_at": "2026-11-06 05:00:20",
-      "album": {
         "name": "Juntos",
         "url": "https://open.spotify.com/album/6yq4tvlzSBaHvdsb8dPg2X"
       },
@@ -1395,6 +1379,22 @@
       "duration_ms": 302213,
       "name": "Dile",
       "url": "https://open.spotify.com/track/1pGgGsZLPNPwVAMZgi0cpL"
+    },
+    {
+      "added_at": "2026-11-06 05:00:20",
+      "album": {
+        "name": "LIMI-T Para Siempre",
+        "url": "https://open.spotify.com/album/6tYC7QibL9ENqOc3GSdEHM"
+      },
+      "artists": [
+        {
+          "name": "Limi-T 21",
+          "url": "https://open.spotify.com/artist/5j8Q0VC4Be4yhcQ1tf8Sh7"
+        }
+      ],
+      "duration_ms": 153789,
+      "name": "Quiero Quemar La Pista",
+      "url": "https://open.spotify.com/track/38PuJLicgcUTFgb7FqmXaJ"
     },
     {
       "added_at": "2026-11-06 05:00:20",
@@ -1451,22 +1451,6 @@
     {
       "added_at": "2026-11-06 05:00:20",
       "album": {
-        "name": "Vivo De Tus Recuerdos",
-        "url": "https://open.spotify.com/album/6QmdBhFtXkLymk4qwW13kf"
-      },
-      "artists": [
-        {
-          "name": "Nelson Arrieta",
-          "url": "https://open.spotify.com/artist/7jS9nzysQ66L1yfPA0HATF"
-        }
-      ],
-      "duration_ms": 198964,
-      "name": "Vivo De Tus Recuerdos",
-      "url": "https://open.spotify.com/track/1mQj1kmMUjBtEfDLAbZLDw"
-    },
-    {
-      "added_at": "2026-11-06 05:00:20",
-      "album": {
         "name": "Juntos",
         "url": "https://open.spotify.com/album/6yq4tvlzSBaHvdsb8dPg2X"
       },
@@ -1479,6 +1463,22 @@
       "duration_ms": 277946,
       "name": "Ni Tu Ni Yo",
       "url": "https://open.spotify.com/track/77cE5knaNTdMi3xwD4qpBv"
+    },
+    {
+      "added_at": "2026-11-06 05:00:20",
+      "album": {
+        "name": "Vivo De Tus Recuerdos",
+        "url": "https://open.spotify.com/album/6QmdBhFtXkLymk4qwW13kf"
+      },
+      "artists": [
+        {
+          "name": "Nelson Arrieta",
+          "url": "https://open.spotify.com/artist/7jS9nzysQ66L1yfPA0HATF"
+        }
+      ],
+      "duration_ms": 198964,
+      "name": "Vivo De Tus Recuerdos",
+      "url": "https://open.spotify.com/track/1mQj1kmMUjBtEfDLAbZLDw"
     },
     {
       "added_at": "2026-11-06 05:00:20",
@@ -1531,22 +1531,6 @@
     {
       "added_at": "2026-11-06 05:00:20",
       "album": {
-        "name": "Best Of The Best",
-        "url": "https://open.spotify.com/album/3HSBkBA1hv9drUjHVhF3oA"
-      },
-      "artists": [
-        {
-          "name": "Ca\u00f1a Brava",
-          "url": "https://open.spotify.com/artist/14C1tQKnUFJiWwKAp2Umga"
-        }
-      ],
-      "duration_ms": 281066,
-      "name": "La Suegra",
-      "url": "https://open.spotify.com/track/7bDoTCEpyesQRjPk0x8ky1"
-    },
-    {
-      "added_at": "2026-11-06 05:00:20",
-      "album": {
         "name": "Lo Mejor de Lo Mejor - Tropical",
         "url": "https://open.spotify.com/album/7Mvvbvm1ALm9bO9dEn7C3i"
       },
@@ -1559,6 +1543,22 @@
       "duration_ms": 286026,
       "name": "La Ventanita",
       "url": "https://open.spotify.com/track/36QUTKmqStL4Ye8s9xeTlc"
+    },
+    {
+      "added_at": "2026-11-06 05:00:20",
+      "album": {
+        "name": "Best Of The Best",
+        "url": "https://open.spotify.com/album/3HSBkBA1hv9drUjHVhF3oA"
+      },
+      "artists": [
+        {
+          "name": "Ca\u00f1a Brava",
+          "url": "https://open.spotify.com/artist/14C1tQKnUFJiWwKAp2Umga"
+        }
+      ],
+      "duration_ms": 281066,
+      "name": "La Suegra",
+      "url": "https://open.spotify.com/track/7bDoTCEpyesQRjPk0x8ky1"
     },
     {
       "added_at": "2026-11-06 05:00:20",
@@ -1579,18 +1579,18 @@
     {
       "added_at": "2026-11-06 05:00:20",
       "album": {
-        "name": "Out of Control",
-        "url": "https://open.spotify.com/album/7MiIB4tUaj2jfu8pGOxX08"
+        "name": "No Me Veran Caer",
+        "url": "https://open.spotify.com/album/05y07x6dL5mGyy8HVnobt8"
       },
       "artists": [
         {
-          "name": "Shino Aguakate",
-          "url": "https://open.spotify.com/artist/6IgsDaIkGCmRK7VEpnjvKI"
+          "name": "Barbosa",
+          "url": "https://open.spotify.com/artist/1ZTqusXWkfiTeOciFTpphG"
         }
       ],
-      "duration_ms": 327346,
-      "name": "Te Gusta Eh",
-      "url": "https://open.spotify.com/track/7rQ3bs2Rh4xwFZw2f1HTKE"
+      "duration_ms": 222426,
+      "name": "No Me Veran Caer",
+      "url": "https://open.spotify.com/track/6Jjr2fRVXtwMQoY94ybm9M"
     },
     {
       "added_at": "2026-11-06 05:00:20",
@@ -1611,18 +1611,18 @@
     {
       "added_at": "2026-11-06 05:00:20",
       "album": {
-        "name": "No Me Veran Caer",
-        "url": "https://open.spotify.com/album/05y07x6dL5mGyy8HVnobt8"
+        "name": "Out of Control",
+        "url": "https://open.spotify.com/album/7MiIB4tUaj2jfu8pGOxX08"
       },
       "artists": [
         {
-          "name": "Barbosa",
-          "url": "https://open.spotify.com/artist/1ZTqusXWkfiTeOciFTpphG"
+          "name": "Shino Aguakate",
+          "url": "https://open.spotify.com/artist/6IgsDaIkGCmRK7VEpnjvKI"
         }
       ],
-      "duration_ms": 222426,
-      "name": "No Me Veran Caer",
-      "url": "https://open.spotify.com/track/6Jjr2fRVXtwMQoY94ybm9M"
+      "duration_ms": 327346,
+      "name": "Te Gusta Eh",
+      "url": "https://open.spotify.com/track/7rQ3bs2Rh4xwFZw2f1HTKE"
     },
     {
       "added_at": "2026-11-06 05:00:20",

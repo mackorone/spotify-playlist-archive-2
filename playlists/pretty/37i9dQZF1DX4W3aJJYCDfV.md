@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4W3aJJYCDfV.md) - [plain]
 
 > Brand new music from Grand Theft Auto VI, Rema ft\. Wizkid, beabadoobee and more!
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,041,159 likes - 99 songs - 5 hr 27 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,041,072 likes - 99 songs - 5 hr 27 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -108,4 +108,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4W3aJJYCDfV.md) - [plain]
 | 98 | [Actions](https://open.spotify.com/track/0YTpBIJP8QQXT73An0fxCF) | [MONOH](https://open.spotify.com/artist/0xfOTzXdixCID1LumtAMVf), [Bow Anderson](https://open.spotify.com/artist/6ObN9YNBliscJOImQp4UZO) | [Actions](https://open.spotify.com/album/6yNSClN0hlc7jv7qwFGG8q) | 2:15 |
 | 99 | [Openness](https://open.spotify.com/track/2o4er8PAV3TeDWBjTZ9rnO) | [India Shan](https://open.spotify.com/artist/5U7ed4eqjReC376kSJKfs8) | [The 11th Hour](https://open.spotify.com/album/0pfRLdRxFCbjNtX7dREDyg) | 2:58 |
 
-Snapshot ID: `AAAAACwP1hpjbV2w1XqofHNjGX7mIvXl`
+Snapshot ID: `AAAAAAX0LiD3MfPNG4/9994FLE9zORwu`

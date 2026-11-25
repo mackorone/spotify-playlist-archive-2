@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZEVXbLJ0paT1JkgZ.md) - [plain]
 
 > Your weekly update of the most played tracks right now \- Chile.
 
-[Spotify](https://open.spotify.com/user/spotify) - 28,293 likes - 50 songs - 2 hr 55 min
+[Spotify](https://open.spotify.com/user/spotify) - 28,291 likes - 50 songs - 2 hr 55 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZEVXbLJ0paT1JkgZ.md) - [plain]
 | 49 | [No Me Suman](https://open.spotify.com/track/23M9h0b9WvF3NC9ZgT0qB4) | [Cris MJ](https://open.spotify.com/artist/1Yj5Xey7kTwvZla8sqdsdE) | [No Me Suman](https://open.spotify.com/album/5ulvNgx5AklRdc42BJljP0) | 2:38 |
 | 50 | [Bastardo \(feat\. Ñengo Flow & Jere Klein\)](https://open.spotify.com/track/6zMHJtXX71pgTf7ZlbXRqm) | [Pablo Chill\-E](https://open.spotify.com/artist/2XcZshqzPKm3iZcmt73R8D), [Jere Klein](https://open.spotify.com/artist/35oGZihZclGoTVuICPXRP9), [Ñengo Flow](https://open.spotify.com/artist/12vb80Km0Ew53ABfJOepVz) | [Los Gangsters Tambien Lloran](https://open.spotify.com/album/3pEtw86iqMmRMHNqBRAC7r) | 4:24 |
 
-Snapshot ID: `Mpf+KAAAAAAAAAAAAAAAAAAAAAAAAGVu`
+Snapshot ID: `Mpk6kAAAAAAAAAAAAAAAAAAAAAAAAGVu`

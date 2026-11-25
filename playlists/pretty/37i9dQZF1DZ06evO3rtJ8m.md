@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3rtJ8m.md) - [plain]
 
 > This is Big Thief\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 48,824 likes - 43 songs - 2 hr 42 min
+[Spotify](https://open.spotify.com/user/spotify) - 48,847 likes - 43 songs - 2 hr 42 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -29,11 +29,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3rtJ8m.md) - [plain]
 | 19 | [Heavy Bend](https://open.spotify.com/track/6qopJBPesEVIrIT0qMtbNs) | [Big Thief](https://open.spotify.com/artist/5QdyldG4Fl4TPiOIeMNpBZ) | [Dragon New Warm Mountain I Believe In You](https://open.spotify.com/album/7Ln81p86r5cCsesd3KBWIY) | 1:36 |
 | 20 | [Cattails](https://open.spotify.com/track/1zNLILPGGfMdEnifTrnY3z) | [Big Thief](https://open.spotify.com/artist/5QdyldG4Fl4TPiOIeMNpBZ) | [U.F.O.F.](https://open.spotify.com/album/0sLnNGW4PzCYFQ4Pn7aVCP) | 4:05 |
 | 21 | [Black Diamonds](https://open.spotify.com/track/4vIYmN7CggO2cPwJdfxCj4) | [Big Thief](https://open.spotify.com/artist/5QdyldG4Fl4TPiOIeMNpBZ) | [Capacity](https://open.spotify.com/album/0ttVHlYJDFPoy54J3uziQd) | 3:34 |
-| 22 | [Double Infinity](https://open.spotify.com/track/4jdNbCXGGciAOLwAShbJ9Z) | [Big Thief](https://open.spotify.com/artist/5QdyldG4Fl4TPiOIeMNpBZ) | [Double Infinity](https://open.spotify.com/album/1yEo1ZJE5ZgIF7LYrDTbMK) | 4:12 |
+| 22 | [How Could I Have Known](https://open.spotify.com/track/17tN4TOGM562ach3uvZZUi) | [Big Thief](https://open.spotify.com/artist/5QdyldG4Fl4TPiOIeMNpBZ) | [Double Infinity](https://open.spotify.com/album/1yEo1ZJE5ZgIF7LYrDTbMK) | 4:48 |
 | 23 | [Spud Infinity](https://open.spotify.com/track/3Q6VfeIZ1bTjWiNe2Or4LQ) | [Big Thief](https://open.spotify.com/artist/5QdyldG4Fl4TPiOIeMNpBZ) | [Dragon New Warm Mountain I Believe In You](https://open.spotify.com/album/7Ln81p86r5cCsesd3KBWIY) | 5:34 |
 | 24 | [Vegas \- 2023 Remaster](https://open.spotify.com/track/2KgWGc5KgyNS0scSS6KLmJ) | [Big Thief](https://open.spotify.com/artist/5QdyldG4Fl4TPiOIeMNpBZ) | [Masterpiece \(2023 Remaster\)](https://open.spotify.com/album/3dtiO2Vs4YZQOFCOCDgtxL) | 2:19 |
 | 25 | [Haley](https://open.spotify.com/track/7933H8AtrJHG5afYmlQlTX) | [Big Thief](https://open.spotify.com/artist/5QdyldG4Fl4TPiOIeMNpBZ) | [Capacity](https://open.spotify.com/album/0ttVHlYJDFPoy54J3uziQd) | 3:32 |
-| 26 | [How Could I Have Known](https://open.spotify.com/track/17tN4TOGM562ach3uvZZUi) | [Big Thief](https://open.spotify.com/artist/5QdyldG4Fl4TPiOIeMNpBZ) | [Double Infinity](https://open.spotify.com/album/1yEo1ZJE5ZgIF7LYrDTbMK) | 4:48 |
+| 26 | [Double Infinity](https://open.spotify.com/track/4jdNbCXGGciAOLwAShbJ9Z) | [Big Thief](https://open.spotify.com/artist/5QdyldG4Fl4TPiOIeMNpBZ) | [Double Infinity](https://open.spotify.com/album/1yEo1ZJE5ZgIF7LYrDTbMK) | 4:12 |
 | 27 | [Forgotten Eyes](https://open.spotify.com/track/3uVlbYb1nUwwcYziaJk9LD) | [Big Thief](https://open.spotify.com/artist/5QdyldG4Fl4TPiOIeMNpBZ) | [Two Hands](https://open.spotify.com/album/5pp7px9MITK2MqeFVbRWGo) | 3:31 |
 | 28 | [Real Love \- 2023 Remaster](https://open.spotify.com/track/7LTUCZcEv05vnvyEsn9HBT) | [Big Thief](https://open.spotify.com/artist/5QdyldG4Fl4TPiOIeMNpBZ) | [Masterpiece \(2023 Remaster\)](https://open.spotify.com/album/3dtiO2Vs4YZQOFCOCDgtxL) | 4:17 |
 | 29 | [Mary](https://open.spotify.com/track/67bAFRTpTgZU00FUUEhvKE) | [Big Thief](https://open.spotify.com/artist/5QdyldG4Fl4TPiOIeMNpBZ) | [Capacity](https://open.spotify.com/album/0ttVHlYJDFPoy54J3uziQd) | 5:30 |
@@ -52,4 +52,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3rtJ8m.md) - [plain]
 | 42 | [Strange](https://open.spotify.com/track/0y8c74ezNCYou4FrX4xI8v) | [Big Thief](https://open.spotify.com/artist/5QdyldG4Fl4TPiOIeMNpBZ) | [U.F.O.F.](https://open.spotify.com/album/0sLnNGW4PzCYFQ4Pn7aVCP) | 3:41 |
 | 43 | [Century](https://open.spotify.com/track/5VgHyTScSLqpTai6oQjird) | [Big Thief](https://open.spotify.com/artist/5QdyldG4Fl4TPiOIeMNpBZ) | [U.F.O.F.](https://open.spotify.com/album/0sLnNGW4PzCYFQ4Pn7aVCP) | 3:07 |
 
-Snapshot ID: `awIwgAAAAABLC8h+9SrnZESLfPczxsUD`
+Snapshot ID: `awOCAAAAAACdQCv6I/S019QQedWRTWvh`

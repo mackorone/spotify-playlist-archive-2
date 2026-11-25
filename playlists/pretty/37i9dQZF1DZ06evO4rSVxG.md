@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO4rSVxG.md) - [plain]
 
 > This is Tony! Toni! Toné!\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 15,902 likes - 39 songs - 3 hr 9 min
+[Spotify](https://open.spotify.com/user/spotify) - 15,905 likes - 39 songs - 3 hr 9 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -35,8 +35,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO4rSVxG.md) - [plain]
 | 25 | [Leavin'](https://open.spotify.com/track/0hUcwyaNHdR9961jFWrIoX) | [Tony! Toni! Toné!](https://open.spotify.com/artist/7vWlb4pM85jCHvV771qZZW) | [Sons Of Soul](https://open.spotify.com/album/55Blx1F1hOYdda222r7jyV) | 5:15 |
 | 26 | [Own Thang \(feat\. Tony! Toni! Toné!\)](https://open.spotify.com/track/45EtM1eyhsJV6d7PPaBxsg) | [Tuxedo](https://open.spotify.com/artist/0CCqHvxGgfjJzwzQzmPlEr), [Tony! Toni! Toné!](https://open.spotify.com/artist/7vWlb4pM85jCHvV771qZZW) | [Own Thang \(feat\. Tony! Toni! Toné!\)](https://open.spotify.com/album/4UZZzT8VtWr2WHafHraL4d) | 3:56 |
 | 27 | [Baby Doll](https://open.spotify.com/track/1ngKdyfldl9J65GryhAxrp) | [Tony! Toni! Toné!](https://open.spotify.com/artist/7vWlb4pM85jCHvV771qZZW) | [Who?](https://open.spotify.com/album/0sd5Xo4rUSD9LTee0C5jbu) | 5:42 |
-| 28 | [All My Love](https://open.spotify.com/track/2cF2yYo8kCxTzuLBO8VBhS) | [Tony! Toni! Toné!](https://open.spotify.com/artist/7vWlb4pM85jCHvV771qZZW) | [The Revival](https://open.spotify.com/album/5yORmYtkTZdFgo6ppcsFZT) | 6:01 |
-| 29 | [Weather 42](https://open.spotify.com/track/4PlbHumYdcw1Y8YPLQHb5I) | [Tony! Toni! Toné!](https://open.spotify.com/artist/7vWlb4pM85jCHvV771qZZW) | [Mi Vida Loca \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/5iUlzIR3CeYjEqW7S8nIkA) | 5:21 |
+| 28 | [Weather 42](https://open.spotify.com/track/4PlbHumYdcw1Y8YPLQHb5I) | [Tony! Toni! Toné!](https://open.spotify.com/artist/7vWlb4pM85jCHvV771qZZW) | [Mi Vida Loca \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/5iUlzIR3CeYjEqW7S8nIkA) | 5:21 |
+| 29 | [All My Love](https://open.spotify.com/track/2cF2yYo8kCxTzuLBO8VBhS) | [Tony! Toni! Toné!](https://open.spotify.com/artist/7vWlb4pM85jCHvV771qZZW) | [The Revival](https://open.spotify.com/album/5yORmYtkTZdFgo6ppcsFZT) | 6:01 |
 | 30 | [House Party II \(I Don't Know What You Come To Do\) \- Radio Edit](https://open.spotify.com/track/3IKx5lW7d4O91KgEn5grej) | [Tony! Toni! Toné!](https://open.spotify.com/artist/7vWlb4pM85jCHvV771qZZW) | [House Party II \(I Don't Know What You Come To Do\)](https://open.spotify.com/album/4SbpI46qdXCwKnbpjfYLLI) | 5:21 |
 | 31 | [Born Not To Know](https://open.spotify.com/track/6Ix4EuZQQNQFUpXT8EQmM7) | [Tony! Toni! Toné!](https://open.spotify.com/artist/7vWlb4pM85jCHvV771qZZW) | [Who?](https://open.spotify.com/album/0sd5Xo4rUSD9LTee0C5jbu) | 4:45 |
 | 32 | [It's a Beautiful Thing \- Sly Mix](https://open.spotify.com/track/5KfFIkuhL7setqTd9DbXDa) | [Tony! Toni! Toné!](https://open.spotify.com/artist/7vWlb4pM85jCHvV771qZZW) | [It's a Beautiful Thing](https://open.spotify.com/album/23WqQ1vWS6lI5NpqFO2G3m) | 4:17 |
@@ -48,4 +48,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO4rSVxG.md) - [plain]
 | 38 | [Going Down](https://open.spotify.com/track/5CCukfXPy9NGfXzKKMIB4x) | [Iam Astro](https://open.spotify.com/artist/6M5Zqx04FgTOT9hFQ3127P), [Jv01](https://open.spotify.com/artist/3mDqaTnON2hDcDzlXLeIhU), [Tony! Toni! Toné!](https://open.spotify.com/artist/7vWlb4pM85jCHvV771qZZW) | [Going Down](https://open.spotify.com/album/6KW4VeHycSLe3rBh4sTqQd) | 2:57 |
 | 39 | [Pain](https://open.spotify.com/track/1K9rkQbCTj7LE1ZuJr0Jns) | [Tony! Toni! Toné!](https://open.spotify.com/artist/7vWlb4pM85jCHvV771qZZW) | [Who?](https://open.spotify.com/album/0sd5Xo4rUSD9LTee0C5jbu) | 5:46 |
 
-Snapshot ID: `awIwgAAAAAAlsEX0aA4Y9mpUm3sThCDw`
+Snapshot ID: `awOCAAAAAABv7buxC0rxTG4q6Hrr0K7k`

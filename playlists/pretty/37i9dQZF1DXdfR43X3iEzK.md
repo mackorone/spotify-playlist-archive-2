@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdfR43X3iEzK.md) - [plain]
 
 > my alt/pop could mean anything ⚔️ cover: cikho
 
-[Spotify](https://open.spotify.com/user/spotify) - 52,840 likes - 91 songs - 4 hr 59 min
+[Spotify](https://open.spotify.com/user/spotify) - 52,841 likes - 91 songs - 4 hr 59 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -100,4 +100,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdfR43X3iEzK.md) - [plain]
 | 90 | [Multiplied](https://open.spotify.com/track/5ElEuV9r3cm5Ny7AX1HmBv) | [Luna Li](https://open.spotify.com/artist/4ZAk3yVJdtf1CFnTiG08U3) | [Multiplied](https://open.spotify.com/album/1dSUYAnM09cURsfcPWjX0R) | 3:02 |
 | 91 | [Boys In Blue](https://open.spotify.com/track/0R3sddzRt8fbbY9GKmv1lw) | [Nia Archives](https://open.spotify.com/artist/7BMR0fwtEvzGtK4rNGdoiQ) | [Boys In Blue](https://open.spotify.com/album/4Gc4rNpM6O60fm6seAbhqH) | 2:33 |
 
-Snapshot ID: `AAAAAIaEFI1bW36cGwLz9ydosXI9DcUD`
+Snapshot ID: `AAAAACnG9+47j93GTouAwtQqTOV+MjzD`

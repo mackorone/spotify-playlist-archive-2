@@ -1,12 +1,12 @@
 {
   "description": "brand new indie songs in high rotation. Cover: beabadoobee",
-  "num_followers": 1898932,
+  "num_followers": 1898808,
   "original_name": "Indie's Top 50",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAGGQNXi40APq+AUDP2FdctZniBHW",
+  "snapshot_id": "AAAAAJ2TXEg307zHeiYoqrSjIAvFMqlX",
   "tracks": [
     {
       "added_at": "2026-11-20 05:02:13",
@@ -23,38 +23,6 @@
       "duration_ms": 197373,
       "name": "No Punctuation",
       "url": "https://open.spotify.com/track/6eZdZWIjhIGU7OR0FhmvqJ"
-    },
-    {
-      "added_at": "2026-11-20 05:02:13",
-      "album": {
-        "name": "Fly 1111",
-        "url": "https://open.spotify.com/album/6tq0sS8PvlJMBWEXGn70fM"
-      },
-      "artists": [
-        {
-          "name": "Emma Ogier",
-          "url": "https://open.spotify.com/artist/7lVBH2nQlHcpcU4RiY7izm"
-        }
-      ],
-      "duration_ms": 205704,
-      "name": "Land",
-      "url": "https://open.spotify.com/track/7MB1tKZya7KsesEn5F1XkD"
-    },
-    {
-      "added_at": "2026-10-16 04:01:22",
-      "album": {
-        "name": "Mud",
-        "url": "https://open.spotify.com/album/19cvoEE5d3pMkxLFL5TsAG"
-      },
-      "artists": [
-        {
-          "name": "Remi Wolf",
-          "url": "https://open.spotify.com/artist/0NB5HROxc8dDBXpkIi1v3d"
-        }
-      ],
-      "duration_ms": 210665,
-      "name": "Champagne",
-      "url": "https://open.spotify.com/track/0Rxs96nQeboThWCNzP4H0c"
     },
     {
       "added_at": "2026-11-20 05:02:13",
@@ -77,6 +45,22 @@
       "url": "https://open.spotify.com/track/3uQ8p120IPeO2n0h36IAcY"
     },
     {
+      "added_at": "2026-11-24 16:19:55",
+      "album": {
+        "name": "Grand Theft Auto VI: The Album",
+        "url": "https://open.spotify.com/album/5BYKG4MHfySZthe2W6r7n4"
+      },
+      "artists": [
+        {
+          "name": "Lana Del Rey",
+          "url": "https://open.spotify.com/artist/00FQb4jTyendYWaN8pK0wa"
+        }
+      ],
+      "duration_ms": 223683,
+      "name": "Crazy For You",
+      "url": "https://open.spotify.com/track/7atOpwxr1aIeRlyGEPNn0C"
+    },
+    {
       "added_at": "2026-10-23 04:02:01",
       "album": {
         "name": "the cops are coming",
@@ -91,6 +75,22 @@
       "duration_ms": 193615,
       "name": "the cops are coming",
       "url": "https://open.spotify.com/track/1BlZIQiHakd1k4YmKsymZt"
+    },
+    {
+      "added_at": "2026-10-16 04:01:22",
+      "album": {
+        "name": "Mud",
+        "url": "https://open.spotify.com/album/19cvoEE5d3pMkxLFL5TsAG"
+      },
+      "artists": [
+        {
+          "name": "Remi Wolf",
+          "url": "https://open.spotify.com/artist/0NB5HROxc8dDBXpkIi1v3d"
+        }
+      ],
+      "duration_ms": 210665,
+      "name": "Champagne",
+      "url": "https://open.spotify.com/track/0Rxs96nQeboThWCNzP4H0c"
     },
     {
       "added_at": "2026-11-20 05:02:13",
@@ -133,6 +133,22 @@
       "url": "https://open.spotify.com/track/735s7kB0oA5PXgXtiSZLMG"
     },
     {
+      "added_at": "2026-11-24 23:41:46",
+      "album": {
+        "name": "How to Count to Five",
+        "url": "https://open.spotify.com/album/336ZRfgCtvRuRPp0THNrYJ"
+      },
+      "artists": [
+        {
+          "name": "Holidays in United States",
+          "url": "https://open.spotify.com/artist/4Hx2EMq5CumzokenbyEcSM"
+        }
+      ],
+      "duration_ms": 246895,
+      "name": "Dainty Flower Song",
+      "url": "https://open.spotify.com/track/3hMcwwnatAWMmDfcD3r1z2"
+    },
+    {
       "added_at": "2026-11-20 05:02:13",
       "album": {
         "name": "Great Destroyer",
@@ -147,6 +163,22 @@
       "duration_ms": 249586,
       "name": "Great Destroyer",
       "url": "https://open.spotify.com/track/37VSm7OkJYKnGszEqUQm6d"
+    },
+    {
+      "added_at": "2026-11-20 05:02:13",
+      "album": {
+        "name": "Fly 1111",
+        "url": "https://open.spotify.com/album/6tq0sS8PvlJMBWEXGn70fM"
+      },
+      "artists": [
+        {
+          "name": "Emma Ogier",
+          "url": "https://open.spotify.com/artist/7lVBH2nQlHcpcU4RiY7izm"
+        }
+      ],
+      "duration_ms": 205704,
+      "name": "Land",
+      "url": "https://open.spotify.com/track/7MB1tKZya7KsesEn5F1XkD"
     },
     {
       "added_at": "2026-11-20 05:02:13",
@@ -233,20 +265,36 @@
       "url": "https://open.spotify.com/track/3lIHa4fUwNKOCSS5k3Za0i"
     },
     {
-      "added_at": "2026-11-20 05:02:13",
+      "added_at": "2026-11-24 16:19:55",
       "album": {
-        "name": "Barely Holding On",
-        "url": "https://open.spotify.com/album/65IWxp8l1ZGbaCSCphT5UE"
+        "name": "the after glow",
+        "url": "https://open.spotify.com/album/2OYqbmOlEATNjnA9OVC18F"
       },
       "artists": [
         {
-          "name": "Buffalo Traffic Jam",
-          "url": "https://open.spotify.com/artist/22LEPYRDhoThnbpShy6fV7"
+          "name": "earfzilla",
+          "url": "https://open.spotify.com/artist/65SDZetBIC5qK27DoJUx0f"
         }
       ],
-      "duration_ms": 211208,
-      "name": "Barely Holding On",
-      "url": "https://open.spotify.com/track/03OKFX1BUgk9A7cIBCzd6z"
+      "duration_ms": 86964,
+      "name": "vintage vuitton",
+      "url": "https://open.spotify.com/track/6fuVQuXh7Bq4eMKUT994dd"
+    },
+    {
+      "added_at": "2026-11-20 05:02:13",
+      "album": {
+        "name": "Everything On Fire",
+        "url": "https://open.spotify.com/album/3X4JQKQqriikASbUet3yBN"
+      },
+      "artists": [
+        {
+          "name": "Maia Toakley",
+          "url": "https://open.spotify.com/artist/1B1J5gTh5qjRAykIQMX8Ka"
+        }
+      ],
+      "duration_ms": 228240,
+      "name": "Everything On Fire",
+      "url": "https://open.spotify.com/track/0UQqqjAgaF55dma8PxwMXp"
     },
     {
       "added_at": "2026-08-14 04:02:19",
@@ -299,18 +347,18 @@
     {
       "added_at": "2026-11-20 05:02:13",
       "album": {
-        "name": "Everything On Fire",
-        "url": "https://open.spotify.com/album/3X4JQKQqriikASbUet3yBN"
+        "name": "Barely Holding On",
+        "url": "https://open.spotify.com/album/65IWxp8l1ZGbaCSCphT5UE"
       },
       "artists": [
         {
-          "name": "Maia Toakley",
-          "url": "https://open.spotify.com/artist/1B1J5gTh5qjRAykIQMX8Ka"
+          "name": "Buffalo Traffic Jam",
+          "url": "https://open.spotify.com/artist/22LEPYRDhoThnbpShy6fV7"
         }
       ],
-      "duration_ms": 228240,
-      "name": "Everything On Fire",
-      "url": "https://open.spotify.com/track/0UQqqjAgaF55dma8PxwMXp"
+      "duration_ms": 211208,
+      "name": "Barely Holding On",
+      "url": "https://open.spotify.com/track/03OKFX1BUgk9A7cIBCzd6z"
     },
     {
       "added_at": "2026-11-20 05:02:13",
@@ -511,26 +559,6 @@
       "duration_ms": 97693,
       "name": "I Give Everything I Have 2 U (feat. Loaded Honey)",
       "url": "https://open.spotify.com/track/08DdQe8ybw5ya8ZMeYXkIu"
-    },
-    {
-      "added_at": "2026-11-20 05:02:13",
-      "album": {
-        "name": "HOW TO QUIT SMOKING",
-        "url": "https://open.spotify.com/album/4JxUxYheA8Xs2dvEZTWsyg"
-      },
-      "artists": [
-        {
-          "name": "Dominic Fike",
-          "url": "https://open.spotify.com/artist/6USv9qhCn6zfxlBQIYJ9qs"
-        },
-        {
-          "name": "Hether",
-          "url": "https://open.spotify.com/artist/5O35zGUolf87RATk2NgSD3"
-        }
-      ],
-      "duration_ms": 157349,
-      "name": "RENO",
-      "url": "https://open.spotify.com/track/65CWvURRoOpaCZbuwaV4ZA"
     },
     {
       "added_at": "2026-10-23 04:02:01",
@@ -803,22 +831,6 @@
       "duration_ms": 274120,
       "name": "I WANNA LOVE YOU BABE",
       "url": "https://open.spotify.com/track/3jNgp0vOXGqd0Dy9V4KdsB"
-    },
-    {
-      "added_at": "2026-09-18 04:00:28",
-      "album": {
-        "name": "Are You Willing",
-        "url": "https://open.spotify.com/album/6STKU0OmvS8oV6N2z3WjBG"
-      },
-      "artists": [
-        {
-          "name": "Wet",
-          "url": "https://open.spotify.com/artist/2i9uaNzfUtuApAjEf1omV8"
-        }
-      ],
-      "duration_ms": 230132,
-      "name": "Are You Willing",
-      "url": "https://open.spotify.com/track/6my2GkulHxUnSzKZkRv38d"
     },
     {
       "added_at": "2026-09-11 04:01:56",

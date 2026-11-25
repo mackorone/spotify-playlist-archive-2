@@ -231,6 +231,24 @@
     },
     {
       "album": {
+        "name": "BUNK",
+        "url": "https://open.spotify.com/album/3QxoZZayEouZx4qjHF3wNf"
+      },
+      "artists": [
+        {
+          "name": "Mark Lux",
+          "url": "https://open.spotify.com/artist/29fuOxHZkxmYqLIpBjE7V5"
+        }
+      ],
+      "date_added": "2026-11-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 146196,
+      "name": "BUNK",
+      "url": "https://open.spotify.com/track/0W2q0ZfVRVFydiTEgO5N7U"
+    },
+    {
+      "album": {
         "name": "Burukutu",
         "url": "https://open.spotify.com/album/5fmsGkc9fvR1MYajeQFwB7"
       },
@@ -854,7 +872,7 @@
       ],
       "date_added": "2026-10-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-25",
       "duration_ms": 251639,
       "name": "Te Imagino",
       "url": "https://open.spotify.com/track/2zMwhxsn38rjCCnIwpaoh4"

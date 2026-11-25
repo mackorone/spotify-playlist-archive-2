@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9O8HCSWScgZ.md) - [plain]
 
 > warm and cozy beats to watch the leaves fall, focus, study or chill to.
 
-[Spotify](https://open.spotify.com/user/spotify) - 101,353 likes - 85 songs - 3 hr 11 min
+[Spotify](https://open.spotify.com/user/spotify) - 101,578 likes - 85 songs - 3 hr 11 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -94,4 +94,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9O8HCSWScgZ.md) - [plain]
 | 84 | [ghee](https://open.spotify.com/track/2tIuYjDRwnJfJEt4uDEjRl) | [lilibu](https://open.spotify.com/artist/2GAEdgtVHrKsjcHqwUFjpI) | [ghee](https://open.spotify.com/album/2u7bj6y7s28vB8Vsa0QhCg) | 3:00 |
 | 85 | [Inconspicuous](https://open.spotify.com/track/2OnnVbgVtWHzLLSne6IXT8) | [Shayla Sereno](https://open.spotify.com/artist/0d2oMUkzD4I5It0MFXNVpb) | [Inconspicuous](https://open.spotify.com/album/7njxinH6A0xtEB5QPO3A6b) | 1:57 |
 
-Snapshot ID: `AAAAAH1tJX4yjJtwTuVGtpt2yTlsVie3`
+Snapshot ID: `AAAAAAw5pS1/XUQk4pmdfMPHkDfsHWn5`

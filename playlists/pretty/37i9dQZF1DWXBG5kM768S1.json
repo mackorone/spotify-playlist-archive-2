@@ -1,12 +1,12 @@
 {
   "description": "Fantastiske viser fra noen av v\u00e5re aller beste artister.",
-  "num_followers": 81864,
+  "num_followers": 81871,
   "original_name": "Norske viser",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAIZE7bvLe6ehGpHKyCMzu7j6yEBd",
+  "snapshot_id": "AAAAAF1R5ABUkbZ6JlPY0IHY8s8LPqYc",
   "tracks": [
     {
       "added_at": "2026-03-12 23:00:43",
@@ -643,6 +643,22 @@
     {
       "added_at": "2026-03-12 23:00:43",
       "album": {
+        "name": "Alt det som skinner",
+        "url": "https://open.spotify.com/album/2R6Dqa6ORZaDkBXeD9SMbr"
+      },
+      "artists": [
+        {
+          "name": "Anne Grete Preus",
+          "url": "https://open.spotify.com/artist/32mTrXKr7W8Tg4hH4S2Do1"
+        }
+      ],
+      "duration_ms": 250403,
+      "name": "Alt det som skinner",
+      "url": "https://open.spotify.com/track/0HYvxo4SmIg7pS6TDoODUD"
+    },
+    {
+      "added_at": "2026-03-12 23:00:43",
+      "album": {
         "name": "Evig kvile",
         "url": "https://open.spotify.com/album/3FXRGtIbIadCBWasFSyOaq"
       },
@@ -663,22 +679,6 @@
     {
       "added_at": "2026-03-12 23:00:43",
       "album": {
-        "name": "Alt det som skinner",
-        "url": "https://open.spotify.com/album/2R6Dqa6ORZaDkBXeD9SMbr"
-      },
-      "artists": [
-        {
-          "name": "Anne Grete Preus",
-          "url": "https://open.spotify.com/artist/32mTrXKr7W8Tg4hH4S2Do1"
-        }
-      ],
-      "duration_ms": 250403,
-      "name": "Alt det som skinner",
-      "url": "https://open.spotify.com/track/0HYvxo4SmIg7pS6TDoODUD"
-    },
-    {
-      "added_at": "2026-03-12 23:00:43",
-      "album": {
         "name": "Ramler mot hverandre",
         "url": "https://open.spotify.com/album/2ZtsLOse1UpbB5CZZRMN5b"
       },
@@ -695,22 +695,6 @@
     {
       "added_at": "2026-03-12 23:00:43",
       "album": {
-        "name": "Vendepunkt",
-        "url": "https://open.spotify.com/album/3eU4aCZuPIq8hL2dSoibWI"
-      },
-      "artists": [
-        {
-          "name": "Eva Weel Skram",
-          "url": "https://open.spotify.com/artist/3u2Sz4K3PFfalhDU0vSHT3"
-        }
-      ],
-      "duration_ms": 197529,
-      "name": "P\u00e5 bes\u00f8k",
-      "url": "https://open.spotify.com/track/0uoq8SgOPFuT6uq5WtlXFi"
-    },
-    {
-      "added_at": "2026-03-12 23:00:43",
-      "album": {
         "name": "Hildringstimer - 14 velvalgte viser",
         "url": "https://open.spotify.com/album/3STZjoiXVRs4EnnkrBiZ1x"
       },
@@ -723,6 +707,22 @@
       "duration_ms": 187600,
       "name": "Varherres Klinkekuler",
       "url": "https://open.spotify.com/track/5jbz1Pwz06o9fPMYFrmTOP"
+    },
+    {
+      "added_at": "2026-03-12 23:00:43",
+      "album": {
+        "name": "Vendepunkt",
+        "url": "https://open.spotify.com/album/3eU4aCZuPIq8hL2dSoibWI"
+      },
+      "artists": [
+        {
+          "name": "Eva Weel Skram",
+          "url": "https://open.spotify.com/artist/3u2Sz4K3PFfalhDU0vSHT3"
+        }
+      ],
+      "duration_ms": 197529,
+      "name": "P\u00e5 bes\u00f8k",
+      "url": "https://open.spotify.com/track/0uoq8SgOPFuT6uq5WtlXFi"
     },
     {
       "added_at": "2026-03-12 23:00:43",

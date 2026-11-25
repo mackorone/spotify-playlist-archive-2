@@ -1,12 +1,12 @@
 {
   "description": "A fun library of country hits to pass on to the next generation!",
-  "num_followers": 373619,
+  "num_followers": 373647,
   "original_name": "Raised on Country",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAIaIIM8H8wJxf5cncknyqeeHsUPO",
+  "snapshot_id": "AAAAAFIPpVvGSIuuCrvEoztVUuSKWsup",
   "tracks": [
     {
       "added_at": "2026-02-03 18:58:40",
@@ -975,22 +975,6 @@
     {
       "added_at": "2026-02-03 18:58:40",
       "album": {
-        "name": "Country Club",
-        "url": "https://open.spotify.com/album/3DcqxxwxranqrA4zTGmzmo"
-      },
-      "artists": [
-        {
-          "name": "Travis Tritt",
-          "url": "https://open.spotify.com/artist/2M4Yt7oKGoYd0wqU44k4i2"
-        }
-      ],
-      "duration_ms": 244933,
-      "name": "I'm Gonna Be Somebody",
-      "url": "https://open.spotify.com/track/4ICSwxlVyGaTquNqblL7Y9"
-    },
-    {
-      "added_at": "2026-02-03 18:58:40",
-      "album": {
         "name": "Rockin' With The Rhythm",
         "url": "https://open.spotify.com/album/5sUOntUxlMmGEND5wboCTq"
       },
@@ -1003,6 +987,22 @@
       "duration_ms": 254640,
       "name": "Grandpa (Tell Me 'Bout The Good Old Days)",
       "url": "https://open.spotify.com/track/0ogTZlmFqg5xyFCMpRAEb4"
+    },
+    {
+      "added_at": "2026-02-03 18:58:40",
+      "album": {
+        "name": "Country Club",
+        "url": "https://open.spotify.com/album/3DcqxxwxranqrA4zTGmzmo"
+      },
+      "artists": [
+        {
+          "name": "Travis Tritt",
+          "url": "https://open.spotify.com/artist/2M4Yt7oKGoYd0wqU44k4i2"
+        }
+      ],
+      "duration_ms": 244933,
+      "name": "I'm Gonna Be Somebody",
+      "url": "https://open.spotify.com/track/4ICSwxlVyGaTquNqblL7Y9"
     },
     {
       "added_at": "2026-02-03 18:58:40",
@@ -1055,22 +1055,6 @@
     {
       "added_at": "2026-02-03 18:58:40",
       "album": {
-        "name": "Ultimate Alabama 20 # 1 Hits",
-        "url": "https://open.spotify.com/album/4oFLKch6Zh0YanY9Uj2s8z"
-      },
-      "artists": [
-        {
-          "name": "Alabama",
-          "url": "https://open.spotify.com/artist/6rJqqRce0Kvo2dJUXoHleC"
-        }
-      ],
-      "duration_ms": 218613,
-      "name": "Mountain Music",
-      "url": "https://open.spotify.com/track/7BjmEKAVTnJNkRNaUzBy2K"
-    },
-    {
-      "added_at": "2026-02-03 18:58:40",
-      "album": {
         "name": "Wide Open Spaces",
         "url": "https://open.spotify.com/album/11Rni6y5dnNo6NRVuxltIj"
       },
@@ -1083,6 +1067,22 @@
       "duration_ms": 223832,
       "name": "Wide Open Spaces",
       "url": "https://open.spotify.com/track/6cjwec9ii5uLK7CDfPBYt1"
+    },
+    {
+      "added_at": "2026-02-03 18:58:40",
+      "album": {
+        "name": "Ultimate Alabama 20 # 1 Hits",
+        "url": "https://open.spotify.com/album/4oFLKch6Zh0YanY9Uj2s8z"
+      },
+      "artists": [
+        {
+          "name": "Alabama",
+          "url": "https://open.spotify.com/artist/6rJqqRce0Kvo2dJUXoHleC"
+        }
+      ],
+      "duration_ms": 218613,
+      "name": "Mountain Music",
+      "url": "https://open.spotify.com/track/7BjmEKAVTnJNkRNaUzBy2K"
     },
     {
       "added_at": "2026-02-03 18:58:40",
@@ -1423,6 +1423,22 @@
     {
       "added_at": "2026-02-03 18:58:40",
       "album": {
+        "name": "Honky Tonk Attitude",
+        "url": "https://open.spotify.com/album/1P1OZ9XR6qjmOV6J2G8LDi"
+      },
+      "artists": [
+        {
+          "name": "Joe Diffie",
+          "url": "https://open.spotify.com/artist/3THMgU4KdL7LlO5TEREs2g"
+        }
+      ],
+      "duration_ms": 272066,
+      "name": "John Deere Green",
+      "url": "https://open.spotify.com/track/2evFJQfQVcDEXyOiyEV6OW"
+    },
+    {
+      "added_at": "2026-02-03 18:58:40",
+      "album": {
         "name": "White Limozeen",
         "url": "https://open.spotify.com/album/10jK6LkJr9Dav78dhsXZJY"
       },
@@ -1439,34 +1455,18 @@
     {
       "added_at": "2026-02-03 18:58:40",
       "album": {
-        "name": "Deja Vu",
-        "url": "https://open.spotify.com/album/5bHkK1X4WEOzNvRhehvOcb"
+        "name": "C.W. McCall's Greatest Hits",
+        "url": "https://open.spotify.com/album/6XbZ0Hc2LQaLJuUaFrHfTY"
       },
       "artists": [
         {
-          "name": "Crosby, Stills, Nash & Young",
-          "url": "https://open.spotify.com/artist/1CYsQCypByMVgnv17qsSbQ"
+          "name": "C.W. McCall",
+          "url": "https://open.spotify.com/artist/0iTkPxRldzi5lmS6qZ70JV"
         }
       ],
-      "duration_ms": 173466,
-      "name": "Teach Your Children",
-      "url": "https://open.spotify.com/track/29HaKOpeLSYvqdFyEQSRdj"
-    },
-    {
-      "added_at": "2026-02-03 18:58:40",
-      "album": {
-        "name": "Honky Tonk Attitude",
-        "url": "https://open.spotify.com/album/1P1OZ9XR6qjmOV6J2G8LDi"
-      },
-      "artists": [
-        {
-          "name": "Joe Diffie",
-          "url": "https://open.spotify.com/artist/3THMgU4KdL7LlO5TEREs2g"
-        }
-      ],
-      "duration_ms": 272066,
-      "name": "John Deere Green",
-      "url": "https://open.spotify.com/track/2evFJQfQVcDEXyOiyEV6OW"
+      "duration_ms": 230600,
+      "name": "Convoy",
+      "url": "https://open.spotify.com/track/6dGWq08LXuIw6T2oUeHECh"
     },
     {
       "added_at": "2026-02-03 18:58:40",
@@ -1487,18 +1487,18 @@
     {
       "added_at": "2026-02-03 18:58:40",
       "album": {
-        "name": "C.W. McCall's Greatest Hits",
-        "url": "https://open.spotify.com/album/6XbZ0Hc2LQaLJuUaFrHfTY"
+        "name": "Deja Vu",
+        "url": "https://open.spotify.com/album/5bHkK1X4WEOzNvRhehvOcb"
       },
       "artists": [
         {
-          "name": "C.W. McCall",
-          "url": "https://open.spotify.com/artist/0iTkPxRldzi5lmS6qZ70JV"
+          "name": "Crosby, Stills, Nash & Young",
+          "url": "https://open.spotify.com/artist/1CYsQCypByMVgnv17qsSbQ"
         }
       ],
-      "duration_ms": 230600,
-      "name": "Convoy",
-      "url": "https://open.spotify.com/track/6dGWq08LXuIw6T2oUeHECh"
+      "duration_ms": 173466,
+      "name": "Teach Your Children",
+      "url": "https://open.spotify.com/track/29HaKOpeLSYvqdFyEQSRdj"
     },
     {
       "added_at": "2026-02-03 18:58:40",

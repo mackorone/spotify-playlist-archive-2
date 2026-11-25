@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWY6UWUOwj4BO.md) - [plain]
 
 > Les meilleurs titres du moment et plus encore en version acoustique.
 
-[Spotify](https://open.spotify.com/user/spotify) - 271,135 likes - 50 songs - 2 hr 42 min
+[Spotify](https://open.spotify.com/user/spotify) - 271,148 likes - 50 songs - 2 hr 42 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWY6UWUOwj4BO.md) - [plain]
 | 49 | [Overdrive \(feat\. Norma Jean Martine\) \- Acoustic Version](https://open.spotify.com/track/2C48i664TyRtr77PBzW6cS) | [Ofenbach](https://open.spotify.com/artist/4AKwRarlmsUlLjIwt38NLw), [Norma Jean Martine](https://open.spotify.com/artist/2fsk4VlJdNF6G8cCMDrrzB) | [Overdrive \(feat\. Norma Jean Martine\) \[Acoustic Version\]](https://open.spotify.com/album/2NDVKadwJzVmaA0TMXzP3G) | 2:07 |
 | 50 | [Gold \- Acoustic](https://open.spotify.com/track/2RpMIPx8SPeO5kAMdrHNak) | [Myles Smith](https://open.spotify.com/artist/3bO19AOone0ubCsfDXDtYt) | [Gold \(Acoustic\)](https://open.spotify.com/album/2TOC7DKcekUzDh8UAzF4T2) | 2:49 |
 
-Snapshot ID: `AAAAAGaO7X4mo7VDEsQiFIWtuGEeLpOS`
+Snapshot ID: `AAAAABD4nSkhhENJF0c7aCuBkX1wESjo`

@@ -1,12 +1,12 @@
 {
   "description": "Allerbeste songs van de 80's! Cover: U2",
-  "num_followers": 147986,
+  "num_followers": 148001,
   "original_name": "80's Allerbeste",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAALYPQnD1IrdizPrH0rIwNlRA2l6O",
+  "snapshot_id": "AAAAAN7IbcIZSSBd5wCAepTx7jO0yW8l",
   "tracks": [
     {
       "added_at": "2024-07-09 16:44:07",
@@ -227,22 +227,6 @@
     {
       "added_at": "2024-07-09 16:44:07",
       "album": {
-        "name": "Thriller 25 Super Deluxe Edition",
-        "url": "https://open.spotify.com/album/1C2h7mLntPSeVYciMRTF4a"
-      },
-      "artists": [
-        {
-          "name": "Michael Jackson",
-          "url": "https://open.spotify.com/artist/3fMbdgg4jU18AjLCKBhRSm"
-        }
-      ],
-      "duration_ms": 293826,
-      "name": "Billie Jean",
-      "url": "https://open.spotify.com/track/5ChkMS8OtdzJeqyybCc9R5"
-    },
-    {
-      "added_at": "2024-07-09 16:44:07",
-      "album": {
         "name": "Katrina & The Waves",
         "url": "https://open.spotify.com/album/1UQG78YJjaBySRMh0A8Uw7"
       },
@@ -255,6 +239,22 @@
       "duration_ms": 238733,
       "name": "Walking On Sunshine",
       "url": "https://open.spotify.com/track/05wIrZSwuaVWhcv5FfqeH0"
+    },
+    {
+      "added_at": "2024-07-09 16:44:07",
+      "album": {
+        "name": "Thriller 25 Super Deluxe Edition",
+        "url": "https://open.spotify.com/album/1C2h7mLntPSeVYciMRTF4a"
+      },
+      "artists": [
+        {
+          "name": "Michael Jackson",
+          "url": "https://open.spotify.com/artist/3fMbdgg4jU18AjLCKBhRSm"
+        }
+      ],
+      "duration_ms": 293826,
+      "name": "Billie Jean",
+      "url": "https://open.spotify.com/track/5ChkMS8OtdzJeqyybCc9R5"
     },
     {
       "added_at": "2024-07-09 16:44:07",
@@ -307,22 +307,6 @@
     {
       "added_at": "2024-07-09 16:44:07",
       "album": {
-        "name": "Bad (Remastered)",
-        "url": "https://open.spotify.com/album/3Us57CjssWnHjTUIXBuIeH"
-      },
-      "artists": [
-        {
-          "name": "Michael Jackson",
-          "url": "https://open.spotify.com/artist/3fMbdgg4jU18AjLCKBhRSm"
-        }
-      ],
-      "duration_ms": 318687,
-      "name": "Man in the Mirror - 2012 Remaster",
-      "url": "https://open.spotify.com/track/3c7Ctlw9MKlIQPxRH3fOTt"
-    },
-    {
-      "added_at": "2024-07-09 16:44:07",
-      "album": {
         "name": "Graceland (25th Anniversary Deluxe Edition)",
         "url": "https://open.spotify.com/album/6WgGWYw6XXQyLTsWt7tXky"
       },
@@ -335,6 +319,22 @@
       "duration_ms": 280586,
       "name": "You Can Call Me Al",
       "url": "https://open.spotify.com/track/0qxYx4F3vm1AOnfux6dDxP"
+    },
+    {
+      "added_at": "2024-07-09 16:44:07",
+      "album": {
+        "name": "Bad (Remastered)",
+        "url": "https://open.spotify.com/album/3Us57CjssWnHjTUIXBuIeH"
+      },
+      "artists": [
+        {
+          "name": "Michael Jackson",
+          "url": "https://open.spotify.com/artist/3fMbdgg4jU18AjLCKBhRSm"
+        }
+      ],
+      "duration_ms": 318687,
+      "name": "Man in the Mirror - 2012 Remaster",
+      "url": "https://open.spotify.com/track/3c7Ctlw9MKlIQPxRH3fOTt"
     },
     {
       "added_at": "2024-07-09 16:44:07",
@@ -955,22 +955,6 @@
     {
       "added_at": "2024-07-09 16:44:07",
       "album": {
-        "name": "Best Of Anita Meyer",
-        "url": "https://open.spotify.com/album/5MY0wd1GZZxMSMZ9hRzTVV"
-      },
-      "artists": [
-        {
-          "name": "Anita Meyer",
-          "url": "https://open.spotify.com/artist/7xxVm0cM4x7TUBadZQuz3S"
-        }
-      ],
-      "duration_ms": 213773,
-      "name": "Why Tell Me Why",
-      "url": "https://open.spotify.com/track/06c2L1gFGjdtqIDZ9lleH5"
-    },
-    {
-      "added_at": "2024-07-09 16:44:07",
-      "album": {
         "name": "Belgie",
         "url": "https://open.spotify.com/album/3FhvAa1JUA71NTX6AJBfpc"
       },
@@ -983,6 +967,22 @@
       "duration_ms": 360706,
       "name": "Belgie ... (Is Er Leven Op Pluto ...)",
       "url": "https://open.spotify.com/track/0otIFwtEKqrDBGb3cvLRu4"
+    },
+    {
+      "added_at": "2024-07-09 16:44:07",
+      "album": {
+        "name": "Best Of Anita Meyer",
+        "url": "https://open.spotify.com/album/5MY0wd1GZZxMSMZ9hRzTVV"
+      },
+      "artists": [
+        {
+          "name": "Anita Meyer",
+          "url": "https://open.spotify.com/artist/7xxVm0cM4x7TUBadZQuz3S"
+        }
+      ],
+      "duration_ms": 213773,
+      "name": "Why Tell Me Why",
+      "url": "https://open.spotify.com/track/06c2L1gFGjdtqIDZ9lleH5"
     },
     {
       "added_at": "2024-07-09 16:44:07",
@@ -1304,7 +1304,7 @@
           "url": "https://open.spotify.com/artist/31QaP8ttyZpVIXabCmWKc2"
         }
       ],
-      "duration_ms": 206093,
+      "duration_ms": 208733,
       "name": "Ik Weet Niet Hoe",
       "url": "https://open.spotify.com/track/17tJLDBm76LdZoHG2t587G"
     },
@@ -1523,18 +1523,18 @@
     {
       "added_at": "2024-07-09 16:44:07",
       "album": {
-        "name": "Purple Rain",
-        "url": "https://open.spotify.com/album/7nXJ5k4XgRj5OLg9m8V3zc"
+        "name": "Greatest Vol.1 - Belinda Carlisle",
+        "url": "https://open.spotify.com/album/3fzHLg5RfRXzQlHlR4F7JG"
       },
       "artists": [
         {
-          "name": "Prince",
-          "url": "https://open.spotify.com/artist/5a2EaR3hamoenG9rDuVn8j"
+          "name": "Belinda Carlisle",
+          "url": "https://open.spotify.com/artist/7xkAwz0bQTGDSbkofyQt3U"
         }
       ],
-      "duration_ms": 520786,
-      "name": "Purple Rain",
-      "url": "https://open.spotify.com/track/54X78diSLoUDI3joC2bjMz"
+      "duration_ms": 246520,
+      "name": "Heaven Is A Place On Earth",
+      "url": "https://open.spotify.com/track/37Q5anxoGWYdRsyeXkkNoI"
     },
     {
       "added_at": "2024-07-09 16:44:07",
@@ -1555,18 +1555,18 @@
     {
       "added_at": "2024-07-09 16:44:07",
       "album": {
-        "name": "Greatest Vol.1 - Belinda Carlisle",
-        "url": "https://open.spotify.com/album/3fzHLg5RfRXzQlHlR4F7JG"
+        "name": "Purple Rain",
+        "url": "https://open.spotify.com/album/7nXJ5k4XgRj5OLg9m8V3zc"
       },
       "artists": [
         {
-          "name": "Belinda Carlisle",
-          "url": "https://open.spotify.com/artist/7xkAwz0bQTGDSbkofyQt3U"
+          "name": "Prince",
+          "url": "https://open.spotify.com/artist/5a2EaR3hamoenG9rDuVn8j"
         }
       ],
-      "duration_ms": 246520,
-      "name": "Heaven Is A Place On Earth",
-      "url": "https://open.spotify.com/track/37Q5anxoGWYdRsyeXkkNoI"
+      "duration_ms": 520786,
+      "name": "Purple Rain",
+      "url": "https://open.spotify.com/track/54X78diSLoUDI3joC2bjMz"
     },
     {
       "added_at": "2024-07-09 16:44:07",

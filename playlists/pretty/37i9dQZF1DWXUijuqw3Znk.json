@@ -1,12 +1,12 @@
 {
   "description": "\ubc14\ub2e5\uc5d0\uc11c \uc704\ub85c. \uc131\uacf5\uc744 \uc704\ud55c \uc5f4\uc815\uacfc \uc9d1\ub150\uc744 \ub290\uaef4\ubcf4\uc138\uc694. (\ucee4\ubc84: Royal 44)",
-  "num_followers": 1214,
+  "num_followers": 1215,
   "original_name": "\ubc14\ub2e5\uc5d0\uc11c \uc704\ub85c",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAACqzMPdaIvmqJ5eaVNgnzEotkA4h",
+  "snapshot_id": "AAAAAL2CGaGCCW4h0fgabTjsh4etrry8",
   "tracks": [
     {
       "added_at": "2025-11-10 09:53:18",
@@ -575,22 +575,6 @@
     {
       "added_at": "2025-11-10 09:53:18",
       "album": {
-        "name": "Waves Like",
-        "url": "https://open.spotify.com/album/00rJeDpdXyLu7YJo7CT4tE"
-      },
-      "artists": [
-        {
-          "name": "Jazzyfact",
-          "url": "https://open.spotify.com/artist/7l9DszIMmxbcc24RJwqJY8"
-        }
-      ],
-      "duration_ms": 182500,
-      "name": "Up up and away",
-      "url": "https://open.spotify.com/track/5aUt8Q3qAZf1JFZhXWaRmv"
-    },
-    {
-      "added_at": "2025-11-10 09:53:18",
-      "album": {
         "name": "School Rapper4 Semi Final 1",
         "url": "https://open.spotify.com/album/6ulztrg2KC1H7pjfp1l8Et"
       },
@@ -607,6 +591,22 @@
       "duration_ms": 241333,
       "name": "Cold (Feat. SUPERBEE) (Prod. Way Ched)",
       "url": "https://open.spotify.com/track/187yTccJjpINpPGWH1qtDy"
+    },
+    {
+      "added_at": "2025-11-10 09:53:18",
+      "album": {
+        "name": "Waves Like",
+        "url": "https://open.spotify.com/album/00rJeDpdXyLu7YJo7CT4tE"
+      },
+      "artists": [
+        {
+          "name": "Jazzyfact",
+          "url": "https://open.spotify.com/artist/7l9DszIMmxbcc24RJwqJY8"
+        }
+      ],
+      "duration_ms": 182500,
+      "name": "Up up and away",
+      "url": "https://open.spotify.com/track/5aUt8Q3qAZf1JFZhXWaRmv"
     },
     {
       "added_at": "2025-11-10 09:53:18",
@@ -995,6 +995,26 @@
     {
       "added_at": "2025-11-10 09:53:18",
       "album": {
+        "name": "HIGH RISK HIGH RETURN",
+        "url": "https://open.spotify.com/album/340j9Dgw9Nuy772bHowbih"
+      },
+      "artists": [
+        {
+          "name": "SINCE",
+          "url": "https://open.spotify.com/artist/0seDu6vvqbUnPUk6s6a616"
+        },
+        {
+          "name": "Chin",
+          "url": "https://open.spotify.com/artist/3YxtjzaXsF9cVq2MlIe6cw"
+        }
+      ],
+      "duration_ms": 231182,
+      "name": "COMPASS (Feat. Chin)",
+      "url": "https://open.spotify.com/track/3GkGRq5fqKM2hARxS1Odhk"
+    },
+    {
+      "added_at": "2025-11-10 09:53:18",
+      "album": {
         "name": "4",
         "url": "https://open.spotify.com/album/6p3oAwCl0uDTqxzTxDFMgb"
       },
@@ -1023,26 +1043,6 @@
       "duration_ms": 242970,
       "name": "My Side (feat. oceanfromtheblue, ASH ISLAND, BRADYSTREET, Wonstein)",
       "url": "https://open.spotify.com/track/0Xo1PD12y7qZ13S3UAENqN"
-    },
-    {
-      "added_at": "2025-11-10 09:53:18",
-      "album": {
-        "name": "HIGH RISK HIGH RETURN",
-        "url": "https://open.spotify.com/album/340j9Dgw9Nuy772bHowbih"
-      },
-      "artists": [
-        {
-          "name": "SINCE",
-          "url": "https://open.spotify.com/artist/0seDu6vvqbUnPUk6s6a616"
-        },
-        {
-          "name": "Chin",
-          "url": "https://open.spotify.com/artist/3YxtjzaXsF9cVq2MlIe6cw"
-        }
-      ],
-      "duration_ms": 231182,
-      "name": "COMPASS (Feat. Chin)",
-      "url": "https://open.spotify.com/track/3GkGRq5fqKM2hARxS1Odhk"
     },
     {
       "added_at": "2025-11-10 09:53:18",
@@ -1115,6 +1115,26 @@
     {
       "added_at": "2025-11-10 09:53:18",
       "album": {
+        "name": "Freedom",
+        "url": "https://open.spotify.com/album/5JEYiTvQmOPfMpiUoXq2U8"
+      },
+      "artists": [
+        {
+          "name": "Leellamarz",
+          "url": "https://open.spotify.com/artist/79g2STpP2iV1xfgHuhrhX0"
+        },
+        {
+          "name": "DUT2",
+          "url": "https://open.spotify.com/artist/4YCMBr9I1zesFyMMyoc4pX"
+        }
+      ],
+      "duration_ms": 239960,
+      "name": "Freedom (Feat. DUT2) (Prod. Way Ched)",
+      "url": "https://open.spotify.com/track/70DaoUGYskTAJeYGgH5mAh"
+    },
+    {
+      "added_at": "2025-11-10 09:53:18",
+      "album": {
         "name": "Reborn",
         "url": "https://open.spotify.com/album/3ZSQOBLpHgNLVVWgsN7MuV"
       },
@@ -1147,26 +1167,6 @@
       "duration_ms": 270558,
       "name": "Ambition and Vision",
       "url": "https://open.spotify.com/track/0RW9OdzPb3OsX3aApyoMLL"
-    },
-    {
-      "added_at": "2025-11-10 09:53:18",
-      "album": {
-        "name": "Freedom",
-        "url": "https://open.spotify.com/album/5JEYiTvQmOPfMpiUoXq2U8"
-      },
-      "artists": [
-        {
-          "name": "Leellamarz",
-          "url": "https://open.spotify.com/artist/79g2STpP2iV1xfgHuhrhX0"
-        },
-        {
-          "name": "DUT2",
-          "url": "https://open.spotify.com/artist/4YCMBr9I1zesFyMMyoc4pX"
-        }
-      ],
-      "duration_ms": 239960,
-      "name": "Freedom (Feat. DUT2) (Prod. Way Ched)",
-      "url": "https://open.spotify.com/track/70DaoUGYskTAJeYGgH5mAh"
     },
     {
       "added_at": "2025-11-10 09:53:18",
@@ -1303,6 +1303,30 @@
     {
       "added_at": "2025-11-10 09:53:18",
       "album": {
+        "name": "DBSG 3",
+        "url": "https://open.spotify.com/album/0MGYgCcyvUsD049HNqxiVy"
+      },
+      "artists": [
+        {
+          "name": "CHANGMO",
+          "url": "https://open.spotify.com/artist/3hvinNZRzTLoREmqFiKr1b"
+        },
+        {
+          "name": "Hash Swan",
+          "url": "https://open.spotify.com/artist/3yVEZNS0ateVfoj8FuazKg"
+        },
+        {
+          "name": "Keem Hyo-Eun",
+          "url": "https://open.spotify.com/artist/59KuGY6nfY3w39O0qYVA7p"
+        }
+      ],
+      "duration_ms": 216426,
+      "name": "Ambition",
+      "url": "https://open.spotify.com/track/01uundlafYcn0y26uqmsGo"
+    },
+    {
+      "added_at": "2025-11-10 09:53:18",
+      "album": {
         "name": "Show Me The Money 9 Final",
         "url": "https://open.spotify.com/album/7mHfIfu0UDbbf86KHykjAq"
       },
@@ -1327,30 +1351,6 @@
       "duration_ms": 284613,
       "name": "Still Hungry (Feat. Mommy Son & Paloalto) (Prod. CODE KUNST)",
       "url": "https://open.spotify.com/track/53Hp37eNMMaDzUJLYsSUJi"
-    },
-    {
-      "added_at": "2025-11-10 09:53:18",
-      "album": {
-        "name": "DBSG 3",
-        "url": "https://open.spotify.com/album/0MGYgCcyvUsD049HNqxiVy"
-      },
-      "artists": [
-        {
-          "name": "CHANGMO",
-          "url": "https://open.spotify.com/artist/3hvinNZRzTLoREmqFiKr1b"
-        },
-        {
-          "name": "Hash Swan",
-          "url": "https://open.spotify.com/artist/3yVEZNS0ateVfoj8FuazKg"
-        },
-        {
-          "name": "Keem Hyo-Eun",
-          "url": "https://open.spotify.com/artist/59KuGY6nfY3w39O0qYVA7p"
-        }
-      ],
-      "duration_ms": 216426,
-      "name": "Ambition",
-      "url": "https://open.spotify.com/track/01uundlafYcn0y26uqmsGo"
     },
     {
       "added_at": "2025-11-10 09:53:18",
@@ -1463,22 +1463,6 @@
     {
       "added_at": "2025-11-10 09:53:18",
       "album": {
-        "name": "Dirt",
-        "url": "https://open.spotify.com/album/4oZmb7ErF2dgRvVvvqgu0P"
-      },
-      "artists": [
-        {
-          "name": "Paloalto",
-          "url": "https://open.spotify.com/artist/2Yv0nlRtzgPl6u0dsS2hFv"
-        }
-      ],
-      "duration_ms": 160026,
-      "name": "Survivor",
-      "url": "https://open.spotify.com/track/3KDsMACCTk16TIuSkd5mp7"
-    },
-    {
-      "added_at": "2025-11-10 09:53:18",
-      "album": {
         "name": "MANTA BIPOLAR, Pt. 2",
         "url": "https://open.spotify.com/album/2aPI1gfxJADKL9FBfMe6xd"
       },
@@ -1491,6 +1475,22 @@
       "duration_ms": 120502,
       "name": "GANGSHIN",
       "url": "https://open.spotify.com/track/0PIagLSC85oKKCE5TggEX2"
+    },
+    {
+      "added_at": "2025-11-10 09:53:18",
+      "album": {
+        "name": "Dirt",
+        "url": "https://open.spotify.com/album/4oZmb7ErF2dgRvVvvqgu0P"
+      },
+      "artists": [
+        {
+          "name": "Paloalto",
+          "url": "https://open.spotify.com/artist/2Yv0nlRtzgPl6u0dsS2hFv"
+        }
+      ],
+      "duration_ms": 160026,
+      "name": "Survivor",
+      "url": "https://open.spotify.com/track/3KDsMACCTk16TIuSkd5mp7"
     },
     {
       "added_at": "2025-11-10 09:53:18",
@@ -1647,6 +1647,26 @@
     {
       "added_at": "2025-11-10 09:53:18",
       "album": {
+        "name": "MultrillVerse",
+        "url": "https://open.spotify.com/album/3EHMUauddW3rH3K2KA6oxI"
+      },
+      "artists": [
+        {
+          "name": "BLAS\u00c9",
+          "url": "https://open.spotify.com/artist/6XsOOgLCtnkkOv2uhZXuB0"
+        },
+        {
+          "name": "The Quiett",
+          "url": "https://open.spotify.com/artist/2qI1pO64eYqGUiv1XTw4cy"
+        }
+      ],
+      "duration_ms": 167571,
+      "name": "Retirement (feat. The Quiett)",
+      "url": "https://open.spotify.com/track/3y7FzkR7JiY3E750C6p0hA"
+    },
+    {
+      "added_at": "2025-11-10 09:53:18",
+      "album": {
         "name": "Reborn",
         "url": "https://open.spotify.com/album/3ZSQOBLpHgNLVVWgsN7MuV"
       },
@@ -1691,26 +1711,6 @@
       "duration_ms": 194252,
       "name": "GNGB",
       "url": "https://open.spotify.com/track/5QBvCdGtU5sblvqy1ZmIT6"
-    },
-    {
-      "added_at": "2025-11-10 09:53:18",
-      "album": {
-        "name": "MultrillVerse",
-        "url": "https://open.spotify.com/album/3EHMUauddW3rH3K2KA6oxI"
-      },
-      "artists": [
-        {
-          "name": "BLAS\u00c9",
-          "url": "https://open.spotify.com/artist/6XsOOgLCtnkkOv2uhZXuB0"
-        },
-        {
-          "name": "The Quiett",
-          "url": "https://open.spotify.com/artist/2qI1pO64eYqGUiv1XTw4cy"
-        }
-      ],
-      "duration_ms": 167571,
-      "name": "Retirement (feat. The Quiett)",
-      "url": "https://open.spotify.com/track/3y7FzkR7JiY3E750C6p0hA"
     },
     {
       "added_at": "2025-11-10 09:53:18",
@@ -1767,22 +1767,6 @@
     {
       "added_at": "2025-11-10 09:53:18",
       "album": {
-        "name": "PAID IN SEOUL",
-        "url": "https://open.spotify.com/album/3gaEvY1i5mFMW7fFMxMn1F"
-      },
-      "artists": [
-        {
-          "name": "DON MALIK",
-          "url": "https://open.spotify.com/artist/1DKIdDHKHi3rIwG4UB5zLE"
-        }
-      ],
-      "duration_ms": 177220,
-      "name": "Ride it like",
-      "url": "https://open.spotify.com/track/7xBlwnacFIvvIKv1GEukWm"
-    },
-    {
-      "added_at": "2025-11-10 09:53:18",
-      "album": {
         "name": "Reborn",
         "url": "https://open.spotify.com/album/3ZSQOBLpHgNLVVWgsN7MuV"
       },
@@ -1799,18 +1783,18 @@
     {
       "added_at": "2025-11-10 09:53:18",
       "album": {
-        "name": "500000",
-        "url": "https://open.spotify.com/album/484MapUokyWXdgKqh1F3bx"
+        "name": "PAID IN SEOUL",
+        "url": "https://open.spotify.com/album/3gaEvY1i5mFMW7fFMxMn1F"
       },
       "artists": [
         {
-          "name": "REDDY",
-          "url": "https://open.spotify.com/artist/69H1Ooj2eBJXLTk3IEBV0v"
+          "name": "DON MALIK",
+          "url": "https://open.spotify.com/artist/1DKIdDHKHi3rIwG4UB5zLE"
         }
       ],
-      "duration_ms": 182500,
-      "name": "Cheat Code",
-      "url": "https://open.spotify.com/track/4dxwpBK9LAbmh7Hf1ebLoq"
+      "duration_ms": 177220,
+      "name": "Ride it like",
+      "url": "https://open.spotify.com/track/7xBlwnacFIvvIKv1GEukWm"
     },
     {
       "added_at": "2025-11-10 09:53:18",
@@ -1831,18 +1815,18 @@
     {
       "added_at": "2025-11-10 09:53:18",
       "album": {
-        "name": "Superbee's Maserati",
-        "url": "https://open.spotify.com/album/4jLFaHB7Ciheu4443UMvdl"
+        "name": "500000",
+        "url": "https://open.spotify.com/album/484MapUokyWXdgKqh1F3bx"
       },
       "artists": [
         {
-          "name": "Basick",
-          "url": "https://open.spotify.com/artist/7pXKdkQsYFCMG2omRxheJ2"
+          "name": "REDDY",
+          "url": "https://open.spotify.com/artist/69H1Ooj2eBJXLTk3IEBV0v"
         }
       ],
-      "duration_ms": 230408,
-      "name": "Superbee's Maserati",
-      "url": "https://open.spotify.com/track/1pGoaP5ACWwcXrgnS0KDpu"
+      "duration_ms": 182500,
+      "name": "Cheat Code",
+      "url": "https://open.spotify.com/track/4dxwpBK9LAbmh7Hf1ebLoq"
     },
     {
       "added_at": "2025-11-10 09:53:18",
@@ -1859,6 +1843,22 @@
       "duration_ms": 224613,
       "name": "DEAR MOM",
       "url": "https://open.spotify.com/track/3Q6xaSbm7iJwHJCtpk1si2"
+    },
+    {
+      "added_at": "2025-11-10 09:53:18",
+      "album": {
+        "name": "Superbee's Maserati",
+        "url": "https://open.spotify.com/album/4jLFaHB7Ciheu4443UMvdl"
+      },
+      "artists": [
+        {
+          "name": "Basick",
+          "url": "https://open.spotify.com/artist/7pXKdkQsYFCMG2omRxheJ2"
+        }
+      ],
+      "duration_ms": 230408,
+      "name": "Superbee's Maserati",
+      "url": "https://open.spotify.com/track/1pGoaP5ACWwcXrgnS0KDpu"
     },
     {
       "added_at": "2025-11-10 09:53:18",
@@ -2039,18 +2039,18 @@
     {
       "added_at": "2025-11-10 09:53:18",
       "album": {
-        "name": "\uc8fd\uc744\ud798\uc744 \ub2e4\ud558\uc5ec",
-        "url": "https://open.spotify.com/album/6n4NjXecmDkfJHIAaeg5cb"
+        "name": "END OF PUBERTY",
+        "url": "https://open.spotify.com/album/3uOT0XBkp1JZeMBydK62Fj"
       },
       "artists": [
         {
-          "name": "Ourealgoat",
-          "url": "https://open.spotify.com/artist/3YRGcoHMIvWleQfa0qa1D1"
+          "name": "D.Ark",
+          "url": "https://open.spotify.com/artist/2UaheMCNCnN1CrrnZnmh3j"
         }
       ],
-      "duration_ms": 133781,
-      "name": "\ubc14\ub2e5\uc5d0\uc11c\ubd80\ud130",
-      "url": "https://open.spotify.com/track/2M3Cc8JnL9oahiDr2S29V5"
+      "duration_ms": 203693,
+      "name": "APOLOGY",
+      "url": "https://open.spotify.com/track/1G2XUrrMjf9DNuFWMBMpPA"
     }
   ],
   "unique_name": "\ubc14\ub2e5\uc5d0\uc11c \uc704\ub85c",

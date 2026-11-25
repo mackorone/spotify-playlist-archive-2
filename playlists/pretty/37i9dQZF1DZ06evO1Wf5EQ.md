@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1Wf5EQ.md) - [plain]
 
 > This is Carlos Rafael Rivera\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 831 likes - 19 songs - 47 min 20 sec
+[Spotify](https://open.spotify.com/user/spotify) - 831 likes - 19 songs - 48 min 43 sec
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -26,6 +26,6 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1Wf5EQ.md) - [plain]
 | 16 | [Breaking Horses](https://open.spotify.com/track/2skAWuKTCEDglrXJtHD0Dv) | [Carlos Rafael Rivera](https://open.spotify.com/artist/3lh6JVXJU1mcXuI7ctT4gh) | [Godless \(Original Music from the Netflix Series\)](https://open.spotify.com/album/4S2jmig5eJzSEqTKDQwdkv) | 5:58 |
 | 17 | [A Lead](https://open.spotify.com/track/07g1Gd78OSWGuHhT2K15VU) | [Carlos Rafael Rivera](https://open.spotify.com/artist/3lh6JVXJU1mcXuI7ctT4gh) | [Lessons In Chemistry: Season 1 \(Apple Original Series Soundtrack\)](https://open.spotify.com/album/23xn7eZgOf41WYCfKj2LjP) | 2:02 |
 | 18 | [The Scholar's Mate](https://open.spotify.com/track/2qKga0VHaH41ajUMbVofcb) | [Carlos Rafael Rivera](https://open.spotify.com/artist/3lh6JVXJU1mcXuI7ctT4gh) | [The Queen's Gambit \(Music from the Netflix Limited Series\)](https://open.spotify.com/album/7Gdn94u4xTxoIpfq2rZci9) | 1:18 |
-| 19 | [Science](https://open.spotify.com/track/7DE8YqQ2MdnLHjhtR3MnLu) | [Carlos Rafael Rivera](https://open.spotify.com/artist/3lh6JVXJU1mcXuI7ctT4gh) | [Lessons In Chemistry: Season 1 \(Apple Original Series Soundtrack\)](https://open.spotify.com/album/23xn7eZgOf41WYCfKj2LjP) | 1:00 |
+| 19 | [The Remsen](https://open.spotify.com/track/51qQvPxeHMUvHaMnwZxU3b) | [Carlos Rafael Rivera](https://open.spotify.com/artist/3lh6JVXJU1mcXuI7ctT4gh) | [Lessons In Chemistry: Season 1 \(Apple Original Series Soundtrack\)](https://open.spotify.com/album/23xn7eZgOf41WYCfKj2LjP) | 2:24 |
 
-Snapshot ID: `awIwgAAAAADt1uNsJcV1t9+6Rp9W5M/F`
+Snapshot ID: `awOCAAAAAAAurt8aHX+WX0Xwe8SrrqJ1`

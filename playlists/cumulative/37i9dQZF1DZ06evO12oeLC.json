@@ -1205,6 +1205,24 @@
     },
     {
       "album": {
+        "name": "FREAK",
+        "url": "https://open.spotify.com/album/5L7khHmGgAqDmuiu1GKDm7"
+      },
+      "artists": [
+        {
+          "name": "Yseult",
+          "url": "https://open.spotify.com/artist/1QsdzIKkTT5gDFj8GB1cIX"
+        }
+      ],
+      "date_added": "2026-11-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 161052,
+      "name": "ONE MORE TIME",
+      "url": "https://open.spotify.com/track/7jiWy15v13zdnh5MOrPcQV"
+    },
+    {
+      "album": {
         "name": "\u00c0 TOUS LES B\u00c2TARDS",
         "url": "https://open.spotify.com/album/4RDBA4Eb8n6KDYzX3wBEeY"
       },
@@ -1400,7 +1418,7 @@
       ],
       "date_added": "2026-11-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-25",
       "duration_ms": 143265,
       "name": "SEXX",
       "url": "https://open.spotify.com/track/6xTiGLyxogKgMRwdXKYJF4"

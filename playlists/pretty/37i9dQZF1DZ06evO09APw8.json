@@ -1,12 +1,12 @@
 {
   "description": "This is Leon Thomas. The essential tracks, all in one playlist.",
-  "num_followers": 26108,
+  "num_followers": 26129,
   "original_name": "This Is Leon Thomas",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "awIwgAAAAAA3ATwUDrk14yuawaIMdr2h",
+  "snapshot_id": "awOCAAAAAACKOkSurkajxZOSiwCAM4Oc",
   "tracks": [
     {
       "added_at": null,
@@ -403,26 +403,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Sweetness (feat. Leon Thomas)",
-        "url": "https://open.spotify.com/album/4gUzNgnWO30XubUBBsLxLE"
-      },
-      "artists": [
-        {
-          "name": "Elmiene",
-          "url": "https://open.spotify.com/artist/2CLclpIC43fLzsYq6LQvlL"
-        },
-        {
-          "name": "Leon Thomas",
-          "url": "https://open.spotify.com/artist/0nnBZ8FXWjG9wZgM2cpfeb"
-        }
-      ],
-      "duration_ms": 251326,
-      "name": "Sweetness (feat. Leon Thomas)",
-      "url": "https://open.spotify.com/track/0YEN61J5AvIRxRalXKQqBM"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Spotify Singles",
         "url": "https://open.spotify.com/album/6SL03KQzLNrxyO6AfIBe7y"
       },
@@ -439,6 +419,26 @@
       "duration_ms": 283313,
       "name": "Until The End Of Time",
       "url": "https://open.spotify.com/track/0XdwIG7p28SeTam3DVdMX6"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Sweetness (feat. Leon Thomas)",
+        "url": "https://open.spotify.com/album/4gUzNgnWO30XubUBBsLxLE"
+      },
+      "artists": [
+        {
+          "name": "Elmiene",
+          "url": "https://open.spotify.com/artist/2CLclpIC43fLzsYq6LQvlL"
+        },
+        {
+          "name": "Leon Thomas",
+          "url": "https://open.spotify.com/artist/0nnBZ8FXWjG9wZgM2cpfeb"
+        }
+      ],
+      "duration_ms": 251326,
+      "name": "Sweetness (feat. Leon Thomas)",
+      "url": "https://open.spotify.com/track/0YEN61J5AvIRxRalXKQqBM"
     },
     {
       "added_at": null,
@@ -623,8 +623,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Just How You Are",
-        "url": "https://open.spotify.com/album/72kXsZAoCVweVue3PPZ7hw"
+        "name": "MUTT",
+        "url": "https://open.spotify.com/album/0SzoksypeognxYJJOJEYip"
       },
       "artists": [
         {
@@ -632,9 +632,9 @@
           "url": "https://open.spotify.com/artist/0nnBZ8FXWjG9wZgM2cpfeb"
         }
       ],
-      "duration_ms": 194247,
-      "name": "Just How You Are",
-      "url": "https://open.spotify.com/track/7KO0PWYRvoQMNdOZ4KHulW"
+      "duration_ms": 159495,
+      "name": "SAFE PLACE",
+      "url": "https://open.spotify.com/track/2R6jF4DMNAFKuhYgXZxqMu"
     },
     {
       "added_at": null,
@@ -655,8 +655,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "MUTT",
-        "url": "https://open.spotify.com/album/0SzoksypeognxYJJOJEYip"
+        "name": "Just How You Are",
+        "url": "https://open.spotify.com/album/72kXsZAoCVweVue3PPZ7hw"
       },
       "artists": [
         {
@@ -664,9 +664,9 @@
           "url": "https://open.spotify.com/artist/0nnBZ8FXWjG9wZgM2cpfeb"
         }
       ],
-      "duration_ms": 159495,
-      "name": "SAFE PLACE",
-      "url": "https://open.spotify.com/track/2R6jF4DMNAFKuhYgXZxqMu"
+      "duration_ms": 194247,
+      "name": "Just How You Are",
+      "url": "https://open.spotify.com/track/7KO0PWYRvoQMNdOZ4KHulW"
     },
     {
       "added_at": null,
@@ -727,22 +727,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "MUTT Deluxe: HEEL",
-        "url": "https://open.spotify.com/album/5mgaCfIZBK6BCg018gDXfL"
-      },
-      "artists": [
-        {
-          "name": "Leon Thomas",
-          "url": "https://open.spotify.com/artist/0nnBZ8FXWjG9wZgM2cpfeb"
-        }
-      ],
-      "duration_ms": 235888,
-      "name": "HEEL",
-      "url": "https://open.spotify.com/track/5JG9zYkmhPnc6X8nyO3Bv1"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "move it along (feat. Leon Thomas)",
         "url": "https://open.spotify.com/album/5MfGLjBa8qCdAWIS0BNomR"
       },
@@ -759,6 +743,22 @@
       "duration_ms": 195454,
       "name": "move it along (feat. Leon Thomas)",
       "url": "https://open.spotify.com/track/0soeyncUVADZ35kNtrLZsk"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "MUTT Deluxe: HEEL",
+        "url": "https://open.spotify.com/album/5m3rVDTPrTRwSgkKsvSYEL"
+      },
+      "artists": [
+        {
+          "name": "Leon Thomas",
+          "url": "https://open.spotify.com/artist/0nnBZ8FXWjG9wZgM2cpfeb"
+        }
+      ],
+      "duration_ms": 172844,
+      "name": "PRIZE",
+      "url": "https://open.spotify.com/track/2kk07MkCNiOC4NAJuSHJ8d"
     },
     {
       "added_at": null,
@@ -795,22 +795,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "MUTT Deluxe: HEEL",
-        "url": "https://open.spotify.com/album/5m3rVDTPrTRwSgkKsvSYEL"
-      },
-      "artists": [
-        {
-          "name": "Leon Thomas",
-          "url": "https://open.spotify.com/artist/0nnBZ8FXWjG9wZgM2cpfeb"
-        }
-      ],
-      "duration_ms": 172844,
-      "name": "PRIZE",
-      "url": "https://open.spotify.com/track/2kk07MkCNiOC4NAJuSHJ8d"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Victorious (Music from the TV Show \"Victorious\")",
         "url": "https://open.spotify.com/album/22s1H8POFPrbZW5uk9zuKV"
       },
@@ -831,6 +815,22 @@
       "duration_ms": 219925,
       "name": "Song 2 You",
       "url": "https://open.spotify.com/track/75a84vtTxTdx8xhrlaV9S7"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "MUTT Deluxe: HEEL",
+        "url": "https://open.spotify.com/album/5mgaCfIZBK6BCg018gDXfL"
+      },
+      "artists": [
+        {
+          "name": "Leon Thomas",
+          "url": "https://open.spotify.com/artist/0nnBZ8FXWjG9wZgM2cpfeb"
+        }
+      ],
+      "duration_ms": 235888,
+      "name": "HEEL",
+      "url": "https://open.spotify.com/track/5JG9zYkmhPnc6X8nyO3Bv1"
     },
     {
       "added_at": null,
@@ -871,26 +871,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "MUTT Deluxe: HEEL",
-        "url": "https://open.spotify.com/album/5m3rVDTPrTRwSgkKsvSYEL"
-      },
-      "artists": [
-        {
-          "name": "Leon Thomas",
-          "url": "https://open.spotify.com/artist/0nnBZ8FXWjG9wZgM2cpfeb"
-        },
-        {
-          "name": "Big Sean",
-          "url": "https://open.spotify.com/artist/0c173mlxpT3dSFRgMO8XPh"
-        }
-      ],
-      "duration_ms": 171814,
-      "name": "PARTY FAVORS (feat. Big Sean)",
-      "url": "https://open.spotify.com/track/5S8OovoD5Dc2R0qeKW0UFe"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Fix Your Face",
         "url": "https://open.spotify.com/album/181ArQxGlKkfBQhSqB01ee"
       },
@@ -907,6 +887,26 @@
       "duration_ms": 184450,
       "name": "QVC (feat. Leon Thomas)",
       "url": "https://open.spotify.com/track/60IXj6K1ognoIeqD4ECIRH"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "MUTT Deluxe: HEEL",
+        "url": "https://open.spotify.com/album/5m3rVDTPrTRwSgkKsvSYEL"
+      },
+      "artists": [
+        {
+          "name": "Leon Thomas",
+          "url": "https://open.spotify.com/artist/0nnBZ8FXWjG9wZgM2cpfeb"
+        },
+        {
+          "name": "Big Sean",
+          "url": "https://open.spotify.com/artist/0c173mlxpT3dSFRgMO8XPh"
+        }
+      ],
+      "duration_ms": 171814,
+      "name": "PARTY FAVORS (feat. Big Sean)",
+      "url": "https://open.spotify.com/track/5S8OovoD5Dc2R0qeKW0UFe"
     },
     {
       "added_at": null,

@@ -1,12 +1,12 @@
 {
   "description": "Your favorite Latin Indie classics. Cover: Mon Laferte",
-  "num_followers": 236039,
+  "num_followers": 236079,
   "original_name": "Latin Indie Classics",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAADrREE5nj5OLaZrMSg35eewqL4do",
+  "snapshot_id": "AAAAAOZIIvl6VUx7SLHXzwyGZ41KMy8Y",
   "tracks": [
     {
       "added_at": "2024-07-12 18:08:37",
@@ -1467,6 +1467,22 @@
     {
       "added_at": "2024-07-12 18:08:37",
       "album": {
+        "name": "D\u00e9jenme Llorar",
+        "url": "https://open.spotify.com/album/6BZkhYCGp75O2R4oX25nve"
+      },
+      "artists": [
+        {
+          "name": "Carla Morrison",
+          "url": "https://open.spotify.com/artist/0XK6kT7xcZAlcYrNjOgzJe"
+        }
+      ],
+      "duration_ms": 228253,
+      "name": "Eres T\u00fa",
+      "url": "https://open.spotify.com/track/75zvC8d4iozawMJvxt8T1f"
+    },
+    {
+      "added_at": "2024-07-12 18:08:37",
+      "album": {
         "name": "Invisible People",
         "url": "https://open.spotify.com/album/6SVzbiS8FloyayLerrRMiY"
       },
@@ -1495,22 +1511,6 @@
       "duration_ms": 228571,
       "name": "Whatchu Know?",
       "url": "https://open.spotify.com/track/2aIBLMcUJzzBFj0jgQC7bN"
-    },
-    {
-      "added_at": "2024-07-12 18:08:37",
-      "album": {
-        "name": "D\u00e9jenme Llorar",
-        "url": "https://open.spotify.com/album/6BZkhYCGp75O2R4oX25nve"
-      },
-      "artists": [
-        {
-          "name": "Carla Morrison",
-          "url": "https://open.spotify.com/artist/0XK6kT7xcZAlcYrNjOgzJe"
-        }
-      ],
-      "duration_ms": 228253,
-      "name": "Eres T\u00fa",
-      "url": "https://open.spotify.com/track/75zvC8d4iozawMJvxt8T1f"
     },
     {
       "added_at": "2024-07-12 18:08:37",
@@ -1659,18 +1659,18 @@
     {
       "added_at": "2024-07-12 18:08:37",
       "album": {
-        "name": "1977",
-        "url": "https://open.spotify.com/album/57jzsyG5Huh4Jrb0rkDu5S"
+        "name": "Someone To Spend Time With",
+        "url": "https://open.spotify.com/album/7MNOeNJ9RJgDJ2EPEbsIRv"
       },
       "artists": [
         {
-          "name": "Ana Tijoux",
-          "url": "https://open.spotify.com/artist/40JMTpVRUw90SrN4pFA6Mz"
+          "name": "Los Retros",
+          "url": "https://open.spotify.com/artist/0qraFJK6boYSp4ZMMX4PzG"
         }
       ],
-      "duration_ms": 204036,
-      "name": "1977",
-      "url": "https://open.spotify.com/track/6DEfT3ck2WORjZJn6Xyt39"
+      "duration_ms": 173953,
+      "name": "Someone To Spend Time With",
+      "url": "https://open.spotify.com/track/0qQ9VcVPkWDTnff6HIhISU"
     }
   ],
   "unique_name": "Latin Indie Classics",

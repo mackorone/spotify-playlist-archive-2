@@ -144,7 +144,7 @@
       ],
       "date_added": "2026-09-04",
       "date_added_asterisk": false,
-      "date_removed": "2026-11-22",
+      "date_removed": null,
       "duration_ms": 184960,
       "name": "Ain't In LA",
       "url": "https://open.spotify.com/track/2N9Ph3q44rrDoGzG0fWVxL"
@@ -440,7 +440,7 @@
       ],
       "date_added": "2026-11-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-25",
       "duration_ms": 155326,
       "name": "Aproveita Que Eu T\u00f4 Brigado - Ao Vivo",
       "url": "https://open.spotify.com/track/2gL72mqdPomBDn2t5ojn47"
@@ -1306,7 +1306,7 @@
       ],
       "date_added": "2026-11-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-25",
       "duration_ms": 166911,
       "name": "Christmas (Baby Please Come Home)",
       "url": "https://open.spotify.com/track/0hgnoXC6xF6GXsyYRhfne6"
@@ -1346,7 +1346,7 @@
       ],
       "date_added": "2026-08-31",
       "date_added_asterisk": false,
-      "date_removed": "2026-11-23",
+      "date_removed": null,
       "duration_ms": 253219,
       "name": "Circles - F-1Trillion Album Livestream",
       "url": "https://open.spotify.com/track/03PSDRVwlj5GK5VvWOeQR2"
@@ -1606,7 +1606,7 @@
       ],
       "date_added": "2026-10-11",
       "date_added_asterisk": false,
-      "date_removed": "2026-11-24",
+      "date_removed": null,
       "duration_ms": 219200,
       "name": "Cuando El Agua Hirviendo - En Vivo desde Colombia",
       "url": "https://open.spotify.com/track/7vqgovQZfgD6po0vU2uwCv"
@@ -1884,7 +1884,7 @@
       ],
       "date_added": "2026-11-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-25",
       "duration_ms": 156437,
       "name": "Displicente - Wesley Safad\u00e3o e Rey Vaqueiro",
       "url": "https://open.spotify.com/track/5MXZTki4ycLNcrFNVvDB5W"
@@ -2050,7 +2050,7 @@
       ],
       "date_added": "2026-09-20",
       "date_added_asterisk": false,
-      "date_removed": "2026-11-23",
+      "date_removed": null,
       "duration_ms": 220485,
       "name": "El Hombre Que Yo Amo | Noches de Latinaje",
       "url": "https://open.spotify.com/track/6cBR9nuVWBMVqRsZOpmu5R"
@@ -2264,7 +2264,7 @@
       ],
       "date_added": "2026-08-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-25",
       "duration_ms": 157205,
       "name": "Eu Te Seguro - Ao Vivo",
       "url": "https://open.spotify.com/track/5yRYvaNlNqACRtwbh2ISit"
@@ -2282,7 +2282,7 @@
       ],
       "date_added": "2026-09-10",
       "date_added_asterisk": false,
-      "date_removed": "2026-11-24",
+      "date_removed": null,
       "duration_ms": 235520,
       "name": "Every Breath You Take",
       "url": "https://open.spotify.com/track/5fTGZbWKEI0PHOpZVcyS68"
@@ -2326,7 +2326,7 @@
       ],
       "date_added": "2026-10-17",
       "date_added_asterisk": false,
-      "date_removed": "2026-11-22",
+      "date_removed": null,
       "duration_ms": 292633,
       "name": "expectations",
       "url": "https://open.spotify.com/track/2JDmZZzBUmYNpfhuVRXAN1"
@@ -2492,6 +2492,48 @@
       "duration_ms": 207412,
       "name": "FIRESTARTER",
       "url": "https://open.spotify.com/track/5o3akcoqyEzVCafBnteSNF"
+    },
+    {
+      "album": {
+        "name": "FIRESTARTER (Worlds 2026 Final Opening Ceremony Presented by Mastercard)",
+        "url": "https://open.spotify.com/album/62Q2j5b1d87prVhXC2AMtY"
+      },
+      "artists": [
+        {
+          "name": "K/DA",
+          "url": "https://open.spotify.com/artist/4gOc8TsQed9eqnqJct2c5v"
+        },
+        {
+          "name": "League of Legends",
+          "url": "https://open.spotify.com/artist/47mIJdHORyRerp4os813jD"
+        },
+        {
+          "name": "i-dle",
+          "url": "https://open.spotify.com/artist/2AfmfGFbe0A0WsTYm0SDTx"
+        },
+        {
+          "name": "Mimi Webb",
+          "url": "https://open.spotify.com/artist/3GxKJzJK4LpsYGXQrw77wz"
+        },
+        {
+          "name": "Sophie Powers",
+          "url": "https://open.spotify.com/artist/0hrMKLqgNEIemiF4Ag8dTI"
+        },
+        {
+          "name": "SOYEON",
+          "url": "https://open.spotify.com/artist/6Xg22wJOAcnvPUfk5WvODH"
+        },
+        {
+          "name": "MIYEON",
+          "url": "https://open.spotify.com/artist/779v40cWIJUUoIDtC1IGaF"
+        }
+      ],
+      "date_added": "2026-11-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 197086,
+      "name": "FIRESTARTER - Worlds 2026 Final Opening Ceremony Presented by Mastercard",
+      "url": "https://open.spotify.com/track/3uOXQlOkMdVMVfNDUTucwp"
     },
     {
       "album": {
@@ -2929,6 +2971,32 @@
     },
     {
       "album": {
+        "name": "Hell Nah",
+        "url": "https://open.spotify.com/album/65SFSffQKFdOZkrNoXVQT6"
+      },
+      "artists": [
+        {
+          "name": "Mez",
+          "url": "https://open.spotify.com/artist/30C5wgn4celhRP3Tytv7R6"
+        },
+        {
+          "name": "J. Cole",
+          "url": "https://open.spotify.com/artist/6l3HvQ5sa6mXTsMTB19rO5"
+        },
+        {
+          "name": "Anderson .Paak",
+          "url": "https://open.spotify.com/artist/3jK9MiCrA42lLAdMGUZpwa"
+        }
+      ],
+      "date_added": "2026-11-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 273207,
+      "name": "Hell Nah",
+      "url": "https://open.spotify.com/track/0SnwV3ybEI5G93zD8OyYJo"
+    },
+    {
+      "album": {
         "name": "hey boyyy",
         "url": "https://open.spotify.com/album/6xQeDMC7oG5SAhe5ypVyq8"
       },
@@ -3236,7 +3304,7 @@
       ],
       "date_added": "2026-11-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-25",
       "duration_ms": 192832,
       "name": "I Knew It, I Knew You x Our Song - Live on The 60th Annual CMA Awards",
       "url": "https://open.spotify.com/track/28WhgZycgd0HRaRZ8PBN40"
@@ -3422,7 +3490,7 @@
       ],
       "date_added": "2026-11-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-25",
       "duration_ms": 215317,
       "name": "Iris",
       "url": "https://open.spotify.com/track/6kt1GGM01ENeaG40hGKVww"
@@ -3440,7 +3508,7 @@
       ],
       "date_added": "2026-08-31",
       "date_added_asterisk": false,
-      "date_removed": "2026-11-24",
+      "date_removed": null,
       "duration_ms": 215616,
       "name": "Iris",
       "url": "https://open.spotify.com/track/3ODLb2WTwadkfL3vPWy55q"
@@ -3458,7 +3526,7 @@
       ],
       "date_added": "2026-11-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-25",
       "duration_ms": 207936,
       "name": "It's Beginning to Look a Lot like Christmas",
       "url": "https://open.spotify.com/track/2mcGxpc9wsuXm2JTKkJOxf"
@@ -3740,7 +3808,7 @@
       ],
       "date_added": "2026-08-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-25",
       "duration_ms": 295741,
       "name": "La Buena y la Mala",
       "url": "https://open.spotify.com/track/6bRrhZ8xhUJ4bD7oCEqMIn"
@@ -3762,7 +3830,7 @@
       ],
       "date_added": "2026-11-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-25",
       "duration_ms": 250917,
       "name": "LA CANCI\u00d3N",
       "url": "https://open.spotify.com/track/4Wzigfp5nbzUHSnSZm5nS8"
@@ -3892,7 +3960,7 @@
       ],
       "date_added": "2026-11-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-25",
       "duration_ms": 116324,
       "name": "Let It Snow! Let It Snow! Let It Snow!",
       "url": "https://open.spotify.com/track/05QiGprgJxR3u2xsheW2a4"
@@ -4542,7 +4610,7 @@
       ],
       "date_added": "2026-11-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-25",
       "duration_ms": 195813,
       "name": "Morena",
       "url": "https://open.spotify.com/track/55G1Dh5OyiJOr2NpV1fpjr"
@@ -4618,7 +4686,7 @@
       ],
       "date_added": "2026-09-23",
       "date_added_asterisk": false,
-      "date_removed": "2026-11-23",
+      "date_removed": null,
       "duration_ms": 225557,
       "name": "My Body Isn't Ready - Orchestral Version from Sound City",
       "url": "https://open.spotify.com/track/4rAi1EJ6yDzVdrOTFZOukF"
@@ -4640,7 +4708,7 @@
       ],
       "date_added": "2026-10-16",
       "date_added_asterisk": false,
-      "date_removed": "2026-11-23",
+      "date_removed": null,
       "duration_ms": 222485,
       "name": "NEON",
       "url": "https://open.spotify.com/track/7jxvTuayRsXvlmh2U0L7yf"
@@ -5144,7 +5212,7 @@
       ],
       "date_added": "2026-11-15",
       "date_added_asterisk": false,
-      "date_removed": "2026-11-22",
+      "date_removed": null,
       "duration_ms": 161962,
       "name": "Party With The Boys",
       "url": "https://open.spotify.com/track/21L8Rl8BjxXBvzQFpnMDw5"
@@ -5354,7 +5422,7 @@
       ],
       "date_added": "2026-09-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-25",
       "duration_ms": 149418,
       "name": "Postinho de Gasolina",
       "url": "https://open.spotify.com/track/6UZq14fcGEzuMvnryb02He"
@@ -5976,7 +6044,7 @@
       ],
       "date_added": "2026-11-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-25",
       "duration_ms": 181760,
       "name": "Sleigh Ride",
       "url": "https://open.spotify.com/track/2pKNCmXX8NyGz88xfw9cc5"
@@ -6690,7 +6758,7 @@
       ],
       "date_added": "2026-10-21",
       "date_added_asterisk": false,
-      "date_removed": "2026-11-22",
+      "date_removed": null,
       "duration_ms": 157802,
       "name": "The Happy Song",
       "url": "https://open.spotify.com/track/6rGCAmKx251e3P77NPc1LP"

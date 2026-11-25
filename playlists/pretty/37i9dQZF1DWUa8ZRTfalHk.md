@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUa8ZRTfalHk.md) - [plain]
 
 > Who's now and next in pop\. Cover: Remi Wolf
 
-[Spotify](https://open.spotify.com/user/spotify) - 3,193,620 likes - 99 songs - 5 hr 25 min
+[Spotify](https://open.spotify.com/user/spotify) - 3,193,569 likes - 99 songs - 5 hr 25 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -108,4 +108,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUa8ZRTfalHk.md) - [plain]
 | 98 | [SaWaDiKa](https://open.spotify.com/track/1VWiDyYTrqQhhmnWANWkFa) | [LISA](https://open.spotify.com/artist/5L1lO4eRHmJ7a0Q6csE5cT) | [SaWaDiKa](https://open.spotify.com/album/5WG9kRKPpHgnZ5pKku509O) | 3:08 |
 | 99 | [Petty Crimes](https://open.spotify.com/track/2fwZYbWNMaepcGjmHTA3lJ) | [Mollie Elizabeth](https://open.spotify.com/artist/7a5GcLbKGNuyqIfl6mw99Z) | [Petty Crimes](https://open.spotify.com/album/3CtkFKTeTAnmzantOSYZNx) | 3:12 |
 
-Snapshot ID: `AAAAAFUniqvWVxXm32COmi84z4dtPJVS`
+Snapshot ID: `AAAAAMartcQxeGVZRX+ujnOXbHvUDWDn`

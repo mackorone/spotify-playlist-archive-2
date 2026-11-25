@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWY6fIMH0GtCp.md) - [plain]
 
 > This Hanukkah playlist features all the classics and the funny favorites.
 
-[Spotify](https://open.spotify.com/user/spotify) - 37,170 likes - 58 songs - 3 hr 7 min
+[Spotify](https://open.spotify.com/user/spotify) - 37,186 likes - 58 songs - 3 hr 7 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -67,4 +67,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWY6fIMH0GtCp.md) - [plain]
 | 57 | [Hanukkah](https://open.spotify.com/track/2kSlZjr1loCtrmOkOnn9Ns) | [The Living Sisters](https://open.spotify.com/artist/53tm77lKt6nFAbGVqEB3Vi) | [Harmony Is Real: Songs For A Happy Holiday](https://open.spotify.com/album/4P187y5vUyKIvc0M3OKTM8) | 4:08 |
 | 58 | [Watch Me \(Spin / Drey Drey\)](https://open.spotify.com/track/7uj6s6UffjBA4FQlOBLboG) | [Six13](https://open.spotify.com/artist/2H6beCAq0056SYdlQmlfEr) | [The Chanukah Collection](https://open.spotify.com/album/3TNq44s2UgzxrqiZVql9Hb) | 2:54 |
 
-Snapshot ID: `AAAAAJidtQUTG4jpuw/FpnhGMNmukEIz`
+Snapshot ID: `AAAAAJj91zKP51p0Hoc/XQ5EocKMZ9ih`

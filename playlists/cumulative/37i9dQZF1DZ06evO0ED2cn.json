@@ -509,6 +509,24 @@
     },
     {
       "album": {
+        "name": "Listen!! (From \"K-ON!!\") [Standard Edition]",
+        "url": "https://open.spotify.com/album/1lEAF1meUXsVmwL9rToTCH"
+      },
+      "artists": [
+        {
+          "name": "Ho - Kago Tea Time",
+          "url": "https://open.spotify.com/artist/1cXxia1Q2VDTjWe8X2Jydm"
+        }
+      ],
+      "date_added": "2026-11-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 251973,
+      "name": "Our Magic",
+      "url": "https://open.spotify.com/track/2C4cBlEihsTH3rF5ZL83UK"
+    },
+    {
+      "album": {
         "name": "Listen!!",
         "url": "https://open.spotify.com/album/6T1lz7BuuqQLntnnjAbAT8"
       },
@@ -520,7 +538,7 @@
       ],
       "date_added": "2026-11-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-25",
       "duration_ms": 251973,
       "name": "Our MAGIC",
       "url": "https://open.spotify.com/track/4DciuSUF1bihdDilux3vrl"

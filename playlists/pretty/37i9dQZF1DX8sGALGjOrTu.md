@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8sGALGjOrTu.md) - [plain]
 
 > Back to the golden age of the scene\. Cover: Underoath
 
-[Spotify](https://open.spotify.com/user/spotify) - 541,376 likes - 100 songs - 6 hr 24 min
+[Spotify](https://open.spotify.com/user/spotify) - 541,405 likes - 100 songs - 6 hr 24 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -31,8 +31,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8sGALGjOrTu.md) - [plain]
 | 21 | [Pretty Handsome Awkward](https://open.spotify.com/track/77BfOPXhlnNaSbg647qkx2) | [The Used](https://open.spotify.com/artist/55VydwMyCuGcavwPuhutPL) | [Lies for the Liars](https://open.spotify.com/album/2UTLJA4Rxsth81uNh4Q6ox) | 3:35 |
 | 22 | [You're Not Alone](https://open.spotify.com/track/7cITfGsdjGaTP0b5oiLL0z) | [Saosin](https://open.spotify.com/artist/1NUOfvAhA9AvsF1ISMkgHX) | [Saosin](https://open.spotify.com/album/2osTPStH5H7i4fMHS7eauR) | 3:58 |
 | 23 | [False Pretense](https://open.spotify.com/track/2ZICF8SFI5tHttaLJKMY1X) | [The Red Jumpsuit Apparatus](https://open.spotify.com/artist/1SImpQO0GbjRgvlwCcCtFo) | [Don't You Fake It](https://open.spotify.com/album/6TyPSzd5rA2rQ9yLJJ1Gg2) | 2:29 |
-| 24 | [Reinventing Your Exit](https://open.spotify.com/track/591vJuuep0gfPhx9p8WPD5) | [Underoath](https://open.spotify.com/artist/3GzWhE2xadJiW8MqRKIVSK) | [They're Only Chasing Safety](https://open.spotify.com/album/5GeXnKDk6sD6RnkPVwFi19) | 4:22 |
-| 25 | [Baby, You Wouldn't Last A Minute On The Creek](https://open.spotify.com/track/6p4jnIWFWyLz0zUo2RD9iu) | [Chiodos](https://open.spotify.com/artist/4ZIBrskTJWmkJUvM7uAu1o) | [All's Well That Ends Well](https://open.spotify.com/album/0OEsBt4DiKAGACbzmhwbaS) | 4:40 |
+| 24 | [Baby, You Wouldn't Last A Minute On The Creek](https://open.spotify.com/track/6p4jnIWFWyLz0zUo2RD9iu) | [Chiodos](https://open.spotify.com/artist/4ZIBrskTJWmkJUvM7uAu1o) | [All's Well That Ends Well](https://open.spotify.com/album/0OEsBt4DiKAGACbzmhwbaS) | 4:40 |
+| 25 | [Reinventing Your Exit](https://open.spotify.com/track/591vJuuep0gfPhx9p8WPD5) | [Underoath](https://open.spotify.com/artist/3GzWhE2xadJiW8MqRKIVSK) | [They're Only Chasing Safety](https://open.spotify.com/album/5GeXnKDk6sD6RnkPVwFi19) | 4:22 |
 | 26 | [Anthem of Our Dying Day](https://open.spotify.com/track/4sPJgy0CksvmXp9jC0W4gv) | [Story Of The Year](https://open.spotify.com/artist/0KDuKk6YdEu3hR56HtXmxt) | [Page Avenue](https://open.spotify.com/album/4juejyEeCKFskkDA6zhIBW) | 3:35 |
 | 27 | [Boiled Frogs](https://open.spotify.com/track/344tr5lxfDxXdcvz67kvlO) | [Alexisonfire](https://open.spotify.com/artist/53RsXctnNmj9oKXvcbvzI2) | [Crisis](https://open.spotify.com/album/424kD6zJhvykdQsTXe9Zcl) | 3:57 |
 | 28 | [A Favor House Atlantic](https://open.spotify.com/track/4KliQFRlvNKnlVYzMMbSMq) | [Coheed and Cambria](https://open.spotify.com/artist/3utxjLheHaVEd9bPjQRsy8) | [In Keeping Secrets Of Silent Earth: 3](https://open.spotify.com/album/2oWXmi9uLRKn60yRmY22MB) | 3:54 |
@@ -77,13 +77,13 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8sGALGjOrTu.md) - [plain]
 | 67 | [Error Operator](https://open.spotify.com/track/3Zcx8pEo36dcrdppEmLVjs) | [Taking Back Sunday](https://open.spotify.com/artist/24XtlMhEMNdi822vi0MhY1) | [Louder Now \(Deluxe Edition\)](https://open.spotify.com/album/3t5ZnNa4NdyldNHZcFhETb) | 2:51 |
 | 68 | [Here I Stand](https://open.spotify.com/track/2hSpvEjeA8y2yGcFBCgwHd) | [Madina Lake](https://open.spotify.com/artist/43QrUqvhiL71U9A9gJtAfA) | [From Them, Through Us, To You](https://open.spotify.com/album/6yLkk9pNOfvAZ2EoUZlj7o) | 3:23 |
 | 69 | [We'rewolf](https://open.spotify.com/track/5Bfy6Wfj4G1GBYWlMfQ1by) | [Every Time I Die](https://open.spotify.com/artist/0o7WWONtleH6PWLn5GIoCM) | [The Big Dirty](https://open.spotify.com/album/6Bl4e9l92OjIZIGYMVR4AN) | 3:24 |
-| 70 | [My Darkest Hour](https://open.spotify.com/track/7mV7vI17u8TRVnuE9YwkuY) | [Scary Kids Scaring Kids](https://open.spotify.com/artist/3cdos5vq3wSUR8mEvMiqq9) | [The City Sleeps in Flames](https://open.spotify.com/album/73Kx19MysqVHMYvW29CTw3) | 3:29 |
-| 71 | [Remember To Feel Real](https://open.spotify.com/track/249LfLwS8qVzqu61TvBVs0) | [Armor For Sleep](https://open.spotify.com/artist/7eSbps3Uha3MMBNWhMYa2H) | [What To Do When You Are Dead](https://open.spotify.com/album/6kYEwpX4miUeuyPLyvq7lK) | 3:21 |
+| 70 | [Remember To Feel Real](https://open.spotify.com/track/249LfLwS8qVzqu61TvBVs0) | [Armor For Sleep](https://open.spotify.com/artist/7eSbps3Uha3MMBNWhMYa2H) | [What To Do When You Are Dead](https://open.spotify.com/album/6kYEwpX4miUeuyPLyvq7lK) | 3:21 |
+| 71 | [My Darkest Hour](https://open.spotify.com/track/7mV7vI17u8TRVnuE9YwkuY) | [Scary Kids Scaring Kids](https://open.spotify.com/artist/3cdos5vq3wSUR8mEvMiqq9) | [The City Sleeps in Flames](https://open.spotify.com/album/73Kx19MysqVHMYvW29CTw3) | 3:29 |
 | 72 | [Blueprints For Future Homes](https://open.spotify.com/track/0pQkFNB3Me4txM5jaKGwXh) | [Norma Jean](https://open.spotify.com/artist/55b0Gfm53udtGBs8mmNXrH) | [Redeemer](https://open.spotify.com/album/7ju4BQgiknmVAQSb2V3vky) | 2:49 |
 | 73 | [Die Romantic](https://open.spotify.com/track/6X6hTTh32bJM24wYY26MTc) | [Aiden](https://open.spotify.com/artist/1FNjzdmDeHeZjU5qUJlQ1G) | [Nightmare Anatomy](https://open.spotify.com/album/2K3Ga1V2OzVtBLemgMDcIB) | 3:40 |
-| 74 | [Apology](https://open.spotify.com/track/6hNA4yDJr0hGn0TlnmRVUQ) | [Alesana](https://open.spotify.com/artist/1fnDlUNi67FQtHHqBl4Yfg) | [Try This With Your Eyes Closed](https://open.spotify.com/album/0UqeJDOoeBuikFNW2NX6VD) | 4:09 |
-| 75 | [Mu Empire](https://open.spotify.com/track/3yUebDgogzV36flxuyMoV0) | [Glassjaw](https://open.spotify.com/artist/7nt6S4klYHg4I7Q4lTSmc0) | [Worship And Tribute \(U.S\. Version\)](https://open.spotify.com/album/0KeXHDwyfBUshx0c9AqjpT) | 3:44 |
-| 76 | [Changing](https://open.spotify.com/track/4C3osHVXn7trOxSBc8AuhX) | [Saosin](https://open.spotify.com/artist/1NUOfvAhA9AvsF1ISMkgHX) | [In Search of Solid Ground](https://open.spotify.com/album/5CrNRc7IncWjYbeGOuiFfn) | 3:46 |
+| 74 | [Mu Empire](https://open.spotify.com/track/3yUebDgogzV36flxuyMoV0) | [Glassjaw](https://open.spotify.com/artist/7nt6S4klYHg4I7Q4lTSmc0) | [Worship And Tribute \(U.S\. Version\)](https://open.spotify.com/album/0KeXHDwyfBUshx0c9AqjpT) | 3:44 |
+| 75 | [Changing](https://open.spotify.com/track/4C3osHVXn7trOxSBc8AuhX) | [Saosin](https://open.spotify.com/artist/1NUOfvAhA9AvsF1ISMkgHX) | [In Search of Solid Ground](https://open.spotify.com/album/5CrNRc7IncWjYbeGOuiFfn) | 3:46 |
+| 76 | [Apology](https://open.spotify.com/track/6hNA4yDJr0hGn0TlnmRVUQ) | [Alesana](https://open.spotify.com/artist/1fnDlUNi67FQtHHqBl4Yfg) | [Try This With Your Eyes Closed](https://open.spotify.com/album/0UqeJDOoeBuikFNW2NX6VD) | 4:09 |
 | 77 | [Apathy Is a Cold Body](https://open.spotify.com/track/3nZI9YTYInLiCdjGx7v9tK) | [Poison The Well](https://open.spotify.com/artist/71t8oi0TjZ9Op6JRrVqaBx) | [You Come Before You \(U.S\. Version\)](https://open.spotify.com/album/1jWoSWzUjyq2v2jnmRv3p8) | 5:00 |
 | 78 | [Smile In Your Sleep](https://open.spotify.com/track/0ZPQSy5xo686GSo8ia4gaj) | [Silverstein](https://open.spotify.com/artist/1Tsag5J854qxeOo2apszug) | [Discovering The Waterfront](https://open.spotify.com/album/62bbJz79Ph3Mx6hsvhg5ba) | 3:14 |
 | 79 | [Wake Up](https://open.spotify.com/track/6mKvriTiArIIJWa2IEQ3dN) | [Story Of The Year](https://open.spotify.com/artist/0KDuKk6YdEu3hR56HtXmxt) | [The Black Swan](https://open.spotify.com/album/0Qk9nVlmC49ZNo9j14khzF) | 3:31 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8sGALGjOrTu.md) - [plain]
 | 99 | [Lips Like Morphine](https://open.spotify.com/track/6T91rdmNG5oPQmI4bu00dy) | [Kill Hannah](https://open.spotify.com/artist/3s6SVwL2W0JLnIlwkjnU55) | [Until There's Nothing Left Of Us](https://open.spotify.com/album/12mFu80RyP4ciSEnB4gcFo) | 3:43 |
 | 100 | [Save Our Selves \(The Warning\)](https://open.spotify.com/track/3jme2RKgrkBcIs0wbwbc7B) | [The Blackout](https://open.spotify.com/artist/35b2hm2fvbdZnckJO6FijB) | [The Best In Town](https://open.spotify.com/album/0PtAekoQJNGjtrTfZFc6pp) | 3:34 |
 
-Snapshot ID: `AAAAADVERRHOeZE9V4pcfbJ1ogKoJhqC`
+Snapshot ID: `AAAAALjuYsjOWuY8BjV5G5LpiOJFwNPM`

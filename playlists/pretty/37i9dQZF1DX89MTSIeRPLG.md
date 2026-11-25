@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX89MTSIeRPLG.md) - [plain]
 
 > Sophisticated palates only\. Curated by: <a href="https://www.instagram.com/funnymarco/">Funny Marco</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 25,788 likes - 50 songs - 2 hr 22 min
+[Spotify](https://open.spotify.com/user/spotify) - 25,790 likes - 50 songs - 2 hr 22 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -39,8 +39,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX89MTSIeRPLG.md) - [plain]
 | 29 | [Flawed \(feat\. Gunna\)](https://open.spotify.com/track/2W9fORGdpOPoCvkbCZL9t8) | [Wale](https://open.spotify.com/artist/67nwj3Y5sZQLl72VNUHEYE), [Gunna](https://open.spotify.com/artist/2hlmm7s2ICUX0LVIhVFlZQ) | [Flawed \(feat\. Gunna\)](https://open.spotify.com/album/79nszPHl1lNtFjEThFXYOI) | 3:24 |
 | 30 | [RPS & Codeine \(feat\. Gunna\)](https://open.spotify.com/track/4ZUnCQ1wwsxIt2r43Mb2YY) | [Seddy Hendrinx](https://open.spotify.com/artist/4TYOMrAFzxu8wO0yLIpOm4), [Gunna](https://open.spotify.com/artist/2hlmm7s2ICUX0LVIhVFlZQ) | [Sayless](https://open.spotify.com/album/09cQYh4fbHWyUwRBYbg4nJ) | 3:02 |
 | 31 | [Fly Away](https://open.spotify.com/track/3HwqBzrxs7MFY91C6152en) | [Fatboy SSE](https://open.spotify.com/artist/3z2IySIVkUy23tiLxLy4Wh) | [Fly Away](https://open.spotify.com/album/3qftkbsS2zu16yMRbwIPWa) | 2:28 |
-| 32 | [Treat Me Right](https://open.spotify.com/track/1K7fLNnA0T0hotZlJDqr78) | [DDG](https://open.spotify.com/artist/0WK3H9OErSn5zKOkOV5egm), [OG Parker](https://open.spotify.com/artist/5hhgghBFkLDdMn93GW4x3I) | [Die 4 Respect](https://open.spotify.com/album/4TzzpYnIMI8opSO9koKKVG) | 2:56 |
-| 33 | [Love Is..\. \(feat\. J.I the Prince of N.Y\)](https://open.spotify.com/track/5CN84d2bDUq06b4gbeTvaj) | [Queen Naija](https://open.spotify.com/artist/3nViOFa3kZW8OMSNOzwr98), [J.I the Prince of N.Y](https://open.spotify.com/artist/2eqoJbzUGDwys5ENUkbT3h) | [missunderstood…still](https://open.spotify.com/album/4ko4EFBOkaaPHfQDRr8UAO) | 3:55 |
+| 32 | [Love Is..\. \(feat\. J.I the Prince of N.Y\)](https://open.spotify.com/track/5CN84d2bDUq06b4gbeTvaj) | [Queen Naija](https://open.spotify.com/artist/3nViOFa3kZW8OMSNOzwr98), [J.I the Prince of N.Y](https://open.spotify.com/artist/2eqoJbzUGDwys5ENUkbT3h) | [missunderstood…still](https://open.spotify.com/album/4ko4EFBOkaaPHfQDRr8UAO) | 3:55 |
+| 33 | [Treat Me Right](https://open.spotify.com/track/1K7fLNnA0T0hotZlJDqr78) | [DDG](https://open.spotify.com/artist/0WK3H9OErSn5zKOkOV5egm), [OG Parker](https://open.spotify.com/artist/5hhgghBFkLDdMn93GW4x3I) | [Die 4 Respect](https://open.spotify.com/album/4TzzpYnIMI8opSO9koKKVG) | 2:56 |
 | 34 | [Daily Bread](https://open.spotify.com/track/2q8w0FVUapLrSuOMtZ5Evh) | [Rich Homie Quan](https://open.spotify.com/artist/5lHRUCqkQZCIWeX7xG4sYT) | [Daily Bread](https://open.spotify.com/album/2AzQFWR0a5KE3ZpI1rfPvq) | 2:51 |
 | 35 | [45 \(feat\. A Boogie Wit da Hoodie\)](https://open.spotify.com/track/5DVo2XcdsgEbBsN4bdw5b7) | [Seddy Hendrinx](https://open.spotify.com/artist/4TYOMrAFzxu8wO0yLIpOm4), [A Boogie Wit da Hoodie](https://open.spotify.com/artist/31W5EY0aAly4Qieq6OFu6I) | [Sayless](https://open.spotify.com/album/09cQYh4fbHWyUwRBYbg4nJ) | 2:35 |
 | 36 | [Out The Mud \(feat\. Lil Mosey\)](https://open.spotify.com/track/68s7g9a9pshjRoCddmqiTi) | [Hotboii](https://open.spotify.com/artist/220xv2aB3dsGxaJI1gGs7l), [Lil Mosey](https://open.spotify.com/artist/5zctI4wO9XSKS8XwcnqEHk) | [Double O Baby](https://open.spotify.com/album/2amCTXV3JjDObBU5Q2x6VK) | 3:19 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX89MTSIeRPLG.md) - [plain]
 | 49 | [Bulgari Shades](https://open.spotify.com/track/5Yg6YjAygNGeBnow6xrCQ6) | [Nipsey Hussle](https://open.spotify.com/artist/0EeQBlQJFiAfJeVN2vT9s0) | [X\-Tra Laps](https://open.spotify.com/album/0ooAquTpwq99XgS2XEmQYi) | 2:43 |
 | 50 | [Stay Ballin'](https://open.spotify.com/track/265lAH6iZlYiVvOIN18V6w) | [Dwalk](https://open.spotify.com/artist/6eTtN1ArNtkXCPZJ8riM0T) | [12/31](https://open.spotify.com/album/1JCrDXVsnCHZT4HdssPKP5) | 2:01 |
 
-Snapshot ID: `AAAAAFh77AY9uRnNjDvH1x6un5eRJxcX`
+Snapshot ID: `AAAAAJZNhrjyEr9jVJw4DmaZ0IlHJa3d`

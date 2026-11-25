@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO09XVCM.md) - [plain]
 
 > This is Ziggy Marley\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 35,530 likes - 50 songs - 3 hr 19 min
+[Spotify](https://open.spotify.com/user/spotify) - 35,534 likes - 50 songs - 3 hr 19 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -26,12 +26,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO09XVCM.md) - [plain]
 | 16 | [The Chapel](https://open.spotify.com/track/63S7jRVkIHo97J2vgMTbF6) | [Stephen Marley](https://open.spotify.com/artist/0CIwCGmQMqHqiblnZlFia1), [Ziggy Marley](https://open.spotify.com/artist/0o0rlxlC3ApLWsxFkUjMXc) | [Revelation Part 1: The Root Of Life](https://open.spotify.com/album/3tRUM2HJcrvRzwQCDRUS73) | 4:52 |
 | 17 | [Roots, Rock, Reggae \- Live](https://open.spotify.com/track/2AVcwdUR9479DrbWDRK07l) | [Ziggy Marley](https://open.spotify.com/artist/0o0rlxlC3ApLWsxFkUjMXc) | [Bob Marley 75th Celebration \(Pt.1\) \[Live\]](https://open.spotify.com/album/4hcPkbsM5RqsxOym5uLzR6) | 4:52 |
 | 18 | [Tonika \(feat\. Ziggy Marley\)](https://open.spotify.com/track/6s3SoB0n5VypXrk84IGiNH) | [Maluma](https://open.spotify.com/artist/1r4hJ1h58CWwUQe3MxPuau), [Ziggy Marley](https://open.spotify.com/artist/0o0rlxlC3ApLWsxFkUjMXc) | [\#7DJ \(7 Días En Jamaica\)](https://open.spotify.com/album/7vZC8PTQUCcw3687OxqY98) | 3:50 |
-| 19 | [High On Life](https://open.spotify.com/track/43fy3v7rNHzhR0XypcpCQc) | [Ziggy Marley](https://open.spotify.com/artist/0o0rlxlC3ApLWsxFkUjMXc) | [Rebellion Rises](https://open.spotify.com/album/21neJIeMqBu6WFZvS6ZIwj) | 3:04 |
-| 20 | [Looking](https://open.spotify.com/track/0P6g4X0sQlKCDp9mKSHsjl) | [Ziggy Marley](https://open.spotify.com/artist/0o0rlxlC3ApLWsxFkUjMXc) | [Dragonfly](https://open.spotify.com/album/62Ot058LfUzRFxbramAggQ) | 3:21 |
+| 19 | [Looking](https://open.spotify.com/track/0P6g4X0sQlKCDp9mKSHsjl) | [Ziggy Marley](https://open.spotify.com/artist/0o0rlxlC3ApLWsxFkUjMXc) | [Dragonfly](https://open.spotify.com/album/62Ot058LfUzRFxbramAggQ) | 3:21 |
+| 20 | [High On Life](https://open.spotify.com/track/43fy3v7rNHzhR0XypcpCQc) | [Ziggy Marley](https://open.spotify.com/artist/0o0rlxlC3ApLWsxFkUjMXc) | [Rebellion Rises](https://open.spotify.com/album/21neJIeMqBu6WFZvS6ZIwj) | 3:04 |
 | 21 | [Top Rankin'/We And Dem \- Live](https://open.spotify.com/track/1r9uYdbKiB4MGTa5AoOK6p) | [Ziggy Marley](https://open.spotify.com/artist/0o0rlxlC3ApLWsxFkUjMXc) | [Bob Marley 75th Celebration \(Pt.1\) \[Live\]](https://open.spotify.com/album/4hcPkbsM5RqsxOym5uLzR6) | 5:59 |
 | 22 | [Love Is My Religion \(Live\)](https://open.spotify.com/track/1d1z4TzhHtzRIsCmoHDeCu) | [Playing For Change](https://open.spotify.com/artist/645m90txZTycwJGdZTWscc), [Ziggy Marley](https://open.spotify.com/artist/0o0rlxlC3ApLWsxFkUjMXc) | [Playing for Change \(Live\)](https://open.spotify.com/album/1xvTR4a0kOkL0Z0pBGYXV5) | 4:10 |
-| 23 | [Love](https://open.spotify.com/track/5mo9cqdFYQDHDBaYT3rYZe) | [Cody Simpson](https://open.spotify.com/artist/79Xp2rRN7wdsaTJgttdX3K), [Ziggy Marley](https://open.spotify.com/artist/0o0rlxlC3ApLWsxFkUjMXc) | [Surfers Paradise \(Expanded\)](https://open.spotify.com/album/5oQFHp1OcYC9eHYTG84vAH) | 3:10 |
-| 24 | [Rainbow in the Sky](https://open.spotify.com/track/2U7kXTPxWV8OS7ZR3muAJT) | [Ziggy Marley](https://open.spotify.com/artist/0o0rlxlC3ApLWsxFkUjMXc) | [Dragonfly](https://open.spotify.com/album/62Ot058LfUzRFxbramAggQ) | 3:08 |
+| 23 | [Rainbow in the Sky](https://open.spotify.com/track/2U7kXTPxWV8OS7ZR3muAJT) | [Ziggy Marley](https://open.spotify.com/artist/0o0rlxlC3ApLWsxFkUjMXc) | [Dragonfly](https://open.spotify.com/album/62Ot058LfUzRFxbramAggQ) | 3:08 |
+| 24 | [Love](https://open.spotify.com/track/5mo9cqdFYQDHDBaYT3rYZe) | [Cody Simpson](https://open.spotify.com/artist/79Xp2rRN7wdsaTJgttdX3K), [Ziggy Marley](https://open.spotify.com/artist/0o0rlxlC3ApLWsxFkUjMXc) | [Surfers Paradise \(Expanded\)](https://open.spotify.com/album/5oQFHp1OcYC9eHYTG84vAH) | 3:10 |
 | 25 | [War \- Live](https://open.spotify.com/track/4DqBKhMrM27XLPxXMmSacn) | [Ziggy Marley](https://open.spotify.com/artist/0o0rlxlC3ApLWsxFkUjMXc) | [Bob Marley 75th Celebration \(Pt.1\) \[Live\]](https://open.spotify.com/album/4hcPkbsM5RqsxOym5uLzR6) | 5:43 |
 | 26 | [Iron Lion Zion \(feat\. Ziggy Marley & ChocQuibTown\)](https://open.spotify.com/track/1sCfYZLKuW5OJ5AZQxIgj8) | [Santana](https://open.spotify.com/artist/6GI52t8N5F02MxU0g5U69P), [Ziggy Marley](https://open.spotify.com/artist/0o0rlxlC3ApLWsxFkUjMXc), [ChocQuibTown](https://open.spotify.com/artist/6tkyhGe9hGI3Lcfo4gVh6Z) | [Iron Lion Zion \(feat\. Ziggy Marley & ChocQuibTown\)](https://open.spotify.com/album/2uKjJJ1dRu5ovo9PajxnPf) | 4:30 |
 | 27 | [Sunshine \(feat\. RUSL\) \- RUSL Remix](https://open.spotify.com/track/7ljp7KHGbCoXSWB8rq6g76) | [Ziggy Marley](https://open.spotify.com/artist/0o0rlxlC3ApLWsxFkUjMXc), [RUSL](https://open.spotify.com/artist/2xubHcmLfIGaulRsuseccA) | [Remixes](https://open.spotify.com/album/1UPInuHMWkRodfsDYPyhYx) | 3:08 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO09XVCM.md) - [plain]
 | 49 | [I Get Up \(feat\. Cedella Marley\)](https://open.spotify.com/track/6SEimrKNMh0ep0of8X34St) | [Ziggy Marley](https://open.spotify.com/artist/0o0rlxlC3ApLWsxFkUjMXc), [Cedella Marley](https://open.spotify.com/artist/6KL6RLoRlfIYXGx4UAYT6O) | [Fly Rasta](https://open.spotify.com/album/2OT4p3NBqb7zyvvQwA4EM8) | 3:38 |
 | 50 | [Racism Is A Killa](https://open.spotify.com/track/2TpdzL5x1f98YtopeLu3Lt) | [Ziggy Marley](https://open.spotify.com/artist/0o0rlxlC3ApLWsxFkUjMXc) | [Brightside](https://open.spotify.com/album/4aJHr1kwmCQYnOrkYUc4gK) | 3:40 |
 
-Snapshot ID: `awIwgAAAAADcxGyoIHyFUPsG74Ec7Fwh`
+Snapshot ID: `awOCAAAAAAAYZyzTVgDrskvQeg26R/Hh`

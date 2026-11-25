@@ -1,12 +1,12 @@
 {
   "description": "Sophisticated palates only. Curated by: <a href=\"https://www.instagram.com/funnymarco/\">Funny Marco</a>",
-  "num_followers": 25788,
+  "num_followers": 25790,
   "original_name": "Funny Marco's Taste",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAFh77AY9uRnNjDvH1x6un5eRJxcX",
+  "snapshot_id": "AAAAAJZNhrjyEr9jVJw4DmaZ0IlHJa3d",
   "tracks": [
     {
       "added_at": "2022-10-01 20:31:11",
@@ -615,26 +615,6 @@
     {
       "added_at": "2022-10-01 20:31:11",
       "album": {
-        "name": "Die 4 Respect",
-        "url": "https://open.spotify.com/album/4TzzpYnIMI8opSO9koKKVG"
-      },
-      "artists": [
-        {
-          "name": "DDG",
-          "url": "https://open.spotify.com/artist/0WK3H9OErSn5zKOkOV5egm"
-        },
-        {
-          "name": "OG Parker",
-          "url": "https://open.spotify.com/artist/5hhgghBFkLDdMn93GW4x3I"
-        }
-      ],
-      "duration_ms": 176043,
-      "name": "Treat Me Right",
-      "url": "https://open.spotify.com/track/1K7fLNnA0T0hotZlJDqr78"
-    },
-    {
-      "added_at": "2022-10-01 20:31:11",
-      "album": {
         "name": "missunderstood\u2026still",
         "url": "https://open.spotify.com/album/4ko4EFBOkaaPHfQDRr8UAO"
       },
@@ -651,6 +631,26 @@
       "duration_ms": 235797,
       "name": "Love Is... (feat. J.I the Prince of N.Y)",
       "url": "https://open.spotify.com/track/5CN84d2bDUq06b4gbeTvaj"
+    },
+    {
+      "added_at": "2022-10-01 20:31:11",
+      "album": {
+        "name": "Die 4 Respect",
+        "url": "https://open.spotify.com/album/4TzzpYnIMI8opSO9koKKVG"
+      },
+      "artists": [
+        {
+          "name": "DDG",
+          "url": "https://open.spotify.com/artist/0WK3H9OErSn5zKOkOV5egm"
+        },
+        {
+          "name": "OG Parker",
+          "url": "https://open.spotify.com/artist/5hhgghBFkLDdMn93GW4x3I"
+        }
+      ],
+      "duration_ms": 176043,
+      "name": "Treat Me Right",
+      "url": "https://open.spotify.com/track/1K7fLNnA0T0hotZlJDqr78"
     },
     {
       "added_at": "2022-10-01 20:31:11",

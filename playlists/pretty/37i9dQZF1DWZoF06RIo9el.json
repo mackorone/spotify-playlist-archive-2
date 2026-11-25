@@ -1,12 +1,12 @@
 {
   "description": "Las favoritas de noviembre 2026. Cover: Hamilton & Sech",
-  "num_followers": 1537956,
+  "num_followers": 1537732,
   "original_name": "Lo mejor del mes",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAEyMXBCJ/QHFaNtBRukB8qNs4GBj",
+  "snapshot_id": "AAAAADNJDw8nrHm4+Kdmv8dkPn3eRYPM",
   "tracks": [
     {
       "added_at": "2026-11-20 05:01:07",
@@ -371,22 +371,6 @@
     {
       "added_at": "2026-11-20 05:01:07",
       "album": {
-        "name": "Departamento",
-        "url": "https://open.spotify.com/album/540pquD3B2fmai9xx25RII"
-      },
-      "artists": [
-        {
-          "name": "LATIN MAFIA",
-          "url": "https://open.spotify.com/artist/6XTGKOV9jceQ6f67lnhpbF"
-        }
-      ],
-      "duration_ms": 284533,
-      "name": "Departamento",
-      "url": "https://open.spotify.com/track/7bFKJ91RTq6wcZJMK1LQRa"
-    },
-    {
-      "added_at": "2026-11-20 05:01:07",
-      "album": {
         "name": "Tremendo Desastre",
         "url": "https://open.spotify.com/album/6SO08tJ1GFnMqzXLzA9E3t"
       },
@@ -407,6 +391,22 @@
     {
       "added_at": "2026-11-20 05:01:07",
       "album": {
+        "name": "Departamento",
+        "url": "https://open.spotify.com/album/540pquD3B2fmai9xx25RII"
+      },
+      "artists": [
+        {
+          "name": "LATIN MAFIA",
+          "url": "https://open.spotify.com/artist/6XTGKOV9jceQ6f67lnhpbF"
+        }
+      ],
+      "duration_ms": 284533,
+      "name": "Departamento",
+      "url": "https://open.spotify.com/track/7bFKJ91RTq6wcZJMK1LQRa"
+    },
+    {
+      "added_at": "2026-11-20 05:01:07",
+      "album": {
         "name": "After (feat. Young Miko)",
         "url": "https://open.spotify.com/album/7IvDBWhqyMPoSZcmcEI6Eq"
       },
@@ -423,6 +423,26 @@
       "duration_ms": 189697,
       "name": "After (feat. Young Miko)",
       "url": "https://open.spotify.com/track/59cR3FClp2PlkHV5511R7x"
+    },
+    {
+      "added_at": "2026-11-20 05:01:07",
+      "album": {
+        "name": "ATRAVESAO",
+        "url": "https://open.spotify.com/album/0N2N0fNmfFL9PGIL67ziRw"
+      },
+      "artists": [
+        {
+          "name": "Rey Quinto",
+          "url": "https://open.spotify.com/artist/7EpdzasUopr1eDw9i66Of0"
+        },
+        {
+          "name": "Peso Pluma",
+          "url": "https://open.spotify.com/artist/12GqGscKJx3aE4t07u7eVZ"
+        }
+      ],
+      "duration_ms": 180000,
+      "name": "ATRAVESAO",
+      "url": "https://open.spotify.com/track/6U7pLc5fR5ksO2Ljl7Bgjo"
     },
     {
       "added_at": "2026-11-20 05:01:07",
@@ -479,26 +499,6 @@
     {
       "added_at": "2026-11-20 05:01:07",
       "album": {
-        "name": "ATRAVESAO",
-        "url": "https://open.spotify.com/album/0N2N0fNmfFL9PGIL67ziRw"
-      },
-      "artists": [
-        {
-          "name": "Rey Quinto",
-          "url": "https://open.spotify.com/artist/7EpdzasUopr1eDw9i66Of0"
-        },
-        {
-          "name": "Peso Pluma",
-          "url": "https://open.spotify.com/artist/12GqGscKJx3aE4t07u7eVZ"
-        }
-      ],
-      "duration_ms": 180000,
-      "name": "ATRAVESAO",
-      "url": "https://open.spotify.com/track/6U7pLc5fR5ksO2Ljl7Bgjo"
-    },
-    {
-      "added_at": "2026-11-20 05:01:07",
-      "album": {
         "name": "Para Cuando Sean Mayores",
         "url": "https://open.spotify.com/album/4ObpOQskrI1sAUEysNy4FG"
       },
@@ -511,6 +511,30 @@
       "duration_ms": 159528,
       "name": "For Eva",
       "url": "https://open.spotify.com/track/69jTHsPXAij557lc73zcp2"
+    },
+    {
+      "added_at": "2026-11-20 05:01:07",
+      "album": {
+        "name": "HAGALO (Remix)",
+        "url": "https://open.spotify.com/album/12GL0ryH7GVZd10eHC7zub"
+      },
+      "artists": [
+        {
+          "name": "K\u00f8ddy G",
+          "url": "https://open.spotify.com/artist/4N1uqOIvymj2CbBSH33cks"
+        },
+        {
+          "name": "Ryan Castro",
+          "url": "https://open.spotify.com/artist/7j6DKwmjbxvpQO8h914uEz"
+        },
+        {
+          "name": "THE FAVORITES",
+          "url": "https://open.spotify.com/artist/7xCeAo7w31Gmz29052qZ5I"
+        }
+      ],
+      "duration_ms": 209411,
+      "name": "HAGALO - Remix",
+      "url": "https://open.spotify.com/track/5dKwSBvFI4VN4iJAp7jj4u"
     },
     {
       "added_at": "2026-11-20 05:01:07",
@@ -555,30 +579,6 @@
     {
       "added_at": "2026-11-20 05:01:07",
       "album": {
-        "name": "HAGALO (Remix)",
-        "url": "https://open.spotify.com/album/12GL0ryH7GVZd10eHC7zub"
-      },
-      "artists": [
-        {
-          "name": "K\u00f8ddy G",
-          "url": "https://open.spotify.com/artist/4N1uqOIvymj2CbBSH33cks"
-        },
-        {
-          "name": "Ryan Castro",
-          "url": "https://open.spotify.com/artist/7j6DKwmjbxvpQO8h914uEz"
-        },
-        {
-          "name": "THE FAVORITES",
-          "url": "https://open.spotify.com/artist/7xCeAo7w31Gmz29052qZ5I"
-        }
-      ],
-      "duration_ms": 209411,
-      "name": "HAGALO - Remix",
-      "url": "https://open.spotify.com/track/5dKwSBvFI4VN4iJAp7jj4u"
-    },
-    {
-      "added_at": "2026-11-20 05:01:07",
-      "album": {
         "name": "fill de la mar (2026)",
         "url": "https://open.spotify.com/album/6nwZerT6S5mNbj2MLdJgVt"
       },
@@ -591,6 +591,22 @@
       "duration_ms": 117857,
       "name": "gaviotas de cristal",
       "url": "https://open.spotify.com/track/73Qs48OY5Won2FWwUeh6wh"
+    },
+    {
+      "added_at": "2026-11-20 05:01:07",
+      "album": {
+        "name": "no caigas en las trampas",
+        "url": "https://open.spotify.com/album/5FwNajrA8Mf5m7vAqpTPja"
+      },
+      "artists": [
+        {
+          "name": "Nicki Nicole",
+          "url": "https://open.spotify.com/artist/2UZIAOlrnyZmyzt1nuXr9y"
+        }
+      ],
+      "duration_ms": 154030,
+      "name": "Rayo de Sol ::Represi\u00f3n::",
+      "url": "https://open.spotify.com/track/1jrN22ZAZld1LN19cnRHDW"
     },
     {
       "added_at": "2026-11-20 05:01:07",
@@ -611,22 +627,6 @@
       "duration_ms": 165786,
       "name": "Detective",
       "url": "https://open.spotify.com/track/1nGJNFmJ2h6uG7XPoKw97K"
-    },
-    {
-      "added_at": "2026-11-20 05:01:07",
-      "album": {
-        "name": "no caigas en las trampas",
-        "url": "https://open.spotify.com/album/5FwNajrA8Mf5m7vAqpTPja"
-      },
-      "artists": [
-        {
-          "name": "Nicki Nicole",
-          "url": "https://open.spotify.com/artist/2UZIAOlrnyZmyzt1nuXr9y"
-        }
-      ],
-      "duration_ms": 154030,
-      "name": "Rayo de Sol ::Represi\u00f3n::",
-      "url": "https://open.spotify.com/track/1jrN22ZAZld1LN19cnRHDW"
     },
     {
       "added_at": "2026-11-20 05:01:07",
@@ -683,22 +683,6 @@
     {
       "added_at": "2026-11-20 05:01:07",
       "album": {
-        "name": "Con Esos Celos",
-        "url": "https://open.spotify.com/album/6d1eXu99bHIaP9NgVz4Y6H"
-      },
-      "artists": [
-        {
-          "name": "Sech",
-          "url": "https://open.spotify.com/artist/77ziqFxp5gaInVrF2lj4ht"
-        }
-      ],
-      "duration_ms": 133142,
-      "name": "Con Esos Celos",
-      "url": "https://open.spotify.com/track/63LvRvvdM73126Ye2Sbsdt"
-    },
-    {
-      "added_at": "2026-11-20 05:01:07",
-      "album": {
         "name": "INTELIGENCIA ARTESANAL",
         "url": "https://open.spotify.com/album/0kYfU6SPBlJez4GwVvPWuP"
       },
@@ -715,6 +699,22 @@
       "duration_ms": 136446,
       "name": "IBUPROFENO",
       "url": "https://open.spotify.com/track/7tNgv10I5jhh1QpYfc4IYJ"
+    },
+    {
+      "added_at": "2026-11-20 05:01:07",
+      "album": {
+        "name": "Con Esos Celos",
+        "url": "https://open.spotify.com/album/6d1eXu99bHIaP9NgVz4Y6H"
+      },
+      "artists": [
+        {
+          "name": "Sech",
+          "url": "https://open.spotify.com/artist/77ziqFxp5gaInVrF2lj4ht"
+        }
+      ],
+      "duration_ms": 133142,
+      "name": "Con Esos Celos",
+      "url": "https://open.spotify.com/track/63LvRvvdM73126Ye2Sbsdt"
     },
     {
       "added_at": "2026-11-20 05:01:07",
@@ -755,6 +755,22 @@
     {
       "added_at": "2026-11-20 05:01:07",
       "album": {
+        "name": "una en un mill\u00f3n . . & te qued\u00f3 grande [v13 xii] . -",
+        "url": "https://open.spotify.com/album/5WV8k3KiC0QuUuR70gwESF"
+      },
+      "artists": [
+        {
+          "name": "Alex Ponce",
+          "url": "https://open.spotify.com/artist/2rtnKY7iQJHIEBnOd66DCO"
+        }
+      ],
+      "duration_ms": 180944,
+      "name": "una en un mill\u00f3n . .",
+      "url": "https://open.spotify.com/track/62R3iw59IeKbl2VbFR2mzp"
+    },
+    {
+      "added_at": "2026-11-20 05:01:07",
+      "album": {
         "name": "DR. STRANGE",
         "url": "https://open.spotify.com/album/67WRjyo3MxIFQ1iAd2tPrz"
       },
@@ -771,22 +787,6 @@
       "duration_ms": 163909,
       "name": "DR. STRANGE",
       "url": "https://open.spotify.com/track/5SINT50A0nx7NiFbMDcvW8"
-    },
-    {
-      "added_at": "2026-11-20 05:01:07",
-      "album": {
-        "name": "una en un mill\u00f3n . . & te qued\u00f3 grande [v13 xii] . -",
-        "url": "https://open.spotify.com/album/5WV8k3KiC0QuUuR70gwESF"
-      },
-      "artists": [
-        {
-          "name": "Alex Ponce",
-          "url": "https://open.spotify.com/artist/2rtnKY7iQJHIEBnOd66DCO"
-        }
-      ],
-      "duration_ms": 180944,
-      "name": "una en un mill\u00f3n . .",
-      "url": "https://open.spotify.com/track/62R3iw59IeKbl2VbFR2mzp"
     },
     {
       "added_at": "2026-11-20 05:01:07",
@@ -823,22 +823,6 @@
     {
       "added_at": "2026-11-20 05:01:07",
       "album": {
-        "name": "62 GANG",
-        "url": "https://open.spotify.com/album/3lq6BbV7iqzrC50JTzs9Pu"
-      },
-      "artists": [
-        {
-          "name": "Huan62",
-          "url": "https://open.spotify.com/artist/08yYd8o1CrOjIpGHP2I6zU"
-        }
-      ],
-      "duration_ms": 87058,
-      "name": "Barbie",
-      "url": "https://open.spotify.com/track/5ZJPlwaqxs7yX7Aqe0TTgJ"
-    },
-    {
-      "added_at": "2026-11-20 05:01:07",
-      "album": {
         "name": "CALLA\u00cdTO SAFARI",
         "url": "https://open.spotify.com/album/5mRmMCVz0LKdAmpeumvpZo"
       },
@@ -851,6 +835,22 @@
       "duration_ms": 176074,
       "name": "calla\u00edto safari",
       "url": "https://open.spotify.com/track/2tpCPmC6r2HYQUfVAF9GF3"
+    },
+    {
+      "added_at": "2026-11-20 05:01:07",
+      "album": {
+        "name": "62 GANG",
+        "url": "https://open.spotify.com/album/3lq6BbV7iqzrC50JTzs9Pu"
+      },
+      "artists": [
+        {
+          "name": "Huan62",
+          "url": "https://open.spotify.com/artist/08yYd8o1CrOjIpGHP2I6zU"
+        }
+      ],
+      "duration_ms": 87058,
+      "name": "Barbie",
+      "url": "https://open.spotify.com/track/5ZJPlwaqxs7yX7Aqe0TTgJ"
     },
     {
       "added_at": "2026-11-20 05:01:07",
@@ -875,18 +875,18 @@
     {
       "added_at": "2026-11-20 05:01:07",
       "album": {
-        "name": "si",
-        "url": "https://open.spotify.com/album/4KZG1pHNQdUQlNNIm4mt6f"
+        "name": "bark bark bark",
+        "url": "https://open.spotify.com/album/0PindUKbZh2ZFkgILpvTH6"
       },
       "artists": [
         {
-          "name": "Sparklmami",
-          "url": "https://open.spotify.com/artist/50NGgQQCV0QLrOefzyuNh0"
+          "name": "aLex vs aLex",
+          "url": "https://open.spotify.com/artist/5faWaRmwlvIin04bFM0tfM"
         }
       ],
-      "duration_ms": 151624,
-      "name": "si",
-      "url": "https://open.spotify.com/track/7bIHolmbqyiJ5lPtfoZfL4"
+      "duration_ms": 146114,
+      "name": "bark bark bark",
+      "url": "https://open.spotify.com/track/6Ik4yw27YQfVhhTt1tOtmV"
     },
     {
       "added_at": "2026-11-20 05:01:07",
@@ -911,18 +911,18 @@
     {
       "added_at": "2026-11-20 05:01:07",
       "album": {
-        "name": "bark bark bark",
-        "url": "https://open.spotify.com/album/0PindUKbZh2ZFkgILpvTH6"
+        "name": "si",
+        "url": "https://open.spotify.com/album/4KZG1pHNQdUQlNNIm4mt6f"
       },
       "artists": [
         {
-          "name": "aLex vs aLex",
-          "url": "https://open.spotify.com/artist/5faWaRmwlvIin04bFM0tfM"
+          "name": "Sparklmami",
+          "url": "https://open.spotify.com/artist/50NGgQQCV0QLrOefzyuNh0"
         }
       ],
-      "duration_ms": 146114,
-      "name": "bark bark bark",
-      "url": "https://open.spotify.com/track/6Ik4yw27YQfVhhTt1tOtmV"
+      "duration_ms": 151624,
+      "name": "si",
+      "url": "https://open.spotify.com/track/7bIHolmbqyiJ5lPtfoZfL4"
     },
     {
       "added_at": "2026-11-20 05:01:07",
@@ -995,22 +995,6 @@
     {
       "added_at": "2026-11-20 05:01:07",
       "album": {
-        "name": "LOS CISNES",
-        "url": "https://open.spotify.com/album/557XWOuNRadtqs2rByxVuk"
-      },
-      "artists": [
-        {
-          "name": "Melanie Santiler",
-          "url": "https://open.spotify.com/artist/1ZN9ReUi4VKQjhzQDVV3Zk"
-        }
-      ],
-      "duration_ms": 177215,
-      "name": "CARI\u00d1O",
-      "url": "https://open.spotify.com/track/6GR5SpN5QMumyDgmaGjecM"
-    },
-    {
-      "added_at": "2026-11-20 05:01:07",
-      "album": {
         "name": "me cuidas!",
         "url": "https://open.spotify.com/album/5clxHG7ty01B6ZS2Vdy0uH"
       },
@@ -1023,6 +1007,22 @@
       "duration_ms": 192000,
       "name": "me cuidas!",
       "url": "https://open.spotify.com/track/4Qo3BGa95WkK0wEssoM15X"
+    },
+    {
+      "added_at": "2026-11-20 05:01:07",
+      "album": {
+        "name": "LOS CISNES",
+        "url": "https://open.spotify.com/album/557XWOuNRadtqs2rByxVuk"
+      },
+      "artists": [
+        {
+          "name": "Melanie Santiler",
+          "url": "https://open.spotify.com/artist/1ZN9ReUi4VKQjhzQDVV3Zk"
+        }
+      ],
+      "duration_ms": 177215,
+      "name": "CARI\u00d1O",
+      "url": "https://open.spotify.com/track/6GR5SpN5QMumyDgmaGjecM"
     },
     {
       "added_at": "2026-11-20 05:01:07",
@@ -1091,18 +1091,18 @@
     {
       "added_at": "2026-11-20 05:01:07",
       "album": {
-        "name": "I can fix him",
-        "url": "https://open.spotify.com/album/4AZ15o5BeWgBotdBzuHP7r"
+        "name": "El M\u00e1s Feliz de los Tristes",
+        "url": "https://open.spotify.com/album/3xCb1oxClCtTvz0TdQj8I0"
       },
       "artists": [
         {
-          "name": "Nina del R\u00edo",
-          "url": "https://open.spotify.com/artist/1wUSPdDC7yelxpg2mdnLGd"
+          "name": "ZUCO OMG",
+          "url": "https://open.spotify.com/artist/6hA5ALJWFb44ixgQMMvng7"
         }
       ],
-      "duration_ms": 184893,
-      "name": "I can fix him",
-      "url": "https://open.spotify.com/track/6BHXQiNkRvMzBskYaoTk0y"
+      "duration_ms": 180400,
+      "name": "Mercedes Rosa",
+      "url": "https://open.spotify.com/track/0w9KWawjDKyw9p8Otdouq9"
     }
   ],
   "unique_name": "Lo mejor del mes",

@@ -1,29 +1,13 @@
 {
   "description": "Listen to selected nominees for the 69th GRAMMY Awards.",
-  "num_followers": 167638,
+  "num_followers": 167670,
   "original_name": "The GRAMMYs Official Playlist",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAALVdNi1rY3lTdjVWIQ1eDi/NkRzo",
+  "snapshot_id": "AAAAAPE7ry8uZdZLhYQk32cjYMEM+Msv",
   "tracks": [
-    {
-      "added_at": "2026-11-16 16:07:41",
-      "album": {
-        "name": "Man I Need",
-        "url": "https://open.spotify.com/album/0Bv6OJO0L5gcf20DMww54a"
-      },
-      "artists": [
-        {
-          "name": "Olivia Dean",
-          "url": "https://open.spotify.com/artist/00x1fYSGhdqScXBRpSj3DW"
-        }
-      ],
-      "duration_ms": 184000,
-      "name": "Man I Need",
-      "url": "https://open.spotify.com/track/1qbmS6ep2hbBRaEZFpn7BX"
-    },
     {
       "added_at": "2026-11-16 16:07:41",
       "album": {
@@ -39,6 +23,22 @@
       "duration_ms": 297090,
       "name": "the cure",
       "url": "https://open.spotify.com/track/55pBIZO1cqoldeqpp5WR7H"
+    },
+    {
+      "added_at": "2026-11-16 16:07:41",
+      "album": {
+        "name": "Man I Need",
+        "url": "https://open.spotify.com/album/0Bv6OJO0L5gcf20DMww54a"
+      },
+      "artists": [
+        {
+          "name": "Olivia Dean",
+          "url": "https://open.spotify.com/artist/00x1fYSGhdqScXBRpSj3DW"
+        }
+      ],
+      "duration_ms": 184000,
+      "name": "Man I Need",
+      "url": "https://open.spotify.com/track/1qbmS6ep2hbBRaEZFpn7BX"
     },
     {
       "added_at": "2026-11-16 16:07:41",
@@ -587,22 +587,6 @@
     {
       "added_at": "2026-11-16 16:07:41",
       "album": {
-        "name": "DANCE...",
-        "url": "https://open.spotify.com/album/0aUf8eGa6qyxQT9OWZR09v"
-      },
-      "artists": [
-        {
-          "name": "Slayyyter",
-          "url": "https://open.spotify.com/artist/4QM5QCHicznALtX885CnZC"
-        }
-      ],
-      "duration_ms": 287055,
-      "name": "DANCE...",
-      "url": "https://open.spotify.com/track/5rfOARz6QO73wPATyMtQQZ"
-    },
-    {
-      "added_at": "2026-11-16 16:07:41",
-      "album": {
         "name": "Midnight Sun",
         "url": "https://open.spotify.com/album/0nte5x6fXd37Nt7jALSmx0"
       },
@@ -615,6 +599,22 @@
       "duration_ms": 182055,
       "name": "Blue Moon",
       "url": "https://open.spotify.com/track/20R5YwjmKubeva79prlvJq"
+    },
+    {
+      "added_at": "2026-11-16 16:07:41",
+      "album": {
+        "name": "DANCE...",
+        "url": "https://open.spotify.com/album/0aUf8eGa6qyxQT9OWZR09v"
+      },
+      "artists": [
+        {
+          "name": "Slayyyter",
+          "url": "https://open.spotify.com/artist/4QM5QCHicznALtX885CnZC"
+        }
+      ],
+      "duration_ms": 287055,
+      "name": "DANCE...",
+      "url": "https://open.spotify.com/track/5rfOARz6QO73wPATyMtQQZ"
     },
     {
       "added_at": "2026-11-16 16:07:41",
@@ -723,22 +723,6 @@
     {
       "added_at": "2026-11-16 16:07:41",
       "album": {
-        "name": "Getting Killed",
-        "url": "https://open.spotify.com/album/0eeXb23yMW6EaIgm63xxPC"
-      },
-      "artists": [
-        {
-          "name": "Geese",
-          "url": "https://open.spotify.com/artist/0WCo84qtCKfbyIf1lqQWB4"
-        }
-      ],
-      "duration_ms": 210945,
-      "name": "Au Pays du Cocaine",
-      "url": "https://open.spotify.com/track/1g9GiiPPaL7KcDHlDzu7lT"
-    },
-    {
-      "added_at": "2026-11-16 16:07:41",
-      "album": {
         "name": "Prizefighter",
         "url": "https://open.spotify.com/album/4jnBkfheZqprSwXV7qyrc0"
       },
@@ -755,6 +739,22 @@
       "duration_ms": 191146,
       "name": "Here (with Chris Stapleton)",
       "url": "https://open.spotify.com/track/5ovPv5nkmtM7fCPvr3OOE6"
+    },
+    {
+      "added_at": "2026-11-16 16:07:41",
+      "album": {
+        "name": "Getting Killed",
+        "url": "https://open.spotify.com/album/0eeXb23yMW6EaIgm63xxPC"
+      },
+      "artists": [
+        {
+          "name": "Geese",
+          "url": "https://open.spotify.com/artist/0WCo84qtCKfbyIf1lqQWB4"
+        }
+      ],
+      "duration_ms": 210945,
+      "name": "Au Pays du Cocaine",
+      "url": "https://open.spotify.com/track/1g9GiiPPaL7KcDHlDzu7lT"
     },
     {
       "added_at": "2026-11-16 16:07:41",
@@ -923,18 +923,18 @@
     {
       "added_at": "2026-11-16 16:07:41",
       "album": {
-        "name": "CONFESSIONS II",
-        "url": "https://open.spotify.com/album/1CWY6mfnuLlF4BKRLFcUDQ"
+        "name": "Gary",
+        "url": "https://open.spotify.com/album/2oRy1LSwPVKeELSNxewLHc"
       },
       "artists": [
         {
-          "name": "Madonna",
-          "url": "https://open.spotify.com/artist/6tbjWDEIzxoDsBA1FuhfPW"
+          "name": "Stephen Wilson Jr.",
+          "url": "https://open.spotify.com/artist/4DSDa4HvAWqvb3dMHUOAfd"
         }
       ],
-      "duration_ms": 299479,
-      "name": "I Feel So Free",
-      "url": "https://open.spotify.com/track/5GNDe5JmNKP3OThhyXgx5S"
+      "duration_ms": 314623,
+      "name": "Gary",
+      "url": "https://open.spotify.com/track/5HMmz01XM5IYaGP0KSsDvQ"
     },
     {
       "added_at": "2026-11-16 16:07:41",
@@ -951,6 +951,22 @@
       "duration_ms": 162533,
       "name": "Sauvignon Blanc",
       "url": "https://open.spotify.com/track/10uxlzuPGekUTay2ZpZ4pR"
+    },
+    {
+      "added_at": "2026-11-16 16:07:41",
+      "album": {
+        "name": "CONFESSIONS II",
+        "url": "https://open.spotify.com/album/1CWY6mfnuLlF4BKRLFcUDQ"
+      },
+      "artists": [
+        {
+          "name": "Madonna",
+          "url": "https://open.spotify.com/artist/6tbjWDEIzxoDsBA1FuhfPW"
+        }
+      ],
+      "duration_ms": 299479,
+      "name": "I Feel So Free",
+      "url": "https://open.spotify.com/track/5GNDe5JmNKP3OThhyXgx5S"
     },
     {
       "added_at": "2026-11-16 16:07:41",
@@ -975,22 +991,6 @@
       "duration_ms": 232424,
       "name": "Good Flirts (feat. Kendrick Lamar & Momo Boyd)",
       "url": "https://open.spotify.com/track/5sHeIGDbdzw8DeO57XZKIy"
-    },
-    {
-      "added_at": "2026-11-16 16:07:41",
-      "album": {
-        "name": "Gary",
-        "url": "https://open.spotify.com/album/2oRy1LSwPVKeELSNxewLHc"
-      },
-      "artists": [
-        {
-          "name": "Stephen Wilson Jr.",
-          "url": "https://open.spotify.com/artist/4DSDa4HvAWqvb3dMHUOAfd"
-        }
-      ],
-      "duration_ms": 314623,
-      "name": "Gary",
-      "url": "https://open.spotify.com/track/5HMmz01XM5IYaGP0KSsDvQ"
     },
     {
       "added_at": "2026-11-16 16:07:41",
@@ -1491,22 +1491,6 @@
     {
       "added_at": "2026-11-16 16:07:41",
       "album": {
-        "name": "Foreign Tongues",
-        "url": "https://open.spotify.com/album/6jfU2DEetUUo8nmxrzwkhc"
-      },
-      "artists": [
-        {
-          "name": "The Rolling Stones",
-          "url": "https://open.spotify.com/artist/22bE4uQ6baNwSHPVcDxLCe"
-        }
-      ],
-      "duration_ms": 253266,
-      "name": "In The Stars",
-      "url": "https://open.spotify.com/track/2NxvINbGnBMtcphlpX3UDE"
-    },
-    {
-      "added_at": "2026-11-16 16:07:41",
-      "album": {
         "name": "The Jesus I Know Now (with Lainey Wilson)",
         "url": "https://open.spotify.com/album/7lnIDIoFSoHRRx2XJTsxju"
       },
@@ -1527,6 +1511,22 @@
     {
       "added_at": "2026-11-16 16:07:41",
       "album": {
+        "name": "Foreign Tongues",
+        "url": "https://open.spotify.com/album/6jfU2DEetUUo8nmxrzwkhc"
+      },
+      "artists": [
+        {
+          "name": "The Rolling Stones",
+          "url": "https://open.spotify.com/artist/22bE4uQ6baNwSHPVcDxLCe"
+        }
+      ],
+      "duration_ms": 253266,
+      "name": "In The Stars",
+      "url": "https://open.spotify.com/track/2NxvINbGnBMtcphlpX3UDE"
+    },
+    {
+      "added_at": "2026-11-16 16:07:41",
+      "album": {
         "name": "Getting Killed",
         "url": "https://open.spotify.com/album/0eeXb23yMW6EaIgm63xxPC"
       },
@@ -1539,6 +1539,22 @@
       "duration_ms": 224824,
       "name": "Trinidad",
       "url": "https://open.spotify.com/track/5WGr8oEBp2RBrorc5ZEx1K"
+    },
+    {
+      "added_at": "2026-11-16 16:07:41",
+      "album": {
+        "name": "VISA",
+        "url": "https://open.spotify.com/album/5mtA5iGasjsoAGVFlwOa19"
+      },
+      "artists": [
+        {
+          "name": "SB19",
+          "url": "https://open.spotify.com/artist/3g7vYcdDXnqnDKYFwqXBJP"
+        }
+      ],
+      "duration_ms": 222816,
+      "name": "VISA",
+      "url": "https://open.spotify.com/track/6RYMQDnY4zPaLSfvfRdXT7"
     },
     {
       "added_at": "2026-11-16 16:07:41",
@@ -1595,18 +1611,18 @@
     {
       "added_at": "2026-11-16 16:07:41",
       "album": {
-        "name": "VISA",
-        "url": "https://open.spotify.com/album/5mtA5iGasjsoAGVFlwOa19"
+        "name": "Unang Kilig / Honey Honey",
+        "url": "https://open.spotify.com/album/3KDnE33OQ0tkI2qtvoVA0r"
       },
       "artists": [
         {
-          "name": "SB19",
-          "url": "https://open.spotify.com/artist/3g7vYcdDXnqnDKYFwqXBJP"
+          "name": "BINI",
+          "url": "https://open.spotify.com/artist/7tNO3vJC9zlHy2IJOx34ga"
         }
       ],
-      "duration_ms": 222816,
-      "name": "VISA",
-      "url": "https://open.spotify.com/track/6RYMQDnY4zPaLSfvfRdXT7"
+      "duration_ms": 217411,
+      "name": "Unang Kilig",
+      "url": "https://open.spotify.com/track/7mfaRuBDtbywhmLSoPSscp"
     },
     {
       "added_at": "2026-11-16 16:07:41",
@@ -1639,22 +1655,6 @@
       "duration_ms": 227692,
       "name": "Light of a Clear Blue Morning",
       "url": "https://open.spotify.com/track/5yoMf4Jx2PGNFybDuWNdvE"
-    },
-    {
-      "added_at": "2026-11-16 16:07:41",
-      "album": {
-        "name": "Unang Kilig / Honey Honey",
-        "url": "https://open.spotify.com/album/3KDnE33OQ0tkI2qtvoVA0r"
-      },
-      "artists": [
-        {
-          "name": "BINI",
-          "url": "https://open.spotify.com/artist/7tNO3vJC9zlHy2IJOx34ga"
-        }
-      ],
-      "duration_ms": 217411,
-      "name": "Unang Kilig",
-      "url": "https://open.spotify.com/track/7mfaRuBDtbywhmLSoPSscp"
     },
     {
       "added_at": "2026-11-16 16:07:41",
@@ -2035,22 +2035,6 @@
     {
       "added_at": "2026-11-16 16:07:41",
       "album": {
-        "name": "Good Grief",
-        "url": "https://open.spotify.com/album/1XMeYUlWgL9ySFeDX00tj7"
-      },
-      "artists": [
-        {
-          "name": "Sara Bareilles",
-          "url": "https://open.spotify.com/artist/2Sqr0DXoaYABbjBo9HaMkM"
-        }
-      ],
-      "duration_ms": 261075,
-      "name": "Heartland",
-      "url": "https://open.spotify.com/track/251ua7SfBrbvogyUaAcvBL"
-    },
-    {
-      "added_at": "2026-11-16 16:07:41",
-      "album": {
         "name": "Future Soul",
         "url": "https://open.spotify.com/album/0IIclpU7Lzvz71AILfMNo1"
       },
@@ -2067,22 +2051,6 @@
     {
       "added_at": "2026-11-16 16:07:41",
       "album": {
-        "name": "Cherry Valley",
-        "url": "https://open.spotify.com/album/5cBseH5iReybVachkE0BMA"
-      },
-      "artists": [
-        {
-          "name": "Carter Faith",
-          "url": "https://open.spotify.com/artist/4X5CTYQmx1NNyz9S1IpNko"
-        }
-      ],
-      "duration_ms": 191000,
-      "name": "If I Had Never Lost My Mind...",
-      "url": "https://open.spotify.com/track/2Ivf9KLhA9afDm0RnJTx98"
-    },
-    {
-      "added_at": "2026-11-16 16:07:41",
-      "album": {
         "name": "YES",
         "url": "https://open.spotify.com/album/2MfHhRewq0NNudlThYeOw8"
       },
@@ -2095,6 +2063,38 @@
       "duration_ms": 301109,
       "name": "YES",
       "url": "https://open.spotify.com/track/2b8adGbmp6swKDTeySw1eU"
+    },
+    {
+      "added_at": "2026-11-16 16:07:41",
+      "album": {
+        "name": "Good Grief",
+        "url": "https://open.spotify.com/album/1XMeYUlWgL9ySFeDX00tj7"
+      },
+      "artists": [
+        {
+          "name": "Sara Bareilles",
+          "url": "https://open.spotify.com/artist/2Sqr0DXoaYABbjBo9HaMkM"
+        }
+      ],
+      "duration_ms": 261075,
+      "name": "Heartland",
+      "url": "https://open.spotify.com/track/251ua7SfBrbvogyUaAcvBL"
+    },
+    {
+      "added_at": "2026-11-16 16:07:41",
+      "album": {
+        "name": "Cherry Valley",
+        "url": "https://open.spotify.com/album/5cBseH5iReybVachkE0BMA"
+      },
+      "artists": [
+        {
+          "name": "Carter Faith",
+          "url": "https://open.spotify.com/artist/4X5CTYQmx1NNyz9S1IpNko"
+        }
+      ],
+      "duration_ms": 191000,
+      "name": "If I Had Never Lost My Mind...",
+      "url": "https://open.spotify.com/track/2Ivf9KLhA9afDm0RnJTx98"
     },
     {
       "added_at": "2026-11-16 16:07:41",

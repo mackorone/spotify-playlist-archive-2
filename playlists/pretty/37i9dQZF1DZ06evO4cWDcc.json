@@ -1,12 +1,12 @@
 {
   "description": "This is Jimi Hendrix. The essential tracks, all in one playlist.",
-  "num_followers": 329875,
+  "num_followers": 329882,
   "original_name": "This Is Jimi Hendrix",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "awIwgAAAAAAi88T6UjRUfMQOBGwwd/Vs",
+  "snapshot_id": "awOCAAAAAAD69i3KBjuFzOhT6Vu6S0QB",
   "tracks": [
     {
       "added_at": null,
@@ -424,9 +424,9 @@
           "url": "https://open.spotify.com/artist/776Uo845nYHJpNaStv1Ds4"
         }
       ],
-      "duration_ms": 301520,
-      "name": "Mannish Boy",
-      "url": "https://open.spotify.com/track/0hnlRgTh80b1emNnM0jmwt"
+      "duration_ms": 234866,
+      "name": "Sweet Angel",
+      "url": "https://open.spotify.com/track/3t3CO2eP3gLbiFFN5Z4gmB"
     },
     {
       "added_at": null,
@@ -488,9 +488,9 @@
           "url": "https://open.spotify.com/artist/776Uo845nYHJpNaStv1Ds4"
         }
       ],
-      "duration_ms": 234866,
-      "name": "Sweet Angel",
-      "url": "https://open.spotify.com/track/3t3CO2eP3gLbiFFN5Z4gmB"
+      "duration_ms": 301520,
+      "name": "Mannish Boy",
+      "url": "https://open.spotify.com/track/0hnlRgTh80b1emNnM0jmwt"
     },
     {
       "added_at": null,
@@ -607,8 +607,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Live At Monterey",
-        "url": "https://open.spotify.com/album/6NdaU4JVYrQAxDOSrG0aPF"
+        "name": "The Cry of Love",
+        "url": "https://open.spotify.com/album/7ykAHaoptbCYaO0HAjpgcL"
       },
       "artists": [
         {
@@ -616,9 +616,9 @@
           "url": "https://open.spotify.com/artist/776Uo845nYHJpNaStv1Ds4"
         }
       ],
-      "duration_ms": 426613,
-      "name": "Like A Rolling Stone - Live At Monterey",
-      "url": "https://open.spotify.com/track/2y84zRlD8OD6wYpxUylgTV"
+      "duration_ms": 249920,
+      "name": "Ezy Ryder",
+      "url": "https://open.spotify.com/track/11t59LqOhOEG40yqALXZon"
     },
     {
       "added_at": null,
@@ -655,8 +655,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "The Cry of Love",
-        "url": "https://open.spotify.com/album/7ykAHaoptbCYaO0HAjpgcL"
+        "name": "Live At Monterey",
+        "url": "https://open.spotify.com/album/6NdaU4JVYrQAxDOSrG0aPF"
       },
       "artists": [
         {
@@ -664,9 +664,9 @@
           "url": "https://open.spotify.com/artist/776Uo845nYHJpNaStv1Ds4"
         }
       ],
-      "duration_ms": 249920,
-      "name": "Ezy Ryder",
-      "url": "https://open.spotify.com/track/11t59LqOhOEG40yqALXZon"
+      "duration_ms": 426613,
+      "name": "Like A Rolling Stone - Live At Monterey",
+      "url": "https://open.spotify.com/track/2y84zRlD8OD6wYpxUylgTV"
     },
     {
       "added_at": null,
@@ -703,22 +703,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Songs For Groovy Children: The Fillmore East Concerts",
-        "url": "https://open.spotify.com/album/1kCKuBSxO5w8MPN31pP9K9"
-      },
-      "artists": [
-        {
-          "name": "Jimi Hendrix",
-          "url": "https://open.spotify.com/artist/776Uo845nYHJpNaStv1Ds4"
-        }
-      ],
-      "duration_ms": 533672,
-      "name": "Machine Gun - Live at the Fillmore East, NY - 12/31/69 - 1st Set",
-      "url": "https://open.spotify.com/track/47XzyeCErz1ojPKMcNwfN2"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "The Cry of Love",
         "url": "https://open.spotify.com/album/7ykAHaoptbCYaO0HAjpgcL"
       },
@@ -731,6 +715,22 @@
       "duration_ms": 232506,
       "name": "Night Bird Flying",
       "url": "https://open.spotify.com/track/6qKlw6TyxVkaUZrlJYP8xD"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Songs For Groovy Children: The Fillmore East Concerts",
+        "url": "https://open.spotify.com/album/1kCKuBSxO5w8MPN31pP9K9"
+      },
+      "artists": [
+        {
+          "name": "Jimi Hendrix",
+          "url": "https://open.spotify.com/artist/776Uo845nYHJpNaStv1Ds4"
+        }
+      ],
+      "duration_ms": 533672,
+      "name": "Machine Gun - Live at the Fillmore East, NY - 12/31/69 - 1st Set",
+      "url": "https://open.spotify.com/track/47XzyeCErz1ojPKMcNwfN2"
     },
     {
       "added_at": null,
@@ -767,22 +767,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Band Of Gypsys (50th Anniversary / Live At Fillmore East, 1970)",
-        "url": "https://open.spotify.com/album/0X8uUl77dOADdr7v1ECVB2"
-      },
-      "artists": [
-        {
-          "name": "Jimi Hendrix",
-          "url": "https://open.spotify.com/artist/776Uo845nYHJpNaStv1Ds4"
-        }
-      ],
-      "duration_ms": 578009,
-      "name": "Who Knows - Live",
-      "url": "https://open.spotify.com/track/2OL0lQNFVVHKRj6FgKzdT1"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "The Cry of Love",
         "url": "https://open.spotify.com/album/7ykAHaoptbCYaO0HAjpgcL"
       },
@@ -795,6 +779,22 @@
       "duration_ms": 229120,
       "name": "Drifting",
       "url": "https://open.spotify.com/track/4xmlBI4xprNK78GSoTtkxp"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Band Of Gypsys (50th Anniversary / Live At Fillmore East, 1970)",
+        "url": "https://open.spotify.com/album/0X8uUl77dOADdr7v1ECVB2"
+      },
+      "artists": [
+        {
+          "name": "Jimi Hendrix",
+          "url": "https://open.spotify.com/artist/776Uo845nYHJpNaStv1Ds4"
+        }
+      ],
+      "duration_ms": 578009,
+      "name": "Who Knows - Live",
+      "url": "https://open.spotify.com/track/2OL0lQNFVVHKRj6FgKzdT1"
     },
     {
       "added_at": null,

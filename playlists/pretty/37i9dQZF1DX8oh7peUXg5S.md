@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8oh7peUXg5S.md) - [plain]
 
 > El don de cantar y componer, una playlist llena de talento\. Foto: Luis Eduardo Aute.
 
-[Spotify](https://open.spotify.com/user/spotify) - 354,600 likes - 100 songs - 6 hr 24 min
+[Spotify](https://open.spotify.com/user/spotify) - 354,611 likes - 100 songs - 6 hr 24 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -54,8 +54,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8oh7peUXg5S.md) - [plain]
 | 44 | [Contigo](https://open.spotify.com/track/6bXhCHurSM6988FKos7DLY) | [Rosana](https://open.spotify.com/artist/5ttV0N9HvMH3KLqNKcS2M0) | [Luna nueva](https://open.spotify.com/album/06wdTbvLdXkO7dC2TdrzUd) | 3:59 |
 | 45 | [Quién Me Ha Robado el Mes de Abril](https://open.spotify.com/track/1HX9kKDz6dG4fmLBuKVzOF) | [Joaquín Sabina](https://open.spotify.com/artist/4aeIWo5CMF1uRmqgJdwkZW) | [El Hombre Del Traje Gris](https://open.spotify.com/album/0Hf59j4braIFrtH0rFXjwZ) | 4:57 |
 | 46 | [Hoy Ten Miedo De Mi](https://open.spotify.com/track/4gXv9Rw5aLPkgzdhKFBCir) | [Fernando Delgadillo](https://open.spotify.com/artist/3dzMXO1RxEyQnFemhMIvnc) | [Con Cierto Aire a Ti](https://open.spotify.com/album/3sE2cw64lJ7L5jqbBkDcBA) | 2:58 |
-| 47 | [Anoche Soñé Contigo](https://open.spotify.com/track/1cqlBqJC2FL38DYTXgvQIW) | [Kevin Johansen](https://open.spotify.com/artist/7qjoG7bwhAjSd7nJTcjgAk) | [Logo](https://open.spotify.com/album/571r33emaklRI3YlPioelt) | 4:04 |
-| 48 | [Peces de Ciudad \(feat\. Pablo López\)](https://open.spotify.com/track/7sLYuvEf4lqz6zSnjYBkkP) | [Pablo Alborán](https://open.spotify.com/artist/5M9Bb4adKAgrOFOhc05Y50), [Pablo López](https://open.spotify.com/artist/4uyqaioPEdClDxU6zvYlAZ) | [Peces de Ciudad \(feat\. Pablo López\)](https://open.spotify.com/album/1z62EMbonbN8m5fjpzT9cn) | 6:30 |
+| 47 | [Peces de Ciudad \(feat\. Pablo López\)](https://open.spotify.com/track/7sLYuvEf4lqz6zSnjYBkkP) | [Pablo Alborán](https://open.spotify.com/artist/5M9Bb4adKAgrOFOhc05Y50), [Pablo López](https://open.spotify.com/artist/4uyqaioPEdClDxU6zvYlAZ) | [Peces de Ciudad \(feat\. Pablo López\)](https://open.spotify.com/album/1z62EMbonbN8m5fjpzT9cn) | 6:30 |
+| 48 | [Anoche Soñé Contigo](https://open.spotify.com/track/1cqlBqJC2FL38DYTXgvQIW) | [Kevin Johansen](https://open.spotify.com/artist/7qjoG7bwhAjSd7nJTcjgAk) | [Logo](https://open.spotify.com/album/571r33emaklRI3YlPioelt) | 4:04 |
 | 49 | [Carta urgente \(feat\. Abel Pintos\)](https://open.spotify.com/track/7ljsdGh3oj4bNGqQsx4UM7) | [Rosana](https://open.spotify.com/artist/5ttV0N9HvMH3KLqNKcS2M0) | [8 Lunas](https://open.spotify.com/album/4zsSDL0SbCqgifIHgiNxll) | 4:20 |
 | 50 | [Comiendote a Besos](https://open.spotify.com/track/02FKjeU8CrA2ckppBa5RJg) | [Rozalén](https://open.spotify.com/artist/5soMpG6E6oApEiCZgrWeVz) | [Con Derecho A...](https://open.spotify.com/album/1t2OluRtbro9nSJsizuquA) | 4:01 |
 | 51 | [Aquellas Pequeñas Cosas](https://open.spotify.com/track/0AYP9qfJJumsxSOZF3MndI) | [Joan Manuel Serrat](https://open.spotify.com/artist/1t7t8q4zoYHp22JLIx3FM7) | [Mediterráneo](https://open.spotify.com/album/7h6vVYPUiuDF6KKcqMdE72) | 1:50 |
@@ -96,17 +96,17 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8oh7peUXg5S.md) - [plain]
 | 86 | [Aunque tú no lo sepas](https://open.spotify.com/track/2XXec5RwkNrjpBNfCjNhAv) | [Quique González](https://open.spotify.com/artist/0uCwhAtvXQlTGZJWDJQykZ) | [Ajuste de cuentas](https://open.spotify.com/album/7dzKozUpXXWYZb5ofCSLze) | 4:02 |
 | 87 | [Qué Hay Más Grande Que Este Amor](https://open.spotify.com/track/2PTJGyZ11tvpfDUUp2enxD) | [Teo Planell](https://open.spotify.com/artist/3Mhaefda5u1LJlRWdJgqz4) | [Camila / Qué Hay Más Grande Que Este Amor](https://open.spotify.com/album/28bcIOav5nLxZln1mZxPTG) | 5:58 |
 | 88 | [Algo contigo](https://open.spotify.com/track/5zuW9T5REjejF9tSEG0sxp) | [Valeria Castro](https://open.spotify.com/artist/7JTVqKJ414qRPuDPhdKnHD) | [Algo contigo](https://open.spotify.com/album/1SsMdo5QqpKYd8MSRtmDtI) | 2:50 |
-| 89 | [Antes De Verte \(with Kevin Johansen\)](https://open.spotify.com/track/7btOWcAo8FLUCuhltFlz6v) | [Rozalén](https://open.spotify.com/artist/5soMpG6E6oApEiCZgrWeVz), [Kevin Johansen](https://open.spotify.com/artist/7qjoG7bwhAjSd7nJTcjgAk) | [Cuando el Río Suena...](https://open.spotify.com/album/6LvauKnko6HIqPHfQLzhOL) | 3:54 |
-| 90 | [Mi Querida España](https://open.spotify.com/track/4yRhJ1Hz8Flm364Y1WJj5w) | [Cecilia](https://open.spotify.com/artist/4J3cenBCGspvBrpmqQa7RR) | [Un Ramito De Violetas](https://open.spotify.com/album/6Kp4RsT85CYZq11sqzfPAw) | 2:39 |
+| 89 | [Mi Querida España](https://open.spotify.com/track/4yRhJ1Hz8Flm364Y1WJj5w) | [Cecilia](https://open.spotify.com/artist/4J3cenBCGspvBrpmqQa7RR) | [Un Ramito De Violetas](https://open.spotify.com/album/6Kp4RsT85CYZq11sqzfPAw) | 2:39 |
+| 90 | [Antes De Verte \(with Kevin Johansen\)](https://open.spotify.com/track/7btOWcAo8FLUCuhltFlz6v) | [Rozalén](https://open.spotify.com/artist/5soMpG6E6oApEiCZgrWeVz), [Kevin Johansen](https://open.spotify.com/artist/7qjoG7bwhAjSd7nJTcjgAk) | [Cuando el Río Suena...](https://open.spotify.com/album/6LvauKnko6HIqPHfQLzhOL) | 3:54 |
 | 91 | [Solo Pienso en Ti](https://open.spotify.com/track/6NAGNKLKSY8FOHIpMMFZjW) | [Víctor Manuel](https://open.spotify.com/artist/6cFqY5mkBqKqaIYunDg1k8) | [Soy Un Corazon Tendido Al Sol Y Otros Grandes Exitos](https://open.spotify.com/album/0HGv49ONlzwgnzxbWZofPl) | 4:11 |
 | 92 | [María la portuguesa](https://open.spotify.com/track/38qdh1Nb0DVjEDLrL3pHyT) | [Carlos Cano](https://open.spotify.com/artist/3DmpE6oHcvPFhtMTSlLMFB) | [De Lo Perdido Y Otras Coplas](https://open.spotify.com/album/53XJCziWiXOOrBCmbVLXGC) | 3:52 |
 | 93 | [Méritos Y Merecimientos](https://open.spotify.com/track/5Q8ZcIv6mysLIuTr2c43HT) | [Fernando Cabrera](https://open.spotify.com/artist/6SgzbJKexV8Ouadaaa6PVy), [Jorge Drexler](https://open.spotify.com/artist/4ssUf5gLb1GBLxi1BhPrVt) | [Méritos Y Merecimientos](https://open.spotify.com/album/6ruWQDL06KMQJhCWA1ufXc) | 3:40 |
-| 94 | [Salitre](https://open.spotify.com/track/1MmGTsPVHDjhM5BJLvkFRL) | [Quique González](https://open.spotify.com/artist/0uCwhAtvXQlTGZJWDJQykZ) | [Ajuste de cuentas](https://open.spotify.com/album/7dzKozUpXXWYZb5ofCSLze) | 4:40 |
-| 95 | [Dama Dama \(Album Version\)](https://open.spotify.com/track/50tK3gc47HHVffxRehbRuC) | [Cecilia](https://open.spotify.com/artist/4J3cenBCGspvBrpmqQa7RR) | [Cecilia](https://open.spotify.com/album/50Pefah2v2rCOfXSdLNkg0) | 3:18 |
+| 94 | [Dama Dama \(Album Version\)](https://open.spotify.com/track/50tK3gc47HHVffxRehbRuC) | [Cecilia](https://open.spotify.com/artist/4J3cenBCGspvBrpmqQa7RR) | [Cecilia](https://open.spotify.com/album/50Pefah2v2rCOfXSdLNkg0) | 3:18 |
+| 95 | [Salitre](https://open.spotify.com/track/1MmGTsPVHDjhM5BJLvkFRL) | [Quique González](https://open.spotify.com/artist/0uCwhAtvXQlTGZJWDJQykZ) | [Ajuste de cuentas](https://open.spotify.com/album/7dzKozUpXXWYZb5ofCSLze) | 4:40 |
 | 96 | [La Belleza](https://open.spotify.com/track/5oMnRH2HJ3N3leLRh3AWCw) | [Luis Eduardo Aute](https://open.spotify.com/artist/67h1eGw2OFs89l8EnaOdoS) | [Auterretratos](https://open.spotify.com/album/6D0h0IHPCoZag4aphOG7Mv) | 3:53 |
 | 97 | [Se Dejaba Llevar Por Ti \- Remastered 2015](https://open.spotify.com/track/1Nv0VZzkY6MzKK8YrD2zGT) | [Antonio Vega](https://open.spotify.com/artist/0r4YtlmJPQk1xhiVKHuPeF) | [No Me Iré Mañana \(Edición 25 Aniversario\)](https://open.spotify.com/album/5o2N9jbirrmmUsNF0NfHXe) | 4:11 |
 | 98 | [Habaneras de Cádiz](https://open.spotify.com/track/6Mhw12JZfaRullIwuiDrnW) | [Carlos Cano](https://open.spotify.com/artist/3DmpE6oHcvPFhtMTSlLMFB) | [De Lo Perdido Y Otras Coplas](https://open.spotify.com/album/53XJCziWiXOOrBCmbVLXGC) | 5:46 |
-| 99 | [Tanto para dar](https://open.spotify.com/track/259F1hWeGbF7mBDxtBrrS0) | [Meritxell Neddermann](https://open.spotify.com/artist/59IkSVLk0jDhOyNrXrtpYv), [MARO](https://open.spotify.com/artist/3NP4jJcW3R6qO6rbtnH0wn) | [Tanto para dar](https://open.spotify.com/album/5hdBaw1u44rYRsGcASCmVp) | 2:54 |
-| 100 | [Mi Problema](https://open.spotify.com/track/6PIRiVNVZk0vN9ZyUJTqKj) | [Ismael Serrano](https://open.spotify.com/artist/4eyF2eDCunzeFykH90Ej34) | [La Llamada](https://open.spotify.com/album/4IKa51k08eP9C6MhKslZ21) | 6:05 |
+| 99 | [Mi Problema](https://open.spotify.com/track/6PIRiVNVZk0vN9ZyUJTqKj) | [Ismael Serrano](https://open.spotify.com/artist/4eyF2eDCunzeFykH90Ej34) | [La Llamada](https://open.spotify.com/album/4IKa51k08eP9C6MhKslZ21) | 6:05 |
+| 100 | [Tanto para dar](https://open.spotify.com/track/259F1hWeGbF7mBDxtBrrS0) | [Meritxell Neddermann](https://open.spotify.com/artist/59IkSVLk0jDhOyNrXrtpYv), [MARO](https://open.spotify.com/artist/3NP4jJcW3R6qO6rbtnH0wn) | [Tanto para dar](https://open.spotify.com/album/5hdBaw1u44rYRsGcASCmVp) | 2:54 |
 
-Snapshot ID: `AAAAAAobhVOhQzYoALmIKTvwLMokc5iS`
+Snapshot ID: `AAAAAL9p/sZU/zrl8+hEOAhfMg4MAIlR`

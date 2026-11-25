@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUgBy0IJPlHq.md) - [plain]
 
 > A new shade of Country\. Cover: Ken Pomeroy
 
-[Spotify](https://open.spotify.com/user/spotify) - 559,334 likes - 100 songs - 5 hr 56 min
+[Spotify](https://open.spotify.com/user/spotify) - 559,341 likes - 100 songs - 5 hr 56 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUgBy0IJPlHq.md) - [plain]
 | 99 | [Under You](https://open.spotify.com/track/6tXqo7GYIZKkRw1FYYChk9) | [Andrew Sa](https://open.spotify.com/artist/6deCLrQTLyZTG8iNpirQ07) | [Under You](https://open.spotify.com/album/0fOqE6VqVqhnUBT0Ebkk86) | 3:48 |
 | 100 | [Free Wheeling](https://open.spotify.com/track/43DKVQnMysID1lXOaHqG9n) | [Le Ren](https://open.spotify.com/artist/338ANSuWEHPphBye1qDGvF) | [Free Wheeling](https://open.spotify.com/album/2mRgxy62xHxJDtNMGB7mx3) | 3:49 |
 
-Snapshot ID: `AAAAAAx+FWpgxbTc/791Pt+OELVCEYaJ`
+Snapshot ID: `AAAAAMjR2F6Y3oaEMNqGgp3x8rM9jq8P`

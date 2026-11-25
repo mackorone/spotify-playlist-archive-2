@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVwRuJjs9A3S.md) - [plain]
 
 > Det senaste och bästa från världen av indie\. Cover: Little Jinder
 
-[Spotify](https://open.spotify.com/user/spotify) - 115,752 likes - 199 songs - 11 hr 10 min
+[Spotify](https://open.spotify.com/user/spotify) - 115,746 likes - 199 songs - 11 hr 10 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -112,7 +112,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVwRuJjs9A3S.md) - [plain]
 | 102 | [NEXT CHAPTER](https://open.spotify.com/track/4N46tWZXzoXO5lQTC85agG) | [The Square](https://open.spotify.com/artist/6ANvTGpJ3LJKZAziinXv9C) | [NEXT CHAPTER](https://open.spotify.com/album/64ga2l7wOzL3Rza3sSD2UE) | 3:11 |
 | 103 | [Totally](https://open.spotify.com/track/5xoo7xfolFQGmRyDYtzXNp) | [Baba Stiltz](https://open.spotify.com/artist/1xaQSClXcsc1JvxZ2qnwBF) | [Totally](https://open.spotify.com/album/68bAvtCNnayCdY7cQbz1Mh) | 2:42 |
 | 104 | [Pipe Dream](https://open.spotify.com/track/5C3OWPfMnUxeJUdnuz9u1a) | [GB](https://open.spotify.com/artist/4YMJGenzGCHYz30PRdTJP8), [Alba Akvama](https://open.spotify.com/artist/0aOHcQWEx7wsZg277ZOcGe) | [Herzsprung](https://open.spotify.com/album/0bOMbuBlJbKyajSoFMJxf1) | 3:01 |
-| 105 | [Hope](https://open.spotify.com/track/2zauePAcnge5lkWAyLx09C) | [Jabulile Majola](https://open.spotify.com/artist/7hGWdecNt4fPrcIEAVf3AF) | [Ipasi](https://open.spotify.com/album/3yUNhSSh2NVxnJr3ZbiA5o) | 4:04 |
+| 105 | [Hope](https://open.spotify.com/track/2zauePAcnge5lkWAyLx09C) | [Jabulile Majola](https://open.spotify.com/artist/7hGWdecNt4fPrcIEAVf3AF) | [Ipasi](https://open.spotify.com/album/3yUNhSSh2NVxnJr3ZbiA5o) | 4:02 |
 | 106 | [Myth Of You](https://open.spotify.com/track/6IfO15ZbPrp48eCq8Zkmsk) | [Violet Days](https://open.spotify.com/artist/4uNv6RD2YXwoaKgHfJZkkL) | [Everything's Coming Up Roses](https://open.spotify.com/album/3pjaIC5ZO4PyHI9dMuwMsv) | 3:38 |
 | 107 | [Such Love](https://open.spotify.com/track/04o83rHaqpXrVd45yq2IvX) | [9entle](https://open.spotify.com/artist/4ubDbl26Q10PJXOWMvKyqz), [Taken By Trees](https://open.spotify.com/artist/0Xn4iSM6rXebCl4Ub50RFN) | [Such Love](https://open.spotify.com/album/2IJzvSjplMLSyjqRtWWJwu) | 3:38 |
 | 108 | [I It Am](https://open.spotify.com/track/3jsvREipunn2DsqwsrHoND) | [Susanne Sundfør](https://open.spotify.com/artist/54KCNI7URCrG6yjQK3Ukow), [Kit Downes](https://open.spotify.com/artist/5KAxF8BtuqO5emnRCjorwk) | [I It Am](https://open.spotify.com/album/0N8ZyxwpcIzyjhhuOY2D8p) | 2:42 |
@@ -208,4 +208,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVwRuJjs9A3S.md) - [plain]
 | 198 | [I'd love to be a star](https://open.spotify.com/track/1iSXI8IPkPMxtITODa0mTg) | [Mercedess](https://open.spotify.com/artist/487LWNWQyTG52kpmID4tTm) | [I'd love to be a star, but I'm tired as fuck](https://open.spotify.com/album/1eBcNO07bb58jDOx4UJ9oi) | 3:35 |
 | 199 | [Venus in the Zinnia](https://open.spotify.com/track/6X5ARfLepGTGntuFbc2Hpo) | [Aldous Harding](https://open.spotify.com/artist/3lmR0qMiGuoIF9UC54egcG), [H\. Hawkline](https://open.spotify.com/artist/7FmM0XgimRvS48CfObh2ht) | [Venus in the Zinnia](https://open.spotify.com/album/1g8xMfOWEPfIuxHory8Pg9) | 3:17 |
 
-Snapshot ID: `AAAAAIO/NgUQq0cMv0OnOm76VILx/OHD`
+Snapshot ID: `AAAAAMUKRHHNPAOmF4k7iPVPQXsvO7MT`

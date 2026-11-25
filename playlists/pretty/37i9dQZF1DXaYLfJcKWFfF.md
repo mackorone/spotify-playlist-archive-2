@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaYLfJcKWFfF.md) - [plain]
 
 > Alternative / Indie / Folk cuts from Africa and diaspora to dive into\. Cover: Mishy Kope
 
-[Spotify](https://open.spotify.com/user/spotify) - 4,346 likes - 80 songs - 4 hr 22 min
+[Spotify](https://open.spotify.com/user/spotify) - 4,352 likes - 80 songs - 4 hr 22 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -29,8 +29,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaYLfJcKWFfF.md) - [plain]
 | 19 | [Nyoni Yami](https://open.spotify.com/track/1hO7XxOmMRAo3gj2UYqqEg) | [Jabulile Majola](https://open.spotify.com/artist/7hGWdecNt4fPrcIEAVf3AF), [Yoav](https://open.spotify.com/artist/2TUFDVa7aZJ4O9U0qjrSJH) | [Nyoni Yami](https://open.spotify.com/album/1U2hqgPgcpntPLQyYnBxUy) | 3:32 |
 | 20 | [Where the Wind Will Blow](https://open.spotify.com/track/2UHltNRCZgSeFLuJ2NtuM0) | [Vian Izak](https://open.spotify.com/artist/46U5WmejGzsPqUiw3Uw0Xq) | [The Reign of the Heart](https://open.spotify.com/album/0embk14m8ul3vtgoXQrpmB) | 3:45 |
 | 21 | [DRIVE](https://open.spotify.com/track/6eJ0U0TczrBdDuqowey6uv) | [Hannovr](https://open.spotify.com/artist/0o2zqxVB0ofk28wqpPzFZf) | [DRIVE](https://open.spotify.com/album/5O8MapuKShYfk0gOpHGU8M) | 4:15 |
-| 22 | [Ngibongiseni](https://open.spotify.com/track/1uJ9tdJnrJcTf6ormmHvPU) | [Sjava](https://open.spotify.com/artist/4RfOLIFy2xEmlWzXEVmLJn) | [Ngibongiseni](https://open.spotify.com/album/1ilhz6oSQGPBZjepOGvr72) | 2:36 |
-| 23 | [Old Friend](https://open.spotify.com/track/2WY82DxJJon1zXRuFLdwkg) | [David Derman](https://open.spotify.com/artist/7wxxhtLbg3D7B6q4HsYQ3A) | [Old Friend](https://open.spotify.com/album/1Vv7pCT3NRnkznBwdWyejW) | 3:09 |
+| 22 | [Old Friend](https://open.spotify.com/track/2WY82DxJJon1zXRuFLdwkg) | [David Derman](https://open.spotify.com/artist/7wxxhtLbg3D7B6q4HsYQ3A) | [Old Friend](https://open.spotify.com/album/1Vv7pCT3NRnkznBwdWyejW) | 3:09 |
+| 23 | [Ngibongiseni](https://open.spotify.com/track/1uJ9tdJnrJcTf6ormmHvPU) | [Sjava](https://open.spotify.com/artist/4RfOLIFy2xEmlWzXEVmLJn) | [Ngibongiseni](https://open.spotify.com/album/1ilhz6oSQGPBZjepOGvr72) | 2:36 |
 | 24 | [This Side of Love](https://open.spotify.com/track/3qGDRNfWzv0znuGVnCr9cI) | [Celeste Ojatula](https://open.spotify.com/artist/1FNzBwz8L9wGtZU1GkIAT4), [Dwin, The Stoic](https://open.spotify.com/artist/4G4MrV1YIxHLGXRlhrIPmC) | [This Side of Love](https://open.spotify.com/album/4Mj0BcwVlj9Ub9XqPhvTPO) | 2:18 |
 | 25 | [ODO](https://open.spotify.com/track/5rRKhpWLZzDp8a7KZ4wPYO) | [Aṣa](https://open.spotify.com/artist/0upXUo04k4k8bGVSkmgrSc) | [ODO](https://open.spotify.com/album/767cvHiLzCJBzufXLwZg7i) | 3:18 |
 | 26 | [Word Vomit](https://open.spotify.com/track/29XRcFuqT5quAetizfP8d4) | [Baby Queen](https://open.spotify.com/artist/4VqlewwKZJoIcA88PYHUDd) | [Word Vomit](https://open.spotify.com/album/4f675l51sEciftAWInTtKB) | 2:46 |
@@ -65,8 +65,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaYLfJcKWFfF.md) - [plain]
 | 55 | [We Will Run](https://open.spotify.com/track/3FdL3BjbehixMentJ8L63u) | [Justin Lee](https://open.spotify.com/artist/5lSVCLx0jJ09fPhHS2fRTQ) | [We Will Run](https://open.spotify.com/album/0aJGfIl4Patoo1cOn00Mwz) | 3:08 |
 | 56 | [Faya](https://open.spotify.com/track/6bS5s8LrmKI5ZV7RxyFmlm) | [LAGOS IN PARIS](https://open.spotify.com/artist/2VaCLjX4lfeTILde1uhzMe), [Ayisi](https://open.spotify.com/artist/1MGX3ZU8JMwM05waT6BBvU) | [Faya](https://open.spotify.com/album/43ohjP5OkrsrlmewjaDkqk) | 3:56 |
 | 57 | [Ordinary](https://open.spotify.com/track/0Dyc3YFggv7hi2Atndeuqr) | [Kaiya Gamble](https://open.spotify.com/artist/5VII1GO9GhSgpeC17VpZYU), [CON THE ARTIST](https://open.spotify.com/artist/7LVgykYWodtSi56b9cf9nz) | [Ordinary](https://open.spotify.com/album/2W5j0AdIbhTOiu1faWcCMV) | 2:46 |
-| 58 | [New Lamp](https://open.spotify.com/track/50oZJpYzGdHBCFdzTGIavP) | [Maali](https://open.spotify.com/artist/0Bw2d3PrLLqnor0Y9tt9vk) | [Mellow Dramatic](https://open.spotify.com/album/61PXFedLFHdsDP2L8YWte4) | 3:54 |
-| 59 | [changing](https://open.spotify.com/track/2UmxbPzKRhZoi3uEBV7FOY) | [tan sholto](https://open.spotify.com/artist/7ARldRXJIb2tVzOwo3pq3V) | [changing](https://open.spotify.com/album/3lkvhqFjk0FSeYcJvszsmC) | 3:18 |
+| 58 | [changing](https://open.spotify.com/track/2UmxbPzKRhZoi3uEBV7FOY) | [tan sholto](https://open.spotify.com/artist/7ARldRXJIb2tVzOwo3pq3V) | [changing](https://open.spotify.com/album/3lkvhqFjk0FSeYcJvszsmC) | 3:18 |
+| 59 | [New Lamp](https://open.spotify.com/track/50oZJpYzGdHBCFdzTGIavP) | [Maali](https://open.spotify.com/artist/0Bw2d3PrLLqnor0Y9tt9vk) | [Mellow Dramatic](https://open.spotify.com/album/61PXFedLFHdsDP2L8YWte4) | 3:54 |
 | 60 | [Feel It All](https://open.spotify.com/track/78hUgKhprABGVtE5RbNdNh) | [Justin Lee](https://open.spotify.com/artist/5lSVCLx0jJ09fPhHS2fRTQ) | [Feel It All](https://open.spotify.com/album/6NdNThMha6CF1DLW9IosWQ) | 2:48 |
 | 61 | [Sinatanale](https://open.spotify.com/track/1sJFubUbBqTkJKyymeJ7Us) | [LAGOS IN PARIS](https://open.spotify.com/artist/2VaCLjX4lfeTILde1uhzMe), [TSIE](https://open.spotify.com/artist/2ewKf83wdAUxvWU2J1fIhF) | [Sinatanale](https://open.spotify.com/album/7w8DlQ2JXdkRBp38TgBeVZ) | 3:34 |
 | 62 | [Day Dreamer](https://open.spotify.com/track/6zqplY3N7clSXQx0sEaUsv) | [Sean Koch](https://open.spotify.com/artist/4sOLJi96MhdlMv5Iz9YZT9) | [Day Dreamer](https://open.spotify.com/album/1RHOujtZ6kG3ev2M4Sv2OW) | 3:12 |
@@ -75,8 +75,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaYLfJcKWFfF.md) - [plain]
 | 65 | [Holu Lufuno](https://open.spotify.com/track/0uIEnVQQGOOtOf9VMhJbub) | [Muneyi](https://open.spotify.com/artist/6JzpDqY5CZkjLU40GmmTkM), [NOGA](https://open.spotify.com/artist/60jmvD80E7jJjJ07M1tRDn) | [Holu Lufuno](https://open.spotify.com/album/4LfLIWQuUkomZgDTZhb2Nu) | 3:21 |
 | 66 | [Djanne](https://open.spotify.com/track/6A28wYLJErEQD6UryKE8Ct) | [Fatoumata Diawara](https://open.spotify.com/artist/4G5ZJny3HvX6Il7eHVfnNC) | [Djanne](https://open.spotify.com/album/3QkxgYHkAYDUQY3NxCZOdx) | 2:42 |
 | 67 | [Weight Off My Shoulders](https://open.spotify.com/track/5XxuPzkGAYR7OXzebZZsn2) | [Booshle G.](https://open.spotify.com/artist/1QSMqcINjuDyxFbacapl0s) | [Weight Off My Shoulders](https://open.spotify.com/album/2XgsvZmnYcXzXS7X61MX6v) | 2:47 |
-| 68 | [Power](https://open.spotify.com/track/7glOULcqZVCqFylW8w3ZXX) | [Kwartengg](https://open.spotify.com/artist/5dppxSKCDPqIAoJQXuZ5HE) | [Power](https://open.spotify.com/album/0fgTLT9KhNRuSOy5U7cBuc) | 2:45 |
-| 69 | [Let Love Be](https://open.spotify.com/track/6OydM37e9K9svTV4oXbFlV) | [DemiMa](https://open.spotify.com/artist/33YFO60EsYiELGlIxVioxD) | [Duality Pt 2 Peace](https://open.spotify.com/album/1oVxjncoOHzk6B56gcRhgw) | 4:25 |
+| 68 | [Let Love Be](https://open.spotify.com/track/6OydM37e9K9svTV4oXbFlV) | [DemiMa](https://open.spotify.com/artist/33YFO60EsYiELGlIxVioxD) | [Duality Pt 2 Peace](https://open.spotify.com/album/1oVxjncoOHzk6B56gcRhgw) | 4:25 |
+| 69 | [Power](https://open.spotify.com/track/7glOULcqZVCqFylW8w3ZXX) | [Kwartengg](https://open.spotify.com/artist/5dppxSKCDPqIAoJQXuZ5HE) | [Power](https://open.spotify.com/album/0fgTLT9KhNRuSOy5U7cBuc) | 2:45 |
 | 70 | [The Coffee Song](https://open.spotify.com/track/1Ah4lhKd037z5lbG7BO7of) | [Louis Island](https://open.spotify.com/artist/6rJfoutBvVApGcMV0FNIft) | [The Coffee Song](https://open.spotify.com/album/1apdfQVzlefD9wbTQrMCkN) | 2:21 |
 | 71 | [With You in Mind](https://open.spotify.com/track/7IbiKaKBeEC9226RizprKv) | [PSILK](https://open.spotify.com/artist/2En0hpA97YxdCqyGVnDOK6), [Thando Zide](https://open.spotify.com/artist/4szs3im3aqSWr8MbdoW1W2) | [With You in Mind](https://open.spotify.com/album/5dDVYZyFfxvCZR9lUrQPsC) | 2:57 |
 | 72 | [Chameleon](https://open.spotify.com/track/0UWGUvmjyOMwWUeh8mXtXk) | [The Cavemen.](https://open.spotify.com/artist/1cnBVQulaNSvbind6A0dVD) | [Chameleon](https://open.spotify.com/album/2F3janmMQKTUU3vYSnwsA7) | 3:29 |
@@ -85,8 +85,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaYLfJcKWFfF.md) - [plain]
 | 75 | [Adwuma](https://open.spotify.com/track/3dGJ23oxQnLpSoboXe8IYj) | [Kay Slice](https://open.spotify.com/artist/1mPNT5YwLcCKfjdTwOfSC8), [Gyedu\-Blay Ambolley](https://open.spotify.com/artist/3K7G8Czqv2acbaWlxFfjbj) | [Adwuma](https://open.spotify.com/album/0aG6AoazPMX1PL8mCIVHCs) | 3:30 |
 | 76 | [Somewhere Only We Go](https://open.spotify.com/track/0e5r1a7ZVAbSRvsrdOdvFv) | [Tommy WÁ](https://open.spotify.com/artist/17e35Wp915ZK8I2wCBT1Kd) | [Somewhere Only We Go](https://open.spotify.com/album/7CkVmuSarxEAaF40gwVNWm) | 3:39 |
 | 77 | [Yalwa](https://open.spotify.com/track/45wZB5tjked2XJN1AB8lcR) | [Bongeziwe Mabandla](https://open.spotify.com/artist/5upKpIk1pv0hh0u2gwblwy) | [Yalwa](https://open.spotify.com/album/6K8LNHPN2rCs6ljbCxREYO) | 2:34 |
-| 78 | [Terranga](https://open.spotify.com/track/4d3ZHLIh4OAbvokGMwOW7v) | [Ben Aylon](https://open.spotify.com/artist/3FkvY1RH37d9vewYpzgYbr), [Cheikh Lô](https://open.spotify.com/artist/6CFWXwqEBUi0UFoIIxmg9h) | [Terranga](https://open.spotify.com/album/5uuF7pyR4LWUt2YH5W57gf) | 3:21 |
-| 79 | [take it & leave](https://open.spotify.com/track/3Ix57xjmVUtHS9bJsstXiY) | [Sishii](https://open.spotify.com/artist/7qSWBbKrqf8gIGvvZLY2KG) | [take it & leave](https://open.spotify.com/album/57hsyg2gKZM8JKGnOkZCdc) | 4:08 |
+| 78 | [take it & leave](https://open.spotify.com/track/3Ix57xjmVUtHS9bJsstXiY) | [Sishii](https://open.spotify.com/artist/7qSWBbKrqf8gIGvvZLY2KG) | [take it & leave](https://open.spotify.com/album/57hsyg2gKZM8JKGnOkZCdc) | 4:08 |
+| 79 | [Terranga](https://open.spotify.com/track/4d3ZHLIh4OAbvokGMwOW7v) | [Ben Aylon](https://open.spotify.com/artist/3FkvY1RH37d9vewYpzgYbr), [Cheikh Lô](https://open.spotify.com/artist/6CFWXwqEBUi0UFoIIxmg9h) | [Terranga](https://open.spotify.com/album/5uuF7pyR4LWUt2YH5W57gf) | 3:21 |
 | 80 | [Old Days](https://open.spotify.com/track/2V5cFMSrVqHBcHauVHffSY) | [Diamond Jimma](https://open.spotify.com/artist/2751FBlPyUIlDQ9mHySmPf) | [Akanbi](https://open.spotify.com/album/5Ly3Szv83dSvm2wC1LJ7r3) | 2:24 |
 
-Snapshot ID: `AAAAAPGAvIfVCAf6qQubAQZWQpHTEJQs`
+Snapshot ID: `AAAAAHb1pmfOiMtgvAd54ZgPZooWiV2b`

@@ -4,7 +4,7 @@
 
 > sweet\. sharp\. unbothered \- Ari Abdul on the cover
 
-1,190 songs - 2 day 7 hr 15 min
+1,191 songs - 2 day 7 hr 18 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -540,6 +540,7 @@
 | [I Spit On Your Grave](https://open.spotify.com/track/1Nlr6AqQHfh79yFabmu2EF) | [ZAND](https://open.spotify.com/artist/0zCrrgklotTrkkJDNUAury) | [I Spit On Your Grave](https://open.spotify.com/album/7CfzmC5Xq20b1UQbO4fHkM) | 3:39 | 2021-12-17 | 2022-03-18 |
 | [I THINK YOU TURNED ME](https://open.spotify.com/track/60WZdX2EIKz5QWt6KXcgd0) | [Chandler Leighton](https://open.spotify.com/artist/5zUeHMatct7zGjyIji9T4C) | [I THINK YOU TURNED ME](https://open.spotify.com/album/3vEwn7lE02KAqyueIsflyl) | 2:12 | 2022-06-24 | 2022-09-17 |
 | [I WANNA FEEL IT ALL](https://open.spotify.com/track/0QxKOd4IHUHG0UvPraaicT) | [INJI](https://open.spotify.com/artist/0Z4Ir8usNVcAdCSQl0fQki) | [I WANNA FEEL IT ALL](https://open.spotify.com/album/02LSdnnb9RS5TM4SCbTVz8) | 2:28 | 2026-06-12 | 2026-10-24 |
+| [i want 2](https://open.spotify.com/track/7kzhuIArFYBZqHv2yy5aHA) | [Babe Dylan](https://open.spotify.com/artist/0xd16ai4mtpBCnoaAHCw1a) | [i want 2](https://open.spotify.com/album/45fp1rYGmyf9VLFewyUCp4) | 2:51 | 2026-11-24 |  |
 | [i wish](https://open.spotify.com/track/5J8f0H43kDCcBI3IilbRxm) | [Sam Short](https://open.spotify.com/artist/0lhNnj2stuzFCs8ihzu0mz) | [i wish](https://open.spotify.com/album/09XXbAhCYqLMKqwNbYRvWX) | 3:10 | 2024-11-15 | 2025-03-22 |
 | [I Wish I Gave You Hell](https://open.spotify.com/track/7iNGrDHPTT8ZVEjPS8Lo13) | [CATTY](https://open.spotify.com/artist/0SAfVY2Qy5TbA3mreZfHyf) | [I Wish I Gave You Hell](https://open.spotify.com/album/08s3DeMH86rfM9Nso6qqB3) | 3:39 | 2024-06-14 | 2024-09-14 |
 | [I Woke Up](https://open.spotify.com/track/7CSJbewzvnIblizU3aDuIr) | [maryjo](https://open.spotify.com/artist/1s8g8pcFxAOyuQwG4Tku0H) | [I Woke Up](https://open.spotify.com/album/40s29e7Y7S6ZlaYyYf520J) | 2:38 | 2024-02-09 | 2024-05-18 |
@@ -997,7 +998,7 @@
 | [Super Famous](https://open.spotify.com/track/0Yy44jx6Qmn7gneGfJENE5) | [Brooke Alexx](https://open.spotify.com/artist/76OGIUhWyFyKOvhRuueDa7) | [Big Mouth](https://open.spotify.com/album/7rIPvB80UTjuHkg0X25x6i) | 1:58 | 2024-10-04 | 2024-10-19 |
 | [SUPER F★CKING MEGA ST★R](https://open.spotify.com/track/0nwsozTQ2xfKtHd03ADze5) | [MARIS](https://open.spotify.com/artist/4s4sHVaj6CRcClZ7SFSKzE) | [SUPER F★CKING MEGA ST★R](https://open.spotify.com/album/1WQhYYSKRwg23ojle7NmBW) | 2:49 | 2025-10-03 | 2026-03-28 |
 | [Super Over](https://open.spotify.com/track/2z3Kpfc7nwzK0pcBMFRMxr) | [Leah Kate](https://open.spotify.com/artist/6oWOHAOyBUn6aJlKIPJK9r) | [Super Over](https://open.spotify.com/album/3J03smHGuMPGEReWWUEQnq) | 2:44 | 2023-06-30 | 2023-12-09 |
-| [superHuman](https://open.spotify.com/track/3Lnw56zn0t1pUyDTHiiMmG) | [AUDREY NUNA](https://open.spotify.com/artist/0Wwji82sLA0Hcvtuak3omb), [VALORANT](https://open.spotify.com/artist/3wrFoI9EVjWg6m8xXeWr5t) | [superHuman](https://open.spotify.com/album/3BfiwgwqmGt5JYZLGtLA1b) | 2:41 | 2026-08-07 |  |
+| [superHuman](https://open.spotify.com/track/3Lnw56zn0t1pUyDTHiiMmG) | [AUDREY NUNA](https://open.spotify.com/artist/0Wwji82sLA0Hcvtuak3omb), [VALORANT](https://open.spotify.com/artist/3wrFoI9EVjWg6m8xXeWr5t) | [superHuman](https://open.spotify.com/album/3BfiwgwqmGt5JYZLGtLA1b) | 2:41 | 2026-08-07 | 2026-11-25 |
 | [Superhuman \(with K.Flay\)](https://open.spotify.com/track/0rWQ4sqTFJoPdIXDahOUPX) | [Party Favor](https://open.spotify.com/artist/7yPPzu5UdAK7yagQqjEZQm), [K.Flay](https://open.spotify.com/artist/0pCNk4D3E2xtszsm6hMsWr) | [Superhuman \(with K.Flay\)](https://open.spotify.com/album/45o6MX0tVVTZF8NDko5Hgs) | 4:00 | 2022-01-28 | 2022-03-18 |
 | [supermodel](https://open.spotify.com/track/1Y0Sea3Nan8ZbL7HKsneY1) | [Sam Short](https://open.spotify.com/artist/0lhNnj2stuzFCs8ihzu0mz) | [supermodel](https://open.spotify.com/album/0VVrCJHFnOZdhjn52l3GbN) | 2:02 | 2024-09-20 | 2024-11-16 |
 | [Supernova](https://open.spotify.com/track/351KkakA2YtGEXqSEIIasy) | [aespa](https://open.spotify.com/artist/6YVMFz59CuY7ngCxTxjpxE) | [Supernova](https://open.spotify.com/album/0tlwyPgqwZrymr04EfFyry) | 2:58 | 2024-05-17 | 2024-06-01 |

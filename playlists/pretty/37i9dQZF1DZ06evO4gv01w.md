@@ -4,13 +4,13 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO4gv01w.md) - [plain]
 
 > This is Larkin Poe\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 30,808 likes - 50 songs - 2 hr 55 min
+[Spotify](https://open.spotify.com/user/spotify) - 30,809 likes - 50 songs - 2 hr 55 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [Deep Stays Down](https://open.spotify.com/track/7xOMvCQDB291W8LYmvX183) | [Larkin Poe](https://open.spotify.com/artist/7d10VF1J4LqW7vrpPOngzm) | [Blood Harmony](https://open.spotify.com/album/51EGDIsgtmTZYxZWCn5z0R) | 3:19 |
-| 2 | [Holy Ghost Fire](https://open.spotify.com/track/59wQXbDYHOHYUbLRySohsP) | [Larkin Poe](https://open.spotify.com/artist/7d10VF1J4LqW7vrpPOngzm) | [Self Made Man](https://open.spotify.com/album/50aq2p3SeGo4aKtihf81Wf) | 3:22 |
-| 3 | [Stackin’ Bones](https://open.spotify.com/track/2cZhG6PNPa2Ykh9xsoAcHw) | [Billy F Gibbons](https://open.spotify.com/artist/69Iibc3uQ7x2vDeZxTwKCw), [Larkin Poe](https://open.spotify.com/artist/7d10VF1J4LqW7vrpPOngzm) | [Hardware](https://open.spotify.com/album/507ad3jUNOGZVtHIRoIhSd) | 3:16 |
+| 2 | [Stackin’ Bones](https://open.spotify.com/track/2cZhG6PNPa2Ykh9xsoAcHw) | [Billy F Gibbons](https://open.spotify.com/artist/69Iibc3uQ7x2vDeZxTwKCw), [Larkin Poe](https://open.spotify.com/artist/7d10VF1J4LqW7vrpPOngzm) | [Hardware](https://open.spotify.com/album/507ad3jUNOGZVtHIRoIhSd) | 3:16 |
+| 3 | [Holy Ghost Fire](https://open.spotify.com/track/59wQXbDYHOHYUbLRySohsP) | [Larkin Poe](https://open.spotify.com/artist/7d10VF1J4LqW7vrpPOngzm) | [Self Made Man](https://open.spotify.com/album/50aq2p3SeGo4aKtihf81Wf) | 3:22 |
 | 4 | [Bleach Blonde Bottle Blues](https://open.spotify.com/track/59VfeuDC5ZulEYkVJYFkFR) | [Larkin Poe](https://open.spotify.com/artist/7d10VF1J4LqW7vrpPOngzm) | [Venom & Faith](https://open.spotify.com/album/6zAalDHGqtEJZK8M8rI9ak) | 3:13 |
 | 5 | [Trouble in Mind](https://open.spotify.com/track/0e3ElMapLJIe0uIchrFVBt) | [Larkin Poe](https://open.spotify.com/artist/7d10VF1J4LqW7vrpPOngzm) | [Reskinned](https://open.spotify.com/album/4UwbVHSo5yrp4jkOIrKsRo) | 3:42 |
 | 6 | [Bad Spell](https://open.spotify.com/track/472aglIPQXPWIWm9RDED3T) | [Larkin Poe](https://open.spotify.com/artist/7d10VF1J4LqW7vrpPOngzm) | [Blood Harmony](https://open.spotify.com/album/51EGDIsgtmTZYxZWCn5z0R) | 3:15 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO4gv01w.md) - [plain]
 | 49 | [Louisiana Sunshine Feeling Okay](https://open.spotify.com/track/0EPUo3osivqu12WoH2m9IT) | [Rodney Crowell](https://open.spotify.com/artist/4QIJ2i8I6urte2scKgkVoY), [Larkin Poe](https://open.spotify.com/artist/7d10VF1J4LqW7vrpPOngzm) | [Airline Highway](https://open.spotify.com/album/4wojnxJ20xjQqZ0Bji3O6F) | 3:05 |
 | 50 | [Nights In White Satin](https://open.spotify.com/track/04ESC8d6h0xCJADLl9PROo) | [Larkin Poe](https://open.spotify.com/artist/7d10VF1J4LqW7vrpPOngzm) | [Kindred Spirits](https://open.spotify.com/album/0W7YXl1HqU7lzgI0BAlpfu) | 3:40 |
 
-Snapshot ID: `awIwgAAAAABC8kNfYX/15aqgGRSwTGKm`
+Snapshot ID: `awOCAAAAAAB7qPJyXjTw7Wf6nKpQZv88`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcuhvPvPnf4R.md) - [plain]
 
 > Sophisticated palates only\. Curated by: <a href="https://www.instagram.com/meaghansmom/">Monique Blake</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 12,072 likes - 50 songs - 3 hr 18 min
+[Spotify](https://open.spotify.com/user/spotify) - 12,073 likes - 50 songs - 3 hr 18 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -12,8 +12,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcuhvPvPnf4R.md) - [plain]
 | 2 | [Peaches \(feat\. Daniel Caesar & Giveon\)](https://open.spotify.com/track/4iJyoBOLtHqaGxP12qzhQI) | [Justin Bieber](https://open.spotify.com/artist/1uNFoZAHBGtllmzznpCI3s), [Daniel Caesar](https://open.spotify.com/artist/20wkVLutqVOYrc0kxFs7rA), [GIVĒON](https://open.spotify.com/artist/4fxd5Ee7UefO4CUXgwJ7IP) | [Justice](https://open.spotify.com/album/5dGWwsZ9iB2Xc3UKR0gif2) | 3:18 |
 | 3 | [Let Me Love You](https://open.spotify.com/track/3ibKnFDaa3GhpPGlOUj7ff) | [Mario](https://open.spotify.com/artist/20s0P9QLxGqKuCsGwFsp7w) | [Let Me Love You](https://open.spotify.com/album/7EXstuWka51pNFzEAidEol) | 4:16 |
 | 4 | [Off the Wall](https://open.spotify.com/track/3zYpRGnnoegSpt3SguSo3W) | [Michael Jackson](https://open.spotify.com/artist/3fMbdgg4jU18AjLCKBhRSm) | [Off the Wall](https://open.spotify.com/album/2ZytN2cY4Zjrr9ukb2rqTP) | 4:05 |
-| 5 | [Essence \(feat\. Tems\)](https://open.spotify.com/track/5FG7Tl93LdH117jEKYl3Cm) | [Wizkid](https://open.spotify.com/artist/3tVQdUvClmAT7URs9V3rsp), [Tems](https://open.spotify.com/artist/687cZJR45JO7jhk1LHIbgq) | [Made In Lagos](https://open.spotify.com/album/6HpMdN52TfJAwVbmkrFeBN) | 4:09 |
-| 6 | [You Don't Know My Name](https://open.spotify.com/track/6LGwYMXXgURfaequXipzHx) | [Alicia Keys](https://open.spotify.com/artist/3DiDSECUqqY1AuBP8qtaIa) | [The Diary Of Alicia Keys](https://open.spotify.com/album/6TqRKHLjDu5QZuC8u5Woij) | 6:06 |
+| 5 | [You Don't Know My Name](https://open.spotify.com/track/6LGwYMXXgURfaequXipzHx) | [Alicia Keys](https://open.spotify.com/artist/3DiDSECUqqY1AuBP8qtaIa) | [The Diary Of Alicia Keys](https://open.spotify.com/album/6TqRKHLjDu5QZuC8u5Woij) | 6:06 |
+| 6 | [Essence \(feat\. Tems\)](https://open.spotify.com/track/5FG7Tl93LdH117jEKYl3Cm) | [Wizkid](https://open.spotify.com/artist/3tVQdUvClmAT7URs9V3rsp), [Tems](https://open.spotify.com/artist/687cZJR45JO7jhk1LHIbgq) | [Made In Lagos](https://open.spotify.com/album/6HpMdN52TfJAwVbmkrFeBN) | 4:09 |
 | 7 | [Fancy](https://open.spotify.com/track/3fpTMuD1u3gJlVI4FadVHs) | [Drake](https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4), [T.I.](https://open.spotify.com/artist/4OBJLual30L7gRl5UkeRcT), [Swizz Beatz](https://open.spotify.com/artist/2cADQgiLMjNhbsfeN52Bf3) | [Thank Me Later](https://open.spotify.com/album/6jlrjFR9mJV3jd1IPSplXU) | 5:19 |
 | 8 | [Sexual Healing](https://open.spotify.com/track/3VZmChrnVW8JK6ano4gSED) | [Marvin Gaye](https://open.spotify.com/artist/3koiLjNrgRTNbOwViDipeA) | [Midnight Love](https://open.spotify.com/album/3gPlX9Zs3tXZZKNCyoOkSm) | 3:58 |
 | 9 | [Ruff Ryders' Anthem](https://open.spotify.com/track/1BKT2I9x4RGKaKqW4up34s) | [DMX](https://open.spotify.com/artist/1HwM5zlC5qNWhJtM00yXzG) | [It's Dark And Hell Is Hot](https://open.spotify.com/album/2xIhksIizs6gWdRBYdiTLc) | 3:34 |
@@ -40,8 +40,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcuhvPvPnf4R.md) - [plain]
 | 30 | [You're the One](https://open.spotify.com/track/0G0ky7lWhrwkds6MobBqvu) | [Dondria](https://open.spotify.com/artist/4NgmPmKCSWm4kczsm6J3FO) | [Dondria vs\. Phatfffat](https://open.spotify.com/album/7m1vzSK4S0pSgqWWJJbRNP) | 2:53 |
 | 31 | [Around The Way Girl](https://open.spotify.com/track/6jL1SnyXcXiKOmw4M2RnmT) | [LL COOL J](https://open.spotify.com/artist/1P8IfcNKwrkQP5xJWuhaOC) | [Mama Said Knock You Out](https://open.spotify.com/album/6dfYmbgWeJCgqJhnR4TfKb) | 4:08 |
 | 32 | [Dr\. Carter](https://open.spotify.com/track/3QjQ9c1ooHiJDCqrKGC9fK) | [Lil Wayne](https://open.spotify.com/artist/55Aa2cqylxrFIXC767Z865) | [Tha Carter III](https://open.spotify.com/album/5BGzOpea6At0Nd7tYtYZOP) | 4:24 |
-| 33 | [Ravers Gas](https://open.spotify.com/track/79mzjmI59sxbnk5NOPKiFP) | [DING DONG](https://open.spotify.com/artist/351x2S7CduShTNvtzgkMl7) | [Ravers Gas \- Single](https://open.spotify.com/album/2Tjwu0ywbCuXdTGfOnr7oO) | 3:10 |
-| 34 | [Hood Blues \(feat\. Westside Gunn, Benny The Butcher & Conway The Machine\)](https://open.spotify.com/track/1OaIvyH1IbX31m4JY6yBej) | [DMX](https://open.spotify.com/artist/1HwM5zlC5qNWhJtM00yXzG), [Westside Gunn](https://open.spotify.com/artist/0ABk515kENDyATUdpCKVfW), [Benny The Butcher](https://open.spotify.com/artist/5Matrg5du62bXwer29cU5T), [Conway the Machine](https://open.spotify.com/artist/67gqUXxHedeUGDTxwBzdjS) | [Exodus](https://open.spotify.com/album/4kztTaq5iUKFXuWj06wbRM) | 4:36 |
+| 33 | [Hood Blues \(feat\. Westside Gunn, Benny The Butcher & Conway The Machine\)](https://open.spotify.com/track/1OaIvyH1IbX31m4JY6yBej) | [DMX](https://open.spotify.com/artist/1HwM5zlC5qNWhJtM00yXzG), [Westside Gunn](https://open.spotify.com/artist/0ABk515kENDyATUdpCKVfW), [Benny The Butcher](https://open.spotify.com/artist/5Matrg5du62bXwer29cU5T), [Conway the Machine](https://open.spotify.com/artist/67gqUXxHedeUGDTxwBzdjS) | [Exodus](https://open.spotify.com/album/4kztTaq5iUKFXuWj06wbRM) | 4:36 |
+| 34 | [Ravers Gas](https://open.spotify.com/track/79mzjmI59sxbnk5NOPKiFP) | [DING DONG](https://open.spotify.com/artist/351x2S7CduShTNvtzgkMl7) | [Ravers Gas \- Single](https://open.spotify.com/album/2Tjwu0ywbCuXdTGfOnr7oO) | 3:10 |
 | 35 | [Gold](https://open.spotify.com/track/5wcWWTTQCEizpl98ggMRYL) | [Alicai Harley](https://open.spotify.com/artist/4HIgMgldxGG0v8nSDWJrnh) | [Gold](https://open.spotify.com/album/5CjGqbWegCxmjVZv168HRS) | 3:10 |
 | 36 | [Tables Will Turn](https://open.spotify.com/track/0NTsxA8DrjBbZjK35oP67U) | [Foxy Brown](https://open.spotify.com/artist/1wvlC6NwleHt1iRD6d5X2C), [Cham](https://open.spotify.com/artist/5G8IlDlnPQPN4YmtJ6NDxK) | [Broken Silence](https://open.spotify.com/album/0V5LKel3fj8JvCNeYHWCuU) | 3:32 |
 | 37 | [She's All I Got \- Radio Edit](https://open.spotify.com/track/49XSbzWYyB20DTlBtQiZFw) | [J\. Cozier](https://open.spotify.com/artist/4PsXktnr6Ff4jxNJeVuWcG) | [Jimmy Cozier](https://open.spotify.com/album/2mnL3NqNFwDjAbQrzlWi3W) | 3:31 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcuhvPvPnf4R.md) - [plain]
 | 49 | [Rum & Redbull](https://open.spotify.com/track/3rcdpymBJXEExx2YcZbjMU) | [Beenie Man](https://open.spotify.com/artist/4L3GTE04bW5N7azA9QPhjA), [Future Fambo](https://open.spotify.com/artist/6iGnMrpoPy3fPn2JwawcUI), [Seanizzle](https://open.spotify.com/artist/4WYP9l7S3oTiE2Pb8awwOX) | [Rum & Redbull](https://open.spotify.com/album/3og1VflDWwrGfXysXRzdcR) | 2:15 |
 | 50 | [Flex](https://open.spotify.com/track/2TajSezbrdFdex9g5L6wo9) | [Mad Cobra](https://open.spotify.com/artist/56MDhktp7hO6MqKCS9rSXT) | [Dancehall 101 Vol\. 3](https://open.spotify.com/album/2cGFEvfRv59zyj2E9BTkiH) | 3:50 |
 
-Snapshot ID: `AAAAAK+wEkDhmSb4KUvk7NHbxn54dF3q`
+Snapshot ID: `AAAAAJtklcm6/QOo/whVmZ9hweera3uY`

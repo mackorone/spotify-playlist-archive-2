@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX51TD2wakW3K.md) - [plain]
 
 > The rule breakers who shaped the punk rock ethos, and the artists who carry it forward today\. Cover: Amy Taylor \(Amyl and The Sniffers\)
 
-[Spotify](https://open.spotify.com/user/spotify) - 37,438 likes - 100 songs - 4 hr 59 min
+[Spotify](https://open.spotify.com/user/spotify) - 37,508 likes - 100 songs - 4 hr 59 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -69,15 +69,15 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX51TD2wakW3K.md) - [plain]
 | 59 | [Woman Driver](https://open.spotify.com/track/28Zo6zxUvjalBnftQpC8Qe) | [The Pill](https://open.spotify.com/artist/4XtMirRxOoonxsbLRJvlwO) | [Woman Driver](https://open.spotify.com/album/6SxfRfXTWGh20SiGGunINs) | 2:04 |
 | 60 | [Terrorist](https://open.spotify.com/track/5svfeW2c5FttYvj2IB5Gq6) | [Heavens To Betsy](https://open.spotify.com/artist/0nMGtVCtOB828z1CYKDzGZ) | [Calculated](https://open.spotify.com/album/7j1FVjRMoFdboNookYCXQB) | 1:57 |
 | 61 | [Special](https://open.spotify.com/track/0mXI7POSEk4jRlIH0R0VAv) | [Scowl](https://open.spotify.com/artist/6hW33nVHPElaXuG2hQ0QOp) | [Are We All Angels](https://open.spotify.com/album/0zDdwRsOg2sVvOFpjEOtHs) | 2:57 |
-| 62 | [Womanarchist](https://open.spotify.com/track/3Viq6H7Yuo5S9dZDi76CNJ) | [Bad Cop Bad Cop](https://open.spotify.com/artist/226ZwHRFmxyMqgXCoEkUbq) | [Warriors](https://open.spotify.com/album/54ThBfBsIYq8IjvMKEFxWc) | 2:52 |
-| 63 | [Libel](https://open.spotify.com/track/62bgpXZkqvbKNwSx0LXyit) | [Tilt](https://open.spotify.com/artist/71nmu8vx7OHvivVKv3dIRq) | ['Til It Kills](https://open.spotify.com/album/07G1rWGaIb0iD4N6YaH2wW) | 2:22 |
+| 62 | [Libel](https://open.spotify.com/track/62bgpXZkqvbKNwSx0LXyit) | [Tilt](https://open.spotify.com/artist/71nmu8vx7OHvivVKv3dIRq) | ['Til It Kills](https://open.spotify.com/album/07G1rWGaIb0iD4N6YaH2wW) | 2:22 |
+| 63 | [Womanarchist](https://open.spotify.com/track/3Viq6H7Yuo5S9dZDi76CNJ) | [Bad Cop Bad Cop](https://open.spotify.com/artist/226ZwHRFmxyMqgXCoEkUbq) | [Warriors](https://open.spotify.com/album/54ThBfBsIYq8IjvMKEFxWc) | 2:52 |
 | 64 | [Fight Like a Girl](https://open.spotify.com/track/1oB95k1m9xX1M7FkRxhFPS) | [Cheap Perfume](https://open.spotify.com/artist/2vfwEEEv5PVpGMMnC5jajB) | [Nailed It](https://open.spotify.com/album/2x0q1zOoj9ETJhN9nhCLg5) | 3:13 |
 | 65 | [Bad Ass Bitch](https://open.spotify.com/track/6RnIQtsHeCWSA9ILQgx6J1) | [Lunachicks](https://open.spotify.com/artist/3p3KAZ6zqhFkkH5ZdTuS5X) | [Luxury Problem](https://open.spotify.com/album/5QZhFMU4gDHawZeZFCjKXr) | 4:08 |
 | 66 | [Crimson Wave](https://open.spotify.com/track/6ixncUHZXJpLWbej9oOms2) | [Tacocat](https://open.spotify.com/artist/3h0MN1neFknEvlYKxFmSQW) | [NVM](https://open.spotify.com/album/1InarU1z2GghO47Wb4Nm9m) | 2:03 |
 | 67 | [Lucky Guy](https://open.spotify.com/track/2jSdbHZZRp6eLq8F5KPtoR) | [The Muffs](https://open.spotify.com/artist/5MdnKzzP0PQHGYbfhKdSKs) | [The Muffs](https://open.spotify.com/album/3f9SPyuKWxyufWWXdEmzT2) | 2:47 |
 | 68 | [Don't Dictate \- Demo](https://open.spotify.com/track/0LzCSYjFxH3LKSU4UIeRBk) | [Penetration](https://open.spotify.com/artist/0XLpzWw7BLdlsf32qlMXKV) | [Moving Targets](https://open.spotify.com/album/7LHgN8wNZITpIywXHVBRLb) | 2:56 |
-| 69 | [Touch Me Again](https://open.spotify.com/track/21oFKSwN0SnBYC4bFtDZEI) | [Petrol Girls](https://open.spotify.com/artist/7dEx5Gii91YpvTOzrrvx5L) | [Talk of Violence](https://open.spotify.com/album/64bdsls9U5ZGarwEkCbVfl) | 3:04 |
-| 70 | [Love is Short](https://open.spotify.com/track/4lWBGCEsNyMEcNVHCb7Vxi) | [Otoboke Beaver](https://open.spotify.com/artist/0HutkALC7kq2L8b9bnZUkq) | [ITEKOMA HITS](https://open.spotify.com/album/0A7dXsu3QAMbs2Wu0FUdF4) | 2:11 |
+| 69 | [Love is Short](https://open.spotify.com/track/4lWBGCEsNyMEcNVHCb7Vxi) | [Otoboke Beaver](https://open.spotify.com/artist/0HutkALC7kq2L8b9bnZUkq) | [ITEKOMA HITS](https://open.spotify.com/album/0A7dXsu3QAMbs2Wu0FUdF4) | 2:11 |
+| 70 | [Touch Me Again](https://open.spotify.com/track/21oFKSwN0SnBYC4bFtDZEI) | [Petrol Girls](https://open.spotify.com/artist/7dEx5Gii91YpvTOzrrvx5L) | [Talk of Violence](https://open.spotify.com/album/64bdsls9U5ZGarwEkCbVfl) | 3:04 |
 | 71 | [Husbands](https://open.spotify.com/track/5yoJk1yR5QmwE8Zj2qatpK) | [Savages](https://open.spotify.com/artist/1WFsBUAgQmrGQQEUyFKS60) | [Silence Yourself](https://open.spotify.com/album/6LjrpgYliBD7FA670n4l31) | 2:50 |
 | 72 | [Joy](https://open.spotify.com/track/6HpSFu3gX3y9IVP2MZ8p6R) | [Dry Cleaning](https://open.spotify.com/artist/7DlD7rLG9MKuvXtTeACzkO) | [Secret Love](https://open.spotify.com/album/79o6ZvFsXaAkL9MHCE6ts4) | 2:53 |
 | 73 | [It's Obvious](https://open.spotify.com/track/5gPOiq7h6NydcfXEv2XiYg) | [Au Pairs](https://open.spotify.com/artist/5nGQE2ehuRkkK1iNUQQthd) | [Stepping Out of Line \- The Anthology](https://open.spotify.com/album/1rQBMMOdTHjqRcg3mD54VK) | 6:17 |
@@ -85,8 +85,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX51TD2wakW3K.md) - [plain]
 | 75 | [Shoplifting](https://open.spotify.com/track/6pY6AdtuZixaErD7xLt5Z6) | [The Slits](https://open.spotify.com/artist/5O0RrEgz4NLCPLrDZiPggz) | [Cut \(Deluxe Edition\)](https://open.spotify.com/album/6ppPT0aXOtsAlG1QQVB9E0) | 1:35 |
 | 76 | [Across The Line](https://open.spotify.com/track/4JJPlu2TWZ7p0MRgh5Td9T) | [Remember Sports](https://open.spotify.com/artist/2DftUzexejBW6l00wmnMoc) | [The Refrigerator](https://open.spotify.com/album/6BJcPDec1HjMQ0H3WyWckR) | 3:19 |
 | 77 | [She's Crushing My Mind](https://open.spotify.com/track/1KRdlcpHmzF4KTldSGVthD) | [Team Dresch](https://open.spotify.com/artist/1i0UobirqiiWT0AbrkZKrs) | [Personal Best](https://open.spotify.com/album/6FkTtMBKTWf4qV5aeL8Sp5) | 1:42 |
-| 78 | [White Lies](https://open.spotify.com/track/7gkixf4Q6DRjjXakYReQzi) | [War On Women](https://open.spotify.com/artist/2cRFZn5EhqH0Wu1gHlOHlz) | [Wonderful Hell](https://open.spotify.com/album/25EyI6VNG9QS9TeQk6IJCY) | 3:30 |
-| 79 | [I Hope You Know](https://open.spotify.com/track/5FnOK06ng2h8TwNtCk7DOt) | [Karen Dió](https://open.spotify.com/artist/5VVMZArxuM1mO8Qny95inw) | [I Hope You Know](https://open.spotify.com/album/2RK46DbriaUmep5XnMDLvE) | 2:20 |
+| 78 | [I Hope You Know](https://open.spotify.com/track/5FnOK06ng2h8TwNtCk7DOt) | [Karen Dió](https://open.spotify.com/artist/5VVMZArxuM1mO8Qny95inw) | [I Hope You Know](https://open.spotify.com/album/2RK46DbriaUmep5XnMDLvE) | 2:20 |
+| 79 | [White Lies](https://open.spotify.com/track/7gkixf4Q6DRjjXakYReQzi) | [War On Women](https://open.spotify.com/artist/2cRFZn5EhqH0Wu1gHlOHlz) | [Wonderful Hell](https://open.spotify.com/album/25EyI6VNG9QS9TeQk6IJCY) | 3:30 |
 | 80 | [No Control](https://open.spotify.com/track/6iYEtpQ84Vs2K5CReYfr6Y) | [Sweet Pill](https://open.spotify.com/artist/0fNyhBvhR5Xw6s0EYQewUa) | [No Control](https://open.spotify.com/album/5COnjlxIEbPiRMnoxFc94e) | 3:01 |
 | 81 | [Looking for A Fight](https://open.spotify.com/track/2Uj3b1Ce5SLBN9Xp7Zqjp5) | [Bleached](https://open.spotify.com/artist/2kS9MrOD16tiQOIyJTzFxK) | [Ride Your Heart](https://open.spotify.com/album/5pGaGSjUiidjJEixmde6Ha) | 2:17 |
 | 82 | [JJ](https://open.spotify.com/track/1orez4wPUf42d2jtvUpm0b) | [Priests](https://open.spotify.com/artist/5DT78nxI4rAHYddufPUOBx) | [Nothing Feels Natural](https://open.spotify.com/album/0JHreJbw5DKq7Nr9aW2KqI) | 2:57 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX51TD2wakW3K.md) - [plain]
 | 99 | [Somos Chulas \(No Somos Pendejas\)](https://open.spotify.com/track/1kPzZGjU0mcL6Hh2DLI0of) | [Downtown Boys](https://open.spotify.com/artist/7l8uFATeRemkWEA8Gn15YC) | [Cost of Living](https://open.spotify.com/album/2L3KXGq3u2VpVTFMwPyPrb) | 3:23 |
 | 100 | [Sofa Bed](https://open.spotify.com/track/7AFlvs5nqulxTRq06NLCBx) | [CHERYM](https://open.spotify.com/artist/5HeMRsU1AunQINeEVHFdx5), [Uninvited](https://open.spotify.com/artist/5q0XJRqusj0KaNKwLVSVQn) | [Sofa Bed](https://open.spotify.com/album/0e1vkBegA6Xe1RBE3urE9P) | 3:03 |
 
-Snapshot ID: `AAAAAHN//mHe42ZVxzYDaqa3t43ynBqY`
+Snapshot ID: `AAAAAPJeOPJpSuB6mb1BmTVsnuHdsc0X`

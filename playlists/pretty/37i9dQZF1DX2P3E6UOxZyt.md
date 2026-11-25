@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2P3E6UOxZyt.md) - [plain]
 
 > 大咖讓歌單很有料，小眾讓歌單有得聊。Cover: KAXA
 
-[Spotify](https://open.spotify.com/user/spotify) - 31,524 likes - 39 songs - 2 hr 6 min
+[Spotify](https://open.spotify.com/user/spotify) - 31,523 likes - 39 songs - 2 hr 6 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -48,4 +48,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2P3E6UOxZyt.md) - [plain]
 | 38 | [防腐劑](https://open.spotify.com/track/4bYJiPiHiorsKWWaHxqBOe) | [LAWA](https://open.spotify.com/artist/6YRem17JxNaJkYGXm13ElV) | [想到再告訴你](https://open.spotify.com/album/13QDqdLHJrqy3SGEN80yI9) | 3:41 |
 | 39 | [scuba diving](https://open.spotify.com/track/4vHtTlW8yvweqJxTvJwtsf) | [Quanzo](https://open.spotify.com/artist/2xZ5jDLM2DzHd0UoeIquZn) | [scuba diving](https://open.spotify.com/album/45njOQWwSZh6mIPQ4nx5NT) | 2:04 |
 
-Snapshot ID: `AAAAAH4vlfqlm9UlN3ySaloURhOyfaHw`
+Snapshot ID: `AAAAAAzy805eTQBPBOVc9/TvGyebTtEK`

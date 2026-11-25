@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUKOGt2rVvOT.md) - [plain]
 
 > 新歌不只用聽的，還要用看的！最新華語 MV 一次收好，現在就看起來！Cover: TRASH
 
-[Spotify](https://open.spotify.com/user/spotify) - 140,934 likes - 60 songs - 3 hr 42 min
+[Spotify](https://open.spotify.com/user/spotify) - 140,933 likes - 60 songs - 3 hr 42 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -69,4 +69,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUKOGt2rVvOT.md) - [plain]
 | 59 | [意外](https://open.spotify.com/track/12NjuZvUglYrsDPYUSxSnM) | [Xiao Yu](https://open.spotify.com/artist/7In8YZ3XHuwSNUTEyIO0HA) | [以為你還在](https://open.spotify.com/album/0yePOXoT2eHKfvDq86PvWd) | 5:55 |
 | 60 | [隱癮 \(影集《郵票與舒芙蕾》主題曲\)](https://open.spotify.com/track/2KSaDdRadbOLfvU3kWMPxy) | [KAXA](https://open.spotify.com/artist/5Hq9W4AHt4ykIEJp6ObqOG) | [隱癮 \(影集《郵票與舒芙蕾》主題曲\)](https://open.spotify.com/album/6VH4LNvAEFfswzrIuEAJJt) | 3:29 |
 
-Snapshot ID: `AAAAAGTgHT82tVI1YTE8TvScvWvdGn6j`
+Snapshot ID: `AAAAAFiz5YMpn+1VIGiU//pehCYZPcmg`

@@ -981,6 +981,24 @@
     },
     {
       "album": {
+        "name": "Apollo",
+        "url": "https://open.spotify.com/album/3HF6GfOLcSeyWXe7vf74RR"
+      },
+      "artists": [
+        {
+          "name": "Cijon",
+          "url": "https://open.spotify.com/artist/1q8BMvpVO3pN4Ade7BWFaj"
+        }
+      ],
+      "date_added": "2026-11-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 154154,
+      "name": "Apollo",
+      "url": "https://open.spotify.com/track/4hK8qsBN8cVV1IxLlPsFvR"
+    },
+    {
+      "album": {
         "name": "apple of my eye",
         "url": "https://open.spotify.com/album/2DCZOJBOiKA7VZDNyXuwl0"
       },
@@ -1226,7 +1244,7 @@
       ],
       "date_added": "2026-10-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-25",
       "duration_ms": 165000,
       "name": "Astra",
       "url": "https://open.spotify.com/track/2f1JlOL1dj1wBIrM0vofGw"
@@ -2187,6 +2205,24 @@
     },
     {
       "album": {
+        "name": "Blue Flame",
+        "url": "https://open.spotify.com/album/5B8Pk2ikhbsEWdb0LCafME"
+      },
+      "artists": [
+        {
+          "name": "Arres\u00f8",
+          "url": "https://open.spotify.com/artist/0BmJFwqURRCKIFX8hH0gV1"
+        }
+      ],
+      "date_added": "2026-11-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 142513,
+      "name": "Blue Flame",
+      "url": "https://open.spotify.com/track/19UMlLZLe5Lltm2jE7GXRJ"
+    },
+    {
+      "album": {
         "name": "Blue Hour",
         "url": "https://open.spotify.com/album/6nrN4FXdPFJBUk7QO8HJdk"
       },
@@ -2584,7 +2620,7 @@
       ],
       "date_added": "2026-07-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-25",
       "duration_ms": 136621,
       "name": "Breather",
       "url": "https://open.spotify.com/track/2Qx7G097D6VqHi2PoIvo83"
@@ -3290,6 +3326,24 @@
       "duration_ms": 142788,
       "name": "Chorale Bloom",
       "url": "https://open.spotify.com/track/1IKTSaVFGdnkbWkzSJPveE"
+    },
+    {
+      "album": {
+        "name": "Chuncano Echoes",
+        "url": "https://open.spotify.com/album/5BzsH4Kn4mGXgUqmHaumIL"
+      },
+      "artists": [
+        {
+          "name": "Chuncano Echoes",
+          "url": "https://open.spotify.com/artist/3qlgqxDHj9GWSJdehvjdvn"
+        }
+      ],
+      "date_added": "2026-11-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 137642,
+      "name": "Chuncano Echoes",
+      "url": "https://open.spotify.com/track/5LkwJzuDEhnBVWKW6HHak0"
     },
     {
       "album": {
@@ -4006,7 +4060,7 @@
       ],
       "date_added": "2026-07-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-25",
       "duration_ms": 143161,
       "name": "Complex",
       "url": "https://open.spotify.com/track/3vTNV3YQZmD4n51em4VJPf"
@@ -5853,6 +5907,24 @@
     },
     {
       "album": {
+        "name": "Empty Sky",
+        "url": "https://open.spotify.com/album/4lUoDOwJzZegMwdcGoNRt1"
+      },
+      "artists": [
+        {
+          "name": "Antuigo",
+          "url": "https://open.spotify.com/artist/0SIxo5o3Jh1i8IjKtZhjcd"
+        }
+      ],
+      "date_added": "2026-11-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 121867,
+      "name": "Empty Sky",
+      "url": "https://open.spotify.com/track/1F4UPpfWqE6sYGA38Y1v0J"
+    },
+    {
+      "album": {
         "name": "Encouraged",
         "url": "https://open.spotify.com/album/2cPo0cJkYugtp1hZkfdRDD"
       },
@@ -6753,6 +6825,24 @@
     },
     {
       "album": {
+        "name": "Faint Architecture",
+        "url": "https://open.spotify.com/album/74KW7ts4mMJ1dlnjEjxltg"
+      },
+      "artists": [
+        {
+          "name": "City-Stuck",
+          "url": "https://open.spotify.com/artist/69FUabdABH2J69HXVKFtC3"
+        }
+      ],
+      "date_added": "2026-11-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 143986,
+      "name": "Faint Architecture",
+      "url": "https://open.spotify.com/track/36ZrCYxEYXzASWqTuXbk0h"
+    },
+    {
+      "album": {
         "name": "Faint Embers",
         "url": "https://open.spotify.com/album/393tEHUaGLLtkC5v1ZYmoY"
       },
@@ -7326,6 +7416,24 @@
       "duration_ms": 500000,
       "name": "First Fall",
       "url": "https://open.spotify.com/track/2TgGlxFm2D0Abt4Iao9pEF"
+    },
+    {
+      "album": {
+        "name": "First Light",
+        "url": "https://open.spotify.com/album/5whIGQsirklFyOQHT1FAJ4"
+      },
+      "artists": [
+        {
+          "name": "Aural Depths",
+          "url": "https://open.spotify.com/artist/3n4KAFh459YVN0eFO47zZp"
+        }
+      ],
+      "date_added": "2026-11-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 144800,
+      "name": "First Light",
+      "url": "https://open.spotify.com/track/6GrNKojZKE3DQdVCcb7raz"
     },
     {
       "album": {
@@ -14573,6 +14681,24 @@
     },
     {
       "album": {
+        "name": "Orbital Drift",
+        "url": "https://open.spotify.com/album/6VY2jWcnJ40iJyEmfdahVF"
+      },
+      "artists": [
+        {
+          "name": "eldra",
+          "url": "https://open.spotify.com/artist/3ahkvnkiSTyvpRt2IZEGUc"
+        }
+      ],
+      "date_added": "2026-11-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 156301,
+      "name": "Orbital Drift",
+      "url": "https://open.spotify.com/track/2Y1O35DGNK9bn3x129ofFn"
+    },
+    {
+      "album": {
         "name": "Orbits",
         "url": "https://open.spotify.com/album/5jHLPPk51g8j1xkVKgKPwR"
       },
@@ -14732,6 +14858,24 @@
       "duration_ms": 177957,
       "name": "ouma",
       "url": "https://open.spotify.com/track/0WRbfmpoYdrlMRv4BmJcPS"
+    },
+    {
+      "album": {
+        "name": "Out of Frame",
+        "url": "https://open.spotify.com/album/4MBELhKldBGNjxfMbQCLVx"
+      },
+      "artists": [
+        {
+          "name": "Gabriel Stone",
+          "url": "https://open.spotify.com/artist/2n5cofsnSYMHUF8C9TmIA1"
+        }
+      ],
+      "date_added": "2026-11-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 128541,
+      "name": "Out of Frame",
+      "url": "https://open.spotify.com/track/2L8XSNTyzsc0i9BBwv85mc"
     },
     {
       "album": {
@@ -17223,6 +17367,24 @@
     },
     {
       "album": {
+        "name": "Serudia",
+        "url": "https://open.spotify.com/album/5Op0DcTmKvJNJQMVXZWblw"
+      },
+      "artists": [
+        {
+          "name": "Gargantis",
+          "url": "https://open.spotify.com/artist/5GXKQgbYHVdRFSznRp5trz"
+        }
+      ],
+      "date_added": "2026-11-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 129183,
+      "name": "Serudia",
+      "url": "https://open.spotify.com/track/116kaFwtgAzE0EBkE5jbWC"
+    },
+    {
+      "album": {
         "name": "Shade",
         "url": "https://open.spotify.com/album/1G0fihkb1pLRd6EzffXxnv"
       },
@@ -18336,6 +18498,24 @@
       "duration_ms": 126985,
       "name": "Solatium",
       "url": "https://open.spotify.com/track/4br0nM6NdvDKMJgLj44foR"
+    },
+    {
+      "album": {
+        "name": "Solid",
+        "url": "https://open.spotify.com/album/6HTOTa2kkf0cmUufL7d4h4"
+      },
+      "artists": [
+        {
+          "name": "Perseus",
+          "url": "https://open.spotify.com/artist/4blTYEYufm69zg2U7ruiDm"
+        }
+      ],
+      "date_added": "2026-11-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 156513,
+      "name": "Solid Through",
+      "url": "https://open.spotify.com/track/0vIH1QxHboNAVDUmfLTfyk"
     },
     {
       "album": {
@@ -22178,7 +22358,7 @@
       ],
       "date_added": "2026-06-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-25",
       "duration_ms": 150813,
       "name": "Veiled Peak",
       "url": "https://open.spotify.com/track/3OKTCsUsBoxFXFObqt9xFI"
@@ -22808,7 +22988,7 @@
       ],
       "date_added": "2025-12-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-25",
       "duration_ms": 162410,
       "name": "Waypoint",
       "url": "https://open.spotify.com/track/4VpzLHKpKzphbEj9QEQYWh"

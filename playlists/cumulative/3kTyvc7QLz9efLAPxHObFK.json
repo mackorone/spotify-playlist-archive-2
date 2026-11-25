@@ -61627,6 +61627,28 @@
     },
     {
       "album": {
+        "name": "Turn Up The Rave",
+        "url": "https://open.spotify.com/album/38nITg25D36SqICbW9V1ho"
+      },
+      "artists": [
+        {
+          "name": "Hysta",
+          "url": "https://open.spotify.com/artist/5b4R0928g89y6qmOgtEN1O"
+        },
+        {
+          "name": "Advanced Dealer",
+          "url": "https://open.spotify.com/artist/6GR6nVejsTwxyjtPqBHqyo"
+        }
+      ],
+      "date_added": "2026-11-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 163734,
+      "name": "Turn Up The Rave",
+      "url": "https://open.spotify.com/track/21k14WfCMNBx0mwlI3m3rP"
+    },
+    {
+      "album": {
         "name": "Tutti Rutti",
         "url": "https://open.spotify.com/album/4lJQbfLroaRc6EK8cXxE02"
       },

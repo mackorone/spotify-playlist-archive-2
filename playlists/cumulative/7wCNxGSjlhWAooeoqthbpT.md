@@ -1,10 +1,10 @@
 [pretty](/playlists/pretty/7wCNxGSjlhWAooeoqthbpT.md) - cumulative - [plain](/playlists/plain/7wCNxGSjlhWAooeoqthbpT) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive-2/blob/main/playlists/plain/7wCNxGSjlhWAooeoqthbpT)
 
-### [Epic Vibes](https://open.spotify.com/playlist/7wCNxGSjlhWAooeoqthbpT)
+### [EPIC VIBES](https://open.spotify.com/playlist/7wCNxGSjlhWAooeoqthbpT)
 
 > Vibe out with Epic Records cover: Future, Drake, Travis Scott, &amp; Sexy Redd
 
-303 songs - 15 hr 9 min
+308 songs - 15 hr 26 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -20,6 +20,7 @@
 | [All Around Me](https://open.spotify.com/track/1fdcacZgERIC8LBCFdtj6A) | [Bahari](https://open.spotify.com/artist/0fs8oBR1rx7JIXZi75h7Uu), [Cody Lovaas](https://open.spotify.com/artist/7fWrZ2q4fGZAnuCPfgSU52) | [All Around Me](https://open.spotify.com/album/22CKUeAX5q2wef4iwuOiOi) | 3:25 | 2021-12-10 | 2022-08-27 |
 | [All for Nothing](https://open.spotify.com/track/4eOydYjbFRCfFZ8jxtwrQX) | [Eddie Benjamin](https://open.spotify.com/artist/1AaSeUFzwt47HhkGtWE1xn) | [All for Nothing](https://open.spotify.com/album/0kWI8zbuMg3aNL7p6ceWJ7) | 3:23 | 2023-02-10 | 2023-04-22 |
 | [all of me](https://open.spotify.com/track/2FoahzOSxJnalPA8aBUme3) | [21 Savage](https://open.spotify.com/artist/1URnnhqYAYcrqrcwql10ft) | [american dream](https://open.spotify.com/album/2RRYaYHY7fIIdvFlvgb5vq) | 3:18 | 2024-01-23 | 2024-02-27 |
+| [Always On My Mind \(feat\. Sis\) \- Cover](https://open.spotify.com/track/0CWRc5di0wCAp10jrEw2Uy) | [Jawan](https://open.spotify.com/artist/1zWtqUs1JpL98hWc6B8DtA), [Sis](https://open.spotify.com/artist/3mElyLScUEWPOWsViCwVyD) | [Fresher Than Us](https://open.spotify.com/album/3OxxAVYQx7euAuwGrH1iwX) | 5:10 | 2026-11-24 |  |
 | [AMUSED](https://open.spotify.com/track/3FgahD27EJCxMHGcJJtAmM) | [Jnr Choi](https://open.spotify.com/artist/1Z25ZlGHqqlr3o1UGQOfNn), [Fivio Foreign](https://open.spotify.com/artist/14CHVeJGrR5xgUGQFV5BVM) | [AMUSED](https://open.spotify.com/album/781fnfWDxzWNpLnG0k99Ga) | 3:46 | 2022-08-05 | 2023-05-13 |
 | [ANXIETY](https://open.spotify.com/track/3zpKrqSpX2nr5N2fsAmqR5) | [BEAM](https://open.spotify.com/artist/46MWeeHNVMYRIIofQBEX98) | [ANXIETY](https://open.spotify.com/album/4urAq6KDiVLZjNGofhWQKm) | 2:16 | 2021-11-19 | 2022-11-12 |
 | [aorta](https://open.spotify.com/track/7IBxi4jju9JTSE3s41904R) | [AG Club](https://open.spotify.com/artist/22KyrgRdE2K6aB5wtZls3c) | [2MORE](https://open.spotify.com/album/78gh9A7ti6abCaTZiHK0rV) | 2:11 | 2023-04-14 | 2023-07-24 |
@@ -59,6 +60,7 @@
 | [City Of Dreams \(feat\. Chris Brown\)](https://open.spotify.com/track/2nLKcpdoIX6oFo5npWHVF4) | [Tyla Yaweh](https://open.spotify.com/artist/1MXZ0hsGic96dWRDKwAwdr), [Chris Brown](https://open.spotify.com/artist/7bXgB6jMjp9ATFy66eO08Z) | [Heart Full of Rage 2](https://open.spotify.com/album/1paIukF9TxaYwBpYbyFdOt) | 2:40 | 2023-08-04 | 2024-01-10 |
 | [Cloud](https://open.spotify.com/track/3BzUXih3wwnalV34k1arHj) | [Headie One](https://open.spotify.com/artist/6UCQYrcJ6wab6gnQ89OJFh), [Luciano](https://open.spotify.com/artist/3CJKkU0XuElRT1z8rEtIYg) | [Cloud](https://open.spotify.com/album/2pckppGAwqQM0KtrnS5Itc) | 3:07 | 2022-06-17 | 2022-07-30 |
 | [Come Outside](https://open.spotify.com/track/7c44L73D2oTZEqGmQqHduQ) | [ScarLip](https://open.spotify.com/artist/0XSAX3u9L4gKXmbhSwPnIJ) | [Come Outside](https://open.spotify.com/album/7kUmGvgHZ6tENTMI88l2zj) | 3:12 | 2026-11-06 |  |
+| [Cookin](https://open.spotify.com/track/41WGn4e7p8WXv9LqlljJhJ) | [21 Savage](https://open.spotify.com/artist/1URnnhqYAYcrqrcwql10ft) | [Grand Theft Auto VI: The Album \(Deluxe Edition\)](https://open.spotify.com/album/2O7j5mKjiyJRLNUo4RZKzs) | 2:42 | 2026-11-24 |  |
 | [COUNTING SHEEP \(feat\. 21 Savage\)](https://open.spotify.com/track/3VRtJ5A7Xaj4geWSMqXBar) | [Melvoni](https://open.spotify.com/artist/01Kz5ab1oYMaey58CaGTxA), [21 Savage](https://open.spotify.com/artist/1URnnhqYAYcrqrcwql10ft) | [THIS IS NOT A DRILL](https://open.spotify.com/album/6YTuAhKPVN4nsdzobywyEg) | 3:17 | 2022-10-21 | 2024-01-10 |
 | [COUNTRY TO THE CITY](https://open.spotify.com/track/1uoymmNEenD0E2jRoW2Zwq) | [Jamie Ray](https://open.spotify.com/artist/08sIoHx2vZUsqaWtoVHHo2) | [COUNTRY TRAP](https://open.spotify.com/album/3IEYwKGZtYATXBhauRa3n8) | 2:20 | 2022-10-21 | 2022-11-19 |
 | [COWBOY GANGSTA \(feat\. Peewee Longway\) \- Remix](https://open.spotify.com/track/4Pte2WRbanQQF0Q2CIrn3Y) | [Jamie Ray](https://open.spotify.com/artist/08sIoHx2vZUsqaWtoVHHo2), [Peewee Longway](https://open.spotify.com/artist/0xTcxl35DKXUeYRWqY10w6) | [COWBOY GANGSTA \(feat\. Peewee Longway\) \[Remix\]](https://open.spotify.com/album/0ejTxEMZoHWeueFA2zub7L) | 3:17 | 2023-02-24 | 2023-04-01 |
@@ -86,6 +88,7 @@
 | [End Of Time](https://open.spotify.com/track/5ttodnEIaCGDuBbvJctUfc) | [Zara Larsson](https://open.spotify.com/artist/1Xylc3o4UrD53lo9CvFvVg) | [End Of Time](https://open.spotify.com/album/5qIq5q9nx9fymmk5JyKmsB) | 3:29 | 2023-05-19 | 2023-12-14 |
 | [ESCAPE PLAN](https://open.spotify.com/track/4R67rQNSbbsR4TdUVOIdez) | [Travis Scott](https://open.spotify.com/artist/0Y5tJX1MQlPlqiwlOH1tJY) | [ESCAPE PLAN / MAFIA](https://open.spotify.com/album/5FB5E1fwFeVqpz2CCzRSve) | 2:29 | 2021-11-05 | 2023-07-24 |
 | [EXCHANGE](https://open.spotify.com/track/2DYNyO657ppfS7Hl7jHg7a) | [India Shawn](https://open.spotify.com/artist/7g0SC4F149FUX5rKFuSpqL) | [EXCHANGE](https://open.spotify.com/album/2QZQ6HUp0WhpxpnkCqZrkw) | 2:54 | 2022-06-03 | 2022-07-23 |
+| [Falling Star](https://open.spotify.com/track/3GVQ2ND6tAWHeQemkgpRPe) | [AKIA](https://open.spotify.com/artist/4TiHWoAwePhDOFuPpcls06) | [Falling Star](https://open.spotify.com/album/116nCdc2grKmlE7TWqzeK6) | 3:04 | 2026-11-24 |  |
 | [Famous](https://open.spotify.com/track/5GwRqgaU2hHhl7WPD22jUw) | [DDG](https://open.spotify.com/artist/0WK3H9OErSn5zKOkOV5egm) | [Maybe It's Me...](https://open.spotify.com/album/6WDECo2zMUYFcsNffGH6Gx) | 3:46 | 2023-07-14 | 2024-01-10 |
 | [FAR AWAY](https://open.spotify.com/track/0TTzrBufRSH2B0xGzpvVbT) | [Gyakie](https://open.spotify.com/artist/1zO1FWFxxNUCqUuGATxZQZ) | [MY DIARY \- EP](https://open.spotify.com/album/2AtDDefSJveMubpGuqch1r) | 3:15 | 2022-07-22 | 2022-12-10 |
 | [Fast Asleep](https://open.spotify.com/track/4EMW9BdGJ8avDfuab1ostA) | [GIVĒON](https://open.spotify.com/artist/4fxd5Ee7UefO4CUXgwJ7IP) | [Fast Asleep](https://open.spotify.com/album/3W4zbFnTRn0dUvkzm8HjLd) | 3:00 | 2026-11-24 |  |
@@ -233,6 +236,7 @@
 | [psychofreak \(feat\. WILLOW\)](https://open.spotify.com/track/705dwKmZCd7ImAUyyD6Mpm) | [Camila Cabello](https://open.spotify.com/artist/4nDoRrQiYLoBzwC5BhVJzF), [WILLOW](https://open.spotify.com/artist/3rWZHrfrsPBxVy692yAIxF) | [Familia](https://open.spotify.com/album/5Nn3fX7CuJo7tbibtqASmf) | 3:21 | 2022-04-08 | 2022-11-05 |
 | [Put In Work \(feat\. Dusty Locane\)](https://open.spotify.com/track/2VOgN0UIoBnWahApbZvyhG) | [Badda TD](https://open.spotify.com/artist/57GHC729HxFYHl1vGe1qaX), [DJ Drama](https://open.spotify.com/artist/5oNgAs7j5XcBMzWv3HAnHG), [DUSTY LOCANE](https://open.spotify.com/artist/22hWz22JAmIhIEp0u1X01L) | [The World Is Yours: Gangsta Grillz](https://open.spotify.com/album/2G7OtfI3kpgfQNvnH9Sq9h) | 2:26 | 2022-07-08 | 2024-01-10 |
 | [redrum](https://open.spotify.com/track/52eIcoLUM25zbQupAZYoFh) | [21 Savage](https://open.spotify.com/artist/1URnnhqYAYcrqrcwql10ft) | [american dream](https://open.spotify.com/album/2RRYaYHY7fIIdvFlvgb5vq) | 4:30 | 2024-01-16 | 2026-11-07 |
+| [RHYNO](https://open.spotify.com/track/5mNueSkvPJqAHgnRbcvTt2) | [Travis Scott](https://open.spotify.com/artist/0Y5tJX1MQlPlqiwlOH1tJY) | [Grand Theft Auto VI: The Album \(Deluxe Edition\)](https://open.spotify.com/album/2O7j5mKjiyJRLNUo4RZKzs) | 3:00 | 2026-11-24 |  |
 | [Richer Than I Ever Been](https://open.spotify.com/track/6APhSotnV8vcCFG87XiYfo) | [Rick Ross](https://open.spotify.com/artist/1sBkRIssrMs1AbVkOJbc7a) | [Richer Than I Ever Been](https://open.spotify.com/album/5cZ23u1lWxszHiUokH6LnJ) | 2:52 | 2021-12-10 | 2022-06-25 |
 | [Robbin Season](https://open.spotify.com/track/4OCpoiyhEEU3OKqEbK8I9w) | [21 Lil Harold](https://open.spotify.com/artist/6X9Dt3dsZDeWzMBfekaoPB) | [Robbin Season](https://open.spotify.com/album/0V05mnCOmigJqCV2b2s4FV) | 1:55 | 2022-11-04 | 2022-11-19 |
 | [Roles Reversed](https://open.spotify.com/track/7iinMLIDWw5QA7d6x0d5HJ) | [Mimi Webb](https://open.spotify.com/artist/3GxKJzJK4LpsYGXQrw77wz) | [Roles Reversed](https://open.spotify.com/album/2RFdnVvLdNioN4fw42fPfr) | 3:45 | 2023-02-21 | 2023-04-29 |
@@ -294,6 +298,7 @@
 | [Wadup Wadup](https://open.spotify.com/track/0XnPxNGx6IwIP7ohagjtN2) | [Real Boston Richey](https://open.spotify.com/artist/1iwUuIOKYjV7SKIg27v4zi) | [Wadup Wadup](https://open.spotify.com/album/2mAdatqGcHJBeIwt1A7OqQ) | 2:22 | 2026-11-24 |  |
 | [WAIT FOR U \(feat\. Drake & Tems\)](https://open.spotify.com/track/59nOXPmaKlBfGMDeOVGrIK) | [Future](https://open.spotify.com/artist/1RyvyyTE3xzB2ZywiAwp0i), [Drake](https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4), [Tems](https://open.spotify.com/artist/687cZJR45JO7jhk1LHIbgq) | [I NEVER LIKED YOU](https://open.spotify.com/album/6tE9Dnp2zInFij4jKssysL) | 3:09 | 2022-04-29 | 2026-11-07 |
 | [WANNABE](https://open.spotify.com/track/39MVjtmCAbQPxOhqzKarUB) | [Melvoni](https://open.spotify.com/artist/01Kz5ab1oYMaey58CaGTxA) | [WANNABE](https://open.spotify.com/album/6lyWUsY9aT7YqAVEAKOcvo) | 2:14 | 2023-07-07 | 2024-01-10 |
+| [Wash \(feat\. HILLARI\)](https://open.spotify.com/track/6vQqtIxxXg8MiIHEhQaFNO) | [Tori Kelly](https://open.spotify.com/artist/1vSN1fsvrzpbttOYGsliDr), [HILLARI](https://open.spotify.com/artist/1bEzbwo8LkrDN0imp4dkEM) | [Wash \(feat\. HILLARI\)](https://open.spotify.com/album/3AW3TheYh6k1F1YWRUnsBb) | 3:13 | 2026-11-24 |  |
 | [Water](https://open.spotify.com/track/5aIVCx5tnk0ntmdiinnYvw) | [Tyla](https://open.spotify.com/artist/3SozjO3Lat463tQICI9LcE) | [Water](https://open.spotify.com/album/22sXXkKgjEuawIFL1e1tRw) | 3:20 | 2023-07-28 | 2026-11-07 |
 | [Way Too Long](https://open.spotify.com/track/499qzfPwb8DdacaTiHMqn9) | [Doe Boy](https://open.spotify.com/artist/6aLoJJxz7MV2iZ423S8tJC) | [Way Too Long](https://open.spotify.com/album/0ImWPSvnRCmHoI6kjQGK4J) | 2:28 | 2024-01-09 | 2026-11-07 |
 | [Way Too Petty](https://open.spotify.com/track/5ObUmPrfvyC7IEOe3n8Z3J) | [DDG](https://open.spotify.com/artist/0WK3H9OErSn5zKOkOV5egm) | [Way Too Petty](https://open.spotify.com/album/5jd5UY4vC6PoWb3Iw4owqF) | 2:12 | 2023-02-24 | 2023-04-09 |

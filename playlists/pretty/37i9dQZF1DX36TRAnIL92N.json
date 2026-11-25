@@ -1,12 +1,12 @@
 {
   "description": "High energy Techno to boost your workout.",
-  "num_followers": 520133,
+  "num_followers": 520329,
   "original_name": "Techno Workout",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAPk5MpJz9FghRW3DSncrnku9tuZ5",
+  "snapshot_id": "AAAAACpHTw+RsLzr0C76amF+bcPJfAVA",
   "tracks": [
     {
       "added_at": "2026-11-20 20:12:02",
@@ -395,26 +395,6 @@
     {
       "added_at": "2026-11-20 20:12:02",
       "album": {
-        "name": "No Limit",
-        "url": "https://open.spotify.com/album/5OGsScd09uGjfN2uLH1glz"
-      },
-      "artists": [
-        {
-          "name": "999999999",
-          "url": "https://open.spotify.com/artist/6uD2LjPHUjxrpax0se17Nc"
-        },
-        {
-          "name": "FLKN",
-          "url": "https://open.spotify.com/artist/3OyQ9AeMFgwKFHUgBOISww"
-        }
-      ],
-      "duration_ms": 219870,
-      "name": "No Limit",
-      "url": "https://open.spotify.com/track/1eUkZEhwbZkkhNfgA1qVyA"
-    },
-    {
-      "added_at": "2026-11-20 20:12:02",
-      "album": {
         "name": "SCANDAL ANTHEM",
         "url": "https://open.spotify.com/album/1KGIRYw9xdet38N9JKZp7l"
       },
@@ -431,6 +411,26 @@
       "duration_ms": 244500,
       "name": "SCANDAL ANTHEM",
       "url": "https://open.spotify.com/track/08DchrgnFXBD6H142l4tvY"
+    },
+    {
+      "added_at": "2026-11-20 20:12:02",
+      "album": {
+        "name": "No Limit",
+        "url": "https://open.spotify.com/album/5OGsScd09uGjfN2uLH1glz"
+      },
+      "artists": [
+        {
+          "name": "999999999",
+          "url": "https://open.spotify.com/artist/6uD2LjPHUjxrpax0se17Nc"
+        },
+        {
+          "name": "FLKN",
+          "url": "https://open.spotify.com/artist/3OyQ9AeMFgwKFHUgBOISww"
+        }
+      ],
+      "duration_ms": 219870,
+      "name": "No Limit",
+      "url": "https://open.spotify.com/track/1eUkZEhwbZkkhNfgA1qVyA"
     },
     {
       "added_at": "2026-11-20 20:12:02",
@@ -507,26 +507,6 @@
     {
       "added_at": "2026-11-20 20:12:02",
       "album": {
-        "name": "Amor EP",
-        "url": "https://open.spotify.com/album/6v50qNzxBH7PI4rHsamjVX"
-      },
-      "artists": [
-        {
-          "name": "Charlotte de Witte",
-          "url": "https://open.spotify.com/artist/1lJhME1ZpzsEa5M0wW6Mso"
-        },
-        {
-          "name": "CERES",
-          "url": "https://open.spotify.com/artist/32kPQzj1rk4nnGIIJpIUic"
-        }
-      ],
-      "duration_ms": 372293,
-      "name": "Amor (feat. CERES)",
-      "url": "https://open.spotify.com/track/4UhxekskWFXSv9ik933yBv"
-    },
-    {
-      "added_at": "2026-11-20 20:12:02",
-      "album": {
         "name": "Voices In My Head (Amelie Lens Remix)",
         "url": "https://open.spotify.com/album/0Vuh5UNwqz3ObGMGhCiQr9"
       },
@@ -551,6 +531,26 @@
       "duration_ms": 192011,
       "name": "Voices In My Head - Amelie Lens Remix",
       "url": "https://open.spotify.com/track/13O1dd0pQzohHTKVBzCo54"
+    },
+    {
+      "added_at": "2026-11-20 20:12:02",
+      "album": {
+        "name": "Amor EP",
+        "url": "https://open.spotify.com/album/6v50qNzxBH7PI4rHsamjVX"
+      },
+      "artists": [
+        {
+          "name": "Charlotte de Witte",
+          "url": "https://open.spotify.com/artist/1lJhME1ZpzsEa5M0wW6Mso"
+        },
+        {
+          "name": "CERES",
+          "url": "https://open.spotify.com/artist/32kPQzj1rk4nnGIIJpIUic"
+        }
+      ],
+      "duration_ms": 372293,
+      "name": "Amor (feat. CERES)",
+      "url": "https://open.spotify.com/track/4UhxekskWFXSv9ik933yBv"
     },
     {
       "added_at": "2026-11-20 20:12:02",
@@ -607,6 +607,22 @@
     {
       "added_at": "2026-11-20 20:12:02",
       "album": {
+        "name": "Legacy",
+        "url": "https://open.spotify.com/album/3e337N4JrILh8eZsyjAL2b"
+      },
+      "artists": [
+        {
+          "name": "Sara Landry",
+          "url": "https://open.spotify.com/artist/7eILArMiTFTQf8SEh5fFHK"
+        }
+      ],
+      "duration_ms": 409000,
+      "name": "Legacy",
+      "url": "https://open.spotify.com/track/0aMonkh8OKgqx1K0viRHRT"
+    },
+    {
+      "added_at": "2026-11-20 20:12:02",
+      "album": {
         "name": "One Mind EP",
         "url": "https://open.spotify.com/album/6vEeCQvbjq8gK5IlhLOmkm"
       },
@@ -623,22 +639,6 @@
       "duration_ms": 345605,
       "name": "One Mind",
       "url": "https://open.spotify.com/track/2Y2Ydnk6XPTe4IpOTNs5Xh"
-    },
-    {
-      "added_at": "2026-11-20 20:12:02",
-      "album": {
-        "name": "Legacy",
-        "url": "https://open.spotify.com/album/3e337N4JrILh8eZsyjAL2b"
-      },
-      "artists": [
-        {
-          "name": "Sara Landry",
-          "url": "https://open.spotify.com/artist/7eILArMiTFTQf8SEh5fFHK"
-        }
-      ],
-      "duration_ms": 409000,
-      "name": "Legacy",
-      "url": "https://open.spotify.com/track/0aMonkh8OKgqx1K0viRHRT"
     },
     {
       "added_at": "2026-11-20 20:12:02",
@@ -703,6 +703,22 @@
     {
       "added_at": "2026-11-20 20:12:02",
       "album": {
+        "name": "Rave Harder Techno Bass",
+        "url": "https://open.spotify.com/album/0GbjMnAZAeoHabYDB4IMYe"
+      },
+      "artists": [
+        {
+          "name": "Mark Dekoda",
+          "url": "https://open.spotify.com/artist/3FzG2HgsgPRfwpX1qSK1g8"
+        }
+      ],
+      "duration_ms": 360000,
+      "name": "Rave Harder Techno Bass",
+      "url": "https://open.spotify.com/track/1tkS8yt5NwTZkqFvZMxM0F"
+    },
+    {
+      "added_at": "2026-11-20 20:12:02",
+      "album": {
         "name": "Roar",
         "url": "https://open.spotify.com/album/0BPXNEhv63ppBbjcR47Xyp"
       },
@@ -735,22 +751,6 @@
       "duration_ms": 205714,
       "name": "Frequency",
       "url": "https://open.spotify.com/track/2X9niMzzXId2fNe3wu6l2e"
-    },
-    {
-      "added_at": "2026-11-20 20:12:02",
-      "album": {
-        "name": "Rave Harder Techno Bass",
-        "url": "https://open.spotify.com/album/0GbjMnAZAeoHabYDB4IMYe"
-      },
-      "artists": [
-        {
-          "name": "Mark Dekoda",
-          "url": "https://open.spotify.com/artist/3FzG2HgsgPRfwpX1qSK1g8"
-        }
-      ],
-      "duration_ms": 360000,
-      "name": "Rave Harder Techno Bass",
-      "url": "https://open.spotify.com/track/1tkS8yt5NwTZkqFvZMxM0F"
     },
     {
       "added_at": "2026-11-20 20:12:02",
@@ -907,26 +907,6 @@
     {
       "added_at": "2026-11-20 20:12:02",
       "album": {
-        "name": "Unterwelt",
-        "url": "https://open.spotify.com/album/5yypfe1KcGuSDSQiK4X9Fd"
-      },
-      "artists": [
-        {
-          "name": "KUKO",
-          "url": "https://open.spotify.com/artist/4sCQPElBVBfJNFGydeWwnU"
-        },
-        {
-          "name": "Frauenarzt",
-          "url": "https://open.spotify.com/artist/38KSpOSYnwQX9zcOcVKdym"
-        }
-      ],
-      "duration_ms": 165095,
-      "name": "Unterwelt",
-      "url": "https://open.spotify.com/track/58QTtL8VKZYcRQKZdECXJh"
-    },
-    {
-      "added_at": "2026-11-20 20:12:02",
-      "album": {
         "name": "Heaven",
         "url": "https://open.spotify.com/album/1ZDVL85CeBfljGDtwOVvW9"
       },
@@ -947,6 +927,26 @@
     {
       "added_at": "2026-11-20 20:12:02",
       "album": {
+        "name": "Unterwelt",
+        "url": "https://open.spotify.com/album/5yypfe1KcGuSDSQiK4X9Fd"
+      },
+      "artists": [
+        {
+          "name": "KUKO",
+          "url": "https://open.spotify.com/artist/4sCQPElBVBfJNFGydeWwnU"
+        },
+        {
+          "name": "Frauenarzt",
+          "url": "https://open.spotify.com/artist/38KSpOSYnwQX9zcOcVKdym"
+        }
+      ],
+      "duration_ms": 165095,
+      "name": "Unterwelt",
+      "url": "https://open.spotify.com/track/58QTtL8VKZYcRQKZdECXJh"
+    },
+    {
+      "added_at": "2026-11-20 20:12:02",
+      "album": {
         "name": "Believe",
         "url": "https://open.spotify.com/album/3vUbTHFU39OGMaJ3VGD98N"
       },
@@ -963,18 +963,26 @@
     {
       "added_at": "2026-11-20 20:12:02",
       "album": {
-        "name": "La Vida Loca",
-        "url": "https://open.spotify.com/album/1aFM7DwLHZEsqTTyBF0aaj"
+        "name": "Mercury",
+        "url": "https://open.spotify.com/album/5q2bsjSrluBoWf3F61Fofp"
       },
       "artists": [
         {
-          "name": "Karla Blum",
-          "url": "https://open.spotify.com/artist/5NSpferwNVudjza91NaBjO"
+          "name": "HI-LO",
+          "url": "https://open.spotify.com/artist/0ETJQforv5OXgDgidQv9qd"
+        },
+        {
+          "name": "Space 92",
+          "url": "https://open.spotify.com/artist/6TVdVlY6irsNPkMHT2HkfD"
+        },
+        {
+          "name": "Oliver Heldens",
+          "url": "https://open.spotify.com/artist/5nki7yRhxgM509M5ADlN1p"
         }
       ],
-      "duration_ms": 182608,
-      "name": "La Vida Loca",
-      "url": "https://open.spotify.com/track/7G3YyjDSgzQ5qETgyyn2s9"
+      "duration_ms": 225346,
+      "name": "Mercury",
+      "url": "https://open.spotify.com/track/25dFcH5EsCJLMSmFDDJLT3"
     }
   ],
   "unique_name": "Techno Workout",

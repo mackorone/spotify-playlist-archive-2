@@ -1,12 +1,12 @@
 {
   "description": "Softer kinda <a href=\"spotify:genre:edm_dance\">dance</a>.",
-  "num_followers": 4011840,
+  "num_followers": 4011709,
   "original_name": "Chill Tracks",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAIan+je0u+qsHUIVipsnchyKDoMp",
+  "snapshot_id": "AAAAAHuPgcVn1+OdwhYStoDOMU7l+Lov",
   "tracks": [
     {
       "added_at": "2026-11-13 05:01:01",
@@ -251,22 +251,6 @@
     {
       "added_at": "2026-11-13 05:01:01",
       "album": {
-        "name": "Feel",
-        "url": "https://open.spotify.com/album/2kVboAU8NCpgRBT7VyHcK1"
-      },
-      "artists": [
-        {
-          "name": "Franky Rizardo",
-          "url": "https://open.spotify.com/artist/2UgphhGSlC9QWgaZWUOCkl"
-        }
-      ],
-      "duration_ms": 158769,
-      "name": "Feel",
-      "url": "https://open.spotify.com/track/3mxwrp5v4TcWK1T4MsXdcs"
-    },
-    {
-      "added_at": "2026-11-13 05:01:01",
-      "album": {
         "name": "Sweet Release",
         "url": "https://open.spotify.com/album/4zTXYBo17dUAANAVmiJLtO"
       },
@@ -279,6 +263,22 @@
       "duration_ms": 226101,
       "name": "Sweet Release",
       "url": "https://open.spotify.com/track/0C6Sbwuo42ebcvGWeWCSEq"
+    },
+    {
+      "added_at": "2026-11-13 05:01:01",
+      "album": {
+        "name": "Feel",
+        "url": "https://open.spotify.com/album/2kVboAU8NCpgRBT7VyHcK1"
+      },
+      "artists": [
+        {
+          "name": "Franky Rizardo",
+          "url": "https://open.spotify.com/artist/2UgphhGSlC9QWgaZWUOCkl"
+        }
+      ],
+      "duration_ms": 158769,
+      "name": "Feel",
+      "url": "https://open.spotify.com/track/3mxwrp5v4TcWK1T4MsXdcs"
     },
     {
       "added_at": "2026-11-13 05:01:01",
@@ -695,26 +695,6 @@
     {
       "added_at": "2026-11-13 05:01:01",
       "album": {
-        "name": "Caught Up In The Fire",
-        "url": "https://open.spotify.com/album/6stjuO04Rw5O2xqog9u8dA"
-      },
-      "artists": [
-        {
-          "name": "Ben B\u00f6hmer",
-          "url": "https://open.spotify.com/artist/5tDjiBYUsTqzd0RkTZxK7u"
-        },
-        {
-          "name": "JONAH",
-          "url": "https://open.spotify.com/artist/3Rmw0IldYoch0L6XmTjQO4"
-        }
-      ],
-      "duration_ms": 223538,
-      "name": "Caught Up In The Fire",
-      "url": "https://open.spotify.com/track/1cskXAWztObojI6r2j60Al"
-    },
-    {
-      "added_at": "2026-11-13 05:01:01",
-      "album": {
         "name": "Aether",
         "url": "https://open.spotify.com/album/24jwW4VYmuqawdcBOG6qY4"
       },
@@ -731,6 +711,26 @@
       "duration_ms": 252574,
       "name": "Everything Started Changing (feat. CLOVES)",
       "url": "https://open.spotify.com/track/4ZRvdi2lE8YHtkOuIL9doO"
+    },
+    {
+      "added_at": "2026-11-13 05:01:01",
+      "album": {
+        "name": "Caught Up In The Fire",
+        "url": "https://open.spotify.com/album/6stjuO04Rw5O2xqog9u8dA"
+      },
+      "artists": [
+        {
+          "name": "Ben B\u00f6hmer",
+          "url": "https://open.spotify.com/artist/5tDjiBYUsTqzd0RkTZxK7u"
+        },
+        {
+          "name": "JONAH",
+          "url": "https://open.spotify.com/artist/3Rmw0IldYoch0L6XmTjQO4"
+        }
+      ],
+      "duration_ms": 223538,
+      "name": "Caught Up In The Fire",
+      "url": "https://open.spotify.com/track/1cskXAWztObojI6r2j60Al"
     },
     {
       "added_at": "2026-11-13 05:01:01",
@@ -1047,18 +1047,18 @@
     {
       "added_at": "2026-11-13 05:01:01",
       "album": {
-        "name": "Fever",
-        "url": "https://open.spotify.com/album/0IjEqIRJmcXs3ORWF0Jd1C"
+        "name": "22",
+        "url": "https://open.spotify.com/album/25v8BAk8pokWmaNJUDOPCD"
       },
       "artists": [
         {
-          "name": "Emmit Fenn",
-          "url": "https://open.spotify.com/artist/3VVLqeEqQQqTgT8YhfY9Z6"
+          "name": "m\u00f6lly",
+          "url": "https://open.spotify.com/artist/6Xu5UlsnkfZs7hVBR9Gmxq"
         }
       ],
-      "duration_ms": 228880,
-      "name": "Fever",
-      "url": "https://open.spotify.com/track/0v5cEbbd2EYqE9XPlTUZ2Y"
+      "duration_ms": 265250,
+      "name": "drops of oil",
+      "url": "https://open.spotify.com/track/7xgZIzO9ErlxhnL2KQ8qhp"
     },
     {
       "added_at": "2026-11-13 05:01:01",
@@ -1083,6 +1083,22 @@
     {
       "added_at": "2026-11-13 05:01:01",
       "album": {
+        "name": "Fever",
+        "url": "https://open.spotify.com/album/0IjEqIRJmcXs3ORWF0Jd1C"
+      },
+      "artists": [
+        {
+          "name": "Emmit Fenn",
+          "url": "https://open.spotify.com/artist/3VVLqeEqQQqTgT8YhfY9Z6"
+        }
+      ],
+      "duration_ms": 228880,
+      "name": "Fever",
+      "url": "https://open.spotify.com/track/0v5cEbbd2EYqE9XPlTUZ2Y"
+    },
+    {
+      "added_at": "2026-11-13 05:01:01",
+      "album": {
         "name": "We Are Always Under The Same Sky",
         "url": "https://open.spotify.com/album/0SpZZ8NyMsk2xlKrp9rBkJ"
       },
@@ -1103,18 +1119,22 @@
     {
       "added_at": "2026-11-13 05:01:01",
       "album": {
-        "name": "22",
-        "url": "https://open.spotify.com/album/25v8BAk8pokWmaNJUDOPCD"
+        "name": "KYGO",
+        "url": "https://open.spotify.com/album/5BrjR0P59l9SsbODztqs3q"
       },
       "artists": [
         {
-          "name": "m\u00f6lly",
-          "url": "https://open.spotify.com/artist/6Xu5UlsnkfZs7hVBR9Gmxq"
+          "name": "Kygo",
+          "url": "https://open.spotify.com/artist/23fqKkggKUBHNkbKtXEls4"
+        },
+        {
+          "name": "Emmit Fenn",
+          "url": "https://open.spotify.com/artist/3VVLqeEqQQqTgT8YhfY9Z6"
         }
       ],
-      "duration_ms": 265250,
-      "name": "drops of oil",
-      "url": "https://open.spotify.com/track/7xgZIzO9ErlxhnL2KQ8qhp"
+      "duration_ms": 258517,
+      "name": "Hold On",
+      "url": "https://open.spotify.com/track/61UHYLpt5koa0wHhw3n6Uz"
     },
     {
       "added_at": "2026-11-13 05:01:01",
@@ -1135,26 +1155,6 @@
       "duration_ms": 248571,
       "name": "Spirit Bird",
       "url": "https://open.spotify.com/track/3y5Ufbqnrdpp2wUsaDpPuS"
-    },
-    {
-      "added_at": "2026-11-13 05:01:01",
-      "album": {
-        "name": "KYGO",
-        "url": "https://open.spotify.com/album/5BrjR0P59l9SsbODztqs3q"
-      },
-      "artists": [
-        {
-          "name": "Kygo",
-          "url": "https://open.spotify.com/artist/23fqKkggKUBHNkbKtXEls4"
-        },
-        {
-          "name": "Emmit Fenn",
-          "url": "https://open.spotify.com/artist/3VVLqeEqQQqTgT8YhfY9Z6"
-        }
-      ],
-      "duration_ms": 258517,
-      "name": "Hold On",
-      "url": "https://open.spotify.com/track/61UHYLpt5koa0wHhw3n6Uz"
     },
     {
       "added_at": "2026-11-13 05:01:01",
@@ -1459,22 +1459,6 @@
     {
       "added_at": "2026-11-13 05:01:01",
       "album": {
-        "name": "Sewn",
-        "url": "https://open.spotify.com/album/4r51uVlWZVOutNSvswb0NH"
-      },
-      "artists": [
-        {
-          "name": "Kidnap",
-          "url": "https://open.spotify.com/artist/3PvqCbhNlq96JXxPszCMZT"
-        }
-      ],
-      "duration_ms": 212903,
-      "name": "Sewn",
-      "url": "https://open.spotify.com/track/5HK5WzgL0w9KS8tqsyGcdM"
-    },
-    {
-      "added_at": "2026-11-13 05:01:01",
-      "album": {
         "name": "Next To You",
         "url": "https://open.spotify.com/album/6M6bP82QvaUCx7AanqLBub"
       },
@@ -1487,6 +1471,22 @@
       "duration_ms": 203572,
       "name": "Next To You",
       "url": "https://open.spotify.com/track/0Zo0QQMAV1zsImiaol6pI7"
+    },
+    {
+      "added_at": "2026-11-13 05:01:01",
+      "album": {
+        "name": "Sewn",
+        "url": "https://open.spotify.com/album/4r51uVlWZVOutNSvswb0NH"
+      },
+      "artists": [
+        {
+          "name": "Kidnap",
+          "url": "https://open.spotify.com/artist/3PvqCbhNlq96JXxPszCMZT"
+        }
+      ],
+      "duration_ms": 212903,
+      "name": "Sewn",
+      "url": "https://open.spotify.com/track/5HK5WzgL0w9KS8tqsyGcdM"
     },
     {
       "added_at": "2026-11-13 05:01:01",
@@ -1527,22 +1527,6 @@
     {
       "added_at": "2026-11-13 05:01:01",
       "album": {
-        "name": "Call You Mine",
-        "url": "https://open.spotify.com/album/7iXSdSRYkTLShwvWdy2mbH"
-      },
-      "artists": [
-        {
-          "name": "HNE",
-          "url": "https://open.spotify.com/artist/2AR90aUsAcUfWSUtBCktSP"
-        }
-      ],
-      "duration_ms": 209696,
-      "name": "Call You Mine",
-      "url": "https://open.spotify.com/track/6qG5GRLvLtpT7uajaQO8UO"
-    },
-    {
-      "added_at": "2026-11-13 05:01:01",
-      "album": {
         "name": "AMi Vol. 1",
         "url": "https://open.spotify.com/album/4yZVkEpL1rV8n4KmSINpYb"
       },
@@ -1559,6 +1543,22 @@
       "duration_ms": 250533,
       "name": "Outline",
       "url": "https://open.spotify.com/track/2Eb6bBgGcVm83xjI2IaTlr"
+    },
+    {
+      "added_at": "2026-11-13 05:01:01",
+      "album": {
+        "name": "Call You Mine",
+        "url": "https://open.spotify.com/album/7iXSdSRYkTLShwvWdy2mbH"
+      },
+      "artists": [
+        {
+          "name": "HNE",
+          "url": "https://open.spotify.com/artist/2AR90aUsAcUfWSUtBCktSP"
+        }
+      ],
+      "duration_ms": 209696,
+      "name": "Call You Mine",
+      "url": "https://open.spotify.com/track/6qG5GRLvLtpT7uajaQO8UO"
     },
     {
       "added_at": "2026-11-13 05:01:01",
@@ -1619,22 +1619,6 @@
     {
       "added_at": "2026-11-13 05:01:01",
       "album": {
-        "name": "Light up my dark",
-        "url": "https://open.spotify.com/album/29f7ve7ZoQdX6GXA1nJpwA"
-      },
-      "artists": [
-        {
-          "name": "Monolink",
-          "url": "https://open.spotify.com/artist/2I4hRNCYkPKJQlkoEZKjYx"
-        }
-      ],
-      "duration_ms": 208937,
-      "name": "Light up my dark",
-      "url": "https://open.spotify.com/track/7rjw941RoxmJD9v4nuPUQW"
-    },
-    {
-      "added_at": "2026-11-13 05:01:01",
-      "album": {
         "name": "This Is Our Life",
         "url": "https://open.spotify.com/album/5c2ObU6rZacorATcxejYZL"
       },
@@ -1651,6 +1635,22 @@
       "duration_ms": 268560,
       "name": "This Is Our Life",
       "url": "https://open.spotify.com/track/65XobPwmYWts99hE2UFSA3"
+    },
+    {
+      "added_at": "2026-11-13 05:01:01",
+      "album": {
+        "name": "Light up my dark",
+        "url": "https://open.spotify.com/album/29f7ve7ZoQdX6GXA1nJpwA"
+      },
+      "artists": [
+        {
+          "name": "Monolink",
+          "url": "https://open.spotify.com/artist/2I4hRNCYkPKJQlkoEZKjYx"
+        }
+      ],
+      "duration_ms": 208937,
+      "name": "Light up my dark",
+      "url": "https://open.spotify.com/track/7rjw941RoxmJD9v4nuPUQW"
     },
     {
       "added_at": "2026-11-13 05:01:01",
@@ -1691,26 +1691,6 @@
     {
       "added_at": "2026-11-13 05:01:01",
       "album": {
-        "name": "Fire To The Water",
-        "url": "https://open.spotify.com/album/04iAq9moWG9qAJhTfeiRUV"
-      },
-      "artists": [
-        {
-          "name": "Hugo Cantarra",
-          "url": "https://open.spotify.com/artist/7bI21Y9xsFRFVtt3cWf73n"
-        },
-        {
-          "name": "Eli & Fur",
-          "url": "https://open.spotify.com/artist/5CkVLGKUJkIc1pmSk10QP4"
-        }
-      ],
-      "duration_ms": 222148,
-      "name": "Fire To The Water",
-      "url": "https://open.spotify.com/track/27UCnwXjQnIhBaqdJgYvCi"
-    },
-    {
-      "added_at": "2026-11-13 05:01:01",
-      "album": {
         "name": "Sand",
         "url": "https://open.spotify.com/album/3L9lCGNvkCwtcSDPs0u00i"
       },
@@ -1727,6 +1707,26 @@
       "duration_ms": 226595,
       "name": "Sand",
       "url": "https://open.spotify.com/track/3sUeymnLUYDxqUcCQa1yxt"
+    },
+    {
+      "added_at": "2026-11-13 05:01:01",
+      "album": {
+        "name": "Fire To The Water",
+        "url": "https://open.spotify.com/album/04iAq9moWG9qAJhTfeiRUV"
+      },
+      "artists": [
+        {
+          "name": "Hugo Cantarra",
+          "url": "https://open.spotify.com/artist/7bI21Y9xsFRFVtt3cWf73n"
+        },
+        {
+          "name": "Eli & Fur",
+          "url": "https://open.spotify.com/artist/5CkVLGKUJkIc1pmSk10QP4"
+        }
+      ],
+      "duration_ms": 222148,
+      "name": "Fire To The Water",
+      "url": "https://open.spotify.com/track/27UCnwXjQnIhBaqdJgYvCi"
     },
     {
       "added_at": "2026-11-13 05:01:01",
@@ -1911,22 +1911,6 @@
     {
       "added_at": "2026-11-13 05:01:01",
       "album": {
-        "name": "Breathing",
-        "url": "https://open.spotify.com/album/1bMQCZWPYlLqZP7jiurMan"
-      },
-      "artists": [
-        {
-          "name": "Ourson",
-          "url": "https://open.spotify.com/artist/66MHOWX8McW33r6RTu49ZY"
-        }
-      ],
-      "duration_ms": 204419,
-      "name": "Breathing",
-      "url": "https://open.spotify.com/track/4u53O1CMHzbuKjO9fGcGQV"
-    },
-    {
-      "added_at": "2026-11-13 05:01:01",
-      "album": {
         "name": "To The Heart / We Go Again",
         "url": "https://open.spotify.com/album/1HPZApJZpFhqV4WFtnjRkR"
       },
@@ -1947,6 +1931,30 @@
       "duration_ms": 234840,
       "name": "To The Heart",
       "url": "https://open.spotify.com/track/0RNeb4gmJf1I5InimrUl91"
+    },
+    {
+      "added_at": "2026-11-13 05:01:01",
+      "album": {
+        "name": "HARMONY",
+        "url": "https://open.spotify.com/album/1A9nBNZ1kAiRCLPJc9Vtb4"
+      },
+      "artists": [
+        {
+          "name": "UN Chamber Music Society",
+          "url": "https://open.spotify.com/artist/0XQ5BQl5Flub2d1xLAPj41"
+        },
+        {
+          "name": "Brenda Vongova",
+          "url": "https://open.spotify.com/artist/4rLrQtQ3P20peYEv005X6r"
+        },
+        {
+          "name": "Sultan + Shepard",
+          "url": "https://open.spotify.com/artist/14Tg9FvbNismPR1PJHxRau"
+        }
+      ],
+      "duration_ms": 303542,
+      "name": "RnR (UN Chamber Music Society arrangement) - Remix",
+      "url": "https://open.spotify.com/track/0rkKla01DvtHeJSdSbqqjP"
     }
   ],
   "unique_name": "Chill Tracks",

@@ -1,12 +1,12 @@
 {
   "description": "Unforgettable love songs from the 1960s.",
-  "num_followers": 267886,
+  "num_followers": 267904,
   "original_name": "60s Love Songs",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAALrFMvK+fqnrcJcA/+ogr3g0v/lt",
+  "snapshot_id": "AAAAAFsfPObLYOI5oaQAGFE1QVzZrTtv",
   "tracks": [
     {
       "added_at": "2024-07-14 11:25:03",
@@ -647,22 +647,6 @@
     {
       "added_at": "2024-07-14 11:25:03",
       "album": {
-        "name": "The Definitive Collection",
-        "url": "https://open.spotify.com/album/0rgnbePrBYNFSaXnCZOcod"
-      },
-      "artists": [
-        {
-          "name": "Mary Wells",
-          "url": "https://open.spotify.com/artist/1cjZk1xXn3YCToNg3uJpA7"
-        }
-      ],
-      "duration_ms": 171400,
-      "name": "My Guy - Single Version",
-      "url": "https://open.spotify.com/track/7arXVtGNJPa7aOHiKOeUsl"
-    },
-    {
-      "added_at": "2024-07-14 11:25:03",
-      "album": {
         "name": "The Very Best of The Everly Brothers",
         "url": "https://open.spotify.com/album/4lmdDGcU5u1xk3GCcVJSYT"
       },
@@ -675,6 +659,22 @@
       "duration_ms": 144066,
       "name": "('Til) I Kissed You",
       "url": "https://open.spotify.com/track/2erTdgDOZmjJNaNhjhWXhJ"
+    },
+    {
+      "added_at": "2024-07-14 11:25:03",
+      "album": {
+        "name": "The Definitive Collection",
+        "url": "https://open.spotify.com/album/0rgnbePrBYNFSaXnCZOcod"
+      },
+      "artists": [
+        {
+          "name": "Mary Wells",
+          "url": "https://open.spotify.com/artist/1cjZk1xXn3YCToNg3uJpA7"
+        }
+      ],
+      "duration_ms": 171400,
+      "name": "My Guy - Single Version",
+      "url": "https://open.spotify.com/track/7arXVtGNJPa7aOHiKOeUsl"
     },
     {
       "added_at": "2024-07-14 11:25:03",

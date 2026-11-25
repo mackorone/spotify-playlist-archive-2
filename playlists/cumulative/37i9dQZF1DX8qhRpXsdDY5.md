@@ -4,7 +4,7 @@
 
 > Beloved Latin classics to get you in the Christmas spirit\. Cover: Luis Miguel
 
-245 songs - 14 hr 31 min
+246 songs - 14 hr 34 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -110,7 +110,7 @@
 | [I'll Be Home For Christmas](https://open.spotify.com/track/6SiKqI0vm3N5NBjdgM2V9m) | [Camila Cabello](https://open.spotify.com/artist/4nDoRrQiYLoBzwC5BhVJzF) | [I'll Be Home For Christmas](https://open.spotify.com/album/1ykaX41VLZd7U0sxa33csX) | 2:58 | 2022-12-18 | 2022-12-20 |
 | [I'll Be Home For Christmas/Estaré En Mi Casa Esta Navidad](https://open.spotify.com/track/1ZJxkMIYK2a681oSqG1QNi) | [Idina Menzel](https://open.spotify.com/artist/73Np75Wv2tju61Eo9Zw4IR), [David Bisbal](https://open.spotify.com/artist/5gOJTI4TusSENizxhcG7jB) | [I'll Be Home For Christmas/Estaré En Mi Casa Esta Navidad](https://open.spotify.com/album/0c4qQwNuYDVtcde6xDmNeS) | 3:58 | 2021-12-17 | 2022-12-19 |
 | [It's The Most Wonderful Time Of The Year](https://open.spotify.com/track/1h6z5tth4WJLopBk5Bd0qM) | [Reik](https://open.spotify.com/artist/0vR2qb8m9WHeZ5ByCbimq2) | [Nuestra Navidad](https://open.spotify.com/album/1O7QyLYHlgNncDGgjaDvR4) | 2:54 | 2021-12-17 | 2022-11-13 |
-| [Jesús](https://open.spotify.com/track/0tvj2F88KQi0rZDpneC5bp) | [Carla Morrison](https://open.spotify.com/artist/0XK6kT7xcZAlcYrNjOgzJe) | [La Niña del Tambor](https://open.spotify.com/album/74ffHQoDZJec5trpwgFdRu) | 4:26 | 2021-12-17 |  |
+| [Jesús](https://open.spotify.com/track/0tvj2F88KQi0rZDpneC5bp) | [Carla Morrison](https://open.spotify.com/artist/0XK6kT7xcZAlcYrNjOgzJe) | [La Niña del Tambor](https://open.spotify.com/album/74ffHQoDZJec5trpwgFdRu) | 4:26 | 2021-12-17 | 2026-11-25 |
 | [Jesús](https://open.spotify.com/track/6JvhcdWASA4kGcyxj71Kt4) | [Carla Morrison](https://open.spotify.com/artist/0XK6kT7xcZAlcYrNjOgzJe) | [La Niña del Tambor](https://open.spotify.com/album/0dHcppiUhQPo3gkiMvgpri) | 4:26 | 2021-12-17 | 2022-07-29 |
 | [Jingle Bell Rock](https://open.spotify.com/track/0Gv1UhtOeQToknqz6hi9CD) | [Matisse](https://open.spotify.com/artist/77aLk6J8ofnVxa1eXK9jiU) | [Nuestra Navidad](https://open.spotify.com/album/1O7QyLYHlgNncDGgjaDvR4) | 2:28 | 2021-12-17 |  |
 | [Jingle Bells](https://open.spotify.com/track/6voBv7BG3UcDZilIPRgCs5) | [Celia Cruz Y Sonora Matancera](https://open.spotify.com/artist/2SIEgkSbGYyOoF0bRaqdmY) | [Navidad Latina](https://open.spotify.com/album/60fNjIW0QDlu3x8s2XdBJn) | 2:22 | 2021-12-17 | 2022-07-29 |
@@ -136,6 +136,7 @@
 | [Llegó la Navidad](https://open.spotify.com/track/4NJS1xksQ2p0nJ5yNWx8Ak) | [Lupita Infante](https://open.spotify.com/artist/6tljZS5Y8cTsYagpA2pBpJ) | [Llegó la Navidad](https://open.spotify.com/album/7Hzii1J4Rqkleye5rg57KJ) | 2:09 | 2021-12-17 | 2022-12-06 |
 | [Llegó Navidad](https://open.spotify.com/track/2jLTyiQc2feKpFu3Ts325e) | [Los Lobos](https://open.spotify.com/artist/6OWapcJm9xd55ci9CYbAuT) | [Llegó Navidad](https://open.spotify.com/album/1U9KMlWgZVAghi8rk64qMd) | 4:00 | 2021-12-17 | 2022-12-19 |
 | [Llorarás en Navidad](https://open.spotify.com/track/5BgP3UYLNQI8QnaLHM2otE) | [Pablo Montero](https://open.spotify.com/artist/5LfXEvzfy6pPUcX1SclyA3) | [Navidad Mexicana](https://open.spotify.com/album/6Buy4rhHYa7wVcSN8fePK7) | 2:58 | 2022-12-19 |  |
+| [Los Peces En El Rio](https://open.spotify.com/track/21uQlJ4U7ogvSTH6JkyR9P) | [Pandora](https://open.spotify.com/artist/44nb9BaqV2jVvxKCaXHwlP) | [Eterna Navidad](https://open.spotify.com/album/19dK1Gq4fsFhoOXHdx5DPb) | 3:12 | 2025-12-04 |  |
 | [Los Peces en el Río](https://open.spotify.com/track/2z90VCXCVOH5SbaoVSnkjf) | [Pandora](https://open.spotify.com/artist/44nb9BaqV2jVvxKCaXHwlP) | [Navidad con Pandora](https://open.spotify.com/album/6A6jIdmnSirfsVE8D8ONJV) | 2:45 | 2022-12-19 |  |
 | [Los Peces En El Río](https://open.spotify.com/track/5p1pTmxWcGcCXO7czBADDB) | [RBD](https://open.spotify.com/artist/7cjh6y0V9SsyCrWSXTzwOs), [Anahí](https://open.spotify.com/artist/0TeVa4xdLB8vdzjsvKH6Ri), [Dulce María](https://open.spotify.com/artist/6kaefrHSdAvxhhCVDFTCEL), [Maite Perroni](https://open.spotify.com/artist/6ModsWtBph2rE6zCTVxvZt), [Christian Chávez](https://open.spotify.com/artist/0aMqt2uGLuHj4eI8oXgVzN), [Christopher von Uckermann](https://open.spotify.com/artist/5O8cudluftNZ6PCwRzvYxo), [Alfonso Herrera](https://open.spotify.com/artist/0veZkZPeWoJQ9gt6VAXlkN) | [Los Peces En El Río](https://open.spotify.com/album/2Xa5PK3vGkxnmonjoOBX89) | 2:36 | 2021-12-17 | 2022-12-19 |
 | [Macarena Christmas \- Joy Mix](https://open.spotify.com/track/00591zbq7tnVjtUWwAv2l4) | [Los Del Rio](https://open.spotify.com/artist/2JXn03fudjyRkQ1Ye9f5rk) | [Christmas Party](https://open.spotify.com/album/5zia3CV55WrS5QwEHWvFcY) | 4:13 | 2021-12-17 | 2022-07-29 |

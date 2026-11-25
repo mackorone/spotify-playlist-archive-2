@@ -1,12 +1,12 @@
 {
   "description": "Chasing that runner's high! ",
-  "num_followers": 736007,
+  "num_followers": 736038,
   "original_name": "Running Club",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAFNuOEJ54W9X7cUxU/DLb3+5XCLZ",
+  "snapshot_id": "AAAAAGlWOWYTsZ9A++VU4EErO3YWQnOb",
   "tracks": [
     {
       "added_at": "2026-11-13 04:00:41",
@@ -303,22 +303,6 @@
     {
       "added_at": "2026-11-13 04:00:41",
       "album": {
-        "name": "WOR$T GIRL IN AMERICA",
-        "url": "https://open.spotify.com/album/5siV9C6eK0NpAqER2FfCVA"
-      },
-      "artists": [
-        {
-          "name": "Slayyyter",
-          "url": "https://open.spotify.com/artist/4QM5QCHicznALtX885CnZC"
-        }
-      ],
-      "duration_ms": 287055,
-      "name": "DANCE...",
-      "url": "https://open.spotify.com/track/6Xp2Zm2sJLdODReZWBBifO"
-    },
-    {
-      "added_at": "2026-11-13 04:00:41",
-      "album": {
         "name": "Fancy Footwork",
         "url": "https://open.spotify.com/album/1alVbRjUS3mG2Uk2D6iflR"
       },
@@ -335,6 +319,22 @@
       "duration_ms": 192195,
       "name": "Fancy Footwork",
       "url": "https://open.spotify.com/track/0BK6ACxpzK8nkWa3YKuunX"
+    },
+    {
+      "added_at": "2026-11-13 04:00:41",
+      "album": {
+        "name": "WOR$T GIRL IN AMERICA",
+        "url": "https://open.spotify.com/album/5siV9C6eK0NpAqER2FfCVA"
+      },
+      "artists": [
+        {
+          "name": "Slayyyter",
+          "url": "https://open.spotify.com/artist/4QM5QCHicznALtX885CnZC"
+        }
+      ],
+      "duration_ms": 287055,
+      "name": "DANCE...",
+      "url": "https://open.spotify.com/track/6Xp2Zm2sJLdODReZWBBifO"
     },
     {
       "added_at": "2026-11-13 04:00:41",
@@ -1591,6 +1591,26 @@
     {
       "added_at": "2026-11-13 04:00:41",
       "album": {
+        "name": "Blood, Sweat & 3 Years",
+        "url": "https://open.spotify.com/album/1TgJXcoFJ7BN0NiViN7wtx"
+      },
+      "artists": [
+        {
+          "name": "Cash Cash",
+          "url": "https://open.spotify.com/artist/1LOB7jTeEV14pHai6EXSzF"
+        },
+        {
+          "name": "Bebe Rexha",
+          "url": "https://open.spotify.com/artist/64M6ah0SkkRsnPGtGiRAbb"
+        }
+      ],
+      "duration_ms": 205078,
+      "name": "Take Me Home (feat. Bebe Rexha)",
+      "url": "https://open.spotify.com/track/2zMXH5k5NZy1Nw460bLvRh"
+    },
+    {
+      "added_at": "2026-11-13 04:00:41",
+      "album": {
         "name": "Starlight (Skrillex & ring noord Remix)",
         "url": "https://open.spotify.com/album/4NOnqXQRLzTrFTtiAeqr8p"
       },
@@ -1615,26 +1635,6 @@
       "duration_ms": 175813,
       "name": "Starlight - Skrillex & ring noord Remix",
       "url": "https://open.spotify.com/track/3WklkZOb3WmOxv9Xj0qrS5"
-    },
-    {
-      "added_at": "2026-11-13 04:00:41",
-      "album": {
-        "name": "Blood, Sweat & 3 Years",
-        "url": "https://open.spotify.com/album/1TgJXcoFJ7BN0NiViN7wtx"
-      },
-      "artists": [
-        {
-          "name": "Cash Cash",
-          "url": "https://open.spotify.com/artist/1LOB7jTeEV14pHai6EXSzF"
-        },
-        {
-          "name": "Bebe Rexha",
-          "url": "https://open.spotify.com/artist/64M6ah0SkkRsnPGtGiRAbb"
-        }
-      ],
-      "duration_ms": 205078,
-      "name": "Take Me Home (feat. Bebe Rexha)",
-      "url": "https://open.spotify.com/track/2zMXH5k5NZy1Nw460bLvRh"
     },
     {
       "added_at": "2026-11-13 04:00:41",
@@ -1695,26 +1695,6 @@
     {
       "added_at": "2026-11-13 04:00:41",
       "album": {
-        "name": "Cerulean",
-        "url": "https://open.spotify.com/album/1YbqV9ng7vfzgGbhjR2FfQ"
-      },
-      "artists": [
-        {
-          "name": "Danny L Harle",
-          "url": "https://open.spotify.com/artist/1PNvaesh1mkKZucGhBuqgD"
-        },
-        {
-          "name": "Dua Lipa",
-          "url": "https://open.spotify.com/artist/6M2wZ9GZgrQXHCFfjv46we"
-        }
-      ],
-      "duration_ms": 232796,
-      "name": "Two Hearts",
-      "url": "https://open.spotify.com/track/58BZYJxcZbDngJbBQN7wdL"
-    },
-    {
-      "added_at": "2026-11-13 04:00:41",
-      "album": {
         "name": "Your Love (Diplo Remix)",
         "url": "https://open.spotify.com/album/7F4BBbbkJKAa0xxGKpzcvV"
       },
@@ -1731,6 +1711,26 @@
       "duration_ms": 155625,
       "name": "Your Love - Diplo Remix",
       "url": "https://open.spotify.com/track/4R3BIyY00WxYVZOmgrFp1Y"
+    },
+    {
+      "added_at": "2026-11-13 04:00:41",
+      "album": {
+        "name": "Cerulean",
+        "url": "https://open.spotify.com/album/1YbqV9ng7vfzgGbhjR2FfQ"
+      },
+      "artists": [
+        {
+          "name": "Danny L Harle",
+          "url": "https://open.spotify.com/artist/1PNvaesh1mkKZucGhBuqgD"
+        },
+        {
+          "name": "Dua Lipa",
+          "url": "https://open.spotify.com/artist/6M2wZ9GZgrQXHCFfjv46we"
+        }
+      ],
+      "duration_ms": 232796,
+      "name": "Two Hearts",
+      "url": "https://open.spotify.com/track/58BZYJxcZbDngJbBQN7wdL"
     },
     {
       "added_at": "2026-11-13 04:00:41",
@@ -2063,26 +2063,6 @@
     {
       "added_at": "2026-11-13 04:00:41",
       "album": {
-        "name": "Phoenix",
-        "url": "https://open.spotify.com/album/2pC7ak3YGdCBwNQLI7XSCx"
-      },
-      "artists": [
-        {
-          "name": "Marshmello",
-          "url": "https://open.spotify.com/artist/64KEffDW9EtZ1y2vBYgq8T"
-        },
-        {
-          "name": "Portugal. The Man",
-          "url": "https://open.spotify.com/artist/4kI8Ie27vjvonwaB2ePh8T"
-        }
-      ],
-      "duration_ms": 144501,
-      "name": "Phoenix",
-      "url": "https://open.spotify.com/track/351H9o2h92wpjsXJZghEPQ"
-    },
-    {
-      "added_at": "2026-11-13 04:00:41",
-      "album": {
         "name": "NO CAP",
         "url": "https://open.spotify.com/album/66zqMmj1KlxxgUhWJJyLqe"
       },
@@ -2103,22 +2083,22 @@
     {
       "added_at": "2026-11-13 04:00:41",
       "album": {
-        "name": "SOMA",
-        "url": "https://open.spotify.com/album/4vSNQ69cqRe2WgsdPXH3mv"
+        "name": "Phoenix",
+        "url": "https://open.spotify.com/album/2pC7ak3YGdCBwNQLI7XSCx"
       },
       "artists": [
         {
-          "name": "Skrillex",
-          "url": "https://open.spotify.com/artist/5he5w2lnU9x7JFhnwcekXX"
+          "name": "Marshmello",
+          "url": "https://open.spotify.com/artist/64KEffDW9EtZ1y2vBYgq8T"
         },
         {
-          "name": "Feid",
-          "url": "https://open.spotify.com/artist/2LRoIwlKmHjgvigdNGBHNo"
+          "name": "Portugal. The Man",
+          "url": "https://open.spotify.com/artist/4kI8Ie27vjvonwaB2ePh8T"
         }
       ],
-      "duration_ms": 203571,
-      "name": "Noche Without You",
-      "url": "https://open.spotify.com/track/00FMfKay6lHHQpFLTSaCZe"
+      "duration_ms": 144501,
+      "name": "Phoenix",
+      "url": "https://open.spotify.com/track/351H9o2h92wpjsXJZghEPQ"
     },
     {
       "added_at": "2026-11-13 04:00:41",
@@ -2147,6 +2127,26 @@
       "duration_ms": 354375,
       "name": "Reload - swedm\u00ae Remix",
       "url": "https://open.spotify.com/track/712AoRHqVcCsiHc3nn4CUK"
+    },
+    {
+      "added_at": "2026-11-13 04:00:41",
+      "album": {
+        "name": "SOMA",
+        "url": "https://open.spotify.com/album/4vSNQ69cqRe2WgsdPXH3mv"
+      },
+      "artists": [
+        {
+          "name": "Skrillex",
+          "url": "https://open.spotify.com/artist/5he5w2lnU9x7JFhnwcekXX"
+        },
+        {
+          "name": "Feid",
+          "url": "https://open.spotify.com/artist/2LRoIwlKmHjgvigdNGBHNo"
+        }
+      ],
+      "duration_ms": 203571,
+      "name": "Noche Without You",
+      "url": "https://open.spotify.com/track/00FMfKay6lHHQpFLTSaCZe"
     },
     {
       "added_at": "2026-11-13 04:00:41",
@@ -2519,6 +2519,26 @@
     {
       "added_at": "2026-11-13 04:00:41",
       "album": {
+        "name": "Deeper",
+        "url": "https://open.spotify.com/album/3lcEjL8STyQO8JipxsnIqP"
+      },
+      "artists": [
+        {
+          "name": "Disclosure",
+          "url": "https://open.spotify.com/artist/6nS5roXSAGhTGr34W6n7Et"
+        },
+        {
+          "name": "Leon Thomas",
+          "url": "https://open.spotify.com/artist/0nnBZ8FXWjG9wZgM2cpfeb"
+        }
+      ],
+      "duration_ms": 288159,
+      "name": "Deeper",
+      "url": "https://open.spotify.com/track/3hpuSKYKfjDPopXtU0OnWI"
+    },
+    {
+      "added_at": "2026-11-13 04:00:41",
+      "album": {
         "name": "Smoke",
         "url": "https://open.spotify.com/album/5NZawJNAy7ntRWNKlArhOe"
       },
@@ -2543,26 +2563,6 @@
       "duration_ms": 150653,
       "name": "Smoke",
       "url": "https://open.spotify.com/track/2KFJYXqd3fVEHfWSNhlTEp"
-    },
-    {
-      "added_at": "2026-11-13 04:00:41",
-      "album": {
-        "name": "Deeper",
-        "url": "https://open.spotify.com/album/3lcEjL8STyQO8JipxsnIqP"
-      },
-      "artists": [
-        {
-          "name": "Disclosure",
-          "url": "https://open.spotify.com/artist/6nS5roXSAGhTGr34W6n7Et"
-        },
-        {
-          "name": "Leon Thomas",
-          "url": "https://open.spotify.com/artist/0nnBZ8FXWjG9wZgM2cpfeb"
-        }
-      ],
-      "duration_ms": 288159,
-      "name": "Deeper",
-      "url": "https://open.spotify.com/track/3hpuSKYKfjDPopXtU0OnWI"
     },
     {
       "added_at": "2026-11-13 04:00:41",
@@ -2611,6 +2611,22 @@
     {
       "added_at": "2026-11-13 04:00:41",
       "album": {
+        "name": "Addicted",
+        "url": "https://open.spotify.com/album/3BxfwMC0HjWxk7muzxUqyk"
+      },
+      "artists": [
+        {
+          "name": "Jackie Hollander",
+          "url": "https://open.spotify.com/artist/5ykY9Uweo3gl5VFpb6z6pQ"
+        }
+      ],
+      "duration_ms": 163384,
+      "name": "Addicted",
+      "url": "https://open.spotify.com/track/14yugoFdkgO8ZUxLlX6fpJ"
+    },
+    {
+      "added_at": "2026-11-13 04:00:41",
+      "album": {
         "name": "I Wanna Go",
         "url": "https://open.spotify.com/album/3t1TE8ANrrQVau0Oeb3CIt"
       },
@@ -2627,22 +2643,6 @@
       "duration_ms": 126229,
       "name": "I Wanna Go",
       "url": "https://open.spotify.com/track/23eZSuMOfsr4tTWcC6DGcG"
-    },
-    {
-      "added_at": "2026-11-13 04:00:41",
-      "album": {
-        "name": "Addicted",
-        "url": "https://open.spotify.com/album/3BxfwMC0HjWxk7muzxUqyk"
-      },
-      "artists": [
-        {
-          "name": "Jackie Hollander",
-          "url": "https://open.spotify.com/artist/5ykY9Uweo3gl5VFpb6z6pQ"
-        }
-      ],
-      "duration_ms": 163384,
-      "name": "Addicted",
-      "url": "https://open.spotify.com/track/14yugoFdkgO8ZUxLlX6fpJ"
     },
     {
       "added_at": "2026-11-13 04:00:41",
@@ -2771,46 +2771,6 @@
     {
       "added_at": "2026-11-13 04:00:41",
       "album": {
-        "name": "One More Dance",
-        "url": "https://open.spotify.com/album/2SSda3QuEvaDIjaMhFEUoz"
-      },
-      "artists": [
-        {
-          "name": "Carlita",
-          "url": "https://open.spotify.com/artist/1GVbOnrND8b3eh2JZ4opw8"
-        },
-        {
-          "name": "Stevie Appleton",
-          "url": "https://open.spotify.com/artist/5qMHOzLlXeOEjOncWYtRfZ"
-        }
-      ],
-      "duration_ms": 230347,
-      "name": "One More Dance",
-      "url": "https://open.spotify.com/track/1yR4AWFlwkHzL9EkXu2SO9"
-    },
-    {
-      "added_at": "2026-11-13 04:00:41",
-      "album": {
-        "name": "thumbs",
-        "url": "https://open.spotify.com/album/49sl0vtr7UGlAlqPNi1UG8"
-      },
-      "artists": [
-        {
-          "name": "jigitz",
-          "url": "https://open.spotify.com/artist/7sfn5Z6ItzDkOF9cYzxWPZ"
-        },
-        {
-          "name": "Lambb",
-          "url": "https://open.spotify.com/artist/6mzQRecVBUMepkVGAhn6io"
-        }
-      ],
-      "duration_ms": 170800,
-      "name": "thumbs",
-      "url": "https://open.spotify.com/track/6vBfayVtFTjDg7eGKNPbrS"
-    },
-    {
-      "added_at": "2026-11-13 04:00:41",
-      "album": {
         "name": "one2three (feat. Leven Kali)",
         "url": "https://open.spotify.com/album/6VkJuZchHVpZDxGbLrTtdd"
       },
@@ -2835,6 +2795,26 @@
     {
       "added_at": "2026-11-13 04:00:41",
       "album": {
+        "name": "thumbs",
+        "url": "https://open.spotify.com/album/49sl0vtr7UGlAlqPNi1UG8"
+      },
+      "artists": [
+        {
+          "name": "jigitz",
+          "url": "https://open.spotify.com/artist/7sfn5Z6ItzDkOF9cYzxWPZ"
+        },
+        {
+          "name": "Lambb",
+          "url": "https://open.spotify.com/artist/6mzQRecVBUMepkVGAhn6io"
+        }
+      ],
+      "duration_ms": 170800,
+      "name": "thumbs",
+      "url": "https://open.spotify.com/track/6vBfayVtFTjDg7eGKNPbrS"
+    },
+    {
+      "added_at": "2026-11-13 04:00:41",
+      "album": {
         "name": "Entwined",
         "url": "https://open.spotify.com/album/4M45TZxg8HtnBwCDyqOb6B"
       },
@@ -2851,6 +2831,26 @@
       "duration_ms": 220689,
       "name": "Entwined",
       "url": "https://open.spotify.com/track/4hphReh7hXDCFb14FfB7n1"
+    },
+    {
+      "added_at": "2026-11-13 04:00:41",
+      "album": {
+        "name": "One More Dance",
+        "url": "https://open.spotify.com/album/2SSda3QuEvaDIjaMhFEUoz"
+      },
+      "artists": [
+        {
+          "name": "Carlita",
+          "url": "https://open.spotify.com/artist/1GVbOnrND8b3eh2JZ4opw8"
+        },
+        {
+          "name": "Stevie Appleton",
+          "url": "https://open.spotify.com/artist/5qMHOzLlXeOEjOncWYtRfZ"
+        }
+      ],
+      "duration_ms": 230347,
+      "name": "One More Dance",
+      "url": "https://open.spotify.com/track/1yR4AWFlwkHzL9EkXu2SO9"
     },
     {
       "added_at": "2026-11-13 04:00:41",
@@ -3031,22 +3031,22 @@
     {
       "added_at": "2026-11-13 04:00:41",
       "album": {
-        "name": "Come Find Me",
-        "url": "https://open.spotify.com/album/6N1oJNIThtU27PDGpo0Fnw"
+        "name": "Work That Body",
+        "url": "https://open.spotify.com/album/5b3wj0ilO8qUrd7FVF2Z1E"
       },
       "artists": [
         {
-          "name": "MK",
-          "url": "https://open.spotify.com/artist/1yqxFtPHKcGcv6SXZNdyT9"
+          "name": "Morgan Seatree",
+          "url": "https://open.spotify.com/artist/0GInfEJXl2kGPhSsVqEqXh"
         },
         {
-          "name": "Clementine Douglas",
-          "url": "https://open.spotify.com/artist/4DWuml4Jf6K81b5rAPwMb6"
+          "name": "Tasty Lopez",
+          "url": "https://open.spotify.com/artist/6bGjAU1yRMvrVDQsN9Awc0"
         }
       ],
-      "duration_ms": 207149,
-      "name": "Come Find Me (with Clementine Douglas)",
-      "url": "https://open.spotify.com/track/71Zw15qOwDpmQTPbFVPp13"
+      "duration_ms": 156000,
+      "name": "Work That Body",
+      "url": "https://open.spotify.com/track/7EUf9vKfrwh5NuG7djof4S"
     }
   ],
   "unique_name": "Running Club",

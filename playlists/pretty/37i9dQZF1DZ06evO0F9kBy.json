@@ -1,12 +1,12 @@
 {
   "description": "This is Matt Maher. The essential tracks, all in one playlist.",
-  "num_followers": 27955,
+  "num_followers": 27956,
   "original_name": "This Is Matt Maher",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "awIwgAAAAAAEVg7hNEsu5QGa4XK3NiW4",
+  "snapshot_id": "awOCAAAAAACvdZVzI6iZ/mky0JQr24pD",
   "tracks": [
     {
       "added_at": null,
@@ -347,26 +347,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "The Stories I Tell Myself",
-        "url": "https://open.spotify.com/album/6Kv4VGIplIgRTTQodGfdt4"
-      },
-      "artists": [
-        {
-          "name": "Matt Maher",
-          "url": "https://open.spotify.com/artist/1dPl8axUL09mso0myZqPZW"
-        },
-        {
-          "name": "Chris Brown",
-          "url": "https://open.spotify.com/artist/03NN8FAKofZU6phsfHLKPw"
-        }
-      ],
-      "duration_ms": 288706,
-      "name": "In the Room (feat. Chris Brown)",
-      "url": "https://open.spotify.com/track/68ENcNLZqN18ljpbNntTvV"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Come Thou Long Expected Jesus",
         "url": "https://open.spotify.com/album/0QQP4YRdP7RFj7ztCKXiWV"
       },
@@ -383,6 +363,26 @@
       "duration_ms": 236773,
       "name": "Come Thou Long Expected Jesus",
       "url": "https://open.spotify.com/track/0agSFjFJwEoVUQdtctsP2g"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "The Stories I Tell Myself",
+        "url": "https://open.spotify.com/album/6Kv4VGIplIgRTTQodGfdt4"
+      },
+      "artists": [
+        {
+          "name": "Matt Maher",
+          "url": "https://open.spotify.com/artist/1dPl8axUL09mso0myZqPZW"
+        },
+        {
+          "name": "Chris Brown",
+          "url": "https://open.spotify.com/artist/03NN8FAKofZU6phsfHLKPw"
+        }
+      ],
+      "duration_ms": 288706,
+      "name": "In the Room (feat. Chris Brown)",
+      "url": "https://open.spotify.com/track/68ENcNLZqN18ljpbNntTvV"
     },
     {
       "added_at": null,
@@ -479,18 +479,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "High Above It All",
-        "url": "https://open.spotify.com/album/4hFpf06z3e1rQliGp7EyQo"
+        "name": "Forever Amen",
+        "url": "https://open.spotify.com/album/4INKppNLM2RZwGmggvpMvY"
       },
       "artists": [
+        {
+          "name": "Steffany Gretzinger",
+          "url": "https://open.spotify.com/artist/2akNRvGNB400IDDUMr1PHW"
+        },
         {
           "name": "Matt Maher",
           "url": "https://open.spotify.com/artist/1dPl8axUL09mso0myZqPZW"
         }
       ],
-      "duration_ms": 241215,
-      "name": "High Above It All",
-      "url": "https://open.spotify.com/track/2e8glkLFyqnnyzZAWtS2A4"
+      "duration_ms": 261562,
+      "name": "Center of All History",
+      "url": "https://open.spotify.com/track/5RJ7qUnmGgOey1zv6tO5av"
     },
     {
       "added_at": null,
@@ -515,22 +519,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "Forever Amen",
-        "url": "https://open.spotify.com/album/4INKppNLM2RZwGmggvpMvY"
+        "name": "High Above It All",
+        "url": "https://open.spotify.com/album/4hFpf06z3e1rQliGp7EyQo"
       },
       "artists": [
-        {
-          "name": "Steffany Gretzinger",
-          "url": "https://open.spotify.com/artist/2akNRvGNB400IDDUMr1PHW"
-        },
         {
           "name": "Matt Maher",
           "url": "https://open.spotify.com/artist/1dPl8axUL09mso0myZqPZW"
         }
       ],
-      "duration_ms": 261562,
-      "name": "Center of All History",
-      "url": "https://open.spotify.com/track/5RJ7qUnmGgOey1zv6tO5av"
+      "duration_ms": 241215,
+      "name": "High Above It All",
+      "url": "https://open.spotify.com/track/2e8glkLFyqnnyzZAWtS2A4"
     },
     {
       "added_at": null,
@@ -571,18 +571,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "The In Between (from The Chosen)",
-        "url": "https://open.spotify.com/album/7oSnMRE1AdohIWO8WwfIfv"
+        "name": "All the Praise Belongs",
+        "url": "https://open.spotify.com/album/2KdzK8glBc5DPpphB9x9wM"
       },
       "artists": [
+        {
+          "name": "Commons Worship",
+          "url": "https://open.spotify.com/artist/3jpqxQzzcSIyXgTb4i4CEa"
+        },
         {
           "name": "Matt Maher",
           "url": "https://open.spotify.com/artist/1dPl8axUL09mso0myZqPZW"
         }
       ],
-      "duration_ms": 238431,
-      "name": "The In Between - from The Chosen",
-      "url": "https://open.spotify.com/track/3roS62frfF60JQD8jiacOK"
+      "duration_ms": 218530,
+      "name": "Finished Work",
+      "url": "https://open.spotify.com/track/4KOkxO6Ezvnw8q9IMTC0ir"
     },
     {
       "added_at": null,
@@ -611,22 +615,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "All the Praise Belongs",
-        "url": "https://open.spotify.com/album/2KdzK8glBc5DPpphB9x9wM"
+        "name": "The In Between (from The Chosen)",
+        "url": "https://open.spotify.com/album/7oSnMRE1AdohIWO8WwfIfv"
       },
       "artists": [
-        {
-          "name": "Commons Worship",
-          "url": "https://open.spotify.com/artist/3jpqxQzzcSIyXgTb4i4CEa"
-        },
         {
           "name": "Matt Maher",
           "url": "https://open.spotify.com/artist/1dPl8axUL09mso0myZqPZW"
         }
       ],
-      "duration_ms": 218530,
-      "name": "Finished Work",
-      "url": "https://open.spotify.com/track/4KOkxO6Ezvnw8q9IMTC0ir"
+      "duration_ms": 238431,
+      "name": "The In Between - from The Chosen",
+      "url": "https://open.spotify.com/track/3roS62frfF60JQD8jiacOK"
     },
     {
       "added_at": null,
@@ -739,22 +739,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "Leaning (feat. Lizzie Morgan)",
-        "url": "https://open.spotify.com/album/6Dk3GXUdiov6fsnXdELZTi"
+        "name": "Give Thanks To God",
+        "url": "https://open.spotify.com/album/4sp4pvAi81nztpcuPWNa3g"
       },
       "artists": [
         {
-          "name": "Matt Maher",
-          "url": "https://open.spotify.com/artist/1dPl8axUL09mso0myZqPZW"
+          "name": "We Are Messengers",
+          "url": "https://open.spotify.com/artist/5WcisvYoq6332gCUX039Jd"
         },
         {
-          "name": "Lizzie Morgan",
-          "url": "https://open.spotify.com/artist/6ErLTSGjADcbmh10k8uion"
+          "name": "Matt Maher",
+          "url": "https://open.spotify.com/artist/1dPl8axUL09mso0myZqPZW"
         }
       ],
-      "duration_ms": 219213,
-      "name": "Leaning (feat. Lizzie Morgan)",
-      "url": "https://open.spotify.com/track/5i4eapszFQYMycVSOiBxHG"
+      "duration_ms": 214056,
+      "name": "Give Thanks To God",
+      "url": "https://open.spotify.com/track/4Ox0ZgzigtRmNipYiZrY9h"
     },
     {
       "added_at": null,
@@ -775,22 +775,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "Give Thanks To God",
-        "url": "https://open.spotify.com/album/4sp4pvAi81nztpcuPWNa3g"
+        "name": "Leaning (feat. Lizzie Morgan)",
+        "url": "https://open.spotify.com/album/6Dk3GXUdiov6fsnXdELZTi"
       },
       "artists": [
         {
-          "name": "We Are Messengers",
-          "url": "https://open.spotify.com/artist/5WcisvYoq6332gCUX039Jd"
-        },
-        {
           "name": "Matt Maher",
           "url": "https://open.spotify.com/artist/1dPl8axUL09mso0myZqPZW"
+        },
+        {
+          "name": "Lizzie Morgan",
+          "url": "https://open.spotify.com/artist/6ErLTSGjADcbmh10k8uion"
         }
       ],
-      "duration_ms": 214056,
-      "name": "Give Thanks To God",
-      "url": "https://open.spotify.com/track/4Ox0ZgzigtRmNipYiZrY9h"
+      "duration_ms": 219213,
+      "name": "Leaning (feat. Lizzie Morgan)",
+      "url": "https://open.spotify.com/track/5i4eapszFQYMycVSOiBxHG"
     },
     {
       "added_at": null,
@@ -907,8 +907,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Echoes (Deluxe Edition)",
-        "url": "https://open.spotify.com/album/7HKEDHznm7Zngpw3oHkorA"
+        "name": "Empty And Beautiful",
+        "url": "https://open.spotify.com/album/7C4ZFwSLusbV8DhsDGqqNs"
       },
       "artists": [
         {
@@ -916,9 +916,9 @@
           "url": "https://open.spotify.com/artist/1dPl8axUL09mso0myZqPZW"
         }
       ],
-      "duration_ms": 251680,
-      "name": "Just as I Am",
-      "url": "https://open.spotify.com/track/6gCXdSruNlJtm3guzzlaET"
+      "duration_ms": 249066,
+      "name": "As It Is In Heaven",
+      "url": "https://open.spotify.com/track/28ixmwKVlJOaljyLqNxetf"
     },
     {
       "added_at": null,
@@ -943,8 +943,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Empty And Beautiful",
-        "url": "https://open.spotify.com/album/7C4ZFwSLusbV8DhsDGqqNs"
+        "name": "Echoes (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/7HKEDHznm7Zngpw3oHkorA"
       },
       "artists": [
         {
@@ -952,9 +952,9 @@
           "url": "https://open.spotify.com/artist/1dPl8axUL09mso0myZqPZW"
         }
       ],
-      "duration_ms": 249066,
-      "name": "As It Is In Heaven",
-      "url": "https://open.spotify.com/track/28ixmwKVlJOaljyLqNxetf"
+      "duration_ms": 251680,
+      "name": "Just as I Am",
+      "url": "https://open.spotify.com/track/6gCXdSruNlJtm3guzzlaET"
     },
     {
       "added_at": null,

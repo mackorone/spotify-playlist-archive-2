@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4DZAVUAwHMT.md) - [plain]
 
 > The UK's biggest rock playlist\. Cover: Julien Baker
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,452,205 likes - 81 songs - 4 hr 43 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,452,103 likes - 81 songs - 4 hr 43 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -90,4 +90,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4DZAVUAwHMT.md) - [plain]
 | 80 | [Dare Me](https://open.spotify.com/track/7hXHa6zkI2g4UEe5LEN3fE) | [DIIV](https://open.spotify.com/artist/4OrizGCKhOrW6iDDJHN9xd) | [ZIRP!](https://open.spotify.com/album/3HaXEC1Zfo0zM6OCqdpofT) | 4:03 |
 | 81 | [Rod For My Back](https://open.spotify.com/track/4xAVAa4Rxcu7GEfZG3JrcL) | [Cliffords](https://open.spotify.com/artist/2JIXE3g9E0kfeFWhpKPIja) | [Rod For My Back](https://open.spotify.com/album/1WB5UTBuSqrcI8deVLThHz) | 3:52 |
 
-Snapshot ID: `AAAAAOBP2OxMtTego2J0k3pmhGwEAd4A`
+Snapshot ID: `AAAAAPw62Lo+0gSzMnogI2irWdSauffQ`

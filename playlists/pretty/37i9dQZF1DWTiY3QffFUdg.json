@@ -6,7 +6,7 @@
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAKZni1ftLW6/oCEPRPuUsYvX7108",
+  "snapshot_id": "AAAAAA8zYKofNNB2VDR7ZOJn5DSX09/X",
   "tracks": [
     {
       "added_at": "2026-11-13 05:00:57",
@@ -943,30 +943,6 @@
     {
       "added_at": "2026-11-13 05:00:57",
       "album": {
-        "name": "ACID",
-        "url": "https://open.spotify.com/album/7LAUJxkEQOBf6rbS0MXUi6"
-      },
-      "artists": [
-        {
-          "name": "Hardwell",
-          "url": "https://open.spotify.com/artist/6BrvowZBreEkXzJQMpL174"
-        },
-        {
-          "name": "Maddix",
-          "url": "https://open.spotify.com/artist/0RMeG9M8QFzss9bAbq99KA"
-        },
-        {
-          "name": "Luciana",
-          "url": "https://open.spotify.com/artist/4ugGMtXC28CVR5hlYJy9wV"
-        }
-      ],
-      "duration_ms": 181333,
-      "name": "ACID",
-      "url": "https://open.spotify.com/track/6JkQb1qCCJDBV7kW5vJUAH"
-    },
-    {
-      "added_at": "2026-11-13 05:00:57",
-      "album": {
         "name": "Last Night (Anyma x Layton Giordani Remix)",
         "url": "https://open.spotify.com/album/001JSP4fD2dw3KA95XFxOa"
       },
@@ -991,22 +967,26 @@
     {
       "added_at": "2026-11-13 05:00:57",
       "album": {
-        "name": "Amor EP",
-        "url": "https://open.spotify.com/album/6v50qNzxBH7PI4rHsamjVX"
+        "name": "ACID",
+        "url": "https://open.spotify.com/album/7LAUJxkEQOBf6rbS0MXUi6"
       },
       "artists": [
         {
-          "name": "Charlotte de Witte",
-          "url": "https://open.spotify.com/artist/1lJhME1ZpzsEa5M0wW6Mso"
+          "name": "Hardwell",
+          "url": "https://open.spotify.com/artist/6BrvowZBreEkXzJQMpL174"
         },
         {
-          "name": "CERES",
-          "url": "https://open.spotify.com/artist/32kPQzj1rk4nnGIIJpIUic"
+          "name": "Maddix",
+          "url": "https://open.spotify.com/artist/0RMeG9M8QFzss9bAbq99KA"
+        },
+        {
+          "name": "Luciana",
+          "url": "https://open.spotify.com/artist/4ugGMtXC28CVR5hlYJy9wV"
         }
       ],
-      "duration_ms": 372293,
-      "name": "Amor (feat. CERES)",
-      "url": "https://open.spotify.com/track/4UhxekskWFXSv9ik933yBv"
+      "duration_ms": 181333,
+      "name": "ACID",
+      "url": "https://open.spotify.com/track/6JkQb1qCCJDBV7kW5vJUAH"
     },
     {
       "added_at": "2026-11-13 05:00:57",
@@ -1035,6 +1015,26 @@
       "duration_ms": 192011,
       "name": "Voices In My Head - Amelie Lens Remix",
       "url": "https://open.spotify.com/track/13O1dd0pQzohHTKVBzCo54"
+    },
+    {
+      "added_at": "2026-11-13 05:00:57",
+      "album": {
+        "name": "Amor EP",
+        "url": "https://open.spotify.com/album/6v50qNzxBH7PI4rHsamjVX"
+      },
+      "artists": [
+        {
+          "name": "Charlotte de Witte",
+          "url": "https://open.spotify.com/artist/1lJhME1ZpzsEa5M0wW6Mso"
+        },
+        {
+          "name": "CERES",
+          "url": "https://open.spotify.com/artist/32kPQzj1rk4nnGIIJpIUic"
+        }
+      ],
+      "duration_ms": 372293,
+      "name": "Amor (feat. CERES)",
+      "url": "https://open.spotify.com/track/4UhxekskWFXSv9ik933yBv"
     },
     {
       "added_at": "2026-11-13 05:00:57",
@@ -1103,6 +1103,22 @@
     {
       "added_at": "2026-11-13 05:00:57",
       "album": {
+        "name": "Can't Fight The Moonlight",
+        "url": "https://open.spotify.com/album/3PSHf7TnrG5dMDJLbpo6lK"
+      },
+      "artists": [
+        {
+          "name": "Ely Oaks",
+          "url": "https://open.spotify.com/artist/2MdFJmUQf3ckA99IhFF9my"
+        }
+      ],
+      "duration_ms": 116814,
+      "name": "Can't Fight The Moonlight",
+      "url": "https://open.spotify.com/track/1rtnGo1NBXhgcxcRMzl5RB"
+    },
+    {
+      "added_at": "2026-11-13 05:00:57",
+      "album": {
         "name": "One Mind EP",
         "url": "https://open.spotify.com/album/6vEeCQvbjq8gK5IlhLOmkm"
       },
@@ -1119,22 +1135,6 @@
       "duration_ms": 345605,
       "name": "One Mind",
       "url": "https://open.spotify.com/track/2Y2Ydnk6XPTe4IpOTNs5Xh"
-    },
-    {
-      "added_at": "2026-11-13 05:00:57",
-      "album": {
-        "name": "Can't Fight The Moonlight",
-        "url": "https://open.spotify.com/album/3PSHf7TnrG5dMDJLbpo6lK"
-      },
-      "artists": [
-        {
-          "name": "Ely Oaks",
-          "url": "https://open.spotify.com/artist/2MdFJmUQf3ckA99IhFF9my"
-        }
-      ],
-      "duration_ms": 116814,
-      "name": "Can't Fight The Moonlight",
-      "url": "https://open.spotify.com/track/1rtnGo1NBXhgcxcRMzl5RB"
     },
     {
       "added_at": "2026-11-13 05:00:57",
@@ -1515,22 +1515,6 @@
     {
       "added_at": "2026-11-13 05:00:57",
       "album": {
-        "name": "La Vida Loca",
-        "url": "https://open.spotify.com/album/1aFM7DwLHZEsqTTyBF0aaj"
-      },
-      "artists": [
-        {
-          "name": "Karla Blum",
-          "url": "https://open.spotify.com/artist/5NSpferwNVudjza91NaBjO"
-        }
-      ],
-      "duration_ms": 182608,
-      "name": "La Vida Loca",
-      "url": "https://open.spotify.com/track/7G3YyjDSgzQ5qETgyyn2s9"
-    },
-    {
-      "added_at": "2026-11-13 05:00:57",
-      "album": {
         "name": "When I Push (Edit)",
         "url": "https://open.spotify.com/album/1mvCo6lKqirk2mq56tiMRy"
       },
@@ -1551,6 +1535,22 @@
       "duration_ms": 213582,
       "name": "When I Push - Edit",
       "url": "https://open.spotify.com/track/5poZz8srlh8P5XjKsHKXj7"
+    },
+    {
+      "added_at": "2026-11-13 05:00:57",
+      "album": {
+        "name": "La Vida Loca",
+        "url": "https://open.spotify.com/album/1aFM7DwLHZEsqTTyBF0aaj"
+      },
+      "artists": [
+        {
+          "name": "Karla Blum",
+          "url": "https://open.spotify.com/artist/5NSpferwNVudjza91NaBjO"
+        }
+      ],
+      "duration_ms": 182608,
+      "name": "La Vida Loca",
+      "url": "https://open.spotify.com/track/7G3YyjDSgzQ5qETgyyn2s9"
     },
     {
       "added_at": "2026-11-13 05:00:57",
@@ -1695,22 +1695,6 @@
     {
       "added_at": "2026-11-13 05:00:57",
       "album": {
-        "name": "Young Forever",
-        "url": "https://open.spotify.com/album/4BOWZWwm6WVWmco0HKt80s"
-      },
-      "artists": [
-        {
-          "name": "Amelie Lens",
-          "url": "https://open.spotify.com/artist/5Ho1vKl1Uz8bJlk4vbmvmf"
-        }
-      ],
-      "duration_ms": 227091,
-      "name": "Young Forever",
-      "url": "https://open.spotify.com/track/2aAjWdZ7TsQYvyRUzAFXmB"
-    },
-    {
-      "added_at": "2026-11-13 05:00:57",
-      "album": {
         "name": "SexyBack (TechnoBack)",
         "url": "https://open.spotify.com/album/5EGHrNs3I7o9voBxiUeWyf"
       },
@@ -1735,22 +1719,18 @@
     {
       "added_at": "2026-11-13 05:00:57",
       "album": {
-        "name": "Around The World",
-        "url": "https://open.spotify.com/album/6DJnx2cTEn3txXXK4Xo2Tf"
+        "name": "Young Forever",
+        "url": "https://open.spotify.com/album/4BOWZWwm6WVWmco0HKt80s"
       },
       "artists": [
         {
-          "name": "Niklas Dee",
-          "url": "https://open.spotify.com/artist/1ZPGzmbFTn8GRjqTqnLiFE"
-        },
-        {
-          "name": "Ren\u00e9 Miller",
-          "url": "https://open.spotify.com/artist/6ngF3kF5I0prOoapltjAps"
+          "name": "Amelie Lens",
+          "url": "https://open.spotify.com/artist/5Ho1vKl1Uz8bJlk4vbmvmf"
         }
       ],
-      "duration_ms": 140986,
-      "name": "Around The World",
-      "url": "https://open.spotify.com/track/47KhhDku9RLDsWIJjYaXDs"
+      "duration_ms": 227091,
+      "name": "Young Forever",
+      "url": "https://open.spotify.com/track/2aAjWdZ7TsQYvyRUzAFXmB"
     },
     {
       "added_at": "2026-11-13 05:00:57",
@@ -1795,6 +1775,26 @@
     {
       "added_at": "2026-11-13 05:00:57",
       "album": {
+        "name": "Around The World",
+        "url": "https://open.spotify.com/album/6DJnx2cTEn3txXXK4Xo2Tf"
+      },
+      "artists": [
+        {
+          "name": "Niklas Dee",
+          "url": "https://open.spotify.com/artist/1ZPGzmbFTn8GRjqTqnLiFE"
+        },
+        {
+          "name": "Ren\u00e9 Miller",
+          "url": "https://open.spotify.com/artist/6ngF3kF5I0prOoapltjAps"
+        }
+      ],
+      "duration_ms": 140986,
+      "name": "Around The World",
+      "url": "https://open.spotify.com/track/47KhhDku9RLDsWIJjYaXDs"
+    },
+    {
+      "added_at": "2026-11-13 05:00:57",
+      "album": {
         "name": "4 Da Ravers",
         "url": "https://open.spotify.com/album/7rFjECStShUcE157PCp9z8"
       },
@@ -1807,42 +1807,6 @@
       "duration_ms": 153290,
       "name": "4 Da Ravers",
       "url": "https://open.spotify.com/track/4vgOQl4ldjh5JS4cysFHH7"
-    },
-    {
-      "added_at": "2026-11-13 05:00:57",
-      "album": {
-        "name": "Damaged",
-        "url": "https://open.spotify.com/album/6XfrEfP3pfH0jkagZAFQ3K"
-      },
-      "artists": [
-        {
-          "name": "Eli Brown",
-          "url": "https://open.spotify.com/artist/5lVNSw2GPci8kebrAQpZqU"
-        }
-      ],
-      "duration_ms": 190714,
-      "name": "Damaged",
-      "url": "https://open.spotify.com/track/3W2x9gCt7SbycNDCdP3IyB"
-    },
-    {
-      "added_at": "2026-11-13 05:00:57",
-      "album": {
-        "name": "Bloodshot Eyes",
-        "url": "https://open.spotify.com/album/3bdX0jhFwrObahMDE0w3kO"
-      },
-      "artists": [
-        {
-          "name": "Niklas Dee",
-          "url": "https://open.spotify.com/artist/1ZPGzmbFTn8GRjqTqnLiFE"
-        },
-        {
-          "name": "ANY",
-          "url": "https://open.spotify.com/artist/6Kj8Zi8kj1aPKyHX9w8C3L"
-        }
-      ],
-      "duration_ms": 169793,
-      "name": "Bloodshot Eyes",
-      "url": "https://open.spotify.com/track/5RlLOT5MaKotj888oxuNgc"
     },
     {
       "added_at": "2026-11-13 05:00:57",
@@ -1883,18 +1847,38 @@
     {
       "added_at": "2026-11-13 05:00:57",
       "album": {
-        "name": "Dimension",
-        "url": "https://open.spotify.com/album/3BjnqJGWvwhnbREYuH6jzx"
+        "name": "Damaged",
+        "url": "https://open.spotify.com/album/6XfrEfP3pfH0jkagZAFQ3K"
       },
       "artists": [
         {
-          "name": "Space 92",
-          "url": "https://open.spotify.com/artist/6TVdVlY6irsNPkMHT2HkfD"
+          "name": "Eli Brown",
+          "url": "https://open.spotify.com/artist/5lVNSw2GPci8kebrAQpZqU"
         }
       ],
-      "duration_ms": 228175,
-      "name": "Dimension",
-      "url": "https://open.spotify.com/track/0Ln024wOEUb2LzQCJXd45g"
+      "duration_ms": 190714,
+      "name": "Damaged",
+      "url": "https://open.spotify.com/track/3W2x9gCt7SbycNDCdP3IyB"
+    },
+    {
+      "added_at": "2026-11-13 05:00:57",
+      "album": {
+        "name": "Bloodshot Eyes",
+        "url": "https://open.spotify.com/album/3bdX0jhFwrObahMDE0w3kO"
+      },
+      "artists": [
+        {
+          "name": "Niklas Dee",
+          "url": "https://open.spotify.com/artist/1ZPGzmbFTn8GRjqTqnLiFE"
+        },
+        {
+          "name": "ANY",
+          "url": "https://open.spotify.com/artist/6Kj8Zi8kj1aPKyHX9w8C3L"
+        }
+      ],
+      "duration_ms": 169793,
+      "name": "Bloodshot Eyes",
+      "url": "https://open.spotify.com/track/5RlLOT5MaKotj888oxuNgc"
     },
     {
       "added_at": "2026-11-13 05:00:57",
@@ -1911,6 +1895,42 @@
       "duration_ms": 204587,
       "name": "Cover Up My Face",
       "url": "https://open.spotify.com/track/5bad0bmasmpiK5EdAQDXrG"
+    },
+    {
+      "added_at": "2026-11-13 05:00:57",
+      "album": {
+        "name": "Dimension",
+        "url": "https://open.spotify.com/album/3BjnqJGWvwhnbREYuH6jzx"
+      },
+      "artists": [
+        {
+          "name": "Space 92",
+          "url": "https://open.spotify.com/artist/6TVdVlY6irsNPkMHT2HkfD"
+        }
+      ],
+      "duration_ms": 228175,
+      "name": "Dimension",
+      "url": "https://open.spotify.com/track/0Ln024wOEUb2LzQCJXd45g"
+    },
+    {
+      "added_at": "2026-11-13 05:00:57",
+      "album": {
+        "name": "ONE LIFE",
+        "url": "https://open.spotify.com/album/1KWmIGhbweDzk3R7RUlHBW"
+      },
+      "artists": [
+        {
+          "name": "Krewella",
+          "url": "https://open.spotify.com/artist/0Cd6nHYwecCNM1sVEXKlYr"
+        },
+        {
+          "name": "Manila Killa",
+          "url": "https://open.spotify.com/artist/4EukMPjtYsdi87lkU1hIxN"
+        }
+      ],
+      "duration_ms": 220689,
+      "name": "ONE LIFE",
+      "url": "https://open.spotify.com/track/20Ng8SVSE2LJi9jfqgCJ88"
     },
     {
       "added_at": "2026-11-13 05:00:57",
@@ -1979,38 +1999,22 @@
     {
       "added_at": "2026-11-13 05:00:57",
       "album": {
-        "name": "ONE LIFE",
-        "url": "https://open.spotify.com/album/1KWmIGhbweDzk3R7RUlHBW"
+        "name": "Tell Me Why",
+        "url": "https://open.spotify.com/album/224hEKX6NC4pzENbWL2vXj"
       },
       "artists": [
         {
-          "name": "Krewella",
-          "url": "https://open.spotify.com/artist/0Cd6nHYwecCNM1sVEXKlYr"
+          "name": "Mike Candys",
+          "url": "https://open.spotify.com/artist/24Sxfn1uAoJmuR9N72drt9"
         },
         {
-          "name": "Manila Killa",
-          "url": "https://open.spotify.com/artist/4EukMPjtYsdi87lkU1hIxN"
+          "name": "Jack Holiday",
+          "url": "https://open.spotify.com/artist/64yON9pK0j392YkionGKAF"
         }
       ],
-      "duration_ms": 220689,
-      "name": "ONE LIFE",
-      "url": "https://open.spotify.com/track/20Ng8SVSE2LJi9jfqgCJ88"
-    },
-    {
-      "added_at": "2026-11-13 05:00:57",
-      "album": {
-        "name": "Schwer",
-        "url": "https://open.spotify.com/album/7mI1XA20ReNz09JlfJzn10"
-      },
-      "artists": [
-        {
-          "name": "Paul Kalkbrenner",
-          "url": "https://open.spotify.com/artist/0rasA5Z5h1ITtHelCpfu9R"
-        }
-      ],
-      "duration_ms": 214895,
-      "name": "Schwer",
-      "url": "https://open.spotify.com/track/4hy6D6HomELGqmQOEYGrPt"
+      "duration_ms": 135400,
+      "name": "Tell Me Why",
+      "url": "https://open.spotify.com/track/4BvBTmceA5V1pDuaC3RabS"
     }
   ],
   "unique_name": "techno party",

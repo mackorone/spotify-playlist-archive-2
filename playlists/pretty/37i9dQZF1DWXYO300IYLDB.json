@@ -1,12 +1,12 @@
 {
   "description": "\u30a2\u30b3\u30fc\u30b9\u30c6\u30a3\u30c3\u30af\u30fb\u30e1\u30ed\u30c7\u30a3\u30fc\u30ba\u3002\u3086\u3063\u305f\u308a\u3068\u3057\u305f\u30a2\u30b3\u30fc\u30b9\u30c6\u30a3\u30c3\u30af\u30b5\u30a6\u30f3\u30c9\u3067\u30ea\u30e9\u30c3\u30af\u30b9\u3057\u307e\u305b\u3093\u304b\uff1f",
-  "num_followers": 136545,
+  "num_followers": 136537,
   "original_name": "Acoustic Melodies Tokyo",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAC+jVMh/lpRb6L8HBh0SN9wgYH4G",
+  "snapshot_id": "AAAAADcyRjzt39IkF3XanIbaZLoGz878",
   "tracks": [
     {
       "added_at": "2026-03-12 15:00:29",
@@ -579,18 +579,22 @@
     {
       "added_at": "2026-03-12 15:00:29",
       "album": {
-        "name": "Old Phone",
-        "url": "https://open.spotify.com/album/002MjQVkI2aHS733fGjj3S"
+        "name": "The Joker And The Queen (feat. Taylor Swift)",
+        "url": "https://open.spotify.com/album/0vkAczpFKCazPKaoLtnBr0"
       },
       "artists": [
         {
           "name": "Ed Sheeran",
           "url": "https://open.spotify.com/artist/6eUKZXaKkcviH0Ku9w2n3V"
+        },
+        {
+          "name": "Taylor Swift",
+          "url": "https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02"
         }
       ],
-      "duration_ms": 221831,
-      "name": "Old Phone",
-      "url": "https://open.spotify.com/track/2QxviKpVdEXKDWs706MUZB"
+      "duration_ms": 185422,
+      "name": "The Joker And The Queen (feat. Taylor Swift)",
+      "url": "https://open.spotify.com/track/6N1K5OVVCopBjGViHs2IvP"
     },
     {
       "added_at": "2026-03-12 15:00:29",
@@ -667,22 +671,18 @@
     {
       "added_at": "2026-03-12 15:00:29",
       "album": {
-        "name": "The Joker And The Queen (feat. Taylor Swift)",
-        "url": "https://open.spotify.com/album/0vkAczpFKCazPKaoLtnBr0"
+        "name": "Old Phone",
+        "url": "https://open.spotify.com/album/002MjQVkI2aHS733fGjj3S"
       },
       "artists": [
         {
           "name": "Ed Sheeran",
           "url": "https://open.spotify.com/artist/6eUKZXaKkcviH0Ku9w2n3V"
-        },
-        {
-          "name": "Taylor Swift",
-          "url": "https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02"
         }
       ],
-      "duration_ms": 185422,
-      "name": "The Joker And The Queen (feat. Taylor Swift)",
-      "url": "https://open.spotify.com/track/6N1K5OVVCopBjGViHs2IvP"
+      "duration_ms": 221831,
+      "name": "Old Phone",
+      "url": "https://open.spotify.com/track/2QxviKpVdEXKDWs706MUZB"
     },
     {
       "added_at": "2026-03-12 15:00:29",
@@ -719,22 +719,6 @@
     {
       "added_at": "2026-03-12 15:00:29",
       "album": {
-        "name": "Spotify Sessions",
-        "url": "https://open.spotify.com/album/3E3RbNL43xqu0o5KggHJBU"
-      },
-      "artists": [
-        {
-          "name": "Angus & Julia Stone",
-          "url": "https://open.spotify.com/artist/4tvKz56Tr39bkhcQUTO0Xr"
-        }
-      ],
-      "duration_ms": 174360,
-      "name": "Stay With Me - Live From Spotify Berlin",
-      "url": "https://open.spotify.com/track/2GiYPEgOA7hb7sqsEWX8df"
-    },
-    {
-      "added_at": "2026-03-12 15:00:29",
-      "album": {
         "name": "Spotify Singles",
         "url": "https://open.spotify.com/album/668E64E2CaJWuH8F4zg7Uj"
       },
@@ -747,6 +731,22 @@
       "duration_ms": 267406,
       "name": "Say My Name - Recorded At Spotify Studios NYC",
       "url": "https://open.spotify.com/track/0HFlesrysd5cO5m2Y5aB9H"
+    },
+    {
+      "added_at": "2026-03-12 15:00:29",
+      "album": {
+        "name": "Spotify Sessions",
+        "url": "https://open.spotify.com/album/3E3RbNL43xqu0o5KggHJBU"
+      },
+      "artists": [
+        {
+          "name": "Angus & Julia Stone",
+          "url": "https://open.spotify.com/artist/4tvKz56Tr39bkhcQUTO0Xr"
+        }
+      ],
+      "duration_ms": 174360,
+      "name": "Stay With Me - Live From Spotify Berlin",
+      "url": "https://open.spotify.com/track/2GiYPEgOA7hb7sqsEWX8df"
     },
     {
       "added_at": "2026-03-12 15:00:29",
@@ -847,6 +847,22 @@
     {
       "added_at": "2026-03-12 15:00:29",
       "album": {
+        "name": "\u82b1",
+        "url": "https://open.spotify.com/album/7DgOPJO8Lk4NUrfAjxtDCR"
+      },
+      "artists": [
+        {
+          "name": "Fujii Kaze",
+          "url": "https://open.spotify.com/artist/6bDWAcdtVR3WHz2xtiIPUi"
+        }
+      ],
+      "duration_ms": 247554,
+      "name": "\u82b1 - Ballad",
+      "url": "https://open.spotify.com/track/4wmioqSrmIUAqqEKnZgvCf"
+    },
+    {
+      "added_at": "2026-03-12 15:00:29",
+      "album": {
         "name": "You Could Start A Cult (with Lizzy McAlpine)",
         "url": "https://open.spotify.com/album/6sTwHqzlr0QYUzH5Dx4pwk"
       },
@@ -867,22 +883,6 @@
     {
       "added_at": "2026-03-12 15:00:29",
       "album": {
-        "name": "\u82b1",
-        "url": "https://open.spotify.com/album/7DgOPJO8Lk4NUrfAjxtDCR"
-      },
-      "artists": [
-        {
-          "name": "Fujii Kaze",
-          "url": "https://open.spotify.com/artist/6bDWAcdtVR3WHz2xtiIPUi"
-        }
-      ],
-      "duration_ms": 247554,
-      "name": "\u82b1 - Ballad",
-      "url": "https://open.spotify.com/track/4wmioqSrmIUAqqEKnZgvCf"
-    },
-    {
-      "added_at": "2026-03-12 15:00:29",
-      "album": {
         "name": "Anti-Hero (Acoustic Version)",
         "url": "https://open.spotify.com/album/5vgWXUueeEU2labRz6TlNv"
       },
@@ -899,22 +899,6 @@
     {
       "added_at": "2026-03-12 15:00:29",
       "album": {
-        "name": "Have A Little Faith In Me",
-        "url": "https://open.spotify.com/album/5tUKs4B9KY6Yd5qSiyvENz"
-      },
-      "artists": [
-        {
-          "name": "SYML",
-          "url": "https://open.spotify.com/artist/6AyATGg7mDgBlZ4N5uNog0"
-        }
-      ],
-      "duration_ms": 197079,
-      "name": "Have A Little Faith In Me",
-      "url": "https://open.spotify.com/track/6CC7m07iUQA2oKr2Ky4gRl"
-    },
-    {
-      "added_at": "2026-03-12 15:00:29",
-      "album": {
         "name": "Celebrate Me Home",
         "url": "https://open.spotify.com/album/4Zt3jkBQHa5gMiZL95xbaB"
       },
@@ -927,6 +911,22 @@
       "duration_ms": 233558,
       "name": "Celebrate Me Home",
       "url": "https://open.spotify.com/track/4rVUzCFmxDor43ORzBKHcx"
+    },
+    {
+      "added_at": "2026-03-12 15:00:29",
+      "album": {
+        "name": "Have A Little Faith In Me",
+        "url": "https://open.spotify.com/album/5tUKs4B9KY6Yd5qSiyvENz"
+      },
+      "artists": [
+        {
+          "name": "SYML",
+          "url": "https://open.spotify.com/artist/6AyATGg7mDgBlZ4N5uNog0"
+        }
+      ],
+      "duration_ms": 197079,
+      "name": "Have A Little Faith In Me",
+      "url": "https://open.spotify.com/track/6CC7m07iUQA2oKr2Ky4gRl"
     },
     {
       "added_at": "2026-03-12 15:00:29",
@@ -1231,22 +1231,6 @@
     {
       "added_at": "2026-03-12 15:00:29",
       "album": {
-        "name": "rain",
-        "url": "https://open.spotify.com/album/2yxznO5r7m2ut3HjKvgyNA"
-      },
-      "artists": [
-        {
-          "name": "mxmtoon",
-          "url": "https://open.spotify.com/artist/0HthCchcL0kVLHTr113Vk1"
-        }
-      ],
-      "duration_ms": 254230,
-      "name": "rain",
-      "url": "https://open.spotify.com/track/3X7bED3gYbZlSPDWOFphnp"
-    },
-    {
-      "added_at": "2026-03-12 15:00:29",
-      "album": {
         "name": "LOVE ALL COVER ALL",
         "url": "https://open.spotify.com/album/1290P26ZPIKJSHOrOyqLXD"
       },
@@ -1259,6 +1243,22 @@
       "duration_ms": 169383,
       "name": "Sorry",
       "url": "https://open.spotify.com/track/6tbSgMKlQ31izXvorTATrn"
+    },
+    {
+      "added_at": "2026-03-12 15:00:29",
+      "album": {
+        "name": "rain",
+        "url": "https://open.spotify.com/album/2yxznO5r7m2ut3HjKvgyNA"
+      },
+      "artists": [
+        {
+          "name": "mxmtoon",
+          "url": "https://open.spotify.com/artist/0HthCchcL0kVLHTr113Vk1"
+        }
+      ],
+      "duration_ms": 254230,
+      "name": "rain",
+      "url": "https://open.spotify.com/track/3X7bED3gYbZlSPDWOFphnp"
     },
     {
       "added_at": "2026-03-12 15:00:29",
@@ -1391,22 +1391,6 @@
     {
       "added_at": "2026-03-12 15:00:29",
       "album": {
-        "name": "Adagio",
-        "url": "https://open.spotify.com/album/3TAhlJxvOBskHFd0J1YRmq"
-      },
-      "artists": [
-        {
-          "name": "\u03a3tella",
-          "url": "https://open.spotify.com/artist/2tBWWgGv7H5ymPtJrT1rNu"
-        }
-      ],
-      "duration_ms": 156386,
-      "name": "80 Days",
-      "url": "https://open.spotify.com/track/6GqDKlvGfqWoj3j1m5gp7s"
-    },
-    {
-      "added_at": "2026-03-12 15:00:29",
-      "album": {
         "name": "Dialogue \uff0dMiki Imai Sings Yuming Classics\uff0d",
         "url": "https://open.spotify.com/album/0I5Q4lnNVonZL4H4OL8LKq"
       },
@@ -1419,6 +1403,22 @@
       "duration_ms": 194400,
       "name": "\u5352\u696d\u5199\u771f",
       "url": "https://open.spotify.com/track/30oGazXdD7pezhc5pRFU22"
+    },
+    {
+      "added_at": "2026-03-12 15:00:29",
+      "album": {
+        "name": "Adagio",
+        "url": "https://open.spotify.com/album/3TAhlJxvOBskHFd0J1YRmq"
+      },
+      "artists": [
+        {
+          "name": "\u03a3tella",
+          "url": "https://open.spotify.com/artist/2tBWWgGv7H5ymPtJrT1rNu"
+        }
+      ],
+      "duration_ms": 156386,
+      "name": "80 Days",
+      "url": "https://open.spotify.com/track/6GqDKlvGfqWoj3j1m5gp7s"
     },
     {
       "added_at": "2026-03-12 15:00:29",
@@ -1611,22 +1611,6 @@
     {
       "added_at": "2026-03-12 15:00:29",
       "album": {
-        "name": "\u30ab\u30fc\u30cb\u30d0\u30eb\u306e\u5922",
-        "url": "https://open.spotify.com/album/0W4mCxf93Nzyb0Zl2G7x48"
-      },
-      "artists": [
-        {
-          "name": "Humbert Humbert",
-          "url": "https://open.spotify.com/artist/5RI6QZwb39XNUV2vZv2aQY"
-        }
-      ],
-      "duration_ms": 194306,
-      "name": "\u3042\u306e\u65e5\u306e\u307e\u307e\u306e\u307c\u304f\u3089",
-      "url": "https://open.spotify.com/track/1Hezf2jAn3lSIID7BlRPfs"
-    },
-    {
-      "added_at": "2026-03-12 15:00:29",
-      "album": {
         "name": "Kurena",
         "url": "https://open.spotify.com/album/12ASEzXbr664jCgcU4coZl"
       },
@@ -1639,6 +1623,22 @@
       "duration_ms": 251786,
       "name": "Off The Wall",
       "url": "https://open.spotify.com/track/6qUpHqV6aHTSZRDjcYSoUV"
+    },
+    {
+      "added_at": "2026-03-12 15:00:29",
+      "album": {
+        "name": "\u30ab\u30fc\u30cb\u30d0\u30eb\u306e\u5922",
+        "url": "https://open.spotify.com/album/0W4mCxf93Nzyb0Zl2G7x48"
+      },
+      "artists": [
+        {
+          "name": "Humbert Humbert",
+          "url": "https://open.spotify.com/artist/5RI6QZwb39XNUV2vZv2aQY"
+        }
+      ],
+      "duration_ms": 194306,
+      "name": "\u3042\u306e\u65e5\u306e\u307e\u307e\u306e\u307c\u304f\u3089",
+      "url": "https://open.spotify.com/track/1Hezf2jAn3lSIID7BlRPfs"
     },
     {
       "added_at": "2026-03-12 15:00:29",

@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-01-09",
-  "description": "Solo musica indipendente \ud83c\uddee\ud83c\uddf9, aggiornata il mercoled\u00ec. <a href=\"spotify:artist:7rO4wSpJVcfp1mXLCOgjj0\">Vinnie Marakas</a> in cover. ",
+  "description": "Solo musica indipendente \ud83c\uddee\ud83c\uddf9, aggiornata il mercoled\u00ec. <a href=\"spotify:artist:17QBHdgLxgft4GXWLznQv4\">Zoe</a> in cover. ",
   "name": "Fresh Finds Italia",
   "tracks": [
     {
@@ -994,7 +994,7 @@
       ],
       "date_added": "2026-09-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-25",
       "duration_ms": 185634,
       "name": "305",
       "url": "https://open.spotify.com/track/7oVw8rnU2JPXTX3JXLJ1lj"
@@ -8546,7 +8546,7 @@
       ],
       "date_added": "2026-09-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-25",
       "duration_ms": 182168,
       "name": "Come Fai Tu Con Me",
       "url": "https://open.spotify.com/track/7GJANoNC3m6IrLp3D9rJaB"
@@ -16181,6 +16181,24 @@
     },
     {
       "album": {
+        "name": "Guinzaglio",
+        "url": "https://open.spotify.com/album/104GfLHMqyB8QmtbILFijQ"
+      },
+      "artists": [
+        {
+          "name": "Reira dimentica il presente",
+          "url": "https://open.spotify.com/artist/6PWt1sx8cjSnXDNX35vyWX"
+        }
+      ],
+      "date_added": "2026-11-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 233125,
+      "name": "Guinzaglio",
+      "url": "https://open.spotify.com/track/4yBGfrFAfuNIfL04VgIr4R"
+    },
+    {
+      "album": {
         "name": "Haiku",
         "url": "https://open.spotify.com/album/30oUijt0wT32hrjjQblEIY"
       },
@@ -20286,6 +20304,24 @@
       "duration_ms": 198347,
       "name": "Lacrime di caff\u00e8",
       "url": "https://open.spotify.com/track/5LnDjQSBhjCN8fN5nol4SY"
+    },
+    {
+      "album": {
+        "name": "Porte Girevoli",
+        "url": "https://open.spotify.com/album/3nyOpBeZpAmA3uIDW0Cs9S"
+      },
+      "artists": [
+        {
+          "name": "Vinnie Marakas",
+          "url": "https://open.spotify.com/artist/7rO4wSpJVcfp1mXLCOgjj0"
+        }
+      ],
+      "date_added": "2026-11-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 255053,
+      "name": "Lacrimogeni",
+      "url": "https://open.spotify.com/track/1KuAIOiwvEPYjXMYKBXb6P"
     },
     {
       "album": {
@@ -25739,6 +25775,24 @@
     },
     {
       "album": {
+        "name": "una fatica",
+        "url": "https://open.spotify.com/album/4t8xmZPvX6YzI7Qm5wxDri"
+      },
+      "artists": [
+        {
+          "name": "fortunaaa",
+          "url": "https://open.spotify.com/artist/3JPiaeqoHIQ20v2YFUb4v1"
+        }
+      ],
+      "date_added": "2026-11-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 137855,
+      "name": "niente",
+      "url": "https://open.spotify.com/track/6NZ4ICnCWzubi62bL4awvn"
+    },
+    {
+      "album": {
         "name": "quel che resta",
         "url": "https://open.spotify.com/album/1nJLGimuFDWndkY2IfscSj"
       },
@@ -27034,6 +27088,24 @@
       "duration_ms": 214702,
       "name": "Non Sono Tua",
       "url": "https://open.spotify.com/track/33W9RRg8PeHtCoVejgbqgV"
+    },
+    {
+      "album": {
+        "name": "non sto + fermo",
+        "url": "https://open.spotify.com/album/37FMAHbWTSG8FJ09sfY4Xb"
+      },
+      "artists": [
+        {
+          "name": "egojipse\u200e",
+          "url": "https://open.spotify.com/artist/4cwpvv7nLobLiUhBTxoN1S"
+        }
+      ],
+      "date_added": "2026-11-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 157511,
+      "name": "non sto + fermo",
+      "url": "https://open.spotify.com/track/1GIRwcF0Np1wbE8s5v8aoA"
     },
     {
       "album": {
@@ -30544,7 +30616,7 @@
       ],
       "date_added": "2026-11-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-25",
       "duration_ms": 219040,
       "name": "Pierrot",
       "url": "https://open.spotify.com/track/5JNuZLGotDELZK2CWS2Gi9"
@@ -33066,7 +33138,7 @@
       ],
       "date_added": "2026-09-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-25",
       "duration_ms": 184615,
       "name": "RICORDATI DI CORRERE!! (e non fermarti mai)",
       "url": "https://open.spotify.com/track/2XhiFVMmqJMj9HqHDqqSas"
@@ -33993,6 +34065,24 @@
     },
     {
       "album": {
+        "name": "sanguisuga",
+        "url": "https://open.spotify.com/album/6x7BfXSt8Q2dH9HTaOtgQB"
+      },
+      "artists": [
+        {
+          "name": "VEROSIMILE",
+          "url": "https://open.spotify.com/artist/6K9KfaUxJIKk6qZh9a1fVG"
+        }
+      ],
+      "date_added": "2026-11-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 137191,
+      "name": "sanguisuga",
+      "url": "https://open.spotify.com/track/3FqG8XzEhYl6DQjAVywH1A"
+    },
+    {
+      "album": {
         "name": "sanpietrini",
         "url": "https://open.spotify.com/album/0YJaXFVa1D9LiWZ1eUz2m3"
       },
@@ -34448,6 +34538,24 @@
       "duration_ms": 160178,
       "name": "Scema",
       "url": "https://open.spotify.com/track/04vILNWDAjKZ2qb3lONcCB"
+    },
+    {
+      "album": {
+        "name": "te lo dico con calma",
+        "url": "https://open.spotify.com/album/2ydLt6197iVPLGEq2BYSST"
+      },
+      "artists": [
+        {
+          "name": "Giacomo Gatto",
+          "url": "https://open.spotify.com/artist/0dB4t3jkYP8JjUm5PmTzYg"
+        }
+      ],
+      "date_added": "2026-11-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 190835,
+      "name": "schiaffo",
+      "url": "https://open.spotify.com/track/4EoHsCoivrUw031XU34Eq3"
     },
     {
       "album": {
@@ -39844,7 +39952,7 @@
       ],
       "date_added": "2026-10-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-25",
       "duration_ms": 272888,
       "name": "Today",
       "url": "https://open.spotify.com/track/0E7dPlV79iZOFJDB077rCG"
@@ -40385,6 +40493,24 @@
     },
     {
       "album": {
+        "name": "TU",
+        "url": "https://open.spotify.com/album/3rlPCKuy6itHAztMQwyhIT"
+      },
+      "artists": [
+        {
+          "name": "Sant\u00e9",
+          "url": "https://open.spotify.com/artist/55EIo5yMfuqGqppQzEBep1"
+        }
+      ],
+      "date_added": "2026-11-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 145454,
+      "name": "TU",
+      "url": "https://open.spotify.com/track/4xCOcZtVrQ1aSS4wILd67l"
+    },
+    {
+      "album": {
         "name": "Tutte le lettere che ho scritto erano per me",
         "url": "https://open.spotify.com/album/14eVwGA7E4V6CyxqYNyNwF"
       },
@@ -40548,7 +40674,7 @@
       ],
       "date_added": "2026-09-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-25",
       "duration_ms": 113313,
       "name": "turnista x sempre",
       "url": "https://open.spotify.com/track/6AEquNwb03Q2E8qn0hL2Fy"
@@ -40624,7 +40750,7 @@
       ],
       "date_added": "2026-09-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-25",
       "duration_ms": 156000,
       "name": "Tutte le volte",
       "url": "https://open.spotify.com/track/2sDdprCxCrjOCws9nERY5o"

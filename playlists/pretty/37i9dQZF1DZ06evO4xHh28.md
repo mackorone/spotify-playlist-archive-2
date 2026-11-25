@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO4xHh28.md) - [plain]
 
 > This is My Chemical Romance\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 652,353 likes - 38 songs - 2 hr 29 min
+[Spotify](https://open.spotify.com/user/spotify) - 652,486 likes - 38 songs - 2 hr 29 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -37,8 +37,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO4xHh28.md) - [plain]
 | 27 | [Drowning Lessons](https://open.spotify.com/track/08VsSDNBuAOwGu8tkpJlSU) | [My Chemical Romance](https://open.spotify.com/artist/7FBcuc1gsnv6Y1nwFtNRCb) | [I Brought You My Bullets, You Brought Me Your Love](https://open.spotify.com/album/3VSl97ITIbXoFQvx2DQ605) | 4:23 |
 | 28 | [DESTROYA](https://open.spotify.com/track/08gaUXuT1LXIae7TwBTCB9) | [My Chemical Romance](https://open.spotify.com/artist/7FBcuc1gsnv6Y1nwFtNRCb) | [Danger Days: The True Lives of the Fabulous Killjoys](https://open.spotify.com/album/2wPnKggTK3QhYAKL7Q0vvr) | 4:32 |
 | 29 | [Kill All Your Friends](https://open.spotify.com/track/65wICNTM2s1PwXSgKt8f0a) | [My Chemical Romance](https://open.spotify.com/artist/7FBcuc1gsnv6Y1nwFtNRCb) | [Famous Last Words](https://open.spotify.com/album/2jFq1xVAnsoEV1zqgCbqU1) | 4:28 |
-| 30 | [The Foundations of Decay](https://open.spotify.com/track/6Pif6RkFoYzLygdqktus4Q) | [My Chemical Romance](https://open.spotify.com/artist/7FBcuc1gsnv6Y1nwFtNRCb) | [The Foundations of Decay](https://open.spotify.com/album/28SHC2Kn35Nl9yd94CbF3q) | 6:00 |
-| 31 | [Heaven Help Us](https://open.spotify.com/track/1umoCo2qOM7SWnlWf5rQ98) | [My Chemical Romance](https://open.spotify.com/artist/7FBcuc1gsnv6Y1nwFtNRCb) | [The Black Parade \(20th Anniversary Deluxe Edition\)](https://open.spotify.com/album/4M2QW8nne81nwIX7pBCk2U) | 2:55 |
+| 30 | [Heaven Help Us](https://open.spotify.com/track/1umoCo2qOM7SWnlWf5rQ98) | [My Chemical Romance](https://open.spotify.com/artist/7FBcuc1gsnv6Y1nwFtNRCb) | [The Black Parade \(20th Anniversary Deluxe Edition\)](https://open.spotify.com/album/4M2QW8nne81nwIX7pBCk2U) | 2:55 |
+| 31 | [The Foundations of Decay](https://open.spotify.com/track/6Pif6RkFoYzLygdqktus4Q) | [My Chemical Romance](https://open.spotify.com/artist/7FBcuc1gsnv6Y1nwFtNRCb) | [The Foundations of Decay](https://open.spotify.com/album/28SHC2Kn35Nl9yd94CbF3q) | 6:00 |
 | 32 | [Surrender the Night](https://open.spotify.com/track/6NDaxwtVhUHg49bTc99l2S) | [My Chemical Romance](https://open.spotify.com/artist/7FBcuc1gsnv6Y1nwFtNRCb) | [Number Five](https://open.spotify.com/album/3t9RTitJieMFh6wIFhCicr) | 3:27 |
 | 33 | [Bury Me in Black \- Demo](https://open.spotify.com/track/0uwM67BScty5fvQLUZneX5) | [My Chemical Romance](https://open.spotify.com/artist/7FBcuc1gsnv6Y1nwFtNRCb) | [Life on the Murder Scene](https://open.spotify.com/album/6W6pGKjcVJVwbGHy2YRoeO) | 2:36 |
 | 34 | [My Way Home Is Through You](https://open.spotify.com/track/5HmSNijgNQ9xUmVfCyPjHJ) | [My Chemical Romance](https://open.spotify.com/artist/7FBcuc1gsnv6Y1nwFtNRCb) | [Famous Last Words](https://open.spotify.com/album/2jFq1xVAnsoEV1zqgCbqU1) | 2:58 |
@@ -47,4 +47,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO4xHh28.md) - [plain]
 | 37 | [Desert Song](https://open.spotify.com/track/1rDJIKiabJGtDtT8y72aTr) | [My Chemical Romance](https://open.spotify.com/artist/7FBcuc1gsnv6Y1nwFtNRCb) | [Life on the Murder Scene](https://open.spotify.com/album/6W6pGKjcVJVwbGHy2YRoeO) | 3:50 |
 | 38 | [Kiss the Ring](https://open.spotify.com/track/2I4dgdRRupMhZCusqTsp8W) | [My Chemical Romance](https://open.spotify.com/artist/7FBcuc1gsnv6Y1nwFtNRCb) | [Number Four](https://open.spotify.com/album/4Sh91taOfVixkdMV4LiEih) | 3:08 |
 
-Snapshot ID: `awIwgAAAAACXLpVEhuiH6cBpz6LhPE9+`
+Snapshot ID: `awOCAAAAAAA9qhedp1XUSZ+RXhOtmMkT`

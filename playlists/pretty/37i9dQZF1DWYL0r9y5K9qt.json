@@ -1,12 +1,12 @@
 {
   "description": "time to strike a couple of poses. cover: MARQUISE",
-  "num_followers": 622270,
+  "num_followers": 622221,
   "original_name": "poses",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAB0Ux/3KKXo2ukEGgeK0GMYcWrw4",
+  "snapshot_id": "AAAAAMwdi19df3DIjfbea6ODl5G77w8i",
   "tracks": [
     {
       "added_at": "2026-11-20 04:00:49",
@@ -475,22 +475,6 @@
     {
       "added_at": "2026-11-20 04:00:49",
       "album": {
-        "name": "Who is she",
-        "url": "https://open.spotify.com/album/3oKZB7YNsYSvmI4YQjhtdS"
-      },
-      "artists": [
-        {
-          "name": "KISS OF LIFE",
-          "url": "https://open.spotify.com/artist/4TEK9tIkcoxib4GxT3O4ky"
-        }
-      ],
-      "duration_ms": 159000,
-      "name": "Who is she",
-      "url": "https://open.spotify.com/track/16iOs2f9G9qRknDgM9cfAw"
-    },
-    {
-      "added_at": "2026-11-20 04:00:49",
-      "album": {
         "name": "Vivarium",
         "url": "https://open.spotify.com/album/3oyndt1RMCFGQLnZMYPmML"
       },
@@ -503,6 +487,22 @@
       "duration_ms": 243317,
       "name": "Vivarium",
       "url": "https://open.spotify.com/track/0HKYeAArIodGWKWwaQieJL"
+    },
+    {
+      "added_at": "2026-11-20 04:00:49",
+      "album": {
+        "name": "Who is she",
+        "url": "https://open.spotify.com/album/3oKZB7YNsYSvmI4YQjhtdS"
+      },
+      "artists": [
+        {
+          "name": "KISS OF LIFE",
+          "url": "https://open.spotify.com/artist/4TEK9tIkcoxib4GxT3O4ky"
+        }
+      ],
+      "duration_ms": 159000,
+      "name": "Who is she",
+      "url": "https://open.spotify.com/track/16iOs2f9G9qRknDgM9cfAw"
     },
     {
       "added_at": "2026-11-20 04:00:49",
@@ -555,22 +555,6 @@
     {
       "added_at": "2026-11-20 04:00:49",
       "album": {
-        "name": "WE GO UP",
-        "url": "https://open.spotify.com/album/4QymxXCfQoxscpmFiMXcv9"
-      },
-      "artists": [
-        {
-          "name": "BABYMONSTER",
-          "url": "https://open.spotify.com/artist/1SIocsqdEefUTE6XKGUiVS"
-        }
-      ],
-      "duration_ms": 186973,
-      "name": "WE GO UP",
-      "url": "https://open.spotify.com/track/1tonXoW6dcb7GGNpec3PTl"
-    },
-    {
-      "added_at": "2026-11-20 04:00:49",
-      "album": {
         "name": "MAGIC",
         "url": "https://open.spotify.com/album/2wzfAqKAR8tXWovPNbjqLM"
       },
@@ -583,6 +567,22 @@
       "duration_ms": 172291,
       "name": "MAGIC",
       "url": "https://open.spotify.com/track/6hsBxoVdj9mg9m4tHlYE5K"
+    },
+    {
+      "added_at": "2026-11-20 04:00:49",
+      "album": {
+        "name": "WE GO UP",
+        "url": "https://open.spotify.com/album/4QymxXCfQoxscpmFiMXcv9"
+      },
+      "artists": [
+        {
+          "name": "BABYMONSTER",
+          "url": "https://open.spotify.com/artist/1SIocsqdEefUTE6XKGUiVS"
+        }
+      ],
+      "duration_ms": 186973,
+      "name": "WE GO UP",
+      "url": "https://open.spotify.com/track/1tonXoW6dcb7GGNpec3PTl"
     },
     {
       "added_at": "2026-11-20 04:00:49",

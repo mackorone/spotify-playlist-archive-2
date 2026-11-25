@@ -4,7 +4,7 @@
 
 > This is Britney Spears\. The essential tracks, all in one playlist.
 
-89 songs - 5 hr 23 min
+90 songs - 5 hr 26 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -73,7 +73,7 @@
 | [Piece of Me](https://open.spotify.com/track/2EvwLVrnYbCZEG6Kx5DCRy) | [Britney Spears](https://open.spotify.com/artist/26dSoYclwsYLMAKD3tpOr4) | [Blackout](https://open.spotify.com/album/1ePkYcH5ZQCb1b4tQeiEDj) | 3:32 | 2023-07-28 |  |
 | [Pretty Girls](https://open.spotify.com/track/6QicTxeiSaRkPnkGDUvYOs) | [Britney Spears](https://open.spotify.com/artist/26dSoYclwsYLMAKD3tpOr4), [Iggy Azalea](https://open.spotify.com/artist/5yG7ZAZafVaAlMTeBybKAL) | [Pretty Girls](https://open.spotify.com/album/76LmTxakuFgfAmvUvEXz5S) | 2:43 | 2023-07-28 | 2026-11-12 |
 | [Radar](https://open.spotify.com/track/29Srmzqyig5Tg5EitFXsb8) | [Britney Spears](https://open.spotify.com/artist/26dSoYclwsYLMAKD3tpOr4) | [Blackout](https://open.spotify.com/album/1ePkYcH5ZQCb1b4tQeiEDj) | 3:49 | 2023-07-28 |  |
-| [Right Now \(Taste The Victory\)](https://open.spotify.com/track/4Ewtqk4UvDuny26KLFRmKR) | [Britney Spears](https://open.spotify.com/artist/26dSoYclwsYLMAKD3tpOr4) | [Britney \(25th Anniversary Edition\)](https://open.spotify.com/album/5OO1ICgEF6ZaVjLwXgtpIx) | 2:44 | 2026-11-12 |  |
+| [Right Now \(Taste The Victory\)](https://open.spotify.com/track/4Ewtqk4UvDuny26KLFRmKR) | [Britney Spears](https://open.spotify.com/artist/26dSoYclwsYLMAKD3tpOr4) | [Britney \(25th Anniversary Edition\)](https://open.spotify.com/album/5OO1ICgEF6ZaVjLwXgtpIx) | 2:44 | 2026-11-12 | 2026-11-25 |
 | [S&M Remix](https://open.spotify.com/track/44FAj28ivN0HJ0xVYwQ9nL) | [Rihanna](https://open.spotify.com/artist/5pKCCKE2ajJHZ9KAiaK11H), [Britney Spears](https://open.spotify.com/artist/26dSoYclwsYLMAKD3tpOr4) | [S&M Remix](https://open.spotify.com/album/4rLvbAUc2aqGSwkG4TQRgs) | 4:17 | 2023-07-28 |  |
 | [Scary](https://open.spotify.com/track/0A1FLiDJAISObkZeIXakOP) | [Britney Spears](https://open.spotify.com/artist/26dSoYclwsYLMAKD3tpOr4) | [Femme Fatale \(Deluxe Version\)](https://open.spotify.com/album/4uxzT5LmTxYP0JNxjQGBNs) | 3:39 | 2025-10-19 | 2026-01-02 |
 | [Scream & Shout](https://open.spotify.com/track/2iJuuzV8P9Yz0VSurttIV5) | [will.i.am](https://open.spotify.com/artist/085pc2PYOi8bGKj0PNjekA), [Britney Spears](https://open.spotify.com/artist/26dSoYclwsYLMAKD3tpOr4) | [\#willpower](https://open.spotify.com/album/6edYDxspt9uQj21mbAfFIb) | 4:43 | 2023-07-28 |  |
@@ -94,6 +94,7 @@
 | [Toy Soldier](https://open.spotify.com/track/4uSLxMqGSIuWeMSoLdoKq3) | [Britney Spears](https://open.spotify.com/artist/26dSoYclwsYLMAKD3tpOr4) | [Blackout](https://open.spotify.com/album/1ePkYcH5ZQCb1b4tQeiEDj) | 3:21 | 2024-04-24 | 2024-05-27 |
 | [Unusual You](https://open.spotify.com/track/5yFDS6dDzjjmGFVaYcwPAB) | [Britney Spears](https://open.spotify.com/artist/26dSoYclwsYLMAKD3tpOr4) | [Circus \(Deluxe Version\)](https://open.spotify.com/album/2tve5DGwub1TtbX1khPX5j) | 4:21 | 2023-12-13 | 2024-04-20 |
 | [What U See \(Is What U Get\)](https://open.spotify.com/track/41cQPDvsP9vBCigVqQjnqg) | [Britney Spears](https://open.spotify.com/artist/26dSoYclwsYLMAKD3tpOr4) | [Oops!..\. I Did It Again](https://open.spotify.com/album/5PmgtkodFl2Om3hMXONDll) | 3:36 | 2023-07-28 |  |
+| [When I Say So](https://open.spotify.com/track/7qpgGFeh3kHvBiSpDJJyre) | [Britney Spears](https://open.spotify.com/artist/26dSoYclwsYLMAKD3tpOr4) | [Britney \(25th Anniversary Edition\)](https://open.spotify.com/album/5OO1ICgEF6ZaVjLwXgtpIx) | 2:55 | 2026-11-25 |  |
 | [Why Should I Be Sad](https://open.spotify.com/track/05ysmI6jXcCYLNPCOu9vnQ) | [Britney Spears](https://open.spotify.com/artist/26dSoYclwsYLMAKD3tpOr4) | [Blackout](https://open.spotify.com/album/1ePkYcH5ZQCb1b4tQeiEDj) | 3:10 | 2025-10-22 | 2025-11-06 |
 | [Womanizer](https://open.spotify.com/track/4fixebDZAVToLbUCuEloa2) | [Britney Spears](https://open.spotify.com/artist/26dSoYclwsYLMAKD3tpOr4) | [Circus \(Deluxe Version\)](https://open.spotify.com/album/2tve5DGwub1TtbX1khPX5j) | 3:44 | 2023-07-28 |  |
 | [Work Bitch](https://open.spotify.com/track/3KliPMvk1EvFZu9cvkj8p1) | [Britney Spears](https://open.spotify.com/artist/26dSoYclwsYLMAKD3tpOr4) | [Britney Jean \(Deluxe Version\)](https://open.spotify.com/album/5rlB2HPoNHg2m1wmmh0TRv) | 4:07 | 2023-07-28 |  |

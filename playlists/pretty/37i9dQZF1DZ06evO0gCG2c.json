@@ -1,12 +1,12 @@
 {
   "description": "This is Akon. The essential tracks, all in one playlist.",
-  "num_followers": 349354,
+  "num_followers": 349380,
   "original_name": "This Is Akon",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "awIwgAAAAACd3yPQNjo5VB/zK+uuXkVT",
+  "snapshot_id": "awOCAAAAAABxRafThMaaVHZhJVhSTphK",
   "tracks": [
     {
       "added_at": null,
@@ -187,26 +187,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Konvicted",
-        "url": "https://open.spotify.com/album/6kzoWb4UzvKYgbDfAwgaFq"
-      },
-      "artists": [
-        {
-          "name": "Akon",
-          "url": "https://open.spotify.com/artist/0z4gvV4rjIZ9wHck67ucSV"
-        },
-        {
-          "name": "Snoop Dogg",
-          "url": "https://open.spotify.com/artist/7hJcb9fa4alzcOq3EaNPoG"
-        }
-      ],
-      "duration_ms": 247066,
-      "name": "I Wanna Love You",
-      "url": "https://open.spotify.com/track/0CXVjQI9wsqaGeIARkkpYc"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "The Sweet Escape",
         "url": "https://open.spotify.com/album/7xnZ539lh8x6de9jzlpCJp"
       },
@@ -223,6 +203,26 @@
       "duration_ms": 246466,
       "name": "The Sweet Escape",
       "url": "https://open.spotify.com/track/66ZcOcouenzZEnzTJvoFmH"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Konvicted",
+        "url": "https://open.spotify.com/album/6kzoWb4UzvKYgbDfAwgaFq"
+      },
+      "artists": [
+        {
+          "name": "Akon",
+          "url": "https://open.spotify.com/artist/0z4gvV4rjIZ9wHck67ucSV"
+        },
+        {
+          "name": "Snoop Dogg",
+          "url": "https://open.spotify.com/artist/7hJcb9fa4alzcOq3EaNPoG"
+        }
+      ],
+      "duration_ms": 247066,
+      "name": "I Wanna Love You",
+      "url": "https://open.spotify.com/track/0CXVjQI9wsqaGeIARkkpYc"
     },
     {
       "added_at": null,
@@ -527,26 +527,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Curtis",
-        "url": "https://open.spotify.com/album/5VfBwkAoSsQwtZjPU0Gr7h"
-      },
-      "artists": [
-        {
-          "name": "50 Cent",
-          "url": "https://open.spotify.com/artist/3q7HBObVc0L8jNeTe5Gofh"
-        },
-        {
-          "name": "Akon",
-          "url": "https://open.spotify.com/artist/0z4gvV4rjIZ9wHck67ucSV"
-        }
-      ],
-      "duration_ms": 223506,
-      "name": "I'll Still Kill",
-      "url": "https://open.spotify.com/track/0XV3lm3ZxKUr6FiWVdJuyk"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Lottery",
         "url": "https://open.spotify.com/album/3XEh38wILVLlHm4bs3eKY4"
       },
@@ -567,6 +547,26 @@
       "duration_ms": 185333,
       "name": "Boom Body",
       "url": "https://open.spotify.com/track/2FIGowzgXPaIuZhcFNdT2P"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Curtis",
+        "url": "https://open.spotify.com/album/5VfBwkAoSsQwtZjPU0Gr7h"
+      },
+      "artists": [
+        {
+          "name": "50 Cent",
+          "url": "https://open.spotify.com/artist/3q7HBObVc0L8jNeTe5Gofh"
+        },
+        {
+          "name": "Akon",
+          "url": "https://open.spotify.com/artist/0z4gvV4rjIZ9wHck67ucSV"
+        }
+      ],
+      "duration_ms": 223506,
+      "name": "I'll Still Kill",
+      "url": "https://open.spotify.com/track/0XV3lm3ZxKUr6FiWVdJuyk"
     },
     {
       "added_at": null,

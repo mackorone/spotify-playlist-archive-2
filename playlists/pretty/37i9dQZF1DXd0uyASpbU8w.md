@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXd0uyASpbU8w.md) - [plain]
 
 > New music from Usimamane, DJ Tira & Campmasters, Bucie, Tems and more.
 
-[Spotify](https://open.spotify.com/user/spotify) - 199,307 likes - 100 songs - 7 hr 33 min
+[Spotify](https://open.spotify.com/user/spotify) - 199,355 likes - 100 songs - 7 hr 33 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXd0uyASpbU8w.md) - [plain]
 | 99 | [IMPILO](https://open.spotify.com/track/3Jqa1w7v0XM5ApbVto9ulT) | [Emkay'fresh](https://open.spotify.com/artist/0VxB8RerIG6KAxfASgu3nU), [Khanyi](https://open.spotify.com/artist/7p7QT4gNHbRDB6DLbVlEpP), [DrummeRTee924](https://open.spotify.com/artist/7EBRU9cmJ711l9hh7uxTNR) | [IMPILO](https://open.spotify.com/album/5m1Ymr5jJMG6bvHRNfHbNQ) | 5:12 |
 | 100 | [Ngiyabonga](https://open.spotify.com/track/3lmL0CPc2LprkpM8xAv79l) | [Prince Bulo](https://open.spotify.com/artist/0fP9Z1HMfc04QB0wsIHD0Z), [OkaMageba](https://open.spotify.com/artist/45p08Lyuo98nTUWkBsL9Xy) | [Born for This](https://open.spotify.com/album/7uG4DAGq1kfPP8Ffh3Dias) | 6:00 |
 
-Snapshot ID: `AAAAALIlVHiwozw+g+5WEoAlCei4H0eG`
+Snapshot ID: `AAAAAGL5LDmty1rRnA7idjvxlBFGW9J3`

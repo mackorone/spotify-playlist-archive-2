@@ -4,7 +4,7 @@
 
 > African Praise music taking you all the way up!
 
-1,187 songs - 3 day 7 hr 26 min
+1,188 songs - 3 day 7 hr 30 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -707,7 +707,7 @@
 | [Nampenda Bwana](https://open.spotify.com/track/2Xcr13VQX7RBswpBtO19Xg) | [Moji Shortbabaa](https://open.spotify.com/artist/75LES04hIh8qYY8Oqdp7rn) | [Nampenda Bwana](https://open.spotify.com/album/5pJs0mBsYBmZUTENIQMIx9) | 3:42 | 2026-06-12 | 2026-06-26 |
 | [Nasempini \(feat\. Ayanda Ntanzi, DJ Maphorisa & Stakev\)](https://open.spotify.com/track/280F6i6HJwJNPkWQbRVhXu) | [Kabza De Small](https://open.spotify.com/artist/1bNjWBFWsAAzZSR59lRdpR), [Spirit Of Praise](https://open.spotify.com/artist/4WN1JAeUnvBiLteTeFSwUa), [Ayanda Ntanzi](https://open.spotify.com/artist/3NXb9zGCEqzY4iDccRB3Hw), [DJ Maphorisa](https://open.spotify.com/artist/0mMqD2uqwvCjFvlzo6ayGi), [Stakev](https://open.spotify.com/artist/4jLJYvyzKcFdJORv6coLiw) | [Nasempini \(feat\. Ayanda Ntanzi, DJ Maphorisa & Stakev\)](https://open.spotify.com/album/69vu02uo13ZSr7GgeyokCs) | 6:52 | 2024-12-27 | 2025-03-14 |
 | [Nazareth](https://open.spotify.com/track/1cjbo02DcKCvBvvsvgyIMa) | [Rehmahz](https://open.spotify.com/artist/2n4Cjxgsst568zKdsmsEnY), [Pillar YRR](https://open.spotify.com/artist/62jRIwQ6eUifptPOGRBHqd) | [Nazareth](https://open.spotify.com/album/7hqgOTWYbz8tgM6TbZbs37) | 2:35 | 2025-08-01 | 2025-08-29 |
-| [Need You](https://open.spotify.com/track/0e2dqpRD77jYuSi7lUqMdH) | [King GreatLight](https://open.spotify.com/artist/7CNnBtVHuRg05DyAZQjRF5), [Otié](https://open.spotify.com/artist/1P6PdWHR5edNYWoAweZ5gS) | [Need You](https://open.spotify.com/album/6mUbbFE6jPnVyBnIyXUgX6) | 2:35 | 2026-10-23 |  |
+| [Need You](https://open.spotify.com/track/0e2dqpRD77jYuSi7lUqMdH) | [King GreatLight](https://open.spotify.com/artist/7CNnBtVHuRg05DyAZQjRF5), [Otié](https://open.spotify.com/artist/1P6PdWHR5edNYWoAweZ5gS) | [Need You](https://open.spotify.com/album/6mUbbFE6jPnVyBnIyXUgX6) | 2:35 | 2026-10-23 | 2026-11-25 |
 | [Neema Ya Mungu](https://open.spotify.com/track/6B8lSTs59tEbV5Bn7TnH9d) | [Walter Chilambo](https://open.spotify.com/artist/45uMTYzfFVO9etu44SqcBO) | [Neema Ya Mungu](https://open.spotify.com/album/7Ib8NRYD26QZHQPrtY9TLn) | 3:29 | 2025-09-19 | 2026-01-15 |
 | [NEVER](https://open.spotify.com/track/51NtndNrs8iGiYCiFiDjUP) | [Spillz Ochai](https://open.spotify.com/artist/0ASeFVBo2nXByjUoyp1A5q), [R\-Scar](https://open.spotify.com/artist/0p2at2XqvrkIZUuknWspiH), [Glitzbeatz](https://open.spotify.com/artist/6STIHlNG2q6dwVWkccjvVK) | [NEVER](https://open.spotify.com/album/5hCf02rm3CLa0dY42Falzz) | 3:00 | 2026-08-28 |  |
 | [Never Change](https://open.spotify.com/track/4cZcAPFcCXWchJkR6m12M3) | [Drakare](https://open.spotify.com/artist/0BoOl61L5Z9Movl0eAI1Be), [Ore Clarke](https://open.spotify.com/artist/42v1UjLH8XdFav1CTqwpqm) | [Never Change](https://open.spotify.com/album/1jQIesG0o91ZVUnFZ3b3Rh) | 4:08 | 2025-10-17 | 2025-12-12 |
@@ -784,6 +784,7 @@
 | [Oluwa E Tobi](https://open.spotify.com/track/0oaKmxWcHhhs4G382nd2Dh) | [Sammie Okposo](https://open.spotify.com/artist/4qygDDItX42LbfJLQUedIJ), [Kike Mudiaga](https://open.spotify.com/artist/5Xg68cQyFO6Cui07HB4oKF) | [S\. W\. A\. G \(Saved with Amazing Grace\)](https://open.spotify.com/album/4e7jM4Ly4okAfuzhYmqasg) | 4:02 | 2023-04-06 | 2025-02-28 |
 | [Oluwa Is Involved](https://open.spotify.com/track/2GzeQS7qpSVumahCIX8V0F) | [Joyce Blessing](https://open.spotify.com/artist/4ilNroq4d7QN2djHi3IVZI) | [Oluwa Is Involved](https://open.spotify.com/album/1h1PgfpJTprwJ6ySI143Dk) | 3:25 | 2023-05-26 | 2025-02-28 |
 | [Omemma](https://open.spotify.com/track/4sPCyyac3H3jeBzbhqdYFa) | [Elijah Daniel Omo Majemu](https://open.spotify.com/artist/4lq5l1U6f3A8KwEOsvyTlG), [Tkeyz](https://open.spotify.com/artist/6MRNiMCUDv9mDmMcaXhjgI) | [Omemma](https://open.spotify.com/album/5rtBuSxzWOjxLOiDyiIgQj) | 6:08 | 2026-01-09 | 2026-05-22 |
+| [Omeriwo](https://open.spotify.com/track/6sHw5PDrt0SarVTsrSzsLR) | [Dr Ugonma](https://open.spotify.com/artist/1ezWgINGP5TC8PIOm0pSJc) | [Omeriwo](https://open.spotify.com/album/1iq5v62OmLO14qq6Q8m3Vg) | 4:22 | 2026-11-20 |  |
 | [Omeriwo](https://open.spotify.com/track/65tGleT9TqETxPXyjLf6Es) | [Sammie Okposo](https://open.spotify.com/artist/4qygDDItX42LbfJLQUedIJ), [Henrisoul](https://open.spotify.com/artist/29nYQAtysT9en4qYsRuNTL), [Mercy Chinwo](https://open.spotify.com/artist/68ra9ISZg5HZYwKaPtKvMp) | [Omeriwo](https://open.spotify.com/album/76sBUYUu76JYwbMZ8K1dwP) | 3:38 | 2023-04-06 | 2025-02-28 |
 | [Omewoya](https://open.spotify.com/track/30qwwR3aK41Mx505TgAXsl) | [Minstrel T\-Philz](https://open.spotify.com/artist/3gdHH0lor8i0c47R6lMrSL) | [Omewoya](https://open.spotify.com/album/4VxZbZO98VuZOZsNkVFl7k) | 3:04 | 2026-02-20 | 2026-03-20 |
 | [OMG](https://open.spotify.com/track/4ekJe6P8gN8oGg0W43ehiZ) | [Nutty Josh](https://open.spotify.com/artist/259gFVebrznddLh7C8Esth), [Gaise Baba](https://open.spotify.com/artist/5pFY8yo0PDefGs7laYnNwo), [A Mose](https://open.spotify.com/artist/4ioJbpi0sNGUUq2b8tnH0X) | [OMG](https://open.spotify.com/album/54HjzlHxkRXDOVVLnMRt2G) | 3:05 | 2025-11-07 | 2026-01-15 |

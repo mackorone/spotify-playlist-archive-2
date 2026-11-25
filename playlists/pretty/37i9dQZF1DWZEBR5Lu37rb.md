@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZEBR5Lu37rb.md) - [plain]
 
 > If love is in the air then you've got your own gas tank\. No roses\. Just vibes.
 
-[Spotify](https://open.spotify.com/user/spotify) - 127,411 likes - 50 songs - 2 hr 29 min
+[Spotify](https://open.spotify.com/user/spotify) - 127,428 likes - 50 songs - 2 hr 29 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -15,9 +15,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZEBR5Lu37rb.md) - [plain]
 | 5 | [Last Heartbreak Song \(feat\. Giveon\)](https://open.spotify.com/track/1A1ifX8sWzelNpkL5PxcHT) | [Ayra Starr](https://open.spotify.com/artist/3ZpEKRjHaHANcpk10u6Ntq), [GIVĒON](https://open.spotify.com/artist/4fxd5Ee7UefO4CUXgwJ7IP) | [The Year I Turned 21](https://open.spotify.com/album/1W25XYjRQPob14CkgOYVms) | 2:29 |
 | 6 | [Pidgin & English](https://open.spotify.com/track/4jcrO2T6XJ1B7hXsAEJ3ve) | [BNXN](https://open.spotify.com/artist/3zaDigUwjHvjOkSn0NDf9x) | [Sincerely, Benson](https://open.spotify.com/album/3dctFKCiGPizmylLp0SN0a) | 3:38 |
 | 7 | [What You Need](https://open.spotify.com/track/7x5RhTT2bzS6CCQFeNb5HU) | [Tems](https://open.spotify.com/artist/687cZJR45JO7jhk1LHIbgq) | [Love Is A Kingdom](https://open.spotify.com/album/3aI43F5shWPnoW4KMfxM1c) | 3:54 |
-| 8 | [Girlfriend](https://open.spotify.com/track/57jUCJelGAISFxuea34lrr) | [Ruger](https://open.spotify.com/artist/0a1SidMjD8D6EHvJph4n2H) | [The Second Wave \(Deluxe\)](https://open.spotify.com/album/4C25f9CQZZmeXJeGcpXWFg) | 3:16 |
+| 8 | [Blame U](https://open.spotify.com/track/7lNFaTHV5IH8xaSXPqllOn) | [Odeal](https://open.spotify.com/artist/2BPwxhCvvcb8xDl8GWIjbh) | [Lustropolis](https://open.spotify.com/album/6fxMeTRs7F0zyooUfR9YSa) | 2:49 |
 | 9 | [Last Last](https://open.spotify.com/track/57DarSfRMIVRCeDBGW0l5S) | [Burna Boy](https://open.spotify.com/artist/3wcj11K77LjEY1PkEazffa) | [Love, Damini](https://open.spotify.com/album/53s3xfNBbh5Z0Xv9IXjvi4) | 2:52 |
-| 10 | [Blame U](https://open.spotify.com/track/7lNFaTHV5IH8xaSXPqllOn) | [Odeal](https://open.spotify.com/artist/2BPwxhCvvcb8xDl8GWIjbh) | [Lustropolis](https://open.spotify.com/album/6fxMeTRs7F0zyooUfR9YSa) | 2:49 |
+| 10 | [Girlfriend](https://open.spotify.com/track/57jUCJelGAISFxuea34lrr) | [Ruger](https://open.spotify.com/artist/0a1SidMjD8D6EHvJph4n2H) | [The Second Wave \(Deluxe\)](https://open.spotify.com/album/4C25f9CQZZmeXJeGcpXWFg) | 3:16 |
 | 11 | [Playboy](https://open.spotify.com/track/2AKS1HhpLu2rgkojECUm3V) | [Fireboy DML](https://open.spotify.com/artist/75VKfyoBlkmrJFDqo1o2VY) | [Playboy](https://open.spotify.com/album/1pUJnA3OSbvVr5afqxNARZ) | 3:27 |
 | 12 | [Damages](https://open.spotify.com/track/3Xfwu3xtPqmJ4nM4jpBm8O) | [Tems](https://open.spotify.com/artist/687cZJR45JO7jhk1LHIbgq) | [For Broken Ears](https://open.spotify.com/album/2sU8ByeYc5BOBFNDr58CGV) | 2:49 |
 | 13 | [Sip \(Alcohol\)](https://open.spotify.com/track/4s6x56uNiNCAA87yzqTz5G) | [Joeboy](https://open.spotify.com/artist/1XavfPKBpNjkOfxHINlMHF) | [Body & Soul](https://open.spotify.com/album/1TGcgugu0CxUp5rhS7SyCW) | 2:38 |
@@ -33,17 +33,17 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZEBR5Lu37rb.md) - [plain]
 | 23 | [golibe](https://open.spotify.com/track/0WjpZZPLAAADeY9Hdam4Nr) | [FOLA](https://open.spotify.com/artist/0FK1hXdXst70HD11n5J26z), [Victony](https://open.spotify.com/artist/1E5hfn5BduN2nnoZCJmUVG) | [catharsis](https://open.spotify.com/album/6gTLViwiDv6NKtTAG0nm7S) | 2:42 |
 | 24 | [Snapchat](https://open.spotify.com/track/5n4Jw3ohf9JT380HB7hhLw) | [Ruger](https://open.spotify.com/artist/0a1SidMjD8D6EHvJph4n2H) | [The Second Wave \(Deluxe\)](https://open.spotify.com/album/4C25f9CQZZmeXJeGcpXWFg) | 3:26 |
 | 25 | [Paparazzi](https://open.spotify.com/track/7BhG41omZ3k1wwlNzIlCrm) | [Shoday](https://open.spotify.com/artist/23R4AtMwVv0pbJYB1joioW), [FOLA](https://open.spotify.com/artist/0FK1hXdXst70HD11n5J26z) | [Paparazzi](https://open.spotify.com/album/3y6KnQqXjVz7lK5gi9CuRX) | 2:27 |
-| 26 | [i'm a mess](https://open.spotify.com/track/65v99AWZyNz3aRmfrT2I7N) | [OMAH LAY](https://open.spotify.com/artist/5yOvAmpIR7hVxiS6Ls5DPO) | [Boy Alone](https://open.spotify.com/album/5NLjxx8nRy9ooUmgpOvfem) | 2:33 |
-| 27 | [Big Daddy](https://open.spotify.com/track/5WcQ5AwCp9mSqpsul6ccx4) | [Tems](https://open.spotify.com/artist/687cZJR45JO7jhk1LHIbgq) | [Love Is A Kingdom](https://open.spotify.com/album/3aI43F5shWPnoW4KMfxM1c) | 2:46 |
+| 26 | [Big Daddy](https://open.spotify.com/track/5WcQ5AwCp9mSqpsul6ccx4) | [Tems](https://open.spotify.com/artist/687cZJR45JO7jhk1LHIbgq) | [Love Is A Kingdom](https://open.spotify.com/album/3aI43F5shWPnoW4KMfxM1c) | 2:46 |
+| 27 | [i'm a mess](https://open.spotify.com/track/65v99AWZyNz3aRmfrT2I7N) | [OMAH LAY](https://open.spotify.com/artist/5yOvAmpIR7hVxiS6Ls5DPO) | [Boy Alone](https://open.spotify.com/album/5NLjxx8nRy9ooUmgpOvfem) | 2:33 |
 | 28 | [feeling](https://open.spotify.com/track/5EMD7ozaMBD2GJCUHD5nVn) | [FOLA](https://open.spotify.com/artist/0FK1hXdXst70HD11n5J26z) | [feeling](https://open.spotify.com/album/4HgqgBQ1GijdEct4MU407R) | 2:41 |
 | 29 | [Red Flags](https://open.spotify.com/track/31jkD22MNUrpebszwU7ZFz) | [Ruger](https://open.spotify.com/artist/0a1SidMjD8D6EHvJph4n2H) | [RU The World](https://open.spotify.com/album/676QN3uS7pzWA0Or87JTcN) | 2:55 |
-| 30 | [Need You](https://open.spotify.com/track/1rgK0UrJNwkaIptPI0a5kg) | [Fireboy DML](https://open.spotify.com/artist/75VKfyoBlkmrJFDqo1o2VY) | [Laughter, Tears & Goosebumps](https://open.spotify.com/album/4dZjYBEciWomanesAv3fie) | 3:41 |
-| 31 | [Aquafina](https://open.spotify.com/track/0UJMgRVNBrnMmAeZ8p1iMc) | [Young Jonn](https://open.spotify.com/artist/4JM1zsVj1pt38Q8mhv5teI) | [Jiggy Forever](https://open.spotify.com/album/6xr2tWr8pg5ndECtOD66lp) | 2:48 |
+| 30 | [Aquafina](https://open.spotify.com/track/0UJMgRVNBrnMmAeZ8p1iMc) | [Young Jonn](https://open.spotify.com/artist/4JM1zsVj1pt38Q8mhv5teI) | [Jiggy Forever](https://open.spotify.com/album/6xr2tWr8pg5ndECtOD66lp) | 2:48 |
+| 31 | [Need You](https://open.spotify.com/track/1rgK0UrJNwkaIptPI0a5kg) | [Fireboy DML](https://open.spotify.com/artist/75VKfyoBlkmrJFDqo1o2VY) | [Laughter, Tears & Goosebumps](https://open.spotify.com/album/4dZjYBEciWomanesAv3fie) | 3:41 |
 | 32 | [KU LO SA](https://open.spotify.com/track/6NYaKDhK6xOuylauWDuLrP) | [Oxlade](https://open.spotify.com/artist/3WTrdbZU99dgTtt3ZkyamT) | [OFA \(Oxlade From Africa\)](https://open.spotify.com/album/1QCCsP9vKzAFLklbRwvTC5) | 2:28 |
 | 33 | [by now](https://open.spotify.com/track/3rRKu7N2zRgb0pF9DLrrBI) | [CKay](https://open.spotify.com/artist/048LktY5zMnakWq7PTtFrz) | [Sad Romance](https://open.spotify.com/album/0Tm2AxwlhkZ234TRIe7IoY) | 2:44 |
 | 34 | [alone \- Remix](https://open.spotify.com/track/2GSK9VfsKWpVOV6ZzKiMA4) | [FOLA](https://open.spotify.com/artist/0FK1hXdXst70HD11n5J26z), [BNXN](https://open.spotify.com/artist/3zaDigUwjHvjOkSn0NDf9x) | [alone \(Remix\)](https://open.spotify.com/album/1bE7lrP5TzEIX3UHiwMhKR) | 2:34 |
-| 35 | [Terminator \(feat\. Young Jonn\)](https://open.spotify.com/track/4jyZRIiSAEkziHwhZsfmXc) | [King Promise](https://open.spotify.com/artist/4tIKaxUmpXzshok2yCnwdf), [Young Jonn](https://open.spotify.com/artist/4JM1zsVj1pt38Q8mhv5teI) | [Terminator \(feat\. Young Jonn\)](https://open.spotify.com/album/1BICkuyzPn2IIQXjopKOXE) | 3:54 |
-| 36 | [Last Time](https://open.spotify.com/track/14nSbMQqRo1BxshIjprVDO) | [Zinoleesky](https://open.spotify.com/artist/6Kp3KWPiVgi33DkJqo9T4g), [OMAH LAY](https://open.spotify.com/artist/5yOvAmpIR7hVxiS6Ls5DPO) | [Grit & Lust](https://open.spotify.com/album/4se56vUQlf2nGZHynfAkTZ) | 2:33 |
+| 35 | [Last Time](https://open.spotify.com/track/14nSbMQqRo1BxshIjprVDO) | [Zinoleesky](https://open.spotify.com/artist/6Kp3KWPiVgi33DkJqo9T4g), [OMAH LAY](https://open.spotify.com/artist/5yOvAmpIR7hVxiS6Ls5DPO) | [Grit & Lust](https://open.spotify.com/album/4se56vUQlf2nGZHynfAkTZ) | 2:33 |
+| 36 | [Terminator \(feat\. Young Jonn\)](https://open.spotify.com/track/4jyZRIiSAEkziHwhZsfmXc) | [King Promise](https://open.spotify.com/artist/4tIKaxUmpXzshok2yCnwdf), [Young Jonn](https://open.spotify.com/artist/4JM1zsVj1pt38Q8mhv5teI) | [Terminator \(feat\. Young Jonn\)](https://open.spotify.com/album/1BICkuyzPn2IIQXjopKOXE) | 3:54 |
 | 37 | [Calculate \- II](https://open.spotify.com/track/1sCQfPNKw2QIIV0CloMdpw) | [Kidd Carder](https://open.spotify.com/artist/3XpBO9TZxfQtfKXg8guWYI), [Young Jonn](https://open.spotify.com/artist/4JM1zsVj1pt38Q8mhv5teI) | [Calculate \(II\)](https://open.spotify.com/album/1PkPQJDdcDjgG6tCgiUBlK) | 3:00 |
 | 38 | [Gum Body \(feat\. Jorja Smith\)](https://open.spotify.com/track/5u85l53Y04W59OfzQUsQX6) | [Burna Boy](https://open.spotify.com/artist/3wcj11K77LjEY1PkEazffa), [Jorja Smith](https://open.spotify.com/artist/1CoZyIx7UvdxT5c8UkMzHd) | [African Giant](https://open.spotify.com/album/277z75G1Gdz0SWN9pegrrs) | 3:15 |
 | 39 | [Trouble Maker](https://open.spotify.com/track/7K9wl9YIk1nCnTKNE1K3ta) | [Rema](https://open.spotify.com/artist/46pWGuE3dSwY3bMMXGBvVS) | [RAVAGE](https://open.spotify.com/album/53oOgXjjaTx42Sy2exYlH9) | 2:35 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZEBR5Lu37rb.md) - [plain]
 | 49 | [Boulevard](https://open.spotify.com/track/6khF6tGGrGcsQIfA4LP7P0) | [Rema](https://open.spotify.com/artist/46pWGuE3dSwY3bMMXGBvVS) | [Freestyle EP](https://open.spotify.com/album/77S4lBoIMeZEYvtWBMH5DO) | 1:52 |
 | 50 | [Lomo Lomo](https://open.spotify.com/track/12jJRu9yInIX7oTxoXtM0S) | [KiDi](https://open.spotify.com/artist/14PimM6ohO2gYftuwTam9V), [Black Sherif](https://open.spotify.com/artist/2LiqbH7OhqP0yuaG8VL1wJ) | [Lomo Lomo](https://open.spotify.com/album/4MTFOFZPAkcVKhnk76J6EK) | 2:55 |
 
-Snapshot ID: `AAAAAGNsMinWZM2cLqVZk7iwwcNciNmo`
+Snapshot ID: `AAAAAFFdvYhSOZHHJ8ZP8YGFZVk2B02i`

@@ -1,12 +1,12 @@
 {
   "description": "This is Silvana Estrada. The essential tracks, all in one playlist.",
-  "num_followers": 72102,
+  "num_followers": 72178,
   "original_name": "This Is Silvana Estrada",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "awIwgAAAAACmWfUrqZhx1SgBfpJ5VisB",
+  "snapshot_id": "awOCAAAAAABk5+Nqcz/0ZSYFyMqdOhqz",
   "tracks": [
     {
       "added_at": null,
@@ -155,26 +155,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Cosas de los vivientes",
-        "url": "https://open.spotify.com/album/00gE14v4P0wQj8Qicor3yu"
-      },
-      "artists": [
-        {
-          "name": "El Kanka",
-          "url": "https://open.spotify.com/artist/4Byu6VBhuMYzcoIUrIyLuL"
-        },
-        {
-          "name": "Silvana Estrada",
-          "url": "https://open.spotify.com/artist/72VywtXEoONiBLNu3ibGI7"
-        }
-      ],
-      "duration_ms": 222946,
-      "name": "Para vivir",
-      "url": "https://open.spotify.com/track/6SFt1kzei45M8plu3VVdtT"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Vendr\u00e1n Suaves Lluvias (y el tiempo prudente)",
         "url": "https://open.spotify.com/album/52ujZlA5WJMJAxFJGSYVgi"
       },
@@ -191,6 +171,26 @@
       "duration_ms": 173778,
       "name": "Todo Baila (feat. M. Ward)",
       "url": "https://open.spotify.com/track/7mrfHtckwsCyeQVFhsL9jJ"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Cosas de los vivientes",
+        "url": "https://open.spotify.com/album/00gE14v4P0wQj8Qicor3yu"
+      },
+      "artists": [
+        {
+          "name": "El Kanka",
+          "url": "https://open.spotify.com/artist/4Byu6VBhuMYzcoIUrIyLuL"
+        },
+        {
+          "name": "Silvana Estrada",
+          "url": "https://open.spotify.com/artist/72VywtXEoONiBLNu3ibGI7"
+        }
+      ],
+      "duration_ms": 222946,
+      "name": "Para vivir",
+      "url": "https://open.spotify.com/track/6SFt1kzei45M8plu3VVdtT"
     },
     {
       "added_at": null,
@@ -227,6 +227,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Para Siempre",
+        "url": "https://open.spotify.com/album/4S960SG2fqdAUmVGfcmwCQ"
+      },
+      "artists": [
+        {
+          "name": "Silvana Estrada",
+          "url": "https://open.spotify.com/artist/72VywtXEoONiBLNu3ibGI7"
+        }
+      ],
+      "duration_ms": 201452,
+      "name": "Para Siempre",
+      "url": "https://open.spotify.com/track/2CwOQJ5gCpn1MgQqyTna5d"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Marchita",
         "url": "https://open.spotify.com/album/2fvOC8dzZ0BMVzCG6X2g7Y"
       },
@@ -239,22 +255,6 @@
       "duration_ms": 207786,
       "name": "Ser de Ti",
       "url": "https://open.spotify.com/track/1t7DZ1hrqkV1BVaxBPQwB1"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Vendr\u00e1n Suaves Lluvias (y el tiempo prudente)",
-        "url": "https://open.spotify.com/album/52ujZlA5WJMJAxFJGSYVgi"
-      },
-      "artists": [
-        {
-          "name": "Silvana Estrada",
-          "url": "https://open.spotify.com/artist/72VywtXEoONiBLNu3ibGI7"
-        }
-      ],
-      "duration_ms": 93923,
-      "name": "Pensarte",
-      "url": "https://open.spotify.com/track/0Mtdm3F7672KIPYURPLFog"
     },
     {
       "added_at": null,
@@ -275,8 +275,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Para Siempre",
-        "url": "https://open.spotify.com/album/4S960SG2fqdAUmVGfcmwCQ"
+        "name": "Vendr\u00e1n Suaves Lluvias (y el tiempo prudente)",
+        "url": "https://open.spotify.com/album/52ujZlA5WJMJAxFJGSYVgi"
       },
       "artists": [
         {
@@ -284,9 +284,9 @@
           "url": "https://open.spotify.com/artist/72VywtXEoONiBLNu3ibGI7"
         }
       ],
-      "duration_ms": 201452,
-      "name": "Para Siempre",
-      "url": "https://open.spotify.com/track/2CwOQJ5gCpn1MgQqyTna5d"
+      "duration_ms": 93923,
+      "name": "Pensarte",
+      "url": "https://open.spotify.com/track/0Mtdm3F7672KIPYURPLFog"
     },
     {
       "added_at": null,

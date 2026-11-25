@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-06-10",
-  "description": "Explore the current wave of VOCALOID culture. Cover: TAK",
+  "description": "Explore the current wave of VOCALOID culture. Cover: Tokyo Manaka",
   "name": "VOCALOID now",
   "tracks": [
     {
@@ -1908,7 +1908,7 @@
       ],
       "date_added": "2026-07-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-25",
       "duration_ms": 111428,
       "name": "iMAGINAry",
       "url": "https://open.spotify.com/track/15uRS8yq6HwYJLOyrZMC8o"
@@ -2310,7 +2310,7 @@
       ],
       "date_added": "2026-10-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-25",
       "duration_ms": 218179,
       "name": "Kyuujitsuno arekore",
       "url": "https://open.spotify.com/track/6RnQW0CkiybPk8LqibYP9t"
@@ -2358,6 +2358,28 @@
       "duration_ms": 202493,
       "name": "Lap Tap Love",
       "url": "https://open.spotify.com/track/7weaxG7FEqDVCyZsLsyaKX"
+    },
+    {
+      "album": {
+        "name": "LEGENDS",
+        "url": "https://open.spotify.com/album/2bi53lg1VS3SfIcWQ5zxGC"
+      },
+      "artists": [
+        {
+          "name": "ryo (supercell)",
+          "url": "https://open.spotify.com/artist/5Ud2lekREUXjinNlIGjJIX"
+        },
+        {
+          "name": "Hatsune Miku",
+          "url": "https://open.spotify.com/artist/6pNgnvzBa6Bthsv8SrZJYl"
+        }
+      ],
+      "date_added": "2026-11-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 215500,
+      "name": "LEGENDS (feat. \u521d\u97f3\u30df\u30af)",
+      "url": "https://open.spotify.com/track/3ixQbQNE2wNRlIUa2WktOj"
     },
     {
       "album": {
@@ -4968,7 +4990,7 @@
       ],
       "date_added": "2025-09-16",
       "date_added_asterisk": false,
-      "date_removed": "2026-11-20",
+      "date_removed": null,
       "duration_ms": 122482,
       "name": "\u3044\u307e\u3059\u3050\u8f2a\u5efb",
       "url": "https://open.spotify.com/track/2YZa7FpeKe423Wvme0yKNf"
@@ -5664,7 +5686,7 @@
       ],
       "date_added": "2026-11-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-25",
       "duration_ms": 168509,
       "name": "\u306f\u3074\u3089\u304d\u3061\u3085\u30fc",
       "url": "https://open.spotify.com/track/3woV99ZZQ3nzDoAdNy8zDL"
@@ -9268,7 +9290,7 @@
       ],
       "date_added": "2026-09-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-25",
       "duration_ms": 131389,
       "name": "\u30d5\u30a9\u30fc\u30e2",
       "url": "https://open.spotify.com/track/4nfy4uNZASRTRyrmlLDoqW"
@@ -9460,6 +9482,24 @@
       "duration_ms": 177103,
       "name": "\u30d6\u30fc\u30b1\u30ac\u30eb\u30cb",
       "url": "https://open.spotify.com/track/4HBcVPMS3Qj5rxeAFf58Ic"
+    },
+    {
+      "album": {
+        "name": "\u30d7\u30a2\u30d7\u30a2",
+        "url": "https://open.spotify.com/album/1MZvCQe6Xz4lUiDAjMUpER"
+      },
+      "artists": [
+        {
+          "name": "\u6771\u4eac\u771f\u4e2d",
+          "url": "https://open.spotify.com/artist/1XpZKw5ml9resg2tXiAk7K"
+        }
+      ],
+      "date_added": "2026-11-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 156500,
+      "name": "\u30d7\u30a2\u30d7\u30a2",
+      "url": "https://open.spotify.com/track/4jFzwpD0gpQuz7xijH02XW"
     },
     {
       "album": {
@@ -12972,6 +13012,24 @@
       "duration_ms": 164800,
       "name": "\u6708\u8a60",
       "url": "https://open.spotify.com/track/71hTrTi4udU9FVe9T4ReWX"
+    },
+    {
+      "album": {
+        "name": "\u6708\u9762\u7ba1\u5236\u5854\u30e9\u30b8\u30aa",
+        "url": "https://open.spotify.com/album/6ALEnAJwsfADboVNXYg9O2"
+      },
+      "artists": [
+        {
+          "name": "\u3064\u308b",
+          "url": "https://open.spotify.com/artist/1T4Xq0NxK8tuXQSqisrONH"
+        }
+      ],
+      "date_added": "2026-11-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 204800,
+      "name": "\u6708\u9762\u7ba1\u5236\u5854\u30e9\u30b8\u30aa",
+      "url": "https://open.spotify.com/track/0C5N0ExL0rlfXiCFO7yZis"
     },
     {
       "album": {

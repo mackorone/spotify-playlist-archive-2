@@ -1733,6 +1733,24 @@
     },
     {
       "album": {
+        "name": "SUIATSU",
+        "url": "https://open.spotify.com/album/67DGuV6YAyUMj9JEv2QMIA"
+      },
+      "artists": [
+        {
+          "name": "Stray Kids",
+          "url": "https://open.spotify.com/artist/2dIgFjalVxs4ThymZ67YCE"
+        }
+      ],
+      "date_added": "2026-11-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 192000,
+      "name": "Lonely Night",
+      "url": "https://open.spotify.com/track/5IaDSdgvQp003f4RAzr6Da"
+    },
+    {
+      "album": {
         "name": "ODDINARY",
         "url": "https://open.spotify.com/album/1byOOf9U3IiQN1cVHqRqEF"
       },

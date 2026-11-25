@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3xBFVLHVC4q.md) - [plain]
 
 > Music from "Love Live! Sunshine!!" ©2017 プロジェクトラブライブ！サンシャイン!!
 
-[Spotify](https://open.spotify.com/user/spotify) - 55,912 likes - 50 songs - 3 hr 44 min
+[Spotify](https://open.spotify.com/user/spotify) - 55,909 likes - 50 songs - 3 hr 44 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -21,12 +21,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3xBFVLHVC4q.md) - [plain]
 | 11 | [コットンキャンディえいえいおー!](https://open.spotify.com/track/10N2sb4vrtmSs5DeZyV5c8) | [黒澤ルビィ \(CV.降幡 愛\)](https://open.spotify.com/artist/3eMNL0H3RQlfNX3dadmmAO) | [LoveLive! Sunshine!! Kurosawa Ruby First Solo Concert Album ～RED GEM WINK～](https://open.spotify.com/album/5j7nXWzvMsMrXAsHTSXKXr) | 4:18 |
 | 12 | [Over The Next Rainbow](https://open.spotify.com/track/3bSp8XRroNBn1YCy7IaHRa) | [Saint Aqours Snow](https://open.spotify.com/artist/6Nq96md0RCaaBFlK4OJ3jQ) | [Believe again/Brightest Melody/Over The Next Rainbow](https://open.spotify.com/album/7JnPOBXbxdkrgzRPQ39ZkQ) | 4:59 |
 | 13 | [Waku\-Waku\-Week!](https://open.spotify.com/track/3hdl3kBMjapC8UF5mt3lRY) | [Yoshiko Tsushima \(CV: Aika Kobayashi\)](https://open.spotify.com/artist/4e6MC71bwNfP6rnStiWyVY) | [ラブライブ!サンシャイン!! Aqours CHRONICLE \(2015～2017\)](https://open.spotify.com/album/2wQqd6G4SLmevXyGwoQbuZ) | 4:16 |
-| 14 | [太陽を追いかけろ!](https://open.spotify.com/track/0u1pinuOi7gJh5HitZgaW7) | [Aqours](https://open.spotify.com/artist/6zxQda06WxXX8GmCeYstwV) | [ラブライブ!サンシャイン!! Aqours CHRONICLE \(2015～2017\)](https://open.spotify.com/album/2wQqd6G4SLmevXyGwoQbuZ) | 5:05 |
+| 14 | [Daydream Warrior](https://open.spotify.com/track/449JyzwBG4L3IVHUf9zkZs) | [Aqours](https://open.spotify.com/artist/6zxQda06WxXX8GmCeYstwV) | [ラブライブ!サンシャイン!! Aqours CHRONICLE \(2015～2017\)](https://open.spotify.com/album/2wQqd6G4SLmevXyGwoQbuZ) | 4:35 |
 | 15 | [DROPOUT!?](https://open.spotify.com/track/0sBNo8ePBkb9hKV1qrSWjg) | [Saint Snow](https://open.spotify.com/artist/5bAFl5UIKoCUr4A6090lR7) | [Awaken the power](https://open.spotify.com/album/71gGcK5ykSswhjMzKRS0gf) | 3:56 |
 | 16 | [RED GEM WINK](https://open.spotify.com/track/6puhUOFB5b7CggOnVUufpI) | [黒澤ルビィ \(CV.降幡 愛\)](https://open.spotify.com/artist/3eMNL0H3RQlfNX3dadmmAO) | [LoveLive! Sunshine!! Kurosawa Ruby First Solo Concert Album ～RED GEM WINK～](https://open.spotify.com/album/5j7nXWzvMsMrXAsHTSXKXr) | 4:55 |
 | 17 | [G線上のシンデレラ](https://open.spotify.com/track/1q8HSZgkbK1AAs32TjBiW6) | [松浦果南 \(CV.諏訪ななか\)](https://open.spotify.com/artist/2eVnZH9Ie92OBHLwDMoWN6) | [ラブライブ!サンシャイン!! Aqours CHRONICLE \(2015～2017\)](https://open.spotify.com/album/2wQqd6G4SLmevXyGwoQbuZ) | 4:16 |
 | 18 | [Strawberry Trapper](https://open.spotify.com/track/3egD1YzZpyckmVlZJV4GOj) | [Guilty Kiss](https://open.spotify.com/artist/7gKNDpetmXrzHZuLdo9tv8) | [Strawberry Trapper](https://open.spotify.com/album/4DzQWZJZsA7zk2yMqZscqK) | 3:56 |
-| 19 | [スリリング・ワンウェイ](https://open.spotify.com/track/0tJ6EW7EqnasppXMSXujDR) | [Aqours](https://open.spotify.com/artist/6zxQda06WxXX8GmCeYstwV) | [ラブライブ!サンシャイン!! Aqours CHRONICLE \(2015～2017\)](https://open.spotify.com/album/2wQqd6G4SLmevXyGwoQbuZ) | 4:32 |
+| 19 | [太陽を追いかけろ!](https://open.spotify.com/track/0u1pinuOi7gJh5HitZgaW7) | [Aqours](https://open.spotify.com/artist/6zxQda06WxXX8GmCeYstwV) | [ラブライブ!サンシャイン!! Aqours CHRONICLE \(2015～2017\)](https://open.spotify.com/album/2wQqd6G4SLmevXyGwoQbuZ) | 5:05 |
 | 20 | [Lonely Snow Planet](https://open.spotify.com/track/4oYq3ZBW4v34rQbdzMrWab) | [Saint Snow](https://open.spotify.com/artist/5bAFl5UIKoCUr4A6090lR7) | [Dazzling White Town](https://open.spotify.com/album/07OQgrBCdszGK0JaU2s1Uv) | 4:15 |
 | 21 | [恋になりたいAQUARIUM \- Unplugged Rock Ver.](https://open.spotify.com/track/3rCpxyne9jtVkHU6702SUz) | [Aqours](https://open.spotify.com/artist/0skYnmmPdMqEnyCYuvRmVe) | [The Blue Swell](https://open.spotify.com/album/6uivjYxBE4O20xklCg8FhY) | 5:07 |
 | 22 | [もっとね!](https://open.spotify.com/track/3vXJrJULk98bQ4dG4WvqNY) | [松浦果南 \(CV.諏訪ななか\)](https://open.spotify.com/artist/2eVnZH9Ie92OBHLwDMoWN6) | [LoveLive! Sunshine!! Matsuura Kanan First Solo Concert Album ～さかなかなんだか?～](https://open.spotify.com/album/3kp2CxXz4KVbtHxr3axkXG) | 3:49 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3xBFVLHVC4q.md) - [plain]
 | 49 | [キモチもユメも一緒だね!](https://open.spotify.com/track/0NOjMAor1xOsHaXu7dtwYS) | [国木田花丸 \(CV.高槻かなこ\)](https://open.spotify.com/artist/13zuD1JY2mY2kwG3dOS8an) | [デュオトリオコレクション VOL.2 ～WINTER VACATION～](https://open.spotify.com/album/61P8OX92C18Da8G5sBSTgJ) | 4:43 |
 | 50 | [Shiny Racers](https://open.spotify.com/track/4oTMK1IRb2AbMoA2HhB1Du) | [小原鞠莉 \(CV.鈴木愛奈\)](https://open.spotify.com/artist/5AeHYcYFgZ8VHULQk0vHM2) | [LoveLive! Sunshine!! Ohara Mari First Solo Concert Album ～New winding road～](https://open.spotify.com/album/07dOooBV026YI3SftNDkoM) | 3:37 |
 
-Snapshot ID: `AAAAAHhGIntZ2OWunhc6EHjRSZWuBtg1`
+Snapshot ID: `AAAAAEJdZXeVu20FGh0iXZnAHD37XSfu`

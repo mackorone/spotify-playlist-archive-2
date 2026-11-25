@@ -4,7 +4,7 @@
 
 > This is Jonas Brothers\. The essential tracks, all in one playlist.
 
-57 songs - 2 hr 51 min
+58 songs - 2 hr 54 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -40,7 +40,8 @@
 | [No Time To Talk](https://open.spotify.com/track/4vK7HSyLhSCG6OzLt6C8i0) | [Jonas Brothers](https://open.spotify.com/artist/7gOdHgIoIKoe4i9Tta6qdD) | [Greetings From Your Hometown](https://open.spotify.com/album/6iMMJ5UlCv9glyse2I2YgR) | 2:35 | 2026-08-23 |  |
 | [Only Human](https://open.spotify.com/track/0DiDStADDVh3SvAsoJAFMk) | [Jonas Brothers](https://open.spotify.com/artist/7gOdHgIoIKoe4i9Tta6qdD) | [Happiness Begins](https://open.spotify.com/album/1Uf67JAtkVWfdydzFFqNF2) | 3:03 | 2026-08-23 |  |
 | [Paranoid](https://open.spotify.com/track/23JB628uq1E8Hl4tiuRZ3t) | [Jonas Brothers](https://open.spotify.com/artist/7gOdHgIoIKoe4i9Tta6qdD) | [Lines, Vines and Trying Times](https://open.spotify.com/album/2QXAQ8FaktKXnEO2ueWGNb) | 3:38 | 2026-08-23 | 2026-10-05 |
-| [Play My Music](https://open.spotify.com/track/5eDqJzkxpzOimHJQDjhsfr) | [Jonas Brothers](https://open.spotify.com/artist/7gOdHgIoIKoe4i9Tta6qdD), [Disney](https://open.spotify.com/artist/3xvaSlT4xsyk6lY1ESOspO) | [Disney 2000s, Vol\. 2 Summer Break](https://open.spotify.com/album/4bPYgsnsIldLoA8GRk7QyV) | 3:17 | 2026-08-23 |  |
+| [Play My Music](https://open.spotify.com/track/5MTQbjkMmE6WsDQ8JlyEVo) | [Jonas Brothers](https://open.spotify.com/artist/7gOdHgIoIKoe4i9Tta6qdD), [Disney](https://open.spotify.com/artist/3xvaSlT4xsyk6lY1ESOspO) | [Camp Rock](https://open.spotify.com/album/1v1i6nqVmLWXKv2a7ByqxJ) | 3:17 | 2026-11-25 |  |
+| [Play My Music](https://open.spotify.com/track/5eDqJzkxpzOimHJQDjhsfr) | [Jonas Brothers](https://open.spotify.com/artist/7gOdHgIoIKoe4i9Tta6qdD), [Disney](https://open.spotify.com/artist/3xvaSlT4xsyk6lY1ESOspO) | [Disney 2000s, Vol\. 2 Summer Break](https://open.spotify.com/album/4bPYgsnsIldLoA8GRk7QyV) | 3:17 | 2026-08-23 | 2026-11-25 |
 | [Pushin' Me Away](https://open.spotify.com/track/6TQFXftq84XzUjLLSP7c8Z) | [Jonas Brothers](https://open.spotify.com/artist/7gOdHgIoIKoe4i9Tta6qdD) | [A Little Bit Longer](https://open.spotify.com/album/6EPVrCx01fQu8gmIbOjyFW) | 3:03 | 2026-08-26 | 2026-08-27 |
 | [Remember This](https://open.spotify.com/track/6nACZEZIt1CIBmF09r5Pb5) | [Jonas Brothers](https://open.spotify.com/artist/7gOdHgIoIKoe4i9Tta6qdD) | [Remember This](https://open.spotify.com/album/5sIvIsXTXfwoMEBVk1xCqm) | 2:58 | 2026-08-23 |  |
 | [Rollercoaster](https://open.spotify.com/track/7dxKdQC9Vo1hDxIUnt1z0Q) | [Jonas Brothers](https://open.spotify.com/artist/7gOdHgIoIKoe4i9Tta6qdD) | [Happiness Begins](https://open.spotify.com/album/1Uf67JAtkVWfdydzFFqNF2) | 3:01 | 2026-08-23 |  |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbSbnqxMTGx9.md) - [plain]
 
 > The ultimate reggae playlist\. Cover: Bob Marley
 
-[Spotify](https://open.spotify.com/user/spotify) - 3,228,486 likes - 100 songs - 5 hr 41 min
+[Spotify](https://open.spotify.com/user/spotify) - 3,228,495 likes - 100 songs - 5 hr 41 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -67,8 +67,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbSbnqxMTGx9.md) - [plain]
 | 57 | [Ballistic Affair](https://open.spotify.com/track/0kEwYCc9znHQObgdUh6dGl) | [Leroy Smart](https://open.spotify.com/artist/6u7C6jxjkDAThmdcOnAwH0) | [Total Reggae: Classic Roots](https://open.spotify.com/album/1qscQwJU4kbGvTnyx0Vo30) | 3:13 |
 | 58 | [Don De Lion](https://open.spotify.com/track/1Oeey02HNBNBirWvHstVS2) | [Don Drummond](https://open.spotify.com/artist/2lzGXw61wSj8mMK73d59Wn) | [Ska Kings of the First Wave with the Skatalites, The Ethiopians, And Don Drummond](https://open.spotify.com/album/0aqG3e2e7cqcYitynssLLU) | 2:25 |
 | 59 | [Babylon](https://open.spotify.com/track/7EKP7Qa6F4GKtxxnlLLxnV) | [Sugar Minott](https://open.spotify.com/artist/6iTD167bhyfYwEd7fd2bGn) | [Total Reggae: Classic Roots](https://open.spotify.com/album/1qscQwJU4kbGvTnyx0Vo30) | 4:20 |
-| 60 | [Vision Of Redemption](https://open.spotify.com/track/208LH3OhnvwWjS5CYLi4Tu) | [Fred Locks](https://open.spotify.com/artist/0O9POrd5urnAgUSE9Piuth) | [Total Reggae: Classic Roots](https://open.spotify.com/album/1qscQwJU4kbGvTnyx0Vo30) | 2:58 |
-| 61 | [Engine 54](https://open.spotify.com/track/74jDDWXiT7pPEjL7mBYrs3) | [The Ethiopians](https://open.spotify.com/artist/3TUmwNx3l8S2nCoGKqIhjA) | [Let's Do Rocksteady: The Story Of Rocksteady 1966\-68](https://open.spotify.com/album/0XIRzFFCtal4kTZAyqRtyD) | 2:37 |
+| 60 | [Engine 54](https://open.spotify.com/track/74jDDWXiT7pPEjL7mBYrs3) | [The Ethiopians](https://open.spotify.com/artist/3TUmwNx3l8S2nCoGKqIhjA) | [Let's Do Rocksteady: The Story Of Rocksteady 1966\-68](https://open.spotify.com/album/0XIRzFFCtal4kTZAyqRtyD) | 2:37 |
+| 61 | [Vision Of Redemption](https://open.spotify.com/track/208LH3OhnvwWjS5CYLi4Tu) | [Fred Locks](https://open.spotify.com/artist/0O9POrd5urnAgUSE9Piuth) | [Total Reggae: Classic Roots](https://open.spotify.com/album/1qscQwJU4kbGvTnyx0Vo30) | 2:58 |
 | 62 | [Intensified](https://open.spotify.com/track/34mK7IhVyT10qBzRv5IYSY) | [Desmond Dekker & The Aces](https://open.spotify.com/artist/4fmVPsGxjwP5ruiTEvIcOt) | [Let's Do Rocksteady: The Story Of Rocksteady 1966\-68](https://open.spotify.com/album/0XIRzFFCtal4kTZAyqRtyD) | 2:43 |
 | 63 | [Dr\. Dekker](https://open.spotify.com/track/4JOhRev1re0tKTIDUiHWOn) | [Don Drummond](https://open.spotify.com/artist/2lzGXw61wSj8mMK73d59Wn) | [Ska Kings of the First Wave with the Skatalites, The Ethiopians, And Don Drummond](https://open.spotify.com/album/0aqG3e2e7cqcYitynssLLU) | 2:55 |
 | 64 | [Fisher Man Dub](https://open.spotify.com/track/50QPOvKYebMWt8EBckwSyl) | [Lee "Scratch" Perry](https://open.spotify.com/artist/1TsG4AumsMt1Tcq2nHpov9) | [Essential Dub Masters](https://open.spotify.com/album/2RzXympOFAsvIXDrqOxhyN) | 3:38 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbSbnqxMTGx9.md) - [plain]
 | 99 | [54\-46 Was My Number](https://open.spotify.com/track/36aH0Y3Zy5jCRpVLvbXBL7) | [The Maytals](https://open.spotify.com/artist/6eHPmq8aR8X4TZIMvrD9Bo) | [Ska & Reggae Classics](https://open.spotify.com/album/3Sy5T1Te55s9B8K4jeOFKK) | 3:10 |
 | 100 | [Dream Land](https://open.spotify.com/track/1haHZa75ytryLGUOtHiGl5) | [Bunny Wailer](https://open.spotify.com/artist/389zc5Rwe0MPcE6mSF4AjC) | [Blackheart Man](https://open.spotify.com/album/0Z3LzsnqFDWU10sTu31Cfm) | 2:45 |
 
-Snapshot ID: `AAAAAF59fw21Rbv4r4pMlZ/CFGpLlr+c`
+Snapshot ID: `AAAAAMdEEIzxV0ktLCqS4zyKj6vR4tp0`

@@ -4,7 +4,7 @@
 
 > This is João Gilberto\. The essential tracks, all in one playlist.
 
-104 songs - 5 hr 13 min
+105 songs - 5 hr 15 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -28,8 +28,9 @@
 | [Bim Bom](https://open.spotify.com/track/5H6vJoSdA1cru4kEhj1LWU) | [João Gilberto](https://open.spotify.com/artist/77ZUbcdoU5KCPHNUl8bgQy) | [Chega de Saudade \(Deluxe Edition\)](https://open.spotify.com/album/4MY4MCd8ZQusPhbdxU3MRH) | 1:17 | 2025-07-20 | 2025-12-20 |
 | [Bim Bom \- Live At Carnegie Hall/1964](https://open.spotify.com/track/1HB3wCRjnQQI1e860vFfs9) | [João Gilberto](https://open.spotify.com/artist/77ZUbcdoU5KCPHNUl8bgQy), [Stan Getz](https://open.spotify.com/artist/0FMucZsEnCxs5pqBjHjIc8) | [Summer Samba](https://open.spotify.com/album/04DUrFW9BaCSFn8w7gKbAc) | 2:09 | 2026-07-26 | 2026-09-03 |
 | [Bim Bom \- Live At Carnegie Hall/1964](https://open.spotify.com/track/09DlYtkNWHPwbLjM3VBlR1) | [Stan Getz](https://open.spotify.com/artist/0FMucZsEnCxs5pqBjHjIc8), [João Gilberto](https://open.spotify.com/artist/77ZUbcdoU5KCPHNUl8bgQy) | [Getz/Gilberto \#2](https://open.spotify.com/album/0Hh0eLbuqqDxYSCpy7i4Jx) | 2:09 | 2025-07-20 |  |
-| [Chega de saudade](https://open.spotify.com/track/380KZqSJVBziAQrvx7rdGW) | [João Gilberto](https://open.spotify.com/artist/77ZUbcdoU5KCPHNUl8bgQy) | [The Birth of Bossa](https://open.spotify.com/album/2EKLmuoMZ4eN3bIDrUG3Or) | 2:01 | 2026-08-27 |  |
+| [Chega de saudade](https://open.spotify.com/track/380KZqSJVBziAQrvx7rdGW) | [João Gilberto](https://open.spotify.com/artist/77ZUbcdoU5KCPHNUl8bgQy) | [The Birth of Bossa](https://open.spotify.com/album/2EKLmuoMZ4eN3bIDrUG3Or) | 2:01 | 2026-08-27 | 2026-11-25 |
 | [Chega de Saudade](https://open.spotify.com/track/5JltXlPJVIDwClIfnscM9v) | [João Gilberto](https://open.spotify.com/artist/77ZUbcdoU5KCPHNUl8bgQy) | [Chega de Saudade](https://open.spotify.com/album/0dtfLd8TK0aJECxnXgTAZw) | 2:03 | 2026-08-24 | 2026-08-27 |
+| [Chega de Saudade](https://open.spotify.com/track/2TTDfPtov15ivnqIFjA6KQ) | [João Gilberto](https://open.spotify.com/artist/77ZUbcdoU5KCPHNUl8bgQy) | [Chega de saudade by João Gilberto](https://open.spotify.com/album/0qiXOkJRFqDLFppLNobKPG) | 2:03 | 2026-11-25 |  |
 | [Chega de Saudade](https://open.spotify.com/track/6LCwCVq2PeDxNDf4yWaCv8) | [João Gilberto](https://open.spotify.com/artist/77ZUbcdoU5KCPHNUl8bgQy) | [Chega de Saudade \(Deluxe Edition\)](https://open.spotify.com/album/4MY4MCd8ZQusPhbdxU3MRH) | 2:03 | 2025-07-20 | 2025-11-03 |
 | [Coisa Mais Linda](https://open.spotify.com/track/0bmZ4kxTcQReFp4Pod4EqR) | [João Gilberto](https://open.spotify.com/artist/77ZUbcdoU5KCPHNUl8bgQy) | [Vocé e Eu](https://open.spotify.com/album/3sgATVyngnXD04rREbRHQR) | 2:50 | 2026-08-08 | 2026-08-13 |
 | [Coisa Mais Linda](https://open.spotify.com/track/2EQXKBGTaFU29HLIiL7FCj) | [João Gilberto](https://open.spotify.com/artist/77ZUbcdoU5KCPHNUl8bgQy) | [O Mito \(Digital Edition\)](https://open.spotify.com/album/3ndWeWYOu0nzSgREN9mScv) | 2:51 | 2026-02-27 |  |

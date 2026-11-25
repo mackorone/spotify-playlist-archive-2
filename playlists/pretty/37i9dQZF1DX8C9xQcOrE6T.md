@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8C9xQcOrE6T.md) - [plain]
 
 > Find your favorite Disney hits all in one place\. Iconic jams from Moana, Frozen, Encanto, Toy Story and more are here!
 
-[Spotify](https://open.spotify.com/user/spotify) - 5,859,600 likes - 71 songs - 3 hr 38 min
+[Spotify](https://open.spotify.com/user/spotify) - 5,859,658 likes - 71 songs - 3 hr 38 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -80,4 +80,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8C9xQcOrE6T.md) - [plain]
 | 70 | [Proud Corazón](https://open.spotify.com/track/4J7SCXbz18duODAQYjtzI2) | [Anthony Gonzalez](https://open.spotify.com/artist/2q10Wskc3lPYmEuV7rzMCv) | [Coco \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/7nMexBA71PdwPnfqS5Yji5) | 2:03 |
 | 71 | [When You Wish Upon A Star](https://open.spotify.com/track/1fb6MBRagJq42pzMMFYhHf) | [Cynthia Erivo](https://open.spotify.com/artist/46UMQ0cW8ToR8egkBRwAxZ) | [Pinocchio \(Original Soundtrack\)](https://open.spotify.com/album/6SUPM4fZiV55quCRQKOtYL) | 1:57 |
 
-Snapshot ID: `AAAAAJiUAIy2fP7gpIiAwK5jBeEqOT4q`
+Snapshot ID: `AAAAAM8ggDy8FTArRuur81GHL/pd9WXL`

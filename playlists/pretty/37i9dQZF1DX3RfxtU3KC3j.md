@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3RfxtU3KC3j.md) - [plain]
 
 > Gitar ve davulu konuşturanlar\. 🎸 Kapak: Melis Karaduman, OD Band
 
-[Spotify](https://open.spotify.com/user/spotify) - 522,976 likes - 74 songs - 4 hr 30 min
+[Spotify](https://open.spotify.com/user/spotify) - 522,953 likes - 74 songs - 4 hr 30 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -83,4 +83,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3RfxtU3KC3j.md) - [plain]
 | 73 | [Kufi](https://open.spotify.com/track/4JqP7JwWNG8I7xY40E6IWh) | [Duman](https://open.spotify.com/artist/6RTC1abMgBC7Krg6qJQHJh) | [Kufi](https://open.spotify.com/album/3FpJOsSnsSziu7JFmAzRPc) | 4:25 |
 | 74 | [Mayın Tarlası](https://open.spotify.com/track/3r4JGqyBhcIpOKRQLYjD5C) | [Şebnem Ferah](https://open.spotify.com/artist/74xBVPWYoSf5pvo5IkePRO) | [Kelimeler Yetse](https://open.spotify.com/album/3ELwjLdlTIbBH401F0j7kR) | 5:23 |
 
-Snapshot ID: `AAAAALDTt3BqK+OuJ+MAKDdfk8coIxxS`
+Snapshot ID: `AAAAAPP7UYqetIQQWt/afojkDOKvHa1B`

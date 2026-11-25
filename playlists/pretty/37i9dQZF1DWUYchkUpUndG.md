@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUYchkUpUndG.md) - [plain]
 
 > Discover new christian and gospel music\. Cover:Neon Adejo
 
-[Spotify](https://open.spotify.com/user/spotify) - 68,548 likes - 97 songs - 9 hr 7 min
+[Spotify](https://open.spotify.com/user/spotify) - 68,560 likes - 97 songs - 9 hr 7 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -85,7 +85,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUYchkUpUndG.md) - [plain]
 | 75 | [All of Heaven Filled With Praise](https://open.spotify.com/track/3qPk1r8mg7o1bZDFDqpzuz) | [Sean Butler](https://open.spotify.com/artist/3OpCtyXotuieN1LN89gNOd) | [All of Heaven Filled With Praise](https://open.spotify.com/album/4M1jT0mjt4ETSnyl3kBvxE) | 4:32 |
 | 76 | [Follow Follow](https://open.spotify.com/track/77iyi24iDI5aAtaL2pWquH) | [Maleke](https://open.spotify.com/artist/2K1pzzZ0L9USoKPMdQG5fl), [Duncan Mighty](https://open.spotify.com/artist/5N47dnIfPuGH8kIHpf8gZK) | [Follow Follow](https://open.spotify.com/album/4GG7t1MrJRcu3mLoLfVf3Z) | 2:49 |
 | 77 | [AGUNECHEMBA](https://open.spotify.com/track/14xRK843wdVCreTuZuebwi) | [Doris Joseph](https://open.spotify.com/artist/2gIZrTYURG6RxnI3mGFHEt), [Mera Owili](https://open.spotify.com/artist/6ViX2ccBiy3D2ZZ6u58PmV) | [AGUNECHEMBA](https://open.spotify.com/album/1NhZBx2C8bjj7t0CbGsYWT) | 2:40 |
-| 78 | [African Praise 2.0](https://open.spotify.com/track/6CVRv1DiBJRzbtGlfTugCC) | [Nii Kwei](https://open.spotify.com/artist/65C7zhOX4wDfK2pd7YsSTJ) | [African Praise 2.0](https://open.spotify.com/album/75mcr3BoMUp5SKaIs8MaCW) | 14:34 |
+| 78 | [African Praise Medley 2.0](https://open.spotify.com/track/6CVRv1DiBJRzbtGlfTugCC) | [Nii Kwei](https://open.spotify.com/artist/65C7zhOX4wDfK2pd7YsSTJ) | [African Praise Medley 2.0](https://open.spotify.com/album/75mcr3BoMUp5SKaIs8MaCW) | 14:34 |
 | 79 | [Super Story](https://open.spotify.com/track/0VbwYOJ2WqZPprSxlvJv9h) | [Eazikial](https://open.spotify.com/artist/3bgQoy5QIkNEN9dXbKTjPc) | [The Ascension](https://open.spotify.com/album/3ip0Qz3PsqILVO73l87F46) | 2:48 |
 | 80 | [You Are God Alone \- 3Step Remix](https://open.spotify.com/track/159k8vOe4aWhsEbdbu4KAP) | [Bob RSA](https://open.spotify.com/artist/3VTVplp2fTnuJzIkwJAdcV), [Mash Masenya](https://open.spotify.com/artist/5ggX6NgVx3xSG8HJ76CME1), [Jalisa Faye](https://open.spotify.com/artist/1onJcPvKJwXPUEfJkRpUd6) | [Kura Oune](https://open.spotify.com/album/5whoIaFgUF1pT3lhlMLfz9) | 8:17 |
 | 81 | [potter](https://open.spotify.com/track/1AZZVhQfi1QT8cNkJLEVzB) | [Armand Mukenge](https://open.spotify.com/artist/03FQiZQOAx6vSqB5HflG9i) | [potter](https://open.spotify.com/album/2mKzrtfpDRxNTYiPu0w0R0) | 3:12 |
@@ -106,4 +106,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUYchkUpUndG.md) - [plain]
 | 96 | [Good](https://open.spotify.com/track/5wnT0nYSQxMvmAwkhqCdxI) | [Maikon West](https://open.spotify.com/artist/3QKJ7PXenJvvf1MiicgBIG) | [Good](https://open.spotify.com/album/4UbF1YEcSY6CeKncczUK5K) | 2:21 |
 | 97 | [Hallelujah](https://open.spotify.com/track/69oWsxcHnwqUxvkfxiYksj) | [Monique](https://open.spotify.com/artist/183yuYxGCyhROvuEpTPdfk) | [Hallelujah](https://open.spotify.com/album/00NS32Lox8RWW3gDV5lu1F) | 3:28 |
 
-Snapshot ID: `AAAAABK6zbqkYwmdSVnpq6sNQ1FmaiAe`
+Snapshot ID: `AAAAAKww0MU9rI1EKMpstbsDtn7Kea8n`

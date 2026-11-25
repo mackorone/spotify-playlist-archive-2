@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0VfLbJWWGKr.md) - [plain]
 
 > Chug chug chug to some 90s/00s throwbacks.
 
-[Spotify](https://open.spotify.com/user/spotify) - 149,804 likes - 50 songs - 3 hr 1 min
+[Spotify](https://open.spotify.com/user/spotify) - 149,847 likes - 50 songs - 3 hr 1 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -57,6 +57,6 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0VfLbJWWGKr.md) - [plain]
 | 47 | [Flagpole Sitta](https://open.spotify.com/track/7cz70nyRXlCJOE85whEkgU) | [Harvey Danger](https://open.spotify.com/artist/7fu6ebyL3JGXJgo5zsOo4k) | [Where Have All The Merrymakers Gone?](https://open.spotify.com/album/554gpRastI7dbOcir9eAkL) | 3:37 |
 | 48 | [Closing Time](https://open.spotify.com/track/1A5V1sxyCLpKJezp75tUXn) | [Semisonic](https://open.spotify.com/artist/1TqQi97nqeiuOJrIFv5Sw0) | [20th Century Masters: The Millennium Collection: Best Of Semisonic](https://open.spotify.com/album/4JDBx5wQ82jb8PjLYPBP8L) | 4:34 |
 | 49 | [Jump](https://open.spotify.com/track/27AHAtAirQapVldIm4c9ZX) | [Kris Kross](https://open.spotify.com/artist/2zrZfs23sjuHDv4E6YRmNf) | [Totally Krossed Out](https://open.spotify.com/album/5bGumbB29JBPlv4ECVURka) | 3:15 |
-| 50 | [Informer](https://open.spotify.com/track/2LjiPAQOVazT8sRyXL3XRs) | [Snow](https://open.spotify.com/artist/3uZFBSsMiooimnprFL9jD1) | [12 Inches Of Snow](https://open.spotify.com/album/6bNWz7bHK8M0xPfAPmFSRW) | 4:28 |
+| 50 | [Party Like A Rock Star](https://open.spotify.com/track/1IYaMVfidzSfvCUZYXhsU1) | [SHOP BOYZ](https://open.spotify.com/artist/3v3clM1KQgVfpPjKJFPAmx) | [Rockstar Mentality](https://open.spotify.com/album/6tBUJLHPFbzO665rhzFDg2) | 4:13 |
 
-Snapshot ID: `AAAAAFpA7d4Zm9G1FWefBQlFOAujmck7`
+Snapshot ID: `AAAAAGDdMjQwD4ORcmMxGcvjC2vXvAy9`

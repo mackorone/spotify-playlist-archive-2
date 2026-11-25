@@ -4,7 +4,7 @@
 
 > Feel\-good summer throwbacks and chilled lounge mixes to bring the summer vibe all year round.
 
-293 songs - 17 hr 6 min
+294 songs - 17 hr 9 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -145,6 +145,7 @@
 | [Late Night Text](https://open.spotify.com/track/7dqUcAZ9uLGDmuFm5qsGIp) | [TWO OF YOU](https://open.spotify.com/artist/0LH34iFv5AEmMRxi57FMpj) | [Late Night Text](https://open.spotify.com/album/0K6a2B6ZWMW2fLfn4nQAec) | 2:27 | 2025-12-05 |  |
 | [Leave U Here](https://open.spotify.com/track/1PitUEpajJb3g3zLpJHp0c) | [Sebastian Davidson](https://open.spotify.com/artist/1uO4ut3M0hYeCfEEUdFnEp), [Melosense](https://open.spotify.com/artist/0mGQfVACilxbziAemzyhq9) | [Leave U Here](https://open.spotify.com/album/4OfZMe68ViqcQguGMwBxBJ) | 2:48 | 2025-07-18 | 2026-04-18 |
 | [Leaving You](https://open.spotify.com/track/5mhVQmyRLZCOzm7u0KJZhX) | [Summer Is Calling](https://open.spotify.com/artist/34q9Zt0mBwYXGMeRq9m94u), [Audien](https://open.spotify.com/artist/4xnMDfgEmXZEEDdITKcGuE), [M.BRONX](https://open.spotify.com/artist/3jbqK4VihAncvAJWgcidZG) | [Leaving You](https://open.spotify.com/album/2EdbXpXzHbNNn7zCgx8qs8) | 3:08 | 2025-06-19 |  |
+| [Let Me Hold You](https://open.spotify.com/track/2d9JBS4cI6bTh8CnPJ5t3c) | [Midnight Pass](https://open.spotify.com/artist/2F8qRDc5o9tYPuRiT4cvN6) | [Let Me Hold You](https://open.spotify.com/album/3HMrgFiLerQLOpwGBUSgYo) | 2:55 | 2026-11-24 |  |
 | [Let You Down](https://open.spotify.com/track/208UTWaWWnFjuGLriXC63E) | [Does it matter](https://open.spotify.com/artist/00fhyHwDkhykp7qxLsbvch), [a.bech](https://open.spotify.com/artist/6gms5g1TeoEo8HsUuiWWaQ) | [Let You Down](https://open.spotify.com/album/3rmMMklQao5LtEqMooTnyL) | 2:20 | 2025-10-17 |  |
 | [Liberation](https://open.spotify.com/track/6JgjIRRv7uMSEjzzxHTQoh) | [Harold van Lennep](https://open.spotify.com/artist/3EDo5M4D2IAhisy3TDpkWg) | [Liberation](https://open.spotify.com/album/7BN98R9k9tbqaU9kLJzGXa) | 2:29 | 2025-07-02 |  |
 | [Liberation \- Lufthaus Remix](https://open.spotify.com/track/3xaE0tB9Pg9lESzikfV7c9) | [Harold van Lennep](https://open.spotify.com/artist/3EDo5M4D2IAhisy3TDpkWg), [Lufthaus](https://open.spotify.com/artist/0zlMouo6dENL2tsOY9JssU) | [Liberation \(Lufthaus Remix\)](https://open.spotify.com/album/2rb39YStVCw0X7OcMwPjfW) | 3:32 | 2025-07-18 |  |

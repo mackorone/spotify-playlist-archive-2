@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3pk81i.md) - [plain]
 
 > This is Los Primos del Este\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 10,821 likes - 49 songs - 2 hr 16 min
+[Spotify](https://open.spotify.com/user/spotify) - 10,822 likes - 49 songs - 2 hr 16 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -22,15 +22,15 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3pk81i.md) - [plain]
 | 12 | [CHEYENNE](https://open.spotify.com/track/716faZsCF8J3qHpkIsB8DX) | [Los Primos del Este](https://open.spotify.com/artist/5MEewKjCN4Dw20OFV2IGMo), [El Padrinito Toys](https://open.spotify.com/artist/04mzq9GH08zOBRdV2gzmXm) | [Dulce Amargo](https://open.spotify.com/album/0xw1ObVPQtZLK3NLNVDlGZ) | 2:29 |
 | 13 | [Te Acordarás De Mí](https://open.spotify.com/track/7Jt0TPSVkYr8Asy4Cms1XR) | [Los Primos del Este](https://open.spotify.com/artist/5MEewKjCN4Dw20OFV2IGMo), [Conjunto Rienda Real](https://open.spotify.com/artist/5N3AyFVEE8vJa7AZEl7nD3) | [Te Acordarás De Mí](https://open.spotify.com/album/63wMKo4Y5yzOAG3ufCs9An) | 2:36 |
 | 14 | [30 DÍAS](https://open.spotify.com/track/06MQn3HC4hzNpvkgSUHVmi) | [Los Primos del Este](https://open.spotify.com/artist/5MEewKjCN4Dw20OFV2IGMo), [Santa Fe Klan](https://open.spotify.com/artist/4tm8CEdm4pkQsEh4jIr9Yp) | [AMOR DE SUBIDA](https://open.spotify.com/album/7qNfws1fbFNw2zkWrjC4BF) | 2:56 |
-| 15 | [Baby \- Version Norteña](https://open.spotify.com/track/7L5f1cWtVCeVn128pwTt5b) | [Los Primos del Este](https://open.spotify.com/artist/5MEewKjCN4Dw20OFV2IGMo), [Officialalex425](https://open.spotify.com/artist/2cmqbSrv0RSUeYRuWkqSiQ) | [Luna De Miel](https://open.spotify.com/album/0rNBpiw8fHCsqGb9fJXAUq) | 3:18 |
-| 16 | [HOY](https://open.spotify.com/track/5Lik2PinuEVEcHEwCDGlkC) | [Los Primos del Este](https://open.spotify.com/artist/5MEewKjCN4Dw20OFV2IGMo) | [Dulce Amargo](https://open.spotify.com/album/0xw1ObVPQtZLK3NLNVDlGZ) | 2:52 |
+| 15 | [HOY](https://open.spotify.com/track/5Lik2PinuEVEcHEwCDGlkC) | [Los Primos del Este](https://open.spotify.com/artist/5MEewKjCN4Dw20OFV2IGMo) | [Dulce Amargo](https://open.spotify.com/album/0xw1ObVPQtZLK3NLNVDlGZ) | 2:52 |
+| 16 | [Baby \- Version Norteña](https://open.spotify.com/track/7L5f1cWtVCeVn128pwTt5b) | [Los Primos del Este](https://open.spotify.com/artist/5MEewKjCN4Dw20OFV2IGMo), [Officialalex425](https://open.spotify.com/artist/2cmqbSrv0RSUeYRuWkqSiQ) | [Luna De Miel](https://open.spotify.com/album/0rNBpiw8fHCsqGb9fJXAUq) | 3:18 |
 | 17 | [Bandido](https://open.spotify.com/track/7wgQC3zvKtEmOhzV7FnK37) | [Los Primos del Este](https://open.spotify.com/artist/5MEewKjCN4Dw20OFV2IGMo), [Oscar Ortiz](https://open.spotify.com/artist/0FvHxb8a4I0A2i8jKCsFei) | [Bandido](https://open.spotify.com/album/72dpueKPayWOlGcCgWr3g5) | 2:28 |
 | 18 | [Quiero Ser \- Version Norteña](https://open.spotify.com/track/7Cte3d7S9NXqmT7jgAhntF) | [Los Primos del Este](https://open.spotify.com/artist/5MEewKjCN4Dw20OFV2IGMo) | [Poesías](https://open.spotify.com/album/67HdvBGwER7WCcFb1keYYg) | 3:32 |
-| 19 | [ME MUERO](https://open.spotify.com/track/0M7sYHAZNHOaYe7mTCAkH5) | [Los Primos del Este](https://open.spotify.com/artist/5MEewKjCN4Dw20OFV2IGMo) | [Dulce Amargo](https://open.spotify.com/album/0xw1ObVPQtZLK3NLNVDlGZ) | 2:47 |
+| 19 | [MEJOR SIN TI](https://open.spotify.com/track/4Fur4oAdC65ki4GiIGx18b) | [Los Primos del Este](https://open.spotify.com/artist/5MEewKjCN4Dw20OFV2IGMo) | [Dulce Amargo](https://open.spotify.com/album/0xw1ObVPQtZLK3NLNVDlGZ) | 2:56 |
 | 20 | [3 AM](https://open.spotify.com/track/5s2hpDWU8kssotugbMd1ho) | [Los Primos del Este](https://open.spotify.com/artist/5MEewKjCN4Dw20OFV2IGMo), [Xavi](https://open.spotify.com/artist/3Me35AWHCGqW4sZ7bWWJt1) | [Amor De Lejos](https://open.spotify.com/album/6yTpeJC36PW6nAflA8Njb7) | 3:08 |
 | 21 | [Vuelve](https://open.spotify.com/track/0sFgOr8SYJDoxKWuATw3kJ) | [Los Del North Texas](https://open.spotify.com/artist/55UZ2MKN6ATq3tQcA9XCHE), [Los Primos del Este](https://open.spotify.com/artist/5MEewKjCN4Dw20OFV2IGMo) | [Vuelve](https://open.spotify.com/album/7lYcolZOql39WKCD8vY4Sp) | 2:45 |
 | 22 | [Conexión](https://open.spotify.com/track/6nVaSyHHv07obQYrVuWQFa) | [Los Primos del Este](https://open.spotify.com/artist/5MEewKjCN4Dw20OFV2IGMo), [Los Gemelos De Sinaloa](https://open.spotify.com/artist/1Zkxm1dM3HI3QkTmxUEVQA) | [Conexión](https://open.spotify.com/album/3LzrPKfe2norm7MRc2vZmD) | 2:26 |
-| 23 | [MEJOR SIN TI](https://open.spotify.com/track/4Fur4oAdC65ki4GiIGx18b) | [Los Primos del Este](https://open.spotify.com/artist/5MEewKjCN4Dw20OFV2IGMo) | [Dulce Amargo](https://open.spotify.com/album/0xw1ObVPQtZLK3NLNVDlGZ) | 2:56 |
+| 23 | [ME MUERO](https://open.spotify.com/track/0M7sYHAZNHOaYe7mTCAkH5) | [Los Primos del Este](https://open.spotify.com/artist/5MEewKjCN4Dw20OFV2IGMo) | [Dulce Amargo](https://open.spotify.com/album/0xw1ObVPQtZLK3NLNVDlGZ) | 2:47 |
 | 24 | [Esta Noche \- Version Norteña](https://open.spotify.com/track/6pVS9jlTZ7tpMZPVeEs6uK) | [Los Primos del Este](https://open.spotify.com/artist/5MEewKjCN4Dw20OFV2IGMo), [Nivel](https://open.spotify.com/artist/5aHKxMwIrPVwy4m6FTOiXK) | [Luna De Miel](https://open.spotify.com/album/0rNBpiw8fHCsqGb9fJXAUq) | 2:21 |
 | 25 | [No Hay Solución](https://open.spotify.com/track/7qcINxO8odH2nyLe8LR5sE) | [Los Primos del Este](https://open.spotify.com/artist/5MEewKjCN4Dw20OFV2IGMo) | [Poesías](https://open.spotify.com/album/67HdvBGwER7WCcFb1keYYg) | 2:24 |
 | 26 | [Con Una Mirada](https://open.spotify.com/track/3UbwPNINEgzZ8QfWmEYTHh) | [Los Primos del Este](https://open.spotify.com/artist/5MEewKjCN4Dw20OFV2IGMo) | [Con Una Mirada](https://open.spotify.com/album/380MMrYgSSedRqiDWtsJjL) | 3:21 |
@@ -58,4 +58,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3pk81i.md) - [plain]
 | 48 | [Loko](https://open.spotify.com/track/6MsbMIHQL3ZM6RUWb2F8tU) | [Xavi](https://open.spotify.com/artist/3Me35AWHCGqW4sZ7bWWJt1), [Los Primos del Este](https://open.spotify.com/artist/5MEewKjCN4Dw20OFV2IGMo) | [Loko](https://open.spotify.com/album/59SSpxu6Lau67i21tUvswt) | 2:08 |
 | 49 | [JÁLATE CONMIGO](https://open.spotify.com/track/1ReSEvrls62oUS82Lrjked) | [Los Primos del Este](https://open.spotify.com/artist/5MEewKjCN4Dw20OFV2IGMo) | [AMOR DE SUBIDA](https://open.spotify.com/album/7qNfws1fbFNw2zkWrjC4BF) | 2:58 |
 
-Snapshot ID: `awIwgAAAAACptI/vYw+rl6Tg0779Z9xn`
+Snapshot ID: `awOCAAAAAADL6shrdDEn5UMftnsHjOZQ`

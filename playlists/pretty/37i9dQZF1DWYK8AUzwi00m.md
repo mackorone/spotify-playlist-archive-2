@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYK8AUzwi00m.md) - [plain]
 
 > have yourself a chill and lofi xmas
 
-[Spotify](https://open.spotify.com/user/spotify) - 126,401 likes - 106 songs - 3 hr 52 min
+[Spotify](https://open.spotify.com/user/spotify) - 126,586 likes - 106 songs - 3 hr 52 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -115,4 +115,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYK8AUzwi00m.md) - [plain]
 | 105 | [El Tamborillero](https://open.spotify.com/track/5FhKEzzYnquRmc6yoMfZLq) | [Floating Bits](https://open.spotify.com/artist/4CmfscPBgrYJQuZP1nTQbs) | [El Tamborillero](https://open.spotify.com/album/3BFtMfVWEq5rdN2GUIPGEu) | 2:46 |
 | 106 | [Wonderland](https://open.spotify.com/track/0emoEFX5JN5rKhAYWx9Tr3) | [Limes](https://open.spotify.com/artist/5o4dgimn1R07w1d2ZzpzpP) | [Chillhop Essentials Winter 2016](https://open.spotify.com/album/3IhmoT6nYsFYBpixYe72VZ) | 2:06 |
 
-Snapshot ID: `AAAAAKHSI12QZ7p1o3jZYaoCr3aN31yZ`
+Snapshot ID: `AAAAAJ8IZHvCVyhZH4tF0hs/M/EbPLGb`

@@ -4,7 +4,7 @@
 
 > Buscando um sono profundo? Essa playlist te ajuda a dormir melhor.
 
-1,205 songs - 2 day 9 hr 9 min
+1,210 songs - 2 day 9 hr 23 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -118,6 +118,7 @@
 | [Aurora Lenta](https://open.spotify.com/track/15iQzqps9VrV0zrzatLVqY) | [Through Quiet Tides](https://open.spotify.com/artist/2eHOuxkLbI8rJGWwAN41Gi) | [Aurora Lenta](https://open.spotify.com/album/2uiBjxqRg9W5wlyLp29aPO) | 2:47 | 2025-07-09 | 2026-05-10 |
 | [Aurora's Embrace](https://open.spotify.com/track/4GFIIShFeRT6l7nDA6Sonr) | [Mina Tuma](https://open.spotify.com/artist/0lqE6j2h29SQqpyw47yYsP) | [Aurora's Embrace](https://open.spotify.com/album/1KCXZlsa6KmnCcOAtl0zV9) | 2:59 | 2024-01-17 | 2024-07-16 |
 | [Auspicious](https://open.spotify.com/track/7sTzvkV6uKU4OQ8RuY4Gs1) | [Meleira](https://open.spotify.com/artist/2FJo0qMTC1O0a3ggZGg43q) | [Auspicious](https://open.spotify.com/album/6xt8POOpWaDnTV89hppirg) | 2:44 | 2026-07-20 |  |
+| [Authority](https://open.spotify.com/track/0wqpaJVH0ZA0T13sHGhXNQ) | [Steve Stanton](https://open.spotify.com/artist/5twRNI5wpRSlkGL3opeJYq) | [Authority](https://open.spotify.com/album/4qhe1iunn9ulV7YiPCSLKC) | 2:58 | 2026-11-24 |  |
 | [Awai Yume](https://open.spotify.com/track/68SZL9RYEDGSTCVvMeONzS) | [Juliette Laveaux](https://open.spotify.com/artist/4OhNusW3mnw1DJ1DuMph9A) | [Awai Yume](https://open.spotify.com/album/0M8JeUBOWQEX9jO486pDQo) | 2:54 | 2026-07-20 |  |
 | [Awake is Beauty](https://open.spotify.com/track/6Vwch7baK3sLDpAjbcL0wK) | [Malviti](https://open.spotify.com/artist/7vJXWasyMwsr0wU5akcu2x) | [Pranava](https://open.spotify.com/album/2T2jIUI1VmcMTAR3z9JvWU) | 4:30 | 2023-10-20 | 2024-02-09 |
 | [Awareness](https://open.spotify.com/track/4osn2bAHvnGlOab7xOak7Q) | [Isa Duwall](https://open.spotify.com/artist/1Isryx8tW37VcoRksHidGD) | [Awareness](https://open.spotify.com/album/3Tonb9LcXzkJpfbd3xjV23) | 2:53 | 2023-10-20 | 2024-02-28 |
@@ -353,7 +354,7 @@
 | [Envisage](https://open.spotify.com/track/1wm9NL0JQsyXAcKeAMEIrN) | [Labyrinthines](https://open.spotify.com/artist/3DWANz0CtvzLItCcONSdQQ) | [Envisage](https://open.spotify.com/album/7KayPxZbS1PQCo3ynADhQa) | 2:39 | 2026-05-09 |  |
 | [Eon](https://open.spotify.com/track/1lEmgReLHaCJHJwG4OCo13) | [Luna Novina](https://open.spotify.com/artist/227rzkBWqh9SVDdgzPrw38) | [Eon](https://open.spotify.com/album/4immjEnSICjAhdzMp48B0H) | 2:52 | 2024-02-08 | 2024-03-21 |
 | [Ephemara](https://open.spotify.com/track/6MJP8z8GbPYyS69TvlrEL8) | [Admira Mara](https://open.spotify.com/artist/1Pmc0APexvMU8usc0gixhv) | [Ephemara](https://open.spotify.com/album/1iPCFWvutN5Vrp8cpcBfTg) | 2:48 | 2024-02-27 | 2024-08-31 |
-| [Equanimity](https://open.spotify.com/track/1AY8reOYV2AmYUFzSSYuFg) | [Prophétique](https://open.spotify.com/artist/4uhsb1EuCyjawRUy9RXt6v) | [Equanimity](https://open.spotify.com/album/5y763GFYJu5ytjrNyjKlAE) | 2:55 | 2025-06-17 |  |
+| [Equanimity](https://open.spotify.com/track/1AY8reOYV2AmYUFzSSYuFg) | [Prophétique](https://open.spotify.com/artist/4uhsb1EuCyjawRUy9RXt6v) | [Equanimity](https://open.spotify.com/album/5y763GFYJu5ytjrNyjKlAE) | 2:55 | 2025-06-17 | 2026-11-25 |
 | [Equinox](https://open.spotify.com/track/26gAtYU4DIHaTspPkgkaVu) | [Eirwyn North](https://open.spotify.com/artist/29zgjcMG5XRMfqrwBenRta) | [Equinox](https://open.spotify.com/album/2xKeqMVKtm0FSK6mZcg3gF) | 3:10 | 2025-10-23 |  |
 | [Erice](https://open.spotify.com/track/4ecPC4L51JVR6WqJZWkeAi) | [Amos Stovall](https://open.spotify.com/artist/2rCj2TSCYy40ehzMZ0F5lS) | [Erice](https://open.spotify.com/album/5MJ7tUbfRkHSg5lKYqUM8M) | 2:54 | 2025-05-07 | 2025-05-15 |
 | [Erinnerungen](https://open.spotify.com/track/3oSnjjDlGybELlBa9by38Y) | [Phillipp Vogler](https://open.spotify.com/artist/2ocNI6hLYU6rqq6TT4YzNY) | [Erinnerungen](https://open.spotify.com/album/64Cah8smmxb3ypiPR1MtQl) | 3:12 | 2024-02-08 | 2024-07-16 |
@@ -386,7 +387,7 @@
 | [Evenfall](https://open.spotify.com/track/386KJq3D6hXX3BWiPbTnKl) | [Aurora Aeterna](https://open.spotify.com/artist/4PRv41OfpEkorKofIv7DV8) | [Evenfall](https://open.spotify.com/album/6U7bC6k2lRuvJlDyK24TpP) | 2:32 | 2026-02-17 |  |
 | [Event Horizon](https://open.spotify.com/track/34Kr8Wb6JCb7NiwYZ9ANW4) | [Vayuna](https://open.spotify.com/artist/51DnjE7wsvjNXT1FQCyvZS) | [Event Horizon](https://open.spotify.com/album/6CB3TWNd7JBcfMKwTWuLxf) | 2:25 | 2026-02-17 |  |
 | [Evergreen](https://open.spotify.com/track/4mw9pIQnrqSVv8bH0h3Jig) | [Jack Allenson](https://open.spotify.com/artist/3xmdKBMDTE4t48Il54UmBb) | [Evergreen](https://open.spotify.com/album/0rZfWmfqKjTSATBvIZ33TT) | 2:57 | 2025-01-22 | 2026-01-15 |
-| [Everywhen](https://open.spotify.com/track/3IhFwBDWsq2TEekuhzDTKS) | [Eomir](https://open.spotify.com/artist/6MPefoqWwiigHX975Qxuhx) | [Everywhen](https://open.spotify.com/album/3LO9SlJAUHWQ2EuaA7sdRQ) | 2:34 | 2026-02-27 |  |
+| [Everywhen](https://open.spotify.com/track/3IhFwBDWsq2TEekuhzDTKS) | [Eomir](https://open.spotify.com/artist/6MPefoqWwiigHX975Qxuhx) | [Everywhen](https://open.spotify.com/album/3LO9SlJAUHWQ2EuaA7sdRQ) | 2:34 | 2026-02-27 | 2026-11-25 |
 | [Existing](https://open.spotify.com/track/74uFbc3D8QpxBn5CObGShi) | [Decanõe](https://open.spotify.com/artist/2FxaxQDNIRiMuwqqgDZuqA) | [Existing](https://open.spotify.com/album/0iJ2y4SIrZTiptA4eHxoKq) | 2:48 | 2024-06-18 | 2025-05-21 |
 | [Expand](https://open.spotify.com/track/1jNIpsh1YfqUWNYmn6ajio) | [Eône](https://open.spotify.com/artist/4kZXfTjEmv2pM1m4B5H1I7) | [Expand](https://open.spotify.com/album/24ILC50IPCP0rTdG8p5PLH) | 3:02 | 2024-03-06 | 2024-11-06 |
 | [Expanse](https://open.spotify.com/track/5mK7VJDTa9KufmkYNB2g6a) | [Asa Kora](https://open.spotify.com/artist/174Lkyx2f5M77yWd1Mofqj) | [Expanse](https://open.spotify.com/album/6SiIxdtLqVtYxo9rZtAarK) | 2:36 | 2024-03-06 | 2025-02-15 |
@@ -408,7 +409,7 @@
 | [First Day](https://open.spotify.com/track/2Wsu9gvKCWRXLA1nEdFfXt) | [Ljomo](https://open.spotify.com/artist/0Kw9CyfoVqNGnbR2hYb0wt) | [Beautiful Morning](https://open.spotify.com/album/0Mqhh958wkwxu4UvUAQos0) | 4:12 | 2023-10-20 | 2024-02-28 |
 | [Fleeting Moments](https://open.spotify.com/track/4ISFjCBsY21GgFnjMd8V17) | [Les Coralines](https://open.spotify.com/artist/595oUO0bgLQxuQ28hBcPSm) | [Fleeting Moments](https://open.spotify.com/album/3mSXs8THWgZ6dCFWHVusmb) | 2:40 | 2025-01-22 | 2025-03-28 |
 | [Fliessend](https://open.spotify.com/track/6USOZA7NMQwoL9LaNfBPJP) | [Solar Wash](https://open.spotify.com/artist/0Yh3qH3YP5YPSK9o1emQLC) | [Fliessend](https://open.spotify.com/album/1tZnE5teaXuwMXskg4VXV9) | 2:44 | 2023-10-20 | 2024-02-28 |
-| [Floating In Silence](https://open.spotify.com/track/4ubUx4TWvO1HEjF6EyWObE) | [Lost Lumina](https://open.spotify.com/artist/6hxR80dFvGZxlRm3Sd33KQ) | [Floating In Silence](https://open.spotify.com/album/5wvyrj7lYJBXpp2FBrGBaT) | 2:28 | 2025-05-07 |  |
+| [Floating In Silence](https://open.spotify.com/track/4ubUx4TWvO1HEjF6EyWObE) | [Lost Lumina](https://open.spotify.com/artist/6hxR80dFvGZxlRm3Sd33KQ) | [Floating In Silence](https://open.spotify.com/album/5wvyrj7lYJBXpp2FBrGBaT) | 2:28 | 2025-05-07 | 2026-11-25 |
 | [Flood of Calm](https://open.spotify.com/track/1JKeT1X6VB3JHXevW3IQOj) | [Claddagh Glas](https://open.spotify.com/artist/5bN4xLWNDmClCk5kO9tPfi) | [Flood of Calm](https://open.spotify.com/album/0G2IeZ3VJwLwSIpS7Q49CY) | 2:26 | 2026-01-12 |  |
 | [Flores](https://open.spotify.com/track/2e1kS492vBdTHtq0dG5SEX) | [Zooids](https://open.spotify.com/artist/67VSC1OWyqo4z4X9dOTYkZ) | [Flores](https://open.spotify.com/album/1dI1bigi8US3P2qmRInH4h) | 2:46 | 2024-12-17 | 2026-02-28 |
 | [Flourishing](https://open.spotify.com/track/6wF6AIn5w8PX3YdQaQRJqh) | [Arush Mandal](https://open.spotify.com/artist/5WSATrMjcuhKibg0jp4uHI) | [Flourishing](https://open.spotify.com/album/6e8daMHEJ3IhTI51FDKOSg) | 3:21 | 2026-01-29 | 2026-03-21 |
@@ -517,6 +518,7 @@
 | [In Balance](https://open.spotify.com/track/01KdTGhXq2Grl0DgidVjDT) | [Gleyma](https://open.spotify.com/artist/6aQqtXUHqp9axSHKGlfdiq) | [In Balance](https://open.spotify.com/album/3F831rOo09f22eGLEmR0u6) | 2:13 | 2023-11-10 | 2024-07-16 |
 | [In Pace](https://open.spotify.com/track/2YliXHzegIkpyaCMQsWEvb) | [Vespera Nube](https://open.spotify.com/artist/1xJaGUScKBjjp4ScPHf83R) | [In Pace](https://open.spotify.com/album/2MK0kMEsiBmIKx504lcKls) | 2:22 | 2026-08-26 |  |
 | [In the Morning](https://open.spotify.com/track/0Mr6IhBGD9YvCaRSWyI8V9) | [Aurora Chamber](https://open.spotify.com/artist/5RskfD8FI7hAdPYRLno1OX) | [In the Morning](https://open.spotify.com/album/36a2mZ69W5DbdUMyFtHQ84) | 3:15 | 2024-02-08 | 2024-03-21 |
+| [In The Oak](https://open.spotify.com/track/754tqeoKvrmLyR7EbY66LM) | [Monte Aria](https://open.spotify.com/artist/7mVQk6J9GM0K0sf1H9ueXZ) | [In The Oak](https://open.spotify.com/album/3dkpPInuSS9tu6J7Jvft6H) | 3:02 | 2026-11-24 |  |
 | [In the Stillness](https://open.spotify.com/track/38UK747YAiaElqtkXz8xmX) | [Hector Warrens](https://open.spotify.com/artist/18djQbUQxMlklEPDlDif6B) | [In the Stillness](https://open.spotify.com/album/1t7JhPDdr9OqJOez5uB1SW) | 3:09 | 2025-02-04 | 2026-04-04 |
 | [In Warmth](https://open.spotify.com/track/28xW5WozDABhJvfxNx3XDq) | [The Lay\-Backs](https://open.spotify.com/artist/3hcHU2Pwf2YPgQXqdEi83C) | [In Warmth](https://open.spotify.com/album/6Mgqs0QSsWG6j6jXC5MuNm) | 2:33 | 2026-03-20 |  |
 | [Incandescent](https://open.spotify.com/track/0PPWFj7RtjyPpdzkHdXBQx) | [Adirenne Lushara](https://open.spotify.com/artist/4Bq0flYhY0O3Tl8qMZsaO4) | [Incandescent](https://open.spotify.com/album/2LihUwNXSVTW601y1XLlzz) | 2:56 | 2024-02-08 | 2024-03-21 |
@@ -756,7 +758,7 @@
 | [Open Sky](https://open.spotify.com/track/2xNfIYXbuY9FJnXAoMijLw) | [Jungussen](https://open.spotify.com/artist/0pEakNfx2p7HQU6e3Ow9jW) | [Open Sky](https://open.spotify.com/album/0tyj1eNYxPOdzDyuv9ss33) | 3:08 | 2023-10-20 | 2024-03-21 |
 | [Opening](https://open.spotify.com/track/7JsLI1JVEgqjCamkT78vNZ) | [Amarin](https://open.spotify.com/artist/2KcH0OwHlGSNgnazBYf5xM) | [Opening](https://open.spotify.com/album/6GTl0Lm3f5c5PjNEdiGJ5k) | 2:14 | 2026-08-26 |  |
 | [Opening](https://open.spotify.com/track/3q3MXI7TXxfrzGLMlNcWA8) | [Sky Sailor](https://open.spotify.com/artist/1wNyUBqk3zMlwfuyoiCIzS) | [Opening](https://open.spotify.com/album/1ZMP0olCCafDsFN3ruxse2) | 2:18 | 2026-07-20 |  |
-| [Optometry](https://open.spotify.com/track/2pfEixutjM3M37Z1xolMCV) | [Elijah Edwards](https://open.spotify.com/artist/33e4XNrceV0ftUpzWWJWqS) | [Optometry](https://open.spotify.com/album/5RiD7U8g3ROWc3RALqlyUW) | 2:44 | 2025-04-23 |  |
+| [Optometry](https://open.spotify.com/track/2pfEixutjM3M37Z1xolMCV) | [Elijah Edwards](https://open.spotify.com/artist/33e4XNrceV0ftUpzWWJWqS) | [Optometry](https://open.spotify.com/album/5RiD7U8g3ROWc3RALqlyUW) | 2:44 | 2025-04-23 | 2026-11-25 |
 | [Orbital](https://open.spotify.com/track/5dx4dhqbkLFKYPyWSJvu2N) | [Luna Ombro](https://open.spotify.com/artist/772pb8YX7Q28YXDan6bi7M) | [Orbital](https://open.spotify.com/album/5FolWCHTlIbxFi4Q8dPPVu) | 3:02 | 2024-02-27 | 2025-02-15 |
 | [Orbiting Solitude](https://open.spotify.com/track/5cjqCGTY2O4ealKtCSeoda) | [Aidin](https://open.spotify.com/artist/1FQMmopnjYkAuyjQImmDMM) | [Orbiting Solitude](https://open.spotify.com/album/2ljkYFpk8HeHtqP494zXOq) | 2:24 | 2025-02-14 |  |
 | [Orchid](https://open.spotify.com/track/38Exn0S5DUaUKUxW4FPtoC) | [Aetheria Solara](https://open.spotify.com/artist/53Dh6mRLAQrQVAwNvXiifJ) | [Orchid](https://open.spotify.com/album/7fz8CIKXxv2Vxj5TKR6OsL) | 2:30 | 2026-11-03 |  |
@@ -815,7 +817,7 @@
 | [Presence](https://open.spotify.com/track/7a4gDM13MJvGcxkfDqbzIw) | [Calming Eyes](https://open.spotify.com/artist/32QebOlHD4A8nInyCK0wvf) | [Presence](https://open.spotify.com/album/6uOJ38UQCPi167LHTWirvX) | 3:31 | 2025-06-03 | 2026-03-21 |
 | [Principles](https://open.spotify.com/track/0UZxzrNs4vNcBVVWCPc1q5) | [Domi Nova](https://open.spotify.com/artist/1Ld0guzIxggCOIbkE319nz) | [Principles](https://open.spotify.com/album/6eudpeH8qXukuMMmwntRjA) | 2:37 | 2025-10-23 |  |
 | [Prismatic](https://open.spotify.com/track/4CzH17y6ZqsfL44KIcBPQY) | [Chandeller](https://open.spotify.com/artist/0LzWeBGGtEazh0mJmyxFXi) | [Prismatic](https://open.spotify.com/album/1HxZqb63mQDqGPnPADJ8Us) | 2:51 | 2025-02-14 | 2026-01-15 |
-| [Profondo](https://open.spotify.com/track/7EDTBzNFkNrHmE8dFnb3AL) | [Nebula Somni](https://open.spotify.com/artist/2WYAbfZMnJYDFEQ6lJ6cqV) | [Profondo](https://open.spotify.com/album/1Ze2F6nordqswiFJ4ZbPy8) | 2:44 | 2025-12-02 |  |
+| [Profondo](https://open.spotify.com/track/7EDTBzNFkNrHmE8dFnb3AL) | [Nebula Somni](https://open.spotify.com/artist/2WYAbfZMnJYDFEQ6lJ6cqV) | [Profondo](https://open.spotify.com/album/1Ze2F6nordqswiFJ4ZbPy8) | 2:44 | 2025-12-02 | 2026-11-25 |
 | [Profound](https://open.spotify.com/track/738ZWyXzrfKT1OuyRJmmsX) | [Rannar Sillard](https://open.spotify.com/artist/3WIjOR36QpKStT6hfxguh5) | [Profound](https://open.spotify.com/album/2T5PHfwAwONbtakHIwNb5X) | 3:20 | 2023-10-20 | 2024-02-09 |
 | [Profusion of Dreams](https://open.spotify.com/track/1UGc72on1Mg4R7wf7Cnetg) | [Somnolentia](https://open.spotify.com/artist/1k7mX5EwakP9gbdCyulnJ1) | [Profusion of Dreams](https://open.spotify.com/album/6cZalJG7mYR8bkzWJPf6Bn) | 2:21 | 2025-10-23 | 2026-06-13 |
 | [Propriety](https://open.spotify.com/track/3hQiXol7nTo1nhBaDEcj8T) | [Monte Aria](https://open.spotify.com/artist/7mVQk6J9GM0K0sf1H9ueXZ) | [Propriety](https://open.spotify.com/album/0zDQyHcDx7Es0aoVqgKiqP) | 2:25 | 2026-02-27 |  |
@@ -830,6 +832,7 @@
 | [Quiet Depths](https://open.spotify.com/track/1CL5ZMezIF6mdZWXabbPHv) | [Solar Sonar](https://open.spotify.com/artist/1IPM2at5XQoDgESfcTi5M7) | [Deep Current](https://open.spotify.com/album/0ZksixHCrp4FFlwz0RwMCA) | 2:32 | 2025-12-17 |  |
 | [Quiet Eternity](https://open.spotify.com/track/0IsHOUWhLv4ynUlpUJihhr) | [Casiamty](https://open.spotify.com/artist/4MkWDFm702DiQ6TYCdFyh0) | [Quiet Eternity](https://open.spotify.com/album/6X6SOB4FBFQK6pr7Fk8obr) | 3:17 | 2024-12-17 | 2026-02-28 |
 | [Quiet Fields](https://open.spotify.com/track/5RCv5wfdswNoWbnhf1001T) | [Frail Horizon](https://open.spotify.com/artist/04KKofTtFKDuXSLzYqAVa2) | [Quiet Fields](https://open.spotify.com/album/4KflkUBRedTQFPz8kfv9d3) | 2:54 | 2026-02-27 |  |
+| [Quiet Mind](https://open.spotify.com/track/21POtQFkQmoXiULxU3R6lN) | [Terra Silva](https://open.spotify.com/artist/3QcRF5A3knoVN56ZQgcvWV) | [Quiet Mind](https://open.spotify.com/album/43kLhST1z3jsJak28WjGle) | 2:23 | 2026-11-24 |  |
 | [Quietness](https://open.spotify.com/track/27ZLSp1tyjQQpm4doIhFCY) | [Coseae](https://open.spotify.com/artist/3u9wvP3DcyIVdT8fi1eq09) | [Quietness](https://open.spotify.com/album/7qBTeldiyet58KcNxEgbav) | 2:54 | 2024-07-09 | 2025-05-21 |
 | [Radiance](https://open.spotify.com/track/2dE7f4gdVvdP6l5PBpBhYf) | [Kenton](https://open.spotify.com/artist/3GFWDsoRkUif3Xnlj9Wxk8) | [Radiance](https://open.spotify.com/album/3WoRPqPIJnQZf5LlsHAHd5) | 2:58 | 2024-02-08 | 2024-03-21 |
 | [Radiance](https://open.spotify.com/track/2z0WMGUDUkSN2vIQRZre3B) | [Misa Hiro](https://open.spotify.com/artist/06wu7ToAH3I9mIZNrOKSgV) | [Radiance](https://open.spotify.com/album/7wvqz8K8vpHqvALimcRWNg) | 2:51 | 2024-01-17 | 2024-07-16 |
@@ -1020,6 +1023,7 @@
 | [Star Sapphire](https://open.spotify.com/track/4PEaexNSqrYBG2oGVyVhgt) | [Galactica Pivot](https://open.spotify.com/artist/4GwyYAQXedw9Rf6R5lPqiG) | [Star Sapphire](https://open.spotify.com/album/0QfpBOzWW1pSX3rxU35BFy) | 2:21 | 2024-03-20 | 2024-07-16 |
 | [Stardreamer](https://open.spotify.com/track/04UWGxaFXRO7ZS3PS6RJrJ) | [Ryn Alera](https://open.spotify.com/artist/3946agpecpYRzYoHBmRpOF) | [Stardreamer](https://open.spotify.com/album/3lEJIfAhLQoQ6KsityPnRU) | 2:42 | 2026-02-27 |  |
 | [Stardust Memories](https://open.spotify.com/track/72PXvumKV3t0Eip3D8vkM4) | [Celestelle](https://open.spotify.com/artist/4ddXdxD2ZJ1bgPdoKPsvaX) | [Stardust Memories](https://open.spotify.com/album/5U0l3I3b2h0nOiZrphlNRv) | 2:58 | 2024-07-15 | 2025-02-05 |
+| [Startune](https://open.spotify.com/track/3zfFedDcE3hybuSRMCw84m) | [Nimara](https://open.spotify.com/artist/7CXl2o7bsSWCVfw670J1TZ) | [Startune](https://open.spotify.com/album/3WKKpjcoyMQrPOLz2etxZo) | 2:38 | 2026-11-24 |  |
 | [State of Unreality](https://open.spotify.com/track/3rKCZIXrsC7T6XPJhXKAQJ) | [Lugar](https://open.spotify.com/artist/6KPAXAMmjjuL3dlucR4I29) | [State of Unreality](https://open.spotify.com/album/7xVYocetlbRmYIekq00dVt) | 2:41 | 2023-10-20 | 2024-02-09 |
 | [Stay](https://open.spotify.com/track/2g3tsiZNrb7j5R9EiaiHBn) | [Aniaras](https://open.spotify.com/artist/6giPu3LI4VQbyWGGHHVpfj) | [Stay](https://open.spotify.com/album/5NOYz1xsOLUZOHqrorxyt1) | 3:04 | 2024-01-17 | 2024-07-16 |
 | [Steady State](https://open.spotify.com/track/5FlA0RkPmd84okaFAk6MEN) | [Matheo Lyon](https://open.spotify.com/artist/5yBqlv8zkkzTmWN0TtjMf4) | [Steady State](https://open.spotify.com/album/2HPKrqGymgPLfjEGKFdycC) | 2:51 | 2024-08-30 | 2024-11-22 |
@@ -1160,6 +1164,7 @@
 | [Verdensrommet](https://open.spotify.com/track/3IVrwyHQPdZBchIDkPHfZf) | [Aksel Møller](https://open.spotify.com/artist/2jVswK0TYMQNByLwsyYeaS) | [Verdensrommet](https://open.spotify.com/album/2VwVc76UbyMhPSiUfUnkR0) | 3:02 | 2024-07-09 | 2024-08-31 |
 | [Verisimilitude](https://open.spotify.com/track/3hrhxKomuxdXZTL5CGsGgV) | [Pax Magnolia](https://open.spotify.com/artist/1rTNvNMPdbMrZwTzvu1e7U) | [Verisimilitude](https://open.spotify.com/album/6hLJGaiPFWLvwweTVxlMjr) | 2:53 | 2023-10-20 | 2024-01-18 |
 | [Vero](https://open.spotify.com/track/5YobMEz6i6p0QuT17Fk4dQ) | [Nebula Somni](https://open.spotify.com/artist/2WYAbfZMnJYDFEQ6lJ6cqV) | [Vero](https://open.spotify.com/album/2tEkfVYGyaMJRI6YGHSdrX) | 2:15 | 2025-12-17 |  |
+| [Veronesian](https://open.spotify.com/track/0bCslVL0pGQMCd2cxbUmsL) | [Atmosfeel](https://open.spotify.com/artist/04MoCfKDs263ULEoka1Gyy) | [Veronesian](https://open.spotify.com/album/3MZd0EIVB3iv4EGc65vI5o) | 2:51 | 2026-11-24 |  |
 | [Vespera](https://open.spotify.com/track/2c8z7wq9HJEwZToAg95DfH) | [Elio Vane](https://open.spotify.com/artist/3KdplR6fQigF6Octm8lqOV) | [Vespera](https://open.spotify.com/album/7jBqT6wsgVL6Ia52EFgahR) | 2:40 | 2025-10-23 |  |
 | [Vespers](https://open.spotify.com/track/2lzoxR34ISyzfi91kDdAit) | [Vincent Novaes](https://open.spotify.com/artist/1bWtods7s54SaWI5MyYTFA) | [Vespers](https://open.spotify.com/album/6r2xNpVGI01U4w2M3e0CfL) | 2:34 | 2025-09-30 | 2026-05-10 |
 | [Vie Tafare](https://open.spotify.com/track/5KUm8UcbneePgumCqM7KKJ) | [Lahasara](https://open.spotify.com/artist/2e0jbFLa4g3PR9lpXv9kAB) | [Vie Tafare](https://open.spotify.com/album/0QPRNkpCzDPMjbCwQCgMSM) | 2:48 | 2023-10-20 | 2024-02-28 |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZEVXbJQbYjwxrhPm.md) - [plain]
 
 > Your weekly update of the most played tracks right now \- Bulgaria.
 
-[Spotify](https://open.spotify.com/user/spotify) - 2,018 likes - 50 songs - 2 hr 46 min
+[Spotify](https://open.spotify.com/user/spotify) - 2,017 likes - 50 songs - 2 hr 46 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -56,7 +56,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZEVXbJQbYjwxrhPm.md) - [plain]
 | 46 | [Да си тук](https://open.spotify.com/track/5GeUnhnpp7NyhmBDlkvncd) | [Medi](https://open.spotify.com/artist/6sEfX6ntbBxeWBLggUMyyq) | [Да си тук](https://open.spotify.com/album/485bT5cjYdaONGp4RwtEDB) | 3:37 |
 | 47 | [Shotta's.](https://open.spotify.com/track/1ApUYfDejOBvrTnar2Wyf3) | [Season 25](https://open.spotify.com/artist/1WtceoonufhxRc6AnUSbat) | [Shotta's.](https://open.spotify.com/album/1XUTYkp36yxfOmOaNlbxiE) | 2:22 |
 | 48 | [BATUT](https://open.spotify.com/track/0cGSVOwXOlDrPpjV2lJthP) | [KSIOR](https://open.spotify.com/artist/2NuYz10D2u4pbBUb9zVCQ6), [SISS](https://open.spotify.com/artist/1URQKyDhNbxD42pNxdpctn) | [BATUT](https://open.spotify.com/album/0Phe8iwXf7qSnH7Xwyqqoc) | 2:41 |
-| 49 | [Sweater Weather](https://open.spotify.com/track/0cQVqPuHQP4KEwc7ZUQmj6) | [The Neighbourhood](https://open.spotify.com/artist/77SW9BnxLY8rJ0RciFqkHh) | [I Love You.](https://open.spotify.com/album/6iu2XwoDlKg0VYte9qAbnr) | 4:00 |
+| 49 | [Sweater Weather](https://open.spotify.com/track/2QjOHCTQ1Jl3zawyYOpxh6) | [The Neighbourhood](https://open.spotify.com/artist/77SW9BnxLY8rJ0RciFqkHh) | [I Love You.](https://open.spotify.com/album/4xkM0BwLM9H2IUcbYzpcBI) | 4:00 |
 | 50 | [Huligan](https://open.spotify.com/track/7DmFY1omu3EuBPYA31Rz3a) | [Djena](https://open.spotify.com/artist/07aV940tBFh4TthmbcjR3g) | [Chuy me](https://open.spotify.com/album/1OrxRpoUuXak1x8qBRFvD2) | 3:11 |
 
-Snapshot ID: `Mpf+KAAAAAAAAAAAAAAAAAAAAAAAAGVu`
+Snapshot ID: `Mpk6kAAAAAAAAAAAAAAAAAAAAAAAAGVu`

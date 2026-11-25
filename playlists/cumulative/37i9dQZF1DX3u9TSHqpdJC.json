@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2020-10-13",
-  "description": "The best pop songs from new, independent artists as chosen by our editors.  Cover: Magdalene. Artwork by Paola Saliby",
+  "description": "The best pop songs from new, independent artists as chosen by our editors.  Cover: Syd Hudson. Artwork by Paola Saliby",
   "name": "Fresh Finds Pop",
   "tracks": [
     {
@@ -6269,6 +6269,24 @@
     },
     {
       "album": {
+        "name": "BAD SIDE (THE WHOLE STORY)",
+        "url": "https://open.spotify.com/album/5zLEqKj4oZ8sHoyp7bX7qT"
+      },
+      "artists": [
+        {
+          "name": "Jolene Lozano",
+          "url": "https://open.spotify.com/artist/4ZAwnJGuqLChoBQZe8MUe1"
+        }
+      ],
+      "date_added": "2026-11-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 167870,
+      "name": "BAD SIDE",
+      "url": "https://open.spotify.com/track/44dTQkLBtyDIS2UQ0C7Lh1"
+    },
+    {
+      "album": {
         "name": "Bad Thing",
         "url": "https://open.spotify.com/album/6MaKgxiFQ6TEQ7iTWiU26y"
       },
@@ -8554,6 +8572,24 @@
       "duration_ms": 169505,
       "name": "BKGW",
       "url": "https://open.spotify.com/track/1OD9c17q9QQrWMirigs4HG"
+    },
+    {
+      "album": {
+        "name": "Black Eyes",
+        "url": "https://open.spotify.com/album/7Caym7jLpbZOwK2cBXPBCt"
+      },
+      "artists": [
+        {
+          "name": "Stella Ferguson",
+          "url": "https://open.spotify.com/artist/2cSs6BCbPlU4Pc0vxZtQln"
+        }
+      ],
+      "date_added": "2026-11-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 284414,
+      "name": "Black Eyes",
+      "url": "https://open.spotify.com/track/1OOltFbPiSnnBI58jiD1MK"
     },
     {
       "album": {
@@ -19040,7 +19076,7 @@
       ],
       "date_added": "2026-10-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-25",
       "duration_ms": 145676,
       "name": "Dirty Nails",
       "url": "https://open.spotify.com/track/5L0PFLeyhjDAvLmDK7KYmX"
@@ -19286,6 +19322,24 @@
       "duration_ms": 160661,
       "name": "Do Better",
       "url": "https://open.spotify.com/track/4ZxhhIU4Y9Nr0KqQFCDCzD"
+    },
+    {
+      "album": {
+        "name": "Do I",
+        "url": "https://open.spotify.com/album/4c1GDzi618lgDswJB2rtFJ"
+      },
+      "artists": [
+        {
+          "name": "Reece Bibby",
+          "url": "https://open.spotify.com/artist/5LdxRTzovijIc5SgH50JvG"
+        }
+      ],
+      "date_added": "2026-11-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 213793,
+      "name": "Do I",
+      "url": "https://open.spotify.com/track/3hry6sQTONBeRFnc6dPjYp"
     },
     {
       "album": {
@@ -20750,6 +20804,24 @@
       "duration_ms": 170909,
       "name": "dreamin'",
       "url": "https://open.spotify.com/track/267QMIjVTwU5HvH2lJmrFW"
+    },
+    {
+      "album": {
+        "name": "Dreaming Alone",
+        "url": "https://open.spotify.com/album/5FG03fYagxoMeS2vMZ8U4W"
+      },
+      "artists": [
+        {
+          "name": "Dreamhouse",
+          "url": "https://open.spotify.com/artist/6ED5ZJe6kFfK2Q1vMkDkg2"
+        }
+      ],
+      "date_added": "2026-11-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 215040,
+      "name": "Dreaming Alone",
+      "url": "https://open.spotify.com/track/5treW7XuiAbiHfNwNpnYHP"
     },
     {
       "album": {
@@ -27043,6 +27115,28 @@
     },
     {
       "album": {
+        "name": "FRIENDZONE",
+        "url": "https://open.spotify.com/album/6RGN3H0UlRsQYPPPaQZy56"
+      },
+      "artists": [
+        {
+          "name": "TFE",
+          "url": "https://open.spotify.com/artist/62NuiEDT0W67E635Qke1pk"
+        },
+        {
+          "name": "JAKE JUNE",
+          "url": "https://open.spotify.com/artist/589dT1D6xQSTopdNtICAiv"
+        }
+      ],
+      "date_added": "2026-11-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 172641,
+      "name": "FRIENDZONE",
+      "url": "https://open.spotify.com/track/23R34L7wtg6Jkwl0hWqPeH"
+    },
+    {
+      "album": {
         "name": "Froot Loop",
         "url": "https://open.spotify.com/album/1FAczTFobCHu8ZVm2ax4g3"
       },
@@ -29930,7 +30024,7 @@
       ],
       "date_added": "2026-10-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-25",
       "duration_ms": 133953,
       "name": "Got U On My Mind",
       "url": "https://open.spotify.com/track/42FQRd6n42Z5MO7HUIrYLn"
@@ -33014,7 +33108,7 @@
       ],
       "date_added": "2026-09-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-25",
       "duration_ms": 139306,
       "name": "hit record",
       "url": "https://open.spotify.com/track/6a2ohnqXabnrXLNrAQQkZR"
@@ -36978,6 +37072,24 @@
       "duration_ms": 166542,
       "name": "I Thought About You",
       "url": "https://open.spotify.com/track/76Q5RyaQzwkLoMyU4FenWl"
+    },
+    {
+      "album": {
+        "name": "BLUE",
+        "url": "https://open.spotify.com/album/6zOUBp6Te9xGiLFz5Ivsw3"
+      },
+      "artists": [
+        {
+          "name": "love, brandon",
+          "url": "https://open.spotify.com/artist/6waghryvFV0joFY6o70fYC"
+        }
+      ],
+      "date_added": "2026-11-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 228923,
+      "name": "i thought we were friends",
+      "url": "https://open.spotify.com/track/2dEKPRH0iRLXgNpDnZhYWM"
     },
     {
       "album": {
@@ -47756,7 +47868,7 @@
       ],
       "date_added": "2026-10-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-25",
       "duration_ms": 171811,
       "name": "Make It Stop",
       "url": "https://open.spotify.com/track/0KTsFUssEgghi94WOKC0Vq"
@@ -49912,7 +50024,7 @@
       ],
       "date_added": "2026-09-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-25",
       "duration_ms": 172428,
       "name": "misses independent",
       "url": "https://open.spotify.com/track/5SrEfnGeY0Ip8m8WUG5OQd"
@@ -57814,7 +57926,7 @@
       ],
       "date_added": "2026-10-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-25",
       "duration_ms": 170368,
       "name": "Petty",
       "url": "https://open.spotify.com/track/2DHcWiCe8yTpmTXiDY44n6"
@@ -68108,6 +68220,24 @@
     {
       "album": {
         "name": "Someday",
+        "url": "https://open.spotify.com/album/5WjOvtTXuXA8UoDwT4D64x"
+      },
+      "artists": [
+        {
+          "name": "Aiden Kroll",
+          "url": "https://open.spotify.com/artist/4AH4IR4NtlSI9JN1y7Qz96"
+        }
+      ],
+      "date_added": "2026-11-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 301386,
+      "name": "Someday",
+      "url": "https://open.spotify.com/track/7bxHmDC0BiZXGPRSAhSWkO"
+    },
+    {
+      "album": {
+        "name": "Someday",
         "url": "https://open.spotify.com/album/2ZXCuyC3jTAprnfunrmOev"
       },
       "artists": [
@@ -72142,7 +72272,7 @@
       ],
       "date_added": "2026-10-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-25",
       "duration_ms": 130894,
       "name": "Sweat",
       "url": "https://open.spotify.com/track/4a1ZYe8ed9cL1NHl7er6Bw"

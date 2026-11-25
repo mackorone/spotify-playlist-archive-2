@@ -1,12 +1,12 @@
 {
   "description": "New and classic releases from Americana stalwarts. Cover: Wynonna",
-  "num_followers": 241620,
+  "num_followers": 241635,
   "original_name": "Americana Icons",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAPpnaBOjOEaI4t8fwoTiKv4x6ifM",
+  "snapshot_id": "AAAAANNtcY/DpK+6SSAVh5AYs+GBJ3YC",
   "tracks": [
     {
       "added_at": "2026-10-02 04:01:37",
@@ -647,6 +647,22 @@
     {
       "added_at": "2026-10-02 04:01:37",
       "album": {
+        "name": "Mortal City",
+        "url": "https://open.spotify.com/album/6EVUAMSaUKG6mxVQcWDdJG"
+      },
+      "artists": [
+        {
+          "name": "Dar Williams",
+          "url": "https://open.spotify.com/artist/4Aarr7f0itQ2WFmmiPcriK"
+        }
+      ],
+      "duration_ms": 287933,
+      "name": "Iowa (Traveling, Pt. 3)",
+      "url": "https://open.spotify.com/track/1DPu4VZvRagYKnkDtn4FbU"
+    },
+    {
+      "added_at": "2026-10-02 04:01:37",
+      "album": {
         "name": "Freedom Bus (feat. Jesse Welles)",
         "url": "https://open.spotify.com/album/5YkFjlztInHrn0fdfTkeQ3"
       },
@@ -663,22 +679,6 @@
       "duration_ms": 283234,
       "name": "Freedom Bus (feat. Jesse Welles)",
       "url": "https://open.spotify.com/track/6WIG59dsRrXkkJGoMUt1Xo"
-    },
-    {
-      "added_at": "2026-10-02 04:01:37",
-      "album": {
-        "name": "Mortal City",
-        "url": "https://open.spotify.com/album/6EVUAMSaUKG6mxVQcWDdJG"
-      },
-      "artists": [
-        {
-          "name": "Dar Williams",
-          "url": "https://open.spotify.com/artist/4Aarr7f0itQ2WFmmiPcriK"
-        }
-      ],
-      "duration_ms": 287933,
-      "name": "Iowa (Traveling, Pt. 3)",
-      "url": "https://open.spotify.com/track/1DPu4VZvRagYKnkDtn4FbU"
     },
     {
       "added_at": "2026-10-02 04:01:37",
@@ -811,22 +811,6 @@
     {
       "added_at": "2026-10-02 04:01:37",
       "album": {
-        "name": "Car Wheels On A Gravel Road",
-        "url": "https://open.spotify.com/album/074Kr9hvgYLxCWiVhcWT7x"
-      },
-      "artists": [
-        {
-          "name": "Lucinda Williams",
-          "url": "https://open.spotify.com/artist/60ht0hWRy1yjUDfNsLuHuP"
-        }
-      ],
-      "duration_ms": 208453,
-      "name": "Can't Let Go",
-      "url": "https://open.spotify.com/track/1KI016Hog5kWTGaKN3nZJS"
-    },
-    {
-      "added_at": "2026-10-02 04:01:37",
-      "album": {
         "name": "Shouted, Written Down & Quoted",
         "url": "https://open.spotify.com/album/5JblYQTb7RXHoqP9JQZK6L"
       },
@@ -839,6 +823,22 @@
       "duration_ms": 207841,
       "name": "Merely Avoiding",
       "url": "https://open.spotify.com/track/6mtJ9NK0YjqMDvSv15N1T1"
+    },
+    {
+      "added_at": "2026-10-02 04:01:37",
+      "album": {
+        "name": "Car Wheels On A Gravel Road",
+        "url": "https://open.spotify.com/album/074Kr9hvgYLxCWiVhcWT7x"
+      },
+      "artists": [
+        {
+          "name": "Lucinda Williams",
+          "url": "https://open.spotify.com/artist/60ht0hWRy1yjUDfNsLuHuP"
+        }
+      ],
+      "duration_ms": 208453,
+      "name": "Can't Let Go",
+      "url": "https://open.spotify.com/track/1KI016Hog5kWTGaKN3nZJS"
     },
     {
       "added_at": "2026-10-02 04:01:37",
@@ -1163,26 +1163,6 @@
     {
       "added_at": "2026-10-02 04:01:37",
       "album": {
-        "name": "Still Woman Enough",
-        "url": "https://open.spotify.com/album/6t1h5sp58mtWBsl0ptwfZv"
-      },
-      "artists": [
-        {
-          "name": "Loretta Lynn",
-          "url": "https://open.spotify.com/artist/1FE0rls8gfQT3laAeRYNgl"
-        },
-        {
-          "name": "Margo Price",
-          "url": "https://open.spotify.com/artist/09yvLritEUxHrzx5TlFvbl"
-        }
-      ],
-      "duration_ms": 161023,
-      "name": "One's On The Way (feat. Margo Price)",
-      "url": "https://open.spotify.com/track/4sPVvd3PfAAtB4jF07mva4"
-    },
-    {
-      "added_at": "2026-10-02 04:01:37",
-      "album": {
         "name": "Detour",
         "url": "https://open.spotify.com/album/3mXZIWJYygHtn9XaZrvpbJ"
       },
@@ -1199,6 +1179,26 @@
       "duration_ms": 175400,
       "name": "Detour (feat. Emmylou Harris)",
       "url": "https://open.spotify.com/track/0vxmBkeL8EuDpJvIb2dhRJ"
+    },
+    {
+      "added_at": "2026-10-02 04:01:37",
+      "album": {
+        "name": "Still Woman Enough",
+        "url": "https://open.spotify.com/album/6t1h5sp58mtWBsl0ptwfZv"
+      },
+      "artists": [
+        {
+          "name": "Loretta Lynn",
+          "url": "https://open.spotify.com/artist/1FE0rls8gfQT3laAeRYNgl"
+        },
+        {
+          "name": "Margo Price",
+          "url": "https://open.spotify.com/artist/09yvLritEUxHrzx5TlFvbl"
+        }
+      ],
+      "duration_ms": 161023,
+      "name": "One's On The Way (feat. Margo Price)",
+      "url": "https://open.spotify.com/track/4sPVvd3PfAAtB4jF07mva4"
     },
     {
       "added_at": "2026-10-02 04:01:37",
@@ -1239,22 +1239,6 @@
     {
       "added_at": "2026-10-02 04:01:37",
       "album": {
-        "name": "California Sober / In Your Ocean (Acoustic)",
-        "url": "https://open.spotify.com/album/2zfVMUrFj90HA1E44g5jJ7"
-      },
-      "artists": [
-        {
-          "name": "Iron & Wine",
-          "url": "https://open.spotify.com/artist/4M5nCE77Qaxayuhp3fVn4V"
-        }
-      ],
-      "duration_ms": 200181,
-      "name": "California Sober",
-      "url": "https://open.spotify.com/track/79qhOOGp2XVgH5pMTMbXNc"
-    },
-    {
-      "added_at": "2026-10-02 04:01:37",
-      "album": {
         "name": "Songs",
         "url": "https://open.spotify.com/album/6XHqRtggc3u82NKgyIFG4o"
       },
@@ -1287,6 +1271,38 @@
     {
       "added_at": "2026-10-02 04:01:37",
       "album": {
+        "name": "Patty Griffin",
+        "url": "https://open.spotify.com/album/3ZbfpLDN1yP3JYlqb7K6w0"
+      },
+      "artists": [
+        {
+          "name": "Patty Griffin",
+          "url": "https://open.spotify.com/artist/7tNLRmiAN8hpmFrbIHiHsy"
+        }
+      ],
+      "duration_ms": 284030,
+      "name": "Where I Come From",
+      "url": "https://open.spotify.com/track/6JKQ5URj6dRJ4I1YCiMCEs"
+    },
+    {
+      "added_at": "2026-10-02 04:01:37",
+      "album": {
+        "name": "California Sober / In Your Ocean (Acoustic)",
+        "url": "https://open.spotify.com/album/2zfVMUrFj90HA1E44g5jJ7"
+      },
+      "artists": [
+        {
+          "name": "Iron & Wine",
+          "url": "https://open.spotify.com/artist/4M5nCE77Qaxayuhp3fVn4V"
+        }
+      ],
+      "duration_ms": 200181,
+      "name": "California Sober",
+      "url": "https://open.spotify.com/track/79qhOOGp2XVgH5pMTMbXNc"
+    },
+    {
+      "added_at": "2026-10-02 04:01:37",
+      "album": {
         "name": "Broken Radio '22",
         "url": "https://open.spotify.com/album/1oW9ApWVjn2ezXeLBUK4Ak"
       },
@@ -1303,22 +1319,6 @@
       "duration_ms": 221852,
       "name": "Broken Radio '22",
       "url": "https://open.spotify.com/track/5xk4DuC1A2dvIfnxY1ymrm"
-    },
-    {
-      "added_at": "2026-10-02 04:01:37",
-      "album": {
-        "name": "Patty Griffin",
-        "url": "https://open.spotify.com/album/3ZbfpLDN1yP3JYlqb7K6w0"
-      },
-      "artists": [
-        {
-          "name": "Patty Griffin",
-          "url": "https://open.spotify.com/artist/7tNLRmiAN8hpmFrbIHiHsy"
-        }
-      ],
-      "duration_ms": 284030,
-      "name": "Where I Come From",
-      "url": "https://open.spotify.com/track/6JKQ5URj6dRJ4I1YCiMCEs"
     },
     {
       "added_at": "2026-10-02 04:01:37",
@@ -1431,6 +1431,22 @@
     {
       "added_at": "2026-10-02 04:01:37",
       "album": {
+        "name": "Way Out West",
+        "url": "https://open.spotify.com/album/60pQBVeOJlYePpptEhEouB"
+      },
+      "artists": [
+        {
+          "name": "Marty Stuart And His Fabulous Superlatives",
+          "url": "https://open.spotify.com/artist/559WWygoFrpAD58V0PqVwO"
+        }
+      ],
+      "duration_ms": 198840,
+      "name": "Whole Lotta Highway (With A Million Miles to Go)",
+      "url": "https://open.spotify.com/track/1rh6izHbVmudK0tWaPMoxQ"
+    },
+    {
+      "added_at": "2026-10-02 04:01:37",
+      "album": {
         "name": "They're Calling Me Home (with Francesco Turrisi)",
         "url": "https://open.spotify.com/album/75qSKqLqEt7zOei7If7Lms"
       },
@@ -1447,22 +1463,6 @@
       "duration_ms": 298520,
       "name": "I Shall Not Be Moved (with Francesco Turrisi)",
       "url": "https://open.spotify.com/track/03HGmuDW5iVxZwbUfXagbr"
-    },
-    {
-      "added_at": "2026-10-02 04:01:37",
-      "album": {
-        "name": "Way Out West",
-        "url": "https://open.spotify.com/album/60pQBVeOJlYePpptEhEouB"
-      },
-      "artists": [
-        {
-          "name": "Marty Stuart And His Fabulous Superlatives",
-          "url": "https://open.spotify.com/artist/559WWygoFrpAD58V0PqVwO"
-        }
-      ],
-      "duration_ms": 198840,
-      "name": "Whole Lotta Highway (With A Million Miles to Go)",
-      "url": "https://open.spotify.com/track/1rh6izHbVmudK0tWaPMoxQ"
     },
     {
       "added_at": "2026-10-02 04:01:37",
@@ -1499,6 +1499,22 @@
     {
       "added_at": "2026-10-02 04:01:37",
       "album": {
+        "name": "Killin' Uncle Buzzy",
+        "url": "https://open.spotify.com/album/3XmWV3KKzHEkV0iZXWSU8l"
+      },
+      "artists": [
+        {
+          "name": "Travis Meadows",
+          "url": "https://open.spotify.com/artist/5d2EFS71gAHBeP1KWOBgCA"
+        }
+      ],
+      "duration_ms": 246373,
+      "name": "Learning How to Live Alone",
+      "url": "https://open.spotify.com/track/0KRiKjCsqMRN0Pmp2CFzQK"
+    },
+    {
+      "added_at": "2026-10-02 04:01:37",
+      "album": {
         "name": "Great Television",
         "url": "https://open.spotify.com/album/7gBCrGIdA2KIp7BABfDa2l"
       },
@@ -1515,22 +1531,6 @@
       "duration_ms": 215338,
       "name": "The Easy Kind (feat. Wynonna)",
       "url": "https://open.spotify.com/track/715T0aGuD1EewLmKYnog21"
-    },
-    {
-      "added_at": "2026-10-02 04:01:37",
-      "album": {
-        "name": "Killin' Uncle Buzzy",
-        "url": "https://open.spotify.com/album/3XmWV3KKzHEkV0iZXWSU8l"
-      },
-      "artists": [
-        {
-          "name": "Travis Meadows",
-          "url": "https://open.spotify.com/artist/5d2EFS71gAHBeP1KWOBgCA"
-        }
-      ],
-      "duration_ms": 246373,
-      "name": "Learning How to Live Alone",
-      "url": "https://open.spotify.com/track/0KRiKjCsqMRN0Pmp2CFzQK"
     },
     {
       "added_at": "2026-10-02 04:01:37",
@@ -1647,22 +1647,6 @@
     {
       "added_at": "2026-10-02 04:01:37",
       "album": {
-        "name": "Mr. Lincoln",
-        "url": "https://open.spotify.com/album/2up9A6KpO33X2CKMeD7ROE"
-      },
-      "artists": [
-        {
-          "name": "The Jayhawks",
-          "url": "https://open.spotify.com/artist/2UDplVRprMbazU74Hq8OLl"
-        }
-      ],
-      "duration_ms": 196333,
-      "name": "Mr. Lincoln",
-      "url": "https://open.spotify.com/track/1jvrIYoQ6E8qqnZnVBRc7r"
-    },
-    {
-      "added_at": "2026-10-02 04:01:37",
-      "album": {
         "name": "Electro Melodier",
         "url": "https://open.spotify.com/album/4nqWF9eOdxiyRevgezK8QS"
       },
@@ -1679,22 +1663,6 @@
     {
       "added_at": "2026-10-02 04:01:37",
       "album": {
-        "name": "Strangers Here",
-        "url": "https://open.spotify.com/album/6c6lwWAeINd3tR79Ew7ihw"
-      },
-      "artists": [
-        {
-          "name": "The Band Of Heathens",
-          "url": "https://open.spotify.com/artist/5K4gVy6DhNd39mSjuK95Y7"
-        }
-      ],
-      "duration_ms": 267648,
-      "name": "Strangers Here",
-      "url": "https://open.spotify.com/track/3eLPKY49y4mi29pjkpimkw"
-    },
-    {
-      "added_at": "2026-10-02 04:01:37",
-      "album": {
         "name": "I Could Have Told You",
         "url": "https://open.spotify.com/album/2iHYtDm5xAdk074E4x28Vh"
       },
@@ -1707,6 +1675,38 @@
       "duration_ms": 216520,
       "name": "I Could Have Told You",
       "url": "https://open.spotify.com/track/0HDABp2OCDAHppnpm1YhuX"
+    },
+    {
+      "added_at": "2026-10-02 04:01:37",
+      "album": {
+        "name": "Mr. Lincoln",
+        "url": "https://open.spotify.com/album/2up9A6KpO33X2CKMeD7ROE"
+      },
+      "artists": [
+        {
+          "name": "The Jayhawks",
+          "url": "https://open.spotify.com/artist/2UDplVRprMbazU74Hq8OLl"
+        }
+      ],
+      "duration_ms": 196333,
+      "name": "Mr. Lincoln",
+      "url": "https://open.spotify.com/track/1jvrIYoQ6E8qqnZnVBRc7r"
+    },
+    {
+      "added_at": "2026-10-02 04:01:37",
+      "album": {
+        "name": "Strangers Here",
+        "url": "https://open.spotify.com/album/6c6lwWAeINd3tR79Ew7ihw"
+      },
+      "artists": [
+        {
+          "name": "The Band Of Heathens",
+          "url": "https://open.spotify.com/artist/5K4gVy6DhNd39mSjuK95Y7"
+        }
+      ],
+      "duration_ms": 267648,
+      "name": "Strangers Here",
+      "url": "https://open.spotify.com/track/3eLPKY49y4mi29pjkpimkw"
     },
     {
       "added_at": "2026-10-02 04:01:37",
@@ -1935,22 +1935,6 @@
     {
       "added_at": "2026-10-02 04:01:37",
       "album": {
-        "name": "1970 - 1987",
-        "url": "https://open.spotify.com/album/7wp12pjjsFjBOxFOifOZzj"
-      },
-      "artists": [
-        {
-          "name": "Ry Cooder",
-          "url": "https://open.spotify.com/artist/1CPwHx5lgVxv0rfcp7UXLx"
-        }
-      ],
-      "duration_ms": 236266,
-      "name": "Taxes on the Farmer Feeds Us All",
-      "url": "https://open.spotify.com/track/1byebBYLkyIUdTNKUp8qS8"
-    },
-    {
-      "added_at": "2026-10-02 04:01:37",
-      "album": {
         "name": "Mr. Lincoln",
         "url": "https://open.spotify.com/album/2up9A6KpO33X2CKMeD7ROE"
       },
@@ -1963,6 +1947,22 @@
       "duration_ms": 284710,
       "name": "American Midnight",
       "url": "https://open.spotify.com/track/16bZB7vOwSuZHBqahIJFKZ"
+    },
+    {
+      "added_at": "2026-10-02 04:01:37",
+      "album": {
+        "name": "1970 - 1987",
+        "url": "https://open.spotify.com/album/7wp12pjjsFjBOxFOifOZzj"
+      },
+      "artists": [
+        {
+          "name": "Ry Cooder",
+          "url": "https://open.spotify.com/artist/1CPwHx5lgVxv0rfcp7UXLx"
+        }
+      ],
+      "duration_ms": 236266,
+      "name": "Taxes on the Farmer Feeds Us All",
+      "url": "https://open.spotify.com/track/1byebBYLkyIUdTNKUp8qS8"
     },
     {
       "added_at": "2026-10-02 04:01:37",
@@ -1983,22 +1983,6 @@
     {
       "added_at": "2026-10-02 04:01:37",
       "album": {
-        "name": "Finest Feelings",
-        "url": "https://open.spotify.com/album/2Haps8I9TS4dZin1HI902L"
-      },
-      "artists": [
-        {
-          "name": "Tift Merritt",
-          "url": "https://open.spotify.com/artist/2jL1PBvL0gBZBPk6B38p3z"
-        }
-      ],
-      "duration_ms": 205348,
-      "name": "Finest Feelings",
-      "url": "https://open.spotify.com/track/4gnIjWjbc9WK5KNlFJf3J0"
-    },
-    {
-      "added_at": "2026-10-02 04:01:37",
-      "album": {
         "name": "Great American Cities",
         "url": "https://open.spotify.com/album/3YcM9pEmKydxr0sF8KAz4i"
       },
@@ -2011,6 +1995,22 @@
       "duration_ms": 278720,
       "name": "Great American Cities",
       "url": "https://open.spotify.com/track/21Pb8xDIDfBzNRqJuM6nE7"
+    },
+    {
+      "added_at": "2026-10-02 04:01:37",
+      "album": {
+        "name": "Finest Feelings",
+        "url": "https://open.spotify.com/album/2Haps8I9TS4dZin1HI902L"
+      },
+      "artists": [
+        {
+          "name": "Tift Merritt",
+          "url": "https://open.spotify.com/artist/2jL1PBvL0gBZBPk6B38p3z"
+        }
+      ],
+      "duration_ms": 205348,
+      "name": "Finest Feelings",
+      "url": "https://open.spotify.com/track/4gnIjWjbc9WK5KNlFJf3J0"
     },
     {
       "added_at": "2026-10-02 04:01:37",
@@ -2219,18 +2219,22 @@
     {
       "added_at": "2026-10-02 04:01:37",
       "album": {
-        "name": "Strangers Almanac [Deluxe Edition]",
-        "url": "https://open.spotify.com/album/1LdMwGDQsjsAXRrslK5TLX"
+        "name": "Can\u2019t Let Go",
+        "url": "https://open.spotify.com/album/5cCTUwnFwgHlb0ZmMqxmbd"
       },
       "artists": [
         {
-          "name": "Whiskeytown",
-          "url": "https://open.spotify.com/artist/0tyLMmQvEuyQR4qjGBdbem"
+          "name": "Robert Plant",
+          "url": "https://open.spotify.com/artist/1OwarW4LEHnoep20ixRA0y"
+        },
+        {
+          "name": "Alison Krauss",
+          "url": "https://open.spotify.com/artist/5J6L7N6B4nI1M5cwa29mQG"
         }
       ],
-      "duration_ms": 234213,
-      "name": "16 Days",
-      "url": "https://open.spotify.com/track/49FGDCURPhI4VGn3Y7bmLT"
+      "duration_ms": 221440,
+      "name": "Can\u2019t Let Go",
+      "url": "https://open.spotify.com/track/5JktApbmtMr5cCbOoENhrK"
     },
     {
       "added_at": "2026-10-02 04:01:37",
@@ -2251,18 +2255,18 @@
     {
       "added_at": "2026-10-02 04:01:37",
       "album": {
-        "name": "Tapestry (Legacy Edition)",
-        "url": "https://open.spotify.com/album/7kLLC7CN8oxt0HgP2a051K"
+        "name": "Strangers Almanac [Deluxe Edition]",
+        "url": "https://open.spotify.com/album/1LdMwGDQsjsAXRrslK5TLX"
       },
       "artists": [
         {
-          "name": "Carole King",
-          "url": "https://open.spotify.com/artist/319yZVtYM9MBGqmSQnMyY6"
+          "name": "Whiskeytown",
+          "url": "https://open.spotify.com/artist/0tyLMmQvEuyQR4qjGBdbem"
         }
       ],
-      "duration_ms": 178560,
-      "name": "I Feel the Earth Move",
-      "url": "https://open.spotify.com/track/7onOpypcFWFc2YjMIcJnx9"
+      "duration_ms": 234213,
+      "name": "16 Days",
+      "url": "https://open.spotify.com/track/49FGDCURPhI4VGn3Y7bmLT"
     },
     {
       "added_at": "2026-10-02 04:01:37",
@@ -2299,6 +2303,22 @@
       "duration_ms": 238066,
       "name": "I'll Fly Away - From \u201cO Brother, Where Art Thou\u201d Soundtrack",
       "url": "https://open.spotify.com/track/7Jo1HP2CuphXWTyOF4aIUY"
+    },
+    {
+      "added_at": "2026-10-02 04:01:37",
+      "album": {
+        "name": "Tapestry (Legacy Edition)",
+        "url": "https://open.spotify.com/album/7kLLC7CN8oxt0HgP2a051K"
+      },
+      "artists": [
+        {
+          "name": "Carole King",
+          "url": "https://open.spotify.com/artist/319yZVtYM9MBGqmSQnMyY6"
+        }
+      ],
+      "duration_ms": 178560,
+      "name": "I Feel the Earth Move",
+      "url": "https://open.spotify.com/track/7onOpypcFWFc2YjMIcJnx9"
     },
     {
       "added_at": "2026-10-02 04:01:37",
@@ -2511,26 +2531,6 @@
       "duration_ms": 352546,
       "name": "Longer Than You've Been Alive",
       "url": "https://open.spotify.com/track/2qBfMn3hsyX6QFCOLZfZvV"
-    },
-    {
-      "added_at": "2026-10-02 04:01:37",
-      "album": {
-        "name": "Can\u2019t Let Go",
-        "url": "https://open.spotify.com/album/5cCTUwnFwgHlb0ZmMqxmbd"
-      },
-      "artists": [
-        {
-          "name": "Robert Plant",
-          "url": "https://open.spotify.com/artist/1OwarW4LEHnoep20ixRA0y"
-        },
-        {
-          "name": "Alison Krauss",
-          "url": "https://open.spotify.com/artist/5J6L7N6B4nI1M5cwa29mQG"
-        }
-      ],
-      "duration_ms": 221440,
-      "name": "Can\u2019t Let Go",
-      "url": "https://open.spotify.com/track/5JktApbmtMr5cCbOoENhrK"
     },
     {
       "added_at": "2026-10-02 04:01:37",

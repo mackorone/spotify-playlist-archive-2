@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWjGdmeTyeJ6.md) - [plain]
 
 > The best new music from independent artists and labels\.  Featuring Declan Sheehy\-Moss\. Curated with love by human Spotify editors.
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,231,375 likes - 100 songs - 5 hr 24 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,231,330 likes - 100 songs - 5 hr 24 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWjGdmeTyeJ6.md) - [plain]
 | 99 | [Outside](https://open.spotify.com/track/2PvIlbYyWnYPipFniXO7sX) | [Purple Pilgrims](https://open.spotify.com/artist/10jJPAsjoKNz6T9P1M5lJ7) | [Outside](https://open.spotify.com/album/23Ext9cqxzjJIyjO168nbT) | 3:57 |
 | 100 | [Halo Mode](https://open.spotify.com/track/60IH1n6y6LHfRlB2PQovPE) | [A Country Western](https://open.spotify.com/artist/0JyEWuZBMpLOezjt2DDt8M) | [Audition Tape](https://open.spotify.com/album/01sOQtxvpv31cCyEcRNjQh) | 3:17 |
 
-Snapshot ID: `AAAAAIrPBwKxsAoWoxvwaV6Dxsj8Ec2P`
+Snapshot ID: `AAAAAN9/ECZ5tb4sXZNszhfYjyNTumWm`

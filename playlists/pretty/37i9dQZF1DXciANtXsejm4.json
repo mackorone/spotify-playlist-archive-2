@@ -1,12 +1,12 @@
 {
   "description": "El ritmo cumbiero que te mueve el coraz\u00f3n. \nFoto: Leo Mattioli.",
-  "num_followers": 359546,
+  "num_followers": 359611,
   "original_name": "Cumbia Santafesina",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAHhtRdIX73Wk70aDN6D0MrK5lKYN",
+  "snapshot_id": "AAAAAB18WUqD2F54PCJxPK9tRFpmKBUM",
   "tracks": [
     {
       "added_at": "2026-07-20 18:12:10",
@@ -139,22 +139,6 @@
     {
       "added_at": "2026-07-20 18:12:10",
       "album": {
-        "name": "Solo un Momento",
-        "url": "https://open.spotify.com/album/3bVeCAJzTzkQIDRnjosSUG"
-      },
-      "artists": [
-        {
-          "name": "Dalila",
-          "url": "https://open.spotify.com/artist/3ruk44IzmsPppwo7VOknwZ"
-        }
-      ],
-      "duration_ms": 204669,
-      "name": "Dej\u00e9moslo As\u00ed",
-      "url": "https://open.spotify.com/track/5tjst7DmSA9UXWncROr3oc"
-    },
-    {
-      "added_at": "2026-07-20 18:12:10",
-      "album": {
         "name": "S\u00f3lo Dios Puede Juzgarme",
         "url": "https://open.spotify.com/album/59H5u5QOocFXVka9bSif3h"
       },
@@ -167,6 +151,22 @@
       "duration_ms": 178640,
       "name": "Le Cre\u00ed",
       "url": "https://open.spotify.com/track/1sA46SlQCMoDgkY7mU4O3a"
+    },
+    {
+      "added_at": "2026-07-20 18:12:10",
+      "album": {
+        "name": "Solo un Momento",
+        "url": "https://open.spotify.com/album/3bVeCAJzTzkQIDRnjosSUG"
+      },
+      "artists": [
+        {
+          "name": "Dalila",
+          "url": "https://open.spotify.com/artist/3ruk44IzmsPppwo7VOknwZ"
+        }
+      ],
+      "duration_ms": 204669,
+      "name": "Dej\u00e9moslo As\u00ed",
+      "url": "https://open.spotify.com/track/5tjst7DmSA9UXWncROr3oc"
     },
     {
       "added_at": "2026-07-20 18:12:10",
@@ -383,8 +383,8 @@
     {
       "added_at": "2026-07-20 18:12:10",
       "album": {
-        "name": "Baila Santa Fe",
-        "url": "https://open.spotify.com/album/0RUvlrD7zsXmEr69VRg1CU"
+        "name": "Rico y Suave",
+        "url": "https://open.spotify.com/album/2fhIHdHYooK2MPRt6ehxsP"
       },
       "artists": [
         {
@@ -392,9 +392,9 @@
           "url": "https://open.spotify.com/artist/0vOORe7cIa49Egvl6QUVt7"
         }
       ],
-      "duration_ms": 189911,
-      "name": "Mal Amor",
-      "url": "https://open.spotify.com/track/0S7HkobUN0HrvaHZaQsmE5"
+      "duration_ms": 218830,
+      "name": "Entre el Odio y el Amor",
+      "url": "https://open.spotify.com/track/5qfwWBHMPJVyVuS7BcyKkX"
     },
     {
       "added_at": "2026-07-20 18:12:10",
@@ -471,8 +471,8 @@
     {
       "added_at": "2026-07-20 18:12:10",
       "album": {
-        "name": "Rico y Suave",
-        "url": "https://open.spotify.com/album/2fhIHdHYooK2MPRt6ehxsP"
+        "name": "Baila Santa Fe",
+        "url": "https://open.spotify.com/album/0RUvlrD7zsXmEr69VRg1CU"
       },
       "artists": [
         {
@@ -480,9 +480,9 @@
           "url": "https://open.spotify.com/artist/0vOORe7cIa49Egvl6QUVt7"
         }
       ],
-      "duration_ms": 218830,
-      "name": "Entre el Odio y el Amor",
-      "url": "https://open.spotify.com/track/5qfwWBHMPJVyVuS7BcyKkX"
+      "duration_ms": 189911,
+      "name": "Mal Amor",
+      "url": "https://open.spotify.com/track/0S7HkobUN0HrvaHZaQsmE5"
     },
     {
       "added_at": "2026-07-20 18:12:10",

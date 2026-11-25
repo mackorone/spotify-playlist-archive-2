@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/0HYrV7yGRYO79oVRILcrqr.md) - [plain]
 
 > 👉 Free Pitch : audiartist.com \| Insta : stardust\_from\_sun \| Email : musiqueslibre2droit@gmail.com \| 🎸 Rock &\#x27;n Blues delivers Blues Rock, Classic Rock, Southern Rock, Hard Rock, R&amp;B &amp; Soul\. Soulful rhythms, timeless riffs, and electrifying energy\. Follow now and vibe with the best of rock and blues!
 
-[Audiartist](https://open.spotify.com/user/3165go7ysisqitdjcbt5rhjwno24) - 2,008 likes - 246 songs - 15 hr 30 min
+[Audiartist](https://open.spotify.com/user/3165go7ysisqitdjcbt5rhjwno24) - 2,012 likes - 248 songs - 15 hr 36 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -254,5 +254,7 @@ pretty - [cumulative](/playlists/cumulative/0HYrV7yGRYO79oVRILcrqr.md) - [plain]
 | 244 | [We Won't Give Up](https://open.spotify.com/track/70vQpsO2KA4kqb0NjH5bTB) | [WakeUpCall](https://open.spotify.com/artist/3Gcd8bWz8E9Kwmk0DgESve) | [We Won't Give Up](https://open.spotify.com/album/4bXOvsrSBqb61C2WQuiCFt) | 3:51 |
 | 245 | [Rive](https://open.spotify.com/track/45mcLKIeGqvQuRsFteRcvL) | [MARSUG](https://open.spotify.com/artist/43vnpFFDtHBUcWBGlJhvQh) | [Marsug](https://open.spotify.com/album/4pWXVHu9f7OhlP8vQ9X0cx) | 4:55 |
 | 246 | [Enough](https://open.spotify.com/track/4M9cQk4HGzBWlZMi7WwAoo) | [Jimmy Sheesh](https://open.spotify.com/artist/3xJB0d9fDpYiNCbYuwPy1K) | [Enough](https://open.spotify.com/album/6udYuAxjPS8bKtwiSZJc0L) | 2:48 |
+| 247 | [Georgia On My Mind](https://open.spotify.com/track/3UC8xlRz4rVfvVhftUPSVW) | [John Allen Kipta](https://open.spotify.com/artist/6VMENRR0HKdBPQrihvsCB4) | [Georgia On My Mind](https://open.spotify.com/album/4OicfDt3bktglvk5twni8o) | 2:42 |
+| 248 | [Bloom](https://open.spotify.com/track/0wqHRP5OoeHA8lceP6cxVk) | [Lil Neroz](https://open.spotify.com/artist/4Io4x5Ren2j0v68lRiJsuT) | [Bloom](https://open.spotify.com/album/11WQn8Z7emp1DwHuIyEpsW) | 2:40 |
 
-Snapshot ID: `AAANIy6EBBcvfScT3tTh3QWFsyf4Fi1T`
+Snapshot ID: `AAANJTqiA3ExoRYtWj8Lv3RRPlYa0wlE`

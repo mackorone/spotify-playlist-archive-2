@@ -1,12 +1,12 @@
 {
   "description": "Deep electronic and organic house sounds, inspired by the folk music of Africa, Latin America and the Middle East.",
-  "num_followers": 925005,
+  "num_followers": 925040,
   "original_name": "Org\u00e1nica",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAAt0eS+loK/TT1H+CwPJrnGTBS1c",
+  "snapshot_id": "AAAAAKrXT3fTrtWwMtnkv2Ku7TpCBXXg",
   "tracks": [
     {
       "added_at": "2026-09-16 06:42:09",
@@ -359,22 +359,6 @@
     {
       "added_at": "2026-09-16 06:42:09",
       "album": {
-        "name": "Fata Morgana",
-        "url": "https://open.spotify.com/album/2rLEqB3NEHclyYWEAjHdlz"
-      },
-      "artists": [
-        {
-          "name": "Lassjo",
-          "url": "https://open.spotify.com/artist/2g504CS5Du2Mtuffv3ALth"
-        }
-      ],
-      "duration_ms": 309680,
-      "name": "Fata Morgana",
-      "url": "https://open.spotify.com/track/7walQouy5fsUKIOLfvnGOJ"
-    },
-    {
-      "added_at": "2026-09-16 06:42:09",
-      "album": {
         "name": "Closure",
         "url": "https://open.spotify.com/album/24C38FMJuX5fUczY9HzqkK"
       },
@@ -399,6 +383,22 @@
       "duration_ms": 202000,
       "name": "Closure",
       "url": "https://open.spotify.com/track/2Pn7BSdmNTxtq0borL4VlK"
+    },
+    {
+      "added_at": "2026-09-16 06:42:09",
+      "album": {
+        "name": "Fata Morgana",
+        "url": "https://open.spotify.com/album/2rLEqB3NEHclyYWEAjHdlz"
+      },
+      "artists": [
+        {
+          "name": "Lassjo",
+          "url": "https://open.spotify.com/artist/2g504CS5Du2Mtuffv3ALth"
+        }
+      ],
+      "duration_ms": 309680,
+      "name": "Fata Morgana",
+      "url": "https://open.spotify.com/track/7walQouy5fsUKIOLfvnGOJ"
     },
     {
       "added_at": "2026-09-16 06:42:09",
@@ -583,22 +583,6 @@
     {
       "added_at": "2026-09-16 06:42:09",
       "album": {
-        "name": "Dromomania",
-        "url": "https://open.spotify.com/album/0slf4uR5PXW7wWSfFOnOEx"
-      },
-      "artists": [
-        {
-          "name": "Cemento Atlantico",
-          "url": "https://open.spotify.com/artist/75mLxfyKPeBkmXEEAM3NlT"
-        }
-      ],
-      "duration_ms": 293253,
-      "name": "Garawek khaos",
-      "url": "https://open.spotify.com/track/09uRAja2jE8e0HwBFmPdqn"
-    },
-    {
-      "added_at": "2026-09-16 06:42:09",
-      "album": {
         "name": "Hidden Garden",
         "url": "https://open.spotify.com/album/5ADWAdx830C67511L0FVPj"
       },
@@ -615,18 +599,18 @@
     {
       "added_at": "2026-09-16 06:42:09",
       "album": {
-        "name": "Woods, Tales & Friends",
-        "url": "https://open.spotify.com/album/3Z9EKeISsOLgsfdMNZbUO4"
+        "name": "Dromomania",
+        "url": "https://open.spotify.com/album/0slf4uR5PXW7wWSfFOnOEx"
       },
       "artists": [
         {
-          "name": "Mollono.Bass",
-          "url": "https://open.spotify.com/artist/27j5PRcPefcI6q8as58zWF"
+          "name": "Cemento Atlantico",
+          "url": "https://open.spotify.com/artist/75mLxfyKPeBkmXEEAM3NlT"
         }
       ],
-      "duration_ms": 282520,
-      "name": "The Oracle",
-      "url": "https://open.spotify.com/track/0HcuetqlzCA2yDfhKuWrxz"
+      "duration_ms": 293253,
+      "name": "Garawek khaos",
+      "url": "https://open.spotify.com/track/09uRAja2jE8e0HwBFmPdqn"
     },
     {
       "added_at": "2026-09-16 06:42:09",
@@ -643,6 +627,22 @@
       "duration_ms": 235560,
       "name": "No Limit",
       "url": "https://open.spotify.com/track/2DI6ENBWR8yKF6g4OyWaIV"
+    },
+    {
+      "added_at": "2026-09-16 06:42:09",
+      "album": {
+        "name": "Woods, Tales & Friends",
+        "url": "https://open.spotify.com/album/3Z9EKeISsOLgsfdMNZbUO4"
+      },
+      "artists": [
+        {
+          "name": "Mollono.Bass",
+          "url": "https://open.spotify.com/artist/27j5PRcPefcI6q8as58zWF"
+        }
+      ],
+      "duration_ms": 282520,
+      "name": "The Oracle",
+      "url": "https://open.spotify.com/track/0HcuetqlzCA2yDfhKuWrxz"
     },
     {
       "added_at": "2026-09-16 06:42:09",
@@ -847,26 +847,6 @@
     {
       "added_at": "2026-09-16 06:42:09",
       "album": {
-        "name": "La Isla",
-        "url": "https://open.spotify.com/album/7bKPkGw5CJeqCegPqzuTG0"
-      },
-      "artists": [
-        {
-          "name": "Megablast",
-          "url": "https://open.spotify.com/artist/3FkAamTY6TR8lc6xOFO21T"
-        },
-        {
-          "name": "Eribertho Cruz",
-          "url": "https://open.spotify.com/artist/6dQxJRakmUNWvvWVH8nQdb"
-        }
-      ],
-      "duration_ms": 193306,
-      "name": "La Isla - Radio Version",
-      "url": "https://open.spotify.com/track/2bwr0a2bbCfx3txaJ1uGro"
-    },
-    {
-      "added_at": "2026-09-16 06:42:09",
-      "album": {
         "name": "Alongside",
         "url": "https://open.spotify.com/album/6uCN30Zwc6nqxczXVcNQ36"
       },
@@ -883,6 +863,26 @@
       "duration_ms": 410000,
       "name": "Alongside - Omeria & NU Edit",
       "url": "https://open.spotify.com/track/2lAZJjUyFklZXQK5vDjzbp"
+    },
+    {
+      "added_at": "2026-09-16 06:42:09",
+      "album": {
+        "name": "La Isla",
+        "url": "https://open.spotify.com/album/7bKPkGw5CJeqCegPqzuTG0"
+      },
+      "artists": [
+        {
+          "name": "Megablast",
+          "url": "https://open.spotify.com/artist/3FkAamTY6TR8lc6xOFO21T"
+        },
+        {
+          "name": "Eribertho Cruz",
+          "url": "https://open.spotify.com/artist/6dQxJRakmUNWvvWVH8nQdb"
+        }
+      ],
+      "duration_ms": 193306,
+      "name": "La Isla - Radio Version",
+      "url": "https://open.spotify.com/track/2bwr0a2bbCfx3txaJ1uGro"
     },
     {
       "added_at": "2026-09-16 06:42:09",
@@ -1019,6 +1019,22 @@
     {
       "added_at": "2026-09-16 06:42:09",
       "album": {
+        "name": "Visions 2 (Departure)",
+        "url": "https://open.spotify.com/album/62Ntxmo8Oykqbk6rVkCw8E"
+      },
+      "artists": [
+        {
+          "name": "Harold van Lennep",
+          "url": "https://open.spotify.com/artist/3EDo5M4D2IAhisy3TDpkWg"
+        }
+      ],
+      "duration_ms": 509502,
+      "name": "Jungle Paradise",
+      "url": "https://open.spotify.com/track/7JiCJIx41x2A8Bvoq8w3Ek"
+    },
+    {
+      "added_at": "2026-09-16 06:42:09",
+      "album": {
         "name": "Limbo EP",
         "url": "https://open.spotify.com/album/3INuxTPDwTsRrSJVKcP22m"
       },
@@ -1051,22 +1067,6 @@
       "duration_ms": 395851,
       "name": "Liya Snin - Omerar Nanda Remix",
       "url": "https://open.spotify.com/track/46uAfcDVMnD95lDGDfdb3n"
-    },
-    {
-      "added_at": "2026-09-16 06:42:09",
-      "album": {
-        "name": "Visions 2 (Departure)",
-        "url": "https://open.spotify.com/album/62Ntxmo8Oykqbk6rVkCw8E"
-      },
-      "artists": [
-        {
-          "name": "Harold van Lennep",
-          "url": "https://open.spotify.com/artist/3EDo5M4D2IAhisy3TDpkWg"
-        }
-      ],
-      "duration_ms": 509502,
-      "name": "Jungle Paradise",
-      "url": "https://open.spotify.com/track/7JiCJIx41x2A8Bvoq8w3Ek"
     },
     {
       "added_at": "2026-09-16 06:42:09",
@@ -1211,22 +1211,6 @@
     {
       "added_at": "2026-09-16 06:42:09",
       "album": {
-        "name": "Quem Sou Eu",
-        "url": "https://open.spotify.com/album/29cY1BkBQwyZEh3QlotmtL"
-      },
-      "artists": [
-        {
-          "name": "Xique-Xique",
-          "url": "https://open.spotify.com/artist/5LuhrBhGclMzHlYK4mDLLp"
-        }
-      ],
-      "duration_ms": 328912,
-      "name": "Quem Sou Eu",
-      "url": "https://open.spotify.com/track/303M6GvGo8DGx1niNv1pVS"
-    },
-    {
-      "added_at": "2026-09-16 06:42:09",
-      "album": {
         "name": "With You",
         "url": "https://open.spotify.com/album/0w5X1y8atCbmQrm2F6Ffil"
       },
@@ -1259,22 +1243,18 @@
     {
       "added_at": "2026-09-16 06:42:09",
       "album": {
-        "name": "Mercy Of Time",
-        "url": "https://open.spotify.com/album/7hpLEW55mKJFk4beINtTx8"
+        "name": "Quem Sou Eu",
+        "url": "https://open.spotify.com/album/29cY1BkBQwyZEh3QlotmtL"
       },
       "artists": [
         {
-          "name": "Louie Vega",
-          "url": "https://open.spotify.com/artist/5dncbrnveDMX9DgxcedeUg"
-        },
-        {
-          "name": "Msaki",
-          "url": "https://open.spotify.com/artist/5Oj5jQ98vsoHeIGqCS9Dfq"
+          "name": "Xique-Xique",
+          "url": "https://open.spotify.com/artist/5LuhrBhGclMzHlYK4mDLLp"
         }
       ],
-      "duration_ms": 615866,
-      "name": "Mercy Of Time - Louie Vega Mix",
-      "url": "https://open.spotify.com/track/6GWYprX5QYxFxzdUhHdPH5"
+      "duration_ms": 328912,
+      "name": "Quem Sou Eu",
+      "url": "https://open.spotify.com/track/303M6GvGo8DGx1niNv1pVS"
     },
     {
       "added_at": "2026-09-16 06:42:09",
@@ -1291,6 +1271,26 @@
       "duration_ms": 304418,
       "name": "Samra Samra",
       "url": "https://open.spotify.com/track/4tBq8B4uW8szPKbsW2KmOS"
+    },
+    {
+      "added_at": "2026-09-16 06:42:09",
+      "album": {
+        "name": "Mercy Of Time",
+        "url": "https://open.spotify.com/album/7hpLEW55mKJFk4beINtTx8"
+      },
+      "artists": [
+        {
+          "name": "Louie Vega",
+          "url": "https://open.spotify.com/artist/5dncbrnveDMX9DgxcedeUg"
+        },
+        {
+          "name": "Msaki",
+          "url": "https://open.spotify.com/artist/5Oj5jQ98vsoHeIGqCS9Dfq"
+        }
+      ],
+      "duration_ms": 615866,
+      "name": "Mercy Of Time - Louie Vega Mix",
+      "url": "https://open.spotify.com/track/6GWYprX5QYxFxzdUhHdPH5"
     },
     {
       "added_at": "2026-09-16 06:42:09",
@@ -1419,6 +1419,26 @@
     {
       "added_at": "2026-09-16 06:42:09",
       "album": {
+        "name": "Plut\u00f3n",
+        "url": "https://open.spotify.com/album/3lA2Wy5OpKlsRMlogDznKW"
+      },
+      "artists": [
+        {
+          "name": "Nacho Maldonado",
+          "url": "https://open.spotify.com/artist/4K6VsMmNzvyjrkVFdncNRH"
+        },
+        {
+          "name": "Tripoli",
+          "url": "https://open.spotify.com/artist/5kO8Lt8fTaDRmvwcmjDO46"
+        }
+      ],
+      "duration_ms": 382066,
+      "name": "Earth",
+      "url": "https://open.spotify.com/track/18Vds2ehiWC09W390vcptq"
+    },
+    {
+      "added_at": "2026-09-16 06:42:09",
+      "album": {
         "name": "Miss That (Major League DJz & Piero Farho Remix)",
         "url": "https://open.spotify.com/album/3ZfqTXWUvQNlVCXhmVdOlv"
       },
@@ -1439,26 +1459,6 @@
       "duration_ms": 358000,
       "name": "Miss That (Major League DJz & Piero Farho Remix)",
       "url": "https://open.spotify.com/track/34IHtqjGPDBTpkR8Qq90LK"
-    },
-    {
-      "added_at": "2026-09-16 06:42:09",
-      "album": {
-        "name": "Plut\u00f3n",
-        "url": "https://open.spotify.com/album/3lA2Wy5OpKlsRMlogDznKW"
-      },
-      "artists": [
-        {
-          "name": "Nacho Maldonado",
-          "url": "https://open.spotify.com/artist/4K6VsMmNzvyjrkVFdncNRH"
-        },
-        {
-          "name": "Tripoli",
-          "url": "https://open.spotify.com/artist/5kO8Lt8fTaDRmvwcmjDO46"
-        }
-      ],
-      "duration_ms": 382066,
-      "name": "Earth",
-      "url": "https://open.spotify.com/track/18Vds2ehiWC09W390vcptq"
     },
     {
       "added_at": "2026-09-16 06:42:09",

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXd8p9XRfIfUn.md) - [plain]
 
 > Lo mejor de la nueva\. Foto: fedesttar
 
-[Spotify](https://open.spotify.com/user/spotify) - 154 likes - 60 songs - 3 hr 2 min
+[Spotify](https://open.spotify.com/user/spotify) - 158 likes - 60 songs - 3 hr 2 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -38,8 +38,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXd8p9XRfIfUn.md) - [plain]
 | 28 | [Mi Fanatica](https://open.spotify.com/track/4M3UPGNere257tK0Qguga2) | [Jere Klein](https://open.spotify.com/artist/35oGZihZclGoTVuICPXRP9), [Bayriton](https://open.spotify.com/artist/29fcEFHRcOhfTYXvS8POPV), [Jairo Vera](https://open.spotify.com/artist/5CAruGjgds3QlF5ICtEnnc) | [Mi Fanatica](https://open.spotify.com/album/5w21QO36y3jDzjy0QkhduY) | 3:43 |
 | 29 | [Tus Besos \- Remix](https://open.spotify.com/track/4SieMb6AQmQgbjv9TfC5Qm) | [Juanka](https://open.spotify.com/artist/3Wb38LDP3N4tkobValgE9D), [Jay Wheeler](https://open.spotify.com/artist/2cPqdH7XMvwaBJEVjheH8g) | [Tus Besos \(Remix\)](https://open.spotify.com/album/4M0AZNWr6KbYVxtcsXjCNH) | 3:49 |
 | 30 | [Siempre Fine](https://open.spotify.com/track/1C91EF0FrgTMat91LnsiUh) | [Ak4:20](https://open.spotify.com/artist/1SiLK8gdECx2iEm2SSj0Bl) | [Siempre Fine](https://open.spotify.com/album/4ZJFPNSnivkwyyNJ7EIYT4) | 2:45 |
-| 31 | [Cuándo Será](https://open.spotify.com/track/68Oy57uVLa2uZdWcYNi6M4) | [Mora](https://open.spotify.com/artist/0Q8NcsJwoCbZOHHW63su5S), [Lunay](https://open.spotify.com/artist/47MpMsUfWtgyIIBEFOr4FE) | [Cuándo Será](https://open.spotify.com/album/5qK4dDtESjgrbN98KbHsl2) | 2:56 |
-| 32 | [HACE TIEMPO](https://open.spotify.com/track/7m641CKXqrdZU1iRE9WdLQ) | [Bryartz](https://open.spotify.com/artist/7kvnG7JhX0ycVMVb8SP8EL) | [HACE TIEMPO](https://open.spotify.com/album/3ALXlo0RXiPye7s97r6ycE) | 2:52 |
+| 31 | [HACE TIEMPO](https://open.spotify.com/track/7m641CKXqrdZU1iRE9WdLQ) | [Bryartz](https://open.spotify.com/artist/7kvnG7JhX0ycVMVb8SP8EL) | [HACE TIEMPO](https://open.spotify.com/album/3ALXlo0RXiPye7s97r6ycE) | 2:52 |
+| 32 | [Cuándo Será](https://open.spotify.com/track/68Oy57uVLa2uZdWcYNi6M4) | [Mora](https://open.spotify.com/artist/0Q8NcsJwoCbZOHHW63su5S), [Lunay](https://open.spotify.com/artist/47MpMsUfWtgyIIBEFOr4FE) | [Cuándo Será](https://open.spotify.com/album/5qK4dDtESjgrbN98KbHsl2) | 2:56 |
 | 33 | [Cartagena](https://open.spotify.com/track/04xYsXTqDPw63leBivg2pf) | [DFZM](https://open.spotify.com/artist/6ndLrsgT3MV5CNxIrW71fw), [Bowdozen](https://open.spotify.com/artist/4tCGhpQLgAw56eCyh1qQaN), [Sebas Boxian](https://open.spotify.com/artist/61BDXR8Fu8hQ1xmdJR405N) | [Cartagena](https://open.spotify.com/album/7GWo7V5ynQbXrLOKB2aX4u) | 3:15 |
 | 34 | [PERREANDO CON ALGUIEN QUE NO ME GUSTA](https://open.spotify.com/track/44WdAGGZvWjJsPg2mZF9oN) | [OMAY](https://open.spotify.com/artist/58A4Qwc7kr97PARjHizb8g), [SokeThugPro](https://open.spotify.com/artist/44nEKYuxqc1juQ79QsVOl0) | [PERREANDO CON ALGUIEN QUE NO ME GUSTA](https://open.spotify.com/album/2ngsJuhJRJQDW3BXt0B2OX) | 3:01 |
 | 35 | [Uy k raro](https://open.spotify.com/track/526lL7I17vKOuiD9Wd2vMt) | [Mont](https://open.spotify.com/artist/41gFAk6ZyYdt7Q1Ir4cbH0) | [Uy k raro](https://open.spotify.com/album/5FqitTSr4aw1i56OFbbbhn) | 2:07 |
@@ -69,4 +69,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXd8p9XRfIfUn.md) - [plain]
 | 59 | [Inédito](https://open.spotify.com/track/0vaPZCDqKhX09VwFruiRVl) | [Fran Rozzano](https://open.spotify.com/artist/0izyCDkDQ10PWDNNB2i5nA) | [Inédito](https://open.spotify.com/album/7nyUwMd9qCW90BtiNGxGfJ) | 2:42 |
 | 60 | [TNT](https://open.spotify.com/track/419xono1KqiWbVCu5bzSd8) | [Diego Smith](https://open.spotify.com/artist/60d7XKY1qqY5cPnXOCVvo6), [WANDA ORIGINAL](https://open.spotify.com/artist/2H8Dwb3Tbgux2nJixSW6LD) | [COLABORACIONES](https://open.spotify.com/album/6BvUu9MCrLMkeTQa5lDuyU) | 2:05 |
 
-Snapshot ID: `AAAAAPXwt+WZTD/qFEErFKry35AxIv/7`
+Snapshot ID: `AAAAALMXIQEpx+UkqgC3cEk8ov4bL6pl`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9c9fpd0lxJ5.md) - [plain]
 
 > indie tunes to make you shine \(✿◠‿◠\)
 
-[Spotify](https://open.spotify.com/user/spotify) - 429,529 likes - 100 songs - 5 hr 25 min
+[Spotify](https://open.spotify.com/user/spotify) - 429,479 likes - 100 songs - 5 hr 25 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -44,8 +44,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9c9fpd0lxJ5.md) - [plain]
 | 34 | [Un día más](https://open.spotify.com/track/5mXYPoqiOCab0lTbHqbYTO) | [Paul Alone](https://open.spotify.com/artist/6bdtalFIKenjGPCQVI2gtE) | [Un día más](https://open.spotify.com/album/3JqQExIwMGkaMcitZoN2TT) | 3:22 |
 | 35 | [FLOTANDO](https://open.spotify.com/track/40OkDypNOibhDLHZ94bKQc) | [Angela Torres](https://open.spotify.com/artist/6LZA6PhNCwUfHzqfpN1nYL) | [FLOTANDO](https://open.spotify.com/album/2P2zEMA1YeWmLGNrxGvHBY) | 2:42 |
 | 36 | [Ya no nos hablamos](https://open.spotify.com/track/3KjIRxUv81zmSqiphtRxGp) | [Veintiuno](https://open.spotify.com/artist/2k60o7SVpOKmzpuTEAG3L8), [Silvestre y La Naranja](https://open.spotify.com/artist/1hE5imhaIrCEKoHLHW9aCO) | [Ya no nos hablamos](https://open.spotify.com/album/2POquPZMJWFB1SocRQGW9A) | 3:35 |
-| 37 | [Easy](https://open.spotify.com/track/5idNzLXuETCpAYsrtHkl7g) | [The Change](https://open.spotify.com/artist/0zIwbOKRX5V7rdUMsjX9dK) | [555](https://open.spotify.com/album/6H5jQW4yRjWAJeFVBmEQnP) | 2:28 |
-| 38 | [Fuma](https://open.spotify.com/track/256iSpPtbeB473PZ9gtlsL) | [Technicolor Fabrics](https://open.spotify.com/artist/2GtdjV9W8RmiI4W2AUl4Pl), [Esteman](https://open.spotify.com/artist/3ZtIhDSOuRkpDyqjx53X1R) | [Fuma](https://open.spotify.com/album/4hZ5N4HR23RStTtFKzvktM) | 3:19 |
+| 37 | [Fuma](https://open.spotify.com/track/256iSpPtbeB473PZ9gtlsL) | [Technicolor Fabrics](https://open.spotify.com/artist/2GtdjV9W8RmiI4W2AUl4Pl), [Esteman](https://open.spotify.com/artist/3ZtIhDSOuRkpDyqjx53X1R) | [Fuma](https://open.spotify.com/album/4hZ5N4HR23RStTtFKzvktM) | 3:19 |
+| 38 | [Easy](https://open.spotify.com/track/5idNzLXuETCpAYsrtHkl7g) | [The Change](https://open.spotify.com/artist/0zIwbOKRX5V7rdUMsjX9dK) | [555](https://open.spotify.com/album/6H5jQW4yRjWAJeFVBmEQnP) | 2:28 |
 | 39 | [Miraverahí \- Slow Jamz Remix](https://open.spotify.com/track/6k7hllGhHCNwdDBoosxCLT) | [Buscabulla](https://open.spotify.com/artist/0MoaBi6dSquXp6rrlqlF8R), [Slow Jamz](https://open.spotify.com/artist/5OxY89csMbfechtyR7EX4o) | [Miraverahí \(Slow Jamz Remix\)](https://open.spotify.com/album/4boDswbpYB6q9ikDzAgEkf) | 4:17 |
 | 40 | [Where Do You Go?](https://open.spotify.com/track/2T9810jw3SFTcQtHL89utw) | [Leanys](https://open.spotify.com/artist/0e1Zih19iuVEnhZPOuqL9V) | [Where Do You Go?](https://open.spotify.com/album/0mgwFqh3CUu9DAX9HBvXpq) | 2:27 |
 | 41 | [Hasta Que Tú Me Quieras](https://open.spotify.com/track/2hpIeSPVeZwDdwMPSRK0ti) | [Esteman](https://open.spotify.com/artist/3ZtIhDSOuRkpDyqjx53X1R) | [Hasta Que Tú Me Quieras](https://open.spotify.com/album/3nfX5TcvGZzpuG28qO1rbs) | 3:55 |
@@ -71,10 +71,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9c9fpd0lxJ5.md) - [plain]
 | 61 | [Nostalgia](https://open.spotify.com/track/3wwHxBjK4Y1IohNUVgwX31) | [Ximena Sariñana](https://open.spotify.com/artist/7plUpXSFcSJUZSiZAoXqr1) | [Nostalgia](https://open.spotify.com/album/056KBSR2KBMankHXTbizsL) | 2:55 |
 | 62 | [Esta canción](https://open.spotify.com/track/4sKS8hXdU95mCgPUsdgi7f) | [Cheo](https://open.spotify.com/artist/2sshGYdyr1ZEl4Np76RRxG) | [Música para verse bien](https://open.spotify.com/album/0BJV6b6EauKG7XbLT0OQkZ) | 5:18 |
 | 63 | [Cartagena](https://open.spotify.com/track/3CBc589syKaYJd0VYgxjka) | [Esteman](https://open.spotify.com/artist/3ZtIhDSOuRkpDyqjx53X1R) | [Cartagena](https://open.spotify.com/album/0ahwRf85EYG9xvig4lqdvB) | 3:07 |
-| 64 | [Amor](https://open.spotify.com/track/42yT9HHlX3XBz7hn4RR0O0) | [Fabuloso](https://open.spotify.com/artist/5DAsxR5uOROQzdxAjq6SLX) | [Amor](https://open.spotify.com/album/5lFOUQxxdhf1M1nTm5IEky) | 3:32 |
+| 64 | [La Ternura](https://open.spotify.com/track/54gV1iPCLMkGntWBj6P94O) | [Carlos Sadness](https://open.spotify.com/artist/2LCcy9CZWwZ7Vvykt8IVVq) | [La Ternura](https://open.spotify.com/album/6wuPsukvYhod97ouL3ZiZL) | 3:06 |
 | 65 | [Sexy](https://open.spotify.com/track/5HXPMDJdaLo2UY1HL6ybnf) | [Giorgio Siladi](https://open.spotify.com/artist/70yXUWs47Ej8wyiChPutgj) | [Quemar La Casa](https://open.spotify.com/album/0BjsgknELVeYJdN3u85EYE) | 4:03 |
 | 66 | [TBT 4 EVER 2.0 \(feat\. Jesse Baez\)](https://open.spotify.com/track/7EW1QpUaFRKwsMQvr6rJoC) | [Ximena Sariñana](https://open.spotify.com/artist/7plUpXSFcSJUZSiZAoXqr1), [Jesse Baez](https://open.spotify.com/artist/4rriNpL1lxpoysDDctWgl3) | [TBT 4 EVER 2.0 \(feat\. Jesse Baez\)](https://open.spotify.com/album/2HnrU7teXQDKv65s8OoWZY) | 2:47 |
-| 67 | [La Ternura](https://open.spotify.com/track/54gV1iPCLMkGntWBj6P94O) | [Carlos Sadness](https://open.spotify.com/artist/2LCcy9CZWwZ7Vvykt8IVVq) | [La Ternura](https://open.spotify.com/album/6wuPsukvYhod97ouL3ZiZL) | 3:06 |
+| 67 | [Amor](https://open.spotify.com/track/42yT9HHlX3XBz7hn4RR0O0) | [Fabuloso](https://open.spotify.com/artist/5DAsxR5uOROQzdxAjq6SLX) | [Amor](https://open.spotify.com/album/5lFOUQxxdhf1M1nTm5IEky) | 3:32 |
 | 68 | [La Piscina](https://open.spotify.com/track/62T4aq95ad7tN8iKe2gyE6) | [French Braids](https://open.spotify.com/artist/5y8mGL7UFApHn1BotAfcj1), [Eva de Marce](https://open.spotify.com/artist/1UgwU7ChXfMkwH9t6ivW2E) | [La Piscina](https://open.spotify.com/album/5ZBRBlDRRBY29BDtP6pzuD) | 3:23 |
 | 69 | [Corazón Extraño](https://open.spotify.com/track/0xlOGGbvgC4gHQ6nYiOexk) | [Isla de Caras](https://open.spotify.com/artist/0GUxqzAYRCveTfqBLhojnF), [Juliana Gattas](https://open.spotify.com/artist/4beHLf0L7m2eBwhyifF9Kn), [Diosque](https://open.spotify.com/artist/3Ib6KIEhkT9Funk4mqF4Lh) | [Corazón Extraño](https://open.spotify.com/album/6ooGDTPhDaeQPIjE99BtY5) | 2:56 |
 | 70 | [No Puedo Parar](https://open.spotify.com/track/40Vkas3vI6KE0v02V1ZdiA) | [Ferraz](https://open.spotify.com/artist/01VsXNrszWERedrdHgRVH2) | [No Puedo Parar](https://open.spotify.com/album/4xIpUxqAgzC1vYpD9Zabfo) | 4:03 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9c9fpd0lxJ5.md) - [plain]
 | 99 | [Los Perros Van Al Cielo](https://open.spotify.com/track/4UlNyXwdUC2r5YSdOYB0Bt) | [Epilogio](https://open.spotify.com/artist/3VbATB9xUq0UsLkb9tXKaA) | [Los Perros Van Al Cielo](https://open.spotify.com/album/78zM7Jt21cfSI2s95Me58N) | 3:15 |
 | 100 | [Lo Siento](https://open.spotify.com/track/2d9LkMjwhSXsVJ0WVF7y3i) | [Reyna Tropical](https://open.spotify.com/artist/7i6bx5ASeX99tjQYqahDXL) | [Lo Siento](https://open.spotify.com/album/62CAq6Ijm0BKxY9XTFNfje) | 2:55 |
 
-Snapshot ID: `AAAAAFnfPnxPBK2wNWpHQV/idau0tdBi`
+Snapshot ID: `AAAAAEPxVVxK3KExPb0e+7cFBOotDVAA`

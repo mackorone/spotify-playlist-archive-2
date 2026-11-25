@@ -1,12 +1,12 @@
 {
   "description": "This is El Komander. The essential tracks, all in one playlist.",
-  "num_followers": 241527,
+  "num_followers": 241570,
   "original_name": "This Is El Komander",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "awIwgAAAAACbxVpBZqWB8g0HZfoS2i3U",
+  "snapshot_id": "awOCAAAAAABQYEgWq4CfHnUFbxn1DAyx",
   "tracks": [
     {
       "added_at": null,
@@ -679,6 +679,26 @@
     {
       "added_at": null,
       "album": {
+        "name": "Esquina 22",
+        "url": "https://open.spotify.com/album/1eghflM8a7rxXrHyMtigOO"
+      },
+      "artists": [
+        {
+          "name": "Leonardo Aguilar",
+          "url": "https://open.spotify.com/artist/1QgrwYywvDuC43MDtR8cqq"
+        },
+        {
+          "name": "El Komander",
+          "url": "https://open.spotify.com/artist/2wC90WSKQd0BvdxJZ0mObr"
+        }
+      ],
+      "duration_ms": 170627,
+      "name": "Canci\u00f3n De Rancho",
+      "url": "https://open.spotify.com/track/78urSTcXVSX1iDAq79EPRU"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "El Katch",
         "url": "https://open.spotify.com/album/1Kgxdvii3WXGb805Sk6PjM"
       },
@@ -707,26 +727,6 @@
       "duration_ms": 190129,
       "name": "Yo Me Quiero Mas",
       "url": "https://open.spotify.com/track/0op5YhXMK2oE7H36oDL98d"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Esquina 22",
-        "url": "https://open.spotify.com/album/1eghflM8a7rxXrHyMtigOO"
-      },
-      "artists": [
-        {
-          "name": "Leonardo Aguilar",
-          "url": "https://open.spotify.com/artist/1QgrwYywvDuC43MDtR8cqq"
-        },
-        {
-          "name": "El Komander",
-          "url": "https://open.spotify.com/artist/2wC90WSKQd0BvdxJZ0mObr"
-        }
-      ],
-      "duration_ms": 170627,
-      "name": "Canci\u00f3n De Rancho",
-      "url": "https://open.spotify.com/track/78urSTcXVSX1iDAq79EPRU"
     },
     {
       "added_at": null,

@@ -1,12 +1,12 @@
 {
   "description": "The classic Jazz guitarists and their finest pieces. Cover: Grant Green",
-  "num_followers": 135195,
+  "num_followers": 135226,
   "original_name": "Jazz Guitar Classics",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAA/tlbXQVZQ1xGf9oo0eeczGq4Z6",
+  "snapshot_id": "AAAAAMtGJNxC7I2KSGSJ/UEg2KLI4Rcn",
   "tracks": [
     {
       "added_at": "2025-09-10 12:20:14",
@@ -387,26 +387,22 @@
     {
       "added_at": "2025-09-10 12:20:14",
       "album": {
-        "name": "Angular Blues",
-        "url": "https://open.spotify.com/album/4wxLJpGmJetMtZHslJz3DR"
+        "name": "Alive! (Live At The Cliche' Lounge, Newark, New Jersey, 1970 / Remastered 2000)",
+        "url": "https://open.spotify.com/album/4NL6PN6GkMqI7Ztz4iGPU6"
       },
       "artists": [
         {
-          "name": "Wolfgang Muthspiel",
-          "url": "https://open.spotify.com/artist/7a7Vs88vzOcmHh4GOpUEJJ"
+          "name": "Grant Green",
+          "url": "https://open.spotify.com/artist/6dAtGAnHCQ1ujMUZ9Ep82k"
         },
         {
-          "name": "Scott Colley",
-          "url": "https://open.spotify.com/artist/7AxNB7slEfo3WsWmZf4TSs"
-        },
-        {
-          "name": "Brian Blade",
-          "url": "https://open.spotify.com/artist/0nXwIc4NAbu2K881ealRDu"
+          "name": "Ray Blair",
+          "url": "https://open.spotify.com/artist/2D3XOzloX98FKjvCa9inP1"
         }
       ],
-      "duration_ms": 315493,
-      "name": "H\u00fcttengriffe",
-      "url": "https://open.spotify.com/track/15pJPbo0r00e82puUIUS1i"
+      "duration_ms": 658333,
+      "name": "Sookie Sookie - Live At The Cliche' Lounge, Newark, New Jersey, 1970 / Remastered 2000",
+      "url": "https://open.spotify.com/track/6i9Uhx8fUHQu9aHXCjiu7B"
     },
     {
       "added_at": "2025-09-10 12:20:14",
@@ -451,22 +447,26 @@
     {
       "added_at": "2025-09-10 12:20:14",
       "album": {
-        "name": "Alive! (Live At The Cliche' Lounge, Newark, New Jersey, 1970 / Remastered 2000)",
-        "url": "https://open.spotify.com/album/4NL6PN6GkMqI7Ztz4iGPU6"
+        "name": "Angular Blues",
+        "url": "https://open.spotify.com/album/4wxLJpGmJetMtZHslJz3DR"
       },
       "artists": [
         {
-          "name": "Grant Green",
-          "url": "https://open.spotify.com/artist/6dAtGAnHCQ1ujMUZ9Ep82k"
+          "name": "Wolfgang Muthspiel",
+          "url": "https://open.spotify.com/artist/7a7Vs88vzOcmHh4GOpUEJJ"
         },
         {
-          "name": "Ray Blair",
-          "url": "https://open.spotify.com/artist/2D3XOzloX98FKjvCa9inP1"
+          "name": "Scott Colley",
+          "url": "https://open.spotify.com/artist/7AxNB7slEfo3WsWmZf4TSs"
+        },
+        {
+          "name": "Brian Blade",
+          "url": "https://open.spotify.com/artist/0nXwIc4NAbu2K881ealRDu"
         }
       ],
-      "duration_ms": 658333,
-      "name": "Sookie Sookie - Live At The Cliche' Lounge, Newark, New Jersey, 1970 / Remastered 2000",
-      "url": "https://open.spotify.com/track/6i9Uhx8fUHQu9aHXCjiu7B"
+      "duration_ms": 315493,
+      "name": "H\u00fcttengriffe",
+      "url": "https://open.spotify.com/track/15pJPbo0r00e82puUIUS1i"
     },
     {
       "added_at": "2025-09-10 12:20:14",

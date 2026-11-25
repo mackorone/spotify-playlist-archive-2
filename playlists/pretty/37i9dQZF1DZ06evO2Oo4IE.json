@@ -1,12 +1,12 @@
 {
   "description": "This is Janis Joplin. The essential tracks, all in one playlist.",
-  "num_followers": 190973,
+  "num_followers": 190975,
   "original_name": "This Is Janis Joplin",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "awIwgAAAAAAbVQRn5QyxvlLqqtUpKBBk",
+  "snapshot_id": "awOCAAAAAAApd3zj7uYNxx8KLa2FjlJf",
   "tracks": [
     {
       "added_at": null,
@@ -311,22 +311,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "Big Brother & The Holding Company",
-        "url": "https://open.spotify.com/album/4W821NJLoB9uHHkAFNXXKu"
+        "name": "The Television Broadcast Sessions 1968 -1970",
+        "url": "https://open.spotify.com/album/7bZBijUEXmuM3ekfJ943oz"
       },
       "artists": [
-        {
-          "name": "Big Brother & The Holding Company",
-          "url": "https://open.spotify.com/artist/4J69yWrKwWJgjv3DKTZcGo"
-        },
         {
           "name": "Janis Joplin",
           "url": "https://open.spotify.com/artist/4NgfOZCL9Ml67xzM0xzIvC"
         }
       ],
-      "duration_ms": 159168,
-      "name": "Bye, Bye Baby",
-      "url": "https://open.spotify.com/track/7E6RJ05OosW2yd7mv3EwpN"
+      "duration_ms": 234881,
+      "name": "Take Another Piece of my Heart (Live SWR TV Frankfurt Germany 12th April 1969)",
+      "url": "https://open.spotify.com/track/4S2JUPvHwCSwRot68vbY6l"
     },
     {
       "added_at": null,
@@ -347,18 +343,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "The Television Broadcast Sessions 1968 -1970",
-        "url": "https://open.spotify.com/album/7bZBijUEXmuM3ekfJ943oz"
+        "name": "Cheap Thrills",
+        "url": "https://open.spotify.com/album/2rogKfOpmCFuqNhtGKf2dX"
       },
       "artists": [
+        {
+          "name": "Big Brother & The Holding Company",
+          "url": "https://open.spotify.com/artist/4J69yWrKwWJgjv3DKTZcGo"
+        },
         {
           "name": "Janis Joplin",
           "url": "https://open.spotify.com/artist/4NgfOZCL9Ml67xzM0xzIvC"
         }
       ],
-      "duration_ms": 234881,
-      "name": "Take Another Piece of my Heart (Live SWR TV Frankfurt Germany 12th April 1969)",
-      "url": "https://open.spotify.com/track/4S2JUPvHwCSwRot68vbY6l"
+      "duration_ms": 263238,
+      "name": "Turtle Blues",
+      "url": "https://open.spotify.com/track/1CdEksXQ6gvdr4blQjQdTZ"
     },
     {
       "added_at": null,
@@ -379,8 +379,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Cheap Thrills",
-        "url": "https://open.spotify.com/album/2rogKfOpmCFuqNhtGKf2dX"
+        "name": "Big Brother & The Holding Company",
+        "url": "https://open.spotify.com/album/4W821NJLoB9uHHkAFNXXKu"
       },
       "artists": [
         {
@@ -392,9 +392,9 @@
           "url": "https://open.spotify.com/artist/4NgfOZCL9Ml67xzM0xzIvC"
         }
       ],
-      "duration_ms": 263238,
-      "name": "Turtle Blues",
-      "url": "https://open.spotify.com/track/1CdEksXQ6gvdr4blQjQdTZ"
+      "duration_ms": 159168,
+      "name": "Bye, Bye Baby",
+      "url": "https://open.spotify.com/track/7E6RJ05OosW2yd7mv3EwpN"
     },
     {
       "added_at": null,

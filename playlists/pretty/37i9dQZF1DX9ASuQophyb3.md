@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9ASuQophyb3.md) - [plain]
 
 > Türkçe pop'un hit şarkıları ve zirveye oynayanlar\.  Kapak: Murat Boz
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,552,191 likes - 55 songs - 2 hr 45 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,552,177 likes - 55 songs - 2 hr 45 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -64,4 +64,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9ASuQophyb3.md) - [plain]
 | 54 | [Gidişat](https://open.spotify.com/track/150HZ4cTAOygzxwIezXxp6) | [Tan Taşçı](https://open.spotify.com/artist/2rNgr1pkSDfxQTYhqCT45D) | [Gidişat](https://open.spotify.com/album/67EvM60fproAJUULEJFEbR) | 3:45 |
 | 55 | [Seninle Başlar](https://open.spotify.com/track/5lJtI1uJPDrv2x6vhCmml0) | [Sıla Şahin](https://open.spotify.com/artist/7p71hjdN4GlGgIsmCQIvuC), [Samet Kardeşler](https://open.spotify.com/artist/4Jah47VbnOtQGLtmdrDRXp) | [Seninle Başlar](https://open.spotify.com/album/0ZsZilQ9p3sThUWyZiMLZl) | 2:31 |
 
-Snapshot ID: `AAAAAOEScabqrCLE9mzU3RQcH00BhlGB`
+Snapshot ID: `AAAAAHK/bwu30KZNalOnK09po7h5Cczd`

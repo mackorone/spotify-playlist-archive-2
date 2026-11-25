@@ -1,12 +1,12 @@
 {
   "description": "Proudly Kenyan gems made for the entire family. Cover: Fena Gitu",
-  "num_followers": 54935,
+  "num_followers": 54952,
   "original_name": "Made In Kenya",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAKGlhNLs9pPEUNUb2gAsiZVA2QKk",
+  "snapshot_id": "AAAAAP4TfOU7meK7yBJwqlXxWLVy+o+E",
   "tracks": [
     {
       "added_at": "2026-11-13 05:50:32",
@@ -583,6 +583,22 @@
       "duration_ms": 192972,
       "name": "Mariwana",
       "url": "https://open.spotify.com/track/7JMCJErV8qBEuBCLtEbnE6"
+    },
+    {
+      "added_at": "2026-11-13 05:50:32",
+      "album": {
+        "name": "Mkataba",
+        "url": "https://open.spotify.com/album/13DsBPHi3mbwSEGugLdJKO"
+      },
+      "artists": [
+        {
+          "name": "Jovial",
+          "url": "https://open.spotify.com/artist/2iULDphri5hyIfw6Z1HhcH"
+        }
+      ],
+      "duration_ms": 182608,
+      "name": "Mkataba",
+      "url": "https://open.spotify.com/track/3kiVWA4g1Kx3l9jtWROR0F"
     },
     {
       "added_at": "2026-11-13 05:50:32",

@@ -16211,6 +16211,28 @@
     },
     {
       "album": {
+        "name": "\u541b\u306e\u9053\u306e\u771f\u3093\u4e2d feat. \u5800\u8fbc\u6cf0\u884c",
+        "url": "https://open.spotify.com/album/2idJGK9nQC6szZqUqKLZPe"
+      },
+      "artists": [
+        {
+          "name": "Tomita Lab.",
+          "url": "https://open.spotify.com/artist/0nmnnGl422TngJtYeEj5vD"
+        },
+        {
+          "name": "Yasuyuki Horigome",
+          "url": "https://open.spotify.com/artist/1HWivlGf6KbIyxhTlTAlnj"
+        }
+      ],
+      "date_added": "2026-11-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 229943,
+      "name": "\u541b\u306e\u9053\u306e\u771f\u3093\u4e2d feat. \u5800\u8fbc\u6cf0\u884c",
+      "url": "https://open.spotify.com/track/4bKACXbsihHbxyurgmRtqB"
+    },
+    {
+      "album": {
         "name": "\u541b\u306f1000%",
         "url": "https://open.spotify.com/album/334Z6PwqlDMtJTmDIOAydr"
       },
@@ -16746,7 +16768,7 @@
       ],
       "date_added": "2026-03-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-25",
       "duration_ms": 216631,
       "name": "\u5b66\u82b8\u5927\u524d",
       "url": "https://open.spotify.com/track/05XI1yOrAAitf2fDmychwj"

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5lHBoCtADgQ.md) - [plain]
 
 > Enjoy the folk from Punjab\. Cover: Surinder Kaur
 
-[Spotify](https://open.spotify.com/user/spotify) - 54,488 likes - 50 songs - 3 hr 15 min
+[Spotify](https://open.spotify.com/user/spotify) - 54,505 likes - 50 songs - 3 hr 15 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5lHBoCtADgQ.md) - [plain]
 | 49 | [Jutti Kasuri](https://open.spotify.com/track/6MgpNbDOfA93e1YusNgGnl) | [Sonu Kakkar](https://open.spotify.com/artist/1Pn6pKlgzxcH6iIRp08dQr) | [Jutti Kasuri](https://open.spotify.com/album/4RTIs4jzPWT8vA4ZEtHowD) | 3:16 |
 | 50 | [Ve Gurdit Deya Lalaa](https://open.spotify.com/track/4Xs5ktOy57oQ1hPtLrzcVy) | [Madan Bala Sindhu](https://open.spotify.com/artist/6dZqrn5IBirS8HA3tCPQMv) | [Geet Shagna De](https://open.spotify.com/album/0PrTCTodwMPGbsGWGc6s7j) | 2:30 |
 
-Snapshot ID: `AAAAAKJdr34OrwLVqYqj/9fHeLRnnlkd`
+Snapshot ID: `AAAAALiXFVFMcmVbczfhac3Wy+WO9NyG`

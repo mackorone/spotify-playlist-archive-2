@@ -1,13 +1,29 @@
 {
   "description": "iykyk",
-  "num_followers": 4050204,
+  "num_followers": 4049940,
   "original_name": "big on the internet",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAE3Gzuoq8aSeE8SF/6QzgvgMOBHi",
+  "snapshot_id": "AAAAAOR10vhD8MFzdol/szqT9hsRbD35",
   "tracks": [
+    {
+      "added_at": "2026-11-24 15:32:12",
+      "album": {
+        "name": "Emotion (10th Anniversary Edition)",
+        "url": "https://open.spotify.com/album/1iFZcNmUvhWq5uXYmlKlKb"
+      },
+      "artists": [
+        {
+          "name": "Carly Rae Jepsen",
+          "url": "https://open.spotify.com/artist/6sFIWsNpZYqfjUpaCgueju"
+        }
+      ],
+      "duration_ms": 251327,
+      "name": "Run Away With Me",
+      "url": "https://open.spotify.com/track/3rLLDjCJ9JllYvwUKfd3vW"
+    },
     {
       "added_at": "2026-11-23 00:14:27",
       "album": {
@@ -119,6 +135,22 @@
       "duration_ms": 153290,
       "name": "Music All Over Her Body",
       "url": "https://open.spotify.com/track/6oR9Lb8TWwZ60ybem3SHF8"
+    },
+    {
+      "added_at": "2026-11-24 15:32:12",
+      "album": {
+        "name": "Heartbeat City",
+        "url": "https://open.spotify.com/album/5ycnwHGkzOlTuMOI3Zh4iO"
+      },
+      "artists": [
+        {
+          "name": "The Cars",
+          "url": "https://open.spotify.com/artist/6DCIj8jNaNpBz8e5oKFPtp"
+        }
+      ],
+      "duration_ms": 234493,
+      "name": "Drive",
+      "url": "https://open.spotify.com/track/3wfujdbamR3Z46F4xav7LM"
     },
     {
       "added_at": "2026-11-23 02:16:21",
@@ -347,6 +379,22 @@
       "duration_ms": 218706,
       "name": "Beggin'",
       "url": "https://open.spotify.com/track/4YeKAwFn69ehnciOfi7Sbf"
+    },
+    {
+      "added_at": "2026-11-24 15:32:12",
+      "album": {
+        "name": "Master of My Make-Believe",
+        "url": "https://open.spotify.com/album/58ZjpgafuBeQ0JVxIt0hdr"
+      },
+      "artists": [
+        {
+          "name": "Santigold",
+          "url": "https://open.spotify.com/artist/6Jrxnp0JgqmeUX1veU591p"
+        }
+      ],
+      "duration_ms": 284400,
+      "name": "Disparate Youth",
+      "url": "https://open.spotify.com/track/0t2QiRkpag0fAgs9zuCPlH"
     },
     {
       "added_at": "2026-11-23 00:53:50",
@@ -601,6 +649,22 @@
       "url": "https://open.spotify.com/track/51vArgRF64yIWk3JIcRITo"
     },
     {
+      "added_at": "2026-11-24 15:32:12",
+      "album": {
+        "name": "FILM NOIR",
+        "url": "https://open.spotify.com/album/0FffqcK2whBazSFcAIxebQ"
+      },
+      "artists": [
+        {
+          "name": "Faouzia",
+          "url": "https://open.spotify.com/artist/5NhgsV7qPWHZqYEMKzbYvo"
+        }
+      ],
+      "duration_ms": 189471,
+      "name": "LOST MY MIND IN PARIS",
+      "url": "https://open.spotify.com/track/1p7HFcNMWbxEndrxP5sU1d"
+    },
+    {
       "added_at": "2026-11-23 02:16:21",
       "album": {
         "name": "Anthology",
@@ -781,22 +845,6 @@
       "url": "https://open.spotify.com/track/4iPkafvcL6CeyAcsvZERCk"
     },
     {
-      "added_at": "2026-10-09 04:02:49",
-      "album": {
-        "name": "tell me what you want",
-        "url": "https://open.spotify.com/album/45dogBUITG47dD11ydydgz"
-      },
-      "artists": [
-        {
-          "name": "Sasha Keable",
-          "url": "https://open.spotify.com/artist/7MxGWmiAbqjNOGmj23wbWf"
-        }
-      ],
-      "duration_ms": 236173,
-      "name": "tell me what you want",
-      "url": "https://open.spotify.com/track/72fSEYOXmccGvk5GjiNtKX"
-    },
-    {
       "added_at": "2026-11-23 00:53:50",
       "album": {
         "name": "whos whybie?",
@@ -811,42 +859,6 @@
       "duration_ms": 131186,
       "name": "onsra",
       "url": "https://open.spotify.com/track/7wS6EAZast0FJGw79CXGND"
-    },
-    {
-      "added_at": "2026-10-09 04:02:49",
-      "album": {
-        "name": "Glory Days (Expanded Edition)",
-        "url": "https://open.spotify.com/album/4w49hcqZt66HZX0MJHfW0m"
-      },
-      "artists": [
-        {
-          "name": "Little Mix",
-          "url": "https://open.spotify.com/artist/3e7awlrlDSwF3iM0WBjGMp"
-        }
-      ],
-      "duration_ms": 213306,
-      "name": "Touch",
-      "url": "https://open.spotify.com/track/1gG5MoWK5SmHUcQPa2jxdP"
-    },
-    {
-      "added_at": "2026-09-26 22:07:20",
-      "album": {
-        "name": "HOTEL LOBBY (Unc & Phew)",
-        "url": "https://open.spotify.com/album/0zWZX428gMb9vSBUMRdDiy"
-      },
-      "artists": [
-        {
-          "name": "Quavo",
-          "url": "https://open.spotify.com/artist/0VRj0yCOv2FXJNP47XQnx5"
-        },
-        {
-          "name": "Takeoff",
-          "url": "https://open.spotify.com/artist/3EW0kQ1skZiK1NHg3Spt9J"
-        }
-      ],
-      "duration_ms": 142657,
-      "name": "HOTEL LOBBY (Unc & Phew)",
-      "url": "https://open.spotify.com/track/0QNNd0qMCDbraS1nQPg3aA"
     },
     {
       "added_at": "2026-09-11 04:42:20",
@@ -995,22 +1007,6 @@
       "duration_ms": 168000,
       "name": "LEGACY (feat. North West)",
       "url": "https://open.spotify.com/track/110lZovwhbPK1THyMIKQMY"
-    },
-    {
-      "added_at": "2026-11-23 00:53:50",
-      "album": {
-        "name": "Pink Blush",
-        "url": "https://open.spotify.com/album/75iQA2tixDzDK7QqyN6cSx"
-      },
-      "artists": [
-        {
-          "name": "Dolly Babe",
-          "url": "https://open.spotify.com/artist/647qQOSIMSyoEoUEnN5LsM"
-        }
-      ],
-      "duration_ms": 125062,
-      "name": "Pink Blush",
-      "url": "https://open.spotify.com/track/7hVkWGXGtvAKtiLmHmKjPr"
     },
     {
       "added_at": "2026-07-22 04:13:02",

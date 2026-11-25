@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYoYGBbGKurt.md) - [plain]
 
 > Lazy slow lofi beats for laid\-back moments.
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,147,953 likes - 207 songs - 7 hr 40 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,148,162 likes - 207 songs - 7 hr 40 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -216,4 +216,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYoYGBbGKurt.md) - [plain]
 | 206 | [Always What It Seems](https://open.spotify.com/track/1EfRIMGa28dH3Adr11HPLn) | [Guustavv](https://open.spotify.com/artist/4ztOXfl03SlHkzRIsrvWmX) | [Always What It Seems](https://open.spotify.com/album/2RyZoQVGu0k1YPIt8fFry3) | 2:18 |
 | 207 | [wetlands](https://open.spotify.com/track/0RMhdbMSfq33b3rdaRPa30) | [Rustique Beats](https://open.spotify.com/artist/6i2uc5LaqqgBJ6SozGzryq) | [wetlands](https://open.spotify.com/album/0bNEUSQSKjAAMoxpm9ldrb) | 2:06 |
 
-Snapshot ID: `AAAAAFEaKMUJtVuxg+t+2lKPAXagRQUD`
+Snapshot ID: `AAAAADatvdMBtJl+omfntDNub64CT9Dd`

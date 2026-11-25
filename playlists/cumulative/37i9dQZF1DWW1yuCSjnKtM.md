@@ -2,9 +2,9 @@
 
 ### [Viral Songs UK & IE](https://open.spotify.com/playlist/37i9dQZF1DWW1yuCSjnKtM)
 
-> Hot right now 📈 cover: Olivia Rodrigo
+> racing through the streets with carly playing in the back 🏎️
 
-1,132 songs - 2 day 14 hr 59 min
+1,133 songs - 2 day 15 hr 3 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -284,7 +284,7 @@
 | [Dread \- The Moment \(The Score\)](https://open.spotify.com/track/0o6QKerRaO7Hq5tOvVXBLH) | [A\. G\. Cook](https://open.spotify.com/artist/335TWGWGFan4vaacJzSiU8) | [Dread \- The Moment \(The Score\)](https://open.spotify.com/album/1RCS8GsTDFMZld7vQbALG1) | 5:49 | 2026-01-05 | 2026-01-15 |
 | [Dreams \- 2004 Remaster](https://open.spotify.com/track/0ofHAoxe9vBkTCp2UQIavz) | [Fleetwood Mac](https://open.spotify.com/artist/08GQAI4eElDnROBrJRGE0X) | [Rumours \(Super Deluxe\)](https://open.spotify.com/album/0BwWUstDMUbgq2NYONRqlu) | 4:17 | 2026-01-05 | 2026-01-22 |
 | [Drum Show](https://open.spotify.com/track/4rPl7ezxtoqshKnI1kk3dX) | [Twenty One Pilots](https://open.spotify.com/artist/3YQKmKGau1PzlVlkL1iodx) | [Drum Show](https://open.spotify.com/album/2ua0DTF9uqI0AugOvNrumo) | 3:23 | 2025-08-21 | 2025-08-28 |
-| [DtMF](https://open.spotify.com/track/3sK8wGT43QFpWrvNQsrQya) | [Bad Bunny](https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X) | [DeBÍ TiRAR MáS FOToS](https://open.spotify.com/album/5K79FLRUCSysQnVESLcTdb) | 3:57 | 2025-01-16 |  |
+| [DtMF](https://open.spotify.com/track/3sK8wGT43QFpWrvNQsrQya) | [Bad Bunny](https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X) | [DeBÍ TiRAR MáS FOToS](https://open.spotify.com/album/5K79FLRUCSysQnVESLcTdb) | 3:57 | 2025-01-16 | 2026-11-25 |
 | [Dum, Dumb, and Dumber \(with Young Thug & Future\)](https://open.spotify.com/track/5GZ0currErGJhl0G0yxgRg) | [Lil Baby](https://open.spotify.com/artist/5f7VJjfbwm532GiveGC0ZK), [Young Thug](https://open.spotify.com/artist/50co4Is1HCEo8bhOyUWKpn), [Future](https://open.spotify.com/artist/1RyvyyTE3xzB2ZywiAwp0i) | [Dum, Dumb, and Dumber \(with Young Thug & Future\)](https://open.spotify.com/album/4ycuXCWCg3MjM7GEnNCy3n) | 3:47 | 2025-01-06 | 2025-01-28 |
 | [Duvet](https://open.spotify.com/track/42qNWdLKCI41S4uzfamhFM) | [bôa](https://open.spotify.com/artist/5jTtGLk1mGFMY5lQOvJYUj) | [Twilight](https://open.spotify.com/album/7sGYAV0xv7ZfAMzIpMl8m1) | 3:23 | 2026-09-24 |  |
 | [Dying for You](https://open.spotify.com/track/0T3sHoiR3t9HtwbIOgTI7J) | [Charli xcx](https://open.spotify.com/artist/25uiPmTg16RbhZWAqwLBy5) | [Wuthering Heights](https://open.spotify.com/album/4oniyB3TRFhjglVSqVgy9e) | 3:02 | 2026-02-13 | 2026-05-06 |
@@ -814,6 +814,7 @@
 | [ROCKMAN](https://open.spotify.com/track/63ABAnFKJCp28TAyqf2cGL) | [Mk.gee](https://open.spotify.com/artist/7tr9pbgNEKtG0GQTKe08Tz) | [ROCKMAN](https://open.spotify.com/album/6IhX5HhXNXC8l0vv7QCrrK) | 2:59 | 2024-11-11 | 2025-02-18 |
 | [RockWave](https://open.spotify.com/track/7umWv57SsTnh1P4FFTa8bg) | [EsDeeKid](https://open.spotify.com/artist/0EyhkwP3UnwGFBy6xwKjSy) | [RockWave](https://open.spotify.com/album/5Rti1VEHljEEGaVwlSHM3j) | 2:14 | 2026-06-26 | 2026-07-24 |
 | [rollerblade](https://open.spotify.com/track/3fL35dqYnnabdEp8Sln0lf) | [no na](https://open.spotify.com/artist/25ZVvmN0Tm9Os5K42swK8b) | [rollerblade](https://open.spotify.com/album/6TFeJFQOM62KtRRHe8fxGV) | 1:54 | 2026-04-23 | 2026-05-06 |
+| [Run Away With Me](https://open.spotify.com/track/7xGfFoTpQ2E7fRF5lN10tr) | [Carly Rae Jepsen](https://open.spotify.com/artist/6sFIWsNpZYqfjUpaCgueju) | [Emotion \(Deluxe\)](https://open.spotify.com/album/1DFixLWuPkv3KT3TnV35m3) | 4:11 | 2026-11-24 |  |
 | [Run It Up](https://open.spotify.com/track/3sZQ8L4aptFDJXBqdVdvO8) | [Hanumankind](https://open.spotify.com/artist/4nVa6XlBFlIkF6msW57PHp) | [Run It Up](https://open.spotify.com/album/444Yv0TGl5HeJA0Dg4YdFz) | 2:53 | 2025-04-02 | 2025-04-08 |
 | [Run My Way](https://open.spotify.com/track/5vEdGoNQHH2FZT9y2wc2zr) | [December 10](https://open.spotify.com/artist/3QvfzWcCo67s7bhOYEz5Tr) | [Run My Way](https://open.spotify.com/album/2iCHhOIojuvNTY1hINgWOi) | 2:44 | 2026-02-06 | 2026-03-03 |
 | [Runnin](https://open.spotify.com/track/5b4szVlHAoR5BURFGXTmT0) | [Fredo](https://open.spotify.com/artist/3rbtPd0NcvhO2AzMfzx90z) | [Runnin](https://open.spotify.com/album/1JONmXIlIqJ8fVERyDTFVX) | 2:47 | 2026-01-21 | 2026-02-05 |

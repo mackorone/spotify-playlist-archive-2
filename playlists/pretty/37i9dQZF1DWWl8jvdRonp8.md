@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWl8jvdRonp8.md) - [plain]
 
 > Las grandes canciones escritas por El Buki.
 
-[Spotify](https://open.spotify.com/user/spotify) - 318,174 likes - 125 songs - 7 hr 52 min
+[Spotify](https://open.spotify.com/user/spotify) - 318,252 likes - 125 songs - 7 hr 52 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -47,8 +47,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWl8jvdRonp8.md) - [plain]
 | 37 | [Yo Te Necesito \- En vivo](https://open.spotify.com/track/6Yjh5hEKRWoQRM3ltyBOIt) | [Marca MP](https://open.spotify.com/artist/44mEtidu0VdRkIqO4IbkNa) | [Las Preferidas, Vol\. 2 \(En vivo\)](https://open.spotify.com/album/7drHvS63o9Crp4k85GNo9D) | 3:08 |
 | 38 | [El Amor Más Bonito](https://open.spotify.com/track/6MceOvlRW5ewCuKdgCUDac) | [Rocío Dúrcal](https://open.spotify.com/artist/2uyweLa0mvPZH6eRzDddeB) | [Como Tu Mujer](https://open.spotify.com/album/6OPaypwDjCUgTROopd4OYt) | 5:03 |
 | 39 | [Como Tu Querer \- Con Banda](https://open.spotify.com/track/3C1LJd8eEGuN9AzyQbueLS) | [Dinamicos Jrs](https://open.spotify.com/artist/3GEFlcbzfzakUiKCx038mZ) | [Para Dejarte de Querer](https://open.spotify.com/album/25xSXTuq8aM9UwcX8XBAsy) | 3:48 |
-| 40 | [Tu Ingratitud \- En Vivo](https://open.spotify.com/track/1Qon5ea1kYQUgPbsUZvAQ7) | [Luis Alfonso Partida El Yaki](https://open.spotify.com/artist/5l6N2hoIaP7snXdjnCULvk), [Banda Corona del Rey](https://open.spotify.com/artist/0CxrfcSWTiBX7M6WAakESI), [El Juanma](https://open.spotify.com/artist/4mYfTrMp1a4DnyrxGnUZRF) | [Coronar Hasta Que Amanezca \(En Vivo\)](https://open.spotify.com/album/4ZGGQByBy9NVxhjHC9SBdw) | 3:08 |
-| 41 | [Como Tu Mujer \(feat\. Marco Antonio Solís\)](https://open.spotify.com/track/6X9lrXPPx925c4RpuCZ9GN) | [Edith Márquez](https://open.spotify.com/artist/7afXSXOa8dE3c2C5XIguAv), [Marco Antonio Solís](https://open.spotify.com/artist/3tJnB0s6c3oXPq1SCCavnd) | [Emociones](https://open.spotify.com/album/5z8K4uNyhQujbXCf8PkuBq) | 3:45 |
+| 40 | [Como Tu Mujer \(feat\. Marco Antonio Solís\)](https://open.spotify.com/track/6X9lrXPPx925c4RpuCZ9GN) | [Edith Márquez](https://open.spotify.com/artist/7afXSXOa8dE3c2C5XIguAv), [Marco Antonio Solís](https://open.spotify.com/artist/3tJnB0s6c3oXPq1SCCavnd) | [Emociones](https://open.spotify.com/album/5z8K4uNyhQujbXCf8PkuBq) | 3:45 |
+| 41 | [Tu Ingratitud \- En Vivo](https://open.spotify.com/track/1Qon5ea1kYQUgPbsUZvAQ7) | [Luis Alfonso Partida El Yaki](https://open.spotify.com/artist/5l6N2hoIaP7snXdjnCULvk), [Banda Corona del Rey](https://open.spotify.com/artist/0CxrfcSWTiBX7M6WAakESI), [El Juanma](https://open.spotify.com/artist/4mYfTrMp1a4DnyrxGnUZRF) | [Coronar Hasta Que Amanezca \(En Vivo\)](https://open.spotify.com/album/4ZGGQByBy9NVxhjHC9SBdw) | 3:08 |
 | 42 | [Tu Cárcel](https://open.spotify.com/track/0WkrZsdHp8vkYvYzaytgNF) | [Los Tigres Del Norte](https://open.spotify.com/artist/3hYtANQYrE6pd2PbtEyTIy), [Marco Antonio Solís](https://open.spotify.com/artist/3tJnB0s6c3oXPq1SCCavnd) | [Desde El Azteca \(En Vivo\)](https://open.spotify.com/album/1HxDN8Ws2vMplMUiYu6Kxb) | 3:38 |
 | 43 | [Extrañándote](https://open.spotify.com/track/3HuC2KGfuam6XubxLwFYk9) | [Rocío Dúrcal](https://open.spotify.com/artist/2uyweLa0mvPZH6eRzDddeB) | [Como Tu Mujer](https://open.spotify.com/album/6OPaypwDjCUgTROopd4OYt) | 4:11 |
 | 44 | [Más Que Tu Amigo](https://open.spotify.com/track/3kiUwC7AzDzGNYzy27QIhN) | [Tito Nieves](https://open.spotify.com/artist/4vOycwLXdkMMzpZW04VW5m) | [Canciones Clásicas De Marco Antonio Solís](https://open.spotify.com/album/3gMKLskyMNfM8M4SzhWSaV) | 4:12 |
@@ -63,8 +63,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWl8jvdRonp8.md) - [plain]
 | 53 | [Cómo Fui A Enamorarme De Ti](https://open.spotify.com/track/1QaQ3sUbTOkPXWKfeMJjcj) | [Los Rieleros Del Norte](https://open.spotify.com/artist/59xlizZFIFUvLC0I8iV2Jv) | [Abriendo Caminos](https://open.spotify.com/album/6qL1ZOQEqMLdfo83yQoKKo) | 3:17 |
 | 54 | [Si Ya No Te Vuelvo A Ver](https://open.spotify.com/track/0tKGJCBBhpZYrWfETYzDKl) | [Patrulla 81](https://open.spotify.com/artist/4TTxsp1mecTPT9O4dxVtvN) | [A Mi Ley](https://open.spotify.com/album/6TLePgQKCAGc5rBdN06I4x) | 2:59 |
 | 55 | [No Puedo Olvidarla](https://open.spotify.com/track/7b1TG0vsbfYWRvMtnR4t7Z) | [Fuerza Regida](https://open.spotify.com/artist/0ys2OFYzWYB5hRDLCsBqxt) | [Las Romanticas Favoritas de Fuerza Regida](https://open.spotify.com/album/0ffWcvGsLQbPnA4aLJLdFj) | 3:17 |
-| 56 | [Presiento Que Voy a Llorar \- Con Banda](https://open.spotify.com/track/3d7dxnoJSRxwEFOeT9MwLk) | [Dinamicos Jrs](https://open.spotify.com/artist/3GEFlcbzfzakUiKCx038mZ) | [Para Dejarte de Querer](https://open.spotify.com/album/25xSXTuq8aM9UwcX8XBAsy) | 3:04 |
-| 57 | [Se Va Muriendo Mí Alma](https://open.spotify.com/track/0zUR5D0kbWcKoFjLMZNiJh) | [María Sorté](https://open.spotify.com/artist/0xHfw9K3Pqj4uYhsI1Wjyy) | [Te Voy a Hacer Feliz](https://open.spotify.com/album/1FKGQIrj8dwQTYchaKCq3X) | 4:20 |
+| 56 | [Se Va Muriendo Mí Alma](https://open.spotify.com/track/0zUR5D0kbWcKoFjLMZNiJh) | [María Sorté](https://open.spotify.com/artist/0xHfw9K3Pqj4uYhsI1Wjyy) | [Te Voy a Hacer Feliz](https://open.spotify.com/album/1FKGQIrj8dwQTYchaKCq3X) | 4:20 |
+| 57 | [Presiento Que Voy a Llorar \- Con Banda](https://open.spotify.com/track/3d7dxnoJSRxwEFOeT9MwLk) | [Dinamicos Jrs](https://open.spotify.com/artist/3GEFlcbzfzakUiKCx038mZ) | [Para Dejarte de Querer](https://open.spotify.com/album/25xSXTuq8aM9UwcX8XBAsy) | 3:04 |
 | 58 | [La Venia Bendita](https://open.spotify.com/track/5kcDCLD72xY7kcQrew1ePd) | [Ezequiel Peña](https://open.spotify.com/artist/4rWWouSk4D5OSFFFo2bmty) | [Mis Dos Vicios](https://open.spotify.com/album/482qMIYNe7bTRZ5fxI678e) | 3:05 |
 | 59 | [Antes De Que Te Vayas](https://open.spotify.com/track/41uS4bw8JlCC69YuFlXFQH) | [Grupo Yndio](https://open.spotify.com/artist/2ExqFhtOJ3rXrYJkBMqAxD) | [Mano A Mano Volumen 2](https://open.spotify.com/album/711RytcGqUZWMK90seBzdV) | 3:21 |
 | 60 | [Si Te Pudiera Mentir](https://open.spotify.com/track/6QS4U3vPuZbORCJSMYdea3) | [Tito Nieves](https://open.spotify.com/artist/4vOycwLXdkMMzpZW04VW5m) | [Canciones Clásicas De Marco Antonio Solís](https://open.spotify.com/album/3gMKLskyMNfM8M4SzhWSaV) | 4:09 |
@@ -134,4 +134,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWl8jvdRonp8.md) - [plain]
 | 124 | [Tú Carcel](https://open.spotify.com/track/0NyLkLW9CkTO5AMpJmmVJq) | [Luis Alfonso Partida El Yaki](https://open.spotify.com/artist/5l6N2hoIaP7snXdjnCULvk) | [De Corazón Bohemio](https://open.spotify.com/album/3rzzhVO4UdMniUo5rl9swK) | 2:55 |
 | 125 | [Tus Mentiras](https://open.spotify.com/track/3MoQ3YG2Vy3bg9m4RRWvVD) | [Los Bukis](https://open.spotify.com/artist/16kOCiqZ1auY4sokSeZuKf) | [Si Me Recuerdas](https://open.spotify.com/album/0HtYh5CyT365ONA1d46IRC) | 4:46 |
 
-Snapshot ID: `AAAAAAe8ayoWh4/MwgOO8KeRwazoBGLH`
+Snapshot ID: `AAAAACtC9H0tvhcuXUb2VxGRwCrrfg7Q`

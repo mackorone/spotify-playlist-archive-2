@@ -1,12 +1,12 @@
 {
   "description": "The hip-hop party soundtrack of summer, past and present.",
-  "num_followers": 45697,
+  "num_followers": 45719,
   "original_name": "Dear Summer",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAABoqp/SJDx/xcVM3pNmTEveqxoGm",
+  "snapshot_id": "AAAAAOl8GGBWyDnk6htJG+G8aQtJ5Ry1",
   "tracks": [
     {
       "added_at": "2026-05-29 18:22:24",
@@ -723,6 +723,26 @@
     {
       "added_at": "2026-05-29 18:22:24",
       "album": {
+        "name": "Culture",
+        "url": "https://open.spotify.com/album/4JTOxuvM2jcSqAvEZtZsOO"
+      },
+      "artists": [
+        {
+          "name": "Migos",
+          "url": "https://open.spotify.com/artist/6oMuImdp5ZcFhWP0ESe6mG"
+        },
+        {
+          "name": "Lil Uzi Vert",
+          "url": "https://open.spotify.com/artist/4O15NlyKLIASxsJ0PrXPfz"
+        }
+      ],
+      "duration_ms": 343150,
+      "name": "Bad and Boujee (feat. Lil Uzi Vert)",
+      "url": "https://open.spotify.com/track/0M9ydKzuF3oZTfYYPfaGX1"
+    },
+    {
+      "added_at": "2026-05-29 18:22:24",
+      "album": {
         "name": "Doja",
         "url": "https://open.spotify.com/album/6oECjagksATHu2UaclXrq1"
       },
@@ -811,26 +831,6 @@
       "duration_ms": 229938,
       "name": "Surround Sound (feat. 21 Savage & Baby Tate)",
       "url": "https://open.spotify.com/track/1udwFobQ1JoOdWPQrp2b6u"
-    },
-    {
-      "added_at": "2026-05-29 18:22:24",
-      "album": {
-        "name": "Culture",
-        "url": "https://open.spotify.com/album/4JTOxuvM2jcSqAvEZtZsOO"
-      },
-      "artists": [
-        {
-          "name": "Migos",
-          "url": "https://open.spotify.com/artist/6oMuImdp5ZcFhWP0ESe6mG"
-        },
-        {
-          "name": "Lil Uzi Vert",
-          "url": "https://open.spotify.com/artist/4O15NlyKLIASxsJ0PrXPfz"
-        }
-      ],
-      "duration_ms": 343150,
-      "name": "Bad and Boujee (feat. Lil Uzi Vert)",
-      "url": "https://open.spotify.com/track/0M9ydKzuF3oZTfYYPfaGX1"
     },
     {
       "added_at": "2026-05-29 18:22:24",

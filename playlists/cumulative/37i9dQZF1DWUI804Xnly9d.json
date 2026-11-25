@@ -4873,6 +4873,24 @@
     },
     {
       "album": {
+        "name": "Jaane Do",
+        "url": "https://open.spotify.com/album/4z7AxUbqrElx1HsVTFGm6z"
+      },
+      "artists": [
+        {
+          "name": "Fiddlecraft",
+          "url": "https://open.spotify.com/artist/0xhbB0DrR0MnaU1ynq4itU"
+        }
+      ],
+      "date_added": "2026-11-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 289000,
+      "name": "Jaane Do",
+      "url": "https://open.spotify.com/track/2HiXOHE3bXvon1olnpqiAz"
+    },
+    {
+      "album": {
         "name": "Jaane Jaan",
         "url": "https://open.spotify.com/album/2vOsKeMzaj11HZTh4bSNdk"
       },
@@ -8812,7 +8830,7 @@
       ],
       "date_added": "2026-11-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-25",
       "duration_ms": 262500,
       "name": "Naina Saavan - Reprise",
       "url": "https://open.spotify.com/track/60E6ahAL4ANvC4lvbOjUFP"

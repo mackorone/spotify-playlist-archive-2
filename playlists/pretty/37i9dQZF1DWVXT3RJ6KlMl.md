@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVXT3RJ6KlMl.md) - [plain]
 
 > Beste Nederlandstalige songs uit de 70's! Cover: Rob de Nijs
 
-[Spotify](https://open.spotify.com/user/spotify) - 38,746 likes - 60 songs - 3 hr 44 min
+[Spotify](https://open.spotify.com/user/spotify) - 38,752 likes - 60 songs - 3 hr 44 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -48,8 +48,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVXT3RJ6KlMl.md) - [plain]
 | 38 | [Angelique](https://open.spotify.com/track/78lbU2qP55R0rqqSebur4p) | [André van Duin](https://open.spotify.com/artist/1G2QbSM5dLTtqeZHYnxXsF) | [André van Duin](https://open.spotify.com/album/7xDv53IspICoxPuySv8OVh) | 2:14 |
 | 39 | [Kom Van Dat Dak Af](https://open.spotify.com/track/1q8BkBdleysfnUhxISo489) | [Peter Koelewijn](https://open.spotify.com/artist/3oavnC2N25caTse16Gj8HR) | [De Mooiste Liedjes, Vol.1](https://open.spotify.com/album/5oZZQ6gRnhBlBDrrvVDPQA) | 2:36 |
 | 40 | [Te Veel, Te Vaak](https://open.spotify.com/track/21akKWbeYAd1HPzMUGMvMg) | [Liesbeth List](https://open.spotify.com/artist/4x9b95tQANyGxHLQzWN0If) | [100 Mooiste Liedjes van Ramses en Liesbeth](https://open.spotify.com/album/0Yj16bjpuUz4sLggLn8XFR) | 3:42 |
-| 41 | [Brandend Zand](https://open.spotify.com/track/31ZmFDuJqMAaH30JBetArW) | [Gert Timmerman](https://open.spotify.com/artist/0TtfbvSVlFBeYI3uEEWPlC), [Gert & Hermien](https://open.spotify.com/artist/40JZ4PcqTsMqvVWLi0OaOP) | [Brandend Zand](https://open.spotify.com/album/7H0qBQQweMzWTOnQ1YRFM7) | 3:23 |
-| 42 | [Voor Niets](https://open.spotify.com/track/4XF8lgqdTfxQGrc0EUkDyp) | [Bob Bouber](https://open.spotify.com/artist/4v3HGAZZfMeK9ueNgZpxEW) | [Voor Niets](https://open.spotify.com/album/2z6fKrPNXv57GE6KqaxHmY) | 3:20 |
+| 41 | [Voor Niets](https://open.spotify.com/track/4XF8lgqdTfxQGrc0EUkDyp) | [Bob Bouber](https://open.spotify.com/artist/4v3HGAZZfMeK9ueNgZpxEW) | [Voor Niets](https://open.spotify.com/album/2z6fKrPNXv57GE6KqaxHmY) | 3:20 |
+| 42 | [Brandend Zand](https://open.spotify.com/track/31ZmFDuJqMAaH30JBetArW) | [Gert Timmerman](https://open.spotify.com/artist/0TtfbvSVlFBeYI3uEEWPlC), [Gert & Hermien](https://open.spotify.com/artist/40JZ4PcqTsMqvVWLi0OaOP) | [Brandend Zand](https://open.spotify.com/album/7H0qBQQweMzWTOnQ1YRFM7) | 3:23 |
 | 43 | [Rozen Die Bloeien](https://open.spotify.com/track/7cl1cqs6tegOCA7UFvYWAV) | [Corry en de Rekels](https://open.spotify.com/artist/6edV7BdP4TyBahd2dNKjc8), [Corry Konings](https://open.spotify.com/artist/3pqfZ3xfayx6qJWcsVcXnS) | [Rozen Die Bloeien / Ik Hoor Nog Je Stem](https://open.spotify.com/album/293fKm52sXoMD4UP1jMiKW) | 4:05 |
 | 44 | [Vrede](https://open.spotify.com/track/0qBq2UVJI7sK0GUUWxFq5U) | [Ben Cramer](https://open.spotify.com/artist/6ZGYLlgUagyNo2UXDTHU1U) | [Ben Cramer](https://open.spotify.com/album/3GwA2mE5gogR1bXJP9EVvf) | 2:56 |
 | 45 | [Wacht Op Mij, Mona Lisa](https://open.spotify.com/track/5izSNO4bW1SU7FXcnsMp3S) | [Het Radi Ensemble](https://open.spotify.com/artist/1XZvpxU8Nw3JoySQ6ocjzd) | [Het Beste van Het Radi Ensemble](https://open.spotify.com/album/6d4uDH6iAXsXuNxNBhgLxh) | 3:13 |
@@ -69,4 +69,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVXT3RJ6KlMl.md) - [plain]
 | 59 | [Het Werd Zomer](https://open.spotify.com/track/2AOCPLs1pU7KpL1vsOkOzC) | [Rob De Nijs](https://open.spotify.com/artist/3u84EkSPrJYO4n5cipED9K) | [Rob 100](https://open.spotify.com/album/314xNPZisq3G6ZLlBU938T) | 4:08 |
 | 60 | [Veronica Sorry](https://open.spotify.com/track/21lMOKWDcK9VMse8rt4PPb) | [Peter Koelewijn](https://open.spotify.com/artist/3oavnC2N25caTse16Gj8HR) | [Het Beste Van Peter Koelewijn](https://open.spotify.com/album/5wJr8xACqUiUhBQafHkGB2) | 4:48 |
 
-Snapshot ID: `AAAAAJ3O1AUlvPW6KgNd5TZ1zOHjRp6F`
+Snapshot ID: `AAAAAAHwR5IuFhQgm9bLwCkvfBiofSQc`

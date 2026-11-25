@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSRkJG9UvIz1.md) - [plain]
 
 > Vai curtir um dia no parque? A tarde com os amigos? É só dar play e sair pro sol.
 
-[Spotify](https://open.spotify.com/user/spotify) - 131,179 likes - 60 songs - 3 hr 44 min
+[Spotify](https://open.spotify.com/user/spotify) - 131,161 likes - 60 songs - 3 hr 44 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -26,8 +26,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSRkJG9UvIz1.md) - [plain]
 | 16 | [Garúa \(Sabor a Querer\)](https://open.spotify.com/track/39jlkB93dZvtx8RG0Zkhdc) | [Tayko](https://open.spotify.com/artist/3TqicTPfXQLiPPZWKtHk0m), [Migliz](https://open.spotify.com/artist/0Wg0zqWRumeTT4AEMIVu2b) | [Garúa \(Sabor a Querer\)](https://open.spotify.com/album/0XiN7T7kky8LzThoVwbgNO) | 3:42 |
 | 17 | [EITA MENINA](https://open.spotify.com/track/2ItOwqddXxLZnOmQmlEbda) | [Lagum](https://open.spotify.com/artist/5D56dZmhE9DgT01XixdHiD), [L7NNON](https://open.spotify.com/artist/0JjPiLQNgAFaEkwoy56B1C), [Mart'nália](https://open.spotify.com/artist/4EUuQxMNowMUEs5gu4BzBX) | [EITA MENINA](https://open.spotify.com/album/4NIEzSSeFxaLxa66ENiqaE) | 3:07 |
 | 18 | [For No One](https://open.spotify.com/track/2NzCkfCsvsCQ3RZ9aJqRFw) | [Caetano Veloso](https://open.spotify.com/artist/7HGNYPmbDrMkylWqeFCOIQ) | [Qualquer Coisa](https://open.spotify.com/album/1EggMJbrddGeSyNjDzDRMI) | 5:02 |
-| 19 | [Call](https://open.spotify.com/track/4tvw503IOIq9uc0QNYVey2) | [Lucky Daye](https://open.spotify.com/artist/5Vuvs6Py2JRU7WiFDVsI7J) | [Painted](https://open.spotify.com/album/0sxfu0XUwHOtnKiZgkTQwk) | 3:31 |
-| 20 | [Bonita y Triste](https://open.spotify.com/track/5eQ2eEO7mDnJlN8mtRaN6i) | [Mi Sobrino Memo](https://open.spotify.com/artist/2ae7hwWgesyGJVI2vebofH) | [Bonita y Triste](https://open.spotify.com/album/6V58HtmEGLXzLohD7J4fOO) | 3:36 |
+| 19 | [Bonita y Triste](https://open.spotify.com/track/5eQ2eEO7mDnJlN8mtRaN6i) | [Mi Sobrino Memo](https://open.spotify.com/artist/2ae7hwWgesyGJVI2vebofH) | [Bonita y Triste](https://open.spotify.com/album/6V58HtmEGLXzLohD7J4fOO) | 3:36 |
+| 20 | [Call](https://open.spotify.com/track/4tvw503IOIq9uc0QNYVey2) | [Lucky Daye](https://open.spotify.com/artist/5Vuvs6Py2JRU7WiFDVsI7J) | [Painted](https://open.spotify.com/album/0sxfu0XUwHOtnKiZgkTQwk) | 3:31 |
 | 21 | [Alegria](https://open.spotify.com/track/1SYDXvP1rahganh8t5plez) | [Mahmundi](https://open.spotify.com/artist/6hfNZcbKvjpOnhhkFVKyt7) | [Para Dias Ruins](https://open.spotify.com/album/4EsFZtXhyj9RHiRb2V0eMT) | 3:28 |
 | 22 | [Sweetie Odo](https://open.spotify.com/track/2UAl2nzSixQviGw0XJvJgY) | [Juls](https://open.spotify.com/artist/7BIkk865pwBrSZetA8Izic), [Sway Clarke](https://open.spotify.com/artist/1chXzMmrrsZU1vnIMMepTr) | [Colour](https://open.spotify.com/album/6DZAEmjvBrJq0a8sVHbf28) | 2:35 |
 | 23 | [Rio da Bossa Nova](https://open.spotify.com/track/5FjLOA14hdUgVqamAPvyVI) | [Beto Villares](https://open.spotify.com/artist/5buchbVIeExunKNBkTCxlt), [Ambulante Discos](https://open.spotify.com/artist/40WawbjztKIQFOdQRCQjLG) | [Excelentes Lugares Bonitos](https://open.spotify.com/album/1owWux16F84jwfPxHpds4w) | 3:26 |
@@ -69,4 +69,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSRkJG9UvIz1.md) - [plain]
 | 59 | [Areia](https://open.spotify.com/track/2RXzCKMvVCYsu5F8JBmxbn) | [Russo Passapusso](https://open.spotify.com/artist/4Rgs2uEA4ZPVrfSGTcFvVm) | [Paraíso da Miragem](https://open.spotify.com/album/04KjZ79sAK9pCTsRXeY12q) | 2:08 |
 | 60 | [Noite Quente de Verão](https://open.spotify.com/track/4sWr6A95sQkWBDe3Y3DdLl) | [Clara Lima](https://open.spotify.com/artist/4XdUyu7YX6zgKLi34JYQSG), [Go Dassisti](https://open.spotify.com/artist/6dHnnLJitCxdFTt9QmSQ8G) | [Selfie](https://open.spotify.com/album/5jFvIxCNBTGhrh4AkObWI5) | 2:03 |
 
-Snapshot ID: `AAAAAKumEh/zilMKLX3fzPhnrt63DMJd`
+Snapshot ID: `AAAAADCKyg+FZp3mW1+tOgr2732Op//K`

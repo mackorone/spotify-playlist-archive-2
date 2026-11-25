@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTBz12MDeCuX.md) - [plain]
 
 > Die Playlist, die dich fühlt\. Cover: CEDDO
 
-[Spotify](https://open.spotify.com/user/spotify) - 473,647 likes - 100 songs - 4 hr 28 min
+[Spotify](https://open.spotify.com/user/spotify) - 473,627 likes - 100 songs - 4 hr 28 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTBz12MDeCuX.md) - [plain]
 | 99 | [mehr davon](https://open.spotify.com/track/4O4AjhRnJoofNrG4xjFPrX) | [Sampagne](https://open.spotify.com/artist/7vohy1W7YNLxHynG44UFjS) | [mehr davon](https://open.spotify.com/album/4kHype5Ekc9H5CGplB32ts) | 2:14 |
 | 100 | [All I Got](https://open.spotify.com/track/55CqHn9hU0WUMldjGR0csl) | [Geezerbomb](https://open.spotify.com/artist/7cPlO6Ai5O8yDvqntDK7PF), [Clayton](https://open.spotify.com/artist/2B9eNNfeX4u6TwMtDjS00L) | [All I Got](https://open.spotify.com/album/3ge0nt7fTtOea07bbS39gX) | 2:35 |
 
-Snapshot ID: `AAAAAMVu9HjjGz1+ydZ8CMRdgCVBtscY`
+Snapshot ID: `AAAAAObZgeu7DAnQ097+th0uLJZE754+`

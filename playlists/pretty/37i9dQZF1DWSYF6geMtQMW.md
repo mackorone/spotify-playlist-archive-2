@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSYF6geMtQMW.md) - [plain]
 
 > הפלייליסט הכי גדול בישראל, עם השירים הכי חמים של היום ומחר\. קאבר: מור
 
-[Spotify](https://open.spotify.com/user/spotify) - 205,430 likes - 50 songs - 2 hr 35 min
+[Spotify](https://open.spotify.com/user/spotify) - 205,494 likes - 50 songs - 2 hr 35 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSYF6geMtQMW.md) - [plain]
 | 49 | [לב לבן](https://open.spotify.com/track/6MG1IJFvf8OoZRRUTFMEAa) | [Shuli Rand](https://open.spotify.com/artist/7CgBEyXbjOjFX3HiysHtXN) | [לב לבן](https://open.spotify.com/album/1pnTnL2hmSg8xd5tOrbyEk) | 3:04 |
 | 50 | [עץ או פלי](https://open.spotify.com/track/3LfwHSWoRPYPKEpmXlaBrX) | [התאומים](https://open.spotify.com/artist/1E9mWDvn9W3fvnIgPVrxdC) | [עץ או פלי](https://open.spotify.com/album/5Rn2Logwrorjt6FJX16K47) | 3:20 |
 
-Snapshot ID: `AAAAAAUjj3kiYrywflLgvC2Hk69YLn9u`
+Snapshot ID: `AAAAAN5JxQ4m63Rd1ImL625YVlNoRiFZ`

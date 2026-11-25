@@ -1,12 +1,12 @@
 {
   "description": "No rules. No boundaries. The best new alternative tracks. Cover: bby",
-  "num_followers": 1240932,
+  "num_followers": 1240928,
   "original_name": "the new alt",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAMfDtzKuevUfwjYQ1VflVasSAb6Q",
+  "snapshot_id": "AAAAABd1Q/zuB3mAK3/8icomi+FhFde5",
   "tracks": [
     {
       "added_at": "2026-11-20 05:00:46",
@@ -1195,6 +1195,22 @@
       "duration_ms": 196609,
       "name": "Ordinary",
       "url": "https://open.spotify.com/track/2OcBsn7gWcl9FWxy4bXJm4"
+    },
+    {
+      "added_at": "2026-11-24 15:01:53",
+      "album": {
+        "name": "How Long Will It Take?",
+        "url": "https://open.spotify.com/album/59SbHFKM5vJ07NLFurCsq5"
+      },
+      "artists": [
+        {
+          "name": "Nieve Ella",
+          "url": "https://open.spotify.com/artist/14zhvja4OxwrmivOB3LHOn"
+        }
+      ],
+      "duration_ms": 259462,
+      "name": "Back To Basics",
+      "url": "https://open.spotify.com/track/6OTQqhYW7LSbAV7NJwKAP3"
     },
     {
       "added_at": "2026-11-20 05:00:46",

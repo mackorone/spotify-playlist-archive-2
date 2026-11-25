@@ -3609,6 +3609,28 @@
     },
     {
       "album": {
+        "name": "Amazing Grace",
+        "url": "https://open.spotify.com/album/3AHsOQKjDfLmkCuudJcNhy"
+      },
+      "artists": [
+        {
+          "name": "Mackeeper",
+          "url": "https://open.spotify.com/artist/22NwVn8gHhq8eeWhZXgjOX"
+        },
+        {
+          "name": "Brat Star",
+          "url": "https://open.spotify.com/artist/75paBOTrEufCOCKV1n4Cn8"
+        }
+      ],
+      "date_added": "2026-11-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 279480,
+      "name": "Amazing Grace",
+      "url": "https://open.spotify.com/track/7wdVWU0mWfXieiORD0PNh6"
+    },
+    {
+      "album": {
         "name": "Amber",
         "url": "https://open.spotify.com/album/2eiDE2gC9XYRYtXnqZiKvw"
       },

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4VvfRBFClxm.md) - [plain]
 
 > A mix of soulful, folksy, and beloved singer\-songwriter acoustic gems\. Cover: Noah Kahan
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,455,664 likes - 125 songs - 7 hr 39 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,455,621 likes - 125 songs - 7 hr 39 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -77,8 +77,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4VvfRBFClxm.md) - [plain]
 | 67 | [Slow Dancing in a Burning Room \- Acoustic](https://open.spotify.com/track/3PSMcb1gU5A8DveqU2K4z2) | [John Mayer](https://open.spotify.com/artist/0hEurMDQu99nJRq8pTxO14) | [The Village Sessions](https://open.spotify.com/album/6DcQ0gH9Hxp42PvNBoo5gX) | 3:52 |
 | 68 | [Happier \- Acoustic](https://open.spotify.com/track/5weKCP07IGA1565wfI3cZ1) | [Ed Sheeran](https://open.spotify.com/artist/6eUKZXaKkcviH0Ku9w2n3V) | [Happier \(Acoustic\)](https://open.spotify.com/album/2m5WUxYqXkJc2gdP805IKm) | 3:26 |
 | 69 | [New Rules \- Acoustic](https://open.spotify.com/track/4X283dKwcjIqJiOCV1dMBJ) | [Dua Lipa](https://open.spotify.com/artist/6M2wZ9GZgrQXHCFfjv46we) | [New Rules \(Acoustic\)](https://open.spotify.com/album/6kuqSRKActdXC7tu7c0L3o) | 3:33 |
-| 70 | [Favourite Ex](https://open.spotify.com/track/1a1SQeSqUKzH5OUVTEx4ae) | [Maisie Peters](https://open.spotify.com/artist/2RVvqRBon9NgaGXKfywDSs) | [Favourite Ex](https://open.spotify.com/album/0hIIlNhG6PZoQxCmSA24Uz) | 3:21 |
-| 71 | [See You Again, Love Me Like You Do, Sugar \- Acoustic Mashup](https://open.spotify.com/track/29Ns3avs48iQhNQgrHMEkm) | [Megan Davies](https://open.spotify.com/artist/09kCHZp9iFO2FJNb9lR6G5) | [See You Again, Love Me Like You Do, Sugar \(Acoustic Mashup\)](https://open.spotify.com/album/598yk60jws90rsCDHU4lkl) | 3:51 |
+| 70 | [See You Again, Love Me Like You Do, Sugar \- Acoustic Mashup](https://open.spotify.com/track/29Ns3avs48iQhNQgrHMEkm) | [Megan Davies](https://open.spotify.com/artist/09kCHZp9iFO2FJNb9lR6G5) | [See You Again, Love Me Like You Do, Sugar \(Acoustic Mashup\)](https://open.spotify.com/album/598yk60jws90rsCDHU4lkl) | 3:51 |
+| 71 | [Favourite Ex](https://open.spotify.com/track/1a1SQeSqUKzH5OUVTEx4ae) | [Maisie Peters](https://open.spotify.com/artist/2RVvqRBon9NgaGXKfywDSs) | [Favourite Ex](https://open.spotify.com/album/0hIIlNhG6PZoQxCmSA24Uz) | 3:21 |
 | 72 | [The Trouble with Wanting](https://open.spotify.com/track/5ZUObJNpVt2l9GogUSfALc) | [Joy Williams](https://open.spotify.com/artist/4TCXgdDPm10ensLNCVnIYa) | [Front Porch](https://open.spotify.com/album/0vK1POb7cjZdlZkShnqEDu) | 3:55 |
 | 73 | [Castle on the Hill \- Acoustic](https://open.spotify.com/track/5X6TnKT37TaSDkFm0598Uo) | [Ed Sheeran](https://open.spotify.com/artist/6eUKZXaKkcviH0Ku9w2n3V) | [Castle on the Hill \(Acoustic\)](https://open.spotify.com/album/3Zq8gpa3P0UM8H6XIY39Sn) | 3:46 |
 | 74 | [Buddy's Rendezvous](https://open.spotify.com/track/7qqrGV5WpQnMKqVTsDZd9J) | [Lana Del Rey](https://open.spotify.com/artist/00FQb4jTyendYWaN8pK0wa), [Father John Misty](https://open.spotify.com/artist/2kGBy2WHvF0VdZyqiVCkDT) | [Buddy's Rendezvous](https://open.spotify.com/album/3hL6ZIcwV6zUfqRiPLPBLJ) | 5:01 |
@@ -86,8 +86,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4VvfRBFClxm.md) - [plain]
 | 76 | [My Arms Were Always Around You](https://open.spotify.com/track/53iFMaNUXn6Oj8hUIKSO5a) | [Peter Bradley Adams](https://open.spotify.com/artist/0CdbG1eHVjqjkQsGoH2u1V) | [A Face Like Mine](https://open.spotify.com/album/5swCwkecIl1ZafeyxJYbYk) | 3:20 |
 | 77 | [Can't See Straight \- Acoustic](https://open.spotify.com/track/68xnGmup4wL7Ie4vhy5SOs) | [Jamie Lawson](https://open.spotify.com/artist/1jhdZdzOd4TJLAHqQdkUND) | [Can't See Straight \(Acoustic\)](https://open.spotify.com/album/0FeiXtVLwH2i5Bes9MKeWj) | 3:08 |
 | 78 | [Take Me To Church \- Live From Spotify, London](https://open.spotify.com/track/61IautUH8F8UWJ0kxF9pJc) | [Hozier](https://open.spotify.com/artist/2FXC3k01G6Gw61bmprjgqS) | [Spotify Sessions \(Live From Spotify, London\)](https://open.spotify.com/album/7z50fkoKTjnNyChNiJQx6q) | 4:06 |
-| 79 | [Your Song \- Acoustic](https://open.spotify.com/track/08peGCGwTVXc1WT2UNdVs5) | [Rita Ora](https://open.spotify.com/artist/5CCwRZC6euC8Odo6y9X8jr) | [Your Song \(Acoustic\)](https://open.spotify.com/album/0qEUDm9Vrh5YE0BIoD1DLZ) | 3:01 |
-| 80 | [Send My Love \(To Your New Lover\) \- Live](https://open.spotify.com/track/0dGjfWSQNYuF7e6dYv9yrs) | [I'm With Her](https://open.spotify.com/artist/3oXddLOOjkoUuC2sX1RMdr), [Paul Kowert](https://open.spotify.com/artist/0qHFEHWL35eEDUNnLiLkrB) | [Send My Love \(To Your New Lover\) \[Live\]](https://open.spotify.com/album/6LcZmab2uq6Ml3XA0R9F0Z) | 3:45 |
+| 79 | [Send My Love \(To Your New Lover\) \- Live](https://open.spotify.com/track/0dGjfWSQNYuF7e6dYv9yrs) | [I'm With Her](https://open.spotify.com/artist/3oXddLOOjkoUuC2sX1RMdr), [Paul Kowert](https://open.spotify.com/artist/0qHFEHWL35eEDUNnLiLkrB) | [Send My Love \(To Your New Lover\) \[Live\]](https://open.spotify.com/album/6LcZmab2uq6Ml3XA0R9F0Z) | 3:45 |
+| 80 | [Your Song \- Acoustic](https://open.spotify.com/track/08peGCGwTVXc1WT2UNdVs5) | [Rita Ora](https://open.spotify.com/artist/5CCwRZC6euC8Odo6y9X8jr) | [Your Song \(Acoustic\)](https://open.spotify.com/album/0qEUDm9Vrh5YE0BIoD1DLZ) | 3:01 |
 | 81 | [Love is Pain](https://open.spotify.com/track/2tJUcBxiQEYSCzC3BdIOk8) | [FINNEAS](https://open.spotify.com/artist/37M5pPGs6V1fchFJSgCguX) | [Optimist](https://open.spotify.com/album/3KChz6qdEH9AfHE6VCBshZ) | 3:44 |
 | 82 | [Too Much To Ask \- Acoustic](https://open.spotify.com/track/6HTDbFiF3c6QFRKkB6DcR4) | [Niall Horan](https://open.spotify.com/artist/1Hsdzj7Dlq2I7tHP7501T4) | [Too Much To Ask \(Acoustic\)](https://open.spotify.com/album/54VaqAx59YDqRsoBh4l5Up) | 3:41 |
 | 83 | [One Step Ahead](https://open.spotify.com/track/6eNEo4XcT3zxoHM2Zb9ooG) | [Jack Johnson](https://open.spotify.com/artist/3GBPw9NK25X1Wt2OUvOwY3) | [Meet The Moonlight](https://open.spotify.com/album/58vzDcu4jADoUAI4DKH5rj) | 3:11 |
@@ -134,4 +134,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4VvfRBFClxm.md) - [plain]
 | 124 | [This Fire](https://open.spotify.com/track/0CtXTPdnF3vc0k20C91M0P) | [Sawyer Fredericks](https://open.spotify.com/artist/3GaRKzVcjJv5cIL8CmRAHn) | [A Good Storm](https://open.spotify.com/album/36V5LnjwBt7GTm89aOnVA8) | 3:46 |
 | 125 | [Dream \- Acoustic](https://open.spotify.com/track/67l1tytshju3Ily8uIAVKH) | [Bishop Briggs](https://open.spotify.com/artist/0yb46jwm7gqbZXVXZQ8Z1e) | [Dream \(Acoustic\)](https://open.spotify.com/album/5Me78hMJtqwiroQEDoFGYh) | 3:18 |
 
-Snapshot ID: `AAAAAFZCAMrDGis15CbEV0kKxrkD3FfY`
+Snapshot ID: `AAAAADmS7dp29ZsPMnlOrTTwoOJe2c92`

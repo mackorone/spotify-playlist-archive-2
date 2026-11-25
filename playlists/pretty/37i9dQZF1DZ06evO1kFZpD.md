@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1kFZpD.md) - [plain]
 
 > This is Raveena\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 8,492 likes - 46 songs - 2 hr 50 min
+[Spotify](https://open.spotify.com/user/spotify) - 8,494 likes - 46 songs - 2 hr 50 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -13,11 +13,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1kFZpD.md) - [plain]
 | 3 | [If Only](https://open.spotify.com/track/4jyU03J2YOhRxgOHit2auK) | [Raveena](https://open.spotify.com/artist/2kQnsbKnIiMahOetwlfcaS) | [If Only](https://open.spotify.com/album/3uXIOaZWXwkW3CYVwcIxLy) | 3:21 |
 | 4 | [Temptation](https://open.spotify.com/track/0ulct3cASnhGvaGhFIuIyZ) | [Raveena](https://open.spotify.com/artist/2kQnsbKnIiMahOetwlfcaS) | [Temptation](https://open.spotify.com/album/4EWVYi8lXPirUUeVdHQCy9) | 4:08 |
 | 5 | [Seagirl](https://open.spotify.com/track/0FO4lzbW7ufcYSc1iHune9) | [King Krule](https://open.spotify.com/artist/4wyNyxs74Ux8UIDopNjIai), [Raveena](https://open.spotify.com/artist/2kQnsbKnIiMahOetwlfcaS) | [Space Heavy](https://open.spotify.com/album/31UtR7w5vJtg8AmBvWAwL5) | 3:22 |
-| 6 | [Floating \(feat\. Hope Tala\)](https://open.spotify.com/track/4cwJYLZeVMTjF6o0Nzk9nq) | [Raveena](https://open.spotify.com/artist/2kQnsbKnIiMahOetwlfcaS), [Hope Tala](https://open.spotify.com/artist/74CcYmmNeHKe5PrZaISk8e) | [Lucid](https://open.spotify.com/album/5zM1YPLVNvxe6S8I3MIAbg) | 4:50 |
+| 6 | [Still Dreaming](https://open.spotify.com/track/2GWMfWHvLixgTo9s5NGn3w) | [Raveena](https://open.spotify.com/artist/2kQnsbKnIiMahOetwlfcaS) | [Lucid](https://open.spotify.com/album/5zM1YPLVNvxe6S8I3MIAbg) | 4:21 |
 | 7 | [No Better](https://open.spotify.com/track/0DXlHWi8pqB5R2gfzlZx2i) | [Raveena](https://open.spotify.com/artist/2kQnsbKnIiMahOetwlfcaS) | [Shanti](https://open.spotify.com/album/0u5GdeMzPuGFMbkJgt2RHz) | 4:02 |
 | 8 | [Close 2 U](https://open.spotify.com/track/7rgvhF2a3WjRkRtx2lndyc) | [Raveena](https://open.spotify.com/artist/2kQnsbKnIiMahOetwlfcaS) | [Moonstone EP](https://open.spotify.com/album/0YdgyT5LFI48qP4bo6Rd74) | 3:59 |
 | 9 | [Blissed Out](https://open.spotify.com/track/1v3fjHaMNoXYMntxhpUIcF) | [Raveena](https://open.spotify.com/artist/2kQnsbKnIiMahOetwlfcaS) | [Blissed Out](https://open.spotify.com/album/3NDxs3nvQvDUlm8YcFDTbd) | 3:58 |
-| 10 | [Still Dreaming](https://open.spotify.com/track/2GWMfWHvLixgTo9s5NGn3w) | [Raveena](https://open.spotify.com/artist/2kQnsbKnIiMahOetwlfcaS) | [Lucid](https://open.spotify.com/album/5zM1YPLVNvxe6S8I3MIAbg) | 4:21 |
+| 10 | [Floating \(feat\. Hope Tala\)](https://open.spotify.com/track/4cwJYLZeVMTjF6o0Nzk9nq) | [Raveena](https://open.spotify.com/artist/2kQnsbKnIiMahOetwlfcaS), [Hope Tala](https://open.spotify.com/artist/74CcYmmNeHKe5PrZaISk8e) | [Lucid](https://open.spotify.com/album/5zM1YPLVNvxe6S8I3MIAbg) | 4:50 |
 | 11 | [Love Child](https://open.spotify.com/track/7xlhCrF1qme2kFUmynnaQq) | [Raveena](https://open.spotify.com/artist/2kQnsbKnIiMahOetwlfcaS) | [Shanti](https://open.spotify.com/album/0u5GdeMzPuGFMbkJgt2RHz) | 2:43 |
 | 12 | [Headaches](https://open.spotify.com/track/4MNu1bSmyV3S4Y2MJMGrrP) | [Raveena](https://open.spotify.com/artist/2kQnsbKnIiMahOetwlfcaS) | [Headaches](https://open.spotify.com/album/3ue7xLhaMzW4VS2wD5CsO9) | 5:11 |
 | 13 | [Spell](https://open.spotify.com/track/57Z0jiN8guMUcCIvdbM0aQ) | [Raveena](https://open.spotify.com/artist/2kQnsbKnIiMahOetwlfcaS) | [Spell](https://open.spotify.com/album/2xfS3bSr9szVU6BR1cZT7V) | 3:13 |
@@ -55,4 +55,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1kFZpD.md) - [plain]
 | 45 | [Time Flies](https://open.spotify.com/track/0z6aLSVOKcrq5UuCjzEw5z) | [Raveena](https://open.spotify.com/artist/2kQnsbKnIiMahOetwlfcaS) | [Asha’s Awakening](https://open.spotify.com/album/2q0yeivzk1b2UUdtHf8mcC) | 4:20 |
 | 46 | [Rush](https://open.spotify.com/track/3XE2o2cDDT16Oq2fcM4sOe) | [Raveena](https://open.spotify.com/artist/2kQnsbKnIiMahOetwlfcaS) | [Asha’s Awakening](https://open.spotify.com/album/2q0yeivzk1b2UUdtHf8mcC) | 3:05 |
 
-Snapshot ID: `awIwgAAAAAAlA7XENHTBBvPI9oVOp5Vz`
+Snapshot ID: `awOCAAAAAAAZecE8VsPoH6iR4hsxq3n9`

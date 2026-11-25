@@ -4,7 +4,7 @@
 
 > 
 
-2,295 songs - 5 day 13 hr 14 min
+2,296 songs - 5 day 13 hr 17 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -135,6 +135,7 @@
 | [Any Way the Wind Blows](https://open.spotify.com/track/0HZq47ubBTbuUUPGSueUOh) | [Eva Noblezada](https://open.spotify.com/artist/2praUrFAMThqstqmD6faQn), [Jewelle Blackman](https://open.spotify.com/artist/4TBsKdA7190eaHM5E2HQI9), [Yvette Gonzalez\-Nacer](https://open.spotify.com/artist/5wUluB4hpO7rTnPSUCqJNT), [Kay Trinidad](https://open.spotify.com/artist/7yWvIWQVF6Cfj5YTsrHIin), [Anaïs Mitchell](https://open.spotify.com/artist/7K5Lm5dxoEwEpOS0Fc3l3s), [Hadestown Original Broadway Company](https://open.spotify.com/artist/3brvz8iY9RVIbbM8KDb3hH) | [Hadestown \(Original Broadway Cast Recording\)](https://open.spotify.com/album/1J1yxODbNlqKbwRqJxYJUP) | 3:45 | 2025-07-27 |  |
 | [Any Way You Want Me](https://open.spotify.com/track/0UYuRLB2wbG7X19Hd5DeQ2) | [BROCKHAMPTON](https://open.spotify.com/artist/1Bl6wpkWCQ4KVgnASpvzzA) | [The Family](https://open.spotify.com/album/7bNubmdfctkLp7ltJE0pLy) | 1:31 | 2026-09-02 |  |
 | [Anybody's fool](https://open.spotify.com/track/3rzwGm27A4GmgYKFUPJijZ) | [Lizzy McAlpine](https://open.spotify.com/artist/1GmsPCcpKgF9OhlNXjOsbS) | [Angel](https://open.spotify.com/album/6mQC4efviywahzfwgLvye0) | 3:49 | 2026-09-19 |  |
+| [Anything](https://open.spotify.com/track/3htz0sRGLYHbbAS9QeEqpy) | [Phoebe Bridgers](https://open.spotify.com/artist/1r1uxoy19fzMxunt3ONAkG) | [Anything](https://open.spotify.com/album/0ULXa77Rw81AiaU4xymLiW) | 3:35 | 2026-11-24 |  |
 | [ANYTHING BUT LOVE](https://open.spotify.com/track/66tlRqExpkn4kRyuxelzs5) | [Tate McRae](https://open.spotify.com/artist/45dkTj5sMRSjrmBSBeiHym) | [SO CLOSE TO WHAT??? \(deluxe\)](https://open.spotify.com/album/4AIX5TN8oT656mgxRwDevJ) | 2:27 | 2025-11-26 | 2026-06-28 |
 | [Aperture](https://open.spotify.com/track/45Z3m6yazmAi4jZuW0tzW0) | [Harry Styles](https://open.spotify.com/artist/6KImCVD70vtIoJWnq6nGn3) | [Aperture](https://open.spotify.com/album/0pLJCdOvfghIEinnPXIqIx) | 5:11 | 2026-01-23 | 2026-06-28 |
 | [Apex Predator](https://open.spotify.com/track/03uQyt8Bdnt2paQgCWZl5v) | [Barrett Wilbert Weed](https://open.spotify.com/artist/5yCkSShz4MTqE4Lp6fVZMz), [Erika Henningsen](https://open.spotify.com/artist/3hjgA2bJfvsFAbHNM60dvG) | [Mean Girls \(Original Broadway Cast Recording\)](https://open.spotify.com/album/6m7n9JuAOMcy8X3ntO0Ktf) | 3:14 | 2025-12-18 |  |

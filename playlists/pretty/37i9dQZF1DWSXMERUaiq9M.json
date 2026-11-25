@@ -1,12 +1,12 @@
 {
   "description": "\ud83d\ude80 when ur love language is bpm \ud83d\ude80  Cover: southstar",
-  "num_followers": 477715,
+  "num_followers": 478130,
   "original_name": "rave",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAG62r7xJXGZbwbuFMq9VUcuteQoL",
+  "snapshot_id": "AAAAAFMSva8PQc5SYrDbmY/jjucQwW0F",
   "tracks": [
     {
       "added_at": "2026-11-19 23:00:51",
@@ -867,6 +867,22 @@
     {
       "added_at": "2026-11-19 23:00:51",
       "album": {
+        "name": "227kg",
+        "url": "https://open.spotify.com/album/4IjIVj0EF4iDwX1hiwKL1l"
+      },
+      "artists": [
+        {
+          "name": "Pegassi",
+          "url": "https://open.spotify.com/artist/2A4uiWrfuBpVFugyvxAt4c"
+        }
+      ],
+      "duration_ms": 228571,
+      "name": "227kg",
+      "url": "https://open.spotify.com/track/3PJo4Pq0WscWLh2h89U2Kx"
+    },
+    {
+      "added_at": "2026-11-19 23:00:51",
+      "album": {
         "name": "Transgender",
         "url": "https://open.spotify.com/album/46muHUrkAVYiExmNO11XhI"
       },
@@ -887,22 +903,6 @@
       "duration_ms": 176516,
       "name": "Transgender",
       "url": "https://open.spotify.com/track/2pgfgEF6CWsrPFF8HB6Xra"
-    },
-    {
-      "added_at": "2026-11-19 23:00:51",
-      "album": {
-        "name": "227kg",
-        "url": "https://open.spotify.com/album/4IjIVj0EF4iDwX1hiwKL1l"
-      },
-      "artists": [
-        {
-          "name": "Pegassi",
-          "url": "https://open.spotify.com/artist/2A4uiWrfuBpVFugyvxAt4c"
-        }
-      ],
-      "duration_ms": 228571,
-      "name": "227kg",
-      "url": "https://open.spotify.com/track/3PJo4Pq0WscWLh2h89U2Kx"
     },
     {
       "added_at": "2026-11-19 23:00:51",
@@ -971,22 +971,6 @@
     {
       "added_at": "2026-11-19 23:00:51",
       "album": {
-        "name": "CATHARSIS",
-        "url": "https://open.spotify.com/album/5VPzxNAublssw5EEKT22wd"
-      },
-      "artists": [
-        {
-          "name": "KUKO",
-          "url": "https://open.spotify.com/artist/4sCQPElBVBfJNFGydeWwnU"
-        }
-      ],
-      "duration_ms": 205263,
-      "name": "Staub",
-      "url": "https://open.spotify.com/track/0FGlqrnlph0XIruUPaPACE"
-    },
-    {
-      "added_at": "2026-11-19 23:00:51",
-      "album": {
         "name": "Papi",
         "url": "https://open.spotify.com/album/59hXZBuOL8AZtPXb383RGr"
       },
@@ -1003,6 +987,22 @@
       "duration_ms": 216778,
       "name": "Papi",
       "url": "https://open.spotify.com/track/58uQz5X3NinstpE6HSY3lk"
+    },
+    {
+      "added_at": "2026-11-19 23:00:51",
+      "album": {
+        "name": "CATHARSIS",
+        "url": "https://open.spotify.com/album/5VPzxNAublssw5EEKT22wd"
+      },
+      "artists": [
+        {
+          "name": "KUKO",
+          "url": "https://open.spotify.com/artist/4sCQPElBVBfJNFGydeWwnU"
+        }
+      ],
+      "duration_ms": 205263,
+      "name": "Staub",
+      "url": "https://open.spotify.com/track/0FGlqrnlph0XIruUPaPACE"
     },
     {
       "added_at": "2026-11-19 23:00:51",
@@ -1103,30 +1103,6 @@
     {
       "added_at": "2026-11-19 23:00:51",
       "album": {
-        "name": "Vermissen (Nachtigaller Remix)",
-        "url": "https://open.spotify.com/album/0n8kXvrNIClPZyfHzMty8N"
-      },
-      "artists": [
-        {
-          "name": "Juju",
-          "url": "https://open.spotify.com/artist/4sg4no0TXdsrM1s4SVUwNF"
-        },
-        {
-          "name": "Henning May",
-          "url": "https://open.spotify.com/artist/1cH0i2n6YLrWFDDemqztay"
-        },
-        {
-          "name": "Nachtigaller",
-          "url": "https://open.spotify.com/artist/3BRgI5WSMJJD2Iy4M8xKQF"
-        }
-      ],
-      "duration_ms": 163319,
-      "name": "Vermissen - Nachtigaller Remix",
-      "url": "https://open.spotify.com/track/3fEEuVqLXSKhKtksmvckRo"
-    },
-    {
-      "added_at": "2026-11-19 23:00:51",
-      "album": {
         "name": "Shake It",
         "url": "https://open.spotify.com/album/6DmLqPYNM4ofkQqq7fz6iZ"
       },
@@ -1159,26 +1135,6 @@
     {
       "added_at": "2026-11-19 23:00:51",
       "album": {
-        "name": "Hooked on the Bassline",
-        "url": "https://open.spotify.com/album/1hZM8Y4iNpgyjGICUkuTrv"
-      },
-      "artists": [
-        {
-          "name": "Gabry Ponte",
-          "url": "https://open.spotify.com/artist/5ENS85nZShljwNgg4wFD7D"
-        },
-        {
-          "name": "Marie Vaunt",
-          "url": "https://open.spotify.com/artist/50KydUSYhBFGorhAgUcrL5"
-        }
-      ],
-      "duration_ms": 197600,
-      "name": "Hooked on the Bassline",
-      "url": "https://open.spotify.com/track/1XsCQKhLGFP714xLKHeLvZ"
-    },
-    {
-      "added_at": "2026-11-19 23:00:51",
-      "album": {
         "name": "Diamond Heart",
         "url": "https://open.spotify.com/album/1KLI9C1c6EHMs2dJXDXK3W"
       },
@@ -1199,18 +1155,46 @@
     {
       "added_at": "2026-11-19 23:00:51",
       "album": {
-        "name": "Bad Girls",
-        "url": "https://open.spotify.com/album/54wKqhFUN5V8lh4tfPTmHH"
+        "name": "Hooked on the Bassline",
+        "url": "https://open.spotify.com/album/1hZM8Y4iNpgyjGICUkuTrv"
       },
       "artists": [
         {
-          "name": "Nicolas Julian",
-          "url": "https://open.spotify.com/artist/5Y1nFir8L9kJP7n1yZSeYb"
+          "name": "Gabry Ponte",
+          "url": "https://open.spotify.com/artist/5ENS85nZShljwNgg4wFD7D"
+        },
+        {
+          "name": "Marie Vaunt",
+          "url": "https://open.spotify.com/artist/50KydUSYhBFGorhAgUcrL5"
         }
       ],
-      "duration_ms": 121755,
-      "name": "Bad Girls",
-      "url": "https://open.spotify.com/track/2h4zp76tI5Sbl3BNspNBuG"
+      "duration_ms": 197600,
+      "name": "Hooked on the Bassline",
+      "url": "https://open.spotify.com/track/1XsCQKhLGFP714xLKHeLvZ"
+    },
+    {
+      "added_at": "2026-11-19 23:00:51",
+      "album": {
+        "name": "Vermissen (Nachtigaller Remix)",
+        "url": "https://open.spotify.com/album/0n8kXvrNIClPZyfHzMty8N"
+      },
+      "artists": [
+        {
+          "name": "Juju",
+          "url": "https://open.spotify.com/artist/4sg4no0TXdsrM1s4SVUwNF"
+        },
+        {
+          "name": "Henning May",
+          "url": "https://open.spotify.com/artist/1cH0i2n6YLrWFDDemqztay"
+        },
+        {
+          "name": "Nachtigaller",
+          "url": "https://open.spotify.com/artist/3BRgI5WSMJJD2Iy4M8xKQF"
+        }
+      ],
+      "duration_ms": 163319,
+      "name": "Vermissen - Nachtigaller Remix",
+      "url": "https://open.spotify.com/track/3fEEuVqLXSKhKtksmvckRo"
     },
     {
       "added_at": "2026-11-19 23:00:51",
@@ -1227,6 +1211,22 @@
       "duration_ms": 188259,
       "name": "Stolen Dance - Hypertechno",
       "url": "https://open.spotify.com/track/4nOVDcu9Vv4owjeonZx5Qs"
+    },
+    {
+      "added_at": "2026-11-19 23:00:51",
+      "album": {
+        "name": "Bad Girls",
+        "url": "https://open.spotify.com/album/54wKqhFUN5V8lh4tfPTmHH"
+      },
+      "artists": [
+        {
+          "name": "Nicolas Julian",
+          "url": "https://open.spotify.com/artist/5Y1nFir8L9kJP7n1yZSeYb"
+        }
+      ],
+      "duration_ms": 121755,
+      "name": "Bad Girls",
+      "url": "https://open.spotify.com/track/2h4zp76tI5Sbl3BNspNBuG"
     },
     {
       "added_at": "2026-11-19 23:00:51",
@@ -1303,6 +1303,26 @@
     {
       "added_at": "2026-11-19 23:00:51",
       "album": {
+        "name": "S&M (With Chacel) [HYPERTECHNO Edit]",
+        "url": "https://open.spotify.com/album/03dARt9q9tCPuavH3xT9jK"
+      },
+      "artists": [
+        {
+          "name": "Macon",
+          "url": "https://open.spotify.com/artist/2Tubog1fy1Lw5OXVFOpgfJ"
+        },
+        {
+          "name": "Chacel",
+          "url": "https://open.spotify.com/artist/5tuAPsi3Q6vJLBPeP8Viep"
+        }
+      ],
+      "duration_ms": 178614,
+      "name": "S&M (With Chacel) - HYPERTECHNO Edit",
+      "url": "https://open.spotify.com/track/0qtQPmrqQq09KKDqxNltgM"
+    },
+    {
+      "added_at": "2026-11-19 23:00:51",
+      "album": {
         "name": "Divine Intervention",
         "url": "https://open.spotify.com/album/3TZ4XJmyRk7Tf5SWGeWyXC"
       },
@@ -1323,26 +1343,6 @@
       "duration_ms": 287933,
       "name": "Feel 4 U (feat. Saint Monet)",
       "url": "https://open.spotify.com/track/4G7SaOQ8RFtvmCKVhIeN1V"
-    },
-    {
-      "added_at": "2026-11-19 23:00:51",
-      "album": {
-        "name": "S&M (With Chacel) [HYPERTECHNO Edit]",
-        "url": "https://open.spotify.com/album/03dARt9q9tCPuavH3xT9jK"
-      },
-      "artists": [
-        {
-          "name": "Macon",
-          "url": "https://open.spotify.com/artist/2Tubog1fy1Lw5OXVFOpgfJ"
-        },
-        {
-          "name": "Chacel",
-          "url": "https://open.spotify.com/artist/5tuAPsi3Q6vJLBPeP8Viep"
-        }
-      ],
-      "duration_ms": 178614,
-      "name": "S&M (With Chacel) - HYPERTECHNO Edit",
-      "url": "https://open.spotify.com/track/0qtQPmrqQq09KKDqxNltgM"
     },
     {
       "added_at": "2026-11-19 23:00:51",
@@ -1383,6 +1383,22 @@
     {
       "added_at": "2026-11-19 23:00:51",
       "album": {
+        "name": "Monsters",
+        "url": "https://open.spotify.com/album/4RTIEyK3R3HFkm4WY7HxC7"
+      },
+      "artists": [
+        {
+          "name": "AEREA",
+          "url": "https://open.spotify.com/artist/34ut5kAp6DfnW79Dp3P4CA"
+        }
+      ],
+      "duration_ms": 172400,
+      "name": "Monsters",
+      "url": "https://open.spotify.com/track/09YIQFg8QleQknfduk71HE"
+    },
+    {
+      "added_at": "2026-11-19 23:00:51",
+      "album": {
         "name": "Make Me",
         "url": "https://open.spotify.com/album/3T7bNNnQ5b8BgsaF43jGku"
       },
@@ -1403,22 +1419,6 @@
       "duration_ms": 151436,
       "name": "Make Me",
       "url": "https://open.spotify.com/track/6RaaQvkGUe8Je8yAkdwQNm"
-    },
-    {
-      "added_at": "2026-11-19 23:00:51",
-      "album": {
-        "name": "Monsters",
-        "url": "https://open.spotify.com/album/4RTIEyK3R3HFkm4WY7HxC7"
-      },
-      "artists": [
-        {
-          "name": "AEREA",
-          "url": "https://open.spotify.com/artist/34ut5kAp6DfnW79Dp3P4CA"
-        }
-      ],
-      "duration_ms": 172400,
-      "name": "Monsters",
-      "url": "https://open.spotify.com/track/09YIQFg8QleQknfduk71HE"
     },
     {
       "added_at": "2026-11-19 23:00:51",
@@ -1475,22 +1475,18 @@
     {
       "added_at": "2026-11-19 23:00:51",
       "album": {
-        "name": "By My Side (Stolen Dance)",
-        "url": "https://open.spotify.com/album/2UJToXhv3T8uO73RHPXKPr"
+        "name": "I Wanna Feel Alive",
+        "url": "https://open.spotify.com/album/0h6CgBHJzlN4HsGgaK5g3m"
       },
       "artists": [
         {
-          "name": "southstar",
-          "url": "https://open.spotify.com/artist/1GVuCyb4PlArufUZDUnRQi"
-        },
-        {
-          "name": "Milky Chance",
-          "url": "https://open.spotify.com/artist/1hzfo8twXdOegF3xireCYs"
+          "name": "Schrotthagen",
+          "url": "https://open.spotify.com/artist/5lo98rtXBC7oYpOEsyLc94"
         }
       ],
-      "duration_ms": 164493,
-      "name": "By My Side (Stolen Dance)",
-      "url": "https://open.spotify.com/track/0F07aAx61BGVJ0S1BJX6pY"
+      "duration_ms": 213937,
+      "name": "I Wanna Feel Alive",
+      "url": "https://open.spotify.com/track/0zAt0nMa8R6Tfs5DGShLTE"
     },
     {
       "added_at": "2026-11-19 23:00:51",
@@ -1519,18 +1515,22 @@
     {
       "added_at": "2026-11-19 23:00:51",
       "album": {
-        "name": "I Wanna Feel Alive",
-        "url": "https://open.spotify.com/album/0h6CgBHJzlN4HsGgaK5g3m"
+        "name": "By My Side (Stolen Dance)",
+        "url": "https://open.spotify.com/album/2UJToXhv3T8uO73RHPXKPr"
       },
       "artists": [
         {
-          "name": "Schrotthagen",
-          "url": "https://open.spotify.com/artist/5lo98rtXBC7oYpOEsyLc94"
+          "name": "southstar",
+          "url": "https://open.spotify.com/artist/1GVuCyb4PlArufUZDUnRQi"
+        },
+        {
+          "name": "Milky Chance",
+          "url": "https://open.spotify.com/artist/1hzfo8twXdOegF3xireCYs"
         }
       ],
-      "duration_ms": 213937,
-      "name": "I Wanna Feel Alive",
-      "url": "https://open.spotify.com/track/0zAt0nMa8R6Tfs5DGShLTE"
+      "duration_ms": 164493,
+      "name": "By My Side (Stolen Dance)",
+      "url": "https://open.spotify.com/track/0F07aAx61BGVJ0S1BJX6pY"
     },
     {
       "added_at": "2026-11-19 23:00:51",
@@ -1631,26 +1631,6 @@
     {
       "added_at": "2026-11-19 23:00:51",
       "album": {
-        "name": "Toter Schmetterling",
-        "url": "https://open.spotify.com/album/4TIt20JTmC6Vr99zuoSQlf"
-      },
-      "artists": [
-        {
-          "name": "Klangkuenstler",
-          "url": "https://open.spotify.com/artist/6H77vD9YyhyxHBTkRpbMBk"
-        },
-        {
-          "name": "Sant",
-          "url": "https://open.spotify.com/artist/0mgoNP0DrkKktInN298H4u"
-        }
-      ],
-      "duration_ms": 164615,
-      "name": "Toter Schmetterling - Single Edit",
-      "url": "https://open.spotify.com/track/6IDywtwTrAkEsmJkPSNs27"
-    },
-    {
-      "added_at": "2026-11-19 23:00:51",
-      "album": {
         "name": "Cool Kids",
         "url": "https://open.spotify.com/album/280PiP7DBhLYyJFNld8oeh"
       },
@@ -1675,6 +1655,26 @@
     {
       "added_at": "2026-11-19 23:00:51",
       "album": {
+        "name": "Toter Schmetterling",
+        "url": "https://open.spotify.com/album/4TIt20JTmC6Vr99zuoSQlf"
+      },
+      "artists": [
+        {
+          "name": "Klangkuenstler",
+          "url": "https://open.spotify.com/artist/6H77vD9YyhyxHBTkRpbMBk"
+        },
+        {
+          "name": "Sant",
+          "url": "https://open.spotify.com/artist/0mgoNP0DrkKktInN298H4u"
+        }
+      ],
+      "duration_ms": 164615,
+      "name": "Toter Schmetterling - Single Edit",
+      "url": "https://open.spotify.com/track/6IDywtwTrAkEsmJkPSNs27"
+    },
+    {
+      "added_at": "2026-11-19 23:00:51",
+      "album": {
         "name": "Azul",
         "url": "https://open.spotify.com/album/78gBvcyXKwElhWgNWECcD4"
       },
@@ -1687,22 +1687,6 @@
       "duration_ms": 226831,
       "name": "Azul",
       "url": "https://open.spotify.com/track/1KOTY2OVnEgua9eY76WxvT"
-    },
-    {
-      "added_at": "2026-11-19 23:00:51",
-      "album": {
-        "name": "BASS DOWN LOW",
-        "url": "https://open.spotify.com/album/34nDjs0YkpO1Mud0gNFoG1"
-      },
-      "artists": [
-        {
-          "name": "Lupage",
-          "url": "https://open.spotify.com/artist/5MazkeVWAqayflCjldHhs3"
-        }
-      ],
-      "duration_ms": 166124,
-      "name": "BASS DOWN LOW",
-      "url": "https://open.spotify.com/track/5mbEDRNFzwWFGSW3f7guHB"
     },
     {
       "added_at": "2026-11-19 23:00:51",
@@ -1723,6 +1707,22 @@
       "duration_ms": 133500,
       "name": "1999",
       "url": "https://open.spotify.com/track/3YolktwmGt2nwFD8KMlJfh"
+    },
+    {
+      "added_at": "2026-11-19 23:00:51",
+      "album": {
+        "name": "BASS DOWN LOW",
+        "url": "https://open.spotify.com/album/34nDjs0YkpO1Mud0gNFoG1"
+      },
+      "artists": [
+        {
+          "name": "Lupage",
+          "url": "https://open.spotify.com/artist/5MazkeVWAqayflCjldHhs3"
+        }
+      ],
+      "duration_ms": 166124,
+      "name": "BASS DOWN LOW",
+      "url": "https://open.spotify.com/track/5mbEDRNFzwWFGSW3f7guHB"
     },
     {
       "added_at": "2026-11-19 23:00:51",
@@ -1843,26 +1843,6 @@
     {
       "added_at": "2026-11-19 23:00:51",
       "album": {
-        "name": "God Gave Us Techno",
-        "url": "https://open.spotify.com/album/3VxlGgGwrPTL4IW0wfC7IH"
-      },
-      "artists": [
-        {
-          "name": "Sarah de Warren",
-          "url": "https://open.spotify.com/artist/2V431yZGG08uroH2CZAgur"
-        },
-        {
-          "name": "Tao Andra",
-          "url": "https://open.spotify.com/artist/1zcGW4JIJJPbA8SdYwNLLC"
-        }
-      ],
-      "duration_ms": 188357,
-      "name": "God Gave Us Techno",
-      "url": "https://open.spotify.com/track/3qgHj0sK3BAoxD4oOtUXBy"
-    },
-    {
-      "added_at": "2026-11-19 23:00:51",
-      "album": {
         "name": "Don't Stop",
         "url": "https://open.spotify.com/album/7k9X7tCJdLdPWpm6JbAW0O"
       },
@@ -1883,18 +1863,22 @@
     {
       "added_at": "2026-11-19 23:00:51",
       "album": {
-        "name": "Acid For Breakfast",
-        "url": "https://open.spotify.com/album/4oXeqHeQ05U7Y2oouENg5F"
+        "name": "God Gave Us Techno",
+        "url": "https://open.spotify.com/album/3VxlGgGwrPTL4IW0wfC7IH"
       },
       "artists": [
         {
-          "name": "Maddix",
-          "url": "https://open.spotify.com/artist/0RMeG9M8QFzss9bAbq99KA"
+          "name": "Sarah de Warren",
+          "url": "https://open.spotify.com/artist/2V431yZGG08uroH2CZAgur"
+        },
+        {
+          "name": "Tao Andra",
+          "url": "https://open.spotify.com/artist/1zcGW4JIJJPbA8SdYwNLLC"
         }
       ],
-      "duration_ms": 154000,
-      "name": "Acid For Breakfast",
-      "url": "https://open.spotify.com/track/5GWuNgdeHmy37dTDYOe9Ql"
+      "duration_ms": 188357,
+      "name": "God Gave Us Techno",
+      "url": "https://open.spotify.com/track/3qgHj0sK3BAoxD4oOtUXBy"
     },
     {
       "added_at": "2026-11-19 23:00:51",
@@ -1915,22 +1899,6 @@
     {
       "added_at": "2026-11-19 23:00:51",
       "album": {
-        "name": "Divine",
-        "url": "https://open.spotify.com/album/7fWa9fmjRjDskIAgwYzyCI"
-      },
-      "artists": [
-        {
-          "name": "Blair Muir",
-          "url": "https://open.spotify.com/artist/4ui3aaOc80IntYGOHqpVQT"
-        }
-      ],
-      "duration_ms": 163641,
-      "name": "Divine",
-      "url": "https://open.spotify.com/track/0u5aRUEwlWhtO32VASKoLi"
-    },
-    {
-      "added_at": "2026-11-19 23:00:51",
-      "album": {
         "name": "Bass Go",
         "url": "https://open.spotify.com/album/6r9zTqop9f3suoUtKTcXZL"
       },
@@ -1943,6 +1911,38 @@
       "duration_ms": 305032,
       "name": "Bass Go",
       "url": "https://open.spotify.com/track/5uzDTJpmseicKPwzB9q5VG"
+    },
+    {
+      "added_at": "2026-11-19 23:00:51",
+      "album": {
+        "name": "Acid For Breakfast",
+        "url": "https://open.spotify.com/album/4oXeqHeQ05U7Y2oouENg5F"
+      },
+      "artists": [
+        {
+          "name": "Maddix",
+          "url": "https://open.spotify.com/artist/0RMeG9M8QFzss9bAbq99KA"
+        }
+      ],
+      "duration_ms": 154000,
+      "name": "Acid For Breakfast",
+      "url": "https://open.spotify.com/track/5GWuNgdeHmy37dTDYOe9Ql"
+    },
+    {
+      "added_at": "2026-11-19 23:00:51",
+      "album": {
+        "name": "Divine",
+        "url": "https://open.spotify.com/album/7fWa9fmjRjDskIAgwYzyCI"
+      },
+      "artists": [
+        {
+          "name": "Blair Muir",
+          "url": "https://open.spotify.com/artist/4ui3aaOc80IntYGOHqpVQT"
+        }
+      ],
+      "duration_ms": 163641,
+      "name": "Divine",
+      "url": "https://open.spotify.com/track/0u5aRUEwlWhtO32VASKoLi"
     }
   ],
   "unique_name": "rave",

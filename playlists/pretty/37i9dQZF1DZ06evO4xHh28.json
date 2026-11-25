@@ -1,12 +1,12 @@
 {
   "description": "This is My Chemical Romance. The essential tracks, all in one playlist.",
-  "num_followers": 652353,
+  "num_followers": 652486,
   "original_name": "This Is My Chemical Romance",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "awIwgAAAAACXLpVEhuiH6cBpz6LhPE9+",
+  "snapshot_id": "awOCAAAAAAA9qhedp1XUSZ+RXhOtmMkT",
   "tracks": [
     {
       "added_at": null,
@@ -475,22 +475,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "The Foundations of Decay",
-        "url": "https://open.spotify.com/album/28SHC2Kn35Nl9yd94CbF3q"
-      },
-      "artists": [
-        {
-          "name": "My Chemical Romance",
-          "url": "https://open.spotify.com/artist/7FBcuc1gsnv6Y1nwFtNRCb"
-        }
-      ],
-      "duration_ms": 360760,
-      "name": "The Foundations of Decay",
-      "url": "https://open.spotify.com/track/6Pif6RkFoYzLygdqktus4Q"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "The Black Parade (20th Anniversary Deluxe Edition)",
         "url": "https://open.spotify.com/album/4M2QW8nne81nwIX7pBCk2U"
       },
@@ -503,6 +487,22 @@
       "duration_ms": 175508,
       "name": "Heaven Help Us",
       "url": "https://open.spotify.com/track/1umoCo2qOM7SWnlWf5rQ98"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "The Foundations of Decay",
+        "url": "https://open.spotify.com/album/28SHC2Kn35Nl9yd94CbF3q"
+      },
+      "artists": [
+        {
+          "name": "My Chemical Romance",
+          "url": "https://open.spotify.com/artist/7FBcuc1gsnv6Y1nwFtNRCb"
+        }
+      ],
+      "duration_ms": 360760,
+      "name": "The Foundations of Decay",
+      "url": "https://open.spotify.com/track/6Pif6RkFoYzLygdqktus4Q"
     },
     {
       "added_at": null,

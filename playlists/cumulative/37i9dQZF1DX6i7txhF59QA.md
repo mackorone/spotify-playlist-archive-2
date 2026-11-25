@@ -4,7 +4,7 @@
 
 > 신나는 트로트 멜로디를 즐겨보세요! \(커버: Jang Minho \(장민호\)\)<br/>Let's party with cheerful Korean trot medley.
 
-1,127 songs - 2 day 16 hr 30 min
+1,128 songs - 2 day 16 hr 34 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -563,6 +563,7 @@
 | [Mother](https://open.spotify.com/track/7EXN6cOjgjhc0tsRHk5KV0) | [Lee Chanwon](https://open.spotify.com/artist/1XlyP7FKwWs9j8GTdk5m4k) | [Bongsungah school PART7](https://open.spotify.com/album/03aZK99AztPHiwh4XMta3i) | 3:56 | 2022-04-07 | 2022-07-29 |
 | [Mother's song](https://open.spotify.com/track/2Iqfa4D7HHFX52gegWwak7) | [Lim Young Woong](https://open.spotify.com/artist/75MOYjGEyyH5U4ZFHOPvxR) | [Love call center PART18](https://open.spotify.com/album/4keQfQWkLot2MU9LuEho7I) | 3:38 | 2022-04-07 | 2022-07-27 |
 | [Mountain Chillgap \- Live Version](https://open.spotify.com/track/1l2quEhr9ydg3aNMMOIBXD) | [Song Ga In](https://open.spotify.com/artist/5t5zmsIdTDRqDeI17tilpd) | [2023 Song Ga In Best & Live](https://open.spotify.com/album/2nmo7UyArrfpvAz2Gj9uwn) | 3:18 | 2023-09-28 | 2024-12-20 |
+| [Mountain, Life](https://open.spotify.com/track/2T3dihXcl6YkNqmdH5QU6f) | [Jang Minho](https://open.spotify.com/artist/2SeVOe0CXUEKtCq3BR5A0v) | [Essay ep.4](https://open.spotify.com/album/4vyJAxY5yOAqmMjedguEVY) | 3:51 | 2026-11-24 |  |
 | [Mr\. Popularity](https://open.spotify.com/track/3mPyqnPd8ToVxyTTAwR7wj) | [Chang Jung Im](https://open.spotify.com/artist/7n1ozvPP3K3wmQvTUvkQFW), [Lee Chanwon](https://open.spotify.com/artist/1XlyP7FKwWs9j8GTdk5m4k) | [Bongsungah school PART14](https://open.spotify.com/album/3Rmq4pcai47nT6G020fGDw) | 3:39 | 2022-04-21 | 2025-01-04 |
 | [Music is my life](https://open.spotify.com/track/4wegwpBOaT6YJp1QBc7Hsm) | [Lim Young Woong](https://open.spotify.com/artist/75MOYjGEyyH5U4ZFHOPvxR) | [Love call center PART14](https://open.spotify.com/album/4gaF7DNZZA5W1wHEYZ88ll) | 4:10 | 2022-05-03 | 2022-05-28 |
 | [My childhood dream](https://open.spotify.com/track/4DPqksRZ4tZhx943ak9mJV) | [Boom](https://open.spotify.com/artist/2ExzQ95NkQ6mFMRQklLzgp), [Jang Minho](https://open.spotify.com/artist/2SeVOe0CXUEKtCq3BR5A0v) | [Love call center PART9](https://open.spotify.com/album/1lAFblayoSOk4ZzgtqGT0I) | 4:02 | 2022-04-07 | 2022-07-24 |

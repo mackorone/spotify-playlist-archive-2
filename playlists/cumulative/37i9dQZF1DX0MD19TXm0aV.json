@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2024-07-02",
-  "description": "Switzerland's biggest hits right now. Cover: Ashe",
+  "description": "Switzerland's biggest hits right now. Cover: Justice, Tame Impala, SZA, King Gizzard & The Lizard Wizard",
   "name": "Hot Hits Switzerland",
   "tracks": [
     {
@@ -208,6 +208,24 @@
       "duration_ms": 142615,
       "name": "30\u00baC",
       "url": "https://open.spotify.com/track/5eyL6waluu7hXrRrWewBFU"
+    },
+    {
+      "album": {
+        "name": "365",
+        "url": "https://open.spotify.com/album/3JCoyTgwaB67uFXXDZKiDD"
+      },
+      "artists": [
+        {
+          "name": "Sampagne",
+          "url": "https://open.spotify.com/artist/7vohy1W7YNLxHynG44UFjS"
+        }
+      ],
+      "date_added": "2026-11-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 125490,
+      "name": "365",
+      "url": "https://open.spotify.com/track/2puYoLAcArVFbFUceFYlYX"
     },
     {
       "album": {
@@ -542,7 +560,7 @@
       ],
       "date_added": "2026-10-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-25",
       "duration_ms": 153000,
       "name": "ANGEL SHOT",
       "url": "https://open.spotify.com/track/4JQ8NDDmgNGBtPQZAVZ0lk"
@@ -1914,7 +1932,7 @@
       ],
       "date_added": "2026-03-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-25",
       "duration_ms": 301674,
       "name": "Click Clack Symphony. (feat. Hans Zimmer)",
       "url": "https://open.spotify.com/track/5PspYmmQ8nKESNTcBY2LlX"
@@ -2154,6 +2172,24 @@
       "duration_ms": 106480,
       "name": "Darling",
       "url": "https://open.spotify.com/track/3DHO3GvZhb49NuJRn8AlaP"
+    },
+    {
+      "album": {
+        "name": "FAST LIFE",
+        "url": "https://open.spotify.com/album/6veJjIj238yfsTg137hv4C"
+      },
+      "artists": [
+        {
+          "name": "L2B",
+          "url": "https://open.spotify.com/artist/4hYxvgmTzS29XAXlo5adgM"
+        }
+      ],
+      "date_added": "2026-11-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 173800,
+      "name": "Dedans",
+      "url": "https://open.spotify.com/track/76afFB8dlUYFhW1INRfi01"
     },
     {
       "album": {
@@ -3162,6 +3198,24 @@
       "duration_ms": 180383,
       "name": "gimme luv <3",
       "url": "https://open.spotify.com/track/1UeTyrfK5QChYU0kOJqv1z"
+    },
+    {
+      "album": {
+        "name": "Grand Theft Auto VI: The Album",
+        "url": "https://open.spotify.com/album/5BYKG4MHfySZthe2W6r7n4"
+      },
+      "artists": [
+        {
+          "name": "Dua Lipa",
+          "url": "https://open.spotify.com/artist/6M2wZ9GZgrQXHCFfjv46we"
+        }
+      ],
+      "date_added": "2026-11-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 191500,
+      "name": "Go Easy",
+      "url": "https://open.spotify.com/track/3SLoSFMLOb9jcMsdgyQnOJ"
     },
     {
       "album": {
@@ -8702,7 +8756,7 @@
       ],
       "date_added": "2026-02-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-25",
       "duration_ms": 144101,
       "name": "WHITE KEYS",
       "url": "https://open.spotify.com/track/5ViLKrbyL3HD6wsq3AB9eI"

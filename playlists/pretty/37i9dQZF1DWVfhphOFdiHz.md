@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVfhphOFdiHz.md) - [plain]
 
 > Bops on repeat from LGBTQIA+ artists only\. Cover: EARTH TO EMILY
 
-[Spotify](https://open.spotify.com/user/spotify) - 23,962 likes - 50 songs - 2 hr 40 min
+[Spotify](https://open.spotify.com/user/spotify) - 23,965 likes - 50 songs - 2 hr 40 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVfhphOFdiHz.md) - [plain]
 | 49 | [Meryl](https://open.spotify.com/track/6gHhrK2BL0cqlGUxTtyjaT) | [Maddie Zahm](https://open.spotify.com/artist/5dtPlx7yKOo7KdZGyrfFIq) | [Everything All The Time](https://open.spotify.com/album/2ydzJRCV5HBV1hMbwzEWsm) | 2:43 |
 | 50 | [MAKE IT OUT ALIVE \- Dave Audé Version](https://open.spotify.com/track/6GPHx5qSNiPnmdtQcM6dcC) | [MORGXN](https://open.spotify.com/artist/034u8Qcs47NHkRQXaWkLXW), [Dave Audé](https://open.spotify.com/artist/1vWImodgVqIgTUkekGEfR9) | [MAKE IT OUT ALIVE \(Dave Audé Version\)](https://open.spotify.com/album/2d0zoeu1ZXByjTLXY0rAHn) | 3:01 |
 
-Snapshot ID: `AAAAAFuSlMG9VRwAeTzTOoI3gFsLQVCq`
+Snapshot ID: `AAAAANJwFVj2I5zNcDCJjwdz1o3ys5up`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6RK4iTHSRRX.md) - [plain]
 
 > Instrumental acoustic guitar renditions of the Christmas songs you love.
 
-[Spotify](https://open.spotify.com/user/spotify) - 142,039 likes - 83 songs - 3 hr 27 min
+[Spotify](https://open.spotify.com/user/spotify) - 142,093 likes - 83 songs - 3 hr 27 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -92,4 +92,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6RK4iTHSRRX.md) - [plain]
 | 82 | [All I Want For Christmas \(Is My Two Front Teeth\)](https://open.spotify.com/track/05nDWMKbb0Kr39EazJlCbw) | [Max Laugland](https://open.spotify.com/artist/7ASrnmDyLPEBiO97unM9AC) | [All I Want For Christmas \(Is My Two Front Teeth\)](https://open.spotify.com/album/6XTqe4kwzC01JL9xxEa74L) | 2:01 |
 | 83 | [The Chipmunk Song \(Christmas Don't Be Late\) \[Instrumental Version\]](https://open.spotify.com/track/5EVvYH2ockerMq5ric8BT5) | [Acoustic Guitar Songs,Classical Guitar Masters & Classical Christmas Music](https://open.spotify.com/artist/5XdbiV13oxsZNUdwgXZnhn), [Christmas Hits,Christmas Songs & Christmas](https://open.spotify.com/artist/5q54Ivn39BGY46s48SsktP), [Instrumental Christmas Music](https://open.spotify.com/artist/6BE55tLQQGp0TeQpicxL1P) | [It's the Most Wonderful Time of the Year \- Christmas Guitar](https://open.spotify.com/album/4rHmFEhmly9U7FAV7GLsmp) | 2:21 |
 
-Snapshot ID: `AAAAANpfixtCc9CL1JPcpndQPdps+c2a`
+Snapshot ID: `AAAAANJE8KAqTmPmO2pBn5w34LOf0D1F`

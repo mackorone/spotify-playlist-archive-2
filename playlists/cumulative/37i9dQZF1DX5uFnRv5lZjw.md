@@ -4,7 +4,7 @@
 
 > doom scrolling is out, off\-grid is in.
 
-139 songs - 5 hr 52 min
+140 songs - 5 hr 55 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -36,6 +36,7 @@
 | [Constant Flow](https://open.spotify.com/track/4ddSt3tiJ7QxAq93PlIf3Z) | [Stace Brinorma](https://open.spotify.com/artist/0uhbT4yNeyFnQePzFddGJk) | [Constant Flow](https://open.spotify.com/album/6ZKXemtYF6UdrXwA9mA2o6) | 2:20 | 2025-04-09 |  |
 | [Copper Corners](https://open.spotify.com/track/2ZOHuRyNd05kKlsZVKPnuD) | [Emmanuel Sapphire](https://open.spotify.com/artist/1Xk9H6dztBzvOCUfFUaxRQ) | [Copper Corners](https://open.spotify.com/album/1ex8osQco2SsMVEvJBrwEA) | 2:24 | 2025-03-07 |  |
 | [Counting the Days](https://open.spotify.com/track/1xfEo3rOHLAT3vqxMPKC5d) | [Erjos](https://open.spotify.com/artist/70qp21FDz8QMIIGF3ETrAV) | [Counting the Days](https://open.spotify.com/album/1DIDzFc9XpurOpFuCGmL43) | 2:48 | 2025-04-02 | 2026-05-30 |
+| [Dawn Chorus \- III\. Fratercula arctica \- Andante](https://open.spotify.com/track/27aXOOXT0NbnFmb0DvXgOl) | [Erland Cooper](https://open.spotify.com/artist/636k3cBTCgdZfXzCj7Cuaa), [BBC Scottish Symphony Orchestra](https://open.spotify.com/artist/3CufywuKIBC8WhWNvzTQr1), [Freya Goldmark](https://open.spotify.com/artist/3JlsLQ4654rWTZKRqoWhr1), [Janne Nisonen](https://open.spotify.com/artist/0wAXBGTTMma4WuOU8B8XbU) | [Dawn Chorus](https://open.spotify.com/album/0QFltWe8mBdI4oKIV3CsSh) | 3:25 | 2026-11-24 |  |
 | [Daydream Damsel](https://open.spotify.com/track/5MjV5ng53AIbqzR63U7jqC) | [Stephan Moccio](https://open.spotify.com/artist/25s9H1JQmTu3iuFzpXWUIg) | [Daydream Damsel](https://open.spotify.com/album/479QMqPZQxdBp9HZKp5j1B) | 1:46 | 2026-10-02 |  |
 | [Days and Days](https://open.spotify.com/track/3LkBP7gC3g8cUWQpArGKAB) | [Ferragno](https://open.spotify.com/artist/6V5Qb50Rc4RxLMVRgLyD2W) | [Days and Days](https://open.spotify.com/album/3aEYmntr19JNHcZrz6YkGB) | 2:12 | 2025-11-05 |  |
 | [Descanso](https://open.spotify.com/track/09GOfbYAJRl2EtDAWCzaYh) | [aung](https://open.spotify.com/artist/0s0tm9zd9sIgQU1g44VujV) | [Descanso](https://open.spotify.com/album/3P2cjSVUew8ztsFyndU0mo) | 2:52 | 2025-06-10 | 2025-09-18 |

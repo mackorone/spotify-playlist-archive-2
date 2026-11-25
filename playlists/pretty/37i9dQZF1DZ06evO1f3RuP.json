@@ -6,7 +6,7 @@
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "awIwgAAAAAAII5KghXfI7EBE/BJtvM0+",
+  "snapshot_id": "awOCAAAAAABG1e2Hbn3otdPtXyFjq0Oz",
   "tracks": [
     {
       "added_at": null,
@@ -91,30 +91,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "POP GIRLS CLUB",
-        "url": "https://open.spotify.com/album/3rrHA39a9wiiwedaML0jvO"
-      },
-      "artists": [
-        {
-          "name": "Lexie Liu",
-          "url": "https://open.spotify.com/artist/6fs2or0cKLEM2xohWq8SoX"
-        },
-        {
-          "name": "BAYLI",
-          "url": "https://open.spotify.com/artist/2bvUCoFViWtg9pSkOX9du9"
-        },
-        {
-          "name": "Isabella Lovestory",
-          "url": "https://open.spotify.com/artist/4wMQTWavQZgr8ySlo5s2Tt"
-        }
-      ],
-      "duration_ms": 173016,
-      "name": "POP GIRL (with BAYLI & Isabella Lovestory)",
-      "url": "https://open.spotify.com/track/1Gc4HLasqihMmsAJQacNuO"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Torn - Ssstretched",
         "url": "https://open.spotify.com/album/1LVScJagjUaWJ1r0LIhGTA"
       },
@@ -135,6 +111,30 @@
       "duration_ms": 198342,
       "name": "Unoriginal - BAYLI & Megra Remix",
       "url": "https://open.spotify.com/track/4o0fOtYOggx1qaxsPrLd0b"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "POP GIRLS CLUB",
+        "url": "https://open.spotify.com/album/3rrHA39a9wiiwedaML0jvO"
+      },
+      "artists": [
+        {
+          "name": "Lexie Liu",
+          "url": "https://open.spotify.com/artist/6fs2or0cKLEM2xohWq8SoX"
+        },
+        {
+          "name": "BAYLI",
+          "url": "https://open.spotify.com/artist/2bvUCoFViWtg9pSkOX9du9"
+        },
+        {
+          "name": "Isabella Lovestory",
+          "url": "https://open.spotify.com/artist/4wMQTWavQZgr8ySlo5s2Tt"
+        }
+      ],
+      "duration_ms": 173016,
+      "name": "POP GIRL (with BAYLI & Isabella Lovestory)",
+      "url": "https://open.spotify.com/track/1Gc4HLasqihMmsAJQacNuO"
     },
     {
       "added_at": null,
@@ -259,22 +259,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "not safe",
-        "url": "https://open.spotify.com/album/3Obqq8uZvZKIDRKm63tise"
-      },
-      "artists": [
-        {
-          "name": "BAYLI",
-          "url": "https://open.spotify.com/artist/2bvUCoFViWtg9pSkOX9du9"
-        }
-      ],
-      "duration_ms": 136686,
-      "name": "not safe",
-      "url": "https://open.spotify.com/track/3msQyhTxEPh8Qr8PdKINUd"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Float (feat. BAYLI)",
         "url": "https://open.spotify.com/album/7oGQVPQR0LNdBcGpFaDag5"
       },
@@ -295,6 +279,22 @@
       "duration_ms": 174193,
       "name": "Float (feat. BAYLI)",
       "url": "https://open.spotify.com/track/20fWv7580PvwdmWnVqHPDc"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "not safe",
+        "url": "https://open.spotify.com/album/3Obqq8uZvZKIDRKm63tise"
+      },
+      "artists": [
+        {
+          "name": "BAYLI",
+          "url": "https://open.spotify.com/artist/2bvUCoFViWtg9pSkOX9du9"
+        }
+      ],
+      "duration_ms": 136686,
+      "name": "not safe",
+      "url": "https://open.spotify.com/track/3msQyhTxEPh8Qr8PdKINUd"
     },
     {
       "added_at": null,
@@ -343,22 +343,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "boys lie",
-        "url": "https://open.spotify.com/album/7u79RtCjM1KNE6IDBiNsQi"
-      },
-      "artists": [
-        {
-          "name": "BAYLI",
-          "url": "https://open.spotify.com/artist/2bvUCoFViWtg9pSkOX9du9"
-        }
-      ],
-      "duration_ms": 145857,
-      "name": "boys lie",
-      "url": "https://open.spotify.com/track/3WueDZQh5JdW5dR1cGZ4Xk"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "stories 2",
         "url": "https://open.spotify.com/album/3bB8Ac29DUpwbjWTZGbOKh"
       },
@@ -371,6 +355,22 @@
       "duration_ms": 130560,
       "name": "pressure",
       "url": "https://open.spotify.com/track/29XFwGNkE4E153MGV232hB"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "boys lie",
+        "url": "https://open.spotify.com/album/7u79RtCjM1KNE6IDBiNsQi"
+      },
+      "artists": [
+        {
+          "name": "BAYLI",
+          "url": "https://open.spotify.com/artist/2bvUCoFViWtg9pSkOX9du9"
+        }
+      ],
+      "duration_ms": 145857,
+      "name": "boys lie",
+      "url": "https://open.spotify.com/track/3WueDZQh5JdW5dR1cGZ4Xk"
     },
     {
       "added_at": null,

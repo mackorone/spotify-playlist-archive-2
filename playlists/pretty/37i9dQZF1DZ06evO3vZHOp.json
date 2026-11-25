@@ -1,12 +1,12 @@
 {
   "description": "This is Eladio Carrion. The essential tracks, all in one playlist.",
-  "num_followers": 381594,
+  "num_followers": 381603,
   "original_name": "This Is Eladio Carrion",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "awIwgAAAAAComuSAp3NeNCy7RlwH06h+",
+  "snapshot_id": "awOCAAAAAADOjx2RHp5I9wqCrDa/6jlY",
   "tracks": [
     {
       "added_at": null,
@@ -351,26 +351,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Primer Lugar",
-        "url": "https://open.spotify.com/album/5Jk8q1BVRKEyjtruBCSQTe"
-      },
-      "artists": [
-        {
-          "name": "Eladio Carrion",
-          "url": "https://open.spotify.com/artist/5XJDexmWFLWOkjOEjOVX3e"
-        },
-        {
-          "name": "Omar Courtz",
-          "url": "https://open.spotify.com/artist/3E12tRURRvPfHz0hAMCFYc"
-        }
-      ],
-      "duration_ms": 245760,
-      "name": "Primer Lugar",
-      "url": "https://open.spotify.com/track/5rBE7fZIOauzXUm1E9vPxM"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Pensabas",
         "url": "https://open.spotify.com/album/5drYlJ8I0GfyZPBDiHU1J2"
       },
@@ -395,6 +375,26 @@
       "duration_ms": 292000,
       "name": "Pensabas",
       "url": "https://open.spotify.com/track/6VpnpePeNlOmzUR3r5Ydrk"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Primer Lugar",
+        "url": "https://open.spotify.com/album/5Jk8q1BVRKEyjtruBCSQTe"
+      },
+      "artists": [
+        {
+          "name": "Eladio Carrion",
+          "url": "https://open.spotify.com/artist/5XJDexmWFLWOkjOEjOVX3e"
+        },
+        {
+          "name": "Omar Courtz",
+          "url": "https://open.spotify.com/artist/3E12tRURRvPfHz0hAMCFYc"
+        }
+      ],
+      "duration_ms": 245760,
+      "name": "Primer Lugar",
+      "url": "https://open.spotify.com/track/5rBE7fZIOauzXUm1E9vPxM"
     },
     {
       "added_at": null,
@@ -747,26 +747,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Las Leyendas Nunca Mueren",
-        "url": "https://open.spotify.com/album/4MTtBjQEt7i752hISXjKqA"
-      },
-      "artists": [
-        {
-          "name": "Anuel AA",
-          "url": "https://open.spotify.com/artist/2R21vXR83lH98kGeO99Y66"
-        },
-        {
-          "name": "Eladio Carrion",
-          "url": "https://open.spotify.com/artist/5XJDexmWFLWOkjOEjOVX3e"
-        }
-      ],
-      "duration_ms": 176538,
-      "name": "North Carolina",
-      "url": "https://open.spotify.com/track/0B1J4Mm4oRVMqoy6RM9vIM"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Chosen Few New Generation II - Recharged",
         "url": "https://open.spotify.com/album/382jindm6my1i05NJfXQLr"
       },
@@ -791,6 +771,26 @@
       "duration_ms": 201225,
       "name": "Salgo a Buscarte (feat. Ele A El Dominio)",
       "url": "https://open.spotify.com/track/2TzXxkRbz5fo31Crzn56mb"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Las Leyendas Nunca Mueren",
+        "url": "https://open.spotify.com/album/4MTtBjQEt7i752hISXjKqA"
+      },
+      "artists": [
+        {
+          "name": "Anuel AA",
+          "url": "https://open.spotify.com/artist/2R21vXR83lH98kGeO99Y66"
+        },
+        {
+          "name": "Eladio Carrion",
+          "url": "https://open.spotify.com/artist/5XJDexmWFLWOkjOEjOVX3e"
+        }
+      ],
+      "duration_ms": 176538,
+      "name": "North Carolina",
+      "url": "https://open.spotify.com/track/0B1J4Mm4oRVMqoy6RM9vIM"
     },
     {
       "added_at": null,
@@ -847,6 +847,26 @@
     {
       "added_at": null,
       "album": {
+        "name": "Bendito Verano",
+        "url": "https://open.spotify.com/album/3879XuqQ01JARbfd5pMH3s"
+      },
+      "artists": [
+        {
+          "name": "ELENA ROSE",
+          "url": "https://open.spotify.com/artist/0zO8yNnw5GQgutcIyXfGBY"
+        },
+        {
+          "name": "Eladio Carrion",
+          "url": "https://open.spotify.com/artist/5XJDexmWFLWOkjOEjOVX3e"
+        }
+      ],
+      "duration_ms": 179354,
+      "name": "Roulin",
+      "url": "https://open.spotify.com/track/4CW60MJtsp5GckOQLcC2NK"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Falsas Promesas (Remix)",
         "url": "https://open.spotify.com/album/14FAowouxDrPZQOhqrH2SM"
       },
@@ -883,26 +903,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Do Not Disturb",
-        "url": "https://open.spotify.com/album/661FeA95LRhOgZCJ3Y5u9A"
-      },
-      "artists": [
-        {
-          "name": "Young Miko",
-          "url": "https://open.spotify.com/artist/3qsKSpcV3ncke3hw52JSMB"
-        },
-        {
-          "name": "Eladio Carrion",
-          "url": "https://open.spotify.com/artist/5XJDexmWFLWOkjOEjOVX3e"
-        }
-      ],
-      "duration_ms": 240000,
-      "name": "Traviesa (feat. Eladio Carrion)",
-      "url": "https://open.spotify.com/track/7E6bhcHhU5LwXjiAITtBkZ"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "3MEN2 KBRN",
         "url": "https://open.spotify.com/album/6BGN5CVd7koJApotl5Bj8u"
       },
@@ -919,22 +919,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "Bendito Verano",
-        "url": "https://open.spotify.com/album/3879XuqQ01JARbfd5pMH3s"
+        "name": "Do Not Disturb",
+        "url": "https://open.spotify.com/album/661FeA95LRhOgZCJ3Y5u9A"
       },
       "artists": [
         {
-          "name": "ELENA ROSE",
-          "url": "https://open.spotify.com/artist/0zO8yNnw5GQgutcIyXfGBY"
+          "name": "Young Miko",
+          "url": "https://open.spotify.com/artist/3qsKSpcV3ncke3hw52JSMB"
         },
         {
           "name": "Eladio Carrion",
           "url": "https://open.spotify.com/artist/5XJDexmWFLWOkjOEjOVX3e"
         }
       ],
-      "duration_ms": 179354,
-      "name": "Roulin",
-      "url": "https://open.spotify.com/track/4CW60MJtsp5GckOQLcC2NK"
+      "duration_ms": 240000,
+      "name": "Traviesa (feat. Eladio Carrion)",
+      "url": "https://open.spotify.com/track/7E6bhcHhU5LwXjiAITtBkZ"
     },
     {
       "added_at": null,
@@ -959,22 +959,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Sol Mar\u00eda",
-        "url": "https://open.spotify.com/album/2zE9RJSh5sMV0NJ8Oc8k5s"
-      },
-      "artists": [
-        {
-          "name": "Eladio Carrion",
-          "url": "https://open.spotify.com/artist/5XJDexmWFLWOkjOEjOVX3e"
-        }
-      ],
-      "duration_ms": 158446,
-      "name": "Tu Ritmo",
-      "url": "https://open.spotify.com/track/7JArcReBGffsbhMaosvQR0"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Nota",
         "url": "https://open.spotify.com/album/0siQnF7cX6ggvTgYMll5OJ"
       },
@@ -991,6 +975,22 @@
       "duration_ms": 159482,
       "name": "Nota",
       "url": "https://open.spotify.com/track/2rm9Jixn9sLzTM6PF8u8AH"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Sol Mar\u00eda",
+        "url": "https://open.spotify.com/album/2zE9RJSh5sMV0NJ8Oc8k5s"
+      },
+      "artists": [
+        {
+          "name": "Eladio Carrion",
+          "url": "https://open.spotify.com/artist/5XJDexmWFLWOkjOEjOVX3e"
+        }
+      ],
+      "duration_ms": 158446,
+      "name": "Tu Ritmo",
+      "url": "https://open.spotify.com/track/7JArcReBGffsbhMaosvQR0"
     },
     {
       "added_at": null,
@@ -1051,6 +1051,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "SEN2 KBRN VOL. 2",
+        "url": "https://open.spotify.com/album/3lsdB3dY4odywNI42KV6D9"
+      },
+      "artists": [
+        {
+          "name": "Eladio Carrion",
+          "url": "https://open.spotify.com/artist/5XJDexmWFLWOkjOEjOVX3e"
+        }
+      ],
+      "duration_ms": 178560,
+      "name": "Hugo",
+      "url": "https://open.spotify.com/track/3oCSBlJniNwxVQfq1R2ROt"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "M\u00c1S DE AH\u00cd (Remix)",
         "url": "https://open.spotify.com/album/7vNpgZdlMDiRwaASBm706E"
       },
@@ -1075,22 +1091,6 @@
       "duration_ms": 245052,
       "name": "M\u00c1S DE AH\u00cd - Remix",
       "url": "https://open.spotify.com/track/1aPvpAAX9lB2WpEqkK012u"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "SEN2 KBRN VOL. 2",
-        "url": "https://open.spotify.com/album/3lsdB3dY4odywNI42KV6D9"
-      },
-      "artists": [
-        {
-          "name": "Eladio Carrion",
-          "url": "https://open.spotify.com/artist/5XJDexmWFLWOkjOEjOVX3e"
-        }
-      ],
-      "duration_ms": 178560,
-      "name": "Hugo",
-      "url": "https://open.spotify.com/track/3oCSBlJniNwxVQfq1R2ROt"
     }
   ],
   "unique_name": "This Is Eladio Carrion",

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWBHeXOYZf74.md) - [plain]
 
 > Genre\-less\. Quality first always\. Cover: Erika de Casier
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,325,566 likes - 100 songs - 5 hr 28 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,325,534 likes - 100 songs - 5 hr 28 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWBHeXOYZf74.md) - [plain]
 | 99 | [lao shi](https://open.spotify.com/track/6Z3mpXWlxpH91pkxtvhfYK) | [Helena Gao](https://open.spotify.com/artist/2s2ztYpVGqV3BWDbAcd35h) | [lao shi](https://open.spotify.com/album/2QAToXwax3o7UkhpMZSsW3) | 2:11 |
 | 100 | [Tiroteo](https://open.spotify.com/track/1KaBfgt21SXIoIdkmCVSvH) | [Daniela Lalita](https://open.spotify.com/artist/2eblCDvXEKYYapO1uchGds), [Mura Masa](https://open.spotify.com/artist/5Q81rlcTFh3k6DQJXPdsot) | [Tiroteo](https://open.spotify.com/album/0mNAQrOqBedUsrgonzxGmp) | 2:17 |
 
-Snapshot ID: `AAAAAIr6vJ0tn1wkPwqWw5OCYOgIA/mO`
+Snapshot ID: `AAAAAEb/d1ipIZI+hTZl+kxBGy5FJ9lY`

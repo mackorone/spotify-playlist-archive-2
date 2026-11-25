@@ -4,7 +4,7 @@
 
 > You don't have to be King David to own the dance floor, just play the best Christian electronic and dance music out now\. 🪩🕺🏽
 
-656 songs - 1 day 11 hr 48 min
+657 songs - 1 day 11 hr 57 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -86,7 +86,7 @@
 | [Broken Is Beautiful](https://open.spotify.com/track/0D7tG0LWJLqpSkrUacfBRh) | [The Young Escape](https://open.spotify.com/artist/39ZuGmOP3orNn5Pf8S13VW) | [Broken Is Beautiful](https://open.spotify.com/album/6Wx2aYawDBnNXuJhfQbtgK) | 4:10 | 2023-02-07 | 2024-11-30 |
 | [Broken Vessels \(Amazing Grace\) \- Retain Remix](https://open.spotify.com/track/73oAtotfBIqc4MYzT7nwPf) | [Retain](https://open.spotify.com/artist/5SwavZEv1VevR29sNLYTbF) | [Broken Vessels \(Amazing Grace\) \- Retain Remix](https://open.spotify.com/album/7yicQGzbw93rWbU0rjlMwq) | 3:24 | 2023-02-07 | 2024-07-20 |
 | [BUENA ONDA](https://open.spotify.com/track/3HxiAQPqGjVSFLLtZSeHYW) | [Redimi2](https://open.spotify.com/artist/0WZOmdnCln6FK6GM9e2tGm) | [MOMENTUM](https://open.spotify.com/album/4esF2tcUU0yctPIEoeW8VJ) | 2:40 | 2021-10-31 | 2023-02-08 |
-| [Building "What are you waiting on?"](https://open.spotify.com/track/4ZEyGNBns1pkOdmGRPcZ6F) | [Erica Reed](https://open.spotify.com/artist/7lfpWOo8hmR6p4NPjmiycF) | [Building "What are you waiting on?"](https://open.spotify.com/album/7yZ8cyxChIgZkjKLgTdcEK) | 3:51 | 2026-08-18 |  |
+| [Building "What are you waiting on?"](https://open.spotify.com/track/4ZEyGNBns1pkOdmGRPcZ6F) | [Erica Reed](https://open.spotify.com/artist/7lfpWOo8hmR6p4NPjmiycF) | [Building "What are you waiting on?"](https://open.spotify.com/album/7yZ8cyxChIgZkjKLgTdcEK) | 3:51 | 2026-08-18 | 2026-11-25 |
 | [Bulletproof](https://open.spotify.com/track/6fi4EXq3CANPvDXhAggmGn) | [Citizen Way](https://open.spotify.com/artist/7o9BrJpGzDJxWSGpAViJu4) | [2](https://open.spotify.com/album/53USszfd58oQk7O2aMa5AB) | 4:04 | 2021-10-31 | 2023-02-08 |
 | [Burn The Ships \(R3HAB Remix\)](https://open.spotify.com/track/4uQcfhLIZNpiWJKS9nPz3z) | [for KING & COUNTRY](https://open.spotify.com/artist/3sDbKMebVH2VYcRSl7u1VC), [R3HAB](https://open.spotify.com/artist/6cEuCEZu7PAE9ZSzLLc2oQ) | [Burn The Ships \(R3HAB Remix\)](https://open.spotify.com/album/637sa0MubVLyJ8al6duftV) | 2:26 | 2021-10-31 | 2023-02-08 |
 | [BYE](https://open.spotify.com/track/2B9aV8yQhiapL4rl7hz9zN) | [Pastor Mike Jr.](https://open.spotify.com/artist/1aNtFg4D7HdF8jOppyKpUS), [Adia](https://open.spotify.com/artist/1FzKCmWxE6QIfp23ikbuIt) | [God Showing Out](https://open.spotify.com/album/7xdAUVF3LuOz8FbD7rOlmW) | 2:13 | 2025-09-14 | 2026-08-19 |
@@ -518,6 +518,7 @@
 | [Save Me \- Bonus Track](https://open.spotify.com/track/2FyP26PfA97cgpKut7IH4V) | [Mat Kearney](https://open.spotify.com/artist/2NQEwAVHBNcI0tGMLlWwF1) | [January Flower \(Deluxe\)](https://open.spotify.com/album/61o3mZcWhcH9DbQjCHxCV4) | 3:23 | 2021-10-31 | 2023-02-08 |
 | [Say Goodbye \(Say Hello\)](https://open.spotify.com/track/25lxh52ko6CaGeE615bdGI) | [The Afters](https://open.spotify.com/artist/1Q9nxD19emMUTTWtFi7jZc) | [Say Goodbye \(Say Hello\)](https://open.spotify.com/album/1lcvSD9QEzDXdcbqSc0nCQ) | 3:15 | 2023-02-07 | 2024-07-20 |
 | [Say Goodbye \(Say Hello\)](https://open.spotify.com/track/29qRIyGVrmRiCdZpHAVNa7) | [The Afters](https://open.spotify.com/artist/1Q9nxD19emMUTTWtFi7jZc) | [Say Goodbye \(Say Hello\)](https://open.spotify.com/album/4V63HNyGrPygSfITQolJYW) | 3:15 | 2023-02-07 | 2024-04-19 |
+| [Say Yes](https://open.spotify.com/track/012B61YGzcTAoxH6CUnOda) | [Bruzzo](https://open.spotify.com/artist/21agXTEKVEZtKVwvUxgnZM), [KMJ Soulz](https://open.spotify.com/artist/1mCp9y7I4MODU7f1uRoDtK) | [Gospel House Chronicles](https://open.spotify.com/album/4QAnKTR82bZJD3o4qBTYNH) | 8:20 | 2026-10-30 |  |
 | [Scars \(Come With Livin'\) \- Neon Feather Remix](https://open.spotify.com/track/0shptsB4Efvi4T5zNKjeuO) | [TobyMac](https://open.spotify.com/artist/5VX8hxrcfJWwaTLiqGUHG3), [Sarah Reeves](https://open.spotify.com/artist/2vGA5qCDLZGW6exRQgKfLL), [Neon Feather](https://open.spotify.com/artist/2gKOyAK7jvza3CP58EcLKD) | [The St\. Nemele Collab Sessions](https://open.spotify.com/album/6HbrhmZ9osGyiKjUFDxQGJ) | 4:03 | 2021-10-31 | 2022-07-16 |
 | [Searching For](https://open.spotify.com/track/1c57E3GgckZveqzUkDzvqd) | [ISLY](https://open.spotify.com/artist/6vcdxuQqc3jvWqznVDPEAW) | [Searching For](https://open.spotify.com/album/7zY4HF5n4vHhlTp7hAuPPf) | 4:15 | 2023-02-07 | 2024-07-20 |
 | [See Me Through It](https://open.spotify.com/track/6ymBqDImXK5whaMxqynqX8) | [Brandon Heath](https://open.spotify.com/artist/0W7wIkmxoGQbnZYn2z2sLj) | [Enough Already](https://open.spotify.com/album/66BLSGfKnG5NnDZGiBstco) | 2:29 | 2023-02-07 | 2024-04-19 |

@@ -1,12 +1,12 @@
 {
   "description": "Only music produced on a TR-808 drum machine. Cover: Egyptian Lover",
-  "num_followers": 175606,
+  "num_followers": 175660,
   "original_name": "808 Classics",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAJJ4CShoVdudDvHsXMt/WRDXiC22",
+  "snapshot_id": "AAAAAFNTfmEMV+8dJXBIsAoMdwNxd/c8",
   "tracks": [
     {
       "added_at": "2024-07-10 08:31:19",
@@ -159,26 +159,6 @@
     {
       "added_at": "2024-07-10 08:31:19",
       "album": {
-        "name": "Speakerboxxx/The Love Below",
-        "url": "https://open.spotify.com/album/1UsmQ3bpJTyK6ygoOOjG1r"
-      },
-      "artists": [
-        {
-          "name": "Outkast",
-          "url": "https://open.spotify.com/artist/1G9G7WwrXka3Z1r7aIDjI7"
-        },
-        {
-          "name": "Sleepy Brown",
-          "url": "https://open.spotify.com/artist/7Dnu2NmddNymEI2LMZVH5v"
-        }
-      ],
-      "duration_ms": 234000,
-      "name": "The Way You Move (feat. Sleepy Brown)",
-      "url": "https://open.spotify.com/track/5z7mYFfhw6N6f23VwrokJD"
-    },
-    {
-      "added_at": "2024-07-10 08:31:19",
-      "album": {
         "name": "Life Is Good (feat. Drake)",
         "url": "https://open.spotify.com/album/5uCEoLCj3ZZZ1EtzQdQWVl"
       },
@@ -195,6 +175,26 @@
       "duration_ms": 237735,
       "name": "Life Is Good (feat. Drake)",
       "url": "https://open.spotify.com/track/5yY9lUy8nbvjM1Uyo1Uqoc"
+    },
+    {
+      "added_at": "2024-07-10 08:31:19",
+      "album": {
+        "name": "Speakerboxxx/The Love Below",
+        "url": "https://open.spotify.com/album/1UsmQ3bpJTyK6ygoOOjG1r"
+      },
+      "artists": [
+        {
+          "name": "Outkast",
+          "url": "https://open.spotify.com/artist/1G9G7WwrXka3Z1r7aIDjI7"
+        },
+        {
+          "name": "Sleepy Brown",
+          "url": "https://open.spotify.com/artist/7Dnu2NmddNymEI2LMZVH5v"
+        }
+      ],
+      "duration_ms": 234000,
+      "name": "The Way You Move (feat. Sleepy Brown)",
+      "url": "https://open.spotify.com/track/5z7mYFfhw6N6f23VwrokJD"
     },
     {
       "added_at": "2024-07-10 08:31:19",
@@ -247,22 +247,6 @@
     {
       "added_at": "2024-07-10 08:31:19",
       "album": {
-        "name": "The Good Times",
-        "url": "https://open.spotify.com/album/5WW91LUt9Oqkhzrg0Ao4K0"
-      },
-      "artists": [
-        {
-          "name": "Afroman",
-          "url": "https://open.spotify.com/artist/4Icvbp9RDt5aY2TWDOVDsr"
-        }
-      ],
-      "duration_ms": 197760,
-      "name": "Because I Got High",
-      "url": "https://open.spotify.com/track/0rRboI6IRuGx56Dq3UdYY4"
-    },
-    {
-      "added_at": "2024-07-10 08:31:19",
-      "album": {
         "name": "56 Nights",
         "url": "https://open.spotify.com/album/4Mqt4zRLIwFtZyzh7tAUQE"
       },
@@ -275,6 +259,22 @@
       "duration_ms": 243826,
       "name": "March Madness",
       "url": "https://open.spotify.com/track/3WcC6NH9J77xPEvj1SOL7z"
+    },
+    {
+      "added_at": "2024-07-10 08:31:19",
+      "album": {
+        "name": "The Good Times",
+        "url": "https://open.spotify.com/album/5WW91LUt9Oqkhzrg0Ao4K0"
+      },
+      "artists": [
+        {
+          "name": "Afroman",
+          "url": "https://open.spotify.com/artist/4Icvbp9RDt5aY2TWDOVDsr"
+        }
+      ],
+      "duration_ms": 197760,
+      "name": "Because I Got High",
+      "url": "https://open.spotify.com/track/0rRboI6IRuGx56Dq3UdYY4"
     },
     {
       "added_at": "2024-07-10 08:31:19",
@@ -791,22 +791,6 @@
     {
       "added_at": "2024-07-10 08:31:19",
       "album": {
-        "name": "How Much Can You Take",
-        "url": "https://open.spotify.com/album/2tcn2YqXFYVMFC1iNwC5Lu"
-      },
-      "artists": [
-        {
-          "name": "M.C. A.D.E.",
-          "url": "https://open.spotify.com/artist/0jveTQoUhhYD72xp3iGoQT"
-        }
-      ],
-      "duration_ms": 202866,
-      "name": "How Much Can You Take?",
-      "url": "https://open.spotify.com/track/52MBGU6vfC5szW3ASgliPT"
-    },
-    {
-      "added_at": "2024-07-10 08:31:19",
-      "album": {
         "name": "Dream Of A Lifetime",
         "url": "https://open.spotify.com/album/3R77KUZFEdUDsPcOCTRkPf"
       },
@@ -819,6 +803,22 @@
       "duration_ms": 325226,
       "name": "Sanctified Lady",
       "url": "https://open.spotify.com/track/4qGgCG44YaybkBZtVJZ2bo"
+    },
+    {
+      "added_at": "2024-07-10 08:31:19",
+      "album": {
+        "name": "How Much Can You Take",
+        "url": "https://open.spotify.com/album/2tcn2YqXFYVMFC1iNwC5Lu"
+      },
+      "artists": [
+        {
+          "name": "M.C. A.D.E.",
+          "url": "https://open.spotify.com/artist/0jveTQoUhhYD72xp3iGoQT"
+        }
+      ],
+      "duration_ms": 202866,
+      "name": "How Much Can You Take?",
+      "url": "https://open.spotify.com/track/52MBGU6vfC5szW3ASgliPT"
     },
     {
       "added_at": "2024-07-10 08:31:19",

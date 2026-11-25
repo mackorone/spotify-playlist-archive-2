@@ -4,7 +4,7 @@
 
 > Magic of acoustic poured into your Chai\. Cover \- Bhediya
 
-672 songs - 1 day 13 hr 35 min
+673 songs - 1 day 13 hr 40 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -240,6 +240,7 @@
 | [Jaan Da \(Rab Ki Dua\)](https://open.spotify.com/track/3BPckr3N2JP5gJogeKhA5w) | [Shreya Ghoshal](https://open.spotify.com/artist/0oOet2f43PA68X5RxKobEy), [Shashwat Sachdev](https://open.spotify.com/artist/465OXuCU8YZNmVG1leLwQ9) | [Tejas \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/5Az61ohrjvnyHIccJj0qAt) | 4:27 | 2023-12-06 | 2024-01-09 |
 | [Jaane De](https://open.spotify.com/track/0R5j2VBVJ3FKpl72FZZhKJ) | [Aakash M.](https://open.spotify.com/artist/2UGEmBqXfvXhsqHZhM7YU2), [Ishan Krishan](https://open.spotify.com/artist/3a00s1dpBoSxGDi1tiVcTD) | [Jaane De](https://open.spotify.com/album/6TNOx8nr0fdrgYb4GrDqrN) | 3:45 | 2024-10-25 | 2025-04-12 |
 | [Jaane De](https://open.spotify.com/track/0S6wcmBlvyX2GUWuAHKdFp) | [Gaurav Chatterji](https://open.spotify.com/artist/2yC22iFmcNBOfauIctRvPT), [Hansika Pareek](https://open.spotify.com/artist/0RVfcqug2nB820dxIGycIW), [Ginny Diwan](https://open.spotify.com/artist/4EZ6GDVebknxx5Funcp0X2) | [CO\-ED \(Soundtrack from the series\)](https://open.spotify.com/album/668bPHbwQ9LyYC3CDvNTI4) | 2:16 | 2025-11-14 | 2026-01-15 |
+| [Jaane Do](https://open.spotify.com/track/2HiXOHE3bXvon1olnpqiAz) | [Fiddlecraft](https://open.spotify.com/artist/0xhbB0DrR0MnaU1ynq4itU) | [Jaane Do](https://open.spotify.com/album/4z7AxUbqrElx1HsVTFGm6z) | 4:49 | 2026-11-25 |  |
 | [Jaane Jaan](https://open.spotify.com/track/10JvykekC3vfnHgLQFrmeF) | [Mohnish Gaikawad](https://open.spotify.com/artist/5ZnbId45CYwKtirU6tMOQT) | [Jaane Jaan](https://open.spotify.com/album/2vOsKeMzaj11HZTh4bSNdk) | 3:22 | 2026-06-11 | 2026-07-22 |
 | [Jaane Kahan Ghum Tum](https://open.spotify.com/track/1SQlCcrCz3cC9rP7IvW9pj) | [Akash Kaushal](https://open.spotify.com/artist/3DzwTairO8yX0Ik8OT0T84) | [Jaane Kahan Ghum Tum](https://open.spotify.com/album/6KWVNcow6n4l3NRkRuWFzS) | 2:41 | 2024-10-21 | 2025-03-22 |
 | [Jaane Kya Baat Hai](https://open.spotify.com/track/5tiV8nUAsGczrg3LNMohpQ) | [Aditya Kambhampati](https://open.spotify.com/artist/00dVKOZFv0XpCJCunfFWEE) | [Jaane Kya Baat Hai](https://open.spotify.com/album/3acWR5o4Ugsy7P7dQluxVS) | 3:57 | 2024-08-18 | 2024-09-21 |
@@ -428,7 +429,7 @@
 | [nadaaniyan \(with Jonita Gandhi\)](https://open.spotify.com/track/3bCtOEC3jLaxwpfQMb5f68) | [Akshath](https://open.spotify.com/artist/35XjIi7RK4ckjgBrE6CcQo), [Jonita Gandhi](https://open.spotify.com/artist/00sCATpEvwH48ays7PlQFU) | [nadaaniyan \(with Jonita Gandhi\)](https://open.spotify.com/album/7CzvCp9WP896ZTH2JZpbLD) | 2:51 | 2024-09-29 | 2025-01-18 |
 | [Nai Lagda](https://open.spotify.com/track/6CfBIO3VC5zVybvTf6zH2V) | [Ajayank](https://open.spotify.com/artist/6FSvAGhOgbsfufcDYeau6o) | [Nai Lagda](https://open.spotify.com/album/6g39saDUux7Pe1wZLdcoR1) | 2:24 | 2023-09-22 | 2023-11-16 |
 | [Naina \- Nikhil Iyer Version](https://open.spotify.com/track/3oVJR216rCSTYM2AGjApvm) | [Pritam](https://open.spotify.com/artist/1wRPtKGflJrBx9BmLsSwlU), [Nikhil Iyer](https://open.spotify.com/artist/0CqiR40fzUCsCK5Llk6Bek), [Amitabh Bhattacharya](https://open.spotify.com/artist/2fMqTqiTxUDlmcOEPaQSsx) | [Naina \- Nikhil Iyer Version](https://open.spotify.com/album/23WOcmXXvvoDJ4fL6wkY0j) | 3:06 | 2025-01-31 | 2025-02-15 |
-| [Naina Saavan \- Reprise](https://open.spotify.com/track/60E6ahAL4ANvC4lvbOjUFP) | [KhoslaRaghu](https://open.spotify.com/artist/20tfEk8GA9lO1i0cZsslKS), [Kavita Seth](https://open.spotify.com/artist/3nQ125TJobosBH446Dsvvv) | [Naina Saavan \- Reprise](https://open.spotify.com/album/7dDWVIsPi87MBQ8IJtXQIk) | 4:22 | 2026-11-13 |  |
+| [Naina Saavan \- Reprise](https://open.spotify.com/track/60E6ahAL4ANvC4lvbOjUFP) | [KhoslaRaghu](https://open.spotify.com/artist/20tfEk8GA9lO1i0cZsslKS), [Kavita Seth](https://open.spotify.com/artist/3nQ125TJobosBH446Dsvvv) | [Naina Saavan \- Reprise](https://open.spotify.com/album/7dDWVIsPi87MBQ8IJtXQIk) | 4:22 | 2026-11-13 | 2026-11-25 |
 | [Nami Danam](https://open.spotify.com/track/21zVuAAjqefWyA27NWZTiY) | [Aditya Kambhampati](https://open.spotify.com/artist/00dVKOZFv0XpCJCunfFWEE) | [Nami Danam](https://open.spotify.com/album/1bVfwBHWZ7XEYBO4oottGQ) | 4:51 | 2023-07-19 | 2023-08-03 |
 | [Naraziyaan](https://open.spotify.com/track/5VReUwAENOtHpdgbn49JdX) | [Gursheet Khanuja](https://open.spotify.com/artist/6cGG5aDa7RjUOWbqMVlh66), [Geetesh Yadav](https://open.spotify.com/artist/2LPKu6MxNC5SRxeiHqRMrm) | [Naraziyaan](https://open.spotify.com/album/77uXObF1PN1q4HW7i1HoNJ) | 3:38 | 2024-12-04 |  |
 | [Naya Jahaan \- Stripped](https://open.spotify.com/track/3OUmQlsuMxUxcapjTotHMB) | [Ashwin Adwani](https://open.spotify.com/artist/5kiwICyQNDmCtwOPLvgY04) | [Naya Jahaan \- Stripped](https://open.spotify.com/album/6V61uR9ixr8BOxYo84Xso3) | 2:15 | 2023-08-30 | 2024-02-21 |

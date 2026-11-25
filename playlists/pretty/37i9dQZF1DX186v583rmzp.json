@@ -1,12 +1,12 @@
 {
   "description": "Real rap music from the golden era.\n",
-  "num_followers": 9393926,
+  "num_followers": 9394222,
   "original_name": "I Love My '90s Hip-Hop",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAABOEnco9CBmBU2zVIHu+9uWuYFYR",
+  "snapshot_id": "AAAAAMsIR89uRDIq6H6psucmtEcotfK0",
   "tracks": [
     {
       "added_at": "2024-06-28 10:14:13",
@@ -1159,6 +1159,22 @@
     {
       "added_at": "2024-06-28 10:14:13",
       "album": {
+        "name": "The Miseducation of Lauryn Hill",
+        "url": "https://open.spotify.com/album/1BZoqf8Zje5nGdwZhOjAtD"
+      },
+      "artists": [
+        {
+          "name": "Ms. Lauryn Hill",
+          "url": "https://open.spotify.com/artist/2Mu5NfyYm8n5iTomuKAEHl"
+        }
+      ],
+      "duration_ms": 333906,
+      "name": "Lost Ones",
+      "url": "https://open.spotify.com/track/71XhXay6rKPZCVAaDtFlSR"
+    },
+    {
+      "added_at": "2024-06-28 10:14:13",
+      "album": {
         "name": "Regulate\u2026 G Funk Era",
         "url": "https://open.spotify.com/album/2VMGv3inRLPM4GOMXf37qu"
       },
@@ -1175,22 +1191,6 @@
       "duration_ms": 203026,
       "name": "This D.J.",
       "url": "https://open.spotify.com/track/2ImuQo1g14CTR9hZAZD3aQ"
-    },
-    {
-      "added_at": "2024-06-28 10:14:13",
-      "album": {
-        "name": "The Miseducation of Lauryn Hill",
-        "url": "https://open.spotify.com/album/1BZoqf8Zje5nGdwZhOjAtD"
-      },
-      "artists": [
-        {
-          "name": "Ms. Lauryn Hill",
-          "url": "https://open.spotify.com/artist/2Mu5NfyYm8n5iTomuKAEHl"
-        }
-      ],
-      "duration_ms": 333906,
-      "name": "Lost Ones",
-      "url": "https://open.spotify.com/track/71XhXay6rKPZCVAaDtFlSR"
     },
     {
       "added_at": "2024-06-28 10:14:13",
@@ -1239,6 +1239,22 @@
     {
       "added_at": "2024-06-28 10:14:13",
       "album": {
+        "name": "Murda Muzik",
+        "url": "https://open.spotify.com/album/25NNQGZBd9oLAO1xTeq5oQ"
+      },
+      "artists": [
+        {
+          "name": "Mobb Deep",
+          "url": "https://open.spotify.com/artist/6O2zJ0tId7g07yzHtX0yap"
+        }
+      ],
+      "duration_ms": 265493,
+      "name": "Quiet Storm",
+      "url": "https://open.spotify.com/track/6nwAubYnLGl7F7cDuOoVLp"
+    },
+    {
+      "added_at": "2024-06-28 10:14:13",
+      "album": {
         "name": "Ill Na Na",
         "url": "https://open.spotify.com/album/6qLC4weRVEetELyQQgkAMk"
       },
@@ -1255,22 +1271,6 @@
       "duration_ms": 229400,
       "name": "Get Me Home",
       "url": "https://open.spotify.com/track/6Xo9osN1HErsEJoqwj4eDg"
-    },
-    {
-      "added_at": "2024-06-28 10:14:13",
-      "album": {
-        "name": "Murda Muzik",
-        "url": "https://open.spotify.com/album/25NNQGZBd9oLAO1xTeq5oQ"
-      },
-      "artists": [
-        {
-          "name": "Mobb Deep",
-          "url": "https://open.spotify.com/artist/6O2zJ0tId7g07yzHtX0yap"
-        }
-      ],
-      "duration_ms": 265493,
-      "name": "Quiet Storm",
-      "url": "https://open.spotify.com/track/6nwAubYnLGl7F7cDuOoVLp"
     },
     {
       "added_at": "2024-06-28 10:14:13",
@@ -1451,6 +1451,22 @@
     {
       "added_at": "2024-06-28 10:14:13",
       "album": {
+        "name": "Southernplayalisticadillacmuzik",
+        "url": "https://open.spotify.com/album/3l5AwLKqQ42VJbc5lTuP8G"
+      },
+      "artists": [
+        {
+          "name": "Outkast",
+          "url": "https://open.spotify.com/artist/1G9G7WwrXka3Z1r7aIDjI7"
+        }
+      ],
+      "duration_ms": 261266,
+      "name": "Player's Ball",
+      "url": "https://open.spotify.com/track/1RXEb6UTxJ05RffnAWfUOE"
+    },
+    {
+      "added_at": "2024-06-28 10:14:13",
+      "album": {
         "name": "He Got Game (Soundtrack)",
         "url": "https://open.spotify.com/album/265OEkRcX40ppxgHGuu4cI"
       },
@@ -1467,22 +1483,6 @@
       "duration_ms": 286200,
       "name": "He Got Game",
       "url": "https://open.spotify.com/track/7aRGb3vZGMLNpK2PEdUjdA"
-    },
-    {
-      "added_at": "2024-06-28 10:14:13",
-      "album": {
-        "name": "Southernplayalisticadillacmuzik",
-        "url": "https://open.spotify.com/album/3l5AwLKqQ42VJbc5lTuP8G"
-      },
-      "artists": [
-        {
-          "name": "Outkast",
-          "url": "https://open.spotify.com/artist/1G9G7WwrXka3Z1r7aIDjI7"
-        }
-      ],
-      "duration_ms": 261266,
-      "name": "Player's Ball",
-      "url": "https://open.spotify.com/track/1RXEb6UTxJ05RffnAWfUOE"
     },
     {
       "added_at": "2024-06-28 10:14:13",
@@ -1559,22 +1559,6 @@
     {
       "added_at": "2024-06-28 10:14:13",
       "album": {
-        "name": "Kollage",
-        "url": "https://open.spotify.com/album/4ioG1W3KU4WBhYlwEBp7BA"
-      },
-      "artists": [
-        {
-          "name": "Bahamadia",
-          "url": "https://open.spotify.com/artist/6ZcRUVs3I5U8EOnm9ZdCsO"
-        }
-      ],
-      "duration_ms": 214866,
-      "name": "Uknowhowwedu",
-      "url": "https://open.spotify.com/track/5KapB9KJnRsZrprzIAXycW"
-    },
-    {
-      "added_at": "2024-06-28 10:14:13",
-      "album": {
         "name": "ATLiens",
         "url": "https://open.spotify.com/album/1IaBCF26OjgYwUCEPaIyC0"
       },
@@ -1591,18 +1575,18 @@
     {
       "added_at": "2024-06-28 10:14:13",
       "album": {
-        "name": "Extended Revolution",
-        "url": "https://open.spotify.com/album/3b8DtdLKq4oD6e1DLQUgBU"
+        "name": "Kollage",
+        "url": "https://open.spotify.com/album/4ioG1W3KU4WBhYlwEBp7BA"
       },
       "artists": [
         {
-          "name": "Arrested Development",
-          "url": "https://open.spotify.com/artist/5Va9LuEmaZxnbk1gMnjMD7"
+          "name": "Bahamadia",
+          "url": "https://open.spotify.com/artist/6ZcRUVs3I5U8EOnm9ZdCsO"
         }
       ],
-      "duration_ms": 298773,
-      "name": "People Everyday - Metamorphosis Mix",
-      "url": "https://open.spotify.com/track/1nSUJWYRqsafI8Bh1X0ypp"
+      "duration_ms": 214866,
+      "name": "Uknowhowwedu",
+      "url": "https://open.spotify.com/track/5KapB9KJnRsZrprzIAXycW"
     },
     {
       "added_at": "2024-06-28 10:14:13",
@@ -1619,6 +1603,22 @@
       "duration_ms": 289906,
       "name": "Step into a World (Rapture's Delight)",
       "url": "https://open.spotify.com/track/5xXL4i9L2ZbKBtENNh8fWY"
+    },
+    {
+      "added_at": "2024-06-28 10:14:13",
+      "album": {
+        "name": "Extended Revolution",
+        "url": "https://open.spotify.com/album/3b8DtdLKq4oD6e1DLQUgBU"
+      },
+      "artists": [
+        {
+          "name": "Arrested Development",
+          "url": "https://open.spotify.com/artist/5Va9LuEmaZxnbk1gMnjMD7"
+        }
+      ],
+      "duration_ms": 298773,
+      "name": "People Everyday - Metamorphosis Mix",
+      "url": "https://open.spotify.com/track/1nSUJWYRqsafI8Bh1X0ypp"
     },
     {
       "added_at": "2024-06-28 10:14:13",
@@ -1671,34 +1671,6 @@
     {
       "added_at": "2024-06-28 10:14:13",
       "album": {
-        "name": "Wyclef Jean presents The Carnival featuring Refugee Allstars (feat. Refugee All Stars)",
-        "url": "https://open.spotify.com/album/0JMmTZJ26G0QekIeSpcplU"
-      },
-      "artists": [
-        {
-          "name": "Wyclef Jean",
-          "url": "https://open.spotify.com/artist/7aBzpmFXB4WWpPl2F7RjBe"
-        },
-        {
-          "name": "Ms. Lauryn Hill",
-          "url": "https://open.spotify.com/artist/2Mu5NfyYm8n5iTomuKAEHl"
-        },
-        {
-          "name": "Celia Cruz",
-          "url": "https://open.spotify.com/artist/2weA6hhVqTIN2gSn9PUB9U"
-        },
-        {
-          "name": "Jeni Fujita",
-          "url": "https://open.spotify.com/artist/4jispKkgFHkoH9imP874K2"
-        }
-      ],
-      "duration_ms": 270493,
-      "name": "Guantanamera (feat. Ms. Lauryn Hill, Celia Cruz & Jeni Fujita)",
-      "url": "https://open.spotify.com/track/6g5ov3aSDUvvDkQKIcmZQI"
-    },
-    {
-      "added_at": "2024-06-28 10:14:13",
-      "album": {
         "name": "ATLiens",
         "url": "https://open.spotify.com/album/1IaBCF26OjgYwUCEPaIyC0"
       },
@@ -1731,6 +1703,34 @@
       "duration_ms": 254253,
       "name": "Money Ain't a Thang (feat. JA\u0178-Z)",
       "url": "https://open.spotify.com/track/12LjNmRrdzhTn1vMcxN81m"
+    },
+    {
+      "added_at": "2024-06-28 10:14:13",
+      "album": {
+        "name": "Wyclef Jean presents The Carnival featuring Refugee Allstars (feat. Refugee All Stars)",
+        "url": "https://open.spotify.com/album/0JMmTZJ26G0QekIeSpcplU"
+      },
+      "artists": [
+        {
+          "name": "Wyclef Jean",
+          "url": "https://open.spotify.com/artist/7aBzpmFXB4WWpPl2F7RjBe"
+        },
+        {
+          "name": "Ms. Lauryn Hill",
+          "url": "https://open.spotify.com/artist/2Mu5NfyYm8n5iTomuKAEHl"
+        },
+        {
+          "name": "Celia Cruz",
+          "url": "https://open.spotify.com/artist/2weA6hhVqTIN2gSn9PUB9U"
+        },
+        {
+          "name": "Jeni Fujita",
+          "url": "https://open.spotify.com/artist/4jispKkgFHkoH9imP874K2"
+        }
+      ],
+      "duration_ms": 270493,
+      "name": "Guantanamera (feat. Ms. Lauryn Hill, Celia Cruz & Jeni Fujita)",
+      "url": "https://open.spotify.com/track/6g5ov3aSDUvvDkQKIcmZQI"
     },
     {
       "added_at": "2024-06-28 10:14:13",

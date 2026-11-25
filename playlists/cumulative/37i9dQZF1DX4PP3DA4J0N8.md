@@ -4,7 +4,7 @@
 
 > Sounds of birds, rain, and forest ambience.
 
-246 songs - 11 hr 44 min
+246 songs - 11 hr 45 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -59,7 +59,7 @@
 | [Bustling River Sounds](https://open.spotify.com/track/5j5HMHeNbSDzVU9eEgZzUI) | [Rivers and Streams](https://open.spotify.com/artist/6NYAxBsKdDH00qCDvcFdA7) | [Soothing River Sounds](https://open.spotify.com/album/7HqcInonH7fXgJ83uyAAap) | 2:50 | 2022-03-25 |  |
 | [Calm Forest Water](https://open.spotify.com/track/35byLuPZqmmsYM9U1hubfS) | [Sleep Sounds of Nature](https://open.spotify.com/artist/59FRAcMcsHQupc8lupy5uH) | [Forest of Tranquility](https://open.spotify.com/album/0rJxtAj8SOB3P5gST1XQOn) | 3:38 | 2022-03-25 | 2022-04-29 |
 | [Calm Summer Dusk at the Farm](https://open.spotify.com/track/5NQf4rqKwhCAjxybZZnxvM) | [Jan Berliner](https://open.spotify.com/artist/0iWEhQN4crcKwSpJsVDWz0) | [Calm Summer Dusk at the Farm](https://open.spotify.com/album/3SGRixB5ozgLvZgstXHdk1) | 2:30 | 2025-07-21 |  |
-| [Calming Creek](https://open.spotify.com/track/5R113kfoXvoFBlIPpUUuRd) | [EFX Mirelight](https://open.spotify.com/artist/1xC1qS9lztnzURXtrrXFuv) | [Calm Green Wave Sounds](https://open.spotify.com/album/6bx52OyqGSwW8oCpooPjTT) | 1:44 | 2026-04-02 |  |
+| [Calming Creek](https://open.spotify.com/track/5R113kfoXvoFBlIPpUUuRd) | [EFX Mirelight](https://open.spotify.com/artist/1xC1qS9lztnzURXtrrXFuv) | [Calm Green Wave Sounds](https://open.spotify.com/album/6bx52OyqGSwW8oCpooPjTT) | 2:17 | 2026-04-02 |  |
 | [Calming Forest Sound](https://open.spotify.com/track/5QzFhfsgLVN9UKyfGV3RH9) | [The Sleep Specialist](https://open.spotify.com/artist/3TWBaLqcB1lbb3LhLwAayN) | [Jungle And Forest Sounds](https://open.spotify.com/album/3TRoUn8OKRVUcbprXmyGgj) | 3:55 | 2022-03-25 | 2023-09-21 |
 | [Calming Water Noise](https://open.spotify.com/track/0X7LWNqMNDZTG3mWg1tmAK) | [Amsonia Star](https://open.spotify.com/artist/3qlVZpNlhxCVf5xIuDd7kL) | [Calming Water Noise](https://open.spotify.com/album/0cOplbgtR7MRa1zUJf3Sck) | 2:45 | 2026-04-02 |  |
 | [Calming Wave Sound](https://open.spotify.com/track/4lX2tuWNd6wUJqBnywOViu) | [Catching Sleep](https://open.spotify.com/artist/6qsH16CZ8j8s0RWRlgjyW2) | [Water Sounds](https://open.spotify.com/album/1Fx0PVCZ7pDj3nvoLHHepW) | 3:50 | 2022-03-25 | 2024-03-27 |
@@ -91,7 +91,7 @@
 | [Forest Birdsong and Creek Ambience](https://open.spotify.com/track/15zAHhAQo5mwWPd2hzdwD0) | [Wildlife Recordings](https://open.spotify.com/artist/5ThzopcohI3EiXV3SepU88) | [Serenity in the Forest](https://open.spotify.com/album/5AqBJV6QOmNdinaudsB4gE) | 3:56 | 2023-09-20 |  |
 | [Forest Meditation](https://open.spotify.com/track/5Gs8yP4p8ccqfZun4xmxgR) | [Manaus](https://open.spotify.com/artist/4PEdVfSTHbwmgqD5mQOqjF) | [Into the Wild](https://open.spotify.com/album/0W83Q53upb4RyRQ62vTF20) | 3:28 | 2022-03-25 |  |
 | [Forest of Calamity](https://open.spotify.com/track/1ZOWaxy3FBZd10a2YTqIYD) | [FX Makers](https://open.spotify.com/artist/5j2ANnt53Y0hmAplt6lF57) | [Nature](https://open.spotify.com/album/01cbQN8XXD53sRV31mpARQ) | 3:05 | 2022-03-25 | 2024-03-27 |
-| [Forest Path Rain](https://open.spotify.com/track/71XK20gRx6drD3M2VIH1q0) | [Hayden Ball](https://open.spotify.com/artist/3QxIQABLndsIIpNMwllbGs) | [Soft Rain](https://open.spotify.com/album/5n24EJXwP5gq45z1kSYeJ4) | 1:47 | 2026-04-02 |  |
+| [Forest Path Rain](https://open.spotify.com/track/71XK20gRx6drD3M2VIH1q0) | [Hayden Ball](https://open.spotify.com/artist/3QxIQABLndsIIpNMwllbGs) | [Soft Rain](https://open.spotify.com/album/5n24EJXwP5gq45z1kSYeJ4) | 2:04 | 2026-04-02 |  |
 | [Forest Rain](https://open.spotify.com/track/2n7vvFy4edfrU5UpwZ1eEe) | [Nature Sounds](https://open.spotify.com/artist/4NqS7DbPFYwZmniGHCPMpm) | [Rain Sounds](https://open.spotify.com/album/2nWxsiJq8vgap0VRl8ShGo) | 6:19 | 2022-03-25 | 2022-04-29 |
 | [Forest Rain](https://open.spotify.com/track/6RLIjFY6g8RHe55zE8Vk2v) | [Nordic Rain](https://open.spotify.com/artist/6c2zaxb47VSieJR0wLDLAg) | [Forest Rain](https://open.spotify.com/album/4XXNS5QBVcwtbuyqk3shJh) | 1:58 | 2022-03-25 | 2023-06-20 |
 | [Forest Rain](https://open.spotify.com/track/6ADPydLM8fmi6fjO9ZXAb8) | [Rain Recordings](https://open.spotify.com/artist/0K4qycWYB7fwNMvrtS9lID) | [Peaceful Rain Recordings](https://open.spotify.com/album/4DlF8SX13AdB37uKVgMziM) | 2:50 | 2022-03-25 | 2023-09-21 |
@@ -248,7 +248,7 @@
 | [Whispering Trees and Babbling Brook](https://open.spotify.com/track/0SYnQvruMZppHDRaT9cK6k) | [Forest Sounds FX](https://open.spotify.com/artist/2S9zyoMbNGC3091mDUa7jF) | [Serene Forest Ambience](https://open.spotify.com/album/3c2hy7hLvWrYylWdIjkewS) | 1:40 | 2023-09-20 | 2023-10-12 |
 | [Wildlife Paradise](https://open.spotify.com/track/4qcjA5Vy7HwEmgkFPbt51A) | [Shorenights](https://open.spotify.com/artist/5LG3LsvrCVe6h2BVrcaqc1) | [Circle of Earth](https://open.spotify.com/album/3Gu9YgsqlLILMcW5k30exE) | 2:47 | 2022-04-29 |  |
 | [Wildwood Meditation](https://open.spotify.com/track/3h2KfUN6qMnM85VxTVyx1t) | [Outside HD Samples](https://open.spotify.com/artist/0puqEYQUnviYjUyomzF5rJ) | [Relaxing Forest Harmony](https://open.spotify.com/album/1ipaOQEUmzSMJGC7xvOQ81) | 3:56 | 2023-09-20 | 2026-04-14 |
-| [Wind My Waterfall](https://open.spotify.com/track/5v7R6BktiMgdeBfTfy8Sqy) | [El Tiempo Central](https://open.spotify.com/artist/2jrgRXoeKU9D8qrOcnS9fZ) | [Noise of Green](https://open.spotify.com/album/3Wb2WiFkdvJMoAu4BS46YL) | 1:56 | 2026-04-02 |  |
+| [Wind My Waterfall](https://open.spotify.com/track/5v7R6BktiMgdeBfTfy8Sqy) | [El Tiempo Central](https://open.spotify.com/artist/2jrgRXoeKU9D8qrOcnS9fZ) | [Noise of Green](https://open.spotify.com/album/3Wb2WiFkdvJMoAu4BS46YL) | 2:22 | 2026-04-02 |  |
 | [Windy Green Noise](https://open.spotify.com/track/7vTHgLyabM4wWJDy6S81d1) | [Contented](https://open.spotify.com/artist/5MxzFMVa5rVuZ08lD4gDNP) | [Windy Green Noise](https://open.spotify.com/album/0UaYMl1fr54ct0cZe8Z8g7) | 2:30 | 2025-07-21 |  |
 | [With Gentle Forest Sounds I](https://open.spotify.com/track/76pDWgR9MSvLAUvRz51R7n) | [Relaxing The Mind](https://open.spotify.com/artist/44wFi6rFvY5u6U69UNnwSr) | [With Gentle Forest Sounds I](https://open.spotify.com/album/57c9YKnCRzzG2iLTiVKq5k) | 2:38 | 2025-11-11 | 2026-11-23 |
 | [Woodland Drops](https://open.spotify.com/track/6yHL4GvpL9m5JqToTuG014) | [Trenti](https://open.spotify.com/artist/1CiKilOYR8hGycGa1yxU53) | [Woodland Drops](https://open.spotify.com/album/716VqOhfwuYQ8dwRpudU2d) | 2:18 | 2026-04-02 |  |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9BPHmsKo7pf.md) - [plain]
 
 > Cele mai de succes 50 de hituri în România\. Cover: Tzanca Uraganu
 
-[Spotify](https://open.spotify.com/user/spotify) - 128,259 likes - 50 songs - 2 hr 19 min
+[Spotify](https://open.spotify.com/user/spotify) - 128,243 likes - 50 songs - 2 hr 19 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9BPHmsKo7pf.md) - [plain]
 | 49 | [O să regreți](https://open.spotify.com/track/1RK4fhDFMGqndDf05EivR3) | [MADATORRICELLI](https://open.spotify.com/artist/4y2uMVYqHq7SlTTfBQpdsJ), [Alex Bittman](https://open.spotify.com/artist/7bUZ8Ldf1LQgtmRAC8jzZA) | [O să regreți](https://open.spotify.com/album/50mi0Zgpsu7y9RVUXHI2Qn) | 3:21 |
 | 50 | [Mă sună nebunele](https://open.spotify.com/track/14WRFJcCJpyQnPAj4hv7O7) | [Lazy Ed](https://open.spotify.com/artist/23l5vFzRRC5iUKVCH2eb4T) | [Mă sună nebunele](https://open.spotify.com/album/4N4PLJa3NezmNCZugWYRqN) | 3:09 |
 
-Snapshot ID: `AAAAALxTsRPIOG+0V6dxpWyuQKaVaSr9`
+Snapshot ID: `AAAAAIqbePiYTHiOvJl7uvXotmLreDmM`

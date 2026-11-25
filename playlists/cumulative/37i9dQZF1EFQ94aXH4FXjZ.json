@@ -442,10 +442,28 @@
       ],
       "date_added": "2024-09-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-25",
       "duration_ms": 144320,
       "name": "Cyrano",
       "url": "https://open.spotify.com/track/6grvN3lNCObZ1GtJxfhIjv"
+    },
+    {
+      "album": {
+        "name": "'74",
+        "url": "https://open.spotify.com/album/6CnfWimlgoHT2f9uvaa3Is"
+      },
+      "artists": [
+        {
+          "name": "Josef Laufer",
+          "url": "https://open.spotify.com/artist/1ycbXRESTBNZhT1SCYuajT"
+        }
+      ],
+      "date_added": "2026-11-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 144522,
+      "name": "Cyrano",
+      "url": "https://open.spotify.com/track/7BotaUWHckgwI0wcw90qjU"
     },
     {
       "album": {
@@ -604,7 +622,7 @@
       ],
       "date_added": "2025-12-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-25",
       "duration_ms": 222842,
       "name": "Easter Island",
       "url": "https://open.spotify.com/track/4oaPOlfQUPPJyD4PK3DQol"
@@ -1668,7 +1686,7 @@
       ],
       "date_added": "2024-09-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-25",
       "duration_ms": 220813,
       "name": "Lay Me Down and Love the World Away",
       "url": "https://open.spotify.com/track/1WR4O0dabcwveNq63kykmd"

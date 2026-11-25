@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTbzY5gOVvKd.md) - [plain]
 
 > Jazzy love songs\. Cover: Lady Gaga & Tony Bennett
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,300,732 likes - 100 songs - 6 hr 57 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,300,734 likes - 100 songs - 6 hr 57 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -28,8 +28,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTbzY5gOVvKd.md) - [plain]
 | 18 | [Save Your Love For Me](https://open.spotify.com/track/4gx7UBlipR1ZAkJq2d36Mr) | [Eliane Elias](https://open.spotify.com/artist/4qKIiUdFND09cgGOc5kfoR) | [Around The City](https://open.spotify.com/album/2kbn1xuLBYfxgsZbaIxzGO) | 4:00 |
 | 19 | [Love Song](https://open.spotify.com/track/5Kl1fxp9mTCwtqDaxfDV7i) | [Melody Gardot](https://open.spotify.com/artist/2P1puQXmG48EVLBrHbum1J), [Ibrahim Maalouf](https://open.spotify.com/artist/0NSO0g40h9CTj13hKPskeb) | [Sunset In The Blue \(Deluxe Version\)](https://open.spotify.com/album/7vSwamY5i4hhnRSnpyLsAx) | 5:25 |
 | 20 | [Love Is Here To Stay](https://open.spotify.com/track/2bUK1EW5FPfpNDLO42XKqV) | [Curtis Stigers](https://open.spotify.com/artist/2bNtosg6E8tvmN6wYxPCfu) | [Hooray For Love](https://open.spotify.com/album/6LrheEX4HOEDjAh5oj4Q9c) | 4:19 |
-| 21 | [Sweet Pea](https://open.spotify.com/track/5QyNvhoW9N0xzrzc5uNZKc) | [The Hot Sardines](https://open.spotify.com/artist/7zIBiD6dJ7x0a6BPND2fIy) | [French Fries & Champagne](https://open.spotify.com/album/3heL0BxCl4Ts7IhS0NRYSv) | 2:21 |
-| 22 | [I'm In The Mood For Love](https://open.spotify.com/track/7s5Xd6BLaZfkr6C3tgR4Ow) | [Rod Stewart](https://open.spotify.com/artist/2y8Jo9CKhJvtfeKOsYzRdT) | [The Complete Great American Songbook](https://open.spotify.com/album/3xUOObdRU9f2wblHafYx0j) | 3:06 |
+| 21 | [I'm In The Mood For Love](https://open.spotify.com/track/7s5Xd6BLaZfkr6C3tgR4Ow) | [Rod Stewart](https://open.spotify.com/artist/2y8Jo9CKhJvtfeKOsYzRdT) | [The Complete Great American Songbook](https://open.spotify.com/album/3xUOObdRU9f2wblHafYx0j) | 3:06 |
+| 22 | [Sweet Pea](https://open.spotify.com/track/5QyNvhoW9N0xzrzc5uNZKc) | [The Hot Sardines](https://open.spotify.com/artist/7zIBiD6dJ7x0a6BPND2fIy) | [French Fries & Champagne](https://open.spotify.com/album/3heL0BxCl4Ts7IhS0NRYSv) | 2:21 |
 | 23 | [Sunday Kind of Love](https://open.spotify.com/track/6XmN8QIxuZt8ljcnaPmhOM) | [Steve Tyrell](https://open.spotify.com/artist/2UPnuV7os71xTZTyyEgj1B) | [A Song For You](https://open.spotify.com/album/2NIzfZC51PFLLiqu9irt51) | 3:31 |
 | 24 | [Till There Was You](https://open.spotify.com/track/2BlGZP9Ovr6hju08EAl61C) | [Stella Cole](https://open.spotify.com/artist/1JV6ZltofPUo3j5CTALYRR) | [Till There Was You](https://open.spotify.com/album/1ktcqUmXkPDHw8jzRJElAR) | 3:53 |
 | 25 | [Someone to Watch Over Me](https://open.spotify.com/track/4prCm5SggdmrG7recE4Eqo) | [Itzhak Perlman](https://open.spotify.com/artist/0hIG9FXgjQxT8fKaYceFbA), [Ella Fitzgerald](https://open.spotify.com/artist/5V0MlUE1Bft0mbLlND7FJz) | [Someone to Watch Over Me](https://open.spotify.com/album/0M0ZSXJGbqMQKjRnQrcIBc) | 4:14 |
@@ -40,8 +40,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTbzY5gOVvKd.md) - [plain]
 | 30 | [Come Rain or Come Shine \(with John Mayer\)](https://open.spotify.com/track/0eqjKiAEZgLSbwTMqyZI1c) | [Barbra Streisand](https://open.spotify.com/artist/7jmTilWYlKOuavFfmQAcu6), [John Mayer](https://open.spotify.com/artist/0hEurMDQu99nJRq8pTxO14) | [Partners \(Deluxe\)](https://open.spotify.com/album/0vpZmvUH5x2ByXTYtXB4mG) | 4:11 |
 | 31 | [I'm Glad There Is You](https://open.spotify.com/track/2o67aDSZ2ZNbA7mYdknL2B) | [Jamie Cullum](https://open.spotify.com/artist/3XxxEq6BREC57nCWXbQZ7o) | [Catching Tales](https://open.spotify.com/album/1QP3oxvk5vSyubgBWwJCTe) | 4:09 |
 | 32 | [A Time For Love](https://open.spotify.com/track/6kkYQ0DI1ZMQyuqNGCcZ09) | [Jane Monheit](https://open.spotify.com/artist/7rwI5cbw9cUKFVul2rZMiZ) | [Surrender](https://open.spotify.com/album/06z8lYccAx5xmQJgyq5niq) | 4:59 |
-| 33 | [That’s My Desire](https://open.spotify.com/track/76UAKQQF3AylDr39Sm9uY6) | [Beegie Adair](https://open.spotify.com/artist/5gYIhpLwCYoxh3V8KANZpI), [Ray Stevens](https://open.spotify.com/artist/7MpUvihmfilIxyN20kXwQj) | [Grover's Hat Project](https://open.spotify.com/album/03h6Ue9jM1mPnOpwx5PdE0) | 4:56 |
-| 34 | [My True Love Is You](https://open.spotify.com/track/4oXcpRZGwElyGPcIxLwvBC) | [Sarah McKenzie](https://open.spotify.com/artist/4HXtFN7bAZUp0GtsRRpzW2) | [Secrets of My Heart](https://open.spotify.com/album/086KHW1DUXz3QssYk3qXZ5) | 3:12 |
+| 33 | [My True Love Is You](https://open.spotify.com/track/4oXcpRZGwElyGPcIxLwvBC) | [Sarah McKenzie](https://open.spotify.com/artist/4HXtFN7bAZUp0GtsRRpzW2) | [Secrets of My Heart](https://open.spotify.com/album/086KHW1DUXz3QssYk3qXZ5) | 3:12 |
+| 34 | [That’s My Desire](https://open.spotify.com/track/76UAKQQF3AylDr39Sm9uY6) | [Beegie Adair](https://open.spotify.com/artist/5gYIhpLwCYoxh3V8KANZpI), [Ray Stevens](https://open.spotify.com/artist/7MpUvihmfilIxyN20kXwQj) | [Grover's Hat Project](https://open.spotify.com/album/03h6Ue9jM1mPnOpwx5PdE0) | 4:56 |
 | 35 | [Keep Me From The Cold](https://open.spotify.com/track/7nTc8LOMcVoYJAbhV9dD2z) | [Curtis Stigers](https://open.spotify.com/artist/2bNtosg6E8tvmN6wYxPCfu) | [Keep Me From The Cold](https://open.spotify.com/album/4Y9uQddBrMS2hj3r2kXHOv) | 4:43 |
 | 36 | [Blue Moon](https://open.spotify.com/track/5qwcaOKZbXMze0ChEL4MsX) | [Jaimee Paul](https://open.spotify.com/artist/09VxnBvEC5lDFLmMkEYOmr), [Andre Reiss](https://open.spotify.com/artist/1O4RYTCy8m5JgaPpxytDDE), [Pat Coil](https://open.spotify.com/artist/2B8UFlcrZdKZD5qV83m503), [Jacob Jezioro](https://open.spotify.com/artist/2LItgcmlHsUt6BikoXc1Df), [Danny Gottlieb](https://open.spotify.com/artist/29aflj7NM4ocg7fMqbhifM) | [The Richard Rodgers Songbook](https://open.spotify.com/album/2nsWi2RA4XDmgOuuMKW87h) | 3:27 |
 | 37 | [My Romance](https://open.spotify.com/track/7MXRZcyPLQfq6JUm1bnQ1V) | [Tony Bennett](https://open.spotify.com/artist/2lolQgalUvZDfp5vvVtTYV) | [Sings The Rodgers & Hart Songbook](https://open.spotify.com/album/7Jqbp0XnGbsBjpPPcwSzcN) | 3:42 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTbzY5gOVvKd.md) - [plain]
 | 99 | [A Sunday Kind Of Love](https://open.spotify.com/track/27zwk7cQ2s6sM3tiYgGVsF) | [Ruth Cameron](https://open.spotify.com/artist/6xU3elxz1hWVmeToFlgB0v) | [Roadhouse](https://open.spotify.com/album/1GHLXZszNeMFgHiolSg50f) | 4:52 |
 | 100 | [But Beautiful](https://open.spotify.com/track/7mOnmZ2OWGfNMXEBIf3aUS) | [Mandy Barnett](https://open.spotify.com/artist/1dueb4USSa0IBdtDolg4pO) | [Every Star Above](https://open.spotify.com/album/7EptFOAT6xWnPWJa9vDt4t) | 3:55 |
 
-Snapshot ID: `AAAAADSUbAbxeG5zOE/OUGe2yA02BGVn`
+Snapshot ID: `AAAAAPD/D95gzhjR6iI49ryYGGOnIPDD`

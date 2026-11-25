@@ -1,12 +1,12 @@
 {
   "description": "This is BK. The essential tracks, all in one playlist.",
-  "num_followers": 115518,
+  "num_followers": 115545,
   "original_name": "This Is BK",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "awIwgAAAAACTfxOJSEOTV8Qf1LhNw3my",
+  "snapshot_id": "awOCAAAAAACYZEtuFxH8Q2CTejEvM5yD",
   "tracks": [
     {
       "added_at": null,
@@ -667,6 +667,26 @@
     {
       "added_at": null,
       "album": {
+        "name": "PRODUTO DO AMBIENTE",
+        "url": "https://open.spotify.com/album/3OB3nqd1Vm38NSTT4gC1gN"
+      },
+      "artists": [
+        {
+          "name": "BK",
+          "url": "https://open.spotify.com/artist/1YOVBTvznjiDvtAj4ExHeo"
+        },
+        {
+          "name": "Paulo DK",
+          "url": "https://open.spotify.com/artist/2Myk2DtqukZ93luvEncLEE"
+        }
+      ],
+      "duration_ms": 193941,
+      "name": "Morro Sem Voc\u00ea",
+      "url": "https://open.spotify.com/track/3ko6nPV1TnJIDj4PB1WXzS"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "ICARUS",
         "url": "https://open.spotify.com/album/1vNlE8yT5AAswQPy8jCHlV"
       },
@@ -691,26 +711,6 @@
       "duration_ms": 237941,
       "name": "Se eu n\u00e3o lembrar",
       "url": "https://open.spotify.com/track/7muDgXKZhU3qXR7ylkAXCq"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "PRODUTO DO AMBIENTE",
-        "url": "https://open.spotify.com/album/3OB3nqd1Vm38NSTT4gC1gN"
-      },
-      "artists": [
-        {
-          "name": "BK",
-          "url": "https://open.spotify.com/artist/1YOVBTvznjiDvtAj4ExHeo"
-        },
-        {
-          "name": "Paulo DK",
-          "url": "https://open.spotify.com/artist/2Myk2DtqukZ93luvEncLEE"
-        }
-      ],
-      "duration_ms": 193941,
-      "name": "Morro Sem Voc\u00ea",
-      "url": "https://open.spotify.com/track/3ko6nPV1TnJIDj4PB1WXzS"
     },
     {
       "added_at": null,
@@ -955,6 +955,26 @@
     {
       "added_at": null,
       "album": {
+        "name": "Gigantes",
+        "url": "https://open.spotify.com/album/6kjXPFw0BT3SdpWgHwjr32"
+      },
+      "artists": [
+        {
+          "name": "BK",
+          "url": "https://open.spotify.com/artist/1YOVBTvznjiDvtAj4ExHeo"
+        },
+        {
+          "name": "El Lif Beatz",
+          "url": "https://open.spotify.com/artist/0HBQtIkqXtoKagoPOgxK8k"
+        }
+      ],
+      "duration_ms": 294314,
+      "name": "Tit\u00e3s",
+      "url": "https://open.spotify.com/track/180D7ddndoKuifsdIthUPW"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Eu Odeio o Dia dos Namorados",
         "url": "https://open.spotify.com/album/1Ij4W57fdHldgasZl7HYPu"
       },
@@ -979,26 +999,6 @@
       "duration_ms": 203520,
       "name": "N\u00e3o Me Abandona",
       "url": "https://open.spotify.com/track/1Mq3sx9w4o26tUt4ThimhY"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Gigantes",
-        "url": "https://open.spotify.com/album/6kjXPFw0BT3SdpWgHwjr32"
-      },
-      "artists": [
-        {
-          "name": "BK",
-          "url": "https://open.spotify.com/artist/1YOVBTvznjiDvtAj4ExHeo"
-        },
-        {
-          "name": "El Lif Beatz",
-          "url": "https://open.spotify.com/artist/0HBQtIkqXtoKagoPOgxK8k"
-        }
-      ],
-      "duration_ms": 294314,
-      "name": "Tit\u00e3s",
-      "url": "https://open.spotify.com/track/180D7ddndoKuifsdIthUPW"
     },
     {
       "added_at": null,
@@ -1151,26 +1151,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "O L\u00edder em Movimento",
-        "url": "https://open.spotify.com/album/22qXEcma67stw3AZOaDWmq"
-      },
-      "artists": [
-        {
-          "name": "BK",
-          "url": "https://open.spotify.com/artist/1YOVBTvznjiDvtAj4ExHeo"
-        },
-        {
-          "name": "JXNV$",
-          "url": "https://open.spotify.com/artist/2eYGPD8O1chWmQ92TvdtCW"
-        }
-      ],
-      "duration_ms": 217044,
-      "name": "Pessoas",
-      "url": "https://open.spotify.com/track/5Iqv9gAh4aAyLFi9vUDLi0"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Cidade do Pecado",
         "url": "https://open.spotify.com/album/1ZVgAn5v8hT0V4dvvPligx"
       },
@@ -1191,6 +1171,26 @@
       "duration_ms": 217647,
       "name": "Para\u00edso Que Me Cerca",
       "url": "https://open.spotify.com/track/5UeZjPBEi6NW5HvHl4OTYW"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "O L\u00edder em Movimento",
+        "url": "https://open.spotify.com/album/22qXEcma67stw3AZOaDWmq"
+      },
+      "artists": [
+        {
+          "name": "BK",
+          "url": "https://open.spotify.com/artist/1YOVBTvznjiDvtAj4ExHeo"
+        },
+        {
+          "name": "JXNV$",
+          "url": "https://open.spotify.com/artist/2eYGPD8O1chWmQ92TvdtCW"
+        }
+      ],
+      "duration_ms": 217044,
+      "name": "Pessoas",
+      "url": "https://open.spotify.com/track/5Iqv9gAh4aAyLFi9vUDLi0"
     },
     {
       "added_at": null,

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0ENBD2.md) - [plain]
 
 > This is Queen\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 4,991,245 likes - 50 songs - 3 hr 22 min
+[Spotify](https://open.spotify.com/user/spotify) - 4,991,343 likes - 50 songs - 3 hr 22 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -41,13 +41,13 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0ENBD2.md) - [plain]
 | 31 | [Innuendo](https://open.spotify.com/track/1TSyv6LI3bGpK2k0WbHxMG) | [Queen](https://open.spotify.com/artist/1dfeR4HaWDbWqFHLkxsg1d) | [Innuendo](https://open.spotify.com/album/0CNfnxzURJtjzeyELCBfvj) | 6:32 |
 | 32 | [It's A Hard Life](https://open.spotify.com/track/0XHgEa3TYwu0lyRFShEQPz) | [Queen](https://open.spotify.com/artist/1dfeR4HaWDbWqFHLkxsg1d) | [The Works \(Deluxe Edition\)](https://open.spotify.com/album/3AAxdMZmzwyUyzoTO1iKiV) | 4:08 |
 | 33 | [Save Me](https://open.spotify.com/track/5PYTziNGPjz0HohZVm2coE) | [Queen](https://open.spotify.com/artist/1dfeR4HaWDbWqFHLkxsg1d) | [The Game \(Deluxe Edition\)](https://open.spotify.com/album/58bipcogQNQdIrGFWUSJM3) | 3:47 |
-| 34 | [I Was Born To Love You](https://open.spotify.com/track/62IXvE06fEbcLimzQWRyq8) | [Queen](https://open.spotify.com/artist/1dfeR4HaWDbWqFHLkxsg1d) | [Made In Heaven \(Deluxe Edition\)](https://open.spotify.com/album/4WHZOrekAUoBMQaajTIglO) | 4:49 |
-| 35 | [Princes Of The Universe](https://open.spotify.com/track/6dQupZh4DKM9CGFNu4m6CG) | [Queen](https://open.spotify.com/artist/1dfeR4HaWDbWqFHLkxsg1d) | [A Kind Of Magic \(Deluxe Edition\)](https://open.spotify.com/album/3gAVJcYGZD5Jm8YaWOkSrZ) | 3:31 |
-| 36 | [Breakthru](https://open.spotify.com/track/1ndfs8LA7ss6kNNQ8itvUt) | [Queen](https://open.spotify.com/artist/1dfeR4HaWDbWqFHLkxsg1d) | [The Miracle](https://open.spotify.com/album/4Ck0kT7cw6fXjFVBL3DODw) | 4:08 |
+| 34 | [Princes Of The Universe](https://open.spotify.com/track/6dQupZh4DKM9CGFNu4m6CG) | [Queen](https://open.spotify.com/artist/1dfeR4HaWDbWqFHLkxsg1d) | [A Kind Of Magic \(Deluxe Edition\)](https://open.spotify.com/album/3gAVJcYGZD5Jm8YaWOkSrZ) | 3:31 |
+| 35 | [Breakthru](https://open.spotify.com/track/1ndfs8LA7ss6kNNQ8itvUt) | [Queen](https://open.spotify.com/artist/1dfeR4HaWDbWqFHLkxsg1d) | [The Miracle](https://open.spotify.com/album/4Ck0kT7cw6fXjFVBL3DODw) | 4:08 |
+| 36 | [I Was Born To Love You](https://open.spotify.com/track/62IXvE06fEbcLimzQWRyq8) | [Queen](https://open.spotify.com/artist/1dfeR4HaWDbWqFHLkxsg1d) | [Made In Heaven \(Deluxe Edition\)](https://open.spotify.com/album/4WHZOrekAUoBMQaajTIglO) | 4:49 |
 | 37 | [Seven Seas of Rhye](https://open.spotify.com/track/2nbmAdtBKyhw8ghd8tsBVT) | [Queen](https://open.spotify.com/artist/1dfeR4HaWDbWqFHLkxsg1d) | [Queen II \(Deluxe Edition\)](https://open.spotify.com/album/400nUnnOzQdTrdOlFD7Os4) | 2:46 |
 | 38 | ['39](https://open.spotify.com/track/6e8HCstOUFx9sac4fnqPKx) | [Queen](https://open.spotify.com/artist/1dfeR4HaWDbWqFHLkxsg1d) | [A Night At The Opera \(Deluxe Edition\)](https://open.spotify.com/album/28ZLOn6tPfDTPGIqvwiWvC) | 3:30 |
-| 39 | [You Don't Fool Me](https://open.spotify.com/track/0qPrc7E2FLpG0IAm9TghKg) | [Queen](https://open.spotify.com/artist/1dfeR4HaWDbWqFHLkxsg1d) | [Made In Heaven \(Deluxe Edition\)](https://open.spotify.com/album/4WHZOrekAUoBMQaajTIglO) | 5:24 |
-| 40 | [Play The Game](https://open.spotify.com/track/00h2sYTI0EIgvUVlicRDdx) | [Queen](https://open.spotify.com/artist/1dfeR4HaWDbWqFHLkxsg1d) | [The Game \(Deluxe Edition\)](https://open.spotify.com/album/58bipcogQNQdIrGFWUSJM3) | 3:31 |
+| 39 | [Play The Game](https://open.spotify.com/track/00h2sYTI0EIgvUVlicRDdx) | [Queen](https://open.spotify.com/artist/1dfeR4HaWDbWqFHLkxsg1d) | [The Game \(Deluxe Edition\)](https://open.spotify.com/album/58bipcogQNQdIrGFWUSJM3) | 3:31 |
+| 40 | [You Don't Fool Me](https://open.spotify.com/track/0qPrc7E2FLpG0IAm9TghKg) | [Queen](https://open.spotify.com/artist/1dfeR4HaWDbWqFHLkxsg1d) | [Made In Heaven \(Deluxe Edition\)](https://open.spotify.com/album/4WHZOrekAUoBMQaajTIglO) | 5:24 |
 | 41 | [We Are The Champions \- Live Aid](https://open.spotify.com/track/3QjYCAzQfNFDIL6kSMpPcw) | [Queen](https://open.spotify.com/artist/1dfeR4HaWDbWqFHLkxsg1d) | [Bohemian Rhapsody \(The Original Soundtrack\)](https://open.spotify.com/album/69RZR37WFgxDDdfxAPz9pk) | 3:57 |
 | 42 | [Spread Your Wings](https://open.spotify.com/track/7sk3xGIhSoDz7sCwoaFTqn) | [Queen](https://open.spotify.com/artist/1dfeR4HaWDbWqFHLkxsg1d) | [News Of The World](https://open.spotify.com/album/7hq6mnrJ7CWbemk6B3H8PJ) | 4:34 |
 | 43 | [One Vision](https://open.spotify.com/track/3zApeb5jO36NDFPqz1tXW7) | [Queen](https://open.spotify.com/artist/1dfeR4HaWDbWqFHLkxsg1d) | [A Kind Of Magic \(Deluxe Edition\)](https://open.spotify.com/album/3gAVJcYGZD5Jm8YaWOkSrZ) | 5:10 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0ENBD2.md) - [plain]
 | 49 | [Keep Yourself Alive](https://open.spotify.com/track/4DU4NgVlTkdS9Ce9o8lsZ6) | [Queen](https://open.spotify.com/artist/1dfeR4HaWDbWqFHLkxsg1d) | [Queen \(Deluxe Edition\)](https://open.spotify.com/album/16br4ndsgOTnBQTjV0W5aB) | 3:46 |
 | 50 | [Who Wants to Live Forever \- Live in Budapest](https://open.spotify.com/track/0FpvhhU3bfAtjx7gFv0GOi) | [Queen](https://open.spotify.com/artist/1dfeR4HaWDbWqFHLkxsg1d) | [Who Wants to Live Forever \(Live in Budapest\)](https://open.spotify.com/album/1phOF1iJfhjm64XX3P6Vny) | 3:59 |
 
-Snapshot ID: `awIwgAAAAADHMtiw7s0xK2CiBGRtjvEO`
+Snapshot ID: `awOCAAAAAABgxSb22zEdmncuj8DKskVG`

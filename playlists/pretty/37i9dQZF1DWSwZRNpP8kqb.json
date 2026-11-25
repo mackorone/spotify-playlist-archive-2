@@ -1,12 +1,12 @@
 {
   "description": "Cantoras y compositoras de nuestra tierra, con Soledad en portada.",
-  "num_followers": 34831,
+  "num_followers": 34841,
   "original_name": "Mujeres del Folklore",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAABZYFwQS3bro4EVMpUjWO8J0lYe2",
+  "snapshot_id": "AAAAAOjYac3Vi4ELUkYs/5JwTPUp1rTL",
   "tracks": [
     {
       "added_at": "2025-08-21 21:06:28",
@@ -315,22 +315,6 @@
     {
       "added_at": "2025-08-21 21:06:28",
       "album": {
-        "name": "Roble 10 A\u00f1os",
-        "url": "https://open.spotify.com/album/358kTYUCrGTRWRT9gYz99K"
-      },
-      "artists": [
-        {
-          "name": "Mery Murua",
-          "url": "https://open.spotify.com/artist/3npqmbFpNzqVxiM7lRxc8l"
-        }
-      ],
-      "duration_ms": 299978,
-      "name": "Zamba azul",
-      "url": "https://open.spotify.com/track/0pKhy2EtXwK26sTRCFUdKB"
-    },
-    {
-      "added_at": "2025-08-21 21:06:28",
-      "album": {
         "name": "Ysyry",
         "url": "https://open.spotify.com/album/6YCvmX5LGwqomhb1xXjmQn"
       },
@@ -351,6 +335,22 @@
       "duration_ms": 154644,
       "name": "Camb\u00e1 Galleta",
       "url": "https://open.spotify.com/track/6kMOKOKSbMqLAYVx54jXHP"
+    },
+    {
+      "added_at": "2025-08-21 21:06:28",
+      "album": {
+        "name": "Roble 10 A\u00f1os",
+        "url": "https://open.spotify.com/album/358kTYUCrGTRWRT9gYz99K"
+      },
+      "artists": [
+        {
+          "name": "Mery Murua",
+          "url": "https://open.spotify.com/artist/3npqmbFpNzqVxiM7lRxc8l"
+        }
+      ],
+      "duration_ms": 299978,
+      "name": "Zamba azul",
+      "url": "https://open.spotify.com/track/0pKhy2EtXwK26sTRCFUdKB"
     },
     {
       "added_at": "2025-08-21 21:06:28",
@@ -659,8 +659,8 @@
     {
       "added_at": "2025-08-21 21:06:28",
       "album": {
-        "name": "Ojos de Cielo",
-        "url": "https://open.spotify.com/album/1NT5OYNcowSUQFdypTjtmA"
+        "name": "Tanto Amor",
+        "url": "https://open.spotify.com/album/65bHLqYJeXeuIkSOEKxXuL"
       },
       "artists": [
         {
@@ -668,9 +668,9 @@
           "url": "https://open.spotify.com/artist/1V9GLyhNrUws44RjOZ3eLO"
         }
       ],
-      "duration_ms": 169500,
-      "name": "Ojos de Cielo",
-      "url": "https://open.spotify.com/track/0Y0Odb0Fhy6NU2Fj0mRgBn"
+      "duration_ms": 162000,
+      "name": "Tanto Amor",
+      "url": "https://open.spotify.com/track/2RH3mx7Oakol0sKd7dF07S"
     },
     {
       "added_at": "2025-08-21 21:06:28",
@@ -743,8 +743,8 @@
     {
       "added_at": "2025-08-21 21:06:28",
       "album": {
-        "name": "Tanto Amor",
-        "url": "https://open.spotify.com/album/65bHLqYJeXeuIkSOEKxXuL"
+        "name": "Ojos de Cielo",
+        "url": "https://open.spotify.com/album/1NT5OYNcowSUQFdypTjtmA"
       },
       "artists": [
         {
@@ -752,9 +752,9 @@
           "url": "https://open.spotify.com/artist/1V9GLyhNrUws44RjOZ3eLO"
         }
       ],
-      "duration_ms": 162000,
-      "name": "Tanto Amor",
-      "url": "https://open.spotify.com/track/2RH3mx7Oakol0sKd7dF07S"
+      "duration_ms": 169500,
+      "name": "Ojos de Cielo",
+      "url": "https://open.spotify.com/track/0Y0Odb0Fhy6NU2Fj0mRgBn"
     },
     {
       "added_at": "2025-08-21 21:06:28",
@@ -807,6 +807,26 @@
     {
       "added_at": "2025-08-21 21:06:28",
       "album": {
+        "name": "Ambas - Maria Paula Godoy",
+        "url": "https://open.spotify.com/album/4kBNZfW1cHQlak5sJgoUUH"
+      },
+      "artists": [
+        {
+          "name": "Maria Paula Godoy",
+          "url": "https://open.spotify.com/artist/5RriG2maXzBfuXJkuHlcpi"
+        },
+        {
+          "name": "Nahuel Pennisi",
+          "url": "https://open.spotify.com/artist/4IjHltwoSKbUeZLPeULyDe"
+        }
+      ],
+      "duration_ms": 110291,
+      "name": "El T\u00edmido (feat. Nahuel Pennisi)",
+      "url": "https://open.spotify.com/track/7LyLV7IpFkXcbRFMjgve4h"
+    },
+    {
+      "added_at": "2025-08-21 21:06:28",
+      "album": {
         "name": "Uno M\u00e1s 6",
         "url": "https://open.spotify.com/album/42qrvB9s6yNephFUgJKsCf"
       },
@@ -839,26 +859,6 @@
       "duration_ms": 222908,
       "name": "Tu Respuesta",
       "url": "https://open.spotify.com/track/1g3uiL5MyoJwo7yHsxFJPA"
-    },
-    {
-      "added_at": "2025-08-21 21:06:28",
-      "album": {
-        "name": "Ambas - Maria Paula Godoy",
-        "url": "https://open.spotify.com/album/4kBNZfW1cHQlak5sJgoUUH"
-      },
-      "artists": [
-        {
-          "name": "Maria Paula Godoy",
-          "url": "https://open.spotify.com/artist/5RriG2maXzBfuXJkuHlcpi"
-        },
-        {
-          "name": "Nahuel Pennisi",
-          "url": "https://open.spotify.com/artist/4IjHltwoSKbUeZLPeULyDe"
-        }
-      ],
-      "duration_ms": 110291,
-      "name": "El T\u00edmido (feat. Nahuel Pennisi)",
-      "url": "https://open.spotify.com/track/7LyLV7IpFkXcbRFMjgve4h"
     },
     {
       "added_at": "2025-08-21 21:06:28",
@@ -987,22 +987,6 @@
     {
       "added_at": "2025-08-21 21:06:28",
       "album": {
-        "name": "Distinto",
-        "url": "https://open.spotify.com/album/1UL1AsHbjRw2Wu8hASGPfP"
-      },
-      "artists": [
-        {
-          "name": "Teresa Parodi",
-          "url": "https://open.spotify.com/artist/4D56DujhnBViJ4oYCSl1GK"
-        }
-      ],
-      "duration_ms": 226688,
-      "name": "Distinto",
-      "url": "https://open.spotify.com/track/3VtRTDL0ecFzROdU4IQ6cD"
-    },
-    {
-      "added_at": "2025-08-21 21:06:28",
-      "album": {
         "name": "La Charo",
         "url": "https://open.spotify.com/album/2f2aoYUcR17shrpyTe6fj8"
       },
@@ -1015,6 +999,22 @@
       "duration_ms": 207733,
       "name": "La Marejada",
       "url": "https://open.spotify.com/track/4OGGt6aw0DeNR1UQW1APN9"
+    },
+    {
+      "added_at": "2025-08-21 21:06:28",
+      "album": {
+        "name": "Distinto",
+        "url": "https://open.spotify.com/album/1UL1AsHbjRw2Wu8hASGPfP"
+      },
+      "artists": [
+        {
+          "name": "Teresa Parodi",
+          "url": "https://open.spotify.com/artist/4D56DujhnBViJ4oYCSl1GK"
+        }
+      ],
+      "duration_ms": 226688,
+      "name": "Distinto",
+      "url": "https://open.spotify.com/track/3VtRTDL0ecFzROdU4IQ6cD"
     },
     {
       "added_at": "2025-08-21 21:06:28",
@@ -1315,22 +1315,6 @@
     {
       "added_at": "2025-08-21 21:06:28",
       "album": {
-        "name": "Dentro, El Silencio",
-        "url": "https://open.spotify.com/album/4Cba7B2IzOrJ76Eqi8mXkw"
-      },
-      "artists": [
-        {
-          "name": "Luna Monti",
-          "url": "https://open.spotify.com/artist/1ujuID79Vnw9o2AQFfLPPd"
-        }
-      ],
-      "duration_ms": 320266,
-      "name": "Lavandera Chaguanca",
-      "url": "https://open.spotify.com/track/4uiEqRKRJxswSeqsXbnS4s"
-    },
-    {
-      "added_at": "2025-08-21 21:06:28",
-      "album": {
         "name": "A Mercedes, Vol. II",
         "url": "https://open.spotify.com/album/2U8svikAMZKenkjZWU0wC7"
       },
@@ -1343,6 +1327,22 @@
       "duration_ms": 202466,
       "name": "Esa Musiquita",
       "url": "https://open.spotify.com/track/0z5QRQFqvQWSXM5nOGwK5v"
+    },
+    {
+      "added_at": "2025-08-21 21:06:28",
+      "album": {
+        "name": "Dentro, El Silencio",
+        "url": "https://open.spotify.com/album/4Cba7B2IzOrJ76Eqi8mXkw"
+      },
+      "artists": [
+        {
+          "name": "Luna Monti",
+          "url": "https://open.spotify.com/artist/1ujuID79Vnw9o2AQFfLPPd"
+        }
+      ],
+      "duration_ms": 320266,
+      "name": "Lavandera Chaguanca",
+      "url": "https://open.spotify.com/track/4uiEqRKRJxswSeqsXbnS4s"
     },
     {
       "added_at": "2025-08-21 21:06:28",
@@ -1603,22 +1603,6 @@
     {
       "added_at": "2025-08-21 21:06:28",
       "album": {
-        "name": "Espejo",
-        "url": "https://open.spotify.com/album/07hqhMGFTYQm25XQpdEzXu"
-      },
-      "artists": [
-        {
-          "name": "Vero Marjbein",
-          "url": "https://open.spotify.com/artist/6xZKJnHq8zpj0c9tCjwhGi"
-        }
-      ],
-      "duration_ms": 299555,
-      "name": "Espejo",
-      "url": "https://open.spotify.com/track/1QqycFHW1tFsrgA7HQcBzn"
-    },
-    {
-      "added_at": "2025-08-21 21:06:28",
-      "album": {
         "name": "Trazos",
         "url": "https://open.spotify.com/album/53Q0VkXRSkBMMQhdAMYpeF"
       },
@@ -1631,6 +1615,22 @@
       "duration_ms": 256800,
       "name": "Tres Cerritos",
       "url": "https://open.spotify.com/track/1ojVanhVcmk2OrrTZDGhQy"
+    },
+    {
+      "added_at": "2025-08-21 21:06:28",
+      "album": {
+        "name": "Espejo",
+        "url": "https://open.spotify.com/album/07hqhMGFTYQm25XQpdEzXu"
+      },
+      "artists": [
+        {
+          "name": "Vero Marjbein",
+          "url": "https://open.spotify.com/artist/6xZKJnHq8zpj0c9tCjwhGi"
+        }
+      ],
+      "duration_ms": 299555,
+      "name": "Espejo",
+      "url": "https://open.spotify.com/track/1QqycFHW1tFsrgA7HQcBzn"
     },
     {
       "added_at": "2025-08-21 21:06:28",

@@ -2,9 +2,9 @@
 
 ### [アイドルポップ！](https://open.spotify.com/playlist/37i9dQZF1DX8PLev4Ol7Ml)
 
-> 日本独自のポップカルチャー=アイドル。"楽曲推し"でお届けします。Cover: Travis Japan
+> 日本独自のポップカルチャー=アイドル。"楽曲推し"でお届けします。Cover: 乃木坂46
 
-1,293 songs - 3 day 8 hr 45 min
+1,297 songs - 3 day 8 hr 58 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -39,6 +39,7 @@
 | [Amazing Days](https://open.spotify.com/track/6pJNOTnQ2W6m0jQ4xeVPZp) | [THE ORCHESTRA TOKYO](https://open.spotify.com/artist/2hIWw1JvIUVutiXTyDD0Nb) | [Amazing Days](https://open.spotify.com/album/1Mg0124MlEELso67ujezS7) | 4:08 | 2026-02-28 | 2026-03-07 |
 | [andante](https://open.spotify.com/track/2IYTZJAMN5QQRIrj8kxQAQ) | [963](https://open.spotify.com/artist/4AfdqKbO3XcYUg5t6qmChS) | [andante](https://open.spotify.com/album/0vq8WpwOwFz4UkYi2oyzmw) | 4:03 | 2026-10-16 | 2026-10-24 |
 | [Anemone](https://open.spotify.com/track/6ORFlhpmVx1fjXxMaTUwXE) | [zanka](https://open.spotify.com/artist/7Fs8pv5eX4V5pSKACcI8qV) | [Anemone](https://open.spotify.com/album/1VZ2Lzw8Elz7fd1ujl0isR) | 4:01 | 2026-04-11 | 2026-04-18 |
+| [ANKI WITH ME](https://open.spotify.com/track/0CQzDRDVNvYHWTF7UJGI5u) | [MORE STAR](https://open.spotify.com/artist/573r1p29tKPr2KNUNZkPww) | [ANKI WITH ME](https://open.spotify.com/album/586EmXolKyyo6CIMEnqVBE) | 3:41 | 2026-11-24 |  |
 | [Another](https://open.spotify.com/track/2krb5PDJPLH0dCg1YbdlGs) | [LΩPARA](https://open.spotify.com/artist/173c8kHB72Kara73hGlvKP) | [Another](https://open.spotify.com/album/165PtM3uSQDcmggIDNUIdw) | 3:30 | 2026-06-13 | 2026-06-20 |
 | [Anytime with you](https://open.spotify.com/track/56eJ0HncNWXOysMiR9ob1Z) | [EVERYTHING IS WONDER](https://open.spotify.com/artist/7zxZ8CJNjnthRJLh1OmjXS) | [Anytime with you](https://open.spotify.com/album/3SpudbUeZtVmpIB68oWVi1) | 4:00 | 2026-07-18 | 2026-08-09 |
 | [Ao](https://open.spotify.com/track/17VS0NOLhEeXcKejvjstkH) | [Quubi](https://open.spotify.com/artist/0PcqeH6fXBeoIoQ0met7Zb) | [Ao](https://open.spotify.com/album/5r6W68ATHT4YbsTXyZkWJC) | 3:50 | 2026-08-08 | 2026-08-22 |
@@ -209,7 +210,7 @@
 | [I♡シズム](https://open.spotify.com/track/1bajx0qR6p7x8a8PK1kiy1) | [AVAM](https://open.spotify.com/artist/6QYNfAOyqSzJ06hoKdfWLe) | [I♡シズム](https://open.spotify.com/album/6QWIsDFr6UbMm2g2KD76Z3) | 3:42 | 2026-05-08 | 2026-05-24 |
 | [Juicy Muscat](https://open.spotify.com/track/0gANpHl8yMRIpwwNcqDjHk) | [スーパーベイビーズ](https://open.spotify.com/artist/54P1cYBQ2Hu0pBOF0M1pOl) | [Juicy Muscat](https://open.spotify.com/album/50c9pCaM89qz7Qhuzvseg3) | 3:38 | 2026-04-25 | 2026-05-09 |
 | [Just a sec.](https://open.spotify.com/track/7ByfO3NcapSA3Qp6TzHxWV) | [Nogizaka46](https://open.spotify.com/artist/08lN7bm4Etec8ETFxaTUmq) | [My respect \(Complete Edition\)](https://open.spotify.com/album/6KZIX4g3MhFvZcVBzg76zz) | 3:35 | 2026-01-24 | 2026-02-14 |
-| [KAKUMEI](https://open.spotify.com/track/1W0qopAxXLHvNMQ3JP3sB1) | [MORE STAR](https://open.spotify.com/artist/573r1p29tKPr2KNUNZkPww) | [KAKUMEI](https://open.spotify.com/album/7vZYCFC4FRMyl2pi5X3QvI) | 3:18 | 2026-09-26 |  |
+| [KAKUMEI](https://open.spotify.com/track/1W0qopAxXLHvNMQ3JP3sB1) | [MORE STAR](https://open.spotify.com/artist/573r1p29tKPr2KNUNZkPww) | [KAKUMEI](https://open.spotify.com/album/7vZYCFC4FRMyl2pi5X3QvI) | 3:18 | 2026-09-26 | 2026-11-25 |
 | [KAKUMEI](https://open.spotify.com/track/5rXSk4camtxPnSdO4Oqy5g) | [凛々しくも臨界に咲くARTERIA](https://open.spotify.com/artist/5lRAymdEKBo1x1dn7EPEF0) | [KAKUMEI](https://open.spotify.com/album/5AF820BtU1peT5XlFCdtzy) | 3:51 | 2026-05-08 | 2026-05-16 |
 | [Kawaii Glitch](https://open.spotify.com/track/4aDOnlZZp9SIIh2AULcVAR) | [BPM15Q](https://open.spotify.com/artist/4kDBfLqLmHdtDG3BcTA21r) | [Kawaii Glitch](https://open.spotify.com/album/2yi9XbzRSrNxeOx9xko8sQ) | 3:33 | 2025-12-27 | 2026-01-24 |
 | [Ki Ni Naru](https://open.spotify.com/track/2tS97EFCWOeQWU5pH6nssv) | [苺りなはむ](https://open.spotify.com/artist/3Vu1uwsbXksmZZD2vZeqmZ), [rinahamu](https://open.spotify.com/artist/3B8MrNLUl1vK53CuEC3ofy), [Wolf Cutt](https://open.spotify.com/artist/2tLDyyJUExjosjJrNoTqLA) | [Ki Ni Naru](https://open.spotify.com/album/1jw60NQTv5u5wqYgSHP8B5) | 2:20 | 2026-02-13 | 2026-03-07 |
@@ -345,6 +346,7 @@
 | [SHOOT THE SKY](https://open.spotify.com/track/52npYrNf45h9VyXomDonpo) | [Devil ANTHEM.](https://open.spotify.com/artist/5BaSe1vuqlHeP074o7N7jh) | [SHOOT THE SKY](https://open.spotify.com/album/3fXsaArUiqT6SDKYXnfGMg) | 3:33 | 2026-01-10 | 2026-01-24 |
 | [Shooting Star](https://open.spotify.com/track/6AVVB8q89DBRLByPoM46c1) | [CUTIE STREET](https://open.spotify.com/artist/3PLCOySHJ9zwED5yZvDtPZ) | [Shooting Star](https://open.spotify.com/album/0PoXjRIeDB7EhXQAAk90d5) | 4:37 | 2025-12-27 | 2026-01-15 |
 | [show time...](https://open.spotify.com/track/0SdzkJ0rQjdDUjf4KWRPyU) | [Snow Man](https://open.spotify.com/artist/0UuiWPm9FpWvRuWNrXO98N) | [AMENITY](https://open.spotify.com/album/6aEBnBIfPvLSedFSC3UjRJ) | 3:45 | 2026-11-03 |  |
+| [SHUNSOKU](https://open.spotify.com/track/0EYlg5JWcPvdrnonVpZ5tq) | [KAITO](https://open.spotify.com/artist/6QwlalqPbQV16tz9YtOI9T) | [SALT BOY](https://open.spotify.com/album/1B04FHBVcXnfaMTz8iSK9J) | 1:53 | 2026-11-24 |  |
 | [sign](https://open.spotify.com/track/46oqeEnkatM9Y9QmZacbml) | [nuance](https://open.spotify.com/artist/13eLt7Vou9AqurlOcPnZot) | [hole](https://open.spotify.com/album/5HbDFDr9zXQUs2xAPRXTw7) | 4:50 | 2026-04-11 | 2026-04-26 |
 | [Signal Re:lation](https://open.spotify.com/track/67iVA63ivbBFcKineqIj4H) | [最終未来少女](https://open.spotify.com/artist/6mOs48kV4q365PohovNh4i) | [Signal Re:lation](https://open.spotify.com/album/4pvjDoA9WZDtPj4onuSinY) | 3:34 | 2026-07-10 | 2026-07-19 |
 | [Sirius](https://open.spotify.com/track/1MuoWMNsofGId374EvgbZU) | [INUWASI](https://open.spotify.com/artist/5ohPhAHJDOqmiRLbgTHQBH) | [Sirius](https://open.spotify.com/album/2FJOC4887yYH8reyzBOBwV) | 3:56 | 2026-02-13 | 2026-02-21 |
@@ -568,6 +570,7 @@
 | [どりーむじゃんぼ！](https://open.spotify.com/track/715rRe0d6MVo3fTfkRx7yL) | [Cho Tokimeki Sendenbu](https://open.spotify.com/artist/02hwDSWEF0JdOgdIBw1gRT) | [どりーむじゃんぼ！](https://open.spotify.com/album/789aOAOJpVtcOzq5p7dk3t) | 3:34 | 2026-04-04 | 2026-04-18 |
 | [どんなに嫌われたって、君が好きだ](https://open.spotify.com/track/5nWTPQ7Wwz4hng0jLsOBBf) | [ハルニシオン](https://open.spotify.com/artist/12bj3lZnc4JCm6vQsRBH3f) | [どんなに嫌われたって、君が好きだ](https://open.spotify.com/album/3nhE3HUUrPLVYhATLqa86y) | 3:16 | 2026-06-20 | 2026-06-28 |
 | [どんな君でも大好き♡ってお話](https://open.spotify.com/track/2kVKdHkDAVh2dqbhqdaRN4) | [Wasuta](https://open.spotify.com/artist/62lVEFzoouKmA6vwwLrdZf) | [どんな君でも大好き♡ってお話](https://open.spotify.com/album/0NkexHqvkgVXYA6e7YeuUX) | 3:37 | 2026-05-23 | 2026-06-13 |
+| [どんな君も どんな夜も](https://open.spotify.com/track/60BAcblU9Qh4VNyjfluGSi) | [≒JOY](https://open.spotify.com/artist/0CXdxGaAia8vQLHVRFXW8a) | [ロックスター様](https://open.spotify.com/album/41u366AJsu2lQsFJg4VshJ) | 3:39 | 2026-11-24 |  |
 | [なじられたって泣けない 愛されたって泣けない](https://open.spotify.com/track/3RPxwmsoVXgP6FD221Pwpi) | [ロージークロニクル](https://open.spotify.com/artist/7y5uItGY2lCWhUJmcXy47J) | [なじられたって泣けない 愛されたって泣けない](https://open.spotify.com/album/5450RPQPoHfxkE1pzNEBau) | 4:07 | 2026-09-18 | 2026-09-26 |
 | [なにがなんでもアイドル](https://open.spotify.com/track/3pErddt5aKNKkIogxUv5ja) | [NEVER END ROLL](https://open.spotify.com/artist/0UrFSIlBwp5nrBUwnN4VoC) | [なにがなんでもアイドル](https://open.spotify.com/album/3uNXPhCHbFLKFMBu9RVc3b) | 4:29 | 2026-08-08 | 2026-08-15 |
 | [なみだ色さがし](https://open.spotify.com/track/7oHXybyH8Fa9hQTM5muelr) | [なみだ色の消しごむ](https://open.spotify.com/artist/676MPsDOVnz0S3hqDlMIWW) | [なみだ色さがし](https://open.spotify.com/album/5pesbgDr3aB15b8sPmfZOO) | 3:46 | 2026-05-08 | 2026-05-24 |
@@ -673,7 +676,7 @@
 | [ウララカ](https://open.spotify.com/track/3JMiwscLVod6xzLhaAkRbj) | [Mirror,Mirror](https://open.spotify.com/artist/5KDhjWedvGFr62NzeBasEw) | [ウララカ](https://open.spotify.com/album/3LDgdtZIML6JxMic1eaeyv) | 3:38 | 2026-05-29 | 2026-06-13 |
 | [ウルトラファンタジーオトメUFO](https://open.spotify.com/track/6zRgGR0tectYedDzDNwkD1) | [RealRomantic](https://open.spotify.com/artist/1sj2O1MeEixBNaYH8Zsc3u) | [ウルトラファンタジーオトメUFO](https://open.spotify.com/album/6TV5MeXYPqjljZ1nhdQhyv) | 3:25 | 2026-03-07 | 2026-03-14 |
 | [エグル](https://open.spotify.com/track/7b5KFExsdCCIyLtqd1bKju) | [マーキュロ](https://open.spotify.com/artist/7eZ1YtKPieRXbF8J1WTb4I) | [エグル](https://open.spotify.com/album/2WDHAsJZ12PWVTejCLXBFn) | 3:51 | 2026-05-23 | 2026-05-30 |
-| [エジソンにダイヤ](https://open.spotify.com/track/4KdbRAyRHqU2IMEWuH3I9W) | [Devil ANTHEM.](https://open.spotify.com/artist/5BaSe1vuqlHeP074o7N7jh) | [エジソンにダイヤ](https://open.spotify.com/album/2PHXzJRERkywKc1HyUjlxw) | 2:45 | 2026-11-17 |  |
+| [エジソンにダイヤ](https://open.spotify.com/track/4KdbRAyRHqU2IMEWuH3I9W) | [Devil ANTHEM.](https://open.spotify.com/artist/5BaSe1vuqlHeP074o7N7jh) | [エジソンにダイヤ](https://open.spotify.com/album/2PHXzJRERkywKc1HyUjlxw) | 2:45 | 2026-11-17 | 2026-11-25 |
 | [エトランス・フィーバー](https://open.spotify.com/track/3n3uXkYLroZj7dgnuLLcpU) | [chotokkyu](https://open.spotify.com/artist/0udR1QMfgT37SQnL1QClTU) | [エトランス・フィーバー](https://open.spotify.com/album/2LjGzqUESmhs5Y2v01kU5a) | 3:50 | 2026-11-03 |  |
 | [エニウェイLALALA！](https://open.spotify.com/track/7GLDYiIH4SYDV5ZgKCwaM5) | [アップアップガールズ\(2\)](https://open.spotify.com/artist/6xvw6rS5kQf1zdhQshFDw0) | [エニウェイLALALA！](https://open.spotify.com/album/1Iq5VazuOG51yiM4m4GYNZ) | 3:08 | 2026-09-05 | 2026-09-19 |
 | [エレクトリックブルー](https://open.spotify.com/track/1icnwEzRbDwhytoZIN8A2K) | [Merry BAD TUNE.](https://open.spotify.com/artist/2hL0PMtxHtTv5W1Z9Cusmd) | [エレクトリックブルー](https://open.spotify.com/album/75lV6qqEcyJwzfHzC3LY0R) | 3:25 | 2026-07-03 | 2026-07-11 |
@@ -929,7 +932,7 @@
 | [レプリカ](https://open.spotify.com/track/4PHSArVQGN6xO7J2O5k2F3) | [小片リサ](https://open.spotify.com/artist/3EjRpMAzns4TT5Qg69TYFy) | [レプリカ](https://open.spotify.com/album/6sQGIcOBmu7IyGU0GiDsFz) | 3:36 | 2026-04-17 | 2026-04-26 |
 | [レベちな、かまちょ☆](https://open.spotify.com/track/1Fgd2V2DHYvpF0Nwx8r2KN) | [いぎなり東北産](https://open.spotify.com/artist/3oCvBi7xfOIEo0ZC494uV6) | [いぎなりベスト](https://open.spotify.com/album/6md87K0jAEkJYWGzcgIIy0) | 2:56 | 2026-08-08 | 2026-08-22 |
 | [レンアイノー](https://open.spotify.com/track/6nej6TvypfLUnGwOmTfIUe) | [ARCANA PROJECT](https://open.spotify.com/artist/33nBmWfW7J3vL487uRL8Cz) | [レンアイノー](https://open.spotify.com/album/6kxHpNewwt5rQuoJksDrsJ) | 3:37 | 2026-03-07 | 2026-03-21 |
-| [ロックスター様](https://open.spotify.com/track/0BtMNBEb8YU1eYl1rjU59d) | [≒JOY](https://open.spotify.com/artist/0CXdxGaAia8vQLHVRFXW8a) | [ロックスター様](https://open.spotify.com/album/1SUhTJfqXIWws3Gq6jZl9y) | 4:04 | 2026-10-16 |  |
+| [ロックスター様](https://open.spotify.com/track/0BtMNBEb8YU1eYl1rjU59d) | [≒JOY](https://open.spotify.com/artist/0CXdxGaAia8vQLHVRFXW8a) | [ロックスター様](https://open.spotify.com/album/1SUhTJfqXIWws3Gq6jZl9y) | 4:04 | 2026-10-16 | 2026-11-25 |
 | [ロボキッス](https://open.spotify.com/track/4GuSK1RQPyQMtc8ZNi53dV) | [W](https://open.spotify.com/artist/7wRK7dehyYiJ6QFWH9DUGB) | [2nd W](https://open.spotify.com/album/4DOaXGxhK446Ik2SpEvP4Y) | 3:35 | 2026-02-13 | 2026-02-21 |
 | [ロマンティック 浮かれモード](https://open.spotify.com/track/11EilwwpBgk5RTrTExns2K) | [藤本美貴](https://open.spotify.com/artist/5MRHSIbO684xuumGJytD4t) | [MIKI①](https://open.spotify.com/album/3DldkesJgILT3gLbU4KReM) | 4:25 | 2026-02-13 | 2026-02-21 |
 | [ロマンティックがほしいなら](https://open.spotify.com/track/6BbOzSt3qI9vVoDJpCcpI9) | [ぼっちぼろまる](https://open.spotify.com/artist/62DFXFLKdUqfpvVmJbXAyo), [Hinatazaka46](https://open.spotify.com/artist/0eQSoTI7sQENREQM8Klp2j), [小坂菜緒](https://open.spotify.com/artist/7q0G6BZ4O58nMFrnZkT36M), [正源司陽子](https://open.spotify.com/artist/5On9iFvCTTmTtOFdctUwxn), [藤嶌果歩](https://open.spotify.com/artist/6wiJ0UKOd5WnCT4Ssrz3S1) | [ロマンティックがほしいなら](https://open.spotify.com/album/4WKrvO8X6gvjQN3ng8U2NX) | 3:12 | 2026-07-18 | 2026-08-01 |
@@ -1158,6 +1161,7 @@
 | [未来色](https://open.spotify.com/track/1zZnVouZouqmpje4ABtdNK) | [Devil ANTHEM.](https://open.spotify.com/artist/5BaSe1vuqlHeP074o7N7jh) | [未来色](https://open.spotify.com/album/5j2ChgnsZKsixZO49c1wFp) | 3:34 | 2026-10-10 | 2026-10-24 |
 | [未来行きの物語](https://open.spotify.com/track/5dxQDBGmkLyCV28pxVamh7) | [SUPER☆GiRLS](https://open.spotify.com/artist/4zthDDKQvX4jJtGfo4ouKr) | [Sunset Kiss](https://open.spotify.com/album/7pIubThMlFChgsUZkzBzDI) | 3:54 | 2026-07-03 | 2026-07-11 |
 | [未送信のブルー](https://open.spotify.com/track/3p9LBa3CA68JJmB6KpnyCF) | [AOAO](https://open.spotify.com/artist/2v0MwtoEl3KnjD6294OjMa) | [未送信のブルー](https://open.spotify.com/album/22tNHpuoh3xX2UAkRz6sfa) | 4:04 | 2026-03-07 | 2026-03-14 |
+| [本当のことを言うと](https://open.spotify.com/track/4J8JcQBWtKRpFC2ck4W0Fw) | [timelesz](https://open.spotify.com/artist/1ZFfhzyXjPvbzSYPlCIwo3) | [本当のことを言うと](https://open.spotify.com/album/5VTCUl1mNqwHSVl30hu4DW) | 4:11 | 2026-11-24 |  |
 | [本気愛踊](https://open.spotify.com/track/3glAx6cRa9Knsm0FP8uPxu) | [FR2PON!](https://open.spotify.com/artist/0LeLWwNe2wcvCH5D0SuI87) | [本気愛踊](https://open.spotify.com/album/4Q3LXuEgrFEjUGiniEg1uZ) | 4:02 | 2026-08-22 | 2026-08-29 |
 | [桜橋を教えてくれた](https://open.spotify.com/track/7pQ5AokdOKgRaHWIrI2L8d) | [Nogizaka46](https://open.spotify.com/artist/08lN7bm4Etec8ETFxaTUmq) | [最後に階段を駆け上がったのはいつだ？ \(Special Edition\)](https://open.spotify.com/album/47eehzlP9zacQGdNI8X3NE) | 4:26 | 2026-04-11 | 2026-05-09 |
 | [桜色オーバーレイ](https://open.spotify.com/track/0wStvrPZnuDGVpOUOec7SZ) | [log you](https://open.spotify.com/artist/6ax0c3dmfkI8H6pMPMagr8) | [桜色オーバーレイ](https://open.spotify.com/album/0zMxYHUUkC0t8cK8zSlGng) | 3:33 | 2026-04-11 | 2026-04-18 |
@@ -1175,7 +1179,7 @@
 | [波待ちロマンス](https://open.spotify.com/track/6tLPyGDKtPMSA1Q8iYXMR3) | [プライマリタイズ](https://open.spotify.com/artist/2xBIaZTO0GQqV9aeir28S7) | [波待ちロマンス](https://open.spotify.com/album/64nxAp4gN4wVCnurt6rmuM) | 3:56 | 2026-09-26 | 2026-10-03 |
 | [泣くくらいなら、ドレスを着て](https://open.spotify.com/track/3PtO5mMDM49Vegr08S8REc) | [マリークラウン](https://open.spotify.com/artist/486GqeBwHmUXhCkrHuVQXC) | [泣くくらいなら、ドレスを着て](https://open.spotify.com/album/1REsoL9ENFJ4o64QDF9kX0) | 3:51 | 2026-06-13 | 2026-06-20 |
 | [消えない](https://open.spotify.com/track/7oUf5lmvt6oMBXukvreH0l) | [可憐なアイボリー](https://open.spotify.com/artist/2lCrQDTKUusFtu5YUKqyzr) | [消えない](https://open.spotify.com/album/2Fl0LJ0G6qt7wtHSJyQWKu) | 3:51 | 2025-12-27 | 2026-01-15 |
-| [消えない花火](https://open.spotify.com/track/5z5igGbFD4MOgAWwvcIhJ5) | [timelesz](https://open.spotify.com/artist/1ZFfhzyXjPvbzSYPlCIwo3) | [消えない花火](https://open.spotify.com/album/0WaEQ93ujik1fE7wV9AQEU) | 3:50 | 2026-11-03 |  |
+| [消えない花火](https://open.spotify.com/track/5z5igGbFD4MOgAWwvcIhJ5) | [timelesz](https://open.spotify.com/artist/1ZFfhzyXjPvbzSYPlCIwo3) | [消えない花火](https://open.spotify.com/album/0WaEQ93ujik1fE7wV9AQEU) | 3:50 | 2026-11-03 | 2026-11-25 |
 | [渇望](https://open.spotify.com/track/3PB0WZRLBYuTksffrw19dq) | [CiON](https://open.spotify.com/artist/7e1S0Yqtt1sgmeqvXcIDWa) | [渇望](https://open.spotify.com/album/61alFEP16tPTPkQoNajG1i) | 3:47 | 2026-05-23 | 2026-06-13 |
 | [渇望 \- Anime size ver.](https://open.spotify.com/track/7DGXw9oCyqzKtbKCv2mscQ) | [CiON](https://open.spotify.com/artist/7e1S0Yqtt1sgmeqvXcIDWa) | [渇望 \(Anime size ver.\)](https://open.spotify.com/album/7KfonJsTmdMNGeLsq5M1vT) | 1:29 | 2026-04-11 | 2026-04-26 |
 | [潮騒](https://open.spotify.com/track/7lTbuWnqQYAWVFfJH2CRZE) | [ICECREAM SCREAM](https://open.spotify.com/artist/57xjV0BRhDVvA4KCCiccUZ) | [潮騒](https://open.spotify.com/album/2cepBQ9IEggYd9Tena946s) | 4:24 | 2026-08-29 | 2026-09-06 |

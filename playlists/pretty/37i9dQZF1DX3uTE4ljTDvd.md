@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3uTE4ljTDvd.md) - [plain]
 
 > Ouça e conheça as revelações da música gospel\. Foto: Larissa Santos
 
-[Spotify](https://open.spotify.com/user/spotify) - 135,060 likes - 60 songs - 5 hr 2 min
+[Spotify](https://open.spotify.com/user/spotify) - 135,064 likes - 60 songs - 5 hr 2 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -35,12 +35,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3uTE4ljTDvd.md) - [plain]
 | 25 | [Dê Mais uma Chance para o Mundo](https://open.spotify.com/track/1ynxYbJ0Ok79hrPMHpfq8R) | [Os Meireles](https://open.spotify.com/artist/4GvZo4MFJZPodaS1VXVEe1) | [Estações](https://open.spotify.com/album/76288hlVhG5AxKmWjOanMQ) | 3:00 |
 | 26 | [Pra Que Eu Fosse Livre](https://open.spotify.com/track/0fvBym1UrheJRFqwFPDEzH) | [Klev](https://open.spotify.com/artist/4fHpTbYbpiPxLygNlixLEC) | [Pra Que Eu Fosse Livre](https://open.spotify.com/album/4Rb1l85qRASxpjtSZztiKJ) | 4:48 |
 | 27 | [Sou o Teu Altar](https://open.spotify.com/track/3ifjRXZwN56gmTROvagUpx) | [Bekah Costa](https://open.spotify.com/artist/43GhsjEls2W0kceLxCK9cb), [Paulo Cesar Baruk](https://open.spotify.com/artist/0GQKmEguhkY8DCzH4NdJvD) | [Sou o Teu Altar](https://open.spotify.com/album/2y4aQE5LYe1FSgKGVnbH9g) | 4:35 |
-| 28 | [Quem é Esse?](https://open.spotify.com/track/5aGSIDAIjpskRm4pPMRUDT) | [Naara e Sarah](https://open.spotify.com/artist/0LPEcQYu6T8yx0W0pswNf9) | [Quem é Esse?](https://open.spotify.com/album/2Hue0DRCh1m0YkA9Hc6qpL) | 5:19 |
-| 29 | [Tua Presença](https://open.spotify.com/track/6XpFcKg5hpOenkF2WNvXlq) | [Fernanda Tomadon](https://open.spotify.com/artist/0kAMQVckTudTHpOdDefbvl) | [Tua Presença](https://open.spotify.com/album/2Gq7TVxrPPzxKTsc202img) | 4:54 |
-| 30 | [Clame a Jesus \(Ao Vivo\)](https://open.spotify.com/track/4TuBFUtxI7hV9SxUwsFawd) | [Carol Miranda](https://open.spotify.com/artist/2UeU6QwYpItw9sLDw0Ow9g) | [Clame a Jesus \(Ao Vivo\)](https://open.spotify.com/album/3ho9koqLjvMKLuXtKStXSY) | 4:27 |
-| 31 | [Destemida](https://open.spotify.com/track/7jLrfFTraIFefCf4NUGDg9) | [Adai Music](https://open.spotify.com/artist/0XjDs3G6KWLGWJT8GXDrZa), [Gislaine Rodrigues](https://open.spotify.com/artist/4De0baIDAcYNBXL6bDybaM) | [Destemida](https://open.spotify.com/album/1NgjBwy3avUOglmOx2pLBJ) | 4:58 |
-| 32 | [Te Queremos Mais](https://open.spotify.com/track/2b8G9oQzA0MUQvQfhLqZCf) | [Victoria Brandão](https://open.spotify.com/artist/5Z9Z5mJvghIG4GAPJ5lo7d) | [Te Queremos Mais](https://open.spotify.com/album/4Ih5eUaGedWzx0z82x7ISa) | 5:21 |
-| 33 | [Fogo E Altar](https://open.spotify.com/track/4oddcpptwNmykJqa4A2xcv) | [Kauê Penna](https://open.spotify.com/artist/66gr6eacn8mru8PygKXLvj), [Israel Salazar](https://open.spotify.com/artist/5EkloP4VRw1NBP9NypZpDC) | [Promessa](https://open.spotify.com/album/7M5BKDGBuYyfjzeQGWcVnG) | 4:05 |
+| 28 | [Tua Presença](https://open.spotify.com/track/6XpFcKg5hpOenkF2WNvXlq) | [Fernanda Tomadon](https://open.spotify.com/artist/0kAMQVckTudTHpOdDefbvl) | [Tua Presença](https://open.spotify.com/album/2Gq7TVxrPPzxKTsc202img) | 4:54 |
+| 29 | [Clame a Jesus \(Ao Vivo\)](https://open.spotify.com/track/4TuBFUtxI7hV9SxUwsFawd) | [Carol Miranda](https://open.spotify.com/artist/2UeU6QwYpItw9sLDw0Ow9g) | [Clame a Jesus \(Ao Vivo\)](https://open.spotify.com/album/3ho9koqLjvMKLuXtKStXSY) | 4:27 |
+| 30 | [Quem é Esse?](https://open.spotify.com/track/5aGSIDAIjpskRm4pPMRUDT) | [Naara e Sarah](https://open.spotify.com/artist/0LPEcQYu6T8yx0W0pswNf9) | [Quem é Esse?](https://open.spotify.com/album/2Hue0DRCh1m0YkA9Hc6qpL) | 5:19 |
+| 31 | [Fogo E Altar](https://open.spotify.com/track/4oddcpptwNmykJqa4A2xcv) | [Kauê Penna](https://open.spotify.com/artist/66gr6eacn8mru8PygKXLvj), [Israel Salazar](https://open.spotify.com/artist/5EkloP4VRw1NBP9NypZpDC) | [Promessa](https://open.spotify.com/album/7M5BKDGBuYyfjzeQGWcVnG) | 4:05 |
+| 32 | [Destemida](https://open.spotify.com/track/7jLrfFTraIFefCf4NUGDg9) | [Adai Music](https://open.spotify.com/artist/0XjDs3G6KWLGWJT8GXDrZa), [Gislaine Rodrigues](https://open.spotify.com/artist/4De0baIDAcYNBXL6bDybaM) | [Destemida](https://open.spotify.com/album/1NgjBwy3avUOglmOx2pLBJ) | 4:58 |
+| 33 | [Te Queremos Mais](https://open.spotify.com/track/2b8G9oQzA0MUQvQfhLqZCf) | [Victoria Brandão](https://open.spotify.com/artist/5Z9Z5mJvghIG4GAPJ5lo7d) | [Te Queremos Mais](https://open.spotify.com/album/4Ih5eUaGedWzx0z82x7ISa) | 5:21 |
 | 34 | [Acredito na Promessa](https://open.spotify.com/track/3c4Z5YuxHIGPTfK6EAksS0) | [Mateus Pereira](https://open.spotify.com/artist/0GpfolGZSMXdxZrXZEhkXO) | [Acredito na Promessa](https://open.spotify.com/album/2a6FlJJyoRTszOuwtIWtuH) | 4:05 |
 | 35 | [Daqui Não Saio](https://open.spotify.com/track/0TYzmTenPv6YlD5a2g4gqe) | [Gabriell Júnior](https://open.spotify.com/artist/7MLz6FXaGXB3yfjb0baqDH) | [Daqui Não Saio](https://open.spotify.com/album/23eNhDRQb2QRbegXM1tH6O) | 9:18 |
 | 36 | [Quem Disse? \- Ao Vivo](https://open.spotify.com/track/7h2a4Orc7fLALeC0dfQDFG) | [Julliana Silva](https://open.spotify.com/artist/3TMlmzPsCt9e16XSMctNgI) | [Quem Disse? \(Ao Vivo\)](https://open.spotify.com/album/0QzEudiqJ8MQiAYuhaCfqO) | 5:30 |
@@ -53,10 +53,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3uTE4ljTDvd.md) - [plain]
 | 43 | [Quando o Eterno For Real](https://open.spotify.com/track/78lt1qOfZEjpZPv7JVfunA) | [Vitória Costa](https://open.spotify.com/artist/4ivt5LCWnYvngo0oxkDQHW) | [Quando o Eterno For Real](https://open.spotify.com/album/2XYkDU6G3HdRguQctcHmBk) | 4:50 |
 | 44 | [Descansa em Mim](https://open.spotify.com/track/33Kw7vIXjoeCvwTKeM4wR8) | [Pablo Canalis](https://open.spotify.com/artist/6unLVeDztO40nUPUkl0zZm), [Do Nosso Canto](https://open.spotify.com/artist/2XCsYQtJzn7Y68gXmbH2Xk) | [Descansa em Mim](https://open.spotify.com/album/3pVZs73gK7tDaS6rQwZjYc) | 5:05 |
 | 45 | [Vestígios](https://open.spotify.com/track/79Z04QnTNET7qnhoEISAue) | [Jayana Moreira](https://open.spotify.com/artist/0UqskVGZu74OjVGF2KmvBH) | [Vestígios](https://open.spotify.com/album/1RveXXBB7UI55bCSeibbrh) | 4:51 |
-| 46 | [Não Serei o Mesmo \- Ao Vivo](https://open.spotify.com/track/69gwv2KxdlG7cEJnBLtYf6) | [Renata Reis](https://open.spotify.com/artist/5N1xm9Ct1wWvR5AfcVZMDS) | [Não Serei o Mesmo](https://open.spotify.com/album/3mnTNZd1y937CHweU2nMDN) | 6:37 |
-| 47 | [Tu Me Fascinas \- Ao Vivo](https://open.spotify.com/track/41NibAItjNsql9NScvLcon) | [Mariana Vieira](https://open.spotify.com/artist/2uUm1FW0PANuzL0hiSH9o2) | [Tu Me Fascinas \(Ao Vivo\)](https://open.spotify.com/album/7n6nvrL341R9qArB6Avkd7) | 4:43 |
-| 48 | [Em Nome de Jesus](https://open.spotify.com/track/6bruHygWw6BLa8hJpkvqLy) | [Matheus França](https://open.spotify.com/artist/1JuV0g5Q2wjlF6gXmk3pGh) | [Em Nome de Jesus](https://open.spotify.com/album/4ObShvodTt4OCF1wlp22pe) | 5:07 |
-| 49 | [Tu És Real](https://open.spotify.com/track/7nzBmdLOPtGOmwsWTyNBwq) | [Tamires Sabotage](https://open.spotify.com/artist/0eYjKbGoRo60kmsjZlgAAy) | [Tu És Real](https://open.spotify.com/album/4NoPJEE6kCMWwFutabtrzj) | 5:02 |
+| 46 | [Tu Me Fascinas \- Ao Vivo](https://open.spotify.com/track/41NibAItjNsql9NScvLcon) | [Mariana Vieira](https://open.spotify.com/artist/2uUm1FW0PANuzL0hiSH9o2) | [Tu Me Fascinas \(Ao Vivo\)](https://open.spotify.com/album/7n6nvrL341R9qArB6Avkd7) | 4:43 |
+| 47 | [Não Serei o Mesmo \- Ao Vivo](https://open.spotify.com/track/69gwv2KxdlG7cEJnBLtYf6) | [Renata Reis](https://open.spotify.com/artist/5N1xm9Ct1wWvR5AfcVZMDS) | [Não Serei o Mesmo](https://open.spotify.com/album/3mnTNZd1y937CHweU2nMDN) | 6:37 |
+| 48 | [Tu És Real](https://open.spotify.com/track/7nzBmdLOPtGOmwsWTyNBwq) | [Tamires Sabotage](https://open.spotify.com/artist/0eYjKbGoRo60kmsjZlgAAy) | [Tu És Real](https://open.spotify.com/album/4NoPJEE6kCMWwFutabtrzj) | 5:02 |
+| 49 | [Em Nome de Jesus](https://open.spotify.com/track/6bruHygWw6BLa8hJpkvqLy) | [Matheus França](https://open.spotify.com/artist/1JuV0g5Q2wjlF6gXmk3pGh) | [Em Nome de Jesus](https://open.spotify.com/album/4ObShvodTt4OCF1wlp22pe) | 5:07 |
 | 50 | [Pedaços](https://open.spotify.com/track/4AMynmRZe5KROmgA6pq9I4) | [Matheus Ferreira](https://open.spotify.com/artist/22qVBbq872oJZLTDHqLxIh) | [Pedaços](https://open.spotify.com/album/0FQ8Nc7qIXL2iLMM8semJg) | 4:19 |
 | 51 | [Graça](https://open.spotify.com/track/0OLq6ePXSrz4bOgF2xqWT3) | [Tamara Pyller](https://open.spotify.com/artist/20vcBBOWdZLyUo297CcBGO) | [Graça](https://open.spotify.com/album/55Z5QH9ieP02mhRkkj2h14) | 4:11 |
 | 52 | [Passos](https://open.spotify.com/track/0W5TW739qb2vnwdDxOPPTw) | [Alma Soul](https://open.spotify.com/artist/6kL0urQlNvf1wvGKupJgFu), [Eduardo Bessa](https://open.spotify.com/artist/13cmbwyecac2vFdnhFiTdr) | [Passos](https://open.spotify.com/album/6C2WBh9NBHy3gazMBinyQc) | 3:34 |
@@ -69,4 +69,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3uTE4ljTDvd.md) - [plain]
 | 59 | [anotando pensamentos](https://open.spotify.com/track/0h2SvOZaLFMz9zXqZWbsCV) | [Cefas Music](https://open.spotify.com/artist/1npL9RAyQ9lqL9CSKGZuUg), [Hellen Camargo](https://open.spotify.com/artist/2ZHTlAJiLrRBpTfkjUMiEA) | [anotando pensamentos](https://open.spotify.com/album/5VAXssXVjE5k669CQXrirE) | 4:31 |
 | 60 | [Em uma Só Voz](https://open.spotify.com/track/2vEgmzy4XwoQIvey9Gt39d) | [Kethelen Baittinger](https://open.spotify.com/artist/5LG8UU5L7I1QGFDGVH7MnA) | [Em uma Só Voz](https://open.spotify.com/album/7zxAOAWKhTRXq7ArWl61fc) | 6:06 |
 
-Snapshot ID: `AAAAABsde2/idpTcLcvgLThBQFu8t0C0`
+Snapshot ID: `AAAAAI5/eP0uYHOucPfx3UCQUKjmgnIr`

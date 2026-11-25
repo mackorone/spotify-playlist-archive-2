@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7qRTMD2EbNu.md) - [plain]
 
 > Hottest bars coming live from the 233\.  Cover: Kweku Flick
 
-[Spotify](https://open.spotify.com/user/spotify) - 37,835 likes - 70 songs - 3 hr 28 min
+[Spotify](https://open.spotify.com/user/spotify) - 37,848 likes - 70 songs - 3 hr 28 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -79,4 +79,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7qRTMD2EbNu.md) - [plain]
 | 69 | [Adu the Borga](https://open.spotify.com/track/1USHzKwx6N8MO9ePRnpqfo) | [Kweku Smoke](https://open.spotify.com/artist/7AP5AMBQvTzTBB7IUSVLzO) | [WALK WITH ME](https://open.spotify.com/album/5AMNvhVAyOSfEwTtZ4lXdl) | 2:34 |
 | 70 | [Won't Be Here Forever](https://open.spotify.com/track/6cBnyv4GsGl9VJx2tW2oP5) | [reggie](https://open.spotify.com/artist/08gM7TMuG3DTBmWUuH0w8T), [Kojo Trilla](https://open.spotify.com/artist/7mmtBuQzPDjAzgiyYFJO55), [O'Kenneth](https://open.spotify.com/artist/3EyOT8FSuINDoWYHfm8TIM) | [How Did We Get Here](https://open.spotify.com/album/0EqCL0NBywUAAVFuPrUHK8) | 3:05 |
 
-Snapshot ID: `AAAAAB7/ZsvUR4eQRDjlOJRVdu+Kye5G`
+Snapshot ID: `AAAAAL5MMhUmby9La6K2t8wD2xlKKXh/`

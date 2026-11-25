@@ -1585,6 +1585,24 @@
     },
     {
       "album": {
+        "name": "Al Cielo, Devil May Cry",
+        "url": "https://open.spotify.com/album/0GUrz1oEzqPc9lE8syo4Vn"
+      },
+      "artists": [
+        {
+          "name": "Carolina Durante",
+          "url": "https://open.spotify.com/artist/2BVE7Pqd8kxv9xEsuvoJoE"
+        }
+      ],
+      "date_added": "2026-11-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 233758,
+      "name": "Al Cielo, Devil May Cry",
+      "url": "https://open.spotify.com/track/1Bv1PPTy7DGRqw9JU17EiE"
+    },
+    {
+      "album": {
         "name": "Albatross",
         "url": "https://open.spotify.com/album/6356xgpTuIF4p5oWdQ0jSR"
       },
@@ -3482,7 +3500,7 @@
       ],
       "date_added": "2026-10-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-25",
       "duration_ms": 230359,
       "name": "Bad Luck Hideaway",
       "url": "https://open.spotify.com/track/4ObTobZKWY0nKPvHibhdUM"
@@ -10538,7 +10556,7 @@
       ],
       "date_added": "2026-08-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-25",
       "duration_ms": 207344,
       "name": "Die For You (feat. Neoni)",
       "url": "https://open.spotify.com/track/6XeNgLFQvhNZrF854ndrWL"
@@ -13498,6 +13516,28 @@
       "duration_ms": 249293,
       "name": "Fangs",
       "url": "https://open.spotify.com/track/4zXA5VxlbMVvg21Hi5RjcC"
+    },
+    {
+      "album": {
+        "name": "fangs!! (feat. Jacob Charlton)",
+        "url": "https://open.spotify.com/album/6I2I9MQKAia21pTz5SparO"
+      },
+      "artists": [
+        {
+          "name": "Silent Planet",
+          "url": "https://open.spotify.com/artist/0JGTiwfinlCuANGu4Gq2XU"
+        },
+        {
+          "name": "Jacob Charlton",
+          "url": "https://open.spotify.com/artist/2HqCz2f12Frw8b3MLGDU0s"
+        }
+      ],
+      "date_added": "2026-11-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 233426,
+      "name": "fangs!! (feat. Jacob Charlton)",
+      "url": "https://open.spotify.com/track/0QzSO1N189wfc4XYHUZg3w"
     },
     {
       "album": {
@@ -32338,7 +32378,7 @@
       ],
       "date_added": "2026-10-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-25",
       "duration_ms": 273375,
       "name": "Rollercoaster",
       "url": "https://open.spotify.com/track/0zGnH3NbrPSP22g87xOKxZ"
@@ -39116,6 +39156,24 @@
       "duration_ms": 395716,
       "name": "The Summoning",
       "url": "https://open.spotify.com/track/1yCE0X5qLWOrLkR8NC0ZUJ"
+    },
+    {
+      "album": {
+        "name": "Crown In The Grave",
+        "url": "https://open.spotify.com/album/0jOdCEw4os9y6W5ciRsyhQ"
+      },
+      "artists": [
+        {
+          "name": "Trivium",
+          "url": "https://open.spotify.com/artist/278ZYwGhdK6QTzE3MFePnP"
+        }
+      ],
+      "date_added": "2026-11-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 282360,
+      "name": "The Terror",
+      "url": "https://open.spotify.com/track/2AhaxVHsIEJXXrAtHpLsty"
     },
     {
       "album": {

@@ -4,7 +4,7 @@
 
 > FREE SUBMISSIONS \- Got unreleased music in 2026 or like to hear unsigned artists?  30 days free promotion for new music\. Just submit via my linktree: https:&\#x2F;&\#x2F;linktr.ee&\#x2F;Anythings.Possible.Music
 
-3,324 songs - 7 day 6 hr 35 min
+3,325 songs - 7 day 6 hr 38 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -1064,6 +1064,7 @@
 | [Get Whatchu Want](https://open.spotify.com/track/00xyqtGW0Ujnt8rmm7mxcf) | [Delavelour](https://open.spotify.com/artist/5S0nKxBaNjyVYnZzXNjLMF) | [Get Whatchu Want](https://open.spotify.com/album/3EiOdfVHG16uvJnJemCqSQ) | 6:42 | 2026-11-11 |  |
 | [Gethsemane](https://open.spotify.com/track/3uhCqQ9jiGNuAkGKv70lUP) | [Alex Walker](https://open.spotify.com/artist/4jWBiHXMRhQ9ymY2QyuozG), [Scott and Annie McKinnon](https://open.spotify.com/artist/4yTARaUWR79Ak1Z5LZPiao) | [Gethsemane](https://open.spotify.com/album/7DY89utDSJ98TOfcPFiUsC) | 4:40 | 2026-04-03 | 2026-05-05 |
 | [Ghost of You](https://open.spotify.com/track/2AqpXbXUdkcT7RaSjWJTJR) | [Billy Holley](https://open.spotify.com/artist/4kyZuN4Dowu3l7KKv5T0hO), [Jaime Deraz](https://open.spotify.com/artist/4J7ascv32yT6yE75KRCktv) | [Ghost of You](https://open.spotify.com/album/6VMicGu8CFoHXvCNwvscYK) | 2:55 | 2026-07-14 | 2026-08-15 |
+| [GHOST TOWN](https://open.spotify.com/track/22Dg2L6nvMIjrrhB9qEqSn) | [KONISHI](https://open.spotify.com/artist/1kdiiDDLFkQ90jLJpw3FI0) | [GHOST TOWN](https://open.spotify.com/album/1T6ZJsZZIlPstmsK7SaLiH) | 3:01 | 2026-11-24 |  |
 | [Ghostings](https://open.spotify.com/track/34GKCFgC48l2qHqwYst8My) | [Obsoletha](https://open.spotify.com/artist/6qDfjOqJJ4H8mMdGRDWwY7) | [Shenanigansia Vol.2](https://open.spotify.com/album/0JrGNjTeA3ObLmAnvhcqWR) | 4:51 | 2026-05-28 | 2026-07-01 |
 | [Ghoul](https://open.spotify.com/track/1qNZ8hE15ca11ls2LnRrEM) | [Aida the Myth](https://open.spotify.com/artist/6VqACte5xZHz5OEGIVWwAv) | [Ghoul](https://open.spotify.com/album/5f51rccqM8u1KYkmmfav7Y) | 2:56 | 2026-08-07 | 2026-09-09 |
 | [Giants](https://open.spotify.com/track/2o85KJc7O2CrQWyW70yzt6) | [NURE](https://open.spotify.com/artist/75rs5jsRztU6TrsvsbB2Ee) | [Day By Day](https://open.spotify.com/album/6t6Nxv3J2rc93ovAUfi1Jv) | 2:57 | 2026-03-02 | 2026-04-03 |

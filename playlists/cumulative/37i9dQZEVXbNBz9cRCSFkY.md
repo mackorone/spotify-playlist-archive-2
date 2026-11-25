@@ -4,7 +4,7 @@
 
 > Your daily update of the most played tracks right now \- Philippines.
 
-1,285 songs - 3 day 5 hr 57 min
+1,287 songs - 3 day 6 hr 4 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -52,6 +52,7 @@
 | [Alam Mo Ba Girl](https://open.spotify.com/track/57Z7lSnhwx82laEb6rdZPB) | [Hev Abi](https://open.spotify.com/artist/4zpGxqF6oI1h3f6Md2v42T) | [Kung Alam Mo Lang](https://open.spotify.com/album/36OmXvGRKAY2zICbVtItoa) | 3:43 | 2023-11-09 | 2026-05-06 |
 | [Alcohol\-Free](https://open.spotify.com/track/3iPbmpKBMflYd7UjdYftoj) | [TWICE](https://open.spotify.com/artist/7n2Ycct7Beij7Dj7meI4X0) | [Alcohol\-Free](https://open.spotify.com/album/55KZPPx9Ep8QrYqdBcn8aE) | 3:30 | 2021-06-12 | 2021-08-27 |
 | [Alcohol\-Free](https://open.spotify.com/track/6HTwoo4dUOvePNqMsTarPA) | [TWICE](https://open.spotify.com/artist/7n2Ycct7Beij7Dj7meI4X0) | [Alcohol\-Free](https://open.spotify.com/album/6UIHtz9pSMArPCOEkUkLOp) | 3:30 | 2021-06-11 | 2021-06-12 |
+| [Alice](https://open.spotify.com/track/4VnWT9DFcirLS1w90neMmM) | [GDEE](https://open.spotify.com/artist/2VHxdmlEtPaC9BIWOSTeon) | [Alice](https://open.spotify.com/album/5ILL97a3SShg3yVwkYN3Wt) | 3:19 | 2026-11-24 |  |
 | [Aliens](https://open.spotify.com/track/5tg21NdePCn5m8F9BXOEeJ) | [BTS](https://open.spotify.com/artist/3Nrfpe0tUJi4K4DXYWgMUX) | [ARIRANG](https://open.spotify.com/album/3ukkRHDHbN8tNRPKsGZR1h) | 2:47 | 2026-03-21 | 2026-03-28 |
 | [Alipin](https://open.spotify.com/track/4m9p3fGGkutMcvjgVTu1QN) | [Khel Pangilinan](https://open.spotify.com/artist/30DIeQNV9s1HEXyuCpGF4l) | [BANDROOM SESSIONS EPISODE 1](https://open.spotify.com/album/5yGhuPl0wpNaZQDOaFGda2) | 3:54 | 2025-08-15 | 2025-10-04 |
 | [Alipin](https://open.spotify.com/track/3KhjY6JxrGo6ii77SbILG7) | [Shamrock](https://open.spotify.com/artist/2TnJoEY5ctCfKaCwosowyY) | [Are You Serious?](https://open.spotify.com/album/6rfNifF9BMWfvuXng0TBoW) | 4:23 | 2025-08-18 | 2025-08-20 |
@@ -116,12 +117,13 @@
 | [Baby 123](https://open.spotify.com/track/3chBLXLQgj1KB2h1KgQxmF) | [RAPROJECT SIX](https://open.spotify.com/artist/02QBz6b5fpeADDbuTE1C59), [MADAM SAUCE](https://open.spotify.com/artist/3yL6zbQBFZbBp2cUG38Eu2) | [Baby 123](https://open.spotify.com/album/6z2T61xva7VFBk7a2rUmrx) | 2:56 | 2026-09-30 |  |
 | [Baby Blue Love](https://open.spotify.com/track/7Jzo3IObpANz6giPTUrihB) | [TWICE](https://open.spotify.com/artist/7n2Ycct7Beij7Dj7meI4X0) | [Taste of Love](https://open.spotify.com/album/00vb6sViDbJLmLLchfbRh4) | 2:46 | 2021-06-13 | 2021-06-14 |
 | [Babydoll](https://open.spotify.com/track/7yNf9YjeO5JXUE3JEBgnYc) | [Dominic Fike](https://open.spotify.com/artist/6USv9qhCn6zfxlBQIYJ9qs) | [Don't Forget About Me, Demos](https://open.spotify.com/album/05jbNkYoEQdjVDHEHtg1gY) | 1:37 | 2026-03-26 | 2026-05-01 |
+| [Babydoll](https://open.spotify.com/track/1o9mAOmNm3wT2NdyGV1Ard) | [Jamie Miller](https://open.spotify.com/artist/2LkkwxA19J8C52wPQl5bG6) | [Babydoll](https://open.spotify.com/album/2FRSDXehsQLDy2rYnZ9Drq) | 2:58 | 2026-11-24 |  |
 | [Back To December](https://open.spotify.com/track/3DrjZArsPsoqbLzUZZV1Id) | [Taylor Swift](https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02) | [Speak Now](https://open.spotify.com/album/5MfAxS5zz8MlfROjGQVXhy) | 4:53 | 2023-07-07 | 2023-07-10 |
 | [Back To December](https://open.spotify.com/track/0tr6XR58KBdDYd8qvHVTs8) | [Taylor Swift](https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02) | [Speak Now \(Deluxe Package\)](https://open.spotify.com/album/6S6JQWzUrJVcJLK4fi74Fw) | 4:53 | 2022-12-02 | 2022-12-08 |
 | [Back To December \(Taylor's Version\)](https://open.spotify.com/track/79uDOz0zuuWS7HWxzMmTa2) | [Taylor Swift](https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02) | [Speak Now \(Taylor's Version\)](https://open.spotify.com/album/5AEDGbliTTfjOB8TSm1sxt) | 4:54 | 2023-07-08 | 2023-08-27 |
 | [back to friends](https://open.spotify.com/track/0FTmksd2dxiE5e3rWyJXs6) | [sombr](https://open.spotify.com/artist/4G9NDjRyZFDlJKMRL8hx3S) | [back to friends](https://open.spotify.com/album/0QLILSOq1IqAqx62drmv4E) | 3:19 | 2025-05-04 | 2025-08-24 |
 | [back to friends](https://open.spotify.com/track/7qjZnBKE73H4Oxkopwulqe) | [sombr](https://open.spotify.com/artist/4G9NDjRyZFDlJKMRL8hx3S) | [I Barely Know Her](https://open.spotify.com/album/7mvXPtV4jvA1hp5Wx2FAJA) | 3:19 | 2025-08-23 | 2026-11-06 |
-| [Backburner](https://open.spotify.com/track/4x2PkqSLtuwv53hLqq4GiY) | [NIKI](https://open.spotify.com/artist/2kxP07DLgs4xlWz8YHlvfh) | [Nicole](https://open.spotify.com/album/0TMmGHybMKtsjBBEmwXHkF) | 3:56 | 2025-02-13 |  |
+| [Backburner](https://open.spotify.com/track/4x2PkqSLtuwv53hLqq4GiY) | [NIKI](https://open.spotify.com/artist/2kxP07DLgs4xlWz8YHlvfh) | [Nicole](https://open.spotify.com/album/0TMmGHybMKtsjBBEmwXHkF) | 3:56 | 2025-02-13 | 2026-11-25 |
 | [bad](https://open.spotify.com/track/5TZKpQFKCbIlWGD8DzHbC6) | [wave to earth](https://open.spotify.com/artist/5069JTmv5ZDyPeZaCCXiCg) | [0.1 flaws and all.](https://open.spotify.com/album/0kT2Dn4QknHk92h76ZcMk0) | 4:23 | 2023-09-18 | 2023-12-26 |
 | [Bad Blood \(Taylor's Version\)](https://open.spotify.com/track/64FzgoLZ3oXu2SriZblHic) | [Taylor Swift](https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02) | [1989 \(Taylor's Version\)](https://open.spotify.com/album/64LU4c1nfjz1t4VnGhagcg) | 3:31 | 2023-10-28 | 2023-11-01 |
 | [Bad Decisions \(with BTS & Snoop Dogg\)](https://open.spotify.com/track/0xzI1KAr0Yd9tv8jlIk3sn) | [benny blanco](https://open.spotify.com/artist/5CiGnKThu5ctn9pBxv7DGa), [BTS](https://open.spotify.com/artist/3Nrfpe0tUJi4K4DXYWgMUX), [Snoop Dogg](https://open.spotify.com/artist/7hJcb9fa4alzcOq3EaNPoG) | [Bad Decisions \(with BTS & Snoop Dogg\)](https://open.spotify.com/album/2km2gV8HN1lk1e1GEDl7SN) | 2:52 | 2022-08-06 | 2022-09-13 |
@@ -220,7 +222,7 @@
 | [Christmas in Our Hearts](https://open.spotify.com/track/7rrVN7f83kwaz2sGxoFnJY) | [Jose Mari Chan](https://open.spotify.com/artist/1EHAbA1GMYOfkh9ds9eNfS) | [Christmas in Our Hearts](https://open.spotify.com/album/3WPwRhJqWbl9lkv8DDq8jh) | 3:27 | 2021-09-03 | 2022-12-27 |
 | [Christmas Tree](https://open.spotify.com/track/186NCtNk1tUYS7c2DxgJ7O) | [V](https://open.spotify.com/artist/3JsHnjpbhX4SnySpvpa9DK) | [Our Beloved Summer \(Original Television Soundtrack\), Pt\. 5](https://open.spotify.com/album/4210mSQ3r10AsJMZEYAH5l) | 3:29 | 2021-12-26 | 2022-03-22 |
 | [Cinderella \(feat\. Ty Dolla $ign\)](https://open.spotify.com/track/2lpygKqzPFtItQ4ss3cgfb) | [Mac Miller](https://open.spotify.com/artist/4LLpKhyESsyAXpc4laK94U), [Ty Dolla $ign](https://open.spotify.com/artist/7c0XG5cIJTrrAgEC3ULPiq) | [The Divine Feminine](https://open.spotify.com/album/6f6tko6NWoH00cyFOl4VYQ) | 8:00 | 2026-08-22 | 2026-10-31 |
-| [City Girl](https://open.spotify.com/track/2vnd3JVvcLs2LxRFwC6mKu) | [Shanti Dope](https://open.spotify.com/artist/6ogIjp0fsbUxlqy9q2rvrT) | [City Girl](https://open.spotify.com/album/4iG7VV7lveOx4wM0iCLg2j) | 3:08 | 2023-01-07 |  |
+| [City Girl](https://open.spotify.com/track/2vnd3JVvcLs2LxRFwC6mKu) | [Shanti Dope](https://open.spotify.com/artist/6ogIjp0fsbUxlqy9q2rvrT) | [City Girl](https://open.spotify.com/album/4iG7VV7lveOx4wM0iCLg2j) | 3:08 | 2023-01-07 | 2026-11-25 |
 | [City Girl](https://open.spotify.com/track/3L9rTnMdVeqX3CqAaGQh4E) | [Shanti Dope](https://open.spotify.com/artist/6ogIjp0fsbUxlqy9q2rvrT) | [City Girl](https://open.spotify.com/album/0NI5j63Y83dEQWItn3tHIg) | 3:08 | 2022-12-13 | 2023-01-07 |
 | [Clara Bow](https://open.spotify.com/track/1UlhrRvYzbHEyugEDspXUB) | [Taylor Swift](https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02) | [THE TORTURED POETS DEPARTMENT](https://open.spotify.com/album/1Mo4aZ8pdj6L1jx8zSwJnt) | 3:36 | 2024-04-20 | 2024-04-23 |
 | [Clean \(Taylor's Version\)](https://open.spotify.com/track/2ByBBvpR9b7IynvRmnG7kG) | [Taylor Swift](https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02) | [1989 \(Taylor's Version\)](https://open.spotify.com/album/64LU4c1nfjz1t4VnGhagcg) | 4:31 | 2023-10-28 | 2023-11-03 |

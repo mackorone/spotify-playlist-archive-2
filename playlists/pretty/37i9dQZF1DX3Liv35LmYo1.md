@@ -55,8 +55,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3Liv35LmYo1.md) - [plain]
 | 45 | [Corundrum](https://open.spotify.com/track/3RbD9sf6y6QxA4BGMvtXRr) | [Knopha](https://open.spotify.com/artist/3FgmBnQVnritfgmLRpwNAF) | [Kwong](https://open.spotify.com/album/16YCGbxqVsH1PAMqOS57JB) | 5:43 |
 | 46 | [Jesper](https://open.spotify.com/track/7JNwNDg2I9SS79aGm6cxvF) | [2XM](https://open.spotify.com/artist/3mvWwdMf9ypJJKRXg6eL32) | [Jesper](https://open.spotify.com/album/4VSoAgoOCnHThOIgGgx77C) | 4:21 |
 | 47 | [BOY](https://open.spotify.com/track/6Q3z3LmFRjPTBFaLCbsHOd) | [Ryan Hemsworth](https://open.spotify.com/artist/2CgysNw5B7rFNRtRjQbPZ9) | [BOY / if u wanna cry](https://open.spotify.com/album/79Wtz0l5ubAbkzlRJOk2Ie) | 3:03 |
-| 48 | [Coasting](https://open.spotify.com/track/4GH858YJvWQnMrJULGEDxR) | [Achingdrum](https://open.spotify.com/artist/7JYSNyL7lYRsQHAfxQkIie) | [Coasting](https://open.spotify.com/album/54DYqYdimIsZdIvxzQEtAJ) | 4:03 |
-| 49 | [Fortune Teller](https://open.spotify.com/track/3a6nQetpY79GE7nkqXKyVC) | [Polito](https://open.spotify.com/artist/6O6fqsTlbgAkpge0oKhATO) | [Fortune Teller](https://open.spotify.com/album/1bjM2LT6B6EUC95d01mqJ5) | 3:40 |
+| 48 | [Fortune Teller](https://open.spotify.com/track/3a6nQetpY79GE7nkqXKyVC) | [Polito](https://open.spotify.com/artist/6O6fqsTlbgAkpge0oKhATO) | [Fortune Teller](https://open.spotify.com/album/1bjM2LT6B6EUC95d01mqJ5) | 3:40 |
+| 49 | [Coasting](https://open.spotify.com/track/4GH858YJvWQnMrJULGEDxR) | [Achingdrum](https://open.spotify.com/artist/7JYSNyL7lYRsQHAfxQkIie) | [Coasting](https://open.spotify.com/album/54DYqYdimIsZdIvxzQEtAJ) | 4:03 |
 | 50 | [Violet \- DJ Python Remix](https://open.spotify.com/track/6JijA1sJukJFkEXlOnK9ZI) | [The Range](https://open.spotify.com/artist/5xsSdtWHooM9IL5WnDWTdD), [DJ Python](https://open.spotify.com/artist/1LoZxxInSyuVFKSMAB4BPl) | [Mercury Remixes](https://open.spotify.com/album/4dgG6jfRwyZyDLtB8F2yVZ) | 3:27 |
 
-Snapshot ID: `AAAAAM8WdFKUDDBI2gmZ9DGjigHECSDb`
+Snapshot ID: `AAAAAH3SCl41kYRKFh4x9XQdb1/oPeA1`

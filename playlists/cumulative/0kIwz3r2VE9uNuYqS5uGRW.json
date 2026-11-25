@@ -1825,6 +1825,24 @@
     },
     {
       "album": {
+        "name": "Fl\u00fcchtlinge (Radio Edit)",
+        "url": "https://open.spotify.com/album/6XEsZm9oyuI3NN01NnFUVD"
+      },
+      "artists": [
+        {
+          "name": "The Parachute Testers",
+          "url": "https://open.spotify.com/artist/1PAxZHUziAlRgffxOonf9E"
+        }
+      ],
+      "date_added": "2026-11-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 280122,
+      "name": "Fl\u00fcchtlinge - Radio Edit",
+      "url": "https://open.spotify.com/track/1ENK4X6NnxxdR0uIU0XwUI"
+    },
+    {
+      "album": {
         "name": "Foolish",
         "url": "https://open.spotify.com/album/0qu3zdChmXT5ByD9A9Y0Zw"
       },

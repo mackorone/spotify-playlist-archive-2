@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8RrjZR06viH.md) - [plain]
 
 > 🌱🌸🌾🌼
 
-[Spotify](https://open.spotify.com/user/spotify) - 157,542 likes - 85 songs - 4 hr 31 min
+[Spotify](https://open.spotify.com/user/spotify) - 157,527 likes - 85 songs - 4 hr 31 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -41,13 +41,13 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8RrjZR06viH.md) - [plain]
 | 31 | [Gold](https://open.spotify.com/track/3hZo9UznjcWfJ9vkOho6Ea) | [Myles Smith](https://open.spotify.com/artist/3bO19AOone0ubCsfDXDtYt) | [A Minute, A Moment...](https://open.spotify.com/album/02Im7TTPFgjVmXc3HpIkUj) | 2:44 |
 | 32 | [Hemingway](https://open.spotify.com/track/1BBVsOxgQ2soUs87ypiMZH) | [girl in red](https://open.spotify.com/artist/3uwAm6vQy7kWPS2bciKWx9) | [Hemingway](https://open.spotify.com/album/3JKMx86ymxWRpnBhmbBAus) | 3:16 |
 | 33 | [Alle vil til himmelen](https://open.spotify.com/track/2HrQbrT7N3VcV3PmZIy9Wq) | [Emma Steinbakken](https://open.spotify.com/artist/3GIadM69XShFZNB3gP67Td), [Synne Vo](https://open.spotify.com/artist/5WDOXIkjKNjEzlXmLgZVz9) | [Alle vil til himmelen](https://open.spotify.com/album/4vzLkPviZltNi8oI7F6e2Z) | 2:25 |
-| 34 | [KARPE4LIFE](https://open.spotify.com/track/5EMRYazBHIoeKXHZ0941gO) | [Karpe](https://open.spotify.com/artist/3X23gpg1vPacr0hBARyxtN) | [OVERTIME/OVERKILL VOL\. 7](https://open.spotify.com/album/2fzl4ljcjIfXZHXfiz3BlL) | 2:46 |
-| 35 | [Fri](https://open.spotify.com/track/5yuzzYiP9DZru2es7nTolF) | [Streetboys](https://open.spotify.com/artist/6R3OPXyzteMubaNClGZZDW) | [FRI](https://open.spotify.com/album/2BKqivqcfDmcWWQGSxI9LA) | 3:05 |
+| 34 | [Fri](https://open.spotify.com/track/5yuzzYiP9DZru2es7nTolF) | [Streetboys](https://open.spotify.com/artist/6R3OPXyzteMubaNClGZZDW) | [FRI](https://open.spotify.com/album/2BKqivqcfDmcWWQGSxI9LA) | 3:05 |
+| 35 | [KARPE4LIFE](https://open.spotify.com/track/5EMRYazBHIoeKXHZ0941gO) | [Karpe](https://open.spotify.com/artist/3X23gpg1vPacr0hBARyxtN) | [OVERTIME/OVERKILL VOL\. 7](https://open.spotify.com/album/2fzl4ljcjIfXZHXfiz3BlL) | 2:46 |
 | 36 | [Ingen her e deg](https://open.spotify.com/track/3eR6Hc3POZkClqpCsUy0qL) | [Tobias Sten](https://open.spotify.com/artist/2dy8l9ul5UQAvF3bL6Q3Mz), [Synne Vo](https://open.spotify.com/artist/5WDOXIkjKNjEzlXmLgZVz9) | [Tobias Sten \(Utvida\)](https://open.spotify.com/album/2amxjhjDQaFYho4orTUehy) | 4:00 |
 | 37 | [Lips](https://open.spotify.com/track/12vs8cG1lkt4Eq53nLK2GV) | [Aden Foyer](https://open.spotify.com/artist/54NKhABnyGAvbek0n63TAu) | [Lips](https://open.spotify.com/album/4pAwod3owXQHQIBQwMM5a9) | 2:15 |
 | 38 | [Sjelen](https://open.spotify.com/track/6Azklj5eui0iZ4ikG0L47g) | [Delara](https://open.spotify.com/artist/2PVHjhJWIKgb2yfBTmQerg) | [Sjelen](https://open.spotify.com/album/1MPznXnULu0vA6rNA6O32L) | 2:48 |
-| 39 | [Paw Patrol](https://open.spotify.com/track/2XnbiDy4iVlRaoEw0Swnnk) | [Karpe](https://open.spotify.com/artist/3X23gpg1vPacr0hBARyxtN) | [OVERTIME/OVERKILL VOL\. 1](https://open.spotify.com/album/1D0KuQFJ34HPuWC0ndW4Pn) | 3:31 |
-| 40 | [Der du brente vår bro \- Spotify Singles](https://open.spotify.com/track/3JJrV0alnSfJ6n9EtiqRk9) | [Ruben](https://open.spotify.com/artist/0x3PXj1WnuW7YsBxQK57xM), [Miriam Bryant](https://open.spotify.com/artist/2zd9YxlsQvA5mkZ1NarYVQ) | [Der du brente vår bro \- Spotify Singles](https://open.spotify.com/album/1HoKUWp7mHeJErg7rRWp5q) | 2:53 |
+| 39 | [Der du brente vår bro \- Spotify Singles](https://open.spotify.com/track/3JJrV0alnSfJ6n9EtiqRk9) | [Ruben](https://open.spotify.com/artist/0x3PXj1WnuW7YsBxQK57xM), [Miriam Bryant](https://open.spotify.com/artist/2zd9YxlsQvA5mkZ1NarYVQ) | [Der du brente vår bro \- Spotify Singles](https://open.spotify.com/album/1HoKUWp7mHeJErg7rRWp5q) | 2:53 |
+| 40 | [Paw Patrol](https://open.spotify.com/track/2XnbiDy4iVlRaoEw0Swnnk) | [Karpe](https://open.spotify.com/artist/3X23gpg1vPacr0hBARyxtN) | [OVERTIME/OVERKILL VOL\. 1](https://open.spotify.com/album/1D0KuQFJ34HPuWC0ndW4Pn) | 3:31 |
 | 41 | [Heavy Hearts](https://open.spotify.com/track/6nIJe0uujNETpZWWMlDazL) | [SYML](https://open.spotify.com/artist/6AyATGg7mDgBlZ4N5uNog0) | [Nobody Lives Here](https://open.spotify.com/album/779IZOhupymkjX6dzygMl9) | 2:57 |
 | 42 | [Fiji](https://open.spotify.com/track/4goZlS7441L0Atf2BzC2lH) | [Victor Leksell](https://open.spotify.com/artist/6RJXSfbIkEMoCJ8GAg2dVO) | [Fiji](https://open.spotify.com/album/7B8bJuucCOAPu2wvYSGxfv) | 2:38 |
 | 43 | [Hånd i hånd](https://open.spotify.com/track/66AfUjHnIjqXqyeI9IRjtZ) | [Tobias Sten](https://open.spotify.com/artist/2dy8l9ul5UQAvF3bL6Q3Mz) | [Hånd i hånd](https://open.spotify.com/album/6ecIxoN986DqqDyGR7TxjY) | 4:18 |
@@ -71,8 +71,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8RrjZR06viH.md) - [plain]
 | 61 | [Hjemme](https://open.spotify.com/track/6FPKJnJMghrBQUQuSY5nnQ) | [Gabrielle](https://open.spotify.com/artist/4OovmAu23KrDlDQI2UbneL) | [Hjemme](https://open.spotify.com/album/5EVeTeHyY3IvVXYmz29rZr) | 3:56 |
 | 62 | [Delt i to](https://open.spotify.com/track/0kL2WXiMfgkDZFYwyRjvxZ) | [Ingrid Vårvik](https://open.spotify.com/artist/0EZzUcdUUvHZbw77Cmy5uU) | [Delt i to](https://open.spotify.com/album/1HZ2QKz0QAnDM7O6nk1cSN) | 3:15 |
 | 63 | [Gå bli lykkelig, du](https://open.spotify.com/track/7BW1YkNQ1lsCKBE2UXXQpS) | [Chris Holsten](https://open.spotify.com/artist/63Dir7MyAhpGcHU3rOh3uF) | [Gå bli lykkelig, du](https://open.spotify.com/album/4jp2qk1lRXaEk8FhnvKm2g) | 3:07 |
-| 64 | [Love Freely](https://open.spotify.com/track/3tzRMtdyVxmfPCmOS6vD9q) | [Kristian Kristensen](https://open.spotify.com/artist/75ZTlOo6olxm9thcXVh6Ta) | [Love Freely](https://open.spotify.com/album/6D8D2LMhVQ1XSk8atnhWgs) | 3:52 |
-| 65 | [Nå har du meg](https://open.spotify.com/track/33coicso7oegceR6nB7Srl) | [Emelie Hollow](https://open.spotify.com/artist/61pvU6ZLOF3bl0IOtbmME7) | [Nå har du meg](https://open.spotify.com/album/5MjN3dWFsEMB2HuyjaeXBy) | 3:41 |
+| 64 | [Nå har du meg](https://open.spotify.com/track/33coicso7oegceR6nB7Srl) | [Emelie Hollow](https://open.spotify.com/artist/61pvU6ZLOF3bl0IOtbmME7) | [Nå har du meg](https://open.spotify.com/album/5MjN3dWFsEMB2HuyjaeXBy) | 3:41 |
+| 65 | [Love Freely](https://open.spotify.com/track/3tzRMtdyVxmfPCmOS6vD9q) | [Kristian Kristensen](https://open.spotify.com/artist/75ZTlOo6olxm9thcXVh6Ta) | [Love Freely](https://open.spotify.com/album/6D8D2LMhVQ1XSk8atnhWgs) | 3:52 |
 | 66 | [Clean](https://open.spotify.com/track/0tBXqaYjAqaQp55uRdhgAt) | [Alessia Cara](https://open.spotify.com/artist/2wUjUUtkb5lvLKcGKsKqsR) | [Love & Hyperbole \(Deluxe\)](https://open.spotify.com/album/6rBEtMQZsYPe9xtPpP9QdC) | 3:12 |
 | 67 | [God Knows](https://open.spotify.com/track/0yOwc5hOnEQSgDTApRPgzC) | [Calum Scott](https://open.spotify.com/artist/6ydoSd3N2mwgwBHtF6K7eX) | [God Knows](https://open.spotify.com/album/3G3sTPzTb0R6OQTt3nJI7i) | 2:50 |
 | 68 | [Alchemy \(Living Is Not For The Heart\)](https://open.spotify.com/track/3kkoHaiT9qQkEyMBNkdDxQ) | [Iris Caltwait](https://open.spotify.com/artist/5jOiYJPp5e84cnK2KO1aNz) | [Again, for the first time](https://open.spotify.com/album/395n7Rh9sxYRP7n9ylsNVd) | 3:39 |
@@ -87,11 +87,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8RrjZR06viH.md) - [plain]
 | 77 | [Revolve](https://open.spotify.com/track/4c4SBx9iL4E8qqxOCNBHLP) | [Aden Foyer](https://open.spotify.com/artist/54NKhABnyGAvbek0n63TAu) | [Revolve](https://open.spotify.com/album/5gl0GYihYgfulQPOEZMKEH) | 3:29 |
 | 78 | [Fargepalett](https://open.spotify.com/track/7r8FITLqf8562PHKShR9gc) | [Nessi](https://open.spotify.com/artist/6BU3m4HABKbgt8jhyFuBdl) | [Fargepalett](https://open.spotify.com/album/7DDnAh6stiJh89pYttClM6) | 2:21 |
 | 79 | [Oppe på månen](https://open.spotify.com/track/4PtFehKH1ric4In2Mc5Asg) | [Chris Holsten](https://open.spotify.com/artist/63Dir7MyAhpGcHU3rOh3uF) | [Oppe på månen](https://open.spotify.com/album/2D2Q25zXzCo9uu8OydjVyl) | 3:35 |
-| 80 | [Late Bloomer](https://open.spotify.com/track/2O5HmTtJOZaRQ6TMOKf4Gg) | [Randi Oline](https://open.spotify.com/artist/5O7vw7DOXDVSqVWWc8FpYV) | [Jeg vil ikke stå i ro lenger](https://open.spotify.com/album/5tOX3r3JMbo4tCYOuExN8A) | 2:53 |
+| 80 | [Oh Love \- Acoustic](https://open.spotify.com/track/1eJJfaTChNekT1pudPc2Ur) | [Emilie Nicolas](https://open.spotify.com/artist/4cXE1g28uYrIaUisUx5cJt) | [Oh Love \(Acoustic\)](https://open.spotify.com/album/2LYicowoYBTLSr5vRw0zOZ) | 3:21 |
 | 81 | [Movie Star](https://open.spotify.com/track/1so1kGUP6s6tcNzTT3Ti8C) | [Anna Lille](https://open.spotify.com/artist/4nwpfzpdL72UcfB0O3y6Gk) | [Movie Star](https://open.spotify.com/album/2EVK7ogrwinAiH5ylrCVTR) | 3:56 |
-| 82 | [Oh Love \- Acoustic](https://open.spotify.com/track/1eJJfaTChNekT1pudPc2Ur) | [Emilie Nicolas](https://open.spotify.com/artist/4cXE1g28uYrIaUisUx5cJt) | [Oh Love \(Acoustic\)](https://open.spotify.com/album/2LYicowoYBTLSr5vRw0zOZ) | 3:21 |
+| 82 | [Late Bloomer](https://open.spotify.com/track/2O5HmTtJOZaRQ6TMOKf4Gg) | [Randi Oline](https://open.spotify.com/artist/5O7vw7DOXDVSqVWWc8FpYV) | [Jeg vil ikke stå i ro lenger](https://open.spotify.com/album/5tOX3r3JMbo4tCYOuExN8A) | 2:53 |
 | 83 | [Memory Be a Blade](https://open.spotify.com/track/6kM3Uqz3MRTVGTzu93EZIA) | [waterbaby](https://open.spotify.com/artist/7ig7r3UikvL9qJe7pQvCBn) | [Memory Be a Blade](https://open.spotify.com/album/459tZ5BMnPXsDQpLsfTI00) | 3:41 |
 | 84 | [Southern Star \(feat\. AURORA\)](https://open.spotify.com/track/4rDNGiBF4tZbCDeeTH42II) | [Leif Vollebekk](https://open.spotify.com/artist/3jzXlBF2157k4exx7idecs), [AURORA](https://open.spotify.com/artist/1WgXqy2Dd70QQOU7Ay074N) | [Southern Star \(feat\. AURORA\)](https://open.spotify.com/album/09ffeND0KDUNaU5UvzHioj) | 5:04 |
 | 85 | [Ta med deg døra](https://open.spotify.com/track/1OAkvD5srk4M9AGZk0gSPQ) | [Zimmermann](https://open.spotify.com/artist/624LRh2tnvHek6iQrWZcmB) | [Ta med deg døra](https://open.spotify.com/album/4VHqpvGnzLuNqkT5cEbE4K) | 3:31 |
 
-Snapshot ID: `AAAAANDrgW0OzT9SF4mbDgLLZSQiya+i`
+Snapshot ID: `AAAAAMak4JUYyIj88oVx9YptMPV+uIx/`

@@ -167,6 +167,24 @@
     },
     {
       "album": {
+        "name": "Songs For Beginners",
+        "url": "https://open.spotify.com/album/3Lh1KbeS801PtOeojquUPk"
+      },
+      "artists": [
+        {
+          "name": "Graham Nash",
+          "url": "https://open.spotify.com/artist/2E6Roj0oQnJIm2BeXwDica"
+        }
+      ],
+      "date_added": "2026-11-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 230173,
+      "name": "Better Days",
+      "url": "https://open.spotify.com/track/28s5iRbX62GZG2ReZTLKDa"
+    },
+    {
+      "album": {
         "name": "Luck and Strange",
         "url": "https://open.spotify.com/album/2j2jOwKnbrXv5UpEU5fWrn"
       },

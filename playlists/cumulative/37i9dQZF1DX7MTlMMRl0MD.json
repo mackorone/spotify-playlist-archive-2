@@ -1284,7 +1284,7 @@
       ],
       "date_added": "2025-10-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-25",
       "duration_ms": 208931,
       "name": "Cita",
       "url": "https://open.spotify.com/track/6qunupscDkjPmalMp3ybbs"
@@ -6626,6 +6626,24 @@
       "duration_ms": 230073,
       "name": "Qu\u00e9 Pecao",
       "url": "https://open.spotify.com/track/456U68M8lIymkz56Zroxh8"
+    },
+    {
+      "album": {
+        "name": "Qu\u00edmica",
+        "url": "https://open.spotify.com/album/4pt3YzSijT0QJBowxRd7Jm"
+      },
+      "artists": [
+        {
+          "name": "Johnny Sky",
+          "url": "https://open.spotify.com/artist/3EVZsBWq5KqdtS6eVNHN8d"
+        }
+      ],
+      "date_added": "2026-11-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 188677,
+      "name": "Qu\u00edmica",
+      "url": "https://open.spotify.com/track/3Gq7jBOYcn2SsbTdfEFWtU"
     },
     {
       "album": {

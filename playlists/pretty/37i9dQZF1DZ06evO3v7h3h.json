@@ -1,12 +1,12 @@
 {
   "description": "This is Rashid. The essential tracks, all in one playlist.",
-  "num_followers": 45663,
+  "num_followers": 45661,
   "original_name": "This Is Rashid",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "awIwgAAAAADwoqs2DV6N3yHGIsEQdlpk",
+  "snapshot_id": "awOCAAAAAADZ/CQX2qJ9pImxUe9ggoyw",
   "tracks": [
     {
       "added_at": null,
@@ -643,6 +643,30 @@
     {
       "added_at": null,
       "album": {
+        "name": "Portal",
+        "url": "https://open.spotify.com/album/6N08e31kV1LFzuBJ7UIzZx"
+      },
+      "artists": [
+        {
+          "name": "Rashid",
+          "url": "https://open.spotify.com/artist/5WgRuO0mhM36NFoapzpWBH"
+        },
+        {
+          "name": "Melly",
+          "url": "https://open.spotify.com/artist/7a7n9ka0Mnevq19mOU8tcW"
+        },
+        {
+          "name": "Duda Raupp",
+          "url": "https://open.spotify.com/artist/1TblNIhFNuu2fTJbTp6rDp"
+        }
+      ],
+      "duration_ms": 219294,
+      "name": "Levante",
+      "url": "https://open.spotify.com/track/67rPbbujQNh4XYwtwAowTs"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Quem Tem Um Amigo (Tem Tudo)",
         "url": "https://open.spotify.com/album/3yCfk5tZsvi3cWfLPzsqf3"
       },
@@ -711,30 +735,6 @@
       "duration_ms": 647666,
       "name": "Mandume (feat. Drik Barbosa, Raph\u00e3o Alaafin, Muzzike, Amiri, Coruja BC1, Rico Dalasam & Rashid) - Ao Vivo",
       "url": "https://open.spotify.com/track/6AI7u64to3bm9Iga4t2TmX"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Portal",
-        "url": "https://open.spotify.com/album/6N08e31kV1LFzuBJ7UIzZx"
-      },
-      "artists": [
-        {
-          "name": "Rashid",
-          "url": "https://open.spotify.com/artist/5WgRuO0mhM36NFoapzpWBH"
-        },
-        {
-          "name": "Melly",
-          "url": "https://open.spotify.com/artist/7a7n9ka0Mnevq19mOU8tcW"
-        },
-        {
-          "name": "Duda Raupp",
-          "url": "https://open.spotify.com/artist/1TblNIhFNuu2fTJbTp6rDp"
-        }
-      ],
-      "duration_ms": 219294,
-      "name": "Levante",
-      "url": "https://open.spotify.com/track/67rPbbujQNh4XYwtwAowTs"
     },
     {
       "added_at": null,
@@ -1079,30 +1079,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Meu Sol",
-        "url": "https://open.spotify.com/album/2C0wXtAfYl7xeW1bCOzVee"
-      },
-      "artists": [
-        {
-          "name": "Jonathan Ferr",
-          "url": "https://open.spotify.com/artist/50c0dnVoxvTMbfY0KSocJG"
-        },
-        {
-          "name": "Rashid",
-          "url": "https://open.spotify.com/artist/5WgRuO0mhM36NFoapzpWBH"
-        },
-        {
-          "name": "\u00c0VU\u00c0",
-          "url": "https://open.spotify.com/artist/7EDkQ6to7SSWWJto0gbdik"
-        }
-      ],
-      "duration_ms": 206643,
-      "name": "Meu Sol",
-      "url": "https://open.spotify.com/track/4zzXS96vHSXFwVTFfJoOHb"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Confundindo S\u00e1bios",
         "url": "https://open.spotify.com/album/73vP5dotg2gtDXVl1VoLYU"
       },
@@ -1135,6 +1111,30 @@
       "duration_ms": 213145,
       "name": "Segura Seu BO",
       "url": "https://open.spotify.com/track/7f7m3mnLnhmcKwBK4Aa0v6"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Meu Sol",
+        "url": "https://open.spotify.com/album/2C0wXtAfYl7xeW1bCOzVee"
+      },
+      "artists": [
+        {
+          "name": "Jonathan Ferr",
+          "url": "https://open.spotify.com/artist/50c0dnVoxvTMbfY0KSocJG"
+        },
+        {
+          "name": "Rashid",
+          "url": "https://open.spotify.com/artist/5WgRuO0mhM36NFoapzpWBH"
+        },
+        {
+          "name": "\u00c0VU\u00c0",
+          "url": "https://open.spotify.com/artist/7EDkQ6to7SSWWJto0gbdik"
+        }
+      ],
+      "duration_ms": 206643,
+      "name": "Meu Sol",
+      "url": "https://open.spotify.com/track/4zzXS96vHSXFwVTFfJoOHb"
     },
     {
       "added_at": null,

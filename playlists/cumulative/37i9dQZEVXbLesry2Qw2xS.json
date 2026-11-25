@@ -16784,7 +16784,7 @@
       ],
       "date_added": "2025-11-04",
       "date_added_asterisk": false,
-      "date_removed": "2026-11-22",
+      "date_removed": null,
       "duration_ms": 144521,
       "name": "Fever",
       "url": "https://open.spotify.com/track/09xhawlPUifhftf8zuie7w"
@@ -25290,7 +25290,7 @@
       ],
       "date_added": "2022-12-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-25",
       "duration_ms": 207199,
       "name": "It's Beginning to Look a Lot like Christmas",
       "url": "https://open.spotify.com/track/1rv46mRwDqMEhOBZ7vODg3"
@@ -25502,7 +25502,7 @@
       ],
       "date_added": "2024-11-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-25",
       "duration_ms": 152570,
       "name": "It's the Most Wonderful Time of the Year",
       "url": "https://open.spotify.com/track/5hslUAKq9I9CG2bAulFkHN"
@@ -28752,7 +28752,7 @@
       ],
       "date_added": "2026-09-26",
       "date_added_asterisk": false,
-      "date_removed": "2026-11-23",
+      "date_removed": null,
       "duration_ms": 175764,
       "name": "K\u00e4tu",
       "url": "https://open.spotify.com/track/5rfdCGDxFyDoGiJVzGW16z"
@@ -30328,7 +30328,7 @@
       ],
       "date_added": "2021-11-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-25",
       "duration_ms": 117146,
       "name": "Let It Snow! Let It Snow! Let It Snow!",
       "url": "https://open.spotify.com/track/2uFaJJtFpPDc5Pa95XzTvg"
@@ -47630,7 +47630,7 @@
       ],
       "date_added": "2021-11-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-25",
       "duration_ms": 204093,
       "name": "Santa Tell Me",
       "url": "https://open.spotify.com/track/0lizgQ7Qw35od7CYaoMBZb"
@@ -52998,7 +52998,7 @@
       ],
       "date_added": "2024-09-17",
       "date_added_asterisk": false,
-      "date_removed": "2026-11-21",
+      "date_removed": null,
       "duration_ms": 240426,
       "name": "Sweater Weather",
       "url": "https://open.spotify.com/track/0cQVqPuHQP4KEwc7ZUQmj6"
@@ -55106,7 +55106,7 @@
       ],
       "date_added": "2026-06-13",
       "date_added_asterisk": false,
-      "date_removed": "2026-11-21",
+      "date_removed": null,
       "duration_ms": 297090,
       "name": "the cure",
       "url": "https://open.spotify.com/track/55pBIZO1cqoldeqpp5WR7H"
@@ -58582,7 +58582,7 @@
       ],
       "date_added": "2021-11-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-25",
       "duration_ms": 229638,
       "name": "Underneath the Tree",
       "url": "https://open.spotify.com/track/3nAp4IvdMPPWEH9uuXFFV5"
@@ -64794,6 +64794,28 @@
       "duration_ms": 190586,
       "name": "\u041d\u0415 **\u041b\u0410\u041d\u042c",
       "url": "https://open.spotify.com/track/2wxXdVYalqmyon6tqcujQV"
+    },
+    {
+      "album": {
+        "name": "AMEN",
+        "url": "https://open.spotify.com/album/5EHYgkvWi5bg8X78YMKtZj"
+      },
+      "artists": [
+        {
+          "name": "Icegergert",
+          "url": "https://open.spotify.com/artist/4z3TiM4dsnvWDRcnqf3l0r"
+        },
+        {
+          "name": "A-THIS 52",
+          "url": "https://open.spotify.com/artist/0UHqSfz7HUzhSAi1aq1euQ"
+        }
+      ],
+      "date_added": "2026-11-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 164571,
+      "name": "\u041d\u0435 \u0432\u0438\u043d\u043e\u0432\u0435\u043d",
+      "url": "https://open.spotify.com/track/2WeDu0QB8FlNel61v1VnoG"
     },
     {
       "album": {

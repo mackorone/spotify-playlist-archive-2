@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcIme26eJxid.md) - [plain]
 
 > The most known Afro\-pop classics, all in one place! Cover: Lijadu Sisters
 
-[Spotify](https://open.spotify.com/user/spotify) - 137,409 likes - 40 songs - 4 hr 26 min
+[Spotify](https://open.spotify.com/user/spotify) - 137,429 likes - 40 songs - 4 hr 26 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -49,4 +49,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcIme26eJxid.md) - [plain]
 | 39 | [Theresa](https://open.spotify.com/track/6YJQB5lQWD4GrYZA1SFmB6) | [Daddy Lumba](https://open.spotify.com/artist/5yeOizI77ma33LNac9KiZr) | [Daddy Lumba Essentials](https://open.spotify.com/album/5DnSlaXpIKEvWgMEDhPyUE) | 5:37 |
 | 40 | [Expensive Shit](https://open.spotify.com/track/2g72QoX5ZZlEqQpKfnOdrj) | [Fela Kuti](https://open.spotify.com/artist/5CG9X521RDFWCuAhlo6QoR) | [The Best Of The Black President 2](https://open.spotify.com/album/5Nx9r4mbuWkfPsVZIvqWx2) | 13:13 |
 
-Snapshot ID: `AAAAAK0t8yGKjIkgziSpERCidfLA2QQA`
+Snapshot ID: `AAAAADrxRXANY8Nw6Rd4xerEk4/f1TGh`

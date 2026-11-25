@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX13ZzXoot6Jc.md) - [plain]
 
 > Luke Combs and Country hits that will have you singing every word.
 
-[Spotify](https://open.spotify.com/user/spotify) - 449,224 likes - 100 songs - 5 hr 31 min
+[Spotify](https://open.spotify.com/user/spotify) - 449,209 likes - 100 songs - 5 hr 31 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -94,9 +94,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX13ZzXoot6Jc.md) - [plain]
 | 84 | [I Wish You Would \(ft\. Midland\)](https://open.spotify.com/track/3wdvFJv9nXCmnBNzP2pMTo) | [Mackenzie Carpenter](https://open.spotify.com/artist/1gYlQ5LjfQz9QPaCApCsDZ), [Midland](https://open.spotify.com/artist/1DTZRmlVZBxx2wRQBtx6yi) | [I Wish You Would \(ft\. Midland\)](https://open.spotify.com/album/0MQvYrTBZn5k07K1gZhxf7) | 2:53 |
 | 85 | [Back Then Right Now](https://open.spotify.com/track/0GdZqKPBrvkpo7mk2OyHtf) | [Tyler Hubbard](https://open.spotify.com/artist/3BEV5FcxOtkQJ7lLRKMh3V) | [Back Then Right Now](https://open.spotify.com/album/3IQfOGGUJfBkWIgXzLaub9) | 3:21 |
 | 86 | [Leave Me Too](https://open.spotify.com/track/06CYe9F4IaMmSTAswOHQDD) | [Josh Ross](https://open.spotify.com/artist/1ZGTSMjK1D2HrpPTOh916U) | [Leave Me Too](https://open.spotify.com/album/6c3KEWO4IGcHfPAekbiarD) | 3:11 |
-| 87 | [Standing Room Only](https://open.spotify.com/track/6BOP0cv1eeXcvi1oE8bDVZ) | [Tim McGraw](https://open.spotify.com/artist/6roFdX1y5BYSbp60OTJWMd) | [Standing Room Only](https://open.spotify.com/album/3Rg5omHq5NUUpRQq6Bsuuw) | 3:46 |
+| 87 | [You Didn’t Hear It From Me](https://open.spotify.com/track/3nf11phTAo1DOMNwEWCBBf) | [James Barker Band](https://open.spotify.com/artist/54lUDwCk35ihJuK3yJCqHA) | [One Of Us](https://open.spotify.com/album/1JusbAeAs7tTPKAn0Y6iiA) | 3:09 |
 | 88 | [Can You Die From a Broken Heart \- feat\. Avril Lavigne](https://open.spotify.com/track/5GgOktu3FrHdb26jTrS4AK) | [Nate Smith](https://open.spotify.com/artist/4NYMUsIcUUsBHbV9DICa5x), [Avril Lavigne](https://open.spotify.com/artist/0p4nmQO2msCgU4IF37Wi3j) | [Can You Die From a Broken Heart \(feat\. Avril Lavigne\)](https://open.spotify.com/album/2KDbfU7ZAp8kOdFYZZadim) | 3:30 |
-| 89 | [You Didn’t Hear It From Me](https://open.spotify.com/track/3nf11phTAo1DOMNwEWCBBf) | [James Barker Band](https://open.spotify.com/artist/54lUDwCk35ihJuK3yJCqHA) | [One Of Us](https://open.spotify.com/album/1JusbAeAs7tTPKAn0Y6iiA) | 3:09 |
+| 89 | [Standing Room Only](https://open.spotify.com/track/6BOP0cv1eeXcvi1oE8bDVZ) | [Tim McGraw](https://open.spotify.com/artist/6roFdX1y5BYSbp60OTJWMd) | [Standing Room Only](https://open.spotify.com/album/3Rg5omHq5NUUpRQq6Bsuuw) | 3:46 |
 | 90 | [Some Whiskey](https://open.spotify.com/track/5Z48gU2EpgzhECkuuXp4Ev) | [Warren Zeiders](https://open.spotify.com/artist/7kplJl06UmldxLKseURAYi) | [Pretty Little Poison](https://open.spotify.com/album/2s7CBSj6aKbWmkfBU8eEsg) | 3:03 |
 | 91 | [Country's Cool Again](https://open.spotify.com/track/6fL5O5y6pSeU5Hjx9SgKar) | [Lainey Wilson](https://open.spotify.com/artist/6tPHARSq45lQ8BSALCfkFC) | [Country's Cool Again](https://open.spotify.com/album/2ktPg8ikDApRGiGSWNUC92) | 3:38 |
 | 92 | [Complicated](https://open.spotify.com/track/3GtjS01mYbI1FGUr9xy29d) | [Josh Ross](https://open.spotify.com/artist/1ZGTSMjK1D2HrpPTOh916U) | [Complicated](https://open.spotify.com/album/4KHD5LGWqkmyZSyZOU08l0) | 2:57 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX13ZzXoot6Jc.md) - [plain]
 | 99 | [Good News Sold](https://open.spotify.com/track/2nK23mwuUUiJTx9efT9Lvb) | [Jordan Davis](https://open.spotify.com/artist/77kULmXAQ6vWer7IIHdGzI) | [Good News Sold](https://open.spotify.com/album/0z3clvkLiQYa5q6bIcrODQ) | 3:23 |
 | 100 | [Take Her Home](https://open.spotify.com/track/0Jagf5iAYYiWAs0BEoWbWZ) | [Kenny Chesney](https://open.spotify.com/artist/3grHWM9bx2E9vwJCdlRv9O) | [Take Her Home](https://open.spotify.com/album/0be6zO5PTMEctXmGMb7R75) | 3:02 |
 
-Snapshot ID: `AAAAAKEM+5WLqW83RwSliKrFDS1MAHZH`
+Snapshot ID: `AAAAANLL7SspjqMla9A9YGqbuuSn7jHt`

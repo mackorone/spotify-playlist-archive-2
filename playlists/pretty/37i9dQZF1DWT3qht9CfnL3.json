@@ -1,12 +1,12 @@
 {
   "description": "LA P*TA GAMA LA MAMI \ud83d\udcf8 El More",
-  "num_followers": 312445,
+  "num_followers": 312655,
   "original_name": "El Diablo Viste a La Gama ",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAABMDW2wNT9ovd5BkycW/3My03svF",
+  "snapshot_id": "AAAAAMXPJGEAToQme2sxvWICkIQmiApm",
   "tracks": [
     {
       "added_at": "2026-11-20 02:17:57",
@@ -1003,22 +1003,6 @@
     {
       "added_at": "2026-11-20 02:17:57",
       "album": {
-        "name": "Delincuentech (Radio Edit)",
-        "url": "https://open.spotify.com/album/0IlGDd43Ys4WtuICg83Br6"
-      },
-      "artists": [
-        {
-          "name": "DJ DAVE",
-          "url": "https://open.spotify.com/artist/1ZrRs1vnQjCuupHAw3VeAA"
-        }
-      ],
-      "duration_ms": 123591,
-      "name": "Delincuentech - Radio Edit",
-      "url": "https://open.spotify.com/track/0LFrc6EsTEpX4uVrsf23sQ"
-    },
-    {
-      "added_at": "2026-11-20 02:17:57",
-      "album": {
         "name": "Frontea",
         "url": "https://open.spotify.com/album/2IRnUfaM1ekU5jNvMFjeJd"
       },
@@ -1043,6 +1027,22 @@
       "duration_ms": 159353,
       "name": "Frontea",
       "url": "https://open.spotify.com/track/2s7gqTv7AbGWefBPQudZX8"
+    },
+    {
+      "added_at": "2026-11-20 02:17:57",
+      "album": {
+        "name": "Delincuentech (Radio Edit)",
+        "url": "https://open.spotify.com/album/0IlGDd43Ys4WtuICg83Br6"
+      },
+      "artists": [
+        {
+          "name": "DJ DAVE",
+          "url": "https://open.spotify.com/artist/1ZrRs1vnQjCuupHAw3VeAA"
+        }
+      ],
+      "duration_ms": 123591,
+      "name": "Delincuentech - Radio Edit",
+      "url": "https://open.spotify.com/track/0LFrc6EsTEpX4uVrsf23sQ"
     },
     {
       "added_at": "2026-11-20 02:17:57",
@@ -1079,26 +1079,6 @@
     {
       "added_at": "2026-11-20 02:17:57",
       "album": {
-        "name": "PEKORITAS Vol.1 (DELUXE)",
-        "url": "https://open.spotify.com/album/6kxtprQAja19RIkQOOJu3c"
-      },
-      "artists": [
-        {
-          "name": "Porrilaporri",
-          "url": "https://open.spotify.com/artist/5HgxQ6LFlQO4xyLM0A1r17"
-        },
-        {
-          "name": "DENNA LA PORRI",
-          "url": "https://open.spotify.com/artist/0xc9ZT3PSktJFx0N96FJQG"
-        }
-      ],
-      "duration_ms": 169567,
-      "name": "CUANDO TE VEO - DELUXE",
-      "url": "https://open.spotify.com/track/6vLuE7XBQEZqz6KYYaT4nx"
-    },
-    {
-      "added_at": "2026-11-20 02:17:57",
-      "album": {
         "name": "LIL WAYNE",
         "url": "https://open.spotify.com/album/2znkkPypoQCELOiM6yKhZ2"
       },
@@ -1115,6 +1095,26 @@
       "duration_ms": 164210,
       "name": "LIL WAYNE",
       "url": "https://open.spotify.com/track/7M5E13NCPwRsRUxZuVmwy1"
+    },
+    {
+      "added_at": "2026-11-20 02:17:57",
+      "album": {
+        "name": "PEKORITAS Vol.1 (DELUXE)",
+        "url": "https://open.spotify.com/album/6kxtprQAja19RIkQOOJu3c"
+      },
+      "artists": [
+        {
+          "name": "Porrilaporri",
+          "url": "https://open.spotify.com/artist/5HgxQ6LFlQO4xyLM0A1r17"
+        },
+        {
+          "name": "DENNA LA PORRI",
+          "url": "https://open.spotify.com/artist/0xc9ZT3PSktJFx0N96FJQG"
+        }
+      ],
+      "duration_ms": 169567,
+      "name": "CUANDO TE VEO - DELUXE",
+      "url": "https://open.spotify.com/track/6vLuE7XBQEZqz6KYYaT4nx"
     }
   ],
   "unique_name": "El Diablo Viste a La Gama ",

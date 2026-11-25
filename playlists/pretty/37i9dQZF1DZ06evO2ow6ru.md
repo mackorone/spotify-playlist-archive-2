@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2ow6ru.md) - [plain]
 
 > This is All Time Low\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 178,907 likes - 50 songs - 2 hr 44 min
+[Spotify](https://open.spotify.com/user/spotify) - 178,906 likes - 50 songs - 2 hr 44 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -35,9 +35,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2ow6ru.md) - [plain]
 | 25 | [Oh No!](https://open.spotify.com/track/3svtGm2OBGaKjnNXoNjcxk) | [All Time Low](https://open.spotify.com/artist/46gyXjRIvN1NL1eCB8GBxo) | [Everyone's Talking!](https://open.spotify.com/album/02l2P4R1Q2FJX0zAaWr1bl) | 3:13 |
 | 26 | [Back to You](https://open.spotify.com/track/0NNFtjZHwjTZzBtBkRxhtY) | [ILLENIUM](https://open.spotify.com/artist/45eNHdiiabvmbp4erw26rg), [All Time Low](https://open.spotify.com/artist/46gyXjRIvN1NL1eCB8GBxo) | [ILLENIUM](https://open.spotify.com/album/0ValflNlWce21wm5PlwV60) | 3:07 |
 | 27 | [Stella](https://open.spotify.com/track/6hmEzWnA6ny2rqVOpB5Hcb) | [All Time Low](https://open.spotify.com/artist/46gyXjRIvN1NL1eCB8GBxo) | [Nothing Personal \(Deluxe Version\)](https://open.spotify.com/album/7tY7NcC2gKTxXsTJM6zK5I) | 3:24 |
-| 28 | [Poppin' Champagne](https://open.spotify.com/track/3aCRrvADMjFjZq1x8dWD0t) | [All Time Low](https://open.spotify.com/artist/46gyXjRIvN1NL1eCB8GBxo) | [So Wrong, It's Right](https://open.spotify.com/album/0H4ELcHequ3OligrjWfrZP) | 3:19 |
+| 28 | [Time\-Bomb](https://open.spotify.com/track/2qqn52sp9dDk2F9PdTrpwZ) | [All Time Low](https://open.spotify.com/artist/46gyXjRIvN1NL1eCB8GBxo) | [Dirty Work](https://open.spotify.com/album/2LJKiBomrpmLQhCZmNLrP8) | 3:29 |
 | 29 | [SUCKERPUNCH](https://open.spotify.com/track/3zbv1mZr0WtBpcF7x7YVqy) | [All Time Low](https://open.spotify.com/artist/46gyXjRIvN1NL1eCB8GBxo) | [Everyone's Talking!](https://open.spotify.com/album/02l2P4R1Q2FJX0zAaWr1bl) | 2:52 |
-| 30 | [Time\-Bomb](https://open.spotify.com/track/2qqn52sp9dDk2F9PdTrpwZ) | [All Time Low](https://open.spotify.com/artist/46gyXjRIvN1NL1eCB8GBxo) | [Dirty Work](https://open.spotify.com/album/2LJKiBomrpmLQhCZmNLrP8) | 3:29 |
+| 30 | [Poppin' Champagne](https://open.spotify.com/track/3aCRrvADMjFjZq1x8dWD0t) | [All Time Low](https://open.spotify.com/artist/46gyXjRIvN1NL1eCB8GBxo) | [So Wrong, It's Right](https://open.spotify.com/album/0H4ELcHequ3OligrjWfrZP) | 3:19 |
 | 31 | [New Religion \(feat\. Teddy Swims\)](https://open.spotify.com/track/5Vwaft3Bs1oqSPZrviuXnD) | [All Time Low](https://open.spotify.com/artist/46gyXjRIvN1NL1eCB8GBxo), [Teddy Swims](https://open.spotify.com/artist/33qOK5uJ8AR2xuQQAhHump) | [Tell Me I'm Alive](https://open.spotify.com/album/0gPGmJSxuqrpvXiWdOLcRh) | 3:04 |
 | 32 | [Missing You](https://open.spotify.com/track/0LSY3NePenK0VG7nRUTVk8) | [All Time Low](https://open.spotify.com/artist/46gyXjRIvN1NL1eCB8GBxo) | [Future Hearts](https://open.spotify.com/album/712X8QUI6uWg1JxHmz0l4I) | 4:04 |
 | 33 | [Everyone's Talking](https://open.spotify.com/track/7dU8KE0dkhacGphCn3MRm9) | [All Time Low](https://open.spotify.com/artist/46gyXjRIvN1NL1eCB8GBxo) | [Everyone's Talking!](https://open.spotify.com/album/02l2P4R1Q2FJX0zAaWr1bl) | 2:39 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2ow6ru.md) - [plain]
 | 49 | [Glitter & Crimson](https://open.spotify.com/track/4LpT15R6GqcKGjT92R8kfS) | [All Time Low](https://open.spotify.com/artist/46gyXjRIvN1NL1eCB8GBxo) | [Wake Up, Sunshine](https://open.spotify.com/album/1kwAv74rVTTGMpawGsXtiE) | 3:03 |
 | 50 | [Say Something \- Live From Spotify UK](https://open.spotify.com/track/3JHuDEDfKiFDvRaIlyBM5h) | [All Time Low](https://open.spotify.com/artist/46gyXjRIvN1NL1eCB8GBxo) | [Spotify Sessions](https://open.spotify.com/album/2otrDlo0zpTrCqoSuorzWd) | 3:24 |
 
-Snapshot ID: `awIwgAAAAAANSc7EPGZYBtT3SetYAqK1`
+Snapshot ID: `awOCAAAAAADVI7wDFcUnpDXC+FEJtPie`

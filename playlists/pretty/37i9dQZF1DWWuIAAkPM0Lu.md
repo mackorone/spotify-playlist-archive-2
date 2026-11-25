@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWuIAAkPM0Lu.md) - [plain]
 
 > Vi har ikke kun ventet på GTA6 men også på 'København' fra Ukendt Kunstner🏙️
 
-[Spotify](https://open.spotify.com/user/spotify) - 130,896 likes - 101 songs - 5 hr 18 min
+[Spotify](https://open.spotify.com/user/spotify) - 130,887 likes - 101 songs - 5 hr 18 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -110,4 +110,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWuIAAkPM0Lu.md) - [plain]
 | 100 | [Fast Life](https://open.spotify.com/track/5ZM15LGgcwkWzMveSwtUlt) | [NOBU](https://open.spotify.com/artist/2ORL4PIXALcP2XTywKrnk9) | [Fast Life](https://open.spotify.com/album/0VX5rL71nXChuuBGvskFp4) | 3:23 |
 | 101 | [No Way Out](https://open.spotify.com/track/4QTxiPpdmLj54McyhUMlCU) | [Isac Halldin](https://open.spotify.com/artist/3DvEEc12DMy5peHWgSw2UF) | [No Way Out](https://open.spotify.com/album/0iqnJw8eATQT3vFlnkLdl6) | 6:22 |
 
-Snapshot ID: `AAAAALwW2dPZJX5GhZtmORCsLXL9QITT`
+Snapshot ID: `AAAAAKC9QMk7PTqBQxOB7xhTzV9w+l04`

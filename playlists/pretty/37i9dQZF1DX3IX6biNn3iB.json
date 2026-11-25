@@ -1,12 +1,12 @@
 {
   "description": "Voices that are elevating nuestra cultura. Becky G en portada. ",
-  "num_followers": 4838,
+  "num_followers": 4837,
   "original_name": "Our Voice",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAFyz7YoZdfpd9Pn2/uy6QCfiphd1",
+  "snapshot_id": "AAAAAIuKcflTb68B7n4zV/NcuccUcVJB",
   "tracks": [
     {
       "added_at": "2026-09-18 19:07:30",
@@ -583,6 +583,22 @@
     {
       "added_at": "2026-09-18 19:07:30",
       "album": {
+        "name": "Te Vas A Arrepentir (Don't Hurt Him)",
+        "url": "https://open.spotify.com/album/0812v2AHlha3OC1xhulTfj"
+      },
+      "artists": [
+        {
+          "name": "Andrea Bejar",
+          "url": "https://open.spotify.com/artist/5l3g6Xp8KQE4prw9hk6rQ8"
+        }
+      ],
+      "duration_ms": 181493,
+      "name": "Te Vas A Arrepentir (Don't Hurt Him)",
+      "url": "https://open.spotify.com/track/4Vxy6bU9BRZfLqGkiu5IpH"
+    },
+    {
+      "added_at": "2026-09-18 19:07:30",
+      "album": {
         "name": "Miss Me Much?",
         "url": "https://open.spotify.com/album/1a84mOgwvjDxfwSBpJxoP2"
       },
@@ -611,22 +627,6 @@
       "duration_ms": 206366,
       "name": "miau",
       "url": "https://open.spotify.com/track/2Z7EkSkuK9oAnTN7AyRwMq"
-    },
-    {
-      "added_at": "2026-09-18 19:07:30",
-      "album": {
-        "name": "Te Vas A Arrepentir (Don't Hurt Him)",
-        "url": "https://open.spotify.com/album/0812v2AHlha3OC1xhulTfj"
-      },
-      "artists": [
-        {
-          "name": "Andrea Bejar",
-          "url": "https://open.spotify.com/artist/5l3g6Xp8KQE4prw9hk6rQ8"
-        }
-      ],
-      "duration_ms": 181493,
-      "name": "Te Vas A Arrepentir (Don't Hurt Him)",
-      "url": "https://open.spotify.com/track/4Vxy6bU9BRZfLqGkiu5IpH"
     },
     {
       "added_at": "2026-09-18 19:07:30",

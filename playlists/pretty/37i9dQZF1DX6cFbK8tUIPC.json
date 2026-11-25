@@ -1,12 +1,12 @@
 {
   "description": "The cinnamon-infused, crisp-air-breathing, crunchy-leaves-walking, chunky-knit-wearing, seasonal-latte-drinking playlist. ",
-  "num_followers": 569489,
+  "num_followers": 569499,
   "original_name": "pumpkin spice",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAAE3A79KLJy/eXngBTPH8ZPSvq1v",
+  "snapshot_id": "AAAAAHSy4kM42grPe1AEOX7gvkVHmN1W",
   "tracks": [
     {
       "added_at": "2026-09-17 12:03:43",
@@ -203,22 +203,6 @@
     {
       "added_at": "2026-09-17 12:03:43",
       "album": {
-        "name": "Scared To Start",
-        "url": "https://open.spotify.com/album/3NpeIWhWsxU7d3XL5KEh39"
-      },
-      "artists": [
-        {
-          "name": "Michael Marcagi",
-          "url": "https://open.spotify.com/artist/4j96cMcT8GRi11qbvo1cLQ"
-        }
-      ],
-      "duration_ms": 159636,
-      "name": "Scared To Start",
-      "url": "https://open.spotify.com/track/3Pbp7cUCx4d3OAkZSCoNvn"
-    },
-    {
-      "added_at": "2026-09-17 12:03:43",
-      "album": {
         "name": "Bathing Beach",
         "url": "https://open.spotify.com/album/4vGuMdwnxc6X8izbVS6MTN"
       },
@@ -231,6 +215,22 @@
       "duration_ms": 257533,
       "name": "Anchor",
       "url": "https://open.spotify.com/track/7qH9Z4dJEN0l9bidizW7fq"
+    },
+    {
+      "added_at": "2026-09-17 12:03:43",
+      "album": {
+        "name": "Scared To Start",
+        "url": "https://open.spotify.com/album/3NpeIWhWsxU7d3XL5KEh39"
+      },
+      "artists": [
+        {
+          "name": "Michael Marcagi",
+          "url": "https://open.spotify.com/artist/4j96cMcT8GRi11qbvo1cLQ"
+        }
+      ],
+      "duration_ms": 159636,
+      "name": "Scared To Start",
+      "url": "https://open.spotify.com/track/3Pbp7cUCx4d3OAkZSCoNvn"
     },
     {
       "added_at": "2026-09-17 12:03:43",
@@ -735,6 +735,22 @@
     {
       "added_at": "2026-09-17 12:03:43",
       "album": {
+        "name": "EURO-COUNTRY",
+        "url": "https://open.spotify.com/album/6p8GFQi9D44s9ODeml47ag"
+      },
+      "artists": [
+        {
+          "name": "CMAT",
+          "url": "https://open.spotify.com/artist/3VBNIRx1LxVdRqOiPgkLwv"
+        }
+      ],
+      "duration_ms": 306880,
+      "name": "Lord, Let That Tesla Crash",
+      "url": "https://open.spotify.com/track/7zG2ypB5BAr3bqPWVGVRj3"
+    },
+    {
+      "added_at": "2026-09-17 12:03:43",
+      "album": {
         "name": "First Two Pages of Frankenstein",
         "url": "https://open.spotify.com/album/5Mc6uebYtKnRc5I7bjlNB6"
       },
@@ -751,22 +767,6 @@
       "duration_ms": 267773,
       "name": "The Alcott (feat. Taylor Swift)",
       "url": "https://open.spotify.com/track/6INztpNwOTlfSKTuPo0HOP"
-    },
-    {
-      "added_at": "2026-09-17 12:03:43",
-      "album": {
-        "name": "EURO-COUNTRY",
-        "url": "https://open.spotify.com/album/6p8GFQi9D44s9ODeml47ag"
-      },
-      "artists": [
-        {
-          "name": "CMAT",
-          "url": "https://open.spotify.com/artist/3VBNIRx1LxVdRqOiPgkLwv"
-        }
-      ],
-      "duration_ms": 306880,
-      "name": "Lord, Let That Tesla Crash",
-      "url": "https://open.spotify.com/track/7zG2ypB5BAr3bqPWVGVRj3"
     },
     {
       "added_at": "2026-09-17 12:03:43",
@@ -1187,22 +1187,6 @@
     {
       "added_at": "2026-09-17 12:03:43",
       "album": {
-        "name": "No Thank You, I Love You, Goodbye",
-        "url": "https://open.spotify.com/album/7fcQkW0AShSOGLl1gKYpRj"
-      },
-      "artists": [
-        {
-          "name": "Lucy Dacus",
-          "url": "https://open.spotify.com/artist/07D1Bjaof0NFlU32KXiqUP"
-        }
-      ],
-      "duration_ms": 179042,
-      "name": "No Thank You, I Love You, Goodbye",
-      "url": "https://open.spotify.com/track/068okUVy4duZQXGEIQbn4g"
-    },
-    {
-      "added_at": "2026-09-17 12:03:43",
-      "album": {
         "name": "Older",
         "url": "https://open.spotify.com/album/7BZ8EqAsTS7GNfU8MhMCpe"
       },
@@ -1215,6 +1199,22 @@
       "duration_ms": 415969,
       "name": "Older",
       "url": "https://open.spotify.com/track/5ejTKcE8LBKrPD9ZTwuMeJ"
+    },
+    {
+      "added_at": "2026-09-17 12:03:43",
+      "album": {
+        "name": "No Thank You, I Love You, Goodbye",
+        "url": "https://open.spotify.com/album/7fcQkW0AShSOGLl1gKYpRj"
+      },
+      "artists": [
+        {
+          "name": "Lucy Dacus",
+          "url": "https://open.spotify.com/artist/07D1Bjaof0NFlU32KXiqUP"
+        }
+      ],
+      "duration_ms": 179042,
+      "name": "No Thank You, I Love You, Goodbye",
+      "url": "https://open.spotify.com/track/068okUVy4duZQXGEIQbn4g"
     },
     {
       "added_at": "2026-09-17 12:03:43",
@@ -1267,22 +1267,6 @@
     {
       "added_at": "2026-09-17 12:03:43",
       "album": {
-        "name": "Lovers to Strangers",
-        "url": "https://open.spotify.com/album/3x9bBb8Tl9ri8I3FxYU5CN"
-      },
-      "artists": [
-        {
-          "name": "Chance Pe\u00f1a",
-          "url": "https://open.spotify.com/artist/4lhUHpVOXmkEBGGHV71QCh"
-        }
-      ],
-      "duration_ms": 174086,
-      "name": "Lovers to Strangers",
-      "url": "https://open.spotify.com/track/401qSkk4KOeBVld2aiCAoK"
-    },
-    {
-      "added_at": "2026-09-17 12:03:43",
-      "album": {
         "name": "Double Infinity",
         "url": "https://open.spotify.com/album/1yEo1ZJE5ZgIF7LYrDTbMK"
       },
@@ -1295,6 +1279,22 @@
       "duration_ms": 288890,
       "name": "How Could I Have Known",
       "url": "https://open.spotify.com/track/17tN4TOGM562ach3uvZZUi"
+    },
+    {
+      "added_at": "2026-09-17 12:03:43",
+      "album": {
+        "name": "Lovers to Strangers",
+        "url": "https://open.spotify.com/album/3x9bBb8Tl9ri8I3FxYU5CN"
+      },
+      "artists": [
+        {
+          "name": "Chance Pe\u00f1a",
+          "url": "https://open.spotify.com/artist/4lhUHpVOXmkEBGGHV71QCh"
+        }
+      ],
+      "duration_ms": 174086,
+      "name": "Lovers to Strangers",
+      "url": "https://open.spotify.com/track/401qSkk4KOeBVld2aiCAoK"
     },
     {
       "added_at": "2026-09-17 12:03:43",
@@ -1463,22 +1463,6 @@
     {
       "added_at": "2026-09-17 12:03:43",
       "album": {
-        "name": "Heaven in the Right Light",
-        "url": "https://open.spotify.com/album/5kkjoTcwN0TkOjSSC55TCA"
-      },
-      "artists": [
-        {
-          "name": "Old Sea Brigade",
-          "url": "https://open.spotify.com/artist/6vUNwmljZAcn7tNtUoxG45"
-        }
-      ],
-      "duration_ms": 220955,
-      "name": "Heaven in the Right Light",
-      "url": "https://open.spotify.com/track/6HEpTm4JrCTKKEXMnoYc0e"
-    },
-    {
-      "added_at": "2026-09-17 12:03:43",
-      "album": {
         "name": "Triple Marathon",
         "url": "https://open.spotify.com/album/2PSzv4iDxvcbfTHL11obmh"
       },
@@ -1491,6 +1475,22 @@
       "duration_ms": 157223,
       "name": "Triple Marathon",
       "url": "https://open.spotify.com/track/6gEl8SZNT90jyNCXVhZ3BO"
+    },
+    {
+      "added_at": "2026-09-17 12:03:43",
+      "album": {
+        "name": "Heaven in the Right Light",
+        "url": "https://open.spotify.com/album/5kkjoTcwN0TkOjSSC55TCA"
+      },
+      "artists": [
+        {
+          "name": "Old Sea Brigade",
+          "url": "https://open.spotify.com/artist/6vUNwmljZAcn7tNtUoxG45"
+        }
+      ],
+      "duration_ms": 220955,
+      "name": "Heaven in the Right Light",
+      "url": "https://open.spotify.com/track/6HEpTm4JrCTKKEXMnoYc0e"
     },
     {
       "added_at": "2026-09-17 12:03:43",
@@ -1547,22 +1547,6 @@
     {
       "added_at": "2026-09-17 12:03:43",
       "album": {
-        "name": "(I Wish I Was) Ennio Morricone",
-        "url": "https://open.spotify.com/album/5dEp0el1BnbSe5oua18pym"
-      },
-      "artists": [
-        {
-          "name": "Dermot Henry",
-          "url": "https://open.spotify.com/artist/0RhsllRA8vVKWSiBxuF77H"
-        }
-      ],
-      "duration_ms": 175392,
-      "name": "(I Wish I Was) Ennio Morricone",
-      "url": "https://open.spotify.com/track/4yeDUauFzajxpph75xpVLx"
-    },
-    {
-      "added_at": "2026-09-17 12:03:43",
-      "album": {
         "name": "In My Gut",
         "url": "https://open.spotify.com/album/2PiR8a57tEeZOu3PFDjKvG"
       },
@@ -1575,6 +1559,22 @@
       "duration_ms": 172596,
       "name": "In My Gut",
       "url": "https://open.spotify.com/track/1sZ8sAMO3mbMIOKBNLciOF"
+    },
+    {
+      "added_at": "2026-09-17 12:03:43",
+      "album": {
+        "name": "(I Wish I Was) Ennio Morricone",
+        "url": "https://open.spotify.com/album/5dEp0el1BnbSe5oua18pym"
+      },
+      "artists": [
+        {
+          "name": "Dermot Henry",
+          "url": "https://open.spotify.com/artist/0RhsllRA8vVKWSiBxuF77H"
+        }
+      ],
+      "duration_ms": 175392,
+      "name": "(I Wish I Was) Ennio Morricone",
+      "url": "https://open.spotify.com/track/4yeDUauFzajxpph75xpVLx"
     },
     {
       "added_at": "2026-09-17 12:03:43",

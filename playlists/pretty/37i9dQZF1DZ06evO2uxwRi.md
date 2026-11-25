@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2uxwRi.md) - [plain]
 
 > This is New Found Glory\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 44,971 likes - 50 songs - 2 hr 40 min
+[Spotify](https://open.spotify.com/user/spotify) - 44,982 likes - 50 songs - 2 hr 41 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -42,21 +42,21 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2uxwRi.md) - [plain]
 | 32 | [Accidentally in Love](https://open.spotify.com/track/6dF8V3HeiLd8X2I2BkxhUV) | [New Found Glory](https://open.spotify.com/artist/4ghjRm4M2vChDfTUycx0Ce) | [From The Screen To Your Stereo 3](https://open.spotify.com/album/5kXa75AebVa3cTR07N4fxv) | 2:58 |
 | 33 | [The Promise](https://open.spotify.com/track/6HxrsPy2Ch9RV17KVld9pa) | [New Found Glory](https://open.spotify.com/artist/4ghjRm4M2vChDfTUycx0Ce) | [From The Screen To Your Stereo, Pt\. II](https://open.spotify.com/album/1LLHUxDRE2ocsNoPUaohzp) | 3:40 |
 | 34 | [It's Not Your Fault](https://open.spotify.com/track/6mWaIL3wd4XtxBZlvams5f) | [New Found Glory](https://open.spotify.com/artist/4ghjRm4M2vChDfTUycx0Ce) | [Coming Home](https://open.spotify.com/album/1rRe0RrLHXpYhOSQeiGgGK) | 3:37 |
-| 35 | [Listen To Your Friends](https://open.spotify.com/track/6WO21QtEl9GbQDx7vrpzWL) | [New Found Glory](https://open.spotify.com/artist/4ghjRm4M2vChDfTUycx0Ce) | [Not Without A Fight](https://open.spotify.com/album/5O2AXzJUf1lhZYHEwVBROO) | 3:19 |
-| 36 | [Laugh It Off](https://open.spotify.com/track/04b0odih4serjGTkd2vjUm) | [New Found Glory](https://open.spotify.com/artist/4ghjRm4M2vChDfTUycx0Ce) | [Listen Up!](https://open.spotify.com/album/3iEjqVnUrmjX4skfejAyHi) | 3:38 |
-| 37 | [My Heart Will Go On](https://open.spotify.com/track/1WVtn3yjabxY2016Lv96Ma) | [New Found Glory](https://open.spotify.com/artist/4ghjRm4M2vChDfTUycx0Ce) | [From The Screen To Your Stereo](https://open.spotify.com/album/6gLB4AXdU7VI21xsdRwhLl) | 3:03 |
+| 35 | [Laugh It Off](https://open.spotify.com/track/04b0odih4serjGTkd2vjUm) | [New Found Glory](https://open.spotify.com/artist/4ghjRm4M2vChDfTUycx0Ce) | [Listen Up!](https://open.spotify.com/album/3iEjqVnUrmjX4skfejAyHi) | 3:38 |
+| 36 | [My Heart Will Go On](https://open.spotify.com/track/1WVtn3yjabxY2016Lv96Ma) | [New Found Glory](https://open.spotify.com/artist/4ghjRm4M2vChDfTUycx0Ce) | [From The Screen To Your Stereo](https://open.spotify.com/album/6gLB4AXdU7VI21xsdRwhLl) | 3:03 |
+| 37 | [Listen To Your Friends](https://open.spotify.com/track/6WO21QtEl9GbQDx7vrpzWL) | [New Found Glory](https://open.spotify.com/artist/4ghjRm4M2vChDfTUycx0Ce) | [Not Without A Fight](https://open.spotify.com/album/5O2AXzJUf1lhZYHEwVBROO) | 3:19 |
 | 38 | [Eye of the Tiger](https://open.spotify.com/track/7zV1lZsCJZRh26TwAAz8uP) | [New Found Glory](https://open.spotify.com/artist/4ghjRm4M2vChDfTUycx0Ce) | [From The Screen To Your Stereo 3](https://open.spotify.com/album/5kXa75AebVa3cTR07N4fxv) | 3:24 |
-| 39 | [Good To Go](https://open.spotify.com/track/2YTLWdi3LS7YsMenX0qZIS) | [New Found Glory](https://open.spotify.com/artist/4ghjRm4M2vChDfTUycx0Ce) | [Good To Go](https://open.spotify.com/album/57D6Bp11c96DE7F1I40F7w) | 3:02 |
-| 40 | [Beer and Blood Stains](https://open.spotify.com/track/0ZzFPV1ksTXatHVgxNXvJz) | [New Found Glory](https://open.spotify.com/artist/4ghjRm4M2vChDfTUycx0Ce) | [Listen Up!](https://open.spotify.com/album/3iEjqVnUrmjX4skfejAyHi) | 3:19 |
+| 39 | [Beer and Blood Stains](https://open.spotify.com/track/0ZzFPV1ksTXatHVgxNXvJz) | [New Found Glory](https://open.spotify.com/artist/4ghjRm4M2vChDfTUycx0Ce) | [Listen Up!](https://open.spotify.com/album/3iEjqVnUrmjX4skfejAyHi) | 3:19 |
+| 40 | [Good To Go](https://open.spotify.com/track/2YTLWdi3LS7YsMenX0qZIS) | [New Found Glory](https://open.spotify.com/artist/4ghjRm4M2vChDfTUycx0Ce) | [Good To Go](https://open.spotify.com/album/57D6Bp11c96DE7F1I40F7w) | 3:02 |
 | 41 | [Don't Let Her Pull You Down](https://open.spotify.com/track/5ab6WsStT9zSlNZ9CSArje) | [New Found Glory](https://open.spotify.com/artist/4ghjRm4M2vChDfTUycx0Ce) | [Not Without A Fight](https://open.spotify.com/album/5O2AXzJUf1lhZYHEwVBROO) | 3:28 |
 | 42 | [I Don't Want To Miss A Thing](https://open.spotify.com/track/29LXlpqEptO2obuA2FC4HU) | [New Found Glory](https://open.spotify.com/artist/4ghjRm4M2vChDfTUycx0Ce) | [From The Screen To Your Stereo](https://open.spotify.com/album/6gLB4AXdU7VI21xsdRwhLl) | 2:30 |
-| 43 | [Sucker](https://open.spotify.com/track/2WS6N3g451413Qz9Fx5mQK) | [New Found Glory](https://open.spotify.com/artist/4ghjRm4M2vChDfTUycx0Ce) | [New Found Glory](https://open.spotify.com/album/4lrBF0IWC9wZiF6btB68ua) | 2:52 |
-| 44 | [Boom Roasted](https://open.spotify.com/track/4w6NzeDqQtJniU3q9lTZJc) | [New Found Glory](https://open.spotify.com/artist/4ghjRm4M2vChDfTUycx0Ce) | [Listen Up!](https://open.spotify.com/album/3iEjqVnUrmjX4skfejAyHi) | 2:43 |
-| 45 | [Summer Fling, Don't Mean a Thing](https://open.spotify.com/track/3SJ0UM1ZZQrFeuGYFKSqvq) | [New Found Glory](https://open.spotify.com/artist/4ghjRm4M2vChDfTUycx0Ce) | [Radiosurgery \(Deluxe Edition\)](https://open.spotify.com/album/7KshkjWC3BH1zzc8xJdEpp) | 2:57 |
+| 43 | [Boom Roasted](https://open.spotify.com/track/4w6NzeDqQtJniU3q9lTZJc) | [New Found Glory](https://open.spotify.com/artist/4ghjRm4M2vChDfTUycx0Ce) | [Listen Up!](https://open.spotify.com/album/3iEjqVnUrmjX4skfejAyHi) | 2:43 |
+| 44 | [Sucker](https://open.spotify.com/track/2WS6N3g451413Qz9Fx5mQK) | [New Found Glory](https://open.spotify.com/artist/4ghjRm4M2vChDfTUycx0Ce) | [New Found Glory](https://open.spotify.com/album/4lrBF0IWC9wZiF6btB68ua) | 2:52 |
+| 45 | [Happy Being Miserable](https://open.spotify.com/track/3ecBMN1YMtDvrRjIks6uAP) | [New Found Glory](https://open.spotify.com/artist/4ghjRm4M2vChDfTUycx0Ce) | [Makes Me Sick](https://open.spotify.com/album/2z9SJZVRMlOKDBtvQXwmhk) | 3:00 |
 | 46 | [\(Everything I Do\) I Do It For You](https://open.spotify.com/track/4ajRNEcPZ9IUY6uiCj7rpv) | [New Found Glory](https://open.spotify.com/artist/4ghjRm4M2vChDfTUycx0Ce) | [From The Screen To Your Stereo](https://open.spotify.com/album/6gLB4AXdU7VI21xsdRwhLl) | 2:54 |
-| 47 | [Happy Being Miserable](https://open.spotify.com/track/3ecBMN1YMtDvrRjIks6uAP) | [New Found Glory](https://open.spotify.com/artist/4ghjRm4M2vChDfTUycx0Ce) | [Makes Me Sick](https://open.spotify.com/album/2z9SJZVRMlOKDBtvQXwmhk) | 3:00 |
-| 48 | [Treat Yourself](https://open.spotify.com/track/3zV9ltwPTs7awTjWbnxm8Q) | [New Found Glory](https://open.spotify.com/artist/4ghjRm4M2vChDfTUycx0Ce) | [Listen Up!](https://open.spotify.com/album/3iEjqVnUrmjX4skfejAyHi) | 3:38 |
-| 49 | [Blitzkrieg Bop](https://open.spotify.com/track/1Oh3Qebn8nkZa0jCvC1B6P) | [New Found Glory](https://open.spotify.com/artist/4ghjRm4M2vChDfTUycx0Ce) | [Radiosurgery \(Deluxe Edition\)](https://open.spotify.com/album/7KshkjWC3BH1zzc8xJdEpp) | 2:02 |
-| 50 | [Second To Last](https://open.spotify.com/track/0MgztMkyVpMbgrlMfj5ToE) | [New Found Glory](https://open.spotify.com/artist/4ghjRm4M2vChDfTUycx0Ce) | [New Found Glory](https://open.spotify.com/album/2c33qDDUaE3wvolW7OoPEA) | 2:44 |
+| 47 | [Treat Yourself](https://open.spotify.com/track/3zV9ltwPTs7awTjWbnxm8Q) | [New Found Glory](https://open.spotify.com/artist/4ghjRm4M2vChDfTUycx0Ce) | [Listen Up!](https://open.spotify.com/album/3iEjqVnUrmjX4skfejAyHi) | 3:38 |
+| 48 | [Summer Fling, Don't Mean a Thing](https://open.spotify.com/track/3SJ0UM1ZZQrFeuGYFKSqvq) | [New Found Glory](https://open.spotify.com/artist/4ghjRm4M2vChDfTUycx0Ce) | [Radiosurgery \(Deluxe Edition\)](https://open.spotify.com/album/7KshkjWC3BH1zzc8xJdEpp) | 2:57 |
+| 49 | [Second To Last](https://open.spotify.com/track/0MgztMkyVpMbgrlMfj5ToE) | [New Found Glory](https://open.spotify.com/artist/4ghjRm4M2vChDfTUycx0Ce) | [New Found Glory](https://open.spotify.com/album/2c33qDDUaE3wvolW7OoPEA) | 2:44 |
+| 50 | [nothing matters \(with Jordan Pundik of New Found Glory\)](https://open.spotify.com/track/3HNIIQ6yyYZ3b8zHGeGogf) | [blackbear](https://open.spotify.com/artist/2cFrymmkijnjDg9SS92EPM), [New Found Glory](https://open.spotify.com/artist/4ghjRm4M2vChDfTUycx0Ce) | [in loving memory](https://open.spotify.com/album/0ZvU2iSXtYxBeR9QzvHQau) | 3:23 |
 
-Snapshot ID: `awIwgAAAAAAsA2zNO47MQn5iajIx9dFT`
+Snapshot ID: `awOCAAAAAAC25hXsz2D+nN96xKXt1Oz0`

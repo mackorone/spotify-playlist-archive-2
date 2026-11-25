@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZH1IszRUbkn.md) - [plain]
 
 > Canta juntos con tus artistas favoritos.
 
-[Spotify](https://open.spotify.com/user/spotify) - 2,609 likes - 50 songs - 2 hr 20 min
+[Spotify](https://open.spotify.com/user/spotify) - 2,612 likes - 50 songs - 2 hr 20 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -24,12 +24,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZH1IszRUbkn.md) - [plain]
 | 14 | [El Auto De Papá](https://open.spotify.com/track/66Z2LsDkNBc2rCWTqcOcB6) | [El Reino Infantil](https://open.spotify.com/artist/6EMoWayH9WulC8F8b6m3BH) | [Rondas y Clásicos Infantiles 2](https://open.spotify.com/album/6LSxhgKPmhfElYHtZnoTKg) | 3:26 |
 | 15 | [Recuérdame](https://open.spotify.com/track/3f3eX1P1jcRAmnBggOCRo3) | [Carlos Rivera](https://open.spotify.com/artist/39yVoqm6sYFvvqF1RciUVf) | [Coco \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/7nMexBA71PdwPnfqS5Yji5) | 2:43 |
 | 16 | [Libre Soy \- Single Version](https://open.spotify.com/track/0WXKTj2Lfa8zOgK4l7u32M) | [Martina Stoessel](https://open.spotify.com/artist/55TFMHRuyFaYFEKYnqKbSL) | [Frozen: Una Aventura Congelada \(Banda Sonora Original\)](https://open.spotify.com/album/5lTQwTqH8ItAw7zhuQiNvO) | 3:43 |
-| 17 | [Bichos](https://open.spotify.com/track/3peRufMxZi9baS60hEK4BN) | [Elenco Junior Express](https://open.spotify.com/artist/1qpObFWDQW9EPFSzAzi71h), [Diego Topa](https://open.spotify.com/artist/3y6NjjMEV0m5fSaz6AXTsa) | [Junior Express \- Grandes Éxitos](https://open.spotify.com/album/32PoW1uZHdQE8Gm3MGSkBG) | 2:45 |
+| 17 | [Un Nuevo Viaje](https://open.spotify.com/track/0amtQOumjJeGVMVbnq6EMl) | [Elenco Junior Express](https://open.spotify.com/artist/1qpObFWDQW9EPFSzAzi71h), [Diego Topa](https://open.spotify.com/artist/3y6NjjMEV0m5fSaz6AXTsa) | [Junior Express \- Grandes Éxitos](https://open.spotify.com/album/32PoW1uZHdQE8Gm3MGSkBG) | 2:04 |
 | 18 | [Caminito de la Escuela \- Remasterizado 1995](https://open.spotify.com/track/4zE0vkNCDI5Gxpe0esVtbt) | [Cri\-Cri](https://open.spotify.com/artist/4vM6clYXqkZbQv4O2OT5P4) | [Las 100 Clásicas de Cri Cri, Vol\. 2](https://open.spotify.com/album/4JuhGXNzdIBau0Rte4mwCX) | 2:22 |
 | 19 | [La Cucaracha](https://open.spotify.com/track/7vUU63HyochOSQ8OBvf5uk) | [Pica\-Pica](https://open.spotify.com/artist/3oaNnQa52hlN69wvaatUE2) | [El Patio de Mi Casa](https://open.spotify.com/album/6N4L3Vt3MeuKk3J0tvm9qN) | 2:04 |
 | 20 | [La Bruja de Nueva York](https://open.spotify.com/track/7atPDraoeT4FjHRDM82VOr) | [Patylu](https://open.spotify.com/artist/5nkNDzN92BPWBsPugagYfb) | [La Casita de Patylu](https://open.spotify.com/album/3xfTZePmvXmlPTlaUeDHuT) | 3:54 |
 | 21 | [Ser Mejor](https://open.spotify.com/track/7qUv1mFQLXSkFHiybwdgk8) | [Martina Stoessel](https://open.spotify.com/artist/55TFMHRuyFaYFEKYnqKbSL), [Jorge Blanco](https://open.spotify.com/artist/6MWKObDGDrI3jN3Q3d9dpD), [Pablo Espinosa](https://open.spotify.com/artist/7JOnYFbats5w0dEiHED2i4), [Mercedes Lambre](https://open.spotify.com/artist/6LIY7Ni8uMsuVOKZq4iNPh), [Lodovica Comello](https://open.spotify.com/artist/1vANzzDo9L1ZyCKJaYQQvq), [Candelaria Molfese](https://open.spotify.com/artist/3QHfoNHT7vrSZX2XatyEsy), [Samuel Nascmiento](https://open.spotify.com/artist/4tE054ScQH2W03Gq5YKMni), [Facundo Gambandé](https://open.spotify.com/artist/2yB4FfJdqlQ4UGVuZNTemG), [Alba Rico](https://open.spotify.com/artist/0OHS4qaEImZPoGt9TRuhFf), [Simone Lijoi](https://open.spotify.com/artist/5tD8SBQnGPlf17OgSD8mFw), [Rodrigo Velilla](https://open.spotify.com/artist/625j5WP6f7bEtBOu0StmKv), [Nick Garnier](https://open.spotify.com/artist/22FTF2sRe1pNWQKrotCSRy) | [Violetta \- La Música Es Mi Mundo](https://open.spotify.com/album/7lBVwNkGzT3M4qtCrgJA5r) | 3:28 |
-| 22 | [Un Nuevo Viaje](https://open.spotify.com/track/0amtQOumjJeGVMVbnq6EMl) | [Elenco Junior Express](https://open.spotify.com/artist/1qpObFWDQW9EPFSzAzi71h), [Diego Topa](https://open.spotify.com/artist/3y6NjjMEV0m5fSaz6AXTsa) | [Junior Express \- Grandes Éxitos](https://open.spotify.com/album/32PoW1uZHdQE8Gm3MGSkBG) | 2:04 |
+| 22 | [Bichos](https://open.spotify.com/track/3peRufMxZi9baS60hEK4BN) | [Elenco Junior Express](https://open.spotify.com/artist/1qpObFWDQW9EPFSzAzi71h), [Diego Topa](https://open.spotify.com/artist/3y6NjjMEV0m5fSaz6AXTsa) | [Junior Express \- Grandes Éxitos](https://open.spotify.com/album/32PoW1uZHdQE8Gm3MGSkBG) | 2:45 |
 | 23 | [La Patita](https://open.spotify.com/track/1aGPWR1quPaIAtZ8fUlphA) | [Cri\-Cri](https://open.spotify.com/artist/4vM6clYXqkZbQv4O2OT5P4) | [Las 100 Clásicas de Cri Cri, Vol\. 2](https://open.spotify.com/album/4JuhGXNzdIBau0Rte4mwCX) | 2:50 |
 | 24 | [Mueve el Ombligo](https://open.spotify.com/track/6A6iJVLM4LkDkKYCK7w7wx) | [La Banda de Carmen](https://open.spotify.com/artist/1J37T04jOISczqfu7UInu8) | [Música Infantil para Fiestas: Canciones para Bailar Niños y Padres](https://open.spotify.com/album/4mModRw64DMTdGsDfhzjYT) | 2:53 |
 | 25 | [Bajo El Mar](https://open.spotify.com/track/6woIpjACNI7t5p5ziGfl5t) | [Alejandro Sanz](https://open.spotify.com/artist/5sUrlPAHlS9NEirDB8SEbF) | [We Love Disney \(Latino\)](https://open.spotify.com/album/2Aoj9UQGgww7hWnziqtFLo) | 4:10 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZH1IszRUbkn.md) - [plain]
 | 49 | [Primavera](https://open.spotify.com/track/5aVUxd9e4u8GXqnX39LaDS) | [CantaJuego](https://open.spotify.com/artist/1A4041ctH86ZE5rFqr0Poe) | [Un Mundo De Canciones](https://open.spotify.com/album/36XYzswEBwXqGIjawO5juU) | 2:44 |
 | 50 | [La Regla Primordial \- Retrete Navarrete y los Bulliciosos](https://open.spotify.com/track/5HID7xBByWhvdEgR9B5uFr) | [31 Minutos](https://open.spotify.com/artist/1EgVsKobLzbNgILxx9wrVG) | [31 Minutos, Ratoncitos](https://open.spotify.com/album/5eymzke6O0xLndwXwltN2E) | 2:45 |
 
-Snapshot ID: `AAAAAHR8VMo7xoc/rsHXIHf0mtzl6Pe4`
+Snapshot ID: `AAAAAPyjVYjFmqbhQMZ8nzsUBlPAGYaf`

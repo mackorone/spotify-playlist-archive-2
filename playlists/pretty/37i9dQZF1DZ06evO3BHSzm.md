@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3BHSzm.md) - [plain]
 
 > This is The Who\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 216,726 likes - 50 songs - 3 hr 23 min
+[Spotify](https://open.spotify.com/user/spotify) - 216,725 likes - 50 songs - 3 hr 23 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -42,8 +42,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3BHSzm.md) - [plain]
 | 32 | [Batman \- Mono Version](https://open.spotify.com/track/7CcCDv8Pd91brlJISTEZlp) | [The Who](https://open.spotify.com/artist/67ea9eGLXYMsO2eYQRui3w) | [A Quick One](https://open.spotify.com/album/4YlPOh1uDMnHtDdzSdAGBM) | 1:34 |
 | 33 | [1921](https://open.spotify.com/track/2EJo2k8xmQsA3E5VwTta7I) | [The Who](https://open.spotify.com/artist/67ea9eGLXYMsO2eYQRui3w) | [Tommy](https://open.spotify.com/album/5cT7ee1sy2oEbFalP4asS4) | 2:49 |
 | 34 | [Boris The Spider](https://open.spotify.com/track/1S0F285e5h5BNI2gJAmPqe) | [The Who](https://open.spotify.com/artist/67ea9eGLXYMsO2eYQRui3w) | [A Quick One \(Expanded Edition\)](https://open.spotify.com/album/6f4mqM3RNAfO1t6XeeUa8P) | 2:29 |
-| 35 | [Imagine A Man \- Pete Vocal / Early Mix](https://open.spotify.com/track/2IyGgqtLMnC9w200ZTYer9) | [The Who](https://open.spotify.com/artist/67ea9eGLXYMsO2eYQRui3w) | [Imagine A Man \(Pete Vocal / Early Mix\)](https://open.spotify.com/album/4yUPSOAUYZecs36ykHYjkz) | 4:07 |
-| 36 | [I'm One](https://open.spotify.com/track/6TRQUflD06zYvNijwb2HNH) | [The Who](https://open.spotify.com/artist/67ea9eGLXYMsO2eYQRui3w) | [Quadrophenia \(Super Deluxe Edition\)](https://open.spotify.com/album/2miMVTH3qNA49YD2BUaIWK) | 2:37 |
+| 35 | [I'm One](https://open.spotify.com/track/6TRQUflD06zYvNijwb2HNH) | [The Who](https://open.spotify.com/artist/67ea9eGLXYMsO2eYQRui3w) | [Quadrophenia \(Super Deluxe Edition\)](https://open.spotify.com/album/2miMVTH3qNA49YD2BUaIWK) | 2:37 |
+| 36 | [Imagine A Man \- Pete Vocal / Early Mix](https://open.spotify.com/track/2IyGgqtLMnC9w200ZTYer9) | [The Who](https://open.spotify.com/artist/67ea9eGLXYMsO2eYQRui3w) | [Imagine A Man \(Pete Vocal / Early Mix\)](https://open.spotify.com/album/4yUPSOAUYZecs36ykHYjkz) | 4:07 |
 | 37 | [Go To The Mirror!](https://open.spotify.com/track/4k6ejdRv0n3jsXnwdW42t7) | [The Who](https://open.spotify.com/artist/67ea9eGLXYMsO2eYQRui3w) | [Tommy](https://open.spotify.com/album/5cT7ee1sy2oEbFalP4asS4) | 3:47 |
 | 38 | [Another Tricky Day](https://open.spotify.com/track/4OOl1HrB8mN89arE62V3sX) | [The Who](https://open.spotify.com/artist/67ea9eGLXYMsO2eYQRui3w) | [Face Dances](https://open.spotify.com/album/2zLGQD3h1VG2tKzJCdAAyR) | 4:56 |
 | 39 | [Pictures Of Lily](https://open.spotify.com/track/123RhEzztpTieeEd13NexC) | [The Who](https://open.spotify.com/artist/67ea9eGLXYMsO2eYQRui3w) | [Meaty, Beaty, Big And Bouncy](https://open.spotify.com/album/0NufsuTuf3U0BY0p6jFdxV) | 2:42 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3BHSzm.md) - [plain]
 | 49 | [Don't Let Go The Coat](https://open.spotify.com/track/2W0OIBbPwrCzKwDApKN8uk) | [The Who](https://open.spotify.com/artist/67ea9eGLXYMsO2eYQRui3w) | [Face Dances](https://open.spotify.com/album/2zLGQD3h1VG2tKzJCdAAyR) | 3:48 |
 | 50 | [Success Story \- 2026 Remaster](https://open.spotify.com/track/7IN6XTdcYyKmzsiu4aBe34) | [The Who](https://open.spotify.com/artist/67ea9eGLXYMsO2eYQRui3w) | [The Who By Numbers \(Super Deluxe\)](https://open.spotify.com/album/7b6rd6kJHUKcs8pk8hcXxR) | 3:25 |
 
-Snapshot ID: `awIwgAAAAAB/RsXWMvd99XYRdCo+68nW`
+Snapshot ID: `awOCAAAAAAC7upLh1CsMQ6LWddgeSMez`

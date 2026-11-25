@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXca8AyWK6Y7g.md) - [plain]
 
 > just trying our best 📸 Liang Lawrence
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,514,448 likes - 102 songs - 5 hr 24 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,514,268 likes - 102 songs - 5 hr 24 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -111,4 +111,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXca8AyWK6Y7g.md) - [plain]
 | 101 | [Secret Language](https://open.spotify.com/track/1ccz8ZdpV5m0eGcIw4gZJA) | [Ryan Beatty](https://open.spotify.com/artist/60NNvDqsif0u40CXMV6jDQ) | [Secret Language](https://open.spotify.com/album/5O70O8co709tMC46LDb8uF) | 3:53 |
 | 102 | [Supernova](https://open.spotify.com/track/5qsLQvSvlCfLLU9TubhllM) | [Tiffany Stringer](https://open.spotify.com/artist/6Dv6bV7bzZSCAX0E0qLw7u) | [The Lone Starlet](https://open.spotify.com/album/65fTktXSzIfyXDyfNi889Z) | 2:35 |
 
-Snapshot ID: `AAAAAHt+eT5RPN7IzaW1s6Kwsln2atKJ`
+Snapshot ID: `AAAAAEs2xhwwPC3eWJIqVnUU2RdOn+6u`

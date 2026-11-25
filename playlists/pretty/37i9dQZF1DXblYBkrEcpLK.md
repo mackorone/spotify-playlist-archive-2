@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXblYBkrEcpLK.md) - [plain]
 
 > Celebrate the great female artists from anime culture\. アニメシーンを彩る女性アーティスト達を特集！ Cover: 東山奈央 Nao Toyama
 
-[Spotify](https://open.spotify.com/user/spotify) - 199,037 likes - 50 songs - 3 hr 1 min
+[Spotify](https://open.spotify.com/user/spotify) - 199,028 likes - 50 songs - 3 hr 1 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -25,9 +25,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXblYBkrEcpLK.md) - [plain]
 | 15 | [一進](https://open.spotify.com/track/78W5EXNzK3p9Rv2pesRCiW) | [Haku.](https://open.spotify.com/artist/5qJEtz7aC2nwA9LsjfkGVM) | [一進](https://open.spotify.com/album/67ICiWR8Rr7GwfGzzYwHEK) | 3:21 |
 | 16 | [あぶく](https://open.spotify.com/track/59h6J25QnnT8xshPTFLkpe) | [ヨルシカ](https://open.spotify.com/artist/4UK2Lzi6fBfUi9rpDt6cik) | [あぶく](https://open.spotify.com/album/7gfuOSKYUVBQBdg8Onas9L) | 3:54 |
 | 17 | [かわいくない](https://open.spotify.com/track/6zYZuhJGcWzeQYWuWneYFd) | [『ユイカ』](https://open.spotify.com/artist/2EqaSEa0WkE59Aca9iXSYj) | [かわいくない](https://open.spotify.com/album/2ZE9YvGYP2IelN3TKEb5e9) | 3:37 |
-| 18 | [TEST ME](https://open.spotify.com/track/1chmVQLbEPT5890S0X55pe) | [CHANMINA](https://open.spotify.com/artist/2vjeuQwzSP5ErC1S41gONX) | [TEST ME](https://open.spotify.com/album/4zWZzoe6u8FdjSYowVPKeZ) | 2:51 |
+| 18 | [怪物](https://open.spotify.com/track/06XQvnJb53SUYmlWIhUXUi) | [YOASOBI](https://open.spotify.com/artist/64tJ2EAv1R6UaZqc4iOCyj) | [怪物](https://open.spotify.com/album/41HUxKwnbrg8IdelmMibj9) | 3:26 |
 | 19 | [Get Wild](https://open.spotify.com/track/7qSBGM2Z14thDUgGXdbyLW) | [Hiroko Moriguchi](https://open.spotify.com/artist/1F26f2fTqYBhCtp6sXAsQV) | [Get Wild](https://open.spotify.com/album/2FYk7h3EY9C0lNJcA5QgUf) | 4:30 |
-| 20 | [怪物](https://open.spotify.com/track/06XQvnJb53SUYmlWIhUXUi) | [YOASOBI](https://open.spotify.com/artist/64tJ2EAv1R6UaZqc4iOCyj) | [怪物](https://open.spotify.com/album/41HUxKwnbrg8IdelmMibj9) | 3:26 |
+| 20 | [TEST ME](https://open.spotify.com/track/1chmVQLbEPT5890S0X55pe) | [CHANMINA](https://open.spotify.com/artist/2vjeuQwzSP5ErC1S41gONX) | [TEST ME](https://open.spotify.com/album/4zWZzoe6u8FdjSYowVPKeZ) | 2:51 |
 | 21 | [集合論](https://open.spotify.com/track/6tuIsHQctXDnBNqv6Dw4dO) | [高橋李依](https://open.spotify.com/artist/12iQR4yHrznblXyarjpvoh) | [集合論](https://open.spotify.com/album/6cUT5JkBelMMEyirLr93Cw) | 4:02 |
 | 22 | [晴る](https://open.spotify.com/track/5eY7692tmgHB9dbmq6wa2M) | [ヨルシカ](https://open.spotify.com/artist/4UK2Lzi6fBfUi9rpDt6cik) | [晴る](https://open.spotify.com/album/4O53dhmIctih3p2suAAgga) | 4:30 |
 | 23 | [more than words](https://open.spotify.com/track/2ZT6eELxeETGamaiXu6vmk) | [Hitsujibungaku](https://open.spotify.com/artist/6S8w5rLsEwjN21jQeRES0n) | [more than words](https://open.spotify.com/album/6fdrt4Aa8bJIHb5L0GTn7V) | 4:49 |
@@ -42,21 +42,21 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXblYBkrEcpLK.md) - [plain]
 | 32 | [キュートなキューたい](https://open.spotify.com/track/73rdU71fLEd0nW7HENRhKF) | [CUTIE STREET](https://open.spotify.com/artist/3PLCOySHJ9zwED5yZvDtPZ) | [キュートなキューたい / ナイスだね](https://open.spotify.com/album/5QyLCkfnwgEYLaf2ji21or) | 3:56 |
 | 33 | [大大大大大好きな君へ♡](https://open.spotify.com/track/0Yg7qzomy9oFixfKgXSUk9) | [花園羽香里 \(CV.本渡 楓\)](https://open.spotify.com/artist/6LC1Dixor7j0DWDgSZuaVE), [院田唐音 \(CV.富田美憂\)](https://open.spotify.com/artist/70U4wJcvdtMbccoOmf4GEj), [好本 静 \(CV.長縄まりあ\)](https://open.spotify.com/artist/2egAPuobW6RL6chbd4AAHR), [栄逢凪乃 \(CV.瀬戸麻沙美\)](https://open.spotify.com/artist/691qiYah3huMaLkzpaDdw5), [薬膳楠莉 \(CV.朝井彩加\)](https://open.spotify.com/artist/0Uf1KlE33EErxG1zGHY0o1) | [大大大大大好きな君へ♡](https://open.spotify.com/album/2WoyVMrtvK0zZduqUZPBZN) | 3:47 |
 | 34 | [Odoru Ponpokorin](https://open.spotify.com/track/3pncyVfDzI4m9oErJKLKIo) | [Ado](https://open.spotify.com/artist/6mEQK9m2krja6X1cfsAjfl) | [Odoru Ponpokorin](https://open.spotify.com/album/2XeKcmluJtZwNDYJmhiDER) | 3:14 |
-| 35 | [茜](https://open.spotify.com/track/2TSJ1d6cLgHqrrCIRN3bn2) | [ヨルシカ](https://open.spotify.com/artist/4UK2Lzi6fBfUi9rpDt6cik) | [茜](https://open.spotify.com/album/3vTDr5tbMieEQZhxKTGMvL) | 3:45 |
-| 36 | [愛♡スクリ～ム！](https://open.spotify.com/track/2BBIUV8wIBbqc7HXObzdgH) | [AiScReam](https://open.spotify.com/artist/5cW1SVDUXXzsj3eFT7Gmta) | [愛♡スクリ～ム！](https://open.spotify.com/album/1l4SKYcXWUhCQ1jiasP9XZ) | 4:22 |
+| 35 | [愛♡スクリ～ム！](https://open.spotify.com/track/2BBIUV8wIBbqc7HXObzdgH) | [AiScReam](https://open.spotify.com/artist/5cW1SVDUXXzsj3eFT7Gmta) | [愛♡スクリ～ム！](https://open.spotify.com/album/1l4SKYcXWUhCQ1jiasP9XZ) | 4:22 |
+| 36 | [茜](https://open.spotify.com/track/2TSJ1d6cLgHqrrCIRN3bn2) | [ヨルシカ](https://open.spotify.com/artist/4UK2Lzi6fBfUi9rpDt6cik) | [茜](https://open.spotify.com/album/3vTDr5tbMieEQZhxKTGMvL) | 3:45 |
 | 37 | [Cold Night](https://open.spotify.com/track/48Y23GvNKpVeXrMapKcPLP) | [HANA](https://open.spotify.com/artist/7fmXV2O48buswss04YetaN) | [Cold Night](https://open.spotify.com/album/63WdFxvJi1f4U71Q4FsrpI) | 3:12 |
 | 38 | [Bubee](https://open.spotify.com/track/3Y2pwdrZKIOUqK0HvsWf0c) | [ILLIT](https://open.spotify.com/artist/36cgvBn0aadzOijnjjwqMN) | [Bubee](https://open.spotify.com/album/1Tisomh3VWj3TeI8bFG5Tr) | 3:02 |
 | 39 | [残酷な夜に輝け \- Shine in the Cruel Night](https://open.spotify.com/track/2OhStQJiQ1CFGvCZKMaItL) | [LiSA](https://open.spotify.com/artist/0blbVefuxOGltDBa00dspv) | [残酷な夜に輝け \- Shine in the Cruel Night](https://open.spotify.com/album/4ki9QfpDQ1Y0GTwbMzIFIw) | 6:23 |
 | 40 | [ATTITUDE](https://open.spotify.com/track/6QIY4JAyzPH6UuFsyndaPs) | [aespa](https://open.spotify.com/artist/6YVMFz59CuY7ngCxTxjpxE) | [ATTITUDE](https://open.spotify.com/album/39wwc39ALeKhi3LP1xerOw) | 3:05 |
-| 41 | [猫日](https://open.spotify.com/track/0xqOOO6CG11e3Wu20cElk7) | [suis from Yorushika](https://open.spotify.com/artist/4UOdwKkaWHJ5k6UqnfC2w0) | [猫日](https://open.spotify.com/album/1QY871uDh8leKT0faCZ5dA) | 3:50 |
-| 42 | [アンビバレント](https://open.spotify.com/track/5uYnVpwOGOaiXTJmhNd62P) | [Uru](https://open.spotify.com/artist/6le80R1opKnTlP4o3KvA2k) | [アンビバレント](https://open.spotify.com/album/4RGVp4RZ9QKQGZrbMEJUKs) | 4:02 |
+| 41 | [アンビバレント](https://open.spotify.com/track/5uYnVpwOGOaiXTJmhNd62P) | [Uru](https://open.spotify.com/artist/6le80R1opKnTlP4o3KvA2k) | [アンビバレント](https://open.spotify.com/album/4RGVp4RZ9QKQGZrbMEJUKs) | 4:02 |
+| 42 | [猫日](https://open.spotify.com/track/0xqOOO6CG11e3Wu20cElk7) | [suis from Yorushika](https://open.spotify.com/artist/4UOdwKkaWHJ5k6UqnfC2w0) | [猫日](https://open.spotify.com/album/1QY871uDh8leKT0faCZ5dA) | 3:50 |
 | 43 | [ray \- 超かぐや姫！ Version](https://open.spotify.com/track/3V5bJpqNCHHi56pGZHNy1f) | [かぐや\(cv.夏吉ゆうこ\)](https://open.spotify.com/artist/2pxkowIU5N8WKEPOYLdres), [月見ヤチヨ\(cv.早見沙織\)](https://open.spotify.com/artist/1QKkhBYoDQdMEaJNp2YuVD), [超かぐや姫！](https://open.spotify.com/artist/4Lk0yqhpmphymMVtbdT0z6), [TAKU INOUE](https://open.spotify.com/artist/1XR2SfRwBXboS4s1rOSYA0) | [超かぐや姫！](https://open.spotify.com/album/4jjF5DPbuso1zCAw7rzyZR) | 5:01 |
 | 44 | [ぴ](https://open.spotify.com/track/4MW6Ub6yhcptOm4rK8h9aH) | [NANAOAKARI](https://open.spotify.com/artist/06jSjpC81wzjoUoE61Fhdn) | [ぴ](https://open.spotify.com/album/6htax44G8KzZYKG4GMcs6q) | 3:36 |
 | 45 | [ラストダンスあなたと](https://open.spotify.com/track/4s2NSTs2Go6JSnAUKpM2bs) | [MISIA](https://open.spotify.com/artist/3uyDATzOGjbGCts7v2eszk) | [ラストダンスあなたと](https://open.spotify.com/album/0fkv7ecmetM6W7GUGQMYGb) | 3:33 |
 | 46 | [新時代 \- ウタ from ONE PIECE FILM RED](https://open.spotify.com/track/2l2yRJWgMiJkfPbRNiuC25) | [Ado](https://open.spotify.com/artist/6mEQK9m2krja6X1cfsAjfl) | [新時代 \(ウタ from ONE PIECE FILM RED\)](https://open.spotify.com/album/7r72omJJLTajYYn9vImIcb) | 3:48 |
 | 47 | [アドレナ](https://open.spotify.com/track/6RlkEHM3PohEge8Lfhe9Cs) | [YOASOBI](https://open.spotify.com/artist/64tJ2EAv1R6UaZqc4iOCyj) | [アドレナ](https://open.spotify.com/album/2QgUUmu8JSrgsuacr6dI6x) | 3:05 |
-| 48 | [Kawaii Kaiwai](https://open.spotify.com/track/4uV4yldTUrYvHat6LiRZHl) | [PiKi](https://open.spotify.com/artist/0k24bjTbB2IUhV74mvSv4T) | [Kawaii Kaiwai](https://open.spotify.com/album/1XHqGyZQTFzkomOfVttZtm) | 2:33 |
-| 49 | [Pang Pang Pang](https://open.spotify.com/track/17upXStU80To2HOMpCdn8t) | [Kyary Pamyu Pamyu](https://open.spotify.com/artist/7Gh6fW49xfXLP8DTWaLVJP) | [Pang Pang Pang](https://open.spotify.com/album/0fQWahCafW4WWZo5q05VI3) | 2:45 |
+| 48 | [Pang Pang Pang](https://open.spotify.com/track/17upXStU80To2HOMpCdn8t) | [Kyary Pamyu Pamyu](https://open.spotify.com/artist/7Gh6fW49xfXLP8DTWaLVJP) | [Pang Pang Pang](https://open.spotify.com/album/0fQWahCafW4WWZo5q05VI3) | 2:45 |
+| 49 | [Kawaii Kaiwai](https://open.spotify.com/track/4uV4yldTUrYvHat6LiRZHl) | [PiKi](https://open.spotify.com/artist/0k24bjTbB2IUhV74mvSv4T) | [Kawaii Kaiwai](https://open.spotify.com/album/1XHqGyZQTFzkomOfVttZtm) | 2:33 |
 | 50 | [The Story of Us](https://open.spotify.com/track/3cchjsY4n2pxyv0qYqMTGq) | [milet](https://open.spotify.com/artist/45ft4DyTCEJfQwTBHXpdhM) | [The Story of Us](https://open.spotify.com/album/2MTlaXlJD4aTeh1XaAeqzV) | 4:27 |
 
-Snapshot ID: `AAAAAIO5188TYTpRKqS4WlCdu8yEzWtU`
+Snapshot ID: `AAAAAOR8IvzVpy1aCOkN5p4AmIWKPlqT`

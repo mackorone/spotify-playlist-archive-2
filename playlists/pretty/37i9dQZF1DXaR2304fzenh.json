@@ -1,12 +1,12 @@
 {
   "description": "El t\u00edtulo says it all, a whole mood! ",
-  "num_followers": 436555,
+  "num_followers": 436674,
   "original_name": "Fiesta y Desmadre",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAOG3ShjaNKuCiisT+CebOc2KSo7J",
+  "snapshot_id": "AAAAAAYKRa2HOKZ/qo2Dk3omWqrL49u4",
   "tracks": [
     {
       "added_at": "2026-09-28 07:52:34",
@@ -667,22 +667,6 @@
     {
       "added_at": "2026-09-28 07:52:34",
       "album": {
-        "name": "Me Robaste El Corazon",
-        "url": "https://open.spotify.com/album/127PyrgkTjtB5HTFNlIG2Y"
-      },
-      "artists": [
-        {
-          "name": "Los Tucanes De Tijuana",
-          "url": "https://open.spotify.com/artist/014WIDx7H4BRCHB1faiisK"
-        }
-      ],
-      "duration_ms": 198920,
-      "name": "La Chona",
-      "url": "https://open.spotify.com/track/6pq7EtEDWgD5Sh02RJaXK7"
-    },
-    {
-      "added_at": "2026-09-28 07:52:34",
-      "album": {
         "name": "PRESIDENTE",
         "url": "https://open.spotify.com/album/0xyBpeAAr8E86J7GH1SNUR"
       },
@@ -707,6 +691,22 @@
       "duration_ms": 181064,
       "name": "PRESIDENTE",
       "url": "https://open.spotify.com/track/4OLT65TRsOx3Iv1TlCcQVb"
+    },
+    {
+      "added_at": "2026-09-28 07:52:34",
+      "album": {
+        "name": "Me Robaste El Corazon",
+        "url": "https://open.spotify.com/album/127PyrgkTjtB5HTFNlIG2Y"
+      },
+      "artists": [
+        {
+          "name": "Los Tucanes De Tijuana",
+          "url": "https://open.spotify.com/artist/014WIDx7H4BRCHB1faiisK"
+        }
+      ],
+      "duration_ms": 198920,
+      "name": "La Chona",
+      "url": "https://open.spotify.com/track/6pq7EtEDWgD5Sh02RJaXK7"
     },
     {
       "added_at": "2026-09-28 07:52:34",
@@ -919,6 +919,30 @@
     {
       "added_at": "2026-09-28 07:52:34",
       "album": {
+        "name": "Malas Rachas",
+        "url": "https://open.spotify.com/album/0hOoMpG9nfKnFDYjyWadLG"
+      },
+      "artists": [
+        {
+          "name": "Tony Aguirre",
+          "url": "https://open.spotify.com/artist/6twEaJ9RPRYiCmWapjG8xh"
+        },
+        {
+          "name": "Luis R Conriquez",
+          "url": "https://open.spotify.com/artist/0pePYDrJGk8gqMRbXrLJC8"
+        },
+        {
+          "name": "Los Dareyes De La Sierra",
+          "url": "https://open.spotify.com/artist/1ZMJSCQw8DIefcLb1FIpY0"
+        }
+      ],
+      "duration_ms": 260285,
+      "name": "Malas Rachas - En Vivo",
+      "url": "https://open.spotify.com/track/3CRbCuucscl5CNGhvU5090"
+    },
+    {
+      "added_at": "2026-09-28 07:52:34",
+      "album": {
         "name": "Belico",
         "url": "https://open.spotify.com/album/7ugXiQHIHbREwSZUyS8iuY"
       },
@@ -951,22 +975,6 @@
     {
       "added_at": "2026-09-28 07:52:34",
       "album": {
-        "name": "Ni Diablo Ni Santo",
-        "url": "https://open.spotify.com/album/3tBjyyso23umCFWLJPH4o6"
-      },
-      "artists": [
-        {
-          "name": "Juli\u00f3n \u00c1lvarez y su Norte\u00f1o Banda",
-          "url": "https://open.spotify.com/artist/1bfl0AU8SqmLkElptOprhC"
-        }
-      ],
-      "duration_ms": 155600,
-      "name": "Ni Diablo Ni Santo",
-      "url": "https://open.spotify.com/track/2OmVUVVx3pWjNWHxgbliCe"
-    },
-    {
-      "added_at": "2026-09-28 07:52:34",
-      "album": {
         "name": "holanda (Remix)",
         "url": "https://open.spotify.com/album/1WJ07xKsqJgU9TDkKSBkMQ"
       },
@@ -987,26 +995,18 @@
     {
       "added_at": "2026-09-28 07:52:34",
       "album": {
-        "name": "Malas Rachas",
-        "url": "https://open.spotify.com/album/0hOoMpG9nfKnFDYjyWadLG"
+        "name": "Ni Diablo Ni Santo",
+        "url": "https://open.spotify.com/album/3tBjyyso23umCFWLJPH4o6"
       },
       "artists": [
         {
-          "name": "Tony Aguirre",
-          "url": "https://open.spotify.com/artist/6twEaJ9RPRYiCmWapjG8xh"
-        },
-        {
-          "name": "Luis R Conriquez",
-          "url": "https://open.spotify.com/artist/0pePYDrJGk8gqMRbXrLJC8"
-        },
-        {
-          "name": "Los Dareyes De La Sierra",
-          "url": "https://open.spotify.com/artist/1ZMJSCQw8DIefcLb1FIpY0"
+          "name": "Juli\u00f3n \u00c1lvarez y su Norte\u00f1o Banda",
+          "url": "https://open.spotify.com/artist/1bfl0AU8SqmLkElptOprhC"
         }
       ],
-      "duration_ms": 260285,
-      "name": "Malas Rachas - En Vivo",
-      "url": "https://open.spotify.com/track/3CRbCuucscl5CNGhvU5090"
+      "duration_ms": 155600,
+      "name": "Ni Diablo Ni Santo",
+      "url": "https://open.spotify.com/track/2OmVUVVx3pWjNWHxgbliCe"
     },
     {
       "added_at": "2026-09-28 07:52:34",
@@ -1119,6 +1119,22 @@
     {
       "added_at": "2026-09-28 07:52:34",
       "album": {
+        "name": "Recuerden Mi Estilo",
+        "url": "https://open.spotify.com/album/0lMw8xxFLYRSGYRlGzo8uc"
+      },
+      "artists": [
+        {
+          "name": "Los Plebes del Rancho de Ariel Camacho",
+          "url": "https://open.spotify.com/artist/6cnl6Jz97730GUS8zEAK77"
+        }
+      ],
+      "duration_ms": 203068,
+      "name": "DEL Negociante",
+      "url": "https://open.spotify.com/track/55gDXEcj1heJNWZU2Ah5HH"
+    },
+    {
+      "added_at": "2026-09-28 07:52:34",
+      "album": {
         "name": "chiclona",
         "url": "https://open.spotify.com/album/2Q2s3dFmw5MHEgvpz8Wu6n"
       },
@@ -1139,22 +1155,6 @@
       "duration_ms": 161620,
       "name": "chiclona",
       "url": "https://open.spotify.com/track/4icM6ny646bWf318ws9LWz"
-    },
-    {
-      "added_at": "2026-09-28 07:52:34",
-      "album": {
-        "name": "Recuerden Mi Estilo",
-        "url": "https://open.spotify.com/album/0lMw8xxFLYRSGYRlGzo8uc"
-      },
-      "artists": [
-        {
-          "name": "Los Plebes del Rancho de Ariel Camacho",
-          "url": "https://open.spotify.com/artist/6cnl6Jz97730GUS8zEAK77"
-        }
-      ],
-      "duration_ms": 203068,
-      "name": "DEL Negociante",
-      "url": "https://open.spotify.com/track/55gDXEcj1heJNWZU2Ah5HH"
     },
     {
       "added_at": "2026-09-28 07:52:34",
@@ -1215,6 +1215,26 @@
     {
       "added_at": "2026-09-28 07:52:34",
       "album": {
+        "name": "Un Scar",
+        "url": "https://open.spotify.com/album/0RgDiqdXei2oHruyWLU7Ds"
+      },
+      "artists": [
+        {
+          "name": "Victor Mendivil",
+          "url": "https://open.spotify.com/artist/5YqI7p8zYsOpKJtjxYdOce"
+        },
+        {
+          "name": "Luis R Conriquez",
+          "url": "https://open.spotify.com/artist/0pePYDrJGk8gqMRbXrLJC8"
+        }
+      ],
+      "duration_ms": 299381,
+      "name": "Un Scar",
+      "url": "https://open.spotify.com/track/2UkVLIGCGNuyMDPM4hz6dQ"
+    },
+    {
+      "added_at": "2026-09-28 07:52:34",
+      "album": {
         "name": "Siempre Pendientes",
         "url": "https://open.spotify.com/album/3ri7jQpYUr63gKKyoihGCN"
       },
@@ -1251,26 +1271,6 @@
     {
       "added_at": "2026-09-28 07:52:34",
       "album": {
-        "name": "Un Scar",
-        "url": "https://open.spotify.com/album/0RgDiqdXei2oHruyWLU7Ds"
-      },
-      "artists": [
-        {
-          "name": "Victor Mendivil",
-          "url": "https://open.spotify.com/artist/5YqI7p8zYsOpKJtjxYdOce"
-        },
-        {
-          "name": "Luis R Conriquez",
-          "url": "https://open.spotify.com/artist/0pePYDrJGk8gqMRbXrLJC8"
-        }
-      ],
-      "duration_ms": 299381,
-      "name": "Un Scar",
-      "url": "https://open.spotify.com/track/2UkVLIGCGNuyMDPM4hz6dQ"
-    },
-    {
-      "added_at": "2026-09-28 07:52:34",
-      "album": {
         "name": "Soy Buen Amigo",
         "url": "https://open.spotify.com/album/1e35jCMYgVC4dOt1YykB6v"
       },
@@ -1303,26 +1303,6 @@
     {
       "added_at": "2026-09-28 07:52:34",
       "album": {
-        "name": "PRC",
-        "url": "https://open.spotify.com/album/2OXBosbXT7Qs3J6vBd6IkI"
-      },
-      "artists": [
-        {
-          "name": "Peso Pluma",
-          "url": "https://open.spotify.com/artist/12GqGscKJx3aE4t07u7eVZ"
-        },
-        {
-          "name": "Natanael Cano",
-          "url": "https://open.spotify.com/artist/0elWFr7TW8piilVRYJUe4P"
-        }
-      ],
-      "duration_ms": 184066,
-      "name": "PRC",
-      "url": "https://open.spotify.com/track/2mpoNBkngUEwnaKoBhZ0vl"
-    },
-    {
-      "added_at": "2026-09-28 07:52:34",
-      "album": {
         "name": "Muchacho Alegre",
         "url": "https://open.spotify.com/album/6zFrr9LsuQKRLJZ05rDVVq"
       },
@@ -1343,22 +1323,22 @@
     {
       "added_at": "2026-09-28 07:52:34",
       "album": {
-        "name": "Pelotero A La Bola",
-        "url": "https://open.spotify.com/album/51HYdUR0UOPZuxVMDKELN6"
+        "name": "PRC",
+        "url": "https://open.spotify.com/album/2OXBosbXT7Qs3J6vBd6IkI"
       },
       "artists": [
         {
-          "name": "8Uno",
-          "url": "https://open.spotify.com/artist/1gU9Z8jrVFnrCBauoWv2Eh"
+          "name": "Peso Pluma",
+          "url": "https://open.spotify.com/artist/12GqGscKJx3aE4t07u7eVZ"
         },
         {
-          "name": "Airam Paez",
-          "url": "https://open.spotify.com/artist/4CpBebr8ODROqjgGVmiF7X"
+          "name": "Natanael Cano",
+          "url": "https://open.spotify.com/artist/0elWFr7TW8piilVRYJUe4P"
         }
       ],
-      "duration_ms": 156710,
-      "name": "Pelotero A La Bola",
-      "url": "https://open.spotify.com/track/2HjRqfkjGe33JGlOdTtswE"
+      "duration_ms": 184066,
+      "name": "PRC",
+      "url": "https://open.spotify.com/track/2mpoNBkngUEwnaKoBhZ0vl"
     },
     {
       "added_at": "2026-09-28 07:52:34",
@@ -1379,6 +1359,26 @@
       "duration_ms": 208541,
       "name": "Que Me Importa",
       "url": "https://open.spotify.com/track/7rp5s1fEFuu42FoeHrrPyx"
+    },
+    {
+      "added_at": "2026-09-28 07:52:34",
+      "album": {
+        "name": "Pelotero A La Bola",
+        "url": "https://open.spotify.com/album/51HYdUR0UOPZuxVMDKELN6"
+      },
+      "artists": [
+        {
+          "name": "8Uno",
+          "url": "https://open.spotify.com/artist/1gU9Z8jrVFnrCBauoWv2Eh"
+        },
+        {
+          "name": "Airam Paez",
+          "url": "https://open.spotify.com/artist/4CpBebr8ODROqjgGVmiF7X"
+        }
+      ],
+      "duration_ms": 156710,
+      "name": "Pelotero A La Bola",
+      "url": "https://open.spotify.com/track/2HjRqfkjGe33JGlOdTtswE"
     },
     {
       "added_at": "2026-09-28 07:52:34",
@@ -1519,22 +1519,6 @@
     {
       "added_at": "2026-09-28 07:52:34",
       "album": {
-        "name": "Andamos Mejor",
-        "url": "https://open.spotify.com/album/2NQwwZeDFB6bTXg8rcAFsf"
-      },
-      "artists": [
-        {
-          "name": "Los Gemelos De Sinaloa",
-          "url": "https://open.spotify.com/artist/1Zkxm1dM3HI3QkTmxUEVQA"
-        }
-      ],
-      "duration_ms": 137183,
-      "name": "Andamos Mejor",
-      "url": "https://open.spotify.com/track/3K56RPWS4q200IwHiIZcUD"
-    },
-    {
-      "added_at": "2026-09-28 07:52:34",
-      "album": {
         "name": "El Gavil\u00e1n",
         "url": "https://open.spotify.com/album/5yRjJl7zzslQpbCX76s6Vi"
       },
@@ -1559,6 +1543,22 @@
     {
       "added_at": "2026-09-28 07:52:34",
       "album": {
+        "name": "Andamos Mejor",
+        "url": "https://open.spotify.com/album/2NQwwZeDFB6bTXg8rcAFsf"
+      },
+      "artists": [
+        {
+          "name": "Los Gemelos De Sinaloa",
+          "url": "https://open.spotify.com/artist/1Zkxm1dM3HI3QkTmxUEVQA"
+        }
+      ],
+      "duration_ms": 137183,
+      "name": "Andamos Mejor",
+      "url": "https://open.spotify.com/track/3K56RPWS4q200IwHiIZcUD"
+    },
+    {
+      "added_at": "2026-09-28 07:52:34",
+      "album": {
         "name": "Cumbias Sin Control",
         "url": "https://open.spotify.com/album/4WA8OOdFDDoYUoCDnde5UX"
       },
@@ -1571,22 +1571,6 @@
       "duration_ms": 172706,
       "name": "Tao, Tao",
       "url": "https://open.spotify.com/track/71J3ktUHU5n0EWAfD7VVFX"
-    },
-    {
-      "added_at": "2026-09-28 07:52:34",
-      "album": {
-        "name": "Vengo a Aclarar",
-        "url": "https://open.spotify.com/album/7sRRTaXHXFn3h9gJK82rwR"
-      },
-      "artists": [
-        {
-          "name": "El Fantasma",
-          "url": "https://open.spotify.com/artist/0my6Pg4I28dVcZLSpAkqhv"
-        }
-      ],
-      "duration_ms": 150944,
-      "name": "Vengo a Aclarar",
-      "url": "https://open.spotify.com/track/4bPE4HBnxSDST0bwf1V1pn"
     },
     {
       "added_at": "2026-09-28 07:52:34",
@@ -1615,6 +1599,22 @@
       "duration_ms": 197114,
       "name": "Alucin",
       "url": "https://open.spotify.com/track/6ED7qim1NAX1HjNU8039WS"
+    },
+    {
+      "added_at": "2026-09-28 07:52:34",
+      "album": {
+        "name": "Vengo a Aclarar",
+        "url": "https://open.spotify.com/album/7sRRTaXHXFn3h9gJK82rwR"
+      },
+      "artists": [
+        {
+          "name": "El Fantasma",
+          "url": "https://open.spotify.com/artist/0my6Pg4I28dVcZLSpAkqhv"
+        }
+      ],
+      "duration_ms": 150944,
+      "name": "Vengo a Aclarar",
+      "url": "https://open.spotify.com/track/4bPE4HBnxSDST0bwf1V1pn"
     },
     {
       "added_at": "2026-09-28 07:52:34",

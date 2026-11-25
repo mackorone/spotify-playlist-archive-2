@@ -1,12 +1,12 @@
 {
   "description": "This is BIGBANG. The essential tracks, all in one playlist.",
-  "num_followers": 637061,
+  "num_followers": 637108,
   "original_name": "This Is BIGBANG",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "awIwgAAAAADfeK0VQJC1UwWp786asffa",
+  "snapshot_id": "awOCAAAAAADuqZA5ewPc4rrlBGG3zUrb",
   "tracks": [
     {
       "added_at": null,
@@ -299,8 +299,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Tonight",
-        "url": "https://open.spotify.com/album/6b08mw1Ggz7UyVYas1iRgj"
+        "name": "\u58f0\u3092\u304d\u304b\u305b\u3066",
+        "url": "https://open.spotify.com/album/35kyS8D51cS1mVqWMbLNIr"
       },
       "artists": [
         {
@@ -308,9 +308,9 @@
           "url": "https://open.spotify.com/artist/4Kxlr1PRlDKEB0ekOCyHgX"
         }
       ],
-      "duration_ms": 237253,
-      "name": "Hands Up",
-      "url": "https://open.spotify.com/track/1R1wuzQxZhghrjJZvqReyW"
+      "duration_ms": 253240,
+      "name": "\u58f0\u3092\u304d\u304b\u305b\u3066",
+      "url": "https://open.spotify.com/track/3A6XBzAollv1Yi7dl53141"
     },
     {
       "added_at": null,
@@ -347,8 +347,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "\u58f0\u3092\u304d\u304b\u305b\u3066",
-        "url": "https://open.spotify.com/album/35kyS8D51cS1mVqWMbLNIr"
+        "name": "Tonight",
+        "url": "https://open.spotify.com/album/6b08mw1Ggz7UyVYas1iRgj"
       },
       "artists": [
         {
@@ -356,9 +356,9 @@
           "url": "https://open.spotify.com/artist/4Kxlr1PRlDKEB0ekOCyHgX"
         }
       ],
-      "duration_ms": 253240,
-      "name": "\u58f0\u3092\u304d\u304b\u305b\u3066",
-      "url": "https://open.spotify.com/track/3A6XBzAollv1Yi7dl53141"
+      "duration_ms": 237253,
+      "name": "Hands Up",
+      "url": "https://open.spotify.com/track/1R1wuzQxZhghrjJZvqReyW"
     },
     {
       "added_at": null,
@@ -736,9 +736,9 @@
           "url": "https://open.spotify.com/artist/4Kxlr1PRlDKEB0ekOCyHgX"
         }
       ],
-      "duration_ms": 180533,
-      "name": "Bingle Bingle (\ube59\uae00\ube59\uae00)",
-      "url": "https://open.spotify.com/track/5nEqDf0voYu56KiHf7cfDe"
+      "duration_ms": 205200,
+      "name": "Ego",
+      "url": "https://open.spotify.com/track/6whEx8LRxGMFj0oqXP0vX3"
     },
     {
       "added_at": null,
@@ -800,9 +800,9 @@
           "url": "https://open.spotify.com/artist/4Kxlr1PRlDKEB0ekOCyHgX"
         }
       ],
-      "duration_ms": 205200,
-      "name": "Ego",
-      "url": "https://open.spotify.com/track/6whEx8LRxGMFj0oqXP0vX3"
+      "duration_ms": 180533,
+      "name": "Bingle Bingle (\ube59\uae00\ube59\uae00)",
+      "url": "https://open.spotify.com/track/5nEqDf0voYu56KiHf7cfDe"
     },
     {
       "added_at": null,

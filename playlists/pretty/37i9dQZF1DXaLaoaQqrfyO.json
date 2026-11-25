@@ -1,12 +1,12 @@
 {
   "description": "Seminal indie pop tracks from the 2010s. Cover: Blood Orange.",
-  "num_followers": 361883,
+  "num_followers": 361886,
   "original_name": " Indie Pop 2010s",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAMbWEQENHTeuT3YpV6kmh5MRI7Uu",
+  "snapshot_id": "AAAAAGxAZvjEdpHzL5mqd7zwWvutQ8y7",
   "tracks": [
     {
       "added_at": "2025-01-28 19:15:57",
@@ -675,6 +675,22 @@
     {
       "added_at": "2025-01-28 19:15:57",
       "album": {
+        "name": "How Will You Know If You Never Try",
+        "url": "https://open.spotify.com/album/4TJUrdwbeKC9qcouPlBuLe"
+      },
+      "artists": [
+        {
+          "name": "COIN",
+          "url": "https://open.spotify.com/artist/0ZxZlO7oWCSYMXhehpyMvE"
+        }
+      ],
+      "duration_ms": 188639,
+      "name": "Talk Too Much",
+      "url": "https://open.spotify.com/track/4djIFfof5TpbSGRZUpsTXq"
+    },
+    {
+      "added_at": "2025-01-28 19:15:57",
+      "album": {
         "name": "Broken Bells",
         "url": "https://open.spotify.com/album/0X7WyEKdm5afGj1fmD7Blx"
       },
@@ -695,22 +711,6 @@
       "duration_ms": 232200,
       "name": "The High Road",
       "url": "https://open.spotify.com/track/5cwN1htZyoWqZCc33f3RfE"
-    },
-    {
-      "added_at": "2025-01-28 19:15:57",
-      "album": {
-        "name": "How Will You Know If You Never Try",
-        "url": "https://open.spotify.com/album/4TJUrdwbeKC9qcouPlBuLe"
-      },
-      "artists": [
-        {
-          "name": "COIN",
-          "url": "https://open.spotify.com/artist/0ZxZlO7oWCSYMXhehpyMvE"
-        }
-      ],
-      "duration_ms": 188639,
-      "name": "Talk Too Much",
-      "url": "https://open.spotify.com/track/4djIFfof5TpbSGRZUpsTXq"
     },
     {
       "added_at": "2025-01-28 19:15:57",
@@ -943,22 +943,6 @@
     {
       "added_at": "2025-01-28 19:15:57",
       "album": {
-        "name": "Sure Sure",
-        "url": "https://open.spotify.com/album/7EfgATnOllXJ96s4sSdzei"
-      },
-      "artists": [
-        {
-          "name": "Sure Sure",
-          "url": "https://open.spotify.com/artist/1anAI9P9iSzc9qzLv6AtHZ"
-        }
-      ],
-      "duration_ms": 219260,
-      "name": "This Must Be The Place",
-      "url": "https://open.spotify.com/track/6PuoZT4kgw5DrUEdnQ6e01"
-    },
-    {
-      "added_at": "2025-01-28 19:15:57",
-      "album": {
         "name": "Roy Pablo",
         "url": "https://open.spotify.com/album/1D3JNjKm7QRaHcIBzv0Xdn"
       },
@@ -971,6 +955,22 @@
       "duration_ms": 198000,
       "name": "Dance, Baby!",
       "url": "https://open.spotify.com/track/5EV4bGHxVN0kHpcAFvgnTt"
+    },
+    {
+      "added_at": "2025-01-28 19:15:57",
+      "album": {
+        "name": "Sure Sure",
+        "url": "https://open.spotify.com/album/7EfgATnOllXJ96s4sSdzei"
+      },
+      "artists": [
+        {
+          "name": "Sure Sure",
+          "url": "https://open.spotify.com/artist/1anAI9P9iSzc9qzLv6AtHZ"
+        }
+      ],
+      "duration_ms": 219260,
+      "name": "This Must Be The Place",
+      "url": "https://open.spotify.com/track/6PuoZT4kgw5DrUEdnQ6e01"
     },
     {
       "added_at": "2025-01-28 19:15:57",
@@ -1399,22 +1399,6 @@
     {
       "added_at": "2025-01-28 19:15:57",
       "album": {
-        "name": "Kingdom Leader \u2013 Single",
-        "url": "https://open.spotify.com/album/03EMOcMFTB5rep0KfqI9XX"
-      },
-      "artists": [
-        {
-          "name": "Boo Seeka",
-          "url": "https://open.spotify.com/artist/1SFz3S9eSUTc49ysstadiO"
-        }
-      ],
-      "duration_ms": 214831,
-      "name": "Kingdom Leader",
-      "url": "https://open.spotify.com/track/5GeIdhQ2HZ86I9HsQwvRAP"
-    },
-    {
-      "added_at": "2025-01-28 19:15:57",
-      "album": {
         "name": "Somebody Else (Alt Edit)",
         "url": "https://open.spotify.com/album/3gInuvCjtLEy3LCWxZ4ZYF"
       },
@@ -1427,6 +1411,22 @@
       "duration_ms": 241973,
       "name": "Somebody Else - Alt Edit",
       "url": "https://open.spotify.com/track/4fnctse2eIRf7dvOhIGO4P"
+    },
+    {
+      "added_at": "2025-01-28 19:15:57",
+      "album": {
+        "name": "Kingdom Leader \u2013 Single",
+        "url": "https://open.spotify.com/album/03EMOcMFTB5rep0KfqI9XX"
+      },
+      "artists": [
+        {
+          "name": "Boo Seeka",
+          "url": "https://open.spotify.com/artist/1SFz3S9eSUTc49ysstadiO"
+        }
+      ],
+      "duration_ms": 214831,
+      "name": "Kingdom Leader",
+      "url": "https://open.spotify.com/track/5GeIdhQ2HZ86I9HsQwvRAP"
     },
     {
       "added_at": "2025-01-28 19:15:57",
@@ -1447,22 +1447,6 @@
     {
       "added_at": "2025-01-28 19:15:57",
       "album": {
-        "name": "Something to Tell You",
-        "url": "https://open.spotify.com/album/5m9rXTBF7mHFGQlFsiEHrY"
-      },
-      "artists": [
-        {
-          "name": "HAIM",
-          "url": "https://open.spotify.com/artist/4Ui2kfOqGujY81UcPrb5KE"
-        }
-      ],
-      "duration_ms": 232120,
-      "name": "Want You Back",
-      "url": "https://open.spotify.com/track/2wXhdaTnmkkFSOidKfnOxA"
-    },
-    {
-      "added_at": "2025-01-28 19:15:57",
-      "album": {
         "name": "In Mind",
         "url": "https://open.spotify.com/album/7IQn4jT1WciC5O9DZrxeKv"
       },
@@ -1475,6 +1459,22 @@
       "duration_ms": 260386,
       "name": "Darling",
       "url": "https://open.spotify.com/track/36PQh1G6h7n9VWB799fXpI"
+    },
+    {
+      "added_at": "2025-01-28 19:15:57",
+      "album": {
+        "name": "Something to Tell You",
+        "url": "https://open.spotify.com/album/5m9rXTBF7mHFGQlFsiEHrY"
+      },
+      "artists": [
+        {
+          "name": "HAIM",
+          "url": "https://open.spotify.com/artist/4Ui2kfOqGujY81UcPrb5KE"
+        }
+      ],
+      "duration_ms": 232120,
+      "name": "Want You Back",
+      "url": "https://open.spotify.com/track/2wXhdaTnmkkFSOidKfnOxA"
     },
     {
       "added_at": "2025-01-28 19:15:57",

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1tuUiirhaT3.md) - [plain]
 
 > Calm ambient music with gentle nature sounds.
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,010,262 likes - 245 songs - 11 hr 20 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,010,295 likes - 245 songs - 11 hr 20 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -254,4 +254,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1tuUiirhaT3.md) - [plain]
 | 244 | [Gloom](https://open.spotify.com/track/0KfCNOZ5t6pld3BPrsclKW) | [Sinnesro](https://open.spotify.com/artist/3CHM9Tbf0hM4MBzWGAcGPc) | [Gloom](https://open.spotify.com/album/2oW7DPtkYty3pzxB5UsB3u) | 2:50 |
 | 245 | [Rebalanced](https://open.spotify.com/track/7rAxEaJTcSQUpor4gw7rRS) | [Noah Florence](https://open.spotify.com/artist/6jzQUeRZexHKG2fjsCpmi6) | [Rebalanced](https://open.spotify.com/album/58zk4RDP4DnF1nObrEpn8L) | 2:49 |
 
-Snapshot ID: `AAAAAEkZUh4zMZyn+oRO8kjyyaxYKUjn`
+Snapshot ID: `AAAAAOxQsoewIDRSUf0e4vWGGhi9dtJV`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1dvMSwf27JO.md) - [plain]
 
 > music to get fly to ft\. Erykah Badu
 
-[Spotify](https://open.spotify.com/user/spotify) - 551,894 likes - 100 songs - 5 hr 11 min
+[Spotify](https://open.spotify.com/user/spotify) - 551,860 likes - 100 songs - 5 hr 11 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -34,14 +34,14 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1dvMSwf27JO.md) - [plain]
 | 24 | [Picture in My Mind](https://open.spotify.com/track/0z3YYobsavHguLTgqg5GC1) | [PinkPantheress](https://open.spotify.com/artist/78rUTD7y6Cy67W1RVzYs7t), [Sam Gellaitry](https://open.spotify.com/artist/07UJz804RJxqNvxFXC3h9H) | [Picture in my mind](https://open.spotify.com/album/744TnMqUCSGWPa17iii3LU) | 2:56 |
 | 25 | [Worst Comes To Worst \- Edited](https://open.spotify.com/track/7aSnPAggMMgElb6BgXeSEw) | [Dilated Peoples](https://open.spotify.com/artist/56OMwqr8qaLIRH4ZrvvdXq) | [Expansion Team](https://open.spotify.com/album/2cjb94ReCIDfak2sqzEcoB) | 3:35 |
 | 26 | [Award Tour \(feat\. Trugoy The Dove\)](https://open.spotify.com/track/5YTM7OgQDt9EJAYcfHLniJ) | [A Tribe Called Quest](https://open.spotify.com/artist/09hVIj6vWgoCDtT03h8ZCa), [Trugoy The Dove](https://open.spotify.com/artist/2DGyhsOLrggY3ORo3GZNf0) | [Midnight Marauders](https://open.spotify.com/album/4v5x3Oo3UjQ9YmF3hRAip5) | 3:46 |
-| 27 | [FAMJAM4000](https://open.spotify.com/track/08vlprFBmwh9TQnjXUtZDG) | [Jordan Ward](https://open.spotify.com/artist/3DGlTwdM5Dim9XQipb3jMf) | [FORWARD](https://open.spotify.com/album/367frJ4GG9UMlXlMrVanYL) | 2:38 |
-| 28 | [Skin Tight \(feat\. Steve Lacy\)](https://open.spotify.com/track/4KVSdwwJ67JHu5s9vIA0zi) | [Ravyn Lenae](https://open.spotify.com/artist/5RTLRtXjbXI2lSXc6jxlAz), [Steve Lacy](https://open.spotify.com/artist/57vWImR43h4CaDao012Ofp) | [HYPNOS](https://open.spotify.com/album/5Y4hUd0FPvCed5lu7loMXZ) | 3:47 |
+| 27 | [Skin Tight \(feat\. Steve Lacy\)](https://open.spotify.com/track/4KVSdwwJ67JHu5s9vIA0zi) | [Ravyn Lenae](https://open.spotify.com/artist/5RTLRtXjbXI2lSXc6jxlAz), [Steve Lacy](https://open.spotify.com/artist/57vWImR43h4CaDao012Ofp) | [HYPNOS](https://open.spotify.com/album/5Y4hUd0FPvCed5lu7loMXZ) | 3:47 |
+| 28 | [FAMJAM4000](https://open.spotify.com/track/08vlprFBmwh9TQnjXUtZDG) | [Jordan Ward](https://open.spotify.com/artist/3DGlTwdM5Dim9XQipb3jMf) | [FORWARD](https://open.spotify.com/album/367frJ4GG9UMlXlMrVanYL) | 2:38 |
 | 29 | [Pain](https://open.spotify.com/track/7CIERzyqIwLVKGp00YbHRO) | [PinkPantheress](https://open.spotify.com/artist/78rUTD7y6Cy67W1RVzYs7t) | [Pain](https://open.spotify.com/album/6N4ySRXQsXl6g9mCr7QPFx) | 1:38 |
 | 30 | [oh my love](https://open.spotify.com/track/5dEJc0rHuTVxtl1xljDbRv) | [FKA twigs](https://open.spotify.com/artist/6nB0iY1cjSY1KyhYyuIIKH) | [CAPRISONGS](https://open.spotify.com/album/3G77BQuJy3jahjdkKQNNNM) | 3:45 |
 | 31 | [Alright](https://open.spotify.com/track/3OgdnA3LYpJ6vxrfk6X3p4) | [Victoria Monét](https://open.spotify.com/artist/63XBtGSEZINSyXylZxEUbv) | [JAGUAR II](https://open.spotify.com/album/6WlGOgNNtpwFt2gfRFfqgZ) | 2:53 |
 | 32 | [Jump](https://open.spotify.com/track/0ve0CavjqrUqVmZ605RhTV) | [Tyla](https://open.spotify.com/artist/3SozjO3Lat463tQICI9LcE), [Gunna](https://open.spotify.com/artist/2hlmm7s2ICUX0LVIhVFlZQ), [Skillibeng](https://open.spotify.com/artist/5FkUhnHQ0KC63549LHHtst) | [Jump](https://open.spotify.com/album/4xbpCWaXMdAaDvEKAi02PX) | 2:27 |
-| 33 | [I Know](https://open.spotify.com/track/2RkMSIqUdveO3p8KVpYBYI) | [Kanii](https://open.spotify.com/artist/1S82w4yw9TYIHZ889mPPaW) | [I Know](https://open.spotify.com/album/6MxC0Icp2DZi0jbzvD4M8Z) | 2:32 |
-| 34 | [Biking \(Solo\)](https://open.spotify.com/track/6gtNiLJNLBcV0P6Juenstp) | [Frank Ocean](https://open.spotify.com/artist/2h93pZq0e7k5yf4dywlkpM) | [Biking \(Solo\)](https://open.spotify.com/album/46H4UzFHMLnGgpyrj9HpKr) | 3:32 |
+| 33 | [Biking \(Solo\)](https://open.spotify.com/track/6gtNiLJNLBcV0P6Juenstp) | [Frank Ocean](https://open.spotify.com/artist/2h93pZq0e7k5yf4dywlkpM) | [Biking \(Solo\)](https://open.spotify.com/album/46H4UzFHMLnGgpyrj9HpKr) | 3:32 |
+| 34 | [I Know](https://open.spotify.com/track/2RkMSIqUdveO3p8KVpYBYI) | [Kanii](https://open.spotify.com/artist/1S82w4yw9TYIHZ889mPPaW) | [I Know](https://open.spotify.com/album/6MxC0Icp2DZi0jbzvD4M8Z) | 2:32 |
 | 35 | [Billie Toppy](https://open.spotify.com/track/5jyj2XKWILHQxDoz59ddCT) | [Men I Trust](https://open.spotify.com/artist/3zmfs9cQwzJl575W1ZYXeT) | [Billie Toppy](https://open.spotify.com/album/0FpoXXhnwamDJbLSWLRgvN) | 3:15 |
 | 36 | [The Hillbillies](https://open.spotify.com/track/1h6w4POXM2LfG4ZD4xUfZQ) | [Baby Keem](https://open.spotify.com/artist/5SXuuuRpukkTvsLuUknva1), [Kendrick Lamar](https://open.spotify.com/artist/2YZyLoL8N0Wb9xBt1NhZWg) | [The Hillbillies](https://open.spotify.com/album/6ltyScGRzS0Z2TI1VD5dns) | 3:24 |
 | 37 | [Lullaby](https://open.spotify.com/track/0PiSok4AgEcnVSWSGiz86p) | [Grace Ives](https://open.spotify.com/artist/4TZieE5978SbTInJswaay2) | [Janky Star](https://open.spotify.com/album/0sZHIgeXLGWrYZasMrNKTl) | 3:06 |
@@ -68,11 +68,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1dvMSwf27JO.md) - [plain]
 | 58 | [M79](https://open.spotify.com/track/3PYTEgSf4opLzuUiPecUqS) | [Vampire Weekend](https://open.spotify.com/artist/5BvJzeQpmsdsFp4HGUYUEx) | [Vampire Weekend](https://open.spotify.com/album/7n8NJkGKAl2np1bXiRn0CY) | 4:15 |
 | 59 | [NICE OUT](https://open.spotify.com/track/47k1Ox90yk7EicCAd3QDhc) | [Kilo Kish](https://open.spotify.com/artist/7lsnwlX6puQ7lcpSEpJbZE) | [NICE OUT](https://open.spotify.com/album/2UevF4zIN6rYNEk9I0l8zJ) | 4:06 |
 | 60 | [Fkn Around \(feat\. Megan Thee Stallion\)](https://open.spotify.com/track/1RRlUJMxjp2FmkTExBT2T7) | [Phony Ppl](https://open.spotify.com/artist/0oBsnAC3fzYkTHF3bkfNx6), [Megan Thee Stallion](https://open.spotify.com/artist/181bsRPaVXVlUKXrxwZfHK) | [Fkn Around \(feat\. Megan Thee Stallion\)](https://open.spotify.com/album/6bA7nkjTgFlVk25zvD8oep) | 4:04 |
-| 61 | [hmu](https://open.spotify.com/track/4fC8mW8ZFQanmSHq30mgWz) | [greek](https://open.spotify.com/artist/23FgP9gxRT6QMcRhsV71kY) | [EXTC](https://open.spotify.com/album/5U3qHK1s6FljIZNrNCFyk1) | 3:55 |
+| 61 | [Indeed](https://open.spotify.com/track/1jASJWOio1y6HX9noE7FWi) | [Cruza](https://open.spotify.com/artist/7zxS4o4zmwxJNe5UvC2Fx5) | [Dog Daze](https://open.spotify.com/album/0APqibgHREHUQyPXOqVzBa) | 2:28 |
 | 62 | [Closure](https://open.spotify.com/track/5tir4dUwLnKYd1rr0zLiGR) | [Kelela](https://open.spotify.com/artist/1U0sIzpRtDkvu1hXXzxh60), [Rahrah Gabor](https://open.spotify.com/artist/0aXwPlkVGO3Cyn1nwiNq2g) | [Raven](https://open.spotify.com/album/06uhdSmIYrWRkdnAPjcRcT) | 3:29 |
-| 63 | [Indeed](https://open.spotify.com/track/1jASJWOio1y6HX9noE7FWi) | [Cruza](https://open.spotify.com/artist/7zxS4o4zmwxJNe5UvC2Fx5) | [Dog Daze](https://open.spotify.com/album/0APqibgHREHUQyPXOqVzBa) | 2:28 |
-| 64 | [Far Rockaway](https://open.spotify.com/track/2AcEZtXsn6en6Dh9CptAtQ) | [KAMAUU](https://open.spotify.com/artist/3IAQ6JspwRCPY06WXnaguc) | [Far Rockaway](https://open.spotify.com/album/75lW5iDCy7Cr8IMRCHq7L0) | 2:22 |
-| 65 | [Crystalfilm](https://open.spotify.com/track/5bBrbeCtAntjU0SOUXnIC8) | [Little Dragon](https://open.spotify.com/artist/6Tyzp9KzpiZ04DABQoedps) | [Ritual Union](https://open.spotify.com/album/1BQVdofe7ROnSoaiC9418p) | 4:49 |
+| 63 | [hmu](https://open.spotify.com/track/4fC8mW8ZFQanmSHq30mgWz) | [greek](https://open.spotify.com/artist/23FgP9gxRT6QMcRhsV71kY) | [EXTC](https://open.spotify.com/album/5U3qHK1s6FljIZNrNCFyk1) | 3:55 |
+| 64 | [Crystalfilm](https://open.spotify.com/track/5bBrbeCtAntjU0SOUXnIC8) | [Little Dragon](https://open.spotify.com/artist/6Tyzp9KzpiZ04DABQoedps) | [Ritual Union](https://open.spotify.com/album/1BQVdofe7ROnSoaiC9418p) | 4:49 |
+| 65 | [Far Rockaway](https://open.spotify.com/track/2AcEZtXsn6en6Dh9CptAtQ) | [KAMAUU](https://open.spotify.com/artist/3IAQ6JspwRCPY06WXnaguc) | [Far Rockaway](https://open.spotify.com/album/75lW5iDCy7Cr8IMRCHq7L0) | 2:22 |
 | 66 | [11:30](https://open.spotify.com/track/4wMdqBMvVKpNPpRFiBRiXO) | [Duckwrth](https://open.spotify.com/artist/6I3MElirhT5t6Kf7p0hGk9) | [Chrome Bull](https://open.spotify.com/album/3IJE33ruLyvq3yCiJubw4g) | 3:01 |
 | 67 | [60 Seconds](https://open.spotify.com/track/1NNwTBL6vDgSw14UDGWOte) | [Doechii](https://open.spotify.com/artist/4E2rKHVDssGJm2SCDOMMJB) | [Coven Music Session, Vol\. 1](https://open.spotify.com/album/5eXvrU5hvCyxZmOdVDVRSc) | 0:58 |
 | 68 | [STAY UP](https://open.spotify.com/track/1hb5zeeR0SchsLSIPrphL8) | [Stevedreez](https://open.spotify.com/artist/3KJzwEs0Tr6egQZ65WTncE) | [STAY UP / SWEET](https://open.spotify.com/album/0cdWnxer5dFkriRf2CFLMc) | 3:49 |
@@ -91,8 +91,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1dvMSwf27JO.md) - [plain]
 | 81 | [silver lining](https://open.spotify.com/track/4tuIihi8Bv5WNHDLe8pkiy) | [piri](https://open.spotify.com/artist/4DpmPt7gfAAq7WEx0E1X8s), [Tommy Villiers](https://open.spotify.com/artist/4M4KGWKy7pSQ5HaJNCutBN), [piri & tommy](https://open.spotify.com/artist/2U6J9Q89i1TNhesKreFD65) | [froge.mp3](https://open.spotify.com/album/4AueWk2dGXqbMFx7ogEAs7) | 2:34 |
 | 82 | [Just Sayin' Shit](https://open.spotify.com/track/3bV45mBTw4x0O8XNr361KE) | [Flower in Bloom](https://open.spotify.com/artist/0Qo3BPiai9OuVq6zojWALA) | [Just Sayin' Shit](https://open.spotify.com/album/1BC0dos6H10bWxenRB3baa) | 1:01 |
 | 83 | [Wake up Jacob](https://open.spotify.com/track/0Gr1QWlPlbdA4n8hTMAXcy) | [Sitcom](https://open.spotify.com/artist/1AHWalyPZ4Zx1s7BampY8C), [Orion Sun](https://open.spotify.com/artist/2efrqekWSHlvhATD50AG3m) | [Be the One You Love](https://open.spotify.com/album/4vnVALee891bV599C0I6rI) | 3:43 |
-| 84 | [Mr Valentine](https://open.spotify.com/track/2E51gp6rrOPtfvmrk6wIL5) | [YAZ](https://open.spotify.com/artist/6VvnLfGL8XDQomLEa91WPk) | [Mr Valentine](https://open.spotify.com/album/2TuYvh4A25VRWjqxnC4sf0) | 2:37 |
-| 85 | [Star Girl](https://open.spotify.com/track/15iOxEc0Zvnn0wMbK2uhPc) | [Tommy Richman](https://open.spotify.com/artist/1WaFQSHVGZQJTbf0BdxdNo) | [Star Girl](https://open.spotify.com/album/3njJmSyA76HMuYzDRBOYYW) | 3:00 |
+| 84 | [Star Girl](https://open.spotify.com/track/15iOxEc0Zvnn0wMbK2uhPc) | [Tommy Richman](https://open.spotify.com/artist/1WaFQSHVGZQJTbf0BdxdNo) | [Star Girl](https://open.spotify.com/album/3njJmSyA76HMuYzDRBOYYW) | 3:00 |
+| 85 | [Mr Valentine](https://open.spotify.com/track/2E51gp6rrOPtfvmrk6wIL5) | [YAZ](https://open.spotify.com/artist/6VvnLfGL8XDQomLEa91WPk) | [Mr Valentine](https://open.spotify.com/album/2TuYvh4A25VRWjqxnC4sf0) | 2:37 |
 | 86 | [Selfish Soul](https://open.spotify.com/track/3ceTUPvI4JAuSwFWfeB7Ym) | [Sudan Archives](https://open.spotify.com/artist/2MPHBxznH1fj59jbOWY38u) | [Selfish Soul](https://open.spotify.com/album/1zSjDYhE9QpJLaptBmBM8N) | 2:22 |
 | 87 | [Conveniency](https://open.spotify.com/track/0hneE3CWTOFd9PC3qKfJcU) | [Nia Archives](https://open.spotify.com/artist/7BMR0fwtEvzGtK4rNGdoiQ) | [Conveniency](https://open.spotify.com/album/0lXN4MXvk2ix9IOfJdLDwY) | 2:22 |
 | 88 | [Freaky \(RGB\)](https://open.spotify.com/track/6x74a97yVVRskQeOm787SG) | [Yeek](https://open.spotify.com/artist/5BhFZpE8kUGZJiKOsYjLQM) | [Freaky \(RGB\)](https://open.spotify.com/album/7JOLFZAeIkv6MERxfiHqn1) | 1:49 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1dvMSwf27JO.md) - [plain]
 | 99 | [2PM](https://open.spotify.com/track/5RTi6GqC3aXSbTgxuSyv6x) | [Paco](https://open.spotify.com/artist/2XmsywQiI1izPHz7Mo84vZ) | [2PM](https://open.spotify.com/album/5vNYiaVnsawDAmoeEEAjiQ) | 1:53 |
 | 100 | [THINK OF ME](https://open.spotify.com/track/0965uWewv2fb21pL7dt3oR) | [Planet Giza](https://open.spotify.com/artist/332mFY6yBda91AsIOSKirG), [Mick Jenkins](https://open.spotify.com/artist/1FvjvACFvko2Z91IvDljrx) | [Ready When You Are](https://open.spotify.com/album/4yok1v8vTWpvPZS7RgcevU) | 3:12 |
 
-Snapshot ID: `AAAAAKSr+IKO3sMyL0HSK5UNrmFYp7aT`
+Snapshot ID: `AAAAAMjWkHfJ+z/2JklYkQFprTVxIxYC`

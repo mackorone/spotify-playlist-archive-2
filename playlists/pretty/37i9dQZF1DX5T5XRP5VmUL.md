@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5T5XRP5VmUL.md) - [plain]
 
 > Get in the holiday spirit with these festive essentials ✨❄️
 
-[Spotify](https://open.spotify.com/user/spotify) - 150,117 likes - 100 songs - 5 hr 14 min
+[Spotify](https://open.spotify.com/user/spotify) - 150,128 likes - 100 songs - 5 hr 14 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -69,16 +69,16 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5T5XRP5VmUL.md) - [plain]
 | 59 | [DJ Play A Christmas Song](https://open.spotify.com/track/18uSfZqFBxQFi8CsXOIbhy) | [Cher](https://open.spotify.com/artist/72OaDtakiy6yFqkt4TsiFt) | [Christmas](https://open.spotify.com/album/4Eeeg4yMb5qtMEm0lk6lDM) | 3:29 |
 | 60 | [Rudolph The Red\-Nosed Reindeer](https://open.spotify.com/track/2L9QLAhrvtP4EYg1lY0Tnw) | [Dean Martin](https://open.spotify.com/artist/49e4v89VmlDcFCMyDv9wQ9) | [A Winter Romance](https://open.spotify.com/album/5I48ENiZiaZZSOpec6PdS5) | 2:15 |
 | 61 | [Sleigh Ride](https://open.spotify.com/track/4ukUoXLuFzMixyZyabSGc4) | [Ella Fitzgerald](https://open.spotify.com/artist/5V0MlUE1Bft0mbLlND7FJz) | [Ella Wishes You A Swinging Christmas \(Expanded Edition\)](https://open.spotify.com/album/2UhPCUgK2IGUrg7lIvMYfb) | 2:55 |
-| 62 | [Golden Slumbers \- Remastered 2009](https://open.spotify.com/track/01SfTM5nfCou5gQL70r6gs) | [The Beatles](https://open.spotify.com/artist/3WrFJ7ztbogyGnTHbHJFl2) | [Abbey Road \(Remastered 2009\)](https://open.spotify.com/album/0ETFjACtuP2ADo6LFhL6HN) | 1:31 |
+| 62 | [Holiday Road \- Spotify Singles Holiday](https://open.spotify.com/track/6hZvOA9oBZZM812GNDLjEb) | [Kesha](https://open.spotify.com/artist/6LqNN22kT3074XbTVUrhzX) | [Holiday Road \- Spotify Singles Holiday](https://open.spotify.com/album/731OHLbeYVneMjOIi14aPU) | 2:05 |
 | 63 | [River](https://open.spotify.com/track/6QjfeWvTkJTgMJcifKXoa5) | [Ryland James](https://open.spotify.com/artist/4WXIF211lYZfYEn0d13Ac0) | [River](https://open.spotify.com/album/6eFMdTriLrFtrE1xLXsVJs) | 3:17 |
-| 64 | [Holiday Road \- Spotify Singles Holiday](https://open.spotify.com/track/6hZvOA9oBZZM812GNDLjEb) | [Kesha](https://open.spotify.com/artist/6LqNN22kT3074XbTVUrhzX) | [Holiday Road \- Spotify Singles Holiday](https://open.spotify.com/album/731OHLbeYVneMjOIi14aPU) | 2:05 |
+| 64 | [Golden Slumbers \- Remastered 2009](https://open.spotify.com/track/01SfTM5nfCou5gQL70r6gs) | [The Beatles](https://open.spotify.com/artist/3WrFJ7ztbogyGnTHbHJFl2) | [Abbey Road \(Remastered 2009\)](https://open.spotify.com/album/0ETFjACtuP2ADo6LFhL6HN) | 1:31 |
 | 65 | [Run Outta Mistletoe](https://open.spotify.com/track/3RG2ckEP3Mb2pKuDsuR2YP) | [High Valley](https://open.spotify.com/artist/5sQqZtsAbXAoAnvA8iN9kN) | [Run Outta Mistletoe](https://open.spotify.com/album/5wIDdUcs5RFHu33dc9CnZy) | 2:43 |
 | 66 | [Christmas Without You](https://open.spotify.com/track/1QLZKzC2pjP4ySf4ALrNhm) | [Ava Max](https://open.spotify.com/artist/4npEfmQ6YuiwW1GpUmaq3F) | [Christmas Without You](https://open.spotify.com/album/4vxk8Q78WLINHtJpDSuvq7) | 2:49 |
 | 67 | [I'll Be Home for Christmas](https://open.spotify.com/track/6kDt7UcDZJMrAluOxTSWV1) | [Meghan Patrick](https://open.spotify.com/artist/5bQxLohAAiOat0EMYuHjzJ) | [I'll Be Home for Christmas](https://open.spotify.com/album/0BeZLG9XcyUSSxhIS1QgpS) | 3:00 |
 | 68 | [Have Yourself A Merry Little Christmas](https://open.spotify.com/track/030mot3ZKR3oskfMsqDB2R) | [Judy Garland](https://open.spotify.com/artist/0hItVPjwJLVZrFqOyIsxPf) | [Meet Me In St\. Louis](https://open.spotify.com/album/1owtCiTnAkCB4vKJ5FD0ki) | 2:42 |
-| 69 | [Winter Things](https://open.spotify.com/track/1jhljxXlHw8K9rezXKrnow) | [Ariana Grande](https://open.spotify.com/artist/66CXWjxzNUsdJxJ2JdwvnR) | [Christmas & Chill](https://open.spotify.com/album/6yi7FjzeCHGVJJAdWRYAmk) | 2:38 |
+| 69 | [Driving Home for Christmas \- Spotify Singles Holiday](https://open.spotify.com/track/2gciS7UJjv59l7608DFGNl) | [Dasha](https://open.spotify.com/artist/7Ez6lTtSMjMf2YSYpukP1I) | [Driving Home for Christmas \- Spotify Singles Holiday](https://open.spotify.com/album/0gmojjrEnKs0BoN1WnYh8x) | 2:46 |
 | 70 | [Don't Give Your Heart Away for Christmas](https://open.spotify.com/track/6fE2Kjwd5Fh2xF9IeuiOY4) | [Alexander Stewart](https://open.spotify.com/artist/0znpFLuaey34oJTE1jHSnT) | [Don't Give Your Heart Away for Christmas](https://open.spotify.com/album/2s3Wa5FblJ5qXPZsULI6co) | 2:14 |
-| 71 | [Driving Home for Christmas \- Spotify Singles Holiday](https://open.spotify.com/track/2gciS7UJjv59l7608DFGNl) | [Dasha](https://open.spotify.com/artist/7Ez6lTtSMjMf2YSYpukP1I) | [Driving Home for Christmas \- Spotify Singles Holiday](https://open.spotify.com/album/0gmojjrEnKs0BoN1WnYh8x) | 2:46 |
+| 71 | [Winter Things](https://open.spotify.com/track/1jhljxXlHw8K9rezXKrnow) | [Ariana Grande](https://open.spotify.com/artist/66CXWjxzNUsdJxJ2JdwvnR) | [Christmas & Chill](https://open.spotify.com/album/6yi7FjzeCHGVJJAdWRYAmk) | 2:38 |
 | 72 | [Mary, Did You Know?](https://open.spotify.com/track/4z8sz6E4YyFuEkv5o7IJni) | [Pentatonix](https://open.spotify.com/artist/26AHtbjWKiwYzsoGoUZq53) | [That's Christmas To Me \(Deluxe Edition\)](https://open.spotify.com/album/082VlX7cBth0o8xqDGclNn) | 3:22 |
 | 73 | [Last Christmas](https://open.spotify.com/track/0u74xi5AJEulKPccore7B2) | [Virginia To Vegas](https://open.spotify.com/artist/3v9wPA58IVrX2dg6AjSPgi), [Tyler Shaw](https://open.spotify.com/artist/3jERgGiTwNAPxNmDasAb31), [LØLØ](https://open.spotify.com/artist/5MjcGshMggPgIHinIUDaX0), [New Friends](https://open.spotify.com/artist/7aHNy2bjgGqOeFqUZ1shgb), [noelle](https://open.spotify.com/artist/0UBB7UD8Lvt7UesGnXDRpy), [Shawn Hook](https://open.spotify.com/artist/7blkMNJv8n9ceP9zlA4W2U) | [Last Christmas](https://open.spotify.com/album/5M5dF1R53sHPHUGuPMRz4R) | 2:48 |
 | 74 | [Shake Up Christmas](https://open.spotify.com/track/1NghHeg0wE32eBYrQBVQXL) | [Train](https://open.spotify.com/artist/3FUY2gzHeIiaesXtOAdB7A) | [Save Me, San Francisco \(Golden Gate Edition\)](https://open.spotify.com/album/1CwXS6MAz8Wo7K4TzW9iuR) | 3:52 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5T5XRP5VmUL.md) - [plain]
 | 99 | [\*snow in berlin\*](https://open.spotify.com/track/6MgDPVjjEloarAofqPE4we) | [LØLØ](https://open.spotify.com/artist/5MjcGshMggPgIHinIUDaX0) | [\*snow in berlin\*](https://open.spotify.com/album/7K3Ig78OIzZBNlvFdtzAfk) | 2:39 |
 | 100 | [Merry Christmas Baby](https://open.spotify.com/track/6zM6jd0UXIPazvyU1tivdv) | [Zach McPhee](https://open.spotify.com/artist/41Rl91W4wP74bD4vRoMWrN) | [Holidays Are Here / Merry Christmas Baby](https://open.spotify.com/album/69igKKumVMT9Xt56ZzXkDN) | 3:29 |
 
-Snapshot ID: `AAAAAOuTLeQBGyF/OLf4cPONcy52MnRy`
+Snapshot ID: `AAAAAJcHREpMIOf1yTL7J1XQgIuDWKsR`

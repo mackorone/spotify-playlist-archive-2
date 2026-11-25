@@ -1,12 +1,12 @@
 {
   "description": "Transform your workspace into a cozy retreat with gentle tunes and warm vibes",
-  "num_followers": 595679,
+  "num_followers": 595705,
   "original_name": "Soft Office",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAHdvtSNnRMKap1XhYmKo2uxi1ws/",
+  "snapshot_id": "AAAAAOocm1dyyNU1Q3+My1mD6SU0kYPE",
   "tracks": [
     {
       "added_at": "2026-11-06 06:00:07",
@@ -335,22 +335,6 @@
     {
       "added_at": "2026-11-06 06:00:07",
       "album": {
-        "name": "Eat You Alive",
-        "url": "https://open.spotify.com/album/4kQXEvj4Q6FLfgmkGgBwPf"
-      },
-      "artists": [
-        {
-          "name": "Tokyo Tea Room",
-          "url": "https://open.spotify.com/artist/3lzTKwFsOqxtp5cLJ2qbSD"
-        }
-      ],
-      "duration_ms": 190000,
-      "name": "Eat You Alive",
-      "url": "https://open.spotify.com/track/1GnhDPcve5uOz4K8StzHtX"
-    },
-    {
-      "added_at": "2026-11-06 06:00:07",
-      "album": {
         "name": "Hallucinating Love",
         "url": "https://open.spotify.com/album/6NyoU5F25y1I7V9fqbKqy9"
       },
@@ -367,6 +351,22 @@
       "duration_ms": 210994,
       "name": "Peace Talk",
       "url": "https://open.spotify.com/track/4c1GHCAXEFa08WHckJ6txh"
+    },
+    {
+      "added_at": "2026-11-06 06:00:07",
+      "album": {
+        "name": "Eat You Alive",
+        "url": "https://open.spotify.com/album/4kQXEvj4Q6FLfgmkGgBwPf"
+      },
+      "artists": [
+        {
+          "name": "Tokyo Tea Room",
+          "url": "https://open.spotify.com/artist/3lzTKwFsOqxtp5cLJ2qbSD"
+        }
+      ],
+      "duration_ms": 190000,
+      "name": "Eat You Alive",
+      "url": "https://open.spotify.com/track/1GnhDPcve5uOz4K8StzHtX"
     },
     {
       "added_at": "2026-11-06 06:00:07",
@@ -419,18 +419,22 @@
     {
       "added_at": "2026-11-06 06:00:07",
       "album": {
-        "name": "Two, Three Karate Moves",
-        "url": "https://open.spotify.com/album/0KTz7HPjCElX1x64aJk0ki"
+        "name": "Empezar Ganando",
+        "url": "https://open.spotify.com/album/0OQaAAmqwMlwjvBhPua2T1"
       },
       "artists": [
         {
-          "name": "Los Aguas Aguas",
-          "url": "https://open.spotify.com/artist/6MlrTBeZE2S1lUxSD6x8wG"
+          "name": "Simon Grossmann",
+          "url": "https://open.spotify.com/artist/6t38N9HASTn9ca0PIxfReQ"
+        },
+        {
+          "name": "Bebo Dumont",
+          "url": "https://open.spotify.com/artist/1K3l8XdgOtySWPTvBfhgYe"
         }
       ],
-      "duration_ms": 335464,
-      "name": "Damaris",
-      "url": "https://open.spotify.com/track/2zRbKWgKi1E5ljaBxLCIWl"
+      "duration_ms": 160000,
+      "name": "Brazil",
+      "url": "https://open.spotify.com/track/7aoiWBO8doJwpmDlAwVHu6"
     },
     {
       "added_at": "2026-11-06 06:00:07",
@@ -451,22 +455,18 @@
     {
       "added_at": "2026-11-06 06:00:07",
       "album": {
-        "name": "Empezar Ganando",
-        "url": "https://open.spotify.com/album/0OQaAAmqwMlwjvBhPua2T1"
+        "name": "Two, Three Karate Moves",
+        "url": "https://open.spotify.com/album/0KTz7HPjCElX1x64aJk0ki"
       },
       "artists": [
         {
-          "name": "Simon Grossmann",
-          "url": "https://open.spotify.com/artist/6t38N9HASTn9ca0PIxfReQ"
-        },
-        {
-          "name": "Bebo Dumont",
-          "url": "https://open.spotify.com/artist/1K3l8XdgOtySWPTvBfhgYe"
+          "name": "Los Aguas Aguas",
+          "url": "https://open.spotify.com/artist/6MlrTBeZE2S1lUxSD6x8wG"
         }
       ],
-      "duration_ms": 160000,
-      "name": "Brazil",
-      "url": "https://open.spotify.com/track/7aoiWBO8doJwpmDlAwVHu6"
+      "duration_ms": 335464,
+      "name": "Damaris",
+      "url": "https://open.spotify.com/track/2zRbKWgKi1E5ljaBxLCIWl"
     },
     {
       "added_at": "2026-11-06 06:00:07",
@@ -559,22 +559,6 @@
     {
       "added_at": "2026-11-06 06:00:07",
       "album": {
-        "name": "Caroline",
-        "url": "https://open.spotify.com/album/75p2ynuvcTWcFIFs4OyDkQ"
-      },
-      "artists": [
-        {
-          "name": "Arlo Parks",
-          "url": "https://open.spotify.com/artist/4kIwETcbpuFgRukE8o7Opx"
-        }
-      ],
-      "duration_ms": 216933,
-      "name": "Caroline",
-      "url": "https://open.spotify.com/track/21aQ9GdgEXK6qeovX0YaKb"
-    },
-    {
-      "added_at": "2026-11-06 06:00:07",
-      "album": {
         "name": "Baby Face",
         "url": "https://open.spotify.com/album/03ED4VmMZWk0WfEqkNjhUe"
       },
@@ -587,6 +571,22 @@
       "duration_ms": 219083,
       "name": "Nobody Scared",
       "url": "https://open.spotify.com/track/4kSOiZOW85gDgPMKVmnNVC"
+    },
+    {
+      "added_at": "2026-11-06 06:00:07",
+      "album": {
+        "name": "Caroline",
+        "url": "https://open.spotify.com/album/75p2ynuvcTWcFIFs4OyDkQ"
+      },
+      "artists": [
+        {
+          "name": "Arlo Parks",
+          "url": "https://open.spotify.com/artist/4kIwETcbpuFgRukE8o7Opx"
+        }
+      ],
+      "duration_ms": 216933,
+      "name": "Caroline",
+      "url": "https://open.spotify.com/track/21aQ9GdgEXK6qeovX0YaKb"
     },
     {
       "added_at": "2026-11-06 06:00:07",
@@ -627,6 +627,22 @@
     {
       "added_at": "2026-11-06 06:00:07",
       "album": {
+        "name": "Three Dimensions Deep",
+        "url": "https://open.spotify.com/album/1S8KMYJE7raT6e6hfPRLUU"
+      },
+      "artists": [
+        {
+          "name": "Amber Mark",
+          "url": "https://open.spotify.com/artist/0tbeZu9lv8YEKSQ9tZSslu"
+        }
+      ],
+      "duration_ms": 173774,
+      "name": "Bliss",
+      "url": "https://open.spotify.com/track/4Csvnz7PR04ttCcDAhUz6o"
+    },
+    {
+      "added_at": "2026-11-06 06:00:07",
+      "album": {
         "name": "Lucid Girl",
         "url": "https://open.spotify.com/album/2cvZWTjXfM06uspaYuW60w"
       },
@@ -655,22 +671,6 @@
       "duration_ms": 197524,
       "name": "Green Eyes",
       "url": "https://open.spotify.com/track/36qo9oMO8yRrZMsDcd5x83"
-    },
-    {
-      "added_at": "2026-11-06 06:00:07",
-      "album": {
-        "name": "Three Dimensions Deep",
-        "url": "https://open.spotify.com/album/1S8KMYJE7raT6e6hfPRLUU"
-      },
-      "artists": [
-        {
-          "name": "Amber Mark",
-          "url": "https://open.spotify.com/artist/0tbeZu9lv8YEKSQ9tZSslu"
-        }
-      ],
-      "duration_ms": 173774,
-      "name": "Bliss",
-      "url": "https://open.spotify.com/track/4Csvnz7PR04ttCcDAhUz6o"
     },
     {
       "added_at": "2026-11-06 06:00:07",
@@ -739,22 +739,6 @@
     {
       "added_at": "2026-11-06 06:00:07",
       "album": {
-        "name": "Hurt",
-        "url": "https://open.spotify.com/album/1tKobwujSCKXeHTMmbwpfJ"
-      },
-      "artists": [
-        {
-          "name": "Arlo Parks",
-          "url": "https://open.spotify.com/artist/4kIwETcbpuFgRukE8o7Opx"
-        }
-      ],
-      "duration_ms": 216094,
-      "name": "Hurt",
-      "url": "https://open.spotify.com/track/3OREiYBiC7wSpOLukQMDZR"
-    },
-    {
-      "added_at": "2026-11-06 06:00:07",
-      "album": {
         "name": "Where Do You Go",
         "url": "https://open.spotify.com/album/74SSHu09e4vyHHMGKfw2CL"
       },
@@ -767,6 +751,22 @@
       "duration_ms": 237493,
       "name": "Where Do You Go",
       "url": "https://open.spotify.com/track/3pil7DXQmpnQcImkoF4wz1"
+    },
+    {
+      "added_at": "2026-11-06 06:00:07",
+      "album": {
+        "name": "Hurt",
+        "url": "https://open.spotify.com/album/1tKobwujSCKXeHTMmbwpfJ"
+      },
+      "artists": [
+        {
+          "name": "Arlo Parks",
+          "url": "https://open.spotify.com/artist/4kIwETcbpuFgRukE8o7Opx"
+        }
+      ],
+      "duration_ms": 216094,
+      "name": "Hurt",
+      "url": "https://open.spotify.com/track/3OREiYBiC7wSpOLukQMDZR"
     },
     {
       "added_at": "2026-11-06 06:00:07",
@@ -819,22 +819,6 @@
     {
       "added_at": "2026-11-06 06:00:07",
       "album": {
-        "name": "Hope",
-        "url": "https://open.spotify.com/album/2cqVLSrisNHPR6Q1Q4HsBp"
-      },
-      "artists": [
-        {
-          "name": "Arlo Parks",
-          "url": "https://open.spotify.com/artist/4kIwETcbpuFgRukE8o7Opx"
-        }
-      ],
-      "duration_ms": 270066,
-      "name": "Hope",
-      "url": "https://open.spotify.com/track/6m5g6mY0EqyPW6Snc6n749"
-    },
-    {
-      "added_at": "2026-11-06 06:00:07",
-      "album": {
         "name": "EL-MEAN",
         "url": "https://open.spotify.com/album/5dJhQ6lZr7IWiDs2ujk15J"
       },
@@ -847,6 +831,22 @@
       "duration_ms": 251501,
       "name": "Choose You",
       "url": "https://open.spotify.com/track/2aIG5oXcYSJPkmS1pybszQ"
+    },
+    {
+      "added_at": "2026-11-06 06:00:07",
+      "album": {
+        "name": "Hope",
+        "url": "https://open.spotify.com/album/2cqVLSrisNHPR6Q1Q4HsBp"
+      },
+      "artists": [
+        {
+          "name": "Arlo Parks",
+          "url": "https://open.spotify.com/artist/4kIwETcbpuFgRukE8o7Opx"
+        }
+      ],
+      "duration_ms": 270066,
+      "name": "Hope",
+      "url": "https://open.spotify.com/track/6m5g6mY0EqyPW6Snc6n749"
     },
     {
       "added_at": "2026-11-06 06:00:07",
@@ -1063,22 +1063,6 @@
     {
       "added_at": "2026-11-06 06:00:07",
       "album": {
-        "name": "Escrito en agua",
-        "url": "https://open.spotify.com/album/6TLRkXnt12XuN7eX3uXL36"
-      },
-      "artists": [
-        {
-          "name": "Diles que no me maten",
-          "url": "https://open.spotify.com/artist/22Gr8D6d3DlHfUYjbqtIev"
-        }
-      ],
-      "duration_ms": 149000,
-      "name": "Kil\u00f3metros dentro de un t\u00fanel",
-      "url": "https://open.spotify.com/track/6XAkbb88Yf7weHqu0ihB1P"
-    },
-    {
-      "added_at": "2026-11-06 06:00:07",
-      "album": {
         "name": "Tuesday",
         "url": "https://open.spotify.com/album/576ztM6ojdD8gFAlM8CXQo"
       },
@@ -1115,6 +1099,22 @@
     {
       "added_at": "2026-11-06 06:00:07",
       "album": {
+        "name": "Escrito en agua",
+        "url": "https://open.spotify.com/album/6TLRkXnt12XuN7eX3uXL36"
+      },
+      "artists": [
+        {
+          "name": "Diles que no me maten",
+          "url": "https://open.spotify.com/artist/22Gr8D6d3DlHfUYjbqtIev"
+        }
+      ],
+      "duration_ms": 149000,
+      "name": "Kil\u00f3metros dentro de un t\u00fanel",
+      "url": "https://open.spotify.com/track/6XAkbb88Yf7weHqu0ihB1P"
+    },
+    {
+      "added_at": "2026-11-06 06:00:07",
+      "album": {
         "name": "I Hope You Can Forgive Me",
         "url": "https://open.spotify.com/album/5xnIsq0jfWIPXRgiAEZtK5"
       },
@@ -1143,6 +1143,22 @@
       "duration_ms": 191927,
       "name": "A-Game",
       "url": "https://open.spotify.com/track/0T39fS2m86sARmHc8skkGX"
+    },
+    {
+      "added_at": "2026-11-06 06:00:07",
+      "album": {
+        "name": "Santiago",
+        "url": "https://open.spotify.com/album/5CqEEjDulphHq8zgJcko21"
+      },
+      "artists": [
+        {
+          "name": "jame minogue",
+          "url": "https://open.spotify.com/artist/0zzKHfNZYWeOjJpHdhT1Ck"
+        }
+      ],
+      "duration_ms": 142516,
+      "name": "Santiago",
+      "url": "https://open.spotify.com/track/58r843NDpyDVVvd6In95g3"
     },
     {
       "added_at": "2026-11-06 06:00:07",
@@ -1179,22 +1195,6 @@
     {
       "added_at": "2026-11-06 06:00:07",
       "album": {
-        "name": "Santiago",
-        "url": "https://open.spotify.com/album/5CqEEjDulphHq8zgJcko21"
-      },
-      "artists": [
-        {
-          "name": "jame minogue",
-          "url": "https://open.spotify.com/artist/0zzKHfNZYWeOjJpHdhT1Ck"
-        }
-      ],
-      "duration_ms": 142516,
-      "name": "Santiago",
-      "url": "https://open.spotify.com/track/58r843NDpyDVVvd6In95g3"
-    },
-    {
-      "added_at": "2026-11-06 06:00:07",
-      "album": {
         "name": "Renacer",
         "url": "https://open.spotify.com/album/7qKcHXbgt8Jy7Rc4tZv1b5"
       },
@@ -1227,6 +1227,22 @@
     {
       "added_at": "2026-11-06 06:00:07",
       "album": {
+        "name": "Sorry I Haven't Called",
+        "url": "https://open.spotify.com/album/5kTccsRBDxgf0Wgq4nb9PH"
+      },
+      "artists": [
+        {
+          "name": "Vagabon",
+          "url": "https://open.spotify.com/artist/17mwzDXKn4ra9cuxXaptwp"
+        }
+      ],
+      "duration_ms": 177733,
+      "name": "Lexicon",
+      "url": "https://open.spotify.com/track/0NprRZn1emMhdnHIOdsk0U"
+    },
+    {
+      "added_at": "2026-11-06 06:00:07",
+      "album": {
         "name": "Camas Separadas (ft. Disco Bah\u00eda)",
         "url": "https://open.spotify.com/album/3aDyz75eU1Jx02DNYP00Or"
       },
@@ -1243,22 +1259,6 @@
       "duration_ms": 235136,
       "name": "Camas Separadas - ft. Disco Bah\u00eda",
       "url": "https://open.spotify.com/track/22gaXio7PCkNc8ODKW9v2p"
-    },
-    {
-      "added_at": "2026-11-06 06:00:07",
-      "album": {
-        "name": "Sorry I Haven't Called",
-        "url": "https://open.spotify.com/album/5kTccsRBDxgf0Wgq4nb9PH"
-      },
-      "artists": [
-        {
-          "name": "Vagabon",
-          "url": "https://open.spotify.com/artist/17mwzDXKn4ra9cuxXaptwp"
-        }
-      ],
-      "duration_ms": 177733,
-      "name": "Lexicon",
-      "url": "https://open.spotify.com/track/0NprRZn1emMhdnHIOdsk0U"
     },
     {
       "added_at": "2026-11-06 06:00:07",
@@ -1399,26 +1399,6 @@
     {
       "added_at": "2026-11-06 06:00:07",
       "album": {
-        "name": "Terra",
-        "url": "https://open.spotify.com/album/7g1USrooXeCD9I4DLHAZyW"
-      },
-      "artists": [
-        {
-          "name": "Nacho Maldonado",
-          "url": "https://open.spotify.com/artist/4K6VsMmNzvyjrkVFdncNRH"
-        },
-        {
-          "name": "Buhotronix",
-          "url": "https://open.spotify.com/artist/3yvoWOVO5YKnz6Id1Xyxe9"
-        }
-      ],
-      "duration_ms": 281000,
-      "name": "Coronado",
-      "url": "https://open.spotify.com/track/1KmB86Dw1mffqKuErR2pU9"
-    },
-    {
-      "added_at": "2026-11-06 06:00:07",
-      "album": {
         "name": "ocean tales",
         "url": "https://open.spotify.com/album/0ENr07q7h0vsydKinh36FM"
       },
@@ -1439,6 +1419,26 @@
     {
       "added_at": "2026-11-06 06:00:07",
       "album": {
+        "name": "Terra",
+        "url": "https://open.spotify.com/album/7g1USrooXeCD9I4DLHAZyW"
+      },
+      "artists": [
+        {
+          "name": "Nacho Maldonado",
+          "url": "https://open.spotify.com/artist/4K6VsMmNzvyjrkVFdncNRH"
+        },
+        {
+          "name": "Buhotronix",
+          "url": "https://open.spotify.com/artist/3yvoWOVO5YKnz6Id1Xyxe9"
+        }
+      ],
+      "duration_ms": 281000,
+      "name": "Coronado",
+      "url": "https://open.spotify.com/track/1KmB86Dw1mffqKuErR2pU9"
+    },
+    {
+      "added_at": "2026-11-06 06:00:07",
+      "album": {
         "name": "Giver Taker",
         "url": "https://open.spotify.com/album/5UWRaW0ui40kohTv4PyBEc"
       },
@@ -1451,22 +1451,6 @@
       "duration_ms": 164613,
       "name": "Baby No More",
       "url": "https://open.spotify.com/track/50YFf2wxdUPioeqahWKCl1"
-    },
-    {
-      "added_at": "2026-11-06 06:00:07",
-      "album": {
-        "name": "Dolores y compa\u00f1\u00eda",
-        "url": "https://open.spotify.com/album/7pX5LQHRwvOISJAChz2tqx"
-      },
-      "artists": [
-        {
-          "name": "Gabriela Alatorre",
-          "url": "https://open.spotify.com/artist/5nx2QzX7iOhTv3L5eQOFG5"
-        }
-      ],
-      "duration_ms": 218024,
-      "name": "Socorro",
-      "url": "https://open.spotify.com/track/7aOCTIavuPBXbnsw0SUbrV"
     },
     {
       "added_at": "2026-11-06 06:00:07",
@@ -1511,6 +1495,22 @@
       "duration_ms": 474358,
       "name": "Secret City",
       "url": "https://open.spotify.com/track/4H512sUGwagrnMGNoO6wmN"
+    },
+    {
+      "added_at": "2026-11-06 06:00:07",
+      "album": {
+        "name": "Dolores y compa\u00f1\u00eda",
+        "url": "https://open.spotify.com/album/7pX5LQHRwvOISJAChz2tqx"
+      },
+      "artists": [
+        {
+          "name": "Gabriela Alatorre",
+          "url": "https://open.spotify.com/artist/5nx2QzX7iOhTv3L5eQOFG5"
+        }
+      ],
+      "duration_ms": 218024,
+      "name": "Socorro",
+      "url": "https://open.spotify.com/track/7aOCTIavuPBXbnsw0SUbrV"
     },
     {
       "added_at": "2026-11-06 06:00:07",
@@ -1651,22 +1651,6 @@
     {
       "added_at": "2026-11-06 06:00:07",
       "album": {
-        "name": "Tru Love",
-        "url": "https://open.spotify.com/album/1mIwtmu3DzvkF0reJ90Pe8"
-      },
-      "artists": [
-        {
-          "name": "James Vincent McMorrow",
-          "url": "https://open.spotify.com/artist/7FDlvgcodNfC0IBdWevl4u"
-        }
-      ],
-      "duration_ms": 198084,
-      "name": "Tru Love",
-      "url": "https://open.spotify.com/track/3HkIHa7ajjxgCB2Ag25els"
-    },
-    {
-      "added_at": "2026-11-06 06:00:07",
-      "album": {
         "name": "Nowhere",
         "url": "https://open.spotify.com/album/41TUfXgTwmFIqL0aFgpefc"
       },
@@ -1683,6 +1667,22 @@
       "duration_ms": 228786,
       "name": "Nowhere",
       "url": "https://open.spotify.com/track/3p3ETWclqLR2MHPS2JaLTK"
+    },
+    {
+      "added_at": "2026-11-06 06:00:07",
+      "album": {
+        "name": "Tru Love",
+        "url": "https://open.spotify.com/album/1mIwtmu3DzvkF0reJ90Pe8"
+      },
+      "artists": [
+        {
+          "name": "James Vincent McMorrow",
+          "url": "https://open.spotify.com/artist/7FDlvgcodNfC0IBdWevl4u"
+        }
+      ],
+      "duration_ms": 198084,
+      "name": "Tru Love",
+      "url": "https://open.spotify.com/track/3HkIHa7ajjxgCB2Ag25els"
     },
     {
       "added_at": "2026-11-06 06:00:07",

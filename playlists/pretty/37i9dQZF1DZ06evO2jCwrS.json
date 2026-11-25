@@ -1,12 +1,12 @@
 {
   "description": "This is H.E.R.. The essential tracks, all in one playlist.",
-  "num_followers": 263986,
+  "num_followers": 264000,
   "original_name": "This Is H.E.R.",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "awIwgAAAAACHd38aEzA7yIwSsk+yKe/1",
+  "snapshot_id": "awOCAAAAAABUSr5/jdhxJ57/bcqHXgMS",
   "tracks": [
     {
       "added_at": null,
@@ -555,6 +555,38 @@
     {
       "added_at": null,
       "album": {
+        "name": "Wrong Places (from Songland)",
+        "url": "https://open.spotify.com/album/2egSKhWoeRAIycSMnlew9P"
+      },
+      "artists": [
+        {
+          "name": "H.E.R.",
+          "url": "https://open.spotify.com/artist/3Y7RZ31TRPVadSFVy1o8os"
+        }
+      ],
+      "duration_ms": 197727,
+      "name": "Wrong Places (from Songland)",
+      "url": "https://open.spotify.com/track/2mtLGVN6xZm93wDG9nvviS"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "H.E.R.",
+        "url": "https://open.spotify.com/album/0pV0Mx07aMApIpF19oSQgY"
+      },
+      "artists": [
+        {
+          "name": "H.E.R.",
+          "url": "https://open.spotify.com/artist/3Y7RZ31TRPVadSFVy1o8os"
+        }
+      ],
+      "duration_ms": 188985,
+      "name": "2",
+      "url": "https://open.spotify.com/track/2YyNFk4HBKXrqgsvPDNJtO"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "From a Birds Eye View",
         "url": "https://open.spotify.com/album/3N3alcn9EvmanafUt70Vxh"
       },
@@ -579,38 +611,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "H.E.R.",
-        "url": "https://open.spotify.com/album/0pV0Mx07aMApIpF19oSQgY"
-      },
-      "artists": [
-        {
-          "name": "H.E.R.",
-          "url": "https://open.spotify.com/artist/3Y7RZ31TRPVadSFVy1o8os"
-        }
-      ],
-      "duration_ms": 188985,
-      "name": "2",
-      "url": "https://open.spotify.com/track/2YyNFk4HBKXrqgsvPDNJtO"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Wrong Places (from Songland)",
-        "url": "https://open.spotify.com/album/2egSKhWoeRAIycSMnlew9P"
-      },
-      "artists": [
-        {
-          "name": "H.E.R.",
-          "url": "https://open.spotify.com/artist/3Y7RZ31TRPVadSFVy1o8os"
-        }
-      ],
-      "duration_ms": 197727,
-      "name": "Wrong Places (from Songland)",
-      "url": "https://open.spotify.com/track/2mtLGVN6xZm93wDG9nvviS"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Hold Us Together (Hope Mix)",
         "url": "https://open.spotify.com/album/1v2udzifT2MKC7HBgz8BlU"
       },
@@ -627,26 +627,6 @@
       "duration_ms": 278108,
       "name": "Hold Us Together - Hope Mix",
       "url": "https://open.spotify.com/track/42Q6AOIHAybfNz8tFMwrWl"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "This Way (From SUPERFLY - Original Soundtrack)",
-        "url": "https://open.spotify.com/album/3bfmiUsXdErmCz71FjZqnW"
-      },
-      "artists": [
-        {
-          "name": "Khalid",
-          "url": "https://open.spotify.com/artist/6LuN9FCkKOj5PcnpouEgny"
-        },
-        {
-          "name": "H.E.R.",
-          "url": "https://open.spotify.com/artist/3Y7RZ31TRPVadSFVy1o8os"
-        }
-      ],
-      "duration_ms": 211204,
-      "name": "This Way - From SUPERFLY - Original Soundtrack",
-      "url": "https://open.spotify.com/track/6fbYL76UWbHdYq4B91TPQi"
     },
     {
       "added_at": null,
@@ -671,6 +651,26 @@
       "duration_ms": 291613,
       "name": "Better Than I Imagined [Feat. H.E.R. & Meshell Ndegeocello]",
       "url": "https://open.spotify.com/track/4i8AsLFPCFip6SbEDOFvYq"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "This Way (From SUPERFLY - Original Soundtrack)",
+        "url": "https://open.spotify.com/album/3bfmiUsXdErmCz71FjZqnW"
+      },
+      "artists": [
+        {
+          "name": "Khalid",
+          "url": "https://open.spotify.com/artist/6LuN9FCkKOj5PcnpouEgny"
+        },
+        {
+          "name": "H.E.R.",
+          "url": "https://open.spotify.com/artist/3Y7RZ31TRPVadSFVy1o8os"
+        }
+      ],
+      "duration_ms": 211204,
+      "name": "This Way - From SUPERFLY - Original Soundtrack",
+      "url": "https://open.spotify.com/track/6fbYL76UWbHdYq4B91TPQi"
     },
     {
       "added_at": null,

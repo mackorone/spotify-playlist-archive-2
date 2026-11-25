@@ -1,12 +1,12 @@
 {
   "description": "This is Saweetie. The essential tracks, all in one playlist.",
-  "num_followers": 42923,
+  "num_followers": 42920,
   "original_name": "This Is Saweetie",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "awIwgAAAAABEFKDUxeUL44IRue43zgPV",
+  "snapshot_id": "awOCAAAAAAASyAEkzRUZ46D+3bmpQd/k",
   "tracks": [
     {
       "added_at": null,
@@ -643,6 +643,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "details",
+        "url": "https://open.spotify.com/album/1YslW2Ai6kI5KFEfuttBTY"
+      },
+      "artists": [
+        {
+          "name": "Saweetie",
+          "url": "https://open.spotify.com/artist/6cK3NBO6uP7hh0oyuVELFl"
+        }
+      ],
+      "duration_ms": 122490,
+      "name": "in ya face",
+      "url": "https://open.spotify.com/track/0tXyZq5VUJTrmCnb83vicd"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "All She Wanna Do",
         "url": "https://open.spotify.com/album/6TZegXA3acaeOUIh5fsV5M"
       },
@@ -735,22 +751,6 @@
       "duration_ms": 211703,
       "name": "Money Mouf",
       "url": "https://open.spotify.com/track/2ab4xGVMBb14NpPrj4xDq5"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "details",
-        "url": "https://open.spotify.com/album/1YslW2Ai6kI5KFEfuttBTY"
-      },
-      "artists": [
-        {
-          "name": "Saweetie",
-          "url": "https://open.spotify.com/artist/6cK3NBO6uP7hh0oyuVELFl"
-        }
-      ],
-      "duration_ms": 122490,
-      "name": "in ya face",
-      "url": "https://open.spotify.com/track/0tXyZq5VUJTrmCnb83vicd"
     },
     {
       "added_at": null,

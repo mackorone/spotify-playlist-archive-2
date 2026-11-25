@@ -4,7 +4,7 @@
 
 > Let Japanese beats guide you into a calm and blissful evening\. / 心地よい夜を過ごすための日本製ビートサウンド
 
-91 songs - 4 hr 34 min
+92 songs - 4 hr 36 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -49,7 +49,7 @@
 | [Morning Bird \- Instrumental](https://open.spotify.com/track/3AAkAL6VTVBJ4ZNSeRr0ai) | [A.O.](https://open.spotify.com/artist/2jfEozrJPe4aHfA86ClOAI) | [Morning Bird \(Instrumental\)](https://open.spotify.com/album/0iMEZTSuLyOsJvkqmzeqe6) | 3:17 | 2026-10-05 | 2026-11-04 |
 | [Mount Fuji](https://open.spotify.com/track/7gtDfhACmZah5mX8ITpvod) | [Sachiho](https://open.spotify.com/artist/5tf5EwCHOh2BP2zYdBvdqa), [Kanzas\-City](https://open.spotify.com/artist/49Z5vwf8nQWwSkOt6BUSZD) | [Mount Fuji](https://open.spotify.com/album/6Hd9amsAG9sQ5zMG15PRAv) | 3:01 | 2026-10-05 | 2026-11-04 |
 | [NEIGHBORHOOD](https://open.spotify.com/track/7pF5IwjIYwsxTmXnGq1Orn) | [Michael Kaneko](https://open.spotify.com/artist/36a3BbcVBJMiBGeHzpAxHb) | [The Neighborhood](https://open.spotify.com/album/0G3mBgdPScjga7vIe6t5Nv) | 1:40 | 2025-10-24 |  |
-| [Night Step](https://open.spotify.com/track/7wzdW1urmtdQZk4KQBOtX8) | [Wataru Fujiwara](https://open.spotify.com/artist/0wOfP27EddIPwwB7X7ZrWP) | [Night Step](https://open.spotify.com/album/5NKwXKL1deztn3vmc7E7Ki) | 2:30 | 2026-07-18 |  |
+| [Night Step](https://open.spotify.com/track/7wzdW1urmtdQZk4KQBOtX8) | [Wataru Fujiwara](https://open.spotify.com/artist/0wOfP27EddIPwwB7X7ZrWP) | [Night Step](https://open.spotify.com/album/5NKwXKL1deztn3vmc7E7Ki) | 2:30 | 2026-07-18 | 2026-11-25 |
 | [Nitnoi](https://open.spotify.com/track/4kwmLBF0lsSxAz2dVGrU8M) | [Morning Breakfast](https://open.spotify.com/artist/62qZZnEqoCfJiN6khI7TuY), [Gold Digga](https://open.spotify.com/artist/2XsUp7bFg2HhVw53ubcrvI) | [Morning Breakfast Vol.3](https://open.spotify.com/album/1cjUD5hSrQcU93KdOw5q8H) | 3:38 | 2025-12-12 | 2026-07-19 |
 | [North Wing](https://open.spotify.com/track/05kA0tTx15o8wx0vYqm251) | [Shingo Sekiguchi](https://open.spotify.com/artist/1ZU8a8LHba4g0YFAL1PbO9) | [tender](https://open.spotify.com/album/6xSM45V8BDQAkDudFVCCHA) | 2:34 | 2025-10-24 |  |
 | [ole](https://open.spotify.com/track/1pD2Zq8WCl8GHHuRGDmdjb) | [fat jon](https://open.spotify.com/artist/5Fmr3KeGe2IAVFmMxUq1sD) | [samurai champloo music record departure](https://open.spotify.com/album/3uNaLrScYulpXLRmQquP9I) | 3:27 | 2026-10-05 | 2026-11-04 |
@@ -81,6 +81,7 @@
 | [Stories & Studies](https://open.spotify.com/track/0tKmZJqFwmQ539WrqWrMYM) | [TOMC](https://open.spotify.com/artist/0goluclBYV1M0FriHVtKD0) | [Stories & Studies](https://open.spotify.com/album/6GThZMuDzGscijM6iM5dcc) | 1:52 | 2025-10-24 | 2026-07-19 |
 | [Sunrise](https://open.spotify.com/track/5fB4LYOgKzoD527MCLV46q) | [DJ Mitsu The Beats](https://open.spotify.com/artist/4F8O7axjzw3z0xVPRG8JFS) | [Sunrise](https://open.spotify.com/album/1DZbje3Vg1XVwbzMiIzrw4) | 3:20 | 2026-07-18 |  |
 | [Sunrise at Mount Fuji](https://open.spotify.com/track/3wtEF6gOrkS1DTT3BPMWdA) | [Seizan Ishigaki](https://open.spotify.com/artist/2YVKRBTfIy4rKoqpwzkbO0), [Lola](https://open.spotify.com/artist/1qDK6LhZ26Z6od4yq1VBKT), [Jikuru](https://open.spotify.com/artist/2KV1oZF072xUfPJbNti3Gp), [Hideyuki Mochizuki](https://open.spotify.com/artist/4gFTtS1ENHeqBDs5UtJvQv) | [Sunrise at Mount Fuji](https://open.spotify.com/album/1fyTJhCf41lyaM3lva5rTd) | 2:19 | 2026-06-26 |  |
+| [SYMBOL](https://open.spotify.com/track/4zqdXlWnuD1oeaTi4pFDS1) | [Green Assassin Dollar](https://open.spotify.com/artist/64FwB76hSP9VtYtPSBbEY7) | [SYMBOL](https://open.spotify.com/album/5s4qlmaXiEzQrpQHEikNGC) | 1:50 | 2026-11-15 |  |
 | [Tayutau](https://open.spotify.com/track/1ZiDure4S90WRUJ1CP17p5) | [EVISBEATS](https://open.spotify.com/artist/3dkhk6RTgOerN0NQEmt8Nc), [Nagipan](https://open.spotify.com/artist/6judDBSYKSSJENpZ83zoVS) | [Tayutau](https://open.spotify.com/album/2rDkaipWW2xf6MxZosufpd) | 2:22 | 2026-09-22 | 2026-10-17 |
 | [Those Vows Under The Moonlight](https://open.spotify.com/track/5UyDhY6VogckKVRvgCt1mG) | [Aosaki](https://open.spotify.com/artist/0bdEy0DEDF6WFUEIlm4sSx) | [Melancholic Romantic Love](https://open.spotify.com/album/1NoMZCUuPjvNqaeMkl91kJ) | 3:29 | 2026-10-05 | 2026-11-04 |
 | [Time goes by](https://open.spotify.com/track/6H6pqFQ4cAybRvxkXaTihz) | [MIDICRONICA 181](https://open.spotify.com/artist/3AlVoNtbPZPiNdpI1h8LlY) | [Time goes by](https://open.spotify.com/album/3BGcymZGetozixza8RWiAv) | 1:55 | 2026-04-27 |  |

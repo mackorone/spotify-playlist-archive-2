@@ -1,12 +1,12 @@
 {
   "description": "Apaga a luz e deixa rolar.",
-  "num_followers": 319619,
+  "num_followers": 319615,
   "original_name": "Rala e Rola",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAO95Cq+xjCCD78Lt4gI58UtXWaVa",
+  "snapshot_id": "AAAAAOXrJEdp76Q1AMBEQiqUCqxsUEs8",
   "tracks": [
     {
       "added_at": "2026-09-10 03:01:30",
@@ -771,6 +771,26 @@
     {
       "added_at": "2026-09-10 03:01:30",
       "album": {
+        "name": "Vira E Mexe",
+        "url": "https://open.spotify.com/album/2zjkvBJv9T5szVE5s5ztmh"
+      },
+      "artists": [
+        {
+          "name": "Clau",
+          "url": "https://open.spotify.com/artist/13A9x5VINTOaVnYxK4rbNQ"
+        },
+        {
+          "name": "Gaab",
+          "url": "https://open.spotify.com/artist/2iK1rsbYstkSVn57M4s8ut"
+        }
+      ],
+      "duration_ms": 190122,
+      "name": "Vira E Mexe",
+      "url": "https://open.spotify.com/track/00Y5ViiXK4yhnYTh0rCCBT"
+    },
+    {
+      "added_at": "2026-09-10 03:01:30",
+      "album": {
         "name": "V\u00eanus",
         "url": "https://open.spotify.com/album/3wFwGLDDKHn9QGVY7fNhNb"
       },
@@ -795,26 +815,6 @@
       "duration_ms": 230437,
       "name": "V\u00eanus (feat. A\u00edsha)",
       "url": "https://open.spotify.com/track/1k2yIXtCDKULmVqlhWQeNz"
-    },
-    {
-      "added_at": "2026-09-10 03:01:30",
-      "album": {
-        "name": "Vira E Mexe",
-        "url": "https://open.spotify.com/album/2zjkvBJv9T5szVE5s5ztmh"
-      },
-      "artists": [
-        {
-          "name": "Clau",
-          "url": "https://open.spotify.com/artist/13A9x5VINTOaVnYxK4rbNQ"
-        },
-        {
-          "name": "Gaab",
-          "url": "https://open.spotify.com/artist/2iK1rsbYstkSVn57M4s8ut"
-        }
-      ],
-      "duration_ms": 190122,
-      "name": "Vira E Mexe",
-      "url": "https://open.spotify.com/track/00Y5ViiXK4yhnYTh0rCCBT"
     },
     {
       "added_at": "2026-09-10 03:01:30",
@@ -1067,22 +1067,6 @@
     {
       "added_at": "2026-09-10 03:01:30",
       "album": {
-        "name": "Uma Cabana",
-        "url": "https://open.spotify.com/album/054n4OQyd9yxD52XfFa01t"
-      },
-      "artists": [
-        {
-          "name": "Jo\u00e3o Mar",
-          "url": "https://open.spotify.com/artist/2NV1SEgX1h3DIADJjzRrQy"
-        }
-      ],
-      "duration_ms": 142000,
-      "name": "Uma Cabana",
-      "url": "https://open.spotify.com/track/5okIfDBy57Ek20m0pJdHcz"
-    },
-    {
-      "added_at": "2026-09-10 03:01:30",
-      "album": {
         "name": "temporal",
         "url": "https://open.spotify.com/album/2wMqM1vI4ScRjs60n9Z7Kw"
       },
@@ -1095,6 +1079,22 @@
       "duration_ms": 216299,
       "name": "temporal",
       "url": "https://open.spotify.com/track/70ZUKqDSk9tD2VqMbz0bhO"
+    },
+    {
+      "added_at": "2026-09-10 03:01:30",
+      "album": {
+        "name": "Uma Cabana",
+        "url": "https://open.spotify.com/album/054n4OQyd9yxD52XfFa01t"
+      },
+      "artists": [
+        {
+          "name": "Jo\u00e3o Mar",
+          "url": "https://open.spotify.com/artist/2NV1SEgX1h3DIADJjzRrQy"
+        }
+      ],
+      "duration_ms": 142000,
+      "name": "Uma Cabana",
+      "url": "https://open.spotify.com/track/5okIfDBy57Ek20m0pJdHcz"
     },
     {
       "added_at": "2026-09-10 03:01:30",

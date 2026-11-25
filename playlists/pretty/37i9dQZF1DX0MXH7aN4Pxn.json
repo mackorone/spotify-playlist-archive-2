@@ -1,12 +1,12 @@
 {
   "description": "",
-  "num_followers": 720942,
+  "num_followers": 720889,
   "original_name": "PARTY MODE",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAGqWY/xjx2jFvb1iZiiQJIxrWZxO",
+  "snapshot_id": "AAAAAIKrR37D7EcCWInUy+CdU/O1Pdgd",
   "tracks": [
     {
       "added_at": "2026-11-20 11:41:34",
@@ -95,6 +95,46 @@
     {
       "added_at": "2026-11-20 11:41:34",
       "album": {
+        "name": "Prada",
+        "url": "https://open.spotify.com/album/5MU0RmBSpoSxOPYBfcobDc"
+      },
+      "artists": [
+        {
+          "name": "cass\u00f6",
+          "url": "https://open.spotify.com/artist/5wCmhq5J2hPwL2r0eKurxn"
+        },
+        {
+          "name": "RAYE",
+          "url": "https://open.spotify.com/artist/5KKpBU5eC2tJDzf0wmlRp2"
+        },
+        {
+          "name": "D-Block Europe",
+          "url": "https://open.spotify.com/artist/5VadK1havLhK1OpKYsXv9y"
+        }
+      ],
+      "duration_ms": 132359,
+      "name": "Prada",
+      "url": "https://open.spotify.com/track/59NraMJsLaMCVtwXTSia8i"
+    },
+    {
+      "added_at": "2026-11-20 11:41:34",
+      "album": {
+        "name": "On 2nite",
+        "url": "https://open.spotify.com/album/46NWiHTOxSLHBGJIT6J73N"
+      },
+      "artists": [
+        {
+          "name": "Silva Bumpa",
+          "url": "https://open.spotify.com/artist/2dPLkqesvPXpIlP65JoLrf"
+        }
+      ],
+      "duration_ms": 158848,
+      "name": "On 2nite",
+      "url": "https://open.spotify.com/track/2BoSbGSp2OaDBOx5NFHkrr"
+    },
+    {
+      "added_at": "2026-11-20 11:41:34",
+      "album": {
         "name": "Waterfalls (feat. Sam Harper & Bobby Harvey)",
         "url": "https://open.spotify.com/album/1iEczV3pKJ9MPmRvYGB9bz"
       },
@@ -119,22 +159,6 @@
     {
       "added_at": "2026-11-20 11:41:34",
       "album": {
-        "name": "On 2nite",
-        "url": "https://open.spotify.com/album/46NWiHTOxSLHBGJIT6J73N"
-      },
-      "artists": [
-        {
-          "name": "Silva Bumpa",
-          "url": "https://open.spotify.com/artist/2dPLkqesvPXpIlP65JoLrf"
-        }
-      ],
-      "duration_ms": 158848,
-      "name": "On 2nite",
-      "url": "https://open.spotify.com/track/2BoSbGSp2OaDBOx5NFHkrr"
-    },
-    {
-      "added_at": "2026-11-20 11:41:34",
-      "album": {
         "name": "It Feels So Good",
         "url": "https://open.spotify.com/album/5DkTpze7FxkVlsNgD3jKYO"
       },
@@ -155,30 +179,6 @@
       "duration_ms": 160973,
       "name": "It Feels So Good",
       "url": "https://open.spotify.com/track/7xFy1kfgGWJWTpx1vSHBLi"
-    },
-    {
-      "added_at": "2026-11-20 11:41:34",
-      "album": {
-        "name": "Prada",
-        "url": "https://open.spotify.com/album/5MU0RmBSpoSxOPYBfcobDc"
-      },
-      "artists": [
-        {
-          "name": "cass\u00f6",
-          "url": "https://open.spotify.com/artist/5wCmhq5J2hPwL2r0eKurxn"
-        },
-        {
-          "name": "RAYE",
-          "url": "https://open.spotify.com/artist/5KKpBU5eC2tJDzf0wmlRp2"
-        },
-        {
-          "name": "D-Block Europe",
-          "url": "https://open.spotify.com/artist/5VadK1havLhK1OpKYsXv9y"
-        }
-      ],
-      "duration_ms": 132359,
-      "name": "Prada",
-      "url": "https://open.spotify.com/track/59NraMJsLaMCVtwXTSia8i"
     },
     {
       "added_at": "2026-11-20 11:41:34",
@@ -931,26 +931,22 @@
     {
       "added_at": "2026-11-20 11:41:34",
       "album": {
-        "name": "Rave Out",
-        "url": "https://open.spotify.com/album/7HOsS5h3J7ddLvcOfX9RGX"
+        "name": "HEAT",
+        "url": "https://open.spotify.com/album/5xBJBxfQFowtJ5yq7MnXMG"
       },
       "artists": [
         {
-          "name": "Turno",
-          "url": "https://open.spotify.com/artist/1TVDml0EOLsjUxBCFzqWes"
+          "name": "Tove Lo",
+          "url": "https://open.spotify.com/artist/4NHQUGzhtTLFvgF5SZesLK"
         },
         {
-          "name": "Skepsis",
-          "url": "https://open.spotify.com/artist/6DnQYUjtYusK9QJts9HqSC"
-        },
-        {
-          "name": "Charlotte Plank",
-          "url": "https://open.spotify.com/artist/4U5QErgn94wZGw1rJz01BO"
+          "name": "SG Lewis",
+          "url": "https://open.spotify.com/artist/0GG2cWaonE4JPrjcCCQ1EG"
         }
       ],
-      "duration_ms": 148155,
-      "name": "Rave Out",
-      "url": "https://open.spotify.com/track/0cIkdVvxT2lalJFH254lYA"
+      "duration_ms": 217529,
+      "name": "HEAT",
+      "url": "https://open.spotify.com/track/3Du9k9oZz7DJCMZviju2lD"
     },
     {
       "added_at": "2026-11-20 11:41:34",
@@ -971,22 +967,26 @@
     {
       "added_at": "2026-11-20 11:41:34",
       "album": {
-        "name": "HEAT",
-        "url": "https://open.spotify.com/album/5xBJBxfQFowtJ5yq7MnXMG"
+        "name": "Rave Out",
+        "url": "https://open.spotify.com/album/7HOsS5h3J7ddLvcOfX9RGX"
       },
       "artists": [
         {
-          "name": "Tove Lo",
-          "url": "https://open.spotify.com/artist/4NHQUGzhtTLFvgF5SZesLK"
+          "name": "Turno",
+          "url": "https://open.spotify.com/artist/1TVDml0EOLsjUxBCFzqWes"
         },
         {
-          "name": "SG Lewis",
-          "url": "https://open.spotify.com/artist/0GG2cWaonE4JPrjcCCQ1EG"
+          "name": "Skepsis",
+          "url": "https://open.spotify.com/artist/6DnQYUjtYusK9QJts9HqSC"
+        },
+        {
+          "name": "Charlotte Plank",
+          "url": "https://open.spotify.com/artist/4U5QErgn94wZGw1rJz01BO"
         }
       ],
-      "duration_ms": 217529,
-      "name": "HEAT",
-      "url": "https://open.spotify.com/track/3Du9k9oZz7DJCMZviju2lD"
+      "duration_ms": 148155,
+      "name": "Rave Out",
+      "url": "https://open.spotify.com/track/0cIkdVvxT2lalJFH254lYA"
     },
     {
       "added_at": "2026-11-20 11:41:34",
@@ -1251,6 +1251,22 @@
     {
       "added_at": "2026-11-20 11:41:34",
       "album": {
+        "name": "Angel of Mine",
+        "url": "https://open.spotify.com/album/1izDlrauAzvtBvSDn83NKf"
+      },
+      "artists": [
+        {
+          "name": "Tobiahs",
+          "url": "https://open.spotify.com/artist/4eHzBO6qaL2wt35kENSbTs"
+        }
+      ],
+      "duration_ms": 162741,
+      "name": "Angel of Mine",
+      "url": "https://open.spotify.com/track/2lFg6N5CQ1lh3kJUHmtEf4"
+    },
+    {
+      "added_at": "2026-11-20 11:41:34",
+      "album": {
         "name": "The One (feat. Jocelyn Brown)",
         "url": "https://open.spotify.com/album/5rlbbiPN65rv6IjLjVmtHg"
       },
@@ -1271,22 +1287,6 @@
       "duration_ms": 182498,
       "name": "The One (feat. Jocelyn Brown)",
       "url": "https://open.spotify.com/track/4fErrQvOX1LPDIPFDFI4eM"
-    },
-    {
-      "added_at": "2026-11-20 11:41:34",
-      "album": {
-        "name": "Angel of Mine",
-        "url": "https://open.spotify.com/album/1izDlrauAzvtBvSDn83NKf"
-      },
-      "artists": [
-        {
-          "name": "Tobiahs",
-          "url": "https://open.spotify.com/artist/4eHzBO6qaL2wt35kENSbTs"
-        }
-      ],
-      "duration_ms": 162741,
-      "name": "Angel of Mine",
-      "url": "https://open.spotify.com/track/2lFg6N5CQ1lh3kJUHmtEf4"
     },
     {
       "added_at": "2026-11-20 11:41:34",
@@ -1411,30 +1411,6 @@
     {
       "added_at": "2026-11-20 11:41:34",
       "album": {
-        "name": "My Head Is A Jungle (MK Remix / Radio Edit)",
-        "url": "https://open.spotify.com/album/2zOqNJBZAqp57WXXhE4zpn"
-      },
-      "artists": [
-        {
-          "name": "Wankelmut",
-          "url": "https://open.spotify.com/artist/01e2lCvLZ4fLUIRy68nptH"
-        },
-        {
-          "name": "Emma Louise",
-          "url": "https://open.spotify.com/artist/1A96iePIMNFBjLrjXEl718"
-        },
-        {
-          "name": "MK",
-          "url": "https://open.spotify.com/artist/1yqxFtPHKcGcv6SXZNdyT9"
-        }
-      ],
-      "duration_ms": 205161,
-      "name": "My Head Is A Jungle - MK Remix / Radio Edit",
-      "url": "https://open.spotify.com/track/4NbvIwYcwx8dNGYfUX2bKB"
-    },
-    {
-      "added_at": "2026-11-20 11:41:34",
-      "album": {
         "name": "Honey Boy (feat. Nile Rodgers & Shenseea)",
         "url": "https://open.spotify.com/album/0WWjvPdLmnwYrTi03XJ9ib"
       },
@@ -1459,6 +1435,30 @@
       "duration_ms": 227283,
       "name": "Honey Boy (feat. Nile Rodgers & Shenseea)",
       "url": "https://open.spotify.com/track/1NpIUD4KqHaMT91kw0YV40"
+    },
+    {
+      "added_at": "2026-11-20 11:41:34",
+      "album": {
+        "name": "My Head Is A Jungle (MK Remix / Radio Edit)",
+        "url": "https://open.spotify.com/album/2zOqNJBZAqp57WXXhE4zpn"
+      },
+      "artists": [
+        {
+          "name": "Wankelmut",
+          "url": "https://open.spotify.com/artist/01e2lCvLZ4fLUIRy68nptH"
+        },
+        {
+          "name": "Emma Louise",
+          "url": "https://open.spotify.com/artist/1A96iePIMNFBjLrjXEl718"
+        },
+        {
+          "name": "MK",
+          "url": "https://open.spotify.com/artist/1yqxFtPHKcGcv6SXZNdyT9"
+        }
+      ],
+      "duration_ms": 205161,
+      "name": "My Head Is A Jungle - MK Remix / Radio Edit",
+      "url": "https://open.spotify.com/track/4NbvIwYcwx8dNGYfUX2bKB"
     },
     {
       "added_at": "2026-11-20 11:41:34",
@@ -1647,22 +1647,6 @@
     {
       "added_at": "2026-11-20 11:41:34",
       "album": {
-        "name": "Look Good",
-        "url": "https://open.spotify.com/album/71DApqhcYDfibOT9unRwuf"
-      },
-      "artists": [
-        {
-          "name": "Ethan Walsh",
-          "url": "https://open.spotify.com/artist/4EOVG7sMtdCjUbRSs1E0aT"
-        }
-      ],
-      "duration_ms": 134095,
-      "name": "Look Good",
-      "url": "https://open.spotify.com/track/6ksxe4Kmq9hdqqti0EFhOk"
-    },
-    {
-      "added_at": "2026-11-20 11:41:34",
-      "album": {
         "name": "Talk About",
         "url": "https://open.spotify.com/album/78uu9LcjPwqQEAdBSKz6mV"
       },
@@ -1679,6 +1663,38 @@
       "duration_ms": 161040,
       "name": "Talk About",
       "url": "https://open.spotify.com/track/1olCzMxaeiQKNO64ssWVGr"
+    },
+    {
+      "added_at": "2026-11-20 11:41:34",
+      "album": {
+        "name": "Look Good",
+        "url": "https://open.spotify.com/album/71DApqhcYDfibOT9unRwuf"
+      },
+      "artists": [
+        {
+          "name": "Ethan Walsh",
+          "url": "https://open.spotify.com/artist/4EOVG7sMtdCjUbRSs1E0aT"
+        }
+      ],
+      "duration_ms": 134095,
+      "name": "Look Good",
+      "url": "https://open.spotify.com/track/6ksxe4Kmq9hdqqti0EFhOk"
+    },
+    {
+      "added_at": "2026-11-20 11:41:34",
+      "album": {
+        "name": "Running Around",
+        "url": "https://open.spotify.com/album/6ix5Z3jcKpO5l6FExztvuc"
+      },
+      "artists": [
+        {
+          "name": "Ely Oaks",
+          "url": "https://open.spotify.com/artist/2MdFJmUQf3ckA99IhFF9my"
+        }
+      ],
+      "duration_ms": 124620,
+      "name": "Running Around",
+      "url": "https://open.spotify.com/track/4cJXHfk3oZ7hX2MgVMsTNC"
     },
     {
       "added_at": "2026-11-20 11:41:34",
@@ -1703,18 +1719,22 @@
     {
       "added_at": "2026-11-20 11:41:34",
       "album": {
-        "name": "Running Around",
-        "url": "https://open.spotify.com/album/6ix5Z3jcKpO5l6FExztvuc"
+        "name": "Beat Is Jumping",
+        "url": "https://open.spotify.com/album/3W210elro9LvnY46RJBNAn"
       },
       "artists": [
         {
-          "name": "Ely Oaks",
-          "url": "https://open.spotify.com/artist/2MdFJmUQf3ckA99IhFF9my"
+          "name": "Morgan Seatree",
+          "url": "https://open.spotify.com/artist/0GInfEJXl2kGPhSsVqEqXh"
+        },
+        {
+          "name": "Carla Monroe",
+          "url": "https://open.spotify.com/artist/4S9LNSZusH3XflT3g32bqB"
         }
       ],
-      "duration_ms": 124620,
-      "name": "Running Around",
-      "url": "https://open.spotify.com/track/4cJXHfk3oZ7hX2MgVMsTNC"
+      "duration_ms": 139436,
+      "name": "Beat Is Jumping",
+      "url": "https://open.spotify.com/track/4yM4Z1ifPXm4qFetMI659J"
     },
     {
       "added_at": "2026-11-20 11:41:34",
@@ -1751,26 +1771,6 @@
       "duration_ms": 163641,
       "name": "Divine",
       "url": "https://open.spotify.com/track/0u5aRUEwlWhtO32VASKoLi"
-    },
-    {
-      "added_at": "2026-11-20 11:41:34",
-      "album": {
-        "name": "Beat Is Jumping",
-        "url": "https://open.spotify.com/album/3W210elro9LvnY46RJBNAn"
-      },
-      "artists": [
-        {
-          "name": "Morgan Seatree",
-          "url": "https://open.spotify.com/artist/0GInfEJXl2kGPhSsVqEqXh"
-        },
-        {
-          "name": "Carla Monroe",
-          "url": "https://open.spotify.com/artist/4S9LNSZusH3XflT3g32bqB"
-        }
-      ],
-      "duration_ms": 139436,
-      "name": "Beat Is Jumping",
-      "url": "https://open.spotify.com/track/4yM4Z1ifPXm4qFetMI659J"
     },
     {
       "added_at": "2026-11-20 11:41:34",

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO476tMI.md) - [plain]
 
 > This is Whitney Houston\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 645,799 likes - 50 songs - 3 hr 43 min
+[Spotify](https://open.spotify.com/user/spotify) - 645,817 likes - 50 songs - 3 hr 43 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -23,9 +23,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO476tMI.md) - [plain]
 | 13 | [My Love Is Your Love](https://open.spotify.com/track/1ckU1EhAO0Nr73QYw24SWJ) | [Whitney Houston](https://open.spotify.com/artist/6XpaIBNiVzIetEPCWDvAFP) | [My Love Is Your Love](https://open.spotify.com/album/00NABajpGsPCObfcl4LJsM) | 4:21 |
 | 14 | [Could I Have This Kiss Forever](https://open.spotify.com/track/01qCxvpyyIm0a0RG3uYxEm) | [Enrique Iglesias](https://open.spotify.com/artist/7qG3b048QCHVRO5Pv1T5lw), [Whitney Houston](https://open.spotify.com/artist/6XpaIBNiVzIetEPCWDvAFP) | [Enrique](https://open.spotify.com/album/2ENVytJO885v5c1AW2Qjci) | 3:55 |
 | 15 | [All at Once](https://open.spotify.com/track/0g8Q1Pmem92k7PzI3VLWKz) | [Whitney Houston](https://open.spotify.com/artist/6XpaIBNiVzIetEPCWDvAFP) | [Whitney Houston](https://open.spotify.com/album/2MH37enG6IPvNK5QFLyKes) | 4:28 |
-| 16 | [I'm Every Woman](https://open.spotify.com/track/2eHj0klWkwRQuIrNlPpCPa) | [Whitney Houston](https://open.spotify.com/artist/6XpaIBNiVzIetEPCWDvAFP) | [The Bodyguard \- Original Soundtrack Album](https://open.spotify.com/album/7JVJlkNNobS0GSoy4tCS96) | 4:45 |
+| 16 | [I Will Always Love You \- Film Version](https://open.spotify.com/track/6XQz4HwNIQZ652JFa7putY) | [Whitney Houston](https://open.spotify.com/artist/6XpaIBNiVzIetEPCWDvAFP) | [I Wish You Love: More From The Bodyguard](https://open.spotify.com/album/3qEUTNGTeDXwYwSl3v2hNV) | 4:34 |
 | 17 | [It's Not Right But It's Okay](https://open.spotify.com/track/7861kBrZ5aw7o4NfggcyYW) | [Whitney Houston](https://open.spotify.com/artist/6XpaIBNiVzIetEPCWDvAFP) | [My Love Is Your Love](https://open.spotify.com/album/00NABajpGsPCObfcl4LJsM) | 4:52 |
-| 18 | [I Will Always Love You \- Film Version](https://open.spotify.com/track/6XQz4HwNIQZ652JFa7putY) | [Whitney Houston](https://open.spotify.com/artist/6XpaIBNiVzIetEPCWDvAFP) | [I Wish You Love: More From The Bodyguard](https://open.spotify.com/album/3qEUTNGTeDXwYwSl3v2hNV) | 4:34 |
+| 18 | [I'm Every Woman](https://open.spotify.com/track/2eHj0klWkwRQuIrNlPpCPa) | [Whitney Houston](https://open.spotify.com/artist/6XpaIBNiVzIetEPCWDvAFP) | [The Bodyguard \- Original Soundtrack Album](https://open.spotify.com/album/7JVJlkNNobS0GSoy4tCS96) | 4:45 |
 | 19 | [All The Man That I Need](https://open.spotify.com/track/07M76e7IXxYdnC1BBiJxEX) | [Whitney Houston](https://open.spotify.com/artist/6XpaIBNiVzIetEPCWDvAFP) | [I'm Your Baby Tonight](https://open.spotify.com/album/5LaUUDnUTySWnJLj1xiBnw) | 4:11 |
 | 20 | [I Look to You](https://open.spotify.com/track/1rAESNsSXvXpJh9hCjgHVX) | [Whitney Houston](https://open.spotify.com/artist/6XpaIBNiVzIetEPCWDvAFP) | [I Look To You](https://open.spotify.com/album/1MwwtYFk7ow6Bn0S98VW0A) | 4:25 |
 | 21 | [I Wanna Dance With Somebody \(Who Loves Me\)](https://open.spotify.com/track/1KGG3xSz0o8Tpf93ocgXH6) | [Calum Scott](https://open.spotify.com/artist/6ydoSd3N2mwgwBHtF6K7eX), [Whitney Houston](https://open.spotify.com/artist/6XpaIBNiVzIetEPCWDvAFP) | [Avenoir](https://open.spotify.com/album/0PpZlKRSocIBOf6mUY3tVw) | 3:38 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO476tMI.md) - [plain]
 | 49 | [Jesus Loves Me](https://open.spotify.com/track/77ld03vIqCjakQkIQBPTVA) | [Whitney Houston](https://open.spotify.com/artist/6XpaIBNiVzIetEPCWDvAFP) | [The Bodyguard \- Original Soundtrack Album](https://open.spotify.com/album/7JVJlkNNobS0GSoy4tCS96) | 5:12 |
 | 50 | [Why Does It Hurt So Bad \- from "Waiting to Exhale" \- Original Soundtrack](https://open.spotify.com/track/5s2RMsTabBqpOSZb86vPJt) | [Whitney Houston](https://open.spotify.com/artist/6XpaIBNiVzIetEPCWDvAFP) | [Whitney The Greatest Hits](https://open.spotify.com/album/4d3weCRQiZuheU5MB9hYAP) | 4:41 |
 
-Snapshot ID: `awIwgAAAAACsd6VChytGYZhWTjSzAaID`
+Snapshot ID: `awOCAAAAAABBi9+7JDU8LEwsd47IT2yw`

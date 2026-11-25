@@ -1,12 +1,12 @@
 {
   "description": "This is Kemilly Santos. The essential tracks, all in one playlist.",
-  "num_followers": 7104,
+  "num_followers": 7102,
   "original_name": "This Is Kemilly Santos",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "awIwgAAAAACUi8flJazfYDSzdFGClqTb",
+  "snapshot_id": "awOCAAAAAAC1NJ6V585b2toB2AtdEDWL",
   "tracks": [
     {
       "added_at": null,
@@ -311,22 +311,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "Presen\u00e7a",
-        "url": "https://open.spotify.com/album/0YJjGJRMMW4iLKzVkTaE9t"
+        "name": "Far\u00e1s Outra Vez",
+        "url": "https://open.spotify.com/album/7G8XGVmyU4c0ZOeX5nyzPK"
       },
       "artists": [
         {
-          "name": "Kemilly Santos",
-          "url": "https://open.spotify.com/artist/0IkWyvcpQ0bdOmRvnJl5ld"
+          "name": "Marcos Freire",
+          "url": "https://open.spotify.com/artist/1WhgPbb1dZTZWicZlNbB7g"
         },
         {
-          "name": "Anderson Freire",
-          "url": "https://open.spotify.com/artist/1HxtfSGL8pWUwAyVgpbU5B"
+          "name": "Kemilly Santos",
+          "url": "https://open.spotify.com/artist/0IkWyvcpQ0bdOmRvnJl5ld"
         }
       ],
-      "duration_ms": 356176,
-      "name": "Presen\u00e7a",
-      "url": "https://open.spotify.com/track/349BKIWoKEa8QyobTc4O20"
+      "duration_ms": 246998,
+      "name": "Far\u00e1s Outra Vez",
+      "url": "https://open.spotify.com/track/3DFHmoWf6DvDlYQWpSGOrj"
     },
     {
       "added_at": null,
@@ -367,22 +367,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "Far\u00e1s Outra Vez",
-        "url": "https://open.spotify.com/album/7G8XGVmyU4c0ZOeX5nyzPK"
+        "name": "Presen\u00e7a",
+        "url": "https://open.spotify.com/album/0YJjGJRMMW4iLKzVkTaE9t"
       },
       "artists": [
         {
-          "name": "Marcos Freire",
-          "url": "https://open.spotify.com/artist/1WhgPbb1dZTZWicZlNbB7g"
-        },
-        {
           "name": "Kemilly Santos",
           "url": "https://open.spotify.com/artist/0IkWyvcpQ0bdOmRvnJl5ld"
+        },
+        {
+          "name": "Anderson Freire",
+          "url": "https://open.spotify.com/artist/1HxtfSGL8pWUwAyVgpbU5B"
         }
       ],
-      "duration_ms": 246998,
-      "name": "Far\u00e1s Outra Vez",
-      "url": "https://open.spotify.com/track/3DFHmoWf6DvDlYQWpSGOrj"
+      "duration_ms": 356176,
+      "name": "Presen\u00e7a",
+      "url": "https://open.spotify.com/track/349BKIWoKEa8QyobTc4O20"
     },
     {
       "added_at": null,
@@ -499,6 +499,58 @@
     {
       "added_at": null,
       "album": {
+        "name": "Plano Original",
+        "url": "https://open.spotify.com/album/4bAZtQAOkCmTIKKyA50cCI"
+      },
+      "artists": [
+        {
+          "name": "Kemilly Santos",
+          "url": "https://open.spotify.com/artist/0IkWyvcpQ0bdOmRvnJl5ld"
+        },
+        {
+          "name": "Sued Silva",
+          "url": "https://open.spotify.com/artist/4EaUmdr2olpJ9n2OARYRJ2"
+        }
+      ],
+      "duration_ms": 217500,
+      "name": "Calma",
+      "url": "https://open.spotify.com/track/2jpAVrNOYTHLguyC7ccPGj"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Acredite",
+        "url": "https://open.spotify.com/album/64d1ePypGZFgGwXL2ZoWk7"
+      },
+      "artists": [
+        {
+          "name": "Kemilly Santos",
+          "url": "https://open.spotify.com/artist/0IkWyvcpQ0bdOmRvnJl5ld"
+        }
+      ],
+      "duration_ms": 304210,
+      "name": "Acredite",
+      "url": "https://open.spotify.com/track/1mdMSYPevGNZMfGnSWCxzN"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Kemilly Santos ao Vivo em S\u00e3o Paulo",
+        "url": "https://open.spotify.com/album/1KAi9GUnEOYjhuVxi5xVm9"
+      },
+      "artists": [
+        {
+          "name": "Kemilly Santos",
+          "url": "https://open.spotify.com/artist/0IkWyvcpQ0bdOmRvnJl5ld"
+        }
+      ],
+      "duration_ms": 258880,
+      "name": "A Porta do meu Quarto - Ao Vivo",
+      "url": "https://open.spotify.com/track/7j22XYPTYKpk7QPdG2fCLI"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Ele Continua Sendo Bom (Ao Vivo)",
         "url": "https://open.spotify.com/album/73CHRIILjit70Dl9k1OIAq"
       },
@@ -548,78 +600,6 @@
           "url": "https://open.spotify.com/artist/0IkWyvcpQ0bdOmRvnJl5ld"
         }
       ],
-      "duration_ms": 258880,
-      "name": "A Porta do meu Quarto - Ao Vivo",
-      "url": "https://open.spotify.com/track/7j22XYPTYKpk7QPdG2fCLI"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Plano Original",
-        "url": "https://open.spotify.com/album/4bAZtQAOkCmTIKKyA50cCI"
-      },
-      "artists": [
-        {
-          "name": "Kemilly Santos",
-          "url": "https://open.spotify.com/artist/0IkWyvcpQ0bdOmRvnJl5ld"
-        },
-        {
-          "name": "Sued Silva",
-          "url": "https://open.spotify.com/artist/4EaUmdr2olpJ9n2OARYRJ2"
-        }
-      ],
-      "duration_ms": 217500,
-      "name": "Calma",
-      "url": "https://open.spotify.com/track/2jpAVrNOYTHLguyC7ccPGj"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Acredite",
-        "url": "https://open.spotify.com/album/64d1ePypGZFgGwXL2ZoWk7"
-      },
-      "artists": [
-        {
-          "name": "Kemilly Santos",
-          "url": "https://open.spotify.com/artist/0IkWyvcpQ0bdOmRvnJl5ld"
-        }
-      ],
-      "duration_ms": 304210,
-      "name": "Acredite",
-      "url": "https://open.spotify.com/track/1mdMSYPevGNZMfGnSWCxzN"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Quem \u00e9 Voc\u00ea",
-        "url": "https://open.spotify.com/album/1I6u12BkipzrVbdDMFImHX"
-      },
-      "artists": [
-        {
-          "name": "Kemilly Santos",
-          "url": "https://open.spotify.com/artist/0IkWyvcpQ0bdOmRvnJl5ld"
-        },
-        {
-          "name": "C\u00e9sar Menotti & Fabiano",
-          "url": "https://open.spotify.com/artist/08yxJfM5RnFAjJvMJIFnvh"
-        }
-      ],
-      "duration_ms": 240829,
-      "name": "Quem \u00e9 Voc\u00ea",
-      "url": "https://open.spotify.com/track/3jRJnLknna0DBtnT2GeJvt"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Kemilly Santos ao Vivo em S\u00e3o Paulo",
-        "url": "https://open.spotify.com/album/1KAi9GUnEOYjhuVxi5xVm9"
-      },
-      "artists": [
-        {
-          "name": "Kemilly Santos",
-          "url": "https://open.spotify.com/artist/0IkWyvcpQ0bdOmRvnJl5ld"
-        }
-      ],
       "duration_ms": 219906,
       "name": "Cuidando (Ao Vivo)",
       "url": "https://open.spotify.com/track/2IdmwJsfpDSGwteaPhTRNG"
@@ -652,9 +632,29 @@
           "url": "https://open.spotify.com/artist/0IkWyvcpQ0bdOmRvnJl5ld"
         }
       ],
-      "duration_ms": 270533,
-      "name": "Por Tr\u00e1s Desse Sil\u00eancio",
-      "url": "https://open.spotify.com/track/1WmDM8aO0X9fxPO4I77Qc2"
+      "duration_ms": 238933,
+      "name": "Mais Que Vencedor",
+      "url": "https://open.spotify.com/track/2QBRoV43fAg9flDyVgos1C"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Quem \u00e9 Voc\u00ea",
+        "url": "https://open.spotify.com/album/1I6u12BkipzrVbdDMFImHX"
+      },
+      "artists": [
+        {
+          "name": "Kemilly Santos",
+          "url": "https://open.spotify.com/artist/0IkWyvcpQ0bdOmRvnJl5ld"
+        },
+        {
+          "name": "C\u00e9sar Menotti & Fabiano",
+          "url": "https://open.spotify.com/artist/08yxJfM5RnFAjJvMJIFnvh"
+        }
+      ],
+      "duration_ms": 240829,
+      "name": "Quem \u00e9 Voc\u00ea",
+      "url": "https://open.spotify.com/track/3jRJnLknna0DBtnT2GeJvt"
     },
     {
       "added_at": null,
@@ -700,9 +700,9 @@
           "url": "https://open.spotify.com/artist/0IkWyvcpQ0bdOmRvnJl5ld"
         }
       ],
-      "duration_ms": 238933,
-      "name": "Mais Que Vencedor",
-      "url": "https://open.spotify.com/track/2QBRoV43fAg9flDyVgos1C"
+      "duration_ms": 270533,
+      "name": "Por Tr\u00e1s Desse Sil\u00eancio",
+      "url": "https://open.spotify.com/track/1WmDM8aO0X9fxPO4I77Qc2"
     },
     {
       "added_at": null,
@@ -763,6 +763,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Vazio",
+        "url": "https://open.spotify.com/album/2zfFusFI8xDJRGdDY1pyYR"
+      },
+      "artists": [
+        {
+          "name": "Kemilly Santos",
+          "url": "https://open.spotify.com/artist/0IkWyvcpQ0bdOmRvnJl5ld"
+        }
+      ],
+      "duration_ms": 309636,
+      "name": "Vazio",
+      "url": "https://open.spotify.com/track/4GcFLWd9UDa55Hy8TAU0FE"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Trilo",
         "url": "https://open.spotify.com/album/2U8Z37cBZSCuN6IVd9wrMu"
       },
@@ -783,22 +799,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Vazio",
-        "url": "https://open.spotify.com/album/2zfFusFI8xDJRGdDY1pyYR"
-      },
-      "artists": [
-        {
-          "name": "Kemilly Santos",
-          "url": "https://open.spotify.com/artist/0IkWyvcpQ0bdOmRvnJl5ld"
-        }
-      ],
-      "duration_ms": 309636,
-      "name": "Vazio",
-      "url": "https://open.spotify.com/track/4GcFLWd9UDa55Hy8TAU0FE"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Vai Valer a Pena",
         "url": "https://open.spotify.com/album/16y13iFjoAQcnTveRj0eCx"
       },
@@ -808,9 +808,9 @@
           "url": "https://open.spotify.com/artist/0IkWyvcpQ0bdOmRvnJl5ld"
         }
       ],
-      "duration_ms": 230386,
-      "name": "Aguenta Firme",
-      "url": "https://open.spotify.com/track/4bYp3OEj49U3GF71L4kJid"
+      "duration_ms": 301280,
+      "name": "360 Graus",
+      "url": "https://open.spotify.com/track/5SU7gkuU0jQerzQL44Tz2K"
     },
     {
       "added_at": null,
@@ -880,9 +880,9 @@
           "url": "https://open.spotify.com/artist/0IkWyvcpQ0bdOmRvnJl5ld"
         }
       ],
-      "duration_ms": 301280,
-      "name": "360 Graus",
-      "url": "https://open.spotify.com/track/5SU7gkuU0jQerzQL44Tz2K"
+      "duration_ms": 230386,
+      "name": "Aguenta Firme",
+      "url": "https://open.spotify.com/track/4bYp3OEj49U3GF71L4kJid"
     },
     {
       "added_at": null,

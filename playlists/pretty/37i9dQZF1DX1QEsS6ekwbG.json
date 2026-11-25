@@ -1,12 +1,12 @@
 {
   "description": "La mejor compa\u00f1\u00eda mientras llueve.",
-  "num_followers": 209451,
+  "num_followers": 209495,
   "original_name": "Lluvia y Pop",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAG8lf3vhnHOauCG+qE8iQOdJqAET",
+  "snapshot_id": "AAAAAFROZKp3uV2bjJw67ILgwa435y45",
   "tracks": [
     {
       "added_at": "2026-11-20 03:00:31",
@@ -831,22 +831,18 @@
     {
       "added_at": "2026-11-20 03:00:31",
       "album": {
-        "name": "Vicentico 5",
-        "url": "https://open.spotify.com/album/1XKqjErvJYimD94yD3v6ky"
+        "name": "Mi Reflejo",
+        "url": "https://open.spotify.com/album/3TdbZH4OnoGoMgil9f1YzK"
       },
       "artists": [
         {
-          "name": "Vicentico",
-          "url": "https://open.spotify.com/artist/25THA9HUHoxpCT4LBp7UsZ"
-        },
-        {
-          "name": "Valeria Bertuccelli",
-          "url": "https://open.spotify.com/artist/1Kz4kgtxJWKTmi4w2ZnDEN"
+          "name": "Christina Aguilera",
+          "url": "https://open.spotify.com/artist/1l7ZsJRRS8wlW3WfJfPfNS"
         }
       ],
-      "duration_ms": 198333,
-      "name": "No Te Apartes de M\u00ed (feat. Valeria Bertuccelli)",
-      "url": "https://open.spotify.com/track/74KqkyHbpneHF6JT8EwUOO"
+      "duration_ms": 265733,
+      "name": "Pero Me Acuerdo de T\u00ed",
+      "url": "https://open.spotify.com/track/4B1sb2YVO03sBmyR8bvzEB"
     }
   ],
   "unique_name": "Lluvia y Pop",

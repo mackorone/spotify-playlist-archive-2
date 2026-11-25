@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTe5ECpTKzMo.md) - [plain]
 
 > La tierra del Rap de oro puro\. Ian Cordova en portada.
 
-[Spotify](https://open.spotify.com/user/spotify) - 741,703 likes - 100 songs - 5 hr 39 min
+[Spotify](https://open.spotify.com/user/spotify) - 741,679 likes - 100 songs - 5 hr 39 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTe5ECpTKzMo.md) - [plain]
 | 99 | [Quiúboles Que](https://open.spotify.com/track/4SEFSM1H18Q8uLXsi7zcIj) | [C\-Kan](https://open.spotify.com/artist/1QhaqxeqF9sipS2gwbEKpu), [Dharius](https://open.spotify.com/artist/66RfYVdftqnuHRicyClgL0) | [Quiúboles Que!](https://open.spotify.com/album/7fEd90zyiFjIr9UElw41iK) | 3:41 |
 | 100 | [Ni Muy Muy Ni Tan Tan](https://open.spotify.com/track/083IcGzprHpWcVhJHa3uo3) | [Under Side 821](https://open.spotify.com/artist/2NtN73hhhgFt2NmbBOlFz1) | [Nosotros Somos la Under Side Karnal](https://open.spotify.com/album/4LN7uKoNSYT7FGiqlL5IWf) | 5:08 |
 
-Snapshot ID: `AAAAAAXPW8dqtlPlggtbkgtdpX6algbT`
+Snapshot ID: `AAAAAPIdLF4BFe3u23WVydwPIB28IW9Z`

@@ -1,12 +1,12 @@
 {
   "description": "Uma pausa no dia para tomar um chocolate quente e aproveitar seu momento com Deus. ",
-  "num_followers": 167760,
+  "num_followers": 167778,
   "original_name": "Chocolate Crente",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAD+TFXiCKFLZO+F9aA4d8kwnaB5D",
+  "snapshot_id": "AAAAAKN1Kwqz1jcrYn+l6JzOzzU8GT3S",
   "tracks": [
     {
       "added_at": "2025-03-07 03:01:18",
@@ -615,26 +615,6 @@
     {
       "added_at": "2025-03-07 03:01:18",
       "album": {
-        "name": "Claro e Certo",
-        "url": "https://open.spotify.com/album/47ggi22ENuvh5a7AXHbDbI"
-      },
-      "artists": [
-        {
-          "name": "Rafa Blauth",
-          "url": "https://open.spotify.com/artist/2nnZzrOxN6dN3zOae5MeHU"
-        },
-        {
-          "name": "Estev\u00e3o Queiroga",
-          "url": "https://open.spotify.com/artist/1nQaNbf287f5x9oe2R3faK"
-        }
-      ],
-      "duration_ms": 241840,
-      "name": "Claro e Certo",
-      "url": "https://open.spotify.com/track/2C4bL85AHMERutNrejvo0B"
-    },
-    {
-      "added_at": "2025-03-07 03:01:18",
-      "album": {
         "name": "Tributo A Iehovah (Ao Vivo)",
         "url": "https://open.spotify.com/album/4d6pzEk3gFbP4tJJFKrS62"
       },
@@ -651,6 +631,26 @@
       "duration_ms": 367530,
       "name": "Tributo A Iehovah - Ao Vivo",
       "url": "https://open.spotify.com/track/5cLo2Ovt9oCWq8mucuHfDi"
+    },
+    {
+      "added_at": "2025-03-07 03:01:18",
+      "album": {
+        "name": "Claro e Certo",
+        "url": "https://open.spotify.com/album/47ggi22ENuvh5a7AXHbDbI"
+      },
+      "artists": [
+        {
+          "name": "Rafa Blauth",
+          "url": "https://open.spotify.com/artist/2nnZzrOxN6dN3zOae5MeHU"
+        },
+        {
+          "name": "Estev\u00e3o Queiroga",
+          "url": "https://open.spotify.com/artist/1nQaNbf287f5x9oe2R3faK"
+        }
+      ],
+      "duration_ms": 241840,
+      "name": "Claro e Certo",
+      "url": "https://open.spotify.com/track/2C4bL85AHMERutNrejvo0B"
     },
     {
       "added_at": "2025-03-07 03:01:18",

@@ -1,12 +1,12 @@
 {
   "description": "This is BL\u00d8F. The essential tracks, all in one playlist.",
-  "num_followers": 96381,
+  "num_followers": 96388,
   "original_name": "This Is BL\u00d8F",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "awIwgAAAAAB3Yt9av827XrwHt06DV8Gq",
+  "snapshot_id": "awOCAAAAAABPiABf5sh8n/ZyVm84zgck",
   "tracks": [
     {
       "added_at": null,
@@ -511,22 +511,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Levenslang",
-        "url": "https://open.spotify.com/album/6SgbamvUI8Nzuhw7NIEW5s"
-      },
-      "artists": [
-        {
-          "name": "BL\u00d8F",
-          "url": "https://open.spotify.com/artist/0KQX2wRHV2VLjuscfJFNxB"
-        }
-      ],
-      "duration_ms": 224844,
-      "name": "Levenslang",
-      "url": "https://open.spotify.com/track/1Vk4hsnhJAgZxZDRG9jThx"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Alles Blijft Anders",
         "url": "https://open.spotify.com/album/5xuqk16tOPkwrru4oiwRCC"
       },
@@ -539,6 +523,22 @@
       "duration_ms": 216586,
       "name": "Beter",
       "url": "https://open.spotify.com/track/2r4z1ssYMrH8dlEyLXmpNU"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Levenslang",
+        "url": "https://open.spotify.com/album/6SgbamvUI8Nzuhw7NIEW5s"
+      },
+      "artists": [
+        {
+          "name": "BL\u00d8F",
+          "url": "https://open.spotify.com/artist/0KQX2wRHV2VLjuscfJFNxB"
+        }
+      ],
+      "duration_ms": 224844,
+      "name": "Levenslang",
+      "url": "https://open.spotify.com/track/1Vk4hsnhJAgZxZDRG9jThx"
     },
     {
       "added_at": null,
@@ -575,22 +575,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Bitterzoet",
-        "url": "https://open.spotify.com/album/2EbPeDwO72ys18Q6PD2hoB"
-      },
-      "artists": [
-        {
-          "name": "BL\u00d8F",
-          "url": "https://open.spotify.com/artist/0KQX2wRHV2VLjuscfJFNxB"
-        }
-      ],
-      "duration_ms": 227840,
-      "name": "Bitterzoet",
-      "url": "https://open.spotify.com/track/21Kz5NrURIthNXPwgO9AaM"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Alles Blijft Anders",
         "url": "https://open.spotify.com/album/5xuqk16tOPkwrru4oiwRCC"
       },
@@ -603,6 +587,22 @@
       "duration_ms": 365026,
       "name": "Was Je Maar Hier",
       "url": "https://open.spotify.com/track/1zbwO2duYX0GQbfv717iat"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Bitterzoet",
+        "url": "https://open.spotify.com/album/2EbPeDwO72ys18Q6PD2hoB"
+      },
+      "artists": [
+        {
+          "name": "BL\u00d8F",
+          "url": "https://open.spotify.com/artist/0KQX2wRHV2VLjuscfJFNxB"
+        }
+      ],
+      "duration_ms": 227840,
+      "name": "Bitterzoet",
+      "url": "https://open.spotify.com/track/21Kz5NrURIthNXPwgO9AaM"
     },
     {
       "added_at": null,
@@ -639,26 +639,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Omarm Me",
-        "url": "https://open.spotify.com/album/1J2wWTUg6W725iYZPO8H0h"
-      },
-      "artists": [
-        {
-          "name": "Ronnie Flex",
-          "url": "https://open.spotify.com/artist/5eir5zFJpES4j7gsymbVyl"
-        },
-        {
-          "name": "BL\u00d8F",
-          "url": "https://open.spotify.com/artist/0KQX2wRHV2VLjuscfJFNxB"
-        }
-      ],
-      "duration_ms": 232425,
-      "name": "Omarm Me",
-      "url": "https://open.spotify.com/track/1lWBPQBghFHdpLbE6UnNc6"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Radio Berlijn",
         "url": "https://open.spotify.com/album/5QjzQDyPWc4R9vM5L6Reqq"
       },
@@ -679,6 +659,26 @@
     {
       "added_at": null,
       "album": {
+        "name": "Omarm Me",
+        "url": "https://open.spotify.com/album/1J2wWTUg6W725iYZPO8H0h"
+      },
+      "artists": [
+        {
+          "name": "Ronnie Flex",
+          "url": "https://open.spotify.com/artist/5eir5zFJpES4j7gsymbVyl"
+        },
+        {
+          "name": "BL\u00d8F",
+          "url": "https://open.spotify.com/artist/0KQX2wRHV2VLjuscfJFNxB"
+        }
+      ],
+      "duration_ms": 232425,
+      "name": "Omarm Me",
+      "url": "https://open.spotify.com/track/1lWBPQBghFHdpLbE6UnNc6"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Watermakers",
         "url": "https://open.spotify.com/album/0IjY6dBOwaD1OAIb8BxdCW"
       },
@@ -695,22 +695,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Umoja",
-        "url": "https://open.spotify.com/album/09epXZm5KJ3IdblOCILVyt"
-      },
-      "artists": [
-        {
-          "name": "BL\u00d8F",
-          "url": "https://open.spotify.com/artist/0KQX2wRHV2VLjuscfJFNxB"
-        }
-      ],
-      "duration_ms": 221933,
-      "name": "Hemingway",
-      "url": "https://open.spotify.com/track/783dXZcVk8s888KgelZpWi"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "April",
         "url": "https://open.spotify.com/album/0UqJJtE2gbrSpmEJEn6ete"
       },
@@ -723,6 +707,22 @@
       "duration_ms": 210883,
       "name": "Midzomernacht",
       "url": "https://open.spotify.com/track/3TFsLvUmCf0f8gAs3BCuDo"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Umoja",
+        "url": "https://open.spotify.com/album/09epXZm5KJ3IdblOCILVyt"
+      },
+      "artists": [
+        {
+          "name": "BL\u00d8F",
+          "url": "https://open.spotify.com/artist/0KQX2wRHV2VLjuscfJFNxB"
+        }
+      ],
+      "duration_ms": 221933,
+      "name": "Hemingway",
+      "url": "https://open.spotify.com/track/783dXZcVk8s888KgelZpWi"
     },
     {
       "added_at": null,
@@ -763,22 +763,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Umoja",
-        "url": "https://open.spotify.com/album/09epXZm5KJ3IdblOCILVyt"
-      },
-      "artists": [
-        {
-          "name": "BL\u00d8F",
-          "url": "https://open.spotify.com/artist/0KQX2wRHV2VLjuscfJFNxB"
-        }
-      ],
-      "duration_ms": 236493,
-      "name": "Mens",
-      "url": "https://open.spotify.com/track/1cEQ3t7L77oUXsdSIBN0V0"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Omarm",
         "url": "https://open.spotify.com/album/6oVjwkupd3MfWrNgH1pCKv"
       },
@@ -791,6 +775,22 @@
       "duration_ms": 434680,
       "name": "De Mooiste Verliezers",
       "url": "https://open.spotify.com/track/3fLDw6PS213U606WPG0qn8"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Umoja",
+        "url": "https://open.spotify.com/album/09epXZm5KJ3IdblOCILVyt"
+      },
+      "artists": [
+        {
+          "name": "BL\u00d8F",
+          "url": "https://open.spotify.com/artist/0KQX2wRHV2VLjuscfJFNxB"
+        }
+      ],
+      "duration_ms": 236493,
+      "name": "Mens",
+      "url": "https://open.spotify.com/track/1cEQ3t7L77oUXsdSIBN0V0"
     },
     {
       "added_at": null,
@@ -831,22 +831,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Umoja",
-        "url": "https://open.spotify.com/album/09epXZm5KJ3IdblOCILVyt"
-      },
-      "artists": [
-        {
-          "name": "BL\u00d8F",
-          "url": "https://open.spotify.com/artist/0KQX2wRHV2VLjuscfJFNxB"
-        }
-      ],
-      "duration_ms": 311986,
-      "name": "Een Manier Om Thuis Te Komen",
-      "url": "https://open.spotify.com/track/1FECUzfklLYzvIZhoiiwQG"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Francis",
         "url": "https://open.spotify.com/album/1pgAdTVfRnyzn4AqNXOUZ2"
       },
@@ -863,6 +847,22 @@
       "duration_ms": 206391,
       "name": "Regen",
       "url": "https://open.spotify.com/track/46V1YQy4dwmVG9zB5PkawO"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Umoja",
+        "url": "https://open.spotify.com/album/09epXZm5KJ3IdblOCILVyt"
+      },
+      "artists": [
+        {
+          "name": "BL\u00d8F",
+          "url": "https://open.spotify.com/artist/0KQX2wRHV2VLjuscfJFNxB"
+        }
+      ],
+      "duration_ms": 311986,
+      "name": "Een Manier Om Thuis Te Komen",
+      "url": "https://open.spotify.com/track/1FECUzfklLYzvIZhoiiwQG"
     }
   ],
   "unique_name": "This Is BL\u00d8F",

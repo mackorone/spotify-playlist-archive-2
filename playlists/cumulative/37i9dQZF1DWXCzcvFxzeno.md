@@ -4,7 +4,7 @@
 
 > 😈 welcome to the rave 😈  Cover: Sara Landry, Alt8
 
-417 songs - 1 day 3 hr 43 min
+418 songs - 1 day 3 hr 47 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -108,7 +108,7 @@
 | [Daydream](https://open.spotify.com/track/0WsROU8CJrMWBukK5IMs4y) | [I Hate Models](https://open.spotify.com/artist/0KqSULB80ft2H3aFg6kJmN) | [Warehouse Memories](https://open.spotify.com/album/3IRvcihOMBU1KNjrSX2YZh) | 7:43 | 2025-01-02 | 2025-01-10 |
 | [Definition of Hard Techno \- Lukas & Fernanda Martins Remix](https://open.spotify.com/track/3FhsfO5j8cD3a0xgHCAn9q) | [O.B.I.](https://open.spotify.com/artist/0f87xNphOln9PY4UNcXXr4), [Fernanda Martins](https://open.spotify.com/artist/52MgoD4ydR3spsWVir9naX), [Lukas](https://open.spotify.com/artist/41rDUBSuIZl3YscER2Fskv) | [Definition of Hard Techno](https://open.spotify.com/album/686gQUfEE4dyGJpu7SEjkv) | 6:47 | 2024-06-14 | 2024-06-19 |
 | [Deine Angst](https://open.spotify.com/track/6C3vS3o69ZX3JvX0onzFkT) | [Klangkuenstler](https://open.spotify.com/artist/6H77vD9YyhyxHBTkRpbMBk) | [Deine Angst](https://open.spotify.com/album/3B8TLKzSq8CJ5FjSxdCVL5) | 5:21 | 2024-04-09 | 2026-01-30 |
-| [Desespera](https://open.spotify.com/track/1SpXr3vWKOTYfV8BNeNTP7) | [Fatima Hajji](https://open.spotify.com/artist/6jZSXmTCxZhFfYELtp78Ci) | [Desespera](https://open.spotify.com/album/48xgfMVN4wbsiH10Amgnf1) | 5:26 | 2026-07-30 |  |
+| [Desespera](https://open.spotify.com/track/1SpXr3vWKOTYfV8BNeNTP7) | [Fatima Hajji](https://open.spotify.com/artist/6jZSXmTCxZhFfYELtp78Ci) | [Desespera](https://open.spotify.com/album/48xgfMVN4wbsiH10Amgnf1) | 5:26 | 2026-07-30 | 2026-11-25 |
 | [Devils Got My Back](https://open.spotify.com/track/0PItAl4HEXoEfK5NMRCAQW) | [Basswell](https://open.spotify.com/artist/4NzdIkiweEHJgVdg8q2Ruk) | [Devils Got My Back](https://open.spotify.com/album/2aSrnAjieDsZl8nbKdTk2n) | 2:25 | 2025-07-25 | 2026-05-17 |
 | [DGAF](https://open.spotify.com/track/4KsCP6skdbY9xsYSYlxbU9) | [KAS:ST](https://open.spotify.com/artist/7orlzf5LTqSnCzURkZFebN) | [DGAF](https://open.spotify.com/album/5HJ5DF8HirntW6MVfzNJOI) | 3:42 | 2024-09-20 | 2024-11-14 |
 | [Die Tonight](https://open.spotify.com/track/4y4NBmnV3QWygYpjLNDWOw) | [KUKO](https://open.spotify.com/artist/4sCQPElBVBfJNFGydeWwnU) | [Die Tonight](https://open.spotify.com/album/3dhdbBuZZrSShe1noV5TQF) | 3:47 | 2025-05-30 |  |
@@ -212,6 +212,7 @@
 | [I Got Acid](https://open.spotify.com/track/482SNF4FRJ5Ik8j2krjMEE) | [999999999](https://open.spotify.com/artist/6uD2LjPHUjxrpax0se17Nc), [Marie Vaunt](https://open.spotify.com/artist/50KydUSYhBFGorhAgUcrL5) | [I Got Acid](https://open.spotify.com/album/7DqeTZTW7W1MSewzTKjnwR) | 2:07 | 2026-06-25 |  |
 | [I Gotta Come In](https://open.spotify.com/track/5Zvm7MJIqbJNPUilBp4VsF) | [Frankyeffe](https://open.spotify.com/artist/1YeRLPqVEJIpa6jstdiD0O) | [I Gotta Come In](https://open.spotify.com/album/6U4Zykb93hkwR0mE4pj7lS) | 2:42 | 2025-02-14 | 2025-02-21 |
 | [I Wanna Feel](https://open.spotify.com/track/4uw9105SB1Rrp3EDoFT2Li) | [Remon Verhoeve](https://open.spotify.com/artist/56EmpRe6MZOCu8NYE0BG9T) | [I Wanna Feel](https://open.spotify.com/album/0gd2kulMUvdBmb1IXABW32) | 5:18 | 2024-08-05 | 2025-03-20 |
+| [I Wanna Go Bang](https://open.spotify.com/track/7cpQ1J9ODJBZPCJJttgCLR) | [NIKOLINA](https://open.spotify.com/artist/3d0OOhNi5k69JBZ5BVV8bc) | [I Wanna Go Bang](https://open.spotify.com/album/4MBSs3JI4WMhx4lqqOOGg5) | 4:31 | 2026-11-13 |  |
 | [ich kann's nicht](https://open.spotify.com/track/3xT6oaM80PoSGyZaUt8sTZ) | [Conrad Taylor](https://open.spotify.com/artist/2xycbnmcCACddcAnOanEnw) | [ich kann's nicht](https://open.spotify.com/album/7Gh3M3zC9edZhiuWsJ6CNK) | 2:50 | 2026-04-24 | 2026-05-22 |
 | [Infinity](https://open.spotify.com/track/0KDuVPUR7GuxuOYHJNWEpm) | [LESSSS](https://open.spotify.com/artist/5Os2nUALInDs7MyexVNwrm), [MKRS](https://open.spotify.com/artist/4bJxDOPHGfSNDiOyWfwInJ) | [Infinity](https://open.spotify.com/album/3Otf7rdpoE0oJsyQCd1lB6) | 4:38 | 2024-04-09 | 2024-12-14 |
 | [INKAKKEN, BIJPAKKEN](https://open.spotify.com/track/3eQHuognmS2YNbsp5MfmkE) | [DIKKE BAAP](https://open.spotify.com/artist/1vYoGQIgamBW4S335Q0EHb), [Kale Toeter](https://open.spotify.com/artist/6KyR8VRv66fdTFQRlOYSSo) | [INKAKKEN, BIJPAKKEN](https://open.spotify.com/album/1uDdzcp7ZDVFk2dlwWAolb) | 2:10 | 2024-04-09 | 2025-03-31 |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXc51TI5dx7RC.md) - [plain]
 
 > ฟังที่สุดเพลงฮิตในไทย รวมเพลงเด่นจากทั่วโลก\. ศิลปิน: JOEY PHUWASIT
 
-[Spotify](https://open.spotify.com/user/spotify) - 296,143 likes - 50 songs - 3 hr 15 min
+[Spotify](https://open.spotify.com/user/spotify) - 296,177 likes - 50 songs - 3 hr 15 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXc51TI5dx7RC.md) - [plain]
 | 49 | [ดาวตก \(Wish\) \[feat\. Z9\]](https://open.spotify.com/track/4YkPsxVBXkM4jBgMTAxtFz) | [WANYAi](https://open.spotify.com/artist/3yLZtAIGm6Eq4WSfnimZad), [Z9](https://open.spotify.com/artist/4CuVt3p02OaWu4klQuJoDP) | [ดาวตก \(Wish\) \[feat\. Z9\]](https://open.spotify.com/album/1n6smSBWNrb9p3L0vFAilq) | 4:01 |
 | 50 | [One Of My Life](https://open.spotify.com/track/6Mm77XGJld1QxvKyMrYbFj) | [BLVCKHEART](https://open.spotify.com/artist/3Ld1g6LjfR2ILDB6SD8aJV), [K6Y](https://open.spotify.com/artist/0QxCgzdTynqgvj1OWRllYt) | [One Of My Life](https://open.spotify.com/album/1CoVcH5nmOxaKBc6Z6TJMQ) | 3:36 |
 
-Snapshot ID: `AAAAAEqMY3kIXCp8Vv1UwldYJmw+84ti`
+Snapshot ID: `AAAAAK9jl8o6yxxk5z63t3Qx7EV/OEwB`

@@ -1,12 +1,12 @@
 {
   "description": "The essential beautiful noise: sweet and sour fuzz to warm your heart. Slowdive on cover",
-  "num_followers": 707953,
+  "num_followers": 708000,
   "original_name": "Shoegaze Classics",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAJm+2jLB5OkP5kAu1ASq1drcKGs4",
+  "snapshot_id": "AAAAACwFXoWQC0Pbb9gti87QUYiMdS03",
   "tracks": [
     {
       "added_at": "2023-12-08 16:49:10",
@@ -201,22 +201,6 @@
       "url": "https://open.spotify.com/track/6T0dHDN1lPn5jamdHlWypt"
     },
     {
-      "added_at": "2023-10-19 18:31:49",
-      "album": {
-        "name": "ok",
-        "url": "https://open.spotify.com/album/0rdqoGy3iMbJJDjiOKrywY"
-      },
-      "artists": [
-        {
-          "name": "Blue Smiley",
-          "url": "https://open.spotify.com/artist/4zaUiALGzCjfr0s9WKXCXL"
-        }
-      ],
-      "duration_ms": 75297,
-      "name": "flower",
-      "url": "https://open.spotify.com/track/01fudEnybVTbUfAbIsXz8q"
-    },
-    {
       "added_at": "2022-09-28 23:01:40",
       "album": {
         "name": "Blow",
@@ -231,6 +215,22 @@
       "duration_ms": 281666,
       "name": "Tastes Like Honey",
       "url": "https://open.spotify.com/track/7801eWQNK09cfzQ5By5n8T"
+    },
+    {
+      "added_at": "2023-10-19 18:31:49",
+      "album": {
+        "name": "ok",
+        "url": "https://open.spotify.com/album/0rdqoGy3iMbJJDjiOKrywY"
+      },
+      "artists": [
+        {
+          "name": "Blue Smiley",
+          "url": "https://open.spotify.com/artist/4zaUiALGzCjfr0s9WKXCXL"
+        }
+      ],
+      "duration_ms": 75297,
+      "name": "flower",
+      "url": "https://open.spotify.com/track/01fudEnybVTbUfAbIsXz8q"
     },
     {
       "added_at": "2021-06-03 02:39:04",
@@ -499,22 +499,6 @@
     {
       "added_at": "2021-06-03 02:39:04",
       "album": {
-        "name": "Loveless",
-        "url": "https://open.spotify.com/album/3GH4IiI6jQAIvnHVdb5FB6"
-      },
-      "artists": [
-        {
-          "name": "my bloody valentine",
-          "url": "https://open.spotify.com/artist/3G3Gdm0ZRAOxLrbyjfhii5"
-        }
-      ],
-      "duration_ms": 319226,
-      "name": "Sometimes",
-      "url": "https://open.spotify.com/track/5KBKqxYY263Tr0haAu3fMz"
-    },
-    {
-      "added_at": "2021-06-03 02:39:04",
-      "album": {
         "name": "Dead Cities, Red Seas & Lost Ghosts",
         "url": "https://open.spotify.com/album/5u8hliZZtH3mc6o7BJRmVP"
       },
@@ -527,6 +511,22 @@
       "duration_ms": 249426,
       "name": "Run Into Flowers",
       "url": "https://open.spotify.com/track/68jU8rPQuQufjrIoUdS3vS"
+    },
+    {
+      "added_at": "2021-06-03 02:39:04",
+      "album": {
+        "name": "Loveless",
+        "url": "https://open.spotify.com/album/3GH4IiI6jQAIvnHVdb5FB6"
+      },
+      "artists": [
+        {
+          "name": "my bloody valentine",
+          "url": "https://open.spotify.com/artist/3G3Gdm0ZRAOxLrbyjfhii5"
+        }
+      ],
+      "duration_ms": 319226,
+      "name": "Sometimes",
+      "url": "https://open.spotify.com/track/5KBKqxYY263Tr0haAu3fMz"
     },
     {
       "added_at": "2023-01-11 15:25:58",
@@ -579,22 +579,6 @@
     {
       "added_at": "2021-06-03 02:39:04",
       "album": {
-        "name": "m b v",
-        "url": "https://open.spotify.com/album/2SlSnUYW5bgtdWXVymv18a"
-      },
-      "artists": [
-        {
-          "name": "my bloody valentine",
-          "url": "https://open.spotify.com/artist/3G3Gdm0ZRAOxLrbyjfhii5"
-        }
-      ],
-      "duration_ms": 330906,
-      "name": "in another way",
-      "url": "https://open.spotify.com/track/06G8mgjP4x4q4ctddKbSNe"
-    },
-    {
-      "added_at": "2021-06-03 02:39:04",
-      "album": {
         "name": "Smile",
         "url": "https://open.spotify.com/album/2BNxi7JnGRfDtDdhN75SXs"
       },
@@ -607,6 +591,22 @@
       "duration_ms": 285773,
       "name": "Drive Blind - 2001 Remaster",
       "url": "https://open.spotify.com/track/5Sg1W0xLdgaLP0OLJIApHJ"
+    },
+    {
+      "added_at": "2021-06-03 02:39:04",
+      "album": {
+        "name": "m b v",
+        "url": "https://open.spotify.com/album/2SlSnUYW5bgtdWXVymv18a"
+      },
+      "artists": [
+        {
+          "name": "my bloody valentine",
+          "url": "https://open.spotify.com/artist/3G3Gdm0ZRAOxLrbyjfhii5"
+        }
+      ],
+      "duration_ms": 330906,
+      "name": "in another way",
+      "url": "https://open.spotify.com/track/06G8mgjP4x4q4ctddKbSNe"
     },
     {
       "added_at": "2021-06-03 02:39:04",
@@ -659,22 +659,6 @@
     {
       "added_at": "2021-06-03 02:39:04",
       "album": {
-        "name": "Loveless",
-        "url": "https://open.spotify.com/album/3GH4IiI6jQAIvnHVdb5FB6"
-      },
-      "artists": [
-        {
-          "name": "my bloody valentine",
-          "url": "https://open.spotify.com/artist/3G3Gdm0ZRAOxLrbyjfhii5"
-        }
-      ],
-      "duration_ms": 257519,
-      "name": "Only Shallow",
-      "url": "https://open.spotify.com/track/52UcjsM15hjCQAUbTW2hy1"
-    },
-    {
-      "added_at": "2021-06-03 02:39:04",
-      "album": {
         "name": "Nowhere (Expanded)",
         "url": "https://open.spotify.com/album/4fW7CblaSvdhPWmcCFgZbQ"
       },
@@ -687,6 +671,22 @@
       "duration_ms": 368760,
       "name": "Seagull - 2001 Remaster",
       "url": "https://open.spotify.com/track/1p75lScKo8XQT0niqFRxNx"
+    },
+    {
+      "added_at": "2021-06-03 02:39:04",
+      "album": {
+        "name": "Loveless",
+        "url": "https://open.spotify.com/album/3GH4IiI6jQAIvnHVdb5FB6"
+      },
+      "artists": [
+        {
+          "name": "my bloody valentine",
+          "url": "https://open.spotify.com/artist/3G3Gdm0ZRAOxLrbyjfhii5"
+        }
+      ],
+      "duration_ms": 257519,
+      "name": "Only Shallow",
+      "url": "https://open.spotify.com/track/52UcjsM15hjCQAUbTW2hy1"
     },
     {
       "added_at": "2021-06-03 02:39:04",
@@ -945,20 +945,20 @@
       "url": "https://open.spotify.com/track/6msavmTdvB1jthlRJRGuwZ"
     },
     {
-      "added_at": "2024-08-30 21:12:37",
+      "added_at": "2021-06-03 02:39:04",
       "album": {
-        "name": "Brickbat",
-        "url": "https://open.spotify.com/album/20cesT6Swa3zRWUxqJxo1A"
+        "name": "Gold",
+        "url": "https://open.spotify.com/album/4IlB3r32E8AFwHcpFko7ks"
       },
       "artists": [
         {
-          "name": "Piroshka",
-          "url": "https://open.spotify.com/artist/1BAU8Y2UIKYLm57cIwyi28"
+          "name": "Starflyer 59",
+          "url": "https://open.spotify.com/artist/3OyC0tKaejLvZHB4s78zED"
         }
       ],
-      "duration_ms": 318044,
-      "name": "She's Unreal",
-      "url": "https://open.spotify.com/track/7Bqj7aZeBOwtrgx6JXC7IG"
+      "duration_ms": 253013,
+      "name": "A House Wife Love Song",
+      "url": "https://open.spotify.com/track/57oNds15RN6allNb0YIPSD"
     },
     {
       "added_at": "2021-06-03 02:39:04",
@@ -977,20 +977,20 @@
       "url": "https://open.spotify.com/track/21v5LW9SrY0dEbU0CicuHk"
     },
     {
-      "added_at": "2021-06-03 02:39:04",
+      "added_at": "2024-08-30 21:12:37",
       "album": {
-        "name": "Gold",
-        "url": "https://open.spotify.com/album/4IlB3r32E8AFwHcpFko7ks"
+        "name": "Brickbat",
+        "url": "https://open.spotify.com/album/20cesT6Swa3zRWUxqJxo1A"
       },
       "artists": [
         {
-          "name": "Starflyer 59",
-          "url": "https://open.spotify.com/artist/3OyC0tKaejLvZHB4s78zED"
+          "name": "Piroshka",
+          "url": "https://open.spotify.com/artist/1BAU8Y2UIKYLm57cIwyi28"
         }
       ],
-      "duration_ms": 253013,
-      "name": "A House Wife Love Song",
-      "url": "https://open.spotify.com/track/57oNds15RN6allNb0YIPSD"
+      "duration_ms": 318044,
+      "name": "She's Unreal",
+      "url": "https://open.spotify.com/track/7Bqj7aZeBOwtrgx6JXC7IG"
     },
     {
       "added_at": "2021-06-03 02:39:04",
@@ -1219,6 +1219,22 @@
     {
       "added_at": "2021-06-03 02:39:04",
       "album": {
+        "name": "Is the Is Are",
+        "url": "https://open.spotify.com/album/5PPPABn2aZ0jRuHPMONwSR"
+      },
+      "artists": [
+        {
+          "name": "DIIV",
+          "url": "https://open.spotify.com/artist/4OrizGCKhOrW6iDDJHN9xd"
+        }
+      ],
+      "duration_ms": 226999,
+      "name": "Under the Sun",
+      "url": "https://open.spotify.com/track/3yR8cAdli5Ohn3dUlS1PgV"
+    },
+    {
+      "added_at": "2021-06-03 02:39:04",
+      "album": {
         "name": "Bout des doigts",
         "url": "https://open.spotify.com/album/1s16vFypthYKIcJwhgDeUm"
       },
@@ -1251,18 +1267,18 @@
     {
       "added_at": "2021-06-03 02:39:04",
       "album": {
-        "name": "Is the Is Are",
-        "url": "https://open.spotify.com/album/5PPPABn2aZ0jRuHPMONwSR"
+        "name": "In the Presence of Nothing",
+        "url": "https://open.spotify.com/album/2RWhRlMW0F8urFf7yRLXNP"
       },
       "artists": [
         {
-          "name": "DIIV",
-          "url": "https://open.spotify.com/artist/4OrizGCKhOrW6iDDJHN9xd"
+          "name": "Lilys",
+          "url": "https://open.spotify.com/artist/2IG2KZZiXaYygnWGCC7uEj"
         }
       ],
-      "duration_ms": 226999,
-      "name": "Under the Sun",
-      "url": "https://open.spotify.com/track/3yR8cAdli5Ohn3dUlS1PgV"
+      "duration_ms": 418866,
+      "name": "Elizabeth Colour Wheel",
+      "url": "https://open.spotify.com/track/3CAuQjMgfYJrqSehDwP0nl"
     },
     {
       "added_at": "2021-06-03 02:39:04",
@@ -1551,22 +1567,6 @@
       "duration_ms": 234813,
       "name": "Tugboat",
       "url": "https://open.spotify.com/track/6iMDFMjepxLshlWqW7cKgb"
-    },
-    {
-      "added_at": "2021-06-03 02:39:04",
-      "album": {
-        "name": "In the Presence of Nothing",
-        "url": "https://open.spotify.com/album/2RWhRlMW0F8urFf7yRLXNP"
-      },
-      "artists": [
-        {
-          "name": "Lilys",
-          "url": "https://open.spotify.com/artist/2IG2KZZiXaYygnWGCC7uEj"
-        }
-      ],
-      "duration_ms": 418866,
-      "name": "Elizabeth Colour Wheel",
-      "url": "https://open.spotify.com/track/3CAuQjMgfYJrqSehDwP0nl"
     },
     {
       "added_at": "2021-06-03 02:39:04",

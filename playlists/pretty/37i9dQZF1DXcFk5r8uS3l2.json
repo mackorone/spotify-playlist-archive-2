@@ -1,12 +1,12 @@
 {
   "description": "You've come to the crossroads of soul, folk, and the blues. Cover: Valerie June",
-  "num_followers": 1067570,
+  "num_followers": 1067511,
   "original_name": "Blues Roots",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAAasGJ0x9Ik7cz0f2rWdhn4rRwIB",
+  "snapshot_id": "AAAAACwceGdpMDqFVIlxg8DgMVqjLtlI",
   "tracks": [
     {
       "added_at": "2026-11-06 05:00:40",
@@ -507,38 +507,6 @@
     {
       "added_at": "2026-11-06 05:00:40",
       "album": {
-        "name": "You, Not Me",
-        "url": "https://open.spotify.com/album/4ndQIBeYoeIE9ah3o9uBRZ"
-      },
-      "artists": [
-        {
-          "name": "Hunter Flynn",
-          "url": "https://open.spotify.com/artist/5j6t35Ik2EoS5efJDxOAS2"
-        }
-      ],
-      "duration_ms": 243254,
-      "name": "You, Not Me",
-      "url": "https://open.spotify.com/track/57R2sFPs15hJG2gTsxdJFZ"
-    },
-    {
-      "added_at": "2026-11-06 05:00:40",
-      "album": {
-        "name": "13 Years",
-        "url": "https://open.spotify.com/album/4NIJG4kamBBJqjonUtmqZG"
-      },
-      "artists": [
-        {
-          "name": "Marc A Ridge",
-          "url": "https://open.spotify.com/artist/4tK0B7SdYJ0gKLFkR69YBn"
-        }
-      ],
-      "duration_ms": 402240,
-      "name": "13 Years",
-      "url": "https://open.spotify.com/track/5qAZiFTk5rLhJmrOZVYgx1"
-    },
-    {
-      "added_at": "2026-11-06 05:00:40",
-      "album": {
         "name": "Room On The Porch",
         "url": "https://open.spotify.com/album/6EALtPtZMwrtaKVOtvJFg7"
       },
@@ -559,6 +527,38 @@
       "duration_ms": 303765,
       "name": "Better Than Ever [Feat. Wendy Moten]",
       "url": "https://open.spotify.com/track/3xNy8TMHYO6bhrfoHYASuO"
+    },
+    {
+      "added_at": "2026-11-06 05:00:40",
+      "album": {
+        "name": "13 Years",
+        "url": "https://open.spotify.com/album/4NIJG4kamBBJqjonUtmqZG"
+      },
+      "artists": [
+        {
+          "name": "Marc A Ridge",
+          "url": "https://open.spotify.com/artist/4tK0B7SdYJ0gKLFkR69YBn"
+        }
+      ],
+      "duration_ms": 402240,
+      "name": "13 Years",
+      "url": "https://open.spotify.com/track/5qAZiFTk5rLhJmrOZVYgx1"
+    },
+    {
+      "added_at": "2026-11-06 05:00:40",
+      "album": {
+        "name": "You, Not Me",
+        "url": "https://open.spotify.com/album/4ndQIBeYoeIE9ah3o9uBRZ"
+      },
+      "artists": [
+        {
+          "name": "Hunter Flynn",
+          "url": "https://open.spotify.com/artist/5j6t35Ik2EoS5efJDxOAS2"
+        }
+      ],
+      "duration_ms": 243254,
+      "name": "You, Not Me",
+      "url": "https://open.spotify.com/track/57R2sFPs15hJG2gTsxdJFZ"
     },
     {
       "added_at": "2026-11-06 05:00:40",
@@ -771,22 +771,6 @@
     {
       "added_at": "2026-11-06 05:00:40",
       "album": {
-        "name": "Pardon Me",
-        "url": "https://open.spotify.com/album/2DlQG7o1FSlgFKRuCBfAHL"
-      },
-      "artists": [
-        {
-          "name": "49 Winchester",
-          "url": "https://open.spotify.com/artist/1JWMpIl0nhqFJNdO3IOQ20"
-        }
-      ],
-      "duration_ms": 244626,
-      "name": "Pardon Me",
-      "url": "https://open.spotify.com/track/6qXV3e8mrt4iI265wG5Zkn"
-    },
-    {
-      "added_at": "2026-11-06 05:00:40",
-      "album": {
         "name": "Flang Dang",
         "url": "https://open.spotify.com/album/4cQSa2VndbpHShN7e2VC36"
       },
@@ -803,18 +787,18 @@
     {
       "added_at": "2026-11-06 05:00:40",
       "album": {
-        "name": "Out of All the Stars",
-        "url": "https://open.spotify.com/album/6leH7jcoSppPjueeyLOJlM"
+        "name": "Pardon Me",
+        "url": "https://open.spotify.com/album/2DlQG7o1FSlgFKRuCBfAHL"
       },
       "artists": [
         {
-          "name": "Deltaphonic",
-          "url": "https://open.spotify.com/artist/0St0UP4Ko93saAbyvRGhx8"
+          "name": "49 Winchester",
+          "url": "https://open.spotify.com/artist/1JWMpIl0nhqFJNdO3IOQ20"
         }
       ],
-      "duration_ms": 239241,
-      "name": "Out of All the Stars",
-      "url": "https://open.spotify.com/track/5N7ZvlLi9OUmVbBYfuqSwc"
+      "duration_ms": 244626,
+      "name": "Pardon Me",
+      "url": "https://open.spotify.com/track/6qXV3e8mrt4iI265wG5Zkn"
     },
     {
       "added_at": "2026-11-06 05:00:40",
@@ -831,6 +815,22 @@
       "duration_ms": 254320,
       "name": "Fussing and Fighting",
       "url": "https://open.spotify.com/track/4JivJnC0WyPxRi3jvSrbT0"
+    },
+    {
+      "added_at": "2026-11-06 05:00:40",
+      "album": {
+        "name": "Out of All the Stars",
+        "url": "https://open.spotify.com/album/6leH7jcoSppPjueeyLOJlM"
+      },
+      "artists": [
+        {
+          "name": "Deltaphonic",
+          "url": "https://open.spotify.com/artist/0St0UP4Ko93saAbyvRGhx8"
+        }
+      ],
+      "duration_ms": 239241,
+      "name": "Out of All the Stars",
+      "url": "https://open.spotify.com/track/5N7ZvlLi9OUmVbBYfuqSwc"
     },
     {
       "added_at": "2026-11-06 05:00:40",
@@ -887,22 +887,6 @@
     {
       "added_at": "2026-11-06 05:00:40",
       "album": {
-        "name": "Goodbye's Kickin' In",
-        "url": "https://open.spotify.com/album/0aoHbXtMcuzHSOaukOaT9G"
-      },
-      "artists": [
-        {
-          "name": "Brothers Osborne",
-          "url": "https://open.spotify.com/artist/39NR3AUhpbbqKM33vWn2fp"
-        }
-      ],
-      "duration_ms": 201970,
-      "name": "Goodbye\u2019s Kickin\u2019 In",
-      "url": "https://open.spotify.com/track/3KcBTqKjbo8CG9eXdFzXoA"
-    },
-    {
-      "added_at": "2026-11-06 05:00:40",
-      "album": {
         "name": "The Breakdown",
         "url": "https://open.spotify.com/album/1MrONoYaqKUjsURjFDYAPM"
       },
@@ -919,18 +903,18 @@
     {
       "added_at": "2026-11-06 05:00:40",
       "album": {
-        "name": "You Still Got Me",
-        "url": "https://open.spotify.com/album/3VJps2m5A4Hv5ueNuH5pQi"
+        "name": "Goodbye's Kickin' In",
+        "url": "https://open.spotify.com/album/0aoHbXtMcuzHSOaukOaT9G"
       },
       "artists": [
         {
-          "name": "Beth Hart",
-          "url": "https://open.spotify.com/artist/30TrHDLNCKQVTYWOn9QqOC"
+          "name": "Brothers Osborne",
+          "url": "https://open.spotify.com/artist/39NR3AUhpbbqKM33vWn2fp"
         }
       ],
-      "duration_ms": 260458,
-      "name": "You Still Got Me - Edit",
-      "url": "https://open.spotify.com/track/6nPnDZM7foqw3EH4pUAKVw"
+      "duration_ms": 201970,
+      "name": "Goodbye\u2019s Kickin\u2019 In",
+      "url": "https://open.spotify.com/track/3KcBTqKjbo8CG9eXdFzXoA"
     },
     {
       "added_at": "2026-11-06 05:00:40",
@@ -951,18 +935,18 @@
     {
       "added_at": "2026-11-06 05:00:40",
       "album": {
-        "name": "Man's World",
-        "url": "https://open.spotify.com/album/7xDsxa6yIrJVBGk8XaNKrD"
+        "name": "You Still Got Me",
+        "url": "https://open.spotify.com/album/3VJps2m5A4Hv5ueNuH5pQi"
       },
       "artists": [
         {
-          "name": "Cat Clyde",
-          "url": "https://open.spotify.com/artist/7oRT0oC3vhUGQJCL6CYYzk"
+          "name": "Beth Hart",
+          "url": "https://open.spotify.com/artist/30TrHDLNCKQVTYWOn9QqOC"
         }
       ],
-      "duration_ms": 162290,
-      "name": "Man's World",
-      "url": "https://open.spotify.com/track/1RmMogpswOSC96lpdeXIxU"
+      "duration_ms": 260458,
+      "name": "You Still Got Me - Edit",
+      "url": "https://open.spotify.com/track/6nPnDZM7foqw3EH4pUAKVw"
     },
     {
       "added_at": "2026-11-06 05:00:40",
@@ -983,6 +967,22 @@
     {
       "added_at": "2026-11-06 05:00:40",
       "album": {
+        "name": "Man's World",
+        "url": "https://open.spotify.com/album/7xDsxa6yIrJVBGk8XaNKrD"
+      },
+      "artists": [
+        {
+          "name": "Cat Clyde",
+          "url": "https://open.spotify.com/artist/7oRT0oC3vhUGQJCL6CYYzk"
+        }
+      ],
+      "duration_ms": 162290,
+      "name": "Man's World",
+      "url": "https://open.spotify.com/track/1RmMogpswOSC96lpdeXIxU"
+    },
+    {
+      "added_at": "2026-11-06 05:00:40",
+      "album": {
         "name": "Upside",
         "url": "https://open.spotify.com/album/4b2rsJxm5i3BTj1mkhGGSJ"
       },
@@ -995,22 +995,6 @@
       "duration_ms": 301395,
       "name": "Upside",
       "url": "https://open.spotify.com/track/2mYnzR2Gm5mGNft7rZsInE"
-    },
-    {
-      "added_at": "2026-11-06 05:00:40",
-      "album": {
-        "name": "What Happens Next",
-        "url": "https://open.spotify.com/album/1QPGtduPycBccI5ce1CRlt"
-      },
-      "artists": [
-        {
-          "name": "Shinyribs",
-          "url": "https://open.spotify.com/artist/3xkZ4A3btzE9F5oVuY25UF"
-        }
-      ],
-      "duration_ms": 265376,
-      "name": "What Happens Next",
-      "url": "https://open.spotify.com/track/4KAAIE4V89AKmYjf3pSRQm"
     },
     {
       "added_at": "2026-11-06 05:00:40",
@@ -1031,18 +1015,18 @@
     {
       "added_at": "2026-11-06 05:00:40",
       "album": {
-        "name": "Let's Walk",
-        "url": "https://open.spotify.com/album/5Nel74loT3L9CQff44dpGz"
+        "name": "What Happens Next",
+        "url": "https://open.spotify.com/album/1QPGtduPycBccI5ce1CRlt"
       },
       "artists": [
         {
-          "name": "Madeleine Peyroux",
-          "url": "https://open.spotify.com/artist/7nXyULtoL8k7wP9l6kg8Ef"
+          "name": "Shinyribs",
+          "url": "https://open.spotify.com/artist/3xkZ4A3btzE9F5oVuY25UF"
         }
       ],
-      "duration_ms": 292786,
-      "name": "Let's Walk",
-      "url": "https://open.spotify.com/track/749934L9Ujz8uNMBwGD4or"
+      "duration_ms": 265376,
+      "name": "What Happens Next",
+      "url": "https://open.spotify.com/track/4KAAIE4V89AKmYjf3pSRQm"
     },
     {
       "added_at": "2026-11-06 05:00:40",
@@ -1059,6 +1043,22 @@
       "duration_ms": 223523,
       "name": "Let It Die Here",
       "url": "https://open.spotify.com/track/0qs2O2RK1mdxv2rzvs0OTT"
+    },
+    {
+      "added_at": "2026-11-06 05:00:40",
+      "album": {
+        "name": "Let's Walk",
+        "url": "https://open.spotify.com/album/5Nel74loT3L9CQff44dpGz"
+      },
+      "artists": [
+        {
+          "name": "Madeleine Peyroux",
+          "url": "https://open.spotify.com/artist/7nXyULtoL8k7wP9l6kg8Ef"
+        }
+      ],
+      "duration_ms": 292786,
+      "name": "Let's Walk",
+      "url": "https://open.spotify.com/track/749934L9Ujz8uNMBwGD4or"
     },
     {
       "added_at": "2026-11-06 05:00:40",
@@ -1239,6 +1239,22 @@
     {
       "added_at": "2026-11-06 05:00:40",
       "album": {
+        "name": "I\u2019m Done Runnin'",
+        "url": "https://open.spotify.com/album/4If94wqhZcb8clR5HOT9tt"
+      },
+      "artists": [
+        {
+          "name": "Samantha Fish",
+          "url": "https://open.spotify.com/artist/5HsS48kuvghKcNpwOaAvB5"
+        }
+      ],
+      "duration_ms": 185751,
+      "name": "I'm Done Runnin'",
+      "url": "https://open.spotify.com/track/19qNi1II1ih7b1Aq236oPh"
+    },
+    {
+      "added_at": "2026-11-06 05:00:40",
+      "album": {
         "name": "The Mule",
         "url": "https://open.spotify.com/album/6PiulVln1g9IQC3Kmz4u3m"
       },
@@ -1259,22 +1275,6 @@
     {
       "added_at": "2026-11-06 05:00:40",
       "album": {
-        "name": "I\u2019m Done Runnin'",
-        "url": "https://open.spotify.com/album/4If94wqhZcb8clR5HOT9tt"
-      },
-      "artists": [
-        {
-          "name": "Samantha Fish",
-          "url": "https://open.spotify.com/artist/5HsS48kuvghKcNpwOaAvB5"
-        }
-      ],
-      "duration_ms": 185751,
-      "name": "I'm Done Runnin'",
-      "url": "https://open.spotify.com/track/19qNi1II1ih7b1Aq236oPh"
-    },
-    {
-      "added_at": "2026-11-06 05:00:40",
-      "album": {
         "name": "Love in the Lead",
         "url": "https://open.spotify.com/album/3nrir3zbX5CRkjerljLtBN"
       },
@@ -1291,22 +1291,6 @@
     {
       "added_at": "2026-11-06 05:00:40",
       "album": {
-        "name": "Medium Raw",
-        "url": "https://open.spotify.com/album/2tSCbF8irTXTQdIMC80THg"
-      },
-      "artists": [
-        {
-          "name": "Early James",
-          "url": "https://open.spotify.com/artist/6fJpluuZmZ2tX2AviJ3bNY"
-        }
-      ],
-      "duration_ms": 255573,
-      "name": "I Could Just Die Right Now",
-      "url": "https://open.spotify.com/track/00cOY9F6uYZCjS49sFNVxG"
-    },
-    {
-      "added_at": "2026-11-06 05:00:40",
-      "album": {
         "name": "Take My Heart",
         "url": "https://open.spotify.com/album/5Wh8xD9g7Bu3ToOZCRMbwg"
       },
@@ -1319,6 +1303,22 @@
       "duration_ms": 258651,
       "name": "Take My Heart",
       "url": "https://open.spotify.com/track/4AEUvrnxGomXqK3guvQkt8"
+    },
+    {
+      "added_at": "2026-11-06 05:00:40",
+      "album": {
+        "name": "Medium Raw",
+        "url": "https://open.spotify.com/album/2tSCbF8irTXTQdIMC80THg"
+      },
+      "artists": [
+        {
+          "name": "Early James",
+          "url": "https://open.spotify.com/artist/6fJpluuZmZ2tX2AviJ3bNY"
+        }
+      ],
+      "duration_ms": 255573,
+      "name": "I Could Just Die Right Now",
+      "url": "https://open.spotify.com/track/00cOY9F6uYZCjS49sFNVxG"
     },
     {
       "added_at": "2026-11-06 05:00:40",
@@ -1359,22 +1359,6 @@
     {
       "added_at": "2026-11-06 05:00:40",
       "album": {
-        "name": "Shoulda Been",
-        "url": "https://open.spotify.com/album/3YM3tMxwTxvHAkdPruItCP"
-      },
-      "artists": [
-        {
-          "name": "Bryan Elijah Smith",
-          "url": "https://open.spotify.com/artist/78tFFT4Yq3il8qf74b4Dre"
-        }
-      ],
-      "duration_ms": 157125,
-      "name": "Man I Used To Be",
-      "url": "https://open.spotify.com/track/7mhT5jd6rL9SBWRxZv8o3U"
-    },
-    {
-      "added_at": "2026-11-06 05:00:40",
-      "album": {
         "name": "Million Voices Whisper (Deluxe Edition)",
         "url": "https://open.spotify.com/album/7Aqt7Vf9BtFCHEaJLpMA1T"
       },
@@ -1387,6 +1371,22 @@
       "duration_ms": 261760,
       "name": "Back Where I Started",
       "url": "https://open.spotify.com/track/4GmCZ7NU6SHgJO0rL35ri6"
+    },
+    {
+      "added_at": "2026-11-06 05:00:40",
+      "album": {
+        "name": "Shoulda Been",
+        "url": "https://open.spotify.com/album/3YM3tMxwTxvHAkdPruItCP"
+      },
+      "artists": [
+        {
+          "name": "Bryan Elijah Smith",
+          "url": "https://open.spotify.com/artist/78tFFT4Yq3il8qf74b4Dre"
+        }
+      ],
+      "duration_ms": 157125,
+      "name": "Man I Used To Be",
+      "url": "https://open.spotify.com/track/7mhT5jd6rL9SBWRxZv8o3U"
     },
     {
       "added_at": "2026-11-06 05:00:40",
@@ -1427,22 +1427,6 @@
     {
       "added_at": "2026-11-06 05:00:40",
       "album": {
-        "name": "You Can't Love Me",
-        "url": "https://open.spotify.com/album/7tijSpRn4KSVy4w7foF55l"
-      },
-      "artists": [
-        {
-          "name": "Kenny Wayne Shepherd",
-          "url": "https://open.spotify.com/artist/1riHqX633Kup3mJAw8WR8p"
-        }
-      ],
-      "duration_ms": 251946,
-      "name": "You Can't Love Me",
-      "url": "https://open.spotify.com/track/4dHYQ1XOK8iTCRlTh9TDNE"
-    },
-    {
-      "added_at": "2026-11-06 05:00:40",
-      "album": {
         "name": "Plus One",
         "url": "https://open.spotify.com/album/5I11qjCOCm0tLcBwX82sMj"
       },
@@ -1455,6 +1439,22 @@
       "duration_ms": 195573,
       "name": "Love Like Whiskey",
       "url": "https://open.spotify.com/track/6opRiNYlpcAzBN5fYlzWfX"
+    },
+    {
+      "added_at": "2026-11-06 05:00:40",
+      "album": {
+        "name": "You Can't Love Me",
+        "url": "https://open.spotify.com/album/7tijSpRn4KSVy4w7foF55l"
+      },
+      "artists": [
+        {
+          "name": "Kenny Wayne Shepherd",
+          "url": "https://open.spotify.com/artist/1riHqX633Kup3mJAw8WR8p"
+        }
+      ],
+      "duration_ms": 251946,
+      "name": "You Can't Love Me",
+      "url": "https://open.spotify.com/track/4dHYQ1XOK8iTCRlTh9TDNE"
     },
     {
       "added_at": "2026-11-06 05:00:40",
@@ -1495,22 +1495,6 @@
     {
       "added_at": "2026-11-06 05:00:40",
       "album": {
-        "name": "Wheel Inside A Well",
-        "url": "https://open.spotify.com/album/2za5hGrgMw3P1NgycTMEWc"
-      },
-      "artists": [
-        {
-          "name": "Pressing Strings",
-          "url": "https://open.spotify.com/artist/26ZMJzyOeTTQzwImKFsKHR"
-        }
-      ],
-      "duration_ms": 242103,
-      "name": "Wheel Inside A Well",
-      "url": "https://open.spotify.com/track/7MKADeenxWBDuSVt2sWAov"
-    },
-    {
-      "added_at": "2026-11-06 05:00:40",
-      "album": {
         "name": "Deathwish",
         "url": "https://open.spotify.com/album/1mC7lvCfUsyDISPlpJHThL"
       },
@@ -1531,6 +1515,22 @@
     {
       "added_at": "2026-11-06 05:00:40",
       "album": {
+        "name": "Wheel Inside A Well",
+        "url": "https://open.spotify.com/album/2za5hGrgMw3P1NgycTMEWc"
+      },
+      "artists": [
+        {
+          "name": "Pressing Strings",
+          "url": "https://open.spotify.com/artist/26ZMJzyOeTTQzwImKFsKHR"
+        }
+      ],
+      "duration_ms": 242103,
+      "name": "Wheel Inside A Well",
+      "url": "https://open.spotify.com/track/7MKADeenxWBDuSVt2sWAov"
+    },
+    {
+      "added_at": "2026-11-06 05:00:40",
+      "album": {
         "name": "Roots & Wings",
         "url": "https://open.spotify.com/album/31VSvPpkcluGFzHwBWP9uL"
       },
@@ -1547,22 +1547,6 @@
     {
       "added_at": "2026-11-06 05:00:40",
       "album": {
-        "name": "Days Of Unrest",
-        "url": "https://open.spotify.com/album/48Pi5bbsz8A0ND4rAEfrX1"
-      },
-      "artists": [
-        {
-          "name": "Margo Price",
-          "url": "https://open.spotify.com/artist/09yvLritEUxHrzx5TlFvbl"
-        }
-      ],
-      "duration_ms": 235560,
-      "name": "Can\u2019t Stand Still",
-      "url": "https://open.spotify.com/track/34DP3hpitJRMYp3nUtc2jC"
-    },
-    {
-      "added_at": "2026-11-06 05:00:40",
-      "album": {
         "name": "Love On My Brain",
         "url": "https://open.spotify.com/album/4Fdyy95DuFJhaDSzzIuZer"
       },
@@ -1575,6 +1559,22 @@
       "duration_ms": 273121,
       "name": "Love On My Brain",
       "url": "https://open.spotify.com/track/1SifJq6qcWrT6jgpkKAtgD"
+    },
+    {
+      "added_at": "2026-11-06 05:00:40",
+      "album": {
+        "name": "Days Of Unrest",
+        "url": "https://open.spotify.com/album/48Pi5bbsz8A0ND4rAEfrX1"
+      },
+      "artists": [
+        {
+          "name": "Margo Price",
+          "url": "https://open.spotify.com/artist/09yvLritEUxHrzx5TlFvbl"
+        }
+      ],
+      "duration_ms": 235560,
+      "name": "Can\u2019t Stand Still",
+      "url": "https://open.spotify.com/track/34DP3hpitJRMYp3nUtc2jC"
     },
     {
       "added_at": "2026-11-06 05:00:40",
@@ -1643,22 +1643,6 @@
     {
       "added_at": "2026-11-06 05:00:40",
       "album": {
-        "name": "Seasons Change",
-        "url": "https://open.spotify.com/album/1DjF9YaLZ3PKdzmwNPdwok"
-      },
-      "artists": [
-        {
-          "name": "Chadwick Johnson",
-          "url": "https://open.spotify.com/artist/21iVIpVgIhkCIkz7yQfKgV"
-        }
-      ],
-      "duration_ms": 207931,
-      "name": "Seasons Change",
-      "url": "https://open.spotify.com/track/6s9DuDzSqgGqKoGTSWdpPu"
-    },
-    {
-      "added_at": "2026-11-06 05:00:40",
-      "album": {
         "name": "Neon Sounds",
         "url": "https://open.spotify.com/album/7L8voRP33mE9BUIScs5SIL"
       },
@@ -1687,6 +1671,22 @@
       "duration_ms": 335658,
       "name": "Cover Me",
       "url": "https://open.spotify.com/track/3BSJNXL0i0hBNNBI8qLMaQ"
+    },
+    {
+      "added_at": "2026-11-06 05:00:40",
+      "album": {
+        "name": "Seasons Change",
+        "url": "https://open.spotify.com/album/1DjF9YaLZ3PKdzmwNPdwok"
+      },
+      "artists": [
+        {
+          "name": "Chadwick Johnson",
+          "url": "https://open.spotify.com/artist/21iVIpVgIhkCIkz7yQfKgV"
+        }
+      ],
+      "duration_ms": 207931,
+      "name": "Seasons Change",
+      "url": "https://open.spotify.com/track/6s9DuDzSqgGqKoGTSWdpPu"
     },
     {
       "added_at": "2026-11-06 05:00:40",

@@ -1,12 +1,12 @@
 {
   "description": "This is Jake Shimabukuro. The essential tracks, all in one playlist.",
-  "num_followers": 8806,
+  "num_followers": 8808,
   "original_name": "This Is Jake Shimabukuro",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "awIwgAAAAADOoS9ZjRwS0r32oFffsQtT",
+  "snapshot_id": "awOCAAAAAADJi1owuKeYu4rdxQEutXQz",
   "tracks": [
     {
       "added_at": null,
@@ -647,62 +647,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "\u02bbUkulele Friends III: The Tertiary",
-        "url": "https://open.spotify.com/album/1RzSUAa4j4AgYYb8mhn3nt"
-      },
-      "artists": [
-        {
-          "name": "Bryan Tolentino",
-          "url": "https://open.spotify.com/artist/61AkXSTVwtz4dLz6DMACpg"
-        },
-        {
-          "name": "Herb Ohta, Jr.",
-          "url": "https://open.spotify.com/artist/1Dp5erLcQqBYQBOR3qs1Dp"
-        },
-        {
-          "name": "Jake Shimabukuro",
-          "url": "https://open.spotify.com/artist/69NjH5MsRLr0CX0zSlGmN3"
-        }
-      ],
-      "duration_ms": 200254,
-      "name": "Wailau",
-      "url": "https://open.spotify.com/track/29F9g4sjiRzLcLuxtUQa3M"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Travels",
-        "url": "https://open.spotify.com/album/7bE2ufPorjr870XNTADQwS"
-      },
-      "artists": [
-        {
-          "name": "Jake Shimabukuro",
-          "url": "https://open.spotify.com/artist/69NjH5MsRLr0CX0zSlGmN3"
-        }
-      ],
-      "duration_ms": 150760,
-      "name": "Hi'ilawe",
-      "url": "https://open.spotify.com/track/19wjOn6TbyIbW00NN7bLM6"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Calm Seas",
-        "url": "https://open.spotify.com/album/1H1nsvFuuDcRJLTEXRfuNr"
-      },
-      "artists": [
-        {
-          "name": "Jake Shimabukuro",
-          "url": "https://open.spotify.com/artist/69NjH5MsRLr0CX0zSlGmN3"
-        }
-      ],
-      "duration_ms": 520773,
-      "name": "Calm Seas",
-      "url": "https://open.spotify.com/track/1r69uPn4EtHM0nGunuCFbr"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Hope in the Ashes",
         "url": "https://open.spotify.com/album/373OIvXeyphGoVfggcCdcr"
       },
@@ -743,6 +687,62 @@
     {
       "added_at": null,
       "album": {
+        "name": "Travels",
+        "url": "https://open.spotify.com/album/7bE2ufPorjr870XNTADQwS"
+      },
+      "artists": [
+        {
+          "name": "Jake Shimabukuro",
+          "url": "https://open.spotify.com/artist/69NjH5MsRLr0CX0zSlGmN3"
+        }
+      ],
+      "duration_ms": 150760,
+      "name": "Hi'ilawe",
+      "url": "https://open.spotify.com/track/19wjOn6TbyIbW00NN7bLM6"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "\u02bbUkulele Friends III: The Tertiary",
+        "url": "https://open.spotify.com/album/1RzSUAa4j4AgYYb8mhn3nt"
+      },
+      "artists": [
+        {
+          "name": "Bryan Tolentino",
+          "url": "https://open.spotify.com/artist/61AkXSTVwtz4dLz6DMACpg"
+        },
+        {
+          "name": "Herb Ohta, Jr.",
+          "url": "https://open.spotify.com/artist/1Dp5erLcQqBYQBOR3qs1Dp"
+        },
+        {
+          "name": "Jake Shimabukuro",
+          "url": "https://open.spotify.com/artist/69NjH5MsRLr0CX0zSlGmN3"
+        }
+      ],
+      "duration_ms": 200254,
+      "name": "Wailau",
+      "url": "https://open.spotify.com/track/29F9g4sjiRzLcLuxtUQa3M"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Calm Seas",
+        "url": "https://open.spotify.com/album/1H1nsvFuuDcRJLTEXRfuNr"
+      },
+      "artists": [
+        {
+          "name": "Jake Shimabukuro",
+          "url": "https://open.spotify.com/artist/69NjH5MsRLr0CX0zSlGmN3"
+        }
+      ],
+      "duration_ms": 520773,
+      "name": "Calm Seas",
+      "url": "https://open.spotify.com/track/1r69uPn4EtHM0nGunuCFbr"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Golden",
         "url": "https://open.spotify.com/album/6XMEZ2tu6GS1WGYC2MX0ad"
       },
@@ -779,22 +779,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Calm Seas",
-        "url": "https://open.spotify.com/album/1H1nsvFuuDcRJLTEXRfuNr"
-      },
-      "artists": [
-        {
-          "name": "Jake Shimabukuro",
-          "url": "https://open.spotify.com/artist/69NjH5MsRLr0CX0zSlGmN3"
-        }
-      ],
-      "duration_ms": 170706,
-      "name": "Early Morning",
-      "url": "https://open.spotify.com/track/7HIULEtD9FG7cyACU620DN"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "\u30a2\u30af\u30ed\u30b9\u30fb\u30b6\u30fb\u30e6\u30cb\u30d0\u30fc\u30b9",
         "url": "https://open.spotify.com/album/7MxHfXPU4Ke807jckZJTP3"
       },
@@ -807,6 +791,22 @@
       "duration_ms": 276386,
       "name": "\u30b5\u30e0\u30b7\u30f3\u30b0",
       "url": "https://open.spotify.com/track/4x41PAoR89XK2Lnnglf4Ua"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Calm Seas",
+        "url": "https://open.spotify.com/album/1H1nsvFuuDcRJLTEXRfuNr"
+      },
+      "artists": [
+        {
+          "name": "Jake Shimabukuro",
+          "url": "https://open.spotify.com/artist/69NjH5MsRLr0CX0zSlGmN3"
+        }
+      ],
+      "duration_ms": 170706,
+      "name": "Early Morning",
+      "url": "https://open.spotify.com/track/7HIULEtD9FG7cyACU620DN"
     },
     {
       "added_at": null,
@@ -843,22 +843,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Calm Seas",
-        "url": "https://open.spotify.com/album/1H1nsvFuuDcRJLTEXRfuNr"
-      },
-      "artists": [
-        {
-          "name": "Jake Shimabukuro",
-          "url": "https://open.spotify.com/artist/69NjH5MsRLr0CX0zSlGmN3"
-        }
-      ],
-      "duration_ms": 175173,
-      "name": "Wailau",
-      "url": "https://open.spotify.com/track/6Ii2ZCcW7pEU1Rss5sF9qh"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Brickman Across America: Heart and Soul of American Music",
         "url": "https://open.spotify.com/album/1gzWOkcpGe3ZR39b8sD6dw"
       },
@@ -879,6 +863,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Calm Seas",
+        "url": "https://open.spotify.com/album/1H1nsvFuuDcRJLTEXRfuNr"
+      },
+      "artists": [
+        {
+          "name": "Jake Shimabukuro",
+          "url": "https://open.spotify.com/artist/69NjH5MsRLr0CX0zSlGmN3"
+        }
+      ],
+      "duration_ms": 175173,
+      "name": "Wailau",
+      "url": "https://open.spotify.com/track/6Ii2ZCcW7pEU1Rss5sF9qh"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Peace Love Ukulele",
         "url": "https://open.spotify.com/album/0H2oBQ01a7vEEefSTWaHEy"
       },
@@ -891,6 +891,58 @@
       "duration_ms": 200440,
       "name": "Boy Meets Girl",
       "url": "https://open.spotify.com/track/1AEKR4Qb9RhiFndpZfcwzB"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "\u4e00\u671f\u4e00\u4f1a",
+        "url": "https://open.spotify.com/album/4GIjwkBuJlokHazlwHGrW7"
+      },
+      "artists": [
+        {
+          "name": "Jake Shimabukuro",
+          "url": "https://open.spotify.com/artist/69NjH5MsRLr0CX0zSlGmN3"
+        }
+      ],
+      "duration_ms": 289866,
+      "name": "SWEET MEMORIES",
+      "url": "https://open.spotify.com/track/64QZ11sgp09EByI2rMhSv1"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Time For Three",
+        "url": "https://open.spotify.com/album/7x67Bz5XSc28ABOm3SUfYF"
+      },
+      "artists": [
+        {
+          "name": "Time For Three",
+          "url": "https://open.spotify.com/artist/5GK2hLwkSIVQSaQMTAmLbk"
+        },
+        {
+          "name": "Jake Shimabukuro",
+          "url": "https://open.spotify.com/artist/69NjH5MsRLr0CX0zSlGmN3"
+        }
+      ],
+      "duration_ms": 239906,
+      "name": "Happy Day",
+      "url": "https://open.spotify.com/track/5VywuMtwbWgXHw6RXDyDWj"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "\u30de\u30a4\u30fb\u30e9\u30a4\u30d5",
+        "url": "https://open.spotify.com/album/5nk8bF12EGkjJ9R5XLbhXN"
+      },
+      "artists": [
+        {
+          "name": "Jake Shimabukuro",
+          "url": "https://open.spotify.com/artist/69NjH5MsRLr0CX0zSlGmN3"
+        }
+      ],
+      "duration_ms": 222266,
+      "name": "\u30b9\u30ed\u30fc\u30fb\u30c0\u30f3\u30b9",
+      "url": "https://open.spotify.com/track/3kkx8Qe8w6gs5uq0Mg1dNv"
     },
     {
       "added_at": null,
@@ -919,26 +971,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Time For Three",
-        "url": "https://open.spotify.com/album/7x67Bz5XSc28ABOm3SUfYF"
-      },
-      "artists": [
-        {
-          "name": "Time For Three",
-          "url": "https://open.spotify.com/artist/5GK2hLwkSIVQSaQMTAmLbk"
-        },
-        {
-          "name": "Jake Shimabukuro",
-          "url": "https://open.spotify.com/artist/69NjH5MsRLr0CX0zSlGmN3"
-        }
-      ],
-      "duration_ms": 239906,
-      "name": "Happy Day",
-      "url": "https://open.spotify.com/track/5VywuMtwbWgXHw6RXDyDWj"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Travels",
         "url": "https://open.spotify.com/album/7bE2ufPorjr870XNTADQwS"
       },
@@ -951,38 +983,6 @@
       "duration_ms": 224960,
       "name": "Train Ride",
       "url": "https://open.spotify.com/track/1CUOxT1JD7DKCS0t9GvHnS"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "\u4e00\u671f\u4e00\u4f1a",
-        "url": "https://open.spotify.com/album/4GIjwkBuJlokHazlwHGrW7"
-      },
-      "artists": [
-        {
-          "name": "Jake Shimabukuro",
-          "url": "https://open.spotify.com/artist/69NjH5MsRLr0CX0zSlGmN3"
-        }
-      ],
-      "duration_ms": 289866,
-      "name": "SWEET MEMORIES",
-      "url": "https://open.spotify.com/track/64QZ11sgp09EByI2rMhSv1"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "\u30de\u30a4\u30fb\u30e9\u30a4\u30d5",
-        "url": "https://open.spotify.com/album/5nk8bF12EGkjJ9R5XLbhXN"
-      },
-      "artists": [
-        {
-          "name": "Jake Shimabukuro",
-          "url": "https://open.spotify.com/artist/69NjH5MsRLr0CX0zSlGmN3"
-        }
-      ],
-      "duration_ms": 222266,
-      "name": "\u30b9\u30ed\u30fc\u30fb\u30c0\u30f3\u30b9",
-      "url": "https://open.spotify.com/track/3kkx8Qe8w6gs5uq0Mg1dNv"
     },
     {
       "added_at": null,

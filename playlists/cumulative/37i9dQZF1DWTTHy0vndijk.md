@@ -2,7 +2,7 @@
 
 ### [Satang Mix \(사탕 믹스\)](https://open.spotify.com/playlist/37i9dQZF1DWTTHy0vndijk)
 
-> Max out your sugar content with these pure and aegyo tracks from our favorite ladies\. \(Cover: LISA\) \(상큼하고 발랄, 청순한 아이돌의 세계에 빠져보세요!\)
+> Max out your sugar content with these pure and aegyo tracks from our favorite ladies\. \(Cover: WENDY\) \(상큼하고 발랄, 청순한 아이돌의 세계에 빠져보세요!\)
 
 576 songs - 1 day 7 hr 10 min
 

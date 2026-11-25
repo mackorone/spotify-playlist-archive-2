@@ -1,12 +1,12 @@
 {
   "description": "This is Rochelle Jordan. The essential tracks, all in one playlist.",
-  "num_followers": 2048,
+  "num_followers": 2200,
   "original_name": "This Is Rochelle Jordan",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "awIwgAAAAACtmNI2A9xIKOnxi6LBzftc",
+  "snapshot_id": "awOCAAAAAAAC+8CLxCswiMCk2E0ij6kb",
   "tracks": [
     {
       "added_at": null,
@@ -468,9 +468,9 @@
           "url": "https://open.spotify.com/artist/3MM3uKNdJbvefUael12dl3"
         }
       ],
-      "duration_ms": 226262,
-      "name": "Got Em",
-      "url": "https://open.spotify.com/track/5WBwG2deJGFR4RllTdWCej"
+      "duration_ms": 208929,
+      "name": "Count It",
+      "url": "https://open.spotify.com/track/0Xam5oGLrRlec9MJDQnZVz"
     },
     {
       "added_at": null,
@@ -540,25 +540,9 @@
           "url": "https://open.spotify.com/artist/3MM3uKNdJbvefUael12dl3"
         }
       ],
-      "duration_ms": 208929,
-      "name": "Count It",
-      "url": "https://open.spotify.com/track/0Xam5oGLrRlec9MJDQnZVz"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Pressure",
-        "url": "https://open.spotify.com/album/2eo6WfC2A5ePHLpNQN7dRB"
-      },
-      "artists": [
-        {
-          "name": "Rochelle Jordan",
-          "url": "https://open.spotify.com/artist/3MM3uKNdJbvefUael12dl3"
-        }
-      ],
-      "duration_ms": 217106,
-      "name": "Make Me Wanna",
-      "url": "https://open.spotify.com/track/3pYWxckQ013fSdj20NmBye"
+      "duration_ms": 226262,
+      "name": "Got Em",
+      "url": "https://open.spotify.com/track/5WBwG2deJGFR4RllTdWCej"
     },
     {
       "added_at": null,
@@ -583,6 +567,22 @@
       "duration_ms": 266402,
       "name": "Raven - TYGAPAW Remix feat. Rochelle Jordan",
       "url": "https://open.spotify.com/track/7fvqv5Ou098lxPlVGrwuAG"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Pressure",
+        "url": "https://open.spotify.com/album/2eo6WfC2A5ePHLpNQN7dRB"
+      },
+      "artists": [
+        {
+          "name": "Rochelle Jordan",
+          "url": "https://open.spotify.com/artist/3MM3uKNdJbvefUael12dl3"
+        }
+      ],
+      "duration_ms": 217106,
+      "name": "Make Me Wanna",
+      "url": "https://open.spotify.com/track/3pYWxckQ013fSdj20NmBye"
     },
     {
       "added_at": null,

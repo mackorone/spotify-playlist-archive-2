@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3NhlMhDst2O.md) - [plain]
 
 > Sintoniza los éxitos románticos del siglo pasado 🥀
 
-[Spotify](https://open.spotify.com/user/spotify) - 179,138 likes - 125 songs - 6 hr 53 min
+[Spotify](https://open.spotify.com/user/spotify) - 179,188 likes - 125 songs - 6 hr 53 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -20,10 +20,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3NhlMhDst2O.md) - [plain]
 | 10 | [Te He Prometido](https://open.spotify.com/track/7Et3UkjbCjRhRaACPBXRQg) | [Leo Dan](https://open.spotify.com/artist/6qhOH2mrlqUDod9sWA5kR2) | [Canta Trovador](https://open.spotify.com/album/5N2NkUNtknVxG1BtWy45U8) | 3:07 |
 | 11 | [Nunca Voy a Olvidarte](https://open.spotify.com/track/7AbWRB5vMPUYSXeHhdlUSQ) | [Bronco](https://open.spotify.com/artist/0VKh7CQDi9MkUvaBMoK1V0) | [Salvaje y Tierno](https://open.spotify.com/album/5G8bYboLyckwegeBdr7Ati) | 2:20 |
 | 12 | [Mi Vida Eres Tú](https://open.spotify.com/track/5mKwzq7UTXf1xwWcpPoteX) | [Los Temerarios](https://open.spotify.com/artist/3YbOSxo85kla7RID8ugnW3) | [Mi Vida Eres Tú](https://open.spotify.com/album/0pKc1X7fBv9chuZRiSIZyE) | 4:10 |
-| 13 | [Pero Te Vas A Arrepentir](https://open.spotify.com/track/7fUuC299Gjpe7gkW3pBbZp) | [Los Yonic's](https://open.spotify.com/artist/1z8Z3JjXWNa7xbeXcyFZMt), [Marco Antonio Solís](https://open.spotify.com/artist/3tJnB0s6c3oXPq1SCCavnd) | [Volveré A Conquistarte](https://open.spotify.com/album/691ZR6kaZeK4JS4tQGPuQf) | 3:56 |
+| 13 | [Dos Cartas y una Flor](https://open.spotify.com/track/08ewluhsdwbAnooftJw0ly) | [Los Caminantes](https://open.spotify.com/artist/6ziEnj8UydSg8dr68C3aut) | [Nuestras Canciones Romanticas Favoritas "20 Exitazos"](https://open.spotify.com/album/0laRQXcW652scqzEAKqRMM) | 3:32 |
 | 14 | [Yo Te Necesito](https://open.spotify.com/track/7yMWuJ6JOZ8Joo5gQrNaYA) | [Los Bukis](https://open.spotify.com/artist/16kOCiqZ1auY4sokSeZuKf) | [Yo Te Necesito](https://open.spotify.com/album/3hEe5rX51oJiXS3Lv9Yeiz) | 2:58 |
 | 15 | [Cómo Te Extraño Mi Amor](https://open.spotify.com/track/5ozZHuU1nWqq2UaFM9xa5A) | [Leo Dan](https://open.spotify.com/artist/6qhOH2mrlqUDod9sWA5kR2) | [Como Te Extraño Mi Amor](https://open.spotify.com/album/6LT09D1zPnXGS3mLvpReVm) | 2:55 |
-| 16 | [Dos Cartas y una Flor](https://open.spotify.com/track/08ewluhsdwbAnooftJw0ly) | [Los Caminantes](https://open.spotify.com/artist/6ziEnj8UydSg8dr68C3aut) | [Nuestras Canciones Romanticas Favoritas "20 Exitazos"](https://open.spotify.com/album/0laRQXcW652scqzEAKqRMM) | 3:32 |
+| 16 | [Pero Te Vas A Arrepentir](https://open.spotify.com/track/7fUuC299Gjpe7gkW3pBbZp) | [Los Yonic's](https://open.spotify.com/artist/1z8Z3JjXWNa7xbeXcyFZMt), [Marco Antonio Solís](https://open.spotify.com/artist/3tJnB0s6c3oXPq1SCCavnd) | [Volveré A Conquistarte](https://open.spotify.com/album/691ZR6kaZeK4JS4tQGPuQf) | 3:56 |
 | 17 | [La Última Canción](https://open.spotify.com/track/566q4HacJyTGxZefvWVy9t) | [Grupo Bryndis](https://open.spotify.com/artist/44WCHvwXBOMz6nm7Mu2ReO) | [El Quinto Trago](https://open.spotify.com/album/7rhSfLWEv7D9flp4uLF4Du) | 4:18 |
 | 18 | [Me Bebí Tu Recuerdo](https://open.spotify.com/track/4qDw65LRA3tT1ZDmghkgFA) | [Galy Galiano](https://open.spotify.com/artist/2OSKh2JIKMr66DxByxhwzT) | [Me Bebi Tu Recuerdo](https://open.spotify.com/album/3th8wWPqpBjw4pzGuf0OqS) | 3:19 |
 | 19 | [Tus Mentiras](https://open.spotify.com/track/3MoQ3YG2Vy3bg9m4RRWvVD) | [Los Bukis](https://open.spotify.com/artist/16kOCiqZ1auY4sokSeZuKf) | [Si Me Recuerdas](https://open.spotify.com/album/0HtYh5CyT365ONA1d46IRC) | 4:46 |
@@ -101,10 +101,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3NhlMhDst2O.md) - [plain]
 | 91 | [Acepta Mi Error](https://open.spotify.com/track/3cw7R2QQKqkQfMTUSRJebL) | [Los Temerarios](https://open.spotify.com/artist/3YbOSxo85kla7RID8ugnW3) | [15 Super Exitos Vol\. 2](https://open.spotify.com/album/7jSBOT8Dv2Knavq4HxOErj) | 3:24 |
 | 92 | [Dame un Beso y Dime Adios \- En Vivo](https://open.spotify.com/track/4KDgQ8Qd0UWK3KkYZPwNtP) | [Carín León](https://open.spotify.com/artist/66ihevNkSYNzRAl44dx6jJ), [Grupo Yndio](https://open.spotify.com/artist/2ExqFhtOJ3rXrYJkBMqAxD) | [Cura Local \(En Vivo\)](https://open.spotify.com/album/4hHoE1NN7R25OMAiqpMI4b) | 3:59 |
 | 93 | [Una Sola Caída](https://open.spotify.com/track/0EGNdaIWoY4JrVawzWCWb5) | [Los Muecas](https://open.spotify.com/artist/6gwYud4hJkX6ApdxYoCi7b) | [Una Sola Caida Y Las Abandonadas](https://open.spotify.com/album/0xrskhlBwinqWkw3ePezNv) | 2:56 |
-| 94 | [Ay Amor](https://open.spotify.com/track/5eQxyKQ8wVlpP7nTMCAVww) | [Ana Gabriel](https://open.spotify.com/artist/41ESHLayJ5sDKjAOv6cMhe) | [Ana Gabriel Todos Sus Exitos](https://open.spotify.com/album/1JRhGwaIC5lWxazf3yWySo) | 3:22 |
+| 94 | [Del Signo Libra](https://open.spotify.com/track/52nNbyJq5duX1tzxMTQMXG) | [Grupo Libra](https://open.spotify.com/artist/7A0dBf6Uyh5G1rW7Rh84Dt) | [Bendito Cielo](https://open.spotify.com/album/3ahqP6IBgQDU5UdjmFCymy) | 3:26 |
 | 95 | [Hoy Te Confieso](https://open.spotify.com/track/7GiV85w7yQWnroTKotqlHV) | [Los Terricolas](https://open.spotify.com/artist/2nrSPPSfNesng85eRV4W4m) | [Una Carta](https://open.spotify.com/album/6QHRR9x2a8NVxVlM2RNl7T) | 3:48 |
-| 96 | [Hipocresía](https://open.spotify.com/track/06eRk3yaU1C6gOraResEeF) | [Los Pasteles de Perú](https://open.spotify.com/artist/2UJTlvNR01oVbsigr5sCQs) | [20 Éxitos](https://open.spotify.com/album/4DO7gB8PT4h2em5Q3IRxNE) | 4:17 |
-| 97 | [Del Signo Libra](https://open.spotify.com/track/52nNbyJq5duX1tzxMTQMXG) | [Grupo Libra](https://open.spotify.com/artist/7A0dBf6Uyh5G1rW7Rh84Dt) | [Bendito Cielo](https://open.spotify.com/album/3ahqP6IBgQDU5UdjmFCymy) | 3:26 |
+| 96 | [Ay Amor](https://open.spotify.com/track/5eQxyKQ8wVlpP7nTMCAVww) | [Ana Gabriel](https://open.spotify.com/artist/41ESHLayJ5sDKjAOv6cMhe) | [Ana Gabriel Todos Sus Exitos](https://open.spotify.com/album/1JRhGwaIC5lWxazf3yWySo) | 3:22 |
+| 97 | [Hipocresía](https://open.spotify.com/track/06eRk3yaU1C6gOraResEeF) | [Los Pasteles de Perú](https://open.spotify.com/artist/2UJTlvNR01oVbsigr5sCQs) | [20 Éxitos](https://open.spotify.com/album/4DO7gB8PT4h2em5Q3IRxNE) | 4:17 |
 | 98 | [Los Hombres No Deben Llorar](https://open.spotify.com/track/3y4BiEvje7Ez7lnWR0VVEa) | [King Clave](https://open.spotify.com/artist/71FVpPyLHxYTn3CfUOJq7f) | [Idolos de Argentina](https://open.spotify.com/album/6RlXYXZd7cCw6astTKZJIB) | 3:17 |
 | 99 | [Por Muchas Razones Te Quiero](https://open.spotify.com/track/7uSEht8p9wuXz7sQfUBU47) | [Palito Ortega](https://open.spotify.com/artist/4jCduxx9HzFKS0RrRAtVXD) | [Palito Ortega y Sus Éxitos](https://open.spotify.com/album/6vWqqBI2PSTDoROOU6IdE3) | 3:20 |
 | 100 | [Luto En Mi Alma](https://open.spotify.com/track/75losSBec1tZJmJb4pzURW) | [Los Terricolas](https://open.spotify.com/artist/2nrSPPSfNesng85eRV4W4m) | [Los Éxitos De Los Terricolas](https://open.spotify.com/album/0Unjdke7MtUvhko4pos0uG) | 4:05 |
@@ -134,4 +134,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3NhlMhDst2O.md) - [plain]
 | 124 | [El](https://open.spotify.com/track/23fzU7JXLsFE0c7UUkdkcr) | [Los Strwck](https://open.spotify.com/artist/6ZzvGogdwGvqkTeDX1RDKL) | [20 Super Exitos](https://open.spotify.com/album/3G8ZrnPcNB8SB0Uy3l68Yj) | 3:08 |
 | 125 | [Vecina](https://open.spotify.com/track/7alsNrwD1PXfQ1vDiffB8J) | [Los Chicanos](https://open.spotify.com/artist/4CtmyXgladHink6882NHrX) | [Sucesos Musicales](https://open.spotify.com/album/55AnSsIpBATUlxZoPSiqC5) | 2:44 |
 
-Snapshot ID: `AAAAAL5zdXRR0vh03UfYLEe8n9QLxVn5`
+Snapshot ID: `AAAAAHMKhAp2hXmYghQtuzbfiBEWzNRL`

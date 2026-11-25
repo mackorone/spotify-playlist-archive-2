@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXciANtXsejm4.md) - [plain]
 
 > El ritmo cumbiero que te mueve el corazón\. <br/>Foto: Leo Mattioli.
 
-[Spotify](https://open.spotify.com/user/spotify) - 359,546 likes - 80 songs - 4 hr 35 min
+[Spotify](https://open.spotify.com/user/spotify) - 359,611 likes - 80 songs - 4 hr 35 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -16,8 +16,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXciANtXsejm4.md) - [plain]
 | 6 | [Entre el Cielo Vos y Yo](https://open.spotify.com/track/1xOHKgqHqUJJSoLVqNu8OR) | [Los del Fuego](https://open.spotify.com/artist/5L6GbwWUM3Oi5GPnkmmp24) | [A 30 Años de una Pasión Inexplicable..\. Solo He Nacido para Amarte](https://open.spotify.com/album/2oAr9qO4Lfm8PgSBHgox8l) | 3:17 |
 | 7 | [La Cola](https://open.spotify.com/track/45W2wFalCHxcTtrWuH60Ii) | [Los Palmeras](https://open.spotify.com/artist/2Htm0q72SjGSmsy8EOIhRG) | [Tiempo De Bailar](https://open.spotify.com/album/07DvHBaC1nFRiVtwW9vaCM) | 2:49 |
 | 8 | [Tu Sombra en Mi](https://open.spotify.com/track/2BhEyKkEq5zWb8hWBbBPjW) | [Los Cadiz](https://open.spotify.com/artist/41t0VtTsJW8JzLYN7e7Uig) | [Imparables](https://open.spotify.com/album/0cv2nuAuIwLTPQUvfkE4ag) | 3:55 |
-| 9 | [Dejémoslo Así](https://open.spotify.com/track/5tjst7DmSA9UXWncROr3oc) | [Dalila](https://open.spotify.com/artist/3ruk44IzmsPppwo7VOknwZ) | [Solo un Momento](https://open.spotify.com/album/3bVeCAJzTzkQIDRnjosSUG) | 3:24 |
-| 10 | [Le Creí](https://open.spotify.com/track/1sA46SlQCMoDgkY7mU4O3a) | [Uriel Lozano](https://open.spotify.com/artist/5Qv1EsPany9Fc3yyCJnoxw) | [Sólo Dios Puede Juzgarme](https://open.spotify.com/album/59H5u5QOocFXVka9bSif3h) | 2:58 |
+| 9 | [Le Creí](https://open.spotify.com/track/1sA46SlQCMoDgkY7mU4O3a) | [Uriel Lozano](https://open.spotify.com/artist/5Qv1EsPany9Fc3yyCJnoxw) | [Sólo Dios Puede Juzgarme](https://open.spotify.com/album/59H5u5QOocFXVka9bSif3h) | 2:58 |
+| 10 | [Dejémoslo Así](https://open.spotify.com/track/5tjst7DmSA9UXWncROr3oc) | [Dalila](https://open.spotify.com/artist/3ruk44IzmsPppwo7VOknwZ) | [Solo un Momento](https://open.spotify.com/album/3bVeCAJzTzkQIDRnjosSUG) | 3:24 |
 | 11 | [Amor Clandestino](https://open.spotify.com/track/4RSaGC1QwScf0lDMzx9T6I) | [Los del Fuego](https://open.spotify.com/artist/5L6GbwWUM3Oi5GPnkmmp24) | [Le Doy Gracias a la Vida \(Y a Todos\)](https://open.spotify.com/album/3xJjfD2BUmlX8Tpe1afUup) | 3:11 |
 | 12 | [Soy Sabalero](https://open.spotify.com/track/6MIulZ9FG6Td02EpvFC5ZL) | [Los Palmeras](https://open.spotify.com/artist/2Htm0q72SjGSmsy8EOIhRG) | [Soy Sabalero](https://open.spotify.com/album/4E9U7vlfoRlUIi57xcO53W) | 2:59 |
 | 13 | [Te Voy a Amar](https://open.spotify.com/track/2srKgu7hvh8cmIWmfwOz70) | [Los Cadiz](https://open.spotify.com/artist/41t0VtTsJW8JzLYN7e7Uig) | [Imparables](https://open.spotify.com/album/0cv2nuAuIwLTPQUvfkE4ag) | 3:20 |
@@ -31,12 +31,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXciANtXsejm4.md) - [plain]
 | 21 | [Que Precio Tiene El Cielo](https://open.spotify.com/track/4p7WDW0Mh0GmDSmqF8e4wi) | [Coty](https://open.spotify.com/artist/7v8veUQH2fro2QjkOKS7vB), [Coty Hernández](https://open.spotify.com/artist/6yX2GzaudljEEBKfMZpOXE) | [Cómo Le Gusta A Mi Gente](https://open.spotify.com/album/3DTqYBYOIkV3lq14dJDckg) | 4:13 |
 | 22 | [Te Tengo que Olvidar](https://open.spotify.com/track/6V1Lh57Dlkf6aQrRC3tAO7) | [Los Del Maranaho](https://open.spotify.com/artist/4pPaTS0Is7K9pHjgp5Pdgs) | [20 Grandes Exitos](https://open.spotify.com/album/3kn66sUZHDEcTHGZBOo26n) | 3:13 |
 | 23 | [Dios Me Libre](https://open.spotify.com/track/03d6otdre4G9uC2IOTV5MV) | [Miguel Angel](https://open.spotify.com/artist/4XJ0JtGRa6QKkKvaQPrYKL) | [Ritmo, Pasión y Sentimiento](https://open.spotify.com/album/5KdtrnxsZAuCG5G1SgOKZd) | 4:05 |
-| 24 | [Mal Amor](https://open.spotify.com/track/0S7HkobUN0HrvaHZaQsmE5) | [La Groupera](https://open.spotify.com/artist/0vOORe7cIa49Egvl6QUVt7) | [Baila Santa Fe](https://open.spotify.com/album/0RUvlrD7zsXmEr69VRg1CU) | 3:09 |
+| 24 | [Entre el Odio y el Amor](https://open.spotify.com/track/5qfwWBHMPJVyVuS7BcyKkX) | [La Groupera](https://open.spotify.com/artist/0vOORe7cIa49Egvl6QUVt7) | [Rico y Suave](https://open.spotify.com/album/2fhIHdHYooK2MPRt6ehxsP) | 3:38 |
 | 25 | [Vete](https://open.spotify.com/track/2P1NF2ouvMc3aOjeXdfynr) | [Los del bohio](https://open.spotify.com/artist/6RszvvtxwKr7SyzeeQ5htn) | [Vete](https://open.spotify.com/album/2ULTMUo5UesStNSxif1lgR) | 3:35 |
 | 26 | [Si Tu No Estas](https://open.spotify.com/track/6cZ1wwLjxLgLqLlX6zuVkl) | [Sergio Torres y Los Dueños Del Swing](https://open.spotify.com/artist/61wjkDrxSXXH1yUOczhJmT), [Sergio Torres](https://open.spotify.com/artist/42duZ4KIXcWBEobTPLzHzg) | [A Pura Sangre](https://open.spotify.com/album/6aK9E9vV53gVuZjzF2wnWz) | 4:54 |
 | 27 | [Sufrirás](https://open.spotify.com/track/67mz9xVvjR9Fdkmsl63H5g) | [Coty](https://open.spotify.com/artist/7v8veUQH2fro2QjkOKS7vB), [Coty Hernández](https://open.spotify.com/artist/6yX2GzaudljEEBKfMZpOXE) | [El Más Parrandero](https://open.spotify.com/album/56Ip4hVgF8pO1pxQjwkjLd) | 4:30 |
 | 28 | [Se Enamoró de Mi la Soledad](https://open.spotify.com/track/1MExvjfH2rZQGsORsR3Pcy) | [Miguel Angel](https://open.spotify.com/artist/4XJ0JtGRa6QKkKvaQPrYKL) | [Se Enamoró de Mi la Soledad](https://open.spotify.com/album/6cSeVk2rJQB3LnbHVUwPnI) | 4:05 |
-| 29 | [Entre el Odio y el Amor](https://open.spotify.com/track/5qfwWBHMPJVyVuS7BcyKkX) | [La Groupera](https://open.spotify.com/artist/0vOORe7cIa49Egvl6QUVt7) | [Rico y Suave](https://open.spotify.com/album/2fhIHdHYooK2MPRt6ehxsP) | 3:38 |
+| 29 | [Mal Amor](https://open.spotify.com/track/0S7HkobUN0HrvaHZaQsmE5) | [La Groupera](https://open.spotify.com/artist/0vOORe7cIa49Egvl6QUVt7) | [Baila Santa Fe](https://open.spotify.com/album/0RUvlrD7zsXmEr69VRg1CU) | 3:09 |
 | 30 | [Te Perdoné Tantas Veces](https://open.spotify.com/track/4Bf8V2MnpMxeAolcT54b7H) | [Dalila](https://open.spotify.com/artist/3ruk44IzmsPppwo7VOknwZ) | [Un Cuerpo Sin Alma](https://open.spotify.com/album/5b06RhnRMDf3AS47EQHQqE) | 2:23 |
 | 31 | [Tu Cómo Estás](https://open.spotify.com/track/3ys4ck9oSE5NvxGdvVVKXx) | [Sergio Torres y Los Dueños Del Swing](https://open.spotify.com/artist/61wjkDrxSXXH1yUOczhJmT), [Sergio Torres](https://open.spotify.com/artist/42duZ4KIXcWBEobTPLzHzg) | [A Pura Sangre](https://open.spotify.com/album/6aK9E9vV53gVuZjzF2wnWz) | 3:38 |
 | 32 | [Mi Historia Entre Tus Dedos](https://open.spotify.com/track/0NK3UhMD7kNwOfuoL0jk8R) | [Nico Mattioli](https://open.spotify.com/artist/6WVAHhEnELJ0NI11yZu9j1), [Leo Mattioli](https://open.spotify.com/artist/2Mu8h5sFkOziL0Rfn7FXIA) | [Mi Historia Entre Tus Dedos](https://open.spotify.com/album/5Dso9GcL2HzHbt5s35t5vs) | 4:55 |
@@ -89,4 +89,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXciANtXsejm4.md) - [plain]
 | 79 | [Te Sorprenderás](https://open.spotify.com/track/1E8z534drq0XGV06iu2HWS) | [Ezequiel El Brujo](https://open.spotify.com/artist/325zdFw59lq0YHEmd5rWtk), [Mario Luis](https://open.spotify.com/artist/13KeE3TnUrYh367HJu0sMx) | [Te Sorprenderás](https://open.spotify.com/album/603RFxAyL68TKKtSUe4YT8) | 3:08 |
 | 80 | [No me di cuenta](https://open.spotify.com/track/3fvwqDyUm3A4mDQ1Q2SoZn) | [Cumbia Viva](https://open.spotify.com/artist/0jc8WcEimrh9qGACBMNOYS), [Walter Encina](https://open.spotify.com/artist/7B3kLf1ZWaepQ3ts6Adlkp) | [Cumbia Viva Sesion \#13 Walter Encina](https://open.spotify.com/album/2aPJEbhBwr52NO4yLre2pd) | 1:27 |
 
-Snapshot ID: `AAAAAHhtRdIX73Wk70aDN6D0MrK5lKYN`
+Snapshot ID: `AAAAAB18WUqD2F54PCJxPK9tRFpmKBUM`

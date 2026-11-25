@@ -1,12 +1,12 @@
 {
   "description": "De nieuwste Hollands & Volkspop. Cover: Rene Karst \ud83e\udd0d",
-  "num_followers": 156662,
+  "num_followers": 156677,
   "original_name": "Liever Hollands",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAJYpPbuymMP7K3J1Z/knbrDm6WAU",
+  "snapshot_id": "AAAAAHP+u3/MZulpjFrehR8SY3GlSpN3",
   "tracks": [
     {
       "added_at": "2026-11-19 23:01:43",
@@ -123,6 +123,22 @@
     {
       "added_at": "2026-11-19 23:01:43",
       "album": {
+        "name": "Laatste Zomernacht",
+        "url": "https://open.spotify.com/album/3zf7LSK0lSUsjfJfvfWirf"
+      },
+      "artists": [
+        {
+          "name": "Gerrit Schneider",
+          "url": "https://open.spotify.com/artist/1fXCIvVgz0o3gymfRpSz6u"
+        }
+      ],
+      "duration_ms": 154500,
+      "name": "Laatste Zomernacht",
+      "url": "https://open.spotify.com/track/3uCJLWmbMYExNHQIIaKUpA"
+    },
+    {
+      "added_at": "2026-11-19 23:01:43",
+      "album": {
         "name": "100 Keer Gebeld",
         "url": "https://open.spotify.com/album/5kMTkRu0KV94z7m4Ux5iS4"
       },
@@ -139,22 +155,6 @@
       "duration_ms": 193500,
       "name": "100 Keer Gebeld",
       "url": "https://open.spotify.com/track/3xeTZ8ojNqFUj1K2L4QH1F"
-    },
-    {
-      "added_at": "2026-11-19 23:01:43",
-      "album": {
-        "name": "Laatste Zomernacht",
-        "url": "https://open.spotify.com/album/3zf7LSK0lSUsjfJfvfWirf"
-      },
-      "artists": [
-        {
-          "name": "Gerrit Schneider",
-          "url": "https://open.spotify.com/artist/1fXCIvVgz0o3gymfRpSz6u"
-        }
-      ],
-      "duration_ms": 154500,
-      "name": "Laatste Zomernacht",
-      "url": "https://open.spotify.com/track/3uCJLWmbMYExNHQIIaKUpA"
     },
     {
       "added_at": "2026-11-19 23:01:43",
@@ -191,22 +191,6 @@
     {
       "added_at": "2026-11-19 23:01:43",
       "album": {
-        "name": "Hier Heb Ik Geen Tijd Meer Voor",
-        "url": "https://open.spotify.com/album/4YrVk8426Rnbt5pyHuhIxL"
-      },
-      "artists": [
-        {
-          "name": "Gerard Joling",
-          "url": "https://open.spotify.com/artist/5V2zReaoPvB7EsZ4160uLG"
-        }
-      ],
-      "duration_ms": 207658,
-      "name": "Hier Heb Ik Geen Tijd Meer Voor",
-      "url": "https://open.spotify.com/track/0UH9tn3DjHthal2jDGRiUY"
-    },
-    {
-      "added_at": "2026-11-19 23:01:43",
-      "album": {
         "name": "Kom Wat Dichterbij",
         "url": "https://open.spotify.com/album/1Fdb8kr7ugnZrYk0U9Ec5t"
       },
@@ -227,6 +211,22 @@
       "duration_ms": 173213,
       "name": "Kom Wat Dichterbij",
       "url": "https://open.spotify.com/track/3XncYQxQNxfd9XYVgw5at7"
+    },
+    {
+      "added_at": "2026-11-19 23:01:43",
+      "album": {
+        "name": "Hier Heb Ik Geen Tijd Meer Voor",
+        "url": "https://open.spotify.com/album/4YrVk8426Rnbt5pyHuhIxL"
+      },
+      "artists": [
+        {
+          "name": "Gerard Joling",
+          "url": "https://open.spotify.com/artist/5V2zReaoPvB7EsZ4160uLG"
+        }
+      ],
+      "duration_ms": 207658,
+      "name": "Hier Heb Ik Geen Tijd Meer Voor",
+      "url": "https://open.spotify.com/track/0UH9tn3DjHthal2jDGRiUY"
     },
     {
       "added_at": "2026-11-19 23:01:43",
@@ -279,38 +279,6 @@
     {
       "added_at": "2026-11-19 23:01:43",
       "album": {
-        "name": "6 Planken",
-        "url": "https://open.spotify.com/album/4gJ1IkNvRTSop8o7lPCKtI"
-      },
-      "artists": [
-        {
-          "name": "Likke P\u00eahp",
-          "url": "https://open.spotify.com/artist/4aO9wZpEijSfCiaXZjR2ma"
-        }
-      ],
-      "duration_ms": 168331,
-      "name": "6 Planken",
-      "url": "https://open.spotify.com/track/6TXR29qsRYppdeUAw8RFan"
-    },
-    {
-      "added_at": "2026-11-19 23:01:43",
-      "album": {
-        "name": "Groener Gras",
-        "url": "https://open.spotify.com/album/5LK8IluUokUEfSok27v9Bg"
-      },
-      "artists": [
-        {
-          "name": "Jeffrey Heesen",
-          "url": "https://open.spotify.com/artist/1kIanYuEXT2fojrZmrLLNp"
-        }
-      ],
-      "duration_ms": 143243,
-      "name": "Groener Gras",
-      "url": "https://open.spotify.com/track/3w86PY943GX7h02tgAQ9U1"
-    },
-    {
-      "added_at": "2026-11-19 23:01:43",
-      "album": {
         "name": "Onderweg",
         "url": "https://open.spotify.com/album/2u5c3GvKrTaEoWAr9XmKSH"
       },
@@ -327,6 +295,22 @@
     {
       "added_at": "2026-11-19 23:01:43",
       "album": {
+        "name": "6 Planken",
+        "url": "https://open.spotify.com/album/4gJ1IkNvRTSop8o7lPCKtI"
+      },
+      "artists": [
+        {
+          "name": "Likke P\u00eahp",
+          "url": "https://open.spotify.com/artist/4aO9wZpEijSfCiaXZjR2ma"
+        }
+      ],
+      "duration_ms": 168331,
+      "name": "6 Planken",
+      "url": "https://open.spotify.com/track/6TXR29qsRYppdeUAw8RFan"
+    },
+    {
+      "added_at": "2026-11-19 23:01:43",
+      "album": {
         "name": "Fout & Stout",
         "url": "https://open.spotify.com/album/4bTO6aBV8HT7H1a6YgscWW"
       },
@@ -339,6 +323,26 @@
       "duration_ms": 135833,
       "name": "Fout & Stout",
       "url": "https://open.spotify.com/track/2mujYhFncM9ZKjMICIg7e7"
+    },
+    {
+      "added_at": "2026-11-19 23:01:43",
+      "album": {
+        "name": "Leuke Dingen Doen (feat. Frank van Etten)",
+        "url": "https://open.spotify.com/album/04ZhUtqJ4zEiS7qHQph3o8"
+      },
+      "artists": [
+        {
+          "name": "Sjorleone",
+          "url": "https://open.spotify.com/artist/6MrSjWpFS9A84jo0yR2nM4"
+        },
+        {
+          "name": "Frank Van Etten",
+          "url": "https://open.spotify.com/artist/6idunrSGiChqlZG6MJVhHM"
+        }
+      ],
+      "duration_ms": 136248,
+      "name": "Leuke Dingen Doen (feat. Frank van Etten)",
+      "url": "https://open.spotify.com/track/6Rkcpb23SaT06PwMhXuyrB"
     },
     {
       "added_at": "2026-11-19 23:01:43",
@@ -363,6 +367,22 @@
       "duration_ms": 187263,
       "name": "Onderweg Naar Jou",
       "url": "https://open.spotify.com/track/6aymBfPvCnwI3roMDFbUFK"
+    },
+    {
+      "added_at": "2026-11-19 23:01:43",
+      "album": {
+        "name": "Groener Gras",
+        "url": "https://open.spotify.com/album/5LK8IluUokUEfSok27v9Bg"
+      },
+      "artists": [
+        {
+          "name": "Jeffrey Heesen",
+          "url": "https://open.spotify.com/artist/1kIanYuEXT2fojrZmrLLNp"
+        }
+      ],
+      "duration_ms": 143243,
+      "name": "Groener Gras",
+      "url": "https://open.spotify.com/track/3w86PY943GX7h02tgAQ9U1"
     },
     {
       "added_at": "2026-11-19 23:01:43",
@@ -475,26 +495,6 @@
       "duration_ms": 215682,
       "name": "Ik Bid Nu Tot God",
       "url": "https://open.spotify.com/track/5uppUSsYBpad6cFgtFQY6c"
-    },
-    {
-      "added_at": "2026-11-19 23:01:43",
-      "album": {
-        "name": "Leuke Dingen Doen (feat. Frank van Etten)",
-        "url": "https://open.spotify.com/album/04ZhUtqJ4zEiS7qHQph3o8"
-      },
-      "artists": [
-        {
-          "name": "Sjorleone",
-          "url": "https://open.spotify.com/artist/6MrSjWpFS9A84jo0yR2nM4"
-        },
-        {
-          "name": "Frank Van Etten",
-          "url": "https://open.spotify.com/artist/6idunrSGiChqlZG6MJVhHM"
-        }
-      ],
-      "duration_ms": 136248,
-      "name": "Leuke Dingen Doen (feat. Frank van Etten)",
-      "url": "https://open.spotify.com/track/6Rkcpb23SaT06PwMhXuyrB"
     },
     {
       "added_at": "2026-11-19 23:01:43",

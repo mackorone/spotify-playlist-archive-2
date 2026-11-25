@@ -1,12 +1,12 @@
 {
   "description": "Frisse Nederlandse pop. Cover: Zo\u00eb Livay (Spotify <a href=\"spotify:playlist:37i9dQZF1DXaxwXKCsImRe\">RADAR</a>-artiest)",
-  "num_followers": 245923,
+  "num_followers": 245918,
   "original_name": "Je Moerstaal",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAHjHHiX9f3S7kH411hjfSqoe7HQt",
+  "snapshot_id": "AAAAABkS+1iQQX4q902sMJQ7AsS/alqf",
   "tracks": [
     {
       "added_at": "2026-11-19 23:01:41",
@@ -23,6 +23,26 @@
       "duration_ms": 180952,
       "name": "Zolang Als Het Kan",
       "url": "https://open.spotify.com/track/1j8CnoN2fMtPrAbxJEs5iW"
+    },
+    {
+      "added_at": "2026-11-19 23:01:41",
+      "album": {
+        "name": "Dat Ik Je Zie",
+        "url": "https://open.spotify.com/album/7E6x182kA3x2OYMWYQ6KZS"
+      },
+      "artists": [
+        {
+          "name": "Mart Hoogkamer",
+          "url": "https://open.spotify.com/artist/6jhluGyF1XVIlfPol7oXqa"
+        },
+        {
+          "name": "Jennifer",
+          "url": "https://open.spotify.com/artist/3LdfkUJyJmYBCtY7RQ8lKa"
+        }
+      ],
+      "duration_ms": 160236,
+      "name": "Dat Ik Je Zie",
+      "url": "https://open.spotify.com/track/64vwRYnUDKYLFMyeioYbgc"
     },
     {
       "added_at": "2026-11-19 23:01:41",
@@ -83,26 +103,6 @@
       "duration_ms": 151420,
       "name": "Is Dit Nu Later",
       "url": "https://open.spotify.com/track/1nfZ1uJ4SgXlv1arqragMX"
-    },
-    {
-      "added_at": "2026-11-19 23:01:41",
-      "album": {
-        "name": "Dat Ik Je Zie",
-        "url": "https://open.spotify.com/album/7E6x182kA3x2OYMWYQ6KZS"
-      },
-      "artists": [
-        {
-          "name": "Mart Hoogkamer",
-          "url": "https://open.spotify.com/artist/6jhluGyF1XVIlfPol7oXqa"
-        },
-        {
-          "name": "Jennifer",
-          "url": "https://open.spotify.com/artist/3LdfkUJyJmYBCtY7RQ8lKa"
-        }
-      ],
-      "duration_ms": 160236,
-      "name": "Dat Ik Je Zie",
-      "url": "https://open.spotify.com/track/64vwRYnUDKYLFMyeioYbgc"
     },
     {
       "added_at": "2026-11-19 23:01:41",

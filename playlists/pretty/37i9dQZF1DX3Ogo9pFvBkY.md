@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3Ogo9pFvBkY.md) - [plain]
 
 > Relax and unwind with chill, ambient music.
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,300,253 likes - 295 songs - 13 hr 6 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,300,284 likes - 295 songs - 13 hr 6 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -304,4 +304,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3Ogo9pFvBkY.md) - [plain]
 | 294 | [Secure](https://open.spotify.com/track/4hTNpDR683Wfas55rmIxr0) | [Chakra Tides](https://open.spotify.com/artist/7gfe0wDVyfNBiAWSVQyZRk) | [Secure](https://open.spotify.com/album/6YM2tTTCEfItTVAdS5xrsh) | 2:53 |
 | 295 | [Magic Forest](https://open.spotify.com/track/3SUYE0PZUBCbNFm05uNzkf) | [NIGHTSKY](https://open.spotify.com/artist/1jgSsbIMXQHeNqOQD1DsVF) | [Magic Forest](https://open.spotify.com/album/4wGwXgl11gVorDcdnVqBbA) | 2:23 |
 
-Snapshot ID: `AAAAAH2mbsNCF9r0NCqaZHPU/Yi7Wj2S`
+Snapshot ID: `AAAAAIVez/cwnhSQNJnGQlUD+9mvQFgj`

@@ -1,12 +1,12 @@
 {
   "description": "Soundtrack spring time with uplifting and sunny Jazz.",
-  "num_followers": 24264,
+  "num_followers": 24263,
   "original_name": "Spring Jazz",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAENu0n0gWtUBp6D7bQISGnB3HdbJ",
+  "snapshot_id": "AAAAAIny6Xf1itFsD/PMeNv52expXblM",
   "tracks": [
     {
       "added_at": "2026-02-17 14:09:55",
@@ -395,22 +395,6 @@
     {
       "added_at": "2026-02-17 14:09:55",
       "album": {
-        "name": "Backlash",
-        "url": "https://open.spotify.com/album/3pZiA4rrKQQP8ZXDAafgYj"
-      },
-      "artists": [
-        {
-          "name": "Freddie Hubbard",
-          "url": "https://open.spotify.com/artist/0fTHKjepK5HWOrb2rkS5Em"
-        }
-      ],
-      "duration_ms": 401226,
-      "name": "Up Jumped Spring",
-      "url": "https://open.spotify.com/track/0Ym1XHuFUolBWg6pTZHarn"
-    },
-    {
-      "added_at": "2026-02-17 14:09:55",
-      "album": {
         "name": "They Say It's Swing",
         "url": "https://open.spotify.com/album/6zQQXBGKwW1XbU89W9EdcN"
       },
@@ -423,6 +407,22 @@
       "duration_ms": 249997,
       "name": "They Say It's Spring",
       "url": "https://open.spotify.com/track/0iWrqHfZkUIayJzvx4fNZv"
+    },
+    {
+      "added_at": "2026-02-17 14:09:55",
+      "album": {
+        "name": "Backlash",
+        "url": "https://open.spotify.com/album/3pZiA4rrKQQP8ZXDAafgYj"
+      },
+      "artists": [
+        {
+          "name": "Freddie Hubbard",
+          "url": "https://open.spotify.com/artist/0fTHKjepK5HWOrb2rkS5Em"
+        }
+      ],
+      "duration_ms": 401226,
+      "name": "Up Jumped Spring",
+      "url": "https://open.spotify.com/track/0Ym1XHuFUolBWg6pTZHarn"
     },
     {
       "added_at": "2026-02-17 14:09:55",
@@ -775,6 +775,22 @@
     {
       "added_at": "2026-02-17 14:09:55",
       "album": {
+        "name": "Calendar Girl",
+        "url": "https://open.spotify.com/album/17tLyn0tBCYOeKZC2iaFRE"
+      },
+      "artists": [
+        {
+          "name": "Julie London",
+          "url": "https://open.spotify.com/artist/3qUMmh5biaB5hqpF4LqS3m"
+        }
+      ],
+      "duration_ms": 141266,
+      "name": "Melancholy March",
+      "url": "https://open.spotify.com/track/2beWW2ss3csNXl9x2wECPh"
+    },
+    {
+      "added_at": "2026-02-17 14:09:55",
+      "album": {
         "name": "The Cole Porter Mix",
         "url": "https://open.spotify.com/album/1NGLLk5vTXlmHbIGGPWG1I"
       },
@@ -803,22 +819,6 @@
       "duration_ms": 381560,
       "name": "Gone With The Wind",
       "url": "https://open.spotify.com/track/5IBREbYRb8KyBIu1TyxDXq"
-    },
-    {
-      "added_at": "2026-02-17 14:09:55",
-      "album": {
-        "name": "Calendar Girl",
-        "url": "https://open.spotify.com/album/17tLyn0tBCYOeKZC2iaFRE"
-      },
-      "artists": [
-        {
-          "name": "Julie London",
-          "url": "https://open.spotify.com/artist/3qUMmh5biaB5hqpF4LqS3m"
-        }
-      ],
-      "duration_ms": 141266,
-      "name": "Melancholy March",
-      "url": "https://open.spotify.com/track/2beWW2ss3csNXl9x2wECPh"
     },
     {
       "added_at": "2026-02-17 14:09:55",
@@ -1059,26 +1059,6 @@
     {
       "added_at": "2026-02-17 14:09:55",
       "album": {
-        "name": "It Happens Like That",
-        "url": "https://open.spotify.com/album/6GIr6kHBasx66WNSl4l8FD"
-      },
-      "artists": [
-        {
-          "name": "Katherine Kostoff",
-          "url": "https://open.spotify.com/artist/6iejr7uXjNOIaqvE5R9t8W"
-        },
-        {
-          "name": "Gil Goldstein",
-          "url": "https://open.spotify.com/artist/59bgiWWmCiIfBkzZ8URC1Q"
-        }
-      ],
-      "duration_ms": 211621,
-      "name": "Last Night",
-      "url": "https://open.spotify.com/track/2WNrH1N4HprO6pY8Yuydh8"
-    },
-    {
-      "added_at": "2026-02-17 14:09:55",
-      "album": {
         "name": "Cad\u00eancia Verde e Amarela",
         "url": "https://open.spotify.com/album/48RChE59aR0lOOOWlFc4Av"
       },
@@ -1115,6 +1095,26 @@
       "duration_ms": 258680,
       "name": "Roaring Heights",
       "url": "https://open.spotify.com/track/2wFSomD4N8Zwd4JriLtkm3"
+    },
+    {
+      "added_at": "2026-02-17 14:09:55",
+      "album": {
+        "name": "It Happens Like That",
+        "url": "https://open.spotify.com/album/6GIr6kHBasx66WNSl4l8FD"
+      },
+      "artists": [
+        {
+          "name": "Katherine Kostoff",
+          "url": "https://open.spotify.com/artist/6iejr7uXjNOIaqvE5R9t8W"
+        },
+        {
+          "name": "Gil Goldstein",
+          "url": "https://open.spotify.com/artist/59bgiWWmCiIfBkzZ8URC1Q"
+        }
+      ],
+      "duration_ms": 211621,
+      "name": "Last Night",
+      "url": "https://open.spotify.com/track/2WNrH1N4HprO6pY8Yuydh8"
     },
     {
       "added_at": "2026-02-17 14:09:55",

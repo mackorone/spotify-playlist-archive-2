@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/2zkfhOwEu0kZdafRiEMP0G.md) - [plain]
 
 > 
 
-[Starkoft](https://open.spotify.com/user/xnh6geml57106421pi4l32t6v) - 2 likes - 61 songs - 4 hr 42 min
+[Starkoft](https://open.spotify.com/user/xnh6geml57106421pi4l32t6v) - 2 likes - 78 songs - 6 hr 0 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -69,5 +69,22 @@ pretty - [cumulative](/playlists/cumulative/2zkfhOwEu0kZdafRiEMP0G.md) - [plain]
 | 59 | [Chasing Cars](https://open.spotify.com/track/5hnyJvgoWiQUYZttV4wXy6) | [Snow Patrol](https://open.spotify.com/artist/3rIZMv9rysU7JkLzEaC5Jp) | [Eyes Open](https://open.spotify.com/album/3k7bXPw2u0C0SBKPMsgMS3) | 4:27 |
 | 60 | [Disco](https://open.spotify.com/track/2Lumsra3kuU61wXkEKzKaK) | [Surf Curse](https://open.spotify.com/artist/1gl0S9pS0Zw0qfa14rDD3D) | [Disco](https://open.spotify.com/album/46LE2xR4e92aVvo1QlUiS3) | 2:32 |
 | 61 | [Just the Two of Us \(feat\. Bill Withers\)](https://open.spotify.com/track/1ko2lVN0vKGUl9zrU0qSlT) | [Grover Washington, Jr.](https://open.spotify.com/artist/05YVYeV4HxYp5rrWalvuE1), [Bill Withers](https://open.spotify.com/artist/1ThoqLcyIYvZn7iWbj8fsj) | [Anthology](https://open.spotify.com/album/1lKYaRbV0AayVPss9i4oOp) | 7:18 |
+| 62 | [Too Little, Too Late](https://open.spotify.com/track/6zEg4KEgz6RGhCPmDKplYf) | [Laufey](https://open.spotify.com/artist/7gW0r5CkdEUMm42w9XpyZO) | [A Matter of Time](https://open.spotify.com/album/5rMOCuiWWbEBcHaKM69Hmv) | 3:53 |
+| 63 | [The Great Divorce](https://open.spotify.com/track/2aOhH6cpv2B76WD7MdLMDD) | [NOTHING MORE](https://open.spotify.com/artist/39VNwvlQTqE9SvgPjjnMpc) | [The Stories We Tell Ourselves](https://open.spotify.com/album/0A3y56apHg0MRM83MLBwhM) | 4:39 |
+| 64 | [Japanese Pancakes](https://open.spotify.com/track/7Lf1IgNsW8GniX5Lf7e4AP) | [Fran Vasilić](https://open.spotify.com/artist/08xR1XU2SWgC2K0yx6lEYm) | [Retrovizor](https://open.spotify.com/album/6UIH5qfFktvwK1ZT5Se1vR) | 4:08 |
+| 65 | [Everything She Wants](https://open.spotify.com/track/5hXEcqQhEjfZdbIZLO8mf2) | [Wham!](https://open.spotify.com/artist/5lpH0xAS4fVfLkACg9DAuM) | [Make It Big](https://open.spotify.com/album/02f3y3NTsddjdUMoNiBppI) | 5:02 |
+| 66 | [Think of Me / The Phantom of the Opera / The Music of the Night / All I Ask of You / Wishing You Were Somehow Here Again](https://open.spotify.com/track/3v1ye0NrNP23BG1wBndHIP) | [Jared Halley](https://open.spotify.com/artist/7IvXFbdaAQEFyeB7SSEfCG), [Lauren Paley](https://open.spotify.com/artist/4MEbxo5eaEBF0LDKdYNNem) | [Think of Me / The Phantom of the Opera / The Music of the Night / All I Ask of You / Wishing You Were Somehow Here Again](https://open.spotify.com/album/2e9TvU427iSMSHxvZNSb3s) | 8:50 |
+| 67 | [Jaws](https://open.spotify.com/track/2GPdGwBnFfruzFbJPd7uQS) | [Sleep Token](https://open.spotify.com/artist/2n2RSaZqBuUUukhbLlpnE6) | [Jaws](https://open.spotify.com/album/2DiX65iiou5VYicpiCnJet) | 5:55 |
+| 68 | [OTHER WORLDS THAN THESE](https://open.spotify.com/track/0heufLGCARpOYKH2v8IMsj) | [STARSET](https://open.spotify.com/artist/0kD8IT1CzF7js2XKM9lLLa) | [DIVISIONS](https://open.spotify.com/album/3mptvwc49sVgmxP5xIv7UN) | 4:18 |
+| 69 | [Just Pretend](https://open.spotify.com/track/1H4Y9uW4N0LsxJUz0VnaPJ) | [Bad Omens](https://open.spotify.com/artist/3Ri4H12KFyu98LMjSoij5V) | [THE DEATH OF PEACE OF MIND](https://open.spotify.com/album/3p7m1Pmg6n3BlpL9Py7IUA) | 3:24 |
+| 70 | [Spain](https://open.spotify.com/track/6taXUSSvSQjzuyNzkykKm1) | [US Air Force Airmen Of Note](https://open.spotify.com/artist/4Tccxc2yd5ee0mrfMih7iS), [Dave Steinmeyer](https://open.spotify.com/artist/5VwDsaYpsNXgC7hscS93KL), [Joe Eckert](https://open.spotify.com/artist/35heeunUICwAu1HnAGCE7y), [Gary Hall](https://open.spotify.com/artist/4dOffTYJjLUe88NzK7GVmU) | [Somewhere Out There](https://open.spotify.com/album/7hLR2cPiVN2IyC2jxjDFSQ) | 5:18 |
+| 71 | [WILDFLOWER](https://open.spotify.com/track/3QaPy1KgI7nu9FJEQUgn6h) | [Billie Eilish](https://open.spotify.com/artist/6qqNVTkY8uBg9cP3Jd7DAH) | [HIT ME HARD AND SOFT](https://open.spotify.com/album/7aJuG4TFXa2hmE4z1yxc3n) | 4:21 |
+| 72 | [White Blank Page](https://open.spotify.com/track/6MAev6g8Vz8UF7QfFlb6JD) | [Mumford & Sons](https://open.spotify.com/artist/3gd8FJtBJtkRxdfbTu19U2) | [Sigh No More](https://open.spotify.com/album/1BnR65tSdg6ps8m3M8pezF) | 4:14 |
+| 73 | [Still Got The Blues](https://open.spotify.com/track/0DnGfA1r8pAssJCuq4ojla) | [Gary Moore](https://open.spotify.com/artist/23wr9RJZg0PmYvVFyNkQ4j) | [Still Got The Blues](https://open.spotify.com/album/5yrouz3mmUWSsCufl1tLUJ) | 6:10 |
+| 74 | [Silhouettes](https://open.spotify.com/track/4YSdo81Wt11kR7M1zc94vD) | [The Rays](https://open.spotify.com/artist/3owdLGoMpuTwee9KIh1Ibv) | [Presenting The Rays](https://open.spotify.com/album/32Jl14rurUEKvm8iRuDqoS) | 2:46 |
+| 75 | [Christ Copyright](https://open.spotify.com/track/64vi1D20nuAOiZ7ztaV53J) | [NOTHING MORE](https://open.spotify.com/artist/39VNwvlQTqE9SvgPjjnMpc) | [Nothing More](https://open.spotify.com/album/3bq4ql5Y0JNudfTiVX1omb) | 3:17 |
+| 76 | [Let 'em Burn](https://open.spotify.com/track/70dhmJYP8DGzl3IH0nIytx) | [NOTHING MORE](https://open.spotify.com/artist/39VNwvlQTqE9SvgPjjnMpc) | [The Stories We Tell Ourselves](https://open.spotify.com/album/0A3y56apHg0MRM83MLBwhM) | 3:55 |
+| 77 | [Like A Villain](https://open.spotify.com/track/0xoyUiHhxVH4gwb0CRgNmg) | [Bad Omens](https://open.spotify.com/artist/3Ri4H12KFyu98LMjSoij5V) | [THE DEATH OF PEACE OF MIND](https://open.spotify.com/album/3p7m1Pmg6n3BlpL9Py7IUA) | 3:30 |
+| 78 | [The Grey](https://open.spotify.com/track/5oZy9b1lMtREB3cqOPQusD) | [Bad Omens](https://open.spotify.com/artist/3Ri4H12KFyu98LMjSoij5V) | [THE DEATH OF PEACE OF MIND](https://open.spotify.com/album/3p7m1Pmg6n3BlpL9Py7IUA) | 4:06 |
 
-Snapshot ID: `AAAHSZ44BTobEBu5ZkOWPQtD6lX/8v9f`
+Snapshot ID: `AAAHWtDnyHoaqwM5N1eMm6KIQOZeqFAn`

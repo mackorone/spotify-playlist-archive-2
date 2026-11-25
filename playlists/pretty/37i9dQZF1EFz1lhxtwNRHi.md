@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFz1lhxtwNRHi.md) - [plain]
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/5tDsz1WqJv1ZFSXeC453wy">Teddy Geiger</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 2,464 likes - 182 songs - 10 hr 3 min
+[Spotify](https://open.spotify.com/user/spotify) - 2,463 likes - 182 songs - 10 hr 3 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -179,8 +179,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFz1lhxtwNRHi.md) - [plain]
 | 169 | [Way Down Below](https://open.spotify.com/track/0UrIJFk0tHRu4YAH9Ffz1a) | [Fire & the Romance](https://open.spotify.com/artist/5vunfmmHBwkBMz5VyXo2W1) | [Adaptations](https://open.spotify.com/album/3Kcrj9eoNPkoeGzA3CQre5) | 3:11 |
 | 170 | [curtains](https://open.spotify.com/track/5mWLFbzc2UHoNpaccIGlc2) | [teddy<3](https://open.spotify.com/artist/62FaS5AarFCrus8LxSVKKW), [Teddy Geiger](https://open.spotify.com/artist/1YIpZOfyHXMUgUaxxxgbaC) | [TERESA](https://open.spotify.com/album/6sejR4CikY0DijxTf7vBd5) | 2:39 |
 | 171 | [Run & Hide](https://open.spotify.com/track/4eJfRZkVqvX8ROSn7CPaJt) | [Connell Cruise](https://open.spotify.com/artist/6mTycJncoEwPBjjmLPeUqs) | [Barely Breathing](https://open.spotify.com/album/5oBVF8g8guWWrByPxwO5Pa) | 3:35 |
-| 172 | [will i ever find you](https://open.spotify.com/track/12xvmMnKC7CtLsatMLiMBi) | [teddy<3](https://open.spotify.com/artist/62FaS5AarFCrus8LxSVKKW), [Teddy Geiger](https://open.spotify.com/artist/1YIpZOfyHXMUgUaxxxgbaC) | [TERESA](https://open.spotify.com/album/6sejR4CikY0DijxTf7vBd5) | 4:53 |
-| 173 | [Numb \- teddy<3 version](https://open.spotify.com/track/3SOmgWGXrVacw6WcUhYlex) | [Sylvan Esso](https://open.spotify.com/artist/39vA9YljbnOApXKniLWBZv), [Teddy Geiger](https://open.spotify.com/artist/1YIpZOfyHXMUgUaxxxgbaC) | [Numb](https://open.spotify.com/album/60bXX3KhOtthL41zboOzki) | 4:31 |
+| 172 | [Numb \- teddy<3 version](https://open.spotify.com/track/3SOmgWGXrVacw6WcUhYlex) | [Sylvan Esso](https://open.spotify.com/artist/39vA9YljbnOApXKniLWBZv), [Teddy Geiger](https://open.spotify.com/artist/1YIpZOfyHXMUgUaxxxgbaC) | [Numb](https://open.spotify.com/album/60bXX3KhOtthL41zboOzki) | 4:31 |
+| 173 | [will i ever find you](https://open.spotify.com/track/12xvmMnKC7CtLsatMLiMBi) | [teddy<3](https://open.spotify.com/artist/62FaS5AarFCrus8LxSVKKW), [Teddy Geiger](https://open.spotify.com/artist/1YIpZOfyHXMUgUaxxxgbaC) | [TERESA](https://open.spotify.com/album/6sejR4CikY0DijxTf7vBd5) | 4:53 |
 | 174 | [Enemy](https://open.spotify.com/track/3ZWVfrzNjKiXplYVHGsrNk) | [LACES](https://open.spotify.com/artist/6yMmGdc524t6LunXvGeffb) | [LACES](https://open.spotify.com/album/4sase8Fh1jeovdS16pFRJX) | 3:16 |
 | 175 | [more than that](https://open.spotify.com/track/3YsxS7SqZkCWwatfmJkISE) | [teddy<3](https://open.spotify.com/artist/62FaS5AarFCrus8LxSVKKW), [Teddy Geiger](https://open.spotify.com/artist/1YIpZOfyHXMUgUaxxxgbaC) | [TERESA](https://open.spotify.com/album/6sejR4CikY0DijxTf7vBd5) | 3:28 |
 | 176 | [twilight](https://open.spotify.com/track/3T7IIoj5uxSZf7mUWKWkpF) | [teddy<3](https://open.spotify.com/artist/62FaS5AarFCrus8LxSVKKW), [Teddy Geiger](https://open.spotify.com/artist/1YIpZOfyHXMUgUaxxxgbaC) | [TERESA](https://open.spotify.com/album/6sejR4CikY0DijxTf7vBd5) | 3:54 |
@@ -191,4 +191,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFz1lhxtwNRHi.md) - [plain]
 | 181 | [Lost in Japan \(Remix\)](https://open.spotify.com/track/6TW20ljbvuem7QiWnaj7h7) | [Heaven is Shining](https://open.spotify.com/artist/6n2WzXV5xPZH3Iet8mKtd9) | [Señorita](https://open.spotify.com/album/0Gkh333CogvVTxcz4TkycU) | 3:16 |
 | 182 | [Leona Interlude](https://open.spotify.com/track/7kkADY5XzhAFMfOnfc7Z4K) | [ASL](https://open.spotify.com/artist/2XxgHIPXNgHGbvtBBGZrKm) | [EL GANZO](https://open.spotify.com/album/7hzqHYRogt233UE0QCcNeJ) | 0:27 |
 
-Snapshot ID: `AcifWgAAAAAiJgaHiuOsIFjtt90Q/NDT`
+Snapshot ID: `AcikZAAAAADwEzYl+R4gob+FXYuUliVs`

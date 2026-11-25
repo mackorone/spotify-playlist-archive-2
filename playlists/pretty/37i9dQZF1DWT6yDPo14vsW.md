@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWT6yDPo14vsW.md) - [plain]
 
 > ¿Qué es lo que está pasando?
 
-[Spotify](https://open.spotify.com/user/spotify) - 573,075 likes - 100 songs - 6 hr 37 min
+[Spotify](https://open.spotify.com/user/spotify) - 573,074 likes - 100 songs - 6 hr 37 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -70,13 +70,13 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWT6yDPo14vsW.md) - [plain]
 | 60 | [Esta Ausencia](https://open.spotify.com/track/0phL00aOVS9nHhvd5Vodei) | [David Bisbal](https://open.spotify.com/artist/5gOJTI4TusSENizxhcG7jB) | [Bulería](https://open.spotify.com/album/2zsm7DcaJsvZFY8DIxPveu) | 4:35 |
 | 61 | [No Digas Nada \(Déjà Vu\)](https://open.spotify.com/track/3DhD3hWyou0QluBBTSiBC5) | [Cali Y El Dandee](https://open.spotify.com/artist/5DUlefCLzVRzNWaNURTFpK) | [3 A.M\. \(Deluxe\)](https://open.spotify.com/album/2zx3DYhlTX0ALhbEDUnbnA) | 3:33 |
 | 62 | [Son de Amores](https://open.spotify.com/track/7BCer0V0I1CZDI6S6kYD44) | [Andy & Lucas](https://open.spotify.com/artist/4dqi10p8S91S2ChvcWsi1L) | [Andy Y Lucas](https://open.spotify.com/album/4s4s0t7K2ZRwwcPvV2ohYm) | 3:51 |
-| 63 | [En La Intimidad \| CROSSOVER \#1](https://open.spotify.com/track/7w7BrPbOjF5OxChs2dxFve) | [Big One](https://open.spotify.com/artist/2OhUNb01gLwygOizYvTm0e), [Emilia](https://open.spotify.com/artist/0AqlFI0tz2DsEoJlKSIiT9), [Callejero Fino](https://open.spotify.com/artist/6GRwwWAtmusrgAL5JF9Dfr) | [En La Intimidad \| CROSSOVER \#1](https://open.spotify.com/album/5OT9JgUd8WVWBJgYog7a82) | 2:45 |
-| 64 | [A Medio Vivir](https://open.spotify.com/track/4h9WxkuyzScrrPiK9nYtah) | [Ricky Martin](https://open.spotify.com/artist/7slfeZO9LsJbWgpkIoXBUJ) | [A Medio Vivir](https://open.spotify.com/album/4URjPTEl3KRpkzWFTvYmiM) | 4:41 |
+| 63 | [A Medio Vivir](https://open.spotify.com/track/4h9WxkuyzScrrPiK9nYtah) | [Ricky Martin](https://open.spotify.com/artist/7slfeZO9LsJbWgpkIoXBUJ) | [A Medio Vivir](https://open.spotify.com/album/4URjPTEl3KRpkzWFTvYmiM) | 4:41 |
+| 64 | [En La Intimidad \| CROSSOVER \#1](https://open.spotify.com/track/7w7BrPbOjF5OxChs2dxFve) | [Big One](https://open.spotify.com/artist/2OhUNb01gLwygOizYvTm0e), [Emilia](https://open.spotify.com/artist/0AqlFI0tz2DsEoJlKSIiT9), [Callejero Fino](https://open.spotify.com/artist/6GRwwWAtmusrgAL5JF9Dfr) | [En La Intimidad \| CROSSOVER \#1](https://open.spotify.com/album/5OT9JgUd8WVWBJgYog7a82) | 2:45 |
 | 65 | [La Gloria de Dios \(feat\. Evaluna Montaner\)](https://open.spotify.com/track/2SXA7iCdyfpIr2fpsYpf8U) | [Ricardo Montaner](https://open.spotify.com/artist/4uoz4FUMvpeyGClFTTDBsD), [Evaluna Montaner](https://open.spotify.com/artist/52qzWdNUp6ebjcNsvgZSiC) | [Viajero Frecuente](https://open.spotify.com/album/1bTNKPf95iD8ltYReGkVrS) | 6:20 |
 | 66 | [Invierno](https://open.spotify.com/track/5saQ13jGnI9vZzZ1nQFKrn) | [Reik](https://open.spotify.com/artist/0vR2qb8m9WHeZ5ByCbimq2) | [Secuencia](https://open.spotify.com/album/4kMpYWQfF4f4iXLhopgk3w) | 3:35 |
 | 67 | [Amores extraños \- Versión 2001](https://open.spotify.com/track/2FeYK41Grs7KdR9Nqoy1MK) | [Laura Pausini](https://open.spotify.com/artist/2e4nwiX8ZCU09LGLOpeqTH) | [Lo mejor de Laura Pausini \- Volveré junto a ti](https://open.spotify.com/album/0myaHlqK31HgqSV2k6Caqj) | 4:17 |
-| 68 | [CORAZÓN VACÍO](https://open.spotify.com/track/3oNnzH6hmqIGIhJ1NcHlrh) | [Maria Becerra](https://open.spotify.com/artist/1DxLCyH42yaHKGK3cl5bvG) | [CORAZÓN VACÍO](https://open.spotify.com/album/3YBQyY0Bj7bpxj0VHAse0P) | 2:40 |
-| 69 | [Perdóname](https://open.spotify.com/track/5vr2aeKPuH8koWDcjRvlEn) | [Pablo Alborán](https://open.spotify.com/artist/5M9Bb4adKAgrOFOhc05Y50) | [Pablo Alboran \(Deluxe\)](https://open.spotify.com/album/1PfEXmG8ioEwsj7qDaCQXc) | 4:11 |
+| 68 | [Perdóname](https://open.spotify.com/track/5vr2aeKPuH8koWDcjRvlEn) | [Pablo Alborán](https://open.spotify.com/artist/5M9Bb4adKAgrOFOhc05Y50) | [Pablo Alboran \(Deluxe\)](https://open.spotify.com/album/1PfEXmG8ioEwsj7qDaCQXc) | 4:11 |
+| 69 | [CORAZÓN VACÍO](https://open.spotify.com/track/3oNnzH6hmqIGIhJ1NcHlrh) | [Maria Becerra](https://open.spotify.com/artist/1DxLCyH42yaHKGK3cl5bvG) | [CORAZÓN VACÍO](https://open.spotify.com/album/3YBQyY0Bj7bpxj0VHAse0P) | 2:40 |
 | 70 | [Dame tu aire](https://open.spotify.com/track/7b7wNlZPexrJ95FiN5KQ3Q) | [Alex Ubago](https://open.spotify.com/artist/2tY2GFdhH0Wa2VBvsxew5X) | [Fantasía o realidad](https://open.spotify.com/album/1RF8AaupRPlmA13HxSdWAe) | 4:01 |
 | 71 | [YA SUFRI POR AMOR](https://open.spotify.com/track/1QGwQaCkWA88Rcw8xuq4Py) | [Luck Ra](https://open.spotify.com/artist/4kcQWQDK0u9AftVSpdrAgk), [DesaKTa2](https://open.spotify.com/artist/3UdkBrbQWdMoMPI4XATTC0) | [YA SUFRI POR AMOR](https://open.spotify.com/album/4fn3CkE2J49pyYxW4wCnhC) | 2:23 |
 | 72 | [O Me Voy O Te Vas](https://open.spotify.com/track/5HfJ5uKjuwike6nQxN5H3X) | [Marco Antonio Solís](https://open.spotify.com/artist/3tJnB0s6c3oXPq1SCCavnd) | [40 Años](https://open.spotify.com/album/7sdxT72joGJ75h3KVEqfLh) | 4:51 |
@@ -100,13 +100,13 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWT6yDPo14vsW.md) - [plain]
 | 90 | [Antes](https://open.spotify.com/track/565MagsPGofHeTxiH678pW) | [Obie Bermudez](https://open.spotify.com/artist/0caLxEeeNrpE0noxdInoGe) | [Solo Exitos](https://open.spotify.com/album/1wJksWydcUG8t9gmdBVHU1) | 3:40 |
 | 91 | [Tu Respiración](https://open.spotify.com/track/5bVCHIQgZ4Jcr6DFmnYqRo) | [Chayanne](https://open.spotify.com/artist/1JbemQ1fPt2YmSLjAFhPBv) | [En Todo Estaré \(Deluxe Edition\)](https://open.spotify.com/album/0P0d0y1LQ5VGrp58TQ0oM2) | 4:10 |
 | 92 | [De Que Me Sirve la Vida \(with Samo\) \- En Vivo](https://open.spotify.com/track/4Stp94lZHnb0GC7RD8uJmh) | [Reik](https://open.spotify.com/artist/0vR2qb8m9WHeZ5ByCbimq2), [Samo](https://open.spotify.com/artist/68QUssU8KffP7KmgO3Z6Ye) | [Reik En Vivo Auditorio Nacional](https://open.spotify.com/album/3nFMhhRvntmafaNnxJqcYX) | 4:17 |
-| 93 | [El Rey Tiburón](https://open.spotify.com/track/1PYZtMbLD4vrpGYEVij0eS) | [Maná](https://open.spotify.com/artist/7okwEbXzyT2VffBmyQBWLz) | [Amar es Combatir](https://open.spotify.com/album/6EuWSWRMKjUNJCKOXnbGga) | 4:52 |
+| 93 | [Celos](https://open.spotify.com/track/0NYWDlaBz5ejU8N8g8GRFV) | [Andy & Lucas](https://open.spotify.com/artist/4dqi10p8S91S2ChvcWsi1L) | [Desde mi barrio](https://open.spotify.com/album/0EbhhaDDfuXXz2lkUHDcxP) | 3:52 |
 | 94 | [No Sé Olvidar](https://open.spotify.com/track/5GRw7thRUAl9hYx9V8jbPk) | [Alejandro Fernández](https://open.spotify.com/artist/6sq1yF0OZEWA4xoXVKW1L9) | [Lo Esencial De Alejandro Fernández](https://open.spotify.com/album/03RyWnTLH0JFemkDOp0nGi) | 4:21 |
-| 95 | [Celos](https://open.spotify.com/track/0NYWDlaBz5ejU8N8g8GRFV) | [Andy & Lucas](https://open.spotify.com/artist/4dqi10p8S91S2ChvcWsi1L) | [Desde mi barrio](https://open.spotify.com/album/0EbhhaDDfuXXz2lkUHDcxP) | 3:52 |
+| 95 | [El Rey Tiburón](https://open.spotify.com/track/1PYZtMbLD4vrpGYEVij0eS) | [Maná](https://open.spotify.com/artist/7okwEbXzyT2VffBmyQBWLz) | [Amar es Combatir](https://open.spotify.com/album/6EuWSWRMKjUNJCKOXnbGga) | 4:52 |
 | 96 | [Un Siglo Sin Ti](https://open.spotify.com/track/4SjWlauTM2FSmHfe62rDPW) | [Chayanne](https://open.spotify.com/artist/1JbemQ1fPt2YmSLjAFhPBv) | [Desde Siempre](https://open.spotify.com/album/7GFpQchXpnoqDimteHViUX) | 4:38 |
 | 97 | [Te Enamoraste de Ti](https://open.spotify.com/track/3gBzsI7YDTcvfTFCRHEuom) | [Ricardo Arjona](https://open.spotify.com/artist/0h1zs4CTlU9D2QtgPxptUD) | [Galeria Caribe](https://open.spotify.com/album/3Pido82I7SgITS8LDABA7y) | 4:27 |
-| 98 | [Labios Compartidos](https://open.spotify.com/track/0vyEatwgB5xaBkmyXWqf3x) | [Maná](https://open.spotify.com/artist/7okwEbXzyT2VffBmyQBWLz) | [Six Pack: Maná \- EP](https://open.spotify.com/album/7gBsvCKyShR2OQ6h0RXF28) | 5:17 |
-| 99 | [Dime quien ama de verdad](https://open.spotify.com/track/0abQySNYXaj7H86yJVQ02B) | [Karen Méndez](https://open.spotify.com/artist/0txXDZCdXBzha20sgN1GRk), [Juacko](https://open.spotify.com/artist/0LLnP7NEsEQ1pSCfsuYURr) | [CoverKM Recopilatorio](https://open.spotify.com/album/1ZBDFXm0iLRTOhg6SYUy5v) | 3:46 |
-| 100 | [Pegadito](https://open.spotify.com/track/3NkWUspEJzcMcUJKoX1KJa) | [Tommy Torres](https://open.spotify.com/artist/264nbMzGPSkDZqTY8nXwCG) | [Tarde O Temprano \(Late Edition\)](https://open.spotify.com/album/4SpycWodCTi8Ct9SUAEOzu) | 3:39 |
+| 98 | [Dime quien ama de verdad](https://open.spotify.com/track/0abQySNYXaj7H86yJVQ02B) | [Karen Méndez](https://open.spotify.com/artist/0txXDZCdXBzha20sgN1GRk), [Juacko](https://open.spotify.com/artist/0LLnP7NEsEQ1pSCfsuYURr) | [CoverKM Recopilatorio](https://open.spotify.com/album/1ZBDFXm0iLRTOhg6SYUy5v) | 3:46 |
+| 99 | [Pegadito](https://open.spotify.com/track/3NkWUspEJzcMcUJKoX1KJa) | [Tommy Torres](https://open.spotify.com/artist/264nbMzGPSkDZqTY8nXwCG) | [Tarde O Temprano \(Late Edition\)](https://open.spotify.com/album/4SpycWodCTi8Ct9SUAEOzu) | 3:39 |
+| 100 | [Labios Compartidos](https://open.spotify.com/track/0vyEatwgB5xaBkmyXWqf3x) | [Maná](https://open.spotify.com/artist/7okwEbXzyT2VffBmyQBWLz) | [Six Pack: Maná \- EP](https://open.spotify.com/album/7gBsvCKyShR2OQ6h0RXF28) | 5:17 |
 
-Snapshot ID: `AAAAAOdZuMhDDT0wah4A0ZQGp/GFh5Iv`
+Snapshot ID: `AAAAACJsw0wI1dn5f1eJDI5HZ2tYMYzw`

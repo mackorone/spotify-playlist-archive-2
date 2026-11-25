@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX89XXHpIgTCJ.md) - [plain]
 
 > When Rock meets Rap: covers, collabs, mashups and everything that rhymes.
 
-[Spotify](https://open.spotify.com/user/spotify) - 351,833 likes - 60 songs - 3 hr 50 min
+[Spotify](https://open.spotify.com/user/spotify) - 351,852 likes - 60 songs - 3 hr 50 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -69,4 +69,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX89XXHpIgTCJ.md) - [plain]
 | 59 | [Rock the Party \(Off the Hook\) \- Off the Hook; 2006 Remaster](https://open.spotify.com/track/6dWiJjJrONUP6XDswB3JYc) | [P.O.D.](https://open.spotify.com/artist/6KO6G41BBLTDNYOLefWTMU) | [The Fundamental Elements of Southtown](https://open.spotify.com/album/3m4tEvOqwOSk3Yy5apKaFq) | 3:26 |
 | 60 | [Made An America](https://open.spotify.com/track/0Q6AD7e7d9tpN1dXL4qh5P) | [FEVER 333](https://open.spotify.com/artist/1B0155rdv175D1tQ8VH7Oy) | [Made An America](https://open.spotify.com/album/6HLseXtiQsGBeLaQ43Pm6G) | 2:53 |
 
-Snapshot ID: `AAAAAKm5mMelgJR2q0CffDo5G3JMm2uw`
+Snapshot ID: `AAAAAIqh8JzLG3C79qucG6zv7ryCoWF9`

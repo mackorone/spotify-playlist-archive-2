@@ -2,9 +2,9 @@
 
 ### [Fresh Finds Thailand](https://open.spotify.com/playlist/37i9dQZF1DWSLboKmA6wlS)
 
-> เพลงใหม่ที่ดีที่สุดจากศิลปินรุ่นใหม่ คัดสรรโดยบรรณาธิการ Spotify\. ศิลปิน: PALANG\. Artwork: Isu Kim
+> เพลงใหม่ที่ดีที่สุดจากศิลปินรุ่นใหม่ คัดสรรโดยบรรณาธิการ Spotify\. ศิลปิน: PLENGXI\. Artwork: Isu Kim
 
-2,716 songs - 7 day 2 hr 24 min
+2,717 songs - 7 day 2 hr 27 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -1141,7 +1141,7 @@
 | [ถามจริง \- Gu Ask Real](https://open.spotify.com/track/0eMTuFZhpGwDMfRFNFTcvi) | [Leave Rules](https://open.spotify.com/artist/1Ar5VjPMjm38rKujR8fOok) | [How to Start](https://open.spotify.com/album/1OyQ52hBM5IdCucUkKl7xf) | 3:36 | 2025-07-31 | 2025-11-08 |
 | [ถามดูเฉยๆ \(Friend?\)](https://open.spotify.com/track/2mqVDoGWkD9ICko7Mzrkki) | [Mint Arunrat](https://open.spotify.com/artist/1XlDxalKVnpzM60KiIO8tr) | [ถามดูเฉยๆ \(Friend?\)](https://open.spotify.com/album/6cb2Mu3i3S68BFZ4dFkM2r) | 3:48 | 2024-07-01 | 2024-08-03 |
 | [ถามมาตอบไป \(Please\)](https://open.spotify.com/track/4eFUpjqkKgM69UG7aVsBGf) | [bluemarlin](https://open.spotify.com/artist/17m2Fu9gye7fkcSjtVEdPr) | [ถามมาตอบไป \(Please\)](https://open.spotify.com/album/5WLouPhNmlVEA1W9dHDSPp) | 3:34 | 2023-11-24 | 2024-01-13 |
-| [ถึงพรุ่งนี้ \(On Me\)](https://open.spotify.com/track/1FnhxRLVOveQgtGbnjX9Ga) | [kevyn](https://open.spotify.com/artist/0BMpYlZbI8ir7DX1LukOpK) | [ถึงพรุ่งนี้ \(On Me\)](https://open.spotify.com/album/7H5RNtXvPSubC8Eo7c6FPB) | 2:04 | 2026-08-12 |  |
+| [ถึงพรุ่งนี้ \(On Me\)](https://open.spotify.com/track/1FnhxRLVOveQgtGbnjX9Ga) | [kevyn](https://open.spotify.com/artist/0BMpYlZbI8ir7DX1LukOpK) | [ถึงพรุ่งนี้ \(On Me\)](https://open.spotify.com/album/7H5RNtXvPSubC8Eo7c6FPB) | 2:04 | 2026-08-12 | 2026-11-25 |
 | [ถึงเธอไม่มีเขาเราก็ไม่ได้รักกันอยู่ดี \(pity\)](https://open.spotify.com/track/7coF8a1SET6MqHkvXxC9fW) | [deasy](https://open.spotify.com/artist/2fOD3LtxHlrVEMWyRGQl1b) | [ถึงเธอไม่มีเขาเราก็ไม่ได้รักกันอยู่ดี \(pity\)](https://open.spotify.com/album/4Ppa4zyYc2uiaM146MsKiv) | 3:04 | 2024-03-24 | 2024-04-27 |
 | [ถึงเวลาต้องเสียเธอ](https://open.spotify.com/track/2clrpe9BjytKz9rp13v5Fs) | [Desk Chair](https://open.spotify.com/artist/0aJryoAMpBTXUf6an0D2Ek) | [ถึงเวลาต้องเสียเธอ](https://open.spotify.com/album/3zsYR644I9gAYjsRVigrhy) | 5:36 | 2024-05-31 | 2024-06-08 |
 | [ถือมือถือ, มือเธอ](https://open.spotify.com/track/5yF8KXUpYFpiEoLpx7Jg9k) | [\_less](https://open.spotify.com/artist/16XaZ9bhtFCLUow2Z1Y7Of) | [ถือมือถือ, มือเธอ](https://open.spotify.com/album/1rTDLoubvmz7sv0xVSw9qG) | 4:02 | 2025-06-13 | 2025-08-15 |
@@ -1496,6 +1496,7 @@
 | [ภาพและเสียง](https://open.spotify.com/track/4tb5dftCunH0FAQlvhvBJR) | [Wakinn](https://open.spotify.com/artist/2k5cjE5SOCNhMd1tOUMewh), [Newery](https://open.spotify.com/artist/2ztuZ95DKP7O7DDAxCKYen) | [ภาพและเสียง](https://open.spotify.com/album/5uXMOSZSiAueRN60eM5jS3) | 4:02 | 2023-05-12 | 2023-07-15 |
 | [ภาพในอดีต \(ที่หายไป\)](https://open.spotify.com/track/6BKJn7zKUlPnGFGqWm0oMp) | [PTK5](https://open.spotify.com/artist/5sNPl7304g9OfgB63wR20I), [Shogun](https://open.spotify.com/artist/3PESCsewyuNxscc4hpWDXj) | [ภาพในอดีต \(ที่หายไป\)](https://open.spotify.com/album/1auQS4LW3rjRSKYXvN4arj) | 3:05 | 2023-07-28 | 2024-01-20 |
 | [ภาวนาให้เธอ](https://open.spotify.com/track/5glSpQmTeq59HAAoZJj140) | [phupa](https://open.spotify.com/artist/6dHrOVxLA9AEQcBck2XZxq) | [ภาวนาให้เธอ](https://open.spotify.com/album/6OjUvh9X8kS1NFiu4MQuAu) | 4:23 | 2023-11-08 | 2024-01-27 |
+| [ภูเขาน้ำแข็ง \(MELT\)](https://open.spotify.com/track/4OAYtd14gbJ1QtB4KNaRy1) | [PLENGXI](https://open.spotify.com/artist/76ynkjrfJiKKgCn07brRqP) | [ภูเขาน้ำแข็ง \(MELT\)](https://open.spotify.com/album/7rrq1MuGQnZHRpGzWPa7cy) | 3:22 | 2026-11-25 |  |
 | [มคปด.\(DOG…?\) Ft.Flamingam](https://open.spotify.com/track/6WH0ZBnkfH8rZBPhicPLxf) | [Wawa Yanisa](https://open.spotify.com/artist/51dVGJxTTHiCSW74SBJ1UM) | [มคปด.\(DOG…?\) Ft.Flamingam](https://open.spotify.com/album/7ks3kF7tjVTUqWVhnsBQCC) | 3:00 | 2023-05-19 | 2023-05-27 |
 | [มนตรา](https://open.spotify.com/track/6wKJKF0Sw9m2USBECTUMjV) | [Vels.](https://open.spotify.com/artist/0rhpXgJP8cHMzjA20ZTvVg) | [มนตรา](https://open.spotify.com/album/1ieYmi9rz3Pag73dQrPENL) | 4:42 | 2023-06-02 | 2023-07-01 |
 | [มนุษย์ล่องหน](https://open.spotify.com/track/4VwVbQMg5HWGSYnbsQNpLx) | [Es Chainarong](https://open.spotify.com/artist/3FIG9sngnWrwxHGDZEpOd9) | [มนุษย์ล่องหน](https://open.spotify.com/album/0BlJIS11vwHUM3TFTolGZk) | 4:05 | 2024-03-08 | 2024-03-16 |

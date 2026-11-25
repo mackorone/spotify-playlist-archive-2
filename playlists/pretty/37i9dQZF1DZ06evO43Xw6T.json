@@ -1,12 +1,12 @@
 {
   "description": "This is Gabito Ballesteros. The essential tracks, all in one playlist.",
-  "num_followers": 189460,
+  "num_followers": 189481,
   "original_name": "This Is Gabito Ballesteros",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "awIwgAAAAADkaaxK2BTR0a5ekiRGZAaG",
+  "snapshot_id": "awOCAAAAAAA+TMzEoQBcxOucWdqUv+nL",
   "tracks": [
     {
       "added_at": null,
@@ -411,26 +411,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Pienso En Ella",
-        "url": "https://open.spotify.com/album/7cHJ27ODl19jWx14kWMPMT"
-      },
-      "artists": [
-        {
-          "name": "Grupo Frontera",
-          "url": "https://open.spotify.com/artist/6XkjpgcEsYab502Vr1bBeW"
-        },
-        {
-          "name": "Gabito Ballesteros",
-          "url": "https://open.spotify.com/artist/6Sbl0NT50roqWvy746MfVf"
-        }
-      ],
-      "duration_ms": 159552,
-      "name": "Pienso En Ella",
-      "url": "https://open.spotify.com/track/1JLN3lX1fFAJoFPjUhp4ZR"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Mood Malandro",
         "url": "https://open.spotify.com/album/6x60IHS4WQeKN2xSxPSJbr"
       },
@@ -451,22 +431,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "Natanael Cano, Vol.1",
-        "url": "https://open.spotify.com/album/5LfkNiWQJAV4dpUeBxxoMN"
+        "name": "Pienso En Ella",
+        "url": "https://open.spotify.com/album/7cHJ27ODl19jWx14kWMPMT"
       },
       "artists": [
         {
-          "name": "Natanael Cano",
-          "url": "https://open.spotify.com/artist/0elWFr7TW8piilVRYJUe4P"
+          "name": "Grupo Frontera",
+          "url": "https://open.spotify.com/artist/6XkjpgcEsYab502Vr1bBeW"
         },
         {
           "name": "Gabito Ballesteros",
           "url": "https://open.spotify.com/artist/6Sbl0NT50roqWvy746MfVf"
         }
       ],
-      "duration_ms": 175980,
-      "name": "La Cherokee",
-      "url": "https://open.spotify.com/track/0ZtDk3ifzh53CBi9T8qFHh"
+      "duration_ms": 159552,
+      "name": "Pienso En Ella",
+      "url": "https://open.spotify.com/track/1JLN3lX1fFAJoFPjUhp4ZR"
     },
     {
       "added_at": null,
@@ -491,6 +471,26 @@
       "duration_ms": 176134,
       "name": "Skin de Bandida",
       "url": "https://open.spotify.com/track/5SHXikmjPwChjvpVIeYkMf"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Natanael Cano, Vol.1",
+        "url": "https://open.spotify.com/album/5LfkNiWQJAV4dpUeBxxoMN"
+      },
+      "artists": [
+        {
+          "name": "Natanael Cano",
+          "url": "https://open.spotify.com/artist/0elWFr7TW8piilVRYJUe4P"
+        },
+        {
+          "name": "Gabito Ballesteros",
+          "url": "https://open.spotify.com/artist/6Sbl0NT50roqWvy746MfVf"
+        }
+      ],
+      "duration_ms": 175980,
+      "name": "La Cherokee",
+      "url": "https://open.spotify.com/track/0ZtDk3ifzh53CBi9T8qFHh"
     },
     {
       "added_at": null,
@@ -531,30 +531,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Natanael Cano, Vol.1",
-        "url": "https://open.spotify.com/album/5LfkNiWQJAV4dpUeBxxoMN"
-      },
-      "artists": [
-        {
-          "name": "Natanael Cano",
-          "url": "https://open.spotify.com/artist/0elWFr7TW8piilVRYJUe4P"
-        },
-        {
-          "name": "Gabito Ballesteros",
-          "url": "https://open.spotify.com/artist/6Sbl0NT50roqWvy746MfVf"
-        },
-        {
-          "name": "Javier Rosas",
-          "url": "https://open.spotify.com/artist/5FAAR1LqXQp0HbgVfQ8ZWE"
-        }
-      ],
-      "duration_ms": 227854,
-      "name": "Nos Vamos de Dance",
-      "url": "https://open.spotify.com/track/0oSZVn61aTmWDy3TsQRnXR"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Cali",
         "url": "https://open.spotify.com/album/6921DJk1AZONak9EoUPAR5"
       },
@@ -579,6 +555,30 @@
       "duration_ms": 195164,
       "name": "Cali",
       "url": "https://open.spotify.com/track/31o2zBgMVijZ3dNOPBephl"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Natanael Cano, Vol.1",
+        "url": "https://open.spotify.com/album/5LfkNiWQJAV4dpUeBxxoMN"
+      },
+      "artists": [
+        {
+          "name": "Natanael Cano",
+          "url": "https://open.spotify.com/artist/0elWFr7TW8piilVRYJUe4P"
+        },
+        {
+          "name": "Gabito Ballesteros",
+          "url": "https://open.spotify.com/artist/6Sbl0NT50roqWvy746MfVf"
+        },
+        {
+          "name": "Javier Rosas",
+          "url": "https://open.spotify.com/artist/5FAAR1LqXQp0HbgVfQ8ZWE"
+        }
+      ],
+      "duration_ms": 227854,
+      "name": "Nos Vamos de Dance",
+      "url": "https://open.spotify.com/track/0oSZVn61aTmWDy3TsQRnXR"
     },
     {
       "added_at": null,
@@ -627,30 +627,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Natanael Cano, Vol.1",
-        "url": "https://open.spotify.com/album/5LfkNiWQJAV4dpUeBxxoMN"
-      },
-      "artists": [
-        {
-          "name": "Natanael Cano",
-          "url": "https://open.spotify.com/artist/0elWFr7TW8piilVRYJUe4P"
-        },
-        {
-          "name": "Gabito Ballesteros",
-          "url": "https://open.spotify.com/artist/6Sbl0NT50roqWvy746MfVf"
-        },
-        {
-          "name": "Adriel Favela",
-          "url": "https://open.spotify.com/artist/0PrhwIWbqYFYyY2ZrkIWgI"
-        }
-      ],
-      "duration_ms": 159937,
-      "name": "Pa la Ma\u00f1a",
-      "url": "https://open.spotify.com/track/2c5rzGmPdjADqPcoyrI6lO"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Cartier",
         "url": "https://open.spotify.com/album/1Dc6mH1teFQDQQXlgpl8pB"
       },
@@ -695,6 +671,30 @@
     {
       "added_at": null,
       "album": {
+        "name": "Natanael Cano, Vol.1",
+        "url": "https://open.spotify.com/album/5LfkNiWQJAV4dpUeBxxoMN"
+      },
+      "artists": [
+        {
+          "name": "Natanael Cano",
+          "url": "https://open.spotify.com/artist/0elWFr7TW8piilVRYJUe4P"
+        },
+        {
+          "name": "Gabito Ballesteros",
+          "url": "https://open.spotify.com/artist/6Sbl0NT50roqWvy746MfVf"
+        },
+        {
+          "name": "Adriel Favela",
+          "url": "https://open.spotify.com/artist/0PrhwIWbqYFYyY2ZrkIWgI"
+        }
+      ],
+      "duration_ms": 159937,
+      "name": "Pa la Ma\u00f1a",
+      "url": "https://open.spotify.com/track/2c5rzGmPdjADqPcoyrI6lO"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Ya No Se Llevan Serenatas",
         "url": "https://open.spotify.com/album/6MRvPbmvRXntgB8DiDsIT6"
       },
@@ -731,26 +731,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "LOU LOU",
-        "url": "https://open.spotify.com/album/1sHlTAYqr45xrIUxcDrkmn"
-      },
-      "artists": [
-        {
-          "name": "Gabito Ballesteros",
-          "url": "https://open.spotify.com/artist/6Sbl0NT50roqWvy746MfVf"
-        },
-        {
-          "name": "Natanael Cano",
-          "url": "https://open.spotify.com/artist/0elWFr7TW8piilVRYJUe4P"
-        }
-      ],
-      "duration_ms": 188000,
-      "name": "LOU LOU",
-      "url": "https://open.spotify.com/track/3FvTHuefYV6TxE3Kseqno8"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Para Impresionarte",
         "url": "https://open.spotify.com/album/0s4b4W4VAPWIxrUecXZC4n"
       },
@@ -767,6 +747,26 @@
       "duration_ms": 208344,
       "name": "Para Impresionarte",
       "url": "https://open.spotify.com/track/1shwGr48lG7lAJJCyIO2UB"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "LOU LOU",
+        "url": "https://open.spotify.com/album/1sHlTAYqr45xrIUxcDrkmn"
+      },
+      "artists": [
+        {
+          "name": "Gabito Ballesteros",
+          "url": "https://open.spotify.com/artist/6Sbl0NT50roqWvy746MfVf"
+        },
+        {
+          "name": "Natanael Cano",
+          "url": "https://open.spotify.com/artist/0elWFr7TW8piilVRYJUe4P"
+        }
+      ],
+      "duration_ms": 188000,
+      "name": "LOU LOU",
+      "url": "https://open.spotify.com/track/3FvTHuefYV6TxE3Kseqno8"
     },
     {
       "added_at": null,

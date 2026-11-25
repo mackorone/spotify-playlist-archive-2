@@ -1,12 +1,12 @@
 {
   "description": "Repeat-free hours of new and beloved indie folk. Cover: Emma Ogier",
-  "num_followers": 1327607,
+  "num_followers": 1327565,
   "original_name": "Infinite Indie Folk",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAMZcvNNOGzVn2Ld92L7jCTCy9BUr",
+  "snapshot_id": "AAAAAACHg1jvac13cdq3Ol6lyzMCE//x",
   "tracks": [
     {
       "added_at": "2026-11-20 05:01:01",
@@ -135,22 +135,6 @@
     {
       "added_at": "2026-11-20 05:01:01",
       "album": {
-        "name": "Lost Weekend",
-        "url": "https://open.spotify.com/album/2NSzwyYvQvdOQAoEjrlw9c"
-      },
-      "artists": [
-        {
-          "name": "Phoebe Bridgers",
-          "url": "https://open.spotify.com/artist/1r1uxoy19fzMxunt3ONAkG"
-        }
-      ],
-      "duration_ms": 281544,
-      "name": "Kill Me",
-      "url": "https://open.spotify.com/track/2EPxhPbZczxce6wHbuOlQ6"
-    },
-    {
-      "added_at": "2026-11-20 05:01:01",
-      "album": {
         "name": "Barely Holding On",
         "url": "https://open.spotify.com/album/3D1Oaq7DHlYcGYclJJJeMh"
       },
@@ -163,6 +147,22 @@
       "duration_ms": 210626,
       "name": "Barely Holding On",
       "url": "https://open.spotify.com/track/2uSgEGeb0j2xQiqj7wA2xm"
+    },
+    {
+      "added_at": "2026-11-20 05:01:01",
+      "album": {
+        "name": "Lost Weekend",
+        "url": "https://open.spotify.com/album/2NSzwyYvQvdOQAoEjrlw9c"
+      },
+      "artists": [
+        {
+          "name": "Phoebe Bridgers",
+          "url": "https://open.spotify.com/artist/1r1uxoy19fzMxunt3ONAkG"
+        }
+      ],
+      "duration_ms": 281544,
+      "name": "Kill Me",
+      "url": "https://open.spotify.com/track/2EPxhPbZczxce6wHbuOlQ6"
     },
     {
       "added_at": "2026-11-20 05:01:01",
@@ -595,22 +595,6 @@
     {
       "added_at": "2026-11-20 05:01:01",
       "album": {
-        "name": "Monoflora",
-        "url": "https://open.spotify.com/album/398U3OCGdd08lD6gdMC0rE"
-      },
-      "artists": [
-        {
-          "name": "River Whyless",
-          "url": "https://open.spotify.com/artist/7gRGh8w4G9zaFJSaIYp8HH"
-        }
-      ],
-      "duration_ms": 223400,
-      "name": "Michigan Cherry",
-      "url": "https://open.spotify.com/track/0fOEjjXBEiyu395pW3C1eo"
-    },
-    {
-      "added_at": "2026-11-20 05:01:01",
-      "album": {
         "name": "Mystery Of Love (Demo)",
         "url": "https://open.spotify.com/album/06pLW7elratms6S5yufTzn"
       },
@@ -623,6 +607,22 @@
       "duration_ms": 244766,
       "name": "Mystery Of Love - Demo",
       "url": "https://open.spotify.com/track/62RTXxio7jbtBTxWz43JPS"
+    },
+    {
+      "added_at": "2026-11-20 05:01:01",
+      "album": {
+        "name": "Monoflora",
+        "url": "https://open.spotify.com/album/398U3OCGdd08lD6gdMC0rE"
+      },
+      "artists": [
+        {
+          "name": "River Whyless",
+          "url": "https://open.spotify.com/artist/7gRGh8w4G9zaFJSaIYp8HH"
+        }
+      ],
+      "duration_ms": 223400,
+      "name": "Michigan Cherry",
+      "url": "https://open.spotify.com/track/0fOEjjXBEiyu395pW3C1eo"
     },
     {
       "added_at": "2026-11-20 05:01:01",
@@ -739,18 +739,18 @@
     {
       "added_at": "2026-11-20 05:01:01",
       "album": {
-        "name": "Role Model Hermit",
-        "url": "https://open.spotify.com/album/0r5nmjIvD8FmcgWsILF1Eh"
+        "name": "Bright Future",
+        "url": "https://open.spotify.com/album/2Y8WS7iDIZkvzB5GUeLvku"
       },
       "artists": [
         {
-          "name": "mary in the junkyard",
-          "url": "https://open.spotify.com/artist/48Kc3HRodbvm5ropMf9B6M"
+          "name": "Adrianne Lenker",
+          "url": "https://open.spotify.com/artist/4aKWmkWAKviFlyvHYPTNQY"
         }
       ],
-      "duration_ms": 236807,
-      "name": "Blood",
-      "url": "https://open.spotify.com/track/5qKD8WTc5qIZW96rIcgzXE"
+      "duration_ms": 358850,
+      "name": "Real House",
+      "url": "https://open.spotify.com/track/62R903SYfJm79xxLhjEhyW"
     },
     {
       "added_at": "2026-11-20 05:01:01",
@@ -783,18 +783,18 @@
     {
       "added_at": "2026-11-20 05:01:01",
       "album": {
-        "name": "Bright Future",
-        "url": "https://open.spotify.com/album/2Y8WS7iDIZkvzB5GUeLvku"
+        "name": "Role Model Hermit",
+        "url": "https://open.spotify.com/album/0r5nmjIvD8FmcgWsILF1Eh"
       },
       "artists": [
         {
-          "name": "Adrianne Lenker",
-          "url": "https://open.spotify.com/artist/4aKWmkWAKviFlyvHYPTNQY"
+          "name": "mary in the junkyard",
+          "url": "https://open.spotify.com/artist/48Kc3HRodbvm5ropMf9B6M"
         }
       ],
-      "duration_ms": 358850,
-      "name": "Real House",
-      "url": "https://open.spotify.com/track/62R903SYfJm79xxLhjEhyW"
+      "duration_ms": 236807,
+      "name": "Blood",
+      "url": "https://open.spotify.com/track/5qKD8WTc5qIZW96rIcgzXE"
     },
     {
       "added_at": "2026-11-20 05:01:01",
@@ -931,22 +931,6 @@
     {
       "added_at": "2026-11-20 05:01:01",
       "album": {
-        "name": "Seed of a Seed",
-        "url": "https://open.spotify.com/album/77Q7ZGkqC4k1GjgoSdMrYa"
-      },
-      "artists": [
-        {
-          "name": "Haley Heynderickx",
-          "url": "https://open.spotify.com/artist/73MDShZzdL4vUGMkmXOG6X"
-        }
-      ],
-      "duration_ms": 164000,
-      "name": "Seed of a Seed",
-      "url": "https://open.spotify.com/track/2dLVXnwdnstcHIRTJMgqsx"
-    },
-    {
-      "added_at": "2026-11-20 05:01:01",
-      "album": {
         "name": "Equus Asinus",
         "url": "https://open.spotify.com/album/3DMcONcVrHi6yNLwL576GU"
       },
@@ -959,6 +943,22 @@
       "duration_ms": 291791,
       "name": "I Come With Mud",
       "url": "https://open.spotify.com/track/6U13ePayjjfmxzXHGGYbv5"
+    },
+    {
+      "added_at": "2026-11-20 05:01:01",
+      "album": {
+        "name": "Seed of a Seed",
+        "url": "https://open.spotify.com/album/77Q7ZGkqC4k1GjgoSdMrYa"
+      },
+      "artists": [
+        {
+          "name": "Haley Heynderickx",
+          "url": "https://open.spotify.com/artist/73MDShZzdL4vUGMkmXOG6X"
+        }
+      ],
+      "duration_ms": 164000,
+      "name": "Seed of a Seed",
+      "url": "https://open.spotify.com/track/2dLVXnwdnstcHIRTJMgqsx"
     },
     {
       "added_at": "2026-11-20 05:01:01",
@@ -1187,22 +1187,6 @@
     {
       "added_at": "2026-11-20 05:01:01",
       "album": {
-        "name": "The Fear That This Is Real",
-        "url": "https://open.spotify.com/album/59eUZ7LL95OYdNB2nxbsE4"
-      },
-      "artists": [
-        {
-          "name": "Sarah Julia",
-          "url": "https://open.spotify.com/artist/2qVi7G7OjgVXyl9zxabzTQ"
-        }
-      ],
-      "duration_ms": 232903,
-      "name": "Touchdown",
-      "url": "https://open.spotify.com/track/3rEVddu309s1q60xAEB7AE"
-    },
-    {
-      "added_at": "2026-11-20 05:01:01",
-      "album": {
         "name": "Earthstar Mountain",
         "url": "https://open.spotify.com/album/2aS0NR1iVCRE2DEr197fe2"
       },
@@ -1219,6 +1203,22 @@
     {
       "added_at": "2026-11-20 05:01:01",
       "album": {
+        "name": "The Fear That This Is Real",
+        "url": "https://open.spotify.com/album/59eUZ7LL95OYdNB2nxbsE4"
+      },
+      "artists": [
+        {
+          "name": "Sarah Julia",
+          "url": "https://open.spotify.com/artist/2qVi7G7OjgVXyl9zxabzTQ"
+        }
+      ],
+      "duration_ms": 232903,
+      "name": "Touchdown",
+      "url": "https://open.spotify.com/track/3rEVddu309s1q60xAEB7AE"
+    },
+    {
+      "added_at": "2026-11-20 05:01:01",
+      "album": {
         "name": "With You",
         "url": "https://open.spotify.com/album/4FmaIvv5uBPgwrm8v7tbjJ"
       },
@@ -1231,22 +1231,6 @@
       "duration_ms": 211517,
       "name": "With You",
       "url": "https://open.spotify.com/track/2xuNO2twEAziI59xyKYxzZ"
-    },
-    {
-      "added_at": "2026-11-20 05:01:01",
-      "album": {
-        "name": "Born Again",
-        "url": "https://open.spotify.com/album/4SO487HCmaih1yGhFfi48v"
-      },
-      "artists": [
-        {
-          "name": "Star Moles",
-          "url": "https://open.spotify.com/artist/2E5hF0ef37SEkbFT7JItSf"
-        }
-      ],
-      "duration_ms": 217865,
-      "name": "Born Again",
-      "url": "https://open.spotify.com/track/4l1qY5SuMnNExzQCVtS6OS"
     },
     {
       "added_at": "2026-11-20 05:01:01",
@@ -1279,6 +1263,22 @@
       "duration_ms": 144186,
       "name": "Half Your Love",
       "url": "https://open.spotify.com/track/0ut7f4KB9sZQ8uhA4HyOMt"
+    },
+    {
+      "added_at": "2026-11-20 05:01:01",
+      "album": {
+        "name": "Born Again",
+        "url": "https://open.spotify.com/album/4SO487HCmaih1yGhFfi48v"
+      },
+      "artists": [
+        {
+          "name": "Star Moles",
+          "url": "https://open.spotify.com/artist/2E5hF0ef37SEkbFT7JItSf"
+        }
+      ],
+      "duration_ms": 217865,
+      "name": "Born Again",
+      "url": "https://open.spotify.com/track/4l1qY5SuMnNExzQCVtS6OS"
     },
     {
       "added_at": "2026-11-20 05:01:01",
@@ -1363,6 +1363,22 @@
     {
       "added_at": "2026-11-20 05:01:01",
       "album": {
+        "name": "Don't Hold Back",
+        "url": "https://open.spotify.com/album/1aDC6dzKkegIONcxMa4P5W"
+      },
+      "artists": [
+        {
+          "name": "lighthearted",
+          "url": "https://open.spotify.com/artist/6bIM8yCfbkBSVS40TP5gCf"
+        }
+      ],
+      "duration_ms": 195329,
+      "name": "never need anyone else",
+      "url": "https://open.spotify.com/track/4P2WvgYw8xulMCoSJoQb9h"
+    },
+    {
+      "added_at": "2026-11-20 05:01:01",
+      "album": {
         "name": "Autosmile",
         "url": "https://open.spotify.com/album/53a19c7TkUcgvZ1lnPLQCr"
       },
@@ -1391,22 +1407,6 @@
       "duration_ms": 368493,
       "name": "There's A Place",
       "url": "https://open.spotify.com/track/1dNDxVM1HDpdKgon58QvtU"
-    },
-    {
-      "added_at": "2026-11-20 05:01:01",
-      "album": {
-        "name": "Don't Hold Back",
-        "url": "https://open.spotify.com/album/1aDC6dzKkegIONcxMa4P5W"
-      },
-      "artists": [
-        {
-          "name": "lighthearted",
-          "url": "https://open.spotify.com/artist/6bIM8yCfbkBSVS40TP5gCf"
-        }
-      ],
-      "duration_ms": 195329,
-      "name": "never need anyone else",
-      "url": "https://open.spotify.com/track/4P2WvgYw8xulMCoSJoQb9h"
     },
     {
       "added_at": "2026-11-20 05:01:01",
@@ -1443,22 +1443,6 @@
     {
       "added_at": "2026-11-20 05:01:01",
       "album": {
-        "name": "Is What It Is",
-        "url": "https://open.spotify.com/album/4DJnKYeQB8fSFaRTjXD7rB"
-      },
-      "artists": [
-        {
-          "name": "Chance Pe\u00f1a",
-          "url": "https://open.spotify.com/artist/4lhUHpVOXmkEBGGHV71QCh"
-        }
-      ],
-      "duration_ms": 203986,
-      "name": "Is What It Is",
-      "url": "https://open.spotify.com/track/2wUvQE1VLMw0jRJVYn7qbt"
-    },
-    {
-      "added_at": "2026-11-20 05:01:01",
-      "album": {
         "name": "Crooked Tree",
         "url": "https://open.spotify.com/album/1lIZUzexPXR4Q7exPmNqCc"
       },
@@ -1475,6 +1459,22 @@
       "duration_ms": 232827,
       "name": "Crooked Tree",
       "url": "https://open.spotify.com/track/1NlwiyN4GGn3gVgyZ8T5AW"
+    },
+    {
+      "added_at": "2026-11-20 05:01:01",
+      "album": {
+        "name": "Is What It Is",
+        "url": "https://open.spotify.com/album/4DJnKYeQB8fSFaRTjXD7rB"
+      },
+      "artists": [
+        {
+          "name": "Chance Pe\u00f1a",
+          "url": "https://open.spotify.com/artist/4lhUHpVOXmkEBGGHV71QCh"
+        }
+      ],
+      "duration_ms": 203986,
+      "name": "Is What It Is",
+      "url": "https://open.spotify.com/track/2wUvQE1VLMw0jRJVYn7qbt"
     },
     {
       "added_at": "2026-11-20 05:01:01",
@@ -1527,22 +1527,6 @@
     {
       "added_at": "2026-11-20 05:01:01",
       "album": {
-        "name": "Concrete Cowboy",
-        "url": "https://open.spotify.com/album/31tY51KvbFLZbsJ5xIdX5s"
-      },
-      "artists": [
-        {
-          "name": "Rockie Rode",
-          "url": "https://open.spotify.com/artist/51qSyIFxFxgwZVU7zI90rE"
-        }
-      ],
-      "duration_ms": 202546,
-      "name": "Concrete Cowboy",
-      "url": "https://open.spotify.com/track/2cubmkSK7KZDiJ063MzViO"
-    },
-    {
-      "added_at": "2026-11-20 05:01:01",
-      "album": {
         "name": "Anytime, Anyplace, Anyhow",
         "url": "https://open.spotify.com/album/7lKojfIpji0R4yxpxk6qbJ"
       },
@@ -1555,42 +1539,6 @@
       "duration_ms": 227147,
       "name": "Anytime, Anyplace, Anyhow",
       "url": "https://open.spotify.com/track/4DhyEPT1syGLKMnKDo1vvh"
-    },
-    {
-      "added_at": "2026-11-20 05:01:01",
-      "album": {
-        "name": "I Know You Know Me (With Matt Berninger)",
-        "url": "https://open.spotify.com/album/1nwWS8W1o0Q0CE4SL7m8tW"
-      },
-      "artists": [
-        {
-          "name": "Caroline Spence",
-          "url": "https://open.spotify.com/artist/4De2r7QdHl1eZwnEnQ1IzE"
-        },
-        {
-          "name": "Matt Berninger",
-          "url": "https://open.spotify.com/artist/27jRNjIvlUcGN7FBRDnqhp"
-        }
-      ],
-      "duration_ms": 199123,
-      "name": "I Know You Know Me (With Matt Berninger)",
-      "url": "https://open.spotify.com/track/3nQbf8wfMOkKeLRe45kNFc"
-    },
-    {
-      "added_at": "2026-11-20 05:01:01",
-      "album": {
-        "name": "colour in life",
-        "url": "https://open.spotify.com/album/1NqI2jWZ4Mbi9vFHlxiz2A"
-      },
-      "artists": [
-        {
-          "name": "Amistat",
-          "url": "https://open.spotify.com/artist/24gClotFFIb7genYn5C3OU"
-        }
-      ],
-      "duration_ms": 288362,
-      "name": "colour in life",
-      "url": "https://open.spotify.com/track/6MKw0vVRAtO5gs8G96IkQZ"
     },
     {
       "added_at": "2026-11-20 05:01:01",
@@ -1615,6 +1563,58 @@
       "duration_ms": 237884,
       "name": "Ain't As Pretty A Blue",
       "url": "https://open.spotify.com/track/4dLDeBfAKzYuyEGwhTUowJ"
+    },
+    {
+      "added_at": "2026-11-20 05:01:01",
+      "album": {
+        "name": "colour in life",
+        "url": "https://open.spotify.com/album/1NqI2jWZ4Mbi9vFHlxiz2A"
+      },
+      "artists": [
+        {
+          "name": "Amistat",
+          "url": "https://open.spotify.com/artist/24gClotFFIb7genYn5C3OU"
+        }
+      ],
+      "duration_ms": 288362,
+      "name": "colour in life",
+      "url": "https://open.spotify.com/track/6MKw0vVRAtO5gs8G96IkQZ"
+    },
+    {
+      "added_at": "2026-11-20 05:01:01",
+      "album": {
+        "name": "Concrete Cowboy",
+        "url": "https://open.spotify.com/album/31tY51KvbFLZbsJ5xIdX5s"
+      },
+      "artists": [
+        {
+          "name": "Rockie Rode",
+          "url": "https://open.spotify.com/artist/51qSyIFxFxgwZVU7zI90rE"
+        }
+      ],
+      "duration_ms": 202546,
+      "name": "Concrete Cowboy",
+      "url": "https://open.spotify.com/track/2cubmkSK7KZDiJ063MzViO"
+    },
+    {
+      "added_at": "2026-11-20 05:01:01",
+      "album": {
+        "name": "I Know You Know Me (With Matt Berninger)",
+        "url": "https://open.spotify.com/album/1nwWS8W1o0Q0CE4SL7m8tW"
+      },
+      "artists": [
+        {
+          "name": "Caroline Spence",
+          "url": "https://open.spotify.com/artist/4De2r7QdHl1eZwnEnQ1IzE"
+        },
+        {
+          "name": "Matt Berninger",
+          "url": "https://open.spotify.com/artist/27jRNjIvlUcGN7FBRDnqhp"
+        }
+      ],
+      "duration_ms": 199123,
+      "name": "I Know You Know Me (With Matt Berninger)",
+      "url": "https://open.spotify.com/track/3nQbf8wfMOkKeLRe45kNFc"
     },
     {
       "added_at": "2026-11-20 05:01:01",
@@ -1819,22 +1819,6 @@
     {
       "added_at": "2026-11-20 05:01:01",
       "album": {
-        "name": "Dearly Missed",
-        "url": "https://open.spotify.com/album/2Y5moL7gzsUqrcDrjpsqHS"
-      },
-      "artists": [
-        {
-          "name": "Searows",
-          "url": "https://open.spotify.com/artist/0nugNBwdWaptgIAsEtx1It"
-        }
-      ],
-      "duration_ms": 360720,
-      "name": "Dearly Missed",
-      "url": "https://open.spotify.com/track/1FolOCn6zNFCfqMrV7jdWP"
-    },
-    {
-      "added_at": "2026-11-20 05:01:01",
-      "album": {
         "name": "rain",
         "url": "https://open.spotify.com/album/2yxznO5r7m2ut3HjKvgyNA"
       },
@@ -1847,6 +1831,22 @@
       "duration_ms": 254230,
       "name": "rain",
       "url": "https://open.spotify.com/track/3X7bED3gYbZlSPDWOFphnp"
+    },
+    {
+      "added_at": "2026-11-20 05:01:01",
+      "album": {
+        "name": "Dearly Missed",
+        "url": "https://open.spotify.com/album/2Y5moL7gzsUqrcDrjpsqHS"
+      },
+      "artists": [
+        {
+          "name": "Searows",
+          "url": "https://open.spotify.com/artist/0nugNBwdWaptgIAsEtx1It"
+        }
+      ],
+      "duration_ms": 360720,
+      "name": "Dearly Missed",
+      "url": "https://open.spotify.com/track/1FolOCn6zNFCfqMrV7jdWP"
     },
     {
       "added_at": "2026-11-20 05:01:01",
@@ -1915,22 +1915,6 @@
     {
       "added_at": "2026-11-20 05:01:01",
       "album": {
-        "name": "Cinder Block",
-        "url": "https://open.spotify.com/album/2XMx3ZVns6LFVKu3GpAYN6"
-      },
-      "artists": [
-        {
-          "name": "Samia",
-          "url": "https://open.spotify.com/artist/1Uk1GyijF6fSfX4mWq5bfR"
-        }
-      ],
-      "duration_ms": 222310,
-      "name": "Cinder Block",
-      "url": "https://open.spotify.com/track/4ocbhbmq4kUNWFqCEoUOLs"
-    },
-    {
-      "added_at": "2026-11-20 05:01:01",
-      "album": {
         "name": "Never Alone",
         "url": "https://open.spotify.com/album/3JqNfyou9m91bGd9s7HMMU"
       },
@@ -1947,6 +1931,22 @@
       "duration_ms": 143560,
       "name": "Never Alone",
       "url": "https://open.spotify.com/track/19F9zI5CTg1MZAVMA9EQ5P"
+    },
+    {
+      "added_at": "2026-11-20 05:01:01",
+      "album": {
+        "name": "Cinder Block",
+        "url": "https://open.spotify.com/album/2XMx3ZVns6LFVKu3GpAYN6"
+      },
+      "artists": [
+        {
+          "name": "Samia",
+          "url": "https://open.spotify.com/artist/1Uk1GyijF6fSfX4mWq5bfR"
+        }
+      ],
+      "duration_ms": 222310,
+      "name": "Cinder Block",
+      "url": "https://open.spotify.com/track/4ocbhbmq4kUNWFqCEoUOLs"
     },
     {
       "added_at": "2026-11-20 05:01:01",
@@ -2415,22 +2415,6 @@
     {
       "added_at": "2026-11-20 05:01:01",
       "album": {
-        "name": "goodbye",
-        "url": "https://open.spotify.com/album/59txMlbVSKHpifWj0pN5Vq"
-      },
-      "artists": [
-        {
-          "name": "Amistat",
-          "url": "https://open.spotify.com/artist/24gClotFFIb7genYn5C3OU"
-        }
-      ],
-      "duration_ms": 170476,
-      "name": "goodbye",
-      "url": "https://open.spotify.com/track/4CgpqIHgo979yH4gu9AU66"
-    },
-    {
-      "added_at": "2026-11-20 05:01:01",
-      "album": {
         "name": "tell me something",
         "url": "https://open.spotify.com/album/4J18Qe8pwo180j6on9pnmn"
       },
@@ -2463,6 +2447,22 @@
       "duration_ms": 216931,
       "name": "Even God Gets Stuck In Devotion",
       "url": "https://open.spotify.com/track/5ogWb6eQzDSwSf9TkKm6xp"
+    },
+    {
+      "added_at": "2026-11-20 05:01:01",
+      "album": {
+        "name": "goodbye",
+        "url": "https://open.spotify.com/album/59txMlbVSKHpifWj0pN5Vq"
+      },
+      "artists": [
+        {
+          "name": "Amistat",
+          "url": "https://open.spotify.com/artist/24gClotFFIb7genYn5C3OU"
+        }
+      ],
+      "duration_ms": 170476,
+      "name": "goodbye",
+      "url": "https://open.spotify.com/track/4CgpqIHgo979yH4gu9AU66"
     },
     {
       "added_at": "2026-11-20 05:01:01",

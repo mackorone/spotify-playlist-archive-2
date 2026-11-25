@@ -1,12 +1,12 @@
 {
   "description": "This is Jorja Smith. The essential tracks, all in one playlist.",
-  "num_followers": 328750,
+  "num_followers": 328745,
   "original_name": "This Is Jorja Smith",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "awIwgAAAAAAhgUBcangrkRrktTCW4lcM",
+  "snapshot_id": "awOCAAAAAAByh3AdM/Q177rdvRPjZBIF",
   "tracks": [
     {
       "added_at": null,
@@ -407,6 +407,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "With You",
+        "url": "https://open.spotify.com/album/0CcGtpurfGXXiMJrcVJ6YY"
+      },
+      "artists": [
+        {
+          "name": "Jorja Smith",
+          "url": "https://open.spotify.com/artist/1CoZyIx7UvdxT5c8UkMzHd"
+        }
+      ],
+      "duration_ms": 201028,
+      "name": "With You",
+      "url": "https://open.spotify.com/track/5kIRv64ElvSnZgY114lqEW"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Emotional Junglist",
         "url": "https://open.spotify.com/album/513jv6L44NNDZQGSaPNg7S"
       },
@@ -423,22 +439,6 @@
       "duration_ms": 194038,
       "name": "Get Me Down (feat. Jorja Smith)",
       "url": "https://open.spotify.com/track/4s0WWsnbCvEtOjsFo6ZdkR"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "With You",
-        "url": "https://open.spotify.com/album/0CcGtpurfGXXiMJrcVJ6YY"
-      },
-      "artists": [
-        {
-          "name": "Jorja Smith",
-          "url": "https://open.spotify.com/artist/1CoZyIx7UvdxT5c8UkMzHd"
-        }
-      ],
-      "duration_ms": 201028,
-      "name": "With You",
-      "url": "https://open.spotify.com/track/5kIRv64ElvSnZgY114lqEW"
     },
     {
       "added_at": null,
@@ -520,9 +520,9 @@
           "url": "https://open.spotify.com/artist/1CoZyIx7UvdxT5c8UkMzHd"
         }
       ],
-      "duration_ms": 161784,
-      "name": "Dancing",
-      "url": "https://open.spotify.com/track/4rcF5dwIHEVOgQQhva1OOI"
+      "duration_ms": 168750,
+      "name": "For Life",
+      "url": "https://open.spotify.com/track/616ATvSjdoSWGvfMM76Bq6"
     },
     {
       "added_at": null,
@@ -588,9 +588,9 @@
           "url": "https://open.spotify.com/artist/1CoZyIx7UvdxT5c8UkMzHd"
         }
       ],
-      "duration_ms": 168750,
-      "name": "For Life",
-      "url": "https://open.spotify.com/track/616ATvSjdoSWGvfMM76Bq6"
+      "duration_ms": 161784,
+      "name": "Dancing",
+      "url": "https://open.spotify.com/track/4rcF5dwIHEVOgQQhva1OOI"
     },
     {
       "added_at": null,

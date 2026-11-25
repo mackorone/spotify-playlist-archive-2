@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0rCrO4CFRfM.md) - [plain]
 
 > Relax to acoustic versions of your favorite rock songs.
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,103,047 likes - 50 songs - 3 hr 19 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,103,096 likes - 50 songs - 3 hr 19 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -28,8 +28,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0rCrO4CFRfM.md) - [plain]
 | 18 | [Dust in the Wind \- From 'Queen of the Ring \- Music From The Motion Picture'](https://open.spotify.com/track/503JPUMXxOdBet88wQUwg1) | [Corey Taylor](https://open.spotify.com/artist/0nhDd1RWjZ6SDV1Vg1Ku2Q), [Queen of the Ring](https://open.spotify.com/artist/4mH2ZqJf7W6srzzaMdrJDn), [Sumerian Pictures](https://open.spotify.com/artist/1RfDFXf0bswV2Ck1gVzNHW), [Bad Omens](https://open.spotify.com/artist/3Ri4H12KFyu98LMjSoij5V), [Aaron Gilhuis](https://open.spotify.com/artist/5LjsXQ0ex7k6vGw5J1zNRG) | [Dust in the Wind \(From 'Queen of the Ring \- Music From The Motion Picture'\)](https://open.spotify.com/album/1DwoCOyyBFoQTkjE4zSkRq) | 4:18 |
 | 19 | [Teenage Dirtbag \(Acoustic\)](https://open.spotify.com/track/2l2i0FeYCBkK0OdPMuBGeW) | [Wheatus](https://open.spotify.com/artist/4mYFgEjpQT4IKOrjOUKyXu) | [Teenage Dirtbag 2020 / Mope](https://open.spotify.com/album/0lCvikSjJ1QwvHRTfDEs16) | 4:32 |
 | 20 | [How to Save a Life \- Live in NYC \- 2009](https://open.spotify.com/track/3OPVsn0Dk3s8vWhXxnK35p) | [The Fray](https://open.spotify.com/artist/0zOcE3mg9nS6l3yxt1Y0bK) | [Live From Soho](https://open.spotify.com/album/0abkVfZF9JpWbHA1Cm2Jgq) | 4:50 |
-| 21 | [The Reason \- Acoustic](https://open.spotify.com/track/1CobuGL6ysSrfCE2tWcfFU) | [Hoobastank](https://open.spotify.com/artist/2MqhkhX4npxDZ62ObR5ELO) | [The Reason \(Acoustic\) / Right Before Your Eyes](https://open.spotify.com/album/1wPX89HNEWb6FIWcQDlV36) | 3:54 |
-| 22 | [Tears Don't Fall \- Acoustic Version](https://open.spotify.com/track/5fG83KM7CgRmjcKwmBNx2p) | [Bullet For My Valentine](https://open.spotify.com/artist/7iWiAD5LLKyiox2grgfmUT) | [The Poison \(Deluxe Version\)](https://open.spotify.com/album/4uNzDULQ9RAy0nxGaPbCDn) | 4:37 |
+| 21 | [Tears Don't Fall \- Acoustic Version](https://open.spotify.com/track/5fG83KM7CgRmjcKwmBNx2p) | [Bullet For My Valentine](https://open.spotify.com/artist/7iWiAD5LLKyiox2grgfmUT) | [The Poison \(Deluxe Version\)](https://open.spotify.com/album/4uNzDULQ9RAy0nxGaPbCDn) | 4:37 |
+| 22 | [The Reason \- Acoustic](https://open.spotify.com/track/1CobuGL6ysSrfCE2tWcfFU) | [Hoobastank](https://open.spotify.com/artist/2MqhkhX4npxDZ62ObR5ELO) | [The Reason \(Acoustic\) / Right Before Your Eyes](https://open.spotify.com/album/1wPX89HNEWb6FIWcQDlV36) | 3:54 |
 | 23 | [Control \- Acoustic Version](https://open.spotify.com/track/325aNb4eh8HesYlrJmLSMX) | [Puddle Of Mudd](https://open.spotify.com/artist/3dXaa6jwM7B52GZpaJEIr5) | [Come Clean](https://open.spotify.com/album/4oWz3E9jTrBe9sVkiX2sJ5) | 4:07 |
 | 24 | [Wherever You Will Go \- Acoustic](https://open.spotify.com/track/5Tybis9p4M4TX2gJM8iqgh) | [The Calling](https://open.spotify.com/artist/5aMmmNxw4vgpc5XC6hK0zp) | [The Best Of...](https://open.spotify.com/album/0eumbPpzy0UGChIwnCpLpl) | 3:20 |
 | 25 | [Boxes \- Acoustic](https://open.spotify.com/track/09gtDKL49tnLXMwN68D7JO) | [The Goo Goo Dolls](https://open.spotify.com/artist/2sil8z5kiy4r76CRTXxBCA) | [Boxes \(Acoustic\)](https://open.spotify.com/album/7z93UaPhXkm2bMjoWltATK) | 4:22 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0rCrO4CFRfM.md) - [plain]
 | 49 | [Wrong Side Of Heaven \- Acoustic](https://open.spotify.com/track/2pDUQD1PCN7nYNay2G22Qy) | [Five Finger Death Punch](https://open.spotify.com/artist/5t28BP42x2axFnqOOMg3CM) | [Wrong Side Of Heaven \(Acoustic\)](https://open.spotify.com/album/2p7EHDph1VrRTfgF9YpzCQ) | 4:29 |
 | 50 | [Bad Life \- acoustic](https://open.spotify.com/track/5DwJKJ3Gg5UlzsTMpYXkwT) | [Sigrid](https://open.spotify.com/artist/4TrraAsitQKl821DQY42cZ), [Bring Me The Horizon](https://open.spotify.com/artist/1Ffb6ejR6Fe5IamqA5oRUF) | [Bad Life \(acoustic\)](https://open.spotify.com/album/4QheMIrqrXYPKeDfB4TXzI) | 3:40 |
 
-Snapshot ID: `AAAAAP5ojbym3U918PrXZCDUXhsjbMz5`
+Snapshot ID: `AAAAAOUzSltRXGJ3vJ66wDmVYEBJHZEl`

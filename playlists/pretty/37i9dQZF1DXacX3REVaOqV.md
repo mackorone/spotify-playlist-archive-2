@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXacX3REVaOqV.md) - [plain]
 | 99 | [Mountain](https://open.spotify.com/track/6LxIy9MYS2C76HcXph8zFq) | [Lucky](https://open.spotify.com/artist/1FQPIdgxuXaEIYuCbWjTcF), [Thierry Ganz](https://open.spotify.com/artist/3JPH3i903T7TJIF6cWO5yV) | [Mountain](https://open.spotify.com/album/4vGmdK64DMH2W3LgCexMOF) | 3:32 |
 | 100 | [Manhattan](https://open.spotify.com/track/0x4hqWguXOxlO1sEwVXB7V) | [Carlita](https://open.spotify.com/artist/1GVbOnrND8b3eh2JZ4opw8), [SOFI TUKKER](https://open.spotify.com/artist/586uxXMyD5ObPuzjtrzO1Q) | [Manhattan](https://open.spotify.com/album/08aHhaSaB4nkfoQ9Md0k7m) | 3:35 |
 
-Snapshot ID: `AAAAALN7kM+TMgXP+Z+BiojMae93sRDc`
+Snapshot ID: `AAAAABNhWgiD/mL3S70EDV/prQGCeCjz`

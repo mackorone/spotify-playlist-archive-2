@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX74DDhiuyXIl.md) - [plain]
 
 > 回家的路上、獨步的時刻，心情腳下難免沈重，有好聽的歌曲陪伴，會讓人暫時忘了疲倦。
 
-[Spotify](https://open.spotify.com/user/spotify) - 98,943 likes - 75 songs - 5 hr 17 min
+[Spotify](https://open.spotify.com/user/spotify) - 98,962 likes - 75 songs - 5 hr 17 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -38,8 +38,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX74DDhiuyXIl.md) - [plain]
 | 28 | [你就不要想起我](https://open.spotify.com/track/6AQNQq12X7SkN2VEdYhruE) | [Hebe Tien](https://open.spotify.com/artist/14bJhryXGk6H6qlGzwj3W5) | [渺小](https://open.spotify.com/album/0fq5u65BocUH3j9SgIsPUu) | 4:40 |
 | 29 | [天黑請閉眼](https://open.spotify.com/track/0bIbgooxvBkww2ZGeu8VMR) | [Nine Chen](https://open.spotify.com/artist/4MMQmzYiUiuD8VwjrJu3v6), [邱鋒澤 Feng Ze](https://open.spotify.com/artist/6QYehwA9q6UQEMs1Vak0uy) | [天黑請閉眼](https://open.spotify.com/album/4Rx7JsvDZWfL07FV9qchPX) | 4:46 |
 | 30 | [一萬公里外的你](https://open.spotify.com/track/6FIhcAp2lj45eFlUkTriAr) | [Juice Boy](https://open.spotify.com/artist/2PRHe0bqimdQP9pSORGE6H) | [一萬公里外的你](https://open.spotify.com/album/23DF05WD9sISXewi09oS22) | 4:13 |
-| 31 | [做我的初戀](https://open.spotify.com/track/4flk8ZgDFry6o2t0SdKsnB) | [PIZZALI](https://open.spotify.com/artist/5AIqzRLM5XgtjdCjnbvJx7) | [做我的初戀](https://open.spotify.com/album/2lfbi7dCdcCU6cKcKPBUxY) | 3:01 |
-| 32 | [愛情怎麼了嗎](https://open.spotify.com/track/5ZaPc3ILOQT4Qc26AZe9od) | [Crowd Lu](https://open.spotify.com/artist/2JBUyLiFvpFPWdZGqIGYLD) | [愛情怎麼了嗎](https://open.spotify.com/album/16SRsxQho3RdwRnFIQlE40) | 4:08 |
+| 31 | [愛情怎麼了嗎](https://open.spotify.com/track/5ZaPc3ILOQT4Qc26AZe9od) | [Crowd Lu](https://open.spotify.com/artist/2JBUyLiFvpFPWdZGqIGYLD) | [愛情怎麼了嗎](https://open.spotify.com/album/16SRsxQho3RdwRnFIQlE40) | 4:08 |
+| 32 | [做我的初戀](https://open.spotify.com/track/4flk8ZgDFry6o2t0SdKsnB) | [PIZZALI](https://open.spotify.com/artist/5AIqzRLM5XgtjdCjnbvJx7) | [做我的初戀](https://open.spotify.com/album/2lfbi7dCdcCU6cKcKPBUxY) | 3:01 |
 | 33 | [妥协](https://open.spotify.com/track/0FduRtdtCZwAlQdmEjcEiU) | [en王翊恩](https://open.spotify.com/artist/7z7tLLiBfmH0kZ2lNVs8LW) | [妥协](https://open.spotify.com/album/6i4e4s8wp9zZX4DQ3VAClW) | 3:29 |
 | 34 | [受夠](https://open.spotify.com/track/5JLLWtgBLRxpd4MRkGAm74) | [Eric Chou](https://open.spotify.com/artist/5fEQLwq1BWWQNR8GzhOIvi) | [小時候的我們](https://open.spotify.com/album/2GaVDyAX5sgrX5CuWxRhZm) | 5:31 |
 | 35 | [別說再見](https://open.spotify.com/track/1sm6Ex4fKOUsP1xVVaunN9) | [Juice Boy](https://open.spotify.com/artist/2PRHe0bqimdQP9pSORGE6H), [Tyson Yoshi](https://open.spotify.com/artist/3dayhmhJfL4I8w1PuL9MqQ) | [別說再見](https://open.spotify.com/album/1tKinDyHUHG2cwLB2tQWEA) | 3:52 |
@@ -55,8 +55,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX74DDhiuyXIl.md) - [plain]
 | 45 | [那女孩對我說](https://open.spotify.com/track/5Gip2UwE4f8L4MQWsvcvfA) | [Rachel Liang](https://open.spotify.com/artist/4rdSHzO4enUlVxdQeHPGTp) | [\#2019還在聽](https://open.spotify.com/album/0687JPYolanYGONrSkOZtK) | 4:28 |
 | 46 | [想过不止一百遍](https://open.spotify.com/track/0Xld54ZC4WYqTahn8lWn6J) | [LBI利比](https://open.spotify.com/artist/1xMn0bhYRWHDV01mU8gP1J) | [想过不止一百遍](https://open.spotify.com/album/5phB3l1NbFTgPGeYYpLEwW) | 3:15 |
 | 47 | [11](https://open.spotify.com/track/4TJ4AEPBhqj9xYykVBU4GL) | [G.E.M.](https://open.spotify.com/artist/7aRC4L63dBn3CiLDuWaLSI) | [11](https://open.spotify.com/album/0xlWjniRpsQDTfF9mCNGWS) | 3:48 |
-| 48 | [好像](https://open.spotify.com/track/6CQYVujGIV0JdaC8HUbF5x) | [Claire Kuo](https://open.spotify.com/artist/6OiFtK426XJWnOJ2HYlSbf) | [好像](https://open.spotify.com/album/3NeAfxWRfG6dbVquX6Szfb) | 3:37 |
-| 49 | [我們到底算什麼](https://open.spotify.com/track/3SSUUro7FoNAWQEa01xtZY) | [徐暐翔](https://open.spotify.com/artist/2xZkWvVTxC65o3dqETdfPm) | [躍](https://open.spotify.com/album/6BhcCeMEBlIwhafSD05aS8) | 3:47 |
+| 48 | [我們到底算什麼](https://open.spotify.com/track/3SSUUro7FoNAWQEa01xtZY) | [徐暐翔](https://open.spotify.com/artist/2xZkWvVTxC65o3dqETdfPm) | [躍](https://open.spotify.com/album/6BhcCeMEBlIwhafSD05aS8) | 3:47 |
+| 49 | [好像](https://open.spotify.com/track/6CQYVujGIV0JdaC8HUbF5x) | [Claire Kuo](https://open.spotify.com/artist/6OiFtK426XJWnOJ2HYlSbf) | [好像](https://open.spotify.com/album/3NeAfxWRfG6dbVquX6Szfb) | 3:37 |
 | 50 | [雨天](https://open.spotify.com/track/4HfjKPmWKQtMJedOAqVoTr) | [en王翊恩](https://open.spotify.com/artist/7z7tLLiBfmH0kZ2lNVs8LW) | [雨天](https://open.spotify.com/album/4FAPsfP1rwb9lRci8pxOfl) | 3:40 |
 | 51 | [有話沒說](https://open.spotify.com/track/5a59iCKJGGzVqZBDLRBD0J) | [李佳歡](https://open.spotify.com/artist/7sxOGIcUrfCGeTe79YYutH), [Sherman Zhuo](https://open.spotify.com/artist/6Ol8MzcK4ARqC8cTJbFxAw) | [有話沒說](https://open.spotify.com/album/4xGnvis9RtIea8Tx6DKcJI) | 4:25 |
 | 52 | [都是浪漫害的](https://open.spotify.com/track/7lw5s901joNKsEZsRWXzu5) | [Mixer](https://open.spotify.com/artist/4AWa6pcQK9J9aSAN67cLHv) | [都是浪漫害的](https://open.spotify.com/album/6k3Aj8q27ETWzwpb9jG3Np) | 4:08 |
@@ -64,8 +64,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX74DDhiuyXIl.md) - [plain]
 | 54 | [真的傻 \(電影《一吻定情》追愛版主題曲\)](https://open.spotify.com/track/7mCr6Rn5jx04Fisvts97Z3) | [LaLa Hsu](https://open.spotify.com/artist/3dI4Io8XE33J2o04ZwjR0Y) | [真的傻 \(電影《一吻定情》追愛版主題曲\)](https://open.spotify.com/album/1kwz2DPjIizXiCnWz6ru2s) | 4:16 |
 | 55 | [你的情歌 \(電影《你的情歌》主題曲\)](https://open.spotify.com/track/7EzeNbQHT6DHxQty56qsbN) | [TANK 呂建忠](https://open.spotify.com/artist/39LWbzZB6lcrRviPzrAVdZ) | [你的情歌 \(電影《你的情歌》主題曲\)](https://open.spotify.com/album/7Kb83jUcj0vHErIIascKw6) | 4:43 |
 | 56 | [慢一點](https://open.spotify.com/track/3GJz0ScOQdBph0qgWNRcaA) | [Rachel Liang](https://open.spotify.com/artist/4rdSHzO4enUlVxdQeHPGTp) | [情歌比情人還懂](https://open.spotify.com/album/438bdVyICtXLEOqjneVJwd) | 3:53 |
-| 57 | [沒事的](https://open.spotify.com/track/7gg3nOKeyNQjBLKRHVEy3l) | [Ricky Hsiao](https://open.spotify.com/artist/0E6oEhZZtQvj811iXQFLrB) | [沒事的](https://open.spotify.com/album/7fGKnOYEvizrbor8VsHAGw) | 4:13 |
-| 58 | [黑夜狂奔](https://open.spotify.com/track/4rCpwGXcaoNejahMl7BbFQ) | [告五人](https://open.spotify.com/artist/6xErgeZYatiaQ36SB5bvi8) | [我們就像那些要命的傻瓜](https://open.spotify.com/album/3ZswervhsAwTbWS8Z1c4WB) | 5:20 |
+| 57 | [黑夜狂奔](https://open.spotify.com/track/4rCpwGXcaoNejahMl7BbFQ) | [告五人](https://open.spotify.com/artist/6xErgeZYatiaQ36SB5bvi8) | [我們就像那些要命的傻瓜](https://open.spotify.com/album/3ZswervhsAwTbWS8Z1c4WB) | 5:20 |
+| 58 | [沒事的](https://open.spotify.com/track/7gg3nOKeyNQjBLKRHVEy3l) | [Ricky Hsiao](https://open.spotify.com/artist/0E6oEhZZtQvj811iXQFLrB) | [沒事的](https://open.spotify.com/album/7fGKnOYEvizrbor8VsHAGw) | 4:13 |
 | 59 | [愛上你等於愛上寂寞](https://open.spotify.com/track/1g2l9OvadMo1MJvjFlBZ57) | [A\-Lin](https://open.spotify.com/artist/28gf2piFx6cAKOMIwcky5a) | [不如在歌裡遇見](https://open.spotify.com/album/7bJpER8m82kNz2y2vM7PC5) | 4:09 |
 | 60 | [你不會一輩子的愛上我](https://open.spotify.com/track/5FbxrTeMrO3zbLe3uLbYH7) | [Tyson Yoshi](https://open.spotify.com/artist/3dayhmhJfL4I8w1PuL9MqQ) | [你不會一輩子的愛上我](https://open.spotify.com/album/0FjMxaIatcw3nOgc9osLif) | 3:17 |
 | 61 | [風](https://open.spotify.com/track/2nwRk2QTUrMPfDcpISEvPY) | [芒果醬 Mango Jump](https://open.spotify.com/artist/1t1GIb4bb1lARAXwWEekUN) | [風](https://open.spotify.com/album/5iWWdVYZvtY3g1RdF3V1qJ) | 4:12 |
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX74DDhiuyXIl.md) - [plain]
 | 74 | [傘下 \- 電視劇《歡喜來逗陣》片尾曲](https://open.spotify.com/track/0oydZSHL9DztppHaWJdDaB) | [Phil Chang](https://open.spotify.com/artist/7g65zUBhUAbiu4pAcoyWRd) | [張宇戲劇主題曲精選 \(2008\-2011\)](https://open.spotify.com/album/5Y7M1SLHMtiZ9WW3TT4ufe) | 4:39 |
 | 75 | [天真有邪](https://open.spotify.com/track/1MFmvIDW11eY3Y9nlFWS26) | [Yoga Lin](https://open.spotify.com/artist/1GPoTgvXd5OqZMF1akOsV2) | [今日營業中](https://open.spotify.com/album/1mrrKAhUxCAIrTDLTYFGnA) | 5:30 |
 
-Snapshot ID: `AAAAAHacpdlhrVS5qPyXPS0c3TaTnXNN`
+Snapshot ID: `AAAAALmd/ziUCSSR/bwSjpJe5767iSG7`

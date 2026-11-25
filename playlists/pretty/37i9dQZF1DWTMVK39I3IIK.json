@@ -6,7 +6,7 @@
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAKITfTmokNl5B1q1LHAooRwb/P35",
+  "snapshot_id": "AAAAADM+blNhFBLO6+I0IlnaA8aOGtsq",
   "tracks": [
     {
       "added_at": "2026-11-13 11:05:59",
@@ -187,22 +187,6 @@
     {
       "added_at": "2026-11-13 11:05:59",
       "album": {
-        "name": "Hvor du er",
-        "url": "https://open.spotify.com/album/5827zWSldtqm71hwFcsQml"
-      },
-      "artists": [
-        {
-          "name": "dreng&piger",
-          "url": "https://open.spotify.com/artist/07JRf49TUGMnobtGeXPY73"
-        }
-      ],
-      "duration_ms": 145778,
-      "name": "Hvor du er",
-      "url": "https://open.spotify.com/track/5WsRf49ETqbpwOTBcufFbQ"
-    },
-    {
-      "added_at": "2026-11-13 11:05:59",
-      "album": {
         "name": "K\u00e6restersangen",
         "url": "https://open.spotify.com/album/6U78P29GTyW36jlGEmgW80"
       },
@@ -215,6 +199,22 @@
       "duration_ms": 217078,
       "name": "K\u00e6restersangen",
       "url": "https://open.spotify.com/track/1TMs2va0VXwo1I9ug5PJdL"
+    },
+    {
+      "added_at": "2026-11-13 11:05:59",
+      "album": {
+        "name": "Hvor du er",
+        "url": "https://open.spotify.com/album/5827zWSldtqm71hwFcsQml"
+      },
+      "artists": [
+        {
+          "name": "dreng&piger",
+          "url": "https://open.spotify.com/artist/07JRf49TUGMnobtGeXPY73"
+        }
+      ],
+      "duration_ms": 145778,
+      "name": "Hvor du er",
+      "url": "https://open.spotify.com/track/5WsRf49ETqbpwOTBcufFbQ"
     },
     {
       "added_at": "2026-11-13 11:05:59",
@@ -703,6 +703,22 @@
     {
       "added_at": "2026-11-13 11:05:59",
       "album": {
+        "name": "Going about my day",
+        "url": "https://open.spotify.com/album/1vXJSMCiSd14fGi6rIJQMV"
+      },
+      "artists": [
+        {
+          "name": "Lola Hammerich",
+          "url": "https://open.spotify.com/artist/2wQsqVsADuAKMfEbg3ey40"
+        }
+      ],
+      "duration_ms": 357000,
+      "name": "Going about my day",
+      "url": "https://open.spotify.com/track/1l7oi3FZ8KaFtxDMDyuj14"
+    },
+    {
+      "added_at": "2026-11-13 11:05:59",
+      "album": {
         "name": "Hygge & Hustle",
         "url": "https://open.spotify.com/album/2Srx5oXpWlK50X7XF4RYpb"
       },
@@ -743,22 +759,6 @@
     {
       "added_at": "2026-11-13 11:05:59",
       "album": {
-        "name": "Going about my day",
-        "url": "https://open.spotify.com/album/1vXJSMCiSd14fGi6rIJQMV"
-      },
-      "artists": [
-        {
-          "name": "Lola Hammerich",
-          "url": "https://open.spotify.com/artist/2wQsqVsADuAKMfEbg3ey40"
-        }
-      ],
-      "duration_ms": 357000,
-      "name": "Going about my day",
-      "url": "https://open.spotify.com/track/1l7oi3FZ8KaFtxDMDyuj14"
-    },
-    {
-      "added_at": "2026-11-13 11:05:59",
-      "album": {
         "name": "Det sker alt for tit",
         "url": "https://open.spotify.com/album/57eFbZtnhu5KxEP6aUiGvB"
       },
@@ -775,22 +775,6 @@
     {
       "added_at": "2026-11-13 11:05:59",
       "album": {
-        "name": "Alt hvad jeg vil",
-        "url": "https://open.spotify.com/album/1TqxFYrfpBc3OYJTPatQhF"
-      },
-      "artists": [
-        {
-          "name": "Von Quar",
-          "url": "https://open.spotify.com/artist/5B7f5pkLEMpnY20go77xX3"
-        }
-      ],
-      "duration_ms": 224980,
-      "name": "Alt hvad jeg vil",
-      "url": "https://open.spotify.com/track/7LXkZBJYXjXIYCV9sUpNNk"
-    },
-    {
-      "added_at": "2026-11-13 11:05:59",
-      "album": {
         "name": "S\u00f8vnl\u00f8s",
         "url": "https://open.spotify.com/album/7DmRBNaNbulvvaYJnKPoiN"
       },
@@ -803,6 +787,22 @@
       "duration_ms": 149304,
       "name": "S\u00f8vnl\u00f8s",
       "url": "https://open.spotify.com/track/5Yl5GYYL1r9BYQMJCR0rMN"
+    },
+    {
+      "added_at": "2026-11-13 11:05:59",
+      "album": {
+        "name": "Alt hvad jeg vil",
+        "url": "https://open.spotify.com/album/1TqxFYrfpBc3OYJTPatQhF"
+      },
+      "artists": [
+        {
+          "name": "Von Quar",
+          "url": "https://open.spotify.com/artist/5B7f5pkLEMpnY20go77xX3"
+        }
+      ],
+      "duration_ms": 224980,
+      "name": "Alt hvad jeg vil",
+      "url": "https://open.spotify.com/track/7LXkZBJYXjXIYCV9sUpNNk"
     },
     {
       "added_at": "2026-11-13 11:05:59",
@@ -907,22 +907,6 @@
     {
       "added_at": "2026-11-13 11:05:59",
       "album": {
-        "name": "N\u00e5r Vi Taler Om Solen",
-        "url": "https://open.spotify.com/album/3ZRtlOcWoUI8tZZp0gb6fS"
-      },
-      "artists": [
-        {
-          "name": "\u00d8sten",
-          "url": "https://open.spotify.com/artist/0dMc2FDDeU7OzAn5EsYKuU"
-        }
-      ],
-      "duration_ms": 197848,
-      "name": "Violetbl\u00e5",
-      "url": "https://open.spotify.com/track/7bIpmmq4AEIE7TwmETUvKa"
-    },
-    {
-      "added_at": "2026-11-13 11:05:59",
-      "album": {
         "name": "Jeg h\u00e5ber (feat. Mekdes)",
         "url": "https://open.spotify.com/album/6kIp7hgt0wpyZheKKklQrG"
       },
@@ -955,6 +939,22 @@
       "duration_ms": 195777,
       "name": "En Stor Lykkelig Familie",
       "url": "https://open.spotify.com/track/4djG0CzBPUSugXvokqz3mr"
+    },
+    {
+      "added_at": "2026-11-13 11:05:59",
+      "album": {
+        "name": "N\u00e5r Vi Taler Om Solen",
+        "url": "https://open.spotify.com/album/3ZRtlOcWoUI8tZZp0gb6fS"
+      },
+      "artists": [
+        {
+          "name": "\u00d8sten",
+          "url": "https://open.spotify.com/artist/0dMc2FDDeU7OzAn5EsYKuU"
+        }
+      ],
+      "duration_ms": 197848,
+      "name": "Violetbl\u00e5",
+      "url": "https://open.spotify.com/track/7bIpmmq4AEIE7TwmETUvKa"
     },
     {
       "added_at": "2026-11-13 11:05:59",
@@ -1063,6 +1063,22 @@
     {
       "added_at": "2026-11-13 11:05:59",
       "album": {
+        "name": "Uendelighed",
+        "url": "https://open.spotify.com/album/3kBaB5xqZQj2Qtq3WG5HRX"
+      },
+      "artists": [
+        {
+          "name": "Ella Augusta",
+          "url": "https://open.spotify.com/artist/77Y8znH6FsXmoGzwxbFlOz"
+        }
+      ],
+      "duration_ms": 173442,
+      "name": "Uendelighed",
+      "url": "https://open.spotify.com/track/21O5X4CcPTXfeD5CYZJJ7Q"
+    },
+    {
+      "added_at": "2026-11-13 11:05:59",
+      "album": {
         "name": "Var det dig, der var derinde?",
         "url": "https://open.spotify.com/album/4oQX9QIAhLMpqUEBEwomWb"
       },
@@ -1079,22 +1095,6 @@
       "duration_ms": 255223,
       "name": "Var det dig, der var derinde?",
       "url": "https://open.spotify.com/track/4TxZbbcL8jAqjuonT6CUnJ"
-    },
-    {
-      "added_at": "2026-11-13 11:05:59",
-      "album": {
-        "name": "Uendelighed",
-        "url": "https://open.spotify.com/album/3kBaB5xqZQj2Qtq3WG5HRX"
-      },
-      "artists": [
-        {
-          "name": "Ella Augusta",
-          "url": "https://open.spotify.com/artist/77Y8znH6FsXmoGzwxbFlOz"
-        }
-      ],
-      "duration_ms": 173442,
-      "name": "Uendelighed",
-      "url": "https://open.spotify.com/track/21O5X4CcPTXfeD5CYZJJ7Q"
     },
     {
       "added_at": "2026-11-13 11:05:59",

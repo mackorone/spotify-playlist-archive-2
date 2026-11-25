@@ -1,12 +1,12 @@
 {
   "description": "Lagu-lagu Pop untuk teman bersantai.",
-  "num_followers": 498486,
+  "num_followers": 498458,
   "original_name": "Santai Sejenak",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAH8G6KPLZV0q82V8fAgU3eEtqIUp",
+  "snapshot_id": "AAAAABljOVhBmNCY3qoNOexg9U+MmiQ8",
   "tracks": [
     {
       "added_at": "2026-02-27 14:15:43",
@@ -747,26 +747,6 @@
     {
       "added_at": "2026-02-27 14:15:43",
       "album": {
-        "name": "Marion",
-        "url": "https://open.spotify.com/album/0YDzTzUpaEBrltZExIKqKz"
-      },
-      "artists": [
-        {
-          "name": "Marion Jola",
-          "url": "https://open.spotify.com/artist/5Bh3L78YDNSWljRR1JO5C5"
-        },
-        {
-          "name": "Laleilmanino",
-          "url": "https://open.spotify.com/artist/3Wf4i7kB01QI2wQlEgxKFm"
-        }
-      ],
-      "duration_ms": 221381,
-      "name": "Rayu",
-      "url": "https://open.spotify.com/track/4rAWADK2zYdjx2ar2Hp1C8"
-    },
-    {
-      "added_at": "2026-02-27 14:15:43",
-      "album": {
         "name": "Badai Telah Berlalu",
         "url": "https://open.spotify.com/album/1p2jwOWf4I5rYGswXLKJR9"
       },
@@ -787,6 +767,26 @@
       "duration_ms": 295542,
       "name": "Badai Telah Berlalu",
       "url": "https://open.spotify.com/track/2zZgfxFyDHDHJzGrs4b9es"
+    },
+    {
+      "added_at": "2026-02-27 14:15:43",
+      "album": {
+        "name": "Marion",
+        "url": "https://open.spotify.com/album/0YDzTzUpaEBrltZExIKqKz"
+      },
+      "artists": [
+        {
+          "name": "Marion Jola",
+          "url": "https://open.spotify.com/artist/5Bh3L78YDNSWljRR1JO5C5"
+        },
+        {
+          "name": "Laleilmanino",
+          "url": "https://open.spotify.com/artist/3Wf4i7kB01QI2wQlEgxKFm"
+        }
+      ],
+      "duration_ms": 221381,
+      "name": "Rayu",
+      "url": "https://open.spotify.com/track/4rAWADK2zYdjx2ar2Hp1C8"
     },
     {
       "added_at": "2026-02-27 14:15:43",

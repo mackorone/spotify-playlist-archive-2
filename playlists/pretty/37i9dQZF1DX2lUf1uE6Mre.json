@@ -1,12 +1,12 @@
 {
   "description": "Die Playlist zur Wasserpfeife. Cover: Shirin David, Summer Cem",
-  "num_followers": 905485,
+  "num_followers": 905456,
   "original_name": "Shisha Club",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAP4qZ5ffiRv1GHU6qabvyi1nTHA1",
+  "snapshot_id": "AAAAAGrNCuDl361uuWZoB1bBUWaomjU3",
   "tracks": [
     {
       "added_at": "2026-11-16 16:43:22",
@@ -247,22 +247,6 @@
     {
       "added_at": "2026-11-16 16:43:22",
       "album": {
-        "name": "Coupe",
-        "url": "https://open.spotify.com/album/5pkv8faeJtfbAxTE7zqSK1"
-      },
-      "artists": [
-        {
-          "name": "Coldyaa",
-          "url": "https://open.spotify.com/artist/0cNwa2pvmurQR8ayUirAVW"
-        }
-      ],
-      "duration_ms": 97482,
-      "name": "Coupe",
-      "url": "https://open.spotify.com/track/6cW9a8zfRF4t7hVcW5PFCo"
-    },
-    {
-      "added_at": "2026-11-16 16:43:22",
-      "album": {
         "name": "HYAT",
         "url": "https://open.spotify.com/album/4VjkWLgSYG48sOxXu7aX8b"
       },
@@ -275,6 +259,22 @@
       "duration_ms": 165372,
       "name": "GHETTOGIRL",
       "url": "https://open.spotify.com/track/0G5x5rALxKOkwicMjKta79"
+    },
+    {
+      "added_at": "2026-11-16 16:43:22",
+      "album": {
+        "name": "Coupe",
+        "url": "https://open.spotify.com/album/5pkv8faeJtfbAxTE7zqSK1"
+      },
+      "artists": [
+        {
+          "name": "Coldyaa",
+          "url": "https://open.spotify.com/artist/0cNwa2pvmurQR8ayUirAVW"
+        }
+      ],
+      "duration_ms": 97482,
+      "name": "Coupe",
+      "url": "https://open.spotify.com/track/6cW9a8zfRF4t7hVcW5PFCo"
     },
     {
       "added_at": "2026-11-16 16:43:22",
@@ -407,26 +407,6 @@
     {
       "added_at": "2026-11-16 16:43:22",
       "album": {
-        "name": "STARBOYZ",
-        "url": "https://open.spotify.com/album/1GRCiDDDgMNf3jWnM9efjJ"
-      },
-      "artists": [
-        {
-          "name": "Jazeek",
-          "url": "https://open.spotify.com/artist/1E8mXBWN7AXZCOPYbOky4J"
-        },
-        {
-          "name": "Luciano",
-          "url": "https://open.spotify.com/artist/3CJKkU0XuElRT1z8rEtIYg"
-        }
-      ],
-      "duration_ms": 152186,
-      "name": "GYALDEM",
-      "url": "https://open.spotify.com/track/3L3gjaGUsqpvWxi17lFLL9"
-    },
-    {
-      "added_at": "2026-11-16 16:43:22",
-      "album": {
         "name": "Ghetto Superstars",
         "url": "https://open.spotify.com/album/3iAU42MwjGxRtUf5HtaWUH"
       },
@@ -447,18 +427,22 @@
     {
       "added_at": "2026-11-16 16:43:22",
       "album": {
-        "name": "Erinnerung",
-        "url": "https://open.spotify.com/album/6vsV5GUrK6qjQiLNQ3anfh"
+        "name": "STARBOYZ",
+        "url": "https://open.spotify.com/album/1GRCiDDDgMNf3jWnM9efjJ"
       },
       "artists": [
         {
-          "name": "Dardan",
-          "url": "https://open.spotify.com/artist/3pjq2pDV9RR6VY55wBjVnp"
+          "name": "Jazeek",
+          "url": "https://open.spotify.com/artist/1E8mXBWN7AXZCOPYbOky4J"
+        },
+        {
+          "name": "Luciano",
+          "url": "https://open.spotify.com/artist/3CJKkU0XuElRT1z8rEtIYg"
         }
       ],
-      "duration_ms": 184093,
-      "name": "Erinnerung",
-      "url": "https://open.spotify.com/track/3ZytSzc7WgFeXLuGQjwuwr"
+      "duration_ms": 152186,
+      "name": "GYALDEM",
+      "url": "https://open.spotify.com/track/3L3gjaGUsqpvWxi17lFLL9"
     },
     {
       "added_at": "2026-11-16 16:43:22",
@@ -475,6 +459,22 @@
       "duration_ms": 141918,
       "name": "Tonight",
       "url": "https://open.spotify.com/track/57ZUOsF6vCae0j2OCSk0nn"
+    },
+    {
+      "added_at": "2026-11-16 16:43:22",
+      "album": {
+        "name": "Erinnerung",
+        "url": "https://open.spotify.com/album/6vsV5GUrK6qjQiLNQ3anfh"
+      },
+      "artists": [
+        {
+          "name": "Dardan",
+          "url": "https://open.spotify.com/artist/3pjq2pDV9RR6VY55wBjVnp"
+        }
+      ],
+      "duration_ms": 184093,
+      "name": "Erinnerung",
+      "url": "https://open.spotify.com/track/3ZytSzc7WgFeXLuGQjwuwr"
     },
     {
       "added_at": "2026-11-16 16:43:22",
@@ -527,26 +527,6 @@
     {
       "added_at": "2026-11-16 16:43:22",
       "album": {
-        "name": "Vermisse",
-        "url": "https://open.spotify.com/album/0MyJNG4dGUzXMOKRHQ20OB"
-      },
-      "artists": [
-        {
-          "name": "Dardan",
-          "url": "https://open.spotify.com/artist/3pjq2pDV9RR6VY55wBjVnp"
-        },
-        {
-          "name": "Azet",
-          "url": "https://open.spotify.com/artist/39KEQQAG9JhIt71g9NEVhh"
-        }
-      ],
-      "duration_ms": 154653,
-      "name": "Vermisse",
-      "url": "https://open.spotify.com/track/0DAe8XAFqCfdL2F649pgN0"
-    },
-    {
-      "added_at": "2026-11-16 16:43:22",
-      "album": {
         "name": "Que pasa",
         "url": "https://open.spotify.com/album/3AXzv1siNozGI4AOaKuv13"
       },
@@ -567,6 +547,26 @@
       "duration_ms": 157377,
       "name": "Que pasa",
       "url": "https://open.spotify.com/track/4fH8BbJKlb5jnmmXDroWe1"
+    },
+    {
+      "added_at": "2026-11-16 16:43:22",
+      "album": {
+        "name": "Vermisse",
+        "url": "https://open.spotify.com/album/0MyJNG4dGUzXMOKRHQ20OB"
+      },
+      "artists": [
+        {
+          "name": "Dardan",
+          "url": "https://open.spotify.com/artist/3pjq2pDV9RR6VY55wBjVnp"
+        },
+        {
+          "name": "Azet",
+          "url": "https://open.spotify.com/artist/39KEQQAG9JhIt71g9NEVhh"
+        }
+      ],
+      "duration_ms": 154653,
+      "name": "Vermisse",
+      "url": "https://open.spotify.com/track/0DAe8XAFqCfdL2F649pgN0"
     },
     {
       "added_at": "2026-11-16 16:43:22",
@@ -603,26 +603,6 @@
       "duration_ms": 149061,
       "name": "Meine Welt",
       "url": "https://open.spotify.com/track/00m8Dz5zDd1joPYxkHGKEl"
-    },
-    {
-      "added_at": "2026-11-16 16:43:22",
-      "album": {
-        "name": "PARFUM",
-        "url": "https://open.spotify.com/album/6IJCERv7XJRidC0wCqPmBq"
-      },
-      "artists": [
-        {
-          "name": "Jazeek",
-          "url": "https://open.spotify.com/artist/1E8mXBWN7AXZCOPYbOky4J"
-        },
-        {
-          "name": "Shindy",
-          "url": "https://open.spotify.com/artist/5j21TGkrNEAJe3gG9VlS34"
-        }
-      ],
-      "duration_ms": 160863,
-      "name": "PARFUM",
-      "url": "https://open.spotify.com/track/7f4L1SHhVir0UxPC2sKidp"
     },
     {
       "added_at": "2026-11-16 16:43:22",
@@ -667,18 +647,22 @@
     {
       "added_at": "2026-11-16 16:43:22",
       "album": {
-        "name": "BANGBANGBANG",
-        "url": "https://open.spotify.com/album/0qH4jwehlxPZ1iujCmcBaX"
+        "name": "PARFUM",
+        "url": "https://open.spotify.com/album/6IJCERv7XJRidC0wCqPmBq"
       },
       "artists": [
         {
-          "name": "CANEY030",
-          "url": "https://open.spotify.com/artist/0ZqNAlpzFTJI4tyK4UwJE2"
+          "name": "Jazeek",
+          "url": "https://open.spotify.com/artist/1E8mXBWN7AXZCOPYbOky4J"
+        },
+        {
+          "name": "Shindy",
+          "url": "https://open.spotify.com/artist/5j21TGkrNEAJe3gG9VlS34"
         }
       ],
-      "duration_ms": 132186,
-      "name": "BANGBANGBANG",
-      "url": "https://open.spotify.com/track/2V8HuXQLm9RaHJdfGLYnym"
+      "duration_ms": 160863,
+      "name": "PARFUM",
+      "url": "https://open.spotify.com/track/7f4L1SHhVir0UxPC2sKidp"
     },
     {
       "added_at": "2026-11-16 16:43:22",
@@ -699,18 +683,18 @@
     {
       "added_at": "2026-11-16 16:43:22",
       "album": {
-        "name": "Ballon d'Or",
-        "url": "https://open.spotify.com/album/6m5qtGdEimUmtcLiDNKPEe"
+        "name": "BANGBANGBANG",
+        "url": "https://open.spotify.com/album/0qH4jwehlxPZ1iujCmcBaX"
       },
       "artists": [
         {
-          "name": "Sosa La M",
-          "url": "https://open.spotify.com/artist/6bM6rpwjhvxuKSQ2OJ2eQC"
+          "name": "CANEY030",
+          "url": "https://open.spotify.com/artist/0ZqNAlpzFTJI4tyK4UwJE2"
         }
       ],
-      "duration_ms": 112400,
-      "name": "Ballon d'Or",
-      "url": "https://open.spotify.com/track/27ozli2KWtDzTt86BuaRBq"
+      "duration_ms": 132186,
+      "name": "BANGBANGBANG",
+      "url": "https://open.spotify.com/track/2V8HuXQLm9RaHJdfGLYnym"
     },
     {
       "added_at": "2026-11-16 16:43:22",
@@ -731,6 +715,22 @@
       "duration_ms": 169160,
       "name": "Love all night",
       "url": "https://open.spotify.com/track/5VCMfmkWKmROl2xnDA5wus"
+    },
+    {
+      "added_at": "2026-11-16 16:43:22",
+      "album": {
+        "name": "Ballon d'Or",
+        "url": "https://open.spotify.com/album/6m5qtGdEimUmtcLiDNKPEe"
+      },
+      "artists": [
+        {
+          "name": "Sosa La M",
+          "url": "https://open.spotify.com/artist/6bM6rpwjhvxuKSQ2OJ2eQC"
+        }
+      ],
+      "duration_ms": 112400,
+      "name": "Ballon d'Or",
+      "url": "https://open.spotify.com/track/27ozli2KWtDzTt86BuaRBq"
     },
     {
       "added_at": "2026-11-16 16:43:22",
@@ -1059,26 +1059,6 @@
     {
       "added_at": "2026-11-16 16:43:22",
       "album": {
-        "name": "ICE",
-        "url": "https://open.spotify.com/album/2EZhgvO9ff4pxyfeLp3B0G"
-      },
-      "artists": [
-        {
-          "name": "MERO",
-          "url": "https://open.spotify.com/artist/5wyWp867LWGjFmYZXVSFnZ"
-        },
-        {
-          "name": "Amo",
-          "url": "https://open.spotify.com/artist/3F2BUPEkX9IDaRYAeJN0Gh"
-        }
-      ],
-      "duration_ms": 139000,
-      "name": "ICE",
-      "url": "https://open.spotify.com/track/2ecao7k4l0ADD4ZANUkQDr"
-    },
-    {
-      "added_at": "2026-11-16 16:43:22",
-      "album": {
         "name": "PIRATE FR\u20ac\u20ac$T\u00a5L\u00a3",
         "url": "https://open.spotify.com/album/1PPrUd92XT9VMU6S6J02YN"
       },
@@ -1099,6 +1079,26 @@
       "duration_ms": 123675,
       "name": "PIRATE FR\u20ac\u20ac$T\u00a5L\u00a3",
       "url": "https://open.spotify.com/track/1MTM3zSGU0ZLVOoVFHbO3q"
+    },
+    {
+      "added_at": "2026-11-16 16:43:22",
+      "album": {
+        "name": "ICE",
+        "url": "https://open.spotify.com/album/2EZhgvO9ff4pxyfeLp3B0G"
+      },
+      "artists": [
+        {
+          "name": "MERO",
+          "url": "https://open.spotify.com/artist/5wyWp867LWGjFmYZXVSFnZ"
+        },
+        {
+          "name": "Amo",
+          "url": "https://open.spotify.com/artist/3F2BUPEkX9IDaRYAeJN0Gh"
+        }
+      ],
+      "duration_ms": 139000,
+      "name": "ICE",
+      "url": "https://open.spotify.com/track/2ecao7k4l0ADD4ZANUkQDr"
     },
     {
       "added_at": "2026-11-16 16:43:22",
@@ -1295,6 +1295,22 @@
     {
       "added_at": "2026-11-16 16:43:22",
       "album": {
+        "name": "BRITNEY SPEARS",
+        "url": "https://open.spotify.com/album/6MPAjfI5jiGaxj4mXXDvP1"
+      },
+      "artists": [
+        {
+          "name": "reezy",
+          "url": "https://open.spotify.com/artist/1ul8iLt2WnFe2UIyovjg7q"
+        }
+      ],
+      "duration_ms": 169384,
+      "name": "BRITNEY SPEARS",
+      "url": "https://open.spotify.com/track/2k7TcgDkB97syfrMfJZiFW"
+    },
+    {
+      "added_at": "2026-11-16 16:43:22",
+      "album": {
         "name": "Mungu",
         "url": "https://open.spotify.com/album/02PvRwFugzKFW86LVW5zgJ"
       },
@@ -1311,22 +1327,6 @@
       "duration_ms": 144080,
       "name": "Mungu",
       "url": "https://open.spotify.com/track/3tEQit2qjqSVcjeiXEm75A"
-    },
-    {
-      "added_at": "2026-11-16 16:43:22",
-      "album": {
-        "name": "BRITNEY SPEARS",
-        "url": "https://open.spotify.com/album/6MPAjfI5jiGaxj4mXXDvP1"
-      },
-      "artists": [
-        {
-          "name": "reezy",
-          "url": "https://open.spotify.com/artist/1ul8iLt2WnFe2UIyovjg7q"
-        }
-      ],
-      "duration_ms": 169384,
-      "name": "BRITNEY SPEARS",
-      "url": "https://open.spotify.com/track/2k7TcgDkB97syfrMfJZiFW"
     },
     {
       "added_at": "2026-11-16 16:43:22",
@@ -1383,26 +1383,6 @@
     {
       "added_at": "2026-11-16 16:43:22",
       "album": {
-        "name": "Highlight",
-        "url": "https://open.spotify.com/album/60XndUjPqFimUaGzaKmlgS"
-      },
-      "artists": [
-        {
-          "name": "Dardan",
-          "url": "https://open.spotify.com/artist/3pjq2pDV9RR6VY55wBjVnp"
-        },
-        {
-          "name": "Jamin",
-          "url": "https://open.spotify.com/artist/742hF8NzfLAfwg7pwSh1x9"
-        }
-      ],
-      "duration_ms": 184453,
-      "name": "Highlight",
-      "url": "https://open.spotify.com/track/1ivw4hEEh8sUHcqjmuYnZ6"
-    },
-    {
-      "added_at": "2026-11-16 16:43:22",
-      "album": {
         "name": "To The Sky",
         "url": "https://open.spotify.com/album/0thEH6s5KK3D4yJz1ss6Ep"
       },
@@ -1419,6 +1399,26 @@
       "duration_ms": 169004,
       "name": "To The Sky",
       "url": "https://open.spotify.com/track/6vHWANJBLPKJLxo3hc4JlA"
+    },
+    {
+      "added_at": "2026-11-16 16:43:22",
+      "album": {
+        "name": "Highlight",
+        "url": "https://open.spotify.com/album/60XndUjPqFimUaGzaKmlgS"
+      },
+      "artists": [
+        {
+          "name": "Dardan",
+          "url": "https://open.spotify.com/artist/3pjq2pDV9RR6VY55wBjVnp"
+        },
+        {
+          "name": "Jamin",
+          "url": "https://open.spotify.com/artist/742hF8NzfLAfwg7pwSh1x9"
+        }
+      ],
+      "duration_ms": 184453,
+      "name": "Highlight",
+      "url": "https://open.spotify.com/track/1ivw4hEEh8sUHcqjmuYnZ6"
     },
     {
       "added_at": "2026-11-16 16:43:22",
@@ -1543,6 +1543,22 @@
     {
       "added_at": "2026-11-16 16:43:22",
       "album": {
+        "name": "Day N Nite",
+        "url": "https://open.spotify.com/album/6dldeOwW0wqxeiRA7wBK8e"
+      },
+      "artists": [
+        {
+          "name": "Monet192",
+          "url": "https://open.spotify.com/artist/60uPSVM3svOL8kZ3Wkb3Zw"
+        }
+      ],
+      "duration_ms": 143578,
+      "name": "Day N Nite",
+      "url": "https://open.spotify.com/track/7tx8VNPnyTIX8nfehbbdha"
+    },
+    {
+      "added_at": "2026-11-16 16:43:22",
+      "album": {
         "name": "REDE",
         "url": "https://open.spotify.com/album/1HoueopEdCizCdy1VSe4BU"
       },
@@ -1563,18 +1579,18 @@
     {
       "added_at": "2026-11-16 16:43:22",
       "album": {
-        "name": "Day N Nite",
-        "url": "https://open.spotify.com/album/6dldeOwW0wqxeiRA7wBK8e"
+        "name": "Luftkuss",
+        "url": "https://open.spotify.com/album/2dAs0KawfQSD9DgNdjOCtO"
       },
       "artists": [
         {
-          "name": "Monet192",
-          "url": "https://open.spotify.com/artist/60uPSVM3svOL8kZ3Wkb3Zw"
+          "name": "Ceren",
+          "url": "https://open.spotify.com/artist/6sgeY4vovk7KfxVwiu2V9E"
         }
       ],
-      "duration_ms": 143578,
-      "name": "Day N Nite",
-      "url": "https://open.spotify.com/track/7tx8VNPnyTIX8nfehbbdha"
+      "duration_ms": 113761,
+      "name": "Luftkuss",
+      "url": "https://open.spotify.com/track/2BiDON4uyW5VvPXJN5IOpZ"
     },
     {
       "added_at": "2026-11-16 16:43:22",
@@ -1595,22 +1611,6 @@
       "duration_ms": 166896,
       "name": "Art Attack",
       "url": "https://open.spotify.com/track/5BlflGhvAxyr8dC8eoJ97Y"
-    },
-    {
-      "added_at": "2026-11-16 16:43:22",
-      "album": {
-        "name": "Luftkuss",
-        "url": "https://open.spotify.com/album/2dAs0KawfQSD9DgNdjOCtO"
-      },
-      "artists": [
-        {
-          "name": "Ceren",
-          "url": "https://open.spotify.com/artist/6sgeY4vovk7KfxVwiu2V9E"
-        }
-      ],
-      "duration_ms": 113761,
-      "name": "Luftkuss",
-      "url": "https://open.spotify.com/track/2BiDON4uyW5VvPXJN5IOpZ"
     },
     {
       "added_at": "2026-11-16 16:43:22",

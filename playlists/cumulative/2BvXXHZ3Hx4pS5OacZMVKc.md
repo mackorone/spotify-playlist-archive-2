@@ -4,7 +4,7 @@
 
 > Level up your gaming with the best copyright\-free music from NCS \(NoCopyrightSounds\)\. Epic EDM, electronic anthems, bass and high\-energy tracks for gaming videos, YouTube, Twitch streams and more\. Updated regularly with fresh releases and fan favourites\. 🎮
 
-607 songs - 1 day 7 hr 25 min
+608 songs - 1 day 7 hr 30 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -287,6 +287,7 @@
 | [Legacy](https://open.spotify.com/track/5DQGSJOG1JUchaZBd4zaie) | [Dirty Palm](https://open.spotify.com/artist/4cZvsAtZm91PBC0tXlDrP0), [Benix](https://open.spotify.com/artist/6KNBk0pkK9ydjkflb4uBAr) | [Legacy](https://open.spotify.com/album/5210iXJgapheYbxuz2pGxk) | 2:39 | 2022-02-03 | 2023-08-11 |
 | [Legends](https://open.spotify.com/track/0LMLxZRrYesbvqekYrkz7R) | [Star Party](https://open.spotify.com/artist/2VXRxdCCHHajU61ohOXnO1) | [Legends](https://open.spotify.com/album/6QN7NuUMmce9PX6AU3UWDi) | 2:37 | 2026-11-22 |  |
 | [Let Go](https://open.spotify.com/track/0hDaKYsiOvAnZPxAIGxrmq) | [Conro](https://open.spotify.com/artist/1BAdSa5cdtCNLbvT7gWmtJ) | [Let Go](https://open.spotify.com/album/53MP6iUg5uw3OFWwY32cGR) | 3:01 | 2025-05-20 | 2026-11-23 |
+| [let it go](https://open.spotify.com/track/2hEGhvanCinqXiRwsEf11y) | [SELECTA](https://open.spotify.com/artist/4hJiR8Hpw6MoamcjjetuSH) | [let it go](https://open.spotify.com/album/2RdoC0yRqoWekTHxVOHsA6) | 4:43 | 2026-11-24 |  |
 | [Let Me Go](https://open.spotify.com/track/0cHPVbLV0pfOgridbUjt3f) | [Almost Weekend](https://open.spotify.com/artist/6FCDyfws4NWiy6eQbZR40O), [Max Vermeulen](https://open.spotify.com/artist/35V85QUB0dxx7I4Q6AAc5w), [Jimmy Rivler](https://open.spotify.com/artist/2VcGBf5YDWgKpQedSvx58i) | [Let Me Go](https://open.spotify.com/album/2oTdGhBXY6j7uVXjKnKyyh) | 2:40 | 2022-02-03 | 2022-09-15 |
 | [Let Me Go](https://open.spotify.com/track/1gXjrDp5SYunHXUyOEIDJk) | [More Plastic](https://open.spotify.com/artist/2pTv3pLM9Cw3tblbBHOAzN) | [Let Me Go](https://open.spotify.com/album/1j7TQZMuZfy01ji1m6l53U) | 3:08 | 2026-11-22 |  |
 | [Let Me Go](https://open.spotify.com/track/746DfbvhbS6fVbNrmHA9Ni) | [More Plastic](https://open.spotify.com/artist/2pTv3pLM9Cw3tblbBHOAzN) | [Let Me Go](https://open.spotify.com/album/4jLPNWR09M73a4u2uKTL08) | 3:08 | 2023-08-10 | 2026-11-23 |

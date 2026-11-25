@@ -1,12 +1,12 @@
 {
   "description": "This is Every Time I Die. The essential tracks, all in one playlist.",
-  "num_followers": 8115,
+  "num_followers": 8117,
   "original_name": "This Is Every Time I Die",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "awIwgAAAAAADDa2XWW0ppzoY9WmpQDcm",
+  "snapshot_id": "awOCAAAAAADO1nlSKdeTlweG4Luo1kT4",
   "tracks": [
     {
       "added_at": null,
@@ -248,9 +248,9 @@
           "url": "https://open.spotify.com/artist/0o7WWONtleH6PWLn5GIoCM"
         }
       ],
-      "duration_ms": 218053,
-      "name": "Thing With Feathers",
-      "url": "https://open.spotify.com/track/4me59RjZINq8IDzrLrHaDE"
+      "duration_ms": 156533,
+      "name": "Hostile Architecture",
+      "url": "https://open.spotify.com/track/0YQQn6gBg1qXABJR9bVBkD"
     },
     {
       "added_at": null,
@@ -351,8 +351,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Hot Damn!",
-        "url": "https://open.spotify.com/album/1WA1ngD22PguWqdxIT2YDo"
+        "name": "The Big Dirty",
+        "url": "https://open.spotify.com/album/6Bl4e9l92OjIZIGYMVR4AN"
       },
       "artists": [
         {
@@ -360,9 +360,9 @@
           "url": "https://open.spotify.com/artist/0o7WWONtleH6PWLn5GIoCM"
         }
       ],
-      "duration_ms": 148146,
-      "name": "Off Broadway",
-      "url": "https://open.spotify.com/track/6D8kUiY6MGiBXUIUkyknXw"
+      "duration_ms": 128333,
+      "name": "Leatherneck",
+      "url": "https://open.spotify.com/track/0Slixd3mfdLlfx5twxD1DZ"
     },
     {
       "added_at": null,
@@ -376,9 +376,9 @@
           "url": "https://open.spotify.com/artist/0o7WWONtleH6PWLn5GIoCM"
         }
       ],
-      "duration_ms": 156533,
-      "name": "Hostile Architecture",
-      "url": "https://open.spotify.com/track/0YQQn6gBg1qXABJR9bVBkD"
+      "duration_ms": 218053,
+      "name": "Thing With Feathers",
+      "url": "https://open.spotify.com/track/4me59RjZINq8IDzrLrHaDE"
     },
     {
       "added_at": null,
@@ -395,6 +395,22 @@
       "duration_ms": 166626,
       "name": "C++ (Love Will Get You Killed)",
       "url": "https://open.spotify.com/track/2OXDvstZF7AI6XZwRfrIIg"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Hot Damn!",
+        "url": "https://open.spotify.com/album/1WA1ngD22PguWqdxIT2YDo"
+      },
+      "artists": [
+        {
+          "name": "Every Time I Die",
+          "url": "https://open.spotify.com/artist/0o7WWONtleH6PWLn5GIoCM"
+        }
+      ],
+      "duration_ms": 148146,
+      "name": "Off Broadway",
+      "url": "https://open.spotify.com/track/6D8kUiY6MGiBXUIUkyknXw"
     },
     {
       "added_at": null,
@@ -431,22 +447,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Hot Damn!",
-        "url": "https://open.spotify.com/album/1WA1ngD22PguWqdxIT2YDo"
-      },
-      "artists": [
-        {
-          "name": "Every Time I Die",
-          "url": "https://open.spotify.com/artist/0o7WWONtleH6PWLn5GIoCM"
-        }
-      ],
-      "duration_ms": 182760,
-      "name": "I Been Gone a Long Time",
-      "url": "https://open.spotify.com/track/7zD3M5MSB3FlDVcu7djZPi"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Gutter Phenomenon",
         "url": "https://open.spotify.com/album/6bL6rFAbAPxrmvuRZx9tfz"
       },
@@ -463,8 +463,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "The Big Dirty",
-        "url": "https://open.spotify.com/album/6Bl4e9l92OjIZIGYMVR4AN"
+        "name": "Hot Damn!",
+        "url": "https://open.spotify.com/album/1WA1ngD22PguWqdxIT2YDo"
       },
       "artists": [
         {
@@ -472,25 +472,9 @@
           "url": "https://open.spotify.com/artist/0o7WWONtleH6PWLn5GIoCM"
         }
       ],
-      "duration_ms": 128333,
-      "name": "Leatherneck",
-      "url": "https://open.spotify.com/track/0Slixd3mfdLlfx5twxD1DZ"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "New Junk Aesthetic (Deluxe Edition)",
-        "url": "https://open.spotify.com/album/4XOjfUQ93qWPOlJr4w0ek4"
-      },
-      "artists": [
-        {
-          "name": "Every Time I Die",
-          "url": "https://open.spotify.com/artist/0o7WWONtleH6PWLn5GIoCM"
-        }
-      ],
-      "duration_ms": 165253,
-      "name": "Who Invited The Russian Soldier?",
-      "url": "https://open.spotify.com/track/5bkveIBvVhbMNeqjhVmBJa"
+      "duration_ms": 182760,
+      "name": "I Been Gone a Long Time",
+      "url": "https://open.spotify.com/track/7zD3M5MSB3FlDVcu7djZPi"
     },
     {
       "added_at": null,
@@ -511,8 +495,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Hot Damn!",
-        "url": "https://open.spotify.com/album/1WA1ngD22PguWqdxIT2YDo"
+        "name": "New Junk Aesthetic (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/4XOjfUQ93qWPOlJr4w0ek4"
       },
       "artists": [
         {
@@ -520,9 +504,9 @@
           "url": "https://open.spotify.com/artist/0o7WWONtleH6PWLn5GIoCM"
         }
       ],
-      "duration_ms": 160240,
-      "name": "Romeo A Go-Go",
-      "url": "https://open.spotify.com/track/3GtRGprAx1HdtQBV8v2guA"
+      "duration_ms": 165253,
+      "name": "Who Invited The Russian Soldier?",
+      "url": "https://open.spotify.com/track/5bkveIBvVhbMNeqjhVmBJa"
     },
     {
       "added_at": null,
@@ -543,8 +527,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "New Junk Aesthetic (Deluxe Edition)",
-        "url": "https://open.spotify.com/album/4XOjfUQ93qWPOlJr4w0ek4"
+        "name": "Hot Damn!",
+        "url": "https://open.spotify.com/album/1WA1ngD22PguWqdxIT2YDo"
       },
       "artists": [
         {
@@ -552,9 +536,9 @@
           "url": "https://open.spotify.com/artist/0o7WWONtleH6PWLn5GIoCM"
         }
       ],
-      "duration_ms": 179946,
-      "name": "Roman Holiday",
-      "url": "https://open.spotify.com/track/7jbnEqoo02mfQZSMn1cOJg"
+      "duration_ms": 160240,
+      "name": "Romeo A Go-Go",
+      "url": "https://open.spotify.com/track/3GtRGprAx1HdtQBV8v2guA"
     },
     {
       "added_at": null,
@@ -575,8 +559,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Hot Damn!",
-        "url": "https://open.spotify.com/album/1WA1ngD22PguWqdxIT2YDo"
+        "name": "New Junk Aesthetic (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/4XOjfUQ93qWPOlJr4w0ek4"
       },
       "artists": [
         {
@@ -584,9 +568,9 @@
           "url": "https://open.spotify.com/artist/0o7WWONtleH6PWLn5GIoCM"
         }
       ],
-      "duration_ms": 152586,
-      "name": "Godspeed Us to Sea",
-      "url": "https://open.spotify.com/track/6o3VSp7O542Le38TpHDQtg"
+      "duration_ms": 179946,
+      "name": "Roman Holiday",
+      "url": "https://open.spotify.com/track/7jbnEqoo02mfQZSMn1cOJg"
     },
     {
       "added_at": null,
@@ -607,8 +591,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "New Junk Aesthetic (Deluxe Edition)",
-        "url": "https://open.spotify.com/album/4XOjfUQ93qWPOlJr4w0ek4"
+        "name": "Hot Damn!",
+        "url": "https://open.spotify.com/album/1WA1ngD22PguWqdxIT2YDo"
       },
       "artists": [
         {
@@ -616,9 +600,9 @@
           "url": "https://open.spotify.com/artist/0o7WWONtleH6PWLn5GIoCM"
         }
       ],
-      "duration_ms": 179106,
-      "name": "For The Record",
-      "url": "https://open.spotify.com/track/2phLPwpH3ZY6oLoCzQtWak"
+      "duration_ms": 152586,
+      "name": "Godspeed Us to Sea",
+      "url": "https://open.spotify.com/track/6o3VSp7O542Le38TpHDQtg"
     },
     {
       "added_at": null,
@@ -639,8 +623,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "From Parts Unknown (Deluxe Edition)",
-        "url": "https://open.spotify.com/album/2WEg8OjycdfnrQFd0tX3yr"
+        "name": "New Junk Aesthetic (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/4XOjfUQ93qWPOlJr4w0ek4"
       },
       "artists": [
         {
@@ -648,9 +632,9 @@
           "url": "https://open.spotify.com/artist/0o7WWONtleH6PWLn5GIoCM"
         }
       ],
-      "duration_ms": 118823,
-      "name": "Pelican Of The Desert",
-      "url": "https://open.spotify.com/track/7J7tAx9isUTVOD7Qs3FNJz"
+      "duration_ms": 179106,
+      "name": "For The Record",
+      "url": "https://open.spotify.com/track/2phLPwpH3ZY6oLoCzQtWak"
     },
     {
       "added_at": null,
@@ -671,8 +655,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "New Junk Aesthetic (Deluxe Edition)",
-        "url": "https://open.spotify.com/album/4XOjfUQ93qWPOlJr4w0ek4"
+        "name": "From Parts Unknown (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/2WEg8OjycdfnrQFd0tX3yr"
       },
       "artists": [
         {
@@ -680,9 +664,9 @@
           "url": "https://open.spotify.com/artist/0o7WWONtleH6PWLn5GIoCM"
         }
       ],
-      "duration_ms": 172373,
-      "name": "The Sweet Life",
-      "url": "https://open.spotify.com/track/2tKSOEousfYFYCLJ2jfWgj"
+      "duration_ms": 118823,
+      "name": "Pelican Of The Desert",
+      "url": "https://open.spotify.com/track/7J7tAx9isUTVOD7Qs3FNJz"
     },
     {
       "added_at": null,
@@ -699,6 +683,22 @@
       "duration_ms": 175532,
       "name": "I Suck (Blood)",
       "url": "https://open.spotify.com/track/6PIltGJHvV1bfAwl4JhMk4"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "New Junk Aesthetic (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/4XOjfUQ93qWPOlJr4w0ek4"
+      },
+      "artists": [
+        {
+          "name": "Every Time I Die",
+          "url": "https://open.spotify.com/artist/0o7WWONtleH6PWLn5GIoCM"
+        }
+      ],
+      "duration_ms": 172373,
+      "name": "The Sweet Life",
+      "url": "https://open.spotify.com/track/2tKSOEousfYFYCLJ2jfWgj"
     }
   ],
   "unique_name": "This Is Every Time I Die",

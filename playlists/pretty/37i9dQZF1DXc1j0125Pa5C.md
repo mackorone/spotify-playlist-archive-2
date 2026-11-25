@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXc1j0125Pa5C.md) - [plain]
 
 > Sucessos do pagode pra cantar junto, sem descanso e sem freio! Foto: Gabby Moura, Imaginasamba
 
-[Spotify](https://open.spotify.com/user/spotify) - 392,289 likes - 74 songs - 6 hr 0 min
+[Spotify](https://open.spotify.com/user/spotify) - 392,291 likes - 74 songs - 6 hr 0 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -83,4 +83,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXc1j0125Pa5C.md) - [plain]
 | 73 | [Amor No Elevador / Demorou / Golpe Do Báu \- Ao Vivo](https://open.spotify.com/track/6pcQmTlFyVlUphUesPJFQt) | [Charlles Andre](https://open.spotify.com/artist/0Ix6zRLUpdMRnkN8Sjqjyf) | [Amor No Elevador / Demorou / Golpe Do Báu \(Ao Vivo\)](https://open.spotify.com/album/2ZBGqQyaRUqbgolFADaTjL) | 4:06 |
 | 74 | [Tá Escrito / Moleque Atrevido / Luz do Repente \- Ao Vivo](https://open.spotify.com/track/4yrJCJIVABBfxFS0jAEfFY) | [Grupo Entre Elas](https://open.spotify.com/artist/1uf5VoVElqaxoJ4dZ7EC9X) | [Tá Escrito / Moleque Atrevido / Luz do Repente \(Ao Vivo\)](https://open.spotify.com/album/3cr6WnyMLxym0oj4APlXU0) | 5:00 |
 
-Snapshot ID: `AAAAAKVwNn3C+tPmHLNgzrBLaYTeB7Yu`
+Snapshot ID: `AAAAACwvgEW9jeoTZfZXjNpHDl5XsMR4`

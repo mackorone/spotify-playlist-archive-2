@@ -5,6 +5,24 @@
   "tracks": [
     {
       "album": {
+        "name": "sighthound",
+        "url": "https://open.spotify.com/album/5D80bD4DHnF3x1lK5LaNCO"
+      },
+      "artists": [
+        {
+          "name": "snazzyvaka",
+          "url": "https://open.spotify.com/artist/3hHniqLXSqhRZeR3xUvlr2"
+        }
+      ],
+      "date_added": "2026-11-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 114495,
+      "name": "#puppycore",
+      "url": "https://open.spotify.com/track/6B3Y9HIoDRAjetGqU5e0IO"
+    },
+    {
+      "album": {
         "name": "d0t r4Wr",
         "url": "https://open.spotify.com/album/3tpChLn0Ly6DHJ5fMg3oVt"
       },
@@ -4792,6 +4810,24 @@
       "duration_ms": 269126,
       "name": "how it feels to fly",
       "url": "https://open.spotify.com/track/7a4kJMczOlvculn80pLRrP"
+    },
+    {
+      "album": {
+        "name": "sighthound",
+        "url": "https://open.spotify.com/album/5D80bD4DHnF3x1lK5LaNCO"
+      },
+      "artists": [
+        {
+          "name": "snazzyvaka",
+          "url": "https://open.spotify.com/artist/3hHniqLXSqhRZeR3xUvlr2"
+        }
+      ],
+      "date_added": "2026-11-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 163732,
+      "name": "how much i really care",
+      "url": "https://open.spotify.com/track/30mLAouFYtE0hAH8lXApAg"
     },
     {
       "album": {

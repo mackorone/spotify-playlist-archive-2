@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0yUqGc.md) - [plain]
 
 > This is Lily Allen\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 97,367 likes - 42 songs - 2 hr 25 min
+[Spotify](https://open.spotify.com/user/spotify) - 97,369 likes - 42 songs - 2 hr 25 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -25,8 +25,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0yUqGc.md) - [plain]
 | 15 | [Dream A Little Dream](https://open.spotify.com/track/5fZaORfoLqj4fIRqbHA9Bz) | [Robbie Williams](https://open.spotify.com/artist/2HcwFjNelS49kFbfvMxQYw), [Lily Allen](https://open.spotify.com/artist/13saZpZnCDWOI9D4IJhp1f) | [Swings Both Ways \(Deluxe Edition\)](https://open.spotify.com/album/4yY8NL5zw83iBAvqVuUAL4) | 3:33 |
 | 16 | [Dallas Major](https://open.spotify.com/track/1ECugAb7Pg6UDA501YYgH9) | [Lily Allen](https://open.spotify.com/artist/13saZpZnCDWOI9D4IJhp1f) | [West End Girl](https://open.spotify.com/album/4Dn3Z14YfT2gQVDgLmWUVn) | 3:04 |
 | 17 | [Littlest Things](https://open.spotify.com/track/3Ah7nOXSkbkejpI2yWKzSF) | [Lily Allen](https://open.spotify.com/artist/13saZpZnCDWOI9D4IJhp1f) | [Alright, Still \(Deluxe\)](https://open.spotify.com/album/5ySBiY0v4b03yw98oRDKtS) | 3:02 |
-| 18 | [Smile \- Acoustic](https://open.spotify.com/track/47Y2E9HfyU7diW5WES6vKb) | [Lily Allen](https://open.spotify.com/artist/13saZpZnCDWOI9D4IJhp1f) | [Smile](https://open.spotify.com/album/07z5Rc3vzqteBidAcjMmku) | 3:20 |
-| 19 | [Hard out Here](https://open.spotify.com/track/3U3BXlwNTkCx7lW9m1H9RY) | [Lily Allen](https://open.spotify.com/artist/13saZpZnCDWOI9D4IJhp1f) | [Hard out Here](https://open.spotify.com/album/1fby4GbTbNwhaWosafXOmH) | 3:31 |
+| 18 | [Hard out Here](https://open.spotify.com/track/3U3BXlwNTkCx7lW9m1H9RY) | [Lily Allen](https://open.spotify.com/artist/13saZpZnCDWOI9D4IJhp1f) | [Hard out Here](https://open.spotify.com/album/1fby4GbTbNwhaWosafXOmH) | 3:31 |
+| 19 | [Smile \- Acoustic](https://open.spotify.com/track/47Y2E9HfyU7diW5WES6vKb) | [Lily Allen](https://open.spotify.com/artist/13saZpZnCDWOI9D4IJhp1f) | [Smile](https://open.spotify.com/album/07z5Rc3vzqteBidAcjMmku) | 3:20 |
 | 20 | [Madeline](https://open.spotify.com/track/1GpM5w7maS7MGVkZdg6jPE) | [Lily Allen](https://open.spotify.com/artist/13saZpZnCDWOI9D4IJhp1f) | [West End Girl](https://open.spotify.com/album/4Dn3Z14YfT2gQVDgLmWUVn) | 2:55 |
 | 21 | [Oh My God \(feat\. Lily Allen\)](https://open.spotify.com/track/0G2BtoIda45xgezQGQn8JS) | [Mark Ronson](https://open.spotify.com/artist/3hv9jJF3adDNsBSIQDqcjp), [Lily Allen](https://open.spotify.com/artist/13saZpZnCDWOI9D4IJhp1f) | [Version](https://open.spotify.com/album/15uqXXD0sAdZuxNxTxktlR) | 3:35 |
 | 22 | [Knock 'Em Out](https://open.spotify.com/track/1tzREQUvfSvoigbSOU60Bx) | [Lily Allen](https://open.spotify.com/artist/13saZpZnCDWOI9D4IJhp1f) | [Alright, Still \(Deluxe\)](https://open.spotify.com/album/5ySBiY0v4b03yw98oRDKtS) | 2:53 |
@@ -47,8 +47,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0yUqGc.md) - [plain]
 | 37 | [What You Waiting For?](https://open.spotify.com/track/6RoX1kFmPx83oIj4u74bXm) | [Lily Allen](https://open.spotify.com/artist/13saZpZnCDWOI9D4IJhp1f) | [No Shame](https://open.spotify.com/album/0DriDL7OcMeMENJWAElSYL) | 3:06 |
 | 38 | [Him](https://open.spotify.com/track/3XbSdPCqIfK0BOOjqtNdfa) | [Lily Allen](https://open.spotify.com/artist/13saZpZnCDWOI9D4IJhp1f) | [It's Not Me, It's You \(Special Edition\)](https://open.spotify.com/album/4zZKTqu7DkowQnO9Bcx4KX) | 3:18 |
 | 39 | [He Wasn't There](https://open.spotify.com/track/3DvREgY2Bhl5hpEzkgloYH) | [Lily Allen](https://open.spotify.com/artist/13saZpZnCDWOI9D4IJhp1f) | [It's Not Me, It's You](https://open.spotify.com/album/2OUL7ZpAvUaWyylZ1lXpe0) | 2:51 |
-| 40 | [Lost My Mind](https://open.spotify.com/track/6OMvX7ieloQ1qdSwKb5BRD) | [Lily Allen](https://open.spotify.com/artist/13saZpZnCDWOI9D4IJhp1f) | [No Shame](https://open.spotify.com/album/0DriDL7OcMeMENJWAElSYL) | 3:47 |
-| 41 | [Apples](https://open.spotify.com/track/5qtMUB20QK1aLu8Wz4QCiM) | [Lily Allen](https://open.spotify.com/artist/13saZpZnCDWOI9D4IJhp1f) | [No Shame](https://open.spotify.com/album/0DriDL7OcMeMENJWAElSYL) | 3:39 |
+| 40 | [Apples](https://open.spotify.com/track/5qtMUB20QK1aLu8Wz4QCiM) | [Lily Allen](https://open.spotify.com/artist/13saZpZnCDWOI9D4IJhp1f) | [No Shame](https://open.spotify.com/album/0DriDL7OcMeMENJWAElSYL) | 3:39 |
+| 41 | [Lost My Mind](https://open.spotify.com/track/6OMvX7ieloQ1qdSwKb5BRD) | [Lily Allen](https://open.spotify.com/artist/13saZpZnCDWOI9D4IJhp1f) | [No Shame](https://open.spotify.com/album/0DriDL7OcMeMENJWAElSYL) | 3:47 |
 | 42 | [Family Man](https://open.spotify.com/track/2djUvMKV5x0sUAPdbk4HlJ) | [Lily Allen](https://open.spotify.com/artist/13saZpZnCDWOI9D4IJhp1f) | [No Shame](https://open.spotify.com/album/0DriDL7OcMeMENJWAElSYL) | 3:38 |
 
-Snapshot ID: `awIwgAAAAABCWOY9pPkilEiS2105HiD6`
+Snapshot ID: `awOCAAAAAAAEbkSNxlrHycAARuUVLRPM`

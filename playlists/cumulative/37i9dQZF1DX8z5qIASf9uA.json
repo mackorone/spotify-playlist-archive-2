@@ -172,7 +172,7 @@
       ],
       "date_added": "2021-11-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-25",
       "duration_ms": 175891,
       "name": "Alma Enamorada",
       "url": "https://open.spotify.com/track/4vpaq405VfAjjam64HOxuw"
@@ -248,7 +248,7 @@
       ],
       "date_added": "2021-11-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-25",
       "duration_ms": 172626,
       "name": "Amor Prohibido",
       "url": "https://open.spotify.com/track/1kCewNSs909Xj1naXr36X8"
@@ -454,7 +454,7 @@
       ],
       "date_added": "2023-11-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-25",
       "duration_ms": 202500,
       "name": "Caja de Muerte",
       "url": "https://open.spotify.com/track/3yNdtIO9fyip5mTx0OZc3X"
@@ -623,6 +623,28 @@
     },
     {
       "album": {
+        "name": "C\u00f3mo Me Duele",
+        "url": "https://open.spotify.com/album/4ddCCwLQwGOXFgXG9Uwf8Y"
+      },
+      "artists": [
+        {
+          "name": "Valent\u00edn Elizalde",
+          "url": "https://open.spotify.com/artist/3CAhiUHkUYT1mFtVHM9SHA"
+        },
+        {
+          "name": "Nathan Galante",
+          "url": "https://open.spotify.com/artist/0mYDDBNR5KCRC68CkmeOJB"
+        }
+      ],
+      "date_added": "2026-11-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 222266,
+      "name": "C\u00f3mo Me Duele",
+      "url": "https://open.spotify.com/track/35PTsZu0bEFMzF0qYQznUD"
+    },
+    {
+      "album": {
         "name": "Como Pude Enamorarme De Ti",
         "url": "https://open.spotify.com/album/4kPZh0MgavSWBIr1LXgBQU"
       },
@@ -674,7 +696,7 @@
       ],
       "date_added": "2025-06-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-25",
       "duration_ms": 186700,
       "name": "De Tijuana A Paris",
       "url": "https://open.spotify.com/track/5wXvqb0SprgiFaRbYbbIwg"
@@ -761,6 +783,24 @@
     },
     {
       "album": {
+        "name": "Ebrio De Amor",
+        "url": "https://open.spotify.com/album/50947AUb8312nzs7q46mRD"
+      },
+      "artists": [
+        {
+          "name": "Geru y Su Legion 7",
+          "url": "https://open.spotify.com/artist/4BNrYSNWfcX7x10nmCpkch"
+        }
+      ],
+      "date_added": "2026-11-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 163066,
+      "name": "Ebrio De Amor",
+      "url": "https://open.spotify.com/track/0luqDcWWODHsqAZDx5tSwl"
+    },
+    {
+      "album": {
         "name": "15 Exitos",
         "url": "https://open.spotify.com/album/6xLX5b3LhCdmqiu78iHfQd"
       },
@@ -772,7 +812,7 @@
       ],
       "date_added": "2024-02-23",
       "date_added_asterisk": false,
-      "date_removed": "2025-11-26",
+      "date_removed": null,
       "duration_ms": 165533,
       "name": "Ebrio De Amor",
       "url": "https://open.spotify.com/track/4yDTg9PkshhDpmUIVFoYI5"
@@ -790,7 +830,7 @@
       ],
       "date_added": "2025-11-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-25",
       "duration_ms": 166276,
       "name": "Ebrio de Amor",
       "url": "https://open.spotify.com/track/2h9eJrxNG298kW8ar3Oci9"
@@ -909,6 +949,28 @@
     },
     {
       "album": {
+        "name": "El Vale Por Siempre (Vol. 2)",
+        "url": "https://open.spotify.com/album/2LxvdlrXMhZw0HYoxxv99p"
+      },
+      "artists": [
+        {
+          "name": "Valent\u00edn Elizalde",
+          "url": "https://open.spotify.com/artist/3CAhiUHkUYT1mFtVHM9SHA"
+        },
+        {
+          "name": "Jorge Medina",
+          "url": "https://open.spotify.com/artist/4uZP9vHYfFu3DW9ywwtLpf"
+        }
+      ],
+      "date_added": "2026-11-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 198000,
+      "name": "El Corrido Del Diez",
+      "url": "https://open.spotify.com/track/4k5xIc0BKprC2YgnUpwr32"
+    },
+    {
+      "album": {
         "name": "El Karma (Deluxe Version)",
         "url": "https://open.spotify.com/album/2ReeGlHU8J7gkxsMGlpNhY"
       },
@@ -982,7 +1044,7 @@
       ],
       "date_added": "2021-11-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-25",
       "duration_ms": 284013,
       "name": "El Destino (with Juan Gabriel)",
       "url": "https://open.spotify.com/track/2rBZGVYX3LEHEREi8HvZIg"
@@ -1000,10 +1062,32 @@
       ],
       "date_added": "2025-11-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-25",
       "duration_ms": 156493,
       "name": "El Flaquito",
       "url": "https://open.spotify.com/track/5NmlPbM72H4Q1yKwKzIdHY"
+    },
+    {
+      "album": {
+        "name": "El Vale Por Siempre (Vol. 2)",
+        "url": "https://open.spotify.com/album/2LxvdlrXMhZw0HYoxxv99p"
+      },
+      "artists": [
+        {
+          "name": "Valent\u00edn Elizalde",
+          "url": "https://open.spotify.com/artist/3CAhiUHkUYT1mFtVHM9SHA"
+        },
+        {
+          "name": "Enigma Norte\u00f1o",
+          "url": "https://open.spotify.com/artist/3441uYrkzgTWwjXLd13R0U"
+        }
+      ],
+      "date_added": "2026-11-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 158586,
+      "name": "El Gallito",
+      "url": "https://open.spotify.com/track/0ofY5GGO0OLSzE4fCAFhui"
     },
     {
       "album": {
@@ -1018,7 +1102,7 @@
       ],
       "date_added": "2025-08-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-25",
       "duration_ms": 195426,
       "name": "El Guero Bastidas",
       "url": "https://open.spotify.com/track/5UadNnx39bXYXEEjB99ifu"
@@ -1040,6 +1124,28 @@
       "duration_ms": 195117,
       "name": "El Hijo Desobediente",
       "url": "https://open.spotify.com/track/1uWves4S89RPNHMMM28H0x"
+    },
+    {
+      "album": {
+        "name": "Puro Che Rios Oiga",
+        "url": "https://open.spotify.com/album/0RpKcuhlypb45ragJxcPDD"
+      },
+      "artists": [
+        {
+          "name": "Pancho Barraza",
+          "url": "https://open.spotify.com/artist/5dmU7FrmtbQaSzIvGsE4Jp"
+        },
+        {
+          "name": "Los Ciclones del Arroyo",
+          "url": "https://open.spotify.com/artist/474014H20e2LqUwdWaaVLO"
+        }
+      ],
+      "date_added": "2026-11-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 282112,
+      "name": "El Huizache",
+      "url": "https://open.spotify.com/track/0Z26aVeIOJUNiRq0pQdFCa"
     },
     {
       "album": {
@@ -1375,6 +1481,24 @@
     },
     {
       "album": {
+        "name": "El Vale Por Siempre (Vol. 2)",
+        "url": "https://open.spotify.com/album/2LxvdlrXMhZw0HYoxxv99p"
+      },
+      "artists": [
+        {
+          "name": "La Arrolladora Banda El Lim\u00f3n De Rene Camacho",
+          "url": "https://open.spotify.com/artist/5bSfBBCxY8QAk4Pifveisz"
+        }
+      ],
+      "date_added": "2026-11-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 232626,
+      "name": "El Venadito",
+      "url": "https://open.spotify.com/track/4qaJGO5zxvfk0PH4APUywi"
+    },
+    {
+      "album": {
         "name": "Atenci\u00f3n Al Cliente",
         "url": "https://open.spotify.com/album/2KBfFANCWLTpvLUVLvl09O"
       },
@@ -1610,7 +1734,7 @@
       ],
       "date_added": "2024-07-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-25",
       "duration_ms": 175101,
       "name": "Florita Del Alma",
       "url": "https://open.spotify.com/track/2HFV1Ag8fdvGqF28TVHtKp"
@@ -1712,7 +1836,7 @@
       ],
       "date_added": "2025-08-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-25",
       "duration_ms": 156223,
       "name": "Haganse A Un Lado",
       "url": "https://open.spotify.com/track/5qbQNw7iaPJPnhN4gyGjoX"
@@ -1991,6 +2115,28 @@
     },
     {
       "album": {
+        "name": "La M\u00e1s Deseada",
+        "url": "https://open.spotify.com/album/5pfQW2pshYrRse8qVRezsc"
+      },
+      "artists": [
+        {
+          "name": "Valent\u00edn Elizalde",
+          "url": "https://open.spotify.com/artist/3CAhiUHkUYT1mFtVHM9SHA"
+        },
+        {
+          "name": "El Bebeto",
+          "url": "https://open.spotify.com/artist/1YhMWppPt9RVODKD1KCs7W"
+        }
+      ],
+      "date_added": "2026-11-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 178120,
+      "name": "La M\u00e1s Deseada",
+      "url": "https://open.spotify.com/track/6EZbB42pYBHU1Fz7tmPmf3"
+    },
+    {
+      "album": {
         "name": "Hablemos",
         "url": "https://open.spotify.com/album/4g5NzMdGbeRjCDEJK4uwiu"
       },
@@ -2042,7 +2188,7 @@
       ],
       "date_added": "2025-06-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-25",
       "duration_ms": 156306,
       "name": "La Vecinita",
       "url": "https://open.spotify.com/track/2zc9alxx3d15ZjdaFkWSU0"
@@ -2165,6 +2311,24 @@
     },
     {
       "album": {
+        "name": "Lobo Domesticado",
+        "url": "https://open.spotify.com/album/5e6z0eQPh1muYxbxkNcjnO"
+      },
+      "artists": [
+        {
+          "name": "Jos\u00e9 Manuel Figueroa",
+          "url": "https://open.spotify.com/artist/6eCPnXDJLqK9EKAjlxK5WF"
+        }
+      ],
+      "date_added": "2026-11-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 175106,
+      "name": "Lobo Domesticado",
+      "url": "https://open.spotify.com/track/5QhM6vvoq09adyU1R6ng0j"
+    },
+    {
+      "album": {
         "name": "Ya Despu\u00e9s De Muerto",
         "url": "https://open.spotify.com/album/31OklCEo9716SuyztIgGLy"
       },
@@ -2184,6 +2348,28 @@
       "duration_ms": 179211,
       "name": "Los Chismes",
       "url": "https://open.spotify.com/track/2PP65VcRvkiNZUq7Wd0yP8"
+    },
+    {
+      "album": {
+        "name": "Los P\u00e1jaros",
+        "url": "https://open.spotify.com/album/1joInkpfy1YSZ7N8epD1Qd"
+      },
+      "artists": [
+        {
+          "name": "Joel Elizalde",
+          "url": "https://open.spotify.com/artist/55EA5tfk6pyYA7L6Hgb5Nr"
+        },
+        {
+          "name": "Banda MS de Sergio Liz\u00e1rraga",
+          "url": "https://open.spotify.com/artist/2C6i0I5RiGzDKN9IAF8reh"
+        }
+      ],
+      "date_added": "2026-11-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 140571,
+      "name": "Los P\u00e1jaros",
+      "url": "https://open.spotify.com/track/20QFrcDCC6xaCDHx0Od7zR"
     },
     {
       "album": {
@@ -2252,7 +2438,7 @@
       ],
       "date_added": "2025-01-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-25",
       "duration_ms": 212280,
       "name": "Me Canse De Morir Por Tu Amor",
       "url": "https://open.spotify.com/track/7gFDY4Dce0ZIiNeWbXNxk9"
@@ -2306,7 +2492,7 @@
       ],
       "date_added": "2021-11-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-25",
       "duration_ms": 184293,
       "name": "Me Gustas Mucho",
       "url": "https://open.spotify.com/track/4xOwXgFblfFi56IVkAdmdg"
@@ -2324,10 +2510,28 @@
       ],
       "date_added": "2021-11-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-25",
       "duration_ms": 131626,
       "name": "Media Vuelta",
       "url": "https://open.spotify.com/track/2KGMcEzHuO83lqDTU0KORh"
+    },
+    {
+      "album": {
+        "name": "Tributo A Valent\u00edn Elizalde",
+        "url": "https://open.spotify.com/album/5HkVnJr6SoQ5Yt0esgPr00"
+      },
+      "artists": [
+        {
+          "name": "Remmy Valenzuela",
+          "url": "https://open.spotify.com/artist/4stSxe6AbpXw3x7nRDsYVX"
+        }
+      ],
+      "date_added": "2026-11-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 208426,
+      "name": "Mi Amante",
+      "url": "https://open.spotify.com/track/5356lZ3meNqnUHEnzWkb7H"
     },
     {
       "album": {
@@ -2342,7 +2546,7 @@
       ],
       "date_added": "2025-11-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-25",
       "duration_ms": 211906,
       "name": "Mi Amante",
       "url": "https://open.spotify.com/track/5bX4DfCjAI8ORKWLX2iiOJ"
@@ -2378,7 +2582,7 @@
       ],
       "date_added": "2024-02-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-25",
       "duration_ms": 184280,
       "name": "Mi Credo",
       "url": "https://open.spotify.com/track/7GhyiB8rG71HqBmG27w7qT"
@@ -2504,7 +2708,7 @@
       ],
       "date_added": "2021-11-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-25",
       "duration_ms": 196487,
       "name": "Nadie Es Eterno",
       "url": "https://open.spotify.com/track/4nmYEaw0oVz3QKxUlrmFkh"
@@ -2562,7 +2766,7 @@
       ],
       "date_added": "2023-02-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-25",
       "duration_ms": 213159,
       "name": "Nieves De Enero",
       "url": "https://open.spotify.com/track/15oVebJsvQd0O8rv22HwBe"
@@ -2641,6 +2845,28 @@
     },
     {
       "album": {
+        "name": "Pa' Qu\u00e9 Son Pasiones",
+        "url": "https://open.spotify.com/album/3ghUPKQkDQ0ZjNTePotJDj"
+      },
+      "artists": [
+        {
+          "name": "Valent\u00edn Elizalde",
+          "url": "https://open.spotify.com/artist/3CAhiUHkUYT1mFtVHM9SHA"
+        },
+        {
+          "name": "Banda Los Sebastianes De Sa\u00fal Plata",
+          "url": "https://open.spotify.com/artist/2XTrqe2RU5niqO0RNA6Zct"
+        }
+      ],
+      "date_added": "2026-11-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 170000,
+      "name": "Pa' Qu\u00e9 Son Pasiones",
+      "url": "https://open.spotify.com/track/1g8OBHnpZeQI1yoyJrjWQ2"
+    },
+    {
+      "album": {
         "name": "Solo Baladas",
         "url": "https://open.spotify.com/album/6ThVFZhZjPiHwkeoxjJZjh"
       },
@@ -2670,10 +2896,32 @@
       ],
       "date_added": "2025-11-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-25",
       "duration_ms": 193520,
       "name": "Para Que Olvidar",
       "url": "https://open.spotify.com/track/3hxkmCgl3XdDfWkyRfjkWh"
+    },
+    {
+      "album": {
+        "name": "Tributo A Valent\u00edn Elizalde",
+        "url": "https://open.spotify.com/album/5HkVnJr6SoQ5Yt0esgPr00"
+      },
+      "artists": [
+        {
+          "name": "Valent\u00edn Elizalde",
+          "url": "https://open.spotify.com/artist/3CAhiUHkUYT1mFtVHM9SHA"
+        },
+        {
+          "name": "Jesus \"El Flaco\" Elizalde",
+          "url": "https://open.spotify.com/artist/73fepUK5SZQPjniLUzQFU4"
+        }
+      ],
+      "date_added": "2026-11-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 192626,
+      "name": "Para Qu\u00e9 Olvidar",
+      "url": "https://open.spotify.com/track/3bJYp3WQZaugOd2eMVbPhv"
     },
     {
       "album": {
@@ -2878,7 +3126,7 @@
       ],
       "date_added": "2024-02-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-25",
       "duration_ms": 200690,
       "name": "Prenda Del Alma",
       "url": "https://open.spotify.com/track/3L1zBcJiHEogFnS1iYgSU2"
@@ -2976,7 +3224,7 @@
       ],
       "date_added": "2021-11-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-25",
       "duration_ms": 295280,
       "name": "Querida",
       "url": "https://open.spotify.com/track/7osHjFGYUmIMB6eAiU9HDs"
@@ -3066,7 +3314,7 @@
       ],
       "date_added": "2025-06-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-25",
       "duration_ms": 142006,
       "name": "Ramos Buchones",
       "url": "https://open.spotify.com/track/7f4eYX1fQAAJzPLmHJ44Lj"
@@ -3196,7 +3444,7 @@
       ],
       "date_added": "2025-08-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-25",
       "duration_ms": 245632,
       "name": "Si Estuviera el G\u00fcero",
       "url": "https://open.spotify.com/track/2llTfNMuotrHlU6ZtOaYUb"
@@ -3214,7 +3462,7 @@
       ],
       "date_added": "2021-11-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-25",
       "duration_ms": 144706,
       "name": "Si Nos Dejan",
       "url": "https://open.spotify.com/track/1mTWvb5uY8R6tU7iCLtiUo"
@@ -3280,6 +3528,24 @@
     {
       "album": {
         "name": "Soy As\u00ed",
+        "url": "https://open.spotify.com/album/5ABzhge0cPNdNq9P4K2Tvu"
+      },
+      "artists": [
+        {
+          "name": "Banda Los Sebastianes De Sa\u00fal Plata",
+          "url": "https://open.spotify.com/artist/2XTrqe2RU5niqO0RNA6Zct"
+        }
+      ],
+      "date_added": "2026-11-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 215253,
+      "name": "Soy As\u00ed",
+      "url": "https://open.spotify.com/track/25Pbykl0YAOC2b4ItcJKy0"
+    },
+    {
+      "album": {
+        "name": "Soy As\u00ed",
         "url": "https://open.spotify.com/album/4SrvbBpwiAJf09kK7EvQsk"
       },
       "artists": [
@@ -3326,7 +3592,7 @@
       ],
       "date_added": "2025-06-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-25",
       "duration_ms": 220500,
       "name": "Soy Piedra Que Con el Tiempo",
       "url": "https://open.spotify.com/track/3nUiTKFjVnFuOFp3ho5dzd"
@@ -3398,7 +3664,7 @@
       ],
       "date_added": "2025-06-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-25",
       "duration_ms": 170396,
       "name": "Te La Pasas feat. EP",
       "url": "https://open.spotify.com/track/17vqjVUNEOgfmeJNtG8auU"
@@ -3459,6 +3725,32 @@
     },
     {
       "album": {
+        "name": "Te Quiero As\u00ed (En Vivo)",
+        "url": "https://open.spotify.com/album/1aZUBgnvIvC9q544aBUBxo"
+      },
+      "artists": [
+        {
+          "name": "Luis R Conriquez",
+          "url": "https://open.spotify.com/artist/0pePYDrJGk8gqMRbXrLJC8"
+        },
+        {
+          "name": "Joel De La P",
+          "url": "https://open.spotify.com/artist/4qDRNT8ldCfCjSp9lBzYC5"
+        },
+        {
+          "name": "Tito Double P",
+          "url": "https://open.spotify.com/artist/5eumcnUkdmGvkvcsx1WFNG"
+        }
+      ],
+      "date_added": "2026-11-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 209557,
+      "name": "Te Quiero As\u00ed (En Vivo)",
+      "url": "https://open.spotify.com/track/3T0c5gIYl2iGD2kGZoPo4K"
+    },
+    {
+      "album": {
         "name": "El Cantinero",
         "url": "https://open.spotify.com/album/7Gxn1LKL1SUSW8CVJugfES"
       },
@@ -3474,6 +3766,24 @@
       "duration_ms": 158400,
       "name": "Te Solt\u00e9 la Rienda",
       "url": "https://open.spotify.com/track/3YubPkIjza38KmXTIGdk91"
+    },
+    {
+      "album": {
+        "name": "Desde Zapopan (En Vivo)",
+        "url": "https://open.spotify.com/album/21GHxCkKFIiblHyCo0Bbon"
+      },
+      "artists": [
+        {
+          "name": "El Komander",
+          "url": "https://open.spotify.com/artist/2wC90WSKQd0BvdxJZ0mObr"
+        }
+      ],
+      "date_added": "2026-11-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 199784,
+      "name": "Tengo Ganas - En Vivo",
+      "url": "https://open.spotify.com/track/4oNjHE0r1FQ21RhAR6yfNg"
     },
     {
       "album": {
@@ -3621,6 +3931,130 @@
     },
     {
       "album": {
+        "name": "Regionales que Estan Sonando",
+        "url": "https://open.spotify.com/album/0B1hFSCuWkWsAEJktPX4Td"
+      },
+      "artists": [
+        {
+          "name": "Banda Carnaval",
+          "url": "https://open.spotify.com/artist/6LOvxDn71T0wWhCDNcXcUj"
+        },
+        {
+          "name": "Valent\u00edn Elizalde",
+          "url": "https://open.spotify.com/artist/3CAhiUHkUYT1mFtVHM9SHA"
+        }
+      ],
+      "date_added": "2026-11-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 185866,
+      "name": "Vencedor",
+      "url": "https://open.spotify.com/track/7kqoLKwOrgpva83mkJi0Bf"
+    },
+    {
+      "album": {
+        "name": "Vencedor",
+        "url": "https://open.spotify.com/album/7MR6tvla5PHWTgWsM16NN6"
+      },
+      "artists": [
+        {
+          "name": "Francisco El Gallo Elizalde",
+          "url": "https://open.spotify.com/artist/4MdLjs618SVsOLaxdm1vBb"
+        }
+      ],
+      "date_added": "2026-11-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 194717,
+      "name": "Vencedor",
+      "url": "https://open.spotify.com/track/4XWA7ycIeMZnUiD73kOQam"
+    },
+    {
+      "album": {
+        "name": "Vencedor",
+        "url": "https://open.spotify.com/album/6cDOkIgadHgQ30JIaxGTAV"
+      },
+      "artists": [
+        {
+          "name": "Valent\u00edn Elizalde",
+          "url": "https://open.spotify.com/artist/3CAhiUHkUYT1mFtVHM9SHA"
+        },
+        {
+          "name": "Edgardo Nu\u00f1ez",
+          "url": "https://open.spotify.com/artist/0mA4dkNGiN4fqTBi2SLlAv"
+        }
+      ],
+      "date_added": "2026-11-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 183311,
+      "name": "Vencedor",
+      "url": "https://open.spotify.com/track/50oepi2tLLJMl8rAsEyRRy"
+    },
+    {
+      "album": {
+        "name": "El Vale Por Siempre (Vol. 2)",
+        "url": "https://open.spotify.com/album/2LxvdlrXMhZw0HYoxxv99p"
+      },
+      "artists": [
+        {
+          "name": "Valent\u00edn Elizalde",
+          "url": "https://open.spotify.com/artist/3CAhiUHkUYT1mFtVHM9SHA"
+        },
+        {
+          "name": "C\u00f3dice",
+          "url": "https://open.spotify.com/artist/20p8yriwsdlALnCz2xXLmZ"
+        }
+      ],
+      "date_added": "2026-11-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 161333,
+      "name": "Vestido Rojo",
+      "url": "https://open.spotify.com/track/6N9DV5vrJS3tDvCzt1ktyq"
+    },
+    {
+      "album": {
+        "name": "THE BEST OF",
+        "url": "https://open.spotify.com/album/1LEpIlW71530nvc4I3B4t3"
+      },
+      "artists": [
+        {
+          "name": "Lalo Mora",
+          "url": "https://open.spotify.com/artist/77Gf2HJPvVREGVNEV8goPZ"
+        }
+      ],
+      "date_added": "2026-11-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 183933,
+      "name": "Vete Con \u00c9l",
+      "url": "https://open.spotify.com/track/4r6VAjEY9THJ82OSv1ugqu"
+    },
+    {
+      "album": {
+        "name": "Vete Ya",
+        "url": "https://open.spotify.com/album/3YLjdhKEcFnwrQve9vVaOY"
+      },
+      "artists": [
+        {
+          "name": "Fuerza Regida",
+          "url": "https://open.spotify.com/artist/0ys2OFYzWYB5hRDLCsBqxt"
+        },
+        {
+          "name": "Gabito Ballesteros",
+          "url": "https://open.spotify.com/artist/6Sbl0NT50roqWvy746MfVf"
+        }
+      ],
+      "date_added": "2026-11-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 157336,
+      "name": "Vete Ya",
+      "url": "https://open.spotify.com/track/68KxNaYseDqDC1xlTSbLL0"
+    },
+    {
+      "album": {
         "name": "Mi Satisfacci\u00f3n",
         "url": "https://open.spotify.com/album/2uJ0YxszsHKfS14kOPmAFl"
       },
@@ -3632,10 +4066,28 @@
       ],
       "date_added": "2021-11-24",
       "date_added_asterisk": false,
-      "date_removed": "2025-11-26",
+      "date_removed": null,
       "duration_ms": 157760,
       "name": "Vete Ya",
       "url": "https://open.spotify.com/track/3gqgSM82j6NMAj4Jllr06T"
+    },
+    {
+      "album": {
+        "name": "ed maverick en el metrop\u00f3litan (En Vivo)",
+        "url": "https://open.spotify.com/album/4W4H5IVKDyccOR8PFOblRb"
+      },
+      "artists": [
+        {
+          "name": "Ed Maverick",
+          "url": "https://open.spotify.com/artist/3JSSjGYcIkgsrz7892CelT"
+        }
+      ],
+      "date_added": "2026-11-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 180746,
+      "name": "vete ya - En Vivo",
+      "url": "https://open.spotify.com/track/2CVnLcP3LoxRzb9bQX4Wbo"
     },
     {
       "album": {
@@ -3697,6 +4149,46 @@
     },
     {
       "album": {
+        "name": "El Vale Por Siempre (Vol. 2)",
+        "url": "https://open.spotify.com/album/2LxvdlrXMhZw0HYoxxv99p"
+      },
+      "artists": [
+        {
+          "name": "Valent\u00edn Elizalde",
+          "url": "https://open.spotify.com/artist/3CAhiUHkUYT1mFtVHM9SHA"
+        },
+        {
+          "name": "Banda Carnaval",
+          "url": "https://open.spotify.com/artist/6LOvxDn71T0wWhCDNcXcUj"
+        }
+      ],
+      "date_added": "2026-11-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 194173,
+      "name": "Vidita M\u00eda",
+      "url": "https://open.spotify.com/track/11VfVtaIgQXxWT4z5RSrPr"
+    },
+    {
+      "album": {
+        "name": "Volver\u00e9 a Amar",
+        "url": "https://open.spotify.com/album/6VMGPpuRXzVUb2zwZjhJ4h"
+      },
+      "artists": [
+        {
+          "name": "Valent\u00edn Elizalde",
+          "url": "https://open.spotify.com/artist/3CAhiUHkUYT1mFtVHM9SHA"
+        }
+      ],
+      "date_added": "2026-11-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 231160,
+      "name": "Volvere A Amar",
+      "url": "https://open.spotify.com/track/5QFuPzUEkWsTszwYyswsbB"
+    },
+    {
+      "album": {
         "name": "Los S\u00faper \u00c9xitos",
         "url": "https://open.spotify.com/album/1zew7ZgJGk5PElzwUAsTgG"
       },
@@ -3708,10 +4200,28 @@
       ],
       "date_added": "2021-11-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-25",
       "duration_ms": 204733,
       "name": "Volver\u00e9 (Tornero)",
       "url": "https://open.spotify.com/track/3OpUzRY4MNYo3RtmNIhb8s"
+    },
+    {
+      "album": {
+        "name": "Tributo A Valent\u00edn Elizalde",
+        "url": "https://open.spotify.com/album/5HkVnJr6SoQ5Yt0esgPr00"
+      },
+      "artists": [
+        {
+          "name": "Calibre 50",
+          "url": "https://open.spotify.com/artist/4jogXSSvlyMkODGSZ2wc2P"
+        }
+      ],
+      "date_added": "2026-11-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 231466,
+      "name": "Volver\u00e9 A Amar",
+      "url": "https://open.spotify.com/track/3A9x6CJfw2qyzxCRdxCyDp"
     },
     {
       "album": {
@@ -3752,6 +4262,24 @@
       "duration_ms": 198220,
       "name": "Y Porque te Portaste Mal",
       "url": "https://open.spotify.com/track/6thBD2H1uoo8Wqwgt9IOeG"
+    },
+    {
+      "album": {
+        "name": "Tributo A Valent\u00edn Elizalde",
+        "url": "https://open.spotify.com/album/5HkVnJr6SoQ5Yt0esgPr00"
+      },
+      "artists": [
+        {
+          "name": "Claudio Alcaraz",
+          "url": "https://open.spotify.com/artist/0lf6aJ031s7V2V7eKB1mhz"
+        }
+      ],
+      "date_added": "2026-11-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 137386,
+      "name": "Y Se Parece A Ti",
+      "url": "https://open.spotify.com/track/6dNhXVn4tHqIrdPOwN3joD"
     },
     {
       "album": {
@@ -3900,7 +4428,7 @@
       ],
       "date_added": "2021-11-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-25",
       "duration_ms": 182880,
       "name": "\u00bfPor Qu\u00e9 Me Haces Llorar?",
       "url": "https://open.spotify.com/track/68pE8830rWrd5LSSfKcRqn"

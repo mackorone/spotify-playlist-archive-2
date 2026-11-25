@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3tRPv7i7zvy.md) - [plain]
 
 > We Outsideeeee!
 
-[Spotify](https://open.spotify.com/user/spotify) - 23,741 likes - 60 songs - 2 hr 53 min
+[Spotify](https://open.spotify.com/user/spotify) - 23,762 likes - 60 songs - 2 hr 53 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -42,8 +42,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3tRPv7i7zvy.md) - [plain]
 | 32 | [ODO PA](https://open.spotify.com/track/4XyamF81pJyWkC8Q1ps1Ff) | [Sarkodie](https://open.spotify.com/artist/01DTVE3KmoPogPZaOvMqO8), [Kweku Flick](https://open.spotify.com/artist/2lSLuh2H1mtsxFBNm9ZbKF) | [ODO PA](https://open.spotify.com/album/4B2Bs2cX0e7mhEeHyogBiz) | 2:36 |
 | 33 | [Wonda Boy](https://open.spotify.com/track/6qY996418IU4NbyI0ibC8U) | [Olivetheboy](https://open.spotify.com/artist/6yCYm86uDrfUteHNs6zcg1) | [Wonda Boy](https://open.spotify.com/album/5l2xTNnn4n0UxyFJvbViQP) | 2:54 |
 | 34 | [Running](https://open.spotify.com/track/1uf7mMivE88BQOU37b2DVR) | [Lasmid](https://open.spotify.com/artist/3WDXKsCKcxJhvrvpdg5IGI) | [Running](https://open.spotify.com/album/158FCU86rJzFqPJQnwVpEd) | 2:56 |
-| 35 | [CUTLASS](https://open.spotify.com/track/5jD8HMgbV74dlOA7WZdK1I) | [Juls](https://open.spotify.com/artist/7BIkk865pwBrSZetA8Izic), [Projexx](https://open.spotify.com/artist/2DFzMI8SSWPYBBSxVF7b2N), [Pa Salieu](https://open.spotify.com/artist/290nCNEce1y6rfoJiO2rK7) | [JUNCTION](https://open.spotify.com/album/4NHInxPNr71YfYTLl90XNe) | 2:49 |
-| 36 | [Holiday](https://open.spotify.com/track/5yFhfeO5k8RuGLspbDCQlz) | [Rema](https://open.spotify.com/artist/46pWGuE3dSwY3bMMXGBvVS) | [Holiday / Reason You](https://open.spotify.com/album/0MscDmFA5ibrxKmm0RiKpd) | 2:39 |
+| 35 | [Holiday](https://open.spotify.com/track/5yFhfeO5k8RuGLspbDCQlz) | [Rema](https://open.spotify.com/artist/46pWGuE3dSwY3bMMXGBvVS) | [Holiday / Reason You](https://open.spotify.com/album/0MscDmFA5ibrxKmm0RiKpd) | 2:39 |
+| 36 | [CUTLASS](https://open.spotify.com/track/5jD8HMgbV74dlOA7WZdK1I) | [Juls](https://open.spotify.com/artist/7BIkk865pwBrSZetA8Izic), [Projexx](https://open.spotify.com/artist/2DFzMI8SSWPYBBSxVF7b2N), [Pa Salieu](https://open.spotify.com/artist/290nCNEce1y6rfoJiO2rK7) | [JUNCTION](https://open.spotify.com/album/4NHInxPNr71YfYTLl90XNe) | 2:49 |
 | 37 | [Steeze](https://open.spotify.com/track/3m9lU6rU5orvK504eviiIU) | [Mr Drew](https://open.spotify.com/artist/4pW48O5XBTgEEJWfr8btdK), [Medikal](https://open.spotify.com/artist/0pPz4oYqGp2Co2Sx7ORiYL) | [Steeze](https://open.spotify.com/album/39sKfVQm4sKLL9mAflMvKR) | 2:06 |
 | 38 | [GEN Z II](https://open.spotify.com/track/5ZQOeyueEFasHhYxSVTtGY) | [Fameye](https://open.spotify.com/artist/3qzyWumjTf8agsBgNTkx7L), [Joey B](https://open.spotify.com/artist/7ACLUXo71FsLZaKMOPDnEJ), [Sarkodie](https://open.spotify.com/artist/01DTVE3KmoPogPZaOvMqO8), [AratheJay](https://open.spotify.com/artist/2d8z61cS6XfaDDv5tbDOWN) | [GEN Z II](https://open.spotify.com/album/4CGQr0Z1cqAtvLRiKXwL51) | 4:02 |
 | 39 | [Bad Boy](https://open.spotify.com/track/2Yi3XIg9MQAwAlTDCoSumI) | [Lasmid](https://open.spotify.com/artist/3WDXKsCKcxJhvrvpdg5IGI) | [Bad Boy](https://open.spotify.com/album/1292tIVpPTJimKAqIOQZlP) | 3:12 |
@@ -60,8 +60,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3tRPv7i7zvy.md) - [plain]
 | 50 | [TSOOBI \(AKONOBA\)](https://open.spotify.com/track/4jGGlJ79PIT8MA85gfCMSR) | [Skyface SDW](https://open.spotify.com/artist/4R4KEZSjfEuuLyyqTiTVtG), [Lasmid](https://open.spotify.com/artist/3WDXKsCKcxJhvrvpdg5IGI), [Jay Bahd](https://open.spotify.com/artist/0Q7yvULFrthrEzwtn5hRcw), [Kwaku DMC](https://open.spotify.com/artist/4gP93834jVbocef9R42gQz), [Beeztrap KOTM](https://open.spotify.com/artist/39IXXExWT64CmkWwkO2ANn) | [TSOOBI \(AKONOBA\)](https://open.spotify.com/album/298RAd7DjwBSO2PYx9NEIV) | 3:46 |
 | 51 | [Anadwo](https://open.spotify.com/track/28kK6tGNpEVpBYiyu6dot1) | [Jay Bahd](https://open.spotify.com/artist/0Q7yvULFrthrEzwtn5hRcw) | [Anadwo](https://open.spotify.com/album/5NTCRsZ3s9YSUPi9QiGRuh) | 2:50 |
 | 52 | [Sweet](https://open.spotify.com/track/5mRnNyJe2gVLmnwdTBgT2O) | [Kweku Flick](https://open.spotify.com/artist/2lSLuh2H1mtsxFBNm9ZbKF), [Shatta Wale](https://open.spotify.com/artist/42q0rYXtR561ypg1Fcw1PI) | [Sweet](https://open.spotify.com/album/4BA5Fi5KDPF710kQmsn78u) | 2:53 |
-| 53 | [AMEN](https://open.spotify.com/track/0GzT6ee1Maf91W2f737jex) | [Sarkodie](https://open.spotify.com/artist/01DTVE3KmoPogPZaOvMqO8), [Beeztrap KOTM](https://open.spotify.com/artist/39IXXExWT64CmkWwkO2ANn) | [The Championship](https://open.spotify.com/album/5n8qjShh7JbArXrVMfJ4Cp) | 3:23 |
-| 54 | [We Deh Inside](https://open.spotify.com/track/1ggelQKWMb1pBGcbRm72iC) | [Shatta Wale](https://open.spotify.com/artist/42q0rYXtR561ypg1Fcw1PI) | [We Deh Inside](https://open.spotify.com/album/6J0SP2HLnih6IHlEPOutts) | 3:44 |
+| 53 | [We Deh Inside](https://open.spotify.com/track/1ggelQKWMb1pBGcbRm72iC) | [Shatta Wale](https://open.spotify.com/artist/42q0rYXtR561ypg1Fcw1PI) | [We Deh Inside](https://open.spotify.com/album/6J0SP2HLnih6IHlEPOutts) | 3:44 |
+| 54 | [AMEN](https://open.spotify.com/track/0GzT6ee1Maf91W2f737jex) | [Sarkodie](https://open.spotify.com/artist/01DTVE3KmoPogPZaOvMqO8), [Beeztrap KOTM](https://open.spotify.com/artist/39IXXExWT64CmkWwkO2ANn) | [The Championship](https://open.spotify.com/album/5n8qjShh7JbArXrVMfJ4Cp) | 3:23 |
 | 55 | [Awurade Aye](https://open.spotify.com/track/5MO3ZW5mDhQiUmrYoYfitt) | [R2Bees](https://open.spotify.com/artist/0LFsP7WPfu5inz9a1amcE4) | [Awurade Aye](https://open.spotify.com/album/0iMv1LDtzvVJWrZ1nBAjs4) | 3:39 |
 | 56 | [Oh Ma Linda](https://open.spotify.com/track/28aDl6G202ZZeynzYIZRDb) | [reggie](https://open.spotify.com/artist/08gM7TMuG3DTBmWUuH0w8T), [Kwaku DMC](https://open.spotify.com/artist/4gP93834jVbocef9R42gQz), [Jay Bahd](https://open.spotify.com/artist/0Q7yvULFrthrEzwtn5hRcw), [O'Kenneth](https://open.spotify.com/artist/3EyOT8FSuINDoWYHfm8TIM) | [Most High](https://open.spotify.com/album/505XBFuhnlK4GBsGq7old5) | 2:56 |
 | 57 | [Stopit](https://open.spotify.com/track/6JBxA9ofuX7OIY4ghOvuIY) | [Olivetheboy](https://open.spotify.com/artist/6yCYm86uDrfUteHNs6zcg1), [Medikal](https://open.spotify.com/artist/0pPz4oYqGp2Co2Sx7ORiYL) | [Stopit](https://open.spotify.com/album/37SxxthY1koSkpvVZv6s2o) | 2:30 |
@@ -69,4 +69,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3tRPv7i7zvy.md) - [plain]
 | 59 | [Trapper Sem](https://open.spotify.com/track/2CQIYtXQrIePjOdlDzm83H) | [Kofi Mole](https://open.spotify.com/artist/7zB3I7PBh39rcwg2haB5Ac), [Kuami Eugene](https://open.spotify.com/artist/0GGKrcPOlBkmBzQDf2Ogkl) | [Trapper Sem](https://open.spotify.com/album/5I3sxFEuoZZug8mNGKq5D3) | 2:18 |
 | 60 | [Olivia](https://open.spotify.com/track/1mUPiWUDXCQvkiNpzNa0yk) | [Lasmid](https://open.spotify.com/artist/3WDXKsCKcxJhvrvpdg5IGI) | [Olivia](https://open.spotify.com/album/71LNcbKRpuxYZ3rfG8zZhm) | 3:05 |
 
-Snapshot ID: `AAAAAKWpWZ3ndSaXQGoNfMzOLXHFmdd5`
+Snapshot ID: `AAAAAMp8IP1Iptch+BdSrmbVsIis2IrP`

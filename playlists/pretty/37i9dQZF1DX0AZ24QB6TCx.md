@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0AZ24QB6TCx.md) - [plain]
 
 > Relax with deep house and electronica.
 
-[Spotify](https://open.spotify.com/user/spotify) - 403,930 likes - 70 songs - 5 hr 38 min
+[Spotify](https://open.spotify.com/user/spotify) - 403,949 likes - 70 songs - 5 hr 38 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -48,8 +48,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0AZ24QB6TCx.md) - [plain]
 | 38 | [Heartless](https://open.spotify.com/track/6eHQ2jZEzEyyBeO7K7KPyy) | [WhoMadeWho](https://open.spotify.com/artist/50Lr1puweM1hFsF1LpIZLM), [Kölsch](https://open.spotify.com/artist/2D9Oe8R9UhbMvFAsMJpXj0) | [Heartless](https://open.spotify.com/album/6RD6iZjyKNlZuhXKqmSo6J) | 4:19 |
 | 39 | [Extraordinary \- Radio Edit](https://open.spotify.com/track/2yAGQ2mDaMg4hfckXmkI8L) | [She Knows](https://open.spotify.com/artist/1mbYwpQqPnkAThstKosMer) | [Extraordinary](https://open.spotify.com/album/67Wo8I6Z0lG6Pb18DMlZkc) | 3:49 |
 | 40 | [Envy](https://open.spotify.com/track/25NOsBha9pzXG6fqGQ79W9) | [Christian Löffler](https://open.spotify.com/artist/3tSvlEzeDnVbQJBTkIA6nO), [Mogli](https://open.spotify.com/artist/1E05B8q4mGKUB0n8Ag0Q7c) | [Envy](https://open.spotify.com/album/60K91BZTnabLByBJejwqVS) | 4:07 |
-| 41 | [Something About](https://open.spotify.com/track/5z3Qr6kEyJiZhB0WHJSmCQ) | [CRi](https://open.spotify.com/artist/3NaMuUYTIGm6CC3YqTuTvi) | [Something About](https://open.spotify.com/album/3qlZd2dgippiunzkO8D0pM) | 3:44 |
-| 42 | [Three Drums](https://open.spotify.com/track/2FRIWWs5xxPoQrk5pMmsQN) | [Four Tet](https://open.spotify.com/artist/7Eu1txygG6nJttLHbZdQOh) | [Three Drums](https://open.spotify.com/album/6zPGFGI2VVFGbiGTlsI237) | 8:15 |
+| 41 | [Three Drums](https://open.spotify.com/track/2FRIWWs5xxPoQrk5pMmsQN) | [Four Tet](https://open.spotify.com/artist/7Eu1txygG6nJttLHbZdQOh) | [Three Drums](https://open.spotify.com/album/6zPGFGI2VVFGbiGTlsI237) | 8:15 |
+| 42 | [Something About](https://open.spotify.com/track/5z3Qr6kEyJiZhB0WHJSmCQ) | [CRi](https://open.spotify.com/artist/3NaMuUYTIGm6CC3YqTuTvi) | [Something About](https://open.spotify.com/album/3qlZd2dgippiunzkO8D0pM) | 3:44 |
 | 43 | [Evergreen](https://open.spotify.com/track/5uDNFpDhvw65Jwc7F4UJJg) | [Duke Boara](https://open.spotify.com/artist/6EL8x2zkCRGzb32jvrSI56) | [11am](https://open.spotify.com/album/6O7SMt9EaEj5ReO3qmvpU7) | 4:13 |
 | 44 | [Peace](https://open.spotify.com/track/0JsdRVcOPmk5MqlifhWPQl) | [MEUTE](https://open.spotify.com/artist/1z5xbcOeFRQXBVDpvRPh8H) | [Peace](https://open.spotify.com/album/2OEzkuJirqao61dblPqLuX) | 7:47 |
 | 45 | [On My Own \- Bross \(RO\) Remix](https://open.spotify.com/track/38myjqkNALis6K4B48JEat) | [Husa & Zeyada](https://open.spotify.com/artist/3s47xvcoBSwPTgPizjEwfu), [Bross \(RO\)](https://open.spotify.com/artist/5kybxjtidoP4tKnV4omy7O) | [Long Way Home \(Remixes Part 1\)](https://open.spotify.com/album/43sij4zwXxsKjyugANcOAh) | 6:47 |
@@ -76,7 +76,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0AZ24QB6TCx.md) - [plain]
 | 66 | [Miyanosawa](https://open.spotify.com/track/25NyrNbtdNc2G9NE2werEN) | [Qrion](https://open.spotify.com/artist/0bGDTQ78MVgI5Snqo9KJZw) | [Miyanosawa](https://open.spotify.com/album/1kogXGRFKVpkbRZE6lLmOu) | 3:28 |
 | 67 | [Outside](https://open.spotify.com/track/3UaFSJ0Oycs0SVSEWgfGqO) | [Henry Green](https://open.spotify.com/artist/0VbDAlm2KUlKI5UhXRBKWp) | [Outside](https://open.spotify.com/album/1sJDL3FIePJVTbHo2ffJ17) | 3:58 |
 | 68 | [Beings of Light](https://open.spotify.com/track/7i1bsnDcFv4dnR4aIPjSGv) | [Fort Romeau](https://open.spotify.com/artist/5MKqWyqq5CStK7AhkTvzQF) | [Beings of Light](https://open.spotify.com/album/3KvI086EChgYtumVqRzDWM) | 6:12 |
-| 69 | [Dreaming](https://open.spotify.com/track/6DpIKPZTfbPr5spl1bHyda) | [Matt Nash](https://open.spotify.com/artist/0hxW1uZPEjt4wuu9wNDF2y) | [Dreaming](https://open.spotify.com/album/47FOIxBN2NCLwO6g3NjtP1) | 3:40 |
-| 70 | [See You Dancing in the Dark](https://open.spotify.com/track/6oSQJmaDiQhbEqGaE9P9CU) | [Mounika.](https://open.spotify.com/artist/2FdGoGN8SKxgxhUlP9aMDO) | [See You Dancing in the Dark](https://open.spotify.com/album/3aYRKtuiZ0uu1W8Eo8IEhN) | 4:01 |
+| 69 | [See You Dancing in the Dark](https://open.spotify.com/track/6oSQJmaDiQhbEqGaE9P9CU) | [Mounika.](https://open.spotify.com/artist/2FdGoGN8SKxgxhUlP9aMDO) | [See You Dancing in the Dark](https://open.spotify.com/album/3aYRKtuiZ0uu1W8Eo8IEhN) | 4:01 |
+| 70 | [Dreaming](https://open.spotify.com/track/6DpIKPZTfbPr5spl1bHyda) | [Matt Nash](https://open.spotify.com/artist/0hxW1uZPEjt4wuu9wNDF2y) | [Dreaming](https://open.spotify.com/album/47FOIxBN2NCLwO6g3NjtP1) | 3:40 |
 
-Snapshot ID: `AAAAALWsgmtOsiWisu9B2Vos29ldKAf1`
+Snapshot ID: `AAAAADkW+TLNG9qfgItjdUH61yP0Ihir`

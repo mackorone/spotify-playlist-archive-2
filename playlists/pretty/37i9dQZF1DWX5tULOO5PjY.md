@@ -69,4 +69,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWX5tULOO5PjY.md) - [plain]
 | 59 | [I Loved Every Minute of It](https://open.spotify.com/track/5OVto0axRHGWAAWOCf6cZD) | [Gayle Adams](https://open.spotify.com/artist/15BDxaGYlN3CPzUdWddake) | [Love Fever](https://open.spotify.com/album/52ZVYXSDSMUmpmlzmNKvAh) | 5:48 |
 | 60 | [He's a Freak Undercover](https://open.spotify.com/track/1wNweHZuLkmuzlNOoleFOE) | [Fatback Band](https://open.spotify.com/artist/6PWU6JQvvYv5sz5FOODHg6) | [With Love](https://open.spotify.com/album/4qMmZxZDurWikXhqyFu5xI) | 5:19 |
 
-Snapshot ID: `AAAAAKlBVw3g9oGO3Cm9o7L0DWAWlx06`
+Snapshot ID: `AAAAAIYjrpHhRiHBY+DdVgs5guHw9NjE`

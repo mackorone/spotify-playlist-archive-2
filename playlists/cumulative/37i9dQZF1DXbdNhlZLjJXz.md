@@ -4,7 +4,7 @@
 
 > tate mcrae, a REAL LIFE angel 🪽
 
-363 songs - 19 hr 33 min
+364 songs - 19 hr 36 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -186,6 +186,7 @@
 | [I Only Smoke When I Drink](https://open.spotify.com/track/39glDGcpBhLVMSsQhvtqHR) | [nimino](https://open.spotify.com/artist/5x0R3zoC09GMiRJomoexLV) | [I Only Smoke When I Drink](https://open.spotify.com/album/05iJvxOa8h8GjGPe5JnvDG) | 3:18 | 2024-10-04 | 2025-11-01 |
 | [I Wanna Go](https://open.spotify.com/track/3gkQyMVLWI2A2BELNOv87g) | [Britney Spears](https://open.spotify.com/artist/26dSoYclwsYLMAKD3tpOr4) | [I Wanna Go Remixes](https://open.spotify.com/album/5Z5H9BGNuLB9Kbj2P6oOBj) | 3:30 | 2025-02-04 |  |
 | [I Wanna Thank Me \(feat\. Niecy Nash\)](https://open.spotify.com/track/6deUyNbUOrWDytrOtqehmr) | [Meghan Trainor](https://open.spotify.com/artist/6JL8zeS1NmiOftqZTRgdTz), [Niecy Nash](https://open.spotify.com/artist/2hK8Hdnk56sxGMswzFbXaD) | [I Wanna Thank Me \(feat\. Niecy Nash\)](https://open.spotify.com/album/0XWBLjX39G0QsoItK55PmO) | 2:23 | 2024-06-28 | 2024-07-21 |
+| [i want 2](https://open.spotify.com/track/7kzhuIArFYBZqHv2yy5aHA) | [Babe Dylan](https://open.spotify.com/artist/0xd16ai4mtpBCnoaAHCw1a) | [i want 2](https://open.spotify.com/album/45fp1rYGmyf9VLFewyUCp4) | 2:51 | 2026-11-24 |  |
 | [I'M ACTUALLY KINDA FAMOUS](https://open.spotify.com/track/0FnvAn6pU9CjIUaBH82tCO) | [Slayyyter](https://open.spotify.com/artist/4QM5QCHicznALtX885CnZC) | [WOR$T GIRL IN AMERICA](https://open.spotify.com/album/5siV9C6eK0NpAqER2FfCVA) | 2:36 | 2026-04-11 |  |
 | [I'm Good \(Blue\)](https://open.spotify.com/track/4uUG5RXrOk84mYEfFvj3cK) | [David Guetta](https://open.spotify.com/artist/1Cs0zKBU1kc0i8ypK3B9ai), [Bebe Rexha](https://open.spotify.com/artist/64M6ah0SkkRsnPGtGiRAbb) | [I'm Good \(Blue\)](https://open.spotify.com/album/7M842DMhYVALrXsw3ty7B3) | 2:55 | 2023-02-02 | 2024-09-07 |
 | [IF YOU GO DOWN \(I'M GOIN' DOWN TOO\)](https://open.spotify.com/track/1jX9wlAgVkAl0fCZqkCI73) | [Kelsea Ballerini](https://open.spotify.com/artist/3RqBeV12Tt7A8xH3zBDDUF) | [SUBJECT TO CHANGE](https://open.spotify.com/album/6twfTQ122kNcHAUXjFbe8a) | 2:46 | 2023-02-02 | 2023-12-27 |
@@ -293,7 +294,7 @@
 | [Roses \- Imanbek Remix](https://open.spotify.com/track/7fPuWrlpwDcHm5aHCH5D9t) | [SAINt JHN](https://open.spotify.com/artist/0H39MdGGX6dbnnQPt6NQkZ), [Imanbek](https://open.spotify.com/artist/5rGrDvrLOV2VV8SCFVGWlj) | [Roses \(Imanbek Remix\)](https://open.spotify.com/album/1p5rgTwzlrhJnSdi93zpbd) | 2:56 | 2022-01-12 | 2022-07-29 |
 | [Roses \- Imanbek Remix](https://open.spotify.com/track/0zLCBJZSiELJf02ucPP9wb) | [SAINt JHN](https://open.spotify.com/artist/0H39MdGGX6dbnnQPt6NQkZ), [Imanbek](https://open.spotify.com/artist/5rGrDvrLOV2VV8SCFVGWlj) | [While The World Was Burning](https://open.spotify.com/album/1OmWlObj9gAwNnTNgxBUmz) | 2:56 | 2022-01-12 | 2023-02-03 |
 | [Run the World \(Girls\)](https://open.spotify.com/track/1uXbwHHfgsXcUKfSZw5ZJ0) | [Beyoncé](https://open.spotify.com/artist/6vWDO969PvNqNYHIOW5v0m) | [4](https://open.spotify.com/album/1gIC63gC3B7o7FfpPACZQJ) | 3:56 | 2022-01-12 |  |
-| [Rush](https://open.spotify.com/track/3xIMkM5LgbVDkpO74O3Np3) | [Troye Sivan](https://open.spotify.com/artist/3WGpXCj9YhhfX11TToZcXP) | [Rush](https://open.spotify.com/album/35N2XoH2rveqI5FAB30HSf) | 2:36 | 2023-07-21 |  |
+| [Rush](https://open.spotify.com/track/3xIMkM5LgbVDkpO74O3Np3) | [Troye Sivan](https://open.spotify.com/artist/3WGpXCj9YhhfX11TToZcXP) | [Rush](https://open.spotify.com/album/35N2XoH2rveqI5FAB30HSf) | 2:36 | 2023-07-21 | 2026-11-25 |
 | [Rush](https://open.spotify.com/track/4ZnkygoWLzcGbQYCm3lkae) | [Troye Sivan](https://open.spotify.com/artist/3WGpXCj9YhhfX11TToZcXP) | [Something To Give Each Other](https://open.spotify.com/album/5UcGyEltve5psjxSRsHx8E) | 2:36 | 2023-08-18 | 2024-04-19 |
 | [Salt](https://open.spotify.com/track/5iyZwawawLjHYpX4MxUKVF) | [Ava Max](https://open.spotify.com/artist/4npEfmQ6YuiwW1GpUmaq3F) | [Heaven & Hell](https://open.spotify.com/album/26c7MmQ4w8EAvVLb4jilaM) | 3:00 | 2023-02-02 | 2024-07-04 |
 | [Savage](https://open.spotify.com/track/55CHeLEfn5iJ0IIkgaa4si) | [Megan Thee Stallion](https://open.spotify.com/artist/181bsRPaVXVlUKXrxwZfHK) | [Suga](https://open.spotify.com/album/6Lo6ylJg4qbFfxicPEOzMI) | 2:35 | 2023-12-26 | 2026-09-05 |

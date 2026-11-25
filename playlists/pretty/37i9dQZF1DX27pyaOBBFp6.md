@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX27pyaOBBFp6.md) - [plain]
 
 > Beste Nederlandstalige songs uit de 60's! Cover: Boudewijn de Groot
 
-[Spotify](https://open.spotify.com/user/spotify) - 26,857 likes - 90 songs - 4 hr 32 min
+[Spotify](https://open.spotify.com/user/spotify) - 26,863 likes - 90 songs - 4 hr 32 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -43,18 +43,18 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX27pyaOBBFp6.md) - [plain]
 | 33 | [Paradiso](https://open.spotify.com/track/37Yccv8dpwJKc0wYCDRBuM) | [Anneke Gronloh](https://open.spotify.com/artist/29Chv9G8hshAc8E2fL9R9Y) | [De Regenboog Serie: Anneke Grönloh](https://open.spotify.com/album/4roRCYfTzJwP7dzOCPddx9) | 2:40 |
 | 34 | [De Wandelclub](https://open.spotify.com/track/2Uyu9r8dY1MIhG76fubp0H) | [Jasperina de Jong](https://open.spotify.com/artist/3ll4qAeqLNOB6U3FSPwyJX) | [Die Goeie Ouwe Tijd Top 100](https://open.spotify.com/album/39BzI7vL8N9czgVxsstZO3) | 3:30 |
 | 35 | [Spiegelbeeld](https://open.spotify.com/track/0dQB5T7YTLhS0jI41u92hP) | [Willeke Alberti](https://open.spotify.com/artist/7monj8DXxygyUqgx7ncylV) | [Het Mooiste Van Willeke Alberti](https://open.spotify.com/album/4oGOyj6OKbdClBPXjyePzl) | 2:27 |
-| 36 | [Batje Vier](https://open.spotify.com/track/6wHgik0QnlKy02Nw4Xt4YP) | [Het Cocktail Trio](https://open.spotify.com/artist/4utchSczIK6dlfPDkpVn9w) | [Hollands Glorie](https://open.spotify.com/album/1uqfT0g5mzIUmovRoXrhG8) | 2:46 |
-| 37 | [Ik Ben Met Jou Niet Getrouwd](https://open.spotify.com/track/1y44si4CkVBN0CZONzCLIO) | [Tony Bass](https://open.spotify.com/artist/5JK9VxvY6IT6xRJyYjy6Fe) | [De Regenboog Serie: Tony Bass](https://open.spotify.com/album/4ZQFsnQhasQM8KjsDa6Uel) | 3:13 |
-| 38 | [Waarom Heb Jij Me Laten Staan?](https://open.spotify.com/track/5LjIT56CJ7NeH5k3cC5j71) | [De Heikrekels](https://open.spotify.com/artist/3GOkYicm1xxsurU3bGY5JR) | [Het Beste van De Heikrekels \- Instrumentaal](https://open.spotify.com/album/6FDILW7wS2fySJcupx92JG) | 3:12 |
-| 39 | [Als Ik De Golven Aan Het Strand Zie](https://open.spotify.com/track/3ibPCrxXzTLteOba65KtVP) | [Ria Valk](https://open.spotify.com/artist/087pgpL9oSvARP9nTP7x5j) | [Het Beste van Ria Valk](https://open.spotify.com/album/3guN60m0HfC3P3HLJB6aSM) | 2:11 |
+| 36 | [Ik Ben Met Jou Niet Getrouwd](https://open.spotify.com/track/1y44si4CkVBN0CZONzCLIO) | [Tony Bass](https://open.spotify.com/artist/5JK9VxvY6IT6xRJyYjy6Fe) | [De Regenboog Serie: Tony Bass](https://open.spotify.com/album/4ZQFsnQhasQM8KjsDa6Uel) | 3:13 |
+| 37 | [Batje Vier](https://open.spotify.com/track/6wHgik0QnlKy02Nw4Xt4YP) | [Het Cocktail Trio](https://open.spotify.com/artist/4utchSczIK6dlfPDkpVn9w) | [Hollands Glorie](https://open.spotify.com/album/1uqfT0g5mzIUmovRoXrhG8) | 2:46 |
+| 38 | [Als Ik De Golven Aan Het Strand Zie](https://open.spotify.com/track/3ibPCrxXzTLteOba65KtVP) | [Ria Valk](https://open.spotify.com/artist/087pgpL9oSvARP9nTP7x5j) | [Het Beste van Ria Valk](https://open.spotify.com/album/3guN60m0HfC3P3HLJB6aSM) | 2:11 |
+| 39 | [Waarom Heb Jij Me Laten Staan?](https://open.spotify.com/track/5LjIT56CJ7NeH5k3cC5j71) | [De Heikrekels](https://open.spotify.com/artist/3GOkYicm1xxsurU3bGY5JR) | [Het Beste van De Heikrekels \- Instrumentaal](https://open.spotify.com/album/6FDILW7wS2fySJcupx92JG) | 3:12 |
 | 40 | [Morgen Ben Ik De Bruid](https://open.spotify.com/track/78cz0SmR2T67fHKdhGdtfx) | [Willeke Alberti](https://open.spotify.com/artist/7monj8DXxygyUqgx7ncylV) | [Die Goeie Ouwe Tijd Top 100](https://open.spotify.com/album/39BzI7vL8N9czgVxsstZO3) | 3:20 |
-| 41 | [Hup, hup, hup](https://open.spotify.com/track/1s3fYerkhuwUJ0HvaczqLJ) | [Het Cocktail Trio](https://open.spotify.com/artist/4utchSczIK6dlfPDkpVn9w) | [Hollands Glorie](https://open.spotify.com/album/1uqfT0g5mzIUmovRoXrhG8) | 2:35 |
-| 42 | [Gina Lollobrigida](https://open.spotify.com/track/2oTYacs6wS0p79ocNzQkDH) | [Tony Bass](https://open.spotify.com/artist/5JK9VxvY6IT6xRJyYjy6Fe) | [De Regenboog Serie: Tony Bass](https://open.spotify.com/album/4ZQFsnQhasQM8KjsDa6Uel) | 2:42 |
+| 41 | [Gina Lollobrigida](https://open.spotify.com/track/2oTYacs6wS0p79ocNzQkDH) | [Tony Bass](https://open.spotify.com/artist/5JK9VxvY6IT6xRJyYjy6Fe) | [De Regenboog Serie: Tony Bass](https://open.spotify.com/album/4ZQFsnQhasQM8KjsDa6Uel) | 2:42 |
+| 42 | [Hup, hup, hup](https://open.spotify.com/track/1s3fYerkhuwUJ0HvaczqLJ) | [Het Cocktail Trio](https://open.spotify.com/artist/4utchSczIK6dlfPDkpVn9w) | [Hollands Glorie](https://open.spotify.com/album/1uqfT0g5mzIUmovRoXrhG8) | 2:35 |
 | 43 | [Harlekino](https://open.spotify.com/track/3hWAY20gL1X8kKEeJ3khmT) | [Imca Marina](https://open.spotify.com/artist/43xjJMxn9QG0jEiBO3Hxe5) | [Die Goeie Ouwe Tijd Top 100](https://open.spotify.com/album/39BzI7vL8N9czgVxsstZO3) | 2:21 |
 | 44 | [Mooier Dan Rode Rozen](https://open.spotify.com/track/4FV84ccMAe9cpTkMyiGGfx) | [De Heikrekels](https://open.spotify.com/artist/3GOkYicm1xxsurU3bGY5JR) | [Het Beste van De Heikrekels \- Instrumentaal](https://open.spotify.com/album/6FDILW7wS2fySJcupx92JG) | 3:04 |
 | 45 | [Swiebertje](https://open.spotify.com/track/6ffETXUkqnGug5hev2G765) | [Joop Doderer](https://open.spotify.com/artist/0mhSQKh1eYKzS0c92nyAYW), [De Damrakkertjes](https://open.spotify.com/artist/46LhiP5SPeewnIAcb4pTkg) | [Televisie\-Vriendjes](https://open.spotify.com/album/69LtdnsqRSOnHM8ZQdzfnV) | 2:39 |
-| 46 | [Het vlooiencircus](https://open.spotify.com/track/4bB4yc7JEprJ4GEV19NRJl) | [Het Cocktail Trio](https://open.spotify.com/artist/4utchSczIK6dlfPDkpVn9w) | [Hollands Glorie](https://open.spotify.com/album/1uqfT0g5mzIUmovRoXrhG8) | 2:52 |
-| 47 | [Tearoom\-Tango](https://open.spotify.com/track/3vJRgNNPQlhFzD4PWhIY45) | [Wim Sonneveld](https://open.spotify.com/artist/6PeXy9NJcXE6CUH12YsboM) | [Die Goeie Ouwe Tijd Top 100](https://open.spotify.com/album/39BzI7vL8N9czgVxsstZO3) | 3:15 |
+| 46 | [Tearoom\-Tango](https://open.spotify.com/track/3vJRgNNPQlhFzD4PWhIY45) | [Wim Sonneveld](https://open.spotify.com/artist/6PeXy9NJcXE6CUH12YsboM) | [Die Goeie Ouwe Tijd Top 100](https://open.spotify.com/album/39BzI7vL8N9czgVxsstZO3) | 3:15 |
+| 47 | [Het vlooiencircus](https://open.spotify.com/track/4bB4yc7JEprJ4GEV19NRJl) | [Het Cocktail Trio](https://open.spotify.com/artist/4utchSczIK6dlfPDkpVn9w) | [Hollands Glorie](https://open.spotify.com/album/1uqfT0g5mzIUmovRoXrhG8) | 2:52 |
 | 48 | [Blommenkinders](https://open.spotify.com/track/5VNpi0AGdtQzwUke46rKRA) | [Armand](https://open.spotify.com/artist/2TjgWhGv4T3pGRalEQmiwV) | [Het Beste van Armand](https://open.spotify.com/album/3v789DbvAeqXKPoSwOC4q6) | 3:32 |
 | 49 | [Ik Wil Alleen Maar Van Je Houden](https://open.spotify.com/track/6gCHX6FcXgtP4P9qfcqh41) | [De Heikrekels](https://open.spotify.com/artist/3GOkYicm1xxsurU3bGY5JR) | [Het Beste van De Heikrekels \- Instrumentaal](https://open.spotify.com/album/6FDILW7wS2fySJcupx92JG) | 3:19 |
 | 50 | [Tachtig Rode Rozen](https://open.spotify.com/track/7loJOA8d0eXsIsKr2xXBWX) | [Wilma](https://open.spotify.com/artist/5qfQ89hvnImhLth6VTewEi) | [Hollands Glorie](https://open.spotify.com/album/3XDzNzyKKI4VnFt1HmU81F) | 2:26 |
@@ -99,4 +99,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX27pyaOBBFp6.md) - [plain]
 | 89 | [Spel Kaarten](https://open.spotify.com/track/68A1ozNluwp0GuDzSiYnDT) | [Gerard De Vries](https://open.spotify.com/artist/0NkWtmKhwsCX7VoMu0DpGP) | [Heerlijk Hollands \- Het Allerbeste van Gerard de Vries & Henk Wijngaard](https://open.spotify.com/album/2X9Y0QCl5xrDvqrsaVWj0l) | 4:23 |
 | 90 | [Wat Een Geluk](https://open.spotify.com/track/2rLSLk5ke1KlZJUAyvl5fb) | [Rudi Carrell](https://open.spotify.com/artist/52OEAGQwJplUGohcbmtAG5) | [Hollandse Hits Top 100](https://open.spotify.com/album/3olYePqSyCQeR2jvXwKhiD) | 2:30 |
 
-Snapshot ID: `AAAAAIzHptWUOyDhsxZ5s3ODEXC0N/IE`
+Snapshot ID: `AAAAALNEj9r2EzaL0dmq8YvmTrWQw/5Q`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2ZpGiQ.md) - [plain]
 
 > This is Lil Wayne\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 487,436 likes - 50 songs - 3 hr 28 min
+[Spotify](https://open.spotify.com/user/spotify) - 487,481 likes - 50 songs - 3 hr 28 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -54,9 +54,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2ZpGiQ.md) - [plain]
 | 44 | [ay! \(feat\. Lil Wayne\)](https://open.spotify.com/track/1T4tQ4SSagbhAKpvcWg035) | [mgk](https://open.spotify.com/artist/6TIYQ3jFPwQSRmorSezPxX), [Lil Wayne](https://open.spotify.com/artist/55Aa2cqylxrFIXC767Z865) | [mainstream sellout](https://open.spotify.com/album/3sKZHtQoq3tPtkXbT8PJAc) | 2:04 |
 | 45 | [Can't Believe It \(feat\. Lil' Wayne\)](https://open.spotify.com/track/4D2cYdHqk8tu65jUig4OcN) | [T\-Pain](https://open.spotify.com/artist/3aQeKQSyrW4qWr35idm0cy), [Lil Wayne](https://open.spotify.com/artist/55Aa2cqylxrFIXC767Z865) | [Three Ringz \(Thr33 Ringz\) \[Expanded Edition\]](https://open.spotify.com/album/2J2PDIvk1YCTFy0HbJjyr7) | 4:33 |
 | 46 | [Mona Lisa \(feat\. Kendrick Lamar\)](https://open.spotify.com/track/0dbTQYW3Ad1FTzIA9t90E8) | [Lil Wayne](https://open.spotify.com/artist/55Aa2cqylxrFIXC767Z865), [Kendrick Lamar](https://open.spotify.com/artist/2YZyLoL8N0Wb9xBt1NhZWg) | [Tha Carter V](https://open.spotify.com/album/50yFYgKdwJANZ5O9MIbMkg) | 5:24 |
-| 47 | [High School](https://open.spotify.com/track/3UrNOHCzVxX2KZbNcKQAyu) | [Nicki Minaj](https://open.spotify.com/artist/0hCNtLu0JehylgoiP8L4Gh), [Lil Wayne](https://open.spotify.com/artist/55Aa2cqylxrFIXC767Z865) | [Pink Friday: Roman Reloaded The Re\-Up \(Explicit Version\)](https://open.spotify.com/album/22F5ZYY1sxoJjk6HzZfmC1) | 3:38 |
-| 48 | [LITE \(feat\. Belly Gang Kushington, Lil Wayne\) \(remix\)](https://open.spotify.com/track/7mok315eY6nztyN0NO9Qwu) | [BigXthaPlug](https://open.spotify.com/artist/6qxpnaukVayrQn6ViNvu9I), [Belly Gang Kushington](https://open.spotify.com/artist/7oHPIc7BYAIUhYFF6hSggI), [Lil Wayne](https://open.spotify.com/artist/55Aa2cqylxrFIXC767Z865) | [BETTER OVER TIME](https://open.spotify.com/album/6mk3WjnTzQ7MB8EpMU62ee) | 3:46 |
+| 47 | [LITE \(feat\. Belly Gang Kushington, Lil Wayne\) \(remix\)](https://open.spotify.com/track/7mok315eY6nztyN0NO9Qwu) | [BigXthaPlug](https://open.spotify.com/artist/6qxpnaukVayrQn6ViNvu9I), [Belly Gang Kushington](https://open.spotify.com/artist/7oHPIc7BYAIUhYFF6hSggI), [Lil Wayne](https://open.spotify.com/artist/55Aa2cqylxrFIXC767Z865) | [BETTER OVER TIME](https://open.spotify.com/album/6mk3WjnTzQ7MB8EpMU62ee) | 3:46 |
+| 48 | [High School](https://open.spotify.com/track/3UrNOHCzVxX2KZbNcKQAyu) | [Nicki Minaj](https://open.spotify.com/artist/0hCNtLu0JehylgoiP8L4Gh), [Lil Wayne](https://open.spotify.com/artist/55Aa2cqylxrFIXC767Z865) | [Pink Friday: Roman Reloaded The Re\-Up \(Explicit Version\)](https://open.spotify.com/album/22F5ZYY1sxoJjk6HzZfmC1) | 3:38 |
 | 49 | [Hustler Musik](https://open.spotify.com/track/5X69MOmlbEJQA49rwn2tjd) | [Lil Wayne](https://open.spotify.com/artist/55Aa2cqylxrFIXC767Z865) | [Tha Carter II](https://open.spotify.com/album/5qyUw6x9fjZPoQHUwuDu39) | 5:03 |
 | 50 | [Stuntin' Like My Daddy \- Street](https://open.spotify.com/track/3rMyMv8EjKXoPnaRo2hdJN) | [Birdman](https://open.spotify.com/artist/35sCXuy5gN6Or69rZ9vqBs), [Lil Wayne](https://open.spotify.com/artist/55Aa2cqylxrFIXC767Z865) | [Like Father Like Son](https://open.spotify.com/album/3DLSu5fxSIaG7Ph8G5YVBp) | 4:27 |
 
-Snapshot ID: `awIwgAAAAACpwBHJaDzAtjQZeRYm1/Wz`
+Snapshot ID: `awOCAAAAAAAM5Q3ONeERDOzmNhxJ1UXN`

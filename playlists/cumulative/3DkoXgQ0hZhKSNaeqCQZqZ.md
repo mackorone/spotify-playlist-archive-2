@@ -4,10 +4,11 @@
 
 > FurryRadio.com, furry music for furs, by furs.
 
-648 songs - 1 day 10 hr 17 min
+650 songs - 1 day 10 hr 22 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
+| [\#puppycore](https://open.spotify.com/track/6B3Y9HIoDRAjetGqU5e0IO) | [snazzyvaka](https://open.spotify.com/artist/3hHniqLXSqhRZeR3xUvlr2) | [sighthound](https://open.spotify.com/album/5D80bD4DHnF3x1lK5LaNCO) | 1:54 | 2026-11-25 |  |
 | [1 d0n7 w4nN4 w417](https://open.spotify.com/track/3RCzbEvH4d2hX6DJO8sGli) | [Mek\-9](https://open.spotify.com/artist/1hwHio6WU1HAhrevPbEqTQ) | [d0t r4Wr](https://open.spotify.com/album/3tpChLn0Ly6DHJ5fMg3oVt) | 3:00 | 2025-12-05 |  |
 | [117](https://open.spotify.com/track/7MtedgdEX5IkrcHlBoff2m) | [daniboi](https://open.spotify.com/artist/5m2b06EqeKPXJF0YfNF3pT) | [117](https://open.spotify.com/album/59JGROSR0MFlF0OaGSeDTz) | 5:55 | 2024-05-28 | 2026-03-01 |
 | [4K CARPET](https://open.spotify.com/track/284qRqsftKxNPWrejNEewL) | [passengerprincess](https://open.spotify.com/artist/1q6wY1iLFFyx75yoKiemZ3) | [4K CARPET](https://open.spotify.com/album/6H57oq4pjohzx036mRDRsO) | 2:00 | 2025-10-04 |  |
@@ -251,6 +252,7 @@
 | [HOUSEONAHILL](https://open.spotify.com/track/6No7Kr4COcm5PGCOHKDNtX) | [Can of Bliss](https://open.spotify.com/artist/7aU24qpooQbJgquWphpTdT), [Musa](https://open.spotify.com/artist/4YNFxyTiP2AS188pQ2eKQE) | [CHAMPION](https://open.spotify.com/album/5lufjyPgNitwHis7Ch5n38) | 3:10 | 2025-11-11 | 2025-11-18 |
 | [how do i tell you](https://open.spotify.com/track/6rl6Deyy8Utz8HEWEVs07k) | [Velaspace](https://open.spotify.com/artist/5eFAOInRxqFXiGs4myARXW), [Ima](https://open.spotify.com/artist/24E1bMe5hd2ZbhWjCZasWT) | [wayhome](https://open.spotify.com/album/3GVyax479TWJmm5eFGrlE5) | 4:17 | 2026-11-11 |  |
 | [how it feels to fly](https://open.spotify.com/track/7a4kJMczOlvculn80pLRrP) | [Sarajevo Noise Beat](https://open.spotify.com/artist/5Cw1pwfT5W9pvGyO30ojCf), [What The PUP!](https://open.spotify.com/artist/1Uti1MlTR0fRL0u0vI6zl9), [lillybug](https://open.spotify.com/artist/4E2TcTjE4vNGZ8eNtMzQ7U) | [how it feels to fly](https://open.spotify.com/album/7cnO2Hyzr9Kt8z1oUtgtTD) | 4:29 | 2024-11-18 |  |
+| [how much i really care](https://open.spotify.com/track/30mLAouFYtE0hAH8lXApAg) | [snazzyvaka](https://open.spotify.com/artist/3hHniqLXSqhRZeR3xUvlr2) | [sighthound](https://open.spotify.com/album/5D80bD4DHnF3x1lK5LaNCO) | 2:43 | 2026-11-25 |  |
 | [how to die](https://open.spotify.com/track/1vAHkkj7P1sILUREnwditT) | [zombAe](https://open.spotify.com/artist/6lVUWhNB7hIUznWHCNww6D) | [deniAl](https://open.spotify.com/album/2PKiLqZN2UEXrCxsY3IoX3) | 2:00 | 2024-05-28 | 2026-11-09 |
 | [Howl](https://open.spotify.com/track/1mRrCv92xkktbJFAihMIw2) | [Verplex](https://open.spotify.com/artist/18ntTe4n8s186NjAUNvxX4) | [Howl](https://open.spotify.com/album/6BrIemwdbnScTnO6P55Z8g) | 3:57 | 2024-04-08 |  |
 | [Husker](https://open.spotify.com/track/2sKIOBas7QH8KKgJzlapv9) | [kidekii](https://open.spotify.com/artist/1dlsDMxOGNZVITw3tRV7uD), [lil fasty](https://open.spotify.com/artist/6yaCScRjwHuniWvfDEyBcU) | [You seem worried.](https://open.spotify.com/album/0xmMSeazqJNRL7HaNvKGVk) | 2:03 | 2024-07-14 |  |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTyjRnMgESue.md) - [plain]
 
 > The best new songs from modern singer\-songwriters\. Cover: Medium Build
 
-[Spotify](https://open.spotify.com/user/spotify) - 91,210 likes - 100 songs - 6 hr 7 min
+[Spotify](https://open.spotify.com/user/spotify) - 91,223 likes - 100 songs - 6 hr 7 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -42,13 +42,13 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTyjRnMgESue.md) - [plain]
 | 32 | [My Regards](https://open.spotify.com/track/52CDVCBt7tQI29r9ovQOJt) | [Maisie Peters](https://open.spotify.com/artist/2RVvqRBon9NgaGXKfywDSs) | [My Regards](https://open.spotify.com/album/5j242B2iACKvvgwUFs60t2) | 3:11 |
 | 33 | [pull me out](https://open.spotify.com/track/0JEV4lg8RqwkLQCqWl5aWC) | [Evan Honer](https://open.spotify.com/artist/1GERDglQrxe4ynLzcdG6qP), [Medium Build](https://open.spotify.com/artist/3C6wmSgnZuqxVQyBWujBsn) | [4 songs](https://open.spotify.com/album/3I3n7l0MBqm17NREZdGGCU) | 3:04 |
 | 34 | [Burn Me](https://open.spotify.com/track/3diMgXk3RxGChNwsAVqyIL) | [Jonah Kagen](https://open.spotify.com/artist/5KsRA81UaMVKvLNiwDySfp), [Sam Barber](https://open.spotify.com/artist/08GfvCW09pv2QP4y9sle2a) | [Burn Me](https://open.spotify.com/album/0100hgq4IwkxrCmldWPgYj) | 3:34 |
-| 35 | [I Saw The Mountains](https://open.spotify.com/track/0CEpezcWFou8sCdbcGof44) | [Noah Cyrus](https://open.spotify.com/artist/55fhWPvDiMpLnE4ZzNXZyW) | [I Saw The Mountains](https://open.spotify.com/album/5zurVXReV3tD2wxCLQ7XXK) | 4:24 |
-| 36 | [Walking Through The Water](https://open.spotify.com/track/4eZ5yY3JOU2yD2GA7u7afs) | [John Vincent III](https://open.spotify.com/artist/1sgVcCMCarG7yWGmkP9wMb) | [Walking Through The Water](https://open.spotify.com/album/0ItIepNO0BfrtzARhUcqfB) | 5:01 |
+| 35 | [Walking Through The Water](https://open.spotify.com/track/4eZ5yY3JOU2yD2GA7u7afs) | [John Vincent III](https://open.spotify.com/artist/1sgVcCMCarG7yWGmkP9wMb) | [Walking Through The Water](https://open.spotify.com/album/0ItIepNO0BfrtzARhUcqfB) | 5:01 |
+| 36 | [I Saw The Mountains](https://open.spotify.com/track/0CEpezcWFou8sCdbcGof44) | [Noah Cyrus](https://open.spotify.com/artist/55fhWPvDiMpLnE4ZzNXZyW) | [I Saw The Mountains](https://open.spotify.com/album/5zurVXReV3tD2wxCLQ7XXK) | 4:24 |
 | 37 | [Goldmine](https://open.spotify.com/track/0g6AxPcs6h3aZp15n2Vxte) | [Anna Graves](https://open.spotify.com/artist/4j9vFTGkTHf54MjcZvedcT) | [America's Greatest Burnout](https://open.spotify.com/album/6Dt8xZegPiDE6unSE0n7rM) | 2:50 |
 | 38 | [The Hudson](https://open.spotify.com/track/7zHO50QOb1eTYdZSvLgPwm) | [The Favors](https://open.spotify.com/artist/78R275jHTtGF0ue4QfBKpI), [FINNEAS](https://open.spotify.com/artist/37M5pPGs6V1fchFJSgCguX), [Ashe](https://open.spotify.com/artist/6P5NO5hzJbuOqSdyPB7SJM) | [The Hudson](https://open.spotify.com/album/1zBM2rgDcwNt063jGHwMMt) | 3:36 |
-| 39 | [Feeling Fine](https://open.spotify.com/track/7rL903PspMN1lJBeFI7OKF) | [Ocie Elliott](https://open.spotify.com/artist/5jbk18C7YXRcEZxUWPJCyT) | [Feeling Fine](https://open.spotify.com/album/5QVuQVJgf2ibf26Vc24lTx) | 2:48 |
-| 40 | [5 More Minutes](https://open.spotify.com/track/5wAWTCv7wjkB3lNzGmIPcd) | [Sydney Rose](https://open.spotify.com/artist/5vx4pDmiFDyKMhuOIgpiRv) | [I Know What I Want](https://open.spotify.com/album/4TxIBES6prR7eH2n5iU4Va) | 3:50 |
-| 41 | [Mountain](https://open.spotify.com/track/1xQKkR7bFenmihMnOgoFgC) | [Hannah Cohen](https://open.spotify.com/artist/7ovXNdlB2DNSC16TbKgros) | [Earthstar Mountain](https://open.spotify.com/album/2aS0NR1iVCRE2DEr197fe2) | 3:59 |
+| 39 | [5 More Minutes](https://open.spotify.com/track/5wAWTCv7wjkB3lNzGmIPcd) | [Sydney Rose](https://open.spotify.com/artist/5vx4pDmiFDyKMhuOIgpiRv) | [I Know What I Want](https://open.spotify.com/album/4TxIBES6prR7eH2n5iU4Va) | 3:50 |
+| 40 | [Mountain](https://open.spotify.com/track/1xQKkR7bFenmihMnOgoFgC) | [Hannah Cohen](https://open.spotify.com/artist/7ovXNdlB2DNSC16TbKgros) | [Earthstar Mountain](https://open.spotify.com/album/2aS0NR1iVCRE2DEr197fe2) | 3:59 |
+| 41 | [Feeling Fine](https://open.spotify.com/track/7rL903PspMN1lJBeFI7OKF) | [Ocie Elliott](https://open.spotify.com/artist/5jbk18C7YXRcEZxUWPJCyT) | [Feeling Fine](https://open.spotify.com/album/5QVuQVJgf2ibf26Vc24lTx) | 2:48 |
 | 42 | [Don't Put It All On Me \(feat\. Fleet Foxes\)](https://open.spotify.com/track/4xZK9tK3N0aOIO18k1Ldul) | [Noah Cyrus](https://open.spotify.com/artist/55fhWPvDiMpLnE4ZzNXZyW), [Fleet Foxes](https://open.spotify.com/artist/4EVpmkEwrLYEg6jIsiPMIb) | [Don't Put It All On Me \(feat\. Fleet Foxes\)](https://open.spotify.com/album/2oj7wFuIFkVPcUENYjkS9U) | 4:07 |
 | 43 | [Don't Let Me Go](https://open.spotify.com/track/6syQOKJfd5BR6z5YAGzQaa) | [Tom Odell](https://open.spotify.com/artist/2txHhyCwHjUEpJjWrEyqyX) | [Don't Let Me Go](https://open.spotify.com/album/5ipsC4SrBYv87aO75cHV7o) | 4:52 |
 | 44 | [Palomino \- From the Netflix Series "Nobody Wants This" Season 2](https://open.spotify.com/track/6OsVtmvOG3m3SZuXZHGpvz) | [FINNEAS](https://open.spotify.com/artist/37M5pPGs6V1fchFJSgCguX) | [Palomino \(From the Netflix Series "Nobody Wants This" Season 2\)](https://open.spotify.com/album/2EyPD0EkMu9yo0y5GHnJl7) | 3:10 |
@@ -85,8 +85,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTyjRnMgESue.md) - [plain]
 | 75 | [Sad and Beautiful World](https://open.spotify.com/track/6UFDma78AVAyHaN4i88R8i) | [Mavis Staples](https://open.spotify.com/artist/0cTSCsVx04SSht9V6cpKN0) | [Sad And Beautiful World](https://open.spotify.com/album/07aZwFEzDfh0BALXf1o6FH) | 4:06 |
 | 76 | [Returning To Myself](https://open.spotify.com/track/1AMUwhjbPqBvcPW4itoNXB) | [Brandi Carlile](https://open.spotify.com/artist/2sG4zTOLvjKG1PSoOyf5Ej) | [Returning To Myself](https://open.spotify.com/album/59fZ3nKVEopfpxyRRr1Ksl) | 4:17 |
 | 77 | [Time Flies](https://open.spotify.com/track/3HdIk9Dv6CYWh35E2DzlAc) | [Shakey Graves](https://open.spotify.com/artist/1fZpYWNWdL5Z3wrDtISFUH) | [Time Flies](https://open.spotify.com/album/23T9gZftkOoT7MhFMZMKWt) | 3:10 |
-| 78 | [Earthstar](https://open.spotify.com/track/0mroL255Cz3vWWyoTzur38) | [Hannah Cohen](https://open.spotify.com/artist/7ovXNdlB2DNSC16TbKgros) | [Earthstar](https://open.spotify.com/album/6WZ2vKrjmgyzeOsVwt1iU4) | 4:03 |
-| 79 | [Like The Rain](https://open.spotify.com/track/0qBoobvEvFNnbCzvgtHjM8) | [Andrea Bejar](https://open.spotify.com/artist/5l3g6Xp8KQE4prw9hk6rQ8) | [Love Again](https://open.spotify.com/album/55GVOmy6g6oRXIuUklMxnS) | 3:07 |
+| 78 | [Like The Rain](https://open.spotify.com/track/0qBoobvEvFNnbCzvgtHjM8) | [Andrea Bejar](https://open.spotify.com/artist/5l3g6Xp8KQE4prw9hk6rQ8) | [Love Again](https://open.spotify.com/album/55GVOmy6g6oRXIuUklMxnS) | 3:07 |
+| 79 | [Earthstar](https://open.spotify.com/track/0mroL255Cz3vWWyoTzur38) | [Hannah Cohen](https://open.spotify.com/artist/7ovXNdlB2DNSC16TbKgros) | [Earthstar](https://open.spotify.com/album/6WZ2vKrjmgyzeOsVwt1iU4) | 4:03 |
 | 80 | [Dandelions](https://open.spotify.com/track/1fUf8SAn46V1VzyxLs7e6g) | [Aly & AJ](https://open.spotify.com/artist/5wugb0kaq0J6nyQ5Xgd17i) | [Dandelions](https://open.spotify.com/album/5ce2H7wGbz3Fty4IYYPPpw) | 4:09 |
 | 81 | [KISSING](https://open.spotify.com/track/4RSkew0j4MPCAq7WfVfi8P) | [Paige Fish](https://open.spotify.com/artist/10djoaqJLN6H4oORnKJ63P) | [Daisy](https://open.spotify.com/album/5l746yNWWESUlLuveqla2p) | 2:40 |
 | 82 | [tell me something](https://open.spotify.com/track/4IU4zqISs4zONS4rDWStUU) | [Hazlett](https://open.spotify.com/artist/1zO3MgzmcwZLLNUQqeU2XH) | [tell me something](https://open.spotify.com/album/4J18Qe8pwo180j6on9pnmn) | 3:57 |
@@ -94,8 +94,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTyjRnMgESue.md) - [plain]
 | 84 | [Nothing Comes Easy](https://open.spotify.com/track/1DTsVhtb0tUaYncdT5yT6W) | [Joy Oladokun](https://open.spotify.com/artist/7rrTqtOUOwva4sgTx9C9F9) | [Nothing Comes Easy](https://open.spotify.com/album/4uPXWqH0hBzxT5u67PxLHy) | 2:54 |
 | 85 | [You and Me Time \(feat\. Sheryl Crow\)](https://open.spotify.com/track/4v0bYGAGo7GjTDQeoaSsp7) | [James Bay](https://open.spotify.com/artist/4EzkuveR9pLvDVFNx6foYD), [Sheryl Crow](https://open.spotify.com/artist/4TKTii6gnOnUXQHyuo9JaD) | [You and Me Time](https://open.spotify.com/album/0m6wO7RR5ugYzk0wZW5ori) | 3:45 |
 | 86 | [Poison In My Well](https://open.spotify.com/track/5sTW2d86vNwfiJ2VNjUsrq) | [Maggie Rose](https://open.spotify.com/artist/4FrAfXWWNZapoX4O1LEoLn), [Grace Potter](https://open.spotify.com/artist/1PJVVIeS5Wu0wbZDhtC0Ht) | [Poison In My Well](https://open.spotify.com/album/1lQPaWzjstwG1X3hWZb11A) | 3:08 |
-| 87 | [Phantom](https://open.spotify.com/track/0qJSQOkbXfEKil9AjcLWxZ) | [Mac DeMarco](https://open.spotify.com/artist/3Sz7ZnJQBIHsXLUSo0OQtM) | [Phantom](https://open.spotify.com/album/4RTq2z9SyBswjkAl6EgNsU) | 1:50 |
-| 88 | [happy ending](https://open.spotify.com/track/2xSoj3qiRpbTd2ku7pvMvd) | [Anna Clendening](https://open.spotify.com/artist/2y9j8qUwBMGPYPQJJxmYzD) | [happy ending](https://open.spotify.com/album/2wqktjryHxu6i4Mof6tWtL) | 2:37 |
+| 87 | [happy ending](https://open.spotify.com/track/2xSoj3qiRpbTd2ku7pvMvd) | [Anna Clendening](https://open.spotify.com/artist/2y9j8qUwBMGPYPQJJxmYzD) | [happy ending](https://open.spotify.com/album/2wqktjryHxu6i4Mof6tWtL) | 2:37 |
+| 88 | [Phantom](https://open.spotify.com/track/0qJSQOkbXfEKil9AjcLWxZ) | [Mac DeMarco](https://open.spotify.com/artist/3Sz7ZnJQBIHsXLUSo0OQtM) | [Phantom](https://open.spotify.com/album/4RTq2z9SyBswjkAl6EgNsU) | 1:50 |
 | 89 | [The Surface](https://open.spotify.com/track/4329XA7OGxcJXruj4nirnn) | [Alice Phoebe Lou](https://open.spotify.com/artist/03uMw43UVu9MsQCcHVSGjX) | [The Surface](https://open.spotify.com/album/08x9Txl6jTNKIgfL64iwaG) | 3:55 |
 | 90 | [Nostalgic for Nothing](https://open.spotify.com/track/1IyuQt0f9LFMIkyNeI84Cd) | [Thelma & James](https://open.spotify.com/artist/60WW5HfHRijpxoTRlaU8BE) | [Nostalgic for Nothing](https://open.spotify.com/album/70nRLtk0vROIVpOD100D2c) | 3:25 |
 | 91 | [Call of Duty](https://open.spotify.com/track/7CyTAwPV2r7pBfZt9fVNDG) | [Kevin Atwater](https://open.spotify.com/artist/6ZBM319vNIirp7FOvvLVD6) | [Achilles](https://open.spotify.com/album/5baUTzkWiIeFGyEWFAMYB7) | 3:11 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTyjRnMgESue.md) - [plain]
 | 99 | [Somebody Nobody Gets Over](https://open.spotify.com/track/4mgHSgglAVlr7i7vPKJmSo) | [Noah Floersch](https://open.spotify.com/artist/6fU24B4K9kWmFt5WTwwsLF) | [Somebody Nobody Gets Over](https://open.spotify.com/album/49xvRotzBI9ef94BJ5WhHf) | 2:47 |
 | 100 | [Grieving](https://open.spotify.com/track/284nns1osTQ4MWtZuCidtd) | [Leith Ross](https://open.spotify.com/artist/4nxKz1dRYXnsGzN1lUURtG) | [Grieving](https://open.spotify.com/album/4SuTiRXMQeSQG6VhlPI3at) | 3:16 |
 
-Snapshot ID: `AAAAAC14i+VQOVoz7BereJ4PYyO3ZlJb`
+Snapshot ID: `AAAAABShGCP6sL1Zt1Yac3vZQqGBkyst`

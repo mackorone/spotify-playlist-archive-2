@@ -1,12 +1,12 @@
 {
   "description": "Discover the latest Korean classical & new age music! (Cover: \uc724\ud55c(YOONHAN)) \ucd5c\uc2e0 \ud55c\uad6d \ud074\ub798\uc2dd\uacfc \ub274\uc5d0\uc774\uc9c0 \ud2b8\ub799\ub4e4\uc744 \ub9cc\ub098\ubcf4\uc138\uc694!",
-  "num_followers": 5972,
+  "num_followers": 5973,
   "original_name": "Classics Korea",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAADym3yjFj3tm5wdXucN75nEczXrU",
+  "snapshot_id": "AAAAAOTWS0W/0qdDkpTQQca4ec0jejMq",
   "tracks": [
     {
       "added_at": "2026-11-20 01:07:27",
@@ -719,6 +719,22 @@
     {
       "added_at": "2026-11-20 01:07:27",
       "album": {
+        "name": "Will You Be My Home",
+        "url": "https://open.spotify.com/album/13yLpvNzqweJpCr8qESF9R"
+      },
+      "artists": [
+        {
+          "name": "Danny Koo",
+          "url": "https://open.spotify.com/artist/4M76P0tK97Ia9zTOz8wWOn"
+        }
+      ],
+      "duration_ms": 210653,
+      "name": "Will You Be My Home",
+      "url": "https://open.spotify.com/track/3DyrC9aI6gvoi8FxTi9J1z"
+    },
+    {
+      "added_at": "2026-11-20 01:07:27",
+      "album": {
         "name": "Beethoven, Isang Yun, Barber (Live)",
         "url": "https://open.spotify.com/album/3jwobJu2gfscIyepVtguSX"
       },
@@ -743,22 +759,6 @@
       "duration_ms": 613480,
       "name": "Piano Concerto No. 5 in E-Flat Major, Op. 73 \"Emperor\": III. Rondo. Allegro - Live",
       "url": "https://open.spotify.com/track/64YlvQ5riWGzZVVe71AFtQ"
-    },
-    {
-      "added_at": "2026-11-20 01:07:27",
-      "album": {
-        "name": "Will You Be My Home",
-        "url": "https://open.spotify.com/album/13yLpvNzqweJpCr8qESF9R"
-      },
-      "artists": [
-        {
-          "name": "Danny Koo",
-          "url": "https://open.spotify.com/artist/4M76P0tK97Ia9zTOz8wWOn"
-        }
-      ],
-      "duration_ms": 210653,
-      "name": "Will You Be My Home",
-      "url": "https://open.spotify.com/track/3DyrC9aI6gvoi8FxTi9J1z"
     },
     {
       "added_at": "2026-11-20 01:07:27",
@@ -1275,22 +1275,6 @@
     {
       "added_at": "2026-11-20 01:07:27",
       "album": {
-        "name": "Growl (Orchestra Version)",
-        "url": "https://open.spotify.com/album/65qB92gNunjYGnLsfJ6cXR"
-      },
-      "artists": [
-        {
-          "name": "Seoul Philharmonic Orchestra",
-          "url": "https://open.spotify.com/artist/4jeL1MqtTmuyNb04ZuzGR7"
-        }
-      ],
-      "duration_ms": 244918,
-      "name": "Growl - Orchestra Version",
-      "url": "https://open.spotify.com/track/11xLAKc6AdEsSbosVOpRUk"
-    },
-    {
-      "added_at": "2026-11-20 01:07:27",
-      "album": {
         "name": "A Christmas Symphony",
         "url": "https://open.spotify.com/album/6XkOhydeYpbV2rRGOyUdQ9"
       },
@@ -1307,8 +1291,24 @@
     {
       "added_at": "2026-11-20 01:07:27",
       "album": {
-        "name": "Hello Future (Orchestra Version)",
-        "url": "https://open.spotify.com/album/64wbFWrfJGu8mxeB64nr1X"
+        "name": "Growl (Orchestra Version)",
+        "url": "https://open.spotify.com/album/65qB92gNunjYGnLsfJ6cXR"
+      },
+      "artists": [
+        {
+          "name": "Seoul Philharmonic Orchestra",
+          "url": "https://open.spotify.com/artist/4jeL1MqtTmuyNb04ZuzGR7"
+        }
+      ],
+      "duration_ms": 244918,
+      "name": "Growl - Orchestra Version",
+      "url": "https://open.spotify.com/track/11xLAKc6AdEsSbosVOpRUk"
+    },
+    {
+      "added_at": "2026-11-20 01:07:27",
+      "album": {
+        "name": "2022 Winter SMTOWN : SMCU PALACE",
+        "url": "https://open.spotify.com/album/1HwnXJfZx8N8qDfzwUbxcw"
       },
       "artists": [
         {
@@ -1316,9 +1316,9 @@
           "url": "https://open.spotify.com/artist/5uv1gQAOE14WiuRMvqfesF"
         }
       ],
-      "duration_ms": 265120,
-      "name": "Hello Future - Orchestra Version",
-      "url": "https://open.spotify.com/track/5OEMZULG7kkUTuh6WAgVm4"
+      "duration_ms": 129440,
+      "name": "Welcome To SMCU PALACE",
+      "url": "https://open.spotify.com/track/3EyZKeSteCNatEQuVlkm9a"
     },
     {
       "added_at": "2026-11-20 01:07:27",
@@ -1471,8 +1471,8 @@
     {
       "added_at": "2026-11-20 01:07:27",
       "album": {
-        "name": "2022 Winter SMTOWN : SMCU PALACE",
-        "url": "https://open.spotify.com/album/1HwnXJfZx8N8qDfzwUbxcw"
+        "name": "Hello Future (Orchestra Version)",
+        "url": "https://open.spotify.com/album/64wbFWrfJGu8mxeB64nr1X"
       },
       "artists": [
         {
@@ -1480,9 +1480,9 @@
           "url": "https://open.spotify.com/artist/5uv1gQAOE14WiuRMvqfesF"
         }
       ],
-      "duration_ms": 129440,
-      "name": "Welcome To SMCU PALACE",
-      "url": "https://open.spotify.com/track/3EyZKeSteCNatEQuVlkm9a"
+      "duration_ms": 265120,
+      "name": "Hello Future - Orchestra Version",
+      "url": "https://open.spotify.com/track/5OEMZULG7kkUTuh6WAgVm4"
     },
     {
       "added_at": "2026-11-20 01:07:27",
@@ -1543,18 +1543,22 @@
     {
       "added_at": "2026-11-20 01:07:27",
       "album": {
-        "name": "CONTINUUM - 40th Anniversary Special Album",
-        "url": "https://open.spotify.com/album/2pkmvgbJV40b1nzoYgF4Tu"
+        "name": "The Classic",
+        "url": "https://open.spotify.com/album/614ubt7Yl8JGHPLYqVfNcS"
       },
       "artists": [
         {
-          "name": "Sumi Jo",
-          "url": "https://open.spotify.com/artist/2QJJHCdkMmlbff1beZnAz6"
+          "name": "Park Ki Young",
+          "url": "https://open.spotify.com/artist/2wAjuE3pVtauK8ZQ2p4SXN"
+        },
+        {
+          "name": "Chaehoon You",
+          "url": "https://open.spotify.com/artist/2Ll5QOsn99i5rbGcFjikwR"
         }
       ],
-      "duration_ms": 261186,
-      "name": "How Beautiful",
-      "url": "https://open.spotify.com/track/6kaeKCOLi6vfsewk7HQBeS"
+      "duration_ms": 248440,
+      "name": "Caruso",
+      "url": "https://open.spotify.com/track/2veXChepxwodH88ev8wqxx"
     },
     {
       "added_at": "2026-11-20 01:07:27",
@@ -1575,22 +1579,18 @@
     {
       "added_at": "2026-11-20 01:07:27",
       "album": {
-        "name": "The Classic",
-        "url": "https://open.spotify.com/album/614ubt7Yl8JGHPLYqVfNcS"
+        "name": "CONTINUUM - 40th Anniversary Special Album",
+        "url": "https://open.spotify.com/album/2pkmvgbJV40b1nzoYgF4Tu"
       },
       "artists": [
         {
-          "name": "Park Ki Young",
-          "url": "https://open.spotify.com/artist/2wAjuE3pVtauK8ZQ2p4SXN"
-        },
-        {
-          "name": "Chaehoon You",
-          "url": "https://open.spotify.com/artist/2Ll5QOsn99i5rbGcFjikwR"
+          "name": "Sumi Jo",
+          "url": "https://open.spotify.com/artist/2QJJHCdkMmlbff1beZnAz6"
         }
       ],
-      "duration_ms": 248440,
-      "name": "Caruso",
-      "url": "https://open.spotify.com/track/2veXChepxwodH88ev8wqxx"
+      "duration_ms": 261186,
+      "name": "How Beautiful",
+      "url": "https://open.spotify.com/track/6kaeKCOLi6vfsewk7HQBeS"
     },
     {
       "added_at": "2026-11-20 01:07:27",
@@ -1767,22 +1767,26 @@
     {
       "added_at": "2026-11-20 01:07:27",
       "album": {
-        "name": "Remembering That Time",
-        "url": "https://open.spotify.com/album/4t169pzs8XwsLblqQ1Pfhy"
+        "name": "Connected",
+        "url": "https://open.spotify.com/album/1omw0PdB8y3wQpPffwWDMw"
       },
       "artists": [
         {
-          "name": "Jung Hwan Ho",
-          "url": "https://open.spotify.com/artist/04uSLKMyRP1TSXa46Rione"
+          "name": "Danny Koo",
+          "url": "https://open.spotify.com/artist/4M76P0tK97Ia9zTOz8wWOn"
         },
         {
-          "name": "Jisoo Sohn",
-          "url": "https://open.spotify.com/artist/3XgJe3mjSMAKFB6jIHsj0V"
+          "name": "Cho Yoonseung",
+          "url": "https://open.spotify.com/artist/0B9Omv7ftLzVz20MwuLeUv"
+        },
+        {
+          "name": "YUN HYUN SANG",
+          "url": "https://open.spotify.com/artist/3LuLOMW2yPLjbclSIDAw0W"
         }
       ],
-      "duration_ms": 267986,
-      "name": "Remembering That Time",
-      "url": "https://open.spotify.com/track/7x9ycPYAFFqQ8o2AnBO9Kb"
+      "duration_ms": 314573,
+      "name": "8 Humoresques, Op.101: No.7, Poco lento e grazioso (Arr. for Violin, Vibraphone and Piano by Cho Yoonseung)",
+      "url": "https://open.spotify.com/track/78BAlsZXq7OxquB7hsz4TM"
     },
     {
       "added_at": "2026-11-20 01:07:27",
@@ -1807,26 +1811,22 @@
     {
       "added_at": "2026-11-20 01:07:27",
       "album": {
-        "name": "Connected",
-        "url": "https://open.spotify.com/album/1omw0PdB8y3wQpPffwWDMw"
+        "name": "Remembering That Time",
+        "url": "https://open.spotify.com/album/4t169pzs8XwsLblqQ1Pfhy"
       },
       "artists": [
         {
-          "name": "Danny Koo",
-          "url": "https://open.spotify.com/artist/4M76P0tK97Ia9zTOz8wWOn"
+          "name": "Jung Hwan Ho",
+          "url": "https://open.spotify.com/artist/04uSLKMyRP1TSXa46Rione"
         },
         {
-          "name": "Cho Yoonseung",
-          "url": "https://open.spotify.com/artist/0B9Omv7ftLzVz20MwuLeUv"
-        },
-        {
-          "name": "YUN HYUN SANG",
-          "url": "https://open.spotify.com/artist/3LuLOMW2yPLjbclSIDAw0W"
+          "name": "Jisoo Sohn",
+          "url": "https://open.spotify.com/artist/3XgJe3mjSMAKFB6jIHsj0V"
         }
       ],
-      "duration_ms": 314573,
-      "name": "8 Humoresques, Op.101: No.7, Poco lento e grazioso (Arr. for Violin, Vibraphone and Piano by Cho Yoonseung)",
-      "url": "https://open.spotify.com/track/78BAlsZXq7OxquB7hsz4TM"
+      "duration_ms": 267986,
+      "name": "Remembering That Time",
+      "url": "https://open.spotify.com/track/7x9ycPYAFFqQ8o2AnBO9Kb"
     },
     {
       "added_at": "2026-11-20 01:07:27",
@@ -1975,22 +1975,6 @@
     {
       "added_at": "2026-11-20 01:07:27",
       "album": {
-        "name": "Miracle",
-        "url": "https://open.spotify.com/album/4mkOMlak3QAKhv78p7t676"
-      },
-      "artists": [
-        {
-          "name": "Fort\u00e9na",
-          "url": "https://open.spotify.com/artist/3k1X3vt1Oa9c0zqMzYXpF5"
-        }
-      ],
-      "duration_ms": 246546,
-      "name": "Miracle",
-      "url": "https://open.spotify.com/track/5FFk7FVrVS0hNs2vCooaiz"
-    },
-    {
-      "added_at": "2026-11-20 01:07:27",
-      "album": {
         "name": "Lovely Night",
         "url": "https://open.spotify.com/album/4lrTjfIh8foTGkaitpI39J"
       },
@@ -2003,6 +1987,22 @@
       "duration_ms": 202584,
       "name": "Lovely Night",
       "url": "https://open.spotify.com/track/5mMzR4exCSdokzXVQh2VOq"
+    },
+    {
+      "added_at": "2026-11-20 01:07:27",
+      "album": {
+        "name": "Miracle",
+        "url": "https://open.spotify.com/album/4mkOMlak3QAKhv78p7t676"
+      },
+      "artists": [
+        {
+          "name": "Fort\u00e9na",
+          "url": "https://open.spotify.com/artist/3k1X3vt1Oa9c0zqMzYXpF5"
+        }
+      ],
+      "duration_ms": 246546,
+      "name": "Miracle",
+      "url": "https://open.spotify.com/track/5FFk7FVrVS0hNs2vCooaiz"
     },
     {
       "added_at": "2026-11-20 01:07:27",

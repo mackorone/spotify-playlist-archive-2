@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/0kIwz3r2VE9uNuYqS5uGRW.md) - [plain]
 
 > 
 
-[CerVon Campbell](https://open.spotify.com/user/1275620579) - 523 likes - 305 songs - 16 hr 2 min
+[CerVon Campbell](https://open.spotify.com/user/1275620579) - 524 likes - 306 songs - 16 hr 7 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -313,5 +313,6 @@ pretty - [cumulative](/playlists/cumulative/0kIwz3r2VE9uNuYqS5uGRW.md) - [plain]
 | 303 | [Farbenmeer \(Piano Ballata\)](https://open.spotify.com/track/7zVt93LxewhjclzxUQhB6t) | [Berqfeld](https://open.spotify.com/artist/4RJcbX84C4EGrlQPn43YIr) | [Farbenmeer \(Piano Ballata\)](https://open.spotify.com/album/73QwEqiOAYrtMMtsb7auXy) | 2:55 |
 | 304 | [Tx](https://open.spotify.com/track/3TpulEC1M9BoCjCfgf4qx6) | [Jey Z](https://open.spotify.com/artist/367smpzsBlOY72qM64QFFy) | [Tx](https://open.spotify.com/album/2NHxPOlkY0AjJAcqB3fXe6) | 2:38 |
 | 305 | [One Night Glance](https://open.spotify.com/track/6frjxTxA4yHrNrifHlMSNL) | [Medikate](https://open.spotify.com/artist/5BqQcPG5Y9hHLfjePrPmNh) | [One Night Glance](https://open.spotify.com/album/3cj11FNtdUKsNgkMtL2j7S) | 2:18 |
+| 306 | [Flüchtlinge \- Radio Edit](https://open.spotify.com/track/1ENK4X6NnxxdR0uIU0XwUI) | [The Parachute Testers](https://open.spotify.com/artist/1PAxZHUziAlRgffxOonf9E) | [Flüchtlinge \(Radio Edit\)](https://open.spotify.com/album/6XEsZm9oyuI3NN01NnFUVD) | 4:40 |
 
-Snapshot ID: `AAAWN/Qpkg89jx1BL/3Y0ZSLgWSydjdw`
+Snapshot ID: `AAAWOG2bH4sdrTC6PphTGV6teht8q/O3`

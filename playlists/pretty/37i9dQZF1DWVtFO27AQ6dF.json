@@ -1,12 +1,12 @@
 {
   "description": "M\u00fasica motivacional para ir a darlo todo al gym.",
-  "num_followers": 473658,
+  "num_followers": 473669,
   "original_name": "Maldita Hamburguesa",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAODzcvAf2FJsL97201DC8905ZJ0a",
+  "snapshot_id": "AAAAAOZSu/y280Rd8hI15CSbAT4KWFM/",
   "tracks": [
     {
       "added_at": "2024-06-12 19:01:31",
@@ -219,22 +219,6 @@
     {
       "added_at": "2024-06-12 19:01:31",
       "album": {
-        "name": "Dookie",
-        "url": "https://open.spotify.com/album/4uG8q3GPuWHQlRbswMIRS6"
-      },
-      "artists": [
-        {
-          "name": "Green Day",
-          "url": "https://open.spotify.com/artist/7oPftvlwr6VrsViSDV7fJY"
-        }
-      ],
-      "duration_ms": 181533,
-      "name": "Basket Case",
-      "url": "https://open.spotify.com/track/6L89mwZXSOwYl76YXfX13s"
-    },
-    {
-      "added_at": "2024-06-12 19:01:31",
-      "album": {
         "name": "Blur (Special Edition)",
         "url": "https://open.spotify.com/album/7HvIrSkKGJCzd8AKyjTJ6Q"
       },
@@ -247,6 +231,22 @@
       "duration_ms": 121160,
       "name": "Song 2 - 2012 Remaster",
       "url": "https://open.spotify.com/track/1FTSo4v6BOZH9QxKc3MbVM"
+    },
+    {
+      "added_at": "2024-06-12 19:01:31",
+      "album": {
+        "name": "Dookie",
+        "url": "https://open.spotify.com/album/4uG8q3GPuWHQlRbswMIRS6"
+      },
+      "artists": [
+        {
+          "name": "Green Day",
+          "url": "https://open.spotify.com/artist/7oPftvlwr6VrsViSDV7fJY"
+        }
+      ],
+      "duration_ms": 181533,
+      "name": "Basket Case",
+      "url": "https://open.spotify.com/track/6L89mwZXSOwYl76YXfX13s"
     },
     {
       "added_at": "2024-06-12 19:01:31",

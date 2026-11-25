@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0TrWIhtmeqJ.md) - [plain]
 
 > For the new generation of trendsetters coming through, we move\. Cover: KTmelodies
 
-[Spotify](https://open.spotify.com/user/spotify) - 99,541 likes - 70 songs - 3 hr 4 min
+[Spotify](https://open.spotify.com/user/spotify) - 99,570 likes - 70 songs - 3 hr 4 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -79,4 +79,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0TrWIhtmeqJ.md) - [plain]
 | 69 | [Same Old Story](https://open.spotify.com/track/4ohYnWl912l2yKZ46EDStE) | [namesbliss](https://open.spotify.com/artist/69NBSJxkHyagyCv9K902iM), [CLARK](https://open.spotify.com/artist/3oe253onRmaxNiz7NkNELQ), [DeeRiginal](https://open.spotify.com/artist/7MkdDRirzB2d9UZh6ZMb8p), [scruz](https://open.spotify.com/artist/13ARh4lBiewhrfLrBq7oDn) | [Same Old Story](https://open.spotify.com/album/2yCnCG9ZDTDAQMOvTCAG6t) | 2:53 |
 | 70 | [Burn It](https://open.spotify.com/track/3VeE0m2gkSJNg039yK4S1a) | [ok](https://open.spotify.com/artist/1uiGVqVPmQxy5lD8SHGAy5), [fakemink](https://open.spotify.com/artist/0qc4BFxcwRFZfevTck4fOi) | [Burn It](https://open.spotify.com/album/660anNnVGegng3aOR1KNFi) | 2:40 |
 
-Snapshot ID: `AAAAAKRmV9z2MZkbIKsC9v/nLz/Ve+5u`
+Snapshot ID: `AAAAAA8jwpMXiDvOx9Ts+pnrGHr4dilZ`

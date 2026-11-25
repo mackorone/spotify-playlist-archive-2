@@ -4,7 +4,7 @@
 
 > Dream away with sleep sounds of nature and green noise frequencies \- water, ocean sounds and breaking waves.
 
-149 songs - 6 hr 51 min
+149 songs - 6 hr 52 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -154,8 +154,8 @@
 | [Wide Green Noise Sweeping Panorama \- Extended Version](https://open.spotify.com/track/6vxvD6BgrDQnvoesz24Qxp) | [White Noise Workshop](https://open.spotify.com/artist/2Nb3UPrkX8zyfTpHLiPPMI) | [Green Noise \(Extended Version\)](https://open.spotify.com/album/1k7TCRIOKLwN8hOGrscUKe) | 2:04 | 2024-02-13 |  |
 | [Wide Stereo Bright Green Noise](https://open.spotify.com/track/3bfcBdUPwPkF4fl9nD1QpW) | [Green Noise Deep Sleep](https://open.spotify.com/artist/4tns5cCeDNeFVHyediVGSy) | [Green Noise Deep Sleep](https://open.spotify.com/album/56QixlGj8zSI1APM8R0PDn) | 2:24 | 2024-02-13 |  |
 | [Willow Whispers \- Green Noise](https://open.spotify.com/track/7MEdVlzuF4kr6MI6dpPg4W) | [Natsound](https://open.spotify.com/artist/1GJH8huKOcDNdAdgwExXnw) | [Willow Whispers \(Green Noise\)](https://open.spotify.com/album/2NPrj910o3GxzQYF3zeRTQ) | 3:10 | 2023-10-05 |  |
-| [Wind My Waterfall](https://open.spotify.com/track/5v7R6BktiMgdeBfTfy8Sqy) | [El Tiempo Central](https://open.spotify.com/artist/2jrgRXoeKU9D8qrOcnS9fZ) | [Noise of Green](https://open.spotify.com/album/3Wb2WiFkdvJMoAu4BS46YL) | 1:56 | 2026-03-31 |  |
-| [Windy Ocean Green Noise](https://open.spotify.com/track/3xifPSyioFK60gLWlxvCGJ) | [Tonality X](https://open.spotify.com/artist/7rFRyQGntyqOr103TOqVwx) | [Wide Waves & Wind](https://open.spotify.com/album/4r4P2oLJrQLGS5IWsXgTDU) | 1:46 | 2026-03-31 |  |
+| [Wind My Waterfall](https://open.spotify.com/track/5v7R6BktiMgdeBfTfy8Sqy) | [El Tiempo Central](https://open.spotify.com/artist/2jrgRXoeKU9D8qrOcnS9fZ) | [Noise of Green](https://open.spotify.com/album/3Wb2WiFkdvJMoAu4BS46YL) | 2:22 | 2026-03-31 |  |
+| [Windy Ocean Green Noise](https://open.spotify.com/track/3xifPSyioFK60gLWlxvCGJ) | [Tonality X](https://open.spotify.com/artist/7rFRyQGntyqOr103TOqVwx) | [Wide Waves & Wind](https://open.spotify.com/album/4r4P2oLJrQLGS5IWsXgTDU) | 2:26 | 2026-03-31 |  |
 | [Windy Waves](https://open.spotify.com/track/7DARDOK8wSQsdtDyWAZbEZ) | [Sonic Focuz](https://open.spotify.com/artist/2kYTPo2RENyX39AVuDCY9j) | [Green Color Noise](https://open.spotify.com/album/5nDkhoqIrNFylLUnkOksE6) | 2:34 | 2023-10-05 |  |
 
 \*This playlist was first scraped on 2023-10-07. Prior content cannot be recovered.

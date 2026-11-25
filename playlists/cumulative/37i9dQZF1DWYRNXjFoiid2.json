@@ -281,6 +281,24 @@
     },
     {
       "album": {
+        "name": "Grand Theft Auto VI: The Album",
+        "url": "https://open.spotify.com/album/5BYKG4MHfySZthe2W6r7n4"
+      },
+      "artists": [
+        {
+          "name": "Rose Gray",
+          "url": "https://open.spotify.com/artist/5YYrWH3w4JYijU4JZrOXWA"
+        }
+      ],
+      "date_added": "2026-11-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 239568,
+      "name": "All Again",
+      "url": "https://open.spotify.com/track/4Fv459S7bhBGbDHJhICbUy"
+    },
+    {
+      "album": {
         "name": "F1 The Album (Cinematic Edition)",
         "url": "https://open.spotify.com/album/5TNQ53hp55WtBA1H8LYtMw"
       },
@@ -6426,7 +6444,7 @@
       ],
       "date_added": "2024-09-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-25",
       "duration_ms": 115533,
       "name": "Paint The Town Blue - from the series Arcane League of Legends",
       "url": "https://open.spotify.com/track/0g0qfC3nAaIsfbxS29ksJx"

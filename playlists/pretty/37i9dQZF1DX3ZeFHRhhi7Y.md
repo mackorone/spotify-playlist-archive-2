@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3ZeFHRhhi7Y.md) - [plain]
 
 > Workout to K\-Pop? Count me in! \(Cover: BIGBANG\) \(신나는 케이팝 댄스 음악과 함께 운동을 즐겨보세요!\)
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,322,690 likes - 100 songs - 4 hr 53 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,322,608 likes - 100 songs - 4 hr 53 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -39,8 +39,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3ZeFHRhhi7Y.md) - [plain]
 | 29 | [SIGN](https://open.spotify.com/track/6vBVBzf0VeRO4aPwABnohX) | [izna](https://open.spotify.com/artist/6EB5QC7lGAu7bSuWQ416d4) | [SIGN](https://open.spotify.com/album/5AAT3LhKilv2xkdFPrdNfd) | 2:46 |
 | 30 | [Vanilla Days](https://open.spotify.com/track/6J0lnKcH7C1Hu0tn5hv7pI) | [LNGSHOT](https://open.spotify.com/artist/2F4oTJOWkcD1JaTeKEa9h6) | [Training Day](https://open.spotify.com/album/7z5ZIN7o44Tk8EUkm7AVar) | 2:50 |
 | 31 | [Serenade \(KARINA & WINTER\)](https://open.spotify.com/track/2h81piRbzIJmjpxR4qnM2o) | [aespa](https://open.spotify.com/artist/6YVMFz59CuY7ngCxTxjpxE) | [SYNK : aeXIS LINE \- 2026 Special Digital Single](https://open.spotify.com/album/0yGIibObNeYQ37RunoFjtG) | 3:05 |
-| 32 | [Ride or Die](https://open.spotify.com/track/2KQIWXg1oWdkbE04CqcE4E) | [EVAN](https://open.spotify.com/artist/3olOSNzFWX5z21YMEFFVMw) | [RIDE OR DIE](https://open.spotify.com/album/7BUNjTAZNdAbZ3GEhv7F25) | 2:15 |
-| 33 | [NEMONEMO](https://open.spotify.com/track/4UwsXGVppRRJpKBHy0mtyK) | [YENA](https://open.spotify.com/artist/49muoiIu4uea4PO8vueUNN) | [NEMONEMO](https://open.spotify.com/album/6FLiJ4318RtpA5lYWJt2cL) | 2:58 |
+| 32 | [NEMONEMO](https://open.spotify.com/track/4UwsXGVppRRJpKBHy0mtyK) | [YENA](https://open.spotify.com/artist/49muoiIu4uea4PO8vueUNN) | [NEMONEMO](https://open.spotify.com/album/6FLiJ4318RtpA5lYWJt2cL) | 2:58 |
+| 33 | [Ride or Die](https://open.spotify.com/track/2KQIWXg1oWdkbE04CqcE4E) | [EVAN](https://open.spotify.com/artist/3olOSNzFWX5z21YMEFFVMw) | [RIDE OR DIE](https://open.spotify.com/album/7BUNjTAZNdAbZ3GEhv7F25) | 2:15 |
 | 34 | [Who is she](https://open.spotify.com/track/16iOs2f9G9qRknDgM9cfAw) | [KISS OF LIFE](https://open.spotify.com/artist/4TEK9tIkcoxib4GxT3O4ky) | [Who is she](https://open.spotify.com/album/3oKZB7YNsYSvmI4YQjhtdS) | 2:39 |
 | 35 | [CRASH](https://open.spotify.com/track/1pU7ywmV4nJsgJcnuPMLyw) | [ALLDAY PROJECT](https://open.spotify.com/artist/4gEMn0YPOdotLOygnk0Ng2) | [CRASH](https://open.spotify.com/album/2aYxa2gszF0aAZI8adt7oI) | 2:52 |
 | 36 | [Supersonic](https://open.spotify.com/track/6oNLSQX8bcAdbCElZYju3v) | [fromis\_9](https://open.spotify.com/artist/24nUVBIlCGi4twz4nYxJum) | [Supersonic](https://open.spotify.com/album/1sxOavrEVy7krHpcbCsiJi) | 2:54 |
@@ -87,8 +87,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3ZeFHRhhi7Y.md) - [plain]
 | 77 | [WHERE YOU AT](https://open.spotify.com/track/6vfcaWsN8gBLpfpSCru0Co) | [ALLDAY PROJECT](https://open.spotify.com/artist/4gEMn0YPOdotLOygnk0Ng2), [ANNIE](https://open.spotify.com/artist/4w6pewq4FAdlIHxweADBh4), [WOOCHAN](https://open.spotify.com/artist/3aJJ3PgNVHdHGZ1XPgtSEc) | [ALLDAY PROJECT](https://open.spotify.com/album/2SdkMYexkvmQaUmgawGJkA) | 2:42 |
 | 78 | [THAT'S A NO NO](https://open.spotify.com/track/5Dxoukq4UC29A7OjQTbHgw) | [ITZY](https://open.spotify.com/artist/2KC9Qb60EaY0kW4eH68vr3) | [IT'z ME](https://open.spotify.com/album/6RP5wCF7u2WDFiuyQ0loNS) | 3:00 |
 | 79 | [Girls Never Die](https://open.spotify.com/track/0Ol7uhYjodbXAKKarXdn6r) | [tripleS](https://open.spotify.com/artist/5Z71xE9prhpHrqL5thVMyK) | [<ASSEMBLE24>](https://open.spotify.com/album/3jOqNyGf9Vq9VPOMPRVK1w) | 3:07 |
-| 80 | [This & That](https://open.spotify.com/track/5fpxAkg76WAje8y1RPNEQ3) | [Stray Kids](https://open.spotify.com/artist/2dIgFjalVxs4ThymZ67YCE) | [THIS & THAT](https://open.spotify.com/album/1iiy1LLzQC0HPFmhWyWyhl) | 3:05 |
-| 81 | [RUN](https://open.spotify.com/track/01UhWj8tk5V2wUke4XvU3v) | [EMP](https://open.spotify.com/artist/0eZu7s7aKm30JOI2KjbA8W), [Dynamicduo](https://open.spotify.com/artist/4nvFFLtv7ZqoTr83387uK4) | [RUN](https://open.spotify.com/album/4NhBWMbgHQjcaRt41eM5QJ) | 2:44 |
+| 80 | [RUN](https://open.spotify.com/track/01UhWj8tk5V2wUke4XvU3v) | [EMP](https://open.spotify.com/artist/0eZu7s7aKm30JOI2KjbA8W), [Dynamicduo](https://open.spotify.com/artist/4nvFFLtv7ZqoTr83387uK4) | [RUN](https://open.spotify.com/album/4NhBWMbgHQjcaRt41eM5QJ) | 2:44 |
+| 81 | [This & That](https://open.spotify.com/track/5fpxAkg76WAje8y1RPNEQ3) | [Stray Kids](https://open.spotify.com/artist/2dIgFjalVxs4ThymZ67YCE) | [THIS & THAT](https://open.spotify.com/album/1iiy1LLzQC0HPFmhWyWyhl) | 3:05 |
 | 82 | [Shapeshifter](https://open.spotify.com/track/0kkqkpgbkLFpopZqPAH1CO) | [Baby DONT Cry](https://open.spotify.com/artist/0dXoF2Q2WnVrhRT26SJNvs) | [Shapeshifter](https://open.spotify.com/album/1NXmaFakmg1i7vOpSH7ZwS) | 3:04 |
 | 83 | [DDI RO RI](https://open.spotify.com/track/5LnYgKfSy6iJZThkkAK86Q) | [MEOVV](https://open.spotify.com/artist/08hHTBHlv0WRXWlyrsb6Kv) | [BITE NOW](https://open.spotify.com/album/1vD1hoR6vP6V4mpytBeCtB) | 3:16 |
 | 84 | [Baby Flower](https://open.spotify.com/track/4tBgc1SEpeU6t5YRoOMI5P) | [tripleS](https://open.spotify.com/artist/5Z71xE9prhpHrqL5thVMyK) | [<LOVE&POP> pt.1](https://open.spotify.com/album/55WiQx2kfXhAQDY5RgcZIE) | 3:08 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3ZeFHRhhi7Y.md) - [plain]
 | 99 | [SAUCIN′](https://open.spotify.com/track/6SSwHWSTozJADFd1gYMT0B) | [NEXZ](https://open.spotify.com/artist/5TaK8pOYVARAr5cdgoa8EW) | [SAUCIN’](https://open.spotify.com/album/26aV56cMEpUWNlL6HWvBbT) | 2:43 |
 | 100 | [PUSH BACK](https://open.spotify.com/track/2oXZU3GXBaz0NAeswRNZE2) | [IDID](https://open.spotify.com/artist/67PXCkgEZryiYFJw691hPn) | [PUSH BACK](https://open.spotify.com/album/4nXvS8bgDGnmpJ5144Tfk9) | 2:42 |
 
-Snapshot ID: `AAAAAPdmDPjVz38506DyIlzLyDxXrtRo`
+Snapshot ID: `AAAAADzQB/lOHb5JTWD3UKvLsCclZM4N`

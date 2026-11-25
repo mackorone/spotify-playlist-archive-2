@@ -4,7 +4,7 @@
 
 > puras canciones desenchufadas\. Cover: Maná
 
-115 songs - 8 hr 55 min
+116 songs - 8 hr 58 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -24,7 +24,7 @@
 | [Corazón partío](https://open.spotify.com/track/2EdAzvb3Qc6E8h8glHD9jF) | [Alejandro Sanz](https://open.spotify.com/artist/5sUrlPAHlS9NEirDB8SEbF) | [MTV Unplugged](https://open.spotify.com/album/1GP8zhAu7gbAQTzfl6xOKo) | 5:00 | 2021-02-10 |  |
 | [Cuando nadie me ve \- Unplugged](https://open.spotify.com/track/6iaw07BTiLrHVT2OQDgqiD) | [Alejandro Sanz](https://open.spotify.com/artist/5sUrlPAHlS9NEirDB8SEbF) | [MTV Unplugged](https://open.spotify.com/album/1GP8zhAu7gbAQTzfl6xOKo) | 5:06 | 2021-02-10 | 2026-01-15 |
 | [De Nada Sirve](https://open.spotify.com/track/2CFDPiNUxcSOqfQtUHYNxF) | [No Te Va Gustar](https://open.spotify.com/artist/4ZDoy7AWNgQVmX7T0u0B1j), [Jorge Drexler](https://open.spotify.com/artist/4ssUf5gLb1GBLxi1BhPrVt) | [Otras Canciones](https://open.spotify.com/album/72SqrtijWJKq6ukitktd1D) | 3:57 | 2021-02-10 | 2026-01-15 |
-| [Dejate Caer \- Unplugged Version](https://open.spotify.com/track/12J5Y7Ep2WgK91vtop1HHX) | [Los Tres](https://open.spotify.com/artist/4qXIYIWo6wRsN0lZxvgH6S) | [Los Tres MTV Unplugged](https://open.spotify.com/album/5gbgCfKWGatY7WWDKcoGnW) | 3:29 | 2026-02-12 |  |
+| [Dejate Caer \- Unplugged Version](https://open.spotify.com/track/12J5Y7Ep2WgK91vtop1HHX) | [Los Tres](https://open.spotify.com/artist/4qXIYIWo6wRsN0lZxvgH6S) | [Los Tres MTV Unplugged](https://open.spotify.com/album/5gbgCfKWGatY7WWDKcoGnW) | 3:29 | 2026-02-12 | 2026-11-25 |
 | [Dog Days Are Over \- MTV Unplugged, 2012 / Live](https://open.spotify.com/track/3pRRYcXy3Z0PsAa8griSoF) | [Florence + The Machine](https://open.spotify.com/artist/1moxjboGR7GNWYIMWsRjgG) | [MTV Presents Unplugged: Florence + The Machine](https://open.spotify.com/album/11JHRCPKllt4DDiaaBi3Kl) | 4:35 | 2021-02-10 | 2026-02-13 |
 | [El baile y el salon \(Unplugged\) \- En Vivo](https://open.spotify.com/track/3k64ZLozksTCtXL4JtD80L) | [Café Tacvba](https://open.spotify.com/artist/09xj0S68Y1OU1vHMCZAIvz) | [MTV Unplugged \(En Vivo\)](https://open.spotify.com/album/0fO8mzViUoz12iCHrPppE9) | 6:54 | 2021-02-10 |  |
 | [El Duelo \(feat\. Ely Guerra\)](https://open.spotify.com/track/1BH4LMGVMLBGc9uEJdm8D8) | [La Ley](https://open.spotify.com/artist/1ZVoRDO29AlDXiMkRLMZSK), [Ely Guerra](https://open.spotify.com/artist/1ne2c2YEgt4MmJCJGCsfsZ) | [La Ley MTV Unplugged](https://open.spotify.com/album/0QkgxSUu5hG0yMkmVXBFKi) | 5:28 | 2021-02-10 |  |
@@ -108,6 +108,7 @@
 | [The Man Who Sold The World \- Live](https://open.spotify.com/track/1XnPVbzLhuBv0sHaCTgyoi) | [Nirvana](https://open.spotify.com/artist/6olE6TJLqED3rqDCT0FyPh) | [Nirvana](https://open.spotify.com/album/5zBPRXCAc801vyHWoRurNZ) | 3:47 | 2021-02-10 | 2024-04-19 |
 | [The Man Who Sold The World \- Live \- MTV Unplugged](https://open.spotify.com/track/5WcCCdW1cMzWpdfBm2RdyL) | [Nirvana](https://open.spotify.com/artist/6olE6TJLqED3rqDCT0FyPh) | [The Man Who Sold The World \(Live \- MTV Unplugged\)](https://open.spotify.com/album/4DLEM1qia6R8KEm0VKohoc) | 3:36 | 2026-02-12 |  |
 | [Toda La Vida \- MTV Unplugged](https://open.spotify.com/track/3ldtYU2YTeuwWYkMFicLxW) | [Emmanuel](https://open.spotify.com/artist/2DmYtFBKcxb3ajwWWgA576), [Mijares](https://open.spotify.com/artist/3zhijRRIZX2B6G2T7vJl9p) | [MTV Unplugged: Con El Alma Desnuda](https://open.spotify.com/album/6w9N3RfyhAXpelVnAyrH2J) | 4:41 | 2021-02-10 |  |
+| [Traje Desastre \- Unplugged Version](https://open.spotify.com/track/20jPauSIqs3P8S7qSBjvrC) | [Los Tres](https://open.spotify.com/artist/4qXIYIWo6wRsN0lZxvgH6S) | [Los Tres MTV Unplugged](https://open.spotify.com/album/5gbgCfKWGatY7WWDKcoGnW) | 3:48 | 2026-02-12 |  |
 | [Tu Recuerdo \(feat\. Chambao & Tommy Torres\) \- MTV Unplugged Version](https://open.spotify.com/track/61hJK3EfAd1LDk7x5OrCTc) | [Ricky Martin](https://open.spotify.com/artist/7slfeZO9LsJbWgpkIoXBUJ), [Chambao](https://open.spotify.com/artist/2qhLqZ1pkiUl5HNrU2Nz0R), [Tommy Torres](https://open.spotify.com/artist/264nbMzGPSkDZqTY8nXwCG) | [Ricky Martin MTV Unplugged](https://open.spotify.com/album/7qhZvYXFgsaSzuukZw9WCM) | 4:07 | 2021-02-10 |  |
 | [Té para Tres](https://open.spotify.com/track/6b0scCYeLBGT3zyWoZUqJY) | [No Te Va Gustar](https://open.spotify.com/artist/4ZDoy7AWNgQVmX7T0u0B1j) | [Otras Canciones en Vivo en Latinoamérica](https://open.spotify.com/album/4UGpnKpfb814RkAWPUtSVP) | 2:23 | 2021-02-10 | 2022-06-04 |
 | [Un Año Más \- En Vivo](https://open.spotify.com/track/2qz2TwDrWbDKK4rdHkV66V) | [Ana Torroja](https://open.spotify.com/artist/5YekZn3GGnPIURNA6RG124), [Ximena Sariñana](https://open.spotify.com/artist/7plUpXSFcSJUZSiZAoXqr1), [Carla Morrison](https://open.spotify.com/artist/0XK6kT7xcZAlcYrNjOgzJe) | [Conexión \(En Vivo\)](https://open.spotify.com/album/5NxW0Aim29Q9jWXoqA2WYB) | 4:47 | 2021-02-10 | 2024-04-19 |

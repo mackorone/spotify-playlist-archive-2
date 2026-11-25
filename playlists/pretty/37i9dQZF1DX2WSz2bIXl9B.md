@@ -29,4 +29,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2WSz2bIXl9B.md) - [plain]
 | 19 | [Ser más moderno que tu abuela, pez\*nes de guerra y poner el cuerpo con Mariang Maturana \| QP 2X01](https://open.spotify.com/episode/6h4U4JhW5G9YxCKcXjDlxp) | [Querido Pìcaro](https://open.spotify.com/show/6ARmhjqBizRxdXqVWgVgQZ) | [Querido Pìcaro](https://open.spotify.com/album/6ARmhjqBizRxdXqVWgVgQZ) | 30:04 |
 | 20 | [La Vida Extraterrestre TIENE que existir: experto explica por qué NO la encontramos](https://open.spotify.com/episode/7E3Sm9uBrqyEbyNFr4iEdj) | [Ahora me entero](https://open.spotify.com/show/1KOIc2AOrYJMsYn56kWiZg) | [Ahora me entero](https://open.spotify.com/album/1KOIc2AOrYJMsYn56kWiZg) | 1:31:02 |
 
-Snapshot ID: `AAAAAIZoh9ogwSx0bsxXweULoFkKtTfg`
+Snapshot ID: `AAAAAMukkSHxUvCtS5JE2G8EGjk0yPzT`

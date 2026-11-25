@@ -672,7 +672,7 @@
       ],
       "date_added": "2023-11-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-25",
       "duration_ms": 155613,
       "name": "I Know You Are There",
       "url": "https://open.spotify.com/track/02iYSpfKTsnvNxqn4RmSQG"
@@ -690,7 +690,7 @@
       ],
       "date_added": "2023-12-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-25",
       "duration_ms": 237960,
       "name": "I Need You",
       "url": "https://open.spotify.com/track/6cD2cnMRgchHjuFvCDSOCh"
@@ -956,6 +956,24 @@
       "duration_ms": 447480,
       "name": "Lasiurus",
       "url": "https://open.spotify.com/track/3fWlG9rDTtn1kxRJN4PYN3"
+    },
+    {
+      "album": {
+        "name": "The Hunger Games: Sunrise on the Reaping - The Score",
+        "url": "https://open.spotify.com/album/0PZMR1T3WqKT0N5oEMHUf1"
+      },
+      "artists": [
+        {
+          "name": "James Newton Howard",
+          "url": "https://open.spotify.com/artist/2M4eNCvV3CJUswavkhAQg2"
+        }
+      ],
+      "date_added": "2026-11-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 105446,
+      "name": "Launch",
+      "url": "https://open.spotify.com/track/3ad2NMqbYnHCqg9AlolOOj"
     },
     {
       "album": {
@@ -1426,6 +1444,28 @@
       "duration_ms": 51801,
       "name": "Reason to Hope",
       "url": "https://open.spotify.com/track/4C9FFV0E0BSyNZRwNEzdCz"
+    },
+    {
+      "album": {
+        "name": "The Hunger Games: Sunrise on the Reaping - The Score",
+        "url": "https://open.spotify.com/album/0PZMR1T3WqKT0N5oEMHUf1"
+      },
+      "artists": [
+        {
+          "name": "James Newton Howard",
+          "url": "https://open.spotify.com/artist/2M4eNCvV3CJUswavkhAQg2"
+        },
+        {
+          "name": "Jennifer Lawrence",
+          "url": "https://open.spotify.com/artist/3oCIYpmkFw8KGWwMNPKgXh"
+        }
+      ],
+      "date_added": "2026-11-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 139072,
+      "name": "Reunion (ft. Jennifer Lawrence)",
+      "url": "https://open.spotify.com/track/4r3kGH1Elqr7iXnetpMZjB"
     },
     {
       "album": {

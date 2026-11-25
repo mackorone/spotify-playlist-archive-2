@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFJ0Vxn2uDf89.md) - [plain]
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/0MYMXcPN7yx8kdLSKi3Rqb">Gabe Simon</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 381 likes - 191 songs - 10 hr 49 min
+[Spotify](https://open.spotify.com/user/spotify) - 380 likes - 191 songs - 10 hr 49 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -75,8 +75,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFJ0Vxn2uDf89.md) - [plain]
 | 65 | [Saddle Again](https://open.spotify.com/track/0lD78Oo18JztVRHK8GyFXR) | [ROLE MODEL](https://open.spotify.com/artist/1dy5WNgIKQU6ezkpZs4y8z) | [Nobody Wants This Season 2: The Soundtrack](https://open.spotify.com/album/1XKT456HjHTeUw56O9HQEe) | 2:56 |
 | 66 | [Take It Or Leave It](https://open.spotify.com/track/7BDGUn2GuXPuMDNFODgzIl) | [COIN](https://open.spotify.com/artist/0ZxZlO7oWCSYMXhehpyMvE) | [I'm Not Afraid Of Music Anymore](https://open.spotify.com/album/0iYfLtcJwYEl23TtnwTibd) | 2:44 |
 | 67 | [30 Seconds](https://open.spotify.com/track/1gYljiHmr5La4rMkzEbXRE) | [Vinyl Theatre](https://open.spotify.com/artist/7xSEWLsywYbocdtt3xsQsU) | [Origami](https://open.spotify.com/album/6lJWG2Z0Tw7tc9Jwf5rbTu) | 3:32 |
-| 68 | [next 2 me](https://open.spotify.com/track/3MsTJ3uwQAWBAHkh0qQ4Rq) | [Armaan Malik](https://open.spotify.com/artist/4IKVDbCSBTxBeAsMKjAuTs) | [next 2 me](https://open.spotify.com/album/2PKCGPLVxa4iIysVUHUCIn) | 2:32 |
-| 69 | [Endless](https://open.spotify.com/track/3klRimZjMu1YVi10hEXcyP) | [Dermot Kennedy](https://open.spotify.com/artist/5KNNVgR6LBIABRIomyCwKJ) | [The Weight of the Woods](https://open.spotify.com/album/75pxFt8fBxAZaSII4Ur6Dd) | 3:46 |
+| 68 | [Endless](https://open.spotify.com/track/3klRimZjMu1YVi10hEXcyP) | [Dermot Kennedy](https://open.spotify.com/artist/5KNNVgR6LBIABRIomyCwKJ) | [The Weight of the Woods](https://open.spotify.com/album/75pxFt8fBxAZaSII4Ur6Dd) | 3:46 |
+| 69 | [next 2 me](https://open.spotify.com/track/3MsTJ3uwQAWBAHkh0qQ4Rq) | [Armaan Malik](https://open.spotify.com/artist/4IKVDbCSBTxBeAsMKjAuTs) | [next 2 me](https://open.spotify.com/album/2PKCGPLVxa4iIysVUHUCIn) | 2:32 |
 | 70 | [landline](https://open.spotify.com/track/3OqP3uIygaUiuVzhVyk0X5) | [Arlie](https://open.spotify.com/artist/6Bllzm0olEwqGwPujaLiuA) | [BREAK THE CURSE](https://open.spotify.com/album/0nbH8z2iSYXnFE62X1iwYO) | 3:03 |
 | 71 | [Hatchet](https://open.spotify.com/track/5TBJIGQ1TNxSLS7zOrj44g) | [Koe Wetzel](https://open.spotify.com/artist/1Tie3AZgLQZqYEp8Fv4zOZ) | [9 Lives](https://open.spotify.com/album/5W2ZpWhrvHK0h68xiP7ajj) | 3:00 |
 | 72 | [When I'm Gone](https://open.spotify.com/track/4u5XzrHO0w17YdLRBCEKrR) | [Koe Wetzel](https://open.spotify.com/artist/1Tie3AZgLQZqYEp8Fv4zOZ) | [The Night Champion](https://open.spotify.com/album/1BE3z8NRxfAV8ASyXoJmbe) | 3:26 |
@@ -105,8 +105,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFJ0Vxn2uDf89.md) - [plain]
 | 95 | [Fireflies](https://open.spotify.com/track/1RVams1o1mm127apSnmqnp) | [Rag'n'Bone Man](https://open.spotify.com/artist/4f9iBmdUOhQWeP7dcAn1pf) | [Life By Misadventure](https://open.spotify.com/album/6TQpPdEdP2YWSYvlcu7STJ) | 3:18 |
 | 96 | [Runnin' Low](https://open.spotify.com/track/2LQA6pUCmMeefsuGkasID5) | [Koe Wetzel](https://open.spotify.com/artist/1Tie3AZgLQZqYEp8Fv4zOZ) | [9 Lives](https://open.spotify.com/album/5W2ZpWhrvHK0h68xiP7ajj) | 3:28 |
 | 97 | [Loverboy](https://open.spotify.com/track/1nZauSgbnYdr0VGGHj8bk1) | [Adam Lambert](https://open.spotify.com/artist/6prmLEyn4LfHlD9NnXWlf7) | [VELVET](https://open.spotify.com/album/3x2eQlp6uoy5E5uuI1zcdg) | 3:20 |
-| 98 | [Other Lives](https://open.spotify.com/track/7i4us3Bgm5MIEyBdSa8vGR) | [Stealth](https://open.spotify.com/artist/6f3R3mqKR3kHp1KBNMUn80) | [Bury Me](https://open.spotify.com/album/5bH0uvRjdLCrxG73wayab9) | 3:12 |
-| 99 | [Breakin'](https://open.spotify.com/track/2JkbiwiIiPeQyjkQtKGf4X) | [Dexter and The Moonrocks](https://open.spotify.com/artist/72sOBVpZpUwHq7i0vb26lT) | [Happy To Be Here](https://open.spotify.com/album/4fhcxulBSzmg4aENyGBZNT) | 4:23 |
+| 98 | [Breakin'](https://open.spotify.com/track/2JkbiwiIiPeQyjkQtKGf4X) | [Dexter and The Moonrocks](https://open.spotify.com/artist/72sOBVpZpUwHq7i0vb26lT) | [Happy To Be Here](https://open.spotify.com/album/4fhcxulBSzmg4aENyGBZNT) | 4:23 |
+| 99 | [Other Lives](https://open.spotify.com/track/7i4us3Bgm5MIEyBdSa8vGR) | [Stealth](https://open.spotify.com/artist/6f3R3mqKR3kHp1KBNMUn80) | [Bury Me](https://open.spotify.com/album/5bH0uvRjdLCrxG73wayab9) | 3:12 |
 | 100 | [Sinner](https://open.spotify.com/track/6qlYqUpPEYimStKV3nhcix) | [Koe Wetzel](https://open.spotify.com/artist/1Tie3AZgLQZqYEp8Fv4zOZ) | [The Night Champion](https://open.spotify.com/album/1BE3z8NRxfAV8ASyXoJmbe) | 4:02 |
 | 101 | [Magnet](https://open.spotify.com/track/69OPLIDGGlpDyykXN6pVNu) | [Koe Wetzel](https://open.spotify.com/artist/1Tie3AZgLQZqYEp8Fv4zOZ) | [The Night Champion](https://open.spotify.com/album/1B6e2WFd3t2NUIOKN7KHUc) | 3:48 |
 | 102 | [Sertraline](https://open.spotify.com/track/659flwujVevewkwxpyk7DG) | [Myles Smith](https://open.spotify.com/artist/3bO19AOone0ubCsfDXDtYt) | [My Mess, My Heart, My Life.](https://open.spotify.com/album/08u2urMBBJIz9kMwAl08yI) | 3:16 |
@@ -200,4 +200,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFJ0Vxn2uDf89.md) - [plain]
 | 190 | [Going Nowhere](https://open.spotify.com/track/2Jcch257ODLARJyQENv541) | [WAITERS](https://open.spotify.com/artist/3mv2bMoIxhLVw3eRBFoO9h) | [Going Nowhere](https://open.spotify.com/album/4luFG6rwCdyRJvses0MjIx) | 3:20 |
 | 191 | [Happens All The Time](https://open.spotify.com/track/6A3BEvSriUmACL0fsAgdN7) | [Joshua Speers](https://open.spotify.com/artist/7KlIBAc2EPCSzwvrLftuch) | [All American Zero](https://open.spotify.com/album/2ioglZgabUgpPrt25Nl30h) | 3:03 |
 
-Snapshot ID: `AcifMgAAAACaFsZap9CHi+ykn0o36+Kb`
+Snapshot ID: `AciklgAAAADKxI5UzbOwhVf8JtAjZKGd`

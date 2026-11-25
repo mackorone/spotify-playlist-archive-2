@@ -4,7 +4,7 @@
 
 > Olivia Dean keeps the good vibes going all day long
 
-1,138 songs - 2 day 13 hr 19 min
+1,139 songs - 2 day 13 hr 22 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -991,6 +991,7 @@
 | [Talk It Over](https://open.spotify.com/track/1qkkE488CPJ0MIEkwOWLD3) | [Leon Bridges](https://open.spotify.com/artist/3qnGvpP8Yth1AqSBMqON5x) | [Happiness Anytime: Part 2](https://open.spotify.com/album/7dn6XRgEhJV7DRnupARxs9) | 2:58 | 2026-09-09 | 2026-10-09 |
 | [Talk To You \(ft\. 54 Ultra\)](https://open.spotify.com/track/0kl6Ozan3fuUdCl6TlB15v) | [ANOTR](https://open.spotify.com/artist/4p5WgeiPSPpqPDs7T6OkWf), [54 Ultra](https://open.spotify.com/artist/6X5L6rmyvrWWu60Gx6exiZ) | [Talk To You \(ft\. 54 Ultra\)](https://open.spotify.com/album/374Z5kI6lNCztQV7HItzUJ) | 3:11 | 2026-03-20 |  |
 | [Tangerine](https://open.spotify.com/track/40rOlDoGejXXF4B0BYsjx8) | [Glass Animals](https://open.spotify.com/artist/4yvcSjfu4PC0CYQyLy4wSq) | [Dreamland](https://open.spotify.com/album/5bfpRtBW7RNRdsm3tRyl3R) | 3:20 | 2020-08-07 | 2022-04-16 |
+| [TANZANIA](https://open.spotify.com/track/2iz77djY2EC2swPRvRbFco) | [Rema](https://open.spotify.com/artist/46pWGuE3dSwY3bMMXGBvVS), [BNYX®](https://open.spotify.com/artist/6os1temnovzJIEGRUmn3fG) | [E\-Mortal Boy](https://open.spotify.com/album/4r6kHpL8Ql8O6FvfvdjVwg) | 2:51 | 2026-11-25 |  |
 | [Tears](https://open.spotify.com/track/42VUCXerQ5qTr4Qp6PhKo4) | [Sabrina Carpenter](https://open.spotify.com/artist/74KM79TiuVKeVCqs8QtB0B) | [Man’s Best Friend](https://open.spotify.com/album/1aqg30bNvLSWgShZgX4oop) | 2:40 | 2025-08-29 | 2025-09-21 |
 | [Tears \(feat\. Omah Lay\)](https://open.spotify.com/track/0A0MTURTbuUgZNvS9tbh1g) | [Kehlani](https://open.spotify.com/artist/0cGUm45nv7Z6M6qdXYQGTX), [Omah Lay](https://open.spotify.com/artist/5yOvAmpIR7hVxiS6Ls5DPO) | [CRASH](https://open.spotify.com/album/6GF5uzX2s0GsS4eGlM4h3m) | 3:33 | 2024-06-21 | 2024-08-03 |
 | [Technicolor Dream](https://open.spotify.com/track/4Mn0mNcjY2GpycbCChNLej) | [My Friend Catie](https://open.spotify.com/artist/2B2j4jb1ZGYKKIBOJAj4aq) | [Technicolor Dream](https://open.spotify.com/album/165OxgFnUaeMTJnYndej77) | 4:10 | 2024-05-10 | 2025-01-11 |
@@ -1102,7 +1103,7 @@
 | [West Coast](https://open.spotify.com/track/7LYeUOPupD3SFkOianhywD) | [EZ Band](https://open.spotify.com/artist/2gTWLwanLiNZFR0iNPD847) | [Make it Norteño Vol\. 2 \(Side A\)](https://open.spotify.com/album/6Wdpi7Go2h5hwx5jud0yQ7) | 4:00 | 2025-01-17 | 2025-11-15 |
 | [West Coast](https://open.spotify.com/track/0sBJA2OCEECMs0HsdIQhvR) | [OneRepublic](https://open.spotify.com/artist/5Pwc4xIPtQLFEnJriah9YJ) | [West Coast](https://open.spotify.com/album/1EM2RddQo9GGjrCsE1bk7a) | 3:12 | 2022-02-25 | 2022-10-29 |
 | [Western Wind](https://open.spotify.com/track/0Q2FDq304w57PGAKKcC3Qk) | [Carly Rae Jepsen](https://open.spotify.com/artist/6sFIWsNpZYqfjUpaCgueju) | [Western Wind](https://open.spotify.com/album/5WCdg2iITZNONNV8Wp5P7M) | 3:45 | 2022-05-06 | 2022-06-11 |
-| [WHAT A LIFE](https://open.spotify.com/track/12l1na9M2J9OVljxm4ahPq) | [Forrest Frank](https://open.spotify.com/artist/1scVfBymTr3CeZ4imMj1QJ) | [WHAT A LIFE](https://open.spotify.com/album/3IQwTCKTQyxBxqbuUAh3jX) | 2:37 | 2026-10-30 |  |
+| [WHAT A LIFE](https://open.spotify.com/track/12l1na9M2J9OVljxm4ahPq) | [Forrest Frank](https://open.spotify.com/artist/1scVfBymTr3CeZ4imMj1QJ) | [WHAT A LIFE](https://open.spotify.com/album/3IQwTCKTQyxBxqbuUAh3jX) | 2:37 | 2026-10-30 | 2026-11-25 |
 | [What It Gave Me](https://open.spotify.com/track/13phnVSF0kFue6KuZEDiDf) | [Jordan Rakei](https://open.spotify.com/artist/24icoQNJSEWNu3XvqKBR68), [Jalen Ngonda](https://open.spotify.com/artist/2kEDso93O2hDgCbnuiSkkZ) | [Between Us](https://open.spotify.com/album/2n3AdEZI379D0sAAWvTHEa) | 2:44 | 2026-09-11 | 2026-10-20 |
 | [What It Is \(Solo Version\)](https://open.spotify.com/track/73RbfOTJIjHzi2pcVHjeHM) | [Doechii](https://open.spotify.com/artist/4E2rKHVDssGJm2SCDOMMJB) | [What It Is \(Versions\)](https://open.spotify.com/album/71MqBkcflJ1Rz1SHo8XSi5) | 3:09 | 2023-08-04 | 2024-04-27 |
 | [What You Won't Do for Love](https://open.spotify.com/track/6Dk5fHTvH897XrVzCO64Mx) | [Bobby Caldwell](https://open.spotify.com/artist/4V4Z3qMCwYofWHtip6ePF6) | [What You Won't Do for Love](https://open.spotify.com/album/4pBJRxtR5TQe8hfsUgZ1r2) | 4:46 | 2023-03-17 |  |
