@@ -1,12 +1,12 @@
 {
   "description": "LA P*TA GAMA LA MAMI \ud83d\udcf8 El More",
-  "num_followers": 312655,
+  "num_followers": 312804,
   "original_name": "El Diablo Viste a La Gama ",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAMXPJGEAToQme2sxvWICkIQmiApm",
+  "snapshot_id": "AAAAACyLuLP3OwHEDppzkyrlOg8AUkBm",
   "tracks": [
     {
       "added_at": "2026-11-20 02:17:57",
@@ -667,6 +667,26 @@
     {
       "added_at": "2026-11-20 02:17:57",
       "album": {
+        "name": "La Gama",
+        "url": "https://open.spotify.com/album/2ODEi3VH71otajQcu50qqQ"
+      },
+      "artists": [
+        {
+          "name": "El More",
+          "url": "https://open.spotify.com/artist/6ZkosMYAiABvJfjHlM1gkS"
+        },
+        {
+          "name": "CHOMBO_BTZZZ",
+          "url": "https://open.spotify.com/artist/7sFgdLcVvTcJyQ9OFMyVuf"
+        }
+      ],
+      "duration_ms": 155675,
+      "name": "The Range",
+      "url": "https://open.spotify.com/track/3B704eiGJjC22kMQ85BqXJ"
+    },
+    {
+      "added_at": "2026-11-20 02:17:57",
+      "album": {
         "name": "MODO CHAKALON",
         "url": "https://open.spotify.com/album/5EBFVJPchw9dyLJRrzc3qr"
       },
@@ -687,26 +707,6 @@
       "duration_ms": 159612,
       "name": "MODO CHAKALON",
       "url": "https://open.spotify.com/track/4E8dl7KQEDxLy8sGmiSefU"
-    },
-    {
-      "added_at": "2026-11-20 02:17:57",
-      "album": {
-        "name": "La Gama",
-        "url": "https://open.spotify.com/album/2ODEi3VH71otajQcu50qqQ"
-      },
-      "artists": [
-        {
-          "name": "El More",
-          "url": "https://open.spotify.com/artist/6ZkosMYAiABvJfjHlM1gkS"
-        },
-        {
-          "name": "CHOMBO_BTZZZ",
-          "url": "https://open.spotify.com/artist/7sFgdLcVvTcJyQ9OFMyVuf"
-        }
-      ],
-      "duration_ms": 155675,
-      "name": "The Range",
-      "url": "https://open.spotify.com/track/3B704eiGJjC22kMQ85BqXJ"
     },
     {
       "added_at": "2026-11-20 02:17:57",
@@ -983,26 +983,6 @@
     {
       "added_at": "2026-11-20 02:17:57",
       "album": {
-        "name": "Sale Sale Reggaeton Dembow",
-        "url": "https://open.spotify.com/album/4UAus8MDHFQcd0jkFouJn7"
-      },
-      "artists": [
-        {
-          "name": "El Gudi",
-          "url": "https://open.spotify.com/artist/4bBHOk8nEyfPGCZsDEEZsB"
-        },
-        {
-          "name": "Alexito Mix",
-          "url": "https://open.spotify.com/artist/1EJlMs9YAmWYkkZrQ01DK4"
-        }
-      ],
-      "duration_ms": 130186,
-      "name": "Sale Sale Reggaeton Dembow",
-      "url": "https://open.spotify.com/track/51UgeSPElclgVI3gosZSNu"
-    },
-    {
-      "added_at": "2026-11-20 02:17:57",
-      "album": {
         "name": "Frontea",
         "url": "https://open.spotify.com/album/2IRnUfaM1ekU5jNvMFjeJd"
       },
@@ -1031,6 +1011,26 @@
     {
       "added_at": "2026-11-20 02:17:57",
       "album": {
+        "name": "Sale Sale Reggaeton Dembow",
+        "url": "https://open.spotify.com/album/4UAus8MDHFQcd0jkFouJn7"
+      },
+      "artists": [
+        {
+          "name": "El Gudi",
+          "url": "https://open.spotify.com/artist/4bBHOk8nEyfPGCZsDEEZsB"
+        },
+        {
+          "name": "Alexito Mix",
+          "url": "https://open.spotify.com/artist/1EJlMs9YAmWYkkZrQ01DK4"
+        }
+      ],
+      "duration_ms": 130186,
+      "name": "Sale Sale Reggaeton Dembow",
+      "url": "https://open.spotify.com/track/51UgeSPElclgVI3gosZSNu"
+    },
+    {
+      "added_at": "2026-11-20 02:17:57",
+      "album": {
         "name": "Delincuentech (Radio Edit)",
         "url": "https://open.spotify.com/album/0IlGDd43Ys4WtuICg83Br6"
       },
@@ -1043,38 +1043,6 @@
       "duration_ms": 123591,
       "name": "Delincuentech - Radio Edit",
       "url": "https://open.spotify.com/track/0LFrc6EsTEpX4uVrsf23sQ"
-    },
-    {
-      "added_at": "2026-11-20 02:17:57",
-      "album": {
-        "name": "PRE\u00d1EO",
-        "url": "https://open.spotify.com/album/0JAbnUCQpvPmpa3xS3ZVcV"
-      },
-      "artists": [
-        {
-          "name": "Ivy Wavy",
-          "url": "https://open.spotify.com/artist/0f1hBCKMEIIvZ5TNgChNuC"
-        },
-        {
-          "name": "Nasty Vato",
-          "url": "https://open.spotify.com/artist/2euk6cwOEpdVumMD89x6qD"
-        },
-        {
-          "name": "Emex",
-          "url": "https://open.spotify.com/artist/6nmmRJCDNKGX7HMRwwAV6h"
-        },
-        {
-          "name": "Tunenegoga",
-          "url": "https://open.spotify.com/artist/3GkPSttICET2yApg0lJdrA"
-        },
-        {
-          "name": "Dulz\u00f3n",
-          "url": "https://open.spotify.com/artist/7KIQoIHGwiMhd84kW3211q"
-        }
-      ],
-      "duration_ms": 173922,
-      "name": "PRE\u00d1EO",
-      "url": "https://open.spotify.com/track/7pNs3Eikt5p3Ax5mEJCaLp"
     },
     {
       "added_at": "2026-11-20 02:17:57",
@@ -1115,6 +1083,38 @@
       "duration_ms": 169567,
       "name": "CUANDO TE VEO - DELUXE",
       "url": "https://open.spotify.com/track/6vLuE7XBQEZqz6KYYaT4nx"
+    },
+    {
+      "added_at": "2026-11-20 02:17:57",
+      "album": {
+        "name": "PRE\u00d1EO",
+        "url": "https://open.spotify.com/album/0JAbnUCQpvPmpa3xS3ZVcV"
+      },
+      "artists": [
+        {
+          "name": "Ivy Wavy",
+          "url": "https://open.spotify.com/artist/0f1hBCKMEIIvZ5TNgChNuC"
+        },
+        {
+          "name": "Nasty Vato",
+          "url": "https://open.spotify.com/artist/2euk6cwOEpdVumMD89x6qD"
+        },
+        {
+          "name": "Emex",
+          "url": "https://open.spotify.com/artist/6nmmRJCDNKGX7HMRwwAV6h"
+        },
+        {
+          "name": "Tunenegoga",
+          "url": "https://open.spotify.com/artist/3GkPSttICET2yApg0lJdrA"
+        },
+        {
+          "name": "Dulz\u00f3n",
+          "url": "https://open.spotify.com/artist/7KIQoIHGwiMhd84kW3211q"
+        }
+      ],
+      "duration_ms": 173922,
+      "name": "PRE\u00d1EO",
+      "url": "https://open.spotify.com/track/7pNs3Eikt5p3Ax5mEJCaLp"
     }
   ],
   "unique_name": "El Diablo Viste a La Gama ",

@@ -1,12 +1,12 @@
 {
   "description": "The perfect mixtape for an anime fight scene. Also, check out <a href='spotify:playlist:37i9dQZF1EId8uVIwoG4N5'>Anime Rap Mix</a>.",
-  "num_followers": 1341467,
+  "num_followers": 1341505,
   "original_name": "sh\u014dnen",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAAS5cU2+u/oTmpidkE0igT6Sg4yK",
+  "snapshot_id": "AAAAAPL9p1PypJT6cue1iAvyMl4pNOrL",
   "tracks": [
     {
       "added_at": "2024-09-18 21:12:46",
@@ -1047,6 +1047,26 @@
     {
       "added_at": "2024-09-18 21:12:46",
       "album": {
+        "name": "BREATHE",
+        "url": "https://open.spotify.com/album/3c9lEzKYoMMjZz1sLzilHx"
+      },
+      "artists": [
+        {
+          "name": "yatashigang",
+          "url": "https://open.spotify.com/artist/2GBDI5PSiEnVoH0YnFFRLx"
+        },
+        {
+          "name": "January RT",
+          "url": "https://open.spotify.com/artist/1o2BMJgKJoVX6x0bQ4sMpu"
+        }
+      ],
+      "duration_ms": 182176,
+      "name": "BREATHE",
+      "url": "https://open.spotify.com/track/2qmn3UsrMtbt3orqjZSDVh"
+    },
+    {
+      "added_at": "2024-09-18 21:12:46",
+      "album": {
         "name": "OLIVIA",
         "url": "https://open.spotify.com/album/3hNNuCctdqZqKJvPcb5UbV"
       },
@@ -1079,26 +1099,6 @@
       "duration_ms": 133392,
       "name": "BLACKED OUT",
       "url": "https://open.spotify.com/track/11YEKSSOXXw0rXVCZgHKi6"
-    },
-    {
-      "added_at": "2024-09-18 21:12:46",
-      "album": {
-        "name": "BREATHE",
-        "url": "https://open.spotify.com/album/3c9lEzKYoMMjZz1sLzilHx"
-      },
-      "artists": [
-        {
-          "name": "yatashigang",
-          "url": "https://open.spotify.com/artist/2GBDI5PSiEnVoH0YnFFRLx"
-        },
-        {
-          "name": "January RT",
-          "url": "https://open.spotify.com/artist/1o2BMJgKJoVX6x0bQ4sMpu"
-        }
-      ],
-      "duration_ms": 182176,
-      "name": "BREATHE",
-      "url": "https://open.spotify.com/track/2qmn3UsrMtbt3orqjZSDVh"
     },
     {
       "added_at": "2024-09-18 21:12:46",
@@ -1211,18 +1211,22 @@
     {
       "added_at": "2024-09-18 21:12:46",
       "album": {
-        "name": "S1KE",
-        "url": "https://open.spotify.com/album/5YKJ7mPmmNEGFkczGfM2nx"
+        "name": "Sword & Sorcery",
+        "url": "https://open.spotify.com/album/1rkKP96HMoC6T9lDp7gNK4"
       },
       "artists": [
         {
-          "name": "Ariis",
-          "url": "https://open.spotify.com/artist/09cKncAQn28NqTUORLMwSR"
+          "name": "Rustage",
+          "url": "https://open.spotify.com/artist/6cd3XfCAc3e596RQW8P94H"
+        },
+        {
+          "name": "McGwire",
+          "url": "https://open.spotify.com/artist/411VUMJLq5DVLoU7OaBwk7"
         }
       ],
-      "duration_ms": 114666,
-      "name": "S1KE",
-      "url": "https://open.spotify.com/track/353nsW8dzFIYX3hZfn2fUL"
+      "duration_ms": 173142,
+      "name": "Devil's Luck",
+      "url": "https://open.spotify.com/track/0LcUDd9Pz0qSC1Tn09G4kn"
     },
     {
       "added_at": "2024-09-18 21:12:46",
@@ -1247,22 +1251,18 @@
     {
       "added_at": "2024-09-18 21:12:46",
       "album": {
-        "name": "Sword & Sorcery",
-        "url": "https://open.spotify.com/album/1rkKP96HMoC6T9lDp7gNK4"
+        "name": "S1KE",
+        "url": "https://open.spotify.com/album/5YKJ7mPmmNEGFkczGfM2nx"
       },
       "artists": [
         {
-          "name": "Rustage",
-          "url": "https://open.spotify.com/artist/6cd3XfCAc3e596RQW8P94H"
-        },
-        {
-          "name": "McGwire",
-          "url": "https://open.spotify.com/artist/411VUMJLq5DVLoU7OaBwk7"
+          "name": "Ariis",
+          "url": "https://open.spotify.com/artist/09cKncAQn28NqTUORLMwSR"
         }
       ],
-      "duration_ms": 173142,
-      "name": "Devil's Luck",
-      "url": "https://open.spotify.com/track/0LcUDd9Pz0qSC1Tn09G4kn"
+      "duration_ms": 114666,
+      "name": "S1KE",
+      "url": "https://open.spotify.com/track/353nsW8dzFIYX3hZfn2fUL"
     },
     {
       "added_at": "2024-09-18 21:12:46",
@@ -1303,18 +1303,22 @@
     {
       "added_at": "2024-09-18 21:12:46",
       "album": {
-        "name": "Break My Heart Again",
-        "url": "https://open.spotify.com/album/4bENQxh42sLJXZVFmtcbTD"
+        "name": "SOLO",
+        "url": "https://open.spotify.com/album/2uUtMMIbcPIT5qHtab90CB"
       },
       "artists": [
         {
-          "name": "Fabvl",
-          "url": "https://open.spotify.com/artist/48bqPGhLPTuS8gKg3UTtf9"
+          "name": "Rustage",
+          "url": "https://open.spotify.com/artist/6cd3XfCAc3e596RQW8P94H"
+        },
+        {
+          "name": "anoravt",
+          "url": "https://open.spotify.com/artist/4szuM6PQ5KeTofZSykuhgK"
         }
       ],
-      "duration_ms": 240940,
-      "name": "Break My Heart Again",
-      "url": "https://open.spotify.com/track/08fJKZPSYONHJ49Sf4ri64"
+      "duration_ms": 171140,
+      "name": "SOLO",
+      "url": "https://open.spotify.com/track/2zkTK9vKqjNkLp4SOzpSXc"
     },
     {
       "added_at": "2024-09-18 21:12:46",
@@ -1339,22 +1343,18 @@
     {
       "added_at": "2024-09-18 21:12:46",
       "album": {
-        "name": "SOLO",
-        "url": "https://open.spotify.com/album/2uUtMMIbcPIT5qHtab90CB"
+        "name": "Break My Heart Again",
+        "url": "https://open.spotify.com/album/4bENQxh42sLJXZVFmtcbTD"
       },
       "artists": [
         {
-          "name": "Rustage",
-          "url": "https://open.spotify.com/artist/6cd3XfCAc3e596RQW8P94H"
-        },
-        {
-          "name": "anoravt",
-          "url": "https://open.spotify.com/artist/4szuM6PQ5KeTofZSykuhgK"
+          "name": "Fabvl",
+          "url": "https://open.spotify.com/artist/48bqPGhLPTuS8gKg3UTtf9"
         }
       ],
-      "duration_ms": 171140,
-      "name": "SOLO",
-      "url": "https://open.spotify.com/track/2zkTK9vKqjNkLp4SOzpSXc"
+      "duration_ms": 240940,
+      "name": "Break My Heart Again",
+      "url": "https://open.spotify.com/track/08fJKZPSYONHJ49Sf4ri64"
     }
   ],
   "unique_name": "sh\u014dnen",

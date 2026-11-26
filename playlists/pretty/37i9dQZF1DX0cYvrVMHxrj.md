@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0cYvrVMHxrj.md) - [plain]
 
 > We asked artists to shout out the rising names we \(and you\) need to know — and these are their picks.
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,262 likes - 46 songs - 2 hr 16 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,266 likes - 46 songs - 2 hr 16 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -55,4 +55,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0cYvrVMHxrj.md) - [plain]
 | 45 | [A Melhor Saída](https://open.spotify.com/track/6Q4m595vykkZVev0ZHWQsK) | [Dora Morelenbaum](https://open.spotify.com/artist/6xt7x7TG8ExdvWM3R15cmE) | [Pique](https://open.spotify.com/album/0kLSMHP6ziFI70EItEtdZU) | 4:03 |
 | 46 | [Buscándote En Alguien Más](https://open.spotify.com/track/4y7rKyByPC4tcqSknj3xGr) | [Wabi](https://open.spotify.com/artist/1dH1dg8slCAEfbO2vHCIeV) | [Paz](https://open.spotify.com/album/29RAq81zyqYAIeLEhQrfIE) | 3:52 |
 
-Snapshot ID: `AAAAAGowxOYTIwQVmFEfgardpcWDt7Wn`
+Snapshot ID: `AAAAAN99DiFF23E5zu0lt8sYv+MSHR0k`

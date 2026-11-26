@@ -1,12 +1,12 @@
 {
   "description": "\ud83d\ude80 when ur love language is bpm \ud83d\ude80  Cover: southstar",
-  "num_followers": 478130,
+  "num_followers": 478598,
   "original_name": "rave",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAFMSva8PQc5SYrDbmY/jjucQwW0F",
+  "snapshot_id": "AAAAAIRED1xCJNRKRivWQr0UzeVh3kpO",
   "tracks": [
     {
       "added_at": "2026-11-19 23:00:51",
@@ -847,6 +847,22 @@
     {
       "added_at": "2026-11-19 23:00:51",
       "album": {
+        "name": "227kg",
+        "url": "https://open.spotify.com/album/4IjIVj0EF4iDwX1hiwKL1l"
+      },
+      "artists": [
+        {
+          "name": "Pegassi",
+          "url": "https://open.spotify.com/artist/2A4uiWrfuBpVFugyvxAt4c"
+        }
+      ],
+      "duration_ms": 228571,
+      "name": "227kg",
+      "url": "https://open.spotify.com/track/3PJo4Pq0WscWLh2h89U2Kx"
+    },
+    {
+      "added_at": "2026-11-19 23:00:51",
+      "album": {
         "name": "Bring Some Acid",
         "url": "https://open.spotify.com/album/2zcQ4bAMsYEXtZQyvyRsZr"
       },
@@ -863,22 +879,6 @@
       "duration_ms": 136050,
       "name": "Bring Some Acid",
       "url": "https://open.spotify.com/track/0FeVfJULLFzARZb1TvZroq"
-    },
-    {
-      "added_at": "2026-11-19 23:00:51",
-      "album": {
-        "name": "227kg",
-        "url": "https://open.spotify.com/album/4IjIVj0EF4iDwX1hiwKL1l"
-      },
-      "artists": [
-        {
-          "name": "Pegassi",
-          "url": "https://open.spotify.com/artist/2A4uiWrfuBpVFugyvxAt4c"
-        }
-      ],
-      "duration_ms": 228571,
-      "name": "227kg",
-      "url": "https://open.spotify.com/track/3PJo4Pq0WscWLh2h89U2Kx"
     },
     {
       "added_at": "2026-11-19 23:00:51",
@@ -1175,30 +1175,6 @@
     {
       "added_at": "2026-11-19 23:00:51",
       "album": {
-        "name": "Vermissen (Nachtigaller Remix)",
-        "url": "https://open.spotify.com/album/0n8kXvrNIClPZyfHzMty8N"
-      },
-      "artists": [
-        {
-          "name": "Juju",
-          "url": "https://open.spotify.com/artist/4sg4no0TXdsrM1s4SVUwNF"
-        },
-        {
-          "name": "Henning May",
-          "url": "https://open.spotify.com/artist/1cH0i2n6YLrWFDDemqztay"
-        },
-        {
-          "name": "Nachtigaller",
-          "url": "https://open.spotify.com/artist/3BRgI5WSMJJD2Iy4M8xKQF"
-        }
-      ],
-      "duration_ms": 163319,
-      "name": "Vermissen - Nachtigaller Remix",
-      "url": "https://open.spotify.com/track/3fEEuVqLXSKhKtksmvckRo"
-    },
-    {
-      "added_at": "2026-11-19 23:00:51",
-      "album": {
         "name": "Stolen Dance (Hypertechno)",
         "url": "https://open.spotify.com/album/3AJeTQRLl9C9UcgxGAb6Q0"
       },
@@ -1227,6 +1203,30 @@
       "duration_ms": 121755,
       "name": "Bad Girls",
       "url": "https://open.spotify.com/track/2h4zp76tI5Sbl3BNspNBuG"
+    },
+    {
+      "added_at": "2026-11-19 23:00:51",
+      "album": {
+        "name": "Vermissen (Nachtigaller Remix)",
+        "url": "https://open.spotify.com/album/0n8kXvrNIClPZyfHzMty8N"
+      },
+      "artists": [
+        {
+          "name": "Juju",
+          "url": "https://open.spotify.com/artist/4sg4no0TXdsrM1s4SVUwNF"
+        },
+        {
+          "name": "Henning May",
+          "url": "https://open.spotify.com/artist/1cH0i2n6YLrWFDDemqztay"
+        },
+        {
+          "name": "Nachtigaller",
+          "url": "https://open.spotify.com/artist/3BRgI5WSMJJD2Iy4M8xKQF"
+        }
+      ],
+      "duration_ms": 163319,
+      "name": "Vermissen - Nachtigaller Remix",
+      "url": "https://open.spotify.com/track/3fEEuVqLXSKhKtksmvckRo"
     },
     {
       "added_at": "2026-11-19 23:00:51",
@@ -1283,26 +1283,6 @@
     {
       "added_at": "2026-11-19 23:00:51",
       "album": {
-        "name": "No Limit",
-        "url": "https://open.spotify.com/album/5OGsScd09uGjfN2uLH1glz"
-      },
-      "artists": [
-        {
-          "name": "999999999",
-          "url": "https://open.spotify.com/artist/6uD2LjPHUjxrpax0se17Nc"
-        },
-        {
-          "name": "FLKN",
-          "url": "https://open.spotify.com/artist/3OyQ9AeMFgwKFHUgBOISww"
-        }
-      ],
-      "duration_ms": 219870,
-      "name": "No Limit",
-      "url": "https://open.spotify.com/track/1eUkZEhwbZkkhNfgA1qVyA"
-    },
-    {
-      "added_at": "2026-11-19 23:00:51",
-      "album": {
         "name": "S&M (With Chacel) [HYPERTECHNO Edit]",
         "url": "https://open.spotify.com/album/03dARt9q9tCPuavH3xT9jK"
       },
@@ -1319,6 +1299,26 @@
       "duration_ms": 178614,
       "name": "S&M (With Chacel) - HYPERTECHNO Edit",
       "url": "https://open.spotify.com/track/0qtQPmrqQq09KKDqxNltgM"
+    },
+    {
+      "added_at": "2026-11-19 23:00:51",
+      "album": {
+        "name": "No Limit",
+        "url": "https://open.spotify.com/album/5OGsScd09uGjfN2uLH1glz"
+      },
+      "artists": [
+        {
+          "name": "999999999",
+          "url": "https://open.spotify.com/artist/6uD2LjPHUjxrpax0se17Nc"
+        },
+        {
+          "name": "FLKN",
+          "url": "https://open.spotify.com/artist/3OyQ9AeMFgwKFHUgBOISww"
+        }
+      ],
+      "duration_ms": 219870,
+      "name": "No Limit",
+      "url": "https://open.spotify.com/track/1eUkZEhwbZkkhNfgA1qVyA"
     },
     {
       "added_at": "2026-11-19 23:00:51",
@@ -1347,6 +1347,22 @@
     {
       "added_at": "2026-11-19 23:00:51",
       "album": {
+        "name": "tell you straight",
+        "url": "https://open.spotify.com/album/7r9czA9MzTXbIRv27OtxGq"
+      },
+      "artists": [
+        {
+          "name": "jigitz",
+          "url": "https://open.spotify.com/artist/7sfn5Z6ItzDkOF9cYzxWPZ"
+        }
+      ],
+      "duration_ms": 124864,
+      "name": "tell you straight",
+      "url": "https://open.spotify.com/track/1Cheunopig5ZrxuGe94MtX"
+    },
+    {
+      "added_at": "2026-11-19 23:00:51",
+      "album": {
         "name": "I Like",
         "url": "https://open.spotify.com/album/5qhFCBMK2qx3Vboaxwuh4W"
       },
@@ -1363,22 +1379,6 @@
       "duration_ms": 195918,
       "name": "I Like",
       "url": "https://open.spotify.com/track/2EqvkJYnk3pCqlsaN89THt"
-    },
-    {
-      "added_at": "2026-11-19 23:00:51",
-      "album": {
-        "name": "tell you straight",
-        "url": "https://open.spotify.com/album/7r9czA9MzTXbIRv27OtxGq"
-      },
-      "artists": [
-        {
-          "name": "jigitz",
-          "url": "https://open.spotify.com/artist/7sfn5Z6ItzDkOF9cYzxWPZ"
-        }
-      ],
-      "duration_ms": 124864,
-      "name": "tell you straight",
-      "url": "https://open.spotify.com/track/1Cheunopig5ZrxuGe94MtX"
     },
     {
       "added_at": "2026-11-19 23:00:51",
@@ -1455,22 +1455,6 @@
       "duration_ms": 137986,
       "name": "i like the way you kiss me - southstar remix",
       "url": "https://open.spotify.com/track/7skteOnDbwZ3ZvjSe99xv2"
-    },
-    {
-      "added_at": "2026-11-19 23:00:51",
-      "album": {
-        "name": "Low Again",
-        "url": "https://open.spotify.com/album/6afCL6c4857TgbFFS3FGWe"
-      },
-      "artists": [
-        {
-          "name": "BOVSKI",
-          "url": "https://open.spotify.com/artist/3MWeawb18cHiDxt4ip7GY9"
-        }
-      ],
-      "duration_ms": 127123,
-      "name": "Low Again",
-      "url": "https://open.spotify.com/track/7pCu8T3dNcNNt1nIMtsQqB"
     },
     {
       "added_at": "2026-11-19 23:00:51",
@@ -1591,42 +1575,18 @@
     {
       "added_at": "2026-11-19 23:00:51",
       "album": {
-        "name": "Amor EP",
-        "url": "https://open.spotify.com/album/6v50qNzxBH7PI4rHsamjVX"
+        "name": "Low Again",
+        "url": "https://open.spotify.com/album/6afCL6c4857TgbFFS3FGWe"
       },
       "artists": [
         {
-          "name": "Charlotte de Witte",
-          "url": "https://open.spotify.com/artist/1lJhME1ZpzsEa5M0wW6Mso"
-        },
-        {
-          "name": "CERES",
-          "url": "https://open.spotify.com/artist/32kPQzj1rk4nnGIIJpIUic"
+          "name": "BOVSKI",
+          "url": "https://open.spotify.com/artist/3MWeawb18cHiDxt4ip7GY9"
         }
       ],
-      "duration_ms": 372293,
-      "name": "Amor (feat. CERES)",
-      "url": "https://open.spotify.com/track/4UhxekskWFXSv9ik933yBv"
-    },
-    {
-      "added_at": "2026-11-19 23:00:51",
-      "album": {
-        "name": "Damager",
-        "url": "https://open.spotify.com/album/2BtrCfwSWpUByzO4leFHJB"
-      },
-      "artists": [
-        {
-          "name": "Sammy Virji",
-          "url": "https://open.spotify.com/artist/1GuqTQbuixFHD6eBkFwVcb"
-        },
-        {
-          "name": "Interplanetary Criminal",
-          "url": "https://open.spotify.com/artist/6uJ51uV5rYzu1MJkC4CceI"
-        }
-      ],
-      "duration_ms": 224591,
-      "name": "Damager",
-      "url": "https://open.spotify.com/track/7lNxQksP0anFNGEq8zsjMS"
+      "duration_ms": 127123,
+      "name": "Low Again",
+      "url": "https://open.spotify.com/track/7pCu8T3dNcNNt1nIMtsQqB"
     },
     {
       "added_at": "2026-11-19 23:00:51",
@@ -1655,22 +1615,42 @@
     {
       "added_at": "2026-11-19 23:00:51",
       "album": {
-        "name": "Toter Schmetterling",
-        "url": "https://open.spotify.com/album/4TIt20JTmC6Vr99zuoSQlf"
+        "name": "Damager",
+        "url": "https://open.spotify.com/album/2BtrCfwSWpUByzO4leFHJB"
       },
       "artists": [
         {
-          "name": "Klangkuenstler",
-          "url": "https://open.spotify.com/artist/6H77vD9YyhyxHBTkRpbMBk"
+          "name": "Sammy Virji",
+          "url": "https://open.spotify.com/artist/1GuqTQbuixFHD6eBkFwVcb"
         },
         {
-          "name": "Sant",
-          "url": "https://open.spotify.com/artist/0mgoNP0DrkKktInN298H4u"
+          "name": "Interplanetary Criminal",
+          "url": "https://open.spotify.com/artist/6uJ51uV5rYzu1MJkC4CceI"
         }
       ],
-      "duration_ms": 164615,
-      "name": "Toter Schmetterling - Single Edit",
-      "url": "https://open.spotify.com/track/6IDywtwTrAkEsmJkPSNs27"
+      "duration_ms": 224591,
+      "name": "Damager",
+      "url": "https://open.spotify.com/track/7lNxQksP0anFNGEq8zsjMS"
+    },
+    {
+      "added_at": "2026-11-19 23:00:51",
+      "album": {
+        "name": "Amor EP",
+        "url": "https://open.spotify.com/album/6v50qNzxBH7PI4rHsamjVX"
+      },
+      "artists": [
+        {
+          "name": "Charlotte de Witte",
+          "url": "https://open.spotify.com/artist/1lJhME1ZpzsEa5M0wW6Mso"
+        },
+        {
+          "name": "CERES",
+          "url": "https://open.spotify.com/artist/32kPQzj1rk4nnGIIJpIUic"
+        }
+      ],
+      "duration_ms": 372293,
+      "name": "Amor (feat. CERES)",
+      "url": "https://open.spotify.com/track/4UhxekskWFXSv9ik933yBv"
     },
     {
       "added_at": "2026-11-19 23:00:51",
@@ -1687,6 +1667,26 @@
       "duration_ms": 226831,
       "name": "Azul",
       "url": "https://open.spotify.com/track/1KOTY2OVnEgua9eY76WxvT"
+    },
+    {
+      "added_at": "2026-11-19 23:00:51",
+      "album": {
+        "name": "Toter Schmetterling",
+        "url": "https://open.spotify.com/album/4TIt20JTmC6Vr99zuoSQlf"
+      },
+      "artists": [
+        {
+          "name": "Klangkuenstler",
+          "url": "https://open.spotify.com/artist/6H77vD9YyhyxHBTkRpbMBk"
+        },
+        {
+          "name": "Sant",
+          "url": "https://open.spotify.com/artist/0mgoNP0DrkKktInN298H4u"
+        }
+      ],
+      "duration_ms": 164615,
+      "name": "Toter Schmetterling - Single Edit",
+      "url": "https://open.spotify.com/track/6IDywtwTrAkEsmJkPSNs27"
     },
     {
       "added_at": "2026-11-19 23:00:51",
@@ -1727,6 +1727,22 @@
     {
       "added_at": "2026-11-19 23:00:51",
       "album": {
+        "name": "Satan Was A Babyboomer",
+        "url": "https://open.spotify.com/album/42nVxnZ0BD7Vt3sMK0t8Ss"
+      },
+      "artists": [
+        {
+          "name": "Brutalismus 3000",
+          "url": "https://open.spotify.com/artist/6LtXxYMIiKSy2EGHnz1f5j"
+        }
+      ],
+      "duration_ms": 427000,
+      "name": "Satan Was A Babyboomer",
+      "url": "https://open.spotify.com/track/3IVrlcM5gDoj3lghHY9m7I"
+    },
+    {
+      "added_at": "2026-11-19 23:00:51",
+      "album": {
         "name": "You Need The Drugs (Kobosil Kartell Mix)",
         "url": "https://open.spotify.com/album/6mDOkJVFL4OXkuAtZv6SO4"
       },
@@ -1747,22 +1763,6 @@
       "duration_ms": 217750,
       "name": "You Need The Drugs - Kobosil Kartell Mix",
       "url": "https://open.spotify.com/track/4z4iPMgajQ2ZTQWpFyG6kE"
-    },
-    {
-      "added_at": "2026-11-19 23:00:51",
-      "album": {
-        "name": "Satan Was A Babyboomer",
-        "url": "https://open.spotify.com/album/42nVxnZ0BD7Vt3sMK0t8Ss"
-      },
-      "artists": [
-        {
-          "name": "Brutalismus 3000",
-          "url": "https://open.spotify.com/artist/6LtXxYMIiKSy2EGHnz1f5j"
-        }
-      ],
-      "duration_ms": 427000,
-      "name": "Satan Was A Babyboomer",
-      "url": "https://open.spotify.com/track/3IVrlcM5gDoj3lghHY9m7I"
     },
     {
       "added_at": "2026-11-19 23:00:51",
@@ -1803,26 +1803,6 @@
     {
       "added_at": "2026-11-19 23:00:51",
       "album": {
-        "name": "Pumpin",
-        "url": "https://open.spotify.com/album/5HUcDxoU1KWBcjyLhlJDbM"
-      },
-      "artists": [
-        {
-          "name": "Partiboi69",
-          "url": "https://open.spotify.com/artist/0CutULGVZ24wOr1HHYoEOL"
-        },
-        {
-          "name": "KETTAMA",
-          "url": "https://open.spotify.com/artist/3an9rnsXKPCAMlZgH4A0n4"
-        }
-      ],
-      "duration_ms": 211197,
-      "name": "Pumpin",
-      "url": "https://open.spotify.com/track/51KLyIiHMGywXh2yh9Lk5d"
-    },
-    {
-      "added_at": "2026-11-19 23:00:51",
-      "album": {
         "name": "Toter Schmetterling",
         "url": "https://open.spotify.com/album/4DE6Bmt5GNbm4up60YkXe2"
       },
@@ -1843,42 +1823,38 @@
     {
       "added_at": "2026-11-19 23:00:51",
       "album": {
-        "name": "Don't Stop",
-        "url": "https://open.spotify.com/album/7k9X7tCJdLdPWpm6JbAW0O"
+        "name": "Pumpin",
+        "url": "https://open.spotify.com/album/5HUcDxoU1KWBcjyLhlJDbM"
       },
       "artists": [
         {
-          "name": "DJ HEARTSTRING",
-          "url": "https://open.spotify.com/artist/5tcwaJBUyEdxQxvieuQxU7"
+          "name": "Partiboi69",
+          "url": "https://open.spotify.com/artist/0CutULGVZ24wOr1HHYoEOL"
         },
         {
-          "name": "southstar",
-          "url": "https://open.spotify.com/artist/1GVuCyb4PlArufUZDUnRQi"
+          "name": "KETTAMA",
+          "url": "https://open.spotify.com/artist/3an9rnsXKPCAMlZgH4A0n4"
         }
       ],
-      "duration_ms": 196916,
-      "name": "Don't Stop",
-      "url": "https://open.spotify.com/track/3tYYypENWxaS1DKUtcH8S8"
+      "duration_ms": 211197,
+      "name": "Pumpin",
+      "url": "https://open.spotify.com/track/51KLyIiHMGywXh2yh9Lk5d"
     },
     {
       "added_at": "2026-11-19 23:00:51",
       "album": {
-        "name": "God Gave Us Techno",
-        "url": "https://open.spotify.com/album/3VxlGgGwrPTL4IW0wfC7IH"
+        "name": "Bass Go",
+        "url": "https://open.spotify.com/album/6r9zTqop9f3suoUtKTcXZL"
       },
       "artists": [
         {
-          "name": "Sarah de Warren",
-          "url": "https://open.spotify.com/artist/2V431yZGG08uroH2CZAgur"
-        },
-        {
-          "name": "Tao Andra",
-          "url": "https://open.spotify.com/artist/1zcGW4JIJJPbA8SdYwNLLC"
+          "name": "Antonym",
+          "url": "https://open.spotify.com/artist/41EaXCRp3eOibImiIUUCx5"
         }
       ],
-      "duration_ms": 188357,
-      "name": "God Gave Us Techno",
-      "url": "https://open.spotify.com/track/3qgHj0sK3BAoxD4oOtUXBy"
+      "duration_ms": 305032,
+      "name": "Bass Go",
+      "url": "https://open.spotify.com/track/5uzDTJpmseicKPwzB9q5VG"
     },
     {
       "added_at": "2026-11-19 23:00:51",
@@ -1899,18 +1875,22 @@
     {
       "added_at": "2026-11-19 23:00:51",
       "album": {
-        "name": "Bass Go",
-        "url": "https://open.spotify.com/album/6r9zTqop9f3suoUtKTcXZL"
+        "name": "Don't Stop",
+        "url": "https://open.spotify.com/album/7k9X7tCJdLdPWpm6JbAW0O"
       },
       "artists": [
         {
-          "name": "Antonym",
-          "url": "https://open.spotify.com/artist/41EaXCRp3eOibImiIUUCx5"
+          "name": "DJ HEARTSTRING",
+          "url": "https://open.spotify.com/artist/5tcwaJBUyEdxQxvieuQxU7"
+        },
+        {
+          "name": "southstar",
+          "url": "https://open.spotify.com/artist/1GVuCyb4PlArufUZDUnRQi"
         }
       ],
-      "duration_ms": 305032,
-      "name": "Bass Go",
-      "url": "https://open.spotify.com/track/5uzDTJpmseicKPwzB9q5VG"
+      "duration_ms": 196916,
+      "name": "Don't Stop",
+      "url": "https://open.spotify.com/track/3tYYypENWxaS1DKUtcH8S8"
     },
     {
       "added_at": "2026-11-19 23:00:51",
@@ -1943,6 +1923,26 @@
       "duration_ms": 163641,
       "name": "Divine",
       "url": "https://open.spotify.com/track/0u5aRUEwlWhtO32VASKoLi"
+    },
+    {
+      "added_at": "2026-11-19 23:00:51",
+      "album": {
+        "name": "God Gave Us Techno",
+        "url": "https://open.spotify.com/album/3VxlGgGwrPTL4IW0wfC7IH"
+      },
+      "artists": [
+        {
+          "name": "Sarah de Warren",
+          "url": "https://open.spotify.com/artist/2V431yZGG08uroH2CZAgur"
+        },
+        {
+          "name": "Tao Andra",
+          "url": "https://open.spotify.com/artist/1zcGW4JIJJPbA8SdYwNLLC"
+        }
+      ],
+      "duration_ms": 188357,
+      "name": "God Gave Us Techno",
+      "url": "https://open.spotify.com/track/3qgHj0sK3BAoxD4oOtUXBy"
     }
   ],
   "unique_name": "rave",

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/123cOpfFuSZh45wQ4Tdjku.md) - [plain]
 
 > mostly furry
 
-[Arcana](https://open.spotify.com/user/31pthgv6rb2dvvjpngxwmd2ztjx4) - 1,335 likes - 599 songs - 1 day 6 hr 19 min
+[Arcana](https://open.spotify.com/user/31pthgv6rb2dvvjpngxwmd2ztjx4) - 1,336 likes - 600 songs - 1 day 6 hr 21 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -607,5 +607,6 @@ pretty - [cumulative](/playlists/cumulative/123cOpfFuSZh45wQ4Tdjku.md) - [plain]
 | 597 | [Join Us for a Bite](https://open.spotify.com/track/4E6QZS2KoOE1U64yMrtpIN) | [JT Music](https://open.spotify.com/artist/5qvrAlKjc0Sqrqz6v2wBGk), [Andrea Storm Kaden](https://open.spotify.com/artist/2suYQj2pv0J5xZdNNqzDaU) | [All Five Nights](https://open.spotify.com/album/0VMe8U5hfSlZUP7Xw9Xwln) | 3:56 |
 | 598 | [You Belong Here](https://open.spotify.com/track/3ZyaP0GyRehoDrhPkuh5Qw) | [JT Music](https://open.spotify.com/artist/5qvrAlKjc0Sqrqz6v2wBGk), [Andrea Storm Kaden](https://open.spotify.com/artist/2suYQj2pv0J5xZdNNqzDaU) | [All Five Nights](https://open.spotify.com/album/0VMe8U5hfSlZUP7Xw9Xwln) | 4:13 |
 | 599 | [Rusty Chevrolet](https://open.spotify.com/track/6OkUgrIkmIruLElP8Lltd1) | [Shanneyganock](https://open.spotify.com/artist/04afWRg7KofT5Ae0W1kjpU) | [Christmas](https://open.spotify.com/album/7pcVnlArnlI9dJM7KUpfe4) | 1:58 |
+| 600 | [Rainy Day](https://open.spotify.com/track/6XW0U5F6NUa8a5DJTYKUDU) | [Tundra Fox](https://open.spotify.com/artist/5YhzBLEPDn6WsOletqmX5M) | [Rainy Day](https://open.spotify.com/album/4Q1XNk7cuCy9ojNXJdMtGh) | 1:52 |
 
-Snapshot ID: `AAACLrH+rEjTFHKfSom897roeaRQwpbe`
+Snapshot ID: `AAACLzBwPYwrFsnWxdVtzfRotnUZ2pmV`

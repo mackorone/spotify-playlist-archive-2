@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaLvcwjNfHBR.md) - [plain]
 
 > Your new favourite songs! Cover: Dua Lipa
 
-[Spotify](https://open.spotify.com/user/spotify) - 119,497 likes - 75 songs - 4 hr 11 min
+[Spotify](https://open.spotify.com/user/spotify) - 119,504 likes - 75 songs - 4 hr 11 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaLvcwjNfHBR.md) - [plain]
 | 74 | [Playing Dirty](https://open.spotify.com/track/5NhJn1bm3idDYKYWZDJFwS) | [Alli Kate](https://open.spotify.com/artist/4fLRDDrccUS9PGA154uwmA) | [Playing Dirty](https://open.spotify.com/album/6pl6lE6kP2oVcg4zn03ES4) | 3:03 |
 | 75 | [Dancing](https://open.spotify.com/track/4rcF5dwIHEVOgQQhva1OOI) | [Jorja Smith](https://open.spotify.com/artist/1CoZyIx7UvdxT5c8UkMzHd) | [What Are The Odds](https://open.spotify.com/album/53Rf76kJAhJNtyrxLgKTRa) | 2:41 |
 
-Snapshot ID: `AAAAAIbCSOQxYxTT6QRck/tIv1HrnGU8`
+Snapshot ID: `AAAAAEHNSuCsMERP3mdgMTfR5JS0MkcN`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWU8quswnFt3c.md) - [plain]
 
 > Listen to women at full volume with Miss Monique from Ukraine.
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,019,247 likes - 50 songs - 3 hr 3 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,019,154 likes - 50 songs - 3 hr 3 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -34,8 +34,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWU8quswnFt3c.md) - [plain]
 | 24 | [House featuring John Cale](https://open.spotify.com/track/15ApEgs3gaAMKOEj2vzH1p) | [Charli xcx](https://open.spotify.com/artist/25uiPmTg16RbhZWAqwLBy5), [John Cale](https://open.spotify.com/artist/5MWBg16f5UYiaSlyVhzlIW) | [Wuthering Heights](https://open.spotify.com/album/4oniyB3TRFhjglVSqVgy9e) | 3:15 |
 | 25 | [Heartbroken \- Edit](https://open.spotify.com/track/5Yaw45Q7W0irDbTVN5LOVs) | [T2](https://open.spotify.com/artist/4Q5MS10mWfrDyiXVeAAzVd) | [Heartbroken](https://open.spotify.com/album/5zS1u2oihFYN3jXgKh5lAC) | 2:58 |
 | 26 | [Roar](https://open.spotify.com/track/1FubT3w22RMHC3vreAL7cH) | [Charlotte de Witte](https://open.spotify.com/artist/1lJhME1ZpzsEa5M0wW6Mso) | [Roar](https://open.spotify.com/album/0BPXNEhv63ppBbjcR47Xyp) | 5:55 |
-| 27 | [陽光普照](https://open.spotify.com/track/60oVYVR5bZ5DYp7f2E9zYn) | [Joey Yung](https://open.spotify.com/artist/2zzKlxMsKTPMsZacZCPRNA) | [陽光普照](https://open.spotify.com/album/2mHNSGINVl2s3hk4NXVv8H) | 3:15 |
-| 28 | [Fleur\-De\-Lis \(feat\. Lous and The Yakuza\)](https://open.spotify.com/track/5UicE8r2GHoe7YDGuLv4IN) | [Jenevieve](https://open.spotify.com/artist/0dUYLC7DLjeS8gIh8cz2Pq), [Lous and The Yakuza](https://open.spotify.com/artist/2HPiMwJktBXqakN0hnON2R) | [CRYSALIS \(CODA\)](https://open.spotify.com/album/1J4F7Yozx9ckI5xc6yjlqu) | 3:42 |
+| 27 | [Fleur\-De\-Lis \(feat\. Lous and The Yakuza\)](https://open.spotify.com/track/5UicE8r2GHoe7YDGuLv4IN) | [Jenevieve](https://open.spotify.com/artist/0dUYLC7DLjeS8gIh8cz2Pq), [Lous and The Yakuza](https://open.spotify.com/artist/2HPiMwJktBXqakN0hnON2R) | [CRYSALIS \(CODA\)](https://open.spotify.com/album/1J4F7Yozx9ckI5xc6yjlqu) | 3:42 |
+| 28 | [陽光普照](https://open.spotify.com/track/60oVYVR5bZ5DYp7f2E9zYn) | [Joey Yung](https://open.spotify.com/artist/2zzKlxMsKTPMsZacZCPRNA) | [陽光普照](https://open.spotify.com/album/2mHNSGINVl2s3hk4NXVv8H) | 3:15 |
 | 29 | [FUE DIFICIL](https://open.spotify.com/track/2aE0HrYHGbyXpgOnMY03Id) | [Maria Jose Quintanilla](https://open.spotify.com/artist/13N9NShchIr3m8hgyVqrRg) | [Fue Difícil](https://open.spotify.com/album/0sdLIL3OnkBlM48PzdSSGW) | 3:44 |
 | 30 | [808](https://open.spotify.com/track/0r8iGm1w5lPfQsYJ1xwEq6) | [Saint Ludo](https://open.spotify.com/artist/3UBYL8t0DhD4uhJxF0FtGT), [Cap1talA](https://open.spotify.com/artist/0s3JtIl5TIWbFD08yesQdW) | [808](https://open.spotify.com/album/6YVrO1ehYsQFlDlYAtTViw) | 2:02 |
 | 31 | [Whale Call](https://open.spotify.com/track/5sAktOKPSU85r1AeXoZcrl) | [Wasia Project](https://open.spotify.com/artist/7poQNrOwZoUcoqihg4Xex0) | [Nocturne](https://open.spotify.com/album/3BhBjyJdYkJXBiAJeBV8bC) | 4:19 |
@@ -44,9 +44,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWU8quswnFt3c.md) - [plain]
 | 34 | [Keddab](https://open.spotify.com/track/7Hh4hykGxO7hT0FoFVkonP) | [ASSIA](https://open.spotify.com/artist/3x7veOAhTEg0Z3abcNQhzu) | [Keddab](https://open.spotify.com/album/430OinMfmEtvRBeKNYPbeL) | 2:46 |
 | 35 | [Danger](https://open.spotify.com/track/397C7dN58u7bEUBG7jD5JM) | [Chelsea Dinorath](https://open.spotify.com/artist/0iFUMxC62joHJMxZwMZvzp), [Teo No Beat](https://open.spotify.com/artist/4HLRxCBJE5n6Mm0sTzUEv2) | [Danger](https://open.spotify.com/album/1SUlBk5BgGheoAkEQIsgWF) | 3:28 |
 | 36 | [隱痛](https://open.spotify.com/track/6U2ZB5NZTr5qHfVTSouaXD) | [JOYY](https://open.spotify.com/artist/7L98ngCpo0DMZDBeJXQB3h) | [重寫第一章](https://open.spotify.com/album/15RnFD9jAQj0z3ZFKBZzM6) | 3:32 |
-| 37 | [Almohada](https://open.spotify.com/track/4GWsAeu3Ga2NR0XpRWdpB8) | [Majo Aguilar](https://open.spotify.com/artist/77WEAaYIiO4SbK5IU9pWZP) | [Almohada](https://open.spotify.com/album/2LtO4iBh2fHscyiVnPq1cw) | 3:42 |
+| 37 | [Every Aching Minute](https://open.spotify.com/track/1mxFh0yxb2lZzqdy8jFseo) | [Gretta Ray](https://open.spotify.com/artist/4xdEmbimxXyo9wXy9lq3ek) | [Heartsong](https://open.spotify.com/album/5bOHldwxMlxDhzSuMc1s8G) | 4:51 |
 | 38 | [December Forever](https://open.spotify.com/track/1lV0KkH0yn4nxdfxQUlOoy) | [Thoom](https://open.spotify.com/artist/2Tpvy7ryLgM835gDgN2nL5) | [Everyday, Everything Is At Stake](https://open.spotify.com/album/73MzukUBuiIOYbC6V3P4Wj) | 2:38 |
-| 39 | [Every Aching Minute](https://open.spotify.com/track/1mxFh0yxb2lZzqdy8jFseo) | [Gretta Ray](https://open.spotify.com/artist/4xdEmbimxXyo9wXy9lq3ek) | [Heartsong](https://open.spotify.com/album/5bOHldwxMlxDhzSuMc1s8G) | 4:51 |
+| 39 | [Almohada](https://open.spotify.com/track/4GWsAeu3Ga2NR0XpRWdpB8) | [Majo Aguilar](https://open.spotify.com/artist/77WEAaYIiO4SbK5IU9pWZP) | [Almohada](https://open.spotify.com/album/2LtO4iBh2fHscyiVnPq1cw) | 3:42 |
 | 40 | [RUDE](https://open.spotify.com/track/1myezJ7Cty6YVRPa96penu) | [Nikhita Gandhi](https://open.spotify.com/artist/3tPQOjkxO3mrYrrgkTeXgH), [Dino James](https://open.spotify.com/artist/45PG2L6Fh2XvYL4ONzpdoW) | [RUDE](https://open.spotify.com/album/6XfoImzNgOYzcLVp7ybzCz) | 2:44 |
 | 41 | [Smoke](https://open.spotify.com/track/5IGQIUoXm7ZsMXUkHRIsMg) | [Shye](https://open.spotify.com/artist/1aqEk77J220IxgnGsgEz9T) | [The Doves Came Home](https://open.spotify.com/album/6stW0BEOqA6F0Gi7inuzLS) | 4:37 |
 | 42 | [Aray ko Salikaka](https://open.spotify.com/track/0InYOQQHeBIIMySjQJbxCv) | [Usay Panan](https://open.spotify.com/artist/5m9BR9opWunqBhvL7j3Bg9) | [Aray ko Salikaka](https://open.spotify.com/album/40B63bA8qzo6lrmQ29rEjg) | 3:01 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWU8quswnFt3c.md) - [plain]
 | 49 | [winters gonna come](https://open.spotify.com/track/3OoJRP74QttUB17tTe5gwm) | [Asal](https://open.spotify.com/artist/2CPDwyokR2lgqu0yNGe2cU) | [winters gonna come](https://open.spotify.com/album/6qr5fMgyonax6366SQHTfy) | 4:12 |
 | 50 | [Victoria](https://open.spotify.com/track/3aDrC0uyqKWOXc9bclRdQc) | [Suena](https://open.spotify.com/artist/3ZCy1ehzbzEAcpcHnHJYXd), [Esther Abrami](https://open.spotify.com/artist/5zCkKfOMcIx8ISU53JBPng) | [INSTINCTA](https://open.spotify.com/album/3PLxcpG6HX1bPdqrJTUNfT) | 2:23 |
 
-Snapshot ID: `AAAAANZYtW5XGe4ZVKrahFoQ6+2EOoBv`
+Snapshot ID: `AAAAAGPOBCcWU7VzUWm7F5cPyCZWqOuo`

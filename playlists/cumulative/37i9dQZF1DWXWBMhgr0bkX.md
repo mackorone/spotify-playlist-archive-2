@@ -4,7 +4,7 @@
 
 > New pop releases from the UK & Ireland 🌟 cover: FLO
 
-1,522 songs - 3 day 6 hr 47 min
+1,523 songs - 3 day 6 hr 50 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -623,7 +623,7 @@
 | [Hits Like This \(feat\. Sam Fischer\)](https://open.spotify.com/track/5f21lXEbRDLpty0X4hDSDJ) | [Issac Frank](https://open.spotify.com/artist/5WO9zC3eugins48Y4ERwAj), [Sam Fischer](https://open.spotify.com/artist/6L1XC7NrmgWRlwAeLJvVtA) | [Hits Like This \(feat\. Sam Fischer\)](https://open.spotify.com/album/1HaQQSWT3dV14GUs9PNmXV) | 2:37 | 2026-06-26 | 2026-07-31 |
 | [Hold Up](https://open.spotify.com/track/5jIPK0iZ3wzCHWsEze021Z) | [Sasha Keable](https://open.spotify.com/artist/7MxGWmiAbqjNOGmj23wbWf) | [Hold Up](https://open.spotify.com/album/6Wjf1qyWX7TZfsmcjo5Qab) | 2:28 | 2024-06-04 | 2024-08-31 |
 | [Holding You](https://open.spotify.com/track/4KRgeJYNTtXS4tqzZdVGYR) | [Will Bryant](https://open.spotify.com/artist/2uJRUFEELBSNirlF7oFHea) | [Can We Stop Just For A Second](https://open.spotify.com/album/5xg5q1u59wi9ut0JC5nCKB) | 3:36 | 2024-12-13 | 2025-02-21 |
-| [HOLE IN MY HEART](https://open.spotify.com/track/2sEQW09iEvYUu8WdnBZzSd) | [Alex Apolline](https://open.spotify.com/artist/45daMU0LyV9jLb0e8gbKvU) | [THE SUN FROM BOTH SIDES](https://open.spotify.com/album/4sQGptlAPSLA8MN4NP45bv) | 3:13 | 2026-09-17 |  |
+| [HOLE IN MY HEART](https://open.spotify.com/track/2sEQW09iEvYUu8WdnBZzSd) | [Alex Apolline](https://open.spotify.com/artist/45daMU0LyV9jLb0e8gbKvU) | [THE SUN FROM BOTH SIDES](https://open.spotify.com/album/4sQGptlAPSLA8MN4NP45bv) | 3:13 | 2026-09-17 | 2026-11-26 |
 | [Holiday Blues](https://open.spotify.com/track/5IT9R1iTJvl0N3kWSWmBA7) | [Poppy Freeley](https://open.spotify.com/artist/3GJZ85O0PBa9Z01lv8ftMy) | [Holiday Blues](https://open.spotify.com/album/51sC7Wqr61fGhgwsyLe0RG) | 3:42 | 2026-04-03 | 2026-05-01 |
 | [Holiday Song](https://open.spotify.com/track/4MVVgMXCGofoegZyc9BxUW) | [Caity Baser](https://open.spotify.com/artist/7dJCdUO0l0K2WXzrzjYpmC) | [Holiday Song](https://open.spotify.com/album/3Zq0YnagOHR68KSq2pQ7Kr) | 2:33 | 2026-05-07 | 2026-06-12 |
 | [holy water](https://open.spotify.com/track/2a24jamhuwKpLZY7gH3w5v) | [Harvey Brittain](https://open.spotify.com/artist/2xrhDfConcV9D7c1tUqueP) | [holy water](https://open.spotify.com/album/0kooE3G371fP6mB3ugbj98) | 2:58 | 2025-10-23 | 2025-12-05 |
@@ -1334,6 +1334,7 @@
 | [Talking To Jesus](https://open.spotify.com/track/52cTqjEjB5PEftPWqKxmgD) | [Amma](https://open.spotify.com/artist/6rYqTmpl2LNEovR30mauo2) | [Middle Child](https://open.spotify.com/album/40UETJYLuyi0ys3kWhFuXM) | 3:32 | 2026-04-16 | 2026-05-29 |
 | [Talking To Talk](https://open.spotify.com/track/3ECuB4EnA3OTtgNcoIraUy) | [Abbie Gordon](https://open.spotify.com/artist/7IgI8F0xewLUxs1oNRVlFy) | [Talking To Talk](https://open.spotify.com/album/2rxNjRNtVZeO24p0y49jDN) | 3:12 | 2026-10-15 |  |
 | [Taste](https://open.spotify.com/track/5pe8674S8FnKW8tNpHFjAZ) | [Sophie Ellis\-Bextor](https://open.spotify.com/artist/2cBh5lVMg222FFuRU7EfDE) | [Taste](https://open.spotify.com/album/1hpoTpHmAE3ERYXjrC84jA) | 2:50 | 2025-05-08 | 2025-05-16 |
+| [Taxi Driver](https://open.spotify.com/track/6j1uOIKKEiGB66XrgJQkYT) | [Jos Rivers](https://open.spotify.com/artist/1MYNyuOMAAwyEYFwieKOjC) | [Taxi Driver](https://open.spotify.com/album/6KQRsl9PIpHKnHWVQ8fj1g) | 3:11 | 2026-11-25 |  |
 | [Tears Ago](https://open.spotify.com/track/5E0SRWQIVOpPBWfOB4F1DA) | [ili](https://open.spotify.com/artist/4Yn7SW1ERvmPwQHPMiv8t4) | [Tears Ago](https://open.spotify.com/album/3FcduBIdAeYXLTBmHl7iId) | 2:35 | 2026-03-06 | 2026-04-17 |
 | [Teenage Kinda Love](https://open.spotify.com/track/4gXjYIj0CNWCrzjUeHS3k3) | [Olivia Nelson](https://open.spotify.com/artist/4QJrAwNc5j17E5N2PxpqGj) | [Wings](https://open.spotify.com/album/4yvBDAt1TOrdW0gPYgZJ3T) | 3:42 | 2024-06-04 | 2024-09-06 |
 | [Tell You That](https://open.spotify.com/track/2XTIrSfRGDwsJTbqTTsuc3) | [Mae Muller](https://open.spotify.com/artist/1BEUkE2CSUgHTLSBMZdnFB) | [Tell You That](https://open.spotify.com/album/4TfEeYYy0igJ4T7UaVB3sS) | 2:57 | 2026-04-10 | 2026-05-15 |

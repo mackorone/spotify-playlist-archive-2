@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX39Q9ceUSQK1.md) - [plain]
 
 > Nieuwe alternative & rock releases\. Cover: Warhaus
 
-[Spotify](https://open.spotify.com/user/spotify) - 59,359 likes - 100 songs - 5 hr 56 min
+[Spotify](https://open.spotify.com/user/spotify) - 59,360 likes - 100 songs - 5 hr 56 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX39Q9ceUSQK1.md) - [plain]
 | 99 | [Devout](https://open.spotify.com/track/1sTAj78W8yYgeklQ1HdyYs) | [Working Men's Club](https://open.spotify.com/artist/7cCi9XoRu8Y1SyJ9c94fhc) | [Devout](https://open.spotify.com/album/2GYkcdrntYrGjqJhKcj7gS) | 3:37 |
 | 100 | [7ebra](https://open.spotify.com/track/1k9f1Pe3ZLI0Y0NSnOZkZU) | [FIEP](https://open.spotify.com/artist/4NicMfR6iYKLcfXs1ydcAE) | [7ebra](https://open.spotify.com/album/3VNKeo1h9Bpk1BgGx2tsNJ) | 2:50 |
 
-Snapshot ID: `AAAAAEHr3pV93bOA5vMWZalHHWP0hsW7`
+Snapshot ID: `AAAAAMQoUI6KbfRted/F8Ij4+iGamwWl`

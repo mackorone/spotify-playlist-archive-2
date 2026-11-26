@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXebxttQCq0zA.md) - [plain]
 
 > Soothing drones, ambient piano and new age music.
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,315,505 likes - 275 songs - 12 hr 13 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,316,246 likes - 275 songs - 12 hr 13 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -284,4 +284,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXebxttQCq0zA.md) - [plain]
 | 274 | [Gentle](https://open.spotify.com/track/4NhNqADCVHtinzGQkZrRkO) | [William Edessa](https://open.spotify.com/artist/3APfshfvEFD5G5vkZGvObg) | [Gentle](https://open.spotify.com/album/5QlJDob0lzv0Q6QsGUz2pW) | 2:53 |
 | 275 | [Lotus](https://open.spotify.com/track/5IwttgCz4FPDkodjrZtLb3) | [Sol Reya](https://open.spotify.com/artist/1WOC51A3fmT0ONyhUtH1G8) | [Lotus](https://open.spotify.com/album/2un9gyChobeTNRw8BN7B95) | 2:19 |
 
-Snapshot ID: `AAAAABjzhi6ufsb8iXd1QImUsPYVQQNN`
+Snapshot ID: `AAAAAGztKGc8lQ0SZD7WobO2K6QKnqiT`

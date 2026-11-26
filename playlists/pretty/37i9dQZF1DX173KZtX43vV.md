@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX173KZtX43vV.md) - [plain]
 
 > The newest arrivals\. Cover: Tems
 
-[Spotify](https://open.spotify.com/user/spotify) - 69,593 likes - 50 songs - 2 hr 31 min
+[Spotify](https://open.spotify.com/user/spotify) - 69,594 likes - 50 songs - 2 hr 31 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX173KZtX43vV.md) - [plain]
 | 49 | [ditto!](https://open.spotify.com/track/6QR3R7GfYkmgU8aDjvyC92) | [kamal.](https://open.spotify.com/artist/2gIHyzlzKxntjQWf8xAGaI) | [ditto!](https://open.spotify.com/album/06mSoF5qGhURZ6wPakADG3) | 3:34 |
 | 50 | [That's Gonna Be Me](https://open.spotify.com/track/3YNNRtuiTrltTzIG2RAfpC) | [Kojaque](https://open.spotify.com/artist/3ZHJIsD3uMwwjXlSpDzPtY) | [That's Gonna Be Me](https://open.spotify.com/album/2AAETGX6pJyr9SQLhgF9kD) | 2:41 |
 
-Snapshot ID: `AAAAAFkatqznzaTC6RcIzvEDrgIUHSdQ`
+Snapshot ID: `AAAAABdCLgTBHOXOZNvZXiMVVCUlF1Sa`

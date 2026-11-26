@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5JZ2TewQjUr.md) - [plain]
 
 > 香港獨立樂隊及音樂人新浪潮集合晒喺度！記得聽真啲！Cover: Dessy
 
-[Spotify](https://open.spotify.com/user/spotify) - 14,856 likes - 100 songs - 5 hr 25 min
+[Spotify](https://open.spotify.com/user/spotify) - 14,855 likes - 100 songs - 5 hr 25 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5JZ2TewQjUr.md) - [plain]
 | 99 | [Attachment Theory](https://open.spotify.com/track/6tOoUarQ2WDf5UqrHkG6aw) | [XTIE](https://open.spotify.com/artist/4CTOMcrGypQOoxVO3yFlE9) | [Attachment Theory](https://open.spotify.com/album/70ticPAO2mnUCE92A27vad) | 3:08 |
 | 100 | [朝日呻吟](https://open.spotify.com/track/4G2EJU7FKZzIltd0S7dnVg) | [before the night ends](https://open.spotify.com/artist/4AGHDyw984Ss54AzrGeTgU) | [朝日呻吟](https://open.spotify.com/album/0aJ3yRcgYotmov6aqKUuF7) | 3:35 |
 
-Snapshot ID: `AAAAAKeeiOPVphImMTEjEQPrOf2VPuY0`
+Snapshot ID: `AAAAADHYTfjQY007C54vE9gZ0rSzu5k0`

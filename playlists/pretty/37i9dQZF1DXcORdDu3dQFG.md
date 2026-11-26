@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcORdDu3dQFG.md) - [plain]
 
 > Get festive with this selection of videos.
 
-[Spotify](https://open.spotify.com/user/spotify) - 5,827 likes - 90 songs - 5 hr 6 min
+[Spotify](https://open.spotify.com/user/spotify) - 5,867 likes - 90 songs - 5 hr 6 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -99,4 +99,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcORdDu3dQFG.md) - [plain]
 | 89 | [One I've Been Missing](https://open.spotify.com/track/632gXr9GJAsy7UBd7Dg7G4) | [Little Mix](https://open.spotify.com/artist/3e7awlrlDSwF3iM0WBjGMp) | [Confetti \(Expanded Edition\)](https://open.spotify.com/album/0KDISpxSUWynoaqwEaEeX8) | 3:12 |
 | 90 | [Santa's Lap](https://open.spotify.com/track/1JJg9PBSYhnhiH0CsLW5Sx) | [VANITY](https://open.spotify.com/artist/5pbQSj4OwloGemk4m3w7S7) | [nicest girl on the naughty list](https://open.spotify.com/album/1Fl63ztgKDkrh7xyzQYVcW) | 2:03 |
 
-Snapshot ID: `AAAAALHsu5vLaaPq7pLLjGNETa2Kazzh`
+Snapshot ID: `AAAAAPf5GzNSvjD6O9DbekA74OZWmnd2`

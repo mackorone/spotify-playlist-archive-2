@@ -2,32 +2,31 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWT7ItcGUvgJi.md) - [plain]
 
 ### [Tune Up Meets Fresh Finds](https://open.spotify.com/playlist/37i9dQZF1DWT7ItcGUvgJi)
 
-> Where two indie music powerhouses meet! Enjoy the \[Tune Up Meets Fresh Finds\] LIVE SET from Tokai and Hyelyn Joo! 🎶✨ \(인디음악을 지원하는 두 프로그램의 만남! \[Tune Up Meets Fresh Finds\] 공연의 라이브셋을 즐겨보세요!\)
+> Where two indie music powerhouses meet, for the 4th time! \[Tune Up Meets Fresh Finds\] Vol\. 4 with Shin In Ryu & Munan is coming soon! 🎶✨ \(인디음악을 지원하는 두 프로그램의 네 번째 만남! 신인류와 무난이 함께하는 \[Tune Up Meets Fresh Finds\] Vol\. 4, 곧 찾아갑니다!\) 2026.12.11\(Fri\) at CJ azit
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,555 likes - 21 songs - 57 min 34 sec
+[Spotify](https://open.spotify.com/user/spotify) - 1,557 likes - 20 songs - 1 hr 12 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
-| 1 | [parade](https://open.spotify.com/track/3BZYaGjpfVQEkRYpaPgrDi) | [Tokai](https://open.spotify.com/artist/128eF3gisQ5rnkA9gJyLGT) | [breathing.](https://open.spotify.com/album/0S7EeOvk2OW1otZ3n0CmWj) | 4:55 |
-| 2 | [Tokai Ment 1](https://open.spotify.com/track/5RVAvGdsxatWOasZalQrbB) | [Tokai](https://open.spotify.com/artist/1LDAbAYFGv0hFLguSOTSty) | [Tune Up Meets Fresh Finds Vol\. 3 Audio Liners](https://open.spotify.com/album/2h4OFMe5KAFiBGfNjJqBXl) | 0:43 |
-| 3 | [sway](https://open.spotify.com/track/78KWPtzyxqY36h1Z4OcgbJ) | [Tokai](https://open.spotify.com/artist/128eF3gisQ5rnkA9gJyLGT) | [shining.](https://open.spotify.com/album/7alBVFv3w8aOaSJYLIw8nD) | 3:11 |
-| 4 | [buddy](https://open.spotify.com/track/4JgKmFF1nv9cIWRM7rx7ip) | [Tokai](https://open.spotify.com/artist/128eF3gisQ5rnkA9gJyLGT) | [shining.](https://open.spotify.com/album/7alBVFv3w8aOaSJYLIw8nD) | 3:40 |
-| 5 | [Kyokuya Fumei](https://open.spotify.com/track/0UfPo4BUMSlnjSw0XDIiL7) | [Tokai](https://open.spotify.com/artist/128eF3gisQ5rnkA9gJyLGT) | [shining.](https://open.spotify.com/album/7alBVFv3w8aOaSJYLIw8nD) | 3:02 |
-| 6 | [Tokai Ment 2](https://open.spotify.com/track/678LephfH06z7c7Mc94cHA) | [Tokai](https://open.spotify.com/artist/1LDAbAYFGv0hFLguSOTSty) | [Tune Up Meets Fresh Finds Vol\. 3 Audio Liners](https://open.spotify.com/album/2h4OFMe5KAFiBGfNjJqBXl) | 1:10 |
-| 7 | [round](https://open.spotify.com/track/1NaDBli5yq02ienC980KcK) | [Tokai](https://open.spotify.com/artist/128eF3gisQ5rnkA9gJyLGT) | [Comikai](https://open.spotify.com/album/1OiWbUDFPpye5aHlbCZj4B) | 3:21 |
-| 8 | [Tokai Ment 3](https://open.spotify.com/track/46BEPQ57L21ICyt6KjdQqH) | [Tokai](https://open.spotify.com/artist/1LDAbAYFGv0hFLguSOTSty) | [Tune Up Meets Fresh Finds Vol\. 3 Audio Liners](https://open.spotify.com/album/2h4OFMe5KAFiBGfNjJqBXl) | 0:30 |
-| 9 | [brave](https://open.spotify.com/track/6RJREMUzXHK2OWEB3VHihZ) | [Tokai](https://open.spotify.com/artist/128eF3gisQ5rnkA9gJyLGT) | [breathing.](https://open.spotify.com/album/0S7EeOvk2OW1otZ3n0CmWj) | 3:23 |
-| 10 | [Marigolds](https://open.spotify.com/track/6boass6SaMAfmn0tj2v8UO) | [Tokai](https://open.spotify.com/artist/128eF3gisQ5rnkA9gJyLGT) | [burning.](https://open.spotify.com/album/0XCmSwEz1i0pmTpXTZOZ2x) | 4:05 |
-| 11 | [I Love You ♥](https://open.spotify.com/track/6sovFv9wGJdzFPCMl0bqev) | [Tokai](https://open.spotify.com/artist/128eF3gisQ5rnkA9gJyLGT) | [shining.](https://open.spotify.com/album/7alBVFv3w8aOaSJYLIw8nD) | 3:53 |
-| 12 | [909 jam](https://open.spotify.com/track/6kXp2dhHPbUwmS2DHskU0T) | [Hyelyn Joo](https://open.spotify.com/artist/3XnKEXjrEOZnc2FlaFDK8E) | [stereo](https://open.spotify.com/album/2iZQUDdBmpRb0fNtAbM1XJ) | 2:36 |
-| 13 | [501](https://open.spotify.com/track/5oHKOV9NbJ7JHvYuXTnHeA) | [Hyelyn Joo](https://open.spotify.com/artist/3XnKEXjrEOZnc2FlaFDK8E) | [COOL](https://open.spotify.com/album/4jU4qs2BJAqDb8jm6aRxM3) | 1:23 |
-| 14 | [Hair Cut](https://open.spotify.com/track/7vXq1s5Y76TFybSAiQmRkk) | [Hyelyn Joo](https://open.spotify.com/artist/3XnKEXjrEOZnc2FlaFDK8E) | [Hair Cut](https://open.spotify.com/album/79Mv4nSBIFvbgYPIy5FVB5) | 3:05 |
-| 15 | [Hyelyn Joo Ment 1](https://open.spotify.com/track/0vq2ujhc3NKAYy2KwNnD4e) | [Hyelyn Joo](https://open.spotify.com/artist/3XnKEXjrEOZnc2FlaFDK8E) | [Tune Up Meets Fresh Finds Vol\. 3 Audio Liners](https://open.spotify.com/album/2h4OFMe5KAFiBGfNjJqBXl) | 1:26 |
-| 16 | [Sorry](https://open.spotify.com/track/0ptq5eaczcc9ioADsJNGfr) | [Hyelyn Joo](https://open.spotify.com/artist/3XnKEXjrEOZnc2FlaFDK8E) | [Sorry](https://open.spotify.com/album/7pRo9w6Bgf1520ASHTHWCT) | 2:43 |
-| 17 | [B\-YUM](https://open.spotify.com/track/1uGTXskCzIOG7GJcuAXoXs) | [Hyelyn Joo](https://open.spotify.com/artist/3XnKEXjrEOZnc2FlaFDK8E) | [COOL](https://open.spotify.com/album/4jU4qs2BJAqDb8jm6aRxM3) | 2:53 |
-| 18 | [What Are You Thinking? \- Re\-Make](https://open.spotify.com/track/4GPCr95oqDZNilmmFUckrr) | [Hyelyn Joo](https://open.spotify.com/artist/3XnKEXjrEOZnc2FlaFDK8E) | [Re\-Make](https://open.spotify.com/album/7qjuU5f7Wh5XZ3OcCzOpOp) | 3:37 |
-| 19 | [Hyelyn Joo Ment 2](https://open.spotify.com/track/01tR489dkU4nehHpbkBSda) | [Hyelyn Joo](https://open.spotify.com/artist/3XnKEXjrEOZnc2FlaFDK8E) | [Tune Up Meets Fresh Finds Vol\. 3 Audio Liners](https://open.spotify.com/album/2h4OFMe5KAFiBGfNjJqBXl) | 0:47 |
-| 20 | [Crazy](https://open.spotify.com/track/5ubXnLFTYhG94f0a9WEy7A) | [Hyelyn Joo](https://open.spotify.com/artist/3XnKEXjrEOZnc2FlaFDK8E) | [COOL](https://open.spotify.com/album/4jU4qs2BJAqDb8jm6aRxM3) | 3:31 |
-| 21 | [Kiss!](https://open.spotify.com/track/6SMoQzbPciDEShRokLbKLO) | [Hyelyn Joo](https://open.spotify.com/artist/3XnKEXjrEOZnc2FlaFDK8E) | [COOL](https://open.spotify.com/album/4jU4qs2BJAqDb8jm6aRxM3) | 3:30 |
+| 1 | [Chouchou](https://open.spotify.com/track/2xT02sADi0F6SeJNScthdh) | [Shin In Ryu](https://open.spotify.com/artist/1HBeN73z1CZ0E58rEIeozp) | [1126611](https://open.spotify.com/album/4MLYr9Qdrs7dkMkDDkeKgN) | 4:10 |
+| 2 | [Not A Loser](https://open.spotify.com/track/0zNYIRq7MdeKMxiXQEjcBI) | [Munan](https://open.spotify.com/artist/3ua99a1Zgdi8qY3Cpv92gE) | [Not A Loser](https://open.spotify.com/album/6YjNOh5re1a4TFpbnCq0DQ) | 3:23 |
+| 3 | [Fairy Castor](https://open.spotify.com/track/3RbRTEloMZ6VNTJYhHNCZU) | [Shin In Ryu](https://open.spotify.com/artist/1HBeN73z1CZ0E58rEIeozp) | [WE WISH.docx](https://open.spotify.com/album/6NNMjyxcMwPMfLd7ykF1qO) | 3:47 |
+| 4 | [An Angel's Hair](https://open.spotify.com/track/2CMLpWXezO1UIrqx71bMb8) | [Shin In Ryu](https://open.spotify.com/artist/1HBeN73z1CZ0E58rEIeozp) | [1126611](https://open.spotify.com/album/4MLYr9Qdrs7dkMkDDkeKgN) | 3:28 |
+| 5 | [Home](https://open.spotify.com/track/4JO6X6ht32F76bNBA1d1lW) | [Shin In Ryu](https://open.spotify.com/artist/1HBeN73z1CZ0E58rEIeozp) | [For us, summer is always short](https://open.spotify.com/album/4Le80eZbjsEZnD9OQMFWdV) | 4:49 |
+| 6 | [Comes in Two](https://open.spotify.com/track/1m5ObAd05tJCyaueVCTJNm) | [Munan](https://open.spotify.com/artist/3ua99a1Zgdi8qY3Cpv92gE) | [Tranquillity](https://open.spotify.com/album/5nh8xsgvB04MRKmhhIqegi) | 3:34 |
+| 7 | [23](https://open.spotify.com/track/3ST1e6Qzh9VeWOPSOTHSuq) | [Munan](https://open.spotify.com/artist/3ua99a1Zgdi8qY3Cpv92gE) | [23](https://open.spotify.com/album/4gBn6ZTPjExLcwVwbm9tbs) | 3:29 |
+| 8 | [Freak Like Me](https://open.spotify.com/track/5t7ef95TVuih6thWICQ87p) | [Munan](https://open.spotify.com/artist/3ua99a1Zgdi8qY3Cpv92gE) | [Freak Like Me](https://open.spotify.com/album/6baAuAPPhFMq49j70XTzdt) | 4:21 |
+| 9 | [First\-Person Narrative](https://open.spotify.com/track/4SDIxJfWFFiCo0kzyfwrBj) | [Shin In Ryu](https://open.spotify.com/artist/1HBeN73z1CZ0E58rEIeozp) | [Shining Strike](https://open.spotify.com/album/5tW4fJ6vnt4J1itpLtqRgl) | 3:36 |
+| 10 | [Nice Day](https://open.spotify.com/track/46DQRMHHHFVcKnEQSWZwVC) | [Shin In Ryu](https://open.spotify.com/artist/1HBeN73z1CZ0E58rEIeozp) | [1126611](https://open.spotify.com/album/4MLYr9Qdrs7dkMkDDkeKgN) | 2:57 |
+| 11 | [Return to Picnic](https://open.spotify.com/track/0jVj941a8TD4WwEnEuvlWA) | [Shin In Ryu](https://open.spotify.com/artist/1HBeN73z1CZ0E58rEIeozp) | [Shining Strike](https://open.spotify.com/album/5tW4fJ6vnt4J1itpLtqRgl) | 3:04 |
+| 12 | [Disco In My Room](https://open.spotify.com/track/1SLaN3JaP1LZ062IWDyei2) | [Munan](https://open.spotify.com/artist/3ua99a1Zgdi8qY3Cpv92gE) | [Disco In My Room](https://open.spotify.com/album/25GXQnbEDp3zVj5Kj6r7za) | 3:25 |
+| 13 | [Stoked & Stoned](https://open.spotify.com/track/7uGFvj24erGXyrqNC6aRul) | [Munan](https://open.spotify.com/artist/3ua99a1Zgdi8qY3Cpv92gE) | [Everything in Between](https://open.spotify.com/album/0R3yHrPZWGb5QkDhZt5cCK) | 4:09 |
+| 14 | [Jeju Organic Green Tea](https://open.spotify.com/track/4qjMiGR9WeERAiRUxATaWW) | [Munan](https://open.spotify.com/artist/3ua99a1Zgdi8qY3Cpv92gE) | [Everything in Between](https://open.spotify.com/album/0R3yHrPZWGb5QkDhZt5cCK) | 3:09 |
+| 15 | [Attack!](https://open.spotify.com/track/6Ym5GRk2N3L7RF7JzSs9jN) | [Shin In Ryu](https://open.spotify.com/artist/1HBeN73z1CZ0E58rEIeozp) | [Shining Strike](https://open.spotify.com/album/5tW4fJ6vnt4J1itpLtqRgl) | 4:14 |
+| 16 | [Kaibutsu](https://open.spotify.com/track/1WvXlKhCGA3CI6WqaJyXNw) | [Shin In Ryu](https://open.spotify.com/artist/1HBeN73z1CZ0E58rEIeozp) | [Kaibutsu](https://open.spotify.com/album/7ymXap85uIfypvCqWyLAnd) | 3:11 |
+| 17 | [For Good](https://open.spotify.com/track/4x23e1KvTIe5rdWT3V5h7P) | [Moods](https://open.spotify.com/artist/14uVJsPC4DByeuD0cq36ez), [Munan](https://open.spotify.com/artist/3ua99a1Zgdi8qY3Cpv92gE) | [For Good](https://open.spotify.com/album/3Yw9tWDLXK7PN3OgXXtObO) | 3:11 |
+| 18 | [I Don't](https://open.spotify.com/track/5yFtC081hlnMkXiZruPMmf) | [Munan](https://open.spotify.com/artist/3ua99a1Zgdi8qY3Cpv92gE) | [I Don't](https://open.spotify.com/album/51dAGL3zPrDnGfKj24Sqz2) | 3:10 |
+| 19 | [ALL A DREAM](https://open.spotify.com/track/2Hk7vG2StUccLanpxy5lZF) | [LOVE LANGUAGE](https://open.spotify.com/artist/1S6Yd5OflS0VBmlfxlSoTM), [LISP](https://open.spotify.com/artist/6xA7T8KlOWbWzuOfsZZDYN) | [CANTLOSETHEHEAT](https://open.spotify.com/album/0BOyBmLaeltojjcnbkIF00) | 3:41 |
+| 20 | [Smoke & Mirrors](https://open.spotify.com/track/7dRMRxjFdMCnd59Bq4yxZs) | [Luke Million](https://open.spotify.com/artist/1khu4DLsGK5MWLbUlfKkgz), [Munan](https://open.spotify.com/artist/3ua99a1Zgdi8qY3Cpv92gE) | [Smoke & Mirrors](https://open.spotify.com/album/2GjQtKTmmaXnFtv87GAn6m) | 3:22 |
 
-Snapshot ID: `AAAAAPdkkftlSe/Zi415Q2LvVe0EkwB6`
+Snapshot ID: `AAAAAEXnGOUl2D3+F2QhO8tcS/oCGwaC`

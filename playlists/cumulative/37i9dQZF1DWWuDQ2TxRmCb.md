@@ -4,7 +4,7 @@
 
 > Best of the modern folk artists! Cover\- Kabir Cafe
 
-128 songs - 9 hr 10 min
+129 songs - 9 hr 14 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -23,7 +23,7 @@
 | [Bole Tou Meetho Laage](https://open.spotify.com/track/3BbqMKh3G1FbmGwJSraM8e) | [Liquid Lake](https://open.spotify.com/artist/59tEU0jAjUkuKWhzElmD8r), [ACHINX](https://open.spotify.com/artist/3SEsONpgPHbW9KXBWWabgm), [Gulbis Khan](https://open.spotify.com/artist/1BfNgRnl08Cf0SXoqAXKx3) | [Bole Tou Meetho Laage](https://open.spotify.com/album/3TE9Fd0B6ZL2EpL7410RPg) | 1:26 | 2025-12-18 | 2026-02-07 |
 | [Boondan Boondan \(feat\. Ankita Joshi\)](https://open.spotify.com/track/5Nhvabw21YaRwoFwEZr3Uu) | [Maati Baani](https://open.spotify.com/artist/07mqL75cnHcpiu3f8vKgYn), [Ankita Joshi](https://open.spotify.com/artist/2jjXeSGZCkdF4FYmQ9bnvo) | [Maati Baani](https://open.spotify.com/album/3ouYJEEpLO73hey4E943zf) | 4:33 | 2023-03-10 |  |
 | [Bulaava Aaya](https://open.spotify.com/track/6HnkVw9GKU1ZqzJzpFOfvS) | [Salim–Sulaiman](https://open.spotify.com/artist/6ohaQzKaXrobAL8paLSaxq), [Gurdas Maan](https://open.spotify.com/artist/3ttzOzBpRWRBzhn6thqhdT) | [Bulaava Aaya](https://open.spotify.com/album/05UdHSttBA2pc0JcTUrsXP) | 5:34 | 2023-10-10 | 2024-09-11 |
-| [Chaand Sakha Re](https://open.spotify.com/track/20eBHJbz6cx0PwaK3SNR1N) | [Kaushiki Chakraborty](https://open.spotify.com/artist/4qWXi8Qj92dQOEJihdVqjI), [Shantanu Moitra](https://open.spotify.com/artist/6hpDlOvqsnIxrPegGTWVY1), [Rishith Desikan](https://open.spotify.com/artist/2gO1mIJ6u7Ao4bBIMIKGrD) | [Pankh](https://open.spotify.com/album/5tT24mhfEUpKSpgdfAPtx3) | 5:25 | 2025-07-16 |  |
+| [Chaand Sakha Re](https://open.spotify.com/track/20eBHJbz6cx0PwaK3SNR1N) | [Kaushiki Chakraborty](https://open.spotify.com/artist/4qWXi8Qj92dQOEJihdVqjI), [Shantanu Moitra](https://open.spotify.com/artist/6hpDlOvqsnIxrPegGTWVY1), [Rishith Desikan](https://open.spotify.com/artist/2gO1mIJ6u7Ao4bBIMIKGrD) | [Pankh](https://open.spotify.com/album/5tT24mhfEUpKSpgdfAPtx3) | 5:25 | 2025-07-16 | 2026-11-26 |
 | [Chamba Kitni Door](https://open.spotify.com/track/10LDYm3eBpPLN5qIAyi4xr) | [Priyankaa Bhattacharya](https://open.spotify.com/artist/1AerBLLesWL9aNrvn0hJt5) | [Chamba Kitni Door](https://open.spotify.com/album/1RUnFlxB2lgpkNBvVFg1I5) | 3:37 | 2024-07-12 | 2024-10-10 |
 | [Champawa Ki Kaliyan](https://open.spotify.com/track/3XgeGTP5TkrG9fx6ZHvqzx) | [Maati Baani](https://open.spotify.com/artist/07mqL75cnHcpiu3f8vKgYn), [Jeewan Ram](https://open.spotify.com/artist/5XGkMDglkTz91R4hhoskbH), [Sayo Komada](https://open.spotify.com/artist/7uTHyccBpjdKgB7LJUpKhh) | [Champawa Ki Kaliyan](https://open.spotify.com/album/5f7PmACBwkDwxkh2pxEDZw) | 3:36 | 2026-08-14 |  |
 | [Chanda Jhaanke](https://open.spotify.com/track/6dimVWFSWOrJ7MjwJL2Z26) | [Baba Hansraj Raghuwanshi](https://open.spotify.com/artist/58dEyoXedmI4PZAWWnnQSJ), [Salim Merchant](https://open.spotify.com/artist/1TbRSunWGZ46mqnapcWxrm) | [Chanda Jhaanke](https://open.spotify.com/album/78XzPufvH4XnpzstGoutVt) | 3:38 | 2023-05-30 | 2023-08-10 |
@@ -136,5 +136,6 @@
 | [Umeed](https://open.spotify.com/track/3sCM3fyhfyWCuhSOSCiG6u) | [Alif](https://open.spotify.com/artist/66PL9mtBViWeqR2wUrS0Bk) | [Umeed](https://open.spotify.com/album/0XGQaeSfuP8rrEu2ZilbTn) | 4:51 | 2023-05-30 | 2023-06-11 |
 | [Varsaad](https://open.spotify.com/track/5okCpEGwcQqGBrX3EFCuba) | [The Tapi Project](https://open.spotify.com/artist/1PaDBY2ifUow90EJUJWC9T), [Raghu Dixit](https://open.spotify.com/artist/72578usTM6Cj5qWsi471Nc) | [Varsaad](https://open.spotify.com/album/5wHm3iHIQQd9ztInP60m20) | 5:11 | 2024-07-26 | 2024-08-24 |
 | [Yaad Tumari Aayi \(From "Bhoomi 2025"\)](https://open.spotify.com/track/4Hcr5UDuZsVDo3UYhnukVG) | [Pawandeep Rajan](https://open.spotify.com/artist/3cy473zaKsJ7eo6l3t8SKd), [Hansika Pareek](https://open.spotify.com/artist/0RVfcqug2nB820dxIGycIW), [Suresh Rajan](https://open.spotify.com/artist/5g70zjT9kNXPgJJQuLgiZs) | [Yaad Tumari Aayi \(From "Bhoomi 2025"\)](https://open.spotify.com/album/35PnJQ4gDiAoE1NrH4abgp) | 4:21 | 2025-11-21 | 2026-01-15 |
+| [നീലാംബരി \(Neelambari\)](https://open.spotify.com/track/3uCjW02dXUOVmFRCK990DZ) | [Shillong Chamber Choir](https://open.spotify.com/artist/7gkmvNNfD8KJXAwePUNpDU) | [Uncle Neil \- Our songs, our story](https://open.spotify.com/album/4wMq9w8bQOyNj6iQ6rsoAE) | 4:34 | 2026-11-25 |  |
 
 \*This playlist was first scraped on 2023-05-19. Prior content cannot be recovered.

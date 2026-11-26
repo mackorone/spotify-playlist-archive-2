@@ -4,7 +4,7 @@
 
 > Sonidos de lluvia para descansar y dormir.
 
-459 songs - 20 hr 31 min
+459 songs - 20 hr 33 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -141,7 +141,7 @@
 | [Greek Rain and Thunder](https://open.spotify.com/track/0CYwZoze1eTVaYFZTMu0EV) | [Rain Inc](https://open.spotify.com/artist/39xSFVoeHPX87DYQWe6z3y) | [Rain Sounds Vol\. 2](https://open.spotify.com/album/4lPzsxOS8SHL3mFg6uZMZa) | 1:42 | 2023-02-15 | 2023-06-16 |
 | [Ground Level](https://open.spotify.com/track/5s8EezAFdXNiHOvOutgtOU) | [Water Effects Center](https://open.spotify.com/artist/4ElnPSfB20IpwQlP4UudVG) | [Cloud Droplets](https://open.spotify.com/album/185dupnKF5DukVuwY38967) | 2:39 | 2023-02-15 |  |
 | [Gråa Moln](https://open.spotify.com/track/5hcIHaO2Vy6NmLC704mM8b) | [Indra](https://open.spotify.com/artist/4mZVOEyscSE2MEbntY11c3) | [Blixt](https://open.spotify.com/album/5fadcqG9gCtLnafQBJNY27) | 3:28 | 2023-02-15 | 2025-01-19 |
-| [Gute Nacht Regen](https://open.spotify.com/track/59ybuybj11WcV9iujtGBpS) | [Samplestar](https://open.spotify.com/artist/0eG97LRAmRBrC7qbEhx2Qs) | [Gute Nacht Regen](https://open.spotify.com/album/5yLEy4Lt5WqK2QYbgVA2k3) | 1:56 | 2023-02-15 |  |
+| [Gute Nacht Regen](https://open.spotify.com/track/59ybuybj11WcV9iujtGBpS) | [Samplestar](https://open.spotify.com/artist/0eG97LRAmRBrC7qbEhx2Qs) | [Gute Nacht Regen](https://open.spotify.com/album/5yLEy4Lt5WqK2QYbgVA2k3) | 2:22 | 2023-02-15 |  |
 | [Hailing Hummidity](https://open.spotify.com/track/07uamJXxvjKfV5N8Y28oUF) | [Rain Rec.](https://open.spotify.com/artist/0EUOUMWVFwBTkjzcJrgQJQ) | [Hailing Rain](https://open.spotify.com/album/6dCVtCWAddCRpLYyouM0Xo) | 3:36 | 2023-02-15 | 2025-04-15 |
 | [Hard Rain 2](https://open.spotify.com/track/0HviNI5IDkJxWlR77EKGoP) | [Rain Hard](https://open.spotify.com/artist/3jjJ23jPDUk9XnURWZmWK4) | [Rain Rain Rain](https://open.spotify.com/album/4tTNZUUVpyPnwysaK2SsmX) | 3:09 | 2023-02-15 |  |
 | [Hard Rain 3](https://open.spotify.com/track/2nqyQEWwRitXReoUdODWzl) | [Rain Hard](https://open.spotify.com/artist/3jjJ23jPDUk9XnURWZmWK4) | [Rain Rain Rain](https://open.spotify.com/album/4tTNZUUVpyPnwysaK2SsmX) | 3:20 | 2023-02-15 | 2025-04-15 |
@@ -258,7 +258,7 @@
 | [Rain all day](https://open.spotify.com/track/4U3kZ08NfzuRTKIjoUzNFD) | [Rayne](https://open.spotify.com/artist/1RNXA2cIljrRol5nvV2Eoy) | [Rainy days and rainy nights](https://open.spotify.com/album/31zKedn6ADYfeacflh843e) | 3:28 | 2023-02-15 | 2025-12-19 |
 | [Rain All Year Round](https://open.spotify.com/track/4iwDUEEZHxq7ITcc7DqCCI) | [April Shower](https://open.spotify.com/artist/2cwPMVEFK3JRfFmbStXoMD) | [London Days](https://open.spotify.com/album/5RFrcOdX3Qzc6sTPYXtVVq) | 3:12 | 2023-02-15 | 2025-12-19 |
 | [Rain And Stream](https://open.spotify.com/track/4q4u6MLCGrpfHperJ7U8NZ) | [520Hz](https://open.spotify.com/artist/6S1S2NTJ5M5REqvqp6zYSs) | [Mindful Rain](https://open.spotify.com/album/4E1vqp2xaDzCxez2IPrkMh) | 2:29 | 2023-02-15 |  |
-| [Rain and Thunder](https://open.spotify.com/track/7oSBHzA5J69kqhFp4anTNy) | [Sleep Waves](https://open.spotify.com/artist/5YwgJh6Sx2jIZ0NTqzYCDW) | [Exclusive Nature](https://open.spotify.com/album/6MwRMdOHG26JL8ZdZpCjow) | 1:24 | 2023-02-15 |  |
+| [Rain and Thunder](https://open.spotify.com/track/7oSBHzA5J69kqhFp4anTNy) | [Sleep Waves](https://open.spotify.com/artist/5YwgJh6Sx2jIZ0NTqzYCDW) | [Exclusive Nature](https://open.spotify.com/album/6MwRMdOHG26JL8ZdZpCjow) | 2:18 | 2023-02-15 |  |
 | [Rain Before Dawn](https://open.spotify.com/track/6sCFjcEP2wvMkTbs6Ey85b) | [cloudcity](https://open.spotify.com/artist/0qF5CbAVNAKVP6maHHNf8G) | [Rain Before Dawn](https://open.spotify.com/album/4Dbx557skdXeYCIUBd4VHq) | 3:28 | 2023-02-15 |  |
 | [Rain Coming Down](https://open.spotify.com/track/24lHr1XxXOxfaHkF7ZR5Zc) | [Adam Storme](https://open.spotify.com/artist/0eNiH722ChBnOwAjXcKDYI) | [A Stormy Night](https://open.spotify.com/album/6HLYpQwA1LmxmduBYqWfAC) | 3:36 | 2023-02-15 | 2024-03-21 |
 | [Rain Dancing](https://open.spotify.com/track/7bJAQD5AAq9zxQz1nal7tp) | [Zuni](https://open.spotify.com/artist/4im5G9baIDRzJa4xpPdDz6) | [Deep Sleep Drops](https://open.spotify.com/album/5EhMdHcVj4sRsTZCqNYDEM) | 2:38 | 2023-02-15 | 2025-04-15 |
@@ -404,7 +404,7 @@
 | [Summer Storms](https://open.spotify.com/track/58EtUoSNjEOnomIEc5daGp) | [Isamu](https://open.spotify.com/artist/6NzWkEWVUXwO7TTXOEjdP7) | [Cloud Electric](https://open.spotify.com/album/2Bm92hW5xK14uff2UR8K9Y) | 2:39 | 2023-02-15 | 2025-04-15 |
 | [Super Soft Rain with Super Soft Thunder](https://open.spotify.com/track/68S9h5bDYVNinuyGRz1rLv) | [The Natural Healing](https://open.spotify.com/artist/62dysQ8CjUwvdI3wLoTdHe) | [Wide Spring Rain](https://open.spotify.com/album/7h640Dh8VAa2gtBhPuoOP0) | 2:07 | 2023-02-15 |  |
 | [Surrender to rain](https://open.spotify.com/track/3NX7gdrLQMqCaFniFrH0a5) | [Rayne](https://open.spotify.com/artist/1RNXA2cIljrRol5nvV2Eoy) | [Surrender to rain](https://open.spotify.com/album/2eBvKcPkjpMxcUnrB55Hhq) | 3:28 | 2023-02-15 | 2024-03-21 |
-| [Sweater Weather](https://open.spotify.com/track/4NPhZSpTRJhsEG5DdbGH2P) | [Weather Pass](https://open.spotify.com/artist/2H3oeCocy2EKakpX7Es1T5) | [Noise of Water](https://open.spotify.com/album/5O0CKgV8A80zgqqwfQp8BK) | 1:58 | 2023-02-15 |  |
+| [Sweater Weather](https://open.spotify.com/track/4NPhZSpTRJhsEG5DdbGH2P) | [Weather Pass](https://open.spotify.com/artist/2H3oeCocy2EKakpX7Es1T5) | [Noise of Water](https://open.spotify.com/album/5O0CKgV8A80zgqqwfQp8BK) | 2:28 | 2023-02-15 |  |
 | [Take Cover](https://open.spotify.com/track/6pWat1ynyacwfE9gmyqw3B) | [Oluja](https://open.spotify.com/artist/4NezsL00vYvCDeBNlLYEtV) | [Take Cover](https://open.spotify.com/album/7xIxj7pi7fuSSfNjOYcpxJ) | 3:00 | 2023-02-15 | 2024-03-21 |
 | [Tea Time](https://open.spotify.com/track/6JWOqDfH29aU6BEQcNwjuz) | [Rainy Windows](https://open.spotify.com/artist/32EhyFcKSpZ2akw9gwrnWo) | [Tea Time](https://open.spotify.com/album/2fVKPaT3TrKbvJp0lHSWDf) | 2:24 | 2023-06-15 | 2025-12-19 |
 | [Tempête de pluie apaisante](https://open.spotify.com/track/3Cfu9rRRPtRMjQ1UiqJ0Q7) | [Pluie et tonnerre](https://open.spotify.com/artist/1FoJFzUt8KdfLxzHL3wTwI) | [Forêt tropicale](https://open.spotify.com/album/4IzzGBBljpxmsRW4RPXvGA) | 1:51 | 2023-02-15 | 2023-06-16 |

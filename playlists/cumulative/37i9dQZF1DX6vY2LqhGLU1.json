@@ -34,7 +34,7 @@
       ],
       "date_added": "2022-11-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-26",
       "duration_ms": 368720,
       "name": "A Christmas Hallelujah",
       "url": "https://open.spotify.com/track/3SLIVorgLM8sGjSheFBXKn"
@@ -74,7 +74,7 @@
       ],
       "date_added": "2022-11-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-26",
       "duration_ms": 360704,
       "name": "A Great Light",
       "url": "https://open.spotify.com/track/2AO9r5sEWxrKf1n7XwdgsS"
@@ -148,10 +148,28 @@
       ],
       "date_added": "2022-11-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-26",
       "duration_ms": 471893,
       "name": "Adore Him - Live",
       "url": "https://open.spotify.com/track/0ZLq4q1Yyq06nzfxvqkT1o"
+    },
+    {
+      "album": {
+        "name": "Adore Medley",
+        "url": "https://open.spotify.com/album/58qH7OKhRrkvgnC8yf5wl8"
+      },
+      "artists": [
+        {
+          "name": "Free Worship",
+          "url": "https://open.spotify.com/artist/1isLgyF8G4bJdJzTrQPxV9"
+        }
+      ],
+      "date_added": "2026-11-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 350998,
+      "name": "Adore Medley",
+      "url": "https://open.spotify.com/track/2e9C6MzyIZXw6V7tRELhi0"
     },
     {
       "album": {
@@ -271,6 +289,24 @@
     },
     {
       "album": {
+        "name": "He Is With Us",
+        "url": "https://open.spotify.com/album/3f34eb73ZqW3SWk6Qmhg9O"
+      },
+      "artists": [
+        {
+          "name": "Rock City Worship",
+          "url": "https://open.spotify.com/artist/3yAv8udgy9z6yF6rREcgfB"
+        }
+      ],
+      "date_added": "2026-11-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 175682,
+      "name": "Angels We Have Heard on High",
+      "url": "https://open.spotify.com/track/0GJN6RhWBKXlmfD8DrVw0M"
+    },
+    {
+      "album": {
         "name": "Angels We Have Heard On High",
         "url": "https://open.spotify.com/album/0YTBVRxwnR5LOGksOnomhP"
       },
@@ -378,7 +414,7 @@
       ],
       "date_added": "2024-11-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-26",
       "duration_ms": 253295,
       "name": "Angels We Have Heard On High / Glorious",
       "url": "https://open.spotify.com/track/2E06L2ThigpDMmzzt6AuoQ"
@@ -643,6 +679,28 @@
     },
     {
       "album": {
+        "name": "Integrity Music Presents: A Night of Christmas Worship with Paul Baloche",
+        "url": "https://open.spotify.com/album/5lJ8zfJ67OlzwWfXeKrR4k"
+      },
+      "artists": [
+        {
+          "name": "Paul Baloche",
+          "url": "https://open.spotify.com/artist/1jH3GuQCPI87UrS0hcScHr"
+        },
+        {
+          "name": "Britt Nicole",
+          "url": "https://open.spotify.com/artist/6BXionV4R0BunrFpSwIMUK"
+        }
+      ],
+      "date_added": "2026-11-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 327734,
+      "name": "Behold Him",
+      "url": "https://open.spotify.com/track/4tWmLrA7VLJWRGtD5qFRxi"
+    },
+    {
+      "album": {
         "name": "Behold Messiah",
         "url": "https://open.spotify.com/album/0b5akzs3AfLDsFiYLyJ48b"
       },
@@ -760,7 +818,7 @@
       ],
       "date_added": "2022-11-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-26",
       "duration_ms": 203500,
       "name": "Christmas Communion Song",
       "url": "https://open.spotify.com/track/1gCLHAxftuCxq4AyYrSaj8"
@@ -861,6 +919,28 @@
     },
     {
       "album": {
+        "name": "Christmas Sanctus",
+        "url": "https://open.spotify.com/album/1oXzpoJQdYpYvbe0N6CbIk"
+      },
+      "artists": [
+        {
+          "name": "Keith & Kristyn Getty",
+          "url": "https://open.spotify.com/artist/0I4Bk2s2BUJyykCwtxx8Xx"
+        },
+        {
+          "name": "The Getty Girls",
+          "url": "https://open.spotify.com/artist/3V65Gy3Luidoo7kBhplU9a"
+        }
+      ],
+      "date_added": "2026-11-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 260973,
+      "name": "Christmas Sanctus (Holy, Holy, Holy)",
+      "url": "https://open.spotify.com/track/3uSc3dsYu33RmO5feeOynf"
+    },
+    {
+      "album": {
         "name": "His Mercy Is More: The Hymns Of Matt Boswell And Matt Papa",
         "url": "https://open.spotify.com/album/0vdwU3kvvFybzEAPZZDOT3"
       },
@@ -880,6 +960,46 @@
       "duration_ms": 341146,
       "name": "Come Adore The Humble King",
       "url": "https://open.spotify.com/track/5JOINq9OjzQuJLHfVC6eJx"
+    },
+    {
+      "album": {
+        "name": "Come and Behold",
+        "url": "https://open.spotify.com/album/5XZcyMGTagFjqltXb35s8u"
+      },
+      "artists": [
+        {
+          "name": "River Valley Worship",
+          "url": "https://open.spotify.com/artist/1VXCIEol192OgSF9VzowGV"
+        }
+      ],
+      "date_added": "2026-11-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 310184,
+      "name": "Come and Behold",
+      "url": "https://open.spotify.com/track/2Fvb8BQxNG27NvrMU8tyX6"
+    },
+    {
+      "album": {
+        "name": "Come One, Come All (O Come All Ye Faithful)",
+        "url": "https://open.spotify.com/album/58mXLh3SxhJ7nYvTgUpLfQ"
+      },
+      "artists": [
+        {
+          "name": "Lakewood Music",
+          "url": "https://open.spotify.com/artist/6SppFn5ihgxDw7tdfthnaK"
+        },
+        {
+          "name": "Ramiro Garcia",
+          "url": "https://open.spotify.com/artist/5XsYk2KMZlUPlr2GhELgZx"
+        }
+      ],
+      "date_added": "2026-11-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 204295,
+      "name": "Come One, Come All (O Come All Ye Faithful)",
+      "url": "https://open.spotify.com/track/6M9dBmIcP1JIDmCDclo2lQ"
     },
     {
       "album": {
@@ -1022,7 +1142,7 @@
       ],
       "date_added": "2022-11-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-26",
       "duration_ms": 219219,
       "name": "Crown Him With Glory",
       "url": "https://open.spotify.com/track/7Fsu6PtkB1wTd4p2VvIxGj"
@@ -1066,6 +1186,32 @@
       "duration_ms": 352191,
       "name": "Emmanuel",
       "url": "https://open.spotify.com/track/2buHz6hpCv5tnk1TTKbY2Y"
+    },
+    {
+      "album": {
+        "name": "Emmanuel",
+        "url": "https://open.spotify.com/album/757EzE2IorKWKPDsVSeV08"
+      },
+      "artists": [
+        {
+          "name": "James River Worship",
+          "url": "https://open.spotify.com/artist/6Y2LB3Ev9KJPDAqdNiQpZh"
+        },
+        {
+          "name": "Eli Brown",
+          "url": "https://open.spotify.com/artist/0JoA9P8WHxdqqU1QqY79B9"
+        },
+        {
+          "name": "Avery Brown",
+          "url": "https://open.spotify.com/artist/1bSL0vrAWqCSlx460slMWG"
+        }
+      ],
+      "date_added": "2026-11-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 278750,
+      "name": "Emmanuel",
+      "url": "https://open.spotify.com/track/7HPRcjsJfdKQRakJogltG2"
     },
     {
       "album": {
@@ -1146,7 +1292,7 @@
       ],
       "date_added": "2022-11-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-26",
       "duration_ms": 191920,
       "name": "Emmanuel God With Us",
       "url": "https://open.spotify.com/track/1m0TwLxfXAtv2Cn61mwIG0"
@@ -1353,6 +1499,24 @@
     },
     {
       "album": {
+        "name": "Glory To God",
+        "url": "https://open.spotify.com/album/4KaoujRrVS04ivYEqqCFya"
+      },
+      "artists": [
+        {
+          "name": "Holly Halliwell",
+          "url": "https://open.spotify.com/artist/7dKSR3Z8KA6aTZbuMKjuet"
+        }
+      ],
+      "date_added": "2026-11-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 307789,
+      "name": "Glory To God",
+      "url": "https://open.spotify.com/track/7iVNdZ39Bje5mTrSnKGQhr"
+    },
+    {
+      "album": {
         "name": "Go Tell",
         "url": "https://open.spotify.com/album/6p21VNODi0gRsTKw6kE8YL"
       },
@@ -1503,6 +1667,32 @@
     },
     {
       "album": {
+        "name": "God with us (Emmanuel)",
+        "url": "https://open.spotify.com/album/6uJ2ZsKta2YMpTPHhdZImd"
+      },
+      "artists": [
+        {
+          "name": "RMC Worship",
+          "url": "https://open.spotify.com/artist/7o5QzjcZvDSIXTZ94p7wPu"
+        },
+        {
+          "name": "Gissel Morris",
+          "url": "https://open.spotify.com/artist/0n1ja74lrlbrsXiL1NMq4h"
+        },
+        {
+          "name": "Maiya Galloway",
+          "url": "https://open.spotify.com/artist/2eWO7reybACo2euDlvD7nR"
+        }
+      ],
+      "date_added": "2026-11-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 287865,
+      "name": "God with us (Emmanuel)",
+      "url": "https://open.spotify.com/track/52QhZarxeJTVbc4Hjr3kff"
+    },
+    {
+      "album": {
         "name": "Live",
         "url": "https://open.spotify.com/album/1xFAQGLd2GUNK0Ji9ss9TG"
       },
@@ -1522,7 +1712,7 @@
       ],
       "date_added": "2022-11-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-26",
       "duration_ms": 246653,
       "name": "God With Us - Live",
       "url": "https://open.spotify.com/track/5AMa51Rw3V4sJ2TRNSoS8k"
@@ -1606,7 +1796,7 @@
       ],
       "date_added": "2022-11-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-26",
       "duration_ms": 167558,
       "name": "Great Christmas",
       "url": "https://open.spotify.com/track/6pt8hwewlxOm7UZfEsx9t4"
@@ -1646,7 +1836,7 @@
       ],
       "date_added": "2022-11-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-26",
       "duration_ms": 303960,
       "name": "Hark",
       "url": "https://open.spotify.com/track/0GkNcAGrayxbAubOaQQB9t"
@@ -1784,7 +1974,7 @@
       ],
       "date_added": "2022-11-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-26",
       "duration_ms": 313333,
       "name": "Hark the Herald Angels Sing / King of Heaven",
       "url": "https://open.spotify.com/track/1d8bcsMUzPW6e1iCID4gb4"
@@ -2058,7 +2248,7 @@
       ],
       "date_added": "2024-11-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-26",
       "duration_ms": 251666,
       "name": "Holy (Stand In Awe)",
       "url": "https://open.spotify.com/track/65cECo0wKP14gXAOWu3gCP"
@@ -2643,6 +2833,36 @@
     },
     {
       "album": {
+        "name": "Joy to the World (Got My Joy Back)",
+        "url": "https://open.spotify.com/album/4VNKkD80myJbr37Ox1Ln7i"
+      },
+      "artists": [
+        {
+          "name": "North Palm Worship",
+          "url": "https://open.spotify.com/artist/1oSrA2oH5V1Qo4jNPD0BMF"
+        },
+        {
+          "name": "Deborah Hong",
+          "url": "https://open.spotify.com/artist/5m2lVUGIlAlnt0HgxH66UW"
+        },
+        {
+          "name": "Ashleigh Zacarias",
+          "url": "https://open.spotify.com/artist/0BZyMofPPlqrcO5ytwfOkD"
+        },
+        {
+          "name": "Tim Rice",
+          "url": "https://open.spotify.com/artist/6nJa2twTyHMFadCODSWbV3"
+        }
+      ],
+      "date_added": "2026-11-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 273200,
+      "name": "Joy to the World (Got My Joy Back)",
+      "url": "https://open.spotify.com/track/5imOYcdSYnjihGOvV80Ihs"
+    },
+    {
+      "album": {
         "name": "Christmas: Acoustic Sessions",
         "url": "https://open.spotify.com/album/0oCDrLbb3lxDiYcti6Jquv"
       },
@@ -2712,7 +2932,7 @@
       ],
       "date_added": "2024-07-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-26",
       "duration_ms": 418504,
       "name": "Joy to the World - Live",
       "url": "https://open.spotify.com/track/59979l9pipkrI0dGgbazW7"
@@ -2752,7 +2972,7 @@
       ],
       "date_added": "2023-11-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-26",
       "duration_ms": 194092,
       "name": "Joy To The World - Live",
       "url": "https://open.spotify.com/track/5ccO9yPJuSHBSTWoixmdE3"
@@ -2916,7 +3136,7 @@
       ],
       "date_added": "2022-11-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-26",
       "duration_ms": 311700,
       "name": "Lift High (Emmanuel)",
       "url": "https://open.spotify.com/track/6Pzv40MLNnwE0N4xZpYJ2X"
@@ -2956,7 +3176,7 @@
       ],
       "date_added": "2022-11-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-26",
       "duration_ms": 262453,
       "name": "Light Has Come",
       "url": "https://open.spotify.com/track/2rOXIm8nVKLIDhy32ASuoh"
@@ -3032,6 +3252,24 @@
       "duration_ms": 274500,
       "name": "Love Has Come",
       "url": "https://open.spotify.com/track/2st2J3B3PqCPnOrOpIm3BJ"
+    },
+    {
+      "album": {
+        "name": "Magnificent (Christmas)",
+        "url": "https://open.spotify.com/album/6gjKr7AkViV9GTTIqxW0H1"
+      },
+      "artists": [
+        {
+          "name": "Philippa Hanna",
+          "url": "https://open.spotify.com/artist/13Ir7pfxQ5ZkpCHaD2NoX2"
+        }
+      ],
+      "date_added": "2026-11-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 262325,
+      "name": "Magnificent (Christmas)",
+      "url": "https://open.spotify.com/track/1MKOyv0ryLi6JgRNfW88A1"
     },
     {
       "album": {
@@ -3242,7 +3480,7 @@
       ],
       "date_added": "2022-11-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-26",
       "duration_ms": 234478,
       "name": "Mothers And Shepherds",
       "url": "https://open.spotify.com/track/4dNp6tEx0fcbiFGwF40h3k"
@@ -3286,6 +3524,50 @@
       "duration_ms": 306000,
       "name": "Noel",
       "url": "https://open.spotify.com/track/0D2O8gy0lm2eA0x2yaTOHs"
+    },
+    {
+      "album": {
+        "name": "Noel (He Is Born)",
+        "url": "https://open.spotify.com/album/0KH8iShb88IPrvD8il2cFx"
+      },
+      "artists": [
+        {
+          "name": "Bethel Music",
+          "url": "https://open.spotify.com/artist/26T4yOaOoFJvUvxR87Y9HO"
+        },
+        {
+          "name": "Emmy Rose",
+          "url": "https://open.spotify.com/artist/16f4gB92qCHbrYWixnzDGo"
+        }
+      ],
+      "date_added": "2026-11-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 279416,
+      "name": "Noel (He Is Born)",
+      "url": "https://open.spotify.com/track/3YsaIEnLxnpNjpTkihREtK"
+    },
+    {
+      "album": {
+        "name": "Adore: Christmas Songs Of Worship (Live)",
+        "url": "https://open.spotify.com/album/3FxoM2kw0ySokUvvfKTwHk"
+      },
+      "artists": [
+        {
+          "name": "Chris Tomlin",
+          "url": "https://open.spotify.com/artist/6pRi6EIPXz4QJEOEsBaA0m"
+        },
+        {
+          "name": "Lauren Daigle",
+          "url": "https://open.spotify.com/artist/40LHVA5BTQp9RxHOQ9JPYj"
+        }
+      ],
+      "date_added": "2026-11-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 257653,
+      "name": "Noel - Live",
+      "url": "https://open.spotify.com/track/6YCCHnSCcJYWenamiJfLWh"
     },
     {
       "album": {
@@ -3348,6 +3630,28 @@
       "duration_ms": 204634,
       "name": "O Come All Ye Faithful",
       "url": "https://open.spotify.com/track/7F2Y9vPmOd4RQq8ZJgbFMk"
+    },
+    {
+      "album": {
+        "name": "Christmas Worship",
+        "url": "https://open.spotify.com/album/5KK6QtUfcfXobZdrA2vR8e"
+      },
+      "artists": [
+        {
+          "name": "Gateway Worship",
+          "url": "https://open.spotify.com/artist/2b6REyd5UBBp4ZPDhZ2TNB"
+        },
+        {
+          "name": "Mark Harris",
+          "url": "https://open.spotify.com/artist/0ERAlKS38gJDsFr6ttyuov"
+        }
+      ],
+      "date_added": "2026-11-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 271878,
+      "name": "O Come All Ye Faithful",
+      "url": "https://open.spotify.com/track/4TQzoDASSz16dWGdUvd1mO"
     },
     {
       "album": {
@@ -3445,6 +3749,46 @@
     },
     {
       "album": {
+        "name": "O Come All Ye Faithful/All Hail King Jesus",
+        "url": "https://open.spotify.com/album/07YOdbpLbABH9RgcFfzmt9"
+      },
+      "artists": [
+        {
+          "name": "Bethel Music",
+          "url": "https://open.spotify.com/artist/26T4yOaOoFJvUvxR87Y9HO"
+        },
+        {
+          "name": "Garett & Kate",
+          "url": "https://open.spotify.com/artist/0XGtfaGeQDd2jje9soKMPM"
+        }
+      ],
+      "date_added": "2026-11-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 351808,
+      "name": "O Come All Ye Faithful/All Hail King Jesus",
+      "url": "https://open.spotify.com/track/0v5eerXRFZgoM6anxM8Nt3"
+    },
+    {
+      "album": {
+        "name": "O Come Let Us Adore Him",
+        "url": "https://open.spotify.com/album/3t9koD9qeShAi7AL8tHb3g"
+      },
+      "artists": [
+        {
+          "name": "Charles Weems",
+          "url": "https://open.spotify.com/artist/4b55lXHPorwxp0HHq0W6ab"
+        }
+      ],
+      "date_added": "2026-11-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 209680,
+      "name": "O Come Let Us Adore Him",
+      "url": "https://open.spotify.com/track/7ziX9U8PaCs5HHL4UB5jCi"
+    },
+    {
+      "album": {
         "name": "Born Is The King",
         "url": "https://open.spotify.com/album/5VIuPREqoPjd2mP4BUQCdZ"
       },
@@ -3482,7 +3826,7 @@
       ],
       "date_added": "2024-07-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-26",
       "duration_ms": 705888,
       "name": "O Come Let Us Adore Him",
       "url": "https://open.spotify.com/track/16q18IXXJ2cAN25DZnBOhn"
@@ -3504,7 +3848,7 @@
       ],
       "date_added": "2022-11-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-26",
       "duration_ms": 307261,
       "name": "O Come Let Us Adore Him",
       "url": "https://open.spotify.com/track/1hLl0Y2I0EXT0umZha8IzW"
@@ -3585,6 +3929,28 @@
     },
     {
       "album": {
+        "name": "Son of Heaven",
+        "url": "https://open.spotify.com/album/5WhH4llItEG4mAmLkbZqv2"
+      },
+      "artists": [
+        {
+          "name": "Red Rocks Worship",
+          "url": "https://open.spotify.com/artist/48AVv3cw03WdSB5b4qmNCr"
+        },
+        {
+          "name": "Tyler Roberts",
+          "url": "https://open.spotify.com/artist/6sgNKfg3LWtqX7zvcaImo0"
+        }
+      ],
+      "date_added": "2026-11-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 352634,
+      "name": "O Come O Come Emmanuel (The Lord Is With Me)",
+      "url": "https://open.spotify.com/track/71r00R0YDbs2ungdF1Ss4C"
+    },
+    {
+      "album": {
         "name": "In The Bleak Midwinter",
         "url": "https://open.spotify.com/album/4ofhPTJ6v2Q5879EdSIcR7"
       },
@@ -3662,6 +4028,24 @@
     {
       "album": {
         "name": "O Come, O Come Emmanuel",
+        "url": "https://open.spotify.com/album/0wMfIQ6DrpIEc8CJofyMcA"
+      },
+      "artists": [
+        {
+          "name": "Genavieve Linkowski",
+          "url": "https://open.spotify.com/artist/3ZTcBbm31RFUaoTeFAuiJF"
+        }
+      ],
+      "date_added": "2026-11-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 237500,
+      "name": "O Come, O Come Emmanuel",
+      "url": "https://open.spotify.com/track/3THnAb1zw5Wz9vJ1kPmi4Z"
+    },
+    {
+      "album": {
+        "name": "O Come, O Come Emmanuel",
         "url": "https://open.spotify.com/album/52h9FsROuyUbIknjaza2aO"
       },
       "artists": [
@@ -3726,7 +4110,7 @@
       ],
       "date_added": "2022-11-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-26",
       "duration_ms": 163773,
       "name": "O Come, O Come Emmanuel",
       "url": "https://open.spotify.com/track/2bivz4pQKTXTzb0aqf35m2"
@@ -3842,6 +4226,24 @@
     {
       "album": {
         "name": "O Holy Night",
+        "url": "https://open.spotify.com/album/6xfvuSBrmQB7CPSC8PwFwI"
+      },
+      "artists": [
+        {
+          "name": "Gracie Binion",
+          "url": "https://open.spotify.com/artist/0ZDuCmctvivaIwQuHrg48n"
+        }
+      ],
+      "date_added": "2026-11-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 310560,
+      "name": "O Holy Night",
+      "url": "https://open.spotify.com/track/04ak5bYPAUuJ7WjEsK3LJP"
+    },
+    {
+      "album": {
+        "name": "O Holy Night",
         "url": "https://open.spotify.com/album/3RGDDeaNcT3i6KFBI2mZg7"
       },
       "artists": [
@@ -3918,6 +4320,32 @@
       "duration_ms": 325256,
       "name": "O Holy Night",
       "url": "https://open.spotify.com/track/7iLiTH9alCGuJbhC17PsMU"
+    },
+    {
+      "album": {
+        "name": "The Christmas Record",
+        "url": "https://open.spotify.com/album/2Tli01Xi1uwcuMF5puyi6m"
+      },
+      "artists": [
+        {
+          "name": "The Slower I Go",
+          "url": "https://open.spotify.com/artist/38rsfStCmtbbQYWajCB5bo"
+        },
+        {
+          "name": "Dacey Lane",
+          "url": "https://open.spotify.com/artist/08uh4h11sZCgC9tGqTjU2s"
+        },
+        {
+          "name": "Logan York",
+          "url": "https://open.spotify.com/artist/3citQEhSPG6lJqYUrVYhFC"
+        }
+      ],
+      "date_added": "2026-11-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 316616,
+      "name": "O Holy Night",
+      "url": "https://open.spotify.com/track/0hsWSdzbtIDmJqtjIdx7bo"
     },
     {
       "album": {
@@ -4045,6 +4473,24 @@
     },
     {
       "album": {
+        "name": "O Holy Night (Live)",
+        "url": "https://open.spotify.com/album/0BlMOCzMsA4yaZxTh2SKOw"
+      },
+      "artists": [
+        {
+          "name": "Victory House Worship",
+          "url": "https://open.spotify.com/artist/6kzOnutG18rqaBCLzY0gwI"
+        }
+      ],
+      "date_added": "2026-11-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 326813,
+      "name": "O Holy Night - Live",
+      "url": "https://open.spotify.com/track/46ME2mLKnWglNEnYeEeHyU"
+    },
+    {
+      "album": {
         "name": "O Holy Night",
         "url": "https://open.spotify.com/album/30agWxXIeDAYLDGHF4nIz7"
       },
@@ -4060,7 +4506,7 @@
       ],
       "date_added": "2022-11-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-26",
       "duration_ms": 375582,
       "name": "O Holy Night - Live",
       "url": "https://open.spotify.com/track/4UjW7OrZxrm4W6vO4eLq2X"
@@ -4090,6 +4536,24 @@
       "duration_ms": 578990,
       "name": "O Holy Night - Live at Bethel",
       "url": "https://open.spotify.com/track/0lguURObfGlyk1d8HcOKSk"
+    },
+    {
+      "album": {
+        "name": "Glorious Night",
+        "url": "https://open.spotify.com/album/04mwGBc455Pej76x319aJF"
+      },
+      "artists": [
+        {
+          "name": "Stephen McWhirter",
+          "url": "https://open.spotify.com/artist/1DIpWfeb5YTJmmvSy5TSL3"
+        }
+      ],
+      "date_added": "2026-11-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 157928,
+      "name": "O Holy Night - Piano",
+      "url": "https://open.spotify.com/track/6hkArPhWuxjAkLXlQrXbDZ"
     },
     {
       "album": {
@@ -4130,7 +4594,7 @@
       ],
       "date_added": "2022-11-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-26",
       "duration_ms": 325314,
       "name": "O Little Town Of Bethlehem",
       "url": "https://open.spotify.com/track/4shQSnSGk0PnbzAOsp16BJ"
@@ -4148,7 +4612,7 @@
       ],
       "date_added": "2024-11-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-26",
       "duration_ms": 265002,
       "name": "O Little Town of Bethlehem",
       "url": "https://open.spotify.com/track/7rvfGtutRIldXUdgjxLQ9D"
@@ -4274,7 +4738,7 @@
       ],
       "date_added": "2022-11-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-26",
       "duration_ms": 339253,
       "name": "O, Come All Ye Faithful",
       "url": "https://open.spotify.com/track/6t1Ls3PvpUFhJAaAJBLsRl"
@@ -4310,7 +4774,7 @@
       ],
       "date_added": "2023-12-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-26",
       "duration_ms": 174008,
       "name": "Oh Come All Ye Faithful - Stripped Version",
       "url": "https://open.spotify.com/track/6QaGJDoe1idrXDzbwTbZxu"
@@ -4451,6 +4915,28 @@
     },
     {
       "album": {
+        "name": "Peace On Earth",
+        "url": "https://open.spotify.com/album/4EI2Y6wMp73xLk1JH9VIuV"
+      },
+      "artists": [
+        {
+          "name": "Phil Wickham",
+          "url": "https://open.spotify.com/artist/5d1JhBfyb58upMXCZOdbQu"
+        },
+        {
+          "name": "CeCe Winans",
+          "url": "https://open.spotify.com/artist/3qfrrrSO7utFdJkM2tvMRb"
+        }
+      ],
+      "date_added": "2026-11-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 276400,
+      "name": "Peace On Earth",
+      "url": "https://open.spotify.com/track/5GQ2cYa2yV3BRcTIX4opGl"
+    },
+    {
+      "album": {
         "name": "Christmas: The Peace Project (Deluxe)",
         "url": "https://open.spotify.com/album/7jsfWfgCE3uUZGMm9TUZTM"
       },
@@ -4466,6 +4952,24 @@
       "duration_ms": 250786,
       "name": "Peace Upon The Earth",
       "url": "https://open.spotify.com/track/2GpinY0MViDy4uWae6IJV7"
+    },
+    {
+      "album": {
+        "name": "Precious Jesus",
+        "url": "https://open.spotify.com/album/4fECzNzFRKNtRXDmp02fRb"
+      },
+      "artists": [
+        {
+          "name": "NONAH",
+          "url": "https://open.spotify.com/artist/76SJxLztAMHPMieGTNZPeI"
+        }
+      ],
+      "date_added": "2026-11-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 214881,
+      "name": "Precious Jesus",
+      "url": "https://open.spotify.com/track/6g96czlNtpeLinnagPSzja"
     },
     {
       "album": {
@@ -4524,7 +5028,7 @@
       ],
       "date_added": "2022-11-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-26",
       "duration_ms": 300405,
       "name": "Reggae Christmas Medley",
       "url": "https://open.spotify.com/track/1GhKTFDR6hZdMYFLzEYodT"
@@ -4590,7 +5094,7 @@
       ],
       "date_added": "2024-11-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-26",
       "duration_ms": 265000,
       "name": "Royal Son",
       "url": "https://open.spotify.com/track/2mYQLQqY6s1fy09XPvxaBd"
@@ -4656,7 +5160,7 @@
       ],
       "date_added": "2022-11-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-26",
       "duration_ms": 274386,
       "name": "Seasons",
       "url": "https://open.spotify.com/track/5fpu3LhQlnuc60sjDbssjW"
@@ -5165,6 +5669,42 @@
     },
     {
       "album": {
+        "name": "The Manger King",
+        "url": "https://open.spotify.com/album/354Du0hoiLQsPEcvIc2D2g"
+      },
+      "artists": [
+        {
+          "name": "Prestonwood Worship",
+          "url": "https://open.spotify.com/artist/0vj1ONO111GpehfAlHuYFs"
+        }
+      ],
+      "date_added": "2026-11-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 277053,
+      "name": "The Manger King - Acoustic Version",
+      "url": "https://open.spotify.com/track/5aSQ5eoJh4zDsRmgOe0aPW"
+    },
+    {
+      "album": {
+        "name": "Good News Of Great Joy (Christmas Songs Of Worship)",
+        "url": "https://open.spotify.com/album/5K7Q4HBRv7qvhMSiskJ2B6"
+      },
+      "artists": [
+        {
+          "name": "Chris Tomlin",
+          "url": "https://open.spotify.com/artist/6pRi6EIPXz4QJEOEsBaA0m"
+        }
+      ],
+      "date_added": "2026-11-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 226053,
+      "name": "The Manger To The Cross",
+      "url": "https://open.spotify.com/track/2DpJlLdB1erhcqBSePsNKh"
+    },
+    {
+      "album": {
         "name": "The Saviour Is Here",
         "url": "https://open.spotify.com/album/7LJ2alYjOWnQhE3M9weeZQ"
       },
@@ -5220,6 +5760,24 @@
       "duration_ms": 266578,
       "name": "The Wait Is Over Now",
       "url": "https://open.spotify.com/track/7KEqXN1PZWVmwDYu4k8oF7"
+    },
+    {
+      "album": {
+        "name": "The Wonder",
+        "url": "https://open.spotify.com/album/55xwI1VV73lwwlcLiTNr13"
+      },
+      "artists": [
+        {
+          "name": "Jon Reddick",
+          "url": "https://open.spotify.com/artist/7H0gjeKVq6IPXcAUZzzhD2"
+        }
+      ],
+      "date_added": "2026-11-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 205550,
+      "name": "The Wonder",
+      "url": "https://open.spotify.com/track/0Jxvf68KTyvUSZ27MLbXUO"
     },
     {
       "album": {
@@ -5292,7 +5850,7 @@
       ],
       "date_added": "2023-11-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-26",
       "duration_ms": 173142,
       "name": "To Christ Be The Glory (Emmanuel)",
       "url": "https://open.spotify.com/track/5bpYrnWWg2ZIxXdUaiSGMi"
@@ -5380,6 +5938,54 @@
       "duration_ms": 255695,
       "name": "We Sing (Joy to the World)",
       "url": "https://open.spotify.com/track/6ltvX5uLtHrdqAcaDM8aLo"
+    },
+    {
+      "album": {
+        "name": "We Three Kings",
+        "url": "https://open.spotify.com/album/77ChnLlaxLtClQJmzJZpHY"
+      },
+      "artists": [
+        {
+          "name": "Charles Billingsley",
+          "url": "https://open.spotify.com/artist/25rFinQrFA85UTkU88gC5d"
+        },
+        {
+          "name": "TaRanda Greene",
+          "url": "https://open.spotify.com/artist/0GiC21e7l4XAl7IqGflein"
+        }
+      ],
+      "date_added": "2026-11-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 266880,
+      "name": "We Three Kings",
+      "url": "https://open.spotify.com/track/288uiVs1MJGnhZJ5496Yp9"
+    },
+    {
+      "album": {
+        "name": "Welcome The King",
+        "url": "https://open.spotify.com/album/6b0yWqOkzRx98kejhpaKnQ"
+      },
+      "artists": [
+        {
+          "name": "Chase & Co.",
+          "url": "https://open.spotify.com/artist/51QbzvHA7CzMBA9CwWL46n"
+        },
+        {
+          "name": "Elevate Life Music",
+          "url": "https://open.spotify.com/artist/7zmUou9bQc2X6YFKtkFUox"
+        },
+        {
+          "name": "Clay Jones",
+          "url": "https://open.spotify.com/artist/65hUNyTI4D5vzhtmVoKU34"
+        }
+      ],
+      "date_added": "2026-11-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 238429,
+      "name": "Welcome The King",
+      "url": "https://open.spotify.com/track/0GLOytQZcVtmHmDbo4cgNs"
     },
     {
       "album": {
@@ -5638,10 +6244,36 @@
       ],
       "date_added": "2025-11-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-26",
       "duration_ms": 351263,
       "name": "Who Would Imagine a King",
       "url": "https://open.spotify.com/track/1JpKvxW8dbxPpr6k6z7y1t"
+    },
+    {
+      "album": {
+        "name": "Wonder",
+        "url": "https://open.spotify.com/album/1LJoOHO2yuFhINaApM2YAu"
+      },
+      "artists": [
+        {
+          "name": "Church of the City",
+          "url": "https://open.spotify.com/artist/0JEaOx0otT35qgkj1w4oBw"
+        },
+        {
+          "name": "Kyndall Cowart",
+          "url": "https://open.spotify.com/artist/7zUb977dmkv4BOJirMsCwK"
+        },
+        {
+          "name": "Patrick Mayberry",
+          "url": "https://open.spotify.com/artist/4ry1oelvTLzDwOKVxLpzwo"
+        }
+      ],
+      "date_added": "2026-11-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 286309,
+      "name": "Wonder",
+      "url": "https://open.spotify.com/track/5Onah4km5Ce9evxP0seTBa"
     },
     {
       "album": {

@@ -1,12 +1,12 @@
 {
   "description": "slowed, reverbed, chopped and screwed.",
-  "num_followers": 1675062,
+  "num_followers": 1675288,
   "original_name": "slowed and reverbed",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAACCRts8tZ0CpfJf+0dUrIZA7fqPH",
+  "snapshot_id": "AAAAAHK9xvl56t0knumIMIUR4gS6zizB",
   "tracks": [
     {
       "added_at": "2026-08-04 14:05:45",
@@ -751,22 +751,6 @@
     {
       "added_at": "2026-08-04 14:05:45",
       "album": {
-        "name": "i was only temporary (Remixes)",
-        "url": "https://open.spotify.com/album/4eFB3zNX35w1029DW0XxRm"
-      },
-      "artists": [
-        {
-          "name": "my head is empty",
-          "url": "https://open.spotify.com/artist/7pxIYxdkx2675ZGKSAPBAy"
-        }
-      ],
-      "duration_ms": 102160,
-      "name": "i was only temporary (Slowed + Reverb)",
-      "url": "https://open.spotify.com/track/4XAilWzhZM0uyR4vtERfHi"
-    },
-    {
-      "added_at": "2026-08-04 14:05:45",
-      "album": {
         "name": "HEAVENLY JUMPSTYLE",
         "url": "https://open.spotify.com/album/6Mh8tamHejeSdNYR7p3GFl"
       },
@@ -811,6 +795,22 @@
     {
       "added_at": "2026-08-04 14:05:45",
       "album": {
+        "name": "i was only temporary (Remixes)",
+        "url": "https://open.spotify.com/album/4eFB3zNX35w1029DW0XxRm"
+      },
+      "artists": [
+        {
+          "name": "my head is empty",
+          "url": "https://open.spotify.com/artist/7pxIYxdkx2675ZGKSAPBAy"
+        }
+      ],
+      "duration_ms": 102160,
+      "name": "i was only temporary (Slowed + Reverb)",
+      "url": "https://open.spotify.com/track/4XAilWzhZM0uyR4vtERfHi"
+    },
+    {
+      "added_at": "2026-08-04 14:05:45",
+      "album": {
         "name": "SUNRISE (Slowed + Reverb)",
         "url": "https://open.spotify.com/album/2tiHE58yMuZI1wiygJxxSM"
       },
@@ -827,22 +827,6 @@
     {
       "added_at": "2026-08-04 14:05:45",
       "album": {
-        "name": "CLEARED - Remix (Slowed / Sped Up)",
-        "url": "https://open.spotify.com/album/2c8DjbK7TaAUYkYWouikkH"
-      },
-      "artists": [
-        {
-          "name": "Lilithzplug",
-          "url": "https://open.spotify.com/artist/2YVybYBfG1kXdtori5aUMo"
-        }
-      ],
-      "duration_ms": 167109,
-      "name": "CLEARED - Remix (Slowed)",
-      "url": "https://open.spotify.com/track/2G2zAIs50FJyvutTfZqkZj"
-    },
-    {
-      "added_at": "2026-08-04 14:05:45",
-      "album": {
         "name": "Assumptions (slowed down version)",
         "url": "https://open.spotify.com/album/7dg5TA4iTqKMqAgX8hAQz1"
       },
@@ -855,6 +839,22 @@
       "duration_ms": 278474,
       "name": "Assumptions - slowed down version",
       "url": "https://open.spotify.com/track/4QhTDQlt5M2sp2DNWnVift"
+    },
+    {
+      "added_at": "2026-08-04 14:05:45",
+      "album": {
+        "name": "CLEARED - Remix (Slowed / Sped Up)",
+        "url": "https://open.spotify.com/album/2c8DjbK7TaAUYkYWouikkH"
+      },
+      "artists": [
+        {
+          "name": "Lilithzplug",
+          "url": "https://open.spotify.com/artist/2YVybYBfG1kXdtori5aUMo"
+        }
+      ],
+      "duration_ms": 167109,
+      "name": "CLEARED - Remix (Slowed)",
+      "url": "https://open.spotify.com/track/2G2zAIs50FJyvutTfZqkZj"
     },
     {
       "added_at": "2026-08-04 14:05:45",

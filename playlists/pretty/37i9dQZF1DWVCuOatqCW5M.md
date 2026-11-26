@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVCuOatqCW5M.md) - [plain]
 
 > Latest music from Aditya Rikhari, Shreya Ghoshal, Faheem Abdullah and more.
 
-[Spotify](https://open.spotify.com/user/spotify) - 103,248 likes - 50 songs - 2 hr 40 min
+[Spotify](https://open.spotify.com/user/spotify) - 103,275 likes - 50 songs - 2 hr 40 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVCuOatqCW5M.md) - [plain]
 | 49 | [Aankhein](https://open.spotify.com/track/0Y0qi12uVrC1aTvZ0edihf) | [Navjot Ahuja](https://open.spotify.com/artist/7pVf872VEuJQBwiuRFSg4w) | [Aankhein](https://open.spotify.com/album/2fKe65b6B7Bb0sFRY0A39s) | 5:15 |
 | 50 | [Jiyara](https://open.spotify.com/track/56qV2PcQkOp6wdBw2b5vDE) | [Kushagra](https://open.spotify.com/artist/2IKfr1JgPRXmXKAWwrABc6), [Vampire](https://open.spotify.com/artist/2skUmvAGfu7NfzcxmzYvkv) | [Jiyara](https://open.spotify.com/album/2a3XGuHHVE4XszjFI7Qxgw) | 2:45 |
 
-Snapshot ID: `AAAAAML1wzpQmIMtw0mWYiA4u4/4m+hU`
+Snapshot ID: `AAAAAEMYBbi6yfer+BNTenSwqkhrL9hf`

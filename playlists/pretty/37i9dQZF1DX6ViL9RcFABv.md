@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6ViL9RcFABv.md) - [plain]
 
 > Uma playlist de pura alma pop! Foto: Diogo Piçarra
 
-[Spotify](https://open.spotify.com/user/spotify) - 124,609 likes - 75 songs - 4 hr 0 min
+[Spotify](https://open.spotify.com/user/spotify) - 124,606 likes - 75 songs - 4 hr 0 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6ViL9RcFABv.md) - [plain]
 | 74 | [Homem louco](https://open.spotify.com/track/4ORH4QLMT3IZ92rd2GrtMu) | [Salvador Sobral](https://open.spotify.com/artist/0GfYO21pue5u0sVEYk9HZO) | [A flor do recomeço](https://open.spotify.com/album/64dJXGAJNU8op8ZppAQkFT) | 3:21 |
 | 75 | [vou\-me embora](https://open.spotify.com/track/0PZbVncbTYs8mS62jK6PcK) | [Latte](https://open.spotify.com/artist/4hUwAsnHVXjrHIeI27HQ0Y) | [vou\-me embora](https://open.spotify.com/album/2UpuHSJ44Z8eXQA6shDNQQ) | 3:06 |
 
-Snapshot ID: `AAAAAI39dXKQyyaC8clQ1+pfrZuT4Vu0`
+Snapshot ID: `AAAAANJBX1rGbfQGbkkPdyy7c3v+akH/`

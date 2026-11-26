@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWV1aMSQY91oR.md) - [plain]
 
 > The latest in hip\-hop, refreshed weekly\. Cover: Don Toliver
 
-[Spotify](https://open.spotify.com/user/spotify) - 24,311 likes - 48 songs - 2 hr 17 min
+[Spotify](https://open.spotify.com/user/spotify) - 24,314 likes - 48 songs - 2 hr 17 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -19,7 +19,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWV1aMSQY91oR.md) - [plain]
 | 9 | [Ya Hit \(feat\. Drake, Travis Scott & Loe Shimmy\)](https://open.spotify.com/track/76jR5C9oKb1DJR3rab6dGV) | [Future](https://open.spotify.com/artist/1RyvyyTE3xzB2ZywiAwp0i), [Drake](https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4), [Travis Scott](https://open.spotify.com/artist/0Y5tJX1MQlPlqiwlOH1tJY), [Loe Shimmy](https://open.spotify.com/artist/6UIpxj5ggLdOebFVCOxVax) | [Ya Hit \(feat\. Drake, Travis Scott & Loe Shimmy\)](https://open.spotify.com/album/5KXRJdjRBZMPrmvt4EgXAd) | 3:34 |
 | 10 | [Hell Nah](https://open.spotify.com/track/1sXTN7bM5vhe4u0noDS0ib) | [Mez](https://open.spotify.com/artist/30C5wgn4celhRP3Tytv7R6), [J\. Cole](https://open.spotify.com/artist/6l3HvQ5sa6mXTsMTB19rO5), [Anderson .Paak](https://open.spotify.com/artist/3jK9MiCrA42lLAdMGUZpwa) | [Hell Nah](https://open.spotify.com/album/2G6yaIv1IteUQCgQk4gZPC) | 4:32 |
 | 11 | [WE ON GO \- HONORABLE Version](https://open.spotify.com/track/0brs1wJlXA87KIv4vXQOIB) | [BIA](https://open.spotify.com/artist/6veh5zbFpm31XsPdjBgPER), [Luciano](https://open.spotify.com/artist/3CJKkU0XuElRT1z8rEtIYg) | [WE ON GO \(HONORABLE Version\)](https://open.spotify.com/album/6EZ578zedbTHsYcDVxsqxd) | 2:45 |
-| 12 | [OC�AN DE PROBL�MES](https://open.spotify.com/track/5dIeUtbhqDLrT61OmVis32) | [Ninho](https://open.spotify.com/artist/6Te49r3A6f5BiIgBRxH7FH) | [M.I.L.S 4 \(Deluxe Edition\)](https://open.spotify.com/album/2dYzdvprtQxTjRERTd4XsD) | 3:22 |
+| 12 | [OCÉAN DE PROBLÈMES](https://open.spotify.com/track/5dIeUtbhqDLrT61OmVis32) | [Ninho](https://open.spotify.com/artist/6Te49r3A6f5BiIgBRxH7FH) | [M.I.L.S 4 \(Deluxe Edition\)](https://open.spotify.com/album/2dYzdvprtQxTjRERTd4XsD) | 3:22 |
 | 13 | [WELCOME \(feat\. Eminem\)](https://open.spotify.com/track/5xYS6MQKWWdMYg63hrwIiM) | [IDK](https://open.spotify.com/artist/6aiFCgyKNwF9Rv5TOxnE8E), [Eminem](https://open.spotify.com/artist/7dGJo4pcD2V6oG8kP0tJRR), [J Dilla](https://open.spotify.com/artist/0IVcLMMbm05VIjnzPkGCyp) | [WELCOME \(feat\. Eminem\)](https://open.spotify.com/album/0SIpXn5R4mqILiDJjWpbQd) | 2:42 |
 | 14 | [LAMINE YAMAL \(feat\. La Pantera\)](https://open.spotify.com/track/4iUjotWvNyG99ldTZTRysc) | [Nemzzz](https://open.spotify.com/artist/3DHtfeD4PsmR9YGhCP4VF7), [La Pantera](https://open.spotify.com/artist/0IEzMvarfVycBJAXjjEZOL) | [LOCKED IN \(EUROLUXE\)](https://open.spotify.com/album/2H2FFVVPzAYw3Qhw3IAxbb) | 2:13 |
 | 15 | [Phenomenal](https://open.spotify.com/track/4DT1xj1f2NAoZaHZvYPSBa) | [Connor Price](https://open.spotify.com/artist/5zixe6AbgXPqt4c1uSl94L), [Nic D](https://open.spotify.com/artist/1XlLhtgJjC4ROQZilBZAvw), [Paperboys](https://open.spotify.com/artist/74FBtqFO0SZn7nWzwql2VP) | [Phenomenal](https://open.spotify.com/album/2yF2ioZYFUxv9FXFThT34H) | 2:02 |
@@ -57,4 +57,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWV1aMSQY91oR.md) - [plain]
 | 47 | [Keeper](https://open.spotify.com/track/58l7AtNOamVs2JWDXLvnyE) | [Shelailai](https://open.spotify.com/artist/6rhcTWIMphyIXBGVo3B0gc), [Eem Triplin](https://open.spotify.com/artist/5kxnZh8gXyXdIvCWbDMevT) | [Keeper](https://open.spotify.com/album/1IVtwaOi0441aa5xlrKVtf) | 2:37 |
 | 48 | [Never Left](https://open.spotify.com/track/35zKLzdHPLIUgXYLpX9T4y) | [Shubh](https://open.spotify.com/artist/5r3wPya2PpeTTsXsGhQU8O) | [Never Left](https://open.spotify.com/album/0GHQcRFWJRabw6UEgFn5jy) | 3:25 |
 
-Snapshot ID: `AAAAAKJRCXoJnTqdkv0Ka0iQeKQZNfOu`
+Snapshot ID: `AAAAAElhR2EUkiLn3tNV/WagQAaZP1c9`

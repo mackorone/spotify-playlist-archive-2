@@ -1,12 +1,12 @@
 {
   "description": "Enjoy music from \"\nUmamusume: Pretty Derby! \u00a9 Cygames, Inc.",
-  "num_followers": 66127,
+  "num_followers": 66147,
   "original_name": "Umamusume: Pretty Derby",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAB2cNMfVxaNLBbWlS1TJMvA0MQme",
+  "snapshot_id": "AAAAAGufC+TH+/wKqht+u622bwryHjdp",
   "tracks": [
     {
       "added_at": "2026-09-08 16:35:28",
@@ -567,22 +567,18 @@
     {
       "added_at": "2026-09-08 16:35:28",
       "album": {
-        "name": "\u300e\u30a6\u30de\u5a18 \u30d7\u30ea\u30c6\u30a3\u30fc\u30c0\u30fc\u30d3\u30fc\u300fWINNING LIVE 35",
-        "url": "https://open.spotify.com/album/12oWEbGLTyngd6boOaXckp"
+        "name": "\u300e\u30a6\u30de\u5a18 \u30d7\u30ea\u30c6\u30a3\u30fc\u30c0\u30fc\u30d3\u30fc\u300fWINNING LIVE 23",
+        "url": "https://open.spotify.com/album/7vrw9FVJm5hnwp7hokXDUG"
       },
       "artists": [
         {
-          "name": "\u30b7\u30f3\u30b3\u30a6\u30a6\u30a4\u30f3\u30c7\u30a3 (CV. \u9ad8\u7530\u6182\u5e0c)",
-          "url": "https://open.spotify.com/artist/3l279W1o3rlpjlNByYdRJh"
-        },
-        {
-          "name": "\u30a6\u30de\u5a18 \u30d7\u30ea\u30c6\u30a3\u30fc\u30c0\u30fc\u30d3\u30fc",
-          "url": "https://open.spotify.com/artist/5pTLke5Yq8nN4yaPxLPzGd"
+          "name": "\u30a8\u30b9\u30dd\u30ef\u30fc\u30eb\u30b7\u30c1\u30fc (CV. \u4e9c\u54b2\u82b1)",
+          "url": "https://open.spotify.com/artist/7DAA6ZOmkL5LpGxXuF2vjK"
         }
       ],
-      "duration_ms": 203932,
-      "name": "CAN'T STOP \u30ef\u30eb\u4e0a\u7b49\uff01",
-      "url": "https://open.spotify.com/track/39lXNj5mKm3pe0r8yi2g0t"
+      "duration_ms": 143533,
+      "name": "\u30d4\u30e8\u3063\u30d4\u30e8\u306b\u3057\u3066\u3084\u3093\u3088\u30c3\uff01",
+      "url": "https://open.spotify.com/track/67Eu9NqZW7MJEaSLKvx4pG"
     },
     {
       "added_at": "2026-09-08 16:35:28",
@@ -679,18 +675,22 @@
     {
       "added_at": "2026-09-08 16:35:28",
       "album": {
-        "name": "\u300e\u30a6\u30de\u5a18 \u30d7\u30ea\u30c6\u30a3\u30fc\u30c0\u30fc\u30d3\u30fc\u300fWINNING LIVE 23",
-        "url": "https://open.spotify.com/album/7vrw9FVJm5hnwp7hokXDUG"
+        "name": "\u300e\u30a6\u30de\u5a18 \u30d7\u30ea\u30c6\u30a3\u30fc\u30c0\u30fc\u30d3\u30fc\u300fWINNING LIVE 35",
+        "url": "https://open.spotify.com/album/12oWEbGLTyngd6boOaXckp"
       },
       "artists": [
         {
-          "name": "\u30a8\u30b9\u30dd\u30ef\u30fc\u30eb\u30b7\u30c1\u30fc (CV. \u4e9c\u54b2\u82b1)",
-          "url": "https://open.spotify.com/artist/7DAA6ZOmkL5LpGxXuF2vjK"
+          "name": "\u30b7\u30f3\u30b3\u30a6\u30a6\u30a4\u30f3\u30c7\u30a3 (CV. \u9ad8\u7530\u6182\u5e0c)",
+          "url": "https://open.spotify.com/artist/3l279W1o3rlpjlNByYdRJh"
+        },
+        {
+          "name": "\u30a6\u30de\u5a18 \u30d7\u30ea\u30c6\u30a3\u30fc\u30c0\u30fc\u30d3\u30fc",
+          "url": "https://open.spotify.com/artist/5pTLke5Yq8nN4yaPxLPzGd"
         }
       ],
-      "duration_ms": 143533,
-      "name": "\u30d4\u30e8\u3063\u30d4\u30e8\u306b\u3057\u3066\u3084\u3093\u3088\u30c3\uff01",
-      "url": "https://open.spotify.com/track/67Eu9NqZW7MJEaSLKvx4pG"
+      "duration_ms": 203932,
+      "name": "CAN'T STOP \u30ef\u30eb\u4e0a\u7b49\uff01",
+      "url": "https://open.spotify.com/track/39lXNj5mKm3pe0r8yi2g0t"
     },
     {
       "added_at": "2026-09-08 16:35:28",

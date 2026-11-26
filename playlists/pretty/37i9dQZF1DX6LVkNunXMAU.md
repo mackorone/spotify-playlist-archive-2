@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6LVkNunXMAU.md) - [plain]
 
 > Folk latino de estación\. Foto: Loli Molina
 
-[Spotify](https://open.spotify.com/user/spotify) - 62,647 likes - 120 songs - 6 hr 40 min
+[Spotify](https://open.spotify.com/user/spotify) - 62,652 likes - 120 songs - 6 hr 40 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -52,7 +52,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6LVkNunXMAU.md) - [plain]
 | 42 | [Una tregua](https://open.spotify.com/track/0IsmfEG6IEyieYzV36JXjq) | [Nano Stern](https://open.spotify.com/artist/6WcoLUYMQyttg3fFIkou6X) | [Una tregua](https://open.spotify.com/album/2uewJ2TVYnhN7wLkC6k0lj) | 4:12 |
 | 43 | [Sentimientos](https://open.spotify.com/track/7CaDm6qJKC4f3PuUiUsc2T) | [Dulce y Agraz](https://open.spotify.com/artist/5cD6bctPV8wtKpO4o8ZtTQ) | [Sentimientos](https://open.spotify.com/album/3SyvjffyNzzp6GjLBvmZ3P) | 4:00 |
 | 44 | [Wely Sylvia](https://open.spotify.com/track/5gLQFU6vfFHwJJyGsFSvId) | [Vicente Cifuentes](https://open.spotify.com/artist/3b06h05NjiPizwnTeGybfG) | [VICHI](https://open.spotify.com/album/6VuayadZKoMqR7kjdTD5HC) | 3:01 |
-| 45 | [Cuerda](https://open.spotify.com/track/4e5javqb2KvBS2RtbTZXxW) | [Camilo Eque](https://open.spotify.com/artist/1NBoDdFZArcr9I68YHFA5T), [Clara Cantore](https://open.spotify.com/artist/2B8KhsQddQcf5L3qRmQyUe) | [Cuerda](https://open.spotify.com/album/5aON7e8VGRkP5Rq28M6grC) | 3:00 |
+| 45 | [CUERDA](https://open.spotify.com/track/4e5javqb2KvBS2RtbTZXxW) | [Camilo Eque](https://open.spotify.com/artist/1NBoDdFZArcr9I68YHFA5T), [Clara Cantore](https://open.spotify.com/artist/2B8KhsQddQcf5L3qRmQyUe) | [CUERDA](https://open.spotify.com/album/5aON7e8VGRkP5Rq28M6grC) | 3:00 |
 | 46 | [No Nos Vimos](https://open.spotify.com/track/2g8IXozpjRbd0vhjm37S3x) | [Borneo](https://open.spotify.com/artist/0w9lu4ZDXuidfh3SfJ7Bdz) | [No Nos Vimos](https://open.spotify.com/album/54DWkiEN9xAdN34tR3T5BD) | 3:31 |
 | 47 | [Cántaro](https://open.spotify.com/track/4eBVeZUc2R0AQjJdi9YfWc) | [Delfi Moore](https://open.spotify.com/artist/0iwS8u0GYTStXRUtoTAthe) | [Cántaro](https://open.spotify.com/album/29MidgxHNX8oOv7R2neAUH) | 1:59 |
 | 48 | [Cumbia Nena Magic](https://open.spotify.com/track/7iU8rcZIZBsVs8UX3t5xCW) | [Manu Hattom](https://open.spotify.com/artist/0bktV4M0SvAzGH7auzlGpY) | [Cumbia Nena Magic](https://open.spotify.com/album/2caja4MilrThiyXshp5nTa) | 3:11 |
@@ -129,4 +129,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6LVkNunXMAU.md) - [plain]
 | 119 | [Me dejo ir](https://open.spotify.com/track/3V7SYyvoKoxjopFxg3hDAy) | [Dulce y Agraz](https://open.spotify.com/artist/5cD6bctPV8wtKpO4o8ZtTQ) | [Me dejo ir](https://open.spotify.com/album/5xY9nYq6CGSpDG0k92cTTT) | 4:11 |
 | 120 | [El Campo \- acústico](https://open.spotify.com/track/1KzpT0TFVNiZFx2NlzOcdP) | [Planeta No](https://open.spotify.com/artist/47hetBUhKhfBmk8nXeriqN) | [ODIO el ODIO \(Acústico\)](https://open.spotify.com/album/4yui6NMZ1sFX7s0uSHWyvX) | 2:58 |
 
-Snapshot ID: `AAAAAJUtDgCH7oQPEpBvzXcWTqf8f90x`
+Snapshot ID: `AAAAAAsjF6O/CVNY+FHW6/L7o/oclNwo`

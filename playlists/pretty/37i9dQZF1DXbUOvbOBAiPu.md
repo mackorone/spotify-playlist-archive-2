@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbUOvbOBAiPu.md) - [plain]
 
 > New music from Dua Lipa, Warhaus, Zoë Livay,  Jul & J Balvin, Adèle Castillon, Zwangere Guy & Sef and more...
 
-[Spotify](https://open.spotify.com/user/spotify) - 55,047 likes - 125 songs - 6 hr 30 min
+[Spotify](https://open.spotify.com/user/spotify) - 55,044 likes - 125 songs - 6 hr 30 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -18,7 +18,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbUOvbOBAiPu.md) - [plain]
 | 8 | [Debout](https://open.spotify.com/track/1wk6Zve0KRioYIbDVmR3tS) | [Noé Preszow](https://open.spotify.com/artist/6CZhbpXpR3VJNQWFkwd2Ic) | [Ici Noé](https://open.spotify.com/album/7vdPcR5eHr8WjKcY7bgOkc) | 3:39 |
 | 9 | [Starting From Zero \(feat\. Michael McDonald\) \[From GTAVI: Original Score\]](https://open.spotify.com/track/1akuT1qSIAoOhpPhUxGpyR) | [Justice](https://open.spotify.com/artist/1gR0gsQYfi6joyO1dlp76N), [Michael McDonald](https://open.spotify.com/artist/24hJWbo98sH84tb0nkeaqy), [Grand Theft Auto VI](https://open.spotify.com/artist/15o7qdDTBzs6xWRUYUtZc1) | [Starting From Zero \(feat\. Michael McDonald\) \[From GTAVI: Original Score\]](https://open.spotify.com/album/5TZmF4xF98fss6CqT3oCSh) | 3:10 |
 | 10 | [Through Fire & Ashes](https://open.spotify.com/track/6zXOb0twqoNTKfhckpzvjj) | [Within Temptation](https://open.spotify.com/artist/3hE8S8ohRErocpkY7uJW4a), [S10](https://open.spotify.com/artist/1zT9SWCzN45r7oVhy0VYLK) | [Through Fire & Ashes](https://open.spotify.com/album/7f1msXBK4lKC77wXUaLdg0) | 4:28 |
-| 11 | [OC�AN DE PROBL�MES](https://open.spotify.com/track/5dIeUtbhqDLrT61OmVis32) | [Ninho](https://open.spotify.com/artist/6Te49r3A6f5BiIgBRxH7FH) | [M.I.L.S 4 \(Deluxe Edition\)](https://open.spotify.com/album/2dYzdvprtQxTjRERTd4XsD) | 3:22 |
+| 11 | [OCÉAN DE PROBLÈMES](https://open.spotify.com/track/5dIeUtbhqDLrT61OmVis32) | [Ninho](https://open.spotify.com/artist/6Te49r3A6f5BiIgBRxH7FH) | [M.I.L.S 4 \(Deluxe Edition\)](https://open.spotify.com/album/2dYzdvprtQxTjRERTd4XsD) | 3:22 |
 | 12 | [Bon Appétit](https://open.spotify.com/track/2w0IA4SBx3e0ymlZ5EY9mP) | [Kurdo](https://open.spotify.com/artist/1yIifIA91WgmfzBcjbQB8i), [Chahid](https://open.spotify.com/artist/6EBuwu67SbT5U1Gns5bvCb) | [Bon Appétit](https://open.spotify.com/album/7q2bRCXRzw3LPCFCsM1XHt) | 2:30 |
 | 13 | [Lost in It](https://open.spotify.com/track/3DS1UrDXwnpnYZsLjNnugt) | [Gracie Abrams](https://open.spotify.com/artist/4tuJ0bMpJh08umKkEXKUI5) | [Daughter from Hell \(Deluxe\)](https://open.spotify.com/album/7hAEgpAEje0obsJ8SrJKg2) | 2:55 |
 | 14 | [LET ME LOVE U?](https://open.spotify.com/track/2IQCI291KZPzxZVut7Lrip) | [Spanker](https://open.spotify.com/artist/6wMnkPepu5AcV3w9rtIw09), [KM](https://open.spotify.com/artist/0MSYpagcvnSP2o91Ji2OCw), [CHO](https://open.spotify.com/artist/0YPIovtLh5msFPFuCcn30R), [Jonna Fraser](https://open.spotify.com/artist/5adKMaYrGOMyOfnbiLPuHg) | [LET ME LOVE U?](https://open.spotify.com/album/2BhrigAOtSWvXKsWbL9S9C) | 2:26 |
@@ -134,4 +134,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbUOvbOBAiPu.md) - [plain]
 | 124 | [EPITAPH](https://open.spotify.com/track/0PU4ouHMxR2mvPLIh3rkTD) | [MUDRAT](https://open.spotify.com/artist/5BXgJD35uOzh79FlVO8DQ2) | [EPITAPH](https://open.spotify.com/album/5OodKM4uld9oWTq1ZI28uj) | 3:08 |
 | 125 | [SHADY SHADY](https://open.spotify.com/track/5Qd7BEDjCSpdJak3MwdNfo) | [Ganges](https://open.spotify.com/artist/7gtqMRAdH6DvPm2gdoI17Q) | [SHADY SHADY](https://open.spotify.com/album/73RKF6BpNKDuLxGxPnLneA) | 2:49 |
 
-Snapshot ID: `AAAAAA0WAYphRBJQM8CufrXN0PUCbqtL`
+Snapshot ID: `AAAAAEQrKrvOPUqpkIg6IjA+7G94RpZJ`

@@ -4,11 +4,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXRzAsbxGrBZ.md) - [plain]
 
 > Get revived with some of the best Deep House South Africa has to offer\. Cover: !Sooks
 
-[Spotify](https://open.spotify.com/user/spotify) - 122,359 likes - 70 songs - 7 hr 46 min
+[Spotify](https://open.spotify.com/user/spotify) - 122,403 likes - 70 songs - 7 hr 46 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
-| 1 | [Find Yourself](https://open.spotify.com/track/18fz5xmAjCAmvjyEdrIwfJ) | [!Sooks](https://open.spotify.com/artist/4JbbqXJHtza12SQPxlzuVI), [Ralf GUM](https://open.spotify.com/artist/2dmEw7jkvPAZ2PXm3j7SV2), [Ayanda Jiya](https://open.spotify.com/artist/3fHajGrVzPPPfrsY6OJ3Nl) | [ALPHA](https://open.spotify.com/album/6PuFJ5jpPkZ7jPono8Vrwi) | 8:22 |
+| 1 | [Find Yourself](https://open.spotify.com/track/18fz5xmAjCAmvjyEdrIwfJ) | [!Sooks](https://open.spotify.com/artist/4JbbqXJHtza12SQPxlzuVI), [Ralf Gum](https://open.spotify.com/artist/2XE7Kskh4TLEcxIyNSoCwN), [Ayanda Jiya](https://open.spotify.com/artist/3fHajGrVzPPPfrsY6OJ3Nl) | [ALPHA](https://open.spotify.com/album/6PuFJ5jpPkZ7jPono8Vrwi) | 8:22 |
 | 2 | [Nana](https://open.spotify.com/track/2Zf5Tel7LDpaOdi1A68TLI) | [Dwson](https://open.spotify.com/artist/60ZIrIA1iT9NStXmdAuhjR), [Salvador](https://open.spotify.com/artist/2FUmeo84bwi3tKKlkLf9C0) | [Nothing To Lose \(Deluxe Edition\)](https://open.spotify.com/album/3kYFy7Ng3Ng6wa3pb7D8W4) | 6:57 |
 | 3 | [I'm Scared of My Fears](https://open.spotify.com/track/4ibDlKXErwiF2eVjVEsj9M) | [Buddynice](https://open.spotify.com/artist/2xjvb56AjGc8c8WwkPfJgp), [Tumie G](https://open.spotify.com/artist/7pLHhPdhw4ltm1TntLPgsY), [Nkosinathi Phakathi](https://open.spotify.com/artist/5OeyTWO0h7wCirhNcPLU2y) | [I'm Scared of My Fears](https://open.spotify.com/album/7mUwEok6dcMceM2jNXVynu) | 7:50 |
 | 4 | [My ways](https://open.spotify.com/track/7FegBAzvjk1X1ba729e289) | [Dearson](https://open.spotify.com/artist/1JpxwCQgCrnVtjJfifRnY2), [Coco SA](https://open.spotify.com/artist/45rjVmb6zfzig44apPYQqi) | [This & That](https://open.spotify.com/album/171fDFT0ih5HZVReh3ONvN) | 7:04 |
@@ -79,4 +79,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXRzAsbxGrBZ.md) - [plain]
 | 69 | [Didn't You Know](https://open.spotify.com/track/6d16PTTUx4IwJblVsqtplY) | [Beat Soul](https://open.spotify.com/artist/3bVRDtwde3d7VBUM2rwEoV) | [For The Love Of You](https://open.spotify.com/album/3RhnBgCyczmFOCTnxgpHQk) | 8:28 |
 | 70 | [Seventeen](https://open.spotify.com/track/0pFoLE5PMOwP3pGEcxTiap) | [D.General](https://open.spotify.com/artist/3k6HJ8CqtsEfqkpehLhl0l), [Exte C](https://open.spotify.com/artist/6xUGu0QxJfllDHmB9Pyc23) | [Rebirth](https://open.spotify.com/album/6EmeH4g6wfJdrs8UsgpmRe) | 6:50 |
 
-Snapshot ID: `AAAAAPsRmdINiGAxzNlmTwwAzWDnxZ4x`
+Snapshot ID: `AAAAAHTh2yMXRvxN/rgtrE4ba6Nzc23Z`

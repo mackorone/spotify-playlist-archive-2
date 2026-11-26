@@ -2,9 +2,9 @@
 
 ### [ملوك السين](https://open.spotify.com/playlist/37i9dQZF1DWZyonhntyFxW)
 
-> أقوى تراكات الهيب هوب في مصر\. الغلاف: ابو الانوار
+> أقوى تراكات الهيب هوب في مصر\. الغلاف: ويجز
 
-508 songs - 1 day 0 hr 41 min
+509 songs - 1 day 0 hr 44 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -78,7 +78,7 @@
 | [AURA](https://open.spotify.com/track/3M4DRqS84IvGSmAH7BTDuF) | [Marwan Pablo](https://open.spotify.com/artist/56chSp36PsMhpQvUn1kdR3) | [EN7RAF](https://open.spotify.com/album/5SvfhMVSkxKJMXJLpgEPrn) | 1:34 | 2025-08-12 | 2026-03-31 |
 | [AURA](https://open.spotify.com/track/4LKXjVhW0awFSsXLtEmkBD) | [Marwan Pablo](https://open.spotify.com/artist/56chSp36PsMhpQvUn1kdR3) | [EN7RAF](https://open.spotify.com/album/1fobYepbyOWSEbIJnyIrLF) | 1:34 | 2025-04-17 | 2025-07-11 |
 | [Ayamy Betfoot](https://open.spotify.com/track/0A1S5v9iqx8VcAr9EXJyYN) | [Abo El Anwar](https://open.spotify.com/artist/2H6XYL9D5Z3ErkxCD0gmD6) | [Ayamy Betfoot](https://open.spotify.com/album/5vjadUmDs4MBIsKzqjupE3) | 3:02 | 2024-07-15 | 2024-12-14 |
-| [B.B\. King \(feat\. Dhom Altlasy\)](https://open.spotify.com/track/3foWJiDgHfG2OJfoiB6W9i) | [Wegz](https://open.spotify.com/artist/4BKC2HOGEqtYz2Xbgp9N1q), [دحوم الطلاسي](https://open.spotify.com/artist/1oqdsH0De57FaORaUIF9gC) | [Aqareb \(Side B\)](https://open.spotify.com/album/0N7f8HwliUbikVCIfogDgv) | 3:12 | 2025-12-15 |  |
+| [B.B\. King \(feat\. Dhom Altlasy\)](https://open.spotify.com/track/3foWJiDgHfG2OJfoiB6W9i) | [Wegz](https://open.spotify.com/artist/4BKC2HOGEqtYz2Xbgp9N1q), [دحوم الطلاسي](https://open.spotify.com/artist/1oqdsH0De57FaORaUIF9gC) | [Aqareb \(Side B\)](https://open.spotify.com/album/0N7f8HwliUbikVCIfogDgv) | 3:12 | 2025-12-15 | 2026-11-26 |
 | [B5L3](https://open.spotify.com/track/5vElTBWlBEIbD4rEDK3xcM) | [$AVAGE](https://open.spotify.com/artist/2W8Ohp09zW7NhBbdXQd5Kn), [IL DOD](https://open.spotify.com/artist/3iRoeoGmK8clvIA0tko3TZ) | [B5L3](https://open.spotify.com/album/0BJ8CTwZak4vm3zsxAn9oo) | 2:24 | 2026-05-07 | 2026-06-04 |
 | [Baba](https://open.spotify.com/track/0HjAtdzoK8MsULTU5VwyFT) | [Abo El Anwar](https://open.spotify.com/artist/2H6XYL9D5Z3ErkxCD0gmD6), [Lil Baba](https://open.spotify.com/artist/4TBJ8JSsEBYMJnxrtRheLc), [Desso](https://open.spotify.com/artist/28O73xyNVl2RaEQb2IfbJp) | [Madina](https://open.spotify.com/album/5XLUPYK6v0Mbnu95pbh3Tp) | 3:53 | 2022-09-13 | 2022-12-24 |
 | [BABA](https://open.spotify.com/track/6DfufSrieDt7oDP7CbxtnZ) | [Marwan Moussa](https://open.spotify.com/artist/2BBnFUgIaLHqoRYPfshoPb) | [Masr El Qadeema](https://open.spotify.com/album/6XMsjLJeaWPcKQkcHCu3ZL) | 2:54 | 2026-06-04 | 2026-09-23 |
@@ -133,6 +133,7 @@
 | [De El Taree2a \(From Sakr W Canaria Movie\)](https://open.spotify.com/track/6uPZpAw51X73ORLBydHizI) | [Ahmed Santa](https://open.spotify.com/artist/2jRxGTrLGVw35yRsElgsXj) | [De El Taree2a \(From Sakr W Canaria Movie\)](https://open.spotify.com/album/0RwZOf3Ryy01VKgt3MtRrp) | 2:04 | 2026-07-21 |  |
 | [Deep](https://open.spotify.com/track/58FNOZG0cfPdnnqTPdjirs) | [Abyusif](https://open.spotify.com/artist/4o6vIkdmHiEXZOesrJj3KO) | [Deep](https://open.spotify.com/album/7b9Om4YTB1qXMAzjcDtRbb) | 2:05 | 2022-05-10 | 2022-09-28 |
 | [DENYA](https://open.spotify.com/track/4TlpHDwcmq6aCZhRVzHXDi) | [Mond](https://open.spotify.com/artist/3mUUUQDWnVlttF1yERxmPQ) | [DENYA](https://open.spotify.com/album/1t4vC8tZK7qnnFGfCN0iyA) | 2:52 | 2026-05-22 | 2026-11-13 |
+| [Diaa Diaa \(from Leila Bazet Khales\)](https://open.spotify.com/track/4gCmTyXkgn7PYJndcEGVNR) | [Wegz](https://open.spotify.com/artist/4BKC2HOGEqtYz2Xbgp9N1q) | [Diaa Diaa \(from Leila Bazet Khales\)](https://open.spotify.com/album/6kuQ6VrTK8nU2Y3gF7SJt5) | 2:43 | 2026-11-25 |  |
 | [DKHOOL\\\\KHROOG](https://open.spotify.com/track/7bHLhelEYKQPnRPFmyzOyH) | [Marwan Moussa](https://open.spotify.com/artist/2BBnFUgIaLHqoRYPfshoPb) | [IMPORT//EXPORT](https://open.spotify.com/album/2MUyfrxcVoLhkPDI7hVDp9) | 2:45 | 2023-09-06 | 2023-09-22 |
 | [Do](https://open.spotify.com/track/59548fTGuQyKSryFEOCnON) | [Abyusif](https://open.spotify.com/artist/4o6vIkdmHiEXZOesrJj3KO) | [Do](https://open.spotify.com/album/7qkbB0Bcn6yzBt8fEcrfEE) | 3:27 | 2026-05-20 | 2026-08-25 |
 | [DON'T CALL ME TODAY](https://open.spotify.com/track/14nb4zJx6gSeqtBEQ3JfHa) | [Mousv](https://open.spotify.com/artist/6CGE1o9Swi1tAEa23wRTah) | [MAFIA](https://open.spotify.com/album/4PbcFg08rKsFnESVcBnDwH) | 2:33 | 2026-03-30 | 2026-05-29 |

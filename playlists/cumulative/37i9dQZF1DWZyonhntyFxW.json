@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-05-13",
-  "description": " \u0623\u0642\u0648\u0649 \u062a\u0631\u0627\u0643\u0627\u062a \u0627\u0644\u0647\u064a\u0628 \u0647\u0648\u0628 \u0641\u064a \u0645\u0635\u0631. \u0627\u0644\u063a\u0644\u0627\u0641: \u0627\u0628\u0648 \u0627\u0644\u0627\u0646\u0648\u0627\u0631",
+  "description": " \u0623\u0642\u0648\u0649 \u062a\u0631\u0627\u0643\u0627\u062a \u0627\u0644\u0647\u064a\u0628 \u0647\u0648\u0628 \u0641\u064a \u0645\u0635\u0631. \u0627\u0644\u063a\u0644\u0627\u0641: \u0648\u064a\u062c\u0632",
   "name": "\u0645\u0644\u0648\u0643 \u0627\u0644\u0633\u064a\u0646",
   "tracks": [
     {
@@ -1420,7 +1420,7 @@
       ],
       "date_added": "2025-12-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-26",
       "duration_ms": 192000,
       "name": "B.B. King (feat. Dhom Altlasy)",
       "url": "https://open.spotify.com/track/3foWJiDgHfG2OJfoiB6W9i"
@@ -2540,6 +2540,24 @@
       "duration_ms": 172958,
       "name": "DENYA",
       "url": "https://open.spotify.com/track/4TlpHDwcmq6aCZhRVzHXDi"
+    },
+    {
+      "album": {
+        "name": "Diaa Diaa (from Leila Bazet Khales)",
+        "url": "https://open.spotify.com/album/6kuQ6VrTK8nU2Y3gF7SJt5"
+      },
+      "artists": [
+        {
+          "name": "Wegz",
+          "url": "https://open.spotify.com/artist/4BKC2HOGEqtYz2Xbgp9N1q"
+        }
+      ],
+      "date_added": "2026-11-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 163566,
+      "name": "Diaa Diaa (from Leila Bazet Khales)",
+      "url": "https://open.spotify.com/track/4gCmTyXkgn7PYJndcEGVNR"
     },
     {
       "album": {

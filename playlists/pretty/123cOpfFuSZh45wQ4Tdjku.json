@@ -1,12 +1,12 @@
 {
   "description": "mostly furry",
-  "num_followers": 1335,
+  "num_followers": 1336,
   "original_name": "My favourite furry songs",
   "owner": {
     "name": "Arcana",
     "url": "https://open.spotify.com/user/31pthgv6rb2dvvjpngxwmd2ztjx4"
   },
-  "snapshot_id": "AAACLrH+rEjTFHKfSom897roeaRQwpbe",
+  "snapshot_id": "AAACLzBwPYwrFsnWxdVtzfRotnUZ2pmV",
   "tracks": [
     {
       "added_at": "2026-10-12 04:18:08",
@@ -10495,6 +10495,22 @@
       "duration_ms": 118000,
       "name": "Rusty Chevrolet",
       "url": "https://open.spotify.com/track/6OkUgrIkmIruLElP8Lltd1"
+    },
+    {
+      "added_at": "2026-11-25 13:30:28",
+      "album": {
+        "name": "Rainy Day",
+        "url": "https://open.spotify.com/album/4Q1XNk7cuCy9ojNXJdMtGh"
+      },
+      "artists": [
+        {
+          "name": "Tundra Fox",
+          "url": "https://open.spotify.com/artist/5YhzBLEPDn6WsOletqmX5M"
+        }
+      ],
+      "duration_ms": 112000,
+      "name": "Rainy Day",
+      "url": "https://open.spotify.com/track/6XW0U5F6NUa8a5DJTYKUDU"
     }
   ],
   "unique_name": "My favourite furry songs",

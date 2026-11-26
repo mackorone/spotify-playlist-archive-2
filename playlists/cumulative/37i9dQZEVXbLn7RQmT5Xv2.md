@@ -4,7 +4,7 @@
 
 > Your daily update of the most played tracks right now \- Egypt.
 
-1,300 songs - 3 day 4 hr 39 min
+1,301 songs - 3 day 4 hr 43 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -138,7 +138,7 @@
 | [Basha E3temed](https://open.spotify.com/track/4QrQgRLngf3cKoEdu3s6RH) | [Abyusif](https://open.spotify.com/artist/4o6vIkdmHiEXZOesrJj3KO), [Abo El Anwar](https://open.spotify.com/artist/2H6XYL9D5Z3ErkxCD0gmD6) | [Basha E3temed](https://open.spotify.com/album/3XZcmo0YruIYwkRbz0X3NW) | 2:37 | 2021-08-25 | 2021-12-17 |
 | [Basrah w Atooh](https://open.spotify.com/track/4vIbws1xp082bv0zl8vLaJ) | [Cairokee](https://open.spotify.com/artist/2GVksDv9UpY60i4CvytrZK) | [Roma](https://open.spotify.com/album/6ucy4v9cUETA0yRQx8D34F) | 3:57 | 2022-09-24 | 2026-04-24 |
 | [BBLŞH](https://open.spotify.com/track/4XJVwELcAQ6UxYSexeGsiW) | [Marwan Pablo](https://open.spotify.com/artist/56chSp36PsMhpQvUn1kdR3) | [PRJKTBLUBEAM](https://open.spotify.com/album/0rJxCuUYsfbFQZomCBLWtc) | 2:12 | 2024-08-16 | 2024-08-20 |
-| [Be3teeny Leh \| Red Bull Mazzika Salonat](https://open.spotify.com/track/2fOoMpwfcLaOw3rPrbHgyO) | [Amr Mostafa](https://open.spotify.com/artist/6YZXwVnjrIIz9SlBd8l2Cg), [ZIAD ZAZA](https://open.spotify.com/artist/03V846UE00DEjP9OaGvjKM), [Moataz Mady](https://open.spotify.com/artist/11Yf1JoZahEhob9eSkqaVv), [Red Bull Sika](https://open.spotify.com/artist/2V1MWcYHvKbyzBxqy0rryW) | [Be3teeny Leh \| Red Bull Mazzika Salonat](https://open.spotify.com/album/02aEAfQBBPr2ep2jmIOfam) | 3:35 | 2025-12-03 |  |
+| [Be3teeny Leh \| Red Bull Mazzika Salonat](https://open.spotify.com/track/2fOoMpwfcLaOw3rPrbHgyO) | [Amr Mostafa](https://open.spotify.com/artist/6YZXwVnjrIIz9SlBd8l2Cg), [ZIAD ZAZA](https://open.spotify.com/artist/03V846UE00DEjP9OaGvjKM), [Moataz Mady](https://open.spotify.com/artist/11Yf1JoZahEhob9eSkqaVv), [Red Bull Sika](https://open.spotify.com/artist/2V1MWcYHvKbyzBxqy0rryW) | [Be3teeny Leh \| Red Bull Mazzika Salonat](https://open.spotify.com/album/02aEAfQBBPr2ep2jmIOfam) | 3:35 | 2025-12-03 | 2026-11-26 |
 | [Beeny we Beenek](https://open.spotify.com/track/0B4dVqagONgYQ4L7Gme6rN) | [Marwan Moussa](https://open.spotify.com/artist/2BBnFUgIaLHqoRYPfshoPb) | [Beeny we Beenek](https://open.spotify.com/album/198vpQGBG1ZBoLCpxR1Qvn) | 2:40 | 2022-02-17 | 2022-02-24 |
 | [Beggin'](https://open.spotify.com/track/3Wrjm47oTz2sjIgck11l5e) | [Måneskin](https://open.spotify.com/artist/0lAWpj5szCSwM4rUMHYmrr) | [Chosen](https://open.spotify.com/album/2qJw6w5XwQO0PQlSWPu7Tw) | 3:31 | 2021-06-18 | 2021-11-06 |
 | [Bel Salama \- Lorry Pt\. 2 Remix](https://open.spotify.com/track/1OFqfSFPRN5hqTXz0WnUZB) | [Molotof](https://open.spotify.com/artist/57UiSuUcw9m0MV4bC2DukM), [Wegz](https://open.spotify.com/artist/4BKC2HOGEqtYz2Xbgp9N1q) | [Bel Salama \(Lorry Pt\. 2 Remix\)](https://open.spotify.com/album/2p1XHGm1y614MMkJaaySci) | 3:13 | 2021-03-30 | 2021-05-08 |
@@ -1308,5 +1308,6 @@
 | [يلا ندي للي باعنا بوسة](https://open.spotify.com/track/6kQSn6wpNfhi6okDREctqv) | [Essam Sasa](https://open.spotify.com/artist/2KjiHtx0h8tyJXbg8aYRgu) | [يلا ندي للي باعنا بوسة](https://open.spotify.com/album/4KfbVuvo0ZUztFoyB3LY0s) | 3:02 | 2023-03-06 | 2023-07-03 |
 | [يلا نلعبو جوله](https://open.spotify.com/track/7AVngULvj8UIiF4TvM2zFt) | [حوده بوده](https://open.spotify.com/artist/4aa4VlPLbYO184dQMWmwcx), [اسلام كابونجا](https://open.spotify.com/artist/6lBIyYTrWwULJmuFlncN48) | [يلا نلعبو جوله](https://open.spotify.com/album/1F3vUJFcQynW76e1bwvF0w) | 0:48 | 2024-01-23 | 2024-04-30 |
 | [يمكن خير](https://open.spotify.com/track/4Guq7XrO1FjduwFBsVbr0E) | [Ramy Sabry](https://open.spotify.com/artist/5LtHZB7vU02HtNoOzNcVhc) | [معايا هتبدع](https://open.spotify.com/album/08JBX3tJAbu2ctc7Ui3hXF) | 3:36 | 2023-02-02 | 2025-11-11 |
+| [‎⁨هيفرد جناحه هقصقصه](https://open.spotify.com/track/7Ha9WnOKJygtuQ6Ge9KA2T) | [حمو المرشدي](https://open.spotify.com/artist/42bLvjMTikom8zqIxOgUEY) | [‎⁨هيفرد جناحه هقصقصه](https://open.spotify.com/album/3jDl0x0avIFWEyuyNToDgA) | 3:23 | 2026-11-25 |  |
 
 \*This playlist was first scraped on 2021-03-27. Prior content cannot be recovered.

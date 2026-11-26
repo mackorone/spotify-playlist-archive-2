@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8vAahjzdXGC.md) - [plain]
 
 > Rilisan baru pekan ini dari dia, Dua Lipa, Budi Doremi, TheOvertunes, Gracie Abrams, BIGBANG dan masih banyak lagi dari dalam dan mancanegara.
 
-[Spotify](https://open.spotify.com/user/spotify) - 254,296 likes - 103 songs - 5 hr 45 min
+[Spotify](https://open.spotify.com/user/spotify) - 254,256 likes - 103 songs - 5 hr 45 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -112,4 +112,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8vAahjzdXGC.md) - [plain]
 | 102 | [Pacify](https://open.spotify.com/track/41jzlZUkgEC9tWQDZ5miJm) | [Joesef](https://open.spotify.com/artist/28EyduqESEOVMO6vglvaUZ) | [Pacify](https://open.spotify.com/album/2I1Ox7f2gBZSZM0P6rF4oJ) | 3:59 |
 | 103 | [Wait For Me](https://open.spotify.com/track/1R7tSmPLsyqiZ2S9HBAbqR) | [PIAO](https://open.spotify.com/artist/3WRVVRVjdDenvXlJgs2WXb) | [Wait For Me](https://open.spotify.com/album/1QEtRtDD4pnYTrthvroqEO) | 3:08 |
 
-Snapshot ID: `AAAAAMm2156NOhrbMK4ebOYyO5RaDyqG`
+Snapshot ID: `AAAAAB3WWbnuZmmrHgU3a4UzQIqgiKgW`

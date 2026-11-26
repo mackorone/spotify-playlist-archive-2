@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSrj7tqQ9IOu.md) - [plain]
 
 > Les meilleurs sons du mois d'Octobre sélectionnés par les éditos de Spotify\. Photo : Snoh Aalegra
 
-[Spotify](https://open.spotify.com/user/spotify) - 400,946 likes - 50 songs - 2 hr 47 min
+[Spotify](https://open.spotify.com/user/spotify) - 400,932 likes - 50 songs - 2 hr 47 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSrj7tqQ9IOu.md) - [plain]
 | 49 | [Les oiseaux qui chantent](https://open.spotify.com/track/2S79KZogGAUkVl3xN62UyI) | [Sauve](https://open.spotify.com/artist/3jXzioLWZnWUIaEjXPxpHw) | [Les oiseaux qui chantent](https://open.spotify.com/album/42MRurG1TXXLyja3zbRnOt) | 2:27 |
 | 50 | [Who You Callin' Crazy](https://open.spotify.com/track/6RoAAej2b94deRZ23FehHW) | [The Rolling Stones](https://open.spotify.com/artist/22bE4uQ6baNwSHPVcDxLCe) | [Foreign Tongues, Loose Lips](https://open.spotify.com/album/1OjG4rVJguph3dmrpLZ5M3) | 4:09 |
 
-Snapshot ID: `AAAAAAX8oMzY2Xt9bbMvdN4KraDJOjHp`
+Snapshot ID: `AAAAACn0xuHVJFgDa6W6F0Laua/n5CGG`

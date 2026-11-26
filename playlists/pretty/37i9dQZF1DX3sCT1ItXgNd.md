@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3sCT1ItXgNd.md) - [plain]
 
 > Lo mejor del pop en español\. Foto: María Becerra
 
-[Spotify](https://open.spotify.com/user/spotify) - 992,409 likes - 50 songs - 2 hr 31 min
+[Spotify](https://open.spotify.com/user/spotify) - 992,338 likes - 50 songs - 2 hr 31 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3sCT1ItXgNd.md) - [plain]
 | 49 | [Flechazo](https://open.spotify.com/track/3Y0bm2psmsSji70OYz1EWm) | [Lérica](https://open.spotify.com/artist/4d3kmfoZBTuUPSUjgP45uo) | [Kien me presta una guitarra?](https://open.spotify.com/album/4q4MIPjP96zPQVk6pVDPEp) | 2:02 |
 | 50 | [Me Mata](https://open.spotify.com/track/2nqwPkQNHUBMlxKRsnWMbY) | [Morat](https://open.spotify.com/artist/5C4PDR4LnhZTbVnKWXuDKD) | [Me Mata](https://open.spotify.com/album/6C4UXMBQulZpRfB3DwH89C) | 3:06 |
 
-Snapshot ID: `AAAAAOEo5TP/6Uo/hDi8tge5ek5pM4wV`
+Snapshot ID: `AAAAAF+MgjlGS6HLWCtgQdGQHp7A75oU`

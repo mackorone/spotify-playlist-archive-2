@@ -2600,7 +2600,7 @@
       ],
       "date_added": "2026-08-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-26",
       "duration_ms": 195285,
       "name": "After The Rain",
       "url": "https://open.spotify.com/track/0rclr5nd7iwF4rJTYRLlJq"
@@ -28280,7 +28280,7 @@
       ],
       "date_added": "2026-10-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-26",
       "duration_ms": 235880,
       "name": "Heaven Can Wait",
       "url": "https://open.spotify.com/track/6ee7KId6UZeOyliYOCsYYt"
@@ -28722,7 +28722,7 @@
       ],
       "date_added": "2026-10-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-26",
       "duration_ms": 221623,
       "name": "Heroes & Villains",
       "url": "https://open.spotify.com/track/7k1RyCE03ZzpNXCd7Kc0wD"
@@ -36055,6 +36055,24 @@
     },
     {
       "album": {
+        "name": "\u7231",
+        "url": "https://open.spotify.com/album/2Y8q8UKpgrmPGV8mFchvIj"
+      },
+      "artists": [
+        {
+          "name": "Grimes",
+          "url": "https://open.spotify.com/artist/053q0ukIDRgzwTr4vNSwab"
+        }
+      ],
+      "date_added": "2026-11-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 197373,
+      "name": "KILLING GOD WITH COMPUTERS",
+      "url": "https://open.spotify.com/track/45wasIhGDIplDfMXXAaiEJ"
+    },
+    {
+      "album": {
         "name": "Killing Me",
         "url": "https://open.spotify.com/album/4HsgZMW1HHEQX6xyX0MrQm"
       },
@@ -40114,6 +40132,24 @@
       "duration_ms": 186025,
       "name": "Luv Like",
       "url": "https://open.spotify.com/track/3cJSNe3eSkegr9dZsZxr6c"
+    },
+    {
+      "album": {
+        "name": "Luv Sweet Vida",
+        "url": "https://open.spotify.com/album/1tLiVhxUbrP6whALXiGqN8"
+      },
+      "artists": [
+        {
+          "name": "Mber Montes",
+          "url": "https://open.spotify.com/artist/3O4VO6taJeQjea2E0d23Ii"
+        }
+      ],
+      "date_added": "2026-11-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 144000,
+      "name": "Luv Sweet Vida",
+      "url": "https://open.spotify.com/track/3rvIAxueKVLDTI7HCRXZbK"
     },
     {
       "album": {
@@ -47908,6 +47944,28 @@
       "duration_ms": 234239,
       "name": "OSMOSIS",
       "url": "https://open.spotify.com/track/2zaSwAEQRZ6eqTpU8sbxsx"
+    },
+    {
+      "album": {
+        "name": "Osondi Owendi",
+        "url": "https://open.spotify.com/album/3JWavowCF8s5QFXLmDYs41"
+      },
+      "artists": [
+        {
+          "name": "P Wavey",
+          "url": "https://open.spotify.com/artist/1r8MP5pyAuhuSQ9u1aaOp5"
+        },
+        {
+          "name": "Samtheman",
+          "url": "https://open.spotify.com/artist/0L5XphjnCUGKHXVFAn9Ccv"
+        }
+      ],
+      "date_added": "2026-11-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 252141,
+      "name": "Osondi Owendi",
+      "url": "https://open.spotify.com/track/3Cs2gEbcLspLq6zmOqN9KD"
     },
     {
       "album": {
@@ -56289,6 +56347,24 @@
     },
     {
       "album": {
+        "name": "SHADY SHADY",
+        "url": "https://open.spotify.com/album/73RKF6BpNKDuLxGxPnLneA"
+      },
+      "artists": [
+        {
+          "name": "Ganges",
+          "url": "https://open.spotify.com/artist/7gtqMRAdH6DvPm2gdoI17Q"
+        }
+      ],
+      "date_added": "2026-11-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 169714,
+      "name": "SHADY SHADY",
+      "url": "https://open.spotify.com/track/5Qd7BEDjCSpdJak3MwdNfo"
+    },
+    {
+      "album": {
         "name": "Shake Down (Regrette Rien Mix)",
         "url": "https://open.spotify.com/album/1kFOuM0oYv7FgZwUtvazeS"
       },
@@ -57262,7 +57338,7 @@
       ],
       "date_added": "2026-08-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-26",
       "duration_ms": 173103,
       "name": "silly boy",
       "url": "https://open.spotify.com/track/17QzouX9lff6aTC0SotV2P"

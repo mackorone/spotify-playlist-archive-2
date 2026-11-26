@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0pBnnJLCYjo.md) - [plain]
 
 > humanos recomendando humanos\. todos los martes canciones seleccionadas por tus editores de Spotify México.
 
-[Spotify](https://open.spotify.com/user/spotify) - 476,306 likes - 30 songs - 1 hr 46 min
+[Spotify](https://open.spotify.com/user/spotify) - 476,278 likes - 30 songs - 1 hr 46 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -39,4 +39,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0pBnnJLCYjo.md) - [plain]
 | 29 | [Fembois en Morelia](https://open.spotify.com/track/5ck47DIaZEHXn6WE6ljQ6g) | [cacomixtle](https://open.spotify.com/artist/5BPV50KIHSSKCHuQwh30fP) | [Nada Bueno Termina Bien](https://open.spotify.com/album/7sDECyr819XLlKvhBHhqcb) | 2:36 |
 | 30 | [Contigo](https://open.spotify.com/track/7f69Bhl2TH4n85usEe4E80) | [Niños Del Cerro](https://open.spotify.com/artist/1RpIuXeUsxfYBdQIg19QSy) | [Lance](https://open.spotify.com/album/0QKogaFMfwEUwIxni6uwAE) | 3:43 |
 
-Snapshot ID: `AAAAANZdnrNBJ36R1VkrRekn04ebggeG`
+Snapshot ID: `AAAAAD5snMCC4wiVot2licqriG/B/zqT`

@@ -1,12 +1,12 @@
 {
   "description": "The best new dance tracks from independent artists & labels. Featuring TOM LECHEF. Curated with love by human Spotify editors. \n",
-  "num_followers": 220539,
+  "num_followers": 220599,
   "original_name": "Fresh Finds Dance",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAPrDVOxjBCcPPswveIsrBbrMYGdG",
+  "snapshot_id": "AAAAABeklEj28qI0b84/oQn37bwZ7wt3",
   "tracks": [
     {
       "added_at": "2026-11-20 05:01:17",
@@ -25,52 +25,20 @@
       "url": "https://open.spotify.com/track/2gP5IEV7gEvFxEwvfhl9jo"
     },
     {
-      "added_at": "2026-11-13 05:01:46",
+      "added_at": "2026-11-25 18:31:40",
       "album": {
-        "name": "When U Were Mine",
-        "url": "https://open.spotify.com/album/2xj7wSfHJyw8RttZ7Pev4O"
+        "name": "Mk VItra",
+        "url": "https://open.spotify.com/album/5uVzsyx9YPZBpHFIfIapQV"
       },
       "artists": [
         {
-          "name": "Soldier Boy",
-          "url": "https://open.spotify.com/artist/4peDh0mBKPwTUFZUj7UCe9"
+          "name": "Mk VI",
+          "url": "https://open.spotify.com/artist/6oxzVg7lGTqv4e0nvkLOuQ"
         }
       ],
-      "duration_ms": 176000,
-      "name": "When U Were Mine",
-      "url": "https://open.spotify.com/track/6t2Z6ZjynEP2hxuhzM2WxF"
-    },
-    {
-      "added_at": "2026-11-20 05:01:17",
-      "album": {
-        "name": "Faded",
-        "url": "https://open.spotify.com/album/4dbY2oxsz6mDQw9AbuYqsZ"
-      },
-      "artists": [
-        {
-          "name": "Nat Kara",
-          "url": "https://open.spotify.com/artist/45JSk7XvIJijTo2Kc8Nzfj"
-        }
-      ],
-      "duration_ms": 238000,
-      "name": "Faded",
-      "url": "https://open.spotify.com/track/5yVG8NJrD2XurcDcoxuK26"
-    },
-    {
-      "added_at": "2026-10-16 04:02:02",
-      "album": {
-        "name": "DEBBIE",
-        "url": "https://open.spotify.com/album/5UHkP3ZGxO8xtpaOJHtMv8"
-      },
-      "artists": [
-        {
-          "name": "Luke Andy",
-          "url": "https://open.spotify.com/artist/4FxJtBwCaADws2F7xmpZQS"
-        }
-      ],
-      "duration_ms": 195000,
-      "name": "DEBBIE",
-      "url": "https://open.spotify.com/track/2AvDDoOiPGfGYgB9hfbbvJ"
+      "duration_ms": 193066,
+      "name": "Scorsese",
+      "url": "https://open.spotify.com/track/1URy5aYyoTG3cdX8NSu4oN"
     },
     {
       "added_at": "2026-11-13 05:01:46",
@@ -87,6 +55,38 @@
       "duration_ms": 121333,
       "name": "tea party",
       "url": "https://open.spotify.com/track/4Ld9itujTC7hLw1eFg1UdW"
+    },
+    {
+      "added_at": "2026-11-20 05:01:17",
+      "album": {
+        "name": "Senai",
+        "url": "https://open.spotify.com/album/51lTnErt49lBmIctERZm2X"
+      },
+      "artists": [
+        {
+          "name": "Ken Ate My Homework",
+          "url": "https://open.spotify.com/artist/1oITLncXquwfF8U2Gavgj0"
+        }
+      ],
+      "duration_ms": 219837,
+      "name": "Senai",
+      "url": "https://open.spotify.com/track/6R4bnXewaUcQcJDQ0PeR09"
+    },
+    {
+      "added_at": "2026-11-25 19:09:14",
+      "album": {
+        "name": "Jealous Twins",
+        "url": "https://open.spotify.com/album/2hTFUaUkrYPV1wRApa26Xh"
+      },
+      "artists": [
+        {
+          "name": "Hilel Lev",
+          "url": "https://open.spotify.com/artist/4V3TzdJEP0khoPzEcLLfM3"
+        }
+      ],
+      "duration_ms": 365714,
+      "name": "Jealous Twins",
+      "url": "https://open.spotify.com/track/3ZGqQUwwfsXPXqvCwn63WG"
     },
     {
       "added_at": "2026-10-09 04:02:02",
@@ -109,20 +109,168 @@
       "url": "https://open.spotify.com/track/6G4zuZa5dn4WhWWz735B16"
     },
     {
-      "added_at": "2026-11-20 05:01:17",
+      "added_at": "2026-10-16 04:02:02",
       "album": {
-        "name": "Senai",
-        "url": "https://open.spotify.com/album/51lTnErt49lBmIctERZm2X"
+        "name": "DEBBIE",
+        "url": "https://open.spotify.com/album/5UHkP3ZGxO8xtpaOJHtMv8"
       },
       "artists": [
         {
-          "name": "Ken Ate My Homework",
-          "url": "https://open.spotify.com/artist/1oITLncXquwfF8U2Gavgj0"
+          "name": "Luke Andy",
+          "url": "https://open.spotify.com/artist/4FxJtBwCaADws2F7xmpZQS"
         }
       ],
-      "duration_ms": 219837,
-      "name": "Senai",
-      "url": "https://open.spotify.com/track/6R4bnXewaUcQcJDQ0PeR09"
+      "duration_ms": 195000,
+      "name": "DEBBIE",
+      "url": "https://open.spotify.com/track/2AvDDoOiPGfGYgB9hfbbvJ"
+    },
+    {
+      "added_at": "2026-11-25 18:31:40",
+      "album": {
+        "name": "That Beat",
+        "url": "https://open.spotify.com/album/5w2jc2FjYxNeDK8xyovb4o"
+      },
+      "artists": [
+        {
+          "name": "KDAY",
+          "url": "https://open.spotify.com/artist/1KKKcBrYzcNamS31OMPGFC"
+        }
+      ],
+      "duration_ms": 183636,
+      "name": "That Beat",
+      "url": "https://open.spotify.com/track/1889rDSSYAseP8oV0JJWpZ"
+    },
+    {
+      "added_at": "2026-11-20 05:01:17",
+      "album": {
+        "name": "u+me",
+        "url": "https://open.spotify.com/album/6QuAbzGiRSChjfCQ8X2xHv"
+      },
+      "artists": [
+        {
+          "name": "monica.com",
+          "url": "https://open.spotify.com/artist/091RYc5KZSMbiaQ2JsfgRe"
+        }
+      ],
+      "duration_ms": 141000,
+      "name": "u+me",
+      "url": "https://open.spotify.com/track/56Q8ZGzpFWjoO0XMSPxfe9"
+    },
+    {
+      "added_at": "2026-11-13 05:01:46",
+      "album": {
+        "name": "When U Were Mine",
+        "url": "https://open.spotify.com/album/2xj7wSfHJyw8RttZ7Pev4O"
+      },
+      "artists": [
+        {
+          "name": "Soldier Boy",
+          "url": "https://open.spotify.com/artist/4peDh0mBKPwTUFZUj7UCe9"
+        }
+      ],
+      "duration_ms": 176000,
+      "name": "When U Were Mine",
+      "url": "https://open.spotify.com/track/6t2Z6ZjynEP2hxuhzM2WxF"
+    },
+    {
+      "added_at": "2026-11-25 18:31:40",
+      "album": {
+        "name": "Take Me Higher",
+        "url": "https://open.spotify.com/album/2ozXCwbp65GdqQZZIgzTsV"
+      },
+      "artists": [
+        {
+          "name": "Ocean",
+          "url": "https://open.spotify.com/artist/0WRpHrzIKi44X6ARRQKeGg"
+        }
+      ],
+      "duration_ms": 186857,
+      "name": "Take Me Higher",
+      "url": "https://open.spotify.com/track/6X1Ccxsl0GMlCp64bMyp9m"
+    },
+    {
+      "added_at": "2026-11-20 05:01:17",
+      "album": {
+        "name": "Faded",
+        "url": "https://open.spotify.com/album/4dbY2oxsz6mDQw9AbuYqsZ"
+      },
+      "artists": [
+        {
+          "name": "Nat Kara",
+          "url": "https://open.spotify.com/artist/45JSk7XvIJijTo2Kc8Nzfj"
+        }
+      ],
+      "duration_ms": 238000,
+      "name": "Faded",
+      "url": "https://open.spotify.com/track/5yVG8NJrD2XurcDcoxuK26"
+    },
+    {
+      "added_at": "2026-11-25 18:31:40",
+      "album": {
+        "name": "The Knowledge",
+        "url": "https://open.spotify.com/album/2rMJDpSILA0Skw98WxkVEh"
+      },
+      "artists": [
+        {
+          "name": "Carvalho(BR)",
+          "url": "https://open.spotify.com/artist/5uVeV2p5spqCu5Y7v5Td2c"
+        }
+      ],
+      "duration_ms": 160116,
+      "name": "The Knowledge",
+      "url": "https://open.spotify.com/track/3LEfdroH0ReW6HG2BfWx54"
+    },
+    {
+      "added_at": "2026-11-13 05:01:46",
+      "album": {
+        "name": "So High",
+        "url": "https://open.spotify.com/album/7AB5BnMFawAINR4XcJ9HPW"
+      },
+      "artists": [
+        {
+          "name": "Mad.Again",
+          "url": "https://open.spotify.com/artist/0N3Cd61UD4Y0ED9YXFGa5V"
+        },
+        {
+          "name": "ANY ZEE",
+          "url": "https://open.spotify.com/artist/0VUSbfrFrqCtemSb2GOEfe"
+        }
+      ],
+      "duration_ms": 155905,
+      "name": "So High",
+      "url": "https://open.spotify.com/track/1ChJoX2SoQp4RiyN4NbQnq"
+    },
+    {
+      "added_at": "2026-11-25 18:31:40",
+      "album": {
+        "name": "Funkhammer",
+        "url": "https://open.spotify.com/album/6LVlC0EZNqbzCInLoHD7NP"
+      },
+      "artists": [
+        {
+          "name": "BOUNCER",
+          "url": "https://open.spotify.com/artist/1CNKIq7mf493x3Q7yaRxxt"
+        }
+      ],
+      "duration_ms": 194645,
+      "name": "Funkhammer",
+      "url": "https://open.spotify.com/track/04B6sXL4d4lICufpX4Inlf"
+    },
+    {
+      "added_at": "2026-11-25 18:31:40",
+      "album": {
+        "name": "Show You",
+        "url": "https://open.spotify.com/album/1g2mBzt0FvrbdRQvXqoren"
+      },
+      "artists": [
+        {
+          "name": "CLOVA",
+          "url": "https://open.spotify.com/artist/4qfs0G2aKMj2cyVSAB7BRb"
+        }
+      ],
+      "duration_ms": 237176,
+      "name": "Show You",
+      "url": "https://open.spotify.com/track/4N0Rh3Ml9RrCIhaKwGuVJg"
     },
     {
       "added_at": "2026-11-20 05:01:17",
@@ -187,42 +335,6 @@
       "duration_ms": 210692,
       "name": "Fall In Love",
       "url": "https://open.spotify.com/track/3eCZVp9RZChgSLzC5aYiJL"
-    },
-    {
-      "added_at": "2026-11-13 05:01:46",
-      "album": {
-        "name": "So High",
-        "url": "https://open.spotify.com/album/7AB5BnMFawAINR4XcJ9HPW"
-      },
-      "artists": [
-        {
-          "name": "Mad.Again",
-          "url": "https://open.spotify.com/artist/0N3Cd61UD4Y0ED9YXFGa5V"
-        },
-        {
-          "name": "ANY ZEE",
-          "url": "https://open.spotify.com/artist/0VUSbfrFrqCtemSb2GOEfe"
-        }
-      ],
-      "duration_ms": 155905,
-      "name": "So High",
-      "url": "https://open.spotify.com/track/1ChJoX2SoQp4RiyN4NbQnq"
-    },
-    {
-      "added_at": "2026-11-20 05:01:17",
-      "album": {
-        "name": "u+me",
-        "url": "https://open.spotify.com/album/6QuAbzGiRSChjfCQ8X2xHv"
-      },
-      "artists": [
-        {
-          "name": "monica.com",
-          "url": "https://open.spotify.com/artist/091RYc5KZSMbiaQ2JsfgRe"
-        }
-      ],
-      "duration_ms": 141000,
-      "name": "u+me",
-      "url": "https://open.spotify.com/track/56Q8ZGzpFWjoO0XMSPxfe9"
     },
     {
       "added_at": "2026-11-13 05:01:46",
@@ -433,26 +545,6 @@
       "url": "https://open.spotify.com/track/7imJIqxGxGPl4GxKe0jj5I"
     },
     {
-      "added_at": "2026-10-30 04:01:17",
-      "album": {
-        "name": "All The Mess That You Made",
-        "url": "https://open.spotify.com/album/2OrSnHipQyOxtsE4UJO7Ly"
-      },
-      "artists": [
-        {
-          "name": "Stresshead",
-          "url": "https://open.spotify.com/artist/1ilfLz2z62VTtvKJmxYPzs"
-        },
-        {
-          "name": "Moa Lisa",
-          "url": "https://open.spotify.com/artist/0oUXA3boTncBMYFD5o6G2E"
-        }
-      ],
-      "duration_ms": 188881,
-      "name": "All The Mess That You Made",
-      "url": "https://open.spotify.com/track/0elcoYxyHRPMcff9M8PC91"
-    },
-    {
       "added_at": "2026-11-06 05:01:34",
       "album": {
         "name": "Feels Right",
@@ -549,22 +641,6 @@
       "url": "https://open.spotify.com/track/2GldOS8ieY71YHIB1g4CwH"
     },
     {
-      "added_at": "2026-10-30 04:01:17",
-      "album": {
-        "name": "Weapon X",
-        "url": "https://open.spotify.com/album/6imruFmzHqk6PoLlfLbZOK"
-      },
-      "artists": [
-        {
-          "name": "Jaguar",
-          "url": "https://open.spotify.com/artist/00Yp7ztleUYQsQ3wtcEf5X"
-        }
-      ],
-      "duration_ms": 221183,
-      "name": "Weapon X",
-      "url": "https://open.spotify.com/track/5vShG2bZbMpYWJ7EA4e3pp"
-    },
-    {
       "added_at": "2026-09-17 01:08:14",
       "album": {
         "name": "The Arrival",
@@ -601,22 +677,6 @@
       "url": "https://open.spotify.com/track/2UbOssp0YwkiL73JTAJUd4"
     },
     {
-      "added_at": "2026-10-30 04:01:17",
-      "album": {
-        "name": "Loose",
-        "url": "https://open.spotify.com/album/3lFbZtsQeyRcgBpwBcV5ns"
-      },
-      "artists": [
-        {
-          "name": "Adult Woman",
-          "url": "https://open.spotify.com/artist/7EE9TBEkPAqCMgv3s6Penk"
-        }
-      ],
-      "duration_ms": 185000,
-      "name": "Loose",
-      "url": "https://open.spotify.com/track/1l5VVJ9Jpu0CQLvEgOm2Lc"
-    },
-    {
       "added_at": "2026-10-15 14:53:00",
       "album": {
         "name": "Everyday",
@@ -631,22 +691,6 @@
       "duration_ms": 181034,
       "name": "Everyday",
       "url": "https://open.spotify.com/track/0Bk6nb5Doj8zyQ6Mpn8TBx"
-    },
-    {
-      "added_at": "2026-10-07 04:00:12",
-      "album": {
-        "name": "Senses EP",
-        "url": "https://open.spotify.com/album/75PvOaZ2Ioo5jUBQNpxpwD"
-      },
-      "artists": [
-        {
-          "name": "Benjamin",
-          "url": "https://open.spotify.com/artist/1gXHnuUhhoG0Oia1mJafPE"
-        }
-      ],
-      "duration_ms": 396666,
-      "name": "Senses",
-      "url": "https://open.spotify.com/track/0e2M14PIS2vNKXVkHe1s8x"
     },
     {
       "added_at": "2026-10-16 04:02:02",
@@ -785,22 +829,6 @@
       "url": "https://open.spotify.com/track/3XDdAA0GE63UOkSd8zk0Ki"
     },
     {
-      "added_at": "2026-10-07 04:00:12",
-      "album": {
-        "name": "Can't Define",
-        "url": "https://open.spotify.com/album/6UTRkmS8rTltXfXZPziGmR"
-      },
-      "artists": [
-        {
-          "name": "AUGUXT",
-          "url": "https://open.spotify.com/artist/7FoldNOHdOH2SMciGMpuvw"
-        }
-      ],
-      "duration_ms": 245901,
-      "name": "Can't Define",
-      "url": "https://open.spotify.com/track/0QUUHlLuapMAwf9DiNZqTa"
-    },
-    {
       "added_at": "2026-10-09 04:02:02",
       "album": {
         "name": "Back Outside",
@@ -929,26 +957,6 @@
       "url": "https://open.spotify.com/track/7uD1o6OIcTguJ75S6JKAkh"
     },
     {
-      "added_at": "2026-09-02 04:00:31",
-      "album": {
-        "name": "Am I Dreaming",
-        "url": "https://open.spotify.com/album/6Kyr2QhnMkRUrhybeydroX"
-      },
-      "artists": [
-        {
-          "name": "Poolhaus",
-          "url": "https://open.spotify.com/artist/1tD9iofjoSqExWwVRhBKGH"
-        },
-        {
-          "name": "Beni Hana",
-          "url": "https://open.spotify.com/artist/44rxbtF6zmfO67zyCwN3xU"
-        }
-      ],
-      "duration_ms": 211120,
-      "name": "Am I Dreaming",
-      "url": "https://open.spotify.com/track/5yEh1YRBOZqx5mmQ53tDbW"
-    },
-    {
       "added_at": "2026-09-18 18:06:53",
       "album": {
         "name": "Punch You",
@@ -979,22 +987,6 @@
       "duration_ms": 218181,
       "name": "Ruffneck",
       "url": "https://open.spotify.com/track/1HuwW4J6mT4vAothWpupq1"
-    },
-    {
-      "added_at": "2026-08-19 21:18:18",
-      "album": {
-        "name": "catch me if you can",
-        "url": "https://open.spotify.com/album/42RpxhGSGMrQMbOLIqKTZE"
-      },
-      "artists": [
-        {
-          "name": "moonvine",
-          "url": "https://open.spotify.com/artist/5xSy1py3vJMMbZfwCPZHDF"
-        }
-      ],
-      "duration_ms": 169846,
-      "name": "catch me if you can",
-      "url": "https://open.spotify.com/track/4tloBnrmsdF3lDDCMRQbJA"
     },
     {
       "added_at": "2026-09-25 17:24:48",

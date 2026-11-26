@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFH7Z8OPnYDC4.md) - [plain]
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/1pTbqkP3uq7DV5ytFGYR8N">Richard Rodgers \(of Rodgers & Hammerstein\)</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 721 likes - 334 songs - 19 hr 8 min
+[Spotify](https://open.spotify.com/user/spotify) - 720 likes - 334 songs - 19 hr 8 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -44,8 +44,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFH7Z8OPnYDC4.md) - [plain]
 | 34 | [Zanies and Fools](https://open.spotify.com/track/5G3KW2F4wG36rSD92z8lNf) | [Chance the Rapper](https://open.spotify.com/artist/1anyVhU62p31KFi8MEzkbf), [DIXSON](https://open.spotify.com/artist/61677A13kBwbTfqECI65p8), [Nicki Minaj](https://open.spotify.com/artist/0hCNtLu0JehylgoiP8L4Gh) | [The Big Day](https://open.spotify.com/album/27Z9dFpWc5c1cW7axN9Dy6) | 5:23 |
 | 35 | [If I Loved You](https://open.spotify.com/track/4M5jfN2LLFK7V6puhYSyZm) | [Dick Haymes](https://open.spotify.com/artist/3BiJGZsyX9sJchTqcSA7Su) | [The Crooner's Raincoat](https://open.spotify.com/album/4grtpTlaIP68uzpzjRYI5Q) | 1:59 |
 | 36 | [Spring Is Here](https://open.spotify.com/track/6NVHxwaBkfTIINMCmZ1JUl) | [Bill Evans](https://open.spotify.com/artist/4jXfFzeP66Zy67HM2mvIIF), [Scott LaFaro](https://open.spotify.com/artist/4g7uUySyORXh2KgDEhgxXa), [Paul Motian](https://open.spotify.com/artist/4VIPZJwfn4EGbJxYVHJ0WX) | [Portrait In Jazz \[Keepnews Collection\]](https://open.spotify.com/album/7dlYNvbD4QYDL3sSkTCjxi) | 5:09 |
-| 37 | [It Might as Well Be Spring](https://open.spotify.com/track/6xzQ9phLCPuT5vpi6zMVrk) | [Caity Gyorgy](https://open.spotify.com/artist/7MCpoKftSxsTCS8UBu1GFa), [Kyle Pogline](https://open.spotify.com/artist/0REkhjWkTuMhx8uvOKVZmH) | [Featuring](https://open.spotify.com/album/3kXZdr9VwvxkjKqpuut6Lg) | 4:52 |
-| 38 | [Oh, What a Beautiful Mornin' \- Oklahoma!, 1955](https://open.spotify.com/track/37ZAXJkdunm9ABV99fnWuN) | [Fred zinnemann](https://open.spotify.com/artist/2Arv9WHiEGyxyMblCt9FD9), [Gordon MacRae](https://open.spotify.com/artist/3dvIPsJH7o9xnBwFxowzof) | [Best FRED ZINNEMANN Movie Themes](https://open.spotify.com/album/2ouUKPPIQUyDysNQrQZCVE) | 2:32 |
+| 37 | [Oh, What a Beautiful Mornin' \- Oklahoma!, 1955](https://open.spotify.com/track/37ZAXJkdunm9ABV99fnWuN) | [Fred zinnemann](https://open.spotify.com/artist/2Arv9WHiEGyxyMblCt9FD9), [Gordon MacRae](https://open.spotify.com/artist/3dvIPsJH7o9xnBwFxowzof) | [Best FRED ZINNEMANN Movie Themes](https://open.spotify.com/album/2ouUKPPIQUyDysNQrQZCVE) | 2:32 |
+| 38 | [It Might as Well Be Spring](https://open.spotify.com/track/6xzQ9phLCPuT5vpi6zMVrk) | [Caity Gyorgy](https://open.spotify.com/artist/7MCpoKftSxsTCS8UBu1GFa), [Kyle Pogline](https://open.spotify.com/artist/0REkhjWkTuMhx8uvOKVZmH) | [Featuring](https://open.spotify.com/album/3kXZdr9VwvxkjKqpuut6Lg) | 4:52 |
 | 39 | [She Was Too Good to Me](https://open.spotify.com/track/57ZSKA1UVoKIXy8VSHKPpt) | [Chet Baker](https://open.spotify.com/artist/3rxeQlsv0Sc2nyYaZ5W71T) | [Love Songs](https://open.spotify.com/album/2VMX9CVAtvrSaKTwVhYglr) | 4:41 |
 | 40 | ["Ten Minutes Ago"](https://open.spotify.com/track/0Xdmtw3GC8pMk06N63yVDj) | [Santino Fontana](https://open.spotify.com/artist/47NluEnhJda2gsnjuvcoob), [Laura Osnes](https://open.spotify.com/artist/2TkSDFFCkyiMrHyL1a5BbF) | [Rodgers + Hammerstein's Cinderella \(Original Broadway Cast Recording\)](https://open.spotify.com/album/20bfhNnjgh82rleWpLWqe5) | 2:52 |
 | 41 | [Do It the Hard Way](https://open.spotify.com/track/5dFBJ1rqakFBp7QkjYC4VZ) | [Chet Baker](https://open.spotify.com/artist/3rxeQlsv0Sc2nyYaZ5W71T) | [Chet Baker Sings: It Could Happen To You \[Original Jazz Classics Remasters\] \(OJC Remaster\)](https://open.spotify.com/album/05GsIfSvuy3bSY5EodA0Cc) | 3:03 |
@@ -343,4 +343,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFH7Z8OPnYDC4.md) - [plain]
 | 333 | [Revelation](https://open.spotify.com/track/7eGf0QpxsG6Emm0QoS332z) | [Lionel Newman](https://open.spotify.com/artist/2MBYO70OYRtFMIsocitWxt), [His Orchestra](https://open.spotify.com/artist/6lXiGaWjISZnER53ZJe6QO) | [The View from Pompey's Head \(Music from the Original 1955 Motion Picture Soundtrack\)](https://open.spotify.com/album/1ANQab0F7gyz4Pu9SM0QBk) | 1:31 |
 | 334 | [She Could Shake the Maracas](https://open.spotify.com/track/4pJIB4iNu8GeqjGOwZRxmw) | [George Abbott](https://open.spotify.com/artist/4pNU6xIv6pHseJVwo9Bis1) | [Too Many Girls](https://open.spotify.com/album/035x7wyVllNXrldHkXE67P) | 2:15 |
 
-Snapshot ID: `AcikZAAAAAD6Erhos7RO4C+mBcqDyhQc`
+Snapshot ID: `AciqIgAAAACKNrW5ytu7bPy0VryW0dWN`

@@ -1,12 +1,12 @@
 {
   "description": "\u015bwie\u017ce brzmienia na horyzoncie \u2728 Cover: Evelina Ross",
-  "num_followers": 26825,
+  "num_followers": 26824,
   "original_name": "up next",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAI5Fxu3alaZYMmF9SID0cyWCPbS4",
+  "snapshot_id": "AAAAAPWTtoYLqZKneW52l+N35T2tX1Pn",
   "tracks": [
     {
       "added_at": "2026-11-19 23:02:16",
@@ -387,6 +387,22 @@
     {
       "added_at": "2026-11-19 23:02:16",
       "album": {
+        "name": "Wykrzycz\u0119",
+        "url": "https://open.spotify.com/album/0ds7DrxR0VOswOsQ6v9o5N"
+      },
+      "artists": [
+        {
+          "name": "Mi\u0142osz Skierski",
+          "url": "https://open.spotify.com/artist/0aEvxy0vmxXQixOiE9qyhJ"
+        }
+      ],
+      "duration_ms": 150702,
+      "name": "Wykrzycz\u0119",
+      "url": "https://open.spotify.com/track/4JEp8d6WuX6J79ONaOinI3"
+    },
+    {
+      "added_at": "2026-11-19 23:02:16",
+      "album": {
         "name": "OPIUM / NIE POCIESZ\u0118 CI\u0118",
         "url": "https://open.spotify.com/album/0fSHqwhYc6FhRn5SEUhpjB"
       },
@@ -435,6 +451,22 @@
     {
       "added_at": "2026-11-19 23:02:16",
       "album": {
+        "name": "Ojciec",
+        "url": "https://open.spotify.com/album/6djqQIwf8OpYjzATZf7tCx"
+      },
+      "artists": [
+        {
+          "name": "Kamil Hussein",
+          "url": "https://open.spotify.com/artist/2MqM2nYRVxkDzcFsAxwD9A"
+        }
+      ],
+      "duration_ms": 246683,
+      "name": "Ojciec",
+      "url": "https://open.spotify.com/track/5w8OlXrEsSfusHUYWeWUmv"
+    },
+    {
+      "added_at": "2026-11-19 23:02:16",
+      "album": {
         "name": "chodzi o nas",
         "url": "https://open.spotify.com/album/7LnqXRWxS6hWDUkTOMupx8"
       },
@@ -455,22 +487,6 @@
       "duration_ms": 201038,
       "name": "chodzi o nas",
       "url": "https://open.spotify.com/track/0vdVLBqXoN49A1ojHoLMwn"
-    },
-    {
-      "added_at": "2026-11-19 23:02:16",
-      "album": {
-        "name": "Wykrzycz\u0119",
-        "url": "https://open.spotify.com/album/0ds7DrxR0VOswOsQ6v9o5N"
-      },
-      "artists": [
-        {
-          "name": "Mi\u0142osz Skierski",
-          "url": "https://open.spotify.com/artist/0aEvxy0vmxXQixOiE9qyhJ"
-        }
-      ],
-      "duration_ms": 150702,
-      "name": "Wykrzycz\u0119",
-      "url": "https://open.spotify.com/track/4JEp8d6WuX6J79ONaOinI3"
     },
     {
       "added_at": "2026-11-19 23:02:16",
@@ -503,22 +519,6 @@
       "duration_ms": 120685,
       "name": "luvvv<3",
       "url": "https://open.spotify.com/track/49duYLA0Ro10jlqgoPG7s3"
-    },
-    {
-      "added_at": "2026-11-19 23:02:16",
-      "album": {
-        "name": "Ojciec",
-        "url": "https://open.spotify.com/album/6djqQIwf8OpYjzATZf7tCx"
-      },
-      "artists": [
-        {
-          "name": "Kamil Hussein",
-          "url": "https://open.spotify.com/artist/2MqM2nYRVxkDzcFsAxwD9A"
-        }
-      ],
-      "duration_ms": 246683,
-      "name": "Ojciec",
-      "url": "https://open.spotify.com/track/5w8OlXrEsSfusHUYWeWUmv"
     },
     {
       "added_at": "2026-11-19 23:02:16",
@@ -559,26 +559,6 @@
     {
       "added_at": "2026-11-19 23:02:16",
       "album": {
-        "name": "Away",
-        "url": "https://open.spotify.com/album/1Po0QBhBPS3stIPt6GylQ0"
-      },
-      "artists": [
-        {
-          "name": "Pola",
-          "url": "https://open.spotify.com/artist/35TNTrLhxCXmfO4wL4IWUa"
-        },
-        {
-          "name": "SHD\u00d8W",
-          "url": "https://open.spotify.com/artist/1k4FU2VP9e8I3yY9tz3Stt"
-        }
-      ],
-      "duration_ms": 133333,
-      "name": "Away",
-      "url": "https://open.spotify.com/track/2v3Xu59V4lqBZvYvL5a8fb"
-    },
-    {
-      "added_at": "2026-11-19 23:02:16",
-      "album": {
         "name": "nie wierz\u0119 w bajki",
         "url": "https://open.spotify.com/album/39NlvHsshHtXzDw0CO9IQw"
       },
@@ -611,18 +591,22 @@
     {
       "added_at": "2026-11-19 23:02:16",
       "album": {
-        "name": "365 widok\u00f3w na przysz\u0142o\u015b\u0107",
-        "url": "https://open.spotify.com/album/5Dxrh7sIALavUQhIyGHLjq"
+        "name": "Away",
+        "url": "https://open.spotify.com/album/1Po0QBhBPS3stIPt6GylQ0"
       },
       "artists": [
         {
-          "name": "metro",
-          "url": "https://open.spotify.com/artist/5TuV5KauTXLFX1ODD7mEb0"
+          "name": "Pola",
+          "url": "https://open.spotify.com/artist/35TNTrLhxCXmfO4wL4IWUa"
+        },
+        {
+          "name": "SHD\u00d8W",
+          "url": "https://open.spotify.com/artist/1k4FU2VP9e8I3yY9tz3Stt"
         }
       ],
-      "duration_ms": 215000,
-      "name": "365 widok\u00f3w na przysz\u0142o\u015b\u0107",
-      "url": "https://open.spotify.com/track/03ZOrxyNE9Bo9CVGCpNwDc"
+      "duration_ms": 133333,
+      "name": "Away",
+      "url": "https://open.spotify.com/track/2v3Xu59V4lqBZvYvL5a8fb"
     },
     {
       "added_at": "2026-11-19 23:02:16",
@@ -639,6 +623,22 @@
       "duration_ms": 195000,
       "name": "A2",
       "url": "https://open.spotify.com/track/2Rp3DxWW6buNBK55yJGlDa"
+    },
+    {
+      "added_at": "2026-11-19 23:02:16",
+      "album": {
+        "name": "365 widok\u00f3w na przysz\u0142o\u015b\u0107",
+        "url": "https://open.spotify.com/album/5Dxrh7sIALavUQhIyGHLjq"
+      },
+      "artists": [
+        {
+          "name": "metro",
+          "url": "https://open.spotify.com/artist/5TuV5KauTXLFX1ODD7mEb0"
+        }
+      ],
+      "duration_ms": 215000,
+      "name": "365 widok\u00f3w na przysz\u0142o\u015b\u0107",
+      "url": "https://open.spotify.com/track/03ZOrxyNE9Bo9CVGCpNwDc"
     },
     {
       "added_at": "2026-11-19 23:02:16",
@@ -727,6 +727,22 @@
     {
       "added_at": "2026-11-19 23:02:16",
       "album": {
+        "name": "To nie koniec",
+        "url": "https://open.spotify.com/album/6IZLvM2ka8uyD2IeZTmytD"
+      },
+      "artists": [
+        {
+          "name": "Marcin Maciejczak",
+          "url": "https://open.spotify.com/artist/36rjKqx3uW0369RwfIbGj2"
+        }
+      ],
+      "duration_ms": 181547,
+      "name": "To nie koniec",
+      "url": "https://open.spotify.com/track/6ZDloO00D9Ir8p8nU90y8Y"
+    },
+    {
+      "added_at": "2026-11-19 23:02:16",
+      "album": {
         "name": "B\u0142ysk",
         "url": "https://open.spotify.com/album/2mX1zqOMzPsCvaY0n6UoXo"
       },
@@ -747,18 +763,22 @@
     {
       "added_at": "2026-11-19 23:02:16",
       "album": {
-        "name": "To nie koniec",
-        "url": "https://open.spotify.com/album/6IZLvM2ka8uyD2IeZTmytD"
+        "name": "To zabola\u0142o",
+        "url": "https://open.spotify.com/album/3QqOU9qWuNfSgj5D8LN3mf"
       },
       "artists": [
         {
-          "name": "Marcin Maciejczak",
-          "url": "https://open.spotify.com/artist/36rjKqx3uW0369RwfIbGj2"
+          "name": "Nita",
+          "url": "https://open.spotify.com/artist/1AGR5KsqctsAYgxxINt5xi"
+        },
+        {
+          "name": "Jeremi Sikorski",
+          "url": "https://open.spotify.com/artist/72wQxesjJ9hTkk1hGA4tBw"
         }
       ],
-      "duration_ms": 181547,
-      "name": "To nie koniec",
-      "url": "https://open.spotify.com/track/6ZDloO00D9Ir8p8nU90y8Y"
+      "duration_ms": 225052,
+      "name": "To zabola\u0142o",
+      "url": "https://open.spotify.com/track/3kXR6IRV64WAsQPRWZndc8"
     },
     {
       "added_at": "2026-11-19 23:02:16",
@@ -779,26 +799,6 @@
       "duration_ms": 143157,
       "name": "W OGIE\u0143",
       "url": "https://open.spotify.com/track/7h5JNX0yR8wriqEGmmxJ3Z"
-    },
-    {
-      "added_at": "2026-11-19 23:02:16",
-      "album": {
-        "name": "To zabola\u0142o",
-        "url": "https://open.spotify.com/album/3QqOU9qWuNfSgj5D8LN3mf"
-      },
-      "artists": [
-        {
-          "name": "Nita",
-          "url": "https://open.spotify.com/artist/1AGR5KsqctsAYgxxINt5xi"
-        },
-        {
-          "name": "Jeremi Sikorski",
-          "url": "https://open.spotify.com/artist/72wQxesjJ9hTkk1hGA4tBw"
-        }
-      ],
-      "duration_ms": 225052,
-      "name": "To zabola\u0142o",
-      "url": "https://open.spotify.com/track/3kXR6IRV64WAsQPRWZndc8"
     },
     {
       "added_at": "2026-11-19 23:02:16",
@@ -827,22 +827,6 @@
     {
       "added_at": "2026-11-19 23:02:16",
       "album": {
-        "name": "pelagia",
-        "url": "https://open.spotify.com/album/3Nd6SupiS3D55rVmXhJ9tS"
-      },
-      "artists": [
-        {
-          "name": "shama",
-          "url": "https://open.spotify.com/artist/1HhRfvC2bS9XeeiR5I5UmI"
-        }
-      ],
-      "duration_ms": 190000,
-      "name": "pelagia",
-      "url": "https://open.spotify.com/track/704ZzYrKrgg4tFLfrib3HR"
-    },
-    {
-      "added_at": "2026-11-19 23:02:16",
-      "album": {
         "name": "Nie umiem kocha\u0107",
         "url": "https://open.spotify.com/album/5vYyH9BSkDwWETMMswSbnO"
       },
@@ -855,6 +839,22 @@
       "duration_ms": 190879,
       "name": "Nie umiem kocha\u0107",
       "url": "https://open.spotify.com/track/11bRjv4HeXGINazFrkOdh4"
+    },
+    {
+      "added_at": "2026-11-19 23:02:16",
+      "album": {
+        "name": "pelagia",
+        "url": "https://open.spotify.com/album/3Nd6SupiS3D55rVmXhJ9tS"
+      },
+      "artists": [
+        {
+          "name": "shama",
+          "url": "https://open.spotify.com/artist/1HhRfvC2bS9XeeiR5I5UmI"
+        }
+      ],
+      "duration_ms": 190000,
+      "name": "pelagia",
+      "url": "https://open.spotify.com/track/704ZzYrKrgg4tFLfrib3HR"
     },
     {
       "added_at": "2026-11-19 23:02:16",
@@ -891,6 +891,22 @@
     {
       "added_at": "2026-11-19 23:02:16",
       "album": {
+        "name": "Ta\u0144cz i kochaj",
+        "url": "https://open.spotify.com/album/36fNyhTRkKcKRFEZ2u3wla"
+      },
+      "artists": [
+        {
+          "name": "Nita",
+          "url": "https://open.spotify.com/artist/1AGR5KsqctsAYgxxINt5xi"
+        }
+      ],
+      "duration_ms": 173454,
+      "name": "Ta\u0144cz i kochaj",
+      "url": "https://open.spotify.com/track/2JM1chl2LrZLp2O56Pgb82"
+    },
+    {
+      "added_at": "2026-11-19 23:02:16",
+      "album": {
         "name": "Pick me baby",
         "url": "https://open.spotify.com/album/1zrL1yJJxEpmZmL4MYJrxW"
       },
@@ -903,30 +919,6 @@
       "duration_ms": 203101,
       "name": "Pick me baby",
       "url": "https://open.spotify.com/track/7dnvgI7XcoUn4aR9dkDO1c"
-    },
-    {
-      "added_at": "2026-11-19 23:02:16",
-      "album": {
-        "name": "mo\u017cemorze",
-        "url": "https://open.spotify.com/album/0pny6F5xvOvZy3AI6hMdj3"
-      },
-      "artists": [
-        {
-          "name": "pszona",
-          "url": "https://open.spotify.com/artist/4aDCdXr7zIjjO8zk9URwMq"
-        },
-        {
-          "name": "BSK",
-          "url": "https://open.spotify.com/artist/5yx3ksMAPQgeaCbT7pgko2"
-        },
-        {
-          "name": "prze\u015bwit",
-          "url": "https://open.spotify.com/artist/48pF8m5m2dDUQHlP1WiU7f"
-        }
-      ],
-      "duration_ms": 159529,
-      "name": "mo\u017cemorze",
-      "url": "https://open.spotify.com/track/0IE7cjqYVMWRliklJuU0nn"
     },
     {
       "added_at": "2026-11-19 23:02:16",
@@ -955,38 +947,42 @@
     {
       "added_at": "2026-11-19 23:02:16",
       "album": {
-        "name": "Ta\u0144cz i kochaj",
-        "url": "https://open.spotify.com/album/36fNyhTRkKcKRFEZ2u3wla"
+        "name": "mo\u017cemorze",
+        "url": "https://open.spotify.com/album/0pny6F5xvOvZy3AI6hMdj3"
       },
       "artists": [
         {
-          "name": "Nita",
-          "url": "https://open.spotify.com/artist/1AGR5KsqctsAYgxxINt5xi"
+          "name": "pszona",
+          "url": "https://open.spotify.com/artist/4aDCdXr7zIjjO8zk9URwMq"
+        },
+        {
+          "name": "BSK",
+          "url": "https://open.spotify.com/artist/5yx3ksMAPQgeaCbT7pgko2"
+        },
+        {
+          "name": "prze\u015bwit",
+          "url": "https://open.spotify.com/artist/48pF8m5m2dDUQHlP1WiU7f"
         }
       ],
-      "duration_ms": 173454,
-      "name": "Ta\u0144cz i kochaj",
-      "url": "https://open.spotify.com/track/2JM1chl2LrZLp2O56Pgb82"
+      "duration_ms": 159529,
+      "name": "mo\u017cemorze",
+      "url": "https://open.spotify.com/track/0IE7cjqYVMWRliklJuU0nn"
     },
     {
       "added_at": "2026-11-19 23:02:16",
       "album": {
-        "name": "Most - projekt Ogrody \u015ar\u00f3dmie\u015bcie (Profanumbeats remix)",
-        "url": "https://open.spotify.com/album/4lPVJXmnxw2amQKC3QFP3p"
+        "name": "__21__",
+        "url": "https://open.spotify.com/album/1b4qo22PIVnuxnD3BwjLQh"
       },
       "artists": [
         {
-          "name": "Karolina Charko",
-          "url": "https://open.spotify.com/artist/41Vn3mPwudcXJZGgzmK53q"
-        },
-        {
-          "name": "Profanumbeats",
-          "url": "https://open.spotify.com/artist/4DuanqZYQj4sQbvuQBtiHp"
+          "name": "kubera",
+          "url": "https://open.spotify.com/artist/5VGm5Wvwd5NO7uoYvQcKGw"
         }
       ],
-      "duration_ms": 258296,
-      "name": "Most - projekt Ogrody \u015ar\u00f3dmie\u015bcie (Profanumbeats remix)",
-      "url": "https://open.spotify.com/track/12UEAXlefpq8xaxOSROOZL"
+      "duration_ms": 143200,
+      "name": "__21__",
+      "url": "https://open.spotify.com/track/6vP6lWqFnY2Mp6GqQKrddI"
     },
     {
       "added_at": "2026-11-19 23:02:16",
@@ -1011,22 +1007,6 @@
     {
       "added_at": "2026-11-19 23:02:16",
       "album": {
-        "name": "__21__",
-        "url": "https://open.spotify.com/album/1b4qo22PIVnuxnD3BwjLQh"
-      },
-      "artists": [
-        {
-          "name": "kubera",
-          "url": "https://open.spotify.com/artist/5VGm5Wvwd5NO7uoYvQcKGw"
-        }
-      ],
-      "duration_ms": 143200,
-      "name": "__21__",
-      "url": "https://open.spotify.com/track/6vP6lWqFnY2Mp6GqQKrddI"
-    },
-    {
-      "added_at": "2026-11-19 23:02:16",
-      "album": {
         "name": "Jestem Dla Ciebie",
         "url": "https://open.spotify.com/album/73N7avhK4kNLUbSUH1uKQp"
       },
@@ -1043,6 +1023,26 @@
       "duration_ms": 150000,
       "name": "Jestem Dla Ciebie",
       "url": "https://open.spotify.com/track/2EPTAU9o1H0YCWSzTGXUPw"
+    },
+    {
+      "added_at": "2026-11-19 23:02:16",
+      "album": {
+        "name": "Most - projekt Ogrody \u015ar\u00f3dmie\u015bcie (Profanumbeats remix)",
+        "url": "https://open.spotify.com/album/4lPVJXmnxw2amQKC3QFP3p"
+      },
+      "artists": [
+        {
+          "name": "Karolina Charko",
+          "url": "https://open.spotify.com/artist/41Vn3mPwudcXJZGgzmK53q"
+        },
+        {
+          "name": "Profanumbeats",
+          "url": "https://open.spotify.com/artist/4DuanqZYQj4sQbvuQBtiHp"
+        }
+      ],
+      "duration_ms": 258296,
+      "name": "Most - projekt Ogrody \u015ar\u00f3dmie\u015bcie (Profanumbeats remix)",
+      "url": "https://open.spotify.com/track/12UEAXlefpq8xaxOSROOZL"
     },
     {
       "added_at": "2026-11-19 23:02:16",
@@ -1099,22 +1099,6 @@
     {
       "added_at": "2026-11-19 23:02:16",
       "album": {
-        "name": "Piosenki o mi\u0142o\u015bci: nieopowiedziane historie",
-        "url": "https://open.spotify.com/album/5QaZJ1J9BnydfGkap544U3"
-      },
-      "artists": [
-        {
-          "name": "Marcin Maciejczak",
-          "url": "https://open.spotify.com/artist/36rjKqx3uW0369RwfIbGj2"
-        }
-      ],
-      "duration_ms": 159483,
-      "name": "Komary i motyle",
-      "url": "https://open.spotify.com/track/7cud2e1GJUa6xePY02ANpK"
-    },
-    {
-      "added_at": "2026-11-19 23:02:16",
-      "album": {
         "name": "Czuj\u0119 si\u0119 sexy af",
         "url": "https://open.spotify.com/album/5lOPYpRXOJZVgbwqPtux2j"
       },
@@ -1131,6 +1115,22 @@
       "duration_ms": 161280,
       "name": "Czuj\u0119 si\u0119 sexy af",
       "url": "https://open.spotify.com/track/1fRh9qhe8Ql0iy6RKgWCDO"
+    },
+    {
+      "added_at": "2026-11-19 23:02:16",
+      "album": {
+        "name": "Piosenki o mi\u0142o\u015bci: nieopowiedziane historie",
+        "url": "https://open.spotify.com/album/5QaZJ1J9BnydfGkap544U3"
+      },
+      "artists": [
+        {
+          "name": "Marcin Maciejczak",
+          "url": "https://open.spotify.com/artist/36rjKqx3uW0369RwfIbGj2"
+        }
+      ],
+      "duration_ms": 159483,
+      "name": "Komary i motyle",
+      "url": "https://open.spotify.com/track/7cud2e1GJUa6xePY02ANpK"
     }
   ],
   "unique_name": "up next",

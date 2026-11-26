@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5C8ObEZ48JQ.md) - [plain]
 
 > The best new independent African artists  Cover:  <a href="https://open.spotify.com/artist/6QJj1KD71boYPVql87xBGJ?si=acbc57ddd3694154">Altair Saïd</a>\. Artwork: Isu Kim.
 
-[Spotify](https://open.spotify.com/user/spotify) - 32,774 likes - 50 songs - 2 hr 37 min
+[Spotify](https://open.spotify.com/user/spotify) - 32,855 likes - 50 songs - 2 hr 37 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5C8ObEZ48JQ.md) - [plain]
 | 49 | [Vaseline \(On Your Collar\)](https://open.spotify.com/track/61Kcp90iGQWiZL6NIWzYhd) | [Zwonaka](https://open.spotify.com/artist/5oD2IgsstX9I592DVC5gQi) | [Vaseline \(On Your Collar\)](https://open.spotify.com/album/1Zr7Pu4Qp5crWXb4fMth3F) | 2:47 |
 | 50 | [Mantra](https://open.spotify.com/track/4akPOkvKplg1sYtLYHfN9G) | [Operation Khataza](https://open.spotify.com/artist/3YjcXnnF0A6ep6maq4es90) | [Mantra](https://open.spotify.com/album/6cNcYQ6z20VSVzFObvc3wz) | 6:09 |
 
-Snapshot ID: `AAAAAGVfSZqot3c8QH4p1N/7G5rRa250`
+Snapshot ID: `AAAAAJJ52RZO3AvXaZbI0SFmh4M1K3Eh`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8oGHu3SOP0B.md) - [plain]
 
 > ฟังศิลปินหญิงประเทศไทยผ่านเพลงที่ mindfreakkk! ร่วมคัดสรรมาให้\. ปก: mindfreakk!
 
-[Spotify](https://open.spotify.com/user/spotify) - 34,513 likes - 50 songs - 2 hr 57 min
+[Spotify](https://open.spotify.com/user/spotify) - 34,511 likes - 50 songs - 2 hr 57 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8oGHu3SOP0B.md) - [plain]
 | 49 | [Almost Said I Love You](https://open.spotify.com/track/7tMlvqjC3bV9q8DQRekajk) | [VARITDA](https://open.spotify.com/artist/5wwlhvoD6LFYdiIjOHhcUB) | [Almost Said I Love You](https://open.spotify.com/album/3JDKK9683afPYzOusmHZ2U) | 2:51 |
 | 50 | [Saw you on Tinder](https://open.spotify.com/track/4SmrLOYQ5ad3QcLGS9tpf9) | [Jduck](https://open.spotify.com/artist/7IwfHqIXDXJZXIG2VBrPE9) | [Saw you on Tinder](https://open.spotify.com/album/4W16e14ZACMcDEdohShUUG) | 2:19 |
 
-Snapshot ID: `AAAAANfda/sKCzIboOZeQFi2kYB32rgE`
+Snapshot ID: `AAAAAKs1o3DuUWh/s3t9ScK9gUYakjjI`

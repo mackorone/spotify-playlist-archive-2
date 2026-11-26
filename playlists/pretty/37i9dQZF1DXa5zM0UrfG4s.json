@@ -1,12 +1,12 @@
 {
   "description": "r\u00f8lp og s\u00e5nt",
-  "num_followers": 118426,
+  "num_followers": 118425,
   "original_name": "Livet p\u00e5 B\u00f8gda!",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAABh01+4TEiGahpRD3Pe8L1d3ftmK",
+  "snapshot_id": "AAAAANc8kmG/kNm2sMcaOOODzsuwST6m",
   "tracks": [
     {
       "added_at": "2026-11-19 23:01:40",
@@ -475,26 +475,18 @@
     {
       "added_at": "2026-11-19 23:01:40",
       "album": {
-        "name": "Elektrisk",
-        "url": "https://open.spotify.com/album/40IR6P8ox7OUd6MK1uciEE"
+        "name": "Staut",
+        "url": "https://open.spotify.com/album/7rdWNBNXVcwfko6Yj9BCpD"
       },
       "artists": [
         {
-          "name": "Hagle",
-          "url": "https://open.spotify.com/artist/4gDfRB8znZzXih7iQ3pGeW"
-        },
-        {
-          "name": "Staysman",
-          "url": "https://open.spotify.com/artist/5J10DHSs5nFktP4DNYncwj"
-        },
-        {
-          "name": "Hver gang vi m\u00f8tes",
-          "url": "https://open.spotify.com/artist/24Lqq3mnesl7IljSVFEBEO"
+          "name": "Staut",
+          "url": "https://open.spotify.com/artist/3Gm11qlnZpq0J9ee9rUJ3P"
         }
       ],
-      "duration_ms": 143541,
-      "name": "Elektrisk",
-      "url": "https://open.spotify.com/track/0mQOTQHZ64Xojgf7ypkrKh"
+      "duration_ms": 206053,
+      "name": "Sj\u00e5 sole",
+      "url": "https://open.spotify.com/track/2JlwcKF4s6GGZpC37FBNbQ"
     },
     {
       "added_at": "2026-11-19 23:01:40",
@@ -515,18 +507,26 @@
     {
       "added_at": "2026-11-19 23:01:40",
       "album": {
-        "name": "Staut",
-        "url": "https://open.spotify.com/album/7rdWNBNXVcwfko6Yj9BCpD"
+        "name": "Elektrisk",
+        "url": "https://open.spotify.com/album/40IR6P8ox7OUd6MK1uciEE"
       },
       "artists": [
         {
-          "name": "Staut",
-          "url": "https://open.spotify.com/artist/3Gm11qlnZpq0J9ee9rUJ3P"
+          "name": "Hagle",
+          "url": "https://open.spotify.com/artist/4gDfRB8znZzXih7iQ3pGeW"
+        },
+        {
+          "name": "Staysman",
+          "url": "https://open.spotify.com/artist/5J10DHSs5nFktP4DNYncwj"
+        },
+        {
+          "name": "Hver gang vi m\u00f8tes",
+          "url": "https://open.spotify.com/artist/24Lqq3mnesl7IljSVFEBEO"
         }
       ],
-      "duration_ms": 206053,
-      "name": "Sj\u00e5 sole",
-      "url": "https://open.spotify.com/track/2JlwcKF4s6GGZpC37FBNbQ"
+      "duration_ms": 143541,
+      "name": "Elektrisk",
+      "url": "https://open.spotify.com/track/0mQOTQHZ64Xojgf7ypkrKh"
     },
     {
       "added_at": "2026-11-19 23:01:40",
@@ -575,26 +575,6 @@
     {
       "added_at": "2026-11-19 23:01:40",
       "album": {
-        "name": "Naboen",
-        "url": "https://open.spotify.com/album/0V83AYZQaHZLyc8Ej57Den"
-      },
-      "artists": [
-        {
-          "name": "Hagle",
-          "url": "https://open.spotify.com/artist/4gDfRB8znZzXih7iQ3pGeW"
-        },
-        {
-          "name": "Hver gang vi m\u00f8tes",
-          "url": "https://open.spotify.com/artist/24Lqq3mnesl7IljSVFEBEO"
-        }
-      ],
-      "duration_ms": 142295,
-      "name": "Naboen",
-      "url": "https://open.spotify.com/track/43Fe7HmRD4htXBxcRfBMzS"
-    },
-    {
-      "added_at": "2026-11-19 23:01:40",
-      "album": {
         "name": "Bygdegut (her er eg)",
         "url": "https://open.spotify.com/album/0TiVDDgfK4JpMZaBlwYlrP"
       },
@@ -627,6 +607,26 @@
       "duration_ms": 181568,
       "name": "Venninna mi",
       "url": "https://open.spotify.com/track/6ur064JKd9SghnX6EMyUUS"
+    },
+    {
+      "added_at": "2026-11-19 23:01:40",
+      "album": {
+        "name": "Naboen",
+        "url": "https://open.spotify.com/album/0V83AYZQaHZLyc8Ej57Den"
+      },
+      "artists": [
+        {
+          "name": "Hagle",
+          "url": "https://open.spotify.com/artist/4gDfRB8znZzXih7iQ3pGeW"
+        },
+        {
+          "name": "Hver gang vi m\u00f8tes",
+          "url": "https://open.spotify.com/artist/24Lqq3mnesl7IljSVFEBEO"
+        }
+      ],
+      "duration_ms": 142295,
+      "name": "Naboen",
+      "url": "https://open.spotify.com/track/43Fe7HmRD4htXBxcRfBMzS"
     },
     {
       "added_at": "2026-11-19 23:01:40",
@@ -699,22 +699,22 @@
     {
       "added_at": "2026-11-19 23:01:40",
       "album": {
-        "name": "Sommernatta",
-        "url": "https://open.spotify.com/album/3sCT7fDeGQbQLh1koh7TWJ"
+        "name": "Livet Slik Det Var (feat. Madel\u00e9ne)",
+        "url": "https://open.spotify.com/album/3CtVuAavZZ0w3xcQgTaiKd"
       },
       "artists": [
         {
-          "name": "Hagle",
-          "url": "https://open.spotify.com/artist/4gDfRB8znZzXih7iQ3pGeW"
+          "name": "El Papi",
+          "url": "https://open.spotify.com/artist/54CixfaGAPcjkP7Dx5PjvV"
         },
         {
-          "name": "Hver gang vi m\u00f8tes",
-          "url": "https://open.spotify.com/artist/24Lqq3mnesl7IljSVFEBEO"
+          "name": "Madel\u00e9ne",
+          "url": "https://open.spotify.com/artist/7HbJecOAhTcyj5x9P95kQz"
         }
       ],
-      "duration_ms": 157173,
-      "name": "Sommernatta",
-      "url": "https://open.spotify.com/track/14cXhnFvaND0EEDvbY7Eca"
+      "duration_ms": 160000,
+      "name": "Livet Slik Det Var (feat. Madel\u00e9ne)",
+      "url": "https://open.spotify.com/track/2UX3g1DDHIx13BmxCs6SN1"
     },
     {
       "added_at": "2026-11-19 23:01:40",
@@ -735,22 +735,22 @@
     {
       "added_at": "2026-11-19 23:01:40",
       "album": {
-        "name": "Livet Slik Det Var (feat. Madel\u00e9ne)",
-        "url": "https://open.spotify.com/album/3CtVuAavZZ0w3xcQgTaiKd"
+        "name": "Sommernatta",
+        "url": "https://open.spotify.com/album/3sCT7fDeGQbQLh1koh7TWJ"
       },
       "artists": [
         {
-          "name": "El Papi",
-          "url": "https://open.spotify.com/artist/54CixfaGAPcjkP7Dx5PjvV"
+          "name": "Hagle",
+          "url": "https://open.spotify.com/artist/4gDfRB8znZzXih7iQ3pGeW"
         },
         {
-          "name": "Madel\u00e9ne",
-          "url": "https://open.spotify.com/artist/7HbJecOAhTcyj5x9P95kQz"
+          "name": "Hver gang vi m\u00f8tes",
+          "url": "https://open.spotify.com/artist/24Lqq3mnesl7IljSVFEBEO"
         }
       ],
-      "duration_ms": 160000,
-      "name": "Livet Slik Det Var (feat. Madel\u00e9ne)",
-      "url": "https://open.spotify.com/track/2UX3g1DDHIx13BmxCs6SN1"
+      "duration_ms": 157173,
+      "name": "Sommernatta",
+      "url": "https://open.spotify.com/track/14cXhnFvaND0EEDvbY7Eca"
     },
     {
       "added_at": "2026-11-19 23:01:40",
@@ -907,18 +907,18 @@
     {
       "added_at": "2026-11-19 23:01:40",
       "album": {
-        "name": "Dans med meg",
-        "url": "https://open.spotify.com/album/7muCKlH36eZGABYNxTy3vl"
+        "name": "La Dunken G\u00e5",
+        "url": "https://open.spotify.com/album/07FbVZ878A4lQ1Ofg5Z2bb"
       },
       "artists": [
         {
-          "name": "Tigergutt101",
-          "url": "https://open.spotify.com/artist/1tjaYa0dBPYGvEHOVUMX5K"
+          "name": "BEIST",
+          "url": "https://open.spotify.com/artist/10OhWVHbW5GVS77R9qkWWC"
         }
       ],
-      "duration_ms": 140787,
-      "name": "Dans med meg",
-      "url": "https://open.spotify.com/track/2g7232WSHdTpsh3br3ueXt"
+      "duration_ms": 160336,
+      "name": "La Dunken G\u00e5",
+      "url": "https://open.spotify.com/track/03kcRexSoDn2YIrA28doRk"
     },
     {
       "added_at": "2026-11-19 23:01:40",
@@ -939,18 +939,18 @@
     {
       "added_at": "2026-11-19 23:01:40",
       "album": {
-        "name": "La Dunken G\u00e5",
-        "url": "https://open.spotify.com/album/07FbVZ878A4lQ1Ofg5Z2bb"
+        "name": "Dans med meg",
+        "url": "https://open.spotify.com/album/7muCKlH36eZGABYNxTy3vl"
       },
       "artists": [
         {
-          "name": "BEIST",
-          "url": "https://open.spotify.com/artist/10OhWVHbW5GVS77R9qkWWC"
+          "name": "Tigergutt101",
+          "url": "https://open.spotify.com/artist/1tjaYa0dBPYGvEHOVUMX5K"
         }
       ],
-      "duration_ms": 160336,
-      "name": "La Dunken G\u00e5",
-      "url": "https://open.spotify.com/track/03kcRexSoDn2YIrA28doRk"
+      "duration_ms": 140787,
+      "name": "Dans med meg",
+      "url": "https://open.spotify.com/track/2g7232WSHdTpsh3br3ueXt"
     },
     {
       "added_at": "2026-11-19 23:01:40",
@@ -995,18 +995,18 @@
     {
       "added_at": "2026-11-19 23:01:40",
       "album": {
-        "name": "Varmt",
-        "url": "https://open.spotify.com/album/48N7GYYLw9yU3PwdJeMVUW"
+        "name": "Der Jeg H\u00f8rer Te (Bygda)",
+        "url": "https://open.spotify.com/album/6tqJgkJ5ap9ooOxd0TsTW3"
       },
       "artists": [
         {
-          "name": "Tigergutt101",
-          "url": "https://open.spotify.com/artist/1tjaYa0dBPYGvEHOVUMX5K"
+          "name": "Ole Hartz",
+          "url": "https://open.spotify.com/artist/7J8OsnJjGfG1uHd348LZPI"
         }
       ],
-      "duration_ms": 127950,
-      "name": "Varmt",
-      "url": "https://open.spotify.com/track/2inXtsjX3V451FOIYUL6UQ"
+      "duration_ms": 137106,
+      "name": "Der Jeg H\u00f8rer Te (Bygda)",
+      "url": "https://open.spotify.com/track/3ZtqqLjlfr5GOPxezSaFwX"
     },
     {
       "added_at": "2026-11-19 23:01:40",
@@ -1027,18 +1027,18 @@
     {
       "added_at": "2026-11-19 23:01:40",
       "album": {
-        "name": "Der Jeg H\u00f8rer Te (Bygda)",
-        "url": "https://open.spotify.com/album/6tqJgkJ5ap9ooOxd0TsTW3"
+        "name": "Varmt",
+        "url": "https://open.spotify.com/album/48N7GYYLw9yU3PwdJeMVUW"
       },
       "artists": [
         {
-          "name": "Ole Hartz",
-          "url": "https://open.spotify.com/artist/7J8OsnJjGfG1uHd348LZPI"
+          "name": "Tigergutt101",
+          "url": "https://open.spotify.com/artist/1tjaYa0dBPYGvEHOVUMX5K"
         }
       ],
-      "duration_ms": 137106,
-      "name": "Der Jeg H\u00f8rer Te (Bygda)",
-      "url": "https://open.spotify.com/track/3ZtqqLjlfr5GOPxezSaFwX"
+      "duration_ms": 127950,
+      "name": "Varmt",
+      "url": "https://open.spotify.com/track/2inXtsjX3V451FOIYUL6UQ"
     },
     {
       "added_at": "2026-11-19 23:01:40",
@@ -1079,22 +1079,6 @@
     {
       "added_at": "2026-11-19 23:01:40",
       "album": {
-        "name": "Jeg har v\u00e6rt en idiot",
-        "url": "https://open.spotify.com/album/7lcMSlKePVyhxlwVW2iAh5"
-      },
-      "artists": [
-        {
-          "name": "Katastrofe",
-          "url": "https://open.spotify.com/artist/48XeauxB5rhLPXPtACuuUR"
-        }
-      ],
-      "duration_ms": 149886,
-      "name": "Jeg har v\u00e6rt en idiot",
-      "url": "https://open.spotify.com/track/37mXHSrYsbEPjkeIREmsIJ"
-    },
-    {
-      "added_at": "2026-11-19 23:01:40",
-      "album": {
         "name": "Villmark",
         "url": "https://open.spotify.com/album/7Humw7wrWwHzTpaDV1prLY"
       },
@@ -1107,6 +1091,22 @@
       "duration_ms": 180797,
       "name": "Villmark",
       "url": "https://open.spotify.com/track/6oTaJU4JIQZC3zEtjNCejS"
+    },
+    {
+      "added_at": "2026-11-19 23:01:40",
+      "album": {
+        "name": "Jeg har v\u00e6rt en idiot",
+        "url": "https://open.spotify.com/album/7lcMSlKePVyhxlwVW2iAh5"
+      },
+      "artists": [
+        {
+          "name": "Katastrofe",
+          "url": "https://open.spotify.com/artist/48XeauxB5rhLPXPtACuuUR"
+        }
+      ],
+      "duration_ms": 149886,
+      "name": "Jeg har v\u00e6rt en idiot",
+      "url": "https://open.spotify.com/track/37mXHSrYsbEPjkeIREmsIJ"
     },
     {
       "added_at": "2026-11-19 23:01:40",
@@ -1207,6 +1207,22 @@
     {
       "added_at": "2026-11-19 23:01:40",
       "album": {
+        "name": "Polisen",
+        "url": "https://open.spotify.com/album/79Psas2Jq5BRug1JdJjXBj"
+      },
+      "artists": [
+        {
+          "name": "Silje Bakke",
+          "url": "https://open.spotify.com/artist/787cDRDrz78jTSHhCAeF8c"
+        }
+      ],
+      "duration_ms": 145645,
+      "name": "Polisen",
+      "url": "https://open.spotify.com/track/1df1uSXhMSzNE29Ung8GEn"
+    },
+    {
+      "added_at": "2026-11-19 23:01:40",
+      "album": {
         "name": "N\u00e5r sol\u00e5 g\u00e5r ned",
         "url": "https://open.spotify.com/album/6Fnzvn4reiS3UJVrYOaqQo"
       },
@@ -1223,38 +1239,18 @@
     {
       "added_at": "2026-11-19 23:01:40",
       "album": {
-        "name": "Ein song som finst",
-        "url": "https://open.spotify.com/album/193cVUqldOQIoSFxsEJe0L"
+        "name": "Rompa bar",
+        "url": "https://open.spotify.com/album/38qAOQVGCD6rHCP3cjm0WK"
       },
       "artists": [
         {
-          "name": "Odd Nordstoga",
-          "url": "https://open.spotify.com/artist/64zdCzD7lOFBTIpQBSH8Uv"
+          "name": "Karen Moe",
+          "url": "https://open.spotify.com/artist/7HVTiq4sDE8CnO0jCHldZ0"
         }
       ],
-      "duration_ms": 210226,
-      "name": "Ein song som finst",
-      "url": "https://open.spotify.com/track/3VUA4aLcTe0hIibzbzZ26z"
-    },
-    {
-      "added_at": "2026-11-19 23:01:40",
-      "album": {
-        "name": "Russisk rulett",
-        "url": "https://open.spotify.com/album/59LboU3tFZyD8ABPRlNn9K"
-      },
-      "artists": [
-        {
-          "name": "Knivblad",
-          "url": "https://open.spotify.com/artist/5B9QPiKMDIOkjg3Mu1hQng"
-        },
-        {
-          "name": "Mathilde Frei",
-          "url": "https://open.spotify.com/artist/10USXs7iXIXqqqF3OC7Uhx"
-        }
-      ],
-      "duration_ms": 194624,
-      "name": "Russisk rulett",
-      "url": "https://open.spotify.com/track/3kXzU4aXWSoBMQar1Qgzjs"
+      "duration_ms": 177500,
+      "name": "Rompa bar",
+      "url": "https://open.spotify.com/track/3xzz52FlDLmHTY7bBwTEU5"
     }
   ],
   "unique_name": "Livet p\u00e5 B\u00f8gda!",

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX74VGmwslvwH.md) - [plain]
 
 > Energy flow from root to crown\. Balance your doshas with gentle sounds inspired by India.
 
-[Spotify](https://open.spotify.com/user/spotify) - 283,287 likes - 150 songs - 7 hr 48 min
+[Spotify](https://open.spotify.com/user/spotify) - 283,399 likes - 150 songs - 7 hr 48 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -159,4 +159,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX74VGmwslvwH.md) - [plain]
 | 149 | [Focus Ten](https://open.spotify.com/track/6rtxEcszeVD0j86GJc2ZvQ) | [Yoro Kobuto](https://open.spotify.com/artist/21TAVdB21U8rAixr2sANtf) | [Focus Ten](https://open.spotify.com/album/0KBrHAUFZ5cmLuu5jx65xM) | 2:50 |
 | 150 | [Aamani](https://open.spotify.com/track/4XnDI3ILPViOW41CExGjtt) | [Mathura Horizon](https://open.spotify.com/artist/6uEOyPNPXNONqZlwhsOMSm) | [Aamani](https://open.spotify.com/album/03AsF5mqDr8QiokyguydHT) | 2:42 |
 
-Snapshot ID: `AAAAAHNEQOsHHEMfiFMUOicgCLsPChQg`
+Snapshot ID: `AAAAAJlj9DYVo77TyZ2lNZNzgzDYdM2N`

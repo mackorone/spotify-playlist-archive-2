@@ -1,12 +1,12 @@
 {
   "description": "From the very deep spirit of the almighty North. ",
-  "num_followers": 603265,
+  "num_followers": 603308,
   "original_name": "Northern Spirits",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAEWyQRw0Uz3eUSCOznl32racUUz2",
+  "snapshot_id": "AAAAABGzxYj5N4LDzrtVxY7S6ZwLZnof",
   "tracks": [
     {
       "added_at": "2026-10-19 15:51:47",
@@ -391,22 +391,6 @@
     {
       "added_at": "2026-10-19 15:51:47",
       "album": {
-        "name": "Jaun Zuria",
-        "url": "https://open.spotify.com/album/6SgXHrTQdZSwkVg31WH409"
-      },
-      "artists": [
-        {
-          "name": "Tartalo Music",
-          "url": "https://open.spotify.com/artist/7bKo8Jgp76YNToFednF7kT"
-        }
-      ],
-      "duration_ms": 149387,
-      "name": "Jaun Zuria",
-      "url": "https://open.spotify.com/track/1L1Dm4HuSKhWzxnqbXHW7Z"
-    },
-    {
-      "added_at": "2026-10-19 15:51:47",
-      "album": {
         "name": "\u00d3tta",
         "url": "https://open.spotify.com/album/3jUZIR2RRcuddKrbetFftv"
       },
@@ -419,6 +403,22 @@
       "duration_ms": 578000,
       "name": "\u00d3tta",
       "url": "https://open.spotify.com/track/2LJZE1yXy9SdglruufEDHG"
+    },
+    {
+      "added_at": "2026-10-19 15:51:47",
+      "album": {
+        "name": "Jaun Zuria",
+        "url": "https://open.spotify.com/album/6SgXHrTQdZSwkVg31WH409"
+      },
+      "artists": [
+        {
+          "name": "Tartalo Music",
+          "url": "https://open.spotify.com/artist/7bKo8Jgp76YNToFednF7kT"
+        }
+      ],
+      "duration_ms": 149387,
+      "name": "Jaun Zuria",
+      "url": "https://open.spotify.com/track/1L1Dm4HuSKhWzxnqbXHW7Z"
     },
     {
       "added_at": "2026-10-19 15:51:47",
@@ -751,6 +751,22 @@
     {
       "added_at": "2026-10-19 15:51:47",
       "album": {
+        "name": "Adore",
+        "url": "https://open.spotify.com/album/4Yf0HZRHPCZvRteeDMLcul"
+      },
+      "artists": [
+        {
+          "name": "Numenorean",
+          "url": "https://open.spotify.com/artist/2qBGuYUZX53HN4Vk7Msjlc"
+        }
+      ],
+      "duration_ms": 141750,
+      "name": "Stay",
+      "url": "https://open.spotify.com/track/3foIGbQ1FPZYJJ7RQ6v4Nj"
+    },
+    {
+      "added_at": "2026-10-19 15:51:47",
+      "album": {
         "name": "Shieldmaiden",
         "url": "https://open.spotify.com/album/2pEGtKClaD7eYWnzQgyWo2"
       },
@@ -771,22 +787,6 @@
       "duration_ms": 195514,
       "name": "Shieldmaiden",
       "url": "https://open.spotify.com/track/3GMwtVxonfUVbd9DnAUqFP"
-    },
-    {
-      "added_at": "2026-10-19 15:51:47",
-      "album": {
-        "name": "Adore",
-        "url": "https://open.spotify.com/album/4Yf0HZRHPCZvRteeDMLcul"
-      },
-      "artists": [
-        {
-          "name": "Numenorean",
-          "url": "https://open.spotify.com/artist/2qBGuYUZX53HN4Vk7Msjlc"
-        }
-      ],
-      "duration_ms": 141750,
-      "name": "Stay",
-      "url": "https://open.spotify.com/track/3foIGbQ1FPZYJJ7RQ6v4Nj"
     },
     {
       "added_at": "2026-10-19 15:51:47",

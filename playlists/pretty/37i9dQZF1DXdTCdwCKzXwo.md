@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdTCdwCKzXwo.md) - [plain]
 
 > These early pioneers brought the underground to the foreground\. Cover: The Smiths
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,279,524 likes - 75 songs - 4 hr 59 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,279,520 likes - 75 songs - 4 hr 59 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdTCdwCKzXwo.md) - [plain]
 | 74 | [Janitor](https://open.spotify.com/track/4qIrNr9OnHrQhpODZcmulH) | [Suburban Lawns](https://open.spotify.com/artist/7GbMKpjxObo2JZGvKQovjr) | [Suburban Lawns](https://open.spotify.com/album/73heWpQLwKGoedT3eM72Ra) | 2:31 |
 | 75 | [Antmusic](https://open.spotify.com/track/1FX9TDiixxhRoYVxevAYiV) | [Adam & The Ants](https://open.spotify.com/artist/2DppeCnNtvrLfEobq9Pw5r) | [The Very Best Of](https://open.spotify.com/album/3MlJ1QPKiWyUqGrlTzk19g) | 3:36 |
 
-Snapshot ID: `AAAAAHfFT/ZDcWh1o2p8av3zLT8HnjKa`
+Snapshot ID: `AAAAAOrq+gHmt2xbk89MLDVrfe7a9Jgf`

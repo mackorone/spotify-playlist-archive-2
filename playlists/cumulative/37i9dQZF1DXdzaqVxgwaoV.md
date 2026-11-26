@@ -4,7 +4,7 @@
 
 > En modo: simulacro navideño 🎄 🎅🏼
 
-450 songs - 1 day 2 hr 55 min
+451 songs - 1 day 2 hr 58 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -33,6 +33,7 @@
 | [Apágame la Vela](https://open.spotify.com/track/2YQ4y8hb8NK0oEX2EbMaOB) | [Victor Pineiro](https://open.spotify.com/artist/7LaCdvy89PsyxqetvHbosd), [Los Melódicos](https://open.spotify.com/artist/4LdArZAC1QPQdyz8JNOYVW) | [25 Super Exitos](https://open.spotify.com/album/44JtnB0CAdzHFY52seBViL) | 2:08 | 2025-09-09 | 2025-10-04 |
 | [Aquellos Diciembres](https://open.spotify.com/track/0j6PkTxrRbuQfWvFNSflkw) | [Los Falcons](https://open.spotify.com/artist/2UODcsr0CoKJoDK8yNJm5V) | [Cinco Pa' las Doce](https://open.spotify.com/album/2OwJBijbad5wVfwakh3Rqj) | 3:16 | 2023-12-20 |  |
 | [Aquí Está El Bobo](https://open.spotify.com/track/2B96lfFlbinfLS2HWweBYn) | [Hernan Dario Hernandez](https://open.spotify.com/artist/2XAs0PIadAYZYnt2TEa0Cs) | [Éxitos De Siempre](https://open.spotify.com/album/7F4oJEuDFeF0erkzERzihR) | 3:15 | 2023-11-15 | 2024-02-09 |
+| [Aquí Está el Bobo](https://open.spotify.com/track/6y2EgTQhjjPbZGu0jGSkxe) | [Hernan Dario Hernandez](https://open.spotify.com/artist/2XAs0PIadAYZYnt2TEa0Cs), [Los Muchachos Decentes](https://open.spotify.com/artist/3k0DvAKKHV4cbQ9n1mFpl3) | [Éxitos de Siempre](https://open.spotify.com/album/0DZwT032cDcR3PXF8bGK5z) | 3:15 | 2026-11-20 |  |
 | [Arbolito de Navidad](https://open.spotify.com/track/2eoR1IW9sS4saeRPlXlxW9) | [Los 50 De Joselito](https://open.spotify.com/artist/0FTkvpgQfrCz3ku0oSbrYU) | [Colección de Éxitos, Vol\. 1](https://open.spotify.com/album/47siIpiLeeKUsz0FBLZyJP) | 2:46 | 2023-12-05 |  |
 | [Así Te Quiero Yo](https://open.spotify.com/track/0yRCIDuZfg6eXy3Tg9B7iU) | [La Gran Banda Caleña](https://open.spotify.com/artist/4mSjsAYIPvfiRHmNmNH8a2), [Jorge Solís](https://open.spotify.com/artist/1reY0a17u02VndROtflcB7) | [Picoteando por Ahí y Otros Éxitos](https://open.spotify.com/album/5QrcL2jTqliHd8O563vBbQ) | 3:48 | 2024-09-01 | 2026-02-24 |
 | [Así Te Quiero Yo](https://open.spotify.com/track/1MkfADSfUp9Q9nvkcWLdSs) | [La Gran Banda Caleña](https://open.spotify.com/artist/4mSjsAYIPvfiRHmNmNH8a2), [Jorge Solís](https://open.spotify.com/artist/7nLUECHbwHEqQoXv0XOp1o) | [Picoteando por Ahí y Otros Éxitos](https://open.spotify.com/album/6obdPjm2ewaSoltEge7U2G) | 3:48 | 2026-09-24 |  |
@@ -298,7 +299,7 @@
 | [Mentirosa](https://open.spotify.com/track/3IVYIU7UrZzRM7CTHtKpcZ) | [Pastor Lopez](https://open.spotify.com/artist/6Ud6RjvNXVe39mKiGUb7zE) | [Colección Éxitos: Pastor Lopez \(Vol\. 4\)](https://open.spotify.com/album/2DNCFCkioFamNb5SGZlJNv) | 4:00 | 2024-09-01 | 2025-12-02 |
 | [Mi Corazón](https://open.spotify.com/track/6l0xwRuI7LrQ7xfBx4YLwi) | [Los Melódicos](https://open.spotify.com/artist/4LdArZAC1QPQdyz8JNOYVW) | [La Orquesta Que Impone El Ritmo](https://open.spotify.com/album/5q6hd4CqyZ1sgdZfPmB4G1) | 4:08 | 2023-11-09 |  |
 | [Mi Cucu](https://open.spotify.com/track/2cUKBUN66IsL9lc8PdISQY) | [La Sonora Dinamita](https://open.spotify.com/artist/13or1Wf6ipcvSIiurZATvw), [Lucho Argain](https://open.spotify.com/artist/69KQI0QMvoPN5OcpNgTC2b), [La India Meliyará](https://open.spotify.com/artist/0zBKolPOzGoV8uja8nnaUG) | [Greatest Cumbia Classics Of Colombia, Vol\. 1](https://open.spotify.com/album/53W9qG1q6xaKlUVuzkBNPV) | 3:54 | 2023-11-09 | 2024-04-19 |
-| [Mi Cucu](https://open.spotify.com/track/2sgvhWTDeOjYtf2gewGSYa) | [La Sonora Dinamita](https://open.spotify.com/artist/13or1Wf6ipcvSIiurZATvw), [Lucho Argain](https://open.spotify.com/artist/69KQI0QMvoPN5OcpNgTC2b), [La India Meliyará](https://open.spotify.com/artist/0zBKolPOzGoV8uja8nnaUG) | [Música Tropical de Colombia \(Vol\. 10\)](https://open.spotify.com/album/71qxThBjBHwu7XtRQecERd) | 3:55 | 2023-12-20 |  |
+| [Mi Cucu](https://open.spotify.com/track/2sgvhWTDeOjYtf2gewGSYa) | [La Sonora Dinamita](https://open.spotify.com/artist/13or1Wf6ipcvSIiurZATvw), [Lucho Argain](https://open.spotify.com/artist/69KQI0QMvoPN5OcpNgTC2b), [La India Meliyará](https://open.spotify.com/artist/0zBKolPOzGoV8uja8nnaUG) | [Música Tropical de Colombia \(Vol\. 10\)](https://open.spotify.com/album/71qxThBjBHwu7XtRQecERd) | 3:55 | 2023-12-20 | 2026-11-26 |
 | [Mi Fortuna](https://open.spotify.com/track/6Z6SZeBkGP0qmJdq4RvvUY) | [Ryan Castro](https://open.spotify.com/artist/7j6DKwmjbxvpQO8h914uEz), [SOG](https://open.spotify.com/artist/18dspUI6gqabm5XCC2RcUD) | [Mi Fortuna](https://open.spotify.com/album/1H82HION3y20FuBl1ySqcq) | 2:37 | 2026-05-29 | 2026-08-25 |
 | [Mi Gran Secreto](https://open.spotify.com/track/1w7HjjEcAgbB4BF5haaPvn) | [Fernando Burbano](https://open.spotify.com/artist/23nWkdjjAlopi1pF5KwrD6) | [Grandes Exitos](https://open.spotify.com/album/0QPKuA73byh081OeZVmHxI) | 2:48 | 2023-02-03 | 2026-09-25 |
 | [Mi Mala Estrella](https://open.spotify.com/track/7K4HVrNssRcLSvNQ6INDRw) | [El Caballero Gaucho](https://open.spotify.com/artist/1Y8tkL7bBifF9JiCcEzo70) | [Triunfadores de la Música Popular](https://open.spotify.com/album/4Otd9SzYETagXLSF9mXmxS) | 2:40 | 2023-02-03 | 2024-09-02 |

@@ -4,7 +4,7 @@
 
 > Instrumental house for when you need to focus!
 
-525 songs - 1 day 0 hr 21 min
+529 songs - 1 day 0 hr 31 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -119,6 +119,7 @@
 | [Default](https://open.spotify.com/track/2xKo2H94RQMDEemqpMo4uL) | [Pello Esso](https://open.spotify.com/artist/4Bxpz0ttb5aP5b7rIc81J6) | [Default](https://open.spotify.com/album/2VlmCWWvCR3P31ErQSSa78) | 3:08 | 2025-11-17 |  |
 | [Defenition](https://open.spotify.com/track/6PtAU3SGisCpVCkUlGAwMZ) | [Cray Barnes](https://open.spotify.com/artist/6fG2Y4YIB6PG8TyPOqOl2b) | [Defenition](https://open.spotify.com/album/2vbqMV4YIUkpgI9OLSv1jj) | 2:03 | 2024-04-08 |  |
 | [Demurity](https://open.spotify.com/track/4YGkHrj5NQzSn3q2aJ4C9O) | [Plomb](https://open.spotify.com/artist/5lJ2OEJIZ8QdAGyCKq307r) | [Demurity](https://open.spotify.com/album/7gbIdhCtu55lkHnIKYFk3v) | 2:46 | 2022-04-15 | 2023-07-07 |
+| [Desire](https://open.spotify.com/track/6p6oDkYfztTksgXokQo6vd) | [Bamba Lamer](https://open.spotify.com/artist/0lHDiEKyk5ooAlsfDeNHgo) | [Desire](https://open.spotify.com/album/6MUaSRB7B61anWzq1peBnn) | 2:25 | 2026-11-25 |  |
 | [Desire Whisperer](https://open.spotify.com/track/12OYn9KATMKEjFUfTZtwkR) | [Pink Beaches](https://open.spotify.com/artist/4BD1682O6X6qea7XWlo6tq) | [Desire Whisperer](https://open.spotify.com/album/3wQnbbrSnOyhWB7UXZnyy0) | 2:41 | 2022-04-15 | 2026-02-27 |
 | [Desofa](https://open.spotify.com/track/04QMcqbujxNGFHIreoyqU1) | [Raphael Creed](https://open.spotify.com/artist/2shzzQEVBHTmyUUmgvA3eK) | [Desofa](https://open.spotify.com/album/5eTWF1Hei352wmaobA7mdc) | 2:42 | 2022-04-15 | 2022-08-19 |
 | [Desolation](https://open.spotify.com/track/56w2iwPI8KID8XTbBaalUv) | [Cloode](https://open.spotify.com/artist/0QvInajilVJw8If75PeAH8) | [Desolation](https://open.spotify.com/album/16SzYaCAzPsKUaNd0HuvQ1) | 2:42 | 2022-04-15 | 2023-03-04 |
@@ -200,7 +201,7 @@
 | [Golden Stillness](https://open.spotify.com/track/0VP4BHpL7U0bcn0DOpa02X) | [Talaiio](https://open.spotify.com/artist/2h1uVJZjlRuKJgwJFbkkEN) | [Golden Stillness](https://open.spotify.com/album/3qONV6urhwtF3B12RUBpAW) | 2:38 | 2025-05-16 |  |
 | [Good Company](https://open.spotify.com/track/7beE12uaDzcQFgpCiHGqIJ) | [The Lido](https://open.spotify.com/artist/4pxc1z1I4Oqu6Kdp7SQ9A8) | [Good Company](https://open.spotify.com/album/0sKAPjf74Gjft0WSGdWv07) | 2:05 | 2026-11-03 |  |
 | [Good Intentions](https://open.spotify.com/track/6GwgPFKL5IO1Zhjb9ZMLRm) | [Carlo Azure](https://open.spotify.com/artist/1UosFEbzfi6fLIdQSYiL1Z) | [Good Intentions](https://open.spotify.com/album/1qwwsNNztNK7wm0ndxwAYM) | 1:37 | 2023-12-01 | 2024-02-27 |
-| [Good Time](https://open.spotify.com/track/6GLACtvH8FCRrqDfX9Ba95) | [André Aguado](https://open.spotify.com/artist/6USxBSmx4wkhLW61dT1DgC) | [Good Time](https://open.spotify.com/album/0RlH6pYp7KyjJYEAW3zlWv) | 2:53 | 2026-07-31 |  |
+| [Good Time](https://open.spotify.com/track/6GLACtvH8FCRrqDfX9Ba95) | [André Aguado](https://open.spotify.com/artist/6USxBSmx4wkhLW61dT1DgC) | [Good Time](https://open.spotify.com/album/0RlH6pYp7KyjJYEAW3zlWv) | 2:53 | 2026-07-31 | 2026-11-26 |
 | [Got Taste](https://open.spotify.com/track/5WSIymZ2snrqB3GPMlfrEj) | [Nova Glitch](https://open.spotify.com/artist/5bbMdQv3pCzS20lYjRxpB1) | [Got Taste](https://open.spotify.com/album/3rHgrGfpbn71uVb2dhtM62) | 2:26 | 2026-02-13 |  |
 | [Gran Via](https://open.spotify.com/track/00Ed3O2Ru8G51Pli1tg0Ue) | [Sobbel Sosch](https://open.spotify.com/artist/32E7sOawaXS4fuVyr15Jok) | [Gran Via](https://open.spotify.com/album/6TaXddCz1SZtiKruCLPahF) | 2:10 | 2024-05-11 |  |
 | [Gravity](https://open.spotify.com/track/6W2Vs75yqXyLYscxl8rtY2) | [Rick Groove](https://open.spotify.com/artist/7q2GXu2JA5LLVbNw8YnaQv) | [Gravity](https://open.spotify.com/album/4NzihaIFhK1CyM24DQSkax) | 3:00 | 2025-11-17 |  |
@@ -244,6 +245,7 @@
 | [Jakarta](https://open.spotify.com/track/6zcmfPO4V2htLg9bF9ZWon) | [rigii](https://open.spotify.com/artist/7mKI3t5igUWeoSgBNCdQIU) | [Jakarta](https://open.spotify.com/album/5FFDcsove02cfXvOLKF7qp) | 2:49 | 2025-05-30 |  |
 | [Joint Venture](https://open.spotify.com/track/6XASJldL6SppN0ZnTmmTza) | [Hausward](https://open.spotify.com/artist/23v5l9Xt9MklrDy9475aW0) | [Joint Venture](https://open.spotify.com/album/7r1x3bzJq6KIJ78SWKUnYm) | 2:51 | 2025-11-17 |  |
 | [joy love](https://open.spotify.com/track/6k7j89mjONxCj8FioP1cii) | [Goose Groovy](https://open.spotify.com/artist/5g7RMNd1zbiT8yisqse8dA) | [joy love](https://open.spotify.com/album/6G4Hf6evzUuupK4RQjGPQy) | 2:33 | 2023-06-19 | 2025-08-23 |
+| [Just Get Down](https://open.spotify.com/track/4DDgDB5E38Ke4viNSvlEPG) | [Peat Spaceman](https://open.spotify.com/artist/3vVvaRNOSwiFhpKxumFR74) | [Just Get Down](https://open.spotify.com/album/2KZe4t2QXT4e17Ep81QscV) | 2:37 | 2026-11-25 |  |
 | [Kantan](https://open.spotify.com/track/3UuV3xQsLn8FdAzEa0foPr) | [Yasumaru](https://open.spotify.com/artist/0d8Lf2UsOCP5Wuy3n9dOzT) | [Kantan](https://open.spotify.com/album/0EsACGm8MKS86WzhvWUV2K) | 3:17 | 2022-04-15 | 2022-05-11 |
 | [Kap Verde](https://open.spotify.com/track/2BdPPhUCDxD3cXToZ8MdLp) | [Uncle Feaster](https://open.spotify.com/artist/0Dhno1IpOOPqUZ4gAc6fFh) | [Kap Verde](https://open.spotify.com/album/2fLjwHU8YPx8jaRwfZhKfO) | 2:56 | 2023-11-14 | 2025-02-08 |
 | [Karmmma](https://open.spotify.com/track/5eUmA5Pmy5qsffDwYVXz7L) | [Talaiio](https://open.spotify.com/artist/2h1uVJZjlRuKJgwJFbkkEN) | [Karmmma](https://open.spotify.com/album/6bh6vzHwqWe4CeisoqyLc9) | 2:20 | 2024-05-11 | 2025-06-19 |
@@ -261,6 +263,7 @@
 | [Less Is More](https://open.spotify.com/track/4D4D6Jxim8f68o5Z9BhkXi) | [Comfykids](https://open.spotify.com/artist/755IegiHaN6XOu548LkDf2) | [Less Is More](https://open.spotify.com/album/4JBuQYUfBGp0PeTMDEJKy6) | 3:04 | 2023-07-06 | 2025-05-03 |
 | [Liberation](https://open.spotify.com/track/3ZbtMwxCbNLiAm84ZR3H0Z) | [Aneto](https://open.spotify.com/artist/2NN1Bm3UcCgDZEjXPt3ACs) | [Liberation](https://open.spotify.com/album/4LVH4sPDtqUQiqffdU7QuQ) | 2:15 | 2025-05-30 | 2026-03-21 |
 | [Limerence](https://open.spotify.com/track/4G4KUohz7kbinVq9ebcxXL) | [Aurora 10](https://open.spotify.com/artist/7ztuxOIQFdrMJ8pCpopMeK) | [Limerence](https://open.spotify.com/album/1jUcOUgl7LhL1k4MvaUwht) | 2:33 | 2026-01-02 |  |
+| [Locked](https://open.spotify.com/track/1P9oRSb8RkvxiMSADuApxQ) | [Lndonfox](https://open.spotify.com/artist/2eMNpDgRKr7M0TczONdHV1) | [Locked](https://open.spotify.com/album/3bqgiHdGDPuvkDdz0I6A3w) | 2:48 | 2026-11-25 |  |
 | [Lonely](https://open.spotify.com/track/2ipDDqlaPr70NlKyLHNkPc) | [Flower City](https://open.spotify.com/artist/5ODtSBWuOOQ3MtSWuXe2Yp) | [Lonely](https://open.spotify.com/album/4hQEfdanPMa5GJJIuoYLRB) | 1:56 | 2025-04-11 | 2025-05-03 |
 | [Lonely Sky](https://open.spotify.com/track/5bzcqcvzrmimYn9nb7yAs2) | [Palm 3s](https://open.spotify.com/artist/58zVgQ81EzF28TP8yjn8gV) | [Lonely Sky](https://open.spotify.com/album/4yJ7x7yvZxizG13L1a2gAE) | 3:47 | 2024-12-20 | 2026-06-17 |
 | [Look At The Stars](https://open.spotify.com/track/1cHC9pl8CiaW91dWRhNLeO) | [Carinth](https://open.spotify.com/artist/330FPb6pKzidkaSS968Ezm) | [Look At The Stars](https://open.spotify.com/album/5BfmlbstYNCmVdcD2m1kDs) | 2:21 | 2024-03-26 | 2025-02-08 |
@@ -316,7 +319,7 @@
 | [No Worries](https://open.spotify.com/track/6Jok0mHBq3efCQv3QhdZtY) | [Bear Frantz](https://open.spotify.com/artist/1nEOXCXHk8zFrNecfXhgrr) | [No Worries](https://open.spotify.com/album/7CyK3KnC1hGf0hmIC3wFYj) | 2:06 | 2024-03-04 | 2026-01-31 |
 | [Nuvé](https://open.spotify.com/track/3MtLFZiha8DQWc3szHIsdO) | [Léon Mirage](https://open.spotify.com/artist/7rpxtvxhE8niKR3p12vQq4) | [Nuvé](https://open.spotify.com/album/3UwqEC6C97ay5EivcDQB0m) | 2:12 | 2026-03-20 |  |
 | [Ocean Breeze](https://open.spotify.com/track/6rpx7mSA0rAtv6CJKoDE6B) | [Kris Karrey](https://open.spotify.com/artist/200b6fuQRBe2Ra2k6d0lJI) | [Ocean Breeze](https://open.spotify.com/album/7f9xFvcnWYuZGyqbllOcN2) | 3:22 | 2024-11-22 | 2026-06-17 |
-| [Ocean Eyes](https://open.spotify.com/track/2PMZHLdLaf5WUibfsL6nIU) | [Amsané](https://open.spotify.com/artist/3ySQ8l1Tp4kYr62AEYJVF0) | [Ocean Eyes](https://open.spotify.com/album/3bbovdHQD22JBvkp6kW1rm) | 2:25 | 2024-12-20 |  |
+| [Ocean Eyes](https://open.spotify.com/track/2PMZHLdLaf5WUibfsL6nIU) | [Amsané](https://open.spotify.com/artist/3ySQ8l1Tp4kYr62AEYJVF0) | [Ocean Eyes](https://open.spotify.com/album/3bbovdHQD22JBvkp6kW1rm) | 2:25 | 2024-12-20 | 2026-11-26 |
 | [Ocean's Lullaby](https://open.spotify.com/track/5IpAfktXa1HChPzmNt3sgG) | [Maison Lune](https://open.spotify.com/artist/6QxpDDnrrYLloULqIeJAOw) | [Ocean's Lullaby](https://open.spotify.com/album/58iTVqzEdyGhn7jB3BHPs4) | 2:18 | 2025-09-19 |  |
 | [Oh My](https://open.spotify.com/track/5pAmBhagFy54lP28gwANXz) | [Larry Poppinz](https://open.spotify.com/artist/16CYOuSOMLdhvKDWr5f65A) | [Oh My](https://open.spotify.com/album/5QRABFRfam3KEgxW1Ci299) | 3:19 | 2024-03-04 | 2026-03-21 |
 | [Oku\-Shibu](https://open.spotify.com/track/2EtdCz6NWsvbSqdqXY3G5X) | [Yasumaru](https://open.spotify.com/artist/0d8Lf2UsOCP5Wuy3n9dOzT) | [Oku\-Shibu](https://open.spotify.com/album/4drxD2euTThbQYUFdkZGZt) | 2:52 | 2025-02-21 | 2025-07-02 |
@@ -506,6 +509,7 @@
 | [Unknown Controlpanel](https://open.spotify.com/track/4Jbd4SmdEeNeH6if9lsNLe) | [Midnight Cycler](https://open.spotify.com/artist/3SBMxed906yvEy1tA8Avaj) | [Anticyclone Velodrome](https://open.spotify.com/album/6mlT2K4JCofZHXmLzSxDUx) | 3:06 | 2022-04-15 | 2023-06-20 |
 | [Urban Exploration](https://open.spotify.com/track/1ykMsXleK0ys7uJYCDttJT) | [SÁBADA](https://open.spotify.com/artist/4XzpwlfkxNpig7JhxSJxTn) | [Urban Exploration](https://open.spotify.com/album/61uzHmj37eSY7jeP7UHM4s) | 2:11 | 2022-04-15 | 2022-05-11 |
 | [Vacay \- Tropical Jazz Mix](https://open.spotify.com/track/1N4jRXLb40EAyJMzFQZzX2) | [Millennial Matt](https://open.spotify.com/artist/2NTRqwTkxJsD6o5WtJ3rVB) | [Vacay \- Tropical Jazz Mix](https://open.spotify.com/album/0rRUr0U1aJM8uu5RejSV9R) | 2:43 | 2022-04-15 | 2023-06-20 |
+| [Values](https://open.spotify.com/track/1PABDnGgPMLhcg6yQSYjvF) | [Soljani](https://open.spotify.com/artist/5EoSpfP9ji9TV5x9bWlAbL) | [Values](https://open.spotify.com/album/21LZr330zDHRNZuVSg7LRF) | 2:05 | 2026-11-25 |  |
 | [vanguard](https://open.spotify.com/track/4KsyoAICeuEvmVD5kUC9gN) | [Calvian](https://open.spotify.com/artist/1YvCNyjRG7ZhIZXdSgDSXc) | [vanguard](https://open.spotify.com/album/7zTR8tZCpbHVBdswnnqqBt) | 2:22 | 2025-08-22 |  |
 | [Velour Sky](https://open.spotify.com/track/0JBkvjxqDe7xFPhv7zV1QE) | [Aurove](https://open.spotify.com/artist/5mZ3zJnbcuCLfBWUoBRFdA) | [Velour Sky](https://open.spotify.com/album/2C6yplJxLg5M6SFB35AOid) | 2:30 | 2026-11-03 |  |
 | [Velvet Hour](https://open.spotify.com/track/7wJamrygJuHi6gSLIrGoGa) | [Noul](https://open.spotify.com/artist/1ZEXJXJW3Vdw7O6XwwFBBF) | [Velvet Hour](https://open.spotify.com/album/7hRriiUeuKsAbCKjVxsjOV) | 2:37 | 2026-07-31 |  |

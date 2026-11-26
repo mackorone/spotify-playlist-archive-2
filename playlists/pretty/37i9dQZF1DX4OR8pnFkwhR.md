@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4OR8pnFkwhR.md) - [plain]
 
 > Spotifyが注目するニューカマー・プレイリスト。 Cover: Hana Hope × Rol3ert
 
-[Spotify](https://open.spotify.com/user/spotify) - 76,218 likes - 60 songs - 3 hr 31 min
+[Spotify](https://open.spotify.com/user/spotify) - 76,227 likes - 60 songs - 3 hr 31 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -69,4 +69,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4OR8pnFkwhR.md) - [plain]
 | 59 | [Stronger](https://open.spotify.com/track/64uYTJCN56usmGJ1aOEyps) | [HALLEY](https://open.spotify.com/artist/0GUvlVXWnuFFfSeGZsVOW2) | [Born with Love Pt\. 1](https://open.spotify.com/album/5hQNCPx6siJpJQ600eN2Lx) | 4:42 |
 | 60 | [Semishigure](https://open.spotify.com/track/6r1byZ4FjUUO0WXFn54JzQ) | [Maverick Mom](https://open.spotify.com/artist/6NNwLjvIy9AnM3EJ9w0Pbb) | [Semishigure](https://open.spotify.com/album/4XSX01sFZZ5MhNeuSayivT) | 4:07 |
 
-Snapshot ID: `AAAAAC1b3F5D7ANKh5uAwIM6j82M3y2L`
+Snapshot ID: `AAAAADN0c9nKOw5aRWyyeaFXdpSRTU0n`

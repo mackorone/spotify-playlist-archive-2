@@ -4,7 +4,7 @@
 
 > forever young  playlist Spotify, our Music Free, playlist funny, playlist everytime, Playlist to Study, crisvola playlist spotify
 
-2,855 songs - 6 day 21 hr 46 min
+2,857 songs - 6 day 21 hr 53 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -607,6 +607,7 @@
 | [Do Good](https://open.spotify.com/track/38UQXcKIImPXRiYjNfZARG) | [Zion Irie](https://open.spotify.com/artist/5noXAEZH9V1X7qtOSjM2Aw), [Komadub](https://open.spotify.com/artist/5QSz1eRMvZIAkvBATsz4ob) | [Do Good](https://open.spotify.com/album/7zuEb5FEYogyGK6Ntjh2XE) | 4:10 | 2024-03-25 |  |
 | [Do I mean anything to U](https://open.spotify.com/track/2H5k3peC3z5uLNHtWN61yp) | [Saes](https://open.spotify.com/artist/3F2WIaenzW5MGMMdS0wLMK), [VonnieRage](https://open.spotify.com/artist/3PAZSvKMQTTXKXZYDF4VtW) | [Do I mean anything to U](https://open.spotify.com/album/2qykr7BO1DvTAR8iE5Ck84) | 1:54 | 2026-09-12 |  |
 | [Do Outro Lado da Rua](https://open.spotify.com/track/0ltwRdcobZeo4kEkgFQOYk) | [Thiago Barba](https://open.spotify.com/artist/08IHljRCkTZ3v2X65B1U5I) | [Do Outro Lado da Rua](https://open.spotify.com/album/3BcEjngH9PV2W3L3mNDDYK) | 2:45 | 2025-05-25 |  |
+| [Do\-Over](https://open.spotify.com/track/1YJ3zTjKvYrPwNV1EdCtn7) | [Alessandro Ciminata](https://open.spotify.com/artist/2dUzpcaCyW2RWTNrlv3Sjv) | [Do\-Over](https://open.spotify.com/album/1TgQo2IG7BtEdjrpx8pLby) | 3:03 | 2026-11-25 |  |
 | [Doble lazo](https://open.spotify.com/track/4Z288tB6RJzge7RbPChNZ5) | [LOS PÁJAROSS](https://open.spotify.com/artist/1RcuUbplaqk6mZOdgy9fNN) | [Indescriptible](https://open.spotify.com/album/5e8sDWPesVW6H2ChI6RQaN) | 4:19 | 2025-07-14 |  |
 | [DOG DAG BAU BAU](https://open.spotify.com/track/4V9lYkf9gujT8zaRiUInXZ) | [Prova MI](https://open.spotify.com/artist/0owRwclwgsWS9XiRSFcdFb) | [DOG DAG BAU BAU](https://open.spotify.com/album/6CLNMEMnfF1OgvLo9Sbjwq) | 2:06 | 2026-05-08 |  |
 | [Dolomiti Soul](https://open.spotify.com/track/5Cv5soORtinC12J1ruavkG) | [Prova MI](https://open.spotify.com/artist/0owRwclwgsWS9XiRSFcdFb) | [Dolomiti Soul](https://open.spotify.com/album/543B54L2yjcDlvxZQZCJfR) | 3:52 | 2026-01-23 |  |
@@ -2708,6 +2709,7 @@
 | [When the Locks Break](https://open.spotify.com/track/3567fY934M6ccN3LEV2k7j) | [Freddie](https://open.spotify.com/artist/6UMGZLkggp85i0INaTzwvT) | [When the Locks Break](https://open.spotify.com/album/6JFZmJb1QZ23pMn437fFP9) | 3:54 | 2026-05-18 |  |
 | [When The Silence Breaks](https://open.spotify.com/track/6ye1n2cRLhITHu5oI49aon) | [Fra](https://open.spotify.com/artist/7bbemKBpCgvwVPn8dF4kct) | [When The Silence Breaks](https://open.spotify.com/album/7z8pnATQNsRzemYcrpoWbD) | 3:38 | 2025-06-21 |  |
 | [When The Tornado Comes](https://open.spotify.com/track/7394SpkcD7WUtx3OWis2YV) | [Adam Aronson](https://open.spotify.com/artist/5lrLb0jXN8RE9HMFLtnN9X) | [When The Tornado Comes](https://open.spotify.com/album/7ncobca1PIxSqABQGQEP4Z) | 3:10 | 2026-05-13 |  |
+| [When You Left the Room \- Extrait de l'album 2026 PASSING THROUGH THE LIGHT](https://open.spotify.com/track/5gd9yNnfYFZXRvBEkQDcgZ) | [RIAN L](https://open.spotify.com/artist/7zuENAgeXHuL6ybjeTSK3u) | [When You Left the Room](https://open.spotify.com/album/45NrpppgY1x8nlXnLdq1cw) | 3:30 | 2026-11-25 |  |
 | [WHEN YOU'RE WITH ME](https://open.spotify.com/track/0U4TXxTVQot0Sbl5jpfZpF) | [Lilly North](https://open.spotify.com/artist/337s3UorAP0JF6jmoaR1eI) | [MEMORIES](https://open.spotify.com/album/0Ds2lI1MLphRYZ1yYyaYtb) | 7:19 | 2026-09-14 |  |
 | [Where Are My Sandals Dub](https://open.spotify.com/track/7sFoCvQJ47mQvwoXBg4T2M) | [Alien Trackers](https://open.spotify.com/artist/5L5HRZ5ZZENiDWIv2bPE08), [disrupt](https://open.spotify.com/artist/2gRoIdR5vwiNwds5uW3Kge), [Pablo Volt](https://open.spotify.com/artist/34MttlcoQi6VGZODd0GDBm) | [Dubs From Vortex Beach](https://open.spotify.com/album/4yP8iuNURoEAPZemwvvw0L) | 3:16 | 2026-10-28 |  |
 | [Where Do I Start](https://open.spotify.com/track/5tlgrgkB96Smw5Ql8kw2jR) | [Rocky Neal](https://open.spotify.com/artist/0MP58FIbi8HPoGK6POckl6) | [Where Do I Start](https://open.spotify.com/album/6IX0njrofQ1mhfVT6ZnRdt) | 1:50 | 2025-10-07 |  |

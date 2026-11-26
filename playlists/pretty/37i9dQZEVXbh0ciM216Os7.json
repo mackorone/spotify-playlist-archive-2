@@ -6,7 +6,7 @@
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAEFLxf2g0tGH8/6zrQHQEC/6ETZq",
+  "snapshot_id": "AAAAAJ6f1oi0fpvDG8ytpDq+npBe9LFO",
   "tracks": [
     {
       "added_at": "2026-11-20 05:00:00",
@@ -139,26 +139,6 @@
     {
       "added_at": "2026-11-20 05:00:00",
       "album": {
-        "name": "Midnight Jazz Confidential",
-        "url": "https://open.spotify.com/album/3NOMAgrPi3dGQ5mx44DE1X"
-      },
-      "artists": [
-        {
-          "name": "Piero Umiliani",
-          "url": "https://open.spotify.com/artist/5sD7Cf3SaTVcrg81GQi1Xk"
-        },
-        {
-          "name": "Chet Baker",
-          "url": "https://open.spotify.com/artist/3rxeQlsv0Sc2nyYaZ5W71T"
-        }
-      ],
-      "duration_ms": 293760,
-      "name": "Alone In A Crowd - Remastered 2021",
-      "url": "https://open.spotify.com/track/3EvP0TJmgGWrn10OUmUOM1"
-    },
-    {
-      "added_at": "2026-11-20 05:00:00",
-      "album": {
         "name": "So Amazin'",
         "url": "https://open.spotify.com/album/2c4JdIENhzMknQp8xipToc"
       },
@@ -175,6 +155,26 @@
       "duration_ms": 120424,
       "name": "Lions In The Zoo Pt. I",
       "url": "https://open.spotify.com/track/6H8u0zy4dTRnTI3QNe2N5U"
+    },
+    {
+      "added_at": "2026-11-20 05:00:00",
+      "album": {
+        "name": "Midnight Jazz Confidential",
+        "url": "https://open.spotify.com/album/3NOMAgrPi3dGQ5mx44DE1X"
+      },
+      "artists": [
+        {
+          "name": "Piero Umiliani",
+          "url": "https://open.spotify.com/artist/5sD7Cf3SaTVcrg81GQi1Xk"
+        },
+        {
+          "name": "Chet Baker",
+          "url": "https://open.spotify.com/artist/3rxeQlsv0Sc2nyYaZ5W71T"
+        }
+      ],
+      "duration_ms": 293760,
+      "name": "Alone In A Crowd - Remastered 2021",
+      "url": "https://open.spotify.com/track/3EvP0TJmgGWrn10OUmUOM1"
     },
     {
       "added_at": "2026-11-20 05:00:00",
@@ -219,22 +219,6 @@
     {
       "added_at": "2026-11-20 05:00:00",
       "album": {
-        "name": "Horseback (Special Edition)",
-        "url": "https://open.spotify.com/album/1gl4D55viqfJyaVvjFqQIH"
-      },
-      "artists": [
-        {
-          "name": "Cody Johnson",
-          "url": "https://open.spotify.com/artist/6zLBxLdl60ekBLpawtT63I"
-        }
-      ],
-      "duration_ms": 167373,
-      "name": "Horseback - Special Edition",
-      "url": "https://open.spotify.com/track/039aUqmDUgUVnKkxRzLLAb"
-    },
-    {
-      "added_at": "2026-11-20 05:00:00",
-      "album": {
         "name": "Seidh",
         "url": "https://open.spotify.com/album/6A1eYYVopPe3y3NShpQGGU"
       },
@@ -247,6 +231,22 @@
       "duration_ms": 305719,
       "name": "Seidh",
       "url": "https://open.spotify.com/track/1thXUA4u2yyIDgdNjcsQSe"
+    },
+    {
+      "added_at": "2026-11-20 05:00:00",
+      "album": {
+        "name": "Horseback (Special Edition)",
+        "url": "https://open.spotify.com/album/1gl4D55viqfJyaVvjFqQIH"
+      },
+      "artists": [
+        {
+          "name": "Cody Johnson",
+          "url": "https://open.spotify.com/artist/6zLBxLdl60ekBLpawtT63I"
+        }
+      ],
+      "duration_ms": 167373,
+      "name": "Horseback - Special Edition",
+      "url": "https://open.spotify.com/track/039aUqmDUgUVnKkxRzLLAb"
     },
     {
       "added_at": "2026-11-20 05:00:00",
@@ -399,30 +399,6 @@
     {
       "added_at": "2026-11-20 05:00:00",
       "album": {
-        "name": "Trying To Get There (From \"Snoopy Presents: 12 Days of Snoopy\")",
-        "url": "https://open.spotify.com/album/1AeRGvMigVa43GsZmt09Du"
-      },
-      "artists": [
-        {
-          "name": "Kamasi Washington",
-          "url": "https://open.spotify.com/artist/6HQYnRM4OzToCYPpVBInuU"
-        },
-        {
-          "name": "Leon Bridges",
-          "url": "https://open.spotify.com/artist/3qnGvpP8Yth1AqSBMqON5x"
-        },
-        {
-          "name": "Peanuts",
-          "url": "https://open.spotify.com/artist/58JT424axIaKJNvUgVonOY"
-        }
-      ],
-      "duration_ms": 143744,
-      "name": "Trying To Get There (From \"Snoopy Presents: 12 Days of Snoopy\") (feat. Leon Bridges)",
-      "url": "https://open.spotify.com/track/3SgiN73hnVnb9KSs4Z4iL2"
-    },
-    {
-      "added_at": "2026-11-20 05:00:00",
-      "album": {
         "name": "No Gas",
         "url": "https://open.spotify.com/album/5z9QdvSbQ5zZ59SFaM0Vbr"
       },
@@ -443,18 +419,26 @@
     {
       "added_at": "2026-11-20 05:00:00",
       "album": {
-        "name": "Neverending Nightmare",
-        "url": "https://open.spotify.com/album/3G30HSCIaI6jUyQNPz9sjv"
+        "name": "Trying To Get There (From \"Snoopy Presents: 12 Days of Snoopy\")",
+        "url": "https://open.spotify.com/album/1AeRGvMigVa43GsZmt09Du"
       },
       "artists": [
         {
-          "name": "DragonForce",
-          "url": "https://open.spotify.com/artist/2pH3wEn4eYlMMIIQyKPbVR"
+          "name": "Kamasi Washington",
+          "url": "https://open.spotify.com/artist/6HQYnRM4OzToCYPpVBInuU"
+        },
+        {
+          "name": "Leon Bridges",
+          "url": "https://open.spotify.com/artist/3qnGvpP8Yth1AqSBMqON5x"
+        },
+        {
+          "name": "Peanuts",
+          "url": "https://open.spotify.com/artist/58JT424axIaKJNvUgVonOY"
         }
       ],
-      "duration_ms": 385256,
-      "name": "Neverending Nightmare",
-      "url": "https://open.spotify.com/track/4zQ65N7npjTLmpNvwbjWAQ"
+      "duration_ms": 143744,
+      "name": "Trying To Get There (From \"Snoopy Presents: 12 Days of Snoopy\") (feat. Leon Bridges)",
+      "url": "https://open.spotify.com/track/3SgiN73hnVnb9KSs4Z4iL2"
     },
     {
       "added_at": "2026-11-20 05:00:00",
@@ -487,18 +471,18 @@
     {
       "added_at": "2026-11-20 05:00:00",
       "album": {
-        "name": "The Mosquito Bowl (Soundtrack from the Netflix Film)",
-        "url": "https://open.spotify.com/album/68gPKzIyOsrMRvHRpxxuka"
+        "name": "Neverending Nightmare",
+        "url": "https://open.spotify.com/album/3G30HSCIaI6jUyQNPz9sjv"
       },
       "artists": [
         {
-          "name": "Explosions In The Sky",
-          "url": "https://open.spotify.com/artist/1uQWmt1OhuHGRKmZ2ZcL6p"
+          "name": "DragonForce",
+          "url": "https://open.spotify.com/artist/2pH3wEn4eYlMMIIQyKPbVR"
         }
       ],
-      "duration_ms": 315824,
-      "name": "Returns",
-      "url": "https://open.spotify.com/track/4m18efQuRfURdzjvEWN0R2"
+      "duration_ms": 385256,
+      "name": "Neverending Nightmare",
+      "url": "https://open.spotify.com/track/4zQ65N7npjTLmpNvwbjWAQ"
     },
     {
       "added_at": "2026-11-20 05:00:00",
@@ -531,6 +515,22 @@
     {
       "added_at": "2026-11-20 05:00:00",
       "album": {
+        "name": "The Mosquito Bowl (Soundtrack from the Netflix Film)",
+        "url": "https://open.spotify.com/album/68gPKzIyOsrMRvHRpxxuka"
+      },
+      "artists": [
+        {
+          "name": "Explosions In The Sky",
+          "url": "https://open.spotify.com/artist/1uQWmt1OhuHGRKmZ2ZcL6p"
+        }
+      ],
+      "duration_ms": 315824,
+      "name": "Returns",
+      "url": "https://open.spotify.com/track/4m18efQuRfURdzjvEWN0R2"
+    },
+    {
+      "added_at": "2026-11-20 05:00:00",
+      "album": {
         "name": "Steady Flame",
         "url": "https://open.spotify.com/album/1zuCMCGmT1qCnJDOQKkQDB"
       },
@@ -559,6 +559,22 @@
       "duration_ms": 282668,
       "name": "I Want A Rocket - From \"Club Kid\"",
       "url": "https://open.spotify.com/track/3kFATEng5hQUjUxlx4WJIT"
+    },
+    {
+      "added_at": "2026-11-20 05:00:00",
+      "album": {
+        "name": "Some Wings",
+        "url": "https://open.spotify.com/album/10EezPc3G2D5da6IHkxLPO"
+      },
+      "artists": [
+        {
+          "name": "The New Pornographers",
+          "url": "https://open.spotify.com/artist/4mO4aGO6u29UyR6XLZR9XW"
+        }
+      ],
+      "duration_ms": 159106,
+      "name": "Some Wings",
+      "url": "https://open.spotify.com/track/0G73gznZiHZAvUFZKA14Ep"
     },
     {
       "added_at": "2026-11-20 05:00:00",
@@ -607,22 +623,6 @@
     {
       "added_at": "2026-11-20 05:00:00",
       "album": {
-        "name": "Some Wings",
-        "url": "https://open.spotify.com/album/10EezPc3G2D5da6IHkxLPO"
-      },
-      "artists": [
-        {
-          "name": "The New Pornographers",
-          "url": "https://open.spotify.com/artist/4mO4aGO6u29UyR6XLZR9XW"
-        }
-      ],
-      "duration_ms": 159106,
-      "name": "Some Wings",
-      "url": "https://open.spotify.com/track/0G73gznZiHZAvUFZKA14Ep"
-    },
-    {
-      "added_at": "2026-11-20 05:00:00",
-      "album": {
         "name": "Live in London",
         "url": "https://open.spotify.com/album/6iUzScK0kAxb8XcImftCj6"
       },
@@ -639,26 +639,30 @@
     {
       "added_at": "2026-11-20 05:00:00",
       "album": {
-        "name": "T'som",
-        "url": "https://open.spotify.com/album/6tzCKhzgBiXqJBc9q1B0pz"
+        "name": "Serial Killers, Vol. 1 (Remastered 2026)",
+        "url": "https://open.spotify.com/album/6i1fDx3HIPppCUPK6CsxsZ"
       },
       "artists": [
         {
-          "name": "Dexter Story",
-          "url": "https://open.spotify.com/artist/058MysjRT4fJ9XKLqXcizq"
+          "name": "Xzibit",
+          "url": "https://open.spotify.com/artist/4tujQJicOnuZRLiBFdp3Ou"
         },
         {
-          "name": "Georgia Anne Muldrow",
-          "url": "https://open.spotify.com/artist/2RdnkH5txHb9c4vGwq0I31"
+          "name": "B-Real",
+          "url": "https://open.spotify.com/artist/2LiWxiQzuD9nmWQ6NCA8Gd"
         },
         {
-          "name": "Robel",
-          "url": "https://open.spotify.com/artist/64aFEkzbOce8Z3RtUccntG"
+          "name": "Demrick",
+          "url": "https://open.spotify.com/artist/3hEgzEeaZ0hb3UXx1U1JRR"
+        },
+        {
+          "name": "Hopsin",
+          "url": "https://open.spotify.com/artist/7EWU4FhUJM1sZQgQKdENeT"
         }
       ],
-      "duration_ms": 197873,
-      "name": "The Tigre Song",
-      "url": "https://open.spotify.com/track/7DjY7qe5fEBqiSPyPMQnA2"
+      "duration_ms": 251927,
+      "name": "Doctors In - Remastered 2026",
+      "url": "https://open.spotify.com/track/0Di3tBKeIxnyuSnzHrsaRq"
     },
     {
       "added_at": "2026-11-20 05:00:00",
@@ -703,34 +707,6 @@
     {
       "added_at": "2026-11-20 05:00:00",
       "album": {
-        "name": "Serial Killers, Vol. 1 (Remastered 2026)",
-        "url": "https://open.spotify.com/album/6i1fDx3HIPppCUPK6CsxsZ"
-      },
-      "artists": [
-        {
-          "name": "Xzibit",
-          "url": "https://open.spotify.com/artist/4tujQJicOnuZRLiBFdp3Ou"
-        },
-        {
-          "name": "B-Real",
-          "url": "https://open.spotify.com/artist/2LiWxiQzuD9nmWQ6NCA8Gd"
-        },
-        {
-          "name": "Demrick",
-          "url": "https://open.spotify.com/artist/3hEgzEeaZ0hb3UXx1U1JRR"
-        },
-        {
-          "name": "Hopsin",
-          "url": "https://open.spotify.com/artist/7EWU4FhUJM1sZQgQKdENeT"
-        }
-      ],
-      "duration_ms": 251927,
-      "name": "Doctors In - Remastered 2026",
-      "url": "https://open.spotify.com/track/0Di3tBKeIxnyuSnzHrsaRq"
-    },
-    {
-      "added_at": "2026-11-20 05:00:00",
-      "album": {
         "name": "PRESENT FOR YOU",
         "url": "https://open.spotify.com/album/799Yg7VN8Ahh6cvvc5U4On"
       },
@@ -747,6 +723,30 @@
       "duration_ms": 264553,
       "name": "Holy Night (feat. Cory Henry)",
       "url": "https://open.spotify.com/track/40McJP3LJ6sSHKkR4g2AiV"
+    },
+    {
+      "added_at": "2026-11-20 05:00:00",
+      "album": {
+        "name": "T'som",
+        "url": "https://open.spotify.com/album/6tzCKhzgBiXqJBc9q1B0pz"
+      },
+      "artists": [
+        {
+          "name": "Dexter Story",
+          "url": "https://open.spotify.com/artist/058MysjRT4fJ9XKLqXcizq"
+        },
+        {
+          "name": "Georgia Anne Muldrow",
+          "url": "https://open.spotify.com/artist/2RdnkH5txHb9c4vGwq0I31"
+        },
+        {
+          "name": "Robel",
+          "url": "https://open.spotify.com/artist/64aFEkzbOce8Z3RtUccntG"
+        }
+      ],
+      "duration_ms": 197873,
+      "name": "The Tigre Song",
+      "url": "https://open.spotify.com/track/7DjY7qe5fEBqiSPyPMQnA2"
     }
   ],
   "unique_name": "Release Radar (@ajcooke94)",

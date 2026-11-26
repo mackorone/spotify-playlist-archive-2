@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4KVW02Geer9.md) - [plain]
 
 > クロスオーバー・ジャズの先駆者、更に次世代のシーンの最先端に立つアーティストの曲を、まとめてお届けします。Cover: RHYMESTER, SOIL ＆“PIMP”SESSIONS
 
-[Spotify](https://open.spotify.com/user/spotify) - 65,340 likes - 135 songs - 9 hr 34 min
+[Spotify](https://open.spotify.com/user/spotify) - 65,350 likes - 135 songs - 9 hr 34 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -144,4 +144,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4KVW02Geer9.md) - [plain]
 | 134 | [Lifetones \- Vocal Version feat\. Asheber](https://open.spotify.com/track/25w5gn0TiUNWxvkBFyBV3P) | [Joe Armon\-Jones](https://open.spotify.com/artist/5mUcc8OOP4RuzrupeGYwW5), [Asheber](https://open.spotify.com/artist/6jHU62NQ2ooWor2Oc0nAEw) | [Lifetones \(Vocal Version feat\. Asheber\)](https://open.spotify.com/album/74PcPypFj9k4vXFClPYUuH) | 7:19 |
 | 135 | [Set Free](https://open.spotify.com/track/3cP5ydT8hYdFmWzJKv6OLX) | [RINA](https://open.spotify.com/artist/3ABOdJFarjLxw2UgIowVyl) | [JOKER](https://open.spotify.com/album/4QSZHGfXMGNnvNyw0HuzE6) | 4:23 |
 
-Snapshot ID: `AAAAAPRNGbjkiVwXj8a0jl+jlgy97Ol2`
+Snapshot ID: `AAAAALi5sx9nfkKT6rkTvAkAqgik3c+d`

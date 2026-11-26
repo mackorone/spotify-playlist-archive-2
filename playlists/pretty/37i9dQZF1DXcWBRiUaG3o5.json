@@ -1,12 +1,12 @@
 {
   "description": "Keep your night easy and light with this acoustic mix.",
-  "num_followers": 1101800,
+  "num_followers": 1101662,
   "original_name": "Evening Acoustic",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAB8xJLVaKno5T4qpzC5MuqWe/kMq",
+  "snapshot_id": "AAAAAD0L5j6AZGrhI1/5jcyYaPMRU7xt",
   "tracks": [
     {
       "added_at": "2024-08-23 15:12:14",
@@ -911,22 +911,6 @@
     {
       "added_at": "2024-08-23 15:12:14",
       "album": {
-        "name": "Some Kind of Heaven",
-        "url": "https://open.spotify.com/album/6XeaMbpgFQXOvE0QtQOIhH"
-      },
-      "artists": [
-        {
-          "name": "Sleeping At Last",
-          "url": "https://open.spotify.com/artist/0MeLMJJcouYXCymQSHPn8g"
-        }
-      ],
-      "duration_ms": 310799,
-      "name": "Some Kind of Heaven",
-      "url": "https://open.spotify.com/track/2lObD7vBRT6ZjyORWDIzLD"
-    },
-    {
-      "added_at": "2024-08-23 15:12:14",
-      "album": {
         "name": "The Wilds",
         "url": "https://open.spotify.com/album/6mG8sVZlEsKwNZeSq8sMpA"
       },
@@ -939,6 +923,22 @@
       "duration_ms": 216750,
       "name": "The Last Time I Saw Adrianne",
       "url": "https://open.spotify.com/track/3wmyO7epB7HGP2HOsAWtPW"
+    },
+    {
+      "added_at": "2024-08-23 15:12:14",
+      "album": {
+        "name": "Some Kind of Heaven",
+        "url": "https://open.spotify.com/album/6XeaMbpgFQXOvE0QtQOIhH"
+      },
+      "artists": [
+        {
+          "name": "Sleeping At Last",
+          "url": "https://open.spotify.com/artist/0MeLMJJcouYXCymQSHPn8g"
+        }
+      ],
+      "duration_ms": 310799,
+      "name": "Some Kind of Heaven",
+      "url": "https://open.spotify.com/track/2lObD7vBRT6ZjyORWDIzLD"
     },
     {
       "added_at": "2024-08-23 15:12:14",
@@ -1087,22 +1087,6 @@
     {
       "added_at": "2024-08-23 15:12:14",
       "album": {
-        "name": "Cherry In Tacoma",
-        "url": "https://open.spotify.com/album/32peyMgk2J7Ro7X6rLjxZR"
-      },
-      "artists": [
-        {
-          "name": "Benjamin Francis Leftwich",
-          "url": "https://open.spotify.com/artist/7D5oTJSXSHf51auG0106CQ"
-        }
-      ],
-      "duration_ms": 222866,
-      "name": "Cherry In Tacoma",
-      "url": "https://open.spotify.com/track/09oUu07p0Hp845lehhYsYG"
-    },
-    {
-      "added_at": "2024-08-23 15:12:14",
-      "album": {
         "name": "Zebra",
         "url": "https://open.spotify.com/album/6QmnGl7Bj5U4bbXVQSbR37"
       },
@@ -1115,6 +1099,22 @@
       "duration_ms": 185146,
       "name": "Zebra",
       "url": "https://open.spotify.com/track/0TazAJfiga0yScZ8rT61rD"
+    },
+    {
+      "added_at": "2024-08-23 15:12:14",
+      "album": {
+        "name": "Cherry In Tacoma",
+        "url": "https://open.spotify.com/album/32peyMgk2J7Ro7X6rLjxZR"
+      },
+      "artists": [
+        {
+          "name": "Benjamin Francis Leftwich",
+          "url": "https://open.spotify.com/artist/7D5oTJSXSHf51auG0106CQ"
+        }
+      ],
+      "duration_ms": 222866,
+      "name": "Cherry In Tacoma",
+      "url": "https://open.spotify.com/track/09oUu07p0Hp845lehhYsYG"
     },
     {
       "added_at": "2024-08-23 15:12:14",

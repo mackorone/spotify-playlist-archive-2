@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4O9Rrfx5EO3.md) - [plain]
 
 > Music from "LoveLive! Series"「ラブライブ！シリーズ」の楽曲をプレイリストで。©2013 PL! ©2017 PL!S ©2024 PL!NM ©2024 PL!SP ©2026 PL!HS ©PL!SIM ©IKZL
 
-[Spotify](https://open.spotify.com/user/spotify) - 2,250 likes - 73 songs - 5 hr 6 min
+[Spotify](https://open.spotify.com/user/spotify) - 2,262 likes - 73 songs - 5 hr 6 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -82,4 +82,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4O9Rrfx5EO3.md) - [plain]
 | 72 | [意識し合うとか惹かれ合うとか](https://open.spotify.com/track/2C5g8qgE3LKMLTyGnS0Ekx) | [スクールアイドルミュージカル](https://open.spotify.com/artist/6imsymLKQPmMWeEwrw3i55) | [椿滝桜女学院高等学校スクールアイドル部 後夜祭アルバム！](https://open.spotify.com/album/6fw18RXMWwf8ULmuALNITE) | 4:01 |
 | 73 | [夢はドコカラ](https://open.spotify.com/track/6WO2yH01MJhapgAPUbCOKx) | [スクールアイドルミュージカル](https://open.spotify.com/artist/6imsymLKQPmMWeEwrw3i55) | [椿滝桜女学院高等学校スクールアイドル部 後夜祭アルバム！](https://open.spotify.com/album/6fw18RXMWwf8ULmuALNITE) | 3:24 |
 
-Snapshot ID: `AAAAAOV6qSdDCouEvH3IOJf5fqof8Ej4`
+Snapshot ID: `AAAAAP5dzVfN14jq+k5ef/U3IhfUI4hk`

@@ -4,7 +4,7 @@
 
 > Down\-tempo and easy listening music\. Cover: Maisie Peters
 
-921 songs - 2 day 1 hr 30 min
+922 songs - 2 day 1 hr 34 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -901,6 +901,7 @@
 | [when the lights go out](https://open.spotify.com/track/3yBDhW2BqKSYgeZWDUIFoF) | [Lara Andallo](https://open.spotify.com/artist/2vUHihKugU0Ml0VZVgzivx) | [when the lights go out](https://open.spotify.com/album/0H3Pt1vUisleTDw1gdkloN) | 3:42 | 2020-04-23 | 2021-05-12 |
 | [Where Did She Go](https://open.spotify.com/track/6GtgLMKmrmICSUUdOHeTUS) | [Harper Finn](https://open.spotify.com/artist/3CUxThJ21i78mhH1FfH55u) | [Where Did She Go](https://open.spotify.com/album/2W6wjoF6jzJa4dEJ2sK6zu) | 2:25 | 2025-03-21 | 2025-08-27 |
 | [Where Our Streets Met](https://open.spotify.com/track/1pdY6AbGcmbev2bBj7ScdA) | [Esha Tewari](https://open.spotify.com/artist/45W0uOq0sDCediEA9i8VJt) | [What Makes a Girl a Girl](https://open.spotify.com/album/4QqoZQ9YV7TOTrkohQQ5pQ) | 3:17 | 2026-04-07 |  |
+| [Where's our love](https://open.spotify.com/track/6AY5CGFIlmUSFGhz3b7rXX) | [Macklemore](https://open.spotify.com/artist/3JhNCzhSMTxs9WLGJJxWOY) | [Where's our love](https://open.spotify.com/album/6ooTcopS5BYCcQjakxP3O5) | 3:57 | 2026-11-26 |  |
 | [Whirlwind](https://open.spotify.com/track/4FdlrVG63Nsx9I7dBtsh6J) | [Sam Ryder](https://open.spotify.com/artist/1rvnJJghrxl1xakJZct08m) | [Whirlwind](https://open.spotify.com/album/419Peyo7a60OWSj0M03YQY) | 3:28 | 2021-02-26 | 2025-08-27 |
 | [Who I Am](https://open.spotify.com/track/1ANsuCNluOIsq35MDRk8Hr) | [NIve](https://open.spotify.com/artist/1qOPo6b0U3t7BpyO8Ti1MF) | [Who I Am](https://open.spotify.com/album/2m5dpEbMwgMyiRVFZDzDTC) | 3:24 | 2019-08-27\* | 2019-11-11 |
 | [Who's Laughing Now](https://open.spotify.com/track/73h4oe03sZy8bXfQLfnqMv) | [Ava Max](https://open.spotify.com/artist/4npEfmQ6YuiwW1GpUmaq3F) | [Who's Laughing Now](https://open.spotify.com/album/4mxU9BZA47n0hZbQ220Q5B) | 3:00 | 2020-07-31 | 2021-05-12 |

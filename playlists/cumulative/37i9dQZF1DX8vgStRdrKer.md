@@ -4,7 +4,7 @@
 
 > This playlist features gospel songs from Africa and beyond aimed at bringing you up close with the Lord\. Cover:  Mercy Chinwo
 
-908 songs - 3 day 8 hr 42 min
+909 songs - 3 day 8 hr 54 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -18,6 +18,7 @@
 | [Abide](https://open.spotify.com/track/5vyCmTsxxRdAQEpEcCxZ7Z) | [Ryan Ofei](https://open.spotify.com/artist/1pQ5oAMGcFhkkuLqGJQUCd) | [Abide](https://open.spotify.com/album/033oTE2UMHHRG3utN87UvR) | 3:01 | 2024-06-07 | 2024-08-07 |
 | [Adonai](https://open.spotify.com/track/3TEHgvwiuZ2NsGfKohjOlF) | [Jvson](https://open.spotify.com/artist/0CbUlmC1cMua8bl6aQvP6F), [LAMB CULTURE.](https://open.spotify.com/artist/7ekDyLis0zh78DffR8wjW9) | [Adonai](https://open.spotify.com/album/124CGwgNr7JQ2ZRerZ8tba) | 2:07 | 2025-06-06 | 2026-01-06 |
 | [Adonai](https://open.spotify.com/track/1YJu9epNBMoQfF1EffjwiY) | [Pastor Courage](https://open.spotify.com/artist/2nV5a438DY93kAsO6EdWWf) | [Adonai](https://open.spotify.com/album/6FLiEFzCVibo1ptdlzXP4D) | 4:09 | 2023-10-20 | 2024-03-16 |
+| [Adonai \- Live](https://open.spotify.com/track/56fIx7nmkAljyxHGRvGtLa) | [Neon Adejo](https://open.spotify.com/artist/1Ywypkj7wYHenVdKnsp3Nn), [Victor Thompson](https://open.spotify.com/artist/5c0lDrNyT2RnFhujZpPIas) | [Adonai \(Live\)](https://open.spotify.com/album/3BXk9P6kin2aBqy8XdYNkE) | 12:03 | 2026-11-20 |  |
 | [Adoration](https://open.spotify.com/track/47odPUY0DR9vwPK6wkWGfu) | [Jvson](https://open.spotify.com/artist/0CbUlmC1cMua8bl6aQvP6F), [LAMB CULTURE.](https://open.spotify.com/artist/7ekDyLis0zh78DffR8wjW9) | [Adoration](https://open.spotify.com/album/62rPi7vLE3GCusBcXIcAYC) | 2:35 | 2025-10-17 |  |
 | [Adoration Song](https://open.spotify.com/track/3vQjVnBVCwpiJg6mwNMwGT) | [Mark & Sarah Tillman](https://open.spotify.com/artist/4GdeUL15baI90obDfYOvqX), [Kingdmusic](https://open.spotify.com/artist/3BJmyFO1PAwy3kW5YzdvQL) | [Adoration Song \(Radio Edit\)](https://open.spotify.com/album/014LujBDnTwzCxIgyIZ6nV) | 4:27 | 2024-11-01 | 2024-12-24 |
 | [Adore You](https://open.spotify.com/track/1tLgZAYwJ3nzoJaCgyAj4I) | [Malcolm Rue](https://open.spotify.com/artist/22eqNziE8ta7JfDrEkUx8H), [nina shezz](https://open.spotify.com/artist/3Ikru0a7ptudLEI5kBRdw8), [Nicole Muwanguzi](https://open.spotify.com/artist/4VxJ2U3lwbVzELpy79S03b) | [Adore You](https://open.spotify.com/album/5GV2IQqxEByoiovHXo3FsK) | 2:46 | 2024-03-08 | 2024-04-20 |
@@ -902,7 +903,7 @@
 | [You Are The Reason](https://open.spotify.com/track/3D2Q41aYlsxIeVVNZelWkd) | [Toyin Ogunniyi](https://open.spotify.com/artist/485KdhvKOxbZt0CDo0fdAx) | [You Are The Reason](https://open.spotify.com/album/0J0hZeitQaKoLa5RPW8ob2) | 3:50 | 2025-06-27 | 2025-09-06 |
 | [You Are There](https://open.spotify.com/track/3EAHBjhFMwuIdAS5FodQTF) | [Yinka Okeleye](https://open.spotify.com/artist/0QD66eLbMvlwcjQVUtKpo9), [Olamiji Rasheed](https://open.spotify.com/artist/797ilaBFnTzTvavwB225LX) | [You Are There](https://open.spotify.com/album/0rFk98XNaIJkoPATUDYCjm) | 6:21 | 2026-02-20 | 2026-05-22 |
 | [You Are Worthy](https://open.spotify.com/track/0KvOZwao4GyQ1WZm56EFx0) | [E\-Daniels](https://open.spotify.com/artist/03upCtYnA658rlthncydHW) | [You Are Worthy](https://open.spotify.com/album/6kKGBL4RrqvY1H3LZeDwqn) | 7:20 | 2026-07-03 | 2026-07-29 |
-| [You Are Worthy \- Live](https://open.spotify.com/track/6ZTsQQt8hgTLyKH50hvaeS) | [Folabi Nuel](https://open.spotify.com/artist/0zBTbtoYVNCJmbN3MWHcRe) | [We Feel Heaven \(Live\)](https://open.spotify.com/album/2sc99XQsr6JpXx1Iv2pNAn) | 6:09 | 2026-10-30 |  |
+| [You Are Worthy \- Live](https://open.spotify.com/track/6ZTsQQt8hgTLyKH50hvaeS) | [Folabi Nuel](https://open.spotify.com/artist/0zBTbtoYVNCJmbN3MWHcRe) | [We Feel Heaven \(Live\)](https://open.spotify.com/album/2sc99XQsr6JpXx1Iv2pNAn) | 6:09 | 2026-10-30 | 2026-11-26 |
 | [You Are Worthy \- Live](https://open.spotify.com/track/2HDj8uoFY2EnsxaxmIvuHN) | [Sunday Ekaidem](https://open.spotify.com/artist/6XrqMdeVSpWDBzNCzzVKob), [E\-Daniels](https://open.spotify.com/artist/03upCtYnA658rlthncydHW) | [You Are Worthy \(Live\)](https://open.spotify.com/album/7GLUBWewijYpmWRu4G58Go) | 9:17 | 2026-09-25 |  |
 | [You are Yahweh](https://open.spotify.com/track/1FubXlwFRsFyyeqH5KodDG) | [Steve Crown](https://open.spotify.com/artist/6ssJ7jGUrvWN8XZjggRBF3) | [Faith is Rising](https://open.spotify.com/album/18nzvmXhBvp2i4Rj5kgkQs) | 4:39 | 2023-09-15 | 2024-03-16 |
 | [You Do All](https://open.spotify.com/track/4W9LFXWcFmPUbSFaEMKIwE) | [richieo](https://open.spotify.com/artist/1I0DhnrGCFdgRHreaYacf0) | [You Do All](https://open.spotify.com/album/5THGF7t8qOhlRhKX3MtPfl) | 3:21 | 2025-07-04 | 2025-07-25 |

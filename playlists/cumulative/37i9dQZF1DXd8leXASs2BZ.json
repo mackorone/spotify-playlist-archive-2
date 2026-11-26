@@ -40293,6 +40293,32 @@
     },
     {
       "album": {
+        "name": "YSL",
+        "url": "https://open.spotify.com/album/7IUeUQ9Y7r4Iz1LViOlYQ8"
+      },
+      "artists": [
+        {
+          "name": "Chxef You",
+          "url": "https://open.spotify.com/artist/30oeyH05axPz4P7Yi7HTXH"
+        },
+        {
+          "name": "esca",
+          "url": "https://open.spotify.com/artist/3wz5kv7lmXy72wJdV6m7Kk"
+        },
+        {
+          "name": "Ghostsound",
+          "url": "https://open.spotify.com/artist/3MNsFAAMXgO0yo3l16cABv"
+        }
+      ],
+      "date_added": "2026-11-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 213572,
+      "name": "YSL",
+      "url": "https://open.spotify.com/track/1syEdeohNZ2utUnx3qRGoB"
+    },
+    {
+      "album": {
         "name": "YUKI",
         "url": "https://open.spotify.com/album/3kVh6iJsBiSex81wQvgJc2"
       },

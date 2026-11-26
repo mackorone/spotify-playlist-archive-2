@@ -1,12 +1,12 @@
 {
   "description": "bold tracks, serious swagger.",
-  "num_followers": 1361489,
+  "num_followers": 1361430,
   "original_name": "Swagger",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAIOyY1y0sdW93lZEwFlG2TJlsBIS",
+  "snapshot_id": "AAAAAOlu0K+dKgHJFS1KNZ6qFJQdXonB",
   "tracks": [
     {
       "added_at": "2024-08-23 15:39:31",
@@ -659,6 +659,22 @@
     {
       "added_at": "2024-08-23 15:39:31",
       "album": {
+        "name": "Axis Mundi",
+        "url": "https://open.spotify.com/album/1Br1pBqY2XH6L3cQpNUFLY"
+      },
+      "artists": [
+        {
+          "name": "Brown Bird",
+          "url": "https://open.spotify.com/artist/5zzbSFZMVpvxSlWAkqqtHP"
+        }
+      ],
+      "duration_ms": 273866,
+      "name": "Smoke Rising",
+      "url": "https://open.spotify.com/track/54d6U1U3Y74mDmJJECZNNQ"
+    },
+    {
+      "added_at": "2024-08-23 15:39:31",
+      "album": {
         "name": "GREAT NIGHT (feat. Shovels & Rope)",
         "url": "https://open.spotify.com/album/0DzSbOJZt5KxkQnTolpYgA"
       },
@@ -675,22 +691,6 @@
       "duration_ms": 175680,
       "name": "GREAT NIGHT (feat. Shovels & Rope)",
       "url": "https://open.spotify.com/track/53xIMpFKswj3mqbPuiFJC0"
-    },
-    {
-      "added_at": "2024-08-23 15:39:31",
-      "album": {
-        "name": "Axis Mundi",
-        "url": "https://open.spotify.com/album/1Br1pBqY2XH6L3cQpNUFLY"
-      },
-      "artists": [
-        {
-          "name": "Brown Bird",
-          "url": "https://open.spotify.com/artist/5zzbSFZMVpvxSlWAkqqtHP"
-        }
-      ],
-      "duration_ms": 273866,
-      "name": "Smoke Rising",
-      "url": "https://open.spotify.com/track/54d6U1U3Y74mDmJJECZNNQ"
     },
     {
       "added_at": "2024-08-23 15:39:31",

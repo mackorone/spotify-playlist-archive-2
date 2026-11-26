@@ -2,19 +2,19 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUTC08ZxLjSQ.md) - [plain]
 
 ### [Fresh Finds Arabia](https://open.spotify.com/playlist/37i9dQZF1DWUTC08ZxLjSQ)
 
-> The best new music by independent artists and labels from the MENA region\. Updates every Wednesday\. Cover: Alshaikh\. Artwork: Isu Kim
+> The best new music by independent artists and labels from the MENA region\. Updates every Wednesday\. Cover: Milo\. Artwork: Isu Kim
 
-[Spotify](https://open.spotify.com/user/spotify) - 15,898 likes - 75 songs - 3 hr 44 min
+[Spotify](https://open.spotify.com/user/spotify) - 15,910 likes - 75 songs - 3 hr 44 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
-| 1 | [RONALDO](https://open.spotify.com/track/31MCc2B0eHOCKLjjoiCVE6) | [Alshaikh](https://open.spotify.com/artist/7MgFtgGEvXlgQOVw07qHJ2) | [RONALDO](https://open.spotify.com/album/7KSLKF4rd4OQJZu4BxHr5r) | 2:48 |
-| 2 | [Fe Sanya](https://open.spotify.com/track/6aigpacaG47ZngBSVckCh8) | [Hasnaa](https://open.spotify.com/artist/6SKtCxfqVRlTtxKZOlh6H6), [el\-Maghrabi](https://open.spotify.com/artist/2cyinXFWqn5knXAPkwxznJ) | [Fe Sanya](https://open.spotify.com/album/5j42zMV14YHBsdj6XsqkVu) | 3:32 |
-| 3 | [الدنيا حلوة](https://open.spotify.com/track/3dL0SPbACIYAXkMpjuVGm6) | [Crashendo](https://open.spotify.com/artist/2zC5ghA71eHQekiHCaLolD) | [الدنيا حلوة](https://open.spotify.com/album/6rRZktFBhMdgRN6R5Xr8fs) | 3:33 |
-| 4 | [Mi amore](https://open.spotify.com/track/3W6UUGz9IOYmdgH2sDP7dW) | [KAPO](https://open.spotify.com/artist/4wBIRnApFLa3Bg0kCwSM1k) | [Chambre 7](https://open.spotify.com/album/0lYmNBWy9mfUf42Wlk7RYs) | 2:41 |
-| 5 | [3Lafekra](https://open.spotify.com/track/4RNzC5hvSCqt6Lva182bKj) | [Omaarr](https://open.spotify.com/artist/40f8gJJimKAaU6IJsU5N2M) | [3Lafekra](https://open.spotify.com/album/1oak3gCOnKERIyG2QN4ZFg) | 3:11 |
-| 6 | [Al Jannani \- الجنني](https://open.spotify.com/track/0CcFczsg4S3X8zliQ6wulw) | [Jafar amin](https://open.spotify.com/artist/5K2jz523RQaW8D6JpSqNLI) | [Al Jannani \- الجنني](https://open.spotify.com/album/6kSO4H7WtuGk5jmPFJ5DrK) | 2:37 |
-| 7 | [RADAR](https://open.spotify.com/track/06McU6WqFd04gcP7OT64e4) | [ميلو](https://open.spotify.com/artist/3mXE7BL3H3oCL16lpDtycN), [Andrew Amir](https://open.spotify.com/artist/7fTioWTi2v7zik4MMkHRsC) | [Underground](https://open.spotify.com/album/2uI4qM6Z4WXGK1b2VWVUsf) | 2:20 |
+| 1 | [RADAR](https://open.spotify.com/track/06McU6WqFd04gcP7OT64e4) | [ميلو](https://open.spotify.com/artist/3mXE7BL3H3oCL16lpDtycN), [Andrew Amir](https://open.spotify.com/artist/7fTioWTi2v7zik4MMkHRsC) | [Underground](https://open.spotify.com/album/2uI4qM6Z4WXGK1b2VWVUsf) | 2:20 |
+| 2 | [RONALDO](https://open.spotify.com/track/31MCc2B0eHOCKLjjoiCVE6) | [Alshaikh](https://open.spotify.com/artist/7MgFtgGEvXlgQOVw07qHJ2) | [RONALDO](https://open.spotify.com/album/7KSLKF4rd4OQJZu4BxHr5r) | 2:48 |
+| 3 | [Fe Sanya](https://open.spotify.com/track/6aigpacaG47ZngBSVckCh8) | [Hasnaa](https://open.spotify.com/artist/6SKtCxfqVRlTtxKZOlh6H6), [el\-Maghrabi](https://open.spotify.com/artist/2cyinXFWqn5knXAPkwxznJ) | [Fe Sanya](https://open.spotify.com/album/5j42zMV14YHBsdj6XsqkVu) | 3:32 |
+| 4 | [الدنيا حلوة](https://open.spotify.com/track/3dL0SPbACIYAXkMpjuVGm6) | [Crashendo](https://open.spotify.com/artist/2zC5ghA71eHQekiHCaLolD) | [الدنيا حلوة](https://open.spotify.com/album/6rRZktFBhMdgRN6R5Xr8fs) | 3:33 |
+| 5 | [Mi amore](https://open.spotify.com/track/3W6UUGz9IOYmdgH2sDP7dW) | [KAPO](https://open.spotify.com/artist/4wBIRnApFLa3Bg0kCwSM1k) | [Chambre 7](https://open.spotify.com/album/0lYmNBWy9mfUf42Wlk7RYs) | 2:41 |
+| 6 | [3Lafekra](https://open.spotify.com/track/4RNzC5hvSCqt6Lva182bKj) | [Omaarr](https://open.spotify.com/artist/40f8gJJimKAaU6IJsU5N2M) | [3Lafekra](https://open.spotify.com/album/1oak3gCOnKERIyG2QN4ZFg) | 3:11 |
+| 7 | [Al Jannani \- الجنني](https://open.spotify.com/track/0CcFczsg4S3X8zliQ6wulw) | [Jafar amin](https://open.spotify.com/artist/5K2jz523RQaW8D6JpSqNLI) | [Al Jannani \- الجنني](https://open.spotify.com/album/6kSO4H7WtuGk5jmPFJ5DrK) | 2:37 |
 | 8 | [Love & Hayt](https://open.spotify.com/track/30RCUXZSDyLOqAeuAujSu5) | [Aziz Konkrite](https://open.spotify.com/artist/7s8PJjvTY4nc7BCgCpB4Ok) | [Siba Sawt\-System \#2](https://open.spotify.com/album/0o6l9J6NUWLeAjyLjvyaIr) | 7:21 |
 | 9 | [كل كلام الحب](https://open.spotify.com/track/4pp622Q93BjAtPPgF5PNXN) | [JUNIOR](https://open.spotify.com/artist/4gS38VxzflJMo9yt0wrlfv) | [كل كلام الحب](https://open.spotify.com/album/4sWLdKF5HuuYCKiMGTG4wH) | 3:24 |
 | 10 | [Mahontsh](https://open.spotify.com/track/5YwqzqGDFcP7gDCMDq4BVY) | [JAY](https://open.spotify.com/artist/0KhSPJdSH0IB1sLBp8Sdqs) | [Mahontsh](https://open.spotify.com/album/4VJpurmVFbMEZc9QEzGbuo) | 3:13 |
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUTC08ZxLjSQ.md) - [plain]
 | 74 | [Mashy Fe Tare2](https://open.spotify.com/track/50Tkn3IN2WVVTCnj0Imcy9) | [Bloodymarry](https://open.spotify.com/artist/4uEN26MTdsYpNuYdTYDQ40), [ZozRealStar](https://open.spotify.com/artist/24qBUbjR4lhdpmEDjEEL9b) | [DAH A2AL 7AGA 3ANDI](https://open.spotify.com/album/2uv1BRBbqMOmsyFSEImkGb) | 3:25 |
 | 75 | [Why?](https://open.spotify.com/track/7qFf6SSOAMxcg504aH6B24) | [MARCELINA](https://open.spotify.com/artist/40uwOoRjkCTQY2hlBr0qQi) | [Stargirl](https://open.spotify.com/album/0qmt9MtZFWsxzxh53yxiH7) | 3:45 |
 
-Snapshot ID: `AAAAAKmJpsB0PwhisdlJ6ZdpBFvyMzB2`
+Snapshot ID: `AAAAAFtqsSJYoW7XKGZv8SNDM/bCdaw4`

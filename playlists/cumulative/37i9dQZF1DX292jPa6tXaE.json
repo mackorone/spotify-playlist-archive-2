@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2024-07-05",
-  "description": "Discover the future of Punjabi Pop! Cover: CheemaBeatz",
+  "description": "Discover the future of Punjabi Pop! Cover: Romeo",
   "name": "Fresh Finds Punjabi",
   "tracks": [
     {
@@ -302,6 +302,32 @@
       "duration_ms": 180000,
       "name": "Aadat",
       "url": "https://open.spotify.com/track/4lPZ7FCCAPAMud8boWD2xG"
+    },
+    {
+      "album": {
+        "name": "Aadat",
+        "url": "https://open.spotify.com/album/3oBQTJCxyNnixonc60CB8b"
+      },
+      "artists": [
+        {
+          "name": "Harp Sandhu",
+          "url": "https://open.spotify.com/artist/1JzRelN2f5QsdRjksplAof"
+        },
+        {
+          "name": "Little Boi",
+          "url": "https://open.spotify.com/artist/4rgTolxMdRlzcWwUNz7seh"
+        },
+        {
+          "name": "Akash Kohala",
+          "url": "https://open.spotify.com/artist/1cZb6UR2SpaUwGpNqTMIDG"
+        }
+      ],
+      "date_added": "2026-11-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 112653,
+      "name": "Aadat",
+      "url": "https://open.spotify.com/track/5rF9OwiBBAZmlXAyXVWvhg"
     },
     {
       "album": {
@@ -6710,7 +6736,7 @@
       ],
       "date_added": "2026-09-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-26",
       "duration_ms": 171500,
       "name": "Jindiye",
       "url": "https://open.spotify.com/track/2gjPGsQ74xkHVUnvHBuLJi"
@@ -8485,6 +8511,28 @@
     },
     {
       "album": {
+        "name": "Malaal",
+        "url": "https://open.spotify.com/album/5A8Cj5FUT5mELrlT8Y0kka"
+      },
+      "artists": [
+        {
+          "name": "GTrax",
+          "url": "https://open.spotify.com/artist/4TTvhD8krNUGdQ5Q2ACFSI"
+        },
+        {
+          "name": "RxPin",
+          "url": "https://open.spotify.com/artist/5jtdx49qkQ4ob0SLUFVjwh"
+        }
+      ],
+      "date_added": "2026-11-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 192000,
+      "name": "Malaal",
+      "url": "https://open.spotify.com/track/3ywda6TDqA4GnAQytuoZBq"
+    },
+    {
+      "album": {
         "name": "Malwain",
         "url": "https://open.spotify.com/album/6gBOVi9Pn6lFcbKiaKgQzd"
       },
@@ -8964,7 +9012,7 @@
       ],
       "date_added": "2026-09-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-26",
       "duration_ms": 156831,
       "name": "Meri Ashique",
       "url": "https://open.spotify.com/track/5nI8bRAHU0BUQvubxcsPnB"
@@ -9244,6 +9292,28 @@
       "duration_ms": 275659,
       "name": "Mohobbat Chor Di",
       "url": "https://open.spotify.com/track/2NdHcpOFnjKZTcEuKYTrSf"
+    },
+    {
+      "album": {
+        "name": "Mon Amoure",
+        "url": "https://open.spotify.com/album/3ipkKlNUvxEpOx5qpHHvgG"
+      },
+      "artists": [
+        {
+          "name": "Gurnoor aujla",
+          "url": "https://open.spotify.com/artist/3rBWcWfxIutMUJIh35jffp"
+        },
+        {
+          "name": "Gur Aulakh",
+          "url": "https://open.spotify.com/artist/4VmyHpdcbMcIM7DwuiTA5R"
+        }
+      ],
+      "date_added": "2026-11-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 199148,
+      "name": "Mon Amoure",
+      "url": "https://open.spotify.com/track/4uExy2cYhoqNhOygHlvdtx"
     },
     {
       "album": {
@@ -10405,6 +10475,28 @@
     },
     {
       "album": {
+        "name": "Call Of LOVE",
+        "url": "https://open.spotify.com/album/6UFim7VKVYDQOBU15xDFLx"
+      },
+      "artists": [
+        {
+          "name": "Romeo",
+          "url": "https://open.spotify.com/artist/3o1pLyObxnq3dvXPj1IKZd"
+        },
+        {
+          "name": "Diamond",
+          "url": "https://open.spotify.com/artist/2FsgnpXcftQH9HppbO1DeC"
+        }
+      ],
+      "date_added": "2026-11-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 121514,
+      "name": "OBSESSION",
+      "url": "https://open.spotify.com/track/4QTsBehFbVaeLxu03KgNjr"
+    },
+    {
+      "album": {
         "name": "Show Time",
         "url": "https://open.spotify.com/album/75BRHh6C3J3xU7Ew94M9t0"
       },
@@ -10596,7 +10688,7 @@
       ],
       "date_added": "2026-09-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-26",
       "duration_ms": 135903,
       "name": "Pagal",
       "url": "https://open.spotify.com/track/2HVf0eziDUJjm2DcGmBZP3"
@@ -11130,6 +11222,32 @@
       "duration_ms": 159088,
       "name": "Prime Call",
       "url": "https://open.spotify.com/track/2eks9h0d4JOSjlxbEJDvqB"
+    },
+    {
+      "album": {
+        "name": "Prime Era",
+        "url": "https://open.spotify.com/album/5OrIoP9ariCyjLO0XS2YOs"
+      },
+      "artists": [
+        {
+          "name": "Kayreee",
+          "url": "https://open.spotify.com/artist/1Gs7FGo8aNDaAfBF1nOJAZ"
+        },
+        {
+          "name": "Venkat's Music",
+          "url": "https://open.spotify.com/artist/50pXQuadXBIpei1i9qb6nh"
+        },
+        {
+          "name": "Rollin",
+          "url": "https://open.spotify.com/artist/0wcfwxyTLEXKrV085sXTCz"
+        }
+      ],
+      "date_added": "2026-11-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 156521,
+      "name": "Prime Era",
+      "url": "https://open.spotify.com/track/2Qs1T48DfGBqP6B7QbXjky"
     },
     {
       "album": {
@@ -13788,7 +13906,7 @@
       ],
       "date_added": "2026-09-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-26",
       "duration_ms": 157714,
       "name": "Tera Naa",
       "url": "https://open.spotify.com/track/1jG6XJCy7WlV1WAYoYjyjk"
@@ -14264,7 +14382,7 @@
       ],
       "date_added": "2026-09-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-26",
       "duration_ms": 165647,
       "name": "Trust",
       "url": "https://open.spotify.com/track/4bGsVhd6CodNmlzAjiLSw3"

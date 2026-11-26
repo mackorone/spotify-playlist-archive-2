@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcWL5K0oNHcG.md) - [plain]
 
 > Fresh jazz by independent artists every Wednesday\. Cover: Zohar & Adam Artwork: Joy Yamusangie.
 
-[Spotify](https://open.spotify.com/user/spotify) - 247,580 likes - 50 songs - 3 hr 47 min
+[Spotify](https://open.spotify.com/user/spotify) - 247,605 likes - 50 songs - 3 hr 47 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcWL5K0oNHcG.md) - [plain]
 | 49 | [Prelude To A Kiss](https://open.spotify.com/track/5pLEYr7fOqi0My5ldsmX6v) | [Ari Alexander](https://open.spotify.com/artist/5TUPHEJx8yYHZvPg80482h), [Cecil Alexander](https://open.spotify.com/artist/42oLcqYpvwyPY5BZO6oqfa) | [Prelude To A Kiss](https://open.spotify.com/album/1Oq86wfztU3dBR2YFW7Qb1) | 3:30 |
 | 50 | [The Leopard](https://open.spotify.com/track/13ZlexU7MfJDpOe9MsaEOR) | [Raffy Bushman](https://open.spotify.com/artist/4xX2QeWsypmEv9w4u9P6xC) | [The Leopard](https://open.spotify.com/album/4wDM8A678qr8cwtmT8Y357) | 5:10 |
 
-Snapshot ID: `AAAAAJn2UvDBqnhMy6wIT1rbZvogMEP5`
+Snapshot ID: `AAAAAN+OyevN7PYbuYWSfR0d7A4sC7og`

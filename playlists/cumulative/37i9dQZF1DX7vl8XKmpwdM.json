@@ -99,6 +99,40 @@
     },
     {
       "album": {
+        "name": "Aachi Aachi (From \"Inji Vellam\")",
+        "url": "https://open.spotify.com/album/1kh5N4HNo4AnNstoL8q2PT"
+      },
+      "artists": [
+        {
+          "name": "A.R. Rahman",
+          "url": "https://open.spotify.com/artist/1mYsTxnqsietFxj1OgoGbG"
+        },
+        {
+          "name": "Vaishali Samant",
+          "url": "https://open.spotify.com/artist/2zGP2SUtwsDhdyYzf0kKp8"
+        },
+        {
+          "name": "Sharanya Srinivas",
+          "url": "https://open.spotify.com/artist/26tzHBE89rz5MSLeSi3qsB"
+        },
+        {
+          "name": "Ilango Krishnan",
+          "url": "https://open.spotify.com/artist/58SpQmXPEzBZ5edRGCj8xo"
+        },
+        {
+          "name": "Vinayak Sasikumar",
+          "url": "https://open.spotify.com/artist/51jfCC7m2rTGPDz06E2nvS"
+        }
+      ],
+      "date_added": "2026-11-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 230576,
+      "name": "Aachi Aachi (From \"Inji Vellam\")",
+      "url": "https://open.spotify.com/track/1ddq1BdHfzGjGRgMQcCz4n"
+    },
+    {
+      "album": {
         "name": "Aadiney Irupen (From \"Happy Raj\")",
         "url": "https://open.spotify.com/album/6AnXjaWLA1d3jXHWtdP2Kp"
       },
@@ -2158,7 +2192,7 @@
       ],
       "date_added": "2026-06-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-26",
       "duration_ms": 128484,
       "name": "Ey Maanuda (From \"Sing Geetham\")",
       "url": "https://open.spotify.com/track/5Rmtxh4G1UaRBIlMXmvTSy"

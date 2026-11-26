@@ -1,12 +1,12 @@
 {
   "description": "heartbreak feels good in a place like sad hour, with Sienna Spiro",
-  "num_followers": 2390293,
+  "num_followers": 2390317,
   "original_name": "sad hour",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAH0xU0VUMBaoL5glnzTQ/Ncvnd72",
+  "snapshot_id": "AAAAAJnpr51f/NKZdtKfGFJ4bi0UBm9M",
   "tracks": [
     {
       "added_at": "2026-08-21 04:00:24",
@@ -153,22 +153,6 @@
       "url": "https://open.spotify.com/track/5CZ40GBx1sQ9agT82CLQCT"
     },
     {
-      "added_at": "2026-08-21 04:00:24",
-      "album": {
-        "name": "Visitor",
-        "url": "https://open.spotify.com/album/1Aye7tEOHfJ3hDJIeJFggF"
-      },
-      "artists": [
-        {
-          "name": "SIENNA SPIRO",
-          "url": "https://open.spotify.com/artist/02gSuSAWEdWa5UOvqzjX6v"
-        }
-      ],
-      "duration_ms": 219924,
-      "name": "Pure",
-      "url": "https://open.spotify.com/track/31IKMjvv6Oskp4hjGVeYsT"
-    },
-    {
       "added_at": "2026-08-07 04:02:17",
       "album": {
         "name": "The Great Divide",
@@ -183,6 +167,22 @@
       "duration_ms": 297262,
       "name": "Willing and Able",
       "url": "https://open.spotify.com/track/6pk6E0SZxILzfaAGFngxEs"
+    },
+    {
+      "added_at": "2026-08-21 04:00:24",
+      "album": {
+        "name": "Visitor",
+        "url": "https://open.spotify.com/album/1Aye7tEOHfJ3hDJIeJFggF"
+      },
+      "artists": [
+        {
+          "name": "SIENNA SPIRO",
+          "url": "https://open.spotify.com/artist/02gSuSAWEdWa5UOvqzjX6v"
+        }
+      ],
+      "duration_ms": 219924,
+      "name": "Pure",
+      "url": "https://open.spotify.com/track/31IKMjvv6Oskp4hjGVeYsT"
     },
     {
       "added_at": "2025-02-04 01:32:59",
@@ -1329,6 +1329,22 @@
       "url": "https://open.spotify.com/track/13T1nG7nwaoF8EUUwAQnlp"
     },
     {
+      "added_at": "2026-11-22 17:25:14",
+      "album": {
+        "name": "Back To Me",
+        "url": "https://open.spotify.com/album/16dAtPh8XVKMbfiLcgZyiq"
+      },
+      "artists": [
+        {
+          "name": "Na\u00efka",
+          "url": "https://open.spotify.com/artist/4tk2WUKBOS9nKZj7bPQIXT"
+        }
+      ],
+      "duration_ms": 185680,
+      "name": "Back To Me",
+      "url": "https://open.spotify.com/track/5uvjVYv3FKBNnGkR8mnHws"
+    },
+    {
       "added_at": "2024-09-13 04:05:55",
       "album": {
         "name": "Who Do I Call Now? (Hellbent)",
@@ -1359,22 +1375,6 @@
       "duration_ms": 219120,
       "name": "Space Between",
       "url": "https://open.spotify.com/track/49zQ9uJk6ssNFUYeqUmMwq"
-    },
-    {
-      "added_at": "2026-11-22 17:25:14",
-      "album": {
-        "name": "Back To Me",
-        "url": "https://open.spotify.com/album/16dAtPh8XVKMbfiLcgZyiq"
-      },
-      "artists": [
-        {
-          "name": "Na\u00efka",
-          "url": "https://open.spotify.com/artist/4tk2WUKBOS9nKZj7bPQIXT"
-        }
-      ],
-      "duration_ms": 185680,
-      "name": "Back To Me",
-      "url": "https://open.spotify.com/track/5uvjVYv3FKBNnGkR8mnHws"
     },
     {
       "added_at": "2025-11-07 05:00:51",
@@ -1409,22 +1409,6 @@
       "url": "https://open.spotify.com/track/4d2ZJ9W7dkQuITwUCTuD5n"
     },
     {
-      "added_at": "2026-10-09 04:00:45",
-      "album": {
-        "name": "Still Somewhere Here",
-        "url": "https://open.spotify.com/album/1109HrTid5HIXWEFPHKpAh"
-      },
-      "artists": [
-        {
-          "name": "Sofia Camara",
-          "url": "https://open.spotify.com/artist/5bdLfpk3TpFVwrlHWmPL55"
-        }
-      ],
-      "duration_ms": 234040,
-      "name": "Unlike You",
-      "url": "https://open.spotify.com/track/6e9Cu6KNAimXTlhuDNAWc7"
-    },
-    {
       "added_at": "2024-09-13 04:05:55",
       "album": {
         "name": "NEVER ENOUGH (Bonus Version)",
@@ -1439,6 +1423,22 @@
       "duration_ms": 225312,
       "name": "Always",
       "url": "https://open.spotify.com/track/71XJNtOdwmL1UWOQQvsKoH"
+    },
+    {
+      "added_at": "2026-10-09 04:00:45",
+      "album": {
+        "name": "Still Somewhere Here",
+        "url": "https://open.spotify.com/album/1109HrTid5HIXWEFPHKpAh"
+      },
+      "artists": [
+        {
+          "name": "Sofia Camara",
+          "url": "https://open.spotify.com/artist/5bdLfpk3TpFVwrlHWmPL55"
+        }
+      ],
+      "duration_ms": 234040,
+      "name": "Unlike You",
+      "url": "https://open.spotify.com/track/6e9Cu6KNAimXTlhuDNAWc7"
     },
     {
       "added_at": "2025-07-11 04:00:20",
@@ -1489,22 +1489,6 @@
       "url": "https://open.spotify.com/track/4auleugEuixANOIzt8cutq"
     },
     {
-      "added_at": "2025-08-01 04:00:33",
-      "album": {
-        "name": "Parking Lot",
-        "url": "https://open.spotify.com/album/6DvcqZjRJ2f462uQAeHHoG"
-      },
-      "artists": [
-        {
-          "name": "Sofia Camara",
-          "url": "https://open.spotify.com/artist/5bdLfpk3TpFVwrlHWmPL55"
-        }
-      ],
-      "duration_ms": 212092,
-      "name": "Parking Lot",
-      "url": "https://open.spotify.com/track/5AVpEbTcWXVWa4u3VctYDv"
-    },
-    {
       "added_at": "2026-06-26 04:02:15",
       "album": {
         "name": "It Is What It Is",
@@ -1519,6 +1503,22 @@
       "duration_ms": 190794,
       "name": "It Is What It Is",
       "url": "https://open.spotify.com/track/05DdoHON4cgcBxewdCHsSp"
+    },
+    {
+      "added_at": "2025-08-01 04:00:33",
+      "album": {
+        "name": "Parking Lot",
+        "url": "https://open.spotify.com/album/6DvcqZjRJ2f462uQAeHHoG"
+      },
+      "artists": [
+        {
+          "name": "Sofia Camara",
+          "url": "https://open.spotify.com/artist/5bdLfpk3TpFVwrlHWmPL55"
+        }
+      ],
+      "duration_ms": 212092,
+      "name": "Parking Lot",
+      "url": "https://open.spotify.com/track/5AVpEbTcWXVWa4u3VctYDv"
     },
     {
       "added_at": "2024-09-13 04:05:55",
@@ -1697,22 +1697,6 @@
       "url": "https://open.spotify.com/track/1H2kXCdkoYqLjS0iKbWryR"
     },
     {
-      "added_at": "2026-07-24 04:02:03",
-      "album": {
-        "name": "\"forever\"",
-        "url": "https://open.spotify.com/album/03GwlzAfUKRGtr1jI8mSVK"
-      },
-      "artists": [
-        {
-          "name": "Alicia Moffet",
-          "url": "https://open.spotify.com/artist/5ph9A8j6xyDlLNZTqYgNV1"
-        }
-      ],
-      "duration_ms": 210263,
-      "name": "\"forever\"",
-      "url": "https://open.spotify.com/track/4gjGFK3zf2I3Rq6topLZQW"
-    },
-    {
       "added_at": "2024-09-13 04:05:55",
       "album": {
         "name": "Where I've Been, Isn't Where I'm Going",
@@ -1731,6 +1715,22 @@
       "duration_ms": 236012,
       "name": "My Fault (feat. Noah Cyrus)",
       "url": "https://open.spotify.com/track/3T3sbHYwPvhTCfEeUtvbMF"
+    },
+    {
+      "added_at": "2026-07-24 04:02:03",
+      "album": {
+        "name": "\"forever\"",
+        "url": "https://open.spotify.com/album/03GwlzAfUKRGtr1jI8mSVK"
+      },
+      "artists": [
+        {
+          "name": "Alicia Moffet",
+          "url": "https://open.spotify.com/artist/5ph9A8j6xyDlLNZTqYgNV1"
+        }
+      ],
+      "duration_ms": 210263,
+      "name": "\"forever\"",
+      "url": "https://open.spotify.com/track/4gjGFK3zf2I3Rq6topLZQW"
     },
     {
       "added_at": "2026-06-12 13:45:51",
@@ -1837,22 +1837,6 @@
       "url": "https://open.spotify.com/track/2zCQq1vH3QCPfPtrnxIxyK"
     },
     {
-      "added_at": "2026-06-26 04:02:15",
-      "album": {
-        "name": "FRANKENSTEIN",
-        "url": "https://open.spotify.com/album/09av6JLmcwy6qkpuBsM6uN"
-      },
-      "artists": [
-        {
-          "name": "PEGGY",
-          "url": "https://open.spotify.com/artist/1E6ADXoD9nUhFEwKgwjEdh"
-        }
-      ],
-      "duration_ms": 187058,
-      "name": "FRANKENSTEIN",
-      "url": "https://open.spotify.com/track/0tFJn4LFkfvJYpMURjn7Tk"
-    },
-    {
       "added_at": "2026-05-29 04:19:53",
       "album": {
         "name": "BIRTHDAY",
@@ -1883,6 +1867,22 @@
       "duration_ms": 187696,
       "name": "Birthdays & Christmas",
       "url": "https://open.spotify.com/track/7jCTE8bnNMJAuPjakp4luQ"
+    },
+    {
+      "added_at": "2026-06-26 04:02:15",
+      "album": {
+        "name": "FRANKENSTEIN",
+        "url": "https://open.spotify.com/album/09av6JLmcwy6qkpuBsM6uN"
+      },
+      "artists": [
+        {
+          "name": "PEGGY",
+          "url": "https://open.spotify.com/artist/1E6ADXoD9nUhFEwKgwjEdh"
+        }
+      ],
+      "duration_ms": 187058,
+      "name": "FRANKENSTEIN",
+      "url": "https://open.spotify.com/track/0tFJn4LFkfvJYpMURjn7Tk"
     },
     {
       "added_at": "2024-09-13 04:05:55",
@@ -2093,22 +2093,6 @@
       "url": "https://open.spotify.com/track/63r4GdzKCnwc0sq6l79mp0"
     },
     {
-      "added_at": "2026-05-15 04:16:24",
-      "album": {
-        "name": "Hit the Wall",
-        "url": "https://open.spotify.com/album/1jvG5wNg83Bm7ykfjwPHbZ"
-      },
-      "artists": [
-        {
-          "name": "Gracie Abrams",
-          "url": "https://open.spotify.com/artist/4tuJ0bMpJh08umKkEXKUI5"
-        }
-      ],
-      "duration_ms": 194376,
-      "name": "Hit the Wall",
-      "url": "https://open.spotify.com/track/1U90UBmMrQTx9GNweUA4LZ"
-    },
-    {
       "added_at": "2024-09-13 04:05:55",
       "album": {
         "name": "eternal sunshine",
@@ -2139,6 +2123,22 @@
       "duration_ms": 226284,
       "name": "Not Even Gone",
       "url": "https://open.spotify.com/track/2tHFU0czPTYsKckxvUIZKn"
+    },
+    {
+      "added_at": "2026-05-15 04:16:24",
+      "album": {
+        "name": "Hit the Wall",
+        "url": "https://open.spotify.com/album/1jvG5wNg83Bm7ykfjwPHbZ"
+      },
+      "artists": [
+        {
+          "name": "Gracie Abrams",
+          "url": "https://open.spotify.com/artist/4tuJ0bMpJh08umKkEXKUI5"
+        }
+      ],
+      "duration_ms": 194376,
+      "name": "Hit the Wall",
+      "url": "https://open.spotify.com/track/1U90UBmMrQTx9GNweUA4LZ"
     },
     {
       "added_at": "2026-07-24 04:02:03",

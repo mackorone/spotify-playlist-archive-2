@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSBZhfF4ZHr8.md) - [plain]
 
 > Les meilleures nouveautés de la variété française avec Adèle Castillon.
 
-[Spotify](https://open.spotify.com/user/spotify) - 287,237 likes - 50 songs - 2 hr 30 min
+[Spotify](https://open.spotify.com/user/spotify) - 287,213 likes - 50 songs - 2 hr 30 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSBZhfF4ZHr8.md) - [plain]
 | 49 | [Même bois](https://open.spotify.com/track/4EHRdbCLmRnW2jTvaoozh5) | [Asfar Shamsi](https://open.spotify.com/artist/2MbUbqIpGI8JMwweEduYTs) | [Même bois](https://open.spotify.com/album/2pwLtHjerpGX67oFV2GWTE) | 2:36 |
 | 50 | [J'ai pas dit](https://open.spotify.com/track/6jwicegpsLHWMDDD1mTqV2) | [Camille Lellouche](https://open.spotify.com/artist/6os4KQUfJoyJwjZ7y7Ec6Q) | [J'ai pas dit](https://open.spotify.com/album/0aXeJZexnKviJVo0l7dMD6) | 2:52 |
 
-Snapshot ID: `AAAAANckCwzHPFpfYnpL4OCRHmmhaCrE`
+Snapshot ID: `AAAAALwm3J1kUoluUqm2iReSk0Ycr9Kd`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/1nydLfizjzY84t5hAoc5ct.md) - [plain]
 
 > OffAxisTours.com \| Indie \| Folk \| Electro \| Rock \| Pop  \| NO autotune, AI or instrumental
 
-[newfoundsound](https://open.spotify.com/user/newfoundsound) - 1,426 likes - 140 songs - 7 hr 46 min
+[newfoundsound](https://open.spotify.com/user/newfoundsound) - 1,426 likes - 143 songs - 7 hr 57 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -148,5 +148,8 @@ pretty - [cumulative](/playlists/cumulative/1nydLfizjzY84t5hAoc5ct.md) - [plain]
 | 138 | [Walk Away](https://open.spotify.com/track/6SRhnG59jtSpoNOj3VMf16) | [Movin' On](https://open.spotify.com/artist/7G3LHmNxtl1WelzGgy9wPd) | [Walk Away](https://open.spotify.com/album/0pvFPSZrqH4ukQJhq17WGE) | 3:33 |
 | 139 | [take it](https://open.spotify.com/track/2DDQXnc5914t23WufBwDTG) | [Sidewalk](https://open.spotify.com/artist/2fb4tY3yXbMMGACVxem5KU) | [take it](https://open.spotify.com/album/7lLICdixOwEP1ziLx3lreA) | 3:13 |
 | 140 | [in her mind](https://open.spotify.com/track/4S1RoMDPsMuRxjP2zrR4sB) | [Sidewalk](https://open.spotify.com/artist/2fb4tY3yXbMMGACVxem5KU) | [in her mind](https://open.spotify.com/album/4prrhp1PaYncdzHrACrxt2) | 3:56 |
+| 141 | [Lucio](https://open.spotify.com/track/7xPXR60pLWfO7r31BD2O9u) | [Rufus Beckett](https://open.spotify.com/artist/0AuymUdyDnEfryqJuyChJW) | [Lucio](https://open.spotify.com/album/5tyxyirOaO8WxOzDJ0uc0O) | 3:27 |
+| 142 | [Be Here](https://open.spotify.com/track/01zSNbFmzEuxVGcafxQk5l) | [NOSEDIVE](https://open.spotify.com/artist/23mX48p12KAUE0GBtxRb18) | [Surround](https://open.spotify.com/album/5ozlAoqudlcnetPpTT8LCd) | 4:06 |
+| 143 | [Whatever It Takes](https://open.spotify.com/track/18ap9CsKS0ndJofIv5CBzf) | [Jack Given](https://open.spotify.com/artist/54NA5ZY7KPA1IRWhqmnGJ4) | [Whatever It Takes](https://open.spotify.com/album/0ofx6ql6CtdOfrnVyWpmNk) | 3:02 |
 
-Snapshot ID: `AACGmr1xeY9uJbXdZxy/g+oL92h5tSCM`
+Snapshot ID: `AACGnZB6SFwW5o56Ypn2DbaU0HTptuwK`

@@ -4,7 +4,7 @@
 
 > Brand new music from Monstercat, all in one place.
 
-1,343 songs - 3 day 2 hr 24 min
+1,345 songs - 3 day 2 hr 29 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -661,6 +661,7 @@
 | [Let Me Go](https://open.spotify.com/track/0pqu2PSOGfcV2CFqhHUBOL) | [Feint](https://open.spotify.com/artist/6RQ9kYbHisp1UUbnfwHNeU), [Josh Rubin](https://open.spotify.com/artist/7e1qyhWgdVEnEjG7Sbb5W0) | [Let Me Go](https://open.spotify.com/album/1j8piDAV1NouzoGo3Z7S0n) | 3:44 | 2023-02-16 | 2023-05-04 |
 | [Let Me Go](https://open.spotify.com/track/6gySerfKKZpMZb1t8gz2HR) | [Sullivan King](https://open.spotify.com/artist/1CXuuw8HJhyN80HlNzvL1e), [Wooli](https://open.spotify.com/artist/1Uyqa2sdHm1bL5JK4IC4zc) | [Let Me Go](https://open.spotify.com/album/5esvwj2Syivbs8bE6j4yus) | 3:42 | 2022-11-21 | 2023-02-17 |
 | [Let Me Hold You](https://open.spotify.com/track/40gUXVKUY4etoVasp7SDWh) | [Blood Groove & Kikis](https://open.spotify.com/artist/7KIJwcYLtYSSNmP8KzmA9V), [Brandon Mignacca](https://open.spotify.com/artist/5k1EecpyjkutxtmZKlsBOj) | [Let Me Hold You](https://open.spotify.com/album/6DA3EYXV7y0D5EI7iFtX3N) | 3:25 | 2022-04-06 | 2022-06-17 |
+| [Let's Go](https://open.spotify.com/track/7uaWUBcygfhL6K91IpXUk4) | [Lee Mvtthews](https://open.spotify.com/artist/2rf0ufpy1NIUGmEHqq27GC) | [Let's Go](https://open.spotify.com/album/4RXdrKSjv400viHFfGWyU7) | 3:07 | 2026-11-25 |  |
 | [Letting Go](https://open.spotify.com/track/0LSo5akCIlPEZdRp7nRP4d) | [Bensley](https://open.spotify.com/artist/3SfEKS85dj9v75ROsWJSiL), [Voicians](https://open.spotify.com/artist/5DNApAt05XowaylsOJo1eW) | [Letting Go](https://open.spotify.com/album/3J3ajVI0IhBSG8B1p0kwu7) | 2:51 | 2024-11-08 | 2025-02-19 |
 | [Lies and Deceptions \- Bad Computer Remix](https://open.spotify.com/track/3tV2l4rFMgzt5qoWrE6BlM) | [Infected Mushroom](https://open.spotify.com/artist/6S2tas4z6DyIklBajDqJxI), [Bad Computer](https://open.spotify.com/artist/7uGeDBa1LJ7T1X4fpl8mwk) | [Lies and Deceptions \(Bad Computer Remix\)](https://open.spotify.com/album/6w0bsHy2oXobGo8JndIPsP) | 3:27 | 2022-12-10 | 2023-03-14 |
 | [Life](https://open.spotify.com/track/1GEzNwN8v6S1ZzDeV5yTT5) | [Skua](https://open.spotify.com/artist/0VAx8r083HyvVoSSHhLyOM), [Cosmaks](https://open.spotify.com/artist/6IH6wRrcnOpOOPkQxO4ry8), [Anita Tatlow](https://open.spotify.com/artist/4hjXUEgdALesVBGGDx1hKB) | [Life](https://open.spotify.com/album/1FVq6Cn1lfE7IILYwwZ4eX) | 4:18 | 2022-06-15 | 2022-08-27 |
@@ -1143,6 +1144,7 @@
 | [Talk To You](https://open.spotify.com/track/5sGm4JoUGhd40NYlXMfnPw) | [Blanke](https://open.spotify.com/artist/59Yq0xrABEihHANsfo9QMT), [Sofia Quinn](https://open.spotify.com/artist/7aa9NIJCeJoYtpUL56UH6Q) | [Talk To You](https://open.spotify.com/album/6WgUuJYSA2mYQOCAvVoHZ3) | 4:06 | 2023-04-06 | 2023-06-30 |
 | [Tarantino](https://open.spotify.com/track/5UMs8rciA9omc6JDrWDV8Y) | [CloudNone](https://open.spotify.com/artist/49vNfTzZU1nXv2xO34z5RY), [Half an Orange](https://open.spotify.com/artist/64N3o9z76C2APyfgQV2HMp) | [& Friends](https://open.spotify.com/album/2ISFdlM8xYsp5D2Vndh6Br) | 3:43 | 2022-03-15 | 2022-05-27 |
 | [Taste Like Hell](https://open.spotify.com/track/3NL1q6qTLTvEHs74DL7XKT) | [GG Magree](https://open.spotify.com/artist/54pgkpWVgQYbQXD8bkUP8n), [Kill The Noise](https://open.spotify.com/artist/3qnMl4DHT4gndzFAcG4FlM) | [Taste Like Hell](https://open.spotify.com/album/5jxheKcwzt8oJtktWB6BTG) | 2:50 | 2024-10-30 | 2025-02-07 |
+| [Taste My Love](https://open.spotify.com/track/40aY6e7zdpErlxmINKgoIl) | [WHIPPED CREAM](https://open.spotify.com/artist/5CMaNobmJYgXcfiT0zYOwi), [L I F E / L I N E](https://open.spotify.com/artist/5oGx8PvzXwgguezHDVRakQ) | [Taste My Love](https://open.spotify.com/album/05nl0hL6qeR0Nup4Bgs4x8) | 2:37 | 2026-11-25 |  |
 | [Tax Evasion](https://open.spotify.com/track/5NiVqcP6gFcPoeIEOtUKlE) | [Kompany](https://open.spotify.com/artist/7dtX3ykcuyVmts2HQnWgSP) | [Tax Evasion](https://open.spotify.com/album/2ri6axMCVTYBXSH7DFWv33) | 3:34 | 2024-07-17 | 2024-10-09 |
 | [Tear It Down](https://open.spotify.com/track/437V6pBF0GzAArc7DCfQzd) | [Riot Ten](https://open.spotify.com/artist/2Zxy5LwBatI5kw4uponwHQ), [Bok Nero](https://open.spotify.com/artist/7rnzdGq1qPizursGNI1P0V) | [Tear It Down](https://open.spotify.com/album/6IfU3upju7lmbEjZY28Wrr) | 3:05 | 2024-06-07 | 2024-08-31 |
 | [TECHNO BOY TECHNO GIRL](https://open.spotify.com/track/5TxE9ha36lh7c5m8UtAA5n) | [MNK](https://open.spotify.com/artist/0TYdomuRjpH9Am01X437vU), [RayRay](https://open.spotify.com/artist/4FS6bomikvJR2E9JHNwiAM), [Mashd N Kutcher](https://open.spotify.com/artist/0G5lZVxoMwoY8oV6zR8E7k) | [TECHNO BOY TECHNO GIRL](https://open.spotify.com/album/300fnPP9Amw0HZDhCTbygY) | 2:30 | 2026-06-22 | 2026-10-06 |

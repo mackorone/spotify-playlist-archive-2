@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-01-09",
-  "description": "The best new music by independent artists and labels in India. Cover - Prithvi Prakash",
+  "description": "The best new music by independent artists and labels in India. Cover - Jhalli",
   "name": "Fresh Finds India",
   "tracks": [
     {
@@ -1644,7 +1644,7 @@
       ],
       "date_added": "2026-09-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-26",
       "duration_ms": 163902,
       "name": "Afreen",
       "url": "https://open.spotify.com/track/1GFJs86cO3EnsjzxQXV0Wx"
@@ -2778,7 +2778,7 @@
       ],
       "date_added": "2026-08-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-26",
       "duration_ms": 132000,
       "name": "Awarapan",
       "url": "https://open.spotify.com/track/0MXTd0Kbfk1Zj7YCTgybaW"
@@ -5032,7 +5032,7 @@
       ],
       "date_added": "2026-09-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-26",
       "duration_ms": 258351,
       "name": "Bloom",
       "url": "https://open.spotify.com/track/54WDZ7mgS2uQboApoaND6L"
@@ -6702,6 +6702,24 @@
       "duration_ms": 221395,
       "name": "Colors",
       "url": "https://open.spotify.com/track/6OQpymPIXmfIhPDDV2gDks"
+    },
+    {
+      "album": {
+        "name": "Colour",
+        "url": "https://open.spotify.com/album/00Oy8ytkAb48Daj30cRX4I"
+      },
+      "artists": [
+        {
+          "name": "Imon",
+          "url": "https://open.spotify.com/artist/3bY660IbtBeAyjjch0QsjA"
+        }
+      ],
+      "date_added": "2026-11-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 253469,
+      "name": "Colour",
+      "url": "https://open.spotify.com/track/4v86e3EArtALh2ZdpUm8fb"
     },
     {
       "album": {
@@ -8752,7 +8770,7 @@
       ],
       "date_added": "2026-09-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-26",
       "duration_ms": 166965,
       "name": "Do I Know",
       "url": "https://open.spotify.com/track/71vVx436mXJPpSybU1hrML"
@@ -9890,7 +9908,7 @@
       ],
       "date_added": "2026-09-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-26",
       "duration_ms": 250500,
       "name": "emergency contact",
       "url": "https://open.spotify.com/track/1oKPimg4sx4wK1oS3HUrfT"
@@ -21735,6 +21753,24 @@
     },
     {
       "album": {
+        "name": "Little Paradise",
+        "url": "https://open.spotify.com/album/5a7MMp0ez4wOJ4Nfh4wWLY"
+      },
+      "artists": [
+        {
+          "name": "Tumken",
+          "url": "https://open.spotify.com/artist/3w7QD7NoVPBw45BpvTOuHO"
+        }
+      ],
+      "date_added": "2026-11-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 192545,
+      "name": "Little Paradise",
+      "url": "https://open.spotify.com/track/4nwqCoFbXIrhJ5qYSIiYTH"
+    },
+    {
+      "album": {
         "name": "little things",
         "url": "https://open.spotify.com/album/5EuOEycZWVKFOUfjhsBouu"
       },
@@ -25857,6 +25893,24 @@
     },
     {
       "album": {
+        "name": "Neela Aasman",
+        "url": "https://open.spotify.com/album/5KhLSn3vfLFhFhJfCQ2fMX"
+      },
+      "artists": [
+        {
+          "name": "Romil Hoskere",
+          "url": "https://open.spotify.com/artist/1MEWj32B3K4sToK5Csnxjj"
+        }
+      ],
+      "date_added": "2026-11-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 274974,
+      "name": "Neela Aasman",
+      "url": "https://open.spotify.com/track/4uO0gUnTVGzKdxxAYDuZ3e"
+    },
+    {
+      "album": {
         "name": "Neelay",
         "url": "https://open.spotify.com/album/5bFYU75fdfUP3b9r1G0xuh"
       },
@@ -29626,6 +29680,24 @@
       "duration_ms": 243395,
       "name": "Ready To Breathe",
       "url": "https://open.spotify.com/track/570UIy8Y4SlP0sGJmkw3ss"
+    },
+    {
+      "album": {
+        "name": "Real Love Is Out There!",
+        "url": "https://open.spotify.com/album/1ypxZ6jTU2sihEO9c2wm4F"
+      },
+      "artists": [
+        {
+          "name": "Jhalli",
+          "url": "https://open.spotify.com/artist/4WYrwXBnVA79QFb6pI3xEf"
+        }
+      ],
+      "date_added": "2026-11-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 208058,
+      "name": "Real Love Is Out There!",
+      "url": "https://open.spotify.com/track/3871ULgv1SvEKL68ywKYD5"
     },
     {
       "album": {
@@ -33696,7 +33768,7 @@
       ],
       "date_added": "2026-09-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-26",
       "duration_ms": 211000,
       "name": "Stranger",
       "url": "https://open.spotify.com/track/5j4eiumYSJggM3mMZAcWrI"
@@ -36190,6 +36262,24 @@
       "duration_ms": 240994,
       "name": "Tishnagi",
       "url": "https://open.spotify.com/track/3x7omcgMTFQWLh69QhTJKc"
+    },
+    {
+      "album": {
+        "name": "TISHNAGI",
+        "url": "https://open.spotify.com/album/1I3GH4AlvGX9xtoPRDWa3L"
+      },
+      "artists": [
+        {
+          "name": "Timothy Thampy",
+          "url": "https://open.spotify.com/artist/516N84Zm8jTFBAIDSK3uLK"
+        }
+      ],
+      "date_added": "2026-11-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 216110,
+      "name": "TISHNAGI",
+      "url": "https://open.spotify.com/track/3d4bsiodatz0XftiWZ8Ddx"
     },
     {
       "album": {
@@ -40564,6 +40654,28 @@
       "duration_ms": 188108,
       "name": "Zahir Si Baat Hai",
       "url": "https://open.spotify.com/track/7j3llRAvBQrHT7owVF6iuL"
+    },
+    {
+      "album": {
+        "name": "Zamaane Gawah Hai",
+        "url": "https://open.spotify.com/album/73TuaYxAf8Q7u6uVkjOo2Z"
+      },
+      "artists": [
+        {
+          "name": "Samyak Singh",
+          "url": "https://open.spotify.com/artist/113dXjCMbFcphqoqT3zTUP"
+        },
+        {
+          "name": "Varun Jain",
+          "url": "https://open.spotify.com/artist/72YHQo1NJVhvLm1fIvqXlV"
+        }
+      ],
+      "date_added": "2026-11-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 221751,
+      "name": "Zamaane Gawah Hai",
+      "url": "https://open.spotify.com/track/6XyPiEsL2kWWOH17kZDqu6"
     },
     {
       "album": {

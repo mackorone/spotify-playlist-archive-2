@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5DfG8gQdC3F.md) - [plain]
 
 > The latest from Dua Lipa for GTA VI, Gracie Abrams, Rema, Grimes, TOMORROW X TOGETHER, TALK and more.
 
-[Spotify](https://open.spotify.com/user/spotify) - 599,757 likes - 100 songs - 5 hr 12 min
+[Spotify](https://open.spotify.com/user/spotify) - 599,710 likes - 100 songs - 5 hr 12 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5DfG8gQdC3F.md) - [plain]
 | 99 | [Dreams](https://open.spotify.com/track/4bIqQDoNfAXaeXhnmGK8jf) | [Che\_nous](https://open.spotify.com/artist/6iUtbHzHDDlKkoze6YG4Bk), [D\-Track](https://open.spotify.com/artist/6iCGxocdnrQ3pxNN1drzNu), [Dumis9ne I](https://open.spotify.com/artist/0HHIBSnMhAHwIpLlSc0uQr), [QUEST](https://open.spotify.com/artist/53EnPnTBwa06MmLjFNKjDi), [Émilie Marcadé](https://open.spotify.com/artist/3vHngeXdPWW2Dvj3TeHjra) | [Frontières ouvertes](https://open.spotify.com/album/4NpPIrFZ2lhXJfit3pLDRy) | 3:32 |
 | 100 | [Tous les miroirs](https://open.spotify.com/track/3Kkz6SJnDHpzUY0uyvvycr) | [Chenier](https://open.spotify.com/artist/6CyZpauvBib7G1oZd5Mztx) | [Les fantômes](https://open.spotify.com/album/7e9tE04o6f9jOP2wjGi7Kb) | 3:07 |
 
-Snapshot ID: `AAAAAGIQq9bZc9u/JCXumPAwFY4R047i`
+Snapshot ID: `AAAAAKz6ckezPTEYQa89iwDPn4mX2/S9`

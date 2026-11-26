@@ -1032,7 +1032,7 @@
       ],
       "date_added": "2024-02-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-26",
       "duration_ms": 172540,
       "name": "Big Energy",
       "url": "https://open.spotify.com/track/4pi1G1x8tl9VfdD9bL3maT"
@@ -6794,6 +6794,28 @@
     {
       "album": {
         "name": "Kardi Gras Vol. 1: The Clash",
+        "url": "https://open.spotify.com/album/3Ah2LFT7XrB0vIAb3NlZbD"
+      },
+      "artists": [
+        {
+          "name": "Kardinal Offishall",
+          "url": "https://open.spotify.com/artist/5P2rwRBgIN450RaJxdjYdA"
+        },
+        {
+          "name": "JRDN",
+          "url": "https://open.spotify.com/artist/2YVjMQPHJLrs0zA0ILNoEs"
+        }
+      ],
+      "date_added": "2026-11-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 226066,
+      "name": "Sunshine (feat. JRDN)",
+      "url": "https://open.spotify.com/track/1JRVt8KetE3M6OdwaXLMf7"
+    },
+    {
+      "album": {
+        "name": "Kardi Gras Vol. 1: The Clash",
         "url": "https://open.spotify.com/album/4ZyGxmDt2ugDMQsaBmSKi5"
       },
       "artists": [
@@ -6808,7 +6830,7 @@
       ],
       "date_added": "2024-07-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-26",
       "duration_ms": 226066,
       "name": "Sunshine (feat. JRDN)",
       "url": "https://open.spotify.com/track/3eWXjX7WDpyGA6btOQTZj2"

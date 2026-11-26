@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXc57cuGAMEkA.md) - [plain]
 
 > 洋楽を中心に今週の新曲をチェック。Dua Lipa, Lana Del Rey, Justice, LISA and more!
 
-[Spotify](https://open.spotify.com/user/spotify) - 175,951 likes - 80 songs - 4 hr 20 min
+[Spotify](https://open.spotify.com/user/spotify) - 175,943 likes - 80 songs - 4 hr 20 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -89,4 +89,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXc57cuGAMEkA.md) - [plain]
 | 79 | [transmitter park](https://open.spotify.com/track/576K97eUCsvI11BrVeke6L) | [SOAK](https://open.spotify.com/artist/4PLsMEk2DCRVlVL2a9aZAv) | [transmitter park](https://open.spotify.com/album/31ZC0ogwjW2blrxiYc2C5s) | 4:19 |
 | 80 | [SHADY SHADY](https://open.spotify.com/track/5Qd7BEDjCSpdJak3MwdNfo) | [Ganges](https://open.spotify.com/artist/7gtqMRAdH6DvPm2gdoI17Q) | [SHADY SHADY](https://open.spotify.com/album/73RKF6BpNKDuLxGxPnLneA) | 2:49 |
 
-Snapshot ID: `AAAAAH7bPzRsnim9VtLapXHoMYrHsxyi`
+Snapshot ID: `AAAAALFuglE7AV/3DjcqPIzD/5N0qjwr`

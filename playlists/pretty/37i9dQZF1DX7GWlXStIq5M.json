@@ -1,12 +1,12 @@
 {
   "description": "Hits e novidades do pop experimental no mesmo palco! Foto: GIANA",
-  "num_followers": 353324,
+  "num_followers": 353286,
   "original_name": "Palco POP",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAHxJ40a7ApMydCohCKBJfxd+wR0o",
+  "snapshot_id": "AAAAAMM0BHMmCV2W0KNnXc/3vLXFtCrc",
   "tracks": [
     {
       "added_at": "2026-11-20 03:00:52",
@@ -279,6 +279,22 @@
     {
       "added_at": "2026-11-20 03:00:52",
       "album": {
+        "name": "Sandu\u00edches Naturais",
+        "url": "https://open.spotify.com/album/3HEGcK45hwXR5VMqRxJ6A4"
+      },
+      "artists": [
+        {
+          "name": "Elana Dara",
+          "url": "https://open.spotify.com/artist/4wh03gpwWgB5koOyZr8XxB"
+        }
+      ],
+      "duration_ms": 150000,
+      "name": "Sandu\u00edches Naturais",
+      "url": "https://open.spotify.com/track/0aBwncYAD2fiCw2n5F6JWn"
+    },
+    {
+      "added_at": "2026-11-20 03:00:52",
+      "album": {
         "name": "VITA'S HOUSE",
         "url": "https://open.spotify.com/album/5D6uIJOGZdsBvlbejGbdFr"
       },
@@ -299,18 +315,18 @@
     {
       "added_at": "2026-11-20 03:00:52",
       "album": {
-        "name": "Sandu\u00edches Naturais",
-        "url": "https://open.spotify.com/album/3HEGcK45hwXR5VMqRxJ6A4"
+        "name": "D\u00e9j\u00e0 - Vu",
+        "url": "https://open.spotify.com/album/02EKPF8ow8Qg06b9VE7cEH"
       },
       "artists": [
         {
-          "name": "Elana Dara",
-          "url": "https://open.spotify.com/artist/4wh03gpwWgB5koOyZr8XxB"
+          "name": "FERNANDA",
+          "url": "https://open.spotify.com/artist/3shbJXy1aYWsCXjL7xVxvc"
         }
       ],
-      "duration_ms": 150000,
-      "name": "Sandu\u00edches Naturais",
-      "url": "https://open.spotify.com/track/0aBwncYAD2fiCw2n5F6JWn"
+      "duration_ms": 164807,
+      "name": "D\u00e9j\u00e0 - Vu",
+      "url": "https://open.spotify.com/track/3TsBwOPk0At7EzlJ46PCxJ"
     },
     {
       "added_at": "2026-11-20 03:00:52",
@@ -331,34 +347,22 @@
     {
       "added_at": "2026-11-20 03:00:52",
       "album": {
-        "name": "D\u00e9j\u00e0 - Vu",
-        "url": "https://open.spotify.com/album/02EKPF8ow8Qg06b9VE7cEH"
+        "name": "Fuleragem",
+        "url": "https://open.spotify.com/album/6yM3HKN6TnSYbGqrJZaqWO"
       },
       "artists": [
         {
-          "name": "FERNANDA",
-          "url": "https://open.spotify.com/artist/3shbJXy1aYWsCXjL7xVxvc"
-        }
-      ],
-      "duration_ms": 164807,
-      "name": "D\u00e9j\u00e0 - Vu",
-      "url": "https://open.spotify.com/track/3TsBwOPk0At7EzlJ46PCxJ"
-    },
-    {
-      "added_at": "2026-11-20 03:00:52",
-      "album": {
-        "name": "Vira a P\u00e1gina",
-        "url": "https://open.spotify.com/album/5BVdeS0Zq35TgOIo1uqQep"
-      },
-      "artists": [
+          "name": "J\u00e1der",
+          "url": "https://open.spotify.com/artist/4kZNQjkGZ4VVovVaFvE1xa"
+        },
         {
-          "name": "UM44K",
-          "url": "https://open.spotify.com/artist/3zhKxZr516VdNDa8v3oft2"
+          "name": "LEOA",
+          "url": "https://open.spotify.com/artist/7CsVgmYd9DmB7PiCm93Ccb"
         }
       ],
-      "duration_ms": 125783,
-      "name": "Vira a P\u00e1gina",
-      "url": "https://open.spotify.com/track/016uveG5FpmyoBzvnJzrzx"
+      "duration_ms": 162666,
+      "name": "Fuleragem",
+      "url": "https://open.spotify.com/track/2iSk3s78PDwMbtZ5aeOYy0"
     },
     {
       "added_at": "2026-11-20 03:00:52",
@@ -379,22 +383,18 @@
     {
       "added_at": "2026-11-20 03:00:52",
       "album": {
-        "name": "Fuleragem",
-        "url": "https://open.spotify.com/album/6yM3HKN6TnSYbGqrJZaqWO"
+        "name": "Vira a P\u00e1gina",
+        "url": "https://open.spotify.com/album/5BVdeS0Zq35TgOIo1uqQep"
       },
       "artists": [
         {
-          "name": "J\u00e1der",
-          "url": "https://open.spotify.com/artist/4kZNQjkGZ4VVovVaFvE1xa"
-        },
-        {
-          "name": "LEOA",
-          "url": "https://open.spotify.com/artist/7CsVgmYd9DmB7PiCm93Ccb"
+          "name": "UM44K",
+          "url": "https://open.spotify.com/artist/3zhKxZr516VdNDa8v3oft2"
         }
       ],
-      "duration_ms": 162666,
-      "name": "Fuleragem",
-      "url": "https://open.spotify.com/track/2iSk3s78PDwMbtZ5aeOYy0"
+      "duration_ms": 125783,
+      "name": "Vira a P\u00e1gina",
+      "url": "https://open.spotify.com/track/016uveG5FpmyoBzvnJzrzx"
     },
     {
       "added_at": "2026-11-20 03:00:52",
@@ -603,6 +603,22 @@
     {
       "added_at": "2026-11-20 03:00:52",
       "album": {
+        "name": "Noturno",
+        "url": "https://open.spotify.com/album/4gXC0yDQK58P5Baj1C49PA"
+      },
+      "artists": [
+        {
+          "name": "Bryan Behr",
+          "url": "https://open.spotify.com/artist/1nbIxJpSdhe1dzImxd8WfF"
+        }
+      ],
+      "duration_ms": 148000,
+      "name": "Noturno",
+      "url": "https://open.spotify.com/track/1q5LFR4l4g5RhUI9sP1Zaj"
+    },
+    {
+      "added_at": "2026-11-20 03:00:52",
+      "album": {
         "name": "L\u00f3tus",
         "url": "https://open.spotify.com/album/2MmihnLyHR6arfyTpB4KId"
       },
@@ -619,22 +635,6 @@
       "duration_ms": 163571,
       "name": "Banho de Sol",
       "url": "https://open.spotify.com/track/6yoAW4zcYOKiIoWpEqwtaE"
-    },
-    {
-      "added_at": "2026-11-20 03:00:52",
-      "album": {
-        "name": "Noturno",
-        "url": "https://open.spotify.com/album/4gXC0yDQK58P5Baj1C49PA"
-      },
-      "artists": [
-        {
-          "name": "Bryan Behr",
-          "url": "https://open.spotify.com/artist/1nbIxJpSdhe1dzImxd8WfF"
-        }
-      ],
-      "duration_ms": 148000,
-      "name": "Noturno",
-      "url": "https://open.spotify.com/track/1q5LFR4l4g5RhUI9sP1Zaj"
     },
     {
       "added_at": "2026-11-20 03:00:52",
@@ -675,38 +675,6 @@
     {
       "added_at": "2026-11-20 03:00:52",
       "album": {
-        "name": "Vers\u00e3o dos Fatos",
-        "url": "https://open.spotify.com/album/0vCIwEQEXgnA307CUkZnzB"
-      },
-      "artists": [
-        {
-          "name": "CHAMELEO",
-          "url": "https://open.spotify.com/artist/2ZteSwWooU45Mec1C2EdA0"
-        }
-      ],
-      "duration_ms": 162532,
-      "name": "Vers\u00e3o dos Fatos",
-      "url": "https://open.spotify.com/track/74Pnj9e2bIOMjoCa5auwsk"
-    },
-    {
-      "added_at": "2026-11-20 03:00:52",
-      "album": {
-        "name": "Manh\u00e3 de Sol",
-        "url": "https://open.spotify.com/album/3112UESU5WJFX24ulal6XM"
-      },
-      "artists": [
-        {
-          "name": "Doral",
-          "url": "https://open.spotify.com/artist/3yMvydJf1VUFfuFjdYK3Hp"
-        }
-      ],
-      "duration_ms": 181666,
-      "name": "Manh\u00e3 de Sol",
-      "url": "https://open.spotify.com/track/6IK8FcpWZ1j6VJvAqnjH0g"
-    },
-    {
-      "added_at": "2026-11-20 03:00:52",
-      "album": {
         "name": "Miragem",
         "url": "https://open.spotify.com/album/1Hu7oxpLBXFeJgz1epgEvH"
       },
@@ -735,6 +703,38 @@
       "duration_ms": 158406,
       "name": "Barrastar",
       "url": "https://open.spotify.com/track/4Jx1jOwgcTtJkVj1bd1ZuQ"
+    },
+    {
+      "added_at": "2026-11-20 03:00:52",
+      "album": {
+        "name": "Manh\u00e3 de Sol",
+        "url": "https://open.spotify.com/album/3112UESU5WJFX24ulal6XM"
+      },
+      "artists": [
+        {
+          "name": "Doral",
+          "url": "https://open.spotify.com/artist/3yMvydJf1VUFfuFjdYK3Hp"
+        }
+      ],
+      "duration_ms": 181666,
+      "name": "Manh\u00e3 de Sol",
+      "url": "https://open.spotify.com/track/6IK8FcpWZ1j6VJvAqnjH0g"
+    },
+    {
+      "added_at": "2026-11-20 03:00:52",
+      "album": {
+        "name": "Vers\u00e3o dos Fatos",
+        "url": "https://open.spotify.com/album/0vCIwEQEXgnA307CUkZnzB"
+      },
+      "artists": [
+        {
+          "name": "CHAMELEO",
+          "url": "https://open.spotify.com/artist/2ZteSwWooU45Mec1C2EdA0"
+        }
+      ],
+      "duration_ms": 162532,
+      "name": "Vers\u00e3o dos Fatos",
+      "url": "https://open.spotify.com/track/74Pnj9e2bIOMjoCa5auwsk"
     },
     {
       "added_at": "2026-11-20 03:00:52",
@@ -771,6 +771,22 @@
     {
       "added_at": "2026-11-20 03:00:52",
       "album": {
+        "name": "A Minha Flor",
+        "url": "https://open.spotify.com/album/7uvaisCBNjJ5uWGEhKLzPX"
+      },
+      "artists": [
+        {
+          "name": "Felipe Lobo",
+          "url": "https://open.spotify.com/artist/1wzIEr2dddn0yLrEkbHxED"
+        }
+      ],
+      "duration_ms": 189570,
+      "name": "A Minha Flor",
+      "url": "https://open.spotify.com/track/6Ws8Z00SaE191uuRtH7Z6o"
+    },
+    {
+      "added_at": "2026-11-20 03:00:52",
+      "album": {
         "name": "Inimagin\u00e1vel",
         "url": "https://open.spotify.com/album/5on2cyZTeIfRnXYngdxnz2"
       },
@@ -791,22 +807,6 @@
       "duration_ms": 163110,
       "name": "Mar\u00e9 De Sorte - Remix",
       "url": "https://open.spotify.com/track/33MTRgQrOhkRkA2oYEJ0lu"
-    },
-    {
-      "added_at": "2026-11-20 03:00:52",
-      "album": {
-        "name": "A Minha Flor",
-        "url": "https://open.spotify.com/album/7uvaisCBNjJ5uWGEhKLzPX"
-      },
-      "artists": [
-        {
-          "name": "Felipe Lobo",
-          "url": "https://open.spotify.com/artist/1wzIEr2dddn0yLrEkbHxED"
-        }
-      ],
-      "duration_ms": 189570,
-      "name": "A Minha Flor",
-      "url": "https://open.spotify.com/track/6Ws8Z00SaE191uuRtH7Z6o"
     },
     {
       "added_at": "2026-11-20 03:00:52",
@@ -951,6 +951,22 @@
     {
       "added_at": "2026-11-20 03:00:52",
       "album": {
+        "name": "Desassossego",
+        "url": "https://open.spotify.com/album/7n2v4Z2PxSF3CRKhkM4PPy"
+      },
+      "artists": [
+        {
+          "name": "Mariana Volker",
+          "url": "https://open.spotify.com/artist/0L8NDdn0V7vaqvUyibKLmq"
+        }
+      ],
+      "duration_ms": 176409,
+      "name": "Desassossego",
+      "url": "https://open.spotify.com/track/069xpAmTWaJphQGAn2N7hE"
+    },
+    {
+      "added_at": "2026-11-20 03:00:52",
+      "album": {
         "name": "GRAZI",
         "url": "https://open.spotify.com/album/74GvKHIQvNFg7cDOWIJf1l"
       },
@@ -967,22 +983,6 @@
       "duration_ms": 171428,
       "name": "L\u00c1 DE CIMA (1999)",
       "url": "https://open.spotify.com/track/7nCQ8BbP2uCHWqiYJJzex9"
-    },
-    {
-      "added_at": "2026-11-20 03:00:52",
-      "album": {
-        "name": "Desassossego",
-        "url": "https://open.spotify.com/album/7n2v4Z2PxSF3CRKhkM4PPy"
-      },
-      "artists": [
-        {
-          "name": "Mariana Volker",
-          "url": "https://open.spotify.com/artist/0L8NDdn0V7vaqvUyibKLmq"
-        }
-      ],
-      "duration_ms": 176409,
-      "name": "Desassossego",
-      "url": "https://open.spotify.com/track/069xpAmTWaJphQGAn2N7hE"
     },
     {
       "added_at": "2026-11-20 03:00:52",
@@ -1055,6 +1055,26 @@
     {
       "added_at": "2026-11-20 03:00:52",
       "album": {
+        "name": "Amapiano",
+        "url": "https://open.spotify.com/album/1O3n8W9MEOE5whPw9Ay4Cm"
+      },
+      "artists": [
+        {
+          "name": "JOTTA R",
+          "url": "https://open.spotify.com/artist/6m4DLE0Z8CKnI7UQx62BbS"
+        },
+        {
+          "name": "Juy\u00e8",
+          "url": "https://open.spotify.com/artist/064WxKBb5PxUQpy6NGr3Jq"
+        }
+      ],
+      "duration_ms": 139354,
+      "name": "Amapiano",
+      "url": "https://open.spotify.com/track/7sP6wejK3mVZcv63h20Zil"
+    },
+    {
+      "added_at": "2026-11-20 03:00:52",
+      "album": {
         "name": "COVARDIA",
         "url": "https://open.spotify.com/album/4bFwkRS55H0BU7nlZgNrBp"
       },
@@ -1091,22 +1111,18 @@
     {
       "added_at": "2026-11-20 03:00:52",
       "album": {
-        "name": "Amapiano",
-        "url": "https://open.spotify.com/album/1O3n8W9MEOE5whPw9Ay4Cm"
+        "name": "Minha Solid\u00e3o",
+        "url": "https://open.spotify.com/album/1xlzjASuzIOSk3l2SVQdSu"
       },
       "artists": [
         {
-          "name": "JOTTA R",
-          "url": "https://open.spotify.com/artist/6m4DLE0Z8CKnI7UQx62BbS"
-        },
-        {
-          "name": "Juy\u00e8",
-          "url": "https://open.spotify.com/artist/064WxKBb5PxUQpy6NGr3Jq"
+          "name": "Luisa Meirelles",
+          "url": "https://open.spotify.com/artist/0lwH9AE7SHTN8JZf0lYZmU"
         }
       ],
-      "duration_ms": 139354,
-      "name": "Amapiano",
-      "url": "https://open.spotify.com/track/7sP6wejK3mVZcv63h20Zil"
+      "duration_ms": 184380,
+      "name": "Minha Solid\u00e3o",
+      "url": "https://open.spotify.com/track/2g6MDfkuJglDyRR2LREkfS"
     },
     {
       "added_at": "2026-11-20 03:00:52",
@@ -1167,22 +1183,6 @@
     {
       "added_at": "2026-11-20 03:00:52",
       "album": {
-        "name": "Minha Solid\u00e3o",
-        "url": "https://open.spotify.com/album/1xlzjASuzIOSk3l2SVQdSu"
-      },
-      "artists": [
-        {
-          "name": "Luisa Meirelles",
-          "url": "https://open.spotify.com/artist/0lwH9AE7SHTN8JZf0lYZmU"
-        }
-      ],
-      "duration_ms": 184380,
-      "name": "Minha Solid\u00e3o",
-      "url": "https://open.spotify.com/track/2g6MDfkuJglDyRR2LREkfS"
-    },
-    {
-      "added_at": "2026-11-20 03:00:52",
-      "album": {
         "name": "Emocionalmente Indispon\u00edvel",
         "url": "https://open.spotify.com/album/7Lx0lWyoJjFwPopPPdavjx"
       },
@@ -1235,6 +1235,22 @@
     {
       "added_at": "2026-11-20 03:00:52",
       "album": {
+        "name": "Vira-Lata",
+        "url": "https://open.spotify.com/album/2RWiBGCEzDz7L5C2DSK5NA"
+      },
+      "artists": [
+        {
+          "name": "Zant",
+          "url": "https://open.spotify.com/artist/0GVaM9LtM51CEGq6FJ3MC8"
+        }
+      ],
+      "duration_ms": 136089,
+      "name": "Vira-Lata",
+      "url": "https://open.spotify.com/track/5WdudMiWgSdl9w6T9Icb7N"
+    },
+    {
+      "added_at": "2026-11-20 03:00:52",
+      "album": {
         "name": "Brisa Boa",
         "url": "https://open.spotify.com/album/7eDipXrg5yOHLtZCuVF0bv"
       },
@@ -1251,18 +1267,26 @@
     {
       "added_at": "2026-11-20 03:00:52",
       "album": {
-        "name": "Vira-Lata",
-        "url": "https://open.spotify.com/album/2RWiBGCEzDz7L5C2DSK5NA"
+        "name": "Energy",
+        "url": "https://open.spotify.com/album/2AkCaeXRWht0pyc4SHzGGr"
       },
       "artists": [
         {
-          "name": "Zant",
-          "url": "https://open.spotify.com/artist/0GVaM9LtM51CEGq6FJ3MC8"
+          "name": "RDD",
+          "url": "https://open.spotify.com/artist/216oo7IQawwGK6HKEK1JGW"
+        },
+        {
+          "name": "Anik Khan",
+          "url": "https://open.spotify.com/artist/23bSD5t38m4d6k8jtlZGDa"
+        },
+        {
+          "name": "Maui",
+          "url": "https://open.spotify.com/artist/36KguyRusb89rBTNnL32ed"
         }
       ],
-      "duration_ms": 136089,
-      "name": "Vira-Lata",
-      "url": "https://open.spotify.com/track/5WdudMiWgSdl9w6T9Icb7N"
+      "duration_ms": 188400,
+      "name": "Energy",
+      "url": "https://open.spotify.com/track/50eUngFZAVXR5jbjoO4INk"
     },
     {
       "added_at": "2026-11-20 03:00:52",
@@ -1307,26 +1331,22 @@
     {
       "added_at": "2026-11-20 03:00:52",
       "album": {
-        "name": "Energy",
-        "url": "https://open.spotify.com/album/2AkCaeXRWht0pyc4SHzGGr"
+        "name": "Sussurro",
+        "url": "https://open.spotify.com/album/5CBNvCblR9nYl0m8J6qqzr"
       },
       "artists": [
         {
-          "name": "RDD",
-          "url": "https://open.spotify.com/artist/216oo7IQawwGK6HKEK1JGW"
+          "name": "YAZI",
+          "url": "https://open.spotify.com/artist/5PREKq9DL9Ka5yKjUVQCVP"
         },
         {
-          "name": "Anik Khan",
-          "url": "https://open.spotify.com/artist/23bSD5t38m4d6k8jtlZGDa"
-        },
-        {
-          "name": "Maui",
-          "url": "https://open.spotify.com/artist/36KguyRusb89rBTNnL32ed"
+          "name": "Bia Ferreira",
+          "url": "https://open.spotify.com/artist/0Aj4m8El9TdnqyVHhkuloa"
         }
       ],
-      "duration_ms": 188400,
-      "name": "Energy",
-      "url": "https://open.spotify.com/track/50eUngFZAVXR5jbjoO4INk"
+      "duration_ms": 202810,
+      "name": "Virou Costume",
+      "url": "https://open.spotify.com/track/1lunSjPdQokMjb4gOrTqaZ"
     },
     {
       "added_at": "2026-11-20 03:00:52",
@@ -1347,26 +1367,6 @@
       "duration_ms": 119999,
       "name": "HATER",
       "url": "https://open.spotify.com/track/5VwJm9hLYWlRDVUI6zctma"
-    },
-    {
-      "added_at": "2026-11-20 03:00:52",
-      "album": {
-        "name": "Sussurro",
-        "url": "https://open.spotify.com/album/5CBNvCblR9nYl0m8J6qqzr"
-      },
-      "artists": [
-        {
-          "name": "YAZI",
-          "url": "https://open.spotify.com/artist/5PREKq9DL9Ka5yKjUVQCVP"
-        },
-        {
-          "name": "Bia Ferreira",
-          "url": "https://open.spotify.com/artist/0Aj4m8El9TdnqyVHhkuloa"
-        }
-      ],
-      "duration_ms": 202810,
-      "name": "Virou Costume",
-      "url": "https://open.spotify.com/track/1lunSjPdQokMjb4gOrTqaZ"
     },
     {
       "added_at": "2026-11-20 03:00:52",

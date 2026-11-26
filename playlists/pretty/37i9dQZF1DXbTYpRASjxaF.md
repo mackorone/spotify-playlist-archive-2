@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbTYpRASjxaF.md) - [plain]
 
 > copos pro alto, cada um com o seu\. Foto: Vitinho RB, MD Chefe
 
-[Spotify](https://open.spotify.com/user/spotify) - 137,979 likes - 50 songs - 2 hr 25 min
+[Spotify](https://open.spotify.com/user/spotify) - 137,975 likes - 50 songs - 2 hr 25 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbTYpRASjxaF.md) - [plain]
 | 49 | [Status / Lil Tecca](https://open.spotify.com/track/7myEAgjrvcstCvnn4UGDwG) | [Meygô](https://open.spotify.com/artist/6V17FvnvaDuA6vfnO4uKag), [Shigueru](https://open.spotify.com/artist/0rxJWcxlicSQkWkNGXumXE) | [Status / Lil Tecca](https://open.spotify.com/album/5G3rPY7clQWQXtnUehZsRA) | 3:41 |
 | 50 | [BANDIDO COM BANDIDA](https://open.spotify.com/track/6OhoPRkz6McaAkBb01N4GM) | [Dpaula](https://open.spotify.com/artist/21OXt4bahP6ZP1LIRXmpVQ), [NandaTsunami](https://open.spotify.com/artist/0bTjZS6jUVce4Sa7aMIFYk), [Ericoness](https://open.spotify.com/artist/70G1vJjDzNyGZ6xmm1G584) | [BANDIDO COM BANDIDA](https://open.spotify.com/album/0FwDR2gJSyI6ltEEzMPPFZ) | 2:51 |
 
-Snapshot ID: `AAAAAC/Fcwj99z01Z4BFF5oDFprZL9Bm`
+Snapshot ID: `AAAAAKDRSmv45PzUsOQMwj/0Wmr2Zv1d`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX30HHrCAl4ZG.md) - [plain]
 
 > Explore all things indie rock right now\. Featuring music from Pinegrove
 
-[Spotify](https://open.spotify.com/user/spotify) - 801,948 likes - 150 songs - 8 hr 51 min
+[Spotify](https://open.spotify.com/user/spotify) - 801,912 likes - 150 songs - 8 hr 51 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -159,4 +159,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX30HHrCAl4ZG.md) - [plain]
 | 149 | [My Maker](https://open.spotify.com/track/0CytapqefuNILUq2YdFw78) | [Snail Mail](https://open.spotify.com/artist/4QkSD9TRUnMtI8Fq1jXJJe) | [My Maker](https://open.spotify.com/album/47wcmMq8SaCVM5R7wOW8e4) | 4:19 |
 | 150 | [Internet](https://open.spotify.com/track/5BQnHZI0SzXIcWIwUzCUij) | [Sure Sure](https://open.spotify.com/artist/1anAI9P9iSzc9qzLv6AtHZ) | [Internet](https://open.spotify.com/album/6IE54t4dhpEIX9kI3lWjJY) | 3:34 |
 
-Snapshot ID: `AAAAAMjA9XxfjOmd6GeFcuSOaA75Og8m`
+Snapshot ID: `AAAAAOGoaR41tRbAhq31b5XembJ/CDjQ`

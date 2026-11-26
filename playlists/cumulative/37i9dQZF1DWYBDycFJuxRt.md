@@ -2,9 +2,9 @@
 
 ### [New Music Wednesday](https://open.spotify.com/playlist/37i9dQZF1DWYBDycFJuxRt)
 
-> 今週も話題の新曲を最速で。 Cover: 宇多田ヒカル\*👉 <a href="https://spice.eplus.jp/articles/350621">連動記事</a>をSPICEでチェック!
+> 今週も話題の新曲を最速で。 Cover: 宇多田ヒカル \*👉 <a href="https://spice.eplus.jp/articles/350621">連動記事</a>をSPICEでチェック!
 
-17,119 songs - 45 day 13 hr 25 min
+17,120 songs - 45 day 13 hr 29 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -3886,6 +3886,7 @@
 | [GRAVITY](https://open.spotify.com/track/0pgau4Ocn8z6nazH8N62LM) | [Ryubi Miyase](https://open.spotify.com/artist/1zS6Z0i0nNN7cZJoLqmyJk) | [GRAVITY](https://open.spotify.com/album/0uanEWE8fbRfns0qxKVLs8) | 3:58 | 2025-08-26 | 2025-09-03 |
 | [Gravity](https://open.spotify.com/track/4y91NCwOXl4y3wM9S40N3v) | [soraya](https://open.spotify.com/artist/7DoRNL58n5KeGL50dxSvlB) | [Motion](https://open.spotify.com/album/3vvWOj5tFzPWTGMQRfODnX) | 5:49 | 2025-09-23 | 2025-10-01 |
 | [GRAY](https://open.spotify.com/track/6yeZxv0sNYEoDY4dLlibG7) | [Toaka](https://open.spotify.com/artist/0xFsJRSOYJmmuozISzreTR) | [GRAY](https://open.spotify.com/album/5xuyrijW2gfXNWvn8K3tuw) | 5:00 | 2025-10-08 | 2025-10-15 |
+| [Greedy](https://open.spotify.com/track/0kuPmVL9vCBAnH14lzgNKp) | [KISS OF LIFE](https://open.spotify.com/artist/4TEK9tIkcoxib4GxT3O4ky) | [Greedy](https://open.spotify.com/album/4Z6X9aIZrb8YHARjEbl4NY) | 3:16 | 2026-11-25 |  |
 | [Greedy](https://open.spotify.com/track/4EjeUXMU6nrgzyQbaKwu3I) | [Tepa Roucci](https://open.spotify.com/artist/6bvWel7yJaCrCjx6PkJwTz) | [MANIA](https://open.spotify.com/album/1MOqDpLRnyW5sjgTmbED1B) | 3:36 | 2023-09-12 | 2023-09-14 |
 | [Greedy](https://open.spotify.com/track/7ADojJAmNMr7ESb9v2OBrm) | [Tepa Roucci](https://open.spotify.com/artist/6bvWel7yJaCrCjx6PkJwTz) | [MANIA](https://open.spotify.com/album/1Yl0UPm8taUyYrdYcMTgGd) | 3:36 | 2023-09-13 | 2023-09-20 |
 | [Greedy!!](https://open.spotify.com/track/5wcuIVeXEFUb8uDIKIr8CA) | [NELKE](https://open.spotify.com/artist/0hLfZOfwBDMejvKITJksrG) | [Greedy!!](https://open.spotify.com/album/4tFQ0Z0lMpqFxDT686LEWy) | 3:37 | 2026-06-30 | 2026-07-08 |
@@ -9291,7 +9292,7 @@
 | [strattera](https://open.spotify.com/track/3cWgSMVcOuIV2cU8NthSlg) | [yonige](https://open.spotify.com/artist/6uovEmc6Z1C1aUvvdKACXQ) | [strattera](https://open.spotify.com/album/5PyTv0b00U4U0ymjrlcPWw) | 2:40 | 2025-07-30 | 2025-08-06 |
 | [straw steps \- feat\. Negicco](https://open.spotify.com/track/147p387Y1gb1fZMqcs1QuS) | [LEE HWANGDAE](https://open.spotify.com/artist/63RogPtcs8DxN7cdqRU9FV), [Negicco](https://open.spotify.com/artist/4PoAqzGXLjpuYMmTRv24q6) | [straw steps \- feat\. Negicco](https://open.spotify.com/album/6j5E3L7dxve317Z1KNvVrc) | 2:02 | 2024-09-11 | 2024-09-18 |
 | [strawberry](https://open.spotify.com/track/6cy7ikHgmIH28MSrzT1wFS) | [BUMP OF CHICKEN](https://open.spotify.com/artist/0hSFeqPehe7FtCNWuQ6Bsy) | [strawberry](https://open.spotify.com/album/5QQrIRo8W6laHzdow7yM7B) | 5:18 | 2024-07-30 | 2024-08-07 |
-| [Strawberry](https://open.spotify.com/track/7xJCxoounfBA0O1ThmyhOq) | [HIROTO \(INI\)](https://open.spotify.com/artist/4K4TI6LdTWSKtRT3b7OC7m) | [Strawberry](https://open.spotify.com/album/7dyrc9ttm1QINKf22dPITr) | 2:50 | 2026-11-24 |  |
+| [STRAWBERRY](https://open.spotify.com/track/7xJCxoounfBA0O1ThmyhOq) | [HIROTO \(INI\)](https://open.spotify.com/artist/4K4TI6LdTWSKtRT3b7OC7m) | [STRAWBERRY](https://open.spotify.com/album/7dyrc9ttm1QINKf22dPITr) | 2:50 | 2026-11-24 |  |
 | [Strawberry](https://open.spotify.com/track/5Dd9QsKc6S6FHUtdsbYHJy) | [SCANDAL](https://open.spotify.com/artist/7hTZwqQILVH4bAbN67CeEz) | [Strawberry](https://open.spotify.com/album/0xcSK3CjYx479UdhrWmxwJ) | 3:37 | 2026-04-14 | 2026-04-22 |
 | [Strawberry](https://open.spotify.com/track/27ieHhhs1OwALnEOWCW0cg) | [This is LAST](https://open.spotify.com/artist/4wW9Mak1gx2PnswYDpHmA1) | [Strawberry](https://open.spotify.com/album/50aR49caPYVguYU5UjpaqY) | 3:42 | 2024-11-26 | 2024-12-04 |
 | [strawberry cake](https://open.spotify.com/track/5LCGcb6k5CG2mntlccZ68U) | [Ghost like girlfriend](https://open.spotify.com/artist/0FXJ7e5WRLaSMZvKhZDZx2) | [strawberry cake](https://open.spotify.com/album/2NinxkbDXrWG2UocqrsojH) | 1:49 | 2026-08-11 | 2026-08-19 |

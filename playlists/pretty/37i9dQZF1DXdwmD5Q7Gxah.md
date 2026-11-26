@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdwmD5Q7Gxah.md) - [plain]
 
 > aLex vs aLex its barking season <a href="https://loremandfriends.substack.com/p/sincerely\-and\-always\-forever"> plus \~new substack ft Heathers & Sammie Pearson here\~</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,184,713 likes - 164 songs - 9 hr 18 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,184,770 likes - 164 songs - 9 hr 18 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -173,4 +173,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdwmD5Q7Gxah.md) - [plain]
 | 163 | [January Sweetheart](https://open.spotify.com/track/0CJ1MCIRQQ4j23VX6fp4KB) | [Samba Jean\-Baptiste](https://open.spotify.com/artist/7nfBxjb99prCqaT3wk87u5), [Rockie Rode](https://open.spotify.com/artist/51qSyIFxFxgwZVU7zI90rE) | [January Sweetheart](https://open.spotify.com/album/2DmxoaPuKOTZwQJvZWTYKP) | 1:57 |
 | 164 | [Kitten](https://open.spotify.com/track/1bEYQp9eT55EmNzMXXFWEY) | [Not For Radio](https://open.spotify.com/artist/0oXhGlRUQ8aVTx8eO4MoMT) | [Bloom](https://open.spotify.com/album/3QMZPDDxfm5EQxEGWOYgR7) | 3:56 |
 
-Snapshot ID: `AAAAAJlm5Qs6dYO7nw+ajdqrKHV/gg/u`
+Snapshot ID: `AAAAAApmm4Fsdi9b+sRgKwIeKDUSDCZD`

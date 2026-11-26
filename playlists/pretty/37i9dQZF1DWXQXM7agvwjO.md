@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXQXM7agvwjO.md) - [plain]
 
 > Hottest indie sounds from Asia\. Cover: Silica Gel \(South Korea\)
 
-[Spotify](https://open.spotify.com/user/spotify) - 150,255 likes - 100 songs - 6 hr 16 min
+[Spotify](https://open.spotify.com/user/spotify) - 150,249 likes - 100 songs - 6 hr 16 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXQXM7agvwjO.md) - [plain]
 | 99 | [Flower](https://open.spotify.com/track/6AheLWSsTfi9VAQMBJajyI) | [Almond Milk](https://open.spotify.com/artist/6VlsbGW0ge24jpMuRka5eN) | [Flower](https://open.spotify.com/album/3WYdgmIcmmZtywqrAOgTby) | 2:27 |
 | 100 | [Tell Me How](https://open.spotify.com/track/6KiBFkD6ETaPcN3FzLa27n) | [The Candle Light Children](https://open.spotify.com/artist/59PyMbVTNW1JNa6aCHGFGW) | [No Vacancy](https://open.spotify.com/album/2xSKUVZo7AT9X7PfSLtHnV) | 3:13 |
 
-Snapshot ID: `AAAAACeki7T0oA1UOwx5DzqVUDuVXTr8`
+Snapshot ID: `AAAAAEdwjJ9yVy94CRiMN05AR9Up6NYJ`

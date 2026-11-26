@@ -25299,6 +25299,28 @@
     },
     {
       "album": {
+        "name": "Tha Blue Carpet Treatment",
+        "url": "https://open.spotify.com/album/5EyEI8tm60S6y2YKbjE0xI"
+      },
+      "artists": [
+        {
+          "name": "Snoop Dogg",
+          "url": "https://open.spotify.com/artist/7hJcb9fa4alzcOq3EaNPoG"
+        },
+        {
+          "name": "Akon",
+          "url": "https://open.spotify.com/artist/0z4gvV4rjIZ9wHck67ucSV"
+        }
+      ],
+      "date_added": "2026-11-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 178840,
+      "name": "I Wanna Fuck You",
+      "url": "https://open.spotify.com/track/1G93i9ga7ZPEOqpiNhM1mq"
+    },
+    {
+      "album": {
         "name": "I Wanna Rock",
         "url": "https://open.spotify.com/album/5RvJlNjUyH6D7DEdbFjI1z"
       },

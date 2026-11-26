@@ -1,12 +1,12 @@
 {
   "description": "selects from music we've been listening ",
-  "num_followers": 20303,
+  "num_followers": 20301,
   "original_name": "Moving Castle Monthly",
   "owner": {
     "name": "Moving Castle",
     "url": "https://open.spotify.com/user/moving-castle"
   },
-  "snapshot_id": "AAArc7oZCTaA2BJ0zaaumqdpWsXo5YFx",
+  "snapshot_id": "AAArdQMip4d1ds7WRWxkKGxRpH9Lfd3s",
   "tracks": [
     {
       "added_at": "2026-11-18 00:14:34",
@@ -43,6 +43,22 @@
       "duration_ms": 190344,
       "name": "Loosen Up",
       "url": "https://open.spotify.com/track/7aghuR0jokdfhwirE7s8hu"
+    },
+    {
+      "added_at": "2026-11-26 03:06:03",
+      "album": {
+        "name": "M2TB",
+        "url": "https://open.spotify.com/album/3sBiems6gOIwbbdMZ2w4xo"
+      },
+      "artists": [
+        {
+          "name": "Vices",
+          "url": "https://open.spotify.com/artist/5QJRWXrshI09dmUlDkYI5E"
+        }
+      ],
+      "duration_ms": 130777,
+      "name": "M2TB",
+      "url": "https://open.spotify.com/track/3RkMwHD1EsXCYihkkEZwJo"
     },
     {
       "added_at": "2026-10-09 21:52:43",

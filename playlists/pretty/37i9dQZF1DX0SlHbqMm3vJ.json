@@ -1,12 +1,12 @@
 {
   "description": "Sweet afro melodies. Cover: Joeboy",
-  "num_followers": 268778,
+  "num_followers": 268797,
   "original_name": "Ginja",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAPfZAqKc8m4YI93pkPADWoo0ZwM2",
+  "snapshot_id": "AAAAAGLy7nXaYeYI5CNWdJwGc0F1UbPx",
   "tracks": [
     {
       "added_at": "2026-11-20 09:49:40",
@@ -591,6 +591,22 @@
     {
       "added_at": "2026-11-20 09:49:40",
       "album": {
+        "name": "The Blueprint",
+        "url": "https://open.spotify.com/album/1FEF9Jh7BOuISVXjQynfR4"
+      },
+      "artists": [
+        {
+          "name": "T.I BLAZE",
+          "url": "https://open.spotify.com/artist/1FIsnQiSPsuqA38z48irJC"
+        }
+      ],
+      "duration_ms": 151926,
+      "name": "Living Thing",
+      "url": "https://open.spotify.com/track/0YwJBHVqyWQZKtrcAmFk9Z"
+    },
+    {
+      "added_at": "2026-11-20 09:49:40",
+      "album": {
         "name": "CHE",
         "url": "https://open.spotify.com/album/6U7Rlp4IUTdgtaOHiycx3x"
       },
@@ -607,22 +623,6 @@
       "duration_ms": 144000,
       "name": "CHE",
       "url": "https://open.spotify.com/track/6sPehU8iJcnrSndiAoFONQ"
-    },
-    {
-      "added_at": "2026-11-20 09:49:40",
-      "album": {
-        "name": "The Blueprint",
-        "url": "https://open.spotify.com/album/1FEF9Jh7BOuISVXjQynfR4"
-      },
-      "artists": [
-        {
-          "name": "T.I BLAZE",
-          "url": "https://open.spotify.com/artist/1FIsnQiSPsuqA38z48irJC"
-        }
-      ],
-      "duration_ms": 151926,
-      "name": "Living Thing",
-      "url": "https://open.spotify.com/track/0YwJBHVqyWQZKtrcAmFk9Z"
     },
     {
       "added_at": "2026-11-20 09:49:40",
@@ -679,26 +679,6 @@
     {
       "added_at": "2026-11-20 09:49:40",
       "album": {
-        "name": "STARLIFE",
-        "url": "https://open.spotify.com/album/7mj5fvMdUDCtTy9HPpjBHr"
-      },
-      "artists": [
-        {
-          "name": "Victony",
-          "url": "https://open.spotify.com/artist/1E5hfn5BduN2nnoZCJmUVG"
-        },
-        {
-          "name": "Babyboy AV",
-          "url": "https://open.spotify.com/artist/5p1CMGIDFgalZneW5P1EwX"
-        }
-      ],
-      "duration_ms": 152105,
-      "name": "PINO (feat. Babyboy AV)",
-      "url": "https://open.spotify.com/track/4a1mfq20AKj6XNEh1SXhbJ"
-    },
-    {
-      "added_at": "2026-11-20 09:49:40",
-      "album": {
         "name": "Let Me Go",
         "url": "https://open.spotify.com/album/4ShHb62wS7sWruzGQOdkxe"
       },
@@ -719,6 +699,46 @@
       "duration_ms": 167000,
       "name": "Let Me Go",
       "url": "https://open.spotify.com/track/0Orw24AaR2UYwuSrBbn4bs"
+    },
+    {
+      "added_at": "2026-11-20 09:49:40",
+      "album": {
+        "name": "STARLIFE",
+        "url": "https://open.spotify.com/album/7mj5fvMdUDCtTy9HPpjBHr"
+      },
+      "artists": [
+        {
+          "name": "Victony",
+          "url": "https://open.spotify.com/artist/1E5hfn5BduN2nnoZCJmUVG"
+        },
+        {
+          "name": "Babyboy AV",
+          "url": "https://open.spotify.com/artist/5p1CMGIDFgalZneW5P1EwX"
+        }
+      ],
+      "duration_ms": 152105,
+      "name": "PINO (feat. Babyboy AV)",
+      "url": "https://open.spotify.com/track/4a1mfq20AKj6XNEh1SXhbJ"
+    },
+    {
+      "added_at": "2026-11-20 09:49:40",
+      "album": {
+        "name": "In Tunez We Trust Vol. 1",
+        "url": "https://open.spotify.com/album/7juWJSfCEy4gJ5AfQF63RO"
+      },
+      "artists": [
+        {
+          "name": "DJ Tunez",
+          "url": "https://open.spotify.com/artist/64oW4P0vsDhlorOxZKQi6a"
+        },
+        {
+          "name": "Shoday",
+          "url": "https://open.spotify.com/artist/23R4AtMwVv0pbJYB1joioW"
+        }
+      ],
+      "duration_ms": 202758,
+      "name": "Na Money",
+      "url": "https://open.spotify.com/track/3t1pZTZDedrrHRbxlXeVA1"
     },
     {
       "added_at": "2026-11-20 09:49:40",
@@ -799,26 +819,6 @@
     {
       "added_at": "2026-11-20 09:49:40",
       "album": {
-        "name": "In Tunez We Trust Vol. 1",
-        "url": "https://open.spotify.com/album/7juWJSfCEy4gJ5AfQF63RO"
-      },
-      "artists": [
-        {
-          "name": "DJ Tunez",
-          "url": "https://open.spotify.com/artist/64oW4P0vsDhlorOxZKQi6a"
-        },
-        {
-          "name": "Shoday",
-          "url": "https://open.spotify.com/artist/23R4AtMwVv0pbJYB1joioW"
-        }
-      ],
-      "duration_ms": 202758,
-      "name": "Na Money",
-      "url": "https://open.spotify.com/track/3t1pZTZDedrrHRbxlXeVA1"
-    },
-    {
-      "added_at": "2026-11-20 09:49:40",
-      "album": {
         "name": "Come Kulosa",
         "url": "https://open.spotify.com/album/6rlEzxImXioBflFuoAsLBV"
       },
@@ -867,22 +867,6 @@
     {
       "added_at": "2026-11-20 09:49:40",
       "album": {
-        "name": "ZUKO!",
-        "url": "https://open.spotify.com/album/7ALh95O2ioQV7a3sW4L2CG"
-      },
-      "artists": [
-        {
-          "name": "Fireboy DML",
-          "url": "https://open.spotify.com/artist/75VKfyoBlkmrJFDqo1o2VY"
-        }
-      ],
-      "duration_ms": 154328,
-      "name": "SEX LOVE UNDERSTANDING TRUST",
-      "url": "https://open.spotify.com/track/6zcmVESV4j8HnR0dvyB3Qh"
-    },
-    {
-      "added_at": "2026-11-20 09:49:40",
-      "album": {
         "name": "Motion",
         "url": "https://open.spotify.com/album/7vQB9lJyN69qWpay8XsH8I"
       },
@@ -895,6 +879,22 @@
       "duration_ms": 163032,
       "name": "Dey With Me",
       "url": "https://open.spotify.com/track/0VNBVfVXR9sgo33yyIRuWq"
+    },
+    {
+      "added_at": "2026-11-20 09:49:40",
+      "album": {
+        "name": "ZUKO!",
+        "url": "https://open.spotify.com/album/7ALh95O2ioQV7a3sW4L2CG"
+      },
+      "artists": [
+        {
+          "name": "Fireboy DML",
+          "url": "https://open.spotify.com/artist/75VKfyoBlkmrJFDqo1o2VY"
+        }
+      ],
+      "duration_ms": 154328,
+      "name": "SEX LOVE UNDERSTANDING TRUST",
+      "url": "https://open.spotify.com/track/6zcmVESV4j8HnR0dvyB3Qh"
     },
     {
       "added_at": "2026-11-20 09:49:40",
@@ -935,22 +935,6 @@
     {
       "added_at": "2026-11-20 09:49:40",
       "album": {
-        "name": "On The Road",
-        "url": "https://open.spotify.com/album/3Jf7CAW4GkcpfPpXfli4Oa"
-      },
-      "artists": [
-        {
-          "name": "Llona",
-          "url": "https://open.spotify.com/artist/3hz0ZIs5SlEnlK0ML7FmNc"
-        }
-      ],
-      "duration_ms": 185973,
-      "name": "Masculine Love",
-      "url": "https://open.spotify.com/track/4qwFfzcMM1qoOxxmCJBti4"
-    },
-    {
-      "added_at": "2026-11-20 09:49:40",
-      "album": {
         "name": "KOWOPE",
         "url": "https://open.spotify.com/album/2L1fGehxU3KbiqKaPgKoAN"
       },
@@ -963,6 +947,22 @@
       "duration_ms": 229811,
       "name": "KOWOPE",
       "url": "https://open.spotify.com/track/5mMkcsSWFnSzFsh9RF9NPO"
+    },
+    {
+      "added_at": "2026-11-20 09:49:40",
+      "album": {
+        "name": "On The Road",
+        "url": "https://open.spotify.com/album/3Jf7CAW4GkcpfPpXfli4Oa"
+      },
+      "artists": [
+        {
+          "name": "Llona",
+          "url": "https://open.spotify.com/artist/3hz0ZIs5SlEnlK0ML7FmNc"
+        }
+      ],
+      "duration_ms": 185973,
+      "name": "Masculine Love",
+      "url": "https://open.spotify.com/track/4qwFfzcMM1qoOxxmCJBti4"
     },
     {
       "added_at": "2026-11-20 09:49:40",
@@ -1003,22 +1003,6 @@
     {
       "added_at": "2026-11-20 09:49:40",
       "album": {
-        "name": "DISTANCE",
-        "url": "https://open.spotify.com/album/3DKZQZ18DoO9d78SVEa3WK"
-      },
-      "artists": [
-        {
-          "name": "Libianca",
-          "url": "https://open.spotify.com/artist/7kjSuFGKhLm8b5qXoMhRkJ"
-        }
-      ],
-      "duration_ms": 132480,
-      "name": "DISTANCE",
-      "url": "https://open.spotify.com/track/3N0U4QtIj3mtQEta7u8Cyv"
-    },
-    {
-      "added_at": "2026-11-20 09:49:40",
-      "album": {
         "name": "Recess II",
         "url": "https://open.spotify.com/album/4x2DysOwGpButInOfDNJdI"
       },
@@ -1035,6 +1019,22 @@
       "duration_ms": 123000,
       "name": "BeBe",
       "url": "https://open.spotify.com/track/5GZTusIWd5rWT6QlQ3RVb3"
+    },
+    {
+      "added_at": "2026-11-20 09:49:40",
+      "album": {
+        "name": "DISTANCE",
+        "url": "https://open.spotify.com/album/3DKZQZ18DoO9d78SVEa3WK"
+      },
+      "artists": [
+        {
+          "name": "Libianca",
+          "url": "https://open.spotify.com/artist/7kjSuFGKhLm8b5qXoMhRkJ"
+        }
+      ],
+      "duration_ms": 132480,
+      "name": "DISTANCE",
+      "url": "https://open.spotify.com/track/3N0U4QtIj3mtQEta7u8Cyv"
     },
     {
       "added_at": "2026-11-20 09:49:40",
@@ -1435,22 +1435,6 @@
     {
       "added_at": "2026-11-20 09:49:40",
       "album": {
-        "name": "AVAILABLE",
-        "url": "https://open.spotify.com/album/4Zm9Uo3atRc7urLrzvudn0"
-      },
-      "artists": [
-        {
-          "name": "Lovn",
-          "url": "https://open.spotify.com/artist/7yzmckMWwaSZdJQC5QZ7ws"
-        }
-      ],
-      "duration_ms": 159444,
-      "name": "AVAILABLE",
-      "url": "https://open.spotify.com/track/7dxIRBHniuTu8lKYJsTcM5"
-    },
-    {
-      "added_at": "2026-11-20 09:49:40",
-      "album": {
         "name": "GATCHU",
         "url": "https://open.spotify.com/album/4nEzlKDNwlRzOYEcYv9qox"
       },
@@ -1463,6 +1447,22 @@
       "duration_ms": 148363,
       "name": "GATCHU",
       "url": "https://open.spotify.com/track/6pumz8Hojxj4iODoR6edCk"
+    },
+    {
+      "added_at": "2026-11-20 09:49:40",
+      "album": {
+        "name": "AVAILABLE",
+        "url": "https://open.spotify.com/album/4Zm9Uo3atRc7urLrzvudn0"
+      },
+      "artists": [
+        {
+          "name": "Lovn",
+          "url": "https://open.spotify.com/artist/7yzmckMWwaSZdJQC5QZ7ws"
+        }
+      ],
+      "duration_ms": 159444,
+      "name": "AVAILABLE",
+      "url": "https://open.spotify.com/track/7dxIRBHniuTu8lKYJsTcM5"
     },
     {
       "added_at": "2026-11-20 09:49:40",

@@ -5461,6 +5461,24 @@
     },
     {
       "album": {
+        "name": "the long way home",
+        "url": "https://open.spotify.com/album/4f65EsKUwqjuUAuxdRUs8U"
+      },
+      "artists": [
+        {
+          "name": "heirloom",
+          "url": "https://open.spotify.com/artist/3Q6Jurd5PQMm7Q52Xk6yuW"
+        }
+      ],
+      "date_added": "2026-11-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 133670,
+      "name": "the long way home",
+      "url": "https://open.spotify.com/track/4FZ8G8f8KO9auVaNG4DABs"
+    },
+    {
+      "album": {
         "name": "The Night Before",
         "url": "https://open.spotify.com/album/1yITIVwWWZxjIXufJ6Vxkp"
       },

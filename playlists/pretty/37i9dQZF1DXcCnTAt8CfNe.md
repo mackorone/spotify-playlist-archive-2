@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcCnTAt8CfNe.md) - [plain]
 
 > Soothe your mind with gentle instrumentals.
 
-[Spotify](https://open.spotify.com/user/spotify) - 609,926 likes - 200 songs - 9 hr 4 min
+[Spotify](https://open.spotify.com/user/spotify) - 609,942 likes - 200 songs - 9 hr 4 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -209,4 +209,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcCnTAt8CfNe.md) - [plain]
 | 199 | [Hidden Valley](https://open.spotify.com/track/3ztStvPKeul5VE2N9cbAl5) | [Stellar Voyager](https://open.spotify.com/artist/3yO4gt9FGhJNeaeLbxIVTQ) | [Hidden Valley](https://open.spotify.com/album/38gzAaKp4FFZ68jUOGVqDY) | 2:08 |
 | 200 | [Space Nova](https://open.spotify.com/track/6tGauaQ8wMi37yZ6xg5mcZ) | [Galaxies Stories](https://open.spotify.com/artist/0JgZLyaQxG308bo8e7QpY4) | [Space Nova](https://open.spotify.com/album/2Fl7Ow80SLkhk4sfeEYx9U) | 2:32 |
 
-Snapshot ID: `AAAAAM6wL1z7a0At+Ieuc5HK6s+nVxVF`
+Snapshot ID: `AAAAAIPtmkVN7hrP+ayRbRzbmPFsFx1J`

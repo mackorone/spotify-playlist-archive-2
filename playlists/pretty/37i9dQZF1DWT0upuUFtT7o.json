@@ -1,13 +1,61 @@
 {
-  "description": "The best new indie tracks from independent artists & labels. Cover: Eilish Constance ",
-  "num_followers": 261716,
+  "description": "The best new indie tracks from independent artists & labels. Cover: julip",
+  "num_followers": 261777,
   "original_name": "Fresh Finds Indie",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAACxMyzP/LwahMcTi4SO9oBlBIHW7",
+  "snapshot_id": "AAAAADKNYlHdisgJesvV3uTCIi57xpeE",
   "tracks": [
+    {
+      "added_at": "2026-11-25 18:58:37",
+      "album": {
+        "name": "DS-1",
+        "url": "https://open.spotify.com/album/7mL8QsQAG202pHGQSyMUKn"
+      },
+      "artists": [
+        {
+          "name": "julip",
+          "url": "https://open.spotify.com/artist/7093KDv5fe6sYv66nUo7kK"
+        }
+      ],
+      "duration_ms": 126060,
+      "name": "Get free",
+      "url": "https://open.spotify.com/track/3ZeOzHm3yk8oK6T6PXOsOr"
+    },
+    {
+      "added_at": "2026-11-25 18:58:37",
+      "album": {
+        "name": "I\u2019m Here, You\u2019re Gone",
+        "url": "https://open.spotify.com/album/4Upf73Yj2am6ETSgn0jVtm"
+      },
+      "artists": [
+        {
+          "name": "Polly",
+          "url": "https://open.spotify.com/artist/35oynIp89cQF1qjOZTRWkq"
+        }
+      ],
+      "duration_ms": 165891,
+      "name": "I'm Here, You're Gone",
+      "url": "https://open.spotify.com/track/0iLnBP5f8qA7TcHKAMYLoy"
+    },
+    {
+      "added_at": "2026-11-25 18:58:37",
+      "album": {
+        "name": "when the light is on",
+        "url": "https://open.spotify.com/album/7kxBRFqmpHCE6nc780afUg"
+      },
+      "artists": [
+        {
+          "name": "mikey",
+          "url": "https://open.spotify.com/artist/2ftTkWEgbZL8ziKDBRI9nr"
+        }
+      ],
+      "duration_ms": 171425,
+      "name": "when the light is on",
+      "url": "https://open.spotify.com/track/5JNTDCjfLXZ8PAyW5NgrUV"
+    },
     {
       "added_at": "2026-11-11 01:05:43",
       "album": {
@@ -23,6 +71,22 @@
       "duration_ms": 250953,
       "name": "You Are Mistaken",
       "url": "https://open.spotify.com/track/5FO51sTJlUfUmx5BTT4uG2"
+    },
+    {
+      "added_at": "2026-11-25 18:58:37",
+      "album": {
+        "name": "MY BLUFFS",
+        "url": "https://open.spotify.com/album/5FTrpySRr2wXk0bu6BowGf"
+      },
+      "artists": [
+        {
+          "name": "ASHMOOR",
+          "url": "https://open.spotify.com/artist/2EEBrnSW0zrrzVQKV1dYU8"
+        }
+      ],
+      "duration_ms": 243076,
+      "name": "MY BLUFFS",
+      "url": "https://open.spotify.com/track/5Dp8fFVPOOoOtKvsNXhgkZ"
     },
     {
       "added_at": "2026-11-18 19:57:34",
@@ -41,6 +105,22 @@
       "url": "https://open.spotify.com/track/3gr8hUGo6FIF38u263pkpq"
     },
     {
+      "added_at": "2026-11-25 18:58:37",
+      "album": {
+        "name": "Seek",
+        "url": "https://open.spotify.com/album/7dcmy3xfWFbP8nl6n5UjQp"
+      },
+      "artists": [
+        {
+          "name": "Horsepower",
+          "url": "https://open.spotify.com/artist/1ERf6Gecr1VWPzibnPJt1Y"
+        }
+      ],
+      "duration_ms": 205955,
+      "name": "Seek",
+      "url": "https://open.spotify.com/track/400L6FTlOQjnOZ9LLfwHor"
+    },
+    {
       "added_at": "2026-11-04 19:01:17",
       "album": {
         "name": "Shut up!",
@@ -57,6 +137,22 @@
       "url": "https://open.spotify.com/track/6b8fpbaD1gNQE8yxfvGegq"
     },
     {
+      "added_at": "2026-11-25 18:58:37",
+      "album": {
+        "name": "COLORS",
+        "url": "https://open.spotify.com/album/2GoDAWXKYVEtPxVXWhFheO"
+      },
+      "artists": [
+        {
+          "name": "WYSHLESS",
+          "url": "https://open.spotify.com/artist/2AYqw6Fr608CPQMAgN7gJH"
+        }
+      ],
+      "duration_ms": 135244,
+      "name": "APPETITE",
+      "url": "https://open.spotify.com/track/6N9SFFP7YHgqQ3W6LbRG0m"
+    },
+    {
       "added_at": "2026-11-18 17:27:01",
       "album": {
         "name": "goin' on tour!",
@@ -71,6 +167,22 @@
       "duration_ms": 139825,
       "name": "goin' on tour!",
       "url": "https://open.spotify.com/track/1h3H0AoLk5LPq2ecORwEAT"
+    },
+    {
+      "added_at": "2026-11-25 18:58:37",
+      "album": {
+        "name": "sofia",
+        "url": "https://open.spotify.com/album/1kyz0lLt5ncGTzM41WEYyP"
+      },
+      "artists": [
+        {
+          "name": "marguerite",
+          "url": "https://open.spotify.com/artist/6CzzTBO5FZARo0IXoWaLFv"
+        }
+      ],
+      "duration_ms": 300426,
+      "name": "sofia",
+      "url": "https://open.spotify.com/track/3c0Tvprlu84PD26mSwqrdW"
     },
     {
       "added_at": "2026-11-18 17:27:01",
@@ -1107,118 +1219,6 @@
       "duration_ms": 171185,
       "name": "Buckwild",
       "url": "https://open.spotify.com/track/5tZTF7CaQMZJwrTOL3M0HX"
-    },
-    {
-      "added_at": "2026-09-30 13:53:53",
-      "album": {
-        "name": "good and bad",
-        "url": "https://open.spotify.com/album/4IMlJIR73Rx53ucPC1xHm5"
-      },
-      "artists": [
-        {
-          "name": "Gash",
-          "url": "https://open.spotify.com/artist/1uiSPRIJiY4WSAqEeVS9jX"
-        }
-      ],
-      "duration_ms": 95381,
-      "name": "good and bad",
-      "url": "https://open.spotify.com/track/1qKJ9VWHwvhBAqyG6t7OIh"
-    },
-    {
-      "added_at": "2026-09-30 13:53:53",
-      "album": {
-        "name": "Be Careful II",
-        "url": "https://open.spotify.com/album/6YVAit02fSdYMSf53tGQSh"
-      },
-      "artists": [
-        {
-          "name": "Dawuna",
-          "url": "https://open.spotify.com/artist/5EWXvpxUaFhmjgWJZlXlVY"
-        }
-      ],
-      "duration_ms": 282909,
-      "name": "Be Careful II",
-      "url": "https://open.spotify.com/track/5XjiozytXOWnBQFXrvy16G"
-    },
-    {
-      "added_at": "2026-09-30 13:53:53",
-      "album": {
-        "name": "Running With the Angels",
-        "url": "https://open.spotify.com/album/1d2aT28HZREizVODwMrZBx"
-      },
-      "artists": [
-        {
-          "name": "Ava Dallas",
-          "url": "https://open.spotify.com/artist/6xFIVfJLRbHvyEW2AyezJg"
-        }
-      ],
-      "duration_ms": 172000,
-      "name": "Running With the Angels",
-      "url": "https://open.spotify.com/track/5ocmXwxko0fH1sCJXqpnKo"
-    },
-    {
-      "added_at": "2026-09-30 13:53:53",
-      "album": {
-        "name": "Dreams",
-        "url": "https://open.spotify.com/album/4CWgaMvmdKHqeEp62MlKqL"
-      },
-      "artists": [
-        {
-          "name": "Saint Clair",
-          "url": "https://open.spotify.com/artist/79T09chv3YznpSxUAaAiAw"
-        }
-      ],
-      "duration_ms": 191786,
-      "name": "Dreams",
-      "url": "https://open.spotify.com/track/6nVhXRDvm1OJxsHLlmn7vc"
-    },
-    {
-      "added_at": "2026-09-23 04:00:21",
-      "album": {
-        "name": "My Life's All Right",
-        "url": "https://open.spotify.com/album/2y5L7G1QlwJr9CJq7hJRKQ"
-      },
-      "artists": [
-        {
-          "name": "Dirt Buyer",
-          "url": "https://open.spotify.com/artist/6MzWbIkpg9it7v13OQkDdp"
-        }
-      ],
-      "duration_ms": 225064,
-      "name": "My Life's All Right",
-      "url": "https://open.spotify.com/track/54gCB10Rd8IMqqNJMIz4rd"
-    },
-    {
-      "added_at": "2026-10-07 15:10:23",
-      "album": {
-        "name": "Step Stool",
-        "url": "https://open.spotify.com/album/6imIuyyF1ANAA1c4pXgey8"
-      },
-      "artists": [
-        {
-          "name": "Wynne Collins",
-          "url": "https://open.spotify.com/artist/6h5b4XGaNg53aqbUj4JBhm"
-        }
-      ],
-      "duration_ms": 171080,
-      "name": "Step Stool",
-      "url": "https://open.spotify.com/track/0iYRk3FKn46LHmTr5qLjDp"
-    },
-    {
-      "added_at": "2026-09-30 13:53:53",
-      "album": {
-        "name": "I Fight Evil",
-        "url": "https://open.spotify.com/album/4HdOKxiYVUuUokAHSsXcnm"
-      },
-      "artists": [
-        {
-          "name": "Green Eyes, Witch Hands",
-          "url": "https://open.spotify.com/artist/5aS48dErr9DKZGr9O8JCMg"
-        }
-      ],
-      "duration_ms": 132072,
-      "name": "Rughook",
-      "url": "https://open.spotify.com/track/6aSrsBWXfPnuAbTeiamLBT"
     }
   ],
   "unique_name": "Fresh Finds Indie",

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaUMWxLmve7e.md) - [plain]
 
 > <a href="spotify:artist:0g3NiCRhEv7M4SEDMrpItN">TEED</a>'s favorite tracks\. Updated regularly\. Curated by TEED\. Discover more track IDs playlists <a href="spotify:genre:track\_id">here</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 2,822 likes - 97 songs - 9 hr 14 min
+[Spotify](https://open.spotify.com/user/spotify) - 2,825 likes - 97 songs - 9 hr 14 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -106,4 +106,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaUMWxLmve7e.md) - [plain]
 | 96 | [Caves Of Paradise](https://open.spotify.com/track/3xnuFffPh91bk1zX7f6alM) | [Actress](https://open.spotify.com/artist/3bg5rmICvmA8dmYVAdKGYH) | [R.I.P.](https://open.spotify.com/album/1iw1gr9TPYhIwmgoLPcRRG) | 4:15 |
 | 97 | [DIP TEK](https://open.spotify.com/track/3oOOfFJGEkxaErbBFHQJyp) | [INVT](https://open.spotify.com/artist/7iS41tYQBUyJsZYcxCse0D) | [8 AM Swim](https://open.spotify.com/album/4qo2WiFufk5W75f3H8jIK9) | 3:44 |
 
-Snapshot ID: `AAAAALCHGBA1gUdHD4cl6T/tyBg23Exr`
+Snapshot ID: `AAAAAEOE6CBjTgLWlntrPpbhhxRpF8X9`

@@ -1,12 +1,12 @@
 {
   "description": "Beste Nederlandstalige songs uit de 00's. Cover: Guus Meeuwis",
-  "num_followers": 53326,
+  "num_followers": 53340,
   "original_name": "00's Nederlandstalig",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAADHXBew43YSuCJzgSMTFjPzx0R82",
+  "snapshot_id": "AAAAAAGQPyzxgSSh2WhM6WSa4c0m3Q9Y",
   "tracks": [
     {
       "added_at": "2020-02-10 14:27:21",
@@ -179,22 +179,6 @@
     {
       "added_at": "2020-02-10 14:27:21",
       "album": {
-        "name": "Stilte In De Storm",
-        "url": "https://open.spotify.com/album/17jwtlwO5J9ALE9FaJwKfF"
-      },
-      "artists": [
-        {
-          "name": "Jan Smit",
-          "url": "https://open.spotify.com/artist/7iR5h6yGnTiswjsmj624Rq"
-        }
-      ],
-      "duration_ms": 234586,
-      "name": "Als Je Lacht",
-      "url": "https://open.spotify.com/track/0jIcyUmf5aANj4ZAaHTizi"
-    },
-    {
-      "added_at": "2020-02-10 14:27:21",
-      "album": {
         "name": "Onderweg",
         "url": "https://open.spotify.com/album/6aNqB0DO4ni5VNDEjDwH8g"
       },
@@ -211,18 +195,34 @@
     {
       "added_at": "2020-02-10 14:27:21",
       "album": {
-        "name": "Dicht bij jou",
-        "url": "https://open.spotify.com/album/4yy5Ku8m6RLG7T2oReQWIe"
+        "name": "Stilte In De Storm",
+        "url": "https://open.spotify.com/album/17jwtlwO5J9ALE9FaJwKfF"
       },
       "artists": [
         {
-          "name": "Frans Bauer",
-          "url": "https://open.spotify.com/artist/0v4CvkMzWBQ1wZIMl2BqQW"
+          "name": "Jan Smit",
+          "url": "https://open.spotify.com/artist/7iR5h6yGnTiswjsmj624Rq"
         }
       ],
-      "duration_ms": 198813,
-      "name": "Heb Je Even Voor Mij",
-      "url": "https://open.spotify.com/track/7B78M515588woNjQFBdGcJ"
+      "duration_ms": 234586,
+      "name": "Als Je Lacht",
+      "url": "https://open.spotify.com/track/0jIcyUmf5aANj4ZAaHTizi"
+    },
+    {
+      "added_at": "2020-02-10 14:27:21",
+      "album": {
+        "name": "Vaag En Stil",
+        "url": "https://open.spotify.com/album/6datZIaGAIGyW2JSYvAVi4"
+      },
+      "artists": [
+        {
+          "name": "Andre Hazes",
+          "url": "https://open.spotify.com/artist/04MtOUkmIDC4LAxDDBjrOY"
+        }
+      ],
+      "duration_ms": 211293,
+      "name": "Vaag En Stil",
+      "url": "https://open.spotify.com/track/0BVy4Py6rXaTjPagS1L7z3"
     },
     {
       "added_at": "2022-12-22 07:38:40",
@@ -243,34 +243,18 @@
     {
       "added_at": "2020-02-10 14:27:21",
       "album": {
-        "name": "Vaag En Stil",
-        "url": "https://open.spotify.com/album/6datZIaGAIGyW2JSYvAVi4"
+        "name": "Dicht bij jou",
+        "url": "https://open.spotify.com/album/4yy5Ku8m6RLG7T2oReQWIe"
       },
       "artists": [
         {
-          "name": "Andre Hazes",
-          "url": "https://open.spotify.com/artist/04MtOUkmIDC4LAxDDBjrOY"
+          "name": "Frans Bauer",
+          "url": "https://open.spotify.com/artist/0v4CvkMzWBQ1wZIMl2BqQW"
         }
       ],
-      "duration_ms": 211293,
-      "name": "Vaag En Stil",
-      "url": "https://open.spotify.com/track/0BVy4Py6rXaTjPagS1L7z3"
-    },
-    {
-      "added_at": "2020-02-10 14:27:21",
-      "album": {
-        "name": "Onvoorspelbaar",
-        "url": "https://open.spotify.com/album/222CHh4D7v0n6vgyYOz67w"
-      },
-      "artists": [
-        {
-          "name": "De Kast",
-          "url": "https://open.spotify.com/artist/0X6CDvMiFMeLxVnKUq9oWy"
-        }
-      ],
-      "duration_ms": 268866,
-      "name": "Hart Van Mijn Gevoel",
-      "url": "https://open.spotify.com/track/75og56sR5lahWgyRyhag5w"
+      "duration_ms": 198813,
+      "name": "Heb Je Even Voor Mij",
+      "url": "https://open.spotify.com/track/7B78M515588woNjQFBdGcJ"
     },
     {
       "added_at": "2023-04-12 19:49:41",
@@ -291,6 +275,22 @@
       "duration_ms": 246000,
       "name": "Voorbij",
       "url": "https://open.spotify.com/track/5dOov14V6FD3sEjDZMiRS6"
+    },
+    {
+      "added_at": "2020-02-10 14:27:21",
+      "album": {
+        "name": "Onvoorspelbaar",
+        "url": "https://open.spotify.com/album/222CHh4D7v0n6vgyYOz67w"
+      },
+      "artists": [
+        {
+          "name": "De Kast",
+          "url": "https://open.spotify.com/artist/0X6CDvMiFMeLxVnKUq9oWy"
+        }
+      ],
+      "duration_ms": 268866,
+      "name": "Hart Van Mijn Gevoel",
+      "url": "https://open.spotify.com/track/75og56sR5lahWgyRyhag5w"
     },
     {
       "added_at": "2020-02-10 14:27:21",
@@ -347,22 +347,6 @@
     {
       "added_at": "2020-02-10 14:27:21",
       "album": {
-        "name": "Krak",
-        "url": "https://open.spotify.com/album/4QQfYGj7CJtp20bWCGV2E2"
-      },
-      "artists": [
-        {
-          "name": "Neet o\u00e9t Lottum",
-          "url": "https://open.spotify.com/artist/4wx8VK3kpeVYQSk9mUsmWY"
-        }
-      ],
-      "duration_ms": 250733,
-      "name": "Hald Mich 'S Vas",
-      "url": "https://open.spotify.com/track/20yjgzUpdqsYAMykkEWipE"
-    },
-    {
-      "added_at": "2020-02-10 14:27:21",
-      "album": {
         "name": "Luid En Duidelijk",
         "url": "https://open.spotify.com/album/2CkRlPC91z87ZCXrQS83P1"
       },
@@ -375,6 +359,22 @@
       "duration_ms": 274933,
       "name": "Binnen",
       "url": "https://open.spotify.com/track/6BXM76LZQ1KJ3j7ONB2jBY"
+    },
+    {
+      "added_at": "2020-02-10 14:27:21",
+      "album": {
+        "name": "Krak",
+        "url": "https://open.spotify.com/album/4QQfYGj7CJtp20bWCGV2E2"
+      },
+      "artists": [
+        {
+          "name": "Neet o\u00e9t Lottum",
+          "url": "https://open.spotify.com/artist/4wx8VK3kpeVYQSk9mUsmWY"
+        }
+      ],
+      "duration_ms": 250733,
+      "name": "Hald Mich 'S Vas",
+      "url": "https://open.spotify.com/track/20yjgzUpdqsYAMykkEWipE"
     },
     {
       "added_at": "2020-02-10 14:27:21",
@@ -425,22 +425,6 @@
       "url": "https://open.spotify.com/track/2PSAQqjeeDG3QKWv8Jaiz5"
     },
     {
-      "added_at": "2021-11-22 15:25:46",
-      "album": {
-        "name": "Muzikanten Dansen Niet",
-        "url": "https://open.spotify.com/album/0oVWWldlWhw01N8NyEbCCy"
-      },
-      "artists": [
-        {
-          "name": "De Dijk",
-          "url": "https://open.spotify.com/artist/4jFkB3Lzjku9SFKUTP33WV"
-        }
-      ],
-      "duration_ms": 199186,
-      "name": "Dat Zou Mooi Zijn",
-      "url": "https://open.spotify.com/track/0GkwHMM9VGkIf3d6mJqZdp"
-    },
-    {
       "added_at": "2020-02-10 14:27:21",
       "album": {
         "name": "Onderweg",
@@ -459,6 +443,22 @@
       "duration_ms": 268466,
       "name": "Lopen Op Het Water",
       "url": "https://open.spotify.com/track/3w0op8UIfndZVmTiQzo4z1"
+    },
+    {
+      "added_at": "2021-11-22 15:25:46",
+      "album": {
+        "name": "Muzikanten Dansen Niet",
+        "url": "https://open.spotify.com/album/0oVWWldlWhw01N8NyEbCCy"
+      },
+      "artists": [
+        {
+          "name": "De Dijk",
+          "url": "https://open.spotify.com/artist/4jFkB3Lzjku9SFKUTP33WV"
+        }
+      ],
+      "duration_ms": 199186,
+      "name": "Dat Zou Mooi Zijn",
+      "url": "https://open.spotify.com/track/0GkwHMM9VGkIf3d6mJqZdp"
     },
     {
       "added_at": "2020-02-10 14:27:21",

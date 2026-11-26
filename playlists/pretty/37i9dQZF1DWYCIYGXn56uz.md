@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYCIYGXn56uz.md) - [plain]
 
 > solo le tracce con l'aura migliore 👾 Will in cover
 
-[Spotify](https://open.spotify.com/user/spotify) - 455,674 likes - 86 songs - 4 hr 6 min
+[Spotify](https://open.spotify.com/user/spotify) - 455,645 likes - 86 songs - 4 hr 6 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -54,7 +54,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYCIYGXn56uz.md) - [plain]
 | 44 | [Sophie](https://open.spotify.com/track/2rVSMumYglBowXjpwz8wPk) | [soap](https://open.spotify.com/artist/1HHQ5Lz44duNiQmpzKU0jd) | [Sophie](https://open.spotify.com/album/5HLf5wdtI5ExtcmmGKCc4b) | 2:30 |
 | 45 | [Não tenho medo :\)](https://open.spotify.com/track/2MmIB4Z96yrGXJIY8laqbO) | [Yaraki](https://open.spotify.com/artist/6NEJLQRMkIN8ud5ng05XIX) | [Não tenho medo :\)](https://open.spotify.com/album/5zZET6cj2jCsZoyYWjMif5) | 2:09 |
 | 46 | [Polo Nord](https://open.spotify.com/track/4Gx9crSWmQDhEzJJ34me9r) | [Yaraki](https://open.spotify.com/artist/6NEJLQRMkIN8ud5ng05XIX) | [13esima Casa](https://open.spotify.com/album/4sCbW37toIUY6oE1zAOwbR) | 2:49 |
-| 47 | [LA VOCE CHE SA DI TE \(con Nap\)](https://open.spotify.com/track/5RtJEdWKgOXybPFSohQ15c) | [Dea Culpa](https://open.spotify.com/artist/6X4wWxYIAoGnnNN6jh5jPI), [Ciao sono Vale](https://open.spotify.com/artist/4F9QCOBWpH7P6zZwF6kKOc), [Nap](https://open.spotify.com/artist/5EKlohYn204yWxXa3af021) | [LA VOCE CHE SA DI TE \(con Nap\)](https://open.spotify.com/album/62H0nuZtgfrMA4S4H5xCu1) | 2:55 |
+| 47 | [LA VOCE CHE SA DI TE](https://open.spotify.com/track/5RtJEdWKgOXybPFSohQ15c) | [Dea Culpa](https://open.spotify.com/artist/6X4wWxYIAoGnnNN6jh5jPI), [Ciao sono Vale](https://open.spotify.com/artist/4F9QCOBWpH7P6zZwF6kKOc), [Nap](https://open.spotify.com/artist/5EKlohYn204yWxXa3af021) | [LA VOCE CHE SA DI TE](https://open.spotify.com/album/62H0nuZtgfrMA4S4H5xCu1) | 2:55 |
 | 48 | [Separé](https://open.spotify.com/track/3HWZxiW8W1WXVLTFthTk1U) | [Ansia](https://open.spotify.com/artist/3fmce3XLRo9bB4fn9DHpIX) | [Separé](https://open.spotify.com/album/5tWbLhtL3eubacCkFpIp5k) | 3:28 |
 | 49 | [NON SEI PIÙ TU \(feat\. Lazza\)](https://open.spotify.com/track/1mkBx5wejPP9j4TVdcUQny) | [Geolier](https://open.spotify.com/artist/27LlKWxS3KXW7RRAxN5S8s), [Lazza](https://open.spotify.com/artist/0jdNdfi4vAuVi7a6cPDFBM) | [TUTTO È POSSIBILE \- ATTO II](https://open.spotify.com/album/1GQv9fO8cPaKZtIoQT7qFK) | 2:54 |
 | 50 | [ELETTRICA](https://open.spotify.com/track/6u0f1DLzQgPr3ZJEvo8vpx) | [Luk3](https://open.spotify.com/artist/0whO28HUyJLt9F0bLNzqU1) | [ELETTRICA](https://open.spotify.com/album/1bsBvoofX4HS7kVuSUSwmP) | 3:00 |
@@ -95,4 +95,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYCIYGXn56uz.md) - [plain]
 | 85 | [AMORE MIO](https://open.spotify.com/track/1UEujcSheeWse1H3W1NEpD) | [Il Fubbe](https://open.spotify.com/artist/6eULbvhzeUO89wEE3fjvLM) | [AMORE MIO](https://open.spotify.com/album/2Fa4l02Y9wQ8zehCOzTyGG) | 2:32 |
 | 86 | [Bel venerdì](https://open.spotify.com/track/7e3L4E70QnI1hierB1Lynk) | [Eddie Brock](https://open.spotify.com/artist/0harR1ApYeMN6GOLBNMiUR) | [Amarsi è la rivoluzione \(Deluxe\)](https://open.spotify.com/album/084PMCGrwjTtiUBD8ITXbg) | 3:11 |
 
-Snapshot ID: `AAAAAJXBJEO/FrkDSwDGiEV8q30npRmd`
+Snapshot ID: `AAAAAGnSrTGBw07nLt8v/H7p1IxewiMa`

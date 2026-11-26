@@ -4,7 +4,7 @@
 
 > Dream away with sleep sounds of nature and green noise frequencies \- water, ocean sounds and breaking waves.
 
-149 songs - 6 hr 52 min
+149 songs - 6 hr 53 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -144,7 +144,7 @@
 | [The Green Ocean](https://open.spotify.com/track/3dlzOQTsVKxyz2hFQgCAQY) | [Sleep White Noise](https://open.spotify.com/artist/7ohMIf7cEsbM1KajDrHGoY) | [Green Noise Waves](https://open.spotify.com/album/2v7Al6TGgVAUYIF8U2bgJ9) | 2:23 | 2024-02-13 |  |
 | [The Sleep \(500 Hz LP, 100 Hz HP\)](https://open.spotify.com/track/2EZmdpnq1dViZ8FMmYUtyo) | [NC2 LABORATORIES](https://open.spotify.com/artist/4GuuCagyjrhs4IeWuIkkqH) | [Green Noise For Sleep](https://open.spotify.com/album/1sZdqcTAisbduusYXNk9LK) | 3:20 | 2023-10-05 |  |
 | [Verdigris \(Green Noise\)](https://open.spotify.com/track/3eDCjGdm8Wl2qyo52XzSNL) | [Noise and Nature](https://open.spotify.com/artist/2hcGTRaH2FXoKel4UTGWJ0) | [Epitome of Green Noise](https://open.spotify.com/album/4QdDeWetZgTdloFcQ2J4Ko) | 2:44 | 2023-10-05 |  |
-| [Wave Sounds Noise](https://open.spotify.com/track/6gcAcWe07UE2I5bUzR0j8R) | [Nimbrel](https://open.spotify.com/artist/5pUc7xLQ3RUmUEh7eJQWvk) | [Pure Waves Green Noise](https://open.spotify.com/album/22x7sOkdJwKVpECsSs2MBB) | 1:39 | 2026-03-31 |  |
+| [Wave Sounds Noise](https://open.spotify.com/track/6gcAcWe07UE2I5bUzR0j8R) | [Nimbrel](https://open.spotify.com/artist/5pUc7xLQ3RUmUEh7eJQWvk) | [Pure Waves Green Noise](https://open.spotify.com/album/22x7sOkdJwKVpECsSs2MBB) | 2:17 | 2026-03-31 |  |
 | [Waves](https://open.spotify.com/track/7wOuuxbQB0kP3ggX03icUs) | [Sleep White Noise](https://open.spotify.com/artist/7ohMIf7cEsbM1KajDrHGoY) | [Green Noise Waves](https://open.spotify.com/album/2v7Al6TGgVAUYIF8U2bgJ9) | 2:51 | 2024-02-13 |  |
 | [Waves Hitting Rocks](https://open.spotify.com/track/5149jZeDqwWPrJ0jrW3SKI) | [Surf & Turf](https://open.spotify.com/artist/50629oufjz881d0uHfUC3n) | [Coastline Chorus](https://open.spotify.com/album/2neOlMvrCBU5uGyTDNA9A7) | 3:12 | 2023-10-05 |  |
 | [Waves of Green Noise](https://open.spotify.com/track/73iRAmayzszVW9RtQbmKFW) | [Ozeanus](https://open.spotify.com/artist/6F1PK9RhhsAJbkt9g0VnYB) | [Waves of Green Noise](https://open.spotify.com/album/4or1sbutGrnDPUjpkCQwXG) | 3:24 | 2024-02-13 |  |

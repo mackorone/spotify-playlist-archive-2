@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUdsUUs0FzN4.md) - [plain]
 
 > bailando en el antro con EMJAY y DANNA hasta el amanecer
 
-[Spotify](https://open.spotify.com/user/spotify) - 24,842 likes - 80 songs - 3 hr 51 min
+[Spotify](https://open.spotify.com/user/spotify) - 24,851 likes - 80 songs - 3 hr 51 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -65,11 +65,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUdsUUs0FzN4.md) - [plain]
 | 55 | [Rx](https://open.spotify.com/track/5H6aG4YDBk5KtXvqYxqeNF) | [Rubí](https://open.spotify.com/artist/0DA4L4QIuO2hKNrMURuEHJ), [Slayter](https://open.spotify.com/artist/44cW3xznP61BXbu0e7fgxn) | [Rx](https://open.spotify.com/album/2Hu1S0oEELiNmkHOTJZIxA) | 3:16 |
 | 56 | [Millonari](https://open.spotify.com/track/4bUZERmbU1gjvQlGv5JKSb) | [Fito Silva](https://open.spotify.com/artist/4tHa8OTperDggyxlVjnB64), [Cachirula](https://open.spotify.com/artist/5vcFoQxKd0ZpA178xDU12G), [LOOJAN](https://open.spotify.com/artist/7lXN2zsTNeVB1MM7rIrWnI) | [Millonari](https://open.spotify.com/album/6A7j3iU4dHUmnLeRANOpio) | 2:36 |
 | 57 | [ESTAS MELODÍAS](https://open.spotify.com/track/3PA4Pcq5zFNowx7KLPPE0I) | [COSMIC KID](https://open.spotify.com/artist/4JuwA35M2yrQkpOSokiH9h) | [ESTAS MELODÍAS](https://open.spotify.com/album/2xJmqV3PVcUlBszisBGLWm) | 3:23 |
-| 58 | [RULETEO](https://open.spotify.com/track/3nye2qe6Ymz6M4iiFlHYp1) | [Elilluminari](https://open.spotify.com/artist/0BHo5QBLAjH32hoe4xHGYq), [Rubens Vibes](https://open.spotify.com/artist/5cAU2ypVyYjkMVBg7K7YTP), [Millonario](https://open.spotify.com/artist/2N2aJ1SXQxMkhHD8C6fhYD), [DELATORRE](https://open.spotify.com/artist/1uzTzhWHHXv3IM4tovnjKT) | [RULETEO](https://open.spotify.com/album/5XXD422rYEMorwZuOH16hv) | 3:36 |
-| 59 | [nunca me duermo!\*](https://open.spotify.com/track/4n1Oy3PZtUp0yHid1hJ0e0) | [Young Cister](https://open.spotify.com/artist/0Yg29FX1M4ayqjXs0ttZFq) | [LA CIUDAD NUNCA DUERME\*](https://open.spotify.com/album/6q0eNeShaKS7mRom4HunuI) | 1:51 |
+| 58 | [nunca me duermo!\*](https://open.spotify.com/track/4n1Oy3PZtUp0yHid1hJ0e0) | [Young Cister](https://open.spotify.com/artist/0Yg29FX1M4ayqjXs0ttZFq) | [LA CIUDAD NUNCA DUERME\*](https://open.spotify.com/album/6q0eNeShaKS7mRom4HunuI) | 1:51 |
+| 59 | [RULETEO](https://open.spotify.com/track/3nye2qe6Ymz6M4iiFlHYp1) | [Elilluminari](https://open.spotify.com/artist/0BHo5QBLAjH32hoe4xHGYq), [Rubens Vibes](https://open.spotify.com/artist/5cAU2ypVyYjkMVBg7K7YTP), [Millonario](https://open.spotify.com/artist/2N2aJ1SXQxMkhHD8C6fhYD), [DELATORRE](https://open.spotify.com/artist/1uzTzhWHHXv3IM4tovnjKT) | [RULETEO](https://open.spotify.com/album/5XXD422rYEMorwZuOH16hv) | 3:36 |
 | 60 | [ROKALETA!](https://open.spotify.com/track/0lt39TTaP09rUJspqQxvQa) | [RIXXIA](https://open.spotify.com/artist/3hYqpAsKi9wuhkkFNwdihn), [RIVVAA](https://open.spotify.com/artist/1EJ9teYCbzR1V2uGOaqzK5) | [ROKALETA!](https://open.spotify.com/album/0lvjK0WwoO0eKXScQaPQlI) | 2:48 |
-| 61 | [LOBO](https://open.spotify.com/track/5G2slHqvNBwVi5uefAo0lT) | [EMJAY](https://open.spotify.com/artist/5TtCVmeuicGu9EIwiFQcyn) | [LOBO](https://open.spotify.com/album/6X2cduTYmnwObk9vQYUsbb) | 2:27 |
-| 62 | [HAVE UR FUN](https://open.spotify.com/track/2y81y5PhY0vNS5IddfunZQ) | [Molly Ritz](https://open.spotify.com/artist/7gQWrhzKwjFfuN64k2bvVh), [Dan García](https://open.spotify.com/artist/2yqTf1WKahF4ViLmvnX6Fy) | [HAVE UR FUN](https://open.spotify.com/album/5Czjl0CMoMN92CofexwWIN) | 2:59 |
+| 61 | [HAVE UR FUN](https://open.spotify.com/track/2y81y5PhY0vNS5IddfunZQ) | [Molly Ritz](https://open.spotify.com/artist/7gQWrhzKwjFfuN64k2bvVh), [Dan García](https://open.spotify.com/artist/2yqTf1WKahF4ViLmvnX6Fy) | [HAVE UR FUN](https://open.spotify.com/album/5Czjl0CMoMN92CofexwWIN) | 2:59 |
+| 62 | [LOBO](https://open.spotify.com/track/5G2slHqvNBwVi5uefAo0lT) | [EMJAY](https://open.spotify.com/artist/5TtCVmeuicGu9EIwiFQcyn) | [LOBO](https://open.spotify.com/album/6X2cduTYmnwObk9vQYUsbb) | 2:27 |
 | 63 | [Pensándote](https://open.spotify.com/track/5vdtdW6gXrJKzHQZp5CICO) | [Diana Meril](https://open.spotify.com/artist/2VzNlNyc9lEAKr7wjKnTlo) | [Pensándote](https://open.spotify.com/album/1INSoJE5lu00Fs2zAW90uw) | 2:53 |
 | 64 | [incompatibles](https://open.spotify.com/track/4UuPW5pNUwY46OhmaxwrvN) | [FaceBrooklyn](https://open.spotify.com/artist/0HGYhpDqId26b8YElUubo8) | [no somos iguales](https://open.spotify.com/album/6lbBaRx5ZVYaMW9zDJodhI) | 2:51 |
 | 65 | [superloved!](https://open.spotify.com/track/24LSHVR39KTK8Y0kQngmBv) | [iuky](https://open.spotify.com/artist/0DSyNVb6qcsOmbTTN1Yzs9) | [ai nostalgia](https://open.spotify.com/album/1lzvc6Q7bjThtfFjP4J5PE) | 2:18 |
@@ -89,4 +89,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUdsUUs0FzN4.md) - [plain]
 | 79 | [ENTE VIRTUAL](https://open.spotify.com/track/3C03edn86LdGuAMO3bIDqr) | [Chzter](https://open.spotify.com/artist/5aIzq2RvChAJtWFwOBNxDj), [Tzunami](https://open.spotify.com/artist/2cBbmcVOi87IB5bpl05Hv8), [Doony Graff](https://open.spotify.com/artist/07yMfbKCotpnWFjCkxPYt0) | [ENTE VIRTUAL](https://open.spotify.com/album/0b99jXx0r365IFJFdsaf6I) | 2:09 |
 | 80 | [Hoja al Viento](https://open.spotify.com/track/2sEtxXOYvDoiYqnUoWCTxr) | [Maria Daniela Y Su Sonido Lasser](https://open.spotify.com/artist/077cgSU8i5wTnz5lZGQ7z4) | [Hoja al Viento](https://open.spotify.com/album/1HY5dDTh9hSO1SaNWemeFe) | 3:18 |
 
-Snapshot ID: `AAAAAK3QKjDUE32cmHPnJgDxRd77+9v6`
+Snapshot ID: `AAAAAFsz0nXkTzrAPtUjaeTPJipq1wfG`

@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-01-09",
-  "description": "The best new music from independent artists. Curated with love by human Spotify editors. Cover: Gloryen. Artwork: Isu Kim.\n",
+  "description": "The best new music from independent artists. Curated with love by human Spotify editors. Cover: baby bawal, Lei Amiel. Artwork: Isu Kim.\n",
   "name": "Fresh Finds Philippines",
   "tracks": [
     {
@@ -9403,6 +9403,28 @@
     },
     {
       "album": {
+        "name": "BETTERGOOD",
+        "url": "https://open.spotify.com/album/60WZeqX8jkNgKGlua6JGUI"
+      },
+      "artists": [
+        {
+          "name": "baby bawal",
+          "url": "https://open.spotify.com/artist/38Szmm1RwvDTFRNdQYzTiS"
+        },
+        {
+          "name": "Lei Amiel",
+          "url": "https://open.spotify.com/artist/4aJLfhUqNM6fWB1sxsgHtP"
+        }
+      ],
+      "date_added": "2026-11-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 200248,
+      "name": "BETTERGOOD",
+      "url": "https://open.spotify.com/track/2LwBdJ0DP5tpKxReUsC0sk"
+    },
+    {
+      "album": {
         "name": "Between The Lines",
         "url": "https://open.spotify.com/album/0iRDPYwxwApTMLSLFqUMYf"
       },
@@ -18174,7 +18196,7 @@
       ],
       "date_added": "2026-09-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-26",
       "duration_ms": 142183,
       "name": "Don't Do Drugs",
       "url": "https://open.spotify.com/track/2bZX4WPeJ9aqCnGDUo72sZ"
@@ -49104,7 +49126,7 @@
       ],
       "date_added": "2026-09-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-26",
       "duration_ms": 148799,
       "name": "NO SCHLEEP",
       "url": "https://open.spotify.com/track/6MQQ2gGjYABlbgbdPo8fLs"
@@ -55594,6 +55616,24 @@
       "duration_ms": 185121,
       "name": "Patuloy",
       "url": "https://open.spotify.com/track/3KU0gHOLZd7e37xPdyNN6v"
+    },
+    {
+      "album": {
+        "name": "Patuloy Lang",
+        "url": "https://open.spotify.com/album/3U65Mp1xBjDEbKENB2v3fV"
+      },
+      "artists": [
+        {
+          "name": "CJ Navato",
+          "url": "https://open.spotify.com/artist/4JCdmntMNGhhBEdrupwzAT"
+        }
+      ],
+      "date_added": "2026-11-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 195500,
+      "name": "Patuloy Lang",
+      "url": "https://open.spotify.com/track/09P9NFDf8KnoenZ1e7dgYX"
     },
     {
       "album": {
@@ -64030,7 +64070,7 @@
       ],
       "date_added": "2026-08-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-26",
       "duration_ms": 173281,
       "name": "Sige Lang!",
       "url": "https://open.spotify.com/track/12n9IalbtQrGTQHoPCTXu8"
@@ -79608,6 +79648,24 @@
       "duration_ms": 120833,
       "name": "Yours?",
       "url": "https://open.spotify.com/track/6SsMRAqPeqLao29ZaLBHQm"
+    },
+    {
+      "album": {
+        "name": "you're LATE!",
+        "url": "https://open.spotify.com/album/1QtYZuiLcs0vAAEorIi4Ob"
+      },
+      "artists": [
+        {
+          "name": "gny",
+          "url": "https://open.spotify.com/artist/3TkW2R9Gxxh01XyuyrmqcJ"
+        }
+      ],
+      "date_added": "2026-11-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 165288,
+      "name": "you\u2019re LATE!",
+      "url": "https://open.spotify.com/track/0Ki3r3CHLOzigXzc68izTG"
     },
     {
       "album": {

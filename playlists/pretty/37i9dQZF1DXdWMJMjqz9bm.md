@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdWMJMjqz9bm.md) - [plain]
 
 > a little rap, a little pop, a little country..\. sometimes\. Thekidszn on the cover.
 
-[Spotify](https://open.spotify.com/user/spotify) - 226,963 likes - 40 songs - 1 hr 45 min
+[Spotify](https://open.spotify.com/user/spotify) - 226,959 likes - 40 songs - 1 hr 45 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -49,4 +49,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdWMJMjqz9bm.md) - [plain]
 | 39 | [Crash First \(with mgk\)](https://open.spotify.com/track/5KoNZJsXDXoQrgCMoHY6FO) | [honestav](https://open.spotify.com/artist/5LvRazQ7EDZLfQU4HYc6XF), [mgk](https://open.spotify.com/artist/6TIYQ3jFPwQSRmorSezPxX) | [Crash First](https://open.spotify.com/album/4KDBHNs6XR1OqZETv8QXPi) | 3:43 |
 | 40 | [everything tatted](https://open.spotify.com/track/0qHEjwpsef1vuOUP5OoBvZ) | [mgk](https://open.spotify.com/artist/6TIYQ3jFPwQSRmorSezPxX), [Wiz Khalifa](https://open.spotify.com/artist/137W8MRPWKqSmrBGDBFSop) | [everything tatted](https://open.spotify.com/album/0qr3T3nplk2vw8hYxGPicO) | 3:25 |
 
-Snapshot ID: `AAAAANiQGIu2GqLzvw02MP/BoiWyMT2a`
+Snapshot ID: `AAAAAEWO77xOs0SQqxQYi5BQNRx2992H`

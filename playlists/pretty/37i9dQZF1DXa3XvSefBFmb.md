@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXa3XvSefBFmb.md) - [plain]
 
 > Ouve estas extraordinárias artistas, como Chelsea Dinorath, e explora as músicas escolhidas pelos nossos editores.
 
-[Spotify](https://open.spotify.com/user/spotify) - 16,617 likes - 50 songs - 2 hr 38 min
+[Spotify](https://open.spotify.com/user/spotify) - 16,616 likes - 50 songs - 2 hr 38 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXa3XvSefBFmb.md) - [plain]
 | 49 | [O Pai](https://open.spotify.com/track/0wnpc283RUxKyh0Qo0q4JG) | [Anna Joyce](https://open.spotify.com/artist/0TFtGB2jsMA97sNDTLJ8QX), [Paulo Flores](https://open.spotify.com/artist/13y1zLuj38wQ2HtSSMa13M) | [O Pai](https://open.spotify.com/album/06j1stQOZfmrrhNILMr63w) | 5:06 |
 | 50 | [Pau Santo](https://open.spotify.com/track/4t40RekrJA3S2N3vnrzBuc) | [Blaya](https://open.spotify.com/artist/0kWbj6PdoovMr1GXFcvJ5A), [Manga Limão](https://open.spotify.com/artist/7mlFrFKSmpTpHUynE3sXkB) | [Pau Santo](https://open.spotify.com/album/3Ys89CQDcWhNNJCd4LqiPl) | 2:53 |
 
-Snapshot ID: `AAAAAJQFIPJcEYPC7dF1d4xyUzri2SSU`
+Snapshot ID: `AAAAAEyZpSgTSxpXob0hn2GZ9Fup9Rtz`

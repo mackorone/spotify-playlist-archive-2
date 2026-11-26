@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX11otjJ7crqp.md) - [plain]
 
 > All this week's best new pop releases\. Cover: Gracie Abrams
 
-[Spotify](https://open.spotify.com/user/spotify) - 359,379 likes - 150 songs - 7 hr 57 min
+[Spotify](https://open.spotify.com/user/spotify) - 359,668 likes - 150 songs - 7 hr 57 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -159,4 +159,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX11otjJ7crqp.md) - [plain]
 | 149 | [What we want and need from love](https://open.spotify.com/track/6KoBqazoogdxoa2fs42ktF) | [Mila Bea](https://open.spotify.com/artist/2zNoOjMtnHPRWgZKqEhxXm) | [What we want and need from love](https://open.spotify.com/album/6vr03B0AIqHXL597wAroV2) | 4:13 |
 | 150 | [Casual Crime](https://open.spotify.com/track/52Ww5RZpJuDWttqnIBeGr3) | [Lyn Lapid](https://open.spotify.com/artist/4pfy05cNNTacuOQ6SiSu4v) | [Casual Crime](https://open.spotify.com/album/35q3NeLzH7VRKep6AtGFY1) | 2:35 |
 
-Snapshot ID: `AAAAACyGF4/ieTqe9HyAPOH8D3fjUf8R`
+Snapshot ID: `AAAAAPhGgTho1Kg9cDP9X0oQ3aKHUmsS`

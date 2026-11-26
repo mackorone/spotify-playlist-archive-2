@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/5e6Fh9M8H5B7CAoqHFa3yu.md) - [plain]
 
 > forever young  playlist Spotify, our Music Free, playlist funny, playlist everytime, Playlist to Study, crisvola playlist spotify
 
-[Cristian Nevola](https://open.spotify.com/user/1188041238) - 361 likes - 2,914 songs - 7 day 1 hr 19 min
+[Cristian Nevola](https://open.spotify.com/user/1188041238) - 362 likes - 2,916 songs - 7 day 1 hr 26 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -2922,5 +2922,7 @@ pretty - [cumulative](/playlists/cumulative/5e6Fh9M8H5B7CAoqHFa3yu.md) - [plain]
 | 2912 | [The Wrong Side of Lost Creek Road](https://open.spotify.com/track/4i24GF3yF7Btw8tKoFGOup) | [TimJDean](https://open.spotify.com/artist/3LgStKz1Nr9W12CfPu1zBR) | [The Wrong Side of Lost Creek Road](https://open.spotify.com/album/5HcAv6kLeBytDJzU0wWbhh) | 2:48 |
 | 2913 | [Promise](https://open.spotify.com/track/2LU7YxQltA1D4wqIH3czqZ) | [Duarte Guelha](https://open.spotify.com/artist/7wUeIY5Du4ZoNo7dIxTdI8), [Ana Luísa](https://open.spotify.com/artist/4Bd9vnfeqJT6llA5oD1etP) | [Burn EP](https://open.spotify.com/album/4vIEM4CtVlXChNCeUjEaG2) | 2:41 |
 | 2914 | [Luna](https://open.spotify.com/track/2wq3wueOGylwRWuFOiPUGQ) | [DiverCounty](https://open.spotify.com/artist/6haCKefQwrqgAzCq7lbv90) | [Luna](https://open.spotify.com/album/0K2zQgvkrMAi4iyzHg7SRe) | 3:50 |
+| 2915 | [Do\-Over](https://open.spotify.com/track/1YJ3zTjKvYrPwNV1EdCtn7) | [Alessandro Ciminata](https://open.spotify.com/artist/2dUzpcaCyW2RWTNrlv3Sjv) | [Do\-Over](https://open.spotify.com/album/1TgQo2IG7BtEdjrpx8pLby) | 3:03 |
+| 2916 | [When You Left the Room \- Extrait de l'album 2026 PASSING THROUGH THE LIGHT](https://open.spotify.com/track/5gd9yNnfYFZXRvBEkQDcgZ) | [RIAN L](https://open.spotify.com/artist/7zuENAgeXHuL6ybjeTSK3u) | [When You Left the Room](https://open.spotify.com/album/45NrpppgY1x8nlXnLdq1cw) | 3:30 |
 
-Snapshot ID: `AAAMWtN+FTLyjI1r8WVG6/dxsCM90Tvs`
+Snapshot ID: `AAAMXF/h/GnNHjBuxTztwy47RphN0FUp`

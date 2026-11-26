@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVKDF4ycOESi.md) - [plain]
 
 > Nuovi brani di Sfera Ebbasta, Dua Lipa, Angelica Bove, Jul e J Balvin, Gracie Abrams e tanti altri.
 
-[Spotify](https://open.spotify.com/user/spotify) - 372,235 likes - 95 songs - 4 hr 48 min
+[Spotify](https://open.spotify.com/user/spotify) - 372,211 likes - 95 songs - 4 hr 48 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -104,4 +104,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVKDF4ycOESi.md) - [plain]
 | 94 | [SHADY SHADY](https://open.spotify.com/track/5Qd7BEDjCSpdJak3MwdNfo) | [Ganges](https://open.spotify.com/artist/7gtqMRAdH6DvPm2gdoI17Q) | [SHADY SHADY](https://open.spotify.com/album/73RKF6BpNKDuLxGxPnLneA) | 2:49 |
 | 95 | [liminal?](https://open.spotify.com/track/3vmGvIxO2H1fIGyq4Q5pbR) | [bartek turski](https://open.spotify.com/artist/5HArWtrcYhpxplTtZ848wR) | [liminal?](https://open.spotify.com/album/19sZSR3N2gmjYAvYC0i04O) | 2:39 |
 
-Snapshot ID: `AAAAALrGVXdvL7oKewrJ7gFK27yUyT9N`
+Snapshot ID: `AAAAAJ0uW6cCPMnJINzjV5nZRFV2paF7`

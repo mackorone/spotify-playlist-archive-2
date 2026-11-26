@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX34KNiFQJNVm.md) - [plain]
 
 > Os lançamentos dessa semana incluem IZA, Dua Lipa,  Di Propósito com Diego & Victor Hugo, Netto Brito com Kamisa 10 e muito mais!
 
-[Spotify](https://open.spotify.com/user/spotify) - 2,320,188 likes - 89 songs - 4 hr 46 min
+[Spotify](https://open.spotify.com/user/spotify) - 2,319,895 likes - 89 songs - 4 hr 46 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -98,4 +98,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX34KNiFQJNVm.md) - [plain]
 | 88 | [Eu Queria Ser Meu Ex](https://open.spotify.com/track/6xEz5qk9qqxq48KHyLQnjV) | [Reddy](https://open.spotify.com/artist/7nOz5jOgDguue2Zbr7W603) | [Eu Queria Ser Meu Ex](https://open.spotify.com/album/3yqy2KqkhoJJuycT3gYP80) | 2:11 |
 | 89 | [PROJETO VERÃO](https://open.spotify.com/track/5JmlbkqRYAjLNHS0Z9HYbJ) | [PRETA GIZA](https://open.spotify.com/artist/72bM3ULjyuuxOuUIXl93ZS), [NUFLOW](https://open.spotify.com/artist/4nMWPDBvuVeZwI0m6Wv5jq) | [PROJETO VERÃO](https://open.spotify.com/album/50ivvWsTpnyrvx7RATXpTq) | 2:07 |
 
-Snapshot ID: `AAAAAHhe6egYs0P0cyuoDpNM9EaAVgW0`
+Snapshot ID: `AAAAAHegz07UQv0tA2EuTKQDpUO0JBMH`

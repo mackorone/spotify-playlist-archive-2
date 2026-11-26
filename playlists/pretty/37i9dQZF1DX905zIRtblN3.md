@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX905zIRtblN3.md) - [plain]
 
 > ¡Las más placosas y llegadoras de nuestra música! Al millón con Joss Favela.
 
-[Spotify](https://open.spotify.com/user/spotify) - 3,863,663 likes - 50 songs - 2 hr 34 min
+[Spotify](https://open.spotify.com/user/spotify) - 3,863,702 likes - 50 songs - 2 hr 34 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX905zIRtblN3.md) - [plain]
 | 49 | [Cupido Falló Otra Vez](https://open.spotify.com/track/0hpZvT9gYnYRQ3QmpvvbYi) | [La Ventaja](https://open.spotify.com/artist/6tmdudtl1wM5WwTIqZX0WD) | [Tiempo Nuevo](https://open.spotify.com/album/4DBh5KrYOI450nR0rWGKot) | 2:39 |
 | 50 | [Allá En Sonora](https://open.spotify.com/track/6YVjpUkK6U0pTLYNGZ44uw) | [Chino Pacas](https://open.spotify.com/artist/2rmkQLzj0k4nZdQehOUByO), [Jonathan Caro](https://open.spotify.com/artist/7y6eZQZwyUvR4PlZOVSR7I) | [Allá En Sonora](https://open.spotify.com/album/08AO5vA6G0vmLQPZ2t3O72) | 3:15 |
 
-Snapshot ID: `AAAAAM3sBTdFhO9EynibRBiuN99rY47q`
+Snapshot ID: `AAAAAGoFTMlz4Y9FZOAV2oB5zP9QBoFY`

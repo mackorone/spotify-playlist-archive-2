@@ -1,12 +1,12 @@
 {
   "description": "Con todo el sentimiento ranchero desde el coraz\u00f3n de la Tierra Caliente. La Dinast\u00eda de Tuzantla Michoac\u00e1n en portada. ",
-  "num_followers": 99649,
+  "num_followers": 99677,
   "original_name": "Tierra Caliente",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAE/xQDbU91ZpTpHupffAOJAeNcrR",
+  "snapshot_id": "AAAAADSh1nDvmV36dSkIpiuv8co/uGWp",
   "tracks": [
     {
       "added_at": "2026-11-13 06:00:52",
@@ -251,8 +251,8 @@
     {
       "added_at": "2026-11-13 06:00:52",
       "album": {
-        "name": "Mi M\u00e1s Grande Tesoro",
-        "url": "https://open.spotify.com/album/2KHVmLTI8nibE0jJ4qFO2H"
+        "name": "Siempre Contigo",
+        "url": "https://open.spotify.com/album/6HEAF4lEhCQzC0XR3hKowJ"
       },
       "artists": [
         {
@@ -260,9 +260,9 @@
           "url": "https://open.spotify.com/artist/77UR8eXyohRSAMyLhYfdxW"
         }
       ],
-      "duration_ms": 243426,
-      "name": "Destino",
-      "url": "https://open.spotify.com/track/788MJUGdfIQXUuLwiDw7NC"
+      "duration_ms": 207533,
+      "name": "Pa' Que Son Pasiones",
+      "url": "https://open.spotify.com/track/0ETuqKUidXiI2Xb6NpJVFb"
     },
     {
       "added_at": "2026-11-13 06:00:52",
@@ -315,6 +315,38 @@
     {
       "added_at": "2026-11-13 06:00:52",
       "album": {
+        "name": "Morenita Labios Rojos",
+        "url": "https://open.spotify.com/album/0wCFa5JUVU3Bh9kKgawvjR"
+      },
+      "artists": [
+        {
+          "name": "To\u00f1o Y Freddy",
+          "url": "https://open.spotify.com/artist/1L0AuvKZjMooDU1n8uEmLw"
+        }
+      ],
+      "duration_ms": 179146,
+      "name": "Soy Para Ti",
+      "url": "https://open.spotify.com/track/2heuUbIlUGo61dgA4rqXy7"
+    },
+    {
+      "added_at": "2026-11-13 06:00:52",
+      "album": {
+        "name": "Mi M\u00e1s Grande Tesoro",
+        "url": "https://open.spotify.com/album/2KHVmLTI8nibE0jJ4qFO2H"
+      },
+      "artists": [
+        {
+          "name": "Los Player's de Tuzantla",
+          "url": "https://open.spotify.com/artist/77UR8eXyohRSAMyLhYfdxW"
+        }
+      ],
+      "duration_ms": 243426,
+      "name": "Destino",
+      "url": "https://open.spotify.com/track/788MJUGdfIQXUuLwiDw7NC"
+    },
+    {
+      "added_at": "2026-11-13 06:00:52",
+      "album": {
         "name": "Especialmente Para Ti",
         "url": "https://open.spotify.com/album/0Z8wgPzDI9UbMjCqmMH4vn"
       },
@@ -327,38 +359,6 @@
       "duration_ms": 196829,
       "name": "El Amor No Se Vende",
       "url": "https://open.spotify.com/track/3V70eHylxLOGIbEj2Fzgbm"
-    },
-    {
-      "added_at": "2026-11-13 06:00:52",
-      "album": {
-        "name": "Siempre Contigo",
-        "url": "https://open.spotify.com/album/6HEAF4lEhCQzC0XR3hKowJ"
-      },
-      "artists": [
-        {
-          "name": "Los Player's de Tuzantla",
-          "url": "https://open.spotify.com/artist/77UR8eXyohRSAMyLhYfdxW"
-        }
-      ],
-      "duration_ms": 207533,
-      "name": "Pa' Que Son Pasiones",
-      "url": "https://open.spotify.com/track/0ETuqKUidXiI2Xb6NpJVFb"
-    },
-    {
-      "added_at": "2026-11-13 06:00:52",
-      "album": {
-        "name": "20 \u00c9xitos de Ley (Serie de Colecci\u00f3n)",
-        "url": "https://open.spotify.com/album/7wrf7tzBFiEyJwgX4R6cf3"
-      },
-      "artists": [
-        {
-          "name": "Beto Y Sus Canarios",
-          "url": "https://open.spotify.com/artist/1Y4RbL9WTMzu0TTobNbNSv"
-        }
-      ],
-      "duration_ms": 143871,
-      "name": "A Qui\u00e9n Esperas",
-      "url": "https://open.spotify.com/track/3eCY6AUZVvKuFQYVpvMEMV"
     },
     {
       "added_at": "2026-11-13 06:00:52",
@@ -379,18 +379,18 @@
     {
       "added_at": "2026-11-13 06:00:52",
       "album": {
-        "name": "Morenita Labios Rojos",
-        "url": "https://open.spotify.com/album/0wCFa5JUVU3Bh9kKgawvjR"
+        "name": "20 \u00c9xitos de Ley (Serie de Colecci\u00f3n)",
+        "url": "https://open.spotify.com/album/7wrf7tzBFiEyJwgX4R6cf3"
       },
       "artists": [
         {
-          "name": "To\u00f1o Y Freddy",
-          "url": "https://open.spotify.com/artist/1L0AuvKZjMooDU1n8uEmLw"
+          "name": "Beto Y Sus Canarios",
+          "url": "https://open.spotify.com/artist/1Y4RbL9WTMzu0TTobNbNSv"
         }
       ],
-      "duration_ms": 179146,
-      "name": "Soy Para Ti",
-      "url": "https://open.spotify.com/track/2heuUbIlUGo61dgA4rqXy7"
+      "duration_ms": 143871,
+      "name": "A Qui\u00e9n Esperas",
+      "url": "https://open.spotify.com/track/3eCY6AUZVvKuFQYVpvMEMV"
     },
     {
       "added_at": "2026-11-13 06:00:52",
@@ -427,18 +427,18 @@
     {
       "added_at": "2026-11-13 06:00:52",
       "album": {
-        "name": "100% Tierra Caliente",
-        "url": "https://open.spotify.com/album/69glkS6UJhCt2mNGlzqnL0"
+        "name": "Morenita Labios Rojos",
+        "url": "https://open.spotify.com/album/0wCFa5JUVU3Bh9kKgawvjR"
       },
       "artists": [
         {
-          "name": "Beto Y Sus Canarios",
-          "url": "https://open.spotify.com/artist/1Y4RbL9WTMzu0TTobNbNSv"
+          "name": "To\u00f1o Y Freddy",
+          "url": "https://open.spotify.com/artist/1L0AuvKZjMooDU1n8uEmLw"
         }
       ],
-      "duration_ms": 174693,
-      "name": "Esta Llorando Mi Corazon - En Vivo En Cd. Altamirano M\u00e9xico / 2006",
-      "url": "https://open.spotify.com/track/0iNDW91QOyq2n2WHNuufEo"
+      "duration_ms": 128333,
+      "name": "Morenita Labios Rojos",
+      "url": "https://open.spotify.com/track/25gGaMURpL6xXOKTuyrYj6"
     },
     {
       "added_at": "2026-11-13 06:00:52",
@@ -459,18 +459,18 @@
     {
       "added_at": "2026-11-13 06:00:52",
       "album": {
-        "name": "Morenita Labios Rojos",
-        "url": "https://open.spotify.com/album/0wCFa5JUVU3Bh9kKgawvjR"
+        "name": "100% Tierra Caliente",
+        "url": "https://open.spotify.com/album/69glkS6UJhCt2mNGlzqnL0"
       },
       "artists": [
         {
-          "name": "To\u00f1o Y Freddy",
-          "url": "https://open.spotify.com/artist/1L0AuvKZjMooDU1n8uEmLw"
+          "name": "Beto Y Sus Canarios",
+          "url": "https://open.spotify.com/artist/1Y4RbL9WTMzu0TTobNbNSv"
         }
       ],
-      "duration_ms": 128333,
-      "name": "Morenita Labios Rojos",
-      "url": "https://open.spotify.com/track/25gGaMURpL6xXOKTuyrYj6"
+      "duration_ms": 174693,
+      "name": "Esta Llorando Mi Corazon - En Vivo En Cd. Altamirano M\u00e9xico / 2006",
+      "url": "https://open.spotify.com/track/0iNDW91QOyq2n2WHNuufEo"
     },
     {
       "added_at": "2026-11-13 06:00:52",
@@ -631,22 +631,6 @@
     {
       "added_at": "2026-11-13 06:00:52",
       "album": {
-        "name": "No Traigo 45",
-        "url": "https://open.spotify.com/album/2mk0NunPByPvLKOppGX6Ut"
-      },
-      "artists": [
-        {
-          "name": "Josecito Leon y Su Internacional Banda Roja",
-          "url": "https://open.spotify.com/artist/0SC9A4onqXVy7hlbLzYxuw"
-        }
-      ],
-      "duration_ms": 181202,
-      "name": "No Traigo 45",
-      "url": "https://open.spotify.com/track/49s3cWrgxpuH3gLPi8Pnrl"
-    },
-    {
-      "added_at": "2026-11-13 06:00:52",
-      "album": {
         "name": "Corazon Michoacano",
         "url": "https://open.spotify.com/album/56dGWZj0MsID0YPwuXkdhS"
       },
@@ -695,6 +679,22 @@
       "duration_ms": 160128,
       "name": "Gente de Rancho",
       "url": "https://open.spotify.com/track/2d0jmxWeeqL4ywfgCZalmf"
+    },
+    {
+      "added_at": "2026-11-13 06:00:52",
+      "album": {
+        "name": "No Traigo 45",
+        "url": "https://open.spotify.com/album/2mk0NunPByPvLKOppGX6Ut"
+      },
+      "artists": [
+        {
+          "name": "Josecito Leon y Su Internacional Banda Roja",
+          "url": "https://open.spotify.com/artist/0SC9A4onqXVy7hlbLzYxuw"
+        }
+      ],
+      "duration_ms": 181202,
+      "name": "No Traigo 45",
+      "url": "https://open.spotify.com/track/49s3cWrgxpuH3gLPi8Pnrl"
     },
     {
       "added_at": "2026-11-13 06:00:52",
@@ -783,8 +783,8 @@
     {
       "added_at": "2026-11-13 06:00:52",
       "album": {
-        "name": "Kilos de Polvo",
-        "url": "https://open.spotify.com/album/26qV7yOOuaAe48fNIOl4yk"
+        "name": "Quiero Que Seas para M\u00ed",
+        "url": "https://open.spotify.com/album/7bxTdmbur0frxgcb4CoYIv"
       },
       "artists": [
         {
@@ -792,9 +792,9 @@
           "url": "https://open.spotify.com/artist/03TBR2ffZqsm38E9bXhSuZ"
         }
       ],
-      "duration_ms": 329160,
-      "name": "As\u00ed Fue",
-      "url": "https://open.spotify.com/track/5LYv9sE58vpWj5vmBT9WsF"
+      "duration_ms": 228733,
+      "name": "Entre Copa y Copa",
+      "url": "https://open.spotify.com/track/6nlVWZzuQxJ4jsVH4JeJG4"
     },
     {
       "added_at": "2026-11-13 06:00:52",
@@ -863,8 +863,8 @@
     {
       "added_at": "2026-11-13 06:00:52",
       "album": {
-        "name": "Quiero Que Seas para M\u00ed",
-        "url": "https://open.spotify.com/album/7bxTdmbur0frxgcb4CoYIv"
+        "name": "Kilos de Polvo",
+        "url": "https://open.spotify.com/album/26qV7yOOuaAe48fNIOl4yk"
       },
       "artists": [
         {
@@ -872,9 +872,9 @@
           "url": "https://open.spotify.com/artist/03TBR2ffZqsm38E9bXhSuZ"
         }
       ],
-      "duration_ms": 228733,
-      "name": "Entre Copa y Copa",
-      "url": "https://open.spotify.com/track/6nlVWZzuQxJ4jsVH4JeJG4"
+      "duration_ms": 329160,
+      "name": "As\u00ed Fue",
+      "url": "https://open.spotify.com/track/5LYv9sE58vpWj5vmBT9WsF"
     },
     {
       "added_at": "2026-11-13 06:00:52",
@@ -927,22 +927,6 @@
     {
       "added_at": "2026-11-13 06:00:52",
       "album": {
-        "name": "El Nike",
-        "url": "https://open.spotify.com/album/3eHn8E3n9ndGI2Zs3qiEWq"
-      },
-      "artists": [
-        {
-          "name": "Nicolas Garcia",
-          "url": "https://open.spotify.com/artist/6lT5Srr5Jw3bVDyEeCMaaD"
-        }
-      ],
-      "duration_ms": 242850,
-      "name": "El Nike",
-      "url": "https://open.spotify.com/track/4IFSVko2iMxAVvRAPVSWuu"
-    },
-    {
-      "added_at": "2026-11-13 06:00:52",
-      "album": {
         "name": "Exitos de La Nobleza de Aguililla",
         "url": "https://open.spotify.com/album/6ROhyA4PWN6oocX4pzwz9h"
       },
@@ -955,6 +939,22 @@
       "duration_ms": 247386,
       "name": "Las Joyas De Mi Vida",
       "url": "https://open.spotify.com/track/5920sskaak2DMq8An3I5Jz"
+    },
+    {
+      "added_at": "2026-11-13 06:00:52",
+      "album": {
+        "name": "El Nike",
+        "url": "https://open.spotify.com/album/3eHn8E3n9ndGI2Zs3qiEWq"
+      },
+      "artists": [
+        {
+          "name": "Nicolas Garcia",
+          "url": "https://open.spotify.com/artist/6lT5Srr5Jw3bVDyEeCMaaD"
+        }
+      ],
+      "duration_ms": 242850,
+      "name": "El Nike",
+      "url": "https://open.spotify.com/track/4IFSVko2iMxAVvRAPVSWuu"
     },
     {
       "added_at": "2026-11-13 06:00:52",
@@ -1015,22 +1015,6 @@
     {
       "added_at": "2026-11-13 06:00:52",
       "album": {
-        "name": "Los Huaches En Vivo 2013",
-        "url": "https://open.spotify.com/album/09I9lyDDUBsPK4v2R9qIix"
-      },
-      "artists": [
-        {
-          "name": "Los Huaches De Tierra Caliente",
-          "url": "https://open.spotify.com/artist/4rEZfTTpxjsnEo49OeCqum"
-        }
-      ],
-      "duration_ms": 276853,
-      "name": "Coyuca De Catalan (Zapateado)",
-      "url": "https://open.spotify.com/track/4XN4tK27BhX6cA7IYFdJtx"
-    },
-    {
-      "added_at": "2026-11-13 06:00:52",
-      "album": {
         "name": "Solo para Ti",
         "url": "https://open.spotify.com/album/7FXd0tPldGUf192hdcHf0X"
       },
@@ -1043,6 +1027,22 @@
       "duration_ms": 157573,
       "name": "Me Va a Extra\u00f1ar",
       "url": "https://open.spotify.com/track/6EJSQb8fuC9HjZG0IC7KvY"
+    },
+    {
+      "added_at": "2026-11-13 06:00:52",
+      "album": {
+        "name": "Los Huaches En Vivo 2013",
+        "url": "https://open.spotify.com/album/09I9lyDDUBsPK4v2R9qIix"
+      },
+      "artists": [
+        {
+          "name": "Los Huaches De Tierra Caliente",
+          "url": "https://open.spotify.com/artist/4rEZfTTpxjsnEo49OeCqum"
+        }
+      ],
+      "duration_ms": 276853,
+      "name": "Coyuca De Catalan (Zapateado)",
+      "url": "https://open.spotify.com/track/4XN4tK27BhX6cA7IYFdJtx"
     },
     {
       "added_at": "2026-11-13 06:00:52",
@@ -1235,22 +1235,6 @@
     {
       "added_at": "2026-11-13 06:00:52",
       "album": {
-        "name": "A Donde Vas Chiquilla",
-        "url": "https://open.spotify.com/album/2f0ggDU5arXZosxybBui6y"
-      },
-      "artists": [
-        {
-          "name": "La Fuerza de Tierra Caliente",
-          "url": "https://open.spotify.com/artist/2sn3HLUhYpRJsBngGA332N"
-        }
-      ],
-      "duration_ms": 216040,
-      "name": "El Rengo Del Gallo Giro",
-      "url": "https://open.spotify.com/track/5nQBW3jrmIm7XTAvRkXDbw"
-    },
-    {
-      "added_at": "2026-11-13 06:00:52",
-      "album": {
         "name": "El Potosino y El Cocho",
         "url": "https://open.spotify.com/album/6Fmej7TWDGwwtQG3fFHYg5"
       },
@@ -1263,6 +1247,22 @@
       "duration_ms": 200936,
       "name": "El Potosino y El Cocho",
       "url": "https://open.spotify.com/track/627QWPTPkNwbOwso8RnBem"
+    },
+    {
+      "added_at": "2026-11-13 06:00:52",
+      "album": {
+        "name": "A Donde Vas Chiquilla",
+        "url": "https://open.spotify.com/album/2f0ggDU5arXZosxybBui6y"
+      },
+      "artists": [
+        {
+          "name": "La Fuerza de Tierra Caliente",
+          "url": "https://open.spotify.com/artist/2sn3HLUhYpRJsBngGA332N"
+        }
+      ],
+      "duration_ms": 216040,
+      "name": "El Rengo Del Gallo Giro",
+      "url": "https://open.spotify.com/track/5nQBW3jrmIm7XTAvRkXDbw"
     },
     {
       "added_at": "2026-11-13 06:00:52",
@@ -1579,22 +1579,6 @@
     {
       "added_at": "2026-11-13 06:00:52",
       "album": {
-        "name": "Con Cartitas y Palabras",
-        "url": "https://open.spotify.com/album/1apdrvUnCsIiDCmvcmK8RM"
-      },
-      "artists": [
-        {
-          "name": "Gabino y su Banda Chica",
-          "url": "https://open.spotify.com/artist/3u2c7b1mAhzhEkyY0n2MYd"
-        }
-      ],
-      "duration_ms": 145124,
-      "name": "Con Cartitas y Palabras",
-      "url": "https://open.spotify.com/track/024Nm8inQ2UIzLnBRfQoMR"
-    },
-    {
-      "added_at": "2026-11-13 06:00:52",
-      "album": {
         "name": "Lloviendo Estrellas",
         "url": "https://open.spotify.com/album/5dUVNQMzAHIn6z5I7Wv3zA"
       },
@@ -1607,6 +1591,22 @@
       "duration_ms": 213866,
       "name": "Si Tengo A Mi Madre",
       "url": "https://open.spotify.com/track/49KTGketU9XTzO4I6I2kck"
+    },
+    {
+      "added_at": "2026-11-13 06:00:52",
+      "album": {
+        "name": "Con Cartitas y Palabras",
+        "url": "https://open.spotify.com/album/1apdrvUnCsIiDCmvcmK8RM"
+      },
+      "artists": [
+        {
+          "name": "Gabino y su Banda Chica",
+          "url": "https://open.spotify.com/artist/3u2c7b1mAhzhEkyY0n2MYd"
+        }
+      ],
+      "duration_ms": 145124,
+      "name": "Con Cartitas y Palabras",
+      "url": "https://open.spotify.com/track/024Nm8inQ2UIzLnBRfQoMR"
     },
     {
       "added_at": "2026-11-13 06:00:52",
@@ -1663,22 +1663,6 @@
     {
       "added_at": "2026-11-13 06:00:52",
       "album": {
-        "name": "Viva Tierra Caliente",
-        "url": "https://open.spotify.com/album/1YkjA1dE7DsIlbmA46mCfx"
-      },
-      "artists": [
-        {
-          "name": "Los Centinelas de Michoacan",
-          "url": "https://open.spotify.com/artist/6zdHx6bFbxumSBTlyDvXzP"
-        }
-      ],
-      "duration_ms": 195640,
-      "name": "Que Viva Tierra Caliente",
-      "url": "https://open.spotify.com/track/1hijcF9lqX1Vwh9jxrWM8k"
-    },
-    {
-      "added_at": "2026-11-13 06:00:52",
-      "album": {
         "name": "Es Demasiado Tarde",
         "url": "https://open.spotify.com/album/1EYswPzL2vFLD4a19b6mNr"
       },
@@ -1691,6 +1675,22 @@
       "duration_ms": 165305,
       "name": "Es Demasiado Tarde",
       "url": "https://open.spotify.com/track/1Nl9TaswZRISPw5YQIKHDM"
+    },
+    {
+      "added_at": "2026-11-13 06:00:52",
+      "album": {
+        "name": "Viva Tierra Caliente",
+        "url": "https://open.spotify.com/album/1YkjA1dE7DsIlbmA46mCfx"
+      },
+      "artists": [
+        {
+          "name": "Los Centinelas de Michoacan",
+          "url": "https://open.spotify.com/artist/6zdHx6bFbxumSBTlyDvXzP"
+        }
+      ],
+      "duration_ms": 195640,
+      "name": "Que Viva Tierra Caliente",
+      "url": "https://open.spotify.com/track/1hijcF9lqX1Vwh9jxrWM8k"
     },
     {
       "added_at": "2026-11-13 06:00:52",

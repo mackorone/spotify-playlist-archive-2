@@ -4,7 +4,7 @@
 
 > ヒップホップの最新トレンドをここでチェック！ Cover: MIKADO / 水曜更新。マイライブラリに保存して毎週チェックしよう
 
-3,195 songs - 6 day 15 hr 31 min
+3,196 songs - 6 day 15 hr 35 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -1420,6 +1420,7 @@
 | [Live Forever \(feat\. MALIYA\)](https://open.spotify.com/track/0TlcWE87HM7canbczNtep8) | [Neetz](https://open.spotify.com/artist/1MI8TsiYmYTE0Fu9CUqTr4), [MALIYA](https://open.spotify.com/artist/1HpL1Q0ixotgDFMm7ZlRDU) | [Story of 991](https://open.spotify.com/album/0CO93J4FJnl4pEs2bpkuns) | 3:29 | 2025-10-14 | 2025-11-26 |
 | [live in ma hood \- REMIX](https://open.spotify.com/track/6QQmVjm7GRt59GAF78jCpP) | [MVTEN](https://open.spotify.com/artist/0ViA0wrTM0BtMS9Nqr2PUz), [MAHBIE](https://open.spotify.com/artist/5ggbey9WKiS849lppw8lbs) | [REMIXIES](https://open.spotify.com/album/7wV0gaA4KtH6s0PJVcKcyN) | 2:39 | 2023-10-03 | 2023-10-18 |
 | [Live in Tokyo](https://open.spotify.com/track/3woNwGkpcJkkJra1CVZoMC) | [Choppa Capone](https://open.spotify.com/artist/6qYsothwQkj7FyzDhCj3Ez), [Rommy Montana](https://open.spotify.com/artist/6EeUJT7hjgVaVKk0ucsmLM) | [Live in Tokyo](https://open.spotify.com/album/0lcm4VR2R4cmgBsf6ZQ607) | 2:07 | 2024-09-24 | 2024-11-29 |
+| [LIVE IT UP](https://open.spotify.com/track/5AovuSehduMQ79O7qeLowy) | [HENTAI SHINSHI CLUB](https://open.spotify.com/artist/4vN78fN1iEh83Pgaesw2jU) | [ZIP ROCK STAR 2](https://open.spotify.com/album/2rJzXmspuogJc29T4xRQzS) | 3:47 | 2026-11-25 |  |
 | [Live Like Summer](https://open.spotify.com/track/6WMLCWUim8AiK8LjuHTWfL) | [Skaai](https://open.spotify.com/artist/4L05lOQs0iZSVhrnnqS66E), [KM](https://open.spotify.com/artist/2Nz5XwOa02deTyyS2vw5Wa) | [Live Like Summer](https://open.spotify.com/album/0WFF5u6P33iHB9kl8gvxQC) | 2:57 | 2025-07-29 | 2025-11-12 |
 | [LIVIN' IT UP](https://open.spotify.com/track/3HcsBlxBCyMIbCwkKTVUF5) | [YOU THUG](https://open.spotify.com/artist/613FJBlVhRsNzyk8RGyOml), [Lil Gori](https://open.spotify.com/artist/30lcWPK5yqArwklhBZX2cj) | [LAST ONES LEFT](https://open.spotify.com/album/3Ojq3KwvLJnuMQQMUPNveF) | 2:48 | 2026-09-08 | 2026-09-30 |
 | [Living Alone](https://open.spotify.com/track/1jO3JE0LJcXk3njN4r1IHd) | [AIRIE](https://open.spotify.com/artist/2xN2Y7hBcfqQiy3qI7j1Py) | [Living Alone](https://open.spotify.com/album/75RIPcMWgM5V2nbDxRQhaB) | 2:54 | 2024-07-02 | 2024-07-31 |

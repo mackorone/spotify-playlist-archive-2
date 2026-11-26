@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-04-20",
-  "description": "Enjoy the freshest K-Pop new releases (Cover: ENHYPEN) (\uad6d\ub0b4 \ucd5c\uc2e0\uace1\uc744 \ud50c\ub808\uc774\ub9ac\uc2a4\ud2b8\ub85c \ub9cc\ub098\ubcf4\uc138\uc694!)",
+  "description": "Enjoy the freshest K-Pop new releases (Cover: HYUKOH) (\uad6d\ub0b4 \ucd5c\uc2e0\uace1\uc744 \ud50c\ub808\uc774\ub9ac\uc2a4\ud2b8\ub85c \ub9cc\ub098\ubcf4\uc138\uc694!)",
   "name": "All New K-Pop (\uad6d\ub0b4 \ucd5c\uc2e0 \uac00\uc694)",
   "tracks": [
     {
@@ -103993,6 +103993,24 @@
     },
     {
       "album": {
+        "name": "Greedy",
+        "url": "https://open.spotify.com/album/4Z6X9aIZrb8YHARjEbl4NY"
+      },
+      "artists": [
+        {
+          "name": "KISS OF LIFE",
+          "url": "https://open.spotify.com/artist/4TEK9tIkcoxib4GxT3O4ky"
+        }
+      ],
+      "date_added": "2026-11-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 196000,
+      "name": "Greedy",
+      "url": "https://open.spotify.com/track/0kuPmVL9vCBAnH14lzgNKp"
+    },
+    {
+      "album": {
         "name": "GREEN",
         "url": "https://open.spotify.com/album/03BNPofhPGvUBXznOpBvcj"
       },
@@ -168507,6 +168525,24 @@
     },
     {
       "album": {
+        "name": "Magic",
+        "url": "https://open.spotify.com/album/7epFU2M4r6gD6x0UhmJJMn"
+      },
+      "artists": [
+        {
+          "name": "RESCENE",
+          "url": "https://open.spotify.com/artist/5deOsjuFTKrNMJW3rKuL8S"
+        }
+      ],
+      "date_added": "2026-11-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 227020,
+      "name": "Magic - From \"Hexed\"/Korean Single Version",
+      "url": "https://open.spotify.com/track/5F4jHplEDoigl1aGuBQMCb"
+    },
+    {
+      "album": {
         "name": "Magic Breeze",
         "url": "https://open.spotify.com/album/3nRO9sUvqZBOnVi7BULWtD"
       },
@@ -192844,6 +192880,24 @@
       "duration_ms": 240367,
       "name": "Nothing Feels Alright",
       "url": "https://open.spotify.com/track/0M2VpuGkcxo3IX4TZBMlVK"
+    },
+    {
+      "album": {
+        "name": "Nothing More to Wish For",
+        "url": "https://open.spotify.com/album/4yXNrI0CsflFoRaFUF3p8G"
+      },
+      "artists": [
+        {
+          "name": "Han All",
+          "url": "https://open.spotify.com/artist/4y2MA188txnWeMIw9XwaJS"
+        }
+      ],
+      "date_added": "2026-11-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 212706,
+      "name": "Nothing More to Wish For",
+      "url": "https://open.spotify.com/track/65p3Xj1ZJR1rmlb2ksH6Lj"
     },
     {
       "album": {
@@ -230290,6 +230344,28 @@
       "duration_ms": 248937,
       "name": "Secret",
       "url": "https://open.spotify.com/track/0QIqWMmrupTnugEfgIYtpp"
+    },
+    {
+      "album": {
+        "name": "Secret",
+        "url": "https://open.spotify.com/album/1DlMXhryZp18LFArvFoHnX"
+      },
+      "artists": [
+        {
+          "name": "INJAE",
+          "url": "https://open.spotify.com/artist/52jCsWDfCYGGZiPqIYL0WD"
+        },
+        {
+          "name": "Moah Lee",
+          "url": "https://open.spotify.com/artist/4yhj8yeSf4wPziWnoi7m5t"
+        }
+      ],
+      "date_added": "2026-11-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 186162,
+      "name": "Secret",
+      "url": "https://open.spotify.com/track/4VCymWMCfHOk86DlQk9HxV"
     },
     {
       "album": {
@@ -294257,6 +294333,24 @@
     },
     {
       "album": {
+        "name": "33",
+        "url": "https://open.spotify.com/album/0cUaE4tfNSCtDpYLvmwjwx"
+      },
+      "artists": [
+        {
+          "name": "HYUKOH",
+          "url": "https://open.spotify.com/artist/57okaLdCtv3nVBSn5otJkp"
+        }
+      ],
+      "date_added": "2026-11-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 278800,
+      "name": "Weight of Denial",
+      "url": "https://open.spotify.com/track/3Od5yTdwQiQQMTbMVBd9nG"
+    },
+    {
+      "album": {
         "name": "Weird",
         "url": "https://open.spotify.com/album/2uOg7BFqjJZ0i1PYcew0w5"
       },
@@ -313792,6 +313886,24 @@
       "duration_ms": 171521,
       "name": "YOUTH",
       "url": "https://open.spotify.com/track/6EiUvMEuWdruFUplqKng3G"
+    },
+    {
+      "album": {
+        "name": "LTNS",
+        "url": "https://open.spotify.com/album/0z6z71JxKAByY9oG2FVWLB"
+      },
+      "artists": [
+        {
+          "name": "Wetter",
+          "url": "https://open.spotify.com/artist/02qCfZpNgd0FQ1BFOPaqvq"
+        }
+      ],
+      "date_added": "2026-11-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 288125,
+      "name": "Youth",
+      "url": "https://open.spotify.com/track/1U02DMBWpOQ1S9F1ToPJKw"
     },
     {
       "album": {

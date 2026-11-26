@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8f6LHxMjnzD.md) - [plain]
 
 > If it's buzzing, it's here\. The hottest new songs of the week\. Cover: Lana Del Rey
 
-[Spotify](https://open.spotify.com/user/spotify) - 921,061 likes - 40 songs - 2 hr 11 min
+[Spotify](https://open.spotify.com/user/spotify) - 921,007 likes - 40 songs - 2 hr 11 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -49,4 +49,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8f6LHxMjnzD.md) - [plain]
 | 39 | [Feel The Power](https://open.spotify.com/track/15H4AkVcMFNG5CFTjxwIB2) | [IDEMI](https://open.spotify.com/artist/09OK5GXLbMSjg8lOb4wRVT) | [Feel The Power](https://open.spotify.com/album/4K7tlWAzJ5HlwwJ6ytoXkU) | 2:50 |
 | 40 | [Goth Rave](https://open.spotify.com/track/42NrToIoZCMQ7GjSsx3cKD) | [Grace Enger](https://open.spotify.com/artist/49EzPBcvDdWe93QJcA7UPf) | [Goth Rave](https://open.spotify.com/album/2vrQ3X57McmWG6AzjO4HZX) | 3:16 |
 
-Snapshot ID: `AAAAAJ1eTLS0zmfH2+v2keL+N5j5Db0G`
+Snapshot ID: `AAAAAKSxg0F+9DyKMB6bcn/kBUyVvu2c`

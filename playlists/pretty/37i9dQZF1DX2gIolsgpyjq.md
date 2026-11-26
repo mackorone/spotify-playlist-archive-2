@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2gIolsgpyjq.md) - [plain]
 
 > The best new music by independent artists in the Nordics\. Cover: Casper The Ghost
 
-[Spotify](https://open.spotify.com/user/spotify) - 32,285 likes - 50 songs - 2 hr 25 min
+[Spotify](https://open.spotify.com/user/spotify) - 32,294 likes - 50 songs - 2 hr 25 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2gIolsgpyjq.md) - [plain]
 | 49 | [A Girl Who Needs A Brain](https://open.spotify.com/track/4SNeJ2ZfT0KWbwbWXK3VjT) | [Toxe](https://open.spotify.com/artist/30peMqLlbR5jf0qe1MmLlk) | [A Girl Who Needs A Brain](https://open.spotify.com/album/4maZBd1IYBvfCCY1cjsqlP) | 2:02 |
 | 50 | [Pipe Dream](https://open.spotify.com/track/5C3OWPfMnUxeJUdnuz9u1a) | [GB](https://open.spotify.com/artist/4YMJGenzGCHYz30PRdTJP8), [Alba Akvama](https://open.spotify.com/artist/0aOHcQWEx7wsZg277ZOcGe) | [Herzsprung](https://open.spotify.com/album/0bOMbuBlJbKyajSoFMJxf1) | 3:01 |
 
-Snapshot ID: `AAAAAFws0T41glwsHHeE5Gb8qggsHa3d`
+Snapshot ID: `AAAAAIlIG6qKNG4yL35rVoZYf3LKfVi2`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2V97dgq1s0W.md) - [plain]
 
 > The voices shaping R&B\. Cover: JEDSOUL
 
-[Spotify](https://open.spotify.com/user/spotify) - 530,692 likes - 70 songs - 3 hr 47 min
+[Spotify](https://open.spotify.com/user/spotify) - 530,680 likes - 70 songs - 3 hr 47 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -79,4 +79,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2V97dgq1s0W.md) - [plain]
 | 69 | [touch myself](https://open.spotify.com/track/3yftdtj8z7vS7M3EoPfVFK) | [kwn](https://open.spotify.com/artist/2KnhnL8zuqLhIhGk601fsb) | [touch myself/idea of love](https://open.spotify.com/album/76ZZEjABkKjynOcObQIQOZ) | 4:09 |
 | 70 | [friends](https://open.spotify.com/track/2wjc0DH5AhndXQQQd74wky) | [Tia Gordon](https://open.spotify.com/artist/5rXNmuTfaGC8hw0JEQOpLc) | [i asked the stars for this\. x](https://open.spotify.com/album/3KNYkyPYwSkUbHybeJVJzu) | 3:05 |
 
-Snapshot ID: `AAAAAPqc0kRc/qp04sWqHYsA62CcePPU`
+Snapshot ID: `AAAAANN9bDpuG/wdxLuApQLipIsix0fx`

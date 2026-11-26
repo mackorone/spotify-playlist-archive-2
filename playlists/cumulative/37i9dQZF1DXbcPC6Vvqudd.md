@@ -4,7 +4,7 @@
 
 > Sleep with sounds of pouring rain and occasional rolling thunder.
 
-509 songs - 22 hr 30 min
+509 songs - 22 hr 32 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -272,7 +272,7 @@
 | [Quality Rain](https://open.spotify.com/track/6wylgOavjiq5DxfwrBWDJp) | [Rain Recordings](https://open.spotify.com/artist/0K4qycWYB7fwNMvrtS9lID) | [Rain Storms](https://open.spotify.com/album/7ipI3unaq9JtibJGg74yCQ) | 2:16 | 2021-11-08 |  |
 | [Quiet, Listen](https://open.spotify.com/track/6PUGWTnD1L8JmzmdogNUfS) | [Dropletecal](https://open.spotify.com/artist/2qOif0NcXyNAAhriR39lQ8) | [Evaporating Water](https://open.spotify.com/album/2OAmblyE8oR9F1Oac4sEIi) | 2:33 | 2021-11-08 | 2025-11-14 |
 | [Rain & Distant Thunder](https://open.spotify.com/track/4LH3hYpqzwfX22Au9ghCPU) | [Essential Nature Sounds](https://open.spotify.com/artist/5VhOnYoFtMQVsuUJMfXk0M) | [Dark Rain & Deep Thunder](https://open.spotify.com/album/57ur6LcL32QEuI2PXgZ0yK) | 4:41 | 2021-11-08 | 2024-03-22 |
-| [Rain & Thunder](https://open.spotify.com/track/7IqerL7wjXoii1b0xDWbUy) | [Amba Naturale](https://open.spotify.com/artist/4th8dE9LVvvevKJrrk2Ge2) | [Sub Tropics](https://open.spotify.com/album/5pbr4Ww9LoOQgfi3jnQkPL) | 1:48 | 2021-11-08 |  |
+| [Rain & Thunder](https://open.spotify.com/track/7IqerL7wjXoii1b0xDWbUy) | [Amba Naturale](https://open.spotify.com/artist/4th8dE9LVvvevKJrrk2Ge2) | [Sub Tropics](https://open.spotify.com/album/5pbr4Ww9LoOQgfi3jnQkPL) | 2:22 | 2021-11-08 |  |
 | [Rain & Thunder](https://open.spotify.com/track/2sOwfQNXbLm6sA3LEKTeVX) | [Clam Pass](https://open.spotify.com/artist/5tiC8V84vAB6FIDwSkGCF6) | [Thunderstorms](https://open.spotify.com/album/5eGD83pjy0yp4ekJ6q5UNw) | 1:51 | 2021-11-08 | 2023-06-16 |
 | [Rain & Thunder](https://open.spotify.com/track/390qr10wt5OInQ92Vd7ADt) | [Ogień](https://open.spotify.com/artist/5d8IWNN5vBsIDVskioGQLw) | [Rain & Thunder](https://open.spotify.com/album/3lSiIzAOT48IJLDgNb3Orw) | 3:12 | 2021-11-08 | 2025-11-14 |
 | [Rain & Thunderstorms in the Neighbourhood](https://open.spotify.com/track/7dmtnsYMNqLCYo9FpOdo4E) | [Pluviæ](https://open.spotify.com/artist/5C2cVr4FbejP0dqohKdUgV) | [Nocturno](https://open.spotify.com/album/0vX6BWyW01PaXOvWmeoQao) | 1:38 | 2021-11-08 | 2023-02-14 |
@@ -283,7 +283,7 @@
 | [Rain And Distant Thunder](https://open.spotify.com/track/4XTtqPIrBFUvDmi9PFPdSc) | [RainGirl](https://open.spotify.com/artist/6s2UjNnE8eTAmvTR6oV7dN) | [Rain And Distant Thunder](https://open.spotify.com/album/0tZla16mWGIqi34f65q30e) | 2:13 | 2024-03-21 |  |
 | [Rain And Stream](https://open.spotify.com/track/4q4u6MLCGrpfHperJ7U8NZ) | [520Hz](https://open.spotify.com/artist/6S1S2NTJ5M5REqvqp6zYSs) | [Mindful Rain](https://open.spotify.com/album/4E1vqp2xaDzCxez2IPrkMh) | 2:29 | 2021-11-08 | 2026-04-02 |
 | [Rain and Thunder](https://open.spotify.com/track/4Kg4gfjDx7tj6A8YmZEA2Z) | [Beauty of Nature](https://open.spotify.com/artist/60Z6UmKsZWqsQtg0XHL4Ct) | [Rain and Thunder](https://open.spotify.com/album/6DYTv8miHf5c3zw0gUmV4u) | 2:29 | 2021-11-08 | 2023-02-14 |
-| [Rain and Thunder](https://open.spotify.com/track/7oSBHzA5J69kqhFp4anTNy) | [Sleep Waves](https://open.spotify.com/artist/5YwgJh6Sx2jIZ0NTqzYCDW) | [Exclusive Nature](https://open.spotify.com/album/6MwRMdOHG26JL8ZdZpCjow) | 1:24 | 2021-11-08 |  |
+| [Rain and Thunder](https://open.spotify.com/track/7oSBHzA5J69kqhFp4anTNy) | [Sleep Waves](https://open.spotify.com/artist/5YwgJh6Sx2jIZ0NTqzYCDW) | [Exclusive Nature](https://open.spotify.com/album/6MwRMdOHG26JL8ZdZpCjow) | 2:18 | 2021-11-08 |  |
 | [Rain And Thunderstorm](https://open.spotify.com/track/62MBchuJx8eDs9yxYgLTME) | [LBE Nature Recordings](https://open.spotify.com/artist/2rujgIBrLOHJ64leeafdmz) | [Rain And Thunderstorm](https://open.spotify.com/album/2A8y4glK6KJ0z83a7rICO5) | 2:53 | 2021-11-08 | 2023-02-14 |
 | [Rain Before Dawn](https://open.spotify.com/track/6sCFjcEP2wvMkTbs6Ey85b) | [cloudcity](https://open.spotify.com/artist/0qF5CbAVNAKVP6maHHNf8G) | [Rain Before Dawn](https://open.spotify.com/album/4Dbx557skdXeYCIUBd4VHq) | 3:28 | 2022-01-21 |  |
 | [Rain Coming Down](https://open.spotify.com/track/24lHr1XxXOxfaHkF7ZR5Zc) | [Adam Storme](https://open.spotify.com/artist/0eNiH722ChBnOwAjXcKDYI) | [A Stormy Night](https://open.spotify.com/album/6HLYpQwA1LmxmduBYqWfAC) | 3:36 | 2021-11-08 | 2025-11-14 |

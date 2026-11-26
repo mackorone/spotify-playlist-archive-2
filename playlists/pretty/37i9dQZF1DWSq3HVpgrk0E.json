@@ -1,12 +1,12 @@
 {
   "description": "The whole truth. Cover: Rick Ross",
-  "num_followers": 269233,
+  "num_followers": 269219,
   "original_name": "No Cap",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAACFnNikx8G5BSHlA7FLhY8p8nMLj",
+  "snapshot_id": "AAAAANymxbg1/sbRJWfcJxewt7bDPeGI",
   "tracks": [
     {
       "added_at": "2026-07-16 23:00:27",
@@ -775,6 +775,22 @@
     {
       "added_at": "2026-07-16 23:00:27",
       "album": {
+        "name": "The Leaks",
+        "url": "https://open.spotify.com/album/7ap5djMVnUTtZR9ffjamg1"
+      },
+      "artists": [
+        {
+          "name": "Lil Baby",
+          "url": "https://open.spotify.com/artist/5f7VJjfbwm532GiveGC0ZK"
+        }
+      ],
+      "duration_ms": 187678,
+      "name": "What She Like",
+      "url": "https://open.spotify.com/track/3h5PyVDtNLCcSrDiYiJm8S"
+    },
+    {
+      "added_at": "2026-07-16 23:00:27",
+      "album": {
         "name": "Some Days I\u2019m Good, Some Days I\u2019m Not",
         "url": "https://open.spotify.com/album/6CyD8cVpx9f8uJT9ZpJHRG"
       },
@@ -791,22 +807,6 @@
       "duration_ms": 230720,
       "name": "Proud Of Me (feat. Meek Mill)",
       "url": "https://open.spotify.com/track/1c3q6ie3uWznQ8hgcQrtYb"
-    },
-    {
-      "added_at": "2026-07-16 23:00:27",
-      "album": {
-        "name": "The Leaks",
-        "url": "https://open.spotify.com/album/7ap5djMVnUTtZR9ffjamg1"
-      },
-      "artists": [
-        {
-          "name": "Lil Baby",
-          "url": "https://open.spotify.com/artist/5f7VJjfbwm532GiveGC0ZK"
-        }
-      ],
-      "duration_ms": 187678,
-      "name": "What She Like",
-      "url": "https://open.spotify.com/track/3h5PyVDtNLCcSrDiYiJm8S"
     },
     {
       "added_at": "2026-07-16 23:00:27",

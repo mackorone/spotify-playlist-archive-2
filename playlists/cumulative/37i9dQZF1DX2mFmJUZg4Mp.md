@@ -4,7 +4,7 @@
 
 > Soothing sounds of gentle rain.
 
-363 songs - 16 hr 46 min
+363 songs - 16 hr 47 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -107,7 +107,7 @@
 | [Good Weather Ahead](https://open.spotify.com/track/3qEIPYO8qu0KFTlPqFpSiu) | [Louis Lightning](https://open.spotify.com/artist/1sOxydo8E7OEF5ctUaqcnK) | [The Hand Made Thunder](https://open.spotify.com/album/5IKxRPK8tUwawR5arR7S3N) | 2:08 | 2023-02-13 |  |
 | [Gray Day](https://open.spotify.com/track/369022QlJSzhvLyE53KuKl) | [Serene Surroundings](https://open.spotify.com/artist/3sfSVTmJdFQsfPZxwM6ETs) | [Ethereal Showers](https://open.spotify.com/album/6x6fb16LgKeJE1jtGRtz5g) | 6:21 | 2021-11-10 |  |
 | [Grim Falls](https://open.spotify.com/track/5Pn9DRYhdyqbghfMqrgK5F) | [Pointillism](https://open.spotify.com/artist/6JirfCD0iO9srNDD1PEuyZ) | [Grim Falls](https://open.spotify.com/album/0I6Icxj5K4T7KKDhy8lejC) | 2:11 | 2022-11-21 |  |
-| [Gute Nacht Regen](https://open.spotify.com/track/59ybuybj11WcV9iujtGBpS) | [Samplestar](https://open.spotify.com/artist/0eG97LRAmRBrC7qbEhx2Qs) | [Gute Nacht Regen](https://open.spotify.com/album/5yLEy4Lt5WqK2QYbgVA2k3) | 1:56 | 2021-11-10 |  |
+| [Gute Nacht Regen](https://open.spotify.com/track/59ybuybj11WcV9iujtGBpS) | [Samplestar](https://open.spotify.com/artist/0eG97LRAmRBrC7qbEhx2Qs) | [Gute Nacht Regen](https://open.spotify.com/album/5yLEy4Lt5WqK2QYbgVA2k3) | 2:22 | 2021-11-10 |  |
 | [Happy Rain](https://open.spotify.com/track/4Aus1mivzaYVgRWmnFT6O1) | [Accuweather](https://open.spotify.com/artist/2Y7k2YqDWE9s1eSuQlaWNi) | [Happy Rain](https://open.spotify.com/album/2ueiGXonhNRjtTKqhIukxy) | 3:11 | 2025-07-24 | 2025-11-11 |
 | [Hard Rain 2](https://open.spotify.com/track/0HviNI5IDkJxWlR77EKGoP) | [Rain Hard](https://open.spotify.com/artist/3jjJ23jPDUk9XnURWZmWK4) | [Rain Rain Rain](https://open.spotify.com/album/4tTNZUUVpyPnwysaK2SsmX) | 3:09 | 2021-11-10 | 2024-03-23 |
 | [Hard Rain 3](https://open.spotify.com/track/2nqyQEWwRitXReoUdODWzl) | [Rain Hard](https://open.spotify.com/artist/3jjJ23jPDUk9XnURWZmWK4) | [Rain Rain Rain](https://open.spotify.com/album/4tTNZUUVpyPnwysaK2SsmX) | 3:20 | 2021-11-10 |  |
@@ -332,7 +332,7 @@
 | [Sunday](https://open.spotify.com/track/4eiy9EuD5I1fj0q1icyX4s) | [Altostratus](https://open.spotify.com/artist/0F1KiweoRWIIKbgKWTHaua) | [Storm in the fields](https://open.spotify.com/album/1jffCmND2gYAn2JHomEP2n) | 2:33 | 2023-02-13 | 2025-11-11 |
 | [Sunday Clouds](https://open.spotify.com/track/3MEnQB3hVAixFDItaDAYPB) | [Tom D\. Waters](https://open.spotify.com/artist/4zZDLZEKVgScOJcWnWXeOh) | [Sunday Clouds](https://open.spotify.com/album/5eWYCjOMNRIKOJ3Jf2uIMi) | 2:33 | 2022-11-21 |  |
 | [Surrender to rain](https://open.spotify.com/track/3NX7gdrLQMqCaFniFrH0a5) | [Rayne](https://open.spotify.com/artist/1RNXA2cIljrRol5nvV2Eoy) | [Surrender to rain](https://open.spotify.com/album/2eBvKcPkjpMxcUnrB55Hhq) | 3:28 | 2021-11-10 | 2025-11-11 |
-| [Sweater Weather](https://open.spotify.com/track/4NPhZSpTRJhsEG5DdbGH2P) | [Weather Pass](https://open.spotify.com/artist/2H3oeCocy2EKakpX7Es1T5) | [Noise of Water](https://open.spotify.com/album/5O0CKgV8A80zgqqwfQp8BK) | 1:58 | 2021-11-10 |  |
+| [Sweater Weather](https://open.spotify.com/track/4NPhZSpTRJhsEG5DdbGH2P) | [Weather Pass](https://open.spotify.com/artist/2H3oeCocy2EKakpX7Es1T5) | [Noise of Water](https://open.spotify.com/album/5O0CKgV8A80zgqqwfQp8BK) | 2:28 | 2021-11-10 |  |
 | [Tempête printanière](https://open.spotify.com/track/6WKm1ecd68hRHzvQ4geEcX) | [Thunder Phall](https://open.spotify.com/artist/3Oj162Eb4NZJe2w0j5FkUR) | [Une tempête humide](https://open.spotify.com/album/4bo1Q8gx21bcEUemVUE7YS) | 2:24 | 2022-11-21 |  |
 | [Thailand Thunderstorm \(Nature\)](https://open.spotify.com/track/5RCT6cwxeRYNV4KbOh1taU) | [Earth Alliance](https://open.spotify.com/artist/4u2F224Db72rESovXGKNGZ) | [Pieces of Paradise \(Nature\)](https://open.spotify.com/album/2DLSPTlBNC8o12gNrRN8mQ) | 4:11 | 2022-11-21 |  |
 | [That's Real Intense](https://open.spotify.com/track/7GquG0EVY3NBr0sQmhwc1I) | [Worrysome Skies](https://open.spotify.com/artist/3bkZdtFCw7NEPaNOBTHIjn) | [After Midnight](https://open.spotify.com/album/3ZK1PT3Q5D1cwXDIEeKp2R) | 2:01 | 2021-11-10 |  |

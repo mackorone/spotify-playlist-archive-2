@@ -1,13 +1,65 @@
 {
-  "description": "The best new music by independent artists and labels in India. Cover - Prithvi Prakash",
-  "num_followers": 66427,
+  "description": "The best new music by independent artists and labels in India. Cover - Jhalli",
+  "num_followers": 66467,
   "original_name": "Fresh Finds India",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAABDNMxCN+saHXl3xbZQcktMa5m9B",
+  "snapshot_id": "AAAAALgFyEJc08Ok6zMSnCs+D+Xh2IMd",
   "tracks": [
+    {
+      "added_at": "2026-11-25 07:30:12",
+      "album": {
+        "name": "Real Love Is Out There!",
+        "url": "https://open.spotify.com/album/1ypxZ6jTU2sihEO9c2wm4F"
+      },
+      "artists": [
+        {
+          "name": "Jhalli",
+          "url": "https://open.spotify.com/artist/4WYrwXBnVA79QFb6pI3xEf"
+        }
+      ],
+      "duration_ms": 208058,
+      "name": "Real Love Is Out There!",
+      "url": "https://open.spotify.com/track/3871ULgv1SvEKL68ywKYD5"
+    },
+    {
+      "added_at": "2026-11-25 07:30:12",
+      "album": {
+        "name": "Neela Aasman",
+        "url": "https://open.spotify.com/album/5KhLSn3vfLFhFhJfCQ2fMX"
+      },
+      "artists": [
+        {
+          "name": "Romil Hoskere",
+          "url": "https://open.spotify.com/artist/1MEWj32B3K4sToK5Csnxjj"
+        }
+      ],
+      "duration_ms": 274974,
+      "name": "Neela Aasman",
+      "url": "https://open.spotify.com/track/4uO0gUnTVGzKdxxAYDuZ3e"
+    },
+    {
+      "added_at": "2026-11-25 07:30:12",
+      "album": {
+        "name": "Zamaane Gawah Hai",
+        "url": "https://open.spotify.com/album/73TuaYxAf8Q7u6uVkjOo2Z"
+      },
+      "artists": [
+        {
+          "name": "Samyak Singh",
+          "url": "https://open.spotify.com/artist/113dXjCMbFcphqoqT3zTUP"
+        },
+        {
+          "name": "Varun Jain",
+          "url": "https://open.spotify.com/artist/72YHQo1NJVhvLm1fIvqXlV"
+        }
+      ],
+      "duration_ms": 221751,
+      "name": "Zamaane Gawah Hai",
+      "url": "https://open.spotify.com/track/6XyPiEsL2kWWOH17kZDqu6"
+    },
     {
       "added_at": "2026-11-11 07:30:21",
       "album": {
@@ -27,6 +79,90 @@
       "duration_ms": 144000,
       "name": "I'm too scared",
       "url": "https://open.spotify.com/track/2gPOVbcplH8OEfOOV5bWnc"
+    },
+    {
+      "added_at": "2026-11-25 07:30:12",
+      "album": {
+        "name": "Colour",
+        "url": "https://open.spotify.com/album/00Oy8ytkAb48Daj30cRX4I"
+      },
+      "artists": [
+        {
+          "name": "Imon",
+          "url": "https://open.spotify.com/artist/3bY660IbtBeAyjjch0QsjA"
+        }
+      ],
+      "duration_ms": 253469,
+      "name": "Colour",
+      "url": "https://open.spotify.com/track/4v86e3EArtALh2ZdpUm8fb"
+    },
+    {
+      "added_at": "2026-11-18 07:30:36",
+      "album": {
+        "name": "Aja Nindiya",
+        "url": "https://open.spotify.com/album/75Ta69UsQXaHTM10a0dKdX"
+      },
+      "artists": [
+        {
+          "name": "Durba Banerjee",
+          "url": "https://open.spotify.com/artist/5etPzPq4uUNG77culH8wc8"
+        }
+      ],
+      "duration_ms": 207933,
+      "name": "Aja Nindiya",
+      "url": "https://open.spotify.com/track/0rJvEdf6yvOMIRqEOCyQzh"
+    },
+    {
+      "added_at": "2026-11-04 07:30:14",
+      "album": {
+        "name": "Sawariya",
+        "url": "https://open.spotify.com/album/5PYhW9zUAtEhZuM7DLYRNB"
+      },
+      "artists": [
+        {
+          "name": "Upkar Thakur",
+          "url": "https://open.spotify.com/artist/0l5icZuvZegstUrB8rWevf"
+        },
+        {
+          "name": "DR\u00c6DEX",
+          "url": "https://open.spotify.com/artist/084SSUO6WXjg0yEy5eGCsd"
+        }
+      ],
+      "duration_ms": 224397,
+      "name": "Sawariya",
+      "url": "https://open.spotify.com/track/18nm91vSpnaqF5zrueyhgw"
+    },
+    {
+      "added_at": "2026-11-25 07:30:12",
+      "album": {
+        "name": "TISHNAGI",
+        "url": "https://open.spotify.com/album/1I3GH4AlvGX9xtoPRDWa3L"
+      },
+      "artists": [
+        {
+          "name": "Timothy Thampy",
+          "url": "https://open.spotify.com/artist/516N84Zm8jTFBAIDSK3uLK"
+        }
+      ],
+      "duration_ms": 216110,
+      "name": "TISHNAGI",
+      "url": "https://open.spotify.com/track/3d4bsiodatz0XftiWZ8Ddx"
+    },
+    {
+      "added_at": "2026-11-25 07:30:12",
+      "album": {
+        "name": "Little Paradise",
+        "url": "https://open.spotify.com/album/5a7MMp0ez4wOJ4Nfh4wWLY"
+      },
+      "artists": [
+        {
+          "name": "Tumken",
+          "url": "https://open.spotify.com/artist/3w7QD7NoVPBw45BpvTOuHO"
+        }
+      ],
+      "duration_ms": 192545,
+      "name": "Little Paradise",
+      "url": "https://open.spotify.com/track/4nwqCoFbXIrhJ5qYSIiYTH"
     },
     {
       "added_at": "2026-11-18 07:30:36",
@@ -83,42 +219,6 @@
       "duration_ms": 186666,
       "name": "KISM KISM",
       "url": "https://open.spotify.com/track/1nlT43wv05Rq8HghOL9OiD"
-    },
-    {
-      "added_at": "2026-11-18 07:30:36",
-      "album": {
-        "name": "Aja Nindiya",
-        "url": "https://open.spotify.com/album/75Ta69UsQXaHTM10a0dKdX"
-      },
-      "artists": [
-        {
-          "name": "Durba Banerjee",
-          "url": "https://open.spotify.com/artist/5etPzPq4uUNG77culH8wc8"
-        }
-      ],
-      "duration_ms": 207933,
-      "name": "Aja Nindiya",
-      "url": "https://open.spotify.com/track/0rJvEdf6yvOMIRqEOCyQzh"
-    },
-    {
-      "added_at": "2026-11-04 07:30:14",
-      "album": {
-        "name": "Sawariya",
-        "url": "https://open.spotify.com/album/5PYhW9zUAtEhZuM7DLYRNB"
-      },
-      "artists": [
-        {
-          "name": "Upkar Thakur",
-          "url": "https://open.spotify.com/artist/0l5icZuvZegstUrB8rWevf"
-        },
-        {
-          "name": "DR\u00c6DEX",
-          "url": "https://open.spotify.com/artist/084SSUO6WXjg0yEy5eGCsd"
-        }
-      ],
-      "duration_ms": 224397,
-      "name": "Sawariya",
-      "url": "https://open.spotify.com/track/18nm91vSpnaqF5zrueyhgw"
     },
     {
       "added_at": "2026-11-04 07:30:14",
@@ -637,62 +737,6 @@
       "url": "https://open.spotify.com/track/4WzXpqKqQiyneF4KE0jEdF"
     },
     {
-      "added_at": "2026-09-16 07:30:21",
-      "album": {
-        "name": "Do I Know (Rachika Nayar Edit)",
-        "url": "https://open.spotify.com/album/6O6QDZCAsyswRZoQPtF8mN"
-      },
-      "artists": [
-        {
-          "name": "Sijya",
-          "url": "https://open.spotify.com/artist/7E6rUwPmABZAG9b33Nag2p"
-        }
-      ],
-      "duration_ms": 166965,
-      "name": "Do I Know",
-      "url": "https://open.spotify.com/track/71vVx436mXJPpSybU1hrML"
-    },
-    {
-      "added_at": "2026-09-30 07:30:00",
-      "album": {
-        "name": "Bloom",
-        "url": "https://open.spotify.com/album/1ovrqBV0ZyHfhFAmC2aIat"
-      },
-      "artists": [
-        {
-          "name": "The DANGERMEN",
-          "url": "https://open.spotify.com/artist/3r265DJWlrPiBBesljZ1Be"
-        }
-      ],
-      "duration_ms": 258351,
-      "name": "Bloom",
-      "url": "https://open.spotify.com/track/54WDZ7mgS2uQboApoaND6L"
-    },
-    {
-      "added_at": "2026-09-16 07:30:21",
-      "album": {
-        "name": "emergency contact",
-        "url": "https://open.spotify.com/album/5gMt0XCnf4Q8rOHRXD68Q5"
-      },
-      "artists": [
-        {
-          "name": "Aamir Rizvi",
-          "url": "https://open.spotify.com/artist/0x25jhlNyAEkoq6ofG9Mud"
-        },
-        {
-          "name": "Aditya Servaia",
-          "url": "https://open.spotify.com/artist/5ZNYJhSuSeCIyGUiCfICT2"
-        },
-        {
-          "name": "Supratim Bhattacharya",
-          "url": "https://open.spotify.com/artist/3cO2Hn3zRpyUbc3XASJs57"
-        }
-      ],
-      "duration_ms": 250500,
-      "name": "emergency contact",
-      "url": "https://open.spotify.com/track/1oKPimg4sx4wK1oS3HUrfT"
-    },
-    {
       "added_at": "2026-09-23 07:30:22",
       "album": {
         "name": "Tera Naam",
@@ -717,22 +761,6 @@
       "url": "https://open.spotify.com/track/0El6fUfs5yLIS6CvS6vImb"
     },
     {
-      "added_at": "2026-09-23 07:30:22",
-      "album": {
-        "name": "Afreen",
-        "url": "https://open.spotify.com/album/1oqR5zK0y50KVRVWqZITsq"
-      },
-      "artists": [
-        {
-          "name": "Vaibhav Malhotra",
-          "url": "https://open.spotify.com/artist/5wHCytYglbwzeqqfClAI1j"
-        }
-      ],
-      "duration_ms": 163902,
-      "name": "Afreen",
-      "url": "https://open.spotify.com/track/1GFJs86cO3EnsjzxQXV0Wx"
-    },
-    {
       "added_at": "2026-09-16 07:30:21",
       "album": {
         "name": "Jee Le",
@@ -747,22 +775,6 @@
       "duration_ms": 182210,
       "name": "Jee Le",
       "url": "https://open.spotify.com/track/7yRXAOSgnHn5nu1oEvIUEi"
-    },
-    {
-      "added_at": "2026-09-23 07:30:22",
-      "album": {
-        "name": "Stranger",
-        "url": "https://open.spotify.com/album/4rhCCCCi6oasJ9w4ODuhyx"
-      },
-      "artists": [
-        {
-          "name": "Calcutta Cowboy",
-          "url": "https://open.spotify.com/artist/35caokDeiAUdoJtf0GPXdp"
-        }
-      ],
-      "duration_ms": 211000,
-      "name": "Stranger",
-      "url": "https://open.spotify.com/track/5j4eiumYSJggM3mMZAcWrI"
     },
     {
       "added_at": "2026-09-23 07:30:22",
@@ -847,30 +859,6 @@
       "duration_ms": 208125,
       "name": "hai pyaar kya?",
       "url": "https://open.spotify.com/track/4BCVOlDWKLcAQdCdgGAWHF"
-    },
-    {
-      "added_at": "2026-08-26 07:30:02",
-      "album": {
-        "name": "Awarapan",
-        "url": "https://open.spotify.com/album/0TyJtRKMbfZKud6VmuHzd2"
-      },
-      "artists": [
-        {
-          "name": "Khanabadosh",
-          "url": "https://open.spotify.com/artist/7dnbgJ1rgMrXMxORusmKuz"
-        },
-        {
-          "name": "Gaurav Solanki",
-          "url": "https://open.spotify.com/artist/15n5bpBTGJfd9HLpSDaNvP"
-        },
-        {
-          "name": "Guru Datt Vyas",
-          "url": "https://open.spotify.com/artist/3BRMWXRXEaBnxi6ATSsiUW"
-        }
-      ],
-      "duration_ms": 132000,
-      "name": "Awarapan",
-      "url": "https://open.spotify.com/track/0MXTd0Kbfk1Zj7YCTgybaW"
     },
     {
       "added_at": "2026-08-26 07:30:02",

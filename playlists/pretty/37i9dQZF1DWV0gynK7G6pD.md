@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWV0gynK7G6pD.md) - [plain]
 
 > Updated every Friday with the very best classical new releases\. Cover:  Erland Cooper
 
-[Spotify](https://open.spotify.com/user/spotify) - 760,918 likes - 72 songs - 5 hr 23 min
+[Spotify](https://open.spotify.com/user/spotify) - 760,933 likes - 72 songs - 5 hr 23 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -81,4 +81,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWV0gynK7G6pD.md) - [plain]
 | 71 | [Amor l'alma m'allaccia](https://open.spotify.com/track/0uYJDvJL10HOrZMm801tmn) | [Carlo Alessandro Landini](https://open.spotify.com/artist/0x510ZkSbOga3fuzs9o7yG), [Fleur\-de\-Lys](https://open.spotify.com/artist/2p0GoMheYp4AqhzK3fn2nQ) | [Carlo alessandro landini: libro di madrigali](https://open.spotify.com/album/5KZN1Y5ekwoyTsVdkK392M) | 3:43 |
 | 72 | [Ich steh mit einem Fuß im Grabe, BWV 156: I\. Sinfonia "Arioso" \(Arr\. for Guitar by Luis Leite\)](https://open.spotify.com/track/4qxxRFdBsIMmaY7q3WTbxk) | [Johann Sebastian Bach](https://open.spotify.com/artist/5aIqB5nVVvmFsvSdExz408), [Ivory Compass](https://open.spotify.com/artist/0vgWVPV36NHriatP13YtvX) | [Arioso](https://open.spotify.com/album/5T09xw5wqsxkIdoTD5cSsQ) | 3:22 |
 
-Snapshot ID: `AAAAAOhoEW8ggyBg2ENQYbeu60xp6rrH`
+Snapshot ID: `AAAAAIY+bw/DtExgoQhkXWtkx/11RS8Q`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9c7yCloFHHL.md) - [plain]
 
 > The newest in Ambient music and the sounds it explores beyond\. <br/>On the cover: Bnnyhunna
 
-[Spotify](https://open.spotify.com/user/spotify) - 287,131 likes - 100 songs - 6 hr 39 min
+[Spotify](https://open.spotify.com/user/spotify) - 287,178 likes - 100 songs - 6 hr 39 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9c7yCloFHHL.md) - [plain]
 | 99 | [Rivers](https://open.spotify.com/track/3NWNLTUHgzurCUAF5zUgbA) | [Michael Grigoni](https://open.spotify.com/artist/0Mi9hUiOOd4CiZNAlsbXsv), [Scott Orr](https://open.spotify.com/artist/12vInSu21rqLXfH6QKTLl1) | [Rivers](https://open.spotify.com/album/0SVVncxyphMZ8XVHXaHACJ) | 4:19 |
 | 100 | [Morning View](https://open.spotify.com/track/7epp0tazVpa4aN12x9KQQY) | [Lumestria](https://open.spotify.com/artist/2EgAcyKbKswfRo9sHGG3xC) | [Morning View](https://open.spotify.com/album/2XWJNYh6k6UZanr1KWuray) | 3:04 |
 
-Snapshot ID: `AAAAABl7baFzJbXzD5iRFYceCpt+EhcV`
+Snapshot ID: `AAAAAMIM66uyEDVsPWj+WLuHZONa3ORS`

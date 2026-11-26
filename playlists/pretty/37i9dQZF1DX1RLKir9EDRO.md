@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1RLKir9EDRO.md) - [plain]
 
 > Bağımsız yerli sahneden keşifler! Kapak: Mesafeler  Çizim: Isu Kim
 
-[Spotify](https://open.spotify.com/user/spotify) - 41,106 likes - 49 songs - 2 hr 33 min
+[Spotify](https://open.spotify.com/user/spotify) - 41,148 likes - 49 songs - 2 hr 33 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -58,4 +58,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1RLKir9EDRO.md) - [plain]
 | 48 | [Sol Omzum](https://open.spotify.com/track/5CARmVCSM5HW5rQaq9LUOE) | [Gizem Kosif](https://open.spotify.com/artist/3Foixw44zgTLNs1ASHCR5I) | [Sol Omzum](https://open.spotify.com/album/7JC8hyG2jW5DsQNeM3G44k) | 2:21 |
 | 49 | [Prudy](https://open.spotify.com/track/79GlDO9RsJwZBIuaX0IBjp) | [Murteza](https://open.spotify.com/artist/3CuN1DrJQyWlGRB2iiyD4x) | [Prudy](https://open.spotify.com/album/5TK5YTfodg13j2iO3Hzgyc) | 3:44 |
 
-Snapshot ID: `AAAAADQXxHnCckFp74g5TqHos+Mvs+gD`
+Snapshot ID: `AAAAAKnJRwlwcvMluaIjvaASmkZJ79ER`

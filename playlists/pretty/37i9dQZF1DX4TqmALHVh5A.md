@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4TqmALHVh5A.md) - [plain]
 
 > La scène française branchée sur courant alternatif\. Photo: Dalí.
 
-[Spotify](https://open.spotify.com/user/spotify) - 119,894 likes - 50 songs - 2 hr 21 min
+[Spotify](https://open.spotify.com/user/spotify) - 119,897 likes - 50 songs - 2 hr 21 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4TqmALHVh5A.md) - [plain]
 | 49 | [Jack Frost](https://open.spotify.com/track/1Gdg3aBIsc0LYzg4XvPglC) | [ruoma](https://open.spotify.com/artist/6uU4whWSfT9rv1mXuTgJRN) | [Jack Frost](https://open.spotify.com/album/2LdOCywX2pm0ORufaDtA3j) | 3:01 |
 | 50 | [Pop Song](https://open.spotify.com/track/7qBHFgVyYJl3bARSplq4Hl) | [Sébastien Delage](https://open.spotify.com/artist/5h0ORvr8vGIg2fkQAu9m5M) | [Pop Song](https://open.spotify.com/album/64sj6X7CIIqpN9w89vlkRX) | 3:27 |
 
-Snapshot ID: `AAAAAD9mzyIuKa7s/+oHJqDQkCDAo7tN`
+Snapshot ID: `AAAAAEfQcdEstbPya2AU/9GoONjl1ZKS`

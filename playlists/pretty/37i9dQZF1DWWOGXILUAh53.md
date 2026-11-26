@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWOGXILUAh53.md) - [plain]
 
 > The hottest new pop with all the drops\. Cover: A7S & Loreen
 
-[Spotify](https://open.spotify.com/user/spotify) - 465,246 likes - 99 songs - 5 hr 2 min
+[Spotify](https://open.spotify.com/user/spotify) - 465,356 likes - 99 songs - 5 hr 2 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -108,4 +108,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWOGXILUAh53.md) - [plain]
 | 98 | [MUSCLE MARYS..](https://open.spotify.com/track/5TPleDKLsLNRdqkGMrbL5F) | [MNEK](https://open.spotify.com/artist/7uMh23xWiuR7zsNkuNcm2G) | [MUSCLE MARYS..](https://open.spotify.com/album/1uPbpmEVZxxGvMtqBj6hWl) | 3:23 |
 | 99 | [seeing stars](https://open.spotify.com/track/4sVsOR2Gsi42ClWuzB1i9x) | [jigitz](https://open.spotify.com/artist/7sfn5Z6ItzDkOF9cYzxWPZ), [venbee](https://open.spotify.com/artist/4UWWa5dKgTLAx8mv6Ju6X1) | [50 ballerinas](https://open.spotify.com/album/6CRw56mCdwUCZsQ92dFU51) | 2:38 |
 
-Snapshot ID: `AAAAAAH0a91f7iqik2mro1b/88clB/aD`
+Snapshot ID: `AAAAAOhmE6SUQi2vIRHsHAerXUjxgbGM`

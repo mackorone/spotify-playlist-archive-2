@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVwRuJjs9A3S.md) - [plain]
 
 > Det senaste och bästa från världen av indie\. Cover: Little Jinder
 
-[Spotify](https://open.spotify.com/user/spotify) - 115,746 likes - 199 songs - 11 hr 10 min
+[Spotify](https://open.spotify.com/user/spotify) - 115,739 likes - 199 songs - 11 hr 10 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -208,4 +208,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVwRuJjs9A3S.md) - [plain]
 | 198 | [I'd love to be a star](https://open.spotify.com/track/1iSXI8IPkPMxtITODa0mTg) | [Mercedess](https://open.spotify.com/artist/487LWNWQyTG52kpmID4tTm) | [I'd love to be a star, but I'm tired as fuck](https://open.spotify.com/album/1eBcNO07bb58jDOx4UJ9oi) | 3:35 |
 | 199 | [Venus in the Zinnia](https://open.spotify.com/track/6X5ARfLepGTGntuFbc2Hpo) | [Aldous Harding](https://open.spotify.com/artist/3lmR0qMiGuoIF9UC54egcG), [H\. Hawkline](https://open.spotify.com/artist/7FmM0XgimRvS48CfObh2ht) | [Venus in the Zinnia](https://open.spotify.com/album/1g8xMfOWEPfIuxHory8Pg9) | 3:17 |
 
-Snapshot ID: `AAAAAMUKRHHNPAOmF4k7iPVPQXsvO7MT`
+Snapshot ID: `AAAAAHQCYipolvxAIh1/K8rdbWxTay6S`

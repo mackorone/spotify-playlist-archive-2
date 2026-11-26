@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0KpeLFwA3tO.md) - [plain]
 
 > The best new music from the wide world of punk\. Cover: Touché Amoré
 
-[Spotify](https://open.spotify.com/user/spotify) - 336,997 likes - 114 songs - 5 hr 44 min
+[Spotify](https://open.spotify.com/user/spotify) - 337,008 likes - 114 songs - 5 hr 44 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -123,4 +123,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0KpeLFwA3tO.md) - [plain]
 | 113 | [Sex Wounds](https://open.spotify.com/track/3agqBL5ff5zUc5DfehlS7F) | [Lost Animal](https://open.spotify.com/artist/07UynBzCW40cZ4PdnQk6VY) | [Give Some Get Some](https://open.spotify.com/album/5iCy5u7UwSiUJ8Ss0JpFLh) | 3:00 |
 | 114 | [Mi peor enemigo](https://open.spotify.com/track/3yHuRpypYB3Rg2JIE8kp35) | [Q69k](https://open.spotify.com/artist/1Mg8WSoSk3WhU7ohjk6uEO), [Corre Forrest!](https://open.spotify.com/artist/6MKMzsT9XaBOJVn20RJfe5) | [Mi peor enemigo](https://open.spotify.com/album/45QGNZvqtsbpAtUSQ3jNeV) | 2:30 |
 
-Snapshot ID: `AAAAAE+WR4cTs59ohsUG7UUBGLpuIPtZ`
+Snapshot ID: `AAAAAL5jCo7bl0UX60pvs/DM4vidifuf`

@@ -2,9 +2,9 @@
 
 ### [Indie Korea \(인디 코리아\)](https://open.spotify.com/playlist/37i9dQZF1DXdTb8AG95jne)
 
-> Let's fall into the K\-인디 tracks from Korea's thriving indie scene\. \(Cover: sunwoojunga\)  \(최신곡을 포함한 국내 인디곡들을 만나보세요!\)
+> Let's fall into the K\-인디 tracks from Korea's thriving indie scene\. \(Cover: HYUKOH\)  \(최신곡을 포함한 국내 인디곡들을 만나보세요!\)
 
-1,422 songs - 3 day 14 hr 13 min
+1,423 songs - 3 day 14 hr 18 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -95,7 +95,7 @@
 | [Around](https://open.spotify.com/track/0WGDTNPUH5ywFcatKn4DUo) | [SURL](https://open.spotify.com/artist/7owveHzN1hmQuw6Ojg4sI3) | [Around](https://open.spotify.com/album/6tICS1jK7fDG4e2Mmlcsw3) | 4:49 | 2022-04-12 | 2022-07-23 |
 | [As I Am](https://open.spotify.com/track/6n4R95MRGR3FmzxFtF89fm) | [Haze Moon](https://open.spotify.com/artist/5qWj6gxjgEq3Ut7QKG1Wjd) | [As I Am](https://open.spotify.com/album/1YUP8BmPqjVWiS54AztFXi) | 3:54 | 2024-08-29 | 2024-09-04 |
 | [As is](https://open.spotify.com/track/1sT0vbLIJRnOIJU6gKAKDa) | [Jenny Choi](https://open.spotify.com/artist/2rtmI0H2LRnKU9Et5bl20L) | [Breathing Methods](https://open.spotify.com/album/43mZmhTsB9gmskv8k3q0Ml) | 3:46 | 2026-05-29 | 2026-10-30 |
-| [Ashen Song](https://open.spotify.com/track/2TlkdYz2tkUim8bGosbV0u) | [GYE0M](https://open.spotify.com/artist/2nFAl5FcbuagY1zVglLvPc), [Mingginyu](https://open.spotify.com/artist/29UQ130XMQDR55X4Rmjapd) | [Ashen Song](https://open.spotify.com/album/4kloJo4fzRFSgcahgoYmqs) | 3:37 | 2026-07-16 |  |
+| [Ashen Song](https://open.spotify.com/track/2TlkdYz2tkUim8bGosbV0u) | [GYE0M](https://open.spotify.com/artist/2nFAl5FcbuagY1zVglLvPc), [Mingginyu](https://open.spotify.com/artist/29UQ130XMQDR55X4Rmjapd) | [Ashen Song](https://open.spotify.com/album/4kloJo4fzRFSgcahgoYmqs) | 3:37 | 2026-07-16 | 2026-11-26 |
 | [Ashes](https://open.spotify.com/track/51ttgzyQ0SKKlC92bFK58v) | [HANRORO](https://open.spotify.com/artist/5wVJpXzuKV6Xj7Yhsf2uYx) | [HOME](https://open.spotify.com/album/4finbgKnMb3yfGdr0vErpw) | 3:56 | 2024-06-19 | 2024-07-02 |
 | [Asphalt](https://open.spotify.com/track/4QlN9AltbOXYUzuzTBkTWf) | [Mulsoo](https://open.spotify.com/artist/0Aq1PfguCBKu8zpQXobNJ5) | [Asphalt](https://open.spotify.com/album/2DJmpTc5osfVhqoTcLZJZn) | 3:16 | 2025-07-23 | 2025-08-01 |
 | [Aspirin Overdose](https://open.spotify.com/track/2k8uwXICRE6Bwy7TZZI2KA) | [Shin Hae Gyeong](https://open.spotify.com/artist/5QvjYtqN0mekeCiyhdAjss) | [Neap Paradise](https://open.spotify.com/album/7JSKsWO0xZw7JlQbV8AG9N) | 4:11 | 2022-12-13 | 2022-12-30 |
@@ -1298,6 +1298,7 @@
 | [Wedding diary 신혼일기](https://open.spotify.com/track/0mT5mNsNgqlOovlJRE4I4F) | [Yun DDanDDan](https://open.spotify.com/artist/0fnx3yyvXH5E0UATpygzzt) | [Wedding diary 신혼일기](https://open.spotify.com/album/54g9wr8FNNiOCSgtQMqwnZ) | 3:23 | 2022-03-31 | 2022-04-18 |
 | [Weekend Plan](https://open.spotify.com/track/6MEqLi6sAO1dNhvsIu8EBB) | [시문](https://open.spotify.com/artist/1av7TcuRUTFY08RJlMd7gt), [라라 Lara](https://open.spotify.com/artist/1FKYTUBCKMWh2JDdYdWObW) | [Weekend Plan](https://open.spotify.com/album/03MCtdcLL9qyior3POGFaC) | 2:52 | 2025-03-14 | 2025-04-10 |
 | [Weekenders \(feat\. Hans.\)](https://open.spotify.com/track/0VxIxeP9LKGnV1SLTDTk4w) | [hanbee](https://open.spotify.com/artist/1so016J03vtcKN2mKWprQk), [Hans.](https://open.spotify.com/artist/41azuh0IUq4g2UPySoYp8A) | [Weekenders \(feat\. Hans.\)](https://open.spotify.com/album/6Ey4kcZS1m0IQvv7R8ZaXu) | 3:39 | 2022-03-18 | 2022-04-16 |
+| [Weight of Denial](https://open.spotify.com/track/3Od5yTdwQiQQMTbMVBd9nG) | [HYUKOH](https://open.spotify.com/artist/57okaLdCtv3nVBSn5otJkp) | [33](https://open.spotify.com/album/0cUaE4tfNSCtDpYLvmwjwx) | 4:38 | 2026-11-25 |  |
 | [Westin Josun Hotel](https://open.spotify.com/track/24fSPOhwhY7QfJUtQAoQn3) | [Meaningful Stone](https://open.spotify.com/artist/7EVlq3yUVHbHZZsaYSOcXt) | [Angel interview](https://open.spotify.com/album/71nETOcHFhXdn9gp8bZsjT) | 2:52 | 2024-11-28 | 2025-01-31 |
 | [We′re Never Going Back](https://open.spotify.com/track/3E9si0gRkModamhgTBWTk3) | [FRankly](https://open.spotify.com/artist/45hB81mVYnKWDGWPBX0mza) | [OVER//DRIVE](https://open.spotify.com/album/0eddSmD2hjsYT7cHsYcQOd) | 3:00 | 2026-01-19 | 2026-02-28 |
 | [What can I do](https://open.spotify.com/track/6lMwrY5yRLMEG4WyuCEsFv) | [ACOURVE](https://open.spotify.com/artist/0i9MWBqCpPeaJu6rJkrOoA) | [What can I do](https://open.spotify.com/album/4eV349LplmfXn5COoDAriG) | 3:27 | 2022-04-12 | 2024-05-01 |

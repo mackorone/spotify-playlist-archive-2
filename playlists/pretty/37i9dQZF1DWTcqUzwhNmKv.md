@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTcqUzwhNmKv.md) - [plain]
 
 > Trivium are on top of today's best Metal playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,660,487 likes - 102 songs - 6 hr 51 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,660,526 likes - 102 songs - 6 hr 51 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -111,4 +111,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTcqUzwhNmKv.md) - [plain]
 | 101 | [Highbrow Thieves](https://open.spotify.com/track/4oXj2jUtvxIqnFAG76ufry) | [Miss May I](https://open.spotify.com/artist/2OTuoIi28WybVbVcykc237) | [Highbrow Thieves](https://open.spotify.com/album/4WS65KHoj7JtkMEZqlnqzn) | 3:03 |
 | 102 | [Hunter](https://open.spotify.com/track/5zGD0suXP7fHcFVlyua3V0) | [Deafheaven](https://open.spotify.com/artist/4XpPveeg7RuYS3CgLo75t9) | [At Work In The Fields Of The Bomb](https://open.spotify.com/album/7tIVbLtTqWrlTnoPiLLA1R) | 7:16 |
 
-Snapshot ID: `AAAAAED8ftsUoPoM+yhRG7b8hmLKIEH8`
+Snapshot ID: `AAAAAAI55wB949nxcHKL04K7AiwadJfx`

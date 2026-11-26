@@ -1,12 +1,12 @@
 {
   "description": "The best new songs of the month, handpicked by Spotify editors. Cover: Victony",
-  "num_followers": 124446,
+  "num_followers": 124448,
   "original_name": "Editors' Picks: Best Songs of October",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAP3qXX1is6nL/cki2HXY24TImvWe",
+  "snapshot_id": "AAAAAGH3ZchzHuNef71O7PJVjwLNAI/q",
   "tracks": [
     {
       "added_at": "2026-10-27 04:00:01",
@@ -463,22 +463,6 @@
     {
       "added_at": "2026-10-27 04:00:01",
       "album": {
-        "name": "Punched In The Head",
-        "url": "https://open.spotify.com/album/62V5yNNUirACiRWOXe4ydI"
-      },
-      "artists": [
-        {
-          "name": "Cowboy Hunters",
-          "url": "https://open.spotify.com/artist/5GSSYBJxAbpSyj2w2vr5Cp"
-        }
-      ],
-      "duration_ms": 118754,
-      "name": "Punched In The Head",
-      "url": "https://open.spotify.com/track/5aYGNl8tDxpl5tURCF3UW0"
-    },
-    {
-      "added_at": "2026-10-27 04:00:01",
-      "album": {
         "name": "Live at Carnegie Hall",
         "url": "https://open.spotify.com/album/5FjFRlo7diqzHNpVz5wJCt"
       },
@@ -491,6 +475,22 @@
       "duration_ms": 258692,
       "name": "Emperor XIII in Shades - Live at Carnegie Hall",
       "url": "https://open.spotify.com/track/6UIqRlYsnQVpWzCD1GkoeX"
+    },
+    {
+      "added_at": "2026-10-27 04:00:01",
+      "album": {
+        "name": "Punched In The Head",
+        "url": "https://open.spotify.com/album/62V5yNNUirACiRWOXe4ydI"
+      },
+      "artists": [
+        {
+          "name": "Cowboy Hunters",
+          "url": "https://open.spotify.com/artist/5GSSYBJxAbpSyj2w2vr5Cp"
+        }
+      ],
+      "duration_ms": 118754,
+      "name": "Punched In The Head",
+      "url": "https://open.spotify.com/track/5aYGNl8tDxpl5tURCF3UW0"
     },
     {
       "added_at": "2026-10-27 04:00:01",
@@ -595,22 +595,6 @@
     {
       "added_at": "2026-10-27 04:00:01",
       "album": {
-        "name": "Summer Clothes",
-        "url": "https://open.spotify.com/album/2QfJtIK3efePBUUoYgrgm3"
-      },
-      "artists": [
-        {
-          "name": "Michael Kiwanuka",
-          "url": "https://open.spotify.com/artist/0bzfPKdbXL5ezYW2z3UGQj"
-        }
-      ],
-      "duration_ms": 265505,
-      "name": "Summer Clothes",
-      "url": "https://open.spotify.com/track/1bOnbXldcr1DnseZ7getJp"
-    },
-    {
-      "added_at": "2026-10-27 04:00:01",
-      "album": {
         "name": "the greatest album of all time",
         "url": "https://open.spotify.com/album/604KxCjle0KCw0VXdoMNgj"
       },
@@ -627,18 +611,18 @@
     {
       "added_at": "2026-10-27 04:00:01",
       "album": {
-        "name": "Mantra",
-        "url": "https://open.spotify.com/album/3y2isq1rsZQLsjXSjIwFBL"
+        "name": "Summer Clothes",
+        "url": "https://open.spotify.com/album/2QfJtIK3efePBUUoYgrgm3"
       },
       "artists": [
         {
-          "name": "Shygirl",
-          "url": "https://open.spotify.com/artist/3M3wTTCDwicRubwMyHyEDy"
+          "name": "Michael Kiwanuka",
+          "url": "https://open.spotify.com/artist/0bzfPKdbXL5ezYW2z3UGQj"
         }
       ],
-      "duration_ms": 185330,
-      "name": "Mantra",
-      "url": "https://open.spotify.com/track/6FRKbLeBePLS0KTZqhVMgR"
+      "duration_ms": 265505,
+      "name": "Summer Clothes",
+      "url": "https://open.spotify.com/track/1bOnbXldcr1DnseZ7getJp"
     },
     {
       "added_at": "2026-10-27 04:00:01",
@@ -655,6 +639,22 @@
       "duration_ms": 168967,
       "name": "Hysteria",
       "url": "https://open.spotify.com/track/0bIpDIXEcFefn9dmKoAxNy"
+    },
+    {
+      "added_at": "2026-10-27 04:00:01",
+      "album": {
+        "name": "Mantra",
+        "url": "https://open.spotify.com/album/3y2isq1rsZQLsjXSjIwFBL"
+      },
+      "artists": [
+        {
+          "name": "Shygirl",
+          "url": "https://open.spotify.com/artist/3M3wTTCDwicRubwMyHyEDy"
+        }
+      ],
+      "duration_ms": 185330,
+      "name": "Mantra",
+      "url": "https://open.spotify.com/track/6FRKbLeBePLS0KTZqhVMgR"
     },
     {
       "added_at": "2026-10-27 04:00:01",
@@ -711,6 +711,26 @@
     {
       "added_at": "2026-10-27 04:00:01",
       "album": {
+        "name": "Honey Is My New Favorite",
+        "url": "https://open.spotify.com/album/5mApXQQlSq9naYH7mpfPWl"
+      },
+      "artists": [
+        {
+          "name": "adore",
+          "url": "https://open.spotify.com/artist/7ofG5BaSiQp8WeL4YCYDhF"
+        },
+        {
+          "name": "Deem Spencer",
+          "url": "https://open.spotify.com/artist/4iXaGootDLE50qY42LCdnK"
+        }
+      ],
+      "duration_ms": 143551,
+      "name": "Honey Is My New Favorite",
+      "url": "https://open.spotify.com/track/1BVMfHWOgYZHRdlVptsa2i"
+    },
+    {
+      "added_at": "2026-10-27 04:00:01",
+      "album": {
         "name": "Call Me If You Need Me",
         "url": "https://open.spotify.com/album/6H3Sd8HbS6x2p8pUPc2pCo"
       },
@@ -731,26 +751,6 @@
       "duration_ms": 142869,
       "name": "Call Me If You Need Me",
       "url": "https://open.spotify.com/track/7bjYJFNaeUcgbCy4fkoFxO"
-    },
-    {
-      "added_at": "2026-10-27 04:00:01",
-      "album": {
-        "name": "Honey Is My New Favorite",
-        "url": "https://open.spotify.com/album/5mApXQQlSq9naYH7mpfPWl"
-      },
-      "artists": [
-        {
-          "name": "adore",
-          "url": "https://open.spotify.com/artist/7ofG5BaSiQp8WeL4YCYDhF"
-        },
-        {
-          "name": "Deem Spencer",
-          "url": "https://open.spotify.com/artist/4iXaGootDLE50qY42LCdnK"
-        }
-      ],
-      "duration_ms": 143551,
-      "name": "Honey Is My New Favorite",
-      "url": "https://open.spotify.com/track/1BVMfHWOgYZHRdlVptsa2i"
     },
     {
       "added_at": "2026-10-27 04:00:01",
@@ -803,22 +803,6 @@
     {
       "added_at": "2026-10-27 04:00:01",
       "album": {
-        "name": "We'll Never Be This Young Again",
-        "url": "https://open.spotify.com/album/6FAKkmCP208V0ubSLJ6AXl"
-      },
-      "artists": [
-        {
-          "name": "Laila!",
-          "url": "https://open.spotify.com/artist/7tHTnyrdTNM152slc8aQ3t"
-        }
-      ],
-      "duration_ms": 141622,
-      "name": "We'll Never Be This Young Again",
-      "url": "https://open.spotify.com/track/0cCyMQoRm3ofgJVb26APSn"
-    },
-    {
-      "added_at": "2026-10-27 04:00:01",
-      "album": {
         "name": "Nature's Pill",
         "url": "https://open.spotify.com/album/2VeCYcmbUk083SQ6QZykQM"
       },
@@ -831,6 +815,22 @@
       "duration_ms": 257893,
       "name": "Covergirl",
       "url": "https://open.spotify.com/track/00i9FK4EX5YRmgGe9WRtKj"
+    },
+    {
+      "added_at": "2026-10-27 04:00:01",
+      "album": {
+        "name": "We'll Never Be This Young Again",
+        "url": "https://open.spotify.com/album/6FAKkmCP208V0ubSLJ6AXl"
+      },
+      "artists": [
+        {
+          "name": "Laila!",
+          "url": "https://open.spotify.com/artist/7tHTnyrdTNM152slc8aQ3t"
+        }
+      ],
+      "duration_ms": 141622,
+      "name": "We'll Never Be This Young Again",
+      "url": "https://open.spotify.com/track/0cCyMQoRm3ofgJVb26APSn"
     },
     {
       "added_at": "2026-10-27 04:00:01",
@@ -931,6 +931,22 @@
     {
       "added_at": "2026-10-27 04:00:01",
       "album": {
+        "name": "Trace me on2 u",
+        "url": "https://open.spotify.com/album/0TKnisEIRC5QyEI2ySnlaj"
+      },
+      "artists": [
+        {
+          "name": "Touching Ice",
+          "url": "https://open.spotify.com/artist/0tlUMIekHSOfWiGg3PeeD4"
+        }
+      ],
+      "duration_ms": 181810,
+      "name": "Trace me on2 u",
+      "url": "https://open.spotify.com/track/1T649fr2klZ11hjPH5MZfC"
+    },
+    {
+      "added_at": "2026-10-27 04:00:01",
+      "album": {
         "name": "Stick Around For Tea",
         "url": "https://open.spotify.com/album/6fHv4lP1mfXizl1StQkRLU"
       },
@@ -959,22 +975,6 @@
       "duration_ms": 163658,
       "name": "potion",
       "url": "https://open.spotify.com/track/42cTujnWEeALsFQKiKcg6w"
-    },
-    {
-      "added_at": "2026-10-27 04:00:01",
-      "album": {
-        "name": "Trace me on2 u",
-        "url": "https://open.spotify.com/album/0TKnisEIRC5QyEI2ySnlaj"
-      },
-      "artists": [
-        {
-          "name": "Touching Ice",
-          "url": "https://open.spotify.com/artist/0tlUMIekHSOfWiGg3PeeD4"
-        }
-      ],
-      "duration_ms": 181810,
-      "name": "Trace me on2 u",
-      "url": "https://open.spotify.com/track/1T649fr2klZ11hjPH5MZfC"
     },
     {
       "added_at": "2026-10-27 04:00:01",

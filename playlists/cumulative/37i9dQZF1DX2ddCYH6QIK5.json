@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-01-09",
-  "description": "The best new music by independent artists and labels from GSA, updated every Wednesday. Cover: SATARII",
+  "description": "The best new music by independent artists and labels from GSA, updated every Wednesday. Cover: Lylali",
   "name": "Fresh Finds GSA",
   "tracks": [
     {
@@ -4236,7 +4236,7 @@
       ],
       "date_added": "2026-05-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-26",
       "duration_ms": 183874,
       "name": "Breeze",
       "url": "https://open.spotify.com/track/7I7EYPHh7VDDnZceAl6gXS"
@@ -5330,7 +5330,7 @@
       ],
       "date_added": "2026-10-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-26",
       "duration_ms": 223511,
       "name": "closure",
       "url": "https://open.spotify.com/track/5efpdNo3JIAV4mnlEzQTFF"
@@ -10392,6 +10392,24 @@
       "duration_ms": 283466,
       "name": "Funk in the Kitchen (Dream)",
       "url": "https://open.spotify.com/track/3PGbcUapVtltaMhNzZObxf"
+    },
+    {
+      "album": {
+        "name": "Futter",
+        "url": "https://open.spotify.com/album/0rOioaJkBeyRKAiQC2KCGL"
+      },
+      "artists": [
+        {
+          "name": "TILLY PANTHA",
+          "url": "https://open.spotify.com/artist/3Nf3qSr0whAxsa3YNYG3P6"
+        }
+      ],
+      "date_added": "2026-11-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 161271,
+      "name": "Futter",
+      "url": "https://open.spotify.com/track/0T1e0OCdFsMpAdDdT4GmKc"
     },
     {
       "album": {
@@ -18514,7 +18532,7 @@
       ],
       "date_added": "2026-10-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-26",
       "duration_ms": 161250,
       "name": "Meilenweit",
       "url": "https://open.spotify.com/track/1EfApxJJ5UWjiqH0CBaRgS"
@@ -25062,6 +25080,24 @@
     {
       "album": {
         "name": "Sieben",
+        "url": "https://open.spotify.com/album/7wPJ20SaOWQGUoogc5uz9A"
+      },
+      "artists": [
+        {
+          "name": "Lylali",
+          "url": "https://open.spotify.com/artist/1QVnbA15P0MQEsO91zKaaD"
+        }
+      ],
+      "date_added": "2026-11-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 214731,
+      "name": "Sieben",
+      "url": "https://open.spotify.com/track/13tLUwyY8Xx5cHHCWiNRH1"
+    },
+    {
+      "album": {
+        "name": "Sieben",
         "url": "https://open.spotify.com/album/2yZFakWu6zSTO13cFlKOhi"
       },
       "artists": [
@@ -29692,6 +29728,24 @@
       "duration_ms": 182898,
       "name": "Uptight Dance",
       "url": "https://open.spotify.com/track/1IwLd7XPBJMCgkXfEPJW4G"
+    },
+    {
+      "album": {
+        "name": "Nothing But Love",
+        "url": "https://open.spotify.com/album/3qSciT5p6OIX6ogYR8PuMq"
+      },
+      "artists": [
+        {
+          "name": "Saba Lou",
+          "url": "https://open.spotify.com/artist/4FctzCzQuNPwtblJLp7LFQ"
+        }
+      ],
+      "date_added": "2026-11-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 200899,
+      "name": "UV Catastrophe",
+      "url": "https://open.spotify.com/track/1Yh9Y1MmNQsDmLSkeJIXXr"
     },
     {
       "album": {

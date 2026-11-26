@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaPK7HyVedIT.md) - [plain]
 
 > Eletrônico do momento para curtir onde estiver\. Foto: Öwnboss
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,163,411 likes - 80 songs - 4 hr 10 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,163,214 likes - 80 songs - 4 hr 10 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -14,7 +14,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaPK7HyVedIT.md) - [plain]
 | 4 | [Neckwear](https://open.spotify.com/track/3BgLZtFdHRKKtC9Gvpsgzk) | [Mochakk](https://open.spotify.com/artist/0rTh1tAdrEbdKZBTiiAQSo), [Channel Tres](https://open.spotify.com/artist/4cUkGQyhLFqKHBtL58HYVp) | [Neckwear](https://open.spotify.com/album/7nneCCvtN7wV29VarPwRAQ) | 2:27 |
 | 5 | [U.S\. Robotics 56K](https://open.spotify.com/track/6v5Dxordyfp0J9HS8E1eeW) | [KVSH](https://open.spotify.com/artist/2uGKgNuq7MnKksXiSO6HjB) | [U.S\. Robotics 56K](https://open.spotify.com/album/4NwzaYEKHeycmJtrqsTOUr) | 2:41 |
 | 6 | [Ritmo](https://open.spotify.com/track/7uRyOC4juoLwmXjKmzvZG9) | [Bruno Furlan](https://open.spotify.com/artist/6gssIbF04dCX3COZvyr0JF) | [Ritmo](https://open.spotify.com/album/38LLENeVs9GB9B81WBwWDz) | 2:52 |
-| 7 | [SuperStar](https://open.spotify.com/track/0XCYzwF3DXOEajMhmtqq66) | [illusionize](https://open.spotify.com/artist/3RloA7E4XMItSP4FjMBv3L), [DJ Glen](https://open.spotify.com/artist/7FhUEuhPe1odyNav1iHfvd) | [SuperStar EP](https://open.spotify.com/album/7ifnfKBzz0xzJWmO4aG1X9) | 3:45 |
+| 7 | [SuperStar](https://open.spotify.com/track/0XCYzwF3DXOEajMhmtqq66) | [illusionize](https://open.spotify.com/artist/3RloA7E4XMItSP4FjMBv3L), [DJ Glen](https://open.spotify.com/artist/7FhUEuhPe1odyNav1iHfvd), [Kyozo](https://open.spotify.com/artist/6RvOjSdkA47bpr5qejYm1v) | [SuperStar EP](https://open.spotify.com/album/7ifnfKBzz0xzJWmO4aG1X9) | 3:45 |
 | 8 | [Burn](https://open.spotify.com/track/1kYoPatTvba7wf81ffgbTJ) | [VXSION](https://open.spotify.com/artist/1mhfrC0qmYcAcAX6yM1tXJ) | [Burn](https://open.spotify.com/album/0F8WsuII4bjNodNHxhwuNT) | 4:01 |
 | 9 | [Acid All Night](https://open.spotify.com/track/1u44zorhtLVHDGzgl7XT2m) | [Fancy Inc](https://open.spotify.com/artist/4Eoddnw0pOewmCHQYofuwh), [Knorst](https://open.spotify.com/artist/72VmJeabwbXWiHrJzZ5Htg) | [Acid All Night / Superfreak](https://open.spotify.com/album/6xzbvEOCFrG8zHuDymnju4) | 3:05 |
 | 10 | [Hey DJ](https://open.spotify.com/track/136y5DU5elZFuWCfNtTtoF) | [Greggio](https://open.spotify.com/artist/5q0CEw8Nj1l5fR83EHRLR3) | [Hey DJ EP](https://open.spotify.com/album/0SshU3fe21b28iS4eRoH28) | 3:26 |
@@ -89,4 +89,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaPK7HyVedIT.md) - [plain]
 | 79 | [Louboutin](https://open.spotify.com/track/4gB2PHBDWqjZV2ynWLqME8) | [bradeazy](https://open.spotify.com/artist/1dESZUZevzhd5dzq9ZsMLI), [Öwnboss](https://open.spotify.com/artist/37czgDRfGMvgRiUKHvnnhj) | [Louboutin](https://open.spotify.com/album/0JDfPxytFUdxY4swdIHYgI) | 3:11 |
 | 80 | [Onda 7](https://open.spotify.com/track/3yvInCfyjakgmH50cXrE70) | [Visage Music](https://open.spotify.com/artist/05WcfGPdzCMKpdGc17cUko) | [ID](https://open.spotify.com/album/4HArTcixlcIpIla56geDfK) | 3:03 |
 
-Snapshot ID: `AAAAAHmRxCQK1uuWWIaK4evdDBDfR+O+`
+Snapshot ID: `AAAAAD2KED3Y6d7mNrUo/1zmERYU0blJ`

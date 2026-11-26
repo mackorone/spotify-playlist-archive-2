@@ -4,7 +4,7 @@
 
 > Disfruta los sonidos de truenos distantes y lluvias fuertes.
 
-475 songs - 21 hr 32 min
+475 songs - 21 hr 34 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -63,7 +63,7 @@
 | [Dark Storm](https://open.spotify.com/track/2bI4BdFdtdDBM2q3xB3IZR) | [Taranis](https://open.spotify.com/artist/1NJVAyxYtsmOu8aiWyVpaH) | [Celtic Storm](https://open.spotify.com/album/5CFVwpOfT7S8GZ5stbFQbn) | 3:00 | 2022-07-19 | 2024-03-28 |
 | [Das Unwetter](https://open.spotify.com/track/7D9DQF0eBc7E3OLBNXaKIu) | [BLITZ](https://open.spotify.com/artist/0Mh5A7teUHad8RrOy9TvkH) | [Regen und Donner](https://open.spotify.com/album/094KCo8MLAqrfNjBkDkI46) | 3:12 | 2022-07-19 | 2024-03-12 |
 | [Deep Rain](https://open.spotify.com/track/5a9zaa6C3fiW6agduaqkdm) | [Regen Man](https://open.spotify.com/artist/6ATLDcObmCv5mMiJoInxsA) | [Deep Rain](https://open.spotify.com/album/2L5upuNaeQjaBIrSBQyCwh) | 3:36 | 2023-06-15 |  |
-| [Deep Rain Thunder](https://open.spotify.com/track/7lxs4cWZvIUrjA1iSWpCot) | [Gentle Nature](https://open.spotify.com/artist/7f3QypUiild5XYfNKBttO4) | [VDWW](https://open.spotify.com/album/5uyVbRWOOEPzlOGv6Q1oNP) | 1:55 | 2023-06-15 |  |
+| [Deep Rain Thunder](https://open.spotify.com/track/7lxs4cWZvIUrjA1iSWpCot) | [Gentle Nature](https://open.spotify.com/artist/7f3QypUiild5XYfNKBttO4) | [VDWW](https://open.spotify.com/album/5uyVbRWOOEPzlOGv6Q1oNP) | 2:27 | 2023-06-15 |  |
 | [Deep Rain Thunder](https://open.spotify.com/track/06l4p419P3L42mTUa5KJw4) | [VDWW](https://open.spotify.com/artist/5wVLiKYylh7CoORGyuVgS2) | [VDWW](https://open.spotify.com/album/5uyVbRWOOEPzlOGv6Q1oNP) | 1:55 | 2022-07-19 | 2023-06-16 |
 | [Deep Rumble](https://open.spotify.com/track/6VBbtB6SJVmhCnRnqSt9Ec) | [Brontology](https://open.spotify.com/artist/2wV6tmD1aCH03G6uBqVOMp) | [Deep Rumble](https://open.spotify.com/album/0Sg3nFvTjNSsZysu6JiGFz) | 2:15 | 2023-04-07 |  |
 | [Deep Storm](https://open.spotify.com/track/5T9OJA2LwDfIy2N6tEoJSD) | [Illustrike](https://open.spotify.com/artist/3fSaLzfLqxs7heaciEryrS) | [Deep Storm](https://open.spotify.com/album/36LIkvquwcFFqod2v2diY7) | 2:48 | 2023-04-07 | 2024-03-12 |
@@ -393,7 +393,7 @@
 | [Super Soft Rain with Super Soft Thunder](https://open.spotify.com/track/68S9h5bDYVNinuyGRz1rLv) | [The Natural Healing](https://open.spotify.com/artist/62dysQ8CjUwvdI3wLoTdHe) | [Wide Spring Rain](https://open.spotify.com/album/7h640Dh8VAa2gtBhPuoOP0) | 2:07 | 2022-07-19 |  |
 | [Surrender to rain](https://open.spotify.com/track/3NX7gdrLQMqCaFniFrH0a5) | [Rayne](https://open.spotify.com/artist/1RNXA2cIljrRol5nvV2Eoy) | [Surrender to rain](https://open.spotify.com/album/2eBvKcPkjpMxcUnrB55Hhq) | 3:28 | 2023-06-15 |  |
 | [Surrender To The Storm](https://open.spotify.com/track/3MoX7IOZbJRb1xXWXYaYyL) | [Stormie](https://open.spotify.com/artist/2brtdNdmDGrLUcEGmE3a8y) | [Storm From The North](https://open.spotify.com/album/1uHb3rCfRwo9UTNKvXt7hd) | 2:52 | 2022-07-19 | 2023-06-16 |
-| [Sweater Weather](https://open.spotify.com/track/4NPhZSpTRJhsEG5DdbGH2P) | [Weather Pass](https://open.spotify.com/artist/2H3oeCocy2EKakpX7Es1T5) | [Noise of Water](https://open.spotify.com/album/5O0CKgV8A80zgqqwfQp8BK) | 1:58 | 2023-06-15 |  |
+| [Sweater Weather](https://open.spotify.com/track/4NPhZSpTRJhsEG5DdbGH2P) | [Weather Pass](https://open.spotify.com/artist/2H3oeCocy2EKakpX7Es1T5) | [Noise of Water](https://open.spotify.com/album/5O0CKgV8A80zgqqwfQp8BK) | 2:28 | 2023-06-15 |  |
 | [Take Cover](https://open.spotify.com/track/6pWat1ynyacwfE9gmyqw3B) | [Oluja](https://open.spotify.com/artist/4NezsL00vYvCDeBNlLYEtV) | [Take Cover](https://open.spotify.com/album/7xIxj7pi7fuSSfNjOYcpxJ) | 3:00 | 2023-06-15 | 2026-09-05 |
 | [Tempête de pluie apaisante](https://open.spotify.com/track/3Cfu9rRRPtRMjQ1UiqJ0Q7) | [Pluie et tonnerre](https://open.spotify.com/artist/1FoJFzUt8KdfLxzHL3wTwI) | [Forêt tropicale](https://open.spotify.com/album/4IzzGBBljpxmsRW4RPXvGA) | 1:51 | 2022-07-19 | 2023-06-16 |
 | [That's Real Intense](https://open.spotify.com/track/7GquG0EVY3NBr0sQmhwc1I) | [Worrysome Skies](https://open.spotify.com/artist/3bkZdtFCw7NEPaNOBTHIjn) | [After Midnight](https://open.spotify.com/album/3ZK1PT3Q5D1cwXDIEeKp2R) | 2:01 | 2023-06-15 | 2026-08-11 |

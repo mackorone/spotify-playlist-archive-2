@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0e5BFIQWSDG.md) - [plain]
 
 > Οι μεγαλύτερες επιτυχίες του σήμερα και του αύριο, επιλεγμένες από την ομάδα μας\. Εξώφυλλο: LEX
 
-[Spotify](https://open.spotify.com/user/spotify) - 286,557 likes - 50 songs - 2 hr 26 min
+[Spotify](https://open.spotify.com/user/spotify) - 286,550 likes - 50 songs - 2 hr 26 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0e5BFIQWSDG.md) - [plain]
 | 49 | [Tha To Ksanakana](https://open.spotify.com/track/5Q2NvgoOY0cJFhbLW8VZQF) | [Thodoris Ferris](https://open.spotify.com/artist/3JiKtJqdJ3qUhJRphJk1cT) | [Tha To Ksanakana](https://open.spotify.com/album/2pwFXfNczdgMbmpQ8NFFFw) | 3:59 |
 | 50 | [Pagkosmia Mera Tou Psefti](https://open.spotify.com/track/0ZDl7l9iD4fidIBIkjQrl9) | [Katerina Lioliou](https://open.spotify.com/artist/6vgi3CIDWWdGEGJ6NMgQdD) | [Pagkosmia Mera Tou Psefti](https://open.spotify.com/album/3U8IZ1XAqeGgZN4a3HMHbT) | 2:45 |
 
-Snapshot ID: `AAAAABYJKiV737FU6hNiOiPjHnV/JLuB`
+Snapshot ID: `AAAAACkRXAKcbpYokrPQsAN8LnoWxlVn`

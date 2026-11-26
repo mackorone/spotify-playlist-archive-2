@@ -4,7 +4,7 @@
 
 > The ultimate instrumental soundtrack for a long\-haul journey, to the bustling metropolis in Japan that never sleeps\. 日本のプロデューサーによるインスト楽曲を特集。
 
-850 songs - 1 day 14 hr 29 min
+851 songs - 1 day 14 hr 31 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -431,6 +431,7 @@
 | [MAR](https://open.spotify.com/track/38mHYq8J7mGPl7M9S6aGlS) | [Bajune Tobeta](https://open.spotify.com/artist/1fAAIQj0OEjNlUeGTW26W7) | [MAR](https://open.spotify.com/album/4tikL23aWFPLQIkS7DH0vO) | 2:49 | 2024-07-26 |  |
 | [Mark Calaway](https://open.spotify.com/track/0kU9nVxyWSvOQGo51p1PFX) | [Tatwoine](https://open.spotify.com/artist/4b6MXJUkXdvgcfxDYJVEjo) | [hoodies](https://open.spotify.com/album/5upkRVgXztEBJuH7uGGChP) | 2:12 | 2021-12-23 | 2022-07-25 |
 | [Mascot Name](https://open.spotify.com/track/1LpUKoPTald4QIks9HQAhV) | [ILYOCS](https://open.spotify.com/artist/2tLE9WDiPkUCssHRr4QMPU) | [Mascot Name](https://open.spotify.com/album/5rkHuXt9iJoEqyFBCRAPBo) | 2:59 | 2025-02-09 | 2026-02-22 |
+| [meguru](https://open.spotify.com/track/6fPqBZZ9cilsMdfG0d4ytG) | [法斎Beats](https://open.spotify.com/artist/48gniwDxLdyYvSK1faa6ia), [Lonely Girl](https://open.spotify.com/artist/0oNkYl0JGIr9hFJHQlakdw) | [meguru](https://open.spotify.com/album/71fTy7wa3cVuBtbCDq6zi8) | 1:54 | 2026-11-15 |  |
 | [Meisekimu](https://open.spotify.com/track/1dI0PZUAVLIDxIp34Zkj2s) | [Osaki](https://open.spotify.com/artist/5mBv1P6ffkM2YlJvsBJlze) | [Meisekimu](https://open.spotify.com/album/2wJY88DddxuSn9i04bP0v3) | 3:05 | 2022-01-06 | 2022-04-18 |
 | [melancholic](https://open.spotify.com/track/2mVGm6EUAar5nWqoQUtCps) | [Dyelo think](https://open.spotify.com/artist/7lhzvvDG8CInm97fUkCoC4) | [standalone collective](https://open.spotify.com/album/2YIsDVIu9bKbLXAlnBFKTw) | 2:10 | 2022-01-13 | 2022-06-29 |
 | [Mellow Air](https://open.spotify.com/track/6TeII7M0IgFhgq7rDTbrOR) | [KH](https://open.spotify.com/artist/07Qyqoi71rSFyc6iwyONrr) | [Mellow Air](https://open.spotify.com/album/17NgmIpZr9p4sOEWqdUMoz) | 1:55 | 2023-08-17 | 2023-09-29 |
@@ -850,7 +851,7 @@
 | [光のように](https://open.spotify.com/track/0TZloem996VUIcOnML8Kp0) | [Yuri Hiranuma](https://open.spotify.com/artist/6pAS2H3KqkDPniC1GNmcD1) | [光のように](https://open.spotify.com/album/77NDqgGxatgBntyyD9634e) | 2:20 | 2023-06-06 |  |
 | [夕映 03](https://open.spotify.com/track/4zfzaUsbKgV3cYDw2hhLeD) | [兼元珈琲店](https://open.spotify.com/artist/5gv23RjCeD5CrAHOPLw5Z3) | [夕映](https://open.spotify.com/album/3uEUBhmwTJusgd9GxYHxAR) | 1:58 | 2021-12-23 | 2026-11-16 |
 | [夜景 01](https://open.spotify.com/track/1XIHeOhhMJksHCFczCOW0p) | [兼元珈琲店](https://open.spotify.com/artist/5gv23RjCeD5CrAHOPLw5Z3) | [夜景](https://open.spotify.com/album/7zvsVcGHERSsrJ54RYw2HN) | 1:50 | 2022-01-06 | 2022-07-22 |
-| [夢の中](https://open.spotify.com/track/50cJTPKCH0CyEgsUgv53Ny) | [Shin\-Ski](https://open.spotify.com/artist/6Ei1ABb1YNXZviQKBE7RI7) | [夢の中](https://open.spotify.com/album/4fULEvayFtLR24G9VDWvCb) | 2:39 | 2021-12-23 |  |
+| [夢の中](https://open.spotify.com/track/50cJTPKCH0CyEgsUgv53Ny) | [Shin\-Ski](https://open.spotify.com/artist/6Ei1ABb1YNXZviQKBE7RI7) | [夢の中](https://open.spotify.com/album/4fULEvayFtLR24G9VDWvCb) | 2:39 | 2021-12-23 | 2026-11-26 |
 | [平和](https://open.spotify.com/track/3g3k750g1iXaaFfK6aWazL) | [MEITEI](https://open.spotify.com/artist/5TS4DIOBGgEE6ysYh7yuii) | [平和](https://open.spotify.com/album/3S5A4RX0kQMqKKnPT5UR4w) | 3:23 | 2024-04-12 | 2024-12-05 |
 | [愛が廃れたって \- Instrumental](https://open.spotify.com/track/3JCWebd4sVMpxStBvFpoJS) | [TOSHIKI HAYASHI\(%C\)](https://open.spotify.com/artist/2BSv9udyrO0Mm0ckZAkQSI) | [MAHORO \(Instrumental\)](https://open.spotify.com/album/5V79pIal805EAayl2qblmu) | 4:11 | 2024-02-01 | 2024-06-08 |
 | [波紋](https://open.spotify.com/track/4t3ll0AOpVc4wAUakoDEtT) | [EVISBEATS](https://open.spotify.com/artist/3dkhk6RTgOerN0NQEmt8Nc), [Nagipan](https://open.spotify.com/artist/6judDBSYKSSJENpZ83zoVS) | [波紋](https://open.spotify.com/album/2ehOsRK8RmkbK47XllQ8L8) | 3:09 | 2025-07-11 |  |

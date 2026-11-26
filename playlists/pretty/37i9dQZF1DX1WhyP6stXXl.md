@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1WhyP6stXXl.md) - [plain]
 
 > Neues aus der Welt des Pop\. Cover: The Kid LAROI
 
-[Spotify](https://open.spotify.com/user/spotify) - 511,110 likes - 91 songs - 4 hr 47 min
+[Spotify](https://open.spotify.com/user/spotify) - 511,057 likes - 91 songs - 4 hr 47 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -100,4 +100,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1WhyP6stXXl.md) - [plain]
 | 90 | [TRIGGER WARNINGS](https://open.spotify.com/track/1ZQR4vyDIcBm8fLPU9pBoB) | [Melicious](https://open.spotify.com/artist/62uR1xRDa5dv0KmWMgEQvH) | [Always and Forever](https://open.spotify.com/album/0omhe0PCcSYAyzhQPDJ61K) | 2:40 |
 | 91 | [CASTING CALL](https://open.spotify.com/track/3El0PldZjIxF1olHHzhUxW) | [Dominic Fike](https://open.spotify.com/artist/6USv9qhCn6zfxlBQIYJ9qs) | [HOW TO QUIT SMOKING](https://open.spotify.com/album/4JxUxYheA8Xs2dvEZTWsyg) | 1:56 |
 
-Snapshot ID: `AAAAANdHLrhuAwXpfTt4kxtSoyXWg3MB`
+Snapshot ID: `AAAAABECsCyzA8zlE4pzdyggaM4naMFm`

@@ -36,7 +36,7 @@
 | [雨乞い唄](https://open.spotify.com/track/4AkAAbZIiu0k2RDNMCKd0l) | [Hitoshizuku and Yama](https://open.spotify.com/artist/5XWv1p8oOhKmviB5vovWg1) | [雨乞い唄](https://open.spotify.com/album/0UJ9dS8U5qTyKu98mt4ath) | 3:16 | 2023-06-02 |  |
 | [雨催い \(feat\. MEIKO\)](https://open.spotify.com/track/5Ps1gBxdpzFBSHpMNADUu2) | [nocchi1031](https://open.spotify.com/artist/7MIq8tqPDBomlbtVgP3p3z), [MEIKO](https://open.spotify.com/artist/2IkmuwBBKvBWsJjzyUsvhp) | [Red Guitar and Clear Red](https://open.spotify.com/album/1iceOgTFTxDfmlWKoNuGfI) | 4:11 | 2023-06-02 |  |
 | [雨秒心](https://open.spotify.com/track/4Bor3X1QaROA3kvi1gjDJW) | [Aoto Kei](https://open.spotify.com/artist/2xiTu4bRHOuHaxWndb7MRN) | [雨秒心](https://open.spotify.com/album/7byl5cVgQsiwsbMYlirnkk) | 4:48 | 2023-06-02 |  |
-| [雨音](https://open.spotify.com/track/356vMFcuPTcnebgaYC5uDn) | [てぃあら](https://open.spotify.com/artist/0zw6SLCclosButXipEFrRr) | [カナリア](https://open.spotify.com/album/2Qu2MTlPXNcJPyEqvVGNWK) | 5:04 | 2023-06-02 |  |
+| [雨音 \(feat\. 初音ミク\)](https://open.spotify.com/track/356vMFcuPTcnebgaYC5uDn) | [てぃあら](https://open.spotify.com/artist/0zw6SLCclosButXipEFrRr), [Hatsune Miku](https://open.spotify.com/artist/6pNgnvzBa6Bthsv8SrZJYl) | [カナリア](https://open.spotify.com/album/2Qu2MTlPXNcJPyEqvVGNWK) | 5:04 | 2023-06-02 |  |
 | [雨音、憂鬱、一雫](https://open.spotify.com/track/3Yh4OPvgdcpo3AkJKypaL8) | [Ginsuke](https://open.spotify.com/artist/1op9Q7b7W7ewhevhTo2qOc) | [2020 \- DISC1](https://open.spotify.com/album/2LdtBcF60UmFo210iS6lto) | 5:02 | 2023-06-02 |  |
 
 \*This playlist was first scraped on 2023-12-06. Prior content cannot be recovered.

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1hVRardJ30X.md) - [plain]
 
 > New music by Paloma Morphy, Myke Towers & Rauw Alejandro, Joaquina, Kapo and more.
 
-[Spotify](https://open.spotify.com/user/spotify) - 646,681 likes - 51 songs - 2 hr 37 min
+[Spotify](https://open.spotify.com/user/spotify) - 646,704 likes - 51 songs - 2 hr 37 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -60,4 +60,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1hVRardJ30X.md) - [plain]
 | 50 | [Jefazo](https://open.spotify.com/track/31a4aOn3XIcNUevlcMhMWZ) | [Chivo XVI](https://open.spotify.com/artist/518vS5pfFlwOFzzCxSqHFs) | [Jefazo](https://open.spotify.com/album/08Y1iCh7lQ7IWGaP9xkqXB) | 2:45 |
 | 51 | [ME TOCO](https://open.spotify.com/track/7DAH8muPdGy3YcyqGOl7OF) | [Baby Yami](https://open.spotify.com/artist/3A1tF3YZ0Xa5IBo3NG32k4) | [ME TOCO](https://open.spotify.com/album/0XJjTA6jUKgWNvADMkNPuk) | 3:02 |
 
-Snapshot ID: `AAAAAGaSBntcBRIfS/up+iPOqvQyNAsz`
+Snapshot ID: `AAAAAEVhwRguz5i/v9nknaJ2bfso8zmJ`

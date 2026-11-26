@@ -2,7 +2,7 @@
 
 ### [Punjabi Pyaar](https://open.spotify.com/playlist/37i9dQZF1DWSKoG4oVafMt)
 
-> The very best of Punjabi romance featuring Parmish Verma & Harman Brar
+> The very best of Punjabi romance featuring Josh Brar & Kinza Hashmi
 
 1,189 songs - 2 day 16 hr 8 min
 

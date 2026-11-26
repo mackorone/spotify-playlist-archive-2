@@ -3256,7 +3256,7 @@
       ],
       "date_added": "2025-11-06",
       "date_added_asterisk": false,
-      "date_removed": "2025-12-27",
+      "date_removed": null,
       "duration_ms": 170293,
       "name": "One More Sleep \u2019til Christmas",
       "url": "https://open.spotify.com/track/4ZEUe2d1foQdbsNdgQXZlS"
@@ -3734,11 +3734,15 @@
         {
           "name": "Josh Gad",
           "url": "https://open.spotify.com/artist/4dSQICBjdUIp5iK6RRU2bY"
+        },
+        {
+          "name": "Disney",
+          "url": "https://open.spotify.com/artist/3xvaSlT4xsyk6lY1ESOspO"
         }
       ],
       "date_added": "2025-11-06",
       "date_added_asterisk": false,
-      "date_removed": "2025-12-27",
+      "date_removed": null,
       "duration_ms": 118833,
       "name": "Ring in the Season",
       "url": "https://open.spotify.com/track/4UoYb2HJklHzXbVA5klJGt"
@@ -3782,6 +3786,28 @@
       "duration_ms": 141720,
       "name": "Rockin' Around the Christmas Tree",
       "url": "https://open.spotify.com/track/1F99IOVxos1jtdGEwB7qcH"
+    },
+    {
+      "album": {
+        "name": "Disney Channel Holiday",
+        "url": "https://open.spotify.com/album/1A7xeEQISORj0aNqjIdUdv"
+      },
+      "artists": [
+        {
+          "name": "Hannah Montana",
+          "url": "https://open.spotify.com/artist/7nU4hB040gTmHm45YYMvqc"
+        },
+        {
+          "name": "Miley Cyrus as Hannah Montana",
+          "url": "https://open.spotify.com/artist/3NkUVbGU8HjV9CqzfmtwMa"
+        }
+      ],
+      "date_added": "2026-11-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 142826,
+      "name": "Rockin' Around the Christmas Tree",
+      "url": "https://open.spotify.com/track/6R9qZhOAWrClF5KLPZn8Ht"
     },
     {
       "album": {
@@ -4364,11 +4390,15 @@
         {
           "name": "Cast - Olaf's Frozen Adventure",
           "url": "https://open.spotify.com/artist/5UvAcLn6pAJHjdtA1yVI1A"
+        },
+        {
+          "name": "Disney",
+          "url": "https://open.spotify.com/artist/3xvaSlT4xsyk6lY1ESOspO"
         }
       ],
       "date_added": "2025-11-06",
       "date_added_asterisk": false,
-      "date_removed": "2025-12-27",
+      "date_removed": null,
       "duration_ms": 183174,
       "name": "That Time of Year",
       "url": "https://open.spotify.com/track/1kEFzZpyfpgBYC0PnODx2F"

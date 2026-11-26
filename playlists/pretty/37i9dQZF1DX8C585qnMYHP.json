@@ -1,13 +1,45 @@
 {
   "description": "The best new music by independent Experimental artists. B0YG1RL on cover. Artwork by Thami Nabil.",
-  "num_followers": 203861,
+  "num_followers": 203877,
   "original_name": "Fresh Finds Experimental",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAErS5lOZLOE6/UbsJW7GamW6IFvk",
+  "snapshot_id": "AAAAADK6Sbh/fMv5WYuywlUNyl0LTErW",
   "tracks": [
+    {
+      "added_at": "2026-11-25 18:57:12",
+      "album": {
+        "name": "Poetics of a New Estate",
+        "url": "https://open.spotify.com/album/4EfexLjI04HcEhWI9YtgQw"
+      },
+      "artists": [
+        {
+          "name": "Soli City",
+          "url": "https://open.spotify.com/artist/2c2FzW2YwLnLlAIHoQ5FM0"
+        }
+      ],
+      "duration_ms": 323574,
+      "name": "Touch Glass",
+      "url": "https://open.spotify.com/track/092lgAdfBTQkuJ3h67naQz"
+    },
+    {
+      "added_at": "2026-11-25 19:00:05",
+      "album": {
+        "name": "CH0 0:00:01",
+        "url": "https://open.spotify.com/album/53vjPhOgG3iLr4Hm8RxPoZ"
+      },
+      "artists": [
+        {
+          "name": "VS--55",
+          "url": "https://open.spotify.com/artist/2OkvEMID0ukuuRijJJwExF"
+        }
+      ],
+      "duration_ms": 203972,
+      "name": "Hungry Wolves",
+      "url": "https://open.spotify.com/track/0AvZqshalAeJCtDNmKAJEQ"
+    },
     {
       "added_at": "2026-11-04 22:01:59",
       "album": {
@@ -23,6 +55,22 @@
       "duration_ms": 188646,
       "name": "Everybody Wants To Rule The World",
       "url": "https://open.spotify.com/track/7cghNY4cA1nKMMb0kOd0Qg"
+    },
+    {
+      "added_at": "2026-11-25 18:57:12",
+      "album": {
+        "name": "I Lost My Way For Centuries",
+        "url": "https://open.spotify.com/album/7hX3zkQwolkPcEwLbhcPWR"
+      },
+      "artists": [
+        {
+          "name": "The Drin",
+          "url": "https://open.spotify.com/artist/4cGPrUtNiRS7pdfiKZ1EGw"
+        }
+      ],
+      "duration_ms": 220533,
+      "name": "The Sky Has Lost the Smile",
+      "url": "https://open.spotify.com/track/5rWgevPVAUUN78FA5RNzPc"
     },
     {
       "added_at": "2026-11-04 22:01:59",
@@ -57,6 +105,22 @@
       "url": "https://open.spotify.com/track/1oLh2VnGiRh6KphC7lPluu"
     },
     {
+      "added_at": "2026-11-25 18:57:12",
+      "album": {
+        "name": "Pendulum Swings",
+        "url": "https://open.spotify.com/album/1UfXpSix4eyVAK4TJFPe9d"
+      },
+      "artists": [
+        {
+          "name": "Sam Irving",
+          "url": "https://open.spotify.com/artist/6QSMjy75UOAyprRPpHfgpi"
+        }
+      ],
+      "duration_ms": 182222,
+      "name": "Pendulum Swings",
+      "url": "https://open.spotify.com/track/1N1xXWEnSnfAJffmFcR4g4"
+    },
+    {
       "added_at": "2026-11-18 22:45:48",
       "album": {
         "name": "Preternatural",
@@ -71,6 +135,22 @@
       "duration_ms": 138225,
       "name": "Field",
       "url": "https://open.spotify.com/track/36rg3upLwFHm5O1HXjUkft"
+    },
+    {
+      "added_at": "2026-11-25 19:00:05",
+      "album": {
+        "name": "Gi Mi Keys Back",
+        "url": "https://open.spotify.com/album/1V1OBJ0uebmMvccUhWe7B1"
+      },
+      "artists": [
+        {
+          "name": "Blawan",
+          "url": "https://open.spotify.com/artist/64kN9EkSTHYhda2FupL0KI"
+        }
+      ],
+      "duration_ms": 186257,
+      "name": "Gi Mi Keys Back",
+      "url": "https://open.spotify.com/track/16i94QP7ZKmdtbW5tIsm28"
     },
     {
       "added_at": "2026-11-04 22:01:59",
@@ -1195,102 +1275,6 @@
       "duration_ms": 268003,
       "name": "MLN",
       "url": "https://open.spotify.com/track/7DycwFHqMvUJN1dFjR6U6n"
-    },
-    {
-      "added_at": "2026-07-17 17:13:46",
-      "album": {
-        "name": "everything not saved will be lost",
-        "url": "https://open.spotify.com/album/7sPpsKc26QQVGqJlzyAA2k"
-      },
-      "artists": [
-        {
-          "name": "youlookdifferent",
-          "url": "https://open.spotify.com/artist/3bAm5rQIWGjInynEBkU4R4"
-        }
-      ],
-      "duration_ms": 198857,
-      "name": "everything not saved will be lost",
-      "url": "https://open.spotify.com/track/1R1iiB8O0uqmC0iJNs6Onb"
-    },
-    {
-      "added_at": "2026-08-19 17:49:37",
-      "album": {
-        "name": "Mothers Bells",
-        "url": "https://open.spotify.com/album/5hNLHKD4yVFc6FhVLDVkOd"
-      },
-      "artists": [
-        {
-          "name": "Murex",
-          "url": "https://open.spotify.com/artist/3v73yV0xtIge5cSlUF0Dby"
-        }
-      ],
-      "duration_ms": 152748,
-      "name": "Mothers Bells",
-      "url": "https://open.spotify.com/track/0ablSYA5mgmbtIzRbby1hh"
-    },
-    {
-      "added_at": "2026-08-19 17:49:37",
-      "album": {
-        "name": "Bruises",
-        "url": "https://open.spotify.com/album/12kXivq5jSo2AzbFRpFgsQ"
-      },
-      "artists": [
-        {
-          "name": "Those Holy",
-          "url": "https://open.spotify.com/artist/4l1OU0piXqetXiGzahw14L"
-        }
-      ],
-      "duration_ms": 255562,
-      "name": "Bruises",
-      "url": "https://open.spotify.com/track/1pcrkqCHe2CT7efJuNuvf0"
-    },
-    {
-      "added_at": "2026-08-13 12:07:23",
-      "album": {
-        "name": "I Wander (IV + V)",
-        "url": "https://open.spotify.com/album/2llnA988XlEflLbh7FgXco"
-      },
-      "artists": [
-        {
-          "name": "DjRUM",
-          "url": "https://open.spotify.com/artist/4HwlolvniI44ETSg5tajeZ"
-        }
-      ],
-      "duration_ms": 206776,
-      "name": "I Wander (IV + V)",
-      "url": "https://open.spotify.com/track/1MfOMpg9fTsBWRbOdy8aqx"
-    },
-    {
-      "added_at": "2026-07-24 04:01:47",
-      "album": {
-        "name": "CMONCLUB",
-        "url": "https://open.spotify.com/album/12Mp1IhKs8hznQE97lMJZ1"
-      },
-      "artists": [
-        {
-          "name": "hjud",
-          "url": "https://open.spotify.com/artist/2XuRU9n4z1J1iQIZO4QEk9"
-        }
-      ],
-      "duration_ms": 160064,
-      "name": "CMONCLUB",
-      "url": "https://open.spotify.com/track/6llPiDRjcCNlD0sxCaMtZQ"
-    },
-    {
-      "added_at": "2026-07-17 17:13:46",
-      "album": {
-        "name": "Bloom",
-        "url": "https://open.spotify.com/album/75j4MCwiUguw0TPsAHvhXp"
-      },
-      "artists": [
-        {
-          "name": "Yung Singh",
-          "url": "https://open.spotify.com/artist/47lrOrvCYsOUCEQQsj119K"
-        }
-      ],
-      "duration_ms": 353757,
-      "name": "Tabla Trouble",
-      "url": "https://open.spotify.com/track/27RpDOjJDvKj0hxLT8WJI7"
     }
   ],
   "unique_name": "Fresh Finds Experimental",

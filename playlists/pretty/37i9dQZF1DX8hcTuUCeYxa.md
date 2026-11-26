@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8hcTuUCeYxa.md) - [plain]
 
 > Die besten Neuheiten von Alt\-Pop bis Indie\-Rock\. Cover: Warhaus
 
-[Spotify](https://open.spotify.com/user/spotify) - 178,075 likes - 90 songs - 5 hr 5 min
+[Spotify](https://open.spotify.com/user/spotify) - 178,063 likes - 90 songs - 5 hr 5 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -99,4 +99,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8hcTuUCeYxa.md) - [plain]
 | 89 | [Overthinker](https://open.spotify.com/track/18SLQPyPKYybUsR77ChEMS) | [CHVRCHES](https://open.spotify.com/artist/3CjlHNtplJyTf9npxaPl5w) | [Overthinker](https://open.spotify.com/album/0WZ9DvpqOta5FaU6PVbqhK) | 3:40 |
 | 90 | [I Spend My Time Crying](https://open.spotify.com/track/6bvcSEgoD9I42gqqi0UjyM) | [Twisted Teens](https://open.spotify.com/artist/40Hgbyjt4LQmrZYecbXebv) | [The Holy Cross Tigers](https://open.spotify.com/album/34rN1EeWCYWzPCwIaUXqQr) | 2:57 |
 
-Snapshot ID: `AAAAADpSl79xu4BGfwUqrSYfXXguX462`
+Snapshot ID: `AAAAAPW1ZmviLptXJDZnfUQbJhtjJY3H`

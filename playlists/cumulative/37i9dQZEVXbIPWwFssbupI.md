@@ -4,7 +4,7 @@
 
 > Your daily update of the most played tracks right now \- France.
 
-2,884 songs - 6 day 6 hr 31 min
+2,885 songs - 6 day 6 hr 35 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -424,6 +424,7 @@
 | [Brûle](https://open.spotify.com/track/4SsSjoHtxj70UG5W88i0Dy) | [Josman](https://open.spotify.com/artist/6dbdXbyAWk2qx8Qttw0knR), [Laylow](https://open.spotify.com/artist/0LnhY2fzptb0QEs5Q5gM7S) | [M.A.N \(Black Roses & Lost Feelings\)](https://open.spotify.com/album/0xGDZjmzBZfOUzn86WFPFE) | 3:31 | 2022-03-20 | 2022-04-16 |
 | [BRÛLURES INDIENNES](https://open.spotify.com/track/24vDSi6wZW34oY8sTrgQf7) | [Zola](https://open.spotify.com/artist/54kCbQZaZWHnwwj9VP2hn4) | [DIAMANT DU BLED](https://open.spotify.com/album/24xKUsNCdkbXC2q473nRNO) | 2:57 | 2023-03-18 | 2023-03-23 |
 | [BTRD](https://open.spotify.com/track/2hndzMd89P8nEG4jTRurPk) | [RnBoi](https://open.spotify.com/artist/4yPFe6ZiSjH5mgjDwiYZgc) | [BTRD](https://open.spotify.com/album/3W3X5NelHHpoxgoGg8V9CB) | 2:20 | 2025-08-15 | 2026-04-11 |
+| [Burn This Shit Down \(from GTAVI: The Album\)](https://open.spotify.com/track/30YpKShBDGUAGfUx2BfVIb) | [Travis Scott](https://open.spotify.com/artist/0Y5tJX1MQlPlqiwlOH1tJY), [Grand Theft Auto VI](https://open.spotify.com/artist/15o7qdDTBzs6xWRUYUtZc1) | [Burn This Shit Down \(from GTAVI: The Album\)](https://open.spotify.com/album/0jgRjaxbK29djrWFc8qcTN) | 4:20 | 2026-11-25 |  |
 | [Business \(feat\. Naza\)](https://open.spotify.com/track/2Qzt61URbXBb9N2MSVDoDv) | [DYSTINCT](https://open.spotify.com/artist/1cKyknhftNKXCjMBd2hDrG), [Naza](https://open.spotify.com/artist/7xNYY1Zkb1vks5m9ATlJok) | [LAYALI](https://open.spotify.com/album/6pgfUVqynLc5hZ0HyozHKp) | 2:50 | 2023-06-14 | 2023-08-24 |
 | [Business class](https://open.spotify.com/track/6vaA3NmRSJg1wFxKm3dg6H) | [PLK](https://open.spotify.com/artist/3DCWeG2J1fZeu0Oe6i5Q6m) | [Grand Garçon](https://open.spotify.com/album/3S0xe0lkUMdi0H6qZcRrIr) | 2:17 | 2026-03-14 | 2026-03-23 |
 | [Businessman](https://open.spotify.com/track/6Ut71PoNsLM9ubj5uLI7m4) | [La Mano 1.9](https://open.spotify.com/artist/78iJ2FMbYAFY3djO4PbWZi) | [R.A.T](https://open.spotify.com/album/2UJVbFBTuYHtwHk9FvkgGU) | 2:59 | 2025-07-01 | 2025-07-03 |
@@ -1057,7 +1058,7 @@
 | [GRA GRA BOOM \(feat\. Skread\)](https://open.spotify.com/track/3aOzpOcVaAXCb2bkabANde) | [Gazo](https://open.spotify.com/artist/5gqmbbfjcikQBzPB5Hv13I), [Skread](https://open.spotify.com/artist/6BbceEVcjow8mhQPYK3eBK) | [KMT](https://open.spotify.com/album/5rS3VIo8faf2gtaNvAIavb) | 3:28 | 2022-07-02 | 2022-07-09 |
 | [Grabba](https://open.spotify.com/track/1udbAgkp5HmFu4JYhYObnk) | [Ziak](https://open.spotify.com/artist/2ubn2zwyYaLdHOCKnTouU2) | [Essonne History X](https://open.spotify.com/album/0LZJn4oks6WRz4Use9vegj) | 2:20 | 2024-12-14 | 2024-12-16 |
 | [Grand bain](https://open.spotify.com/track/7n2IirOomwTTGdGZVZ3vCD) | [SCH](https://open.spotify.com/artist/2kXKa3aAFngGz2P4GjG5w2) | [JVLIVS II](https://open.spotify.com/album/7eKvzMoLTENJaukj2pHrw7) | 2:53 | 2021-03-27\* | 2021-04-09 |
-| [GRAND PALACE](https://open.spotify.com/track/6EEW7FUUoQhEJXQNpQ4xfv) | [SDM](https://open.spotify.com/artist/0LKAV3zJ8a8AIGnyc5OvfB) | [IN INFINITUM](https://open.spotify.com/album/0TTw79ACe1zYcMGZxuFhM0) | 2:26 | 2026-11-14 |  |
+| [GRAND PALACE](https://open.spotify.com/track/6EEW7FUUoQhEJXQNpQ4xfv) | [SDM](https://open.spotify.com/artist/0LKAV3zJ8a8AIGnyc5OvfB) | [IN INFINITUM](https://open.spotify.com/album/0TTw79ACe1zYcMGZxuFhM0) | 2:26 | 2026-11-14 | 2026-11-26 |
 | [Grands ensembles](https://open.spotify.com/track/6RUa5XeeFLPA0pCfHdILTJ) | [Ninho](https://open.spotify.com/artist/6Te49r3A6f5BiIgBRxH7FH) | [NI](https://open.spotify.com/album/6sY6EuHMdhyD4dgZsYcKad) | 3:38 | 2023-07-01 | 2023-07-09 |
 | [Grazie la zone](https://open.spotify.com/track/5DQQfgrqgRpkUO6HXtx1jK) | [Jul](https://open.spotify.com/artist/3IW7ScrzXmPvZhB27hmfgy), [Rhove](https://open.spotify.com/artist/44DWomjW1oDuxIoBIRpmQ4) | [Cœur blanc](https://open.spotify.com/album/5IGzOCeKvbUR4q31ZkNz8k) | 3:38 | 2022-12-10 | 2022-12-12 |
 | [greedy](https://open.spotify.com/track/1reEeZH9wNt4z1ePYLyC7p) | [Tate McRae](https://open.spotify.com/artist/45dkTj5sMRSjrmBSBeiHym) | [greedy](https://open.spotify.com/album/5TCVikuC7Npt0WOOWGxLs9) | 2:11 | 2023-10-14 | 2023-10-19 |

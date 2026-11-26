@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3zN05ePDN6Q.md) - [plain]
 
 > boom bap renasce todo dia\. Foto: Majis, Ciça
 
-[Spotify](https://open.spotify.com/user/spotify) - 90,058 likes - 75 songs - 3 hr 48 min
+[Spotify](https://open.spotify.com/user/spotify) - 90,074 likes - 75 songs - 3 hr 48 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3zN05ePDN6Q.md) - [plain]
 | 74 | [Minha onda](https://open.spotify.com/track/5afa3QSWTAaVZm53Wv1ofK) | [Afreekassia](https://open.spotify.com/artist/1wYviDrVOvFPtg3CFn3DHp), [Amanda Sarmento](https://open.spotify.com/artist/2QFGLsI0ugeKkmGSggCr73), [Mello Santana](https://open.spotify.com/artist/02J1zj1QPj7nlJiKGX6wgY) | [Cacau 50% , Vol.2](https://open.spotify.com/album/7eW65C6hstcMmJGsLTvrgG) | 3:30 |
 | 75 | [Agradecer](https://open.spotify.com/track/1S36mq449TuEpTKhODvf3G) | [Gorilla Concept Music](https://open.spotify.com/artist/3uItN5CehblL9at5ZvETez), [Sant](https://open.spotify.com/artist/7IlBcKrGUBJ0NKdnbDde89), [LP Beatzz](https://open.spotify.com/artist/3WFKRRXUORuPPdH11Spele) | [Agradecer](https://open.spotify.com/album/0yV8PBoAVVbRUQah3SQv7z) | 2:10 |
 
-Snapshot ID: `AAAAAM8FktvqS/whWwmw7WjqlLAdLxti`
+Snapshot ID: `AAAAAGmUXU8+WSFTtxTchFAkXcykf5Jk`

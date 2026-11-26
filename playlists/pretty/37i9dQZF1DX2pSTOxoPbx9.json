@@ -1,12 +1,12 @@
 {
   "description": "Beautifully dark, dramatic tracks.",
-  "num_followers": 864538,
+  "num_followers": 864551,
   "original_name": "Dark & Stormy",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAEqp/l5lxqKqxsZP5Iw59/bJkTws",
+  "snapshot_id": "AAAAAA7mRcTFhwAr2uaFOF+QnHjAbK88",
   "tracks": [
     {
       "added_at": "2026-11-23 20:03:11",
@@ -659,22 +659,6 @@
     {
       "added_at": "2026-11-23 20:03:11",
       "album": {
-        "name": "Doves & Ravens",
-        "url": "https://open.spotify.com/album/64KvdiGpqwb0Lu1Zn4AcSf"
-      },
-      "artists": [
-        {
-          "name": "Dermot Kennedy",
-          "url": "https://open.spotify.com/artist/5KNNVgR6LBIABRIomyCwKJ"
-        }
-      ],
-      "duration_ms": 222173,
-      "name": "Glory",
-      "url": "https://open.spotify.com/track/5rMea4Gu5db0qb1c6TfGIh"
-    },
-    {
-      "added_at": "2026-11-23 20:03:11",
-      "album": {
         "name": "The Crow Mother",
         "url": "https://open.spotify.com/album/5hbE2sd26TIlxF6Yw65rDD"
       },
@@ -687,6 +671,22 @@
       "duration_ms": 216493,
       "name": "The Fold",
       "url": "https://open.spotify.com/track/660D1KONP5QoayR5MUGGcK"
+    },
+    {
+      "added_at": "2026-11-23 20:03:11",
+      "album": {
+        "name": "Doves & Ravens",
+        "url": "https://open.spotify.com/album/64KvdiGpqwb0Lu1Zn4AcSf"
+      },
+      "artists": [
+        {
+          "name": "Dermot Kennedy",
+          "url": "https://open.spotify.com/artist/5KNNVgR6LBIABRIomyCwKJ"
+        }
+      ],
+      "duration_ms": 222173,
+      "name": "Glory",
+      "url": "https://open.spotify.com/track/5rMea4Gu5db0qb1c6TfGIh"
     },
     {
       "added_at": "2026-11-23 20:03:11",
@@ -1079,22 +1079,6 @@
     {
       "added_at": "2026-11-23 20:03:11",
       "album": {
-        "name": "Hard Believer",
-        "url": "https://open.spotify.com/album/1TMJ7yDSSYByO0UjKwnOiX"
-      },
-      "artists": [
-        {
-          "name": "Fink",
-          "url": "https://open.spotify.com/artist/2t9yJDJIEtvPmr2iRIdqBf"
-        }
-      ],
-      "duration_ms": 303506,
-      "name": "White Flag",
-      "url": "https://open.spotify.com/track/28U855g6cGv2O3s5KzUcdr"
-    },
-    {
-      "added_at": "2026-11-23 20:03:11",
-      "album": {
         "name": "Coming of Age (demo)",
         "url": "https://open.spotify.com/album/4qutgZBLGeXDmNOu67mUQz"
       },
@@ -1107,6 +1091,22 @@
       "duration_ms": 251692,
       "name": "Coming of Age (demo)",
       "url": "https://open.spotify.com/track/03HonCy9ZfHnYmc7NzFTLN"
+    },
+    {
+      "added_at": "2026-11-23 20:03:11",
+      "album": {
+        "name": "Hard Believer",
+        "url": "https://open.spotify.com/album/1TMJ7yDSSYByO0UjKwnOiX"
+      },
+      "artists": [
+        {
+          "name": "Fink",
+          "url": "https://open.spotify.com/artist/2t9yJDJIEtvPmr2iRIdqBf"
+        }
+      ],
+      "duration_ms": 303506,
+      "name": "White Flag",
+      "url": "https://open.spotify.com/track/28U855g6cGv2O3s5KzUcdr"
     },
     {
       "added_at": "2026-11-23 20:03:11",
@@ -1475,6 +1475,22 @@
     {
       "added_at": "2026-11-23 20:03:11",
       "album": {
+        "name": "Trouble Will Find Me",
+        "url": "https://open.spotify.com/album/2JhR4tjuc3MIKa8v2JaKze"
+      },
+      "artists": [
+        {
+          "name": "The National",
+          "url": "https://open.spotify.com/artist/2cCUtGK9sDU2EoElnk0GNB"
+        }
+      ],
+      "duration_ms": 245240,
+      "name": "I Need My Girl",
+      "url": "https://open.spotify.com/track/7rbCL7W893Zonbfnevku5s"
+    },
+    {
+      "added_at": "2026-11-23 20:03:11",
+      "album": {
         "name": "Hell's Comin' with Me",
         "url": "https://open.spotify.com/album/459ww0Q7WATvZO0tLzpqvg"
       },
@@ -1487,22 +1503,6 @@
       "duration_ms": 212996,
       "name": "Hell's Comin' with Me",
       "url": "https://open.spotify.com/track/0cPvRrV9PBBHVfHoGBlFdO"
-    },
-    {
-      "added_at": "2026-11-23 20:03:11",
-      "album": {
-        "name": "The System Only Dreams in Total Darkness",
-        "url": "https://open.spotify.com/album/3pAiwtyDr7ovW1k9WVLqu9"
-      },
-      "artists": [
-        {
-          "name": "The National",
-          "url": "https://open.spotify.com/artist/2cCUtGK9sDU2EoElnk0GNB"
-        }
-      ],
-      "duration_ms": 236746,
-      "name": "The System Only Dreams in Total Darkness",
-      "url": "https://open.spotify.com/track/5t8OscU60DLybml2sjwhri"
     },
     {
       "added_at": "2026-11-23 20:03:11",
@@ -1523,6 +1523,22 @@
     {
       "added_at": "2026-11-23 20:03:11",
       "album": {
+        "name": "Marked for Death",
+        "url": "https://open.spotify.com/album/6e5Hr71kvlsrTaNoiuqWu4"
+      },
+      "artists": [
+        {
+          "name": "Emma Ruth Rundle",
+          "url": "https://open.spotify.com/artist/34gLicNdz493863yZTanvC"
+        }
+      ],
+      "duration_ms": 219760,
+      "name": "Marked for Death",
+      "url": "https://open.spotify.com/track/1fLOvLE1XRpvHpLkRHzSym"
+    },
+    {
+      "added_at": "2026-11-23 20:03:11",
+      "album": {
         "name": "Repave",
         "url": "https://open.spotify.com/album/589MwkeuVyR5wMAMP07ARA"
       },
@@ -1535,6 +1551,22 @@
       "duration_ms": 262533,
       "name": "Byegone",
       "url": "https://open.spotify.com/track/6MMojjMFcyv3btdSXFGeYc"
+    },
+    {
+      "added_at": "2026-11-23 20:03:11",
+      "album": {
+        "name": "The System Only Dreams in Total Darkness",
+        "url": "https://open.spotify.com/album/3pAiwtyDr7ovW1k9WVLqu9"
+      },
+      "artists": [
+        {
+          "name": "The National",
+          "url": "https://open.spotify.com/artist/2cCUtGK9sDU2EoElnk0GNB"
+        }
+      ],
+      "duration_ms": 236746,
+      "name": "The System Only Dreams in Total Darkness",
+      "url": "https://open.spotify.com/track/5t8OscU60DLybml2sjwhri"
     },
     {
       "added_at": "2026-11-23 20:03:11",
@@ -1567,22 +1599,6 @@
       "duration_ms": 252876,
       "name": "Sleep",
       "url": "https://open.spotify.com/track/6oLxKBr1xrrDAWoVYxVxx6"
-    },
-    {
-      "added_at": "2026-11-23 20:03:11",
-      "album": {
-        "name": "Trouble Will Find Me",
-        "url": "https://open.spotify.com/album/2JhR4tjuc3MIKa8v2JaKze"
-      },
-      "artists": [
-        {
-          "name": "The National",
-          "url": "https://open.spotify.com/artist/2cCUtGK9sDU2EoElnk0GNB"
-        }
-      ],
-      "duration_ms": 245240,
-      "name": "I Need My Girl",
-      "url": "https://open.spotify.com/track/7rbCL7W893Zonbfnevku5s"
     },
     {
       "added_at": "2026-11-23 20:03:11",
@@ -1659,22 +1675,6 @@
       "duration_ms": 230379,
       "name": "Deliverance",
       "url": "https://open.spotify.com/track/5ADqP9XM6BSIqgSka1sGyt"
-    },
-    {
-      "added_at": "2026-11-23 20:03:11",
-      "album": {
-        "name": "Marked for Death",
-        "url": "https://open.spotify.com/album/6e5Hr71kvlsrTaNoiuqWu4"
-      },
-      "artists": [
-        {
-          "name": "Emma Ruth Rundle",
-          "url": "https://open.spotify.com/artist/34gLicNdz493863yZTanvC"
-        }
-      ],
-      "duration_ms": 219760,
-      "name": "Marked for Death",
-      "url": "https://open.spotify.com/track/1fLOvLE1XRpvHpLkRHzSym"
     }
   ],
   "unique_name": "Dark & Stormy",

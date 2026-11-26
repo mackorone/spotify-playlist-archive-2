@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0KBgD4Jf5tY.md) - [plain]
 
 > Solo musica indipendente 🇮🇹, aggiornata il mercoledì\. <a href="spotify:artist:17QBHdgLxgft4GXWLznQv4">Zoe</a> in cover.
 
-[Spotify](https://open.spotify.com/user/spotify) - 10,313 likes - 50 songs - 2 hr 32 min
+[Spotify](https://open.spotify.com/user/spotify) - 10,318 likes - 50 songs - 2 hr 32 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0KBgD4Jf5tY.md) - [plain]
 | 49 | [pessimi amici \(bruttastoria\)](https://open.spotify.com/track/0062wLdfuIs2SYdb6bvlD6) | [RAISS](https://open.spotify.com/artist/3osLZ3sCzbozmblz3l3F8x), [NRY](https://open.spotify.com/artist/4rQfPosRUCIb7zmKGsmS6s) | [pessimi amici \(bruttastoria\)](https://open.spotify.com/album/29r0jUE5PTaYRc8vhPaxce) | 2:33 |
 | 50 | [+ vivo + ti odio](https://open.spotify.com/track/0FJpFqzgnFsqkwlY3QnCaI) | [ANSIA](https://open.spotify.com/artist/1wAmT937aHUqIPr8sdKZXh), [ClayMore](https://open.spotify.com/artist/05dmoYIBp6hNPQTkPJ1hSs) | [+ vivo + ti odio](https://open.spotify.com/album/48dEqWpf8G0BTAETqZhqEa) | 2:29 |
 
-Snapshot ID: `AAAAAPdPxb+zGfRIoxW6b3ppZrX6naX+`
+Snapshot ID: `AAAAALmIhp36sUeYDGTgqMNmBPDSoxww`

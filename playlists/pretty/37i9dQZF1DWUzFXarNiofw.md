@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUzFXarNiofw.md) - [plain]
 
 > The newest r&b drops, every week\. Cover: GIVĒON
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,121,880 likes - 250 songs - 13 hr 12 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,121,911 likes - 250 songs - 13 hr 12 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -259,4 +259,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUzFXarNiofw.md) - [plain]
 | 249 | [I CONFESS](https://open.spotify.com/track/4G8BLslga5pVuwGGHz7jSm) | [Khal!l](https://open.spotify.com/artist/4tlDGVrh821Y1AXIWarzNe) | [I CONFESS](https://open.spotify.com/album/1BNAgempFsQuGbeBf3Q5nL) | 3:07 |
 | 250 | [Alright, alright](https://open.spotify.com/track/4vIIDIYWvlMlrXA60n1rcD) | [646yf4t](https://open.spotify.com/artist/4obW4V3i8LGRVJbWClPclF), [Rowena Fysx](https://open.spotify.com/artist/3kaAPw6xYzlmBhp3aQYuC9) | [Alright, alright](https://open.spotify.com/album/1FAQEDVf0RuJOjWndX0lmo) | 2:31 |
 
-Snapshot ID: `AAAAACQYmlhX0UXHdBXzHy0LZbLgexXT`
+Snapshot ID: `AAAAAHojbtopRSbfYrRDiEIGMN66IYz3`

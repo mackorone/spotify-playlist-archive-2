@@ -2,9 +2,9 @@
 
 ### [Fresh Finds GSA](https://open.spotify.com/playlist/37i9dQZF1DX2ddCYH6QIK5)
 
-> The best new music by independent artists and labels from GSA, updated every Wednesday\. Cover: SATARII
+> The best new music by independent artists and labels from GSA, updated every Wednesday\. Cover: Lylali
 
-1,771 songs - 4 day 2 hr 3 min
+1,774 songs - 4 day 2 hr 13 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -238,7 +238,7 @@
 | [Breaking My Heart](https://open.spotify.com/track/0nKTOWJGF6CUeoot8UECJD) | [Donata](https://open.spotify.com/artist/6rC5q8dgyXjvNUICucB075) | [Breaking My Heart](https://open.spotify.com/album/6bzFgqU4TNlH68xNdBfDPy) | 3:08 | 2022-05-25 | 2022-06-09 |
 | [Breath](https://open.spotify.com/track/0w80B8Qah90Owttcvu9xR1) | [fanschko](https://open.spotify.com/artist/5dCtN40dL2y8fTDHZ0WUne) | [Breath](https://open.spotify.com/album/7kJM9dpFsjcYCjuLSWZTTD) | 3:34 | 2023-04-12 | 2023-06-29 |
 | [Breathe](https://open.spotify.com/track/05v0olACA2jHcfwLdeLo4k) | [The Raw Soul](https://open.spotify.com/artist/1L3YuH5WrbdMpN7WezL6hN) | [Breathe](https://open.spotify.com/album/338SNaZlcW3nVgvfC7y3gg) | 3:29 | 2023-11-08 | 2024-03-21 |
-| [Breeze](https://open.spotify.com/track/7I7EYPHh7VDDnZceAl6gXS) | [1998](https://open.spotify.com/artist/6vhXoKu154F1WwJpfIjsUu) | [Breeze](https://open.spotify.com/album/3wVXKa3wiF6TSksXGIwklw) | 3:03 | 2026-05-27 |  |
+| [Breeze](https://open.spotify.com/track/7I7EYPHh7VDDnZceAl6gXS) | [1998](https://open.spotify.com/artist/6vhXoKu154F1WwJpfIjsUu) | [Breeze](https://open.spotify.com/album/3wVXKa3wiF6TSksXGIwklw) | 3:03 | 2026-05-27 | 2026-11-26 |
 | [Brenn Mich Aus](https://open.spotify.com/track/01bV2KkMJZw5MzAP0QDTy5) | [WOHINN](https://open.spotify.com/artist/7BW1zR1tn0viUXcb8hsQk6) | [Brenn Mich Aus](https://open.spotify.com/album/57RzGLeYSgPjHaINGjctlQ) | 3:03 | 2024-02-21 | 2024-07-25 |
 | [Brich mein Herz](https://open.spotify.com/track/34ekTuJitl8eg2hhdIXmxv) | [KRAMER](https://open.spotify.com/artist/36mCd8l9ElmLnLWgNZ0XLY) | [Brich mein Herz](https://open.spotify.com/album/0WOdKAHtxzb9OrOSxJ1fRt) | 2:41 | 2022-05-18 | 2022-06-01 |
 | [Bring The Beat Back](https://open.spotify.com/track/0EqAZEQA660aYDZAJQvOfX) | [Elisa Elisa](https://open.spotify.com/artist/2Fxcs2AZB1EkSjLon18RHI) | [Infused Roots](https://open.spotify.com/album/3pLdnYGxkDa6yOBZHLvNEH) | 3:12 | 2022-06-08 | 2022-06-30 |
@@ -297,7 +297,7 @@
 | [Click On It](https://open.spotify.com/track/1YQBSstf3y6GMI9ojqgolg) | [Schatz](https://open.spotify.com/artist/4BNIGMgt7IvUs5y2DUQoCq) | [Click On It](https://open.spotify.com/album/0GrqIQCOV2OLT9ZncfOHfy) | 3:07 | 2023-07-12 | 2023-08-03 |
 | [Closer Closer Closer](https://open.spotify.com/track/258TMOnq8gRv15NVK0kxAt) | [Tobias Jensen](https://open.spotify.com/artist/58b7ah7ekcjMDdqRXp0VrK) | [Closer Closer Closer](https://open.spotify.com/album/0O3gw2mZICiib9dvFy4LIS) | 2:21 | 2023-09-20 | 2023-10-12 |
 | [closure](https://open.spotify.com/track/4wfbsHukb95LmqXmcKLUtx) | [ELLE MB](https://open.spotify.com/artist/1fbq8P7ffshPlbpfoN3Xg3) | [closure](https://open.spotify.com/album/0UXB8RrbmesJlhmWqiKEqA) | 2:49 | 2023-04-19 | 2023-05-04 |
-| [closure](https://open.spotify.com/track/5efpdNo3JIAV4mnlEzQTFF) | [nae](https://open.spotify.com/artist/5mz7JMAZx7XZg8UGnbs2x3) | [closure](https://open.spotify.com/album/0tBb5esOIO8nQ0j6qGNyn3) | 3:43 | 2026-10-07 |  |
+| [closure](https://open.spotify.com/track/5efpdNo3JIAV4mnlEzQTFF) | [nae](https://open.spotify.com/artist/5mz7JMAZx7XZg8UGnbs2x3) | [closure](https://open.spotify.com/album/0tBb5esOIO8nQ0j6qGNyn3) | 3:43 | 2026-10-07 | 2026-11-26 |
 | [Clover & Camelia](https://open.spotify.com/track/3xbxHVaNjCBlczxbjdtvqU) | [Malummí](https://open.spotify.com/artist/6dZYwSaKQKdDOro5lIHORl) | [Clover & Camelia](https://open.spotify.com/album/5x7fvqbEdEyHTOHiHFMaAJ) | 3:55 | 2025-08-20 | 2025-09-18 |
 | [Coffee](https://open.spotify.com/track/3XHnCCAMa3TgIQzA0R2REG) | [vincent varus](https://open.spotify.com/artist/2Mirs2KlJTaBavdK1i6jIP) | [Coffee](https://open.spotify.com/album/0qT49y3iSgfahdp2hNBX5u) | 2:50 | 2024-05-22 | 2024-07-17 |
 | [COLD](https://open.spotify.com/track/5se2V2FG9DPzmSF3F9LZlO) | [eldergaze](https://open.spotify.com/artist/14soKg8A3qQYAfNRA69WCL) | [COLD](https://open.spotify.com/album/1pUplFlAmscU56lrEu64kH) | 3:19 | 2024-11-13 | 2025-02-06 |
@@ -571,6 +571,7 @@
 | [Full Moon Shadow](https://open.spotify.com/track/7tRMQ7ZkjPI5rGbsklcirA) | [Normen Hood](https://open.spotify.com/artist/3JG3zXKSg1GnucnrG4MBK6) | [Full Moon Shadow](https://open.spotify.com/album/1yKOL0CQ3EWe3Cb3Th6ruE) | 6:34 | 2024-11-27 | 2025-07-10 |
 | [Fundbüro](https://open.spotify.com/track/27MWYVpXkeqwq2r1BoDWD7) | [Ein Rosenkavalier](https://open.spotify.com/artist/2BFWX84vhL1lWdNvGdvssw) | [Fundbüro](https://open.spotify.com/album/0qcMyzlX4sq9Gp3VnMtBFY) | 3:36 | 2025-05-21 | 2026-01-15 |
 | [Funk in the Kitchen \(Dream\)](https://open.spotify.com/track/3PGbcUapVtltaMhNzZObxf) | [fastmusic](https://open.spotify.com/artist/1w4OW3ZCKBl98RmOyYWYPG) | [Funk in the Kitchen \(Dream\)](https://open.spotify.com/album/0DOMVwzV8rJRBpuaHEWlNO) | 4:43 | 2023-04-05 | 2023-05-24 |
+| [Futter](https://open.spotify.com/track/0T1e0OCdFsMpAdDdT4GmKc) | [TILLY PANTHA](https://open.spotify.com/artist/3Nf3qSr0whAxsa3YNYG3P6) | [Futter](https://open.spotify.com/album/0rOioaJkBeyRKAiQC2KCGL) | 2:41 | 2026-11-25 |  |
 | [Future Holds](https://open.spotify.com/track/6YNSajixFoJriODKAsyFAr) | [Aera](https://open.spotify.com/artist/3Pj0WcDp7Df123RzhrTohk) | [Fever EP](https://open.spotify.com/album/75qdik5h9dqU3swrYtD009) | 4:57 | 2023-05-24 | 2024-01-04 |
 | [Fällt mir schwer](https://open.spotify.com/track/1d1QAQ1UwhBMnlLBKLFcyZ) | [Sant](https://open.spotify.com/artist/0mgoNP0DrkKktInN298H4u) | [Bisschen mehr Gefühl](https://open.spotify.com/album/6A5cTXYzNWTjPBjyaXiDe5) | 3:02 | 2024-07-03 | 2025-06-13 |
 | [Füchse](https://open.spotify.com/track/6pYc06ZDKBe10F1q9jVvaM) | [Pavelo & Schnell](https://open.spotify.com/artist/5oVoWoqOwASa3ln6kTdnD4) | [Füchse](https://open.spotify.com/album/1PrCxyRaSVpGZfbxzXTNL6) | 3:00 | 2023-01-04 | 2023-04-20 |
@@ -1013,7 +1014,7 @@
 | [ME, YOU & YOUR BOYFRIEND](https://open.spotify.com/track/2RnQ9VH5sB6y4sREGkSSGV) | [Gavriel](https://open.spotify.com/artist/2zDGlffoY1qqaIPvwXRhRv) | [ME, YOU & YOUR BOYFRIEND](https://open.spotify.com/album/5hDqz74VpQvOPBta9YsvBh) | 2:38 | 2026-09-09 | 2026-09-24 |
 | [Medusa](https://open.spotify.com/track/1jSyEDfonQqxdvVHeLMEsw) | [carls8erg](https://open.spotify.com/artist/4nZDWhkKuOHrd6OxwoslWp) | [Medusa](https://open.spotify.com/album/0H17Z5zSi1iTELFNMN45z4) | 2:43 | 2026-05-06 | 2026-07-09 |
 | [Mehr](https://open.spotify.com/track/4lgi1NMBdcqoIb2DDMdRHk) | [Leevo](https://open.spotify.com/artist/6Kiz5me3OrxGGsEFl9d5qu) | [Okay.](https://open.spotify.com/album/5orfxdnu9rIz5YWafnyqcm) | 2:41 | 2022-07-06 | 2022-09-09 |
-| [Meilenweit](https://open.spotify.com/track/1EfApxJJ5UWjiqH0CBaRgS) | [Kim Lemmi](https://open.spotify.com/artist/6mTq0dGgR6kzjuSHyvb5rC) | [Meilenweit](https://open.spotify.com/album/1TmoVo8WK6vzjeTp3BcvRO) | 2:41 | 2026-10-07 |  |
+| [Meilenweit](https://open.spotify.com/track/1EfApxJJ5UWjiqH0CBaRgS) | [Kim Lemmi](https://open.spotify.com/artist/6mTq0dGgR6kzjuSHyvb5rC) | [Meilenweit](https://open.spotify.com/album/1TmoVo8WK6vzjeTp3BcvRO) | 2:41 | 2026-10-07 | 2026-11-26 |
 | [mein bruder](https://open.spotify.com/track/6hbGRdcTeQ27h9EIUmMU5F) | [lenzy](https://open.spotify.com/artist/1zhcGENkWmlGu0UGcC8ESf), [Lawin](https://open.spotify.com/artist/71uREn6T0W8TksNJpN82cw) | [mein bruder](https://open.spotify.com/album/2z5MaDNict2hfxxqjgNKKm) | 2:26 | 2024-11-13 | 2024-12-05 |
 | [Mein derzeitiges Leben in Kurzform](https://open.spotify.com/track/0xr2QqkYP5Nb8l5naWyQfn) | [SWIN](https://open.spotify.com/artist/3vyfrQJvySeMGX6Kk3pmD9) | [Mein derzeitiges Leben in Kurzform](https://open.spotify.com/album/3W2P1UKt38aLofFZ5obPF7) | 2:14 | 2022-08-03 | 2022-08-18 |
 | [Mein Kummer Ist Anders](https://open.spotify.com/track/1anNCWkPsNzTlZWozahSxX) | [LLES](https://open.spotify.com/artist/57zhlHV7X2NuPiiM3bsRqt) | [Mein Kummer Ist Anders](https://open.spotify.com/album/2GLlbh4VYko1AjZcQ7046M) | 2:03 | 2024-06-05 | 2024-07-17 |
@@ -1368,6 +1369,7 @@
 | [sick summer](https://open.spotify.com/track/0w14fVO1sI0NlU9xXOEIiW) | [muede](https://open.spotify.com/artist/1SISMoXmT4hgFaEKREut2O) | [sick summer](https://open.spotify.com/album/7puFaiE2JdbrqsfCWY2F7l) | 2:44 | 2023-03-08 | 2023-04-13 |
 | [Sidewalk](https://open.spotify.com/track/23jcLRQeXNcZWZrBIKeuY8) | [Bae.con](https://open.spotify.com/artist/13Vka7xGjRHhIOGzvomJZd) | [Sidewalk](https://open.spotify.com/album/7bvIFa8V7Oj9yZbv9H69x0) | 2:20 | 2022-11-09 | 2023-02-02 |
 | [Sie ist weg](https://open.spotify.com/track/0cDBkqq42Lcdn2iCGldown) | [KIALA](https://open.spotify.com/artist/4zABHPQ2hWIUwHPv7Zhqdq) | [Sie ist weg](https://open.spotify.com/album/6pFrzTQ3AvMBqPbLBOeAya) | 2:50 | 2025-06-18 | 2025-07-17 |
+| [Sieben](https://open.spotify.com/track/13tLUwyY8Xx5cHHCWiNRH1) | [Lylali](https://open.spotify.com/artist/1QVnbA15P0MQEsO91zKaaD) | [Sieben](https://open.spotify.com/album/7wPJ20SaOWQGUoogc5uz9A) | 3:34 | 2026-11-25 |  |
 | [Sieben](https://open.spotify.com/track/119d15hLCKcPHGoWodfokj) | [Taubenraucher](https://open.spotify.com/artist/5S9ZXP1ahpEL15EhanRbKn) | [Sieben](https://open.spotify.com/album/2yZFakWu6zSTO13cFlKOhi) | 4:07 | 2026-03-18 | 2026-09-17 |
 | [Siehst du wie ich flieg](https://open.spotify.com/track/1XP82pvMUiVn8c5ujstEib) | [DJ Hornhaut](https://open.spotify.com/artist/4kBXV5Vxo2IKvk2iIwTLEx), [Theresa](https://open.spotify.com/artist/7BD6X2aAvYegm4rEx8S5IF) | [Messestadt Hannover](https://open.spotify.com/album/23yWoLUGLBmmQettIOsLQt) | 3:46 | 2022-04-20 | 2022-05-12 |
 | [Silent Talk](https://open.spotify.com/track/5I77RxtGq8bEvizYJkZM0N) | [Catastrophe Waitress](https://open.spotify.com/artist/6rZskrH9xTAkv5BwgKU4uJ) | [Silent Talk](https://open.spotify.com/album/56SDoKAALX5X1o5heS3RX3) | 3:33 | 2022-01-19 | 2023-01-05 |
@@ -1619,6 +1621,7 @@
 | [Up and Away](https://open.spotify.com/track/3im8VPUFdugX19ZgLoG64t) | [Σtella](https://open.spotify.com/artist/2tBWWgGv7H5ymPtJrT1rNu), [Redinho](https://open.spotify.com/artist/72WcKL1SYgNzcNojYLFQsB) | [Up and Away](https://open.spotify.com/album/2ERdLrGZOF7cduTv92k3z1) | 3:11 | 2022-06-22 | 2022-07-29 |
 | [Up and Away](https://open.spotify.com/track/6r7fP6eQHull2Y8GECHYfI) | [Σtella](https://open.spotify.com/artist/2tBWWgGv7H5ymPtJrT1rNu), [Redinho](https://open.spotify.com/artist/72WcKL1SYgNzcNojYLFQsB) | [Up and Away](https://open.spotify.com/album/4i2Cb9v7g9ieShCgf1gakk) | 3:11 | 2022-07-27 | 2022-11-24 |
 | [Uptight Dance](https://open.spotify.com/track/1IwLd7XPBJMCgkXfEPJW4G) | [Masha The Rich Man](https://open.spotify.com/artist/01bOHiL5TsXTx9dZu9gG15) | [Uptight Dance](https://open.spotify.com/album/27xDNLAPM7ygTrd1cK1PQq) | 3:02 | 2022-09-07 | 2022-10-27 |
+| [UV Catastrophe](https://open.spotify.com/track/1Yh9Y1MmNQsDmLSkeJIXXr) | [Saba Lou](https://open.spotify.com/artist/4FctzCzQuNPwtblJLp7LFQ) | [Nothing But Love](https://open.spotify.com/album/3qSciT5p6OIX6ogYR8PuMq) | 3:20 | 2026-11-25 |  |
 | [Valentina](https://open.spotify.com/track/1DPnUYdhwU4zZzSjFbJ3vX) | [Die Jugend von Gestern](https://open.spotify.com/artist/4YifxvYJn6lvPKqwpySXuP) | [Valentina](https://open.spotify.com/album/0wwkLAnqYFb8CkbKn1AYO9) | 3:07 | 2024-08-28 | 2024-10-10 |
 | [valentins fischglas](https://open.spotify.com/track/47gRGXp2ugLaIFyz68Nwvu) | [line rychart](https://open.spotify.com/artist/0qFqVApvgOwdJNqAfolXZn) | [valentins fischglas](https://open.spotify.com/album/6VFPanhVFNNP1Flhnipdmh) | 3:11 | 2025-09-17 | 2026-03-19 |
 | [Vantage Point](https://open.spotify.com/track/5bbAD9ejbpgSeTBxvIXgDz) | [Al Pagoda](https://open.spotify.com/artist/7h4dphH4TrmMCZ02uKHaFU) | [Vantage Point](https://open.spotify.com/album/5em3Z5ezDS2OlANdDHqIrj) | 4:46 | 2026-11-04 |  |

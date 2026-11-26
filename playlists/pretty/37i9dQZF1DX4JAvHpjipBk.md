@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4JAvHpjipBk.md) - [plain]
 
 > New music from Dua Lipa, Myke Towers, Gracie Abrams,  Julien Baker and more.
 
-[Spotify](https://open.spotify.com/user/spotify) - 4,659,328 likes - 100 songs - 5 hr 27 min
+[Spotify](https://open.spotify.com/user/spotify) - 4,659,002 likes - 100 songs - 5 hr 27 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4JAvHpjipBk.md) - [plain]
 | 99 | [Perfectly Damaged](https://open.spotify.com/track/34AErkbRuVNVFNm7M0UBSm) | [Runway Richy](https://open.spotify.com/artist/4pxxExWqKTzAroozOV3bCl), [Fredo Bang](https://open.spotify.com/artist/4yTmEo2clwWq2jwelvqgVv) | [Perfectly Damaged](https://open.spotify.com/album/5quluAtZGRLdb2ptXgL48b) | 3:53 |
 | 100 | [YOU \(New York in A Nutshell\)](https://open.spotify.com/track/0vEspY0f3gBrbrKHfDpeBF) | [Warpstr](https://open.spotify.com/artist/3DosMG14ckPgT9iagZbcVc) | [Only Because I Want To](https://open.spotify.com/album/11KXmnwtagKWedfWIv9fG2) | 2:42 |
 
-Snapshot ID: `AAAAAOu3kVy7J9vl32WtZux6Tqgnkm34`
+Snapshot ID: `AAAAAPZwIuOKSGKm141WLAkuLhhgQEsl`

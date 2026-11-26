@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYcDQ1hSjOpY.md) - [plain]
 
 > Soothing, minimalist ambient for deep sleep.
 
-[Spotify](https://open.spotify.com/user/spotify) - 2,260,462 likes - 380 songs - 17 hr 0 min
+[Spotify](https://open.spotify.com/user/spotify) - 2,260,772 likes - 380 songs - 17 hr 0 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -389,4 +389,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYcDQ1hSjOpY.md) - [plain]
 | 379 | [Azure](https://open.spotify.com/track/7l5FE9eZXS8LA60cLje2Eo) | [Aether Deem](https://open.spotify.com/artist/38RiqzbbLOb7GIVzcEcmy4) | [Azure](https://open.spotify.com/album/3jQm2GunGoCxZqwB3ZwGfR) | 2:15 |
 | 380 | [Meadows](https://open.spotify.com/track/2nxBJgFsG24ugGtWspkY7Z) | [Jake Slumber](https://open.spotify.com/artist/5zXzDGnSdx0XqjZzuKNNYx) | [Meadows](https://open.spotify.com/album/35O7qzLsbx0ebEETPwuNWo) | 2:16 |
 
-Snapshot ID: `AAAAAI1IluMGP+9L5Lb0oMIeVcP5JvHQ`
+Snapshot ID: `AAAAAP+mKOepvY9H1bTn9CHiK6uQ3A8b`

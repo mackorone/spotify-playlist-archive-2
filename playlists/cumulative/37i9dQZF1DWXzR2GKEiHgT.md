@@ -4,7 +4,7 @@
 
 > Slip into slumber with soothing sea sounds.
 
-262 songs - 12 hr 39 min
+262 songs - 12 hr 40 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -26,7 +26,7 @@
 | [Bali Beach Waves](https://open.spotify.com/track/6AiS3Vw8NbfUvrgbMeRC1V) | [Seas of Dreams](https://open.spotify.com/artist/3LBTs7b0sQ2EOsCmD20Aat) | [Coastal Clifftop Waves](https://open.spotify.com/album/5zjuTmzWlK96s1zHSZSFoj) | 4:10 | 2021-11-11 | 2022-10-12 |
 | [Bay Waves](https://open.spotify.com/track/0pm685YGz7E5qa7pn5hWvT) | [Shorenights](https://open.spotify.com/artist/5LG3LsvrCVe6h2BVrcaqc1) | [Bay Waves & Ao Nuan Shoreline](https://open.spotify.com/album/46n3gEduPZaYTlzYtp3thd) | 4:33 | 2023-02-15 |  |
 | [Beach Calmness](https://open.spotify.com/track/1PZoHdDM71mzOFW1T6H03y) | [Streaming Waves](https://open.spotify.com/artist/7qj3R7pI5z0H1AxH5X4oK8) | [Streaming Waves Vol\. 1](https://open.spotify.com/album/2QFjS8IsDZd1sUdGZ4rnDS) | 2:28 | 2022-01-21 | 2022-11-17 |
-| [Beach Side Waves](https://open.spotify.com/track/3mkSyuH8oEGJFZVZeXmvaO) | [Vallis Aura](https://open.spotify.com/artist/3QDsgZyyuvrvJ1HxdOsf7Q) | [Green Noise](https://open.spotify.com/album/0RLetTHxUoLbPcADh9Ogxp) | 1:50 | 2026-04-02 |  |
+| [Beach Side Waves](https://open.spotify.com/track/3mkSyuH8oEGJFZVZeXmvaO) | [Vallis Aura](https://open.spotify.com/artist/3QDsgZyyuvrvJ1HxdOsf7Q) | [Green Noise](https://open.spotify.com/album/0RLetTHxUoLbPcADh9Ogxp) | 2:22 | 2026-04-02 |  |
 | [Beneath the Saltwater Sky](https://open.spotify.com/track/2GK0zRHlLWKvGgFZkNys9h) | [Nebelune](https://open.spotify.com/artist/46Ul8d46Ke8xoZXRISCV3z) | [Beneath the Saltwater Sky](https://open.spotify.com/album/3W4Aq7xewK8Jy4G5hkWfqi) | 2:43 | 2026-04-02 |  |
 | [Big Pacific Waves](https://open.spotify.com/track/5XIpBloItgxw3ARoiAI1eI) | [Waveseekers](https://open.spotify.com/artist/02ucRkp1Tm4yA5ZZwfG184) | [Calming Waves](https://open.spotify.com/album/2LQJ4m4EPPjeSVaLKs61w0) | 2:46 | 2021-11-11 |  |
 | [Big Waves](https://open.spotify.com/track/3mDat1idepzQv9pyrHhm5l) | [TELEKROME](https://open.spotify.com/artist/74hvVWKEz8DlYrkKrE97TV) | [Wave Sounds](https://open.spotify.com/album/1qVY1drmjE9wCDusfxgBzg) | 2:04 | 2021-11-11 | 2026-04-03 |
@@ -35,7 +35,7 @@
 | [Big Waves Surf's Up](https://open.spotify.com/track/7tZgdyZBW2UtIbbXA6iq8Y) | [Organic Nature Sounds](https://open.spotify.com/artist/0FjF4Knsp7DEVujXASJBdO) | [Ocean Walk](https://open.spotify.com/album/0cxRpFqh1zwxqEIoLu0dYw) | 2:02 | 2022-02-10 | 2024-04-19 |
 | [Blue Waves](https://open.spotify.com/track/0iUgg63krkdW676rbw2vN4) | [Coastal Sounds](https://open.spotify.com/artist/249TyuYTmZtXB1yC90nGGx) | [Peaceful Night Waves](https://open.spotify.com/album/3fb69Iimh0HAMJoiesDoEK) | 2:30 | 2021-11-11 |  |
 | [Brain Waves Ocean Sounds 2](https://open.spotify.com/track/7xa0f1u6PD4pVqTLw07hNR) | [Brain Timbre](https://open.spotify.com/artist/3xRHOrpT0tqZeaLKnEdnU1) | [Brain Waves Ocean Sounds](https://open.spotify.com/album/51mmFPq33EjPSn9SIGhWKU) | 2:30 | 2021-11-11 |  |
-| [Brain Waves Ocean Sounds 3](https://open.spotify.com/track/1RTIg9btharEAVP3koGsdI) | [Brain Timbre](https://open.spotify.com/artist/3xRHOrpT0tqZeaLKnEdnU1) | [Brain Waves Ocean Sounds](https://open.spotify.com/album/51mmFPq33EjPSn9SIGhWKU) | 2:48 | 2021-11-11 | 2026-11-23 |
+| [Brain Waves Ocean Sounds 3](https://open.spotify.com/track/1RTIg9btharEAVP3koGsdI) | [Brain Timbre](https://open.spotify.com/artist/3xRHOrpT0tqZeaLKnEdnU1) | [Brain Waves Ocean Sounds](https://open.spotify.com/album/51mmFPq33EjPSn9SIGhWKU) | 2:48 | 2021-11-11 |  |
 | [Brown Bay](https://open.spotify.com/track/7MaeWklH2fkA3TgQYJpTu5) | [Mega Exotic Wave Sounds](https://open.spotify.com/artist/2tyKKR4JcKONjx7FwVvUF2) | [Waves From Around The World](https://open.spotify.com/album/2Z05lMBeRFW6YsoRsXSbbW) | 2:20 | 2023-06-19 | 2025-10-15 |
 | [Bustling River Sounds](https://open.spotify.com/track/5j5HMHeNbSDzVU9eEgZzUI) | [Rivers and Streams](https://open.spotify.com/artist/6NYAxBsKdDH00qCDvcFdA7) | [Soothing River Sounds](https://open.spotify.com/album/7HqcInonH7fXgJ83uyAAap) | 2:50 | 2021-11-11 |  |
 | [By the Sea](https://open.spotify.com/track/6I4kL4BehbZ96Yz3SKpll8) | [Tranquility Spree](https://open.spotify.com/artist/5TwGqGqJXW0bmSzmdCKLp7) | [Tranquility Spree](https://open.spotify.com/album/5DqwzCAr0thVAdVeZaxB2a) | 1:46 | 2021-11-11 | 2023-06-20 |
@@ -53,7 +53,7 @@
 | [Coastal Waves](https://open.spotify.com/track/2XKPf3NxvTDxIgPEHuvOug) | [Seasons Of Nature](https://open.spotify.com/artist/3jF2TuX5ujvjhjcumIOZIb) | [Waves And Tides](https://open.spotify.com/album/2G4526QrUypgTd23GTQzFU) | 4:10 | 2021-11-11 |  |
 | [Coasts of Calm](https://open.spotify.com/track/2rwx2LS9a9oZlwYEIBEbbw) | [Nebelune](https://open.spotify.com/artist/46Ul8d46Ke8xoZXRISCV3z) | [Coasts of Calm](https://open.spotify.com/album/1DoGpHFBKnZTVEu5Rg0Qho) | 2:11 | 2026-04-02 |  |
 | [Comforting Ocean Waves 2](https://open.spotify.com/track/6KYhFSDw4ioZB0sKnlnOB5) | [Seascapers](https://open.spotify.com/artist/1OCxhMsilRRM68yBUkQ3NA) | [Comforting Ocean Waves](https://open.spotify.com/album/6Pb30ZB9zy8J8eIMbDitsq) | 2:46 | 2021-11-11 | 2026-08-20 |
-| [Comforting Waves](https://open.spotify.com/track/0ldqimy3HlwCAdSSzU76VN) | [REANIM](https://open.spotify.com/artist/2L8MBccC3PzO3CgIdR9OAa) | [The Big Search](https://open.spotify.com/album/6aChkkvXvRESk7ZuC4aBgX) | 2:57 | 2021-11-11 |  |
+| [Comforting Waves](https://open.spotify.com/track/0ldqimy3HlwCAdSSzU76VN) | [REANIM](https://open.spotify.com/artist/2L8MBccC3PzO3CgIdR9OAa) | [The Big Search](https://open.spotify.com/album/6aChkkvXvRESk7ZuC4aBgX) | 2:57 | 2021-11-11 | 2026-11-26 |
 | [Cozy Rain Sound](https://open.spotify.com/track/3byF8Z5oOsuVbrPlyfFyIK) | [Fabricantes De Lluvia](https://open.spotify.com/artist/2lftazVP7IG1illXsbjxti) | [Relaxing Rain Sounds](https://open.spotify.com/album/6qrvy911i1moGl6gTwpENu) | 2:49 | 2021-11-11 | 2023-02-16 |
 | [Crashing Ocean Waves](https://open.spotify.com/track/2Nyt4vYufF0RUrTSyDsRqu) | [EarthMovies](https://open.spotify.com/artist/3T3jDhDfzFEBtXWcPNKqNe) | [Crashing Ocean Waves](https://open.spotify.com/album/23is2ikMTPfqd5ASwbCvkB) | 2:33 | 2023-02-15 |  |
 | [Crashing Ocean Waves For Sleeping](https://open.spotify.com/track/7k8qqfazhpxA9usBYGLVEv) | [Wave Sounds For Babies \(Sleep\)](https://open.spotify.com/artist/6EpIxFCF1KaWrjrQ7rVzRK) | [Babies Relax Wave Sounds](https://open.spotify.com/album/3vylheFisHA8ppsnm8hZ3G) | 2:34 | 2022-01-21 |  |

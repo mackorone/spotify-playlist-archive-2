@@ -1,12 +1,12 @@
 {
   "description": "Unwind and relax to the soft sound of jazz piano. ",
-  "num_followers": 371735,
+  "num_followers": 371757,
   "original_name": "Relaxing Jazz Piano",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAPIEdODrtRXJSu6odepIeipK48OT",
+  "snapshot_id": "AAAAAO1TFz0/aW0ICsWznBF4/xtuGM+z",
   "tracks": [
     {
       "added_at": "2026-10-23 08:02:52",
@@ -283,22 +283,6 @@
     {
       "added_at": "2026-10-23 08:02:52",
       "album": {
-        "name": "Soulfully",
-        "url": "https://open.spotify.com/album/1aiakRrbaOPZy5mr4dkZAf"
-      },
-      "artists": [
-        {
-          "name": "Rudy Winston",
-          "url": "https://open.spotify.com/artist/0eg5Y6qtyXmuDqBqEHbJ6L"
-        }
-      ],
-      "duration_ms": 178699,
-      "name": "Soulfully",
-      "url": "https://open.spotify.com/track/6ztls9EIQ5BtPOo2bbmQ3D"
-    },
-    {
-      "added_at": "2026-10-23 08:02:52",
-      "album": {
         "name": "Brooklyn Lights",
         "url": "https://open.spotify.com/album/6D64hYWbeTBlzuy8BZmVda"
       },
@@ -311,6 +295,22 @@
       "duration_ms": 133250,
       "name": "Brooklyn Lights",
       "url": "https://open.spotify.com/track/6QZ8YKI12M3YxAI83hpERc"
+    },
+    {
+      "added_at": "2026-10-23 08:02:52",
+      "album": {
+        "name": "Soulfully",
+        "url": "https://open.spotify.com/album/1aiakRrbaOPZy5mr4dkZAf"
+      },
+      "artists": [
+        {
+          "name": "Rudy Winston",
+          "url": "https://open.spotify.com/artist/0eg5Y6qtyXmuDqBqEHbJ6L"
+        }
+      ],
+      "duration_ms": 178699,
+      "name": "Soulfully",
+      "url": "https://open.spotify.com/track/6ztls9EIQ5BtPOo2bbmQ3D"
     },
     {
       "added_at": "2026-10-23 08:02:52",
@@ -331,22 +331,6 @@
     {
       "added_at": "2026-10-23 08:02:52",
       "album": {
-        "name": "Marais Morning",
-        "url": "https://open.spotify.com/album/0O7kC4qvVPPSxYcgHBBsnN"
-      },
-      "artists": [
-        {
-          "name": "James Auren",
-          "url": "https://open.spotify.com/artist/7Ds0cZCPbFyORBS5NSvQaQ"
-        }
-      ],
-      "duration_ms": 206843,
-      "name": "Marais Morning",
-      "url": "https://open.spotify.com/track/6GSgdG0O4OqlcNHAdnXHdO"
-    },
-    {
-      "added_at": "2026-10-23 08:02:52",
-      "album": {
         "name": "Two Shadows",
         "url": "https://open.spotify.com/album/73vN2nvl4vs9sqEd4Ctvel"
       },
@@ -359,6 +343,22 @@
       "duration_ms": 149591,
       "name": "Two Shadows",
       "url": "https://open.spotify.com/track/0onz00xJtAFBVRlOUHNeVm"
+    },
+    {
+      "added_at": "2026-10-23 08:02:52",
+      "album": {
+        "name": "Marais Morning",
+        "url": "https://open.spotify.com/album/0O7kC4qvVPPSxYcgHBBsnN"
+      },
+      "artists": [
+        {
+          "name": "James Auren",
+          "url": "https://open.spotify.com/artist/7Ds0cZCPbFyORBS5NSvQaQ"
+        }
+      ],
+      "duration_ms": 206843,
+      "name": "Marais Morning",
+      "url": "https://open.spotify.com/track/6GSgdG0O4OqlcNHAdnXHdO"
     },
     {
       "added_at": "2026-10-23 08:02:52",
@@ -411,22 +411,6 @@
     {
       "added_at": "2026-10-23 08:02:52",
       "album": {
-        "name": "A Second To None",
-        "url": "https://open.spotify.com/album/48zRVACVygfO4YqbG0N3M8"
-      },
-      "artists": [
-        {
-          "name": "Jacob Concord",
-          "url": "https://open.spotify.com/artist/4DK5fFescw1SzfGrThWjKi"
-        }
-      ],
-      "duration_ms": 174750,
-      "name": "A Second To None",
-      "url": "https://open.spotify.com/track/4UsTV4FO3ipzTby6LNOh1I"
-    },
-    {
-      "added_at": "2026-10-23 08:02:52",
-      "album": {
         "name": "Peace is overrated",
         "url": "https://open.spotify.com/album/0mZgqTeAGrfUFANgOuRJ1i"
       },
@@ -439,6 +423,22 @@
       "duration_ms": 172573,
       "name": "Peace is overrated",
       "url": "https://open.spotify.com/track/0sV95W6PXJco0npkcS4UOW"
+    },
+    {
+      "added_at": "2026-10-23 08:02:52",
+      "album": {
+        "name": "A Second To None",
+        "url": "https://open.spotify.com/album/48zRVACVygfO4YqbG0N3M8"
+      },
+      "artists": [
+        {
+          "name": "Jacob Concord",
+          "url": "https://open.spotify.com/artist/4DK5fFescw1SzfGrThWjKi"
+        }
+      ],
+      "duration_ms": 174750,
+      "name": "A Second To None",
+      "url": "https://open.spotify.com/track/4UsTV4FO3ipzTby6LNOh1I"
     },
     {
       "added_at": "2026-10-23 08:02:52",

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVHkDVXyDP0L.md) - [plain]
 
 > New and local indie noise\. Cover: The Cheaks
 
-[Spotify](https://open.spotify.com/user/spotify) - 60,812 likes - 100 songs - 5 hr 42 min
+[Spotify](https://open.spotify.com/user/spotify) - 60,805 likes - 100 songs - 5 hr 42 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVHkDVXyDP0L.md) - [plain]
 | 99 | [Dweller](https://open.spotify.com/track/5XX9miZM51VqiMUDLb4ssH) | [Beans](https://open.spotify.com/artist/5FKZDbmPvVTKO2V4BEB7J2) | [Less Louder](https://open.spotify.com/album/4iXQfl0izLpuJT8mS0k5qA) | 3:20 |
 | 100 | [Big Mouth](https://open.spotify.com/track/2OB8PVvmPDzJ5sFAvMR3Y6) | [Maple's Pet Dinosaur](https://open.spotify.com/artist/2WwEC6EqMABtVgisqot2Je) | [Big Mouth](https://open.spotify.com/album/6GKHfEsC8Qv4v7dm78YRP8) | 2:38 |
 
-Snapshot ID: `AAAAANrvhw1fqdhLPYrHivCTZqGGXDZ+`
+Snapshot ID: `AAAAAJ4ZsfUobWH+zbDZFIJ51cd3iAg1`

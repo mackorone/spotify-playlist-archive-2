@@ -1,12 +1,12 @@
 {
   "description": "O batid\u00e3o dos funks mais bombados pra agitar a pista do seu baile!",
-  "num_followers": 477731,
+  "num_followers": 477734,
   "original_name": "Segue o Baile",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAADYF/DSWrQPIny0YssB9JBKY9u6X",
+  "snapshot_id": "AAAAAIQeUNasdXp9GSoV2+o1C6cygGC9",
   "tracks": [
     {
       "added_at": "2023-06-26 14:06:50",
@@ -827,26 +827,6 @@
     {
       "added_at": "2023-06-26 14:06:50",
       "album": {
-        "name": "Vento Forte",
-        "url": "https://open.spotify.com/album/6eqgOX2XCH1I0LdJIMtMtT"
-      },
-      "artists": [
-        {
-          "name": "Mc Jacare\u0301",
-          "url": "https://open.spotify.com/artist/6qrqAYlS6lUj2BVXax7SZW"
-        },
-        {
-          "name": "Dj Tk",
-          "url": "https://open.spotify.com/artist/0mfeoleda752Uj4JbEZDIN"
-        }
-      ],
-      "duration_ms": 123711,
-      "name": "Vento Forte",
-      "url": "https://open.spotify.com/track/5PSkF3QpVMlAx8U5Inxj39"
-    },
-    {
-      "added_at": "2023-06-26 14:06:50",
-      "album": {
         "name": "Senta braba",
         "url": "https://open.spotify.com/album/0ZmFvtM0137BBjg6Fd6wWN"
       },
@@ -883,6 +863,26 @@
       "duration_ms": 120200,
       "name": "Chama Ela (feat. Pedro Sampaio)",
       "url": "https://open.spotify.com/track/14kRWkCWBYfQqILflEcpSJ"
+    },
+    {
+      "added_at": "2023-06-26 14:06:50",
+      "album": {
+        "name": "Vento Forte",
+        "url": "https://open.spotify.com/album/6eqgOX2XCH1I0LdJIMtMtT"
+      },
+      "artists": [
+        {
+          "name": "Mc Jacare\u0301",
+          "url": "https://open.spotify.com/artist/6qrqAYlS6lUj2BVXax7SZW"
+        },
+        {
+          "name": "Dj Tk",
+          "url": "https://open.spotify.com/artist/0mfeoleda752Uj4JbEZDIN"
+        }
+      ],
+      "duration_ms": 123711,
+      "name": "Vento Forte",
+      "url": "https://open.spotify.com/track/5PSkF3QpVMlAx8U5Inxj39"
     },
     {
       "added_at": "2023-06-26 14:06:50",
@@ -1619,6 +1619,26 @@
     {
       "added_at": "2023-06-26 14:06:50",
       "album": {
+        "name": "Abusadamente",
+        "url": "https://open.spotify.com/album/0KbY8slBvLSmMxeiSHxKEp"
+      },
+      "artists": [
+        {
+          "name": "MC Gustta",
+          "url": "https://open.spotify.com/artist/1Rpp9XZ2UUDmW81JvQP1at"
+        },
+        {
+          "name": "MC DG",
+          "url": "https://open.spotify.com/artist/7LFu0rTIuaK4oxkm80nZez"
+        }
+      ],
+      "duration_ms": 215937,
+      "name": "Abusadamente",
+      "url": "https://open.spotify.com/track/7vgNGxchhqDQWjKjLPTPro"
+    },
+    {
+      "added_at": "2023-06-26 14:06:50",
+      "album": {
         "name": "Sentou e Gostou",
         "url": "https://open.spotify.com/album/6AOEqzfVwc33EyNLLzZRaY"
       },
@@ -1643,42 +1663,6 @@
     {
       "added_at": "2023-06-26 14:06:50",
       "album": {
-        "name": "Abusadamente",
-        "url": "https://open.spotify.com/album/0KbY8slBvLSmMxeiSHxKEp"
-      },
-      "artists": [
-        {
-          "name": "MC Gustta",
-          "url": "https://open.spotify.com/artist/1Rpp9XZ2UUDmW81JvQP1at"
-        },
-        {
-          "name": "MC DG",
-          "url": "https://open.spotify.com/artist/7LFu0rTIuaK4oxkm80nZez"
-        }
-      ],
-      "duration_ms": 215937,
-      "name": "Abusadamente",
-      "url": "https://open.spotify.com/track/7vgNGxchhqDQWjKjLPTPro"
-    },
-    {
-      "added_at": "2023-06-26 14:06:50",
-      "album": {
-        "name": "Azul Piscina",
-        "url": "https://open.spotify.com/album/126OlMOJfhALwN6eaEWf84"
-      },
-      "artists": [
-        {
-          "name": "Mc Livinho",
-          "url": "https://open.spotify.com/artist/7me0S5Z40qVWj3gzyK8aC3"
-        }
-      ],
-      "duration_ms": 214153,
-      "name": "Azul Piscina",
-      "url": "https://open.spotify.com/track/7ieFtgZBYSC94nGs5yF0Wk"
-    },
-    {
-      "added_at": "2023-06-26 14:06:50",
-      "album": {
         "name": "BALAN\u00c7A A GLOCK",
         "url": "https://open.spotify.com/album/10XgqbTG82Ks7cK6i5m601"
       },
@@ -1695,6 +1679,22 @@
       "duration_ms": 156076,
       "name": "BALAN\u00c7A A GLOCK",
       "url": "https://open.spotify.com/track/3NaZrn3dMTU2uzjvVwC41z"
+    },
+    {
+      "added_at": "2023-06-26 14:06:50",
+      "album": {
+        "name": "Azul Piscina",
+        "url": "https://open.spotify.com/album/126OlMOJfhALwN6eaEWf84"
+      },
+      "artists": [
+        {
+          "name": "Mc Livinho",
+          "url": "https://open.spotify.com/artist/7me0S5Z40qVWj3gzyK8aC3"
+        }
+      ],
+      "duration_ms": 214153,
+      "name": "Azul Piscina",
+      "url": "https://open.spotify.com/track/7ieFtgZBYSC94nGs5yF0Wk"
     },
     {
       "added_at": "2023-06-26 14:06:50",
@@ -1755,6 +1755,22 @@
     {
       "added_at": "2023-06-26 14:06:50",
       "album": {
+        "name": "Baile de Favela",
+        "url": "https://open.spotify.com/album/38MDuoyZ7bF7TWn0JrYXiS"
+      },
+      "artists": [
+        {
+          "name": "GR6",
+          "url": "https://open.spotify.com/artist/3d7FBhUWvESoiRg2J4gXUx"
+        }
+      ],
+      "duration_ms": 180088,
+      "name": "Baile de Favela",
+      "url": "https://open.spotify.com/track/5SsEySoOu9eSiNjiZoIe8B"
+    },
+    {
+      "added_at": "2023-06-26 14:06:50",
+      "album": {
         "name": "Se Prepara 2",
         "url": "https://open.spotify.com/album/6FJ7h7C0PA5UYiBW6ZZelN"
       },
@@ -1771,22 +1787,6 @@
       "duration_ms": 147335,
       "name": "Se Prepara 2",
       "url": "https://open.spotify.com/track/0CgMeXQiNYJxPVQ2EMJxdL"
-    },
-    {
-      "added_at": "2023-06-26 14:06:50",
-      "album": {
-        "name": "Baile de Favela",
-        "url": "https://open.spotify.com/album/38MDuoyZ7bF7TWn0JrYXiS"
-      },
-      "artists": [
-        {
-          "name": "GR6",
-          "url": "https://open.spotify.com/artist/3d7FBhUWvESoiRg2J4gXUx"
-        }
-      ],
-      "duration_ms": 180088,
-      "name": "Baile de Favela",
-      "url": "https://open.spotify.com/track/5SsEySoOu9eSiNjiZoIe8B"
     },
     {
       "added_at": "2023-06-26 14:06:50",
@@ -1875,22 +1875,6 @@
     {
       "added_at": "2023-06-26 14:06:50",
       "album": {
-        "name": "Cheia de Marra",
-        "url": "https://open.spotify.com/album/6mQcoubTzMS13896aUpWGP"
-      },
-      "artists": [
-        {
-          "name": "Mc Livinho",
-          "url": "https://open.spotify.com/artist/7me0S5Z40qVWj3gzyK8aC3"
-        }
-      ],
-      "duration_ms": 267795,
-      "name": "Cheia de Marra",
-      "url": "https://open.spotify.com/track/4gvePWCd0GfkC40QshflUy"
-    },
-    {
-      "added_at": "2023-06-26 14:06:50",
-      "album": {
         "name": "REMIXES!",
         "url": "https://open.spotify.com/album/48tCnhhdxuroW88LjTrIhH"
       },
@@ -1903,6 +1887,22 @@
       "duration_ms": 108987,
       "name": "Bota pra Tremer - Remix",
       "url": "https://open.spotify.com/track/7mxJfqH9F3GmgS0YbaKzUA"
+    },
+    {
+      "added_at": "2023-06-26 14:06:50",
+      "album": {
+        "name": "Cheia de Marra",
+        "url": "https://open.spotify.com/album/6mQcoubTzMS13896aUpWGP"
+      },
+      "artists": [
+        {
+          "name": "Mc Livinho",
+          "url": "https://open.spotify.com/artist/7me0S5Z40qVWj3gzyK8aC3"
+        }
+      ],
+      "duration_ms": 267795,
+      "name": "Cheia de Marra",
+      "url": "https://open.spotify.com/track/4gvePWCd0GfkC40QshflUy"
     },
     {
       "added_at": "2023-06-26 14:06:50",

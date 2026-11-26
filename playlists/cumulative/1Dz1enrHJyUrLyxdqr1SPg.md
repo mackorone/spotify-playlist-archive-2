@@ -4,7 +4,7 @@
 
 > NEW  POPULAR MUSIC BY  INDIE AND ESTABLISHED ARTISTS .\. Free submission  \- 1 week on the list  NO EXPLICITS \- NO RAP Active supporters who play and share the list will get more time  \-so please play and share \- Thank you &lt;3  https:&\#x2F;&\#x2F;www.instagram.com&\#x2F;enilsounds&\#x2F;
 
-201 songs - 11 hr 51 min
+202 songs - 11 hr 54 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -48,6 +48,7 @@
 | [Ein Bub und sein Porsche](https://open.spotify.com/track/1HS71WwT0b6dH90bpHgcpI) | [musik.poet](https://open.spotify.com/artist/3qmi6JypjUwLqzzkoIfhjV) | [Ein Bub und sein Porsche](https://open.spotify.com/album/5e22Cww7MQVuMmkx8ORfjn) | 2:34 | 2025-10-03 | 2025-12-17 |
 | [Energy](https://open.spotify.com/track/2A0py9wFw5pieZbPAvJvEF) | [Dimitri Tenot](https://open.spotify.com/artist/6j3lTa5CHvS3l2ON2L226w) | [Energy](https://open.spotify.com/album/2iCPnQsIHwJJUtAgGQF9za) | 3:10 | 2026-10-15 |  |
 | [Epsilon Eridani](https://open.spotify.com/track/1kz6DreLvi1iOJc7gNIfDQ) | [Electron Revolt](https://open.spotify.com/artist/7inTXltGl51TDpZAW7BFAm) | [Raging Daylight](https://open.spotify.com/album/7AysU1BS4N5bwjtvgaIXHP) | 3:16 | 2026-08-31 | 2026-09-24 |
+| [Escape from the vortex](https://open.spotify.com/track/0W8l4EaDMfYNXh6AVoafQ9) | [Alterkix](https://open.spotify.com/artist/5GTkfbNzzJDrQFbG3x4oZu) | [ON THE ELECTRO HIGHWAY](https://open.spotify.com/album/3u9J0AM48PfUjwgkzZi85U) | 3:00 | 2026-11-25 |  |
 | [Fake Moments](https://open.spotify.com/track/6UNusfF7iabmyZvm7WXuC9) | [Richard Green](https://open.spotify.com/artist/5ZMNSlmvEo9xyBSCK7yK1w) | [Illusions](https://open.spotify.com/album/3fVRj84OCXO6ac7fUG0EIq) | 4:15 | 2025-11-23 | 2025-12-17 |
 | [Family of Two](https://open.spotify.com/track/7iJtJc3gbbLehTGp0HatSn) | [Charles Connolly](https://open.spotify.com/artist/177sVR4PIPRGPAys8e5vG1) | [Family of Two](https://open.spotify.com/album/795WecNLvB1rG8ur1VO0sn) | 2:51 | 2024-11-18 | 2026-08-31 |
 | [Fear](https://open.spotify.com/track/5JDoCALAWk9tryxgXaNHtN) | [Revolana](https://open.spotify.com/artist/10GMiQxPVYdUZ5OceNBtNC) | [Fear](https://open.spotify.com/album/5PcV3AxCIWaXY4t2f26cbb) | 2:31 | 2026-10-13 |  |
@@ -64,7 +65,7 @@
 | [Futon Party](https://open.spotify.com/track/56tS3PlbE47mE5OyyAn3iR) | [MAD SCORPIO](https://open.spotify.com/artist/3TSVFRgaIY3m3zGiM8SrhB) | [Futon Party](https://open.spotify.com/album/4E6OYYnsAsLy8NMnJ6DRQA) | 3:42 | 2025-12-05 | 2025-12-17 |
 | [Født til kærlighed](https://open.spotify.com/track/3iCWrBz2lKiLROBiRFtsid) | [Milly Nou](https://open.spotify.com/artist/4e3dKWaqu93gNcZ70r9scr) | [Født til kærlighed](https://open.spotify.com/album/4R7dD6mpx8yGCvvbfklOnr) | 4:01 | 2025-12-06 | 2026-02-02 |
 | [Girls and the Curse](https://open.spotify.com/track/0eO1FG7sNpB9PSHShDlQZG) | [Dear, The Bunny Dead](https://open.spotify.com/artist/6YNljbUij8I9XvdUTI8Yni) | [Vamp](https://open.spotify.com/album/1lqwTD9P2wD59ZMDClayzL) | 2:09 | 2026-09-20 | 2026-10-14 |
-| [Gladiator](https://open.spotify.com/track/0n89Qtx2dUkjeO7iO4nlJ5) | [Alterkix](https://open.spotify.com/artist/5GTkfbNzzJDrQFbG3x4oZu) | [DESTINY UNKNOWN](https://open.spotify.com/album/2dx5eaDJuRYmA3kvGjHn5k) | 1:41 | 2025-06-28 |  |
+| [Gladiator](https://open.spotify.com/track/0n89Qtx2dUkjeO7iO4nlJ5) | [Alterkix](https://open.spotify.com/artist/5GTkfbNzzJDrQFbG3x4oZu) | [DESTINY UNKNOWN](https://open.spotify.com/album/2dx5eaDJuRYmA3kvGjHn5k) | 1:41 | 2025-06-28 | 2026-11-26 |
 | [Gladiator \- Quick on the drawing Remix](https://open.spotify.com/track/0Bi8QtVN3cQrPyBkcYN054) | [Alterkix](https://open.spotify.com/artist/5GTkfbNzzJDrQFbG3x4oZu), [Quick on the drawing](https://open.spotify.com/artist/0D5dRS9CdchnNCgCuaVZr2) | [Gladiator \(Quick on the drawing Remix\)](https://open.spotify.com/album/3cIllayNKPBQkLMa8e2ABS) | 5:28 | 2025-09-05 | 2025-12-06 |
 | [Golden Hour](https://open.spotify.com/track/6hG7emAHE76bHX4z3xvCeT) | [Leonardo Baldassarri](https://open.spotify.com/artist/7Kd95lukoVFMzZ1jQycAyQ) | [Golden Hour](https://open.spotify.com/album/0flV2vWlpcA214NGjtQKzN) | 1:41 | 2024-02-15 |  |
 | [Got It](https://open.spotify.com/track/6AgZzEByxPEBrhoHoeX3sE) | [ENILSounds](https://open.spotify.com/artist/4OzICHv6oK0sL7gco6JibF) | [Got It](https://open.spotify.com/album/2sZmYAJ091nCxwDw8GqMR4) | 3:52 | 2023-09-15 |  |

@@ -1,12 +1,12 @@
 {
   "description": "\u00a1Lo mejor de la Cumbia Pop! \nFoto: Emanero & Bandana",
-  "num_followers": 1081073,
+  "num_followers": 1080864,
   "original_name": "Dame M\u00e1s Cumbia",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAJfRhKw6JNWw4/A/0TuOfbazoK7l",
+  "snapshot_id": "AAAAAA1uG8fp++MYqCAsEI9DExyno719",
   "tracks": [
     {
       "added_at": "2026-10-23 13:41:51",
@@ -675,22 +675,6 @@
     {
       "added_at": "2026-10-23 13:41:51",
       "album": {
-        "name": "Vos y Yo",
-        "url": "https://open.spotify.com/album/0rOgo14OGQSISmPyG5uXmx"
-      },
-      "artists": [
-        {
-          "name": "Valen",
-          "url": "https://open.spotify.com/artist/4OpKA1Qx8VYnSmrhKQ4zJz"
-        }
-      ],
-      "duration_ms": 139058,
-      "name": "Vos y Yo",
-      "url": "https://open.spotify.com/track/45mSkRFdOQwCz1N3uSpVIa"
-    },
-    {
-      "added_at": "2026-10-23 13:41:51",
-      "album": {
         "name": "Cuidado Que Te Supero / Calumnia / Tattoo",
         "url": "https://open.spotify.com/album/095xvXfYBWnxcyeSTsViVC"
       },
@@ -707,6 +691,22 @@
     {
       "added_at": "2026-10-23 13:41:51",
       "album": {
+        "name": "Vos y Yo",
+        "url": "https://open.spotify.com/album/0rOgo14OGQSISmPyG5uXmx"
+      },
+      "artists": [
+        {
+          "name": "Valen",
+          "url": "https://open.spotify.com/artist/4OpKA1Qx8VYnSmrhKQ4zJz"
+        }
+      ],
+      "duration_ms": 139058,
+      "name": "Vos y Yo",
+      "url": "https://open.spotify.com/track/45mSkRFdOQwCz1N3uSpVIa"
+    },
+    {
+      "added_at": "2026-10-23 13:41:51",
+      "album": {
         "name": "QUE ES ESO?",
         "url": "https://open.spotify.com/album/7uCxdJ7EEfsbPfiERz7hGB"
       },
@@ -719,6 +719,26 @@
       "duration_ms": 145847,
       "name": "QUE ES ESO?",
       "url": "https://open.spotify.com/track/5T3oZ1EcofOcGiMIhfw8VL"
+    },
+    {
+      "added_at": "2026-10-23 13:41:51",
+      "album": {
+        "name": "VIAJEMOS EN EL TIEMPO #3 | Te Amo",
+        "url": "https://open.spotify.com/album/5OCxqsmfDFDnxNftSVjE6h"
+      },
+      "artists": [
+        {
+          "name": "Max Carra",
+          "url": "https://open.spotify.com/artist/483P9cJ9pdCoc08XvNunPL"
+        },
+        {
+          "name": "Flor Alvarez",
+          "url": "https://open.spotify.com/artist/3R8XhCi6bUcoR1CJx2XASa"
+        }
+      ],
+      "duration_ms": 157078,
+      "name": "VIAJEMOS EN EL TIEMPO #3 | Te Amo",
+      "url": "https://open.spotify.com/track/1szeNjcQhCq2TPO2TrTyag"
     },
     {
       "added_at": "2026-10-23 13:41:51",
@@ -743,26 +763,6 @@
       "duration_ms": 157131,
       "name": "Una Condena",
       "url": "https://open.spotify.com/track/3o0ixYcpGqYjHpXJb7vgN3"
-    },
-    {
-      "added_at": "2026-10-23 13:41:51",
-      "album": {
-        "name": "VIAJEMOS EN EL TIEMPO #3 | Te Amo",
-        "url": "https://open.spotify.com/album/5OCxqsmfDFDnxNftSVjE6h"
-      },
-      "artists": [
-        {
-          "name": "Max Carra",
-          "url": "https://open.spotify.com/artist/483P9cJ9pdCoc08XvNunPL"
-        },
-        {
-          "name": "Flor Alvarez",
-          "url": "https://open.spotify.com/artist/3R8XhCi6bUcoR1CJx2XASa"
-        }
-      ],
-      "duration_ms": 157078,
-      "name": "VIAJEMOS EN EL TIEMPO #3 | Te Amo",
-      "url": "https://open.spotify.com/track/1szeNjcQhCq2TPO2TrTyag"
     },
     {
       "added_at": "2026-10-23 13:41:51",
@@ -811,42 +811,6 @@
     {
       "added_at": "2026-10-23 13:41:51",
       "album": {
-        "name": "S\u00f3lo con un Beso",
-        "url": "https://open.spotify.com/album/1wCoN5OCgwlVWfR8nzTJBJ"
-      },
-      "artists": [
-        {
-          "name": "Los Totora",
-          "url": "https://open.spotify.com/artist/6Cv7YpJ01y71mdgm4szmU2"
-        }
-      ],
-      "duration_ms": 155878,
-      "name": "S\u00f3lo con un Beso",
-      "url": "https://open.spotify.com/track/5ucrujpVC5pPdxNR42guhh"
-    },
-    {
-      "added_at": "2026-10-23 13:41:51",
-      "album": {
-        "name": "No Aguanto M\u00e1s",
-        "url": "https://open.spotify.com/album/3sgBdgPI4BrUHGpgLEvYgF"
-      },
-      "artists": [
-        {
-          "name": "The La Planta",
-          "url": "https://open.spotify.com/artist/4oZolC0sCwCAKqsNXfRlVS"
-        },
-        {
-          "name": "Sebastian Mendoza",
-          "url": "https://open.spotify.com/artist/2CEKDXUTkOu4LnGFysySTg"
-        }
-      ],
-      "duration_ms": 194690,
-      "name": "No Aguanto M\u00e1s",
-      "url": "https://open.spotify.com/track/3zJyIy2A092fKIbkZJPzrz"
-    },
-    {
-      "added_at": "2026-10-23 13:41:51",
-      "album": {
         "name": "Si Me Tomo una Cerveza (Remix)",
         "url": "https://open.spotify.com/album/7lDnwvTQGoFOCRD7GGRpks"
       },
@@ -879,6 +843,42 @@
       "duration_ms": 237521,
       "name": "Si Me Tomo una Cerveza - Remix",
       "url": "https://open.spotify.com/track/7oySelE0Cb5q1TBBSPZJT2"
+    },
+    {
+      "added_at": "2026-10-23 13:41:51",
+      "album": {
+        "name": "S\u00f3lo con un Beso",
+        "url": "https://open.spotify.com/album/1wCoN5OCgwlVWfR8nzTJBJ"
+      },
+      "artists": [
+        {
+          "name": "Los Totora",
+          "url": "https://open.spotify.com/artist/6Cv7YpJ01y71mdgm4szmU2"
+        }
+      ],
+      "duration_ms": 155878,
+      "name": "S\u00f3lo con un Beso",
+      "url": "https://open.spotify.com/track/5ucrujpVC5pPdxNR42guhh"
+    },
+    {
+      "added_at": "2026-10-23 13:41:51",
+      "album": {
+        "name": "No Aguanto M\u00e1s",
+        "url": "https://open.spotify.com/album/3sgBdgPI4BrUHGpgLEvYgF"
+      },
+      "artists": [
+        {
+          "name": "The La Planta",
+          "url": "https://open.spotify.com/artist/4oZolC0sCwCAKqsNXfRlVS"
+        },
+        {
+          "name": "Sebastian Mendoza",
+          "url": "https://open.spotify.com/artist/2CEKDXUTkOu4LnGFysySTg"
+        }
+      ],
+      "duration_ms": 194690,
+      "name": "No Aguanto M\u00e1s",
+      "url": "https://open.spotify.com/track/3zJyIy2A092fKIbkZJPzrz"
     },
     {
       "added_at": "2026-10-23 13:41:51",
@@ -951,30 +951,6 @@
     {
       "added_at": "2026-10-23 13:41:51",
       "album": {
-        "name": "Muero Por Ti",
-        "url": "https://open.spotify.com/album/1cARyY6BkAYGLd9MkfXhjV"
-      },
-      "artists": [
-        {
-          "name": "The La Planta",
-          "url": "https://open.spotify.com/artist/4oZolC0sCwCAKqsNXfRlVS"
-        },
-        {
-          "name": "Candu Dom\u00cdnguez",
-          "url": "https://open.spotify.com/artist/5m9vITkrXG8sov2qittAfI"
-        },
-        {
-          "name": "Pushi",
-          "url": "https://open.spotify.com/artist/1l6UgL5G16tId4qoYH8qJn"
-        }
-      ],
-      "duration_ms": 138437,
-      "name": "Muero Por Ti",
-      "url": "https://open.spotify.com/track/0P501RQv490jSbPkFbH7Bx"
-    },
-    {
-      "added_at": "2026-10-23 13:41:51",
-      "album": {
         "name": "La Quiero a Ella Vol.2",
         "url": "https://open.spotify.com/album/7GCWeywKYnY0A2QW4GBAY4"
       },
@@ -995,6 +971,30 @@
       "duration_ms": 192083,
       "name": "La Quiero a Ella Vol.2",
       "url": "https://open.spotify.com/track/3yMmAeP2i8OxD1IzJE3uAU"
+    },
+    {
+      "added_at": "2026-10-23 13:41:51",
+      "album": {
+        "name": "Muero Por Ti",
+        "url": "https://open.spotify.com/album/1cARyY6BkAYGLd9MkfXhjV"
+      },
+      "artists": [
+        {
+          "name": "The La Planta",
+          "url": "https://open.spotify.com/artist/4oZolC0sCwCAKqsNXfRlVS"
+        },
+        {
+          "name": "Candu Dom\u00cdnguez",
+          "url": "https://open.spotify.com/artist/5m9vITkrXG8sov2qittAfI"
+        },
+        {
+          "name": "Pushi",
+          "url": "https://open.spotify.com/artist/1l6UgL5G16tId4qoYH8qJn"
+        }
+      ],
+      "duration_ms": 138437,
+      "name": "Muero Por Ti",
+      "url": "https://open.spotify.com/track/0P501RQv490jSbPkFbH7Bx"
     },
     {
       "added_at": "2026-10-23 13:41:51",
@@ -1247,26 +1247,6 @@
     {
       "added_at": "2026-10-23 13:41:51",
       "album": {
-        "name": "Sin Cadenas",
-        "url": "https://open.spotify.com/album/1q8MbrlzmYGA5FzlnxiuqU"
-      },
-      "artists": [
-        {
-          "name": "Los Pericos",
-          "url": "https://open.spotify.com/artist/7FnZWGw9lwOr7WzieTKEPR"
-        },
-        {
-          "name": "La T y La M",
-          "url": "https://open.spotify.com/artist/1FxPMQ9A0882eNDx3ZkD6B"
-        }
-      ],
-      "duration_ms": 211238,
-      "name": "Sin Cadenas",
-      "url": "https://open.spotify.com/track/44jagrCVBUPKsyTRKFX22r"
-    },
-    {
-      "added_at": "2026-10-23 13:41:51",
-      "album": {
         "name": "Promet\u00ed",
         "url": "https://open.spotify.com/album/5ZWScEMjgn79zqyof8qvW1"
       },
@@ -1291,6 +1271,26 @@
       "duration_ms": 156325,
       "name": "Promet\u00ed",
       "url": "https://open.spotify.com/track/5ZneIBS61svHm9FDhsPma3"
+    },
+    {
+      "added_at": "2026-10-23 13:41:51",
+      "album": {
+        "name": "Sin Cadenas",
+        "url": "https://open.spotify.com/album/1q8MbrlzmYGA5FzlnxiuqU"
+      },
+      "artists": [
+        {
+          "name": "Los Pericos",
+          "url": "https://open.spotify.com/artist/7FnZWGw9lwOr7WzieTKEPR"
+        },
+        {
+          "name": "La T y La M",
+          "url": "https://open.spotify.com/artist/1FxPMQ9A0882eNDx3ZkD6B"
+        }
+      ],
+      "duration_ms": 211238,
+      "name": "Sin Cadenas",
+      "url": "https://open.spotify.com/track/44jagrCVBUPKsyTRKFX22r"
     },
     {
       "added_at": "2026-10-23 13:41:51",
@@ -1551,26 +1551,18 @@
     {
       "added_at": "2026-10-23 13:41:51",
       "album": {
-        "name": "Todo Comenz\u00f3 Bailando (Remix)",
-        "url": "https://open.spotify.com/album/5uETffhuDgeUDZhN4PacAJ"
+        "name": "Amor Sincero",
+        "url": "https://open.spotify.com/album/6mkYsDQfFm1H4YYGk6lo4X"
       },
       "artists": [
         {
-          "name": "Marama",
-          "url": "https://open.spotify.com/artist/4GepMkTgrIZECoCC55vqjW"
-        },
-        {
-          "name": "Emanero",
-          "url": "https://open.spotify.com/artist/2BTS8Np1YzPQuXjgdlqsBB"
-        },
-        {
-          "name": "Rafaga",
-          "url": "https://open.spotify.com/artist/0CBKUzrf6yGdTgxAQbUUHS"
+          "name": "Maxi Espindola",
+          "url": "https://open.spotify.com/artist/4Obfe35qOZ6JZmezYo8K0v"
         }
       ],
-      "duration_ms": 163529,
-      "name": "Todo Comenz\u00f3 Bailando - Remix",
-      "url": "https://open.spotify.com/track/5nJP1qwTNnXF4CiCrfmNjy"
+      "duration_ms": 187956,
+      "name": "Amor Sincero",
+      "url": "https://open.spotify.com/track/35Tg6HJcUghZgeCJq64OOt"
     },
     {
       "added_at": "2026-10-23 13:41:51",
@@ -1595,18 +1587,26 @@
     {
       "added_at": "2026-10-23 13:41:51",
       "album": {
-        "name": "Amor Sincero",
-        "url": "https://open.spotify.com/album/6mkYsDQfFm1H4YYGk6lo4X"
+        "name": "Todo Comenz\u00f3 Bailando (Remix)",
+        "url": "https://open.spotify.com/album/5uETffhuDgeUDZhN4PacAJ"
       },
       "artists": [
         {
-          "name": "Maxi Espindola",
-          "url": "https://open.spotify.com/artist/4Obfe35qOZ6JZmezYo8K0v"
+          "name": "Marama",
+          "url": "https://open.spotify.com/artist/4GepMkTgrIZECoCC55vqjW"
+        },
+        {
+          "name": "Emanero",
+          "url": "https://open.spotify.com/artist/2BTS8Np1YzPQuXjgdlqsBB"
+        },
+        {
+          "name": "Rafaga",
+          "url": "https://open.spotify.com/artist/0CBKUzrf6yGdTgxAQbUUHS"
         }
       ],
-      "duration_ms": 187956,
-      "name": "Amor Sincero",
-      "url": "https://open.spotify.com/track/35Tg6HJcUghZgeCJq64OOt"
+      "duration_ms": 163529,
+      "name": "Todo Comenz\u00f3 Bailando - Remix",
+      "url": "https://open.spotify.com/track/5nJP1qwTNnXF4CiCrfmNjy"
     },
     {
       "added_at": "2026-10-23 13:41:51",
@@ -1671,26 +1671,6 @@
     {
       "added_at": "2026-10-23 13:41:51",
       "album": {
-        "name": "Aunque Te Enamores",
-        "url": "https://open.spotify.com/album/4m4KiRsQNV8wWvrfDgqBgA"
-      },
-      "artists": [
-        {
-          "name": "Marama",
-          "url": "https://open.spotify.com/artist/4GepMkTgrIZECoCC55vqjW"
-        },
-        {
-          "name": "Luciano Pereyra",
-          "url": "https://open.spotify.com/artist/6ZZ2DeepA3GpoGU4KwqSlU"
-        }
-      ],
-      "duration_ms": 130212,
-      "name": "Aunque Te Enamores",
-      "url": "https://open.spotify.com/track/2qDQiPI2F0tMefcNQHGrQS"
-    },
-    {
-      "added_at": "2026-10-23 13:41:51",
-      "album": {
         "name": "Copacabana (Remix)",
         "url": "https://open.spotify.com/album/3FBdw6cz2xafwzvukIVtuy"
       },
@@ -1707,6 +1687,26 @@
       "duration_ms": 153133,
       "name": "Copacabana - Remix",
       "url": "https://open.spotify.com/track/5QNPsYAr31UzNJ0NlsYPVQ"
+    },
+    {
+      "added_at": "2026-10-23 13:41:51",
+      "album": {
+        "name": "Aunque Te Enamores",
+        "url": "https://open.spotify.com/album/4m4KiRsQNV8wWvrfDgqBgA"
+      },
+      "artists": [
+        {
+          "name": "Marama",
+          "url": "https://open.spotify.com/artist/4GepMkTgrIZECoCC55vqjW"
+        },
+        {
+          "name": "Luciano Pereyra",
+          "url": "https://open.spotify.com/artist/6ZZ2DeepA3GpoGU4KwqSlU"
+        }
+      ],
+      "duration_ms": 130212,
+      "name": "Aunque Te Enamores",
+      "url": "https://open.spotify.com/track/2qDQiPI2F0tMefcNQHGrQS"
     },
     {
       "added_at": "2026-10-23 13:41:51",
@@ -1811,26 +1811,6 @@
     {
       "added_at": "2026-10-23 13:41:51",
       "album": {
-        "name": "La Teoria",
-        "url": "https://open.spotify.com/album/0Wb5nJvGGpCe6uyOu0SPk1"
-      },
-      "artists": [
-        {
-          "name": "Lira",
-          "url": "https://open.spotify.com/artist/1kyy6AW7C6Rr2jrYwz95Gi"
-        },
-        {
-          "name": "JvnRoman",
-          "url": "https://open.spotify.com/artist/5QdqKQ0RTopSWMOuZVUkIO"
-        }
-      ],
-      "duration_ms": 142087,
-      "name": "La Teoria",
-      "url": "https://open.spotify.com/track/2T9oLvdZpa6I8WPAdAHi51"
-    },
-    {
-      "added_at": "2026-10-23 13:41:51",
-      "album": {
         "name": "Esperando por Ti",
         "url": "https://open.spotify.com/album/570lHGohzWuNEMmMefMIIC"
       },
@@ -1847,6 +1827,26 @@
       "duration_ms": 134916,
       "name": "Esperando por Ti",
       "url": "https://open.spotify.com/track/4R2PfTQvrZkjAPRbJDbLhd"
+    },
+    {
+      "added_at": "2026-10-23 13:41:51",
+      "album": {
+        "name": "La Teoria",
+        "url": "https://open.spotify.com/album/0Wb5nJvGGpCe6uyOu0SPk1"
+      },
+      "artists": [
+        {
+          "name": "Lira",
+          "url": "https://open.spotify.com/artist/1kyy6AW7C6Rr2jrYwz95Gi"
+        },
+        {
+          "name": "JvnRoman",
+          "url": "https://open.spotify.com/artist/5QdqKQ0RTopSWMOuZVUkIO"
+        }
+      ],
+      "duration_ms": 142087,
+      "name": "La Teoria",
+      "url": "https://open.spotify.com/track/2T9oLvdZpa6I8WPAdAHi51"
     },
     {
       "added_at": "2026-10-23 13:41:51",
@@ -2075,26 +2075,6 @@
     {
       "added_at": "2026-10-23 13:41:51",
       "album": {
-        "name": "carita",
-        "url": "https://open.spotify.com/album/54RgNDQGCP4g2OPvAoPbQd"
-      },
-      "artists": [
-        {
-          "name": "VI-EM",
-          "url": "https://open.spotify.com/artist/44hJXrVhoyA1fV1dn4wdHC"
-        },
-        {
-          "name": "Lauta",
-          "url": "https://open.spotify.com/artist/5ELYwDwhy00ecTXhfsKWci"
-        }
-      ],
-      "duration_ms": 161551,
-      "name": "carita",
-      "url": "https://open.spotify.com/track/22ejaXlUIOvLTLH20nXJsv"
-    },
-    {
-      "added_at": "2026-10-23 13:41:51",
-      "album": {
         "name": "Mi Ex",
         "url": "https://open.spotify.com/album/6nGWuOZQFss6GnMweIXvsj"
       },
@@ -2111,6 +2091,26 @@
       "duration_ms": 141978,
       "name": "Mi Ex",
       "url": "https://open.spotify.com/track/3pPOye3RAdcPDsgwg3Mzfp"
+    },
+    {
+      "added_at": "2026-10-23 13:41:51",
+      "album": {
+        "name": "carita",
+        "url": "https://open.spotify.com/album/54RgNDQGCP4g2OPvAoPbQd"
+      },
+      "artists": [
+        {
+          "name": "VI-EM",
+          "url": "https://open.spotify.com/artist/44hJXrVhoyA1fV1dn4wdHC"
+        },
+        {
+          "name": "Lauta",
+          "url": "https://open.spotify.com/artist/5ELYwDwhy00ecTXhfsKWci"
+        }
+      ],
+      "duration_ms": 161551,
+      "name": "carita",
+      "url": "https://open.spotify.com/track/22ejaXlUIOvLTLH20nXJsv"
     }
   ],
   "unique_name": "Dame M\u00e1s Cumbia",

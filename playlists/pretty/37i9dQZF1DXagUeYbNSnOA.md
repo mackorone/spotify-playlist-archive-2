@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXagUeYbNSnOA.md) - [plain]
 
 > The best new music by independent artists and labels, featuring fidoisblue\. Updates every Wednesday.
 
-[Spotify](https://open.spotify.com/user/spotify) - 189,047 likes - 50 songs - 2 hr 33 min
+[Spotify](https://open.spotify.com/user/spotify) - 189,084 likes - 50 songs - 2 hr 33 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXagUeYbNSnOA.md) - [plain]
 | 49 | [Ya Pa' Qué](https://open.spotify.com/track/1qxporaSGKmsCdERqT50YD) | [Gabriella](https://open.spotify.com/artist/1n6ZR4WIvyvuioc07O5UiM) | [Ya Pa' Qué](https://open.spotify.com/album/1wScP9cz7K53o4FLlFiWFk) | 2:21 |
 | 50 | [Todas mis amigas](https://open.spotify.com/track/1pJc6Pg1T13vc1mml1itJb) | [Gabriella Olivo](https://open.spotify.com/artist/16TtQYVADdkb4Ay75wCVhO) | [Cruise Control](https://open.spotify.com/album/3AHl7gMUlinkiKiu1PpaGC) | 3:47 |
 
-Snapshot ID: `AAAAAMYPziElNvwEkX5XSuMZHQ20MOQU`
+Snapshot ID: `AAAAAKgoOa6FTF4QKDfanbSTWiVbJd0q`

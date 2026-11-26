@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2fMaj5GfMh3.md) - [plain]
 
 > De nieuwste pop songs\. Cover: Dua Lipa
 
-[Spotify](https://open.spotify.com/user/spotify) - 101,110 likes - 100 songs - 5 hr 18 min
+[Spotify](https://open.spotify.com/user/spotify) - 101,106 likes - 100 songs - 5 hr 18 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2fMaj5GfMh3.md) - [plain]
 | 99 | [Mr\. Mister](https://open.spotify.com/track/6YyGvNvVFdBRelvaoHIvgy) | [LAUD](https://open.spotify.com/artist/04kVAoKNfyQrbp3XqhAkOB) | [Mr\. Mister](https://open.spotify.com/album/7bLtjsOU09XeLdlQ3xyGNv) | 2:00 |
 | 100 | [Funeral](https://open.spotify.com/track/6LdPN8UPj0Ne9Reg6XkDyO) | [Ashe](https://open.spotify.com/artist/6P5NO5hzJbuOqSdyPB7SJM) | [Funeral](https://open.spotify.com/album/2VHfWdrPP2EgETjiaGBIY6) | 3:32 |
 
-Snapshot ID: `AAAAAHyGfT9Y72BKiG5CpRQVFanWPWoo`
+Snapshot ID: `AAAAAMeUmVh27VjWMEqxlijsHQlJWS0E`

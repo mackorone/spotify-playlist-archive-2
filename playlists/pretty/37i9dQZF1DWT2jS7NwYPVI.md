@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWT2jS7NwYPVI.md) - [plain]
 
 > your cheat sheet for all that's on the rise in alt/rock\. Cover: Madra Salach
 
-[Spotify](https://open.spotify.com/user/spotify) - 475,443 likes - 205 songs - 11 hr 53 min
+[Spotify](https://open.spotify.com/user/spotify) - 475,439 likes - 205 songs - 11 hr 53 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -214,4 +214,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWT2jS7NwYPVI.md) - [plain]
 | 204 | [Itsy Bitsy](https://open.spotify.com/track/2rlzp4LgFSePAHPYhSLQqR) | [jade yee\-smith](https://open.spotify.com/artist/2JffhI0mbTb7flHpwPgq3a) | [Itsy Bitsy](https://open.spotify.com/album/44V5OVOQ0zmbh1T1UYL6Bt) | 3:25 |
 | 205 | [The Stairs](https://open.spotify.com/track/0VMZoeaewIHUjqzQtXzVYJ) | [Duvall](https://open.spotify.com/artist/38Spc5iIVmjhBWfgooWXaI) | [The Stairs](https://open.spotify.com/album/17eG34BrNDgxwjgaXf5DNH) | 3:33 |
 
-Snapshot ID: `AAAAADz19LPsmfRg3679zdPO9x6Zclg7`
+Snapshot ID: `AAAAALTfG4OmHwRplPdSfSsDOJiITvNd`

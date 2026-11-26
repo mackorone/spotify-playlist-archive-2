@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2wnPyeao7oY.md) - [plain]
 
 > New music by the heaviest independent artists and labels every Wednesday\. Cover: Deadlands
 
-[Spotify](https://open.spotify.com/user/spotify) - 48,588 likes - 50 songs - 2 hr 48 min
+[Spotify](https://open.spotify.com/user/spotify) - 48,670 likes - 50 songs - 2 hr 48 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2wnPyeao7oY.md) - [plain]
 | 49 | [Fall Into Me](https://open.spotify.com/track/1NRY7tlPvrlJHlbOazFe1i) | [OHKAYA](https://open.spotify.com/artist/4uhsmjBwCLRupPcYGK5CTg) | [Fall Into Me](https://open.spotify.com/album/4SXcC7GTF7lBKwV2L6OENS) | 4:30 |
 | 50 | [STFA](https://open.spotify.com/track/22PxFCtgAQgAOG1xBwXKBz) | [Moodring](https://open.spotify.com/artist/75gi4UlMiDGTClCgtZVpH0) | [death fetish](https://open.spotify.com/album/2LQrLVV5y9YFji7Z2fYdg9) | 3:39 |
 
-Snapshot ID: `AAAAALGoFETicx+oyY62PsymHxaEtOD2`
+Snapshot ID: `AAAAAILp7AVQ4tdNxxyi/30cAqud6Lpa`

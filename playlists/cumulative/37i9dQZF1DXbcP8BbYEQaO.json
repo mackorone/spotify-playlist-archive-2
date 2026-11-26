@@ -2545,6 +2545,24 @@
     },
     {
       "album": {
+        "name": "Fever",
+        "url": "https://open.spotify.com/album/4WzTXHp8bVKkKNu3UQ2Fqu"
+      },
+      "artists": [
+        {
+          "name": "Kylie Minogue",
+          "url": "https://open.spotify.com/artist/4RVnAU35WRWra6OZ3CbbMA"
+        }
+      ],
+      "date_added": "2026-11-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 258346,
+      "name": "Come into My World - Fischerspooner Mix",
+      "url": "https://open.spotify.com/track/2LwBlNmiiphrspoFoIZT0T"
+    },
+    {
+      "album": {
         "name": "Company",
         "url": "https://open.spotify.com/album/74ZAayQtelkU7pLkKLsCiV"
       },

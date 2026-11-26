@@ -1413,6 +1413,28 @@
     },
     {
       "album": {
+        "name": "Niemands Meisje",
+        "url": "https://open.spotify.com/album/2MVb3OLPmLzhGXnfIjunua"
+      },
+      "artists": [
+        {
+          "name": "Sigourney K",
+          "url": "https://open.spotify.com/artist/0JgazfmeUqlV0HSXvs7kvj"
+        },
+        {
+          "name": "KATNUF",
+          "url": "https://open.spotify.com/artist/4xDh11zptvPADSQxvbiClo"
+        }
+      ],
+      "date_added": "2026-11-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 156571,
+      "name": "Pokerface",
+      "url": "https://open.spotify.com/track/79mFZr4SbiC2xh6j1aLH7G"
+    },
+    {
+      "album": {
         "name": "Regular Girls",
         "url": "https://open.spotify.com/album/7N3zxoDY07EwOSopX5xs8A"
       },

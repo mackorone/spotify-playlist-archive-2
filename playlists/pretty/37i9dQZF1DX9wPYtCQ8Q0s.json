@@ -1,12 +1,12 @@
 {
   "description": "A batida certa para o seu treino",
-  "num_followers": 305419,
+  "num_followers": 305372,
   "original_name": "Treino Hip-Hop",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAK8i8FwaUAG4MEZjkke7B1GjxfiB",
+  "snapshot_id": "AAAAAFPAf1/TxOUc4feksb778ZrARJlV",
   "tracks": [
     {
       "added_at": "2026-10-19 15:50:44",
@@ -1919,22 +1919,6 @@
     {
       "added_at": "2026-10-19 15:50:44",
       "album": {
-        "name": "Progresso",
-        "url": "https://open.spotify.com/album/3dgya99ntx0TtotTsXnoFN"
-      },
-      "artists": [
-        {
-          "name": "Dfideliz",
-          "url": "https://open.spotify.com/artist/0oNOkdVXXFaWC9tPb7Ol10"
-        }
-      ],
-      "duration_ms": 161311,
-      "name": "Progresso",
-      "url": "https://open.spotify.com/track/0tLRlU39HHqJ2BX4DN4qnm"
-    },
-    {
-      "added_at": "2026-10-19 15:50:44",
-      "album": {
         "name": "Bonde da Rock",
         "url": "https://open.spotify.com/album/4lyBsKWg4M8zHI0Ormmpo7"
       },
@@ -1955,6 +1939,22 @@
       "duration_ms": 137237,
       "name": "Bonde da Rock",
       "url": "https://open.spotify.com/track/6sC0OMXUGXDtzcm0SkJYv5"
+    },
+    {
+      "added_at": "2026-10-19 15:50:44",
+      "album": {
+        "name": "Progresso",
+        "url": "https://open.spotify.com/album/3dgya99ntx0TtotTsXnoFN"
+      },
+      "artists": [
+        {
+          "name": "Dfideliz",
+          "url": "https://open.spotify.com/artist/0oNOkdVXXFaWC9tPb7Ol10"
+        }
+      ],
+      "duration_ms": 161311,
+      "name": "Progresso",
+      "url": "https://open.spotify.com/track/0tLRlU39HHqJ2BX4DN4qnm"
     },
     {
       "added_at": "2026-10-19 15:50:44",

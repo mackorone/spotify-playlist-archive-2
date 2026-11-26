@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1PgTwYgvl4t.md) - [plain]
 
 > Get served with the best Nigerian worship songs\. Cover: Minister GUC
 
-[Spotify](https://open.spotify.com/user/spotify) - 135,958 likes - 99 songs - 14 hr 43 min
+[Spotify](https://open.spotify.com/user/spotify) - 136,045 likes - 99 songs - 14 hr 43 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -108,4 +108,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1PgTwYgvl4t.md) - [plain]
 | 98 | [Unseen](https://open.spotify.com/track/7t9P8auS1hqsQWEMT2watl) | [Heart of God Church](https://open.spotify.com/artist/2FfsXXadtqUpYzJFEZR5dN), [Daniel Goh](https://open.spotify.com/artist/4CdYgcqqyJDghd3WgXra5z), [Folabi Nuel](https://open.spotify.com/artist/0zBTbtoYVNCJmbN3MWHcRe), [Joshua Artono](https://open.spotify.com/artist/2CsQjrxOjnKlQlJ0zBOyuG) | [Unseen](https://open.spotify.com/album/01422x7wGqTnEt5epX6G7E) | 5:27 |
 | 99 | [My Life \- Live](https://open.spotify.com/track/0DYIqtWiEnFQUdYD0ozrGJ) | [Grace Oluwaloju](https://open.spotify.com/artist/6NInTLdGUMFQHAaFnpUo9Y), [Mr M & Revelation](https://open.spotify.com/artist/7Cj72Nr0p08Jibt7ADcEDa) | [My Life \(Live\)](https://open.spotify.com/album/32GdJYZW4fA4cj2jnhLYPu) | 8:13 |
 
-Snapshot ID: `AAAAAI9j10VoMiLtbcEEMBZjOJeFo/ZH`
+Snapshot ID: `AAAAAGQ0bNGCiPb5BgWvuqN0Vdv1Ks7s`

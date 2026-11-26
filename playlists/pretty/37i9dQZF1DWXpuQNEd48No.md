@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXpuQNEd48No.md) - [plain]
 
 > Best of Haryanvi Hip\-Hop! Cover: DG IMMORTALS
 
-[Spotify](https://open.spotify.com/user/spotify) - 64,824 likes - 75 songs - 3 hr 30 min
+[Spotify](https://open.spotify.com/user/spotify) - 64,847 likes - 75 songs - 3 hr 30 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXpuQNEd48No.md) - [plain]
 | 74 | [WWA \- When We Arrive](https://open.spotify.com/track/7HZTSKqnP7Tr4c4LPmkGLx) | [Rawme Hooda](https://open.spotify.com/artist/7B6M2lrsO79XEw8xAbm4OE), [RP Singh](https://open.spotify.com/artist/7pxBiDULrPympl9ppIewtZ) | [WWA \- When We Arrive](https://open.spotify.com/album/45clDICJ6WVvF69uI0iuLb) | 3:04 |
 | 75 | [Yamraaj](https://open.spotify.com/track/4E9uD7yOwBOuiAdiMXIY3T) | [The LeKhak](https://open.spotify.com/artist/4mXXjQa72yzGxqboQMSqiT), [BAD Junkie](https://open.spotify.com/artist/67PszvnwyV2SVgLAaVqOER) | [Yamraaj](https://open.spotify.com/album/1xwVPiJZ9SgseiFB4zeGnb) | 2:01 |
 
-Snapshot ID: `AAAAAM8hu7VXx3noKIvNFgmeSK5O4C8z`
+Snapshot ID: `AAAAAM3Awli57JTszm297uTDBaurCY1V`

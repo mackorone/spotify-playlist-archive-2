@@ -265,6 +265,24 @@
     },
     {
       "album": {
+        "name": "PERFECT STORM (HUENINGKAI Ver.)",
+        "url": "https://open.spotify.com/album/4LQFfyRVeVQaLEysykqnYj"
+      },
+      "artists": [
+        {
+          "name": "TOMORROW X TOGETHER",
+          "url": "https://open.spotify.com/artist/0ghlgldX5Dd6720Q3qFyQB"
+        }
+      ],
+      "date_added": "2026-11-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 165000,
+      "name": "Hate It or Love It",
+      "url": "https://open.spotify.com/track/1Uw69Bi0t5bIeLyTxVPPCT"
+    },
+    {
+      "album": {
         "name": "PERFECT STORM",
         "url": "https://open.spotify.com/album/0GiFQ9l5vsV257q8URl6XJ"
       },
@@ -276,7 +294,7 @@
       ],
       "date_added": "2026-11-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-26",
       "duration_ms": 165000,
       "name": "Hate It or Love It",
       "url": "https://open.spotify.com/track/21NpJLOBIwpTAsELENNN2V"

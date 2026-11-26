@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbKGrOUA30KN.md) - [plain]
 
 > Deutschpop, der jetzt passiert\. Cover: Kauta, Mucco
 
-[Spotify](https://open.spotify.com/user/spotify) - 640,934 likes - 90 songs - 4 hr 7 min
+[Spotify](https://open.spotify.com/user/spotify) - 640,894 likes - 90 songs - 4 hr 7 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -99,4 +99,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbKGrOUA30KN.md) - [plain]
 | 89 | [Melody](https://open.spotify.com/track/639XKHDNrrjMUDvSv52mRq) | [Queen Mahoro](https://open.spotify.com/artist/4hxPH9nqIhqRQVaXwNeevB) | [Pretty Girl EP](https://open.spotify.com/album/0QiYwNJYHhT0O8P0cCIlnr) | 2:04 |
 | 90 | [leben lächelt](https://open.spotify.com/track/5a4SWVOztLOi0klvZsCDDD) | [becks](https://open.spotify.com/artist/7Bk6OavbjEK5gtMvSRns57) | [leben lächelt](https://open.spotify.com/album/6miR4FLuf45e02tKP1JQUr) | 2:24 |
 
-Snapshot ID: `AAAAAH67NLNx5DidnUe5yKr1qNvGnIza`
+Snapshot ID: `AAAAAAr7ixX8z2rBnHy6yOMAgTI1vRO3`

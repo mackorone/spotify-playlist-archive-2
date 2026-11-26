@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX34s4fg4Zx3Z.md) - [plain]
 
 > Những 🎶  mới mẻ từ các nghệ sĩ có thể bạn chưa biết, được các biên tập Spotify chọn lựa bằng cả trái tim\. Ảnh bìa: Annie\. Thiết kế: Isu Kim
 
-[Spotify](https://open.spotify.com/user/spotify) - 24,540 likes - 50 songs - 2 hr 51 min
+[Spotify](https://open.spotify.com/user/spotify) - 24,542 likes - 50 songs - 2 hr 51 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX34s4fg4Zx3Z.md) - [plain]
 | 49 | [Phát Điên](https://open.spotify.com/track/1ySBiDLveJ7UV218OeAMNs) | [KhoaiTay](https://open.spotify.com/artist/38LYD17dWChNz4kp1KtknX) | [Phát Điên](https://open.spotify.com/album/1SZZoZX3NmuxNLU6Lwmiio) | 2:40 |
 | 50 | [MOBEATCAI](https://open.spotify.com/track/6AGuKbA12bfcGweiCt5wkz) | [Trịnh Khả Phiêu](https://open.spotify.com/artist/3cD7Ua1nX0ABWzH0VrV5ot), [LostlnSpace](https://open.spotify.com/artist/0mWkrLPvZdcTsU3VczWIHh) | [MOBEATCAI](https://open.spotify.com/album/0BSkLLSRuQR4PpSyTsu6j3) | 3:25 |
 
-Snapshot ID: `AAAAAKfAkXeWaeeqln/URo1wIj2/F9G7`
+Snapshot ID: `AAAAAJNcdy5wyygw7SleHPgw6qXvyu7p`

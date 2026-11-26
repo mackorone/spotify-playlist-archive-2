@@ -4,7 +4,7 @@
 
 > 👉 Free Pitch : audiartist.com \| Insta : stardust\_from\_sun \| Email : musiqueslibre2droit@gmail.com \| 🎸 Rock &\#x27;n Blues delivers Blues Rock, Classic Rock, Southern Rock, Hard Rock, R&amp;B &amp; Soul\. Soulful rhythms, timeless riffs, and electrifying energy\. Follow now and vibe with the best of rock and blues!
 
-903 songs - 2 day 8 hr 12 min
+906 songs - 2 day 8 hr 23 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -397,6 +397,7 @@
 | [Jim Beam Interlude](https://open.spotify.com/track/63ep6PgJWhx1D5kPrgGvC6) | [Kennon](https://open.spotify.com/artist/47zcpuymv5pP6Mdcf1OKA9) | [Jim Beam Interlude](https://open.spotify.com/album/4Fwi2mky3CowxhhGx2g3F3) | 2:40 | 2025-12-16 | 2026-04-21 |
 | [Joy](https://open.spotify.com/track/5ud498A0z25t615wY15rBb) | [The Fades](https://open.spotify.com/artist/58FnrTrMiP3T8lUjkbNZdZ) | [Joy](https://open.spotify.com/album/1p1BPkpelCCzk7gD9aLZtT) | 2:32 | 2026-06-18 | 2026-07-12 |
 | [Juge Intérieur](https://open.spotify.com/track/0kaCY1PCDFVZ6X34ShqiM9) | [Slave To Sin](https://open.spotify.com/artist/7wj1eU7FmWZiBJqPziYtHl) | [Juge Intérieur](https://open.spotify.com/album/1vsDPffM48kqA5sUw9bOJm) | 3:18 | 2026-04-30 | 2026-05-26 |
+| [JUST A F\*CKING JERK](https://open.spotify.com/track/1bDEJ36UrsLxJN4QcEdoK3) | [Sun Riot](https://open.spotify.com/artist/794su3T7gFAJoGNXF3ZxS6) | [JUST A F\*CKING JERK](https://open.spotify.com/album/6XrcVv03gbVns5HrZgTLyE) | 3:17 | 2026-11-25 |  |
 | [Just Before Sunrise](https://open.spotify.com/track/3S3EBrid1z5Dsgj0NjHj77) | [Guest](https://open.spotify.com/artist/5F8rALP4C5MXmNeLgOtJ0t) | [See the Sun](https://open.spotify.com/album/6ezu2PIyB2NK6twZUcJzTs) | 2:38 | 2025-09-21 | 2025-11-28 |
 | [Just Give Me A Call](https://open.spotify.com/track/2aWedzFK5OhL3crTShtzg6) | [Upwood Avenue](https://open.spotify.com/artist/6vxgfCzu5GGJWOfARnonrI) | [Just Give Me A Call](https://open.spotify.com/album/2XOfRnvKfMxNV9lHiA1XCy) | 5:20 | 2025-09-28 | 2025-12-17 |
 | [Just Me and This Trans Am](https://open.spotify.com/track/17CDsz0QLtgXzdpdOZVBCT) | [The Blacktop Bandits](https://open.spotify.com/artist/4by5whOHavPyqKYPSbF0zK) | [Six Days and A Single Dime](https://open.spotify.com/album/4310R5du1lBvnARr5VcIGX) | 3:35 | 2026-04-26 | 2026-05-26 |
@@ -538,6 +539,7 @@
 | [No Quit Son](https://open.spotify.com/track/0w6hPcUBWSsKHb8W9RAaWZ) | [John DeRosa](https://open.spotify.com/artist/1tnHPbA944rAQOgmtz4Mmt) | [No Quit Son](https://open.spotify.com/album/64yremFOO5v7Gtp2JE34wk) | 4:20 | 2026-10-03 |  |
 | [No Time for Time](https://open.spotify.com/track/4XESNRQzbdf03VrqVlIxnG) | [Highway Wolf](https://open.spotify.com/artist/6WKdYl11XpIoIGJCV6AeXE) | [No Time for Time](https://open.spotify.com/album/4SA2hbZm7r4poKfHHhraP3) | 5:54 | 2026-03-22 | 2026-04-21 |
 | [Not Giving In](https://open.spotify.com/track/5LnDGWm6yvbYUnoL6oVcdk) | [Ludwig Jonsson](https://open.spotify.com/artist/6pWJeM6v6cLKjblDNWYNdx) | [Not Giving In](https://open.spotify.com/album/0mY4ByCfrVvMUaBgJMZPwr) | 2:34 | 2025-11-12 | 2025-12-17 |
+| [Not Today](https://open.spotify.com/track/7FPxw1X44pMBZ6CA1EtQ7w) | [Thomas David Lula](https://open.spotify.com/artist/13muOgWtKxlJyjm4iGs36k) | [Not Today](https://open.spotify.com/album/10DZhw1fsw5opDCES8aj2i) | 5:11 | 2026-11-25 |  |
 | [NOW AND THEN](https://open.spotify.com/track/0AXW91Bnp70uE8O0wyeqGk) | [Elisa Cano Elgarresta](https://open.spotify.com/artist/5GTjjKh3r1rV78HsZ2wFB6) | [NOW AND THEN](https://open.spotify.com/album/51igHu0IiPb0HIWutsqHzX) | 2:42 | 2026-06-29 | 2026-07-12 |
 | [Nowhere](https://open.spotify.com/track/4C3UhidYKXi9xtImKtIOQ0) | [Evocrafted](https://open.spotify.com/artist/457flXJV5U0ynJI1odPwSh) | [Nowhere](https://open.spotify.com/album/4DF5CGRXs4yRl1cAAY7lST) | 3:29 | 2026-02-09 | 2026-03-18 |
 | [Numbers \- New Mix 26](https://open.spotify.com/track/4JcxaiREcccj1EaWW4gCOD) | [The Insomnia Night](https://open.spotify.com/artist/1kf6je9RrHLLxg5ocFLVbD) | [Numbers \(New Mix 26\)](https://open.spotify.com/album/3WZkE6XZ6xwjWIp3Xpcvbf) | 4:34 | 2026-07-13 | 2026-08-01 |
@@ -569,6 +571,7 @@
 | [Ordinary Man](https://open.spotify.com/track/2wFieyyXVumeUtn5qdHx61) | [June 101](https://open.spotify.com/artist/0sBu7gZlzCSq0wsCqTojcD) | [Collection, Vol\. 1](https://open.spotify.com/album/5ZgOo1hRPzctZbsf83ngpT) | 4:06 | 2025-11-25 | 2025-12-17 |
 | [Our Love](https://open.spotify.com/track/1W3rQrOQ0XIvl8rocKzKrm) | [Storm](https://open.spotify.com/artist/54xkUQxKSduHJ1BBJuoMdv) | [Our Love](https://open.spotify.com/album/6ILB3gI3zCsFBX5oAePHcF) | 3:13 | 2026-10-18 |  |
 | [Ouroboros](https://open.spotify.com/track/23w8U7ujIWpdMlRYazgl1F) | [Synthetic Broadcast](https://open.spotify.com/artist/16H0ape8xiGKFnqUoU6AWQ) | [Reverie](https://open.spotify.com/album/5c7IszYceIopxhjpZGSIKL) | 2:56 | 2025-11-23 | 2025-12-17 |
+| [Out My Mind In '26](https://open.spotify.com/track/1kaHjw7aaWDBahHIokXFSn) | [The K.I.J Experience](https://open.spotify.com/artist/67HdfJ5atBe2crSt6ohfWB) | [Out My Mind In '26](https://open.spotify.com/album/5reN5MajXhXHax0gwUcP5s) | 2:26 | 2026-11-25 |  |
 | [Out Of My Head](https://open.spotify.com/track/5RNcdKmLjCdJYyltfkJkhv) | [Alex Tokarev](https://open.spotify.com/artist/5kYgsMU5N1w5IaBJyGisZs) | [Out Of My Head](https://open.spotify.com/album/3lsQEPVmrgV0r7pCYL62j5) | 2:45 | 2025-11-28 | 2025-12-17 |
 | [Out of My Mind](https://open.spotify.com/track/1sv5wWAbgZ4g9VJbW70nHO) | [THE ROCKERS HORIZON](https://open.spotify.com/artist/7vELOY3m3aOCPTFG94ZDBY) | [Out of My Mind](https://open.spotify.com/album/6t39GOgLoDIun7BCryKrnW) | 4:32 | 2026-10-10 |  |
 | [Outlaw Skirt](https://open.spotify.com/track/4XJvokji3XG9cUZKeySQ2W) | [The Twinpims](https://open.spotify.com/artist/6UrRv5Q70wkn1urhQBqItL) | [Outlaw Skirt](https://open.spotify.com/album/5BDmrCwm1kQCo46Rsrmmq7) | 2:43 | 2026-05-07 | 2026-05-26 |

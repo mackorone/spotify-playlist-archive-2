@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaUDcU6KDCj4.md) - [plain]
 
 > Hear what's new in folk, roots & indie singer\-songwriter\. Cover: Devon Gilfillian & Allison Russell
 
-[Spotify](https://open.spotify.com/user/spotify) - 886,315 likes - 174 songs - 10 hr 39 min
+[Spotify](https://open.spotify.com/user/spotify) - 886,292 likes - 174 songs - 10 hr 39 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -183,4 +183,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaUDcU6KDCj4.md) - [plain]
 | 173 | [My First Time](https://open.spotify.com/track/41eSXYnHiAkD7PKCprJDsa) | [Sydney Rose](https://open.spotify.com/artist/5vx4pDmiFDyKMhuOIgpiRv) | [My First Time](https://open.spotify.com/album/7CjKtY2iqbhFHpfE993MxP) | 3:42 |
 | 174 | [Josefine](https://open.spotify.com/track/605aCrKqtIRcpsW04ULHiZ) | [Azure Ryder](https://open.spotify.com/artist/5RTpt7F1M8N8w1JlnDBeH8) | [Even Flowers Can Bruise](https://open.spotify.com/album/3Cs3qMsNAhXCjrc7laYKqs) | 3:52 |
 
-Snapshot ID: `AAAAADTStaExzfLz0QPkn2pRl2PiZObj`
+Snapshot ID: `AAAAAOgJkQkmHxVA3ikO64QxauiF7yb8`

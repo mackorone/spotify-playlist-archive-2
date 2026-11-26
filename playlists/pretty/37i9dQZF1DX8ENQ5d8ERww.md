@@ -4,14 +4,14 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8ENQ5d8ERww.md) - [plain]
 
 > Playlist Takeover by Bligg!
 
-[Spotify](https://open.spotify.com/user/spotify) - 13,839 likes - 49 songs - 3 hr 21 min
+[Spotify](https://open.spotify.com/user/spotify) - 13,841 likes - 49 songs - 3 hr 21 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [Volksmusigg](https://open.spotify.com/track/02KgHICcDaWxVJSPUZJRFx) | [Bligg](https://open.spotify.com/artist/1q4LHoD7IzquqGQR4YZRQr) | [Yves Spink](https://open.spotify.com/album/3S7Qw0xES3XbcAXRZRfWRo) | 3:26 |
 | 2 | [Stärne](https://open.spotify.com/track/38yEl7W2oSadApIpDIwSKX) | [Manillio](https://open.spotify.com/artist/7uxtLjuqkJ3cnjQQuW6Cul) | [Jede Tag Superstar](https://open.spotify.com/album/2CMJp148PeeikwZvkCu1q5) | 4:02 |
-| 3 | [Noochbrand](https://open.spotify.com/track/2WKldSa835nWGsXe0QMAKd) | [Brandhärd](https://open.spotify.com/artist/3H4Lewhv1ThuWvqzOcnJQ4) | [Noochbrand](https://open.spotify.com/album/3594OhXuEQ7jFNCvRjKr25) | 4:09 |
-| 4 | [I han](https://open.spotify.com/track/4WNltXQt68fQVJnCuzfsz1) | [Sektion Kuchikäschtli](https://open.spotify.com/artist/4KURgfv2oCG5QwwyWENs2C) | [Nur So Am Rand \(Remastered\)](https://open.spotify.com/album/4rCvshzK56R0wQTK39Nrd8) | 3:28 |
+| 3 | [I han](https://open.spotify.com/track/4WNltXQt68fQVJnCuzfsz1) | [Sektion Kuchikäschtli](https://open.spotify.com/artist/4KURgfv2oCG5QwwyWENs2C) | [Nur So Am Rand \(Remastered\)](https://open.spotify.com/album/4rCvshzK56R0wQTK39Nrd8) | 3:28 |
+| 4 | [Noochbrand](https://open.spotify.com/track/2WKldSa835nWGsXe0QMAKd) | [Brandhärd](https://open.spotify.com/artist/3H4Lewhv1ThuWvqzOcnJQ4) | [Noochbrand](https://open.spotify.com/album/3594OhXuEQ7jFNCvRjKr25) | 4:09 |
 | 5 | [Für 1 hets Immer no glangt](https://open.spotify.com/track/7hb9E5NNeqkr60r8QxtrlR) | [Breitbild](https://open.spotify.com/artist/07h2T3RrXQzYW5YpQnXd8U) | [Legenda](https://open.spotify.com/album/6eBJisPt7283GEfYj8hKFL) | 3:43 |
 | 6 | [I de Schwiiz](https://open.spotify.com/track/0HG4ApJ5c6xTjNwIoG5rpm) | [Skor](https://open.spotify.com/artist/5f9SQX0dJ18VjczJgWobNt) | [Und Nachteil](https://open.spotify.com/album/1yj7QUrcOSpHhig4K5195M) | 5:37 |
 | 7 | [Häng id Luft](https://open.spotify.com/track/3tbOiz88LovKjZqipeXuAW) | [Wurzel 5](https://open.spotify.com/artist/735iLNwRvdc39OXIbF9W4K) | [Jugendsündä](https://open.spotify.com/album/4q5YmayzH2WlOJnMd1U7kj) | 3:34 |
@@ -25,8 +25,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8ENQ5d8ERww.md) - [plain]
 | 15 | [Alles scho mal ghört \(feat\. Emel\)](https://open.spotify.com/track/7aPKPEl45O138MeAqC38c0) | [Bligg](https://open.spotify.com/artist/1q4LHoD7IzquqGQR4YZRQr), [EMEL](https://open.spotify.com/artist/19aI5CNRhoBG9ZvPBPU3Q2) | [Normal \(Deluxe Edition\)](https://open.spotify.com/album/08IevNCyhVvlIxarANOlju) | 4:14 |
 | 16 | [Aus](https://open.spotify.com/track/4cTrxrkes5tORn4sWmKIB8) | [Baze](https://open.spotify.com/artist/0EWsAmk51sjDlGl7PsvqcH) | [Item](https://open.spotify.com/album/1Amn8s0K5XHm1W45epCLWV) | 3:39 |
 | 17 | [Laisse toi aller](https://open.spotify.com/track/3ETw4A4TaobwdtHgKcciFd) | [Sens Unik](https://open.spotify.com/artist/4NJQiZfOszzd9O6z2gR8hS) | [Chromatic](https://open.spotify.com/album/68MQixtX0z4rMf0QqKYIzB) | 4:46 |
-| 18 | [Annabelle](https://open.spotify.com/track/77GjjpNE6wNhac8fwTTYud) | [Steff la Cheffe](https://open.spotify.com/artist/0Wz7fR8K35NKtz7of2BdIU) | [Bittersüessi Pille](https://open.spotify.com/album/4lD6FRCcEBVlGaGtjUGeUU) | 3:36 |
-| 19 | [Mais oú? \- Single Version](https://open.spotify.com/track/0qUmNpkiDGKyGkgcmqOEGK) | [Stress](https://open.spotify.com/artist/2piHSX9fKmsCD8tbfX1cJg) | [Renaissance](https://open.spotify.com/album/1Y5AZWjEWt1XQgzt3f2976) | 4:13 |
+| 18 | [Mais oú? \- Single Version](https://open.spotify.com/track/0qUmNpkiDGKyGkgcmqOEGK) | [Stress](https://open.spotify.com/artist/2piHSX9fKmsCD8tbfX1cJg) | [Renaissance](https://open.spotify.com/album/1Y5AZWjEWt1XQgzt3f2976) | 4:13 |
+| 19 | [Annabelle](https://open.spotify.com/track/77GjjpNE6wNhac8fwTTYud) | [Steff la Cheffe](https://open.spotify.com/artist/0Wz7fR8K35NKtz7of2BdIU) | [Bittersüessi Pille](https://open.spotify.com/album/4lD6FRCcEBVlGaGtjUGeUU) | 3:36 |
 | 20 | [Glasmönsch](https://open.spotify.com/track/0GfZ8xC6eDB0OyeC3vipjn) | [Tommy Vercetti](https://open.spotify.com/artist/26ZoEX0BLjUNba2ED2JyP3), [Dezmond Dez](https://open.spotify.com/artist/24NMjXIq47JuymBZ5AVlLD) | [Glanton Gang](https://open.spotify.com/album/0kiaJgxcPFBCRx7AilxSef) | 4:53 |
 | 21 | [Schwiizchaschte](https://open.spotify.com/track/5Gnn8npKzj9KRhDTy4hgtN) | [Wurzel 5](https://open.spotify.com/artist/735iLNwRvdc39OXIbF9W4K), [Luut und Tüütli](https://open.spotify.com/artist/77hbpDymWqmhlv7H2Mlrbu) | [Verdächtig](https://open.spotify.com/album/3VssVyEuKRopiVCwQZGy7m) | 4:46 |
 | 22 | [8i Bahnhof](https://open.spotify.com/track/1L8n2efxLsPqDWh2PHLc6s) | [TAFS](https://open.spotify.com/artist/390pqY5ZYgVMcSVQDsOJRS) | [8i Bahnhof](https://open.spotify.com/album/53nhR2JauB25narZk2hvED) | 4:04 |
@@ -44,8 +44,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8ENQ5d8ERww.md) - [plain]
 | 34 | [Wänn](https://open.spotify.com/track/7G8YSQkUa5BOH1EDUVcPZ3) | [Bligg'N'Lexx](https://open.spotify.com/artist/2YTqyRWexXW6jaGClLdCiK) | [Nahdisnah](https://open.spotify.com/album/6RRQcMVBLhYLGxGXIMhjj4) | 3:27 |
 | 35 | [Du Hesch Ke](https://open.spotify.com/track/6AxLcMZFBLbBd5Hqvp7zdt) | [Webba](https://open.spotify.com/artist/017QhuKZfqKAxJHG2ZmolS), [Baze](https://open.spotify.com/artist/0EWsAmk51sjDlGl7PsvqcH) | [Deheim?](https://open.spotify.com/album/3TTzTj4qNDBe5FpnsLyjzZ) | 4:32 |
 | 36 | [Jede Tag'n Gleiser](https://open.spotify.com/track/6fJJDogk53KAtqzeeoVhps) | [Gleiszwei](https://open.spotify.com/artist/3NjptE7Yo7b2aruvzkCHpr) | [Jede Tag'n Gleiser](https://open.spotify.com/album/36TdZUObvdhSonV6NGNPQa) | 4:22 |
-| 37 | [Brugg](https://open.spotify.com/track/1HjO1qlADcfS0B11LNMmww) | [Taz](https://open.spotify.com/artist/2aKdREOO8umyTjMapXmKbS) | [Introspektion](https://open.spotify.com/album/21S84n0cOoQmfDVUyD8TrO) | 4:11 |
-| 38 | [Hip Hop Kultur \(feat\. Black Tiger & Skelt!\)](https://open.spotify.com/track/1FuozMI3cN9K7eZUoaYl5a) | [AOH Family](https://open.spotify.com/artist/6J8clSIX1gKyknptGxlAct), [Black Tiger](https://open.spotify.com/artist/4okygcKGLIMASoQNIldJWZ), [Skelt!](https://open.spotify.com/artist/72mwhpTF4TBBZo0erVXELM) | [Chill](https://open.spotify.com/album/2f5D1RmL2eg6iWFZPjPBxF) | 4:08 |
+| 37 | [Hip Hop Kultur \(feat\. Black Tiger & Skelt!\)](https://open.spotify.com/track/1FuozMI3cN9K7eZUoaYl5a) | [AOH Family](https://open.spotify.com/artist/6J8clSIX1gKyknptGxlAct), [Black Tiger](https://open.spotify.com/artist/4okygcKGLIMASoQNIldJWZ), [Skelt!](https://open.spotify.com/artist/72mwhpTF4TBBZo0erVXELM) | [Chill](https://open.spotify.com/album/2f5D1RmL2eg6iWFZPjPBxF) | 4:08 |
+| 38 | [Brugg](https://open.spotify.com/track/1HjO1qlADcfS0B11LNMmww) | [Taz](https://open.spotify.com/artist/2aKdREOO8umyTjMapXmKbS) | [Introspektion](https://open.spotify.com/album/21S84n0cOoQmfDVUyD8TrO) | 4:11 |
 | 39 | [Du & Ich](https://open.spotify.com/track/5jAylcCbJaBKmRHgRUTxQC) | [Bligg'N'Lexx](https://open.spotify.com/artist/2YTqyRWexXW6jaGClLdCiK), [Pete Penicka](https://open.spotify.com/artist/2isO7oz1eaYNOlFJCUbWSN) | [Nahdisnah](https://open.spotify.com/album/6RRQcMVBLhYLGxGXIMhjj4) | 5:09 |
 | 40 | [Läbenslauf](https://open.spotify.com/track/3DdMYzqyIg7mXI47UTcNmN) | [Wrecked Mob](https://open.spotify.com/artist/0QIYFbo3qmvlapTnwPM6i3), [Dj Thomilla](https://open.spotify.com/artist/2WLE4ikok9I4HuBm9637rx) | [Läbenslauf](https://open.spotify.com/album/3hGDhRc16xd2dhfjLQsHZh) | 4:02 |
 | 41 | [Geballte Hip Hop](https://open.spotify.com/track/6LqQztJDvD5ogdiAaC7bGr) | [P\-27](https://open.spotify.com/artist/0iZYuDnS5bC4TkPV6qjfwZ), [MC Rony](https://open.spotify.com/artist/56Kjn0hNGTllLfRC0YHqrq) | [Dr einzig Wäg](https://open.spotify.com/album/6WMbMSXyaowPhQV5sXXAhE) | 3:50 |
@@ -58,4 +58,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8ENQ5d8ERww.md) - [plain]
 | 48 | [Beetown Dezibel \(feat\. LDeeP & Samurai\)](https://open.spotify.com/track/0ks6XbF8wiecG88jT4F1Oe) | [Kaiser](https://open.spotify.com/artist/7JbiFOh0wYpYJVfDX01rhC), [LDeep](https://open.spotify.com/artist/2Le7dOaOuETzbshaap0s5S), [Samurai](https://open.spotify.com/artist/2WnTVg6V0OWYGjomR0xugm) | [Beetown Beetz, Vol\. 1](https://open.spotify.com/album/5jtnTxD9F5VAESPajW3hGs) | 4:12 |
 | 49 | [En Teil vo mir](https://open.spotify.com/track/1ok24DhWBTymmV6yKtjqrp) | [Drüklang](https://open.spotify.com/artist/0YKRAbXe2J0esSXB4c6xbh) | [Z'fridä](https://open.spotify.com/album/1VRqmJrU4iZfSDjZWo5seU) | 4:10 |
 
-Snapshot ID: `AAAAAKYxnA1NEUHFMhMtLvnXEEwWJhke`
+Snapshot ID: `AAAAAE21fcINmYjWDBYzqpAjmxg7dwRO`

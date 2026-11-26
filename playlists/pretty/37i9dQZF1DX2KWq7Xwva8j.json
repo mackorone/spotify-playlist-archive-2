@@ -6,7 +6,7 @@
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAI/jrxKPwpx+f4xQFBkzXXt43Yal",
+  "snapshot_id": "AAAAAC52TaQ0uyMGDRXYl0vaEi3eqwvN",
   "tracks": [
     {
       "added_at": "2026-11-06 09:29:27",
@@ -223,8 +223,8 @@
     {
       "added_at": "2026-11-06 09:29:27",
       "album": {
-        "name": "El Hombre Planeta",
-        "url": "https://open.spotify.com/album/75WJJbM7cHUVEKBE9ofNx8"
+        "name": "Alcal\u00e1 Norte",
+        "url": "https://open.spotify.com/album/5WYizmVWxmqAlfL4FXmqKR"
       },
       "artists": [
         {
@@ -232,9 +232,9 @@
           "url": "https://open.spotify.com/artist/7raVfIwIqNjj5OGBbBQNDR"
         }
       ],
-      "duration_ms": 232255,
-      "name": "El Hombre Planeta",
-      "url": "https://open.spotify.com/track/6lAFH3RZ8ksjDrT2tITV4d"
+      "duration_ms": 210850,
+      "name": "La Calle Elfo",
+      "url": "https://open.spotify.com/track/0lxSWjuNF9jLkL41wgpTZy"
     },
     {
       "added_at": "2026-11-06 09:29:27",
@@ -311,8 +311,8 @@
     {
       "added_at": "2026-11-06 09:29:27",
       "album": {
-        "name": "Alcal\u00e1 Norte",
-        "url": "https://open.spotify.com/album/5WYizmVWxmqAlfL4FXmqKR"
+        "name": "El Hombre Planeta",
+        "url": "https://open.spotify.com/album/75WJJbM7cHUVEKBE9ofNx8"
       },
       "artists": [
         {
@@ -320,9 +320,9 @@
           "url": "https://open.spotify.com/artist/7raVfIwIqNjj5OGBbBQNDR"
         }
       ],
-      "duration_ms": 210850,
-      "name": "La Calle Elfo",
-      "url": "https://open.spotify.com/track/0lxSWjuNF9jLkL41wgpTZy"
+      "duration_ms": 232255,
+      "name": "El Hombre Planeta",
+      "url": "https://open.spotify.com/track/6lAFH3RZ8ksjDrT2tITV4d"
     },
     {
       "added_at": "2026-11-06 09:29:27",

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWY8wQ1UHaykc.md) - [plain]
 
 > Lagu\-lagu terpopuler dari dekade 2010an\. Cover: Once Mekel
 
-[Spotify](https://open.spotify.com/user/spotify) - 293,742 likes - 190 songs - 13 hr 0 min
+[Spotify](https://open.spotify.com/user/spotify) - 293,776 likes - 190 songs - 13 hr 0 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,7 +109,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWY8wQ1UHaykc.md) - [plain]
 | 99 | [Jagalah Bumi \- Theme from BoBoiBoy](https://open.spotify.com/track/0RrC5CXcqEBnIBzfSpqjTX) | [Kotak](https://open.spotify.com/artist/6oMp2cGzP3Bw86ssV7hjyu) | [Jagalah Bumi \(Theme from BoBoiBoy\)](https://open.spotify.com/album/230j6Xor4akHOqicAtj83V) | 2:29 |
 | 100 | [Sakit Jiwa](https://open.spotify.com/track/4WQjm8mZBt6kREAt6GkdK2) | [NTRL](https://open.spotify.com/artist/710Oh5ushpaeLgSIcbW8hI) | [11/12](https://open.spotify.com/album/7KScqTiLDVO1l4xwHV53Yy) | 2:10 |
 | 101 | [Selir Hati](https://open.spotify.com/track/44jm7VMs3gZlzZMnwa3Wt3) | [T.R.I.A.D](https://open.spotify.com/artist/3gp2fVD2tUwoq42eZ7DK3l) | [T.R.I.A.D](https://open.spotify.com/album/3wqDej8S1IdtRYUB8srUEY) | 4:04 |
-| 102 | [Sayang](https://open.spotify.com/track/1dDpZbX1MfvWNBqhJhvXgm) | [Supernova](https://open.spotify.com/artist/7kydkMNIMNhr7jDgeOQd4H) | [Bercahaya](https://open.spotify.com/album/7Bk0NnaNXmQHq4WKHy8kWK) | 3:54 |
+| 102 | [Sayang](https://open.spotify.com/track/1dDpZbX1MfvWNBqhJhvXgm) | [Supernova](https://open.spotify.com/artist/4V7P88vFtILpprsDYoFAB1) | [Bercahaya](https://open.spotify.com/album/7Bk0NnaNXmQHq4WKHy8kWK) | 3:54 |
 | 103 | [Akankah Dia](https://open.spotify.com/track/51naV719uEXPWGG90FlTKS) | [Sidepony](https://open.spotify.com/artist/0OqP950wV7lxctJvgF8Z2m) | [Percayalah](https://open.spotify.com/album/2hOmKUVGCiZi2QCFSNKTJ6) | 3:25 |
 | 104 | [Tanpa Cinta](https://open.spotify.com/track/2e4xYHvEtqSfl70ntZJMp2) | [Yovie & Nuno](https://open.spotify.com/artist/3DHOtJqv0Bw65ENlK4FiSF) | [Semua Tentang Cinta](https://open.spotify.com/album/7niZZvWmVMpCOx7eABTnch) | 4:16 |
 | 105 | [Bawalah Cintaku](https://open.spotify.com/track/0QZEPCT8uhyADw74umgwMT) | [Afgan](https://open.spotify.com/artist/4cgBCGxtlfap2g6jveB7du), [Sheila Majid](https://open.spotify.com/artist/6ccyDNcfDQR2yDbF3JV0xl) | [DEKADE](https://open.spotify.com/album/7tXSAdhvFo8k9HNE5dK9Ym) | 5:16 |
@@ -199,4 +199,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWY8wQ1UHaykc.md) - [plain]
 | 189 | [I Don't Care](https://open.spotify.com/track/5ilDbZZfx3PAIuPiyRHRuY) | [Rendy Pandugo](https://open.spotify.com/artist/04u3fc37nHFKN7GJTSIwI8) | [I Don't Care](https://open.spotify.com/album/3eg2siLGCzvQuT2iBIHmUE) | 4:08 |
 | 190 | [Aku Bukan Bang Toyib](https://open.spotify.com/track/2ZnMyljOhstLNMuzyGCnze) | [Wali](https://open.spotify.com/artist/5pnSNZZRyYViu2n58Zlw1J) | [Aku Bukan Bang Toyib](https://open.spotify.com/album/3tJ2FdfpXKoTJPPyXYEjZF) | 3:26 |
 
-Snapshot ID: `AAAAAEiIPgB/l+DlmLKYtsGTCXybZJsp`
+Snapshot ID: `AAAAAN8xU01Kz4Braa4RsHrT9jFfUGf+`

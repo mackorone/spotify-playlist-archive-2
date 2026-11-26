@@ -779,6 +779,28 @@
     },
     {
       "album": {
+        "name": "SCHOOLYARD UNDERDOG",
+        "url": "https://open.spotify.com/album/2mkocqj5zNy1BWQ2hm0JPA"
+      },
+      "artists": [
+        {
+          "name": "Fur:Trash",
+          "url": "https://open.spotify.com/artist/1jp7cmyHDn5nuP3MMSwm1m"
+        },
+        {
+          "name": "RavePuppy",
+          "url": "https://open.spotify.com/artist/6cPAGYmKP81QfU9CLPRHWJ"
+        }
+      ],
+      "date_added": "2026-11-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 245629,
+      "name": "AWOO",
+      "url": "https://open.spotify.com/track/13iiAgKF6nW3IGH0HlhCE2"
+    },
+    {
+      "album": {
         "name": "Ayleeyuns",
         "url": "https://open.spotify.com/album/52JfrqP4UKV7nqh1qyVqm5"
       },
@@ -4100,6 +4122,24 @@
       "duration_ms": 178773,
       "name": "Free Tonight",
       "url": "https://open.spotify.com/track/6Y0rTVgEHLbyv2LaFHMbHB"
+    },
+    {
+      "album": {
+        "name": "Thousand Knives",
+        "url": "https://open.spotify.com/album/4EBXOsHhpItBXEX6mHGgP4"
+      },
+      "artists": [
+        {
+          "name": "Mere Notilde",
+          "url": "https://open.spotify.com/artist/2d3wstlwe427Q7CamLXlpO"
+        }
+      ],
+      "date_added": "2026-11-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 155897,
+      "name": "Frequency",
+      "url": "https://open.spotify.com/track/0SHOCzd91grkQuEFZzLWmd"
     },
     {
       "album": {

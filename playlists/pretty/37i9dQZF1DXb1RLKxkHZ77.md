@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXb1RLKxkHZ77.md) - [plain]
 
 > Lagu\-lagu yang wajib ada dalam playlist\. Cover: Faizal Tahir
 
-[Spotify](https://open.spotify.com/user/spotify) - 344,076 likes - 50 songs - 3 hr 9 min
+[Spotify](https://open.spotify.com/user/spotify) - 344,020 likes - 50 songs - 3 hr 9 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXb1RLKxkHZ77.md) - [plain]
 | 49 | [Jiwa Yang Mengalah](https://open.spotify.com/track/5pqh7t3u55buLeYgE9eXgz) | [Bellestrelle](https://open.spotify.com/artist/0PI1yTew40WSJ35CpEDGxY), [Harry Azrul](https://open.spotify.com/artist/2N3qDpPJ5gdm2eC731yCk5) | [Jiwa Yang Mengalah](https://open.spotify.com/album/1qqs1JVX9tUPRN1Qrnklt5) | 2:14 |
 | 50 | [iqro'](https://open.spotify.com/track/2YRHj7X19faZv4WZZ3JnZq) | [Raim Laode](https://open.spotify.com/artist/5LcNPa8f8bRmZqELgoRFkN) | [Iqro'](https://open.spotify.com/album/60e4PvVMY5S565Rt56dzHs) | 3:54 |
 
-Snapshot ID: `AAAAALikqEAV/uVk12KoNQ7Xvr21VFOM`
+Snapshot ID: `AAAAALZjSTA7tmXavOaKO4kLdw+90/zO`

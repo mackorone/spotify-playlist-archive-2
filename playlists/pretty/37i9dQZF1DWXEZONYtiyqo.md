@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXEZONYtiyqo.md) - [plain]
 
 > Cele mai noi hituri pop românești\. Cover: Irina Rimes
 
-[Spotify](https://open.spotify.com/user/spotify) - 66,457 likes - 50 songs - 2 hr 29 min
+[Spotify](https://open.spotify.com/user/spotify) - 66,469 likes - 50 songs - 2 hr 29 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXEZONYtiyqo.md) - [plain]
 | 49 | [Nu se va mai repeta](https://open.spotify.com/track/0zIvHxLp2tmLqIX9cMNdfP) | [Amna](https://open.spotify.com/artist/4yjYHvJbZFQ7sESuV9t3uQ) | [Nu se va mai repeta](https://open.spotify.com/album/7Bltzdl6RsiHdcXt96e7DY) | 2:36 |
 | 50 | [Alexandra](https://open.spotify.com/track/1vAw6gF5luHa2mPNVwtzm4) | [ADDA](https://open.spotify.com/artist/1lYjAYTw1QBVxIwVrZ1eTy) | [Alexandra](https://open.spotify.com/album/1iYZiOIlT8lwvmrfDdPVUq) | 3:02 |
 
-Snapshot ID: `AAAAAK+wrFAC4Xal6ol7S/HUjnge2Rgn`
+Snapshot ID: `AAAAAEgBbZq1djhDl85OYmYr17LoJX7c`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3crNbt46mRU.md) - [plain]
 
 > This week's top new releases, including Dua Lipa, Sido, Helene Fischer, Monet192, GIMS & many more!
 
-[Spotify](https://open.spotify.com/user/spotify) - 55,481 likes - 93 songs - 4 hr 34 min
+[Spotify](https://open.spotify.com/user/spotify) - 55,473 likes - 93 songs - 4 hr 34 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -21,7 +21,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3crNbt46mRU.md) - [plain]
 | 11 | [Tut mir leid \(feat\. Mucco\)](https://open.spotify.com/track/7Lk3oCxmZ6afsxkMARZcdi) | [Kauta](https://open.spotify.com/artist/706cem551IzKiczuAQIEDw), [Mucco](https://open.spotify.com/artist/0AfMiUTAbsDPQSCXmBva4y) | [Tut mir leid \(feat\. Mucco\)](https://open.spotify.com/album/7aXihUybDaD030LOsS3NXD) | 2:39 |
 | 12 | [Ruhe vor dem Sturm](https://open.spotify.com/track/46jNF7UgPJDibuUzRrkjbJ) | [Chapo102](https://open.spotify.com/artist/36caCzfSrrL7a8Mvd1SuRr) | [Ruhe vor dem Sturm](https://open.spotify.com/album/1werthvkqKZgfaeoENyTUb) | 3:33 |
 | 13 | [Promises](https://open.spotify.com/track/2XFRcchBUPCzNi613DWMaq) | [Niklas Dee](https://open.spotify.com/artist/1ZPGzmbFTn8GRjqTqnLiFE) | [Promises](https://open.spotify.com/album/5RM0HIHjiMaOPwCDpK3dKm) | 2:25 |
-| 14 | [OC�AN DE PROBL�MES](https://open.spotify.com/track/5dIeUtbhqDLrT61OmVis32) | [Ninho](https://open.spotify.com/artist/6Te49r3A6f5BiIgBRxH7FH) | [M.I.L.S 4 \(Deluxe Edition\)](https://open.spotify.com/album/2dYzdvprtQxTjRERTd4XsD) | 3:22 |
+| 14 | [OCÉAN DE PROBLÈMES](https://open.spotify.com/track/5dIeUtbhqDLrT61OmVis32) | [Ninho](https://open.spotify.com/artist/6Te49r3A6f5BiIgBRxH7FH) | [M.I.L.S 4 \(Deluxe Edition\)](https://open.spotify.com/album/2dYzdvprtQxTjRERTd4XsD) | 3:22 |
 | 15 | [The Question](https://open.spotify.com/track/50RGJ5taeuSpuazkXtsHyU) | [Mary Middlefield](https://open.spotify.com/artist/4AHdi9slY1QQdgFXRFUUIs) | [The Question](https://open.spotify.com/album/6zsq8K8QnXFagaTq5Oytwv) | 4:14 |
 | 16 | [A PLACE TO GO](https://open.spotify.com/track/1sCi4rGpZTqajyJufnrbhb) | [The Kid LAROI](https://open.spotify.com/artist/2tIP7SsRs7vjIcLrU85W8J) | [A PLACE TO GO](https://open.spotify.com/album/5DievKzmlCMzHlE2mqB68S) | 3:32 |
 | 17 | [Spinello](https://open.spotify.com/track/6GYj5j3wGUvbFmxI5sFv0c) | [LieVin](https://open.spotify.com/artist/4bCEw9lXrhxvEZQHxD8tJU) | [Spinello](https://open.spotify.com/album/1V7tv8X3yjWOXIfS2jurXe) | 1:29 |
@@ -102,4 +102,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3crNbt46mRU.md) - [plain]
 | 92 | [suka freestyle](https://open.spotify.com/track/0PUiplXQSmhnFel7nMVhs7) | [cherice](https://open.spotify.com/artist/3hdHRmL8PsniFkBS3WwuA7) | [suka freestyle](https://open.spotify.com/album/3a3tUDUVoukOEmaWYQjOMC) | 2:12 |
 | 93 | [Back To Me](https://open.spotify.com/track/5uvjVYv3FKBNnGkR8mnHws) | [Naïka](https://open.spotify.com/artist/4tk2WUKBOS9nKZj7bPQIXT) | [Back To Me](https://open.spotify.com/album/16dAtPh8XVKMbfiLcgZyiq) | 3:05 |
 
-Snapshot ID: `AAAAAHLzKwpjVG+NZ3/xyhFgNVhPDr2w`
+Snapshot ID: `AAAAAF67Kh2dmLHx89QTTeC4NRUOHCMn`

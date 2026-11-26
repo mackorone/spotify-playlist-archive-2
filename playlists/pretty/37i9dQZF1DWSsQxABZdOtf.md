@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSsQxABZdOtf.md) - [plain]
 
 > <a href="spotify:artist:3L2tOP2vRYfjXVW4W1tKEJ">Nina Las Vegas'</a> favourite tracks\. Updated regularly\. Curated by Nina Las Vegas\. More track IDs <a href="spotify:genre:track\_id">here</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 24,285 likes - 69 songs - 4 hr 10 min
+[Spotify](https://open.spotify.com/user/spotify) - 24,291 likes - 69 songs - 4 hr 10 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -78,4 +78,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSsQxABZdOtf.md) - [plain]
 | 68 | [Beat Bunny](https://open.spotify.com/track/03aGl91oeW7EZolJTFFNlM) | [Povoa](https://open.spotify.com/artist/6K3ZMm8QvrVvEds0ZjKrwC), [Madge](https://open.spotify.com/artist/2StukZYqvy5IZmVestMrWo) | [Beat Bunny](https://open.spotify.com/album/4918fSnTl2rA30dykzTrXG) | 3:14 |
 | 69 | [Immaterial](https://open.spotify.com/track/6GoLARmR2OZl2EldehFrsA) | [SOPHIE](https://open.spotify.com/artist/5a2w2tgpLwv26BYJf2qYwu) | [OIL OF EVERY PEARL'S UN\-INSIDES](https://open.spotify.com/album/4z3YbEkKWwiIMSJTWUQbTH) | 3:52 |
 
-Snapshot ID: `AAAAAEzt8dC8xOcp/1CC+pj9SyefHD8v`
+Snapshot ID: `AAAAAC5dkfI0QlL7Zn+Bj6p0yIg/WxQx`

@@ -4,7 +4,7 @@
 
 > Spotifyが注目する、J\-Hip Hopの「その先」を担うフレッシュなアーティスト。Cover: AI jacky
 
-2,145 songs - 4 day 1 hr 6 min
+2,146 songs - 4 day 1 hr 9 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -1952,6 +1952,7 @@
 | [Youth](https://open.spotify.com/track/5cacwNDm744DRT4ja7je6t) | [Ole](https://open.spotify.com/artist/7m9yK07LzbtyQCfhtNkUEd), [ggoyle](https://open.spotify.com/artist/1aZM18HplOP2ZfNIcRT9NM) | [PSP4000](https://open.spotify.com/album/10Z9oRfsym5hoPSOofIxw0) | 2:16 | 2024-02-13 | 2024-03-27 |
 | [Youtuber \(feat\. Siero\)](https://open.spotify.com/track/1o0CoeLEgfSGJCfTJ3gdob) | [warm](https://open.spotify.com/artist/4zsp1C2SlBpikyF3W124m2), [Siero](https://open.spotify.com/artist/6mKmlCpX0G439EH9lvFD6r) | [double](https://open.spotify.com/album/09kuBCt1aRnUA4IDZX3xLw) | 1:55 | 2026-08-18 | 2026-09-30 |
 | [YOYU \(feat\. N.i.L\)](https://open.spotify.com/track/2Xz6e530NFdiWrgDgRAQNl) | [Henny K](https://open.spotify.com/artist/5kHlhiDhgmsqZldMC6hPoL), [N.i.L](https://open.spotify.com/artist/3ztRYxZ6IKW7xXpobGus7o) | [REBOOT](https://open.spotify.com/album/0d6kepG8MA1sr40p1HbQQZ) | 2:16 | 2025-11-18 | 2026-01-21 |
+| [YSL](https://open.spotify.com/track/1syEdeohNZ2utUnx3qRGoB) | [Chxef You](https://open.spotify.com/artist/30oeyH05axPz4P7Yi7HTXH), [esca](https://open.spotify.com/artist/3wz5kv7lmXy72wJdV6m7Kk), [Ghostsound](https://open.spotify.com/artist/3MNsFAAMXgO0yo3l16cABv) | [YSL](https://open.spotify.com/album/7IUeUQ9Y7r4Iz1LViOlYQ8) | 3:33 | 2026-11-24 |  |
 | [YUKI](https://open.spotify.com/track/5KjyspvAkdJu7YwcV1Fz6f) | [ORCO](https://open.spotify.com/artist/6nofUffzNKs9FFeO6oYeZn), [BHS Svve](https://open.spotify.com/artist/6uFfH7ZHSnHMXjNCgpIWb2) | [YUKI](https://open.spotify.com/album/3kVh6iJsBiSex81wQvgJc2) | 3:12 | 2025-06-03 | 2025-09-10 |
 | [Yung Lil Face](https://open.spotify.com/track/2MZLM5bhNCz2JPqcGjg2vQ) | [11](https://open.spotify.com/artist/07hIPEXm3FKpcfsFEvZnMa) | [Yung Lil Face](https://open.spotify.com/album/5GWqWlzSxyfSQDobIzzU4y) | 2:24 | 2026-04-15 | 2026-06-10 |
 | [yuragi](https://open.spotify.com/track/5mUq3kF8rvVa0TnlDIloKT) | [aliswa](https://open.spotify.com/artist/5T2EcR9QwpgmaBjWIPImbS) | [hear heart](https://open.spotify.com/album/03o10nOLK3C7bSWjxXjLxf) | 2:15 | 2026-11-10 | 2026-11-18 |

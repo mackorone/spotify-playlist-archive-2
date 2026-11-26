@@ -2,9 +2,9 @@
 
 ### [All New K\-Pop \(국내 최신 가요\)](https://open.spotify.com/playlist/37i9dQZF1DXe5W6diBL5N4)
 
-> Enjoy the freshest K\-Pop new releases \(Cover: ENHYPEN\) \(국내 최신곡을 플레이리스트로 만나보세요!\)
+> Enjoy the freshest K\-Pop new releases \(Cover: HYUKOH\) \(국내 최신곡을 플레이리스트로 만나보세요!\)
 
-17,153 songs - 40 day 15 hr 15 min
+17,159 songs - 40 day 15 hr 38 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -5402,6 +5402,7 @@
 | [Greatest Moment](https://open.spotify.com/track/0AU3XZ0sL55ooBVpwxOhub) | [SEO EUNKWANG](https://open.spotify.com/artist/6Uug3azJYNwnLkO82CTTY2) | [UNFOLD](https://open.spotify.com/album/5ifjUzy1LkJJAKqVSPfcsk) | 4:24 | 2025-12-04 | 2025-12-16 |
 | [Greed](https://open.spotify.com/track/5b4MStAcBZ1gSyFhH4rBjw) | [JEONAIN](https://open.spotify.com/artist/1dvhwpnbP8XvRpgu9amuNm) | [Greed](https://open.spotify.com/album/6C70EMld9apWGYjMVvyZcb) | 3:34 | 2024-11-08 | 2024-11-30 |
 | [Greed](https://open.spotify.com/track/5CJAnfkRgb5WW5pmBpM66n) | [Youth Like A Dream](https://open.spotify.com/artist/0O07UU1GecVRKrnl2tviPy) | [Greed](https://open.spotify.com/album/2azZobJFHfcj08PMvtLb5L) | 4:30 | 2022-09-16 | 2022-11-07 |
+| [Greedy](https://open.spotify.com/track/0kuPmVL9vCBAnH14lzgNKp) | [KISS OF LIFE](https://open.spotify.com/artist/4TEK9tIkcoxib4GxT3O4ky) | [Greedy](https://open.spotify.com/album/4Z6X9aIZrb8YHARjEbl4NY) | 3:16 | 2026-11-25 |  |
 | [GREEN](https://open.spotify.com/track/0E78xEfOiJqGU4VyT28qLM) | [Jang HeeWon](https://open.spotify.com/artist/1nISeMejedvyK4XXRacYAH) | [GREEN](https://open.spotify.com/album/03BNPofhPGvUBXznOpBvcj) | 3:04 | 2023-02-23 | 2023-03-28 |
 | [GREEN](https://open.spotify.com/track/3gpLvfmxRFV7HjnC4iQPFb) | [Jang Soo Bin](https://open.spotify.com/artist/5f1qpcqhDl49v5gKln3zl2) | [GREEN](https://open.spotify.com/album/4V2QOe9G0YV5vXLHfY6b7J) | 2:54 | 2022-08-11 | 2022-08-20 |
 | [Green \(feat\. Sonny Zero\) \- Korean Version](https://open.spotify.com/track/2mg7e1agZxXUaFHfkejgul) | [Dept](https://open.spotify.com/artist/48JtfAggQQpfUXQNxkGm5U), [Sonny Zero](https://open.spotify.com/artist/40X7tXw4Tk4m5WFDfGJnZe) | [Green \(Korean Version\)](https://open.spotify.com/album/6pHyGhqsTeSu7EXQB32bAw) | 2:53 | 2025-06-18 | 2025-06-30 |
@@ -8773,6 +8774,7 @@
 | [MAGIC](https://open.spotify.com/track/6OhYnnNVRvLRBy580Wit9k) | [Park kang hyun](https://open.spotify.com/artist/6GuseRhHqcubzIgtBob2Pk) | [Music Collaboration\-MAGIC](https://open.spotify.com/album/6CR946phNnK0cI2Qnw4L1O) | 3:10 | 2023-12-13 | 2023-12-22 |
 | [Magic](https://open.spotify.com/track/7Hp8f6PxEMzkqhFVk0x8ZY) | [Song Youjin](https://open.spotify.com/artist/7JKgGjif8BU0vvMmbj2cga) | [Once Upon a Small Town \(Original Television Soundtrack\), Pt.4](https://open.spotify.com/album/1QRTkrPJx7eseWzZXPamIa) | 3:24 | 2022-09-27 | 2022-11-07 |
 | [MAGIC \(feat\. Blue.D\)](https://open.spotify.com/track/1vOuJ3hPxqh9Nr74K5JH7B) | [OHDAMRYUL](https://open.spotify.com/artist/5DRgmwlZtxrLEs3zxDgSxi), [Blue.D](https://open.spotify.com/artist/0rK0ZPLX4fKnFSbqs6gYfY) | [KARAOKE](https://open.spotify.com/album/6bSAUNLdSdY7nDBY4L0sbv) | 2:48 | 2025-04-24 | 2025-05-06 |
+| [Magic \- From "Hexed"/Korean Single Version](https://open.spotify.com/track/5F4jHplEDoigl1aGuBQMCb) | [RESCENE](https://open.spotify.com/artist/5deOsjuFTKrNMJW3rKuL8S) | [Magic](https://open.spotify.com/album/7epFU2M4r6gD6x0UhmJJMn) | 3:47 | 2026-11-25 |  |
 | [Magic Breeze](https://open.spotify.com/track/0Sa0CeVBtqcruZn9PClXxw) | [entoy](https://open.spotify.com/artist/25OMfKk5AnZxUdzwDy3bOj), [by me](https://open.spotify.com/artist/5NCoAzjDojFdCnCPwYadWM) | [Magic Breeze](https://open.spotify.com/album/3nRO9sUvqZBOnVi7BULWtD) | 2:25 | 2025-05-27 | 2025-06-09 |
 | [Magic Hour](https://open.spotify.com/track/3Q7KFhXHpvA2Cng1IAAxRT) | [Hawoong](https://open.spotify.com/artist/57saO8Z8WQgBNCfhRc1i3G) | [Magic Hour](https://open.spotify.com/album/0EblWE350gOOZj2Py881kb) | 3:05 | 2024-06-10 | 2024-06-20 |
 | [Magic Lily](https://open.spotify.com/track/4C7ImWt1WNZqCDYhl9TA5p) | [Ahn Sung Hoon](https://open.spotify.com/artist/1hHAcgkOYMOXCnr0qAtlrS) | [Music Source of Mr.Lotto Best PART2](https://open.spotify.com/album/5zswsVaA3hmm5jlsHBveJL) | 3:27 | 2023-05-22 | 2023-08-10 |
@@ -10033,6 +10035,7 @@
 | [Nothing changed \(Vocal by Pyo Hye Mi\)](https://open.spotify.com/track/0gy0eviYwYTykne7f5opUL) | [Me:us](https://open.spotify.com/artist/73LHD9Y9k0vwvTVZ9GdSpQ), [Pyo Hye Mi](https://open.spotify.com/artist/5XivdDVrwxOYJ44ShW7Day) | [The story](https://open.spotify.com/album/6FXQfoPt8Hzxg0DF1yTcrz) | 3:48 | 2022-11-06 | 2022-12-22 |
 | [Nothing Ever](https://open.spotify.com/track/3e33rlL7TVHv1FuEYOqF2l) | [Kim Yuna](https://open.spotify.com/artist/74UiZwRnkEE56JLvKhNGCB) | [Nothing Ever](https://open.spotify.com/album/19Y5qOTPrSCgQodWk6pReq) | 3:30 | 2024-03-26 | 2024-05-01 |
 | [Nothing Feels Alright](https://open.spotify.com/track/0M2VpuGkcxo3IX4TZBMlVK) | [The Sound](https://open.spotify.com/artist/1JluhyaAkZeJxskwgxlu7o) | [Nothing Feels Alright](https://open.spotify.com/album/5OBQz9Yh66CytpkGokUNRM) | 4:00 | 2023-05-29 | 2023-08-10 |
+| [Nothing More to Wish For](https://open.spotify.com/track/65p3Xj1ZJR1rmlb2ksH6Lj) | [Han All](https://open.spotify.com/artist/4y2MA188txnWeMIw9XwaJS) | [Nothing More to Wish For](https://open.spotify.com/album/4yXNrI0CsflFoRaFUF3p8G) | 3:32 | 2026-11-25 |  |
 | [NOTHING WITHOUT YOU](https://open.spotify.com/track/3ZfzAgu2hva5Pw9HVWys14) | [JUNE](https://open.spotify.com/artist/2Ls9v5vL8yvMh5NaziiluS) | [NOTHING WITHOUT YOU](https://open.spotify.com/album/3aKoklMO5GlK6PuUJMz5Xx) | 4:09 | 2026-03-02 | 2026-03-12 |
 | [Nothing ★ To Lose](https://open.spotify.com/track/1XMvZrLc8IxabomzxTYeDT) | [Woo Hyuk Jang](https://open.spotify.com/artist/3Gka2tZrE8vX4fBFtgknqB) | [FLARE](https://open.spotify.com/album/3dOQhV8gI4S3wz6Vq7mXVT) | 3:20 | 2025-11-19 | 2025-11-25 |
 | [Nothing's going my way](https://open.spotify.com/track/0PEMrxscyb93cQ0X6QFAlP) | [Park Hyun Kyu](https://open.spotify.com/artist/0tcfyZmKNzfhClf4PB8YMt) | [Nothing's going my way](https://open.spotify.com/album/1OYxGc5j8LN7bcrDnCR3nz) | 4:03 | 2023-04-10 | 2023-05-03 |
@@ -11972,6 +11975,7 @@
 | [Second Single Ver\. ft DD! pH\-1 \(Prod\. fake human being\)](https://open.spotify.com/track/2pCJGsYmIiJzdqwpfsFTZi) | [O'Domar](https://open.spotify.com/artist/2tVfmWc35v5ALhML9zgSyw), [DD! \(디디\)](https://open.spotify.com/artist/028jyUgfSonN5Sx9u34sBx), [pH\-1](https://open.spotify.com/artist/2u7CP5T30c8ctenzXgEV1W) | [기호2 Single Ver\. ft\. DD! pH\-1 \(Prod\. 가짜인간\)](https://open.spotify.com/album/2xMTnXP7Z67sQYZ36AhTue) | 3:51 | 2023-09-19 | 2023-11-11 |
 | [Secret](https://open.spotify.com/track/0SQNu4qg8dQQxmwZoxNsCR) | [CAMO](https://open.spotify.com/artist/2YkhzcYyxJvtl5W6pY0PuF) | [Secret](https://open.spotify.com/album/6pypcYnbO2JMmQBWsXpqZB) | 2:12 | 2025-11-05 | 2025-11-15 |
 | [Secret](https://open.spotify.com/track/0QIqWMmrupTnugEfgIYtpp) | [Han Dong Geun](https://open.spotify.com/artist/69K447yK7IW0NCZGEh79e1) | [Kokdu: Season of Deity \(Original Television Soundtrack, Pt\. 3\)](https://open.spotify.com/album/6ITUmFKD3r8HWivfGYjsio) | 4:08 | 2023-02-17 | 2023-02-28 |
+| [Secret](https://open.spotify.com/track/4VCymWMCfHOk86DlQk9HxV) | [INJAE](https://open.spotify.com/artist/52jCsWDfCYGGZiPqIYL0WD), [Moah Lee](https://open.spotify.com/artist/4yhj8yeSf4wPziWnoi7m5t) | [Secret](https://open.spotify.com/album/1DlMXhryZp18LFArvFoHnX) | 3:06 | 2026-11-25 |  |
 | [Secret](https://open.spotify.com/track/5LW6IBFQka3WDsaloVlEVj) | [YELO](https://open.spotify.com/artist/2SIjieAwLcihB5fZ7HfHmD) | [See You in My 19th Life, Pt\. 5 \(Original Television Soundtrack\)](https://open.spotify.com/album/5ioEeRp7FN6LmV41jLFGV5) | 3:07 | 2023-07-17 | 2023-08-10 |
 | [Secret](https://open.spotify.com/track/1yz9rPrCtMTlRtVxdmiig0) | [Yun DDanDDan](https://open.spotify.com/artist/0fnx3yyvXH5E0UATpygzzt) | [Secret \(From "Going to You at a Speed of 493km" \[Original Soundtrack\]\), Pt.2](https://open.spotify.com/album/6uRabEcyPLuf8uj5CtwpF2) | 3:11 | 2022-04-22 | 2022-05-03 |
 | [Secret Crush](https://open.spotify.com/track/5VDBm4oGPDseD1ybEeVodm) | [Sogaksogak](https://open.spotify.com/artist/4ErSSLqJ6lBxlgzBrkjubZ) | [Secret Crush](https://open.spotify.com/album/6OcpwDPz6cwBsdpOkH5pYo) | 2:28 | 2023-05-22 | 2023-08-10 |
@@ -15296,6 +15300,7 @@
 | [weekend](https://open.spotify.com/track/5QZ2TCrcGefEMaeAuZtzeP) | [KIM BOA](https://open.spotify.com/artist/6NJTdlLzuPZJg22hL0ku1p) | [weekend](https://open.spotify.com/album/5jPvJUMK080pPyYe5sCwsA) | 2:32 | 2024-11-08 | 2024-11-30 |
 | [Weekend Sugar](https://open.spotify.com/track/6h4je9fDmMCyv4Btymn3Ie) | [ALT](https://open.spotify.com/artist/3705mxeD2Jt3UAiLo3ERp4) | [Weekend Sugar](https://open.spotify.com/album/5qcKpxdudh11E2SrSymufL) | 2:36 | 2026-05-04 | 2026-05-27 |
 | [Wego Wego](https://open.spotify.com/track/66VUcyKcFpi3Ks0HW9jjgt) | [Xdinary Heroes](https://open.spotify.com/artist/1khChLj7REGqjM043PlYyn) | [Wego Wego \(Killer Peter X Xdinary Heroes\) \[Original Webtoon Soundtrack\]](https://open.spotify.com/album/0cnPQZPwrX36jXboMOh264) | 3:08 | 2024-03-08 | 2024-05-01 |
+| [Weight of Denial](https://open.spotify.com/track/3Od5yTdwQiQQMTbMVBd9nG) | [HYUKOH](https://open.spotify.com/artist/57okaLdCtv3nVBSn5otJkp) | [33](https://open.spotify.com/album/0cUaE4tfNSCtDpYLvmwjwx) | 4:38 | 2026-11-25 |  |
 | [Weird](https://open.spotify.com/track/2VzgC0BfLjyVLrdbaEeFzJ) | [IGWI](https://open.spotify.com/artist/4whp4PfaJKVotmQSuMlO4U) | [Weird](https://open.spotify.com/album/2uOg7BFqjJZ0i1PYcew0w5) | 3:15 | 2022-07-16 | 2022-07-28 |
 | [Weird](https://open.spotify.com/track/0MUJdif0DqzHsJCpBnD3PN) | [TAEIL](https://open.spotify.com/artist/1z0Hi3myYw4x32xCq0H3aq) | [Weird](https://open.spotify.com/album/09nEHFRgp3gWym7gvqlu2y) | 4:08 | 2024-03-12 | 2024-05-01 |
 | [Weirdo](https://open.spotify.com/track/4U2YKsgFtWoK9Usw49GXoa) | [9001](https://open.spotify.com/artist/0ucJPeq0vaU8dbHu0Tie6E) | [Weirdo](https://open.spotify.com/album/3XZpa12NWYvLpV1qeeIH8U) | 2:58 | 2022-05-30 | 2022-06-14 |
@@ -16309,6 +16314,7 @@
 | [Youth](https://open.spotify.com/track/6clmN7YzxNFd8FR2O7yrtz) | [Kim Siwon](https://open.spotify.com/artist/2n81IVrBwNFGxXnc8GDWkW) | [Youth](https://open.spotify.com/album/5RmJvM2QkPYcgEMNAoqOLg) | 3:24 | 2026-01-15 | 2026-01-23 |
 | [Youth](https://open.spotify.com/track/2BOh2a5CH0xGYCBx66CwsV) | [LEECHANGSUB](https://open.spotify.com/artist/1rp5HzWaNwgauM5W5YmZ3U) | [Youth](https://open.spotify.com/album/3DBcr68sNqelCiUNAV5PdB) | 3:15 | 2026-04-23 | 2026-05-06 |
 | [YOUTH](https://open.spotify.com/track/6EiUvMEuWdruFUplqKng3G) | [Song Heejin](https://open.spotify.com/artist/2G9WVGhJAmHLg4I68dWFTl) | [YOUTH](https://open.spotify.com/album/2YxeY4aWNOpQmvaOwvZ48t) | 2:51 | 2023-09-08 | 2023-09-19 |
+| [Youth](https://open.spotify.com/track/1U02DMBWpOQ1S9F1ToPJKw) | [Wetter](https://open.spotify.com/artist/02qCfZpNgd0FQ1BFOPaqvq) | [LTNS](https://open.spotify.com/album/0z6z71JxKAByY9oG2FVWLB) | 4:48 | 2026-11-25 |  |
 | [Youth driving](https://open.spotify.com/track/4wj1SnnH1ReIcMeoeO5eGl) | [Feeldog](https://open.spotify.com/artist/3urM1dEfWPbdggKOMlzi4m) | [Youth driving](https://open.spotify.com/album/1wrjAYd8B0JRrzzPFVICYS) | 3:22 | 2025-07-25 | 2025-08-07 |
 | [Youth of Mokpo](https://open.spotify.com/track/5fgSwGhApNDbBw8SbOCZkl) | [Yoon Jeongnyeon](https://open.spotify.com/artist/5jpLy0LZsU4Sash95LvGTU) | [Jeongnyeon: The Star is Born, Pt\. 4 : Youth of Mokpo&Jamyeonggo \(Original Soundtrack\)](https://open.spotify.com/album/6pQ7jyAJ8hQVvnXy49BqNQ) | 3:20 | 2024-11-04 | 2024-11-30 |
 | [YOUTH!!!](https://open.spotify.com/track/4xFgcZtLZQgGf8g9uNkMkN) | [Catch The Young](https://open.spotify.com/artist/422jw2by1jl14vn1FP9EGA) | [Catch The Young : Fragments of Youth](https://open.spotify.com/album/4hIzwaWCBTC6TFn1omFxGj) | 3:25 | 2023-11-10 | 2023-12-14 |

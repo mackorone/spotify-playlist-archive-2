@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWZJHBoz7SEG.md) - [plain]
 
 > Rolitas que te vienen a revolucionar la semana, Paloma Morphy en portada
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,259,016 likes - 82 songs - 4 hr 28 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,258,913 likes - 82 songs - 4 hr 28 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -91,4 +91,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWZJHBoz7SEG.md) - [plain]
 | 81 | [INTENSO](https://open.spotify.com/track/3zECAmenZqFieCRGLfG3Jn) | [DobleFilo](https://open.spotify.com/artist/7GngFO995uQKPXfSdyLyPF), [Fano](https://open.spotify.com/artist/3aRfIDlreP9D5POnhqIJI1) | [INTENSO](https://open.spotify.com/album/5vrSCb808EdjxsM2s63xRd) | 2:51 |
 | 82 | [LA DISCO](https://open.spotify.com/track/5fZpqin8sQoaIgllciJJQP) | [Iván Ivengo](https://open.spotify.com/artist/4oiI7JbuL1TKEO6skc1B5x), [Gil Cerezo](https://open.spotify.com/artist/0IriYFJ4bOlHotHiwweJdG), [NOESUNAETAPA](https://open.spotify.com/artist/3WovYsWH9obL3GJCSndSwo) | [LA DISCO](https://open.spotify.com/album/1lMZZxupnuWKUuTRThOEA7) | 4:37 |
 
-Snapshot ID: `AAAAAGPpKyXfoKVEXmJ2ajRFLYASfU9A`
+Snapshot ID: `AAAAAJNqNR0JW0UOd3ZOEiaqELCSgb7X`

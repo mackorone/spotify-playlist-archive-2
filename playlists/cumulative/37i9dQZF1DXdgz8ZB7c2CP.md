@@ -4,7 +4,7 @@
 
 > A sprinkle of bass, warm vocal drizzle, and dreamy <a href="spotify:genre:edm\_dance">dance music</a> 🩷 with Mura Masa
 
-1,588 songs - 3 day 13 hr 40 min
+1,589 songs - 3 day 13 hr 42 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -1103,7 +1103,7 @@
 | [Repeat](https://open.spotify.com/track/0rabGrLs3R4WOp0BB1dnLP) | [Aliiias](https://open.spotify.com/artist/4Y8otp9Ld9PkZeNPq20uFG) | [Repeat](https://open.spotify.com/album/1PfzHWLIIixauSvDuGS3aY) | 2:40 | 2024-01-18 | 2024-02-03 |
 | [Repeaty](https://open.spotify.com/track/4PgcKyByDFEXm5RQA07WD2) | [Sammy Virji](https://open.spotify.com/artist/1GuqTQbuixFHD6eBkFwVcb) | [Open Late](https://open.spotify.com/album/6SrOv99B12ZeggHewdjp56) | 3:56 | 2026-10-30 |  |
 | [REQUIEM](https://open.spotify.com/track/2Oy6oc0Dit6XMcpTBvCdB0) | [Cozy Kev](https://open.spotify.com/artist/7e0CLdbVq8tdRGfh8Tf6JB), [Elohim](https://open.spotify.com/artist/6wKxOKEA3K6R2UZ3COLXEY) | [REQUIEM](https://open.spotify.com/album/2M6i3bzBgewWYn9RQgj7Io) | 3:15 | 2026-03-06 | 2026-07-07 |
-| [RESCUE U](https://open.spotify.com/track/3jDXVV12qJ0sZB3Ixp3srB) | [Alison Wonderland](https://open.spotify.com/artist/11gWrKZMBsGQWmobv3oNfW), [WINK](https://open.spotify.com/artist/0tmvLj5Sa3njrifpuruKBu) | [RESCUE U](https://open.spotify.com/album/547CCEN33skiHwwMobdVZo) | 2:55 | 2026-10-02 |  |
+| [RESCUE U](https://open.spotify.com/track/3jDXVV12qJ0sZB3Ixp3srB) | [Alison Wonderland](https://open.spotify.com/artist/11gWrKZMBsGQWmobv3oNfW), [WINK](https://open.spotify.com/artist/0tmvLj5Sa3njrifpuruKBu) | [RESCUE U](https://open.spotify.com/album/547CCEN33skiHwwMobdVZo) | 2:55 | 2026-10-02 | 2026-11-26 |
 | [Resist](https://open.spotify.com/track/7bcTSW4DQfRz61E9Bq776i) | [Ace Aura](https://open.spotify.com/artist/5o2KBzYUFierWmBhSemAhq), [Subtronics](https://open.spotify.com/artist/3NJ94iuAmmMjbszODYT6pO) | [Resist](https://open.spotify.com/album/1U33hd8Cjhan0DKXqMjDCa) | 3:13 | 2021-08-06 | 2022-04-21 |
 | [Resist \- Original Mix](https://open.spotify.com/track/4hUrZwwsih1IwlOf7XmIlV) | [Ace Aura](https://open.spotify.com/artist/5o2KBzYUFierWmBhSemAhq), [Subtronics](https://open.spotify.com/artist/3NJ94iuAmmMjbszODYT6pO), [Cyclops Recordings](https://open.spotify.com/artist/51y7yOXUTJFsgK8xPWt9l8) | [Planet Cyclops](https://open.spotify.com/album/74Mm5t56WdmZSKUjiyIbEf) | 3:13 | 2021-08-06 | 2023-02-11 |
 | [Revival](https://open.spotify.com/track/5ClSTs7w4GWa6ipki5M8J7) | [Binks](https://open.spotify.com/artist/5nf6GQa1URBwmGeLLLNtsY), [Bro Safari](https://open.spotify.com/artist/6d9SnuHI2bRer7c76d8sLq) | [Blissful Patterns](https://open.spotify.com/album/31OQ50zkCqjiM5hrsuaMZ0) | 3:26 | 2021-08-06 | 2022-07-27 |
@@ -1430,6 +1430,7 @@
 | [U WON'T!](https://open.spotify.com/track/7iYyOqLQY46zCtfP3zW3bl) | [INJI](https://open.spotify.com/artist/0Z4Ir8usNVcAdCSQl0fQki) | [U WON'T!](https://open.spotify.com/album/3eSyIBoXNUuMRW3hH4KAJI) | 2:01 | 2025-05-01 | 2025-12-08 |
 | [U&I](https://open.spotify.com/track/3dRBVP8BOptc8SacAd8o9c) | [Jersey](https://open.spotify.com/artist/7C4JBZtbD3cLEOufhgSHzQ) | [U&I](https://open.spotify.com/album/7l5I1MGwDI6j4l8wSwMs9C) | 2:32 | 2026-07-24 | 2026-11-20 |
 | [U&ME](https://open.spotify.com/track/25ZR15mdsTb5fubAu1dbZc) | [Stresshead](https://open.spotify.com/artist/1ilfLz2z62VTtvKJmxYPzs) | [U&ME](https://open.spotify.com/album/5qMQZdRVSr7MBBNSmZ3H1d) | 2:36 | 2024-05-10 | 2024-06-07 |
+| [u+me](https://open.spotify.com/track/56Q8ZGzpFWjoO0XMSPxfe9) | [monica.com](https://open.spotify.com/artist/091RYc5KZSMbiaQ2JsfgRe) | [u+me](https://open.spotify.com/album/6QuAbzGiRSChjfCQ8X2xHv) | 2:21 | 2026-11-25 |  |
 | [UGOTURWAY](https://open.spotify.com/track/5fPiWAtAI7lfFfb8AGgxSP) | [Low Poly](https://open.spotify.com/artist/0gC15Kf5barpTK7R1ZkMzc), [jordnmoody](https://open.spotify.com/artist/5WUJ0HwckdD0XHPz9EQ2XU), [asáu](https://open.spotify.com/artist/4lNObJySHIKhPZdfGtZgE0) | [UGOTURWAY](https://open.spotify.com/album/71rAtUiFJolzgHQwqMoerI) | 3:12 | 2025-09-26 | 2025-11-08 |
 | [Uh Uh](https://open.spotify.com/track/59cFhnC1ZxXKvPIF1Y66fj) | [What So Not](https://open.spotify.com/artist/4AA8eXtzqh5ykxtafLaPOi), [SLUMBERJACK](https://open.spotify.com/artist/55BFQS36sJYz2B0ClypIvS) | [Uh Uh](https://open.spotify.com/album/4jSCuNWv43WQQWngBGrIBC) | 3:13 | 2023-06-23 | 2024-05-03 |
 | [uhm?](https://open.spotify.com/track/25dKoA2z4fHXHlZux3XrJm) | [camoufly](https://open.spotify.com/artist/6ZmJg6NCjGmRgC2GEI86pQ), [okgiorgio](https://open.spotify.com/artist/3SAZh4k4iDPFngB60QKpxg) | [uhm?](https://open.spotify.com/album/6q8C1btD0CTSWvjSheZItc) | 2:49 | 2025-06-19 | 2025-08-30 |

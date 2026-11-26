@@ -1889,6 +1889,24 @@
     },
     {
       "album": {
+        "name": "bol ke lab",
+        "url": "https://open.spotify.com/album/29PVhq6eJdjKEgnrnTEGbd"
+      },
+      "artists": [
+        {
+          "name": "Harpreet",
+          "url": "https://open.spotify.com/artist/53qrm6TRrT0N0UqnnUlSGb"
+        }
+      ],
+      "date_added": "2026-11-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 161454,
+      "name": "bol ke lab",
+      "url": "https://open.spotify.com/track/4VuDXNBTwr5zskisAfv4m8"
+    },
+    {
+      "album": {
         "name": "Bolo Na",
         "url": "https://open.spotify.com/album/58XBnOka4Z1C8NEyvbAd38"
       },
@@ -3629,6 +3647,32 @@
     },
     {
       "album": {
+        "name": "Ghar",
+        "url": "https://open.spotify.com/album/4C8xNVb3gBWvqgUHA9DyVd"
+      },
+      "artists": [
+        {
+          "name": "Shridhar Ramesh",
+          "url": "https://open.spotify.com/artist/5IvPVTWTxfqev2qJ2Ti00Y"
+        },
+        {
+          "name": "Vikram Edke",
+          "url": "https://open.spotify.com/artist/1OIEIDVTMsNvsTK9jGViCV"
+        },
+        {
+          "name": "Hriday Goswami",
+          "url": "https://open.spotify.com/artist/4IpSIc9T223yFJHve2gVF7"
+        }
+      ],
+      "date_added": "2026-11-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 260306,
+      "name": "Ghar",
+      "url": "https://open.spotify.com/track/3SBjmitTO6Pg1IccEq6RGF"
+    },
+    {
+      "album": {
         "name": "Ghulaam",
         "url": "https://open.spotify.com/album/0hb54jsDgeXIH0kvER8ezp"
       },
@@ -5084,7 +5128,7 @@
       ],
       "date_added": "2026-11-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-26",
       "duration_ms": 166516,
       "name": "Jabse Tum Gaye Ho",
       "url": "https://open.spotify.com/track/0pi1mfKSh0rBCPcwSWTQPq"

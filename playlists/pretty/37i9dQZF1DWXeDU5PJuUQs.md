@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXeDU5PJuUQs.md) - [plain]
 
 > Unas buenas cumbias con el calor de la gente! <br/>Foto: Ke Personajes & Ulises Bueno.
 
-[Spotify](https://open.spotify.com/user/spotify) - 281,387 likes - 100 songs - 6 hr 26 min
+[Spotify](https://open.spotify.com/user/spotify) - 281,467 likes - 100 songs - 6 hr 26 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXeDU5PJuUQs.md) - [plain]
 | 99 | [Serrana Mia](https://open.spotify.com/track/4AXXFjxunayz1nO5saIy7v) | [Malagata](https://open.spotify.com/artist/549gX84eSqoYRJp8BglJqy), [Adrián y Los Dados Negros](https://open.spotify.com/artist/0YykZZ5GBtvN0rOjEMIiK6) | [Serrana Mia](https://open.spotify.com/album/18ZdeNrG5NURFYLc0MrEqs) | 4:06 |
 | 100 | [Estuve Ahí](https://open.spotify.com/track/0vj7n8tknwKtbvZQ1ocATb) | [El Reja](https://open.spotify.com/artist/7HSeegdmjLYRJpkOYIaZIW) | [Estuve Ahí](https://open.spotify.com/album/0o0TxliabAYbbhAxeFDYLM) | 3:14 |
 
-Snapshot ID: `AAAAAHgpsgIU13/t1E2mWiAyJq7LclJM`
+Snapshot ID: `AAAAAEi6yJe1XOF2fLjXHyLT5l36JsJ2`

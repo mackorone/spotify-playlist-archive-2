@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTvEFX6xtoQd.md) - [plain]
 
 > 528 Hz solfeggio frequencies used by many to activate positive energy
 
-[Spotify](https://open.spotify.com/user/spotify) - 390,073 likes - 195 songs - 8 hr 59 min
+[Spotify](https://open.spotify.com/user/spotify) - 390,328 likes - 195 songs - 8 hr 59 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -204,4 +204,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTvEFX6xtoQd.md) - [plain]
 | 194 | [528 Hz Lunar Aura](https://open.spotify.com/track/4ZHFWlPsfSb3WuQlkulgd3) | [Zephyrical](https://open.spotify.com/artist/35kdbaWQLDJudwBytHuiyW) | [528 Hz Lunar Aura](https://open.spotify.com/album/6EkZMhJ0ANiXHPkDmuZVaX) | 2:41 |
 | 195 | [unwinding mind 528 Hz](https://open.spotify.com/track/4ygQzLDawyji6Q0VxhQDfV) | [nite sky](https://open.spotify.com/artist/6zoOpIO7PCBlRaOP10TdJc) | [solfeggio frequencies: clearing the mind](https://open.spotify.com/album/7taDIIEzVvJjZfwpoRndRx) | 3:12 |
 
-Snapshot ID: `AAAAALNVzZ/fboMEilVwCcjtw+EFA7CQ`
+Snapshot ID: `AAAAANphcXVA1XLVE9cffzdAdFK2Mk4D`

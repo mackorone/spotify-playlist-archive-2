@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXepGEFFmQXJ.md) - [plain]
 
 > The cream of today's country crop\. Cover: Ella Langley
 
-[Spotify](https://open.spotify.com/user/spotify) - 434,018 likes - 50 songs - 2 hr 53 min
+[Spotify](https://open.spotify.com/user/spotify) - 434,017 likes - 50 songs - 2 hr 53 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXepGEFFmQXJ.md) - [plain]
 | 49 | [EVERYTHING ALL WORKS OUT](https://open.spotify.com/track/177yVU3d0fwG3MoFOj1zUi) | [Hayley Jensen](https://open.spotify.com/artist/2pYmedjA9VyTosPNO3OaTi) | [EVERYTHING ALL WORKS OUT](https://open.spotify.com/album/6AOBDOHgsrJh3wElQ66a3s) | 2:59 |
 | 50 | [Sitting Around](https://open.spotify.com/track/3xF3akBcgGqcLIjsNnVRnG) | [Sons Of Atticus](https://open.spotify.com/artist/1XWJCGMAlVXkarYONgIw7g) | [On The Way](https://open.spotify.com/album/36TTGxdyqzNcre4OWQsmfD) | 3:52 |
 
-Snapshot ID: `AAAAAJxa2EMVssrDYYcxhhZLddsaS4W3`
+Snapshot ID: `AAAAANjLhri6CYVgYLzwzXGk7Y6AB95B`

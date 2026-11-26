@@ -4,7 +4,7 @@
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/0xuf5cMMFZpfFUGH02Kuh8">Irving Berlin</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-630 songs - 1 day 7 hr 29 min
+631 songs - 1 day 7 hr 32 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -182,7 +182,8 @@
 | [Homesick](https://open.spotify.com/track/08jQcuppmByeQDLJONFYE7) | [Paul Whiteman](https://open.spotify.com/artist/1mZm40boQmdGKicfbNkd0r) | [King of Jazz: The Complete A to Z Collection, Vol\. 14](https://open.spotify.com/album/2jz5tfKSU8jQ26QigpXznV) | 2:44 | 2026-03-17 |  |
 | [Homeward Bound](https://open.spotify.com/track/1WiWWLHYGmBITuKJE953zs) | [The Tabernacle Choir at Temple Square](https://open.spotify.com/artist/1GRl6sRyLg9ToOohIE2wW5) | [100 Years: Celebrating a Century of Recording Excellence](https://open.spotify.com/album/6RtntjH8642XPZ7lXcOnSn) | 5:53 | 2024-07-26 | 2026-08-07 |
 | [Homeward Bound](https://open.spotify.com/track/5c0a8aL1qxkY360GU0lun9) | [The Tabernacle Choir at Temple Square](https://open.spotify.com/artist/1GRl6sRyLg9ToOohIE2wW5), [Orchestra at Temple Square](https://open.spotify.com/artist/4kAIRZipPTtTbZBTudxcEA) | [Love Is Spoken Here](https://open.spotify.com/album/5M1LnxrJ1DKqjhQ1SRcbG0) | 5:54 | 2026-08-06 |  |
-| [Homework](https://open.spotify.com/track/3XFpTD3YUFKahYM2jUD9ir) | [The Andrews Sisters](https://open.spotify.com/artist/2NCGI6dLTxLdI9XHdv7QfM) | [Some Sunny Day \- The Songbook, The Energy And The Blend](https://open.spotify.com/album/5BeoWMtKwyiL1t2pDUG6nA) | 3:00 | 2024-07-26 |  |
+| [Homework](https://open.spotify.com/track/3XFpTD3YUFKahYM2jUD9ir) | [The Andrews Sisters](https://open.spotify.com/artist/2NCGI6dLTxLdI9XHdv7QfM) | [Some Sunny Day \- The Songbook, The Energy And The Blend](https://open.spotify.com/album/5BeoWMtKwyiL1t2pDUG6nA) | 3:00 | 2024-07-26 | 2026-11-26 |
+| [Homework](https://open.spotify.com/track/7w466BguhX4wDukzaHjoQC) | [Toshiko Akiyoshi](https://open.spotify.com/artist/3HnrKwN3HT9BXwyrDWQCFx) | [Keys of Expression](https://open.spotify.com/album/1pqGAFKqIYQEFgxD4CRz6Q) | 3:38 | 2026-11-25 |  |
 | [Hou Je Van 'M](https://open.spotify.com/track/2lRBOfPcCazCgYBPVou7W1) | [Mylene D'Anjou](https://open.spotify.com/artist/6whJ3RrJWerVtr5GJCFZcY) | [Platina: Mooiste Liedjes Uit De Voorstelling](https://open.spotify.com/album/06tazZdLeZCuyCyGQpVcoM) | 4:37 | 2024-07-26 |  |
 | [How Can I Change My Luck?](https://open.spotify.com/track/1PZEzbWbG0ipmsGeK7nOrl) | [Harry Groener](https://open.spotify.com/artist/6S61JShQr2Td7pyjOKFEpQ), [Irving Berlin](https://open.spotify.com/artist/32zXZpxwb2bq7oGzAhe1Ii) | [Unsung Irving Berlin](https://open.spotify.com/album/0Iu1evk65brZBcjXXiZpTK) | 3:55 | 2024-07-26 |  |
 | [How Can it Be Told](https://open.spotify.com/track/1POnpsBlNZyfJkfKF4GyAZ) | [Tony Martin](https://open.spotify.com/artist/5AHm2PdPYw9qsj1q1bhxj2) | [How Can it Be Told](https://open.spotify.com/album/62zDtuEmqBSmHQmuMrDoLW) | 3:18 | 2024-07-26 |  |
@@ -543,7 +544,7 @@
 | [Torch Song](https://open.spotify.com/track/6f2gUmFKEtUpxKjHSQOxld) | [Adèle Anderson](https://open.spotify.com/artist/0UhoqhbYoPuORgj24VBUcp) | [Everything Happens to Me](https://open.spotify.com/album/1OszdjZgCmDxPU9b91KLD6) | 2:37 | 2024-07-26 |  |
 | [Tribute to Irving Berlin \(Medley\)](https://open.spotify.com/track/50wZRz8W1icB3EOaul4tZu) | [London Theatre Orchestra](https://open.spotify.com/artist/5QmD51yutY26X6YdiGOLex) | [Kern & Berlin: The Great Melodies](https://open.spotify.com/album/455fuJmdMku9H8S0IR9gIx) | 7:04 | 2024-07-26 |  |
 | [Two Cheers Instead Of Three](https://open.spotify.com/track/1VPpQ3JPswpx9lyYypCpNk) | [Walter Willison](https://open.spotify.com/artist/21Ahii1HXBx19BHjkZ3fRp) | [Unsung Irving Berlin](https://open.spotify.com/album/0Iu1evk65brZBcjXXiZpTK) | 2:22 | 2024-07-26 |  |
-| [Und führ' ich ein Mädchen zum Traualtar](https://open.spotify.com/track/2R8u5mzg1JVvOlpO5RM41w) | [Lale Andersen](https://open.spotify.com/artist/0y5xsfoyu9qTFlOpopzHn8) | [Lale Andersen](https://open.spotify.com/album/6M3wC5DxkDDPyoQWjtXXCS) | 2:21 | 2024-07-26 | 2026-11-25 |
+| [Und führ' ich ein Mädchen zum Traualtar](https://open.spotify.com/track/2R8u5mzg1JVvOlpO5RM41w) | [Lale Andersen](https://open.spotify.com/artist/0y5xsfoyu9qTFlOpopzHn8) | [Lale Andersen](https://open.spotify.com/album/6M3wC5DxkDDPyoQWjtXXCS) | 2:21 | 2024-07-26 |  |
 | [Under the Bridges of Paris](https://open.spotify.com/track/0rm1ka34ZplDKGSV05XgkF) | [Eartha Kitt](https://open.spotify.com/artist/1AwO9pWEBSBoWdEZu28XDC) | [That Bad Eartha](https://open.spotify.com/album/19ZUoDOWmYb59rG5p5WoSW) | 2:42 | 2026-08-18 |  |
 | [Unfriendly Woman \- Remastered](https://open.spotify.com/track/0v7c8vMd0FL4rcrtpUY564) | [John Lee Hooker](https://open.spotify.com/artist/1yNOfXGQNGjAynk77wv85x) | [Remastered from the Archives](https://open.spotify.com/album/1ptcOYwu6UZRrCZhFisQEn) | 2:53 | 2026-08-18 |  |
 | [Until I Fell in Love with You](https://open.spotify.com/track/5Nlgpoxn6ggc7L0hSUl8ZD) | [Cody Jordan](https://open.spotify.com/artist/3EJCevj88Y43OfFyleQrLV), [John Brady](https://open.spotify.com/artist/4oSyvXCQR3vYcn8YwHYYf0) | [Chip Deffaa's Gay Love](https://open.spotify.com/album/0JewOhdXw7FGuDoOX0CLt6) | 2:33 | 2024-07-26 |  |

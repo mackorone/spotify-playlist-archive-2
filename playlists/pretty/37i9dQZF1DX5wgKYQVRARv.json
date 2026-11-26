@@ -1,12 +1,12 @@
 {
   "description": "New and recent favorites of Progressive Metal. Cover: Enslaved",
-  "num_followers": 572622,
+  "num_followers": 572621,
   "original_name": "Progressive Metal",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAADlpiCbWAEErsem22vbdomJp5gg9",
+  "snapshot_id": "AAAAAJezzqhXDVLb/N+FoTQUCHsbihr3",
   "tracks": [
     {
       "added_at": "2026-11-20 05:02:04",
@@ -435,22 +435,6 @@
     {
       "added_at": "2026-11-20 05:02:04",
       "album": {
-        "name": "Friend Of A Phantom",
-        "url": "https://open.spotify.com/album/2Ry1qg9QGKAoAVImEjreSX"
-      },
-      "artists": [
-        {
-          "name": "VOLA",
-          "url": "https://open.spotify.com/artist/1HQjBwlj8FSHMhVaNQ4tEI"
-        }
-      ],
-      "duration_ms": 265066,
-      "name": "We Will Not Disband",
-      "url": "https://open.spotify.com/track/54f4ILCiEdfu2VuSmrXJ8Z"
-    },
-    {
-      "added_at": "2026-11-20 05:02:04",
-      "album": {
         "name": "The Will To Power",
         "url": "https://open.spotify.com/album/5bAGxP0lBqlMUprJggKYWd"
       },
@@ -463,6 +447,22 @@
       "duration_ms": 214111,
       "name": "Nothing Ever Happens",
       "url": "https://open.spotify.com/track/0oqV3Ud53BOTMltEM9Nuda"
+    },
+    {
+      "added_at": "2026-11-20 05:02:04",
+      "album": {
+        "name": "Friend Of A Phantom",
+        "url": "https://open.spotify.com/album/2Ry1qg9QGKAoAVImEjreSX"
+      },
+      "artists": [
+        {
+          "name": "VOLA",
+          "url": "https://open.spotify.com/artist/1HQjBwlj8FSHMhVaNQ4tEI"
+        }
+      ],
+      "duration_ms": 265066,
+      "name": "We Will Not Disband",
+      "url": "https://open.spotify.com/track/54f4ILCiEdfu2VuSmrXJ8Z"
     },
     {
       "added_at": "2026-11-20 05:02:04",
@@ -515,6 +515,22 @@
     {
       "added_at": "2026-11-20 05:02:04",
       "album": {
+        "name": "Death Cloak",
+        "url": "https://open.spotify.com/album/6026GjU4cu1A7DsJZCslts"
+      },
+      "artists": [
+        {
+          "name": "Vulkan",
+          "url": "https://open.spotify.com/artist/7hUmeNCy16IbVdufW26t2H"
+        }
+      ],
+      "duration_ms": 287459,
+      "name": "Death Cloak",
+      "url": "https://open.spotify.com/track/3QNs3J3jy6dxb5HrsZFmKn"
+    },
+    {
+      "added_at": "2026-11-20 05:02:04",
+      "album": {
         "name": "Onsra",
         "url": "https://open.spotify.com/album/10U8LiPvSiWJJSh0wbAUAv"
       },
@@ -559,22 +575,6 @@
       "duration_ms": 317946,
       "name": "Flamme Jumelle",
       "url": "https://open.spotify.com/track/6qWYIFxZV0ZkmTynlhR1qk"
-    },
-    {
-      "added_at": "2026-11-20 05:02:04",
-      "album": {
-        "name": "Death Cloak",
-        "url": "https://open.spotify.com/album/6026GjU4cu1A7DsJZCslts"
-      },
-      "artists": [
-        {
-          "name": "Vulkan",
-          "url": "https://open.spotify.com/artist/7hUmeNCy16IbVdufW26t2H"
-        }
-      ],
-      "duration_ms": 287459,
-      "name": "Death Cloak",
-      "url": "https://open.spotify.com/track/3QNs3J3jy6dxb5HrsZFmKn"
     },
     {
       "added_at": "2026-11-20 05:02:04",
@@ -759,22 +759,6 @@
     {
       "added_at": "2026-11-20 05:02:04",
       "album": {
-        "name": "Legacy",
-        "url": "https://open.spotify.com/album/5NUdlbnnInX0rQMZ55s4cp"
-      },
-      "artists": [
-        {
-          "name": "Ihlo",
-          "url": "https://open.spotify.com/artist/6Pbg91GAmVAjfVnYBTcnqR"
-        }
-      ],
-      "duration_ms": 525000,
-      "name": "Legacy",
-      "url": "https://open.spotify.com/track/5UikXC41cZ9KLgBbLAjNTt"
-    },
-    {
-      "added_at": "2026-11-20 05:02:04",
-      "album": {
         "name": "I Am",
         "url": "https://open.spotify.com/album/7sJ0AkZceIdAKYiYYjKlwp"
       },
@@ -787,6 +771,22 @@
       "duration_ms": 247506,
       "name": "Don't Wake The Dead",
       "url": "https://open.spotify.com/track/1AxTJaBxuMzdXFhRHQfUMz"
+    },
+    {
+      "added_at": "2026-11-20 05:02:04",
+      "album": {
+        "name": "Legacy",
+        "url": "https://open.spotify.com/album/5NUdlbnnInX0rQMZ55s4cp"
+      },
+      "artists": [
+        {
+          "name": "Ihlo",
+          "url": "https://open.spotify.com/artist/6Pbg91GAmVAjfVnYBTcnqR"
+        }
+      ],
+      "duration_ms": 525000,
+      "name": "Legacy",
+      "url": "https://open.spotify.com/track/5UikXC41cZ9KLgBbLAjNTt"
     },
     {
       "added_at": "2026-11-20 05:02:04",
@@ -879,22 +879,6 @@
     {
       "added_at": "2026-11-20 05:02:04",
       "album": {
-        "name": "Innerdeeps",
-        "url": "https://open.spotify.com/album/4xwYM5jKD90isd07LLUCGD"
-      },
-      "artists": [
-        {
-          "name": "Royal Sorrow",
-          "url": "https://open.spotify.com/artist/0HadlhyA8MupHSseNEvpLK"
-        }
-      ],
-      "duration_ms": 338813,
-      "name": "Innerdeeps",
-      "url": "https://open.spotify.com/track/5vFwvq8OvcZEtbdYRZe4jf"
-    },
-    {
-      "added_at": "2026-11-20 05:02:04",
-      "album": {
         "name": "Charismatic Leaders",
         "url": "https://open.spotify.com/album/6cEt44K9fifMdnTxMEyds7"
       },
@@ -907,6 +891,22 @@
       "duration_ms": 252461,
       "name": "Disciple",
       "url": "https://open.spotify.com/track/4JzSQaWe333dS5ukME50Vr"
+    },
+    {
+      "added_at": "2026-11-20 05:02:04",
+      "album": {
+        "name": "Innerdeeps",
+        "url": "https://open.spotify.com/album/4xwYM5jKD90isd07LLUCGD"
+      },
+      "artists": [
+        {
+          "name": "Royal Sorrow",
+          "url": "https://open.spotify.com/artist/0HadlhyA8MupHSseNEvpLK"
+        }
+      ],
+      "duration_ms": 338813,
+      "name": "Innerdeeps",
+      "url": "https://open.spotify.com/track/5vFwvq8OvcZEtbdYRZe4jf"
     },
     {
       "added_at": "2026-11-20 05:02:04",
@@ -959,22 +959,6 @@
     {
       "added_at": "2026-11-20 05:02:04",
       "album": {
-        "name": "With All That\u2019s Left",
-        "url": "https://open.spotify.com/album/2rNjDEe9fPvLmSO4LqnGiv"
-      },
-      "artists": [
-        {
-          "name": "Cold Night For Alligators",
-          "url": "https://open.spotify.com/artist/2iFIkdC4XNYlTdFSnaYPo4"
-        }
-      ],
-      "duration_ms": 233933,
-      "name": "Dance For You",
-      "url": "https://open.spotify.com/track/56O1HPR9bfVYKaUL3wANbv"
-    },
-    {
-      "added_at": "2026-11-20 05:02:04",
-      "album": {
         "name": "Charismatic Leaders",
         "url": "https://open.spotify.com/album/6cEt44K9fifMdnTxMEyds7"
       },
@@ -987,6 +971,22 @@
       "duration_ms": 260860,
       "name": "Empire",
       "url": "https://open.spotify.com/track/16nbE9hcJZ8OIYxmtAFOio"
+    },
+    {
+      "added_at": "2026-11-20 05:02:04",
+      "album": {
+        "name": "With All That\u2019s Left",
+        "url": "https://open.spotify.com/album/2rNjDEe9fPvLmSO4LqnGiv"
+      },
+      "artists": [
+        {
+          "name": "Cold Night For Alligators",
+          "url": "https://open.spotify.com/artist/2iFIkdC4XNYlTdFSnaYPo4"
+        }
+      ],
+      "duration_ms": 233933,
+      "name": "Dance For You",
+      "url": "https://open.spotify.com/track/56O1HPR9bfVYKaUL3wANbv"
     },
     {
       "added_at": "2026-11-20 05:02:04",
@@ -1315,22 +1315,6 @@
     {
       "added_at": "2026-11-20 05:02:04",
       "album": {
-        "name": "A Dark Poem, Part II: Sanguis",
-        "url": "https://open.spotify.com/album/2GOYCUoz868WL0S3MR3iKZ"
-      },
-      "artists": [
-        {
-          "name": "Green Carnation",
-          "url": "https://open.spotify.com/artist/1ZaJhNBAhJ3HjPsWiB9sDc"
-        }
-      ],
-      "duration_ms": 545000,
-      "name": "Sanguis",
-      "url": "https://open.spotify.com/track/5ouq744En8GwES4t5FPBx6"
-    },
-    {
-      "added_at": "2026-11-20 05:02:04",
-      "album": {
         "name": "M\u00far",
         "url": "https://open.spotify.com/album/7sDMrZjpctJuxpRNBN1KdU"
       },
@@ -1343,6 +1327,22 @@
       "duration_ms": 577506,
       "name": "Vitrun",
       "url": "https://open.spotify.com/track/2OdFIecA3mOdAf7UjxLJ7O"
+    },
+    {
+      "added_at": "2026-11-20 05:02:04",
+      "album": {
+        "name": "A Dark Poem, Part II: Sanguis",
+        "url": "https://open.spotify.com/album/2GOYCUoz868WL0S3MR3iKZ"
+      },
+      "artists": [
+        {
+          "name": "Green Carnation",
+          "url": "https://open.spotify.com/artist/1ZaJhNBAhJ3HjPsWiB9sDc"
+        }
+      ],
+      "duration_ms": 545000,
+      "name": "Sanguis",
+      "url": "https://open.spotify.com/track/5ouq744En8GwES4t5FPBx6"
     },
     {
       "added_at": "2026-11-20 05:02:04",
@@ -1671,22 +1671,6 @@
     {
       "added_at": "2026-11-20 05:02:04",
       "album": {
-        "name": "Wars of Spirit // Wards of Light",
-        "url": "https://open.spotify.com/album/02NkDy6LFR02K0CEBNwqL9"
-      },
-      "artists": [
-        {
-          "name": "Dreadnought",
-          "url": "https://open.spotify.com/artist/1U01xfNaiw3TkOeyGKXwi1"
-        }
-      ],
-      "duration_ms": 278520,
-      "name": "Colors of Our Broken Hearts",
-      "url": "https://open.spotify.com/track/696OSYoH1ZSEMJnhz0VRar"
-    },
-    {
-      "added_at": "2026-11-20 05:02:04",
-      "album": {
         "name": "Castle In The Sky",
         "url": "https://open.spotify.com/album/0kDBMVEXfjZu41hYyzJ9Bl"
       },
@@ -1703,6 +1687,22 @@
     {
       "added_at": "2026-11-20 05:02:04",
       "album": {
+        "name": "Wars of Spirit // Wards of Light",
+        "url": "https://open.spotify.com/album/02NkDy6LFR02K0CEBNwqL9"
+      },
+      "artists": [
+        {
+          "name": "Dreadnought",
+          "url": "https://open.spotify.com/artist/1U01xfNaiw3TkOeyGKXwi1"
+        }
+      ],
+      "duration_ms": 278520,
+      "name": "Colors of Our Broken Hearts",
+      "url": "https://open.spotify.com/track/696OSYoH1ZSEMJnhz0VRar"
+    },
+    {
+      "added_at": "2026-11-20 05:02:04",
+      "album": {
         "name": "Skinwalker",
         "url": "https://open.spotify.com/album/4Hh7tX3QEPb05FmTm5s32f"
       },
@@ -1715,22 +1715,6 @@
       "duration_ms": 280511,
       "name": "Skinwalker",
       "url": "https://open.spotify.com/track/5GHWsrntdACLugXdAGMQOo"
-    },
-    {
-      "added_at": "2026-11-20 05:02:04",
-      "album": {
-        "name": "Through The Hourglass",
-        "url": "https://open.spotify.com/album/6pkmDDMEz21BQY74lll71l"
-      },
-      "artists": [
-        {
-          "name": "Witch Ripper",
-          "url": "https://open.spotify.com/artist/3v6xMwgOKzEYpZNalgtqhI"
-        }
-      ],
-      "duration_ms": 395680,
-      "name": "The Portal",
-      "url": "https://open.spotify.com/track/6ZuM7o6mvG0BQvwrpY75Cg"
     },
     {
       "added_at": "2026-11-20 05:02:04",
@@ -1759,6 +1743,22 @@
       "duration_ms": 267813,
       "name": "Purified by Vengeance (Instrumental) [feat. Mark Holcomb, Periphery & Mick Gordon]",
       "url": "https://open.spotify.com/track/39TLRxXsT5Ar1vM0q7JZS2"
+    },
+    {
+      "added_at": "2026-11-20 05:02:04",
+      "album": {
+        "name": "Through The Hourglass",
+        "url": "https://open.spotify.com/album/6pkmDDMEz21BQY74lll71l"
+      },
+      "artists": [
+        {
+          "name": "Witch Ripper",
+          "url": "https://open.spotify.com/artist/3v6xMwgOKzEYpZNalgtqhI"
+        }
+      ],
+      "duration_ms": 395680,
+      "name": "The Portal",
+      "url": "https://open.spotify.com/track/6ZuM7o6mvG0BQvwrpY75Cg"
     },
     {
       "added_at": "2026-11-20 05:02:04",
@@ -1955,22 +1955,6 @@
     {
       "added_at": "2026-11-20 05:02:04",
       "album": {
-        "name": "Noir",
-        "url": "https://open.spotify.com/album/4OsCLyDn92nl4vJp7FH41u"
-      },
-      "artists": [
-        {
-          "name": "Port Noir",
-          "url": "https://open.spotify.com/artist/6s6x6p9qZFaPfeALpVvcpR"
-        }
-      ],
-      "duration_ms": 292093,
-      "name": "Noir",
-      "url": "https://open.spotify.com/track/7L3ocnzkhY2BXKKWBd7xOY"
-    },
-    {
-      "added_at": "2026-11-20 05:02:04",
-      "album": {
         "name": "MelancHoly",
         "url": "https://open.spotify.com/album/2xenPEQcPvRA4fyc08E4cf"
       },
@@ -1983,6 +1967,22 @@
       "duration_ms": 218000,
       "name": "MelancHoly",
       "url": "https://open.spotify.com/track/2rXBCOwW1bm7og7BnDHybT"
+    },
+    {
+      "added_at": "2026-11-20 05:02:04",
+      "album": {
+        "name": "Noir",
+        "url": "https://open.spotify.com/album/4OsCLyDn92nl4vJp7FH41u"
+      },
+      "artists": [
+        {
+          "name": "Port Noir",
+          "url": "https://open.spotify.com/artist/6s6x6p9qZFaPfeALpVvcpR"
+        }
+      ],
+      "duration_ms": 292093,
+      "name": "Noir",
+      "url": "https://open.spotify.com/track/7L3ocnzkhY2BXKKWBd7xOY"
     },
     {
       "added_at": "2026-11-20 05:02:04",
@@ -2083,22 +2083,6 @@
     {
       "added_at": "2026-11-20 05:02:04",
       "album": {
-        "name": "Beyond Obsidian Euphoria",
-        "url": "https://open.spotify.com/album/2PoczEqH999hvznpNC5TMs"
-      },
-      "artists": [
-        {
-          "name": "T\u00f3mar\u00fam",
-          "url": "https://open.spotify.com/artist/6Xv8h8ntefqlic5d3DqzhZ"
-        }
-      ],
-      "duration_ms": 422773,
-      "name": "Shallow Ecstasy",
-      "url": "https://open.spotify.com/track/1aFu1TSeBdfx4eknxNWTB9"
-    },
-    {
-      "added_at": "2026-11-20 05:02:04",
-      "album": {
         "name": "Overwhelming Love",
         "url": "https://open.spotify.com/album/7AKhS9gGnRyTEh6gsdnXpn"
       },
@@ -2111,6 +2095,22 @@
       "duration_ms": 224571,
       "name": "Overwhelming Love",
       "url": "https://open.spotify.com/track/4Debc38ny5Sz1kJ0X9SU8X"
+    },
+    {
+      "added_at": "2026-11-20 05:02:04",
+      "album": {
+        "name": "Beyond Obsidian Euphoria",
+        "url": "https://open.spotify.com/album/2PoczEqH999hvznpNC5TMs"
+      },
+      "artists": [
+        {
+          "name": "T\u00f3mar\u00fam",
+          "url": "https://open.spotify.com/artist/6Xv8h8ntefqlic5d3DqzhZ"
+        }
+      ],
+      "duration_ms": 422773,
+      "name": "Shallow Ecstasy",
+      "url": "https://open.spotify.com/track/1aFu1TSeBdfx4eknxNWTB9"
     },
     {
       "added_at": "2026-11-20 05:02:04",
@@ -2219,22 +2219,6 @@
     {
       "added_at": "2026-11-20 05:02:04",
       "album": {
-        "name": "Piros kocsi, fekete \u00e9j",
-        "url": "https://open.spotify.com/album/0jLHOyvimhtp1UQEGfTF9z"
-      },
-      "artists": [
-        {
-          "name": "Thy Catafalque",
-          "url": "https://open.spotify.com/artist/4sgTqbA7htxYkRRJBPZIom"
-        }
-      ],
-      "duration_ms": 252237,
-      "name": "Piros kocsi, fekete \u00e9j",
-      "url": "https://open.spotify.com/track/5n4TEThz5HOTIohhi2PBr5"
-    },
-    {
-      "added_at": "2026-11-20 05:02:04",
-      "album": {
         "name": "Third Shot",
         "url": "https://open.spotify.com/album/0VuG7jFHxSTKxR3ggdKm2v"
       },
@@ -2247,6 +2231,22 @@
       "duration_ms": 312000,
       "name": "Third Shot",
       "url": "https://open.spotify.com/track/5x7efls0j9BZt1jgQXU36T"
+    },
+    {
+      "added_at": "2026-11-20 05:02:04",
+      "album": {
+        "name": "Piros kocsi, fekete \u00e9j",
+        "url": "https://open.spotify.com/album/0jLHOyvimhtp1UQEGfTF9z"
+      },
+      "artists": [
+        {
+          "name": "Thy Catafalque",
+          "url": "https://open.spotify.com/artist/4sgTqbA7htxYkRRJBPZIom"
+        }
+      ],
+      "duration_ms": 252237,
+      "name": "Piros kocsi, fekete \u00e9j",
+      "url": "https://open.spotify.com/track/5n4TEThz5HOTIohhi2PBr5"
     },
     {
       "added_at": "2026-11-20 05:02:04",
@@ -2319,22 +2319,6 @@
     {
       "added_at": "2026-11-20 05:02:04",
       "album": {
-        "name": "Hotel Sphinx",
-        "url": "https://open.spotify.com/album/4BhW8SgM0s7j5e4fG2nXVu"
-      },
-      "artists": [
-        {
-          "name": "Imperial Triumphant",
-          "url": "https://open.spotify.com/artist/5zvMklMSTgoGUS9Un5domO"
-        }
-      ],
-      "duration_ms": 289466,
-      "name": "Hotel Sphinx",
-      "url": "https://open.spotify.com/track/0I4KEXWHq6jgx2VC0yq2ut"
-    },
-    {
-      "added_at": "2026-11-20 05:02:04",
-      "album": {
         "name": "Spirit Corrosion",
         "url": "https://open.spotify.com/album/738zzIsYYGg5lcbiApHYXR"
       },
@@ -2347,6 +2331,22 @@
       "duration_ms": 317706,
       "name": "Spirit Corrosion",
       "url": "https://open.spotify.com/track/7sQsJItB0PbQ5asT8PPYrk"
+    },
+    {
+      "added_at": "2026-11-20 05:02:04",
+      "album": {
+        "name": "Hotel Sphinx",
+        "url": "https://open.spotify.com/album/4BhW8SgM0s7j5e4fG2nXVu"
+      },
+      "artists": [
+        {
+          "name": "Imperial Triumphant",
+          "url": "https://open.spotify.com/artist/5zvMklMSTgoGUS9Un5domO"
+        }
+      ],
+      "duration_ms": 289466,
+      "name": "Hotel Sphinx",
+      "url": "https://open.spotify.com/track/0I4KEXWHq6jgx2VC0yq2ut"
     },
     {
       "added_at": "2026-11-20 05:02:04",

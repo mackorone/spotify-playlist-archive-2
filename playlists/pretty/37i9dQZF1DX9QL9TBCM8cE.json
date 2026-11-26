@@ -1,12 +1,12 @@
 {
   "description": "Music from \"THE IDOLM@STER SHINY COLORS\". THE IDOLM@STER\u2122& \u00a9Bandai Namco Entertainment Inc.\n\n",
-  "num_followers": 30634,
+  "num_followers": 30636,
   "original_name": "THE IDOLM@STER SHINY COLORS",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAB6XTMSsbTca0UVgJFpVZ5owJe/C",
+  "snapshot_id": "AAAAAP9KTP18e4gEo71e8I/m7j0IlReE",
   "tracks": [
     {
       "added_at": "2026-09-15 16:17:03",
@@ -351,6 +351,22 @@
     {
       "added_at": "2026-09-15 16:17:03",
       "album": {
+        "name": "THE IDOLM@STER SHINY COLORS ECHOES 01",
+        "url": "https://open.spotify.com/album/3BwoB9owTSzldPp2ulvtcv"
+      },
+      "artists": [
+        {
+          "name": "\u30a4\u30eb\u30df\u30cd\u30fc\u30b7\u30e7\u30f3\u30b9\u30bf\u30fc\u30ba",
+          "url": "https://open.spotify.com/artist/3yKaJ0XB0Wikqntdst6vld"
+        }
+      ],
+      "duration_ms": 285833,
+      "name": "STARRY PLACE",
+      "url": "https://open.spotify.com/track/7GJBvHwDSVfKOhWKYJXcHV"
+    },
+    {
+      "added_at": "2026-09-15 16:17:03",
+      "album": {
         "name": "\u30db\u30e0\u30e9\u30a4\u30f3\u30d3\u30c6\u30fc\u30b7\u30e7\u30f3",
         "url": "https://open.spotify.com/album/2SMURyI1Jvv83ZkP8LUiLA"
       },
@@ -383,18 +399,18 @@
     {
       "added_at": "2026-09-15 16:17:03",
       "album": {
-        "name": "THE IDOLM@STER SHINY COLORS ECHOES 01",
-        "url": "https://open.spotify.com/album/3BwoB9owTSzldPp2ulvtcv"
+        "name": "THE IDOLM@STER SHINY COLORS Song for Prism \u88f8\u8db3\u3058\u3083\u30a4\u30e9\u30ec\u30ca\u30a4 / \u660e\u65e5\u3082Beautiful Day\u3010\u30a2\u30eb\u30b9\u30c8\u30ed\u30e1\u30ea\u30a2\u76e4\u3011",
+        "url": "https://open.spotify.com/album/7x0Bomz5mJjVH2j8zqZS0j"
       },
       "artists": [
         {
-          "name": "\u30a4\u30eb\u30df\u30cd\u30fc\u30b7\u30e7\u30f3\u30b9\u30bf\u30fc\u30ba",
-          "url": "https://open.spotify.com/artist/3yKaJ0XB0Wikqntdst6vld"
+          "name": "\u30a2\u30eb\u30b9\u30c8\u30ed\u30e1\u30ea\u30a2",
+          "url": "https://open.spotify.com/artist/7cZwrPvoqWFiquYx5bfH2Q"
         }
       ],
-      "duration_ms": 285833,
-      "name": "STARRY PLACE",
-      "url": "https://open.spotify.com/track/7GJBvHwDSVfKOhWKYJXcHV"
+      "duration_ms": 264146,
+      "name": "\u660e\u65e5\u3082Beautiful Day",
+      "url": "https://open.spotify.com/track/50KTHltFNdlT2Y1qwQkuFH"
     },
     {
       "added_at": "2026-09-15 16:17:03",
@@ -411,22 +427,6 @@
       "duration_ms": 310533,
       "name": "\u30c4\u30d0\u30b5\u30b0\u30e9\u30d3\u30c6\u30a3",
       "url": "https://open.spotify.com/track/0iNdM6ZaebjSiikUd5Ufn0"
-    },
-    {
-      "added_at": "2026-09-15 16:17:03",
-      "album": {
-        "name": "THE IDOLM@STER SHINY COLORS Song for Prism \u88f8\u8db3\u3058\u3083\u30a4\u30e9\u30ec\u30ca\u30a4 / \u660e\u65e5\u3082Beautiful Day\u3010\u30a2\u30eb\u30b9\u30c8\u30ed\u30e1\u30ea\u30a2\u76e4\u3011",
-        "url": "https://open.spotify.com/album/7x0Bomz5mJjVH2j8zqZS0j"
-      },
-      "artists": [
-        {
-          "name": "\u30a2\u30eb\u30b9\u30c8\u30ed\u30e1\u30ea\u30a2",
-          "url": "https://open.spotify.com/artist/7cZwrPvoqWFiquYx5bfH2Q"
-        }
-      ],
-      "duration_ms": 264146,
-      "name": "\u660e\u65e5\u3082Beautiful Day",
-      "url": "https://open.spotify.com/track/50KTHltFNdlT2Y1qwQkuFH"
     },
     {
       "added_at": "2026-09-15 16:17:03",

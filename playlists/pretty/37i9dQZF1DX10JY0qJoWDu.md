@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX10JY0qJoWDu.md) - [plain]
 
 > Make the holiday magic with festive Disney classics and pop hits.
 
-[Spotify](https://open.spotify.com/user/spotify) - 206,890 likes - 87 songs - 3 hr 51 min
+[Spotify](https://open.spotify.com/user/spotify) - 207,069 likes - 87 songs - 3 hr 51 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -96,4 +96,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX10JY0qJoWDu.md) - [plain]
 | 86 | [Red Christmas \- From "Descendants: The Rise of Red"](https://open.spotify.com/track/6PB4cjXAxH1YxXHzug7i7L) | [Kylie Cantrall](https://open.spotify.com/artist/20EGKg0XsxPJ0GRHxfb9LX) | [Red Christmas \(From "Descendants: The Rise of Red"\)](https://open.spotify.com/album/3E9QzmjoJlNmwUNPt3aaDC) | 2:43 |
 | 87 | [This Christmas \(Hang All the Mistletoe\) \- From "High School Musical: The Musical: The Holiday Special"/Soundtrack Version](https://open.spotify.com/track/78hfRPnAo29INrTill2nk3) | [Sofia Wylie](https://open.spotify.com/artist/0K0YUvOFH3TVILvIPBfeYN) | [Disney Channel Holiday: Falalalidays](https://open.spotify.com/album/1Hop4fHbJkfNm3FofvLgZK) | 2:40 |
 
-Snapshot ID: `AAAAAD2NPajeuNzGpvCSaTl2uFFWt6tC`
+Snapshot ID: `AAAAAOoCSlP3rWhQ1Dik3QYNkcNjf1M0`

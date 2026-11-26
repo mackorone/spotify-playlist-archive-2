@@ -1,12 +1,12 @@
 {
   "description": "Las canciones que marcaron una \u00e9poca.",
-  "num_followers": 53987,
+  "num_followers": 53995,
   "original_name": "Los 2010 Argentina",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAADj2+37WjH55tlCxEGAhmp5u+MUJ",
+  "snapshot_id": "AAAAAOJePPfOaZZWUUF4GCMhQjHKwys9",
   "tracks": [
     {
       "added_at": "2024-06-12 22:23:25",
@@ -255,6 +255,22 @@
     {
       "added_at": "2024-06-12 22:23:25",
       "album": {
+        "name": "Vicentico 5",
+        "url": "https://open.spotify.com/album/1XKqjErvJYimD94yD3v6ky"
+      },
+      "artists": [
+        {
+          "name": "Vicentico",
+          "url": "https://open.spotify.com/artist/25THA9HUHoxpCT4LBp7UsZ"
+        }
+      ],
+      "duration_ms": 190640,
+      "name": "Creo Que Me Enamor\u00e9",
+      "url": "https://open.spotify.com/track/0EC4pUdeehtjl7Yh5GiV3u"
+    },
+    {
+      "added_at": "2024-06-12 22:23:25",
+      "album": {
         "name": "Locales Calientes",
         "url": "https://open.spotify.com/album/13d9lMGw8xFgzoWEZhIaLC"
       },
@@ -271,22 +287,6 @@
       "duration_ms": 247419,
       "name": "Tan Distintos",
       "url": "https://open.spotify.com/track/5lVxdKsJkQClhBLK7lfurE"
-    },
-    {
-      "added_at": "2024-06-12 22:23:25",
-      "album": {
-        "name": "Vicentico 5",
-        "url": "https://open.spotify.com/album/1XKqjErvJYimD94yD3v6ky"
-      },
-      "artists": [
-        {
-          "name": "Vicentico",
-          "url": "https://open.spotify.com/artist/25THA9HUHoxpCT4LBp7UsZ"
-        }
-      ],
-      "duration_ms": 190640,
-      "name": "Creo Que Me Enamor\u00e9",
-      "url": "https://open.spotify.com/track/0EC4pUdeehtjl7Yh5GiV3u"
     },
     {
       "added_at": "2024-06-12 22:23:25",
@@ -323,22 +323,6 @@
     {
       "added_at": "2024-06-12 22:23:25",
       "album": {
-        "name": "Alas Canciones",
-        "url": "https://open.spotify.com/album/0hDvH4mW4hxL8lTQEd4uP8"
-      },
-      "artists": [
-        {
-          "name": "Los Cafres",
-          "url": "https://open.spotify.com/artist/2ST5XwWB4uXGKk2NXP8DUI"
-        }
-      ],
-      "duration_ms": 302280,
-      "name": "Sigo Caminando",
-      "url": "https://open.spotify.com/track/1Po5Jxjh5gHCFiKIt6AQZR"
-    },
-    {
-      "added_at": "2024-06-12 22:23:25",
-      "album": {
         "name": "Cabildo y Juramento",
         "url": "https://open.spotify.com/album/5N3ahntioMGhMCkEOuNJUn"
       },
@@ -351,6 +335,22 @@
       "duration_ms": 258106,
       "name": "Quiero Que Me Llames",
       "url": "https://open.spotify.com/track/7jcXQXxo0lvpwg2twqJpqc"
+    },
+    {
+      "added_at": "2024-06-12 22:23:25",
+      "album": {
+        "name": "Alas Canciones",
+        "url": "https://open.spotify.com/album/0hDvH4mW4hxL8lTQEd4uP8"
+      },
+      "artists": [
+        {
+          "name": "Los Cafres",
+          "url": "https://open.spotify.com/artist/2ST5XwWB4uXGKk2NXP8DUI"
+        }
+      ],
+      "duration_ms": 302280,
+      "name": "Sigo Caminando",
+      "url": "https://open.spotify.com/track/1Po5Jxjh5gHCFiKIt6AQZR"
     },
     {
       "added_at": "2024-06-12 22:23:25",
@@ -815,22 +815,6 @@
     {
       "added_at": "2024-06-12 22:23:25",
       "album": {
-        "name": "Bandera",
-        "url": "https://open.spotify.com/album/318AKHHgLilno4gE3AiEAA"
-      },
-      "artists": [
-        {
-          "name": "1915",
-          "url": "https://open.spotify.com/artist/4jwnlVc9Lj5vMkL32978d1"
-        }
-      ],
-      "duration_ms": 234675,
-      "name": "Polic\u00eda",
-      "url": "https://open.spotify.com/track/0pDooPTaMUaDQfnBdbPdYo"
-    },
-    {
-      "added_at": "2024-06-12 22:23:25",
-      "album": {
         "name": "Las Lunas",
         "url": "https://open.spotify.com/album/4iCgdNm7iU0GDegH0hEnVJ"
       },
@@ -847,18 +831,18 @@
     {
       "added_at": "2024-06-12 22:23:25",
       "album": {
-        "name": "Circolog\u00eda",
-        "url": "https://open.spotify.com/album/59wgQxKgwb9vnpurJ7DSb7"
+        "name": "Bandera",
+        "url": "https://open.spotify.com/album/318AKHHgLilno4gE3AiEAA"
       },
       "artists": [
         {
-          "name": "Los Caligaris",
-          "url": "https://open.spotify.com/artist/13wFTN72PGSUxzEHJP5Ljs"
+          "name": "1915",
+          "url": "https://open.spotify.com/artist/4jwnlVc9Lj5vMkL32978d1"
         }
       ],
-      "duration_ms": 215626,
-      "name": "Aunque No Quiero",
-      "url": "https://open.spotify.com/track/1xeJGNdKyEqqhWfkR31jM2"
+      "duration_ms": 234675,
+      "name": "Polic\u00eda",
+      "url": "https://open.spotify.com/track/0pDooPTaMUaDQfnBdbPdYo"
     },
     {
       "added_at": "2024-06-12 22:23:25",
@@ -879,6 +863,22 @@
     {
       "added_at": "2024-06-12 22:23:25",
       "album": {
+        "name": "Circolog\u00eda",
+        "url": "https://open.spotify.com/album/59wgQxKgwb9vnpurJ7DSb7"
+      },
+      "artists": [
+        {
+          "name": "Los Caligaris",
+          "url": "https://open.spotify.com/artist/13wFTN72PGSUxzEHJP5Ljs"
+        }
+      ],
+      "duration_ms": 215626,
+      "name": "Aunque No Quiero",
+      "url": "https://open.spotify.com/track/1xeJGNdKyEqqhWfkR31jM2"
+    },
+    {
+      "added_at": "2024-06-12 22:23:25",
+      "album": {
         "name": "Las Ligas Menores",
         "url": "https://open.spotify.com/album/3uo5La74eGmsUeXJdRRO3g"
       },
@@ -891,22 +891,6 @@
       "duration_ms": 229842,
       "name": "A 1200 Km",
       "url": "https://open.spotify.com/track/4zdEcOj9IEAE1cWG7zzYxB"
-    },
-    {
-      "added_at": "2024-06-12 22:23:25",
-      "album": {
-        "name": "Agua Ardiente",
-        "url": "https://open.spotify.com/album/1ahdp3YzkgsUZZl3gJPYgL"
-      },
-      "artists": [
-        {
-          "name": "Los Espiritus",
-          "url": "https://open.spotify.com/artist/1UnfU05eCWxrY4vWarpeF0"
-        }
-      ],
-      "duration_ms": 237686,
-      "name": "Jugo",
-      "url": "https://open.spotify.com/track/0PJPcduHwXP4NUp2rd6Kk7"
     },
     {
       "added_at": "2024-06-12 22:23:25",
@@ -927,18 +911,18 @@
     {
       "added_at": "2024-06-12 22:23:25",
       "album": {
-        "name": "Hasta el Final",
-        "url": "https://open.spotify.com/album/5FDw24rKn2nDmcuYYCVuQJ"
+        "name": "Agua Ardiente",
+        "url": "https://open.spotify.com/album/1ahdp3YzkgsUZZl3gJPYgL"
       },
       "artists": [
         {
-          "name": "Guasones",
-          "url": "https://open.spotify.com/artist/2wjmZuSHtRx96Qxb8HiP2o"
+          "name": "Los Espiritus",
+          "url": "https://open.spotify.com/artist/1UnfU05eCWxrY4vWarpeF0"
         }
       ],
-      "duration_ms": 306419,
-      "name": "Canci\u00f3n para un Amigo",
-      "url": "https://open.spotify.com/track/3WLY1xa2Izcof8CNaFK8QS"
+      "duration_ms": 237686,
+      "name": "Jugo",
+      "url": "https://open.spotify.com/track/0PJPcduHwXP4NUp2rd6Kk7"
     },
     {
       "added_at": "2024-06-12 22:23:25",
@@ -955,6 +939,22 @@
       "duration_ms": 279441,
       "name": "Siguiendo la Luna",
       "url": "https://open.spotify.com/track/1zW0pOzZmq4TjEbIDZiPed"
+    },
+    {
+      "added_at": "2024-06-12 22:23:25",
+      "album": {
+        "name": "Hasta el Final",
+        "url": "https://open.spotify.com/album/5FDw24rKn2nDmcuYYCVuQJ"
+      },
+      "artists": [
+        {
+          "name": "Guasones",
+          "url": "https://open.spotify.com/artist/2wjmZuSHtRx96Qxb8HiP2o"
+        }
+      ],
+      "duration_ms": 306419,
+      "name": "Canci\u00f3n para un Amigo",
+      "url": "https://open.spotify.com/track/3WLY1xa2Izcof8CNaFK8QS"
     },
     {
       "added_at": "2024-06-12 22:23:25",
@@ -979,22 +979,6 @@
     {
       "added_at": "2024-06-12 22:23:25",
       "album": {
-        "name": "Los Esp\u00edritus",
-        "url": "https://open.spotify.com/album/3jIrLCi1YnbMJHybfNExxS"
-      },
-      "artists": [
-        {
-          "name": "Los Espiritus",
-          "url": "https://open.spotify.com/artist/1UnfU05eCWxrY4vWarpeF0"
-        }
-      ],
-      "duration_ms": 299880,
-      "name": "Noches De Verano",
-      "url": "https://open.spotify.com/track/5sFEbn2q1dI0xO06BKkcH1"
-    },
-    {
-      "added_at": "2024-06-12 22:23:25",
-      "album": {
         "name": "A Punto Caramelo",
         "url": "https://open.spotify.com/album/1BB2uPxFEBDdOwHcuDI2Jn"
       },
@@ -1015,18 +999,18 @@
     {
       "added_at": "2024-06-12 22:23:25",
       "album": {
-        "name": "Cerca de las Nubes",
-        "url": "https://open.spotify.com/album/74lHbJkzv0QSuxVoSebpxW"
+        "name": "Los Esp\u00edritus",
+        "url": "https://open.spotify.com/album/3jIrLCi1YnbMJHybfNExxS"
       },
       "artists": [
         {
-          "name": "Las Pelotas",
-          "url": "https://open.spotify.com/artist/1Qv4E1VgZOGnOYd99Kp5Bs"
+          "name": "Los Espiritus",
+          "url": "https://open.spotify.com/artist/1UnfU05eCWxrY4vWarpeF0"
         }
       ],
-      "duration_ms": 190984,
-      "name": "Cuantas Cosas",
-      "url": "https://open.spotify.com/track/1oGZp4qtD0IIRkkCun2MOx"
+      "duration_ms": 299880,
+      "name": "Noches De Verano",
+      "url": "https://open.spotify.com/track/5sFEbn2q1dI0xO06BKkcH1"
     },
     {
       "added_at": "2024-06-12 22:23:25",
@@ -1051,18 +1035,34 @@
     {
       "added_at": "2024-06-12 22:23:25",
       "album": {
-        "name": "Random",
-        "url": "https://open.spotify.com/album/3AFgH2pplBRflUp6D1d1eQ"
+        "name": "Cerca de las Nubes",
+        "url": "https://open.spotify.com/album/74lHbJkzv0QSuxVoSebpxW"
       },
       "artists": [
         {
-          "name": "Charly Garc\u00eda",
-          "url": "https://open.spotify.com/artist/3jO7X5KupvwmWTHGtHgcgo"
+          "name": "Las Pelotas",
+          "url": "https://open.spotify.com/artist/1Qv4E1VgZOGnOYd99Kp5Bs"
         }
       ],
-      "duration_ms": 280493,
-      "name": "La M\u00e1quina de Ser Feliz",
-      "url": "https://open.spotify.com/track/52qq2T7uXlpI7Kfb4otWNk"
+      "duration_ms": 190984,
+      "name": "Cuantas Cosas",
+      "url": "https://open.spotify.com/track/1oGZp4qtD0IIRkkCun2MOx"
+    },
+    {
+      "added_at": "2024-06-12 22:23:25",
+      "album": {
+        "name": "Cabildo y Juramento",
+        "url": "https://open.spotify.com/album/5N3ahntioMGhMCkEOuNJUn"
+      },
+      "artists": [
+        {
+          "name": "Conociendo Rusia",
+          "url": "https://open.spotify.com/artist/79R7PUc6T6j09G8mJzNml2"
+        }
+      ],
+      "duration_ms": 340920,
+      "name": "Cosas para Decirte",
+      "url": "https://open.spotify.com/track/4bLEdN7hL33Qv4fCz5VLMG"
     },
     {
       "added_at": "2024-06-12 22:23:25",
@@ -1087,6 +1087,22 @@
     {
       "added_at": "2024-06-12 22:23:25",
       "album": {
+        "name": "Random",
+        "url": "https://open.spotify.com/album/3AFgH2pplBRflUp6D1d1eQ"
+      },
+      "artists": [
+        {
+          "name": "Charly Garc\u00eda",
+          "url": "https://open.spotify.com/artist/3jO7X5KupvwmWTHGtHgcgo"
+        }
+      ],
+      "duration_ms": 280493,
+      "name": "La M\u00e1quina de Ser Feliz",
+      "url": "https://open.spotify.com/track/52qq2T7uXlpI7Kfb4otWNk"
+    },
+    {
+      "added_at": "2024-06-12 22:23:25",
+      "album": {
         "name": "Yo Te Amo",
         "url": "https://open.spotify.com/album/0Lbrgw1MoFhmnX1FyBpRw3"
       },
@@ -1099,22 +1115,6 @@
       "duration_ms": 202946,
       "name": "Margarita",
       "url": "https://open.spotify.com/track/44fpTaUuSFvwzeJe4yEDDe"
-    },
-    {
-      "added_at": "2024-06-12 22:23:25",
-      "album": {
-        "name": "Cabildo y Juramento",
-        "url": "https://open.spotify.com/album/5N3ahntioMGhMCkEOuNJUn"
-      },
-      "artists": [
-        {
-          "name": "Conociendo Rusia",
-          "url": "https://open.spotify.com/artist/79R7PUc6T6j09G8mJzNml2"
-        }
-      ],
-      "duration_ms": 340920,
-      "name": "Cosas para Decirte",
-      "url": "https://open.spotify.com/track/4bLEdN7hL33Qv4fCz5VLMG"
     },
     {
       "added_at": "2024-06-12 22:23:25",

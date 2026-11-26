@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3XfcfEnrDRE.md) - [plain]
 
 > Songs representing Alternative music's ever\-evolving sound paired with these artists' everlasting faith\.  Cover: Isla Vista Worship
 
-[Spotify](https://open.spotify.com/user/spotify) - 259,888 likes - 80 songs - 4 hr 42 min
+[Spotify](https://open.spotify.com/user/spotify) - 259,873 likes - 80 songs - 4 hr 42 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -89,4 +89,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3XfcfEnrDRE.md) - [plain]
 | 79 | [Saviour](https://open.spotify.com/track/71uSTMTvKJyXPH4bEuUlxo) | [Dâmares Gomes](https://open.spotify.com/artist/5vH1WRgVmc2mwF0iXgOibC) | [Saviour](https://open.spotify.com/album/0ypejZnUC1REB7wE1PLaba) | 4:07 |
 | 80 | [Didn't Make It Easy](https://open.spotify.com/track/7dvewBjpeleXmtJMfaYzt7) | [Tobi Adey](https://open.spotify.com/artist/6gSsCWWxWpW2zy7wXswdPE), [KamiKwazi](https://open.spotify.com/artist/3zMmT9071elwPpL9obVnZw) | [Didn't Make It Easy](https://open.spotify.com/album/3D49jvNFzL3wmxrVkIV4Jm) | 3:35 |
 
-Snapshot ID: `AAAAAJC5ItV0AGaCmhYfeC7e1AHXxP4H`
+Snapshot ID: `AAAAACHKkMvlrOWNZ8ov9hKhIbGwcYd6`

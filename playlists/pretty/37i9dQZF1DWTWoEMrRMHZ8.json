@@ -1,12 +1,12 @@
 {
   "description": "As belas novidades da MPB. Foto: Ala\u00edde Costa, Emicida",
-  "num_followers": 352720,
+  "num_followers": 352707,
   "original_name": "Divina MPB",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAABHsjhJ0tEi9tAIbmo+7nMXK9Xhn",
+  "snapshot_id": "AAAAAFE0GdyzqO1vgvNpQp9sI5e9ufQf",
   "tracks": [
     {
       "added_at": "2026-11-20 03:01:03",
@@ -95,22 +95,6 @@
     {
       "added_at": "2026-11-20 03:01:03",
       "album": {
-        "name": "Matchola - Spotify Sessions",
-        "url": "https://open.spotify.com/album/4hafpkCGRkySUlu1GuBpqL"
-      },
-      "artists": [
-        {
-          "name": "Matchola",
-          "url": "https://open.spotify.com/artist/5FK5T4mGxkfedPwBdFnw1X"
-        }
-      ],
-      "duration_ms": 172779,
-      "name": "BARRIL DOBRADO - Spotify Sessions",
-      "url": "https://open.spotify.com/track/5gUDjykqXzVEXX3VSlXjCy"
-    },
-    {
-      "added_at": "2026-11-20 03:01:03",
-      "album": {
         "name": "At\u00e9 Outro Dia Amor",
         "url": "https://open.spotify.com/album/6PRSfhGYFpvIW7NpAfN72z"
       },
@@ -123,6 +107,22 @@
       "duration_ms": 208492,
       "name": "At\u00e9 Outro Dia Amor",
       "url": "https://open.spotify.com/track/3sNq3qDXEWI8gtzoWbLAWR"
+    },
+    {
+      "added_at": "2026-11-20 03:01:03",
+      "album": {
+        "name": "Matchola - Spotify Sessions",
+        "url": "https://open.spotify.com/album/4hafpkCGRkySUlu1GuBpqL"
+      },
+      "artists": [
+        {
+          "name": "Matchola",
+          "url": "https://open.spotify.com/artist/5FK5T4mGxkfedPwBdFnw1X"
+        }
+      ],
+      "duration_ms": 172779,
+      "name": "BARRIL DOBRADO - Spotify Sessions",
+      "url": "https://open.spotify.com/track/5gUDjykqXzVEXX3VSlXjCy"
     },
     {
       "added_at": "2026-11-20 03:01:03",
@@ -719,6 +719,22 @@
     {
       "added_at": "2026-11-20 03:01:03",
       "album": {
+        "name": "Desculpe o Au\u00ea",
+        "url": "https://open.spotify.com/album/1Enxf1GkO9hGUOszxHFCP0"
+      },
+      "artists": [
+        {
+          "name": "Ana Ca\u00f1as",
+          "url": "https://open.spotify.com/artist/4v1mao101nIWvxzotCSKyz"
+        }
+      ],
+      "duration_ms": 199690,
+      "name": "Desculpe o Au\u00ea",
+      "url": "https://open.spotify.com/track/0AaKcnzMnTmK4646nPOYR4"
+    },
+    {
+      "added_at": "2026-11-20 03:01:03",
+      "album": {
         "name": "Caf\u00e9",
         "url": "https://open.spotify.com/album/2gjoYpivdKaMgyqfZMrAIg"
       },
@@ -739,18 +755,18 @@
     {
       "added_at": "2026-11-20 03:01:03",
       "album": {
-        "name": "Desculpe o Au\u00ea",
-        "url": "https://open.spotify.com/album/1Enxf1GkO9hGUOszxHFCP0"
+        "name": "Os Incont\u00e1veis Desdobramentos de um Efeito Borboleta",
+        "url": "https://open.spotify.com/album/5ls38bcgo7nGTJobyRayAO"
       },
       "artists": [
         {
-          "name": "Ana Ca\u00f1as",
-          "url": "https://open.spotify.com/artist/4v1mao101nIWvxzotCSKyz"
+          "name": "Escarc\u00e9u",
+          "url": "https://open.spotify.com/artist/3QxbKAKyItPOyMosEJpG0f"
         }
       ],
-      "duration_ms": 199690,
-      "name": "Desculpe o Au\u00ea",
-      "url": "https://open.spotify.com/track/0AaKcnzMnTmK4646nPOYR4"
+      "duration_ms": 138875,
+      "name": "PIOR EM TUDO",
+      "url": "https://open.spotify.com/track/6VJSeqMRawJ5OKavnBZCvT"
     },
     {
       "added_at": "2026-11-20 03:01:03",
@@ -795,22 +811,6 @@
     {
       "added_at": "2026-11-20 03:01:03",
       "album": {
-        "name": "Os Incont\u00e1veis Desdobramentos de um Efeito Borboleta",
-        "url": "https://open.spotify.com/album/5ls38bcgo7nGTJobyRayAO"
-      },
-      "artists": [
-        {
-          "name": "Escarc\u00e9u",
-          "url": "https://open.spotify.com/artist/3QxbKAKyItPOyMosEJpG0f"
-        }
-      ],
-      "duration_ms": 138875,
-      "name": "PIOR EM TUDO",
-      "url": "https://open.spotify.com/track/6VJSeqMRawJ5OKavnBZCvT"
-    },
-    {
-      "added_at": "2026-11-20 03:01:03",
-      "album": {
         "name": "Teia",
         "url": "https://open.spotify.com/album/0WSxVZLu5R8CpgU9kqKgzo"
       },
@@ -847,6 +847,22 @@
     {
       "added_at": "2026-11-20 03:01:03",
       "album": {
+        "name": "AMARINA Canta Kid Abelha",
+        "url": "https://open.spotify.com/album/4iuSPxyDs724tP27eWWrEP"
+      },
+      "artists": [
+        {
+          "name": "AMARINA",
+          "url": "https://open.spotify.com/artist/51NkA7l8OQvbk3p40xzdYG"
+        }
+      ],
+      "duration_ms": 227410,
+      "name": "L\u00e1grimas e Chuva",
+      "url": "https://open.spotify.com/track/5nZ8tWzucUEgElfP919F3A"
+    },
+    {
+      "added_at": "2026-11-20 03:01:03",
+      "album": {
         "name": "Viva Donato",
         "url": "https://open.spotify.com/album/1NDiIYFG9wXz1U1FUlegRl"
       },
@@ -867,22 +883,6 @@
     {
       "added_at": "2026-11-20 03:01:03",
       "album": {
-        "name": "AMARINA Canta Kid Abelha",
-        "url": "https://open.spotify.com/album/4iuSPxyDs724tP27eWWrEP"
-      },
-      "artists": [
-        {
-          "name": "AMARINA",
-          "url": "https://open.spotify.com/artist/51NkA7l8OQvbk3p40xzdYG"
-        }
-      ],
-      "duration_ms": 227410,
-      "name": "L\u00e1grimas e Chuva",
-      "url": "https://open.spotify.com/track/5nZ8tWzucUEgElfP919F3A"
-    },
-    {
-      "added_at": "2026-11-20 03:01:03",
-      "album": {
         "name": "Por Onde Deus Sorri",
         "url": "https://open.spotify.com/album/45IsMZdwiag4G3I6OHvSct"
       },
@@ -895,6 +895,26 @@
       "duration_ms": 161944,
       "name": "Por Onde Deus Sorri",
       "url": "https://open.spotify.com/track/5QdrveW2rl2WTrhjuca317"
+    },
+    {
+      "added_at": "2026-11-20 03:01:03",
+      "album": {
+        "name": "Melodia, Letra E M\u00fasica",
+        "url": "https://open.spotify.com/album/5yXsdyCtLz7hrrH89kiAO9"
+      },
+      "artists": [
+        {
+          "name": "BaianaSystem",
+          "url": "https://open.spotify.com/artist/5JHYuwE2n7bleXMUsmtCW5"
+        },
+        {
+          "name": "Luiz Melodia",
+          "url": "https://open.spotify.com/artist/1zZjt7cDeeJSLWZYK34r7W"
+        }
+      ],
+      "duration_ms": 234262,
+      "name": "Brasil Zerado",
+      "url": "https://open.spotify.com/track/5ye9WkEzQ0PdXnLng8BCDS"
     },
     {
       "added_at": "2026-11-20 03:01:03",
@@ -923,22 +943,18 @@
     {
       "added_at": "2026-11-20 03:01:03",
       "album": {
-        "name": "Melodia, Letra E M\u00fasica",
-        "url": "https://open.spotify.com/album/5yXsdyCtLz7hrrH89kiAO9"
+        "name": "Tantos Amores",
+        "url": "https://open.spotify.com/album/6L0Jz9YcrAXBgw1auErWFf"
       },
       "artists": [
         {
-          "name": "BaianaSystem",
-          "url": "https://open.spotify.com/artist/5JHYuwE2n7bleXMUsmtCW5"
-        },
-        {
-          "name": "Luiz Melodia",
-          "url": "https://open.spotify.com/artist/1zZjt7cDeeJSLWZYK34r7W"
+          "name": "Amanda Coronha",
+          "url": "https://open.spotify.com/artist/49mOrWygxJo6j4ALdrVX6z"
         }
       ],
-      "duration_ms": 234262,
-      "name": "Brasil Zerado",
-      "url": "https://open.spotify.com/track/5ye9WkEzQ0PdXnLng8BCDS"
+      "duration_ms": 181813,
+      "name": "Tantos Amores",
+      "url": "https://open.spotify.com/track/0I4DvvxFa0sBuuJId2bU9L"
     },
     {
       "added_at": "2026-11-20 03:01:03",
@@ -979,22 +995,6 @@
       "duration_ms": 183680,
       "name": "MATUMBI - Ao vivo",
       "url": "https://open.spotify.com/track/647qGJzdQnsazCgAz95c5Z"
-    },
-    {
-      "added_at": "2026-11-20 03:01:03",
-      "album": {
-        "name": "Tantos Amores",
-        "url": "https://open.spotify.com/album/6L0Jz9YcrAXBgw1auErWFf"
-      },
-      "artists": [
-        {
-          "name": "Amanda Coronha",
-          "url": "https://open.spotify.com/artist/49mOrWygxJo6j4ALdrVX6z"
-        }
-      ],
-      "duration_ms": 181813,
-      "name": "Tantos Amores",
-      "url": "https://open.spotify.com/track/0I4DvvxFa0sBuuJId2bU9L"
     },
     {
       "added_at": "2026-11-20 03:01:03",
@@ -1219,6 +1219,42 @@
     {
       "added_at": "2026-11-20 03:01:03",
       "album": {
+        "name": "Mais Uma Flor",
+        "url": "https://open.spotify.com/album/15DpNDco72qFNsUaedBIOA"
+      },
+      "artists": [
+        {
+          "name": "Assucena",
+          "url": "https://open.spotify.com/artist/4JUqukNJyqVXHjdRlFcFu8"
+        },
+        {
+          "name": "Z\u00e9 Manoel",
+          "url": "https://open.spotify.com/artist/6V29laIlmBaFnxF9uDvZvH"
+        }
+      ],
+      "duration_ms": 274949,
+      "name": "Mais Uma Flor",
+      "url": "https://open.spotify.com/track/7IbkhLHcUXPB84mCEkrgcB"
+    },
+    {
+      "added_at": "2026-11-20 03:01:03",
+      "album": {
+        "name": "Miragem",
+        "url": "https://open.spotify.com/album/1Hu7oxpLBXFeJgz1epgEvH"
+      },
+      "artists": [
+        {
+          "name": "Dora Sanches",
+          "url": "https://open.spotify.com/artist/229B0BZwb8NWvQpmt5rXJR"
+        }
+      ],
+      "duration_ms": 213429,
+      "name": "Miragem",
+      "url": "https://open.spotify.com/track/4EeabehFz5I7NY7va3jdlI"
+    },
+    {
+      "added_at": "2026-11-20 03:01:03",
+      "album": {
         "name": "Em Sil\u00eancio o Afeto Cresce",
         "url": "https://open.spotify.com/album/2846p6Xqfr0BeDwEyQhWqs"
       },
@@ -1247,22 +1283,6 @@
       "duration_ms": 175000,
       "name": "Flor",
       "url": "https://open.spotify.com/track/2S298D55M4nMNNWJZxRf2D"
-    },
-    {
-      "added_at": "2026-11-20 03:01:03",
-      "album": {
-        "name": "Miragem",
-        "url": "https://open.spotify.com/album/1Hu7oxpLBXFeJgz1epgEvH"
-      },
-      "artists": [
-        {
-          "name": "Dora Sanches",
-          "url": "https://open.spotify.com/artist/229B0BZwb8NWvQpmt5rXJR"
-        }
-      ],
-      "duration_ms": 213429,
-      "name": "Miragem",
-      "url": "https://open.spotify.com/track/4EeabehFz5I7NY7va3jdlI"
     },
     {
       "added_at": "2026-11-20 03:01:03",
@@ -1303,26 +1323,6 @@
       "duration_ms": 187415,
       "name": "Qualquer Bobagem - Ao Vivo",
       "url": "https://open.spotify.com/track/7nnMIioa5nnMMjoXBzu7Hc"
-    },
-    {
-      "added_at": "2026-11-20 03:01:03",
-      "album": {
-        "name": "Mais Uma Flor",
-        "url": "https://open.spotify.com/album/15DpNDco72qFNsUaedBIOA"
-      },
-      "artists": [
-        {
-          "name": "Assucena",
-          "url": "https://open.spotify.com/artist/4JUqukNJyqVXHjdRlFcFu8"
-        },
-        {
-          "name": "Z\u00e9 Manoel",
-          "url": "https://open.spotify.com/artist/6V29laIlmBaFnxF9uDvZvH"
-        }
-      ],
-      "duration_ms": 274949,
-      "name": "Mais Uma Flor",
-      "url": "https://open.spotify.com/track/7IbkhLHcUXPB84mCEkrgcB"
     },
     {
       "added_at": "2026-11-20 03:01:03",
@@ -1375,6 +1375,26 @@
       "duration_ms": 151800,
       "name": "Salvador",
       "url": "https://open.spotify.com/track/563tt8KfkDb3FFhPCSl4em"
+    },
+    {
+      "added_at": "2026-11-20 03:01:03",
+      "album": {
+        "name": "Floreando",
+        "url": "https://open.spotify.com/album/4kGYIzsbvCypLbmdp1iJbV"
+      },
+      "artists": [
+        {
+          "name": "Magi",
+          "url": "https://open.spotify.com/artist/1wO4Q3O7ljz4tGRAVZVQXy"
+        },
+        {
+          "name": "Bruna Magalh\u00e3es",
+          "url": "https://open.spotify.com/artist/108y6vREhgAIvgvm1Cq54p"
+        }
+      ],
+      "duration_ms": 145130,
+      "name": "L\u00e1 Vem Voc\u00ea",
+      "url": "https://open.spotify.com/track/48rkL7YjjRwa66GceSkOHl"
     },
     {
       "added_at": "2026-11-20 03:01:03",
@@ -1451,26 +1471,6 @@
       "duration_ms": 220689,
       "name": "romance",
       "url": "https://open.spotify.com/track/1Ith7xkDDOT4DLAEUp0rp7"
-    },
-    {
-      "added_at": "2026-11-20 03:01:03",
-      "album": {
-        "name": "Floreando",
-        "url": "https://open.spotify.com/album/4kGYIzsbvCypLbmdp1iJbV"
-      },
-      "artists": [
-        {
-          "name": "Magi",
-          "url": "https://open.spotify.com/artist/1wO4Q3O7ljz4tGRAVZVQXy"
-        },
-        {
-          "name": "Bruna Magalh\u00e3es",
-          "url": "https://open.spotify.com/artist/108y6vREhgAIvgvm1Cq54p"
-        }
-      ],
-      "duration_ms": 145130,
-      "name": "L\u00e1 Vem Voc\u00ea",
-      "url": "https://open.spotify.com/track/48rkL7YjjRwa66GceSkOHl"
     },
     {
       "added_at": "2026-11-20 03:01:03",

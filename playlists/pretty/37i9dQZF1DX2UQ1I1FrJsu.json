@@ -1,12 +1,12 @@
 {
   "description": "smooth, crisp, not too tannic. ",
-  "num_followers": 158473,
+  "num_followers": 158514,
   "original_name": "Wine Bar",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAALhDWVhcMk99pGSNt4Aye6TjSLA6",
+  "snapshot_id": "AAAAAEF/49Plm8AIqNOISlrYWSz95AFI",
   "tracks": [
     {
       "added_at": "2026-11-20 05:00:49",
@@ -1507,6 +1507,38 @@
     {
       "added_at": "2026-11-20 05:00:49",
       "album": {
+        "name": "Rodeo",
+        "url": "https://open.spotify.com/album/52y3TL7eXNsdcdffjY6Uu3"
+      },
+      "artists": [
+        {
+          "name": "Pale Jay",
+          "url": "https://open.spotify.com/artist/7H3z77VbkJcCcFilmKqKNM"
+        }
+      ],
+      "duration_ms": 210591,
+      "name": "Rodeo",
+      "url": "https://open.spotify.com/track/4Y3Bv9FEcC472F2uh0Gskr"
+    },
+    {
+      "added_at": "2026-11-20 05:00:49",
+      "album": {
+        "name": "Kingdoms In Colour",
+        "url": "https://open.spotify.com/album/70FGsJuLXPQHYdKmEZZFq9"
+      },
+      "artists": [
+        {
+          "name": "Maribou State",
+          "url": "https://open.spotify.com/artist/7zrkALJ9ayRjzysp4QYoEg"
+        }
+      ],
+      "duration_ms": 225910,
+      "name": "Glasshouses",
+      "url": "https://open.spotify.com/track/7isVqPzG3R5ni6IM4YG0sv"
+    },
+    {
+      "added_at": "2026-11-20 05:00:49",
+      "album": {
         "name": "I Want Your Love",
         "url": "https://open.spotify.com/album/21HJ7l1A9ucgEzfupxpFA6"
       },
@@ -1535,22 +1567,6 @@
     {
       "added_at": "2026-11-20 05:00:49",
       "album": {
-        "name": "Kingdoms In Colour",
-        "url": "https://open.spotify.com/album/70FGsJuLXPQHYdKmEZZFq9"
-      },
-      "artists": [
-        {
-          "name": "Maribou State",
-          "url": "https://open.spotify.com/artist/7zrkALJ9ayRjzysp4QYoEg"
-        }
-      ],
-      "duration_ms": 225910,
-      "name": "Glasshouses",
-      "url": "https://open.spotify.com/track/7isVqPzG3R5ni6IM4YG0sv"
-    },
-    {
-      "added_at": "2026-11-20 05:00:49",
-      "album": {
         "name": "Brown Sugar",
         "url": "https://open.spotify.com/album/4HTVABUq8amDUxBv3zJbX4"
       },
@@ -1563,22 +1579,6 @@
       "duration_ms": 344893,
       "name": "When We Get By",
       "url": "https://open.spotify.com/track/1DNkxLaGqAIU43kHQkunoE"
-    },
-    {
-      "added_at": "2026-11-20 05:00:49",
-      "album": {
-        "name": "Rodeo",
-        "url": "https://open.spotify.com/album/52y3TL7eXNsdcdffjY6Uu3"
-      },
-      "artists": [
-        {
-          "name": "Pale Jay",
-          "url": "https://open.spotify.com/artist/7H3z77VbkJcCcFilmKqKNM"
-        }
-      ],
-      "duration_ms": 210591,
-      "name": "Rodeo",
-      "url": "https://open.spotify.com/track/4Y3Bv9FEcC472F2uh0Gskr"
     },
     {
       "added_at": "2026-11-20 05:00:49",
@@ -1895,22 +1895,6 @@
     {
       "added_at": "2026-11-20 05:00:49",
       "album": {
-        "name": "Cola",
-        "url": "https://open.spotify.com/album/292dfJsxChA6s32kXGrrd4"
-      },
-      "artists": [
-        {
-          "name": "Arlo Parks",
-          "url": "https://open.spotify.com/artist/4kIwETcbpuFgRukE8o7Opx"
-        }
-      ],
-      "duration_ms": 229685,
-      "name": "Cola",
-      "url": "https://open.spotify.com/track/0i6c86ntKJoZpKk8aCHL3c"
-    },
-    {
-      "added_at": "2026-11-20 05:00:49",
-      "album": {
         "name": "Blood Milk Moon",
         "url": "https://open.spotify.com/album/6g0QEibSFA7mc0JDl9j3l3"
       },
@@ -1923,6 +1907,22 @@
       "duration_ms": 177852,
       "name": "Blood Milk Moon",
       "url": "https://open.spotify.com/track/3XagHd6dQ24vSujx0ADqXK"
+    },
+    {
+      "added_at": "2026-11-20 05:00:49",
+      "album": {
+        "name": "Cola",
+        "url": "https://open.spotify.com/album/292dfJsxChA6s32kXGrrd4"
+      },
+      "artists": [
+        {
+          "name": "Arlo Parks",
+          "url": "https://open.spotify.com/artist/4kIwETcbpuFgRukE8o7Opx"
+        }
+      ],
+      "duration_ms": 229685,
+      "name": "Cola",
+      "url": "https://open.spotify.com/track/0i6c86ntKJoZpKk8aCHL3c"
     },
     {
       "added_at": "2026-11-20 05:00:49",
@@ -2019,22 +2019,6 @@
     {
       "added_at": "2026-11-20 05:00:49",
       "album": {
-        "name": "Lotus 72 D",
-        "url": "https://open.spotify.com/album/5WSJRs0TjAxxljSfLQZ2ai"
-      },
-      "artists": [
-        {
-          "name": "Z\u00e9 Roberto",
-          "url": "https://open.spotify.com/artist/18pOC3dikx4dLs5znHrZJZ"
-        }
-      ],
-      "duration_ms": 180490,
-      "name": "Lotus 72 D - Fast Version",
-      "url": "https://open.spotify.com/track/7rtcBPsHDLeYW9cHDrO0NB"
-    },
-    {
-      "added_at": "2026-11-20 05:00:49",
-      "album": {
         "name": "Rising Son",
         "url": "https://open.spotify.com/album/7GDnn7XSLCIjZkBkw0SMZd"
       },
@@ -2051,6 +2035,22 @@
       "duration_ms": 565502,
       "name": "Everybody Loves The Sunshine",
       "url": "https://open.spotify.com/track/4F17fOFNxTHhNk6fXq46w6"
+    },
+    {
+      "added_at": "2026-11-20 05:00:49",
+      "album": {
+        "name": "Lotus 72 D",
+        "url": "https://open.spotify.com/album/5WSJRs0TjAxxljSfLQZ2ai"
+      },
+      "artists": [
+        {
+          "name": "Z\u00e9 Roberto",
+          "url": "https://open.spotify.com/artist/18pOC3dikx4dLs5znHrZJZ"
+        }
+      ],
+      "duration_ms": 180490,
+      "name": "Lotus 72 D - Fast Version",
+      "url": "https://open.spotify.com/track/7rtcBPsHDLeYW9cHDrO0NB"
     },
     {
       "added_at": "2026-11-20 05:00:49",
@@ -2103,22 +2103,6 @@
     {
       "added_at": "2026-11-20 05:00:49",
       "album": {
-        "name": "All About Me",
-        "url": "https://open.spotify.com/album/6zprXAlQbVyY4bokzeemmr"
-      },
-      "artists": [
-        {
-          "name": "Jalen Ngonda",
-          "url": "https://open.spotify.com/artist/2kEDso93O2hDgCbnuiSkkZ"
-        }
-      ],
-      "duration_ms": 263300,
-      "name": "All About Me",
-      "url": "https://open.spotify.com/track/60mXzhxdo3dtKYz1MNBLFD"
-    },
-    {
-      "added_at": "2026-11-20 05:00:49",
-      "album": {
         "name": "dear dialE",
         "url": "https://open.spotify.com/album/5MuPJGunKGoiPi0NYqiqIE"
       },
@@ -2131,6 +2115,22 @@
       "duration_ms": 94085,
       "name": "nine thirty (the glow)",
       "url": "https://open.spotify.com/track/7fOu8YZoZ13Q8H6A2vm8ie"
+    },
+    {
+      "added_at": "2026-11-20 05:00:49",
+      "album": {
+        "name": "All About Me",
+        "url": "https://open.spotify.com/album/6zprXAlQbVyY4bokzeemmr"
+      },
+      "artists": [
+        {
+          "name": "Jalen Ngonda",
+          "url": "https://open.spotify.com/artist/2kEDso93O2hDgCbnuiSkkZ"
+        }
+      ],
+      "duration_ms": 263300,
+      "name": "All About Me",
+      "url": "https://open.spotify.com/track/60mXzhxdo3dtKYz1MNBLFD"
     },
     {
       "added_at": "2026-11-20 05:00:49",

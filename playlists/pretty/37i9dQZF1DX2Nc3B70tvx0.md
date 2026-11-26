@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2Nc3B70tvx0.md) - [plain]
 
 > brand new indie songs in high rotation\. Cover: beabadoobee
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,898,808 likes - 51 songs - 3 hr 4 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,898,700 likes - 51 songs - 3 hr 4 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -60,4 +60,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2Nc3B70tvx0.md) - [plain]
 | 50 | [I WANNA LOVE YOU BABE](https://open.spotify.com/track/3jNgp0vOXGqd0Dy9V4KdsB) | [LAUNDRY DAY](https://open.spotify.com/artist/0SwK6bwzmGkViNoxSbJ5Mk) | [I WANNA LOVE YOU BABE](https://open.spotify.com/album/2bMNH52yTI8iJczEutL43W) | 4:34 |
 | 51 | [It's Not Easy \(Falling In Love\)](https://open.spotify.com/track/0C9GRYGgChsl5aHBxSEJoX) | [Medium Build](https://open.spotify.com/artist/3C6wmSgnZuqxVQyBWujBsn) | [King of Having Fun](https://open.spotify.com/album/6qvLeDfqPRk1w73Vh885S3) | 2:26 |
 
-Snapshot ID: `AAAAAJ2TXEg307zHeiYoqrSjIAvFMqlX`
+Snapshot ID: `AAAAAGFsH1/gqSDayszF3tG+4lGfGDrg`

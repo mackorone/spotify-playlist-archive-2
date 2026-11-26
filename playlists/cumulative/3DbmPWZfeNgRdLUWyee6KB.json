@@ -1569,6 +1569,24 @@
     },
     {
       "album": {
+        "name": "All along",
+        "url": "https://open.spotify.com/album/7qx5BlEZz0ip8TK5hsNq4Z"
+      },
+      "artists": [
+        {
+          "name": "DOXAN",
+          "url": "https://open.spotify.com/artist/5X246ObvluQlKKfjS2nZVJ"
+        }
+      ],
+      "date_added": "2026-11-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 244000,
+      "name": "All along",
+      "url": "https://open.spotify.com/track/5AE5jeBPyWDEKm8xVKeBr2"
+    },
+    {
+      "album": {
         "name": "Never Too Late",
         "url": "https://open.spotify.com/album/3bNnCDLxdkSjjSsCHtn0mL"
       },

@@ -4,7 +4,7 @@
 
 > Música navideña para celebrar el nacimiento de nuestro Salvador\. Portada: Israel & New Breed, Unified Sound, Adrienne Bailon\-Houghton, Claudette Bailon, Diana Marie, Travy Joe, Aaron Moses, & Nate Diaz
 
-274 songs - 17 hr 52 min
+275 songs - 17 hr 55 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -114,6 +114,7 @@
 | [Feliz Navidad](https://open.spotify.com/track/2hh3NHe6Z3JyC11wwkHTBG) | [Jeremy Rosado](https://open.spotify.com/artist/57H6K2mTvFS2TESVHCoDKY) | [Feliz Navidad](https://open.spotify.com/album/7dkXbTzCNrbLeLwEBDjBrC) | 3:05 | 2025-11-08 |  |
 | [Feliz Navidad](https://open.spotify.com/track/0mbKemvmkBi8AmG3pMUbFv) | [Jordan Feliz](https://open.spotify.com/artist/0TgNiaeQaWssaH9aWjbqnA) | [Joy To Our World](https://open.spotify.com/album/5EG8nCVC46N0fWdeYhevC1) | 3:18 | 2021-12-24 | 2024-07-30 |
 | [Feliz Navidad](https://open.spotify.com/track/23yXE7auYQ93grOZn0PHn9) | [Jordan Feliz](https://open.spotify.com/artist/0TgNiaeQaWssaH9aWjbqnA) | [Joy To Our World](https://open.spotify.com/album/6rwwb34IZFoebbkLoMNwn4) | 3:18 | 2021-12-24 | 2024-04-19 |
+| [Feliz Navidad](https://open.spotify.com/track/2E0balHmjeioKnOWns0TcS) | [Seth Condrey](https://open.spotify.com/artist/4DeiqSO9kyWDr1KuQTYMVg) | [A Merry Little Christmas](https://open.spotify.com/album/1Bsdx7XEdFolKlHAhzh8GC) | 3:06 | 2026-11-25 |  |
 | [Feliz Navidad](https://open.spotify.com/track/71FxVLPCWjZe6OvBbrhN6U) | [Su Presencia](https://open.spotify.com/artist/2gaFnEQydJdWNkT17NLZm3) | [Navidad \- Jesús Es el Motivo \(Deluxe Edition\)](https://open.spotify.com/album/5eEp9QY1Uw8G10eV2X6bR8) | 2:57 | 2024-11-16 |  |
 | [Feliz Navidad](https://open.spotify.com/track/4zmMCpzxy9mt4gW8C0Uufk) | [Yamaree Mahawon](https://open.spotify.com/artist/7pxDHAwWckKzgQI8xj7yY0), [Ruby Cavazos](https://open.spotify.com/artist/1kBE8crkTKvG3ENQktbe1j), [Zoe Jean Fowler](https://open.spotify.com/artist/79i4Y9rLmj4djhik1uYDQm) | [CHRISTMAS WITH FRIENDS](https://open.spotify.com/album/2LaGLXCOEdRF37oogLRDe6) | 2:37 | 2024-11-16 |  |
 | [Fiestas De Navidad](https://open.spotify.com/track/5pkYpPTEoOacNgbJ04t9SA) | [La Reforma](https://open.spotify.com/artist/509gHoIVkSYOOWxcpKyfRf) | [Fiestas De Navidad](https://open.spotify.com/album/5Seo1QTqE1LLX1Qt10wnRH) | 3:00 | 2023-12-15 |  |
@@ -230,7 +231,7 @@
 | [Santa la Noche](https://open.spotify.com/track/1VSIMVn192zKDOoRKFYIan) | [Gabriela Cartulano](https://open.spotify.com/artist/0i3Bb89hqVidaYPGOD03kx) | [Santa la Noche](https://open.spotify.com/album/2Vds3tR4KKnNsotTbAd1GQ) | 3:56 | 2021-12-24 | 2024-04-19 |
 | [Santa la Noche](https://open.spotify.com/track/6OkKwYcHGFWIbpDXF0lhV8) | [Gabriela Cartulano](https://open.spotify.com/artist/0i3Bb89hqVidaYPGOD03kx) | [Santa la Noche](https://open.spotify.com/album/6XSE34VbnEn6qO3lBdzXDX) | 3:56 | 2021-12-24 | 2024-11-30 |
 | [Santa la Noche](https://open.spotify.com/track/3dCHDETB0ddcWtRDMRqiM7) | [Julissa](https://open.spotify.com/artist/6WCFOdK10oxg9dYaaIyeZu) | [Nació en Mi Corazón](https://open.spotify.com/album/4J20m0CLlK0XdEPmM0Dj18) | 3:19 | 2023-12-15 | 2024-07-30 |
-| [Santa la noche](https://open.spotify.com/track/1XL17qoSvIflYQ45uU2Xjc) | [Majo y Dan](https://open.spotify.com/artist/0cEa9u1e3cDLXCZxxiuEmi) | [Santa la noche](https://open.spotify.com/album/6EN18F6GNtsquD1rjzAeSK) | 4:13 | 2021-12-24 |  |
+| [Santa la noche](https://open.spotify.com/track/1XL17qoSvIflYQ45uU2Xjc) | [Majo y Dan](https://open.spotify.com/artist/0cEa9u1e3cDLXCZxxiuEmi) | [Santa la noche](https://open.spotify.com/album/6EN18F6GNtsquD1rjzAeSK) | 4:13 | 2021-12-24 | 2026-11-26 |
 | [Santa la noche](https://open.spotify.com/track/34OQJBdPvh88lHD6Oiuwc1) | [Majo y Dan](https://open.spotify.com/artist/0cEa9u1e3cDLXCZxxiuEmi) | [Santa la noche](https://open.spotify.com/album/3JQymi6jdlocnrFuPfVBcG) | 4:13 | 2021-12-24 | 2024-04-19 |
 | [Santa la Noche](https://open.spotify.com/track/4KraBnnnVo6dlqavv7fnF6) | [Marcos Witt](https://open.spotify.com/artist/4x7kxyIgzgtrHYDQ8SCzo2) | [Tiempo de Navidad](https://open.spotify.com/album/1KM8kjXX0KdfcGCj3iDgiG) | 4:18 | 2021-12-24 | 2024-07-30 |
 | [Santa la Noche](https://open.spotify.com/track/0UVctJP9Ts6HwuW5jtYqao) | [Marcos Witt](https://open.spotify.com/artist/4x7kxyIgzgtrHYDQ8SCzo2) | [Tiempo de Navidad](https://open.spotify.com/album/24oEKVhOhLL7WaiALZjwbP) | 4:18 | 2021-12-24 | 2024-04-19 |

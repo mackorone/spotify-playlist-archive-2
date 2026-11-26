@@ -4,7 +4,7 @@
 
 > New music from Playboi Carti, Gunna and Don Toliver.
 
-2,935 songs - 6 day 8 hr 22 min
+2,936 songs - 6 day 8 hr 25 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -1203,6 +1203,7 @@
 | [I Swear \(feat\. Lul Timm\)](https://open.spotify.com/track/5eTBBqeELbM67DaQ2l5f1Z) | [Quando Rondo](https://open.spotify.com/artist/4IprNlQiJZUUJhDl0fL2SL), [YoungBoy Never Broke Again](https://open.spotify.com/artist/7wlFDEWiM5OoIAt8RSli8b), [Lul Timm](https://open.spotify.com/artist/4Xar68aJpS6MogtDg8gNiA) | [3860](https://open.spotify.com/album/43cDHyzNftlde27nFt8rhV) | 2:36 | 2022-11-25 | 2022-12-03 |
 | [I THINK \(FEAT\. LIL BABY\)](https://open.spotify.com/track/4wYXfAEYdfKkOmtOE6c8Hx) | [EST Gee](https://open.spotify.com/artist/4FlG0V0jhLO4qGpayFOphj), [Lil Baby](https://open.spotify.com/artist/5f7VJjfbwm532GiveGC0ZK) | [EL TORO 2](https://open.spotify.com/album/1hkONxY47acT0rAdOlwhjs) | 2:25 | 2023-08-18 | 2023-09-02 |
 | [I Think I Luv Her \(feat\. YG\)](https://open.spotify.com/track/6VYXuUz1nYMap8gtqeIrQB) | [Tyla Yaweh](https://open.spotify.com/artist/1MXZ0hsGic96dWRDKwAwdr), [YG](https://open.spotify.com/artist/0A0FS04o6zMoto8OKPsDwY) | [I Think I Luv Her \(feat\. YG\)](https://open.spotify.com/album/6SLjG25W8rKuvSUExihz7g) | 2:40 | 2019-10-25 | 2020-01-24 |
+| [I Wanna Fuck You](https://open.spotify.com/track/1G93i9ga7ZPEOqpiNhM1mq) | [Snoop Dogg](https://open.spotify.com/artist/7hJcb9fa4alzcOq3EaNPoG), [Akon](https://open.spotify.com/artist/0z4gvV4rjIZ9wHck67ucSV) | [Tha Blue Carpet Treatment](https://open.spotify.com/album/5EyEI8tm60S6y2YKbjE0xI) | 2:58 | 2026-11-26 |  |
 | [I Wanna Rock](https://open.spotify.com/track/6PetGqmYmxytj5TfEvHO5k) | [Cash Cobain](https://open.spotify.com/artist/2R0CFyeMDiRbfkhkIMbyl1) | [I Wanna Rock](https://open.spotify.com/album/5RvJlNjUyH6D7DEdbFjI1z) | 3:44 | 2026-05-08 | 2026-05-16 |
 | [I Wanna Rock \(feat\. Gunna\)](https://open.spotify.com/track/3xB5uHrhe0uaIxNGf3JwZA) | [G\-Eazy](https://open.spotify.com/artist/02kJSzxNuaWGqwubyUba0Z), [Gunna](https://open.spotify.com/artist/2hlmm7s2ICUX0LVIhVFlZQ) | [I Wanna Rock \(feat\. Gunna\)](https://open.spotify.com/album/6xtugMcB7hTNJH14wYxzBJ) | 2:43 | 2019-10-16 | 2019-11-22 |
 | [I WANNA WIN \- from the Short Film "Red Clay"](https://open.spotify.com/track/7GDLVeFKh19LB06KnBGUIi) | [2 Chainz](https://open.spotify.com/artist/17lzZA2AlOHwCwFALHttmp) | [I WANNA WIN \(from the Short Film "Red Clay"\)](https://open.spotify.com/album/39GdbIA43YHkD02Gih3GjX) | 2:48 | 2025-07-11 | 2025-07-19 |

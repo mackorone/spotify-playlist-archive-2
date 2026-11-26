@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbbhESOUmBoa.md) - [plain]
 
 > Enjoy the TOMORROW X TOGETHER WORLD TOUR \[STEAL THE WIND\] IN SEOUL LIVE SET including the voices of the group on stage! \(TXT의 무대 멘트와 목소리가 포함된 \[STEAL THE WIND\] IN SEOUL 콘서트 LIVE SET을 즐겨보세요!\)
 
-[Spotify](https://open.spotify.com/user/spotify) - 30,627 likes - 30 songs - 1 hr 14 min
+[Spotify](https://open.spotify.com/user/spotify) - 30,789 likes - 30 songs - 1 hr 14 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -39,4 +39,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbbhESOUmBoa.md) - [plain]
 | 29 | [Are we different?](https://open.spotify.com/track/31yyXD7ynlTTEOgv0hJCz2) | [TOMORROW X TOGETHER](https://open.spotify.com/artist/0ghlgldX5Dd6720Q3qFyQB) | [TOMORROW X TOGETHER WORLD TOUR <STEAL THE WIND> IN SEOUL](https://open.spotify.com/album/484LprbSEWrxQNuL5B4FHc) | 1:03 |
 | 30 | [Growing up to perform CROWN](https://open.spotify.com/track/26rLKhjWUAn1uSPGZe0cdZ) | [TOMORROW X TOGETHER](https://open.spotify.com/artist/0ghlgldX5Dd6720Q3qFyQB) | [TOMORROW X TOGETHER WORLD TOUR <STEAL THE WIND> IN SEOUL](https://open.spotify.com/album/484LprbSEWrxQNuL5B4FHc) | 0:41 |
 
-Snapshot ID: `AAAAADgM/8UgIJVUqyVd/gB969oKWng7`
+Snapshot ID: `AAAAAGn+vuD7hkwcqU+uTxhne3oCSM2q`

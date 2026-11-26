@@ -1,12 +1,12 @@
 {
   "description": "Lo mejor de la nueva. Foto: fedesttar",
-  "num_followers": 158,
+  "num_followers": 159,
   "original_name": "Academia Reggaet\u00f3n",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAALMXIQEpx+UkqgC3cEk8ov4bL6pl",
+  "snapshot_id": "AAAAANHc5lqppvLFCBVXqBCJ26OdH5Iv",
   "tracks": [
     {
       "added_at": "2025-09-18 23:00:14",
@@ -1215,6 +1215,30 @@
     {
       "added_at": "2025-09-18 23:00:14",
       "album": {
+        "name": "Taladrarr",
+        "url": "https://open.spotify.com/album/24FJIz014NNg6hG3vy9Fnp"
+      },
+      "artists": [
+        {
+          "name": "Baby Flexxx",
+          "url": "https://open.spotify.com/artist/5Lpooe77iQDMZpSeJkMbIK"
+        },
+        {
+          "name": "Prxblxm",
+          "url": "https://open.spotify.com/artist/1OTxM38rUpGaEv4nMo4Qf5"
+        },
+        {
+          "name": "Rplcmnts",
+          "url": "https://open.spotify.com/artist/2oNFbBjwhA61ygGaRwKo88"
+        }
+      ],
+      "duration_ms": 149333,
+      "name": "Taladrarr",
+      "url": "https://open.spotify.com/track/47HYncJXkaGxHUIZTuDGI4"
+    },
+    {
+      "added_at": "2025-09-18 23:00:14",
+      "album": {
         "name": "In\u00e9dito",
         "url": "https://open.spotify.com/album/7nyUwMd9qCW90BtiNGxGfJ"
       },
@@ -1227,26 +1251,6 @@
       "duration_ms": 162901,
       "name": "In\u00e9dito",
       "url": "https://open.spotify.com/track/0vaPZCDqKhX09VwFruiRVl"
-    },
-    {
-      "added_at": "2025-09-18 23:00:14",
-      "album": {
-        "name": "COLABORACIONES",
-        "url": "https://open.spotify.com/album/6BvUu9MCrLMkeTQa5lDuyU"
-      },
-      "artists": [
-        {
-          "name": "Diego Smith",
-          "url": "https://open.spotify.com/artist/60d7XKY1qqY5cPnXOCVvo6"
-        },
-        {
-          "name": "WANDA ORIGINAL",
-          "url": "https://open.spotify.com/artist/2H8Dwb3Tbgux2nJixSW6LD"
-        }
-      ],
-      "duration_ms": 125026,
-      "name": "TNT",
-      "url": "https://open.spotify.com/track/419xono1KqiWbVCu5bzSd8"
     }
   ],
   "unique_name": "Academia Reggaet\u00f3n",

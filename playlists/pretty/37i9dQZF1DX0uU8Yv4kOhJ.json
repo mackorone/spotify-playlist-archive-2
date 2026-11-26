@@ -1,12 +1,12 @@
 {
   "description": "Concentrate con el aire de la cordillera de los Andes.",
-  "num_followers": 135391,
+  "num_followers": 135393,
   "original_name": "Entre los Andes",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAADrWz77u830pCbc3fiNt3za6PsJM",
+  "snapshot_id": "AAAAAO/+BpgRiquMLSaNo3TzI20SFHmW",
   "tracks": [
     {
       "added_at": "2026-09-25 04:59:23",
@@ -323,22 +323,6 @@
     {
       "added_at": "2026-09-25 04:59:23",
       "album": {
-        "name": "Aurora",
-        "url": "https://open.spotify.com/album/4C0QSVsIVjfwsWVw2NKLl7"
-      },
-      "artists": [
-        {
-          "name": "Minuk",
-          "url": "https://open.spotify.com/artist/5IIGsnZbpoR1ONGK1fRumn"
-        }
-      ],
-      "duration_ms": 317790,
-      "name": "Gente Mariposa",
-      "url": "https://open.spotify.com/track/5x214mzuu4GqHBCLIVJkDk"
-    },
-    {
-      "added_at": "2026-09-25 04:59:23",
-      "album": {
         "name": "Guitarra y Canto del Ande",
         "url": "https://open.spotify.com/album/0Vhe6HDh6M6zeVvRXp8YD1"
       },
@@ -351,6 +335,22 @@
       "duration_ms": 341210,
       "name": "Panorama ayacuchano",
       "url": "https://open.spotify.com/track/3RSKSNv8odGUcE8jzDhEo1"
+    },
+    {
+      "added_at": "2026-09-25 04:59:23",
+      "album": {
+        "name": "Aurora",
+        "url": "https://open.spotify.com/album/4C0QSVsIVjfwsWVw2NKLl7"
+      },
+      "artists": [
+        {
+          "name": "Minuk",
+          "url": "https://open.spotify.com/artist/5IIGsnZbpoR1ONGK1fRumn"
+        }
+      ],
+      "duration_ms": 317790,
+      "name": "Gente Mariposa",
+      "url": "https://open.spotify.com/track/5x214mzuu4GqHBCLIVJkDk"
     },
     {
       "added_at": "2026-09-25 04:59:23",
@@ -403,22 +403,6 @@
     {
       "added_at": "2026-09-25 04:59:23",
       "album": {
-        "name": "Pura Flor",
-        "url": "https://open.spotify.com/album/3ZmeBQcn3RwUxvE4HPabt1"
-      },
-      "artists": [
-        {
-          "name": "Minuk",
-          "url": "https://open.spotify.com/artist/5IIGsnZbpoR1ONGK1fRumn"
-        }
-      ],
-      "duration_ms": 237613,
-      "name": "Pura Flor",
-      "url": "https://open.spotify.com/track/4BWHCYLHCD62RQPxzX0HO1"
-    },
-    {
-      "added_at": "2026-09-25 04:59:23",
-      "album": {
         "name": "No Me Quiero Doler",
         "url": "https://open.spotify.com/album/0bxPIMdVzvOY31BxAqv6FQ"
       },
@@ -435,6 +419,22 @@
       "duration_ms": 326037,
       "name": "No Me Quiero Doler",
       "url": "https://open.spotify.com/track/5yHQDlmQ4PJQR9CAFsdoMG"
+    },
+    {
+      "added_at": "2026-09-25 04:59:23",
+      "album": {
+        "name": "Pura Flor",
+        "url": "https://open.spotify.com/album/3ZmeBQcn3RwUxvE4HPabt1"
+      },
+      "artists": [
+        {
+          "name": "Minuk",
+          "url": "https://open.spotify.com/artist/5IIGsnZbpoR1ONGK1fRumn"
+        }
+      ],
+      "duration_ms": 237613,
+      "name": "Pura Flor",
+      "url": "https://open.spotify.com/track/4BWHCYLHCD62RQPxzX0HO1"
     },
     {
       "added_at": "2026-09-25 04:59:23",

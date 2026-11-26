@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcecv7ESbOPu.md) - [plain]
 
 > Äntligen fredag och ny musik från Zara Larsson, Simon Superti och Jireel med flera\. Happy New Music Friday!
 
-[Spotify](https://open.spotify.com/user/spotify) - 237,110 likes - 78 songs - 4 hr 10 min
+[Spotify](https://open.spotify.com/user/spotify) - 237,098 likes - 78 songs - 4 hr 10 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -87,4 +87,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcecv7ESbOPu.md) - [plain]
 | 77 | [Har vridit timmar](https://open.spotify.com/track/1NWI1P7v5WlYjCZvlErauY) | [Sand & Hallander](https://open.spotify.com/artist/1BFSvihXwzhPvotj9sN1VJ) | [Har vridit timmar](https://open.spotify.com/album/2ttmpmsq83tywvst7blT2f) | 2:55 |
 | 78 | [unfolded](https://open.spotify.com/track/7Be42TyWXpNFStuxNw8Khg) | [shinyhunt](https://open.spotify.com/artist/6HzmHkcqEfZjqzsd5rGG63) | [unfolded](https://open.spotify.com/album/0I5uPQBjW366cqW5FCalvM) | 1:39 |
 
-Snapshot ID: `AAAAAMSG7XsWGiueEgpmziI8N/Nj5EcD`
+Snapshot ID: `AAAAAEApOd8L1msVBeYi7MQDitbjxbOW`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8VlzsR6EEFY.md) - [plain]
 
 > Los videos más frescos de la <a href="spotify:genre:0JQ5DAqbMKFDTEtSaS4R92"> Música Mexicana</a>, las que van pegar\. Palomazo Norteño en portada 🌹
 
-[Spotify](https://open.spotify.com/user/spotify) - 177,953 likes - 56 songs - 3 hr 0 min
+[Spotify](https://open.spotify.com/user/spotify) - 177,998 likes - 56 songs - 3 hr 0 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -65,4 +65,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8VlzsR6EEFY.md) - [plain]
 | 55 | [Don Julio](https://open.spotify.com/track/0peBqx4JfplNavU6rmDH7s) | [Asmed](https://open.spotify.com/artist/03LtkSHCEhzQtKTdt7R1Ad), [Moy Bobadilla](https://open.spotify.com/artist/6H8yLg2ml8H94LRjriezMR) | [Don Julio](https://open.spotify.com/album/62IpRGB3quY1GXT2kjt3fF) | 3:25 |
 | 56 | [Amor Incondicional](https://open.spotify.com/track/5CKScf4f1WFhzhiHw6v3ND) | [Raymix](https://open.spotify.com/artist/0hHT2BH7XTm3ZdZb6CX064) | [Raymix X](https://open.spotify.com/album/4YBHbLRO6mrkG4QC3p9cfD) | 4:15 |
 
-Snapshot ID: `AAAAAKP0EJ1b6e7IMmoI+QZ7E2b6l68S`
+Snapshot ID: `AAAAABA1ZBeOr7XcHOPyLcEeuD0Hsga6`

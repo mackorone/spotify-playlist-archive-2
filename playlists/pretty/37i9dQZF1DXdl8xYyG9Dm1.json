@@ -1,12 +1,12 @@
 {
   "description": "The latest straight bars and Afro-Trap. Cover: Blaqbonez",
-  "num_followers": 233677,
+  "num_followers": 233711,
   "original_name": "Afro Bars ",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAACJTk66T1pgy9E9LGFAnJhoNK3jN",
+  "snapshot_id": "AAAAAAReXLEP9GPkf4T6raLXmUBWvDnS",
   "tracks": [
     {
       "added_at": "2026-11-13 00:02:13",
@@ -1107,6 +1107,22 @@
     {
       "added_at": "2026-11-13 00:02:13",
       "album": {
+        "name": "News at 7",
+        "url": "https://open.spotify.com/album/0QL33TwFCQGAF9prvHW3Wt"
+      },
+      "artists": [
+        {
+          "name": "Joey B",
+          "url": "https://open.spotify.com/artist/7ACLUXo71FsLZaKMOPDnEJ"
+        }
+      ],
+      "duration_ms": 166097,
+      "name": "News at 7",
+      "url": "https://open.spotify.com/track/0BmV1Ke3e4dfuKNzNWrsXv"
+    },
+    {
+      "added_at": "2026-11-13 00:02:13",
+      "album": {
         "name": "BRAND NEW",
         "url": "https://open.spotify.com/album/1tmap2Rtc9TQmtLjX8hPoe"
       },
@@ -1123,22 +1139,6 @@
       "duration_ms": 131495,
       "name": "BRAND NEW",
       "url": "https://open.spotify.com/track/5qYAdm0GCganxCPKlbMlgS"
-    },
-    {
-      "added_at": "2026-11-13 00:02:13",
-      "album": {
-        "name": "News at 7",
-        "url": "https://open.spotify.com/album/0QL33TwFCQGAF9prvHW3Wt"
-      },
-      "artists": [
-        {
-          "name": "Joey B",
-          "url": "https://open.spotify.com/artist/7ACLUXo71FsLZaKMOPDnEJ"
-        }
-      ],
-      "duration_ms": 166097,
-      "name": "News at 7",
-      "url": "https://open.spotify.com/track/0BmV1Ke3e4dfuKNzNWrsXv"
     },
     {
       "added_at": "2026-11-13 00:02:13",
@@ -1259,26 +1259,6 @@
     {
       "added_at": "2026-11-13 00:02:13",
       "album": {
-        "name": "Sexy Highlife",
-        "url": "https://open.spotify.com/album/1rAaxsX5aLqoay5bIQIXvi"
-      },
-      "artists": [
-        {
-          "name": "Joey B",
-          "url": "https://open.spotify.com/artist/7ACLUXo71FsLZaKMOPDnEJ"
-        },
-        {
-          "name": "Bosom P-Yung",
-          "url": "https://open.spotify.com/artist/394xOVuImKoT7jJtWkWNyQ"
-        }
-      ],
-      "duration_ms": 127969,
-      "name": "Akosua Broni",
-      "url": "https://open.spotify.com/track/5lVoi1WVhCUHJuerWt6Kyf"
-    },
-    {
-      "added_at": "2026-11-13 00:02:13",
-      "album": {
         "name": "Top 2",
         "url": "https://open.spotify.com/album/1BPDF5PQgcQdSAupweNNUN"
       },
@@ -1295,6 +1275,26 @@
       "duration_ms": 261333,
       "name": "Top 2",
       "url": "https://open.spotify.com/track/6pXY8PeDIt9fd11QQr5wod"
+    },
+    {
+      "added_at": "2026-11-13 00:02:13",
+      "album": {
+        "name": "Sexy Highlife",
+        "url": "https://open.spotify.com/album/1rAaxsX5aLqoay5bIQIXvi"
+      },
+      "artists": [
+        {
+          "name": "Joey B",
+          "url": "https://open.spotify.com/artist/7ACLUXo71FsLZaKMOPDnEJ"
+        },
+        {
+          "name": "Bosom P-Yung",
+          "url": "https://open.spotify.com/artist/394xOVuImKoT7jJtWkWNyQ"
+        }
+      ],
+      "duration_ms": 127969,
+      "name": "Akosua Broni",
+      "url": "https://open.spotify.com/track/5lVoi1WVhCUHJuerWt6Kyf"
     },
     {
       "added_at": "2026-11-13 00:02:13",

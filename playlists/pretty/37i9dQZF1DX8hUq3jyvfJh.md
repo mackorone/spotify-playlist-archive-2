@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8hUq3jyvfJh.md) - [plain]
 
 > Ouça BUDAH e mais mulheres incríveis no volume máximo! Ouça Maria Bethânia e mais mulheres incríveis no volume máximo! Co\-curado por <a href="spotify:artist:78WvOgIBo2emAnJLbv7nXO">BUDAH</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 196,152 likes - 50 songs - 2 hr 36 min
+[Spotify](https://open.spotify.com/user/spotify) - 196,166 likes - 50 songs - 2 hr 36 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -35,8 +35,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8hUq3jyvfJh.md) - [plain]
 | 25 | [Feature Me](https://open.spotify.com/track/1CcorUngVSo7k2GX8GLB53) | [FLO](https://open.spotify.com/artist/0s4kXsjYeH0S1xRyVGN4NO) | [The Lead](https://open.spotify.com/album/04wFsn459A8leDKrydRK56) | 3:21 |
 | 26 | [Dilema](https://open.spotify.com/track/4fJWANIINf6cHT0woUuxkL) | [Joyce Alane](https://open.spotify.com/artist/3oDfBqnWBkgMSag02YYXHG) | [Me Dá Uma Luz](https://open.spotify.com/album/0a5I4iN5Vrq6K5b8dUAFgQ) | 3:11 |
 | 27 | [Break Me Off](https://open.spotify.com/track/0KDYm0fzKFjavVoRA0T3vM) | [AMARIA BB](https://open.spotify.com/artist/1AC6rw8sH8VGrzMzgFUDG5) | [Comes to Light](https://open.spotify.com/album/081jLkJYWGp76MJTPu650Z) | 2:54 |
-| 28 | [ELA GOSTA DE MENINA](https://open.spotify.com/track/2Iaj6B6CmvrCDa3fhYOs1K) | [Melly](https://open.spotify.com/artist/7a7n9ka0Mnevq19mOU8tcW), [Anitta](https://open.spotify.com/artist/7FNnA9vBm6EKceENgCGRMb) | [MAIS FORTE QUE A DÚVIDA](https://open.spotify.com/album/58sTH0BWLuWoc2R0vtjL1n) | 2:27 |
-| 29 | [Atlanta \- Spotify Singles](https://open.spotify.com/track/40gXrlLYOAK6O4QVunjRRp) | [Duquesa](https://open.spotify.com/artist/1JlC6XG7lkwT6GzgQB9xOx) | [Atlanta \- Spotify Singles](https://open.spotify.com/album/24WemjADLysPg2aJ7W2lkY) | 2:01 |
+| 28 | [Atlanta \- Spotify Singles](https://open.spotify.com/track/40gXrlLYOAK6O4QVunjRRp) | [Duquesa](https://open.spotify.com/artist/1JlC6XG7lkwT6GzgQB9xOx) | [Atlanta \- Spotify Singles](https://open.spotify.com/album/24WemjADLysPg2aJ7W2lkY) | 2:01 |
+| 29 | [ELA GOSTA DE MENINA](https://open.spotify.com/track/2Iaj6B6CmvrCDa3fhYOs1K) | [Melly](https://open.spotify.com/artist/7a7n9ka0Mnevq19mOU8tcW), [Anitta](https://open.spotify.com/artist/7FNnA9vBm6EKceENgCGRMb) | [MAIS FORTE QUE A DÚVIDA](https://open.spotify.com/album/58sTH0BWLuWoc2R0vtjL1n) | 2:27 |
 | 30 | [Donas do Plaque](https://open.spotify.com/track/0mdytA1LWltYL5LPzE3ltU) | [IKNOWFELIPE](https://open.spotify.com/artist/5xzQYtT0fWhece4hSaf1Pk), [LAI$ROSA](https://open.spotify.com/artist/74sURGnGYZ0MsuL61biTCw), [Barona](https://open.spotify.com/artist/26STitvgUGkBvAG0obuDQn), [NandaTsunami](https://open.spotify.com/artist/0bTjZS6jUVce4Sa7aMIFYk) | [Donas do Plaque](https://open.spotify.com/album/42Ni9CX6XB5OuteqOIjG6L) | 4:02 |
 | 31 | [INTUIÇÃO](https://open.spotify.com/track/0maxReIRGuc3rYIaAc2qxW) | [BUDAH](https://open.spotify.com/artist/08zSkHjCY3ypH4gdBVHWgO) | [FREQUÊNCIA LUNAR](https://open.spotify.com/album/3qbfxWGIF45fv8btLzrsDR) | 3:45 |
 | 32 | [Melhor Amiga do Tempo \(com Maru2D\)](https://open.spotify.com/track/7KvSGi2vsTNM7O1dsrfTsK) | [Bela Maria](https://open.spotify.com/artist/3PiRpeHMxOFToEs65CZQCv), [Maru2D](https://open.spotify.com/artist/5tD6GvZxVpZxHRjSaQuj36) | [Melhor Amiga do Tempo \(com Maru2D\)](https://open.spotify.com/album/6UkRen2khd0V2T2d5iponC) | 2:30 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8hUq3jyvfJh.md) - [plain]
 | 49 | [Me Tem](https://open.spotify.com/track/2LOJz7RtrxujgbDrOF5FeO) | [Juyè](https://open.spotify.com/artist/064WxKBb5PxUQpy6NGr3Jq) | [Me Tem](https://open.spotify.com/album/5wgLpUq2DWBHj1HFbLSoKP) | 2:55 |
 | 50 | [Bonde do esculacho](https://open.spotify.com/track/7cTN37m9Lhl1p6QAH5d0V6) | [Ciça](https://open.spotify.com/artist/0lUYB8xnN8wbO41njBbep4) | [Bonde do esculacho](https://open.spotify.com/album/1gHE3XGsJxsqHFdUZKk6xZ) | 2:08 |
 
-Snapshot ID: `AAAAABNHvvbbSVm2TeP1lILda9pWh3Hj`
+Snapshot ID: `AAAAAMBVhqbC5XjcTccz3pTUP5KOB9QW`

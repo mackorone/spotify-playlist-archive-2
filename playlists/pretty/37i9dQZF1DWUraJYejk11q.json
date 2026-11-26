@@ -1,12 +1,12 @@
 {
   "description": "Instrumental bliss beyond genre classification.",
-  "num_followers": 469730,
+  "num_followers": 469716,
   "original_name": "Genre Glitch",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAFXWIyZHZ7sWnfZVhe6a7Z3fhz7e",
+  "snapshot_id": "AAAAAABCUviEg1sAjHQ0o600T8NKIPg4",
   "tracks": [
     {
       "added_at": "2026-11-06 06:00:11",
@@ -243,22 +243,6 @@
     {
       "added_at": "2026-11-06 06:00:11",
       "album": {
-        "name": "Kammerkonzert",
-        "url": "https://open.spotify.com/album/4YRwqvWAu1cjBDyRRXz0Ee"
-      },
-      "artists": [
-        {
-          "name": "Squarepusher",
-          "url": "https://open.spotify.com/artist/4mtHSXwIHihO6MWNq5Qoko"
-        }
-      ],
-      "duration_ms": 264374,
-      "name": "K2 Central",
-      "url": "https://open.spotify.com/track/3seui1GIXrrUalvyeMD4SQ"
-    },
-    {
-      "added_at": "2026-11-06 06:00:11",
-      "album": {
         "name": "3FOR82",
         "url": "https://open.spotify.com/album/5bOzaa9qvH7q8rEl3fg5nE"
       },
@@ -271,6 +255,22 @@
       "duration_ms": 185060,
       "name": "H0N3Y",
       "url": "https://open.spotify.com/track/6TJd0gtqzG3KYVtYtGuaUV"
+    },
+    {
+      "added_at": "2026-11-06 06:00:11",
+      "album": {
+        "name": "Kammerkonzert",
+        "url": "https://open.spotify.com/album/4YRwqvWAu1cjBDyRRXz0Ee"
+      },
+      "artists": [
+        {
+          "name": "Squarepusher",
+          "url": "https://open.spotify.com/artist/4mtHSXwIHihO6MWNq5Qoko"
+        }
+      ],
+      "duration_ms": 264374,
+      "name": "K2 Central",
+      "url": "https://open.spotify.com/track/3seui1GIXrrUalvyeMD4SQ"
     },
     {
       "added_at": "2026-11-06 06:00:11",
@@ -427,22 +427,6 @@
     {
       "added_at": "2026-11-06 06:00:11",
       "album": {
-        "name": "Worms on Acid",
-        "url": "https://open.spotify.com/album/5zM9uniBVZQHqlijpyhpMh"
-      },
-      "artists": [
-        {
-          "name": "Ozoyo",
-          "url": "https://open.spotify.com/artist/1c47yZHEy5HSqth3hexuIe"
-        }
-      ],
-      "duration_ms": 150000,
-      "name": "Worms on Acid",
-      "url": "https://open.spotify.com/track/0A44Bg2Hg2wDFOqTzfA8Ny"
-    },
-    {
-      "added_at": "2026-11-06 06:00:11",
-      "album": {
         "name": "Forest Theory",
         "url": "https://open.spotify.com/album/6tEb4MSz9C8l72Gk681cZ9"
       },
@@ -455,6 +439,22 @@
       "duration_ms": 231648,
       "name": "Universal Sound",
       "url": "https://open.spotify.com/track/4CR6C67Fe6JqIqs8TvITf6"
+    },
+    {
+      "added_at": "2026-11-06 06:00:11",
+      "album": {
+        "name": "Worms on Acid",
+        "url": "https://open.spotify.com/album/5zM9uniBVZQHqlijpyhpMh"
+      },
+      "artists": [
+        {
+          "name": "Ozoyo",
+          "url": "https://open.spotify.com/artist/1c47yZHEy5HSqth3hexuIe"
+        }
+      ],
+      "duration_ms": 150000,
+      "name": "Worms on Acid",
+      "url": "https://open.spotify.com/track/0A44Bg2Hg2wDFOqTzfA8Ny"
     },
     {
       "added_at": "2026-11-06 06:00:11",

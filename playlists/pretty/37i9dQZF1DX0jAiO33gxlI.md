@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0jAiO33gxlI.md) - [plain]
 
 > Os lançamentos e melhores sons do rap nacional\. Foto: NOG, FBC
 
-[Spotify](https://open.spotify.com/user/spotify) - 226,069 likes - 75 songs - 4 hr 1 min
+[Spotify](https://open.spotify.com/user/spotify) - 226,062 likes - 75 songs - 4 hr 1 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0jAiO33gxlI.md) - [plain]
 | 74 | [Calor!](https://open.spotify.com/track/2XGPqsZeDcciVklnhLswAH) | [Dário Inerente](https://open.spotify.com/artist/1NKiimXkmC2cFdhaE5z6y9), [Matheus Coringa](https://open.spotify.com/artist/3dZNzNVuTLL2UlQCkyEQqF) | [Os Atabaques são Clarins de Guerra](https://open.spotify.com/album/0x7NqGGb6iNifDjACgqjBl) | 2:42 |
 | 75 | [Para Tio](https://open.spotify.com/track/6MQ6LsPGDdCuQyTjPG0RcS) | [Emicida](https://open.spotify.com/artist/2d9LRvQJnAXRijqIJDDs2K), [LR Beats](https://open.spotify.com/artist/76QB68tHPxjNOhncwYE0J7), [Damien Seth](https://open.spotify.com/artist/2CvIpYTTcWpSSINyjUNLvM), [Dj Nyack](https://open.spotify.com/artist/6qWqYtNvKPE8HwgmoPfkHx) | [RPB/Para Tio](https://open.spotify.com/album/48vm44gfOlb8eIyHtWyWIw) | 3:46 |
 
-Snapshot ID: `AAAAAPATo1CJzZlMGIDhWIyckdlNv8Db`
+Snapshot ID: `AAAAAIOXKBA7Q8RhbwFegoA9wu58U5cn`

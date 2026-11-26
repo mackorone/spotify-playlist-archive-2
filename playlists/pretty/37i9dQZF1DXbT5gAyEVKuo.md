@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbT5gAyEVKuo.md) - [plain]
 
 > Praise the Lord with all your heart as you sing along to these Gospel Worship songs\. Cover: Transformation Worship
 
-[Spotify](https://open.spotify.com/user/spotify) - 125,319 likes - 75 songs - 9 hr 23 min
+[Spotify](https://open.spotify.com/user/spotify) - 125,361 likes - 75 songs - 9 hr 23 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbT5gAyEVKuo.md) - [plain]
 | 74 | [Still On The Throne](https://open.spotify.com/track/24JCZziAKrLDHWYCemnPR0) | [Joann Rosario](https://open.spotify.com/artist/4i7ABzLzb1JhYq3Js3MXnJ) | [Still On The Throne](https://open.spotify.com/album/6LNkZUjI2t6N8XKNwuaY75) | 3:40 |
 | 75 | [yeshua \- En vivo](https://open.spotify.com/track/62y8U2mSxRm80pJQKlf7nV) | [Annatoria](https://open.spotify.com/artist/2FWgloru2QlPe53cUFx6d8) | [yeshua \(En vivo\)](https://open.spotify.com/album/1ixggEZDWZ1hbxk4x4kIdF) | 9:05 |
 
-Snapshot ID: `AAAAAInkXgyBXSunzZLV1KX3P0qecTIj`
+Snapshot ID: `AAAAAOGk8fyKJLJnXALE9IMvc/oVik43`

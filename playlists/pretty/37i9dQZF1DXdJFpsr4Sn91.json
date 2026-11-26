@@ -1,12 +1,12 @@
 {
   "description": "Nousussa olevat hitit. \ud83c\udf2a\ufe0f ",
-  "num_followers": 59264,
+  "num_followers": 59261,
   "original_name": "Nousussa",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAFg26ahv8d4ie9TOZTPSs7KAc/gT",
+  "snapshot_id": "AAAAAHykasq9wD5yuJ3okzJzH9WPhKjb",
   "tracks": [
     {
       "added_at": "2026-11-19 22:00:30",
@@ -343,18 +343,22 @@
     {
       "added_at": "2026-11-19 22:00:30",
       "album": {
-        "name": "M\u00e4 nautin",
-        "url": "https://open.spotify.com/album/6NdaH9R08mFvjSMscSJA0C"
+        "name": "Voidaaks rikkoo hiljaisuus",
+        "url": "https://open.spotify.com/album/37AvpNQzvi0OuJcdEWpb4E"
       },
       "artists": [
         {
-          "name": "Senya",
-          "url": "https://open.spotify.com/artist/49OC47dLyKYSl2EPaZLUaO"
+          "name": "ELLIMEI",
+          "url": "https://open.spotify.com/artist/6rPI72mU3VRYb9YCKGi3ra"
+        },
+        {
+          "name": "KAUKUA",
+          "url": "https://open.spotify.com/artist/1B08DZQt5VNw92l8bm8jwZ"
         }
       ],
-      "duration_ms": 195997,
-      "name": "M\u00e4 nautin",
-      "url": "https://open.spotify.com/track/2aDIZo4JlcfE4xzrEUhEzw"
+      "duration_ms": 164717,
+      "name": "Voidaaks rikkoo hiljaisuus",
+      "url": "https://open.spotify.com/track/2g1bCHeYTpcL9mEUJ2Nm5v"
     },
     {
       "added_at": "2026-11-19 22:00:30",
@@ -375,22 +379,18 @@
     {
       "added_at": "2026-11-19 22:00:30",
       "album": {
-        "name": "Voidaaks rikkoo hiljaisuus",
-        "url": "https://open.spotify.com/album/37AvpNQzvi0OuJcdEWpb4E"
+        "name": "M\u00e4 nautin",
+        "url": "https://open.spotify.com/album/6NdaH9R08mFvjSMscSJA0C"
       },
       "artists": [
         {
-          "name": "ELLIMEI",
-          "url": "https://open.spotify.com/artist/6rPI72mU3VRYb9YCKGi3ra"
-        },
-        {
-          "name": "KAUKUA",
-          "url": "https://open.spotify.com/artist/1B08DZQt5VNw92l8bm8jwZ"
+          "name": "Senya",
+          "url": "https://open.spotify.com/artist/49OC47dLyKYSl2EPaZLUaO"
         }
       ],
-      "duration_ms": 164717,
-      "name": "Voidaaks rikkoo hiljaisuus",
-      "url": "https://open.spotify.com/track/2g1bCHeYTpcL9mEUJ2Nm5v"
+      "duration_ms": 195997,
+      "name": "M\u00e4 nautin",
+      "url": "https://open.spotify.com/track/2aDIZo4JlcfE4xzrEUhEzw"
     },
     {
       "added_at": "2026-11-19 22:00:30",
@@ -727,22 +727,6 @@
     {
       "added_at": "2026-11-19 22:00:30",
       "album": {
-        "name": "Toiveuusintoja",
-        "url": "https://open.spotify.com/album/5KzDCx4IE2Sp6a8IrKg3vB"
-      },
-      "artists": [
-        {
-          "name": "Edicti",
-          "url": "https://open.spotify.com/artist/5sYAbWJ14L78hv98klUjqS"
-        }
-      ],
-      "duration_ms": 172344,
-      "name": "Viimeinen kausi",
-      "url": "https://open.spotify.com/track/3ZqhLmHpZVi4SVd2dvjL00"
-    },
-    {
-      "added_at": "2026-11-19 22:00:30",
-      "album": {
         "name": "Annan sut pois (feat. Tomi Saario)",
         "url": "https://open.spotify.com/album/4PgMeqNU555ZVxQMriLaC4"
       },
@@ -759,6 +743,22 @@
       "duration_ms": 168750,
       "name": "Annan sut pois (feat. Tomi Saario)",
       "url": "https://open.spotify.com/track/3tmM50vAAJe4F69LfPBk25"
+    },
+    {
+      "added_at": "2026-11-19 22:00:30",
+      "album": {
+        "name": "Toiveuusintoja",
+        "url": "https://open.spotify.com/album/5KzDCx4IE2Sp6a8IrKg3vB"
+      },
+      "artists": [
+        {
+          "name": "Edicti",
+          "url": "https://open.spotify.com/artist/5sYAbWJ14L78hv98klUjqS"
+        }
+      ],
+      "duration_ms": 172344,
+      "name": "Viimeinen kausi",
+      "url": "https://open.spotify.com/track/3ZqhLmHpZVi4SVd2dvjL00"
     },
     {
       "added_at": "2026-11-19 22:00:30",
@@ -827,6 +827,22 @@
     {
       "added_at": "2026-11-19 22:00:30",
       "album": {
+        "name": "V\u00e4rit",
+        "url": "https://open.spotify.com/album/2lihJzuMtlNJASqgaIKFRA"
+      },
+      "artists": [
+        {
+          "name": "BENI",
+          "url": "https://open.spotify.com/artist/0yVKqanLFd6BLlbkfYOnqX"
+        }
+      ],
+      "duration_ms": 169846,
+      "name": "V\u00e4rit",
+      "url": "https://open.spotify.com/track/0wvcMn4YYcmdAzvcvJkRZQ"
+    },
+    {
+      "added_at": "2026-11-19 22:00:30",
+      "album": {
         "name": "Romantica",
         "url": "https://open.spotify.com/album/7q3uiwEifMQBcqJMmDDZ67"
       },
@@ -843,34 +859,18 @@
     {
       "added_at": "2026-11-19 22:00:30",
       "album": {
-        "name": "Parasta ja paskinta",
-        "url": "https://open.spotify.com/album/3ncZk0RQHxOWp59avtHOFC"
+        "name": "I'll Die Happily",
+        "url": "https://open.spotify.com/album/1cZim98guoUVCwT4RRguae"
       },
       "artists": [
         {
-          "name": "Jenni & Juho",
-          "url": "https://open.spotify.com/artist/5uYU6UHu7wuyF2Oa4OjZnp"
+          "name": "martta",
+          "url": "https://open.spotify.com/artist/0MiaKVPx1j2fJr4A37YhLW"
         }
       ],
-      "duration_ms": 142329,
-      "name": "Joutsenet",
-      "url": "https://open.spotify.com/track/2KGHeli3UfHVsn1LUPezYH"
-    },
-    {
-      "added_at": "2026-11-19 22:00:30",
-      "album": {
-        "name": "V\u00e4rit",
-        "url": "https://open.spotify.com/album/2lihJzuMtlNJASqgaIKFRA"
-      },
-      "artists": [
-        {
-          "name": "BENI",
-          "url": "https://open.spotify.com/artist/0yVKqanLFd6BLlbkfYOnqX"
-        }
-      ],
-      "duration_ms": 169846,
-      "name": "V\u00e4rit",
-      "url": "https://open.spotify.com/track/0wvcMn4YYcmdAzvcvJkRZQ"
+      "duration_ms": 169574,
+      "name": "I'll Die Happily",
+      "url": "https://open.spotify.com/track/3GbtxhWAT8NltZsd2THDEq"
     }
   ],
   "unique_name": "Nousussa",

@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2025-11-19",
-  "description": "With Sanguine, Bad Scullianz, Juice and more",
+  "description": "With Sanguine, Juice, Bad Scullianz and more",
   "name": "Bipolar Superstar Radio",
   "tracks": [
     {
@@ -74,7 +74,7 @@
       ],
       "date_added": "2026-11-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-26",
       "duration_ms": 186000,
       "name": "(I Won't) Pay Your Price - Remastered",
       "url": "https://open.spotify.com/track/2M31jVXitWreJtJj0C06dq"
@@ -1048,7 +1048,7 @@
       ],
       "date_added": "2026-07-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-26",
       "duration_ms": 220000,
       "name": "Apache",
       "url": "https://open.spotify.com/track/4IgoUMRncx2KtiaZy9Iv4w"
@@ -1124,7 +1124,7 @@
       ],
       "date_added": "2026-09-26",
       "date_added_asterisk": false,
-      "date_removed": "2026-11-06",
+      "date_removed": null,
       "duration_ms": 228150,
       "name": "Arvidsjaur",
       "url": "https://open.spotify.com/track/0Bziz2o8iBriC8mTfloP2C"
@@ -4284,7 +4284,7 @@
       ],
       "date_added": "2026-11-20",
       "date_added_asterisk": false,
-      "date_removed": "2026-11-25",
+      "date_removed": null,
       "duration_ms": 222853,
       "name": "Dig Deep",
       "url": "https://open.spotify.com/track/342Smc1Nc2pyBkKJghtcTx"
@@ -4562,7 +4562,7 @@
       ],
       "date_added": "2026-10-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-26",
       "duration_ms": 231808,
       "name": "Do You Remember",
       "url": "https://open.spotify.com/track/3Mkwbxqb9xDTSSBzEevOS5"
@@ -4998,7 +4998,7 @@
       ],
       "date_added": "2026-10-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-26",
       "duration_ms": 274924,
       "name": "Drunk",
       "url": "https://open.spotify.com/track/2rOt3Al0ORGvf3CYxcMKPK"
@@ -6180,7 +6180,7 @@
       ],
       "date_added": "2025-11-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-26",
       "duration_ms": 261821,
       "name": "Fake News",
       "url": "https://open.spotify.com/track/5bpsccASJsBhAibqbEq3A8"
@@ -7396,7 +7396,7 @@
       ],
       "date_added": "2026-11-06",
       "date_added_asterisk": false,
-      "date_removed": "2026-11-25",
+      "date_removed": null,
       "duration_ms": 194563,
       "name": "Got No Time",
       "url": "https://open.spotify.com/track/4ZcX78w49DEJ3wxsBFq7JS"
@@ -7472,6 +7472,24 @@
       "duration_ms": 189000,
       "name": "Grifter",
       "url": "https://open.spotify.com/track/0Phzc8FXpj19ZVdvTmBwep"
+    },
+    {
+      "album": {
+        "name": "Grinding into Dust",
+        "url": "https://open.spotify.com/album/79fZPn6eNF1hrVjhT6J5iB"
+      },
+      "artists": [
+        {
+          "name": "Bruce Mountain Band",
+          "url": "https://open.spotify.com/artist/4XW4HJ9dj3b4EcgkLBDT6v"
+        }
+      ],
+      "date_added": "2026-11-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 225226,
+      "name": "Grinding into Dust",
+      "url": "https://open.spotify.com/track/765RhWDfueKMBB13ZVBxGF"
     },
     {
       "album": {
@@ -7562,7 +7580,7 @@
       ],
       "date_added": "2026-11-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-26",
       "duration_ms": 204624,
       "name": "Halo & Horns",
       "url": "https://open.spotify.com/track/4HayngMO4qfmnUu8vPoZ48"
@@ -8262,7 +8280,7 @@
       ],
       "date_added": "2026-10-26",
       "date_added_asterisk": false,
-      "date_removed": "2026-11-18",
+      "date_removed": null,
       "duration_ms": 234910,
       "name": "Honnaliv",
       "url": "https://open.spotify.com/track/45taGD7tf5unlwtFAFOKvT"
@@ -8478,7 +8496,7 @@
       ],
       "date_added": "2026-10-11",
       "date_added_asterisk": false,
-      "date_removed": "2026-11-21",
+      "date_removed": null,
       "duration_ms": 204999,
       "name": "Hvis jeg f\u00e5r lov",
       "url": "https://open.spotify.com/track/0442X9eSmosvLUvC2hgL8V"
@@ -8518,7 +8536,7 @@
       ],
       "date_added": "2026-11-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-26",
       "duration_ms": 159826,
       "name": "Hysteria",
       "url": "https://open.spotify.com/track/4jGsBrcD4VrwMp9CPHrXaF"
@@ -8684,7 +8702,7 @@
       ],
       "date_added": "2026-11-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-26",
       "duration_ms": 202500,
       "name": "I Gotta Stay",
       "url": "https://open.spotify.com/track/6r6gvGwfdWG8my9Z7XAou3"
@@ -9372,7 +9390,7 @@
       ],
       "date_added": "2025-11-19",
       "date_added_asterisk": false,
-      "date_removed": "2026-11-24",
+      "date_removed": null,
       "duration_ms": 299655,
       "name": "IO",
       "url": "https://open.spotify.com/track/78IlRY43O1FTXkXQFEKCU1"
@@ -10080,7 +10098,7 @@
       ],
       "date_added": "2026-11-03",
       "date_added_asterisk": false,
-      "date_removed": "2026-11-08",
+      "date_removed": null,
       "duration_ms": 162480,
       "name": "Kj\u00f8re P\u00e5",
       "url": "https://open.spotify.com/track/2ypRfeS5B0JDSgMtTO86ZA"
@@ -10116,7 +10134,7 @@
       ],
       "date_added": "2026-05-14",
       "date_added_asterisk": false,
-      "date_removed": "2026-11-15",
+      "date_removed": null,
       "duration_ms": 214001,
       "name": "Klokkene ringer for kvelden",
       "url": "https://open.spotify.com/track/3nO9J7Dfm4GTQkcQtYRVO0"
@@ -10650,7 +10668,7 @@
       ],
       "date_added": "2026-11-10",
       "date_added_asterisk": false,
-      "date_removed": "2026-11-24",
+      "date_removed": null,
       "duration_ms": 239020,
       "name": "Liar",
       "url": "https://open.spotify.com/track/50CdyAHhFvgljISzTlQlSN"
@@ -11556,7 +11574,7 @@
       ],
       "date_added": "2026-08-22",
       "date_added_asterisk": false,
-      "date_removed": "2026-11-23",
+      "date_removed": null,
       "duration_ms": 227600,
       "name": "Mannen i speilet",
       "url": "https://open.spotify.com/track/2XMkSnJrJwg7NbkJaiYFXY"
@@ -11924,7 +11942,7 @@
       ],
       "date_added": "2026-11-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-26",
       "duration_ms": 72186,
       "name": "Merci Beaucoup",
       "url": "https://open.spotify.com/track/7fIKZGPxcj4aKA26MP3zwH"
@@ -11942,7 +11960,7 @@
       ],
       "date_added": "2026-10-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-26",
       "duration_ms": 151500,
       "name": "Mercury (In Retrograde)",
       "url": "https://open.spotify.com/track/7j6MPoDgVUSwvzNLJkdLf7"
@@ -12674,7 +12692,7 @@
       ],
       "date_added": "2026-10-10",
       "date_added_asterisk": false,
-      "date_removed": "2026-11-20",
+      "date_removed": null,
       "duration_ms": 232000,
       "name": "My Heroin",
       "url": "https://open.spotify.com/track/6qmcht0ya4g8wzJIfL0MqO"
@@ -13790,7 +13808,7 @@
       ],
       "date_added": "2026-10-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-26",
       "duration_ms": 214013,
       "name": "On Her Own",
       "url": "https://open.spotify.com/track/2Ka5ivvoPaZ3aGh1bWcJZw"
@@ -14688,7 +14706,7 @@
       ],
       "date_added": "2026-11-16",
       "date_added_asterisk": false,
-      "date_removed": "2026-11-25",
+      "date_removed": null,
       "duration_ms": 258043,
       "name": "Plumbin'",
       "url": "https://open.spotify.com/track/6sI1FvjURhkASd3TxL1830"
@@ -14968,7 +14986,7 @@
       ],
       "date_added": "2026-11-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-26",
       "duration_ms": 218504,
       "name": "Prolog",
       "url": "https://open.spotify.com/track/3jY33HrpQnWcRD6MDNYvEq"
@@ -15236,7 +15254,7 @@
       ],
       "date_added": "2026-10-07",
       "date_added_asterisk": false,
-      "date_removed": "2026-11-24",
+      "date_removed": null,
       "duration_ms": 230357,
       "name": "Red",
       "url": "https://open.spotify.com/track/3wIZA8RgVwy8MCZ8FbbmjL"
@@ -16656,7 +16674,7 @@
       ],
       "date_added": "2026-11-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-26",
       "duration_ms": 158500,
       "name": "Small Hands",
       "url": "https://open.spotify.com/track/5n1HIK0ojoOtRt4uCvYfur"
@@ -16710,7 +16728,7 @@
       ],
       "date_added": "2026-05-25",
       "date_added_asterisk": false,
-      "date_removed": "2026-11-23",
+      "date_removed": null,
       "duration_ms": 251281,
       "name": "Sn\u00f8r i Helvete",
       "url": "https://open.spotify.com/track/38ehb2DHLwwVAPr0rD0IjR"
@@ -17196,7 +17214,7 @@
       ],
       "date_added": "2026-11-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-26",
       "duration_ms": 164701,
       "name": "Springtime",
       "url": "https://open.spotify.com/track/340gdSC0Xx1JpAAZG7971Q"
@@ -17250,7 +17268,7 @@
       ],
       "date_added": "2026-10-27",
       "date_added_asterisk": false,
-      "date_removed": "2026-11-07",
+      "date_removed": null,
       "duration_ms": 188786,
       "name": "Start",
       "url": "https://open.spotify.com/track/4kXJcoZxlr212raqKtfEwT"
@@ -17456,7 +17474,7 @@
       ],
       "date_added": "2025-11-21",
       "date_added_asterisk": false,
-      "date_removed": "2026-11-22",
+      "date_removed": null,
       "duration_ms": 331440,
       "name": "Stranden",
       "url": "https://open.spotify.com/track/7v05GxuaQtCW32RuhPThPa"
@@ -17582,7 +17600,7 @@
       ],
       "date_added": "2026-11-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-26",
       "duration_ms": 327404,
       "name": "Sugar and Hipocrisy",
       "url": "https://open.spotify.com/track/1KFOxAYslp7bLkdkQ8x6N3"
@@ -18018,7 +18036,7 @@
       ],
       "date_added": "2026-11-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-26",
       "duration_ms": 231953,
       "name": "Takke faen - Unreleased Live Track",
       "url": "https://open.spotify.com/track/6togOpfi2ACKKzIBHbU1dD"
@@ -18094,7 +18112,7 @@
       ],
       "date_added": "2026-11-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-26",
       "duration_ms": 216416,
       "name": "Te Busco",
       "url": "https://open.spotify.com/track/1b8L17UDtyqHMMSYAxJYRl"
@@ -22803,6 +22821,24 @@
     },
     {
       "album": {
+        "name": "\u00de\u00f6gn",
+        "url": "https://open.spotify.com/album/2YRPK0Q1noets8mEwtRmUk"
+      },
+      "artists": [
+        {
+          "name": "DIMMA",
+          "url": "https://open.spotify.com/artist/6aWektyglfpO0k93ns3J1Z"
+        }
+      ],
+      "date_added": "2026-11-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 246506,
+      "name": "\u00de\u00f6gn",
+      "url": "https://open.spotify.com/track/5LLVHRH08lqXqBcDWkXvqM"
+    },
+    {
+      "album": {
         "name": "Marcus 5",
         "url": "https://open.spotify.com/album/4lRxQrzovKuLlsU3kU0F15"
       },
@@ -22836,7 +22872,7 @@
       ],
       "date_added": "2026-11-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-26",
       "duration_ms": 405887,
       "name": "\u03a0\u03ad\u03c4\u03c1\u03b9\u03bd\u03b7 \u039a\u03b1\u03c1\u03b4\u03b9\u03ac",
       "url": "https://open.spotify.com/track/0URP7XFmxC0ySmRocZcyhZ"

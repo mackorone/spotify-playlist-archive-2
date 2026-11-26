@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVhn3qoy98w6.md) - [plain]
 
 > Todos los miércoles, lo nuevo de la escena independiente española\. Foto: Capros.
 
-[Spotify](https://open.spotify.com/user/spotify) - 18,007 likes - 50 songs - 2 hr 35 min
+[Spotify](https://open.spotify.com/user/spotify) - 18,017 likes - 50 songs - 2 hr 35 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVhn3qoy98w6.md) - [plain]
 | 49 | [ROMANTICIDIO](https://open.spotify.com/track/4Ig44U29QbhUbLnPTd3bLC) | [Atomic Lemons](https://open.spotify.com/artist/71Gzjz9NF7NeA8VrLKVehu) | [ROMANTICIDIO](https://open.spotify.com/album/7c9n1qxVd5rVx92ylLALuH) | 3:37 |
 | 50 | [UNTA LA SALSA](https://open.spotify.com/track/4zgvVsLzqHgzKSYY48M2nn) | [BRAVA](https://open.spotify.com/artist/3O2c7Rx1wcqMVkq9pZn4WZ) | [SALSA BRAVA THE MISSTAPE](https://open.spotify.com/album/0Ef6w17DnRELSosjudfXD4) | 2:37 |
 
-Snapshot ID: `AAAAAP8QfgVOoVCVEFNzvXfTVroG/fir`
+Snapshot ID: `AAAAAOYuZCaSeaaNWZoKa7Rtlnp65DkW`

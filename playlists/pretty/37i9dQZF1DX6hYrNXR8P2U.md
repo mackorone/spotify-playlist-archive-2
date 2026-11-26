@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6hYrNXR8P2U.md) - [plain]
 
 > LISA SCHA en portada.
 
-[Spotify](https://open.spotify.com/user/spotify) - 347,016 likes - 110 songs - 5 hr 56 min
+[Spotify](https://open.spotify.com/user/spotify) - 346,974 likes - 110 songs - 5 hr 56 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -119,4 +119,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6hYrNXR8P2U.md) - [plain]
 | 109 | [Mechero](https://open.spotify.com/track/0P0EUtIzRuu8xrbb1k4EQW) | [Julián Scarinci](https://open.spotify.com/artist/3IzZwugTmpL10MDkaOeEAi), [El Jose](https://open.spotify.com/artist/2bYHojIdnEKALvN2TZ3zrP) | [Mechero](https://open.spotify.com/album/0h5R7iJB4nhn8TYVtRREGg) | 2:49 |
 | 110 | [La Noche](https://open.spotify.com/track/4eBA8wah1TmOzGopQ9noDD) | [Zara Colombo](https://open.spotify.com/artist/0UieFG2dymbbVECj27mBcx) | [La Noche](https://open.spotify.com/album/6HssPH2u6AiyyR8QmUhQSL) | 3:11 |
 
-Snapshot ID: `AAAAABVbQdtNFIukQp+Zs3lCcs+yex4h`
+Snapshot ID: `AAAAAOqeKNlBJ5TjurWxT6d02JrB8g1P`

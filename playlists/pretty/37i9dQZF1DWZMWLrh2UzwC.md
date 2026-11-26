@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZMWLrh2UzwC.md) - [plain]
 
 > New music from Hafiz Suip, Dua Lipa, Gracie Abrams, Jess Lee, Zynakal, dia, BIGBANG, and more!
 
-[Spotify](https://open.spotify.com/user/spotify) - 76,471 likes - 117 songs - 6 hr 37 min
+[Spotify](https://open.spotify.com/user/spotify) - 76,452 likes - 117 songs - 6 hr 37 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -126,4 +126,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZMWLrh2UzwC.md) - [plain]
 | 116 | [Pacify](https://open.spotify.com/track/41jzlZUkgEC9tWQDZ5miJm) | [Joesef](https://open.spotify.com/artist/28EyduqESEOVMO6vglvaUZ) | [Pacify](https://open.spotify.com/album/2I1Ox7f2gBZSZM0P6rF4oJ) | 3:59 |
 | 117 | [Wait For Me](https://open.spotify.com/track/1R7tSmPLsyqiZ2S9HBAbqR) | [PIAO](https://open.spotify.com/artist/3WRVVRVjdDenvXlJgs2WXb) | [Wait For Me](https://open.spotify.com/album/1QEtRtDD4pnYTrthvroqEO) | 3:08 |
 
-Snapshot ID: `AAAAAGrHdy82fgwjDo5DUNRixtPOrOVG`
+Snapshot ID: `AAAAAJwe/u2ghO2XW7iaxXTeWVFulRG3`

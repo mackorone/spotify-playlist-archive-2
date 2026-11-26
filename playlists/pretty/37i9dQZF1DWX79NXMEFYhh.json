@@ -1,12 +1,12 @@
 {
   "description": "gusto ko lang naman ng kayakap ",
-  "num_followers": 827975,
+  "num_followers": 827782,
   "original_name": "cuddleweather",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAADH/IDjGlQzfWcm6Rag6Kaece6Sj",
+  "snapshot_id": "AAAAAB8cUaDf2LNUHnp2GAEn0OyBzzps",
   "tracks": [
     {
       "added_at": "2026-11-16 05:50:10",
@@ -663,22 +663,6 @@
     {
       "added_at": "2026-11-16 05:50:10",
       "album": {
-        "name": "Too Cute To Be Lonely",
-        "url": "https://open.spotify.com/album/7wlMyVNmOTncgwr0SCifSY"
-      },
-      "artists": [
-        {
-          "name": "Holly Humberstone",
-          "url": "https://open.spotify.com/artist/0nnYdIpahs41QiZ9MWp5Wx"
-        }
-      ],
-      "duration_ms": 196509,
-      "name": "Too Cute To Be Lonely",
-      "url": "https://open.spotify.com/track/5iZbOxJZ2Rmo2ECMXRHU9a"
-    },
-    {
-      "added_at": "2026-11-16 05:50:10",
-      "album": {
         "name": "Kahit Na Umulan",
         "url": "https://open.spotify.com/album/3ox7wTdG2LreH3lsq8rSnG"
       },
@@ -691,6 +675,22 @@
       "duration_ms": 242285,
       "name": "Kahit Na Umulan",
       "url": "https://open.spotify.com/track/43AjF7Xceu7Jr8hH2vriS1"
+    },
+    {
+      "added_at": "2026-11-16 05:50:10",
+      "album": {
+        "name": "Too Cute To Be Lonely",
+        "url": "https://open.spotify.com/album/7wlMyVNmOTncgwr0SCifSY"
+      },
+      "artists": [
+        {
+          "name": "Holly Humberstone",
+          "url": "https://open.spotify.com/artist/0nnYdIpahs41QiZ9MWp5Wx"
+        }
+      ],
+      "duration_ms": 196509,
+      "name": "Too Cute To Be Lonely",
+      "url": "https://open.spotify.com/track/5iZbOxJZ2Rmo2ECMXRHU9a"
     },
     {
       "added_at": "2026-11-16 05:50:10",

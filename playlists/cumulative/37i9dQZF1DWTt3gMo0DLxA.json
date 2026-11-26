@@ -7291,6 +7291,28 @@
     },
     {
       "album": {
+        "name": "Pokiri",
+        "url": "https://open.spotify.com/album/3kqeFrlPfnGdhHraAvAByi"
+      },
+      "artists": [
+        {
+          "name": "Mani Sharma",
+          "url": "https://open.spotify.com/artist/3AMxH9QIPZbK8ND8C9j4Ss"
+        },
+        {
+          "name": "Naveen",
+          "url": "https://open.spotify.com/artist/4xbLzGsR7W5QMlLS08BNGt"
+        }
+      ],
+      "date_added": "2026-11-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 270086,
+      "name": "Noppi Noppi",
+      "url": "https://open.spotify.com/track/4ZeeQUewlSkiXNPp9Be8Vv"
+    },
+    {
+      "album": {
         "name": "Yamadonga (Original Motion Picture Soundtrack)",
         "url": "https://open.spotify.com/album/2AJ2NAaGiFfA9vt4rzWD6N"
       },

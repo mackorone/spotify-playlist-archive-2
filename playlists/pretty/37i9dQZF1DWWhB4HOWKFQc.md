@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWhB4HOWKFQc.md) - [plain]
 
 > Kumpulan lagu yang sedang menyebar luas\. Cover: Akbar Chalay, Mingse
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,526,243 likes - 100 songs - 6 hr 29 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,526,355 likes - 100 songs - 6 hr 29 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWhB4HOWKFQc.md) - [plain]
 | 99 | [Celah Hati](https://open.spotify.com/track/5gvSgp1iKPkdTq6kNzvKv2) | [Harra.](https://open.spotify.com/artist/0bPHN5TpcAXxpuPjgNbh7O) | [Celah Hati](https://open.spotify.com/album/75oe7dblGQr9KbKKk1Zggz) | 3:14 |
 | 100 | [Babydoll](https://open.spotify.com/track/7yNf9YjeO5JXUE3JEBgnYc) | [Dominic Fike](https://open.spotify.com/artist/6USv9qhCn6zfxlBQIYJ9qs) | [Don't Forget About Me, Demos](https://open.spotify.com/album/05jbNkYoEQdjVDHEHtg1gY) | 1:37 |
 
-Snapshot ID: `AAAAAB0mia+fDxAamOmmZE0iazl1Ekz4`
+Snapshot ID: `AAAAAMbNUBM5kyOykrfs/baWVdVO9fC1`

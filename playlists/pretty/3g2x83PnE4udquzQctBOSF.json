@@ -6,8 +6,56 @@
     "name": "angi\u016b",
     "url": "https://open.spotify.com/user/due850omgu70ns7dyg7n7jf12"
   },
-  "snapshot_id": "AAASy7/7DCeyCzKs+HKwBU8qh8SNQBp9",
+  "snapshot_id": "AAAS0dtKfwKcHZ3xowwdirmGYjln13kO",
   "tracks": [
+    {
+      "added_at": "2026-11-26 06:39:18",
+      "album": {
+        "name": "Bomboclat EP",
+        "url": "https://open.spotify.com/album/6uZcqUAKT9dVPO7t3Qckda"
+      },
+      "artists": [
+        {
+          "name": "angi\u016b",
+          "url": "https://open.spotify.com/artist/2F3fmYRjAAp3mRIHYkLNwn"
+        }
+      ],
+      "duration_ms": 195348,
+      "name": "Bomboclat",
+      "url": "https://open.spotify.com/track/5BIxb6hBXlUwfChk2lez2T"
+    },
+    {
+      "added_at": "2026-11-26 06:39:15",
+      "album": {
+        "name": "Bomboclat EP",
+        "url": "https://open.spotify.com/album/6uZcqUAKT9dVPO7t3Qckda"
+      },
+      "artists": [
+        {
+          "name": "angi\u016b",
+          "url": "https://open.spotify.com/artist/2F3fmYRjAAp3mRIHYkLNwn"
+        }
+      ],
+      "duration_ms": 208615,
+      "name": "Ths01",
+      "url": "https://open.spotify.com/track/17Wgai0ZlU4Zbbqx6Mu1lS"
+    },
+    {
+      "added_at": "2026-11-26 06:39:10",
+      "album": {
+        "name": "Ten Toes",
+        "url": "https://open.spotify.com/album/5WNvvPW96fBOkw0T7vzXrc"
+      },
+      "artists": [
+        {
+          "name": "angi\u016b",
+          "url": "https://open.spotify.com/artist/2F3fmYRjAAp3mRIHYkLNwn"
+        }
+      ],
+      "duration_ms": 325298,
+      "name": "Ten Toes",
+      "url": "https://open.spotify.com/track/1jcvoroyUm5emYQ2arVVPt"
+    },
     {
       "added_at": "2026-09-24 06:59:24",
       "album": {

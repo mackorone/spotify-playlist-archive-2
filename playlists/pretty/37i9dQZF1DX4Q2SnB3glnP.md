@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4Q2SnB3glnP.md) - [plain]
 
 > Music wellness for your soul.
 
-[Spotify](https://open.spotify.com/user/spotify) - 600,570 likes - 300 songs - 13 hr 32 min
+[Spotify](https://open.spotify.com/user/spotify) - 600,597 likes - 300 songs - 13 hr 32 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -309,4 +309,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4Q2SnB3glnP.md) - [plain]
 | 299 | [Apogee](https://open.spotify.com/track/3nCjMRvyfq0wgR3hDcAcWb) | [Coherent Energy](https://open.spotify.com/artist/7JjVTrxF7P0Vu0pXIIwsXP) | [Apogee](https://open.spotify.com/album/5xrbFlHe5YxRFctRbWyzmq) | 2:47 |
 | 300 | [Anticipation](https://open.spotify.com/track/4heSFCjQq2JU6h1ATc9O1j) | [Avelio](https://open.spotify.com/artist/5KLm95E3mnd6cUvqdw8Fs2) | [Anticipation](https://open.spotify.com/album/1aFeJbuC88xQAqDY8Sz1Zk) | 2:39 |
 
-Snapshot ID: `AAAAALrsgwvicBmcXaxZR/VsTwDKRTG8`
+Snapshot ID: `AAAAAOp+BT6kay+qPzUnS6rENSJs/ZbL`

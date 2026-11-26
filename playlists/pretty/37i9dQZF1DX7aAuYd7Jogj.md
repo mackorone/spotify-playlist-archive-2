@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7aAuYd7Jogj.md) - [plain]
 
 > Música ambiental para un sueño profundo.
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,973,003 likes - 370 songs - 16 hr 16 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,973,153 likes - 370 songs - 16 hr 16 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -379,4 +379,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7aAuYd7Jogj.md) - [plain]
 | 369 | [Let Go](https://open.spotify.com/track/2OfRvDHLoUkUFIRzDndGqa) | [Remi Ainsley](https://open.spotify.com/artist/0rIQ2dXfAr8DbyfHr8LDcs) | [Let Go](https://open.spotify.com/album/0ec0kpPBsLL9pfCK9YMJKl) | 2:22 |
 | 370 | [Afterglow](https://open.spotify.com/track/4HT1WedbhVHDpyFem0aMg4) | [Morgondimma](https://open.spotify.com/artist/0mQskyOm143f9LT371ux2U) | [Afterglow](https://open.spotify.com/album/3CBIrtuyWg8ZDqcnsw5tNu) | 2:39 |
 
-Snapshot ID: `AAAAACgE6R4XfF6fhD7UFNSocsZR8jxF`
+Snapshot ID: `AAAAAJGxnI6AScGCLUFmjVP0Vnh5tc+3`

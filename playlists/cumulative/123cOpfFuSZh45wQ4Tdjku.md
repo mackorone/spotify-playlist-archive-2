@@ -4,7 +4,7 @@
 
 > mostly furry
 
-613 songs - 1 day 6 hr 51 min
+614 songs - 1 day 6 hr 53 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -439,6 +439,7 @@
 | [PUSH UR T3MPRR](https://open.spotify.com/track/18soZ4afZktcbOaAB0RyFE) | [femtanyl](https://open.spotify.com/artist/53e9n1LucuH3guikmtv180) | [PUSH UR T3MPRR](https://open.spotify.com/album/4PL3uZiAhE46XZFIkeZ9gJ) | 2:28 | 2026-07-17 |  |
 | [PUSH UR T3MPRR](https://open.spotify.com/track/5NO5HPCDG8Y0ErpAISWQOJ) | [femtanyl](https://open.spotify.com/artist/53e9n1LucuH3guikmtv180) | [PUSH UR T3MPRR](https://open.spotify.com/album/5Bv6r4jizZcUdJbHUHm3Og) | 2:28 | 2026-08-24 |  |
 | [RAIN DROP](https://open.spotify.com/track/7FVy2hmHw9OQEgaEB4kLWg) | [UrvTek](https://open.spotify.com/artist/3YRcEMe1SRTPBGYbiRtBGh) | [Boiler](https://open.spotify.com/album/1FopjRrsqvxJnOAIpmwRHR) | 1:43 | 2026-09-30 |  |
+| [Rainy Day](https://open.spotify.com/track/6XW0U5F6NUa8a5DJTYKUDU) | [Tundra Fox](https://open.spotify.com/artist/5YhzBLEPDn6WsOletqmX5M) | [Rainy Day](https://open.spotify.com/album/4Q1XNk7cuCy9ojNXJdMtGh) | 1:52 | 2026-11-25 |  |
 | [Raised by Aliens](https://open.spotify.com/track/5ezyCaoc5XiVdkpRYWeyG5) | [ivycomb](https://open.spotify.com/artist/12WiIkK6iBWyRefeKpMaKo), [Stephanafro](https://open.spotify.com/artist/3EKlD3ejEcFDsUe5ZvjzMf) | [Raised by Aliens](https://open.spotify.com/album/1mTM51rvOXPen3pVzekCf3) | 3:05 | 2024-12-07 |  |
 | [RAVES](https://open.spotify.com/track/4XpKUlBAdfcb9Hvo0uD3Ps) | [UrvTek](https://open.spotify.com/artist/3YRcEMe1SRTPBGYbiRtBGh), [Robodelux2000](https://open.spotify.com/artist/3of6yMmyLTDmroAD6Vngl2) | [CELLULAR](https://open.spotify.com/album/2ur1AGw5HrpPBW7JFd7xON) | 3:23 | 2026-09-30 |  |
 | [Rawr :3](https://open.spotify.com/track/4l2N91QX3yW3jc94RQ9378) | [Lilvzexy](https://open.spotify.com/artist/70gmOi8Mk9xG69yTicnvBi) | [Rawr :3](https://open.spotify.com/album/1Pz50tlzfchpsbVr6SaCf8) | 2:00 | 2025-03-09 |  |

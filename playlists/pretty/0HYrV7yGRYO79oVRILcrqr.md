@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/0HYrV7yGRYO79oVRILcrqr.md) - [plain]
 
 > 👉 Free Pitch : audiartist.com \| Insta : stardust\_from\_sun \| Email : musiqueslibre2droit@gmail.com \| 🎸 Rock &\#x27;n Blues delivers Blues Rock, Classic Rock, Southern Rock, Hard Rock, R&amp;B &amp; Soul\. Soulful rhythms, timeless riffs, and electrifying energy\. Follow now and vibe with the best of rock and blues!
 
-[Audiartist](https://open.spotify.com/user/3165go7ysisqitdjcbt5rhjwno24) - 2,012 likes - 248 songs - 15 hr 36 min
+[Audiartist](https://open.spotify.com/user/3165go7ysisqitdjcbt5rhjwno24) - 2,018 likes - 251 songs - 15 hr 47 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -256,5 +256,8 @@ pretty - [cumulative](/playlists/cumulative/0HYrV7yGRYO79oVRILcrqr.md) - [plain]
 | 246 | [Enough](https://open.spotify.com/track/4M9cQk4HGzBWlZMi7WwAoo) | [Jimmy Sheesh](https://open.spotify.com/artist/3xJB0d9fDpYiNCbYuwPy1K) | [Enough](https://open.spotify.com/album/6udYuAxjPS8bKtwiSZJc0L) | 2:48 |
 | 247 | [Georgia On My Mind](https://open.spotify.com/track/3UC8xlRz4rVfvVhftUPSVW) | [John Allen Kipta](https://open.spotify.com/artist/6VMENRR0HKdBPQrihvsCB4) | [Georgia On My Mind](https://open.spotify.com/album/4OicfDt3bktglvk5twni8o) | 2:42 |
 | 248 | [Bloom](https://open.spotify.com/track/0wqHRP5OoeHA8lceP6cxVk) | [Lil Neroz](https://open.spotify.com/artist/4Io4x5Ren2j0v68lRiJsuT) | [Bloom](https://open.spotify.com/album/11WQn8Z7emp1DwHuIyEpsW) | 2:40 |
+| 249 | [Not Today](https://open.spotify.com/track/7FPxw1X44pMBZ6CA1EtQ7w) | [Thomas David Lula](https://open.spotify.com/artist/13muOgWtKxlJyjm4iGs36k) | [Not Today](https://open.spotify.com/album/10DZhw1fsw5opDCES8aj2i) | 5:11 |
+| 250 | [Out My Mind In '26](https://open.spotify.com/track/1kaHjw7aaWDBahHIokXFSn) | [The K.I.J Experience](https://open.spotify.com/artist/67HdfJ5atBe2crSt6ohfWB) | [Out My Mind In '26](https://open.spotify.com/album/5reN5MajXhXHax0gwUcP5s) | 2:26 |
+| 251 | [JUST A F\*CKING JERK](https://open.spotify.com/track/1bDEJ36UrsLxJN4QcEdoK3) | [Sun Riot](https://open.spotify.com/artist/794su3T7gFAJoGNXF3ZxS6) | [JUST A F\*CKING JERK](https://open.spotify.com/album/6XrcVv03gbVns5HrZgTLyE) | 3:17 |
 
-Snapshot ID: `AAANJTqiA3ExoRYtWj8Lv3RRPlYa0wlE`
+Snapshot ID: `AAANKJIRywmIAEEuJpRPJzLE5z8hr74i`

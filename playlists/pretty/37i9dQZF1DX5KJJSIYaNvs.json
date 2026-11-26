@@ -1,12 +1,12 @@
 {
   "description": "Listen to women at full volume. Cover - Nikhita Gandhi",
-  "num_followers": 111150,
+  "num_followers": 111177,
   "original_name": "EQUAL India",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAIsyRY+ZxFhWNVb1/jl66diSmciA",
+  "snapshot_id": "AAAAAFhtcxeH3D8lcRWsoT9Gt/NeXbZw",
   "tracks": [
     {
       "added_at": "2026-11-20 03:19:43",
@@ -143,26 +143,6 @@
     {
       "added_at": "2026-11-20 03:19:43",
       "album": {
-        "name": "Saiyaara",
-        "url": "https://open.spotify.com/album/58eNU0JJvtAWAg9KUZ9Ghf"
-      },
-      "artists": [
-        {
-          "name": "The Rish",
-          "url": "https://open.spotify.com/artist/0Eb38FY9vOjiRA10iXPGHI"
-        },
-        {
-          "name": "Shilpa Rao",
-          "url": "https://open.spotify.com/artist/19LIHDDSHBD5NyYHI3gpzB"
-        }
-      ],
-      "duration_ms": 129945,
-      "name": "Barbaad Reprise - Female",
-      "url": "https://open.spotify.com/track/2A7uwnEzSin7nf0498AE3x"
-    },
-    {
-      "added_at": "2026-11-20 03:19:43",
-      "album": {
         "name": "Tees Maar Khan",
         "url": "https://open.spotify.com/album/0fLp8N5bQ1wDOc4iCFUOX8"
       },
@@ -183,6 +163,26 @@
       "duration_ms": 281707,
       "name": "Sheila Ki Jawani",
       "url": "https://open.spotify.com/track/6VbmeIWTbNHM5uqoW7GTE4"
+    },
+    {
+      "added_at": "2026-11-20 03:19:43",
+      "album": {
+        "name": "Saiyaara",
+        "url": "https://open.spotify.com/album/58eNU0JJvtAWAg9KUZ9Ghf"
+      },
+      "artists": [
+        {
+          "name": "The Rish",
+          "url": "https://open.spotify.com/artist/0Eb38FY9vOjiRA10iXPGHI"
+        },
+        {
+          "name": "Shilpa Rao",
+          "url": "https://open.spotify.com/artist/19LIHDDSHBD5NyYHI3gpzB"
+        }
+      ],
+      "duration_ms": 129945,
+      "name": "Barbaad Reprise - Female",
+      "url": "https://open.spotify.com/track/2A7uwnEzSin7nf0498AE3x"
     },
     {
       "added_at": "2026-11-20 03:19:43",
@@ -367,6 +367,30 @@
     {
       "added_at": "2026-11-20 03:19:43",
       "album": {
+        "name": "Bairi Piya",
+        "url": "https://open.spotify.com/album/2nv6BkUtcPqMBdWwloLBGO"
+      },
+      "artists": [
+        {
+          "name": "Shreya Ghoshal",
+          "url": "https://open.spotify.com/artist/0oOet2f43PA68X5RxKobEy"
+        },
+        {
+          "name": "Anurag Mishra",
+          "url": "https://open.spotify.com/artist/3r80FQRtPJ8V5GrdDzNTWE"
+        },
+        {
+          "name": "Alok Ranjan Srivastava",
+          "url": "https://open.spotify.com/artist/5DexCXOx7knvTPNU8KBYep"
+        }
+      ],
+      "duration_ms": 236146,
+      "name": "Bairi Piya",
+      "url": "https://open.spotify.com/track/7J3gWwFF84eXhB6Ek4ry4N"
+    },
+    {
+      "added_at": "2026-11-20 03:19:43",
+      "album": {
         "name": "Veer - Zaara",
         "url": "https://open.spotify.com/album/690w3h4czL3x3W3zIgEcB6"
       },
@@ -391,30 +415,6 @@
       "duration_ms": 331676,
       "name": "Tere Liye",
       "url": "https://open.spotify.com/track/3i11e2jzUtO3jChiFl3v9x"
-    },
-    {
-      "added_at": "2026-11-20 03:19:43",
-      "album": {
-        "name": "Bairi Piya",
-        "url": "https://open.spotify.com/album/2nv6BkUtcPqMBdWwloLBGO"
-      },
-      "artists": [
-        {
-          "name": "Shreya Ghoshal",
-          "url": "https://open.spotify.com/artist/0oOet2f43PA68X5RxKobEy"
-        },
-        {
-          "name": "Anurag Mishra",
-          "url": "https://open.spotify.com/artist/3r80FQRtPJ8V5GrdDzNTWE"
-        },
-        {
-          "name": "Alok Ranjan Srivastava",
-          "url": "https://open.spotify.com/artist/5DexCXOx7knvTPNU8KBYep"
-        }
-      ],
-      "duration_ms": 236146,
-      "name": "Bairi Piya",
-      "url": "https://open.spotify.com/track/7J3gWwFF84eXhB6Ek4ry4N"
     },
     {
       "added_at": "2026-11-20 03:19:43",
@@ -1019,6 +1019,26 @@
     {
       "added_at": "2026-11-20 03:19:43",
       "album": {
+        "name": "Piya Bina",
+        "url": "https://open.spotify.com/album/22d6u8cUyUbzy4TZJ1J9Wq"
+      },
+      "artists": [
+        {
+          "name": "Maahi Zaveri",
+          "url": "https://open.spotify.com/artist/0qFb3gineKxVVhJsoHaQEe"
+        },
+        {
+          "name": "Aakash Rajan",
+          "url": "https://open.spotify.com/artist/0RDjGRm28CVB47PJMaSnrW"
+        }
+      ],
+      "duration_ms": 198837,
+      "name": "Piya Bina",
+      "url": "https://open.spotify.com/track/5ZzyOL637Vkvp2K6nIjYrp"
+    },
+    {
+      "added_at": "2026-11-20 03:19:43",
+      "album": {
         "name": "Door Na Jaa",
         "url": "https://open.spotify.com/album/4BiQNijobwbEsm3Etd8gLx"
       },
@@ -1039,26 +1059,6 @@
       "duration_ms": 166200,
       "name": "Door Na Jaa",
       "url": "https://open.spotify.com/track/0p2No1Mu4v3YIlJo0oIuMF"
-    },
-    {
-      "added_at": "2026-11-20 03:19:43",
-      "album": {
-        "name": "Piya Bina",
-        "url": "https://open.spotify.com/album/22d6u8cUyUbzy4TZJ1J9Wq"
-      },
-      "artists": [
-        {
-          "name": "Maahi Zaveri",
-          "url": "https://open.spotify.com/artist/0qFb3gineKxVVhJsoHaQEe"
-        },
-        {
-          "name": "Aakash Rajan",
-          "url": "https://open.spotify.com/artist/0RDjGRm28CVB47PJMaSnrW"
-        }
-      ],
-      "duration_ms": 198837,
-      "name": "Piya Bina",
-      "url": "https://open.spotify.com/track/5ZzyOL637Vkvp2K6nIjYrp"
     },
     {
       "added_at": "2026-11-20 03:19:43",
@@ -1143,26 +1143,6 @@
     {
       "added_at": "2026-11-20 03:19:43",
       "album": {
-        "name": "Mulaqatein",
-        "url": "https://open.spotify.com/album/0K3Jk7JT08covv7H7axJqZ"
-      },
-      "artists": [
-        {
-          "name": "Prateeksha Srivastava",
-          "url": "https://open.spotify.com/artist/6Tt4bucXZfk6Vasj3fSaCT"
-        },
-        {
-          "name": "Akarsh Shetty",
-          "url": "https://open.spotify.com/artist/0yq4kbIMvSPpCsscjMnTk0"
-        }
-      ],
-      "duration_ms": 243851,
-      "name": "Mulaqatein",
-      "url": "https://open.spotify.com/track/2zbpyEEnlgyY1lVWjt1NOM"
-    },
-    {
-      "added_at": "2026-11-20 03:19:43",
-      "album": {
         "name": "Gal Dil Di",
         "url": "https://open.spotify.com/album/0zDrspwWjcoS5F4qirkutB"
       },
@@ -1179,6 +1159,26 @@
       "duration_ms": 149662,
       "name": "Gal Dil Di",
       "url": "https://open.spotify.com/track/2YUcDEr4ahw1bXFFKGWErC"
+    },
+    {
+      "added_at": "2026-11-20 03:19:43",
+      "album": {
+        "name": "Mulaqatein",
+        "url": "https://open.spotify.com/album/0K3Jk7JT08covv7H7axJqZ"
+      },
+      "artists": [
+        {
+          "name": "Prateeksha Srivastava",
+          "url": "https://open.spotify.com/artist/6Tt4bucXZfk6Vasj3fSaCT"
+        },
+        {
+          "name": "Akarsh Shetty",
+          "url": "https://open.spotify.com/artist/0yq4kbIMvSPpCsscjMnTk0"
+        }
+      ],
+      "duration_ms": 243851,
+      "name": "Mulaqatein",
+      "url": "https://open.spotify.com/track/2zbpyEEnlgyY1lVWjt1NOM"
     },
     {
       "added_at": "2026-11-20 03:19:43",
@@ -1255,8 +1255,8 @@
     {
       "added_at": "2026-11-20 03:19:43",
       "album": {
-        "name": "Ishaare",
-        "url": "https://open.spotify.com/album/2nCSlWTrkHdYaHn2D0xOi9"
+        "name": "Jiya",
+        "url": "https://open.spotify.com/album/7f1k4Bhpsa8jyEcIuOwDVM"
       },
       "artists": [
         {
@@ -1264,9 +1264,9 @@
           "url": "https://open.spotify.com/artist/1jR0u53xF6iccwKAu9SD3H"
         }
       ],
-      "duration_ms": 142173,
-      "name": "Ishaare",
-      "url": "https://open.spotify.com/track/0cd2z6Lkm6Syj01l9bdEzq"
+      "duration_ms": 181826,
+      "name": "Jiya",
+      "url": "https://open.spotify.com/track/0N0k2zsecxTf0Z2mRIFryQ"
     },
     {
       "added_at": "2026-11-20 03:19:43",
@@ -1355,8 +1355,8 @@
     {
       "added_at": "2026-11-20 03:19:43",
       "album": {
-        "name": "Jiya",
-        "url": "https://open.spotify.com/album/7f1k4Bhpsa8jyEcIuOwDVM"
+        "name": "Ishaare",
+        "url": "https://open.spotify.com/album/2nCSlWTrkHdYaHn2D0xOi9"
       },
       "artists": [
         {
@@ -1364,9 +1364,25 @@
           "url": "https://open.spotify.com/artist/1jR0u53xF6iccwKAu9SD3H"
         }
       ],
-      "duration_ms": 181826,
-      "name": "Jiya",
-      "url": "https://open.spotify.com/track/0N0k2zsecxTf0Z2mRIFryQ"
+      "duration_ms": 142173,
+      "name": "Ishaare",
+      "url": "https://open.spotify.com/track/0cd2z6Lkm6Syj01l9bdEzq"
+    },
+    {
+      "added_at": "2026-11-20 03:19:43",
+      "album": {
+        "name": "Beparwai",
+        "url": "https://open.spotify.com/album/1BeYM2mXXPO7ZLOugJnzO8"
+      },
+      "artists": [
+        {
+          "name": "Jonita Gandhi",
+          "url": "https://open.spotify.com/artist/00sCATpEvwH48ays7PlQFU"
+        }
+      ],
+      "duration_ms": 160749,
+      "name": "Beparwai",
+      "url": "https://open.spotify.com/track/4qcuk9fEUEvnm2rCoBJG5K"
     },
     {
       "added_at": "2026-11-20 03:19:43",
@@ -1395,22 +1411,6 @@
     {
       "added_at": "2026-11-20 03:19:43",
       "album": {
-        "name": "Beparwai",
-        "url": "https://open.spotify.com/album/1BeYM2mXXPO7ZLOugJnzO8"
-      },
-      "artists": [
-        {
-          "name": "Jonita Gandhi",
-          "url": "https://open.spotify.com/artist/00sCATpEvwH48ays7PlQFU"
-        }
-      ],
-      "duration_ms": 160749,
-      "name": "Beparwai",
-      "url": "https://open.spotify.com/track/4qcuk9fEUEvnm2rCoBJG5K"
-    },
-    {
-      "added_at": "2026-11-20 03:19:43",
-      "album": {
         "name": "Aayi Teri Baat Mein",
         "url": "https://open.spotify.com/album/6UjCMR7x2WcwXK4ominJcN"
       },
@@ -1423,6 +1423,26 @@
       "duration_ms": 184746,
       "name": "Aayi Teri Baat Mein",
       "url": "https://open.spotify.com/track/5QmM1gtD8wHYQuBFOUcrGy"
+    },
+    {
+      "added_at": "2026-11-20 03:19:43",
+      "album": {
+        "name": "Vaari Vaari - Acoustic",
+        "url": "https://open.spotify.com/album/1H2dTU5WdG3rLPTfibqcRi"
+      },
+      "artists": [
+        {
+          "name": "Ram Sampath",
+          "url": "https://open.spotify.com/artist/3PpjqSKBer3obW6lDflOBx"
+        },
+        {
+          "name": "Sona Mohapatra",
+          "url": "https://open.spotify.com/artist/5bv6NvAYNuvd2Vq13nHdG3"
+        }
+      ],
+      "duration_ms": 202557,
+      "name": "Vaari Vaari - Acoustic",
+      "url": "https://open.spotify.com/track/2gTk797GEfLe2yJ7DAVMzD"
     },
     {
       "added_at": "2026-11-20 03:19:43",
@@ -1491,26 +1511,6 @@
       "duration_ms": 171547,
       "name": "Chingariyaan - From \"Toxic\"",
       "url": "https://open.spotify.com/track/3w2rfa8YIAgLEqwRBublOJ"
-    },
-    {
-      "added_at": "2026-11-20 03:19:43",
-      "album": {
-        "name": "Vaari Vaari - Acoustic",
-        "url": "https://open.spotify.com/album/1H2dTU5WdG3rLPTfibqcRi"
-      },
-      "artists": [
-        {
-          "name": "Ram Sampath",
-          "url": "https://open.spotify.com/artist/3PpjqSKBer3obW6lDflOBx"
-        },
-        {
-          "name": "Sona Mohapatra",
-          "url": "https://open.spotify.com/artist/5bv6NvAYNuvd2Vq13nHdG3"
-        }
-      ],
-      "duration_ms": 202557,
-      "name": "Vaari Vaari - Acoustic",
-      "url": "https://open.spotify.com/track/2gTk797GEfLe2yJ7DAVMzD"
     },
     {
       "added_at": "2026-11-20 03:19:43",

@@ -1,12 +1,12 @@
 {
   "description": "Artistas LGBTQIA+ que brillan e inspiran.\nCover: Lichi",
-  "num_followers": 133330,
+  "num_followers": 133328,
   "original_name": "BRILLO",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAOQbQXKSl6X2QmdOPwdXkNocJ6Jh",
+  "snapshot_id": "AAAAALaLX9oEOu9gPGZ6YqzV8Thbq0vW",
   "tracks": [
     {
       "added_at": "2026-11-20 03:00:22",
@@ -1671,6 +1671,26 @@
     {
       "added_at": "2026-11-20 03:00:22",
       "album": {
+        "name": "bitFM: SE\u00d1AL ABIERTA",
+        "url": "https://open.spotify.com/album/6XjAUpJ1XtTBEONXFjdgVc"
+      },
+      "artists": [
+        {
+          "name": "bautibit",
+          "url": "https://open.spotify.com/artist/3kqMwQRkXB1f0nbvxIH3e5"
+        },
+        {
+          "name": "Ceretti",
+          "url": "https://open.spotify.com/artist/1mxmzlsBQxSDeXBDIj9emf"
+        }
+      ],
+      "duration_ms": 178512,
+      "name": "Prometeo - feat. Ceretti",
+      "url": "https://open.spotify.com/track/1R8UwmCenwTp27ixuYzNuo"
+    },
+    {
+      "added_at": "2026-11-20 03:00:22",
+      "album": {
         "name": "Canciones de Amor",
         "url": "https://open.spotify.com/album/1xyRm4Ti9USkm9sVTwVfXU"
       },
@@ -1691,26 +1711,6 @@
       "duration_ms": 194043,
       "name": "Canciones de Amor",
       "url": "https://open.spotify.com/track/1RjmeNxL0KNM0KTH8aySAO"
-    },
-    {
-      "added_at": "2026-11-20 03:00:22",
-      "album": {
-        "name": "bitFM: SE\u00d1AL ABIERTA",
-        "url": "https://open.spotify.com/album/6XjAUpJ1XtTBEONXFjdgVc"
-      },
-      "artists": [
-        {
-          "name": "bautibit",
-          "url": "https://open.spotify.com/artist/3kqMwQRkXB1f0nbvxIH3e5"
-        },
-        {
-          "name": "Ceretti",
-          "url": "https://open.spotify.com/artist/1mxmzlsBQxSDeXBDIj9emf"
-        }
-      ],
-      "duration_ms": 178512,
-      "name": "Prometeo - feat. Ceretti",
-      "url": "https://open.spotify.com/track/1R8UwmCenwTp27ixuYzNuo"
     },
     {
       "added_at": "2026-11-20 03:00:22",

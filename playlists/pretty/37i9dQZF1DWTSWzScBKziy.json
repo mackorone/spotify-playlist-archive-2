@@ -1,12 +1,12 @@
 {
   "description": "Dive into a diverse collection of recent releases from Christian and inspirational artists across all genres. Cover: Strings & Heart",
-  "num_followers": 443995,
+  "num_followers": 444016,
   "original_name": "Faith Rising",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAF9x60uMNCUlZpG0JnXIvWs7FTef",
+  "snapshot_id": "AAAAAF75P73+uiCrs3SSGVpB6xAWTW4S",
   "tracks": [
     {
       "added_at": "2026-11-20 06:20:10",
@@ -395,6 +395,26 @@
     {
       "added_at": "2026-11-20 06:20:10",
       "album": {
+        "name": "Doxology (All Praise)",
+        "url": "https://open.spotify.com/album/0u87RNAoGcLHPxpmJljLWm"
+      },
+      "artists": [
+        {
+          "name": "Cody Carnes",
+          "url": "https://open.spotify.com/artist/7apN8bBgl19E0Ona9pvPq0"
+        },
+        {
+          "name": "Kari Jobe Carnes",
+          "url": "https://open.spotify.com/artist/3VTWrobRnI633EBuUSfyw3"
+        }
+      ],
+      "duration_ms": 419513,
+      "name": "Doxology (All Praise)",
+      "url": "https://open.spotify.com/track/1DzcXks7Lsa4Zc6wuB2yt4"
+    },
+    {
+      "added_at": "2026-11-20 06:20:10",
+      "album": {
         "name": "Maranatha / East Gate",
         "url": "https://open.spotify.com/album/7jqbrkurduXbJmc1ZvLPJL"
       },
@@ -419,26 +439,6 @@
     {
       "added_at": "2026-11-20 06:20:10",
       "album": {
-        "name": "Doxology (All Praise)",
-        "url": "https://open.spotify.com/album/0u87RNAoGcLHPxpmJljLWm"
-      },
-      "artists": [
-        {
-          "name": "Cody Carnes",
-          "url": "https://open.spotify.com/artist/7apN8bBgl19E0Ona9pvPq0"
-        },
-        {
-          "name": "Kari Jobe Carnes",
-          "url": "https://open.spotify.com/artist/3VTWrobRnI633EBuUSfyw3"
-        }
-      ],
-      "duration_ms": 419513,
-      "name": "Doxology (All Praise)",
-      "url": "https://open.spotify.com/track/1DzcXks7Lsa4Zc6wuB2yt4"
-    },
-    {
-      "added_at": "2026-11-20 06:20:10",
-      "album": {
         "name": "HOST",
         "url": "https://open.spotify.com/album/1XrgI7xzJxwPtAubo0i2Rn"
       },
@@ -451,6 +451,22 @@
       "duration_ms": 464733,
       "name": "Host",
       "url": "https://open.spotify.com/track/2W6j8N1jYns9OvVCoCFNUm"
+    },
+    {
+      "added_at": "2026-11-20 06:20:10",
+      "album": {
+        "name": "Gethsemane",
+        "url": "https://open.spotify.com/album/5yQd81Om5SCUBsBimL3U3N"
+      },
+      "artists": [
+        {
+          "name": "Hailey Hutcheson",
+          "url": "https://open.spotify.com/artist/3AffCW7hqf6m5tx0cE2G1i"
+        }
+      ],
+      "duration_ms": 173350,
+      "name": "Gethsemane",
+      "url": "https://open.spotify.com/track/0LGXeV4PrAYhKZQeTNONeu"
     },
     {
       "added_at": "2026-11-20 06:20:10",
@@ -483,22 +499,6 @@
       "duration_ms": 274851,
       "name": "God Is Everywhere",
       "url": "https://open.spotify.com/track/6Oli36yzAWTMdKGRaTjvHe"
-    },
-    {
-      "added_at": "2026-11-20 06:20:10",
-      "album": {
-        "name": "Gethsemane",
-        "url": "https://open.spotify.com/album/5yQd81Om5SCUBsBimL3U3N"
-      },
-      "artists": [
-        {
-          "name": "Hailey Hutcheson",
-          "url": "https://open.spotify.com/artist/3AffCW7hqf6m5tx0cE2G1i"
-        }
-      ],
-      "duration_ms": 173350,
-      "name": "Gethsemane",
-      "url": "https://open.spotify.com/track/0LGXeV4PrAYhKZQeTNONeu"
     },
     {
       "added_at": "2026-11-20 06:20:10",
@@ -671,22 +671,6 @@
     {
       "added_at": "2026-11-20 06:20:10",
       "album": {
-        "name": "I Checked Into Rehab",
-        "url": "https://open.spotify.com/album/0tD4hwba3gmFFGrE8yQ3UO"
-      },
-      "artists": [
-        {
-          "name": "Chandler Moore",
-          "url": "https://open.spotify.com/artist/6y7frW1RUq3XBBXbYowVpk"
-        }
-      ],
-      "duration_ms": 208206,
-      "name": "I Checked Into Rehab",
-      "url": "https://open.spotify.com/track/4aWyvat1O7K6ijgmzQN3vP"
-    },
-    {
-      "added_at": "2026-11-20 06:20:10",
-      "album": {
         "name": "Had It All",
         "url": "https://open.spotify.com/album/4eahcFOdr2iIdiJvF0XYPb"
       },
@@ -699,6 +683,22 @@
       "duration_ms": 253241,
       "name": "Had It All",
       "url": "https://open.spotify.com/track/3qkTCNRFKnXCSJuWxfuIgo"
+    },
+    {
+      "added_at": "2026-11-20 06:20:10",
+      "album": {
+        "name": "I Checked Into Rehab",
+        "url": "https://open.spotify.com/album/0tD4hwba3gmFFGrE8yQ3UO"
+      },
+      "artists": [
+        {
+          "name": "Chandler Moore",
+          "url": "https://open.spotify.com/artist/6y7frW1RUq3XBBXbYowVpk"
+        }
+      ],
+      "duration_ms": 208206,
+      "name": "I Checked Into Rehab",
+      "url": "https://open.spotify.com/track/4aWyvat1O7K6ijgmzQN3vP"
     },
     {
       "added_at": "2026-11-20 06:20:10",
@@ -763,22 +763,6 @@
     {
       "added_at": "2026-11-20 06:20:10",
       "album": {
-        "name": "Take It To The Throne",
-        "url": "https://open.spotify.com/album/5932JNQ1Qei0mFe1eMq28j"
-      },
-      "artists": [
-        {
-          "name": "7 Hills Worship",
-          "url": "https://open.spotify.com/artist/0SLXOHoqcGPOsH9RZETtp1"
-        }
-      ],
-      "duration_ms": 248592,
-      "name": "Take It To The Throne",
-      "url": "https://open.spotify.com/track/2A5pSLvuyoB0Z7yogdIBDw"
-    },
-    {
-      "added_at": "2026-11-20 06:20:10",
-      "album": {
         "name": "The Drought Is Over (Live from LO Conference)",
         "url": "https://open.spotify.com/album/5VUNF7l8IgVKMURg4QLfOo"
       },
@@ -795,6 +779,22 @@
       "duration_ms": 323249,
       "name": "The Drought Is Over - Live from LO Conference",
       "url": "https://open.spotify.com/track/2EXb4Ehj689iuhkUgc4Pan"
+    },
+    {
+      "added_at": "2026-11-20 06:20:10",
+      "album": {
+        "name": "Take It To The Throne",
+        "url": "https://open.spotify.com/album/5932JNQ1Qei0mFe1eMq28j"
+      },
+      "artists": [
+        {
+          "name": "7 Hills Worship",
+          "url": "https://open.spotify.com/artist/0SLXOHoqcGPOsH9RZETtp1"
+        }
+      ],
+      "duration_ms": 248592,
+      "name": "Take It To The Throne",
+      "url": "https://open.spotify.com/track/2A5pSLvuyoB0Z7yogdIBDw"
     },
     {
       "added_at": "2026-11-20 06:20:10",
@@ -963,22 +963,6 @@
     {
       "added_at": "2026-11-20 06:20:10",
       "album": {
-        "name": "Praise Upon Praise (Live at The River)",
-        "url": "https://open.spotify.com/album/3KiyUYsfBs3SNT3hDh6dND"
-      },
-      "artists": [
-        {
-          "name": "Mack Brock",
-          "url": "https://open.spotify.com/artist/5yCOPpDHEQxwSJJL2LAqLj"
-        }
-      ],
-      "duration_ms": 378578,
-      "name": "Praise Upon Praise (Live at The River)",
-      "url": "https://open.spotify.com/track/3JguJhYBHNBUTGxIMJBthz"
-    },
-    {
-      "added_at": "2026-11-20 06:20:10",
-      "album": {
         "name": "Praise You All The Same",
         "url": "https://open.spotify.com/album/65yCammrWtXoXuuodc7XJN"
       },
@@ -999,18 +983,34 @@
     {
       "added_at": "2026-11-20 06:20:10",
       "album": {
-        "name": "Over and Over Again",
-        "url": "https://open.spotify.com/album/6axsnUzsI5IV8mqkd60tkq"
+        "name": "Praise Upon Praise (Live at The River)",
+        "url": "https://open.spotify.com/album/3KiyUYsfBs3SNT3hDh6dND"
       },
       "artists": [
         {
-          "name": "Bryan & Katie Torwalt",
-          "url": "https://open.spotify.com/artist/7bvAtcPT3evvSeHDyu2zBC"
+          "name": "Mack Brock",
+          "url": "https://open.spotify.com/artist/5yCOPpDHEQxwSJJL2LAqLj"
         }
       ],
-      "duration_ms": 247814,
-      "name": "Glory To The One",
-      "url": "https://open.spotify.com/track/5Cprr24d6TPp4yCK5VvhLd"
+      "duration_ms": 378578,
+      "name": "Praise Upon Praise (Live at The River)",
+      "url": "https://open.spotify.com/track/3JguJhYBHNBUTGxIMJBthz"
+    },
+    {
+      "added_at": "2026-11-20 06:20:10",
+      "album": {
+        "name": "You Remain (Radio Version)",
+        "url": "https://open.spotify.com/album/6RInGhVSjMBm3yOwJJlRpt"
+      },
+      "artists": [
+        {
+          "name": "Terrian",
+          "url": "https://open.spotify.com/artist/19TPpTWkgX13Qc2stbqVoP"
+        }
+      ],
+      "duration_ms": 175374,
+      "name": "You Remain - Radio Version",
+      "url": "https://open.spotify.com/track/5aaGxmiGi7O69fgaXFXGok"
     },
     {
       "added_at": "2026-11-20 06:20:10",
@@ -1035,18 +1035,18 @@
     {
       "added_at": "2026-11-20 06:20:10",
       "album": {
-        "name": "You Remain (Radio Version)",
-        "url": "https://open.spotify.com/album/6RInGhVSjMBm3yOwJJlRpt"
+        "name": "Over and Over Again",
+        "url": "https://open.spotify.com/album/6axsnUzsI5IV8mqkd60tkq"
       },
       "artists": [
         {
-          "name": "Terrian",
-          "url": "https://open.spotify.com/artist/19TPpTWkgX13Qc2stbqVoP"
+          "name": "Bryan & Katie Torwalt",
+          "url": "https://open.spotify.com/artist/7bvAtcPT3evvSeHDyu2zBC"
         }
       ],
-      "duration_ms": 175374,
-      "name": "You Remain - Radio Version",
-      "url": "https://open.spotify.com/track/5aaGxmiGi7O69fgaXFXGok"
+      "duration_ms": 247814,
+      "name": "Glory To The One",
+      "url": "https://open.spotify.com/track/5Cprr24d6TPp4yCK5VvhLd"
     },
     {
       "added_at": "2026-11-20 06:20:10",
@@ -1215,26 +1215,6 @@
     {
       "added_at": "2026-11-20 06:20:10",
       "album": {
-        "name": "Wretched",
-        "url": "https://open.spotify.com/album/4d3Qbnd2cZbtaI23QVFhQy"
-      },
-      "artists": [
-        {
-          "name": "Jimmy Clifton",
-          "url": "https://open.spotify.com/artist/2G0M287MWFHQB1dE4RwW7t"
-        },
-        {
-          "name": "Salem Lee",
-          "url": "https://open.spotify.com/artist/1u5Wv2X6keaZkjxIUNxyf6"
-        }
-      ],
-      "duration_ms": 178549,
-      "name": "Wretched",
-      "url": "https://open.spotify.com/track/3GDhdPOfCKaD9pJXtMlbbK"
-    },
-    {
-      "added_at": "2026-11-20 06:20:10",
-      "album": {
         "name": "Father's House",
         "url": "https://open.spotify.com/album/2l1rSx4woYjrFmXFNTP5Hc"
       },
@@ -1255,6 +1235,22 @@
     {
       "added_at": "2026-11-20 06:20:10",
       "album": {
+        "name": "Fast",
+        "url": "https://open.spotify.com/album/6zLW29hCIfExxihcDUX736"
+      },
+      "artists": [
+        {
+          "name": "Jordan Feliz",
+          "url": "https://open.spotify.com/artist/0TgNiaeQaWssaH9aWjbqnA"
+        }
+      ],
+      "duration_ms": 208272,
+      "name": "Fast",
+      "url": "https://open.spotify.com/track/20ul3aAdt2mPvPZ9t4iPKz"
+    },
+    {
+      "added_at": "2026-11-20 06:20:10",
+      "album": {
         "name": "made me whole again",
         "url": "https://open.spotify.com/album/4R1toNTvpeJX7QMz2PQksb"
       },
@@ -1271,18 +1267,22 @@
     {
       "added_at": "2026-11-20 06:20:10",
       "album": {
-        "name": "Fast",
-        "url": "https://open.spotify.com/album/6zLW29hCIfExxihcDUX736"
+        "name": "Wretched",
+        "url": "https://open.spotify.com/album/4d3Qbnd2cZbtaI23QVFhQy"
       },
       "artists": [
         {
-          "name": "Jordan Feliz",
-          "url": "https://open.spotify.com/artist/0TgNiaeQaWssaH9aWjbqnA"
+          "name": "Jimmy Clifton",
+          "url": "https://open.spotify.com/artist/2G0M287MWFHQB1dE4RwW7t"
+        },
+        {
+          "name": "Salem Lee",
+          "url": "https://open.spotify.com/artist/1u5Wv2X6keaZkjxIUNxyf6"
         }
       ],
-      "duration_ms": 208272,
-      "name": "Fast",
-      "url": "https://open.spotify.com/track/20ul3aAdt2mPvPZ9t4iPKz"
+      "duration_ms": 178549,
+      "name": "Wretched",
+      "url": "https://open.spotify.com/track/3GDhdPOfCKaD9pJXtMlbbK"
     },
     {
       "added_at": "2026-11-20 06:20:10",
@@ -1303,22 +1303,6 @@
       "duration_ms": 244800,
       "name": "To Act Justly",
       "url": "https://open.spotify.com/track/1xr9cHwoRHiL81wVW0CYlj"
-    },
-    {
-      "added_at": "2026-11-20 06:20:10",
-      "album": {
-        "name": "Darkness",
-        "url": "https://open.spotify.com/album/1MGm5Lo9xlsxwBVpob1wyE"
-      },
-      "artists": [
-        {
-          "name": "Jimmy Clifton",
-          "url": "https://open.spotify.com/artist/2G0M287MWFHQB1dE4RwW7t"
-        }
-      ],
-      "duration_ms": 253235,
-      "name": "Darkness",
-      "url": "https://open.spotify.com/track/6tR8Xq6NWpvE6qW9OSsHHx"
     },
     {
       "added_at": "2026-11-20 06:20:10",
@@ -1375,6 +1359,22 @@
     {
       "added_at": "2026-11-20 06:20:10",
       "album": {
+        "name": "Darkness",
+        "url": "https://open.spotify.com/album/1MGm5Lo9xlsxwBVpob1wyE"
+      },
+      "artists": [
+        {
+          "name": "Jimmy Clifton",
+          "url": "https://open.spotify.com/artist/2G0M287MWFHQB1dE4RwW7t"
+        }
+      ],
+      "duration_ms": 253235,
+      "name": "Darkness",
+      "url": "https://open.spotify.com/track/6tR8Xq6NWpvE6qW9OSsHHx"
+    },
+    {
+      "added_at": "2026-11-20 06:20:10",
+      "album": {
         "name": "OUT THE MUD",
         "url": "https://open.spotify.com/album/3GuKEj6rHImj9ah47iHbkO"
       },
@@ -1387,22 +1387,6 @@
       "duration_ms": 145923,
       "name": "OUT THE MUD",
       "url": "https://open.spotify.com/track/1WxqRq5g8DjzFBDf48UsuF"
-    },
-    {
-      "added_at": "2026-11-20 06:20:10",
-      "album": {
-        "name": "Stay",
-        "url": "https://open.spotify.com/album/6iPfZgFPXtZwuPtsE0LzML"
-      },
-      "artists": [
-        {
-          "name": "Jimmy Clifton",
-          "url": "https://open.spotify.com/artist/2G0M287MWFHQB1dE4RwW7t"
-        }
-      ],
-      "duration_ms": 240510,
-      "name": "Stay",
-      "url": "https://open.spotify.com/track/0kE2doTdP95RXTkNXg1ddO"
     },
     {
       "added_at": "2026-11-20 06:20:10",
@@ -1463,6 +1447,22 @@
     {
       "added_at": "2026-11-20 06:20:10",
       "album": {
+        "name": "Stay",
+        "url": "https://open.spotify.com/album/6iPfZgFPXtZwuPtsE0LzML"
+      },
+      "artists": [
+        {
+          "name": "Jimmy Clifton",
+          "url": "https://open.spotify.com/artist/2G0M287MWFHQB1dE4RwW7t"
+        }
+      ],
+      "duration_ms": 240510,
+      "name": "Stay",
+      "url": "https://open.spotify.com/track/0kE2doTdP95RXTkNXg1ddO"
+    },
+    {
+      "added_at": "2026-11-20 06:20:10",
+      "album": {
         "name": "Blessed Assurance (This Is My Story)",
         "url": "https://open.spotify.com/album/1uFHJmsfpmDsQLoojKKtcX"
       },
@@ -1475,38 +1475,6 @@
       "duration_ms": 215240,
       "name": "Blessed Assurance (This Is My Story)",
       "url": "https://open.spotify.com/track/2bPnahexzbKdl6l3mLHcFU"
-    },
-    {
-      "added_at": "2026-11-20 06:20:10",
-      "album": {
-        "name": "Outcasts",
-        "url": "https://open.spotify.com/album/2JaZh7KeO7AzaMDWejBgAo"
-      },
-      "artists": [
-        {
-          "name": "Jimmy Clifton",
-          "url": "https://open.spotify.com/artist/2G0M287MWFHQB1dE4RwW7t"
-        }
-      ],
-      "duration_ms": 211462,
-      "name": "Outcasts",
-      "url": "https://open.spotify.com/track/5dpB0wkGPksYPiJeDJLNRr"
-    },
-    {
-      "added_at": "2026-11-20 06:20:10",
-      "album": {
-        "name": "Hymns From A Barstool",
-        "url": "https://open.spotify.com/album/2VlZoaLtLjx8fQOLkUI9Zt"
-      },
-      "artists": [
-        {
-          "name": "Belle Frantz",
-          "url": "https://open.spotify.com/artist/7impCQSfqOMNU2WJPuoGXL"
-        }
-      ],
-      "duration_ms": 216675,
-      "name": "Hymns From a Barstool",
-      "url": "https://open.spotify.com/track/3xOb0DXCOh2JyCIZlUFgfn"
     },
     {
       "added_at": "2026-11-20 06:20:10",
@@ -1527,6 +1495,22 @@
     {
       "added_at": "2026-11-20 06:20:10",
       "album": {
+        "name": "Hymns From A Barstool",
+        "url": "https://open.spotify.com/album/2VlZoaLtLjx8fQOLkUI9Zt"
+      },
+      "artists": [
+        {
+          "name": "Belle Frantz",
+          "url": "https://open.spotify.com/artist/7impCQSfqOMNU2WJPuoGXL"
+        }
+      ],
+      "duration_ms": 216675,
+      "name": "Hymns From a Barstool",
+      "url": "https://open.spotify.com/track/3xOb0DXCOh2JyCIZlUFgfn"
+    },
+    {
+      "added_at": "2026-11-20 06:20:10",
+      "album": {
         "name": "My King",
         "url": "https://open.spotify.com/album/6hN6HKKheCc6Ge9OnEZAwA"
       },
@@ -1543,6 +1527,22 @@
       "duration_ms": 271761,
       "name": "My King",
       "url": "https://open.spotify.com/track/6HovbmMG2sr6fOtadqtLvN"
+    },
+    {
+      "added_at": "2026-11-20 06:20:10",
+      "album": {
+        "name": "Outcasts",
+        "url": "https://open.spotify.com/album/2JaZh7KeO7AzaMDWejBgAo"
+      },
+      "artists": [
+        {
+          "name": "Jimmy Clifton",
+          "url": "https://open.spotify.com/artist/2G0M287MWFHQB1dE4RwW7t"
+        }
+      ],
+      "duration_ms": 211462,
+      "name": "Outcasts",
+      "url": "https://open.spotify.com/track/5dpB0wkGPksYPiJeDJLNRr"
     },
     {
       "added_at": "2026-11-20 06:20:10",
@@ -1583,26 +1583,6 @@
     {
       "added_at": "2026-11-20 06:20:10",
       "album": {
-        "name": "Don't Give Up",
-        "url": "https://open.spotify.com/album/1rjQ6dSvk3hCVMbwrCs81r"
-      },
-      "artists": [
-        {
-          "name": "Baily Hager",
-          "url": "https://open.spotify.com/artist/20o7eBmsXpjnNqWVvwp9sb"
-        },
-        {
-          "name": "Johnny Songs",
-          "url": "https://open.spotify.com/artist/1Klr0ZjipQgD7otXBzZ4gt"
-        }
-      ],
-      "duration_ms": 180961,
-      "name": "Don't Give Up",
-      "url": "https://open.spotify.com/track/29mQeq9Z7JvCkFYxgNuUVU"
-    },
-    {
-      "added_at": "2026-11-20 06:20:10",
-      "album": {
         "name": "SUPERNATURAL",
         "url": "https://open.spotify.com/album/1fpUIJNTyZv4ZV0v5LRrKo"
       },
@@ -1623,22 +1603,22 @@
     {
       "added_at": "2026-11-20 06:20:10",
       "album": {
-        "name": "This is Still Amazing Grace",
-        "url": "https://open.spotify.com/album/52lYsSpvm8WdAYM4x2cTJg"
+        "name": "Don't Give Up",
+        "url": "https://open.spotify.com/album/1rjQ6dSvk3hCVMbwrCs81r"
       },
       "artists": [
         {
-          "name": "The Porter's Gate",
-          "url": "https://open.spotify.com/artist/3lFjLxwdFzhGr9fhWzE0SW"
+          "name": "Baily Hager",
+          "url": "https://open.spotify.com/artist/20o7eBmsXpjnNqWVvwp9sb"
         },
         {
-          "name": "DOE",
-          "url": "https://open.spotify.com/artist/7z7byOJ4AJnMY2NHE66ZpW"
+          "name": "Johnny Songs",
+          "url": "https://open.spotify.com/artist/1Klr0ZjipQgD7otXBzZ4gt"
         }
       ],
-      "duration_ms": 171000,
-      "name": "This is Still Amazing Grace",
-      "url": "https://open.spotify.com/track/72LonVhXl9NcrW9197Mv3a"
+      "duration_ms": 180961,
+      "name": "Don't Give Up",
+      "url": "https://open.spotify.com/track/29mQeq9Z7JvCkFYxgNuUVU"
     },
     {
       "added_at": "2026-11-20 06:20:10",
@@ -1655,6 +1635,26 @@
       "duration_ms": 183018,
       "name": "Man on the Middle Tree",
       "url": "https://open.spotify.com/track/1A17Kfq0Y8rQa98XseKqGo"
+    },
+    {
+      "added_at": "2026-11-20 06:20:10",
+      "album": {
+        "name": "This is Still Amazing Grace",
+        "url": "https://open.spotify.com/album/52lYsSpvm8WdAYM4x2cTJg"
+      },
+      "artists": [
+        {
+          "name": "The Porter's Gate",
+          "url": "https://open.spotify.com/artist/3lFjLxwdFzhGr9fhWzE0SW"
+        },
+        {
+          "name": "DOE",
+          "url": "https://open.spotify.com/artist/7z7byOJ4AJnMY2NHE66ZpW"
+        }
+      ],
+      "duration_ms": 171000,
+      "name": "This is Still Amazing Grace",
+      "url": "https://open.spotify.com/track/72LonVhXl9NcrW9197Mv3a"
     },
     {
       "added_at": "2026-11-20 06:20:10",
@@ -1699,22 +1699,6 @@
     {
       "added_at": "2026-11-20 06:20:10",
       "album": {
-        "name": "Hollow of Your Hands",
-        "url": "https://open.spotify.com/album/1WxjNXWW9tcct8k9Z07GIK"
-      },
-      "artists": [
-        {
-          "name": "Moses Akoh",
-          "url": "https://open.spotify.com/artist/6mUEeS22r3xn9ksKKgENrT"
-        }
-      ],
-      "duration_ms": 277000,
-      "name": "Hollow of Your Hands",
-      "url": "https://open.spotify.com/track/0qNXioiAXhoRi5IuCBSRGN"
-    },
-    {
-      "added_at": "2026-11-20 06:20:10",
-      "album": {
         "name": "Awaken to Wonder (Live at the Conservatory)",
         "url": "https://open.spotify.com/album/6cfq5e5kqIShOaD8o6Df8b"
       },
@@ -1727,6 +1711,22 @@
       "duration_ms": 304482,
       "name": "His Cross Stands Forever - Live",
       "url": "https://open.spotify.com/track/534yuQdBj5zZkoxPcCntbh"
+    },
+    {
+      "added_at": "2026-11-20 06:20:10",
+      "album": {
+        "name": "Hollow of Your Hands",
+        "url": "https://open.spotify.com/album/1WxjNXWW9tcct8k9Z07GIK"
+      },
+      "artists": [
+        {
+          "name": "Moses Akoh",
+          "url": "https://open.spotify.com/artist/6mUEeS22r3xn9ksKKgENrT"
+        }
+      ],
+      "duration_ms": 277000,
+      "name": "Hollow of Your Hands",
+      "url": "https://open.spotify.com/track/0qNXioiAXhoRi5IuCBSRGN"
     },
     {
       "added_at": "2026-11-20 06:20:10",
@@ -1807,22 +1807,18 @@
     {
       "added_at": "2026-11-20 06:20:10",
       "album": {
-        "name": "Make A Way (Acoustic)",
-        "url": "https://open.spotify.com/album/1efsB9WeeqhgfvI3rbbkd0"
+        "name": "Get This Far",
+        "url": "https://open.spotify.com/album/2NZmteaYUBnVBecCXYlLFn"
       },
       "artists": [
         {
-          "name": "Tim Hughes",
-          "url": "https://open.spotify.com/artist/3z1cp4jtdPSklLE90162gh"
-        },
-        {
-          "name": "Zo Ross-Waddell",
-          "url": "https://open.spotify.com/artist/20ecnCfTvktxgucxSilf5N"
+          "name": "Living Again",
+          "url": "https://open.spotify.com/artist/4wQNGiwWYW2XFrSSPRdpI6"
         }
       ],
-      "duration_ms": 242000,
-      "name": "Make A Way - Acoustic",
-      "url": "https://open.spotify.com/track/2KGteXCvvjH3hTqzqwGpEM"
+      "duration_ms": 235489,
+      "name": "Get This Far",
+      "url": "https://open.spotify.com/track/3encXQfnLc6Z6LK4lQarun"
     }
   ],
   "unique_name": "Faith Rising",

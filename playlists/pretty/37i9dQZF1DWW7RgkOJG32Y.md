@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWW7RgkOJG32Y.md) - [plain]
 
 > Trending for a reason \- the home of country's future monster hits\. Cover: Megan Moroney
 
-[Spotify](https://open.spotify.com/user/spotify) - 680,601 likes - 53 songs - 3 hr 7 min
+[Spotify](https://open.spotify.com/user/spotify) - 680,617 likes - 53 songs - 3 hr 7 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -62,4 +62,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWW7RgkOJG32Y.md) - [plain]
 | 52 | [Mexico Honey](https://open.spotify.com/track/7xKr077iMufVJwge6aO9xJ) | [Kacey Musgraves](https://open.spotify.com/artist/70kkdajctXSbqSMJbQO424) | [Middle of Nowhere](https://open.spotify.com/album/1quFS6EneVBW7PTbipPlNg) | 3:43 |
 | 53 | [Rather Be Here \(feat\. Jason Aldean\)](https://open.spotify.com/track/5A1Ksw7PzA6NhIYrebOFjo) | [Corey Kent](https://open.spotify.com/artist/3sUpZrkehiGBaMzs2h9Mmc), [Jason Aldean](https://open.spotify.com/artist/3FfvYsEGaIb52QPXhg4DcH) | [Rather Be Here \(feat\. Jason Aldean\)](https://open.spotify.com/album/05ZehfKPl9DM7r29HDn3ra) | 3:17 |
 
-Snapshot ID: `AAAAAPOVYXkDbMOo7LGsh7+vRD0KszFj`
+Snapshot ID: `AAAAAEocIX4RMu4ViEF1hQdX388Aj0bk`

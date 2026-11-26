@@ -4,7 +4,7 @@
 
 > Hours of comforting sounds of thunder and rain.
 
-351 songs - 15 hr 37 min
+351 songs - 15 hr 40 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -55,7 +55,7 @@
 | [Dark skies](https://open.spotify.com/track/48jzJCr5iHi1aMuhTKlXP0) | [Breez Bing](https://open.spotify.com/artist/6etNuBwGVHTfpyZmaoZHFH) | [LWD Rain](https://open.spotify.com/album/2XXKpJdXfo89hdDUJwrNJH) | 2:01 | 2021-11-10 | 2025-12-10 |
 | [Dark Storm](https://open.spotify.com/track/2bI4BdFdtdDBM2q3xB3IZR) | [Taranis](https://open.spotify.com/artist/1NJVAyxYtsmOu8aiWyVpaH) | [Celtic Storm](https://open.spotify.com/album/5CFVwpOfT7S8GZ5stbFQbn) | 3:00 | 2021-11-10 | 2025-12-10 |
 | [Das Unwetter](https://open.spotify.com/track/7D9DQF0eBc7E3OLBNXaKIu) | [BLITZ](https://open.spotify.com/artist/0Mh5A7teUHad8RrOy9TvkH) | [Regen und Donner](https://open.spotify.com/album/094KCo8MLAqrfNjBkDkI46) | 3:12 | 2021-11-10 | 2025-12-10 |
-| [Deep Rain Thunder](https://open.spotify.com/track/7lxs4cWZvIUrjA1iSWpCot) | [Gentle Nature](https://open.spotify.com/artist/7f3QypUiild5XYfNKBttO4) | [VDWW](https://open.spotify.com/album/5uyVbRWOOEPzlOGv6Q1oNP) | 1:55 | 2021-11-10 |  |
+| [Deep Rain Thunder](https://open.spotify.com/track/7lxs4cWZvIUrjA1iSWpCot) | [Gentle Nature](https://open.spotify.com/artist/7f3QypUiild5XYfNKBttO4) | [VDWW](https://open.spotify.com/album/5uyVbRWOOEPzlOGv6Q1oNP) | 2:27 | 2021-11-10 |  |
 | [Deep Rain Thunder](https://open.spotify.com/track/06l4p419P3L42mTUa5KJw4) | [VDWW](https://open.spotify.com/artist/5wVLiKYylh7CoORGyuVgS2) | [VDWW](https://open.spotify.com/album/5uyVbRWOOEPzlOGv6Q1oNP) | 1:55 | 2021-11-10 | 2023-06-16 |
 | [Deep Rumble](https://open.spotify.com/track/6VBbtB6SJVmhCnRnqSt9Ec) | [Brontology](https://open.spotify.com/artist/2wV6tmD1aCH03G6uBqVOMp) | [Deep Rumble](https://open.spotify.com/album/0Sg3nFvTjNSsZysu6JiGFz) | 2:15 | 2023-02-13 |  |
 | [Deep Storm](https://open.spotify.com/track/5T9OJA2LwDfIy2N6tEoJSD) | [The BD Noise Maker](https://open.spotify.com/artist/5WPKIg5kP6Ov7DrSGCqj2H) | [Deep Storm](https://open.spotify.com/album/36LIkvquwcFFqod2v2diY7) | 2:48 | 2023-02-13 |  |
@@ -79,7 +79,7 @@
 | [El Trueno Desde Arriba](https://open.spotify.com/track/6zfCEuZfzq9vWeG22bj39P) | [Adela Amando](https://open.spotify.com/artist/4MxSvvBZgxyHPAuwKX5srl) | [El Trueno Desde Arriba](https://open.spotify.com/album/16zN24HwT4LSaAbN6xeJMV) | 1:39 | 2023-02-13 | 2023-06-16 |
 | [Electric Dreams](https://open.spotify.com/track/1PVmI01F4mrbD0czddRlyq) | [Indra](https://open.spotify.com/artist/4mZVOEyscSE2MEbntY11c3) | [Lit up Sky](https://open.spotify.com/album/2vj6kHYyG1WYZl5Mk4N7aS) | 3:28 | 2023-02-13 | 2025-12-10 |
 | [Electric Drops](https://open.spotify.com/track/3dHVp4tIryXs62JYtcINhc) | [Zinan](https://open.spotify.com/artist/53Ogdlq3YW29r02FV64tYH) | [Bedtime Thunder](https://open.spotify.com/album/07VjmhXeWj2hUMXPZlxQ9T) | 3:28 | 2021-11-10 | 2025-12-10 |
-| [Electric Thunder Strikes and Thunder](https://open.spotify.com/track/7GmmHMb5NLPWseryFhZWjX) | [Natures Acoustics](https://open.spotify.com/artist/2JwZFiiENk7S0lKD4lyTk1) | [Electric Thunder Strikes and Thunder](https://open.spotify.com/album/5KxLnTTtdKuyqesUoiBbPe) | 1:53 | 2024-03-11 |  |
+| [Electric Thunder Strikes and Thunder](https://open.spotify.com/track/7GmmHMb5NLPWseryFhZWjX) | [Natures Acoustics](https://open.spotify.com/artist/2JwZFiiENk7S0lKD4lyTk1) | [Electric Thunder Strikes and Thunder](https://open.spotify.com/album/5KxLnTTtdKuyqesUoiBbPe) | 2:35 | 2024-03-11 |  |
 | [Electrostatic](https://open.spotify.com/track/4Q73bV2I8Bl55TWlBBUyr5) | [Vedhamn Sounds](https://open.spotify.com/artist/1frCifpQ2GtUMzlLcczFcb) | [Electrostatic](https://open.spotify.com/album/7pqQZkINJGaMdr461sNxkv) | 2:43 | 2023-02-13 |  |
 | [Endless Rain Loop](https://open.spotify.com/track/3MU3OGBU2fJS23fIU3JE8s) | [Four Winds](https://open.spotify.com/artist/3MNXmvXsz12M9aeI4w6qqE) | [Clean Rain](https://open.spotify.com/album/5ejOmM66rpAkjk3Y8BGzQB) | 3:56 | 2023-02-13 |  |
 | [Energy](https://open.spotify.com/track/6mOyhVD6I8LNa9FOHqXQ1L) | [Sylvie Kaplan](https://open.spotify.com/artist/61hhbYWnINRvkUiYRCd2oA) | [Energy](https://open.spotify.com/album/4MvAHtPjtBjGwNgaWcqPvx) | 1:54 | 2023-02-13 | 2023-06-16 |
@@ -195,13 +195,13 @@
 | [Quiet Rain and Distant Thunder](https://open.spotify.com/track/0flNnjDS7f98ijnzIrVYnI) | [Pluviæ](https://open.spotify.com/artist/5C2cVr4FbejP0dqohKdUgV) | [Nocturno](https://open.spotify.com/album/0vX6BWyW01PaXOvWmeoQao) | 1:59 | 2021-11-10 | 2023-02-14 |
 | [rAin](https://open.spotify.com/track/2k0Uey3IUXsazhtmGCd9XJ) | [Rain](https://open.spotify.com/artist/7yS3860cHbWTQetLkezjEi) | [rAin](https://open.spotify.com/album/5Wbqx69NTO4n4enBUttJNf) | 3:22 | 2023-06-15 | 2025-12-10 |
 | [Rain & Distant Thunder](https://open.spotify.com/track/4LH3hYpqzwfX22Au9ghCPU) | [Essential Nature Sounds](https://open.spotify.com/artist/5VhOnYoFtMQVsuUJMfXk0M) | [Dark Rain & Deep Thunder](https://open.spotify.com/album/57ur6LcL32QEuI2PXgZ0yK) | 4:41 | 2023-06-15 | 2025-12-10 |
-| [Rain & Thunder](https://open.spotify.com/track/7IqerL7wjXoii1b0xDWbUy) | [Amba Naturale](https://open.spotify.com/artist/4th8dE9LVvvevKJrrk2Ge2) | [Sub Tropics](https://open.spotify.com/album/5pbr4Ww9LoOQgfi3jnQkPL) | 1:48 | 2021-11-10 |  |
+| [Rain & Thunder](https://open.spotify.com/track/7IqerL7wjXoii1b0xDWbUy) | [Amba Naturale](https://open.spotify.com/artist/4th8dE9LVvvevKJrrk2Ge2) | [Sub Tropics](https://open.spotify.com/album/5pbr4Ww9LoOQgfi3jnQkPL) | 2:22 | 2021-11-10 |  |
 | [Rain & Thunder](https://open.spotify.com/track/2sOwfQNXbLm6sA3LEKTeVX) | [Clam Pass](https://open.spotify.com/artist/5tiC8V84vAB6FIDwSkGCF6) | [Thunderstorms](https://open.spotify.com/album/5eGD83pjy0yp4ekJ6q5UNw) | 1:51 | 2021-11-10 | 2023-06-16 |
 | [Rain & Thunder](https://open.spotify.com/track/390qr10wt5OInQ92Vd7ADt) | [Ogień](https://open.spotify.com/artist/5d8IWNN5vBsIDVskioGQLw) | [Rain & Thunder](https://open.spotify.com/album/3lSiIzAOT48IJLDgNb3Orw) | 3:12 | 2021-11-10 | 2025-12-10 |
 | [Rain & Thunder Outside The Palace](https://open.spotify.com/track/5H6GwQZbsw9LSewKcfb57O) | [Royal Rain](https://open.spotify.com/artist/2C32BFATM0fyN4FFTl3fHe) | [Rain For The Queen](https://open.spotify.com/album/2q0IUlA89T4UMf4n4j2DMR) | 3:30 | 2023-02-13 |  |
 | [Rain & Thunderstorms in the Neighbourhood](https://open.spotify.com/track/7dmtnsYMNqLCYo9FpOdo4E) | [Pluviæ](https://open.spotify.com/artist/5C2cVr4FbejP0dqohKdUgV) | [Nocturno](https://open.spotify.com/album/0vX6BWyW01PaXOvWmeoQao) | 1:38 | 2021-11-10 | 2023-02-14 |
 | [Rain and Close Thunder Cracks](https://open.spotify.com/track/4JQaKla5xL4DEVF5tPXLvo) | [Rain Harbor](https://open.spotify.com/artist/3uGbg4fPT9hEfsUDVIPn2r) | [Rain and Close Thunder Cracks](https://open.spotify.com/album/5rJAx8c3CKF8c1kcrF9NSM) | 2:13 | 2026-04-01 |  |
-| [Rain and Thunder](https://open.spotify.com/track/7oSBHzA5J69kqhFp4anTNy) | [Sleep Waves](https://open.spotify.com/artist/5YwgJh6Sx2jIZ0NTqzYCDW) | [Exclusive Nature](https://open.spotify.com/album/6MwRMdOHG26JL8ZdZpCjow) | 1:24 | 2021-11-10 |  |
+| [Rain and Thunder](https://open.spotify.com/track/7oSBHzA5J69kqhFp4anTNy) | [Sleep Waves](https://open.spotify.com/artist/5YwgJh6Sx2jIZ0NTqzYCDW) | [Exclusive Nature](https://open.spotify.com/album/6MwRMdOHG26JL8ZdZpCjow) | 2:18 | 2021-11-10 |  |
 | [Rain and Thunder beneath the Leaves](https://open.spotify.com/track/0Is4kNdtR9S3yRzK05Tp7g) | [Nebelune](https://open.spotify.com/artist/46Ul8d46Ke8xoZXRISCV3z) | [Rain and Thunder beneath the Leaves](https://open.spotify.com/album/0Yw92qEbVjki2qQjfQoXHN) | 2:38 | 2025-12-09 |  |
 | [Rain Coming Down](https://open.spotify.com/track/24lHr1XxXOxfaHkF7ZR5Zc) | [Adam Storme](https://open.spotify.com/artist/0eNiH722ChBnOwAjXcKDYI) | [A Stormy Night](https://open.spotify.com/album/6HLYpQwA1LmxmduBYqWfAC) | 3:36 | 2021-11-10 | 2025-12-10 |
 | [Rain Downpour](https://open.spotify.com/track/56PGNYfo42PMGLxkHEDnzE) | [Unhappy Campers](https://open.spotify.com/artist/6fjsKLQve6XDhg870LDNo2) | [Splish Splash](https://open.spotify.com/album/3UClfFG16yFathNCoSGroo) | 3:02 | 2021-11-10 | 2025-12-10 |

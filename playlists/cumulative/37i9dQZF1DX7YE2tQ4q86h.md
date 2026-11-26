@@ -4,7 +4,7 @@
 
 > Slayyyter is THE main pop girl emergency✨
 
-1,870 songs - 3 day 22 hr 2 min
+1,871 songs - 3 day 22 hr 7 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -316,6 +316,7 @@
 | [Cold Heart \- PNAU Remix](https://open.spotify.com/track/6zSpb8dQRaw0M1dK8PBwQz) | [Elton John](https://open.spotify.com/artist/3PhoLpVuITZKcymswpck5b), [Dua Lipa](https://open.spotify.com/artist/6M2wZ9GZgrQXHCFfjv46we), [PNAU](https://open.spotify.com/artist/6n28c9qs9hNGriNa72b26u) | [Cold Heart \(PNAU Remix\)](https://open.spotify.com/album/5D8Rdb09BkmHscEGSWAlA6) | 3:22 | 2022-02-15 | 2022-05-20 |
 | [Colder](https://open.spotify.com/track/6RW1csDGTkCmKCbOwYFtlA) | [St\. Paul ](https://open.spotify.com/artist/3Qf1sWENF8FhnxoFgx7ppJ) | [Colder](https://open.spotify.com/album/1P51mkzIVBK6pUaHAEPXun) | 2:58 | 2024-02-16 | 2024-06-08 |
 | [Come 2 Brazil](https://open.spotify.com/track/6ECE8va8cPjYXqWxtw1R1F) | [Alice Longyu Gao](https://open.spotify.com/artist/5HvKzBgj4yphQfBJjBJrhL) | [Come 2 Brazil](https://open.spotify.com/album/1GlhS8meus1qIRZVOKu1Kq) | 2:14 | 2023-03-10 | 2023-04-15 |
+| [Come into My World \- Fischerspooner Mix](https://open.spotify.com/track/2LwBlNmiiphrspoFoIZT0T) | [Kylie Minogue](https://open.spotify.com/artist/4RVnAU35WRWra6OZ3CbbMA) | [Fever](https://open.spotify.com/album/4WzTXHp8bVKkKNu3UQ2Fqu) | 4:18 | 2026-11-26 |  |
 | [Come Over](https://open.spotify.com/track/6efcMTYO2lJ0zcpQEPk8m1) | [LE SSERAFIM](https://open.spotify.com/artist/4SpbR6yFEvexJuaBpgAU5p) | [HOT](https://open.spotify.com/album/3lyRrGhXCCMbt4jVO9Wur2) | 2:17 | 2025-03-14 | 2025-05-17 |
 | [Come Through](https://open.spotify.com/track/1dlz8dUn5Hbebp5nA9srNX) | [Priyanka](https://open.spotify.com/artist/1RSalo3q49NotNwKB2jtjO), [Lemon](https://open.spotify.com/artist/6vNrD9n6lmYcHQ9269HH2B) | [Taste Test](https://open.spotify.com/album/3KtsjMFlb2AZxVHwhkEkFs) | 2:48 | 2022-02-15 | 2022-05-14 |
 | [COMING OF AGE](https://open.spotify.com/track/7nAguwk4MKZQL6dvQOEUdH) | [METTE](https://open.spotify.com/artist/6ukMeuNl2eHxb2z9mTFuKL) | [COMING OF AGE](https://open.spotify.com/album/44XxuIv80nwbm3TfqBXmek) | 4:08 | 2026-04-03 | 2026-08-15 |
@@ -1839,7 +1840,7 @@
 | [XXX](https://open.spotify.com/track/3QcWzAQvI41KYheHtvsNoT) | [Kim Petras](https://open.spotify.com/artist/3Xt3RrJMFv5SZkCfUE8C1J) | [Slut Pop](https://open.spotify.com/album/4rs52z8T5zPbsa5HM75tua) | 2:04 | 2023-09-01 | 2024-05-11 |
 | [YA YA](https://open.spotify.com/track/0K9tfzrxJyCQIf7oAlPwaK) | [Beyoncé](https://open.spotify.com/artist/6vWDO969PvNqNYHIOW5v0m) | [COWBOY CARTER](https://open.spotify.com/album/6BzxX6zkDsYKFJ04ziU5xQ) | 4:34 | 2024-03-29 | 2024-06-15 |
 | [YDH](https://open.spotify.com/track/1binvmf6h0SUuvcWkQDYsr) | [Chloe Qisha](https://open.spotify.com/artist/1WNmfSqydnt1FDJKg3l6lw) | [YDH](https://open.spotify.com/album/3zPoIGOVUpW7dWlHWI3YTw) | 3:17 | 2026-02-20 | 2026-06-13 |
-| [Yellow Top](https://open.spotify.com/track/57MNWjHcvTGTliv298LfS5) | [Icona Pop](https://open.spotify.com/artist/1VBflYyxBhnDc9uVib98rw) | [Yellow Top](https://open.spotify.com/album/6bni6exoOWeXnaytmn8z9S) | 2:41 | 2026-06-26 |  |
+| [Yellow Top](https://open.spotify.com/track/57MNWjHcvTGTliv298LfS5) | [Icona Pop](https://open.spotify.com/artist/1VBflYyxBhnDc9uVib98rw) | [Yellow Top](https://open.spotify.com/album/6bni6exoOWeXnaytmn8z9S) | 2:41 | 2026-06-26 | 2026-11-26 |
 | [Yes](https://open.spotify.com/track/3tmFd4Q9cYltKiGMEFBx7w) | [Laurell](https://open.spotify.com/artist/69Pm1OWlxk1tbYphlkcKHR) | [Jaw Drop](https://open.spotify.com/album/5GSK2zyZeXipkEkdfRWD9V) | 2:26 | 2024-01-05 | 2024-01-27 |
 | [yes baby](https://open.spotify.com/track/2Nh1wIvPLDk4wK356m0nQA) | [Madison Beer](https://open.spotify.com/artist/2kRfqPViCqYdSGhYSM9R0Q) | [yes baby](https://open.spotify.com/album/4arOnJKD3OYnk72Q1i7PEL) | 2:55 | 2025-09-19 | 2026-03-21 |
 | [YES GODDD](https://open.spotify.com/track/4P1zfoLVuBfKHGShgXUjQy) | [Slayyyter](https://open.spotify.com/artist/4QM5QCHicznALtX885CnZC) | [WOR$T GIRL IN AMERICA](https://open.spotify.com/album/5siV9C6eK0NpAqER2FfCVA) | 2:39 | 2026-04-10 | 2026-08-01 |

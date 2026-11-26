@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2Wvd8VINtcF.md) - [plain]
 
 > pearl of the week ✨Horse Vision✨
 
-[Spotify](https://open.spotify.com/user/spotify) - 205,649 likes - 200 songs - 10 hr 57 min
+[Spotify](https://open.spotify.com/user/spotify) - 205,639 likes - 200 songs - 10 hr 57 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -209,4 +209,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2Wvd8VINtcF.md) - [plain]
 | 199 | [Someday](https://open.spotify.com/track/6cRlE2AaC9waHPBgYOmRBb) | [Hekt](https://open.spotify.com/artist/0SOn6FeWwXGHcF9JEGM4Y1), [Valeria Litvakov](https://open.spotify.com/artist/3FBE2uYOyGl3z0QmAJNp4q) | [Someday](https://open.spotify.com/album/5CmVuxBj3pldvNLyisdx3I) | 3:31 |
 | 200 | [Srs Ice](https://open.spotify.com/track/7bzZs3kR7MbrfNFPtG8t7R) | [waterbaby](https://open.spotify.com/artist/7ig7r3UikvL9qJe7pQvCBn) | [Memory Be a Blade](https://open.spotify.com/album/2uKRAKkX0mcEevPuaE18rK) | 3:34 |
 
-Snapshot ID: `AAAAAIRIr7teIawTPlqLSF4w4cW1avdR`
+Snapshot ID: `AAAAAImHLywnvzfoA3WYMZZS/1hBM62n`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSYPG5hvDijP.md) - [plain]
 
 > Naya Hindi Hip\-Hop! Cover: Rare, Y.D.S, Lil Sprit 37, Vizen
 
-[Spotify](https://open.spotify.com/user/spotify) - 24,661 likes - 75 songs - 3 hr 25 min
+[Spotify](https://open.spotify.com/user/spotify) - 24,678 likes - 75 songs - 3 hr 25 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -45,7 +45,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSYPG5hvDijP.md) - [plain]
 | 35 | [NMC Ka Dagga \(with Prathamesh\)](https://open.spotify.com/track/51pdqv6Vhk8WWqRZzMAuid) | [Naam Sujal](https://open.spotify.com/artist/6NTcSISlIHPvDleyAkOTqP), [Prathamesh](https://open.spotify.com/artist/1s3KIr4EL3Qm033fYAn6sf) | [MAMAFICATION](https://open.spotify.com/album/61p43immTbGdNHL3UBQM84) | 2:58 |
 | 36 | [Dhiktana](https://open.spotify.com/track/6MhdEFdPxIqFgvJfga0QSX) | [VAIBHAV](https://open.spotify.com/artist/6BKRb9HapejNswwa5rTFBO), [Artemis.](https://open.spotify.com/artist/5fqkVDtrQxTRPYdAW6rJGn) | [Dhiktana](https://open.spotify.com/album/3U0NfNqDaa5ubl7aKmBaEQ) | 2:12 |
 | 37 | [Carnivorous](https://open.spotify.com/track/6bbrVkzTvDCM7jTO9c9vnj) | [Parv Music](https://open.spotify.com/artist/350WWIB7gR7evrXTWmc1pj), [whysoKai](https://open.spotify.com/artist/6yCPQJ2eFDzdhaSVcM7h8q), [Aditya Pushkarna](https://open.spotify.com/artist/7vO600AV63IUH9QqHVAqJs) | [Hustle 5 \- Episode 15](https://open.spotify.com/album/7pYnW836nv921omXqyhxv3) | 3:26 |
-| 38 | [Paisa Toh Bahut Hai](https://open.spotify.com/track/61aF6OSg5tK3fTLorzwOb6) | [Shantanu](https://open.spotify.com/artist/2Fbbl2LqgmqMLrL71chON3) | [Paisa Toh Bahut Hai](https://open.spotify.com/album/5EunajeWedX5bXkTBxviyk) | 2:34 |
+| 38 | [Paisa Toh Bahut Hai](https://open.spotify.com/track/61aF6OSg5tK3fTLorzwOb6) | [Shantanu](https://open.spotify.com/artist/2Fbbl2LqgmqMLrL71chON3), [Raktim Dey](https://open.spotify.com/artist/14UeEgpfU2yKKNY49d6jb5) | [Paisa Toh Bahut Hai](https://open.spotify.com/album/5EunajeWedX5bXkTBxviyk) | 2:34 |
 | 39 | [Hawa Mai Gum](https://open.spotify.com/track/7Gl4mUPfxHEGhdTeoZnkkO) | [saksham dhyani](https://open.spotify.com/artist/4UAFxXN3ovNQvlDlICUhx5), [Akash Raturi](https://open.spotify.com/artist/457OeTZAHzomrx5vdJUQMa), [Maven Music](https://open.spotify.com/artist/7qsUZEko6gauCXtSdrOelW), [GHILDIYAL](https://open.spotify.com/artist/19oE1SHCKszlQciGXQGtbW) | [Guldasta](https://open.spotify.com/album/2QevWyeVzx91E18lKIcvxu) | 3:21 |
 | 40 | [Serotonin](https://open.spotify.com/track/3t7tyGtMWPO9ON07NgrQVm) | [Parth Kamboj](https://open.spotify.com/artist/3nPa0lkAwrXNg0ceAhUDlF) | [Serotonin](https://open.spotify.com/album/41s2ef6T8EwMmCu27upqWy) | 2:24 |
 | 41 | [Log Kehte Hai](https://open.spotify.com/track/2OTD4zVHbNxHsYryK0EjHZ) | [Poet Shaf](https://open.spotify.com/artist/5qlreh49Z5Pwrk8QmQob6b) | [Log Kehte Hai](https://open.spotify.com/album/4xshACUOeSdMdNgfFoSpSp) | 3:55 |
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSYPG5hvDijP.md) - [plain]
 | 74 | [Sides](https://open.spotify.com/track/6RmKVN9nOYAgr3G9uoNzxm) | [Wasuki](https://open.spotify.com/artist/7JaStrY05AJlbnJqt1B5ao) | [The Silence Is Too Loud](https://open.spotify.com/album/4yDOplg3dhuca6Ft3BbwQP) | 2:51 |
 | 75 | [Dhingana](https://open.spotify.com/track/1vDOnRFrsEAnRvT45Quf2q) | [Kaam Bhaari](https://open.spotify.com/artist/5bTYVMQ6vmt4Bm12hM59N3), [100RBH](https://open.spotify.com/artist/5LFEOxKg1wHhwrFnmIOtks) | [Dhingana](https://open.spotify.com/album/5Hgs643tVxvIHiGziIX47i) | 2:35 |
 
-Snapshot ID: `AAAAAMAV4c7Dhoq5n7VzsWmaAEYg8tLN`
+Snapshot ID: `AAAAAAw5fhHdT3mxVzWdWHbNtjxKjyAZ`

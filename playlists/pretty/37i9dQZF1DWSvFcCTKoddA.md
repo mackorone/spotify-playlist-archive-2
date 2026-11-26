@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSvFcCTKoddA.md) - [plain]
 
 > Découvrez les créateurs de demain.
 
-[Spotify](https://open.spotify.com/user/spotify) - 7,851 likes - 12 songs - 12 hr 33 min
+[Spotify](https://open.spotify.com/user/spotify) - 7,852 likes - 12 songs - 12 hr 33 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -21,4 +21,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSvFcCTKoddA.md) - [plain]
 | 11 | [8 œuvres d’art qui ont TRAUMATISÉ le monde...](https://open.spotify.com/episode/2RE8sjWVGuR5UzxpSTIqeU) | [Les Histoires Sombres et Morbides \- LEOW](https://open.spotify.com/show/1UqMGwKCHXjRJ0PYLMFvhg) | [Les Histoires Sombres et Morbides \- LEOW](https://open.spotify.com/album/1UqMGwKCHXjRJ0PYLMFvhg) | 1:11:01 |
 | 12 | [Chaire de pouffe](https://open.spotify.com/episode/4C8KXACmtMVcTnLmHJR8ci) | [Femmes au bord de la crise de nerfs](https://open.spotify.com/show/3duaATT2IJo31MFmyxv0Nf) | [Femmes au bord de la crise de nerfs](https://open.spotify.com/album/3duaATT2IJo31MFmyxv0Nf) | 54:14 |
 
-Snapshot ID: `AAAAAE7QwXQynnwetZD1nKX1YSNsThCh`
+Snapshot ID: `AAAAAIqstojfnLfIp2+SAKVhQiUwFVT8`

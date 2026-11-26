@@ -2109,6 +2109,24 @@
     },
     {
       "album": {
+        "name": "A Merry Little Christmas",
+        "url": "https://open.spotify.com/album/1Bsdx7XEdFolKlHAhzh8GC"
+      },
+      "artists": [
+        {
+          "name": "Seth Condrey",
+          "url": "https://open.spotify.com/artist/4DeiqSO9kyWDr1KuQTYMVg"
+        }
+      ],
+      "date_added": "2026-11-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 186666,
+      "name": "Feliz Navidad",
+      "url": "https://open.spotify.com/track/2E0balHmjeioKnOWns0TcS"
+    },
+    {
+      "album": {
         "name": "Navidad - Jes\u00fas Es el Motivo (Deluxe Edition)",
         "url": "https://open.spotify.com/album/5eEp9QY1Uw8G10eV2X6bR8"
       },
@@ -4400,7 +4418,7 @@
       ],
       "date_added": "2021-12-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-26",
       "duration_ms": 253571,
       "name": "Santa la noche",
       "url": "https://open.spotify.com/track/1XL17qoSvIflYQ45uU2Xjc"

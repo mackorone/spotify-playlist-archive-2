@@ -4,7 +4,7 @@
 
 > Ouça todas as novidades e hits do pop br aqui e agora! Foto: Marina Sena, Baco Exu do Blues
 
-537 songs - 1 day 2 hr 5 min
+538 songs - 1 day 2 hr 8 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -182,7 +182,7 @@
 | [Eu e Você](https://open.spotify.com/track/7GFL8Q0Uvt0ad8zmQudxNE) | [IZA](https://open.spotify.com/artist/3zgnrYIltMkgeejmvMCnes), [Jota.pê](https://open.spotify.com/artist/17MzHbvKuzJje12SxWY9wN) | [Eu e Você](https://open.spotify.com/album/2RNhBem4gfJ1yL2qaCTQEd) | 2:22 | 2025-12-12 | 2026-05-16 |
 | [Eu Tenho o Molho](https://open.spotify.com/track/0BJ8mgcL9zVU3JvZCqxtAM) | [UANA](https://open.spotify.com/artist/2fHwMQjss3D6RfkPN0ZkwO), [Mago de Tarso](https://open.spotify.com/artist/496KV2f0kNcIdXGe1i0Fh4) | [Megalomania](https://open.spotify.com/album/6HLqdB01LNcoa5TrtgEsR6) | 2:26 | 2024-09-27 | 2024-11-09 |
 | [Eu Vou \- Ao Vivo](https://open.spotify.com/track/48kqsCqLziLiMdV3ilhiCn) | [DENNIS](https://open.spotify.com/artist/6xlRSRMLgZbsSNd0BMobwy), [Luan Santana](https://open.spotify.com/artist/3qvcCP2J0fWi0m0uQDUf6r) | [O \(IM\)POSSÍVEL \- PARTE 1 \[Ao Vivo\]](https://open.spotify.com/album/6b87opgcfElb3XS3aFO677) | 2:52 | 2022-03-11 | 2022-06-13 |
-| [EXCESSO](https://open.spotify.com/track/70ok96cL74jBakuoJma00C) | [Gustavvo](https://open.spotify.com/artist/1g7ecQxDIGyHBz8lGGexH8), [Luccas Carlos](https://open.spotify.com/artist/5WFFFHVqeVk5tLuYh2KjQy) | [EXCESSO](https://open.spotify.com/album/2GoENwukIY39JW4z8AMETu) | 3:32 | 2026-10-23 |  |
+| [EXCESSO](https://open.spotify.com/track/70ok96cL74jBakuoJma00C) | [Gustavvo](https://open.spotify.com/artist/1g7ecQxDIGyHBz8lGGexH8), [Luccas Carlos](https://open.spotify.com/artist/5WFFFHVqeVk5tLuYh2KjQy) | [EXCESSO](https://open.spotify.com/album/2GoENwukIY39JW4z8AMETu) | 3:32 | 2026-10-23 | 2026-11-26 |
 | [Exclusiva](https://open.spotify.com/track/6ZayYFgk4cfVRgGEsDxWmY) | [IZA](https://open.spotify.com/artist/3zgnrYIltMkgeejmvMCnes) | [EXCLUSIVA: As mais românticas da IZA](https://open.spotify.com/album/4EAZe1EZ9aJWWPHFcAWkpJ) | 3:13 | 2024-06-05 | 2024-11-09 |
 | [Explícito](https://open.spotify.com/track/0rjoEhu8GFQubGx7dg1KLS) | [Urias](https://open.spotify.com/artist/6BXiBj4eAZsiynbcmSRHUs), [Hodari](https://open.spotify.com/artist/21Z6OxfrB1jTI53TaDMm67) | [FÚRIA](https://open.spotify.com/album/16F4OuXRl7D54HEiwErbOQ) | 2:53 | 2022-01-14 | 2022-02-05 |
 | [Fake Amor 2](https://open.spotify.com/track/78J51AcYXlVFK0J5xHOjs1) | [Melody](https://open.spotify.com/artist/7ySZCEP4HFGckYYPK5rqFI) | [Fake Amor 2](https://open.spotify.com/album/2MYnqMrNTUNGwvkrl5Ktqd) | 2:39 | 2022-02-04 | 2022-04-07 |
@@ -403,6 +403,7 @@
 | [Pós Love](https://open.spotify.com/track/29irNwrelJMk8wublGdvXg) | [Hiran](https://open.spotify.com/artist/590jgrhOiQjSIASrY4mwPW), [IVYO](https://open.spotify.com/artist/3HbuQbAHMPwBb4mQyNllCa), [Bahia Baby](https://open.spotify.com/artist/7rwAj9PJhdlGmVQTz6GTd7) | [ANJO](https://open.spotify.com/album/6qHhupVEPR5We3gEM7tnng) | 2:47 | 2024-11-08 | 2025-02-01 |
 | [Pós Você](https://open.spotify.com/track/1mHe9kYpOPxNsdE3Wu0FWW) | [Felipe Amorim](https://open.spotify.com/artist/3CIIaeZuFYrAD6PRVyuO4U), [Luísa Sonza](https://open.spotify.com/artist/4PzYKhC14sTJNEr0dzoo0d) | [Amor In Studio](https://open.spotify.com/album/7AqYvzwdaHSq4731qi61Tt) | 4:00 | 2026-05-22 | 2026-06-27 |
 | [q prazer](https://open.spotify.com/track/2qnP80eqDwpQHdFnYA1dQN) | [DUDA BEAT](https://open.spotify.com/artist/2QLSJqqGIstNbO6nYRR16o) | [Tara e Tal](https://open.spotify.com/album/6Qj13mDyBZod5IYTUbTLOp) | 3:33 | 2024-05-17 | 2024-06-29 |
+| [Qualquer Sexta\-Feira](https://open.spotify.com/track/5Passy3MaQaYGJKXBTKzOY) | [Veigh](https://open.spotify.com/artist/4YqwRbMLqGHRHLS1w2ZKse), [Supernova Ent](https://open.spotify.com/artist/3prRKGJz16RRMRSIM97nHw) | [Qualquer Sexta\-Feira](https://open.spotify.com/album/7hC1JzQdwrN4rLZPfvlytw) | 2:47 | 2026-11-25 |  |
 | [Quando a gente ama \(Versão Xamã\)](https://open.spotify.com/track/0isC8YBpo5h3b1vOnJ0aNw) | [Xamã](https://open.spotify.com/artist/5YwzDz4RJfTiMHS4tdR5Lf) | [Quando a gente ama \(Versão Xamã\)](https://open.spotify.com/album/7dmSRqUYOrnaovRY3q5CFk) | 2:35 | 2024-03-01 | 2025-04-01 |
 | [quanto tempo tem o tempo?](https://open.spotify.com/track/0VR6QaLSjKMJ2GHN8TCPER) | [Ana Gabriela](https://open.spotify.com/artist/6a9WLQ5NsIV7U2qB16uFWD) | [quanto tempo tem o tempo?](https://open.spotify.com/album/7b1YzXAPmBZQA7ygrtQueI) | 3:26 | 2025-05-02 | 2025-07-19 |
 | [Quarto Proibido](https://open.spotify.com/track/14hzkK45Q3OCPhA4eJjqD2) | [Juliette](https://open.spotify.com/artist/5coW9ioCpvEYGx4v1nvWec), [Mc Gw](https://open.spotify.com/artist/0f1IECbrVV952unZkzrsg2) | [Quarto Proibido](https://open.spotify.com/album/39m3B3HKLRDbBdvDWNeKrI) | 1:46 | 2025-01-31 | 2025-03-07 |

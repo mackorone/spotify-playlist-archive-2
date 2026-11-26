@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZeKCadgRdKQ.md) - [plain]
 
 > Keep calm and focus with ambient electric guitar.
 
-[Spotify](https://open.spotify.com/user/spotify) - 5,025,841 likes - 265 songs - 10 hr 32 min
+[Spotify](https://open.spotify.com/user/spotify) - 5,027,071 likes - 265 songs - 10 hr 32 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -274,4 +274,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZeKCadgRdKQ.md) - [plain]
 | 264 | [Blue Meridian](https://open.spotify.com/track/1nk89wBnTJdOTWgDHu4nyJ) | [Auric Drift](https://open.spotify.com/artist/2FtRuLcavPqy8uHz3UAxMI) | [Blue Meridian](https://open.spotify.com/album/39lBdfaVWtehrLahsSrR0b) | 1:51 |
 | 265 | [Moonlight](https://open.spotify.com/track/5JwPU1V6ntfbFsLkrP8UUy) | [Sounds of Ellinia](https://open.spotify.com/artist/0o4rbXNv8YoDHK2nSnlJxr) | [Moonlight](https://open.spotify.com/album/6IxL2RWs9b4QOemtImzC7s) | 2:14 |
 
-Snapshot ID: `AAAAAKT5xqwADOwSwZf9wncnTC+pf7TL`
+Snapshot ID: `AAAAAHcrNdgX3du1A62HzN4HtokRKkZW`

@@ -4,7 +4,7 @@
 
 > Calming green frequencies and nature sounds to help you relax and sleep.
 
-365 songs - 16 hr 25 min
+365 songs - 16 hr 26 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -66,7 +66,7 @@
 | [Geen Noise By the Falls](https://open.spotify.com/track/2Rnkb7cvqzeEPPKVFzmmIb) | [Moon Geel](https://open.spotify.com/artist/233dPasuKQ0Iy9txhTLRHa) | [Green Noise In the Rain](https://open.spotify.com/album/294Q6SgC9y7VMqUa2RkHuz) | 2:04 | 2023-02-03 | 2025-12-11 |
 | [Gentle Green Noise Relaxation](https://open.spotify.com/track/1EbVcF9Ik1RdFyoSeIJuDd) | [Three Peels](https://open.spotify.com/artist/550PiaxNneb0AaqPp7sWWS) | [Gentle Green Noise Relaxation](https://open.spotify.com/album/00c5e9N3neCLMYe7hPfs4w) | 3:32 | 2023-09-08 |  |
 | [Gentle Waves](https://open.spotify.com/track/1Yq8mLKvdhdos3bkfNRBdC) | [Ilmium](https://open.spotify.com/artist/3SkVjj0FTFiYQ0aLDTtxf8) | [Sleep Sound Green Noise](https://open.spotify.com/album/3mcbAYY05vqOQvEOQaZPnb) | 1:55 | 2022-12-09 | 2023-06-17 |
-| [Gentle Wind Ans Brook](https://open.spotify.com/track/4dUWvWAsbpPXgFroHtHt7v) | [Lush Waves Creators](https://open.spotify.com/artist/35RcJZmoS04TXmOvYWebwE) | [Natures Hymn](https://open.spotify.com/album/6Z7GHMY6nPNxAKAVpmmTbU) | 1:51 | 2026-03-31 |  |
+| [Gentle Wind Ans Brook](https://open.spotify.com/track/4dUWvWAsbpPXgFroHtHt7v) | [Lush Waves Creators](https://open.spotify.com/artist/35RcJZmoS04TXmOvYWebwE) | [Natures Hymn](https://open.spotify.com/album/6Z7GHMY6nPNxAKAVpmmTbU) | 2:25 | 2026-03-31 |  |
 | [Gently Moving Green Noise](https://open.spotify.com/track/1GPkhQZbcDEzWhAnGTxsGQ) | [Relaxation Labs](https://open.spotify.com/artist/0hgqKJnGzHdJwGfRykbdFB) | [Green Noise for Sleep and Stress Relief](https://open.spotify.com/album/3bpq207l5u3YR9IKUgXgCC) | 3:00 | 2023-03-24 |  |
 | [Gigantic Green Noise](https://open.spotify.com/track/1cmrc30YrsXWQNouxEtWuy) | [Sleep Sauce](https://open.spotify.com/artist/7MfD7bqyg0WTkai8yuFtH9) | [Green Noise 4 Focus](https://open.spotify.com/album/0pkfIkmgI82mWT6UIHjyCi) | 2:56 | 2023-06-16 |  |
 | [Good Night Green Noise](https://open.spotify.com/track/2cJuVcnvcP2CMQzLUHRY1u) | [Mood Factory](https://open.spotify.com/artist/70PahNfWLqq5m8R8kJvg1o) | [Surrender To Green Noise](https://open.spotify.com/album/2x7g5pb2b3tvX90m27G8tx) | 1:51 | 2023-05-05 | 2023-06-17 |
@@ -356,7 +356,7 @@
 | [Watefall Green Noise](https://open.spotify.com/track/4fO7jue64AcjVU9dLCym9D) | [Imma Belten](https://open.spotify.com/artist/7ACbSM2atJDaC0jzT0JyNc) | [Green Noise Natural Sounds](https://open.spotify.com/album/6Kecrfs3qWcElAPROQ3C1M) | 2:03 | 2022-12-09 |  |
 | [Water Mirrors](https://open.spotify.com/track/1bT3Al9bsQa9LGf51j5yVw) | [Rainer & Co](https://open.spotify.com/artist/32kTl7TpcOPnTMNqXXyd6y) | [Green Harmony](https://open.spotify.com/album/43H8m6IsGwcc9zHiXywu8C) | 2:22 | 2023-05-05 |  |
 | [Waterfall Green Noise](https://open.spotify.com/track/1rsxq3LyrtliUBAc51VIaI) | [Natsound](https://open.spotify.com/artist/1GJH8huKOcDNdAdgwExXnw) | [Green Noise Ambience](https://open.spotify.com/album/4C190h0pKa73fARygNIjFN) | 2:52 | 2022-12-09 | 2023-10-21 |
-| [Wave Sounds Noise](https://open.spotify.com/track/6gcAcWe07UE2I5bUzR0j8R) | [Nimbrel](https://open.spotify.com/artist/5pUc7xLQ3RUmUEh7eJQWvk) | [Pure Waves Green Noise](https://open.spotify.com/album/22x7sOkdJwKVpECsSs2MBB) | 1:39 | 2026-03-31 |  |
+| [Wave Sounds Noise](https://open.spotify.com/track/6gcAcWe07UE2I5bUzR0j8R) | [Nimbrel](https://open.spotify.com/artist/5pUc7xLQ3RUmUEh7eJQWvk) | [Pure Waves Green Noise](https://open.spotify.com/album/22x7sOkdJwKVpECsSs2MBB) | 2:17 | 2026-03-31 |  |
 | [Waves Hitting Rocks](https://open.spotify.com/track/5149jZeDqwWPrJ0jrW3SKI) | [Surf & Turf](https://open.spotify.com/artist/50629oufjz881d0uHfUC3n) | [Coastline Chorus](https://open.spotify.com/album/2neOlMvrCBU5uGyTDNA9A7) | 3:12 | 2023-06-16 | 2025-12-11 |
 | [Waves of Energy](https://open.spotify.com/track/1RSq9f6MQaPMNld0lB7seH) | [Ruido Independiente](https://open.spotify.com/artist/0GrN4tfVwmaaJ4FnWWNVpe) | [Fusion Green Noise](https://open.spotify.com/album/4xYwNvoe0Jaut4HOINPrYp) | 1:52 | 2023-05-05 | 2023-06-17 |
 | [Waves Of Green](https://open.spotify.com/track/5MtM0JZlnc9XkGFarLmh04) | [Haruna Fields](https://open.spotify.com/artist/3hrpVisxCnVzRPdXg4K6EL) | [Nature Sleep](https://open.spotify.com/album/7ngAGZgqlInLQByHU9AIEo) | 1:34 | 2023-02-03 | 2023-06-17 |

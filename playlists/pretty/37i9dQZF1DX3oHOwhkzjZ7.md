@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3oHOwhkzjZ7.md) - [plain]
 
 > New videos from your favorite rock & alternative artists.
 
-[Spotify](https://open.spotify.com/user/spotify) - 236 likes - 81 songs - 4 hr 40 min
+[Spotify](https://open.spotify.com/user/spotify) - 245 likes - 81 songs - 4 hr 40 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -90,4 +90,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3oHOwhkzjZ7.md) - [plain]
 | 80 | [I know](https://open.spotify.com/track/1dtdCmWxgKAPVxK22OQShC) | [breakkaway](https://open.spotify.com/artist/5z5HaEaQY18oRwCuIXf826), [Softcult](https://open.spotify.com/artist/13pYXGtaLO9d06VrXX4Aw0) | [I know](https://open.spotify.com/album/4vDMbZZODUPVWD6LsZg5h7) | 3:21 |
 | 81 | [Sit With](https://open.spotify.com/track/7gAaTedliEH4NFFjvqpA5H) | [HEADSEND](https://open.spotify.com/artist/3Q9ixqkrzaQW2lFDSe8il1) | [A Delicate Balance](https://open.spotify.com/album/1GfBEGAufhyuYh0f79vuvP) | 4:38 |
 
-Snapshot ID: `AAAAAN1Flpq1G2bQBn6ZVOJoDao615Wg`
+Snapshot ID: `AAAAAIbIY2Sp4q2SQFV4jHEBOLnegsTH`

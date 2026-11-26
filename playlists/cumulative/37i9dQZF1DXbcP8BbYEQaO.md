@@ -4,7 +4,7 @@
 
 > Pop for neon streets, rainy windows, and everything you still feel after dark.
 
-890 songs - 2 day 2 hr 2 min
+891 songs - 2 day 2 hr 6 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -146,6 +146,7 @@
 | [Colourblind](https://open.spotify.com/track/3G7f7oJuDmJ7CFgbkfDiJp) | [Tones And I](https://open.spotify.com/artist/2NjfBq1NflQcKSeiDooVjY) | [The Kids Are Coming \- EP](https://open.spotify.com/album/49QPpqyxeTbzWHUJpZuUsC) | 3:26 | 2020-10-13\* | 2020-11-18 |
 | [Come As You Are](https://open.spotify.com/track/02iQfxXKbeR8L0AuGWrt9c) | [SHAED](https://open.spotify.com/artist/3KwmxIhSe9UTSEF37kwngR) | [Come As You Are](https://open.spotify.com/album/18yErQMF59Oup4SvhmCoEm) | 2:36 | 2022-03-09 | 2022-07-30 |
 | [Come Down](https://open.spotify.com/track/1tk9GzJ9eLsoRL3ZRtAPK3) | [Cera Gibson](https://open.spotify.com/artist/1Hiacf7uM6oGW5uXHDFYae) | [Come Down](https://open.spotify.com/album/19TjD0BJcRrNMMoIbPwyto) | 3:12 | 2024-08-06 | 2024-10-26 |
+| [Come into My World \- Fischerspooner Mix](https://open.spotify.com/track/2LwBlNmiiphrspoFoIZT0T) | [Kylie Minogue](https://open.spotify.com/artist/4RVnAU35WRWra6OZ3CbbMA) | [Fever](https://open.spotify.com/album/4WzTXHp8bVKkKNu3UQ2Fqu) | 4:18 | 2026-11-26 |  |
 | [Company](https://open.spotify.com/track/0erTUYYdEbOI6Pg50WItD1) | [NIMMO](https://open.spotify.com/artist/76MojWoWNPzzKdrEspy5sl) | [Company](https://open.spotify.com/album/74ZAayQtelkU7pLkKLsCiV) | 3:36 | 2022-07-11 | 2022-08-06 |
 | [Constant](https://open.spotify.com/track/4NmWTl0LhsqM63HJYPhUbd) | [Kate Boy](https://open.spotify.com/artist/6puqyrpoPdFNxDJ8KPy2pE) | [Constant](https://open.spotify.com/album/75Te5SUTKpFigsRm4CBZbQ) | 3:37 | 2026-05-04 | 2026-07-25 |
 | [Constant Repeat](https://open.spotify.com/track/0U9ltIN4q3aBKGZDZq5cAW) | [Charli XCX](https://open.spotify.com/artist/25uiPmTg16RbhZWAqwLBy5) | [CRASH](https://open.spotify.com/album/1QqipMXWzJhr6yfcNKTp8B) | 3:09 | 2022-04-16 | 2022-12-29 |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX19xRtMyA5LM.md) - [plain]
 
 > ❗️Nieuwe tracks van Kevin, Spanker, Mesy, Rijck, Bartofso en meer..
 
-[Spotify](https://open.spotify.com/user/spotify) - 700,160 likes - 60 songs - 2 hr 46 min
+[Spotify](https://open.spotify.com/user/spotify) - 700,112 likes - 60 songs - 2 hr 46 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -69,4 +69,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX19xRtMyA5LM.md) - [plain]
 | 59 | [SUPERMARiO](https://open.spotify.com/track/1pTQZDfbEGesppVnjCbKmF) | [Eves Laurent](https://open.spotify.com/artist/5QWQYxfuoNq7iJBlbIAYRS), [Jordymone9](https://open.spotify.com/artist/60gg31QLbNuGwl12YPBAUK) | [De Stem van MERLOT](https://open.spotify.com/album/2YHgwxhCBFXOuQd6Hbklmy) | 3:01 |
 | 60 | [Voor Het Eerst](https://open.spotify.com/track/27xG981cofM82r8BEdmxgf) | [Mesy](https://open.spotify.com/artist/6bvQsgkkfaVQ5IljDVC5hk), [VL Disappear](https://open.spotify.com/artist/1AiUxaTFSMRD7ucqwi55uy) | [Voor Het Eerst](https://open.spotify.com/album/6qG6LyFEHQ20nA75IxTft9) | 3:11 |
 
-Snapshot ID: `AAAAAM9yplyZ7kLMk0svc0KY8+ibtoRP`
+Snapshot ID: `AAAAAM1OPbxWRMgTWIFDIPFU0s9txUym`

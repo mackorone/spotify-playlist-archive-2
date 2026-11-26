@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7AqyNZFu97s.md) - [plain]
 
 > The best new music from independent artists in the UK and Ireland\. Cover: two kalme
 
-[Spotify](https://open.spotify.com/user/spotify) - 39,959 likes - 49 songs - 2 hr 43 min
+[Spotify](https://open.spotify.com/user/spotify) - 39,962 likes - 49 songs - 2 hr 43 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -58,4 +58,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7AqyNZFu97s.md) - [plain]
 | 48 | [Penny Drop](https://open.spotify.com/track/32GjuqtqII6OOUIzPYbrfs) | [studio20](https://open.spotify.com/artist/2RLTzU6T70BdbKDd7Fcata) | [Penny Drop](https://open.spotify.com/album/6GlTwfD72bVGcDYyG4Jyv9) | 2:12 |
 | 49 | [TMTMF \(tell me to my face\)](https://open.spotify.com/track/1El92tNKm9nkxx2tlK2ooq) | [Negro Impacto](https://open.spotify.com/artist/1IjrqJ8pikzpEzaTdiLbHw) | [TMTMF \(tell me to my face\)](https://open.spotify.com/album/2ePKLeUIvixtHzZS8r0V2e) | 3:28 |
 
-Snapshot ID: `AAAAAByLX+6zGsG2h70UvrmlOca9hxOF`
+Snapshot ID: `AAAAAOLdg9jIDwhge7WGsDghcPTuQWAX`

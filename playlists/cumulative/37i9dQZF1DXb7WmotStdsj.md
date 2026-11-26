@@ -4,7 +4,7 @@
 
 > أفضل أغاني الراي
 
-252 songs - 20 hr 35 min
+253 songs - 20 hr 42 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -117,7 +117,7 @@
 | [L'milieux jayah](https://open.spotify.com/track/3PxgyxxrPccFPtGQxpYoO5) | [Fethi Manar](https://open.spotify.com/artist/6g9hpEimVF4dYzs32kT94m), [Kader Zakzouk](https://open.spotify.com/artist/2los1xR6ofFqCl4duii0xA) | [L'milieux jayah](https://open.spotify.com/album/0gR0p46v0H0BQtFrlMe3iu) | 4:36 | 2024-07-16 |  |
 | [L3ach9 Kamalt M3ah](https://open.spotify.com/track/0sfECumlvNkcohhcUi0pBI) | [Cheba Warda](https://open.spotify.com/artist/0c3dDCJfxcT4lYNugbKvJt), [manini sahar](https://open.spotify.com/artist/5HQvmK91vtPM4XZRgeQUAb) | [L3ach9 Kamalt M3ah](https://open.spotify.com/album/1Js6ZRSwaB4wCm1xfjOaja) | 4:12 | 2023-10-11 | 2026-03-07 |
 | [La Faute Machi Fik](https://open.spotify.com/track/0ojwGiICDOIGEU9BJEpRFW) | [Cheb Houssem](https://open.spotify.com/artist/4l3uOQQa1NaZz7OVNAjbC2), [Cheba Dalila](https://open.spotify.com/artist/5CZ5sGdn0X47HhndSYKqdz) | [La Faute Machi Fik](https://open.spotify.com/album/0jHuBbd36BrkF1Ct1D63zJ) | 4:22 | 2022-10-23 | 2022-11-21 |
-| [La Nti Mrida](https://open.spotify.com/track/0uDM6l1BBitqbTVTkidtKz) | [Faycel cholé](https://open.spotify.com/artist/55b0Nu2e9Qoq0rMl6A51As) | [La Nti Mrida](https://open.spotify.com/album/11HL5lFB24mx4ORbibsFXj) | 8:21 | 2023-11-02 |  |
+| [La Nti Mrida](https://open.spotify.com/track/0uDM6l1BBitqbTVTkidtKz) | [Faycel cholé](https://open.spotify.com/artist/55b0Nu2e9Qoq0rMl6A51As) | [La Nti Mrida](https://open.spotify.com/album/11HL5lFB24mx4ORbibsFXj) | 8:21 | 2023-11-02 | 2026-11-26 |
 | [La Vérité 3jabtini](https://open.spotify.com/track/64PcYzsiQA5O9AKzpILgmQ) | [Hbib Himoun](https://open.spotify.com/artist/4GzBsqkkdGxCTUeMehLzvQ), [amine la colombe](https://open.spotify.com/artist/38ODAyQq6fM934Xv9vCjoX) | [La Vérité 3jabtini](https://open.spotify.com/album/0YoNua511P9kqo0REoNDJN) | 4:37 | 2022-10-25 | 2022-11-05 |
 | [La Vérité 3jabtini](https://open.spotify.com/track/4cfGUQDE88NEMx3Md2cA72) | [Hbib Himoune](https://open.spotify.com/artist/3SMU7cRz5Li03TpmGncVg6), [Amine La Colombe](https://open.spotify.com/artist/5QNVKh6yERfewhdBys6d9E) | [La Vérité 3jabtini](https://open.spotify.com/album/0qAxk1LyqUAKV1jFdG3BE0) | 4:37 | 2022-10-30 | 2022-11-08 |
 | [Labgha 3Ch9ak Hareb](https://open.spotify.com/track/1w5ZcbVErRFw3JgvzItuFa) | [Cheb Reda Sghir](https://open.spotify.com/artist/0VMu3WU9lEAFyqE1fBvsha), [Yahia Parolier](https://open.spotify.com/artist/3CeDxB4snL6bEuyLhW2LYK) | [Labgha 3Ch9ak Hareb](https://open.spotify.com/album/7iPbc1jPPu6OJi8Ny7Z8NF) | 4:07 | 2025-10-05 |  |
@@ -225,6 +225,7 @@
 | [Zahri Win Wana Win](https://open.spotify.com/track/7JaAkijrRoUPIeJaLJbLoq) | [Abdou Goumbita](https://open.spotify.com/artist/2c5isiSrNIixIIqPQABwo9) | [Zahri Win Wana Win](https://open.spotify.com/album/7jKeS8lavzWlG7r9DPIGud) | 3:04 | 2022-09-20 | 2022-11-21 |
 | [Zidini 3ich9ane](https://open.spotify.com/track/78xAW5L8hxmBHnZtIqjyZf) | [Cheb Wahid](https://open.spotify.com/artist/41pjPOVGlvetRYm4xx7bYw) | [Zidini 3ich9ane](https://open.spotify.com/album/2rzYUYgREivgNksfiK5CWT) | 4:38 | 2021-10-19 | 2024-08-08 |
 | [الصغر ما يدوم](https://open.spotify.com/track/4uiZQeOtBPgqspq2eBjEIV) | [Cheb Kader Wahrani](https://open.spotify.com/artist/5PBWDpbEkgoyiDkh1biGLw), [amine la colombe](https://open.spotify.com/artist/38ODAyQq6fM934Xv9vCjoX) | [الصغر ما يدوم](https://open.spotify.com/album/6zrYBK8X2WIl77dOm7z3mM) | 4:45 | 2022-09-20 | 2022-11-03 |
+| [الكاس اللول جاني مهول](https://open.spotify.com/track/0KP2EoPkKxWMACUl2yE7up) | [cheb hichem tgv](https://open.spotify.com/artist/51x7CCiIgcn2FriqN2KzYs) | [الكاس اللول جاني مهول](https://open.spotify.com/album/1glCArTQoWwpGn77drc52C) | 6:37 | 2026-11-25 |  |
 | [بيك ولا بلا بيك](https://open.spotify.com/track/7B2PrNM97SDC7XGhUcJ8NO) | [Cheb Rami](https://open.spotify.com/artist/1dZoWLZL2YLvRqqiS7L05E) | [بيك ولا بلا بيك](https://open.spotify.com/album/73E8NWXoOrYOcu9wznYPc4) | 4:18 | 2025-12-10 |  |
 | [تلبس لاكوست تلبس فاندي بڨاندي تڨعد بڨاندي](https://open.spotify.com/track/3jyyG3x2WlkQu2V23gWTjl) | [Cheb Badro](https://open.spotify.com/artist/77ajZbWMJ87JLLMVUPZDy3) | [تلبس لاكوست تلبس فاندي بڨاندي تڨعد بڨاندي](https://open.spotify.com/album/6ogfT1oeL9zSNqfWWjcgxP) | 5:30 | 2025-07-04 |  |
 | [جبدها يا بابور](https://open.spotify.com/track/6kuAcGBU7zjjh3wAVrYG0J) | [Cheb Faycal](https://open.spotify.com/artist/47gfytQSeoeL85ObS9eNmk) | [جبدها يا بابور](https://open.spotify.com/album/6fqKZBsxKUsE8OBVbDw1ly) | 4:46 | 2024-05-13 |  |

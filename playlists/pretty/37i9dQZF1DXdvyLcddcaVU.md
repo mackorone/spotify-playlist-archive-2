@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdvyLcddcaVU.md) - [plain]
 
 > \#fyp
 
-[Spotify](https://open.spotify.com/user/spotify) - 880,534 likes - 80 songs - 4 hr 5 min
+[Spotify](https://open.spotify.com/user/spotify) - 880,612 likes - 80 songs - 4 hr 5 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -89,4 +89,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdvyLcddcaVU.md) - [plain]
 | 79 | [La Faille](https://open.spotify.com/track/2RBqWYVLRd8RMZNxzkbcPF) | [BatBat](https://open.spotify.com/artist/04q4egoK1OOrukoyGCXy0k), [Mous\-K](https://open.spotify.com/artist/3Gcn7eKPiTv6jwqoyIhVMO) | [La Faille](https://open.spotify.com/album/2DGoXP4zxuPoktJzIE3zMT) | 2:43 |
 | 80 | [Babydoll feat\. Antonio Cipriano](https://open.spotify.com/track/1UO7xiV3QaRfPXUpiVRsEp) | [Jamie Miller](https://open.spotify.com/artist/2LkkwxA19J8C52wPQl5bG6), [Antonio Cipriano](https://open.spotify.com/artist/0C3GEN7zQmGd5NDw9JTrI4) | [Babydoll](https://open.spotify.com/album/1Uort7z9KdrvMKKOpev0n9) | 2:58 |
 
-Snapshot ID: `AAAAAH16SLd5PIK91H+pQXyRHFLzFeD3`
+Snapshot ID: `AAAAACNCxTbR4Nt64kMiRuFjRuogRWRI`

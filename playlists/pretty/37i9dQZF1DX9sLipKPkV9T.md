@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9sLipKPkV9T.md) - [plain]
 
 > כל הפופ היפה והמרגש של ישראל\. קאבר: ליהי טולדנו
 
-[Spotify](https://open.spotify.com/user/spotify) - 61,597 likes - 50 songs - 2 hr 32 min
+[Spotify](https://open.spotify.com/user/spotify) - 61,602 likes - 50 songs - 2 hr 32 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9sLipKPkV9T.md) - [plain]
 | 49 | [הירח שם בינינו](https://open.spotify.com/track/1UKPvbMTDV6ToDZ4GZ4wyi) | [May Sfadia](https://open.spotify.com/artist/4Bl08QHOgjjt8Hcg53iq0j) | [הירח שם בינינו](https://open.spotify.com/album/0IFjXYvbusLe2c1IIvLQo1) | 2:40 |
 | 50 | [סטלה של עצב](https://open.spotify.com/track/25xNKqfiDgt71y7dB7OPAZ) | [Agam Buhbut](https://open.spotify.com/artist/3JPKPnzWJGjccn8SnjwA5i) | [22](https://open.spotify.com/album/6qksIvKRkilcpniBiIQmRv) | 2:49 |
 
-Snapshot ID: `AAAAAN1Cb1MIyLFSQL3KwGB6Wpnzi4ub`
+Snapshot ID: `AAAAAIGTFNcKI0wt/OelkTTGXO5vPfL0`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYxOYf3Bkbam.md) - [plain]
 
 > Entre clásicos y nuevos intérpretes, puro Chamamé.
 
-[Spotify](https://open.spotify.com/user/spotify) - 67,515 likes - 90 songs - 4 hr 29 min
+[Spotify](https://open.spotify.com/user/spotify) - 67,529 likes - 90 songs - 4 hr 29 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -35,8 +35,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYxOYf3Bkbam.md) - [plain]
 | 25 | [Pastor Luna y Su Acordeón](https://open.spotify.com/track/5OrIO5OgtulDJUtkfg1loG) | [Pastor Luna](https://open.spotify.com/artist/5OFzlWyxyqXupqotQWpUBW) | [30 Años Con el Chamamé](https://open.spotify.com/album/6Idi1uBauH0SESb3GdVLlf) | 2:11 |
 | 26 | [Amanecer Campero](https://open.spotify.com/track/1WOW5dpVavNNqNA83WY0IM) | [Miguel Figueroa y Su Conjunto Amanecer Campero](https://open.spotify.com/artist/32B3zRuq8jrRRCqu82YFef) | [Me Dicen el Rey](https://open.spotify.com/album/6CA6JZ9igKWBTxi18sdTo8) | 2:46 |
 | 27 | [Laguna Totora](https://open.spotify.com/track/2PgHMG4GYoLzL3feOhycy0) | [Duo Cejas Solis](https://open.spotify.com/artist/4jVtTtMgp00oqszMFhv0Q1) | [Chamame los 100 mejores temas Vol 1](https://open.spotify.com/album/3TNUznwXZmMAAmw3I4AUao) | 1:39 |
-| 28 | [Alguien Mejor Que Yo](https://open.spotify.com/track/2hmWVUzKNZH0nYa1OAR5oT) | [Sharon y los Camperos del Chamamé](https://open.spotify.com/artist/1EBnykTvoBAPQkvsqwBhqP), [Flor Alvarez](https://open.spotify.com/artist/3R8XhCi6bUcoR1CJx2XASa), [Santhyago Rios](https://open.spotify.com/artist/0E7tn7PjmjZRXorJ8seSAT) | [Alguien Mejor Que Yo](https://open.spotify.com/album/5izCgXmLdwGlU1Zg7zTyPJ) | 3:21 |
-| 29 | [Universo Paralelo](https://open.spotify.com/track/1L7X1Y9YNvD3Vo6GlMyqVj) | [Alma Chaqueña](https://open.spotify.com/artist/3fPh0oV5t5u5MzfAHOT1iD) | [Universo Paralelo](https://open.spotify.com/album/76Wx8Rrj18iuEwa7tB1zuj) | 4:57 |
+| 28 | [Universo Paralelo](https://open.spotify.com/track/1L7X1Y9YNvD3Vo6GlMyqVj) | [Alma Chaqueña](https://open.spotify.com/artist/3fPh0oV5t5u5MzfAHOT1iD) | [Universo Paralelo](https://open.spotify.com/album/76Wx8Rrj18iuEwa7tB1zuj) | 4:57 |
+| 29 | [Alguien Mejor Que Yo](https://open.spotify.com/track/2hmWVUzKNZH0nYa1OAR5oT) | [Sharon y los Camperos del Chamamé](https://open.spotify.com/artist/1EBnykTvoBAPQkvsqwBhqP), [Flor Alvarez](https://open.spotify.com/artist/3R8XhCi6bUcoR1CJx2XASa), [Santhyago Rios](https://open.spotify.com/artist/0E7tn7PjmjZRXorJ8seSAT) | [Alguien Mejor Que Yo](https://open.spotify.com/album/5izCgXmLdwGlU1Zg7zTyPJ) | 3:21 |
 | 30 | [Granja San Antonio](https://open.spotify.com/track/4eCHSv0YIbGmZL8kxABNJQ) | [Damasio Esquivel](https://open.spotify.com/artist/1BWqJJLlVyTRaKbyf6bibt) | [Chamame los 100 mejores temas Vol 1](https://open.spotify.com/album/3TNUznwXZmMAAmw3I4AUao) | 1:51 |
 | 31 | [Asi Se Baila El Chamame](https://open.spotify.com/track/5b1Rxf30tpYFUji8lhIS19) | [Los Reyes Del Chamame](https://open.spotify.com/artist/3ElKCwCghvNBPp6f8QITom) | [Coleccion Aniversario](https://open.spotify.com/album/1RcVlAu4fvqxSVbcE6mgjV) | 2:05 |
 | 32 | [Mi Última Flor](https://open.spotify.com/track/61g2rmBeHabOCDl72RVFXs) | [Los Hermanos Cardozo](https://open.spotify.com/artist/2qnTUTsuypizIuMwVM1ffR) | [Nuestras Mejores 30 Canciones](https://open.spotify.com/album/1xeeiW2aNJnj9Vweycehex) | 2:26 |
@@ -57,8 +57,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYxOYf3Bkbam.md) - [plain]
 | 47 | [Virgencita de Itatí](https://open.spotify.com/track/6myPU49XhJGyE95Ec22ked) | [Los Hermanos Cardozo](https://open.spotify.com/artist/2qnTUTsuypizIuMwVM1ffR) | [20 Grandes Exitos](https://open.spotify.com/album/7sUOgQelTmG2R9yWcgu4F0) | 2:35 |
 | 48 | [Rumbeando Pal Litoral](https://open.spotify.com/track/5Vb3AxrP4DXsqfpc072wrf) | [Carlos Talavera con el Cuarteto Santa Ana](https://open.spotify.com/artist/6KmWYyLeQgz4DIQvxLZm9I), [Ernesto Montiel](https://open.spotify.com/artist/0kps7D5aSOND65MD33m9Pd) | [Los 55 Anos del Cuarteto Santa Ana](https://open.spotify.com/album/07WYgRf0q9zz4TuFPXaBhr) | 3:07 |
 | 49 | [Mi Primer Amor \- Versión Chamamé](https://open.spotify.com/track/6MUOEPhADhWrwYk1JQLNQ6) | [Luciano Pereyra](https://open.spotify.com/artist/6ZZ2DeepA3GpoGU4KwqSlU) | [Mi Primer Amor \- Version Chamamé](https://open.spotify.com/album/6FApf1TbGRBTBuGqyhB3GE) | 2:43 |
-| 50 | [Soy Correntino y Doy Fe](https://open.spotify.com/track/20atmS8DvxGd2i7bEXcV6z) | [Salvador Miqueri](https://open.spotify.com/artist/4bm1NUQz0emplSsrBxk6aU) | [Mburucuyá poty](https://open.spotify.com/album/2DvRtHOgRC6foFu8qHiCsO) | 2:14 |
-| 51 | [La Casa del Chamamé \- ENGANCHADO](https://open.spotify.com/track/1YFE6jB75WN6j4HaeaGKzg) | [Tomas Zacarias](https://open.spotify.com/artist/38VdqF7nUdzpGEXQ0Hoxr4) | [La Casa del Chamamé \- ENGANCHADO](https://open.spotify.com/album/4tOknS5e4Kbgt6KY7mLm46) | 4:00 |
+| 50 | [La Casa del Chamamé \- ENGANCHADO](https://open.spotify.com/track/1YFE6jB75WN6j4HaeaGKzg) | [Tomas Zacarias](https://open.spotify.com/artist/38VdqF7nUdzpGEXQ0Hoxr4) | [La Casa del Chamamé \- ENGANCHADO](https://open.spotify.com/album/4tOknS5e4Kbgt6KY7mLm46) | 4:00 |
+| 51 | [Soy Correntino y Doy Fe](https://open.spotify.com/track/20atmS8DvxGd2i7bEXcV6z) | [Salvador Miqueri](https://open.spotify.com/artist/4bm1NUQz0emplSsrBxk6aU) | [Mburucuyá poty](https://open.spotify.com/album/2DvRtHOgRC6foFu8qHiCsO) | 2:14 |
 | 52 | [Lluvia Correntina](https://open.spotify.com/track/7iahshvxDbg0bG7FWMn1yU) | [Mateo Villalba](https://open.spotify.com/artist/52bjhGQEhXetxBJWJ1F9kc) | [Antología](https://open.spotify.com/album/6RaH8HIyiwCMfLN3iDuaEM) | 3:19 |
 | 53 | [El Cascabel](https://open.spotify.com/track/59jqFfNaUWKLRuuFRvePHl) | [Miguel Figueroa y Su Conjunto Amanecer Campero](https://open.spotify.com/artist/32B3zRuq8jrRRCqu82YFef), [Luis Angel Torres](https://open.spotify.com/artist/2gu0de5RSdqvaEiEow3uAB) | [Amaneciendo](https://open.spotify.com/album/64NPd7ZaylZXrpYAIUrIKd) | 6:19 |
 | 54 | [Ah Mi Corrientes Porá](https://open.spotify.com/track/1s0inHd3uYxNsvkU2hXYFT) | [Isaco Abitbol](https://open.spotify.com/artist/1rQkDePEOWFuLgGEtALo5s), [Domingo Rodriguez](https://open.spotify.com/artist/3jJj59ghgeLmEzIanWxaNH) | [20 Superexitos Originales](https://open.spotify.com/album/49ZEKfNmvCtoiuw03rkSNG) | 2:22 |
@@ -99,4 +99,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYxOYf3Bkbam.md) - [plain]
 | 89 | [Por Siempre Chamamé](https://open.spotify.com/track/4jTm8wb7chFcVFwcWXhHpN) | [Miguel Arce y La Yunta del Chamamé](https://open.spotify.com/artist/61kxyPHjk1ql5qfFrLJXuM) | [Por Siempre Chamamé](https://open.spotify.com/album/0KQtJNmeSj88kxgtresuLu) | 2:25 |
 | 90 | [El Gato Blanco](https://open.spotify.com/track/1jqw5PLbmOk02PlnA3TL5u) | [Eduardo Miño](https://open.spotify.com/artist/6UhTcKovuQgaTKhyCaASTu) | [Eduardo Miño y Ruben Miño](https://open.spotify.com/album/7CX1bw7JINMo7W4MP2MFCR) | 2:19 |
 
-Snapshot ID: `AAAAAJfHxRPIG9j/chBi47rvW2OZZQ6f`
+Snapshot ID: `AAAAAG9ModP8TO95JeVcH0oIQ3jXqMd+`

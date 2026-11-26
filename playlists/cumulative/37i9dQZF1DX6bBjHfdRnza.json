@@ -2802,7 +2802,7 @@
       ],
       "date_added": "2026-10-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-26",
       "duration_ms": 188881,
       "name": "All The Mess That You Made",
       "url": "https://open.spotify.com/track/0elcoYxyHRPMcff9M8PC91"
@@ -3182,7 +3182,7 @@
       ],
       "date_added": "2026-09-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-26",
       "duration_ms": 211120,
       "name": "Am I Dreaming",
       "url": "https://open.spotify.com/track/5yEh1YRBOZqx5mmQ53tDbW"
@@ -10358,7 +10358,7 @@
       ],
       "date_added": "2026-10-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-26",
       "duration_ms": 245901,
       "name": "Can't Define",
       "url": "https://open.spotify.com/track/0QUUHlLuapMAwf9DiNZqTa"
@@ -10934,7 +10934,7 @@
       ],
       "date_added": "2026-08-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-26",
       "duration_ms": 169846,
       "name": "catch me if you can",
       "url": "https://open.spotify.com/track/4tloBnrmsdF3lDDCMRQbJA"
@@ -24391,6 +24391,24 @@
     },
     {
       "album": {
+        "name": "Funkhammer",
+        "url": "https://open.spotify.com/album/6LVlC0EZNqbzCInLoHD7NP"
+      },
+      "artists": [
+        {
+          "name": "BOUNCER",
+          "url": "https://open.spotify.com/artist/1CNKIq7mf493x3Q7yaRxxt"
+        }
+      ],
+      "date_added": "2026-11-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 194645,
+      "name": "Funkhammer",
+      "url": "https://open.spotify.com/track/04B6sXL4d4lICufpX4Inlf"
+    },
+    {
+      "album": {
         "name": "Funky Feeling EP",
         "url": "https://open.spotify.com/album/5bxrsuaubI2NEjdSaPXDJA"
       },
@@ -34049,6 +34067,24 @@
     },
     {
       "album": {
+        "name": "Jealous Twins",
+        "url": "https://open.spotify.com/album/2hTFUaUkrYPV1wRApa26Xh"
+      },
+      "artists": [
+        {
+          "name": "Hilel Lev",
+          "url": "https://open.spotify.com/artist/4V3TzdJEP0khoPzEcLLfM3"
+        }
+      ],
+      "date_added": "2026-11-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 365714,
+      "name": "Jealous Twins",
+      "url": "https://open.spotify.com/track/3ZGqQUwwfsXPXqvCwn63WG"
+    },
+    {
+      "album": {
         "name": "Jesper",
         "url": "https://open.spotify.com/album/4VSoAgoOCnHThOIgGgx77C"
       },
@@ -37520,7 +37556,7 @@
       ],
       "date_added": "2026-10-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-26",
       "duration_ms": 185000,
       "name": "Loose",
       "url": "https://open.spotify.com/track/1l5VVJ9Jpu0CQLvEgOm2Lc"
@@ -53039,6 +53075,24 @@
     },
     {
       "album": {
+        "name": "Mk VItra",
+        "url": "https://open.spotify.com/album/5uVzsyx9YPZBpHFIfIapQV"
+      },
+      "artists": [
+        {
+          "name": "Mk VI",
+          "url": "https://open.spotify.com/artist/6oxzVg7lGTqv4e0nvkLOuQ"
+        }
+      ],
+      "date_added": "2026-11-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 193066,
+      "name": "Scorsese",
+      "url": "https://open.spotify.com/track/1URy5aYyoTG3cdX8NSu4oN"
+    },
+    {
+      "album": {
         "name": "Scribbles",
         "url": "https://open.spotify.com/album/36WT54jWXNZzqvohyMZbCj"
       },
@@ -53622,7 +53676,7 @@
       ],
       "date_added": "2026-10-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-26",
       "duration_ms": 396666,
       "name": "Senses",
       "url": "https://open.spotify.com/track/0e2M14PIS2vNKXVkHe1s8x"
@@ -54376,6 +54430,24 @@
       "duration_ms": 187559,
       "name": "Show U Sexy",
       "url": "https://open.spotify.com/track/6H3Qhv1dzL5pbtrQ7Kh7Cx"
+    },
+    {
+      "album": {
+        "name": "Show You",
+        "url": "https://open.spotify.com/album/1g2mBzt0FvrbdRQvXqoren"
+      },
+      "artists": [
+        {
+          "name": "CLOVA",
+          "url": "https://open.spotify.com/artist/4qfs0G2aKMj2cyVSAB7BRb"
+        }
+      ],
+      "date_added": "2026-11-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 237176,
+      "name": "Show You",
+      "url": "https://open.spotify.com/track/4N0Rh3Ml9RrCIhaKwGuVJg"
     },
     {
       "album": {
@@ -59629,6 +59701,24 @@
     },
     {
       "album": {
+        "name": "Take Me Higher",
+        "url": "https://open.spotify.com/album/2ozXCwbp65GdqQZZIgzTsV"
+      },
+      "artists": [
+        {
+          "name": "Ocean",
+          "url": "https://open.spotify.com/artist/0WRpHrzIKi44X6ARRQKeGg"
+        }
+      ],
+      "date_added": "2026-11-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 186857,
+      "name": "Take Me Higher",
+      "url": "https://open.spotify.com/track/6X1Ccxsl0GMlCp64bMyp9m"
+    },
+    {
+      "album": {
         "name": "Take Me Home",
         "url": "https://open.spotify.com/album/45NHA9MHbPPebCtAIK1RkP"
       },
@@ -60679,6 +60769,24 @@
     },
     {
       "album": {
+        "name": "That Beat",
+        "url": "https://open.spotify.com/album/5w2jc2FjYxNeDK8xyovb4o"
+      },
+      "artists": [
+        {
+          "name": "KDAY",
+          "url": "https://open.spotify.com/artist/1KKKcBrYzcNamS31OMPGFC"
+        }
+      ],
+      "date_added": "2026-11-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 183636,
+      "name": "That Beat",
+      "url": "https://open.spotify.com/track/1889rDSSYAseP8oV0JJWpZ"
+    },
+    {
+      "album": {
         "name": "That Feeling",
         "url": "https://open.spotify.com/album/3rK4b6PnEFmch3KMyu54yK"
       },
@@ -61442,6 +61550,24 @@
       "duration_ms": 229523,
       "name": "The Island",
       "url": "https://open.spotify.com/track/0S9Q1W4iyjZ1l3ebbCBNEF"
+    },
+    {
+      "album": {
+        "name": "The Knowledge",
+        "url": "https://open.spotify.com/album/2rMJDpSILA0Skw98WxkVEh"
+      },
+      "artists": [
+        {
+          "name": "Carvalho(BR)",
+          "url": "https://open.spotify.com/artist/5uVeV2p5spqCu5Y7v5Td2c"
+        }
+      ],
+      "date_added": "2026-11-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 160116,
+      "name": "The Knowledge",
+      "url": "https://open.spotify.com/track/3LEfdroH0ReW6HG2BfWx54"
     },
     {
       "album": {
@@ -67706,7 +67832,7 @@
       ],
       "date_added": "2026-10-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-26",
       "duration_ms": 221183,
       "name": "Weapon X",
       "url": "https://open.spotify.com/track/5vShG2bZbMpYWJ7EA4e3pp"

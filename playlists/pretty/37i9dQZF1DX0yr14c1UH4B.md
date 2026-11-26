@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0yr14c1UH4B.md) - [plain]
 
 > It's all about the song 🎧 Cover: Kerr Mercer
 
-[Spotify](https://open.spotify.com/user/spotify) - 106,013 likes - 80 songs - 4 hr 41 min
+[Spotify](https://open.spotify.com/user/spotify) - 106,011 likes - 80 songs - 4 hr 41 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -89,4 +89,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0yr14c1UH4B.md) - [plain]
 | 79 | [January 12th](https://open.spotify.com/track/2gCPPKXEBmPNymdUtn7dpJ) | [SEREN](https://open.spotify.com/artist/7834TkZnwWSMThBso3wKjL) | [Love, At The End Of The World](https://open.spotify.com/album/07kyGyje7fIhMzgkhwqClB) | 4:18 |
 | 80 | [HEADSPACE](https://open.spotify.com/track/0ZsF3YChiqkqoVHHqKxay0) | [Shay O'Dowd](https://open.spotify.com/artist/1xp8arQmoMdz3b5LlJ5LJu) | [HEADSPACE](https://open.spotify.com/album/4cZD2VUrpIB6SSgAr9bfzK) | 3:19 |
 
-Snapshot ID: `AAAAACN3TX7f/RfnUiKOjjumUZodoDX7`
+Snapshot ID: `AAAAAJgxxKk6uaqvK8lKnE5k0P4voKWE`

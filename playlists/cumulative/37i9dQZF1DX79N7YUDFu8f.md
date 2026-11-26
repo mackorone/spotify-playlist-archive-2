@@ -4,7 +4,7 @@
 
 > Rustig aan doen op zaterdag met deze zachte popliedjes.
 
-333 songs - 19 hr 24 min
+333 songs - 19 hr 23 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -241,7 +241,7 @@
 | [Roller Coaster](https://open.spotify.com/track/1Xx7NsxXA91Jgt1fJ3NfNp) | [Danny Vera](https://open.spotify.com/artist/1bObiFZkYu7IfzxVlAVj5x) | [Roller Coaster](https://open.spotify.com/album/7bNCCK8eObScVeCpbW9jQx) | 4:29 | 2021-11-24 | 2024-11-15 |
 | [Roller Coaster](https://open.spotify.com/track/5B5YKjgne3TZzNpMsN9aj1) | [Danny Vera](https://open.spotify.com/artist/1bObiFZkYu7IfzxVlAVj5x) | [Pressure Makes Diamonds](https://open.spotify.com/album/0A9Ozy729zqiSdMVkBMizh) | 4:29 | 2022-06-03 | 2024-04-19 |
 | [Roller Coaster](https://open.spotify.com/track/742x5JWzzPYXA60xM64xwE) | [Danny Vera](https://open.spotify.com/artist/1bObiFZkYu7IfzxVlAVj5x) | [Roller Coaster](https://open.spotify.com/album/17gdWDwcZffnaZfjSptALP) | 4:29 | 2022-11-03 | 2022-11-13 |
-| [Rooted](https://open.spotify.com/track/4YGwXaIcN6sGl86VnNJHi7) | [Krystl](https://open.spotify.com/artist/7eacKV5WqetV2IZTDrwKhi) | [Rooted](https://open.spotify.com/album/5n4mhKvpBcDXG0m1EebYvE) | 2:53 | 2026-11-17 |  |
+| [Rooted](https://open.spotify.com/track/4YGwXaIcN6sGl86VnNJHi7) | [Krystl](https://open.spotify.com/artist/7eacKV5WqetV2IZTDrwKhi) | [Rooted](https://open.spotify.com/album/5n4mhKvpBcDXG0m1EebYvE) | 2:25 | 2026-11-17 |  |
 | [Sacrifice](https://open.spotify.com/track/3XuIsQe0Z00LlyMLul6h8r) | [Gyo Kretz](https://open.spotify.com/artist/0JvKdVXySsrLWA3TO4uSnE) | [Sacrifice](https://open.spotify.com/album/7xkRFlCoYQe8bXgwFuFIqt) | 3:35 | 2021-11-24 | 2026-01-24 |
 | [Saturday Silence](https://open.spotify.com/track/1QGVy7iVqFrb45SKBWt6e9) | [Iskander Moon](https://open.spotify.com/artist/4DHxzuCSdrTZgeNMEYg7u0) | [Saturday Silence](https://open.spotify.com/album/5JvijO28pBs28VkOzZIHMl) | 2:55 | 2024-11-08 | 2026-11-18 |
 | [Saturday Sun](https://open.spotify.com/track/7sXTokBfIyPG7WOjjCLSJD) | [Nick Drake](https://open.spotify.com/artist/5c3GLXai8YOMid29ZEuR9y) | [Five Leaves Left](https://open.spotify.com/album/5zau80zbjOc2uEO5P1olK1) | 4:03 | 2021-11-24 | 2025-02-18 |

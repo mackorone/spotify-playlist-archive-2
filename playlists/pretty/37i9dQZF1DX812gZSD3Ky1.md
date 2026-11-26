@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX812gZSD3Ky1.md) - [plain]
 
 > เพลงไวรัลและเพลงในกระแสตอนนี้\. ศิลปิน: PP KRIT
 
-[Spotify](https://open.spotify.com/user/spotify) - 69,169 likes - 75 songs - 4 hr 39 min
+[Spotify](https://open.spotify.com/user/spotify) - 69,183 likes - 75 songs - 4 hr 39 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX812gZSD3Ky1.md) - [plain]
 | 74 | [Paja Boo](https://open.spotify.com/track/490b04fEJcsq3UQlMDXVjH) | [Maiyarap](https://open.spotify.com/artist/4QLlbZcntdcWpm40NooC2M), [TangBadVoice](https://open.spotify.com/artist/2feGNLrcUrcsQNA1QJBaIe) | [Paja Boo](https://open.spotify.com/album/6PgmzteGXNNYNsmdZuuuWR) | 2:43 |
 | 75 | [ทนอีกนิด \(feat\. KHEM FREEHAND\)](https://open.spotify.com/track/6XARn0Eq1mOQZmuAArPNA6) | [GOODMOOD](https://open.spotify.com/artist/2obSYixUts1MEx2lJfNTCJ), [KHEM FREEHAND](https://open.spotify.com/artist/5QkPxDQTObq1U2uSfpwhhN) | [ทนอีกนิด \(feat\. KHEM FREEHAND\)](https://open.spotify.com/album/54cxKQb85yrv96YnG6G8wI) | 4:08 |
 
-Snapshot ID: `AAAAAC0JFe91+0gLYbItEa3ecaBgMMdD`
+Snapshot ID: `AAAAAJZRneQZPnLXu/X1fGd97A35bN59`

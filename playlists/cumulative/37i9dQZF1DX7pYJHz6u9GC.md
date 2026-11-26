@@ -4,7 +4,7 @@
 
 > Enjoy the sweet Christmas time in the company of the biggest crooners\. Cover: Nat King Cole
 
-147 songs - 7 hr 12 min
+149 songs - 7 hr 18 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -61,10 +61,12 @@
 | [I Wish It Would Snow](https://open.spotify.com/track/78pwKtHN83mApILvMcp2ZL) | [Dave Barnes](https://open.spotify.com/artist/7hbH1qupmU6HxVBjWJItlq) | [I Wish It Would Snow](https://open.spotify.com/album/6l7uq39brjSI3uEacWRkDP) | 2:45 | 2022-11-25 |  |
 | [I'll Be Home For Christmas](https://open.spotify.com/track/24R1qc77L7eb38XKBFIfEN) | [Andreas Weise](https://open.spotify.com/artist/0G74PWccc2UbEEHNKVVaKB) | [Before Christmas](https://open.spotify.com/album/2NCP9hd23zIKGnjueQT3SR) | 3:03 | 2021-10-01 | 2022-11-26 |
 | [I'll Be Home For Christmas](https://open.spotify.com/track/4lftz0V8DZhWSVtL4GrzMH) | [Bing Crosby](https://open.spotify.com/artist/6ZjFtWeHP9XN7FeKSUe80S) | [White Christmas](https://open.spotify.com/album/42KK3F8HTm1dyv5iFsCXdw) | 2:55 | 2021-10-01 | 2023-09-14 |
+| [I'll Be Home For Christmas](https://open.spotify.com/track/5qJaKJRszV5AKSVg9Upplx) | [Glen Campbell](https://open.spotify.com/artist/59hLmB5DrdihCYtNeFeW1U) | [That Christmas Feeling](https://open.spotify.com/album/2xlhfPgJiHs0MAVhK1QR2g) | 2:46 | 2026-11-25 |  |
 | [I'll Be Home for Christmas \(If Only In My Dreams\) \(Remastered\)](https://open.spotify.com/track/7np0FnR2UUP0wElbtf8fEm) | [Frank Sinatra](https://open.spotify.com/artist/1Mxqyy3pSjf8kZZL4QVxS0) | [Now That's What I Call Christmas](https://open.spotify.com/album/2S4v9bMfAM13mpnXYsgUAi) | 3:12 | 2021-10-01 | 2022-07-29 |
 | [I'll Be Home For Christmas \(If Only In My Dreams\) \- Remastered 1999](https://open.spotify.com/track/0AY6UDs5EyeW45oQkEpsly) | [Frank Sinatra](https://open.spotify.com/artist/1Mxqyy3pSjf8kZZL4QVxS0) | [A Jolly Christmas From Frank Sinatra](https://open.spotify.com/album/0ny6mZMBrYSO0s8HAKbcVq) | 3:10 | 2021-10-01 | 2022-11-26 |
 | [I'll Be Home For Christmas \(If Only In My Dreams\) \- Remastered 1999](https://open.spotify.com/track/1Q2oEYQVTutAmFs3Y4sFoh) | [Frank Sinatra](https://open.spotify.com/artist/1Mxqyy3pSjf8kZZL4QVxS0) | [XMAS](https://open.spotify.com/album/07gcCXuyT2NDA7LrmKPTz7) | 3:11 | 2022-11-09 | 2022-11-13 |
 | [I've Got My Love To Keep Me Warm](https://open.spotify.com/track/0Ffhk7o19DQC3eU4nPxiJe) | [Ella Fitzgerald](https://open.spotify.com/artist/5V0MlUE1Bft0mbLlND7FJz), [Louis Armstrong](https://open.spotify.com/artist/19eLuQmk9aCobbVDHc6eek) | [Louis Wishes You a Cool Yule](https://open.spotify.com/album/2KquMleTyS3Ykm7440PjL6) | 3:11 | 2022-11-25 | 2023-09-14 |
+| [It Came Upon the Midnight Clear](https://open.spotify.com/track/54QKdYctRDIc4BiNdNPMew) | [Johnny Mathis](https://open.spotify.com/artist/21LGsW7bziR4Ledx7WZ1Wf) | [Merry Christmas with Johnny Mathis](https://open.spotify.com/album/38ajXuhWGCYtKwCbDND80Q) | 3:03 | 2026-11-25 |  |
 | [It's Beginning To Look A Lot Like Christmas](https://open.spotify.com/track/1uh1iaMqBdx4XyrXhssKGD) | [Bing Crosby](https://open.spotify.com/artist/6ZjFtWeHP9XN7FeKSUe80S) | [Christmas](https://open.spotify.com/album/3r4C6wYkCYL65QjkU5oJ8y) | 2:44 | 2021-10-01 | 2022-11-26 |
 | [It's Beginning To Look A Lot Like Christmas](https://open.spotify.com/track/47TFLCa75gmHLZndL0OXxJ) | [Bing Crosby](https://open.spotify.com/artist/6ZjFtWeHP9XN7FeKSUe80S) | [Best Of Christmas 2021](https://open.spotify.com/album/40EAQoKmxKHSrvCVdLqX5C) | 2:46 | 2022-11-09 | 2022-11-13 |
 | [It's Beginning To Look A Lot Like Christmas](https://open.spotify.com/track/6yaxdh87KVj82QIYKTP1zt) | [Bing Crosby](https://open.spotify.com/artist/6ZjFtWeHP9XN7FeKSUe80S) | [White Christmas](https://open.spotify.com/album/47RV2hB4LybH5Q2jbs6ClV) | 2:48 | 2021-10-01 | 2022-07-29 |

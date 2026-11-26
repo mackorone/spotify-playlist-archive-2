@@ -4,7 +4,7 @@
 
 > 世界中のロックシーンを彩る話題曲をチェック。Cover: CHVRCHES
 
-2,450 songs - 5 day 23 hr 16 min
+2,451 songs - 5 day 23 hr 20 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -796,6 +796,7 @@
 | [FUCK MY TEMPO](https://open.spotify.com/track/6DIzVWbMVzBmmdPf5OAkpi) | [LIL DUSTY G](https://open.spotify.com/artist/3kBOtwy37e9fzJ3LFSnpbQ) | [FUCK MY TEMPO](https://open.spotify.com/album/0wY0p9tzQL90lfXrJgg6YN) | 2:34 | 2024-02-22 | 2024-03-01 |
 | [Fuck Off](https://open.spotify.com/track/52L8TAHmnao8FWoMiOj9hZ) | [Green Day](https://open.spotify.com/artist/7oPftvlwr6VrsViSDV7fJY) | [Saviors \(édition de luxe\)](https://open.spotify.com/album/6j1TdmSs8ROkx7pDBwSJrO) | 2:03 | 2025-05-22 | 2025-06-20 |
 | [Fuck The Whole World](https://open.spotify.com/track/4Z6VhX6RFl1rT6CUbtTVkr) | [Oliver Tree](https://open.spotify.com/artist/6TLwD7HPWuiOzvXEa3oCNe) | [Love You Madly Hate You Badly](https://open.spotify.com/album/4Ns0kKlkmOUNgEM3OHhmKt) | 2:42 | 2026-04-23 | 2026-07-31 |
+| [Funeral](https://open.spotify.com/track/35qlLHdXJ60WKwKIryhL0U) | [Amira Elfeky](https://open.spotify.com/artist/6Z4kwq0LOaYQW2CqudoOIk) | [It was only a dream](https://open.spotify.com/album/22DbAhXhwLN1Q4xkA047OC) | 3:18 | 2026-11-19 |  |
 | [FUNERAL](https://open.spotify.com/track/2Ny0tCcYlti1RXsrNtRMl3) | [Blackout Problems](https://open.spotify.com/artist/22P5BkhcPUCtDGC9laXpDM) | [FUNERAL](https://open.spotify.com/album/5XImB5pOIq9qubvqRUV2lD) | 3:08 | 2023-12-14 | 2023-12-22 |
 | [Funeral for Justice](https://open.spotify.com/track/6jRkPX7aziy9qweRaBloXF) | [Mdou Moctar](https://open.spotify.com/artist/48dgx7iGqLQ3E5KO3pzd94) | [Funeral for Justice](https://open.spotify.com/album/2TEqu1Bvm8jFijAybw6S38) | 3:08 | 2024-02-29 | 2024-05-03 |
 | [Funky Getaway](https://open.spotify.com/track/1tGVOdfrDeDwWVSSqalfFn) | [Soft Pine](https://open.spotify.com/artist/2GT63EyB3EMBmSJXOupIwx) | [Funky Getaway](https://open.spotify.com/album/0NnYBIaFPp6XSKV49oJET2) | 4:25 | 2026-06-11 | 2026-06-26 |
@@ -2238,7 +2239,7 @@
 | [Versions Of You](https://open.spotify.com/track/5552mB1SfLoZPP999vzyF4) | [Alkaline Trio](https://open.spotify.com/artist/1aEYCT7t18aM3VvM6y8oVR) | [Versions Of You](https://open.spotify.com/album/3PgfExqEE8aHKGRilrmrAS) | 3:13 | 2024-01-04 | 2024-01-12 |
 | [VERTICAL WORLDS](https://open.spotify.com/track/0vpUOgjK7BmMv6YE2bnpQA) | [Ecca Vandal](https://open.spotify.com/artist/0NhKCHTPG7Sz62S3zxV1Cf) | [LOOKING FOR PEOPLE TO UNFOLLOW](https://open.spotify.com/album/6S7mwrc4FXlG4MmuBaDGAA) | 3:15 | 2026-05-21 | 2026-06-05 |
 | [Villainous \(feat\. Maria Brink of In This Moment\)](https://open.spotify.com/track/4K3A9ENMtrBvugyyyYMC7X) | [Eva Under Fire](https://open.spotify.com/artist/4CqPd0j1VupcPYQRTMBn1c), [Maria Brink](https://open.spotify.com/artist/6W8xq7TXME3WXP7c7LMWBR), [In This Moment](https://open.spotify.com/artist/6tbLPxj1uQ6vsRQZI2YFCT) | [Villainous \(feat\. Maria Brink of In This Moment\)](https://open.spotify.com/album/2C6hSIWrn02t1nznm0LDbv) | 2:56 | 2026-03-26 | 2026-04-24 |
-| [Vinegar](https://open.spotify.com/track/6Mi8DfWuxbQMLECvPv9EVm) | [Beach Bunny](https://open.spotify.com/artist/2vnB6tuQMaQpORiRdvXF9H) | [Vinegar](https://open.spotify.com/album/0oIqh3iglmECGWVs89uZMz) | 3:06 | 2026-11-19 |  |
+| [Vinegar](https://open.spotify.com/track/6Mi8DfWuxbQMLECvPv9EVm) | [Beach Bunny](https://open.spotify.com/artist/2vnB6tuQMaQpORiRdvXF9H) | [Vinegar](https://open.spotify.com/album/0oIqh3iglmECGWVs89uZMz) | 3:06 | 2026-11-19 | 2026-11-26 |
 | [VISION](https://open.spotify.com/track/6x8MDxMoqVhnSXWy07s6xX) | [Quarters](https://open.spotify.com/artist/0mnruuV4CcKu7Ux7kBZ5sa) | [VISION](https://open.spotify.com/album/1k8iox8vL0cWGsrsTiIGA0) | 4:03 | 2026-11-12 | 2026-11-20 |
 | [Voices](https://open.spotify.com/track/2qMDLvoWC6qZMjNhGc9V8j) | [Damiano David](https://open.spotify.com/artist/7AaGbSgUxJFuZ49VvclNH6) | [Voices](https://open.spotify.com/album/52Dzsy8FeJLPEsT3lqPZ2r) | 3:32 | 2025-05-01 | 2025-08-10 |
 | [Voodoo Go To Zoo](https://open.spotify.com/track/0psvBjhuemuy6XCJPiA5Zd) | [HEY\-SMITH](https://open.spotify.com/artist/180SgP7FcRAhmrgwuNTvhL) | [Unity](https://open.spotify.com/album/7hEotpEVKe6JzRquceRjnh) | 2:50 | 2026-06-26 | 2026-07-03 |

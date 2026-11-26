@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWT8aqnwgRt92.md) - [plain]
 
 > Hottest Anime hits & best new tracks for all Anime fans! 最新アニメシーンの話題曲をまとめてお届け！Illustration by <a href="https://www.instagram.com/nostalook7090/">NOSTALOOK</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,537,293 likes - 100 songs - 6 hr 1 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,537,216 likes - 100 songs - 6 hr 1 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWT8aqnwgRt92.md) - [plain]
 | 99 | [SHAKARIKI!!](https://open.spotify.com/track/6GBSD84J7Q0Bqmtzje4OU2) | [宮﨑 歩](https://open.spotify.com/artist/4Hjely5D21wDWfluTrZRhT), [Takayoshi Tanimoto](https://open.spotify.com/artist/5nCVXtvsB2KsngsMbk8Hat) | [SHAKARIKI!! / Limitless Dreams](https://open.spotify.com/album/2fPLZEM0Ejd3SdTLT237CQ) | 3:45 |
 | 100 | [UNTAMED](https://open.spotify.com/track/3JZWXljt45S2NLYRt5nMle) | [I.ADORE](https://open.spotify.com/artist/4oubAjl8GhDm4G8vLqmzXx), [R01](https://open.spotify.com/artist/1MPomO2r21x5Adhn9TGfH5), [生月学斗](https://open.spotify.com/artist/1SPgj5xYN6GQIiErfLtBfp), [詠見野メクル](https://open.spotify.com/artist/6dsqsVXzM4hMDSXd6aNuso), [干二支合九](https://open.spotify.com/artist/30FthdU1FJGqaMBzT0osE2) | [UNTAMED](https://open.spotify.com/album/5PBhaw7bbWiU3wb07O9blY) | 4:03 |
 
-Snapshot ID: `AAAAAKzp+obAFp9KZPO1oCE2+rbkA5xS`
+Snapshot ID: `AAAAANgDAb60LVoHQLLWi6dwbJsBat5c`

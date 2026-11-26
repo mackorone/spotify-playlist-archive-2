@@ -4,7 +4,7 @@
 
 > have yourself a chill and lofi xmas
 
-339 songs - 13 hr 5 min
+340 songs - 13 hr 7 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -306,6 +306,7 @@
 | [The First Noel](https://open.spotify.com/track/2L7Pan356vmGe4tIfiLvHd) | [Hadoque](https://open.spotify.com/artist/3nn3OEYb7jVEreIYIqoFR3) | [A Lofi Christmas](https://open.spotify.com/album/0QJZU8Vi8bboQZLziY1lst) | 3:09 | 2021-12-20 | 2023-12-20 |
 | [The First Noel](https://open.spotify.com/track/25jBp6wKLVmwrEDtVNJ5Oz) | [Matt Large](https://open.spotify.com/artist/107WzwlsOTR6Nxnw2kPHd3) | [The First Noel](https://open.spotify.com/album/4VDcIWYBeiyr8yKB1MCNX2) | 3:28 | 2021-12-20 | 2022-11-12 |
 | [The Lonely Elf](https://open.spotify.com/track/2AlpsYQFj9EW3h4o8gEMv7) | [justregular](https://open.spotify.com/artist/5Zx4suKma9aE2dRBP36bhZ) | [The Lonely Elf](https://open.spotify.com/album/5euv0xltD6buYPqSac2jIT) | 1:42 | 2022-11-11 | 2025-09-05 |
+| [the long way home](https://open.spotify.com/track/4FZ8G8f8KO9auVaNG4DABs) | [heirloom](https://open.spotify.com/artist/3Q6Jurd5PQMm7Q52Xk6yuW) | [the long way home](https://open.spotify.com/album/4f65EsKUwqjuUAuxdRUs8U) | 2:13 | 2026-11-25 |  |
 | [The Night Before](https://open.spotify.com/track/5ZIU60WNqPE6tJxhzJio4f) | [iasilma](https://open.spotify.com/artist/3pDdMkuOaBgEfSrzpFmWcu) | [The Night Before](https://open.spotify.com/album/1yITIVwWWZxjIXufJ6Vxkp) | 1:51 | 2022-11-11 | 2025-09-05 |
 | [This Christmas](https://open.spotify.com/track/6rJShaAAmTUaJ3lLZHQTpv) | [Manamera](https://open.spotify.com/artist/7ar7lfJxKo3iW5YNXzrLJz) | [This Christmas](https://open.spotify.com/album/2Lcs7tNaM7reSGgfU9pi0g) | 3:34 | 2023-10-06 |  |
 | [Togetherness](https://open.spotify.com/track/0tFIloIXXvtGeIkC1fRmIN) | [Jingle Feelz](https://open.spotify.com/artist/3IWqTmtQEwVejePSf3LXil) | [Togetherness](https://open.spotify.com/album/61KdA5AeurS6FPon5tcLYf) | 1:47 | 2022-11-11 | 2025-09-05 |

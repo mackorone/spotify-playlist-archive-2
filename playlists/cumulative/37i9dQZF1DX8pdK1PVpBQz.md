@@ -4,7 +4,7 @@
 
 > The best new music by independent artists and labels\. Cover: Erika Ever
 
-4,676 songs - 10 day 18 hr 2 min
+4,677 songs - 10 day 18 hr 5 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -1046,7 +1046,7 @@
 | [Dishes in the Sink](https://open.spotify.com/track/7joMewb5Bqo5BY33Aq8LKt) | [My Chérie](https://open.spotify.com/artist/13kuX8DGF56Wy43D0Dj0ic) | [Dishes in the Sink](https://open.spotify.com/album/2q5xd4FrmVIVE1cjI3bjlU) | 2:45 | 2025-08-19 | 2025-10-22 |
 | [Disintegrate](https://open.spotify.com/track/5157boMXpSpW2wE4YI9UX9) | [Georgia Mulligan](https://open.spotify.com/artist/4tXhvq7trzNGSORS5pAB9o) | [Disintegrate](https://open.spotify.com/album/2qoKcLdfNfigeP7oOmHHcO) | 3:01 | 2023-10-11 | 2023-11-09 |
 | [Dithering](https://open.spotify.com/track/0AOiguFhmZuYQKW8G62fQy) | [HWLS](https://open.spotify.com/artist/4ODo634wVqDxqgVSlXE2LO) | [Dithering](https://open.spotify.com/album/5Va8xOg4tRtqvIUFPRATLY) | 3:51 | 2022-01-12 | 2022-02-10 |
-| [DIVA](https://open.spotify.com/track/2jIR6G90i2MIRQyX4CJ7o2) | [Nat Luna](https://open.spotify.com/artist/3T2tCEmOkdYPSlBUaXkK92) | [DIVA](https://open.spotify.com/album/7idlNWJeVNUYIxHdooY9gd) | 2:39 | 2026-07-21 |  |
+| [DIVA](https://open.spotify.com/track/2jIR6G90i2MIRQyX4CJ7o2) | [Nat Luna](https://open.spotify.com/artist/3T2tCEmOkdYPSlBUaXkK92) | [DIVA](https://open.spotify.com/album/7idlNWJeVNUYIxHdooY9gd) | 2:39 | 2026-07-21 | 2026-11-26 |
 | [DIVE](https://open.spotify.com/track/2F2XDcI2ybc8rmN7BzEMrp) | [Molly Rocket](https://open.spotify.com/artist/2sjRgLc2ZNNpcI41UGWPCS) | [DIVE](https://open.spotify.com/album/1XE8FXofeBbjkYF8L56tXC) | 4:11 | 2022-02-09 | 2022-03-02 |
 | [Dive Bars And Angel Cards](https://open.spotify.com/track/1wk9O1WZx3nTFs80zjGBTO) | [Montgomery](https://open.spotify.com/artist/0qAtmxRkW1pvGWFDOxVbS4) | [Dive Bars And Angel Cards](https://open.spotify.com/album/67F3dEjCjWJTpRUArmlV7h) | 3:34 | 2024-10-01 | 2024-11-27 |
 | [Dive Bars And Angel Cards](https://open.spotify.com/track/41CkVuAXUa4QeAo7gPBnH9) | [Montgomery](https://open.spotify.com/artist/0qAtmxRkW1pvGWFDOxVbS4) | [Something To Look Back On](https://open.spotify.com/album/27eJIiIuiYXzY6tfCNWNfN) | 3:34 | 2024-12-04 | 2025-01-08 |
@@ -3317,6 +3317,7 @@
 | [Real Life](https://open.spotify.com/track/2R1GNetV5KogQx7h1b8tgg) | [Acopia](https://open.spotify.com/artist/276EHqxzrJ8QJKoluzYjFr) | [Real Life](https://open.spotify.com/album/1h0kymvYAK3TSZyFHztqtX) | 3:30 | 2025-08-05 | 2025-11-05 |
 | [Real Life Feeling](https://open.spotify.com/track/0g3Ds3Fv58DIYaBYwG4YJh) | [Thomas Gray & Liam Ebbs](https://open.spotify.com/artist/5lfD0vOepeC8wicb3RdkwK) | [Real Life Feeling](https://open.spotify.com/album/4ZLJhC4hpLXrPzsvnePfSR) | 6:03 | 2022-05-11 | 2022-06-01 |
 | [Real Like A Feeling](https://open.spotify.com/track/6dnuQLF8jwYDiLo0oFsWoW) | [Milku](https://open.spotify.com/artist/1ZAQrwStUeOr0wl3PGbMQX) | [Real Like A Feeling](https://open.spotify.com/album/1T2UIh06gHW1SHS6oRLQfb) | 3:14 | 2023-03-22 | 2023-05-04 |
+| [Real Love](https://open.spotify.com/track/2ld8uM46qEl9PtRqkTjjLl) | [Perfectworld](https://open.spotify.com/artist/0Eqo2NKrst9Oz5O8FfUc8T), [Cat & Calmell](https://open.spotify.com/artist/7A87MKn03ao4ZP30RDpHSP) | [Real Love](https://open.spotify.com/album/0JKhyctz8usUK9c5MEC8qq) | 2:43 | 2026-11-26 |  |
 | [Real Love](https://open.spotify.com/track/2Kkw5LwECNJbJ3dh29hJSb) | [Pretty Moi](https://open.spotify.com/artist/1RcHwCcj8pqLUzy4idl5rn) | [Real Love](https://open.spotify.com/album/2vohQIfKxZCF5E5YO74oqA) | 4:06 | 2023-10-19 | 2023-11-23 |
 | [Real Thrill](https://open.spotify.com/track/49b53wJNSkkGas3HQrtRfd) | [Straight Girls](https://open.spotify.com/artist/07jCtmLeesNmUzR4NKlPjO) | [Real Thrill](https://open.spotify.com/album/6tShWcXf9KnUSUXTb5XjCO) | 4:06 | 2022-05-25 | 2022-06-09 |
 | [Real Type](https://open.spotify.com/track/4SKcYySLR79wwb7xrQP1pW) | [KingTheFreeSoul](https://open.spotify.com/artist/1mKApP2dgCtGbvKssYpJaq) | [Real Type](https://open.spotify.com/album/5XvpjP05AT4feCwEI3o4ES) | 2:25 | 2023-02-15 | 2023-03-08 |

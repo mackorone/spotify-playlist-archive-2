@@ -1,12 +1,12 @@
 {
   "description": "Le rap qu\u00e9b\u00e9cois, servi tout frais tout chaud. Photo: Souldia, Cupidon",
-  "num_followers": 89644,
+  "num_followers": 89657,
   "original_name": "Rap qu\u00e9b",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAHVVgCB2kfKtlvN/TYlnSSreBBdw",
+  "snapshot_id": "AAAAAE55ekNv7w4xplpEoNRwI39ccYQ6",
   "tracks": [
     {
       "added_at": "2026-11-20 05:03:05",
@@ -959,6 +959,22 @@
     {
       "added_at": "2026-11-20 05:03:05",
       "album": {
+        "name": "Big Wop - Mile-End sur la map",
+        "url": "https://open.spotify.com/album/4sOGzpMFd8ICEDRRED2GIS"
+      },
+      "artists": [
+        {
+          "name": "Fl\u00e9au Dicaprio",
+          "url": "https://open.spotify.com/artist/7eECqg50qMODvvrHySfQAZ"
+        }
+      ],
+      "duration_ms": 210695,
+      "name": "Fascinant",
+      "url": "https://open.spotify.com/track/095MgE6prClcNYhjBmIIlT"
+    },
+    {
+      "added_at": "2026-11-20 05:03:05",
+      "album": {
         "name": "MTL's Finest",
         "url": "https://open.spotify.com/album/2NknQDDlQ80LEljVeCmiHj"
       },
@@ -979,22 +995,6 @@
       "duration_ms": 141176,
       "name": "MTL's Finest",
       "url": "https://open.spotify.com/track/7fsflRNwxudWTk1EwTfVBE"
-    },
-    {
-      "added_at": "2026-11-20 05:03:05",
-      "album": {
-        "name": "Big Wop - Mile-End sur la map",
-        "url": "https://open.spotify.com/album/4sOGzpMFd8ICEDRRED2GIS"
-      },
-      "artists": [
-        {
-          "name": "Fl\u00e9au Dicaprio",
-          "url": "https://open.spotify.com/artist/7eECqg50qMODvvrHySfQAZ"
-        }
-      ],
-      "duration_ms": 210695,
-      "name": "Fascinant",
-      "url": "https://open.spotify.com/track/095MgE6prClcNYhjBmIIlT"
     },
     {
       "added_at": "2026-11-20 05:03:05",
@@ -1027,6 +1027,38 @@
       "duration_ms": 167913,
       "name": "Voyou, D\u00e9sol\u00e9",
       "url": "https://open.spotify.com/track/5TlbOmf39KB8JdAYxpV7nv"
+    },
+    {
+      "added_at": "2026-11-20 05:03:05",
+      "album": {
+        "name": "Buzz\u00e9 Pack",
+        "url": "https://open.spotify.com/album/3ifgCpBb6nVh76QEVGldnI"
+      },
+      "artists": [
+        {
+          "name": "Jay Sc\u00f8tt",
+          "url": "https://open.spotify.com/artist/3G9XTWY09egHqHlbRcP5cx"
+        },
+        {
+          "name": "FouKi",
+          "url": "https://open.spotify.com/artist/3IMC79WXhjXUkDHhpsSN8n"
+        },
+        {
+          "name": "Rymz",
+          "url": "https://open.spotify.com/artist/3dN1EUAKOFCUBPFXRUdqKu"
+        },
+        {
+          "name": "Souldia",
+          "url": "https://open.spotify.com/artist/6ekcMUMZoiX2HBbQGZgNh1"
+        },
+        {
+          "name": "Xavier Euphory",
+          "url": "https://open.spotify.com/artist/0uHOElDo0UUKXn6LzLS2Wg"
+        }
+      ],
+      "duration_ms": 193166,
+      "name": "Buzz\u00e9 - Hip-Hop",
+      "url": "https://open.spotify.com/track/0DerIoTW99VdoDKNDBIVsU"
     },
     {
       "added_at": "2026-11-20 05:03:05",
@@ -1079,38 +1111,6 @@
       "duration_ms": 131180,
       "name": "\u00c9TOILE PI\u00c8GE",
       "url": "https://open.spotify.com/track/1iRllXDR3YsHoXoPrZhQN8"
-    },
-    {
-      "added_at": "2026-11-20 05:03:05",
-      "album": {
-        "name": "Buzz\u00e9 Pack",
-        "url": "https://open.spotify.com/album/3ifgCpBb6nVh76QEVGldnI"
-      },
-      "artists": [
-        {
-          "name": "Jay Sc\u00f8tt",
-          "url": "https://open.spotify.com/artist/3G9XTWY09egHqHlbRcP5cx"
-        },
-        {
-          "name": "FouKi",
-          "url": "https://open.spotify.com/artist/3IMC79WXhjXUkDHhpsSN8n"
-        },
-        {
-          "name": "Rymz",
-          "url": "https://open.spotify.com/artist/3dN1EUAKOFCUBPFXRUdqKu"
-        },
-        {
-          "name": "Souldia",
-          "url": "https://open.spotify.com/artist/6ekcMUMZoiX2HBbQGZgNh1"
-        },
-        {
-          "name": "Xavier Euphory",
-          "url": "https://open.spotify.com/artist/0uHOElDo0UUKXn6LzLS2Wg"
-        }
-      ],
-      "duration_ms": 193166,
-      "name": "Buzz\u00e9 - Hip-Hop",
-      "url": "https://open.spotify.com/track/0DerIoTW99VdoDKNDBIVsU"
     },
     {
       "added_at": "2026-11-20 05:03:05",
@@ -1367,6 +1367,22 @@
     {
       "added_at": "2026-11-20 05:03:05",
       "album": {
+        "name": "Danger",
+        "url": "https://open.spotify.com/album/2tNKPaTJXSXmGtoRRRSLWs"
+      },
+      "artists": [
+        {
+          "name": "Fl\u00e9au Dicaprio",
+          "url": "https://open.spotify.com/artist/7eECqg50qMODvvrHySfQAZ"
+        }
+      ],
+      "duration_ms": 160263,
+      "name": "Danger",
+      "url": "https://open.spotify.com/track/42Ot6CgKD6HYfG2PNRfBYG"
+    },
+    {
+      "added_at": "2026-11-20 05:03:05",
+      "album": {
         "name": "Le c\u0153ur \u00e0 la bonne place",
         "url": "https://open.spotify.com/album/69ZYia8iytJHvAOGO13UYP"
       },
@@ -1399,22 +1415,6 @@
       "duration_ms": 151384,
       "name": "MON TOUR",
       "url": "https://open.spotify.com/track/4xnCYX1Uiv6qoowXCoppSP"
-    },
-    {
-      "added_at": "2026-11-20 05:03:05",
-      "album": {
-        "name": "Danger",
-        "url": "https://open.spotify.com/album/2tNKPaTJXSXmGtoRRRSLWs"
-      },
-      "artists": [
-        {
-          "name": "Fl\u00e9au Dicaprio",
-          "url": "https://open.spotify.com/artist/7eECqg50qMODvvrHySfQAZ"
-        }
-      ],
-      "duration_ms": 160263,
-      "name": "Danger",
-      "url": "https://open.spotify.com/track/42Ot6CgKD6HYfG2PNRfBYG"
     }
   ],
   "unique_name": "Rap qu\u00e9b",

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX894PYVoChlV.md) - [plain]
 
 > ¡Las canciones más románticas de Luismi!
 
-[Spotify](https://open.spotify.com/user/spotify) - 391,920 likes - 50 songs - 2 hr 59 min
+[Spotify](https://open.spotify.com/user/spotify) - 391,979 likes - 50 songs - 2 hr 59 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX894PYVoChlV.md) - [plain]
 | 49 | [La última noche](https://open.spotify.com/track/1hO1Nw8W8ssvFPDJaVec41) | [Luis Miguel](https://open.spotify.com/artist/2nszmSgqreHSdJA3zWPyrW) | [Mis Romances](https://open.spotify.com/album/0hAqX9l2oj2RQAHLWrilLv) | 3:49 |
 | 50 | [Qué sabes tú](https://open.spotify.com/track/0dcX9ATwMWpiw8crwMPrgc) | [Luis Miguel](https://open.spotify.com/artist/2nszmSgqreHSdJA3zWPyrW) | [Mis Romances](https://open.spotify.com/album/0hAqX9l2oj2RQAHLWrilLv) | 4:48 |
 
-Snapshot ID: `AAAAAAPkgolvC5yRxghYPL9OruNd28g4`
+Snapshot ID: `AAAAANayQj0qF2Or3JwaPxsYN4fpEsdV`

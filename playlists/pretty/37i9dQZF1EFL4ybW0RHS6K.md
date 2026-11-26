@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFL4ybW0RHS6K.md) - [plain]
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/27oxH68ZhwZ4Td6jZztQqs">Caza</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 70 likes - 104 songs - 4 hr 44 min
+[Spotify](https://open.spotify.com/user/spotify) - 70 likes - 103 songs - 4 hr 42 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,8 +109,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFL4ybW0RHS6K.md) - [plain]
 | 99 | [Ma Bella](https://open.spotify.com/track/02EnBHV0Kr0Lb8TONbGDFC) | [Gambler](https://open.spotify.com/artist/7eBnrX5XdAJsbr6voavmTC), [Caza](https://open.spotify.com/artist/1ImONfzw8LUXK6mxn2BDT9) | [Ma Bella](https://open.spotify.com/album/3jn2SXCnLlUv91c9oT5GT0) | 2:30 |
 | 100 | [No Crown \(feat\. Caza\)](https://open.spotify.com/track/1Cen6JcfsfSiYE1hN84EDC) | [Vlado](https://open.spotify.com/artist/3OcPdn7YP6TgPT4wqoDOfi), [Caza](https://open.spotify.com/artist/1ImONfzw8LUXK6mxn2BDT9) | [Trap Phone](https://open.spotify.com/album/74AVyCfx2HgawZ84ZT1ULq) | 2:33 |
 | 101 | [Lean](https://open.spotify.com/track/7qZcrK6ZE9bJAzpbCCThMo) | [Caza](https://open.spotify.com/artist/1ImONfzw8LUXK6mxn2BDT9) | [Lean](https://open.spotify.com/album/2WUeSE3wgkgrBqjhmMzcV0) | 1:49 |
-| 102 | [ROTGANG](https://open.spotify.com/track/3VkJk9IL0R6lz6XLuFVlkp) | [BICKER](https://open.spotify.com/artist/19raC1VudCZeFylKrnBtr3) | [ROTGANG](https://open.spotify.com/album/0ZKzFgX27cLb6Z2x1e1zIJ) | 2:13 |
-| 103 | [In Town \(feat\. Caza\)](https://open.spotify.com/track/2CphEFT1uqtIDYxC0fjKGa) | [NoizBoiz](https://open.spotify.com/artist/4UN9sEXh7q4VOg8MLV9hJ6), [Caza](https://open.spotify.com/artist/1ImONfzw8LUXK6mxn2BDT9) | [Expertise](https://open.spotify.com/album/7MhuBR6f7IM539ZQrG9wkE) | 2:29 |
-| 104 | [Rudebwoy \(feat\. Kempi & Caza\) \- Instrumental](https://open.spotify.com/track/7gfwWdXbcjAfsOjqFhpHDG) | [Jiri11](https://open.spotify.com/artist/6RxMqY900Xpza3Kh9j86Mn), [Kempi](https://open.spotify.com/artist/0FWWBkIJD4tvlDzB4O8XT7), [Caza](https://open.spotify.com/artist/1ImONfzw8LUXK6mxn2BDT9) | [TRIFECTA Type Beat Volume 4](https://open.spotify.com/album/0N0MHtP27q7nwH0PVrqByX) | 3:09 |
+| 102 | [In Town \(feat\. Caza\)](https://open.spotify.com/track/2CphEFT1uqtIDYxC0fjKGa) | [NoizBoiz](https://open.spotify.com/artist/4UN9sEXh7q4VOg8MLV9hJ6), [Caza](https://open.spotify.com/artist/1ImONfzw8LUXK6mxn2BDT9) | [Expertise](https://open.spotify.com/album/7MhuBR6f7IM539ZQrG9wkE) | 2:29 |
+| 103 | [Rudebwoy \(feat\. Kempi & Caza\) \- Instrumental](https://open.spotify.com/track/7gfwWdXbcjAfsOjqFhpHDG) | [Jiri11](https://open.spotify.com/artist/6RxMqY900Xpza3Kh9j86Mn), [Kempi](https://open.spotify.com/artist/0FWWBkIJD4tvlDzB4O8XT7), [Caza](https://open.spotify.com/artist/1ImONfzw8LUXK6mxn2BDT9) | [TRIFECTA Type Beat Volume 4](https://open.spotify.com/album/0N0MHtP27q7nwH0PVrqByX) | 3:09 |
 
-Snapshot ID: `AcikZAAAAABzTDiOfgZ33p8HkQCbicwe`
+Snapshot ID: `AciqBAAAAAANsh/E5tIrvf+7XcysmtPG`

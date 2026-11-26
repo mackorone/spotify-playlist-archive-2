@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX14EWeH2Pwf3.md) - [plain]
 
 > Sfera nelle 🎧 di tutti, e in cover della playlist urban più 🔥
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,114,178 likes - 55 songs - 2 hr 41 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,114,048 likes - 55 songs - 2 hr 41 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -64,4 +64,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX14EWeH2Pwf3.md) - [plain]
 | 54 | [CHROME HEARTS \(feat\. Nerissima Serpe\)](https://open.spotify.com/track/6bOwCTgqiUIEuGNdwTDpi5) | [Astro](https://open.spotify.com/artist/2pzFTbri7ew8mW2CbYpCNq), [Nerissima Serpe](https://open.spotify.com/artist/08ppjXEpROUgrG1X0DEquB) | [WAR](https://open.spotify.com/album/3mFxzu5rkiqHh8P6xqJc7B) | 2:44 |
 | 55 | [PROIETTILI \(feat\. Noyz Narcos, Guè, RRARI DAL TACCO\)](https://open.spotify.com/track/6aCwrGD1DSdpTcE4NATPdR) | [TY1](https://open.spotify.com/artist/2DWRgncNMnTfwDiKSI0VoP), [Noyz Narcos](https://open.spotify.com/artist/49UAapOfpOg1ZOU4xf2NgY), [Guè](https://open.spotify.com/artist/7F2utINZ6tSokSiZTQBE27), [RRARI DAL TACCO](https://open.spotify.com/artist/30fnIb0InCgAp2IPY17nqd) | [JUNKIE MUSIK](https://open.spotify.com/album/0LAqmRqZ6qLcI21wWcGE5l) | 2:50 |
 
-Snapshot ID: `AAAAAHJwPQB31jo+ZK1eteWsxjQURHls`
+Snapshot ID: `AAAAAPbT/EpbTj6AqotK6JYNXTSXZ2zl`

@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-01-09",
-  "description": "The best new indie tracks from independent artists & labels. Cover: Eilish Constance ",
+  "description": "The best new indie tracks from independent artists & labels. Cover: julip",
   "name": "Fresh Finds Indie",
   "tracks": [
     {
@@ -4339,6 +4339,24 @@
     },
     {
       "album": {
+        "name": "COLORS",
+        "url": "https://open.spotify.com/album/2GoDAWXKYVEtPxVXWhFheO"
+      },
+      "artists": [
+        {
+          "name": "WYSHLESS",
+          "url": "https://open.spotify.com/artist/2AYqw6Fr608CPQMAgN7gJH"
+        }
+      ],
+      "date_added": "2026-11-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 135244,
+      "name": "APPETITE",
+      "url": "https://open.spotify.com/track/6N9SFFP7YHgqQ3W6LbRG0m"
+    },
+    {
+      "album": {
         "name": "Apple",
         "url": "https://open.spotify.com/album/1gE0kS57l4cpmzX4nyICMb"
       },
@@ -6308,7 +6326,7 @@
       ],
       "date_added": "2026-09-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-26",
       "duration_ms": 282909,
       "name": "Be Careful II",
       "url": "https://open.spotify.com/track/5XjiozytXOWnBQFXrvy16G"
@@ -18138,7 +18156,7 @@
       ],
       "date_added": "2026-09-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-26",
       "duration_ms": 191786,
       "name": "Dreams",
       "url": "https://open.spotify.com/track/6nVhXRDvm1OJxsHLlmn7vc"
@@ -23999,6 +24017,24 @@
     },
     {
       "album": {
+        "name": "DS-1",
+        "url": "https://open.spotify.com/album/7mL8QsQAG202pHGQSyMUKn"
+      },
+      "artists": [
+        {
+          "name": "julip",
+          "url": "https://open.spotify.com/artist/7093KDv5fe6sYv66nUo7kK"
+        }
+      ],
+      "date_added": "2026-11-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 126060,
+      "name": "Get free",
+      "url": "https://open.spotify.com/track/3ZeOzHm3yk8oK6T6PXOsOr"
+    },
+    {
+      "album": {
         "name": "Get Her",
         "url": "https://open.spotify.com/album/2hiMDhuOZd92L7roNcA5S8"
       },
@@ -25486,7 +25522,7 @@
       ],
       "date_added": "2026-09-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-26",
       "duration_ms": 95381,
       "name": "good and bad",
       "url": "https://open.spotify.com/track/1qKJ9VWHwvhBAqyG6t7OIh"
@@ -31868,6 +31904,24 @@
       "duration_ms": 175054,
       "name": "I'm Always Getting in My Way",
       "url": "https://open.spotify.com/track/7zR2CBkfihoXthfjAw3nNM"
+    },
+    {
+      "album": {
+        "name": "I\u2019m Here, You\u2019re Gone",
+        "url": "https://open.spotify.com/album/4Upf73Yj2am6ETSgn0jVtm"
+      },
+      "artists": [
+        {
+          "name": "Polly",
+          "url": "https://open.spotify.com/artist/35oynIp89cQF1qjOZTRWkq"
+        }
+      ],
+      "date_added": "2026-11-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 165891,
+      "name": "I'm Here, You're Gone",
+      "url": "https://open.spotify.com/track/0iLnBP5f8qA7TcHKAMYLoy"
     },
     {
       "album": {
@@ -43179,6 +43233,24 @@
     },
     {
       "album": {
+        "name": "MY BLUFFS",
+        "url": "https://open.spotify.com/album/5FTrpySRr2wXk0bu6BowGf"
+      },
+      "artists": [
+        {
+          "name": "ASHMOOR",
+          "url": "https://open.spotify.com/artist/2EEBrnSW0zrrzVQKV1dYU8"
+        }
+      ],
+      "date_added": "2026-11-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 243076,
+      "name": "MY BLUFFS",
+      "url": "https://open.spotify.com/track/5Dp8fFVPOOoOtKvsNXhgkZ"
+    },
+    {
+      "album": {
         "name": "BREAK YOUR HEART",
         "url": "https://open.spotify.com/album/2ZWGyCfH0iU9MIPGJcrjnv"
       },
@@ -43338,7 +43410,7 @@
       ],
       "date_added": "2026-09-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-26",
       "duration_ms": 225064,
       "name": "My Life's All Right",
       "url": "https://open.spotify.com/track/54gCB10Rd8IMqqNJMIz4rd"
@@ -53162,7 +53234,7 @@
       ],
       "date_added": "2026-09-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-26",
       "duration_ms": 132072,
       "name": "Rughook",
       "url": "https://open.spotify.com/track/6aSrsBWXfPnuAbTeiamLBT"
@@ -53436,7 +53508,7 @@
       ],
       "date_added": "2026-09-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-26",
       "duration_ms": 172000,
       "name": "Running With the Angels",
       "url": "https://open.spotify.com/track/5ocmXwxko0fH1sCJXqpnKo"
@@ -54798,6 +54870,24 @@
       "duration_ms": 164339,
       "name": "Seeing Double",
       "url": "https://open.spotify.com/track/01gWL54nQ0d7hAEeNGJ2hI"
+    },
+    {
+      "album": {
+        "name": "Seek",
+        "url": "https://open.spotify.com/album/7dcmy3xfWFbP8nl6n5UjQp"
+      },
+      "artists": [
+        {
+          "name": "Horsepower",
+          "url": "https://open.spotify.com/artist/1ERf6Gecr1VWPzibnPJt1Y"
+        }
+      ],
+      "date_added": "2026-11-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 205955,
+      "name": "Seek",
+      "url": "https://open.spotify.com/track/400L6FTlOQjnOZ9LLfwHor"
     },
     {
       "album": {
@@ -57583,6 +57673,24 @@
     },
     {
       "album": {
+        "name": "sofia",
+        "url": "https://open.spotify.com/album/1kyz0lLt5ncGTzM41WEYyP"
+      },
+      "artists": [
+        {
+          "name": "marguerite",
+          "url": "https://open.spotify.com/artist/6CzzTBO5FZARo0IXoWaLFv"
+        }
+      ],
+      "date_added": "2026-11-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 300426,
+      "name": "sofia",
+      "url": "https://open.spotify.com/track/3c0Tvprlu84PD26mSwqrdW"
+    },
+    {
+      "album": {
         "name": "Soft Power",
         "url": "https://open.spotify.com/album/3Fc7ry8rHWwP2SuAOSkY32"
       },
@@ -59898,7 +60006,7 @@
       ],
       "date_added": "2026-10-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-26",
       "duration_ms": 171080,
       "name": "Step Stool",
       "url": "https://open.spotify.com/track/0iYRk3FKn46LHmTr5qLjDp"
@@ -70986,6 +71094,24 @@
       "duration_ms": 206876,
       "name": "When It's the Time",
       "url": "https://open.spotify.com/track/0hOO38plzR6V4rBSHDbkaL"
+    },
+    {
+      "album": {
+        "name": "when the light is on",
+        "url": "https://open.spotify.com/album/7kxBRFqmpHCE6nc780afUg"
+      },
+      "artists": [
+        {
+          "name": "mikey",
+          "url": "https://open.spotify.com/artist/2ftTkWEgbZL8ziKDBRI9nr"
+        }
+      ],
+      "date_added": "2026-11-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 171425,
+      "name": "when the light is on",
+      "url": "https://open.spotify.com/track/5JNTDCjfLXZ8PAyW5NgrUV"
     },
     {
       "album": {

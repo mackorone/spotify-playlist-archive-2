@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWY6fIMH0GtCp.md) - [plain]
 
 > This Hanukkah playlist features all the classics and the funny favorites.
 
-[Spotify](https://open.spotify.com/user/spotify) - 37,186 likes - 58 songs - 3 hr 7 min
+[Spotify](https://open.spotify.com/user/spotify) - 37,202 likes - 58 songs - 3 hr 7 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -62,9 +62,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWY6fIMH0GtCp.md) - [plain]
 | 52 | [Applesauce vs\. Sour Cream](https://open.spotify.com/track/1Pi6Z97md7t8wdCm9ey2NI) | [The LeeVees](https://open.spotify.com/artist/3YjhwlHwXH3lSZHHDwU4V8) | [Hanukkah Rocks](https://open.spotify.com/album/7rD2aU8WJriQiZQtdJsBfC) | 2:10 |
 | 53 | [Chanukah \(Shake It Off\)](https://open.spotify.com/track/41o6DOxHFQxVJFCo1PvcNy) | [Six13](https://open.spotify.com/artist/2H6beCAq0056SYdlQmlfEr) | [The Chanukah Collection](https://open.spotify.com/album/3TNq44s2UgzxrqiZVql9Hb) | 3:37 |
 | 54 | [Hanukkah Lovin'](https://open.spotify.com/track/65PPpqV6zCbyE8hjUjBJwL) | [Michelle Citrin](https://open.spotify.com/artist/2jINb9SCrCBDzo6zRFdXVh) | [Hanukkah Lovin'](https://open.spotify.com/album/4GN4oV8cUqODVVfnGqH9PA) | 3:39 |
-| 55 | [Chanukah Days](https://open.spotify.com/track/3omPpCMSnG9fKMqVDOzJjk) | [Thank You Hashem](https://open.spotify.com/artist/2h0dMILtNngHh2mxwdjwB9), [TYH Boys](https://open.spotify.com/artist/3Vn8i9eiKjpOXz90OgTsHq) | [Feel The Ohr / Chanukah Days](https://open.spotify.com/album/3ihu1FaU3KnNU9lVI6IWio) | 3:14 |
+| 55 | [Chanukah Days](https://open.spotify.com/track/3omPpCMSnG9fKMqVDOzJjk) | [Thank You Hashem](https://open.spotify.com/artist/2h0dMILtNngHh2mxwdjwB9), [TYH Boys](https://open.spotify.com/artist/3Vn8i9eiKjpOXz90OgTsHq), [Afiko.man](https://open.spotify.com/artist/3mBW1g5ym8JMxaSJkjxyOT) | [Feel The Ohr / Chanukah Days](https://open.spotify.com/album/3ihu1FaU3KnNU9lVI6IWio) | 3:14 |
 | 56 | [Chanukah in West Virigina](https://open.spotify.com/track/22KVabLdWzcL5rdkxf2oHJ) | [Scott Simons](https://open.spotify.com/artist/4Laf9GjtJqV5YO7lGu8grD) | [Chanukah in West Virigina](https://open.spotify.com/album/3ISZPeKwElfcOk2rUtG57Y) | 3:54 |
 | 57 | [Hanukkah](https://open.spotify.com/track/2kSlZjr1loCtrmOkOnn9Ns) | [The Living Sisters](https://open.spotify.com/artist/53tm77lKt6nFAbGVqEB3Vi) | [Harmony Is Real: Songs For A Happy Holiday](https://open.spotify.com/album/4P187y5vUyKIvc0M3OKTM8) | 4:08 |
 | 58 | [Watch Me \(Spin / Drey Drey\)](https://open.spotify.com/track/7uj6s6UffjBA4FQlOBLboG) | [Six13](https://open.spotify.com/artist/2H6beCAq0056SYdlQmlfEr) | [The Chanukah Collection](https://open.spotify.com/album/3TNq44s2UgzxrqiZVql9Hb) | 2:54 |
 
-Snapshot ID: `AAAAAJj91zKP51p0Hoc/XQ5EocKMZ9ih`
+Snapshot ID: `AAAAAJ0lPbbR6p3xWl8TUyYRS/YyRp9I`

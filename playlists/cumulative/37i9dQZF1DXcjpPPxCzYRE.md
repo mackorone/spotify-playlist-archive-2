@@ -4,7 +4,7 @@
 
 > Música tranquila para evadirse.
 
-589 songs - 1 day 9 hr 16 min
+590 songs - 1 day 9 hr 20 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -375,6 +375,7 @@
 | [No More](https://open.spotify.com/track/2t0y99SWyC7f2ZQZC4LbGw) | [Russ](https://open.spotify.com/artist/1z7b1Pr1rSlvWRzsW3HOrS) | [SANTIAGO](https://open.spotify.com/album/3mX0HbDt7oIzBBJHgQYnDY) | 3:10 | 2023-08-18 | 2023-10-24 |
 | [No One's Gonna Love You \(Stockholm Version\)](https://open.spotify.com/track/371akJ9fYgSkrAFMyWoTdL) | [Band of Horses](https://open.spotify.com/artist/0OdUWJ0sBjDrqHygGUXeCF) | [No One's Gonna Love You \(Stockholm Version\)](https://open.spotify.com/album/5Dw1GPGxKN6LfNoiFj3LJY) | 3:48 | 2022-11-11 |  |
 | [No quiero olvidar](https://open.spotify.com/track/3TQsgWjUstxYOHnX45kG6j) | [Andrea Santiago](https://open.spotify.com/artist/25ujYqJknNjORPPtUIDUXo) | [No quiero olvidar](https://open.spotify.com/album/6rvHGOXBV8YHqPV6dIe0tR) | 3:21 | 2025-12-04 |  |
+| [No quiero volver a ser la de antes](https://open.spotify.com/track/6oZVPofBrKsvWg0pJ1uE7c) | [Lía Luque](https://open.spotify.com/artist/0FHwXD2qLe7i1TReZjztpj) | [No quiero volver a ser la de antes](https://open.spotify.com/album/61cXMcq4Oq1UHrW96AggZx) | 3:32 | 2026-10-15 |  |
 | [No Right To Love You \- Acoustic](https://open.spotify.com/track/58VJmNB8oeoE2PRqCrduEo) | [Rhys Lewis](https://open.spotify.com/artist/4T2k9bgIoC8bbqjqiEl9vZ) | [Things I Chose To Remember](https://open.spotify.com/album/13DpMn525oKHXLQSgq96TF) | 3:49 | 2023-04-20 | 2024-04-19 |
 | [No Se Preocupe](https://open.spotify.com/track/5kxINGPGRziL4ja8KjBoAN) | [Sen Senra](https://open.spotify.com/artist/5lWasZeo8uWQk6GD8czJLq) | [PO2054AZ \(Vol.II\)](https://open.spotify.com/album/7G8LEEo2yjciNr77XSYiWA) | 3:40 | 2024-12-23 | 2025-03-07 |
 | [No tenemos tiempo](https://open.spotify.com/track/427KEmOZhZr2CgC43LtPEE) | [Lía Luque](https://open.spotify.com/artist/0FHwXD2qLe7i1TReZjztpj) | [No tenemos tiempo](https://open.spotify.com/album/72dfrCR0XLcPuRgV2G5oKu) | 3:32 | 2024-10-24 |  |
@@ -532,7 +533,7 @@
 | [To be, or not to be ugly](https://open.spotify.com/track/25cJX61SWZCOlgNuvHf20c) | [Hotel Ugly](https://open.spotify.com/artist/35WVTyRnKAoaGExqgktVyb) | [Ugly Duck](https://open.spotify.com/album/2gys1pKIbiL523OHH6H59P) | 2:54 | 2023-03-28 | 2023-04-21 |
 | [To Die For](https://open.spotify.com/track/2ZTYlnhhV1UAReg7wIGolx) | [Sam Smith](https://open.spotify.com/artist/2wY79sveU1sp5g7SokKOiI) | [To Die For](https://open.spotify.com/album/2motAeq8jZvHkF4VpbWSHf) | 3:13 | 2022-11-11 | 2023-03-28 |
 | [To Love](https://open.spotify.com/track/0a64exvT5aKVaRSmAVMaCT) | [Suki Waterhouse](https://open.spotify.com/artist/5GGJosGMs08YEmKTZJe1fL) | [To Love](https://open.spotify.com/album/3ZyQIG8k6Tx28reDJFBbOK) | 3:56 | 2023-03-16 | 2023-03-28 |
-| [Todavía](https://open.spotify.com/track/5M1C2wqiSk9OqEjZcJEYKe) | [VVV \[Trippin'you\]](https://open.spotify.com/artist/7tszuN9emjCCsC7kccXTFU) | [Todavía](https://open.spotify.com/album/4pknWOYZ5TNA0ikGrTolxG) | 4:06 | 2026-04-09 |  |
+| [Todavía](https://open.spotify.com/track/5M1C2wqiSk9OqEjZcJEYKe) | [VVV \[Trippin'you\]](https://open.spotify.com/artist/7tszuN9emjCCsC7kccXTFU) | [Todavía](https://open.spotify.com/album/4pknWOYZ5TNA0ikGrTolxG) | 4:06 | 2026-04-09 | 2026-11-26 |
 | [Todo Este Amor \(Capítulo IV: Huída\)](https://open.spotify.com/track/4ZFCQHDbp3V5d4TyN6wmPu) | [Víctor Monte](https://open.spotify.com/artist/3091wSOSRYaP4DUHhP1OHf), [nosoymeri](https://open.spotify.com/artist/6cF5Ndv7Q40DEc9Fxgxt4Z), [STEGA](https://open.spotify.com/artist/54FIZzRLP1L5KDxc8wqSxd) | [Todo Este Amor \(Capítulo IV: Huída\)](https://open.spotify.com/album/2W0qGvu9m4cRR918XTA1f4) | 3:06 | 2025-10-09 | 2026-04-10 |
 | [Todo Lo Que No Está](https://open.spotify.com/track/4bAiMF8czABeBuz7rKla1Z) | [Luísa Sobral](https://open.spotify.com/artist/4AEYOYl57sXoOtZQp0iaOT), [Zahara](https://open.spotify.com/artist/7uLePkJ2f0MwEcphODfkuu) | [Todo Lo Que No Está](https://open.spotify.com/album/0qVBsWgV60mxtja3ObOaD5) | 3:36 | 2024-04-11 | 2025-12-07 |
 | [Todo Marchitó](https://open.spotify.com/track/5NbGdDoAlBNn5i4HxWppYf) | [Los Telepáticos](https://open.spotify.com/artist/0cMwHZkCdMDnQDuWBkhMqS) | [Todo Marchitó](https://open.spotify.com/album/45vox10mCCmPfUgr3SkJ1v) | 4:07 | 2025-10-09 | 2026-03-14 |

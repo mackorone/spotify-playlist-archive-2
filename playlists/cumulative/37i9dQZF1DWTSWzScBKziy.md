@@ -4,7 +4,7 @@
 
 > Dive into a diverse collection of recent releases from Christian and inspirational artists across all genres\. Cover: Strings & Heart
 
-1,713 songs - 4 day 10 hr 54 min
+1,714 songs - 4 day 10 hr 58 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -432,6 +432,7 @@
 | [Galaxies](https://open.spotify.com/track/6TNKdTGZxdIAylvHE1s3l3) | [Sarah Kroger](https://open.spotify.com/artist/22cW8LmhiJAWAaFd0cfEbH) | [Galaxies](https://open.spotify.com/album/1UzAIlLZGqv1Bc0CgsEHrJ) | 3:19 | 2024-10-11 | 2024-11-30 |
 | [Get Behind Me](https://open.spotify.com/track/1YB5yZSciFB2PNoML0ZOhr) | [Emerson Day](https://open.spotify.com/artist/2rGlpKlL9sbKTES9sPsLuJ) | [Get Behind Me](https://open.spotify.com/album/2dztwnANbx13xfrRC6vDe8) | 3:45 | 2026-02-07 | 2026-03-22 |
 | [get lifted.](https://open.spotify.com/track/2lDh34bZ5aFLHyswYQTYOE) | [Capital Kings](https://open.spotify.com/artist/3lTIrl4h1Vov8fDaNqXUof) | [get lifted.](https://open.spotify.com/album/5Q6hIksgzWMVPVFTmG44IM) | 2:32 | 2026-05-01 | 2026-05-30 |
+| [Get This Far](https://open.spotify.com/track/3encXQfnLc6Z6LK4lQarun) | [Living Again](https://open.spotify.com/artist/4wQNGiwWYW2XFrSSPRdpI6) | [Get This Far](https://open.spotify.com/album/2NZmteaYUBnVBecCXYlLFn) | 3:55 | 2026-11-20 |  |
 | [GETHSEMANE](https://open.spotify.com/track/6TkBCir5LCB6IqlciqE7YY) | [Dell Mac](https://open.spotify.com/artist/1EswPCHgI3tydeJlDVMEFl) | [GETHSEMANE](https://open.spotify.com/album/4v9wQdqBZtZazIRQHMcv71) | 1:50 | 2026-01-17 | 2026-03-22 |
 | [Gethsemane](https://open.spotify.com/track/0LGXeV4PrAYhKZQeTNONeu) | [Hailey Hutcheson](https://open.spotify.com/artist/3AffCW7hqf6m5tx0cE2G1i) | [Gethsemane](https://open.spotify.com/album/5yQd81Om5SCUBsBimL3U3N) | 2:53 | 2026-11-06 |  |
 | [getting somewhere](https://open.spotify.com/track/3zlH1V1AgpsbqANEgWUz6k) | [Cross Gray](https://open.spotify.com/artist/1jmJ7gGsC5tgoQYXDnXArP) | [getting somewhere](https://open.spotify.com/album/7ga4VEdipwbDU0CdjmyGQ9) | 4:12 | 2026-06-19 | 2026-07-04 |
@@ -948,7 +949,7 @@
 | [Made A Way](https://open.spotify.com/track/1fg8ncMoFqRR7WvZKX3S3G) | [Caleb King](https://open.spotify.com/artist/0gqn0LqsZGIUUILzA2cXmy) | [Made A Way](https://open.spotify.com/album/3z05hMKtA5tLLw0x5nu3Kl) | 3:55 | 2026-02-07 | 2026-03-22 |
 | [made me whole again](https://open.spotify.com/track/4jyjkuq9td0Gwfmtlbsdco) | [Cade Biers](https://open.spotify.com/artist/4s8x6Fq67IQGuLVQUYUuPj) | [made me whole again](https://open.spotify.com/album/4R1toNTvpeJX7QMz2PQksb) | 2:53 | 2026-10-23 |  |
 | [Majesty](https://open.spotify.com/track/3E9U2sZ8cqCCVrPzJ6KGDq) | [Eliyah Black](https://open.spotify.com/artist/1exHNJVSFIsw0NR3OYk6fj), [Theresa Phondo](https://open.spotify.com/artist/6mCpEfb5IMFQ2Iqtl1h8iX), [Ryan Hylton](https://open.spotify.com/artist/1P8PmsHk2ZIxMQcFC3n7vm) | [Majesty](https://open.spotify.com/album/5iRJ5hu2x25swvNmHOkYV6) | 3:17 | 2024-06-07 | 2024-08-10 |
-| [Make A Way \- Acoustic](https://open.spotify.com/track/2KGteXCvvjH3hTqzqwGpEM) | [Tim Hughes](https://open.spotify.com/artist/3z1cp4jtdPSklLE90162gh), [Zo Ross\-Waddell](https://open.spotify.com/artist/20ecnCfTvktxgucxSilf5N) | [Make A Way \(Acoustic\)](https://open.spotify.com/album/1efsB9WeeqhgfvI3rbbkd0) | 4:02 | 2026-10-23 |  |
+| [Make A Way \- Acoustic](https://open.spotify.com/track/2KGteXCvvjH3hTqzqwGpEM) | [Tim Hughes](https://open.spotify.com/artist/3z1cp4jtdPSklLE90162gh), [Zo Ross\-Waddell](https://open.spotify.com/artist/20ecnCfTvktxgucxSilf5N) | [Make A Way \(Acoustic\)](https://open.spotify.com/album/1efsB9WeeqhgfvI3rbbkd0) | 4:02 | 2026-10-23 | 2026-11-26 |
 | [Make A Way \- Live](https://open.spotify.com/track/0m5DuldDDCH1e9Nb0eHOwM) | [Tim Hughes](https://open.spotify.com/artist/3z1cp4jtdPSklLE90162gh) | [Make A Way \(Live\)](https://open.spotify.com/album/1XtYSysw7b0gRFuTeaJLJ1) | 6:36 | 2026-09-18 | 2026-10-24 |
 | [make heaven crowded](https://open.spotify.com/track/7irVYcFSqep5NLZpDbaTdF) | [Josiah Queen](https://open.spotify.com/artist/7yAymwuYh9RcpX84GSNIq2) | [make heaven crowded](https://open.spotify.com/album/5KPA7IRga1XPU0xiuUOxns) | 2:59 | 2026-05-19 | 2026-07-04 |
 | [Make It Good](https://open.spotify.com/track/553IXhpPYgf5yVWNQeM7iB) | [Roosevelt Stewart](https://open.spotify.com/artist/2KVpuzFwWhwa7oR6g5tvmk), [Todd Galberth](https://open.spotify.com/artist/4EPtawsSClG1agy1MyVkMW) | [Memory](https://open.spotify.com/album/5j6AoIkhOX3kRHx4PkCvmD) | 11:30 | 2026-10-23 |  |

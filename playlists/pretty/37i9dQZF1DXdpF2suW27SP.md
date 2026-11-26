@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdpF2suW27SP.md) - [plain]
 
 > Gama WNTD e Bispo entram na zona.
 
-[Spotify](https://open.spotify.com/user/spotify) - 192,724 likes - 75 songs - 4 hr 9 min
+[Spotify](https://open.spotify.com/user/spotify) - 192,727 likes - 75 songs - 4 hr 9 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdpF2suW27SP.md) - [plain]
 | 74 | [QUAL É O CUSTO](https://open.spotify.com/track/4S8AHhGVY2TeMhMMSZVFAM) | [Wine TKK](https://open.spotify.com/artist/4z82basJVVCSjAoZVkb7Rx), [Giovanni](https://open.spotify.com/artist/7sMiAzj6PJ8f5yBFoJZgb4), [Michell](https://open.spotify.com/artist/7mQvIzU4Q5g6FNera2Sh3C), [Kuptz](https://open.spotify.com/artist/5LzaJ0lNZxQBkZxzOqJYkd) | [QUAL É O CUSTO](https://open.spotify.com/album/0oPn7jw0qg7Y32xXSg7Luo) | 3:28 |
 | 75 | [Nasty](https://open.spotify.com/track/3F8TheZ1kyNHxt7TiWwSFl) | [Waze](https://open.spotify.com/artist/0CHentDviLeOrlfyu96uVm) | [Nasty](https://open.spotify.com/album/3KNJWO4FFuD5QwEdnHY99Q) | 2:45 |
 
-Snapshot ID: `AAAAAEPRcRYQUvqwJ5biXxs/hNFNVB+D`
+Snapshot ID: `AAAAAIIP7fYSQ8LXhyJg2TOxsQWmT3Xg`

@@ -1,12 +1,12 @@
 {
   "description": "This Hanukkah playlist features all the classics and the funny favorites.",
-  "num_followers": 37186,
+  "num_followers": 37202,
   "original_name": "Hanukkah",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAJj91zKP51p0Hoc/XQ5EocKMZ9ih",
+  "snapshot_id": "AAAAAJ0lPbbR6p3xWl8TUyYRS/YyRp9I",
   "tracks": [
     {
       "added_at": "2026-11-23 19:23:08",
@@ -914,6 +914,10 @@
         {
           "name": "TYH Boys",
           "url": "https://open.spotify.com/artist/3Vn8i9eiKjpOXz90OgTsHq"
+        },
+        {
+          "name": "Afiko.man",
+          "url": "https://open.spotify.com/artist/3mBW1g5ym8JMxaSJkjxyOT"
         }
       ],
       "duration_ms": 194621,

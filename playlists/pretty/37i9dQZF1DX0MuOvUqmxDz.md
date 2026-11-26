@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0MuOvUqmxDz.md) - [plain]
 
 > Celebrate the Holiday Season with your favorite country artists\. Cover: Dan + Shay
 
-[Spotify](https://open.spotify.com/user/spotify) - 438,443 likes - 95 songs - 5 hr 4 min
+[Spotify](https://open.spotify.com/user/spotify) - 438,887 likes - 95 songs - 5 hr 4 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -104,4 +104,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0MuOvUqmxDz.md) - [plain]
 | 94 | [Merry Christmas Baby](https://open.spotify.com/track/6Ldujffd4je4ReO6PxcQ5O) | [Brett Eldredge](https://open.spotify.com/artist/0qSX3s5pJnAlSsgsCne8Cz) | [Mr\. Christmas](https://open.spotify.com/album/5ZsuWI1KwuIIjlhjEjpVri) | 3:45 |
 | 95 | [Santa Claus Is Coming To Town](https://open.spotify.com/track/5wWH8VUqvXBLhM3BLQekpz) | [Jessie James Decker](https://open.spotify.com/artist/0GzIauSfKRc5BlNXpTWAGz) | [Santa Claus Is Coming To Town](https://open.spotify.com/album/3mXPWjL8i4bEIEChLtpy1Q) | 2:49 |
 
-Snapshot ID: `AAAAAAIjqI3yMr9ZAtH2YJcaPA3j65id`
+Snapshot ID: `AAAAAELenUF6hrrhrl9UJ2R0mFqHc/ZZ`

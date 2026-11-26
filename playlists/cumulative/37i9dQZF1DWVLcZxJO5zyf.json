@@ -3668,7 +3668,7 @@
       ],
       "date_added": "2026-10-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-26",
       "duration_ms": 212250,
       "name": "EXCESSO",
       "url": "https://open.spotify.com/track/70ok96cL74jBakuoJma00C"
@@ -8376,6 +8376,28 @@
       "duration_ms": 213532,
       "name": "q prazer",
       "url": "https://open.spotify.com/track/2qnP80eqDwpQHdFnYA1dQN"
+    },
+    {
+      "album": {
+        "name": "Qualquer Sexta-Feira",
+        "url": "https://open.spotify.com/album/7hC1JzQdwrN4rLZPfvlytw"
+      },
+      "artists": [
+        {
+          "name": "Veigh",
+          "url": "https://open.spotify.com/artist/4YqwRbMLqGHRHLS1w2ZKse"
+        },
+        {
+          "name": "Supernova Ent",
+          "url": "https://open.spotify.com/artist/3prRKGJz16RRMRSIM97nHw"
+        }
+      ],
+      "date_added": "2026-11-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 167273,
+      "name": "Qualquer Sexta-Feira",
+      "url": "https://open.spotify.com/track/5Passy3MaQaYGJKXBTKzOY"
     },
     {
       "album": {

@@ -1,12 +1,12 @@
 {
   "description": "Eletr\u00f4nico do momento para curtir onde estiver. Foto: \u00d6wnboss",
-  "num_followers": 1163411,
+  "num_followers": 1163214,
   "original_name": "Dance Paradise",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAHmRxCQK1uuWWIaK4evdDBDfR+O+",
+  "snapshot_id": "AAAAAD2KED3Y6d7mNrUo/1zmERYU0blJ",
   "tracks": [
     {
       "added_at": "2026-11-20 03:03:12",
@@ -126,6 +126,10 @@
         {
           "name": "DJ Glen",
           "url": "https://open.spotify.com/artist/7FhUEuhPe1odyNav1iHfvd"
+        },
+        {
+          "name": "Kyozo",
+          "url": "https://open.spotify.com/artist/6RvOjSdkA47bpr5qejYm1v"
         }
       ],
       "duration_ms": 225136,

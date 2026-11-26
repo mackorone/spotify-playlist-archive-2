@@ -1,12 +1,12 @@
 {
   "description": "Os grandes artistas da MPB. Foto: Maria Beth\u00e2nia",
-  "num_followers": 1474850,
+  "num_followers": 1474839,
   "original_name": "O Melhor da MPB",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAGRxd35Yh0t6hEFxU+LpVnzjzOVT",
+  "snapshot_id": "AAAAAFanve+AMSEfgkQvq6156zqn93kt",
   "tracks": [
     {
       "added_at": "2026-11-20 03:01:03",
@@ -27,18 +27,18 @@
     {
       "added_at": "2026-11-20 03:01:03",
       "album": {
-        "name": "Lulu Ac\u00fastico",
-        "url": "https://open.spotify.com/album/14xCfgcBE9uCrwwR36NoVB"
+        "name": "Ana Rita Joana Iracema Carolina",
+        "url": "https://open.spotify.com/album/4EeOCRFhVMUClJ50RquRwK"
       },
       "artists": [
         {
-          "name": "Lulu Santos",
-          "url": "https://open.spotify.com/artist/0A1oy7PC7fdzURgaLaWkL1"
+          "name": "Ana Carolina",
+          "url": "https://open.spotify.com/artist/4HP9KltldfmkH2M2pQozzN"
         }
       ],
-      "duration_ms": 218266,
-      "name": "Apenas Mais uma de Amor",
-      "url": "https://open.spotify.com/track/6YNCE5qtrTa7YcnAOAEsDQ"
+      "duration_ms": 305666,
+      "name": "Quem de n\u00f3s Dois (La Mia Storia Tra Le Dita)",
+      "url": "https://open.spotify.com/track/2yQMmtem48vOjB1OXAvbKD"
     },
     {
       "added_at": "2026-11-20 03:01:03",
@@ -59,18 +59,18 @@
     {
       "added_at": "2026-11-20 03:01:03",
       "album": {
-        "name": "Ana Rita Joana Iracema Carolina",
-        "url": "https://open.spotify.com/album/4EeOCRFhVMUClJ50RquRwK"
+        "name": "Lulu Ac\u00fastico",
+        "url": "https://open.spotify.com/album/14xCfgcBE9uCrwwR36NoVB"
       },
       "artists": [
         {
-          "name": "Ana Carolina",
-          "url": "https://open.spotify.com/artist/4HP9KltldfmkH2M2pQozzN"
+          "name": "Lulu Santos",
+          "url": "https://open.spotify.com/artist/0A1oy7PC7fdzURgaLaWkL1"
         }
       ],
-      "duration_ms": 305666,
-      "name": "Quem de n\u00f3s Dois (La Mia Storia Tra Le Dita)",
-      "url": "https://open.spotify.com/track/2yQMmtem48vOjB1OXAvbKD"
+      "duration_ms": 218266,
+      "name": "Apenas Mais uma de Amor",
+      "url": "https://open.spotify.com/track/6YNCE5qtrTa7YcnAOAEsDQ"
     },
     {
       "added_at": "2026-11-20 03:01:03",
@@ -91,22 +91,6 @@
     {
       "added_at": "2026-11-20 03:01:03",
       "album": {
-        "name": "Carlos, Erasmo [Vers\u00e3o Com B\u00f4nus (1971)]",
-        "url": "https://open.spotify.com/album/2qimhNvbQmkAxG9GS8wj5M"
-      },
-      "artists": [
-        {
-          "name": "Erasmo Carlos",
-          "url": "https://open.spotify.com/artist/6cHQUDAPGKRE2NbVjBlOcz"
-        }
-      ],
-      "duration_ms": 227040,
-      "name": "\u00c9 Preciso Dar Um Jeito, Meu Amigo",
-      "url": "https://open.spotify.com/track/1V1taPaEp2dntrUKCAnnw5"
-    },
-    {
-      "added_at": "2026-11-20 03:01:03",
-      "album": {
         "name": "A Bossa De Caetano",
         "url": "https://open.spotify.com/album/2YE1G8rqX7FPwixLn3N5sv"
       },
@@ -119,6 +103,22 @@
       "duration_ms": 187626,
       "name": "Samba De Ver\u00e3o",
       "url": "https://open.spotify.com/track/1vt0n3GcAYrsSMue1C6OtC"
+    },
+    {
+      "added_at": "2026-11-20 03:01:03",
+      "album": {
+        "name": "Carlos, Erasmo [Vers\u00e3o Com B\u00f4nus (1971)]",
+        "url": "https://open.spotify.com/album/2qimhNvbQmkAxG9GS8wj5M"
+      },
+      "artists": [
+        {
+          "name": "Erasmo Carlos",
+          "url": "https://open.spotify.com/artist/6cHQUDAPGKRE2NbVjBlOcz"
+        }
+      ],
+      "duration_ms": 227040,
+      "name": "\u00c9 Preciso Dar Um Jeito, Meu Amigo",
+      "url": "https://open.spotify.com/track/1V1taPaEp2dntrUKCAnnw5"
     },
     {
       "added_at": "2026-11-20 03:01:03",
@@ -827,26 +827,6 @@
     {
       "added_at": "2026-11-20 03:01:03",
       "album": {
-        "name": "Elas Cantam Arlindo",
-        "url": "https://open.spotify.com/album/66yRQTSxY2dC2UdflCdjZg"
-      },
-      "artists": [
-        {
-          "name": "Vanessa Da Mata",
-          "url": "https://open.spotify.com/artist/57pVvBwa3ZCR9LsVlkLXj7"
-        },
-        {
-          "name": "Arlindo Cruz",
-          "url": "https://open.spotify.com/artist/096an3uS6ZaK2XySae6SqP"
-        }
-      ],
-      "duration_ms": 206910,
-      "name": "O Que \u00e9 o Amor",
-      "url": "https://open.spotify.com/track/29Ftly2gNWx246MSdIkDZG"
-    },
-    {
-      "added_at": "2026-11-20 03:01:03",
-      "album": {
         "name": "Itapuano",
         "url": "https://open.spotify.com/album/4sbckdbcPaSoyBhSFvJaax"
       },
@@ -863,6 +843,26 @@
       "duration_ms": 190991,
       "name": "Tamb\u00e9m Pede Bis",
       "url": "https://open.spotify.com/track/12WNxDkTfNOVy5qajaRn6T"
+    },
+    {
+      "added_at": "2026-11-20 03:01:03",
+      "album": {
+        "name": "Elas Cantam Arlindo",
+        "url": "https://open.spotify.com/album/66yRQTSxY2dC2UdflCdjZg"
+      },
+      "artists": [
+        {
+          "name": "Vanessa Da Mata",
+          "url": "https://open.spotify.com/artist/57pVvBwa3ZCR9LsVlkLXj7"
+        },
+        {
+          "name": "Arlindo Cruz",
+          "url": "https://open.spotify.com/artist/096an3uS6ZaK2XySae6SqP"
+        }
+      ],
+      "duration_ms": 206910,
+      "name": "O Que \u00e9 o Amor",
+      "url": "https://open.spotify.com/track/29Ftly2gNWx246MSdIkDZG"
     },
     {
       "added_at": "2026-11-20 03:01:03",
@@ -1199,26 +1199,6 @@
     {
       "added_at": "2026-11-20 03:01:03",
       "album": {
-        "name": "Mem\u00f3rias (2001) - Ao Vivo",
-        "url": "https://open.spotify.com/album/3nUrkarTlEKsV56TgJ5PQK"
-      },
-      "artists": [
-        {
-          "name": "Marisa Monte",
-          "url": "https://open.spotify.com/artist/0rSTXALHu0EKAawPLBdODH"
-        },
-        {
-          "name": "Arnaldo Antunes",
-          "url": "https://open.spotify.com/artist/7lOUbhzQ1F3xcCMEcTtbO5"
-        }
-      ],
-      "duration_ms": 200820,
-      "name": "Amor I Love You (feat. Arnaldo Antunes) - Ao Vivo",
-      "url": "https://open.spotify.com/track/5x5z1Agy0vAlPqqJQL6VQK"
-    },
-    {
-      "added_at": "2026-11-20 03:01:03",
-      "album": {
         "name": "Lenine In Cit\u00e9 (Deluxe)",
         "url": "https://open.spotify.com/album/0wqZdjiUhFzPahuSLMcDnI"
       },
@@ -1247,6 +1227,26 @@
       "duration_ms": 305693,
       "name": "Bom-Senso",
       "url": "https://open.spotify.com/track/7j2ExpvZTeURjspK443YKU"
+    },
+    {
+      "added_at": "2026-11-20 03:01:03",
+      "album": {
+        "name": "Mem\u00f3rias (2001) - Ao Vivo",
+        "url": "https://open.spotify.com/album/3nUrkarTlEKsV56TgJ5PQK"
+      },
+      "artists": [
+        {
+          "name": "Marisa Monte",
+          "url": "https://open.spotify.com/artist/0rSTXALHu0EKAawPLBdODH"
+        },
+        {
+          "name": "Arnaldo Antunes",
+          "url": "https://open.spotify.com/artist/7lOUbhzQ1F3xcCMEcTtbO5"
+        }
+      ],
+      "duration_ms": 200820,
+      "name": "Amor I Love You (feat. Arnaldo Antunes) - Ao Vivo",
+      "url": "https://open.spotify.com/track/5x5z1Agy0vAlPqqJQL6VQK"
     },
     {
       "added_at": "2026-11-20 03:01:03",
@@ -1283,22 +1283,6 @@
     {
       "added_at": "2026-11-20 03:01:03",
       "album": {
-        "name": "O Que Voc\u00ea Quer Saber De Verdade (Standard Version)",
-        "url": "https://open.spotify.com/album/2zPP7zLELwMI57kRyZKaPf"
-      },
-      "artists": [
-        {
-          "name": "Marisa Monte",
-          "url": "https://open.spotify.com/artist/0rSTXALHu0EKAawPLBdODH"
-        }
-      ],
-      "duration_ms": 173586,
-      "name": "Depois",
-      "url": "https://open.spotify.com/track/6nMFcVqjimSo5mj7Btfkym"
-    },
-    {
-      "added_at": "2026-11-20 03:01:03",
-      "album": {
         "name": "Constru\u00e7\u00e3o",
         "url": "https://open.spotify.com/album/5YARZzYbonX4CbZ5hucHPc"
       },
@@ -1327,6 +1311,22 @@
       "duration_ms": 121986,
       "name": "Chega de Saudade",
       "url": "https://open.spotify.com/track/0dWOiVQwoUYTtXD0VVgmJQ"
+    },
+    {
+      "added_at": "2026-11-20 03:01:03",
+      "album": {
+        "name": "O Que Voc\u00ea Quer Saber De Verdade (Standard Version)",
+        "url": "https://open.spotify.com/album/2zPP7zLELwMI57kRyZKaPf"
+      },
+      "artists": [
+        {
+          "name": "Marisa Monte",
+          "url": "https://open.spotify.com/artist/0rSTXALHu0EKAawPLBdODH"
+        }
+      ],
+      "duration_ms": 173586,
+      "name": "Depois",
+      "url": "https://open.spotify.com/track/6nMFcVqjimSo5mj7Btfkym"
     },
     {
       "added_at": "2026-11-20 03:01:03",
@@ -1363,22 +1363,6 @@
     {
       "added_at": "2026-11-20 03:01:03",
       "album": {
-        "name": "Marisa Monte",
-        "url": "https://open.spotify.com/album/3Wn2Mf4xgevclfZL1uF82L"
-      },
-      "artists": [
-        {
-          "name": "Marisa Monte",
-          "url": "https://open.spotify.com/artist/0rSTXALHu0EKAawPLBdODH"
-        }
-      ],
-      "duration_ms": 182466,
-      "name": "A Sua / Sampler: Coqueiro De Itapoan",
-      "url": "https://open.spotify.com/track/0sg4cLghBr70wAc7I05nZ7"
-    },
-    {
-      "added_at": "2026-11-20 03:01:03",
-      "album": {
         "name": "For\u00e7a Bruta (1970)",
         "url": "https://open.spotify.com/album/5Lfeb1NZlD2cZn7EVFIWi4"
       },
@@ -1411,6 +1395,22 @@
       "duration_ms": 214866,
       "name": "\u00c1guas De Mar\u00e7o",
       "url": "https://open.spotify.com/track/1CFpxBiLtcnBVIbnmAJCBk"
+    },
+    {
+      "added_at": "2026-11-20 03:01:03",
+      "album": {
+        "name": "Marisa Monte",
+        "url": "https://open.spotify.com/album/3Wn2Mf4xgevclfZL1uF82L"
+      },
+      "artists": [
+        {
+          "name": "Marisa Monte",
+          "url": "https://open.spotify.com/artist/0rSTXALHu0EKAawPLBdODH"
+        }
+      ],
+      "duration_ms": 182466,
+      "name": "A Sua / Sampler: Coqueiro De Itapoan",
+      "url": "https://open.spotify.com/track/0sg4cLghBr70wAc7I05nZ7"
     },
     {
       "added_at": "2026-11-20 03:01:03",

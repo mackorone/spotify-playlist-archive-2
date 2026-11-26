@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/6APhyezi0mduQmsYIurjeg.md) - [plain]
 
 > Submit your song: https:&\#x2F;&\#x2F;dailyplaylists.com&\#x2F;playlists&\#x2F;6APhyezi0mduQmsYIurjeg
 
-[RADIO PLUG PRO](https://open.spotify.com/user/31j62y3lgk2wiycoov2nuie5hp3e) - 1,281 likes - 644 songs - 1 day 15 hr 5 min
+[RADIO PLUG PRO](https://open.spotify.com/user/31j62y3lgk2wiycoov2nuie5hp3e) - 1,281 likes - 646 songs - 1 day 15 hr 11 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -652,5 +652,7 @@ pretty - [cumulative](/playlists/cumulative/6APhyezi0mduQmsYIurjeg.md) - [plain]
 | 642 | [Company](https://open.spotify.com/track/5qScYWI7wcffKfcoysfjJW) | [Barbara Grace Romano](https://open.spotify.com/artist/2mlirNl1shb7bkoEaOGCXS) | [Company](https://open.spotify.com/album/6LYuV2VYA0JKLGCinc92gD) | 5:51 |
 | 643 | [Amsterdam](https://open.spotify.com/track/5uaYokdz8GYpEsmF4Ewn9w) | [Costa Calcinara](https://open.spotify.com/artist/7rCyfyNrDTZyh5Zfnq3oM1) | [Che cos'è l'amore](https://open.spotify.com/album/7ejVBP9ObEiQzpWAhUhAmX) | 2:35 |
 | 644 | [Tears \(Kyo Kusanagi The King of Fighters '99\) \- Vocal Version](https://open.spotify.com/track/6YBiU7aCpxDmApjb3AODLR) | [Vocal Game Orchestra](https://open.spotify.com/artist/4LvoFWmhUT7CNWjppMoaUK) | [Tears \(Kyo Kusanagi The King of Fighters '99\) \[Vocal Version\]](https://open.spotify.com/album/5Py5DnojD5T3nj0aXKnU4g) | 4:12 |
+| 645 | [LEVEL OVER LEVEL](https://open.spotify.com/track/1lIKAnGEzTtBQRjfBIGXsO) | [Twist & Writhe](https://open.spotify.com/artist/4zRz9OrERKG1EJriVM7U0s) | [LEVEL OVER LEVEL](https://open.spotify.com/album/5VQXkQId7M1JpsVQUF5I1s) | 3:30 |
+| 646 | [Haga Lo Que Haga](https://open.spotify.com/track/7rtCC8R2Id26sFryZuO13A) | [Mil Disparos](https://open.spotify.com/artist/4yhzOd2WrjwPz9yHG2TwKn) | [Haga Lo Que Haga](https://open.spotify.com/album/1VKklGTrS2IZ2HlskmH7Ql) | 2:34 |
 
-Snapshot ID: `AAADGipUHzjNHz+3SkzEef8I0d+hlQ7V`
+Snapshot ID: `AAADHM93pzXxtZ8sMEU+ntbnzgw7Vb1A`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWvrRGuT6dlZ.md) - [plain]
 
 > The best new music from fresh and emerging artists\. Curated with love by human Spotify editors\. Cover: Elizabeth Everly\. Artwork: Isu Kim.
 
-[Spotify](https://open.spotify.com/user/spotify) - 7,468 likes - 44 songs - 2 hr 26 min
+[Spotify](https://open.spotify.com/user/spotify) - 7,470 likes - 44 songs - 2 hr 26 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -53,4 +53,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWvrRGuT6dlZ.md) - [plain]
 | 43 | [刚好的Just nice](https://open.spotify.com/track/1Epv1zjABotwO1NTdWNR0J) | [Bonnie Loo](https://open.spotify.com/artist/3G5MSDyUhWCcN89SBqaCUV) | [刚好的Just nice](https://open.spotify.com/album/1WAeAtrSoYA4EhHhGBwUat) | 3:19 |
 | 44 | [Bebas](https://open.spotify.com/track/4fH93CIlXefUz7dLNj4iUA) | [Mierul Hazly](https://open.spotify.com/artist/0NYxGHe2CH4lBJqXcIXuXp) | [Bebas](https://open.spotify.com/album/5OtRVC36qq6m3MCh4baQgG) | 3:55 |
 
-Snapshot ID: `AAAAAEH8mLWkS4lhUcPjPhFn4IXs5U1Q`
+Snapshot ID: `AAAAAD4Cx0DnoeQYw1pOc0XaSjhS2E7E`

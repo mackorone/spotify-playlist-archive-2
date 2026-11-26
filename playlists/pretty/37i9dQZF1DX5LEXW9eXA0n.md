@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5LEXW9eXA0n.md) - [plain]
 
 > New & hot K\-Pop ballads\. \(Cover: Shin Yong Jae \(신용재\)\) \(가장 핫한 최신 국내 발라드를 만나보세요!\)
 
-[Spotify](https://open.spotify.com/user/spotify) - 414,397 likes - 100 songs - 6 hr 17 min
+[Spotify](https://open.spotify.com/user/spotify) - 414,434 likes - 100 songs - 6 hr 17 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5LEXW9eXA0n.md) - [plain]
 | 99 | [bluescreen](https://open.spotify.com/track/3ZXW65JwQ2hwQab4dOSP9b) | [JI SUYEON](https://open.spotify.com/artist/70iA690AZviTkQKgfjlSK6) | [bluescreen](https://open.spotify.com/album/6syQENwrbxw2L266pROpdn) | 3:25 |
 | 100 | [On such a wonderful night](https://open.spotify.com/track/2nnIHyTZOnFvkYeKeebFvu) | [Cha ga eul](https://open.spotify.com/artist/4mSV7GdIFUByJJVxI4HyOi) | [On such a wonderful night](https://open.spotify.com/album/4f2toQm38HkmoRDWKCM1s7) | 3:33 |
 
-Snapshot ID: `AAAAANu2inApTiz8oujnGClEtEjh+h+P`
+Snapshot ID: `AAAAANOSDufGfPUUF/qUj1/n4gdnxqxg`

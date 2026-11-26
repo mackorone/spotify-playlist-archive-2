@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX95MHDa0jj42.md) - [plain]
 
 > sunny bossa beats to chill, focus or study to.
 
-[Spotify](https://open.spotify.com/user/spotify) - 82,253 likes - 97 songs - 3 hr 35 min
+[Spotify](https://open.spotify.com/user/spotify) - 82,283 likes - 97 songs - 3 hr 35 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -106,4 +106,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX95MHDa0jj42.md) - [plain]
 | 96 | [Brazilin'](https://open.spotify.com/track/3hx3c3YtRE7QK1hM7YjguB) | [Marcos Caixa](https://open.spotify.com/artist/2MnrAvsTKE41QWJzhqNmq5) | [Brazilin'](https://open.spotify.com/album/2h31A8SswvxZPlpIhgmzGX) | 3:00 |
 | 97 | [Summer Breeze](https://open.spotify.com/track/7i6DMIhGwB3NJ77NisaoHD) | [Erwin Do](https://open.spotify.com/artist/4EUMzs3VfIVjB5yrHv153S), [l'eupe](https://open.spotify.com/artist/67AA1XRZU4GSLZQe83BVk9), [Soul Food Horns](https://open.spotify.com/artist/42gnrsSSKKNNmfAJ0o3oyN) | [Summer Breeze](https://open.spotify.com/album/2KV9jkMSeiJKRoQbhBD4U4) | 1:51 |
 
-Snapshot ID: `AAAAAERbtFEF4gB8qsyp5R2S6r8bTW4F`
+Snapshot ID: `AAAAALmeznEKZWerdADXHviYQNA9cBpJ`

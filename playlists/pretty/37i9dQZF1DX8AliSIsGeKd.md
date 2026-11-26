@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8AliSIsGeKd.md) - [plain]
 
 > The best new electronic music\. Cover: DJ Gigola
 
-[Spotify](https://open.spotify.com/user/spotify) - 760,800 likes - 90 songs - 6 hr 7 min
+[Spotify](https://open.spotify.com/user/spotify) - 760,828 likes - 90 songs - 6 hr 7 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -99,4 +99,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8AliSIsGeKd.md) - [plain]
 | 89 | [Raw](https://open.spotify.com/track/6UJhLeYdYqiEQJGBqBAlSN) | [Âme](https://open.spotify.com/artist/5muFO8VqYRCRW13EkvX564), [Rhye](https://open.spotify.com/artist/2AcUPzkVWo81vumdzeLLRN) | [Love Is The Dance](https://open.spotify.com/album/3GMbNTMjPI2gJULzw5RaK5) | 4:00 |
 | 90 | [Binary Bounce](https://open.spotify.com/track/07kGcZIHEfIs8E7vV9gua1) | [Eddi Sander](https://open.spotify.com/artist/3mjaevSsGCBGEW73rbp9f5), [Phil Errotari](https://open.spotify.com/artist/366b8j4IhZJwTEuEAdgcBn) | [Binary Bounce](https://open.spotify.com/album/4mA0evPyNifcz7iOEyGaz3) | 4:18 |
 
-Snapshot ID: `AAAAACxoznsp1E2rhgjTdmsxvuf5C+Of`
+Snapshot ID: `AAAAACQwsnv7k8cBOWxGHMrZqWYSAkzw`

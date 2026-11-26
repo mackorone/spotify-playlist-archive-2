@@ -1,12 +1,12 @@
 {
   "description": "Le meilleur des ann\u00e9es 80 en 80 titres.",
-  "num_followers": 1176744,
+  "num_followers": 1176713,
   "original_name": "Ann\u00e9es 80",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAGqJ4DaJFjlR6X+AlHaYB4EF3HIe",
+  "snapshot_id": "AAAAAPzLZppcTEMPnzmbVCBTE/6wNI5G",
   "tracks": [
     {
       "added_at": "2026-11-16 23:00:02",
@@ -91,6 +91,22 @@
     {
       "added_at": "2026-11-16 23:00:02",
       "album": {
+        "name": "Whitney",
+        "url": "https://open.spotify.com/album/5Vdzprr5cOqXQo44eHeV7t"
+      },
+      "artists": [
+        {
+          "name": "Whitney Houston",
+          "url": "https://open.spotify.com/artist/6XpaIBNiVzIetEPCWDvAFP"
+        }
+      ],
+      "duration_ms": 292875,
+      "name": "I Wanna Dance with Somebody (Who Loves Me)",
+      "url": "https://open.spotify.com/track/2tUBqZG2AbRi7Q0BIrVrEj"
+    },
+    {
+      "added_at": "2026-11-16 23:00:02",
+      "album": {
         "name": "Sweet Dreams (Are Made Of This)",
         "url": "https://open.spotify.com/album/5jNDWA19BJbE24x1UUJGRY"
       },
@@ -127,22 +143,6 @@
       "duration_ms": 273173,
       "name": "Maneater",
       "url": "https://open.spotify.com/track/7j74lucZ59vqN67Ipe2ZcY"
-    },
-    {
-      "added_at": "2026-11-16 23:00:02",
-      "album": {
-        "name": "Whitney",
-        "url": "https://open.spotify.com/album/5Vdzprr5cOqXQo44eHeV7t"
-      },
-      "artists": [
-        {
-          "name": "Whitney Houston",
-          "url": "https://open.spotify.com/artist/6XpaIBNiVzIetEPCWDvAFP"
-        }
-      ],
-      "duration_ms": 292875,
-      "name": "I Wanna Dance with Somebody (Who Loves Me)",
-      "url": "https://open.spotify.com/track/2tUBqZG2AbRi7Q0BIrVrEj"
     },
     {
       "added_at": "2026-11-16 23:00:02",
@@ -243,22 +243,6 @@
     {
       "added_at": "2026-11-16 23:00:02",
       "album": {
-        "name": "Speak and Spell (Deluxe)",
-        "url": "https://open.spotify.com/album/0Zp2eVzR9FW6lKX05lRpcu"
-      },
-      "artists": [
-        {
-          "name": "Depeche Mode",
-          "url": "https://open.spotify.com/artist/762310PdDnwsDxAQxzQkfX"
-        }
-      ],
-      "duration_ms": 220893,
-      "name": "Just Can't Get Enough",
-      "url": "https://open.spotify.com/track/0qi4b1l0eT3jpzeNHeFXDT"
-    },
-    {
-      "added_at": "2026-11-16 23:00:02",
-      "album": {
         "name": "Fran\u00e7ois",
         "url": "https://open.spotify.com/album/17EANLCoErHdo9FpzMx25q"
       },
@@ -271,6 +255,22 @@
       "duration_ms": 266600,
       "name": "Voyage voyage",
       "url": "https://open.spotify.com/track/2d8D7uk3tbAThjRkdfrx9c"
+    },
+    {
+      "added_at": "2026-11-16 23:00:02",
+      "album": {
+        "name": "Speak and Spell (Deluxe)",
+        "url": "https://open.spotify.com/album/0Zp2eVzR9FW6lKX05lRpcu"
+      },
+      "artists": [
+        {
+          "name": "Depeche Mode",
+          "url": "https://open.spotify.com/artist/762310PdDnwsDxAQxzQkfX"
+        }
+      ],
+      "duration_ms": 220893,
+      "name": "Just Can't Get Enough",
+      "url": "https://open.spotify.com/track/0qi4b1l0eT3jpzeNHeFXDT"
     },
     {
       "added_at": "2026-11-16 23:00:02",
@@ -831,22 +831,6 @@
     {
       "added_at": "2026-11-16 23:00:02",
       "album": {
-        "name": "Quand la musique est bonne",
-        "url": "https://open.spotify.com/album/3yMtfupTbgavO0AxQbt3UZ"
-      },
-      "artists": [
-        {
-          "name": "Jean-Jacques Goldman",
-          "url": "https://open.spotify.com/artist/2Cx19OTMqa6gpz2l60cGG2"
-        }
-      ],
-      "duration_ms": 234986,
-      "name": "Au bout de mes r\u00eaves",
-      "url": "https://open.spotify.com/track/6QSwxzWUeF0w4N7qRxonbb"
-    },
-    {
-      "added_at": "2026-11-16 23:00:02",
-      "album": {
         "name": "Abracadabra",
         "url": "https://open.spotify.com/album/6E16zlklECgO6wpYT9mkzD"
       },
@@ -859,6 +843,22 @@
       "duration_ms": 286533,
       "name": "Confidence pour confidence - Version originale 1981",
       "url": "https://open.spotify.com/track/6qfjUmIxPluNISxBgJfvM3"
+    },
+    {
+      "added_at": "2026-11-16 23:00:02",
+      "album": {
+        "name": "Quand la musique est bonne",
+        "url": "https://open.spotify.com/album/3yMtfupTbgavO0AxQbt3UZ"
+      },
+      "artists": [
+        {
+          "name": "Jean-Jacques Goldman",
+          "url": "https://open.spotify.com/artist/2Cx19OTMqa6gpz2l60cGG2"
+        }
+      ],
+      "duration_ms": 234986,
+      "name": "Au bout de mes r\u00eaves",
+      "url": "https://open.spotify.com/track/6QSwxzWUeF0w4N7qRxonbb"
     },
     {
       "added_at": "2026-11-16 23:00:02",
@@ -895,6 +895,22 @@
     {
       "added_at": "2026-11-16 23:00:02",
       "album": {
+        "name": "On the Beach",
+        "url": "https://open.spotify.com/album/0mboDrVpzDMqABhzrAkX4m"
+      },
+      "artists": [
+        {
+          "name": "Chris Rea",
+          "url": "https://open.spotify.com/artist/5KEG7G8LDYlHgFDqZyEEs2"
+        }
+      ],
+      "duration_ms": 302426,
+      "name": "On the Beach",
+      "url": "https://open.spotify.com/track/0fJMNr4wzaVWNM2nb9hdqx"
+    },
+    {
+      "added_at": "2026-11-16 23:00:02",
+      "album": {
         "name": "Greatest Hits",
         "url": "https://open.spotify.com/album/5Qc9yw34BRN9n8pi5YKZ2D"
       },
@@ -911,22 +927,6 @@
       "duration_ms": 243800,
       "name": "When the Rain Begins to Fall",
       "url": "https://open.spotify.com/track/030RDC2ayPOUM32F9IH7eE"
-    },
-    {
-      "added_at": "2026-11-16 23:00:02",
-      "album": {
-        "name": "On the Beach",
-        "url": "https://open.spotify.com/album/0mboDrVpzDMqABhzrAkX4m"
-      },
-      "artists": [
-        {
-          "name": "Chris Rea",
-          "url": "https://open.spotify.com/artist/5KEG7G8LDYlHgFDqZyEEs2"
-        }
-      ],
-      "duration_ms": 302426,
-      "name": "On the Beach",
-      "url": "https://open.spotify.com/track/0fJMNr4wzaVWNM2nb9hdqx"
     },
     {
       "added_at": "2026-11-16 23:00:02",

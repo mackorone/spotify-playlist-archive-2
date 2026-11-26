@@ -1,12 +1,12 @@
 {
   "description": "La banda sonora de tu orgullo. Foto: Hidrogenesse.",
-  "num_followers": 23003,
+  "num_followers": 23006,
   "original_name": "Glow Espa\u00f1a",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAPMOJjmXfRFEFmDwXOsfnR1QCjFX",
+  "snapshot_id": "AAAAABE39KwuaYO861952ydNB9fm1muN",
   "tracks": [
     {
       "added_at": "2026-11-10 09:36:55",
@@ -563,22 +563,6 @@
     {
       "added_at": "2026-11-10 09:36:55",
       "album": {
-        "name": "Primavera",
-        "url": "https://open.spotify.com/album/15sj9DWaanj1WbtHnvcYbn"
-      },
-      "artists": [
-        {
-          "name": "Joanna Crass",
-          "url": "https://open.spotify.com/artist/5NH7AZYpUjd9UL1vR3KMzD"
-        }
-      ],
-      "duration_ms": 156000,
-      "name": "Primavera",
-      "url": "https://open.spotify.com/track/4idzZPbOKWkdaCK5yljYXP"
-    },
-    {
-      "added_at": "2026-11-10 09:36:55",
-      "album": {
         "name": "DANDO CLASE",
         "url": "https://open.spotify.com/album/0jaKpATjABClztaJtfH12s"
       },
@@ -595,6 +579,22 @@
       "duration_ms": 195153,
       "name": "Golpeo",
       "url": "https://open.spotify.com/track/3pyEWCK9U4zgwMI08MdRBy"
+    },
+    {
+      "added_at": "2026-11-10 09:36:55",
+      "album": {
+        "name": "Primavera",
+        "url": "https://open.spotify.com/album/15sj9DWaanj1WbtHnvcYbn"
+      },
+      "artists": [
+        {
+          "name": "Joanna Crass",
+          "url": "https://open.spotify.com/artist/5NH7AZYpUjd9UL1vR3KMzD"
+        }
+      ],
+      "duration_ms": 156000,
+      "name": "Primavera",
+      "url": "https://open.spotify.com/track/4idzZPbOKWkdaCK5yljYXP"
     },
     {
       "added_at": "2026-11-10 09:36:55",
@@ -787,18 +787,22 @@
     {
       "added_at": "2026-11-10 09:36:55",
       "album": {
-        "name": "Coleccionando atardeceres",
-        "url": "https://open.spotify.com/album/5vY4REk9rDARhuhTqqbnic"
+        "name": "GORGONA",
+        "url": "https://open.spotify.com/album/7Ae5Sye34ZPoRJiogQv7LD"
       },
       "artists": [
         {
-          "name": "David Rees",
-          "url": "https://open.spotify.com/artist/2CQHyfluB4mliyv193Qn2L"
+          "name": "Ptazeta",
+          "url": "https://open.spotify.com/artist/5UN0rzL594mWY2RbOtZqIN"
+        },
+        {
+          "name": "Villano Antillano",
+          "url": "https://open.spotify.com/artist/1pi7nGhOM7PTHR5YEgXVGq"
         }
       ],
-      "duration_ms": 183636,
-      "name": "Coleccionando atardeceres",
-      "url": "https://open.spotify.com/track/0DtwhA7t6K4H72slDDCzxs"
+      "duration_ms": 170721,
+      "name": "Mujer\u00f3n",
+      "url": "https://open.spotify.com/track/5vL9Gs5JfUAB0fcwhRJosC"
     },
     {
       "added_at": "2026-11-10 09:36:55",
@@ -823,22 +827,18 @@
     {
       "added_at": "2026-11-10 09:36:55",
       "album": {
-        "name": "GORGONA",
-        "url": "https://open.spotify.com/album/7Ae5Sye34ZPoRJiogQv7LD"
+        "name": "Coleccionando atardeceres",
+        "url": "https://open.spotify.com/album/5vY4REk9rDARhuhTqqbnic"
       },
       "artists": [
         {
-          "name": "Ptazeta",
-          "url": "https://open.spotify.com/artist/5UN0rzL594mWY2RbOtZqIN"
-        },
-        {
-          "name": "Villano Antillano",
-          "url": "https://open.spotify.com/artist/1pi7nGhOM7PTHR5YEgXVGq"
+          "name": "David Rees",
+          "url": "https://open.spotify.com/artist/2CQHyfluB4mliyv193Qn2L"
         }
       ],
-      "duration_ms": 170721,
-      "name": "Mujer\u00f3n",
-      "url": "https://open.spotify.com/track/5vL9Gs5JfUAB0fcwhRJosC"
+      "duration_ms": 183636,
+      "name": "Coleccionando atardeceres",
+      "url": "https://open.spotify.com/track/0DtwhA7t6K4H72slDDCzxs"
     },
     {
       "added_at": "2026-11-10 09:36:55",

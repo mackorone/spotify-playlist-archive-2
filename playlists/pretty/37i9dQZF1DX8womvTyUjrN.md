@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8womvTyUjrN.md) - [plain]
 
 > The new wave of Latin pop 🌊 Cover: Alleh
 
-[Spotify](https://open.spotify.com/user/spotify) - 293,774 likes - 50 songs - 2 hr 30 min
+[Spotify](https://open.spotify.com/user/spotify) - 293,743 likes - 50 songs - 2 hr 30 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8womvTyUjrN.md) - [plain]
 | 49 | [LEJOS](https://open.spotify.com/track/4gssyYgB9EegQ8Klp46Bvs) | [FABIAN](https://open.spotify.com/artist/5OHLIL5eTIYJ4WXNvKkeyG) | [LEJOS](https://open.spotify.com/album/434f2GTmix3G9KBL469TUV) | 3:15 |
 | 50 | [Loco x mi](https://open.spotify.com/track/4LAzLKDW8xSiJc5ovROg0b) | [Hana Fox](https://open.spotify.com/artist/2cCiU0BQAQIOgI2VgGFrg9), [143leti](https://open.spotify.com/artist/14fFkrYIwbODcbFIKoWfSr) | [Loco x mi](https://open.spotify.com/album/02UuPRIX2rQnJBusDmhIBC) | 2:02 |
 
-Snapshot ID: `AAAAAL5wozlu5fgTnNYyPgULfRJoZjZH`
+Snapshot ID: `AAAAAK9fvpThwEor0Z1+cQj/JW9G2E31`

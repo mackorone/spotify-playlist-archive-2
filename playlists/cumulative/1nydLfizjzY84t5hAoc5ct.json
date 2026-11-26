@@ -849,6 +849,24 @@
     },
     {
       "album": {
+        "name": "Surround",
+        "url": "https://open.spotify.com/album/5ozlAoqudlcnetPpTT8LCd"
+      },
+      "artists": [
+        {
+          "name": "NOSEDIVE",
+          "url": "https://open.spotify.com/artist/23mX48p12KAUE0GBtxRb18"
+        }
+      ],
+      "date_added": "2026-11-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 246496,
+      "name": "Be Here",
+      "url": "https://open.spotify.com/track/01zSNbFmzEuxVGcafxQk5l"
+    },
+    {
+      "album": {
         "name": "Be Mine",
         "url": "https://open.spotify.com/album/7u3HEmstnUkwEyA4PRWDo7"
       },
@@ -5137,6 +5155,24 @@
     },
     {
       "album": {
+        "name": "Lucio",
+        "url": "https://open.spotify.com/album/5tyxyirOaO8WxOzDJ0uc0O"
+      },
+      "artists": [
+        {
+          "name": "Rufus Beckett",
+          "url": "https://open.spotify.com/artist/0AuymUdyDnEfryqJuyChJW"
+        }
+      ],
+      "date_added": "2026-11-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 207059,
+      "name": "Lucio",
+      "url": "https://open.spotify.com/track/7xPXR60pLWfO7r31BD2O9u"
+    },
+    {
+      "album": {
         "name": "Lungs Enough?",
         "url": "https://open.spotify.com/album/418vHl49VRBDt4VZ1f8ceO"
       },
@@ -8734,6 +8770,24 @@
       "duration_ms": 187983,
       "name": "WHATEVER",
       "url": "https://open.spotify.com/track/14Wd8OBk2EJLfHVwBigaCX"
+    },
+    {
+      "album": {
+        "name": "Whatever It Takes",
+        "url": "https://open.spotify.com/album/0ofx6ql6CtdOfrnVyWpmNk"
+      },
+      "artists": [
+        {
+          "name": "Jack Given",
+          "url": "https://open.spotify.com/artist/54NA5ZY7KPA1IRWhqmnGJ4"
+        }
+      ],
+      "date_added": "2026-11-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 182000,
+      "name": "Whatever It Takes",
+      "url": "https://open.spotify.com/track/18ap9CsKS0ndJofIv5CBzf"
     },
     {
       "album": {

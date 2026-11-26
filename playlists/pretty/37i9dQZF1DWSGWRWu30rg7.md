@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSGWRWu30rg7.md) - [plain]
 
 > Temukan talenta baru musik Indonesia pilihan editor yang patut kamu simak\. Cover: Nicole Rossi
 
-[Spotify](https://open.spotify.com/user/spotify) - 64,206 likes - 100 songs - 5 hr 51 min
+[Spotify](https://open.spotify.com/user/spotify) - 64,222 likes - 100 songs - 5 hr 51 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSGWRWu30rg7.md) - [plain]
 | 99 | [Bandung City \(UOO\)](https://open.spotify.com/track/3da5PBXzLQ3KoBGceD6QVG) | [Yung Caters](https://open.spotify.com/artist/0F155RyWAEaj0UoTZX6lk2) | [Bandung City \(UOO\)](https://open.spotify.com/album/093k3PKKaHm4dGiD223Opj) | 3:03 |
 | 100 | [Let Me Know When You Get Home](https://open.spotify.com/track/2xxKabGFfWwz1ScgpK20U1) | [Rubina](https://open.spotify.com/artist/0CP7W95OO1zFAXieVsBwPN) | [Let Me Know When You Get Home](https://open.spotify.com/album/3Joeu5aierqwOgX5w03uRR) | 3:24 |
 
-Snapshot ID: `AAAAAMPBSn2TAfpyO/QWiToapCEEM1VO`
+Snapshot ID: `AAAAAIfiTLcBpnXnKcCIG5bHdJQS2UaM`

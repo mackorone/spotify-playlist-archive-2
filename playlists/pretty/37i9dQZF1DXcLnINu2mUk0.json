@@ -1,12 +1,12 @@
 {
   "description": "Chill rap e R&B: \u00c9 um mood suave e envolvente. Foto: Soarito",
-  "num_followers": 56401,
+  "num_followers": 56409,
   "original_name": "Seda",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAJjKr8JjOufKXuPQmZYpFPREYPCi",
+  "snapshot_id": "AAAAAP//XN56u1TeqoYfN4imZi0mQBEs",
   "tracks": [
     {
       "added_at": "2026-11-20 00:00:37",
@@ -951,6 +951,22 @@
     {
       "added_at": "2026-11-20 00:00:37",
       "album": {
+        "name": "P\u00e9 Descal\u00e7o",
+        "url": "https://open.spotify.com/album/6NvtgRhxTLAiikcTrTKt1d"
+      },
+      "artists": [
+        {
+          "name": "Domingues",
+          "url": "https://open.spotify.com/artist/7BcPoZhXI08icbiq1mpxFx"
+        }
+      ],
+      "duration_ms": 214677,
+      "name": "P\u00e9 Descal\u00e7o",
+      "url": "https://open.spotify.com/track/0KCfDsOY1k1gA1JxzJZotI"
+    },
+    {
+      "added_at": "2026-11-20 00:00:37",
+      "album": {
         "name": "SUPER",
         "url": "https://open.spotify.com/album/4eTP8dIvGNdgYAf0D1ixNJ"
       },
@@ -971,22 +987,6 @@
       "duration_ms": 222315,
       "name": "SUPER",
       "url": "https://open.spotify.com/track/7G4Icmrbwe5jQTVMOQ5NbV"
-    },
-    {
-      "added_at": "2026-11-20 00:00:37",
-      "album": {
-        "name": "P\u00e9 Descal\u00e7o",
-        "url": "https://open.spotify.com/album/6NvtgRhxTLAiikcTrTKt1d"
-      },
-      "artists": [
-        {
-          "name": "Domingues",
-          "url": "https://open.spotify.com/artist/7BcPoZhXI08icbiq1mpxFx"
-        }
-      ],
-      "duration_ms": 214677,
-      "name": "P\u00e9 Descal\u00e7o",
-      "url": "https://open.spotify.com/track/0KCfDsOY1k1gA1JxzJZotI"
     },
     {
       "added_at": "2026-11-20 00:00:37",

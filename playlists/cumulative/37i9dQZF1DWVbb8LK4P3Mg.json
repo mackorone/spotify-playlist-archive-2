@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2021-12-28",
-  "description": "Enjoy the wonderful holiday season with K-Pop! (Cover: aespa, Eartha Kitt)",
+  "description": "Enjoy the wonderful holiday season with K-Pop! (Cover: KISS OF LIFE)",
   "name": "Christmas K-Pop (\ud06c\ub9ac\uc2a4\ub9c8\uc2a4 \ucf00\uc774\ud31d)",
   "tracks": [
     {
@@ -804,6 +804,24 @@
       "duration_ms": 184815,
       "name": "Christmas Love",
       "url": "https://open.spotify.com/track/1bSqmWIWw4AHevbOXBtBwm"
+    },
+    {
+      "album": {
+        "name": "SUIATSU",
+        "url": "https://open.spotify.com/album/67DGuV6YAyUMj9JEv2QMIA"
+      },
+      "artists": [
+        {
+          "name": "Stray Kids",
+          "url": "https://open.spotify.com/artist/2dIgFjalVxs4ThymZ67YCE"
+        }
+      ],
+      "date_added": "2026-11-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 181000,
+      "name": "Christmas Love (Party Version)",
+      "url": "https://open.spotify.com/track/1wRgi8tluqX1GYwYenJnU2"
     },
     {
       "album": {
@@ -1635,6 +1653,24 @@
     },
     {
       "album": {
+        "name": "Greedy",
+        "url": "https://open.spotify.com/album/4Z6X9aIZrb8YHARjEbl4NY"
+      },
+      "artists": [
+        {
+          "name": "KISS OF LIFE",
+          "url": "https://open.spotify.com/artist/4TEK9tIkcoxib4GxT3O4ky"
+        }
+      ],
+      "date_added": "2026-11-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 196000,
+      "name": "Greedy",
+      "url": "https://open.spotify.com/track/0kuPmVL9vCBAnH14lzgNKp"
+    },
+    {
+      "album": {
         "name": "[Hwa Sa Show Vol.2] Grey Christmas",
         "url": "https://open.spotify.com/album/3sGZLUL4z7U9rPjkfyldX7"
       },
@@ -1734,7 +1770,7 @@
       ],
       "date_added": "2025-11-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-26",
       "duration_ms": 211000,
       "name": "Heart of Christmas",
       "url": "https://open.spotify.com/track/3WTzne8ZV3nZmaf3gDsq6a"
@@ -4446,7 +4482,7 @@
       ],
       "date_added": "2022-12-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-26",
       "duration_ms": 227460,
       "name": "White Christmas",
       "url": "https://open.spotify.com/track/7fBkbMzxZ4XQvCrLRVuR6O"

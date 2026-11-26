@@ -1,12 +1,12 @@
 {
   "description": "Bops on repeat from LGBTQIA+ artists only. Cover: EARTH TO EMILY",
-  "num_followers": 23965,
+  "num_followers": 23970,
   "original_name": "GLOW US & Canada",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAANJwFVj2I5zNcDCJjwdz1o3ys5up",
+  "snapshot_id": "AAAAAOvViNVWkXY4qR1VR/YTpACZ0R6l",
   "tracks": [
     {
       "added_at": "2026-11-13 05:03:15",
@@ -391,22 +391,6 @@
     {
       "added_at": "2026-11-13 05:03:15",
       "album": {
-        "name": "tiptoeing",
-        "url": "https://open.spotify.com/album/4Mkhq0sACoEJoema2n6Zys"
-      },
-      "artists": [
-        {
-          "name": "senses",
-          "url": "https://open.spotify.com/artist/0lXMA1fi5NwMBAXdwTnnYB"
-        }
-      ],
-      "duration_ms": 154554,
-      "name": "tiptoeing",
-      "url": "https://open.spotify.com/track/6QpxpFbtZUWapawqVDufDX"
-    },
-    {
-      "added_at": "2026-11-13 05:03:15",
-      "album": {
         "name": "BROKE BITCH FREE$TYLE",
         "url": "https://open.spotify.com/album/5dqawOCoShBIAN8R9Dl0GE"
       },
@@ -419,6 +403,22 @@
       "duration_ms": 133624,
       "name": "BROKE BITCH FREE$TYLE",
       "url": "https://open.spotify.com/track/32HAF87vgPSUQ6l6pRO7Er"
+    },
+    {
+      "added_at": "2026-11-13 05:03:15",
+      "album": {
+        "name": "tiptoeing",
+        "url": "https://open.spotify.com/album/4Mkhq0sACoEJoema2n6Zys"
+      },
+      "artists": [
+        {
+          "name": "senses",
+          "url": "https://open.spotify.com/artist/0lXMA1fi5NwMBAXdwTnnYB"
+        }
+      ],
+      "duration_ms": 154554,
+      "name": "tiptoeing",
+      "url": "https://open.spotify.com/track/6QpxpFbtZUWapawqVDufDX"
     },
     {
       "added_at": "2026-11-13 05:03:15",

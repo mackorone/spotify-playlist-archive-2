@@ -4,7 +4,7 @@
 
 > Relax to the sound of a storm setting in.
 
-471 songs - 21 hr 12 min
+471 songs - 21 hr 14 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -249,7 +249,7 @@
 | [Quiet, Listen](https://open.spotify.com/track/6PUGWTnD1L8JmzmdogNUfS) | [The Natural Healing](https://open.spotify.com/artist/62dysQ8CjUwvdI3wLoTdHe) | [Evaporating Water](https://open.spotify.com/album/2OAmblyE8oR9F1Oac4sEIi) | 2:33 | 2021-11-10 |  |
 | [rAin](https://open.spotify.com/track/2k0Uey3IUXsazhtmGCd9XJ) | [Rain](https://open.spotify.com/artist/7yS3860cHbWTQetLkezjEi) | [rAin](https://open.spotify.com/album/5Wbqx69NTO4n4enBUttJNf) | 3:22 | 2021-11-10 | 2025-11-12 |
 | [Rain & Distant Thunder](https://open.spotify.com/track/4LH3hYpqzwfX22Au9ghCPU) | [Essential Nature Sounds](https://open.spotify.com/artist/5VhOnYoFtMQVsuUJMfXk0M) | [Dark Rain & Deep Thunder](https://open.spotify.com/album/57ur6LcL32QEuI2PXgZ0yK) | 4:41 | 2021-11-10 | 2024-03-09 |
-| [Rain & Thunder](https://open.spotify.com/track/7IqerL7wjXoii1b0xDWbUy) | [Amba Naturale](https://open.spotify.com/artist/4th8dE9LVvvevKJrrk2Ge2) | [Sub Tropics](https://open.spotify.com/album/5pbr4Ww9LoOQgfi3jnQkPL) | 1:48 | 2021-11-10 |  |
+| [Rain & Thunder](https://open.spotify.com/track/7IqerL7wjXoii1b0xDWbUy) | [Amba Naturale](https://open.spotify.com/artist/4th8dE9LVvvevKJrrk2Ge2) | [Sub Tropics](https://open.spotify.com/album/5pbr4Ww9LoOQgfi3jnQkPL) | 2:22 | 2021-11-10 |  |
 | [Rain & Thunder](https://open.spotify.com/track/2sOwfQNXbLm6sA3LEKTeVX) | [Clam Pass](https://open.spotify.com/artist/5tiC8V84vAB6FIDwSkGCF6) | [Thunderstorms](https://open.spotify.com/album/5eGD83pjy0yp4ekJ6q5UNw) | 1:51 | 2021-11-10 | 2023-06-16 |
 | [Rain & Thunder](https://open.spotify.com/track/390qr10wt5OInQ92Vd7ADt) | [Ogień](https://open.spotify.com/artist/5d8IWNN5vBsIDVskioGQLw) | [Rain & Thunder](https://open.spotify.com/album/3lSiIzAOT48IJLDgNb3Orw) | 3:12 | 2021-11-10 | 2024-03-09 |
 | [Rain & Thunder Outside The Palace](https://open.spotify.com/track/5H6GwQZbsw9LSewKcfb57O) | [Royal Rain](https://open.spotify.com/artist/2C32BFATM0fyN4FFTl3fHe) | [Rain For The Queen](https://open.spotify.com/album/2q0IUlA89T4UMf4n4j2DMR) | 3:30 | 2023-02-13 |  |
@@ -257,7 +257,7 @@
 | [Rain All Year Round](https://open.spotify.com/track/4iwDUEEZHxq7ITcc7DqCCI) | [April Shower](https://open.spotify.com/artist/2cwPMVEFK3JRfFmbStXoMD) | [London Days](https://open.spotify.com/album/5RFrcOdX3Qzc6sTPYXtVVq) | 3:12 | 2021-11-10 | 2024-03-09 |
 | [Rain and Close Thunder Cracks](https://open.spotify.com/track/4JQaKla5xL4DEVF5tPXLvo) | [Rain Harbor](https://open.spotify.com/artist/3uGbg4fPT9hEfsUDVIPn2r) | [Rain and Close Thunder Cracks](https://open.spotify.com/album/5rJAx8c3CKF8c1kcrF9NSM) | 2:13 | 2026-04-01 |  |
 | [Rain And Stream](https://open.spotify.com/track/4q4u6MLCGrpfHperJ7U8NZ) | [520Hz](https://open.spotify.com/artist/6S1S2NTJ5M5REqvqp6zYSs) | [Mindful Rain](https://open.spotify.com/album/4E1vqp2xaDzCxez2IPrkMh) | 2:29 | 2021-11-10 |  |
-| [Rain and Thunder](https://open.spotify.com/track/7oSBHzA5J69kqhFp4anTNy) | [Sleep Waves](https://open.spotify.com/artist/5YwgJh6Sx2jIZ0NTqzYCDW) | [Exclusive Nature](https://open.spotify.com/album/6MwRMdOHG26JL8ZdZpCjow) | 1:24 | 2021-11-10 |  |
+| [Rain and Thunder](https://open.spotify.com/track/7oSBHzA5J69kqhFp4anTNy) | [Sleep Waves](https://open.spotify.com/artist/5YwgJh6Sx2jIZ0NTqzYCDW) | [Exclusive Nature](https://open.spotify.com/album/6MwRMdOHG26JL8ZdZpCjow) | 2:18 | 2021-11-10 |  |
 | [Rain and Thunder beneath the Leaves](https://open.spotify.com/track/0Is4kNdtR9S3yRzK05Tp7g) | [Nebelune](https://open.spotify.com/artist/46Ul8d46Ke8xoZXRISCV3z) | [Rain and Thunder beneath the Leaves](https://open.spotify.com/album/0Yw92qEbVjki2qQjfQoXHN) | 2:38 | 2025-12-19 |  |
 | [Rain Coming Down](https://open.spotify.com/track/24lHr1XxXOxfaHkF7ZR5Zc) | [Adam Storme](https://open.spotify.com/artist/0eNiH722ChBnOwAjXcKDYI) | [A Stormy Night](https://open.spotify.com/album/6HLYpQwA1LmxmduBYqWfAC) | 3:36 | 2021-11-10 |  |
 | [Rain Dancing](https://open.spotify.com/track/7bJAQD5AAq9zxQz1nal7tp) | [Zuni](https://open.spotify.com/artist/4im5G9baIDRzJa4xpPdDz6) | [Deep Sleep Drops](https://open.spotify.com/album/5EhMdHcVj4sRsTZCqNYDEM) | 2:38 | 2021-11-10 | 2024-03-23 |
@@ -392,7 +392,7 @@
 | [Summer Storms](https://open.spotify.com/track/58EtUoSNjEOnomIEc5daGp) | [Isamu](https://open.spotify.com/artist/6NzWkEWVUXwO7TTXOEjdP7) | [Cloud Electric](https://open.spotify.com/album/2Bm92hW5xK14uff2UR8K9Y) | 2:39 | 2021-11-10 |  |
 | [Super Soft Rain with Super Soft Thunder](https://open.spotify.com/track/68S9h5bDYVNinuyGRz1rLv) | [The Natural Healing](https://open.spotify.com/artist/62dysQ8CjUwvdI3wLoTdHe) | [Wide Spring Rain](https://open.spotify.com/album/7h640Dh8VAa2gtBhPuoOP0) | 2:07 | 2021-11-10 |  |
 | [Surrender to rain](https://open.spotify.com/track/3NX7gdrLQMqCaFniFrH0a5) | [Rayne](https://open.spotify.com/artist/1RNXA2cIljrRol5nvV2Eoy) | [Surrender to rain](https://open.spotify.com/album/2eBvKcPkjpMxcUnrB55Hhq) | 3:28 | 2021-11-10 | 2026-04-02 |
-| [Sweater Weather](https://open.spotify.com/track/4NPhZSpTRJhsEG5DdbGH2P) | [Weather Pass](https://open.spotify.com/artist/2H3oeCocy2EKakpX7Es1T5) | [Noise of Water](https://open.spotify.com/album/5O0CKgV8A80zgqqwfQp8BK) | 1:58 | 2021-11-10 |  |
+| [Sweater Weather](https://open.spotify.com/track/4NPhZSpTRJhsEG5DdbGH2P) | [Weather Pass](https://open.spotify.com/artist/2H3oeCocy2EKakpX7Es1T5) | [Noise of Water](https://open.spotify.com/album/5O0CKgV8A80zgqqwfQp8BK) | 2:28 | 2021-11-10 |  |
 | [Take Cover](https://open.spotify.com/track/6pWat1ynyacwfE9gmyqw3B) | [Oluja](https://open.spotify.com/artist/4NezsL00vYvCDeBNlLYEtV) | [Take Cover](https://open.spotify.com/album/7xIxj7pi7fuSSfNjOYcpxJ) | 3:00 | 2021-11-10 | 2026-10-31 |
 | [Tempête de pluie apaisante](https://open.spotify.com/track/3Cfu9rRRPtRMjQ1UiqJ0Q7) | [Pluie et tonnerre](https://open.spotify.com/artist/1FoJFzUt8KdfLxzHL3wTwI) | [Forêt tropicale](https://open.spotify.com/album/4IzzGBBljpxmsRW4RPXvGA) | 1:51 | 2021-11-10 | 2023-06-16 |
 | [That's Real Intense](https://open.spotify.com/track/7GquG0EVY3NBr0sQmhwc1I) | [Worrysome Skies](https://open.spotify.com/artist/3bkZdtFCw7NEPaNOBTHIjn) | [After Midnight](https://open.spotify.com/album/3ZK1PT3Q5D1cwXDIEeKp2R) | 2:01 | 2021-11-10 | 2026-08-18 |

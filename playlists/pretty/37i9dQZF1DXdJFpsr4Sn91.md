@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdJFpsr4Sn91.md) - [plain]
 
 > Nousussa olevat hitit\. 🌪️
 
-[Spotify](https://open.spotify.com/user/spotify) - 59,264 likes - 50 songs - 2 hr 23 min
+[Spotify](https://open.spotify.com/user/spotify) - 59,261 likes - 50 songs - 2 hr 24 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -27,9 +27,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdJFpsr4Sn91.md) - [plain]
 | 17 | [10!](https://open.spotify.com/track/5wGpuoijb2FQHzk4AQeBw0) | [keiju](https://open.spotify.com/artist/78Q5OnbgoyHMj5aHlGljK5), [MOMO](https://open.spotify.com/artist/5rTVXZeHuD0wYlEfNU53Qq) | [PIIKA](https://open.spotify.com/album/7uQXB9fAq0FLImsAIjjuKH) | 2:28 |
 | 18 | [TOP TIER](https://open.spotify.com/track/6sEMr6wCHGQcXdEuy2O8yQ) | [OLGA](https://open.spotify.com/artist/5lrrAnWHek9LEQgB3MCfub) | [\#YOLO \(DELUXE\)](https://open.spotify.com/album/5qGkMcngv1e35X1leRj0Ht) | 3:07 |
 | 19 | [Helahoito](https://open.spotify.com/track/6uSuEu5nMDNlEZuZOcGxCQ) | [Benjamin](https://open.spotify.com/artist/5FgAhHocNrSCn7Ox87uyef) | [Helahoito](https://open.spotify.com/album/34zM5zslQ2AsWwAhP9rhqV) | 3:11 |
-| 20 | [Mä nautin](https://open.spotify.com/track/2aDIZo4JlcfE4xzrEUhEzw) | [Senya](https://open.spotify.com/artist/49OC47dLyKYSl2EPaZLUaO) | [Mä nautin](https://open.spotify.com/album/6NdaH9R08mFvjSMscSJA0C) | 3:15 |
+| 20 | [Voidaaks rikkoo hiljaisuus](https://open.spotify.com/track/2g1bCHeYTpcL9mEUJ2Nm5v) | [ELLIMEI](https://open.spotify.com/artist/6rPI72mU3VRYb9YCKGi3ra), [KAUKUA](https://open.spotify.com/artist/1B08DZQt5VNw92l8bm8jwZ) | [Voidaaks rikkoo hiljaisuus](https://open.spotify.com/album/37AvpNQzvi0OuJcdEWpb4E) | 2:44 |
 | 21 | [kevät tulee kun sä palaat](https://open.spotify.com/track/66TVSQDoXHHW1P68EwTWcn) | [louna0nline](https://open.spotify.com/artist/363l8KbAMnNgWeNfH9m6Jy) | [kevät tulee kun sä palaat](https://open.spotify.com/album/248ZLnQmHtO0hIGS65UH5t) | 3:15 |
-| 22 | [Voidaaks rikkoo hiljaisuus](https://open.spotify.com/track/2g1bCHeYTpcL9mEUJ2Nm5v) | [ELLIMEI](https://open.spotify.com/artist/6rPI72mU3VRYb9YCKGi3ra), [KAUKUA](https://open.spotify.com/artist/1B08DZQt5VNw92l8bm8jwZ) | [Voidaaks rikkoo hiljaisuus](https://open.spotify.com/album/37AvpNQzvi0OuJcdEWpb4E) | 2:44 |
+| 22 | [Mä nautin](https://open.spotify.com/track/2aDIZo4JlcfE4xzrEUhEzw) | [Senya](https://open.spotify.com/artist/49OC47dLyKYSl2EPaZLUaO) | [Mä nautin](https://open.spotify.com/album/6NdaH9R08mFvjSMscSJA0C) | 3:15 |
 | 23 | [W](https://open.spotify.com/track/2vrAiDBNyQA040lLd9cs6z) | [Alina Burnet](https://open.spotify.com/artist/6pBVcV1vX0IUU9Rr1xtB2J) | [W](https://open.spotify.com/album/2kfSV0m5oSJe7N7FKlZIgs) | 2:15 |
 | 24 | [Titanic](https://open.spotify.com/track/1FZloK8NDphVeFWLEJ7VAp) | [Vilma Alina](https://open.spotify.com/artist/5zmBbgxO5dvb4sbsX6dL19) | [Titanic](https://open.spotify.com/album/3AjDKPnkWPHIlhquwRUfTW) | 3:09 |
 | 25 | [Gelateria](https://open.spotify.com/track/2RnKbPVJTJrDRebaACQoZi) | [KAJ](https://open.spotify.com/artist/4blbIMKwfzTxHGvN0Est1t) | [Gelateria](https://open.spotify.com/album/31PDbVme9KzuIZ4mXJnbAq) | 3:08 |
@@ -49,14 +49,14 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdJFpsr4Sn91.md) - [plain]
 | 39 | [Taistele, pakene](https://open.spotify.com/track/0YeK0NtP7eotOxz07eJaLX) | [Rosi](https://open.spotify.com/artist/5UBkH6rCwJph8r38ZKQug6) | [Pyhiä voimia](https://open.spotify.com/album/68hSkReiNuoSMtyanMKhQH) | 2:50 |
 | 40 | [Dancing Alone](https://open.spotify.com/track/7lcOwbhhqpVRqudzulstWt) | [Kiara Nelson](https://open.spotify.com/artist/1OtLLpkbo3xLGlPUQV4YHa) | [Dancing Alone](https://open.spotify.com/album/4iTpD1smBxizFvBs13HTzI) | 2:16 |
 | 41 | [Hei Supermario \(feat\. Samuell\)](https://open.spotify.com/track/3QWM72gaz0yoRobb9A014a) | [DOG HUSTLERS](https://open.spotify.com/artist/3BH7RY390iBJjKx696bIpb), [Samuell](https://open.spotify.com/artist/6McHq84vR6u1UNTdBiMKvV) | [Hei Supermario \(feat\. Samuell\)](https://open.spotify.com/album/3fyr79gc97RFsMlZnefk6Z) | 1:54 |
-| 42 | [Viimeinen kausi](https://open.spotify.com/track/3ZqhLmHpZVi4SVd2dvjL00) | [Edicti](https://open.spotify.com/artist/5sYAbWJ14L78hv98klUjqS) | [Toiveuusintoja](https://open.spotify.com/album/5KzDCx4IE2Sp6a8IrKg3vB) | 2:52 |
-| 43 | [Annan sut pois \(feat\. Tomi Saario\)](https://open.spotify.com/track/3tmM50vAAJe4F69LfPBk25) | [Lukas Leon](https://open.spotify.com/artist/1lDaPfGRA6miVIOjZbY50n), [Tomi Saario](https://open.spotify.com/artist/1p1Q1tRavrbMGCgJdf9G0H) | [Annan sut pois \(feat\. Tomi Saario\)](https://open.spotify.com/album/4PgMeqNU555ZVxQMriLaC4) | 2:48 |
+| 42 | [Annan sut pois \(feat\. Tomi Saario\)](https://open.spotify.com/track/3tmM50vAAJe4F69LfPBk25) | [Lukas Leon](https://open.spotify.com/artist/1lDaPfGRA6miVIOjZbY50n), [Tomi Saario](https://open.spotify.com/artist/1p1Q1tRavrbMGCgJdf9G0H) | [Annan sut pois \(feat\. Tomi Saario\)](https://open.spotify.com/album/4PgMeqNU555ZVxQMriLaC4) | 2:48 |
+| 43 | [Viimeinen kausi](https://open.spotify.com/track/3ZqhLmHpZVi4SVd2dvjL00) | [Edicti](https://open.spotify.com/artist/5sYAbWJ14L78hv98klUjqS) | [Toiveuusintoja](https://open.spotify.com/album/5KzDCx4IE2Sp6a8IrKg3vB) | 2:52 |
 | 44 | [Paremmin ku ikin](https://open.spotify.com/track/1fwY8uM3w4yf5WefXgLFTJ) | [Roosa](https://open.spotify.com/artist/65ul8vOKWYAxspjKZvGPkg) | [Paremmin ku ikin](https://open.spotify.com/album/1mLf8g07UrbwP6f1yHfXoE) | 2:36 |
 | 45 | [Kaurismäki](https://open.spotify.com/track/5Y4H1CSghOI3oi4a0hOY90) | [Lilja Lundén](https://open.spotify.com/artist/0wNcJZGfhunx6ws14pNya1) | [Epäluotettava kertoja](https://open.spotify.com/album/30YMu7mvj6yBP5w2VMkqGz) | 3:11 |
 | 46 | [Mun sydän on mun](https://open.spotify.com/track/6fGac27NbECNcEjGsMOuMM) | [Vilma Alina](https://open.spotify.com/artist/5zmBbgxO5dvb4sbsX6dL19) | [Mun sydän on mun](https://open.spotify.com/album/5DyuYlKIlU6bDfsX2ApRcr) | 3:25 |
 | 47 | [Don't Let It Get to You](https://open.spotify.com/track/4QLSVMOYIFo4618S9UkRyb) | [Goldielocks](https://open.spotify.com/artist/5v1NrlZC6GuQq2Ci8H1A59) | [Don't Let It Get to You](https://open.spotify.com/album/2ll6LCwWcfJljpb9qGDslb) | 3:23 |
-| 48 | [Helena](https://open.spotify.com/track/7CL0XvdOIunKIAjshljO3p) | [Annika Pudas](https://open.spotify.com/artist/1UEWzQeV0TWpwFQvhIeJiA) | [Romantica](https://open.spotify.com/album/7q3uiwEifMQBcqJMmDDZ67) | 2:56 |
-| 49 | [Joutsenet](https://open.spotify.com/track/2KGHeli3UfHVsn1LUPezYH) | [Jenni & Juho](https://open.spotify.com/artist/5uYU6UHu7wuyF2Oa4OjZnp) | [Parasta ja paskinta](https://open.spotify.com/album/3ncZk0RQHxOWp59avtHOFC) | 2:22 |
-| 50 | [Värit](https://open.spotify.com/track/0wvcMn4YYcmdAzvcvJkRZQ) | [BENI](https://open.spotify.com/artist/0yVKqanLFd6BLlbkfYOnqX) | [Värit](https://open.spotify.com/album/2lihJzuMtlNJASqgaIKFRA) | 2:49 |
+| 48 | [Värit](https://open.spotify.com/track/0wvcMn4YYcmdAzvcvJkRZQ) | [BENI](https://open.spotify.com/artist/0yVKqanLFd6BLlbkfYOnqX) | [Värit](https://open.spotify.com/album/2lihJzuMtlNJASqgaIKFRA) | 2:49 |
+| 49 | [Helena](https://open.spotify.com/track/7CL0XvdOIunKIAjshljO3p) | [Annika Pudas](https://open.spotify.com/artist/1UEWzQeV0TWpwFQvhIeJiA) | [Romantica](https://open.spotify.com/album/7q3uiwEifMQBcqJMmDDZ67) | 2:56 |
+| 50 | [I'll Die Happily](https://open.spotify.com/track/3GbtxhWAT8NltZsd2THDEq) | [martta](https://open.spotify.com/artist/0MiaKVPx1j2fJr4A37YhLW) | [I'll Die Happily](https://open.spotify.com/album/1cZim98guoUVCwT4RRguae) | 2:49 |
 
-Snapshot ID: `AAAAAFg26ahv8d4ie9TOZTPSs7KAc/gT`
+Snapshot ID: `AAAAAHykasq9wD5yuJ3okzJzH9WPhKjb`

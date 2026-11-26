@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6JdAKMqGwZ5.md) - [plain]
 
 > Las mejores novedades emergentes del mundo indie, cada viernes\. Foto: Ganges.
 
-[Spotify](https://open.spotify.com/user/spotify) - 199,949 likes - 120 songs - 6 hr 26 min
+[Spotify](https://open.spotify.com/user/spotify) - 199,948 likes - 120 songs - 6 hr 26 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -129,4 +129,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6JdAKMqGwZ5.md) - [plain]
 | 119 | [X LOS SIGLOS DE LOS SIGLOS](https://open.spotify.com/track/2tdDIiHo2JJFrXmOvRnu0z) | [Sienna](https://open.spotify.com/artist/4PSNWFX3rYscMdKRp59uYA) | [X LOS SIGLOS DE LOS SIGLOS](https://open.spotify.com/album/1So00vDI2ufcKnBPdQohTt) | 3:01 |
 | 120 | [Ezpata Dantza](https://open.spotify.com/track/3ngH4jvapfAc7C3TEmOlar) | [Dupla](https://open.spotify.com/artist/5kcrF8TL0L4P4VuzDyRQuU) | [Ezpata Dantza](https://open.spotify.com/album/2EVCIrsRZ6Q0Weo4GhizXH) | 3:06 |
 
-Snapshot ID: `AAAAALYbt74Em1bgFoLSaVcMY5KeKjHB`
+Snapshot ID: `AAAAAHvb6VesS6GyDO1lLcVA6I5R2rkk`

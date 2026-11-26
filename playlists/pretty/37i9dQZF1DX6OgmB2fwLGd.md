@@ -4,13 +4,13 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6OgmB2fwLGd.md) - [plain]
 
 > hyper\_sleaze.2000.electro\_glitch \_draingang\_\[FINAL\]\_\[REAL\]\_\_coverartist.ecco2k
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,367,235 likes - 70 songs - 3 hr 42 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,367,157 likes - 70 songs - 3 hr 42 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
-| 1 | [Human After All](https://open.spotify.com/track/6MLk8mdYBXNiNfqTXCAuBb) | [2hollis](https://open.spotify.com/artist/72NhFAGG5Pt91VbheJeEPG) | [Pirouette](https://open.spotify.com/album/6TnYUZpDRbl6GiREL8Md4F) | 3:37 |
+| 1 | [Trace me on2 u](https://open.spotify.com/track/1T649fr2klZ11hjPH5MZfC) | [Touching Ice](https://open.spotify.com/artist/0tlUMIekHSOfWiGg3PeeD4) | [Trace me on2 u](https://open.spotify.com/album/0TKnisEIRC5QyEI2ySnlaj) | 3:01 |
 | 2 | [Paralyzed](https://open.spotify.com/track/3JeZ6MkB4oBIhz9LNM2BoG) | [Chrome Is Everything](https://open.spotify.com/artist/79AwwYDFXk6xJLx9Z39mug) | [Paralyzed](https://open.spotify.com/album/1GyQJfH4zcKpj0jxz9vp3w) | 2:24 |
-| 3 | [Trace me on2 u](https://open.spotify.com/track/1T649fr2klZ11hjPH5MZfC) | [Touching Ice](https://open.spotify.com/artist/0tlUMIekHSOfWiGg3PeeD4) | [Trace me on2 u](https://open.spotify.com/album/0TKnisEIRC5QyEI2ySnlaj) | 3:01 |
+| 3 | [Human After All](https://open.spotify.com/track/6MLk8mdYBXNiNfqTXCAuBb) | [2hollis](https://open.spotify.com/artist/72NhFAGG5Pt91VbheJeEPG) | [Pirouette](https://open.spotify.com/album/6TnYUZpDRbl6GiREL8Md4F) | 3:37 |
 | 4 | [Loveless Animal, Lawless Criminal](https://open.spotify.com/track/6yuSgXobqz8GkbUbS18XCp) | [Ecco2k](https://open.spotify.com/artist/6hG0VsXXlD10l60TqiIHIX) | [Echo](https://open.spotify.com/album/3u58jGUdXH3ofvTWzFewDp) | 4:02 |
 | 5 | [YOU \(New York in A Nutshell\)](https://open.spotify.com/track/0vEspY0f3gBrbrKHfDpeBF) | [Warpstr](https://open.spotify.com/artist/3DosMG14ckPgT9iagZbcVc) | [Only Because I Want To](https://open.spotify.com/album/11KXmnwtagKWedfWIv9fG2) | 2:42 |
 | 6 | [might be crazy](https://open.spotify.com/track/0QZwVRIdc0V8eBK4vPpyud) | [Jane Remover](https://open.spotify.com/artist/2rLGlNI6htigNxx172qxLu) | [Frailty \(Deluxe\)](https://open.spotify.com/album/2oDOQMK2fcaNs3DnQUoer5) | 3:25 |
@@ -79,4 +79,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6OgmB2fwLGd.md) - [plain]
 | 69 | [I Like](https://open.spotify.com/track/4uzkJXMs6PjmJ5wAQLzflw) | [umru](https://open.spotify.com/artist/2Ub06wAIR1hERODcCkKhzx), [Bbyafricka](https://open.spotify.com/artist/019gRg7DezPMbaI1xRZD6W), [Warpstr](https://open.spotify.com/artist/3DosMG14ckPgT9iagZbcVc) | [I Like](https://open.spotify.com/album/2HSr0Ar9OrNYCm9fyx9YHf) | 2:23 |
 | 70 | [Under Your Spell](https://open.spotify.com/track/5q0N5SaFhROG9UQiPukv9p) | [Snow Strippers](https://open.spotify.com/artist/6TsAG8Ve1icEC8ydeHm3C8) | [April Mixtape 3](https://open.spotify.com/album/1HXwvX1Ph4yoGRZ51ssBH2) | 3:38 |
 
-Snapshot ID: `AAAAAEDgcj+PAGn6bSuM2eStDnszx0Rf`
+Snapshot ID: `AAAAAL2Sn8IGcMkiB6x0Hiyk8cDcuzhp`

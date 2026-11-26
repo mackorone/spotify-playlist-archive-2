@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVA5o3WHL2eG.md) - [plain]
 
 > Women at full volume! Cover: Suena
 
-[Spotify](https://open.spotify.com/user/spotify) - 51,826 likes - 50 songs - 2 hr 33 min
+[Spotify](https://open.spotify.com/user/spotify) - 51,815 likes - 50 songs - 2 hr 33 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -48,8 +48,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVA5o3WHL2eG.md) - [plain]
 | 38 | [Frieden](https://open.spotify.com/track/2JGCidUP7ItZ5bbigZ4vCy) | [Thelma Malar](https://open.spotify.com/artist/7bJLeTkRR8doK2Y59z6A7H) | [Frieden](https://open.spotify.com/album/5tLBntYjVWu4tS1midufJm) | 2:17 |
 | 39 | [Good timing \(Good girl\) \- Bonus Track](https://open.spotify.com/track/6cVIIAFjpYkNH5slgvYIOh) | [Dottie Andersson](https://open.spotify.com/artist/360qeHf7kan9K9bKFPNwVM) | [Andersson Funeral Home](https://open.spotify.com/album/4LVy5KnKjaN6h6DBC8lVVD) | 3:45 |
 | 40 | [moment](https://open.spotify.com/track/0YhhX94niDtPpCnBTEQgYD) | [Ray Lozano](https://open.spotify.com/artist/1lqO9zpSZ9iEkgEgJqc443) | [moment](https://open.spotify.com/album/5SxCTAnA8GJQvomm15TyEY) | 2:07 |
-| 41 | [In My Mind](https://open.spotify.com/track/19FphEiURddB9emBRVtBCW) | [Jil Tanner](https://open.spotify.com/artist/6S9C7LP9TXbeJhoV18RmEK) | [In My Mind](https://open.spotify.com/album/4z68u9dgRfAEmGMmQ0AvLD) | 5:24 |
-| 42 | [devil´s in the sideroom](https://open.spotify.com/track/1qKdtUsOjrJy9Ids0ZQgoe) | [Miyu Hansen](https://open.spotify.com/artist/5DJDdhg9Qijhlqf6F1Mu5L) | [devil´s in the sideroom](https://open.spotify.com/album/7xJuAVgieSui8gau66R012) | 3:31 |
+| 41 | [devil´s in the sideroom](https://open.spotify.com/track/1qKdtUsOjrJy9Ids0ZQgoe) | [Miyu Hansen](https://open.spotify.com/artist/5DJDdhg9Qijhlqf6F1Mu5L) | [devil´s in the sideroom](https://open.spotify.com/album/7xJuAVgieSui8gau66R012) | 3:31 |
+| 42 | [In My Mind](https://open.spotify.com/track/19FphEiURddB9emBRVtBCW) | [Jil Tanner](https://open.spotify.com/artist/6S9C7LP9TXbeJhoV18RmEK) | [In My Mind](https://open.spotify.com/album/4z68u9dgRfAEmGMmQ0AvLD) | 5:24 |
 | 43 | [Fichtenholz](https://open.spotify.com/track/6RK7JQmE5apBvnDp2JuEvz) | [Akryl](https://open.spotify.com/artist/37LWnyoq7uaCMLsnbbducU) | [Fichtenholz](https://open.spotify.com/album/0mWXFHaN1WYPKquFtol0AF) | 3:36 |
 | 44 | [Goodwife](https://open.spotify.com/track/7eWj1RD9as5EZjjevoxSXg) | [Friedberg](https://open.spotify.com/artist/0lqPfG8vAR30UX3cWDbCEn) | [Goodwife](https://open.spotify.com/album/35e4s1PKAh8iwiRWmqg978) | 4:10 |
 | 45 | [Frau](https://open.spotify.com/track/1a9D3hfHc1RQbbWMqEtQb3) | [IUMA](https://open.spotify.com/artist/3sQkqWv3GPcfimQ2bobl2a) | [Frau](https://open.spotify.com/album/2mVTZAD0SmBOSDRMlgxGwk) | 2:56 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVA5o3WHL2eG.md) - [plain]
 | 49 | [jéremi](https://open.spotify.com/track/6k5Ip3ONxkmYCnZT3nimKs) | [RAHEL](https://open.spotify.com/artist/0WdihSMgLzyjcNcKsdvJCv) | [jéremi](https://open.spotify.com/album/45uNSACzAdmEY2MnNxW4TC) | 3:48 |
 | 50 | [Dreams](https://open.spotify.com/track/3X9LM3eLk0rB7U1LXKH8rD) | [CAVA](https://open.spotify.com/artist/43J6iItIIExbh3sEHISaD6) | [Dreams](https://open.spotify.com/album/4uXJyV2bTwc5T4pYdBSSNx) | 2:56 |
 
-Snapshot ID: `AAAAALy0Ia8px88q5sF5uiKLYwS3WxCf`
+Snapshot ID: `AAAAADtZ74q4YMvSWVqTqw7Br+LD45QH`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbTop77dnX35.md) - [plain]
 
 > New Music from  Rema, Olamide, Burna Boy, Deto Blvck, Fameye, Shoday  and more
 
-[Spotify](https://open.spotify.com/user/spotify) - 231,865 likes - 81 songs - 3 hr 39 min
+[Spotify](https://open.spotify.com/user/spotify) - 232,001 likes - 81 songs - 3 hr 39 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -45,7 +45,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbTop77dnX35.md) - [plain]
 | 35 | [DELUSIONAL](https://open.spotify.com/track/4mt6irOyTgtM55c76PnKpJ) | [Stereotype](https://open.spotify.com/artist/0binTLIlGbXSMuzhRykbRq), [KayCyy](https://open.spotify.com/artist/7gmVTgaiN0gpDJKvTHPTRL) | [DELUSIONAL](https://open.spotify.com/album/4Y9XdN5H6LdM19hr6hLo0p) | 2:30 |
 | 36 | [Plus jahin](https://open.spotify.com/track/1ZpsuOG0eE7wRqzIr9BXYz) | [Suspect 95](https://open.spotify.com/artist/1iOxNiCG89VJAPdTzJKKQ9) | [Démosthène Zeus](https://open.spotify.com/album/60fPHO1yeZ4CVHkg2tsD3W) | 2:56 |
 | 37 | [Reminder](https://open.spotify.com/track/0dHey8DZjVUpUjTReXSyS1) | [Myx Quest](https://open.spotify.com/artist/6JmBU7YwghMOJWV31Su7Ra), [Xenia Manasseh](https://open.spotify.com/artist/2J4IvVbi2h1wB2A0p5kd86) | [Reminder](https://open.spotify.com/album/6aHI6aK4gBDKDB9q5dpvUW) | 2:41 |
-| 38 | [Camaro Mi](https://open.spotify.com/track/0ZuLBhj9wKTp4eIxdIDdIM) | [Dragon INC.](https://open.spotify.com/artist/1CFA4mlNiGiqAfrfIdApwu), [Candy Bleakz](https://open.spotify.com/artist/2QPpxx2U3qEeZZsF3uaXn0) | [Camaro Mi](https://open.spotify.com/album/4zKzzIaD53qwg2CsQoqjW1) | 2:24 |
+| 38 | [Camaro Mi](https://open.spotify.com/track/0ZuLBhj9wKTp4eIxdIDdIM) | [Dragon INC.](https://open.spotify.com/artist/1CFA4mlNiGiqAfrfIdApwu), [Candy Bleakz](https://open.spotify.com/artist/2QPpxx2U3qEeZZsF3uaXn0), [BOBLIZZY](https://open.spotify.com/artist/5PbrjWXZtxtnN6zuh1kpoU) | [Camaro Mi](https://open.spotify.com/album/4zKzzIaD53qwg2CsQoqjW1) | 2:24 |
 | 39 | [Dealer \(feat\. Blaqbonez & TAR1Q\)](https://open.spotify.com/track/11kEtbWHSVbObAyXEkd0pj) | [10Ten](https://open.spotify.com/artist/7urO0i2T8Ta9E9xAuOD1d6), [Blaqbonez](https://open.spotify.com/artist/12kjvw4e3gLp6qVHO65n7W), [TAR1Q](https://open.spotify.com/artist/33KPqwPnEKJY6Tm9WfJQKq) | [1823](https://open.spotify.com/album/6tmvMIfqkN9NDqCXtnl0fV) | 2:14 |
 | 40 | [Need a Woman](https://open.spotify.com/track/7EmNSFmXGN6iQAUVIEwlub) | [Lui Cruz](https://open.spotify.com/artist/6k0kbrbP8g7cjiKnjY3FFT) | [Need a Woman](https://open.spotify.com/album/245CgoVFxmPqN6r68tTpRe) | 2:45 |
 | 41 | [Àrà](https://open.spotify.com/track/02H62NH6cNhq4qrLiqNdcv) | [Ọké](https://open.spotify.com/artist/2iYuQedAM3oShovJ0KK1Lo) | [Àrà](https://open.spotify.com/album/7LktWx70EMec5MOsaupJL7) | 2:50 |
@@ -72,7 +72,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbTop77dnX35.md) - [plain]
 | 62 | [Whatever You Wanted To \(WYWT\)](https://open.spotify.com/track/1xly5rqAgTw1vVi3jEOQKc) | [Tobes44](https://open.spotify.com/artist/75PhvG0SGrhcavLw5forbh), [Toyé](https://open.spotify.com/artist/3ako9MDpww4Y5tjUV02tmi), [Fido](https://open.spotify.com/artist/5HmfRnwYc5vNyWxRfP9U74) | [Whatever You Wanted To \(WYWT\)](https://open.spotify.com/album/4W3AvmXhrZMW2hARagOwvm) | 2:50 |
 | 63 | [Mamiwater](https://open.spotify.com/track/66OgffrXNmtyiY5Q5V9AEs) | [Ozedikus](https://open.spotify.com/artist/3iLTHHBgzgMgdeGG5K6VfO), [Babyboy AV](https://open.spotify.com/artist/5p1CMGIDFgalZneW5P1EwX) | [Mamiwater](https://open.spotify.com/album/1V9f23IyiyCPrdtvyrza8n) | 2:24 |
 | 64 | [Bani Kudi II](https://open.spotify.com/track/3O7oE6cHpZM6fUc4PbJ76q) | [Naija House Mafia](https://open.spotify.com/artist/0guY46xovntnvw1lBeBejC), [Ice Prince](https://open.spotify.com/artist/1sSt1DqqqFLkPwfrqafVyn), [FirstKlaz](https://open.spotify.com/artist/6VPpDxzOXTPNsdxfJ5cAR5) | [Bani Kudi II](https://open.spotify.com/album/6AqiRsFiCY6x0Jwif5XU8o) | 3:57 |
-| 65 | [Óri Mi](https://open.spotify.com/track/5noPPKuUHFFeZ9BLULvzgI) | [Gäby](https://open.spotify.com/artist/0hGY9ECI7udzvzgrP8yVK3), [Serøtonin](https://open.spotify.com/artist/2WBBOY2ru2VV81lWHw6lzp) | [Óri Mi](https://open.spotify.com/album/121GR2YemARVcJLRYganqy) | 1:23 |
+| 65 | [Óri Mi](https://open.spotify.com/track/5noPPKuUHFFeZ9BLULvzgI) | [Gäby](https://open.spotify.com/artist/0hGY9ECI7udzvzgrP8yVK3), [Serøtonin](https://open.spotify.com/artist/2WBBOY2ru2VV81lWHw6lzp), [Flying Phoenix](https://open.spotify.com/artist/7kwbRnVpCeEtMFELdl7tzg) | [Óri Mi](https://open.spotify.com/album/121GR2YemARVcJLRYganqy) | 1:23 |
 | 66 | [Luvaman](https://open.spotify.com/track/2SuDJBPdKNKEi61XzY5uvJ) | [SuperSmashBroz](https://open.spotify.com/artist/4o05vkR7aQMnPRbAqVk13x), [Olivetheboy](https://open.spotify.com/artist/6yCYm86uDrfUteHNs6zcg1), [YKB](https://open.spotify.com/artist/2f8rjDwhSy9IDL6sB6BEEE) | [Luvaman](https://open.spotify.com/album/1i5sX5PyVzdqPnPvv2ZuMK) | 2:02 |
 | 67 | [Big Professor](https://open.spotify.com/track/103azulimYPiBy9lyfqbdS) | [Boj](https://open.spotify.com/artist/4qYpTEJThZ8FC8KzyFrSWW), [Egertton](https://open.spotify.com/artist/4Hz1UttsadDCW4xA41XKoV) | [Big Professor](https://open.spotify.com/album/6fUtrAsmiBGPSQJ6VkxcoK) | 3:21 |
 | 68 | [Idankidan](https://open.spotify.com/track/6i4iofET7ARqxC6YnuJuTL) | [BhadBoi OML](https://open.spotify.com/artist/7gCoPolzUpHjzOhp22ihoN) | [Idankidan](https://open.spotify.com/album/2ZPEETiJx6l1NpWKzmmfAR) | 2:30 |
@@ -90,4 +90,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbTop77dnX35.md) - [plain]
 | 80 | [Your Lies](https://open.spotify.com/track/0k65jpxAil63RGVtJDcdfD) | [Debba](https://open.spotify.com/artist/3Upr4OOMVKLF2LoFgBaL5X) | [Your Lies](https://open.spotify.com/album/3vsg9BDGvAeiZv5YEwb4q2) | 3:39 |
 | 81 | [liminal?](https://open.spotify.com/track/3vmGvIxO2H1fIGyq4Q5pbR) | [bartek turski](https://open.spotify.com/artist/5HArWtrcYhpxplTtZ848wR) | [liminal?](https://open.spotify.com/album/19sZSR3N2gmjYAvYC0i04O) | 2:39 |
 
-Snapshot ID: `AAAAAKZ10km2zaq5XYDbX3fiZKqIzoz8`
+Snapshot ID: `AAAAAN+WVOESUfH73ZbyPmtjGL2IDsGc`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX78toxP7mOaJ.md) - [plain]
 
 > Fresh rock & alternative from independent artists every Wednesday\. Cover: footballhead
 
-[Spotify](https://open.spotify.com/user/spotify) - 179,264 likes - 75 songs - 4 hr 23 min
+[Spotify](https://open.spotify.com/user/spotify) - 179,337 likes - 75 songs - 4 hr 23 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX78toxP7mOaJ.md) - [plain]
 | 74 | [Tell The Leaves Not To Turn](https://open.spotify.com/track/6hn3YfzZe35Y0MoAxJMNL9) | [Hank](https://open.spotify.com/artist/0yRKzgUID7XrB6LoWCstJK) | [Tell The Leaves Not To Turn](https://open.spotify.com/album/10IpzfeJGY09tplI7vXUqW) | 4:31 |
 | 75 | [In My Veins](https://open.spotify.com/track/5QuXR33ZshEdjDcjEpNLcC) | [Kora Puckett](https://open.spotify.com/artist/5oarQtFoQwmQMcT6U0KLGq) | [In My Veins](https://open.spotify.com/album/3Ut3CWXikiW5ketsoRnNX4) | 3:43 |
 
-Snapshot ID: `AAAAANb6ARCvHHcvLxLdjwuUyuUr8yz2`
+Snapshot ID: `AAAAAIVmGb3YxV7QNzo0FO4lB7LgUQW7`

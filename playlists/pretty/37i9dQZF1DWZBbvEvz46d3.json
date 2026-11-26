@@ -1,12 +1,12 @@
 {
   "description": "Nowe przeboje i ponadczasowe klasyki o  mi\u0142o\u015bci. Tylko po polsku.",
-  "num_followers": 76883,
+  "num_followers": 76891,
   "original_name": "Polskie hity o mi\u0142o\u015bci",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAHZ9NEZBVbs9bgGG8Ujk8/8FyEMJ",
+  "snapshot_id": "AAAAAMFf4Ebr1F2ajl+UuaokFFQ1fyjQ",
   "tracks": [
     {
       "added_at": "2025-10-16 09:34:51",
@@ -539,22 +539,6 @@
     {
       "added_at": "2025-10-16 09:34:51",
       "album": {
-        "name": "Ania Karwan",
-        "url": "https://open.spotify.com/album/3tXnKtoEc9lzcWOy5EnkZA"
-      },
-      "artists": [
-        {
-          "name": "Ania Karwan",
-          "url": "https://open.spotify.com/artist/6EtPFq0WhAq7kzcryE23b4"
-        }
-      ],
-      "duration_ms": 197764,
-      "name": "S\u0142ucham Ci\u0119 w radiu co tydzie\u0144",
-      "url": "https://open.spotify.com/track/6h0UXt92WNnRthd0t1AVaq"
-    },
-    {
-      "added_at": "2025-10-16 09:34:51",
-      "album": {
         "name": "Ma\u0142omiasteczkowy",
         "url": "https://open.spotify.com/album/00hXe7ttZI4gjjWYqKAdMX"
       },
@@ -567,6 +551,22 @@
       "duration_ms": 229666,
       "name": "Najnowszy Klip",
       "url": "https://open.spotify.com/track/35UvOH0tRlSCdtWtaXuiWh"
+    },
+    {
+      "added_at": "2025-10-16 09:34:51",
+      "album": {
+        "name": "Ania Karwan",
+        "url": "https://open.spotify.com/album/3tXnKtoEc9lzcWOy5EnkZA"
+      },
+      "artists": [
+        {
+          "name": "Ania Karwan",
+          "url": "https://open.spotify.com/artist/6EtPFq0WhAq7kzcryE23b4"
+        }
+      ],
+      "duration_ms": 197764,
+      "name": "S\u0142ucham Ci\u0119 w radiu co tydzie\u0144",
+      "url": "https://open.spotify.com/track/6h0UXt92WNnRthd0t1AVaq"
     },
     {
       "added_at": "2025-10-16 09:34:51",
@@ -631,22 +631,6 @@
     {
       "added_at": "2025-10-16 09:34:51",
       "album": {
-        "name": "Komponuj\u0105c siebie",
-        "url": "https://open.spotify.com/album/0BUCC6q7Y8lFrX6cBU7Llh"
-      },
-      "artists": [
-        {
-          "name": "Sylwia Grzeszczak",
-          "url": "https://open.spotify.com/artist/2TRVhYMkHV4jwB92R3McaS"
-        }
-      ],
-      "duration_ms": 184514,
-      "name": "Ksi\u0119\u017cniczka",
-      "url": "https://open.spotify.com/track/7Hd16iz8di8JQkdNkajYJ4"
-    },
-    {
-      "added_at": "2025-10-16 09:34:51",
-      "album": {
         "name": "Comfort and Happiness",
         "url": "https://open.spotify.com/album/3Ku50CLulJHPS5DTKRNyaM"
       },
@@ -659,6 +643,22 @@
       "duration_ms": 243066,
       "name": "Tr\u00f3jk\u0105ty i Kwadraty",
       "url": "https://open.spotify.com/track/3v0fVON6z5CnRlle3SJZU1"
+    },
+    {
+      "added_at": "2025-10-16 09:34:51",
+      "album": {
+        "name": "Komponuj\u0105c siebie",
+        "url": "https://open.spotify.com/album/0BUCC6q7Y8lFrX6cBU7Llh"
+      },
+      "artists": [
+        {
+          "name": "Sylwia Grzeszczak",
+          "url": "https://open.spotify.com/artist/2TRVhYMkHV4jwB92R3McaS"
+        }
+      ],
+      "duration_ms": 184514,
+      "name": "Ksi\u0119\u017cniczka",
+      "url": "https://open.spotify.com/track/7Hd16iz8di8JQkdNkajYJ4"
     },
     {
       "added_at": "2025-10-16 09:34:51",
@@ -711,22 +711,6 @@
     {
       "added_at": "2025-10-16 09:34:51",
       "album": {
-        "name": "Motyle",
-        "url": "https://open.spotify.com/album/00FcCZBbHD1FmOfn3FdDHj"
-      },
-      "artists": [
-        {
-          "name": "Sylwia Grzeszczak",
-          "url": "https://open.spotify.com/artist/2TRVhYMkHV4jwB92R3McaS"
-        }
-      ],
-      "duration_ms": 175667,
-      "name": "Motyle",
-      "url": "https://open.spotify.com/track/1Eaiv6OMMwO3v4iWl4eHHY"
-    },
-    {
-      "added_at": "2025-10-16 09:34:51",
-      "album": {
         "name": "Duety",
         "url": "https://open.spotify.com/album/2ubxdOP13B5rWDTeEHPw1t"
       },
@@ -743,6 +727,22 @@
       "duration_ms": 263853,
       "name": "Trudno tak (razem byc nam ze soba)",
       "url": "https://open.spotify.com/track/2XaWRFfWAopw4MjhWzuJ15"
+    },
+    {
+      "added_at": "2025-10-16 09:34:51",
+      "album": {
+        "name": "Motyle",
+        "url": "https://open.spotify.com/album/00FcCZBbHD1FmOfn3FdDHj"
+      },
+      "artists": [
+        {
+          "name": "Sylwia Grzeszczak",
+          "url": "https://open.spotify.com/artist/2TRVhYMkHV4jwB92R3McaS"
+        }
+      ],
+      "duration_ms": 175667,
+      "name": "Motyle",
+      "url": "https://open.spotify.com/track/1Eaiv6OMMwO3v4iWl4eHHY"
     },
     {
       "added_at": "2025-10-16 09:34:51",
@@ -891,22 +891,6 @@
     {
       "added_at": "2025-10-16 09:34:51",
       "album": {
-        "name": "Wielki Odlot 2 - Najlepsze 80-te",
-        "url": "https://open.spotify.com/album/47q9qzxUVT9p21WJPJicYI"
-      },
-      "artists": [
-        {
-          "name": "Urszula",
-          "url": "https://open.spotify.com/artist/6vIPbNGbwdrg7LSpz4V2QX"
-        }
-      ],
-      "duration_ms": 326706,
-      "name": "Dmuchawce, Latawce, Wiatr",
-      "url": "https://open.spotify.com/track/4itxKC1nLYQ8H4e2ejj1E3"
-    },
-    {
-      "added_at": "2025-10-16 09:34:51",
-      "album": {
         "name": "Tamta dziewczyna",
         "url": "https://open.spotify.com/album/10xXsahXWCsHQDS5IR82QN"
       },
@@ -923,6 +907,22 @@
       "duration_ms": 222865,
       "name": "Bezdro\u017ca (feat. Mateusz Zi\u00f3\u0142ko)",
       "url": "https://open.spotify.com/track/3uLUwh8j0KWi9kyynQ3nUI"
+    },
+    {
+      "added_at": "2025-10-16 09:34:51",
+      "album": {
+        "name": "Wielki Odlot 2 - Najlepsze 80-te",
+        "url": "https://open.spotify.com/album/47q9qzxUVT9p21WJPJicYI"
+      },
+      "artists": [
+        {
+          "name": "Urszula",
+          "url": "https://open.spotify.com/artist/6vIPbNGbwdrg7LSpz4V2QX"
+        }
+      ],
+      "duration_ms": 326706,
+      "name": "Dmuchawce, Latawce, Wiatr",
+      "url": "https://open.spotify.com/track/4itxKC1nLYQ8H4e2ejj1E3"
     },
     {
       "added_at": "2025-10-16 09:34:51",
@@ -979,22 +979,6 @@
     {
       "added_at": "2025-10-16 09:34:51",
       "album": {
-        "name": "Ksiega Urodzaju",
-        "url": "https://open.spotify.com/album/5OWhE19fiFeQLFY9mD0UQr"
-      },
-      "artists": [
-        {
-          "name": "Marcin Rozynek",
-          "url": "https://open.spotify.com/artist/0K0Sa7amVwCmQKz7ZHRRim"
-        }
-      ],
-      "duration_ms": 239600,
-      "name": "Silacz",
-      "url": "https://open.spotify.com/track/2anIL8mQb31ZlxLMEjwhG9"
-    },
-    {
-      "added_at": "2025-10-16 09:34:51",
-      "album": {
         "name": "O nich, o Tobie",
         "url": "https://open.spotify.com/album/08ViqDYKABc3OpTCh4Ng5r"
       },
@@ -1007,6 +991,22 @@
       "duration_ms": 147417,
       "name": "O nich, o Tobie",
       "url": "https://open.spotify.com/track/129VFFHvkAzwpYHqTrmtKB"
+    },
+    {
+      "added_at": "2025-10-16 09:34:51",
+      "album": {
+        "name": "Ksiega Urodzaju",
+        "url": "https://open.spotify.com/album/5OWhE19fiFeQLFY9mD0UQr"
+      },
+      "artists": [
+        {
+          "name": "Marcin Rozynek",
+          "url": "https://open.spotify.com/artist/0K0Sa7amVwCmQKz7ZHRRim"
+        }
+      ],
+      "duration_ms": 239600,
+      "name": "Silacz",
+      "url": "https://open.spotify.com/track/2anIL8mQb31ZlxLMEjwhG9"
     },
     {
       "added_at": "2025-10-16 09:34:51",
@@ -1187,22 +1187,6 @@
     {
       "added_at": "2025-10-16 09:34:51",
       "album": {
-        "name": "\u015awiat si\u0119 pomyli\u0142",
-        "url": "https://open.spotify.com/album/1HUlehVstUZpB4DenSLVTf"
-      },
-      "artists": [
-        {
-          "name": "Patrycja Markowska",
-          "url": "https://open.spotify.com/artist/0Jl6TFKAJR7zIv2kvA1RNf"
-        }
-      ],
-      "duration_ms": 210333,
-      "name": "\u015awiat si\u0119 pomyli\u0142",
-      "url": "https://open.spotify.com/track/3o9ZcjNqDxa6HGdHew2AaH"
-    },
-    {
-      "added_at": "2025-10-16 09:34:51",
-      "album": {
         "name": "Tylko Mnie Kochaj",
         "url": "https://open.spotify.com/album/2oHewePut3hKygGxcCNaLR"
       },
@@ -1215,6 +1199,22 @@
       "duration_ms": 169813,
       "name": "Tylko mnie kochaj",
       "url": "https://open.spotify.com/track/1LrSloV35nuQQ2FoUA1gIk"
+    },
+    {
+      "added_at": "2025-10-16 09:34:51",
+      "album": {
+        "name": "\u015awiat si\u0119 pomyli\u0142",
+        "url": "https://open.spotify.com/album/1HUlehVstUZpB4DenSLVTf"
+      },
+      "artists": [
+        {
+          "name": "Patrycja Markowska",
+          "url": "https://open.spotify.com/artist/0Jl6TFKAJR7zIv2kvA1RNf"
+        }
+      ],
+      "duration_ms": 210333,
+      "name": "\u015awiat si\u0119 pomyli\u0142",
+      "url": "https://open.spotify.com/track/3o9ZcjNqDxa6HGdHew2AaH"
     },
     {
       "added_at": "2025-10-16 09:34:51",
@@ -1267,22 +1267,6 @@
     {
       "added_at": "2025-10-16 09:34:51",
       "album": {
-        "name": "Zapomnij Mi",
-        "url": "https://open.spotify.com/album/3II6EqtqCnYV5IPW0axuOn"
-      },
-      "artists": [
-        {
-          "name": "Sarsa",
-          "url": "https://open.spotify.com/artist/0lKCO7SCRiTCS4ZEU6l1zx"
-        }
-      ],
-      "duration_ms": 217186,
-      "name": "Zapomnij Mi",
-      "url": "https://open.spotify.com/track/5Dk03tfXBF8zYlJOUSaKe9"
-    },
-    {
-      "added_at": "2025-10-16 09:34:51",
-      "album": {
         "name": "Dedykacja",
         "url": "https://open.spotify.com/album/5axpzP33FpIyaO31gCPtSz"
       },
@@ -1295,6 +1279,22 @@
       "duration_ms": 228293,
       "name": "12 \u0141ez",
       "url": "https://open.spotify.com/track/4c1SMZWc243YtmF3Nw7Tc6"
+    },
+    {
+      "added_at": "2025-10-16 09:34:51",
+      "album": {
+        "name": "Zapomnij Mi",
+        "url": "https://open.spotify.com/album/3II6EqtqCnYV5IPW0axuOn"
+      },
+      "artists": [
+        {
+          "name": "Sarsa",
+          "url": "https://open.spotify.com/artist/0lKCO7SCRiTCS4ZEU6l1zx"
+        }
+      ],
+      "duration_ms": 217186,
+      "name": "Zapomnij Mi",
+      "url": "https://open.spotify.com/track/5Dk03tfXBF8zYlJOUSaKe9"
     },
     {
       "added_at": "2025-10-16 09:34:51",

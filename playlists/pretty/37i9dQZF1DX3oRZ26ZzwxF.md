@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3oRZ26ZzwxF.md) - [plain]
 
 > Le meilleur du rap africain francophone\. Photo : THB
 
-[Spotify](https://open.spotify.com/user/spotify) - 80,903 likes - 49 songs - 2 hr 11 min
+[Spotify](https://open.spotify.com/user/spotify) - 80,946 likes - 49 songs - 2 hr 11 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -58,4 +58,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3oRZ26ZzwxF.md) - [plain]
 | 48 | [INGUÉRISSABLE](https://open.spotify.com/track/24m2Obg80M1GjazM572TU7) | [Le Petit Mandelha](https://open.spotify.com/artist/43pdc0kZ3PvkKhcA7CfDij), [L'Oiseau Rare](https://open.spotify.com/artist/4IAlTRWiKoAqAQLgyupL0U) | [INGUÉRISSABLE](https://open.spotify.com/album/57u2uKWSBm69T7hXwRdn5O) | 2:46 |
 | 49 | [Happiness](https://open.spotify.com/track/6y3eM48BvzpMCk9DaiFarx) | [Miss kala kala](https://open.spotify.com/artist/73vwqIImTdACRMndLzff9a) | [Happiness](https://open.spotify.com/album/50L0Y1UjqLn7TtmjEGOUky) | 3:00 |
 
-Snapshot ID: `AAAAAIRW19squyiTOgWSwZr+JnxVGSBj`
+Snapshot ID: `AAAAAK24RGbYQSeQPnOStnK8JbvlsPQv`

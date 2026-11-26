@@ -7087,6 +7087,24 @@
     },
     {
       "album": {
+        "name": "No quiero volver a ser la de antes",
+        "url": "https://open.spotify.com/album/61cXMcq4Oq1UHrW96AggZx"
+      },
+      "artists": [
+        {
+          "name": "L\u00eda Luque",
+          "url": "https://open.spotify.com/artist/0FHwXD2qLe7i1TReZjztpj"
+        }
+      ],
+      "date_added": "2026-10-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 212068,
+      "name": "No quiero volver a ser la de antes",
+      "url": "https://open.spotify.com/track/6oZVPofBrKsvWg0pJ1uE7c"
+    },
+    {
+      "album": {
         "name": "Things I Chose To Remember",
         "url": "https://open.spotify.com/album/13DpMn525oKHXLQSgq96TF"
       },
@@ -10092,7 +10110,7 @@
       ],
       "date_added": "2026-04-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-26",
       "duration_ms": 246600,
       "name": "Todav\u00eda",
       "url": "https://open.spotify.com/track/5M1C2wqiSk9OqEjZcJEYKe"

@@ -1,12 +1,12 @@
 {
   "description": "The songs soundtracking the best years ",
-  "num_followers": 87902,
+  "num_followers": 87965,
   "original_name": "Rewind: Naija Hits",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAGz+02F07yn0SHa3yypyJ5poOzR8",
+  "snapshot_id": "AAAAAIRAwgbP7n08hsbnB3EM4nQaoteX",
   "tracks": [
     {
       "added_at": "2026-09-22 19:05:19",
@@ -527,26 +527,6 @@
     {
       "added_at": "2026-09-22 19:05:19",
       "album": {
-        "name": "Chemistry",
-        "url": "https://open.spotify.com/album/7fIrtqz9L6ilRL6vXuKR0D"
-      },
-      "artists": [
-        {
-          "name": "Falz",
-          "url": "https://open.spotify.com/artist/2s187JqHC9kipPLBLWXubl"
-        },
-        {
-          "name": "Simi",
-          "url": "https://open.spotify.com/artist/4Ns55iOSe1Im2WU2e1Eym0"
-        }
-      ],
-      "duration_ms": 228414,
-      "name": "Chemistry",
-      "url": "https://open.spotify.com/track/2oMerdOdPAEpv67uVjtTUJ"
-    },
-    {
-      "added_at": "2026-09-22 19:05:19",
-      "album": {
         "name": "TEN",
         "url": "https://open.spotify.com/album/4FiD8U5S4AEIUS1fev5cKT"
       },
@@ -563,6 +543,26 @@
       "duration_ms": 206982,
       "name": "Ohema (feat. Mr Eazi)",
       "url": "https://open.spotify.com/track/2x09oCozS8uk8PHZwPInNH"
+    },
+    {
+      "added_at": "2026-09-22 19:05:19",
+      "album": {
+        "name": "Chemistry",
+        "url": "https://open.spotify.com/album/7fIrtqz9L6ilRL6vXuKR0D"
+      },
+      "artists": [
+        {
+          "name": "Falz",
+          "url": "https://open.spotify.com/artist/2s187JqHC9kipPLBLWXubl"
+        },
+        {
+          "name": "Simi",
+          "url": "https://open.spotify.com/artist/4Ns55iOSe1Im2WU2e1Eym0"
+        }
+      ],
+      "duration_ms": 228414,
+      "name": "Chemistry",
+      "url": "https://open.spotify.com/track/2oMerdOdPAEpv67uVjtTUJ"
     },
     {
       "added_at": "2026-09-22 19:05:19",

@@ -1,12 +1,12 @@
 {
   "description": "\uc774\ubcc4, \uc2ac\ud514, \uacf5\ud5c8\ud568. \ub098\uc758 \uc6b0\uc6b8\uc5d0 \uacf5\uac10\ud574\ubcf4\uc138\uc694",
-  "num_followers": 22583,
+  "num_followers": 22589,
   "original_name": "\ub098\uc758 \uc6b0\uc6b8\uc740, (K-Pop Sad Songs)",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAP5g/xzSsuEcoqPUmVQefpky93/B",
+  "snapshot_id": "AAAAALasmNvGKl870CuKbw1K0NRH8ygN",
   "tracks": [
     {
       "added_at": "2026-09-22 14:14:58",
@@ -27,22 +27,6 @@
     {
       "added_at": "2026-09-22 14:14:58",
       "album": {
-        "name": "Only Then",
-        "url": "https://open.spotify.com/album/4erAMXv1Uin2wnf1vW4Eqq"
-      },
-      "artists": [
-        {
-          "name": "Roy Kim",
-          "url": "https://open.spotify.com/artist/3ErHVJMsxTq2lLSmnONBm9"
-        }
-      ],
-      "duration_ms": 248835,
-      "name": "Only Then",
-      "url": "https://open.spotify.com/track/7mFigNlS2dsKMhcmJyfpeg"
-    },
-    {
-      "added_at": "2026-09-22 14:14:58",
-      "album": {
         "name": "Palette",
         "url": "https://open.spotify.com/album/5V8n6fqyAPxvFTibPhQVcp"
       },
@@ -55,6 +39,22 @@
       "duration_ms": 249241,
       "name": "Ending Scene",
       "url": "https://open.spotify.com/track/06EMBzxDm2hueehobAlMtm"
+    },
+    {
+      "added_at": "2026-09-22 14:14:58",
+      "album": {
+        "name": "Only Then",
+        "url": "https://open.spotify.com/album/4erAMXv1Uin2wnf1vW4Eqq"
+      },
+      "artists": [
+        {
+          "name": "Roy Kim",
+          "url": "https://open.spotify.com/artist/3ErHVJMsxTq2lLSmnONBm9"
+        }
+      ],
+      "duration_ms": 248835,
+      "name": "Only Then",
+      "url": "https://open.spotify.com/track/7mFigNlS2dsKMhcmJyfpeg"
     },
     {
       "added_at": "2026-09-22 14:14:58",
@@ -163,22 +163,6 @@
     {
       "added_at": "2026-09-22 14:14:58",
       "album": {
-        "name": "Crushed",
-        "url": "https://open.spotify.com/album/0sXjgH2vb0I2ifgstdSztt"
-      },
-      "artists": [
-        {
-          "name": "10CM",
-          "url": "https://open.spotify.com/artist/6zn0ihyAApAYV51zpXxdEp"
-        }
-      ],
-      "duration_ms": 242000,
-      "name": "Crushed",
-      "url": "https://open.spotify.com/track/7qWMlEMiKxnrl1bFTOcVPT"
-    },
-    {
-      "added_at": "2026-09-22 14:14:58",
-      "album": {
         "name": "We Are All Trying Here (Original Soundtrack) Part.3",
         "url": "https://open.spotify.com/album/3zE1rg1hYnr1WHQVWpd15P"
       },
@@ -191,6 +175,22 @@
       "duration_ms": 245000,
       "name": "Pieces",
       "url": "https://open.spotify.com/track/1EjyOE9pgRwUmNa5OUmGjB"
+    },
+    {
+      "added_at": "2026-09-22 14:14:58",
+      "album": {
+        "name": "Crushed",
+        "url": "https://open.spotify.com/album/0sXjgH2vb0I2ifgstdSztt"
+      },
+      "artists": [
+        {
+          "name": "10CM",
+          "url": "https://open.spotify.com/artist/6zn0ihyAApAYV51zpXxdEp"
+        }
+      ],
+      "duration_ms": 242000,
+      "name": "Crushed",
+      "url": "https://open.spotify.com/track/7qWMlEMiKxnrl1bFTOcVPT"
     },
     {
       "added_at": "2026-09-22 14:14:58",
@@ -407,22 +407,6 @@
     {
       "added_at": "2026-09-22 14:14:58",
       "album": {
-        "name": "My Liberation Notes OST Part 11",
-        "url": "https://open.spotify.com/album/44bjY6dv0qG7OghlaiGQ0A"
-      },
-      "artists": [
-        {
-          "name": "Kim Feel",
-          "url": "https://open.spotify.com/artist/4EPYWwU4c8eG2GzD7MenUA"
-        }
-      ],
-      "duration_ms": 259056,
-      "name": "Here We Are",
-      "url": "https://open.spotify.com/track/1ojMUMVW07SgOFXCiPEbsr"
-    },
-    {
-      "added_at": "2026-09-22 14:14:58",
-      "album": {
         "name": "Try (Journey Epilogue)",
         "url": "https://open.spotify.com/album/5jb1JQY7bJhOWXlMjID9uQ"
       },
@@ -435,6 +419,22 @@
       "duration_ms": 216026,
       "name": "Try (Journey Epilogue)",
       "url": "https://open.spotify.com/track/7HK1elgUFULwdkMsiCbqoJ"
+    },
+    {
+      "added_at": "2026-09-22 14:14:58",
+      "album": {
+        "name": "My Liberation Notes OST Part 11",
+        "url": "https://open.spotify.com/album/44bjY6dv0qG7OghlaiGQ0A"
+      },
+      "artists": [
+        {
+          "name": "Kim Feel",
+          "url": "https://open.spotify.com/artist/4EPYWwU4c8eG2GzD7MenUA"
+        }
+      ],
+      "duration_ms": 259056,
+      "name": "Here We Are",
+      "url": "https://open.spotify.com/track/1ojMUMVW07SgOFXCiPEbsr"
     },
     {
       "added_at": "2026-09-22 14:14:58",
@@ -647,22 +647,6 @@
     {
       "added_at": "2026-09-22 14:14:58",
       "album": {
-        "name": "Empty",
-        "url": "https://open.spotify.com/album/4HEYF3e5FR2nVhlGQ7XQLO"
-      },
-      "artists": [
-        {
-          "name": "Lee Seung Gi",
-          "url": "https://open.spotify.com/artist/12AUp9oqeJDhNfO6IhQiNi"
-        }
-      ],
-      "duration_ms": 218546,
-      "name": "Empty",
-      "url": "https://open.spotify.com/track/79pnJjoMNfFYAdW90Yd8Fr"
-    },
-    {
-      "added_at": "2026-09-22 14:14:58",
-      "album": {
         "name": "O",
         "url": "https://open.spotify.com/album/42k8JWt7Czu6cLEevU2bus"
       },
@@ -675,6 +659,22 @@
       "duration_ms": 217040,
       "name": "Without U",
       "url": "https://open.spotify.com/track/6uy6OjdR33a74DfkaJ8Ar1"
+    },
+    {
+      "added_at": "2026-09-22 14:14:58",
+      "album": {
+        "name": "Empty",
+        "url": "https://open.spotify.com/album/4HEYF3e5FR2nVhlGQ7XQLO"
+      },
+      "artists": [
+        {
+          "name": "Lee Seung Gi",
+          "url": "https://open.spotify.com/artist/12AUp9oqeJDhNfO6IhQiNi"
+        }
+      ],
+      "duration_ms": 218546,
+      "name": "Empty",
+      "url": "https://open.spotify.com/track/79pnJjoMNfFYAdW90Yd8Fr"
     },
     {
       "added_at": "2026-09-22 14:14:58",
@@ -823,22 +823,6 @@
     {
       "added_at": "2026-09-22 14:14:58",
       "album": {
-        "name": "Always You (Original Soundtrack from Recipe for Love, Pt. 6)",
-        "url": "https://open.spotify.com/album/6X7eCHmm5pYJbbKn1ETnnP"
-      },
-      "artists": [
-        {
-          "name": "Kim Won Joo",
-          "url": "https://open.spotify.com/artist/047yOGiAm4YzgP6lgzxD0D"
-        }
-      ],
-      "duration_ms": 224602,
-      "name": "Always You",
-      "url": "https://open.spotify.com/track/44YjvQqYO17jk0VeTY1LKe"
-    },
-    {
-      "added_at": "2026-09-22 14:14:58",
-      "album": {
         "name": "Hold on",
         "url": "https://open.spotify.com/album/4xDmwkuOs9WDHKMVdmNiH3"
       },
@@ -851,6 +835,22 @@
       "duration_ms": 231826,
       "name": "Hold on",
       "url": "https://open.spotify.com/track/4I8HkdCUsx3klJdXyefBaq"
+    },
+    {
+      "added_at": "2026-09-22 14:14:58",
+      "album": {
+        "name": "Always You (Original Soundtrack from Recipe for Love, Pt. 6)",
+        "url": "https://open.spotify.com/album/6X7eCHmm5pYJbbKn1ETnnP"
+      },
+      "artists": [
+        {
+          "name": "Kim Won Joo",
+          "url": "https://open.spotify.com/artist/047yOGiAm4YzgP6lgzxD0D"
+        }
+      ],
+      "duration_ms": 224602,
+      "name": "Always You",
+      "url": "https://open.spotify.com/track/44YjvQqYO17jk0VeTY1LKe"
     }
   ],
   "unique_name": "\ub098\uc758 \uc6b0\uc6b8\uc740, (K-Pop Sad Songs)",

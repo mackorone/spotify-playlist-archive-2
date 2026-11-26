@@ -7117,6 +7117,24 @@
     },
     {
       "album": {
+        "name": "Emotion (10th Anniversary Edition)",
+        "url": "https://open.spotify.com/album/1iFZcNmUvhWq5uXYmlKlKb"
+      },
+      "artists": [
+        {
+          "name": "Carly Rae Jepsen",
+          "url": "https://open.spotify.com/artist/6sFIWsNpZYqfjUpaCgueju"
+        }
+      ],
+      "date_added": "2026-11-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 251327,
+      "name": "Run Away With Me",
+      "url": "https://open.spotify.com/track/3rLLDjCJ9JllYvwUKfd3vW"
+    },
+    {
+      "album": {
         "name": "Run Rabbit",
         "url": "https://open.spotify.com/album/1d5wcguxg3968t6WLUGmx4"
       },
@@ -7128,7 +7146,7 @@
       ],
       "date_added": "2026-05-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-26",
       "duration_ms": 189111,
       "name": "Run Rabbit",
       "url": "https://open.spotify.com/track/0xVSc4Gvf5ua1yb96Ku5D2"
@@ -8963,7 +8981,7 @@
       "date_added": "2026-11-24",
       "date_added_asterisk": false,
       "date_removed": null,
-      "duration_ms": 156830,
+      "duration_ms": 156520,
       "name": "TRDWFE",
       "url": "https://open.spotify.com/track/4XikHdgDDgZT0jDxJXjz9F"
     },

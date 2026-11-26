@@ -1,12 +1,12 @@
 {
   "description": "Songs so beautiful, they'll stop you in your tracks.",
-  "num_followers": 2246909,
+  "num_followers": 2246736,
   "original_name": "The Most Beautiful Songs in the World",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAJEiIooI8/LPzxP2xTGW59YpHE0L",
+  "snapshot_id": "AAAAAFnUDb6iYm6O2lfECy2EEPh22JhU",
   "tracks": [
     {
       "added_at": "2026-08-21 11:48:59",
@@ -871,22 +871,6 @@
     {
       "added_at": "2025-10-17 10:29:03",
       "album": {
-        "name": "That's Just The Way It Is, Babe",
-        "url": "https://open.spotify.com/album/02Zc3D5tiEHFXMeEdvGcFE"
-      },
-      "artists": [
-        {
-          "name": "John Vincent III",
-          "url": "https://open.spotify.com/artist/1sgVcCMCarG7yWGmkP9wMb"
-        }
-      ],
-      "duration_ms": 208253,
-      "name": "That\u2019s Just The Way It Is, Babe",
-      "url": "https://open.spotify.com/track/7I5Kv0uTItrFKOA2C2ls4M"
-    },
-    {
-      "added_at": "2025-10-17 10:29:03",
-      "album": {
         "name": "The Summer Isles",
         "url": "https://open.spotify.com/album/05HEBowDsH1MMkERUsn6Tl"
       },
@@ -899,6 +883,22 @@
       "duration_ms": 204773,
       "name": "Our Time",
       "url": "https://open.spotify.com/track/0TNQTCtjB0tIXbdzbJPgiL"
+    },
+    {
+      "added_at": "2025-10-17 10:29:03",
+      "album": {
+        "name": "That's Just The Way It Is, Babe",
+        "url": "https://open.spotify.com/album/02Zc3D5tiEHFXMeEdvGcFE"
+      },
+      "artists": [
+        {
+          "name": "John Vincent III",
+          "url": "https://open.spotify.com/artist/1sgVcCMCarG7yWGmkP9wMb"
+        }
+      ],
+      "duration_ms": 208253,
+      "name": "That\u2019s Just The Way It Is, Babe",
+      "url": "https://open.spotify.com/track/7I5Kv0uTItrFKOA2C2ls4M"
     },
     {
       "added_at": "2025-10-17 10:29:03",

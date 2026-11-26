@@ -1,12 +1,12 @@
 {
   "description": "Nacimos para rodar en el asfalto. ",
-  "num_followers": 220713,
+  "num_followers": 220767,
   "original_name": "Las Choppers",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAALbOMJsoHeAFNNhsbIgRrGTj3x5X",
+  "snapshot_id": "AAAAACXgGHMj0L0D7iEuKYboZEDyX8Wp",
   "tracks": [
     {
       "added_at": "2026-09-11 06:00:08",
@@ -727,22 +727,6 @@
     {
       "added_at": "2026-09-11 06:00:08",
       "album": {
-        "name": "Contraband",
-        "url": "https://open.spotify.com/album/64GnrmrpL1fvfF0r1AoZLB"
-      },
-      "artists": [
-        {
-          "name": "Velvet Revolver",
-          "url": "https://open.spotify.com/artist/7CHilrn81OdYjkh4uSVnYM"
-        }
-      ],
-      "duration_ms": 236600,
-      "name": "Dirty Little Thing",
-      "url": "https://open.spotify.com/track/2NJ5fMRTfFZofOaTccEN9k"
-    },
-    {
-      "added_at": "2026-09-11 06:00:08",
-      "album": {
         "name": "Holy Diver",
         "url": "https://open.spotify.com/album/2wkqGL9LivRgE9K523kizA"
       },
@@ -755,6 +739,22 @@
       "duration_ms": 254000,
       "name": "Rainbow In The Dark",
       "url": "https://open.spotify.com/track/4ggy61YkrNendRHDi8fmNF"
+    },
+    {
+      "added_at": "2026-09-11 06:00:08",
+      "album": {
+        "name": "Contraband",
+        "url": "https://open.spotify.com/album/64GnrmrpL1fvfF0r1AoZLB"
+      },
+      "artists": [
+        {
+          "name": "Velvet Revolver",
+          "url": "https://open.spotify.com/artist/7CHilrn81OdYjkh4uSVnYM"
+        }
+      ],
+      "duration_ms": 236600,
+      "name": "Dirty Little Thing",
+      "url": "https://open.spotify.com/track/2NJ5fMRTfFZofOaTccEN9k"
     },
     {
       "added_at": "2026-09-11 06:00:08",

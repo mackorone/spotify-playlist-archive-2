@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXczv0e5n6k9E.md) - [plain]
 
 > Η ελληνική ραπ σκηνή στα καλύτερά της\. Εξώφυλλο: Roi 6/12
 
-[Spotify](https://open.spotify.com/user/spotify) - 73,786 likes - 60 songs - 2 hr 40 min
+[Spotify](https://open.spotify.com/user/spotify) - 73,788 likes - 60 songs - 2 hr 40 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -69,4 +69,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXczv0e5n6k9E.md) - [plain]
 | 59 | [Alcatraz](https://open.spotify.com/track/72Feo6b5kS1ib0ipLi1dQJ) | [Moose](https://open.spotify.com/artist/3LcKlNE5nPPFpDtmc2wtdC), [DIFF](https://open.spotify.com/artist/4rtNK25TiSGNcibilGWcQK), [Zuu](https://open.spotify.com/artist/6IQOwsBonClq95IVXeqX4l) | [AFTER](https://open.spotify.com/album/55C53jGT80VsrBaidLAiqt) | 3:00 |
 | 60 | [DARKWAVE](https://open.spotify.com/track/6dtuEjc4lxlvBd03io65wi) | [KSF](https://open.spotify.com/artist/6PR7GwuKj5ZCuHsNslHcC9), [Ank Beats](https://open.spotify.com/artist/2mNrF07VPij0HJqtgOZO5W), [supremusdeus](https://open.spotify.com/artist/1rhLxhmrO8hfjtnUh4j0Mw) | [DARKWAVE](https://open.spotify.com/album/74ELQs8x8LOzI79DuiCLC1) | 1:46 |
 
-Snapshot ID: `AAAAAKRSVUpqxmcGhJIkaa/jKCKheZkJ`
+Snapshot ID: `AAAAABY940L9XmTB0RBEJym8WTSuUunw`

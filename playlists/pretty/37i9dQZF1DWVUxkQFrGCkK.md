@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVUxkQFrGCkK.md) - [plain]
 
 > IBZ szn\. Cover: Brunello
 
-[Spotify](https://open.spotify.com/user/spotify) - 421,413 likes - 100 songs - 6 hr 16 min
+[Spotify](https://open.spotify.com/user/spotify) - 421,539 likes - 100 songs - 6 hr 16 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVUxkQFrGCkK.md) - [plain]
 | 99 | [U Ain't Lyin'](https://open.spotify.com/track/2Jiax1WNF2PvupJP0Rn6EL) | [Peace Control](https://open.spotify.com/artist/3rzbheJbLKamFWE8v9fPRh) | [All Stars 10](https://open.spotify.com/album/4BgswkEYUQ1Cn7WVXbDwYi) | 3:35 |
 | 100 | [Supersonic](https://open.spotify.com/track/7AR28GCSNaTSOeO2vTIpEx) | [Drumstone](https://open.spotify.com/artist/7tCFigbe2WuE8DzGoNrMvj) | [Supersonic](https://open.spotify.com/album/10aJoyfBqpfg1NA6gLmgep) | 5:42 |
 
-Snapshot ID: `AAAAAPLJXpubnwI6Twp877NGu3I0aus9`
+Snapshot ID: `AAAAAHgvPmK6byVYsPUH/n2gSYpjsHug`

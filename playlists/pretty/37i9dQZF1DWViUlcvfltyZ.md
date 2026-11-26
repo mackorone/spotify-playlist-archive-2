@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWViUlcvfltyZ.md) - [plain]
 
 > Rock, indie e punk dall'Italia 🎸 The Zen Circus in cover
 
-[Spotify](https://open.spotify.com/user/spotify) - 83,120 likes - 100 songs - 5 hr 52 min
+[Spotify](https://open.spotify.com/user/spotify) - 83,112 likes - 100 songs - 5 hr 52 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWViUlcvfltyZ.md) - [plain]
 | 99 | [Prendere Fuoco](https://open.spotify.com/track/5sbMMLR3YYFUYrTltD1Thp) | [Bull Brigade](https://open.spotify.com/artist/5L5QSj7U8OMEq0T4lvrEU5), [Fast Animals and Slow Kids](https://open.spotify.com/artist/2n92OcdDhE5g2CpDI1rjH6) | [Perché Non Si Sa Mai](https://open.spotify.com/album/6RwsMookpjspDygtfXxGhK) | 3:48 |
 | 100 | [Pista nera](https://open.spotify.com/track/4DZ2RDJhKKRjFmJiI3ddka) | [Post Nebbia](https://open.spotify.com/artist/0BdiTIT0f1quCjphcLrwKZ) | [Pista Nera](https://open.spotify.com/album/7dgA2BZvQiG6n4Y4L0upP3) | 3:27 |
 
-Snapshot ID: `AAAAAJjWBwLftAVdRlix82Cmlo/68C7G`
+Snapshot ID: `AAAAAK6mqRoAjPhrE9wSlI/9FVcSjAv1`

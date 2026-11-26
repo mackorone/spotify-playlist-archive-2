@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWQRKXabpuS2.md) - [plain]
 
 > تدوّر أجدد الأغاني الخليجية؟ وصلت خير
 
-[Spotify](https://open.spotify.com/user/spotify) - 48,611 likes - 50 songs - 3 hr 29 min
+[Spotify](https://open.spotify.com/user/spotify) - 48,619 likes - 50 songs - 3 hr 29 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWQRKXabpuS2.md) - [plain]
 | 49 | [عيون طبعه](https://open.spotify.com/track/5Pwo31TU96rueCTItC9f7v) | [Bandar Abdulaziz](https://open.spotify.com/artist/4QnEgid1Wuxlr1vHgyzUXw) | [عيون طبعه](https://open.spotify.com/album/5A5WIQitjOs9zw0OT9N7N7) | 3:27 |
 | 50 | [وين قلبك](https://open.spotify.com/track/51w7NPC0rZaHixDItoaoGV) | [Mahmoud Al Turky](https://open.spotify.com/artist/1GVRoyErxhZGdvmOKGO7W7) | [وين قلبك](https://open.spotify.com/album/7paYp6SNBHD5klEnUVjx0H) | 3:23 |
 
-Snapshot ID: `AAAAAN7Uc+8XBC8FZu1l/LW4aJ2OQkYE`
+Snapshot ID: `AAAAAAfP6qt9SAAW4eWHRouEmdQRTdWs`

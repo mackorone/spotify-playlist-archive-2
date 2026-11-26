@@ -1,12 +1,12 @@
 {
   "description": "Tierra linda que siempre sue\u00f1o, y que muy dentro llevo. Ciudad de Monterrey \u2665\ufe0f",
-  "num_followers": 180787,
+  "num_followers": 180831,
   "original_name": "Coraz\u00f3n Regio ",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAALHQJheiiFaKokGOs5zVTywnbZtS",
+  "snapshot_id": "AAAAAIVoJvSIoHxy1Ud0gEABhTx/MbuM",
   "tracks": [
     {
       "added_at": "2026-06-08 18:17:51",
@@ -443,22 +443,6 @@
     {
       "added_at": "2026-06-08 18:17:51",
       "album": {
-        "name": "Ens\u00e9\u00f1ame",
-        "url": "https://open.spotify.com/album/6wrBXd8mUK0dp3yMM29kWK"
-      },
-      "artists": [
-        {
-          "name": "Bobby Pulido",
-          "url": "https://open.spotify.com/artist/4EEZg8R3dxbTCCQ1DVWtHg"
-        }
-      ],
-      "duration_ms": 186280,
-      "name": "Se Muri\u00f3 De Amor",
-      "url": "https://open.spotify.com/track/5iuGn3RXvfvHIyIe8fyxBE"
-    },
-    {
-      "added_at": "2026-06-08 18:17:51",
-      "album": {
         "name": "Sincopa",
         "url": "https://open.spotify.com/album/6XpSHxvcHf2VbRpDnMN091"
       },
@@ -471,6 +455,22 @@
       "duration_ms": 292160,
       "name": "Bombos y Tarolas",
       "url": "https://open.spotify.com/track/5Mn06i1d9H1KaiFbQDQPhT"
+    },
+    {
+      "added_at": "2026-06-08 18:17:51",
+      "album": {
+        "name": "Ens\u00e9\u00f1ame",
+        "url": "https://open.spotify.com/album/6wrBXd8mUK0dp3yMM29kWK"
+      },
+      "artists": [
+        {
+          "name": "Bobby Pulido",
+          "url": "https://open.spotify.com/artist/4EEZg8R3dxbTCCQ1DVWtHg"
+        }
+      ],
+      "duration_ms": 186280,
+      "name": "Se Muri\u00f3 De Amor",
+      "url": "https://open.spotify.com/track/5iuGn3RXvfvHIyIe8fyxBE"
     },
     {
       "added_at": "2026-06-08 18:17:51",
@@ -675,22 +675,6 @@
     {
       "added_at": "2026-06-08 18:17:51",
       "album": {
-        "name": "45 \u00c9xitos (Versiones Originales)",
-        "url": "https://open.spotify.com/album/3j5xMGA9BmUE77O512excf"
-      },
-      "artists": [
-        {
-          "name": "J.L.B. Y C\u00eda",
-          "url": "https://open.spotify.com/artist/4gWJIHAOL5ALjx8k4Ptz0R"
-        }
-      ],
-      "duration_ms": 181413,
-      "name": "Ag\u00fcita De Coco",
-      "url": "https://open.spotify.com/track/6yd503DovrZyEN4qZGaZcq"
-    },
-    {
-      "added_at": "2026-06-08 18:17:51",
-      "album": {
         "name": "Soy Lo Prohibido",
         "url": "https://open.spotify.com/album/4kI870RBIpDEXCJfDOpyt4"
       },
@@ -703,6 +687,22 @@
       "duration_ms": 217040,
       "name": "Te Qued\u00f3 Grande La Yegua",
       "url": "https://open.spotify.com/track/5tPxcLBsfj9yZS4PAiOr9G"
+    },
+    {
+      "added_at": "2026-06-08 18:17:51",
+      "album": {
+        "name": "45 \u00c9xitos (Versiones Originales)",
+        "url": "https://open.spotify.com/album/3j5xMGA9BmUE77O512excf"
+      },
+      "artists": [
+        {
+          "name": "J.L.B. Y C\u00eda",
+          "url": "https://open.spotify.com/artist/4gWJIHAOL5ALjx8k4Ptz0R"
+        }
+      ],
+      "duration_ms": 181413,
+      "name": "Ag\u00fcita De Coco",
+      "url": "https://open.spotify.com/track/6yd503DovrZyEN4qZGaZcq"
     },
     {
       "added_at": "2026-06-08 18:17:51",
@@ -723,18 +723,18 @@
     {
       "added_at": "2026-06-08 18:17:51",
       "album": {
-        "name": "El Chubasco",
-        "url": "https://open.spotify.com/album/3fsQl4XE4ipfkqKico1xnh"
+        "name": "Aquamosh",
+        "url": "https://open.spotify.com/album/6QxPNkckiFeiIB5ijjyWSk"
       },
       "artists": [
         {
-          "name": "Carlos Y Jose",
-          "url": "https://open.spotify.com/artist/2IRfUbSEqoOzedNHXVD1Xb"
+          "name": "Plastilina Mosh",
+          "url": "https://open.spotify.com/artist/4PtVXWSOmF4Tox1jj6ctSq"
         }
       ],
-      "duration_ms": 188946,
-      "name": "El Chubasco",
-      "url": "https://open.spotify.com/track/0ESzwDSlzdKpaJ6CkyAe5x"
+      "duration_ms": 262613,
+      "name": "Mr. P-Mosh",
+      "url": "https://open.spotify.com/track/12Q3hN5YwbjZ0jkcHmuABo"
     },
     {
       "added_at": "2026-06-08 18:17:51",
@@ -755,18 +755,18 @@
     {
       "added_at": "2026-06-08 18:17:51",
       "album": {
-        "name": "Aquamosh",
-        "url": "https://open.spotify.com/album/6QxPNkckiFeiIB5ijjyWSk"
+        "name": "El Chubasco",
+        "url": "https://open.spotify.com/album/3fsQl4XE4ipfkqKico1xnh"
       },
       "artists": [
         {
-          "name": "Plastilina Mosh",
-          "url": "https://open.spotify.com/artist/4PtVXWSOmF4Tox1jj6ctSq"
+          "name": "Carlos Y Jose",
+          "url": "https://open.spotify.com/artist/2IRfUbSEqoOzedNHXVD1Xb"
         }
       ],
-      "duration_ms": 262613,
-      "name": "Mr. P-Mosh",
-      "url": "https://open.spotify.com/track/12Q3hN5YwbjZ0jkcHmuABo"
+      "duration_ms": 188946,
+      "name": "El Chubasco",
+      "url": "https://open.spotify.com/track/0ESzwDSlzdKpaJ6CkyAe5x"
     },
     {
       "added_at": "2026-06-08 18:17:51",
@@ -1207,26 +1207,18 @@
     {
       "added_at": "2026-06-08 18:17:51",
       "album": {
-        "name": "Int\u00e9ntalo (Deluxe Edition)",
-        "url": "https://open.spotify.com/album/0epO2AI9n5OCd8rPOYQI5m"
+        "name": "La Historia De Los Exitos Pop A La Mexicana (Version Mexico)",
+        "url": "https://open.spotify.com/album/7MKVC6X35HgOEhE2Pp61oK"
       },
       "artists": [
         {
-          "name": "3BallMTY",
-          "url": "https://open.spotify.com/artist/1MLs9allBZrajb5Dc4146L"
-        },
-        {
-          "name": "Am\u00e9rica Sierra",
-          "url": "https://open.spotify.com/artist/6iK7hlQHfupGjQHrxQIMly"
-        },
-        {
-          "name": "El Bebeto",
-          "url": "https://open.spotify.com/artist/1YhMWppPt9RVODKD1KCs7W"
+          "name": "Pilar Montenegro",
+          "url": "https://open.spotify.com/artist/5CSbKdrAQne1Jaen7pMkPF"
         }
       ],
-      "duration_ms": 193533,
-      "name": "Int\u00e9ntalo",
-      "url": "https://open.spotify.com/track/1G1oltHy7huusOr9eoUUQM"
+      "duration_ms": 240480,
+      "name": "Qu\u00edtame Ese Hombre Del Coraz\u00f3n - Norte\u00f1a Version",
+      "url": "https://open.spotify.com/track/1JffhRkcjxOEN2fDDVWCHA"
     },
     {
       "added_at": "2026-06-08 18:17:51",
@@ -1247,18 +1239,26 @@
     {
       "added_at": "2026-06-08 18:17:51",
       "album": {
-        "name": "La Historia De Los Exitos Pop A La Mexicana (Version Mexico)",
-        "url": "https://open.spotify.com/album/7MKVC6X35HgOEhE2Pp61oK"
+        "name": "Int\u00e9ntalo (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/0epO2AI9n5OCd8rPOYQI5m"
       },
       "artists": [
         {
-          "name": "Pilar Montenegro",
-          "url": "https://open.spotify.com/artist/5CSbKdrAQne1Jaen7pMkPF"
+          "name": "3BallMTY",
+          "url": "https://open.spotify.com/artist/1MLs9allBZrajb5Dc4146L"
+        },
+        {
+          "name": "Am\u00e9rica Sierra",
+          "url": "https://open.spotify.com/artist/6iK7hlQHfupGjQHrxQIMly"
+        },
+        {
+          "name": "El Bebeto",
+          "url": "https://open.spotify.com/artist/1YhMWppPt9RVODKD1KCs7W"
         }
       ],
-      "duration_ms": 240480,
-      "name": "Qu\u00edtame Ese Hombre Del Coraz\u00f3n - Norte\u00f1a Version",
-      "url": "https://open.spotify.com/track/1JffhRkcjxOEN2fDDVWCHA"
+      "duration_ms": 193533,
+      "name": "Int\u00e9ntalo",
+      "url": "https://open.spotify.com/track/1G1oltHy7huusOr9eoUUQM"
     },
     {
       "added_at": "2026-06-08 18:17:51",
@@ -1507,22 +1507,6 @@
     {
       "added_at": "2026-06-08 18:17:51",
       "album": {
-        "name": "A.B. Quintanilla III Presents Kumbia Kings Greatest Hits \"Album Versions\"",
-        "url": "https://open.spotify.com/album/1RGWEZOK9E2fH75E6D3cqZ"
-      },
-      "artists": [
-        {
-          "name": "A.B. Quintanilla III Y Los Kumbia Kings",
-          "url": "https://open.spotify.com/artist/6BMQo3hxi4qwLiZpHKK5iL"
-        }
-      ],
-      "duration_ms": 256306,
-      "name": "Boom Boom",
-      "url": "https://open.spotify.com/track/5Qwinf4K7rDH2WXESLNUxi"
-    },
-    {
-      "added_at": "2026-06-08 18:17:51",
-      "album": {
         "name": "Mil Historias",
         "url": "https://open.spotify.com/album/4XjfK4bzkOr37JS2H3XB65"
       },
@@ -1535,6 +1519,22 @@
       "duration_ms": 216840,
       "name": "C\u00f3mo le hago",
       "url": "https://open.spotify.com/track/1SPWCyvl2ooPPw4iAv9S07"
+    },
+    {
+      "added_at": "2026-06-08 18:17:51",
+      "album": {
+        "name": "A.B. Quintanilla III Presents Kumbia Kings Greatest Hits \"Album Versions\"",
+        "url": "https://open.spotify.com/album/1RGWEZOK9E2fH75E6D3cqZ"
+      },
+      "artists": [
+        {
+          "name": "A.B. Quintanilla III Y Los Kumbia Kings",
+          "url": "https://open.spotify.com/artist/6BMQo3hxi4qwLiZpHKK5iL"
+        }
+      ],
+      "duration_ms": 256306,
+      "name": "Boom Boom",
+      "url": "https://open.spotify.com/track/5Qwinf4K7rDH2WXESLNUxi"
     },
     {
       "added_at": "2026-06-08 18:17:51",
@@ -1715,22 +1715,6 @@
     {
       "added_at": "2026-06-08 18:17:51",
       "album": {
-        "name": "15 Grandes Exitos",
-        "url": "https://open.spotify.com/album/50uNNuDhDgqELZa3mPkR9y"
-      },
-      "artists": [
-        {
-          "name": "Los Reyes Locos",
-          "url": "https://open.spotify.com/artist/2Z7Kkkd0KGcx6cblKWVdUG"
-        }
-      ],
-      "duration_ms": 168333,
-      "name": "Coqueteando",
-      "url": "https://open.spotify.com/track/4Yhw1FNM4yLjsm2BsjOhKc"
-    },
-    {
-      "added_at": "2026-06-08 18:17:51",
-      "album": {
         "name": "La Torcida",
         "url": "https://open.spotify.com/album/57BeeRdXBw4fyXQY7zREZo"
       },
@@ -1743,6 +1727,22 @@
       "duration_ms": 295601,
       "name": "La Torcida",
       "url": "https://open.spotify.com/track/5Tv05AFXTYDFmF6d1SNTph"
+    },
+    {
+      "added_at": "2026-06-08 18:17:51",
+      "album": {
+        "name": "15 Grandes Exitos",
+        "url": "https://open.spotify.com/album/50uNNuDhDgqELZa3mPkR9y"
+      },
+      "artists": [
+        {
+          "name": "Los Reyes Locos",
+          "url": "https://open.spotify.com/artist/2Z7Kkkd0KGcx6cblKWVdUG"
+        }
+      ],
+      "duration_ms": 168333,
+      "name": "Coqueteando",
+      "url": "https://open.spotify.com/track/4Yhw1FNM4yLjsm2BsjOhKc"
     },
     {
       "added_at": "2026-06-08 18:17:51",
@@ -1891,22 +1891,6 @@
     {
       "added_at": "2026-06-08 18:17:51",
       "album": {
-        "name": "La Voz Del Coraz\u00f3n",
-        "url": "https://open.spotify.com/album/4Dg3GxeqCTawEsAQfceNnV"
-      },
-      "artists": [
-        {
-          "name": "El Plan",
-          "url": "https://open.spotify.com/artist/6hC4K4CHuu5MRsNUHAqqdy"
-        }
-      ],
-      "duration_ms": 223920,
-      "name": "Si Yo Fuera Tu",
-      "url": "https://open.spotify.com/track/6aF7eMrXRdSHnqpC79NK40"
-    },
-    {
-      "added_at": "2026-06-08 18:17:51",
-      "album": {
         "name": "\u00cdconos 25 \u00c9xitos",
         "url": "https://open.spotify.com/album/0rUQEWfnveBDeFFiseFOsJ"
       },
@@ -1919,6 +1903,22 @@
       "duration_ms": 138640,
       "name": "Recordando Monterrey",
       "url": "https://open.spotify.com/track/6Fibv5E2GYxaH9HQCqxu9w"
+    },
+    {
+      "added_at": "2026-06-08 18:17:51",
+      "album": {
+        "name": "La Voz Del Coraz\u00f3n",
+        "url": "https://open.spotify.com/album/4Dg3GxeqCTawEsAQfceNnV"
+      },
+      "artists": [
+        {
+          "name": "El Plan",
+          "url": "https://open.spotify.com/artist/6hC4K4CHuu5MRsNUHAqqdy"
+        }
+      ],
+      "duration_ms": 223920,
+      "name": "Si Yo Fuera Tu",
+      "url": "https://open.spotify.com/track/6aF7eMrXRdSHnqpC79NK40"
     },
     {
       "added_at": "2026-06-08 18:17:51",
@@ -2019,22 +2019,6 @@
     {
       "added_at": "2026-06-08 18:17:51",
       "album": {
-        "name": "Te Sorprender\u00e1s",
-        "url": "https://open.spotify.com/album/6KK83cdEilYMgI8uHPR4Rk"
-      },
-      "artists": [
-        {
-          "name": "Fievre Looka",
-          "url": "https://open.spotify.com/artist/0CDFocAKVNgMrgKnQXW7Fd"
-        }
-      ],
-      "duration_ms": 208266,
-      "name": "Por Que Te Tengo Que Olvidar",
-      "url": "https://open.spotify.com/track/4yV699yWj5OnboFsF2eHtR"
-    },
-    {
-      "added_at": "2026-06-08 18:17:51",
-      "album": {
         "name": "La Mas Completa Coleccion (Disco 2)",
         "url": "https://open.spotify.com/album/4QGk7hWvhae1nw2agFhN20"
       },
@@ -2051,22 +2035,34 @@
     {
       "added_at": "2026-06-08 18:17:51",
       "album": {
-        "name": "La Trayectoria 30 Exitos",
-        "url": "https://open.spotify.com/album/7aYo3Fnbr79g0gSQS6xegH"
+        "name": "Te Sorprender\u00e1s",
+        "url": "https://open.spotify.com/album/6KK83cdEilYMgI8uHPR4Rk"
       },
       "artists": [
         {
-          "name": "Cornelio Reyna",
-          "url": "https://open.spotify.com/artist/2hbA9AbMYcgXBGgBK6MCfx"
-        },
-        {
-          "name": "Ram\u00f3n Ayala",
-          "url": "https://open.spotify.com/artist/0fIdQWpwzU2oEtsoyArDOL"
+          "name": "Fievre Looka",
+          "url": "https://open.spotify.com/artist/0CDFocAKVNgMrgKnQXW7Fd"
         }
       ],
-      "duration_ms": 181506,
-      "name": "Mi Tesoro",
-      "url": "https://open.spotify.com/track/1kMcQ5ovfzCgvdMONCOWNS"
+      "duration_ms": 208266,
+      "name": "Por Que Te Tengo Que Olvidar",
+      "url": "https://open.spotify.com/track/4yV699yWj5OnboFsF2eHtR"
+    },
+    {
+      "added_at": "2026-06-08 18:17:51",
+      "album": {
+        "name": "20 Kilates 20 \u00c9xitos",
+        "url": "https://open.spotify.com/album/3slelG6vLz4PIyjlO4Q8su"
+      },
+      "artists": [
+        {
+          "name": "Grupo Limite",
+          "url": "https://open.spotify.com/artist/2qWNYueLfc979iEdLOIK2C"
+        }
+      ],
+      "duration_ms": 186600,
+      "name": "Te Aprovechas",
+      "url": "https://open.spotify.com/track/6I2Dm0ugr3FjypPGtWpjgR"
     }
   ],
   "unique_name": "Coraz\u00f3n Regio ",

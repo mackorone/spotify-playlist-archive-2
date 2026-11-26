@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4g8Gs5nUhpp.md) - [plain]
 
 > V\-Pop nở hoa trên những khúc ca này\. Ảnh bìa: Hngle
 
-[Spotify](https://open.spotify.com/user/spotify) - 192,231 likes - 51 songs - 3 hr 22 min
+[Spotify](https://open.spotify.com/user/spotify) - 192,280 likes - 51 songs - 3 hr 22 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -60,4 +60,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4g8Gs5nUhpp.md) - [plain]
 | 50 | [Thiên Đường Với Người Thương](https://open.spotify.com/track/6zwC3vsCniAGu6WpOkg6qV) | [Phương Mỹ Chi](https://open.spotify.com/artist/1BcjfrXV4Oe3fK0c8dnxFF), [DTAP](https://open.spotify.com/artist/5L9ssI4l4DKU1za4ZwvKvG) | [Thiên Đường Với Người Thương](https://open.spotify.com/album/2AKrJz0CKmx3LJz3wgrxsL) | 3:37 |
 | 51 | [Không Buông](https://open.spotify.com/track/1ApIGNgp1azc0qB61x4GzG) | [Hngle](https://open.spotify.com/artist/7kBsX15IDun9YxuVmKCMYJ), [Ari](https://open.spotify.com/artist/6cV92JqHZPWNfa7T4oAvR9) | [Không Buông](https://open.spotify.com/album/6XkJNJGMV0VxaaxlfB3ss3) | 2:54 |
 
-Snapshot ID: `AAAAAB2EEVF4n3zjeCQFpCGjxuw+sOjt`
+Snapshot ID: `AAAAAA7np0VgXoCrqF6xD8lh9KWwpoIv`

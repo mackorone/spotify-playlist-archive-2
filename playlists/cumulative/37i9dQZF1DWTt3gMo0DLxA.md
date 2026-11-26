@@ -4,7 +4,7 @@
 
 > Trending songs from Tollywood! <br/>Cover: Binde Meeda Binde vetti!
 
-459 songs - 1 day 6 hr 46 min
+460 songs - 1 day 6 hr 50 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -309,6 +309,7 @@
 | [Niluvanivvade](https://open.spotify.com/track/0FjsUT2WECS1pBXErYOQ5r) | [Vijai Bulganin](https://open.spotify.com/artist/6umn0ODoYa5UsGpswA99gx) | [Niluvanivvade](https://open.spotify.com/album/7tuPXUvtDzbA4GzJs6hVl1) | 5:26 | 2026-09-22 |  |
 | [Ninnu Chudakunda Undalekapothunnanu](https://open.spotify.com/track/52753ylTtO0sbDo6Is2Pxu) | [Kalyani Malik](https://open.spotify.com/artist/5w6bUd0SJtvdQ99pZm83PJ), [Haricharan](https://open.spotify.com/artist/1QvyquqkuuwUzdszyoKIy4), [Shakthisree Gopalan](https://open.spotify.com/artist/7zAp0JbkavFg2rcMGvANtP) | [Check](https://open.spotify.com/album/0MdbUcs1RFozb1oEXgh0kA) | 3:35 | 2021-09-24 | 2023-08-31 |
 | [Ninnu Road Meedha](https://open.spotify.com/track/1nCkqULdG7UeDga1C3Z6rN) | [Prudhvi Chandra](https://open.spotify.com/artist/4xUI2yJe8cZHYGhS8rk1oR), [Mounima C.H.](https://open.spotify.com/artist/5dmqGDhUAhpE8WGKqsxdAd) | [Savyasachi](https://open.spotify.com/album/4WnpWGva1S7TbAdaCHW9r3) | 3:39 | 2021-09-24 | 2023-08-31 |
+| [Noppi Noppi](https://open.spotify.com/track/4ZeeQUewlSkiXNPp9Be8Vv) | [Mani Sharma](https://open.spotify.com/artist/3AMxH9QIPZbK8ND8C9j4Ss), [Naveen](https://open.spotify.com/artist/4xbLzGsR7W5QMlLS08BNGt) | [Pokiri](https://open.spotify.com/album/3kqeFrlPfnGdhHraAvAByi) | 4:30 | 2026-11-25 |  |
 | [Nunugu Misalodu](https://open.spotify.com/track/7a7badaPkBz9NWMWnPTwN5) | [M\. M\. Keeravani](https://open.spotify.com/artist/12l1SqSNsg2mI2IcXpPWjR), [Sunitha](https://open.spotify.com/artist/74S8YRi4XQ5yf9ToSzuY80) | [Yamadonga \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/2AJ2NAaGiFfA9vt4rzWD6N) | 5:02 | 2023-08-30 | 2023-09-26 |
 | [Nuvve Nuvve \(From "Red"\)](https://open.spotify.com/track/7Ft65MCYElRCDo7jOekQFs) | [Ramya Behara](https://open.spotify.com/artist/4svvMm4TQnkphZJfhLCzzv), [Anurag Kulkarni](https://open.spotify.com/artist/6LWyVEIBnx7MoRBhQxu9om), [Mani Sharma](https://open.spotify.com/artist/3AMxH9QIPZbK8ND8C9j4Ss) | [Nuvve Nuvve \(From "Red"\)](https://open.spotify.com/album/33bGNKG4SqamfmuenEbtcn) | 4:13 | 2021-09-24 | 2023-08-31 |
 | [Nuvvu Navvukuntu](https://open.spotify.com/track/00LSCsH99cW8zsr82ibMHM) | [Bheems Ceciroleo](https://open.spotify.com/artist/0L5f9aJIaxQXTipZ7uQYiC), [Kapil Kapilan](https://open.spotify.com/artist/0nMjhemqRwrboQGcs92fh2), [Bhasakarabhatla](https://open.spotify.com/artist/5BSnq8EugWeuGR6acegjqN) | [MAD](https://open.spotify.com/album/070z9uG6XuIOI49AgwCnCy) | 3:24 | 2023-11-20 | 2024-03-06 |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYrg01Xmlew6.md) - [plain]
 
 > Solo rap da Napoli e dalla Campania\. Geolier in cover.
 
-[Spotify](https://open.spotify.com/user/spotify) - 227,705 likes - 75 songs - 3 hr 16 min
+[Spotify](https://open.spotify.com/user/spotify) - 227,698 likes - 75 songs - 3 hr 16 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYrg01Xmlew6.md) - [plain]
 | 74 | [COCO \(feat\. Frezza\)](https://open.spotify.com/track/0Ii2R9SawfnxkhNtUI5d7s) | [Dipinto](https://open.spotify.com/artist/26toJml6wSdf58ZgNG0ci9), [Frezza](https://open.spotify.com/artist/32G8poKFhw5C0um4jMXH9W) | [COCO \(feat\. Frezza\)](https://open.spotify.com/album/6cFTdq80CJtMxJSoXm760u) | 2:49 |
 | 75 | [Shawty \(feat\. ANNA\)](https://open.spotify.com/track/2FSyRgYesfoqC0xGVmHgeH) | [Yung Snapp](https://open.spotify.com/artist/4y5lvMadZv6NAv8RgcCRem), [ANNA](https://open.spotify.com/artist/7K80yOTC0Id95gRaOxDG5u) | [Shawty \(feat\. ANNA\)](https://open.spotify.com/album/0Lk62qOfyMoDWD4iIpNZjy) | 3:04 |
 
-Snapshot ID: `AAAAAPvmi5PtIGkuh+YDRZE+VqRzVLDn`
+Snapshot ID: `AAAAAI5ZRPoCOuTWlXI1WKlq/sKHBLv5`

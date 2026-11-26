@@ -1,12 +1,12 @@
 {
   "description": "Only music produced on a TR-808 drum machine. Cover: Egyptian Lover",
-  "num_followers": 175660,
+  "num_followers": 175692,
   "original_name": "808 Classics",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAFNTfmEMV+8dJXBIsAoMdwNxd/c8",
+  "snapshot_id": "AAAAAJdpP2m8F3obQAZy99fGK6/WbXtK",
   "tracks": [
     {
       "added_at": "2024-07-10 08:31:19",
@@ -651,22 +651,6 @@
     {
       "added_at": "2024-07-10 08:31:19",
       "album": {
-        "name": "Girl You Know It's True - The Best Of Milli Vanilli",
-        "url": "https://open.spotify.com/album/67QUZa2DQaBdeQvPQGfSkL"
-      },
-      "artists": [
-        {
-          "name": "Milli Vanilli",
-          "url": "https://open.spotify.com/artist/3vRclCt9VnNhYIxFMQCxuM"
-        }
-      ],
-      "duration_ms": 238840,
-      "name": "I'm Gonna Miss You",
-      "url": "https://open.spotify.com/track/1ffAMndLMFbKHpXuIDBwc1"
-    },
-    {
-      "added_at": "2024-07-10 08:31:19",
-      "album": {
         "name": "Tha Carter III",
         "url": "https://open.spotify.com/album/1Do3y8IAcbYOToYQJnGwSO"
       },
@@ -679,6 +663,22 @@
       "duration_ms": 309000,
       "name": "Let The Beat Build",
       "url": "https://open.spotify.com/track/6Az6jpQiP5m8U3yA6bLSGb"
+    },
+    {
+      "added_at": "2024-07-10 08:31:19",
+      "album": {
+        "name": "Girl You Know It's True - The Best Of Milli Vanilli",
+        "url": "https://open.spotify.com/album/67QUZa2DQaBdeQvPQGfSkL"
+      },
+      "artists": [
+        {
+          "name": "Milli Vanilli",
+          "url": "https://open.spotify.com/artist/3vRclCt9VnNhYIxFMQCxuM"
+        }
+      ],
+      "duration_ms": 238840,
+      "name": "I'm Gonna Miss You",
+      "url": "https://open.spotify.com/track/1ffAMndLMFbKHpXuIDBwc1"
     },
     {
       "added_at": "2024-07-10 08:31:19",
@@ -739,6 +739,22 @@
     {
       "added_at": "2024-07-10 08:31:19",
       "album": {
+        "name": "Touch",
+        "url": "https://open.spotify.com/album/2PFK4dMZkqUQfxfSrK8WMf"
+      },
+      "artists": [
+        {
+          "name": "Amerie",
+          "url": "https://open.spotify.com/artist/08rMCq2ek1YjdDBsCPVH2s"
+        }
+      ],
+      "duration_ms": 218293,
+      "name": "Touch",
+      "url": "https://open.spotify.com/track/4YzbdSB5YcnRq47rdY7dD4"
+    },
+    {
+      "added_at": "2024-07-10 08:31:19",
+      "album": {
         "name": "Sweet And Short",
         "url": "https://open.spotify.com/album/322JprSjhVbBNbh0M09RIf"
       },
@@ -755,22 +771,6 @@
       "duration_ms": 303440,
       "name": "Remote Control",
       "url": "https://open.spotify.com/track/6IUUtpmkYh34mj8QXj6c6U"
-    },
-    {
-      "added_at": "2024-07-10 08:31:19",
-      "album": {
-        "name": "Touch",
-        "url": "https://open.spotify.com/album/2PFK4dMZkqUQfxfSrK8WMf"
-      },
-      "artists": [
-        {
-          "name": "Amerie",
-          "url": "https://open.spotify.com/artist/08rMCq2ek1YjdDBsCPVH2s"
-        }
-      ],
-      "duration_ms": 218293,
-      "name": "Touch",
-      "url": "https://open.spotify.com/track/4YzbdSB5YcnRq47rdY7dD4"
     },
     {
       "added_at": "2024-07-10 08:31:19",

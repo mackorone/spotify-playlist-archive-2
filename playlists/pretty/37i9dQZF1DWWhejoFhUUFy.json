@@ -1,12 +1,12 @@
 {
   "description": "Soft chill for the dreamy  \u2728",
-  "num_followers": 193508,
+  "num_followers": 193550,
   "original_name": "Chill Station",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAANyNORwQJtWdWOk5+m3G/GdSLgK2",
+  "snapshot_id": "AAAAAFS9no4zrXcqczFErUHlxFN3eZX4",
   "tracks": [
     {
       "added_at": "2026-11-04 05:27:37",
@@ -1547,18 +1547,30 @@
     {
       "added_at": "2026-11-04 05:27:37",
       "album": {
-        "name": "Dard",
-        "url": "https://open.spotify.com/album/0YzF0ImdBeODiCWejSDndM"
+        "name": "Aasma Aasma (From \"Do Deewane Seher Mein\")",
+        "url": "https://open.spotify.com/album/75gdVNNIo4xf4d6QqpJ63W"
       },
       "artists": [
         {
-          "name": "Darshan Raval",
-          "url": "https://open.spotify.com/artist/2GoeZ0qOTt6kjsWW4eA6LS"
+          "name": "Jubin Nautiyal",
+          "url": "https://open.spotify.com/artist/1tqysapcCh1lWEAc9dIFpa"
+        },
+        {
+          "name": "Neeti Mohan",
+          "url": "https://open.spotify.com/artist/3ZxZ03fj3tXBZHZWzvaLSM"
+        },
+        {
+          "name": "Hesham Abdul Wahab",
+          "url": "https://open.spotify.com/artist/50iBEPSw6kQ8GQkumXz7XZ"
+        },
+        {
+          "name": "Abhiruchi Chand",
+          "url": "https://open.spotify.com/artist/1Z3KE3Fs3qg13YsXPCGzKj"
         }
       ],
-      "duration_ms": 147705,
-      "name": "Mahiye Jinna Sohna Unplugged",
-      "url": "https://open.spotify.com/track/7k8g09FNAw41bJatQuR6K9"
+      "duration_ms": 218400,
+      "name": "Aasma Aasma (From \"Do Deewane Seher Mein\")",
+      "url": "https://open.spotify.com/track/1W3xePkj0x1F2vYNhiIoIj"
     }
   ],
   "unique_name": "Chill Station",

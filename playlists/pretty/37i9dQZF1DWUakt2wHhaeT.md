@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUakt2wHhaeT.md) - [plain]
 
 > The best songs from the new shows and the buzziest new recordings\. Cover: Original Broadway Cast of The Lost Boys
 
-[Spotify](https://open.spotify.com/user/spotify) - 113,094 likes - 50 songs - 3 hr 7 min
+[Spotify](https://open.spotify.com/user/spotify) - 113,095 likes - 50 songs - 3 hr 7 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUakt2wHhaeT.md) - [plain]
 | 49 | [Little Redwood](https://open.spotify.com/track/6yer9QS19iA47TCMbd0hBZ) | [Khaila Wilcoxon](https://open.spotify.com/artist/5RIgtgu0pFYmr2cUYvJKcM), [Original Broadway Cast of Redwood](https://open.spotify.com/artist/05gJ005XevdmT8XK1vS1kK) | [Little Redwood](https://open.spotify.com/album/79t4T1NSSlyCBlLmW7WWey) | 3:27 |
 | 50 | [Everything You Long For \(is in New Jersey\)](https://open.spotify.com/track/18qIH3TEyw3597CeV0uFmY) | [Randy Klein](https://open.spotify.com/artist/0FB2K9p4SWmtIFaqsdPIrn), [Matthew Hardy](https://open.spotify.com/artist/5jtkQvXSX0QMnHeSw5wYA7), [Ashley Fox Linton](https://open.spotify.com/artist/19qudppdBZdHYJ9Hp9l1Jx) | [Everything You Long For \(Is In New Jersey\)](https://open.spotify.com/album/2mlDCrC6Bzsjz19R22TxGr) | 3:57 |
 
-Snapshot ID: `AAAAACikAvxCV/uEVstiLy+g++XF8MbB`
+Snapshot ID: `AAAAAKL3qlolJeqpzTDt39JEeFJVlQAE`

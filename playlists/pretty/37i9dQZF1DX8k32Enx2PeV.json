@@ -1,12 +1,12 @@
 {
   "description": "\u00a1Tr\u00f3pico y vanguardia! Deja que la brisa impulse tu esp\u00edritu.",
-  "num_followers": 17847,
+  "num_followers": 17854,
   "original_name": "Palmera",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAHxN0lbitJ6ZX1H2SVhn+ae+1bwd",
+  "snapshot_id": "AAAAAPSV+uTeDX1QTNXfpDXBcSbPjZKF",
   "tracks": [
     {
       "added_at": "2026-11-13 04:59:16",
@@ -403,18 +403,22 @@
     {
       "added_at": "2026-11-13 04:59:16",
       "album": {
-        "name": "Beso a Beso",
-        "url": "https://open.spotify.com/album/3ltYEasCkX4XZJxBScFNln"
+        "name": "SUPERARTE",
+        "url": "https://open.spotify.com/album/2HcMhHy9j2nCoerGQLJe9g"
       },
       "artists": [
         {
-          "name": "Hamilton",
-          "url": "https://open.spotify.com/artist/2Gke7HMz6MgNWSX71pBMyX"
+          "name": "Justin Quiles",
+          "url": "https://open.spotify.com/artist/14zUHaJZo1mnYtn6IBRaRP"
+        },
+        {
+          "name": "Lenny Tav\u00e1rez",
+          "url": "https://open.spotify.com/artist/1pQWsZQehhS4wavwh7Fnxd"
         }
       ],
-      "duration_ms": 137969,
-      "name": "Beso a Beso",
-      "url": "https://open.spotify.com/track/1hih4xsBd6rHYETs8wI79C"
+      "duration_ms": 207984,
+      "name": "CHAMPAGNE",
+      "url": "https://open.spotify.com/track/0nr6m6Y6yONJJtTsqGkITv"
     },
     {
       "added_at": "2026-11-13 04:59:16",
@@ -443,22 +447,18 @@
     {
       "added_at": "2026-11-13 04:59:16",
       "album": {
-        "name": "SUPERARTE",
-        "url": "https://open.spotify.com/album/2HcMhHy9j2nCoerGQLJe9g"
+        "name": "Beso a Beso",
+        "url": "https://open.spotify.com/album/3ltYEasCkX4XZJxBScFNln"
       },
       "artists": [
         {
-          "name": "Justin Quiles",
-          "url": "https://open.spotify.com/artist/14zUHaJZo1mnYtn6IBRaRP"
-        },
-        {
-          "name": "Lenny Tav\u00e1rez",
-          "url": "https://open.spotify.com/artist/1pQWsZQehhS4wavwh7Fnxd"
+          "name": "Hamilton",
+          "url": "https://open.spotify.com/artist/2Gke7HMz6MgNWSX71pBMyX"
         }
       ],
-      "duration_ms": 207984,
-      "name": "CHAMPAGNE",
-      "url": "https://open.spotify.com/track/0nr6m6Y6yONJJtTsqGkITv"
+      "duration_ms": 137969,
+      "name": "Beso a Beso",
+      "url": "https://open.spotify.com/track/1hih4xsBd6rHYETs8wI79C"
     },
     {
       "added_at": "2026-11-13 04:59:16",
@@ -711,22 +711,6 @@
     {
       "added_at": "2026-11-13 04:59:16",
       "album": {
-        "name": "AFRO RED 2",
-        "url": "https://open.spotify.com/album/2hbLXNfQdvgStp3QJN9HNg"
-      },
-      "artists": [
-        {
-          "name": "Barboza",
-          "url": "https://open.spotify.com/artist/0HN3uHZSS2Bosw1cFImLVG"
-        }
-      ],
-      "duration_ms": 143914,
-      "name": "Linda",
-      "url": "https://open.spotify.com/track/77KDRAKMs1dRirOgKOKM9j"
-    },
-    {
-      "added_at": "2026-11-13 04:59:16",
-      "album": {
         "name": "TRESCENDER",
         "url": "https://open.spotify.com/album/2uq6IbfhiXV8uak3zpHgjc"
       },
@@ -743,6 +727,22 @@
       "duration_ms": 161030,
       "name": "Regalito",
       "url": "https://open.spotify.com/track/0cQtGUyt8edxSRLHGxSGOK"
+    },
+    {
+      "added_at": "2026-11-13 04:59:16",
+      "album": {
+        "name": "AFRO RED 2",
+        "url": "https://open.spotify.com/album/2hbLXNfQdvgStp3QJN9HNg"
+      },
+      "artists": [
+        {
+          "name": "Barboza",
+          "url": "https://open.spotify.com/artist/0HN3uHZSS2Bosw1cFImLVG"
+        }
+      ],
+      "duration_ms": 143914,
+      "name": "Linda",
+      "url": "https://open.spotify.com/track/77KDRAKMs1dRirOgKOKM9j"
     },
     {
       "added_at": "2026-11-13 04:59:16",
@@ -871,22 +871,6 @@
     {
       "added_at": "2026-11-13 04:59:16",
       "album": {
-        "name": "borondo",
-        "url": "https://open.spotify.com/album/0hCJNl8pcd7S697Ss52YUF"
-      },
-      "artists": [
-        {
-          "name": "Be\u00e9le",
-          "url": "https://open.spotify.com/artist/7a0XAaPaK2aDSqa8p3QnC7"
-        }
-      ],
-      "duration_ms": 141821,
-      "name": "borondo",
-      "url": "https://open.spotify.com/track/6NyPyarIkT3ViNZYUImbW7"
-    },
-    {
-      "added_at": "2026-11-13 04:59:16",
-      "album": {
         "name": "Me Enamor\u00f3",
         "url": "https://open.spotify.com/album/4ZZcvqDxBYczui7RbD9Vaf"
       },
@@ -899,6 +883,22 @@
       "duration_ms": 154411,
       "name": "Me Enamor\u00f3",
       "url": "https://open.spotify.com/track/3eQBHY5d4ZmKgyPhPWSWn8"
+    },
+    {
+      "added_at": "2026-11-13 04:59:16",
+      "album": {
+        "name": "borondo",
+        "url": "https://open.spotify.com/album/0hCJNl8pcd7S697Ss52YUF"
+      },
+      "artists": [
+        {
+          "name": "Be\u00e9le",
+          "url": "https://open.spotify.com/artist/7a0XAaPaK2aDSqa8p3QnC7"
+        }
+      ],
+      "duration_ms": 141821,
+      "name": "borondo",
+      "url": "https://open.spotify.com/track/6NyPyarIkT3ViNZYUImbW7"
     },
     {
       "added_at": "2026-11-13 04:59:16",
@@ -1103,26 +1103,6 @@
     {
       "added_at": "2026-11-13 04:59:16",
       "album": {
-        "name": "CHAMP\u00da",
-        "url": "https://open.spotify.com/album/2UQK2pOrcBNpzeLsKA6UU8"
-      },
-      "artists": [
-        {
-          "name": "Dawer X Damper",
-          "url": "https://open.spotify.com/artist/4OGeO4jU4OMK0kWh69UhtY"
-        },
-        {
-          "name": "Ysa C",
-          "url": "https://open.spotify.com/artist/6jmYNc5XuhmHOEf58AGeRk"
-        }
-      ],
-      "duration_ms": 193750,
-      "name": "CHAMP\u00da",
-      "url": "https://open.spotify.com/track/5TT7dbLffWIsclSgp94KKn"
-    },
-    {
-      "added_at": "2026-11-13 04:59:16",
-      "album": {
         "name": "Chamba",
         "url": "https://open.spotify.com/album/4DiXDXU9SExY3wnRPqwxCg"
       },
@@ -1143,6 +1123,26 @@
       "duration_ms": 202351,
       "name": "Chamba",
       "url": "https://open.spotify.com/track/2luUwuzmpbFo1FqPGfqUce"
+    },
+    {
+      "added_at": "2026-11-13 04:59:16",
+      "album": {
+        "name": "CHAMP\u00da",
+        "url": "https://open.spotify.com/album/2UQK2pOrcBNpzeLsKA6UU8"
+      },
+      "artists": [
+        {
+          "name": "Dawer X Damper",
+          "url": "https://open.spotify.com/artist/4OGeO4jU4OMK0kWh69UhtY"
+        },
+        {
+          "name": "Ysa C",
+          "url": "https://open.spotify.com/artist/6jmYNc5XuhmHOEf58AGeRk"
+        }
+      ],
+      "duration_ms": 193750,
+      "name": "CHAMP\u00da",
+      "url": "https://open.spotify.com/track/5TT7dbLffWIsclSgp94KKn"
     },
     {
       "added_at": "2026-11-13 04:59:16",
@@ -1251,6 +1251,22 @@
     {
       "added_at": "2026-11-13 04:59:16",
       "album": {
+        "name": "Partycito",
+        "url": "https://open.spotify.com/album/28DHg1LteW1sdOMuJne9kk"
+      },
+      "artists": [
+        {
+          "name": "Nohaaddana",
+          "url": "https://open.spotify.com/artist/2w4vDNeEe7xccBqtBNjPcA"
+        }
+      ],
+      "duration_ms": 153786,
+      "name": "Partycito",
+      "url": "https://open.spotify.com/track/7hJMkJjzw4NcIq3pwmAbZl"
+    },
+    {
+      "added_at": "2026-11-13 04:59:16",
+      "album": {
         "name": "RAYAO",
         "url": "https://open.spotify.com/album/4gu2saLiu6ONiVDdUqh05y"
       },
@@ -1267,22 +1283,6 @@
       "duration_ms": 195272,
       "name": "RAYAO",
       "url": "https://open.spotify.com/track/7yLbPwEb8X7QC63MiJ8ojq"
-    },
-    {
-      "added_at": "2026-11-13 04:59:16",
-      "album": {
-        "name": "Partycito",
-        "url": "https://open.spotify.com/album/28DHg1LteW1sdOMuJne9kk"
-      },
-      "artists": [
-        {
-          "name": "Nohaaddana",
-          "url": "https://open.spotify.com/artist/2w4vDNeEe7xccBqtBNjPcA"
-        }
-      ],
-      "duration_ms": 153786,
-      "name": "Partycito",
-      "url": "https://open.spotify.com/track/7hJMkJjzw4NcIq3pwmAbZl"
     },
     {
       "added_at": "2026-11-13 04:59:16",

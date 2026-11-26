@@ -1,12 +1,12 @@
 {
   "description": "forever young  playlist Spotify, our Music Free, playlist funny, playlist everytime, Playlist to Study, crisvola playlist spotify",
-  "num_followers": 361,
+  "num_followers": 362,
   "original_name": "forever young Playlist Spotify",
   "owner": {
     "name": "Cristian Nevola",
     "url": "https://open.spotify.com/user/1188041238"
   },
-  "snapshot_id": "AAAMWtN+FTLyjI1r8WVG6/dxsCM90Tvs",
+  "snapshot_id": "AAAMXF/h/GnNHjBuxTztwy47RphN0FUp",
   "tracks": [
     {
       "added_at": "2022-08-16 09:32:19",
@@ -49499,6 +49499,38 @@
       "duration_ms": 230527,
       "name": "Luna",
       "url": "https://open.spotify.com/track/2wq3wueOGylwRWuFOiPUGQ"
+    },
+    {
+      "added_at": "2026-11-25 12:26:34",
+      "album": {
+        "name": "Do-Over",
+        "url": "https://open.spotify.com/album/1TgQo2IG7BtEdjrpx8pLby"
+      },
+      "artists": [
+        {
+          "name": "Alessandro Ciminata",
+          "url": "https://open.spotify.com/artist/2dUzpcaCyW2RWTNrlv3Sjv"
+        }
+      ],
+      "duration_ms": 183000,
+      "name": "Do-Over",
+      "url": "https://open.spotify.com/track/1YJ3zTjKvYrPwNV1EdCtn7"
+    },
+    {
+      "added_at": "2026-11-25 23:25:22",
+      "album": {
+        "name": "When You Left the Room",
+        "url": "https://open.spotify.com/album/45NrpppgY1x8nlXnLdq1cw"
+      },
+      "artists": [
+        {
+          "name": "RIAN L",
+          "url": "https://open.spotify.com/artist/7zuENAgeXHuL6ybjeTSK3u"
+        }
+      ],
+      "duration_ms": 210293,
+      "name": "When You Left the Room - Extrait de l'album 2026 PASSING THROUGH THE LIGHT",
+      "url": "https://open.spotify.com/track/5gd9yNnfYFZXRvBEkQDcgZ"
     }
   ],
   "unique_name": "forever young Playlist Spotify",

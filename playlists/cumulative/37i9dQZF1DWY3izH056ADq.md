@@ -4,7 +4,7 @@
 
 > Enjoy music From "Paradox Live"! ©Paradox Live2023
 
-166 songs - 23 hr 5 min
+167 songs - 23 hr 8 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -32,7 +32,7 @@
 | [Ch△mp1on](https://open.spotify.com/track/7CvTAPl3FkhRI0BJ7ADjKu) | [Bae](https://open.spotify.com/artist/4ZBu9jBrNpCCuyiPUXWmZH) | [Paradox Live \-Road to Legend\- FINAL"REVOLUTION"](https://open.spotify.com/album/28kU1S60PMk2PTrbWyR7gA) | 3:33 | 2023-10-17 | 2026-09-16 |
 | [Day to day](https://open.spotify.com/track/4tvalIFTQxvZU65ZKatSqH) | [cozmez](https://open.spotify.com/artist/0HLLtp14pveBWVAnD7UVPn) | [Paradox Live \-Battle of Unity\-](https://open.spotify.com/album/6bITKXIZeYm6C9UKgd7giw) | 3:23 | 2026-09-15 | 2026-10-12 |
 | [Do as I say](https://open.spotify.com/track/1LZTrDkC2D2VdnFZacIMyf) | [AMPRULE](https://open.spotify.com/artist/1cO53m1IwwUVEJu68wlPj0) | [Paradox Live Opening Show\-Road to Legend\-](https://open.spotify.com/album/4W6oeLcRlI6LUDRUkxHwPs) | 3:02 | 2022-03-29 |  |
-| [DO or DIE](https://open.spotify.com/track/0MBobLFrNvoZp2oAryOrD7) | [武雷管](https://open.spotify.com/artist/28Y1K6WVGuV4SqbjRxcOTC) | [Paradox Live \- Road to Legend \- Consolation Match"SHOWDOWN"](https://open.spotify.com/album/3h3UOObSClYPHL4vVkuLPx) | 3:32 | 2023-01-31 |  |
+| [DO or DIE](https://open.spotify.com/track/0MBobLFrNvoZp2oAryOrD7) | [武雷管](https://open.spotify.com/artist/28Y1K6WVGuV4SqbjRxcOTC) | [Paradox Live \- Road to Legend \- Consolation Match"SHOWDOWN"](https://open.spotify.com/album/3h3UOObSClYPHL4vVkuLPx) | 3:32 | 2023-01-31 | 2026-11-26 |
 | [Double Trouble](https://open.spotify.com/track/4c7cKemfmTOd952m9F3JQ4) | [神林ヨウ平](https://open.spotify.com/artist/38140G7vQbueXVUWNQkJym), [翠石依織](https://open.spotify.com/artist/4QehghJ7APvk7yrN0YQo5Z) | [Paradox Live Shuffle Team Show \(Vol.2\)](https://open.spotify.com/album/0Rnc7ihMXSzdvQ02iVvfu3) | 3:31 | 2022-03-29 | 2026-09-16 |
 | [Dreamin’ 24](https://open.spotify.com/track/1lBigtaVWnUhbLbJzboM8Q) | [Bae](https://open.spotify.com/artist/4ZBu9jBrNpCCuyiPUXWmZH) | [Before Anyone Else](https://open.spotify.com/album/5SjQDg7O32K7sWnnmQhU0S) | 3:23 | 2024-06-25 | 2026-09-16 |
 | [edN](https://open.spotify.com/track/4oGINy3fZWYNoUZSPaGoJR) | [1Nm8](https://open.spotify.com/artist/5Jo3dt6niM5mWM4udNPafs) | [Paradox Live \-Road to Legend\- Round1 “FATE"](https://open.spotify.com/album/3InCCQOBaZ2Xe70LeaLyOf) | 3:56 | 2022-07-26 |  |
@@ -56,6 +56,7 @@
 | [Hit em up](https://open.spotify.com/track/3hIlHC3TNC3rB5Bb1duN2q) | [cozmez](https://open.spotify.com/artist/0HLLtp14pveBWVAnD7UVPn) | [Paradox Live \-Road to Legend\- Round1 “RAGE"](https://open.spotify.com/album/1Wgf5u72mNvYRsPuYacFBp) | 2:47 | 2022-08-30 | 2026-11-07 |
 | [Instinct](https://open.spotify.com/track/6oJoDBsnqSj2oLkqRK9olg) | [cozmez](https://open.spotify.com/artist/0HLLtp14pveBWVAnD7UVPn) | [Paradox Live \-Battle of Unity\- Round1 “SURVIVE”](https://open.spotify.com/album/4isR3qDA0ZGuTCkqfKBJL9) | 2:56 | 2026-09-15 |  |
 | [Jumping Into My World](https://open.spotify.com/track/6dcdGwSr1UYjTqrjqbZok7) | [アン・フォークナー](https://open.spotify.com/artist/69FKx8Ee2gvs68j2bqh0QM), [矢戸乃上那由汰](https://open.spotify.com/artist/7nVUI9CT2OrfnsQSyyU5wK), [棗リュウ](https://open.spotify.com/artist/0t6oyiG4NxLbNHKxE4U9Tp), [円山玲央](https://open.spotify.com/artist/6Nqu7vY2QyTha9ZbcdvXnc) | [Paradox Live Shuffle Team Show \(Vol.1\)](https://open.spotify.com/album/1j9xsbEpvMvcYEBOsDB9Bm) | 3:32 | 2022-03-29 |  |
+| [Let It Heat](https://open.spotify.com/track/2k3XaA6PJVxI4dPUa4GVbJ) | [武雷管](https://open.spotify.com/artist/28Y1K6WVGuV4SqbjRxcOTC) | [Paradox Live 3rd album "ANTHEM"](https://open.spotify.com/album/73Hnzxkzqk4xyiWlzI58RD) | 3:16 | 2026-09-15 |  |
 | [Life Is Beautiful](https://open.spotify.com/track/5YCuRO5C1Njp2qLviXpwo5) | [The Cat's Whiskers](https://open.spotify.com/artist/2E4FGvqaZ65gGPYyFg5aUS) | [Paradox Live Exhibition Show \-The Cat’s Whiskers\-](https://open.spotify.com/album/5mZkoKj6iJyrdr2c8Rf2wD) | 3:26 | 2022-03-29 | 2026-09-16 |
 | [Linger](https://open.spotify.com/track/3Gd4qqlvj1TRADp9B1t2we) | [VISTY](https://open.spotify.com/artist/1owUp8KymexV2zFYxUZ2oF) | [Paradox Live \-Battle of Unity\- Round3 “FUTURE”](https://open.spotify.com/album/1MxL6gUA0dG5XbJuz4h4QR) | 3:14 | 2026-09-15 |  |
 | [MAGIC CARPET](https://open.spotify.com/track/7kznGbmLRWbEjPmNdUxpcO) | [VISTY](https://open.spotify.com/artist/1owUp8KymexV2zFYxUZ2oF) | [Paradox Live Opening Show \-Battle of Unity\- Unit R](https://open.spotify.com/album/2w7gbywyv7lFjvmwp6onBb) | 3:40 | 2026-09-15 |  |

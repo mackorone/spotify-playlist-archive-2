@@ -4,7 +4,7 @@
 
 > OffAxisTours.com \| Indie \| Folk \| Electro \| Rock \| Pop  \| NO autotune, AI or instrumental
 
-487 songs - 1 day 5 hr 17 min
+490 songs - 1 day 5 hr 28 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -54,6 +54,7 @@
 | [Ballad of a Hollywood Dreamer](https://open.spotify.com/track/1BpmA3qrobgsMEgT7tTrFf) | [KATERINA.](https://open.spotify.com/artist/43Yvnw65fjs8L8FIhV2T1c) | [Ballad of a Hollywood Dreamer](https://open.spotify.com/album/2aLGRM0lIjqF1tyANhBBhe) | 3:53 | 2026-07-04 | 2026-08-07 |
 | [Ballots and Bullets](https://open.spotify.com/track/7ACTGMCh10RvLPYU9mUp8C) | [Charmian Devi](https://open.spotify.com/artist/5wd3mulMz93WJDdB7xROqP) | [Diamond Hour](https://open.spotify.com/album/7H3Pcia1b3TfXgji2VxcB6) | 3:26 | 2026-06-19 | 2026-07-22 |
 | [Bass Drum](https://open.spotify.com/track/1OiErAa7qNhNubMkvfFpAZ) | [Junior Varsity](https://open.spotify.com/artist/27tsCOGutD6wmFnv4eKWMp) | [Ready](https://open.spotify.com/album/1e50AHM2FkCz5SLww9qFzT) | 1:42 | 2026-09-03 |  |
+| [Be Here](https://open.spotify.com/track/01zSNbFmzEuxVGcafxQk5l) | [NOSEDIVE](https://open.spotify.com/artist/23mX48p12KAUE0GBtxRb18) | [Surround](https://open.spotify.com/album/5ozlAoqudlcnetPpTT8LCd) | 4:06 | 2026-11-25 |  |
 | [Be Mine](https://open.spotify.com/track/7CneMoem8r2X4OD1LWQtOs) | [brittle](https://open.spotify.com/artist/6nTGjlKzh92A8qlAwQ0clg) | [Be Mine](https://open.spotify.com/album/7u3HEmstnUkwEyA4PRWDo7) | 4:50 | 2026-04-19 | 2026-06-20 |
 | [Be That Way](https://open.spotify.com/track/0QV8Rgw3puKgvODemZPVhX) | [The Demographic](https://open.spotify.com/artist/1krGl2BYNGaEmOnkOBor7L) | [The Change \- EP](https://open.spotify.com/album/5xosQhKjMOteD54hwmMpqk) | 3:55 | 2026-03-21 | 2026-06-20 |
 | [Beautiful Frankenstein](https://open.spotify.com/track/7r0iKylcYP9i5MWfprfM9G) | [Foreign Mornings](https://open.spotify.com/artist/5FpTfySze01OqeGdYET9Jm) | [Beginnings and Endings](https://open.spotify.com/album/7ouFqeYiBHWwPBb34BvZci) | 3:30 | 2025-11-16 | 2026-07-22 |
@@ -282,6 +283,7 @@
 | [Love Rhapsody](https://open.spotify.com/track/7N20AdMrFg2oOVgLhLmsKH) | [Inorganic Era](https://open.spotify.com/artist/0Y1Z3cpF7xQrAyQKHNadxY) | [Love Rhapsody](https://open.spotify.com/album/4ChSVUwqQ8pFkN5LGtvUJU) | 2:57 | 2026-06-09 | 2026-06-20 |
 | [Love To Hate](https://open.spotify.com/track/1n98QMnnHuC8XLKbUuvAMn) | [Haiver](https://open.spotify.com/artist/3lZ7xSeqcoAGMGFP65nTbv) | [Love To Hate](https://open.spotify.com/album/6klBzhJPi8Ki8vfm0rPf83) | 4:24 | 2026-05-24 | 2026-06-15 |
 | [Love With Crincles](https://open.spotify.com/track/6Uc0IldQWUGveGLivF6CQx) | [Einars Vitols](https://open.spotify.com/artist/0b0J4VV4E0YHoBpwRe4mCb) | [Love With Crincles](https://open.spotify.com/album/7vqcEQIqpjWhNsQGfWRQfb) | 3:00 | 2026-06-09 | 2026-06-20 |
+| [Lucio](https://open.spotify.com/track/7xPXR60pLWfO7r31BD2O9u) | [Rufus Beckett](https://open.spotify.com/artist/0AuymUdyDnEfryqJuyChJW) | [Lucio](https://open.spotify.com/album/5tyxyirOaO8WxOzDJ0uc0O) | 3:27 | 2026-11-25 |  |
 | [Lungs Enough?](https://open.spotify.com/track/5SeUTbBIcHEcE6a8OwJ2Fe) | [Kahlil's Razor](https://open.spotify.com/artist/7rA1KbuQQ0AZbTKBiw508I) | [Lungs Enough?](https://open.spotify.com/album/418vHl49VRBDt4VZ1f8ceO) | 3:13 | 2026-06-09 | 2026-06-20 |
 | [Ma MILF \- Single Mix](https://open.spotify.com/track/3FozsHGciWbFyTytyQqw4F) | [tasH](https://open.spotify.com/artist/7kF6Cba1h7aAEdokHzSIx1) | [Ma MILF](https://open.spotify.com/album/6XG5xfwX0velRo1dQzxjUR) | 5:27 | 2026-06-09 | 2026-06-20 |
 | [Magic Mirror Crystal Clear](https://open.spotify.com/track/2k5FL0TjxXKUpRernxzGPu) | [Irene Shapes](https://open.spotify.com/artist/3P3ikBWtAD1LMvnIXiZ9UB) | [Magic Mirror Crystal Clear](https://open.spotify.com/album/6duFgGVXnuzFwqnjrKEzAL) | 3:34 | 2026-09-03 | 2026-09-28 |
@@ -476,6 +478,7 @@
 | [what you want](https://open.spotify.com/track/5iVs4X6pL9FvemLW8qEcFj) | [Prince Frencho](https://open.spotify.com/artist/2BwRP4jLpHD1Tj5BpB6qkQ) | [what you want](https://open.spotify.com/album/5rncqxKNvPAqA1nZFZ7yCy) | 2:34 | 2026-09-03 | 2026-09-28 |
 | [What's Wrong With You?](https://open.spotify.com/track/34xB6KsnoMR2oTSZn47aIS) | [Upwood Avenue](https://open.spotify.com/artist/6vxgfCzu5GGJWOfARnonrI) | [What's Wrong With You?](https://open.spotify.com/album/493LfPZPFGetvhsX9xH3KK) | 4:20 | 2026-09-03 | 2026-10-17 |
 | [WHATEVER](https://open.spotify.com/track/14Wd8OBk2EJLfHVwBigaCX) | [I'm Geist](https://open.spotify.com/artist/3RBbPmeuOZUZK0xtR32fHy) | [WHATEVER](https://open.spotify.com/album/4d4DRTzrwTSP8m306DL5nO) | 3:07 | 2026-09-03 | 2026-11-16 |
+| [Whatever It Takes](https://open.spotify.com/track/18ap9CsKS0ndJofIv5CBzf) | [Jack Given](https://open.spotify.com/artist/54NA5ZY7KPA1IRWhqmnGJ4) | [Whatever It Takes](https://open.spotify.com/album/0ofx6ql6CtdOfrnVyWpmNk) | 3:02 | 2026-11-25 |  |
 | [When Did You Stop Dancing?](https://open.spotify.com/track/5TpbMuAVWV9u48WsnsJVer) | [Sean By Mercy](https://open.spotify.com/artist/2LkECyiaX4X9ICXTzyzXjZ) | [I Cannot Go on Reaching](https://open.spotify.com/album/5amMSI279HeqRk8SiTMFnO) | 4:26 | 2026-01-03 | 2026-02-02 |
 | [Where Did the Time Go](https://open.spotify.com/track/3hchiYBclZwtrQoch7Vvzt) | [Ellyn Oliver](https://open.spotify.com/artist/5b5vgWOGZ4uQYYb5eWk9Tl) | [Where Did the Time Go](https://open.spotify.com/album/4DSfBuovOzfL54pgqRwV95) | 4:06 | 2025-11-16 | 2025-12-01 |
 | [Whispers From The Wind](https://open.spotify.com/track/4UK0A6G7oSJlcodWF1B2gy) | [Devin Reardon](https://open.spotify.com/artist/7DIHMUvsVUnwd4oMNhbI3U) | [Whispers From The Wind](https://open.spotify.com/album/5sGcs4tIxYolosP6Byou02) | 3:26 | 2026-11-16 |  |

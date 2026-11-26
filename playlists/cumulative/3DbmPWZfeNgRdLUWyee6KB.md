@@ -4,7 +4,7 @@
 
 > The best new indie music, indie folk &amp; rock discoveries\. Fresh songs for your daily chill, focus and road trips\. Featuring Noah Kahan, Phoebe Bridgers, Sam Fender and top emerging indie artists\. Updated daily with new releases — hit save to stay tuned!
 
-1,737 songs - 4 day 5 hr 33 min
+1,738 songs - 4 day 5 hr 37 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -90,6 +90,7 @@
 | [Alibi \- CASA J Remix](https://open.spotify.com/track/1ZvqM46DaPJ9ERa4PJIgOB) | [Jay Hofman](https://open.spotify.com/artist/4WWuKUayc9e9IQm8cAV72x), [CASA J](https://open.spotify.com/artist/6UoFcXpCqCyvykB1eXtZnQ) | [Alibi](https://open.spotify.com/album/1msVNemJrpRm3SXhDHws3W) | 3:12 | 2026-08-17 | 2026-09-17 |
 | [Alive](https://open.spotify.com/track/1gKY8KxcwNtdYRF8H0gxh1) | [MAOOSA](https://open.spotify.com/artist/6Q2Tv4sMicVl2LKTnqzdyV) | [Alive](https://open.spotify.com/album/69Zi6K575DePRoq5tWHwCZ) | 3:44 | 2026-03-31 | 2026-05-03 |
 | [Alive](https://open.spotify.com/track/7bCLybOMzLDnnSFGpzTcDT) | [Marc Ocram](https://open.spotify.com/artist/6nIiuaM9vwePMOtklXfagK) | [Alive](https://open.spotify.com/album/7JVqWLK0aI5rdAfmkikp88) | 4:17 | 2026-03-23 | 2026-04-22 |
+| [All along](https://open.spotify.com/track/5AE5jeBPyWDEKm8xVKeBr2) | [DOXAN](https://open.spotify.com/artist/5X246ObvluQlKKfjS2nZVJ) | [All along](https://open.spotify.com/album/7qx5BlEZz0ip8TK5hsNq4Z) | 4:04 | 2026-11-25 |  |
 | [All I'm Asking](https://open.spotify.com/track/31wDnO5bkTr89Rikz29fz8) | [CTRL FREQS](https://open.spotify.com/artist/3BV3kbIBpKGLztbqNxuWSv) | [Never Too Late](https://open.spotify.com/album/3bNnCDLxdkSjjSsCHtn0mL) | 4:15 | 2026-10-01 | 2026-11-12 |
 | [All Over Again](https://open.spotify.com/track/4KvXKfrldA8J7d3mIFBXp5) | [Fruition](https://open.spotify.com/artist/3iUbju4Cu6cPX5llxZWMqA) | [Black Mariah](https://open.spotify.com/album/3m00qDdaAMsv3B1W6EIhBh) | 2:53 | 2026-05-11 | 2026-07-03 |
 | [All The Right Moves](https://open.spotify.com/track/5R8u2wIpO2OKg2EhSygZne) | [Nitrate](https://open.spotify.com/artist/6wEVMZieIv9ttCzvuDYev8) | [Feel The Heat](https://open.spotify.com/album/1XYLHUy8YpqocGfm14fzyJ) | 3:54 | 2026-03-09 | 2026-04-12 |

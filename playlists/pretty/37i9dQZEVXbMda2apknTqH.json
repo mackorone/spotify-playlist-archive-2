@@ -1,12 +1,12 @@
 {
   "description": "Your weekly update of the most played tracks right now - Canada.",
-  "num_followers": 39348,
+  "num_followers": 39353,
   "original_name": "Top Songs - Canada",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Mpk6kAAAAAAAAAAAAAAAAAAAAAAAAGVu",
+  "snapshot_id": "MpqJuAAAAAAAAAAAAAAAAAAAAAAAAGVu",
   "tracks": [
     {
       "added_at": "2026-11-20 15:55:11",
@@ -547,8 +547,8 @@
     {
       "added_at": "2026-11-20 15:55:11",
       "album": {
-        "name": "Christmas (Deluxe 10th Anniversary Edition)",
-        "url": "https://open.spotify.com/album/6UuaXwIIaIaNSGrpPE1vFt"
+        "name": "Christmas",
+        "url": "https://open.spotify.com/album/3CKVXhODttZebJAzjUs2un"
       },
       "artists": [
         {
@@ -556,9 +556,9 @@
           "url": "https://open.spotify.com/artist/1GxkXlMwML1oSg5eLPiAz3"
         }
       ],
-      "duration_ms": 207199,
+      "duration_ms": 206639,
       "name": "It's Beginning to Look a Lot like Christmas",
-      "url": "https://open.spotify.com/track/3it2BvJfyhPEWF3kD2TZJ1"
+      "url": "https://open.spotify.com/track/0lLdorYw7lVrJydTINhWdI"
     },
     {
       "added_at": "2026-11-20 15:55:11",
@@ -831,8 +831,8 @@
     {
       "added_at": "2026-11-20 15:55:11",
       "album": {
-        "name": "Christmas (Deluxe 10th Anniversary Edition)",
-        "url": "https://open.spotify.com/album/6UuaXwIIaIaNSGrpPE1vFt"
+        "name": "Christmas",
+        "url": "https://open.spotify.com/album/3CKVXhODttZebJAzjUs2un"
       },
       "artists": [
         {
@@ -840,9 +840,9 @@
           "url": "https://open.spotify.com/artist/1GxkXlMwML1oSg5eLPiAz3"
         }
       ],
-      "duration_ms": 121526,
+      "duration_ms": 119786,
       "name": "Holly Jolly Christmas",
-      "url": "https://open.spotify.com/track/6rqn19AqjcM5wgI1hCYciJ"
+      "url": "https://open.spotify.com/track/6tjituizSxwSmBB5vtgHZE"
     }
   ],
   "unique_name": "Top Songs - Canada",

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6ntWKaOqGAp.md) - [plain]
 
 > 日本ロックシーンの話題曲をひとつのプレイリストに。The biggest Japanese rock hits right now\. Cover: スピッツ
 
-[Spotify](https://open.spotify.com/user/spotify) - 272,843 likes - 100 songs - 6 hr 16 min
+[Spotify](https://open.spotify.com/user/spotify) - 272,842 likes - 100 songs - 6 hr 16 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6ntWKaOqGAp.md) - [plain]
 | 99 | [接地飛行](https://open.spotify.com/track/00sl3g20BU7CqWeo27Z9EX) | [UNDER GRAPH](https://open.spotify.com/artist/2Ox7XO5C0tbbk9pfZVDGA1) | [接地飛行](https://open.spotify.com/album/4Ch41IjIEXBaSWadeCxkK1) | 2:58 |
 | 100 | [半透明](https://open.spotify.com/track/2Honb0cuaGAJy4HEXFTzT3) | [PASSEPIED](https://open.spotify.com/artist/115IWAVy4OTxhE0xdDef1c) | [半透明](https://open.spotify.com/album/3rwbDAtxRIbn7lnuPL4N0X) | 3:36 |
 
-Snapshot ID: `AAAAAIX1AvGqeyunutRr/tTPYAGEOrAh`
+Snapshot ID: `AAAAAOKb0CEUWC/E3+aOOVLILGZoUFrZ`

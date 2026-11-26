@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWY3izH056ADq.md) - [plain]
 
 > Enjoy music From "Paradox Live"! ©Paradox Live2023
 
-[Spotify](https://open.spotify.com/user/spotify) - 42,897 likes - 50 songs - 3 hr 8 min
+[Spotify](https://open.spotify.com/user/spotify) - 42,891 likes - 50 songs - 3 hr 7 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -50,13 +50,13 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWY3izH056ADq.md) - [plain]
 | 40 | [The Sound Of Voltage](https://open.spotify.com/track/3kOkZp9RyrsqHyHZ593tTS) | [朱雀野アレン](https://open.spotify.com/artist/3L2R5NrRednQ8aK3fCrsqn), [矢戸乃上可波汰](https://open.spotify.com/artist/2V7qMRMjNcuZmu3JQyFkqa) | [Paradox Live Shuffle Team Show \(Vol.2\)](https://open.spotify.com/album/0Rnc7ihMXSzdvQ02iVvfu3) | 3:25 |
 | 41 | [かつて天才だった俺たちへ](https://open.spotify.com/track/3eSN3QAJsLqWzvWA61j4Wk) | [武雷管](https://open.spotify.com/artist/28Y1K6WVGuV4SqbjRxcOTC) | [Paradox Live covers “PROPS”](https://open.spotify.com/album/1nFRd1TMMe5g4eUSb4ScI2) | 3:30 |
 | 42 | [ウェカピポ](https://open.spotify.com/track/1LbU7xrc2n2YBR8NUyqN4B) | [The Cat's Whiskers](https://open.spotify.com/artist/2E4FGvqaZ65gGPYyFg5aUS) | [Paradox Live covers “PROPS”](https://open.spotify.com/album/1nFRd1TMMe5g4eUSb4ScI2) | 4:14 |
-| 43 | [The REVENGERS](https://open.spotify.com/track/1mbRFaWiDEOCnYjLYbOAac) | [REVENGERS](https://open.spotify.com/artist/3S6PUnGb5f70u0ow7j6PAV) | [Paradox Live \-Battle of Unity\-](https://open.spotify.com/album/6bITKXIZeYm6C9UKgd7giw) | 3:42 |
-| 44 | [MAGIC CARPET](https://open.spotify.com/track/7kznGbmLRWbEjPmNdUxpcO) | [VISTY](https://open.spotify.com/artist/1owUp8KymexV2zFYxUZ2oF) | [Paradox Live Opening Show \-Battle of Unity\- Unit R](https://open.spotify.com/album/2w7gbywyv7lFjvmwp6onBb) | 3:40 |
+| 43 | [MAGIC CARPET](https://open.spotify.com/track/7kznGbmLRWbEjPmNdUxpcO) | [VISTY](https://open.spotify.com/artist/1owUp8KymexV2zFYxUZ2oF) | [Paradox Live Opening Show \-Battle of Unity\- Unit R](https://open.spotify.com/album/2w7gbywyv7lFjvmwp6onBb) | 3:40 |
+| 44 | [The REVENGERS](https://open.spotify.com/track/1mbRFaWiDEOCnYjLYbOAac) | [REVENGERS](https://open.spotify.com/artist/3S6PUnGb5f70u0ow7j6PAV) | [Paradox Live \-Battle of Unity\-](https://open.spotify.com/album/6bITKXIZeYm6C9UKgd7giw) | 3:42 |
 | 45 | [True Pride](https://open.spotify.com/track/4In63Qb9rOWsjrxJsaAYii) | [AMPRULE](https://open.spotify.com/artist/1cO53m1IwwUVEJu68wlPj0) | [Paradox Live \-Road to Legend\- Round1 “FATE"](https://open.spotify.com/album/3InCCQOBaZ2Xe70LeaLyOf) | 2:56 |
-| 46 | [DO or DIE](https://open.spotify.com/track/0MBobLFrNvoZp2oAryOrD7) | [武雷管](https://open.spotify.com/artist/28Y1K6WVGuV4SqbjRxcOTC) | [Paradox Live \- Road to Legend \- Consolation Match"SHOWDOWN"](https://open.spotify.com/album/3h3UOObSClYPHL4vVkuLPx) | 3:32 |
+| 46 | [Let It Heat](https://open.spotify.com/track/2k3XaA6PJVxI4dPUa4GVbJ) | [武雷管](https://open.spotify.com/artist/28Y1K6WVGuV4SqbjRxcOTC) | [Paradox Live 3rd album "ANTHEM"](https://open.spotify.com/album/73Hnzxkzqk4xyiWlzI58RD) | 3:16 |
 | 47 | [Rats & Nobles](https://open.spotify.com/track/5puGKhaphVDO2yaU9ycynd) | [燕夏準](https://open.spotify.com/artist/6IQXL6FP1MHrFrMO329e8I), [矢戸乃上可波汰](https://open.spotify.com/artist/2V7qMRMjNcuZmu3JQyFkqa), [矢戸乃上那由汰](https://open.spotify.com/artist/7nVUI9CT2OrfnsQSyyU5wK) | [Paradox Live Shuffle Team Show \(Vol.2\)](https://open.spotify.com/album/0Rnc7ihMXSzdvQ02iVvfu3) | 4:48 |
-| 48 | [Rooftop](https://open.spotify.com/track/6rriREMck8MKJGyIvDz8RM) | [闇堂四季](https://open.spotify.com/artist/5BVVhDIGYa7cfSVBoBUAKi), [矢戸乃上那由汰](https://open.spotify.com/artist/7nVUI9CT2OrfnsQSyyU5wK) | [Paradox Live Shuffle Team Show \(Vol.1\)](https://open.spotify.com/album/1j9xsbEpvMvcYEBOsDB9Bm) | 3:19 |
-| 49 | [Linger](https://open.spotify.com/track/3Gd4qqlvj1TRADp9B1t2we) | [VISTY](https://open.spotify.com/artist/1owUp8KymexV2zFYxUZ2oF) | [Paradox Live \-Battle of Unity\- Round3 “FUTURE”](https://open.spotify.com/album/1MxL6gUA0dG5XbJuz4h4QR) | 3:14 |
-| 50 | [Frozen Ice](https://open.spotify.com/track/1VtkV6XZDHEqjeNIGl8eJC) | [team Winter](https://open.spotify.com/artist/5dVxkYHbEkFwB5jzsZPd5K) | [Paradox Live Seasonal Show](https://open.spotify.com/album/5aFRKQGeWqOhz9DHxW0926) | 3:35 |
+| 48 | [Linger](https://open.spotify.com/track/3Gd4qqlvj1TRADp9B1t2we) | [VISTY](https://open.spotify.com/artist/1owUp8KymexV2zFYxUZ2oF) | [Paradox Live \-Battle of Unity\- Round3 “FUTURE”](https://open.spotify.com/album/1MxL6gUA0dG5XbJuz4h4QR) | 3:14 |
+| 49 | [Frozen Ice](https://open.spotify.com/track/1VtkV6XZDHEqjeNIGl8eJC) | [team Winter](https://open.spotify.com/artist/5dVxkYHbEkFwB5jzsZPd5K) | [Paradox Live Seasonal Show](https://open.spotify.com/album/5aFRKQGeWqOhz9DHxW0926) | 3:35 |
+| 50 | [Rooftop](https://open.spotify.com/track/6rriREMck8MKJGyIvDz8RM) | [闇堂四季](https://open.spotify.com/artist/5BVVhDIGYa7cfSVBoBUAKi), [矢戸乃上那由汰](https://open.spotify.com/artist/7nVUI9CT2OrfnsQSyyU5wK) | [Paradox Live Shuffle Team Show \(Vol.1\)](https://open.spotify.com/album/1j9xsbEpvMvcYEBOsDB9Bm) | 3:19 |
 
-Snapshot ID: `AAAAAE+5zfParKicobjSWAOcVEO/l8FA`
+Snapshot ID: `AAAAAAt2u+h1mM9kt9e8P0OEpfjbDb0C`

@@ -1,12 +1,12 @@
 {
   "description": "Lo nuevo y lo mejor en el estilo mariachi. Cover: Lucero, Majo Aguilar \ud83d\udcf8",
-  "num_followers": 368402,
+  "num_followers": 368421,
   "original_name": "Mariachi 2026",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAItgFMG+Hc+hknUWtq43OFQGnjjK",
+  "snapshot_id": "AAAAAKWS3/4i0DfdrDNxxlrFtVvJWMil",
   "tracks": [
     {
       "added_at": "2026-11-20 21:42:08",
@@ -555,6 +555,22 @@
     {
       "added_at": "2026-11-20 21:42:08",
       "album": {
+        "name": "Se\u00f1ora",
+        "url": "https://open.spotify.com/album/2oyHnW61jWoGpPP28HbbpP"
+      },
+      "artists": [
+        {
+          "name": "Pipe Bueno",
+          "url": "https://open.spotify.com/artist/4RXxwBtdt6k1YNyyAyiOng"
+        }
+      ],
+      "duration_ms": 179892,
+      "name": "Se\u00f1ora",
+      "url": "https://open.spotify.com/track/06nwHtAD2U2k2YrE9xCrBh"
+    },
+    {
+      "added_at": "2026-11-20 21:42:08",
+      "album": {
         "name": "Malagradecido",
         "url": "https://open.spotify.com/album/5krkvlcYYbvYnuiUVwDFa9"
       },
@@ -587,22 +603,6 @@
       "duration_ms": 180865,
       "name": "La De Rogar",
       "url": "https://open.spotify.com/track/4vJWRawk1I1cDzAs3cbbLb"
-    },
-    {
-      "added_at": "2026-11-20 21:42:08",
-      "album": {
-        "name": "Se\u00f1ora",
-        "url": "https://open.spotify.com/album/2oyHnW61jWoGpPP28HbbpP"
-      },
-      "artists": [
-        {
-          "name": "Pipe Bueno",
-          "url": "https://open.spotify.com/artist/4RXxwBtdt6k1YNyyAyiOng"
-        }
-      ],
-      "duration_ms": 179892,
-      "name": "Se\u00f1ora",
-      "url": "https://open.spotify.com/track/06nwHtAD2U2k2YrE9xCrBh"
     },
     {
       "added_at": "2026-11-20 21:42:08",
@@ -963,22 +963,6 @@
     {
       "added_at": "2026-11-20 21:42:08",
       "album": {
-        "name": "Mariachazo",
-        "url": "https://open.spotify.com/album/6KoKbuvrKOwj6p2SvQUJbI"
-      },
-      "artists": [
-        {
-          "name": "Lupillo Rivera",
-          "url": "https://open.spotify.com/artist/341CfLcUdaBGixB8IJjYwW"
-        }
-      ],
-      "duration_ms": 194401,
-      "name": "Con un Polvo y Otro Polvo",
-      "url": "https://open.spotify.com/track/5i8rqPKr4eK92GbScBVWT3"
-    },
-    {
-      "added_at": "2026-11-20 21:42:08",
-      "album": {
         "name": "El Adi\u00f3s Ranchero",
         "url": "https://open.spotify.com/album/39veRp09mMstYyyFFRb4EK"
       },
@@ -995,18 +979,18 @@
     {
       "added_at": "2026-11-20 21:42:08",
       "album": {
-        "name": "Jalisco",
-        "url": "https://open.spotify.com/album/1r0B4vJsMJZO9Px4T76h8f"
+        "name": "Mariachazo",
+        "url": "https://open.spotify.com/album/6KoKbuvrKOwj6p2SvQUJbI"
       },
       "artists": [
         {
-          "name": "Alberto Vazquez",
-          "url": "https://open.spotify.com/artist/3vYC7LFneIpmJRSgrYy6dc"
+          "name": "Lupillo Rivera",
+          "url": "https://open.spotify.com/artist/341CfLcUdaBGixB8IJjYwW"
         }
       ],
-      "duration_ms": 208266,
-      "name": "Cuando Ya No Me Quieras",
-      "url": "https://open.spotify.com/track/1iY4NtSxVzsjZzA9mMsoqS"
+      "duration_ms": 194401,
+      "name": "Con un Polvo y Otro Polvo",
+      "url": "https://open.spotify.com/track/5i8rqPKr4eK92GbScBVWT3"
     },
     {
       "added_at": "2026-11-20 21:42:08",
@@ -1023,6 +1007,22 @@
       "duration_ms": 173173,
       "name": "\u00bfPOR QU\u00c9 ME HACES LLORAR? - En Vivo",
       "url": "https://open.spotify.com/track/1h9DgoT5M5Hiw9MvPpOp2m"
+    },
+    {
+      "added_at": "2026-11-20 21:42:08",
+      "album": {
+        "name": "Jalisco",
+        "url": "https://open.spotify.com/album/1r0B4vJsMJZO9Px4T76h8f"
+      },
+      "artists": [
+        {
+          "name": "Alberto Vazquez",
+          "url": "https://open.spotify.com/artist/3vYC7LFneIpmJRSgrYy6dc"
+        }
+      ],
+      "duration_ms": 208266,
+      "name": "Cuando Ya No Me Quieras",
+      "url": "https://open.spotify.com/track/1iY4NtSxVzsjZzA9mMsoqS"
     },
     {
       "added_at": "2026-11-20 21:42:08",
@@ -1155,22 +1155,6 @@
     {
       "added_at": "2026-11-20 21:42:08",
       "album": {
-        "name": "Recu\u00e9rdame",
-        "url": "https://open.spotify.com/album/3GoCeYeJL0fnHHoPlKWpsQ"
-      },
-      "artists": [
-        {
-          "name": "Mariachi Sol De Mexico De Jose Hernandez",
-          "url": "https://open.spotify.com/artist/0MnQvecFg1VbNkiFcPnsaG"
-        }
-      ],
-      "duration_ms": 242697,
-      "name": "La Calaca",
-      "url": "https://open.spotify.com/track/3sVruZT0twZzmcz2SrgN6V"
-    },
-    {
-      "added_at": "2026-11-20 21:42:08",
-      "album": {
         "name": "Esa Perra Ya Me Mordi\u00f3",
         "url": "https://open.spotify.com/album/0J19wntQXd72hlcOZ7ucnC"
       },
@@ -1199,6 +1183,22 @@
       "duration_ms": 169287,
       "name": "El \u00daltimo Beso",
       "url": "https://open.spotify.com/track/7yO0Y1qzLnxnkHV3nZDo1e"
+    },
+    {
+      "added_at": "2026-11-20 21:42:08",
+      "album": {
+        "name": "Recu\u00e9rdame",
+        "url": "https://open.spotify.com/album/3GoCeYeJL0fnHHoPlKWpsQ"
+      },
+      "artists": [
+        {
+          "name": "Mariachi Sol De Mexico De Jose Hernandez",
+          "url": "https://open.spotify.com/artist/0MnQvecFg1VbNkiFcPnsaG"
+        }
+      ],
+      "duration_ms": 242697,
+      "name": "La Calaca",
+      "url": "https://open.spotify.com/track/3sVruZT0twZzmcz2SrgN6V"
     },
     {
       "added_at": "2026-11-20 21:42:08",
@@ -1311,22 +1311,6 @@
     {
       "added_at": "2026-11-20 21:42:08",
       "album": {
-        "name": "Es Demasiado Tarde",
-        "url": "https://open.spotify.com/album/1LjJOTmyf8y5h8pZELzW5i"
-      },
-      "artists": [
-        {
-          "name": "ANDYVERE",
-          "url": "https://open.spotify.com/artist/5XxeDwviA9LNx9xMBUAZxa"
-        }
-      ],
-      "duration_ms": 225770,
-      "name": "Es Demasiado Tarde",
-      "url": "https://open.spotify.com/track/0T2RtjA9xuTbjVZpVXqlw1"
-    },
-    {
-      "added_at": "2026-11-20 21:42:08",
-      "album": {
         "name": "Qu\u00e9 Manera De Perder",
         "url": "https://open.spotify.com/album/3gug01l53bHONxiMPjAJmQ"
       },
@@ -1343,6 +1327,22 @@
       "duration_ms": 155667,
       "name": "Qu\u00e9 Manera De Perder",
       "url": "https://open.spotify.com/track/6ilcYE1SD0G3K4VbQiwYHs"
+    },
+    {
+      "added_at": "2026-11-20 21:42:08",
+      "album": {
+        "name": "Es Demasiado Tarde",
+        "url": "https://open.spotify.com/album/1LjJOTmyf8y5h8pZELzW5i"
+      },
+      "artists": [
+        {
+          "name": "ANDYVERE",
+          "url": "https://open.spotify.com/artist/5XxeDwviA9LNx9xMBUAZxa"
+        }
+      ],
+      "duration_ms": 225770,
+      "name": "Es Demasiado Tarde",
+      "url": "https://open.spotify.com/track/0T2RtjA9xuTbjVZpVXqlw1"
     },
     {
       "added_at": "2026-11-20 21:42:08",
@@ -1395,22 +1395,6 @@
     {
       "added_at": "2026-11-20 21:42:08",
       "album": {
-        "name": "As\u00ed Fue",
-        "url": "https://open.spotify.com/album/7HVzgfaschYlAQZzlenb6g"
-      },
-      "artists": [
-        {
-          "name": "ANDYVERE",
-          "url": "https://open.spotify.com/artist/5XxeDwviA9LNx9xMBUAZxa"
-        }
-      ],
-      "duration_ms": 426232,
-      "name": "As\u00ed Fue",
-      "url": "https://open.spotify.com/track/5YNlvxFFdcS1Jili8ln0ZP"
-    },
-    {
-      "added_at": "2026-11-20 21:42:08",
-      "album": {
         "name": "Me Gustas",
         "url": "https://open.spotify.com/album/6cYMpnl0sZOgF1XmjhzYwy"
       },
@@ -1423,6 +1407,22 @@
       "duration_ms": 168622,
       "name": "Me Gustas",
       "url": "https://open.spotify.com/track/5KpvlmpZ3UjGeIsNOvosiW"
+    },
+    {
+      "added_at": "2026-11-20 21:42:08",
+      "album": {
+        "name": "As\u00ed Fue",
+        "url": "https://open.spotify.com/album/7HVzgfaschYlAQZzlenb6g"
+      },
+      "artists": [
+        {
+          "name": "ANDYVERE",
+          "url": "https://open.spotify.com/artist/5XxeDwviA9LNx9xMBUAZxa"
+        }
+      ],
+      "duration_ms": 426232,
+      "name": "As\u00ed Fue",
+      "url": "https://open.spotify.com/track/5YNlvxFFdcS1Jili8ln0ZP"
     },
     {
       "added_at": "2026-11-20 21:42:08",

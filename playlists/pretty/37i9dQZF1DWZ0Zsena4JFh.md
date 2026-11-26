@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZ0Zsena4JFh.md) - [plain]
 
 > The xx en portada.
 
-[Spotify](https://open.spotify.com/user/spotify) - 675,741 likes - 49 songs - 2 hr 45 min
+[Spotify](https://open.spotify.com/user/spotify) - 675,678 likes - 49 songs - 2 hr 45 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -49,13 +49,13 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZ0Zsena4JFh.md) - [plain]
 | 39 | [The Happy Dictator \(feat\. Sparks\)](https://open.spotify.com/track/4JbyNMvp3BqVILVy4Bbevf) | [Gorillaz](https://open.spotify.com/artist/3AA28KZvwAUcZuOKwyblJQ), [Sparks](https://open.spotify.com/artist/7pwjGKaqnfkvS7eQbHaqyH) | [The Mountain](https://open.spotify.com/album/1RvJmGd47lKS4XMXs9j8hD) | 4:44 |
 | 40 | [Eternal](https://open.spotify.com/track/7CyqGGsu0bV0fvwzQA7z9F) | [Shygirl](https://open.spotify.com/artist/3M3wTTCDwicRubwMyHyEDy) | [SWALLOW!](https://open.spotify.com/album/3dQzmmWFcow0z84wGW6RpD) | 3:36 |
 | 41 | [Starburster](https://open.spotify.com/track/1cg4xD453Wuol9fNsRDbsV) | [Fontaines D.C.](https://open.spotify.com/artist/3SXwqSqAoBz9WCI9PDQzY6) | [Starburster](https://open.spotify.com/album/1KkyOpscmbPAQzLNZDyI6o) | 3:41 |
-| 42 | [Wink Wink](https://open.spotify.com/track/6GjXR9FaxCuDNbqBrP9aYO) | [Charli xcx](https://open.spotify.com/artist/25uiPmTg16RbhZWAqwLBy5) | [Wink Wink](https://open.spotify.com/album/1WjjAPm4lSHSjupTleJaCA) | 2:02 |
-| 43 | [everything was fickle \(feat\. Arden Jones\)](https://open.spotify.com/track/4IfbHtrx4H1iupwGmiFbTJ) | [Newport](https://open.spotify.com/artist/3BfSHf6fsuUA1KMXLX1Tur), [Arden Jones](https://open.spotify.com/artist/3mMogqf2JyBUQZxFZlC79w) | [everything was fickle \(feat\. Arden Jones\)](https://open.spotify.com/album/47gHozXpQgqtM96O02nqF7) | 3:15 |
+| 42 | [everything was fickle \(feat\. Arden Jones\)](https://open.spotify.com/track/4IfbHtrx4H1iupwGmiFbTJ) | [Newport](https://open.spotify.com/artist/3BfSHf6fsuUA1KMXLX1Tur), [Arden Jones](https://open.spotify.com/artist/3mMogqf2JyBUQZxFZlC79w) | [everything was fickle \(feat\. Arden Jones\)](https://open.spotify.com/album/47gHozXpQgqtM96O02nqF7) | 3:15 |
+| 43 | [Wink Wink](https://open.spotify.com/track/6GjXR9FaxCuDNbqBrP9aYO) | [Charli xcx](https://open.spotify.com/artist/25uiPmTg16RbhZWAqwLBy5) | [Wink Wink](https://open.spotify.com/album/1WjjAPm4lSHSjupTleJaCA) | 2:02 |
 | 44 | [the bridge](https://open.spotify.com/track/1PpODh3GDSFoG7EGOekVu2) | [Kelela](https://open.spotify.com/artist/1U0sIzpRtDkvu1hXXzxh60), [PinkPantheress](https://open.spotify.com/artist/78rUTD7y6Cy67W1RVzYs7t) | [new avatar](https://open.spotify.com/album/0t1I0Ic8IzTND3sesj9tDE) | 3:53 |
 | 45 | [Billie Toppy](https://open.spotify.com/track/5jyj2XKWILHQxDoz59ddCT) | [Men I Trust](https://open.spotify.com/artist/3zmfs9cQwzJl575W1ZYXeT) | [Billie Toppy](https://open.spotify.com/album/0FpoXXhnwamDJbLSWLRgvN) | 3:15 |
 | 46 | [Vinegar](https://open.spotify.com/track/6Mi8DfWuxbQMLECvPv9EVm) | [Beach Bunny](https://open.spotify.com/artist/2vnB6tuQMaQpORiRdvXF9H) | [Vinegar](https://open.spotify.com/album/0oIqh3iglmECGWVs89uZMz) | 3:06 |
 | 47 | [Mussel](https://open.spotify.com/track/4itV7xKZIKvqGOH4nmp0RL) | [Mother Soki](https://open.spotify.com/artist/08W3G3y83p0TLqqjiyKXBk) | [Mussel](https://open.spotify.com/album/2I9GUnhP5vpSnrfbZtKy2T) | 2:41 |
-| 48 | [Going Shopping](https://open.spotify.com/track/4dUOhTTMy4ITIbNQKPKYFP) | [The Strokes](https://open.spotify.com/artist/0epOFNiUfyON9EYx7Tpr6V) | [Going Shopping](https://open.spotify.com/album/4XCAqkLSm0CozIX5dQRXPI) | 4:21 |
-| 49 | [Benny's Video](https://open.spotify.com/track/5N4sQdc3npLGzNfjg8kxlY) | [Gang of Youths](https://open.spotify.com/artist/142YBUGmLWCJigFLzgguf8) | [Benny's Video](https://open.spotify.com/album/6c3Ol8A3dtGWvo3fa9jun2) | 5:18 |
+| 48 | [Benny's Video](https://open.spotify.com/track/5N4sQdc3npLGzNfjg8kxlY) | [Gang of Youths](https://open.spotify.com/artist/142YBUGmLWCJigFLzgguf8) | [Benny's Video](https://open.spotify.com/album/6c3Ol8A3dtGWvo3fa9jun2) | 5:18 |
+| 49 | [Going Shopping](https://open.spotify.com/track/4dUOhTTMy4ITIbNQKPKYFP) | [The Strokes](https://open.spotify.com/artist/0epOFNiUfyON9EYx7Tpr6V) | [Going Shopping](https://open.spotify.com/album/4XCAqkLSm0CozIX5dQRXPI) | 4:21 |
 
-Snapshot ID: `AAAAAJNYDi8ayniSJinucZg8UKhcXd1g`
+Snapshot ID: `AAAAAFgWVBngHSBQmrHKG80S0HOZ8C1S`

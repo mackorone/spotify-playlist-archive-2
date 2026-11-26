@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcvmeS1jhCQv.md) - [plain]
 
 > The best new Irish music in one place 📍 Cover: Madra Salach
 
-[Spotify](https://open.spotify.com/user/spotify) - 121,384 likes - 80 songs - 4 hr 44 min
+[Spotify](https://open.spotify.com/user/spotify) - 121,395 likes - 80 songs - 4 hr 44 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -89,4 +89,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcvmeS1jhCQv.md) - [plain]
 | 79 | [Jacobsons](https://open.spotify.com/track/3NsyjB7Y1CZ2qjydcnFYXK) | [Gilla Band](https://open.spotify.com/artist/7IdPmzvB3PugXieZE9vS4S) | [Pugnello](https://open.spotify.com/album/5pTvVhdMVV24CQep4GA38F) | 4:38 |
 | 80 | [Stockholm](https://open.spotify.com/track/4Aor8M0U720cnHUgYvOC5P) | [Dermot Kennedy](https://open.spotify.com/artist/5KNNVgR6LBIABRIomyCwKJ) | [The Weight of the Woods \(Extended Edition\)](https://open.spotify.com/album/1R4BIKP7Clt6YoB58FbozL) | 5:44 |
 
-Snapshot ID: `AAAAAFa3AbnzPb++UvP/9MEH/bHvSp9r`
+Snapshot ID: `AAAAABrkn8/1oeTQGJ7u4FVmvjFOdxOZ`

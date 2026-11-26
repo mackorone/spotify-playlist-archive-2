@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX32oVqaQE8BM.md) - [plain]
 
 > The ultimate chill out playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,014,125 likes - 215 songs - 8 hr 39 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,014,152 likes - 215 songs - 8 hr 39 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -224,4 +224,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX32oVqaQE8BM.md) - [plain]
 | 214 | [The Reef](https://open.spotify.com/track/6ej1YzS7qoH2n7vzIoe1lf) | [Terra Azul](https://open.spotify.com/artist/0S8F8YxgukXxO7lcLyPqMf) | [The Reef](https://open.spotify.com/album/0vkFGfPiwHWRZaPrt2lKwi) | 2:19 |
 | 215 | [Feeling Alive](https://open.spotify.com/track/3oY0S0T5t7B6S9QDsPuNIE) | [Aneto](https://open.spotify.com/artist/2NN1Bm3UcCgDZEjXPt3ACs) | [Feeling Alive](https://open.spotify.com/album/06pYdbowEPjVDMEqldmdzN) | 2:54 |
 
-Snapshot ID: `AAAAAAIbn6a3hpt1cH8pJl9u4yBFmLT+`
+Snapshot ID: `AAAAAN1/qcxoIAazDu1ikX1xyTUjPAUb`

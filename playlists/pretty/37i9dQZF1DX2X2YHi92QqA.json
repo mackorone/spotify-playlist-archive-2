@@ -1,12 +1,12 @@
 {
   "description": "\u0421\u043f\u043e\u043a\u0456\u0439\u043d\u0430 \u043c\u0443\u0437\u0438\u043a\u0430 \u0434\u043b\u044f \u043f\u043e\u0432\u0456\u043b\u044c\u043d\u0438\u0445 \u0440\u0430\u043d\u043a\u0456\u0432 \u0456 \u0437\u0430\u0442\u0438\u0448\u043d\u0438\u0445 \u0432\u0435\u0447\u043e\u0440\u0456\u0432 \ud83c\udf41",
-  "num_followers": 40264,
+  "num_followers": 40263,
   "original_name": "\u041e\u0441\u0456\u043d\u043d\u0456\u0439 \u0440\u0435\u043b\u0430\u043a\u0441",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAABxPUNKHcVz/0wM934YS5kTbTwqo",
+  "snapshot_id": "AAAAAIxGKiPiHylG3/eHX6OHweDF1m8l",
   "tracks": [
     {
       "added_at": "2026-09-01 09:50:26",
@@ -747,6 +747,22 @@
     {
       "added_at": "2026-09-01 09:50:26",
       "album": {
+        "name": "\u041f\u0456\u0441\u043d\u0435 \u043c\u043e\u044f",
+        "url": "https://open.spotify.com/album/0M7fq94bIIlSpyZLN8R4Os"
+      },
+      "artists": [
+        {
+          "name": "Maryna Krut",
+          "url": "https://open.spotify.com/artist/1Bmaz25pIQGUjunO4d1a9Z"
+        }
+      ],
+      "duration_ms": 195859,
+      "name": "\u041f\u0456\u0441\u043d\u0435 \u043c\u043e\u044f",
+      "url": "https://open.spotify.com/track/3zglADNq7MNEUAlJfUr710"
+    },
+    {
+      "added_at": "2026-09-01 09:50:26",
+      "album": {
         "name": "\u041f\u0440\u043e \u0442\u0435\u0431\u0435, \u0437\u0432\u0456\u0441\u043d\u043e",
         "url": "https://open.spotify.com/album/4b4bnSXcYx3WyYmhZt3wco"
       },
@@ -767,18 +783,18 @@
     {
       "added_at": "2026-09-01 09:50:26",
       "album": {
-        "name": "\u041f\u0456\u0441\u043d\u0435 \u043c\u043e\u044f",
-        "url": "https://open.spotify.com/album/0M7fq94bIIlSpyZLN8R4Os"
+        "name": "\u0412\u043e\u044f\u0436",
+        "url": "https://open.spotify.com/album/4XhJmmWPWjytr2YBGYThOr"
       },
       "artists": [
         {
-          "name": "Maryna Krut",
-          "url": "https://open.spotify.com/artist/1Bmaz25pIQGUjunO4d1a9Z"
+          "name": "YARIMA",
+          "url": "https://open.spotify.com/artist/1nZ0jfkEdCujq7nFxlk9Uc"
         }
       ],
-      "duration_ms": 195859,
-      "name": "\u041f\u0456\u0441\u043d\u0435 \u043c\u043e\u044f",
-      "url": "https://open.spotify.com/track/3zglADNq7MNEUAlJfUr710"
+      "duration_ms": 136943,
+      "name": "\u0417\u043b\u043e\u0432\u0438 \u043c\u0435\u043d\u0435",
+      "url": "https://open.spotify.com/track/0NsMhvgrvPKj0gMVQcyuue"
     },
     {
       "added_at": "2026-09-01 09:50:26",
@@ -795,22 +811,6 @@
       "duration_ms": 112262,
       "name": "\u041b\u0438\u043d\u0443",
       "url": "https://open.spotify.com/track/2SyrQZYHL1Q3yZbVX5UVKc"
-    },
-    {
-      "added_at": "2026-09-01 09:50:26",
-      "album": {
-        "name": "\u0412\u043e\u044f\u0436",
-        "url": "https://open.spotify.com/album/4XhJmmWPWjytr2YBGYThOr"
-      },
-      "artists": [
-        {
-          "name": "YARIMA",
-          "url": "https://open.spotify.com/artist/1nZ0jfkEdCujq7nFxlk9Uc"
-        }
-      ],
-      "duration_ms": 136943,
-      "name": "\u0417\u043b\u043e\u0432\u0438 \u043c\u0435\u043d\u0435",
-      "url": "https://open.spotify.com/track/0NsMhvgrvPKj0gMVQcyuue"
     },
     {
       "added_at": "2026-09-01 09:50:26",
@@ -915,22 +915,6 @@
     {
       "added_at": "2026-09-01 09:50:26",
       "album": {
-        "name": "\u0422\u0418.",
-        "url": "https://open.spotify.com/album/5m4Hr1lqxhY4SmwH9tBAZd"
-      },
-      "artists": [
-        {
-          "name": "ba.latskii",
-          "url": "https://open.spotify.com/artist/7fT4gOIpKd0HOOGu8MSmWz"
-        }
-      ],
-      "duration_ms": 178777,
-      "name": "\u041e\u0441\u0442\u0430\u043d\u043d\u0456\u0439 \u0440\u0430\u0437",
-      "url": "https://open.spotify.com/track/0VmvJ7BE6iXwiFNJGF00IT"
-    },
-    {
-      "added_at": "2026-09-01 09:50:26",
-      "album": {
         "name": "\u042f\u043a \u0436\u0435 \u0442\u043e\u0431\u0456 \u0442\u0430\u043c?",
         "url": "https://open.spotify.com/album/43iMjqNTbopBrvGpvMZrBZ"
       },
@@ -943,6 +927,22 @@
       "duration_ms": 244000,
       "name": "\u042f\u043a \u0436\u0435 \u0442\u043e\u0431\u0456 \u0442\u0430\u043c?",
       "url": "https://open.spotify.com/track/5sDurqXbFYuIW4rKwkPI07"
+    },
+    {
+      "added_at": "2026-09-01 09:50:26",
+      "album": {
+        "name": "\u0422\u0418.",
+        "url": "https://open.spotify.com/album/5m4Hr1lqxhY4SmwH9tBAZd"
+      },
+      "artists": [
+        {
+          "name": "ba.latskii",
+          "url": "https://open.spotify.com/artist/7fT4gOIpKd0HOOGu8MSmWz"
+        }
+      ],
+      "duration_ms": 178777,
+      "name": "\u041e\u0441\u0442\u0430\u043d\u043d\u0456\u0439 \u0440\u0430\u0437",
+      "url": "https://open.spotify.com/track/0VmvJ7BE6iXwiFNJGF00IT"
     },
     {
       "added_at": "2026-09-01 09:50:26",
@@ -1035,18 +1035,18 @@
     {
       "added_at": "2026-09-01 09:50:26",
       "album": {
-        "name": "Can You Believe",
-        "url": "https://open.spotify.com/album/3fPslgpfNqoSGJftQapyZG"
+        "name": "\u0415\u043a\u0441\u043a\u0443\u0440\u0441\u0456\u0457 \u043f\u043e \u0433\u043e\u0440\u043e\u0434\u0443",
+        "url": "https://open.spotify.com/album/1orSqMtnDMqO5QEXN4FaVd"
       },
       "artists": [
         {
-          "name": "Norah Jones",
-          "url": "https://open.spotify.com/artist/2Kx7MNY7cI1ENniW7vT30N"
+          "name": "Artistka Chuprynenko",
+          "url": "https://open.spotify.com/artist/099tHc1nWooG9wPtUYX9Mi"
         }
       ],
-      "duration_ms": 235531,
-      "name": "Can You Believe",
-      "url": "https://open.spotify.com/track/5q3jGywKjTjrn9nDrbWWdQ"
+      "duration_ms": 258521,
+      "name": "\u0421\u0432\u0456\u0442 \u043f\u043e\u0432\u0435\u043d \u043b\u044e\u0431\u0432\u0456",
+      "url": "https://open.spotify.com/track/3WxE8ZoW9BYxfWFEVMJuGR"
     }
   ],
   "unique_name": "\u041e\u0441\u0456\u043d\u043d\u0456\u0439 \u0440\u0435\u043b\u0430\u043a\u0441",

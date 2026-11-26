@@ -4,7 +4,7 @@
 
 > Top hits 2026: best songs right now, chart hits, pop and R&amp;B hits.
 
-440 songs - 1 day 1 hr 19 min
+446 songs - 1 day 1 hr 37 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -19,6 +19,7 @@
 | [Abusadora](https://open.spotify.com/track/45ldpj8lPTTGnPYXfecLkT) | [Afd](https://open.spotify.com/artist/790m3H8XONRYeX6S5iMDgu), [Holguin MC](https://open.spotify.com/artist/3sXx92rwnOvp3KZ1omO0L3) | [Conexión](https://open.spotify.com/album/37uaRiPHReev8QYujJmpmD) | 3:09 | 2025-03-21 | 2026-04-06 |
 | [Acid Bells](https://open.spotify.com/track/5eEg8n5UedCcmMmlf5pYtE) | [Maxito](https://open.spotify.com/artist/58rz1Rxm9nSYnFzXhp34GR) | [Acid Bells](https://open.spotify.com/album/436pPFF2r9lA3EY3xoX5mW) | 2:16 | 2025-03-18 | 2026-04-06 |
 | [ADINI YOLLARA YAZDIM](https://open.spotify.com/track/7sU0ay5RWulpNoDvZcn21s) | [İstanbul Arabesque Project](https://open.spotify.com/artist/7A7y6x4Z6DZ8KuXCwfE4xg) | [ADINI YOLLARA YAZDIM](https://open.spotify.com/album/0LtplaKPDEz3iEpGb0Wzsx) | 3:37 | 2026-11-22 |  |
+| [Adjustment](https://open.spotify.com/track/78E9yX1eT9P1qV6HmD6MMJ) | [Dalem Alem](https://open.spotify.com/artist/5r8TWdzBupdZ4clc4Y9Lrp) | [Different Feelings](https://open.spotify.com/album/3LdrnCjuxy1gfQEa0U5WbZ) | 2:15 | 2026-11-25 |  |
 | [Ageless and Evergreen](https://open.spotify.com/track/53wavi3G6qo2YaTXeOInZl) | [Everton Vidal](https://open.spotify.com/artist/12ejUrQ6HgI6OEvDGG8cs9) | [Ageless and Evergreen](https://open.spotify.com/album/4EkG6nIOlVAyi5yoJqFvXy) | 3:06 | 2025-12-17 | 2026-04-06 |
 | [Aguacero \(Paisaje en Ruinas\)](https://open.spotify.com/track/2mS4dpRhbOvqCqVIvDvdmG) | [Detrapo](https://open.spotify.com/artist/3cjnl4G8EXCdyKkyfYmA60), [Sinaia](https://open.spotify.com/artist/0B1wJktoH76W0tLHB75BTG) | [Aguacero \(Paisaje en Ruinas\)](https://open.spotify.com/album/02qP2SC6wWDsDAntFBxCjJ) | 4:58 | 2025-06-15 | 2026-04-06 |
 | [AIN'T PUTTING ON NO SHOW](https://open.spotify.com/track/4Uo6ryrx9VhoVeee52ZFfF) | [Prissy Young](https://open.spotify.com/artist/6KarQ55OChQitzSyA7Q94d) | [AIN'T PUTTING ON NO SHOW](https://open.spotify.com/album/1e8oJU7lydM3x4bd3YrdBm) | 3:26 | 2026-11-17 |  |
@@ -32,6 +33,7 @@
 | [Anyways.](https://open.spotify.com/track/1Bjwe8TzraovZHPdQnZeMM) | [Melody Stalians](https://open.spotify.com/artist/0WEbtNrgWlmm9yfPGUbWp3) | [My Moon](https://open.spotify.com/album/0WVOtYopQgi0IVEPtJCwMB) | 4:30 | 2025-02-01 | 2026-06-12 |
 | [APT.](https://open.spotify.com/track/5vNRhkKd0yEAg8suGBpjeY) | [ROSÉ](https://open.spotify.com/artist/3eVa5w3URK5duf6eyVDbu9), [Bruno Mars](https://open.spotify.com/artist/0du5cEVh5yTK9QJze8zA0C) | [APT.](https://open.spotify.com/album/2IYQwwgxgOIn7t3iF6ufFD) | 2:49 | 2025-01-24 |  |
 | [Aquelarre](https://open.spotify.com/track/1zExMuBQ6zuLwoTxd3BebZ) | [Brujo Nativo](https://open.spotify.com/artist/0fAQrIC5Rz7nvbUyDV9wCX) | [La Fuerza](https://open.spotify.com/album/5emGsXnZncj5fo2kVb2DId) | 4:47 | 2025-09-13 | 2026-04-06 |
+| [ARMAAN MERA YAHI](https://open.spotify.com/track/0W8FSa7WyXPpSzvIBkNoDY) | [Avinash Kumar Raghuvanshi](https://open.spotify.com/artist/6JEaQ1Ukzoh1Hr4Z4d0YVI) | [ARMAAN MERA YAHI](https://open.spotify.com/album/50y1B4cEOCxb4oc9aSYiVH) | 5:17 | 2026-11-25 |  |
 | [Aroma](https://open.spotify.com/track/2N0aP05rGVpXqclBZLkR3P) | [Surepass](https://open.spotify.com/artist/0Uq97aadinVaT4T9xuGJiJ) | [Aroma](https://open.spotify.com/album/1oVWhSfmNE436JCCyYI3kI) | 4:14 | 2026-11-17 |  |
 | [Arrows](https://open.spotify.com/track/5K1sOGWSUF58PlUZB6CNF4) | [Nia Lexo](https://open.spotify.com/artist/50EI9fePjhBxpvEJ73tM5p) | [Arrows](https://open.spotify.com/album/76JOmk8Vnt8juY8ncSSaI6) | 3:45 | 2025-02-01 | 2026-06-12 |
 | [Arte](https://open.spotify.com/track/1xrqdFBGYq0Hw4klz8IJ6I) | [Ibarra\_G²](https://open.spotify.com/artist/1FLNaErNKKXdknTGfrSn1R), [Y$A](https://open.spotify.com/artist/19GkuYsnw6xfvhOyIbc1K5) | [Arte](https://open.spotify.com/album/11kHr79EScBRWciFuLjEdi) | 2:56 | 2025-04-20 | 2026-04-06 |
@@ -45,6 +47,7 @@
 | [Bad Dreams](https://open.spotify.com/track/3nHuKdFJZm78CoeBnDcFKe) | [Teddy Swims](https://open.spotify.com/artist/33qOK5uJ8AR2xuQQAhHump) | [Bad Dreams](https://open.spotify.com/album/2VxQFEEnhwiV5LpMuHKViR) | 3:04 | 2025-01-24 |  |
 | [Baila Conmigo](https://open.spotify.com/track/6hCBAnhlFdizKBW2s7tp8C) | [Ritmo Kingz Beats](https://open.spotify.com/artist/0vHUsehFohFNcoX6pz6pSd), [Kevin Gerz](https://open.spotify.com/artist/3xLyhsksg3H1IfENHNepQr) | [Baila Conmigo](https://open.spotify.com/album/3AWbtgmi6MHRxXFVoYe74Q) | 1:57 | 2025-03-04 | 2026-04-06 |
 | [BAILE INoLVIDABLE](https://open.spotify.com/track/2lTm559tuIvatlT1u0JYG2) | [Bad Bunny](https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X) | [DeBÍ TiRAR MáS FOToS](https://open.spotify.com/album/5K79FLRUCSysQnVESLcTdb) | 6:07 | 2025-01-24 | 2026-06-12 |
+| [Banking On Your Love](https://open.spotify.com/track/0rDyO16LUfwwS1Wn4Aau1j) | [jussjayyy](https://open.spotify.com/artist/4sRIZXF9Eh6btlZIF1yTCE) | [Until I](https://open.spotify.com/album/2FkT1sXDDeT7lZpbQhbFfH) | 2:18 | 2026-11-25 |  |
 | [Beautiful Things](https://open.spotify.com/track/6tNQ70jh4OwmPGpYy6R2o9) | [Benson Boone](https://open.spotify.com/artist/22wbnEMDvgVIAGdFeek6ET) | [Beautiful Things](https://open.spotify.com/album/29aSKB1qPEbN0Qf9OPSQpw) | 3:00 | 2025-01-24 | 2026-06-12 |
 | [Belmur](https://open.spotify.com/track/3f4UYPyfKcgPXC6Uqb8y9L) | [Junior Hodie](https://open.spotify.com/artist/6aghE4xmKWwUiM42X2BiJR) | [Estando Uno Roto](https://open.spotify.com/album/3dD5CoKuFLUiuab6Zn20pO) | 3:37 | 2025-10-29 | 2026-04-06 |
 | [Besos](https://open.spotify.com/track/7l3pxyO6xlv50Kwu1zMTqX) | [Milenaria Araucaria](https://open.spotify.com/artist/4cpRbpvq5cNL8jfpyazabF) | [Besos](https://open.spotify.com/album/3UU1XPTjjHA1rXb5eaMB40) | 4:05 | 2025-07-03 | 2026-04-06 |
@@ -109,6 +112,7 @@
 | [Die With A Smile](https://open.spotify.com/track/2plbrEY59IikOBgBGLjaoe) | [Lady Gaga](https://open.spotify.com/artist/1HY2Jd0NmPuamShAr6KMms), [Bruno Mars](https://open.spotify.com/artist/0du5cEVh5yTK9QJze8zA0C) | [Die With A Smile](https://open.spotify.com/album/10FLjwfpbxLmW8c25Xyc2N) | 4:11 | 2025-01-24 |  |
 | [Die with a Smile \- COVER](https://open.spotify.com/track/6OczjOWnmeIRbnEixThL4Q) | [Penelope Speed](https://open.spotify.com/artist/3O5x2R3xkhLebG07K8G7Li) | [Die with a Smile \(COVER\)](https://open.spotify.com/album/4Js2rUXXcU129797L2TyZF) | 4:12 | 2025-01-26 | 2026-06-12 |
 | [Diet Pepsi](https://open.spotify.com/track/6MzofobZt2dm0Kf1hTThFz) | [Addison Rae](https://open.spotify.com/artist/4gvjmrtzydbMpyJaXUtwvP) | [Diet Pepsi](https://open.spotify.com/album/0XA403JTounqFh2owquBXu) | 2:49 | 2025-01-24 | 2026-06-12 |
+| [Different Feelings](https://open.spotify.com/track/0aDcAa8pdRnFoIfVdeZSJY) | [Dalem Alem](https://open.spotify.com/artist/5r8TWdzBupdZ4clc4Y9Lrp) | [Different Feelings](https://open.spotify.com/album/3LdrnCjuxy1gfQEa0U5WbZ) | 2:37 | 2026-11-25 |  |
 | [Dime, ¿por qué?](https://open.spotify.com/track/1fiBfIOJZvdsGRJeQqGPHG) | [varezzz](https://open.spotify.com/artist/7LBMHjY7HMQrcqhshF49gj) | [Dime, ¿por qué?](https://open.spotify.com/album/4ckFbOj39hzANt7eKNHgfZ) | 2:48 | 2025-05-11 | 2026-04-06 |
 | [Dingsbums](https://open.spotify.com/track/5djlBzwk9RD1Kt28aNCnVa) | [Gigi Ferruccio](https://open.spotify.com/artist/3fikedCCBng5WYQxVJsjuk) | [Dingsbums](https://open.spotify.com/album/2RE6R9p2UPDheL3OJl0uD2) | 4:17 | 2026-11-20 |  |
 | [Do Like This](https://open.spotify.com/track/3yK33rTtd5CCpoB8e6AG5u) | [Biggest Chicago](https://open.spotify.com/artist/27zWBgBptsOMXBMMkIQ0wn) | [Sound Of Many Colors](https://open.spotify.com/album/6l5IZspkyIGzJ37Enai6xP) | 3:21 | 2026-11-22 |  |
@@ -351,6 +355,7 @@
 | [Si Antes Te Hubiera Conocido](https://open.spotify.com/track/6WatFBLVB0x077xWeoVc2k) | [KAROL G](https://open.spotify.com/artist/790FomKkXshlbRYZFtlgla) | [Si Antes Te Hubiera Conocido](https://open.spotify.com/album/5ylbxH7EqpsmHZCRuiYewS) | 3:15 | 2025-01-24 | 2026-06-12 |
 | [Sicario](https://open.spotify.com/track/1nmOKvLr70EBT3ivEm1A4g) | [DONX IAM](https://open.spotify.com/artist/5bNSWonXt1eaCCr40YAJfy) | [Sicario](https://open.spotify.com/album/3dr1qYmj6g7pN6Pvysj8Fu) | 2:55 | 2025-05-02 | 2026-04-06 |
 | [Sideral](https://open.spotify.com/track/2PMgOhMElCeSGWGd7xMl6n) | [Arudel](https://open.spotify.com/artist/331qUVsBLI4KFLknoDOt4m) | [KIBOU](https://open.spotify.com/album/2U8kyPxMXBQAIWFY4xhZl0) | 6:22 | 2025-08-14 | 2026-04-06 |
+| [Siesta](https://open.spotify.com/track/08A0l7u9gDg2bsR1OAq3E0) | [PESTO](https://open.spotify.com/artist/541LPFSazdFRmwH8h08ixh) | [Pesto](https://open.spotify.com/album/2CJ8AbWk8ymw5Mv2Lr6wHJ) | 3:30 | 2026-11-25 |  |
 | [Signal](https://open.spotify.com/track/7xYEHymB4dsZEJmKj1whhm) | [Another Concept](https://open.spotify.com/artist/0yIE6PqXFY8FS7YRdssKGM), [After Kollaps](https://open.spotify.com/artist/0qmiwvyNCscuDEAfDg0TYX), [1ØØ1](https://open.spotify.com/artist/6l5R4W3bm41mElXy4M8piI) | [Pressure](https://open.spotify.com/album/5TPOpROapN2A9cWr1FNXdZ) | 3:03 | 2026-06-13 | 2026-10-08 |
 | [Silence](https://open.spotify.com/track/22G4l622bTQvI2cXCWukEh) | [Moise](https://open.spotify.com/artist/1QMWPzIxcd1bLmuOyM6XM1) | [Silence](https://open.spotify.com/album/281QRwB2V26Emhe54lVsYg) | 3:07 | 2026-11-17 |  |
 | [Silent Walls](https://open.spotify.com/track/64DwAgNn79OTMB8eMGi5oJ) | [CTRL+BODY](https://open.spotify.com/artist/5PnjACEeJw5UzZPiKRqvsD) | [Silent Walls](https://open.spotify.com/album/0yu49WtAKOBaMcnUDshgF1) | 3:04 | 2026-06-13 | 2026-10-08 |
@@ -389,6 +394,7 @@
 | [The Way \(2017\)](https://open.spotify.com/track/6EmlNC4GsSm3asec6nJX6u) | [Pazzo](https://open.spotify.com/artist/1DDE68aTInM89DhuzkIWAR) | [The Way \(2017\)](https://open.spotify.com/album/1lbmc2m2WxtyZzp7YoyEmI) | 2:58 | 2025-01-25 | 2026-06-12 |
 | [The Weight](https://open.spotify.com/track/0CwuWOr6C9CnDT5PA0btDb) | [Delorean Time Warp](https://open.spotify.com/artist/1HXPiQIZzvALL8NEDmpOcn) | [The Weight](https://open.spotify.com/album/4CYNSB9C1me7dJWyJI6jHC) | 3:24 | 2026-11-24 |  |
 | [This Is The Fire](https://open.spotify.com/track/4KLLTA3jPpWJwOfIMoULTn) | [Adam Lytle](https://open.spotify.com/artist/6B2RySp4tzI15xq3au9Ie0) | [This Is the Fire](https://open.spotify.com/album/4sqFQ2SKwuLGAArvx3N0Qm) | 4:28 | 2025-01-26 | 2026-06-12 |
+| [This Year](https://open.spotify.com/track/2LMu07B1arHDz7BnE7KxPb) | [G henry](https://open.spotify.com/artist/5FSjZP6yEswWjw6HNqOxPy) | [This Year](https://open.spotify.com/album/6XAeNOtNzZjGfz73R6bAGR) | 2:48 | 2026-11-25 |  |
 | [Time Away](https://open.spotify.com/track/4xMXO0JY8qmv54Irn16VEF) | [Disco Dreams](https://open.spotify.com/artist/5KRlBkGzQFsekajKbhN7WX) | [Mystic Daze](https://open.spotify.com/album/2PdHmqqIYXFH8tOJdGSJLF) | 4:09 | 2025-02-01 | 2026-06-12 |
 | [TODAVIA CREO EN EL AMOR](https://open.spotify.com/track/2ieoYpTIQTG45FIANsmHu1) | [Norbiwyso](https://open.spotify.com/artist/3n92Nht0BNvgrdonVb1lF4) | [TODAVIA CREO EN EL AMOR](https://open.spotify.com/album/5fOn4GW1qIVB1OHxSDRhDs) | 4:44 | 2026-08-31 |  |
 | [Too Sweet](https://open.spotify.com/track/19XpFsce28aByvCC4g89tJ) | [Hozier](https://open.spotify.com/artist/2FXC3k01G6Gw61bmprjgqS) | [Unreal Unearth: Unaired](https://open.spotify.com/album/48qd9sU3xqYJbKaxHCciJL) | 4:11 | 2025-01-24 | 2026-06-12 |

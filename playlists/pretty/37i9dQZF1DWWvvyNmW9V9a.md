@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWvvyNmW9V9a.md) - [plain]
 
 > merry christmas everyone
 
-[Spotify](https://open.spotify.com/user/spotify) - 2,078,488 likes - 103 songs - 5 hr 27 min
+[Spotify](https://open.spotify.com/user/spotify) - 2,078,384 likes - 103 songs - 5 hr 27 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -112,4 +112,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWvvyNmW9V9a.md) - [plain]
 | 102 | [Talk](https://open.spotify.com/track/3P8mp28VUVV0YQtyAYgwRM) | [Hudson Stone](https://open.spotify.com/artist/2i8MybJZlckvB0dnB8oLFH) | [Talk](https://open.spotify.com/album/2OFhbCpaulAiQr1AxmKIMP) | 3:01 |
 | 103 | [Rein Me In \(with Olivia Dean\)](https://open.spotify.com/track/6i2ifddYVX3yKRd9DO25mj) | [Sam Fender](https://open.spotify.com/artist/6zlR5ttMfMNmwf2lecU9Cc), [Olivia Dean](https://open.spotify.com/artist/00x1fYSGhdqScXBRpSj3DW) | [Rein Me In \(with Olivia Dean\)](https://open.spotify.com/album/0Fl26odYhf5NCrVlvZP3Sc) | 5:41 |
 
-Snapshot ID: `AAAAADKvzhY+Ki0T9lYZU6tKI40fvML4`
+Snapshot ID: `AAAAAJX9gUQaOi5GJepDztJVbwqNZ/9P`

@@ -1,12 +1,12 @@
 {
   "description": "Long-shadow roots rock, folk, and Americana. Grit-worn, brooding, and  dark.",
-  "num_followers": 824946,
+  "num_followers": 824965,
   "original_name": "Southern Gothic",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAL4Q8m1jXVDtNlquXxcvqGo4d9vP",
+  "snapshot_id": "AAAAAMNCC/FByk8MvrodliIroq+kkdW1",
   "tracks": [
     {
       "added_at": "2026-11-13 00:01:01",
@@ -211,6 +211,22 @@
     {
       "added_at": "2026-11-13 00:01:01",
       "album": {
+        "name": "The Hunger Games: The Ballad of Songbirds & Snakes (Music From & Inspired By)",
+        "url": "https://open.spotify.com/album/2yHTMVFGHODKJOjVL1hLgk"
+      },
+      "artists": [
+        {
+          "name": "Rachel Zegler",
+          "url": "https://open.spotify.com/artist/1q9hWC9JAJXjXwZN9aDKW3"
+        }
+      ],
+      "duration_ms": 143988,
+      "name": "The Hanging Tree - from The Hunger Games: The Ballad of Songbirds & Snakes",
+      "url": "https://open.spotify.com/track/6X0F53XRWhmVKAaQsnuRDL"
+    },
+    {
+      "added_at": "2026-11-13 00:01:01",
+      "album": {
         "name": "Fear In God",
         "url": "https://open.spotify.com/album/0eqlCc74kIH0hnj1jK9EnX"
       },
@@ -227,22 +243,6 @@
       "duration_ms": 178666,
       "name": "Fear In God",
       "url": "https://open.spotify.com/track/4ukGwNs7VfYRsWk9bJWuf5"
-    },
-    {
-      "added_at": "2026-11-13 00:01:01",
-      "album": {
-        "name": "The Hunger Games: The Ballad of Songbirds & Snakes (Music From & Inspired By)",
-        "url": "https://open.spotify.com/album/2yHTMVFGHODKJOjVL1hLgk"
-      },
-      "artists": [
-        {
-          "name": "Rachel Zegler",
-          "url": "https://open.spotify.com/artist/1q9hWC9JAJXjXwZN9aDKW3"
-        }
-      ],
-      "duration_ms": 143988,
-      "name": "The Hanging Tree - from The Hunger Games: The Ballad of Songbirds & Snakes",
-      "url": "https://open.spotify.com/track/6X0F53XRWhmVKAaQsnuRDL"
     },
     {
       "added_at": "2026-11-13 00:01:01",
@@ -695,26 +695,6 @@
     {
       "added_at": "2026-11-13 00:01:01",
       "album": {
-        "name": "Rambling Man",
-        "url": "https://open.spotify.com/album/6leYDhpSeZgSHHSxyvfdse"
-      },
-      "artists": [
-        {
-          "name": "Johnny Flynn",
-          "url": "https://open.spotify.com/artist/1UQRtt7eHW6Bt4INNTUtb3"
-        },
-        {
-          "name": "Lillie Flynn",
-          "url": "https://open.spotify.com/artist/32vbokqejlgd5khDYNhV1Y"
-        }
-      ],
-      "duration_ms": 247666,
-      "name": "Rambling Man",
-      "url": "https://open.spotify.com/track/4pAk9Oq0IRkPVbtXyi8HmJ"
-    },
-    {
-      "added_at": "2026-11-13 00:01:01",
-      "album": {
         "name": "The Very Last Day",
         "url": "https://open.spotify.com/album/71K6pqQC9BGomxvPDQVM3T"
       },
@@ -743,6 +723,26 @@
       "duration_ms": 149426,
       "name": "Devil's Backbone",
       "url": "https://open.spotify.com/track/4qoD4IJbbir3hsAu4IowiG"
+    },
+    {
+      "added_at": "2026-11-13 00:01:01",
+      "album": {
+        "name": "Rambling Man",
+        "url": "https://open.spotify.com/album/6leYDhpSeZgSHHSxyvfdse"
+      },
+      "artists": [
+        {
+          "name": "Johnny Flynn",
+          "url": "https://open.spotify.com/artist/1UQRtt7eHW6Bt4INNTUtb3"
+        },
+        {
+          "name": "Lillie Flynn",
+          "url": "https://open.spotify.com/artist/32vbokqejlgd5khDYNhV1Y"
+        }
+      ],
+      "duration_ms": 247666,
+      "name": "Rambling Man",
+      "url": "https://open.spotify.com/track/4pAk9Oq0IRkPVbtXyi8HmJ"
     },
     {
       "added_at": "2026-11-13 00:01:01",
@@ -843,22 +843,6 @@
     {
       "added_at": "2026-11-13 00:01:01",
       "album": {
-        "name": "Sling and Stone",
-        "url": "https://open.spotify.com/album/3LbKa4s282oUZg7TgZW0xk"
-      },
-      "artists": [
-        {
-          "name": "Jess Woodland",
-          "url": "https://open.spotify.com/artist/20IXA7HkfD8CccYusWwEsq"
-        }
-      ],
-      "duration_ms": 194982,
-      "name": "Sling and Stone",
-      "url": "https://open.spotify.com/track/0iDxbQIExTjJqXBLzXP8ow"
-    },
-    {
-      "added_at": "2026-11-13 00:01:01",
-      "album": {
         "name": "Salt For Salt",
         "url": "https://open.spotify.com/album/0SVsGgGApRYVXP466ywwsC"
       },
@@ -871,6 +855,22 @@
       "duration_ms": 198132,
       "name": "Chairkickers",
       "url": "https://open.spotify.com/track/0O0T1NHzuTa12tNZ1hZ7db"
+    },
+    {
+      "added_at": "2026-11-13 00:01:01",
+      "album": {
+        "name": "Sling and Stone",
+        "url": "https://open.spotify.com/album/3LbKa4s282oUZg7TgZW0xk"
+      },
+      "artists": [
+        {
+          "name": "Jess Woodland",
+          "url": "https://open.spotify.com/artist/20IXA7HkfD8CccYusWwEsq"
+        }
+      ],
+      "duration_ms": 194982,
+      "name": "Sling and Stone",
+      "url": "https://open.spotify.com/track/0iDxbQIExTjJqXBLzXP8ow"
     },
     {
       "added_at": "2026-11-13 00:01:01",
@@ -1087,22 +1087,6 @@
     {
       "added_at": "2026-11-13 00:01:01",
       "album": {
-        "name": "Bless Your Soul",
-        "url": "https://open.spotify.com/album/72ikagjWsSJebCaqohnrHB"
-      },
-      "artists": [
-        {
-          "name": "The Bones of J.R. Jones",
-          "url": "https://open.spotify.com/artist/7sMcWECQxLm7EoKdRlSCAn"
-        }
-      ],
-      "duration_ms": 212504,
-      "name": "Bless Your Soul",
-      "url": "https://open.spotify.com/track/6SP4CyAK8qbdajsmzYQm9g"
-    },
-    {
-      "added_at": "2026-11-13 00:01:01",
-      "album": {
         "name": "Look Homeward",
         "url": "https://open.spotify.com/album/563YScqSxw5TPbx5pYZbXt"
       },
@@ -1115,6 +1099,22 @@
       "duration_ms": 173346,
       "name": "Sister Death",
       "url": "https://open.spotify.com/track/5ZIlSYLOLplrFVRdtSXAxH"
+    },
+    {
+      "added_at": "2026-11-13 00:01:01",
+      "album": {
+        "name": "Bless Your Soul",
+        "url": "https://open.spotify.com/album/72ikagjWsSJebCaqohnrHB"
+      },
+      "artists": [
+        {
+          "name": "The Bones of J.R. Jones",
+          "url": "https://open.spotify.com/artist/7sMcWECQxLm7EoKdRlSCAn"
+        }
+      ],
+      "duration_ms": 212504,
+      "name": "Bless Your Soul",
+      "url": "https://open.spotify.com/track/6SP4CyAK8qbdajsmzYQm9g"
     },
     {
       "added_at": "2026-11-13 00:01:01",
@@ -1199,22 +1199,6 @@
     {
       "added_at": "2026-11-13 00:01:01",
       "album": {
-        "name": "Reckoning",
-        "url": "https://open.spotify.com/album/2fwzpGgUamzs0JvTNQtA9u"
-      },
-      "artists": [
-        {
-          "name": "Mary Gauthier",
-          "url": "https://open.spotify.com/artist/4SK1IgkcWWc5HC1TOBq1VS"
-        }
-      ],
-      "duration_ms": 187966,
-      "name": "Judgement Day",
-      "url": "https://open.spotify.com/track/09p0mCc89zi4lqvil3uW1Z"
-    },
-    {
-      "added_at": "2026-11-13 00:01:01",
-      "album": {
         "name": "Tin Type",
         "url": "https://open.spotify.com/album/1dA2zNQJAgjd7ZO06wZqiu"
       },
@@ -1227,6 +1211,22 @@
       "duration_ms": 194493,
       "name": "Cadillac Dust",
       "url": "https://open.spotify.com/track/6EqH6OTtC3KMxRsU2OGF9A"
+    },
+    {
+      "added_at": "2026-11-13 00:01:01",
+      "album": {
+        "name": "Reckoning",
+        "url": "https://open.spotify.com/album/2fwzpGgUamzs0JvTNQtA9u"
+      },
+      "artists": [
+        {
+          "name": "Mary Gauthier",
+          "url": "https://open.spotify.com/artist/4SK1IgkcWWc5HC1TOBq1VS"
+        }
+      ],
+      "duration_ms": 187966,
+      "name": "Judgement Day",
+      "url": "https://open.spotify.com/track/09p0mCc89zi4lqvil3uW1Z"
     },
     {
       "added_at": "2026-11-13 00:01:01",
@@ -1567,22 +1567,6 @@
     {
       "added_at": "2026-11-13 00:01:01",
       "album": {
-        "name": "All At Once",
-        "url": "https://open.spotify.com/album/0fhD46AUdmjSYUCRqK6dvQ"
-      },
-      "artists": [
-        {
-          "name": "Kyle Brew",
-          "url": "https://open.spotify.com/artist/4N25oCcl4blSyXlM7Ee99x"
-        }
-      ],
-      "duration_ms": 252580,
-      "name": "All At Once",
-      "url": "https://open.spotify.com/track/74gSpIrkHzp0KmlvYzrm5M"
-    },
-    {
-      "added_at": "2026-11-13 00:01:01",
-      "album": {
         "name": "Nine Pin",
         "url": "https://open.spotify.com/album/5L8YBDqmTSCUoXrRcEwaMG"
       },
@@ -1599,18 +1583,18 @@
     {
       "added_at": "2026-11-13 00:01:01",
       "album": {
-        "name": "Gravity Well",
-        "url": "https://open.spotify.com/album/4x3oQDSVcs6pZCooX5p9DB"
+        "name": "All At Once",
+        "url": "https://open.spotify.com/album/0fhD46AUdmjSYUCRqK6dvQ"
       },
       "artists": [
         {
-          "name": "Rose's Pawn Shop",
-          "url": "https://open.spotify.com/artist/1LJtIL5oefyNjM2r2FomZ3"
+          "name": "Kyle Brew",
+          "url": "https://open.spotify.com/artist/4N25oCcl4blSyXlM7Ee99x"
         }
       ],
-      "duration_ms": 203546,
-      "name": "Country Blues",
-      "url": "https://open.spotify.com/track/4902sigaZA0IflQ6FdWmtk"
+      "duration_ms": 252580,
+      "name": "All At Once",
+      "url": "https://open.spotify.com/track/74gSpIrkHzp0KmlvYzrm5M"
     },
     {
       "added_at": "2026-11-13 00:01:01",
@@ -1627,6 +1611,22 @@
       "duration_ms": 241225,
       "name": "Elizabeth",
       "url": "https://open.spotify.com/track/2j8wfpQL2zw7oTSVU9kQT9"
+    },
+    {
+      "added_at": "2026-11-13 00:01:01",
+      "album": {
+        "name": "Gravity Well",
+        "url": "https://open.spotify.com/album/4x3oQDSVcs6pZCooX5p9DB"
+      },
+      "artists": [
+        {
+          "name": "Rose's Pawn Shop",
+          "url": "https://open.spotify.com/artist/1LJtIL5oefyNjM2r2FomZ3"
+        }
+      ],
+      "duration_ms": 203546,
+      "name": "Country Blues",
+      "url": "https://open.spotify.com/track/4902sigaZA0IflQ6FdWmtk"
     },
     {
       "added_at": "2026-11-13 00:01:01",

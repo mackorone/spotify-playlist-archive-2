@@ -1,12 +1,12 @@
 {
   "description": "You don't have to be King David to own the dance floor, just play the best Christian electronic and dance music out now. \ud83e\udea9\ud83d\udd7a\ud83c\udffd",
-  "num_followers": 242112,
+  "num_followers": 242144,
   "original_name": "Christian Dance",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAOoUO1u2YKgbpl7lG++1CMor+iUM",
+  "snapshot_id": "AAAAAKsXuyRGx6qj3uQugJBBq8sIiDSz",
   "tracks": [
     {
       "added_at": "2026-10-30 04:00:37",
@@ -827,22 +827,6 @@
     {
       "added_at": "2026-10-30 04:00:37",
       "album": {
-        "name": "Revolution",
-        "url": "https://open.spotify.com/album/6AadNEcPtZv0QIJWMPc6tE"
-      },
-      "artists": [
-        {
-          "name": "JIMMY ROCK",
-          "url": "https://open.spotify.com/artist/6YN7TGi4ZlsAy38fZVPvkN"
-        }
-      ],
-      "duration_ms": 160000,
-      "name": "Revolution",
-      "url": "https://open.spotify.com/track/5gXXCepyoJsaP1smiEYVZc"
-    },
-    {
-      "added_at": "2026-10-30 04:00:37",
-      "album": {
         "name": "crown",
         "url": "https://open.spotify.com/album/25Gl0AEBTyVcLQsTaoQ6rP"
       },
@@ -855,6 +839,22 @@
       "duration_ms": 203500,
       "name": "crown",
       "url": "https://open.spotify.com/track/0kMKX9UfFMvZLC9jW6Zt9d"
+    },
+    {
+      "added_at": "2026-10-30 04:00:37",
+      "album": {
+        "name": "Revolution",
+        "url": "https://open.spotify.com/album/6AadNEcPtZv0QIJWMPc6tE"
+      },
+      "artists": [
+        {
+          "name": "JIMMY ROCK",
+          "url": "https://open.spotify.com/artist/6YN7TGi4ZlsAy38fZVPvkN"
+        }
+      ],
+      "duration_ms": 160000,
+      "name": "Revolution",
+      "url": "https://open.spotify.com/track/5gXXCepyoJsaP1smiEYVZc"
     },
     {
       "added_at": "2026-10-30 04:00:37",
@@ -1155,22 +1155,6 @@
     {
       "added_at": "2026-10-30 04:00:37",
       "album": {
-        "name": "Better Than My Life (Son Remix)",
-        "url": "https://open.spotify.com/album/6UUULf4mWFQUBkL1zx4HQC"
-      },
-      "artists": [
-        {
-          "name": "Sarah Juers",
-          "url": "https://open.spotify.com/artist/39mgk0y3gWDfKqHTAcc2LG"
-        }
-      ],
-      "duration_ms": 194388,
-      "name": "Better Than My Life - Son Remix",
-      "url": "https://open.spotify.com/track/2gVpnFafalanRH37ZttZSt"
-    },
-    {
-      "added_at": "2026-10-30 04:00:37",
-      "album": {
         "name": "All Yours",
         "url": "https://open.spotify.com/album/2TWc9Cf3k6VV7s8wGOjXhk"
       },
@@ -1183,6 +1167,22 @@
       "duration_ms": 255848,
       "name": "The Jungle",
       "url": "https://open.spotify.com/track/62LLuyUL4OGGGxdq97ZZV1"
+    },
+    {
+      "added_at": "2026-10-30 04:00:37",
+      "album": {
+        "name": "Better Than My Life (Son Remix)",
+        "url": "https://open.spotify.com/album/6UUULf4mWFQUBkL1zx4HQC"
+      },
+      "artists": [
+        {
+          "name": "Sarah Juers",
+          "url": "https://open.spotify.com/artist/39mgk0y3gWDfKqHTAcc2LG"
+        }
+      ],
+      "duration_ms": 194388,
+      "name": "Better Than My Life - Son Remix",
+      "url": "https://open.spotify.com/track/2gVpnFafalanRH37ZttZSt"
     },
     {
       "added_at": "2026-10-30 04:00:37",
@@ -1411,6 +1411,26 @@
     {
       "added_at": "2026-10-30 04:00:37",
       "album": {
+        "name": "Save Me (Illingworth Remix)",
+        "url": "https://open.spotify.com/album/2sQfKLbAINkecLodd0ixrY"
+      },
+      "artists": [
+        {
+          "name": "Liz Vice",
+          "url": "https://open.spotify.com/artist/5KYcfVCcUgV4d1KP3Wozyx"
+        },
+        {
+          "name": "Illingworth",
+          "url": "https://open.spotify.com/artist/4xXLZBKSGXTCOuQGEzGPRQ"
+        }
+      ],
+      "duration_ms": 220952,
+      "name": "Save Me (Illingworth Remix)",
+      "url": "https://open.spotify.com/track/2Z30tqgcOPEw4aDQ5tGGjt"
+    },
+    {
+      "added_at": "2026-10-30 04:00:37",
+      "album": {
         "name": "Energy (EchoStorms Remix)",
         "url": "https://open.spotify.com/album/1kRddLhejNCrVFcpci3UsX"
       },
@@ -1427,6 +1447,22 @@
       "duration_ms": 173333,
       "name": "Energy - EchoStorms Remix",
       "url": "https://open.spotify.com/track/6GhjGsYPSglelleu3kIFmt"
+    },
+    {
+      "added_at": "2026-10-30 04:00:37",
+      "album": {
+        "name": "Looking For Happiness",
+        "url": "https://open.spotify.com/album/6iBRlkDgkwWeVykaZvYFwp"
+      },
+      "artists": [
+        {
+          "name": "DJ Marcos Andre",
+          "url": "https://open.spotify.com/artist/65e0Jrglrzx2wsS0HQ6b61"
+        }
+      ],
+      "duration_ms": 143997,
+      "name": "Looking For Happiness",
+      "url": "https://open.spotify.com/track/7fktLtouR8Cf3ubsT9qJ8O"
     },
     {
       "added_at": "2026-10-30 04:00:37",
@@ -1451,38 +1487,18 @@
     {
       "added_at": "2026-10-30 04:00:37",
       "album": {
-        "name": "Save Me (Illingworth Remix)",
-        "url": "https://open.spotify.com/album/2sQfKLbAINkecLodd0ixrY"
+        "name": "Vulnerable",
+        "url": "https://open.spotify.com/album/2RReq92Q3hwhXgVDlqC2Hy"
       },
       "artists": [
         {
-          "name": "Liz Vice",
-          "url": "https://open.spotify.com/artist/5KYcfVCcUgV4d1KP3Wozyx"
-        },
-        {
-          "name": "Illingworth",
-          "url": "https://open.spotify.com/artist/4xXLZBKSGXTCOuQGEzGPRQ"
+          "name": "Petrina DeLacey",
+          "url": "https://open.spotify.com/artist/00iDXs6D2a9UZCtqnDMGnY"
         }
       ],
-      "duration_ms": 220952,
-      "name": "Save Me (Illingworth Remix)",
-      "url": "https://open.spotify.com/track/2Z30tqgcOPEw4aDQ5tGGjt"
-    },
-    {
-      "added_at": "2026-10-30 04:00:37",
-      "album": {
-        "name": "Looking For Happiness",
-        "url": "https://open.spotify.com/album/6iBRlkDgkwWeVykaZvYFwp"
-      },
-      "artists": [
-        {
-          "name": "DJ Marcos Andre",
-          "url": "https://open.spotify.com/artist/65e0Jrglrzx2wsS0HQ6b61"
-        }
-      ],
-      "duration_ms": 143997,
-      "name": "Looking For Happiness",
-      "url": "https://open.spotify.com/track/7fktLtouR8Cf3ubsT9qJ8O"
+      "duration_ms": 174240,
+      "name": "Vulnerable",
+      "url": "https://open.spotify.com/track/5VQuS2pZRBeF3oPFdHxeWx"
     },
     {
       "added_at": "2026-10-30 04:00:37",
@@ -1507,22 +1523,6 @@
       "duration_ms": 193208,
       "name": "You Love Me",
       "url": "https://open.spotify.com/track/5CN6apmJuMUUKbdc4zKyRC"
-    },
-    {
-      "added_at": "2026-10-30 04:00:37",
-      "album": {
-        "name": "Vulnerable",
-        "url": "https://open.spotify.com/album/2RReq92Q3hwhXgVDlqC2Hy"
-      },
-      "artists": [
-        {
-          "name": "Petrina DeLacey",
-          "url": "https://open.spotify.com/artist/00iDXs6D2a9UZCtqnDMGnY"
-        }
-      ],
-      "duration_ms": 174240,
-      "name": "Vulnerable",
-      "url": "https://open.spotify.com/track/5VQuS2pZRBeF3oPFdHxeWx"
     },
     {
       "added_at": "2026-10-30 04:00:37",
@@ -1647,6 +1647,26 @@
     {
       "added_at": "2026-10-30 04:00:37",
       "album": {
+        "name": "Medicine",
+        "url": "https://open.spotify.com/album/1N1WyvdhOBKsKgqwPGBMRk"
+      },
+      "artists": [
+        {
+          "name": "Civilized Creature",
+          "url": "https://open.spotify.com/artist/3EVrJVoKTnzDkXhjtHC907"
+        },
+        {
+          "name": "Christian Singleton",
+          "url": "https://open.spotify.com/artist/5KGTTFuyg5XfMMep5hTokE"
+        }
+      ],
+      "duration_ms": 178764,
+      "name": "Medicine",
+      "url": "https://open.spotify.com/track/55kS26xTTdBhQyMVbIlOHW"
+    },
+    {
+      "added_at": "2026-10-30 04:00:37",
+      "album": {
         "name": "Better Off (Ok Evan Remix)",
         "url": "https://open.spotify.com/album/0b9m6JPv4MEJGMoeis9TDA"
       },
@@ -1679,26 +1699,6 @@
       "duration_ms": 187086,
       "name": "FOREVER",
       "url": "https://open.spotify.com/track/4513QEtGKMQ2OYnJEa1jlG"
-    },
-    {
-      "added_at": "2026-10-30 04:00:37",
-      "album": {
-        "name": "Medicine",
-        "url": "https://open.spotify.com/album/1N1WyvdhOBKsKgqwPGBMRk"
-      },
-      "artists": [
-        {
-          "name": "Civilized Creature",
-          "url": "https://open.spotify.com/artist/3EVrJVoKTnzDkXhjtHC907"
-        },
-        {
-          "name": "Christian Singleton",
-          "url": "https://open.spotify.com/artist/5KGTTFuyg5XfMMep5hTokE"
-        }
-      ],
-      "duration_ms": 178764,
-      "name": "Medicine",
-      "url": "https://open.spotify.com/track/55kS26xTTdBhQyMVbIlOHW"
     },
     {
       "added_at": "2026-10-30 04:00:37",
@@ -1751,26 +1751,6 @@
     {
       "added_at": "2026-10-30 04:00:37",
       "album": {
-        "name": "Reign Jesus (House Remix)",
-        "url": "https://open.spotify.com/album/1xQmnnZQkAzGyA5raWp1nG"
-      },
-      "artists": [
-        {
-          "name": "Shekinah Glory Ministry",
-          "url": "https://open.spotify.com/artist/50DI0MpQBOtBO0PFtKVQRx"
-        },
-        {
-          "name": "Maurice Joshua",
-          "url": "https://open.spotify.com/artist/19T6vS2Umo5usI9wOVnKMd"
-        }
-      ],
-      "duration_ms": 405691,
-      "name": "Reign Jesus - House Remix",
-      "url": "https://open.spotify.com/track/07abs0pHSV6oAx6Bzow4vG"
-    },
-    {
-      "added_at": "2026-10-30 04:00:37",
-      "album": {
         "name": "Praise His Holy Name (House Remix)",
         "url": "https://open.spotify.com/album/0dDoWCItCHVkXts89g2QOf"
       },
@@ -1787,6 +1767,26 @@
       "duration_ms": 245118,
       "name": "Praise His Holy Name - House Remix",
       "url": "https://open.spotify.com/track/6jnlYWmuU2c3jvN0J0bIZV"
+    },
+    {
+      "added_at": "2026-10-30 04:00:37",
+      "album": {
+        "name": "Reign Jesus (House Remix)",
+        "url": "https://open.spotify.com/album/1xQmnnZQkAzGyA5raWp1nG"
+      },
+      "artists": [
+        {
+          "name": "Shekinah Glory Ministry",
+          "url": "https://open.spotify.com/artist/50DI0MpQBOtBO0PFtKVQRx"
+        },
+        {
+          "name": "Maurice Joshua",
+          "url": "https://open.spotify.com/artist/19T6vS2Umo5usI9wOVnKMd"
+        }
+      ],
+      "duration_ms": 405691,
+      "name": "Reign Jesus - House Remix",
+      "url": "https://open.spotify.com/track/07abs0pHSV6oAx6Bzow4vG"
     },
     {
       "added_at": "2026-10-30 04:00:37",
@@ -1867,22 +1867,6 @@
     {
       "added_at": "2026-10-30 04:00:37",
       "album": {
-        "name": "SO GOOD !!!",
-        "url": "https://open.spotify.com/album/38Wte6dKVNhHlyFzV6C9Ds"
-      },
-      "artists": [
-        {
-          "name": "Poetics",
-          "url": "https://open.spotify.com/artist/6sdgbah9YMIS5jSYdyzpBP"
-        }
-      ],
-      "duration_ms": 120700,
-      "name": "SO GOOD !!!",
-      "url": "https://open.spotify.com/track/0RXUiNQgDTs6KnXCxb7H27"
-    },
-    {
-      "added_at": "2026-10-30 04:00:37",
-      "album": {
         "name": "Floating (okay.benny Remix)",
         "url": "https://open.spotify.com/album/2QZFMjox9FivLNCWd2UNPU"
       },
@@ -1899,6 +1883,22 @@
       "duration_ms": 155520,
       "name": "Floating - okay.benny Remix",
       "url": "https://open.spotify.com/track/42PHDdVG0qVnps1nORAEYq"
+    },
+    {
+      "added_at": "2026-10-30 04:00:37",
+      "album": {
+        "name": "SO GOOD !!!",
+        "url": "https://open.spotify.com/album/38Wte6dKVNhHlyFzV6C9Ds"
+      },
+      "artists": [
+        {
+          "name": "Poetics",
+          "url": "https://open.spotify.com/artist/6sdgbah9YMIS5jSYdyzpBP"
+        }
+      ],
+      "duration_ms": 120700,
+      "name": "SO GOOD !!!",
+      "url": "https://open.spotify.com/track/0RXUiNQgDTs6KnXCxb7H27"
     },
     {
       "added_at": "2026-10-30 04:00:37",

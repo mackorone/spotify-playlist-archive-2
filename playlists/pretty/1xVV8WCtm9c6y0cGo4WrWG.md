@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/1xVV8WCtm9c6y0cGo4WrWG.md) - [plain]
 
 > The newest and best Hip\-Hop updated weekly! Cover: Lil Baby
 
-[uDiscover Canada](https://open.spotify.com/user/digsterca) - 22,760 likes - 85 songs - 4 hr 11 min
+[uDiscover Canada](https://open.spotify.com/user/digsterca) - 22,759 likes - 85 songs - 4 hr 11 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

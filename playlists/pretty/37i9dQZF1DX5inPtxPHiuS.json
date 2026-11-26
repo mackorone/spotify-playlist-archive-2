@@ -6,7 +6,7 @@
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAMrW4MmClbvRA/Zc05JPC14zsGgD",
+  "snapshot_id": "AAAAACqAY9Pvbld7uGf5BkDGHta4DDIq",
   "tracks": [
     {
       "added_at": "2026-10-16 05:01:29",
@@ -607,22 +607,6 @@
     {
       "added_at": "2026-10-16 05:01:29",
       "album": {
-        "name": "Nube Gris",
-        "url": "https://open.spotify.com/album/7jb3VnmnKW2sqFArnvtUdu"
-      },
-      "artists": [
-        {
-          "name": "Armenia",
-          "url": "https://open.spotify.com/artist/4FmrAtWfKHAIysakSpmatx"
-        }
-      ],
-      "duration_ms": 237360,
-      "name": "Nube Gris",
-      "url": "https://open.spotify.com/track/0wbpgy75oAEP13Huibdiwn"
-    },
-    {
-      "added_at": "2026-10-16 05:01:29",
-      "album": {
         "name": "Campesino",
         "url": "https://open.spotify.com/album/1dr8WuOYOeGk27RgnXImXQ"
       },
@@ -635,6 +619,22 @@
       "duration_ms": 278724,
       "name": "Campesino",
       "url": "https://open.spotify.com/track/16NjxeQhuY5wQ8xl3gTZXt"
+    },
+    {
+      "added_at": "2026-10-16 05:01:29",
+      "album": {
+        "name": "Nube Gris",
+        "url": "https://open.spotify.com/album/7jb3VnmnKW2sqFArnvtUdu"
+      },
+      "artists": [
+        {
+          "name": "Armenia",
+          "url": "https://open.spotify.com/artist/4FmrAtWfKHAIysakSpmatx"
+        }
+      ],
+      "duration_ms": 237360,
+      "name": "Nube Gris",
+      "url": "https://open.spotify.com/track/0wbpgy75oAEP13Huibdiwn"
     },
     {
       "added_at": "2026-10-16 05:01:29",
@@ -775,22 +775,6 @@
     {
       "added_at": "2026-10-16 05:01:29",
       "album": {
-        "name": "Antes de Que Sea Muy Tarde",
-        "url": "https://open.spotify.com/album/6FFIXNpWmBGwZijE6A9lNe"
-      },
-      "artists": [
-        {
-          "name": "Sismo",
-          "url": "https://open.spotify.com/artist/3KMQT3nOebFOgoE3p35zVq"
-        }
-      ],
-      "duration_ms": 192787,
-      "name": "Antes de Que Sea Muy Tarde",
-      "url": "https://open.spotify.com/track/5bIuihsCdiDMA6MmlGFgre"
-    },
-    {
-      "added_at": "2026-10-16 05:01:29",
-      "album": {
         "name": "Prende",
         "url": "https://open.spotify.com/album/4yoIFrJyYMVB78v2oVYzHG"
       },
@@ -803,6 +787,22 @@
       "duration_ms": 197886,
       "name": "Prende",
       "url": "https://open.spotify.com/track/1MkRoo0Vr7Ol8BMQ6bMbGs"
+    },
+    {
+      "added_at": "2026-10-16 05:01:29",
+      "album": {
+        "name": "Antes de Que Sea Muy Tarde",
+        "url": "https://open.spotify.com/album/6FFIXNpWmBGwZijE6A9lNe"
+      },
+      "artists": [
+        {
+          "name": "Sismo",
+          "url": "https://open.spotify.com/artist/3KMQT3nOebFOgoE3p35zVq"
+        }
+      ],
+      "duration_ms": 192787,
+      "name": "Antes de Que Sea Muy Tarde",
+      "url": "https://open.spotify.com/track/5bIuihsCdiDMA6MmlGFgre"
     },
     {
       "added_at": "2026-10-16 05:01:29",
@@ -823,18 +823,18 @@
     {
       "added_at": "2026-10-16 05:01:29",
       "album": {
-        "name": "El Silencio",
-        "url": "https://open.spotify.com/album/7oMs3PmmJsccmhFWImH8wE"
+        "name": "Solo t\u00fa",
+        "url": "https://open.spotify.com/album/4x11yXJ8tg1D9tnY2DII65"
       },
       "artists": [
         {
-          "name": "Encarta 98",
-          "url": "https://open.spotify.com/artist/28Am1s75o5KAGaAwCQ22mv"
+          "name": "APOLO 7",
+          "url": "https://open.spotify.com/artist/322BLVw40Mq2hWHxGLykr6"
         }
       ],
-      "duration_ms": 340017,
-      "name": "El Silencio",
-      "url": "https://open.spotify.com/track/1C6NglWjiovt1lUrITZEIo"
+      "duration_ms": 247392,
+      "name": "Solo t\u00fa",
+      "url": "https://open.spotify.com/track/5WyavosRBdYVkapSLgqGC4"
     },
     {
       "added_at": "2026-10-16 05:01:29",
@@ -855,18 +855,18 @@
     {
       "added_at": "2026-10-16 05:01:29",
       "album": {
-        "name": "Solo t\u00fa",
-        "url": "https://open.spotify.com/album/4x11yXJ8tg1D9tnY2DII65"
+        "name": "El Silencio",
+        "url": "https://open.spotify.com/album/7oMs3PmmJsccmhFWImH8wE"
       },
       "artists": [
         {
-          "name": "APOLO 7",
-          "url": "https://open.spotify.com/artist/322BLVw40Mq2hWHxGLykr6"
+          "name": "Encarta 98",
+          "url": "https://open.spotify.com/artist/28Am1s75o5KAGaAwCQ22mv"
         }
       ],
-      "duration_ms": 247392,
-      "name": "Solo t\u00fa",
-      "url": "https://open.spotify.com/track/5WyavosRBdYVkapSLgqGC4"
+      "duration_ms": 340017,
+      "name": "El Silencio",
+      "url": "https://open.spotify.com/track/1C6NglWjiovt1lUrITZEIo"
     },
     {
       "added_at": "2026-10-16 05:01:29",
@@ -903,22 +903,6 @@
     {
       "added_at": "2026-10-16 05:01:29",
       "album": {
-        "name": "Diciembre",
-        "url": "https://open.spotify.com/album/2CaTs90sNVNUxcNhVDfjzt"
-      },
-      "artists": [
-        {
-          "name": "Encarta 98",
-          "url": "https://open.spotify.com/artist/28Am1s75o5KAGaAwCQ22mv"
-        }
-      ],
-      "duration_ms": 278453,
-      "name": "Diciembre",
-      "url": "https://open.spotify.com/track/0HWHBcKEk8aT82oHLUJ1IE"
-    },
-    {
-      "added_at": "2026-10-16 05:01:29",
-      "album": {
         "name": "Todo Se Olvida",
         "url": "https://open.spotify.com/album/7IiH1HtllaGle5PNAgZDOU"
       },
@@ -951,8 +935,24 @@
     {
       "added_at": "2026-10-16 05:01:29",
       "album": {
-        "name": "Arrebato",
-        "url": "https://open.spotify.com/album/63IQQKH4HLbfLb873peXcR"
+        "name": "Diciembre",
+        "url": "https://open.spotify.com/album/2CaTs90sNVNUxcNhVDfjzt"
+      },
+      "artists": [
+        {
+          "name": "Encarta 98",
+          "url": "https://open.spotify.com/artist/28Am1s75o5KAGaAwCQ22mv"
+        }
+      ],
+      "duration_ms": 278453,
+      "name": "Diciembre",
+      "url": "https://open.spotify.com/track/0HWHBcKEk8aT82oHLUJ1IE"
+    },
+    {
+      "added_at": "2026-10-16 05:01:29",
+      "album": {
+        "name": "Madre Tierra",
+        "url": "https://open.spotify.com/album/6hfC8pQP0TYzJD9xd9EKSF"
       },
       "artists": [
         {
@@ -960,13 +960,13 @@
           "url": "https://open.spotify.com/artist/76ZpJJKxWFJyKOJzQXVWbk"
         },
         {
-          "name": "Radio Paila",
-          "url": "https://open.spotify.com/artist/47HKESnnseYRf0JaHZR3E1"
+          "name": "Sebasti\u00e1n Panesso",
+          "url": "https://open.spotify.com/artist/7klsfmubwzRluxsG4nRUyf"
         }
       ],
-      "duration_ms": 242000,
-      "name": "Arrebato",
-      "url": "https://open.spotify.com/track/5TyVM2yYYzCZDx2PATr216"
+      "duration_ms": 212660,
+      "name": "Madre Tierra",
+      "url": "https://open.spotify.com/track/1Nm64MdvvkfjwIntgflE17"
     },
     {
       "added_at": "2026-10-16 05:01:29",

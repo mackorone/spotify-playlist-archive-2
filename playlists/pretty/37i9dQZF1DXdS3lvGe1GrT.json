@@ -1,13 +1,29 @@
 {
   "description": "Fresh folk and roots music from independent artists every Wednesday! Cover: Star Moles",
-  "num_followers": 112330,
+  "num_followers": 112467,
   "original_name": "Fresh Finds Folk",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAPUwFSD6vIfojP6AgZoA75Qztr3K",
+  "snapshot_id": "AAAAAIKkMet8jvoGCNIfsDKl5Eebuarx",
   "tracks": [
+    {
+      "added_at": "2026-11-25 17:00:19",
+      "album": {
+        "name": "SOMETIMES I'M A STORM",
+        "url": "https://open.spotify.com/album/3cLcEl73gPyyWVBMFLWM3y"
+      },
+      "artists": [
+        {
+          "name": "Meiwei",
+          "url": "https://open.spotify.com/artist/3SzVnnKq27j88F2XBbF2WJ"
+        }
+      ],
+      "duration_ms": 207103,
+      "name": "One Track Mind",
+      "url": "https://open.spotify.com/track/7vrUX9X4kSCHWWQTHzpTXz"
+    },
     {
       "added_at": "2026-11-18 17:24:40",
       "album": {
@@ -25,6 +41,38 @@
       "url": "https://open.spotify.com/track/0gYBUI45WfFAZb1G84LWtX"
     },
     {
+      "added_at": "2026-11-25 17:00:19",
+      "album": {
+        "name": "Rockstar",
+        "url": "https://open.spotify.com/album/1MA32hbzAwq74luWckcPDs"
+      },
+      "artists": [
+        {
+          "name": "Hannah Hill",
+          "url": "https://open.spotify.com/artist/2YXwzQWYyLiFYx6VA0e0WR"
+        }
+      ],
+      "duration_ms": 204257,
+      "name": "Rockstar",
+      "url": "https://open.spotify.com/track/3KAupxPNje3nKAA5kSvovD"
+    },
+    {
+      "added_at": "2026-11-25 17:00:19",
+      "album": {
+        "name": "Lichen",
+        "url": "https://open.spotify.com/album/4ydR5etG56QUElRGZagov3"
+      },
+      "artists": [
+        {
+          "name": "Thomas Flynn",
+          "url": "https://open.spotify.com/artist/74cT8MAv0JwkUku9MKJtZj"
+        }
+      ],
+      "duration_ms": 211412,
+      "name": "Tree Host",
+      "url": "https://open.spotify.com/track/4wBoZ1v3I9iNSz0XRLwDit"
+    },
+    {
       "added_at": "2026-11-18 17:24:40",
       "album": {
         "name": "4 Billion Live Friendly Bacteria",
@@ -39,6 +87,22 @@
       "duration_ms": 216136,
       "name": "Nilo",
       "url": "https://open.spotify.com/track/4GqH5PszRupLjulsiDClMt"
+    },
+    {
+      "added_at": "2026-11-25 17:00:19",
+      "album": {
+        "name": "PP2",
+        "url": "https://open.spotify.com/album/49uUE92ivjqatCi9qqKCi6"
+      },
+      "artists": [
+        {
+          "name": "Jeanne River",
+          "url": "https://open.spotify.com/artist/7bSt0HR6rkD5vs8PjeCQ58"
+        }
+      ],
+      "duration_ms": 233970,
+      "name": "PP2",
+      "url": "https://open.spotify.com/track/62qBRh2Ua8nT63tCdFxUFv"
     },
     {
       "added_at": "2026-11-18 17:24:40",
@@ -89,6 +153,22 @@
       "url": "https://open.spotify.com/track/5HWcuo6qdUizk7dNsQUqTT"
     },
     {
+      "added_at": "2026-11-25 17:00:19",
+      "album": {
+        "name": "bitter",
+        "url": "https://open.spotify.com/album/1lCOpKtP8HWhlFwtkIdVzn"
+      },
+      "artists": [
+        {
+          "name": "Anya Gupta",
+          "url": "https://open.spotify.com/artist/6SHpQ6QnVZdoPVhQa3A2sL"
+        }
+      ],
+      "duration_ms": 186500,
+      "name": "bitter",
+      "url": "https://open.spotify.com/track/2pMVvDSV8awJvWDyvikDzP"
+    },
+    {
       "added_at": "2026-11-18 17:24:40",
       "album": {
         "name": "Woodacre",
@@ -103,6 +183,22 @@
       "duration_ms": 263750,
       "name": "Make It Through The Day",
       "url": "https://open.spotify.com/track/3XMwWnozAnnHIENIsR4PfW"
+    },
+    {
+      "added_at": "2026-11-25 17:00:19",
+      "album": {
+        "name": "Learning How",
+        "url": "https://open.spotify.com/album/4am9ncjzLcx50GACdrpKbf"
+      },
+      "artists": [
+        {
+          "name": "Trella",
+          "url": "https://open.spotify.com/artist/4YpLN8ZByubASuWnxWokRT"
+        }
+      ],
+      "duration_ms": 170516,
+      "name": "Learning How",
+      "url": "https://open.spotify.com/track/5ZBki32QHjbWWWAlwy1W8v"
     },
     {
       "added_at": "2026-11-11 05:00:21",
@@ -1087,38 +1183,6 @@
     {
       "added_at": "2026-11-11 05:00:21",
       "album": {
-        "name": "If I Could Do It Again",
-        "url": "https://open.spotify.com/album/06Xz2LHByWWb0XXdfv3zbe"
-      },
-      "artists": [
-        {
-          "name": "Baby Fischgrund",
-          "url": "https://open.spotify.com/artist/0Rbuhq8x1rEiXiWEDiNsYD"
-        }
-      ],
-      "duration_ms": 274927,
-      "name": "If I Could Do It Again",
-      "url": "https://open.spotify.com/track/4HwwRFuOx6cz1WSGEuy8ba"
-    },
-    {
-      "added_at": "2026-11-11 05:00:21",
-      "album": {
-        "name": "Oak & Ache",
-        "url": "https://open.spotify.com/album/4fpEDFldtvzcjW8R0wNQXM"
-      },
-      "artists": [
-        {
-          "name": "Jude Brothers",
-          "url": "https://open.spotify.com/artist/0sT6F223HT3WK1syT4s9RW"
-        }
-      ],
-      "duration_ms": 340612,
-      "name": "Oak & Ache",
-      "url": "https://open.spotify.com/track/57ZKWcgJvK0HWEFHUthZCn"
-    },
-    {
-      "added_at": "2026-11-11 05:00:21",
-      "album": {
         "name": "Magic Mirror",
         "url": "https://open.spotify.com/album/7l9VfGEwRQ4lxwO5rN4WsA"
       },
@@ -1135,22 +1199,6 @@
     {
       "added_at": "2026-11-11 05:00:21",
       "album": {
-        "name": "Guilty",
-        "url": "https://open.spotify.com/album/52axGYJ0PQQiTOtFnJMo6F"
-      },
-      "artists": [
-        {
-          "name": "Sammi Heaney",
-          "url": "https://open.spotify.com/artist/6ooPINF78eV5CFLBPAaVZq"
-        }
-      ],
-      "duration_ms": 226122,
-      "name": "Guilty",
-      "url": "https://open.spotify.com/track/6SEE7iA69AF9N8fqUYRdQr"
-    },
-    {
-      "added_at": "2026-11-11 05:00:21",
-      "album": {
         "name": "Metal Through Her Lips",
         "url": "https://open.spotify.com/album/5LVizjDJP5dgSwFjyfItln"
       },
@@ -1163,54 +1211,6 @@
       "duration_ms": 226120,
       "name": "Metal Through Her Lips",
       "url": "https://open.spotify.com/track/51xRxngy7VjDkY5fyfqXDg"
-    },
-    {
-      "added_at": "2026-11-11 05:00:21",
-      "album": {
-        "name": "Fairweather Friend",
-        "url": "https://open.spotify.com/album/3ID3R1RFScml64bRtXxBNz"
-      },
-      "artists": [
-        {
-          "name": "Sam Burton",
-          "url": "https://open.spotify.com/artist/38uF92nRI3YmOAeocf4D6J"
-        }
-      ],
-      "duration_ms": 299686,
-      "name": "Fairweather Friend",
-      "url": "https://open.spotify.com/track/7M6EoleJd4kGMLgmhQSz0K"
-    },
-    {
-      "added_at": "2026-11-11 05:00:21",
-      "album": {
-        "name": "do it all again",
-        "url": "https://open.spotify.com/album/0x4Uxhe0ECVjGhVCw499M0"
-      },
-      "artists": [
-        {
-          "name": "Lillian Faye",
-          "url": "https://open.spotify.com/artist/6vDTCTyymWOAhtBfwbvjzR"
-        }
-      ],
-      "duration_ms": 229591,
-      "name": "do it all again",
-      "url": "https://open.spotify.com/track/4enHJ0j1nu3GBK27c4Lg3x"
-    },
-    {
-      "added_at": "2026-11-11 05:00:21",
-      "album": {
-        "name": "Barnstorm",
-        "url": "https://open.spotify.com/album/6V9SZp9He4vlP0JDIYQbnm"
-      },
-      "artists": [
-        {
-          "name": "Paul Spring",
-          "url": "https://open.spotify.com/artist/3nm10RPR7Ts3qPCwhQBUew"
-        }
-      ],
-      "duration_ms": 249243,
-      "name": "Freeze Tag",
-      "url": "https://open.spotify.com/track/3acCsrAEl35FXyWT7xykoQ"
     }
   ],
   "unique_name": "Fresh Finds Folk",

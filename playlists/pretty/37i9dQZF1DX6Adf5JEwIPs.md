@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6Adf5JEwIPs.md) - [plain]
 
 > Lo más nuevo de la Música Mexicana\. Cover: Camila Fernández 📸
 
-[Spotify](https://open.spotify.com/user/spotify) - 730,367 likes - 70 songs - 3 hr 30 min
+[Spotify](https://open.spotify.com/user/spotify) - 730,338 likes - 70 songs - 3 hr 30 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -79,4 +79,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6Adf5JEwIPs.md) - [plain]
 | 69 | [Jefazo](https://open.spotify.com/track/31a4aOn3XIcNUevlcMhMWZ) | [Chivo XVI](https://open.spotify.com/artist/518vS5pfFlwOFzzCxSqHFs) | [Jefazo](https://open.spotify.com/album/08Y1iCh7lQ7IWGaP9xkqXB) | 2:45 |
 | 70 | [INTENSO](https://open.spotify.com/track/3zECAmenZqFieCRGLfG3Jn) | [DobleFilo](https://open.spotify.com/artist/7GngFO995uQKPXfSdyLyPF), [Fano](https://open.spotify.com/artist/3aRfIDlreP9D5POnhqIJI1) | [INTENSO](https://open.spotify.com/album/5vrSCb808EdjxsM2s63xRd) | 2:51 |
 
-Snapshot ID: `AAAAANsgxa93R0SU2n3WspHfg23b6Zar`
+Snapshot ID: `AAAAAGXSAqe+YCVl450zCDI1cpHr0pwp`

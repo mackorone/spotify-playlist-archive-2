@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVTKDs2aOkxu.md) - [plain]
 
 > The best indie music of the moment\. Cover: beabadoobee
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,921,984 likes - 80 songs - 4 hr 44 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,921,862 likes - 80 songs - 4 hr 44 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -89,4 +89,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVTKDs2aOkxu.md) - [plain]
 | 79 | [sick joke](https://open.spotify.com/track/743frEh1dCzyFWNWay6wkx) | [favourite daughter](https://open.spotify.com/artist/5adUhor66Yv7p08ReRM8Nk) | [bragger's rights](https://open.spotify.com/album/0s03nwKLHEv1jcQ08nh7WW) | 3:04 |
 | 80 | [The Ugliest Girl On The Beach](https://open.spotify.com/track/7zULk1BRwUrMjgImBEe37D) | [Victoryland](https://open.spotify.com/artist/63tTs259cHmrkQ7lGTmDdp) | [My Heart Is A Room With No Cameras In It \(Deluxe\)](https://open.spotify.com/album/1ihrc3yuJI063vqKwupVPp) | 2:26 |
 
-Snapshot ID: `AAAAAL7vDdzJeo6Fr5OFNWwbJHJkyq/v`
+Snapshot ID: `AAAAAL8TskEfW7ppg6ox0G6C6i25d26D`

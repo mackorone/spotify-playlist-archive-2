@@ -1,12 +1,12 @@
 {
   "description": "The composers and musicians bending genres, redefining rules, and bringing classical music into the 21st century.",
-  "num_followers": 255176,
+  "num_followers": 255212,
   "original_name": "Not Quite Classical",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAAi9n2TnYpUC6LNxD4iQnw4Huff7",
+  "snapshot_id": "AAAAALjF2N8fBUfhDm+hufPQ1VLKv60t",
   "tracks": [
     {
       "added_at": "2026-11-06 04:00:48",
@@ -771,26 +771,6 @@
     {
       "added_at": "2026-11-06 04:00:48",
       "album": {
-        "name": "Dear, Piano #2",
-        "url": "https://open.spotify.com/album/5KP9x3xuAhtIeDxvCNJWAG"
-      },
-      "artists": [
-        {
-          "name": "Illuminine",
-          "url": "https://open.spotify.com/artist/2JgcaYYHEGDqrKKJzuVda5"
-        },
-        {
-          "name": "OUTER",
-          "url": "https://open.spotify.com/artist/0X5mTKStYHFTuiXimP4YzW"
-        }
-      ],
-      "duration_ms": 212346,
-      "name": "Ll\u0177r - OUTER Rework",
-      "url": "https://open.spotify.com/track/0xflu1zYGTDOkY5B0HxxzS"
-    },
-    {
-      "added_at": "2026-11-06 04:00:48",
-      "album": {
         "name": "Thrive",
         "url": "https://open.spotify.com/album/67VF7jEe2ivz5kMPyXgI4T"
       },
@@ -807,38 +787,38 @@
     {
       "added_at": "2026-11-06 04:00:48",
       "album": {
-        "name": "Blossom",
-        "url": "https://open.spotify.com/album/3tWkevxZNDag39cJiS2H91"
+        "name": "Letting Go",
+        "url": "https://open.spotify.com/album/52drnTv2Acfw2rv1y3lfVX"
       },
       "artists": [
         {
-          "name": "Roary",
-          "url": "https://open.spotify.com/artist/1RLZPXW7wtkg92bfPZMKWd"
+          "name": "Josh Kramer",
+          "url": "https://open.spotify.com/artist/2stOL2fH4SxcTNg7RXo9AG"
         }
       ],
-      "duration_ms": 264689,
-      "name": "Blossom",
-      "url": "https://open.spotify.com/track/4aevsaCgjZ3MkXO5ctc0Km"
+      "duration_ms": 205625,
+      "name": "Letting Go",
+      "url": "https://open.spotify.com/track/2q1n8PgOnPj9hIu6muIPXC"
     },
     {
       "added_at": "2026-11-06 04:00:48",
       "album": {
-        "name": "Whispers",
-        "url": "https://open.spotify.com/album/3vYwHAdCXFOSPB0QlpiCaS"
+        "name": "Dear, Piano #2",
+        "url": "https://open.spotify.com/album/5KP9x3xuAhtIeDxvCNJWAG"
       },
       "artists": [
         {
-          "name": "Muri\u00ebl Bostdorp",
-          "url": "https://open.spotify.com/artist/0X98pXmiqyxLXGiLjkj4rq"
+          "name": "Illuminine",
+          "url": "https://open.spotify.com/artist/2JgcaYYHEGDqrKKJzuVda5"
         },
         {
-          "name": "Jake Lowe",
-          "url": "https://open.spotify.com/artist/6Z7c9MaP9Jt63gLeoYKA7n"
+          "name": "OUTER",
+          "url": "https://open.spotify.com/artist/0X5mTKStYHFTuiXimP4YzW"
         }
       ],
-      "duration_ms": 170539,
-      "name": "Whispers",
-      "url": "https://open.spotify.com/track/7LMhZBVJYRUNsD9GyIiH9A"
+      "duration_ms": 212346,
+      "name": "Ll\u0177r - OUTER Rework",
+      "url": "https://open.spotify.com/track/0xflu1zYGTDOkY5B0HxxzS"
     },
     {
       "added_at": "2026-11-06 04:00:48",
@@ -863,18 +843,38 @@
     {
       "added_at": "2026-11-06 04:00:48",
       "album": {
-        "name": "Letting Go",
-        "url": "https://open.spotify.com/album/52drnTv2Acfw2rv1y3lfVX"
+        "name": "Whispers",
+        "url": "https://open.spotify.com/album/3vYwHAdCXFOSPB0QlpiCaS"
       },
       "artists": [
         {
-          "name": "Josh Kramer",
-          "url": "https://open.spotify.com/artist/2stOL2fH4SxcTNg7RXo9AG"
+          "name": "Muri\u00ebl Bostdorp",
+          "url": "https://open.spotify.com/artist/0X98pXmiqyxLXGiLjkj4rq"
+        },
+        {
+          "name": "Jake Lowe",
+          "url": "https://open.spotify.com/artist/6Z7c9MaP9Jt63gLeoYKA7n"
         }
       ],
-      "duration_ms": 205625,
-      "name": "Letting Go",
-      "url": "https://open.spotify.com/track/2q1n8PgOnPj9hIu6muIPXC"
+      "duration_ms": 170539,
+      "name": "Whispers",
+      "url": "https://open.spotify.com/track/7LMhZBVJYRUNsD9GyIiH9A"
+    },
+    {
+      "added_at": "2026-11-06 04:00:48",
+      "album": {
+        "name": "Blossom",
+        "url": "https://open.spotify.com/album/3tWkevxZNDag39cJiS2H91"
+      },
+      "artists": [
+        {
+          "name": "Roary",
+          "url": "https://open.spotify.com/artist/1RLZPXW7wtkg92bfPZMKWd"
+        }
+      ],
+      "duration_ms": 264689,
+      "name": "Blossom",
+      "url": "https://open.spotify.com/track/4aevsaCgjZ3MkXO5ctc0Km"
     },
     {
       "added_at": "2026-11-06 04:00:48",
@@ -1027,22 +1027,6 @@
     {
       "added_at": "2026-11-06 04:00:48",
       "album": {
-        "name": "Suite in D IV (Dreamland)",
-        "url": "https://open.spotify.com/album/58GxfMDdj40e0aqBKEXrQP"
-      },
-      "artists": [
-        {
-          "name": "Martin Bloch",
-          "url": "https://open.spotify.com/artist/2WJ5Jh2DxFhkyA3xRoq77z"
-        }
-      ],
-      "duration_ms": 174107,
-      "name": "Suite in D IV (Dreamland)",
-      "url": "https://open.spotify.com/track/28sw29g4kMAqnsWHQkqRhZ"
-    },
-    {
-      "added_at": "2026-11-06 04:00:48",
-      "album": {
         "name": "Beginnings",
         "url": "https://open.spotify.com/album/6KOwv2I3BWLqaiEvjdtKOp"
       },
@@ -1055,6 +1039,22 @@
       "duration_ms": 238046,
       "name": "Beginnings",
       "url": "https://open.spotify.com/track/6v4WvtbAbm88SeS4etJMTH"
+    },
+    {
+      "added_at": "2026-11-06 04:00:48",
+      "album": {
+        "name": "Suite in D IV (Dreamland)",
+        "url": "https://open.spotify.com/album/58GxfMDdj40e0aqBKEXrQP"
+      },
+      "artists": [
+        {
+          "name": "Martin Bloch",
+          "url": "https://open.spotify.com/artist/2WJ5Jh2DxFhkyA3xRoq77z"
+        }
+      ],
+      "duration_ms": 174107,
+      "name": "Suite in D IV (Dreamland)",
+      "url": "https://open.spotify.com/track/28sw29g4kMAqnsWHQkqRhZ"
     },
     {
       "added_at": "2026-11-06 04:00:48",
@@ -1223,6 +1223,22 @@
     {
       "added_at": "2026-11-06 04:00:48",
       "album": {
+        "name": "Back to Loneliness",
+        "url": "https://open.spotify.com/album/14D0JjhFskg1DYYTE7yYQs"
+      },
+      "artists": [
+        {
+          "name": "Tom Kinsella",
+          "url": "https://open.spotify.com/artist/3zmBYWcupp9ux1zvBDub8K"
+        }
+      ],
+      "duration_ms": 257152,
+      "name": "Back to Loneliness",
+      "url": "https://open.spotify.com/track/3EINacsRkPAISGv1a77VYV"
+    },
+    {
+      "added_at": "2026-11-06 04:00:48",
+      "album": {
         "name": "Spring (Ambient Mix)",
         "url": "https://open.spotify.com/album/4gkjKuW0ijEkJZhokQCTJs"
       },
@@ -1255,22 +1271,6 @@
       "duration_ms": 171434,
       "name": "passage",
       "url": "https://open.spotify.com/track/4gjLAjmcgMoa1CCOkpF3NH"
-    },
-    {
-      "added_at": "2026-11-06 04:00:48",
-      "album": {
-        "name": "Back to Loneliness",
-        "url": "https://open.spotify.com/album/14D0JjhFskg1DYYTE7yYQs"
-      },
-      "artists": [
-        {
-          "name": "Tom Kinsella",
-          "url": "https://open.spotify.com/artist/3zmBYWcupp9ux1zvBDub8K"
-        }
-      ],
-      "duration_ms": 257152,
-      "name": "Back to Loneliness",
-      "url": "https://open.spotify.com/track/3EINacsRkPAISGv1a77VYV"
     },
     {
       "added_at": "2026-11-06 04:00:48",
@@ -1519,18 +1519,18 @@
     {
       "added_at": "2026-11-06 04:00:48",
       "album": {
-        "name": "From Sunset",
-        "url": "https://open.spotify.com/album/5J2QcipeSJxA2MpkmmDbN1"
+        "name": "21st Of June",
+        "url": "https://open.spotify.com/album/5g2HXYAdPF2Qj1uqxWj4Yu"
       },
       "artists": [
         {
-          "name": "Omfeel",
-          "url": "https://open.spotify.com/artist/01koLF6f9W9lvfj1EIsSbQ"
+          "name": "Niklas Paschburg",
+          "url": "https://open.spotify.com/artist/4dTw5svKFBPnfijbi3H9eI"
         }
       ],
-      "duration_ms": 232624,
-      "name": "Awaking",
-      "url": "https://open.spotify.com/track/3NRhAdTjP60hAfRVQFUEvl"
+      "duration_ms": 191195,
+      "name": "21st Of June",
+      "url": "https://open.spotify.com/track/3AQqVeGznmbsy4aksIEfaH"
     },
     {
       "added_at": "2026-11-06 04:00:48",
@@ -1555,18 +1555,34 @@
     {
       "added_at": "2026-11-06 04:00:48",
       "album": {
-        "name": "21st Of June",
-        "url": "https://open.spotify.com/album/5g2HXYAdPF2Qj1uqxWj4Yu"
+        "name": "Nouveau-N\u00e9",
+        "url": "https://open.spotify.com/album/0MytabDicwJ6x5x8xU2mqm"
       },
       "artists": [
         {
-          "name": "Niklas Paschburg",
-          "url": "https://open.spotify.com/artist/4dTw5svKFBPnfijbi3H9eI"
+          "name": "Phoria",
+          "url": "https://open.spotify.com/artist/0HDxlFsXwyrpufs4YgTNMm"
         }
       ],
-      "duration_ms": 191195,
-      "name": "21st Of June",
-      "url": "https://open.spotify.com/track/3AQqVeGznmbsy4aksIEfaH"
+      "duration_ms": 200862,
+      "name": "Nouveau-N\u00e9 (Re-Imagined)",
+      "url": "https://open.spotify.com/track/1sk2K7lpkZgAbTRjF07HhK"
+    },
+    {
+      "added_at": "2026-11-06 04:00:48",
+      "album": {
+        "name": "From Sunset",
+        "url": "https://open.spotify.com/album/5J2QcipeSJxA2MpkmmDbN1"
+      },
+      "artists": [
+        {
+          "name": "Omfeel",
+          "url": "https://open.spotify.com/artist/01koLF6f9W9lvfj1EIsSbQ"
+        }
+      ],
+      "duration_ms": 232624,
+      "name": "Awaking",
+      "url": "https://open.spotify.com/track/3NRhAdTjP60hAfRVQFUEvl"
     },
     {
       "added_at": "2026-11-06 04:00:48",
@@ -1587,22 +1603,6 @@
       "duration_ms": 189026,
       "name": "Footsteps",
       "url": "https://open.spotify.com/track/0fW4lw6yMHRckkdM8gj5st"
-    },
-    {
-      "added_at": "2026-11-06 04:00:48",
-      "album": {
-        "name": "Nouveau-N\u00e9",
-        "url": "https://open.spotify.com/album/0MytabDicwJ6x5x8xU2mqm"
-      },
-      "artists": [
-        {
-          "name": "Phoria",
-          "url": "https://open.spotify.com/artist/0HDxlFsXwyrpufs4YgTNMm"
-        }
-      ],
-      "duration_ms": 200862,
-      "name": "Nouveau-N\u00e9 (Re-Imagined)",
-      "url": "https://open.spotify.com/track/1sk2K7lpkZgAbTRjF07HhK"
     },
     {
       "added_at": "2026-11-06 04:00:48",
@@ -1663,22 +1663,6 @@
     {
       "added_at": "2026-11-06 04:00:48",
       "album": {
-        "name": "Avant-derni\u00e8res pens\u00e9es: I. Idylle [Snorri Hallgr\u00edmsson Rework (FRAGMENTS / Erik Satie)]",
-        "url": "https://open.spotify.com/album/1arRxLkgqEqmKAFodhjgCv"
-      },
-      "artists": [
-        {
-          "name": "Snorri Hallgr\u00edmsson",
-          "url": "https://open.spotify.com/artist/0cz823HlK1N6jNAIztyYHs"
-        }
-      ],
-      "duration_ms": 236520,
-      "name": "Avant-derni\u00e8res pens\u00e9es: I. Idylle - Snorri Hallgr\u00edmsson Rework (FRAGMENTS / Erik Satie)",
-      "url": "https://open.spotify.com/track/3q8PlM3EcBu5ab6CFrIbTe"
-    },
-    {
-      "added_at": "2026-11-06 04:00:48",
-      "album": {
         "name": "Solanales",
         "url": "https://open.spotify.com/album/4giTq8C1Ss1e9PM8k88H1I"
       },
@@ -1691,6 +1675,22 @@
       "duration_ms": 332607,
       "name": "Solanales",
       "url": "https://open.spotify.com/track/6U0l3hk3oTtNtPwk2Ekjxl"
+    },
+    {
+      "added_at": "2026-11-06 04:00:48",
+      "album": {
+        "name": "Avant-derni\u00e8res pens\u00e9es: I. Idylle [Snorri Hallgr\u00edmsson Rework (FRAGMENTS / Erik Satie)]",
+        "url": "https://open.spotify.com/album/1arRxLkgqEqmKAFodhjgCv"
+      },
+      "artists": [
+        {
+          "name": "Snorri Hallgr\u00edmsson",
+          "url": "https://open.spotify.com/artist/0cz823HlK1N6jNAIztyYHs"
+        }
+      ],
+      "duration_ms": 236520,
+      "name": "Avant-derni\u00e8res pens\u00e9es: I. Idylle - Snorri Hallgr\u00edmsson Rework (FRAGMENTS / Erik Satie)",
+      "url": "https://open.spotify.com/track/3q8PlM3EcBu5ab6CFrIbTe"
     },
     {
       "added_at": "2026-11-06 04:00:48",
@@ -1827,6 +1827,22 @@
     {
       "added_at": "2026-11-06 04:00:48",
       "album": {
+        "name": "acceptances",
+        "url": "https://open.spotify.com/album/6LRafypd0VdYQ6uuFIxzxJ"
+      },
+      "artists": [
+        {
+          "name": "Lara Somogyi",
+          "url": "https://open.spotify.com/artist/4vFvy7t3jlzAYrNYjW8uDo"
+        }
+      ],
+      "duration_ms": 198901,
+      "name": "acceptances",
+      "url": "https://open.spotify.com/track/49LE9nTYsPzk0ImQ26mZjD"
+    },
+    {
+      "added_at": "2026-11-06 04:00:48",
+      "album": {
         "name": "Br\u00e5ddjup",
         "url": "https://open.spotify.com/album/09X4bKe4wtQzL420dXtNay"
       },
@@ -1863,22 +1879,6 @@
     {
       "added_at": "2026-11-06 04:00:48",
       "album": {
-        "name": "acceptances",
-        "url": "https://open.spotify.com/album/6LRafypd0VdYQ6uuFIxzxJ"
-      },
-      "artists": [
-        {
-          "name": "Lara Somogyi",
-          "url": "https://open.spotify.com/artist/4vFvy7t3jlzAYrNYjW8uDo"
-        }
-      ],
-      "duration_ms": 198901,
-      "name": "acceptances",
-      "url": "https://open.spotify.com/track/49LE9nTYsPzk0ImQ26mZjD"
-    },
-    {
-      "added_at": "2026-11-06 04:00:48",
-      "album": {
         "name": "Sonic Wires (Deluxe Edition)",
         "url": "https://open.spotify.com/album/0pMZFRuGak18nT0FamCEhp"
       },
@@ -1911,6 +1911,22 @@
     {
       "added_at": "2026-11-06 04:00:48",
       "album": {
+        "name": "little dreamer",
+        "url": "https://open.spotify.com/album/4CoWKpxq9OVUjxfeEWL3SP"
+      },
+      "artists": [
+        {
+          "name": "BARTH.",
+          "url": "https://open.spotify.com/artist/6oM4pj0cViaM9uaplSkKAl"
+        }
+      ],
+      "duration_ms": 209174,
+      "name": "little dreamer",
+      "url": "https://open.spotify.com/track/36juCwMJPa6YR57IV3yKbd"
+    },
+    {
+      "added_at": "2026-11-06 04:00:48",
+      "album": {
         "name": "Candle Flickers",
         "url": "https://open.spotify.com/album/4gAaXS2qlVgp3AqFY8ajgq"
       },
@@ -1927,22 +1943,6 @@
       "duration_ms": 164320,
       "name": "Candle Flickers (feat. Peter Gregson) - Adagio",
       "url": "https://open.spotify.com/track/7H1jV49w6b5xTPT6LojVOw"
-    },
-    {
-      "added_at": "2026-11-06 04:00:48",
-      "album": {
-        "name": "little dreamer",
-        "url": "https://open.spotify.com/album/4CoWKpxq9OVUjxfeEWL3SP"
-      },
-      "artists": [
-        {
-          "name": "BARTH.",
-          "url": "https://open.spotify.com/artist/6oM4pj0cViaM9uaplSkKAl"
-        }
-      ],
-      "duration_ms": 209174,
-      "name": "little dreamer",
-      "url": "https://open.spotify.com/track/36juCwMJPa6YR57IV3yKbd"
     },
     {
       "added_at": "2026-11-06 04:00:48",
@@ -1979,6 +1979,22 @@
     {
       "added_at": "2026-11-06 04:00:48",
       "album": {
+        "name": "Shimmerfall",
+        "url": "https://open.spotify.com/album/2xdIc7jSQcnMlRZ3y6i3E1"
+      },
+      "artists": [
+        {
+          "name": "Mattia Vlad Morleo",
+          "url": "https://open.spotify.com/artist/2VBeBMU2ZBdmqnsBZ45CXE"
+        }
+      ],
+      "duration_ms": 234685,
+      "name": "Shimmerfall",
+      "url": "https://open.spotify.com/track/4J1WTuWrYmv6z7FbKFUh7V"
+    },
+    {
+      "added_at": "2026-11-06 04:00:48",
+      "album": {
         "name": "My Way",
         "url": "https://open.spotify.com/album/4eZkYYbrLCdS5yjhIk8zxJ"
       },
@@ -2007,18 +2023,18 @@
     {
       "added_at": "2026-11-06 04:00:48",
       "album": {
-        "name": "Shimmerfall",
-        "url": "https://open.spotify.com/album/2xdIc7jSQcnMlRZ3y6i3E1"
+        "name": "Beautifully Lost Mind",
+        "url": "https://open.spotify.com/album/6cJ8PbiC1cNSV3RXFPKd52"
       },
       "artists": [
         {
-          "name": "Mattia Vlad Morleo",
-          "url": "https://open.spotify.com/artist/2VBeBMU2ZBdmqnsBZ45CXE"
+          "name": "John Hayes",
+          "url": "https://open.spotify.com/artist/7o2FMy3ZI4GssMyY8ELHGt"
         }
       ],
-      "duration_ms": 234685,
-      "name": "Shimmerfall",
-      "url": "https://open.spotify.com/track/4J1WTuWrYmv6z7FbKFUh7V"
+      "duration_ms": 175530,
+      "name": "Beautifully Lost Mind",
+      "url": "https://open.spotify.com/track/2afflyT076IFG1lyLWb9T6"
     },
     {
       "added_at": "2026-11-06 04:00:48",
@@ -2043,22 +2059,6 @@
     {
       "added_at": "2026-11-06 04:00:48",
       "album": {
-        "name": "Beautifully Lost Mind",
-        "url": "https://open.spotify.com/album/6cJ8PbiC1cNSV3RXFPKd52"
-      },
-      "artists": [
-        {
-          "name": "John Hayes",
-          "url": "https://open.spotify.com/artist/7o2FMy3ZI4GssMyY8ELHGt"
-        }
-      ],
-      "duration_ms": 175530,
-      "name": "Beautifully Lost Mind",
-      "url": "https://open.spotify.com/track/2afflyT076IFG1lyLWb9T6"
-    },
-    {
-      "added_at": "2026-11-06 04:00:48",
-      "album": {
         "name": "Nobody travelling",
         "url": "https://open.spotify.com/album/2oVFDW0fz8lYL6fP4Kdotb"
       },
@@ -2071,6 +2071,22 @@
       "duration_ms": 211952,
       "name": "Nobody travelling",
       "url": "https://open.spotify.com/track/4X4SrQXqPq7SPSr1zbdvD8"
+    },
+    {
+      "added_at": "2026-11-06 04:00:48",
+      "album": {
+        "name": "A Collective Destiny",
+        "url": "https://open.spotify.com/album/2KnVai28Pj93yuL7W2huaL"
+      },
+      "artists": [
+        {
+          "name": "Luke Howard",
+          "url": "https://open.spotify.com/artist/3duTXsC49HoPt4f4EySDKf"
+        }
+      ],
+      "duration_ms": 262000,
+      "name": "A Collective Destiny",
+      "url": "https://open.spotify.com/track/171fKTIvL8wDal3N6Uv0Bk"
     },
     {
       "added_at": "2026-11-06 04:00:48",
@@ -2099,22 +2115,6 @@
       "duration_ms": 149842,
       "name": "Paulette - Orchestra Version",
       "url": "https://open.spotify.com/track/3krDsHslgrWRXKWOl61nGx"
-    },
-    {
-      "added_at": "2026-11-06 04:00:48",
-      "album": {
-        "name": "A Collective Destiny",
-        "url": "https://open.spotify.com/album/2KnVai28Pj93yuL7W2huaL"
-      },
-      "artists": [
-        {
-          "name": "Luke Howard",
-          "url": "https://open.spotify.com/artist/3duTXsC49HoPt4f4EySDKf"
-        }
-      ],
-      "duration_ms": 262000,
-      "name": "A Collective Destiny",
-      "url": "https://open.spotify.com/track/171fKTIvL8wDal3N6Uv0Bk"
     },
     {
       "added_at": "2026-11-06 04:00:48",
@@ -2223,22 +2223,6 @@
     {
       "added_at": "2026-11-06 04:00:48",
       "album": {
-        "name": "s\u00e9r\u00e9nades",
-        "url": "https://open.spotify.com/album/1f9rbU8V20zuspGqNZC3dq"
-      },
-      "artists": [
-        {
-          "name": "Jean-Michel Blais",
-          "url": "https://open.spotify.com/artist/2uHlq6ERoXk8dqRZmq2OEr"
-        }
-      ],
-      "duration_ms": 284543,
-      "name": "yanni (piano)",
-      "url": "https://open.spotify.com/track/18C6YL3LvUsjh1GEbBYWtj"
-    },
-    {
-      "added_at": "2026-11-06 04:00:48",
-      "album": {
         "name": "Fredag",
         "url": "https://open.spotify.com/album/1o3P9viqum7MErNHVLhjk2"
       },
@@ -2251,6 +2235,22 @@
       "duration_ms": 182759,
       "name": "Fredag",
       "url": "https://open.spotify.com/track/0maSnp4yKgYgbRfPvNvxud"
+    },
+    {
+      "added_at": "2026-11-06 04:00:48",
+      "album": {
+        "name": "s\u00e9r\u00e9nades",
+        "url": "https://open.spotify.com/album/1f9rbU8V20zuspGqNZC3dq"
+      },
+      "artists": [
+        {
+          "name": "Jean-Michel Blais",
+          "url": "https://open.spotify.com/artist/2uHlq6ERoXk8dqRZmq2OEr"
+        }
+      ],
+      "duration_ms": 284543,
+      "name": "yanni (piano)",
+      "url": "https://open.spotify.com/track/18C6YL3LvUsjh1GEbBYWtj"
     },
     {
       "added_at": "2026-11-06 04:00:48",
@@ -2387,22 +2387,6 @@
     {
       "added_at": "2026-11-06 04:00:48",
       "album": {
-        "name": "Surface (Music from the Original TV Series)",
-        "url": "https://open.spotify.com/album/0DZZLQvXZzgurc5wWFgAst"
-      },
-      "artists": [
-        {
-          "name": "\u00d3lafur Arnalds",
-          "url": "https://open.spotify.com/artist/7E3BRXV9ZbCt5lQTCXMTia"
-        }
-      ],
-      "duration_ms": 148432,
-      "name": "Surfaced - From \"Surface\"",
-      "url": "https://open.spotify.com/track/6yidnXvq5fN4ULkgk8FOIU"
-    },
-    {
-      "added_at": "2026-11-06 04:00:48",
-      "album": {
         "name": "Challenger Deep",
         "url": "https://open.spotify.com/album/7HoOXfzZT5pz1tj0cvDMZh"
       },
@@ -2415,6 +2399,22 @@
       "duration_ms": 324386,
       "name": "Challenger Deep",
       "url": "https://open.spotify.com/track/6zmc9vc2ysz51WRNloT4v8"
+    },
+    {
+      "added_at": "2026-11-06 04:00:48",
+      "album": {
+        "name": "Surface (Music from the Original TV Series)",
+        "url": "https://open.spotify.com/album/0DZZLQvXZzgurc5wWFgAst"
+      },
+      "artists": [
+        {
+          "name": "\u00d3lafur Arnalds",
+          "url": "https://open.spotify.com/artist/7E3BRXV9ZbCt5lQTCXMTia"
+        }
+      ],
+      "duration_ms": 148432,
+      "name": "Surfaced - From \"Surface\"",
+      "url": "https://open.spotify.com/track/6yidnXvq5fN4ULkgk8FOIU"
     },
     {
       "added_at": "2026-11-06 04:00:48",
@@ -2463,22 +2463,6 @@
     {
       "added_at": "2026-11-06 04:00:48",
       "album": {
-        "name": "Le jardin f\u00e9erique (From Ma m\u00e8re l'oye, Ballet, M. 62) [Recomposed]",
-        "url": "https://open.spotify.com/album/6QN72tgiljZIC66nDKwrRv"
-      },
-      "artists": [
-        {
-          "name": "Victor Le Masne",
-          "url": "https://open.spotify.com/artist/73HYvBYbBoXKmDEzsM27RI"
-        }
-      ],
-      "duration_ms": 278960,
-      "name": "Le jardin f\u00e9erique (From Ma m\u00e8re l'oye, Ballet, M. 62) - Recomposed",
-      "url": "https://open.spotify.com/track/63h3n9SifgFlsVBNWtokB3"
-    },
-    {
-      "added_at": "2026-11-06 04:00:48",
-      "album": {
         "name": "Upstream Dream",
         "url": "https://open.spotify.com/album/1srML4m8W67DuWLV3zAgRN"
       },
@@ -2491,6 +2475,22 @@
       "duration_ms": 256005,
       "name": "Upstream Dream",
       "url": "https://open.spotify.com/track/36nGeAgQbzIgtvhTbOAA0S"
+    },
+    {
+      "added_at": "2026-11-06 04:00:48",
+      "album": {
+        "name": "Le jardin f\u00e9erique (From Ma m\u00e8re l'oye, Ballet, M. 62) [Recomposed]",
+        "url": "https://open.spotify.com/album/6QN72tgiljZIC66nDKwrRv"
+      },
+      "artists": [
+        {
+          "name": "Victor Le Masne",
+          "url": "https://open.spotify.com/artist/73HYvBYbBoXKmDEzsM27RI"
+        }
+      ],
+      "duration_ms": 278960,
+      "name": "Le jardin f\u00e9erique (From Ma m\u00e8re l'oye, Ballet, M. 62) - Recomposed",
+      "url": "https://open.spotify.com/track/63h3n9SifgFlsVBNWtokB3"
     },
     {
       "added_at": "2026-11-06 04:00:48",
@@ -2551,6 +2551,46 @@
     {
       "added_at": "2026-11-06 04:00:48",
       "album": {
+        "name": "Circle 31",
+        "url": "https://open.spotify.com/album/2l743OeSKb0QxgyCxJtubk"
+      },
+      "artists": [
+        {
+          "name": "Foam and Sand",
+          "url": "https://open.spotify.com/artist/1auVJGxP1B7a0GYbD6G6dd"
+        },
+        {
+          "name": "Robot Koch",
+          "url": "https://open.spotify.com/artist/47V6nyjOrUR98qv6gkYssI"
+        },
+        {
+          "name": "J Foerster",
+          "url": "https://open.spotify.com/artist/4sRdSdPKzOOJa9WgBfTz6i"
+        }
+      ],
+      "duration_ms": 257314,
+      "name": "Circle 31",
+      "url": "https://open.spotify.com/track/4OqYtePk55zkJqHnbCo6AZ"
+    },
+    {
+      "added_at": "2026-11-06 04:00:48",
+      "album": {
+        "name": "Arabesque",
+        "url": "https://open.spotify.com/album/2u8jIYNrBc5obxvbXlAIYx"
+      },
+      "artists": [
+        {
+          "name": "Jeremy Cullen",
+          "url": "https://open.spotify.com/artist/2TsxwRkZkXZN3fvJoCOjwE"
+        }
+      ],
+      "duration_ms": 123656,
+      "name": "Arabesque",
+      "url": "https://open.spotify.com/track/4u1fQ9pvtLh1XDlivrHrPJ"
+    },
+    {
+      "added_at": "2026-11-06 04:00:48",
+      "album": {
         "name": "Collage",
         "url": "https://open.spotify.com/album/1mBThT4Q1wQFs6heMlHVyW"
       },
@@ -2579,46 +2619,6 @@
       "duration_ms": 175546,
       "name": "New Moon",
       "url": "https://open.spotify.com/track/0qRkkkqgsdebj5x62MV7uA"
-    },
-    {
-      "added_at": "2026-11-06 04:00:48",
-      "album": {
-        "name": "Arabesque",
-        "url": "https://open.spotify.com/album/2u8jIYNrBc5obxvbXlAIYx"
-      },
-      "artists": [
-        {
-          "name": "Jeremy Cullen",
-          "url": "https://open.spotify.com/artist/2TsxwRkZkXZN3fvJoCOjwE"
-        }
-      ],
-      "duration_ms": 123656,
-      "name": "Arabesque",
-      "url": "https://open.spotify.com/track/4u1fQ9pvtLh1XDlivrHrPJ"
-    },
-    {
-      "added_at": "2026-11-06 04:00:48",
-      "album": {
-        "name": "Circle 31",
-        "url": "https://open.spotify.com/album/2l743OeSKb0QxgyCxJtubk"
-      },
-      "artists": [
-        {
-          "name": "Foam and Sand",
-          "url": "https://open.spotify.com/artist/1auVJGxP1B7a0GYbD6G6dd"
-        },
-        {
-          "name": "Robot Koch",
-          "url": "https://open.spotify.com/artist/47V6nyjOrUR98qv6gkYssI"
-        },
-        {
-          "name": "J Foerster",
-          "url": "https://open.spotify.com/artist/4sRdSdPKzOOJa9WgBfTz6i"
-        }
-      ],
-      "duration_ms": 257314,
-      "name": "Circle 31",
-      "url": "https://open.spotify.com/track/4OqYtePk55zkJqHnbCo6AZ"
     },
     {
       "added_at": "2026-11-06 04:00:48",
@@ -2675,22 +2675,18 @@
     {
       "added_at": "2026-11-06 04:00:48",
       "album": {
-        "name": "Icaro (Remix)",
-        "url": "https://open.spotify.com/album/0vLsnNQI3KcX5xvdKeTAuU"
+        "name": "Redivider",
+        "url": "https://open.spotify.com/album/0VY5KRCY5hIHpoAXGucXhi"
       },
       "artists": [
         {
-          "name": "Bryan Senti",
-          "url": "https://open.spotify.com/artist/4QSmk1Bll3nbQfsjTe7vIR"
-        },
-        {
-          "name": "Dustin O'Halloran",
-          "url": "https://open.spotify.com/artist/6UEYawMcp2M4JFoXVOtZEq"
+          "name": "VLMV",
+          "url": "https://open.spotify.com/artist/4odVEinIMqpSWy8oBnLbwl"
         }
       ],
-      "duration_ms": 348400,
-      "name": "Icaro - Remix",
-      "url": "https://open.spotify.com/track/0XgTdKdvDqkfSIfGnBADNw"
+      "duration_ms": 246666,
+      "name": "We Were Landed, We Were Landing Gently We Landed (uncut)",
+      "url": "https://open.spotify.com/track/1RenBfXqWZiCElrTQVKwTl"
     },
     {
       "added_at": "2026-11-06 04:00:48",
@@ -2711,18 +2707,22 @@
     {
       "added_at": "2026-11-06 04:00:48",
       "album": {
-        "name": "Redivider",
-        "url": "https://open.spotify.com/album/0VY5KRCY5hIHpoAXGucXhi"
+        "name": "Icaro (Remix)",
+        "url": "https://open.spotify.com/album/0vLsnNQI3KcX5xvdKeTAuU"
       },
       "artists": [
         {
-          "name": "VLMV",
-          "url": "https://open.spotify.com/artist/4odVEinIMqpSWy8oBnLbwl"
+          "name": "Bryan Senti",
+          "url": "https://open.spotify.com/artist/4QSmk1Bll3nbQfsjTe7vIR"
+        },
+        {
+          "name": "Dustin O'Halloran",
+          "url": "https://open.spotify.com/artist/6UEYawMcp2M4JFoXVOtZEq"
         }
       ],
-      "duration_ms": 246666,
-      "name": "We Were Landed, We Were Landing Gently We Landed (uncut)",
-      "url": "https://open.spotify.com/track/1RenBfXqWZiCElrTQVKwTl"
+      "duration_ms": 348400,
+      "name": "Icaro - Remix",
+      "url": "https://open.spotify.com/track/0XgTdKdvDqkfSIfGnBADNw"
     },
     {
       "added_at": "2026-11-06 04:00:48",
@@ -2859,22 +2859,18 @@
     {
       "added_at": "2026-11-06 04:00:48",
       "album": {
-        "name": "Somersault",
-        "url": "https://open.spotify.com/album/63LVsprZWfyUhv7rUQE5Rw"
+        "name": "Drifter",
+        "url": "https://open.spotify.com/album/5zMWirrZbJKiTP68Ykvwvs"
       },
       "artists": [
         {
-          "name": "Suntapes",
-          "url": "https://open.spotify.com/artist/2KyzezGvw1FSzXXjsWOji6"
-        },
-        {
-          "name": "Tomas Johan Kristian",
-          "url": "https://open.spotify.com/artist/2Qo92IgDhEwpCnPL07d2TZ"
+          "name": "Eyd\u00eds Evensen",
+          "url": "https://open.spotify.com/artist/2SMBaAG61s9mtyJ0eeXSWx"
         }
       ],
-      "duration_ms": 156000,
-      "name": "Somersault",
-      "url": "https://open.spotify.com/track/4Tjsng3a8esls6YG4F5stt"
+      "duration_ms": 201013,
+      "name": "Drifter",
+      "url": "https://open.spotify.com/track/37soSo5PSvolIfAKwFw5yq"
     },
     {
       "added_at": "2026-11-06 04:00:48",
@@ -2895,18 +2891,22 @@
     {
       "added_at": "2026-11-06 04:00:48",
       "album": {
-        "name": "The Light I",
-        "url": "https://open.spotify.com/album/2WB2NrI0CXJnjjUkCl4YxC"
+        "name": "Somersault",
+        "url": "https://open.spotify.com/album/63LVsprZWfyUhv7rUQE5Rw"
       },
       "artists": [
         {
-          "name": "Eyd\u00eds Evensen",
-          "url": "https://open.spotify.com/artist/2SMBaAG61s9mtyJ0eeXSWx"
+          "name": "Suntapes",
+          "url": "https://open.spotify.com/artist/2KyzezGvw1FSzXXjsWOji6"
+        },
+        {
+          "name": "Tomas Johan Kristian",
+          "url": "https://open.spotify.com/artist/2Qo92IgDhEwpCnPL07d2TZ"
         }
       ],
-      "duration_ms": 270718,
-      "name": "The Light I",
-      "url": "https://open.spotify.com/track/19xrX5l38HhIyImUfFKAfZ"
+      "duration_ms": 156000,
+      "name": "Somersault",
+      "url": "https://open.spotify.com/track/4Tjsng3a8esls6YG4F5stt"
     },
     {
       "added_at": "2026-11-06 04:00:48",
@@ -2947,6 +2947,22 @@
     {
       "added_at": "2026-11-06 04:00:48",
       "album": {
+        "name": "The Light I",
+        "url": "https://open.spotify.com/album/2WB2NrI0CXJnjjUkCl4YxC"
+      },
+      "artists": [
+        {
+          "name": "Eyd\u00eds Evensen",
+          "url": "https://open.spotify.com/artist/2SMBaAG61s9mtyJ0eeXSWx"
+        }
+      ],
+      "duration_ms": 270718,
+      "name": "The Light I",
+      "url": "https://open.spotify.com/track/19xrX5l38HhIyImUfFKAfZ"
+    },
+    {
+      "added_at": "2026-11-06 04:00:48",
+      "album": {
         "name": "Wayfare",
         "url": "https://open.spotify.com/album/1RvcDkk20RZH6DnMV7X7pj"
       },
@@ -2983,18 +2999,18 @@
     {
       "added_at": "2026-11-06 04:00:48",
       "album": {
-        "name": "Drifter",
-        "url": "https://open.spotify.com/album/5zMWirrZbJKiTP68Ykvwvs"
+        "name": "Funambulist",
+        "url": "https://open.spotify.com/album/1TPzJjS62EhCLh2LbSCJNY"
       },
       "artists": [
         {
-          "name": "Eyd\u00eds Evensen",
-          "url": "https://open.spotify.com/artist/2SMBaAG61s9mtyJ0eeXSWx"
+          "name": "Wilson Trouv\u00e9",
+          "url": "https://open.spotify.com/artist/1Qh6CmBget32TmvDZBoK8E"
         }
       ],
-      "duration_ms": 201013,
-      "name": "Drifter",
-      "url": "https://open.spotify.com/track/37soSo5PSvolIfAKwFw5yq"
+      "duration_ms": 191450,
+      "name": "Funambulist",
+      "url": "https://open.spotify.com/track/6pjVWTuwxL7QkRTbCBNE2i"
     },
     {
       "added_at": "2026-11-06 04:00:48",
@@ -3031,22 +3047,6 @@
       "duration_ms": 133335,
       "name": "Nos - C.B. Rework",
       "url": "https://open.spotify.com/track/1zVbL4ZCLbEE8fmVl881Gj"
-    },
-    {
-      "added_at": "2026-11-06 04:00:48",
-      "album": {
-        "name": "Funambulist",
-        "url": "https://open.spotify.com/album/1TPzJjS62EhCLh2LbSCJNY"
-      },
-      "artists": [
-        {
-          "name": "Wilson Trouv\u00e9",
-          "url": "https://open.spotify.com/artist/1Qh6CmBget32TmvDZBoK8E"
-        }
-      ],
-      "duration_ms": 191450,
-      "name": "Funambulist",
-      "url": "https://open.spotify.com/track/6pjVWTuwxL7QkRTbCBNE2i"
     },
     {
       "added_at": "2026-11-06 04:00:48",
@@ -3139,22 +3139,6 @@
     {
       "added_at": "2026-11-06 04:00:48",
       "album": {
-        "name": "Piano Diary",
-        "url": "https://open.spotify.com/album/0fI31Nn5m8pY6kHa95qxm1"
-      },
-      "artists": [
-        {
-          "name": "Henning Schmiedt",
-          "url": "https://open.spotify.com/artist/6uxRam7lWu9wC6VLWC7hav"
-        }
-      ],
-      "duration_ms": 152126,
-      "name": "At Dawn",
-      "url": "https://open.spotify.com/track/0jWFW9fhF9YoEEUVBfUSXC"
-    },
-    {
-      "added_at": "2026-11-06 04:00:48",
-      "album": {
         "name": "Nostalgi",
         "url": "https://open.spotify.com/album/65HFrbOPleregv8K8Pq3fu"
       },
@@ -3167,6 +3151,22 @@
       "duration_ms": 192000,
       "name": "Nostalgi",
       "url": "https://open.spotify.com/track/0BzLmawcOxJz0FhCWoGXHT"
+    },
+    {
+      "added_at": "2026-11-06 04:00:48",
+      "album": {
+        "name": "Piano Diary",
+        "url": "https://open.spotify.com/album/0fI31Nn5m8pY6kHa95qxm1"
+      },
+      "artists": [
+        {
+          "name": "Henning Schmiedt",
+          "url": "https://open.spotify.com/artist/6uxRam7lWu9wC6VLWC7hav"
+        }
+      ],
+      "duration_ms": 152126,
+      "name": "At Dawn",
+      "url": "https://open.spotify.com/track/0jWFW9fhF9YoEEUVBfUSXC"
     },
     {
       "added_at": "2026-11-06 04:00:48",
@@ -3387,26 +3387,6 @@
     {
       "added_at": "2026-11-06 04:00:48",
       "album": {
-        "name": "The Essex Serpent (Apple TV+ Original Series Soundtrack)",
-        "url": "https://open.spotify.com/album/2pxVDTThavUBr3qfHEdklJ"
-      },
-      "artists": [
-        {
-          "name": "Dustin O'Halloran",
-          "url": "https://open.spotify.com/artist/6UEYawMcp2M4JFoXVOtZEq"
-        },
-        {
-          "name": "Herd\u00eds Stef\u00e1nsd\u00f3ttir",
-          "url": "https://open.spotify.com/artist/0xRIjKySnNpnV03oWjodrb"
-        }
-      ],
-      "duration_ms": 123528,
-      "name": "Fata Morgana",
-      "url": "https://open.spotify.com/track/3XQzq3w5v0lQmBJKnUjf7C"
-    },
-    {
-      "added_at": "2026-11-06 04:00:48",
-      "album": {
         "name": "Vernacular: Jlin, David Longstreth, Philip Glass",
         "url": "https://open.spotify.com/album/0baf5ab40M7yJL1FZtKBI7"
       },
@@ -3427,6 +3407,42 @@
     {
       "added_at": "2026-11-06 04:00:48",
       "album": {
+        "name": "Hoover",
+        "url": "https://open.spotify.com/album/2ROBgbg8qM9LX0HqwE6RGZ"
+      },
+      "artists": [
+        {
+          "name": "Isobel Waller-Bridge",
+          "url": "https://open.spotify.com/artist/1Iy8JKDTXo8e9HmyTCaTOZ"
+        }
+      ],
+      "duration_ms": 340218,
+      "name": "Hoover",
+      "url": "https://open.spotify.com/track/06nFOtNdgdWVbYZvVzJnmw"
+    },
+    {
+      "added_at": "2026-11-06 04:00:48",
+      "album": {
+        "name": "The Essex Serpent (Apple TV+ Original Series Soundtrack)",
+        "url": "https://open.spotify.com/album/2pxVDTThavUBr3qfHEdklJ"
+      },
+      "artists": [
+        {
+          "name": "Dustin O'Halloran",
+          "url": "https://open.spotify.com/artist/6UEYawMcp2M4JFoXVOtZEq"
+        },
+        {
+          "name": "Herd\u00eds Stef\u00e1nsd\u00f3ttir",
+          "url": "https://open.spotify.com/artist/0xRIjKySnNpnV03oWjodrb"
+        }
+      ],
+      "duration_ms": 123528,
+      "name": "Fata Morgana",
+      "url": "https://open.spotify.com/track/3XQzq3w5v0lQmBJKnUjf7C"
+    },
+    {
+      "added_at": "2026-11-06 04:00:48",
+      "album": {
         "name": "Eagles Flight",
         "url": "https://open.spotify.com/album/62mVwJekp8RwY5QFLpLgx0"
       },
@@ -3443,18 +3459,22 @@
     {
       "added_at": "2026-11-06 04:00:48",
       "album": {
-        "name": "Sketches",
-        "url": "https://open.spotify.com/album/3dVKfv3fNcsBUnyhapuXBj"
+        "name": "Ae Fond Kiss",
+        "url": "https://open.spotify.com/album/2jwLmcOympsOwp9ai4PuEx"
       },
       "artists": [
         {
-          "name": "Heavy Joy",
-          "url": "https://open.spotify.com/artist/1wePsEhvYwt61C6B4OryZ7"
+          "name": "Trad. arr. Mhairi Hall",
+          "url": "https://open.spotify.com/artist/3kcnHRIJVuqGHete5dwvkL"
+        },
+        {
+          "name": "Mhairi Hall",
+          "url": "https://open.spotify.com/artist/7rUCuF3Bcy29nwnnX1xAuf"
         }
       ],
-      "duration_ms": 157524,
-      "name": "Enough",
-      "url": "https://open.spotify.com/track/0sY2m9IXMNzsSH4hygKX2S"
+      "duration_ms": 219570,
+      "name": "Ae Fond Kiss",
+      "url": "https://open.spotify.com/track/38mXFnlp9LSFKx7wZcnsJF"
     },
     {
       "added_at": "2026-11-06 04:00:48",
@@ -3483,38 +3503,34 @@
     {
       "added_at": "2026-11-06 04:00:48",
       "album": {
-        "name": "Hoover",
-        "url": "https://open.spotify.com/album/2ROBgbg8qM9LX0HqwE6RGZ"
+        "name": "Sketches",
+        "url": "https://open.spotify.com/album/3dVKfv3fNcsBUnyhapuXBj"
       },
       "artists": [
         {
-          "name": "Isobel Waller-Bridge",
-          "url": "https://open.spotify.com/artist/1Iy8JKDTXo8e9HmyTCaTOZ"
+          "name": "Heavy Joy",
+          "url": "https://open.spotify.com/artist/1wePsEhvYwt61C6B4OryZ7"
         }
       ],
-      "duration_ms": 340218,
-      "name": "Hoover",
-      "url": "https://open.spotify.com/track/06nFOtNdgdWVbYZvVzJnmw"
+      "duration_ms": 157524,
+      "name": "Enough",
+      "url": "https://open.spotify.com/track/0sY2m9IXMNzsSH4hygKX2S"
     },
     {
       "added_at": "2026-11-06 04:00:48",
       "album": {
-        "name": "Ae Fond Kiss",
-        "url": "https://open.spotify.com/album/2jwLmcOympsOwp9ai4PuEx"
+        "name": "Horizons",
+        "url": "https://open.spotify.com/album/1No9s0CqX1i0Ic9W1dpo9W"
       },
       "artists": [
         {
-          "name": "Trad. arr. Mhairi Hall",
-          "url": "https://open.spotify.com/artist/3kcnHRIJVuqGHete5dwvkL"
-        },
-        {
-          "name": "Mhairi Hall",
-          "url": "https://open.spotify.com/artist/7rUCuF3Bcy29nwnnX1xAuf"
+          "name": "Manuel Zito",
+          "url": "https://open.spotify.com/artist/1D1r09YGuPm6Q5L8KeQcd2"
         }
       ],
-      "duration_ms": 219570,
-      "name": "Ae Fond Kiss",
-      "url": "https://open.spotify.com/track/38mXFnlp9LSFKx7wZcnsJF"
+      "duration_ms": 225155,
+      "name": "Horizons",
+      "url": "https://open.spotify.com/track/6vLmtliG9VEbJDKjasnxF8"
     },
     {
       "added_at": "2026-11-06 04:00:48",
@@ -3543,18 +3559,18 @@
     {
       "added_at": "2026-11-06 04:00:48",
       "album": {
-        "name": "Horizons",
-        "url": "https://open.spotify.com/album/1No9s0CqX1i0Ic9W1dpo9W"
+        "name": "Chapter 2 - The Pale Echo",
+        "url": "https://open.spotify.com/album/2wqnGeIKaiPdPRg90NSgog"
       },
       "artists": [
         {
-          "name": "Manuel Zito",
-          "url": "https://open.spotify.com/artist/1D1r09YGuPm6Q5L8KeQcd2"
+          "name": "Dan Lambert",
+          "url": "https://open.spotify.com/artist/4Z9sG8VEIAR6v4wlMncoNI"
         }
       ],
-      "duration_ms": 225155,
-      "name": "Horizons",
-      "url": "https://open.spotify.com/track/6vLmtliG9VEbJDKjasnxF8"
+      "duration_ms": 202104,
+      "name": "Chapter 2 - The Pale Echo",
+      "url": "https://open.spotify.com/track/59dpHN2awqW3geESs2whxp"
     },
     {
       "added_at": "2026-11-06 04:00:48",
@@ -3571,22 +3587,6 @@
       "duration_ms": 134882,
       "name": "Remade",
       "url": "https://open.spotify.com/track/4zKRkXNiKMDHMAm6p36e6Y"
-    },
-    {
-      "added_at": "2026-11-06 04:00:48",
-      "album": {
-        "name": "Chapter 2 - The Pale Echo",
-        "url": "https://open.spotify.com/album/2wqnGeIKaiPdPRg90NSgog"
-      },
-      "artists": [
-        {
-          "name": "Dan Lambert",
-          "url": "https://open.spotify.com/artist/4Z9sG8VEIAR6v4wlMncoNI"
-        }
-      ],
-      "duration_ms": 202104,
-      "name": "Chapter 2 - The Pale Echo",
-      "url": "https://open.spotify.com/track/59dpHN2awqW3geESs2whxp"
     },
     {
       "added_at": "2026-11-06 04:00:48",

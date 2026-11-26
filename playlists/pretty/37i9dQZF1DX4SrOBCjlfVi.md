@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4SrOBCjlfVi.md) - [plain]
 
 > All the New Joints featuring YFN Lucci, Playboi Carti, Gunna and more!
 
-[Spotify](https://open.spotify.com/user/spotify) - 398,519 likes - 48 songs - 2 hr 11 min
+[Spotify](https://open.spotify.com/user/spotify) - 398,564 likes - 48 songs - 2 hr 11 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -57,4 +57,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4SrOBCjlfVi.md) - [plain]
 | 47 | [2 Turnt](https://open.spotify.com/track/3aaGTMpD1mss6tIITGUUIj) | [Paradise Modd](https://open.spotify.com/artist/6kUhRTzEWqrPjoZcFa09SN) | [Extortion Land](https://open.spotify.com/album/2xiotS83T9TB2DcJAF4jJl) | 1:52 |
 | 48 | [Rob The Mannequin](https://open.spotify.com/track/5zd6L0B5Sscf9zdd1hwbY7) | [BEO Lil Kenny](https://open.spotify.com/artist/5p2KvjX2qOhaC291qgJc2b) | [Rob The Mannequin](https://open.spotify.com/album/168huhHB5uUxj89icbCe2m) | 2:27 |
 
-Snapshot ID: `AAAAAOQelfcIihyZeG9gABbMA/QeIFbZ`
+Snapshot ID: `AAAAAP2p+OypkhX4FCTOnSyT0g7rtr1V`

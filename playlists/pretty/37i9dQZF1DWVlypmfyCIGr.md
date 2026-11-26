@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVlypmfyCIGr.md) - [plain]
 
 > 独自の進化を遂げる日本のポップ文化。「キラキラポップ」なナンバーをひとつのプレイリストに。Curated by ふくりゅう（音楽コンシェルジュ）Cover: 新東京
 
-[Spotify](https://open.spotify.com/user/spotify) - 79,857 likes - 79 songs - 4 hr 29 min
+[Spotify](https://open.spotify.com/user/spotify) - 79,854 likes - 79 songs - 4 hr 29 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -88,4 +88,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVlypmfyCIGr.md) - [plain]
 | 78 | [意地悪電波](https://open.spotify.com/track/2cGmeIuBQXMP6GOO3Ia6lM) | [アマイワナ](https://open.spotify.com/artist/78khO3LkYjAc4VSpHOJjrH) | [Buffet](https://open.spotify.com/album/7B5eGkS5yFY8EpmDApno32) | 3:25 |
 | 79 | [地獄に手を振って](https://open.spotify.com/track/5hbENPPyEZXU522bLkLx91) | [Akasick](https://open.spotify.com/artist/2P2L4d4iTJgApjJrawjPVT) | [DOPA](https://open.spotify.com/album/2fH17q5acCBXcear5nTsk3) | 4:28 |
 
-Snapshot ID: `AAAAACyFjcxQN5anR4xIlQGkRoJ7qATz`
+Snapshot ID: `AAAAAAGnk2gO3igTbe9XzMDeAi1RKOQ2`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7vZYLzFGQXc.md) - [plain]
 
 > 피어나고 있는 한국의 재능들을 만나보세요! \(Cover: Munan\) \(Meet the emerging talents of Korea!\)
 
-[Spotify](https://open.spotify.com/user/spotify) - 63,776 likes - 50 songs - 2 hr 41 min
+[Spotify](https://open.spotify.com/user/spotify) - 63,772 likes - 50 songs - 2 hr 41 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7vZYLzFGQXc.md) - [plain]
 | 49 | [POV](https://open.spotify.com/track/0dFcb7vqApkNmR34V4GvsC) | [RYUL](https://open.spotify.com/artist/6NA2UPZOjtjgrd4aCEiscq) | [POV](https://open.spotify.com/album/5aibBYViDsoq5nvXNWxDsi) | 2:18 |
 | 50 | [Bloom and Wither](https://open.spotify.com/track/2dkWvjHWcll9kepV7F2NBF) | [Saebit](https://open.spotify.com/artist/3Ry1kQJLsbsMJi5W2p27IX) | [Bloom and Wither](https://open.spotify.com/album/6wqBWJLivks8w3bz39d6Gq) | 3:49 |
 
-Snapshot ID: `AAAAAEJJ1MotCsubL9WTK7ERiO1Zdo74`
+Snapshot ID: `AAAAAJZ8Vdl9Y0M6OKxD33dz/fIkFxid`

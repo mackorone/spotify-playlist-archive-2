@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2021-12-28",
-  "description": "Celebrate Christmas with these soulful and classic songs sung by some of your favorite Gospel artists. Cover: Yolanda Adams",
+  "description": "Celebrate Christmas with these soulful and classic songs sung by some of your favorite Gospel artists. Cover: CeCe Winans",
   "name": "Gospel Christmas",
   "tracks": [
     {
@@ -412,7 +412,7 @@
       ],
       "date_added": "2021-12-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-26",
       "duration_ms": 230866,
       "name": "Christmas Is",
       "url": "https://open.spotify.com/track/27Eci1q6LObKgx6wL0u0tM"
@@ -510,7 +510,7 @@
       ],
       "date_added": "2025-11-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-26",
       "duration_ms": 191573,
       "name": "Christmas Time Has Come",
       "url": "https://open.spotify.com/track/0JDniarTARP2tibPvHenUH"
@@ -670,7 +670,7 @@
       ],
       "date_added": "2025-12-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-26",
       "duration_ms": 233473,
       "name": "Drummer Boy (feat. Adriann Lewis-Freeman)",
       "url": "https://open.spotify.com/track/7EaFQgpd9UNj73DzocSehF"
@@ -1069,6 +1069,28 @@
     },
     {
       "album": {
+        "name": "Christmas - The More, The Merrier",
+        "url": "https://open.spotify.com/album/2tKFyzIX6HXIHASFUKFP0k"
+      },
+      "artists": [
+        {
+          "name": "Natalie Grant",
+          "url": "https://open.spotify.com/artist/6KVnMm856M8CHHBCw53Ihh"
+        },
+        {
+          "name": "Blessing Offor",
+          "url": "https://open.spotify.com/artist/55qfDfgj4Qi3JGe6KpqGtC"
+        }
+      ],
+      "date_added": "2026-11-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 230746,
+      "name": "Go Tell It On The Mountain",
+      "url": "https://open.spotify.com/track/5M7bGYrXZq6XSOGRpat8gg"
+    },
+    {
+      "album": {
         "name": "A Very Maverick Christmas",
         "url": "https://open.spotify.com/album/6Z3lZl48YoYESThd0iKkyQ"
       },
@@ -1114,6 +1136,28 @@
       "duration_ms": 167741,
       "name": "Go, Tell It On The Mountain",
       "url": "https://open.spotify.com/track/4RMsFcF3jHkdri4rwfZH0F"
+    },
+    {
+      "album": {
+        "name": "God With Us",
+        "url": "https://open.spotify.com/album/3sb72IrRuYdcJbqarwzOzN"
+      },
+      "artists": [
+        {
+          "name": "Kenny Lattimore",
+          "url": "https://open.spotify.com/artist/1UjTUqWfGkof4L5HO5NmzP"
+        },
+        {
+          "name": "Michelle Williams",
+          "url": "https://open.spotify.com/artist/6t7nbFAc2dUa7oNu7kBOui"
+        }
+      ],
+      "date_added": "2026-11-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 203675,
+      "name": "God With Us",
+      "url": "https://open.spotify.com/track/2o9JnBzH3GfW7QFkPYsS6F"
     },
     {
       "album": {
@@ -1810,7 +1854,7 @@
       ],
       "date_added": "2023-11-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-26",
       "duration_ms": 224782,
       "name": "Jesus Oh What a Wonderful Child",
       "url": "https://open.spotify.com/track/6F6mzjDsaDHYxxFyWtMwTt"
@@ -1988,6 +2032,24 @@
       "duration_ms": 244462,
       "name": "Joy to the World",
       "url": "https://open.spotify.com/track/5Ta266xo0Lzq5c4Kgm4rot"
+    },
+    {
+      "album": {
+        "name": "Joy To The World",
+        "url": "https://open.spotify.com/album/1fSb78SFbwWw589b7yCz3r"
+      },
+      "artists": [
+        {
+          "name": "Madison Watkins",
+          "url": "https://open.spotify.com/artist/4BCf8cjf2cyqkwksisjnNT"
+        }
+      ],
+      "date_added": "2026-11-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 175718,
+      "name": "Joy To The World",
+      "url": "https://open.spotify.com/track/3roRnmVVH8ZdjeB6CcuWMH"
     },
     {
       "album": {
@@ -2528,7 +2590,7 @@
       ],
       "date_added": "2021-12-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-26",
       "duration_ms": 259026,
       "name": "Merry Christ-Mas (feat. Cory Condrey, Vashawn Mitchell, William Mcdowell, Zebulon Ellis, Joann Rosario Condrey & Erica Cumbo)",
       "url": "https://open.spotify.com/track/2m1QvyW8nEGt8lvd460ol1"
@@ -2608,6 +2670,28 @@
       "duration_ms": 234478,
       "name": "Mothers And Shepherds",
       "url": "https://open.spotify.com/track/4dNp6tEx0fcbiFGwF40h3k"
+    },
+    {
+      "album": {
+        "name": "My Holiday (feat. Yolanda Adams)",
+        "url": "https://open.spotify.com/album/0ZWubfD4CygsQwrtABPIJw"
+      },
+      "artists": [
+        {
+          "name": "Taylor Ayanna",
+          "url": "https://open.spotify.com/artist/1DiI4vXMOkFgot9HtfFbKA"
+        },
+        {
+          "name": "Yolanda Adams",
+          "url": "https://open.spotify.com/artist/47opbYEKDjXnRk9uLscp11"
+        }
+      ],
+      "date_added": "2026-11-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 253947,
+      "name": "My Holiday (feat. Yolanda Adams)",
+      "url": "https://open.spotify.com/track/5NT5vgX0GyCuhV3DPesziT"
     },
     {
       "album": {
@@ -2932,6 +3016,24 @@
       "duration_ms": 369014,
       "name": "O Holy Night - Amapiano",
       "url": "https://open.spotify.com/track/3QI8wVjDKqVMJAc5jDfHei"
+    },
+    {
+      "album": {
+        "name": "O Holy Night! - Main Mix (Visualizer)",
+        "url": "https://open.spotify.com/album/5VYoik02zSxZOyWyZ1lus4"
+      },
+      "artists": [
+        {
+          "name": "Bryan Andrew Wilson",
+          "url": "https://open.spotify.com/artist/1QgAQ6qXAMN1Gkxk0AEy7i"
+        }
+      ],
+      "date_added": "2026-11-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 300884,
+      "name": "O Holy Night! - Main Mix - Visualizer",
+      "url": "https://open.spotify.com/track/2caAulTc17PXmMU3zYEgwS"
     },
     {
       "album": {
@@ -3276,7 +3378,7 @@
       ],
       "date_added": "2025-11-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-26",
       "duration_ms": 231217,
       "name": "Shepherd's Song",
       "url": "https://open.spotify.com/track/5l0pWCEhWHxxRuciJAB6Vk"
@@ -3324,6 +3426,28 @@
       "duration_ms": 200760,
       "name": "Silent Night",
       "url": "https://open.spotify.com/track/2EtIX4Jay8443y66nzTTpr"
+    },
+    {
+      "album": {
+        "name": "Silent Night (The Choir Room Version)",
+        "url": "https://open.spotify.com/album/5MoI4qDXqwgwwAGzeWGe0P"
+      },
+      "artists": [
+        {
+          "name": "The Choir Room",
+          "url": "https://open.spotify.com/artist/6PykrTPtMnj4H6EETYYOgK"
+        },
+        {
+          "name": "Dwan Hill",
+          "url": "https://open.spotify.com/artist/3JviNpSnB2gu3sUo8qdEOQ"
+        }
+      ],
+      "date_added": "2026-11-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 267385,
+      "name": "Silent Night - The Choir Room Version",
+      "url": "https://open.spotify.com/track/6VudtYhPDnmk7uWrkSdC9v"
     },
     {
       "album": {
@@ -3618,6 +3742,24 @@
       "duration_ms": 160941,
       "name": "The Greatest Gift",
       "url": "https://open.spotify.com/track/3ZWgYAhbhihQA4cTrbCSCi"
+    },
+    {
+      "album": {
+        "name": "To All A Good Night (The King Has Come)",
+        "url": "https://open.spotify.com/album/73VTZ6Pk4AnHIVrGzS5rUB"
+      },
+      "artists": [
+        {
+          "name": "Blessing Offor",
+          "url": "https://open.spotify.com/artist/55qfDfgj4Qi3JGe6KpqGtC"
+        }
+      ],
+      "date_added": "2026-11-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 198043,
+      "name": "The King Has Come",
+      "url": "https://open.spotify.com/track/5Zv3O6p3PoOXa8ewPWx6e3"
     },
     {
       "album": {
@@ -3986,7 +4128,7 @@
       ],
       "date_added": "2021-12-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-26",
       "duration_ms": 118186,
       "name": "When Was Jesus Born?",
       "url": "https://open.spotify.com/track/5z0XBkinFlgjmpbKou7pjc"

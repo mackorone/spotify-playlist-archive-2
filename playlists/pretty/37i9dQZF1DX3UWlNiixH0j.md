@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3UWlNiixH0j.md) - [plain]
 
 > 日本のインディー・サウンドを特集。The freshest indie sounds from Japan\. cover: Luby Sparks
 
-[Spotify](https://open.spotify.com/user/spotify) - 72,261 likes - 100 songs - 6 hr 16 min
+[Spotify](https://open.spotify.com/user/spotify) - 72,269 likes - 100 songs - 6 hr 16 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3UWlNiixH0j.md) - [plain]
 | 99 | [ななつめ](https://open.spotify.com/track/4PfL6cWgzWy2wdY1UYpRXj) | [dot10](https://open.spotify.com/artist/58pGPc1rnnahWbqlSRZ2RK), [AUBREI](https://open.spotify.com/artist/2EIJu2ZARmuYscXGhriV14) | [ななつめ](https://open.spotify.com/album/4s1ycnXMwUTqAlIFdUS8WH) | 4:16 |
 | 100 | [Join Hands](https://open.spotify.com/track/6R49m0PINar3VTpLMZCWPX) | [Gi Gi Giraffe](https://open.spotify.com/artist/1qUhUzVHqproHHETlYFDcU) | [Join Hands](https://open.spotify.com/album/4fWM8DsXTmVvyZ0HBv93Li) | 3:42 |
 
-Snapshot ID: `AAAAAI1yneHPU2g9gqIaw0fs4KkdN4sA`
+Snapshot ID: `AAAAAKLJDPZ9uIv6YsDvMnxiBPfJOnvq`

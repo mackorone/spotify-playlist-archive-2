@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX35sy3iPnb31.md) - [plain]
 
 > The best Canadian songs of the month, handpicked by Spotify Canada editors\. Cover: Natek
 
-[Spotify](https://open.spotify.com/user/spotify) - 3,009 likes - 50 songs - 2 hr 53 min
+[Spotify](https://open.spotify.com/user/spotify) - 3,017 likes - 50 songs - 2 hr 53 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -17,16 +17,16 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX35sy3iPnb31.md) - [plain]
 | 7 | [Power](https://open.spotify.com/track/4AgFz88NHRADgVAV2MzOSq) | [Sophia Stel](https://open.spotify.com/artist/18w9tq3c2x11niEFNYqeex) | [the greatest album of all time](https://open.spotify.com/album/604KxCjle0KCw0VXdoMNgj) | 3:53 |
 | 8 | [Stuck on You](https://open.spotify.com/track/0dLrM9SueB4RmdxSWEc7fh) | [Alex Crichton](https://open.spotify.com/artist/25JtC3l1STnE2GptoHKXdD) | [Stuck on You](https://open.spotify.com/album/3QjrVoDWDMx0pSV34mLM0o) | 3:28 |
 | 9 | [Goodbye Forever](https://open.spotify.com/track/4AiP0RkzF5emyMXKAmf7gK) | [TALK](https://open.spotify.com/artist/6mx5dgNlLjrDDMyFsgrW87) | [Goodbye Forever](https://open.spotify.com/album/2fRizoEa3SWMBxQptkjTcb) | 4:04 |
-| 10 | [Memories](https://open.spotify.com/track/403gawZsw405TxgN5LIuDp) | [Charlotte Cardin](https://open.spotify.com/artist/1G0YV9WooUBjrwDq0Q7EFK) | [Memories](https://open.spotify.com/album/7CheQyCUw5eah8GradRZ4q) | 3:04 |
-| 11 | [oh well!](https://open.spotify.com/track/1WEIB44lAiiGxpmfCPDu2t) | [livingthing](https://open.spotify.com/artist/4DSxrJMbWwzezTooMm0ZTt) | [oh well!](https://open.spotify.com/album/6MBa9ByIC9IxnR5kkG2m4C) | 3:09 |
+| 10 | [oh well!](https://open.spotify.com/track/1WEIB44lAiiGxpmfCPDu2t) | [livingthing](https://open.spotify.com/artist/4DSxrJMbWwzezTooMm0ZTt) | [oh well!](https://open.spotify.com/album/6MBa9ByIC9IxnR5kkG2m4C) | 3:09 |
+| 11 | [Memories](https://open.spotify.com/track/403gawZsw405TxgN5LIuDp) | [Charlotte Cardin](https://open.spotify.com/artist/1G0YV9WooUBjrwDq0Q7EFK) | [Memories](https://open.spotify.com/album/7CheQyCUw5eah8GradRZ4q) | 3:04 |
 | 12 | [FOR SIXXX IN THE MORNIN \(with Samara Cyn\)](https://open.spotify.com/track/5hGnrxC9mJHSZolU7DZPiA) | [Jessie Reyez](https://open.spotify.com/artist/3KedxarmBCyFBevnqQHy3P), [Samara Cyn](https://open.spotify.com/artist/4nqQTosM2Mbg7iRjvJU0N0) | [FOR SIXXX IN THE MORNIN \(with Samara Cyn\)](https://open.spotify.com/album/2RG13AEWo5I4OQaHuvtJ5N) | 3:54 |
-| 13 | [Good By Now](https://open.spotify.com/track/714MAXEt0p1j3XDCyJ9uZT) | [Thelma & James](https://open.spotify.com/artist/60WW5HfHRijpxoTRlaU8BE) | [Good By Now](https://open.spotify.com/album/3R4ZvpbQntDFuVCJF7Rw4n) | 3:03 |
-| 14 | [no self respect!](https://open.spotify.com/track/6aU6LB5zF7JiKtmMBw6I1V) | [Jahson Paynter](https://open.spotify.com/artist/73SbrIktK3Na0OTmhZpMy8) | [no self respect!](https://open.spotify.com/album/2cE9NykoNpph3aah241eKp) | 3:01 |
+| 13 | [no self respect!](https://open.spotify.com/track/6aU6LB5zF7JiKtmMBw6I1V) | [Jahson Paynter](https://open.spotify.com/artist/73SbrIktK3Na0OTmhZpMy8) | [no self respect!](https://open.spotify.com/album/2cE9NykoNpph3aah241eKp) | 3:01 |
+| 14 | [Good By Now](https://open.spotify.com/track/714MAXEt0p1j3XDCyJ9uZT) | [Thelma & James](https://open.spotify.com/artist/60WW5HfHRijpxoTRlaU8BE) | [Good By Now](https://open.spotify.com/album/3R4ZvpbQntDFuVCJF7Rw4n) | 3:03 |
 | 15 | [THE ALLIGATOR](https://open.spotify.com/track/68CP4zwZSuMG623V8fQ65G) | [Goldie Boutilier](https://open.spotify.com/artist/392WuM1Yb4QRI0GG4epyn5) | [THE ALLIGATOR](https://open.spotify.com/album/60w2zFQHJK1wpWXSI73npq) | 4:41 |
 | 16 | [Private Lives](https://open.spotify.com/track/1FuKAmuSC09b2xBlyVA1Ks) | [Death From Above 1979](https://open.spotify.com/artist/18H0sAptzdwid08XGg1Lcj) | [Private Lives](https://open.spotify.com/album/4c2z5M8fhqX4PpS85aEltq) | 3:05 |
 | 17 | [MADE 4 THIS](https://open.spotify.com/track/3rwO8smwGsmi09PJ8qXyFp) | [Jessie Reyez](https://open.spotify.com/artist/3KedxarmBCyFBevnqQHy3P) | [MADE 4 THIS](https://open.spotify.com/album/1ErdNrarD5OecbKB1bVdNT) | 2:45 |
-| 18 | [gambling](https://open.spotify.com/track/26ujZuOhs0XQOySrfxhj2z) | [ridgeclub](https://open.spotify.com/artist/4MT74NV1GnOKWtwpEVRRu1) | [crawlspace](https://open.spotify.com/album/1omw5Cwq5erJu1tcEBF8s8) | 2:44 |
-| 19 | [hold me!](https://open.spotify.com/track/2ykWnVHY5hiqZiMPhv4YOY) | [Jahson Paynter](https://open.spotify.com/artist/73SbrIktK3Na0OTmhZpMy8) | [hold me, don't hold back!](https://open.spotify.com/album/5ZcevGakdEaDIK8R2JSH1r) | 2:22 |
+| 18 | [hold me!](https://open.spotify.com/track/2ykWnVHY5hiqZiMPhv4YOY) | [Jahson Paynter](https://open.spotify.com/artist/73SbrIktK3Na0OTmhZpMy8) | [hold me, don't hold back!](https://open.spotify.com/album/5ZcevGakdEaDIK8R2JSH1r) | 2:22 |
+| 19 | [gambling](https://open.spotify.com/track/26ujZuOhs0XQOySrfxhj2z) | [ridgeclub](https://open.spotify.com/artist/4MT74NV1GnOKWtwpEVRRu1) | [crawlspace](https://open.spotify.com/album/1omw5Cwq5erJu1tcEBF8s8) | 2:44 |
 | 20 | [Saisons](https://open.spotify.com/track/5kMrK5lhPuOrUwnjtgIiLg) | [Aswell](https://open.spotify.com/artist/7ircrxU9ilF88T3dfIP6yc) | [Saisons](https://open.spotify.com/album/09IwKg2UvRi20lV67LKtlk) | 3:11 |
 | 21 | [Bogus](https://open.spotify.com/track/7d0HmRRRzBFYJ2HBDVATl2) | [Fog Lake](https://open.spotify.com/artist/04GCjO1r1hPelibCUq9S8H) | [Bogus](https://open.spotify.com/album/4f0LSP6WVbPOJ89NrASCUM) | 3:55 |
 | 22 | [Four Seasons](https://open.spotify.com/track/3I0KpA2i14kXzK0ggPWp3J) | [Merna](https://open.spotify.com/artist/0aytGYP0dzM1d37B7C31qK) | [For Seasons: Love in a Time of War](https://open.spotify.com/album/7HoEzXWmgLQNt4LAXPFWiy) | 4:27 |
@@ -39,8 +39,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX35sy3iPnb31.md) - [plain]
 | 29 | [Black Cloud](https://open.spotify.com/track/7jta9IhHuBzggV5khD9o4v) | [Matt Holubowski](https://open.spotify.com/artist/384YLF1kNQk9Ccl8pn7BSO) | [Black Cloud](https://open.spotify.com/album/2D0ndfrBJoVA45FnDQC7cS) | 4:29 |
 | 30 | [Le mauvais temps](https://open.spotify.com/track/2kTHBL6bH995EHEjBFuh3a) | [Marianne Beaulieu](https://open.spotify.com/artist/7dqQORpq3dlRfhgMIO58uV) | [Le mauvais temps](https://open.spotify.com/album/5UHSXhOFwu9rDBuQ1VbkuD) | 3:43 |
 | 31 | [Tu choisis comment tu aimes](https://open.spotify.com/track/43pLjcxmDfrNVXySUUvnFb) | [Valence](https://open.spotify.com/artist/64SLcw5gWgSlsdXNQfEs44) | [Tu choisis comment tu aimes](https://open.spotify.com/album/1G7gk4EN7YcoYfsyfTUAFl) | 4:07 |
-| 32 | [SOVEREIGN LAND](https://open.spotify.com/track/4AEQsgreh7kZOOGGXWizMo) | [Jessie Reyez](https://open.spotify.com/artist/3KedxarmBCyFBevnqQHy3P) | [SOFTER](https://open.spotify.com/album/33wM3dzPI4rDo43KEfN3ya) | 2:13 |
-| 33 | [Tout ce que tu fais c'est de la musique](https://open.spotify.com/track/7kcoZ1f6a3KEvk0HLHcrr0) | [Jay Essiambre](https://open.spotify.com/artist/3EReot0tNC1QWReYq1OBy8) | [Tout ce que tu fais c'est de la musique](https://open.spotify.com/album/219CwHX00N5Bg9xFbtu9Xq) | 3:09 |
+| 32 | [Tout ce que tu fais c'est de la musique](https://open.spotify.com/track/7kcoZ1f6a3KEvk0HLHcrr0) | [Jay Essiambre](https://open.spotify.com/artist/3EReot0tNC1QWReYq1OBy8) | [Tout ce que tu fais c'est de la musique](https://open.spotify.com/album/219CwHX00N5Bg9xFbtu9Xq) | 3:09 |
+| 33 | [SOVEREIGN LAND](https://open.spotify.com/track/4AEQsgreh7kZOOGGXWizMo) | [Jessie Reyez](https://open.spotify.com/artist/3KedxarmBCyFBevnqQHy3P) | [SOFTER](https://open.spotify.com/album/33wM3dzPI4rDo43KEfN3ya) | 2:13 |
 | 34 | [The 4](https://open.spotify.com/track/5qdJdovmMW639cxGDXs9X9) | [Rosado](https://open.spotify.com/artist/09I1DVqDIIWMfy9wGUe6gj), [who's lara?](https://open.spotify.com/artist/0coM5ZXKtWld0nP8nIifbq), [$anteria](https://open.spotify.com/artist/30KpA4NugE4H0PLXjC8AU7) | [The 4](https://open.spotify.com/album/7s9yJdZXLzJ2GcVNG1yk6s) | 3:24 |
 | 35 | [White Claw Addict](https://open.spotify.com/track/3Hg6WTPbnBdWiOPXyaTu80) | [Brat Star](https://open.spotify.com/artist/75paBOTrEufCOCKV1n4Cn8) | [Southern Ontario Gothic](https://open.spotify.com/album/7bf6QpwPckalVCvbiGSYtO) | 3:07 |
 | 36 | [Make it Happen](https://open.spotify.com/track/5RzfYv0mDIN2rrHi2oaATP) | [Caroline Marie Brooks](https://open.spotify.com/artist/3zLloo75fc1QrUzWcsN1Pe) | [Light and Matter](https://open.spotify.com/album/5LPsf1tBh07GnKUHG2HV6d) | 2:54 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX35sy3iPnb31.md) - [plain]
 | 49 | [Playboi 3arbi](https://open.spotify.com/track/4dbTXS5XPFokCcDum11PeB) | [Nawfal](https://open.spotify.com/artist/0YTJRguouZtIVP0xFGLfkr), [DJ White Socks](https://open.spotify.com/artist/0j0eSYnIP4NmdBRRMRvdUf) | [Playboi 3arbi](https://open.spotify.com/album/1TUo9lSxWIWZh7svWQnF7F) | 1:53 |
 | 50 | [Savage](https://open.spotify.com/track/5XiiA5KKvQCNVMxDEC5fFE) | [IDHEM](https://open.spotify.com/artist/0ev3YqTtoPa2dtCEG2HNDa) | [Sérénade / Savage](https://open.spotify.com/album/6M4JE1DAu0Go692WDk3LxF) | 1:49 |
 
-Snapshot ID: `AAAAAHF1+TeL4T+A5IczcfJk8QkowSM/`
+Snapshot ID: `AAAAAPjNK9x8A8jm0iANIuYqedcQwpn8`

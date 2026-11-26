@@ -1,12 +1,12 @@
 {
   "description": "Bossa Nova e MPB como acompanhamento / Bossa y m\u00fasica brasile\u00f1a para todo momento.",
-  "num_followers": 282504,
+  "num_followers": 282540,
   "original_name": "Caf\u00e9 Bossa",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAAA2ZYhgrcO6YxT9wROsFCXniUFT",
+  "snapshot_id": "AAAAAFSGsZnChmbI3i5fo13ysmyqTAY+",
   "tracks": [
     {
       "added_at": "2026-11-20 03:01:08",
@@ -615,6 +615,22 @@
     {
       "added_at": "2026-11-20 03:01:08",
       "album": {
+        "name": "Semente Chorojazz",
+        "url": "https://open.spotify.com/album/06sIxnlL5TlCXfehFM33m9"
+      },
+      "artists": [
+        {
+          "name": "Z\u00e9 Paulo Becker",
+          "url": "https://open.spotify.com/artist/0dsqfNACo3h5n5Ed6rgKG2"
+        }
+      ],
+      "duration_ms": 267000,
+      "name": "Sambete",
+      "url": "https://open.spotify.com/track/5FLvvnxzuhVPZIgDroYY6I"
+    },
+    {
+      "added_at": "2026-11-20 03:01:08",
+      "album": {
         "name": "Bossa nova - Girls from Bela Vista",
         "url": "https://open.spotify.com/album/5askH1Yqbbwr3fRcFHawxT"
       },
@@ -635,22 +651,6 @@
       "duration_ms": 264722,
       "name": "Girls from Bela Vista",
       "url": "https://open.spotify.com/track/1av15BaMO4D40o7ndvriul"
-    },
-    {
-      "added_at": "2026-11-20 03:01:08",
-      "album": {
-        "name": "Semente Chorojazz",
-        "url": "https://open.spotify.com/album/06sIxnlL5TlCXfehFM33m9"
-      },
-      "artists": [
-        {
-          "name": "Z\u00e9 Paulo Becker",
-          "url": "https://open.spotify.com/artist/0dsqfNACo3h5n5Ed6rgKG2"
-        }
-      ],
-      "duration_ms": 267000,
-      "name": "Sambete",
-      "url": "https://open.spotify.com/track/5FLvvnxzuhVPZIgDroYY6I"
     },
     {
       "added_at": "2026-11-20 03:01:08",
@@ -719,26 +719,6 @@
     {
       "added_at": "2026-11-20 03:01:08",
       "album": {
-        "name": "Vamos Partir Pro Mundo - a M\u00fasica de Antonio Adolfo e Tib\u00e9rio Gaspar",
-        "url": "https://open.spotify.com/album/7cUhVVnTCLut3xdKKRkCFa"
-      },
-      "artists": [
-        {
-          "name": "Antonio Adolfo",
-          "url": "https://open.spotify.com/artist/41ZdHyHrzKwE6Y8dtDQ1Q9"
-        },
-        {
-          "name": "Leila Pinheiro",
-          "url": "https://open.spotify.com/artist/4YBLaoTWDgIwBB6Y61Y6Nb"
-        }
-      ],
-      "duration_ms": 204394,
-      "name": "Cl\u00e1udia",
-      "url": "https://open.spotify.com/track/6kWTVslk9c1Vm7LCqwnssP"
-    },
-    {
-      "added_at": "2026-11-20 03:01:08",
-      "album": {
         "name": "O Barquinho",
         "url": "https://open.spotify.com/album/3622VWYaBU5dTNqajJ4F5g"
       },
@@ -759,6 +739,26 @@
       "duration_ms": 191255,
       "name": "O Barquinho",
       "url": "https://open.spotify.com/track/3gHziDterpyWKTHnawogcZ"
+    },
+    {
+      "added_at": "2026-11-20 03:01:08",
+      "album": {
+        "name": "Vamos Partir Pro Mundo - a M\u00fasica de Antonio Adolfo e Tib\u00e9rio Gaspar",
+        "url": "https://open.spotify.com/album/7cUhVVnTCLut3xdKKRkCFa"
+      },
+      "artists": [
+        {
+          "name": "Antonio Adolfo",
+          "url": "https://open.spotify.com/artist/41ZdHyHrzKwE6Y8dtDQ1Q9"
+        },
+        {
+          "name": "Leila Pinheiro",
+          "url": "https://open.spotify.com/artist/4YBLaoTWDgIwBB6Y61Y6Nb"
+        }
+      ],
+      "duration_ms": 204394,
+      "name": "Cl\u00e1udia",
+      "url": "https://open.spotify.com/track/6kWTVslk9c1Vm7LCqwnssP"
     },
     {
       "added_at": "2026-11-20 03:01:08",
@@ -995,22 +995,6 @@
     {
       "added_at": "2026-11-20 03:01:08",
       "album": {
-        "name": "Falando de Amor",
-        "url": "https://open.spotify.com/album/4se4CC3WUJQfipHtTYg63y"
-      },
-      "artists": [
-        {
-          "name": "Rosa Collins",
-          "url": "https://open.spotify.com/artist/3ODYl7kPOjcfxnnjHz2zLe"
-        }
-      ],
-      "duration_ms": 256522,
-      "name": "Falando de Amor",
-      "url": "https://open.spotify.com/track/1JeTY5hPf1lTIVWPWkJXQe"
-    },
-    {
-      "added_at": "2026-11-20 03:01:08",
-      "album": {
         "name": "D\u00e1jazz",
         "url": "https://open.spotify.com/album/0wkPikoZerD96sxZPiwBST"
       },
@@ -1023,6 +1007,22 @@
       "duration_ms": 303346,
       "name": "A Voz do Brasil",
       "url": "https://open.spotify.com/track/0WaoKmi9KZWGUNAF7cY1uB"
+    },
+    {
+      "added_at": "2026-11-20 03:01:08",
+      "album": {
+        "name": "Falando de Amor",
+        "url": "https://open.spotify.com/album/4se4CC3WUJQfipHtTYg63y"
+      },
+      "artists": [
+        {
+          "name": "Rosa Collins",
+          "url": "https://open.spotify.com/artist/3ODYl7kPOjcfxnnjHz2zLe"
+        }
+      ],
+      "duration_ms": 256522,
+      "name": "Falando de Amor",
+      "url": "https://open.spotify.com/track/1JeTY5hPf1lTIVWPWkJXQe"
     },
     {
       "added_at": "2026-11-20 03:01:08",
@@ -1091,22 +1091,6 @@
     {
       "added_at": "2026-11-20 03:01:08",
       "album": {
-        "name": "Liberdade, vai",
-        "url": "https://open.spotify.com/album/0HEorW4B4JO0yshM6GELJI"
-      },
-      "artists": [
-        {
-          "name": "NAY PORTTELA",
-          "url": "https://open.spotify.com/artist/01FblsOAQauxrn2oBoVCyW"
-        }
-      ],
-      "duration_ms": 231500,
-      "name": "Liberdade, vai",
-      "url": "https://open.spotify.com/track/2Z93y59jbxTClqyRfihbaX"
-    },
-    {
-      "added_at": "2026-11-20 03:01:08",
-      "album": {
         "name": "Tristeza de N\u00f3s Dois",
         "url": "https://open.spotify.com/album/27um7gvskpbYdoD4QnU1EP"
       },
@@ -1127,22 +1111,18 @@
     {
       "added_at": "2026-11-20 03:01:08",
       "album": {
-        "name": "Eu Canto pro Dia Nascer",
-        "url": "https://open.spotify.com/album/6ttt7ffHs2egzpwuQNHKjN"
+        "name": "Liberdade, vai",
+        "url": "https://open.spotify.com/album/0HEorW4B4JO0yshM6GELJI"
       },
       "artists": [
         {
-          "name": "Delia Fischer",
-          "url": "https://open.spotify.com/artist/4ervLQixU78Enkn5yLnGdG"
-        },
-        {
-          "name": "Roberto Menescal",
-          "url": "https://open.spotify.com/artist/2r1d0isPFggU8QaBzvAWmG"
+          "name": "NAY PORTTELA",
+          "url": "https://open.spotify.com/artist/01FblsOAQauxrn2oBoVCyW"
         }
       ],
-      "duration_ms": 197672,
-      "name": "Eu Canto pro Dia Nascer",
-      "url": "https://open.spotify.com/track/3qvOBE1XoAdmzot2Uak4lx"
+      "duration_ms": 231500,
+      "name": "Liberdade, vai",
+      "url": "https://open.spotify.com/track/2Z93y59jbxTClqyRfihbaX"
     },
     {
       "added_at": "2026-11-20 03:01:08",
@@ -1159,6 +1139,26 @@
       "duration_ms": 240400,
       "name": "Parti Capuri",
       "url": "https://open.spotify.com/track/6Xsb9SUZgyMy1NbpmQrA37"
+    },
+    {
+      "added_at": "2026-11-20 03:01:08",
+      "album": {
+        "name": "Eu Canto pro Dia Nascer",
+        "url": "https://open.spotify.com/album/6ttt7ffHs2egzpwuQNHKjN"
+      },
+      "artists": [
+        {
+          "name": "Delia Fischer",
+          "url": "https://open.spotify.com/artist/4ervLQixU78Enkn5yLnGdG"
+        },
+        {
+          "name": "Roberto Menescal",
+          "url": "https://open.spotify.com/artist/2r1d0isPFggU8QaBzvAWmG"
+        }
+      ],
+      "duration_ms": 197672,
+      "name": "Eu Canto pro Dia Nascer",
+      "url": "https://open.spotify.com/track/3qvOBE1XoAdmzot2Uak4lx"
     },
     {
       "added_at": "2026-11-20 03:01:08",
@@ -1491,6 +1491,26 @@
     {
       "added_at": "2026-11-20 03:01:08",
       "album": {
+        "name": "O Mundo Livre de Menesca & Peranzza",
+        "url": "https://open.spotify.com/album/61LlrDlnAnoNy3CpLC5oFB"
+      },
+      "artists": [
+        {
+          "name": "Roberto Menescal",
+          "url": "https://open.spotify.com/artist/2r1d0isPFggU8QaBzvAWmG"
+        },
+        {
+          "name": "Gilson Peranzzetta",
+          "url": "https://open.spotify.com/artist/3sXiozVfzUa8NLisEvzJZm"
+        }
+      ],
+      "duration_ms": 188044,
+      "name": "Samba Imposs\u00edvel",
+      "url": "https://open.spotify.com/track/7d9k8coOOz9Q91b27cYgIt"
+    },
+    {
+      "added_at": "2026-11-20 03:01:08",
+      "album": {
         "name": "Garra",
         "url": "https://open.spotify.com/album/1CiGUeRx6a1yAvLwB0l3w2"
       },
@@ -1515,26 +1535,6 @@
       "duration_ms": 228781,
       "name": "Garra - Ao vivo",
       "url": "https://open.spotify.com/track/2sc5q8Zd8kpvJ3hAJJmBwG"
-    },
-    {
-      "added_at": "2026-11-20 03:01:08",
-      "album": {
-        "name": "O Mundo Livre de Menesca & Peranzza",
-        "url": "https://open.spotify.com/album/61LlrDlnAnoNy3CpLC5oFB"
-      },
-      "artists": [
-        {
-          "name": "Roberto Menescal",
-          "url": "https://open.spotify.com/artist/2r1d0isPFggU8QaBzvAWmG"
-        },
-        {
-          "name": "Gilson Peranzzetta",
-          "url": "https://open.spotify.com/artist/3sXiozVfzUa8NLisEvzJZm"
-        }
-      ],
-      "duration_ms": 188044,
-      "name": "Samba Imposs\u00edvel",
-      "url": "https://open.spotify.com/track/7d9k8coOOz9Q91b27cYgIt"
     },
     {
       "added_at": "2026-11-20 03:01:08",

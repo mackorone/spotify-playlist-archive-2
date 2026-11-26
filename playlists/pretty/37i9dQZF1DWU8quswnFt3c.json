@@ -1,12 +1,12 @@
 {
   "description": "Listen to women at full volume with Miss Monique from Ukraine.",
-  "num_followers": 1019247,
+  "num_followers": 1019154,
   "original_name": "EQUAL",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAANZYtW5XGe4ZVKrahFoQ6+2EOoBv",
+  "snapshot_id": "AAAAAGPOBCcWU7VzUWm7F5cPyCZWqOuo",
   "tracks": [
     {
       "added_at": "2026-11-20 05:00:23",
@@ -463,22 +463,6 @@
     {
       "added_at": "2026-11-20 05:00:23",
       "album": {
-        "name": "\u967d\u5149\u666e\u7167",
-        "url": "https://open.spotify.com/album/2mHNSGINVl2s3hk4NXVv8H"
-      },
-      "artists": [
-        {
-          "name": "Joey Yung",
-          "url": "https://open.spotify.com/artist/2zzKlxMsKTPMsZacZCPRNA"
-        }
-      ],
-      "duration_ms": 195755,
-      "name": "\u967d\u5149\u666e\u7167",
-      "url": "https://open.spotify.com/track/60oVYVR5bZ5DYp7f2E9zYn"
-    },
-    {
-      "added_at": "2026-11-20 05:00:23",
-      "album": {
         "name": "CRYSALIS (CODA)",
         "url": "https://open.spotify.com/album/1J4F7Yozx9ckI5xc6yjlqu"
       },
@@ -495,6 +479,22 @@
       "duration_ms": 222373,
       "name": "Fleur-De-Lis (feat. Lous and The Yakuza)",
       "url": "https://open.spotify.com/track/5UicE8r2GHoe7YDGuLv4IN"
+    },
+    {
+      "added_at": "2026-11-20 05:00:23",
+      "album": {
+        "name": "\u967d\u5149\u666e\u7167",
+        "url": "https://open.spotify.com/album/2mHNSGINVl2s3hk4NXVv8H"
+      },
+      "artists": [
+        {
+          "name": "Joey Yung",
+          "url": "https://open.spotify.com/artist/2zzKlxMsKTPMsZacZCPRNA"
+        }
+      ],
+      "duration_ms": 195755,
+      "name": "\u967d\u5149\u666e\u7167",
+      "url": "https://open.spotify.com/track/60oVYVR5bZ5DYp7f2E9zYn"
     },
     {
       "added_at": "2026-11-20 05:00:23",
@@ -639,18 +639,18 @@
     {
       "added_at": "2026-11-20 05:00:23",
       "album": {
-        "name": "Almohada",
-        "url": "https://open.spotify.com/album/2LtO4iBh2fHscyiVnPq1cw"
+        "name": "Heartsong",
+        "url": "https://open.spotify.com/album/5bOHldwxMlxDhzSuMc1s8G"
       },
       "artists": [
         {
-          "name": "Majo Aguilar",
-          "url": "https://open.spotify.com/artist/77WEAaYIiO4SbK5IU9pWZP"
+          "name": "Gretta Ray",
+          "url": "https://open.spotify.com/artist/4xdEmbimxXyo9wXy9lq3ek"
         }
       ],
-      "duration_ms": 222120,
-      "name": "Almohada",
-      "url": "https://open.spotify.com/track/4GWsAeu3Ga2NR0XpRWdpB8"
+      "duration_ms": 291810,
+      "name": "Every Aching Minute",
+      "url": "https://open.spotify.com/track/1mxFh0yxb2lZzqdy8jFseo"
     },
     {
       "added_at": "2026-11-20 05:00:23",
@@ -671,18 +671,18 @@
     {
       "added_at": "2026-11-20 05:00:23",
       "album": {
-        "name": "Heartsong",
-        "url": "https://open.spotify.com/album/5bOHldwxMlxDhzSuMc1s8G"
+        "name": "Almohada",
+        "url": "https://open.spotify.com/album/2LtO4iBh2fHscyiVnPq1cw"
       },
       "artists": [
         {
-          "name": "Gretta Ray",
-          "url": "https://open.spotify.com/artist/4xdEmbimxXyo9wXy9lq3ek"
+          "name": "Majo Aguilar",
+          "url": "https://open.spotify.com/artist/77WEAaYIiO4SbK5IU9pWZP"
         }
       ],
-      "duration_ms": 291810,
-      "name": "Every Aching Minute",
-      "url": "https://open.spotify.com/track/1mxFh0yxb2lZzqdy8jFseo"
+      "duration_ms": 222120,
+      "name": "Almohada",
+      "url": "https://open.spotify.com/track/4GWsAeu3Ga2NR0XpRWdpB8"
     },
     {
       "added_at": "2026-11-20 05:00:23",

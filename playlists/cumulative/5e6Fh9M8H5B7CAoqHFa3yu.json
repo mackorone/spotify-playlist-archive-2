@@ -11495,6 +11495,24 @@
     },
     {
       "album": {
+        "name": "Do-Over",
+        "url": "https://open.spotify.com/album/1TgQo2IG7BtEdjrpx8pLby"
+      },
+      "artists": [
+        {
+          "name": "Alessandro Ciminata",
+          "url": "https://open.spotify.com/artist/2dUzpcaCyW2RWTNrlv3Sjv"
+        }
+      ],
+      "date_added": "2026-11-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 183000,
+      "name": "Do-Over",
+      "url": "https://open.spotify.com/track/1YJ3zTjKvYrPwNV1EdCtn7"
+    },
+    {
+      "album": {
         "name": "Indescriptible",
         "url": "https://open.spotify.com/album/5e8sDWPesVW6H2ChI6RQaN"
       },
@@ -51258,6 +51276,24 @@
       "duration_ms": 190215,
       "name": "When The Tornado Comes",
       "url": "https://open.spotify.com/track/7394SpkcD7WUtx3OWis2YV"
+    },
+    {
+      "album": {
+        "name": "When You Left the Room",
+        "url": "https://open.spotify.com/album/45NrpppgY1x8nlXnLdq1cw"
+      },
+      "artists": [
+        {
+          "name": "RIAN L",
+          "url": "https://open.spotify.com/artist/7zuENAgeXHuL6ybjeTSK3u"
+        }
+      ],
+      "date_added": "2026-11-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 210293,
+      "name": "When You Left the Room - Extrait de l'album 2026 PASSING THROUGH THE LIGHT",
+      "url": "https://open.spotify.com/track/5gd9yNnfYFZXRvBEkQDcgZ"
     },
     {
       "album": {

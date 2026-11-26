@@ -6458,7 +6458,7 @@
       ],
       "date_added": "2026-10-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-26",
       "duration_ms": 191024,
       "name": "Promise",
       "url": "https://open.spotify.com/track/4PklS7o8eJTGx744IZUOH0"
@@ -9524,6 +9524,36 @@
       "duration_ms": 254470,
       "name": "Yeh Dil Mujhko Tu Dede (feat. Sunidhi Chauhan)",
       "url": "https://open.spotify.com/track/1MThYfTP8eNgUq7VgVvfKe"
+    },
+    {
+      "album": {
+        "name": "Yeh Prem Mol Liya Title Track (From \"Yeh Prem Mol Liya\")",
+        "url": "https://open.spotify.com/album/1A3Vd1lbo2P9nAU6DVJHxV"
+      },
+      "artists": [
+        {
+          "name": "Himesh Reshammiya",
+          "url": "https://open.spotify.com/artist/0sSxphmGskGCKlwB9xa6WU"
+        },
+        {
+          "name": "Shreya Ghoshal",
+          "url": "https://open.spotify.com/artist/0oOet2f43PA68X5RxKobEy"
+        },
+        {
+          "name": "Nihal Tauro",
+          "url": "https://open.spotify.com/artist/64KzOsbd6ajeLLswNgJ8RF"
+        },
+        {
+          "name": "Kumaar",
+          "url": "https://open.spotify.com/artist/0m3D4grap8VFSzbJMqgNVk"
+        }
+      ],
+      "date_added": "2026-11-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 306818,
+      "name": "Yeh Prem Mol Liya Title Track - From \"Yeh Prem Mol Liya\"",
+      "url": "https://open.spotify.com/track/3JvD4HC5eiJXG7xK15ARw5"
     },
     {
       "album": {

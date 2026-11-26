@@ -4,7 +4,7 @@
 
 > FurryRadio.com, furry music for furs, by furs.
 
-650 songs - 1 day 10 hr 22 min
+652 songs - 1 day 10 hr 28 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -47,6 +47,7 @@
 | [Ascension \- overblur Remix](https://open.spotify.com/track/2JwBdY53fZAAQjG9HE1bNI) | [Khaliber](https://open.spotify.com/artist/27uhOz3aj61Jbvnoc0yUrH), [Aural Alliance](https://open.spotify.com/artist/5w8crpjE8OAqon6Z0brpRu), [Trey Husk](https://open.spotify.com/artist/557mWkaCfEfpnEGuNSlG2d), [Kurvy Pinx](https://open.spotify.com/artist/294PZzIa01hFjsMxXYseQy), [overblur](https://open.spotify.com/artist/6WmXUzSYwIPwKx2XTJHxkD) | [Ascension](https://open.spotify.com/album/1URFm51P2ulnuyo4bLoweF) | 3:53 | 2024-02-09 |  |
 | [ASHITAKA'S CURSE](https://open.spotify.com/track/4GBN4QvZN14xbOYpI29VS8) | [sixwing](https://open.spotify.com/artist/5sWRqo85wbqXVUAw3c6FTV), [Can of Bliss](https://open.spotify.com/artist/7aU24qpooQbJgquWphpTdT) | [WOLFGIRL PRINCESS ANGEL](https://open.spotify.com/album/55uKBBMBmDE0cbYuKkpvgM) | 3:05 | 2026-11-17 |  |
 | [AT THE END OF EVERYTHING](https://open.spotify.com/track/04aZ1x9Qb0mYh5T5xmztg4) | [Goodnight Girl](https://open.spotify.com/artist/6DuT8CQIbI5VoQaJKVmKQi), [Doodled](https://open.spotify.com/artist/120IFZzkXYONTLup5hTkqW) | [WANNABE](https://open.spotify.com/album/5X1DBiUGnShpPetLnT7EoQ) | 3:30 | 2024-08-15 | 2026-03-01 |
+| [AWOO](https://open.spotify.com/track/13iiAgKF6nW3IGH0HlhCE2) | [Fur:Trash](https://open.spotify.com/artist/1jp7cmyHDn5nuP3MMSwm1m), [RavePuppy](https://open.spotify.com/artist/6cPAGYmKP81QfU9CLPRHWJ) | [SCHOOLYARD UNDERDOG](https://open.spotify.com/album/2mkocqj5zNy1BWQ2hm0JPA) | 4:05 | 2026-11-26 |  |
 | [Ayleeyuns](https://open.spotify.com/track/13oIzlPIENDOkJaFU7H7Bx) | [Scratch21](https://open.spotify.com/artist/3WCGPWxaTtnBgGQj4w7LEW) | [Ayleeyuns](https://open.spotify.com/album/52JfrqP4UKV7nqh1qyVqm5) | 4:08 | 2024-03-31 | 2026-03-01 |
 | [b\-b\-BASS DOWN LOW](https://open.spotify.com/track/4i9kCaqvah5JzOLoNeA2Br) | [r u s s e l b u c k](https://open.spotify.com/artist/3Si34xQXMZlrics4njesF2) | [RAVEPOP](https://open.spotify.com/album/1mLzn3i4NwDW4cOg2wJsig) | 2:18 | 2025-04-14 |  |
 | [b\-b\-BASS DOWN LOW \(GABBER TIME\)](https://open.spotify.com/track/6ySAQDZvyiH8Gi3FnJPM7k) | [r u s s e l b u c k](https://open.spotify.com/artist/3Si34xQXMZlrics4njesF2) | [RAVEPOP REMIXES](https://open.spotify.com/album/68lxAjDdbnmQrI1BPdLYKO) | 1:40 | 2026-05-05 | 2026-05-18 |
@@ -215,6 +216,7 @@
 | [Fox Boy \- Loprov Remix](https://open.spotify.com/track/3YCbIUiZ5QMrxTTzyLlS7O) | [Whsprs](https://open.spotify.com/artist/6Eu37PvzuV9ylWqU9G5z3h), [Loprov](https://open.spotify.com/artist/3Zv31lkrOJ7HPBWmXOjiwJ) | [Fox Boy \(Loprov Remix\)](https://open.spotify.com/album/02uVBMMSTo9jYTZPIXVcXG) | 5:52 | 2026-08-27 |  |
 | [Fratricide](https://open.spotify.com/track/7a6Q9vKtA9oPU08XZSOGR9) | [ivycomb](https://open.spotify.com/artist/12WiIkK6iBWyRefeKpMaKo), [Moka](https://open.spotify.com/artist/4W6v3SkHwSbsdCkJrzQLXl) | [Fratricide](https://open.spotify.com/album/6yzq6H3QI7ylehs1yZ4z3G) | 3:40 | 2023-08-07 | 2026-03-01 |
 | [Free Tonight](https://open.spotify.com/track/6Y0rTVgEHLbyv2LaFHMbHB) | [Hi I'm Case](https://open.spotify.com/artist/5KpXcJfw137FINbN6Ukcvt) | [Another](https://open.spotify.com/album/4ku6hiP8aiueGRUtaDzwT0) | 2:58 | 2025-03-01 |  |
+| [Frequency](https://open.spotify.com/track/0SHOCzd91grkQuEFZzLWmd) | [Mere Notilde](https://open.spotify.com/artist/2d3wstlwe427Q7CamLXlpO) | [Thousand Knives](https://open.spotify.com/album/4EBXOsHhpItBXEX6mHGgP4) | 2:35 | 2026-11-26 |  |
 | [Frizk Fundamentals!](https://open.spotify.com/track/5xJg2mHwmCWFwHtuefK4Ro) | [Frizk](https://open.spotify.com/artist/2kytM35nXuQfdxPeoLgE0K) | [Frizk Fundamentals!](https://open.spotify.com/album/7C3W5UlZpLuK1r5dJeEkaR) | 2:00 | 2025-05-10 |  |
 | [FURRIES JUST WANNA HAVE FUN!](https://open.spotify.com/track/4t5vhVmALRs8rkakMGZYjk) | [glitterpop!](https://open.spotify.com/artist/1QA3mUn9XkVeSoNgWdqZ40) | [FURRIES JUST WANNA HAVE FUN!](https://open.spotify.com/album/2d9lTBrplUQSXxKXJGVI6b) | 2:35 | 2024-11-17 | 2025-02-06 |
 | [FURRY MUSIC IS TOO SEXUAL!](https://open.spotify.com/track/2bTA372GW8xHI2O4QY2nQ2) | [snazzyvaka](https://open.spotify.com/artist/3hHniqLXSqhRZeR3xUvlr2) | [$USPICIOUSLY WEALTHY FURRIE$](https://open.spotify.com/album/0V5pycvdoKx0sVpPcR9zm7) | 2:17 | 2026-01-06 |  |

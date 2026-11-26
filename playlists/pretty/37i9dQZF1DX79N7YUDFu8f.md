@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX79N7YUDFu8f.md) - [plain]
 
 > Rustig aan doen op zaterdag met deze zachte popliedjes.
 
-[Spotify](https://open.spotify.com/user/spotify) - 118,795 likes - 90 songs - 4 hr 59 min
+[Spotify](https://open.spotify.com/user/spotify) - 118,791 likes - 90 songs - 4 hr 59 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -16,7 +16,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX79N7YUDFu8f.md) - [plain]
 | 6 | [Lighthouse](https://open.spotify.com/track/4FWlWubO3Q4Lpxf2AtI1XG) | [Bertie Newman](https://open.spotify.com/artist/5FgAV3f4fiJ8tuztZ5eyWh) | [Lighthouse](https://open.spotify.com/album/0By1aadD5snH9r9SIX2KeA) | 3:28 |
 | 7 | [Try Again Tomorrow](https://open.spotify.com/track/1APix3h5tOfF9cWZHCXvdV) | [Full Crate](https://open.spotify.com/artist/0JeTRYMH7FoBiMcLXg1n8g), [Nina Ann Nelson](https://open.spotify.com/artist/3zaUrDI0cZRIHNUFysJB8O) | [Try Again Tomorrow](https://open.spotify.com/album/2ej9nBl3sGxduBI71rOqaa) | 3:30 |
 | 8 | [Never Missed](https://open.spotify.com/track/2Jz3odiAnoveycYN5ManwG) | [Anne\-Fay](https://open.spotify.com/artist/4NKiHTs8h3aJkfya3JC0no) | [+1](https://open.spotify.com/album/6HfcKrOM725mH8QCIxTbCr) | 2:55 |
-| 9 | [Rooted](https://open.spotify.com/track/4YGwXaIcN6sGl86VnNJHi7) | [Krystl](https://open.spotify.com/artist/7eacKV5WqetV2IZTDrwKhi) | [Rooted](https://open.spotify.com/album/5n4mhKvpBcDXG0m1EebYvE) | 2:53 |
+| 9 | [Rooted](https://open.spotify.com/track/4YGwXaIcN6sGl86VnNJHi7) | [Krystl](https://open.spotify.com/artist/7eacKV5WqetV2IZTDrwKhi) | [Rooted](https://open.spotify.com/album/5n4mhKvpBcDXG0m1EebYvE) | 2:25 |
 | 10 | [July](https://open.spotify.com/track/4lKk4P7C9aZlgpPE6LNS4J) | [Iris Noëlle](https://open.spotify.com/artist/5j64iek3q0Ma2O9HSIdkoi) | [July](https://open.spotify.com/album/3R9zDIiHPez2zbX0AR8yP1) | 2:27 |
 | 11 | [Wandering Eye](https://open.spotify.com/track/4xFPSdYluTFPLKnN8Z9e5A) | [Carmen Forbes](https://open.spotify.com/artist/4XY6mCv2cLDP5bSYILeHk5) | [Wandering Eye](https://open.spotify.com/album/5uGA7BBl8jqsgfxfSLqk0w) | 2:31 |
 | 12 | [Goodbye To A Lover Again](https://open.spotify.com/track/4BmhjNFYM7AQPfcRKbrSfi) | [Isak Danielson](https://open.spotify.com/artist/5ie2SvXgvXlTpyqkwLtSd7) | [Goodbye To A Lover Again](https://open.spotify.com/album/3pCiut2DYa0xhcUlmlShi4) | 2:19 |
@@ -99,4 +99,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX79N7YUDFu8f.md) - [plain]
 | 89 | [Good Intentions](https://open.spotify.com/track/0ZOEQL3Rs527cpaRNnV9fb) | [Ruben Hein](https://open.spotify.com/artist/2O4jyeF4uyGLsGcjY49zbS) | [Leveller](https://open.spotify.com/album/6SfToUjflJFZiHB0gGNOZe) | 4:11 |
 | 90 | [Tomb for Rockets](https://open.spotify.com/track/61qAqFcfogzqpJ9IW9lUW3) | [Feng Suave](https://open.spotify.com/artist/73dudJ9j0HStIhJDU8MjMI) | [Tomb for Rockets](https://open.spotify.com/album/79jX3JZYuclV2c90zJbCvG) | 4:23 |
 
-Snapshot ID: `AAAAAFLr32KbD87ZGRTiDMGZGfycvImA`
+Snapshot ID: `AAAAACP1Jx5oYu8htrDknciW9bRMRDjl`

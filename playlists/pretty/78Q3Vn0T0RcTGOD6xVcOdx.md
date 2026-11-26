@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/78Q3Vn0T0RcTGOD6xVcOdx.md) - [plain]
 
 > Top hits 2026: best songs right now, chart hits, pop and R&amp;B hits.
 
-[Nuvora](https://open.spotify.com/user/11141650175) - 553 likes - 124 songs - 6 hr 44 min
+[Nuvora](https://open.spotify.com/user/11141650175) - 554 likes - 131 songs - 7 hr 5 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -132,5 +132,12 @@ pretty - [cumulative](/playlists/cumulative/78Q3Vn0T0RcTGOD6xVcOdx.md) - [plain]
 | 122 | [The Weight](https://open.spotify.com/track/0CwuWOr6C9CnDT5PA0btDb) | [Delorean Time Warp](https://open.spotify.com/artist/1HXPiQIZzvALL8NEDmpOcn) | [The Weight](https://open.spotify.com/album/4CYNSB9C1me7dJWyJI6jHC) | 3:24 |
 | 123 | [BURN IT DOWN](https://open.spotify.com/track/1EzvOVlyaQhmBDIA3hQiTr) | [claudiomproduction](https://open.spotify.com/artist/480q3vxyDiauwwnVnpav5Y) | [BURN IT DOWN](https://open.spotify.com/album/1eoIc4usKkH5JA0NDh1OC9) | 3:24 |
 | 124 | [Tatsız](https://open.spotify.com/track/1EhsXtvJjjFrTrRxxFww31) | [Özgür Yetgin](https://open.spotify.com/artist/4VFWtBvDFnpZOAWPCfLKwq) | [Tatsız](https://open.spotify.com/album/1zixNH9ctQSuezasOwJgvv) | 4:37 |
+| 125 | [Banking On Your Love](https://open.spotify.com/track/0rDyO16LUfwwS1Wn4Aau1j) | [jussjayyy](https://open.spotify.com/artist/4sRIZXF9Eh6btlZIF1yTCE) | [Until I](https://open.spotify.com/album/2FkT1sXDDeT7lZpbQhbFfH) | 2:18 |
+| 126 | [Siesta](https://open.spotify.com/track/08A0l7u9gDg2bsR1OAq3E0) | [PESTO](https://open.spotify.com/artist/541LPFSazdFRmwH8h08ixh) | [Pesto](https://open.spotify.com/album/2CJ8AbWk8ymw5Mv2Lr6wHJ) | 3:30 |
+| 127 | [Different Feelings](https://open.spotify.com/track/0aDcAa8pdRnFoIfVdeZSJY) | [Dalem Alem](https://open.spotify.com/artist/5r8TWdzBupdZ4clc4Y9Lrp) | [Different Feelings](https://open.spotify.com/album/3LdrnCjuxy1gfQEa0U5WbZ) | 2:37 |
+| 128 | [Adjustment](https://open.spotify.com/track/78E9yX1eT9P1qV6HmD6MMJ) | [Dalem Alem](https://open.spotify.com/artist/5r8TWdzBupdZ4clc4Y9Lrp) | [Different Feelings](https://open.spotify.com/album/3LdrnCjuxy1gfQEa0U5WbZ) | 2:15 |
+| 129 | [ARMAAN MERA YAHI](https://open.spotify.com/track/0W8FSa7WyXPpSzvIBkNoDY) | [Avinash Kumar Raghuvanshi](https://open.spotify.com/artist/6JEaQ1Ukzoh1Hr4Z4d0YVI) | [ARMAAN MERA YAHI](https://open.spotify.com/album/50y1B4cEOCxb4oc9aSYiVH) | 5:17 |
+| 130 | [This Year](https://open.spotify.com/track/2LMu07B1arHDz7BnE7KxPb) | [G henry](https://open.spotify.com/artist/5FSjZP6yEswWjw6HNqOxPy) | [This Year](https://open.spotify.com/album/6XAeNOtNzZjGfz73R6bAGR) | 2:48 |
+| 131 | [This Year](https://open.spotify.com/track/2LMu07B1arHDz7BnE7KxPb) | [G henry](https://open.spotify.com/artist/5FSjZP6yEswWjw6HNqOxPy) | [This Year](https://open.spotify.com/album/6XAeNOtNzZjGfz73R6bAGR) | 2:48 |
 
-Snapshot ID: `AAAC34k9Q4s4rVanAgTO4uesC9wCZ4Mt`
+Snapshot ID: `AAAC5iZOEmru6jCrZK4u/qU0MPfVlbuT`

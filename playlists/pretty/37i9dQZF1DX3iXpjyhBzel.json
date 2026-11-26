@@ -1,12 +1,12 @@
 {
   "description": "A m\u00fasica certa para o seu momento de adora\u00e7\u00e3o. Foto: Isadora Pompeo",
-  "num_followers": 1224101,
+  "num_followers": 1224139,
   "original_name": "Louvor & Adora\u00e7\u00e3o",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAKGExjIluk0lbo9kYMnwl4eRq7Bh",
+  "snapshot_id": "AAAAAFyentIi1KxF4aDx44Yt+0fGpwUM",
   "tracks": [
     {
       "added_at": "2026-11-18 21:55:28",
@@ -503,6 +503,22 @@
     {
       "added_at": "2026-11-18 21:55:28",
       "album": {
+        "name": "F\u00e9 Para O Imposs\u00edvel",
+        "url": "https://open.spotify.com/album/4vmCARn8Gmc9Uodx8aaJGE"
+      },
+      "artists": [
+        {
+          "name": "Eli Soares",
+          "url": "https://open.spotify.com/artist/5zblJYkCzvB51Jh29FB07V"
+        }
+      ],
+      "duration_ms": 260506,
+      "name": "F\u00e9 Para O Imposs\u00edvel",
+      "url": "https://open.spotify.com/track/0OSnHMH7SVZT9CgA2DMu4x"
+    },
+    {
+      "added_at": "2026-11-18 21:55:28",
+      "album": {
         "name": "Escape",
         "url": "https://open.spotify.com/album/1OZP7A6bb4HPNXLwhmVNfj"
       },
@@ -539,22 +555,6 @@
     {
       "added_at": "2026-11-18 21:55:28",
       "album": {
-        "name": "Cura | EP 01",
-        "url": "https://open.spotify.com/album/0WnOaSP5bwVhfeSioA6YmH"
-      },
-      "artists": [
-        {
-          "name": "Maria Mar\u00e7al",
-          "url": "https://open.spotify.com/artist/1pZ1kGj7yoPvG1sSN74imk"
-        }
-      ],
-      "duration_ms": 270450,
-      "name": "Ele N\u00e3o Desiste de Voc\u00ea - Ao Vivo em Salvador",
-      "url": "https://open.spotify.com/track/3RVZlAf3G6Dy6S1jw4r8xc"
-    },
-    {
-      "added_at": "2026-11-18 21:55:28",
-      "album": {
         "name": "Salva-me, \u00f3 Deus",
         "url": "https://open.spotify.com/album/4rwgrmh2mqhsHCJNBBkNDa"
       },
@@ -579,18 +579,18 @@
     {
       "added_at": "2026-11-18 21:55:28",
       "album": {
-        "name": "F\u00e9 Para O Imposs\u00edvel",
-        "url": "https://open.spotify.com/album/4vmCARn8Gmc9Uodx8aaJGE"
+        "name": "Cura | EP 01",
+        "url": "https://open.spotify.com/album/0WnOaSP5bwVhfeSioA6YmH"
       },
       "artists": [
         {
-          "name": "Eli Soares",
-          "url": "https://open.spotify.com/artist/5zblJYkCzvB51Jh29FB07V"
+          "name": "Maria Mar\u00e7al",
+          "url": "https://open.spotify.com/artist/1pZ1kGj7yoPvG1sSN74imk"
         }
       ],
-      "duration_ms": 260506,
-      "name": "F\u00e9 Para O Imposs\u00edvel",
-      "url": "https://open.spotify.com/track/0OSnHMH7SVZT9CgA2DMu4x"
+      "duration_ms": 270450,
+      "name": "Ele N\u00e3o Desiste de Voc\u00ea - Ao Vivo em Salvador",
+      "url": "https://open.spotify.com/track/3RVZlAf3G6Dy6S1jw4r8xc"
     },
     {
       "added_at": "2026-11-18 21:55:28",
@@ -703,46 +703,6 @@
     {
       "added_at": "2026-11-18 21:55:28",
       "album": {
-        "name": "Meia Noite (Ao Vivo)",
-        "url": "https://open.spotify.com/album/0jRjSI7vj4r16D1HeePfIa"
-      },
-      "artists": [
-        {
-          "name": "fhop music",
-          "url": "https://open.spotify.com/artist/0V208yTQ5OGOUBZuszu6Fn"
-        },
-        {
-          "name": "Caio Freitas",
-          "url": "https://open.spotify.com/artist/7ffCL7plBaDkeHkQyLjz59"
-        }
-      ],
-      "duration_ms": 445560,
-      "name": "Sublime - Ao Vivo",
-      "url": "https://open.spotify.com/track/0PEkKjD8bgssfDbKUzKQ21"
-    },
-    {
-      "added_at": "2026-11-18 21:55:28",
-      "album": {
-        "name": "Deus Coloca O Ch\u00e3o (Ao Vivo)",
-        "url": "https://open.spotify.com/album/1ntpRjk2x5nSwb7eEaX2mN"
-      },
-      "artists": [
-        {
-          "name": "Felipe Ara\u00fajo",
-          "url": "https://open.spotify.com/artist/47uyFQHOD02S0lj9ptRpoB"
-        },
-        {
-          "name": "Deive Leonardo",
-          "url": "https://open.spotify.com/artist/2yXSYL4govoGkKNqq6BJQW"
-        }
-      ],
-      "duration_ms": 341540,
-      "name": "Deus Coloca O Ch\u00e3o - Ao Vivo",
-      "url": "https://open.spotify.com/track/5S0FRi4n38dDHrDl3C5MSR"
-    },
-    {
-      "added_at": "2026-11-18 21:55:28",
-      "album": {
         "name": "Meu Mestre",
         "url": "https://open.spotify.com/album/0pgRI4TKSJmgYA8TMkM0fn"
       },
@@ -767,22 +727,22 @@
     {
       "added_at": "2026-11-18 21:55:28",
       "album": {
-        "name": "\u00danico (Ac\u00fastico)",
-        "url": "https://open.spotify.com/album/0U4MNi9Hwj1BIThUf571cb"
+        "name": "Deus Coloca O Ch\u00e3o (Ao Vivo)",
+        "url": "https://open.spotify.com/album/1ntpRjk2x5nSwb7eEaX2mN"
       },
       "artists": [
         {
-          "name": "Fernandinho",
-          "url": "https://open.spotify.com/artist/6iAY2AyUZLSX3PWLIAfFZY"
+          "name": "Felipe Ara\u00fajo",
+          "url": "https://open.spotify.com/artist/47uyFQHOD02S0lj9ptRpoB"
         },
         {
-          "name": "Gabriela Rocha",
-          "url": "https://open.spotify.com/artist/4fdCGYM7dtJLa3LvR1ccto"
+          "name": "Deive Leonardo",
+          "url": "https://open.spotify.com/artist/2yXSYL4govoGkKNqq6BJQW"
         }
       ],
-      "duration_ms": 506122,
-      "name": "\u00danico - Ac\u00fastico",
-      "url": "https://open.spotify.com/track/4RInpfmS5zuJ8xKjrfwOaI"
+      "duration_ms": 341540,
+      "name": "Deus Coloca O Ch\u00e3o - Ao Vivo",
+      "url": "https://open.spotify.com/track/5S0FRi4n38dDHrDl3C5MSR"
     },
     {
       "added_at": "2026-11-18 21:55:28",
@@ -807,6 +767,46 @@
       "duration_ms": 392184,
       "name": "Nada Mais/Uma Vez",
       "url": "https://open.spotify.com/track/6iRxHMWx0ACA8NoDZ8NN60"
+    },
+    {
+      "added_at": "2026-11-18 21:55:28",
+      "album": {
+        "name": "\u00danico (Ac\u00fastico)",
+        "url": "https://open.spotify.com/album/0U4MNi9Hwj1BIThUf571cb"
+      },
+      "artists": [
+        {
+          "name": "Fernandinho",
+          "url": "https://open.spotify.com/artist/6iAY2AyUZLSX3PWLIAfFZY"
+        },
+        {
+          "name": "Gabriela Rocha",
+          "url": "https://open.spotify.com/artist/4fdCGYM7dtJLa3LvR1ccto"
+        }
+      ],
+      "duration_ms": 506122,
+      "name": "\u00danico - Ac\u00fastico",
+      "url": "https://open.spotify.com/track/4RInpfmS5zuJ8xKjrfwOaI"
+    },
+    {
+      "added_at": "2026-11-18 21:55:28",
+      "album": {
+        "name": "Meia Noite (Ao Vivo)",
+        "url": "https://open.spotify.com/album/0jRjSI7vj4r16D1HeePfIa"
+      },
+      "artists": [
+        {
+          "name": "fhop music",
+          "url": "https://open.spotify.com/artist/0V208yTQ5OGOUBZuszu6Fn"
+        },
+        {
+          "name": "Caio Freitas",
+          "url": "https://open.spotify.com/artist/7ffCL7plBaDkeHkQyLjz59"
+        }
+      ],
+      "duration_ms": 445560,
+      "name": "Sublime - Ao Vivo",
+      "url": "https://open.spotify.com/track/0PEkKjD8bgssfDbKUzKQ21"
     },
     {
       "added_at": "2026-11-18 21:55:28",

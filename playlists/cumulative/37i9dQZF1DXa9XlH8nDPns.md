@@ -8,7 +8,7 @@
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
-| [9to5](https://open.spotify.com/track/5nKwlZGvnxI3mKPl0JCXyv) | [uwase](https://open.spotify.com/artist/2QuwXg3dnpvGTMeoilcszr) | [9to5](https://open.spotify.com/album/137SrdxZngzFFwUaZuRqS7) | 3:42 | 2026-11-23 |  |
+| [9to5](https://open.spotify.com/track/5nKwlZGvnxI3mKPl0JCXyv) | [uwase](https://open.spotify.com/artist/2QuwXg3dnpvGTMeoilcszr) | [9to5](https://open.spotify.com/album/137SrdxZngzFFwUaZuRqS7) | 3:42 | 2026-11-23 | 2026-11-26 |
 | [A Different Kind of Happiness](https://open.spotify.com/track/1Hd2Cw8guWWMyVx8cGftYA) | [Nothing But Thieves](https://open.spotify.com/artist/1kDGbuxWknIKx4FlgWxiSp) | [A Different Kind of Happiness](https://open.spotify.com/album/4qhgSq49DI10h3ZAvhtPoP) | 4:06 | 2026-11-23 |  |
 | [A Moment](https://open.spotify.com/track/6QOSsq9F1yR9ka8ZbgAYmI) | [Kensington](https://open.spotify.com/artist/5hHcAWKNV84BEbkRnbQ6A7) | [A Moment](https://open.spotify.com/album/5QqwK8Qf8W4hoVkuCzBtMa) | 3:23 | 2025-07-10 | 2026-05-27 |
 | [Arm's Length](https://open.spotify.com/track/5rrwj9g1c4kwnPSnsXP7g3) | [Sam Fender](https://open.spotify.com/artist/6zlR5ttMfMNmwf2lecU9Cc) | [Arm's Length](https://open.spotify.com/album/4RCqRkyKtCcOlBMaq12WFn) | 3:59 | 2025-07-10 |  |
@@ -18,7 +18,7 @@
 | [Beta Fish](https://open.spotify.com/track/0durAcZD9jCazXAGO8co1U) | [Vundabar](https://open.spotify.com/artist/1W4itxt3vwhmrgLEBuVHJ6) | [Surgery and Pleasure](https://open.spotify.com/album/3HQBA8C1q7gUKFkEcPuq9T) | 3:39 | 2025-07-10 | 2025-09-17 |
 | [Better, I Swear](https://open.spotify.com/track/74rfrufWL0TF6ORmled9w8) | [BLUAI](https://open.spotify.com/artist/5CJhBRBaE9MaWfPwcg2WbF), [Lara Chedraoui](https://open.spotify.com/artist/5IChSgxJI43mKPYp6S34Jx) | [Save It For Later](https://open.spotify.com/album/1JCSyDDYF8k1dAxbchvxbl) | 4:03 | 2026-11-19 |  |
 | [Black Magic Woman \- Single Version](https://open.spotify.com/track/4YMQXzscifAREG0a7KNGhB) | [Santana](https://open.spotify.com/artist/6GI52t8N5F02MxU0g5U69P) | [Santana's Greatest Hits](https://open.spotify.com/album/1YrdGK2y2Edq2R5gFja2ai) | 3:19 | 2026-07-07 | 2026-09-08 |
-| [Boston](https://open.spotify.com/track/63pmBYIUu7bbGipIOBccyr) | [Min Taka](https://open.spotify.com/artist/1IXhBghuEWlU4soJjaV5gH) | [I think we should just move in together](https://open.spotify.com/album/2o8g87QqMaH1Xm8nMOCcvv) | 4:05 | 2026-11-19 | 2026-11-24 |
+| [Boston](https://open.spotify.com/track/63pmBYIUu7bbGipIOBccyr) | [Min Taka](https://open.spotify.com/artist/1IXhBghuEWlU4soJjaV5gH) | [I think we should just move in together](https://open.spotify.com/album/2o8g87QqMaH1Xm8nMOCcvv) | 4:05 | 2026-11-19 |  |
 | [Bowie's Pressure](https://open.spotify.com/track/4PtbohGrFopmXu8k4ve9Tp) | [Hiqpy](https://open.spotify.com/artist/7Iff7uMHGSpOygBkCsdcHq) | [Bowie's Pressure](https://open.spotify.com/album/2FGCCyRH2PtGfdE0NO1Gow) | 3:12 | 2026-04-08 | 2026-09-08 |
 | [Burnout Days](https://open.spotify.com/track/1zBP4F9PUGfH8Ll3U1V31y) | [flipturn](https://open.spotify.com/artist/7FKTg75ADVMZgY3P9ZMRtH) | [Burnout Days](https://open.spotify.com/album/55d55SbCCo7jCmBFvCvDBC) | 3:38 | 2025-07-10 |  |
 | [Calipso](https://open.spotify.com/track/41Xv2LrtyO8tuAWtYiqDh9) | [De Nachtwacht](https://open.spotify.com/artist/3Sd7vfg45nJIesPsjvyFgp) | [De Nachtwacht](https://open.spotify.com/album/6QTcUbIQ0VLethxET8iSah) | 3:05 | 2026-07-07 | 2026-09-08 |

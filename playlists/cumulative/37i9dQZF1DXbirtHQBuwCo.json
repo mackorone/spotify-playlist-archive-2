@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-04-20",
-  "description": "\bTrendy & Chill Korean R&B music. (Cover: Way Ched)",
+  "description": "\bTrendy & Chill Korean R&B music. (Cover: Shane)",
   "name": "TrenChill K-R&B",
   "tracks": [
     {
@@ -2440,6 +2440,28 @@
       "duration_ms": 175053,
       "name": "Body (Feat. Sik-K)",
       "url": "https://open.spotify.com/track/079SEIMEJQsLIaE8QYqvCh"
+    },
+    {
+      "album": {
+        "name": "sofa bed",
+        "url": "https://open.spotify.com/album/0X2COGpUXX7OOrUMHxLVfG"
+      },
+      "artists": [
+        {
+          "name": "Shane",
+          "url": "https://open.spotify.com/artist/3BBmWyvut6k6gHFeIzlx5v"
+        },
+        {
+          "name": "Molly Yam",
+          "url": "https://open.spotify.com/artist/52Rh1eNJIw4i8E3qZGTSHP"
+        }
+      ],
+      "date_added": "2026-11-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 183396,
+      "name": "BOLERO",
+      "url": "https://open.spotify.com/track/6pEnFhmM5XOcg8OQXww6p4"
     },
     {
       "album": {
@@ -6476,7 +6498,7 @@
       ],
       "date_added": "2022-04-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-26",
       "duration_ms": 203727,
       "name": "GANADARA (Feat. IU)",
       "url": "https://open.spotify.com/track/5quFr5s5PXYfUX5jV2EBZ1"
@@ -7814,7 +7836,7 @@
       ],
       "date_added": "2026-11-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-26",
       "duration_ms": 164000,
       "name": "Hysteria (Feat. Sik-K)",
       "url": "https://open.spotify.com/track/4H20xWiwwvoEqwV1cBjtfg"
@@ -13604,6 +13626,24 @@
       "duration_ms": 213626,
       "name": "Point, Line, Plane",
       "url": "https://open.spotify.com/track/0pfMdkCAZVThhpzOkassXJ"
+    },
+    {
+      "album": {
+        "name": "Cute & Anxiety",
+        "url": "https://open.spotify.com/album/4iz6A2tTDUz4qExXlaGYfd"
+      },
+      "artists": [
+        {
+          "name": "Yves",
+          "url": "https://open.spotify.com/artist/6AkddQqEu75QRbsCo12zce"
+        }
+      ],
+      "date_added": "2026-11-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 152493,
+      "name": "Polaroid",
+      "url": "https://open.spotify.com/track/55iomGptxGNCATEVvwqKB5"
     },
     {
       "album": {

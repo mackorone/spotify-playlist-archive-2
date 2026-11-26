@@ -6,8 +6,28 @@
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAADlfZGUwcZGpf0FNTVjZI6PQCrdR",
+  "snapshot_id": "AAAAABrcTx2CvwNvaskNN5WF3XAkRKjY",
   "tracks": [
+    {
+      "added_at": "2026-11-26 00:20:45",
+      "album": {
+        "name": "Law Khayef",
+        "url": "https://open.spotify.com/album/5hMdszshrK5CGpYaDtMyhb"
+      },
+      "artists": [
+        {
+          "name": "Haifa Wehbe",
+          "url": "https://open.spotify.com/artist/05ai8foZsZwk0cni0IOuNj"
+        },
+        {
+          "name": "Al Nather",
+          "url": "https://open.spotify.com/artist/5qvrUMJ8oO3BswrQO3w0hl"
+        }
+      ],
+      "duration_ms": 233639,
+      "name": "Law Khayef",
+      "url": "https://open.spotify.com/track/7gOtWJHThMDq7gLYTbMAOa"
+    },
     {
       "added_at": "2026-11-19 18:46:05",
       "album": {

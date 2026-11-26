@@ -1,12 +1,12 @@
 {
   "description": "Aus der Schweiz f\u00fcr dich \u2013 musique suisse \u2013 musica svizzera \ud83c\udde8\ud83c\udded\nCover: Zo\u00eb M\u00eb",
-  "num_followers": 37535,
+  "num_followers": 37533,
   "original_name": "Swiss Made",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAK519UQZNE5pLgt+z4soCtfJWRsU",
+  "snapshot_id": "AAAAAGRt7jelt509bOVRQJkPOc2EcSey",
   "tracks": [
     {
       "added_at": "2026-11-19 23:01:00",
@@ -91,22 +91,6 @@
     {
       "added_at": "2026-11-19 23:01:00",
       "album": {
-        "name": "Da wo du bist",
-        "url": "https://open.spotify.com/album/5BXLMtP5k0YBggmXdAaZry"
-      },
-      "artists": [
-        {
-          "name": "F\u00e4aschtB\u00e4nkler",
-          "url": "https://open.spotify.com/artist/5eLTULECbpoiNT8czpulxX"
-        }
-      ],
-      "duration_ms": 187710,
-      "name": "Da wo du bist",
-      "url": "https://open.spotify.com/track/3SfNIecskTH5GPWDjJjg9R"
-    },
-    {
-      "added_at": "2026-11-19 23:01:00",
-      "album": {
         "name": "Hear Me",
         "url": "https://open.spotify.com/album/4H4yvoBW8CEkKUZUXtmXZL"
       },
@@ -119,6 +103,22 @@
       "duration_ms": 206102,
       "name": "Hear Me",
       "url": "https://open.spotify.com/track/5HqTsHkvjPtRSzv1i0CJ51"
+    },
+    {
+      "added_at": "2026-11-19 23:01:00",
+      "album": {
+        "name": "Da wo du bist",
+        "url": "https://open.spotify.com/album/5BXLMtP5k0YBggmXdAaZry"
+      },
+      "artists": [
+        {
+          "name": "F\u00e4aschtB\u00e4nkler",
+          "url": "https://open.spotify.com/artist/5eLTULECbpoiNT8czpulxX"
+        }
+      ],
+      "duration_ms": 187710,
+      "name": "Da wo du bist",
+      "url": "https://open.spotify.com/track/3SfNIecskTH5GPWDjJjg9R"
     },
     {
       "added_at": "2026-11-19 23:01:00",
@@ -139,22 +139,18 @@
     {
       "added_at": "2026-11-19 23:01:00",
       "album": {
-        "name": "little birds",
-        "url": "https://open.spotify.com/album/0JnjycdHRdRMif2s6S8Tt5"
+        "name": "House On Fire",
+        "url": "https://open.spotify.com/album/0mYcvsaGweNUTm4HoifK5O"
       },
       "artists": [
         {
-          "name": "Benjamin Amaru",
-          "url": "https://open.spotify.com/artist/05HjXsZCR2S4JW473HsFvp"
-        },
-        {
-          "name": "Pablo Nouvelle",
-          "url": "https://open.spotify.com/artist/2OIJq28O1lXrZ2x3NGSk8P"
+          "name": "Linda Elys",
+          "url": "https://open.spotify.com/artist/3uB8CiuJs0I1cDNUaVpdjf"
         }
       ],
-      "duration_ms": 203076,
-      "name": "little birds",
-      "url": "https://open.spotify.com/track/0cDj3T0iQskHL7NEHM4JAK"
+      "duration_ms": 179561,
+      "name": "House On Fire",
+      "url": "https://open.spotify.com/track/3zF1YMoUWaLsjnQgqwRc7K"
     },
     {
       "added_at": "2026-11-19 23:01:00",
@@ -175,18 +171,22 @@
     {
       "added_at": "2026-11-19 23:01:00",
       "album": {
-        "name": "Diet",
-        "url": "https://open.spotify.com/album/1ao8Ql5hzq9gUB2U6BCn5g"
+        "name": "little birds",
+        "url": "https://open.spotify.com/album/0JnjycdHRdRMif2s6S8Tt5"
       },
       "artists": [
         {
-          "name": "Joya Marleen",
-          "url": "https://open.spotify.com/artist/4vaE77ooZ6reoKW8b7YTeb"
+          "name": "Benjamin Amaru",
+          "url": "https://open.spotify.com/artist/05HjXsZCR2S4JW473HsFvp"
+        },
+        {
+          "name": "Pablo Nouvelle",
+          "url": "https://open.spotify.com/artist/2OIJq28O1lXrZ2x3NGSk8P"
         }
       ],
-      "duration_ms": 185410,
-      "name": "Diet",
-      "url": "https://open.spotify.com/track/47GpoYIhwGSDnkR9SnXeB5"
+      "duration_ms": 203076,
+      "name": "little birds",
+      "url": "https://open.spotify.com/track/0cDj3T0iQskHL7NEHM4JAK"
     },
     {
       "added_at": "2026-11-19 23:01:00",
@@ -239,18 +239,18 @@
     {
       "added_at": "2026-11-19 23:01:00",
       "album": {
-        "name": "House On Fire",
-        "url": "https://open.spotify.com/album/0mYcvsaGweNUTm4HoifK5O"
+        "name": "Diet",
+        "url": "https://open.spotify.com/album/1ao8Ql5hzq9gUB2U6BCn5g"
       },
       "artists": [
         {
-          "name": "Linda Elys",
-          "url": "https://open.spotify.com/artist/3uB8CiuJs0I1cDNUaVpdjf"
+          "name": "Joya Marleen",
+          "url": "https://open.spotify.com/artist/4vaE77ooZ6reoKW8b7YTeb"
         }
       ],
-      "duration_ms": 179561,
-      "name": "House On Fire",
-      "url": "https://open.spotify.com/track/3zF1YMoUWaLsjnQgqwRc7K"
+      "duration_ms": 185410,
+      "name": "Diet",
+      "url": "https://open.spotify.com/track/47GpoYIhwGSDnkR9SnXeB5"
     },
     {
       "added_at": "2026-11-19 23:01:00",
@@ -339,22 +339,6 @@
     {
       "added_at": "2026-11-19 23:01:00",
       "album": {
-        "name": "Madras",
-        "url": "https://open.spotify.com/album/7ayAod1AzAPSCGu3kBgwHE"
-      },
-      "artists": [
-        {
-          "name": "Priya Ragu",
-          "url": "https://open.spotify.com/artist/6iZTyHbQWGzpiWoyI0zz9F"
-        }
-      ],
-      "duration_ms": 159389,
-      "name": "Madras",
-      "url": "https://open.spotify.com/track/3guUJKbRUXD545VrR3511Q"
-    },
-    {
-      "added_at": "2026-11-19 23:01:00",
-      "album": {
         "name": "Running Love",
         "url": "https://open.spotify.com/album/73CrWbbOIg8KTZ4qEcKzhc"
       },
@@ -371,18 +355,18 @@
     {
       "added_at": "2026-11-19 23:01:00",
       "album": {
-        "name": "Reverie",
-        "url": "https://open.spotify.com/album/31PPWVoWDehQCDwiJJ2cwc"
+        "name": "Madras",
+        "url": "https://open.spotify.com/album/7ayAod1AzAPSCGu3kBgwHE"
       },
       "artists": [
         {
-          "name": "Remo Forrer",
-          "url": "https://open.spotify.com/artist/7LtDT7MR8nsSZxTxcp1glk"
+          "name": "Priya Ragu",
+          "url": "https://open.spotify.com/artist/6iZTyHbQWGzpiWoyI0zz9F"
         }
       ],
-      "duration_ms": 160279,
-      "name": "Reverie",
-      "url": "https://open.spotify.com/track/4tfe4xSUv04RfK1M6gpdHG"
+      "duration_ms": 159389,
+      "name": "Madras",
+      "url": "https://open.spotify.com/track/3guUJKbRUXD545VrR3511Q"
     },
     {
       "added_at": "2026-11-19 23:01:00",
@@ -399,6 +383,22 @@
       "duration_ms": 156609,
       "name": "difficult",
       "url": "https://open.spotify.com/track/4x4cEepHPh3gHaPmsYCB1k"
+    },
+    {
+      "added_at": "2026-11-19 23:01:00",
+      "album": {
+        "name": "Reverie",
+        "url": "https://open.spotify.com/album/31PPWVoWDehQCDwiJJ2cwc"
+      },
+      "artists": [
+        {
+          "name": "Remo Forrer",
+          "url": "https://open.spotify.com/artist/7LtDT7MR8nsSZxTxcp1glk"
+        }
+      ],
+      "duration_ms": 160279,
+      "name": "Reverie",
+      "url": "https://open.spotify.com/track/4tfe4xSUv04RfK1M6gpdHG"
     },
     {
       "added_at": "2026-11-19 23:01:00",
@@ -451,22 +451,6 @@
     {
       "added_at": "2026-11-19 23:01:00",
       "album": {
-        "name": "Falling",
-        "url": "https://open.spotify.com/album/7nK6vEIK0sdUSuEA2iD57w"
-      },
-      "artists": [
-        {
-          "name": "Remo Forrer",
-          "url": "https://open.spotify.com/artist/7LtDT7MR8nsSZxTxcp1glk"
-        }
-      ],
-      "duration_ms": 166782,
-      "name": "Falling",
-      "url": "https://open.spotify.com/track/2ovqDAWhl1pa6uWyWi1Ibi"
-    },
-    {
-      "added_at": "2026-11-19 23:01:00",
-      "album": {
         "name": "joli d\u00e9sastre",
         "url": "https://open.spotify.com/album/6sglgOyD2hmP8M4guQCdUx"
       },
@@ -479,6 +463,22 @@
       "duration_ms": 203904,
       "name": "joli d\u00e9sastre",
       "url": "https://open.spotify.com/track/4SPxL3UxiuvuCQfbTCxdec"
+    },
+    {
+      "added_at": "2026-11-19 23:01:00",
+      "album": {
+        "name": "Falling",
+        "url": "https://open.spotify.com/album/7nK6vEIK0sdUSuEA2iD57w"
+      },
+      "artists": [
+        {
+          "name": "Remo Forrer",
+          "url": "https://open.spotify.com/artist/7LtDT7MR8nsSZxTxcp1glk"
+        }
+      ],
+      "duration_ms": 166782,
+      "name": "Falling",
+      "url": "https://open.spotify.com/track/2ovqDAWhl1pa6uWyWi1Ibi"
     },
     {
       "added_at": "2026-11-19 23:01:00",
@@ -531,22 +531,6 @@
     {
       "added_at": "2026-11-19 23:01:00",
       "album": {
-        "name": "Softly Speaking",
-        "url": "https://open.spotify.com/album/65rLsfsMNCgtlFE7D2790y"
-      },
-      "artists": [
-        {
-          "name": "Joya Marleen",
-          "url": "https://open.spotify.com/artist/4vaE77ooZ6reoKW8b7YTeb"
-        }
-      ],
-      "duration_ms": 226334,
-      "name": "Softly Speaking",
-      "url": "https://open.spotify.com/track/7deNy580xvtMQzvzXhlBwF"
-    },
-    {
-      "added_at": "2026-11-19 23:01:00",
-      "album": {
         "name": "BORN BLUE (THE SONG)",
         "url": "https://open.spotify.com/album/7J3K7vYvEDFCQbhpCXdECr"
       },
@@ -563,18 +547,18 @@
     {
       "added_at": "2026-11-19 23:01:00",
       "album": {
-        "name": "Hallucination",
-        "url": "https://open.spotify.com/album/7L23eyGbBT0HbruEuaKkTy"
+        "name": "Softly Speaking",
+        "url": "https://open.spotify.com/album/65rLsfsMNCgtlFE7D2790y"
       },
       "artists": [
         {
-          "name": "St\u00e9phane",
-          "url": "https://open.spotify.com/artist/1ONaDILNtXKICFlrBdmgif"
+          "name": "Joya Marleen",
+          "url": "https://open.spotify.com/artist/4vaE77ooZ6reoKW8b7YTeb"
         }
       ],
-      "duration_ms": 168853,
-      "name": "Hallucination",
-      "url": "https://open.spotify.com/track/558TaD2ochs0w7JvbxMBao"
+      "duration_ms": 226334,
+      "name": "Softly Speaking",
+      "url": "https://open.spotify.com/track/7deNy580xvtMQzvzXhlBwF"
     },
     {
       "added_at": "2026-11-19 23:01:00",
@@ -591,6 +575,22 @@
       "duration_ms": 165206,
       "name": "Fire To The Sky",
       "url": "https://open.spotify.com/track/64z7HtT0PDMdlWaUwacAuz"
+    },
+    {
+      "added_at": "2026-11-19 23:01:00",
+      "album": {
+        "name": "Hallucination",
+        "url": "https://open.spotify.com/album/7L23eyGbBT0HbruEuaKkTy"
+      },
+      "artists": [
+        {
+          "name": "St\u00e9phane",
+          "url": "https://open.spotify.com/artist/1ONaDILNtXKICFlrBdmgif"
+        }
+      ],
+      "duration_ms": 168853,
+      "name": "Hallucination",
+      "url": "https://open.spotify.com/track/558TaD2ochs0w7JvbxMBao"
     },
     {
       "added_at": "2026-11-19 23:01:00",
@@ -691,18 +691,18 @@
     {
       "added_at": "2026-11-19 23:01:00",
       "album": {
-        "name": "Starcrossed",
-        "url": "https://open.spotify.com/album/0EotHssXwipeSqR7x8smCC"
+        "name": "WITHDRAWAL SYMPTOMS",
+        "url": "https://open.spotify.com/album/5NNr9nRArk1NzuD8drNsiE"
       },
       "artists": [
         {
-          "name": "Kings Elliot",
-          "url": "https://open.spotify.com/artist/3iUGCPBBseYhEhwqCG7PNy"
+          "name": "IKAN HYU",
+          "url": "https://open.spotify.com/artist/1kcgm5pRULbDb5gs7kDRNK"
         }
       ],
-      "duration_ms": 183157,
-      "name": "Starcrossed",
-      "url": "https://open.spotify.com/track/0vIAdlejSPRVJZwY5h7pqe"
+      "duration_ms": 219718,
+      "name": "\u2601\ufe0e purple orange sky \u2601\ufe0e",
+      "url": "https://open.spotify.com/track/09LlHp3Wjs5KEWDCuWs1Ns"
     },
     {
       "added_at": "2026-11-19 23:01:00",
@@ -739,18 +739,18 @@
     {
       "added_at": "2026-11-19 23:01:00",
       "album": {
-        "name": "WITHDRAWAL SYMPTOMS",
-        "url": "https://open.spotify.com/album/5NNr9nRArk1NzuD8drNsiE"
+        "name": "Starcrossed",
+        "url": "https://open.spotify.com/album/0EotHssXwipeSqR7x8smCC"
       },
       "artists": [
         {
-          "name": "IKAN HYU",
-          "url": "https://open.spotify.com/artist/1kcgm5pRULbDb5gs7kDRNK"
+          "name": "Kings Elliot",
+          "url": "https://open.spotify.com/artist/3iUGCPBBseYhEhwqCG7PNy"
         }
       ],
-      "duration_ms": 219718,
-      "name": "\u2601\ufe0e purple orange sky \u2601\ufe0e",
-      "url": "https://open.spotify.com/track/09LlHp3Wjs5KEWDCuWs1Ns"
+      "duration_ms": 183157,
+      "name": "Starcrossed",
+      "url": "https://open.spotify.com/track/0vIAdlejSPRVJZwY5h7pqe"
     },
     {
       "added_at": "2026-11-19 23:01:00",
@@ -771,18 +771,18 @@
     {
       "added_at": "2026-11-19 23:01:00",
       "album": {
-        "name": "Playgrounds In Ruins (Deluxe)",
-        "url": "https://open.spotify.com/album/6TuHCVJ7fwDYlZzZKwffiB"
+        "name": "Darling You\u2019re The Worst",
+        "url": "https://open.spotify.com/album/3uKIoyw5PjZhtRSzFW4D53"
       },
       "artists": [
         {
-          "name": "Argyle",
-          "url": "https://open.spotify.com/artist/341j56Mxd1Dm9mOUC2OBfg"
+          "name": "DANA",
+          "url": "https://open.spotify.com/artist/3rQLVRDmnGhPhFBp4Q35Rr"
         }
       ],
-      "duration_ms": 203370,
-      "name": "Divine",
-      "url": "https://open.spotify.com/track/6a3nYH5MyNpjWgu5xggbdo"
+      "duration_ms": 192360,
+      "name": "Darling You\u2019re The Worst",
+      "url": "https://open.spotify.com/track/1oGQ9YBiav74Q9MjjOTwi8"
     },
     {
       "added_at": "2026-11-19 23:01:00",
@@ -803,18 +803,18 @@
     {
       "added_at": "2026-11-19 23:01:00",
       "album": {
-        "name": "Darling You\u2019re The Worst",
-        "url": "https://open.spotify.com/album/3uKIoyw5PjZhtRSzFW4D53"
+        "name": "Playgrounds In Ruins (Deluxe)",
+        "url": "https://open.spotify.com/album/6TuHCVJ7fwDYlZzZKwffiB"
       },
       "artists": [
         {
-          "name": "DANA",
-          "url": "https://open.spotify.com/artist/3rQLVRDmnGhPhFBp4Q35Rr"
+          "name": "Argyle",
+          "url": "https://open.spotify.com/artist/341j56Mxd1Dm9mOUC2OBfg"
         }
       ],
-      "duration_ms": 192360,
-      "name": "Darling You\u2019re The Worst",
-      "url": "https://open.spotify.com/track/1oGQ9YBiav74Q9MjjOTwi8"
+      "duration_ms": 203370,
+      "name": "Divine",
+      "url": "https://open.spotify.com/track/6a3nYH5MyNpjWgu5xggbdo"
     },
     {
       "added_at": "2026-11-19 23:01:00",
@@ -1083,22 +1083,6 @@
     {
       "added_at": "2026-11-19 23:01:00",
       "album": {
-        "name": "This I Know",
-        "url": "https://open.spotify.com/album/6dkEelex2bMAhmLvrm0Y5V"
-      },
-      "artists": [
-        {
-          "name": "Noemi Beza",
-          "url": "https://open.spotify.com/artist/6VxYXAGO7LTKvpNv2n93TD"
-        }
-      ],
-      "duration_ms": 173302,
-      "name": "This I Know",
-      "url": "https://open.spotify.com/track/5tKuFGcwytK8EMw0YqMQae"
-    },
-    {
-      "added_at": "2026-11-19 23:01:00",
-      "album": {
         "name": "How Much Can a Heart Break",
         "url": "https://open.spotify.com/album/6UO64Z8AgMqPdSgoljbaRx"
       },
@@ -1111,6 +1095,22 @@
       "duration_ms": 195055,
       "name": "How Much Can a Heart Break",
       "url": "https://open.spotify.com/track/0NAzeWAZjFBFzTorfZS9DF"
+    },
+    {
+      "added_at": "2026-11-19 23:01:00",
+      "album": {
+        "name": "This I Know",
+        "url": "https://open.spotify.com/album/6dkEelex2bMAhmLvrm0Y5V"
+      },
+      "artists": [
+        {
+          "name": "Noemi Beza",
+          "url": "https://open.spotify.com/artist/6VxYXAGO7LTKvpNv2n93TD"
+        }
+      ],
+      "duration_ms": 173302,
+      "name": "This I Know",
+      "url": "https://open.spotify.com/track/5tKuFGcwytK8EMw0YqMQae"
     },
     {
       "added_at": "2026-11-19 23:01:00",
@@ -1163,8 +1163,8 @@
     {
       "added_at": "2026-11-19 23:01:00",
       "album": {
-        "name": "Circles",
-        "url": "https://open.spotify.com/album/7pn0jxc1CHp2VOuCcHaOfd"
+        "name": "Power",
+        "url": "https://open.spotify.com/album/2cHXXBz5wRN0kNbU53sD7D"
       },
       "artists": [
         {
@@ -1172,15 +1172,15 @@
           "url": "https://open.spotify.com/artist/0bm9qSmVJmT9CEukIhhZY5"
         }
       ],
-      "duration_ms": 176733,
-      "name": "Shine",
-      "url": "https://open.spotify.com/track/64DAkoW3n3vD48E7i19K8Z"
+      "duration_ms": 164066,
+      "name": "Power",
+      "url": "https://open.spotify.com/track/4wSKiYLFHTcG3HRXgbjNyI"
     },
     {
       "added_at": "2026-11-19 23:01:00",
       "album": {
-        "name": "Blindsided",
-        "url": "https://open.spotify.com/album/6Jh1fi9Du4vuxsjshDz1bb"
+        "name": "Low Tide",
+        "url": "https://open.spotify.com/album/1jmxE0EMixooHHrPMwLGeM"
       },
       "artists": [
         {
@@ -1188,9 +1188,9 @@
           "url": "https://open.spotify.com/artist/3rQLVRDmnGhPhFBp4Q35Rr"
         }
       ],
-      "duration_ms": 165062,
-      "name": "Blindsided",
-      "url": "https://open.spotify.com/track/73CnJCOx1kW7M46WsB7Zed"
+      "duration_ms": 161340,
+      "name": "Low Tide",
+      "url": "https://open.spotify.com/track/44LdsGW3nKLfkp0WeInuEC"
     },
     {
       "added_at": "2026-11-19 23:01:00",
@@ -1243,8 +1243,8 @@
     {
       "added_at": "2026-11-19 23:01:00",
       "album": {
-        "name": "Power",
-        "url": "https://open.spotify.com/album/2cHXXBz5wRN0kNbU53sD7D"
+        "name": "Circles",
+        "url": "https://open.spotify.com/album/7pn0jxc1CHp2VOuCcHaOfd"
       },
       "artists": [
         {
@@ -1252,15 +1252,15 @@
           "url": "https://open.spotify.com/artist/0bm9qSmVJmT9CEukIhhZY5"
         }
       ],
-      "duration_ms": 164066,
-      "name": "Power",
-      "url": "https://open.spotify.com/track/4wSKiYLFHTcG3HRXgbjNyI"
+      "duration_ms": 176733,
+      "name": "Shine",
+      "url": "https://open.spotify.com/track/64DAkoW3n3vD48E7i19K8Z"
     },
     {
       "added_at": "2026-11-19 23:01:00",
       "album": {
-        "name": "Low Tide",
-        "url": "https://open.spotify.com/album/1jmxE0EMixooHHrPMwLGeM"
+        "name": "Blindsided",
+        "url": "https://open.spotify.com/album/6Jh1fi9Du4vuxsjshDz1bb"
       },
       "artists": [
         {
@@ -1268,25 +1268,9 @@
           "url": "https://open.spotify.com/artist/3rQLVRDmnGhPhFBp4Q35Rr"
         }
       ],
-      "duration_ms": 161340,
-      "name": "Low Tide",
-      "url": "https://open.spotify.com/track/44LdsGW3nKLfkp0WeInuEC"
-    },
-    {
-      "added_at": "2026-11-19 23:01:00",
-      "album": {
-        "name": "These Walls",
-        "url": "https://open.spotify.com/album/6aLdjyeTqqpkUk86IaE69g"
-      },
-      "artists": [
-        {
-          "name": "Luca H\u00e4nni",
-          "url": "https://open.spotify.com/artist/5JbALDn35ZrLwVAle4xVqZ"
-        }
-      ],
-      "duration_ms": 184893,
-      "name": "These Walls",
-      "url": "https://open.spotify.com/track/5fr2nes4H8khGAlOT9Vj6t"
+      "duration_ms": 165062,
+      "name": "Blindsided",
+      "url": "https://open.spotify.com/track/73CnJCOx1kW7M46WsB7Zed"
     },
     {
       "added_at": "2026-11-19 23:01:00",
@@ -1303,6 +1287,22 @@
       "duration_ms": 177250,
       "name": "Don't Let Him Go",
       "url": "https://open.spotify.com/track/2ukDVX6smfiRj3LjDS6fCk"
+    },
+    {
+      "added_at": "2026-11-19 23:01:00",
+      "album": {
+        "name": "These Walls",
+        "url": "https://open.spotify.com/album/6aLdjyeTqqpkUk86IaE69g"
+      },
+      "artists": [
+        {
+          "name": "Luca H\u00e4nni",
+          "url": "https://open.spotify.com/artist/5JbALDn35ZrLwVAle4xVqZ"
+        }
+      ],
+      "duration_ms": 184893,
+      "name": "These Walls",
+      "url": "https://open.spotify.com/track/5fr2nes4H8khGAlOT9Vj6t"
     },
     {
       "added_at": "2026-11-19 23:01:00",
@@ -1359,22 +1359,6 @@
     {
       "added_at": "2026-11-19 23:01:00",
       "album": {
-        "name": "Since We Met",
-        "url": "https://open.spotify.com/album/7ID8FWy8D2I6A8J62xHrHh"
-      },
-      "artists": [
-        {
-          "name": "Luca H\u00e4nni",
-          "url": "https://open.spotify.com/artist/5JbALDn35ZrLwVAle4xVqZ"
-        }
-      ],
-      "duration_ms": 144373,
-      "name": "Since We Met",
-      "url": "https://open.spotify.com/track/6fiGXtkvgTxU68tuhpTP6D"
-    },
-    {
-      "added_at": "2026-11-19 23:01:00",
-      "album": {
         "name": "Young Bones",
         "url": "https://open.spotify.com/album/6T6rIiwTaM8OixBIhHfnMW"
       },
@@ -1387,6 +1371,22 @@
       "duration_ms": 184880,
       "name": "Hey You",
       "url": "https://open.spotify.com/track/1o3OICvacQhv1wMB9X71fe"
+    },
+    {
+      "added_at": "2026-11-19 23:01:00",
+      "album": {
+        "name": "Since We Met",
+        "url": "https://open.spotify.com/album/7ID8FWy8D2I6A8J62xHrHh"
+      },
+      "artists": [
+        {
+          "name": "Luca H\u00e4nni",
+          "url": "https://open.spotify.com/artist/5JbALDn35ZrLwVAle4xVqZ"
+        }
+      ],
+      "duration_ms": 144373,
+      "name": "Since We Met",
+      "url": "https://open.spotify.com/track/6fiGXtkvgTxU68tuhpTP6D"
     },
     {
       "added_at": "2026-11-19 23:01:00",
@@ -1407,22 +1407,6 @@
     {
       "added_at": "2026-11-19 23:01:00",
       "album": {
-        "name": "Wednesdays",
-        "url": "https://open.spotify.com/album/3H3CoWLhNoe3Z1KP4th1Xp"
-      },
-      "artists": [
-        {
-          "name": "Soft Loft",
-          "url": "https://open.spotify.com/artist/2AeL43nXvfqW3WrV9sDh5t"
-        }
-      ],
-      "duration_ms": 210842,
-      "name": "Wednesdays",
-      "url": "https://open.spotify.com/track/131XfngivzGCdM0p9kzsAP"
-    },
-    {
-      "added_at": "2026-11-19 23:01:00",
-      "album": {
         "name": "oxygen",
         "url": "https://open.spotify.com/album/4EDGkCx4podx97NEbColdz"
       },
@@ -1435,6 +1419,22 @@
       "duration_ms": 184761,
       "name": "oxygen",
       "url": "https://open.spotify.com/track/2mi0tvl5H88Z7hVvQVA27T"
+    },
+    {
+      "added_at": "2026-11-19 23:01:00",
+      "album": {
+        "name": "Wednesdays",
+        "url": "https://open.spotify.com/album/3H3CoWLhNoe3Z1KP4th1Xp"
+      },
+      "artists": [
+        {
+          "name": "Soft Loft",
+          "url": "https://open.spotify.com/artist/2AeL43nXvfqW3WrV9sDh5t"
+        }
+      ],
+      "duration_ms": 210842,
+      "name": "Wednesdays",
+      "url": "https://open.spotify.com/track/131XfngivzGCdM0p9kzsAP"
     },
     {
       "added_at": "2026-11-19 23:01:00",
@@ -1571,22 +1571,6 @@
     {
       "added_at": "2026-11-19 23:01:00",
       "album": {
-        "name": "Change You",
-        "url": "https://open.spotify.com/album/2LSRAOLKmeqPr6ryzpErIT"
-      },
-      "artists": [
-        {
-          "name": "Linda Wolf",
-          "url": "https://open.spotify.com/artist/5k0bwTI10kfhSyDkg0fvEo"
-        }
-      ],
-      "duration_ms": 266105,
-      "name": "Change You",
-      "url": "https://open.spotify.com/track/0H8TpnomHoEJaXyOGJcnfH"
-    },
-    {
-      "added_at": "2026-11-19 23:01:00",
-      "album": {
         "name": "Devil On My Back",
         "url": "https://open.spotify.com/album/2JbmroGB0UrTPICePQXARj"
       },
@@ -1603,18 +1587,18 @@
     {
       "added_at": "2026-11-19 23:01:00",
       "album": {
-        "name": "Waiting For Love",
-        "url": "https://open.spotify.com/album/77P9wXuR8Ju9urUZbjlbnU"
+        "name": "Change You",
+        "url": "https://open.spotify.com/album/2LSRAOLKmeqPr6ryzpErIT"
       },
       "artists": [
         {
-          "name": "Marius Bear",
-          "url": "https://open.spotify.com/artist/6thEUEg4pJq0H4aLVqNMwb"
+          "name": "Linda Wolf",
+          "url": "https://open.spotify.com/artist/5k0bwTI10kfhSyDkg0fvEo"
         }
       ],
-      "duration_ms": 194626,
-      "name": "Waiting For Love",
-      "url": "https://open.spotify.com/track/3VO7y40frV8gnkRaWidSqT"
+      "duration_ms": 266105,
+      "name": "Change You",
+      "url": "https://open.spotify.com/track/0H8TpnomHoEJaXyOGJcnfH"
     },
     {
       "added_at": "2026-11-19 23:01:00",
@@ -1631,6 +1615,22 @@
       "duration_ms": 145464,
       "name": "Fall",
       "url": "https://open.spotify.com/track/1byuhNxuaxTl2LUIkewV0t"
+    },
+    {
+      "added_at": "2026-11-19 23:01:00",
+      "album": {
+        "name": "Waiting For Love",
+        "url": "https://open.spotify.com/album/77P9wXuR8Ju9urUZbjlbnU"
+      },
+      "artists": [
+        {
+          "name": "Marius Bear",
+          "url": "https://open.spotify.com/artist/6thEUEg4pJq0H4aLVqNMwb"
+        }
+      ],
+      "duration_ms": 194626,
+      "name": "Waiting For Love",
+      "url": "https://open.spotify.com/track/3VO7y40frV8gnkRaWidSqT"
     }
   ],
   "unique_name": "Swiss Made",

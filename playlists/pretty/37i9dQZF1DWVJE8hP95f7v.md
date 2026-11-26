@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVJE8hP95f7v.md) - [plain]
 
 > Um apanhado do soul brasileiro para animar e dançar\. Foto: Liniker
 
-[Spotify](https://open.spotify.com/user/spotify) - 157,241 likes - 75 songs - 4 hr 24 min
+[Spotify](https://open.spotify.com/user/spotify) - 157,254 likes - 75 songs - 4 hr 24 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVJE8hP95f7v.md) - [plain]
 | 74 | [violão amarelo](https://open.spotify.com/track/04A6kvfVw3hJimApxX6hhr) | [Os Garotin](https://open.spotify.com/artist/6aMpeys8CsM9RuRR74RNMP), [Anchietx](https://open.spotify.com/artist/0Ld8rJ0rdAEAi2oe6seDEp), [Cupertino](https://open.spotify.com/artist/5olhfQdhVAQny8TB3eZrwD), [Leo Guima](https://open.spotify.com/artist/4i6YMhe65eKTuSFRKq0X1d) | [OS GAROTIN DE SÃO GONÇALO](https://open.spotify.com/album/07C0GZEXLAELHVNkBNeVXZ) | 3:03 |
 | 75 | [Depois do Amor](https://open.spotify.com/track/1DLitp0tvUDULj1Xvji3G8) | [Adrian Younge](https://open.spotify.com/artist/4aMeIY7MkJoZg7O91cmDDd), [Samantha Schmütz](https://open.spotify.com/artist/2d5jpxKopvlhzQ2UneuilJ) | [Depois do Amor](https://open.spotify.com/album/3b5sEZLSfgUoHNLYm6Z78S) | 3:22 |
 
-Snapshot ID: `AAAAAIqDO6WJkFgsGWbIbwc5ksutgqE3`
+Snapshot ID: `AAAAAN7Redjv/YkFfI29Ajp6KtdQcQ0T`

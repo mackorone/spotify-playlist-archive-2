@@ -4,7 +4,7 @@
 
 > كل ما هو جديد في عالم البوب المصري\. الغلاف: سميرة سعيد
 
-593 songs - 1 day 10 hr 47 min
+594 songs - 1 day 10 hr 50 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -234,6 +234,7 @@
 | [Lammet El Habayeb](https://open.spotify.com/track/1oxr8IrrgSGAMaucBGd39R) | [Ramy Ayach](https://open.spotify.com/artist/39AgPTHxIEp2QUozYYsnV1) | [Lammet El Habayeb](https://open.spotify.com/album/6gIEqHPHvN0jPbRc6yG5b3) | 3:30 | 2023-08-11 | 2024-02-07 |
 | [Law Hatsib](https://open.spotify.com/track/2a7NX3ftu4GAO52dnCRxXM) | [Mohamed Hamaki](https://open.spotify.com/artist/6bb9VI1PpPTEmdgcgjTppX) | [Law Hatsib](https://open.spotify.com/album/0CeV0YaRQp0nqdO5JYWtPV) | 3:48 | 2022-05-04 | 2022-07-29 |
 | [Law Hatsib](https://open.spotify.com/track/7h7FKF2JBDa6xChi3z9KxC) | [Mohamed Hamaki](https://open.spotify.com/artist/6bb9VI1PpPTEmdgcgjTppX) | [Ya Fatenny](https://open.spotify.com/album/4c7UeqkDVT5AZI3hN7oitj) | 3:48 | 2022-07-14 | 2023-05-18 |
+| [Law Khayef](https://open.spotify.com/track/7gOtWJHThMDq7gLYTbMAOa) | [Haifa Wehbe](https://open.spotify.com/artist/05ai8foZsZwk0cni0IOuNj), [Al Nather](https://open.spotify.com/artist/5qvrUMJ8oO3BswrQO3w0hl) | [Law Khayef](https://open.spotify.com/album/5hMdszshrK5CGpYaDtMyhb) | 3:53 | 2026-11-26 |  |
 | [Law Leila](https://open.spotify.com/track/7qWCbA7On2hYM1U3ymCmtR) | [Yonyo](https://open.spotify.com/artist/5EGFmTVcpHl9uKZqXBKrH5) | [Kalemny](https://open.spotify.com/album/0uOZsMawECJyo7pgBmKJVF) | 2:41 | 2026-09-03 |  |
 | [Law Tseeb Haseeb](https://open.spotify.com/track/7jFS9fKFHqgEGlrz7YUDNv) | [Tommyy](https://open.spotify.com/artist/40zCGXzhrnG6Lz4hQ7XK0l) | [Law Tseeb Haseeb](https://open.spotify.com/album/0rTXCEzys2Opo7pQ6R1xux) | 2:59 | 2026-07-06 |  |
 | [Layali](https://open.spotify.com/track/7oqjCeb21Ju6DJtys5PEPg) | [Elyanna](https://open.spotify.com/artist/0jIWKlfmD4Ew7HeVVrq03g) | [Ghazali \(Part I\)](https://open.spotify.com/album/48t5uBGJucx2rRiS7HKWR6) | 3:35 | 2026-11-10 |  |

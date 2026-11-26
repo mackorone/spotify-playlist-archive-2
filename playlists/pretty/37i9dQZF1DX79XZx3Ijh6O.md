@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX79XZx3Ijh6O.md) - [plain]
 
 > Найліпша музика від українських артистів\-початківців\. Обкладинка: Anton Kramar
 
-[Spotify](https://open.spotify.com/user/spotify) - 4,336 likes - 50 songs - 2 hr 39 min
+[Spotify](https://open.spotify.com/user/spotify) - 4,348 likes - 50 songs - 2 hr 39 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX79XZx3Ijh6O.md) - [plain]
 | 49 | [Дикий Захід](https://open.spotify.com/track/1p7CZx3vGVGTlDftSHEVVz) | [Анна Рєзнік](https://open.spotify.com/artist/635D49qTMTn1ifM8KUHpge) | [Дикий Захід](https://open.spotify.com/album/0fHXGTC5IEluv4fEGo5cdG) | 3:13 |
 | 50 | [Сумний Фанк](https://open.spotify.com/track/5guxjbn4fBuYdIMee0HuL2) | [Seba Korecky](https://open.spotify.com/artist/5LnreYK6KFwXOBG6QnBPeR), [Komisiia](https://open.spotify.com/artist/1PZFXv6jqO1BkO7GH6JmjZ) | [Сумний Фанк](https://open.spotify.com/album/5qYdUXkGkfmVrNqlpL27vM) | 3:54 |
 
-Snapshot ID: `AAAAAAwR8/KhK2qnVFlDpSlzdCCSkDyV`
+Snapshot ID: `AAAAAJQWunooVn/zNF7NWYWeHxJYbIAj`

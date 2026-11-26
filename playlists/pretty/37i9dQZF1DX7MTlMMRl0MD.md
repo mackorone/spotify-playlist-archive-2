@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7MTlMMRl0MD.md) - [plain]
 
 > Tu lista favorita de Bachata ❤️ Cover: Romeo Santos & Prince Royce
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,785,469 likes - 50 songs - 2 hr 49 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,785,211 likes - 50 songs - 2 hr 49 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -50,13 +50,13 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7MTlMMRl0MD.md) - [plain]
 | 40 | [Tu Loca](https://open.spotify.com/track/3rNjg96AJMRTsRZ6GKRICw) | [NATTI NATASHA](https://open.spotify.com/artist/1GDbiv3spRmZ1XdM1jQbT7) | [Tu Loca](https://open.spotify.com/album/2azunHTrQxU6hJ4qPFDQoP) | 3:10 |
 | 41 | [1ra\. Cita](https://open.spotify.com/track/6BOUinUGu3mTwcRgrh22Ia) | [Henry Santos](https://open.spotify.com/artist/1cUfMJtWJXfhTQvYGJQtaF) | [1ra\. Cita](https://open.spotify.com/album/0YlPvYXJhtn2a74qgG5zQ3) | 3:54 |
 | 42 | [El Corazón No Perdona](https://open.spotify.com/track/3xeKYApzfxkhvoBJmCZGwa) | [Mr\. Don](https://open.spotify.com/artist/12YP3RGVLp3c36Zi6lFRtR), [DerekVinci](https://open.spotify.com/artist/7du7SizqDeaP96ds19p1yu), [Dani J](https://open.spotify.com/artist/3TEhIeweC59okLmqFu6LWv) | [El Corazón No Perdona](https://open.spotify.com/album/55Iw0VQa08ashyxD8U8VOY) | 3:16 |
-| 43 | [La Zaza](https://open.spotify.com/track/7wbca2nUc5H5uXNpyyFBUo) | [Los Sufridos](https://open.spotify.com/artist/2tmrdVbpFzIVIOcqxvErj2) | [La Zaza](https://open.spotify.com/album/7KJIMjx3aIZuHrOWDZi1K1) | 3:24 |
-| 44 | [Ruta 66](https://open.spotify.com/track/3uMZGqWOjFQTPhgls6ZVSj) | [Dani J](https://open.spotify.com/artist/3TEhIeweC59okLmqFu6LWv) | [Ruta 66](https://open.spotify.com/album/7myyJNpaXyechOOyTuQoPA) | 3:41 |
+| 43 | [Ruta 66](https://open.spotify.com/track/3uMZGqWOjFQTPhgls6ZVSj) | [Dani J](https://open.spotify.com/artist/3TEhIeweC59okLmqFu6LWv) | [Ruta 66](https://open.spotify.com/album/7myyJNpaXyechOOyTuQoPA) | 3:41 |
+| 44 | [El Amante](https://open.spotify.com/track/75o9TCfKzMTpNJ5QrHvrdj) | [Wilven Bello](https://open.spotify.com/artist/6cJpv2M7hjes1BxCIfqq8B) | [Midnight Confessions](https://open.spotify.com/album/6BEAJJ5WC70dfDIoqBHurP) | 3:54 |
 | 45 | [Ya No Comparto](https://open.spotify.com/track/0099ZFXDXNi4DuRhoOiEaV) | [NATTI NATASHA](https://open.spotify.com/artist/1GDbiv3spRmZ1XdM1jQbT7), [Ozuna](https://open.spotify.com/artist/1i8SpTcr7yvPOmcqrbnVXY) | [Natti Natasha en Amargue](https://open.spotify.com/album/2JMAAMlcZEg2wOl7b0fRA9) | 3:19 |
-| 46 | [El Amante](https://open.spotify.com/track/75o9TCfKzMTpNJ5QrHvrdj) | [Wilven Bello](https://open.spotify.com/artist/6cJpv2M7hjes1BxCIfqq8B) | [Midnight Confessions](https://open.spotify.com/album/6BEAJJ5WC70dfDIoqBHurP) | 3:54 |
-| 47 | [La Rueda](https://open.spotify.com/track/1IhFRotuBhS4jJGxfk10LR) | [Ralphy Dreamz](https://open.spotify.com/artist/5elxYg57OGXnqXm6wZDmvm) | [La Rueda](https://open.spotify.com/album/4wOmtNiEwFgpJkMqpPvw2k) | 3:55 |
-| 48 | [Solo](https://open.spotify.com/track/7drxsX64tVAdhqkfa3B0D1) | [mhtresuno](https://open.spotify.com/artist/1S1AhqtlhBuOTsEaM1kAOQ) | [Solo](https://open.spotify.com/album/0v93cVeuek2BnhTDbLRcGa) | 3:10 |
-| 49 | [Química](https://open.spotify.com/track/3Gq7jBOYcn2SsbTdfEFWtU) | [Johnny Sky](https://open.spotify.com/artist/3EVZsBWq5KqdtS6eVNHN8d) | [Química](https://open.spotify.com/album/4pt3YzSijT0QJBowxRd7Jm) | 3:08 |
+| 46 | [La Zaza](https://open.spotify.com/track/7wbca2nUc5H5uXNpyyFBUo) | [Los Sufridos](https://open.spotify.com/artist/2tmrdVbpFzIVIOcqxvErj2) | [La Zaza](https://open.spotify.com/album/7KJIMjx3aIZuHrOWDZi1K1) | 3:24 |
+| 47 | [Química](https://open.spotify.com/track/3Gq7jBOYcn2SsbTdfEFWtU) | [Johnny Sky](https://open.spotify.com/artist/3EVZsBWq5KqdtS6eVNHN8d) | [Química](https://open.spotify.com/album/4pt3YzSijT0QJBowxRd7Jm) | 3:08 |
+| 48 | [La Rueda](https://open.spotify.com/track/1IhFRotuBhS4jJGxfk10LR) | [Ralphy Dreamz](https://open.spotify.com/artist/5elxYg57OGXnqXm6wZDmvm) | [La Rueda](https://open.spotify.com/album/4wOmtNiEwFgpJkMqpPvw2k) | 3:55 |
+| 49 | [Solo](https://open.spotify.com/track/7drxsX64tVAdhqkfa3B0D1) | [mhtresuno](https://open.spotify.com/artist/1S1AhqtlhBuOTsEaM1kAOQ) | [Solo](https://open.spotify.com/album/0v93cVeuek2BnhTDbLRcGa) | 3:10 |
 | 50 | [Sin Gravedad](https://open.spotify.com/track/1Q9apOKT7wESrkgceJVOpF) | [Mario Baro](https://open.spotify.com/artist/4svxKljLyMB1HaLbJainKP) | [Sin Gravedad](https://open.spotify.com/album/4NkQuWiViMj6ZtSqYO0Py6) | 2:56 |
 
-Snapshot ID: `AAAAAPuBlu8kD6BATbQnp15OCO5Y+rlD`
+Snapshot ID: `AAAAAL0gM74r5yKk2Ia0H52yNqlsZVk2`

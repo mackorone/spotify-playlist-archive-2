@@ -1,12 +1,12 @@
 {
   "description": "The very best in Scandifolk - from Icelandic blues rock to Norwegicana.",
-  "num_followers": 226200,
+  "num_followers": 226206,
   "original_name": "Nordic Folk",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAP7MT73wp+CmaHVtBB2dmZNwjZTn",
+  "snapshot_id": "AAAAAEiW1llfSfiwalX5Tf2hJ62Aoifs",
   "tracks": [
     {
       "added_at": "2026-11-19 23:01:24",
@@ -603,26 +603,6 @@
     {
       "added_at": "2026-11-19 23:01:24",
       "album": {
-        "name": "Overboda",
-        "url": "https://open.spotify.com/album/3T6sNT79Wwaiv8gLuAy3sd"
-      },
-      "artists": [
-        {
-          "name": "The Tallest Man On Earth",
-          "url": "https://open.spotify.com/artist/2BpAc5eK7Rz5GAwSp9UYXa"
-        },
-        {
-          "name": "Sofia HK",
-          "url": "https://open.spotify.com/artist/4UH2w0k8p6S7FeWcYApB8Y"
-        }
-      ],
-      "duration_ms": 191440,
-      "name": "Overboda",
-      "url": "https://open.spotify.com/track/3epOEYmGLCbfdniI7xTYvC"
-    },
-    {
-      "added_at": "2026-11-19 23:01:24",
-      "album": {
         "name": "Goodbye to the Valley Low (Side A)",
         "url": "https://open.spotify.com/album/4y08yRIEOIAcGkuJWwWZ91"
       },
@@ -635,22 +615,6 @@
       "duration_ms": 172304,
       "name": "Cemetery",
       "url": "https://open.spotify.com/track/0y4zq960wgBj2gTdpshCZ1"
-    },
-    {
-      "added_at": "2026-11-19 23:01:24",
-      "album": {
-        "name": "member",
-        "url": "https://open.spotify.com/album/6Qss7SVxhsnDImYCXUvdNE"
-      },
-      "artists": [
-        {
-          "name": "AKA lisa",
-          "url": "https://open.spotify.com/artist/0WTTqGh79njNF2o4Cgklc1"
-        }
-      ],
-      "duration_ms": 187800,
-      "name": "member",
-      "url": "https://open.spotify.com/track/3oP9C1RYEOzRWMmnKtC8wh"
     },
     {
       "added_at": "2026-11-19 23:01:24",
@@ -671,6 +635,42 @@
     {
       "added_at": "2026-11-19 23:01:24",
       "album": {
+        "name": "Overboda",
+        "url": "https://open.spotify.com/album/3T6sNT79Wwaiv8gLuAy3sd"
+      },
+      "artists": [
+        {
+          "name": "The Tallest Man On Earth",
+          "url": "https://open.spotify.com/artist/2BpAc5eK7Rz5GAwSp9UYXa"
+        },
+        {
+          "name": "Sofia HK",
+          "url": "https://open.spotify.com/artist/4UH2w0k8p6S7FeWcYApB8Y"
+        }
+      ],
+      "duration_ms": 191440,
+      "name": "Overboda",
+      "url": "https://open.spotify.com/track/3epOEYmGLCbfdniI7xTYvC"
+    },
+    {
+      "added_at": "2026-11-19 23:01:24",
+      "album": {
+        "name": "member",
+        "url": "https://open.spotify.com/album/6Qss7SVxhsnDImYCXUvdNE"
+      },
+      "artists": [
+        {
+          "name": "AKA lisa",
+          "url": "https://open.spotify.com/artist/0WTTqGh79njNF2o4Cgklc1"
+        }
+      ],
+      "duration_ms": 187800,
+      "name": "member",
+      "url": "https://open.spotify.com/track/3oP9C1RYEOzRWMmnKtC8wh"
+    },
+    {
+      "added_at": "2026-11-19 23:01:24",
+      "album": {
         "name": "UFO",
         "url": "https://open.spotify.com/album/21f17oQynU60lyfT0wjj8U"
       },
@@ -683,22 +683,6 @@
       "duration_ms": 180364,
       "name": "UFO",
       "url": "https://open.spotify.com/track/32scuBdePLY3o4ZwJDWLRR"
-    },
-    {
-      "added_at": "2026-11-19 23:01:24",
-      "album": {
-        "name": "In The Silver Wire Up The Hill",
-        "url": "https://open.spotify.com/album/6zv6dXI5a3UU1hbsHAIbhx"
-      },
-      "artists": [
-        {
-          "name": "The Tallest Man On Earth",
-          "url": "https://open.spotify.com/artist/2BpAc5eK7Rz5GAwSp9UYXa"
-        }
-      ],
-      "duration_ms": 222066,
-      "name": "In The Silver Wire Up The Hill",
-      "url": "https://open.spotify.com/track/0F6mh0uFBlp9ZooThw0x8L"
     },
     {
       "added_at": "2026-11-19 23:01:24",
@@ -735,6 +719,22 @@
     {
       "added_at": "2026-11-19 23:01:24",
       "album": {
+        "name": "In The Silver Wire Up The Hill",
+        "url": "https://open.spotify.com/album/6zv6dXI5a3UU1hbsHAIbhx"
+      },
+      "artists": [
+        {
+          "name": "The Tallest Man On Earth",
+          "url": "https://open.spotify.com/artist/2BpAc5eK7Rz5GAwSp9UYXa"
+        }
+      ],
+      "duration_ms": 222066,
+      "name": "In The Silver Wire Up The Hill",
+      "url": "https://open.spotify.com/track/0F6mh0uFBlp9ZooThw0x8L"
+    },
+    {
+      "added_at": "2026-11-19 23:01:24",
+      "album": {
         "name": "bl\u00f3mi",
         "url": "https://open.spotify.com/album/0Cq0t6HFg2UeAEqwED7ezE"
       },
@@ -767,18 +767,18 @@
     {
       "added_at": "2026-11-19 23:01:24",
       "album": {
-        "name": "Colors",
-        "url": "https://open.spotify.com/album/5gYt9wiCn8FXxQhu58Rrbv"
+        "name": "Feels like That",
+        "url": "https://open.spotify.com/album/74iE9zshOGQsSLWsAtmPlq"
       },
       "artists": [
         {
-          "name": "The Tallest Man On Earth",
-          "url": "https://open.spotify.com/artist/2BpAc5eK7Rz5GAwSp9UYXa"
+          "name": "Victor Lundberg",
+          "url": "https://open.spotify.com/artist/3aPt0ITiKD1r1GXV3RvOUh"
         }
       ],
-      "duration_ms": 315000,
-      "name": "Colors",
-      "url": "https://open.spotify.com/track/7eWLaTshSGOtQJ2KHoNEZZ"
+      "duration_ms": 216955,
+      "name": "Feels like That",
+      "url": "https://open.spotify.com/track/6odNsNmG4RJbxIkNBe9otp"
     },
     {
       "added_at": "2026-11-19 23:01:24",
@@ -799,18 +799,18 @@
     {
       "added_at": "2026-11-19 23:01:24",
       "album": {
-        "name": "Feels like That",
-        "url": "https://open.spotify.com/album/74iE9zshOGQsSLWsAtmPlq"
+        "name": "Colors",
+        "url": "https://open.spotify.com/album/5gYt9wiCn8FXxQhu58Rrbv"
       },
       "artists": [
         {
-          "name": "Victor Lundberg",
-          "url": "https://open.spotify.com/artist/3aPt0ITiKD1r1GXV3RvOUh"
+          "name": "The Tallest Man On Earth",
+          "url": "https://open.spotify.com/artist/2BpAc5eK7Rz5GAwSp9UYXa"
         }
       ],
-      "duration_ms": 216955,
-      "name": "Feels like That",
-      "url": "https://open.spotify.com/track/6odNsNmG4RJbxIkNBe9otp"
+      "duration_ms": 315000,
+      "name": "Colors",
+      "url": "https://open.spotify.com/track/7eWLaTshSGOtQJ2KHoNEZZ"
     },
     {
       "added_at": "2026-11-19 23:01:24",
@@ -843,22 +843,6 @@
       "duration_ms": 133613,
       "name": "forever, for a while",
       "url": "https://open.spotify.com/track/3TXIqqudMSSS0kkQ3sQV0S"
-    },
-    {
-      "added_at": "2026-11-19 23:01:24",
-      "album": {
-        "name": "Deliver Me From Trying",
-        "url": "https://open.spotify.com/album/6EdfaGpqsJBOlnaD0KeT8r"
-      },
-      "artists": [
-        {
-          "name": "The Tallest Man On Earth",
-          "url": "https://open.spotify.com/artist/2BpAc5eK7Rz5GAwSp9UYXa"
-        }
-      ],
-      "duration_ms": 234773,
-      "name": "Deliver Me From Trying",
-      "url": "https://open.spotify.com/track/7hYvMqoqHqoow0XRJ6RCNk"
     },
     {
       "added_at": "2026-11-19 23:01:24",
@@ -899,18 +883,34 @@
     {
       "added_at": "2026-11-19 23:01:24",
       "album": {
-        "name": "The Man Who Lost it All",
-        "url": "https://open.spotify.com/album/7DvL5aHAGTW4sliUCDvXDA"
+        "name": "Deliver Me From Trying",
+        "url": "https://open.spotify.com/album/6EdfaGpqsJBOlnaD0KeT8r"
       },
       "artists": [
         {
-          "name": "Boy In Space",
-          "url": "https://open.spotify.com/artist/0xu4jAQQv7ZAqvFGdc9HgP"
+          "name": "The Tallest Man On Earth",
+          "url": "https://open.spotify.com/artist/2BpAc5eK7Rz5GAwSp9UYXa"
         }
       ],
-      "duration_ms": 199712,
-      "name": "The Man Who Lost it All",
-      "url": "https://open.spotify.com/track/3hrL1naeO9Z02XjKD44Mze"
+      "duration_ms": 234773,
+      "name": "Deliver Me From Trying",
+      "url": "https://open.spotify.com/track/7hYvMqoqHqoow0XRJ6RCNk"
+    },
+    {
+      "added_at": "2026-11-19 23:01:24",
+      "album": {
+        "name": "Wild Geese, Wild Love / Day 2000 Awake",
+        "url": "https://open.spotify.com/album/66GZtWDeK1hpl8runVWZQB"
+      },
+      "artists": [
+        {
+          "name": "Amanda Bergman",
+          "url": "https://open.spotify.com/artist/4FmkyL0ggkDBUUoPzBlo80"
+        }
+      ],
+      "duration_ms": 323386,
+      "name": "Wild Geese, Wild Love",
+      "url": "https://open.spotify.com/track/6AKLCejap9zRZ4QDKyrmSR"
     },
     {
       "added_at": "2026-11-19 23:01:24",
@@ -931,18 +931,18 @@
     {
       "added_at": "2026-11-19 23:01:24",
       "album": {
-        "name": "Wild Geese, Wild Love / Day 2000 Awake",
-        "url": "https://open.spotify.com/album/66GZtWDeK1hpl8runVWZQB"
+        "name": "The Man Who Lost it All",
+        "url": "https://open.spotify.com/album/7DvL5aHAGTW4sliUCDvXDA"
       },
       "artists": [
         {
-          "name": "Amanda Bergman",
-          "url": "https://open.spotify.com/artist/4FmkyL0ggkDBUUoPzBlo80"
+          "name": "Boy In Space",
+          "url": "https://open.spotify.com/artist/0xu4jAQQv7ZAqvFGdc9HgP"
         }
       ],
-      "duration_ms": 323386,
-      "name": "Wild Geese, Wild Love",
-      "url": "https://open.spotify.com/track/6AKLCejap9zRZ4QDKyrmSR"
+      "duration_ms": 199712,
+      "name": "The Man Who Lost it All",
+      "url": "https://open.spotify.com/track/3hrL1naeO9Z02XjKD44Mze"
     },
     {
       "added_at": "2026-11-19 23:01:24",

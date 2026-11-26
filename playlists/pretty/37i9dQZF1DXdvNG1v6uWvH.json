@@ -1,12 +1,12 @@
 {
   "description": "Loksins New Music Friday! N\u00fd t\u00f3nlist fr\u00e1 Zara Larsson, Gracie Abrams og m\u00f6rgum fleirum!",
-  "num_followers": 9742,
+  "num_followers": 9745,
   "original_name": "New Music Friday Iceland",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAO4csC5KGcGNW03BrtrbrX/xkfxH",
+  "snapshot_id": "AAAAAI2Am80cyOthPl12/XQY5F8NYkto",
   "tracks": [
     {
       "added_at": "2026-11-20 00:00:44",
@@ -259,6 +259,22 @@
     {
       "added_at": "2026-11-20 00:00:44",
       "album": {
+        "name": "Just A Woman",
+        "url": "https://open.spotify.com/album/5moBYmChzPrvaS0C0TuQop"
+      },
+      "artists": [
+        {
+          "name": "Lainey Wilson",
+          "url": "https://open.spotify.com/artist/6tPHARSq45lQ8BSALCfkFC"
+        }
+      ],
+      "duration_ms": 224461,
+      "name": "Just A Woman",
+      "url": "https://open.spotify.com/track/5veFPov4yG0SbfZqXGjoP3"
+    },
+    {
+      "added_at": "2026-11-20 00:00:44",
+      "album": {
         "name": "I'm a Song",
         "url": "https://open.spotify.com/album/1FvFf5xivch1Q13ouzmC8o"
       },
@@ -275,22 +291,6 @@
       "duration_ms": 275759,
       "name": "I'm a Song (feat. Chris Stapleton)",
       "url": "https://open.spotify.com/track/0v9ZnTzTMTkl4hkJT8yVGE"
-    },
-    {
-      "added_at": "2026-11-20 00:00:44",
-      "album": {
-        "name": "Just A Woman",
-        "url": "https://open.spotify.com/album/5moBYmChzPrvaS0C0TuQop"
-      },
-      "artists": [
-        {
-          "name": "Lainey Wilson",
-          "url": "https://open.spotify.com/artist/6tPHARSq45lQ8BSALCfkFC"
-        }
-      ],
-      "duration_ms": 224461,
-      "name": "Just A Woman",
-      "url": "https://open.spotify.com/track/5veFPov4yG0SbfZqXGjoP3"
     },
     {
       "added_at": "2026-11-20 00:00:44",
@@ -495,6 +495,26 @@
     {
       "added_at": "2026-11-20 00:00:44",
       "album": {
+        "name": "ANSWERED PRAYER",
+        "url": "https://open.spotify.com/album/4ZQRhxwQj3b8kvULYNAom3"
+      },
+      "artists": [
+        {
+          "name": "Novelist",
+          "url": "https://open.spotify.com/artist/4OPTZC24954HYBeHKeoLSc"
+        },
+        {
+          "name": "Jorja Smith",
+          "url": "https://open.spotify.com/artist/1CoZyIx7UvdxT5c8UkMzHd"
+        }
+      ],
+      "duration_ms": 196710,
+      "name": "ANSWERED PRAYER",
+      "url": "https://open.spotify.com/track/2Vbujfub1FKFLN8QuZuVBB"
+    },
+    {
+      "added_at": "2026-11-20 00:00:44",
+      "album": {
         "name": "Back 2 Basics",
         "url": "https://open.spotify.com/album/7j8isPHDehSK7vvzX8a7cG"
       },
@@ -531,26 +551,6 @@
     {
       "added_at": "2026-11-20 00:00:44",
       "album": {
-        "name": "ANSWERED PRAYER",
-        "url": "https://open.spotify.com/album/4ZQRhxwQj3b8kvULYNAom3"
-      },
-      "artists": [
-        {
-          "name": "Novelist",
-          "url": "https://open.spotify.com/artist/4OPTZC24954HYBeHKeoLSc"
-        },
-        {
-          "name": "Jorja Smith",
-          "url": "https://open.spotify.com/artist/1CoZyIx7UvdxT5c8UkMzHd"
-        }
-      ],
-      "duration_ms": 196710,
-      "name": "ANSWERED PRAYER",
-      "url": "https://open.spotify.com/track/2Vbujfub1FKFLN8QuZuVBB"
-    },
-    {
-      "added_at": "2026-11-20 00:00:44",
-      "album": {
         "name": "details",
         "url": "https://open.spotify.com/album/1YslW2Ai6kI5KFEfuttBTY"
       },
@@ -567,22 +567,6 @@
     {
       "added_at": "2026-11-20 00:00:44",
       "album": {
-        "name": "Come Back Home",
-        "url": "https://open.spotify.com/album/0AkkMJxxOA8xN02QfhIriD"
-      },
-      "artists": [
-        {
-          "name": "Blondie",
-          "url": "https://open.spotify.com/artist/4tpUmLEVLCGFr93o8hFFIB"
-        }
-      ],
-      "duration_ms": 224796,
-      "name": "Come Back Home",
-      "url": "https://open.spotify.com/track/3hDIyRkk42heKhWGHtnxXI"
-    },
-    {
-      "added_at": "2026-11-20 00:00:44",
-      "album": {
         "name": "Bad Vibe",
         "url": "https://open.spotify.com/album/6pRiIH5mMRYIiFrgVeunTr"
       },
@@ -595,6 +579,22 @@
       "duration_ms": 196138,
       "name": "Bad Vibe",
       "url": "https://open.spotify.com/track/33kmbK1QWUhJb05rL5vV9F"
+    },
+    {
+      "added_at": "2026-11-20 00:00:44",
+      "album": {
+        "name": "Come Back Home",
+        "url": "https://open.spotify.com/album/0AkkMJxxOA8xN02QfhIriD"
+      },
+      "artists": [
+        {
+          "name": "Blondie",
+          "url": "https://open.spotify.com/artist/4tpUmLEVLCGFr93o8hFFIB"
+        }
+      ],
+      "duration_ms": 224796,
+      "name": "Come Back Home",
+      "url": "https://open.spotify.com/track/3hDIyRkk42heKhWGHtnxXI"
     },
     {
       "added_at": "2026-11-20 00:00:44",
@@ -743,6 +743,22 @@
     {
       "added_at": "2026-11-20 00:00:44",
       "album": {
+        "name": "King Street",
+        "url": "https://open.spotify.com/album/2eibZ6DViTSTSnyYPwDfiu"
+      },
+      "artists": [
+        {
+          "name": "Ronia",
+          "url": "https://open.spotify.com/artist/4L4QpdKFBYczH54017Zh3Z"
+        }
+      ],
+      "duration_ms": 226932,
+      "name": "King Street",
+      "url": "https://open.spotify.com/track/2Oxy6BOQ67zYz2LXqnAjfx"
+    },
+    {
+      "added_at": "2026-11-20 00:00:44",
+      "album": {
         "name": "Self Aware",
         "url": "https://open.spotify.com/album/0CXJzuHsM9XwIP1yh1BlBE"
       },
@@ -783,18 +799,18 @@
     {
       "added_at": "2026-11-20 00:00:44",
       "album": {
-        "name": "King Street",
-        "url": "https://open.spotify.com/album/2eibZ6DViTSTSnyYPwDfiu"
+        "name": "Could We Just Pretend",
+        "url": "https://open.spotify.com/album/3pnwaozQiJRXOjr3T79ESy"
       },
       "artists": [
         {
-          "name": "Ronia",
-          "url": "https://open.spotify.com/artist/4L4QpdKFBYczH54017Zh3Z"
+          "name": "S\u016bn Byrd",
+          "url": "https://open.spotify.com/artist/32PUtLgz3SzD5Ihjdxoa6r"
         }
       ],
-      "duration_ms": 226932,
-      "name": "King Street",
-      "url": "https://open.spotify.com/track/2Oxy6BOQ67zYz2LXqnAjfx"
+      "duration_ms": 159026,
+      "name": "Could We Just Pretend",
+      "url": "https://open.spotify.com/track/1bKhEB9MIlDgw1HrttrkN0"
     },
     {
       "added_at": "2026-11-20 00:00:44",
@@ -815,22 +831,6 @@
     {
       "added_at": "2026-11-20 00:00:44",
       "album": {
-        "name": "Could We Just Pretend",
-        "url": "https://open.spotify.com/album/3pnwaozQiJRXOjr3T79ESy"
-      },
-      "artists": [
-        {
-          "name": "S\u016bn Byrd",
-          "url": "https://open.spotify.com/artist/32PUtLgz3SzD5Ihjdxoa6r"
-        }
-      ],
-      "duration_ms": 159026,
-      "name": "Could We Just Pretend",
-      "url": "https://open.spotify.com/track/1bKhEB9MIlDgw1HrttrkN0"
-    },
-    {
-      "added_at": "2026-11-20 00:00:44",
-      "album": {
         "name": "when the light is on",
         "url": "https://open.spotify.com/album/7kxBRFqmpHCE6nc780afUg"
       },
@@ -843,22 +843,6 @@
       "duration_ms": 171425,
       "name": "when the light is on",
       "url": "https://open.spotify.com/track/5JNTDCjfLXZ8PAyW5NgrUV"
-    },
-    {
-      "added_at": "2026-11-20 00:00:44",
-      "album": {
-        "name": "Dreamgirl",
-        "url": "https://open.spotify.com/album/1jjfllp2FuqH3lBSoRmfiN"
-      },
-      "artists": [
-        {
-          "name": "Selma Eriksen",
-          "url": "https://open.spotify.com/artist/5VuKpwoamJVRcoB1VtTbGz"
-        }
-      ],
-      "duration_ms": 196200,
-      "name": "Dreamgirl",
-      "url": "https://open.spotify.com/track/2nSdNYU2fONm2zGAPzpKni"
     },
     {
       "added_at": "2026-11-20 00:00:44",
@@ -879,6 +863,22 @@
     {
       "added_at": "2026-11-20 00:00:44",
       "album": {
+        "name": "Dreamgirl",
+        "url": "https://open.spotify.com/album/1jjfllp2FuqH3lBSoRmfiN"
+      },
+      "artists": [
+        {
+          "name": "Selma Eriksen",
+          "url": "https://open.spotify.com/artist/5VuKpwoamJVRcoB1VtTbGz"
+        }
+      ],
+      "duration_ms": 196200,
+      "name": "Dreamgirl",
+      "url": "https://open.spotify.com/track/2nSdNYU2fONm2zGAPzpKni"
+    },
+    {
+      "added_at": "2026-11-20 00:00:44",
+      "album": {
         "name": "RIHANNA",
         "url": "https://open.spotify.com/album/6r0lNQnhAfzVxuZQLCEbpW"
       },
@@ -895,22 +895,6 @@
     {
       "added_at": "2026-11-20 00:00:44",
       "album": {
-        "name": "MIND BENT",
-        "url": "https://open.spotify.com/album/178o2EHUq8U8sKkk0UOpMa"
-      },
-      "artists": [
-        {
-          "name": "Kape Yeel",
-          "url": "https://open.spotify.com/artist/4FKoVIKo6n8CqYJ9SlTmsH"
-        }
-      ],
-      "duration_ms": 184186,
-      "name": "MIND BENT",
-      "url": "https://open.spotify.com/track/35zEKh3vicZUshKgrmbcUU"
-    },
-    {
-      "added_at": "2026-11-20 00:00:44",
-      "album": {
         "name": "The Aftertaste",
         "url": "https://open.spotify.com/album/1Wn9z7s1GefRYt54Qa34BE"
       },
@@ -923,6 +907,22 @@
       "duration_ms": 186886,
       "name": "Bad Friend",
       "url": "https://open.spotify.com/track/6vqwRyzHxFsW8TQOkJcxgv"
+    },
+    {
+      "added_at": "2026-11-20 00:00:44",
+      "album": {
+        "name": "MIND BENT",
+        "url": "https://open.spotify.com/album/178o2EHUq8U8sKkk0UOpMa"
+      },
+      "artists": [
+        {
+          "name": "Kape Yeel",
+          "url": "https://open.spotify.com/artist/4FKoVIKo6n8CqYJ9SlTmsH"
+        }
+      ],
+      "duration_ms": 184186,
+      "name": "MIND BENT",
+      "url": "https://open.spotify.com/track/35zEKh3vicZUshKgrmbcUU"
     },
     {
       "added_at": "2026-11-20 00:00:44",
@@ -975,6 +975,22 @@
     {
       "added_at": "2026-11-20 00:00:44",
       "album": {
+        "name": "Silly",
+        "url": "https://open.spotify.com/album/4KbIUePamvAiWgoQJ1eFTs"
+      },
+      "artists": [
+        {
+          "name": "Casper The Ghost",
+          "url": "https://open.spotify.com/artist/2FympPk5bcBe37Sp4VIs4L"
+        }
+      ],
+      "duration_ms": 160828,
+      "name": "Silly",
+      "url": "https://open.spotify.com/track/3IlU9WMRXdqK896dbdsFkt"
+    },
+    {
+      "added_at": "2026-11-20 00:00:44",
+      "album": {
         "name": "Bloom x Claar",
         "url": "https://open.spotify.com/album/2nUNazReohoKKr7G17mFsj"
       },
@@ -991,22 +1007,6 @@
       "duration_ms": 181200,
       "name": "Bloom x Claar",
       "url": "https://open.spotify.com/track/4zf8koqJH0AW7qq5jKVb6M"
-    },
-    {
-      "added_at": "2026-11-20 00:00:44",
-      "album": {
-        "name": "Silly",
-        "url": "https://open.spotify.com/album/4KbIUePamvAiWgoQJ1eFTs"
-      },
-      "artists": [
-        {
-          "name": "Casper The Ghost",
-          "url": "https://open.spotify.com/artist/2FympPk5bcBe37Sp4VIs4L"
-        }
-      ],
-      "duration_ms": 160828,
-      "name": "Silly",
-      "url": "https://open.spotify.com/track/3IlU9WMRXdqK896dbdsFkt"
     },
     {
       "added_at": "2026-11-20 00:00:44",
@@ -1063,22 +1063,6 @@
     {
       "added_at": "2026-11-20 00:00:44",
       "album": {
-        "name": "runaway",
-        "url": "https://open.spotify.com/album/31FgmtJBJlOw5cHhhVwGz0"
-      },
-      "artists": [
-        {
-          "name": "Harrison First",
-          "url": "https://open.spotify.com/artist/0lcIRzEVZTKyNiEct4UKTo"
-        }
-      ],
-      "duration_ms": 190206,
-      "name": "runaway",
-      "url": "https://open.spotify.com/track/72wdeB5HA81JPPb8oEbe0D"
-    },
-    {
-      "added_at": "2026-11-20 00:00:44",
-      "album": {
         "name": "Coming Back",
         "url": "https://open.spotify.com/album/02zjOpr3KS4233Pua4ZYbL"
       },
@@ -1091,6 +1075,22 @@
       "duration_ms": 138240,
       "name": "Coming Back",
       "url": "https://open.spotify.com/track/6QkCwQ4NeRlfTL0uteQsLR"
+    },
+    {
+      "added_at": "2026-11-20 00:00:44",
+      "album": {
+        "name": "runaway",
+        "url": "https://open.spotify.com/album/31FgmtJBJlOw5cHhhVwGz0"
+      },
+      "artists": [
+        {
+          "name": "Harrison First",
+          "url": "https://open.spotify.com/artist/0lcIRzEVZTKyNiEct4UKTo"
+        }
+      ],
+      "duration_ms": 190206,
+      "name": "runaway",
+      "url": "https://open.spotify.com/track/72wdeB5HA81JPPb8oEbe0D"
     },
     {
       "added_at": "2026-11-20 00:00:44",
@@ -1111,22 +1111,6 @@
     {
       "added_at": "2026-11-20 00:00:44",
       "album": {
-        "name": "Always Love You",
-        "url": "https://open.spotify.com/album/6tDrekfmmFbvqUL8HvI9dM"
-      },
-      "artists": [
-        {
-          "name": "Truls",
-          "url": "https://open.spotify.com/artist/5b9N3srQrmyRhKr3jtelpM"
-        }
-      ],
-      "duration_ms": 276400,
-      "name": "Always Love You",
-      "url": "https://open.spotify.com/track/5W7QiVaUg04zsDPohpIe9o"
-    },
-    {
-      "added_at": "2026-11-20 00:00:44",
-      "album": {
         "name": "Griffith",
         "url": "https://open.spotify.com/album/631adNhTGp6FndSgbMcLTe"
       },
@@ -1139,6 +1123,38 @@
       "duration_ms": 230653,
       "name": "Griffith",
       "url": "https://open.spotify.com/track/2bqvTDjYyKWi8y9U4JtUZC"
+    },
+    {
+      "added_at": "2026-11-20 00:00:44",
+      "album": {
+        "name": "funnel web",
+        "url": "https://open.spotify.com/album/6SrS1WJLLZBbEgdFEXUMPt"
+      },
+      "artists": [
+        {
+          "name": "muuk",
+          "url": "https://open.spotify.com/artist/6HU6b9SDmYJOiFmQHZqU2F"
+        }
+      ],
+      "duration_ms": 231500,
+      "name": "extreme",
+      "url": "https://open.spotify.com/track/7BPYNrzs3R7gWZnSZhkZnK"
+    },
+    {
+      "added_at": "2026-11-20 00:00:44",
+      "album": {
+        "name": "Always Love You",
+        "url": "https://open.spotify.com/album/6tDrekfmmFbvqUL8HvI9dM"
+      },
+      "artists": [
+        {
+          "name": "Truls",
+          "url": "https://open.spotify.com/artist/5b9N3srQrmyRhKr3jtelpM"
+        }
+      ],
+      "duration_ms": 276400,
+      "name": "Always Love You",
+      "url": "https://open.spotify.com/track/5W7QiVaUg04zsDPohpIe9o"
     },
     {
       "added_at": "2026-11-20 00:00:44",
@@ -1159,18 +1175,18 @@
     {
       "added_at": "2026-11-20 00:00:44",
       "album": {
-        "name": "funnel web",
-        "url": "https://open.spotify.com/album/6SrS1WJLLZBbEgdFEXUMPt"
+        "name": "Alone With You",
+        "url": "https://open.spotify.com/album/2VLZNb6VnaFP8gnylxGTQR"
       },
       "artists": [
         {
-          "name": "muuk",
-          "url": "https://open.spotify.com/artist/6HU6b9SDmYJOiFmQHZqU2F"
+          "name": "Elsie Bay",
+          "url": "https://open.spotify.com/artist/4YpY98ig3QIOUX50xQ21GE"
         }
       ],
-      "duration_ms": 231500,
-      "name": "extreme",
-      "url": "https://open.spotify.com/track/7BPYNrzs3R7gWZnSZhkZnK"
+      "duration_ms": 192020,
+      "name": "Alone With You",
+      "url": "https://open.spotify.com/track/3S1U3NEsuuulOcf7LovmJ3"
     },
     {
       "added_at": "2026-11-20 00:00:44",
@@ -1207,22 +1223,6 @@
       "duration_ms": 208052,
       "name": "Sacred",
       "url": "https://open.spotify.com/track/3Z9nSIKNR5DodwW3c5uDGK"
-    },
-    {
-      "added_at": "2026-11-20 00:00:44",
-      "album": {
-        "name": "Alone With You",
-        "url": "https://open.spotify.com/album/2VLZNb6VnaFP8gnylxGTQR"
-      },
-      "artists": [
-        {
-          "name": "Elsie Bay",
-          "url": "https://open.spotify.com/artist/4YpY98ig3QIOUX50xQ21GE"
-        }
-      ],
-      "duration_ms": 192020,
-      "name": "Alone With You",
-      "url": "https://open.spotify.com/track/3S1U3NEsuuulOcf7LovmJ3"
     },
     {
       "added_at": "2026-11-20 00:00:44",

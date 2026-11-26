@@ -4,7 +4,7 @@
 
 > Submit your song: https:&\#x2F;&\#x2F;dailyplaylists.com&\#x2F;playlists&\#x2F;6APhyezi0mduQmsYIurjeg
 
-638 songs - 1 day 14 hr 42 min
+640 songs - 1 day 14 hr 48 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -210,6 +210,7 @@
 | [Great Big Love](https://open.spotify.com/track/0tW1IXCbVq5mmYPmVjTeSV) | [SOUTHDOGROCK](https://open.spotify.com/artist/75YwHvnDPylgINOig25YhA) | [Great Big Love](https://open.spotify.com/album/6fdqe2r0xYrEmc0Rt5DP8L) | 4:11 | 2024-10-03 |  |
 | [Greedy Bastards](https://open.spotify.com/track/5weyUBvQz5ui959wVAJy5C) | [The Ratskins](https://open.spotify.com/artist/6ge5wjSR7ea1mgxcodIF8V) | [Greedy Bastards](https://open.spotify.com/album/51Hggf3bAK0iou8pfOfgHA) | 3:33 | 2026-06-07 |  |
 | [Grow](https://open.spotify.com/track/4ZNeUmFWYsaMkV8TYoX7LB) | [New Exhibit](https://open.spotify.com/artist/1K5vj83CCgJxO26oFnZX8E) | [Grow](https://open.spotify.com/album/6nT5Woi7ELzacEnxRq0ACq) | 4:57 | 2023-03-13 |  |
+| [Haga Lo Que Haga](https://open.spotify.com/track/7rtCC8R2Id26sFryZuO13A) | [Mil Disparos](https://open.spotify.com/artist/4yhzOd2WrjwPz9yHG2TwKn) | [Haga Lo Que Haga](https://open.spotify.com/album/1VKklGTrS2IZ2HlskmH7Ql) | 2:34 | 2026-11-25 |  |
 | [HAHAHA\-MALE](https://open.spotify.com/track/1JAs0kroTc4E0MFbbL8Ret) | [RYN SKY](https://open.spotify.com/artist/0LWSuwMqKEWQfFEFOariZg) | [HAHAHA\-MALE](https://open.spotify.com/album/7nds5UPmp9SO4Lw6TgHRpT) | 3:02 | 2026-05-05 |  |
 | [Halfway to heaven](https://open.spotify.com/track/4nHu7yR8etHMqfZuWVO3q2) | [Honey Ruin](https://open.spotify.com/artist/2m4dcbfzc5WQDTZ6RAO8Lf) | [Halfway to heaven](https://open.spotify.com/album/2mjAWJp71ZsPIKjFdZU2oH) | 4:29 | 2025-11-05 |  |
 | [Hallowed Ground](https://open.spotify.com/track/2Hi5qdrJTklBRFEzdZ8jb4) | [The Marica Frequency](https://open.spotify.com/artist/0s9He55onisVMQR4FVMWm0) | [Nursery Rhymes](https://open.spotify.com/album/2ThVxUa6vIbtEvzFv18WpF) | 2:25 | 2023-07-20 |  |
@@ -315,6 +316,7 @@
 | [Laws of God and Man](https://open.spotify.com/track/6xVwesAAEesSUhbfn1cuGK) | [Indianadesolate](https://open.spotify.com/artist/0MeJRv7J4CSwg7My0gCf1M) | [The Sheol of Life](https://open.spotify.com/album/4ZDLSy6WvqLmZJSttp56V3) | 4:19 | 2023-12-16 |  |
 | [Left to Weather](https://open.spotify.com/track/7jI5tarHRORfQUnElFk1oE) | [With Abandon](https://open.spotify.com/artist/7kZkmClrQJfxczvl8LOHM3) | [Split](https://open.spotify.com/album/6dHBxQurTI0uAYyxYYAMTM) | 3:39 | 2025-01-08 |  |
 | [Let's Do It Again](https://open.spotify.com/track/0tZ9lz19MPyCJDlOQ078NO) | [Pink Cliffs](https://open.spotify.com/artist/6jjWLyBEBtiNDuwBU9DUKR) | [Let's Do It Again](https://open.spotify.com/album/5cfYAyMa2BN1b8yup5F6TL) | 4:28 | 2025-04-08 |  |
+| [LEVEL OVER LEVEL](https://open.spotify.com/track/1lIKAnGEzTtBQRjfBIGXsO) | [Twist & Writhe](https://open.spotify.com/artist/4zRz9OrERKG1EJriVM7U0s) | [LEVEL OVER LEVEL](https://open.spotify.com/album/5VQXkQId7M1JpsVQUF5I1s) | 3:30 | 2026-11-25 |  |
 | [Level Up](https://open.spotify.com/track/7w5LRdJ5FYAe8hze0YX4e4) | [SKD](https://open.spotify.com/artist/3rbLQN7clDnsjPOiUyYmrN) | [Ex Nihilo I](https://open.spotify.com/album/5ZF3LrOceDDs6QNEspp3N1) | 2:47 | 2023-04-24 |  |
 | [Libertad de Expresión](https://open.spotify.com/track/7sO0Cu3sEiHiCaN6mWgLSi) | [Misión Pájaro](https://open.spotify.com/artist/0fbfzghafzuSdoHe1VMZXy) | [Misión Pájaro](https://open.spotify.com/album/2yVClnDMsAxOUUknXLZYcG) | 5:40 | 2024-11-11 |  |
 | [Life At The North](https://open.spotify.com/track/2fXKuHFosXaloa4ICR6DzL) | [BAK2beats](https://open.spotify.com/artist/0PicyahEhr2rbFvtvoChAQ), [Late Night Flow](https://open.spotify.com/artist/4ViIfH1eAQemZLduQC0OTQ), [Easy Man](https://open.spotify.com/artist/1ZqTxGga20t8Vgx9DjgY8Y) | [Life At The North](https://open.spotify.com/album/6n2MYj5NAXCGMb3rMhl6rh) | 2:35 | 2023-11-12 |  |

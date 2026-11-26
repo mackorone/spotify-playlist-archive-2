@@ -4,7 +4,7 @@
 
 > Listen to women at full volume! November ambassador: <a href="spotify:artist:1ESdlHhFi2Ww9jt8qLOyYp">Elmer</a>
 
-3,803 songs - 8 day 7 hr 28 min
+3,803 songs - 8 day 7 hr 27 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -2693,7 +2693,7 @@
 | [Rondjes](https://open.spotify.com/track/6cQWHhI9gJ44kZG0vNofsZ) | [jet van der steen](https://open.spotify.com/artist/60bPC311AlvVdIzqQZyeHo) | [Rondjes](https://open.spotify.com/album/0AOklMhFa8PHsfrdqzvLDk) | 3:10 | 2025-07-01 | 2025-08-06 |
 | [Rook](https://open.spotify.com/track/42wV71GPSIq02PoJ82z274) | [Janne Schra](https://open.spotify.com/artist/7IGk0iXhaPjqvQF4Zi2R2K), [Janne Schra en de Vogels](https://open.spotify.com/artist/7ll2WaPLHfSc56KEdPRlZc) | [Rook](https://open.spotify.com/album/2XvTrNIKVEEu2zKGIWrtz7) | 4:06 | 2022-07-05 | 2022-08-03 |
 | [Room Of Disbelief](https://open.spotify.com/track/0zr6GKsuaEF6eJXQkvbrxc) | [Leah Rye](https://open.spotify.com/artist/2rmiadqAd2xyJUVLbCnWvn) | [Room Of Disbelief](https://open.spotify.com/album/2ocwwyrUsZsQGUgjzqr8Cm) | 3:53 | 2025-06-03 | 2025-07-02 |
-| [Rooted](https://open.spotify.com/track/4YGwXaIcN6sGl86VnNJHi7) | [Krystl](https://open.spotify.com/artist/7eacKV5WqetV2IZTDrwKhi) | [Rooted](https://open.spotify.com/album/5n4mhKvpBcDXG0m1EebYvE) | 2:53 | 2026-11-03 |  |
+| [Rooted](https://open.spotify.com/track/4YGwXaIcN6sGl86VnNJHi7) | [Krystl](https://open.spotify.com/artist/7eacKV5WqetV2IZTDrwKhi) | [Rooted](https://open.spotify.com/album/5n4mhKvpBcDXG0m1EebYvE) | 2:25 | 2026-11-03 |  |
 | [Roselle](https://open.spotify.com/track/2txQgPnmR08OcKQW7P1x4v) | [Joya Mooi](https://open.spotify.com/artist/03X2rnTnfrpid7yLZfUSGn) | [Roselle](https://open.spotify.com/album/0p8fTiDLzBOvOtMQPH1LGO) | 3:20 | 2022-08-02 | 2022-09-07 |
 | [Roses](https://open.spotify.com/track/5I58nWtpB16PEuRWhcLeB3) | [KC](https://open.spotify.com/artist/3STIe3ZmArSpfSUD6lZuCv) | [Roses](https://open.spotify.com/album/2IPulFyMneDwnO6yvjLNbk) | 2:13 | 2022-05-03 | 2022-06-01 |
 | [ROUGE À LÈVRES](https://open.spotify.com/track/2kp9Sk1o4vVUBvNPR49879) | [Orlane](https://open.spotify.com/artist/1rdoaK2hCE8hLoOjKXSDNF) | [ROUGE À LÈVRES](https://open.spotify.com/album/1Pz1Znu69a93P16a0vrbES) | 2:32 | 2025-05-06 | 2025-06-04 |

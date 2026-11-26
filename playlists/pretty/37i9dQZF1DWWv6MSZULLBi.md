@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWv6MSZULLBi.md) - [plain]
 
 > A laid\-back trip in the folk scene\. Cover: Devon Gilfillian, Allison Russell
 
-[Spotify](https://open.spotify.com/user/spotify) - 165,628 likes - 149 songs - 9 hr 4 min
+[Spotify](https://open.spotify.com/user/spotify) - 165,624 likes - 149 songs - 9 hr 4 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -158,4 +158,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWv6MSZULLBi.md) - [plain]
 | 148 | [Never Held One](https://open.spotify.com/track/2Bi9giuRwJmZ5NCFKbYxwT) | [Fleeland](https://open.spotify.com/artist/4Vkm5pdNrllKnkuHN5ifw4) | [Never Held One](https://open.spotify.com/album/3vmzoxUtE1ziqS4cwjTge9) | 4:16 |
 | 149 | [Failing](https://open.spotify.com/track/0PKHYet02oTemQgvuOJIbM) | [Mama's Broke](https://open.spotify.com/artist/18kqY0obPXyo3oXtuzrS7k) | [Reunion](https://open.spotify.com/album/2KyMG09etsajx1TN01qVnF) | 3:13 |
 
-Snapshot ID: `AAAAAIYC7RDp4uRU1G/Es4Ve3bOxCvKy`
+Snapshot ID: `AAAAAFezZu1rnbE//t/TffUqWMSzwtqw`

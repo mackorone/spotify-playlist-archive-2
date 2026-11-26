@@ -1,12 +1,12 @@
 {
   "description": "FurryRadio.com, furry music for furs, by furs.",
-  "num_followers": 1273,
+  "num_followers": 1274,
   "original_name": "FURRY RADIO",
   "owner": {
     "name": "Zunkz",
     "url": "https://open.spotify.com/user/21ojyqenqyu63axkiblipyqya"
   },
-  "snapshot_id": "AAAGRs6HxGXQz35Kla4lhSPYtN0T4l9j",
+  "snapshot_id": "AAAGSFdUo0ps0KTiDGV4hlYi25ONM1x0",
   "tracks": [
     {
       "added_at": "2026-11-25 06:21:44",
@@ -55,6 +55,42 @@
       "duration_ms": 123870,
       "name": "tell u sum",
       "url": "https://open.spotify.com/track/2krkj5Wali172QzLcM8x1z"
+    },
+    {
+      "added_at": "2026-11-26 01:30:17",
+      "album": {
+        "name": "Thousand Knives",
+        "url": "https://open.spotify.com/album/4EBXOsHhpItBXEX6mHGgP4"
+      },
+      "artists": [
+        {
+          "name": "Mere Notilde",
+          "url": "https://open.spotify.com/artist/2d3wstlwe427Q7CamLXlpO"
+        }
+      ],
+      "duration_ms": 155897,
+      "name": "Frequency",
+      "url": "https://open.spotify.com/track/0SHOCzd91grkQuEFZzLWmd"
+    },
+    {
+      "added_at": "2026-11-26 01:33:44",
+      "album": {
+        "name": "SCHOOLYARD UNDERDOG",
+        "url": "https://open.spotify.com/album/2mkocqj5zNy1BWQ2hm0JPA"
+      },
+      "artists": [
+        {
+          "name": "Fur:Trash",
+          "url": "https://open.spotify.com/artist/1jp7cmyHDn5nuP3MMSwm1m"
+        },
+        {
+          "name": "RavePuppy",
+          "url": "https://open.spotify.com/artist/6cPAGYmKP81QfU9CLPRHWJ"
+        }
+      ],
+      "duration_ms": 245629,
+      "name": "AWOO",
+      "url": "https://open.spotify.com/track/13iiAgKF6nW3IGH0HlhCE2"
     },
     {
       "added_at": "2026-11-22 05:47:14",

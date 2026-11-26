@@ -6,7 +6,7 @@
     "name": "Topsify Australia",
     "url": "https://open.spotify.com/user/popmob"
   },
-  "snapshot_id": "AAAISWIeCkqBAD+6+zcEXBxrEepM+k0Q",
+  "snapshot_id": "AAAISk55dm5vKbAjpTnEo1XnKxkvQycV",
   "tracks": [
     {
       "added_at": "2026-11-11 02:22:18",
@@ -175,6 +175,22 @@
       "duration_ms": 182437,
       "name": "trivia's over, there's a gas leak in the kitchen",
       "url": "https://open.spotify.com/track/4qU4QbdvBwsHl8fl7y92ah"
+    },
+    {
+      "added_at": "2026-11-26 06:01:13",
+      "album": {
+        "name": "Where's our love",
+        "url": "https://open.spotify.com/album/6ooTcopS5BYCcQjakxP3O5"
+      },
+      "artists": [
+        {
+          "name": "Macklemore",
+          "url": "https://open.spotify.com/artist/3JhNCzhSMTxs9WLGJJxWOY"
+        }
+      ],
+      "duration_ms": 237173,
+      "name": "Where's our love",
+      "url": "https://open.spotify.com/track/6AY5CGFIlmUSFGhz3b7rXX"
     },
     {
       "added_at": "2026-11-11 02:22:18",

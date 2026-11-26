@@ -4,12 +4,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4WiXBXnxjSY.md) - [plain]
 
 > Dream away with sleep sounds of nature and green noise frequencies \- water, ocean sounds and breaking waves.
 
-[Spotify](https://open.spotify.com/user/spotify) - 43,071 likes - 149 songs - 6 hr 52 min
+[Spotify](https://open.spotify.com/user/spotify) - 43,081 likes - 149 songs - 6 hr 53 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [Windy Ocean Green Noise](https://open.spotify.com/track/3xifPSyioFK60gLWlxvCGJ) | [Tonality X](https://open.spotify.com/artist/7rFRyQGntyqOr103TOqVwx) | [Wide Waves & Wind](https://open.spotify.com/album/4r4P2oLJrQLGS5IWsXgTDU) | 2:26 |
-| 2 | [Wave Sounds Noise](https://open.spotify.com/track/6gcAcWe07UE2I5bUzR0j8R) | [Nimbrel](https://open.spotify.com/artist/5pUc7xLQ3RUmUEh7eJQWvk) | [Pure Waves Green Noise](https://open.spotify.com/album/22x7sOkdJwKVpECsSs2MBB) | 1:39 |
+| 2 | [Wave Sounds Noise](https://open.spotify.com/track/6gcAcWe07UE2I5bUzR0j8R) | [Nimbrel](https://open.spotify.com/artist/5pUc7xLQ3RUmUEh7eJQWvk) | [Pure Waves Green Noise](https://open.spotify.com/album/22x7sOkdJwKVpECsSs2MBB) | 2:17 |
 | 3 | [Kelp Tide Green Noise](https://open.spotify.com/track/5Aqrp0Ys7XgQSRj7FkOXle) | [Coastal Sounds](https://open.spotify.com/artist/249TyuYTmZtXB1yC90nGGx) | [Kelp Tide Green Noise](https://open.spotify.com/album/34O6jiNyNPG2hQ6ZIeRIWP) | 2:52 |
 | 4 | [Green Noise of Nature](https://open.spotify.com/track/1GqmQPOvFwRxO1FDlyHY6P) | [Proper Noises](https://open.spotify.com/artist/5SVSuYcrKCVhrNSeXHF0qr) | [Nature Green Noise](https://open.spotify.com/album/0zS5JyqQnUWy8JQRBcqPsv) | 2:24 |
 | 5 | [Chilled Waves](https://open.spotify.com/track/2HZh3z8Mj0V27Jm7A8PVV9) | [Berg & Sjo](https://open.spotify.com/artist/5DaWXcbvLdip9ADHVSwVVt) | [Green Sleep Noise](https://open.spotify.com/album/1Ye7g943rA8l6Rkv99RCtz) | 2:08 |
@@ -158,4 +158,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4WiXBXnxjSY.md) - [plain]
 | 148 | [Green Noise Deep Sleep](https://open.spotify.com/track/2u4dw8dB6tSFeXH4KaCSTn) | [JBE Noise Factory](https://open.spotify.com/artist/4s7Ydghmi9eEHS0gjp8zk1), [White Noise for Babies](https://open.spotify.com/artist/4ZfEELHfyKd4odAb6YfDFw), [Noise Recordings](https://open.spotify.com/artist/7EpGwOsih4h9r58T2FnGWQ) | [Green Noise](https://open.spotify.com/album/7ed4GStbSffE9Lqo0uS7Uk) | 2:39 |
 | 149 | [Sweeping Wind Green Noise](https://open.spotify.com/track/7m3l03xWqFd5t3zwSvrxz3) | [Seismic Dolphin](https://open.spotify.com/artist/31kwIRtITwKwn4NoRdbukb) | [Green Noise for Breathing](https://open.spotify.com/album/55eTWbfcmsMvtspcHTis0A) | 2:26 |
 
-Snapshot ID: `AAAAABkgM8mELQHQ28CLmmSBhzNTAyjw`
+Snapshot ID: `AAAAAOx3wjrmVtwAnqKnnByzmv9IHUkt`

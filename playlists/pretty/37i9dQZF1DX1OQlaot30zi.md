@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1OQlaot30zi.md) - [plain]
 
 > Sempre aggiornata 😈 Con nuovi brani di Sfera Ebbasta, FreshMula, Enny P, Saintpaul e tanti altri.
 
-[Spotify](https://open.spotify.com/user/spotify) - 56,406 likes - 105 songs - 4 hr 36 min
+[Spotify](https://open.spotify.com/user/spotify) - 56,412 likes - 105 songs - 4 hr 36 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -70,7 +70,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1OQlaot30zi.md) - [plain]
 | 60 | [BLACKSTAR](https://open.spotify.com/track/4Yju5iw7C1yvngvZIFiQ8T) | [Scaglia](https://open.spotify.com/artist/61C1YBssJpV0rPGdoLjoJ7) | [BLACKSTAR](https://open.spotify.com/album/59JcCA1Xo1vN0cpGlNyAgc) | 2:03 |
 | 61 | [La Fumo x2](https://open.spotify.com/track/1LVX28VE2f5kg0hy9J6CVw) | [Dmoha](https://open.spotify.com/artist/3Azrc3PGFCLwPxouZw8ELl) | [La Fumo x2](https://open.spotify.com/album/6cyRNim5Za9hOa8lNyx8qe) | 1:59 |
 | 62 | [VITA SBAGLIATA](https://open.spotify.com/track/6hhGM5iBLjdhD9zlo4TpNa) | [Scaccia](https://open.spotify.com/artist/4bvY1rC6kHzkbt2ome594m) | [VITA SBAGLIATA](https://open.spotify.com/album/3JF7Fn3rDZdJ9BRGHsqyF7) | 2:32 |
-| 63 | [LA VOCE CHE SA DI TE \(con Nap\)](https://open.spotify.com/track/5RtJEdWKgOXybPFSohQ15c) | [Dea Culpa](https://open.spotify.com/artist/6X4wWxYIAoGnnNN6jh5jPI), [Ciao sono Vale](https://open.spotify.com/artist/4F9QCOBWpH7P6zZwF6kKOc), [Nap](https://open.spotify.com/artist/5EKlohYn204yWxXa3af021) | [LA VOCE CHE SA DI TE \(con Nap\)](https://open.spotify.com/album/62H0nuZtgfrMA4S4H5xCu1) | 2:55 |
+| 63 | [LA VOCE CHE SA DI TE](https://open.spotify.com/track/5RtJEdWKgOXybPFSohQ15c) | [Dea Culpa](https://open.spotify.com/artist/6X4wWxYIAoGnnNN6jh5jPI), [Ciao sono Vale](https://open.spotify.com/artist/4F9QCOBWpH7P6zZwF6kKOc), [Nap](https://open.spotify.com/artist/5EKlohYn204yWxXa3af021) | [LA VOCE CHE SA DI TE](https://open.spotify.com/album/62H0nuZtgfrMA4S4H5xCu1) | 2:55 |
 | 64 | [LOOP](https://open.spotify.com/track/5wmLpBjMPSk7l8XTJYj1Ph) | [Pain](https://open.spotify.com/artist/3xaIenoRSi94xiZCBJAr5Z), [Saqqara](https://open.spotify.com/artist/11N2M0Sj5Ndbgndrio0Lht) | [LOOP](https://open.spotify.com/album/5Nhsrr1gTd0bqrz3sfXphz) | 2:41 |
 | 65 | [Nervi](https://open.spotify.com/track/6GGtu0G3tqzejtjuUZqt3F) | [Neyman](https://open.spotify.com/artist/6YsSngR29UxtNlCDwqbx24), [Ambro](https://open.spotify.com/artist/3GbItb8tHGLXcW6agBNBwJ) | [Nervi](https://open.spotify.com/album/3w35zGoZE02ZB4YlGzuVYW) | 2:25 |
 | 66 | [FILM HARD](https://open.spotify.com/track/34cE56a2tWVD89htOzOxQH) | [Smookid](https://open.spotify.com/artist/2mLQ8JfGyC8pFZTNIhejPR) | [FILM HARD](https://open.spotify.com/album/1dbvUinDrD8KTLntohImcx) | 2:30 |
@@ -114,4 +114,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1OQlaot30zi.md) - [plain]
 | 104 | [Di te non mi fido](https://open.spotify.com/track/1yByjDmc9EI22tc73hxprU) | [Haxia](https://open.spotify.com/artist/02ThCXGGC4HPDsaYVKfisx), [Ciro Zero](https://open.spotify.com/artist/1aLtB5Kl02MrY8tWAL5xeE) | [Di te non mi fido](https://open.spotify.com/album/47XhoUiuijDLazD0dMftru) | 2:16 |
 | 105 | [Carogne](https://open.spotify.com/track/7cc21wZFkw7qGbZKB0em7G) | [XVI Religion](https://open.spotify.com/artist/2MnHoKWg1ziqrnUe30wbaT) | [UNDERGROUND](https://open.spotify.com/album/4eGoN0p3WHH88IYdRhNHwj) | 2:53 |
 
-Snapshot ID: `AAAAAE/V1rbi6NPIF15xu5VY0fx06m5H`
+Snapshot ID: `AAAAAEyv6KFLQELPxGLdwul3gHAjAf4r`

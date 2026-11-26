@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9SvXmR7wQty.md) - [plain]
 
 > Du neuf, du bon, du  <a href="https://open.spotify.com/genre/0JQ5DAqbMKFAH7OEQjCEex">franco</a> !  avec K.Maro, Pomme, Ninho, La Zarra, Adéle Castillon,  Irdens Exantus, et plus!
 
-[Spotify](https://open.spotify.com/user/spotify) - 48,363 likes - 99 songs - 5 hr 6 min
+[Spotify](https://open.spotify.com/user/spotify) - 48,360 likes - 99 songs - 5 hr 6 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -14,7 +14,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9SvXmR7wQty.md) - [plain]
 | 4 | [Canari](https://open.spotify.com/track/7kKov71AzQjYiDRbTYpiFw) | [Alexandre Poulin](https://open.spotify.com/artist/5ILOB9Q4xiPUxzo2tYwxQy) | [Canari](https://open.spotify.com/album/6wfp6blDhzkdOgUdoCLMdZ) | 3:30 |
 | 5 | [Tout ce que j'ai](https://open.spotify.com/track/0MK0vOVKpBs4gdRuU69jKa) | [Phil Rxcket](https://open.spotify.com/artist/6WvhHcxi6ddlrEoaeYrRVt) | [Tout ce que j'ai](https://open.spotify.com/album/1xuOl7OQ2Tn0KceLvRSerk) | 1:28 |
 | 6 | [Tante Didi](https://open.spotify.com/track/4YFoRKGUpU65S72Vc429xy) | [LUMIÈRE](https://open.spotify.com/artist/4ANqTWPfihrjaz66YFykwX) | [Tante Didi](https://open.spotify.com/album/45getNtwLj2SzXDtW8aiwa) | 3:05 |
-| 7 | [OC�AN DE PROBL�MES](https://open.spotify.com/track/5dIeUtbhqDLrT61OmVis32) | [Ninho](https://open.spotify.com/artist/6Te49r3A6f5BiIgBRxH7FH) | [M.I.L.S 4 \(Deluxe Edition\)](https://open.spotify.com/album/2dYzdvprtQxTjRERTd4XsD) | 3:22 |
+| 7 | [OCÉAN DE PROBLÈMES](https://open.spotify.com/track/5dIeUtbhqDLrT61OmVis32) | [Ninho](https://open.spotify.com/artist/6Te49r3A6f5BiIgBRxH7FH) | [M.I.L.S 4 \(Deluxe Edition\)](https://open.spotify.com/album/2dYzdvprtQxTjRERTd4XsD) | 3:22 |
 | 8 | [Ça fait mal \(feat\. L2B\)](https://open.spotify.com/track/2AYGusyyjwqhD1vghWgd3f) | [No Limit](https://open.spotify.com/artist/2Ns3GuAU2LYllDr7z20d0e), [Orelsan](https://open.spotify.com/artist/4FpJcNgOvIpSBeJgRg3OfN), [L2B](https://open.spotify.com/artist/4hYxvgmTzS29XAXlo5adgM) | [Ça fait mal \(feat\. L2B\)](https://open.spotify.com/album/2hn3gS94UbKonBWLPpFdMU) | 2:39 |
 | 9 | [La couleur des billets \(avec Baxter Dexter\)](https://open.spotify.com/track/6dTJvvJHmFIN81nQ9rJVIC) | [Fléau Dicaprio](https://open.spotify.com/artist/7eECqg50qMODvvrHySfQAZ), [Baxter Dexter](https://open.spotify.com/artist/4jhEKgkaj2Q1AGJuUUtbpN) | [La couleur des billets](https://open.spotify.com/album/6HQTDFApc9EdNunmujK294) | 2:40 |
 | 10 | [Rien pour la lune](https://open.spotify.com/track/5TH1rcnd7PgxZZUh1wL0OJ) | [Bekar](https://open.spotify.com/artist/6wjkiUBMMYSIx5UBTp7eKC) | [Alba, l'heure bleue](https://open.spotify.com/album/4a3EEek6jA9m9Ary4yhPW4) | 3:40 |
@@ -108,4 +108,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9SvXmR7wQty.md) - [plain]
 | 98 | [Rends\-moi mes secondes](https://open.spotify.com/track/7Fib92j6rWWhyIkN8goIxg) | [Nuit Incolore](https://open.spotify.com/artist/2oOAiE62UgqjCEWTHPdn0F) | [Re:Naissance Part\. 1](https://open.spotify.com/album/4WdMh8A2LAf4RATENEXu9a) | 2:31 |
 | 99 | [Toi ou la Mer](https://open.spotify.com/track/0ZSNeztLgSovD9ZuI3pHaq) | [Feu! Chatterton](https://open.spotify.com/artist/538TfjnJpRXI80MHYWfKlo) | [Toi ou la Mer](https://open.spotify.com/album/1BlwQXllvI5SnelRPh4WZ4) | 4:07 |
 
-Snapshot ID: `AAAAAEXam6fOQpXenUcgq8aj/7XFZiGP`
+Snapshot ID: `AAAAADaJXiLTievWG4zfxnKottUiF0FX`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7lk7hiGiH2z.md) - [plain]
 
 > Die schönsten Lieder für den Laternenumzug ✨
 
-[Spotify](https://open.spotify.com/user/spotify) - 64,025 likes - 45 songs - 2 hr 1 min
+[Spotify](https://open.spotify.com/user/spotify) - 64,019 likes - 45 songs - 2 hr 1 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -54,4 +54,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7lk7hiGiH2z.md) - [plain]
 | 44 | [Laternenleuchten](https://open.spotify.com/track/2k9OMhs7GmFNm7p4N0ns2W) | [Stephen Janetzko](https://open.spotify.com/artist/0HC9OQdqPCCE1WNMetTTmG), [Lucia Ruf](https://open.spotify.com/artist/085LEO8GBi8fhvVZhoS5gt) | [Martin, Martin, Martinsmann \- 25 Herbstlieder und Laternenlieder zu St\. Martin](https://open.spotify.com/album/0veMuISz1yxPBBQzjwH4Id) | 3:23 |
 | 45 | [Alle Leut'](https://open.spotify.com/track/1PnCE1OnD4o7cy1lBdJJlL) | [Simone Sommerland](https://open.spotify.com/artist/04yr1h3maDSKvM08pgOezF), [Karsten Glück](https://open.spotify.com/artist/5Asmk7uzCjVJN77MLDnvma), [Die Kita\-Frösche](https://open.spotify.com/artist/2yOGWPXuL8wG3F1q5FWmep) | [Die 30 besten Spiel\- und Bewegungslieder](https://open.spotify.com/album/7wGBvXA1TKtlqyJq6Mtsl5) | 1:07 |
 
-Snapshot ID: `AAAAAMaA87SPM7Ya6rXdOJ5hXE3o/neE`
+Snapshot ID: `AAAAAO09dP85MokhGgCNdH51FT5z1Yxb`

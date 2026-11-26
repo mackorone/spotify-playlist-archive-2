@@ -19516,7 +19516,7 @@
       ],
       "date_added": "2026-07-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-26",
       "duration_ms": 159117,
       "name": "DIVA",
       "url": "https://open.spotify.com/track/2jIR6G90i2MIRQyX4CJ7o2"
@@ -62064,6 +62064,28 @@
       "duration_ms": 194000,
       "name": "Real Like A Feeling",
       "url": "https://open.spotify.com/track/6dnuQLF8jwYDiLo0oFsWoW"
+    },
+    {
+      "album": {
+        "name": "Real Love",
+        "url": "https://open.spotify.com/album/0JKhyctz8usUK9c5MEC8qq"
+      },
+      "artists": [
+        {
+          "name": "Perfectworld",
+          "url": "https://open.spotify.com/artist/0Eqo2NKrst9Oz5O8FfUc8T"
+        },
+        {
+          "name": "Cat & Calmell",
+          "url": "https://open.spotify.com/artist/7A87MKn03ao4ZP30RDpHSP"
+        }
+      ],
+      "date_added": "2026-11-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 163034,
+      "name": "Real Love",
+      "url": "https://open.spotify.com/track/2ld8uM46qEl9PtRqkTjjLl"
     },
     {
       "album": {
