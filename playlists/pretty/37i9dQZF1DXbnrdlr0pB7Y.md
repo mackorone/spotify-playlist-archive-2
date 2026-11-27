@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbnrdlr0pB7Y.md) - [plain]
 
 > Piezas acústicas que te ayudarán a enfocarte.
 
-[Spotify](https://open.spotify.com/user/spotify) - 42,419 likes - 87 songs - 4 hr 10 min
+[Spotify](https://open.spotify.com/user/spotify) - 42,595 likes - 87 songs - 4 hr 10 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -17,16 +17,16 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbnrdlr0pB7Y.md) - [plain]
 | 7 | [Ya Te Confirmo Corazon](https://open.spotify.com/track/1VKBKydyLGhHvtwMCgbK4s) | [Playa Calentoncito](https://open.spotify.com/artist/34kFB8juxWjmp0ZlMtbYFH) | [Ya Te Confirmo Corazon](https://open.spotify.com/album/50KtoPA5CRcxogCGZHzkt6) | 2:51 |
 | 8 | [Coquille Paradise](https://open.spotify.com/track/4Fk0ZXtHAiauQOVAJX444m) | [Leo Testoni](https://open.spotify.com/artist/0aG115WGfnrG8Ck2HFiMm4) | [Coquille Paradise](https://open.spotify.com/album/6ZRyZmgND6Cp64H1n5RisB) | 2:15 |
 | 9 | [El Sur De La Playa](https://open.spotify.com/track/10OirwvrDIp2KymmwGQ5Rw) | [Matthew Kaff](https://open.spotify.com/artist/45KZBIPW9K2Yslr7ccejpk) | [El Sur De La Playa](https://open.spotify.com/album/7mP4vGXJ8CfMcHLb2ZPdUw) | 2:10 |
-| 10 | [Carnival](https://open.spotify.com/track/1l6hNZj7MbV2CUqDuWblY3) | [DeLand](https://open.spotify.com/artist/1Aop9zFg2iGOHdCIIbCWZ0) | [Carnival](https://open.spotify.com/album/25Kmydp2QIq58lXjCMO0xX) | 2:06 |
-| 11 | [Fading Lines](https://open.spotify.com/track/75N2Huk7utLJmehDAcLJIK) | [Anisha Gale](https://open.spotify.com/artist/0R9PTFYaGHm7AgJAZjerfr) | [Fading Lines](https://open.spotify.com/album/1OZzE0cb6ysnQqY0vPfFd3) | 2:04 |
-| 12 | [Alpen Rose](https://open.spotify.com/track/4pSxsViyGEsfiKcj5BbpvY) | [Camilo Branca](https://open.spotify.com/artist/2jH6TryZOIvoPpQqb1hRmc) | [Alpen Rose](https://open.spotify.com/album/0d5G3HUH7LhGhaegh6k2YW) | 2:44 |
-| 13 | [Merula](https://open.spotify.com/track/28rRAAV0wy18FNxLgH46WQ) | [Mario Cabrera](https://open.spotify.com/artist/2jxGXKxdhbWgtylGviMHZh) | [Merula](https://open.spotify.com/album/3L05XKpAW8M2i9j7z1BbeN) | 4:09 |
-| 14 | [You Are All Mine](https://open.spotify.com/track/51D5edfTPbvHeB3AUEWMxT) | [Los Suculentos](https://open.spotify.com/artist/7bTwrUAlEQ5eq0GILDbSYN) | [You Are All Mine](https://open.spotify.com/album/5QrYUOt8X5n2zxvdB6cfEl) | 2:22 |
-| 15 | [Mais tarde](https://open.spotify.com/track/3OsoopvnzJWLErS19g6kkH) | [Margot Leavitt](https://open.spotify.com/artist/0eqVgQI4iTRtSBjclCTV5D) | [Mais tarde](https://open.spotify.com/album/76UFpZeSUJmxeefnkVmSSy) | 3:17 |
-| 16 | [I'd Rather Sit In The Shadow](https://open.spotify.com/track/654XQa26b3ginvX2hDqcgK) | [Miko Yoshida](https://open.spotify.com/artist/54v563e3Njq2wjXwnXM6DR) | [I'd Rather Sit In The Shadow](https://open.spotify.com/album/6LnMDJkByww9cKemT7FUyq) | 3:23 |
-| 17 | [Te Echo De Menos](https://open.spotify.com/track/1u2C4fLwsMerlZCqumCl6z) | [Gabriel Vilente](https://open.spotify.com/artist/5sXiB1kUrPOBBWf3SqrCYO) | [Te Echo De Menos](https://open.spotify.com/album/7FS6hAIyRA7VJ7ELMKH6gb) | 3:04 |
-| 18 | [Words Are Poor](https://open.spotify.com/track/0cplAz2yKmEDkb2raqy6xF) | [Aurelia](https://open.spotify.com/artist/6tnJc05Vcp2PyNBCgkcAiA) | [Words Are Poor](https://open.spotify.com/album/3kR43BKgFDcHsRwhrkz26S) | 3:58 |
-| 19 | [Jurubaina](https://open.spotify.com/track/7146GVbt0VBukli12IomPY) | [Leo Testoni](https://open.spotify.com/artist/0aG115WGfnrG8Ck2HFiMm4) | [Jurubaina](https://open.spotify.com/album/2AhZapx5zCSY0UxJb9YqMx) | 2:17 |
+| 10 | [Jurubaina](https://open.spotify.com/track/7146GVbt0VBukli12IomPY) | [Leo Testoni](https://open.spotify.com/artist/0aG115WGfnrG8Ck2HFiMm4) | [Jurubaina](https://open.spotify.com/album/2AhZapx5zCSY0UxJb9YqMx) | 2:17 |
+| 11 | [Carnival](https://open.spotify.com/track/1l6hNZj7MbV2CUqDuWblY3) | [DeLand](https://open.spotify.com/artist/1Aop9zFg2iGOHdCIIbCWZ0) | [Carnival](https://open.spotify.com/album/25Kmydp2QIq58lXjCMO0xX) | 2:06 |
+| 12 | [Fading Lines](https://open.spotify.com/track/75N2Huk7utLJmehDAcLJIK) | [Anisha Gale](https://open.spotify.com/artist/0R9PTFYaGHm7AgJAZjerfr) | [Fading Lines](https://open.spotify.com/album/1OZzE0cb6ysnQqY0vPfFd3) | 2:04 |
+| 13 | [Alpen Rose](https://open.spotify.com/track/4pSxsViyGEsfiKcj5BbpvY) | [Camilo Branca](https://open.spotify.com/artist/2jH6TryZOIvoPpQqb1hRmc) | [Alpen Rose](https://open.spotify.com/album/0d5G3HUH7LhGhaegh6k2YW) | 2:44 |
+| 14 | [Merula](https://open.spotify.com/track/28rRAAV0wy18FNxLgH46WQ) | [Mario Cabrera](https://open.spotify.com/artist/2jxGXKxdhbWgtylGviMHZh) | [Merula](https://open.spotify.com/album/3L05XKpAW8M2i9j7z1BbeN) | 4:09 |
+| 15 | [You Are All Mine](https://open.spotify.com/track/51D5edfTPbvHeB3AUEWMxT) | [Los Suculentos](https://open.spotify.com/artist/7bTwrUAlEQ5eq0GILDbSYN) | [You Are All Mine](https://open.spotify.com/album/5QrYUOt8X5n2zxvdB6cfEl) | 2:22 |
+| 16 | [Mais tarde](https://open.spotify.com/track/3OsoopvnzJWLErS19g6kkH) | [Margot Leavitt](https://open.spotify.com/artist/0eqVgQI4iTRtSBjclCTV5D) | [Mais tarde](https://open.spotify.com/album/76UFpZeSUJmxeefnkVmSSy) | 3:17 |
+| 17 | [I'd Rather Sit In The Shadow](https://open.spotify.com/track/654XQa26b3ginvX2hDqcgK) | [Miko Yoshida](https://open.spotify.com/artist/54v563e3Njq2wjXwnXM6DR) | [I'd Rather Sit In The Shadow](https://open.spotify.com/album/6LnMDJkByww9cKemT7FUyq) | 3:23 |
+| 18 | [Te Echo De Menos](https://open.spotify.com/track/1u2C4fLwsMerlZCqumCl6z) | [Gabriel Vilente](https://open.spotify.com/artist/5sXiB1kUrPOBBWf3SqrCYO) | [Te Echo De Menos](https://open.spotify.com/album/7FS6hAIyRA7VJ7ELMKH6gb) | 3:04 |
+| 19 | [Words Are Poor](https://open.spotify.com/track/0cplAz2yKmEDkb2raqy6xF) | [Aurelia](https://open.spotify.com/artist/6tnJc05Vcp2PyNBCgkcAiA) | [Words Are Poor](https://open.spotify.com/album/3kR43BKgFDcHsRwhrkz26S) | 3:58 |
 | 20 | [Una Luz en el Silencio](https://open.spotify.com/track/5sKLWKEA2OEhBKdERE70vu) | [Antonio Garcia Isaac](https://open.spotify.com/artist/7IH9NOjltyAfO5HsuAt9W3) | [Una Luz en el Silencio](https://open.spotify.com/album/0tuw4ClrE9s1IIsMb8Qgld) | 4:55 |
 | 21 | [El Banco De La Plaza](https://open.spotify.com/track/4dvP23JMvMggnNx9SWSL1d) | [Los Viajantes](https://open.spotify.com/artist/4YAXYtBeaRHUxQ8R3TKheZ) | [El Banco De La Plaza](https://open.spotify.com/album/5eczeMrsbmQ7eMcDEy7od3) | 4:37 |
 | 22 | [7 Lagos](https://open.spotify.com/track/47JIcIX3Iq2xwrAIgjMNuv) | [Los Suculentos](https://open.spotify.com/artist/7bTwrUAlEQ5eq0GILDbSYN) | [7 Lagos](https://open.spotify.com/album/6yeerJKt7Cd0hbl4gIFTEc) | 2:58 |
@@ -96,4 +96,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbnrdlr0pB7Y.md) - [plain]
 | 86 | [Goiânia](https://open.spotify.com/track/4HiU3fxYZI6w2jNTTLhowT) | [Joana Ema](https://open.spotify.com/artist/2W1k5KydRQg7MsOSgGEm9u) | [Goiânia](https://open.spotify.com/album/559F8ws4FRpTbvaNc08VEE) | 2:52 |
 | 87 | [silver lining](https://open.spotify.com/track/6HjCf5a7Zw9VrIxTjL15Z0) | [Andrew Savignon](https://open.spotify.com/artist/64RGjNCHRYOPxY93HKm2pZ) | [Lonely Sailor](https://open.spotify.com/album/6pEABLFpolzNbmvXnrBYEL) | 3:04 |
 
-Snapshot ID: `AAAAAD+qrePgJ5O6NZ4IhpLyUIPAIIdp`
+Snapshot ID: `AAAAAB+L3FJh+zPm5r49uXTlcHFLVMPz`

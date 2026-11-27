@@ -2,9 +2,9 @@
 
 ### [ALT\_QC](https://open.spotify.com/playlist/37i9dQZF1DX03FBMYrWi0n)
 
-> L’alternatif québécois à plein volume\. Photo: Loïc Lafrance
+> L’alternatif québécois à plein volume\. Photo: DVTR
 
-749 songs - 1 day 18 hr 27 min
+751 songs - 1 day 18 hr 34 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -116,6 +116,7 @@
 | [C'est la vie](https://open.spotify.com/track/0APhfeS3AIbmKCa01WK2YO) | [Peanut Butter Sunday](https://open.spotify.com/artist/4eDqyTTv3OAh7WDEO4yKWB) | [Quoi\-ce y'a pour souper?](https://open.spotify.com/album/7xI5Vn3wJ1LGK5cHI52XdW) | 3:35 | 2023-08-18 | 2023-09-09 |
 | [C'est ma lady](https://open.spotify.com/track/7wTkIF9aVnj7c1Q1RWQ3fN) | [Marilyne Léonard](https://open.spotify.com/artist/00WvHy3wvdUV4WSvvc0N5p) | [C'est ma lady](https://open.spotify.com/album/1DApIRmNfHbmnte59SMKo9) | 2:36 | 2023-02-10 | 2025-06-24 |
 | [C'est normal](https://open.spotify.com/track/6BGtsJWx1z2Azuc7Y9aVgy) | [blesse](https://open.spotify.com/artist/5MGjRHDmuH8M7tuk7NVmge) | [C'est normal](https://open.spotify.com/album/2ih55fk339v9wUvBuB4b9c) | 4:16 | 2026-04-17 | 2026-09-02 |
+| [Cabaret](https://open.spotify.com/track/6YcTv9ZkZJ6o7wHFNJV0x5) | [Grand Public](https://open.spotify.com/artist/5Ctw4xKmnbdrLyWdEA4KiO) | [Cabaret](https://open.spotify.com/album/45n7Lg3WQ6bqha9GPFIb2D) | 3:39 | 2026-11-27 |  |
 | [CABOT](https://open.spotify.com/track/4mHzCQFV9w6TKflRRerYff) | [La Monarque](https://open.spotify.com/artist/5aetwYQT7Tq7WWuv8SWZU3) | [CABOT](https://open.spotify.com/album/124xzBSJ90brz9TUGwB6ai) | 3:06 | 2025-08-07 | 2025-11-22 |
 | [Calling Out!](https://open.spotify.com/track/6qQF7LlBNYl37dcAbkl2Az) | [Alex Henry Foster](https://open.spotify.com/artist/3xxV7Humr8VBXGhNNbyWoY) | [Calling Out!](https://open.spotify.com/album/1zO8n8EnWtrJ92WlWR8eAI) | 3:42 | 2026-09-04 |  |
 | [CAM](https://open.spotify.com/track/6pgWrHesm9CcgnojYVNfIT) | [Marie Céleste](https://open.spotify.com/artist/6CSL6Sb3kje1JRJPFTrPQQ) | [CAM / LO](https://open.spotify.com/album/2qmBgWtRXyUYPQSbgHbj2T) | 3:18 | 2026-01-16 | 2026-03-21 |
@@ -342,7 +343,7 @@
 | [J’arrive à la ville](https://open.spotify.com/track/5Sz7VCAOiYPhW1OGMJxQTq) | [Bibi Club](https://open.spotify.com/artist/3TcKgwcrTy4oLOQoEq3tGD) | [J’arrive à la ville](https://open.spotify.com/album/2lIpDsxuhuze0KH1a0Sech) | 6:20 | 2026-10-02 |  |
 | [K9](https://open.spotify.com/track/6vKKnSBuPeE7ZQLfwjW4re) | [La Sécurité](https://open.spotify.com/artist/5ijO3JnnKpoAOTU4QaDgdW) | [Stay Safe!](https://open.spotify.com/album/5AOTO0vLGuaGk9Tim88zF1) | 5:02 | 2023-06-16 | 2024-09-21 |
 | [Kaléidoscope](https://open.spotify.com/track/0Ftgq4He4Gf6llPi0sJfaY) | [Caravane](https://open.spotify.com/artist/6hCBXCqoy6C3nNddhQsWRT) | [Kaléidoscope](https://open.spotify.com/album/27nWncmd558GGghngqlC4T) | 2:07 | 2023-10-20 | 2023-11-16 |
-| [Kathleen](https://open.spotify.com/track/4X1GOBjOLKUc90poQMT0eX) | [SOMET](https://open.spotify.com/artist/37pNkcmGemurl5LhkDwjak) | [Kathleen](https://open.spotify.com/album/0320GwlmSLBxrV80JSA2CL) | 4:30 | 2026-10-09 |  |
+| [Kathleen](https://open.spotify.com/track/4X1GOBjOLKUc90poQMT0eX) | [SOMET](https://open.spotify.com/artist/37pNkcmGemurl5LhkDwjak) | [Kathleen](https://open.spotify.com/album/0320GwlmSLBxrV80JSA2CL) | 4:30 | 2026-10-09 | 2026-11-27 |
 | [Keeps Getting Better \- Look at my pretty flower reprise](https://open.spotify.com/track/2XM1Mmv9Fz8pEghUQNQixL) | [Jennifer\-Lynn Christie](https://open.spotify.com/artist/4y8LRIsfX6uRn878cICUy1) | [Keeps Getting Better \(Look at my pretty flower reprise\)](https://open.spotify.com/album/6K6P3yIxqhTLCVvw71kRi3) | 3:00 | 2026-04-24 | 2026-05-02 |
 | [Ketchup](https://open.spotify.com/track/6aEDFAIw20ghNgkX6kCFXj) | [Faon](https://open.spotify.com/artist/3sg5qAIkJ910yUKXpgEiGN) | [Mon ombre](https://open.spotify.com/album/1BpaCQWPxv6hvQyTsz5H6w) | 3:19 | 2025-10-31 | 2025-11-08 |
 | [Ketchup](https://open.spotify.com/track/1l6JgsaeYbtEE5eE5COasN) | [La Sécurité](https://open.spotify.com/artist/5ijO3JnnKpoAOTU4QaDgdW) | [Ketchup](https://open.spotify.com/album/3Rc9SpfmAFy661xFZRZXKY) | 2:44 | 2025-01-31 | 2025-10-18 |
@@ -555,6 +556,7 @@
 | [Pygargues](https://open.spotify.com/track/03pk8SH9ed3ea4onLjxZaf) | [Phéromones](https://open.spotify.com/artist/6STkC7KmsT72F85SQQnOQq) | [Pygargues](https://open.spotify.com/album/3UtkCyxcjvrSpYRl6OaeXW) | 3:53 | 2026-03-06 | 2026-05-16 |
 | [Qu'est\-ce tu fais là?](https://open.spotify.com/track/7sx4Oa7bNUPs1tBq8JYRLK) | [Perséide](https://open.spotify.com/artist/4cJhug4ifODj6Es5siYBd7) | [Passages secrets](https://open.spotify.com/album/2IhvuW1apwoiGgHogmploz) | 4:06 | 2026-01-09 | 2026-03-28 |
 | [QUATRE CLOCHES](https://open.spotify.com/track/4q7D8M8y02h5Yd6WLmHnr4) | [Valery Vaughn](https://open.spotify.com/artist/2Sv6uFaaSPtXbINLmXJVEr) | [QUATRE CLOCHES](https://open.spotify.com/album/7Mhma6bTKHJoaeKTkbitOO) | 2:39 | 2026-03-20 | 2026-04-25 |
+| [Queen Cong](https://open.spotify.com/track/27l4R5mKqUiLvmgIaupN2l) | [DVTR](https://open.spotify.com/artist/2qLPU8fMazHXW2IzNklrZF) | [Queen Cong](https://open.spotify.com/album/7kOcnFHtNzfTFJT9Ywr2V7) | 2:41 | 2026-11-27 |  |
 | [Quel ami](https://open.spotify.com/track/3JjYYVSWDeUhUTND1sUiXg) | [pas de signal](https://open.spotify.com/artist/2OMoXdao3mTaapv9gpyZMQ) | [Quel ami](https://open.spotify.com/album/020KslK8D4Ps0dIIOlA9sB) | 3:15 | 2025-11-21 | 2026-03-07 |
 | [R.B.](https://open.spotify.com/track/6YMG5XbVgKUdVIrMaFr8J5) | [Population II](https://open.spotify.com/artist/6PPO5rGb8UVDvR1XjHEWZd) | [R.B.](https://open.spotify.com/album/7xZKrE00O2cUzItOtQ2oPU) | 4:49 | 2024-03-15 | 2024-04-19 |
 | [Radio](https://open.spotify.com/track/1PS45iWkOspjpeXQjzDhPl) | [Planet Chloé](https://open.spotify.com/artist/6nvLTll83bPbaAvemxQ13S) | [Radio](https://open.spotify.com/album/1uxkF2SgNcdeOYfLwh9OQc) | 2:58 | 2026-11-13 |  |
@@ -602,7 +604,7 @@
 | [Sentiments nouveaux](https://open.spotify.com/track/5Gf05sJ1T2JPaclXS1GK71) | [Le Couleur](https://open.spotify.com/artist/0ChUTSO3tfQSVKMOpWkCJy) | [Sentiments nouveaux](https://open.spotify.com/album/3mgWiKYNpcaaESQCp8SKqH) | 3:33 | 2023-03-03 | 2023-08-06 |
 | [Sentiments nouveaux](https://open.spotify.com/track/6LM0rvYTRtleOizjQEmkQH) | [Le Couleur](https://open.spotify.com/artist/0ChUTSO3tfQSVKMOpWkCJy) | [Sentiments nouveaux](https://open.spotify.com/album/5gBFPLneuXdVVGTV6usDgb) | 3:33 | 2023-09-08 | 2023-09-26 |
 | [Seul](https://open.spotify.com/track/5E68WhqLfnLPXEHJe9JH1I) | [Choses Sauvages](https://open.spotify.com/artist/0V9SOqHRWOifVZQLFyDfG9) | [Seul](https://open.spotify.com/album/3veZxdSOEopgxyOxouEvXj) | 3:34 | 2026-04-03 |  |
-| [sex & cigarettes](https://open.spotify.com/track/2c0wJGVHOWxnWtsapZ7c27) | [Félix Collin](https://open.spotify.com/artist/1LdaP4F8M6XzkmVAfsSQ1s) | [sex & cigarettes](https://open.spotify.com/album/22xLfdzlheaZWVMhS64Jzu) | 2:27 | 2026-08-28 |  |
+| [sex & cigarettes](https://open.spotify.com/track/2c0wJGVHOWxnWtsapZ7c27) | [Félix Collin](https://open.spotify.com/artist/1LdaP4F8M6XzkmVAfsSQ1s) | [sex & cigarettes](https://open.spotify.com/album/22xLfdzlheaZWVMhS64Jzu) | 2:27 | 2026-08-28 | 2026-11-27 |
 | [SEXES](https://open.spotify.com/track/4rGBIXMqaemPtSwX6vvetf) | [6ODEM3](https://open.spotify.com/artist/3u9sQ57bL4NrnDzJd2XLMW) | [SEXES](https://open.spotify.com/album/1ptCeHbHMNjDD3m67NIY2T) | 3:10 | 2026-08-28 | 2026-10-19 |
 | [She's Not Coming](https://open.spotify.com/track/4QGZnFfBP8OGd5a8EphTgd) | [Apacalda](https://open.spotify.com/artist/7G8qJFWUYe3bsBN1cGjSq1) | [There’s a Shadow in My Room and It Isn’t Mine](https://open.spotify.com/album/0xQxPvuXME9IoWS2y3EwA6) | 3:44 | 2025-10-10 | 2025-12-13 |
 | [Shine](https://open.spotify.com/track/4aUE56uaJa8ww8eayKVrEq) | [ALIAS](https://open.spotify.com/artist/4gBaXmek9rvLOAn6WcOH9w) | [Shine](https://open.spotify.com/album/60d9xaZb3SgFRoJR9Lcdra) | 2:11 | 2023-02-10 | 2025-10-11 |

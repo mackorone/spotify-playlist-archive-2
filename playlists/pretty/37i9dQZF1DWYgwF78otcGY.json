@@ -1,6 +1,6 @@
 {
   "description": "Fj\u00e4derboa, dansgolv, alls\u00e5ng och tonartsh\u00f6jningar - nu \u00e4r det fest! \ud83e\udea9\u2728\ud83d\udc9c",
-  "num_followers": 29633,
+  "num_followers": 29632,
   "original_name": "Nu k\u00f6r vi!",
   "owner": {
     "name": "Spotify",
@@ -91,22 +91,6 @@
     {
       "added_at": "2026-02-19 13:19:00",
       "album": {
-        "name": "Viva L\u2019Amor",
-        "url": "https://open.spotify.com/album/4b0SCc4EWD8oAJmkpo0wr7"
-      },
-      "artists": [
-        {
-          "name": "Medina",
-          "url": "https://open.spotify.com/artist/3HbP7OfT7PCV0BrR0ReUkC"
-        }
-      ],
-      "duration_ms": 181800,
-      "name": "Viva L\u2019Amor",
-      "url": "https://open.spotify.com/track/7AfJuBQaZQxmKDofbP73TT"
-    },
-    {
-      "added_at": "2026-02-19 13:19:00",
-      "album": {
         "name": "\u00c4r",
         "url": "https://open.spotify.com/album/1nfObC0Ykmpy6vYLwlsg4Z"
       },
@@ -119,6 +103,22 @@
       "duration_ms": 188293,
       "name": "Stad i ljus",
       "url": "https://open.spotify.com/track/7bVwUOySQGO2afJ0LArAMi"
+    },
+    {
+      "added_at": "2026-02-19 13:19:00",
+      "album": {
+        "name": "Viva L\u2019Amor",
+        "url": "https://open.spotify.com/album/4b0SCc4EWD8oAJmkpo0wr7"
+      },
+      "artists": [
+        {
+          "name": "Medina",
+          "url": "https://open.spotify.com/artist/3HbP7OfT7PCV0BrR0ReUkC"
+        }
+      ],
+      "duration_ms": 181800,
+      "name": "Viva L\u2019Amor",
+      "url": "https://open.spotify.com/track/7AfJuBQaZQxmKDofbP73TT"
     },
     {
       "added_at": "2026-02-19 13:19:00",
@@ -139,22 +139,6 @@
     {
       "added_at": "2026-02-19 13:19:00",
       "album": {
-        "name": "Heroes",
-        "url": "https://open.spotify.com/album/6G6DMOiYMgVZLGs9nmNEJh"
-      },
-      "artists": [
-        {
-          "name": "M\u00e5ns Zelmerl\u00f6w",
-          "url": "https://open.spotify.com/artist/1IxP1g9VrPzJqXFCsuyHKe"
-        }
-      ],
-      "duration_ms": 190613,
-      "name": "Heroes",
-      "url": "https://open.spotify.com/track/4ciaNqHWA2IzHphZaVRzHI"
-    },
-    {
-      "added_at": "2026-02-19 13:19:00",
-      "album": {
         "name": "Fuego",
         "url": "https://open.spotify.com/album/1Kix2Ho3LgJI4tmtcFdNr8"
       },
@@ -171,18 +155,18 @@
     {
       "added_at": "2026-02-19 13:19:00",
       "album": {
-        "name": "Genom Eld & Vatten",
-        "url": "https://open.spotify.com/album/19ntBVha7UgkaDUhyGwzh5"
+        "name": "Heroes",
+        "url": "https://open.spotify.com/album/6G6DMOiYMgVZLGs9nmNEJh"
       },
       "artists": [
         {
-          "name": "Medina",
-          "url": "https://open.spotify.com/artist/3HbP7OfT7PCV0BrR0ReUkC"
+          "name": "M\u00e5ns Zelmerl\u00f6w",
+          "url": "https://open.spotify.com/artist/1IxP1g9VrPzJqXFCsuyHKe"
         }
       ],
-      "duration_ms": 186666,
-      "name": "Genom Eld & Vatten",
-      "url": "https://open.spotify.com/track/0B3iaqZELtRBnVdIHnikK7"
+      "duration_ms": 190613,
+      "name": "Heroes",
+      "url": "https://open.spotify.com/track/4ciaNqHWA2IzHphZaVRzHI"
     },
     {
       "added_at": "2026-02-19 13:19:00",
@@ -199,6 +183,22 @@
       "duration_ms": 175066,
       "name": "My Number One",
       "url": "https://open.spotify.com/track/6LkCvCc9oFoLDv4DLhzTox"
+    },
+    {
+      "added_at": "2026-02-19 13:19:00",
+      "album": {
+        "name": "Genom Eld & Vatten",
+        "url": "https://open.spotify.com/album/19ntBVha7UgkaDUhyGwzh5"
+      },
+      "artists": [
+        {
+          "name": "Medina",
+          "url": "https://open.spotify.com/artist/3HbP7OfT7PCV0BrR0ReUkC"
+        }
+      ],
+      "duration_ms": 186666,
+      "name": "Genom Eld & Vatten",
+      "url": "https://open.spotify.com/track/0B3iaqZELtRBnVdIHnikK7"
     },
     {
       "added_at": "2026-02-19 13:19:00",
@@ -679,22 +679,6 @@
     {
       "added_at": "2026-02-19 13:19:00",
       "album": {
-        "name": "Live Forever - The Album (Deluxe Edition)",
-        "url": "https://open.spotify.com/album/5g18f9GEyipB2xX2d9xy5x"
-      },
-      "artists": [
-        {
-          "name": "Magnus Carlsson",
-          "url": "https://open.spotify.com/artist/12VIfmT1N5FGyCuuXGKuYB"
-        }
-      ],
-      "duration_ms": 182626,
-      "name": "Live Forever",
-      "url": "https://open.spotify.com/track/6yk6jU3Ia33ed2XL4V9IeW"
-    },
-    {
-      "added_at": "2026-02-19 13:19:00",
-      "album": {
         "name": "Halcyon Days",
         "url": "https://open.spotify.com/album/69HuMCOG9mg3MkKY2fuYWg"
       },
@@ -707,6 +691,22 @@
       "duration_ms": 204813,
       "name": "Temple of Love - Radio Edit",
       "url": "https://open.spotify.com/track/1cw6VQ7t4Wq4bIVKaLU768"
+    },
+    {
+      "added_at": "2026-02-19 13:19:00",
+      "album": {
+        "name": "Live Forever - The Album (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/5g18f9GEyipB2xX2d9xy5x"
+      },
+      "artists": [
+        {
+          "name": "Magnus Carlsson",
+          "url": "https://open.spotify.com/artist/12VIfmT1N5FGyCuuXGKuYB"
+        }
+      ],
+      "duration_ms": 182626,
+      "name": "Live Forever",
+      "url": "https://open.spotify.com/track/6yk6jU3Ia33ed2XL4V9IeW"
     },
     {
       "added_at": "2026-02-19 13:19:00",

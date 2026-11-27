@@ -564,10 +564,28 @@
       ],
       "date_added": "2022-09-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-27",
       "duration_ms": 189800,
       "name": "Don't Think Twice, It's All Right",
       "url": "https://open.spotify.com/track/3ORn0rgu27z7hlnNgvYWse"
+    },
+    {
+      "album": {
+        "name": "In Concert",
+        "url": "https://open.spotify.com/album/66EuOM4JX57MTYRtSzQp4q"
+      },
+      "artists": [
+        {
+          "name": "Joan Baez",
+          "url": "https://open.spotify.com/artist/1EevBGfUh3RSQSGpluxgBm"
+        }
+      ],
+      "date_added": "2026-11-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 191266,
+      "name": "Don't Think Twice, It's All Right",
+      "url": "https://open.spotify.com/track/1jWMYvFjuSzWda5mswu8r4"
     },
     {
       "album": {

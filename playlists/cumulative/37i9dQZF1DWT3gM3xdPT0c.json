@@ -5633,6 +5633,24 @@
     },
     {
       "album": {
+        "name": "Ourense",
+        "url": "https://open.spotify.com/album/0EWTa6ZwRBEJ48GLJr7CRT"
+      },
+      "artists": [
+        {
+          "name": "Toni Barella",
+          "url": "https://open.spotify.com/artist/4SG1RjKd3TiXxwZ36G6tut"
+        }
+      ],
+      "date_added": "2026-11-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 136501,
+      "name": "Ourense",
+      "url": "https://open.spotify.com/track/4h56ajNF27IMm7JHOyyZ1G"
+    },
+    {
+      "album": {
         "name": "Owl & the Moon",
         "url": "https://open.spotify.com/album/5fuDpP53oiSHp0IqXHflYw"
       },

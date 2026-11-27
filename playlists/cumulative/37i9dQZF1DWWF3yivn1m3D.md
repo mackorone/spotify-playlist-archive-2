@@ -4,7 +4,7 @@
 
 > The best of the legendary composer.
 
-135 songs - 9 hr 55 min
+136 songs - 10 hr 0 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -73,6 +73,7 @@
 | [Love Is Not Enough](https://open.spotify.com/track/7wEaPRwNN1mrDrnqZZoQ3M) | [Hans Zimmer](https://open.spotify.com/artist/0YC192cP3KPCRWx8zr8MfZ) | [The Son \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/7fKZaTDLIJHlyT0yiNk2PY) | 3:21 | 2022-11-25 |  |
 | [Maestro](https://open.spotify.com/track/4SimUIFxXh5N6VsF33oMo7) | [Hans Zimmer](https://open.spotify.com/artist/0YC192cP3KPCRWx8zr8MfZ) | [The Holiday \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/1wJZSN3VrWTR8OcFJ4lp9I) | 3:53 | 2021-07-26 |  |
 | [Main Titles \(You’ve Been Called Back to Top Gun\)](https://open.spotify.com/track/74BfFG9qR85KXxN49esFVA) | [Harold Faltermeyer](https://open.spotify.com/artist/7Cf73Z3RZQTH4V69GSDxnv), [Lady Gaga](https://open.spotify.com/artist/1HY2Jd0NmPuamShAr6KMms), [Hans Zimmer](https://open.spotify.com/artist/0YC192cP3KPCRWx8zr8MfZ), [Lorne Balfe](https://open.spotify.com/artist/6dU7gPN2BhEPfO5QHLt7es) | [Top Gun: Maverick \(Music From The Motion Picture\)](https://open.spotify.com/album/3tjIKRAPBy5Qu4z8F5HmBz) | 2:30 | 2022-11-25 |  |
+| [Man of Steel Suite, Part 1 \- Live](https://open.spotify.com/track/2Y09qmMER9UMsBsVTkRoTU) | [Hans Zimmer](https://open.spotify.com/artist/0YC192cP3KPCRWx8zr8MfZ), [The Disruptive Collective](https://open.spotify.com/artist/0oMhzz3sH8FqeezbdI3yAm) | [Man of Steel Suite \(Live\)](https://open.spotify.com/album/2uIgRRdoBRIN24IRSaIND9) | 5:22 | 2026-11-27 |  |
 | [Mombasa](https://open.spotify.com/track/77QDBf1zTvyegtTpAO5EpH) | [Hans Zimmer](https://open.spotify.com/artist/0YC192cP3KPCRWx8zr8MfZ) | [Inception \(Music from the Motion Picture\)](https://open.spotify.com/album/2qvA7HmSg1iM6XMiFF76dp) | 4:54 | 2021-07-26 |  |
 | [Mountains](https://open.spotify.com/track/0Sg3UL7f40ulmTh0Xwr6qY) | [Hans Zimmer](https://open.spotify.com/artist/0YC192cP3KPCRWx8zr8MfZ) | [Interstellar \(Original Motion Picture Soundtrack\) \[Expanded Edition\]](https://open.spotify.com/album/3B61kSKTxlY36cYgzvf3cP) | 3:39 | 2021-07-26 | 2024-04-19 |
 | [Mountains](https://open.spotify.com/track/6WVRhBxRMW9fn6sRkt2gWn) | [Hans Zimmer](https://open.spotify.com/artist/0YC192cP3KPCRWx8zr8MfZ) | [Interstellar \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/7a78GiEowpaCa7ZJs44xUU) | 3:39 | 2021-07-26 |  |

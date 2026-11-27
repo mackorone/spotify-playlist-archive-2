@@ -4,7 +4,7 @@
 
 > Submit your song: https:&\#x2F;&\#x2F;dailyplaylists.com&\#x2F;playlists&\#x2F;6APhyezi0mduQmsYIurjeg
 
-640 songs - 1 day 14 hr 48 min
+642 songs - 1 day 14 hr 54 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -13,6 +13,7 @@
 | [1000](https://open.spotify.com/track/0GvRrODCK9IOLGSTtBpa2e) | [romeo lowercase](https://open.spotify.com/artist/3sQ2cEmJTO9mgmkjSAWptH) | [1000](https://open.spotify.com/album/2PFh9IL2F1pF8LxS8AquAh) | 3:13 | 2025-01-07 |  |
 | [1969](https://open.spotify.com/track/6Qab6S5q4yUxgRdXkZa0xr) | [The Fuzes](https://open.spotify.com/artist/2FTrpNcKeBFvF9iKZa5kEA) | [1969 \(Remastered 2024\)](https://open.spotify.com/album/514Bco4YigBzdv8bAk9kHP) | 3:30 | 2024-12-24 |  |
 | [1ne](https://open.spotify.com/track/4GbahnbbVLTfUcHnFurgkS) | [Sol Marineris](https://open.spotify.com/artist/6fLLkzsoaz9ceyLoGYmUIP) | [Songs of Repetition](https://open.spotify.com/album/7gnvkbbUp2aazXJg53fB6L) | 4:11 | 2026-09-23 |  |
+| [2006](https://open.spotify.com/track/3Sxko84nHVm1FHA0wHuXig) | [Carlos Diem](https://open.spotify.com/artist/52eCukmvzQTZ45VpgpEfNP) | [2006](https://open.spotify.com/album/3nQuESzI46J1FnV1j5b0Oq) | 3:10 | 2026-11-26 |  |
 | [2do Viaje](https://open.spotify.com/track/25djH1btNHSWHLsbgFBFov) | [El viaje de la vieja](https://open.spotify.com/artist/28CwZaIjKtZ3GSdjt0PDxe) | [2do Viaje](https://open.spotify.com/album/1Kdktvltlmz9s0kF1xZJyA) | 5:54 | 2024-03-01 |  |
 | [48 horas](https://open.spotify.com/track/5nVXtplassqeVsrDB0FFvm) | [Ángel Valor](https://open.spotify.com/artist/3TSk2G1PqCoO7iNAnHJAG6) | [48 horas](https://open.spotify.com/album/0nA6wn6HNIUvidDc9Repki) | 4:02 | 2026-11-23 |  |
 | [4wd](https://open.spotify.com/track/4RANy9uIB9kJ16JB45uRT5) | [Tricia Ann Band](https://open.spotify.com/artist/0yoFOKSX6lL2lPSxPiMpIO) | [Drunk & Found](https://open.spotify.com/album/76448blzoa2GmYMpdK2P78) | 3:46 | 2024-10-25 |  |
@@ -457,6 +458,7 @@
 | [Restless Road](https://open.spotify.com/track/58V8EbPrDhyA9dDIDoYGsT) | [K W Hoffman](https://open.spotify.com/artist/11NQwwc952s3dgAPbR5VPD) | [Restless Road](https://open.spotify.com/album/2agWTX5zSYzqf9gDxYgvmo) | 3:48 | 2025-03-25 |  |
 | [Rhetoric](https://open.spotify.com/track/0Q3iYYViUipXtokTdXzmb1) | [Sam Baird](https://open.spotify.com/artist/2cMtvsKd4aPoKbn0zjNt2I) | [Rhetoric](https://open.spotify.com/album/4pX4453xY0IwaUhOM0kVwh) | 3:59 | 2023-04-21 |  |
 | [Rhyme Or Reason](https://open.spotify.com/track/69PucpUT1iQJ2BWUFxd4aP) | [¡What!](https://open.spotify.com/artist/0njosWDpWmmXtIBjOA00qM) | [Rhyme Or Reason](https://open.spotify.com/album/2uqSGUWFDikiGUgy2fbKVX) | 1:49 | 2024-11-11 |  |
+| [Rich Kids](https://open.spotify.com/track/3wPaAPgHFZ6eExWM69NF9g) | [The Mosfets](https://open.spotify.com/artist/4sl6X5AE6960qO5WMkbPzr), [Thomas Duxbury](https://open.spotify.com/artist/6ECILQNZ22Kc1VCNpX4Cct) | [Rich Kids](https://open.spotify.com/album/2AJasAEJEqKVYOk4qccyy1) | 2:29 | 2026-11-26 |  |
 | [Right Now](https://open.spotify.com/track/1ZzmQPhVNJI3C0dpR91SIh) | [Come On Tiger](https://open.spotify.com/artist/1afu8g2MsViBZAmFWpS5ut) | [Right Now](https://open.spotify.com/album/2h8c818Sxon62bZLwLP0E3) | 3:24 | 2025-04-02 |  |
 | [Rigor Mortis](https://open.spotify.com/track/0yXHXL2zHG52zsgKTsKIzZ) | [Killers Legion](https://open.spotify.com/artist/0N0ksU7AAb3TNRj8Zng2tY) | [Aggressive Discipline](https://open.spotify.com/album/26T4DCBAeGALqXeINoVDIx) | 4:33 | 2023-03-13 |  |
 | [Rise Up](https://open.spotify.com/track/1QHT7qRWUUvmlmTPdJt3nM) | [Afonso](https://open.spotify.com/artist/01H25BZ63LTbniabPgRvx3) | [Rise Up](https://open.spotify.com/album/3sLSAcYpcDJ9mafMoQzABN) | 4:21 | 2026-11-16 |  |

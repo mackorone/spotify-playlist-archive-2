@@ -1,6 +1,6 @@
 {
   "description": "for when you're leaning into that bad day feeling",
-  "num_followers": 3908667,
+  "num_followers": 3908482,
   "original_name": "Life Sucks",
   "owner": {
     "name": "Spotify",
@@ -27,22 +27,6 @@
     {
       "added_at": "2026-05-01 14:14:17",
       "album": {
-        "name": "Unorthodox Jukebox",
-        "url": "https://open.spotify.com/album/58ufpQsJ1DS5kq4hhzQDiI"
-      },
-      "artists": [
-        {
-          "name": "Bruno Mars",
-          "url": "https://open.spotify.com/artist/0du5cEVh5yTK9QJze8zA0C"
-        }
-      ],
-      "duration_ms": 213826,
-      "name": "When I Was Your Man",
-      "url": "https://open.spotify.com/track/0nJW01T7XtvILxQgC5J7Wh"
-    },
-    {
-      "added_at": "2026-05-01 14:14:17",
-      "album": {
         "name": "Long Way Down (Deluxe)",
         "url": "https://open.spotify.com/album/0Gf1yE895FKK4YWVRuAeg8"
       },
@@ -55,6 +39,22 @@
       "duration_ms": 244360,
       "name": "Another Love",
       "url": "https://open.spotify.com/track/3JvKfv6T31zO0ini8iNItO"
+    },
+    {
+      "added_at": "2026-05-01 14:14:17",
+      "album": {
+        "name": "Unorthodox Jukebox",
+        "url": "https://open.spotify.com/album/58ufpQsJ1DS5kq4hhzQDiI"
+      },
+      "artists": [
+        {
+          "name": "Bruno Mars",
+          "url": "https://open.spotify.com/artist/0du5cEVh5yTK9QJze8zA0C"
+        }
+      ],
+      "duration_ms": 213826,
+      "name": "When I Was Your Man",
+      "url": "https://open.spotify.com/track/0nJW01T7XtvILxQgC5J7Wh"
     },
     {
       "added_at": "2026-05-01 14:14:17",
@@ -1483,22 +1483,6 @@
     {
       "added_at": "2026-05-01 14:14:17",
       "album": {
-        "name": "Cry",
-        "url": "https://open.spotify.com/album/4uQ5kFmXQdCxz3WvM4UUzy"
-      },
-      "artists": [
-        {
-          "name": "Cigarettes After Sex",
-          "url": "https://open.spotify.com/artist/1QAJqy2dA3ihHBFIHRphZj"
-        }
-      ],
-      "duration_ms": 256799,
-      "name": "Cry",
-      "url": "https://open.spotify.com/track/3p4hRhMcb6ch8OLtATMaLw"
-    },
-    {
-      "added_at": "2026-05-01 14:14:17",
-      "album": {
         "name": "Camila",
         "url": "https://open.spotify.com/album/2vD3zSQr8hNlg0obNel4TE"
       },
@@ -1511,6 +1495,22 @@
       "duration_ms": 178464,
       "name": "Consequences",
       "url": "https://open.spotify.com/track/7sTtHHrD0zDpmzQzH3zegz"
+    },
+    {
+      "added_at": "2026-05-01 14:14:17",
+      "album": {
+        "name": "Cry",
+        "url": "https://open.spotify.com/album/4uQ5kFmXQdCxz3WvM4UUzy"
+      },
+      "artists": [
+        {
+          "name": "Cigarettes After Sex",
+          "url": "https://open.spotify.com/artist/1QAJqy2dA3ihHBFIHRphZj"
+        }
+      ],
+      "duration_ms": 256799,
+      "name": "Cry",
+      "url": "https://open.spotify.com/track/3p4hRhMcb6ch8OLtATMaLw"
     },
     {
       "added_at": "2026-05-01 14:14:17",
@@ -1547,22 +1547,6 @@
     {
       "added_at": "2026-05-01 14:14:17",
       "album": {
-        "name": "Self Portrait",
-        "url": "https://open.spotify.com/album/5UZriQSHZOJOjqUtPE5lpg"
-      },
-      "artists": [
-        {
-          "name": "Sasha Alex Sloan",
-          "url": "https://open.spotify.com/artist/4xnihxcoXWK3UqryOSnbw5"
-        }
-      ],
-      "duration_ms": 208990,
-      "name": "Too Sad To Cry",
-      "url": "https://open.spotify.com/track/3CRtbOoAP82y0VbPO5j1ft"
-    },
-    {
-      "added_at": "2026-05-01 14:14:17",
-      "album": {
         "name": "ANTI (Deluxe)",
         "url": "https://open.spotify.com/album/4UlGauD7ROb3YbVOFMgW5u"
       },
@@ -1575,6 +1559,22 @@
       "duration_ms": 223213,
       "name": "Close To You",
       "url": "https://open.spotify.com/track/6D2tzc8kRnZb7P1lNwMBLH"
+    },
+    {
+      "added_at": "2026-05-01 14:14:17",
+      "album": {
+        "name": "Self Portrait",
+        "url": "https://open.spotify.com/album/5UZriQSHZOJOjqUtPE5lpg"
+      },
+      "artists": [
+        {
+          "name": "Sasha Alex Sloan",
+          "url": "https://open.spotify.com/artist/4xnihxcoXWK3UqryOSnbw5"
+        }
+      ],
+      "duration_ms": 208990,
+      "name": "Too Sad To Cry",
+      "url": "https://open.spotify.com/track/3CRtbOoAP82y0VbPO5j1ft"
     },
     {
       "added_at": "2026-05-01 14:14:17",
@@ -1691,22 +1691,6 @@
     {
       "added_at": "2026-05-01 14:14:17",
       "album": {
-        "name": "Lonely Girl",
-        "url": "https://open.spotify.com/album/0bGffrDhBjlDuarQjF8itE"
-      },
-      "artists": [
-        {
-          "name": "Skye Newman",
-          "url": "https://open.spotify.com/artist/4UoEzpWZrFWvlGYOzTEn1M"
-        }
-      ],
-      "duration_ms": 142288,
-      "name": "Lonely Girl",
-      "url": "https://open.spotify.com/track/1wheEtNXn04hxOMCiNIwnE"
-    },
-    {
-      "added_at": "2026-05-01 14:14:17",
-      "album": {
         "name": "break your own heart",
         "url": "https://open.spotify.com/album/2lWESgqq7i1Xll8nDCOQED"
       },
@@ -1719,6 +1703,22 @@
       "duration_ms": 194583,
       "name": "break your own heart",
       "url": "https://open.spotify.com/track/03w3rXukAjqDavSVdJPlNB"
+    },
+    {
+      "added_at": "2026-05-01 14:14:17",
+      "album": {
+        "name": "Lonely Girl",
+        "url": "https://open.spotify.com/album/0bGffrDhBjlDuarQjF8itE"
+      },
+      "artists": [
+        {
+          "name": "Skye Newman",
+          "url": "https://open.spotify.com/artist/4UoEzpWZrFWvlGYOzTEn1M"
+        }
+      ],
+      "duration_ms": 142288,
+      "name": "Lonely Girl",
+      "url": "https://open.spotify.com/track/1wheEtNXn04hxOMCiNIwnE"
     },
     {
       "added_at": "2026-05-01 14:14:17",
@@ -1855,22 +1855,6 @@
     {
       "added_at": "2026-05-01 14:14:17",
       "album": {
-        "name": "Things I Chose To Remember",
-        "url": "https://open.spotify.com/album/2BEcS31JAcmiXeMsYAyJtq"
-      },
-      "artists": [
-        {
-          "name": "Rhys Lewis",
-          "url": "https://open.spotify.com/artist/4T2k9bgIoC8bbqjqiEl9vZ"
-        }
-      ],
-      "duration_ms": 229960,
-      "name": "No Right To Love You - Acoustic",
-      "url": "https://open.spotify.com/track/4xFKrhQIvPDIpmFvqlr0sQ"
-    },
-    {
-      "added_at": "2026-05-01 14:14:17",
-      "album": {
         "name": "Please Don't Hate Me",
         "url": "https://open.spotify.com/album/14EBLrQbRhhzyCMQBSlhmn"
       },
@@ -1887,18 +1871,18 @@
     {
       "added_at": "2026-05-01 14:14:17",
       "album": {
-        "name": "Favourite Ex",
-        "url": "https://open.spotify.com/album/0hIIlNhG6PZoQxCmSA24Uz"
+        "name": "Things I Chose To Remember",
+        "url": "https://open.spotify.com/album/2BEcS31JAcmiXeMsYAyJtq"
       },
       "artists": [
         {
-          "name": "Maisie Peters",
-          "url": "https://open.spotify.com/artist/2RVvqRBon9NgaGXKfywDSs"
+          "name": "Rhys Lewis",
+          "url": "https://open.spotify.com/artist/4T2k9bgIoC8bbqjqiEl9vZ"
         }
       ],
-      "duration_ms": 201694,
-      "name": "Favourite Ex",
-      "url": "https://open.spotify.com/track/1a1SQeSqUKzH5OUVTEx4ae"
+      "duration_ms": 229960,
+      "name": "No Right To Love You - Acoustic",
+      "url": "https://open.spotify.com/track/4xFKrhQIvPDIpmFvqlr0sQ"
     },
     {
       "added_at": "2026-05-01 14:14:17",
@@ -1919,6 +1903,22 @@
       "duration_ms": 203300,
       "name": "Is It Just Me? (feat. JP Cooper)",
       "url": "https://open.spotify.com/track/754zNJgoWQaGETFzSYVlmC"
+    },
+    {
+      "added_at": "2026-05-01 14:14:17",
+      "album": {
+        "name": "Favourite Ex",
+        "url": "https://open.spotify.com/album/0hIIlNhG6PZoQxCmSA24Uz"
+      },
+      "artists": [
+        {
+          "name": "Maisie Peters",
+          "url": "https://open.spotify.com/artist/2RVvqRBon9NgaGXKfywDSs"
+        }
+      ],
+      "duration_ms": 201694,
+      "name": "Favourite Ex",
+      "url": "https://open.spotify.com/track/1a1SQeSqUKzH5OUVTEx4ae"
     },
     {
       "added_at": "2026-05-01 14:14:17",

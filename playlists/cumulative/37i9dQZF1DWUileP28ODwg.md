@@ -2,9 +2,9 @@
 
 ### [Top Contemporary Christian](https://open.spotify.com/playlist/37i9dQZF1DWUileP28ODwg)
 
-> Tune in here for new and current hits in Contemporary Christian music! Cover: Peter Burton
+> Tune in here for new and current hits in Contemporary Christian music! Cover:  Brandon Lake
 
-872 songs - 2 day 5 hr 15 min
+874 songs - 2 day 5 hr 24 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -169,6 +169,7 @@
 | [FEAR](https://open.spotify.com/track/3HfKlhohNNTLIv2t9uvmzz) | [NF](https://open.spotify.com/artist/6fOMl44jA4Sp5b9PpYCkzz) | [FEAR](https://open.spotify.com/album/6KLrnVqUhPpX4IzgHgsJTg) | 4:28 | 2025-11-21 | 2026-03-30 |
 | [Fear Has No Place](https://open.spotify.com/track/2KkMQcdYUweGWDAHikdmFu) | [Micah Christopher](https://open.spotify.com/artist/2gWY1lOSS4k3qW2AaBwHIi) | [Fear Has No Place](https://open.spotify.com/album/7euDT3ieX9gq8cEOZjvZcw) | 3:50 | 2024-10-04 | 2025-01-18 |
 | [Feels Like A Blessing](https://open.spotify.com/track/7KAJj6iFtNuobF7i6ZwNyM) | [Benjamin William Hastings](https://open.spotify.com/artist/6CK4CBL0n07VdVZmfh40nm), [JUDAH.](https://open.spotify.com/artist/5LnlX7FdPg0ocmyBzOzDQW) | [Feels Like A Blessing](https://open.spotify.com/album/4nDcYwvgoYx7arEpnbZRLU) | 3:23 | 2022-08-26 | 2022-10-02 |
+| [Feels Like Falling](https://open.spotify.com/track/4PN8GHFYyG34DMl8I60BB4) | [Pat Barrett](https://open.spotify.com/artist/0289SkqAn0iOohwm0pIHv3), [Abbie Gamboa](https://open.spotify.com/artist/4TJVQinD20ZEoJXSuV6IU5) | [Feels Like Falling](https://open.spotify.com/album/2aHFDjLdxb8SHB9N4XcWe0) | 4:20 | 2026-11-27 |  |
 | [Fight Like Heaven](https://open.spotify.com/track/43EXydjWVDtpvsp75PEBaz) | [Tauren Wells](https://open.spotify.com/artist/3SKza3YPBri1k43LB1Tqy4) | [Fight Like Heaven](https://open.spotify.com/album/1HFtYu2cRGDxkF4qSHtQVB) | 2:57 | 2025-09-26 | 2026-04-26 |
 | [Fight On My Knees](https://open.spotify.com/track/3XHP45ZQGX9aJDwmtSvyXo) | [Evan Craft](https://open.spotify.com/artist/4vEpUOtKWtpotWkuv0Vlx4) | [Fight On My Knees](https://open.spotify.com/album/2x0LzPFomEY4AmIF6hm2BZ) | 3:08 | 2022-08-26 | 2023-10-07 |
 | [Fill My Cup](https://open.spotify.com/track/7FYMyfcZtTnNbv5pVK0YbD) | [Andrew Ripp](https://open.spotify.com/artist/7oAskcd3mX9ZzxMPFHYqoN) | [Fill My Cup](https://open.spotify.com/album/3EcsslHYdm8UlzuwnvaA9O) | 3:27 | 2022-02-25 | 2023-10-07 |
@@ -326,7 +327,7 @@
 | [How Far](https://open.spotify.com/track/01puXiVg4t7vhENFH58R6b) | [Tasha Layton](https://open.spotify.com/artist/3yCv2yloJueOb4Y3HEYgSq) | [How Far](https://open.spotify.com/album/2AF8BmjE2SRLOUAeV57ofY) | 3:07 | 2022-04-29 | 2022-05-14 |
 | [How Far](https://open.spotify.com/track/1gIFVl1aHTD5A3TPKtOTVC) | [Tasha Layton](https://open.spotify.com/artist/3yCv2yloJueOb4Y3HEYgSq) | [How Far](https://open.spotify.com/album/3gLjb9742smlCKDF42g7yy) | 3:07 | 2022-05-28 | 2023-02-19 |
 | [How Far](https://open.spotify.com/track/2hsIHeHeOebx5PRTSHQKrL) | [Tasha Layton](https://open.spotify.com/artist/3yCv2yloJueOb4Y3HEYgSq) | [How Far](https://open.spotify.com/album/3bBm5K76qYvla22fG1IOyy) | 3:07 | 2022-10-01 | 2023-10-07 |
-| [How Good God Is](https://open.spotify.com/track/4fKoBrwsE44m3oMIzXSqhL) | [Brandon Lake](https://open.spotify.com/artist/1bdnGJxkbIIys5Jhk1T74v) | [How Good God Is](https://open.spotify.com/album/2cAiFBk6nMBE7Bix8vGiDl) | 3:52 | 2026-09-14 |  |
+| [How Good God Is](https://open.spotify.com/track/4fKoBrwsE44m3oMIzXSqhL) | [Brandon Lake](https://open.spotify.com/artist/1bdnGJxkbIIys5Jhk1T74v) | [How Good God Is](https://open.spotify.com/album/2cAiFBk6nMBE7Bix8vGiDl) | 3:52 | 2026-09-14 | 2026-11-27 |
 | [How Great](https://open.spotify.com/track/6ynVRbeD7wTttPB4SddawG) | [Tauren Wells](https://open.spotify.com/artist/3SKza3YPBri1k43LB1Tqy4), [Phil Wickham](https://open.spotify.com/artist/5d1JhBfyb58upMXCZOdbQu), [Hulvey](https://open.spotify.com/artist/3zSrc5vUlUxyDdS0KrxFJO) | [Breathe On It](https://open.spotify.com/album/6MVFE0ur2YQDrG6Hdo5V0w) | 3:26 | 2026-05-11 | 2026-09-15 |
 | [How Great Thou Art](https://open.spotify.com/track/71sLjRnlC27zrIqwI9uGUr) | [Jordan Smith](https://open.spotify.com/artist/6TV0LZ3BaEun0OQEh96elP) | [How Great Thou Art](https://open.spotify.com/album/1HC5HuqzBNYKYA90KUZq0J) | 4:39 | 2024-12-11 | 2025-02-01 |
 | [How Many Times](https://open.spotify.com/track/6Uv5DJ5pC1NrJb1MofECsR) | [Newsboys](https://open.spotify.com/artist/1SZMaiNHfdUuU0qZKZ6y62) | [Worldwide Revival \(Pt\. 1\)](https://open.spotify.com/album/55mAmj3fdRPzBhmv30Bf2r) | 3:12 | 2024-07-19 | 2025-03-15 |
@@ -365,7 +366,7 @@
 | [I'm Always Talking To Jesus](https://open.spotify.com/track/1Ihs17HHHVxuzraBMEEJrM) | [Newsong](https://open.spotify.com/artist/1Ng8jGC4dL0gkkuh77pbpX) | [I'm Always Talking To Jesus](https://open.spotify.com/album/37TuQEJNYhpbAD0TfSoPq3) | 3:52 | 2025-02-28 | 2025-03-29 |
 | [I'm Gonna Let It Go \- Acoustic](https://open.spotify.com/track/3aoGfI1YdOdcHzO39dCFgT) | [Jason Gray](https://open.spotify.com/artist/4i2mkyKkRrc0OvPrWqb4BE) | [I'm Gonna Let It Go \(Acoustic\)](https://open.spotify.com/album/4np1I5QM4USihziWv8PoH5) | 3:26 | 2025-05-23 | 2025-06-08 |
 | [I'm So Blessed \- Aaron Cole Mix](https://open.spotify.com/track/5OjLmBBHKM9bt99wYGpmTe) | [CAIN](https://open.spotify.com/artist/2XDaX0gxzE4eCXjPPAREEq), [Aaron Cole](https://open.spotify.com/artist/0OQ8y7heASb1vEX5WXvjCr) | [I'm So Blessed \(Aaron Cole Mix\)](https://open.spotify.com/album/7itmb3rK26AZtLbdzy8QNQ) | 2:55 | 2022-10-01 | 2024-06-08 |
-| [I've Found Jesus \- Live](https://open.spotify.com/track/2i3Rjkur3NJiCH6txMqlDL) | [Martin Smith](https://open.spotify.com/artist/7ISMNhe95QNLqHgsCHAVeu), [Isabelle Brown](https://open.spotify.com/artist/2i3EpmBdqpT4b4JyEtqC6e) | [Live at Big Church Festival UK](https://open.spotify.com/album/7hhH5LJgs3D7L40vgBK4sQ) | 3:51 | 2026-09-14 |  |
+| [I've Found Jesus \- Live](https://open.spotify.com/track/2i3Rjkur3NJiCH6txMqlDL) | [Martin Smith](https://open.spotify.com/artist/7ISMNhe95QNLqHgsCHAVeu), [Isabelle Brown](https://open.spotify.com/artist/2i3EpmBdqpT4b4JyEtqC6e) | [Live at Big Church Festival UK](https://open.spotify.com/album/7hhH5LJgs3D7L40vgBK4sQ) | 3:51 | 2026-09-14 | 2026-11-27 |
 | [I've Got A Fire](https://open.spotify.com/track/6yj2intfyAz3JhxaZvEjim) | [Pat Barrett](https://open.spotify.com/artist/0289SkqAn0iOohwm0pIHv3) | [I've Got A Fire](https://open.spotify.com/album/2oGldW4w8iBH7mRAvNIWwk) | 3:17 | 2025-09-14 | 2026-09-15 |
 | [I've Got A Story \(feat\. Tori Kelly\)](https://open.spotify.com/track/36eSZRHIYEE1zFN3aAjjAN) | [NEEDTOBREATHE](https://open.spotify.com/artist/610EjgFatGvVPtib97jQ8G), [Tori Kelly](https://open.spotify.com/artist/1vSN1fsvrzpbttOYGsliDr) | [House Of David \(Music Inspired By The Prime Video Original Series\) \[Season One\]](https://open.spotify.com/album/0xV5LfRixOiXlDYOvny1GI) | 3:23 | 2025-04-11 | 2025-08-10 |
 | [I've Got Joy](https://open.spotify.com/track/6tbDvXVbqENripiP4beZpj) | [CeCe Winans](https://open.spotify.com/artist/3qfrrrSO7utFdJkM2tvMRb) | [Believe For It \(Deluxe Edition\)](https://open.spotify.com/album/40svdUPxmIoge1BkDNWSDw) | 3:38 | 2022-04-22 | 2023-10-07 |
@@ -839,6 +840,7 @@
 | [Who the Cross Is For](https://open.spotify.com/track/7tmJcijyirkPOEf2CJuL8d) | [Cliff Preston](https://open.spotify.com/artist/3wIWw1KUDe4DDgbsuQidCS), [People & Songs](https://open.spotify.com/artist/0DLoqaxhfWU5litFyzLqn8) | [Rubble and Wreckage](https://open.spotify.com/album/7q34xPdQNVoNa6dUR6RioR) | 3:10 | 2024-06-07 | 2024-10-05 |
 | [Whole Wide World](https://open.spotify.com/track/6PUttXfO7izVlSBB1GiCl0) | [Consumed By Fire](https://open.spotify.com/artist/7nuXXKpffW4YAaXrJP6IH5) | [Whole Wide World](https://open.spotify.com/album/74LvYRtJs5MhvXTvHhIZ8K) | 2:51 | 2026-04-10 | 2026-05-23 |
 | [Wholeheartedly](https://open.spotify.com/track/3J9uGNRA6oMvM4wnOkSdxT) | [Austin Ludwig](https://open.spotify.com/artist/6DKCKaDzsoRmeqiQq5QHgL) | [Wholeheartedly](https://open.spotify.com/album/7fLxkmNRG2RX4g3XCI6FqD) | 4:00 | 2025-01-17 | 2025-05-10 |
+| [Why Would I](https://open.spotify.com/track/4xBcWJdcQi2icUPMT115DT) | [Brandon Lake](https://open.spotify.com/artist/1bdnGJxkbIIys5Jhk1T74v) | [Why Would I](https://open.spotify.com/album/786y1d08UClBGeOeRZ5PYk) | 4:49 | 2026-11-27 |  |
 | [Wide Awake](https://open.spotify.com/track/0X5R33mNmGbNJcaupI4z2W) | [Ben Fuller](https://open.spotify.com/artist/57zYbDb1zNVoTYNUGmv45d) | [Wide Awake](https://open.spotify.com/album/68V8xLeZJHQHqRFHKqsjjk) | 3:31 | 2022-04-29 | 2022-10-02 |
 | [Wild Ones](https://open.spotify.com/track/0Dq2eflllG1Dd2Iq669lWB) | [Unspoken](https://open.spotify.com/artist/0CqDqmyIQ9VQHQp52OEbB0) | [Wild Ones](https://open.spotify.com/album/6RY1n4kT0MHI5nm6mqSDPa) | 3:11 | 2026-07-11 | 2026-10-17 |
 | [Without Your Love](https://open.spotify.com/track/0fZrPbrELvooERHd4r6ZQj) | [Abby Robertson](https://open.spotify.com/artist/3eD47zTzdlGI7ocXQCHur7) | [Without Your Love](https://open.spotify.com/album/66mhmcFBDn1DCxPOJd2wRI) | 2:42 | 2022-02-25 | 2022-06-11 |

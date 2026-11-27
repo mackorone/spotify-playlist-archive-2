@@ -4,7 +4,7 @@
 
 > Let's fall into the K\-인디 tracks from Korea's thriving indie scene\. \(Cover: HYUKOH\)  \(최신곡을 포함한 국내 인디곡들을 만나보세요!\)
 
-1,423 songs - 3 day 14 hr 18 min
+1,424 songs - 3 day 14 hr 21 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -688,7 +688,7 @@
 | [Like the Sea, Like the River](https://open.spotify.com/track/4qZvldWN1IT5Y2rZ2QYbJX) | [109](https://open.spotify.com/artist/1M2Yug6EvJTlraF6ewM9Oh) | [Like the Sea, Like the River](https://open.spotify.com/album/0nbyji1ac3ZqZ3aDFDirod) | 4:09 | 2025-11-19 | 2026-01-19 |
 | [Like today \(feat\. untell\)](https://open.spotify.com/track/10vUa2rFZmfA3WKmML7qye) | [Jang HeeWon](https://open.spotify.com/artist/1nISeMejedvyK4XXRacYAH), [untell](https://open.spotify.com/artist/3A1b2Lg9tPuQyR7ab1xgp8) | [MINGLE: 'Like today'](https://open.spotify.com/album/4xoSoQdnLy4DSwYR2vmZoG) | 2:28 | 2025-04-30 | 2025-05-19 |
 | [Like You](https://open.spotify.com/track/5o3r2FdUJQvGD5HwXzajuS) | [Vanilla Acoustic](https://open.spotify.com/artist/57xPD2CfuwxN6Ld7rf2iLG) | [Like You](https://open.spotify.com/album/7w167b8Zpa8I6dyhMC2viC) | 3:33 | 2022-03-31 | 2022-04-19 |
-| [Little by little](https://open.spotify.com/track/7EYxEHKuDSQd6NQvMZHPTa) | [1415](https://open.spotify.com/artist/71JjZRW0sCWpF1EuaS9TQA) | [O](https://open.spotify.com/album/6QpcWrwzhlRE28OpwbTPda) | 3:15 | 2026-07-16 |  |
+| [Little by little](https://open.spotify.com/track/7EYxEHKuDSQd6NQvMZHPTa) | [1415](https://open.spotify.com/artist/71JjZRW0sCWpF1EuaS9TQA) | [O](https://open.spotify.com/album/6QpcWrwzhlRE28OpwbTPda) | 3:15 | 2026-07-16 | 2026-11-27 |
 | [Little Drama](https://open.spotify.com/track/18WKej3uAeGSFjelzj8q2m) | [CIFIKA](https://open.spotify.com/artist/0OK6Xs5X1kHs07y68n65CQ) | [Bonfire](https://open.spotify.com/album/4kjZBvgZ6jJXX0wMn9VhP5) | 3:29 | 2024-11-29 | 2025-02-07 |
 | [Little I](https://open.spotify.com/track/2AKCk3WnpK5nidRfD5fQSE) | [Motte](https://open.spotify.com/artist/4bh77HBBwCekmEPcbXAljy) | [Little I](https://open.spotify.com/album/3zQR7DxfY3i7hy7Z9uhNOk) | 3:15 | 2025-09-24 | 2025-11-03 |
 | [Lock me up](https://open.spotify.com/track/0PDYx9zpcOnzIW4Epfk2Bb) | [GooNight](https://open.spotify.com/artist/6HeK6beIohZ8q4L8me1iId) | [Lock me up](https://open.spotify.com/album/3TjzPxoh0SfQSdxAq9GMfn) | 3:12 | 2022-07-08 | 2022-08-05 |
@@ -1339,6 +1339,7 @@
 | [Wish \- Live](https://open.spotify.com/track/1rQobZf16Gfs5GDSJlGC1L) | [Gogohawk](https://open.spotify.com/artist/4TDsoTsndKAIJR7yCX78tl) | [LISTEN & DISCOVER Gogohawk LIVE](https://open.spotify.com/album/0qJJsKweZoQ5XvlJhAqkbz) | 6:21 | 2025-08-07 | 2025-08-27 |
 | [Wishes](https://open.spotify.com/track/6HLd0XOWcwJbW9gtNkYkaE) | [homezone](https://open.spotify.com/artist/31hDouD40df6TsqnZZpNAK) | [Wishes](https://open.spotify.com/album/3z1Wf05O960hlh7GBuqm6A) | 3:09 | 2026-03-30 | 2026-05-20 |
 | [Wisue 햇빛처럼 빼어난](https://open.spotify.com/track/5RvuwSjuIkAiqviPuGWWgE) | [WISUE](https://open.spotify.com/artist/6AtePm872YnH0PPQZpNFry) | [Cobalt Blue](https://open.spotify.com/album/6LYD23SLNIifGJ08R6KdO0) | 3:37 | 2021-12-21 | 2022-04-19 |
+| [witch](https://open.spotify.com/track/3lVokLF0jnVqb4nwc1Gv3N) | [DPR ARTIC](https://open.spotify.com/artist/6IeQ8QiuP3yQ2MGCsSuIFQ), [DPR IAN](https://open.spotify.com/artist/2o8gT0fQmFxGNbowbdgeZe) | [Nocturnal Animal](https://open.spotify.com/album/6n8BVZy5KSY4gQ0JrJokKF) | 2:55 | 2026-11-27 |  |
 | [With You](https://open.spotify.com/track/0YhuPLchEMFhIf6W3k0QdR) | [add9](https://open.spotify.com/artist/5K8S0MRwvPZjMczq9QrCvp) | [With You](https://open.spotify.com/album/1DT0IXcV3E12LYsRU7eVW0) | 3:17 | 2025-07-31 | 2025-08-22 |
 | [With You](https://open.spotify.com/track/2IWqrZomXVc0YmcfDFyCXa) | [UmYull](https://open.spotify.com/artist/1tzfeTq8ILjds06XDsB7S8) | [With You](https://open.spotify.com/album/2uyzgzcGtcoxju78SFlGCS) | 4:05 | 2026-03-16 | 2026-05-01 |
 | [Without You](https://open.spotify.com/track/6eVOc2SM6MFLLLwADfwRdc) | [KYUL](https://open.spotify.com/artist/10LaysU4hUTEGtWwC0Zbrm) | [Without You](https://open.spotify.com/album/5yNZWhTEwQ9LdFw101hv4G) | 2:38 | 2026-02-27 | 2026-04-15 |

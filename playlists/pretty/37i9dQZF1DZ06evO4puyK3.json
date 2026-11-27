@@ -1,12 +1,12 @@
 {
   "description": "This is Gloria Groove. The essential tracks, all in one playlist.",
-  "num_followers": 167175,
+  "num_followers": 167169,
   "original_name": "This Is Gloria Groove",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "awOCAAAAAAB2yi9pNQWxDq5bMSwM+BQj",
+  "snapshot_id": "awYlAAAAAABWec+jmPtStyDToYaaFQ4p",
   "tracks": [
     {
       "added_at": null,
@@ -492,9 +492,9 @@
           "url": "https://open.spotify.com/artist/7rXMvXRnWHaSwnVvPeUUfw"
         }
       ],
-      "duration_ms": 185816,
-      "name": "5 Minutinhos - Ao Vivo",
-      "url": "https://open.spotify.com/track/0olqsq6LOpziaBUDIPvR0I"
+      "duration_ms": 235875,
+      "name": "Voc\u00ea Sempre Ser\u00e1 / N\u00e3o D\u00e1 Pra Resistir - Ao Vivo",
+      "url": "https://open.spotify.com/track/3nKNLeDJowBgJfPLX2TNRT"
     },
     {
       "added_at": null,
@@ -564,9 +564,9 @@
           "url": "https://open.spotify.com/artist/7rXMvXRnWHaSwnVvPeUUfw"
         }
       ],
-      "duration_ms": 235875,
-      "name": "Voc\u00ea Sempre Ser\u00e1 / N\u00e3o D\u00e1 Pra Resistir - Ao Vivo",
-      "url": "https://open.spotify.com/track/3nKNLeDJowBgJfPLX2TNRT"
+      "duration_ms": 185816,
+      "name": "5 Minutinhos - Ao Vivo",
+      "url": "https://open.spotify.com/track/0olqsq6LOpziaBUDIPvR0I"
     },
     {
       "added_at": null,
@@ -839,22 +839,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Serenata da GG, Vol. 2 - Ao Vivo",
-        "url": "https://open.spotify.com/album/1rbEVb7k93Ns5dWK1LTJvs"
-      },
-      "artists": [
-        {
-          "name": "Gloria Groove",
-          "url": "https://open.spotify.com/artist/7rXMvXRnWHaSwnVvPeUUfw"
-        }
-      ],
-      "duration_ms": 163544,
-      "name": "Entendi Errado - Ao Vivo",
-      "url": "https://open.spotify.com/track/2IulaJJ580i08sLNN01jIQ"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "LADY LESTE",
         "url": "https://open.spotify.com/album/4Qq4x0tJGWEFZt6jnvOKrQ"
       },
@@ -871,6 +855,22 @@
       "duration_ms": 145056,
       "name": "FOGO NO BARRACO",
       "url": "https://open.spotify.com/track/1GN6FB6MuUlB0Q1TuIAwiS"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Serenata da GG, Vol. 2 - Ao Vivo",
+        "url": "https://open.spotify.com/album/1rbEVb7k93Ns5dWK1LTJvs"
+      },
+      "artists": [
+        {
+          "name": "Gloria Groove",
+          "url": "https://open.spotify.com/artist/7rXMvXRnWHaSwnVvPeUUfw"
+        }
+      ],
+      "duration_ms": 163544,
+      "name": "Entendi Errado - Ao Vivo",
+      "url": "https://open.spotify.com/track/2IulaJJ580i08sLNN01jIQ"
     },
     {
       "added_at": null,

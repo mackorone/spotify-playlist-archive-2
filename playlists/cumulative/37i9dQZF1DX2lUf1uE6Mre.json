@@ -3274,7 +3274,7 @@
       ],
       "date_added": "2026-06-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-27",
       "duration_ms": 203914,
       "name": "E Mira",
       "url": "https://open.spotify.com/track/22BFuNPujopFAhZJx7nr8k"
@@ -4436,7 +4436,7 @@
       ],
       "date_added": "2025-12-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-27",
       "duration_ms": 95049,
       "name": "Heavyweight",
       "url": "https://open.spotify.com/track/1JdbhJKdck0iCAsrOrXiFM"
@@ -8003,6 +8003,28 @@
     },
     {
       "album": {
+        "name": "Proud",
+        "url": "https://open.spotify.com/album/0VFreRGO2Az7FnMXJqxaXt"
+      },
+      "artists": [
+        {
+          "name": "Dardan",
+          "url": "https://open.spotify.com/artist/3pjq2pDV9RR6VY55wBjVnp"
+        },
+        {
+          "name": "Starian",
+          "url": "https://open.spotify.com/artist/6RDpAm5XMUZqVZlBJ1UYQw"
+        }
+      ],
+      "date_added": "2026-11-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 193413,
+      "name": "Proud",
+      "url": "https://open.spotify.com/track/7hfS6ygnmKp91mxXKIfblc"
+    },
+    {
+      "album": {
         "name": "Pse",
         "url": "https://open.spotify.com/album/7p4AEWKPGmkwHyKxqtQ2zl"
       },
@@ -9506,6 +9528,28 @@
       "duration_ms": 167398,
       "name": "THOUGHTS",
       "url": "https://open.spotify.com/track/5ZWscvrwpqPpVEdAzr9TJK"
+    },
+    {
+      "album": {
+        "name": "Throw That Thang",
+        "url": "https://open.spotify.com/album/4TrFNu02UOt6B9tgpxy8OQ"
+      },
+      "artists": [
+        {
+          "name": "Shindy",
+          "url": "https://open.spotify.com/artist/5j21TGkrNEAJe3gG9VlS34"
+        },
+        {
+          "name": "reezy",
+          "url": "https://open.spotify.com/artist/1ul8iLt2WnFe2UIyovjg7q"
+        }
+      ],
+      "date_added": "2026-11-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 203276,
+      "name": "Throw That Thang",
+      "url": "https://open.spotify.com/track/2dtnHqzhrZWxpowKi0swwo"
     },
     {
       "album": {

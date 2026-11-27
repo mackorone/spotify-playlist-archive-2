@@ -711,6 +711,32 @@
     },
     {
       "album": {
+        "name": "CONEXIONES",
+        "url": "https://open.spotify.com/album/02b8MtKPDGZHJlHWrs870X"
+      },
+      "artists": [
+        {
+          "name": "Piku",
+          "url": "https://open.spotify.com/artist/1f8zx2kFDxy1K8yr0aLKQz"
+        },
+        {
+          "name": "Falke 912",
+          "url": "https://open.spotify.com/artist/2UGqLkLUByrbH1P7d9ThUo"
+        },
+        {
+          "name": "La Exce",
+          "url": "https://open.spotify.com/artist/2RON3ZWvFVAHpiJA74KNHj"
+        }
+      ],
+      "date_added": "2026-11-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 236592,
+      "name": "CONEXIONES",
+      "url": "https://open.spotify.com/track/0TBQpAZVIWAwdSRLyKexBU"
+    },
+    {
+      "album": {
         "name": "Flavors",
         "url": "https://open.spotify.com/album/74QylymvusZrKNBHoPAgiP"
       },
@@ -1332,7 +1358,7 @@
       ],
       "date_added": "2022-05-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-27",
       "duration_ms": 241503,
       "name": "Dios Bendiga (Remix)",
       "url": "https://open.spotify.com/track/4S8wmEZy12C5UJUU0IQUee"
@@ -2638,6 +2664,28 @@
       "duration_ms": 206420,
       "name": "La Santa",
       "url": "https://open.spotify.com/track/69vlMrzHwATKzupwNcUPyK"
+    },
+    {
+      "album": {
+        "name": "LABERINTO",
+        "url": "https://open.spotify.com/album/46wjfIb7T871y2B3nYeEqt"
+      },
+      "artists": [
+        {
+          "name": "Turde",
+          "url": "https://open.spotify.com/artist/4QvojSqsHuURFc49UBjugU"
+        },
+        {
+          "name": "17.",
+          "url": "https://open.spotify.com/artist/2fh89rpVFwF8DuLuaXpXra"
+        }
+      ],
+      "date_added": "2026-11-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 181714,
+      "name": "LABERINTO",
+      "url": "https://open.spotify.com/track/4kvqFP1adF0aZeGVmGjzaC"
     },
     {
       "album": {
@@ -5054,7 +5102,7 @@
       ],
       "date_added": "2021-11-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-27",
       "duration_ms": 158824,
       "name": "Te Busco",
       "url": "https://open.spotify.com/track/7AyXdBQAgRLJBK72gqq0Hz"

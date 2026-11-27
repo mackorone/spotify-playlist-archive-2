@@ -2,9 +2,9 @@
 
 ### [Parchadito](https://open.spotify.com/playlist/37i9dQZF1DX56TFraF4fNu)
 
-> Dosis musical para disfrutar el momento\. Foto: Irepelusa
+> Dosis musical para disfrutar el momento\. Foto: Hector Nazza
 
-299 songs - 15 hr 30 min
+300 songs - 15 hr 33 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -127,6 +127,7 @@
 | [HATE BOYS](https://open.spotify.com/track/0jkCIZeZaasze05SoQooOC) | [Lee Eye](https://open.spotify.com/artist/1XQ6We9YHmRoIoD9rE9KBX) | [HATE BOYS](https://open.spotify.com/album/6sehw4xcjTqmAXO2ZGTs7p) | 2:47 | 2023-03-31 | 2023-06-24 |
 | [Hielo](https://open.spotify.com/track/1buOWQg3BhMC5SNp1eeTPq) | [Junior Zamora](https://open.spotify.com/artist/1xbYDYZZRWQ0mG218SGVDQ) | [Hielo](https://open.spotify.com/album/7DLt7rMj26WSDUzGDk2B9g) | 3:04 | 2024-01-19 | 2024-02-17 |
 | [Horas](https://open.spotify.com/track/2UumxLigdCw91IxqpMEvPz) | [Alexis Play](https://open.spotify.com/artist/2XRVqqdNOt779uXNFA1Fhv), [Junior Zamora](https://open.spotify.com/artist/1xbYDYZZRWQ0mG218SGVDQ) | [Horas](https://open.spotify.com/album/1geeDTUcLFv7vgDH0v0C3a) | 3:51 | 2023-04-21 | 2023-09-23 |
+| [I Like](https://open.spotify.com/track/52SfHOhe7ipBcNryfocmye) | [Hector Nazza](https://open.spotify.com/artist/1WGxt0iUo8qfQlzwIAlxQB) | [AURA](https://open.spotify.com/album/0xDAR4nDF29Q7Wohr9Uzw3) | 2:46 | 2026-11-27 |  |
 | [Ignorantes](https://open.spotify.com/track/3wYRLYuO1M88d8woWUIxct) | [Bad Bunny](https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X), [Sech](https://open.spotify.com/artist/77ziqFxp5gaInVrF2lj4ht) | [Ignorantes](https://open.spotify.com/album/7Hw9RJbQPN0gUx4xjgFLhj) | 3:30 | 2023-03-31 |  |
 | [ILY](https://open.spotify.com/track/5ru2w4Y7xP58IXE6m4orW0) | [Kapo](https://open.spotify.com/artist/3UTF2no3muGdiFXVujl94i), [Myke Towers](https://open.spotify.com/artist/7iK8PXO48WeuP03g8YR51W) | [ILY](https://open.spotify.com/album/7ct2yMkPUUMjmgjJh9MdQW) | 3:36 | 2025-03-21 |  |
 | [Imaginándote](https://open.spotify.com/track/6zxkr2tSIZMIKHaALNvoCr) | [3AM](https://open.spotify.com/artist/1LU7BxbUvvuA4eNDdEO22D) | [Satus](https://open.spotify.com/album/1lOibSxSky80FXEzR5Z2Gn) | 2:29 | 2023-07-21 | 2023-09-30 |

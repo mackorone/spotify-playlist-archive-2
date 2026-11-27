@@ -1815,6 +1815,24 @@
     },
     {
       "album": {
+        "name": "Un Sol dentro",
+        "url": "https://open.spotify.com/album/4xFxPU5N0Er8jCSzt36fje"
+      },
+      "artists": [
+        {
+          "name": "Las Nietas del Charli",
+          "url": "https://open.spotify.com/artist/7qUIkRxw27ibYFxuzEm9rS"
+        }
+      ],
+      "date_added": "2026-10-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 289796,
+      "name": "Camino",
+      "url": "https://open.spotify.com/track/7d269Sa0WFoa3UZsT8RPGr"
+    },
+    {
+      "album": {
         "name": "can you see me?",
         "url": "https://open.spotify.com/album/6lvr2vceq0j5YhJUQTPSKE"
       },
@@ -3872,7 +3890,7 @@
       ],
       "date_added": "2026-05-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-27",
       "duration_ms": 231910,
       "name": "girlhood",
       "url": "https://open.spotify.com/track/38PXyRblkgEYvJRAwX6XGD"

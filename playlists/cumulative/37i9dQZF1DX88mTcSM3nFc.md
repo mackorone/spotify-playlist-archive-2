@@ -4,7 +4,7 @@
 
 > christmas always makes me cry
 
-108 songs - 5 hr 53 min
+109 songs - 5 hr 57 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -72,6 +72,7 @@
 | [Mama It's Christmas](https://open.spotify.com/track/5vUAVSmkkzwcCtXZXuCJ6J) | [Maple Glider](https://open.spotify.com/artist/1Y3IqLN3JkfppIbJG2IWHk) | [To Enjoy is the Only Thing](https://open.spotify.com/album/0TyGoqeYSQepO17jg08VvK) | 4:56 | 2022-12-16 | 2024-04-19 |
 | [Merry Christmas Darling \- Remix](https://open.spotify.com/track/0z5HSQGWgnjdNvwbOmhB2w) | [Carpenters](https://open.spotify.com/artist/1eEfMU2AhEo7XnKgL7c304) | [Christmas Portrait \(Special Edition/Reissue\)](https://open.spotify.com/album/5GMAtv4CU6GYQMo36Uuiqc) | 3:06 | 2022-10-23 | 2024-04-19 |
 | [Merry Christmas Darling \- Remix](https://open.spotify.com/track/7eEq6hRC7bZfWvrQW7gcdm) | [Carpenters](https://open.spotify.com/artist/1eEfMU2AhEo7XnKgL7c304) | [Winter Wonderland](https://open.spotify.com/album/6koZAOj4dhvtm9L0fLZhpQ) | 3:06 | 2022-10-23 | 2022-11-14 |
+| [Merry Christmas, After All](https://open.spotify.com/track/6v7BWrHDIVyiBlWiLdFTSk) | [Peter McPoland](https://open.spotify.com/artist/23E65IfLBGQv0FBrMwCcG2) | [Merry Christmas, After All](https://open.spotify.com/album/1rvuBjWPZ3DckkKdMw7aQO) | 4:17 | 2026-11-27 |  |
 | [Merry Christmas, i miss you](https://open.spotify.com/track/2GFrDW0pEXpjbNrKvFYI8k) | [Alex Crichton](https://open.spotify.com/artist/25JtC3l1STnE2GptoHKXdD) | [Merry Christmas, i miss you](https://open.spotify.com/album/1JrnkLclHl6rgCZ6blcaRp) | 4:06 | 2025-11-25 |  |
 | [Merry Christmas, Please Don't Call](https://open.spotify.com/track/0UOG0zUn7t8m8QcxfzR7AH) | [Bleachers](https://open.spotify.com/artist/2eam0iDomRHGBypaDQLwWI) | [Merry Christmas, Please Don't Call](https://open.spotify.com/album/4ngrC1or0nXFHjHdRDldhW) | 3:22 | 2024-11-25 |  |
 | [Miss You Most \(At Christmas Time\)](https://open.spotify.com/track/1uQRAiaDstq15Vd52ryoI7) | [Mariah Carey](https://open.spotify.com/artist/4iHNK0tOyZPYnBU7nGAgpQ) | [Merry Christmas](https://open.spotify.com/album/61ulfFSmmxMhc2wCdmdMkN) | 4:33 | 2023-11-21 |  |
@@ -105,7 +106,7 @@
 | [The Star Of The East](https://open.spotify.com/track/14mGbRwLiS109fySv0GdOm) | [Judy Garland](https://open.spotify.com/artist/0hItVPjwJLVZrFqOyIsxPf) | [Lost Christmas 2 \- Holiday Rarities](https://open.spotify.com/album/6D7KP8CznKJocpy5ltTDXs) | 3:06 | 2022-10-23 | 2022-11-13 |
 | [The Star Of The East \- Single Version](https://open.spotify.com/track/7xCS9WKCgMnooRxY4gWWQt) | [Judy Garland](https://open.spotify.com/artist/0hItVPjwJLVZrFqOyIsxPf) | [The Complete Decca Masters \(Plus\)](https://open.spotify.com/album/1FB5UJKvWTEVyFBAbHwIP0) | 3:06 | 2022-10-23 | 2022-11-29 |
 | [The World's Saddest Christmas Song](https://open.spotify.com/track/1exm59J0Hi2A4yuCcg0yf6) | [Grabbitz](https://open.spotify.com/artist/4fv1OFJywZ7DHCz3mVQQ45) | [The World's Saddest Christmas Song](https://open.spotify.com/album/0TaeUIW1Stf0ddxqp3MZhK) | 4:29 | 2024-11-29 | 2026-09-05 |
-| [This Time Last Year](https://open.spotify.com/track/4wUhXOfV4hqNTurbJkWOU9) | [Simone](https://open.spotify.com/artist/5k6BuuGye7fUjFvPOOJ8C2) | [This Time Last Year](https://open.spotify.com/album/09LBtelS62mavkNWHg325x) | 3:45 | 2024-11-25 |  |
+| [This Time Last Year](https://open.spotify.com/track/4wUhXOfV4hqNTurbJkWOU9) | [Simone](https://open.spotify.com/artist/5k6BuuGye7fUjFvPOOJ8C2) | [This Time Last Year](https://open.spotify.com/album/09LBtelS62mavkNWHg325x) | 3:45 | 2024-11-25 | 2026-11-27 |
 | [What Are You Doing New Year's Eve?](https://open.spotify.com/track/19NdiithlwC8EfytiHVk7a) | [Ella Fitzgerald](https://open.spotify.com/artist/5V0MlUE1Bft0mbLlND7FJz) | [Ella Wishes You A Swinging Christmas \(Expanded Edition\)](https://open.spotify.com/album/2UhPCUgK2IGUrg7lIvMYfb) | 3:32 | 2022-10-23 | 2024-04-19 |
 | [What Are You Doing New Year's Eve?](https://open.spotify.com/track/7zSOlw59doJIBkrk8C1MCf) | [Ella Fitzgerald](https://open.spotify.com/artist/5V0MlUE1Bft0mbLlND7FJz) | [Winter Wonderland](https://open.spotify.com/album/6koZAOj4dhvtm9L0fLZhpQ) | 3:32 | 2022-10-23 | 2022-11-13 |
 | [What Child Is This? \(with Percy Faith & His Orchestra\)](https://open.spotify.com/track/5pHVGMJY8zuukdIAPpT1vj) | [Johnny Mathis](https://open.spotify.com/artist/21LGsW7bziR4Ledx7WZ1Wf), [Percy Faith & His Orchestra](https://open.spotify.com/artist/24DQLSng7bKZD4GXLIaQbv) | [Merry Christmas \(with Percy Faith & His Orchestra\)](https://open.spotify.com/album/3pHNZvjNOHJX8G9Y0OmIzG) | 3:58 | 2022-10-23 |  |

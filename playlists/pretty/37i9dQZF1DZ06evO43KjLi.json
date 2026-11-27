@@ -1,12 +1,12 @@
 {
   "description": "This is Esteban Gabriel. The essential tracks, all in one playlist.",
-  "num_followers": 23153,
+  "num_followers": 23155,
   "original_name": "This Is Esteban Gabriel",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "awOCAAAAAACEzEYFSpTakV1H3IyAg3zV",
+  "snapshot_id": "awYlAAAAAAAVswic++O6kVHSwzs0RB4j",
   "tracks": [
     {
       "added_at": null,
@@ -672,45 +672,9 @@
           "url": "https://open.spotify.com/artist/6RPeBghYnSwGV6FOw7huuN"
         }
       ],
-      "duration_ms": 228048,
-      "name": "Frostix",
-      "url": "https://open.spotify.com/track/1MQ0aEWXfQiuoPqyuZDxhn"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Traguitos De Mezcal",
-        "url": "https://open.spotify.com/album/1CQEb9gIBeUq7qQ0y9UcUI"
-      },
-      "artists": [
-        {
-          "name": "Nueva Esencia",
-          "url": "https://open.spotify.com/artist/4nfZ8Hb8zgwtn1F9THk2E4"
-        },
-        {
-          "name": "Esteban Gabriel",
-          "url": "https://open.spotify.com/artist/6RPeBghYnSwGV6FOw7huuN"
-        }
-      ],
-      "duration_ms": 159900,
-      "name": "Traguitos De Mezcal",
-      "url": "https://open.spotify.com/track/0vE5RlP0vbOVTV11EvhjT0"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Cumbias Light, Vol. 3",
-        "url": "https://open.spotify.com/album/2ywvd22NBzHPTWdSvpji0m"
-      },
-      "artists": [
-        {
-          "name": "Esteban Gabriel",
-          "url": "https://open.spotify.com/artist/6RPeBghYnSwGV6FOw7huuN"
-        }
-      ],
-      "duration_ms": 157494,
-      "name": "En Tus Brazos",
-      "url": "https://open.spotify.com/track/6lKbxSmm8KQ6tnkjBSGcDB"
+      "duration_ms": 155280,
+      "name": "Madre",
+      "url": "https://open.spotify.com/track/7gl6Espy38g068wpy32adp"
     },
     {
       "added_at": null,
@@ -735,6 +699,42 @@
     {
       "added_at": null,
       "album": {
+        "name": "Cumbias Light, Vol. 3",
+        "url": "https://open.spotify.com/album/2ywvd22NBzHPTWdSvpji0m"
+      },
+      "artists": [
+        {
+          "name": "Esteban Gabriel",
+          "url": "https://open.spotify.com/artist/6RPeBghYnSwGV6FOw7huuN"
+        }
+      ],
+      "duration_ms": 157494,
+      "name": "En Tus Brazos",
+      "url": "https://open.spotify.com/track/6lKbxSmm8KQ6tnkjBSGcDB"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Traguitos De Mezcal",
+        "url": "https://open.spotify.com/album/1CQEb9gIBeUq7qQ0y9UcUI"
+      },
+      "artists": [
+        {
+          "name": "Nueva Esencia",
+          "url": "https://open.spotify.com/artist/4nfZ8Hb8zgwtn1F9THk2E4"
+        },
+        {
+          "name": "Esteban Gabriel",
+          "url": "https://open.spotify.com/artist/6RPeBghYnSwGV6FOw7huuN"
+        }
+      ],
+      "duration_ms": 159900,
+      "name": "Traguitos De Mezcal",
+      "url": "https://open.spotify.com/track/0vE5RlP0vbOVTV11EvhjT0"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Damas y Placeres",
         "url": "https://open.spotify.com/album/5v8HgiTLQwBAdYetXbRVfC"
       },
@@ -744,9 +744,9 @@
           "url": "https://open.spotify.com/artist/6RPeBghYnSwGV6FOw7huuN"
         }
       ],
-      "duration_ms": 155280,
-      "name": "Madre",
-      "url": "https://open.spotify.com/track/7gl6Espy38g068wpy32adp"
+      "duration_ms": 228048,
+      "name": "Frostix",
+      "url": "https://open.spotify.com/track/1MQ0aEWXfQiuoPqyuZDxhn"
     },
     {
       "added_at": null,

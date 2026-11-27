@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-02-25",
-  "description": "Intersection of R&B and afrobeats. Cover: Rema",
+  "description": "Intersection of R&B and afrobeats. Cover: Amma",
   "name": "afro&b ",
   "tracks": [
     {
@@ -4991,6 +4991,24 @@
     },
     {
       "album": {
+        "name": "Heartbreaker",
+        "url": "https://open.spotify.com/album/5DXC9IbdXo9s4COiXJvOS4"
+      },
+      "artists": [
+        {
+          "name": "Gabzy",
+          "url": "https://open.spotify.com/artist/2sEUjEtnqBphiYquoNfV62"
+        }
+      ],
+      "date_added": "2026-11-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 201770,
+      "name": "Heartbreaker",
+      "url": "https://open.spotify.com/track/3qHfD4pbAaqtcIBJ7gzdSA"
+    },
+    {
+      "album": {
         "name": "Torn Tapestries",
         "url": "https://open.spotify.com/album/5SsFVmvUK3BIib8Grc6ay1"
       },
@@ -5486,7 +5504,7 @@
       ],
       "date_added": "2026-07-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-27",
       "duration_ms": 175598,
       "name": "Hurts 2b Reminded",
       "url": "https://open.spotify.com/track/7epfsvfTAOcYmExhWtSPG1"
@@ -9409,6 +9427,32 @@
     },
     {
       "album": {
+        "name": "Ghost Of The Buj",
+        "url": "https://open.spotify.com/album/2eaND3WSB0ILvE9HLWUsyf"
+      },
+      "artists": [
+        {
+          "name": "Zubi",
+          "url": "https://open.spotify.com/artist/1u58ZRn45A7jc3QmucALbY"
+        },
+        {
+          "name": "anatu",
+          "url": "https://open.spotify.com/artist/2ZI8Omfu8U4dVTmmTQ3gCw"
+        },
+        {
+          "name": "Oiza x Meyi",
+          "url": "https://open.spotify.com/artist/06HXi3s2lqAmgpEeOstUTQ"
+        }
+      ],
+      "date_added": "2026-11-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 174125,
+      "name": "Prisoner of Love",
+      "url": "https://open.spotify.com/track/6ODX8xfDD0cG3C16hTvrLh"
+    },
+    {
+      "album": {
         "name": "Ronisia (Version Deluxe)",
         "url": "https://open.spotify.com/album/6n3BM7djoly8rX6AG9dnFW"
       },
@@ -9816,7 +9860,7 @@
       ],
       "date_added": "2026-11-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-27",
       "duration_ms": 161632,
       "name": "Reminder",
       "url": "https://open.spotify.com/track/0dHey8DZjVUpUjTReXSyS1"
@@ -10742,7 +10786,7 @@
       ],
       "date_added": "2026-05-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-27",
       "duration_ms": 233513,
       "name": "So Bad",
       "url": "https://open.spotify.com/track/7B0q3mDuGbjOz8J6DtFQOG"
@@ -10760,7 +10804,7 @@
       ],
       "date_added": "2026-10-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-27",
       "duration_ms": 149714,
       "name": "So Badd",
       "url": "https://open.spotify.com/track/6CSCKFY8fK9qzt37EuCbbO"
@@ -11962,6 +12006,28 @@
       "duration_ms": 147326,
       "name": "To Me",
       "url": "https://open.spotify.com/track/2ii0uPYAV5yptflE9dXel6"
+    },
+    {
+      "album": {
+        "name": "Together",
+        "url": "https://open.spotify.com/album/2NsF33IHCYlQ7vsLw6DTcT"
+      },
+      "artists": [
+        {
+          "name": "Simi",
+          "url": "https://open.spotify.com/artist/4Ns55iOSe1Im2WU2e1Eym0"
+        },
+        {
+          "name": "Olamide",
+          "url": "https://open.spotify.com/artist/4ovtyvs7j1jSmwhkBGHqSr"
+        }
+      ],
+      "date_added": "2026-11-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 180554,
+      "name": "Together",
+      "url": "https://open.spotify.com/track/6WvGvQv1wh2S1N4nABtsvL"
     },
     {
       "album": {
@@ -13354,6 +13420,24 @@
       "duration_ms": 139200,
       "name": "Yolo",
       "url": "https://open.spotify.com/track/5BZND0pEiJowPDbqMwHY2M"
+    },
+    {
+      "album": {
+        "name": "You & me",
+        "url": "https://open.spotify.com/album/02YNbbxxkEofWOEwTHAvOB"
+      },
+      "artists": [
+        {
+          "name": "Amma",
+          "url": "https://open.spotify.com/artist/3tzLeaebyww0SwtETRYRIm"
+        }
+      ],
+      "date_added": "2026-11-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 180000,
+      "name": "You & me",
+      "url": "https://open.spotify.com/track/148ryz0o7pqJhc5MyOVTTv"
     },
     {
       "album": {

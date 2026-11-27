@@ -4,7 +4,7 @@
 
 > This is Steven Price\. The essential tracks, all in one playlist.
 
-186 songs - 8 hr 37 min
+187 songs - 8 hr 38 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -69,7 +69,7 @@
 | [Here I Am Nothing](https://open.spotify.com/track/2fsVTeVYxRSqgVirtjupvB) | [Steven Price](https://open.spotify.com/artist/3sw7CBftCnflJN8HQiUNmK) | [William Tell \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/42FYWCACqKLvFjFSXJXJq4) | 1:45 | 2025-01-29 | 2025-03-11 |
 | [Hidden Beneath the Waves](https://open.spotify.com/track/3uHLRCa9yJsSebHIev9sxr) | [Steven Price](https://open.spotify.com/artist/3sw7CBftCnflJN8HQiUNmK) | [Ocean with David Attenborough \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/6r5k4eaS3nnzASBRwMYp3l) | 3:07 | 2026-05-28 | 2026-06-11 |
 | [Hideaway Medley](https://open.spotify.com/track/3onN9XfJtkJDt2WiYbbAT3) | [Various Artists](https://open.spotify.com/artist/0LyfQWJT6nXafLPZqxe9Of), [Steven Price](https://open.spotify.com/artist/3sw7CBftCnflJN8HQiUNmK), [Grace VanderWaal](https://open.spotify.com/artist/3YdT8QvV4QvY4DfVJhxdcZ) | [Wonder Park \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/6ogk6lqIjf1hjg28loZX9A) | 4:58 | 2024-04-20 |  |
-| [How Much Longer](https://open.spotify.com/track/6CqliIhdxAlkygI3MAPEWJ) | [Steven Price](https://open.spotify.com/artist/3sw7CBftCnflJN8HQiUNmK) | [Frozen Worlds \(Episode 2 / Soundtrack From The Netflix Original Series "Our Planet"\)](https://open.spotify.com/album/2gBuDLdhHYAnEW7zPhinAq) | 1:21 | 2023-08-04 |  |
+| [How Much Longer](https://open.spotify.com/track/6CqliIhdxAlkygI3MAPEWJ) | [Steven Price](https://open.spotify.com/artist/3sw7CBftCnflJN8HQiUNmK) | [Frozen Worlds \(Episode 2 / Soundtrack From The Netflix Original Series "Our Planet"\)](https://open.spotify.com/album/2gBuDLdhHYAnEW7zPhinAq) | 1:21 | 2023-08-04 | 2026-11-27 |
 | [I Am Already Dead](https://open.spotify.com/track/21r0HnaWOdihO4MZOT5FqY) | [Steven Price](https://open.spotify.com/artist/3sw7CBftCnflJN8HQiUNmK) | [Ophelia \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/3GaSOBK5YSTetHhRUkKuZS) | 3:16 | 2025-03-15 | 2025-03-17 |
 | [I Can Live In Hope](https://open.spotify.com/track/0DplUTi3q9CTo73WSsQbFX) | [Steven Price](https://open.spotify.com/artist/3sw7CBftCnflJN8HQiUNmK) | [Joy \(Soundtrack from the Netflix Film\)](https://open.spotify.com/album/69VfPJGBQzBbwE53Fov1dW) | 1:13 | 2025-01-22 | 2025-02-18 |
 | [I Should Tell You My Story Myself](https://open.spotify.com/track/5ei9JGRHRb4Yu9WNUnWslc) | [Steven Price](https://open.spotify.com/artist/3sw7CBftCnflJN8HQiUNmK) | [Ophelia \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/3GaSOBK5YSTetHhRUkKuZS) | 2:44 | 2024-04-28 |  |
@@ -174,6 +174,7 @@
 | [Times of Crisis](https://open.spotify.com/track/4P1YmLDYkeQstUfVzeSVdr) | [Steven Price](https://open.spotify.com/artist/3sw7CBftCnflJN8HQiUNmK) | [Dolphin Reef \(Original Soundtrack\)](https://open.spotify.com/album/15xV7Ooj6ZlS9j50gxp4QN) | 5:47 | 2024-06-28 | 2024-07-10 |
 | [To Have Adventures](https://open.spotify.com/track/0r4qZ9FMUuzn7D2fv9IPDp) | [Steven Price](https://open.spotify.com/artist/3sw7CBftCnflJN8HQiUNmK) | [David Attenborough: A Life On Our Planet \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/5IbnuKQzkuw6sxS8CeMzl8) | 2:22 | 2024-06-28 | 2025-09-16 |
 | [To Lose Himself in Vengeance](https://open.spotify.com/track/7yZWl27qFbjZ8C7GKCSl0s) | [Steven Price](https://open.spotify.com/artist/3sw7CBftCnflJN8HQiUNmK) | [Ophelia \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/3GaSOBK5YSTetHhRUkKuZS) | 7:01 | 2023-08-04 |  |
+| [Training Starts Now](https://open.spotify.com/track/6qyNhIqCbU7qG8wooSyXIE) | [Steven Price](https://open.spotify.com/artist/3sw7CBftCnflJN8HQiUNmK) | [Way of the Warrior Kid \(Soundtrack from the Apple Original Film\)](https://open.spotify.com/album/0zYF1wP5ntVpWzNnNmoDbf) | 1:12 | 2026-11-27 |  |
 | [Turn It Off](https://open.spotify.com/track/2gpIqDNgwsR20iR86f4AHN) | [Steven Price](https://open.spotify.com/artist/3sw7CBftCnflJN8HQiUNmK) | [The Running Man \(Music from the Motion Picture\)](https://open.spotify.com/album/3POVf5rrFp35InUOY8IV4O) | 3:32 | 2025-12-14 | 2025-12-23 |
 | [Wardaddy](https://open.spotify.com/track/14CNBU26Ob6ZtW8YL11alR) | [Steven Price](https://open.spotify.com/artist/3sw7CBftCnflJN8HQiUNmK) | [Fury \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/5CuCzQvtWe5Pbhmy5o12Lv) | 2:39 | 2024-03-27 | 2025-09-21 |
 | [We Must Rewild The World](https://open.spotify.com/track/1oujzxcMf4yGV5Un4ErGYd) | [Steven Price](https://open.spotify.com/artist/3sw7CBftCnflJN8HQiUNmK) | [David Attenborough: A Life On Our Planet \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/5IbnuKQzkuw6sxS8CeMzl8) | 2:19 | 2023-08-04 |  |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXahWDu9o481i.md) - [plain]
 
 > The best new songs of the month, handpicked by Spotify editors\. Cover: Victony
 
-[Spotify](https://open.spotify.com/user/spotify) - 124,448 likes - 62 songs - 3 hr 35 min
+[Spotify](https://open.spotify.com/user/spotify) - 124,469 likes - 62 songs - 3 hr 35 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -32,8 +32,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXahWDu9o481i.md) - [plain]
 | 22 | [Karma](https://open.spotify.com/track/4tkaRLzfaYQyaqvIaiyz4h) | [Snoh Aalegra](https://open.spotify.com/artist/1A9o3Ljt67pFZ89YtPPL5X) | [Karma](https://open.spotify.com/album/0ZYZgEwmt3NAS54RC8Y8Zz) | 3:29 |
 | 23 | [DANGER DANGER \(feat\. Skepta\)](https://open.spotify.com/track/4PyDd3GxUijMVOdJA2IQEG) | [Dom Dolla](https://open.spotify.com/artist/205i7E8fNVfojowcQSfK9m), [Solomun](https://open.spotify.com/artist/5wJK4kQAkVGjqM9x46KQOC), [Skepta](https://open.spotify.com/artist/2p1fiYHYiXz9qi0JJyxBzN) | [DANGER DANGER \(feat\. Skepta\)](https://open.spotify.com/album/7MUTu0zrGAnszw4SbT8pHx) | 3:00 |
 | 24 | [Dientes De Fierro](https://open.spotify.com/track/4dAjV0Fmr0NfBjR09KpiFj) | [Nsqk](https://open.spotify.com/artist/1jtvmXiemNFkPO11NMdjfu), [Jean Dawson](https://open.spotify.com/artist/7vNNmjV14SKQzlQAEg0BXP) | [Dientes De Fierro](https://open.spotify.com/album/0CIFeXjeCPwCL2fvydBmtd) | 3:42 |
-| 25 | [Do Better](https://open.spotify.com/track/20FuukFQQQfJO23T1ni18h) | [Jonah Kagen](https://open.spotify.com/artist/5KsRA81UaMVKvLNiwDySfp) | [Do Better](https://open.spotify.com/album/4BZGQnej0aqk97EEIwW7dM) | 3:31 |
-| 26 | [Emperor XIII in Shades \- Live at Carnegie Hall](https://open.spotify.com/track/6UIqRlYsnQVpWzCD1GkoeX) | [Cameron Winter](https://open.spotify.com/artist/0kGweFvHWUfh6oLnookVeO) | [Live at Carnegie Hall](https://open.spotify.com/album/5FjFRlo7diqzHNpVz5wJCt) | 4:18 |
+| 25 | [Emperor XIII in Shades \- Live at Carnegie Hall](https://open.spotify.com/track/6UIqRlYsnQVpWzCD1GkoeX) | [Cameron Winter](https://open.spotify.com/artist/0kGweFvHWUfh6oLnookVeO) | [Live at Carnegie Hall](https://open.spotify.com/album/5FjFRlo7diqzHNpVz5wJCt) | 4:18 |
+| 26 | [Do Better](https://open.spotify.com/track/20FuukFQQQfJO23T1ni18h) | [Jonah Kagen](https://open.spotify.com/artist/5KsRA81UaMVKvLNiwDySfp) | [Do Better](https://open.spotify.com/album/4BZGQnej0aqk97EEIwW7dM) | 3:31 |
 | 27 | [Punched In The Head](https://open.spotify.com/track/5aYGNl8tDxpl5tURCF3UW0) | [Cowboy Hunters](https://open.spotify.com/artist/5GSSYBJxAbpSyj2w2vr5Cp) | [Punched In The Head](https://open.spotify.com/album/62V5yNNUirACiRWOXe4ydI) | 1:58 |
 | 28 | [Baby Breath \(feat\. Pharrell Williams, Tyler, The Creator & A$AP Rocky\)](https://open.spotify.com/track/6G95rXb8NdjvklBdfaP1sc) | [Quavo](https://open.spotify.com/artist/0VRj0yCOv2FXJNP47XQnx5), [Pharrell Williams](https://open.spotify.com/artist/2RdwBSPQiwcmiDo9kixcl8), [Tyler, The Creator](https://open.spotify.com/artist/4V8LLVI7PbaPR0K2TGSxFF), [A$AP Rocky](https://open.spotify.com/artist/13ubrt8QOOCPljQ2FL1Kca) | [QRÖMELIFE](https://open.spotify.com/album/1wlMQzvQlRuf4zPpPBYoMT) | 3:47 |
 | 29 | [Feel 4 U \(feat\. Saint Monet\)](https://open.spotify.com/track/4G7SaOQ8RFtvmCKVhIeN1V) | [Sara Landry](https://open.spotify.com/artist/7eILArMiTFTQf8SEh5fFHK), [Alt8](https://open.spotify.com/artist/7uS4z6GqvIIdZbVq327Ak9), [Saint Monet](https://open.spotify.com/artist/4e2ZNjwJe4tq6QEkvie7hR) | [Divine Intervention](https://open.spotify.com/album/3TZ4XJmyRk7Tf5SWGeWyXC) | 4:47 |
@@ -54,8 +54,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXahWDu9o481i.md) - [plain]
 | 44 | [laundry song](https://open.spotify.com/track/10sPlfiV8ypVrORMksrXNK) | [lighthearted](https://open.spotify.com/artist/6bIM8yCfbkBSVS40TP5gCf) | [laundry song](https://open.spotify.com/album/7p3w65F7Mm2IF8vOuEyM0W) | 3:47 |
 | 45 | [Covergirl](https://open.spotify.com/track/00i9FK4EX5YRmgGe9WRtKj) | [Wishy](https://open.spotify.com/artist/1TkiNxDsrc0PgIWBrATCbe) | [Nature's Pill](https://open.spotify.com/album/2VeCYcmbUk083SQ6QZykQM) | 4:17 |
 | 46 | [We'll Never Be This Young Again](https://open.spotify.com/track/0cCyMQoRm3ofgJVb26APSn) | [Laila!](https://open.spotify.com/artist/7tHTnyrdTNM152slc8aQ3t) | [We'll Never Be This Young Again](https://open.spotify.com/album/6FAKkmCP208V0ubSLJ6AXl) | 2:21 |
-| 47 | [Stalks](https://open.spotify.com/track/3aoIIvR9CkLUJ5aKpnsy5u) | [Twisted Teens](https://open.spotify.com/artist/40Hgbyjt4LQmrZYecbXebv) | [Stalks](https://open.spotify.com/album/0ljLVwqEMPGaqsG9mtDRHC) | 2:47 |
-| 48 | [Can I Smoke In Here?](https://open.spotify.com/track/5No1sIcO5UJmQk8U3StIrG) | [A/S/L](https://open.spotify.com/artist/2BX74Qt23X4mO6oAK28KBh) | [Can I Smoke In Here?](https://open.spotify.com/album/0DjdZdFumFL4aFCOhHr3lu) | 2:42 |
+| 47 | [Can I Smoke In Here?](https://open.spotify.com/track/5No1sIcO5UJmQk8U3StIrG) | [A/S/L](https://open.spotify.com/artist/2BX74Qt23X4mO6oAK28KBh) | [Can I Smoke In Here?](https://open.spotify.com/album/0DjdZdFumFL4aFCOhHr3lu) | 2:42 |
+| 48 | [Stalks](https://open.spotify.com/track/3aoIIvR9CkLUJ5aKpnsy5u) | [Twisted Teens](https://open.spotify.com/artist/40Hgbyjt4LQmrZYecbXebv) | [Stalks](https://open.spotify.com/album/0ljLVwqEMPGaqsG9mtDRHC) | 2:47 |
 | 49 | [Beautiful Stranger](https://open.spotify.com/track/5US5ItwqqZDT2SVysukwWQ) | [Mackeeper](https://open.spotify.com/artist/22NwVn8gHhq8eeWhZXgjOX) | [Believe You Me](https://open.spotify.com/album/0da8HogwCCHMOcDSCVsOd8) | 2:38 |
 | 50 | [Trillions](https://open.spotify.com/track/4FZA8C75s6Zm1Tqj71ej3M) | [DIIV](https://open.spotify.com/artist/4OrizGCKhOrW6iDDJHN9xd) | [Trillions](https://open.spotify.com/album/3kiUaXYBALEztZZ6ujxKGw) | 3:00 |
 | 51 | [I am a Man](https://open.spotify.com/track/1XTm0IoirGy34suvHWY9oT) | [Billboard Style](https://open.spotify.com/artist/3oqmZ1rujvoBP7ZyMBKqUQ) | [Pull of the Moon](https://open.spotify.com/album/7Hj6pSXdu05tnEttYuut2z) | 3:22 |

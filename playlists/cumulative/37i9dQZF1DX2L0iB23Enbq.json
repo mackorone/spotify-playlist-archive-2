@@ -1892,7 +1892,7 @@
       ],
       "date_added": "2026-06-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-27",
       "duration_ms": 480186,
       "name": "Cinderella (feat. Ty Dolla $ign)",
       "url": "https://open.spotify.com/track/2lpygKqzPFtItQ4ss3cgfb"
@@ -8344,6 +8344,24 @@
       "duration_ms": 132630,
       "name": "Romantic Homicide",
       "url": "https://open.spotify.com/track/4jonEzO6nIIBt5xPGsyOA0"
+    },
+    {
+      "album": {
+        "name": "Emotion (10th Anniversary Edition)",
+        "url": "https://open.spotify.com/album/1iFZcNmUvhWq5uXYmlKlKb"
+      },
+      "artists": [
+        {
+          "name": "Carly Rae Jepsen",
+          "url": "https://open.spotify.com/artist/6sFIWsNpZYqfjUpaCgueju"
+        }
+      ],
+      "date_added": "2026-11-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 251327,
+      "name": "Run Away With Me",
+      "url": "https://open.spotify.com/track/3rLLDjCJ9JllYvwUKfd3vW"
     },
     {
       "album": {

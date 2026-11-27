@@ -1,6 +1,6 @@
 {
   "description": "Temas inolvidables del ba\u00fal de los recuerdos.",
-  "num_followers": 3004028,
+  "num_followers": 3003959,
   "original_name": "Canciones del Recuerdo",
   "owner": {
     "name": "Spotify",
@@ -524,9 +524,9 @@
           "url": "https://open.spotify.com/artist/2Cy7KBSkqu7otJfuMTWT7Y"
         }
       ],
-      "duration_ms": 204293,
-      "name": "Jam\u00e1s",
-      "url": "https://open.spotify.com/track/0ScrUVrcTYIZijbqDZ3CJE"
+      "duration_ms": 170800,
+      "name": "Melina",
+      "url": "https://open.spotify.com/track/3utK0tH0YhlB5fIjdy3em7"
     },
     {
       "added_at": "2026-07-28 20:14:40",
@@ -604,9 +604,9 @@
           "url": "https://open.spotify.com/artist/2Cy7KBSkqu7otJfuMTWT7Y"
         }
       ],
-      "duration_ms": 170800,
-      "name": "Melina",
-      "url": "https://open.spotify.com/track/3utK0tH0YhlB5fIjdy3em7"
+      "duration_ms": 204293,
+      "name": "Jam\u00e1s",
+      "url": "https://open.spotify.com/track/0ScrUVrcTYIZijbqDZ3CJE"
     },
     {
       "added_at": "2026-07-28 20:14:40",
@@ -643,22 +643,6 @@
     {
       "added_at": "2026-07-28 20:14:40",
       "album": {
-        "name": "En carne viva",
-        "url": "https://open.spotify.com/album/18duCh9suTyPY4xB85bFao"
-      },
-      "artists": [
-        {
-          "name": "Raphael",
-          "url": "https://open.spotify.com/artist/796OSRuB0E9Hq55uTFL9U8"
-        }
-      ],
-      "duration_ms": 294720,
-      "name": "Estar enamorado",
-      "url": "https://open.spotify.com/track/2vh3jeYAeR50YuigR7mGwo"
-    },
-    {
-      "added_at": "2026-07-28 20:14:40",
-      "album": {
         "name": "Para vosotros canto",
         "url": "https://open.spotify.com/album/76BfWcR9EHcvRJaxKA4V4t"
       },
@@ -671,6 +655,22 @@
       "duration_ms": 279506,
       "name": "Y Te Vas",
       "url": "https://open.spotify.com/track/0AlxkpxyHszvNIuHxBHuDK"
+    },
+    {
+      "added_at": "2026-07-28 20:14:40",
+      "album": {
+        "name": "En carne viva",
+        "url": "https://open.spotify.com/album/18duCh9suTyPY4xB85bFao"
+      },
+      "artists": [
+        {
+          "name": "Raphael",
+          "url": "https://open.spotify.com/artist/796OSRuB0E9Hq55uTFL9U8"
+        }
+      ],
+      "duration_ms": 294720,
+      "name": "Estar enamorado",
+      "url": "https://open.spotify.com/track/2vh3jeYAeR50YuigR7mGwo"
     },
     {
       "added_at": "2026-07-28 20:14:40",
@@ -1111,6 +1111,22 @@
     {
       "added_at": "2026-07-28 20:14:40",
       "album": {
+        "name": "Juanello",
+        "url": "https://open.spotify.com/album/5we1e4gjzNfjhEI6eRZknj"
+      },
+      "artists": [
+        {
+          "name": "Juanello",
+          "url": "https://open.spotify.com/artist/5cNtT3ILdrynZyfVPk4XX6"
+        }
+      ],
+      "duration_ms": 186400,
+      "name": "Espejismo",
+      "url": "https://open.spotify.com/track/0VmvHXrh43fkRYszGYYRck"
+    },
+    {
+      "added_at": "2026-07-28 20:14:40",
+      "album": {
         "name": "Un Gato En La Oscuridad",
         "url": "https://open.spotify.com/album/6QehPjFB3Q8uH2btA35cQm"
       },
@@ -1139,22 +1155,6 @@
       "duration_ms": 232360,
       "name": "Perd\u00f3name",
       "url": "https://open.spotify.com/track/3gO8mvkxIcyF9N7Vd1WM2i"
-    },
-    {
-      "added_at": "2026-07-28 20:14:40",
-      "album": {
-        "name": "Juanello",
-        "url": "https://open.spotify.com/album/5we1e4gjzNfjhEI6eRZknj"
-      },
-      "artists": [
-        {
-          "name": "Juanello",
-          "url": "https://open.spotify.com/artist/5cNtT3ILdrynZyfVPk4XX6"
-        }
-      ],
-      "duration_ms": 186400,
-      "name": "Espejismo",
-      "url": "https://open.spotify.com/track/0VmvHXrh43fkRYszGYYRck"
     },
     {
       "added_at": "2026-07-28 20:14:40",
@@ -1303,6 +1303,22 @@
     {
       "added_at": "2026-07-28 20:14:40",
       "album": {
+        "name": "Grandes exitos 1997-2004",
+        "url": "https://open.spotify.com/album/2InFQlv0Qyb9z4zGe9P8iK"
+      },
+      "artists": [
+        {
+          "name": "Alejandro Sanz",
+          "url": "https://open.spotify.com/artist/5sUrlPAHlS9NEirDB8SEbF"
+        }
+      ],
+      "duration_ms": 290973,
+      "name": "Amiga m\u00eda",
+      "url": "https://open.spotify.com/track/73MuQb9jIoryiOig4hDQhT"
+    },
+    {
+      "added_at": "2026-07-28 20:14:40",
+      "album": {
         "name": "Una Estrella En El Cielo",
         "url": "https://open.spotify.com/album/5BKMan1vEF6HtWpj8tNceY"
       },
@@ -1319,22 +1335,6 @@
       "duration_ms": 210466,
       "name": "Como Han Pasado los A\u00f1os (with Julio Iglesias)",
       "url": "https://open.spotify.com/track/5PuY7F2jpk1yuD3ZNvzT85"
-    },
-    {
-      "added_at": "2026-07-28 20:14:40",
-      "album": {
-        "name": "Grandes exitos 1997-2004",
-        "url": "https://open.spotify.com/album/2InFQlv0Qyb9z4zGe9P8iK"
-      },
-      "artists": [
-        {
-          "name": "Alejandro Sanz",
-          "url": "https://open.spotify.com/artist/5sUrlPAHlS9NEirDB8SEbF"
-        }
-      ],
-      "duration_ms": 290973,
-      "name": "Amiga m\u00eda",
-      "url": "https://open.spotify.com/track/73MuQb9jIoryiOig4hDQhT"
     },
     {
       "added_at": "2026-07-28 20:14:40",
@@ -1663,22 +1663,6 @@
     {
       "added_at": "2026-07-28 20:14:40",
       "album": {
-        "name": "Thalia",
-        "url": "https://open.spotify.com/album/5aHuKZqTY34cuOcIFfohrt"
-      },
-      "artists": [
-        {
-          "name": "Thalia",
-          "url": "https://open.spotify.com/artist/23wEWD21D4TPYiJugoXmYb"
-        }
-      ],
-      "duration_ms": 269120,
-      "name": "No Me Ense\u00f1aste",
-      "url": "https://open.spotify.com/track/37QuCMe2SASXrkLm5NhT5m"
-    },
-    {
-      "added_at": "2026-07-28 20:14:40",
-      "album": {
         "name": "Lo Mejor De Bos\u00e9",
         "url": "https://open.spotify.com/album/22bqL24CaHAULpscOV3Dup"
       },
@@ -1691,6 +1675,22 @@
       "duration_ms": 278293,
       "name": "Si t\u00fa no vuelves",
       "url": "https://open.spotify.com/track/7Cz6YbX8X6WNZNn2en1pUk"
+    },
+    {
+      "added_at": "2026-07-28 20:14:40",
+      "album": {
+        "name": "Para La Eternidad",
+        "url": "https://open.spotify.com/album/2MSP1JG7KflqYqAHtk7wlB"
+      },
+      "artists": [
+        {
+          "name": "Celia Cruz",
+          "url": "https://open.spotify.com/artist/2weA6hhVqTIN2gSn9PUB9U"
+        }
+      ],
+      "duration_ms": 249120,
+      "name": "Te Busco",
+      "url": "https://open.spotify.com/track/5AuS5Nk1vs2vJNPlwB04F1"
     },
     {
       "added_at": "2026-07-28 20:14:40",
@@ -1727,18 +1727,18 @@
     {
       "added_at": "2026-07-28 20:14:40",
       "album": {
-        "name": "Para La Eternidad",
-        "url": "https://open.spotify.com/album/2MSP1JG7KflqYqAHtk7wlB"
+        "name": "Thalia",
+        "url": "https://open.spotify.com/album/5aHuKZqTY34cuOcIFfohrt"
       },
       "artists": [
         {
-          "name": "Celia Cruz",
-          "url": "https://open.spotify.com/artist/2weA6hhVqTIN2gSn9PUB9U"
+          "name": "Thalia",
+          "url": "https://open.spotify.com/artist/23wEWD21D4TPYiJugoXmYb"
         }
       ],
-      "duration_ms": 249120,
-      "name": "Te Busco",
-      "url": "https://open.spotify.com/track/5AuS5Nk1vs2vJNPlwB04F1"
+      "duration_ms": 269120,
+      "name": "No Me Ense\u00f1aste",
+      "url": "https://open.spotify.com/track/37QuCMe2SASXrkLm5NhT5m"
     },
     {
       "added_at": "2026-07-28 20:14:40",
@@ -1839,22 +1839,6 @@
     {
       "added_at": "2026-07-28 20:14:40",
       "album": {
-        "name": "Mambo No 5",
-        "url": "https://open.spotify.com/album/1uTfiWvskpE7pQ7on5qnWi"
-      },
-      "artists": [
-        {
-          "name": "P\u00e9rez Prado",
-          "url": "https://open.spotify.com/artist/1ZKhPkCXXgtiGgALn4OYtT"
-        }
-      ],
-      "duration_ms": 162213,
-      "name": "Mambo No 5",
-      "url": "https://open.spotify.com/track/6fJnlY8rYqC37J2u2OeEMf"
-    },
-    {
-      "added_at": "2026-07-28 20:14:40",
-      "album": {
         "name": "Con el Paso del Tiempo",
         "url": "https://open.spotify.com/album/3rCxaZwnmmWYhEx0QffUbx"
       },
@@ -1867,6 +1851,22 @@
       "duration_ms": 288733,
       "name": "Qu\u00e9 Canten los Ni\u00f1os - Homenaje a las Aldeas SOS",
       "url": "https://open.spotify.com/track/27ZrFLElsXCUIrSvgGD497"
+    },
+    {
+      "added_at": "2026-07-28 20:14:40",
+      "album": {
+        "name": "Mambo No 5",
+        "url": "https://open.spotify.com/album/1uTfiWvskpE7pQ7on5qnWi"
+      },
+      "artists": [
+        {
+          "name": "P\u00e9rez Prado",
+          "url": "https://open.spotify.com/artist/1ZKhPkCXXgtiGgALn4OYtT"
+        }
+      ],
+      "duration_ms": 162213,
+      "name": "Mambo No 5",
+      "url": "https://open.spotify.com/track/6fJnlY8rYqC37J2u2OeEMf"
     },
     {
       "added_at": "2026-07-28 20:14:40",
@@ -1887,22 +1887,6 @@
     {
       "added_at": "2026-07-28 20:14:40",
       "album": {
-        "name": "Ave F\u00e9nix",
-        "url": "https://open.spotify.com/album/4aStIaNBxADfhovPLw7LUO"
-      },
-      "artists": [
-        {
-          "name": "Raphael",
-          "url": "https://open.spotify.com/artist/796OSRuB0E9Hq55uTFL9U8"
-        }
-      ],
-      "duration_ms": 304853,
-      "name": "Esc\u00e1ndalo",
-      "url": "https://open.spotify.com/track/3xbymP6jIcdN0O2PB420bz"
-    },
-    {
-      "added_at": "2026-07-28 20:14:40",
-      "album": {
         "name": "Baladas De Amor",
         "url": "https://open.spotify.com/album/3UAIOag0j4RpnVWBJzmw0h"
       },
@@ -1915,6 +1899,22 @@
       "duration_ms": 173480,
       "name": "Fuiste M\u00eda un Verano",
       "url": "https://open.spotify.com/track/4kCx4BO3f4tjMjIyv8ko6G"
+    },
+    {
+      "added_at": "2026-07-28 20:14:40",
+      "album": {
+        "name": "Ave F\u00e9nix",
+        "url": "https://open.spotify.com/album/4aStIaNBxADfhovPLw7LUO"
+      },
+      "artists": [
+        {
+          "name": "Raphael",
+          "url": "https://open.spotify.com/artist/796OSRuB0E9Hq55uTFL9U8"
+        }
+      ],
+      "duration_ms": 304853,
+      "name": "Esc\u00e1ndalo",
+      "url": "https://open.spotify.com/track/3xbymP6jIcdN0O2PB420bz"
     },
     {
       "added_at": "2026-07-28 20:14:40",
@@ -2191,18 +2191,18 @@
     {
       "added_at": "2026-07-28 20:14:40",
       "album": {
-        "name": "Serie De Oro",
-        "url": "https://open.spotify.com/album/5NvUMQzUcZi9DIBSvgWkDG"
+        "name": "Llorar\u00e1s / Te Juro Que Te Amo / Luto de Mi Alma",
+        "url": "https://open.spotify.com/album/3hDV4xnm96DEaiF5bdWs0e"
       },
       "artists": [
         {
-          "name": "Pablo Ruiz",
-          "url": "https://open.spotify.com/artist/5BLxach4cxTAK3Pg0Nu2r2"
+          "name": "Los Terricolas",
+          "url": "https://open.spotify.com/artist/2nrSPPSfNesng85eRV4W4m"
         }
       ],
-      "duration_ms": 239506,
-      "name": "La Malague\u00f1a",
-      "url": "https://open.spotify.com/track/5QXVH3XAyJnfVu6CxTFqvj"
+      "duration_ms": 353319,
+      "name": "Llorar\u00e1s / Te Juro Que Te Amo / Luto de Mi Alma",
+      "url": "https://open.spotify.com/track/6pVVPaSUleq3pXrH87rDlG"
     },
     {
       "added_at": "2026-07-28 20:14:40",
@@ -2223,18 +2223,18 @@
     {
       "added_at": "2026-07-28 20:14:40",
       "album": {
-        "name": "Llorar\u00e1s / Te Juro Que Te Amo / Luto de Mi Alma",
-        "url": "https://open.spotify.com/album/3hDV4xnm96DEaiF5bdWs0e"
+        "name": "Serie De Oro",
+        "url": "https://open.spotify.com/album/5NvUMQzUcZi9DIBSvgWkDG"
       },
       "artists": [
         {
-          "name": "Los Terricolas",
-          "url": "https://open.spotify.com/artist/2nrSPPSfNesng85eRV4W4m"
+          "name": "Pablo Ruiz",
+          "url": "https://open.spotify.com/artist/5BLxach4cxTAK3Pg0Nu2r2"
         }
       ],
-      "duration_ms": 353319,
-      "name": "Llorar\u00e1s / Te Juro Que Te Amo / Luto de Mi Alma",
-      "url": "https://open.spotify.com/track/6pVVPaSUleq3pXrH87rDlG"
+      "duration_ms": 239506,
+      "name": "La Malague\u00f1a",
+      "url": "https://open.spotify.com/track/5QXVH3XAyJnfVu6CxTFqvj"
     },
     {
       "added_at": "2026-07-28 20:14:40",

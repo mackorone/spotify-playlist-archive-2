@@ -1,12 +1,12 @@
 {
   "description": "The Hottest Arabic Music.\nCover: Elissa",
-  "num_followers": 603055,
+  "num_followers": 603137,
   "original_name": "Yalla ",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAPpV4mWBsbcykpt3JAI2Fg6lIaJq",
+  "snapshot_id": "AAAAAIWHXxLGb8eDG0tulBh723iCNW0N",
   "tracks": [
     {
       "added_at": "2026-11-24 12:11:15",
@@ -57,48 +57,24 @@
       "url": "https://open.spotify.com/track/5iViOn3MXUREQ9kmu8DfUo"
     },
     {
-      "added_at": "2026-11-09 06:02:37",
+      "added_at": "2026-11-26 09:18:53",
       "album": {
-        "name": "Shoft Kalam",
-        "url": "https://open.spotify.com/album/1swHEm5aUSHiK5tGm8ToHX"
+        "name": "Law Khayef",
+        "url": "https://open.spotify.com/album/5hMdszshrK5CGpYaDtMyhb"
       },
       "artists": [
-        {
-          "name": "Marwan Pablo",
-          "url": "https://open.spotify.com/artist/56chSp36PsMhpQvUn1kdR3"
-        },
-        {
-          "name": "Lege-Cy",
-          "url": "https://open.spotify.com/artist/6FJeuwLBCX8VSTf6hp1Vc9"
-        },
-        {
-          "name": "HatemBas",
-          "url": "https://open.spotify.com/artist/5kapqwWcLC1LL2xjaxEwJU"
-        }
-      ],
-      "duration_ms": 209491,
-      "name": "Shoft Kalam",
-      "url": "https://open.spotify.com/track/2HtFhMMHqwdobOT1DQC0Iu"
-    },
-    {
-      "added_at": "2026-11-09 06:02:37",
-      "album": {
-        "name": "MITSUBISHI / \u0645\u062a\u0633\u0648\u0628\u064a\u0634\u064a",
-        "url": "https://open.spotify.com/album/04QMt1vLtMIvjuqPibU56o"
-      },
-      "artists": [
-        {
-          "name": "Saint Levant",
-          "url": "https://open.spotify.com/artist/5ZZsFnpO7frU8h5xH1wtjT"
-        },
         {
           "name": "Haifa Wehbe",
           "url": "https://open.spotify.com/artist/05ai8foZsZwk0cni0IOuNj"
+        },
+        {
+          "name": "Al Nather",
+          "url": "https://open.spotify.com/artist/5qvrUMJ8oO3BswrQO3w0hl"
         }
       ],
-      "duration_ms": 154304,
-      "name": "MITSUBISHI / \u0645\u062a\u0633\u0648\u0628\u064a\u0634\u064a",
-      "url": "https://open.spotify.com/track/5vKPXdlcP46Jaf8Q6X4haV"
+      "duration_ms": 233639,
+      "name": "Law Khayef",
+      "url": "https://open.spotify.com/track/7gOtWJHThMDq7gLYTbMAOa"
     },
     {
       "added_at": "2026-11-24 12:11:15",
@@ -123,6 +99,22 @@
     {
       "added_at": "2026-11-09 06:02:37",
       "album": {
+        "name": "\u062a\u0628\u0627\u0639\u0627\u064b \u062a\u0628\u0627\u0639\u0627\u064b",
+        "url": "https://open.spotify.com/album/66i3Me0IlH2RVj0QMPrChu"
+      },
+      "artists": [
+        {
+          "name": "Sherine",
+          "url": "https://open.spotify.com/artist/2Wk167T0fY1fABsHM5qFcI"
+        }
+      ],
+      "duration_ms": 246666,
+      "name": "\u062a\u0628\u0627\u0639\u0627\u064b \u062a\u0628\u0627\u0639\u0627\u064b",
+      "url": "https://open.spotify.com/track/6AT7ehtlpgwBUKIbtAOcOh"
+    },
+    {
+      "added_at": "2026-11-09 06:02:37",
+      "album": {
         "name": "Chou Meshta2li",
         "url": "https://open.spotify.com/album/6hMW6x28JG2O1k3UVBmpbN"
       },
@@ -139,18 +131,26 @@
     {
       "added_at": "2026-11-09 06:02:37",
       "album": {
-        "name": "\u062a\u0628\u0627\u0639\u0627\u064b \u062a\u0628\u0627\u0639\u0627\u064b",
-        "url": "https://open.spotify.com/album/66i3Me0IlH2RVj0QMPrChu"
+        "name": "Shoft Kalam",
+        "url": "https://open.spotify.com/album/1swHEm5aUSHiK5tGm8ToHX"
       },
       "artists": [
         {
-          "name": "Sherine",
-          "url": "https://open.spotify.com/artist/2Wk167T0fY1fABsHM5qFcI"
+          "name": "Marwan Pablo",
+          "url": "https://open.spotify.com/artist/56chSp36PsMhpQvUn1kdR3"
+        },
+        {
+          "name": "Lege-Cy",
+          "url": "https://open.spotify.com/artist/6FJeuwLBCX8VSTf6hp1Vc9"
+        },
+        {
+          "name": "HatemBas",
+          "url": "https://open.spotify.com/artist/5kapqwWcLC1LL2xjaxEwJU"
         }
       ],
-      "duration_ms": 246666,
-      "name": "\u062a\u0628\u0627\u0639\u0627\u064b \u062a\u0628\u0627\u0639\u0627\u064b",
-      "url": "https://open.spotify.com/track/6AT7ehtlpgwBUKIbtAOcOh"
+      "duration_ms": 209491,
+      "name": "Shoft Kalam",
+      "url": "https://open.spotify.com/track/2HtFhMMHqwdobOT1DQC0Iu"
     },
     {
       "added_at": "2026-11-24 12:11:15",
@@ -431,6 +431,26 @@
     {
       "added_at": "2026-11-09 06:02:37",
       "album": {
+        "name": "MITSUBISHI / \u0645\u062a\u0633\u0648\u0628\u064a\u0634\u064a",
+        "url": "https://open.spotify.com/album/04QMt1vLtMIvjuqPibU56o"
+      },
+      "artists": [
+        {
+          "name": "Saint Levant",
+          "url": "https://open.spotify.com/artist/5ZZsFnpO7frU8h5xH1wtjT"
+        },
+        {
+          "name": "Haifa Wehbe",
+          "url": "https://open.spotify.com/artist/05ai8foZsZwk0cni0IOuNj"
+        }
+      ],
+      "duration_ms": 154304,
+      "name": "MITSUBISHI / \u0645\u062a\u0633\u0648\u0628\u064a\u0634\u064a",
+      "url": "https://open.spotify.com/track/5vKPXdlcP46Jaf8Q6X4haV"
+    },
+    {
+      "added_at": "2026-11-09 06:02:37",
+      "album": {
         "name": "Ebtadena",
         "url": "https://open.spotify.com/album/5HeCKPHYZYu75JKHtzdDRI"
       },
@@ -611,22 +631,6 @@
       "duration_ms": 173207,
       "name": "Maleket Gamal El Kon",
       "url": "https://open.spotify.com/track/2UaswhFiFjhWfIBpiVSfEt"
-    },
-    {
-      "added_at": "2026-11-09 06:02:37",
-      "album": {
-        "name": "\u062f\u0648\u0631 \u0639\u0630\u0631",
-        "url": "https://open.spotify.com/album/0hfBg4g0INDycRB8hO8Bja"
-      },
-      "artists": [
-        {
-          "name": "Ayed",
-          "url": "https://open.spotify.com/artist/6U4hHMBYGDF1f98bGjxC8U"
-        }
-      ],
-      "duration_ms": 204250,
-      "name": "\u062f\u0648\u0631 \u0639\u0630\u0631",
-      "url": "https://open.spotify.com/track/3xdIuk8WVIX9xedX4TZMzB"
     },
     {
       "added_at": "2026-11-09 06:02:37",

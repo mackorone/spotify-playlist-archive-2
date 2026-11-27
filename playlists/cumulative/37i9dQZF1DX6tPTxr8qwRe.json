@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-02-06",
-  "description": "sweet. sharp. unbothered - Ari Abdul on the cover",
+  "description": "sweet. sharp. unbothered - Ella Boh on the cover",
   "name": "SALT",
   "tracks": [
     {
@@ -3534,7 +3534,7 @@
       ],
       "date_added": "2026-09-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-27",
       "duration_ms": 219555,
       "name": "Changing Times",
       "url": "https://open.spotify.com/track/6Oxpm6WGkdWHrojl3NmJqj"
@@ -4716,7 +4716,7 @@
       ],
       "date_added": "2026-09-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-27",
       "duration_ms": 190154,
       "name": "delusional darling (ft. Ella Red)",
       "url": "https://open.spotify.com/track/4PhwBlT0m3gPbp2SQZ9rPI"
@@ -6382,6 +6382,24 @@
       "duration_ms": 180003,
       "name": "Famous",
       "url": "https://open.spotify.com/track/5x1TPsoSvyrZkJM9JXRiWj"
+    },
+    {
+      "album": {
+        "name": "FANGIRL",
+        "url": "https://open.spotify.com/album/5ELiPf4pOYHcfHMVIUYziL"
+      },
+      "artists": [
+        {
+          "name": "PUNCHBAG",
+          "url": "https://open.spotify.com/artist/4cIkY1R6unpsnIdkLfOTFf"
+        }
+      ],
+      "date_added": "2026-11-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 205365,
+      "name": "FANGIRL",
+      "url": "https://open.spotify.com/track/62qaIXXQpfWwFmWPgxucEU"
     },
     {
       "album": {
@@ -10860,7 +10878,7 @@
       ],
       "date_added": "2026-09-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-27",
       "duration_ms": 158546,
       "name": "kingpin",
       "url": "https://open.spotify.com/track/3n3KrqgcOGy8Zr3yaOotex"
@@ -11054,6 +11072,24 @@
       "duration_ms": 237744,
       "name": "labour",
       "url": "https://open.spotify.com/track/2Ggr9IfS70wYQacW8nZKPG"
+    },
+    {
+      "album": {
+        "name": "LANDLOCKED",
+        "url": "https://open.spotify.com/album/3qWAvJPexR5lCrBTl9tUPf"
+      },
+      "artists": [
+        {
+          "name": "Sahati",
+          "url": "https://open.spotify.com/artist/3PGzj3O66abGPzQNmKELCf"
+        }
+      ],
+      "date_added": "2026-11-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 143398,
+      "name": "LANDLOCKED",
+      "url": "https://open.spotify.com/track/1oBmswZYhBUObV4toaFHl8"
     },
     {
       "album": {
@@ -15614,7 +15650,7 @@
       ],
       "date_added": "2026-08-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-27",
       "duration_ms": 153497,
       "name": "Race Car Driver",
       "url": "https://open.spotify.com/track/7j9wdLhis4MYplephHszTI"
@@ -18629,6 +18665,24 @@
     },
     {
       "album": {
+        "name": "Temple",
+        "url": "https://open.spotify.com/album/2xc2a8tj8mVUXEx6VZw4i8"
+      },
+      "artists": [
+        {
+          "name": "\u016ala",
+          "url": "https://open.spotify.com/artist/47NHOjhVH9I5BO31wxwpt8"
+        }
+      ],
+      "date_added": "2026-11-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 169000,
+      "name": "Temple",
+      "url": "https://open.spotify.com/track/4zDph35RBBaPJ3myqOFxee"
+    },
+    {
+      "album": {
         "name": "loneliest b!tch in america",
         "url": "https://open.spotify.com/album/1HdkKXXUh1AP7Koj2x14Af"
       },
@@ -20604,6 +20658,24 @@
       "duration_ms": 174565,
       "name": "Want You Like That",
       "url": "https://open.spotify.com/track/4VhiUBbGZd374klScom1cp"
+    },
+    {
+      "album": {
+        "name": "warning label",
+        "url": "https://open.spotify.com/album/5f6TZToQ8D8wBQMxabppQ9"
+      },
+      "artists": [
+        {
+          "name": "Ella Boh",
+          "url": "https://open.spotify.com/artist/3UWNE3idxa2v2TMzrBRX11"
+        }
+      ],
+      "date_added": "2026-11-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 224219,
+      "name": "warning label",
+      "url": "https://open.spotify.com/track/05eDNzVwTqvy9sj0XqQvTb"
     },
     {
       "album": {

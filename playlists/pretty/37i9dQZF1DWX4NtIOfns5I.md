@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWX4NtIOfns5I.md) - [plain]
 
 > we can finally listen to “river of dust” on repeat!!! and this phoebe cover…
 
-[Spotify](https://open.spotify.com/user/spotify) - 153,599 likes - 160 songs - 9 hr 58 min
+[Spotify](https://open.spotify.com/user/spotify) - 153,613 likes - 160 songs - 9 hr 58 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

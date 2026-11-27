@@ -1063,6 +1063,28 @@
     },
     {
       "album": {
+        "name": "Saga Blues: Blowing With a Feeling",
+        "url": "https://open.spotify.com/album/3yvfD8yp4XXUx27DFY3luB"
+      },
+      "artists": [
+        {
+          "name": "Little Walter",
+          "url": "https://open.spotify.com/artist/22JuR9OeENcP54XN5TlNWS"
+        },
+        {
+          "name": "Memphis Minnie",
+          "url": "https://open.spotify.com/artist/2WGyRLosdDgGJTLijIPpNC"
+        }
+      ],
+      "date_added": "2026-11-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 172693,
+      "name": "Me And My Chauffeur",
+      "url": "https://open.spotify.com/track/4W2pxfPiNAmFSVVcDH3Mlu"
+    },
+    {
+      "album": {
         "name": "Confessin' The Blues",
         "url": "https://open.spotify.com/album/7BvtYMIphGtQKTLgUHelUL"
       },

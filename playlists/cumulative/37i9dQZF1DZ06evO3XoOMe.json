@@ -132,7 +132,7 @@
       ],
       "date_added": "2026-06-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-27",
       "duration_ms": 137142,
       "name": "Boring",
       "url": "https://open.spotify.com/track/0inNzeehKp63mKOqEMSHL3"
@@ -382,6 +382,24 @@
       "duration_ms": 210799,
       "name": "Like A Man",
       "url": "https://open.spotify.com/track/7H6YwOwTGRMWfMZ7f2ne6w"
+    },
+    {
+      "album": {
+        "name": "U, Me & My Ego",
+        "url": "https://open.spotify.com/album/57esSZdPuChqy2bso66lwX"
+      },
+      "artists": [
+        {
+          "name": "Chxrry",
+          "url": "https://open.spotify.com/artist/6HhmgikznhjpcHnh14n9dJ"
+        }
+      ],
+      "date_added": "2026-11-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 188382,
+      "name": "Main Character",
+      "url": "https://open.spotify.com/track/0TlnjGlz8KYtg9kEsX5zjO"
     },
     {
       "album": {

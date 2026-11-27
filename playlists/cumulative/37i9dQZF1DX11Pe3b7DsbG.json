@@ -160,7 +160,7 @@
       ],
       "date_added": "2024-10-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-27",
       "duration_ms": 231017,
       "name": "Banho de Folhas",
       "url": "https://open.spotify.com/track/4rnsEw278G3pFjiMSzS4fG"
@@ -630,6 +630,24 @@
       "duration_ms": 224376,
       "name": "Dependente Do Amor",
       "url": "https://open.spotify.com/track/0ONoYJqSkvUFp2wmNvH2kW"
+    },
+    {
+      "album": {
+        "name": "As Damas do Samba",
+        "url": "https://open.spotify.com/album/0mAqkQQ1enu6caxAqHtPit"
+      },
+      "artists": [
+        {
+          "name": "Karinah",
+          "url": "https://open.spotify.com/artist/2fmAUYDODPfZav0wlyGnNb"
+        }
+      ],
+      "date_added": "2026-11-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 210771,
+      "name": "Dor de Amor",
+      "url": "https://open.spotify.com/track/7esoySsDmKzBNGCzNc6IAT"
     },
     {
       "album": {

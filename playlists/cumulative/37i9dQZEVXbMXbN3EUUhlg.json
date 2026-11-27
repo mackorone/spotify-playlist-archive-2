@@ -3234,7 +3234,7 @@
       ],
       "date_added": "2026-10-07",
       "date_added_asterisk": false,
-      "date_removed": "2026-11-20",
+      "date_removed": null,
       "duration_ms": 419520,
       "name": "Anjos (Pra quem tem f\u00e9)",
       "url": "https://open.spotify.com/track/1UvWx2hgpxlF7HPbwLSmIY"
@@ -3288,7 +3288,7 @@
       ],
       "date_added": "2025-02-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-27",
       "duration_ms": 178882,
       "name": "Apaga Apaga Apaga - Ao Vivo",
       "url": "https://open.spotify.com/track/17tg01y3RhlfRKMnd333yL"
@@ -9063,6 +9063,52 @@
     },
     {
       "album": {
+        "name": "Contagem Regressiva 2",
+        "url": "https://open.spotify.com/album/5FY7oa5PBdo17l1AJ7O8MF"
+      },
+      "artists": [
+        {
+          "name": "Mc IG",
+          "url": "https://open.spotify.com/artist/2q9wk5fkeU2C9CgCKdh4AN"
+        },
+        {
+          "name": "MC Ryan SP",
+          "url": "https://open.spotify.com/artist/75i9GaW2MJUgt4BkdUnuUY"
+        },
+        {
+          "name": "Men\u00f3 Prod\u00edgio",
+          "url": "https://open.spotify.com/artist/1CH99bkFw0BvyhuBfDzaNh"
+        },
+        {
+          "name": "MC Meno K",
+          "url": "https://open.spotify.com/artist/1CbQrKvCpEnekM3QMGJtXK"
+        },
+        {
+          "name": "Dj TC",
+          "url": "https://open.spotify.com/artist/5b5iPEtmmilqQQJ673Va4s"
+        },
+        {
+          "name": "MC Jvila",
+          "url": "https://open.spotify.com/artist/2f8xoxornfSw6ePzgyM9NO"
+        },
+        {
+          "name": "MUC4",
+          "url": "https://open.spotify.com/artist/45tpYMlsyruhEpOVf6rE8M"
+        },
+        {
+          "name": "Mc Lele JP",
+          "url": "https://open.spotify.com/artist/1gZ5b2Lr34s0K1563qWHtL"
+        }
+      ],
+      "date_added": "2026-11-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 426666,
+      "name": "Contagem Regressiva 2",
+      "url": "https://open.spotify.com/track/20XfYXeABLuSrsZvmDG4Ef"
+    },
+    {
+      "album": {
         "name": "Cracker Island (Deluxe)",
         "url": "https://open.spotify.com/album/1aoWxOWHJNG1VPpJZwpYl2"
       },
@@ -11784,7 +11830,7 @@
       ],
       "date_added": "2025-11-16",
       "date_added_asterisk": false,
-      "date_removed": "2026-11-16",
+      "date_removed": null,
       "duration_ms": 357120,
       "name": "Di\u00e1rio de um Cafajeste",
       "url": "https://open.spotify.com/track/6kaWah1Acn1dtNjAy6sm1p"
@@ -23898,7 +23944,7 @@
       ],
       "date_added": "2026-05-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-27",
       "duration_ms": 215433,
       "name": "Mente Barulhenta",
       "url": "https://open.spotify.com/track/2364CtKIeJNVUnZZHKrzIr"
@@ -33352,7 +33398,7 @@
       ],
       "date_added": "2026-07-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-27",
       "duration_ms": 167999,
       "name": "QUANDO EU TOMO GIN DE 10",
       "url": "https://open.spotify.com/track/5xebls1ZOUqKDVVwQA5YDG"

@@ -2149,6 +2149,32 @@
     },
     {
       "album": {
+        "name": "Ese Olore",
+        "url": "https://open.spotify.com/album/2CKl4q2xLvuwEYw6bVHBiw"
+      },
+      "artists": [
+        {
+          "name": "Sunmisola Agbebi",
+          "url": "https://open.spotify.com/artist/7fJd7w897ouOZzDc6e3oyU"
+        },
+        {
+          "name": "Mrs. D.A. Fasoyin",
+          "url": "https://open.spotify.com/artist/65pOw3DPxbLK76WyBDMItk"
+        },
+        {
+          "name": "Oba",
+          "url": "https://open.spotify.com/artist/4hgB1AKdR6ewQkpeQN1bTA"
+        }
+      ],
+      "date_added": "2026-11-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 779000,
+      "name": "Ese Olore",
+      "url": "https://open.spotify.com/track/1bJzg8QXIxBiGsgMKUq7d9"
+    },
+    {
+      "album": {
         "name": "Esi Rere (Good Report)",
         "url": "https://open.spotify.com/album/0VtAjPpPKQMXfpx2ovHtyA"
       },
@@ -7280,7 +7306,7 @@
       ],
       "date_added": "2026-10-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-27",
       "duration_ms": 317250,
       "name": "Righteous One",
       "url": "https://open.spotify.com/track/0Mhpqg33CpDyzCkhZjSNC8"
@@ -9490,6 +9516,28 @@
       "duration_ms": 405840,
       "name": "You Are Worthy",
       "url": "https://open.spotify.com/track/3agNg2Dsn2LpHO9i0M112R"
+    },
+    {
+      "album": {
+        "name": "The Lord Is Here",
+        "url": "https://open.spotify.com/album/3AscM1G5c7bQ5yIZwdqo1o"
+      },
+      "artists": [
+        {
+          "name": "Minister GUC",
+          "url": "https://open.spotify.com/artist/5F9NFQsix9CwLRFKUbyCEL"
+        },
+        {
+          "name": "THEOPHILUS SUNDAY",
+          "url": "https://open.spotify.com/artist/4cPMN7Bzz4cSb3KilevhaB"
+        }
+      ],
+      "date_added": "2026-11-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 1485000,
+      "name": "You Are Worthy Lord",
+      "url": "https://open.spotify.com/track/7gnIaKUsQxgNMdRxXkgd8X"
     },
     {
       "album": {

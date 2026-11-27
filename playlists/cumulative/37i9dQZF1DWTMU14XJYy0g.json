@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-06-30",
-  "description": "Emblemas de nuestro rock \ud83d\udcf8 Guasones",
+  "description": " \ud83d\udcf8  Joaco Burgos",
   "name": "Rock Argentino",
   "tracks": [
     {
@@ -6134,7 +6134,7 @@
       ],
       "date_added": "2025-05-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-27",
       "duration_ms": 86776,
       "name": "NO QUIEREN M\u00c1S MI ROCANROL",
       "url": "https://open.spotify.com/track/15SjDtzBpyj6NxS4TY9CAT"
@@ -7473,6 +7473,24 @@
     },
     {
       "album": {
+        "name": "Siempre Hay Una Melod\u00eda",
+        "url": "https://open.spotify.com/album/4OUFzMcZQXeweI8QhEgiKb"
+      },
+      "artists": [
+        {
+          "name": "Joaco Burgos",
+          "url": "https://open.spotify.com/artist/2MDvrUsi9z2CCh8p0Iqo7A"
+        }
+      ],
+      "date_added": "2026-11-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 180906,
+      "name": "Siempre Hay Una Melod\u00eda",
+      "url": "https://open.spotify.com/track/2mAhaXTSh8zLC7PamT6PK1"
+    },
+    {
+      "album": {
         "name": "Exilio",
         "url": "https://open.spotify.com/album/65aJsTVMkh87gXBhxgiYTZ"
       },
@@ -7810,7 +7828,7 @@
       ],
       "date_added": "2025-03-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-27",
       "duration_ms": 188580,
       "name": "S\u00e1bado - Sesi\u00f3n 20\u00b0 Aniversario En Vivo",
       "url": "https://open.spotify.com/track/07QuE6e03a0AbGsHocsgRU"
@@ -9024,6 +9042,28 @@
       "duration_ms": 123288,
       "name": "Yo Ya S\u00e9",
       "url": "https://open.spotify.com/track/79thbxA6OpIUMVu8mROice"
+    },
+    {
+      "album": {
+        "name": "\u00a1Cruz Diablo! (En Vivo, S\u00e1bado 12 de Marzo de 2016 / Hip\u00f3dromo de Tandil)",
+        "url": "https://open.spotify.com/album/0nVQ0OVnwpo0CTRKVMmcL4"
+      },
+      "artists": [
+        {
+          "name": "Indio Solari",
+          "url": "https://open.spotify.com/artist/0nUGkxUncFeXt0Dr0hhrc4"
+        },
+        {
+          "name": "Los Fundamentalistas del Aire Acondicionado",
+          "url": "https://open.spotify.com/artist/1SKA2QwV2fwGgoMlx16FXO"
+        }
+      ],
+      "date_added": "2026-11-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 264113,
+      "name": "\u00a1Cruz Diablo! - En Vivo, S\u00e1bado 12 de Marzo de 2016 / Hip\u00f3dromo de Tandil",
+      "url": "https://open.spotify.com/track/76AWEwlsjEraAf1NKY6Vys"
     },
     {
       "album": {

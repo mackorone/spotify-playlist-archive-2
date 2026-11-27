@@ -1,12 +1,12 @@
 {
   "description": "This is Gregory Alan Isakov. The essential tracks, all in one playlist.",
-  "num_followers": 85708,
+  "num_followers": 85743,
   "original_name": "This Is Gregory Alan Isakov",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "awOCAAAAAABZRhDB9Axd1D6w3BOMjxXN",
+  "snapshot_id": "awYlAAAAAABZjNC7pm8cDcMG7CZhseYA",
   "tracks": [
     {
       "added_at": null,
@@ -359,18 +359,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "Evening Machines",
-        "url": "https://open.spotify.com/album/5crQRFrJqnyEIT8c4JnP6j"
+        "name": "No Rain, No Rose",
+        "url": "https://open.spotify.com/album/5CVj0QDvCwsYOtaPXMFW1D"
       },
       "artists": [
+        {
+          "name": "John Craigie",
+          "url": "https://open.spotify.com/artist/7ytgyYmtUPfxXHsXEvgObK"
+        },
         {
           "name": "Gregory Alan Isakov",
           "url": "https://open.spotify.com/artist/5sXaGoRLSpd7VeyZrLkKwt"
         }
       ],
-      "duration_ms": 139240,
-      "name": "Southern Star",
-      "url": "https://open.spotify.com/track/3mKVJRnHIK6y97At1clkMI"
+      "duration_ms": 313024,
+      "name": "I Am California",
+      "url": "https://open.spotify.com/track/2SIzF2EzT2sF1AyDV4Txvf"
     },
     {
       "added_at": null,
@@ -391,22 +395,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "No Rain, No Rose",
-        "url": "https://open.spotify.com/album/5CVj0QDvCwsYOtaPXMFW1D"
+        "name": "Evening Machines",
+        "url": "https://open.spotify.com/album/5crQRFrJqnyEIT8c4JnP6j"
       },
       "artists": [
-        {
-          "name": "John Craigie",
-          "url": "https://open.spotify.com/artist/7ytgyYmtUPfxXHsXEvgObK"
-        },
         {
           "name": "Gregory Alan Isakov",
           "url": "https://open.spotify.com/artist/5sXaGoRLSpd7VeyZrLkKwt"
         }
       ],
-      "duration_ms": 313024,
-      "name": "I Am California",
-      "url": "https://open.spotify.com/track/2SIzF2EzT2sF1AyDV4Txvf"
+      "duration_ms": 139240,
+      "name": "Southern Star",
+      "url": "https://open.spotify.com/track/3mKVJRnHIK6y97At1clkMI"
     },
     {
       "added_at": null,

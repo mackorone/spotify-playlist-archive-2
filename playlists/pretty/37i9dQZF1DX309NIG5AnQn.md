@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX309NIG5AnQn.md) - [plain]
 
 > rock alternativo y sudamericano\. <br/>📷 Riel
 
-[Spotify](https://open.spotify.com/user/spotify) - 15,193 likes - 112 songs - 6 hr 25 min
+[Spotify](https://open.spotify.com/user/spotify) - 15,192 likes - 112 songs - 6 hr 25 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

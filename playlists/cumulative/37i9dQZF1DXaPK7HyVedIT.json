@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2023-07-23",
-  "description": "Eletr\u00f4nico do momento para curtir onde estiver. Foto: \u00d6wnboss",
+  "description": "Eletr\u00f4nico do momento para curtir onde estiver. Foto: Gabe, FatSync",
   "name": "Dance Paradise",
   "tracks": [
     {
@@ -964,6 +964,24 @@
       "duration_ms": 180286,
       "name": "Along the Way",
       "url": "https://open.spotify.com/track/7rNc89YMWNecDHdG6tRnva"
+    },
+    {
+      "album": {
+        "name": "Always Good EP",
+        "url": "https://open.spotify.com/album/3fJz0nQmGGtSP5rHTCGdFw"
+      },
+      "artists": [
+        {
+          "name": "M\u00e3olee",
+          "url": "https://open.spotify.com/artist/72aE07MxpePfCELo4vGZcK"
+        }
+      ],
+      "date_added": "2026-11-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 258750,
+      "name": "Always Good",
+      "url": "https://open.spotify.com/track/36vS7jcavfzsw2eTOziVeU"
     },
     {
       "album": {
@@ -3054,6 +3072,28 @@
       "duration_ms": 231655,
       "name": "Bounce For Me",
       "url": "https://open.spotify.com/track/5RFxGBUe6CAzUpaYHZMdUk"
+    },
+    {
+      "album": {
+        "name": "Boy",
+        "url": "https://open.spotify.com/album/59pfz1Fw1boRseX1i30jis"
+      },
+      "artists": [
+        {
+          "name": "GOBAITH",
+          "url": "https://open.spotify.com/artist/7m7cqf2HQsPXvAhfU2e320"
+        },
+        {
+          "name": "Yooni",
+          "url": "https://open.spotify.com/artist/4dPgB26MMWofnlvtkdHJWu"
+        }
+      ],
+      "date_added": "2026-11-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 177230,
+      "name": "Boy",
+      "url": "https://open.spotify.com/track/65glOboLEKbVa4CvzhH7De"
     },
     {
       "album": {
@@ -6511,6 +6551,28 @@
     },
     {
       "album": {
+        "name": "Escape",
+        "url": "https://open.spotify.com/album/18ujBlPUvvvGh0x80zWJr1"
+      },
+      "artists": [
+        {
+          "name": "Gabe",
+          "url": "https://open.spotify.com/artist/0WoUrE9CjbROyWCMMdGMqu"
+        },
+        {
+          "name": "FatSync",
+          "url": "https://open.spotify.com/artist/6H11mqvcME7dP66oQ9Nf8U"
+        }
+      ],
+      "date_added": "2026-11-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 236250,
+      "name": "Escape",
+      "url": "https://open.spotify.com/track/1IjWEYUkC3kbbSwG0QBI3X"
+    },
+    {
+      "album": {
         "name": "Escape the Reality",
         "url": "https://open.spotify.com/album/2W0kyn2XsgnP9isFIyK5EF"
       },
@@ -6552,6 +6614,28 @@
       "duration_ms": 170880,
       "name": "Esperar Pra Ver - Alok, Evinha & Watzgood Remix",
       "url": "https://open.spotify.com/track/5mx2gjQx8zdOsSrKvkIxgx"
+    },
+    {
+      "album": {
+        "name": "Esquizofrenic",
+        "url": "https://open.spotify.com/album/0CYrQmdRfYozE5wFKjIC9o"
+      },
+      "artists": [
+        {
+          "name": "Douth!",
+          "url": "https://open.spotify.com/artist/3YGDb5v2LDFC9eNap5mpLz"
+        },
+        {
+          "name": "Kiaza",
+          "url": "https://open.spotify.com/artist/6N4NBfA1EM0MbmTdgf9moM"
+        }
+      ],
+      "date_added": "2026-11-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 144056,
+      "name": "Esquizofrenic",
+      "url": "https://open.spotify.com/track/6vwWZMp47Zdwrc7SXi8DTw"
     },
     {
       "album": {
@@ -7856,7 +7940,7 @@
       ],
       "date_added": "2026-08-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-27",
       "duration_ms": 165230,
       "name": "Follower",
       "url": "https://open.spotify.com/track/6a0ZPLfCfFMf62JVrlnBW2"
@@ -10051,6 +10135,24 @@
     },
     {
       "album": {
+        "name": "I Get Love",
+        "url": "https://open.spotify.com/album/75JIdiJj5Uy5bEP0e2cTg5"
+      },
+      "artists": [
+        {
+          "name": "J\u00d8RD",
+          "url": "https://open.spotify.com/artist/2dhLVCzAEMbAu1SSkAoOGV"
+        }
+      ],
+      "date_added": "2026-11-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 200314,
+      "name": "I Get Love",
+      "url": "https://open.spotify.com/track/2Khe96feKM64ye5jdqOXcZ"
+    },
+    {
+      "album": {
         "name": "I Got Love",
         "url": "https://open.spotify.com/album/5cDvfRRwLtafplmrfOsxCC"
       },
@@ -11190,6 +11292,24 @@
       "duration_ms": 185625,
       "name": "It Just Won't Do",
       "url": "https://open.spotify.com/track/4bEbJeUHEzV6vjgTzZc84r"
+    },
+    {
+      "album": {
+        "name": "It's Party Time",
+        "url": "https://open.spotify.com/album/5qk4YtCs9wseZnFs7QmXyl"
+      },
+      "artists": [
+        {
+          "name": "Bruno Furlan",
+          "url": "https://open.spotify.com/artist/6gssIbF04dCX3COZvyr0JF"
+        }
+      ],
+      "date_added": "2026-11-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 171692,
+      "name": "It's Party Time",
+      "url": "https://open.spotify.com/track/4ZdblLSO4Bny0JbLHxdDDU"
     },
     {
       "album": {
@@ -13102,7 +13222,7 @@
       ],
       "date_added": "2026-08-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-27",
       "duration_ms": 191477,
       "name": "Louboutin",
       "url": "https://open.spotify.com/track/4gB2PHBDWqjZV2ynWLqME8"
@@ -13240,7 +13360,7 @@
       ],
       "date_added": "2026-08-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-27",
       "duration_ms": 190615,
       "name": "M A M I",
       "url": "https://open.spotify.com/track/4kNKhrMcTemETjYXtvVYiM"
@@ -16128,7 +16248,7 @@
       ],
       "date_added": "2026-08-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-27",
       "duration_ms": 183797,
       "name": "Onda 7",
       "url": "https://open.spotify.com/track/3yvInCfyjakgmH50cXrE70"
@@ -17578,7 +17698,7 @@
       ],
       "date_added": "2026-08-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-27",
       "duration_ms": 206769,
       "name": "Real OG",
       "url": "https://open.spotify.com/track/5ph2GYMq8xs1F2tjtnxSFb"
@@ -22838,7 +22958,7 @@
       ],
       "date_added": "2026-08-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-27",
       "duration_ms": 140685,
       "name": "Viver o Momento (Feat. Emi)",
       "url": "https://open.spotify.com/track/4EIENQhnAZXROEjfcRqAYW"

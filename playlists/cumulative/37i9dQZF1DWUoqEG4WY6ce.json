@@ -1816,7 +1816,7 @@
       ],
       "date_added": "2021-10-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-27",
       "duration_ms": 308360,
       "name": "Elevate",
       "url": "https://open.spotify.com/track/0pBLfQ5JBjh12H6DGZjMwM"
@@ -6351,7 +6351,7 @@
     },
     {
       "album": {
-        "name": "Father of the Bride",
+        "name": "Father of the Bride (Deluxe)",
         "url": "https://open.spotify.com/album/5WWu3iYAXLgqghjU9696Nk"
       },
       "artists": [
@@ -6362,7 +6362,7 @@
       ],
       "date_added": "2020-10-29",
       "date_added_asterisk": true,
-      "date_removed": "2022-07-29",
+      "date_removed": null,
       "duration_ms": 268600,
       "name": "This Life",
       "url": "https://open.spotify.com/track/4IA82QQCoPtGN9xDHflcZA"

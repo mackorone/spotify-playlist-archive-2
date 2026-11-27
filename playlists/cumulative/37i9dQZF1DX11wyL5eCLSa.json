@@ -486,7 +486,7 @@
       ],
       "date_added": "2026-09-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-27",
       "duration_ms": 190344,
       "name": "Abyss",
       "url": "https://open.spotify.com/track/0BXV2YiTXmOuseF0e9VHOQ"
@@ -1894,7 +1894,7 @@
       ],
       "date_added": "2026-08-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-27",
       "duration_ms": 250588,
       "name": "Brillo",
       "url": "https://open.spotify.com/track/4m5waMEB1vT7WYjEAZRXgF"
@@ -6247,6 +6247,24 @@
     },
     {
       "album": {
+        "name": "Featuring Hot Mulligan",
+        "url": "https://open.spotify.com/album/7c1zXEuBhqdmF1d6zbfRM7"
+      },
+      "artists": [
+        {
+          "name": "Awexa",
+          "url": "https://open.spotify.com/artist/1tv5NHtc4XP7MpNeupdfYa"
+        }
+      ],
+      "date_added": "2026-11-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 169156,
+      "name": "Featuring Hot Mulligan",
+      "url": "https://open.spotify.com/track/2JTeHbLo9m5qnR7ph9WfIa"
+    },
+    {
+      "album": {
         "name": "Fiesta",
         "url": "https://open.spotify.com/album/3kZvskU8KnmX8ZMJnSKJj4"
       },
@@ -7274,7 +7292,7 @@
       ],
       "date_added": "2026-09-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-27",
       "duration_ms": 160250,
       "name": "Inclemencia del tiempo",
       "url": "https://open.spotify.com/track/7poLLFyjMe0xfMdy1n4cAr"
@@ -7756,7 +7774,7 @@
       ],
       "date_added": "2026-08-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-27",
       "duration_ms": 182700,
       "name": "La gente me detesta",
       "url": "https://open.spotify.com/track/6J1LDZdBHem2VrfERFvsRu"
@@ -10361,6 +10379,24 @@
     },
     {
       "album": {
+        "name": "MI\u00c9NTEME",
+        "url": "https://open.spotify.com/album/4cQCYkik52MQeneXgxwBgY"
+      },
+      "artists": [
+        {
+          "name": "Malcriada",
+          "url": "https://open.spotify.com/artist/2ZUqAIo5iiRcSaq7TQBW5C"
+        }
+      ],
+      "date_added": "2026-11-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 152000,
+      "name": "MI\u00c9NTEME",
+      "url": "https://open.spotify.com/track/4zGOHj1f8RubVyFvETrQkZ"
+    },
+    {
+      "album": {
         "name": "Mochi",
         "url": "https://open.spotify.com/album/1kThfBK9dHcuzmnaLWj7PW"
       },
@@ -11246,7 +11282,7 @@
       ],
       "date_added": "2026-09-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-27",
       "duration_ms": 239200,
       "name": "No Es La Copa Mundial",
       "url": "https://open.spotify.com/track/54EB0wD3xmFCV2XyB1WuRi"
@@ -12042,6 +12078,24 @@
       "duration_ms": 225090,
       "name": "Orfeo",
       "url": "https://open.spotify.com/track/3E5pFfPekRnE0RIRP6s7sA"
+    },
+    {
+      "album": {
+        "name": "Muerte Al Tallo De Una Flor",
+        "url": "https://open.spotify.com/album/1EkXROll80PHxH4XR0hzlg"
+      },
+      "artists": [
+        {
+          "name": "El Ruido Inmersivo de los Sue\u00f1os",
+          "url": "https://open.spotify.com/artist/377Ar7C6GQX6YexaDLUMMV"
+        }
+      ],
+      "date_added": "2026-11-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 228300,
+      "name": "Orqu\u00eddea",
+      "url": "https://open.spotify.com/track/7hVT4HuCXp9Oz2grBWJM44"
     },
     {
       "album": {
@@ -13348,6 +13402,28 @@
       "duration_ms": 432914,
       "name": "Recovered Files",
       "url": "https://open.spotify.com/track/2iheT0GXVpykVzVsPWjaVn"
+    },
+    {
+      "album": {
+        "name": "Reflejo",
+        "url": "https://open.spotify.com/album/4oM8IdzY4ckzFa2OAyySr2"
+      },
+      "artists": [
+        {
+          "name": "Megan",
+          "url": "https://open.spotify.com/artist/4qzqUTwzXvc2HeJmEspy4r"
+        },
+        {
+          "name": "Zyanya",
+          "url": "https://open.spotify.com/artist/2N81gN54OH5U5Y6AUZCOOD"
+        }
+      ],
+      "date_added": "2026-11-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 183840,
+      "name": "Reflejo",
+      "url": "https://open.spotify.com/track/4tr4KJ8DZtjG6fkyZerMYa"
     },
     {
       "album": {
@@ -14826,7 +14902,7 @@
       ],
       "date_added": "2026-08-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-27",
       "duration_ms": 207530,
       "name": "S\u00e9",
       "url": "https://open.spotify.com/track/4Q9aJBD4BbdrGFUVCtwb2t"
@@ -16387,6 +16463,28 @@
     },
     {
       "album": {
+        "name": "Verano (Ultra Gris)",
+        "url": "https://open.spotify.com/album/4gGHuoYzixZWpcBnLFeS4C"
+      },
+      "artists": [
+        {
+          "name": "Trist\u00e1n Trueno",
+          "url": "https://open.spotify.com/artist/52d1TBoZxdrZqHK3c9yVoo"
+        },
+        {
+          "name": "Gustavo Castellanos",
+          "url": "https://open.spotify.com/artist/0tXjVH7Ho56s5pYr3bmHaN"
+        }
+      ],
+      "date_added": "2026-11-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 231000,
+      "name": "Verano (Ultra Gris)",
+      "url": "https://open.spotify.com/track/2qe1m8Zs2dyBoNPWt2g4Hh"
+    },
+    {
+      "album": {
         "name": "Verano Todo El A\u00f1o",
         "url": "https://open.spotify.com/album/3PSI19qqk8YxjP0BBdR68l"
       },
@@ -17192,6 +17290,24 @@
       "duration_ms": 208766,
       "name": "Yo Sabr\u00e9 Qu\u00e9 Hacer",
       "url": "https://open.spotify.com/track/0t73UshN8WwtgM6VPxz8Yb"
+    },
+    {
+      "album": {
+        "name": "LAPSUS",
+        "url": "https://open.spotify.com/album/0CuX5fFA0Pebt18mfRmQFy"
+      },
+      "artists": [
+        {
+          "name": "Ultraligera",
+          "url": "https://open.spotify.com/artist/5Vv5llyiK1nlME2UNDzPBB"
+        }
+      ],
+      "date_added": "2026-11-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 243320,
+      "name": "YUGULAR",
+      "url": "https://open.spotify.com/track/7gXhtx6aO5yO4XjsAeOFlF"
     },
     {
       "album": {

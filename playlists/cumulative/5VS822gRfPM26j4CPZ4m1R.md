@@ -4,7 +4,7 @@
 
 > Playlist
 
-669 songs - 1 day 15 hr 35 min
+670 songs - 1 day 15 hr 39 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -523,6 +523,7 @@
 | [Skytop Garden](https://open.spotify.com/track/6qe8FSumuFS4iirjhaPzg7) | [JAWNY](https://open.spotify.com/artist/25pd339V2rRJo84USlcSRP) | [Skytop Garden](https://open.spotify.com/album/3hDa1c5lp9toDsu2X8irqa) | 2:33 | 2023-10-25 |  |
 | [Small Faces](https://open.spotify.com/track/0gPGUvxqociR4KqWYUiJTB) | [Chet Sounds](https://open.spotify.com/artist/6tL6Eapfk83u9m5yvCVedX) | [Changes Happen To Everyone, Everywhere](https://open.spotify.com/album/3hEIAYDhmQF9StQzvLmPRX) | 2:42 | 2024-11-27 | 2025-03-11 |
 | [Smokey](https://open.spotify.com/track/1KzuY7mjumjaDFMQOluqRf) | [Kip Nelson](https://open.spotify.com/artist/5k62M5NJX9w9TbHpUKiRTs) | [Such a Life / Smokey](https://open.spotify.com/album/4Xosj0A8e2eeACkNtNjBlQ) | 3:44 | 2023-10-25 |  |
+| [Smooth Move, Kevin](https://open.spotify.com/track/0qXv7n9X6WMzGjpOrqXqlV) | [Modern Shapes](https://open.spotify.com/artist/6K52UOMizvQeW298zzOOR5) | [MOMENTS WITH OTHERS MATTER](https://open.spotify.com/album/0Xy4kRPy1FVoHFfqU07Ki0) | 3:58 | 2026-11-26 |  |
 | [So](https://open.spotify.com/track/4dpxqHfYMyiUsK4DaRahyB) | [Sebastian Roca](https://open.spotify.com/artist/4axhTQXDTfbRk7FZe2tsTF) | [So](https://open.spotify.com/album/6AOo2VUfDIWZkS6UurB6Pz) | 4:08 | 2023-10-25 |  |
 | [So Blue](https://open.spotify.com/track/6iA7KvLZqd5O3SqqzTTlH4) | [Blacktop](https://open.spotify.com/artist/2tKIzZnbrNVtgyxye3uoZc) | [So Blue](https://open.spotify.com/album/6C1eTB3Tc19mkHlISe1QHo) | 4:31 | 2024-11-02 |  |
 | [So I Broke Her Heart](https://open.spotify.com/track/6epUfTKIavQ2GXvAfYak1C) | [Donny Electric](https://open.spotify.com/artist/3yy78Zn0wPb6SFDdtOJ1r9) | [So I Broke Her Heart](https://open.spotify.com/album/6sjr2Po31xfQTZxnhxu6qD) | 3:05 | 2023-10-25 |  |

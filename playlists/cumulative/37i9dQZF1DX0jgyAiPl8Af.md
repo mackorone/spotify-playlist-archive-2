@@ -4,7 +4,7 @@
 
 > Unwind to these calm classical guitar pieces.
 
-969 songs - 1 day 17 hr 46 min
+970 songs - 1 day 17 hr 49 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -634,6 +634,7 @@
 | [Passing Rain](https://open.spotify.com/track/3DsShklw3Th0y25Xm66L2d) | [Marta Jobim](https://open.spotify.com/artist/1mdSEV97zy0wyiCU8jfqwj) | [Passing Rain](https://open.spotify.com/album/3JxVyJJEMbFr7XV2SkhyUM) | 3:02 | 2021-12-08 | 2024-04-05 |
 | [Past encounters](https://open.spotify.com/track/3ZHXP7TCdWAcHUOqafq2Cw) | [Alexa Popov](https://open.spotify.com/artist/0qVJFO1tdBqdhHfwcBoHfE) | [Past encounters](https://open.spotify.com/album/3CH7PyvDReNm3sKOZxPa3x) | 2:30 | 2024-02-02 | 2024-10-10 |
 | [Patagonia Wind](https://open.spotify.com/track/1fl6ukQEOZMlVTjncfPXph) | [Las Almas Nuevas](https://open.spotify.com/artist/5LSP2iBRUfSpFUY7xOislt) | [Patagonia Wind](https://open.spotify.com/album/2JHhVGRoYytdxgslOztSp4) | 3:31 | 2021-12-08 | 2024-04-05 |
+| [Patterns](https://open.spotify.com/track/7vYcOX1eYCiEvm0PnysCHM) | [Riley Howe](https://open.spotify.com/artist/2vloKEy3B9bqBKOkCewats) | [Patterns](https://open.spotify.com/album/1CmNVddjouw94lscnuOvDp) | 2:26 | 2026-11-27 |  |
 | [Pavanas](https://open.spotify.com/track/3fc3Boou33c1h65A5EK0k0) | [Alain LaFontaine](https://open.spotify.com/artist/6WyfaTdxOnKaMAseLi5McX) | [Pavanas](https://open.spotify.com/album/7aNculG2nCCrehRVP4N3Ya) | 2:19 | 2022-07-08 | 2022-07-15 |
 | [Pavane](https://open.spotify.com/track/47utqXLQhk4iOfHq7QvIPj) | [Toni Barella](https://open.spotify.com/artist/4SG1RjKd3TiXxwZ36G6tut) | [Pavane](https://open.spotify.com/album/4KLvqHlBudcOsFD6ReSG6v) | 2:25 | 2025-03-25 | 2025-04-30 |
 | [Peaberry](https://open.spotify.com/track/22BqJ4x6hb0oRhtyvToTon) | [Matthias Trapp](https://open.spotify.com/artist/5WKLrD3PamTJ6XPLeI3CXg) | [Peaberry](https://open.spotify.com/album/5eOtON3CwbqLE9lgeuROqA) | 2:49 | 2023-09-29 | 2026-03-05 |

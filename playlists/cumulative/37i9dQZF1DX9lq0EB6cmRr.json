@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2023-10-12",
-  "description": "Discover the latest Korean classical & new age music! (Cover: \uc724\ud55c(YOONHAN)) \ucd5c\uc2e0 \ud55c\uad6d \ud074\ub798\uc2dd\uacfc \ub274\uc5d0\uc774\uc9c0 \ud2b8\ub799\ub4e4\uc744 \ub9cc\ub098\ubcf4\uc138\uc694!",
+  "description": "Discover the latest Korean classical & new age music! (Cover: Denis Sungho) \ucd5c\uc2e0 \ud55c\uad6d \ud074\ub798\uc2dd\uacfc \ub274\uc5d0\uc774\uc9c0 \ud2b8\ub799\ub4e4\uc744 \ub9cc\ub098\ubcf4\uc138\uc694!",
   "name": "Classics Korea",
   "tracks": [
     {
@@ -2168,7 +2168,7 @@
       ],
       "date_added": "2023-09-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-27",
       "duration_ms": 207893,
       "name": "Love Again",
       "url": "https://open.spotify.com/track/6bM1AM7nvmkpFxUaH3eWk5"
@@ -2481,6 +2481,24 @@
     },
     {
       "album": {
+        "name": "Passage",
+        "url": "https://open.spotify.com/album/3hoZrftsozUiCffCS9abKT"
+      },
+      "artists": [
+        {
+          "name": "Denis Sungho",
+          "url": "https://open.spotify.com/artist/14AiQlh46InimcwmW3zXdp"
+        }
+      ],
+      "date_added": "2026-11-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 289531,
+      "name": "Passage",
+      "url": "https://open.spotify.com/track/2scEJbhZcu0LjufsHGQFaz"
+    },
+    {
+      "album": {
         "name": "Ravel: The Complete Solo Piano Works",
         "url": "https://open.spotify.com/album/2I4Npa3S0lc14yerFPlLOj"
       },
@@ -2713,6 +2731,28 @@
     },
     {
       "album": {
+        "name": "Mozart: The Complete Piano Sonatas Vol. 4",
+        "url": "https://open.spotify.com/album/3BzKSn9G54nCz8ilaaxKER"
+      },
+      "artists": [
+        {
+          "name": "Wolfgang Amadeus Mozart",
+          "url": "https://open.spotify.com/artist/4NJhFmfw43RLBLjQvxDuRS"
+        },
+        {
+          "name": "Jae-hyuck Cho",
+          "url": "https://open.spotify.com/artist/4QQPF8eO1Olz6ZXx78qlZL"
+        }
+      ],
+      "date_added": "2026-11-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 324932,
+      "name": "Piano Sonata No. 1 in C Major, K.279: III. Allegro",
+      "url": "https://open.spotify.com/track/2P2SapWcn1ViJ4T9urw6w3"
+    },
+    {
+      "album": {
         "name": "Beethoven: Complete Piano Sonatas",
         "url": "https://open.spotify.com/album/1aZMeJFNESnJsxelEwbCmK"
       },
@@ -2794,7 +2834,7 @@
       ],
       "date_added": "2024-06-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-27",
       "duration_ms": 433986,
       "name": "Piano Sonata No. 12 in F Major, K. 332: I. Allegro",
       "url": "https://open.spotify.com/track/3HX0J6b6ptIdnyBF4lFU8A"

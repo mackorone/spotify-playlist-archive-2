@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWA4PDpFSM3c.md) - [plain]
 
 > Mellow down the mood with these Telugu tracks<br/>Cover: Dear Comrade
 
-[Spotify](https://open.spotify.com/user/spotify) - 113,861 likes - 50 songs - 3 hr 50 min
+[Spotify](https://open.spotify.com/user/spotify) - 113,917 likes - 50 songs - 3 hr 50 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -19,8 +19,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWA4PDpFSM3c.md) - [plain]
 | 9 | [Nuvvu Nuvvu](https://open.spotify.com/track/2herWh0PWhDrI6XCpj3FsI) | [Devi Sri Prasad](https://open.spotify.com/artist/5sSzCxHtgL82pYDvx2QyEU), [Sumangaly](https://open.spotify.com/artist/0WpkyIAATl5W540KCSEUwX) | [Khadgam](https://open.spotify.com/album/4BBwcysIlZX8VjMV2AlTy7) | 5:33 |
 | 10 | [Adigaa](https://open.spotify.com/track/4k9RLcTWZog34sIXt23Ibr) | [Karthik](https://open.spotify.com/artist/0LSPREIgGMZXCuKVel7LVD) | [Hi Nanna](https://open.spotify.com/album/1dpKR9xGrVPqN4l78ymrKD) | 3:30 |
 | 11 | [Challa Gaali Thakuthunna](https://open.spotify.com/track/6IWD4Vklpj6wHVGaMB89dO) | [Senthil](https://open.spotify.com/artist/4chi55fx5usXwPsJq1g2a3), [Rakshita Suresh](https://open.spotify.com/artist/76Z6SMQPibr8qI24AhdvbJ), [Ilaiyaraaja](https://open.spotify.com/artist/3m49WVMU4zCkaVEKb8kFW7), [Ananth Sriram](https://open.spotify.com/artist/1ptg1bA9WLbmSqByeIwnuz) | [Yevade Subramanyam](https://open.spotify.com/album/6bO23GNwB0rVPb9fduDb2b) | 4:08 |
-| 12 | [Emantaro](https://open.spotify.com/track/0ZOlLikCYIMHF2sJcx3oS8) | [Mani Sharma](https://open.spotify.com/artist/3AMxH9QIPZbK8ND8C9j4Ss), [S.P\. Charan](https://open.spotify.com/artist/1BIAyVQxDuYrMqZ8H1Faja), [Harini](https://open.spotify.com/artist/41BeeC5hYqvtGkM79RYvN4) | [Gudumba Shankar](https://open.spotify.com/album/4NZCKWyfrZC82wCR5fC7in) | 6:18 |
-| 13 | [Snehithudaa](https://open.spotify.com/track/0b7HiR0vRs2gUbwZeJjfN3) | [Srinivas](https://open.spotify.com/artist/3K9qRRRqtuxgBRLxRCxpDl), [Sadhana Sargam](https://open.spotify.com/artist/1HGMG8RHvcu1mfdM9MeTek) | [Sakhi](https://open.spotify.com/album/0x25Nwzk4BVwlUaZq5Hczu) | 6:07 |
+| 12 | [Snehithudaa](https://open.spotify.com/track/0b7HiR0vRs2gUbwZeJjfN3) | [Srinivas](https://open.spotify.com/artist/3K9qRRRqtuxgBRLxRCxpDl), [Sadhana Sargam](https://open.spotify.com/artist/1HGMG8RHvcu1mfdM9MeTek) | [Sakhi](https://open.spotify.com/album/0x25Nwzk4BVwlUaZq5Hczu) | 6:07 |
+| 13 | [Emantaro](https://open.spotify.com/track/0ZOlLikCYIMHF2sJcx3oS8) | [Mani Sharma](https://open.spotify.com/artist/3AMxH9QIPZbK8ND8C9j4Ss), [S.P\. Charan](https://open.spotify.com/artist/1BIAyVQxDuYrMqZ8H1Faja), [Harini](https://open.spotify.com/artist/41BeeC5hYqvtGkM79RYvN4) | [Gudumba Shankar](https://open.spotify.com/album/4NZCKWyfrZC82wCR5fC7in) | 6:18 |
 | 14 | [Nee Tholisariga](https://open.spotify.com/track/5bRsCXzjpkjDXmVGkgfL4w) | [R\. P\. Patnaik](https://open.spotify.com/artist/00hL0oJD4pWef0kPYIaSTy), [Usha Munukutla](https://open.spotify.com/artist/3ZuUs3HhXssOQ3mt9WpBfw) | [Santhosham](https://open.spotify.com/album/5e1sQOcB4PnyMXxQ6BMZJf) | 4:50 |
 | 15 | [Arare Arare](https://open.spotify.com/track/4siD8OfWU2SrxAam41kgpJ) | [Karthik](https://open.spotify.com/artist/0LSPREIgGMZXCuKVel7LVD) | [Happy Days](https://open.spotify.com/album/3zwlmA5XSHN0ovt9Y0Vkjk) | 4:59 |
 | 16 | [Rooba Rooba](https://open.spotify.com/track/7gVqTSJ4Mr5uKkM9yhQKop) | [Shahil Hada](https://open.spotify.com/artist/4Rn2NNAPBegkcTSPz54jcc), [Chinmayi](https://open.spotify.com/artist/5UJ2sHO2ELrgW6aXeRLTQQ) | [Orange](https://open.spotify.com/album/4lydrnVdmsWCMMfk0S8Khj) | 5:14 |

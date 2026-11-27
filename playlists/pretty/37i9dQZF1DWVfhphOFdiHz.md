@@ -4,23 +4,23 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVfhphOFdiHz.md) - [plain]
 
 > Bops on repeat from LGBTQIA+ artists only\. Cover: EARTH TO EMILY
 
-[Spotify](https://open.spotify.com/user/spotify) - 23,970 likes - 50 songs - 2 hr 40 min
+[Spotify](https://open.spotify.com/user/spotify) - 23,978 likes - 50 songs - 2 hr 41 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
-| 1 | [KISS MYSELF](https://open.spotify.com/track/63jo1I252RJkdAFgBgiVS6) | [EARTH TO EMILY](https://open.spotify.com/artist/29becY8WA0wuCwIpFMIyk2) | [KISS MYSELF](https://open.spotify.com/album/08AxGPB9VYi3BYY1pXKW0Q) | 2:05 |
-| 2 | [Slide](https://open.spotify.com/track/5xHbllWdvBHs6LGAWVk3Hl) | [Now, Now](https://open.spotify.com/artist/6ZitSwtBSGqj00w11GvMU3) | [Slide](https://open.spotify.com/album/1m9LbRtekfGQm3Q635GlND) | 4:20 |
+| 1 | [GIRL IN MY PHONE](https://open.spotify.com/track/2O0iKAZhG8Ou3a8lvzTf3g) | [EARTH TO EMILY](https://open.spotify.com/artist/29becY8WA0wuCwIpFMIyk2) | [AFTER THE AFTERS \(DELUXE\)](https://open.spotify.com/album/08BauJYvtlqR8J3yLK6AkI) | 2:46 |
+| 2 | [Bless This Mess](https://open.spotify.com/track/16TQQ3Ng5YUdtfCv5Cy1ti) | [Jennarie](https://open.spotify.com/artist/3vvIH5V5MjAhLrQgfQvlhX) | [Bless This Mess](https://open.spotify.com/album/4jIF02ptkDT6WLT9OSxSXT) | 3:18 |
 | 3 | [I Want to Push You in Front of the Subway](https://open.spotify.com/track/0dl7gKsFn8eb78zJ0Pghi9) | [Benjamin Hightower](https://open.spotify.com/artist/70A1X73rk0NI2d6A8pENYN) | [New to the City](https://open.spotify.com/album/4CzT8kDhShsf7cJuC3QwXV) | 3:32 |
 | 4 | [IFYGF](https://open.spotify.com/track/6jYJYzfwvI8DUeHD4wP35R) | [Gen Laforce](https://open.spotify.com/artist/41V8rH3K84PmlhLSAf8NsS) | [IFYGF](https://open.spotify.com/album/02PMAdeF21U9rdrt08wWJv) | 2:22 |
-| 5 | [Dancing On The Wall \- Romy In A Lesbian Trance Remix](https://open.spotify.com/track/70CUPWRUARHEC77vcP0jEj) | [MUNA](https://open.spotify.com/artist/6xdRb2GypJ7DqnWAI2mHGn), [Romy](https://open.spotify.com/artist/3X2DdnmoANw8Rg8luHyZQb) | [Dancing On The Wall \(Deluxe Edition\)](https://open.spotify.com/album/3EDzhFgFAjw9EucBMRkStE) | 3:02 |
-| 6 | [Guts](https://open.spotify.com/track/7CcsXTN6c7DOkF2JOmdC71) | [Lauv](https://open.spotify.com/artist/5JZ7CnR6gTvEMKX4g70Amv) | [Guts](https://open.spotify.com/album/5BVWDl6DMXN7IgbzTqnFud) | 2:52 |
-| 7 | [Shy Girl](https://open.spotify.com/track/2LIOTreGvPk5GdpeGUqYIu) | [Haute & Freddy](https://open.spotify.com/artist/66T34XqGkEWbzKWALSBDuR) | [Big Disgrace](https://open.spotify.com/album/3iyn2K7YlhKie8qrmUV6lS) | 3:07 |
+| 5 | [Slide](https://open.spotify.com/track/5xHbllWdvBHs6LGAWVk3Hl) | [Now, Now](https://open.spotify.com/artist/6ZitSwtBSGqj00w11GvMU3) | [Slide](https://open.spotify.com/album/1m9LbRtekfGQm3Q635GlND) | 4:20 |
+| 6 | [Shy Girl](https://open.spotify.com/track/2LIOTreGvPk5GdpeGUqYIu) | [Haute & Freddy](https://open.spotify.com/artist/66T34XqGkEWbzKWALSBDuR) | [Big Disgrace](https://open.spotify.com/album/3iyn2K7YlhKie8qrmUV6lS) | 3:07 |
+| 7 | [crank 2](https://open.spotify.com/track/6LMdNshhDtSq5pUSlPjTsE) | [Slayyyter](https://open.spotify.com/artist/4QM5QCHicznALtX885CnZC) | [crank 2](https://open.spotify.com/album/3mG3Hvwq8rF1yfY8zQPpwC) | 3:19 |
 | 8 | [IDKW](https://open.spotify.com/track/6NxoYOYCpurmaGsA8VFvmW) | [JORDY](https://open.spotify.com/artist/0p9SPN0Vhv6aDRZCz4W13E) | [IDKW](https://open.spotify.com/album/0endo3MeMmhqz8GU7AkoMd) | 3:41 |
 | 9 | [Raincloud](https://open.spotify.com/track/0Jav156DAaylog9r2iZ218) | [Grace Power](https://open.spotify.com/artist/5kiTZEnGddxglBPRbM6XqP) | [Act I: Smoke and Mirrors](https://open.spotify.com/album/4PiWkJgemt6XPNL5NnQ99Y) | 2:53 |
-| 10 | [crank 2](https://open.spotify.com/track/6LMdNshhDtSq5pUSlPjTsE) | [Slayyyter](https://open.spotify.com/artist/4QM5QCHicznALtX885CnZC) | [crank 2](https://open.spotify.com/album/3mG3Hvwq8rF1yfY8zQPpwC) | 3:19 |
-| 11 | [FACE2FACE](https://open.spotify.com/track/5a7hjgMxDVSxV8WFv380IE) | [Priyanka](https://open.spotify.com/artist/1RSalo3q49NotNwKB2jtjO) | [FACE2FACE](https://open.spotify.com/album/2bsXQc9KFrosT52RPlPcrQ) | 3:06 |
-| 12 | [Never Have I Ever](https://open.spotify.com/track/2Ojr742JINM4QEOk7vQGEh) | [Rainbow Kitten Surprise](https://open.spotify.com/artist/4hz8tIajF2INpgM0qzPJz2) | [Never Have I Ever](https://open.spotify.com/album/5c64n4bmCFpdsvenhcWp5z) | 2:54 |
-| 13 | [World's Greatest!](https://open.spotify.com/track/5U1ekX3gtDjqIsJ9Ves4cT) | [Lil Nas X](https://open.spotify.com/artist/7jVv8c5Fj3E9VhNjxT4snq) | [World's Greatest!](https://open.spotify.com/album/4cEt3Sgt7LFAet0bAJ7W6A) | 3:50 |
+| 10 | [Never Have I Ever](https://open.spotify.com/track/2Ojr742JINM4QEOk7vQGEh) | [Rainbow Kitten Surprise](https://open.spotify.com/artist/4hz8tIajF2INpgM0qzPJz2) | [Never Have I Ever](https://open.spotify.com/album/5c64n4bmCFpdsvenhcWp5z) | 2:54 |
+| 11 | [LOVE, AUDALEI](https://open.spotify.com/track/77bqNZF6oyUskmKOpIstpG) | [audalei](https://open.spotify.com/artist/5kVRPeQHKUoQ7ooGlewyXP) | [LOVE, AUDALEI](https://open.spotify.com/album/1E4oT2vyywMWfg26n2qnT8) | 3:28 |
+| 12 | [World's Greatest!](https://open.spotify.com/track/5U1ekX3gtDjqIsJ9Ves4cT) | [Lil Nas X](https://open.spotify.com/artist/7jVv8c5Fj3E9VhNjxT4snq) | [World's Greatest!](https://open.spotify.com/album/4cEt3Sgt7LFAet0bAJ7W6A) | 3:50 |
+| 13 | [Guts](https://open.spotify.com/track/7CcsXTN6c7DOkF2JOmdC71) | [Lauv](https://open.spotify.com/artist/5JZ7CnR6gTvEMKX4g70Amv) | [Guts](https://open.spotify.com/album/5BVWDl6DMXN7IgbzTqnFud) | 2:52 |
 | 14 | [Tell Me \(U Want It\)](https://open.spotify.com/track/2fIv98BZ6NdkeYLZAvNzP7) | [underscores](https://open.spotify.com/artist/7HfUJxeVTgrvhk0eWHFzV7) | [U](https://open.spotify.com/album/1qSS0T6Ffrb3rFVpizzOuk) | 3:33 |
 | 15 | [Juicy](https://open.spotify.com/track/64WK0FPVYNJkFsRFICD4kA) | [Victoria Monét](https://open.spotify.com/artist/63XBtGSEZINSyXylZxEUbv) | [Juicy](https://open.spotify.com/album/3u406K3rAQbUMUcMSwBYlZ) | 3:06 |
 | 16 | [RAIN](https://open.spotify.com/track/04TlEj0Fhxnq4qbc560fnh) | [PINKNOISE](https://open.spotify.com/artist/2USllv850CGVjxqji1jxcd), [Wind Walkers](https://open.spotify.com/artist/2K2bsaNeuQAFkuVwrrlJe0) | [RAIN](https://open.spotify.com/album/6lm5tf9xL9t37Uz1jsthZV) | 3:36 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVfhphOFdiHz.md) - [plain]
 | 49 | [Meryl](https://open.spotify.com/track/6gHhrK2BL0cqlGUxTtyjaT) | [Maddie Zahm](https://open.spotify.com/artist/5dtPlx7yKOo7KdZGyrfFIq) | [Everything All The Time](https://open.spotify.com/album/2ydzJRCV5HBV1hMbwzEWsm) | 2:43 |
 | 50 | [MAKE IT OUT ALIVE \- Dave Audé Version](https://open.spotify.com/track/6GPHx5qSNiPnmdtQcM6dcC) | [MORGXN](https://open.spotify.com/artist/034u8Qcs47NHkRQXaWkLXW), [Dave Audé](https://open.spotify.com/artist/1vWImodgVqIgTUkekGEfR9) | [MAKE IT OUT ALIVE \(Dave Audé Version\)](https://open.spotify.com/album/2d0zoeu1ZXByjTLXY0rAHn) | 3:01 |
 
-Snapshot ID: `AAAAAOvViNVWkXY4qR1VR/YTpACZ0R6l`
+Snapshot ID: `AAAAABnoO0fb5RMGbR1sj8h3fo7WulWQ`

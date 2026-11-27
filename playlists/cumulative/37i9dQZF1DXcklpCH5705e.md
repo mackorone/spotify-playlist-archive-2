@@ -2,9 +2,9 @@
 
 ### [HOTPOP](https://open.spotify.com/playlist/37i9dQZF1DXcklpCH5705e)
 
-> Hotpot & HOTPOP 我們都愛！新鮮滾熱辣 Mando\-HOTpop track ! Cover: Tyson Yoshi
+> Hotpot & HOTPOP 我們都愛！新鮮滾熱辣 Mando\-HOTpop track ! Cover: Eric Chou 周興哲
 
-351 songs - 22 hr 34 min
+356 songs - 22 hr 53 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -53,6 +53,7 @@
 | [my light](https://open.spotify.com/track/6Tz1omWIrOk7Ly9SOG69l3) | [yung kai](https://open.spotify.com/artist/6zO1dZ40fTZ5hY9NnnRJSk) | [my light](https://open.spotify.com/album/17VOoXeticR0qLGOoplBTz) | 3:18 | 2025-06-26 | 2025-08-15 |
 | [NEVER DIE 永不落幕](https://open.spotify.com/track/0uvTjYRuPyj9GW4h4yHQZd) | [5566](https://open.spotify.com/artist/4vRnvRld46Z0TyLZ9xi5xE) | [NEVER DIE 永不落幕](https://open.spotify.com/album/2uqs5CKuzysUGi7ern126E) | 2:32 | 2026-10-22 |  |
 | [Nevertheless](https://open.spotify.com/track/6fG9JVdUx4Ttks3tDwQMRs) | [Night Off](https://open.spotify.com/artist/0MrJIVLnVbubveFG4zSy88) | [Nevertheless, \(Original Television Sound Track, Pt\. 2\)](https://open.spotify.com/album/5TQex521jmVvoNG9FHi0Zo) | 3:32 | 2022-03-10 | 2023-02-03 |
+| [No More Cry \- 原創影集《重生密碼》片尾曲](https://open.spotify.com/track/2lUH66lqOZEzkYI1jkbg8c) | [A\-Lin](https://open.spotify.com/artist/28gf2piFx6cAKOMIwcky5a), [Andrew Tan](https://open.spotify.com/artist/5AhK8gDgOZT7lE1UlbyF1c) | [No More Cry \(原創影集《重生密碼》片尾曲\)](https://open.spotify.com/album/3Sva8cXth9a6iiml5GBlCn) | 3:27 | 2026-11-27 |  |
 | [No Time To Die](https://open.spotify.com/track/73SpzrcaHk0RQPFP73vqVR) | [Billie Eilish](https://open.spotify.com/artist/6qqNVTkY8uBg9cP3Jd7DAH) | [No Time To Die](https://open.spotify.com/album/5sXSHscDjBez8VF20cSyad) | 4:02 | 2022-03-10 | 2023-02-03 |
 | [O.O](https://open.spotify.com/track/3lrNsPdn98i6rxO142pLT6) | [NMIXX](https://open.spotify.com/artist/28ot3wh4oNmoFOdVajibBl) | [AD MARE](https://open.spotify.com/album/3AUtpZi3kqsEYDyQ0CCNiH) | 2:52 | 2022-03-10 | 2023-02-03 |
 | [Pale Blue](https://open.spotify.com/track/52RfEh76AVKPwtUtTV9ufl) | [Kenshi Yonezu](https://open.spotify.com/artist/1snhtMLeb2DYoMOcVbb8iB) | [Pale Blue](https://open.spotify.com/album/24twIPmQ5GlXAPvzpRpc5G) | 4:56 | 2022-03-10 | 2023-02-03 |
@@ -84,6 +85,7 @@
 | [一点点（为什么晚上总是有星星）](https://open.spotify.com/track/6mhOFESwSNssGppl5WbfV5) | [董唧唧](https://open.spotify.com/artist/0QwmLQKOeZobacsipWWvrT), [芊芊龍](https://open.spotify.com/artist/0nx6F0kN4McqlL648nTF4V) | [一点点（为什么晚上总是有星星）](https://open.spotify.com/album/6iHX6DiVHcRSsHHxTUKVA5) | 2:57 | 2025-11-20 | 2026-03-27 |
 | [一路順風 \(blessed in the wind\)](https://open.spotify.com/track/0gqwYp4fqGVhj2t0GHaD88) | [Crowd Lu](https://open.spotify.com/artist/2JBUyLiFvpFPWdZGqIGYLD) | [一路順風 \(blessed in the wind\)](https://open.spotify.com/album/3sf1Ve1jgc61kFDFDPG0Ki) | 2:52 | 2025-08-14 | 2026-07-03 |
 | [下一世遇見](https://open.spotify.com/track/0BvSDFthkPOVWfNdIs2BGM) | [Calvert Tay](https://open.spotify.com/artist/3ZYC5DuefIg4HuAAU5YBU4) | [下一世遇見](https://open.spotify.com/album/2JDuShaImrZIYITFQJ2Lba) | 4:25 | 2025-05-01 | 2026-03-27 |
+| [不情之請](https://open.spotify.com/track/24Ear0IVO5niow1sKcUnDc) | [A\-Mei Chang](https://open.spotify.com/artist/6noxsCszBEEK04kCehugOp) | [不情之請](https://open.spotify.com/album/0HqUDAeyKiIhqH9MWaSXkQ) | 4:17 | 2026-11-27 |  |
 | [不是朋友的朋友](https://open.spotify.com/track/1TvfQuwyYmdphgTjHg5rHy) | [鄭馥儀](https://open.spotify.com/artist/0hV47C30VMq4Yi6zAQwPUB) | [不是朋友的朋友](https://open.spotify.com/album/4qoP6vyuEqUQFBR0EMokeL) | 4:00 | 2026-07-02 |  |
 | [两难](https://open.spotify.com/track/7oQku6a7j4laDq3zTI6CRf) | [加木](https://open.spotify.com/artist/45aOa6C5ieGIXh7yExsvVl) | [两难](https://open.spotify.com/album/6HQyq2KNTILRZzwrzKVKsK) | 2:50 | 2025-06-12 | 2026-03-27 |
 | [人醒著不過一萬多天](https://open.spotify.com/track/2M3RZZVaDI606gFCf8mQ00) | [DIOR 大穎](https://open.spotify.com/artist/0czbvTRVGHfCdRsJLxbBGQ) | [人醒著不過一萬多天](https://open.spotify.com/album/6ElA3UsQyvUYOWYycmtAGq) | 4:33 | 2025-04-03 | 2026-07-03 |
@@ -174,6 +176,7 @@
 | [彩虹桥](https://open.spotify.com/track/5g9oMoqEjZ6r55WPEenymW) | [MAD](https://open.spotify.com/artist/17Ff1xhblc88EqazU5B3Ze) | [彩虹桥](https://open.spotify.com/album/7wLSWh0Hcjuk17ULOnPbb9) | 4:08 | 2025-04-03 | 2025-07-04 |
 | [很久很久](https://open.spotify.com/track/16e5HuKQQOBxJqO2wAljfL) | [WeiBird](https://open.spotify.com/artist/7y3HnWCFEvWj4KM9GFSkiX) | [很久很久](https://open.spotify.com/album/7cWUN2wDXCv3mpRlCuNZ7Q) | 4:06 | 2026-07-02 |  |
 | [從未見過的海 \(Netflix 影集《影后》序曲\)](https://open.spotify.com/track/3agPPRZPNOhbCwm2026EN6) | [告五人](https://open.spotify.com/artist/6xErgeZYatiaQ36SB5bvi8) | [從未見過的海](https://open.spotify.com/album/5e28mgD5TjknzurCXeQU7X) | 5:01 | 2025-04-03 | 2026-03-27 |
+| [心動一半](https://open.spotify.com/track/0O2g661SL4DuEDz5IGhLXA) | [Gareth.T](https://open.spotify.com/artist/6R57JlNKlnNrYaji0vw8xx) | [心動一半](https://open.spotify.com/album/6iuVX5pEwXW1f1kTDsGfWi) | 3:53 | 2026-11-27 |  |
 | [忘記他](https://open.spotify.com/track/4BMsm71hl8wqqSbfAdgIHV) | [Shirley Kwan](https://open.spotify.com/artist/14hV8HTKYMZ5nzeaLdLp63) | [All Time Favourites](https://open.spotify.com/album/0WpcnKMjK0ovshd1NLiJvp) | 3:20 | 2024-04-04 | 2025-04-04 |
 | [怎麼你連再見都沒說就走了](https://open.spotify.com/track/7qKUp7bqUiXNVme8ba5Cx5) | [Nine Chen](https://open.spotify.com/artist/4MMQmzYiUiuD8VwjrJu3v6) | [怎麼你連再見都沒說就走了](https://open.spotify.com/album/7tUvsu80skGQ5MyLjado2o) | 3:19 | 2026-03-26 | 2026-07-03 |
 | [情深說話未曾講](https://open.spotify.com/track/3IU0tRFjaP7FsoPnXz5KEf) | [Denise Ho](https://open.spotify.com/artist/4yN0M1P08hXwuDi81G6O5U) | [十八種香港 Reimagine HK 2015 \(LIVE\)](https://open.spotify.com/album/0yOGZZK7klwmqhP7ll81Jg) | 6:30 | 2024-04-04 | 2025-04-04 |
@@ -195,6 +198,7 @@
 | [慢一点也没关系](https://open.spotify.com/track/16EeCYCAFqexQ63gh0oTki) | [蔡恩雨 Priscilla Abby](https://open.spotify.com/artist/0zFBdI3ErhNDcIPAKiGoL0) | [慢一点也没关系](https://open.spotify.com/album/1vhOeLpzkFfu3c8I5O9C0D) | 3:08 | 2026-10-22 |  |
 | [懂的都懂](https://open.spotify.com/track/6MDgM4iLuZajkwEYwsnxrH) | [Dizzy Dizzo 蔡詩芸](https://open.spotify.com/artist/5rEuIFwgGGp7t4b3t8ShJw) | [懂的都懂](https://open.spotify.com/album/4UmlHS19LWaNyYkcco8aRT) | 2:34 | 2026-10-22 |  |
 | [我](https://open.spotify.com/track/41UFHG32WkZpDozEPon4Vo) | [Kay Tse](https://open.spotify.com/artist/6XtWdWAC7rNqXwbs8hGqP9) | [唱與被唱：張國榮在環球的歌](https://open.spotify.com/album/373fpLNHrcRu3FsSdfMZqc) | 3:45 | 2024-04-04 | 2025-04-04 |
+| [我以為我們會結婚](https://open.spotify.com/track/1tmJmnajDWUyRp9aMn8XQC) | [DIOR 大穎](https://open.spotify.com/artist/0czbvTRVGHfCdRsJLxbBGQ), [郭家瑋](https://open.spotify.com/artist/5EZkv9iiDdCJvhSQaRMj2X) | [我以為我們會結婚](https://open.spotify.com/album/0kXt4fTCboMKLDxZBRyyOq) | 3:58 | 2026-11-27 |  |
 | [我会等](https://open.spotify.com/track/5Rzpn60KTM11EBETHaF9Kt) | [承桓](https://open.spotify.com/artist/3ZYhFl4nztqc9vx35vKdUI) | [我会等](https://open.spotify.com/album/3113SgaBiac1ta3gtRnyYk) | 3:15 | 2025-04-03 | 2025-07-04 |
 | [我們的愛](https://open.spotify.com/track/7MPYCnyGDMDhaA0O6L6NqU) | [Kimberley Chen](https://open.spotify.com/artist/1dVbVQZjRGDjQmHD8oiS8k) | [我們的愛](https://open.spotify.com/album/0ZYOeGzoWt9l5yWrw64Jh3) | 3:19 | 2025-07-17 | 2026-03-27 |
 | [我們都是這樣長大的 \(電視劇「家族榮耀」片尾曲\)](https://open.spotify.com/track/1OCOS5USr2fnhaDEPavn2g) | [陳維諾](https://open.spotify.com/artist/4f7pXdVCNBexUaKKjxv6wg) | [我們都是這樣長大的 \(電視劇「家族榮耀」片尾曲\)](https://open.spotify.com/album/1Lh1iARr3esh5CtUa0Ab8E) | 4:23 | 2022-03-10 | 2023-02-03 |
@@ -263,6 +267,7 @@
 | [減傷](https://open.spotify.com/track/4jqh9HVVGVhr5NOjJ7Cabu) | [陳華](https://open.spotify.com/artist/5ZxRmJ21NzjxD2ZGBxi7um) | [減傷](https://open.spotify.com/album/7AVDlo3SephY6I9DBtlhcF) | 3:20 | 2026-03-26 | 2026-07-03 |
 | [漣漪 \(音樂永續作品\)](https://open.spotify.com/track/5agxyN0XnlsRNJXXk2xDYN) | [Janice Vidal](https://open.spotify.com/artist/68gYAqni9tSrACmLCp4qoM) | [Timeless \(音樂永續作品\)](https://open.spotify.com/album/2mWGL5GwVUhIs7UADr4dQS) | 3:08 | 2023-02-02 | 2025-04-04 |
 | [烂片剧情](https://open.spotify.com/track/488IBZgAqHQmUDjg9kTQYG) | [LBI利比](https://open.spotify.com/artist/1xMn0bhYRWHDV01mU8gP1J) | [烂片剧情](https://open.spotify.com/album/2Km6rWJjdJoli9PFE8nwxh) | 3:26 | 2025-04-03 | 2026-03-27 |
+| [無人知曉的我](https://open.spotify.com/track/10yu3CYrDC6iDLeVHaQun6) | [Eric Chou](https://open.spotify.com/artist/5fEQLwq1BWWQNR8GzhOIvi) | [無人知曉的我](https://open.spotify.com/album/2MqdP7TulwlActUiwthIAG) | 3:33 | 2026-11-27 |  |
 | [無袂煞](https://open.spotify.com/track/5YbCgnnhO78mSYgDOFNNxS) | [頑童Mj116](https://open.spotify.com/artist/7aMQdNM05rPkcHS1ethHUx) | [無袂煞](https://open.spotify.com/album/5ELAI7VMzvganf1RnY0b0L) | 3:27 | 2025-04-03 | 2025-07-04 |
 | [爱错](https://open.spotify.com/track/1B0fMGDb0AT5gajmcyxG3Z) | [en](https://open.spotify.com/artist/7z7tLLiBfmH0kZ2lNVs8LW) | [爱错](https://open.spotify.com/album/30nOH9BMN0LM4MSXYnQU43) | 3:27 | 2025-04-03 | 2025-07-04 |
 | [牆紙 \- Dear Jane Studio Live](https://open.spotify.com/track/7rML5aT5sPdTpiQsc8CVnU) | [Dear Jane](https://open.spotify.com/artist/6V1SwiosQqf5XvmoTMCGa9) | [101](https://open.spotify.com/album/3einZWT5Kn6SEDLXiJ70BD) | 4:33 | 2024-04-04 | 2025-04-04 |

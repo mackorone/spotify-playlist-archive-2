@@ -2,9 +2,9 @@
 
 ### [Varsity Bars](https://open.spotify.com/playlist/37i9dQZF1DXdWMJMjqz9bm)
 
-> a little rap, a little pop, a little country..\. sometimes\. Thekidszn on the cover.
+> a little rap, a little pop, a little country..\. sometimes\. BLACKBEAR on the cover.
 
-893 songs - 1 day 16 hr 43 min
+895 songs - 1 day 16 hr 49 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -538,7 +538,7 @@
 | [Nail Tech](https://open.spotify.com/track/62Yo3FDddWY8ydu6PW2wyz) | [Jack Harlow](https://open.spotify.com/artist/2LIk90788K0zvyj2JJVwkJ) | [Nail Tech](https://open.spotify.com/album/72r4dr0xDsXOWRwP2o7ZIP) | 3:26 | 2022-02-18 | 2022-09-24 |
 | [Napoleon](https://open.spotify.com/track/328p9YLeNTjWUnL6qCXqmv) | [$uicideboy$](https://open.spotify.com/artist/1VPmR4DJC1PlOtd0IADAO0) | [THY KINGDOM COME](https://open.spotify.com/album/7HxLze2RiYrM9f2un8HZUp) | 2:36 | 2025-08-08 | 2026-03-19 |
 | [NAUSEOUS](https://open.spotify.com/track/4L5ATobsBdlUoHgVG5LdKa) | [PERRIS](https://open.spotify.com/artist/28g5e8S0umbeXJOxmRZFMw) | [NAUSEOUS](https://open.spotify.com/album/61ZmBqFS4wXTwky1qojCvC) | 2:30 | 2025-05-27 | 2025-06-21 |
-| [Need 4 Speed](https://open.spotify.com/track/3VotbpH3LdsB0SitbMVW8N) | [Johnny Slime](https://open.spotify.com/artist/1LacTZS7n8wnxNVAOghBVu) | [Need 4 Speed](https://open.spotify.com/album/6SnayJnGXTxC2zDOiGU1Ro) | 2:27 | 2026-10-21 |  |
+| [Need 4 Speed](https://open.spotify.com/track/3VotbpH3LdsB0SitbMVW8N) | [Johnny Slime](https://open.spotify.com/artist/1LacTZS7n8wnxNVAOghBVu) | [Need 4 Speed](https://open.spotify.com/album/6SnayJnGXTxC2zDOiGU1Ro) | 2:27 | 2026-10-21 | 2026-11-27 |
 | [Need To Know](https://open.spotify.com/track/6520wpFoQ6OdCjWIjGEbJa) | [Presley Regier](https://open.spotify.com/artist/7AAHfakMQan4p04ozZhhwc) | [Need To Know](https://open.spotify.com/album/6lGyRPJfCuMSz93LqJBXuZ) | 2:54 | 2023-06-30 | 2023-09-09 |
 | [Neiman Marcus \(Hollywood\)](https://open.spotify.com/track/0ypg4T6esIqndywe7fiSUG) | [Porsh Bet$](https://open.spotify.com/artist/6744gF2rjCRtqwbMb9ldk4) | [Neiman Marcus \(Hollywood\)](https://open.spotify.com/album/0fOriXAONaoenGQi5nfOcl) | 2:10 | 2021-11-16 | 2022-02-19 |
 | [Nevada](https://open.spotify.com/track/2cEnKRR4dYBB2VA1mjlb1z) | [YoungBoy Never Broke Again](https://open.spotify.com/artist/7wlFDEWiM5OoIAt8RSli8b) | [Sincerely, Kentrell](https://open.spotify.com/album/4ssppGN0Qy4OeJTUDr1Etd) | 2:35 | 2025-12-09 | 2026-05-23 |
@@ -624,6 +624,7 @@
 | [Play Dumb](https://open.spotify.com/track/3mUZEL6JHbTzjGheGP6Qz9) | [North Ave Jax](https://open.spotify.com/artist/7t3WSgiRVbVsTIbsgcHVrY) | [Play Dumb](https://open.spotify.com/album/7HMgaC6WOyaHmeG4TdEFyZ) | 2:37 | 2022-02-25 | 2022-05-07 |
 | [Please Don't Go](https://open.spotify.com/track/6jg5SRvdGxvJ0DzNV0UqEK) | [Mike Posner](https://open.spotify.com/artist/2KsP6tYLJlTBvSUxnwlVWa) | [31 Minutes to Takeoff](https://open.spotify.com/album/2nnIlWcriIqcJtjduWcTRl) | 3:16 | 2022-04-04 | 2022-06-18 |
 | [POISON!](https://open.spotify.com/track/0okaDpkRq0rpIuf1dC0VEr) | [Roderick Porter](https://open.spotify.com/artist/7Lcln0AXqNHMahrca8KVpy) | [POISON!](https://open.spotify.com/album/1YFdxsXeuQkSzvh7YhHp4N) | 2:27 | 2021-12-03 | 2022-02-26 |
+| [Polar Opposites](https://open.spotify.com/track/4wCnwpFqwmDge9uAuVfJ8q) | [Club 97](https://open.spotify.com/artist/5uNdSqYXxC3fYVMyKFfu7w) | [Polar Opposites](https://open.spotify.com/album/43xmNoTYrBzYl9vIRVVTpI) | 3:41 | 2026-11-27 |  |
 | [Pop Out](https://open.spotify.com/track/0WyO63CxKjKsTBMlTsb4CP) | [Kevin Abstract](https://open.spotify.com/artist/07EcmJpfAday8xGkslfanE), [Ameer Vann](https://open.spotify.com/artist/7kIbB1pdDyehFj8aNgfzfH), [Drigo](https://open.spotify.com/artist/22SOlSw4QOrYYarJbS2VA6), [E Bleu](https://open.spotify.com/artist/5iFK29ta4wFeMTSqxc4CMt), [Devan](https://open.spotify.com/artist/6VBXJo6OoJYv0to786oWjT), [Love Spells](https://open.spotify.com/artist/5iiqhuffUTPEOjAUDj19IW) | [Blush](https://open.spotify.com/album/1aUFNUsjLeUwhJZjBZpoKa) | 3:21 | 2025-07-04 | 2025-08-09 |
 | [POSER](https://open.spotify.com/track/13nMWX9yA13HoDvnQgmgSn) | [PARTYOF2](https://open.spotify.com/artist/70KxgbZNsd9xOttXW67mh3), [Jadagrace](https://open.spotify.com/artist/1C3vUa0iC1bkCTvZTzQxyk), [SWIM](https://open.spotify.com/artist/6Dj8wAnffq2dTvObHVLIdB) | [we owe you an explanation](https://open.spotify.com/album/0tGQmsJGYRXLXTEVyWZgM1) | 2:23 | 2025-08-26 | 2026-04-04 |
 | [Practically Strangers](https://open.spotify.com/track/3qkRncHx7iqp05daYmVPCL) | [Jack Gray](https://open.spotify.com/artist/0LvfDU74rGXrEGVWqW9rCw) | [Practically Strangers](https://open.spotify.com/album/2Hh1RsqsHsz80iosebrvob) | 2:10 | 2023-05-05 | 2024-03-16 |
@@ -774,7 +775,7 @@
 | [Sympathy](https://open.spotify.com/track/5aHig7nUnOmW93MlwJGTnf) | [Declan McKenna](https://open.spotify.com/artist/2D4FOOOtWycb3Aw9nY5n3c) | [What Happened to the Beach?](https://open.spotify.com/album/2OrfhPs4nDffAUyRrcxXWg) | 3:05 | 2024-01-12 | 2024-04-19 |
 | [Take It Easy](https://open.spotify.com/track/1Y9ewybegCoWaDE1wDcsxX) | [Adrian Lyles](https://open.spotify.com/artist/3R5yFx0z6UkzAiNHCeBqUY) | [Horizons: Night](https://open.spotify.com/album/1yHRhrhRL63coaqR3zGYRi) | 2:44 | 2025-10-20 | 2026-01-15 |
 | [TAKEN BACK](https://open.spotify.com/track/4WOKM2f2FgbuLPiEqGSlBi) | [Allen Haley](https://open.spotify.com/artist/0A23HecVtZf5hwBgVi0uYb) | [TAKEN BACK](https://open.spotify.com/album/6mQgaTQxOJ8HRFD6kQ46qB) | 2:33 | 2022-02-04 | 2022-05-20 |
-| [Talk](https://open.spotify.com/track/7zN5aETfVFOlhJZTUyH2pk) | [Paperboys](https://open.spotify.com/artist/74FBtqFO0SZn7nWzwql2VP), [Connor Price](https://open.spotify.com/artist/5zixe6AbgXPqt4c1uSl94L), [Nic D](https://open.spotify.com/artist/1XlLhtgJjC4ROQZilBZAvw) | [Paperboys](https://open.spotify.com/album/5m2gqKEDfPpHaKkYerkN1z) | 2:12 | 2026-06-19 |  |
+| [Talk](https://open.spotify.com/track/7zN5aETfVFOlhJZTUyH2pk) | [Paperboys](https://open.spotify.com/artist/74FBtqFO0SZn7nWzwql2VP), [Connor Price](https://open.spotify.com/artist/5zixe6AbgXPqt4c1uSl94L), [Nic D](https://open.spotify.com/artist/1XlLhtgJjC4ROQZilBZAvw) | [Paperboys](https://open.spotify.com/album/5m2gqKEDfPpHaKkYerkN1z) | 2:12 | 2026-06-19 | 2026-11-27 |
 | [Talkin Like](https://open.spotify.com/track/6atDGm94dfeC7qwmL3TFoq) | [Kevin Powers](https://open.spotify.com/artist/4X8TR9pBFyewFlIDYt1o2s) | [Talkin Like](https://open.spotify.com/album/2TcwUosUrtDDQHi50Z1PCU) | 2:34 | 2022-01-14 | 2022-06-04 |
 | [Talladega](https://open.spotify.com/track/2CPKo4glbtzTZHZ9kheUaa) | [Nic D](https://open.spotify.com/artist/1XlLhtgJjC4ROQZilBZAvw) | [Talladega](https://open.spotify.com/album/3JuasplCKlqgWKIhVStSWn) | 2:36 | 2021-11-16 | 2022-02-26 |
 | [tangled cables](https://open.spotify.com/track/6NUBZgZzZNag4j0v9Tt4qS) | [Supachefm](https://open.spotify.com/artist/4xwoyhYU2OMu6i79blLJR1), [Jomie](https://open.spotify.com/artist/5F4cFdG9NvJMnHXJkmqw9g) | [tangled cables](https://open.spotify.com/album/61RjORGnbFzvIOE1m7sCtC) | 3:19 | 2023-04-21 | 2024-03-16 |
@@ -819,6 +820,7 @@
 | [Tripping Over Air](https://open.spotify.com/track/7mzPAftljnsFmU6131Pqcd) | [Aidan Bissett](https://open.spotify.com/artist/4XQI4hyuy5xun1ou3SM8Oe) | [Tripping Over Air](https://open.spotify.com/album/6ZJonF00gkXNSTSI2PwyrC) | 3:02 | 2022-09-09 | 2024-02-03 |
 | [trouble / tonight](https://open.spotify.com/track/2FEdAC3ZeNybfLdodh9a66) | [Ouse](https://open.spotify.com/artist/6R29RU7eyQHSNc5kaHPWJn) | [trouble / tonight](https://open.spotify.com/album/6ywTWDiKJUO33pyQ9cwFmT) | 4:02 | 2022-01-28 | 2022-02-26 |
 | [true american \(feat\. Kyle Lux\)](https://open.spotify.com/track/0ceYW8uhnTOywJRp68iaq2) | [Sally Boy](https://open.spotify.com/artist/0FizvTDN8BVHmV5j2fL9Hf), [Kyle Lux](https://open.spotify.com/artist/63g7H7tihdsX4LtRQioKrR) | [true american \(feat\. Kyle Lux\)](https://open.spotify.com/album/3ZE1urLrVTsuB8KZXq6RAe) | 2:51 | 2022-07-22 | 2022-09-10 |
+| [TRUST NO GIRLS](https://open.spotify.com/track/6qSPTgVVAsYADcHOoLk1Br) | [blackbear](https://open.spotify.com/artist/2cFrymmkijnjDg9SS92EPM) | [analogue\_OFF](https://open.spotify.com/album/3sdEIHxdYesbRynooCf42u) | 2:39 | 2026-11-27 |  |
 | [Tucson](https://open.spotify.com/track/5mn1QrLBhEUI5XGmcn9HKT) | [Willy P](https://open.spotify.com/artist/18jVuRF2PcWQX3BWLUoIIP), [Peter Kuli](https://open.spotify.com/artist/5lVUEGHUyXz8X6h58fuEwV) | [Tucson](https://open.spotify.com/album/36hJeUhSYbDSkdz2Kx2828) | 2:27 | 2022-07-01 | 2022-09-28 |
 | [Tuesday](https://open.spotify.com/track/7tNHLrbkBhU6xh0GL0gTtQ) | [Nic D](https://open.spotify.com/artist/1XlLhtgJjC4ROQZilBZAvw), [Connor Price](https://open.spotify.com/artist/5zixe6AbgXPqt4c1uSl94L) | [Till Next Time](https://open.spotify.com/album/4II5QvivVfEYgeuZf0kYfT) | 2:08 | 2023-06-23 | 2023-11-11 |
 | [Turn It Up](https://open.spotify.com/track/3tLxUfISaz59RTcJIAPqDJ) | [JayXander](https://open.spotify.com/artist/20mG4NVCankcytn70YIplV) | [Turn It Up](https://open.spotify.com/album/5iHuuoKsqdlwbQM2ANFbCN) | 2:12 | 2023-04-21 | 2024-01-23 |

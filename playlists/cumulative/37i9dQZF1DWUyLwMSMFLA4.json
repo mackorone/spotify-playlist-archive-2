@@ -1038,7 +1038,7 @@
       ],
       "date_added": "2026-06-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-27",
       "duration_ms": 293413,
       "name": "Como Hacer",
       "url": "https://open.spotify.com/track/3VQ8Cz51UVBAsRuQvicTm0"
@@ -1939,6 +1939,24 @@
     },
     {
       "album": {
+        "name": "Ella quiere mambo",
+        "url": "https://open.spotify.com/album/6PAXhfYxoVBAq6KubuE2Zu"
+      },
+      "artists": [
+        {
+          "name": "La T y La M",
+          "url": "https://open.spotify.com/artist/1FxPMQ9A0882eNDx3ZkD6B"
+        }
+      ],
+      "date_added": "2026-11-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 148941,
+      "name": "Ella quiere mambo",
+      "url": "https://open.spotify.com/track/1rmDdilxKsPuh4uCKhzpMq"
+    },
+    {
+      "album": {
         "name": "A 30 A\u00f1os de una Pasi\u00f3n Inexplicable... Solo He Nacido para Amarte",
         "url": "https://open.spotify.com/album/2oAr9qO4Lfm8PgSBHgox8l"
       },
@@ -2566,7 +2584,7 @@
       ],
       "date_added": "2026-02-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-27",
       "duration_ms": 211346,
       "name": "Inventame",
       "url": "https://open.spotify.com/track/1Ea6SMCRQqN8cpSMpgeqpJ"
@@ -3510,7 +3528,7 @@
       ],
       "date_added": "2024-04-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-27",
       "duration_ms": 198066,
       "name": "Los Infieles",
       "url": "https://open.spotify.com/track/60N0Hb2yL4daYW4u3Ijw4I"
@@ -4895,6 +4913,36 @@
     },
     {
       "album": {
+        "name": "Perd\u00f3name | ASADO EN LO DE TOTE #27",
+        "url": "https://open.spotify.com/album/03t1apGks93cUJMU0uCUGk"
+      },
+      "artists": [
+        {
+          "name": "ASADO EN LO DE TOTE",
+          "url": "https://open.spotify.com/artist/3CCtYYYFJh7r508qz5fvkh"
+        },
+        {
+          "name": "Tote",
+          "url": "https://open.spotify.com/artist/4JvhKLSrtJy7jAWYaatd64"
+        },
+        {
+          "name": "Sofi B",
+          "url": "https://open.spotify.com/artist/7uS8g7IKd4BzQf67PJFCut"
+        },
+        {
+          "name": "Cumbia rocha",
+          "url": "https://open.spotify.com/artist/5Szju6DGR9hcbFOJeXCN0x"
+        }
+      ],
+      "date_added": "2026-11-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 112682,
+      "name": "Perd\u00f3name | ASADO EN LO DE TOTE #27",
+      "url": "https://open.spotify.com/track/1zRd6AAhIX7RmtyCsVzQk4"
+    },
+    {
+      "album": {
         "name": "Pero No Puedo Vol.2",
         "url": "https://open.spotify.com/album/3ne9oJyuZbSjtlACDhzc7L"
       },
@@ -6250,6 +6298,32 @@
       "duration_ms": 224946,
       "name": "Te extra\u00f1o",
       "url": "https://open.spotify.com/track/6SGsYigLaGXaCH2jM2JwlZ"
+    },
+    {
+      "album": {
+        "name": "Te Felicito",
+        "url": "https://open.spotify.com/album/5Jzv2xYXy31MuZHb9ILB1l"
+      },
+      "artists": [
+        {
+          "name": "Lauta",
+          "url": "https://open.spotify.com/artist/5ELYwDwhy00ecTXhfsKWci"
+        },
+        {
+          "name": "Nico Valdi",
+          "url": "https://open.spotify.com/artist/0uxYECT7XqHNccQAg5Uhe4"
+        },
+        {
+          "name": "Phontana",
+          "url": "https://open.spotify.com/artist/41BZwHjzWGfT4wsOP3yZOz"
+        }
+      ],
+      "date_added": "2026-11-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 147650,
+      "name": "Te Felicito",
+      "url": "https://open.spotify.com/track/6NfTlU9l7XA0Ak7QG20t3X"
     },
     {
       "album": {

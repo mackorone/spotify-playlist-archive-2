@@ -1,13 +1,65 @@
 {
   "description": "BIG ROOM NEVER DIES - big room - bigroom - bigroom songs - big room music - festival music - future rave songs - big room dance - party music - mainstage songs - mainstage music - rave songs - new edm - edm songs",
-  "num_followers": 211075,
+  "num_followers": 211062,
   "original_name": "Big Room 2026 \ud83d\udd25 Bigroom Mainstage",
   "owner": {
     "name": "Revealed Recordings",
     "url": "https://open.spotify.com/user/revealedrec"
   },
-  "snapshot_id": "AAAWxII3dgHLgq8Q+V/HHgg5Xmh5po65",
+  "snapshot_id": "AAAWyFe1vJUokFQ/WiP0Kotq+MB2obnr",
   "tracks": [
+    {
+      "added_at": "2026-11-26 15:39:37",
+      "album": {
+        "name": "Wasting Time",
+        "url": "https://open.spotify.com/album/3htEX6wPazlyRXnELQQoLx"
+      },
+      "artists": [
+        {
+          "name": "2ACES",
+          "url": "https://open.spotify.com/artist/5dHy2mDWei8fmwzE3fsrC3"
+        },
+        {
+          "name": "JUNIVERZ",
+          "url": "https://open.spotify.com/artist/3hs1Se23yBdjgBPWtJm24T"
+        }
+      ],
+      "duration_ms": 157969,
+      "name": "Wasting Time",
+      "url": "https://open.spotify.com/track/2lRe33FdzL2GQV3O3KFiAh"
+    },
+    {
+      "added_at": "2026-11-26 15:40:13",
+      "album": {
+        "name": "Omnes",
+        "url": "https://open.spotify.com/album/6255Uj1N4DmHXptc2aOrQJ"
+      },
+      "artists": [
+        {
+          "name": "Andrew Rayel",
+          "url": "https://open.spotify.com/artist/1UtBjqMZBAmqIPlDrKu7Tr"
+        }
+      ],
+      "duration_ms": 192000,
+      "name": "Omnes",
+      "url": "https://open.spotify.com/track/3B6ne5ZNNWHZ4JMfFy0SLs"
+    },
+    {
+      "added_at": "2026-11-26 15:42:18",
+      "album": {
+        "name": "Light",
+        "url": "https://open.spotify.com/album/4WPCxHB2XiYheWbFmj8m5X"
+      },
+      "artists": [
+        {
+          "name": "Matt Ice",
+          "url": "https://open.spotify.com/artist/08m37iZCXNDii26j1peJpE"
+        }
+      ],
+      "duration_ms": 189857,
+      "name": "Light",
+      "url": "https://open.spotify.com/track/0eZ1bxe4xOuPg4rs1GrIT7"
+    },
     {
       "added_at": "2026-11-20 11:28:46",
       "album": {
@@ -211,6 +263,22 @@
       "duration_ms": 172219,
       "name": "Free",
       "url": "https://open.spotify.com/track/4N594SbJdkSr9kYu8v4KGA"
+    },
+    {
+      "added_at": "2026-11-26 16:18:39",
+      "album": {
+        "name": "WOW",
+        "url": "https://open.spotify.com/album/6LvuevuoGy6Ehla8B2IQ7J"
+      },
+      "artists": [
+        {
+          "name": "Chester Young",
+          "url": "https://open.spotify.com/artist/3u45rXhQ0o9pUL24xlnf6e"
+        }
+      ],
+      "duration_ms": 160615,
+      "name": "WOW",
+      "url": "https://open.spotify.com/track/2xu86G3QckbVEouADGoKzl"
     },
     {
       "added_at": "2026-11-20 11:28:46",

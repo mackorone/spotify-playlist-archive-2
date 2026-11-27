@@ -996,7 +996,7 @@
       ],
       "date_added": "2026-11-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-27",
       "duration_ms": 287857,
       "name": "apple",
       "url": "https://open.spotify.com/track/7nvJKmP1RmWry4TwwARTYn"
@@ -3966,7 +3966,7 @@
       ],
       "date_added": "2026-11-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-27",
       "duration_ms": 188226,
       "name": "EPITAPH",
       "url": "https://open.spotify.com/track/0PU4ouHMxR2mvPLIh3rkTD"
@@ -6953,6 +6953,24 @@
     },
     {
       "album": {
+        "name": "Itsy Bitsy",
+        "url": "https://open.spotify.com/album/44V5OVOQ0zmbh1T1UYL6Bt"
+      },
+      "artists": [
+        {
+          "name": "jade yee-smith",
+          "url": "https://open.spotify.com/artist/2JffhI0mbTb7flHpwPgq3a"
+        }
+      ],
+      "date_added": "2026-11-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 205988,
+      "name": "Itsy Bitsy",
+      "url": "https://open.spotify.com/track/2rlzp4LgFSePAHPYhSLQqR"
+    },
+    {
+      "album": {
         "name": "SONS",
         "url": "https://open.spotify.com/album/6swcZeJGkihDlNt2y8pPEa"
       },
@@ -7976,7 +7994,7 @@
       ],
       "date_added": "2025-06-05",
       "date_added_asterisk": false,
-      "date_removed": "2026-11-13",
+      "date_removed": null,
       "duration_ms": 240906,
       "name": "Love Balloon",
       "url": "https://open.spotify.com/track/4XvO443Fegm0qj3FWjNFoI"
@@ -8802,7 +8820,7 @@
       ],
       "date_added": "2024-05-31",
       "date_added_asterisk": false,
-      "date_removed": "2026-11-20",
+      "date_removed": null,
       "duration_ms": 176196,
       "name": "Music On The Radio",
       "url": "https://open.spotify.com/track/0FoEQ5MUMwOrnQ4pWyrfrA"
@@ -10816,7 +10834,7 @@
       ],
       "date_added": "2026-11-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-27",
       "duration_ms": 201793,
       "name": "Rhythm is Dope",
       "url": "https://open.spotify.com/track/4yN5sB5yztWCeSc6WqGP4Z"
@@ -12422,7 +12440,7 @@
       ],
       "date_added": "2026-11-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-27",
       "duration_ms": 214493,
       "name": "Sunburnt St",
       "url": "https://open.spotify.com/track/1GcWZxhpLg0syUlfwS4wGW"
@@ -14668,6 +14686,24 @@
       "duration_ms": 176456,
       "name": "Where You Really Come From",
       "url": "https://open.spotify.com/track/0Oiwu7DlTKNZHnrI5muVTK"
+    },
+    {
+      "album": {
+        "name": "WHEREVER YOU ARE",
+        "url": "https://open.spotify.com/album/7glG41WAWuzc6kdm8uBrDt"
+      },
+      "artists": [
+        {
+          "name": "Chase Atlantic",
+          "url": "https://open.spotify.com/artist/7cYEt1pqMgXJdq00hAwVpT"
+        }
+      ],
+      "date_added": "2026-11-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 206466,
+      "name": "WHEREVER YOU ARE",
+      "url": "https://open.spotify.com/track/2iOKMCvIUuekNonIJHDDKi"
     },
     {
       "album": {

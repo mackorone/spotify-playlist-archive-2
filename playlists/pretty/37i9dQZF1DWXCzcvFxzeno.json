@@ -1,6 +1,6 @@
 {
   "description": "\ud83d\ude08 welcome to the rave \ud83d\ude08  Cover: Sara Landry, Alt8",
-  "num_followers": 563775,
+  "num_followers": 564106,
   "original_name": "Hard Techno",
   "owner": {
     "name": "Spotify",
@@ -555,6 +555,22 @@
     {
       "added_at": "2026-11-13 05:01:19",
       "album": {
+        "name": "Weltschmerz",
+        "url": "https://open.spotify.com/album/3YCwoebRDXZBEf5ZfnoNb3"
+      },
+      "artists": [
+        {
+          "name": "Klangkuenstler",
+          "url": "https://open.spotify.com/artist/6H77vD9YyhyxHBTkRpbMBk"
+        }
+      ],
+      "duration_ms": 384949,
+      "name": "Weltschmerz",
+      "url": "https://open.spotify.com/track/5dV8v9sGqh0qt4eGdoJzKg"
+    },
+    {
+      "added_at": "2026-11-13 05:01:19",
+      "album": {
         "name": "I Got Acid",
         "url": "https://open.spotify.com/album/7DqeTZTW7W1MSewzTKjnwR"
       },
@@ -571,22 +587,6 @@
       "duration_ms": 127586,
       "name": "I Got Acid",
       "url": "https://open.spotify.com/track/482SNF4FRJ5Ik8j2krjMEE"
-    },
-    {
-      "added_at": "2026-11-13 05:01:19",
-      "album": {
-        "name": "Weltschmerz",
-        "url": "https://open.spotify.com/album/3YCwoebRDXZBEf5ZfnoNb3"
-      },
-      "artists": [
-        {
-          "name": "Klangkuenstler",
-          "url": "https://open.spotify.com/artist/6H77vD9YyhyxHBTkRpbMBk"
-        }
-      ],
-      "duration_ms": 384949,
-      "name": "Weltschmerz",
-      "url": "https://open.spotify.com/track/5dV8v9sGqh0qt4eGdoJzKg"
     },
     {
       "added_at": "2026-11-13 05:01:19",
@@ -1023,22 +1023,18 @@
     {
       "added_at": "2026-11-13 05:01:19",
       "album": {
-        "name": "Pressure",
-        "url": "https://open.spotify.com/album/1RRaRpdxpCQzwhPPpK6bLq"
+        "name": "Let the Bass Kick",
+        "url": "https://open.spotify.com/album/1YE4DRmquv66glbyTpY2ul"
       },
       "artists": [
         {
-          "name": "Sara Landry",
-          "url": "https://open.spotify.com/artist/7eILArMiTFTQf8SEh5fFHK"
-        },
-        {
-          "name": "LEGZDINA",
-          "url": "https://open.spotify.com/artist/16pj4sabH3akPo4s0IUx9N"
+          "name": "Marie Vaunt",
+          "url": "https://open.spotify.com/artist/50KydUSYhBFGorhAgUcrL5"
         }
       ],
-      "duration_ms": 259023,
-      "name": "Pressure",
-      "url": "https://open.spotify.com/track/3LgA6sFAEZ30TqeTWmGDlV"
+      "duration_ms": 146100,
+      "name": "Let the Bass Kick",
+      "url": "https://open.spotify.com/track/7ASQWCYtKa2JD2oz9LWkA2"
     },
     {
       "added_at": "2026-11-13 05:01:19",
@@ -1063,46 +1059,38 @@
     {
       "added_at": "2026-11-13 05:01:19",
       "album": {
-        "name": "Let the Bass Kick",
-        "url": "https://open.spotify.com/album/1YE4DRmquv66glbyTpY2ul"
+        "name": "Pressure",
+        "url": "https://open.spotify.com/album/1RRaRpdxpCQzwhPPpK6bLq"
       },
       "artists": [
         {
-          "name": "Marie Vaunt",
-          "url": "https://open.spotify.com/artist/50KydUSYhBFGorhAgUcrL5"
+          "name": "Sara Landry",
+          "url": "https://open.spotify.com/artist/7eILArMiTFTQf8SEh5fFHK"
+        },
+        {
+          "name": "LEGZDINA",
+          "url": "https://open.spotify.com/artist/16pj4sabH3akPo4s0IUx9N"
         }
       ],
-      "duration_ms": 146100,
-      "name": "Let the Bass Kick",
-      "url": "https://open.spotify.com/track/7ASQWCYtKa2JD2oz9LWkA2"
+      "duration_ms": 259023,
+      "name": "Pressure",
+      "url": "https://open.spotify.com/track/3LgA6sFAEZ30TqeTWmGDlV"
     },
     {
       "added_at": "2026-11-13 05:01:19",
       "album": {
-        "name": "MINDCONTROLLER 2K26",
-        "url": "https://open.spotify.com/album/6bCW8FMSTndSVRbR46FOww"
+        "name": "Nobody EP",
+        "url": "https://open.spotify.com/album/6A10XLlVnPAbASx866mMr8"
       },
       "artists": [
         {
-          "name": "TNT",
-          "url": "https://open.spotify.com/artist/1CqOLQmjzVWXQTiIN5Wucs"
-        },
-        {
-          "name": "Ruffneck",
-          "url": "https://open.spotify.com/artist/4k7hlWQNcJiWSfjkr6g0mg"
-        },
-        {
-          "name": "Technoboy",
-          "url": "https://open.spotify.com/artist/37jL2LnGjAkadOCszr8v7C"
-        },
-        {
-          "name": "Tuneboy",
-          "url": "https://open.spotify.com/artist/3mZnhzeAyjpFhO3cIepzBr"
+          "name": "POLTERGST",
+          "url": "https://open.spotify.com/artist/0QlnfOIWscqfuWTcci7IwM"
         }
       ],
-      "duration_ms": 167119,
-      "name": "MINDCONTROLLER 2K26",
-      "url": "https://open.spotify.com/track/6mPN16xNQrhofQVjLUOZOf"
+      "duration_ms": 199966,
+      "name": "Without Me (Nobody)",
+      "url": "https://open.spotify.com/track/4Bht2REFx5AxM48HMEi5BQ"
     },
     {
       "added_at": "2026-11-13 05:01:19",
@@ -1139,22 +1127,6 @@
     {
       "added_at": "2026-11-13 05:01:19",
       "album": {
-        "name": "Nobody EP",
-        "url": "https://open.spotify.com/album/6A10XLlVnPAbASx866mMr8"
-      },
-      "artists": [
-        {
-          "name": "POLTERGST",
-          "url": "https://open.spotify.com/artist/0QlnfOIWscqfuWTcci7IwM"
-        }
-      ],
-      "duration_ms": 199966,
-      "name": "Without Me (Nobody)",
-      "url": "https://open.spotify.com/track/4Bht2REFx5AxM48HMEi5BQ"
-    },
-    {
-      "added_at": "2026-11-13 05:01:19",
-      "album": {
         "name": "DIE TONIGHT EP",
         "url": "https://open.spotify.com/album/6ctoVbtzXSqLZqwjW428Zg"
       },
@@ -1167,6 +1139,34 @@
       "duration_ms": 194509,
       "name": "Kummer",
       "url": "https://open.spotify.com/track/145D2Gzn5X1ScHZywCmWqM"
+    },
+    {
+      "added_at": "2026-11-13 05:01:19",
+      "album": {
+        "name": "MINDCONTROLLER 2K26",
+        "url": "https://open.spotify.com/album/6bCW8FMSTndSVRbR46FOww"
+      },
+      "artists": [
+        {
+          "name": "TNT",
+          "url": "https://open.spotify.com/artist/1CqOLQmjzVWXQTiIN5Wucs"
+        },
+        {
+          "name": "Ruffneck",
+          "url": "https://open.spotify.com/artist/4k7hlWQNcJiWSfjkr6g0mg"
+        },
+        {
+          "name": "Technoboy",
+          "url": "https://open.spotify.com/artist/37jL2LnGjAkadOCszr8v7C"
+        },
+        {
+          "name": "Tuneboy",
+          "url": "https://open.spotify.com/artist/3mZnhzeAyjpFhO3cIepzBr"
+        }
+      ],
+      "duration_ms": 167119,
+      "name": "MINDCONTROLLER 2K26",
+      "url": "https://open.spotify.com/track/6mPN16xNQrhofQVjLUOZOf"
     },
     {
       "added_at": "2026-11-13 05:01:19",
@@ -1259,22 +1259,6 @@
     {
       "added_at": "2026-11-13 05:01:19",
       "album": {
-        "name": "4 Da Ravers",
-        "url": "https://open.spotify.com/album/7rFjECStShUcE157PCp9z8"
-      },
-      "artists": [
-        {
-          "name": "Nicolas Julian",
-          "url": "https://open.spotify.com/artist/5Y1nFir8L9kJP7n1yZSeYb"
-        }
-      ],
-      "duration_ms": 153290,
-      "name": "4 Da Ravers",
-      "url": "https://open.spotify.com/track/4vgOQl4ldjh5JS4cysFHH7"
-    },
-    {
-      "added_at": "2026-11-13 05:01:19",
-      "album": {
         "name": "Rave 4 love",
         "url": "https://open.spotify.com/album/55Xq8cuPZ1qPTijcDm4qsU"
       },
@@ -1287,6 +1271,22 @@
       "duration_ms": 301627,
       "name": "Rave 4 love",
       "url": "https://open.spotify.com/track/4sGzJs8jikSDbnpN0vXsuO"
+    },
+    {
+      "added_at": "2026-11-13 05:01:19",
+      "album": {
+        "name": "4 Da Ravers",
+        "url": "https://open.spotify.com/album/7rFjECStShUcE157PCp9z8"
+      },
+      "artists": [
+        {
+          "name": "Nicolas Julian",
+          "url": "https://open.spotify.com/artist/5Y1nFir8L9kJP7n1yZSeYb"
+        }
+      ],
+      "duration_ms": 153290,
+      "name": "4 Da Ravers",
+      "url": "https://open.spotify.com/track/4vgOQl4ldjh5JS4cysFHH7"
     },
     {
       "added_at": "2026-11-13 05:01:19",
@@ -1539,26 +1539,6 @@
     {
       "added_at": "2026-11-13 05:01:19",
       "album": {
-        "name": "Check This Out",
-        "url": "https://open.spotify.com/album/3UjwWgBtFDygUwVeCqrH7s"
-      },
-      "artists": [
-        {
-          "name": "SLVL",
-          "url": "https://open.spotify.com/artist/2w2F0FNIB80MQPxICKbjqf"
-        },
-        {
-          "name": "Exproz",
-          "url": "https://open.spotify.com/artist/22jcDppDfbm4cqqUDzM8tU"
-        }
-      ],
-      "duration_ms": 156003,
-      "name": "Check This Out",
-      "url": "https://open.spotify.com/track/56A3AtbRJMMUu7o6N9qWIn"
-    },
-    {
-      "added_at": "2026-11-13 05:01:19",
-      "album": {
         "name": "Late At Night",
         "url": "https://open.spotify.com/album/0QlZatFyE1W9Mo9p1fMzfG"
       },
@@ -1575,6 +1555,46 @@
       "duration_ms": 156400,
       "name": "Late At Night",
       "url": "https://open.spotify.com/track/0sc94v4bi5XGSPSjjXK0Zh"
+    },
+    {
+      "added_at": "2026-11-13 05:01:19",
+      "album": {
+        "name": "Touch It (feat. Jazmine Johnson)",
+        "url": "https://open.spotify.com/album/3qc1yeZN15U01GMdq2eKGZ"
+      },
+      "artists": [
+        {
+          "name": "POLTERGST",
+          "url": "https://open.spotify.com/artist/0QlnfOIWscqfuWTcci7IwM"
+        },
+        {
+          "name": "Jazmine Johnson",
+          "url": "https://open.spotify.com/artist/31DGmB9yp1uMCkov630Ptz"
+        }
+      ],
+      "duration_ms": 142454,
+      "name": "Touch It (feat. Jazmine Johnson)",
+      "url": "https://open.spotify.com/track/74LWuJ28wzfUBCYxRWyd7i"
+    },
+    {
+      "added_at": "2026-11-13 05:01:19",
+      "album": {
+        "name": "Check This Out",
+        "url": "https://open.spotify.com/album/3UjwWgBtFDygUwVeCqrH7s"
+      },
+      "artists": [
+        {
+          "name": "SLVL",
+          "url": "https://open.spotify.com/artist/2w2F0FNIB80MQPxICKbjqf"
+        },
+        {
+          "name": "Exproz",
+          "url": "https://open.spotify.com/artist/22jcDppDfbm4cqqUDzM8tU"
+        }
+      ],
+      "duration_ms": 156003,
+      "name": "Check This Out",
+      "url": "https://open.spotify.com/track/56A3AtbRJMMUu7o6N9qWIn"
     },
     {
       "added_at": "2026-11-13 05:01:19",
@@ -1599,26 +1619,6 @@
       "duration_ms": 197600,
       "name": "One Reason",
       "url": "https://open.spotify.com/track/2NYA4tspSM9YuGMwY7KElC"
-    },
-    {
-      "added_at": "2026-11-13 05:01:19",
-      "album": {
-        "name": "Touch It (feat. Jazmine Johnson)",
-        "url": "https://open.spotify.com/album/3qc1yeZN15U01GMdq2eKGZ"
-      },
-      "artists": [
-        {
-          "name": "POLTERGST",
-          "url": "https://open.spotify.com/artist/0QlnfOIWscqfuWTcci7IwM"
-        },
-        {
-          "name": "Jazmine Johnson",
-          "url": "https://open.spotify.com/artist/31DGmB9yp1uMCkov630Ptz"
-        }
-      ],
-      "duration_ms": 142454,
-      "name": "Touch It (feat. Jazmine Johnson)",
-      "url": "https://open.spotify.com/track/74LWuJ28wzfUBCYxRWyd7i"
     },
     {
       "added_at": "2026-11-13 05:01:19",
@@ -1675,6 +1675,22 @@
     {
       "added_at": "2026-11-13 05:01:19",
       "album": {
+        "name": "I Wanna Go Bang",
+        "url": "https://open.spotify.com/album/4MBSs3JI4WMhx4lqqOOGg5"
+      },
+      "artists": [
+        {
+          "name": "NIKOLINA",
+          "url": "https://open.spotify.com/artist/3d0OOhNi5k69JBZ5BVV8bc"
+        }
+      ],
+      "duration_ms": 271153,
+      "name": "I Wanna Go Bang",
+      "url": "https://open.spotify.com/track/7cpQ1J9ODJBZPCJJttgCLR"
+    },
+    {
+      "added_at": "2026-11-13 05:01:19",
+      "album": {
         "name": "No Ex, No Next (The Best)",
         "url": "https://open.spotify.com/album/2zzr1eZ7w5WrFahj7DG28a"
       },
@@ -1719,22 +1735,6 @@
     {
       "added_at": "2026-11-13 05:01:19",
       "album": {
-        "name": "No Escape",
-        "url": "https://open.spotify.com/album/0pnDi9VBfDa51K9aHN9rAx"
-      },
-      "artists": [
-        {
-          "name": "AZYR",
-          "url": "https://open.spotify.com/artist/1Ujj9Jh1Z4tDJ4j6qGRml8"
-        }
-      ],
-      "duration_ms": 160522,
-      "name": "No Escape",
-      "url": "https://open.spotify.com/track/6e3F1pz262XJ9n74DArbt4"
-    },
-    {
-      "added_at": "2026-11-13 05:01:19",
-      "album": {
         "name": "Adagio For Strings",
         "url": "https://open.spotify.com/album/34mJXRnbnNsqSJ1gH2MB3O"
       },
@@ -1751,34 +1751,18 @@
     {
       "added_at": "2026-11-13 05:01:19",
       "album": {
-        "name": "I Wanna Go Bang",
-        "url": "https://open.spotify.com/album/4MBSs3JI4WMhx4lqqOOGg5"
+        "name": "No Escape",
+        "url": "https://open.spotify.com/album/0pnDi9VBfDa51K9aHN9rAx"
       },
       "artists": [
         {
-          "name": "NIKOLINA",
-          "url": "https://open.spotify.com/artist/3d0OOhNi5k69JBZ5BVV8bc"
+          "name": "AZYR",
+          "url": "https://open.spotify.com/artist/1Ujj9Jh1Z4tDJ4j6qGRml8"
         }
       ],
-      "duration_ms": 271153,
-      "name": "I Wanna Go Bang",
-      "url": "https://open.spotify.com/track/7cpQ1J9ODJBZPCJJttgCLR"
-    },
-    {
-      "added_at": "2026-11-13 05:01:19",
-      "album": {
-        "name": "Kann es sein\u2026 (dass Du dumm bist?)",
-        "url": "https://open.spotify.com/album/4bgZ38lWZNtjGNSrZWRStx"
-      },
-      "artists": [
-        {
-          "name": "Teknoclash",
-          "url": "https://open.spotify.com/artist/0Q900eSnku7mrRFfi1Eoyb"
-        }
-      ],
-      "duration_ms": 139500,
-      "name": "Kann es sein\u2026 (dass Du dumm bist?)",
-      "url": "https://open.spotify.com/track/1Zgcxf3HStFlE7i7vdNegw"
+      "duration_ms": 160522,
+      "name": "No Escape",
+      "url": "https://open.spotify.com/track/6e3F1pz262XJ9n74DArbt4"
     },
     {
       "added_at": "2026-11-13 05:01:19",
@@ -1795,6 +1779,22 @@
       "duration_ms": 238509,
       "name": "Medication",
       "url": "https://open.spotify.com/track/5xiIzjYM9C7zM40Q4jB6Wm"
+    },
+    {
+      "added_at": "2026-11-13 05:01:19",
+      "album": {
+        "name": "Kann es sein\u2026 (dass Du dumm bist?)",
+        "url": "https://open.spotify.com/album/4bgZ38lWZNtjGNSrZWRStx"
+      },
+      "artists": [
+        {
+          "name": "Teknoclash",
+          "url": "https://open.spotify.com/artist/0Q900eSnku7mrRFfi1Eoyb"
+        }
+      ],
+      "duration_ms": 139500,
+      "name": "Kann es sein\u2026 (dass Du dumm bist?)",
+      "url": "https://open.spotify.com/track/1Zgcxf3HStFlE7i7vdNegw"
     },
     {
       "added_at": "2026-11-13 05:01:19",
@@ -1867,22 +1867,22 @@
     {
       "added_at": "2026-11-13 05:01:19",
       "album": {
-        "name": "Weisse Nase",
-        "url": "https://open.spotify.com/album/3SJNpachDVJrceoODWyxMc"
+        "name": "LSD",
+        "url": "https://open.spotify.com/album/5B9AGDTYMgEctDEsaCsJKo"
       },
       "artists": [
         {
-          "name": "Outsiders",
-          "url": "https://open.spotify.com/artist/0aKXalHKVzkLJ6aeUY3HMf"
+          "name": "DJSM",
+          "url": "https://open.spotify.com/artist/13qjHQyFpjR48hBIbPrwMx"
         },
         {
-          "name": "LNY TNZ",
-          "url": "https://open.spotify.com/artist/1x0ScxgiyFRQDKT4VwcLHa"
+          "name": "CERES",
+          "url": "https://open.spotify.com/artist/32kPQzj1rk4nnGIIJpIUic"
         }
       ],
-      "duration_ms": 183000,
-      "name": "Weisse Nase",
-      "url": "https://open.spotify.com/track/67yvRQRFMWcpI4er0um39H"
+      "duration_ms": 156169,
+      "name": "LSD",
+      "url": "https://open.spotify.com/track/5HPpRmPHaucvl8UTwMAXx5"
     },
     {
       "added_at": "2026-11-13 05:01:19",

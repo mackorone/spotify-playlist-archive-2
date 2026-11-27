@@ -1,13 +1,49 @@
 {
-  "description": "Tomorrow's <a href=\"spotify:playlist:37i9dQZF1DX4dyzvuaRJ0n\">dance hits</a>, featuring Eli Brown",
-  "num_followers": 1803228,
+  "description": "Tomorrow's <a href=\"spotify:playlist:37i9dQZF1DX4dyzvuaRJ0n\">dance hits</a>, featuring Hannah Laing",
+  "num_followers": 1803034,
   "original_name": "Dance Rising",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAA4ZIQX7Rs0B37gnuUqz3UjPKL71",
+  "snapshot_id": "AAAAALz/zvMpN/t0/VjGpsB+pvRm0bNe",
   "tracks": [
+    {
+      "added_at": "2026-11-27 05:00:38",
+      "album": {
+        "name": "I Need A Breather",
+        "url": "https://open.spotify.com/album/4qrXI89q42Ulk1bV6L17CN"
+      },
+      "artists": [
+        {
+          "name": "Hannah Laing",
+          "url": "https://open.spotify.com/artist/1QEd635szhierW6gzRiS1o"
+        },
+        {
+          "name": "rhys from the sticks",
+          "url": "https://open.spotify.com/artist/4tmqN5uP0Aj50ylHgfwvVa"
+        }
+      ],
+      "duration_ms": 180106,
+      "name": "I Need A Breather",
+      "url": "https://open.spotify.com/track/0hbrfNfj6RkVOktOzBGRwb"
+    },
+    {
+      "added_at": "2026-11-20 20:08:24",
+      "album": {
+        "name": "Lost (In All The Lights)",
+        "url": "https://open.spotify.com/album/354PlL7RC6QKmolEblejz6"
+      },
+      "artists": [
+        {
+          "name": "Cassian",
+          "url": "https://open.spotify.com/artist/1ChtRJ3f4rbv4vtz87i6CD"
+        }
+      ],
+      "duration_ms": 196615,
+      "name": "Lost (In All The Lights)",
+      "url": "https://open.spotify.com/track/7ePlnZqXWbaryOgABGbhrv"
+    },
     {
       "added_at": "2026-11-20 20:08:24",
       "album": {
@@ -47,22 +83,6 @@
       "duration_ms": 172421,
       "name": "Do It Again",
       "url": "https://open.spotify.com/track/1d9Cd2ZDTo1YWrWrjzoFCc"
-    },
-    {
-      "added_at": "2026-11-20 20:08:24",
-      "album": {
-        "name": "Lost (In All The Lights)",
-        "url": "https://open.spotify.com/album/354PlL7RC6QKmolEblejz6"
-      },
-      "artists": [
-        {
-          "name": "Cassian",
-          "url": "https://open.spotify.com/artist/1ChtRJ3f4rbv4vtz87i6CD"
-        }
-      ],
-      "duration_ms": 196615,
-      "name": "Lost (In All The Lights)",
-      "url": "https://open.spotify.com/track/7ePlnZqXWbaryOgABGbhrv"
     },
     {
       "added_at": "2026-11-20 20:08:24",
@@ -781,6 +801,38 @@
       "url": "https://open.spotify.com/track/1TJ0KhLwrbdgHg2ioxfeg9"
     },
     {
+      "added_at": "2026-11-27 05:00:38",
+      "album": {
+        "name": "ALL NIGHT LONG",
+        "url": "https://open.spotify.com/album/4MneUTMF2mKDGQBszs642g"
+      },
+      "artists": [
+        {
+          "name": "CVNTS",
+          "url": "https://open.spotify.com/artist/6OOF9nSZbNw4etK0InqtEZ"
+        }
+      ],
+      "duration_ms": 233600,
+      "name": "ALL NIGHT LONG",
+      "url": "https://open.spotify.com/track/2Pfi1uCvcG4wIk6Q8eHlF5"
+    },
+    {
+      "added_at": "2026-11-27 05:00:38",
+      "album": {
+        "name": "afraid to feel",
+        "url": "https://open.spotify.com/album/3fj2MlJ9UtzzR8uD6BKcrC"
+      },
+      "artists": [
+        {
+          "name": "KTmelodies",
+          "url": "https://open.spotify.com/artist/10IVkptwI3f1wi8XYDl2hd"
+        }
+      ],
+      "duration_ms": 131428,
+      "name": "i havent heard from u in days",
+      "url": "https://open.spotify.com/track/7lk5RWIzOX6mFU8EVLaWDy"
+    },
+    {
       "added_at": "2026-10-30 04:00:58",
       "album": {
         "name": "HARDCORE HEALING",
@@ -855,22 +907,6 @@
       "duration_ms": 203637,
       "name": "Modern Dystopia",
       "url": "https://open.spotify.com/track/6IqHpduxivldFZLl346XkU"
-    },
-    {
-      "added_at": "2026-11-06 05:01:47",
-      "album": {
-        "name": "ddr",
-        "url": "https://open.spotify.com/album/3k8LisWWjdypicBd3MVzqi"
-      },
-      "artists": [
-        {
-          "name": "Yaeji",
-          "url": "https://open.spotify.com/artist/2RqrWplViWHSGLzlhmDcbt"
-        }
-      ],
-      "duration_ms": 277973,
-      "name": "ddr",
-      "url": "https://open.spotify.com/track/6D3RkpuqTO4DyFvrN4VfPO"
     },
     {
       "added_at": "2026-11-13 05:00:32",
@@ -967,22 +1003,6 @@
       "duration_ms": 189891,
       "name": "Rollercoaster",
       "url": "https://open.spotify.com/track/5Alk9qfDLzHZlsWimnJble"
-    },
-    {
-      "added_at": "2026-10-16 04:00:57",
-      "album": {
-        "name": "NOTHING'S FAKE",
-        "url": "https://open.spotify.com/album/1FwBcitH6TgFi3MpgO4WNW"
-      },
-      "artists": [
-        {
-          "name": "Jersey",
-          "url": "https://open.spotify.com/artist/7C4JBZtbD3cLEOufhgSHzQ"
-        }
-      ],
-      "duration_ms": 167746,
-      "name": "Fake or true",
-      "url": "https://open.spotify.com/track/5DjhmpY6Trw2OQs7xip2l7"
     },
     {
       "added_at": "2026-10-23 04:00:54",
@@ -1455,22 +1475,6 @@
       "duration_ms": 170909,
       "name": "Body",
       "url": "https://open.spotify.com/track/4AaIxGkrWS5rQeDoE9k1Hx"
-    },
-    {
-      "added_at": "2026-09-11 04:01:31",
-      "album": {
-        "name": "How Ya Feelin\u2019",
-        "url": "https://open.spotify.com/album/0XdbLaKmYsKg0AmDLWo2yV"
-      },
-      "artists": [
-        {
-          "name": "L.P. Rhythm",
-          "url": "https://open.spotify.com/artist/3K5qBiy5EHwb270817Cy6e"
-        }
-      ],
-      "duration_ms": 156792,
-      "name": "How Ya Feelin\u2019",
-      "url": "https://open.spotify.com/track/6HTDX4qgjY6usYjtx18eWf"
     }
   ],
   "unique_name": "Dance Rising",

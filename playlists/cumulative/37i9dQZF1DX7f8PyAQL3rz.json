@@ -1700,7 +1700,7 @@
       ],
       "date_added": "2026-05-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-27",
       "duration_ms": 354461,
       "name": "AQUI \u00c9 BRASIL",
       "url": "https://open.spotify.com/track/78FNzEE7jtP3Lf5niaxAfH"
@@ -2518,7 +2518,7 @@
       ],
       "date_added": "2026-06-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-27",
       "duration_ms": 172779,
       "name": "BARRIL DOBRADO - Spotify Sessions",
       "url": "https://open.spotify.com/track/5gUDjykqXzVEXX3VSlXjCy"
@@ -2612,7 +2612,7 @@
       ],
       "date_added": "2026-06-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-27",
       "duration_ms": 330491,
       "name": "Beck e Sexo",
       "url": "https://open.spotify.com/track/6qpeFSXG1J8xAVXUJVoNh5"
@@ -2834,7 +2834,7 @@
       ],
       "date_added": "2026-03-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-27",
       "duration_ms": 206017,
       "name": "Bolad\u00e3o Escutando Orochi",
       "url": "https://open.spotify.com/track/7DqwvFJzN2I3LpRnvU24td"
@@ -3202,6 +3202,32 @@
       "duration_ms": 144125,
       "name": "Cada Segundo",
       "url": "https://open.spotify.com/track/4hjmYQiICe4ANizZa01zLm"
+    },
+    {
+      "album": {
+        "name": "Calcinha Rosa",
+        "url": "https://open.spotify.com/album/47GpSrqEt8U6J57ompr21l"
+      },
+      "artists": [
+        {
+          "name": "On\u00e3",
+          "url": "https://open.spotify.com/artist/44phALa8kYqCc9vHuQyuRl"
+        },
+        {
+          "name": "adepe",
+          "url": "https://open.spotify.com/artist/0LD74V3G95mzAquYtgoh4u"
+        },
+        {
+          "name": "CARTE",
+          "url": "https://open.spotify.com/artist/10lZ3MatShsQGTGHguEA89"
+        }
+      ],
+      "date_added": "2026-11-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 183779,
+      "name": "Calcinha Rosa",
+      "url": "https://open.spotify.com/track/2dJov7FIQJTUpvdietFVCu"
     },
     {
       "album": {
@@ -7529,6 +7555,36 @@
     },
     {
       "album": {
+        "name": "Frequ\u00eancia Noturna",
+        "url": "https://open.spotify.com/album/1IwdedKR6KUaR2cpIAxoa8"
+      },
+      "artists": [
+        {
+          "name": "Mene",
+          "url": "https://open.spotify.com/artist/2l9yzruZbtkvgzkfnwWKaW"
+        },
+        {
+          "name": "Luccas Carlos",
+          "url": "https://open.spotify.com/artist/5WFFFHVqeVk5tLuYh2KjQy"
+        },
+        {
+          "name": "Yuri Redicopa",
+          "url": "https://open.spotify.com/artist/0pVJXCGsBydS7rq0R4w4hm"
+        },
+        {
+          "name": "Prod Gloto",
+          "url": "https://open.spotify.com/artist/2yL1Xd2kQUfjIROOF73YRP"
+        }
+      ],
+      "date_added": "2026-11-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 221538,
+      "name": "FREQU\u00caNCIA",
+      "url": "https://open.spotify.com/track/3yEMsxcXJrKGJMcYxvKQUE"
+    },
+    {
+      "album": {
         "name": "O S\u00e1bio",
         "url": "https://open.spotify.com/album/6aONODz5AYfzrNESWC9n4W"
       },
@@ -9984,6 +10040,44 @@
       "duration_ms": 194400,
       "name": "Mais Um Voo",
       "url": "https://open.spotify.com/track/39uMV1Ix79vlMNssVxACuU"
+    },
+    {
+      "album": {
+        "name": "Para Todas do Job, Vol. 2",
+        "url": "https://open.spotify.com/album/37s69bZo0PJKx5nIl1fa7i"
+      },
+      "artists": [
+        {
+          "name": "Orochi",
+          "url": "https://open.spotify.com/artist/3rfM2cGqF6DB0kUyytMkXx"
+        },
+        {
+          "name": "MC GP",
+          "url": "https://open.spotify.com/artist/5s27i7oqhNWIcE4HeoVdq0"
+        },
+        {
+          "name": "DU'L",
+          "url": "https://open.spotify.com/artist/4bJqqUCbQmRxziUoxUz5mS"
+        },
+        {
+          "name": "Portugal No Beat",
+          "url": "https://open.spotify.com/artist/71LRKKvAjoc6LyNmob269Q"
+        },
+        {
+          "name": "Galdino",
+          "url": "https://open.spotify.com/artist/0WvTL8PecsD3VxRGuHdSxj"
+        },
+        {
+          "name": "TkN",
+          "url": "https://open.spotify.com/artist/3SB4jbHhsv6NQTh7ZT5GzS"
+        }
+      ],
+      "date_added": "2026-11-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 143283,
+      "name": "Makoto",
+      "url": "https://open.spotify.com/track/4puZqkTrVMOw0F1e6hEqAB"
     },
     {
       "album": {
@@ -13123,6 +13217,32 @@
     },
     {
       "album": {
+        "name": "N\u00d3S ERA DURO 2",
+        "url": "https://open.spotify.com/album/3PMzK5t6EmgpKZQiJYhZKw"
+      },
+      "artists": [
+        {
+          "name": "Chefin",
+          "url": "https://open.spotify.com/artist/68PYmgkbRP1qZnEWOry7sB"
+        },
+        {
+          "name": "LB \u00danico",
+          "url": "https://open.spotify.com/artist/7w1eimo0NMZhuwNZTf4MHY"
+        },
+        {
+          "name": "Doid\u00e3o Beats",
+          "url": "https://open.spotify.com/artist/1SY2NQQLliQAXoi0YtGZQm"
+        }
+      ],
+      "date_added": "2026-11-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 181714,
+      "name": "N\u00d3S ERA DURO 2",
+      "url": "https://open.spotify.com/track/19y65LZOi0L7ZtOxSCfaHc"
+    },
+    {
+      "album": {
         "name": "\u00c9 Quem?",
         "url": "https://open.spotify.com/album/2dgLoYt3odmlfjfQYXlKhL"
       },
@@ -14108,7 +14228,7 @@
       ],
       "date_added": "2026-04-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-27",
       "duration_ms": 210000,
       "name": "Particular",
       "url": "https://open.spotify.com/track/725qKkD5G0bD4D0uhzzhRT"
@@ -15512,7 +15632,7 @@
       ],
       "date_added": "2026-05-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-27",
       "duration_ms": 196535,
       "name": "pros menor da nova",
       "url": "https://open.spotify.com/track/4K8jKvRCwZcn6FXRJd9T3C"
@@ -19641,6 +19761,40 @@
     },
     {
       "album": {
+        "name": "T\u00e1 bom",
+        "url": "https://open.spotify.com/album/2xwIxDkdcbGGPA0Nlngj2f"
+      },
+      "artists": [
+        {
+          "name": "Ruas Mc",
+          "url": "https://open.spotify.com/artist/2GPQXYOzl0FJqKbkBL7Se5"
+        },
+        {
+          "name": "Thalin",
+          "url": "https://open.spotify.com/artist/5dTZiJpPZA6dvt0KWhi5Yd"
+        },
+        {
+          "name": "SYMSESH",
+          "url": "https://open.spotify.com/artist/2HSd4mxyhiYrKnMkluyjV4"
+        },
+        {
+          "name": "Tapsounds",
+          "url": "https://open.spotify.com/artist/2IOI9UdynLXCcb4whAiJsO"
+        },
+        {
+          "name": "Damarcus",
+          "url": "https://open.spotify.com/artist/1wv6AJd7XarhSVOIxRhWnc"
+        }
+      ],
+      "date_added": "2026-11-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 142006,
+      "name": "T\u00e1 bom",
+      "url": "https://open.spotify.com/track/4qH5FS3201ewQxHBlQCeOl"
+    },
+    {
+      "album": {
         "name": "Levada do 2T",
         "url": "https://open.spotify.com/album/4tFxVrZtS65f6HPrp2owkW"
       },
@@ -20254,7 +20408,7 @@
       ],
       "date_added": "2026-10-13",
       "date_added_asterisk": false,
-      "date_removed": "2026-11-25",
+      "date_removed": null,
       "duration_ms": 147709,
       "name": "Vida de Artista",
       "url": "https://open.spotify.com/track/2w42bB8uvyi59WwBnxEza0"

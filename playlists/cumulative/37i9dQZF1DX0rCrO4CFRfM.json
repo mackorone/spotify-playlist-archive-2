@@ -308,7 +308,7 @@
       ],
       "date_added": "2022-06-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-27",
       "duration_ms": 220239,
       "name": "Bad Life - acoustic",
       "url": "https://open.spotify.com/track/5DwJKJ3Gg5UlzsTMpYXkwT"
@@ -550,6 +550,24 @@
       "duration_ms": 246893,
       "name": "Cemetery - Acoustic",
       "url": "https://open.spotify.com/track/1nwHMlXVUgkwASnVTKTgGr"
+    },
+    {
+      "album": {
+        "name": "Mein",
+        "url": "https://open.spotify.com/album/4HkdydwW1OA4s9gZKtZFOS"
+      },
+      "artists": [
+        {
+          "name": "Deftones",
+          "url": "https://open.spotify.com/artist/6Ghvu1VvMGScGpOUJBAHNH"
+        }
+      ],
+      "date_added": "2026-04-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 304760,
+      "name": "Cherry Waves - Acoustic",
+      "url": "https://open.spotify.com/track/62x1GuaBigIZyCuvDfDYyA"
     },
     {
       "album": {

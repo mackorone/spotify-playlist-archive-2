@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-03-24",
-  "description": "Lan\u00e7amentos e novos nomes do trap nacional. Foto: LAI$ROSA, Duquesa",
+  "description": "Lan\u00e7amentos e novos nomes do trap nacional. Foto: Massaru",
   "name": "Dose Trap",
   "tracks": [
     {
@@ -7672,7 +7672,7 @@
       ],
       "date_added": "2026-01-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-27",
       "duration_ms": 140413,
       "name": "CAPACIDADE",
       "url": "https://open.spotify.com/track/7xLjxewtVAAuhCxEtdYHED"
@@ -16789,6 +16789,32 @@
     },
     {
       "album": {
+        "name": "Falha na Matrix",
+        "url": "https://open.spotify.com/album/3HWNciMZjYbnQykskyFKKq"
+      },
+      "artists": [
+        {
+          "name": "Druhh e Drehh",
+          "url": "https://open.spotify.com/artist/5ubDYnubwiewGEI6JPrmMf"
+        },
+        {
+          "name": "MC Caverinha",
+          "url": "https://open.spotify.com/artist/7tojcuXcZ7eBlQjbAc65Ee"
+        },
+        {
+          "name": "Real Bege",
+          "url": "https://open.spotify.com/artist/26L8m5uIaOJCe0RgMMX3RP"
+        }
+      ],
+      "date_added": "2026-11-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 127058,
+      "name": "Falha na Matrix",
+      "url": "https://open.spotify.com/track/736LjVTp95U8sjC83MswBB"
+    },
+    {
+      "album": {
         "name": "Fall",
         "url": "https://open.spotify.com/album/5SdI9pA2acEMiAaQC1ClHf"
       },
@@ -20662,7 +20688,7 @@
       ],
       "date_added": "2026-07-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-27",
       "duration_ms": 184000,
       "name": "Ho'oponopono",
       "url": "https://open.spotify.com/track/6PGirhaLGQWPAgm4MyxFU1"
@@ -40035,6 +40061,32 @@
     },
     {
       "album": {
+        "name": "Majin, Vol. II",
+        "url": "https://open.spotify.com/album/6FhOZRTWJAAR5YG7phMkc1"
+      },
+      "artists": [
+        {
+          "name": "Massaru",
+          "url": "https://open.spotify.com/artist/6NPvzQnxY7WwRMoN2qVBHU"
+        },
+        {
+          "name": "LuzzzBoy",
+          "url": "https://open.spotify.com/artist/0SmGxMtC4jdgMQEYTKOwnF"
+        },
+        {
+          "name": "EF",
+          "url": "https://open.spotify.com/artist/31zD0TKiTJ0OlcW3I6JI27"
+        }
+      ],
+      "date_added": "2026-11-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 127200,
+      "name": "Sim Ou N\u00e3o III",
+      "url": "https://open.spotify.com/track/5SuERIvXTQQ9zq7RTl2tz0"
+    },
+    {
+      "album": {
         "name": "Sinal de Gang",
         "url": "https://open.spotify.com/album/125MxZj4cbqzXxfIGAPugQ"
       },
@@ -44448,7 +44500,7 @@
       ],
       "date_added": "2026-08-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-27",
       "duration_ms": 165429,
       "name": "T\u00f4 em Salvador",
       "url": "https://open.spotify.com/track/6em5DH8xg8KHiNAoA9HHf1"
@@ -45996,7 +46048,7 @@
       ],
       "date_added": "2026-07-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-27",
       "duration_ms": 124444,
       "name": "Voc\u00ea Que \u00c9 Foda",
       "url": "https://open.spotify.com/track/6XgXLL1qcZkS4aQaWvGW5s"
@@ -47274,6 +47326,24 @@
       "duration_ms": 142105,
       "name": "\u00c9 S\u00f3 Um Jogo",
       "url": "https://open.spotify.com/track/63GdBCUANBwZlXqFUW89Yz"
+    },
+    {
+      "album": {
+        "name": "7 PECADOS",
+        "url": "https://open.spotify.com/album/4aNhkwpvQwZ8r5qKuyk1fl"
+      },
+      "artists": [
+        {
+          "name": "Choji",
+          "url": "https://open.spotify.com/artist/2gx1zKYcIAUboisufcHkjB"
+        }
+      ],
+      "date_added": "2026-11-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 172000,
+      "name": "\u00c9 T\u00c3O BOM",
+      "url": "https://open.spotify.com/track/75h34cb6y8nbKpuYLVIEEO"
     },
     {
       "album": {

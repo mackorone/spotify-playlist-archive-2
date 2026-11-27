@@ -143,6 +143,28 @@
     },
     {
       "album": {
+        "name": "Close 2 Me (salute's infinite passion remix)",
+        "url": "https://open.spotify.com/album/25BoMJUJgmojxOO2clvamC"
+      },
+      "artists": [
+        {
+          "name": "Rochelle Jordan",
+          "url": "https://open.spotify.com/artist/3MM3uKNdJbvefUael12dl3"
+        },
+        {
+          "name": "salute",
+          "url": "https://open.spotify.com/artist/1np8xozf7ATJZDi9JX8Dx5"
+        }
+      ],
+      "date_added": "2026-11-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 292160,
+      "name": "Close 2 Me - salute's infinite passion remix",
+      "url": "https://open.spotify.com/track/2BSRnmebXig2VIaqjSF2gA"
+    },
+    {
+      "album": {
         "name": "Play With The Changes",
         "url": "https://open.spotify.com/album/7DF9gG0kP3noP30oOkErQW"
       },
@@ -790,7 +812,7 @@
       ],
       "date_added": "2026-06-16",
       "date_added_asterisk": false,
-      "date_removed": "2026-11-24",
+      "date_removed": null,
       "duration_ms": 222344,
       "name": "Slow",
       "url": "https://open.spotify.com/track/19F8OeoZrLMg1O2X3KwyE4"

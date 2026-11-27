@@ -1,13 +1,85 @@
 {
   "description": "A laid-back trip in the folk scene. Cover: Devon Gilfillian, Allison Russell",
-  "num_followers": 165624,
+  "num_followers": 165609,
   "original_name": "Folk & Friends",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAFezZu1rnbE//t/TffUqWMSzwtqw",
+  "snapshot_id": "AAAAAGhxL6jUgprdbT0uvurlW2nZYM11",
   "tracks": [
+    {
+      "added_at": "2026-11-27 05:03:01",
+      "album": {
+        "name": "The Wind/Goodnight Receiver",
+        "url": "https://open.spotify.com/album/7fHByOsmfO8VTG9KodoSvd"
+      },
+      "artists": [
+        {
+          "name": "Burs",
+          "url": "https://open.spotify.com/artist/32OxhkemVHu2MT7L2DsoGX"
+        }
+      ],
+      "duration_ms": 195343,
+      "name": "The Wind",
+      "url": "https://open.spotify.com/track/0yuWVv5Tfec7us9w2FW2nj"
+    },
+    {
+      "added_at": "2026-11-27 05:03:01",
+      "album": {
+        "name": "Whole Life",
+        "url": "https://open.spotify.com/album/474Lymr5Z6E2vlCAcazKLv"
+      },
+      "artists": [
+        {
+          "name": "Helena Deland",
+          "url": "https://open.spotify.com/artist/0BJeP79i5wKgCqsEEiQ7G0"
+        }
+      ],
+      "duration_ms": 138446,
+      "name": "Whole Life",
+      "url": "https://open.spotify.com/track/42h8a36oajv2baQaBkEbtM"
+    },
+    {
+      "added_at": "2026-11-27 05:03:01",
+      "album": {
+        "name": "Hard to Say",
+        "url": "https://open.spotify.com/album/4ago2VLTaqCykxCSJx88Jg"
+      },
+      "artists": [
+        {
+          "name": "The Pairs",
+          "url": "https://open.spotify.com/artist/0lHbro7ngdrxRknqRzR9E9"
+        }
+      ],
+      "duration_ms": 163730,
+      "name": "Hard to Say",
+      "url": "https://open.spotify.com/track/3b5buV5Z6ftTAb4ncHBMvT"
+    },
+    {
+      "added_at": "2026-11-27 05:03:01",
+      "album": {
+        "name": "Black Magic",
+        "url": "https://open.spotify.com/album/6hi4PpWER2tBbTCzQJPkJM"
+      },
+      "artists": [
+        {
+          "name": "Good Wild Gods",
+          "url": "https://open.spotify.com/artist/6XY9ZdPBtDFSHv4bRUW1E3"
+        },
+        {
+          "name": "Old Sea Brigade",
+          "url": "https://open.spotify.com/artist/6vUNwmljZAcn7tNtUoxG45"
+        },
+        {
+          "name": "Luke Sital-Singh",
+          "url": "https://open.spotify.com/artist/3Lw97gGh8bp1MftsYmwJHG"
+        }
+      ],
+      "duration_ms": 210026,
+      "name": "Black Magic",
+      "url": "https://open.spotify.com/track/6X5YclGknPL4zxirSAcxWQ"
+    },
     {
       "added_at": "2026-11-20 05:03:16",
       "album": {
@@ -27,6 +99,122 @@
       "duration_ms": 302301,
       "name": "Glad To Be Here (Feat. Allison Russell)",
       "url": "https://open.spotify.com/track/4fJbPQoZlW04aw9r2wCP2H"
+    },
+    {
+      "added_at": "2026-11-27 05:03:01",
+      "album": {
+        "name": "Given to the Night",
+        "url": "https://open.spotify.com/album/6FHAfylmNrnSkC5M19aqia"
+      },
+      "artists": [
+        {
+          "name": "Purple Pilgrims",
+          "url": "https://open.spotify.com/artist/10jJPAsjoKNz6T9P1M5lJ7"
+        }
+      ],
+      "duration_ms": 237222,
+      "name": "Echo",
+      "url": "https://open.spotify.com/track/5qpcbaU2lqYwbXgthj19by"
+    },
+    {
+      "added_at": "2026-11-27 05:03:01",
+      "album": {
+        "name": "Harbour",
+        "url": "https://open.spotify.com/album/3cLJ88RtJZybY3egooX9wq"
+      },
+      "artists": [
+        {
+          "name": "Jon Bryant",
+          "url": "https://open.spotify.com/artist/2gzH4rGNFJeNg13yv2uI4L"
+        }
+      ],
+      "duration_ms": 178480,
+      "name": "Harbour",
+      "url": "https://open.spotify.com/track/7yLbjJmGFZ9je1Lbz9ausL"
+    },
+    {
+      "added_at": "2026-11-27 05:03:01",
+      "album": {
+        "name": "ready or not",
+        "url": "https://open.spotify.com/album/7kTqE5jW9nOygE1DljVvHi"
+      },
+      "artists": [
+        {
+          "name": "lindsay",
+          "url": "https://open.spotify.com/artist/5rar25ejTh6Z3bZ2MhiAfS"
+        },
+        {
+          "name": "LANKS",
+          "url": "https://open.spotify.com/artist/6f5yObGSpFj9eJL55GBzrb"
+        }
+      ],
+      "duration_ms": 182893,
+      "name": "ready or not",
+      "url": "https://open.spotify.com/track/2nvjMISiChF8ihTNpXFkpC"
+    },
+    {
+      "added_at": "2026-11-27 05:03:01",
+      "album": {
+        "name": "Emily",
+        "url": "https://open.spotify.com/album/1N6fxe340kxVBkDVrnVbDU"
+      },
+      "artists": [
+        {
+          "name": "runner",
+          "url": "https://open.spotify.com/artist/7fNM2BV2KGhxtpQ6mN9Jws"
+        }
+      ],
+      "duration_ms": 219573,
+      "name": "Emily",
+      "url": "https://open.spotify.com/track/0DyZFzScH63SZslBq4PWxl"
+    },
+    {
+      "added_at": "2026-11-27 05:03:01",
+      "album": {
+        "name": "Spain Song",
+        "url": "https://open.spotify.com/album/7HTjFUkfQdxPqOHEeMqpqi"
+      },
+      "artists": [
+        {
+          "name": "claire my flair",
+          "url": "https://open.spotify.com/artist/0YJlDaNrY5A0if0WeHF1uJ"
+        }
+      ],
+      "duration_ms": 271413,
+      "name": "Spain Song",
+      "url": "https://open.spotify.com/track/2DfjNp0HzEim8lCIv5uaG1"
+    },
+    {
+      "added_at": "2026-11-27 05:03:01",
+      "album": {
+        "name": "Dragon",
+        "url": "https://open.spotify.com/album/154yRv2QeOb2et58jC16yZ"
+      },
+      "artists": [
+        {
+          "name": "Dakota Cooney",
+          "url": "https://open.spotify.com/artist/1AH6Lf87LxLVTGlFVxeQwk"
+        }
+      ],
+      "duration_ms": 245986,
+      "name": "Dragon",
+      "url": "https://open.spotify.com/track/6VluYtktIg5WQ0s1KDTTig"
+    },
+    {
+      "added_at": "2026-11-27 05:03:01",
+      "album": {
+        "name": "The Mighty Eeny Meeny",
+        "url": "https://open.spotify.com/album/2d8zJdYWmycKGpXT9RHLh4"
+      },
+      "artists": [
+        {
+          "name": "Jason Collett",
+          "url": "https://open.spotify.com/artist/4uuXjSga3HgpAETXd0UpxW"
+        }
+      ],
+      "duration_ms": 123480,
+      "name": "The Mighty Eeny Meeny",
+      "url": "https://open.spotify.com/track/0SBX5w0VFcl0W4hQW7eKhU"
     },
     {
       "added_at": "2026-11-20 05:03:16",
@@ -1875,22 +2063,6 @@
     {
       "added_at": "2026-11-20 05:03:16",
       "album": {
-        "name": "Susanna",
-        "url": "https://open.spotify.com/album/0iaaVUJjeG8kLUC3G4NOoG"
-      },
-      "artists": [
-        {
-          "name": "Taylor Ashton",
-          "url": "https://open.spotify.com/artist/53t38sKooUEyyENANtticX"
-        }
-      ],
-      "duration_ms": 173556,
-      "name": "Susanna",
-      "url": "https://open.spotify.com/track/1zI8YZggqXxpL9eKyOZEUz"
-    },
-    {
-      "added_at": "2026-11-20 05:03:16",
-      "album": {
         "name": "Find The Time",
         "url": "https://open.spotify.com/album/4FfMFGP4uALsnwIdPAJBGa"
       },
@@ -1983,54 +2155,6 @@
       "duration_ms": 296192,
       "name": "Martha Sways - Spotify Singles",
       "url": "https://open.spotify.com/track/0o96BRVCx7wR4NtUHsvbCN"
-    },
-    {
-      "added_at": "2026-11-20 05:03:16",
-      "album": {
-        "name": "Silly Things",
-        "url": "https://open.spotify.com/album/26ui1cmDO96YeYeA07LXFT"
-      },
-      "artists": [
-        {
-          "name": "Stephen Ingram",
-          "url": "https://open.spotify.com/artist/2tA0GB4KgdyHEimZBcacXW"
-        }
-      ],
-      "duration_ms": 211394,
-      "name": "Say You Love Me",
-      "url": "https://open.spotify.com/track/5MJAlnZtWEkHa59gKgAivF"
-    },
-    {
-      "added_at": "2026-11-20 05:03:16",
-      "album": {
-        "name": "away he goes",
-        "url": "https://open.spotify.com/album/6qhIlbYDKRMYIWmguNBGGk"
-      },
-      "artists": [
-        {
-          "name": "Eric Kane",
-          "url": "https://open.spotify.com/artist/1c0It57ov3NYgwdU1trh2Y"
-        }
-      ],
-      "duration_ms": 231232,
-      "name": "away he goes",
-      "url": "https://open.spotify.com/track/1guXNY98YDXbeScBWryx17"
-    },
-    {
-      "added_at": "2026-11-20 05:03:16",
-      "album": {
-        "name": "Before It's Gone",
-        "url": "https://open.spotify.com/album/56hHVl6NGMcEMdgxCNVIzH"
-      },
-      "artists": [
-        {
-          "name": "Ken Presse",
-          "url": "https://open.spotify.com/artist/0GAFnMAhzV7sDRxYu4AB7Z"
-        }
-      ],
-      "duration_ms": 181000,
-      "name": "Before It's Gone",
-      "url": "https://open.spotify.com/track/63hdDxZYowl8DAPijTsiU1"
     },
     {
       "added_at": "2026-11-20 05:03:16",
@@ -2151,38 +2275,6 @@
     {
       "added_at": "2026-11-20 05:03:16",
       "album": {
-        "name": "love, make me a believer",
-        "url": "https://open.spotify.com/album/0nsv9YMNJ67EDNCdLllioz"
-      },
-      "artists": [
-        {
-          "name": "Jessie Mazin",
-          "url": "https://open.spotify.com/artist/61Yb6Hi8nlwDwR3GJ7VAnx"
-        }
-      ],
-      "duration_ms": 166276,
-      "name": "love, make me a believer",
-      "url": "https://open.spotify.com/track/0zU5b6zRZZk4l8FVimCtcu"
-    },
-    {
-      "added_at": "2026-11-20 05:03:16",
-      "album": {
-        "name": "Hope Is A Heavy Thing",
-        "url": "https://open.spotify.com/album/4q8V0cVboa6VtjCYoPHTm9"
-      },
-      "artists": [
-        {
-          "name": "Joy Oladokun",
-          "url": "https://open.spotify.com/artist/7rrTqtOUOwva4sgTx9C9F9"
-        }
-      ],
-      "duration_ms": 205053,
-      "name": "Easy Company",
-      "url": "https://open.spotify.com/track/6En20OZbeLSvH97lc4q9bv"
-    },
-    {
-      "added_at": "2026-11-20 05:03:16",
-      "album": {
         "name": "Flower Pots",
         "url": "https://open.spotify.com/album/1ifnjcuhNkmPCfGw532Bdd"
       },
@@ -2195,22 +2287,6 @@
       "duration_ms": 248733,
       "name": "Flower Pots",
       "url": "https://open.spotify.com/track/0tlx2lYg3Dfl2Ha8MICkEN"
-    },
-    {
-      "added_at": "2026-11-20 05:03:16",
-      "album": {
-        "name": "Illuminate (10th Anniversary Edition)",
-        "url": "https://open.spotify.com/album/33NdfsbflGrwmKRMBq16Oz"
-      },
-      "artists": [
-        {
-          "name": "Shawn Mendes",
-          "url": "https://open.spotify.com/artist/7n2wHs1TKAczGzO7Dd2rGr"
-        }
-      ],
-      "duration_ms": 244700,
-      "name": "Cold In California (2016 Demo)",
-      "url": "https://open.spotify.com/track/4A22LWVkhCKE7DvcRCfMdJ"
     },
     {
       "added_at": "2026-11-20 05:03:16",
@@ -2279,54 +2355,6 @@
     {
       "added_at": "2026-11-20 05:03:16",
       "album": {
-        "name": "i think i had something once",
-        "url": "https://open.spotify.com/album/2DuPrN4ZNbie1EmjJErImG"
-      },
-      "artists": [
-        {
-          "name": "Aubory Bugg",
-          "url": "https://open.spotify.com/artist/2fRZyxhGkcXXFwe7tGan1U"
-        }
-      ],
-      "duration_ms": 173808,
-      "name": "just embers now",
-      "url": "https://open.spotify.com/track/5odEnVcWzR91r5h0ww62GF"
-    },
-    {
-      "added_at": "2026-11-20 05:03:16",
-      "album": {
-        "name": "Fleeland",
-        "url": "https://open.spotify.com/album/7BaxCtbbYqlQw8JA4ypx2a"
-      },
-      "artists": [
-        {
-          "name": "Fleeland",
-          "url": "https://open.spotify.com/artist/4Vkm5pdNrllKnkuHN5ifw4"
-        }
-      ],
-      "duration_ms": 218708,
-      "name": "Fix My Trouble",
-      "url": "https://open.spotify.com/track/7p3etfZ6VoU5bEYzLn5Twu"
-    },
-    {
-      "added_at": "2026-11-20 05:03:16",
-      "album": {
-        "name": "The Late Show",
-        "url": "https://open.spotify.com/album/5B8dcN7FeNf1050hUs28gM"
-      },
-      "artists": [
-        {
-          "name": "Evan Honer",
-          "url": "https://open.spotify.com/artist/1GERDglQrxe4ynLzcdG6qP"
-        }
-      ],
-      "duration_ms": 186764,
-      "name": "The Late Show",
-      "url": "https://open.spotify.com/track/2lDIKBnTJJWB66Hn0aouHG"
-    },
-    {
-      "added_at": "2026-11-20 05:03:16",
-      "album": {
         "name": "Wide Open",
         "url": "https://open.spotify.com/album/205S3gL9ecNDwCS6ZOtEWz"
       },
@@ -2339,22 +2367,6 @@
       "duration_ms": 310893,
       "name": "Wide Open",
       "url": "https://open.spotify.com/track/1n1bvVbadpuQ2pjTjE4r4Y"
-    },
-    {
-      "added_at": "2026-11-20 05:03:16",
-      "album": {
-        "name": "Midnight Rose",
-        "url": "https://open.spotify.com/album/0waLQAB9Q4D1hK17hDKSB5"
-      },
-      "artists": [
-        {
-          "name": "Carleton Stone",
-          "url": "https://open.spotify.com/artist/6FjV2v8M0YwyG2XGWXv5fX"
-        }
-      ],
-      "duration_ms": 165491,
-      "name": "Cigarettes With God",
-      "url": "https://open.spotify.com/track/31bUqPlK4hXERtPpz3fMN6"
     },
     {
       "added_at": "2026-11-20 05:03:16",

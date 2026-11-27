@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4MB9zAGi61h.md) - [plain]
 
 > Close Mic, Muted Strings, Cozy Vibes
 
-[Spotify](https://open.spotify.com/user/spotify) - 4,572 likes - 103 songs - 4 hr 21 min
+[Spotify](https://open.spotify.com/user/spotify) - 4,616 likes - 103 songs - 4 hr 21 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -14,10 +14,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4MB9zAGi61h.md) - [plain]
 | 4 | [Stargazing](https://open.spotify.com/track/4xiVBxNJpThJGaHyzXyRmz) | [Ludwig Bern](https://open.spotify.com/artist/3CTqF5KWRHPvxA8SMgxHNA) | [Stargazing](https://open.spotify.com/album/6bUu077simU3l9W3ti2DMe) | 2:45 |
 | 5 | [As We Grow](https://open.spotify.com/track/0tifkxQeUoWIVw4cLcOUXO) | [Chad Hammond](https://open.spotify.com/artist/2f57qlf6OXqVTlxymKxjEL) | [As We Grow](https://open.spotify.com/album/0uyfYb9UhowfF4WL3loxAd) | 2:40 |
 | 6 | [Merry Christmas \(Mr\. Lawrence\)](https://open.spotify.com/track/0YnxRllgG67hW1PbZpPWiN) | [Matteo Myderwyk](https://open.spotify.com/artist/5fNGQT58pOykJbZQVDx3R6) | [Merry Christmas \(Mr\. Lawrence\)](https://open.spotify.com/album/1Qa8o4tkuCc9uhm9TjShMC) | 3:18 |
-| 7 | [Gentle Thoughts](https://open.spotify.com/track/3maX6mCu9JgfUFjP2TRBss) | [Goldana](https://open.spotify.com/artist/5qxFrVV26X1IFNzeaDl9Cw) | [Gentle Thoughts](https://open.spotify.com/album/0mTWbecFD3UPAW4eQTWmph) | 3:01 |
-| 8 | [Sunset Fields](https://open.spotify.com/track/2IJt0x091l14kWVucFSOnm) | [Djana F](https://open.spotify.com/artist/63cagQjQkkMRWkUD28NXE5) | [Sunset Fields](https://open.spotify.com/album/1h7TFt5PIeFGjg1GpDj974) | 2:46 |
-| 9 | [Gentle Steps](https://open.spotify.com/track/2lLaaHzk0HxS2cA1Bzcvuk) | [Flian](https://open.spotify.com/artist/2zRtU0pBKJEvw0xx0dIyvq) | [Gentle Steps](https://open.spotify.com/album/2cKsu4aWdkPGz4k7OPBhDz) | 2:52 |
-| 10 | [Almost an Afternoon](https://open.spotify.com/track/4SsB5AP9FTuCvdCLi8JFVv) | [Oscar Carver](https://open.spotify.com/artist/4UGOGHGqff8qedsH9slfL1) | [Almost an Afternoon](https://open.spotify.com/album/1uvYEa6GwqpVjG3AzGVb8f) | 2:00 |
+| 7 | [Almost an Afternoon](https://open.spotify.com/track/4SsB5AP9FTuCvdCLi8JFVv) | [Oscar Carver](https://open.spotify.com/artist/4UGOGHGqff8qedsH9slfL1) | [Almost an Afternoon](https://open.spotify.com/album/1uvYEa6GwqpVjG3AzGVb8f) | 2:00 |
+| 8 | [Gentle Thoughts](https://open.spotify.com/track/3maX6mCu9JgfUFjP2TRBss) | [Goldana](https://open.spotify.com/artist/5qxFrVV26X1IFNzeaDl9Cw) | [Gentle Thoughts](https://open.spotify.com/album/0mTWbecFD3UPAW4eQTWmph) | 3:01 |
+| 9 | [Sunset Fields](https://open.spotify.com/track/2IJt0x091l14kWVucFSOnm) | [Djana F](https://open.spotify.com/artist/63cagQjQkkMRWkUD28NXE5) | [Sunset Fields](https://open.spotify.com/album/1h7TFt5PIeFGjg1GpDj974) | 2:46 |
+| 10 | [Gentle Steps](https://open.spotify.com/track/2lLaaHzk0HxS2cA1Bzcvuk) | [Flian](https://open.spotify.com/artist/2zRtU0pBKJEvw0xx0dIyvq) | [Gentle Steps](https://open.spotify.com/album/2cKsu4aWdkPGz4k7OPBhDz) | 2:52 |
 | 11 | [Floating Between Stars](https://open.spotify.com/track/1bS7vdDehLQ2KDtQfZB2UK) | [Juliette Laveaux](https://open.spotify.com/artist/4OhNusW3mnw1DJ1DuMph9A) | [Floating Between Stars](https://open.spotify.com/album/7g8FrNoShv3oyiiQZwSHSq) | 2:13 |
 | 12 | [Solace](https://open.spotify.com/track/4H31tmuaR9HlO6mav9Opre) | [Orren Vale](https://open.spotify.com/artist/1qmIkzSek2dDTztypfuQGN) | [Solace](https://open.spotify.com/album/17kS7Dk0JR3YHbGfooMEUo) | 2:53 |
 | 13 | [A Life in Moments](https://open.spotify.com/track/4zVb3G1Dx819S3iNSSEaro) | [Antoine Fauré](https://open.spotify.com/artist/5TOgvcEmZnjyDHGdnQP4nL) | [A Life in Moments](https://open.spotify.com/album/5cvLSZBb10hYRDSoLkzXnj) | 2:05 |
@@ -112,4 +112,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4MB9zAGi61h.md) - [plain]
 | 102 | [Reminisce](https://open.spotify.com/track/6JAgrPR2SsSQbMKQLKU3Li) | [Tomasz Kraal](https://open.spotify.com/artist/1XJ3PChclslYOOvJ7fJRkJ) | [Reminisce](https://open.spotify.com/album/00I4uPtckukweP7GVOqZsk) | 2:31 |
 | 103 | [Le Silence](https://open.spotify.com/track/3UQoMxRBowlYY6Bkp5zskI) | [Martin Rapide](https://open.spotify.com/artist/0rsshRiKbaGqpYNI0jYNIX) | [Le Silence](https://open.spotify.com/album/1UtTt0MEqC4FM43PCtDDpe) | 2:10 |
 
-Snapshot ID: `AAAAAMZj3N/MATdQnCPVMSwerlRawWBj`
+Snapshot ID: `AAAAAAbbTIurwIkOhoCnJA4VGiSlEXnN`

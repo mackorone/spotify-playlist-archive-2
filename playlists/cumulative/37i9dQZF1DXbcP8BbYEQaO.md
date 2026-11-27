@@ -4,7 +4,7 @@
 
 > Pop for neon streets, rainy windows, and everything you still feel after dark.
 
-891 songs - 2 day 2 hr 6 min
+892 songs - 2 day 2 hr 10 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -33,6 +33,7 @@
 | [Alchemy \(Living Is Not For The Heart\)](https://open.spotify.com/track/3kkoHaiT9qQkEyMBNkdDxQ) | [Iris Caltwait](https://open.spotify.com/artist/5jOiYJPp5e84cnK2KO1aNz) | [Again, for the first time](https://open.spotify.com/album/395n7Rh9sxYRP7n9ylsNVd) | 3:39 | 2025-11-07 |  |
 | [Algorithm](https://open.spotify.com/track/4P9s672KFfDlbjhQAVeoT5) | [Cult Of Venus](https://open.spotify.com/artist/2gBkcjCYEKisBVDaWyWY1W) | [Algorithm](https://open.spotify.com/album/6ZQJmalbz7FsGBgEfPxqUP) | 3:03 | 2025-02-14 | 2026-05-23 |
 | [Alive](https://open.spotify.com/track/1BolvPHesuoFdC8hSPp4IW) | [Ari Abdul](https://open.spotify.com/artist/25jJ6vyXwTRa0e6XCcdR6U) | [Alive](https://open.spotify.com/album/779GE2JiWs969fsRY5P04G) | 4:00 | 2025-06-13 | 2026-02-14 |
+| [All For Love](https://open.spotify.com/track/5Jlyuiq9I9yCsNNJiT2RWc) | [Milk & Bone](https://open.spotify.com/artist/4fmvA5uVlZUNsje29D1PaW) | [All For Love](https://open.spotify.com/album/2KILZh5Qp6LDmQhcX31FQM) | 4:29 | 2026-11-27 |  |
 | [All Love \- Recorded At Electric Lady Studios NYC](https://open.spotify.com/track/2DLFwe8no6XgJfhrPJJzkf) | [FLETCHER](https://open.spotify.com/artist/5qa31A9HySw3T7MKWI9bGg) | [Spotify Singles](https://open.spotify.com/album/29FXbpvWD8WQ6jiKLdhAz6) | 3:24 | 2020-10-13\* | 2020-11-18 |
 | [All Our Friends Are Splitting Up](https://open.spotify.com/track/1uwZ46SjGjrVaZOdR3zYUF) | [Katelyn Tarver](https://open.spotify.com/artist/6i8Tae6takoQos2JZ4vdRn) | [All Our Friends Are Splitting Up](https://open.spotify.com/album/3Rf75PC9Awl8gfIccji1n8) | 3:40 | 2021-09-13 | 2021-10-02 |
 | [All the Feels](https://open.spotify.com/track/0XGEJ2ggFFuD35Aj21kZJR) | [Scavenger Hunt](https://open.spotify.com/artist/2CJw5Z0VmlBMrS1J1dtG9Z) | [All the Feels](https://open.spotify.com/album/537eFZTXjHEPouGWY0ZY21) | 3:17 | 2022-07-15 | 2022-07-19 |
@@ -58,7 +59,7 @@
 | [Avalanche](https://open.spotify.com/track/7BXW8CSXcjJtMDPE4uWPBX) | [Grace Ives](https://open.spotify.com/artist/4TZieE5978SbTInJswaay2) | [Singles](https://open.spotify.com/album/5lk7DCC2cGR6l7VGeF255x) | 3:12 | 2025-11-07 |  |
 | [Away With The Fairies](https://open.spotify.com/track/7avTegY5ObMuQM5N32kPxz) | [LUNA](https://open.spotify.com/artist/0AZgkXW6n0zfyOhVAnIopA) | [Away With The Fairies](https://open.spotify.com/album/0jAsC2f7Ek6DtMJbPmmRB3) | 2:28 | 2026-01-30 | 2026-05-16 |
 | [AWOOO!](https://open.spotify.com/track/33C1sEVNSwk1P5nTzQ2Wky) | [Rence](https://open.spotify.com/artist/3VJTtTgub426X1NuzcyAOb) | [AWOOO!](https://open.spotify.com/album/6dQgJv3DYQAtE9OmOaEqXl) | 3:41 | 2021-08-29 | 2022-03-18 |
-| [Babyline](https://open.spotify.com/track/4Y6qlDD9AQ6BfDHqloSeP4) | [La Roux](https://open.spotify.com/artist/3K2zB87GZv1krx031en5VA) | [Babyline](https://open.spotify.com/album/47AXiuVNP3ShLjhVjep2TW) | 4:02 | 2026-06-30 |  |
+| [Babyline](https://open.spotify.com/track/4Y6qlDD9AQ6BfDHqloSeP4) | [La Roux](https://open.spotify.com/artist/3K2zB87GZv1krx031en5VA) | [Babyline](https://open.spotify.com/album/47AXiuVNP3ShLjhVjep2TW) | 4:02 | 2026-06-30 | 2026-11-27 |
 | [BACKSTABBER](https://open.spotify.com/track/6b0eb25qUlz5M5ogTKZqbI) | [Banshee](https://open.spotify.com/artist/0DG7J8Q9Alnt65HJv6owzf) | [BACKSTABBER](https://open.spotify.com/album/0fbtesLIKCnxirweAZDhVs) | 3:12 | 2024-10-25 | 2025-06-14 |
 | [BAD PREMONITION](https://open.spotify.com/track/2vLCGWwDttQOzBFozJh6mU) | [Tei Shi](https://open.spotify.com/artist/1xcMOgFUM1IYZE22YjCvsL) | [BAD PREMONITION](https://open.spotify.com/album/4kR1D6YxzWtVCeAbL6vp7r) | 3:03 | 2022-10-07 | 2022-10-22 |
 | [Bahia](https://open.spotify.com/track/55FpqPnk2xVXxskdORHJkt) | [Prince Rama](https://open.spotify.com/artist/0nJir6Ire2tWPnUSaKtSYT) | [Bahia \- Single](https://open.spotify.com/album/2CYToEyKziA2A5padKjiUX) | 2:56 | 2022-04-16 | 2022-04-21 |
@@ -171,7 +172,7 @@
 | [Dance For You](https://open.spotify.com/track/4FYwIzkDDhbNOUavfsznEA) | [Empress Of](https://open.spotify.com/artist/5QuBVnBPEzwYvFrgBbwpmU) | [Dance For You](https://open.spotify.com/album/6Hlc4DZJeIgTCVeAFJnB9W) | 3:21 | 2022-05-27 | 2022-10-16 |
 | [Dance For You](https://open.spotify.com/track/4SV4LOxBZD1DuAcMZ9vl8d) | [Empress Of](https://open.spotify.com/artist/5QuBVnBPEzwYvFrgBbwpmU) | [Save Me](https://open.spotify.com/album/4BYaSHRWW0tn3tZv4fhDnQ) | 3:21 | 2023-11-10 | 2024-01-13 |
 | [Dance Like This](https://open.spotify.com/track/3O8682mukvr6oq0YWDuwX6) | [Blanks](https://open.spotify.com/artist/7geo7fjTQyp13Wf2ALTZCF) | [Nothing Lasts Forever And That's OK](https://open.spotify.com/album/2jsBB0Mq3vX9FHLQPZ1gyH) | 3:07 | 2021-11-06 | 2022-04-17 |
-| [Dance The Pain Away](https://open.spotify.com/track/7A34WgGmK1E4D9X9zgq9VD) | [Haute & Freddy](https://open.spotify.com/artist/66T34XqGkEWbzKWALSBDuR) | [Dance The Pain Away](https://open.spotify.com/album/35eHXNu05E1wliIgJ1A0AC) | 3:39 | 2026-01-09 |  |
+| [Dance The Pain Away](https://open.spotify.com/track/7A34WgGmK1E4D9X9zgq9VD) | [Haute & Freddy](https://open.spotify.com/artist/66T34XqGkEWbzKWALSBDuR) | [Dance The Pain Away](https://open.spotify.com/album/35eHXNu05E1wliIgJ1A0AC) | 3:39 | 2026-01-09 | 2026-11-27 |
 | [Dance You Out My System](https://open.spotify.com/track/0FCwYfrKiNvGcfm3iD0DGv) | [Micky Blue](https://open.spotify.com/artist/74RDfhi3g8pfpmMCrQUtpF) | [Dance You Out My System](https://open.spotify.com/album/7eY0rRkvRajYE7CFV5As0J) | 3:23 | 2021-10-23 | 2022-04-17 |
 | [DANCE...](https://open.spotify.com/track/6Xp2Zm2sJLdODReZWBBifO) | [Slayyyter](https://open.spotify.com/artist/4QM5QCHicznALtX885CnZC) | [WOR$T GIRL IN AMERICA](https://open.spotify.com/album/5siV9C6eK0NpAqER2FfCVA) | 4:47 | 2026-05-15 |  |
 | [Dancer](https://open.spotify.com/track/3FpsFW7PcGAUki4siWcvVk) | [LÉON](https://open.spotify.com/artist/4SqTiwOEdYrNayaGMkc7ia) | [Dancer](https://open.spotify.com/album/1RY6ffqngwYDOrQ9vHb5SC) | 3:57 | 2021-09-12 | 2021-10-23 |

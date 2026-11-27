@@ -2,22 +2,22 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3LyU0mhfqgP.md) - [plain]
 
 ### [GLOW](https://open.spotify.com/playlist/37i9dQZF1DX3LyU0mhfqgP)
 
-> Celebrate and honor Pride with songs from LGBTQIA+ artists\. Cover: Kings Elliot
+> Celebrate and honor Pride with songs from LGBTQIA+ artists\. Cover: underscores
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,064,506 likes - 51 songs - 2 hr 38 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,064,463 likes - 51 songs - 2 hr 38 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [METEOR FROM MARS](https://open.spotify.com/track/3rTgH2EMFDihuk4rueiGsq) | [Kings Elliot](https://open.spotify.com/artist/3iUGCPBBseYhEhwqCG7PNy) | [METEOR FROM MARS](https://open.spotify.com/album/1okmmIBOw3JsTikajOV45i) | 3:28 |
 | 2 | [White Collar](https://open.spotify.com/track/6HUlCUZK5DzmHIeX8lC3a1) | [daine](https://open.spotify.com/artist/4lyCoxLN0aW7nJy5rec0tG) | [In Endless Awe & Agony](https://open.spotify.com/album/2mAo6jXxhO8hTHwgTUD0yc) | 3:12 |
-| 3 | [Run Out Of Road](https://open.spotify.com/track/2FJVgqIXOUUgkyaaAP72dI) | [Orville Peck](https://open.spotify.com/artist/46auOkH1pk28rWrSoUNhLo) | [Mule](https://open.spotify.com/album/7u120MsUxCkPcyQg9LJnmo) | 2:59 |
-| 4 | [Goodbye To A Lover Again](https://open.spotify.com/track/4BmhjNFYM7AQPfcRKbrSfi) | [Isak Danielson](https://open.spotify.com/artist/5ie2SvXgvXlTpyqkwLtSd7) | [Goodbye To A Lover Again](https://open.spotify.com/album/3pCiut2DYa0xhcUlmlShi4) | 2:19 |
-| 5 | [Separate](https://open.spotify.com/track/7m5NOHzHETT7OoIImxwxYh) | [Joesef](https://open.spotify.com/artist/28EyduqESEOVMO6vglvaUZ) | [Separate](https://open.spotify.com/album/6RYcA4c1IsOaG1xsbFU5fv) | 4:16 |
-| 6 | [Mind ur Business](https://open.spotify.com/track/7G8dSzF2rrAJxEqVqE7QdP) | [Lelowhatsgood](https://open.spotify.com/artist/3G1GDW2fFw536QyuZODfch), [Lazarusman](https://open.spotify.com/artist/4Sh3sUk5Pq69gqPHT89aCc), [Kiing Bhutie](https://open.spotify.com/artist/3oE9XreYh76hnfzz56GJGG) | [Rebirth is Necessary](https://open.spotify.com/album/4vNOmPNBvBqlflXnUShL99) | 5:30 |
-| 7 | [Is It That Deep?](https://open.spotify.com/track/0IAHJ9bxdoF56QbLIUEv9t) | [Cat Burns](https://open.spotify.com/artist/6WFDpw4u23uSpon4BHvFRn) | [Is It That Deep?](https://open.spotify.com/album/60Jot68Vp3ZpUhsiaxGrfZ) | 2:51 |
-| 8 | [BAD GOOD](https://open.spotify.com/track/1flTKOxZXjVJbCXXwXD7Cl) | [Pabllo Vittar](https://open.spotify.com/artist/6tzRZ39aZlNqlUzQlkuhDV) | [LOST IN LUST](https://open.spotify.com/album/5T0XGpHYAdQKJycz00qYIz) | 2:57 |
-| 9 | [Change](https://open.spotify.com/track/3uGBIAD7oz5rSBOVBHrATQ) | [Vũ Cát Tường](https://open.spotify.com/artist/7yquVKfxBuNFJbG9cy2R8A) | [Change](https://open.spotify.com/album/5Kip3tzC2TuLVIgAvY6YgL) | 3:52 |
-| 10 | [Tell Me \(U Want It\)](https://open.spotify.com/track/2fIv98BZ6NdkeYLZAvNzP7) | [underscores](https://open.spotify.com/artist/7HfUJxeVTgrvhk0eWHFzV7) | [U](https://open.spotify.com/album/1qSS0T6Ffrb3rFVpizzOuk) | 3:33 |
+| 3 | [Tell Me \(U Want It\)](https://open.spotify.com/track/2fIv98BZ6NdkeYLZAvNzP7) | [underscores](https://open.spotify.com/artist/7HfUJxeVTgrvhk0eWHFzV7) | [U](https://open.spotify.com/album/1qSS0T6Ffrb3rFVpizzOuk) | 3:33 |
+| 4 | [Run Out Of Road](https://open.spotify.com/track/2FJVgqIXOUUgkyaaAP72dI) | [Orville Peck](https://open.spotify.com/artist/46auOkH1pk28rWrSoUNhLo) | [Mule](https://open.spotify.com/album/7u120MsUxCkPcyQg9LJnmo) | 2:59 |
+| 5 | [Goodbye To A Lover Again](https://open.spotify.com/track/4BmhjNFYM7AQPfcRKbrSfi) | [Isak Danielson](https://open.spotify.com/artist/5ie2SvXgvXlTpyqkwLtSd7) | [Goodbye To A Lover Again](https://open.spotify.com/album/3pCiut2DYa0xhcUlmlShi4) | 2:19 |
+| 6 | [Separate](https://open.spotify.com/track/7m5NOHzHETT7OoIImxwxYh) | [Joesef](https://open.spotify.com/artist/28EyduqESEOVMO6vglvaUZ) | [Separate](https://open.spotify.com/album/6RYcA4c1IsOaG1xsbFU5fv) | 4:16 |
+| 7 | [Mind ur Business](https://open.spotify.com/track/7G8dSzF2rrAJxEqVqE7QdP) | [Lelowhatsgood](https://open.spotify.com/artist/3G1GDW2fFw536QyuZODfch), [Lazarusman](https://open.spotify.com/artist/4Sh3sUk5Pq69gqPHT89aCc), [Kiing Bhutie](https://open.spotify.com/artist/3oE9XreYh76hnfzz56GJGG) | [Rebirth is Necessary](https://open.spotify.com/album/4vNOmPNBvBqlflXnUShL99) | 5:30 |
+| 8 | [Is It That Deep?](https://open.spotify.com/track/0IAHJ9bxdoF56QbLIUEv9t) | [Cat Burns](https://open.spotify.com/artist/6WFDpw4u23uSpon4BHvFRn) | [Is It That Deep?](https://open.spotify.com/album/60Jot68Vp3ZpUhsiaxGrfZ) | 2:51 |
+| 9 | [BAD GOOD](https://open.spotify.com/track/1flTKOxZXjVJbCXXwXD7Cl) | [Pabllo Vittar](https://open.spotify.com/artist/6tzRZ39aZlNqlUzQlkuhDV) | [LOST IN LUST](https://open.spotify.com/album/5T0XGpHYAdQKJycz00qYIz) | 2:57 |
+| 10 | [Change](https://open.spotify.com/track/3uGBIAD7oz5rSBOVBHrATQ) | [Vũ Cát Tường](https://open.spotify.com/artist/7yquVKfxBuNFJbG9cy2R8A) | [Change](https://open.spotify.com/album/5Kip3tzC2TuLVIgAvY6YgL) | 3:52 |
 | 11 | [Look At You](https://open.spotify.com/track/1cwsPU0nmZE7fllF580Xdt) | [Ellen Krauss](https://open.spotify.com/artist/1hY6WSJRQy3FPTnmprOBVh) | [Look At You](https://open.spotify.com/album/3S2u5fv2cIUi8a3ByngJ5G) | 2:23 |
 | 12 | [The Beautiful Is Still Alive](https://open.spotify.com/track/1z1ifIyxEkfFOxAIPQLUpD) | [Scissor Sisters](https://open.spotify.com/artist/3Y10boYzeuFCJ4Qgp53w6o) | [The Beautiful Is Still Alive](https://open.spotify.com/album/4klz1SGohyGzazmGT25hZ8) | 3:15 |
 | 13 | [The Basement](https://open.spotify.com/track/6b1M7lKBrXFUp2kimbTmRu) | [Lambrini Girls](https://open.spotify.com/artist/6VR4TJ20WGiho2xZWMuuWb) | [The Basement / Spilt](https://open.spotify.com/album/6LQR9ywQxcxq992e9h2mU5) | 3:33 |
@@ -60,4 +60,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3LyU0mhfqgP.md) - [plain]
 | 50 | [Call Me Babe](https://open.spotify.com/track/2st8BBJ0YcYi6eA5xOBv5U) | [Priyanka](https://open.spotify.com/artist/1RSalo3q49NotNwKB2jtjO), [Lemon](https://open.spotify.com/artist/6vNrD9n6lmYcHQ9269HH2B) | [Call Me Babe](https://open.spotify.com/album/5UXzmRcanpxe6r8mVEcokz) | 2:41 |
 | 51 | [notime…](https://open.spotify.com/track/6qL1c0iuEhxV8a1Rt1l3ww) | [finnjävel](https://open.spotify.com/artist/5YQtvxTvGSShjMTOMyCuPT), [Grant](https://open.spotify.com/artist/6SkVKlAmIWVD0LQvCGQqSj) | [notime…youshouldbeaskingmeout](https://open.spotify.com/album/3thIn4T4XksDxTHEU1rExU) | 2:19 |
 
-Snapshot ID: `AAAAANBfJAziHVLZ9+NSQ8+lq4uGLGjf`
+Snapshot ID: `AAAAAHiQB2voYNNbKTxH2ZL+WIy9agJN`

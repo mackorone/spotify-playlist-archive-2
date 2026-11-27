@@ -1,12 +1,12 @@
 {
   "description": "This is Wale. The essential tracks, all in one playlist.",
-  "num_followers": 41420,
+  "num_followers": 41422,
   "original_name": "This Is Wale",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "awOCAAAAAAC77Cu2c4bFcIsklBHeOSgt",
+  "snapshot_id": "awYlAAAAAAAK8+tUAARUZxowEHQQYnfn",
   "tracks": [
     {
       "added_at": null,
@@ -243,6 +243,26 @@
     {
       "added_at": null,
       "album": {
+        "name": "everything is a lot.",
+        "url": "https://open.spotify.com/album/0AIADbs20wMj3229QY0XnN"
+      },
+      "artists": [
+        {
+          "name": "Wale",
+          "url": "https://open.spotify.com/artist/67nwj3Y5sZQLl72VNUHEYE"
+        },
+        {
+          "name": "Odeal",
+          "url": "https://open.spotify.com/artist/2BPwxhCvvcb8xDl8GWIjbh"
+        }
+      ],
+      "duration_ms": 153935,
+      "name": "City On Fire",
+      "url": "https://open.spotify.com/track/5hvt3s4LH6kZETJ18nxgYa"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "The Album About Nothing",
         "url": "https://open.spotify.com/album/6aCr3UaB8lM9g6TtFB3qwd"
       },
@@ -259,22 +279,6 @@
       "duration_ms": 216831,
       "name": "The Need to Know (feat. SZA)",
       "url": "https://open.spotify.com/track/6KacmqPPQ3LNoiGFuqGChs"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "everything is a lot.",
-        "url": "https://open.spotify.com/album/0AIADbs20wMj3229QY0XnN"
-      },
-      "artists": [
-        {
-          "name": "Wale",
-          "url": "https://open.spotify.com/artist/67nwj3Y5sZQLl72VNUHEYE"
-        }
-      ],
-      "duration_ms": 175417,
-      "name": "Fly Away",
-      "url": "https://open.spotify.com/track/6boHVtRiLPHR1sm1I1ZdJr"
     },
     {
       "added_at": null,
@@ -323,6 +327,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "everything is a lot.",
+        "url": "https://open.spotify.com/album/0AIADbs20wMj3229QY0XnN"
+      },
+      "artists": [
+        {
+          "name": "Wale",
+          "url": "https://open.spotify.com/artist/67nwj3Y5sZQLl72VNUHEYE"
+        }
+      ],
+      "duration_ms": 175417,
+      "name": "Fly Away",
+      "url": "https://open.spotify.com/track/6boHVtRiLPHR1sm1I1ZdJr"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "The Album About Nothing",
         "url": "https://open.spotify.com/album/6aCr3UaB8lM9g6TtFB3qwd"
       },
@@ -339,26 +359,6 @@
       "duration_ms": 395950,
       "name": "The Matrimony (feat. Usher)",
       "url": "https://open.spotify.com/track/7vlPI45Zzzk0palLdKry4k"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "everything is a lot.",
-        "url": "https://open.spotify.com/album/0AIADbs20wMj3229QY0XnN"
-      },
-      "artists": [
-        {
-          "name": "Wale",
-          "url": "https://open.spotify.com/artist/67nwj3Y5sZQLl72VNUHEYE"
-        },
-        {
-          "name": "Odeal",
-          "url": "https://open.spotify.com/artist/2BPwxhCvvcb8xDl8GWIjbh"
-        }
-      ],
-      "duration_ms": 153935,
-      "name": "City On Fire",
-      "url": "https://open.spotify.com/track/5hvt3s4LH6kZETJ18nxgYa"
     },
     {
       "added_at": null,
@@ -407,6 +407,30 @@
     {
       "added_at": null,
       "album": {
+        "name": "GOOD DOPE SELL ITSELF",
+        "url": "https://open.spotify.com/album/1klnZYqw7rMDLendqpetLm"
+      },
+      "artists": [
+        {
+          "name": "Belly Gang Kushington",
+          "url": "https://open.spotify.com/artist/7oHPIc7BYAIUhYFF6hSggI"
+        },
+        {
+          "name": "Summer Walker",
+          "url": "https://open.spotify.com/artist/57LYzLEk2LcFghVwuWbcuS"
+        },
+        {
+          "name": "Wale",
+          "url": "https://open.spotify.com/artist/67nwj3Y5sZQLl72VNUHEYE"
+        }
+      ],
+      "duration_ms": 216011,
+      "name": "Bonnet (feat. Summer Walker & Wale)",
+      "url": "https://open.spotify.com/track/3KAeHmiuKefi0wkeTBVr3l"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "The Album About Nothing",
         "url": "https://open.spotify.com/album/6aCr3UaB8lM9g6TtFB3qwd"
       },
@@ -443,30 +467,6 @@
       "duration_ms": 193631,
       "name": "Like I (with Andra Day)",
       "url": "https://open.spotify.com/track/1oK8Eon2ItTpSabKRlbYXv"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "GOOD DOPE SELL ITSELF",
-        "url": "https://open.spotify.com/album/1klnZYqw7rMDLendqpetLm"
-      },
-      "artists": [
-        {
-          "name": "Belly Gang Kushington",
-          "url": "https://open.spotify.com/artist/7oHPIc7BYAIUhYFF6hSggI"
-        },
-        {
-          "name": "Summer Walker",
-          "url": "https://open.spotify.com/artist/57LYzLEk2LcFghVwuWbcuS"
-        },
-        {
-          "name": "Wale",
-          "url": "https://open.spotify.com/artist/67nwj3Y5sZQLl72VNUHEYE"
-        }
-      ],
-      "duration_ms": 216011,
-      "name": "Bonnet (feat. Summer Walker & Wale)",
-      "url": "https://open.spotify.com/track/3KAeHmiuKefi0wkeTBVr3l"
     },
     {
       "added_at": null,
@@ -511,22 +511,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "everything is a lot.",
-        "url": "https://open.spotify.com/album/0AIADbs20wMj3229QY0XnN"
-      },
-      "artists": [
-        {
-          "name": "Wale",
-          "url": "https://open.spotify.com/artist/67nwj3Y5sZQLl72VNUHEYE"
-        }
-      ],
-      "duration_ms": 188205,
-      "name": "Belly",
-      "url": "https://open.spotify.com/track/1pfEXj4djveb3DtBylxSDi"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Change",
         "url": "https://open.spotify.com/album/1XNlRfQuMTW3IF0z0dUZgq"
       },
@@ -543,6 +527,22 @@
       "duration_ms": 277970,
       "name": "Change",
       "url": "https://open.spotify.com/track/4L3HQD7tbXCPpO9Ps7rgdm"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "everything is a lot.",
+        "url": "https://open.spotify.com/album/0AIADbs20wMj3229QY0XnN"
+      },
+      "artists": [
+        {
+          "name": "Wale",
+          "url": "https://open.spotify.com/artist/67nwj3Y5sZQLl72VNUHEYE"
+        }
+      ],
+      "duration_ms": 188205,
+      "name": "Belly",
+      "url": "https://open.spotify.com/track/1pfEXj4djveb3DtBylxSDi"
     },
     {
       "added_at": null,
@@ -591,22 +591,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "everything is a lot.",
-        "url": "https://open.spotify.com/album/0AIADbs20wMj3229QY0XnN"
-      },
-      "artists": [
-        {
-          "name": "Wale",
-          "url": "https://open.spotify.com/artist/67nwj3Y5sZQLl72VNUHEYE"
-        }
-      ],
-      "duration_ms": 213954,
-      "name": "Where To Start",
-      "url": "https://open.spotify.com/track/2r0dMcbpDjaopop0lwp5Ld"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Folarin II",
         "url": "https://open.spotify.com/album/2hWG79pDHBFMCr5PQsCtF9"
       },
@@ -627,26 +611,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "You Never Visit Me (feat. Wale & Enny)",
-        "url": "https://open.spotify.com/album/5768qKkadOnArtFfrupjLe"
+        "name": "everything is a lot.",
+        "url": "https://open.spotify.com/album/0AIADbs20wMj3229QY0XnN"
       },
       "artists": [
-        {
-          "name": "Masego",
-          "url": "https://open.spotify.com/artist/3ycxRkcZ67ALN3GQJ57Vig"
-        },
-        {
-          "name": "ENNY",
-          "url": "https://open.spotify.com/artist/3qEnCAnX23lvoxZYtBiPgL"
-        },
         {
           "name": "Wale",
           "url": "https://open.spotify.com/artist/67nwj3Y5sZQLl72VNUHEYE"
         }
       ],
-      "duration_ms": 264000,
-      "name": "You Never Visit Me (feat. Wale & Enny)",
-      "url": "https://open.spotify.com/track/7qArEpkWxXwdh8nkfqcjIf"
+      "duration_ms": 213954,
+      "name": "Where To Start",
+      "url": "https://open.spotify.com/track/2r0dMcbpDjaopop0lwp5Ld"
     },
     {
       "added_at": null,
@@ -671,6 +647,30 @@
       "duration_ms": 260560,
       "name": "Bounce It (feat. Wale & Trey Songz)",
       "url": "https://open.spotify.com/track/3N5oiETJEStSB71TjTFkWV"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "You Never Visit Me (feat. Wale & Enny)",
+        "url": "https://open.spotify.com/album/5768qKkadOnArtFfrupjLe"
+      },
+      "artists": [
+        {
+          "name": "Masego",
+          "url": "https://open.spotify.com/artist/3ycxRkcZ67ALN3GQJ57Vig"
+        },
+        {
+          "name": "ENNY",
+          "url": "https://open.spotify.com/artist/3qEnCAnX23lvoxZYtBiPgL"
+        },
+        {
+          "name": "Wale",
+          "url": "https://open.spotify.com/artist/67nwj3Y5sZQLl72VNUHEYE"
+        }
+      ],
+      "duration_ms": 264000,
+      "name": "You Never Visit Me (feat. Wale & Enny)",
+      "url": "https://open.spotify.com/track/7qArEpkWxXwdh8nkfqcjIf"
     },
     {
       "added_at": null,
@@ -795,26 +795,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Drew Barrymore (feat. Wale)",
-        "url": "https://open.spotify.com/album/6lU3bb8FhDHYkZKfZorLha"
-      },
-      "artists": [
-        {
-          "name": "Bryce Vine",
-          "url": "https://open.spotify.com/artist/1ShZZUjkbXCjhwrb18BA8I"
-        },
-        {
-          "name": "Wale",
-          "url": "https://open.spotify.com/artist/67nwj3Y5sZQLl72VNUHEYE"
-        }
-      ],
-      "duration_ms": 216246,
-      "name": "Drew Barrymore (feat. Wale)",
-      "url": "https://open.spotify.com/track/5RyFbMmfQ70WThTT6g4Vx0"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Sex, Love & Pain II",
         "url": "https://open.spotify.com/album/58WvlSmvoKkrvUuZHw322D"
       },
@@ -831,6 +811,26 @@
       "duration_ms": 245986,
       "name": "You Don't Know (feat. Wale)",
       "url": "https://open.spotify.com/track/3mSkzP4ud5KG26OIVIAL3s"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Drew Barrymore (feat. Wale)",
+        "url": "https://open.spotify.com/album/6lU3bb8FhDHYkZKfZorLha"
+      },
+      "artists": [
+        {
+          "name": "Bryce Vine",
+          "url": "https://open.spotify.com/artist/1ShZZUjkbXCjhwrb18BA8I"
+        },
+        {
+          "name": "Wale",
+          "url": "https://open.spotify.com/artist/67nwj3Y5sZQLl72VNUHEYE"
+        }
+      ],
+      "duration_ms": 216246,
+      "name": "Drew Barrymore (feat. Wale)",
+      "url": "https://open.spotify.com/track/5RyFbMmfQ70WThTT6g4Vx0"
     },
     {
       "added_at": null,
@@ -1007,26 +1007,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Friday Night Lights",
-        "url": "https://open.spotify.com/album/4ghGEhWzY5ffry2IqgrnRg"
-      },
-      "artists": [
-        {
-          "name": "J. Cole",
-          "url": "https://open.spotify.com/artist/6l3HvQ5sa6mXTsMTB19rO5"
-        },
-        {
-          "name": "Wale",
-          "url": "https://open.spotify.com/artist/67nwj3Y5sZQLl72VNUHEYE"
-        }
-      ],
-      "duration_ms": 286900,
-      "name": "You Got It (feat. Wale)",
-      "url": "https://open.spotify.com/track/1eG559Jhrn9cDBrZplGlcJ"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Free Lunch",
         "url": "https://open.spotify.com/album/2KWMRiVC16dYpH9VkERMOF"
       },
@@ -1043,6 +1023,26 @@
       "duration_ms": 269657,
       "name": "My Boy (feat. J. Cole) - Freestyle",
       "url": "https://open.spotify.com/track/11QvWp3CsEPd0YLE6xKGyx"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Friday Night Lights",
+        "url": "https://open.spotify.com/album/4ghGEhWzY5ffry2IqgrnRg"
+      },
+      "artists": [
+        {
+          "name": "J. Cole",
+          "url": "https://open.spotify.com/artist/6l3HvQ5sa6mXTsMTB19rO5"
+        },
+        {
+          "name": "Wale",
+          "url": "https://open.spotify.com/artist/67nwj3Y5sZQLl72VNUHEYE"
+        }
+      ],
+      "duration_ms": 286900,
+      "name": "You Got It (feat. Wale)",
+      "url": "https://open.spotify.com/track/1eG559Jhrn9cDBrZplGlcJ"
     },
     {
       "added_at": null,

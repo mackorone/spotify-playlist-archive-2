@@ -1,6 +1,6 @@
 {
   "description": "focus modus is aan en leren maar",
-  "num_followers": 44225,
+  "num_followers": 44227,
   "original_name": "Studeermuziek",
   "owner": {
     "name": "Spotify",
@@ -27,22 +27,6 @@
     {
       "added_at": "2026-11-17 11:00:07",
       "album": {
-        "name": "Unorthodox Jukebox",
-        "url": "https://open.spotify.com/album/58ufpQsJ1DS5kq4hhzQDiI"
-      },
-      "artists": [
-        {
-          "name": "Bruno Mars",
-          "url": "https://open.spotify.com/artist/0du5cEVh5yTK9QJze8zA0C"
-        }
-      ],
-      "duration_ms": 213826,
-      "name": "When I Was Your Man",
-      "url": "https://open.spotify.com/track/0nJW01T7XtvILxQgC5J7Wh"
-    },
-    {
-      "added_at": "2026-11-17 11:00:07",
-      "album": {
         "name": "Long Way Down (Deluxe)",
         "url": "https://open.spotify.com/album/0Gf1yE895FKK4YWVRuAeg8"
       },
@@ -55,6 +39,22 @@
       "duration_ms": 244360,
       "name": "Another Love",
       "url": "https://open.spotify.com/track/3JvKfv6T31zO0ini8iNItO"
+    },
+    {
+      "added_at": "2026-11-17 11:00:07",
+      "album": {
+        "name": "Unorthodox Jukebox",
+        "url": "https://open.spotify.com/album/58ufpQsJ1DS5kq4hhzQDiI"
+      },
+      "artists": [
+        {
+          "name": "Bruno Mars",
+          "url": "https://open.spotify.com/artist/0du5cEVh5yTK9QJze8zA0C"
+        }
+      ],
+      "duration_ms": 213826,
+      "name": "When I Was Your Man",
+      "url": "https://open.spotify.com/track/0nJW01T7XtvILxQgC5J7Wh"
     },
     {
       "added_at": "2026-11-17 11:00:07",
@@ -407,22 +407,6 @@
     {
       "added_at": "2026-11-17 11:00:07",
       "album": {
-        "name": "We Hug Now",
-        "url": "https://open.spotify.com/album/30h62oCDd1lhOsJibIFieh"
-      },
-      "artists": [
-        {
-          "name": "Sydney Rose",
-          "url": "https://open.spotify.com/artist/5vx4pDmiFDyKMhuOIgpiRv"
-        }
-      ],
-      "duration_ms": 248821,
-      "name": "We Hug Now",
-      "url": "https://open.spotify.com/track/7zFio8WT0tTBqLs1pXYKqy"
-    },
-    {
-      "added_at": "2026-11-17 11:00:07",
-      "album": {
         "name": "God Needs The Devil",
         "url": "https://open.spotify.com/album/6m9iHuaCahIjbToXBybxnl"
       },
@@ -435,6 +419,22 @@
       "duration_ms": 192133,
       "name": "God Needs The Devil",
       "url": "https://open.spotify.com/track/3nEotpBFeXq0OJstuHzwDP"
+    },
+    {
+      "added_at": "2026-11-17 11:00:07",
+      "album": {
+        "name": "We Hug Now",
+        "url": "https://open.spotify.com/album/30h62oCDd1lhOsJibIFieh"
+      },
+      "artists": [
+        {
+          "name": "Sydney Rose",
+          "url": "https://open.spotify.com/artist/5vx4pDmiFDyKMhuOIgpiRv"
+        }
+      ],
+      "duration_ms": 248821,
+      "name": "We Hug Now",
+      "url": "https://open.spotify.com/track/7zFio8WT0tTBqLs1pXYKqy"
     },
     {
       "added_at": "2026-11-17 11:00:07",
@@ -555,22 +555,6 @@
     {
       "added_at": "2026-11-17 11:00:07",
       "album": {
-        "name": "+",
-        "url": "https://open.spotify.com/album/0W5GGnapMz0VwemQvJDqa7"
-      },
-      "artists": [
-        {
-          "name": "Ed Sheeran",
-          "url": "https://open.spotify.com/artist/6eUKZXaKkcviH0Ku9w2n3V"
-        }
-      ],
-      "duration_ms": 258373,
-      "name": "The A Team",
-      "url": "https://open.spotify.com/track/1VdZ0vKfR5jneCmWIUAMxK"
-    },
-    {
-      "added_at": "2026-11-17 11:00:07",
-      "album": {
         "name": "Cheers to the Fall",
         "url": "https://open.spotify.com/album/6Blubl1glavmervPJa3QVs"
       },
@@ -583,6 +567,22 @@
       "duration_ms": 253342,
       "name": "Rise Up",
       "url": "https://open.spotify.com/track/0tV8pOpiNsKqUys0ilUcXz"
+    },
+    {
+      "added_at": "2026-11-17 11:00:07",
+      "album": {
+        "name": "+",
+        "url": "https://open.spotify.com/album/0W5GGnapMz0VwemQvJDqa7"
+      },
+      "artists": [
+        {
+          "name": "Ed Sheeran",
+          "url": "https://open.spotify.com/artist/6eUKZXaKkcviH0Ku9w2n3V"
+        }
+      ],
+      "duration_ms": 258373,
+      "name": "The A Team",
+      "url": "https://open.spotify.com/track/1VdZ0vKfR5jneCmWIUAMxK"
     },
     {
       "added_at": "2026-11-17 11:00:07",
@@ -899,22 +899,6 @@
     {
       "added_at": "2026-11-17 11:00:07",
       "album": {
-        "name": "Long Way Home",
-        "url": "https://open.spotify.com/album/0inYFsNCyffdWte267wXRW"
-      },
-      "artists": [
-        {
-          "name": "STELLA LEFTY",
-          "url": "https://open.spotify.com/artist/6hp2uD84OrQ3u3ukmTjLz2"
-        }
-      ],
-      "duration_ms": 187265,
-      "name": "Summer You Were Mine",
-      "url": "https://open.spotify.com/track/6B9XMxOKopfYkBKwA8cPtb"
-    },
-    {
-      "added_at": "2026-11-17 11:00:07",
-      "album": {
         "name": "July (feat. Leon Bridges)",
         "url": "https://open.spotify.com/album/3tRmxSQyoyXXwcVDcUFQic"
       },
@@ -931,6 +915,22 @@
       "duration_ms": 152280,
       "name": "July (feat. Leon Bridges)",
       "url": "https://open.spotify.com/track/3V0nnQhqvbE3JmiDdnzQFQ"
+    },
+    {
+      "added_at": "2026-11-17 11:00:07",
+      "album": {
+        "name": "Long Way Home",
+        "url": "https://open.spotify.com/album/0inYFsNCyffdWte267wXRW"
+      },
+      "artists": [
+        {
+          "name": "STELLA LEFTY",
+          "url": "https://open.spotify.com/artist/6hp2uD84OrQ3u3ukmTjLz2"
+        }
+      ],
+      "duration_ms": 187265,
+      "name": "Summer You Were Mine",
+      "url": "https://open.spotify.com/track/6B9XMxOKopfYkBKwA8cPtb"
     },
     {
       "added_at": "2026-11-17 11:00:07",
@@ -1099,22 +1099,6 @@
     {
       "added_at": "2026-11-17 11:00:07",
       "album": {
-        "name": "Every Kingdom",
-        "url": "https://open.spotify.com/album/57PgT4iuDurzlJnkYjrpce"
-      },
-      "artists": [
-        {
-          "name": "Ben Howard",
-          "url": "https://open.spotify.com/artist/5schNIzWdI9gJ1QRK8SBnc"
-        }
-      ],
-      "duration_ms": 264546,
-      "name": "Keep Your Head Up",
-      "url": "https://open.spotify.com/track/5fpEDGQX0Ah3utGnFYulQZ"
-    },
-    {
-      "added_at": "2026-11-17 11:00:07",
-      "album": {
         "name": "Piss In The Wind",
         "url": "https://open.spotify.com/album/7MLyEn1CPizpS8bjZ7zzrT"
       },
@@ -1127,6 +1111,22 @@
       "duration_ms": 128986,
       "name": "Hotel California",
       "url": "https://open.spotify.com/track/0haXcqxsgfbGTq6OYjLyIs"
+    },
+    {
+      "added_at": "2026-11-17 11:00:07",
+      "album": {
+        "name": "Every Kingdom",
+        "url": "https://open.spotify.com/album/57PgT4iuDurzlJnkYjrpce"
+      },
+      "artists": [
+        {
+          "name": "Ben Howard",
+          "url": "https://open.spotify.com/artist/5schNIzWdI9gJ1QRK8SBnc"
+        }
+      ],
+      "duration_ms": 264546,
+      "name": "Keep Your Head Up",
+      "url": "https://open.spotify.com/track/5fpEDGQX0Ah3utGnFYulQZ"
     },
     {
       "added_at": "2026-11-17 11:00:07",
@@ -1527,22 +1527,6 @@
     {
       "added_at": "2026-11-17 11:00:07",
       "album": {
-        "name": "My Regards",
-        "url": "https://open.spotify.com/album/5j242B2iACKvvgwUFs60t2"
-      },
-      "artists": [
-        {
-          "name": "Maisie Peters",
-          "url": "https://open.spotify.com/artist/2RVvqRBon9NgaGXKfywDSs"
-        }
-      ],
-      "duration_ms": 191840,
-      "name": "My Regards",
-      "url": "https://open.spotify.com/track/52CDVCBt7tQI29r9ovQOJt"
-    },
-    {
-      "added_at": "2026-11-17 11:00:07",
-      "album": {
         "name": "Chasing Shadows",
         "url": "https://open.spotify.com/album/5laO2TJ5lwhscYwdFB0sIX"
       },
@@ -1555,6 +1539,22 @@
       "duration_ms": 164027,
       "name": "Chasing Shadows",
       "url": "https://open.spotify.com/track/5zcoYCmeIL392as1bwIYce"
+    },
+    {
+      "added_at": "2026-11-17 11:00:07",
+      "album": {
+        "name": "My Regards",
+        "url": "https://open.spotify.com/album/5j242B2iACKvvgwUFs60t2"
+      },
+      "artists": [
+        {
+          "name": "Maisie Peters",
+          "url": "https://open.spotify.com/artist/2RVvqRBon9NgaGXKfywDSs"
+        }
+      ],
+      "duration_ms": 191840,
+      "name": "My Regards",
+      "url": "https://open.spotify.com/track/52CDVCBt7tQI29r9ovQOJt"
     },
     {
       "added_at": "2026-11-17 11:00:07",
@@ -1591,22 +1591,6 @@
     {
       "added_at": "2026-11-17 11:00:07",
       "album": {
-        "name": "Woman I Am",
-        "url": "https://open.spotify.com/album/2sgEblpbAegLtRuCpHJl70"
-      },
-      "artists": [
-        {
-          "name": "Skye Newman",
-          "url": "https://open.spotify.com/artist/4UoEzpWZrFWvlGYOzTEn1M"
-        }
-      ],
-      "duration_ms": 211078,
-      "name": "Woman I Am",
-      "url": "https://open.spotify.com/track/7JDJimCnfNpiReuMNPXIVJ"
-    },
-    {
-      "added_at": "2026-11-17 11:00:07",
-      "album": {
         "name": "Our Version Of Events (Special Edition)",
         "url": "https://open.spotify.com/album/0QwbgAJnx9FEFFC3EsyLrQ"
       },
@@ -1619,6 +1603,22 @@
       "duration_ms": 221133,
       "name": "Clown",
       "url": "https://open.spotify.com/track/7JogKto8cNNBqz3dZERgDh"
+    },
+    {
+      "added_at": "2026-11-17 11:00:07",
+      "album": {
+        "name": "Woman I Am",
+        "url": "https://open.spotify.com/album/2sgEblpbAegLtRuCpHJl70"
+      },
+      "artists": [
+        {
+          "name": "Skye Newman",
+          "url": "https://open.spotify.com/artist/4UoEzpWZrFWvlGYOzTEn1M"
+        }
+      ],
+      "duration_ms": 211078,
+      "name": "Woman I Am",
+      "url": "https://open.spotify.com/track/7JDJimCnfNpiReuMNPXIVJ"
     },
     {
       "added_at": "2026-11-17 11:00:07",
@@ -1735,22 +1735,6 @@
     {
       "added_at": "2026-11-17 11:00:07",
       "album": {
-        "name": "Covers",
-        "url": "https://open.spotify.com/album/5jxXFBCxg9dCJhj1Ev8TNq"
-      },
-      "artists": [
-        {
-          "name": "Conor Maynard",
-          "url": "https://open.spotify.com/artist/6mU8ucezzms5I2kNH6HNlu"
-        }
-      ],
-      "duration_ms": 164129,
-      "name": "Don't Let Me Down",
-      "url": "https://open.spotify.com/track/4ks6j7JsfJorc1tb4THJo8"
-    },
-    {
-      "added_at": "2026-11-17 11:00:07",
-      "album": {
         "name": "Kiss Me",
         "url": "https://open.spotify.com/album/23A1VrlL0AyJkv6OpZofNy"
       },
@@ -1763,6 +1747,22 @@
       "duration_ms": 240900,
       "name": "Kiss Me - Acoustic",
       "url": "https://open.spotify.com/track/7xQUulzggtLVXbo8tLwpjc"
+    },
+    {
+      "added_at": "2026-11-17 11:00:07",
+      "album": {
+        "name": "Covers",
+        "url": "https://open.spotify.com/album/5jxXFBCxg9dCJhj1Ev8TNq"
+      },
+      "artists": [
+        {
+          "name": "Conor Maynard",
+          "url": "https://open.spotify.com/artist/6mU8ucezzms5I2kNH6HNlu"
+        }
+      ],
+      "duration_ms": 164129,
+      "name": "Don't Let Me Down",
+      "url": "https://open.spotify.com/track/4ks6j7JsfJorc1tb4THJo8"
     },
     {
       "added_at": "2026-11-17 11:00:07",
@@ -1895,22 +1895,6 @@
     {
       "added_at": "2026-11-17 11:00:07",
       "album": {
-        "name": "New To You",
-        "url": "https://open.spotify.com/album/1EOchl5nhZjBbYYGPAK2Cq"
-      },
-      "artists": [
-        {
-          "name": "Duncan Laurence",
-          "url": "https://open.spotify.com/artist/3klZnJvYGIbWritVwQD434"
-        }
-      ],
-      "duration_ms": 151378,
-      "name": "New To You",
-      "url": "https://open.spotify.com/track/5bpWWMmId1gEjiw5l0fF4r"
-    },
-    {
-      "added_at": "2026-11-17 11:00:07",
-      "album": {
         "name": "Nova",
         "url": "https://open.spotify.com/album/6pzKtk1M2lDTaNT5wyH6AI"
       },
@@ -1923,6 +1907,22 @@
       "duration_ms": 142271,
       "name": "Nova",
       "url": "https://open.spotify.com/track/58320MeXvjRR0ATsTKSUja"
+    },
+    {
+      "added_at": "2026-11-17 11:00:07",
+      "album": {
+        "name": "New To You",
+        "url": "https://open.spotify.com/album/1EOchl5nhZjBbYYGPAK2Cq"
+      },
+      "artists": [
+        {
+          "name": "Duncan Laurence",
+          "url": "https://open.spotify.com/artist/3klZnJvYGIbWritVwQD434"
+        }
+      ],
+      "duration_ms": 151378,
+      "name": "New To You",
+      "url": "https://open.spotify.com/track/5bpWWMmId1gEjiw5l0fF4r"
     },
     {
       "added_at": "2026-11-17 11:00:07",
@@ -2027,22 +2027,6 @@
     {
       "added_at": "2026-11-17 11:00:07",
       "album": {
-        "name": "Wonder",
-        "url": "https://open.spotify.com/album/4FCruvsrPX51W87OJudg3M"
-      },
-      "artists": [
-        {
-          "name": "IBE",
-          "url": "https://open.spotify.com/artist/3azm1qf9DUaUiYfWpPRjUT"
-        }
-      ],
-      "duration_ms": 211706,
-      "name": "Wonder",
-      "url": "https://open.spotify.com/track/0J1P4EF3LvP3br9u9CjsxJ"
-    },
-    {
-      "added_at": "2026-11-17 11:00:07",
-      "album": {
         "name": "Universe",
         "url": "https://open.spotify.com/album/1nmF0O0ff5o47buSCKTWrx"
       },
@@ -2055,6 +2039,22 @@
       "duration_ms": 166941,
       "name": "Universe",
       "url": "https://open.spotify.com/track/6qJXOI2wHjE98wEOruUd0w"
+    },
+    {
+      "added_at": "2026-11-17 11:00:07",
+      "album": {
+        "name": "Wonder",
+        "url": "https://open.spotify.com/album/4FCruvsrPX51W87OJudg3M"
+      },
+      "artists": [
+        {
+          "name": "IBE",
+          "url": "https://open.spotify.com/artist/3azm1qf9DUaUiYfWpPRjUT"
+        }
+      ],
+      "duration_ms": 211706,
+      "name": "Wonder",
+      "url": "https://open.spotify.com/track/0J1P4EF3LvP3br9u9CjsxJ"
     },
     {
       "added_at": "2026-11-17 11:00:07",
@@ -2187,22 +2187,6 @@
     {
       "added_at": "2026-11-17 11:00:07",
       "album": {
-        "name": "All The Things",
-        "url": "https://open.spotify.com/album/2RGi75eKSdLPC99WnzMggs"
-      },
-      "artists": [
-        {
-          "name": "Joya Mooi",
-          "url": "https://open.spotify.com/artist/03X2rnTnfrpid7yLZfUSGn"
-        }
-      ],
-      "duration_ms": 181000,
-      "name": "All The Things",
-      "url": "https://open.spotify.com/track/0Wknp7wThnRkNl2xw4h19g"
-    },
-    {
-      "added_at": "2026-11-17 11:00:07",
-      "album": {
         "name": "RETROSPECT",
         "url": "https://open.spotify.com/album/32Ni3cNuxsKj5xiLkVc1Sf"
       },
@@ -2215,6 +2199,22 @@
       "duration_ms": 232733,
       "name": "moonchild",
       "url": "https://open.spotify.com/track/7B02F2vNeU33Q04DbhlyAd"
+    },
+    {
+      "added_at": "2026-11-17 11:00:07",
+      "album": {
+        "name": "All The Things",
+        "url": "https://open.spotify.com/album/2RGi75eKSdLPC99WnzMggs"
+      },
+      "artists": [
+        {
+          "name": "Joya Mooi",
+          "url": "https://open.spotify.com/artist/03X2rnTnfrpid7yLZfUSGn"
+        }
+      ],
+      "duration_ms": 181000,
+      "name": "All The Things",
+      "url": "https://open.spotify.com/track/0Wknp7wThnRkNl2xw4h19g"
     },
     {
       "added_at": "2026-11-17 11:00:07",
@@ -2475,22 +2475,6 @@
     {
       "added_at": "2026-11-17 11:00:07",
       "album": {
-        "name": "Feline (Deluxe)",
-        "url": "https://open.spotify.com/album/0AbUYFSGVNegJoajijrRvM"
-      },
-      "artists": [
-        {
-          "name": "Ella Eyre",
-          "url": "https://open.spotify.com/artist/66TrUkUZ3RM29dqeDQRgyA"
-        }
-      ],
-      "duration_ms": 236293,
-      "name": "We Don't Have To Take Our Clothes Off",
-      "url": "https://open.spotify.com/track/61iyAeMVUNu7vIVqedsBFB"
-    },
-    {
-      "added_at": "2026-11-17 11:00:07",
-      "album": {
         "name": "Purpose (Deluxe)",
         "url": "https://open.spotify.com/album/7fZH0aUAjY3ay25obOUf2a"
       },
@@ -2503,6 +2487,22 @@
       "duration_ms": 210160,
       "name": "Purpose",
       "url": "https://open.spotify.com/track/3jHCXrZNz8fQEEf4BpWCAj"
+    },
+    {
+      "added_at": "2026-11-17 11:00:07",
+      "album": {
+        "name": "Feline (Deluxe)",
+        "url": "https://open.spotify.com/album/0AbUYFSGVNegJoajijrRvM"
+      },
+      "artists": [
+        {
+          "name": "Ella Eyre",
+          "url": "https://open.spotify.com/artist/66TrUkUZ3RM29dqeDQRgyA"
+        }
+      ],
+      "duration_ms": 236293,
+      "name": "We Don't Have To Take Our Clothes Off",
+      "url": "https://open.spotify.com/track/61iyAeMVUNu7vIVqedsBFB"
     },
     {
       "added_at": "2026-11-17 11:00:07",
@@ -2555,6 +2555,22 @@
     {
       "added_at": "2026-11-17 11:00:07",
       "album": {
+        "name": "7 Layers",
+        "url": "https://open.spotify.com/album/6j7rolGd1DxrUDzo2XfC8z"
+      },
+      "artists": [
+        {
+          "name": "Dotan",
+          "url": "https://open.spotify.com/artist/1cwOthlzLBwN8Imbq7P71H"
+        }
+      ],
+      "duration_ms": 209687,
+      "name": "Hungry",
+      "url": "https://open.spotify.com/track/5Va4EmNp4g8lniR5MiR4oT"
+    },
+    {
+      "added_at": "2026-11-17 11:00:07",
+      "album": {
         "name": "In A Perfect World",
         "url": "https://open.spotify.com/album/29Tc7Ue6KVfc5mzXxoMgEL"
       },
@@ -2587,18 +2603,18 @@
     {
       "added_at": "2026-11-17 11:00:07",
       "album": {
-        "name": "7 Layers",
-        "url": "https://open.spotify.com/album/6j7rolGd1DxrUDzo2XfC8z"
+        "name": "You Let Me Walk Alone",
+        "url": "https://open.spotify.com/album/2zxvzQeDY4lmXsJnS6Hxun"
       },
       "artists": [
         {
-          "name": "Dotan",
-          "url": "https://open.spotify.com/artist/1cwOthlzLBwN8Imbq7P71H"
+          "name": "Michael Schulte",
+          "url": "https://open.spotify.com/artist/21aa4pj9BvbFB2iT8kRpnq"
         }
       ],
-      "duration_ms": 209687,
-      "name": "Hungry",
-      "url": "https://open.spotify.com/track/5Va4EmNp4g8lniR5MiR4oT"
+      "duration_ms": 177886,
+      "name": "You Let Me Walk Alone",
+      "url": "https://open.spotify.com/track/2VE2Ys42iJr9q9rVucRJT4"
     },
     {
       "added_at": "2026-11-17 11:00:07",
@@ -2615,22 +2631,6 @@
       "duration_ms": 222041,
       "name": "Nothing Really Matters",
       "url": "https://open.spotify.com/track/7fWSIddv6LJG8ZXJFNVQyi"
-    },
-    {
-      "added_at": "2026-11-17 11:00:07",
-      "album": {
-        "name": "You Let Me Walk Alone",
-        "url": "https://open.spotify.com/album/2zxvzQeDY4lmXsJnS6Hxun"
-      },
-      "artists": [
-        {
-          "name": "Michael Schulte",
-          "url": "https://open.spotify.com/artist/21aa4pj9BvbFB2iT8kRpnq"
-        }
-      ],
-      "duration_ms": 177886,
-      "name": "You Let Me Walk Alone",
-      "url": "https://open.spotify.com/track/2VE2Ys42iJr9q9rVucRJT4"
     },
     {
       "added_at": "2026-11-17 11:00:07",

@@ -1,6 +1,6 @@
 {
   "description": "Every track you're listening/should be listening to ;) ",
-  "num_followers": 1383638,
+  "num_followers": 1384093,
   "original_name": "Trending Now India",
   "owner": {
     "name": "Spotify",
@@ -499,8 +499,8 @@
     {
       "added_at": "2026-11-25 15:13:23",
       "album": {
-        "name": "Pavazha Malli (From \"Think Indie\")",
-        "url": "https://open.spotify.com/album/0AZKtXd74RQmQtCSGcVuZB"
+        "name": "Alaakaa Loova (From \"O.M: Operation Mole\")",
+        "url": "https://open.spotify.com/album/1QxshnBv2N7xiC2OmGpldW"
       },
       "artists": [
         {
@@ -508,17 +508,13 @@
           "url": "https://open.spotify.com/artist/5jJrJU7VVmxQQLcLAmmxXc"
         },
         {
-          "name": "Shruti Haasan",
-          "url": "https://open.spotify.com/artist/06vOoTzj6cIac9FMbNXz9h"
-        },
-        {
-          "name": "Vivek",
-          "url": "https://open.spotify.com/artist/25Pa1Vz1ZuTHmXPiYeMcgx"
+          "name": "Rokesh",
+          "url": "https://open.spotify.com/artist/6R33h8YbB5fFg8RdJdQ6bL"
         }
       ],
-      "duration_ms": 252569,
-      "name": "Pavazha Malli - From \"Think Indie\"",
-      "url": "https://open.spotify.com/track/4yur1GSBfuS1VADyUYocqd"
+      "duration_ms": 210197,
+      "name": "Alaakaa Loova (From \"O.M: Operation Mole\")",
+      "url": "https://open.spotify.com/track/0JiGoqPHbvK65rBHadXYoB"
     },
     {
       "added_at": "2026-11-25 15:13:23",
@@ -607,8 +603,8 @@
     {
       "added_at": "2026-11-25 15:13:23",
       "album": {
-        "name": "Alaakaa Loova (From \"O.M: Operation Mole\")",
-        "url": "https://open.spotify.com/album/1QxshnBv2N7xiC2OmGpldW"
+        "name": "Pavazha Malli (From \"Think Indie\")",
+        "url": "https://open.spotify.com/album/0AZKtXd74RQmQtCSGcVuZB"
       },
       "artists": [
         {
@@ -616,13 +612,17 @@
           "url": "https://open.spotify.com/artist/5jJrJU7VVmxQQLcLAmmxXc"
         },
         {
-          "name": "Rokesh",
-          "url": "https://open.spotify.com/artist/6R33h8YbB5fFg8RdJdQ6bL"
+          "name": "Shruti Haasan",
+          "url": "https://open.spotify.com/artist/06vOoTzj6cIac9FMbNXz9h"
+        },
+        {
+          "name": "Vivek",
+          "url": "https://open.spotify.com/artist/25Pa1Vz1ZuTHmXPiYeMcgx"
         }
       ],
-      "duration_ms": 210197,
-      "name": "Alaakaa Loova (From \"O.M: Operation Mole\")",
-      "url": "https://open.spotify.com/track/0JiGoqPHbvK65rBHadXYoB"
+      "duration_ms": 252569,
+      "name": "Pavazha Malli - From \"Think Indie\"",
+      "url": "https://open.spotify.com/track/4yur1GSBfuS1VADyUYocqd"
     },
     {
       "added_at": "2026-11-25 15:13:23",
@@ -731,30 +731,6 @@
     {
       "added_at": "2026-11-25 15:13:23",
       "album": {
-        "name": "Udi Udi",
-        "url": "https://open.spotify.com/album/6ZRXnfTz48dWXDlDrumiYE"
-      },
-      "artists": [
-        {
-          "name": "Aneesh",
-          "url": "https://open.spotify.com/artist/2K1yi9M4TJ3cEEO6hFG1z2"
-        },
-        {
-          "name": "Sarkar",
-          "url": "https://open.spotify.com/artist/2R4yA8DlTWiUCpYlC0NMZh"
-        },
-        {
-          "name": "Hruday",
-          "url": "https://open.spotify.com/artist/5LAR3fyRELNNXHIfnptaXF"
-        }
-      ],
-      "duration_ms": 161250,
-      "name": "Udi Udi",
-      "url": "https://open.spotify.com/track/4ROldgaRDDAI2VP8rWkjat"
-    },
-    {
-      "added_at": "2026-11-25 15:13:23",
-      "album": {
         "name": "Andaaz e Karam",
         "url": "https://open.spotify.com/album/1gff8T3LglEcMh0ow2VwdO"
       },
@@ -775,6 +751,30 @@
       "duration_ms": 437679,
       "name": "Andaaz e Karam",
       "url": "https://open.spotify.com/track/0qheD9ZwdmVKu5ktHXFbb0"
+    },
+    {
+      "added_at": "2026-11-25 15:13:23",
+      "album": {
+        "name": "Udi Udi",
+        "url": "https://open.spotify.com/album/6ZRXnfTz48dWXDlDrumiYE"
+      },
+      "artists": [
+        {
+          "name": "Aneesh",
+          "url": "https://open.spotify.com/artist/2K1yi9M4TJ3cEEO6hFG1z2"
+        },
+        {
+          "name": "Sarkar",
+          "url": "https://open.spotify.com/artist/2R4yA8DlTWiUCpYlC0NMZh"
+        },
+        {
+          "name": "Hruday",
+          "url": "https://open.spotify.com/artist/5LAR3fyRELNNXHIfnptaXF"
+        }
+      ],
+      "duration_ms": 161250,
+      "name": "Udi Udi",
+      "url": "https://open.spotify.com/track/4ROldgaRDDAI2VP8rWkjat"
     },
     {
       "added_at": "2026-11-25 15:13:23",
@@ -1007,22 +1007,6 @@
     {
       "added_at": "2026-11-25 15:13:23",
       "album": {
-        "name": "CHANEL",
-        "url": "https://open.spotify.com/album/4u9fJJ2AxC2VzyyeJVyS59"
-      },
-      "artists": [
-        {
-          "name": "Tyla",
-          "url": "https://open.spotify.com/artist/3SozjO3Lat463tQICI9LcE"
-        }
-      ],
-      "duration_ms": 188059,
-      "name": "CHANEL",
-      "url": "https://open.spotify.com/track/4VxTzYm00mg82MuoT35Ja7"
-    },
-    {
-      "added_at": "2026-11-25 15:13:23",
-      "album": {
         "name": "Tere Bina Na Guzara E",
         "url": "https://open.spotify.com/album/2F1gMtjzItjOoTMgp9qakV"
       },
@@ -1035,6 +1019,22 @@
       "duration_ms": 220800,
       "name": "Tere Bina Na Guzara E",
       "url": "https://open.spotify.com/track/0NXnuTqFQHDsbEIoKIAVCN"
+    },
+    {
+      "added_at": "2026-11-25 15:13:23",
+      "album": {
+        "name": "CHANEL",
+        "url": "https://open.spotify.com/album/4u9fJJ2AxC2VzyyeJVyS59"
+      },
+      "artists": [
+        {
+          "name": "Tyla",
+          "url": "https://open.spotify.com/artist/3SozjO3Lat463tQICI9LcE"
+        }
+      ],
+      "duration_ms": 188059,
+      "name": "CHANEL",
+      "url": "https://open.spotify.com/track/4VxTzYm00mg82MuoT35Ja7"
     },
     {
       "added_at": "2026-11-25 15:13:23",
@@ -1163,30 +1163,18 @@
     {
       "added_at": "2026-11-25 15:13:23",
       "album": {
-        "name": "Amsham - \u0d05\u0d02\u0d36\u0d02",
-        "url": "https://open.spotify.com/album/2S8ZSnpmlReMfteHNp3zju"
+        "name": "YRF Top 10 - Falling in Love",
+        "url": "https://open.spotify.com/album/1ujIERX0vWqw9kcYr6VMRp"
       },
       "artists": [
         {
-          "name": "Aksomaniac",
-          "url": "https://open.spotify.com/artist/12tOFlQDhU4Jx6wNb9XO87"
-        },
-        {
-          "name": "M.H.R",
-          "url": "https://open.spotify.com/artist/5A5bbXuMkVh28lxVO4y25g"
-        },
-        {
-          "name": "Bhumi",
-          "url": "https://open.spotify.com/artist/6ze415xN4HqPmAhj1P4pRl"
-        },
-        {
-          "name": "Circle Tone",
-          "url": "https://open.spotify.com/artist/5FLdl3TGJp0xXgUSimW2yQ"
+          "name": "Atif Aslam",
+          "url": "https://open.spotify.com/artist/2oSONSC9zQ4UonDKnLqksx"
         }
       ],
-      "duration_ms": 281800,
-      "name": "Amsham - \u0d05\u0d02\u0d36\u0d02",
-      "url": "https://open.spotify.com/track/0Dt5EqEckM8jcfMYEdlx2Z"
+      "duration_ms": 260536,
+      "name": "Dil Diyan Gallan",
+      "url": "https://open.spotify.com/track/0FBQ4NrrHUbR9kus7rzrOj"
     },
     {
       "added_at": "2026-11-25 15:13:23",
@@ -1215,18 +1203,30 @@
     {
       "added_at": "2026-11-25 15:13:23",
       "album": {
-        "name": "YRF Top 10 - Falling in Love",
-        "url": "https://open.spotify.com/album/1ujIERX0vWqw9kcYr6VMRp"
+        "name": "Amsham - \u0d05\u0d02\u0d36\u0d02",
+        "url": "https://open.spotify.com/album/2S8ZSnpmlReMfteHNp3zju"
       },
       "artists": [
         {
-          "name": "Atif Aslam",
-          "url": "https://open.spotify.com/artist/2oSONSC9zQ4UonDKnLqksx"
+          "name": "Aksomaniac",
+          "url": "https://open.spotify.com/artist/12tOFlQDhU4Jx6wNb9XO87"
+        },
+        {
+          "name": "M.H.R",
+          "url": "https://open.spotify.com/artist/5A5bbXuMkVh28lxVO4y25g"
+        },
+        {
+          "name": "Bhumi",
+          "url": "https://open.spotify.com/artist/6ze415xN4HqPmAhj1P4pRl"
+        },
+        {
+          "name": "Circle Tone",
+          "url": "https://open.spotify.com/artist/5FLdl3TGJp0xXgUSimW2yQ"
         }
       ],
-      "duration_ms": 260536,
-      "name": "Dil Diyan Gallan",
-      "url": "https://open.spotify.com/track/0FBQ4NrrHUbR9kus7rzrOj"
+      "duration_ms": 281800,
+      "name": "Amsham - \u0d05\u0d02\u0d36\u0d02",
+      "url": "https://open.spotify.com/track/0Dt5EqEckM8jcfMYEdlx2Z"
     },
     {
       "added_at": "2026-11-25 15:13:23",
@@ -1283,6 +1283,26 @@
     {
       "added_at": "2026-11-25 15:13:23",
       "album": {
+        "name": "O Saathi (From \"Baaghi 2\")",
+        "url": "https://open.spotify.com/album/23L9JSXD0RrynRb71ZfL9A"
+      },
+      "artists": [
+        {
+          "name": "Atif Aslam",
+          "url": "https://open.spotify.com/artist/2oSONSC9zQ4UonDKnLqksx"
+        },
+        {
+          "name": "Arko",
+          "url": "https://open.spotify.com/artist/6jf2eKjiPT6P18RbOSLzf0"
+        }
+      ],
+      "duration_ms": 251818,
+      "name": "O Saathi",
+      "url": "https://open.spotify.com/track/6fScgF2Y63ScU73nYju0ny"
+    },
+    {
+      "added_at": "2026-11-25 15:13:23",
+      "album": {
         "name": "Dhun (From \"Saiyaara\")",
         "url": "https://open.spotify.com/album/7oUQEGYiwyjH8OFCu5Y4IG"
       },
@@ -1319,26 +1339,6 @@
       "duration_ms": 340399,
       "name": "Galliyan",
       "url": "https://open.spotify.com/track/3ySVdXje5nm31d7vL3jNV3"
-    },
-    {
-      "added_at": "2026-11-25 15:13:23",
-      "album": {
-        "name": "O Saathi (From \"Baaghi 2\")",
-        "url": "https://open.spotify.com/album/23L9JSXD0RrynRb71ZfL9A"
-      },
-      "artists": [
-        {
-          "name": "Atif Aslam",
-          "url": "https://open.spotify.com/artist/2oSONSC9zQ4UonDKnLqksx"
-        },
-        {
-          "name": "Arko",
-          "url": "https://open.spotify.com/artist/6jf2eKjiPT6P18RbOSLzf0"
-        }
-      ],
-      "duration_ms": 251818,
-      "name": "O Saathi",
-      "url": "https://open.spotify.com/track/6fScgF2Y63ScU73nYju0ny"
     },
     {
       "added_at": "2026-11-25 15:13:23",
@@ -1583,26 +1583,26 @@
     {
       "added_at": "2026-11-25 15:13:23",
       "album": {
-        "name": "Mr. And Mrs. Mahi (Original Motion Picture Soundtrack)",
-        "url": "https://open.spotify.com/album/3PI3er7mHLniPndwdo0mlA"
+        "name": "Yeh Jawaani Hai Deewani",
+        "url": "https://open.spotify.com/album/2Lxoc72vRTGdQfMvj7Ovi1"
       },
       "artists": [
         {
-          "name": "Bunny",
-          "url": "https://open.spotify.com/artist/0Or6EukLg1g2fTl08fPz2o"
+          "name": "Pritam",
+          "url": "https://open.spotify.com/artist/1wRPtKGflJrBx9BmLsSwlU"
         },
         {
-          "name": "Hunny",
-          "url": "https://open.spotify.com/artist/3VkiCR2nuvfucpvFXdSVtx"
+          "name": "Arijit Singh",
+          "url": "https://open.spotify.com/artist/4YRxDV8wJFPHPTeXepOstw"
         },
         {
-          "name": "Sagar",
-          "url": "https://open.spotify.com/artist/1uY9B9QroF5K8wPyeEO1QN"
+          "name": "Amitabh Bhattacharya",
+          "url": "https://open.spotify.com/artist/2fMqTqiTxUDlmcOEPaQSsx"
         }
       ],
-      "duration_ms": 283539,
-      "name": "Tu Hain Toh (From \"Mr. And Mrs. Mahi\")",
-      "url": "https://open.spotify.com/track/6egfWbtFFhMToV2DvmEzmo"
+      "duration_ms": 228982,
+      "name": "Ilahi",
+      "url": "https://open.spotify.com/track/5cgKosPPj5Cs9a2JQufUc1"
     },
     {
       "added_at": "2026-11-25 15:13:23",
@@ -1635,26 +1635,26 @@
     {
       "added_at": "2026-11-25 15:13:23",
       "album": {
-        "name": "Yeh Jawaani Hai Deewani",
-        "url": "https://open.spotify.com/album/2Lxoc72vRTGdQfMvj7Ovi1"
+        "name": "Mr. And Mrs. Mahi (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/3PI3er7mHLniPndwdo0mlA"
       },
       "artists": [
         {
-          "name": "Pritam",
-          "url": "https://open.spotify.com/artist/1wRPtKGflJrBx9BmLsSwlU"
+          "name": "Bunny",
+          "url": "https://open.spotify.com/artist/0Or6EukLg1g2fTl08fPz2o"
         },
         {
-          "name": "Arijit Singh",
-          "url": "https://open.spotify.com/artist/4YRxDV8wJFPHPTeXepOstw"
+          "name": "Hunny",
+          "url": "https://open.spotify.com/artist/3VkiCR2nuvfucpvFXdSVtx"
         },
         {
-          "name": "Amitabh Bhattacharya",
-          "url": "https://open.spotify.com/artist/2fMqTqiTxUDlmcOEPaQSsx"
+          "name": "Sagar",
+          "url": "https://open.spotify.com/artist/1uY9B9QroF5K8wPyeEO1QN"
         }
       ],
-      "duration_ms": 228982,
-      "name": "Ilahi",
-      "url": "https://open.spotify.com/track/5cgKosPPj5Cs9a2JQufUc1"
+      "duration_ms": 283539,
+      "name": "Tu Hain Toh (From \"Mr. And Mrs. Mahi\")",
+      "url": "https://open.spotify.com/track/6egfWbtFFhMToV2DvmEzmo"
     },
     {
       "added_at": "2026-11-25 15:13:23",

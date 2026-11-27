@@ -4297,6 +4297,28 @@
     },
     {
       "album": {
+        "name": "Calmo",
+        "url": "https://open.spotify.com/album/6qyS648OD8JhbdrLxcR1sF"
+      },
+      "artists": [
+        {
+          "name": "Humberto Gessinger",
+          "url": "https://open.spotify.com/artist/4A4HpNHrbu2nzPyIGFTaJ5"
+        },
+        {
+          "name": "Duca Leindecker",
+          "url": "https://open.spotify.com/artist/1265uXcvod5t28vgWMUH9U"
+        }
+      ],
+      "date_added": "2026-11-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 167437,
+      "name": "Calmo",
+      "url": "https://open.spotify.com/track/1PQ2CNWw21L0v67Fap4YwJ"
+    },
+    {
+      "album": {
         "name": "Camalear",
         "url": "https://open.spotify.com/album/72yfPN15uFV94Yy5deCU9A"
       },
@@ -6388,6 +6410,24 @@
       "duration_ms": 177825,
       "name": "De Longe Toda Serra \u00c9 Azul",
       "url": "https://open.spotify.com/track/6dLdOv1iSkJ4Ub9cq5roVM"
+    },
+    {
+      "album": {
+        "name": "De L\u00e1 Pra C\u00e1",
+        "url": "https://open.spotify.com/album/21BEkYawHAW8nuo0STyp8H"
+      },
+      "artists": [
+        {
+          "name": "Stefano",
+          "url": "https://open.spotify.com/artist/2Bao7Lz3ywa0lvgpwRmAVT"
+        }
+      ],
+      "date_added": "2026-11-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 181734,
+      "name": "De L\u00e1, Pra C\u00e1",
+      "url": "https://open.spotify.com/track/3xWf70i5iLUDcAJh4h0Qsl"
     },
     {
       "album": {
@@ -9532,7 +9572,7 @@
       ],
       "date_added": "2026-10-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-27",
       "duration_ms": 175000,
       "name": "Flor",
       "url": "https://open.spotify.com/track/2S298D55M4nMNNWJZxRf2D"
@@ -9558,6 +9598,24 @@
       "duration_ms": 204537,
       "name": "Flor de Maracuj\u00e1",
       "url": "https://open.spotify.com/track/08bxoA6X4I7fdxWN0IW6DY"
+    },
+    {
+      "album": {
+        "name": "FOFO",
+        "url": "https://open.spotify.com/album/60zJHPFVpGXnQB0qAHJe4T"
+      },
+      "artists": [
+        {
+          "name": "Chico C\u00e9sar",
+          "url": "https://open.spotify.com/artist/3vlUveVfzPXzhiPGjHHxOH"
+        }
+      ],
+      "date_added": "2026-11-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 140802,
+      "name": "Fofo",
+      "url": "https://open.spotify.com/track/3sTIXhP7gNbU90jmYHqv2X"
     },
     {
       "album": {
@@ -11581,6 +11639,24 @@
     },
     {
       "album": {
+        "name": "Leve Obsess\u00e3o",
+        "url": "https://open.spotify.com/album/6WDeyJZcqO9WfdKzb8e9Bc"
+      },
+      "artists": [
+        {
+          "name": "Bia Marques",
+          "url": "https://open.spotify.com/artist/0fUdNywWe3Nfb8eClIue8R"
+        }
+      ],
+      "date_added": "2026-11-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 182590,
+      "name": "Leve Obsess\u00e3o",
+      "url": "https://open.spotify.com/track/7LF2xyKg4vHahf6Dup4WVh"
+    },
+    {
+      "album": {
         "name": "Olho de Peixe",
         "url": "https://open.spotify.com/album/4Qo5awa7oJiARMUs7tHsb8"
       },
@@ -12626,6 +12702,36 @@
       "duration_ms": 143933,
       "name": "Maria Maria - Spotify Singles",
       "url": "https://open.spotify.com/track/31cMz7eSw5B0cwYTplXUcn"
+    },
+    {
+      "album": {
+        "name": "Pega o Sol com a M\u00e3o",
+        "url": "https://open.spotify.com/album/1hUFSav4mmRrCh39Gcztuy"
+      },
+      "artists": [
+        {
+          "name": "Mestra Odete de Pilar",
+          "url": "https://open.spotify.com/artist/76qRb7iFNXLBcBYdvP4ZHF"
+        },
+        {
+          "name": "Alessandra Le\u00e3o",
+          "url": "https://open.spotify.com/artist/37m97yyap5ftH0sx3IHqno"
+        },
+        {
+          "name": "Ju\u00e7ara Mar\u00e7al",
+          "url": "https://open.spotify.com/artist/74PBfm6hR8w1StnVKSac3i"
+        },
+        {
+          "name": "Paula Bujes",
+          "url": "https://open.spotify.com/artist/1PIu9Oa8X86LEJ0OH4IuW9"
+        }
+      ],
+      "date_added": "2026-11-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 160100,
+      "name": "Maria Pequena",
+      "url": "https://open.spotify.com/track/2San9jI0yHRtnF8jmUHMHY"
     },
     {
       "album": {
@@ -14906,7 +15012,7 @@
       ],
       "date_added": "2026-09-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-27",
       "duration_ms": 218651,
       "name": "NORTEAR",
       "url": "https://open.spotify.com/track/2xIOmAZZWIV7JBGqpuuwPN"
@@ -15548,7 +15654,7 @@
       ],
       "date_added": "2026-10-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-27",
       "duration_ms": 152000,
       "name": "N\u00d3S",
       "url": "https://open.spotify.com/track/2X50ZlAwADKYkmgliV03Gm"
@@ -16963,6 +17069,28 @@
     },
     {
       "album": {
+        "name": "OUTRA DAN\u00c7A",
+        "url": "https://open.spotify.com/album/0VMl05rXaLW8YDFjS7pEc0"
+      },
+      "artists": [
+        {
+          "name": "Juliano Holanda",
+          "url": "https://open.spotify.com/artist/3wg2dojocgkzfZFx66oHSt"
+        },
+        {
+          "name": "Roberta Campos",
+          "url": "https://open.spotify.com/artist/5CC2At3k0Xnyc5s9yHdyax"
+        }
+      ],
+      "date_added": "2026-11-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 194222,
+      "name": "OUTRA DAN\u00c7A",
+      "url": "https://open.spotify.com/track/2HbFETge1WIhYpKw2BlJHm"
+    },
+    {
+      "album": {
         "name": "Outra Ladeira",
         "url": "https://open.spotify.com/album/20BXK1rBXqmb43DSFfR3Im"
       },
@@ -18240,7 +18368,7 @@
       ],
       "date_added": "2026-07-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-27",
       "duration_ms": 161944,
       "name": "Por Onde Deus Sorri",
       "url": "https://open.spotify.com/track/5QdrveW2rl2WTrhjuca317"
@@ -18704,7 +18832,7 @@
       ],
       "date_added": "2026-10-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-27",
       "duration_ms": 204177,
       "name": "Pra Ter Fim",
       "url": "https://open.spotify.com/track/5aOcYyEFQJzLxwIunTjGyA"
@@ -19020,7 +19148,7 @@
       ],
       "date_added": "2026-09-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-27",
       "duration_ms": 144296,
       "name": "Presente",
       "url": "https://open.spotify.com/track/3GCQrVE2tt0gmEQaxzD8gS"
@@ -19556,7 +19684,7 @@
       ],
       "date_added": "2026-10-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-27",
       "duration_ms": 187415,
       "name": "Qualquer Bobagem - Ao Vivo",
       "url": "https://open.spotify.com/track/7nnMIioa5nnMMjoXBzu7Hc"
@@ -20854,7 +20982,7 @@
       ],
       "date_added": "2026-07-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-27",
       "duration_ms": 220689,
       "name": "romance",
       "url": "https://open.spotify.com/track/1Ith7xkDDOT4DLAEUp0rp7"
@@ -21108,6 +21236,24 @@
       "duration_ms": 151800,
       "name": "Salvador",
       "url": "https://open.spotify.com/track/563tt8KfkDb3FFhPCSl4em"
+    },
+    {
+      "album": {
+        "name": "Rua Primeira",
+        "url": "https://open.spotify.com/album/6xnOJTqF7yckXR3IT91dOw"
+      },
+      "artists": [
+        {
+          "name": "Carlinhos Brown",
+          "url": "https://open.spotify.com/artist/5jvQoouPSDvUEwynz5KPpv"
+        }
+      ],
+      "date_added": "2026-11-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 207428,
+      "name": "Salvador Rua Primeira - Ac\u00fastica",
+      "url": "https://open.spotify.com/track/36cuTS2I63A6IgEUaJsokD"
     },
     {
       "album": {
@@ -22110,7 +22256,7 @@
       ],
       "date_added": "2026-09-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-27",
       "duration_ms": 264993,
       "name": "Ser \u00c1gua",
       "url": "https://open.spotify.com/track/04TKTnue3bVfL76UnzlrcL"
@@ -22524,6 +22670,24 @@
       "duration_ms": 180185,
       "name": "sol na pele",
       "url": "https://open.spotify.com/track/5DsCl1RVwYK5hgBBDLwlKq"
+    },
+    {
+      "album": {
+        "name": "Meu V\u00edcio na Dor de Amar Demais",
+        "url": "https://open.spotify.com/album/39xZscLSfju7ESaOyqeSsP"
+      },
+      "artists": [
+        {
+          "name": "Ala\u00edde Costa",
+          "url": "https://open.spotify.com/artist/2KkoeJkkFr802J5gPjlRGs"
+        }
+      ],
+      "date_added": "2026-11-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 241602,
+      "name": "Solar",
+      "url": "https://open.spotify.com/track/3c2BckCMnexaGaQTBP0Az1"
     },
     {
       "album": {
@@ -25180,6 +25344,28 @@
       "duration_ms": 188415,
       "name": "Um P\u00f4r do Sol Na Praia",
       "url": "https://open.spotify.com/track/7JGjgJOUPjyc35carv8hoh"
+    },
+    {
+      "album": {
+        "name": "Cinema Brasileiro",
+        "url": "https://open.spotify.com/album/5mw3q3GTzGhn2hKXQ8TRYo"
+      },
+      "artists": [
+        {
+          "name": "Zeca Baleiro",
+          "url": "https://open.spotify.com/artist/7LunbFWIm3RPQpywjOSSd8"
+        },
+        {
+          "name": "Rodrigo Bittencourt",
+          "url": "https://open.spotify.com/artist/2IlBhuwIzNLOvExaplv0tj"
+        }
+      ],
+      "date_added": "2026-11-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 219507,
+      "name": "Um Roberto",
+      "url": "https://open.spotify.com/track/6lub3iBiIppuW4E4vLrTdJ"
     },
     {
       "album": {

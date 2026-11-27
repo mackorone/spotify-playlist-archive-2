@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2025-06-24",
-  "description": "The heartbeat of Afro House from Africa and around the globe. Cover: Heavy-K",
+  "description": "The heartbeat of Afro House from Africa and around the globe. Cover: JAZZWRLD & Thukuthela",
   "name": "Afro House Pulse",
   "tracks": [
     {
@@ -257,6 +257,32 @@
     },
     {
       "album": {
+        "name": "Alive (KILIMANJARO Remix)",
+        "url": "https://open.spotify.com/album/1wHlFsfp9Pej0tHbjRmizG"
+      },
+      "artists": [
+        {
+          "name": "Jorja Smith",
+          "url": "https://open.spotify.com/artist/1CoZyIx7UvdxT5c8UkMzHd"
+        },
+        {
+          "name": "Wizkid",
+          "url": "https://open.spotify.com/artist/3tVQdUvClmAT7URs9V3rsp"
+        },
+        {
+          "name": "KILIMANJARO",
+          "url": "https://open.spotify.com/artist/4QGD0m9AGZixhuPAzaBeD7"
+        }
+      ],
+      "date_added": "2026-11-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 227796,
+      "name": "Alive - KILIMANJARO Remix",
+      "url": "https://open.spotify.com/track/3KRmrHpM4yPqLlD6YvTzl4"
+    },
+    {
+      "album": {
         "name": "All The People",
         "url": "https://open.spotify.com/album/21BkH2O10433QoWLGs6pZN"
       },
@@ -436,6 +462,28 @@
       "duration_ms": 179604,
       "name": "An Be Se",
       "url": "https://open.spotify.com/track/3yqQxlCnAvZAm35lrfQH9H"
+    },
+    {
+      "album": {
+        "name": "Angbaleki",
+        "url": "https://open.spotify.com/album/5LVhpk5cfahWhEK1ygWrTE"
+      },
+      "artists": [
+        {
+          "name": "Vumaala",
+          "url": "https://open.spotify.com/artist/3fTQKDAeWjKzKIBFq0SI13"
+        },
+        {
+          "name": "Baby S.O.N",
+          "url": "https://open.spotify.com/artist/2Uh2YSht6hyKGPmIHn2Kt6"
+        }
+      ],
+      "date_added": "2026-11-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 210491,
+      "name": "Angbaleki",
+      "url": "https://open.spotify.com/track/3pOeogszJABxaoIAndRks8"
     },
     {
       "album": {
@@ -1453,6 +1501,28 @@
     },
     {
       "album": {
+        "name": "Cold Like That",
+        "url": "https://open.spotify.com/album/4rA9EjkDgzfzLrdUO4yjnn"
+      },
+      "artists": [
+        {
+          "name": "Naji Arun",
+          "url": "https://open.spotify.com/artist/6D4iLrobSbnjNEriFsP6lG"
+        },
+        {
+          "name": "Kali Mija",
+          "url": "https://open.spotify.com/artist/6hMmznEAGabh8UiGkQIuvP"
+        }
+      ],
+      "date_added": "2026-11-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 241625,
+      "name": "Cold Like That",
+      "url": "https://open.spotify.com/track/597whkch1QOB1bR47QuwhX"
+    },
+    {
+      "album": {
         "name": "Come To Me (My Love)",
         "url": "https://open.spotify.com/album/2YkSQ0CGMyrvt4MLNg8N1M"
       },
@@ -2020,7 +2090,7 @@
       ],
       "date_added": "2026-05-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-27",
       "duration_ms": 245007,
       "name": "Epiphany",
       "url": "https://open.spotify.com/track/0PbjL16GqsdVfQzYbjodnW"
@@ -2602,6 +2672,40 @@
       "duration_ms": 472394,
       "name": "Go On",
       "url": "https://open.spotify.com/track/71x8VSiR7e9PbyvVHminQS"
+    },
+    {
+      "album": {
+        "name": "GO! (Ngoneni) (feat. MaWhoo, Nkosazana Daughter, Thakzin & Tony Duardo)",
+        "url": "https://open.spotify.com/album/5o3drJwg2wzE1VlnWtWuDo"
+      },
+      "artists": [
+        {
+          "name": "Skyla Tylaa",
+          "url": "https://open.spotify.com/artist/65nasTOHBmMP0qoo6Xa245"
+        },
+        {
+          "name": "MaWhoo",
+          "url": "https://open.spotify.com/artist/5kwZB1xNLgB3lln1JGS2B9"
+        },
+        {
+          "name": "Nkosazana Daughter",
+          "url": "https://open.spotify.com/artist/4AnNB3lPD0Sv7ziKVHqI66"
+        },
+        {
+          "name": "Thakzin",
+          "url": "https://open.spotify.com/artist/5IqRgFYiImSVQrScLaFyEE"
+        },
+        {
+          "name": "Tony Duardo",
+          "url": "https://open.spotify.com/artist/6qF0eiWwQF073J1MuVFs5z"
+        }
+      ],
+      "date_added": "2026-11-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 352015,
+      "name": "GO! (Ngoneni) (feat. MaWhoo, Nkosazana Daughter, Thakzin & Tony Duardo)",
+      "url": "https://open.spotify.com/track/3rqY5CQwJa4FryYrdKjHIB"
     },
     {
       "album": {
@@ -3319,6 +3423,44 @@
     },
     {
       "album": {
+        "name": "Imithandazo (Baba Izwa) [feat. MaWhoo, Bongo 039]",
+        "url": "https://open.spotify.com/album/6RnqeNSt8InerYoN8UsSfI"
+      },
+      "artists": [
+        {
+          "name": "JAZZWRLD",
+          "url": "https://open.spotify.com/artist/3idyOn3lhSxgV2qdDQNfhz"
+        },
+        {
+          "name": "Nkosazana Daughter",
+          "url": "https://open.spotify.com/artist/4AnNB3lPD0Sv7ziKVHqI66"
+        },
+        {
+          "name": "Thukuthela",
+          "url": "https://open.spotify.com/artist/4yNx0crmKm3VRGTjWR1L3n"
+        },
+        {
+          "name": "Nontokozo Mkhize",
+          "url": "https://open.spotify.com/artist/2xYE0LYxFRGK9CQxLlkE7H"
+        },
+        {
+          "name": "MaWhoo",
+          "url": "https://open.spotify.com/artist/5kwZB1xNLgB3lln1JGS2B9"
+        },
+        {
+          "name": "Bongo 039",
+          "url": "https://open.spotify.com/artist/1tYaAmJ1rHZ3fkpUZ5U20j"
+        }
+      ],
+      "date_added": "2026-11-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 357375,
+      "name": "Imithandazo (Baba Izwa) (feat. MaWhoo & Bongo 039)",
+      "url": "https://open.spotify.com/track/1sMvg0Bocc3sOdVRHxRfbt"
+    },
+    {
+      "album": {
         "name": "Impatient / You Never Know",
         "url": "https://open.spotify.com/album/1kxva46pNeTihCqGPVsZAG"
       },
@@ -3895,6 +4037,28 @@
     },
     {
       "album": {
+        "name": "Iskuta Sami",
+        "url": "https://open.spotify.com/album/0WRWqLDdw1BfwqU0Giodeb"
+      },
+      "artists": [
+        {
+          "name": "Kotwane Hikwa",
+          "url": "https://open.spotify.com/artist/74bRdAZloW7MMQjZYf7x2g"
+        },
+        {
+          "name": "Nitefreak",
+          "url": "https://open.spotify.com/artist/6lbUCWVW3hgQgrJwB8wadJ"
+        }
+      ],
+      "date_added": "2026-11-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 388000,
+      "name": "Iskuta Sami",
+      "url": "https://open.spotify.com/track/3kpjgi5ZUcxjhZm5icbXNx"
+    },
+    {
+      "album": {
         "name": "Island Vibes",
         "url": "https://open.spotify.com/album/74TdvqwITNB8uek4BvKX9P"
       },
@@ -4254,7 +4418,7 @@
       ],
       "date_added": "2026-05-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-27",
       "duration_ms": 218000,
       "name": "Khona - Pierre Johnson & Simeon Remix",
       "url": "https://open.spotify.com/track/06rm6WlPfObXEVWR3e0vF9"
@@ -5928,6 +6092,40 @@
       "duration_ms": 124034,
       "name": "Na Luki",
       "url": "https://open.spotify.com/track/2FOBFeadI0qRZHpU9OWty5"
+    },
+    {
+      "album": {
+        "name": "Naja",
+        "url": "https://open.spotify.com/album/1fBaQpCh8G7GAVziZXUyP1"
+      },
+      "artists": [
+        {
+          "name": "OSKIDO",
+          "url": "https://open.spotify.com/artist/6PL23hz7B60eFrQ9pxVO9R"
+        },
+        {
+          "name": "Robotic ofc",
+          "url": "https://open.spotify.com/artist/71xOSSglXXYEoDuV1SPY3n"
+        },
+        {
+          "name": "Brothers of Peace",
+          "url": "https://open.spotify.com/artist/0OK0qQGF0hJueVZLGRlntj"
+        },
+        {
+          "name": "Zulu",
+          "url": "https://open.spotify.com/artist/0FJi3fSLGLtquZCfeC55Tm"
+        },
+        {
+          "name": "Costa",
+          "url": "https://open.spotify.com/artist/59MeuwKb1vxaJLX7uIttOg"
+        }
+      ],
+      "date_added": "2026-11-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 210005,
+      "name": "Naja",
+      "url": "https://open.spotify.com/track/41mahSzrdQ4lyPpSY1NAgM"
     },
     {
       "album": {
@@ -8344,7 +8542,7 @@
       ],
       "date_added": "2026-04-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-27",
       "duration_ms": 197829,
       "name": "The Drum",
       "url": "https://open.spotify.com/track/6kidZ88sGNXXFI1GzOlUL0"
@@ -8540,6 +8738,28 @@
       "duration_ms": 190447,
       "name": "Tiki Tiki 2.0",
       "url": "https://open.spotify.com/track/1YSyERC4PhhP8mN2fsm3d1"
+    },
+    {
+      "album": {
+        "name": "MASK OFF",
+        "url": "https://open.spotify.com/album/1kjD39PC4HmytkaGBx0NPU"
+      },
+      "artists": [
+        {
+          "name": "Fancy Fingers",
+          "url": "https://open.spotify.com/artist/6GKFK8rXiyBshmwi6CMm0y"
+        },
+        {
+          "name": "Vumala",
+          "url": "https://open.spotify.com/artist/74cHSXcr5tyf46rVRp0tjo"
+        }
+      ],
+      "date_added": "2026-11-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 256695,
+      "name": "Ting'a Malo",
+      "url": "https://open.spotify.com/track/48f8jK91IU82m6NWjb4RqS"
     },
     {
       "album": {

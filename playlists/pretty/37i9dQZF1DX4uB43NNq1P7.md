@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4uB43NNq1P7.md) - [plain]
 
 > The sounds of rain outside, while you're cozy inside with some relaxing piano music in the background.
 
-[Spotify](https://open.spotify.com/user/spotify) - 84,817 likes - 100 songs - 4 hr 22 min
+[Spotify](https://open.spotify.com/user/spotify) - 84,837 likes - 100 songs - 4 hr 22 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -15,8 +15,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4uB43NNq1P7.md) - [plain]
 | 5 | [wading birds \(in the Rain\)](https://open.spotify.com/track/5UGBKcAJDhS8v46nmOBJel) | [our distant worlds](https://open.spotify.com/artist/4fMFhhP8Sqi3WWiaoOm5QT) | [wading birds \(in the rain\)](https://open.spotify.com/album/7yJRrU8dhZaHkllqiNthTT) | 2:24 |
 | 6 | [Revisiter Gaude](https://open.spotify.com/track/2Cness0syUHeLISBwNiq6m) | [Mauvais Roger](https://open.spotify.com/artist/3WywoFt9vF6tSIJGseVSTD) | [Revisiter Gaude](https://open.spotify.com/album/1EjKIFt71gpsMwV0phDRYn) | 3:01 |
 | 7 | [Noctivane](https://open.spotify.com/track/4O1xr0NYGJ7uyhY9ys8nJc) | [Lunea Noire](https://open.spotify.com/artist/38RM8utORSPD2zicPYBdGZ) | [Noctivane](https://open.spotify.com/album/5NreXugBQONBszoPFnnXGn) | 2:27 |
-| 8 | [Conversation \(in Rain\)](https://open.spotify.com/track/0HfgErtwnzAUlSLza9VdoJ) | [Antoine Minot](https://open.spotify.com/artist/7uJIaUfHJ3VtFpeYm2jPTz) | [Conversation \(in Rain\)](https://open.spotify.com/album/6INwjFy13gUUQVlfGqQRjt) | 2:30 |
-| 9 | [Let It Rain](https://open.spotify.com/track/3w7Dut2khCCcIu5t9yyXCZ) | [Viro Marix](https://open.spotify.com/artist/0dSIbheAKaFJ9K2TxRJ3vv) | [Let It Rain](https://open.spotify.com/album/5El5aAJihvNhgiCI5ghf2j) | 2:15 |
+| 8 | [Let It Rain](https://open.spotify.com/track/3w7Dut2khCCcIu5t9yyXCZ) | [Viro Marix](https://open.spotify.com/artist/0dSIbheAKaFJ9K2TxRJ3vv) | [Let It Rain](https://open.spotify.com/album/5El5aAJihvNhgiCI5ghf2j) | 2:15 |
+| 9 | [Conversation \(in Rain\)](https://open.spotify.com/track/0HfgErtwnzAUlSLza9VdoJ) | [Antoine Minot](https://open.spotify.com/artist/7uJIaUfHJ3VtFpeYm2jPTz) | [Conversation \(in Rain\)](https://open.spotify.com/album/6INwjFy13gUUQVlfGqQRjt) | 2:30 |
 | 10 | [Lilies \(in the Rain\)](https://open.spotify.com/track/4sSIPu2WU8TZo3yN4PH36Z) | [Nils Olov](https://open.spotify.com/artist/1dgIBgGAPHKb49Cao2Z5U9) | [Lilies](https://open.spotify.com/album/6Q7a1kvIG9t3GgmTY2TeL3) | 3:02 |
 | 11 | [Finding Stillness](https://open.spotify.com/track/1397Q9ntqPu4eLlTgxym8W) | [Phobic](https://open.spotify.com/artist/4pgvre1wDhGGmEbjevWClj) | [Finding Stillness](https://open.spotify.com/album/2qZdb0bjjwkug2ShGqADAw) | 1:59 |
 | 12 | [Sweet Consequences](https://open.spotify.com/track/0yVOQ9HSzfu4dc08hCRkjR) | [Candle One](https://open.spotify.com/artist/4M5zaVmJAvkuuGI3HJ5UJY) | [Sweet Consequences](https://open.spotify.com/album/5OAjP1zvLsdqTjl3veYWTv) | 1:42 |
@@ -26,8 +26,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4uB43NNq1P7.md) - [plain]
 | 16 | [Vivid \(rain\)](https://open.spotify.com/track/65vtpgVu9L3brLPAIFHhLQ) | [Loulaz](https://open.spotify.com/artist/7MGPD7xEYrAipWB1xaoiZz) | [Vivid \(rain\)](https://open.spotify.com/album/5bfwIagQQosmKHVYnTh9I6) | 2:08 |
 | 17 | [Velaria](https://open.spotify.com/track/5xTEuQgLjj2JSEwQ6M2IGc) | [Lunea Noire](https://open.spotify.com/artist/38RM8utORSPD2zicPYBdGZ) | [Velaria](https://open.spotify.com/album/0jeA2YgoBwumYV7kjwCSnE) | 2:22 |
 | 18 | [Driftwood Letters](https://open.spotify.com/track/07kV3dk22L7wWnVge5kaU9) | [Lunea Noire](https://open.spotify.com/artist/38RM8utORSPD2zicPYBdGZ) | [Driftwood Letters](https://open.spotify.com/album/4CrgbrxmIYrTuuSJGGh2I4) | 2:29 |
-| 19 | [Faintly Remembered](https://open.spotify.com/track/68VUCJHt0Tf2JD3TrcAEss) | [Joseph Alphane](https://open.spotify.com/artist/65IJPn3wYi35Qpov4MXcFr) | [Faintly Remembered](https://open.spotify.com/album/4BSO9nyWffk4pB81I2tvwg) | 2:16 |
-| 20 | [I Go With You](https://open.spotify.com/track/5fZ5prTNlJQk4HI8lHbMkY) | [Sierra Loves the Moon](https://open.spotify.com/artist/4yDeKWRVpzrrzuqxX5bxgV) | [I Go With You](https://open.spotify.com/album/4kGMv2xj1VsMB6bnAmZJtE) | 3:14 |
+| 19 | [I Go With You](https://open.spotify.com/track/5fZ5prTNlJQk4HI8lHbMkY) | [Sierra Loves the Moon](https://open.spotify.com/artist/4yDeKWRVpzrrzuqxX5bxgV) | [I Go With You](https://open.spotify.com/album/4kGMv2xj1VsMB6bnAmZJtE) | 3:14 |
+| 20 | [Faintly Remembered](https://open.spotify.com/track/68VUCJHt0Tf2JD3TrcAEss) | [Joseph Alphane](https://open.spotify.com/artist/65IJPn3wYi35Qpov4MXcFr) | [Faintly Remembered](https://open.spotify.com/album/4BSO9nyWffk4pB81I2tvwg) | 2:16 |
 | 21 | [Rain outside my window](https://open.spotify.com/track/1jd741WLDBuMsSaZzm7GjA) | [Korey Banks](https://open.spotify.com/artist/300oLKNAaJNFP04XeswaAG) | [Rain outside my window](https://open.spotify.com/album/2cFAabHGPlsXqzHcuwKYSB) | 2:20 |
 | 22 | [Whispers of Dawn \(in the Rain\)](https://open.spotify.com/track/3tnGrx6JehRtt1Ew0q5DUa) | [Beau Shepherd](https://open.spotify.com/artist/4dROKap2sx0B4xC1QGBoNR) | [Soft and Still \(in the Rain\)](https://open.spotify.com/album/2H9zCYJkCoVtRceIMCi1hE) | 2:33 |
 | 23 | [Together Again](https://open.spotify.com/track/5UvBUGrB1sUCJgJ6fyZaa5) | [Sofia Marcello](https://open.spotify.com/artist/6MVT94tdG9IDB3J07I3qiP) | [Together Again](https://open.spotify.com/album/7edx4a6OyN2gtpzInf8867) | 2:18 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4uB43NNq1P7.md) - [plain]
 | 99 | [Melusina Alba](https://open.spotify.com/track/2ndnjV4KpneBCYRHALd8Ro) | [Thomas Perceval](https://open.spotify.com/artist/42lfxltT65SVNLR6kypDU5) | [Melusina Alba](https://open.spotify.com/album/4HYOInJP0f608sH2178lN9) | 2:13 |
 | 100 | [Returning Home](https://open.spotify.com/track/1ClUmEEJYoDemcIPQQIODw) | [A Long Story](https://open.spotify.com/artist/1RFdkmm7AtmHeZTrdoJOFI) | [Returning Home](https://open.spotify.com/album/7xgg2hiwbvf5ZTXLfbxP1L) | 2:28 |
 
-Snapshot ID: `AAAAAPuJom0idNyNvd6Ul6mvKV9Is69A`
+Snapshot ID: `AAAAAFEwkzNhQFLo9QOyucDqBWLBIEqC`

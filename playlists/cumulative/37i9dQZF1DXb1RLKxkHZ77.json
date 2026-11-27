@@ -1123,6 +1123,24 @@
     },
     {
       "album": {
+        "name": "Amnesia",
+        "url": "https://open.spotify.com/album/0F1GfJmmaWOi5sE3ZQOYSm"
+      },
+      "artists": [
+        {
+          "name": "Al-Ghazali",
+          "url": "https://open.spotify.com/artist/574Sftrqpo7OKHWPXprSMx"
+        }
+      ],
+      "date_added": "2026-11-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 218733,
+      "name": "Amnesia",
+      "url": "https://open.spotify.com/track/5yUjO084QWrMxM4EqpgWFr"
+    },
+    {
+      "album": {
         "name": "Ampun",
         "url": "https://open.spotify.com/album/1g7lMDVjaDFEbuiAIB6rse"
       },
@@ -4122,7 +4140,7 @@
       ],
       "date_added": "2026-10-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-27",
       "duration_ms": 255060,
       "name": "Cara Aku Berkorban",
       "url": "https://open.spotify.com/track/3SFkYURk4nY2fpUvg8oltk"
@@ -10191,6 +10209,24 @@
     },
     {
       "album": {
+        "name": "Kita",
+        "url": "https://open.spotify.com/album/6JXa5LrF2GgAtgVvw0UhFS"
+      },
+      "artists": [
+        {
+          "name": "Hafiz Suip",
+          "url": "https://open.spotify.com/artist/08nApps9ThD6cZD2jXC4vW"
+        }
+      ],
+      "date_added": "2026-11-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 225538,
+      "name": "Kita",
+      "url": "https://open.spotify.com/track/4gGIHfLb4YvsQ3BRGzkjzr"
+    },
+    {
+      "album": {
         "name": "kita",
         "url": "https://open.spotify.com/album/2jKcVDRD1YgSzPCUCFMuDZ"
       },
@@ -10852,7 +10888,7 @@
       ],
       "date_added": "2026-10-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-27",
       "duration_ms": 231857,
       "name": "Langit Yang Asing",
       "url": "https://open.spotify.com/track/6vCm9LcHSBRmCY75w6Y6ie"
@@ -12414,7 +12450,7 @@
       ],
       "date_added": "2026-10-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-27",
       "duration_ms": 195600,
       "name": "Menang",
       "url": "https://open.spotify.com/track/60h143mRVwboZs5IQ4KVkg"
@@ -14798,7 +14834,7 @@
       ],
       "date_added": "2026-10-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-27",
       "duration_ms": 206823,
       "name": "Pintu Hati",
       "url": "https://open.spotify.com/track/67I41J09p9pAnjHVtgOpjt"
@@ -15332,7 +15368,7 @@
       ],
       "date_added": "2026-10-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-27",
       "duration_ms": 238419,
       "name": "Ratnaku",
       "url": "https://open.spotify.com/track/2FwmvncvmsKCGR36ZknSMX"
@@ -16400,7 +16436,7 @@
       ],
       "date_added": "2026-06-26",
       "date_added_asterisk": false,
-      "date_removed": "2026-07-25",
+      "date_removed": null,
       "duration_ms": 227908,
       "name": "Salah Apa Aku",
       "url": "https://open.spotify.com/track/7vokkLgTYkd15cWSZ0lTp5"
@@ -16662,6 +16698,24 @@
       "duration_ms": 253671,
       "name": "Sampai Jumpa",
       "url": "https://open.spotify.com/track/3CXqXWbNmGRTCXMOErn1HD"
+    },
+    {
+      "album": {
+        "name": "Sampai Mati (Single)",
+        "url": "https://open.spotify.com/album/6P2MAePkVyGwEsppPZZZ4i"
+      },
+      "artists": [
+        {
+          "name": "Hazama",
+          "url": "https://open.spotify.com/artist/5jKjGIfQbctItoit4X95XI"
+        }
+      ],
+      "date_added": "2026-11-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 270486,
+      "name": "Sampai Mati",
+      "url": "https://open.spotify.com/track/0w2kjlWmp8JUMtylt0kNMh"
     },
     {
       "album": {
@@ -17006,6 +17060,24 @@
       "duration_ms": 282267,
       "name": "Satukan Kami Di Syurga",
       "url": "https://open.spotify.com/track/0lxc5hKi4fCk298W9dfcaA"
+    },
+    {
+      "album": {
+        "name": "SAYANG JANGAN PERGI",
+        "url": "https://open.spotify.com/album/0bSbLDTi1pJicL4HwSroZR"
+      },
+      "artists": [
+        {
+          "name": "Zynakal",
+          "url": "https://open.spotify.com/artist/3Cs5QQYz6pMhbEKaBNCtfi"
+        }
+      ],
+      "date_added": "2026-11-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 199568,
+      "name": "SAYANG JANGAN PERGI",
+      "url": "https://open.spotify.com/track/4JeD4IDHl2sCzKAtUliTTz"
     },
     {
       "album": {
@@ -20097,6 +20169,24 @@
     },
     {
       "album": {
+        "name": "Tentang Dirimu",
+        "url": "https://open.spotify.com/album/4pPSIP31NUosxyH6F1V0rl"
+      },
+      "artists": [
+        {
+          "name": "Najmi Niery",
+          "url": "https://open.spotify.com/artist/65QCOKdpwe4cd7ksqsHsnT"
+        }
+      ],
+      "date_added": "2026-11-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 244421,
+      "name": "Tentang Dirimu",
+      "url": "https://open.spotify.com/track/05ZTmftwxer8ZeieOSLNbg"
+    },
+    {
+      "album": {
         "name": "Terakhir Kali",
         "url": "https://open.spotify.com/album/3l2z82HMmmq1diaA1D29BB"
       },
@@ -20954,7 +21044,7 @@
       ],
       "date_added": "2026-10-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-27",
       "duration_ms": 255187,
       "name": "Timpang",
       "url": "https://open.spotify.com/track/6APqNqaq807wPAlaBmg5mL"

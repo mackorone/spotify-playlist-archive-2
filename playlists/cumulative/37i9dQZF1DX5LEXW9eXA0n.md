@@ -4,7 +4,7 @@
 
 > New & hot K\-Pop ballads\. \(Cover: Shin Yong Jae \(신용재\)\) \(가장 핫한 최신 국내 발라드를 만나보세요!\)
 
-1,832 songs - 4 day 22 hr 59 min
+1,833 songs - 4 day 23 hr 4 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -1090,7 +1090,7 @@
 | [On A Starry Night](https://open.spotify.com/track/7wWPy7xxl4lBpuGSIUzt0h) | [KYUHYUN](https://open.spotify.com/artist/0il5ZP3xYOECtONJtZ38Ln) | [On A Starry Night \(REVIBE Vol.3\)](https://open.spotify.com/album/3J2AhRHfqSOMwp6YYloJxC) | 4:32 | 2022-01-03 | 2022-04-30 |
 | [On My Way](https://open.spotify.com/track/5Q9aFVpPOYbN5EavyKr3yh) | [msftz](https://open.spotify.com/artist/2v9xvjxXMMndxvLJ86Ice4) | [On My Way](https://open.spotify.com/album/26POvIjMcsJWQrtOt8ia18) | 3:54 | 2023-02-28 | 2023-07-08 |
 | [On Such a Day](https://open.spotify.com/track/59RLYQQ8v9PItVwFf1qNhx) | [WINTER](https://open.spotify.com/artist/3mPquBmMu97Iq9TpzQ6ayI) | [Resident Playbook, Pt\. 3 \(Original Soundtrack\)](https://open.spotify.com/album/0wJhsu9q7b7hot5Zlu2mU6) | 3:39 | 2025-04-22 | 2025-08-09 |
-| [On such a wonderful night](https://open.spotify.com/track/2nnIHyTZOnFvkYeKeebFvu) | [Cha ga eul](https://open.spotify.com/artist/4mSV7GdIFUByJJVxI4HyOi) | [On such a wonderful night](https://open.spotify.com/album/4f2toQm38HkmoRDWKCM1s7) | 3:33 | 2026-04-30 |  |
+| [On such a wonderful night](https://open.spotify.com/track/2nnIHyTZOnFvkYeKeebFvu) | [Cha ga eul](https://open.spotify.com/artist/4mSV7GdIFUByJJVxI4HyOi) | [On such a wonderful night](https://open.spotify.com/album/4f2toQm38HkmoRDWKCM1s7) | 3:33 | 2026-04-30 | 2026-11-27 |
 | [On such a wonderful night](https://open.spotify.com/track/3Ueh9WSlKB9pKgNhsmMcRM) | [dawon you](https://open.spotify.com/artist/3sorJaK11BPQosaTaZkuhk) | [On such a wonderful night](https://open.spotify.com/album/5HpaXffkKOfi78iGPG656S) | 3:16 | 2023-01-10 | 2023-02-25 |
 | [On That Day](https://open.spotify.com/track/5opGTlCl24NOTRyrYjUYQ8) | [Jeon Sang Keun](https://open.spotify.com/artist/3uCDicSmenMBtsKb5A51dd) | [On That Day \(Jeon Sang Keun X Lulu\-lala Friends\)](https://open.spotify.com/album/4xai6pyfkrg1sJMZtu0qKN) | 3:39 | 2025-10-01 | 2026-01-28 |
 | [ONCE AGAIN](https://open.spotify.com/track/5vsjD4VbQzkUUlvwFOhppn) | [WINTER](https://open.spotify.com/artist/3mPquBmMu97Iq9TpzQ6ayI), [NINGNING](https://open.spotify.com/artist/5t1uryofgueHrjrryqX8vM) | [Our Blues, Pt\. 10 \(Original Television Soundtrack\)](https://open.spotify.com/album/0mP330aRyX4P4ZjarRKnXO) | 2:49 | 2022-06-13 | 2022-08-13 |
@@ -1149,6 +1149,7 @@
 | [Peach Tree](https://open.spotify.com/track/1BvWybrWuF4oMpGZC5SQ2L) | [Roy Kim](https://open.spotify.com/artist/3ErHVJMsxTq2lLSmnONBm9) | [Captivating the King, Pt\. 4 \(Original Soundtrack\)](https://open.spotify.com/album/22XVg0cCq12J8QT0vOdtDx) | 3:44 | 2024-03-08 | 2024-07-12 |
 | [Permanent snow](https://open.spotify.com/track/6qxp0h7ouZ8WSmqqEtp3AD) | [Monday Kiz X DK](https://open.spotify.com/artist/3XMqkv5Yc95bFqtl38xPNY) | [Permanent snow](https://open.spotify.com/album/5qqtlvfkXThsgzp83Rkpc8) | 3:51 | 2025-03-04 | 2025-06-09 |
 | [Phantom Pain](https://open.spotify.com/track/2DFxgbXJzTe8P7DJ5wjDeD) | [YESUNG](https://open.spotify.com/artist/4hyF8Vtc73RYJr3RgTE2Zf) | [Beautiful Night \- The 4th Mini Album](https://open.spotify.com/album/7x0nqb4xJTOI1KwpX8pB6T) | 3:38 | 2022-03-29 | 2022-04-14 |
+| [Piano](https://open.spotify.com/track/747Sy9iiiDeXFAFyMkgc98) | [\#Annyeong](https://open.spotify.com/artist/4M9tATKeCZPhipaM6ge2VS) | [Piano](https://open.spotify.com/album/5GCUeLKEJ2knY2wMUOXS5v) | 4:13 | 2026-11-26 |  |
 | [Pieces of You](https://open.spotify.com/track/2JAK4EVBo5hkj7u9Ed1JuX) | [Kevin Oh](https://open.spotify.com/artist/3XgMCDrTkw1mcmeBE48Pqy) | [\[Pieces of \_\]](https://open.spotify.com/album/1Q7d6j21ErInY0s4guwJUx) | 3:42 | 2022-11-16 | 2023-01-21 |
 | [Plant](https://open.spotify.com/track/3oTeu6YzKhXQIogBgzJr9w) | [KIMSEJEONG](https://open.spotify.com/artist/1lFLniFTaPjYCtQZvDXpqu) | [Plant](https://open.spotify.com/album/5aUgxOcv6bo9gvuMZweqNb) | 3:27 | 2021-12-23 | 2022-07-04 |
 | [Play for me](https://open.spotify.com/track/5TbZ9ALXuBpfHXpyZVITow) | [MARCUS KANG](https://open.spotify.com/artist/4IiR7jdvgxcJKbLtW1h9JU) | [Play for me](https://open.spotify.com/album/2j5CwLaIBIMIKQhjLqbN0C) | 4:12 | 2025-03-01 | 2025-05-28 |
@@ -1445,7 +1446,7 @@
 | [The fool](https://open.spotify.com/track/0zj7btS9fZMqZFZWO6fYI9) | [Jung Seung Hwan](https://open.spotify.com/artist/7l8rOFwZFQ3G0sgZ7gjGng) | [His voice](https://open.spotify.com/album/1HmeEj59HYaGy8tKR636j6) | 3:58 | 2023-05-05 | 2023-05-16 |
 | [The garden of adverbs \(feat\. Lee Hi\)](https://open.spotify.com/track/6wP9dxp1ZYIe9qrcpJhzko) | [Kim Yuna](https://open.spotify.com/artist/5jiscb6yxuu9hj4BoW5Wea), [LeeHi](https://open.spotify.com/artist/7cVZApDoQZpS447nHTsNqu) | [Tales of Sensuality](https://open.spotify.com/album/59wYUBRXUJBC5NxFXqFYLh) | 3:52 | 2024-04-26 | 2024-08-11 |
 | [The girl who resembles you \(feat\. Ha Yea Song\)](https://open.spotify.com/track/1851TpHKK4pmMVBsqZQZer) | [Hwang In Wook](https://open.spotify.com/artist/56U7IcfF1h54ZxOPqjEnjq), [Ha Yea Song](https://open.spotify.com/artist/4Kw6Puq72YDjXvVBrBkdw3) | [The girl who resembles you](https://open.spotify.com/album/5k5zP2tp6VoOWIlDcJWZpz) | 3:10 | 2026-04-30 |  |
-| [The Goodbye of Hello](https://open.spotify.com/track/0kM8x344e5UVMwuLjpIPQM) | [Shin Yong Jae](https://open.spotify.com/artist/2frFGmni9tkRgXYdXmzQvR) | [GRAVITY](https://open.spotify.com/album/0kIGPIcpKpK1eeLTpgnA5d) | 3:57 | 2026-11-24 |  |
+| [The Goodbye of Hello](https://open.spotify.com/track/0kM8x344e5UVMwuLjpIPQM) | [SHIN YONGJAE](https://open.spotify.com/artist/2frFGmni9tkRgXYdXmzQvR) | [GRAVITY](https://open.spotify.com/album/0kIGPIcpKpK1eeLTpgnA5d) | 3:57 | 2026-11-24 |  |
 | [The Homework of Goodbye](https://open.spotify.com/track/04btnsdOITgvLcdOIHOcGr) | [Cha ga eul](https://open.spotify.com/artist/4mSV7GdIFUByJJVxI4HyOi) | [The Homework of Goodbye](https://open.spotify.com/album/4kTO5C4sjdAa9BRoej39hY) | 3:33 | 2025-06-02 | 2025-10-17 |
 | [The Island](https://open.spotify.com/track/6EvQreH8DrIwGkk50xIwir) | [88\-Keys](https://open.spotify.com/artist/1GnO4Ck1wmhQ7KRiHcTpvE) | [YUMI's Cells 2, Pt\. 7 \(Original Television Soundtrack\)](https://open.spotify.com/album/0FmT4QGX0aEIZpZ6RU7AvE) | 4:00 | 2022-08-01 | 2022-11-02 |
 | [The Late Regret](https://open.spotify.com/track/7012G3S3ScPXTsVPpEcEFj) | [Kassy](https://open.spotify.com/artist/6pU8o91xAS0aWNjj06nQSU) | [The Late Regret](https://open.spotify.com/album/4bg3sxfiifWXZSMgusyybb) | 4:40 | 2026-04-01 | 2026-11-09 |

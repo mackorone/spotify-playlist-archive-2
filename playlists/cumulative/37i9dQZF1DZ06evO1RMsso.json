@@ -1287,6 +1287,28 @@
     },
     {
       "album": {
+        "name": "Stepmom - Music from the Motion Picture",
+        "url": "https://open.spotify.com/album/63xLEmHA1HLiBAa7VAGbJx"
+      },
+      "artists": [
+        {
+          "name": "John Williams",
+          "url": "https://open.spotify.com/artist/3dRfiJ2650SZu6GbydcHNb"
+        },
+        {
+          "name": "Christopher Parkening",
+          "url": "https://open.spotify.com/artist/2e3OImB8yCNVk1SppFne96"
+        }
+      ],
+      "date_added": "2026-11-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 387040,
+      "name": "The Days Between (From \"Stepmom\") - Instrumental",
+      "url": "https://open.spotify.com/track/7oYOG6H260pTioFvCW0n6q"
+    },
+    {
+      "album": {
         "name": "The Fabelmans (Original Motion Picture Soundtrack)",
         "url": "https://open.spotify.com/album/3dWmhh9KGeDVbOdVSGLgHC"
       },

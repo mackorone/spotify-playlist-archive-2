@@ -1,12 +1,12 @@
 {
   "description": "This is Patti Smith. The essential tracks, all in one playlist.",
-  "num_followers": 56490,
+  "num_followers": 56523,
   "original_name": "This Is Patti Smith",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "awOCAAAAAAB/llDble7QsrtsgCFY+dJT",
+  "snapshot_id": "awYlAAAAAAD6G6DIAAlec7TlLVux1Tjs",
   "tracks": [
     {
       "added_at": null,
@@ -328,41 +328,9 @@
           "url": "https://open.spotify.com/artist/0vYkHhJ48Bs3jWcvZXvOrP"
         }
       ],
-      "duration_ms": 161413,
-      "name": "Elegie",
-      "url": "https://open.spotify.com/track/2Vvck2UY0DMK6yjQkmwqff"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Twelve",
-        "url": "https://open.spotify.com/album/3hlHi5Mz5hRao09uUvT0ta"
-      },
-      "artists": [
-        {
-          "name": "Patti Smith",
-          "url": "https://open.spotify.com/artist/0vYkHhJ48Bs3jWcvZXvOrP"
-        }
-      ],
-      "duration_ms": 298666,
-      "name": "Gimme Shelter",
-      "url": "https://open.spotify.com/track/1ENXYUosf6ifDYaIAj2trr"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Easter",
-        "url": "https://open.spotify.com/album/1p6cWoueuunhpgy6131zAd"
-      },
-      "artists": [
-        {
-          "name": "Patti Smith",
-          "url": "https://open.spotify.com/artist/0vYkHhJ48Bs3jWcvZXvOrP"
-        }
-      ],
-      "duration_ms": 243933,
-      "name": "25th Floor",
-      "url": "https://open.spotify.com/track/4juJw163tH0zGCptRcoTM4"
+      "duration_ms": 267613,
+      "name": "Kimberly",
+      "url": "https://open.spotify.com/track/7JeR5T5cdJmtZUZX6itEL1"
     },
     {
       "added_at": null,
@@ -383,8 +351,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Horses",
-        "url": "https://open.spotify.com/album/0OeuSeP8wp8n8OuTqYb61C"
+        "name": "Easter",
+        "url": "https://open.spotify.com/album/1p6cWoueuunhpgy6131zAd"
       },
       "artists": [
         {
@@ -392,9 +360,9 @@
           "url": "https://open.spotify.com/artist/0vYkHhJ48Bs3jWcvZXvOrP"
         }
       ],
-      "duration_ms": 554186,
-      "name": "Birdland",
-      "url": "https://open.spotify.com/track/0imH2Uj2Vbxjl8QekmZHE2"
+      "duration_ms": 243933,
+      "name": "25th Floor",
+      "url": "https://open.spotify.com/track/4juJw163tH0zGCptRcoTM4"
     },
     {
       "added_at": null,
@@ -408,15 +376,15 @@
           "url": "https://open.spotify.com/artist/0vYkHhJ48Bs3jWcvZXvOrP"
         }
       ],
-      "duration_ms": 324800,
-      "name": "Pastime Paradise",
-      "url": "https://open.spotify.com/track/3aT5zZz6FEtWAGDRJy7t8j"
+      "duration_ms": 298666,
+      "name": "Gimme Shelter",
+      "url": "https://open.spotify.com/track/1ENXYUosf6ifDYaIAj2trr"
     },
     {
       "added_at": null,
       "album": {
-        "name": "Easter",
-        "url": "https://open.spotify.com/album/1p6cWoueuunhpgy6131zAd"
+        "name": "Horses",
+        "url": "https://open.spotify.com/album/0OeuSeP8wp8n8OuTqYb61C"
       },
       "artists": [
         {
@@ -424,9 +392,9 @@
           "url": "https://open.spotify.com/artist/0vYkHhJ48Bs3jWcvZXvOrP"
         }
       ],
-      "duration_ms": 167293,
-      "name": "Till Victory",
-      "url": "https://open.spotify.com/track/0ykdasEHKPJbVFYUibtaap"
+      "duration_ms": 161413,
+      "name": "Elegie",
+      "url": "https://open.spotify.com/track/2Vvck2UY0DMK6yjQkmwqff"
     },
     {
       "added_at": null,
@@ -447,8 +415,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Horses (Legacy Edition)",
-        "url": "https://open.spotify.com/album/7xg7u99lilTCPbaRfnYuy6"
+        "name": "Easter",
+        "url": "https://open.spotify.com/album/1p6cWoueuunhpgy6131zAd"
       },
       "artists": [
         {
@@ -456,9 +424,9 @@
           "url": "https://open.spotify.com/artist/0vYkHhJ48Bs3jWcvZXvOrP"
         }
       ],
-      "duration_ms": 265466,
-      "name": "Kimberly",
-      "url": "https://open.spotify.com/track/0iI8LriXKjg47IxjNCWuwz"
+      "duration_ms": 167293,
+      "name": "Till Victory",
+      "url": "https://open.spotify.com/track/0ykdasEHKPJbVFYUibtaap"
     },
     {
       "added_at": null,
@@ -472,9 +440,25 @@
           "url": "https://open.spotify.com/artist/0vYkHhJ48Bs3jWcvZXvOrP"
         }
       ],
-      "duration_ms": 377240,
-      "name": "Everybody Hurts",
-      "url": "https://open.spotify.com/track/33iQ7flnKWXFKyRW9QF7WZ"
+      "duration_ms": 324800,
+      "name": "Pastime Paradise",
+      "url": "https://open.spotify.com/track/3aT5zZz6FEtWAGDRJy7t8j"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Horses",
+        "url": "https://open.spotify.com/album/0OeuSeP8wp8n8OuTqYb61C"
+      },
+      "artists": [
+        {
+          "name": "Patti Smith",
+          "url": "https://open.spotify.com/artist/0vYkHhJ48Bs3jWcvZXvOrP"
+        }
+      ],
+      "duration_ms": 554186,
+      "name": "Birdland",
+      "url": "https://open.spotify.com/track/0imH2Uj2Vbxjl8QekmZHE2"
     },
     {
       "added_at": null,
@@ -511,8 +495,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Trampin'",
-        "url": "https://open.spotify.com/album/5pykpXlDqoTpxVkeaHOQLr"
+        "name": "Twelve",
+        "url": "https://open.spotify.com/album/3hlHi5Mz5hRao09uUvT0ta"
       },
       "artists": [
         {
@@ -520,41 +504,9 @@
           "url": "https://open.spotify.com/artist/0vYkHhJ48Bs3jWcvZXvOrP"
         }
       ],
-      "duration_ms": 309493,
-      "name": "Peaceable Kingdom",
-      "url": "https://open.spotify.com/track/3cus7Q6wCCgN4BAGLszFQV"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Banga",
-        "url": "https://open.spotify.com/album/67epO9J9KoY8KSFA4xC4kA"
-      },
-      "artists": [
-        {
-          "name": "Patti Smith",
-          "url": "https://open.spotify.com/artist/0vYkHhJ48Bs3jWcvZXvOrP"
-        }
-      ],
-      "duration_ms": 227219,
-      "name": "April Fool",
-      "url": "https://open.spotify.com/track/53eJ84ALjlKpU2A2OpohCN"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Radio Ethiopia",
-        "url": "https://open.spotify.com/album/7jmAoRWQ9qUXtRXUOW2agu"
-      },
-      "artists": [
-        {
-          "name": "Patti Smith",
-          "url": "https://open.spotify.com/artist/0vYkHhJ48Bs3jWcvZXvOrP"
-        }
-      ],
-      "duration_ms": 189733,
-      "name": "Ask the Angels",
-      "url": "https://open.spotify.com/track/6BmAr1i0Jnk8ztzRVQHyEi"
+      "duration_ms": 377240,
+      "name": "Everybody Hurts",
+      "url": "https://open.spotify.com/track/33iQ7flnKWXFKyRW9QF7WZ"
     },
     {
       "added_at": null,
@@ -575,6 +527,54 @@
     {
       "added_at": null,
       "album": {
+        "name": "Radio Ethiopia",
+        "url": "https://open.spotify.com/album/7jmAoRWQ9qUXtRXUOW2agu"
+      },
+      "artists": [
+        {
+          "name": "Patti Smith",
+          "url": "https://open.spotify.com/artist/0vYkHhJ48Bs3jWcvZXvOrP"
+        }
+      ],
+      "duration_ms": 189733,
+      "name": "Ask the Angels",
+      "url": "https://open.spotify.com/track/6BmAr1i0Jnk8ztzRVQHyEi"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Banga",
+        "url": "https://open.spotify.com/album/67epO9J9KoY8KSFA4xC4kA"
+      },
+      "artists": [
+        {
+          "name": "Patti Smith",
+          "url": "https://open.spotify.com/artist/0vYkHhJ48Bs3jWcvZXvOrP"
+        }
+      ],
+      "duration_ms": 227219,
+      "name": "April Fool",
+      "url": "https://open.spotify.com/track/53eJ84ALjlKpU2A2OpohCN"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Trampin'",
+        "url": "https://open.spotify.com/album/5pykpXlDqoTpxVkeaHOQLr"
+      },
+      "artists": [
+        {
+          "name": "Patti Smith",
+          "url": "https://open.spotify.com/artist/0vYkHhJ48Bs3jWcvZXvOrP"
+        }
+      ],
+      "duration_ms": 309493,
+      "name": "Peaceable Kingdom",
+      "url": "https://open.spotify.com/track/3cus7Q6wCCgN4BAGLszFQV"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Gone Again",
         "url": "https://open.spotify.com/album/70BHwvG9ikXsffsWfHrWzi"
       },
@@ -591,22 +591,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Wave",
-        "url": "https://open.spotify.com/album/5Azni9In90zMkWAFgWh6RE"
-      },
-      "artists": [
-        {
-          "name": "Patti Smith",
-          "url": "https://open.spotify.com/artist/0vYkHhJ48Bs3jWcvZXvOrP"
-        }
-      ],
-      "duration_ms": 304840,
-      "name": "Revenge",
-      "url": "https://open.spotify.com/track/00QrHgrVlYOsleK3Vb62OJ"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Radio Ethiopia",
         "url": "https://open.spotify.com/album/7jmAoRWQ9qUXtRXUOW2agu"
       },
@@ -619,6 +603,22 @@
       "duration_ms": 396360,
       "name": "Ain't It Strange",
       "url": "https://open.spotify.com/track/4Q0gexDyqLyLHmnktsn0KQ"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Wave",
+        "url": "https://open.spotify.com/album/5Azni9In90zMkWAFgWh6RE"
+      },
+      "artists": [
+        {
+          "name": "Patti Smith",
+          "url": "https://open.spotify.com/artist/0vYkHhJ48Bs3jWcvZXvOrP"
+        }
+      ],
+      "duration_ms": 304840,
+      "name": "Revenge",
+      "url": "https://open.spotify.com/track/00QrHgrVlYOsleK3Vb62OJ"
     },
     {
       "added_at": null,
@@ -655,22 +655,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Horses (Legacy Edition)",
-        "url": "https://open.spotify.com/album/7xg7u99lilTCPbaRfnYuy6"
-      },
-      "artists": [
-        {
-          "name": "Patti Smith",
-          "url": "https://open.spotify.com/artist/0vYkHhJ48Bs3jWcvZXvOrP"
-        }
-      ],
-      "duration_ms": 200106,
-      "name": "My Generation - Live at The Agora, Cleveland, Ohio - January 26, 1976",
-      "url": "https://open.spotify.com/track/3tlIFVwnp2lRfjRaSYxtT0"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Radio Ethiopia",
         "url": "https://open.spotify.com/album/7jmAoRWQ9qUXtRXUOW2agu"
       },
@@ -683,6 +667,22 @@
       "duration_ms": 259906,
       "name": "Distant Fingers",
       "url": "https://open.spotify.com/track/5fI00jX4cWUfCGpYvchDjR"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Horses (Legacy Edition)",
+        "url": "https://open.spotify.com/album/7xg7u99lilTCPbaRfnYuy6"
+      },
+      "artists": [
+        {
+          "name": "Patti Smith",
+          "url": "https://open.spotify.com/artist/0vYkHhJ48Bs3jWcvZXvOrP"
+        }
+      ],
+      "duration_ms": 200106,
+      "name": "My Generation - Live at The Agora, Cleveland, Ohio - January 26, 1976",
+      "url": "https://open.spotify.com/track/3tlIFVwnp2lRfjRaSYxtT0"
     },
     {
       "added_at": null,
@@ -719,22 +719,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Dream Of Life",
-        "url": "https://open.spotify.com/album/3TxNFi3uBnjDBFlfnbmIPe"
-      },
-      "artists": [
-        {
-          "name": "Patti Smith",
-          "url": "https://open.spotify.com/artist/0vYkHhJ48Bs3jWcvZXvOrP"
-        }
-      ],
-      "duration_ms": 246640,
-      "name": "Looking for You (I Was)",
-      "url": "https://open.spotify.com/track/4amGL7ISvnFCO00PgYKn8f"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Radio Ethiopia",
         "url": "https://open.spotify.com/album/7jmAoRWQ9qUXtRXUOW2agu"
       },
@@ -747,6 +731,22 @@
       "duration_ms": 426466,
       "name": "Poppies",
       "url": "https://open.spotify.com/track/6Y2b9a0krc2a0nQEnAWRZE"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Dream Of Life",
+        "url": "https://open.spotify.com/album/3TxNFi3uBnjDBFlfnbmIPe"
+      },
+      "artists": [
+        {
+          "name": "Patti Smith",
+          "url": "https://open.spotify.com/artist/0vYkHhJ48Bs3jWcvZXvOrP"
+        }
+      ],
+      "duration_ms": 246640,
+      "name": "Looking for You (I Was)",
+      "url": "https://open.spotify.com/track/4amGL7ISvnFCO00PgYKn8f"
     },
     {
       "added_at": null,
@@ -799,8 +799,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Gung Ho",
-        "url": "https://open.spotify.com/album/6H6ntLDDo8dC7dHKg1UYSE"
+        "name": "The Hunger Games: Catching Fire (Original Motion Picture Soundtrack / Deluxe Version)",
+        "url": "https://open.spotify.com/album/0SEBE7BfXHY4o9VQICoZOC"
       },
       "artists": [
         {
@@ -808,9 +808,9 @@
           "url": "https://open.spotify.com/artist/0vYkHhJ48Bs3jWcvZXvOrP"
         }
       ],
-      "duration_ms": 183289,
-      "name": "Glitter In Their Eyes",
-      "url": "https://open.spotify.com/track/3XGLnUh9XzH1KiAobnpzsv"
+      "duration_ms": 213466,
+      "name": "Capitol Letter - From \u201cThe Hunger Games: Catching Fire\" Soundtrack",
+      "url": "https://open.spotify.com/track/6nFTOfz07bLtJWaAwLKYkF"
     }
   ],
   "unique_name": "This Is Patti Smith",

@@ -1,8 +1,26 @@
 {
   "date_first_scraped": "2024-07-02",
-  "description": "\u5169\u4eba\u6210\u7d44\u3001\u4e09\u4eba\u6210\u5718\uff0c\u786c\u5730\u4e3b\u6d41\u90fd\u5728\u53f0\u7063\u958b\u82b1\uff01\u98a8\u683c\u8c50\u5bcc\u529b\u91cf\u5927\uff01Cover: Crispy\u8106\u6a02\u5718",
+  "description": "\u5169\u4eba\u6210\u7d44\u3001\u4e09\u4eba\u6210\u5718\uff0c\u786c\u5730\u4e3b\u6d41\u90fd\u5728\u53f0\u7063\u958b\u82b1\uff01\u98a8\u683c\u8c50\u5bcc\u529b\u91cf\u5927\uff01Cover: \u843d\u65e5\u98db\u8eca",
   "name": "\u7d44\u5718\u98c6\u6b4c",
   "tracks": [
+    {
+      "album": {
+        "name": "1%",
+        "url": "https://open.spotify.com/album/2cUBJAq3YyvT5hUnNOZdDp"
+      },
+      "artists": [
+        {
+          "name": "puppiebelly",
+          "url": "https://open.spotify.com/artist/0F6XRzs1Qe3Idwo1QBzVv6"
+        }
+      ],
+      "date_added": "2026-11-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 234684,
+      "name": "1%",
+      "url": "https://open.spotify.com/track/2WvuAXSnUSRIHCj5bD8ON5"
+    },
     {
       "album": {
         "name": "100 \u79d2\u7684\u7d05\u71c8",
@@ -870,7 +888,7 @@
       ],
       "date_added": "2025-10-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-27",
       "duration_ms": 262600,
       "name": "BYE BYE - \u6efe\u77f3\u649e\u6a02\u968a2 (\u539f\u5531:\u674e\u5fc3\u6f54)",
       "url": "https://open.spotify.com/track/7BzFkO5OpQ7hOddmqO3elq"
@@ -3454,7 +3472,7 @@
       ],
       "date_added": "2026-07-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-27",
       "duration_ms": 254000,
       "name": "New World",
       "url": "https://open.spotify.com/track/2RvhwjrLMrZsNSsG2uVV8n"
@@ -3766,6 +3784,32 @@
       "duration_ms": 213673,
       "name": "OKAY",
       "url": "https://open.spotify.com/track/4QU4yxGOHdWy1TXBMA2zFv"
+    },
+    {
+      "album": {
+        "name": "Overground",
+        "url": "https://open.spotify.com/album/2l9vBdLFpklKxTf3pfQeDd"
+      },
+      "artists": [
+        {
+          "name": "\u91ce\u5de2 Nosu",
+          "url": "https://open.spotify.com/artist/30pJXiYdUEUSVVbizHKjTs"
+        },
+        {
+          "name": "Y\u025bn",
+          "url": "https://open.spotify.com/artist/7EHytZ4e008wRTunhmV9kl"
+        },
+        {
+          "name": "Oscar Brady",
+          "url": "https://open.spotify.com/artist/5nnVzBrMrnDmIm1Rhz8qLt"
+        }
+      ],
+      "date_added": "2026-11-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 197000,
+      "name": "Overground",
+      "url": "https://open.spotify.com/track/70dTDSIBOcJfgu7Hulvm8D"
     },
     {
       "album": {
@@ -4804,6 +4848,24 @@
       "duration_ms": 186418,
       "name": "Stars and Sunshine",
       "url": "https://open.spotify.com/track/0YfSZLqh9dCLk40dpo10nf"
+    },
+    {
+      "album": {
+        "name": "Stop Running",
+        "url": "https://open.spotify.com/album/1oXdSBEJl73KOhZVzPenoA"
+      },
+      "artists": [
+        {
+          "name": "\u843d\u65e5\u98db\u8eca Sunset Rollercoaster",
+          "url": "https://open.spotify.com/artist/7BqRcZsHYYQeqMAOp7e532"
+        }
+      ],
+      "date_added": "2026-11-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 179208,
+      "name": "Stop Running",
+      "url": "https://open.spotify.com/track/47gP2F7QanpJRa5rX6OZv0"
     },
     {
       "album": {
@@ -6820,7 +6882,7 @@
       ],
       "date_added": "2026-09-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-27",
       "duration_ms": 226626,
       "name": "\u4ed6\u5011\u8aaa\u6211\u760b\u4e86",
       "url": "https://open.spotify.com/track/31ej9Olae5cBISHETzBmvA"
@@ -8702,7 +8764,7 @@
       ],
       "date_added": "2026-07-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-27",
       "duration_ms": 173606,
       "name": "\u53e2\u6797\u6cd5\u5247",
       "url": "https://open.spotify.com/track/0cvIaoXOEbf8bWZPKIbVJe"
@@ -12543,6 +12605,24 @@
     },
     {
       "album": {
+        "name": "\u62b1\u6b49\u6211\u4e0d\u662f\u90a3\u9ebc\u5b8c\u7f8e",
+        "url": "https://open.spotify.com/album/1ik6ASHbyqhbBy1KyohBA4"
+      },
+      "artists": [
+        {
+          "name": "\u7c97\u5927Band",
+          "url": "https://open.spotify.com/artist/3Y5AMY2fQMtIcI0oquKJWi"
+        }
+      ],
+      "date_added": "2026-11-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 205750,
+      "name": "\u62b1\u6b49\u6211\u4e0d\u662f\u90a3\u9ebc\u5b8c\u7f8e",
+      "url": "https://open.spotify.com/track/3v2wCce3hy4twljuA7oBHj"
+    },
+    {
+      "album": {
         "name": "\u62bd\u5c5c",
         "url": "https://open.spotify.com/album/5jtnw8dCoBRuff5ofWfwhk"
       },
@@ -13882,7 +13962,7 @@
       ],
       "date_added": "2026-07-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-27",
       "duration_ms": 259251,
       "name": "\u671d\u6211\u5fc3\u81df\u958b\u69cd (Acoustic Live)",
       "url": "https://open.spotify.com/track/3naiphKoa2KT3k3MumJE6e"
@@ -14388,6 +14468,24 @@
       "duration_ms": 225166,
       "name": "\u6c88\u9ed8\u5728\u6d41\u6d6a\u7684\u8def\u4e0a",
       "url": "https://open.spotify.com/track/1pV1LnLrscCowiQLBNGTZC"
+    },
+    {
+      "album": {
+        "name": "\u6c88\u9ed8\u7684\u9245\u4f5c (Woah)",
+        "url": "https://open.spotify.com/album/37SHr9vPIi2vhSILwvqGbI"
+      },
+      "artists": [
+        {
+          "name": "Shallow Lev\u00e9e",
+          "url": "https://open.spotify.com/artist/6xDRh6bnmn1CQhRUntBka9"
+        }
+      ],
+      "date_added": "2026-11-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 195773,
+      "name": "\u6c88\u9ed8\u7684\u9245\u4f5c (Woah)",
+      "url": "https://open.spotify.com/track/1KRcwLwKC0edMxdxBoDdRu"
     },
     {
       "album": {
@@ -14947,6 +15045,24 @@
     },
     {
       "album": {
+        "name": "Hello Stranger, Drink More Water.",
+        "url": "https://open.spotify.com/album/2py2HRQuyxZ59jT0j6cwcm"
+      },
+      "artists": [
+        {
+          "name": "SONG NING",
+          "url": "https://open.spotify.com/artist/0HSetAKLsr5qfFODMMZUvo"
+        }
+      ],
+      "date_added": "2026-11-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 220819,
+      "name": "\u6f29\u6e26",
+      "url": "https://open.spotify.com/track/42x7QSjQf3dXKvSjcM3CaL"
+    },
+    {
+      "album": {
         "name": "\u6f2b\u904awander",
         "url": "https://open.spotify.com/album/5LOOWCIug9X2EUBkTlAwir"
       },
@@ -15372,6 +15488,24 @@
       "duration_ms": 216296,
       "name": "\u72e9\u7375",
       "url": "https://open.spotify.com/track/1vaMx5pz4b8lKQO6tWGOc3"
+    },
+    {
+      "album": {
+        "name": "\u731c\u62f3 (R.P.S)",
+        "url": "https://open.spotify.com/album/4b8VNrTSjvGdkDqJTdFUbb"
+      },
+      "artists": [
+        {
+          "name": "\u6211\u662f\u6a5f\u8eca\u5c11\u5973",
+          "url": "https://open.spotify.com/artist/00RNgtcAow7k32rk5KiUcl"
+        }
+      ],
+      "date_added": "2026-11-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 228107,
+      "name": "\u731c\u62f3 (R.P.S)",
+      "url": "https://open.spotify.com/track/5Knhgn2VEphczoDTzpU7WD"
     },
     {
       "album": {
@@ -17404,7 +17538,7 @@
       ],
       "date_added": "2026-07-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-27",
       "duration_ms": 271600,
       "name": "\u8774\u8776",
       "url": "https://open.spotify.com/track/0u9VdaUZbMmhDTaUshhcaR"
@@ -17881,7 +18015,7 @@
     },
     {
       "album": {
-        "name": "\u8ca1\u5bcc (Good Luck.)",
+        "name": "\u8ca1\u5bcc",
         "url": "https://open.spotify.com/album/4Fn2GsF5C20d6jLuasdnJf"
       },
       "artists": [
@@ -17893,8 +18027,8 @@
       "date_added": "2026-11-06",
       "date_added_asterisk": false,
       "date_removed": null,
-      "duration_ms": 233522,
-      "name": "\u8ca1\u5bcc (Good Luck.)",
+      "duration_ms": 235242,
+      "name": "\u8ca1\u5bcc",
       "url": "https://open.spotify.com/track/371wnydrO4YGQQn6Xoez05"
     },
     {
@@ -19150,7 +19284,7 @@
       ],
       "date_added": "2026-08-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-27",
       "duration_ms": 242378,
       "name": "\u96fb\u52d5\u9d6a\u9d89",
       "url": "https://open.spotify.com/track/0h5YJIW3p3a62WR4uyvXby"

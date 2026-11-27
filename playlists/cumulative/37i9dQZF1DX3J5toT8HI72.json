@@ -214,7 +214,7 @@
       ],
       "date_added": "2023-06-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-27",
       "duration_ms": 269556,
       "name": "All of Me",
       "url": "https://open.spotify.com/track/3U4isOIWM3VvDubwSI3y7a"
@@ -1820,6 +1820,32 @@
       "duration_ms": 167443,
       "name": "love leve",
       "url": "https://open.spotify.com/track/00Ke9O7f7kiGzz1fROAnZP"
+    },
+    {
+      "album": {
+        "name": "Toda Minha Vida Dedico A Te Amar",
+        "url": "https://open.spotify.com/album/3J4fJ7Z7H4bHFQPTzAICwT"
+      },
+      "artists": [
+        {
+          "name": "Aydan",
+          "url": "https://open.spotify.com/artist/6fKyodrAgP9ewRR1mGgSmU"
+        },
+        {
+          "name": "Jonathan Ferr",
+          "url": "https://open.spotify.com/artist/50c0dnVoxvTMbfY0KSocJG"
+        },
+        {
+          "name": "Machadez",
+          "url": "https://open.spotify.com/artist/1CbWrXtZpVnkN8cstE2VL2"
+        }
+      ],
+      "date_added": "2026-11-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 209288,
+      "name": "Luz",
+      "url": "https://open.spotify.com/track/1zKZKUTULPF9geSfrwgixK"
     },
     {
       "album": {

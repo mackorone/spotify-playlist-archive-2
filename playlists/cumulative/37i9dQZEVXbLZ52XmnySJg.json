@@ -7258,7 +7258,7 @@
       ],
       "date_added": "2024-01-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-27",
       "duration_ms": 260536,
       "name": "Dil Diyan Gallan",
       "url": "https://open.spotify.com/track/0FBQ4NrrHUbR9kus7rzrOj"
@@ -11212,7 +11212,7 @@
       ],
       "date_added": "2025-01-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-27",
       "duration_ms": 268463,
       "name": "Humsafar (From \"Badrinath Ki Dulhania\")",
       "url": "https://open.spotify.com/track/7aE1lfskJLMHQnzCCP1zsV"
@@ -11972,7 +11972,7 @@
       ],
       "date_added": "2026-07-31",
       "date_added_asterisk": false,
-      "date_removed": "2026-11-21",
+      "date_removed": null,
       "duration_ms": 177893,
       "name": "Ishq de Fanniyar - Female Version",
       "url": "https://open.spotify.com/track/0KpdEdrrlqV9X58YAbSsY9"
@@ -20463,6 +20463,28 @@
     },
     {
       "album": {
+        "name": "Nazar Lagi",
+        "url": "https://open.spotify.com/album/2iWpte3fx59HAv0YqTNV4q"
+      },
+      "artists": [
+        {
+          "name": "Goldie Sohel",
+          "url": "https://open.spotify.com/artist/5Y9YGMxRoQYfJFj4kJ9TVv"
+        },
+        {
+          "name": "Asees Kaur",
+          "url": "https://open.spotify.com/artist/1sVmXkzX2ukc6QvasrDBES"
+        }
+      ],
+      "date_added": "2026-11-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 207428,
+      "name": "Nazar Lagi",
+      "url": "https://open.spotify.com/track/3MC7xAf4DcyWYnYfU933rj"
+    },
+    {
+      "album": {
         "name": "Hits of Ayushmann Khurrana",
         "url": "https://open.spotify.com/album/7I96uMu71ZhGgOdAne3xd4"
       },
@@ -20984,7 +21006,7 @@
       ],
       "date_added": "2026-07-03",
       "date_added_asterisk": false,
-      "date_removed": "2026-11-11",
+      "date_removed": null,
       "duration_ms": 265449,
       "name": "O Sanam",
       "url": "https://open.spotify.com/track/7HuuShTJs1tf6rFLDElyik"
@@ -24820,7 +24842,7 @@
       ],
       "date_added": "2025-10-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-27",
       "duration_ms": 370875,
       "name": "Saiyaara",
       "url": "https://open.spotify.com/track/5SSZtFWdrmFV4MxtlRA13N"
@@ -25802,7 +25824,7 @@
       ],
       "date_added": "2026-01-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-27",
       "duration_ms": 196253,
       "name": "Sheesha - Aakhya Mai Aakh Ghali Jo Bairan",
       "url": "https://open.spotify.com/track/412poAqbwD8OC0dYD1nBkV"
@@ -26480,7 +26502,7 @@
       ],
       "date_added": "2026-10-15",
       "date_added_asterisk": false,
-      "date_removed": "2026-11-25",
+      "date_removed": null,
       "duration_ms": 269643,
       "name": "Sohnea",
       "url": "https://open.spotify.com/track/1oWUmMsn0znMYoXfRPCy3A"
@@ -26502,7 +26524,7 @@
       ],
       "date_added": "2026-10-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-27",
       "duration_ms": 269643,
       "name": "Sohnea",
       "url": "https://open.spotify.com/track/7xt1AuUbQBZC4yvxxm4nAI"
@@ -32204,7 +32226,7 @@
       ],
       "date_added": "2024-10-05",
       "date_added_asterisk": false,
-      "date_removed": "2026-11-20",
+      "date_removed": null,
       "duration_ms": 314239,
       "name": "Ye Tune Kya Kiya",
       "url": "https://open.spotify.com/track/2cPUB8EOT6AfJ8oxhyoNXL"

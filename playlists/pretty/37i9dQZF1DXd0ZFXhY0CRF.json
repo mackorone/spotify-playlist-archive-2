@@ -1,6 +1,6 @@
 {
   "description": "The women whose music and influence rock our world. Cover: Violet Grohl",
-  "num_followers": 813606,
+  "num_followers": 813608,
   "original_name": "Women of Rock",
   "owner": {
     "name": "Spotify",
@@ -491,22 +491,6 @@
     {
       "added_at": "2026-05-01 18:02:47",
       "album": {
-        "name": "The Strange Case of... (Deluxe)",
-        "url": "https://open.spotify.com/album/4TyrGrbnsOVKOXVut2huz2"
-      },
-      "artists": [
-        {
-          "name": "Halestorm",
-          "url": "https://open.spotify.com/artist/6om12Ev5ppgoMy3OYSoech"
-        }
-      ],
-      "duration_ms": 183506,
-      "name": "I Miss the Misery",
-      "url": "https://open.spotify.com/track/3gmEzilP9BzF45wIMvA16l"
-    },
-    {
-      "added_at": "2026-05-01 18:02:47",
-      "album": {
         "name": "Will You Love Me When I\u2019m Dead",
         "url": "https://open.spotify.com/album/2zs0gJMS21tocKOXpWvPxU"
       },
@@ -519,6 +503,22 @@
       "duration_ms": 193798,
       "name": "Will You Love Me When I\u2019m Dead",
       "url": "https://open.spotify.com/track/4z4JQxp5ddY3Z8ETnaPPAK"
+    },
+    {
+      "added_at": "2026-05-01 18:02:47",
+      "album": {
+        "name": "The Strange Case of... (Deluxe)",
+        "url": "https://open.spotify.com/album/4TyrGrbnsOVKOXVut2huz2"
+      },
+      "artists": [
+        {
+          "name": "Halestorm",
+          "url": "https://open.spotify.com/artist/6om12Ev5ppgoMy3OYSoech"
+        }
+      ],
+      "duration_ms": 183506,
+      "name": "I Miss the Misery",
+      "url": "https://open.spotify.com/track/3gmEzilP9BzF45wIMvA16l"
     },
     {
       "added_at": "2026-05-01 18:02:47",
@@ -1147,22 +1147,6 @@
     {
       "added_at": "2026-05-01 18:02:47",
       "album": {
-        "name": "Blame",
-        "url": "https://open.spotify.com/album/34XU427uXpPYwocbDxstyS"
-      },
-      "artists": [
-        {
-          "name": "Girl Tones",
-          "url": "https://open.spotify.com/artist/1Tq0nryXkwLARcHDMIZbY6"
-        }
-      ],
-      "duration_ms": 155027,
-      "name": "Again",
-      "url": "https://open.spotify.com/track/3ucVKI8BEpLXK3j64GDbY4"
-    },
-    {
-      "added_at": "2026-05-01 18:02:47",
-      "album": {
         "name": "Beat A B!tch Up",
         "url": "https://open.spotify.com/album/72oc7aJYl7732of5nXsPE2"
       },
@@ -1179,6 +1163,22 @@
       "duration_ms": 167746,
       "name": "Beat A B!tch Up",
       "url": "https://open.spotify.com/track/5Ky8wE5v2dNXn5XWlBM28k"
+    },
+    {
+      "added_at": "2026-05-01 18:02:47",
+      "album": {
+        "name": "Blame",
+        "url": "https://open.spotify.com/album/34XU427uXpPYwocbDxstyS"
+      },
+      "artists": [
+        {
+          "name": "Girl Tones",
+          "url": "https://open.spotify.com/artist/1Tq0nryXkwLARcHDMIZbY6"
+        }
+      ],
+      "duration_ms": 155027,
+      "name": "Again",
+      "url": "https://open.spotify.com/track/3ucVKI8BEpLXK3j64GDbY4"
     },
     {
       "added_at": "2026-05-01 18:02:47",

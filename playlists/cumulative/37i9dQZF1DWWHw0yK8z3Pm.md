@@ -4,7 +4,7 @@
 
 > Fearless sounds at the crossroads of country and folk\. Cover: Noeline Hofmann
 
-800 songs - 2 day 0 hr 31 min
+801 songs - 2 day 0 hr 33 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -270,7 +270,7 @@
 | [For the First Time](https://open.spotify.com/track/2eTnZEDxXO1bZhudGX7Xw3) | [William Prince](https://open.spotify.com/artist/5GJWwpX2tnOruZviItXvM6) | [For the First Time](https://open.spotify.com/album/3bY5ENBrcf8t8G5M4sFOm3) | 3:30 | 2025-09-05 | 2026-01-31 |
 | [Forever Ain't Long Enough](https://open.spotify.com/track/5bKXRRnFPZfKWP1iIzq0FV) | [Max McNown](https://open.spotify.com/artist/340PS4ZcZ4UCBgyrXzEjcp) | [Night Diving \(The Cost of Growing Up\)](https://open.spotify.com/album/0iK9uLukiE9sSqJ7P58C4c) | 3:13 | 2025-07-25 | 2026-10-03 |
 | [Free in the Morning](https://open.spotify.com/track/4BfyZX63uVxk2cMPGhx9Iv) | [Steel Saddle](https://open.spotify.com/artist/5cTnIEVg8jeAcqzSYWT3ed) | [Steel Saddle](https://open.spotify.com/album/7ou48ilkhLeInWfpTeIwG6) | 3:16 | 2024-07-19 | 2024-07-27 |
-| [Freedom Bus \(feat\. Jesse Welles\)](https://open.spotify.com/track/6WIG59dsRrXkkJGoMUt1Xo) | [Sheryl Crow](https://open.spotify.com/artist/4TKTii6gnOnUXQHyuo9JaD), [Jesse Welles](https://open.spotify.com/artist/366xgdzfRGQoiDRGidGlDJ) | [Freedom Bus \(feat\. Jesse Welles\)](https://open.spotify.com/album/5YkFjlztInHrn0fdfTkeQ3) | 4:43 | 2026-08-14 |  |
+| [Freedom Bus \(feat\. Jesse Welles\)](https://open.spotify.com/track/6WIG59dsRrXkkJGoMUt1Xo) | [Sheryl Crow](https://open.spotify.com/artist/4TKTii6gnOnUXQHyuo9JaD), [Jesse Welles](https://open.spotify.com/artist/366xgdzfRGQoiDRGidGlDJ) | [Freedom Bus \(feat\. Jesse Welles\)](https://open.spotify.com/album/5YkFjlztInHrn0fdfTkeQ3) | 4:43 | 2026-08-14 | 2026-11-27 |
 | [From Austin](https://open.spotify.com/track/3X0V4uEujns3TlpoDa2TvP) | [Zach Bryan](https://open.spotify.com/artist/40ZNYROS4zLfyyBSs2PGe2) | [From Austin](https://open.spotify.com/album/2URKspvbbsk7oo4ISroxzG) | 3:27 | 2022-05-13 | 2022-08-27 |
 | [From Friends To Strangers](https://open.spotify.com/track/0cJJN21I6njClZyPJeXMgS) | [Geneviève Racette](https://open.spotify.com/artist/3puoZ6FIQPCCA2mX9Yh6fU) | [From Friends To Strangers](https://open.spotify.com/album/57gpvZPjR7eZACFtu0eZNf) | 3:15 | 2024-05-24 | 2024-07-27 |
 | [Frostbite](https://open.spotify.com/track/1bJPV0YFBxytUqVWnwngq5) | [Waylon Wyatt](https://open.spotify.com/artist/6Ff2omMMZOd8FWNqb980Ol) | [Frostbite](https://open.spotify.com/album/1kGSdeHUwCRfN1Fi7v02i4) | 3:22 | 2025-11-14 |  |
@@ -604,6 +604,7 @@
 | [Running Away](https://open.spotify.com/track/6hGu0MWwR53eJbHCAZgWii) | [Julian Taylor](https://open.spotify.com/artist/35k2toFgs8gru6GMPChzo6) | [Running Away](https://open.spotify.com/album/33lwlkjQC8xLyI4W7YgCTI) | 4:54 | 2024-05-31 | 2024-07-07 |
 | [Sacred Love](https://open.spotify.com/track/6MPzmBwZzK2ROm7sEMxMM2) | [Logan Staats](https://open.spotify.com/artist/2vXJfRfKqdwDvqKL5tvJ7P), [Allison Russell](https://open.spotify.com/artist/3JBmecDGXTll46ygrnGTM6) | [Sacred Love](https://open.spotify.com/album/4WdG6iEFj64MHcHkFdX9FT) | 4:42 | 2026-08-28 | 2026-09-25 |
 | [Sad All The Time \- Bonus Track](https://open.spotify.com/track/05SLKEyD0ZnGLEsCMx4FAf) | [Mariel Buckley](https://open.spotify.com/artist/7lghcHbrdt7sqHWeya15aV) | [Everywhere I Used to Be \(Deluxe\)](https://open.spotify.com/album/7r5UvKF4coPqePysjqIHx9) | 2:40 | 2023-07-07 | 2023-08-20 |
+| [Sad State Of Mind](https://open.spotify.com/track/5nmRoF8pVdB2R4QbkpkFJH) | [Kady Zadora](https://open.spotify.com/artist/3e5ErlzlEHeOEHgAH0Oeew) | [Sad State Of Mind](https://open.spotify.com/album/5NIJwhadrjFd7zqbaFWdTs) | 2:39 | 2026-11-27 |  |
 | [Sam](https://open.spotify.com/track/1kKDVYavcoEH5N6R6ezM6T) | [Sturgill Simpson](https://open.spotify.com/artist/3vDpQbGnzRbRVirXlfQagB) | [The Ballad of Dood & Juanita](https://open.spotify.com/album/5CigVuEyiAYaNYx2M2w4hh) | 1:12 | 2023-04-21 | 2025-10-18 |
 | [Sandy \(Wrangler in the Badlands\)](https://open.spotify.com/track/2X2KFZio004eItvRC9ECOZ) | [Mentana](https://open.spotify.com/artist/7s1t2dwRy92CkE8IrCwC6u) | [Sandy \(Wrangler in the Badlands\)](https://open.spotify.com/album/6unm7HfVeFeblNky9xXvp7) | 4:34 | 2022-08-05 | 2023-04-22 |
 | [Sarah's Place \(feat\. Noah Kahan\)](https://open.spotify.com/track/1fvC3CmNAbsx0V9ULMU8NB) | [Zach Bryan](https://open.spotify.com/artist/40ZNYROS4zLfyyBSs2PGe2), [Noah Kahan](https://open.spotify.com/artist/2RQXRUsr4IW1f3mKyKsy4B) | [Sarah's Place \(feat\. Noah Kahan\)](https://open.spotify.com/album/4nCpzKTB9VoZF1hsogANQi) | 3:34 | 2023-09-22 | 2023-10-28 |

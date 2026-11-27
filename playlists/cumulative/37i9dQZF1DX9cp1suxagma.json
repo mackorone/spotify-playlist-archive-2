@@ -705,6 +705,28 @@
     },
     {
       "album": {
+        "name": "Tr\u00f3pico Ex\u00f3tico",
+        "url": "https://open.spotify.com/album/6sQswNatGgSykoBUeUV1Nv"
+      },
+      "artists": [
+        {
+          "name": "Duina Del Mar",
+          "url": "https://open.spotify.com/artist/3NLiMFbrwqCHXPz17pOBTU"
+        },
+        {
+          "name": "Bull Nene",
+          "url": "https://open.spotify.com/artist/2J4DnMLXFJxxS7fjCxEApa"
+        }
+      ],
+      "date_added": "2026-11-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 192967,
+      "name": "Bajo El Sol",
+      "url": "https://open.spotify.com/track/2TxHbvo8mV7G1oT89myCck"
+    },
+    {
+      "album": {
         "name": "Bajo La Mesa",
         "url": "https://open.spotify.com/album/7skwkKwi2c3AZF5oBQDUY0"
       },
@@ -2250,7 +2272,7 @@
       ],
       "date_added": "2026-09-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-27",
       "duration_ms": 173617,
       "name": "elefante/desde lejos",
       "url": "https://open.spotify.com/track/2Ctih9lum1oEfnITnIOB8c"
@@ -3454,7 +3476,7 @@
       ],
       "date_added": "2023-02-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-27",
       "duration_ms": 166333,
       "name": "Llamada Perdida",
       "url": "https://open.spotify.com/track/1f6PB9enEpg3o07aHu0Cl4"
@@ -5340,6 +5362,24 @@
       "duration_ms": 174379,
       "name": "Presiento",
       "url": "https://open.spotify.com/track/7nHUD2xhqkehsYk3PT6QDs"
+    },
+    {
+      "album": {
+        "name": "[demos] vol. 2",
+        "url": "https://open.spotify.com/album/5nauI28CDEY8PO5yDCb30b"
+      },
+      "artists": [
+        {
+          "name": "Susana Cala",
+          "url": "https://open.spotify.com/artist/68LgpWsaAwjflP3CLXC0LB"
+        }
+      ],
+      "date_added": "2026-11-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 193398,
+      "name": "problemas:des-ah\u00f3gate",
+      "url": "https://open.spotify.com/track/7vxFh2b7O52HuYX7e28Rm7"
     },
     {
       "album": {

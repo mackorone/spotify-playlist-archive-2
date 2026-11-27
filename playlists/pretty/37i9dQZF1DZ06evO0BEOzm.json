@@ -1,12 +1,12 @@
 {
   "description": "This is Megan Thee Stallion. The essential tracks, all in one playlist.",
-  "num_followers": 316884,
+  "num_followers": 316934,
   "original_name": "This Is Megan Thee Stallion",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "awOCAAAAAADR8PKDnEDtiFeXfBWaluez",
+  "snapshot_id": "awYlAAAAAAC4ZOBs2KRlF9cZ9hAEpo0b",
   "tracks": [
     {
       "added_at": null,
@@ -207,34 +207,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "DNA (More Than A Game) [FIFA World Cup 2026\u2122]",
-        "url": "https://open.spotify.com/album/53oXeqv93oxxcJwFt3fjH5"
-      },
-      "artists": [
-        {
-          "name": "Andrea Bocelli",
-          "url": "https://open.spotify.com/artist/3EA9hVIzKfFiQI0Kikz2wo"
-        },
-        {
-          "name": "David Guetta",
-          "url": "https://open.spotify.com/artist/1Cs0zKBU1kc0i8ypK3B9ai"
-        },
-        {
-          "name": "EJAE",
-          "url": "https://open.spotify.com/artist/0RMJOzHDhAKY1o2j0W0vxY"
-        },
-        {
-          "name": "Megan Thee Stallion",
-          "url": "https://open.spotify.com/artist/181bsRPaVXVlUKXrxwZfHK"
-        }
-      ],
-      "duration_ms": 176855,
-      "name": "DNA (More Than A Game)",
-      "url": "https://open.spotify.com/track/40qwbrvCXsiOPh9xOupCMp"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Good News",
         "url": "https://open.spotify.com/album/0KjckH1EE6HRRurMIXSc0r"
       },
@@ -267,6 +239,34 @@
       "duration_ms": 214850,
       "name": "Big Ole Freak",
       "url": "https://open.spotify.com/track/3YEbLhXRDPTtctnb3ddg8g"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "DNA (More Than A Game) [FIFA World Cup 2026\u2122]",
+        "url": "https://open.spotify.com/album/53oXeqv93oxxcJwFt3fjH5"
+      },
+      "artists": [
+        {
+          "name": "Andrea Bocelli",
+          "url": "https://open.spotify.com/artist/3EA9hVIzKfFiQI0Kikz2wo"
+        },
+        {
+          "name": "David Guetta",
+          "url": "https://open.spotify.com/artist/1Cs0zKBU1kc0i8ypK3B9ai"
+        },
+        {
+          "name": "EJAE",
+          "url": "https://open.spotify.com/artist/0RMJOzHDhAKY1o2j0W0vxY"
+        },
+        {
+          "name": "Megan Thee Stallion",
+          "url": "https://open.spotify.com/artist/181bsRPaVXVlUKXrxwZfHK"
+        }
+      ],
+      "duration_ms": 176855,
+      "name": "DNA (More Than A Game)",
+      "url": "https://open.spotify.com/track/40qwbrvCXsiOPh9xOupCMp"
     },
     {
       "added_at": null,
@@ -311,26 +311,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Pink Blush (Remix) [feat. Megan Thee Stallion]",
-        "url": "https://open.spotify.com/album/3sqKpIBO5ST20iCc5kY5nA"
-      },
-      "artists": [
-        {
-          "name": "Dolly Babe",
-          "url": "https://open.spotify.com/artist/647qQOSIMSyoEoUEnN5LsM"
-        },
-        {
-          "name": "Megan Thee Stallion",
-          "url": "https://open.spotify.com/artist/181bsRPaVXVlUKXrxwZfHK"
-        }
-      ],
-      "duration_ms": 161817,
-      "name": "Pink Blush (Remix) [feat. Megan Thee Stallion]",
-      "url": "https://open.spotify.com/track/2k1gcQWaB2FuVFqK46s4ob"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Tina Snow",
         "url": "https://open.spotify.com/album/26jEIrN7WSAnVQXXUmLRSN"
       },
@@ -359,6 +339,26 @@
       "duration_ms": 125030,
       "name": "Kitty Kat",
       "url": "https://open.spotify.com/track/6DoGtGyDgv5mVxeCpP92tX"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Pink Blush (Remix) [feat. Megan Thee Stallion]",
+        "url": "https://open.spotify.com/album/3sqKpIBO5ST20iCc5kY5nA"
+      },
+      "artists": [
+        {
+          "name": "Dolly Babe",
+          "url": "https://open.spotify.com/artist/647qQOSIMSyoEoUEnN5LsM"
+        },
+        {
+          "name": "Megan Thee Stallion",
+          "url": "https://open.spotify.com/artist/181bsRPaVXVlUKXrxwZfHK"
+        }
+      ],
+      "duration_ms": 161817,
+      "name": "Pink Blush (Remix) [feat. Megan Thee Stallion]",
+      "url": "https://open.spotify.com/track/2k1gcQWaB2FuVFqK46s4ob"
     },
     {
       "added_at": null,
@@ -803,6 +803,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Fever",
+        "url": "https://open.spotify.com/album/5WLquTz7nUnsHCj80b6wci"
+      },
+      "artists": [
+        {
+          "name": "Megan Thee Stallion",
+          "url": "https://open.spotify.com/artist/181bsRPaVXVlUKXrxwZfHK"
+        }
+      ],
+      "duration_ms": 124802,
+      "name": "Running Up Freestyle",
+      "url": "https://open.spotify.com/track/1YU0fHUCpUyxkWqxx9ivHK"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Mean Girls (Music From The Motion Picture)",
         "url": "https://open.spotify.com/album/1LJWyyP756YVEeIRa6DU74"
       },
@@ -823,22 +839,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Fever",
-        "url": "https://open.spotify.com/album/5WLquTz7nUnsHCj80b6wci"
-      },
-      "artists": [
-        {
-          "name": "Megan Thee Stallion",
-          "url": "https://open.spotify.com/artist/181bsRPaVXVlUKXrxwZfHK"
-        }
-      ],
-      "duration_ms": 124802,
-      "name": "Running Up Freestyle",
-      "url": "https://open.spotify.com/track/1YU0fHUCpUyxkWqxx9ivHK"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Butter (Megan Thee Stallion Remix)",
         "url": "https://open.spotify.com/album/0ze8IhE4fLLfu5lET12g5v"
       },
@@ -855,6 +855,26 @@
       "duration_ms": 164457,
       "name": "Butter - Megan Thee Stallion Remix",
       "url": "https://open.spotify.com/track/474VqnPDr0251lsQBB8sQB"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Boiling Point",
+        "url": "https://open.spotify.com/album/749xM3zGRzzipjewrRzTfW"
+      },
+      "artists": [
+        {
+          "name": "JUVENILE",
+          "url": "https://open.spotify.com/artist/0rG0AZBscc8S8q1ahIsasI"
+        },
+        {
+          "name": "Megan Thee Stallion",
+          "url": "https://open.spotify.com/artist/181bsRPaVXVlUKXrxwZfHK"
+        }
+      ],
+      "duration_ms": 140613,
+      "name": "B.B.B.",
+      "url": "https://open.spotify.com/track/1qnJsxcWSJPuacF8tvDgYd"
     },
     {
       "added_at": null,
@@ -891,26 +911,6 @@
       "duration_ms": 196281,
       "name": "Hot Girl",
       "url": "https://open.spotify.com/track/2Xc9MR2NMc5IKPFKaEjt1k"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Boiling Point",
-        "url": "https://open.spotify.com/album/749xM3zGRzzipjewrRzTfW"
-      },
-      "artists": [
-        {
-          "name": "JUVENILE",
-          "url": "https://open.spotify.com/artist/0rG0AZBscc8S8q1ahIsasI"
-        },
-        {
-          "name": "Megan Thee Stallion",
-          "url": "https://open.spotify.com/artist/181bsRPaVXVlUKXrxwZfHK"
-        }
-      ],
-      "duration_ms": 140613,
-      "name": "B.B.B.",
-      "url": "https://open.spotify.com/track/1qnJsxcWSJPuacF8tvDgYd"
     }
   ],
   "unique_name": "This Is Megan Thee Stallion",

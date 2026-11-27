@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVgsJtp58d1t.md) - [plain]
 
 > The best in Black music! Cover: <a href="spotify:artist:30C5wgn4celhRP3Tytv7R6">Mez</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,155,708 likes - 151 songs - 7 hr 32 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,155,801 likes - 151 songs - 7 hr 32 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

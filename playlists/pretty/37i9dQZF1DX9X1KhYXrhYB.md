@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9X1KhYXrhYB.md) - [plain]
 
 > Secrets will be spilled\. Listen to the music from Yellowjackets, now streaming on Paramount+.
 
-[Spotify](https://open.spotify.com/user/spotify) - 184,475 likes - 142 songs - 9 hr 17 min
+[Spotify](https://open.spotify.com/user/spotify) - 184,560 likes - 142 songs - 9 hr 17 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

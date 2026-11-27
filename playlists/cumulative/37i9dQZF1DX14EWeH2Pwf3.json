@@ -1924,7 +1924,7 @@
       ],
       "date_added": "2026-11-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-27",
       "duration_ms": 184888,
       "name": "Anche se",
       "url": "https://open.spotify.com/track/6fvFnpCAxqt0Jp9QFAH08S"
@@ -2890,7 +2890,7 @@
       ],
       "date_added": "2026-11-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-27",
       "duration_ms": 158267,
       "name": "BABYMILANO",
       "url": "https://open.spotify.com/track/0iwsAo3Ftd7teFrP8Dv0K1"
@@ -5966,7 +5966,7 @@
       ],
       "date_added": "2026-11-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-27",
       "duration_ms": 207770,
       "name": "Ciao Amore (feat. Ernia & mew)",
       "url": "https://open.spotify.com/track/1QYiDVzKDRXZkyg6CfrREF"
@@ -7160,7 +7160,7 @@
       ],
       "date_added": "2026-07-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-27",
       "duration_ms": 188000,
       "name": "DALE (feat. Frezza, G.Mineiro, R3versal)",
       "url": "https://open.spotify.com/track/3VjfNmIzBTYA4UFaUNpdY7"
@@ -7364,7 +7364,7 @@
       ],
       "date_added": "2026-11-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-27",
       "duration_ms": 138205,
       "name": "DENTRO L\u2019AUDI",
       "url": "https://open.spotify.com/track/2fxBFr29Aftett7pFBb7fK"
@@ -8074,6 +8074,32 @@
       "duration_ms": 211321,
       "name": "Due principi (feat. Emis Killa)",
       "url": "https://open.spotify.com/track/5YdpLxge3UzTHymkQ6XCf4"
+    },
+    {
+      "album": {
+        "name": "CONTROCIELO",
+        "url": "https://open.spotify.com/album/48CQHXETpbCXCp4BzMakdr"
+      },
+      "artists": [
+        {
+          "name": "SaintPaul",
+          "url": "https://open.spotify.com/artist/6xg4tPVaXpFnl8Y7ejHSVT"
+        },
+        {
+          "name": "Sgribaz",
+          "url": "https://open.spotify.com/artist/1nz1nHrmEwE28EGz4Z2fKi"
+        },
+        {
+          "name": "Frenkie G",
+          "url": "https://open.spotify.com/artist/5KBHTyp1mAbp56Ph9G0K6k"
+        }
+      ],
+      "date_added": "2026-11-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 164705,
+      "name": "Due siga (feat. Sgribaz)",
+      "url": "https://open.spotify.com/track/2wzKI79hs4eMQ3WxEFUEO4"
     },
     {
       "album": {
@@ -11473,6 +11499,24 @@
     },
     {
       "album": {
+        "name": "26+4",
+        "url": "https://open.spotify.com/album/3FwOIcNd3WrS0jef0pkreH"
+      },
+      "artists": [
+        {
+          "name": "Ele A",
+          "url": "https://open.spotify.com/artist/2p8QkcgkfvIcUTpudqcqRM"
+        }
+      ],
+      "date_added": "2026-11-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 140250,
+      "name": "IHATEMYPHONE!",
+      "url": "https://open.spotify.com/track/1Ur8fP2N2o0b07cNk0Enlq"
+    },
+    {
+      "album": {
         "name": "IL BENE NEL MALE",
         "url": "https://open.spotify.com/album/2rr30y9ialqckQrhkbb9DQ"
       },
@@ -12408,7 +12452,7 @@
       ],
       "date_added": "2026-10-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-27",
       "duration_ms": 194181,
       "name": "KICHTA LOVA (feat. LILCR)",
       "url": "https://open.spotify.com/track/2bnG45ztHV2m26JsN3QyBi"
@@ -14663,6 +14707,28 @@
     },
     {
       "album": {
+        "name": "SANGHA",
+        "url": "https://open.spotify.com/album/5zatWqIoVTwT3HzHvf1olD"
+      },
+      "artists": [
+        {
+          "name": "MACE",
+          "url": "https://open.spotify.com/artist/7gjqZ8coFZimZDtdk04WP1"
+        },
+        {
+          "name": "Artie 5ive",
+          "url": "https://open.spotify.com/artist/2R4kNOwHUUsuDYhKsESVbF"
+        }
+      ],
+      "date_added": "2026-11-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 191823,
+      "name": "Marika \u20aa (con Artie 5ive)",
+      "url": "https://open.spotify.com/track/0ZPxhcWqqH8k9v1QJDoFbM"
+    },
+    {
+      "album": {
         "name": "Botox",
         "url": "https://open.spotify.com/album/1CjtjrWyjx2eT5OejciTVr"
       },
@@ -16847,6 +16913,24 @@
     },
     {
       "album": {
+        "name": "NON BASTER\u00c0",
+        "url": "https://open.spotify.com/album/4xUYzEUiUew0XRp32XnI3W"
+      },
+      "artists": [
+        {
+          "name": "Niky Savage",
+          "url": "https://open.spotify.com/artist/4w9mPW732RnZkoqsy3lRsg"
+        }
+      ],
+      "date_added": "2026-11-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 172121,
+      "name": "NON BASTER\u00c0",
+      "url": "https://open.spotify.com/track/54IAgdWfylyGCEUB5UZziJ"
+    },
+    {
+      "album": {
         "name": "NON CAPISCI (FREESTYLE)",
         "url": "https://open.spotify.com/album/3EqBhT9F1rHjYda8uL0rzH"
       },
@@ -17576,6 +17660,28 @@
       "duration_ms": 197200,
       "name": "OCCHI STANCHI (feat. LILCR)",
       "url": "https://open.spotify.com/track/1QmNjkllOVaXulGT8DXGyr"
+    },
+    {
+      "album": {
+        "name": "OCCHIALE + SWAG",
+        "url": "https://open.spotify.com/album/41Xxpo9efYdmd8ARTuQEpS"
+      },
+      "artists": [
+        {
+          "name": "Diss Gacha",
+          "url": "https://open.spotify.com/artist/4TKF8KSK6bgHgszFxu5xzu"
+        },
+        {
+          "name": "Sala",
+          "url": "https://open.spotify.com/artist/3JgYm8oVvcrFpJBUNIonqM"
+        }
+      ],
+      "date_added": "2026-11-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 130526,
+      "name": "OCCHIALE + SWAG",
+      "url": "https://open.spotify.com/track/1bgEojwsvGJNJmMWmGt9Ct"
     },
     {
       "album": {
@@ -19918,7 +20024,7 @@
       ],
       "date_added": "2026-11-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-27",
       "duration_ms": 163833,
       "name": "POCO TEMPO",
       "url": "https://open.spotify.com/track/4GLUD6KtQNMUEqdZQ6Of7v"
@@ -20226,7 +20332,7 @@
       ],
       "date_added": "2026-11-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-27",
       "duration_ms": 141176,
       "name": "PRECIPIZIO",
       "url": "https://open.spotify.com/track/5nVmjkK33VX0cShm64PVyI"
@@ -23883,6 +23989,24 @@
     },
     {
       "album": {
+        "name": "ROVI",
+        "url": "https://open.spotify.com/album/0iWKNdR0g10Fzg4DhedRnH"
+      },
+      "artists": [
+        {
+          "name": "Zizzu",
+          "url": "https://open.spotify.com/artist/0zpSxvKs0CT4aktl3RAs0v"
+        }
+      ],
+      "date_added": "2026-11-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 200721,
+      "name": "STRADE SECONDARIE",
+      "url": "https://open.spotify.com/track/1I99LLkIrT5DXfkNzlrKz7"
+    },
+    {
+      "album": {
         "name": "Le cose cambiano",
         "url": "https://open.spotify.com/album/50SWJ7Aq7XuSKl8SJYFnn9"
       },
@@ -25327,6 +25451,32 @@
     },
     {
       "album": {
+        "name": "SANGHA",
+        "url": "https://open.spotify.com/album/5zatWqIoVTwT3HzHvf1olD"
+      },
+      "artists": [
+        {
+          "name": "MACE",
+          "url": "https://open.spotify.com/artist/7gjqZ8coFZimZDtdk04WP1"
+        },
+        {
+          "name": "Promessa",
+          "url": "https://open.spotify.com/artist/57XSE1wSSI6Xnpx6LMWAKN"
+        },
+        {
+          "name": "centomilacarie",
+          "url": "https://open.spotify.com/artist/0SqAMjiB62nTuKn7DHctSa"
+        }
+      ],
+      "date_added": "2026-11-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 175434,
+      "name": "Tutto il resto \u2021 (con Promessa, centomilacarie)",
+      "url": "https://open.spotify.com/track/4olslJtVXZip1uSynxvy5r"
+    },
+    {
+      "album": {
         "name": "TXT",
         "url": "https://open.spotify.com/album/4F4CP1xAwlDthC4bMd8TUP"
       },
@@ -25978,6 +26128,36 @@
       "duration_ms": 194106,
       "name": "Veleno",
       "url": "https://open.spotify.com/track/5b5LAmQZx3mKmhL7PQGegi"
+    },
+    {
+      "album": {
+        "name": "SANGHA",
+        "url": "https://open.spotify.com/album/5zatWqIoVTwT3HzHvf1olD"
+      },
+      "artists": [
+        {
+          "name": "MACE",
+          "url": "https://open.spotify.com/artist/7gjqZ8coFZimZDtdk04WP1"
+        },
+        {
+          "name": "Gemitaiz",
+          "url": "https://open.spotify.com/artist/4upwdFMlZBmQ68jP9jPzjK"
+        },
+        {
+          "name": "nayt",
+          "url": "https://open.spotify.com/artist/7tmTvmqgTBcX88ZrSHByrD"
+        },
+        {
+          "name": "centomilacarie",
+          "url": "https://open.spotify.com/artist/0SqAMjiB62nTuKn7DHctSa"
+        }
+      ],
+      "date_added": "2026-11-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 232089,
+      "name": "Velluto nero \u1be5 (con Gemitaiz, nayt, centomilacarie)",
+      "url": "https://open.spotify.com/track/5yQ3nsiuX9VsCTXcISVzKi"
     },
     {
       "album": {

@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-07-19",
-  "description": "Tracks popping off in the Afro scene. Cover: Burna Boy",
+  "description": "Tracks popping off in the Afro scene. Cover: LinLin x Theodora",
   "name": "Afro Station",
   "tracks": [
     {
@@ -122,7 +122,7 @@
       ],
       "date_added": "2026-10-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-27",
       "duration_ms": 184000,
       "name": "2am in toronto",
       "url": "https://open.spotify.com/track/6Y4gGndf0AXpLGXi1P0HTE"
@@ -3727,6 +3727,32 @@
     },
     {
       "album": {
+        "name": "Better Than Ever",
+        "url": "https://open.spotify.com/album/0rxApZNEt17klwrRynMhGf"
+      },
+      "artists": [
+        {
+          "name": "NO11",
+          "url": "https://open.spotify.com/artist/1bu3a0AAJbZazQJV0tbywD"
+        },
+        {
+          "name": "Pa Salieu",
+          "url": "https://open.spotify.com/artist/290nCNEce1y6rfoJiO2rK7"
+        },
+        {
+          "name": "SPINALL",
+          "url": "https://open.spotify.com/artist/2NtQA3PY9chI8l65ejZLTP"
+        }
+      ],
+      "date_added": "2026-11-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 142439,
+      "name": "Better Than Ever",
+      "url": "https://open.spotify.com/track/6Hajw1GZYeKFwGuXU9nSUZ"
+    },
+    {
+      "album": {
         "name": "Biberon",
         "url": "https://open.spotify.com/album/3sCaCqHePrFjGv0thq30MX"
       },
@@ -3922,7 +3948,7 @@
       ],
       "date_added": "2026-11-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-27",
       "duration_ms": 169262,
       "name": "Bigger (from GTAVI: The Album)",
       "url": "https://open.spotify.com/track/4BDrbdeodpenlrORv4yqnc"
@@ -3940,7 +3966,7 @@
       ],
       "date_added": "2026-10-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-27",
       "duration_ms": 118636,
       "name": "Bilingual Baddie(BB)",
       "url": "https://open.spotify.com/track/5OhIiYqDiGngTojSmC11ZP"
@@ -4778,7 +4804,7 @@
       ],
       "date_added": "2026-10-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-27",
       "duration_ms": 311150,
       "name": "Burukutu",
       "url": "https://open.spotify.com/track/4vwzDIuXLtdevmmjPtnemz"
@@ -5912,6 +5938,28 @@
       "duration_ms": 142702,
       "name": "CHERRY",
       "url": "https://open.spotify.com/track/2fcti4G9MP1YWqbusdkode"
+    },
+    {
+      "album": {
+        "name": "DIVAS",
+        "url": "https://open.spotify.com/album/6hdqkXEnPI1YscyRKSVOEp"
+      },
+      "artists": [
+        {
+          "name": "Roseline Layo",
+          "url": "https://open.spotify.com/artist/3vrK28yYXzDOifqaD3YyEI"
+        },
+        {
+          "name": "Kany",
+          "url": "https://open.spotify.com/artist/0bD7mEP1eG7KRK84O1SjkF"
+        }
+      ],
+      "date_added": "2026-11-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 161860,
+      "name": "CHIC LOVE",
+      "url": "https://open.spotify.com/track/38dfcL1gYJhsbgiWXLioOL"
     },
     {
       "album": {
@@ -7073,6 +7121,28 @@
     },
     {
       "album": {
+        "name": "D GA",
+        "url": "https://open.spotify.com/album/2EDrkvEVqIClNvvqLc4xT6"
+      },
+      "artists": [
+        {
+          "name": "LinLin",
+          "url": "https://open.spotify.com/artist/1D7nUBd4i2mrVpmLQmHI0n"
+        },
+        {
+          "name": "Theodora",
+          "url": "https://open.spotify.com/artist/3PpJbrAbphauEun8Xf9tD2"
+        }
+      ],
+      "date_added": "2026-11-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 180462,
+      "name": "D GA",
+      "url": "https://open.spotify.com/track/2TxXO0GXIOCHkwRR35q4vP"
+    },
+    {
+      "album": {
         "name": "D.S.L (feat. Merveille)",
         "url": "https://open.spotify.com/album/16UxdYbqp0V1qt8dPcHirV"
       },
@@ -7146,7 +7216,7 @@
       ],
       "date_added": "2026-11-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-27",
       "duration_ms": 179417,
       "name": "Dady",
       "url": "https://open.spotify.com/track/7DYytjdsJPAtnIfjK3P2Nh"
@@ -8042,7 +8112,7 @@
       ],
       "date_added": "2026-11-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-27",
       "duration_ms": 180445,
       "name": "Diva",
       "url": "https://open.spotify.com/track/2QsBBAmFadqvSfLfVdHhRg"
@@ -8966,7 +9036,7 @@
       ],
       "date_added": "2026-10-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-27",
       "duration_ms": 105826,
       "name": "Effray\u00e9s",
       "url": "https://open.spotify.com/track/4ocjzDW1Ub8o6qCt39UFmU"
@@ -12592,7 +12662,7 @@
       ],
       "date_added": "2026-10-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-27",
       "duration_ms": 164828,
       "name": "Hot",
       "url": "https://open.spotify.com/track/09pHOwDVlQ4Fz765ABRiyi"
@@ -13022,7 +13092,7 @@
       ],
       "date_added": "2026-10-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-27",
       "duration_ms": 162284,
       "name": "If You Like",
       "url": "https://open.spotify.com/track/6d4YQtaZ7M4WwoYiTC2U06"
@@ -13336,7 +13406,7 @@
       ],
       "date_added": "2026-11-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-27",
       "duration_ms": 151456,
       "name": "INFERNO",
       "url": "https://open.spotify.com/track/3FCIOA44iYIDsjDNeXthc1"
@@ -14304,7 +14374,7 @@
       ],
       "date_added": "2026-10-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-27",
       "duration_ms": 178181,
       "name": "Jolie",
       "url": "https://open.spotify.com/track/5CZ3BckdPom7YA3YitodvQ"
@@ -15107,6 +15177,24 @@
     },
     {
       "album": {
+        "name": "KOTAZO",
+        "url": "https://open.spotify.com/album/4ANPCTkNHDplYtmYrXtvBz"
+      },
+      "artists": [
+        {
+          "name": "Stoneboi444",
+          "url": "https://open.spotify.com/artist/2PQpjIck26lGCm0rayqU35"
+        }
+      ],
+      "date_added": "2026-11-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 143665,
+      "name": "KOTAZO",
+      "url": "https://open.spotify.com/track/1GmSubrnhKGhnXzUbXrAY5"
+    },
+    {
+      "album": {
         "name": "Kristy",
         "url": "https://open.spotify.com/album/4b0c1lr72jmvi93sJFKYq1"
       },
@@ -15550,6 +15638,46 @@
       "duration_ms": 161666,
       "name": "Les rues de Kiname",
       "url": "https://open.spotify.com/track/0qKrs0lAa1vyuRbJ2ZA1PC"
+    },
+    {
+      "album": {
+        "name": "LesVitesses",
+        "url": "https://open.spotify.com/album/5Idl1HULCyTsoQSQPiluFx"
+      },
+      "artists": [
+        {
+          "name": "sleepypierre",
+          "url": "https://open.spotify.com/artist/0TAxLQ3NNRtFzkg5ZDOmpN"
+        }
+      ],
+      "date_added": "2026-11-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 126735,
+      "name": "LesVitesses",
+      "url": "https://open.spotify.com/track/35qzueFnsuCcfELdEcQIMY"
+    },
+    {
+      "album": {
+        "name": "Let Go",
+        "url": "https://open.spotify.com/album/4t7hxff3b0RlOesGwD5OK1"
+      },
+      "artists": [
+        {
+          "name": "BRIANA OZAA",
+          "url": "https://open.spotify.com/artist/6USm2L5vQYUwYjw5CvU4W1"
+        },
+        {
+          "name": "SOSEY",
+          "url": "https://open.spotify.com/artist/1L4l4XFtPJv7LMwdcsNPxd"
+        }
+      ],
+      "date_added": "2026-11-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 194666,
+      "name": "Let Go",
+      "url": "https://open.spotify.com/track/622XrlWoVI292A0lCYDOSQ"
     },
     {
       "album": {
@@ -16282,7 +16410,7 @@
       ],
       "date_added": "2026-10-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-27",
       "duration_ms": 199028,
       "name": "Longue vie \u00e0 nous",
       "url": "https://open.spotify.com/track/1IsosHLLJlLuCLsrIIhqfc"
@@ -18959,6 +19087,24 @@
     },
     {
       "album": {
+        "name": "My Love",
+        "url": "https://open.spotify.com/album/6FZO0yHd7Lvwr560MK6Vfu"
+      },
+      "artists": [
+        {
+          "name": "Jeady Jay",
+          "url": "https://open.spotify.com/artist/4hXDK6hpOhP5dW2kuWZ6my"
+        }
+      ],
+      "date_added": "2026-11-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 185566,
+      "name": "My Love",
+      "url": "https://open.spotify.com/track/5jZqXx6yOzq5qNGoKj9lhE"
+    },
+    {
+      "album": {
         "name": "My Man",
         "url": "https://open.spotify.com/album/2P0BnbvscGJpuGBlCUEIUA"
       },
@@ -20128,6 +20274,24 @@
       "duration_ms": 137478,
       "name": "Nouveaux V\u00eatements",
       "url": "https://open.spotify.com/track/0u2uOHTTxWDclpULXVVktT"
+    },
+    {
+      "album": {
+        "name": "NTM",
+        "url": "https://open.spotify.com/album/79NXXuDa8wcWC6qN7GmDLB"
+      },
+      "artists": [
+        {
+          "name": "Fallon",
+          "url": "https://open.spotify.com/artist/4KnnkSpgIiaRMmXO8qq18I"
+        }
+      ],
+      "date_added": "2026-11-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 159638,
+      "name": "NTM",
+      "url": "https://open.spotify.com/track/5oxLK8tBYwvuQ97L4C04m9"
     },
     {
       "album": {
@@ -24395,6 +24559,24 @@
     },
     {
       "album": {
+        "name": "Sebele",
+        "url": "https://open.spotify.com/album/6jDXlG8rM8Uyye4FCEZF1O"
+      },
+      "artists": [
+        {
+          "name": "Hulk",
+          "url": "https://open.spotify.com/artist/2D2Wm1oAJrDRzXVzxkyBOE"
+        }
+      ],
+      "date_added": "2026-11-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 174915,
+      "name": "Sebele",
+      "url": "https://open.spotify.com/track/6onJHCNAZoY9aOrPF3dyrK"
+    },
+    {
+      "album": {
         "name": "Secrets",
         "url": "https://open.spotify.com/album/2wkkmWlkPwBaMVE3Cs6VIl"
       },
@@ -24534,6 +24716,24 @@
       "duration_ms": 139428,
       "name": "SENTIMENTS",
       "url": "https://open.spotify.com/track/69c047hFRsd6uFND548cfD"
+    },
+    {
+      "album": {
+        "name": "SEPHORA",
+        "url": "https://open.spotify.com/album/4aBOrCEczQjaWE2oiyGhT0"
+      },
+      "artists": [
+        {
+          "name": "Issah",
+          "url": "https://open.spotify.com/artist/59ZjXKy0c97P7681qe7Tsq"
+        }
+      ],
+      "date_added": "2026-11-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 128391,
+      "name": "SEPHORA",
+      "url": "https://open.spotify.com/track/06XvfZtvE0ZMjodXteivH5"
     },
     {
       "album": {
@@ -25138,7 +25338,7 @@
       ],
       "date_added": "2026-10-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-27",
       "duration_ms": 149714,
       "name": "So Badd",
       "url": "https://open.spotify.com/track/6CSCKFY8fK9qzt37EuCbbO"
@@ -26541,6 +26741,32 @@
     },
     {
       "album": {
+        "name": "TENSION",
+        "url": "https://open.spotify.com/album/0hY0Wa8Sdrzo6KqrtirLct"
+      },
+      "artists": [
+        {
+          "name": "Jux",
+          "url": "https://open.spotify.com/artist/2ZLAPSgdMTOcovno5mGBZW"
+        },
+        {
+          "name": "Tiwa Savage",
+          "url": "https://open.spotify.com/artist/1hNaHKp2Za5YdOAG0WnRbc"
+        },
+        {
+          "name": "Shoday",
+          "url": "https://open.spotify.com/artist/23R4AtMwVv0pbJYB1joioW"
+        }
+      ],
+      "date_added": "2026-11-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 206017,
+      "name": "TENSION",
+      "url": "https://open.spotify.com/track/58TQadykSdC17KJjHAYE5u"
+    },
+    {
+      "album": {
         "name": "Tentei de Tudo (Tout tenter) (feat. B I L L Y G)",
         "url": "https://open.spotify.com/album/3ZXh0JC5OaoSZpRlQ6ETFo"
       },
@@ -27072,6 +27298,24 @@
       "duration_ms": 166088,
       "name": "Ton\u00e8",
       "url": "https://open.spotify.com/track/3wopD0KmXbL9Tl63secIwX"
+    },
+    {
+      "album": {
+        "name": "LOTHARIO",
+        "url": "https://open.spotify.com/album/12uwo37wj6jfulOyeEBoC1"
+      },
+      "artists": [
+        {
+          "name": "Bayanni",
+          "url": "https://open.spotify.com/artist/6FbCERtE2CKqEWihHMYjcG"
+        }
+      ],
+      "date_added": "2026-11-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 156666,
+      "name": "Too Many",
+      "url": "https://open.spotify.com/track/4K2gYCSzMVgGxr34K224V9"
     },
     {
       "album": {
@@ -28818,6 +29062,28 @@
       "duration_ms": 178064,
       "name": "Whine",
       "url": "https://open.spotify.com/track/1RMEvuPu0Lq5GzBedlzEdA"
+    },
+    {
+      "album": {
+        "name": "Whiskey",
+        "url": "https://open.spotify.com/album/2BnIG9ZtR8aB4kbPZAITOk"
+      },
+      "artists": [
+        {
+          "name": "Darkoo",
+          "url": "https://open.spotify.com/artist/4QSTyDpxsKmv3UfavVUImR"
+        },
+        {
+          "name": "FOLA",
+          "url": "https://open.spotify.com/artist/0FK1hXdXst70HD11n5J26z"
+        }
+      ],
+      "date_added": "2026-11-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 173155,
+      "name": "Whiskey",
+      "url": "https://open.spotify.com/track/02738G92Zhe8W7iCVxyVgY"
     },
     {
       "album": {

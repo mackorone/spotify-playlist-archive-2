@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-02-21",
-  "description": "Discover your new favourite artists from UK&IE. Cover: cikho",
+  "description": "Discover your new favourite artists from UK&IE. Cover: Bel Cobain",
   "name": "RADAR UK & Ireland",
   "tracks": [
     {
@@ -1264,6 +1264,24 @@
       "duration_ms": 205000,
       "name": "DAY&NITE",
       "url": "https://open.spotify.com/track/0SPsbPw8Vmv1dgjgN86UgV"
+    },
+    {
+      "album": {
+        "name": "Kizzy Deluxe",
+        "url": "https://open.spotify.com/album/5oH4lrnF4x1TmV7Bx6ahCq"
+      },
+      "artists": [
+        {
+          "name": "Bel Cobain",
+          "url": "https://open.spotify.com/artist/6JvEcv04PhUKWrUYZJrj1F"
+        }
+      ],
+      "date_added": "2026-11-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 189720,
+      "name": "Deep Red",
+      "url": "https://open.spotify.com/track/10copEooGjanT1qDjfdQyW"
     },
     {
       "album": {

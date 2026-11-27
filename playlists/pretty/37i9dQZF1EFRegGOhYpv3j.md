@@ -91,9 +91,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFRegGOhYpv3j.md) - [plain]
 | 81 | [Come Here Cowboy](https://open.spotify.com/track/2hBzDI176FXjOyCiNuvifG) | [Bunnie Xo](https://open.spotify.com/artist/56Dw1CLlqjQuQkBLm25hHP) | [Come Here Cowboy](https://open.spotify.com/album/4xeFm14IBvxCjYdOZutcAA) | 2:04 |
 | 82 | [See Her Around](https://open.spotify.com/track/53EbKGWXglVTpMZbYC165K) | [After Midtown](https://open.spotify.com/artist/59Idogc5QIefeRoxcro5fs) | [Don't Give Away The Ending](https://open.spotify.com/album/44zy1dzJbG7A0HMlrk4PZa) | 3:36 |
 | 83 | [Maybe Don’t?](https://open.spotify.com/track/5h9IjiO5qNtQgXrZUYWxqU) | [Clarke Burns](https://open.spotify.com/artist/6YSwAuCYqkMo7cCTd3wkVh) | [Maybe Don’t?](https://open.spotify.com/album/413h2NXjHd1Dq1OVjqkr7p) | 2:58 |
-| 84 | [it's not you, it's me](https://open.spotify.com/track/0X3mAcw0fxCLqgVcLoGbpC) | [Savana Santos](https://open.spotify.com/artist/4319F2mBye7whEKPHX8pSm) | [1](https://open.spotify.com/album/6N56gxTiG3hCtCTNgdiYtx) | 2:20 |
-| 85 | [Hotter](https://open.spotify.com/track/7o6Qh6jSlHDRmV4eBj5Y4j) | [Jaren Johnston](https://open.spotify.com/artist/5beYbzBVaQfcY8XL2DCcTs) | [The Guest Room](https://open.spotify.com/album/374DcR4mOsUutxymdtqySx) | 2:55 |
+| 84 | [Hotter](https://open.spotify.com/track/7o6Qh6jSlHDRmV4eBj5Y4j) | [Jaren Johnston](https://open.spotify.com/artist/5beYbzBVaQfcY8XL2DCcTs) | [The Guest Room](https://open.spotify.com/album/374DcR4mOsUutxymdtqySx) | 2:55 |
+| 85 | [it's not you, it's me](https://open.spotify.com/track/0X3mAcw0fxCLqgVcLoGbpC) | [Savana Santos](https://open.spotify.com/artist/4319F2mBye7whEKPHX8pSm) | [1](https://open.spotify.com/album/6N56gxTiG3hCtCTNgdiYtx) | 2:20 |
 | 86 | [Shut Up & Ride](https://open.spotify.com/track/1SDGjWhZlW3hcv6XY5bwxd) | [Heartland Cast](https://open.spotify.com/artist/4Y45fGW9ShnqqJiKltapow), [Heart Sisters](https://open.spotify.com/artist/2nC9b7wRpXYykitNPnWSdI) | [Heartland \(Soundtrack from the Netflix Film\)](https://open.spotify.com/album/0Tt6NOXCCk16UP4Yqj0GiL) | 3:02 |
 | 87 | [Double Standard](https://open.spotify.com/track/29kSxzMLoSZ4qeEEO2vN4L) | [Conor Clemmons](https://open.spotify.com/artist/6CrzyNTeFnxKAnkXdx8eyv) | [Double Standard](https://open.spotify.com/album/5N9RkXhSdRLVRLNbAJ3hEP) | 3:24 |
 
-Snapshot ID: `AciqBAAAAAC3JvRnflGBTREv2nnZri07`
+Snapshot ID: `AcivpAAAAACGXLUuoSclp6yuarUyJ79r`

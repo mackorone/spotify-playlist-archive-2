@@ -4,7 +4,7 @@
 
 > Just wanna Praise the Lord and chill\. Here is a perfect one! Cover: Sal Ly
 
-733 songs - 1 day 16 hr 36 min
+735 songs - 1 day 16 hr 44 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -468,6 +468,7 @@
 | [Off Days](https://open.spotify.com/track/4ICreVvOWLDmvt98XAWSHz) | [Sal Ly](https://open.spotify.com/artist/0FozbkkgjGS40HDmqhC5WZ) | [Off Days](https://open.spotify.com/album/32VGwDDqJ7ZG6mfnsAAIQU) | 3:20 | 2026-04-03 | 2026-11-20 |
 | [Off My Feet](https://open.spotify.com/track/3HHautxyzcZIoW1ky10Sc0) | [LAMB CULTURE.](https://open.spotify.com/artist/7ekDyLis0zh78DffR8wjW9), [KIMAH](https://open.spotify.com/artist/3A3j7JESpmqIZQNz4C7GRn), [Reblah](https://open.spotify.com/artist/7EHtFdWeBK26GJ5lKt02SV) | [Off My Feet](https://open.spotify.com/album/1lP1Isnzfqi717ZoqG2T0O) | 2:31 | 2024-04-05 | 2024-09-06 |
 | [Oghene Doh](https://open.spotify.com/track/1nQ8q7jsrcmzexCi5eGUUK) | [yoyo michael](https://open.spotify.com/artist/2UJIApZoVW4enFYjW39Tfv), [Still Blessed Music](https://open.spotify.com/artist/3QLVocBmoPCZGWar970isd) | [Oghene Doh](https://open.spotify.com/album/2eiepZSsPBPYugqKudqfG1) | 3:59 | 2024-04-12 | 2025-01-10 |
+| [Oh Lord](https://open.spotify.com/track/79KeO8QeTOGlEtZbG4ksIn) | [Uwa](https://open.spotify.com/artist/3PhBxIUdrJCXeEprUL5pkV) | [Oh Lord](https://open.spotify.com/album/5sueg7RFLwMZxrtloBNRzf) | 4:47 | 2026-11-27 |  |
 | [Oh Mpa](https://open.spotify.com/track/4ZveSGfjIUWpBm1RO8dsoD) | [MUNACHi4u](https://open.spotify.com/artist/6xOOLSoOB6VI4n6X5pexao), [Nolly](https://open.spotify.com/artist/1qDxmgIV0aTR4QGRL4zXWM) | [Oh Mpa](https://open.spotify.com/album/3NXAo7AMQmzIgp2Hcupn5t) | 3:48 | 2025-01-10 | 2025-05-30 |
 | [Oil for my head](https://open.spotify.com/track/0Pm3mfKN8nrtf5WbeNl9sB) | [Imancee](https://open.spotify.com/artist/7FMKtYkyh6dGQ7TN1lTzc6), [Dj Penny](https://open.spotify.com/artist/0m8Pugts84dRwQV3sYSJuY) | [Oil for my head](https://open.spotify.com/album/0polHS9KAgh09ILA2GzJb3) | 2:38 | 2023-11-03 | 2024-01-26 |
 | [Oil For The Flame](https://open.spotify.com/track/1Yl0qUegjSm6GWx4EBgsd5) | [Kushim](https://open.spotify.com/artist/7ySTyvAPMU1SaCLo7fRvHX) | [FAITH PACK](https://open.spotify.com/album/26wZhfGqEpVNjcd16aTzb7) | 2:10 | 2025-01-17 | 2025-02-28 |
@@ -505,7 +506,7 @@
 | [Overwhelming](https://open.spotify.com/track/1xqM9tG1LpcWjBzEHHRWem) | [Mo'Lola](https://open.spotify.com/artist/2ejOctEUrvGWrMuTwZPdaO), [yoyo michael](https://open.spotify.com/artist/2UJIApZoVW4enFYjW39Tfv), [DJ Ernesty](https://open.spotify.com/artist/0MGWyvcy2uXq5lVdATxcuj) | [Overwhelming](https://open.spotify.com/album/4U3hUEES4W2G8RGMMmlvEQ) | 2:23 | 2025-02-28 | 2026-02-27 |
 | [Own My Heart](https://open.spotify.com/track/5GsOzVAnoCNpkhwZEF0i5p) | [Delight Munachy](https://open.spotify.com/artist/4HHLYB6bM6IuVvr2uOKj3P) | [Own My Heart](https://open.spotify.com/album/6YHQLvNus91WD5IZrwOPtx) | 3:09 | 2026-09-11 |  |
 | [Owo Oluwa](https://open.spotify.com/track/2JKJWJyX3BbavWJ9mGCk6s) | [P.Daniel Olawande](https://open.spotify.com/artist/3oNl2csZbBr9DozLABsLTL) | [Owo Oluwa](https://open.spotify.com/album/27JyI1SfX9raMik8gMmTHu) | 6:10 | 2023-10-20 |  |
-| [P139](https://open.spotify.com/track/4fqp3iEbiBtxbaqwQPCk7p) | [Ellie Scotte](https://open.spotify.com/artist/1f3shz4SYjpfZL1dCdinjM) | [All Roads Lead To Adonai](https://open.spotify.com/album/2xj6lrZ5xamj8ZlpduIF5e) | 4:28 | 2026-09-25 |  |
+| [P139](https://open.spotify.com/track/4fqp3iEbiBtxbaqwQPCk7p) | [Ellie Scotte](https://open.spotify.com/artist/1f3shz4SYjpfZL1dCdinjM) | [All Roads Lead To Adonai](https://open.spotify.com/album/2xj6lrZ5xamj8ZlpduIF5e) | 4:28 | 2026-09-25 | 2026-11-27 |
 | [Passion Indicators](https://open.spotify.com/track/7uPx8jH4PRFuJwsm3tY0pS) | [Connie Obn](https://open.spotify.com/artist/2vgfZxc5Z58nokei89tBxA), [Paul\-Emmanuel](https://open.spotify.com/artist/4VLYFcmEJqb17kzkQ64wE3), [Awesome's Music Group](https://open.spotify.com/artist/6pT56YXMMA6sh3UyNMSDUO) | [Passion Indicators](https://open.spotify.com/album/2MeCpOoeMh5Z3PuhsXyUxe) | 2:42 | 2026-02-13 | 2026-09-18 |
 | [Peace](https://open.spotify.com/track/1gNH0hwPFxpG8yGN0BKQ2B) | [Noël Mio](https://open.spotify.com/artist/7JzZd8sCTmIpJW62zNS0ta) | [Peace](https://open.spotify.com/album/7ts6XbRHcJ7p84kuHZ2wHC) | 2:53 | 2024-11-01 | 2025-01-10 |
 | [Peace \(Open Verse\)](https://open.spotify.com/track/7jkOX2bZm2lrAn7vBtBysS) | [Holy drill](https://open.spotify.com/artist/3SN6XTw03dI5Cn49oeqz6j) | [Great God](https://open.spotify.com/album/4P3kOp9sw1SCMDuSFuibOB) | 2:26 | 2023-10-20 | 2024-01-26 |
@@ -650,6 +651,7 @@
 | [Thuamatin](https://open.spotify.com/track/6hBqoQYzaOpcWPDZo9K5TB) | [JoeKings](https://open.spotify.com/artist/5nMmEYNTGHolTC9ViHFbAR), [Temple](https://open.spotify.com/artist/6qicD8blmXzFzYEgGYfYfa) | [Thuamatin](https://open.spotify.com/album/3jqC8tzJyEbd48LDkFwjsP) | 2:26 | 2024-10-25 | 2025-01-10 |
 | [Time & Time](https://open.spotify.com/track/3gnWNAqWg3gx7eKBgGp6RP) | [Omojo](https://open.spotify.com/artist/4RCjw7JlxYqW7jUHCO4QgC), [Grace lofi](https://open.spotify.com/artist/2FHZuxkfx7VzO2jr7AaQLs), [Still Blessed Music](https://open.spotify.com/artist/3QLVocBmoPCZGWar970isd) | [Time & Time](https://open.spotify.com/album/1DtevqdSyg9GXHaz7fRFfO) | 2:35 | 2024-06-14 | 2024-08-09 |
 | [Time And Time Again](https://open.spotify.com/track/27aUMzL7IyqoYNxdAWJpVE) | [Sal Ly](https://open.spotify.com/artist/0FozbkkgjGS40HDmqhC5WZ) | [Time And Time Again](https://open.spotify.com/album/4l3OdPVRxcfv568WewGbMK) | 3:39 | 2026-11-06 |  |
+| [Tis The Season](https://open.spotify.com/track/5kYXnpGDpGsauWwRA3mJzM) | [Natalie Okri](https://open.spotify.com/artist/003ZYdCrDxEZWWeaqhCP3j) | [Prepare The Way](https://open.spotify.com/album/3jgCvt3xZQV7AuKvbZo4Hb) | 2:35 | 2026-11-27 |  |
 | [To me](https://open.spotify.com/track/312MQvrve82qCPpYQP2hbi) | [Kole Light](https://open.spotify.com/artist/7eskjtqf8pezcuh4oCfhui) | [To me](https://open.spotify.com/album/5c6wFb8kE1iL0IswbinfWO) | 2:34 | 2024-02-10 | 2024-04-06 |
 | [Too Faithful](https://open.spotify.com/track/0XmK2zPgY1t1msdf1jyhHw) | [Moses Bliss](https://open.spotify.com/artist/79MTG7HPurBgQ0ilwJ4AgM) | [Too Faithful](https://open.spotify.com/album/1ELb6tHupgVxBvvSURINnN) | 6:10 | 2023-10-20 |  |
 | [Toxic](https://open.spotify.com/track/1aTAnmQGXqz82RXhoLBSsQ) | [FOEVA](https://open.spotify.com/artist/2heAYgLQ8mW1NBwAIWYDfI) | [Toxic](https://open.spotify.com/album/2WGaiKFPFEat303TwLbuUt) | 2:40 | 2024-01-19 | 2024-02-23 |
@@ -739,7 +741,7 @@
 | [yours](https://open.spotify.com/track/2CUI95ndyv0TiCLieMVLYk) | [Kojo Dave](https://open.spotify.com/artist/2SjA4XyWd56a9VEfOoXrce), [G.E.S](https://open.spotify.com/artist/1r0gAOldNSTyidXhWLDHTF) | [yours](https://open.spotify.com/album/57FTf0XIoXls6CbAJTMkB0) | 2:59 | 2025-05-09 | 2025-05-30 |
 | [You’re Not There \- SizzlePro Remix](https://open.spotify.com/track/7I1qDDCR26tH726SRnipaN) | [Sal Ly](https://open.spotify.com/artist/0FozbkkgjGS40HDmqhC5WZ), [SizzlePRO](https://open.spotify.com/artist/5XW6aqpVAAC7GJGvNeytdf) | [You’re Not There \(SizzlePro Remix\)](https://open.spotify.com/album/3bdhLYbdEa6eZAWBhZK17p) | 4:44 | 2025-08-15 | 2025-09-19 |
 | [ZA](https://open.spotify.com/track/3Vh0hKMCEOip7tfy64Mg2z) | [Anendlessocean](https://open.spotify.com/artist/43bV8yQzojEPet60WrZJau) | [ZA](https://open.spotify.com/album/7glx4kVsugS16QmJyouyhT) | 2:41 | 2025-05-09 |  |
-| [àṣẹ](https://open.spotify.com/track/4zIPB6jJOasLbPfJZcXjo8) | [The Good Wine](https://open.spotify.com/artist/2FBwrTpnf1ALMhLW1EMsUj) | [àṣẹ](https://open.spotify.com/album/2tGaPEhSWUdQmGL6FVSq6k) | 2:27 | 2026-10-02 |  |
+| [àṣẹ](https://open.spotify.com/track/4zIPB6jJOasLbPfJZcXjo8) | [The Good Wine](https://open.spotify.com/artist/2FBwrTpnf1ALMhLW1EMsUj) | [àṣẹ](https://open.spotify.com/album/2tGaPEhSWUdQmGL6FVSq6k) | 2:27 | 2026-10-02 | 2026-11-27 |
 | [Ọmọ \(Always Be My God\)](https://open.spotify.com/track/7C78UgIyPsbPSNRJFAir0z) | [The Excentric](https://open.spotify.com/artist/3XrrUDnJSH7bX0DEbSUCu3), [Rayen Drapper](https://open.spotify.com/artist/5q4vaBtxc1QBQADgAw8Idw) | [Ọmọ \(Always Be My God\)](https://open.spotify.com/album/55MFPKUzZWJlP5NrxzI374) | 3:04 | 2025-08-22 | 2025-10-17 |
 
 \*This playlist was first scraped on 2023-10-20. Prior content cannot be recovered.

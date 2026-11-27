@@ -4,7 +4,7 @@
 
 > playlist spotify free
 
-5,539 songs - 12 day 21 hr 56 min
+5,541 songs - 12 day 22 hr 4 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -269,6 +269,7 @@
 | [Amore tossico](https://open.spotify.com/track/6MgpU9vEh9ti6S9ZfBMyau) | [LEONE PRIMO](https://open.spotify.com/artist/0IlaTQDcOlHYtNdnSoUYfe) | [1825](https://open.spotify.com/album/6VISv9AIaSbaaVpGafOaGx) | 3:36 | 2025-06-08 |  |
 | [Amore Virale](https://open.spotify.com/track/4WbSJR9NdfW44vcqQ6xEh7) | [Absinthe SV](https://open.spotify.com/artist/3Cv96sBI0A62ZHVRDR2aj1) | [Playlist Italia 2025](https://open.spotify.com/album/6DUX6UOq97rQeTwOKXGzKM) | 2:54 | 2025-09-12 |  |
 | [Amore/Odio](https://open.spotify.com/track/2E0XTM4tNYoUmI8u9SJGEs) | [WRLD MARTIN](https://open.spotify.com/artist/3094PSDPZX9bO1ovdDYsZk), [XXIII](https://open.spotify.com/artist/5MwBCwneq4hlNDaABQeO0i) | [Amore/Odio](https://open.spotify.com/album/1GIdRL0ZWrQfIyP42vH8mD) | 2:21 | 2025-09-24 |  |
+| [An Evil Creek Christmas](https://open.spotify.com/track/1H8nVOSsO07tvHSj7HTmM0) | [Evil Creek](https://open.spotify.com/artist/2I4085hTPFNAyGRFvgo1LM) | [An Evil Creek Christmas](https://open.spotify.com/album/7k5bCK7rvvFkcBnkHVyGL5) | 3:57 | 2026-11-26 |  |
 | [Analog Addiction](https://open.spotify.com/track/4xBmh5nlVyvOEzicADkRd7) | [Absinthe SV](https://open.spotify.com/artist/3Cv96sBI0A62ZHVRDR2aj1) | [Tape'n roll](https://open.spotify.com/album/6yfNduDodOKYVRsLkl2Awp) | 2:54 | 2025-09-19 |  |
 | [Anarchy Reloaded](https://open.spotify.com/track/7oj6VXKiwNEeuBv5XuNvQJ) | [Absinthe SV](https://open.spotify.com/artist/3Cv96sBI0A62ZHVRDR2aj1) | [Old school punk](https://open.spotify.com/album/7HRvEw1JJpUpB1CmseoZZQ) | 2:14 | 2025-09-19 |  |
 | [ancora](https://open.spotify.com/track/6Han0gQ1Mu9c7DVyWVerzx) | [Holyroh](https://open.spotify.com/artist/0LPwMpSScA73gR7VENCleQ) | [ancora](https://open.spotify.com/album/5U4uERTv47xnVshlh2Qd1O) | 3:00 | 2026-02-13 |  |
@@ -5374,6 +5375,7 @@
 | [White Rose](https://open.spotify.com/track/4OGXV3VqbOcbx6ZZmwuWDB) | [bumper](https://open.spotify.com/artist/1gHIm66CzHIb1HP74a0iwo) | [White Rose](https://open.spotify.com/album/3xkqdWnWkLmPdQRcxT6ipb) | 5:31 | 2025-07-15 |  |
 | [Who](https://open.spotify.com/track/26PqfPT5ctxmSRMLuWY44p) | [Taylor Torch](https://open.spotify.com/artist/1UITVqtcAP6AQFi4uQyBZR), [Ohmslaw Montana](https://open.spotify.com/artist/6ahjpUTkF4yghlVRCZvXee), [Yahman](https://open.spotify.com/artist/4ojqEoo2hFsIzqCbHGYzfW) | [Who](https://open.spotify.com/album/1rZJvcRYP8wzbkSx4m3pxi) | 3:34 | 2025-03-03 |  |
 | [who can?](https://open.spotify.com/track/3bIi1myBW7Vn0X49oAaixm) | [isxcshi](https://open.spotify.com/artist/1HREUjXW4zz3TMHe838W3f) | [\* ISXC](https://open.spotify.com/album/3C7Dz2bxoiOVovzeMD9mxK) | 1:55 | 2025-12-04 |  |
+| [Who Hurt You?](https://open.spotify.com/track/2u19Unl6KmXv8LtXV3soJU) | [Wretched Things](https://open.spotify.com/artist/6bq9LPNfltcBgpvfdtTWwk) | [Who Hurt You?](https://open.spotify.com/album/11j0mR7VT4vOy5ReydgFZU) | 3:38 | 2026-11-26 |  |
 | [Who I Am](https://open.spotify.com/track/60Pz3OvkCnkau2CLPqSZnE) | [DEN BAURIN](https://open.spotify.com/artist/7ExDLUrSU5JolcpRRnFmGE) | [Who I Am](https://open.spotify.com/album/18vXi7DzcAEuZ3wJRiLPpQ) | 2:52 | 2026-01-31 |  |
 | [Who's Got My Lighter?](https://open.spotify.com/track/3MJekXiIAzupvp8wQop8zL) | [Panic Shack](https://open.spotify.com/artist/26HCuM5PamldoaHII5Ifxc) | [Who's Got My Lighter?](https://open.spotify.com/album/7fqONBEazCdEoUHby6uwlm) | 3:10 | 2025-11-05 |  |
 | [Who's To Blame? \- 2025 Version](https://open.spotify.com/track/7jfiGWdztJNSQ9nJBQQ6s0) | [A Beautiful Tomorrow](https://open.spotify.com/artist/0Fd3aWON7L3qh9raMXIETm) | [Who's To Blame? \(2025 Version\)](https://open.spotify.com/album/2Vkxtme0tH7peDXBV1O8Ge) | 4:48 | 2025-04-05 |  |

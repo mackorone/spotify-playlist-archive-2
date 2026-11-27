@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-02-06",
-  "description": "a little rap, a little pop, a little country... sometimes. Thekidszn on the cover.",
+  "description": "a little rap, a little pop, a little country... sometimes. BLACKBEAR on the cover.",
   "name": "Varsity Bars",
   "tracks": [
     {
@@ -10232,7 +10232,7 @@
       ],
       "date_added": "2026-10-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-27",
       "duration_ms": 147692,
       "name": "Need 4 Speed",
       "url": "https://open.spotify.com/track/3VotbpH3LdsB0SitbMVW8N"
@@ -11878,6 +11878,24 @@
       "duration_ms": 147318,
       "name": "POISON!",
       "url": "https://open.spotify.com/track/0okaDpkRq0rpIuf1dC0VEr"
+    },
+    {
+      "album": {
+        "name": "Polar Opposites",
+        "url": "https://open.spotify.com/album/43xmNoTYrBzYl9vIRVVTpI"
+      },
+      "artists": [
+        {
+          "name": "Club 97",
+          "url": "https://open.spotify.com/artist/5uNdSqYXxC3fYVMyKFfu7w"
+        }
+      ],
+      "date_added": "2026-11-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 221077,
+      "name": "Polar Opposites",
+      "url": "https://open.spotify.com/track/4wCnwpFqwmDge9uAuVfJ8q"
     },
     {
       "album": {
@@ -14792,7 +14810,7 @@
       ],
       "date_added": "2026-06-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-27",
       "duration_ms": 132313,
       "name": "Talk",
       "url": "https://open.spotify.com/track/7zN5aETfVFOlhJZTUyH2pk"
@@ -15628,6 +15646,24 @@
       "duration_ms": 171071,
       "name": "true american (feat. Kyle Lux)",
       "url": "https://open.spotify.com/track/0ceYW8uhnTOywJRp68iaq2"
+    },
+    {
+      "album": {
+        "name": "analogue_OFF",
+        "url": "https://open.spotify.com/album/3sdEIHxdYesbRynooCf42u"
+      },
+      "artists": [
+        {
+          "name": "blackbear",
+          "url": "https://open.spotify.com/artist/2cFrymmkijnjDg9SS92EPM"
+        }
+      ],
+      "date_added": "2026-11-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 159680,
+      "name": "TRUST NO GIRLS",
+      "url": "https://open.spotify.com/track/6qSPTgVVAsYADcHOoLk1Br"
     },
     {
       "album": {

@@ -4,7 +4,7 @@
 
 > This is Yeah Yeah Yeahs\. The essential tracks, all in one playlist.
 
-92 songs - 5 hr 34 min
+93 songs - 5 hr 38 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -33,13 +33,13 @@
 | [Dull Life](https://open.spotify.com/track/5AfDcCcS8fZVtimT1mGy08) | [Yeah Yeah Yeahs](https://open.spotify.com/artist/3TNt4aUIxgfy9aoaft5Jj2) | [It's Blitz!](https://open.spotify.com/album/0EZNeEs8bgLH2QoqouxCcm) | 4:08 | 2023-12-26 | 2025-07-13 |
 | [Faces](https://open.spotify.com/track/6Yw3IyoSf5S05g1nTB6woC) | [Yeah Yeah Yeahs](https://open.spotify.com/artist/3TNt4aUIxgfy9aoaft5Jj2) | [It's Blitz!](https://open.spotify.com/album/0EZNeEs8bgLH2QoqouxCcm) | 3:32 | 2024-06-26 |  |
 | [Fleez](https://open.spotify.com/track/65w1d96FbYPmccz3ZdNOdA) | [Yeah Yeah Yeahs](https://open.spotify.com/artist/3TNt4aUIxgfy9aoaft5Jj2) | [Cool It Down](https://open.spotify.com/album/7ug0WdvzC2sLXTrtHUwNsj) | 3:58 | 2023-09-25 |  |
-| [Gold Lion](https://open.spotify.com/track/6ttg1sxtU12beFZkjoc6j5) | [Yeah Yeah Yeahs](https://open.spotify.com/artist/3TNt4aUIxgfy9aoaft5Jj2) | [Show Your Bones](https://open.spotify.com/album/4vILeh9sgKiDXnyL2pHCiz) | 3:07 | 2023-09-25 |  |
-| [Gold Lion](https://open.spotify.com/track/6tuiDRFaXOBqFLpeTBjAAn) | [Yeah Yeah Yeahs](https://open.spotify.com/artist/3TNt4aUIxgfy9aoaft5Jj2) | [Show Your Bones](https://open.spotify.com/album/3lgIiynXHTZYaSvS1ZrMxG) | 3:07 | 2023-10-10 | 2026-03-10 |
+| [Gold Lion](https://open.spotify.com/track/6ttg1sxtU12beFZkjoc6j5) | [Yeah Yeah Yeahs](https://open.spotify.com/artist/3TNt4aUIxgfy9aoaft5Jj2) | [Show Your Bones](https://open.spotify.com/album/4vILeh9sgKiDXnyL2pHCiz) | 3:07 | 2023-09-25 | 2026-11-27 |
+| [Gold Lion](https://open.spotify.com/track/6tuiDRFaXOBqFLpeTBjAAn) | [Yeah Yeah Yeahs](https://open.spotify.com/artist/3TNt4aUIxgfy9aoaft5Jj2) | [Show Your Bones](https://open.spotify.com/album/3lgIiynXHTZYaSvS1ZrMxG) | 3:07 | 2023-10-10 |  |
 | [Heads Will Roll](https://open.spotify.com/track/2WRFD9WczJ975X2K1Y9YVs) | [Yeah Yeah Yeahs](https://open.spotify.com/artist/3TNt4aUIxgfy9aoaft5Jj2) | [It's Blitz!](https://open.spotify.com/album/6w21zEx5okRPCYJejLVRdR) | 3:41 | 2023-09-25 |  |
 | [Heads Will Roll \- A\-Trak Remix](https://open.spotify.com/track/5bs8OXiOt4BPF2FAnRFP1u) | [Yeah Yeah Yeahs](https://open.spotify.com/artist/3TNt4aUIxgfy9aoaft5Jj2), [A\-Trak](https://open.spotify.com/artist/3TaUSUXn41GixL7zbvrIDt) | [Heads Will Roll \(A\-Trak Remix\)](https://open.spotify.com/album/4IZSrYZHALLavs8TTndGiV) | 6:23 | 2023-09-25 | 2026-10-30 |
 | [Heads Will Roll \- A\-Trak Remix Radio Edit](https://open.spotify.com/track/5qGIfWDRdyO67LCTqA2sEn) | [Yeah Yeah Yeahs](https://open.spotify.com/artist/3TNt4aUIxgfy9aoaft5Jj2), [A\-Trak](https://open.spotify.com/artist/3TaUSUXn41GixL7zbvrIDt) | [Good Morning Music: Wake Up Workout](https://open.spotify.com/album/3MWSY8N1zWSNBcnMTIeiTz) | 3:23 | 2024-06-07 |  |
-| [Honeybear](https://open.spotify.com/track/2oDZprxAu0snrga1chXTdD) | [Yeah Yeah Yeahs](https://open.spotify.com/artist/3TNt4aUIxgfy9aoaft5Jj2) | [Show Your Bones](https://open.spotify.com/album/3lgIiynXHTZYaSvS1ZrMxG) | 2:25 | 2023-09-25 | 2026-11-23 |
-| [Honeybear](https://open.spotify.com/track/4UZtZ5EV1f1GbvWgee28J7) | [Yeah Yeah Yeahs](https://open.spotify.com/artist/3TNt4aUIxgfy9aoaft5Jj2) | [Show Your Bones](https://open.spotify.com/album/4vILeh9sgKiDXnyL2pHCiz) | 2:25 | 2023-12-16 |  |
+| [Honeybear](https://open.spotify.com/track/2oDZprxAu0snrga1chXTdD) | [Yeah Yeah Yeahs](https://open.spotify.com/artist/3TNt4aUIxgfy9aoaft5Jj2) | [Show Your Bones](https://open.spotify.com/album/3lgIiynXHTZYaSvS1ZrMxG) | 2:25 | 2023-09-25 |  |
+| [Honeybear](https://open.spotify.com/track/4UZtZ5EV1f1GbvWgee28J7) | [Yeah Yeah Yeahs](https://open.spotify.com/artist/3TNt4aUIxgfy9aoaft5Jj2) | [Show Your Bones](https://open.spotify.com/album/4vILeh9sgKiDXnyL2pHCiz) | 2:25 | 2023-12-16 | 2026-11-27 |
 | [Hyperballad \- Live at the Royal Albert Hall](https://open.spotify.com/track/6YOgoaTuNryUPexyDH5esI) | [Yeah Yeah Yeahs](https://open.spotify.com/artist/3TNt4aUIxgfy9aoaft5Jj2) | [Hidden in Pieces: Live at the Royal Albert Hall](https://open.spotify.com/album/57AesRy2gRkEOe65F6GzoG) | 3:16 | 2026-09-03 |  |
 | [Hysteric](https://open.spotify.com/track/0sYM2UAQhOvrFGj9C3HARt) | [Yeah Yeah Yeahs](https://open.spotify.com/artist/3TNt4aUIxgfy9aoaft5Jj2) | [It's Blitz!](https://open.spotify.com/album/4dBMwYZJ84lj8HRTdL8Toj) | 3:50 | 2023-09-25 | 2024-05-18 |
 | [Hysteric](https://open.spotify.com/track/3zH9RnVnw2v4TemWU5j6Qz) | [Yeah Yeah Yeahs](https://open.spotify.com/artist/3TNt4aUIxgfy9aoaft5Jj2) | [It's Blitz! \(Deluxe Edition\)](https://open.spotify.com/album/2SIaQf1NRVarE8HDX5j8zG) | 3:50 | 2024-06-15 |  |
@@ -92,7 +92,8 @@
 | [Under The Earth](https://open.spotify.com/track/4NVRAFB9Xkpluo3Iq5GeEO) | [Yeah Yeah Yeahs](https://open.spotify.com/artist/3TNt4aUIxgfy9aoaft5Jj2) | [Mosquito \(Deluxe\)](https://open.spotify.com/album/1LQZp37z82iTVxillq6K59) | 4:18 | 2023-09-25 |  |
 | [Warrior](https://open.spotify.com/track/7sNMrByelw7aVCSyqnJqbc) | [Yeah Yeah Yeahs](https://open.spotify.com/artist/3TNt4aUIxgfy9aoaft5Jj2) | [Show Your Bones](https://open.spotify.com/album/4vILeh9sgKiDXnyL2pHCiz) | 3:40 | 2025-07-21 | 2026-08-27 |
 | [Warrior](https://open.spotify.com/track/7yfaoUFL0pWXigmBqSDPld) | [Yeah Yeah Yeahs](https://open.spotify.com/artist/3TNt4aUIxgfy9aoaft5Jj2) | [Show Your Bones](https://open.spotify.com/album/3lgIiynXHTZYaSvS1ZrMxG) | 3:40 | 2025-07-03 | 2025-07-21 |
-| [Warrior \- Live at the Royal Albert Hall](https://open.spotify.com/track/7LmTkCp8eyN3yphDffRsCp) | [Yeah Yeah Yeahs](https://open.spotify.com/artist/3TNt4aUIxgfy9aoaft5Jj2) | [Hidden in Pieces: Live at the Royal Albert Hall](https://open.spotify.com/album/57AesRy2gRkEOe65F6GzoG) | 4:09 | 2026-09-07 |  |
+| [Warrior \- Live at the Royal Albert Hall](https://open.spotify.com/track/4LKigBVrLTASCwEubGfw9Z) | [Yeah Yeah Yeahs](https://open.spotify.com/artist/3TNt4aUIxgfy9aoaft5Jj2) | [Hidden in Pieces: Live](https://open.spotify.com/album/33RxgeDivyHENGrw5RvHV3) | 4:09 | 2026-11-27 |  |
+| [Warrior \- Live at the Royal Albert Hall](https://open.spotify.com/track/7LmTkCp8eyN3yphDffRsCp) | [Yeah Yeah Yeahs](https://open.spotify.com/artist/3TNt4aUIxgfy9aoaft5Jj2) | [Hidden in Pieces: Live at the Royal Albert Hall](https://open.spotify.com/album/57AesRy2gRkEOe65F6GzoG) | 4:09 | 2026-09-07 | 2026-11-27 |
 | [Way Out](https://open.spotify.com/track/6SRm5IeWfgFq3rMhOYZwhu) | [Yeah Yeah Yeahs](https://open.spotify.com/artist/3TNt4aUIxgfy9aoaft5Jj2) | [Show Your Bones](https://open.spotify.com/album/3lgIiynXHTZYaSvS1ZrMxG) | 2:51 | 2023-09-25 | 2025-07-16 |
 | [Way Out](https://open.spotify.com/track/6tmlwJjSw8QLZnBjwZ4Mej) | [Yeah Yeah Yeahs](https://open.spotify.com/artist/3TNt4aUIxgfy9aoaft5Jj2) | [Show Your Bones](https://open.spotify.com/album/4vILeh9sgKiDXnyL2pHCiz) | 2:51 | 2023-12-13 |  |
 | [Wedding Song](https://open.spotify.com/track/0EZELV7AI8v4KF6DErAgge) | [Yeah Yeah Yeahs](https://open.spotify.com/artist/3TNt4aUIxgfy9aoaft5Jj2) | [Mosquito \(Deluxe\)](https://open.spotify.com/album/1LQZp37z82iTVxillq6K59) | 4:54 | 2023-09-25 |  |

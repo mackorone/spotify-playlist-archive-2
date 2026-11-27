@@ -6741,6 +6741,24 @@
     },
     {
       "album": {
+        "name": "Automatic For The People (25th Anniversary Edition)",
+        "url": "https://open.spotify.com/album/3sDXivpN7CmCKbQRRsRzw8"
+      },
+      "artists": [
+        {
+          "name": "R.E.M.",
+          "url": "https://open.spotify.com/artist/4KWTAlx2RvbpseOGMEmROg"
+        }
+      ],
+      "date_added": "2026-11-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 258105,
+      "name": "Nightswimming",
+      "url": "https://open.spotify.com/track/5e2HWrviFTm4KQsnJ7OcVf"
+    },
+    {
+      "album": {
         "name": "Reflexions",
         "url": "https://open.spotify.com/album/5xjBih5IE6cz9tgayGPeXR"
       },

@@ -2,9 +2,9 @@
 
 ### [Gacha Pop](https://open.spotify.com/playlist/37i9dQZF1DX9ww9tisjowN)
 
-> What pops out!? Roll the gacha and find your Neo J\-Pop treasure\. cover: LiSA
+> What pops out!? Roll the gacha and find your Neo J\-Pop treasure\. cover: YOASOBI
 
-1,294 songs - 3 day 2 hr 4 min
+1,295 songs - 3 day 2 hr 7 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -500,7 +500,7 @@
 | [Party Monster \(with Hatsune Miku, Odetari, & さたぱんP\)](https://open.spotify.com/track/6rmpvLs8EEOIA7A2MTT2o3) | [BEYOND BORDERs](https://open.spotify.com/artist/6jmTGwxX5Hn6RvxxzT4MBr), [Hatsune Miku](https://open.spotify.com/artist/6pNgnvzBa6Bthsv8SrZJYl), [Odetari](https://open.spotify.com/artist/7ITMCzIU9uII8gwRg8JAhc), [さたぱんP](https://open.spotify.com/artist/7E811BDUJT2UvrpdNsF8tl) | [Party Monster \(with Hatsune Miku, Odetari, & さたぱんP\)](https://open.spotify.com/album/1yFgFwfDnxQB9iVJt9ql4R) | 3:17 | 2026-09-10 | 2026-09-25 |
 | [Party!!](https://open.spotify.com/track/1UQkdcHjg13HiAXeVfOjmk) | [Ryokuoushoku Shakai](https://open.spotify.com/artist/4SJ7qRgJYNXB9Yttzs4aSa) | [Party!!](https://open.spotify.com/album/0BzdZCI8stoC86McgK9GWZ) | 4:18 | 2024-01-25 | 2024-03-01 |
 | [Pastoral](https://open.spotify.com/track/3RbQ3XXydlQsimEB1jcQlO) | [Aimer](https://open.spotify.com/artist/0bAsR2unSRpn6BQPEnNlZm) | [Pastoral](https://open.spotify.com/album/3yyduz9YQvGBbtTl1jwIL8) | 4:05 | 2025-10-23 | 2025-11-07 |
-| [pavilion](https://open.spotify.com/track/6BBMh7nJjWgyjWDPNhwRBJ) | [tsumiki](https://open.spotify.com/artist/6oiuO4S02p4iTO9VLU3jRr) | [pavilion](https://open.spotify.com/album/7LmysHeysLJI0kP6SbZWwb) | 2:25 | 2026-11-19 |  |
+| [pavilion](https://open.spotify.com/track/6BBMh7nJjWgyjWDPNhwRBJ) | [tsumiki](https://open.spotify.com/artist/6oiuO4S02p4iTO9VLU3jRr) | [pavilion](https://open.spotify.com/album/7LmysHeysLJI0kP6SbZWwb) | 2:25 | 2026-11-19 | 2026-11-27 |
 | [Peach Pit and Cyanide](https://open.spotify.com/track/2Zd0JQ3LDmUV3oDUHyRtWL) | [Mili](https://open.spotify.com/artist/0K05TDnN7xPwIHDOwD2YYs) | [Peach Pit and Cyanide](https://open.spotify.com/album/3gcO9Qy2Vr6wDcl8Punthe) | 3:10 | 2025-11-27 | 2025-12-04 |
 | [PEEK\-A\-BOO \- feat\. 鈴木優人 & かてぃん\(角野隼斗\) with 麻布学園OB+オーケストラ](https://open.spotify.com/track/0BghOAtqgizpuVtJFUCFxn) | [PIKOTARO](https://open.spotify.com/artist/37GBT1Lhfc2sgq4jZIt6n2), [鈴木優人](https://open.spotify.com/artist/5OcbTVDfV9qxI7va2CwpNX), [かてぃん\(角野隼斗\)](https://open.spotify.com/artist/3pFcOAkJezpIkzIFurpXA9) | [PEEK\-A\-BOO \[feat\. 鈴木優人 & かてぃん\(角野隼斗\) with 麻布学園OB+オーケストラ\]](https://open.spotify.com/album/0scNuFoGoUmCWEC8VNHZiM) | 2:20 | 2023-06-27 | 2023-07-05 |
 | [Pichi Pichi](https://open.spotify.com/track/6yU5OWl6JcErMP4gFqqFKr) | [foodman](https://open.spotify.com/artist/4e8VeCyfFRBL1e06oGg1dR) | [Pichi Pichi](https://open.spotify.com/album/4xUwgCzKHpaQIGE3UKPA8V) | 2:08 | 2023-10-03 | 2023-10-13 |
@@ -828,6 +828,7 @@
 | [よもすがら](https://open.spotify.com/track/2aCg8PW6cbVLArMJ0W1KYy) | [ZUTOMAYO](https://open.spotify.com/artist/38WbKH6oKAZskBhqDFA8Uj) | [よもすがら](https://open.spotify.com/album/7cPTWBJ0hkadQDnIgNMS9r) | 3:35 | 2026-03-05 | 2026-03-27 |
 | [らぶじゅてーむ](https://open.spotify.com/track/2NSp2dpqGXBJYTuYccld5G) | [甲田まひる](https://open.spotify.com/artist/12jXKCFV7aE96Zt5792waP) | [らぶじゅてーむ](https://open.spotify.com/album/2TsUpJ4YDzsX9hBLllwMCa) | 3:15 | 2024-02-29 | 2024-06-21 |
 | [わたし、フィクション](https://open.spotify.com/track/082cQcc5Hg01f2vcH8ceTV) | [mekakushe](https://open.spotify.com/artist/0CWyD7hgBLQ7dIUGEDkAWz) | [光みたいにすすみたい](https://open.spotify.com/album/4cOihG8VXY5yZ9j48okN5q) | 3:02 | 2023-05-09 | 2023-06-09 |
+| [わたしたちのオカルト](https://open.spotify.com/track/0xDVlylGQZOakMv6rVL7Ck) | [NOMELON NOLEMON](https://open.spotify.com/artist/3PRXdiVu8lUkeCKw4ZUX4B) | [わたしたちのオカルト](https://open.spotify.com/album/0LlFpGbkoAXoCQN2QxZZJ9) | 2:48 | 2026-11-26 |  |
 | [わたしに花束](https://open.spotify.com/track/1vLQ5s4eumtmUcov4cP9jt) | [Ado](https://open.spotify.com/artist/6mEQK9m2krja6X1cfsAjfl) | [わたしに花束](https://open.spotify.com/album/2QNHCEUiNTXtcHSjoVWvNl) | 3:48 | 2025-03-13 | 2025-04-18 |
 | [わたしは拒絶する](https://open.spotify.com/track/44W2lLgDqbP06m3d9JiW5x) | [HARU NEMURI](https://open.spotify.com/artist/3cn7Ujrlj3rdyuqmOYhBJT) | [わたしは拒絶する](https://open.spotify.com/album/2o67tneHxUqu03nqENYij1) | 3:47 | 2023-09-07 | 2023-09-09 |
 | [わをん](https://open.spotify.com/track/2jGj8CmWeybFK4rjZOLowA) | [にしな](https://open.spotify.com/artist/2aoUBwmHWln0JSEZbi9E70) | [わをん](https://open.spotify.com/album/6CaESXa0TuGHe5JZzlsSf2) | 4:30 | 2025-01-16 | 2025-01-31 |

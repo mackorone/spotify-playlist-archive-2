@@ -2,9 +2,9 @@
 
 ### [teen beats](https://open.spotify.com/playlist/37i9dQZF1DWWvvyNmW9V9a)
 
-> merry christmas everyone
+> May the odds be ever in your favor.
 
-2,942 songs - 6 day 9 hr 7 min
+2,945 songs - 6 day 9 hr 17 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -358,7 +358,7 @@
 | [Body Better](https://open.spotify.com/track/6pn5dBDetgg4rojbzIxH7v) | [Maisie Peters](https://open.spotify.com/artist/2RVvqRBon9NgaGXKfywDSs) | [Body Better](https://open.spotify.com/album/1M3Zej93KusKy0Ty1IBVQI) | 3:09 | 2023-01-27 | 2023-02-25 |
 | [BONA BONA](https://open.spotify.com/track/0IkWksfw3Qxob96bjFKhyF) | [TREASURE](https://open.spotify.com/artist/3KonOYiLsU53m4yT7gNotP) | [2ND FULL ALBUM 'REBOOT'](https://open.spotify.com/album/4gQx8IC4zESV506dgNs0vR) | 3:32 | 2023-07-28 | 2023-08-09 |
 | [bones](https://open.spotify.com/track/5cCrD2c8F9RiDRmuIYKton) | [Alyssa Grace](https://open.spotify.com/artist/4eZer1QvRM8Pna0rLToV1K) | [spilling my guts](https://open.spotify.com/album/7phn0SadS5635xhyXthk02) | 2:28 | 2026-07-24 | 2026-11-07 |
-| [Bones and All](https://open.spotify.com/track/4A0O4CdnSXN7uoao2qCFvG) | [Mckenna Grace](https://open.spotify.com/artist/1ZjXhESKpjsv31L7ykuJBE) | [Bones and All](https://open.spotify.com/album/1EShGQK7TXutid3iDDZPUS) | 3:21 | 2026-09-25 |  |
+| [Bones and All](https://open.spotify.com/track/4A0O4CdnSXN7uoao2qCFvG) | [Mckenna Grace](https://open.spotify.com/artist/1ZjXhESKpjsv31L7ykuJBE) | [Bones and All](https://open.spotify.com/album/1EShGQK7TXutid3iDDZPUS) | 3:21 | 2026-09-25 | 2026-11-27 |
 | [Bong Bing](https://open.spotify.com/track/2Nk5EgP9wXa3bpTU8V4i5t) | [Laa Lee](https://open.spotify.com/artist/4cb3HigJCNGP3rcRhVbYwS), [Cristale](https://open.spotify.com/artist/6U1hXHFTV27cbQVXZvnX27) | [Bong Bing](https://open.spotify.com/album/1jrrIPwjrDSsnx7Ciaqge6) | 2:48 | 2022-03-18 | 2022-04-09 |
 | [BOOM SNAP CLAP](https://open.spotify.com/track/6ZWnx79qcIAc4noEucrW2I) | [Jades Goudreault](https://open.spotify.com/artist/1LFfKkCrn95l1ZuxCNa3yN) | [BOOM SNAP CLAP](https://open.spotify.com/album/72sSLwq7YvrCCgWQjcAaLn) | 1:56 | 2024-07-19 | 2024-08-24 |
 | [Booty \(feat\. Latto\)](https://open.spotify.com/track/3Ca24oa8tofPtGYuULHXHI) | [Saucy Santana](https://open.spotify.com/artist/2NfwGBr2swqZ1rzE3kAV23), [Latto](https://open.spotify.com/artist/3MdXrJWsbVzdn6fe5JYkSQ) | [Booty \(feat\. Latto\)](https://open.spotify.com/album/3JLGu56kAsK7LO8fZ1vCwF) | 2:26 | 2022-06-10 | 2022-06-25 |
@@ -1515,6 +1515,7 @@
 | [Lonely Dancers](https://open.spotify.com/track/0QctD9krtPbC8KBOK6hRfb) | [Conan Gray](https://open.spotify.com/artist/4Uc8Dsxct0oMqx0P6i60ea) | [Lonely Dancers](https://open.spotify.com/album/763Pp8jgi2eWEyQ9SGzODd) | 2:29 | 2024-02-09 | 2024-04-05 |
 | [Lonely Girl](https://open.spotify.com/track/1wheEtNXn04hxOMCiNIwnE) | [Skye Newman](https://open.spotify.com/artist/4UoEzpWZrFWvlGYOzTEn1M) | [Lonely Girl](https://open.spotify.com/album/0bGffrDhBjlDuarQjF8itE) | 2:22 | 2025-12-19 | 2026-01-31 |
 | [Lonely In Love](https://open.spotify.com/track/1ObXcuEtF8F9BIcRabX7kM) | [Sabrina Sterling](https://open.spotify.com/artist/2TX3RFFIqwzwDjFMJN4nV9) | [Lonely In Love](https://open.spotify.com/album/3MeUdi6Ls8BwLkN1E8pmiR) | 2:38 | 2025-02-28 | 2025-04-16 |
+| [Lonely Night](https://open.spotify.com/track/5IaDSdgvQp003f4RAzr6Da) | [Stray Kids](https://open.spotify.com/artist/2dIgFjalVxs4ThymZ67YCE) | [SUIATSU](https://open.spotify.com/album/67DGuV6YAyUMj9JEv2QMIA) | 3:12 | 2026-11-27 |  |
 | [Long Drives](https://open.spotify.com/track/2jDrRaea7deXVEt4JmpvBU) | [BoyWithUke](https://open.spotify.com/artist/1Cd373x8qzC7SNUg5IToqp) | [Long Drives](https://open.spotify.com/album/0Mpe1VWJDZ5FxbZlE1nUaU) | 2:39 | 2022-01-21 | 2022-03-18 |
 | [Look At Her Now](https://open.spotify.com/track/7eOkHIcaoUhngxxypM5Ajr) | [Selena Gomez](https://open.spotify.com/artist/0C8ZW7ezQVs4URX5aX7Kqx) | [Rare](https://open.spotify.com/album/3YPFaTR7WMi1Hd4NVKdCJx) | 2:42 | 2024-12-12 | 2024-12-24 |
 | [Look at My Life](https://open.spotify.com/track/65aS53swxB9LUGbHDKdvvB) | [Gracie Abrams](https://open.spotify.com/artist/4tuJ0bMpJh08umKkEXKUI5) | [Look at My Life](https://open.spotify.com/album/7FTXtGd2zNyN3zZA3ntMZr) | 3:10 | 2026-06-26 | 2026-08-01 |
@@ -2760,6 +2761,7 @@
 | [Want Me](https://open.spotify.com/track/3gZyxP7keADPPc8lEJWehW) | [Baby Queen](https://open.spotify.com/artist/4VqlewwKZJoIcA88PYHUDd) | [Want Me](https://open.spotify.com/album/6TcACn0I4bI5cdehIQvCND) | 4:18 | 2022-05-04 | 2022-06-22 |
 | [WANTCHU](https://open.spotify.com/track/0XWf8CRB6IptewumZDi5b6) | [keshi](https://open.spotify.com/artist/3pc0bOVB5whxmD50W79wwO) | [WANTCHU](https://open.spotify.com/album/3X3j61g2QBXl8qcq4DsSbI) | 3:19 | 2025-08-09 | 2025-10-25 |
 | [WARCRY](https://open.spotify.com/track/7GVpcXnj4dq0ozhiPKwWPm) | [Chase Atlantic](https://open.spotify.com/artist/7cYEt1pqMgXJdq00hAwVpT) | [LOST IN HEAVEN \(HIGH AS HELL\) \[Deluxe\]](https://open.spotify.com/album/6rcnUgf07ihw83jjuaCXfR) | 3:02 | 2025-10-03 | 2025-10-25 |
+| [warning label](https://open.spotify.com/track/05eDNzVwTqvy9sj0XqQvTb) | [Ella Boh](https://open.spotify.com/artist/3UWNE3idxa2v2TMzrBRX11) | [warning label](https://open.spotify.com/album/5f6TZToQ8D8wBQMxabppQ9) | 3:44 | 2026-11-27 |  |
 | [washing skin](https://open.spotify.com/track/2nyJyP0eAg24k8JFGizPIJ) | [Alyssa Grace](https://open.spotify.com/artist/4eZer1QvRM8Pna0rLToV1K) | [washing skin](https://open.spotify.com/album/4Oh38cK8SNf6dHaoWT1oe6) | 3:20 | 2026-11-06 |  |
 | [Waste Your Love](https://open.spotify.com/track/6YHje9JLFYjCDuiNUkzHt3) | [Any Gabrielly](https://open.spotify.com/artist/7Exa8X6gyaqkug3tLGVKje) | [Waste Your Love](https://open.spotify.com/album/1J0GMRazA5ZaBx4HXIsnXA) | 2:28 | 2024-10-25 | 2024-11-28 |
 | [Wasted Summers](https://open.spotify.com/track/43MifzVnh8W3jJN0xqU9jR) | [juju<3](https://open.spotify.com/artist/496w0Fyed8J7IRzn5Ffb6x) | [Wasted Summers](https://open.spotify.com/album/5SrN0SPOdmdCBe0dyDcpsY) | 2:10 | 2023-08-08 | 2023-11-11 |
@@ -2838,6 +2840,7 @@
 | [Where Do You Go](https://open.spotify.com/track/3lXEoPxZMDiMNeE4ea5nct) | [Jessie Murph](https://open.spotify.com/artist/2yLzlEFtIS0Q9UkyBZdQA7) | [drowning](https://open.spotify.com/album/4MG8Z8BcUsNQFgJjMxzTWN) | 2:50 | 2023-03-03 | 2023-03-25 |
 | [Where you are \(feat\. WILLOW\)](https://open.spotify.com/track/4icnlpI5IbZcRO9mpixVVW) | [PinkPantheress](https://open.spotify.com/artist/78rUTD7y6Cy67W1RVzYs7t), [WILLOW](https://open.spotify.com/artist/3rWZHrfrsPBxVy692yAIxF) | [Where you are \(feat\. WILLOW\)](https://open.spotify.com/album/1wFiFlS50SnyKPAIcBzAQN) | 2:33 | 2022-04-22 | 2022-05-20 |
 | [wherever u r \(ft\. V of BTS\)](https://open.spotify.com/track/1k255f17DRuRbGrfz5Ifmd) | [UMI](https://open.spotify.com/artist/4ClziihVpBeFXNyDH83Lde), [V](https://open.spotify.com/artist/3JsHnjpbhX4SnySpvpa9DK) | [wherever u r \(ft\. V of BTS\)](https://open.spotify.com/album/2LwzZahqXWr0POXIWI7WaN) | 2:33 | 2024-01-05 | 2024-02-15 |
+| [WHEREVER YOU ARE](https://open.spotify.com/track/2iOKMCvIUuekNonIJHDDKi) | [Chase Atlantic](https://open.spotify.com/artist/7cYEt1pqMgXJdq00hAwVpT) | [WHEREVER YOU ARE](https://open.spotify.com/album/7glG41WAWuzc6kdm8uBrDt) | 3:26 | 2026-11-27 |  |
 | [While You're At It](https://open.spotify.com/track/0hfHF0FsMNyLoaqsvJmqfq) | [Jessie Murph](https://open.spotify.com/artist/2yLzlEFtIS0Q9UkyBZdQA7) | [While You're At It](https://open.spotify.com/album/2C8nRU6fcdKtxIAduogNgS) | 2:07 | 2022-09-09 | 2022-10-08 |
 | [Whiplash](https://open.spotify.com/track/7Cnpb1vBbC46RgVyyKLH7p) | [aespa](https://open.spotify.com/artist/6YVMFz59CuY7ngCxTxjpxE) | [Whiplash \- The 5th Mini Album](https://open.spotify.com/album/6RRuiUup6Z0Y0MxkCXOGyU) | 3:03 | 2024-10-23 | 2024-12-07 |
 | [White Feather Hawk Tail Deer Hunter](https://open.spotify.com/track/7IM4xK4W4n06UAV48ZXMup) | [Lana Del Rey](https://open.spotify.com/artist/00FQb4jTyendYWaN8pK0wa) | [White Feather Hawk Tail Deer Hunter](https://open.spotify.com/album/5Li8k3H3b4BC7CLlq5jVfQ) | 3:54 | 2026-02-20 | 2026-03-07 |

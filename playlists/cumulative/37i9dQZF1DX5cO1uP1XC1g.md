@@ -4,7 +4,7 @@
 
 > The Hottest Arabic Music.<br/>Cover: Elissa
 
-484 songs - 1 day 4 hr 49 min
+485 songs - 1 day 4 hr 53 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -232,6 +232,7 @@
 | [Law Bas Nergaa \(New Version \)](https://open.spotify.com/track/4ebqXyZzx1JNVMCHZ0Roxp) | [Muslim \- مُسلِم](https://open.spotify.com/artist/2PM82jOCB674w4BL08zFVS) | [Law Bas Nergaa \(New Version \)](https://open.spotify.com/album/1qVviyoS8hVaIi80u8vCBi) | 2:46 | 2022-12-12 | 2023-08-01 |
 | [Law Hatsib](https://open.spotify.com/track/2a7NX3ftu4GAO52dnCRxXM) | [Mohamed Hamaki](https://open.spotify.com/artist/6bb9VI1PpPTEmdgcgjTppX) | [Law Hatsib](https://open.spotify.com/album/0CeV0YaRQp0nqdO5JYWtPV) | 3:48 | 2021-12-12 | 2022-07-29 |
 | [Law Hatsib](https://open.spotify.com/track/7h7FKF2JBDa6xChi3z9KxC) | [Mohamed Hamaki](https://open.spotify.com/artist/6bb9VI1PpPTEmdgcgjTppX) | [Ya Fatenny](https://open.spotify.com/album/4c7UeqkDVT5AZI3hN7oitj) | 3:48 | 2022-07-22 | 2022-10-05 |
+| [Law Khayef](https://open.spotify.com/track/7gOtWJHThMDq7gLYTbMAOa) | [Haifa Wehbe](https://open.spotify.com/artist/05ai8foZsZwk0cni0IOuNj), [Al Nather](https://open.spotify.com/artist/5qvrUMJ8oO3BswrQO3w0hl) | [Law Khayef](https://open.spotify.com/album/5hMdszshrK5CGpYaDtMyhb) | 3:53 | 2026-11-26 |  |
 | [Leeh](https://open.spotify.com/track/3d0MpbuzPk1H7ocM7G9OSG) | [Hussain Aljassmi](https://open.spotify.com/artist/1TcEy92Hugt8o9STqUDz2D) | [Leeh](https://open.spotify.com/album/3MeDB8esgcm5JtzFOu8kS2) | 3:58 | 2022-07-01 | 2022-12-21 |
 | [Leena Ra2sa](https://open.spotify.com/track/612qZheYzgDboDZGz2iJDv) | [Carmen Soliman](https://open.spotify.com/artist/5gPruOKbqIMNHlXASmRXXt) | [Leena Ra2sa](https://open.spotify.com/album/79QFJVtyVVreerzC2ysapQ) | 3:51 | 2021-12-12 | 2022-09-19 |
 | [Lesatni Janbi](https://open.spotify.com/track/2bzUNpvOeOKMZqPI6B3sns) | [A5rass \- الاخرس](https://open.spotify.com/artist/5xnWZW2Jslqu07aO3gTZA4) | [Lesatni Janbi](https://open.spotify.com/album/01MxqvhWMbLvIi3OLtSNYj) | 4:18 | 2022-01-17 | 2023-02-22 |
@@ -436,7 +437,7 @@
 | [خطية \| Khtaya](https://open.spotify.com/track/3zhq4NoxePEjzojkAnVbOy) | [Bessan Ismail](https://open.spotify.com/artist/3D19Q7vcrQ8iCeSNcrQpAB), [Fouad Jned](https://open.spotify.com/artist/6HbYj8CX1iPNrY6ox5haJN) | [خطية \| Khtaya](https://open.spotify.com/album/7yCSM2zx7WzqNghq7vB9QV) | 2:53 | 2025-05-21 |  |
 | [خيبت توقعاتك](https://open.spotify.com/track/21w3QHi6wZhJE87CVCjSkj) | [Houda](https://open.spotify.com/artist/3fyqTnSY7KwpOnO6zdHPVH) | [خيبت توقعاتك](https://open.spotify.com/album/45yoQicE2qNDnLEa6JMTek) | 3:46 | 2026-05-23 |  |
 | [دلعنا كتير](https://open.spotify.com/track/6zNFUlt8E8NcT2ljRqK5GM) | [Mohamed Hamaki](https://open.spotify.com/artist/6bb9VI1PpPTEmdgcgjTppX) | [دلعنا كتير](https://open.spotify.com/album/4fXbai8cyBy3BdHgVMTGu1) | 2:52 | 2023-08-30 | 2024-03-03 |
-| [دور عذر](https://open.spotify.com/track/3xdIuk8WVIX9xedX4TZMzB) | [Ayed](https://open.spotify.com/artist/6U4hHMBYGDF1f98bGjxC8U) | [دور عذر](https://open.spotify.com/album/0hfBg4g0INDycRB8hO8Bja) | 3:24 | 2025-10-18 |  |
+| [دور عذر](https://open.spotify.com/track/3xdIuk8WVIX9xedX4TZMzB) | [Ayed](https://open.spotify.com/artist/6U4hHMBYGDF1f98bGjxC8U) | [دور عذر](https://open.spotify.com/album/0hfBg4g0INDycRB8hO8Bja) | 3:24 | 2025-10-18 | 2026-11-27 |
 | [زهرة حالة حلوة \(مع ميريام فارس و اسر ياسين\)](https://open.spotify.com/track/6AZzs7g85UpFDJUTKwLzgo) | [Memaar Al Morshedy](https://open.spotify.com/artist/6YNhk9uSHg8MTtdwNjhh6d) | [زهرة حالة حلوة \(مع ميريام فارس و اسر ياسين\)](https://open.spotify.com/album/7g0oVx8s5TOZKU4hIwmpsG) | 2:04 | 2021-12-12 | 2022-07-29 |
 | [سيد الغرام](https://open.spotify.com/track/2b8Pq6m3rGXd7muyBjTh1G) | [Assala Nasri](https://open.spotify.com/artist/6MQnUjIjnIOfHDFzqBJOAl), [Asma Lmnawar](https://open.spotify.com/artist/3P3OCB20KqjdkpIP8fnTq3) | [سيد الغرام](https://open.spotify.com/album/57LencHPTBtLmvICFiOwB6) | 3:56 | 2023-01-01 | 2023-06-02 |
 | [شفت النجوم](https://open.spotify.com/track/2GQB3Xe1J9D2sK90AtHfhI) | [Lamya Almalki \| لمياء المالكي](https://open.spotify.com/artist/78muID98ZZ9qLgjJph0jnf) | [شفت النجوم](https://open.spotify.com/album/7150HyQxphdEnrai0PoxAc) | 3:50 | 2022-07-22 | 2022-11-05 |

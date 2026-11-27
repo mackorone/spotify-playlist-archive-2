@@ -4,7 +4,7 @@
 
 > Affirmations\. Intentions\. Skin Care\. Self Care.
 
-334 songs - 14 hr 40 min
+335 songs - 14 hr 42 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -187,6 +187,7 @@
 | [L’herbe verte](https://open.spotify.com/track/1Pjy5zOeaXPieqUfiSdGEb) | [Marceau Sartre](https://open.spotify.com/artist/3WUn0TYXefhcLNOs4BMW6l) | [L’herbe verte](https://open.spotify.com/album/5rPSm5zRMNh2iDrcWY0QAI) | 2:21 | 2022-05-27 | 2024-10-02 |
 | [Majestic Sky](https://open.spotify.com/track/6h76YDPycRG0nGSIHxFxzP) | [Wolf Keller](https://open.spotify.com/artist/0nL3okOqVl6PvsOmtzWwkb) | [Majestic Sky](https://open.spotify.com/album/5RHZVIZAuCXStOzIbCmCa1) | 3:40 | 2023-04-05 | 2025-04-10 |
 | [Mangetsu](https://open.spotify.com/track/57p8sEB0RZILwSvgAAJgh4) | [Marlon Guild](https://open.spotify.com/artist/37H3UX4jTV7ZjH5yL6l3Yl) | [Mangetsu](https://open.spotify.com/album/6xldzkLO7dn1jE9qwm51dr) | 2:38 | 2022-07-27 | 2024-10-02 |
+| [manquante](https://open.spotify.com/track/4jaUaQaYwSn8aUJZo5XNXO) | [Adrien Anviér](https://open.spotify.com/artist/0nqRJVX6wgTfAlvltxr3d8) | [manquante](https://open.spotify.com/album/0E2dZGfxSWnwQwtblNBsxZ) | 2:41 | 2026-11-27 |  |
 | [Marche Lente](https://open.spotify.com/track/3kLDZA1jJMdrqnejdjhPpB) | [Zander Shaelyn](https://open.spotify.com/artist/4MCqLBL3gv1AadG3HzOOKy) | [Marche Lente](https://open.spotify.com/album/46NsQ6HlgrCGQsx2lK37wN) | 2:11 | 2023-08-23 |  |
 | [Maroon Lake](https://open.spotify.com/track/3vU8mciK9Ec13Kg9AtbQEu) | [Reversible](https://open.spotify.com/artist/0vPodmVWzicTAEAhq4OyID) | [Maroon Lake](https://open.spotify.com/album/6a7I9OpF79o4SUIPZ6XHAv) | 1:45 | 2022-05-27 | 2024-03-26 |
 | [Maybe under some other sky](https://open.spotify.com/track/2sTXVgqhs4uTZSoZ5QvlLz) | [Shaunta Coburn](https://open.spotify.com/artist/6Brh18kVDBzXLS2Uu38SuX) | [Maybe under some other sky](https://open.spotify.com/album/0OnhOVXcsZ1yvx5gso1hsq) | 2:19 | 2022-05-27 | 2024-03-26 |

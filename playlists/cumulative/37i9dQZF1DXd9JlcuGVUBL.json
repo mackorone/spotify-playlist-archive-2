@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2024-07-02",
-  "description": "Die beste country musiek. Omslag: Glen Rozi en Bernice Armstrong",
+  "description": "Die beste country musiek. Omslag: Dodo Nyoka",
   "name": "Country Musiek",
   "tracks": [
     {
@@ -146,7 +146,7 @@
       ],
       "date_added": "2026-08-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-27",
       "duration_ms": 175450,
       "name": "Across the River (feat. Reese Wynans) - Live",
       "url": "https://open.spotify.com/track/2aKynFKKSAxIf0BdMQJRwy"
@@ -460,7 +460,7 @@
       ],
       "date_added": "2025-07-25",
       "date_added_asterisk": false,
-      "date_removed": "2026-11-14",
+      "date_removed": null,
       "duration_ms": 213062,
       "name": "Back in the Saddle",
       "url": "https://open.spotify.com/track/6tlZIGGXozhQpYyKesjwWL"
@@ -684,7 +684,7 @@
       ],
       "date_added": "2025-04-10",
       "date_added_asterisk": false,
-      "date_removed": "2026-08-28",
+      "date_removed": null,
       "duration_ms": 156721,
       "name": "Blink Twice",
       "url": "https://open.spotify.com/track/3f3ujFD6YndqRRVYuBcq7T"
@@ -710,7 +710,7 @@
       ],
       "date_added": "2026-08-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-27",
       "duration_ms": 190153,
       "name": "Boots & All",
       "url": "https://open.spotify.com/track/61Sk8qacKHqQj3CW5TWPkA"
@@ -1000,7 +1000,7 @@
       ],
       "date_added": "2026-08-27",
       "date_added_asterisk": false,
-      "date_removed": "2026-10-24",
+      "date_removed": null,
       "duration_ms": 421269,
       "name": "Choosin' Texas",
       "url": "https://open.spotify.com/track/61oXWlM80pXSYi17C7tzvL"
@@ -1090,7 +1090,7 @@
       ],
       "date_added": "2026-08-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-27",
       "duration_ms": 123377,
       "name": "Country Heart",
       "url": "https://open.spotify.com/track/6E5BLRcbvHrC9MBrxPTKEX"
@@ -1944,10 +1944,44 @@
       ],
       "date_added": "2026-08-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-27",
       "duration_ms": 251481,
       "name": "Gratitude",
       "url": "https://open.spotify.com/track/0nOqC7HE2ahBAfM18OZvhj"
+    },
+    {
+      "album": {
+        "name": "Handle With Care",
+        "url": "https://open.spotify.com/album/2rJ3aRuwrWUQdaYmgxXWZz"
+      },
+      "artists": [
+        {
+          "name": "Future Radio",
+          "url": "https://open.spotify.com/artist/072SqMAxf3dxwWoa2aTTH7"
+        },
+        {
+          "name": "FATMAN",
+          "url": "https://open.spotify.com/artist/1eFYCrnsw8F26Wp5CTUxB3"
+        },
+        {
+          "name": "Pieter Smith",
+          "url": "https://open.spotify.com/artist/436epCFSdTxQ6EtvKmOg26"
+        },
+        {
+          "name": "Leon Gropp",
+          "url": "https://open.spotify.com/artist/6IuWDLRpLJQk3xUQoTMuYU"
+        },
+        {
+          "name": "Christiaan Baartman",
+          "url": "https://open.spotify.com/artist/5egE9ZcFwzNSANzupQrcYQ"
+        }
+      ],
+      "date_added": "2026-11-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 190874,
+      "name": "Handle With Care",
+      "url": "https://open.spotify.com/track/00QBncPzm6B5oKa2J2A7Et"
     },
     {
       "album": {
@@ -2367,6 +2401,24 @@
     },
     {
       "album": {
+        "name": "I Can\u2019t Dance",
+        "url": "https://open.spotify.com/album/7Cw9XExgsm8zEV5wtfzGMw"
+      },
+      "artists": [
+        {
+          "name": "Armand Hofmeyr",
+          "url": "https://open.spotify.com/artist/5PH4LwIhIerQCgMZrsQuIh"
+        }
+      ],
+      "date_added": "2026-11-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 174418,
+      "name": "I Can\u2019t Dance",
+      "url": "https://open.spotify.com/track/6HbMrlz1dOtM5v6NzmqYz1"
+    },
+    {
+      "album": {
         "name": "I Dare You",
         "url": "https://open.spotify.com/album/5XSUjqKWdL4H36HkOni7zX"
       },
@@ -2418,7 +2470,7 @@
       ],
       "date_added": "2026-09-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-27",
       "duration_ms": 178828,
       "name": "I Had Some Help",
       "url": "https://open.spotify.com/track/0XYZt2fZku8L3QEHBKyROB"
@@ -3478,7 +3530,7 @@
       ],
       "date_added": "2025-10-23",
       "date_added_asterisk": false,
-      "date_removed": "2026-08-28",
+      "date_removed": null,
       "duration_ms": 169958,
       "name": "ONE MORE",
       "url": "https://open.spotify.com/track/6NSoFwlKHCQV0yKfcEQxDj"
@@ -3594,7 +3646,7 @@
       ],
       "date_added": "2025-03-06",
       "date_added_asterisk": false,
-      "date_removed": "2026-09-30",
+      "date_removed": null,
       "duration_ms": 169331,
       "name": "Options",
       "url": "https://open.spotify.com/track/5CKp1RqaCeUYDGqo14KMfU"
@@ -3709,6 +3761,24 @@
     },
     {
       "album": {
+        "name": "Postcard Heart",
+        "url": "https://open.spotify.com/album/76datIfXjB3zKwaAWrrk3e"
+      },
+      "artists": [
+        {
+          "name": "Dodo Nyoka",
+          "url": "https://open.spotify.com/artist/4ikALYd62or9IJXnjYwcXa"
+        }
+      ],
+      "date_added": "2026-11-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 157168,
+      "name": "Postcard Heart",
+      "url": "https://open.spotify.com/track/4AI5g4SfshyQOFtHBhxZ1k"
+    },
+    {
+      "album": {
         "name": "Prayed For You",
         "url": "https://open.spotify.com/album/08YFJliM9RLRkpxS3AvPZs"
       },
@@ -3756,7 +3826,7 @@
       ],
       "date_added": "2026-07-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-27",
       "duration_ms": 208421,
       "name": "Rain On Me",
       "url": "https://open.spotify.com/track/109zzm19jWy5QiAVBTIYN0"
@@ -3810,7 +3880,7 @@
       ],
       "date_added": "2024-06-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-27",
       "duration_ms": 236055,
       "name": "Remember Him That Way",
       "url": "https://open.spotify.com/track/1YvT4ml5LQM8ZYcLvqsAkD"
@@ -4610,7 +4680,7 @@
       ],
       "date_added": "2026-09-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-27",
       "duration_ms": 154500,
       "name": "The Price",
       "url": "https://open.spotify.com/track/60WQVksCK4VKJk9dS6vYH0"

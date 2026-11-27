@@ -521,6 +521,24 @@
     },
     {
       "album": {
+        "name": "Band",
+        "url": "https://open.spotify.com/album/2MmlbUxJqM7FC49KIURRsq"
+      },
+      "artists": [
+        {
+          "name": "haloplus+",
+          "url": "https://open.spotify.com/artist/224oiUpyCYmxo3WJQW3EPB"
+        }
+      ],
+      "date_added": "2026-11-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 158959,
+      "name": "Band",
+      "url": "https://open.spotify.com/track/2Gz4c8wVrfpIq0eJHXz91p"
+    },
+    {
+      "album": {
         "name": "Barrons Hotel/Yellow Bones",
         "url": "https://open.spotify.com/album/4DiYXaIgNZZBKHwWBjXr6Y"
       },
@@ -1296,6 +1314,24 @@
       "duration_ms": 270080,
       "name": "CY",
       "url": "https://open.spotify.com/track/3qKYZAvIbxsxMtBLDucDz6"
+    },
+    {
+      "album": {
+        "name": "Dare to talk",
+        "url": "https://open.spotify.com/album/7oFKuh1onKn1DaHb99sC6B"
+      },
+      "artists": [
+        {
+          "name": "Zoumer",
+          "url": "https://open.spotify.com/artist/2gvZEOoUMIzYFrXeqMaALB"
+        }
+      ],
+      "date_added": "2026-11-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 143800,
+      "name": "Dare to talk",
+      "url": "https://open.spotify.com/track/0vSovpy2oSbWg9z6hhj02h"
     },
     {
       "album": {
@@ -2738,7 +2774,7 @@
       ],
       "date_added": "2025-04-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-27",
       "duration_ms": 218263,
       "name": "Gums",
       "url": "https://open.spotify.com/track/1SPkDEDUnOZqMfcRPPMYgu"
@@ -4448,7 +4484,7 @@
       ],
       "date_added": "2026-01-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-27",
       "duration_ms": 201951,
       "name": "not yet",
       "url": "https://open.spotify.com/track/1gU7Z66t6Urh6tnefEi9lr"

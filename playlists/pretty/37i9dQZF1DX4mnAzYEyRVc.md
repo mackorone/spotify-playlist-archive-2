@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4mnAzYEyRVc.md) - [plain]
 
 > The world series of Ska\. Cover: The Cat Empire
 
-[Spotify](https://open.spotify.com/user/spotify) - 74,211 likes - 100 songs - 5 hr 43 min
+[Spotify](https://open.spotify.com/user/spotify) - 74,214 likes - 100 songs - 5 hr 43 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -83,12 +83,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4mnAzYEyRVc.md) - [plain]
 | 73 | [El Pueblo](https://open.spotify.com/track/05Nf97enQT6pSiqQS0Rqcq) | [Boikot](https://open.spotify.com/artist/0wppCmJl3glHZZScLcs4gn) | [El Pueblo](https://open.spotify.com/album/0Ofs4cb0YBDKz0ISGJrrrQ) | 3:28 |
 | 74 | [In 80 Tagen um die Welt \- Birthday Rerecordings '24](https://open.spotify.com/track/4JABU1W26SfKdMloYWs1TW) | [Broilers](https://open.spotify.com/artist/2C7RDMSpyGZFyoSnvOeU4J) | [Jolly Good Fellas \- Best of Broilers 1994\-2024](https://open.spotify.com/album/6QGv5jv9VH7oRFF5is69mv) | 3:22 |
 | 75 | [El Amor No Es para Tibios \(Este Año Es el Bueno\)](https://open.spotify.com/track/7xUJ7xDiITKkziExo8TolF) | [Raztlan](https://open.spotify.com/artist/4bm76UqljC1NEUS1yahaxE), [Melodycans](https://open.spotify.com/artist/1kjHfeJNTbCFiDwz0xJbNF) | [El Amor No Es para Tibios \(Este Año Es el Bueno\)](https://open.spotify.com/album/1e3dZ3V9acJz1nJRCjsZXO) | 3:33 |
-| 76 | [Fade Out](https://open.spotify.com/track/7t6UiuCntAJaZPToCKbZf9) | [Millington](https://open.spotify.com/artist/674oSgXMvyLNHMGQKHcUpp) | [Fade Out](https://open.spotify.com/album/246aiCAYETMSFcm9oxUVt1) | 3:40 |
+| 76 | [Landslide](https://open.spotify.com/track/5YY4YVwf4pOfqARgCRVviB) | [Millington](https://open.spotify.com/artist/674oSgXMvyLNHMGQKHcUpp) | [Landslide](https://open.spotify.com/album/048fR8LNv0By4skCQYeDyG) | 2:44 |
 | 77 | [Voodoo Go To Zoo](https://open.spotify.com/track/0psvBjhuemuy6XCJPiA5Zd) | [HEY\-SMITH](https://open.spotify.com/artist/180SgP7FcRAhmrgwuNTvhL) | [Unity](https://open.spotify.com/album/7hEotpEVKe6JzRquceRjnh) | 2:50 |
 | 78 | [Worm in de Appel](https://open.spotify.com/track/3jQZOvllBN8zXOsVY7nJpq) | [De Baron](https://open.spotify.com/artist/2xASE2c5LniZXcraRO0RML) | [BAALBEK](https://open.spotify.com/album/1qJp7wv0a4SqCO0BANGjC4) | 2:47 |
 | 79 | [Don't Speak](https://open.spotify.com/track/7D823Ok1jHreqNkVwic81R) | [Panteon Rococo](https://open.spotify.com/artist/11mqrDSFRRz8g0Wb3syJj5), [The Skints](https://open.spotify.com/artist/39k4UDTgsWe6NCi6hgnfc1) | [Don't Speak](https://open.spotify.com/album/7b7AM8NvWaj5A8iyEAvjTw) | 4:40 |
 | 80 | [La Ranchera](https://open.spotify.com/track/1A8MVDv6OMaKvTo1FvXNzt) | [Estopa](https://open.spotify.com/artist/5ZqnEfVdEGmoPxtELhN7ai), [Panteon Rococo](https://open.spotify.com/artist/11mqrDSFRRz8g0Wb3syJj5) | [La Ranchera](https://open.spotify.com/album/5kGQqjz7CaLrMwjXAbCQ9V) | 3:07 |
-| 81 | [Landslide](https://open.spotify.com/track/5YY4YVwf4pOfqARgCRVviB) | [Millington](https://open.spotify.com/artist/674oSgXMvyLNHMGQKHcUpp) | [Landslide](https://open.spotify.com/album/048fR8LNv0By4skCQYeDyG) | 2:44 |
+| 81 | [Fade Out](https://open.spotify.com/track/7t6UiuCntAJaZPToCKbZf9) | [Millington](https://open.spotify.com/artist/674oSgXMvyLNHMGQKHcUpp) | [Fade Out](https://open.spotify.com/album/246aiCAYETMSFcm9oxUVt1) | 3:40 |
 | 82 | [Estoy en Paz](https://open.spotify.com/track/0VXeUMWXIGIE6uOtPzlk7Z) | [Los Estramboticos](https://open.spotify.com/artist/53nmySG01mYmqoUx3fKymx) | [Estoy en Paz](https://open.spotify.com/album/2rAz4h0MvhaX1dScUuBGmM) | 2:52 |
 | 83 | [Guapa](https://open.spotify.com/track/6ZnlFcQA6Ghn8NYEgTu4Dl) | [Los Tres Puntos](https://open.spotify.com/artist/1dgExV84g1pE4Z2ALzB36P) | [Si Oh !](https://open.spotify.com/album/2H6VK5tsOqYwURh7BsLsiB) | 2:31 |
 | 84 | [Grüße ins Neandertal](https://open.spotify.com/track/0ezLFIbttTjHHlhP7D1uOx) | [Feine Sahne Fischfilet](https://open.spotify.com/artist/1BdtWszUR1z5SeU5qXNU31) | [Grüße ins Neandertal](https://open.spotify.com/album/4BTJeSbI5IgKeXU0B6Auup) | 1:46 |
@@ -99,13 +99,13 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4mnAzYEyRVc.md) - [plain]
 | 89 | [Juntos](https://open.spotify.com/track/3zJizV0VAlItx99aOKEtLo) | [Los Calzones](https://open.spotify.com/artist/0TdpHmgTji0VJARVNgB9hc) | [Juntos](https://open.spotify.com/album/38DiXVpaDu8xDofJE3xJHd) | 3:19 |
 | 90 | [Zombiler](https://open.spotify.com/track/1IW6yBz7CH4oN7csJxl9Oz) | [Second](https://open.spotify.com/artist/0hB4oP2Xs7bmAb3W5dHwsi) | [Zombiler](https://open.spotify.com/album/53HtyBiWbJkq8eJnPiio8Z) | 3:26 |
 | 91 | [El Ático](https://open.spotify.com/track/01L1D88jqcMuAOvLRyYVbj) | [Ska\-P](https://open.spotify.com/artist/2fiiGUBgPsIKDCE0bTthnl) | [El Ático](https://open.spotify.com/album/6u178zpBY3ZU10qIjYjzbm) | 4:02 |
-| 92 | [Akárkifia](https://open.spotify.com/track/3S1PfBDw6xuePLFD7fH0WD) | [Bohemian Betyars](https://open.spotify.com/artist/2ezYPSKWBfnFTobN9puCow) | [AKÁRKIFIA](https://open.spotify.com/album/0TvpE8pe9RGmp5hP6S9Nk7) | 3:17 |
-| 93 | [Wir kommen in Frieden](https://open.spotify.com/track/0V17DNUknI1TDWwQ4W0UN6) | [Feine Sahne Fischfilet](https://open.spotify.com/artist/1BdtWszUR1z5SeU5qXNU31) | [Wir kommen in Frieden](https://open.spotify.com/album/0lzS8AmVEYtiQ2kQDjwVjq) | 3:54 |
-| 94 | [Don\`t Worry Be Happy](https://open.spotify.com/track/6jo4CR3Efx6g2peyiXmzAU) | [The Locos](https://open.spotify.com/artist/1Z4sHcpzg0xnN8X3WYzvgx) | [Don't Worry Be Happy](https://open.spotify.com/album/5FexSOMJcqzhSt3NFXqbLY) | 3:45 |
+| 92 | [Wir kommen in Frieden](https://open.spotify.com/track/0V17DNUknI1TDWwQ4W0UN6) | [Feine Sahne Fischfilet](https://open.spotify.com/artist/1BdtWszUR1z5SeU5qXNU31) | [Wir kommen in Frieden](https://open.spotify.com/album/0lzS8AmVEYtiQ2kQDjwVjq) | 3:54 |
+| 93 | [Don\`t Worry Be Happy](https://open.spotify.com/track/6jo4CR3Efx6g2peyiXmzAU) | [The Locos](https://open.spotify.com/artist/1Z4sHcpzg0xnN8X3WYzvgx) | [Don't Worry Be Happy](https://open.spotify.com/album/5FexSOMJcqzhSt3NFXqbLY) | 3:45 |
+| 94 | [Akárkifia](https://open.spotify.com/track/3S1PfBDw6xuePLFD7fH0WD) | [Bohemian Betyars](https://open.spotify.com/artist/2ezYPSKWBfnFTobN9puCow) | [AKÁRKIFIA](https://open.spotify.com/album/0TvpE8pe9RGmp5hP6S9Nk7) | 3:17 |
 | 95 | [Sleepin' on the Couch \(with The Elovaters\)](https://open.spotify.com/track/7hshPrDYRXYIpOCmHRMBhM) | [Ballyhoo!](https://open.spotify.com/artist/6py4uFIC7T6RdrZnH6hFYJ), [The Elovaters](https://open.spotify.com/artist/2bBTnfGpjGCTRozyAodDa3) | [Shellshock](https://open.spotify.com/album/1UWTes4uVkRcGJeEKCBw4x) | 4:08 |
 | 96 | [Dead Man's Party](https://open.spotify.com/track/3rRpozx2ZA7M3wFpA46BX6) | [Ludo](https://open.spotify.com/artist/6ok7bEDf9CZ0448D59AaNL) | [Dead Man's Party](https://open.spotify.com/album/38oI82wRnQPtqzrnKvPFWO) | 4:18 |
-| 97 | [Weit, weit weg](https://open.spotify.com/track/6hUErGPzA3hScjIo6rGtpc) | [Sondaschule](https://open.spotify.com/artist/0HqXpSKyNcTg8a1xg6hDQk) | [Weit, weit weg](https://open.spotify.com/album/66pkYBmUtCx43fgkPaeYb9) | 2:37 |
-| 98 | [Endlich auf Reise](https://open.spotify.com/track/6MiKb3SOL9Ieht1bDJAEK9) | [Feine Sahne Fischfilet](https://open.spotify.com/artist/1BdtWszUR1z5SeU5qXNU31) | [Endlich auf Reise](https://open.spotify.com/album/56iStpgUMwWK6rO1WxjlRs) | 2:59 |
+| 97 | [Endlich auf Reise](https://open.spotify.com/track/6MiKb3SOL9Ieht1bDJAEK9) | [Feine Sahne Fischfilet](https://open.spotify.com/artist/1BdtWszUR1z5SeU5qXNU31) | [Endlich auf Reise](https://open.spotify.com/album/56iStpgUMwWK6rO1WxjlRs) | 2:59 |
+| 98 | [Weit, weit weg](https://open.spotify.com/track/6hUErGPzA3hScjIo6rGtpc) | [Sondaschule](https://open.spotify.com/artist/0HqXpSKyNcTg8a1xg6hDQk) | [Weit, weit weg](https://open.spotify.com/album/66pkYBmUtCx43fgkPaeYb9) | 2:37 |
 | 99 | [Revolution X Alltag](https://open.spotify.com/track/5SqM2x8VneogTKyJnJx0c6) | [Massendefekt](https://open.spotify.com/artist/5dMzTUX22xeWjyW69R1zlc) | [Revolution x Alltag](https://open.spotify.com/album/5Le11Swz7R4VOjuisMLa4o) | 3:56 |
 | 100 | [Magam sem tudom](https://open.spotify.com/track/22xCahAMd6iR2r7AsVqnvk) | [Bohemian Betyars](https://open.spotify.com/artist/2ezYPSKWBfnFTobN9puCow) | [Magam sem tudom](https://open.spotify.com/album/6k6hfT293PG9NduWzLC55r) | 3:10 |
 

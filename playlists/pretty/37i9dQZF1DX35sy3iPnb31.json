@@ -1,6 +1,6 @@
 {
   "description": "The best Canadian songs of the month, handpicked by Spotify Canada editors. Cover: Natek",
-  "num_followers": 3017,
+  "num_followers": 3021,
   "original_name": "Editors' Picks: Best Canadian Songs of October",
   "owner": {
     "name": "Spotify",
@@ -535,22 +535,6 @@
     {
       "added_at": "2026-11-01 04:01:35",
       "album": {
-        "name": "SOFTER",
-        "url": "https://open.spotify.com/album/33wM3dzPI4rDo43KEfN3ya"
-      },
-      "artists": [
-        {
-          "name": "Jessie Reyez",
-          "url": "https://open.spotify.com/artist/3KedxarmBCyFBevnqQHy3P"
-        }
-      ],
-      "duration_ms": 133359,
-      "name": "SOVEREIGN LAND",
-      "url": "https://open.spotify.com/track/4AEQsgreh7kZOOGGXWizMo"
-    },
-    {
-      "added_at": "2026-11-01 04:01:35",
-      "album": {
         "name": "The 4",
         "url": "https://open.spotify.com/album/7s9yJdZXLzJ2GcVNG1yk6s"
       },
@@ -571,6 +555,22 @@
       "duration_ms": 204504,
       "name": "The 4",
       "url": "https://open.spotify.com/track/5qdJdovmMW639cxGDXs9X9"
+    },
+    {
+      "added_at": "2026-11-01 04:01:35",
+      "album": {
+        "name": "SOFTER",
+        "url": "https://open.spotify.com/album/33wM3dzPI4rDo43KEfN3ya"
+      },
+      "artists": [
+        {
+          "name": "Jessie Reyez",
+          "url": "https://open.spotify.com/artist/3KedxarmBCyFBevnqQHy3P"
+        }
+      ],
+      "duration_ms": 133359,
+      "name": "SOVEREIGN LAND",
+      "url": "https://open.spotify.com/track/4AEQsgreh7kZOOGGXWizMo"
     },
     {
       "added_at": "2026-11-01 04:01:35",
@@ -655,22 +655,6 @@
     {
       "added_at": "2026-11-01 04:01:35",
       "album": {
-        "name": "Ladylike",
-        "url": "https://open.spotify.com/album/113ejPYZEjoK59HHABCxme"
-      },
-      "artists": [
-        {
-          "name": "Charlie Houston",
-          "url": "https://open.spotify.com/artist/6BkSTbIWZrLZZK0sa2GehR"
-        }
-      ],
-      "duration_ms": 178374,
-      "name": "Ladylike",
-      "url": "https://open.spotify.com/track/2M2FkJJImaEzChIpVLE3Tu"
-    },
-    {
-      "added_at": "2026-11-01 04:01:35",
-      "album": {
         "name": "Numbskull",
         "url": "https://open.spotify.com/album/4FwRkmPT4WoxrBAerMhIPy"
       },
@@ -687,6 +671,22 @@
       "duration_ms": 152166,
       "name": "Atypical",
       "url": "https://open.spotify.com/track/3xFP682GYjttVzx4gL79T5"
+    },
+    {
+      "added_at": "2026-11-01 04:01:35",
+      "album": {
+        "name": "Ladylike",
+        "url": "https://open.spotify.com/album/113ejPYZEjoK59HHABCxme"
+      },
+      "artists": [
+        {
+          "name": "Charlie Houston",
+          "url": "https://open.spotify.com/artist/6BkSTbIWZrLZZK0sa2GehR"
+        }
+      ],
+      "duration_ms": 178374,
+      "name": "Ladylike",
+      "url": "https://open.spotify.com/track/2M2FkJJImaEzChIpVLE3Tu"
     },
     {
       "added_at": "2026-11-01 04:01:35",
@@ -739,18 +739,18 @@
     {
       "added_at": "2026-11-01 04:01:35",
       "album": {
-        "name": "Michael Wakes Up",
-        "url": "https://open.spotify.com/album/3KwJvw77cx2LoBVOM0ny5N"
+        "name": "Lady Of The Lake",
+        "url": "https://open.spotify.com/album/5ecyGh0UKhRU7Hjsqb3JYf"
       },
       "artists": [
         {
-          "name": "young friend",
-          "url": "https://open.spotify.com/artist/7cq0a4di5dOeKU8sicemd1"
+          "name": "MOONRIIVR",
+          "url": "https://open.spotify.com/artist/7L0DI3wlt7yeY4Hi9I87h8"
         }
       ],
-      "duration_ms": 294946,
-      "name": "Michael Wakes Up",
-      "url": "https://open.spotify.com/track/5gO8rrTb6RQRUhnG4sqzKc"
+      "duration_ms": 246136,
+      "name": "Lady Of The Lake",
+      "url": "https://open.spotify.com/track/6YkvRo7ls676GMZ2QY9dJF"
     },
     {
       "added_at": "2026-11-01 04:01:35",
@@ -771,18 +771,18 @@
     {
       "added_at": "2026-11-01 04:01:35",
       "album": {
-        "name": "Lady Of The Lake",
-        "url": "https://open.spotify.com/album/5ecyGh0UKhRU7Hjsqb3JYf"
+        "name": "Michael Wakes Up",
+        "url": "https://open.spotify.com/album/3KwJvw77cx2LoBVOM0ny5N"
       },
       "artists": [
         {
-          "name": "MOONRIIVR",
-          "url": "https://open.spotify.com/artist/7L0DI3wlt7yeY4Hi9I87h8"
+          "name": "young friend",
+          "url": "https://open.spotify.com/artist/7cq0a4di5dOeKU8sicemd1"
         }
       ],
-      "duration_ms": 246136,
-      "name": "Lady Of The Lake",
-      "url": "https://open.spotify.com/track/6YkvRo7ls676GMZ2QY9dJF"
+      "duration_ms": 294946,
+      "name": "Michael Wakes Up",
+      "url": "https://open.spotify.com/track/5gO8rrTb6RQRUhnG4sqzKc"
     },
     {
       "added_at": "2026-11-01 04:01:35",

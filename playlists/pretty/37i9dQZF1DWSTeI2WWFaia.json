@@ -1,6 +1,6 @@
 {
   "description": "Lyrical, lo-fi, and lowlife raps. Cover: Anderson .Paak & Cordae",
-  "num_followers": 1545815,
+  "num_followers": 1545686,
   "original_name": "Spilled Ink",
   "owner": {
     "name": "Spotify",
@@ -579,26 +579,6 @@
     {
       "added_at": "2026-11-21 03:00:20",
       "album": {
-        "name": "Heavy Is The Crown",
-        "url": "https://open.spotify.com/album/1pbMoqpMgCyjPefcJ9PKdq"
-      },
-      "artists": [
-        {
-          "name": "Anderson .Paak",
-          "url": "https://open.spotify.com/artist/3jK9MiCrA42lLAdMGUZpwa"
-        },
-        {
-          "name": "Cordae",
-          "url": "https://open.spotify.com/artist/0huGjMyP507tBCARyzSkrv"
-        }
-      ],
-      "duration_ms": 183388,
-      "name": "Godfather II",
-      "url": "https://open.spotify.com/track/6GgQiSyhTWqmmBy9V5Blob"
-    },
-    {
-      "added_at": "2026-11-21 03:00:20",
-      "album": {
         "name": "HEELMATIC",
         "url": "https://open.spotify.com/album/6xpcVVjSc8kUuddtdJtiY0"
       },
@@ -619,6 +599,26 @@
       "duration_ms": 204126,
       "name": "DON PISTOLA",
       "url": "https://open.spotify.com/track/00sREMzYzD6EUJ7HfF4EFP"
+    },
+    {
+      "added_at": "2026-11-21 03:00:20",
+      "album": {
+        "name": "Heavy Is The Crown",
+        "url": "https://open.spotify.com/album/1pbMoqpMgCyjPefcJ9PKdq"
+      },
+      "artists": [
+        {
+          "name": "Anderson .Paak",
+          "url": "https://open.spotify.com/artist/3jK9MiCrA42lLAdMGUZpwa"
+        },
+        {
+          "name": "Cordae",
+          "url": "https://open.spotify.com/artist/0huGjMyP507tBCARyzSkrv"
+        }
+      ],
+      "duration_ms": 183388,
+      "name": "Godfather II",
+      "url": "https://open.spotify.com/track/6GgQiSyhTWqmmBy9V5Blob"
     },
     {
       "added_at": "2026-11-21 03:00:20",
@@ -871,26 +871,30 @@
     {
       "added_at": "2026-11-21 03:00:20",
       "album": {
-        "name": "Life Is Beautiful",
-        "url": "https://open.spotify.com/album/7KldyyeQxbaR4oXtMprIJD"
+        "name": "OTIS",
+        "url": "https://open.spotify.com/album/6rmmnbtyvzc0FZdpbydr9x"
       },
       "artists": [
         {
-          "name": "Larry June",
-          "url": "https://open.spotify.com/artist/1grN0519h2zYqpRtYbDZAl"
+          "name": "Conway the Machine",
+          "url": "https://open.spotify.com/artist/67gqUXxHedeUGDTxwBzdjS"
         },
         {
-          "name": "2 Chainz",
-          "url": "https://open.spotify.com/artist/17lzZA2AlOHwCwFALHttmp"
+          "name": "Ghostface Killah",
+          "url": "https://open.spotify.com/artist/6FD0unjzGQhX3b6eMccMJe"
         },
         {
-          "name": "The Alchemist",
-          "url": "https://open.spotify.com/artist/0eVyjRhzZKke2KFYTcDkeu"
+          "name": "Raekwon",
+          "url": "https://open.spotify.com/artist/2yQf6b8hxahZaT5dHlWaB1"
+        },
+        {
+          "name": "Method Man",
+          "url": "https://open.spotify.com/artist/4VmEWwd8y9MCLwexFMdpwt"
         }
       ],
-      "duration_ms": 222640,
-      "name": "Munyon Canyon",
-      "url": "https://open.spotify.com/track/65F3PDyVWG6sYeiMJJEBly"
+      "duration_ms": 375203,
+      "name": "Lupita!",
+      "url": "https://open.spotify.com/track/3qpzoT5HRPjF7dbwrft1DY"
     },
     {
       "added_at": "2026-11-21 03:00:20",
@@ -919,30 +923,26 @@
     {
       "added_at": "2026-11-21 03:00:20",
       "album": {
-        "name": "OTIS",
-        "url": "https://open.spotify.com/album/6rmmnbtyvzc0FZdpbydr9x"
+        "name": "Life Is Beautiful",
+        "url": "https://open.spotify.com/album/7KldyyeQxbaR4oXtMprIJD"
       },
       "artists": [
         {
-          "name": "Conway the Machine",
-          "url": "https://open.spotify.com/artist/67gqUXxHedeUGDTxwBzdjS"
+          "name": "Larry June",
+          "url": "https://open.spotify.com/artist/1grN0519h2zYqpRtYbDZAl"
         },
         {
-          "name": "Ghostface Killah",
-          "url": "https://open.spotify.com/artist/6FD0unjzGQhX3b6eMccMJe"
+          "name": "2 Chainz",
+          "url": "https://open.spotify.com/artist/17lzZA2AlOHwCwFALHttmp"
         },
         {
-          "name": "Raekwon",
-          "url": "https://open.spotify.com/artist/2yQf6b8hxahZaT5dHlWaB1"
-        },
-        {
-          "name": "Method Man",
-          "url": "https://open.spotify.com/artist/4VmEWwd8y9MCLwexFMdpwt"
+          "name": "The Alchemist",
+          "url": "https://open.spotify.com/artist/0eVyjRhzZKke2KFYTcDkeu"
         }
       ],
-      "duration_ms": 375203,
-      "name": "Lupita!",
-      "url": "https://open.spotify.com/track/3qpzoT5HRPjF7dbwrft1DY"
+      "duration_ms": 222640,
+      "name": "Munyon Canyon",
+      "url": "https://open.spotify.com/track/65F3PDyVWG6sYeiMJJEBly"
     },
     {
       "added_at": "2026-11-21 03:00:20",
@@ -987,26 +987,18 @@
     {
       "added_at": "2026-11-21 03:00:20",
       "album": {
-        "name": "STRIKING",
-        "url": "https://open.spotify.com/album/1qD7ujFQ06byTA6jObEPOx"
+        "name": "Balloonerism",
+        "url": "https://open.spotify.com/album/2ANFIaCb53iam0MBkFFoxY"
       },
       "artists": [
         {
-          "name": "Ovrkast.",
-          "url": "https://open.spotify.com/artist/4YISTUJnoZtAy6LjgOpRL7"
-        },
-        {
-          "name": "Joey Bada$$",
-          "url": "https://open.spotify.com/artist/2P5sC9cVZDToPxyomzF1UH"
-        },
-        {
-          "name": "Nali",
-          "url": "https://open.spotify.com/artist/3CMbroLqMKEfk0BMcfz5h9"
+          "name": "Mac Miller",
+          "url": "https://open.spotify.com/artist/4LLpKhyESsyAXpc4laK94U"
         }
       ],
-      "duration_ms": 216812,
-      "name": "STATIC",
-      "url": "https://open.spotify.com/track/06jJ94bMXKhgOhTniBtSEv"
+      "duration_ms": 204564,
+      "name": "Do You Have A Destination?",
+      "url": "https://open.spotify.com/track/1KwIDHEK3CYbHPJUTMxxNu"
     },
     {
       "added_at": "2026-11-21 03:00:20",
@@ -1031,18 +1023,30 @@
     {
       "added_at": "2026-11-21 03:00:20",
       "album": {
-        "name": "Balloonerism",
-        "url": "https://open.spotify.com/album/2ANFIaCb53iam0MBkFFoxY"
+        "name": "God Does Like Ugly",
+        "url": "https://open.spotify.com/album/2tU04u3hxtziB4sOVJKak3"
       },
       "artists": [
         {
-          "name": "Mac Miller",
-          "url": "https://open.spotify.com/artist/4LLpKhyESsyAXpc4laK94U"
+          "name": "JID",
+          "url": "https://open.spotify.com/artist/6U3ybJ9UHNKEdsH7ktGBZ7"
+        },
+        {
+          "name": "Clipse",
+          "url": "https://open.spotify.com/artist/2J257euzcjnDLipsyJH3F2"
+        },
+        {
+          "name": "Pusha T",
+          "url": "https://open.spotify.com/artist/0ONHkAv9pCAFxb0zJwDNTy"
+        },
+        {
+          "name": "Malice",
+          "url": "https://open.spotify.com/artist/4P4gZvRYiVpvtCkmd37jRM"
         }
       ],
-      "duration_ms": 204564,
-      "name": "Do You Have A Destination?",
-      "url": "https://open.spotify.com/track/1KwIDHEK3CYbHPJUTMxxNu"
+      "duration_ms": 265527,
+      "name": "Community (with Clipse, Pusha T & Malice)",
+      "url": "https://open.spotify.com/track/3LXxHFZWt6OHdBsgucSIjJ"
     }
   ],
   "unique_name": "Spilled Ink",

@@ -588,7 +588,7 @@
       ],
       "date_added": "2026-09-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-27",
       "duration_ms": 593631,
       "name": "Busa",
       "url": "https://open.spotify.com/track/2fJuxUZaQEsJC8GEvdyQvl"
@@ -1746,7 +1746,7 @@
       ],
       "date_added": "2026-02-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-27",
       "duration_ms": 380000,
       "name": "Jesu Uyilanga",
       "url": "https://open.spotify.com/track/5Yg5FaEkRn0DgNsZeOB5rw"
@@ -2832,7 +2832,7 @@
       ],
       "date_added": "2026-09-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-27",
       "duration_ms": 392435,
       "name": "Ndifun' Izulu",
       "url": "https://open.spotify.com/track/76csbELiVmhYttFqaFHujN"
@@ -3224,7 +3224,7 @@
       ],
       "date_added": "2025-11-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-27",
       "duration_ms": 420102,
       "name": "Ngizohamba Naye Medley - Live",
       "url": "https://open.spotify.com/track/67dCahOgmQxYsuulpagpHM"
@@ -3246,6 +3246,24 @@
       "duration_ms": 461466,
       "name": "Ngobekezela",
       "url": "https://open.spotify.com/track/1m5eJZMKi6g6Qx5wQT0fHO"
+    },
+    {
+      "album": {
+        "name": "Ngobonga Ngani (Live)",
+        "url": "https://open.spotify.com/album/2tElIVqRRwbnGMbyYMhFfh"
+      },
+      "artists": [
+        {
+          "name": "Brenda Mtambo",
+          "url": "https://open.spotify.com/artist/1xq3iidMUB1FTy5c7WcfyC"
+        }
+      ],
+      "date_added": "2026-11-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 312000,
+      "name": "Ngobonga Ngani - Live",
+      "url": "https://open.spotify.com/track/4LViwJyKfB9NLLCFuVmQNJ"
     },
     {
       "album": {
@@ -4978,7 +4996,7 @@
       ],
       "date_added": "2024-11-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-27",
       "duration_ms": 630480,
       "name": "Uyalalela - Live",
       "url": "https://open.spotify.com/track/0EXa43pAwb2RrqVoGLcRnm"
@@ -5598,7 +5616,7 @@
       ],
       "date_added": "2026-08-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-27",
       "duration_ms": 523500,
       "name": "Yiwo Umsebenzi - Live",
       "url": "https://open.spotify.com/track/2865NANaNu0HtICKUiKALb"

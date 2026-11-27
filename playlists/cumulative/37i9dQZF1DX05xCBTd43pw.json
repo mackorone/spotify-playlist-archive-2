@@ -1263,6 +1263,24 @@
     },
     {
       "album": {
+        "name": "Brightside",
+        "url": "https://open.spotify.com/album/1uuxD7dOb65LqpNuJFnIfK"
+      },
+      "artists": [
+        {
+          "name": "Joya Marleen",
+          "url": "https://open.spotify.com/artist/4vaE77ooZ6reoKW8b7YTeb"
+        }
+      ],
+      "date_added": "2026-11-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 214010,
+      "name": "Brightside",
+      "url": "https://open.spotify.com/track/6Pwueha74fbbGekPmSqb7i"
+    },
+    {
+      "album": {
         "name": "Bring The Witches Back",
         "url": "https://open.spotify.com/album/5J9P9buPntwTG6hgWShoYc"
       },
@@ -2526,7 +2544,7 @@
       ],
       "date_added": "2026-08-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-27",
       "duration_ms": 138250,
       "name": "Dopamine",
       "url": "https://open.spotify.com/track/4jw6Bqc9MrUnHVrv25Ggom"
@@ -3098,7 +3116,7 @@
       ],
       "date_added": "2025-11-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-27",
       "duration_ms": 145464,
       "name": "Fall",
       "url": "https://open.spotify.com/track/1byuhNxuaxTl2LUIkewV0t"
@@ -3134,7 +3152,7 @@
       ],
       "date_added": "2026-08-27",
       "date_added_asterisk": false,
-      "date_removed": "2026-09-14",
+      "date_removed": null,
       "duration_ms": 211626,
       "name": "Falling Out",
       "url": "https://open.spotify.com/track/0mLO6w4IR2nfUwDlX6m66g"
@@ -6593,6 +6611,24 @@
     },
     {
       "album": {
+        "name": "mother\u00b4s day",
+        "url": "https://open.spotify.com/album/0nO5L4AdpmvwvyYgkqPiL7"
+      },
+      "artists": [
+        {
+          "name": "Miyu Hansen",
+          "url": "https://open.spotify.com/artist/5DJDdhg9Qijhlqf6F1Mu5L"
+        }
+      ],
+      "date_added": "2026-11-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 181164,
+      "name": "mother\u00b4s day",
+      "url": "https://open.spotify.com/track/4Kj2PXfQuRT9IpM1ihyTqJ"
+    },
+    {
+      "album": {
         "name": "Moved On",
         "url": "https://open.spotify.com/album/5TDKyr1AvPZeO23bZWVDgc"
       },
@@ -7089,6 +7125,24 @@
     },
     {
       "album": {
+        "name": "North Of The Border",
+        "url": "https://open.spotify.com/album/5FV1AUtCV203gCEkQ3vzy7"
+      },
+      "artists": [
+        {
+          "name": "Argyle",
+          "url": "https://open.spotify.com/artist/341j56Mxd1Dm9mOUC2OBfg"
+        }
+      ],
+      "date_added": "2026-11-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 162303,
+      "name": "North Of The Border",
+      "url": "https://open.spotify.com/track/7av8yk9LWAewlq1qMqzbhb"
+    },
+    {
+      "album": {
         "name": "Nothing Else",
         "url": "https://open.spotify.com/album/5mHKN6XexhQ8y4927yZsy9"
       },
@@ -7342,7 +7396,7 @@
       ],
       "date_added": "2024-09-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-27",
       "duration_ms": 184761,
       "name": "oxygen",
       "url": "https://open.spotify.com/track/2mi0tvl5H88Z7hVvQVA27T"
@@ -9596,7 +9650,7 @@
       ],
       "date_added": "2025-11-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-27",
       "duration_ms": 227651,
       "name": "The World (AR)",
       "url": "https://open.spotify.com/track/7yNz3NhMVoWP4g7zqdEvns"

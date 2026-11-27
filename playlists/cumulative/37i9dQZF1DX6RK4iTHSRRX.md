@@ -4,7 +4,7 @@
 
 > Instrumental acoustic guitar renditions of the Christmas songs you love.
 
-161 songs - 6 hr 36 min
+162 songs - 6 hr 38 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -99,6 +99,7 @@
 | [Joy To The World \- Acoustic Guitar](https://open.spotify.com/track/6SKzR8spoKFfgeNPNcOLxe) | [Merry Pines](https://open.spotify.com/artist/5R2MLk0AVIoRCxZ6JvamzW) | [Home For The Holidays \(Acoustic Guitar\)](https://open.spotify.com/album/0FsvvymDjPfsKaDNvmYVQk) | 3:23 | 2024-11-06 | 2025-12-04 |
 | [Last Christmas](https://open.spotify.com/track/2bMTaFsvRxO05fjCKEc0Sn) | [Constance Timon](https://open.spotify.com/artist/5svEYMmK1IFN983jkqrG7f) | [Last Christmas](https://open.spotify.com/album/7c8HuqoBKlSFFIDhJS1ehD) | 1:57 | 2021-12-22 |  |
 | [Last Christmas \- Acoustic Guitar](https://open.spotify.com/track/31Go9Hns7JRuWWlmXYYinU) | [Byron Wolfe](https://open.spotify.com/artist/5FnRSMJOiTQUGkNRfOaJYm) | [Last Christmas & O Holy Night \(Acoustic Guitar\)](https://open.spotify.com/album/2rBIk1W6679h4AGtUClArQ) | 4:40 | 2024-11-26 |  |
+| [Leise rieselt der Schnee \(Arr\. for Guitar by Rosie Bennet\)](https://open.spotify.com/track/5ORzKoSdn9Ji4ymDfwLcOQ) | [Traditional](https://open.spotify.com/artist/1U5zgr455OGyIkLNXvDdrf), [Rosie Bennet](https://open.spotify.com/artist/0kiQ1OKhXM3wmO6IGpJM7E) | [Leise rieselt der Schnee \(Arr\. for Guitar by Rosie Bennet\)](https://open.spotify.com/album/6AZTfgw92E71JufqXHC0uk) | 1:56 | 2026-11-27 |  |
 | [Let It Snow](https://open.spotify.com/track/7nD6zoYPL1ShkHwcsev9DV) | [Samuel Kahn](https://open.spotify.com/artist/2kgaihMoGZ9AeL17aug2Fb) | [Christmas Acoustic](https://open.spotify.com/album/4GEU8iOMl6c38XpYY1mesV) | 3:02 | 2021-12-22 | 2025-12-20 |
 | [Let It Snow](https://open.spotify.com/track/3CYQ5CLgRMAIZcriPtkOfF) | [Still Tides](https://open.spotify.com/artist/4DnWRs5XJ6CES9GbwP0BNP) | [Let It Snow](https://open.spotify.com/album/4FI4gSfytb5pqvImHDHtYC) | 2:29 | 2024-10-01 |  |
 | [Let It Snow](https://open.spotify.com/track/5fPCSBZG92XJUO6zKO9HZm) | [Tomas North](https://open.spotify.com/artist/1JfHydBw6fmjakoFxPjDbF) | [Let It Snow](https://open.spotify.com/album/6V0uJJo3OteLEvvsx9ZWhA) | 2:26 | 2022-11-11 | 2023-09-14 |

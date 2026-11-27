@@ -4,7 +4,7 @@
 
 > Gospel songs to get you in the spirit\. Whether you are happy or need company to feel better, this is the right one! Cover:  Celestine Donkor
 
-850 songs - 3 day 0 hr 31 min
+851 songs - 3 day 0 hr 37 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -140,6 +140,7 @@
 | [Devotion](https://open.spotify.com/track/1K18rK11klBImZNILVXOiH) | [LAMB CULTURE.](https://open.spotify.com/artist/7ekDyLis0zh78DffR8wjW9), [Jenge](https://open.spotify.com/artist/7u3MaCiypw3nu7mhEvFtdT), [Asha Elia](https://open.spotify.com/artist/60CbU4u8dlhoHzRCNhTA1S) | [Devotion](https://open.spotify.com/album/6VQFhI9PQFcpzgkcH6bioA) | 2:45 | 2023-06-30 | 2023-07-07 |
 | [Dey Pray](https://open.spotify.com/track/1yiah3DJ495GGyfoafP2rk) | [Preye Odede](https://open.spotify.com/artist/7Aqgu2MNhHNHobtzJB1DlK), [Prinx Emmanuel](https://open.spotify.com/artist/4HzpHfHz3EznjI4icnTvRz) | [Dey Pray](https://open.spotify.com/album/7gmh0bY9iZ9zIhCyFz5SSt) | 3:12 | 2026-02-06 | 2026-02-27 |
 | [Dey With Me](https://open.spotify.com/track/3RsuXvFRSdYeQJP4nUHyit) | [NW.FRGVN](https://open.spotify.com/artist/75hGaBbLe3tUa4CHSEB3mu), [Blesside](https://open.spotify.com/artist/6XP3o5zMuprWMDuBVLny32) | [Dey With Me](https://open.spotify.com/album/5MksVoxutqJuEPoUqW191D) | 1:49 | 2026-08-21 | 2026-08-28 |
+| [Dis One](https://open.spotify.com/track/3tmXmtN7u95t9aml3jh4oq) | [Sinach](https://open.spotify.com/artist/6hKHFC67DZJNw9tg1l0lIe) | [Dis One](https://open.spotify.com/album/6XoztUqwQmWcBYnzuoKRFH) | 5:50 | 2026-11-27 |  |
 | [Do It Now \(Agbanilagbatan\)](https://open.spotify.com/track/66lY1eeYhJeQKrrLLFkddD) | [Limoblaze](https://open.spotify.com/artist/0liXA3xwx6pncxYQA30ahT), [Joe L Barnes](https://open.spotify.com/artist/5nO7Yt0Jon48sqKR6VME4T) | [Do It Now \(Agbanilagbatan\)](https://open.spotify.com/album/4tk0aBwh1JrVWyPwoJzlCw) | 4:39 | 2025-10-03 | 2026-11-23 |
 | [Do to Me What You Want](https://open.spotify.com/track/4DubS31RXrubsxE486uBPi) | [Dunsin Oyekan](https://open.spotify.com/artist/49BZ6sJNhvubVBsomYuLFM) | [Do to Me What You Want](https://open.spotify.com/album/5HHnscBoj1SIt7FIDtSi6c) | 11:54 | 2024-02-16 | 2024-03-22 |
 | [Don't Worry Be Happy \- Osadandaula \(Gospel Cover\)](https://open.spotify.com/track/5sa0OZkL9IuJDHudk6rQn9) | [Annette Nandine](https://open.spotify.com/artist/0euQcM7EekIFq5VcIRyyrt), [Nathaniel Chaluchalu](https://open.spotify.com/artist/0xlxcrciibiWqrtdrYoy18) | [Don't Worry Be Happy \- Osadandaula \(Gospel Cover\)](https://open.spotify.com/album/2jxG8W8Gw0ojAYLF7OoCbH) | 2:57 | 2025-12-26 | 2026-01-15 |
@@ -765,7 +766,7 @@
 | [Walk On Water \- Live](https://open.spotify.com/track/7fZfxFBVBko3TfSSQvgFTX) | [kaestrings](https://open.spotify.com/artist/7eEP4TA1RioDH3OBKPcQEC) | [Walk On Water \(Live\)](https://open.spotify.com/album/1G24vc9iGCGr77IELGJnGW) | 8:58 | 2026-01-30 |  |
 | [Walk With God](https://open.spotify.com/track/6BTaPFXJ1lhHsuj9mZ0WOX) | [Vic Lucas](https://open.spotify.com/artist/5XJm3bzY74v1IEmIc6S5jG) | [Walk With God](https://open.spotify.com/album/5AHCUzq7E6QfhuKsezRC51) | 3:22 | 2026-06-26 | 2026-08-28 |
 | [Walking In The Light](https://open.spotify.com/track/4QtjlWmeSApfxBStLpbE4J) | [yoyo michael](https://open.spotify.com/artist/2UJIApZoVW4enFYjW39Tfv), [Soltune](https://open.spotify.com/artist/1PFwvjnnz3gPAAJvmhY9fq) | [Sound From The South](https://open.spotify.com/album/3qhYnMrI5u6t7eZcL6eGQJ) | 2:48 | 2026-04-10 | 2026-05-22 |
-| [Want to Grow](https://open.spotify.com/track/53y4ULVul9iY3XnUx5720J) | [Gaise Baba](https://open.spotify.com/artist/5pFY8yo0PDefGs7laYnNwo) | [Want to Grow](https://open.spotify.com/album/7znFZ68eRO9ACn3uxkUQEo) | 3:09 | 2026-05-22 |  |
+| [Want to Grow](https://open.spotify.com/track/53y4ULVul9iY3XnUx5720J) | [Gaise Baba](https://open.spotify.com/artist/5pFY8yo0PDefGs7laYnNwo) | [Want to Grow](https://open.spotify.com/album/7znFZ68eRO9ACn3uxkUQEo) | 3:09 | 2026-05-22 | 2026-11-27 |
 | [Wassup With You](https://open.spotify.com/track/1cXeYd3QiBm9vyUYnB36ph) | [Cee Sharp](https://open.spotify.com/artist/7tMTp2fNbzt8HANDTADOiM), [Greatman Takit](https://open.spotify.com/artist/47oK1JYR8A9TABs010suzH) | [Wassup With You](https://open.spotify.com/album/3tdu6XYFfP2B3CBMlkqr2w) | 2:32 | 2025-08-01 | 2025-08-22 |
 | [Watching All over Me](https://open.spotify.com/track/6TMZINReRMSLQUP9iWi1HQ) | [Chike](https://open.spotify.com/artist/6zK1M4TcabpLQMNmmG2P0Q), [Ada Ehi](https://open.spotify.com/artist/27aJyju2K5sLLiCgZKemnt) | [Watching All over Me](https://open.spotify.com/album/3Ggx3rwJl4LK0T8UmhCBnL) | 3:10 | 2022-06-09 | 2025-06-18 |
 | [Water](https://open.spotify.com/track/5Jm5QshUTNdD2CdLmiIp4X) | [Churemi](https://open.spotify.com/artist/70HahwExpgNFLm3YKUkiiO) | [Water](https://open.spotify.com/album/4ZtOVtiMJdFYtVguJqG6xk) | 3:03 | 2025-05-09 | 2025-05-30 |

@@ -1,6 +1,6 @@
 {
   "description": "Get the chill vibes going and flowing \u2728 Las vibras tranqui que ocupas en tu vida.",
-  "num_followers": 880110,
+  "num_followers": 880033,
   "original_name": "chill latino",
   "owner": {
     "name": "Spotify",
@@ -311,22 +311,6 @@
     {
       "added_at": "2026-09-18 04:02:12",
       "album": {
-        "name": "Un D\u00eda A La Vez",
-        "url": "https://open.spotify.com/album/4kcxAdBocSXh8pz7fSqFXJ"
-      },
-      "artists": [
-        {
-          "name": "Mario Puglia",
-          "url": "https://open.spotify.com/artist/3TTSyoNDmtiQ8jSpELHinT"
-        }
-      ],
-      "duration_ms": 160106,
-      "name": "Eucalipto",
-      "url": "https://open.spotify.com/track/4JFZ0ilVg7CenXhnDcJb4u"
-    },
-    {
-      "added_at": "2026-09-18 04:02:12",
-      "album": {
         "name": "durmiendo con la luz prendida",
         "url": "https://open.spotify.com/album/7kyXGS8FVbNDbX9ijc7y8B"
       },
@@ -339,6 +323,22 @@
       "duration_ms": 177629,
       "name": "Ciudades Gemelas",
       "url": "https://open.spotify.com/track/3DuYff17xmHhGJjY8G8lYU"
+    },
+    {
+      "added_at": "2026-09-18 04:02:12",
+      "album": {
+        "name": "Un D\u00eda A La Vez",
+        "url": "https://open.spotify.com/album/4kcxAdBocSXh8pz7fSqFXJ"
+      },
+      "artists": [
+        {
+          "name": "Mario Puglia",
+          "url": "https://open.spotify.com/artist/3TTSyoNDmtiQ8jSpELHinT"
+        }
+      ],
+      "duration_ms": 160106,
+      "name": "Eucalipto",
+      "url": "https://open.spotify.com/track/4JFZ0ilVg7CenXhnDcJb4u"
     },
     {
       "added_at": "2026-09-18 04:02:12",
@@ -519,22 +519,6 @@
     {
       "added_at": "2026-09-18 04:02:12",
       "album": {
-        "name": "aguasanta",
-        "url": "https://open.spotify.com/album/4ZQiFsFnhbAE4nZ71W1rgT"
-      },
-      "artists": [
-        {
-          "name": "juliocesar",
-          "url": "https://open.spotify.com/artist/77dml5NtjT51Wrzcvang7o"
-        }
-      ],
-      "duration_ms": 192525,
-      "name": "aguasanta",
-      "url": "https://open.spotify.com/track/0rtq7E0ExwP4GqDg4Mwzyc"
-    },
-    {
-      "added_at": "2026-09-18 04:02:12",
-      "album": {
         "name": "Fogata",
         "url": "https://open.spotify.com/album/0BEdljhMIuLrTrulOoT0ry"
       },
@@ -551,6 +535,22 @@
       "duration_ms": 173200,
       "name": "Fogata",
       "url": "https://open.spotify.com/track/0jniFtpAyWN1hCtQdTllSg"
+    },
+    {
+      "added_at": "2026-09-18 04:02:12",
+      "album": {
+        "name": "aguasanta",
+        "url": "https://open.spotify.com/album/4ZQiFsFnhbAE4nZ71W1rgT"
+      },
+      "artists": [
+        {
+          "name": "juliocesar",
+          "url": "https://open.spotify.com/artist/77dml5NtjT51Wrzcvang7o"
+        }
+      ],
+      "duration_ms": 192525,
+      "name": "aguasanta",
+      "url": "https://open.spotify.com/track/0rtq7E0ExwP4GqDg4Mwzyc"
     },
     {
       "added_at": "2026-09-18 04:02:12",
@@ -575,6 +575,22 @@
     {
       "added_at": "2026-09-18 04:02:12",
       "album": {
+        "name": "Soy capaz",
+        "url": "https://open.spotify.com/album/0iRDEkUzhawgH0wKfIW5iT"
+      },
+      "artists": [
+        {
+          "name": "Pablo Albor\u00e1n",
+          "url": "https://open.spotify.com/artist/5M9Bb4adKAgrOFOhc05Y50"
+        }
+      ],
+      "duration_ms": 205452,
+      "name": "Soy capaz",
+      "url": "https://open.spotify.com/track/1fW4YuVGQWPxDRh7mH2JYF"
+    },
+    {
+      "added_at": "2026-09-18 04:02:12",
+      "album": {
         "name": "(pablo)",
         "url": "https://open.spotify.com/album/0IYvugDtQZMtKmePc4N2UZ"
       },
@@ -591,22 +607,6 @@
       "duration_ms": 198351,
       "name": "(pablo)",
       "url": "https://open.spotify.com/track/1XSW7SenbLKKkRVvmmkoEo"
-    },
-    {
-      "added_at": "2026-09-18 04:02:12",
-      "album": {
-        "name": "Soy capaz",
-        "url": "https://open.spotify.com/album/0iRDEkUzhawgH0wKfIW5iT"
-      },
-      "artists": [
-        {
-          "name": "Pablo Albor\u00e1n",
-          "url": "https://open.spotify.com/artist/5M9Bb4adKAgrOFOhc05Y50"
-        }
-      ],
-      "duration_ms": 205452,
-      "name": "Soy capaz",
-      "url": "https://open.spotify.com/track/1fW4YuVGQWPxDRh7mH2JYF"
     },
     {
       "added_at": "2026-09-18 04:02:12",
@@ -667,30 +667,6 @@
     {
       "added_at": "2026-09-18 04:02:12",
       "album": {
-        "name": "pa' que sue\u00f1es",
-        "url": "https://open.spotify.com/album/1bGXKrzpyFq1TVzNOr6Fbq"
-      },
-      "artists": [
-        {
-          "name": "Yorghaki",
-          "url": "https://open.spotify.com/artist/4eq1q0o9XPyNq9RG3fNDD1"
-        },
-        {
-          "name": "Danny Schiller",
-          "url": "https://open.spotify.com/artist/6Jrjs10cg0Sf0uMzLjfraC"
-        },
-        {
-          "name": "Gus",
-          "url": "https://open.spotify.com/artist/3tQrRoZiGXR5uMkaCYf8S4"
-        }
-      ],
-      "duration_ms": 170795,
-      "name": "pa' que sue\u00f1es",
-      "url": "https://open.spotify.com/track/4KuSic9vPLVLgB5lCfeFQy"
-    },
-    {
-      "added_at": "2026-09-18 04:02:12",
-      "album": {
         "name": "un mensaje de voz (feat. Elsa y Elmar)",
         "url": "https://open.spotify.com/album/4yxdgyxOzVIagRRZ5PT0XP"
       },
@@ -743,6 +719,30 @@
     {
       "added_at": "2026-09-18 04:02:12",
       "album": {
+        "name": "pa' que sue\u00f1es",
+        "url": "https://open.spotify.com/album/1bGXKrzpyFq1TVzNOr6Fbq"
+      },
+      "artists": [
+        {
+          "name": "Yorghaki",
+          "url": "https://open.spotify.com/artist/4eq1q0o9XPyNq9RG3fNDD1"
+        },
+        {
+          "name": "Danny Schiller",
+          "url": "https://open.spotify.com/artist/6Jrjs10cg0Sf0uMzLjfraC"
+        },
+        {
+          "name": "Gus",
+          "url": "https://open.spotify.com/artist/3tQrRoZiGXR5uMkaCYf8S4"
+        }
+      ],
+      "duration_ms": 170795,
+      "name": "pa' que sue\u00f1es",
+      "url": "https://open.spotify.com/track/4KuSic9vPLVLgB5lCfeFQy"
+    },
+    {
+      "added_at": "2026-09-18 04:02:12",
+      "album": {
         "name": "Cuando Los Ac\u00e9falos Predominan",
         "url": "https://open.spotify.com/album/2iTJbyuvWzN0GCRRYFOqxW"
       },
@@ -755,22 +755,6 @@
       "duration_ms": 321019,
       "name": "Camarones y Viniles",
       "url": "https://open.spotify.com/track/2SvgidjfDiljFRq84m0t1S"
-    },
-    {
-      "added_at": "2026-09-18 04:02:12",
-      "album": {
-        "name": "El Patio",
-        "url": "https://open.spotify.com/album/72cn2tHaOSrNwNioPNfA31"
-      },
-      "artists": [
-        {
-          "name": "Chill&Go",
-          "url": "https://open.spotify.com/artist/6EE1OjZRlv4jJJ1bUUvp5h"
-        }
-      ],
-      "duration_ms": 260000,
-      "name": "Cumbiero",
-      "url": "https://open.spotify.com/track/0s5YhDYLPpCoGiGiksxDtm"
     },
     {
       "added_at": "2026-09-18 04:02:12",
@@ -791,6 +775,22 @@
       "duration_ms": 231724,
       "name": "Lluvia",
       "url": "https://open.spotify.com/track/0kq1HuBQzWPJfC2qXQfeTK"
+    },
+    {
+      "added_at": "2026-09-18 04:02:12",
+      "album": {
+        "name": "El Patio",
+        "url": "https://open.spotify.com/album/72cn2tHaOSrNwNioPNfA31"
+      },
+      "artists": [
+        {
+          "name": "Chill&Go",
+          "url": "https://open.spotify.com/artist/6EE1OjZRlv4jJJ1bUUvp5h"
+        }
+      ],
+      "duration_ms": 260000,
+      "name": "Cumbiero",
+      "url": "https://open.spotify.com/track/0s5YhDYLPpCoGiGiksxDtm"
     },
     {
       "added_at": "2026-09-18 04:02:12",
@@ -843,6 +843,22 @@
     {
       "added_at": "2026-09-18 04:02:12",
       "album": {
+        "name": "beat relajado para estudiar",
+        "url": "https://open.spotify.com/album/0oGR5f3UEt0T1J050dRtMx"
+      },
+      "artists": [
+        {
+          "name": "Little Jesus",
+          "url": "https://open.spotify.com/artist/5p1ARDx76hnOXoeigLIKit"
+        }
+      ],
+      "duration_ms": 250160,
+      "name": "beat relajado para estudiar",
+      "url": "https://open.spotify.com/track/5jA4Rtkye6Oel04XL1B0YP"
+    },
+    {
+      "added_at": "2026-09-18 04:02:12",
+      "album": {
         "name": "RIO",
         "url": "https://open.spotify.com/album/0qoMSm1kpFmBKiUfNRwcZ7"
       },
@@ -855,6 +871,22 @@
       "duration_ms": 215687,
       "name": "RIO",
       "url": "https://open.spotify.com/track/0OF8EmVU6D8bEdSS0eJtCB"
+    },
+    {
+      "added_at": "2026-09-18 04:02:12",
+      "album": {
+        "name": "Siempre tengo sue\u00f1o",
+        "url": "https://open.spotify.com/album/4yUFJKvE11HBabznJjKRt3"
+      },
+      "artists": [
+        {
+          "name": "Cardellino",
+          "url": "https://open.spotify.com/artist/7HFja6X48hWE58m3pQnGV0"
+        }
+      ],
+      "duration_ms": 165909,
+      "name": "Siempre tengo sue\u00f1o",
+      "url": "https://open.spotify.com/track/7kE9OWd9b7mFOA9GUXVMpX"
     },
     {
       "added_at": "2026-09-18 04:02:12",
@@ -879,22 +911,6 @@
     {
       "added_at": "2026-09-18 04:02:12",
       "album": {
-        "name": "beat relajado para estudiar",
-        "url": "https://open.spotify.com/album/0oGR5f3UEt0T1J050dRtMx"
-      },
-      "artists": [
-        {
-          "name": "Little Jesus",
-          "url": "https://open.spotify.com/artist/5p1ARDx76hnOXoeigLIKit"
-        }
-      ],
-      "duration_ms": 250160,
-      "name": "beat relajado para estudiar",
-      "url": "https://open.spotify.com/track/5jA4Rtkye6Oel04XL1B0YP"
-    },
-    {
-      "added_at": "2026-09-18 04:02:12",
-      "album": {
         "name": "GOTEO",
         "url": "https://open.spotify.com/album/5ItnrdKLPrJzahQHZwjmYy"
       },
@@ -907,22 +923,6 @@
       "duration_ms": 230540,
       "name": "MI TODO",
       "url": "https://open.spotify.com/track/7tpc8frJ3Kcm5Epq6VHeeP"
-    },
-    {
-      "added_at": "2026-09-18 04:02:12",
-      "album": {
-        "name": "Siempre tengo sue\u00f1o",
-        "url": "https://open.spotify.com/album/4yUFJKvE11HBabznJjKRt3"
-      },
-      "artists": [
-        {
-          "name": "Cardellino",
-          "url": "https://open.spotify.com/artist/7HFja6X48hWE58m3pQnGV0"
-        }
-      ],
-      "duration_ms": 165909,
-      "name": "Siempre tengo sue\u00f1o",
-      "url": "https://open.spotify.com/track/7kE9OWd9b7mFOA9GUXVMpX"
     },
     {
       "added_at": "2026-09-18 04:02:12",
@@ -1051,22 +1051,6 @@
     {
       "added_at": "2026-09-18 04:02:12",
       "album": {
-        "name": "IRENE ALEJANDRA",
-        "url": "https://open.spotify.com/album/1EtK1Zju9gAMz9uoQ0q9rb"
-      },
-      "artists": [
-        {
-          "name": "Irepelusa",
-          "url": "https://open.spotify.com/artist/3KaNWDYObY73SDpcZBRzuw"
-        }
-      ],
-      "duration_ms": 106736,
-      "name": "cAnAimA",
-      "url": "https://open.spotify.com/track/2LKpAspoJbTagy6HdHsU7L"
-    },
-    {
-      "added_at": "2026-09-18 04:02:12",
-      "album": {
         "name": "Iridiscente",
         "url": "https://open.spotify.com/album/6PksDOysvcluD0wAfNSCxB"
       },
@@ -1079,6 +1063,22 @@
       "duration_ms": 180320,
       "name": "Puente",
       "url": "https://open.spotify.com/track/6mQzYeBnZZTZjfXtQ2EHC2"
+    },
+    {
+      "added_at": "2026-09-18 04:02:12",
+      "album": {
+        "name": "IRENE ALEJANDRA",
+        "url": "https://open.spotify.com/album/1EtK1Zju9gAMz9uoQ0q9rb"
+      },
+      "artists": [
+        {
+          "name": "Irepelusa",
+          "url": "https://open.spotify.com/artist/3KaNWDYObY73SDpcZBRzuw"
+        }
+      ],
+      "duration_ms": 106736,
+      "name": "cAnAimA",
+      "url": "https://open.spotify.com/track/2LKpAspoJbTagy6HdHsU7L"
     },
     {
       "added_at": "2026-09-18 04:02:12",
@@ -1147,30 +1147,6 @@
     {
       "added_at": "2026-09-18 04:02:12",
       "album": {
-        "name": "fr\u00edo",
-        "url": "https://open.spotify.com/album/1KNTUzCpkgLV9v7lgHdPmT"
-      },
-      "artists": [
-        {
-          "name": "Gus",
-          "url": "https://open.spotify.com/artist/3tQrRoZiGXR5uMkaCYf8S4"
-        },
-        {
-          "name": "Yorghaki",
-          "url": "https://open.spotify.com/artist/4eq1q0o9XPyNq9RG3fNDD1"
-        },
-        {
-          "name": "Luisa",
-          "url": "https://open.spotify.com/artist/4pQdwpmOtVV6iLgWjoEr6z"
-        }
-      ],
-      "duration_ms": 278490,
-      "name": "fr\u00edo",
-      "url": "https://open.spotify.com/track/0V6H31xM6WbPL1Bjsiqplx"
-    },
-    {
-      "added_at": "2026-09-18 04:02:12",
-      "album": {
         "name": "D\u00e9jame Decir Te Quiero",
         "url": "https://open.spotify.com/album/3BxYz7JYPTS8LIIWkTvdhF"
       },
@@ -1203,6 +1179,30 @@
       "duration_ms": 192933,
       "name": "a los 20",
       "url": "https://open.spotify.com/track/7gW7MA6kZEggEhB6mWGEp9"
+    },
+    {
+      "added_at": "2026-09-18 04:02:12",
+      "album": {
+        "name": "fr\u00edo",
+        "url": "https://open.spotify.com/album/1KNTUzCpkgLV9v7lgHdPmT"
+      },
+      "artists": [
+        {
+          "name": "Gus",
+          "url": "https://open.spotify.com/artist/3tQrRoZiGXR5uMkaCYf8S4"
+        },
+        {
+          "name": "Yorghaki",
+          "url": "https://open.spotify.com/artist/4eq1q0o9XPyNq9RG3fNDD1"
+        },
+        {
+          "name": "Luisa",
+          "url": "https://open.spotify.com/artist/4pQdwpmOtVV6iLgWjoEr6z"
+        }
+      ],
+      "duration_ms": 278490,
+      "name": "fr\u00edo",
+      "url": "https://open.spotify.com/track/0V6H31xM6WbPL1Bjsiqplx"
     },
     {
       "added_at": "2026-09-18 04:02:12",
@@ -1375,22 +1375,6 @@
     {
       "added_at": "2026-09-18 04:02:12",
       "album": {
-        "name": "La Espa\u00f1ola",
-        "url": "https://open.spotify.com/album/44oN5bmalA3nOV0TQfJD64"
-      },
-      "artists": [
-        {
-          "name": "Ana Mancebo",
-          "url": "https://open.spotify.com/artist/2jc3R2Jcr4J78KeYt71Epd"
-        }
-      ],
-      "duration_ms": 170743,
-      "name": "Me Quiere No Me Quiere",
-      "url": "https://open.spotify.com/track/3S78B1sxAChnS4IR9o29rA"
-    },
-    {
-      "added_at": "2026-09-18 04:02:12",
-      "album": {
         "name": "Nadie Nos Entiende",
         "url": "https://open.spotify.com/album/6Vbahwg4jyo7Z64F8z9Ky2"
       },
@@ -1407,6 +1391,22 @@
       "duration_ms": 217373,
       "name": "Nadie Nos Entiende",
       "url": "https://open.spotify.com/track/0lvQ5BPdyuOKqNqhptZsrA"
+    },
+    {
+      "added_at": "2026-09-18 04:02:12",
+      "album": {
+        "name": "La Espa\u00f1ola",
+        "url": "https://open.spotify.com/album/44oN5bmalA3nOV0TQfJD64"
+      },
+      "artists": [
+        {
+          "name": "Ana Mancebo",
+          "url": "https://open.spotify.com/artist/2jc3R2Jcr4J78KeYt71Epd"
+        }
+      ],
+      "duration_ms": 170743,
+      "name": "Me Quiere No Me Quiere",
+      "url": "https://open.spotify.com/track/3S78B1sxAChnS4IR9o29rA"
     },
     {
       "added_at": "2026-09-18 04:02:12",
@@ -1443,26 +1443,6 @@
     {
       "added_at": "2026-09-18 04:02:12",
       "album": {
-        "name": "Hace Mucho",
-        "url": "https://open.spotify.com/album/4eyZx0Fk5OPx6HqhDupAkl"
-      },
-      "artists": [
-        {
-          "name": "jame minogue",
-          "url": "https://open.spotify.com/artist/0zzKHfNZYWeOjJpHdhT1Ck"
-        },
-        {
-          "name": "Chicocurlyhead",
-          "url": "https://open.spotify.com/artist/4EzUsFLITcQxDuuDeADaV1"
-        }
-      ],
-      "duration_ms": 196909,
-      "name": "Hace Mucho",
-      "url": "https://open.spotify.com/track/04gW4DqauMsrec4IJN6swN"
-    },
-    {
-      "added_at": "2026-09-18 04:02:12",
-      "album": {
         "name": "Toma Mi Mano",
         "url": "https://open.spotify.com/album/4RYwM9s2eKNtcj6ErnLirj"
       },
@@ -1483,6 +1463,26 @@
     {
       "added_at": "2026-09-18 04:02:12",
       "album": {
+        "name": "Hace Mucho",
+        "url": "https://open.spotify.com/album/4eyZx0Fk5OPx6HqhDupAkl"
+      },
+      "artists": [
+        {
+          "name": "jame minogue",
+          "url": "https://open.spotify.com/artist/0zzKHfNZYWeOjJpHdhT1Ck"
+        },
+        {
+          "name": "Chicocurlyhead",
+          "url": "https://open.spotify.com/artist/4EzUsFLITcQxDuuDeADaV1"
+        }
+      ],
+      "duration_ms": 196909,
+      "name": "Hace Mucho",
+      "url": "https://open.spotify.com/track/04gW4DqauMsrec4IJN6swN"
+    },
+    {
+      "added_at": "2026-09-18 04:02:12",
+      "album": {
         "name": "Lo que escrib\u00ed mientras no estabas :)",
         "url": "https://open.spotify.com/album/4oJqkH55g9SByDb6H8vwZc"
       },
@@ -1495,6 +1495,22 @@
       "duration_ms": 152256,
       "name": "5 letras, 2 palabras",
       "url": "https://open.spotify.com/track/4s3nqWkbqSisNpdrAPIwn3"
+    },
+    {
+      "added_at": "2026-09-18 04:02:12",
+      "album": {
+        "name": "La Puerta",
+        "url": "https://open.spotify.com/album/0R02eSlXL3wZo5TceCaSoP"
+      },
+      "artists": [
+        {
+          "name": "Chill Akiles",
+          "url": "https://open.spotify.com/artist/7DWBR7jipfQ89DO1cUjuGL"
+        }
+      ],
+      "duration_ms": 188176,
+      "name": "La Puerta",
+      "url": "https://open.spotify.com/track/3Ho9gVgoyi6CLS2vYqVtBt"
     },
     {
       "added_at": "2026-09-18 04:02:12",
@@ -1515,22 +1531,6 @@
       "duration_ms": 192599,
       "name": "Flores Frescas",
       "url": "https://open.spotify.com/track/7nuZO15vxH0T8MtThmfjLC"
-    },
-    {
-      "added_at": "2026-09-18 04:02:12",
-      "album": {
-        "name": "La Puerta",
-        "url": "https://open.spotify.com/album/0R02eSlXL3wZo5TceCaSoP"
-      },
-      "artists": [
-        {
-          "name": "Chill Akiles",
-          "url": "https://open.spotify.com/artist/7DWBR7jipfQ89DO1cUjuGL"
-        }
-      ],
-      "duration_ms": 188176,
-      "name": "La Puerta",
-      "url": "https://open.spotify.com/track/3Ho9gVgoyi6CLS2vYqVtBt"
     },
     {
       "added_at": "2026-09-18 04:02:12",

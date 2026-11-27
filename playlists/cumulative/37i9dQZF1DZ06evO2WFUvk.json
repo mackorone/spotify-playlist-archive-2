@@ -319,6 +319,24 @@
     },
     {
       "album": {
+        "name": "Golden Hours",
+        "url": "https://open.spotify.com/album/11cARF6VJFiRL3GNzCeCdb"
+      },
+      "artists": [
+        {
+          "name": "Rodrigo Gonzalez",
+          "url": "https://open.spotify.com/artist/511LiKYCkXD9SfHMQefuPM"
+        }
+      ],
+      "date_added": "2026-11-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 194692,
+      "name": "Golden Hours",
+      "url": "https://open.spotify.com/track/2eTqW4HE1zcVuOSk6QFPTH"
+    },
+    {
+      "album": {
         "name": "Green Sour Mints",
         "url": "https://open.spotify.com/album/7JxmGEMidHm4YZTPd8zMn9"
       },
@@ -710,6 +728,24 @@
       "duration_ms": 213920,
       "name": "Tiempo de H\u00edbridos",
       "url": "https://open.spotify.com/track/4Hf8kMwW4SEAm256nL6gbL"
+    },
+    {
+      "album": {
+        "name": "Till The Morning Comes",
+        "url": "https://open.spotify.com/album/0xd0xjiGdOcNtKs9cklvsJ"
+      },
+      "artists": [
+        {
+          "name": "Rodrigo Gonzalez",
+          "url": "https://open.spotify.com/artist/511LiKYCkXD9SfHMQefuPM"
+        }
+      ],
+      "date_added": "2026-11-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 193357,
+      "name": "Till The Morning Comes",
+      "url": "https://open.spotify.com/track/1BSipA4lrQIgMoHxKHngH3"
     },
     {
       "album": {

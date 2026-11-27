@@ -1,6 +1,6 @@
 {
   "description": "chill it out, take it slow, then you rock out the show\u2728\ud83c\udfa4",
-  "num_followers": 326000,
+  "num_followers": 326004,
   "original_name": "neon cowgirl",
   "owner": {
     "name": "Spotify",
@@ -539,22 +539,6 @@
     {
       "added_at": "2026-03-23 12:22:39",
       "album": {
-        "name": "Teenage Dream",
-        "url": "https://open.spotify.com/album/06SY6Ke6mXzZHhURLVU57R"
-      },
-      "artists": [
-        {
-          "name": "Katy Perry",
-          "url": "https://open.spotify.com/artist/6jJ0s89eD6GaHleKKya26X"
-        }
-      ],
-      "duration_ms": 230733,
-      "name": "Last Friday Night (T.G.I.F.)",
-      "url": "https://open.spotify.com/track/3oHNJECGN3bBoGXejlw2b1"
-    },
-    {
-      "added_at": "2026-03-23 12:22:39",
-      "album": {
         "name": "Manic",
         "url": "https://open.spotify.com/album/68enXe5XcJdciSDAZr0Alr"
       },
@@ -567,6 +551,22 @@
       "duration_ms": 205473,
       "name": "You should be sad",
       "url": "https://open.spotify.com/track/7lidXGPXPYLNThITAOTlkK"
+    },
+    {
+      "added_at": "2026-03-23 12:22:39",
+      "album": {
+        "name": "Teenage Dream",
+        "url": "https://open.spotify.com/album/06SY6Ke6mXzZHhURLVU57R"
+      },
+      "artists": [
+        {
+          "name": "Katy Perry",
+          "url": "https://open.spotify.com/artist/6jJ0s89eD6GaHleKKya26X"
+        }
+      ],
+      "duration_ms": 230733,
+      "name": "Last Friday Night (T.G.I.F.)",
+      "url": "https://open.spotify.com/track/3oHNJECGN3bBoGXejlw2b1"
     },
     {
       "added_at": "2026-03-23 12:22:39",

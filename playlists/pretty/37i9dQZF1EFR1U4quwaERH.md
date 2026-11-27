@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFR1U4quwaERH.md) - [plain]
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/0B0BPkmlJbG5tsDwTUUcBq">Blush</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 203 likes - 108 songs - 5 hr 47 min
+[Spotify](https://open.spotify.com/user/spotify) - 204 likes - 108 songs - 5 hr 47 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -72,8 +72,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFR1U4quwaERH.md) - [plain]
 | 62 | [Undefeated](https://open.spotify.com/track/0HY3TAkkSFpPie38DG8wiB) | [Rayana Jay](https://open.spotify.com/artist/1kh0AypxF3CxMMzmQyif2S) | [Undefeated](https://open.spotify.com/album/342jT3kHiTgpV7CWV4ja9k) | 2:54 |
 | 63 | [Want Love](https://open.spotify.com/track/0dxjbuwxOFFYFIPlsOhcPw) | [Mary J\. Blige](https://open.spotify.com/artist/1XkoF8ryArs86LZvFOkbyr) | [Want Love](https://open.spotify.com/album/4Vuu72qzPAzs6gIBio67hf) | 3:20 |
 | 64 | [Me & You](https://open.spotify.com/track/5DrTqSTve2iaCSWuyyJZ4y) | [Empire Cast](https://open.spotify.com/artist/7EjxNoVjXo7gL73F2EdXVA), [Yazz](https://open.spotify.com/artist/1K8bWL1GnTW0b51YZOEANS), [Rhyon Brown](https://open.spotify.com/artist/5jwCDGKUT2wrfp8yAu8Qob) | [Empire \(Season 6, Born to Love You\) \[Music from the TV Series\]](https://open.spotify.com/album/3soKDu1ZCsRvNNPHzNyzli) | 2:29 |
-| 65 | [Growing Pains](https://open.spotify.com/track/4vmJnDCxNiT1tRycUwwEuT) | [BRELAND](https://open.spotify.com/artist/0C86lmpnwiyLDUiyo4d0P1) | [Cross Country](https://open.spotify.com/album/3I72c7nfxXdDDSPF04opm0) | 2:41 |
-| 66 | [Try](https://open.spotify.com/track/3JUcAOTMhZ5U8FFLvDPxGT) | [Naomi Sharon](https://open.spotify.com/artist/27WVFBOddxovimxMmBN4fb) | [No Sleep In Paradise](https://open.spotify.com/album/1P85Y6niCUJ0ZQyIoRMaHg) | 3:06 |
+| 65 | [Try](https://open.spotify.com/track/3JUcAOTMhZ5U8FFLvDPxGT) | [Naomi Sharon](https://open.spotify.com/artist/27WVFBOddxovimxMmBN4fb) | [No Sleep In Paradise](https://open.spotify.com/album/1P85Y6niCUJ0ZQyIoRMaHg) | 3:06 |
+| 66 | [Growing Pains](https://open.spotify.com/track/4vmJnDCxNiT1tRycUwwEuT) | [BRELAND](https://open.spotify.com/artist/0C86lmpnwiyLDUiyo4d0P1) | [Cross Country](https://open.spotify.com/album/3I72c7nfxXdDDSPF04opm0) | 2:41 |
 | 67 | [If You Wanted To You Would](https://open.spotify.com/track/50wU2r744nTEXB7US8uj0H) | [Naomi Sharon](https://open.spotify.com/artist/27WVFBOddxovimxMmBN4fb) | [No Sleep In Paradise](https://open.spotify.com/album/1P85Y6niCUJ0ZQyIoRMaHg) | 3:11 |
 | 68 | [Just Like Jenny](https://open.spotify.com/track/5C2EPFs7ZWqARGv5qZJurY) | [Macy Gray](https://open.spotify.com/artist/4ylR3zwA0zaapAu94fktwa) | [Ruby](https://open.spotify.com/album/5ukER8Gzjr4CPSwN8fwykc) | 2:58 |
 | 69 | [Don't](https://open.spotify.com/track/2jD8MqJ4uiE5EYUicI5vCC) | [Rebecca Garton](https://open.spotify.com/artist/10SSWFHswODW4VG1y56JbL) | [Don't](https://open.spotify.com/album/1Fl0AJJlFgKlxTFzIBPczK) | 3:13 |
@@ -91,8 +91,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFR1U4quwaERH.md) - [plain]
 | 81 | [Gone](https://open.spotify.com/track/1GHTYjolrAJBkFrQJUkBui) | [India Shawn](https://open.spotify.com/artist/7g0SC4F149FUX5rKFuSpqL) | [Gone](https://open.spotify.com/album/1WpOV23Sug5gCCXSjk8Eqd) | 2:50 |
 | 82 | [Multiplicity](https://open.spotify.com/track/5FJrp4xbFzQmup3qKAl3Zd) | [India Shawn](https://open.spotify.com/artist/7g0SC4F149FUX5rKFuSpqL) | [Subject To Change](https://open.spotify.com/album/1qcVJ1Bp9CmACPIj0jmbmr) | 3:22 |
 | 83 | [What Is Beautiful \- The Voice Performance](https://open.spotify.com/track/0V9bXbDWKURDQniD7usTzO) | [Brooke Simpson](https://open.spotify.com/artist/2HMZf6yC9JzK4BDAyNl2WE) | [The Complete Season 13 Collection \(The Voice Performance\)](https://open.spotify.com/album/4GxLc7XtUPDaSoFcQh0nKt) | 3:26 |
-| 84 | [Unconditional](https://open.spotify.com/track/7BDWXrr18XcTLAdRVNwyxK) | [Ruben Studdard](https://open.spotify.com/artist/0H0yrKDty3I7pPrNUSH3wW) | [Unconditional Love \(Deluxe Edition\)](https://open.spotify.com/album/5FsbjrUkylThwjFohmcjzZ) | 3:48 |
-| 85 | [Light My Soul](https://open.spotify.com/track/0Ii3RfMvpW0IgfYusSfHLT) | [Naomi Sharon](https://open.spotify.com/artist/27WVFBOddxovimxMmBN4fb) | [No Sleep In Paradise](https://open.spotify.com/album/1P85Y6niCUJ0ZQyIoRMaHg) | 3:30 |
+| 84 | [Light My Soul](https://open.spotify.com/track/0Ii3RfMvpW0IgfYusSfHLT) | [Naomi Sharon](https://open.spotify.com/artist/27WVFBOddxovimxMmBN4fb) | [No Sleep In Paradise](https://open.spotify.com/album/1P85Y6niCUJ0ZQyIoRMaHg) | 3:30 |
+| 85 | [Unconditional](https://open.spotify.com/track/7BDWXrr18XcTLAdRVNwyxK) | [Ruben Studdard](https://open.spotify.com/artist/0H0yrKDty3I7pPrNUSH3wW) | [Unconditional Love \(Deluxe Edition\)](https://open.spotify.com/album/5FsbjrUkylThwjFohmcjzZ) | 3:48 |
 | 86 | [Walking and Whistling](https://open.spotify.com/track/680T0R2LxxBYOlkI1WCye9) | [The Toontown Tooners](https://open.spotify.com/artist/3skIyYGqzp3KSrfb2KfADr) | [Music from Mickey's Toontown](https://open.spotify.com/album/5bCGUsjittoLfG2La9JHPN) | 2:44 |
 | 87 | [Leaving](https://open.spotify.com/track/71PF1sL6JiNmeoMXcnquae) | [Naomi Sharon](https://open.spotify.com/artist/27WVFBOddxovimxMmBN4fb) | [No Sleep In Paradise](https://open.spotify.com/album/1P85Y6niCUJ0ZQyIoRMaHg) | 3:40 |
 | 88 | [New Love](https://open.spotify.com/track/1Kqg9ffdQMT47RtG59Dper) | [Shania Twain](https://open.spotify.com/artist/5e4Dhzv426EvQe3aDb64jL) | [Little Miss Twain](https://open.spotify.com/album/7wFY6xghEoqMqVi1ojvtIa) | 3:22 |
@@ -117,4 +117,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFR1U4quwaERH.md) - [plain]
 | 107 | [WADE](https://open.spotify.com/track/4oZRhm2x62qN6prKI3S4fO) | [Parker Phillips](https://open.spotify.com/artist/4G4U0Pmtl0I2JKqI7uvsJw) | [AWAKENING](https://open.spotify.com/album/4xblTWNkBQJQQF9l5p9suu) | 2:46 |
 | 108 | [Fire](https://open.spotify.com/track/3Ic9ajFl2aBmmQFXQus3Ed) | [Hawk Love](https://open.spotify.com/artist/3mNH3Eq13YnMTwo8vWwwTR) | [Fire](https://open.spotify.com/album/1h88EmeUgoP9Yjpdhz60Jh) | 4:16 |
 
-Snapshot ID: `Acip+gAAAAB9EkO4SYJULitLKA59gEEp`
+Snapshot ID: `AcivpAAAAABIwAh/LxwRvZJG3PFzT9iD`

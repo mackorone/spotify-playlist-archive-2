@@ -1,12 +1,12 @@
 {
   "description": "Olivia Dean keeps the good vibes going all day long",
-  "num_followers": 3614782,
+  "num_followers": 3614607,
   "original_name": "Good Vibes",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAACnY4Tnp1Te81rDF0Si2m2Axq4r6",
+  "snapshot_id": "AAAAANidK3M9XEo6Fw3C7NaoR1Fc4Xlf",
   "tracks": [
     {
       "added_at": "2026-11-23 15:21:42",
@@ -97,6 +97,26 @@
       "url": "https://open.spotify.com/track/2sKjOX72UX1HiCDhI2HdlR"
     },
     {
+      "added_at": "2026-11-27 05:01:09",
+      "album": {
+        "name": "Feelin You",
+        "url": "https://open.spotify.com/album/053kWUeZvDQmjchOddr1bm"
+      },
+      "artists": [
+        {
+          "name": "Cosmo's Midnight",
+          "url": "https://open.spotify.com/artist/4VivsO1n4n2Mi2Btyb5gfL"
+        },
+        {
+          "name": "Sofia D'Angelo",
+          "url": "https://open.spotify.com/artist/4dZ7XqXL0hD6rSIkUs11b5"
+        }
+      ],
+      "duration_ms": 218144,
+      "name": "Feelin You",
+      "url": "https://open.spotify.com/track/7Il3gxs20qvkdZRRB9emdN"
+    },
+    {
       "added_at": "2026-11-23 15:21:42",
       "album": {
         "name": "A Good Day",
@@ -135,6 +155,26 @@
       "duration_ms": 199044,
       "name": "Feet Don't Fail Me Now - Part 2",
       "url": "https://open.spotify.com/track/0BMtk8UjLE6GhQiBlsBzQx"
+    },
+    {
+      "added_at": "2026-11-23 15:21:42",
+      "album": {
+        "name": "The Thrill (feat. Empire of the Sun)",
+        "url": "https://open.spotify.com/album/4NtEHyzC02jvTLMERHn6Rw"
+      },
+      "artists": [
+        {
+          "name": "Wiz Khalifa",
+          "url": "https://open.spotify.com/artist/137W8MRPWKqSmrBGDBFSop"
+        },
+        {
+          "name": "Empire Of The Sun",
+          "url": "https://open.spotify.com/artist/67hb7towEyKvt5Z8Bx306c"
+        }
+      ],
+      "duration_ms": 234333,
+      "name": "The Thrill",
+      "url": "https://open.spotify.com/track/56oGoEjA9eTZYgsttEFKY3"
     },
     {
       "added_at": "2026-11-23 15:21:42",
@@ -189,6 +229,86 @@
       "url": "https://open.spotify.com/track/4o0LyB69tylqDG6eTGhmig"
     },
     {
+      "added_at": "2026-11-27 05:01:09",
+      "album": {
+        "name": "Sexy Magic (from GTAVI: The Album)",
+        "url": "https://open.spotify.com/album/0CkBYPmr1j7EEWSQMHDBLg"
+      },
+      "artists": [
+        {
+          "name": "CA7RIEL & Paco Amoroso",
+          "url": "https://open.spotify.com/artist/6I8TDGeUmmLom8auKPzMdX"
+        },
+        {
+          "name": "PinkPantheress",
+          "url": "https://open.spotify.com/artist/78rUTD7y6Cy67W1RVzYs7t"
+        },
+        {
+          "name": "Fred again..",
+          "url": "https://open.spotify.com/artist/4oLeXFyACqeem2VImYeBFe"
+        },
+        {
+          "name": "Etienne de Cr\u00e9cy ",
+          "url": "https://open.spotify.com/artist/78YRbJhMi5kXKruiQGCJo7"
+        },
+        {
+          "name": "Grand Theft Auto VI",
+          "url": "https://open.spotify.com/artist/15o7qdDTBzs6xWRUYUtZc1"
+        }
+      ],
+      "duration_ms": 195840,
+      "name": "Sexy Magic (from GTAVI: The Album)",
+      "url": "https://open.spotify.com/track/62hqNk13CuFLOpCw1cPMAF"
+    },
+    {
+      "added_at": "2026-11-23 15:21:42",
+      "album": {
+        "name": "I Want to Feel Your Love",
+        "url": "https://open.spotify.com/album/3WIcvvfMAPXQ4Y0CuGNlpG"
+      },
+      "artists": [
+        {
+          "name": "Oby Onyioha",
+          "url": "https://open.spotify.com/artist/7g3r4Cm5hY4fWM5AOVWtDY"
+        }
+      ],
+      "duration_ms": 378485,
+      "name": "Enjoy Your Life",
+      "url": "https://open.spotify.com/track/2PmT48FrSBYvqFDCRRTARH"
+    },
+    {
+      "added_at": "2026-11-23 15:21:42",
+      "album": {
+        "name": "The Romantic",
+        "url": "https://open.spotify.com/album/7vI4iTxDmgEN63liQHPEX1"
+      },
+      "artists": [
+        {
+          "name": "Bruno Mars",
+          "url": "https://open.spotify.com/artist/0du5cEVh5yTK9QJze8zA0C"
+        }
+      ],
+      "duration_ms": 174676,
+      "name": "On My Soul",
+      "url": "https://open.spotify.com/track/4i4BVY2JiH4mDSLIBdNGKD"
+    },
+    {
+      "added_at": "2026-11-23 15:21:42",
+      "album": {
+        "name": "gay allegations ft. my girlfriend",
+        "url": "https://open.spotify.com/album/25Tz6DIP1gvJwmYoou46g3"
+      },
+      "artists": [
+        {
+          "name": "OK MICKEY",
+          "url": "https://open.spotify.com/artist/5wqzQ2vZdhoZRAnvT463PC"
+        }
+      ],
+      "duration_ms": 119999,
+      "name": "gay allegations ft. my girlfriend",
+      "url": "https://open.spotify.com/track/4NDpamy9vSpyRjVRf8D6ld"
+    },
+    {
       "added_at": "2026-11-23 15:21:42",
       "album": {
         "name": "Starting From Zero (feat. Michael McDonald) [From GTAVI: Original Score]",
@@ -211,42 +331,6 @@
       "duration_ms": 190538,
       "name": "Starting From Zero (feat. Michael McDonald) [From GTAVI: Original Score]",
       "url": "https://open.spotify.com/track/1akuT1qSIAoOhpPhUxGpyR"
-    },
-    {
-      "added_at": "2026-11-23 15:21:42",
-      "album": {
-        "name": "The Thrill (feat. Empire of the Sun)",
-        "url": "https://open.spotify.com/album/4NtEHyzC02jvTLMERHn6Rw"
-      },
-      "artists": [
-        {
-          "name": "Wiz Khalifa",
-          "url": "https://open.spotify.com/artist/137W8MRPWKqSmrBGDBFSop"
-        },
-        {
-          "name": "Empire Of The Sun",
-          "url": "https://open.spotify.com/artist/67hb7towEyKvt5Z8Bx306c"
-        }
-      ],
-      "duration_ms": 234333,
-      "name": "The Thrill",
-      "url": "https://open.spotify.com/track/56oGoEjA9eTZYgsttEFKY3"
-    },
-    {
-      "added_at": "2026-11-23 15:21:42",
-      "album": {
-        "name": "gay allegations ft. my girlfriend",
-        "url": "https://open.spotify.com/album/25Tz6DIP1gvJwmYoou46g3"
-      },
-      "artists": [
-        {
-          "name": "OK MICKEY",
-          "url": "https://open.spotify.com/artist/5wqzQ2vZdhoZRAnvT463PC"
-        }
-      ],
-      "duration_ms": 119999,
-      "name": "gay allegations ft. my girlfriend",
-      "url": "https://open.spotify.com/track/4NDpamy9vSpyRjVRf8D6ld"
     },
     {
       "added_at": "2026-11-23 15:21:42",
@@ -283,22 +367,6 @@
       "duration_ms": 156066,
       "name": "TSUNAMI",
       "url": "https://open.spotify.com/track/1J6Lihuq84ZgMtxccyRG0o"
-    },
-    {
-      "added_at": "2026-11-23 15:21:42",
-      "album": {
-        "name": "The Romantic",
-        "url": "https://open.spotify.com/album/7vI4iTxDmgEN63liQHPEX1"
-      },
-      "artists": [
-        {
-          "name": "Bruno Mars",
-          "url": "https://open.spotify.com/artist/0du5cEVh5yTK9QJze8zA0C"
-        }
-      ],
-      "duration_ms": 174676,
-      "name": "On My Soul",
-      "url": "https://open.spotify.com/track/4i4BVY2JiH4mDSLIBdNGKD"
     },
     {
       "added_at": "2026-11-23 15:21:42",
@@ -397,6 +465,22 @@
       "url": "https://open.spotify.com/track/6CDzDgIUqeDY5g8ujExx2f"
     },
     {
+      "added_at": "2026-11-27 05:01:09",
+      "album": {
+        "name": "BETTER OVER TIME",
+        "url": "https://open.spotify.com/album/0Iccs76G7e4e403S9VRqiA"
+      },
+      "artists": [
+        {
+          "name": "BigXthaPlug",
+          "url": "https://open.spotify.com/artist/6qxpnaukVayrQn6ViNvu9I"
+        }
+      ],
+      "duration_ms": 159133,
+      "name": "ONE",
+      "url": "https://open.spotify.com/track/5V3CgOTXhPXuYxCFJZ0br9"
+    },
+    {
       "added_at": "2026-11-23 15:21:42",
       "album": {
         "name": "Hell N Back (feat. Summer Walker)",
@@ -415,22 +499,6 @@
       "duration_ms": 195147,
       "name": "Hell N Back (feat. Summer Walker)",
       "url": "https://open.spotify.com/track/0ZDwhNFZnPx9EIPCcwGUHC"
-    },
-    {
-      "added_at": "2026-11-23 15:21:42",
-      "album": {
-        "name": "Cucuy",
-        "url": "https://open.spotify.com/album/1QhpBrDBt9aYF0NMw8SVKU"
-      },
-      "artists": [
-        {
-          "name": "That Mexican OT",
-          "url": "https://open.spotify.com/artist/3BAgmPNIK5IJl7zMK1wvMA"
-        }
-      ],
-      "duration_ms": 214196,
-      "name": "Apple Bottom",
-      "url": "https://open.spotify.com/track/58lCbrBPDHDuQzmhzFwsG4"
     },
     {
       "added_at": "2026-11-23 15:21:42",
@@ -559,6 +627,22 @@
       "duration_ms": 194609,
       "name": "passionfruit",
       "url": "https://open.spotify.com/track/2AQtqHBl8vVm1h3cXc0VqJ"
+    },
+    {
+      "added_at": "2026-11-23 15:21:42",
+      "album": {
+        "name": "Cucuy",
+        "url": "https://open.spotify.com/album/1QhpBrDBt9aYF0NMw8SVKU"
+      },
+      "artists": [
+        {
+          "name": "That Mexican OT",
+          "url": "https://open.spotify.com/artist/3BAgmPNIK5IJl7zMK1wvMA"
+        }
+      ],
+      "duration_ms": 214196,
+      "name": "Apple Bottom",
+      "url": "https://open.spotify.com/track/58lCbrBPDHDuQzmhzFwsG4"
     },
     {
       "added_at": "2026-11-23 15:21:42",
@@ -727,42 +811,6 @@
       "duration_ms": 228360,
       "name": "My Moon My Man",
       "url": "https://open.spotify.com/track/5FFQbvn7055P1DvgJDdCBP"
-    },
-    {
-      "added_at": "2026-11-23 15:21:42",
-      "album": {
-        "name": "Moving at Light Speed",
-        "url": "https://open.spotify.com/album/1iytMWtFrdmv0koG2f6r8L"
-      },
-      "artists": [
-        {
-          "name": "Thundercat",
-          "url": "https://open.spotify.com/artist/4frXpPxQQZwbCu3eTGnZEw"
-        },
-        {
-          "name": "Button Masher",
-          "url": "https://open.spotify.com/artist/3p0OtpbgE6a46IBMirYCe3"
-        }
-      ],
-      "duration_ms": 107402,
-      "name": "Moving at Light Speed",
-      "url": "https://open.spotify.com/track/6jEO5RmiesaiY7zlQDoHq4"
-    },
-    {
-      "added_at": "2026-11-23 15:21:42",
-      "album": {
-        "name": "Melancholic Beach Town",
-        "url": "https://open.spotify.com/album/3Et2Wr15aQlTP5DNTsjRRO"
-      },
-      "artists": [
-        {
-          "name": "Pool Girl",
-          "url": "https://open.spotify.com/artist/7t7suXYznGBtoP2uCT0Wv2"
-        }
-      ],
-      "duration_ms": 218693,
-      "name": "Melancholic Beach Town",
-      "url": "https://open.spotify.com/track/56z5pldx12o3RB6puF9inR"
     },
     {
       "added_at": "2026-11-23 15:21:42",
@@ -1131,22 +1179,6 @@
     {
       "added_at": "2026-11-23 15:21:42",
       "album": {
-        "name": "High Hopes 3000",
-        "url": "https://open.spotify.com/album/1wNw84HV2GGAhuf6ROgRgu"
-      },
-      "artists": [
-        {
-          "name": "ROLE MODEL",
-          "url": "https://open.spotify.com/artist/1dy5WNgIKQU6ezkpZs4y8z"
-        }
-      ],
-      "duration_ms": 245755,
-      "name": "High Hopes 3000",
-      "url": "https://open.spotify.com/track/1dKUibfoGwiApjEYJhB9R2"
-    },
-    {
-      "added_at": "2026-11-23 15:21:42",
-      "album": {
         "name": "Pata Pata",
         "url": "https://open.spotify.com/album/4xPYddRQPYB5jbTB3e7tL5"
       },
@@ -1311,22 +1343,6 @@
       "duration_ms": 184405,
       "name": "Glide",
       "url": "https://open.spotify.com/track/1CSAUEapYQQOD50ardFG0K"
-    },
-    {
-      "added_at": "2026-11-23 15:21:42",
-      "album": {
-        "name": "I Want to Feel Your Love",
-        "url": "https://open.spotify.com/album/3WIcvvfMAPXQ4Y0CuGNlpG"
-      },
-      "artists": [
-        {
-          "name": "Oby Onyioha",
-          "url": "https://open.spotify.com/artist/7g3r4Cm5hY4fWM5AOVWtDY"
-        }
-      ],
-      "duration_ms": 378485,
-      "name": "Enjoy Your Life",
-      "url": "https://open.spotify.com/track/2PmT48FrSBYvqFDCRRTARH"
     },
     {
       "added_at": "2026-11-23 15:21:42",

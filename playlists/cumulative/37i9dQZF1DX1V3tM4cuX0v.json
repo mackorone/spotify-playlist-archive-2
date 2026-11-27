@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2024-07-02",
-  "description": "50 \u043d\u0430\u0439\u0433\u0430\u0440\u044f\u0447\u0456\u0448\u0438\u0445 \u043f\u0456\u0441\u0435\u043d\u044c \u0432 \u0423\u043a\u0440\u0430\u0457\u043d\u0456. \u041e\u0431\u043a\u043b\u0430\u0434\u0438\u043d\u043a\u0430: Povin'",
+  "description": "50 \u043d\u0430\u0439\u0433\u0430\u0440\u044f\u0447\u0456\u0448\u0438\u0445 \u043f\u0456\u0441\u0435\u043d\u044c \u0432 \u0423\u043a\u0440\u0430\u0457\u043d\u0456. \u041e\u0431\u043a\u043b\u0430\u0434\u0438\u043d\u043a\u0430: Jerry Heil & Baby Lasagna",
   "name": "Hot Hits \u0423\u043a\u0440\u0430\u0457\u043d\u0430",
   "tracks": [
     {
@@ -274,6 +274,28 @@
       "duration_ms": 180895,
       "name": "Bird of Pray - Eurovision 2025",
       "url": "https://open.spotify.com/track/5lmoGiZquqsW9sNxJQGRHn"
+    },
+    {
+      "album": {
+        "name": "Blood In Your Eyes (from GTAVI: The Album)",
+        "url": "https://open.spotify.com/album/2J5ttiLhgBPxcLyHlhQVKO"
+      },
+      "artists": [
+        {
+          "name": "Tove Lo",
+          "url": "https://open.spotify.com/artist/4NHQUGzhtTLFvgF5SZesLK"
+        },
+        {
+          "name": "Grand Theft Auto VI",
+          "url": "https://open.spotify.com/artist/15o7qdDTBzs6xWRUYUtZc1"
+        }
+      ],
+      "date_added": "2026-11-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 161219,
+      "name": "Blood In Your Eyes (from GTAVI: The Album)",
+      "url": "https://open.spotify.com/track/4h3tY2zV4easaHEAbHVmgj"
     },
     {
       "album": {
@@ -2880,7 +2902,7 @@
       ],
       "date_added": "2026-09-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-27",
       "duration_ms": 162249,
       "name": "\u041c\u0443\u0437\u0438\u043a\u043e",
       "url": "https://open.spotify.com/track/0kmkuAikPYfF8WiHpSO5d9"
@@ -3141,6 +3163,28 @@
     },
     {
       "album": {
+        "name": "\u0411\u0443\u0434\u0438\u043d\u043e\u043a \u0425\u0443\u0434\u043e\u0436\u043d\u0438\u043a\u0430",
+        "url": "https://open.spotify.com/album/2IwuGXatz2kx60pVvVutBd"
+      },
+      "artists": [
+        {
+          "name": "Golubenko",
+          "url": "https://open.spotify.com/artist/5XPjmh7BsTQfSfp9wqSoJQ"
+        },
+        {
+          "name": "Shmiska",
+          "url": "https://open.spotify.com/artist/0896FugzPOpBDwYEfhMAVY"
+        }
+      ],
+      "date_added": "2026-11-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 156831,
+      "name": "\u041d\u0435\u0437\u043d\u0430\u0439\u043e\u043c\u0446\u0456",
+      "url": "https://open.spotify.com/track/7hxS2CGV94heTyEdiKDwsO"
+    },
+    {
+      "album": {
         "name": "\u041d\u0435\u0437\u0440\u0443\u0447\u043d\u0430",
         "url": "https://open.spotify.com/album/2ErCJeY0qMXFYPwmnl1GA9"
       },
@@ -3306,7 +3350,7 @@
       ],
       "date_added": "2025-06-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-27",
       "duration_ms": 177931,
       "name": "\u041e\u043b\u0454\u0433",
       "url": "https://open.spotify.com/track/40y6wpbyTXB2DGzaBrLC7f"
@@ -3561,6 +3605,28 @@
     },
     {
       "album": {
+        "name": "\u0411\u0443\u0434\u0438\u043d\u043e\u043a \u0425\u0443\u0434\u043e\u0436\u043d\u0438\u043a\u0430",
+        "url": "https://open.spotify.com/album/2IwuGXatz2kx60pVvVutBd"
+      },
+      "artists": [
+        {
+          "name": "Golubenko",
+          "url": "https://open.spotify.com/artist/5XPjmh7BsTQfSfp9wqSoJQ"
+        },
+        {
+          "name": "Shmiska",
+          "url": "https://open.spotify.com/artist/0896FugzPOpBDwYEfhMAVY"
+        }
+      ],
+      "date_added": "2026-11-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 156470,
+      "name": "\u041f\u0440\u0438\u0432\u0438\u0434\u0438",
+      "url": "https://open.spotify.com/track/6TAh7usxRITlesov4pgS09"
+    },
+    {
+      "album": {
         "name": "\u041f\u0440\u0438\u0432\u0456\u0442. Hello",
         "url": "https://open.spotify.com/album/7a4jaPDUORkJUUXCU1X43o"
       },
@@ -3760,7 +3826,7 @@
       ],
       "date_added": "2026-03-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-27",
       "duration_ms": 226000,
       "name": "\u0421\u043b\u044c\u043e\u0437\u0438",
       "url": "https://open.spotify.com/track/3eHtHXdvwkCzptoyGWoAN0"
@@ -4060,7 +4126,7 @@
       ],
       "date_added": "2026-10-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-27",
       "duration_ms": 187428,
       "name": "\u0422\u0440\u0438\u043c\u0430\u0454\u0448 \u043c\u0435\u043d\u0435",
       "url": "https://open.spotify.com/track/4IZvBgsortkhyBB9VNN0Qg"
@@ -4386,6 +4452,24 @@
       "duration_ms": 195756,
       "name": "\u044f \u043d\u0435 \u043f\u0440\u0438\u0439\u0434\u0443",
       "url": "https://open.spotify.com/track/05QSXEQXXqyF1Oa7cN2pKX"
+    },
+    {
+      "album": {
+        "name": "\u042f \u043d\u0435 \u0445\u043e\u0447\u0443 \u0431\u0443\u0442\u0438 \u0437\u0430\u0439\u0432\u043e\u044e",
+        "url": "https://open.spotify.com/album/33cXRQC66IX9vwDJ5YfSP3"
+      },
+      "artists": [
+        {
+          "name": "Alena Omargalieva",
+          "url": "https://open.spotify.com/artist/1gg8DiQzv8QV2Ej1lWGIQV"
+        }
+      ],
+      "date_added": "2026-11-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 166336,
+      "name": "\u042f \u043d\u0435 \u0445\u043e\u0447\u0443 \u0431\u0443\u0442\u0438 \u0437\u0430\u0439\u0432\u043e\u044e",
+      "url": "https://open.spotify.com/track/0gj7tT1ykw5wQQQKWPvSMZ"
     },
     {
       "album": {

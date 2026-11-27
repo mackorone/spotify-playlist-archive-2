@@ -4,7 +4,7 @@
 
 > These are some independent alternative rock bands you need to hear\. Updated weekly.
 
-467 songs - 1 day 3 hr 54 min
+469 songs - 1 day 4 hr 2 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -203,6 +203,7 @@
 | [Just a Little](https://open.spotify.com/track/5gTqfu1tnwW4FRWVPWwAHB) | [Touch of Red](https://open.spotify.com/artist/07GYobUq3xeoOIhrqJ2Bc1) | [In Our Nature](https://open.spotify.com/album/3OpeVn7ARilpWiXIgZS6j3) | 4:34 | 2026-06-15 | 2026-08-08 |
 | [Just Another Dying Hero](https://open.spotify.com/track/6MJZL9jgx23emQ5lzhwBEz) | [The Galacticas](https://open.spotify.com/artist/3OqM9wx94VLVevksMclrGI) | [Planned Obsolescence](https://open.spotify.com/album/4DOu5lRGwahVpAoUewAFN2) | 4:10 | 2025-10-29 |  |
 | [Just Another Sad Song](https://open.spotify.com/track/7eMcspFMi1l8kXq2N62LeB) | [Reggie Gray](https://open.spotify.com/artist/1n74ONSmpTNu4WYwMGxKHh) | [Just Another Sad Song](https://open.spotify.com/album/5t97pW7wlKjSwhVlKjWL7I) | 2:59 | 2025-11-04 | 2025-12-06 |
+| [Just Another Sun Going Down](https://open.spotify.com/track/0opwEDW1ipm3aGgCawAyye) | [Unquiet Nights](https://open.spotify.com/artist/5t9geVnj0iCBhJfdT3R2ot) | [Seasons in Exile](https://open.spotify.com/album/2JpF6zKefRMIsMZIWEjk0c) | 3:42 | 2026-11-26 |  |
 | [Just Kids](https://open.spotify.com/track/3L37KpIq1wOhstRffRSFUf) | [The Homme](https://open.spotify.com/artist/4U836xTjRfFYfYctNxJFmm) | [Just Kids](https://open.spotify.com/album/7l7Zykod8wQDXnpXridxy8) | 3:46 | 2026-05-24 | 2026-08-08 |
 | [Just Let It Go](https://open.spotify.com/track/5lPn1Gsaqo8NO3NpFGgwqJ) | [FLÒRALYN](https://open.spotify.com/artist/2LcgkfAzVOD0qeVCgDAqmy) | [Just Let It Go](https://open.spotify.com/album/50TsgNRCRfPWhO8dy9YERH) | 3:13 | 2026-04-12 | 2026-10-16 |
 | [Keepin' Up With the Jones'](https://open.spotify.com/track/3JgWObXAw1zHF2pnHBUXQL) | [Chuck Spadina](https://open.spotify.com/artist/3JGftPKgc3DsRWALOswF6N) | [Keepin' Up With the Jones'](https://open.spotify.com/album/1p4WSE2jN9qZSRKgdsOMZi) | 2:34 | 2026-03-23 |  |
@@ -240,6 +241,7 @@
 | [Marie](https://open.spotify.com/track/0UukYGJDTeWAhEg2pz5yR8) | [Skyway](https://open.spotify.com/artist/7Gls7YN8kthen9FXXWIM3R) | [Time To Be Alive](https://open.spotify.com/album/6QRatbdQi9sUQfP7o5sN82) | 3:00 | 2026-08-07 | 2026-10-16 |
 | [Mastodonte](https://open.spotify.com/track/2ONSCIg1KbDHUhwQb3SYaj) | [Ruster](https://open.spotify.com/artist/0MB2qTmFxuZkVdphbXgSeq) | [Mastodonte](https://open.spotify.com/album/1WqEAf6ehq91MtabcIqUvr) | 3:06 | 2025-12-31 | 2026-01-21 |
 | [Mead](https://open.spotify.com/track/3tdiSnYYRWia0X54OkAtZT) | [Hickory](https://open.spotify.com/artist/16K67XvCafdi0d8GTvXbwg) | [Kickin' It Down the Road](https://open.spotify.com/album/1nurE6IMVjUP1Y1kx2Qvs1) | 3:13 | 2025-12-22 | 2026-01-21 |
+| [Medusa](https://open.spotify.com/track/0cTXQ1A2Xda6TIPGeUQlbM) | [The Last Pioneers](https://open.spotify.com/artist/47VNhQMeBaWxOZG6aJHYvM) | [Medusa](https://open.spotify.com/album/3ofnl4UCPVKIPznm20tb3N) | 3:59 | 2026-11-26 |  |
 | [Message Through Time](https://open.spotify.com/track/4BPrHDgqGxnWANdMphAbNQ) | [Groove Vultures](https://open.spotify.com/artist/4mxU5Dnd342CsqAS6viJuj) | [Message Through Time](https://open.spotify.com/album/45LoKgIdcZiDUrx7V5HbuC) | 5:21 | 2025-12-28 | 2026-01-21 |
 | [Minimal Life](https://open.spotify.com/track/5wwqaDdBRzWOPzzrXyVEB2) | [Waiting for the Sun](https://open.spotify.com/artist/6FBHO9VpDvTirqGAR7mEiA) | [Minimal Life](https://open.spotify.com/album/3JoINj8K0gm9zBjt0SNpzB) | 5:43 | 2025-11-27 | 2025-12-16 |
 | [misfit](https://open.spotify.com/track/3cZGoKYmu86ATSBA2uBNYr) | [PUNKFICTION](https://open.spotify.com/artist/5FUO21qLYMS2f5IWHrm7gC) | [misfit](https://open.spotify.com/album/05LVSFM0UJf9sGSfD81cOo) | 4:01 | 2026-01-11 | 2026-02-02 |

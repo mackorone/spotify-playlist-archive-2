@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZYpU3rwrcAz.md) - [plain]
 
 > Relaxing piano works by Chopin.
 
-[Spotify](https://open.spotify.com/user/spotify) - 391,726 likes - 41 songs - 3 hr 36 min
+[Spotify](https://open.spotify.com/user/spotify) - 391,742 likes - 41 songs - 3 hr 36 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -31,8 +31,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZYpU3rwrcAz.md) - [plain]
 | 21 | [Chopin: Nocturne No\. 17 in B Major, Op\. 62 No\. 1](https://open.spotify.com/track/3UiLTMeqt1zQOyZqmU5jiP) | [Frédéric Chopin](https://open.spotify.com/artist/7y97mc3bZRFXzT2szRM4L4), [Elisabeth Leonskaja](https://open.spotify.com/artist/3i67VvAwUlOKZa3fc75zs8) | [Chopin: Nocturnes \[Complete\]](https://open.spotify.com/album/3Ja7LrUEADfJfYE6nzPfNb) | 7:54 |
 | 22 | [12 Études, Op\. 10: No\. 3 in E Major "Tristesse"](https://open.spotify.com/track/2SZVGupkjNHEqsCDXbzko2) | [Frédéric Chopin](https://open.spotify.com/artist/7y97mc3bZRFXzT2szRM4L4), [Murray Perahia](https://open.spotify.com/artist/4EEQIAJoeN1V30MqFFtXxB) | [Chopin: 24 Études, Op\. 10 & Op\. 25 \[Expanded Edition\]](https://open.spotify.com/album/1UJdNfDQPpxXJFY0P08sL1) | 3:51 |
 | 23 | [Chopin: Nocturne No\. 3 in B Major, Op\. 9 No\. 3](https://open.spotify.com/track/5qQRvqCXuO3uZTazifcGvO) | [Frédéric Chopin](https://open.spotify.com/artist/7y97mc3bZRFXzT2szRM4L4), [Elisabeth Leonskaja](https://open.spotify.com/artist/3i67VvAwUlOKZa3fc75zs8) | [Chopin: Nocturnes \[Complete\]](https://open.spotify.com/album/3Ja7LrUEADfJfYE6nzPfNb) | 7:21 |
-| 24 | [Impromptu No\. 2 in F\-Sharp Major, Op\. 36](https://open.spotify.com/track/5yrOacLpKD7pHYPO5wsZ2Q) | [Frédéric Chopin](https://open.spotify.com/artist/7y97mc3bZRFXzT2szRM4L4), [Gábor Farkas](https://open.spotify.com/artist/4hE6p1Mt73sZ4iTeN7np1x) | [Chopin: Ballades & Impromptus](https://open.spotify.com/album/1iiGu90suEAA4sFCc73UMj) | 5:55 |
-| 25 | [Nocturne No\. 19 in E Minor, Op\. 72 No\. 1](https://open.spotify.com/track/66zOdwAIuFXNrB3kcnrkyr) | [Frédéric Chopin](https://open.spotify.com/artist/7y97mc3bZRFXzT2szRM4L4), [Claudio Arrau](https://open.spotify.com/artist/5k15M5itLxlNtLk7BGpGa1) | [Chopin: The Nocturnes](https://open.spotify.com/album/1KPktR52hmJTJH8SdkiVmK) | 4:12 |
+| 24 | [Nocturne No\. 19 in E Minor, Op\. 72 No\. 1](https://open.spotify.com/track/66zOdwAIuFXNrB3kcnrkyr) | [Frédéric Chopin](https://open.spotify.com/artist/7y97mc3bZRFXzT2szRM4L4), [Claudio Arrau](https://open.spotify.com/artist/5k15M5itLxlNtLk7BGpGa1) | [Chopin: The Nocturnes](https://open.spotify.com/album/1KPktR52hmJTJH8SdkiVmK) | 4:12 |
+| 25 | [Impromptu No\. 2 in F\-Sharp Major, Op\. 36](https://open.spotify.com/track/5yrOacLpKD7pHYPO5wsZ2Q) | [Frédéric Chopin](https://open.spotify.com/artist/7y97mc3bZRFXzT2szRM4L4), [Gábor Farkas](https://open.spotify.com/artist/4hE6p1Mt73sZ4iTeN7np1x) | [Chopin: Ballades & Impromptus](https://open.spotify.com/album/1iiGu90suEAA4sFCc73UMj) | 5:55 |
 | 26 | [Nocturne in E\-Flat Major, Op\. 55, No\. 2](https://open.spotify.com/track/07BYxoTub5POnsajOsoTXb) | [Frédéric Chopin](https://open.spotify.com/artist/7y97mc3bZRFXzT2szRM4L4), [Lang Lang](https://open.spotify.com/artist/1YZhNFBxkEB5UKTgMDvot4) | [Chopin: Etudes \- Lang Lang](https://open.spotify.com/album/70CWcZa5F1uq0xmkMBOtah) | 6:06 |
 | 27 | [Nocturne No\. 9 in B Major, Op\. 32 No\. 1](https://open.spotify.com/track/5UpQqGyhYg70rRXgPuy28o) | [Frédéric Chopin](https://open.spotify.com/artist/7y97mc3bZRFXzT2szRM4L4), [Vladimir Ashkenazy](https://open.spotify.com/artist/20iZXzMb8LoWXOeca32i82) | [Chopin Favourites](https://open.spotify.com/album/5JZN2y1ePhusziw1DpndlL) | 5:11 |
 | 28 | [Nocturne No\. 18 in E Major, Op\. 62 No\. 2](https://open.spotify.com/track/10uRxefFamrk6OGym4JLlS) | [Frédéric Chopin](https://open.spotify.com/artist/7y97mc3bZRFXzT2szRM4L4), [Rafal Blechacz](https://open.spotify.com/artist/4SbPzV12NmiqoWBMCvtP3X) | [Chopin: The Complete Preludes](https://open.spotify.com/album/1rBvFJvaHtmVmMdBFO8Te7) | 5:39 |
@@ -50,4 +50,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZYpU3rwrcAz.md) - [plain]
 | 40 | [Andante spianato et Grande polonaise brillante, Op\. 22: Andante spianato\. Tranquillo](https://open.spotify.com/track/06sDDrEwEG9ewXmV5fkETR) | [Frédéric Chopin](https://open.spotify.com/artist/7y97mc3bZRFXzT2szRM4L4), [Martha Argerich](https://open.spotify.com/artist/66MvLAvLznk5UOvASVGjk4) | [Chopin: Polonaises; Andante spianato;Minor Works](https://open.spotify.com/album/1gAU8fHpTCco6SgNnsR5tm) | 4:56 |
 | 41 | [Mazurka in F Minor, Op\. Posth\. 68: No\. 4 Andantino](https://open.spotify.com/track/4bN6MHbUqqFS7tG5clItYc) | [Frédéric Chopin](https://open.spotify.com/artist/7y97mc3bZRFXzT2szRM4L4), [Maurizio Pollini](https://open.spotify.com/artist/2VIdKQmRHnWofsR4odfFOh) | [Chopin: Late Works, Opp\. 59\-64](https://open.spotify.com/album/6Wzf1byg16zWinXnxldir8) | 2:00 |
 
-Snapshot ID: `AAAAAPKZcshayqg0vcBWKjUh2l4zOibT`
+Snapshot ID: `AAAAAPcj3wK+L2EkgpTU5hoULgkDi4KZ`

@@ -4150,7 +4150,7 @@
       ],
       "date_added": "2026-07-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-27",
       "duration_ms": 177662,
       "name": "Huling Limang Daan",
       "url": "https://open.spotify.com/track/3tf69rk6dSjo0aRpsV7jPL"
@@ -4314,6 +4314,24 @@
       "duration_ms": 252435,
       "name": "ICE ICE",
       "url": "https://open.spotify.com/track/5a3XyJk1ubsLyVawrgGsod"
+    },
+    {
+      "album": {
+        "name": "PAUTANG NG PAG-IBIG",
+        "url": "https://open.spotify.com/album/4VphlVYqPHnm1fBwNyaObL"
+      },
+      "artists": [
+        {
+          "name": "Hev Abi",
+          "url": "https://open.spotify.com/artist/4zpGxqF6oI1h3f6Md2v42T"
+        }
+      ],
+      "date_added": "2026-11-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 223053,
+      "name": "ICED COFFEE O MANGO SHAKE",
+      "url": "https://open.spotify.com/track/1m88BekjzGQQsuaMecZnVO"
     },
     {
       "album": {
@@ -5254,7 +5272,7 @@
       ],
       "date_added": "2026-09-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-27",
       "duration_ms": 222600,
       "name": "Ligaw",
       "url": "https://open.spotify.com/track/6pA1f4LmR2uCyquiTUewH4"
@@ -5992,6 +6010,28 @@
       "duration_ms": 203893,
       "name": "Mapagdamot",
       "url": "https://open.spotify.com/track/3WUWeGmthk0eUaYOFopjWB"
+    },
+    {
+      "album": {
+        "name": "Margarita",
+        "url": "https://open.spotify.com/album/2W3oRbCBwYpdloEgb8h1sh"
+      },
+      "artists": [
+        {
+          "name": "GHR",
+          "url": "https://open.spotify.com/artist/2CiqTtIxC5APYM10TLosCs"
+        },
+        {
+          "name": "Uncle Dags",
+          "url": "https://open.spotify.com/artist/3RM6NEfGA58GBtXSUs3G5l"
+        }
+      ],
+      "date_added": "2026-11-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 250500,
+      "name": "Margarita",
+      "url": "https://open.spotify.com/track/3JNxnEUhuUoLfE3UPt8X2J"
     },
     {
       "album": {

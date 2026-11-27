@@ -4,7 +4,7 @@
 
 > This is Carlos Y Jose\. The essential tracks, all in one playlist.
 
-134 songs - 6 hr 40 min
+135 songs - 6 hr 42 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -100,7 +100,7 @@
 | [Juanita y Miguel](https://open.spotify.com/track/1hBvx69jOTLHYPPmKMZ55O) | [Carlos Y Jose](https://open.spotify.com/artist/2IRfUbSEqoOzedNHXVD1Xb) | [Los 15 Mejores Corridos de Carlos y Jose, Vol\. 1](https://open.spotify.com/album/3bmUCbODBolcXg0WjaGvk2) | 2:46 | 2022-06-01 | 2023-03-12 |
 | [La Amapola](https://open.spotify.com/track/1urkLh3lci1vMfMJOUc2y2) | [Carlos Y Jose](https://open.spotify.com/artist/2IRfUbSEqoOzedNHXVD1Xb) | [30 Años De Cabalgata Norteña](https://open.spotify.com/album/6EZ3nnXkoSIm45sPCSMWrW) | 2:57 | 2022-08-31 | 2022-09-06 |
 | [La Cosecha](https://open.spotify.com/track/1E1jCVbLh580fnsy6f9qO2) | [Carlos Y Jose](https://open.spotify.com/artist/2IRfUbSEqoOzedNHXVD1Xb) | [15 Éxitos De \(Vol\. 2\)](https://open.spotify.com/album/7LDBCeInFVYwylBAC3mqpW) | 3:14 | 2022-06-01 | 2025-11-27 |
-| [La Cosecha](https://open.spotify.com/track/5XIQHYRvkT4wnznsbbwYhV) | [Carlos Y Jose](https://open.spotify.com/artist/2IRfUbSEqoOzedNHXVD1Xb) | [Norteñas De Corazón 20 Exitos](https://open.spotify.com/album/2RUgpSKWqoXr7uQvLgmYGF) | 3:17 | 2026-11-25 |  |
+| [La Cosecha](https://open.spotify.com/track/5XIQHYRvkT4wnznsbbwYhV) | [Carlos Y Jose](https://open.spotify.com/artist/2IRfUbSEqoOzedNHXVD1Xb) | [Norteñas De Corazón 20 Exitos](https://open.spotify.com/album/2RUgpSKWqoXr7uQvLgmYGF) | 3:17 | 2026-11-25 | 2026-11-27 |
 | [La Cuerva De La Petaca](https://open.spotify.com/track/2oCE2kA2Nx20OrtJDjoc4B) | [Carlos Y Jose](https://open.spotify.com/artist/2IRfUbSEqoOzedNHXVD1Xb) | [Corridos De Lujo](https://open.spotify.com/album/62O0ZTLYhSPhG2RSUsQJPZ) | 3:39 | 2026-10-23 |  |
 | [La Cuerva De La Petaca](https://open.spotify.com/track/3bqvOniJGpeHcildrbB1TQ) | [Carlos Y Jose](https://open.spotify.com/artist/2IRfUbSEqoOzedNHXVD1Xb) | [15 Claves En Corrido](https://open.spotify.com/album/3M4A3npKRXpMB14aZXh8B7) | 3:39 | 2025-04-04 | 2025-05-07 |
 | [La Cuerva De La Petaca](https://open.spotify.com/track/5ZkChrkppdAUnav4LDxVZ5) | [Carlos Y Jose](https://open.spotify.com/artist/2IRfUbSEqoOzedNHXVD1Xb) | [Corridos De Lujo](https://open.spotify.com/album/1mgpi8kIeS9Vz8Fa9W0tbh) | 3:39 | 2025-05-07 | 2026-10-23 |
@@ -129,6 +129,7 @@
 | [Paloma Piquito de Oro](https://open.spotify.com/track/5dVgJPtCcMM3QqIFOblure) | [Carlos Y Jose](https://open.spotify.com/artist/2IRfUbSEqoOzedNHXVD1Xb) | [20 Exitos de Coleccion](https://open.spotify.com/album/3KD7KTrctrplIFSaFijoP5) | 3:26 | 2026-08-02 |  |
 | [Pancho Treviño](https://open.spotify.com/track/3TNrUd7umaRyh0RPjXbtep) | [Carlos Y Jose](https://open.spotify.com/artist/2IRfUbSEqoOzedNHXVD1Xb) | [Corridos Con](https://open.spotify.com/album/2XJszaQU3ezbZyYn9JUhKR) | 2:41 | 2022-06-01 | 2024-05-04 |
 | [Pescadores De Ensenada](https://open.spotify.com/track/5nqaSZdUzcKPGIwqLf0QAe) | [Carlos Y Jose](https://open.spotify.com/artist/2IRfUbSEqoOzedNHXVD1Xb) | [15 Éxitos](https://open.spotify.com/album/0JhXGPB09fcgetkpyy7p6R) | 2:54 | 2022-06-01 |  |
+| [Por Nuestro Bien](https://open.spotify.com/track/1On8rT1lB4AA95AKE02oO7) | [Carlos Y Jose](https://open.spotify.com/artist/2IRfUbSEqoOzedNHXVD1Xb) | [Noches Eternas](https://open.spotify.com/album/5pk5NixB6iYy7OJp7syRPL) | 2:54 | 2026-11-27 |  |
 | [Que Tristeza Me Acompaña](https://open.spotify.com/track/12lb8hUUEOihoN94n01UHw) | [Carlos Y Jose](https://open.spotify.com/artist/2IRfUbSEqoOzedNHXVD1Xb) | [El Chubasco](https://open.spotify.com/album/3fsQl4XE4ipfkqKico1xnh) | 2:26 | 2022-06-01 |  |
 | [Ramiro Y Miguel](https://open.spotify.com/track/6U7BgvIenwmFI65FTcrbaa) | [Carlos Y Jose](https://open.spotify.com/artist/2IRfUbSEqoOzedNHXVD1Xb) | [Corridos Norteños Con Carlos Y José](https://open.spotify.com/album/0tkrAv4a7Cad5wqrBc1V0Z) | 3:03 | 2023-04-11 |  |
 | [Santos Cantú](https://open.spotify.com/track/44y0RPcKAsJ9lTs5EJgMbA) | [Carlos Y Jose](https://open.spotify.com/artist/2IRfUbSEqoOzedNHXVD1Xb) | [Corridos Norteños Con Carlos Y José](https://open.spotify.com/album/0tkrAv4a7Cad5wqrBc1V0Z) | 3:01 | 2022-06-01 |  |

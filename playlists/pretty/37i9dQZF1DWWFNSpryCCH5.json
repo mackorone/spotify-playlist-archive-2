@@ -1,6 +1,6 @@
 {
   "description": "puras canciones desenchufadas. Cover: Man\u00e1",
-  "num_followers": 1051957,
+  "num_followers": 1051892,
   "original_name": "Videos Unplugged",
   "owner": {
     "name": "Spotify",
@@ -583,6 +583,22 @@
     {
       "added_at": "2026-02-12 19:18:10",
       "album": {
+        "name": "Tr3s Presents Juanes MTV Unplugged",
+        "url": "https://open.spotify.com/album/6Zy2wrvOOW0sxTWy7nF9BH"
+      },
+      "artists": [
+        {
+          "name": "Juanes",
+          "url": "https://open.spotify.com/artist/0UWZUmn7sybxMCqrw9tGa7"
+        }
+      ],
+      "duration_ms": 234360,
+      "name": "Para Tu Amor - MTV Unplugged",
+      "url": "https://open.spotify.com/track/4K54wlF7EyEK6zotNEHI2i"
+    },
+    {
+      "added_at": "2026-02-12 19:18:10",
+      "album": {
         "name": "MTV Unplugged: El Desconecte",
         "url": "https://open.spotify.com/album/5ceBnTwI1hUewZEwYnTc7z"
       },
@@ -599,22 +615,6 @@
       "duration_ms": 313400,
       "name": "Hit Me - MTV Unplugged",
       "url": "https://open.spotify.com/track/3vKCtmzGnf87XsILKozKVX"
-    },
-    {
-      "added_at": "2026-02-12 19:18:10",
-      "album": {
-        "name": "Tr3s Presents Juanes MTV Unplugged",
-        "url": "https://open.spotify.com/album/6Zy2wrvOOW0sxTWy7nF9BH"
-      },
-      "artists": [
-        {
-          "name": "Juanes",
-          "url": "https://open.spotify.com/artist/0UWZUmn7sybxMCqrw9tGa7"
-        }
-      ],
-      "duration_ms": 234360,
-      "name": "Para Tu Amor - MTV Unplugged",
-      "url": "https://open.spotify.com/track/4K54wlF7EyEK6zotNEHI2i"
     },
     {
       "added_at": "2026-02-12 19:18:10",

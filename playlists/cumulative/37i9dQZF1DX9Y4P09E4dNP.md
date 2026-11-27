@@ -2,9 +2,9 @@
 
 ### [Hip\-Life Hits](https://open.spotify.com/playlist/37i9dQZF1DX9Y4P09E4dNP)
 
-> The big Hip\-Life hits rn\. Cover: Kuami Eugene
+> The big Hip\-Life hits rn\. Cover: Sarkodie
 
-389 songs - 23 hr 1 min
+394 songs - 23 hr 17 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -50,6 +50,7 @@
 | [Amina](https://open.spotify.com/track/1eMM8Rf5ZhnpIAD8eGFJwg) | [Camidoh](https://open.spotify.com/artist/6Z9Xe5mjocmPOhz2TLNrAi) | [Amina](https://open.spotify.com/album/0nypTuoTvycgiFrFEH2MQk) | 2:38 | 2026-09-25 | 2026-09-30 |
 | [Anadwo Yede](https://open.spotify.com/track/7BcXZP856gok2P9nVp0hD6) | [KK Fosu](https://open.spotify.com/artist/3LJawO6XULI4SZT5dVHEYO) | [Ghana Old School HipLife Essentials](https://open.spotify.com/album/21puoieJiYxAfxXcjQtGmG) | 4:38 | 2020-02-20 | 2022-07-27 |
 | [Ankonam](https://open.spotify.com/track/3FXxXckJ1xNWZKUmYbFaSJ) | [Amerado](https://open.spotify.com/artist/4vNCRfPa5uflWbtrBxEZew) | [The Gold Coin](https://open.spotify.com/album/3QjBdftIw2vfGnSZSqRVcF) | 2:52 | 2024-09-27 | 2025-03-15 |
+| [Antigua](https://open.spotify.com/track/5ZCRfow7u1txLEVETJFvMk) | [Sarkodie](https://open.spotify.com/artist/01DTVE3KmoPogPZaOvMqO8), [King Promise](https://open.spotify.com/artist/4tIKaxUmpXzshok2yCnwdf) | [Antigua](https://open.spotify.com/album/3iKbSXJNFlKqgAzzFxlEZN) | 3:16 | 2026-11-27 |  |
 | [Ara No Dey Sleep](https://open.spotify.com/track/3sQgX4EW0lnLYr0BAbPA9g) | [AratheJay](https://open.spotify.com/artist/2d8z61cS6XfaDDv5tbDOWN) | [The Odyssey](https://open.spotify.com/album/1cMwW3RWNFCLR8A9gUQRVG) | 3:12 | 2026-04-20 |  |
 | [Araba](https://open.spotify.com/track/3j2DRJtmWdcDjzipkdTzPa) | [Ibee Melody](https://open.spotify.com/artist/7d6hM6gmUmtaM0hFd7uJbM), [Kelvyn Boy](https://open.spotify.com/artist/5Oq2X3BjCbFKPex2GVSDpy) | [Araba](https://open.spotify.com/album/1IO0WOLyXlzd932Yju5EZL) | 2:43 | 2026-02-13 | 2026-04-03 |
 | [Araba Lawson \(feat\. All4real\)](https://open.spotify.com/track/0GFjf8ABto37t2pbGm5JfL) | [C\-Zar](https://open.spotify.com/artist/0Fj9MPOAPKlcNZqVFrNWYx), [All4Real](https://open.spotify.com/artist/4iG1ZHRDz0xTngBW1hHtRe) | [Ghana Old School HipLife Essentials](https://open.spotify.com/album/21puoieJiYxAfxXcjQtGmG) | 5:31 | 2020-02-20 | 2022-07-28 |
@@ -107,6 +108,7 @@
 | [Chaana](https://open.spotify.com/track/7DbTft1XzdZSFYVJj8fW8I) | [Samini](https://open.spotify.com/artist/10Cql6DpInZY5O6TBw2m4l), [Soweto Gospel Choir](https://open.spotify.com/artist/6mMaqfhEcPjrR2FEKWVpOl) | [Chaana](https://open.spotify.com/album/5Uejem580GttkrRDGvxqmo) | 3:29 | 2025-03-14 | 2025-04-08 |
 | [Cheat On You](https://open.spotify.com/track/5eEujB7GCM34vovJBGCU50) | [KiDi](https://open.spotify.com/artist/14PimM6ohO2gYftuwTam9V), [Gyakie](https://open.spotify.com/artist/1zO1FWFxxNUCqUuGATxZQZ) | [Cheat On You](https://open.spotify.com/album/38bYEvgGHZ4su9AKt3Dudz) | 3:21 | 2025-04-11 | 2025-11-14 |
 | [CHOPLIFE \(feat\. Patoranking\)](https://open.spotify.com/track/5F5OkyidOWn8gj4vQhD7QM) | [King Promise](https://open.spotify.com/artist/4tIKaxUmpXzshok2yCnwdf), [Patoranking](https://open.spotify.com/artist/2hKQc001G7ggs3ZyxMdkGq) | [CHOPLIFE \(feat\. Patoranking\)](https://open.spotify.com/album/04UO0sJC1oRi1N8kpRKiWf) | 3:33 | 2021-12-09 | 2024-03-05 |
+| [Cold](https://open.spotify.com/track/5IjHHWhcFZ06ujXySPLa9h) | [Sarkodie](https://open.spotify.com/artist/01DTVE3KmoPogPZaOvMqO8), [Olivetheboy](https://open.spotify.com/artist/6yCYm86uDrfUteHNs6zcg1) | [Deja Vu](https://open.spotify.com/album/4qK9a3Nv0R9U8BuZJobKCj) | 2:38 | 2026-11-27 |  |
 | [Country Side \(feat\. Black Sherif\)](https://open.spotify.com/track/0l5PUtqMNfggchPClxUBhS) | [Sarkodie](https://open.spotify.com/artist/01DTVE3KmoPogPZaOvMqO8), [Black Sherif](https://open.spotify.com/artist/2LiqbH7OhqP0yuaG8VL1wJ) | [JAMZ](https://open.spotify.com/album/4N96XJi7wu1B0ACzCgPLLc) | 3:40 | 2024-03-04 |  |
 | [DADA BA](https://open.spotify.com/track/5lgGv9Y0i3PKtQFeHpXYXb) | [Quamina Mp](https://open.spotify.com/artist/7lv12RUXorFKjX5hKtNwUw) | [DADA BA](https://open.spotify.com/album/5EFW38XyXglIjFsqOcFeby) | 3:04 | 2022-03-03 | 2023-02-26 |
 | [Darkest Style](https://open.spotify.com/track/1PcHLgffCAgtPcHjFkIM0W) | [D Global](https://open.spotify.com/artist/4FQzUw5iPegRxTuJyKphkY), [Lasmid](https://open.spotify.com/artist/3WDXKsCKcxJhvrvpdg5IGI) | [Darkest Style](https://open.spotify.com/album/7GvXEXzV1KzVVicSTLcge3) | 2:18 | 2026-04-20 |  |
@@ -164,6 +166,7 @@
 | [Gymnastic](https://open.spotify.com/track/53ZyjcAefL9uRYtDFes78m) | [KiDi](https://open.spotify.com/artist/14PimM6ohO2gYftuwTam9V), [Olivetheboy](https://open.spotify.com/artist/6yCYm86uDrfUteHNs6zcg1), [KOJO BLAK](https://open.spotify.com/artist/6h7BNyws6Z0ISo5JfgdCnW) | [Gymnastic](https://open.spotify.com/album/4vIBy4r7qrMAJDCCSLqVkT) | 3:30 | 2025-07-11 |  |
 | [Habit](https://open.spotify.com/track/1NtUT0I0TUPZB6OrN4dbkc) | [Fameye](https://open.spotify.com/artist/3qzyWumjTf8agsBgNTkx7L), [Medikal](https://open.spotify.com/artist/0pPz4oYqGp2Co2Sx7ORiYL) | [Habit](https://open.spotify.com/album/6c98Q6htS2zxyjaPT8vrJS) | 2:53 | 2025-08-29 | 2025-11-05 |
 | [HANG MY BOOTS \(feat\. King Promise\)](https://open.spotify.com/track/0Wi9WFZpUd4W4PjzIgq637) | [M.anifest](https://open.spotify.com/artist/1DHw3LmhwuCZUaHtMhMpGX), [King Promise](https://open.spotify.com/artist/4tIKaxUmpXzshok2yCnwdf) | [HANG MY BOOTS](https://open.spotify.com/album/660uXRVzFGz4WZe8QOqKzj) | 3:07 | 2024-12-13 | 2025-07-18 |
+| [Hold On](https://open.spotify.com/track/02uGUJipUv2TRTfmVbps2T) | [Ko\-Jo Cue](https://open.spotify.com/artist/0LWXvmwdwsL0uPokRmix6M), [Shaker](https://open.spotify.com/artist/5I1G1MSxXh3zrZsVZCPzZj), [RCEE](https://open.spotify.com/artist/5aMc9Z99UvAnSOGYAlZsHb) | [Hold On](https://open.spotify.com/album/1xrg6udFquX0kBnI2r6gHd) | 3:50 | 2026-11-27 |  |
 | [Holy Father](https://open.spotify.com/track/2wSk1MHN01QkgGEundIT0y) | [Wendy Shay](https://open.spotify.com/artist/5yrRN6GxtTSHbcw7qxPg4S), [Ras Kuuku](https://open.spotify.com/artist/24Lo1cdnRz69FYSaX7m44S) | [Holy Father](https://open.spotify.com/album/1AYw6sAIeqlefgpeNqjVjo) | 3:50 | 2024-03-04 | 2024-03-29 |
 | [I'm Going to Come](https://open.spotify.com/track/5DcOSvBnce6X6GlsAa0eZ4) | [Buk Bak](https://open.spotify.com/artist/6e6W1oSxPGjoF2iAp2AZtF) | [Ghana Old School HipLife Essentials](https://open.spotify.com/album/21puoieJiYxAfxXcjQtGmG) | 6:39 | 2020-02-20 | 2022-07-22 |
 | [IDK \(with Sarkodie\)](https://open.spotify.com/track/1GHsOfL6Sx8NxKHSEbpVpr) | [KiDi](https://open.spotify.com/artist/14PimM6ohO2gYftuwTam9V), [Sarkodie](https://open.spotify.com/artist/01DTVE3KmoPogPZaOvMqO8) | [Where Do We Go From Here](https://open.spotify.com/album/0amZp5xPOzIaq0LqhhP5xD) | 2:23 | 2026-08-28 |  |
@@ -211,6 +214,7 @@
 | [Makoma](https://open.spotify.com/track/0HtHmm24jro58XSIW2UIoC) | [King Paluta](https://open.spotify.com/artist/7b6IvXftHBf6fYfFRsEhQT) | [Makoma](https://open.spotify.com/album/5nUG6KJs5P1tPgMa3tWU7Q) | 2:44 | 2024-07-05 | 2026-04-03 |
 | [MAMA](https://open.spotify.com/track/7n3q5KB6vOF5Mh3YCVtovp) | [Kwaku DMC](https://open.spotify.com/artist/4gP93834jVbocef9R42gQz) | [MAMA](https://open.spotify.com/album/08amz14qiWtlECBBBLIMSw) | 2:34 | 2022-03-03 | 2023-11-16 |
 | [Many Times](https://open.spotify.com/track/1Z1qgSImhoKPVPgSDuXlrY) | [Stonebwoy](https://open.spotify.com/artist/2ayt5jDUuTCpoTG7sHSvuq) | [TORCHER II](https://open.spotify.com/album/5OKoGIvE7RR2RMVyuYPUhD) | 2:59 | 2026-05-18 |  |
+| [Marry You](https://open.spotify.com/track/0R8VCLGJLT3xnn5gqXXQ0a) | [Stonebwoy](https://open.spotify.com/artist/2ayt5jDUuTCpoTG7sHSvuq) | [Marry You](https://open.spotify.com/album/3fjkCmyE5PXEpm4KBkpm5N) | 3:08 | 2026-11-27 |  |
 | [Martha Matter](https://open.spotify.com/track/7IZDdDiQqR8sPiVKWCGFuy) | [KOFI BRUCE](https://open.spotify.com/artist/3C96ARfG9uaoD9AiE86jzt) | [Martha Matter](https://open.spotify.com/album/1ZCgErXZWyokFUHryxATW5) | 3:14 | 2022-05-19 | 2023-02-04 |
 | [Masallaci](https://open.spotify.com/track/33VYsUAdBLXYfwDm657qpJ) | [Pappy Kojo](https://open.spotify.com/artist/05wqlCGQReohsxStVBR052) | [Masallaci](https://open.spotify.com/album/0fZTCzdV6sxq4l2Ez6Bt6M) | 2:05 | 2026-03-13 | 2026-05-01 |
 | [Me Sisi](https://open.spotify.com/track/02w07PEgTDY7IiuGWhqBWM) | [DopeNation](https://open.spotify.com/artist/25vbw2Uw68Ny6ae7tekmky) | [Me Sisi](https://open.spotify.com/album/3IwecGnHivXYOnhC5IFmDl) | 2:51 | 2026-10-16 |  |
@@ -330,6 +334,7 @@
 | [Soma Obi](https://open.spotify.com/track/6QLkRE9Px8RvInJGvms5X6) | [Black Sherif](https://open.spotify.com/artist/2LiqbH7OhqP0yuaG8VL1wJ) | [IRON BOY](https://open.spotify.com/album/3gi5efMf1SiQfnqpy1o0CK) | 2:41 | 2025-04-07 | 2025-11-14 |
 | [Someday Soon](https://open.spotify.com/track/1tefeAORT76SRH3r4Qoj0g) | [Kweku Smoke](https://open.spotify.com/artist/7AP5AMBQvTzTBB7IUSVLzO) | [WALK WITH ME](https://open.spotify.com/album/5AMNvhVAyOSfEwTtZ4lXdl) | 3:41 | 2025-11-04 |  |
 | [SOMETHING](https://open.spotify.com/track/1s2FsIDYlX6nhQ6UXF4V2w) | [Gyakie](https://open.spotify.com/artist/1zO1FWFxxNUCqUuGATxZQZ) | [SOMETHING](https://open.spotify.com/album/3Qmuuv3vABDE0tTJ1vUO8D) | 3:08 | 2024-03-04 | 2024-06-01 |
+| [Speak](https://open.spotify.com/track/4XC9UfqbR62OauedPdMiSH) | [Gyakie](https://open.spotify.com/artist/1zO1FWFxxNUCqUuGATxZQZ) | [Speak](https://open.spotify.com/album/3Vmrr3643mlR3hTBlJ9NtT) | 2:40 | 2026-11-27 |  |
 | [Sradenam](https://open.spotify.com/track/4FjJYmgk0KGQNrOfSR1cqM) | [Castro](https://open.spotify.com/artist/5hACxwOyI5SiMCONu6KS4L) | [Ghana Old School HipLife Essentials](https://open.spotify.com/album/21puoieJiYxAfxXcjQtGmG) | 6:20 | 2020-02-20 | 2022-07-28 |
 | [Sradenam](https://open.spotify.com/track/4u2XhLgP9zISNfkhhKNOKC) | [Castro D’destroyer](https://open.spotify.com/artist/3kF3qKO6Fi9h8weEzynE5e) | [Sradenam](https://open.spotify.com/album/4OrVucfAwfKvIdCL6U8Qlj) | 6:20 | 2020-02-20 | 2024-03-05 |
 | [Steeze](https://open.spotify.com/track/3m9lU6rU5orvK504eviiIU) | [Mr Drew](https://open.spotify.com/artist/4pW48O5XBTgEEJWfr8btdK), [Medikal](https://open.spotify.com/artist/0pPz4oYqGp2Co2Sx7ORiYL) | [Steeze](https://open.spotify.com/album/39sKfVQm4sKLL9mAflMvKR) | 2:06 | 2026-09-25 |  |

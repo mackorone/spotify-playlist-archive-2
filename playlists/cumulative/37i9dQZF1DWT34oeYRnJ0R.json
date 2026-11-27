@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-03-22",
-  "description": "Just vibes. Cover: Hamilton & Sech ",
+  "description": "Just vibes. Cover: Feid & Snoop Dogg",
   "name": "Vibras",
   "tracks": [
     {
@@ -16,7 +16,7 @@
       ],
       "date_added": "2025-07-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-27",
       "duration_ms": 185000,
       "name": "$$$$",
       "url": "https://open.spotify.com/track/5MR2AQnIqBI1WT8LXMZfYv"
@@ -6538,6 +6538,28 @@
       "duration_ms": 219448,
       "name": "GRACIAS POR NADA",
       "url": "https://open.spotify.com/track/7dinxNQg4Pfl2ahvMRenBQ"
+    },
+    {
+      "album": {
+        "name": "GRACIAS X TODO",
+        "url": "https://open.spotify.com/album/05yVCXvCap5aglKYrDMHx7"
+      },
+      "artists": [
+        {
+          "name": "Feid",
+          "url": "https://open.spotify.com/artist/2LRoIwlKmHjgvigdNGBHNo"
+        },
+        {
+          "name": "Snoop Dogg",
+          "url": "https://open.spotify.com/artist/7hJcb9fa4alzcOq3EaNPoG"
+        }
+      ],
+      "date_added": "2026-11-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 182900,
+      "name": "GRACIAS X TODO",
+      "url": "https://open.spotify.com/track/4WmcJk3pLqQuwVcFePYZJA"
     },
     {
       "album": {

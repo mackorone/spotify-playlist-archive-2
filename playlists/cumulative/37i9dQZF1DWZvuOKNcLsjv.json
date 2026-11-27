@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2023-02-01",
-  "description": "\u6ce8\u76ee\u306e\u56fd\u5185\u5916\u30cd\u30af\u30b9\u30c8\u30fb\u30d2\u30c3\u30c8\u3092\u3044\u3061\u65e9\u304f\u304a\u5c4a\u3051\u3002 cover: Fall Out Boy",
+  "description": "\u6ce8\u76ee\u306e\u56fd\u5185\u5916\u30cd\u30af\u30b9\u30c8\u30fb\u30d2\u30c3\u30c8\u3092\u3044\u3061\u65e9\u304f\u304a\u5c4a\u3051\u3002 cover: JENNIE",
   "name": "Next Up",
   "tracks": [
     {
@@ -3004,7 +3004,7 @@
       ],
       "date_added": "2026-08-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-27",
       "duration_ms": 176568,
       "name": "Ah\u00ed",
       "url": "https://open.spotify.com/track/6DoUDG1GJrJf6eGQLUBBnm"
@@ -5932,7 +5932,7 @@
       ],
       "date_added": "2026-11-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-27",
       "duration_ms": 221033,
       "name": "Aurora",
       "url": "https://open.spotify.com/track/5ht69Xbfj12h1n6Nd12qaW"
@@ -6366,6 +6366,24 @@
       "duration_ms": 201266,
       "name": "BABY (feat. IFE)",
       "url": "https://open.spotify.com/track/2ptuazEzZF8E5U6pfqFNlY"
+    },
+    {
+      "album": {
+        "name": "NA-sty",
+        "url": "https://open.spotify.com/album/1KUCxS5lC57T1YEumnHv4J"
+      },
+      "artists": [
+        {
+          "name": "NAYEON",
+          "url": "https://open.spotify.com/artist/1VwDG9aBflQupaFNjUru9A"
+        }
+      ],
+      "date_added": "2026-11-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 135000,
+      "name": "BABY ANGEL",
+      "url": "https://open.spotify.com/track/2AcVGkWS6hA4rqyaOLrMdu"
     },
     {
       "album": {
@@ -8374,7 +8392,7 @@
       ],
       "date_added": "2026-11-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-27",
       "duration_ms": 232166,
       "name": "bestie - Spotify BLUE? It's Okay Ver.",
       "url": "https://open.spotify.com/track/0w1z0b7poorHv4JTpFhNfA"
@@ -32927,6 +32945,24 @@
     },
     {
       "album": {
+        "name": "hi-liter",
+        "url": "https://open.spotify.com/album/3AqgIAjEf3cY61hL3WAOSt"
+      },
+      "artists": [
+        {
+          "name": "Suchmos",
+          "url": "https://open.spotify.com/artist/0O0hxUrO2PKxZknken3R24"
+        }
+      ],
+      "date_added": "2026-11-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 269374,
+      "name": "hi-liter",
+      "url": "https://open.spotify.com/track/5aUsHc4eKXwtzd2xSx2t5m"
+    },
+    {
+      "album": {
         "name": "Hiasobi",
         "url": "https://open.spotify.com/album/7g8JFhggBUBAOOVeui56nz"
       },
@@ -48666,7 +48702,7 @@
       ],
       "date_added": "2026-11-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-27",
       "duration_ms": 150000,
       "name": "MATCHA",
       "url": "https://open.spotify.com/track/7gESiMMOwo8uFkc1mb0ZPZ"
@@ -56844,7 +56880,7 @@
       ],
       "date_added": "2026-11-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-27",
       "duration_ms": 193222,
       "name": "ONE (not lonely)",
       "url": "https://open.spotify.com/track/2P5IWgdG5u1VBiPnk1zauz"
@@ -59473,6 +59509,24 @@
     },
     {
       "album": {
+        "name": "pavilion",
+        "url": "https://open.spotify.com/album/7LmysHeysLJI0kP6SbZWwb"
+      },
+      "artists": [
+        {
+          "name": "tsumiki",
+          "url": "https://open.spotify.com/artist/6oiuO4S02p4iTO9VLU3jRr"
+        }
+      ],
+      "date_added": "2026-11-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 145475,
+      "name": "pavilion",
+      "url": "https://open.spotify.com/track/6BBMh7nJjWgyjWDPNhwRBJ"
+    },
+    {
+      "album": {
         "name": "Pavlove (Demo)",
         "url": "https://open.spotify.com/album/1iYntUmv88nNeE4zw5xgMY"
       },
@@ -61178,6 +61232,28 @@
       "duration_ms": 141203,
       "name": "POWER",
       "url": "https://open.spotify.com/track/3czXRC1ZSS4aYlLAMoxg2y"
+    },
+    {
+      "album": {
+        "name": "Power Trip (from GTAVI: The Album)",
+        "url": "https://open.spotify.com/album/56em9EU6nYZAnEkmKda2xc"
+      },
+      "artists": [
+        {
+          "name": "JENNIE",
+          "url": "https://open.spotify.com/artist/250b0Wlc5Vk0CoUsaCY84M"
+        },
+        {
+          "name": "Grand Theft Auto VI",
+          "url": "https://open.spotify.com/artist/15o7qdDTBzs6xWRUYUtZc1"
+        }
+      ],
+      "date_added": "2026-11-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 196739,
+      "name": "Power Trip (from GTAVI: The Album)",
+      "url": "https://open.spotify.com/track/1cyE4XiRueT0ANCp3CuJOK"
     },
     {
       "album": {
@@ -70040,7 +70116,7 @@
       ],
       "date_added": "2026-11-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-27",
       "duration_ms": 212633,
       "name": "Someone to Hold (from the Netflix Film \"Steps\")",
       "url": "https://open.spotify.com/track/41GdHxKlxBzXZde4io6tbz"
@@ -73750,6 +73826,24 @@
       "duration_ms": 242135,
       "name": "Super Loud",
       "url": "https://open.spotify.com/track/7Btt53bVQzP6LWm1bD7NLi"
+    },
+    {
+      "album": {
+        "name": "Super shine",
+        "url": "https://open.spotify.com/album/6w4Oanqtit79jEPHPGosSN"
+      },
+      "artists": [
+        {
+          "name": "\u30af\u30ec\u30a4\u30b8\u30fc\u30a6\u30a9\u30a6\u30a6\u30a9\uff01\uff01",
+          "url": "https://open.spotify.com/artist/7GSqiihDPb6AjoK8lh40fh"
+        }
+      ],
+      "date_added": "2026-11-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 234533,
+      "name": "Super shine",
+      "url": "https://open.spotify.com/track/4lx1WJXGO3CvrpHaScGOy0"
     },
     {
       "album": {
@@ -91895,6 +91989,24 @@
     },
     {
       "album": {
+        "name": "\u30a8\u30f3\u30d0\u30fc\u30c8\u30fc\u30c1\uff0f\u306f\u3058\u307e\u308a\u306e\u3055\u3088\u306a\u3089\uff0fUmm",
+        "url": "https://open.spotify.com/album/62utCk94nua4rtxOxmVqLi"
+      },
+      "artists": [
+        {
+          "name": "sumika",
+          "url": "https://open.spotify.com/artist/0ySFZq3Wd0SQUyJUzmJAeb"
+        }
+      ],
+      "date_added": "2026-11-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 267040,
+      "name": "\u306f\u3058\u307e\u308a\u306e\u3055\u3088\u306a\u3089",
+      "url": "https://open.spotify.com/track/464dbyDMydjUI1qFajzHoo"
+    },
+    {
+      "album": {
         "name": "\u306f\u3058\u3081\u304b\u3089\u81ea\u7531\u3060\u3063\u305f",
         "url": "https://open.spotify.com/album/1ZpAlTk2lqbFe8Nye8Aewz"
       },
@@ -98190,7 +98302,7 @@
       ],
       "date_added": "2026-10-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-27",
       "duration_ms": 173129,
       "name": "\u30d6\u30eb\u30fc\u30c1\u30fc\u30ba",
       "url": "https://open.spotify.com/track/7AVx0WwHiuPA76HRrJ90ru"
@@ -103318,7 +103430,7 @@
       ],
       "date_added": "2026-11-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-27",
       "duration_ms": 176400,
       "name": "\u5922\u4e2d",
       "url": "https://open.spotify.com/track/0xMmTjWUggcKQ4YUwUbznx"
@@ -108005,6 +108117,24 @@
     },
     {
       "album": {
+        "name": "\u732b\u3068\u30e6\u30ea",
+        "url": "https://open.spotify.com/album/4tjEG9NEVyU3EOaxmL2bDa"
+      },
+      "artists": [
+        {
+          "name": "Tsukuyomi",
+          "url": "https://open.spotify.com/artist/2mcj8ajoE1eFlNkAihw5Cg"
+        }
+      ],
+      "date_added": "2026-11-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 237166,
+      "name": "\u732b\u3068\u30e6\u30ea",
+      "url": "https://open.spotify.com/track/7g4UIjgG4KSXXrDOVlSBUY"
+    },
+    {
+      "album": {
         "name": "\u732b\u732b\u5410\u5410 - \u732b\u732b -",
         "url": "https://open.spotify.com/album/1BZ7jYbJGOBvNhwcv1w6Hj"
       },
@@ -110464,7 +110594,7 @@
       ],
       "date_added": "2026-09-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-27",
       "duration_ms": 253980,
       "name": "\u8db3\u8de1 - Brave the unknown -",
       "url": "https://open.spotify.com/track/5QuLDWUreR8OwQ69LOy8rx"

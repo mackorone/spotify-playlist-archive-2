@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-03-24",
-  "description": "Os lan\u00e7amentos e melhores sons do rap nacional. Foto: NOG, FBC",
+  "description": "Os lan\u00e7amentos e melhores sons do rap nacional. Foto: Coruja",
   "name": "Presen\u00e7a Hip Hop",
   "tracks": [
     {
@@ -1239,6 +1239,36 @@
     },
     {
       "album": {
+        "name": "NOVOS L\u00cdDERES",
+        "url": "https://open.spotify.com/album/6GkDAeSDJAtBMDmx0vdwmu"
+      },
+      "artists": [
+        {
+          "name": "Dpaula",
+          "url": "https://open.spotify.com/artist/21OXt4bahP6ZP1LIRXmpVQ"
+        },
+        {
+          "name": "Donces\u00e3o",
+          "url": "https://open.spotify.com/artist/7D5NN6IlLcm4Mo2QPqAQFx"
+        },
+        {
+          "name": "Agostinhx",
+          "url": "https://open.spotify.com/artist/42KlXyEj8tt6vVyxQjpLaL"
+        },
+        {
+          "name": "GEXIS",
+          "url": "https://open.spotify.com/artist/0v6hypyGUeuKpNnNeL8APU"
+        }
+      ],
+      "date_added": "2026-11-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 134263,
+      "name": "A FOME",
+      "url": "https://open.spotify.com/track/4sltewLs2vjDv4Tw8rossn"
+    },
+    {
+      "album": {
         "name": "A Forja",
         "url": "https://open.spotify.com/album/3HiTCZp8hco7i8ZMigTnCw"
       },
@@ -1406,6 +1436,32 @@
       "duration_ms": 210857,
       "name": "A Mosca",
       "url": "https://open.spotify.com/track/1BCw0pCxcHHPZHyLAjqFMR"
+    },
+    {
+      "album": {
+        "name": "O'QUE N\u00c3O DIGO, TAMB\u00c9M \u00c9 MEU",
+        "url": "https://open.spotify.com/album/6PyARVXYyvgnq70GSMihQY"
+      },
+      "artists": [
+        {
+          "name": "Coruja",
+          "url": "https://open.spotify.com/artist/6mw0OyFqwxCOmz1v3W3htO"
+        },
+        {
+          "name": "Jota.p\u00ea",
+          "url": "https://open.spotify.com/artist/17MzHbvKuzJje12SxWY9wN"
+        },
+        {
+          "name": "Tropkillaz",
+          "url": "https://open.spotify.com/artist/5bzWtCkjIAMgN93gLt56SO"
+        }
+      ],
+      "date_added": "2026-11-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 243836,
+      "name": "A ONDE O SOL APRENDE A VOLTAR",
+      "url": "https://open.spotify.com/track/1kpNsu4jj55diq0WokCjWw"
     },
     {
       "album": {
@@ -6490,7 +6546,7 @@
       ],
       "date_added": "2026-09-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-27",
       "duration_ms": 162911,
       "name": "Calor!",
       "url": "https://open.spotify.com/track/2XGPqsZeDcciVklnhLswAH"
@@ -7972,7 +8028,7 @@
       ],
       "date_added": "2026-09-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-27",
       "duration_ms": 155936,
       "name": "Coisas Que a Gente Faz por Dinheiro",
       "url": "https://open.spotify.com/track/2qN3VFMtDycZetfeuOfnSU"
@@ -13176,7 +13232,7 @@
       ],
       "date_added": "2026-09-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-27",
       "duration_ms": 204800,
       "name": "Espirito Maloka",
       "url": "https://open.spotify.com/track/7F3l4wx0fEpkkha55ufMmk"
@@ -14554,7 +14610,7 @@
       ],
       "date_added": "2026-09-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-27",
       "duration_ms": 284848,
       "name": "FIC(ALI)GADO",
       "url": "https://open.spotify.com/track/1RZM7EzxakdVNjC7RdC7TX"
@@ -16012,7 +16068,7 @@
       ],
       "date_added": "2026-09-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-27",
       "duration_ms": 191321,
       "name": "F\u00f4lego",
       "url": "https://open.spotify.com/track/1FjcBugV11Y0UE3skTkVHw"
@@ -22173,6 +22229,28 @@
     },
     {
       "album": {
+        "name": "Lipe, Me Ensina!",
+        "url": "https://open.spotify.com/album/7Mt4GNZ45eFRCeVr5T8G6N"
+      },
+      "artists": [
+        {
+          "name": "IKNOWFELIPE",
+          "url": "https://open.spotify.com/artist/5xzQYtT0fWhece4hSaf1Pk"
+        },
+        {
+          "name": "Mc Luanna",
+          "url": "https://open.spotify.com/artist/6VpdTQWCRE01WVoEuby2a6"
+        }
+      ],
+      "date_added": "2026-11-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 115454,
+      "name": "Meu Alibi (feat. Mc Luanna)",
+      "url": "https://open.spotify.com/track/4B49SacO8nAeV5ANxpPeKj"
+    },
+    {
+      "album": {
         "name": "VIRADA DE CHAVE",
         "url": "https://open.spotify.com/album/4UEBroaikJEkW1tGDqGVGL"
       },
@@ -25389,6 +25467,36 @@
     },
     {
       "album": {
+        "name": "Nunca \u00c9 Tarde",
+        "url": "https://open.spotify.com/album/5S3P0sSLuB1jkxsCZhwVAD"
+      },
+      "artists": [
+        {
+          "name": "El Lif Beatz",
+          "url": "https://open.spotify.com/artist/0HBQtIkqXtoKagoPOgxK8k"
+        },
+        {
+          "name": "LEALL",
+          "url": "https://open.spotify.com/artist/4h52MPCFvx56uhmH254Uqz"
+        },
+        {
+          "name": "Matchola",
+          "url": "https://open.spotify.com/artist/5FK5T4mGxkfedPwBdFnw1X"
+        },
+        {
+          "name": "Murica",
+          "url": "https://open.spotify.com/artist/5tevA98mEA8sgH93W3PxE1"
+        }
+      ],
+      "date_added": "2026-11-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 188482,
+      "name": "Nunca \u00c9 Tarde",
+      "url": "https://open.spotify.com/track/2j84GJnQrNwEJ4yFEtEeBA"
+    },
+    {
+      "album": {
         "name": "Nuvem Negra",
         "url": "https://open.spotify.com/album/5lNwerLY6IY3nJMFkIYoOd"
       },
@@ -27573,6 +27681,32 @@
     },
     {
       "album": {
+        "name": "Open Mic Brasil #10 - Beat de Gang",
+        "url": "https://open.spotify.com/album/6QBK6BxhdePttwW7vkFqL0"
+      },
+      "artists": [
+        {
+          "name": "CMK",
+          "url": "https://open.spotify.com/artist/6QmnOxsr8M6iD5Zqpb2src"
+        },
+        {
+          "name": "Jhony Mc",
+          "url": "https://open.spotify.com/artist/4hTGLEnPwUsmgakVoSo9Ww"
+        },
+        {
+          "name": "Kant",
+          "url": "https://open.spotify.com/artist/5RHWqLCNmcKFDME3G7sxiJ"
+        }
+      ],
+      "date_added": "2026-11-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 124800,
+      "name": "Open Mic Brasil #10 - Beat de Gang",
+      "url": "https://open.spotify.com/track/5sxYbPH1I6y16Z5svaWmoX"
+    },
+    {
+      "album": {
         "name": "Open Mic Brasil #7 - Mundo Moderno",
         "url": "https://open.spotify.com/album/5GlQe5ikAy6wjOnFAm9PtP"
       },
@@ -28370,7 +28504,7 @@
       ],
       "date_added": "2026-09-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-27",
       "duration_ms": 226285,
       "name": "Para Tio",
       "url": "https://open.spotify.com/track/6MQ6LsPGDdCuQyTjPG0RcS"
@@ -29848,6 +29982,32 @@
       "duration_ms": 139200,
       "name": "Perfil#97 - Trazendo a Vibe",
       "url": "https://open.spotify.com/track/3YYoRykWPzShaDtrYEJCtt"
+    },
+    {
+      "album": {
+        "name": "CINEMA FANTASMA MIXTAPE",
+        "url": "https://open.spotify.com/album/2rhukqDoBg53tt1R7RYMNB"
+      },
+      "artists": [
+        {
+          "name": "Makalister",
+          "url": "https://open.spotify.com/artist/1RoerHIsbQo1h0V8KpznKV"
+        },
+        {
+          "name": "Murica",
+          "url": "https://open.spotify.com/artist/5tevA98mEA8sgH93W3PxE1"
+        },
+        {
+          "name": "BEATDOMK",
+          "url": "https://open.spotify.com/artist/3skj2KZCvizGrCwYD03ApC"
+        }
+      ],
+      "date_added": "2026-11-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 174324,
+      "name": "Perfumes Baratos e Metralhadoras",
+      "url": "https://open.spotify.com/track/7B8pCZLZ0W4rKsCltox70Y"
     },
     {
       "album": {
@@ -34027,6 +34187,36 @@
     },
     {
       "album": {
+        "name": "Jeremias Sanfoneiro e as Ratazanas de Acapulco, Vol.1",
+        "url": "https://open.spotify.com/album/6Cuk5QOYAAvL2mqhVrgNU5"
+      },
+      "artists": [
+        {
+          "name": "Tulinho",
+          "url": "https://open.spotify.com/artist/4YECqT6rp19cjeH8XNvf4C"
+        },
+        {
+          "name": "B.L.U.N.T",
+          "url": "https://open.spotify.com/artist/2vRnpVd35vTr7ZfDvZYnZZ"
+        },
+        {
+          "name": "Noshugah",
+          "url": "https://open.spotify.com/artist/39y7fxAAQUe9SJotuSRsCs"
+        },
+        {
+          "name": "DJ Zuppa",
+          "url": "https://open.spotify.com/artist/0y1bDIleeRzKvuYu80TQma"
+        }
+      ],
+      "date_added": "2026-11-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 222473,
+      "name": "Ritmo de Fuga",
+      "url": "https://open.spotify.com/track/35fitHdvPr9ol2krnVASs9"
+    },
+    {
+      "album": {
         "name": "Est...",
         "url": "https://open.spotify.com/album/71vqUUjWo99McniK992hzn"
       },
@@ -37198,7 +37388,7 @@
       ],
       "date_added": "2026-09-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-27",
       "duration_ms": 180857,
       "name": "Sorte do Dia",
       "url": "https://open.spotify.com/track/7yAOnA6YczejKj08GPE5Ay"
@@ -39897,6 +40087,32 @@
     },
     {
       "album": {
+        "name": "Tudo que me basta",
+        "url": "https://open.spotify.com/album/7fc2JwVJzcUdfq62Z0zVaq"
+      },
+      "artists": [
+        {
+          "name": "Rap Box",
+          "url": "https://open.spotify.com/artist/5FEcNzwbLj2pvhgZFojYAp"
+        },
+        {
+          "name": "Mago MP",
+          "url": "https://open.spotify.com/artist/1pu2avlQX9EQIymaFBk4pm"
+        },
+        {
+          "name": "L\u00e9o Casa 1",
+          "url": "https://open.spotify.com/artist/5CLH6SMhWas8Ed7W9YZjJD"
+        }
+      ],
+      "date_added": "2026-11-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 153250,
+      "name": "Tudo que me basta",
+      "url": "https://open.spotify.com/track/0gNgmwxF0pUGRR3jrzANNb"
+    },
+    {
+      "album": {
         "name": "Tudo Vai",
         "url": "https://open.spotify.com/album/3uPgPSTBH4YfMmCBBH6gMu"
       },
@@ -40660,7 +40876,7 @@
       ],
       "date_added": "2026-09-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-27",
       "duration_ms": 124526,
       "name": "Vadias no comando",
       "url": "https://open.spotify.com/track/5oCts4EfxMLH2BF3kGSCHf"

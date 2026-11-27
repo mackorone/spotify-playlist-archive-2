@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-12-01",
-  "description": "Le R&B fran\u00e7ais, nouvelle \u00e8re. Photo : Sonny Rave",
+  "description": "Le R&B fran\u00e7ais, nouvelle \u00e8re. Photo : RnBoi",
   "name": "R&Bae",
   "tracks": [
     {
@@ -2157,6 +2157,24 @@
     },
     {
       "album": {
+        "name": "(D)",
+        "url": "https://open.spotify.com/album/6oVggGFJDNDH4rVED1hgbf"
+      },
+      "artists": [
+        {
+          "name": " (D)Juno",
+          "url": "https://open.spotify.com/artist/47NPZW7ZtxGEY1P8Pa4AzY"
+        }
+      ],
+      "date_added": "2026-11-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 144326,
+      "name": "Carr\u00e9",
+      "url": "https://open.spotify.com/track/3U7MklBUwUwxNpl15iDYkd"
+    },
+    {
+      "album": {
         "name": "Casanova",
         "url": "https://open.spotify.com/album/4iQgvLGbrvICDkhndJrPf7"
       },
@@ -2804,7 +2822,7 @@
       ],
       "date_added": "2026-09-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-27",
       "duration_ms": 133770,
       "name": "Comme moi",
       "url": "https://open.spotify.com/track/10Vh88qJ1gwjjWUdGb8kZm"
@@ -3204,6 +3222,24 @@
       "duration_ms": 210653,
       "name": "C\u0153ur de pirate",
       "url": "https://open.spotify.com/track/7tToaH0IEXI6sm7ka7zHNM"
+    },
+    {
+      "album": {
+        "name": "C\u2019est mort",
+        "url": "https://open.spotify.com/album/1BaMeOjXezykOMbDicjS8S"
+      },
+      "artists": [
+        {
+          "name": "\u00c9NA\u00c9",
+          "url": "https://open.spotify.com/artist/41qDq9RL1JUO3WfBT1vjLM"
+        }
+      ],
+      "date_added": "2026-11-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 192000,
+      "name": "C\u2019est mort",
+      "url": "https://open.spotify.com/track/1remAC4k41aLt0iq9Te9Zr"
     },
     {
       "album": {
@@ -4999,6 +5035,24 @@
     },
     {
       "album": {
+        "name": "Apr\u00e8s Minuit",
+        "url": "https://open.spotify.com/album/1VgZg4mE4Uq1YqrIkQgQDv"
+      },
+      "artists": [
+        {
+          "name": "RnBoi",
+          "url": "https://open.spotify.com/artist/4yPFe6ZiSjH5mgjDwiYZgc"
+        }
+      ],
+      "date_added": "2026-11-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 144000,
+      "name": "Faux pas",
+      "url": "https://open.spotify.com/track/5Tr0QsVcH8V7xPpxSJLwU0"
+    },
+    {
+      "album": {
         "name": "FINESSE",
         "url": "https://open.spotify.com/album/6EAo2dAyuyrZIzv5M6POww"
       },
@@ -5122,7 +5176,7 @@
       ],
       "date_added": "2026-11-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-27",
       "duration_ms": 142624,
       "name": "Frapper \u00e7a",
       "url": "https://open.spotify.com/track/0AUd7rg4SqlXDY6UsTDmTg"
@@ -9122,6 +9176,24 @@
       "duration_ms": 144857,
       "name": "Mini Moi",
       "url": "https://open.spotify.com/track/77lEiVLxXAwof70K4ohabm"
+    },
+    {
+      "album": {
+        "name": "Mistakes",
+        "url": "https://open.spotify.com/album/0Z08bUOG6QXnGWnamsjtTA"
+      },
+      "artists": [
+        {
+          "name": "Blynk",
+          "url": "https://open.spotify.com/artist/5QudGDXQi1yGCjENRjMNeQ"
+        }
+      ],
+      "date_added": "2026-11-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 155861,
+      "name": "Mistakes",
+      "url": "https://open.spotify.com/track/4f4jkb9MYqeuwWvazzyOdd"
     },
     {
       "album": {
@@ -13310,7 +13382,7 @@
       ],
       "date_added": "2026-10-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-27",
       "duration_ms": 164217,
       "name": "Slowly",
       "url": "https://open.spotify.com/track/7gecqbq9bEbmrGWSUg7G7f"
@@ -14837,6 +14909,24 @@
     },
     {
       "album": {
+        "name": "Tous les jours",
+        "url": "https://open.spotify.com/album/0K5NdvfayhTuSEvO5a3J9F"
+      },
+      "artists": [
+        {
+          "name": "Osmaus",
+          "url": "https://open.spotify.com/artist/7lJjHV1eg3KjdzvohgBKlF"
+        }
+      ],
+      "date_added": "2026-11-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 180740,
+      "name": "Tous Les Jours",
+      "url": "https://open.spotify.com/track/2iAzUROe4R1TXDhwTP23IW"
+    },
+    {
+      "album": {
         "name": "Tous les m\u00eames",
         "url": "https://open.spotify.com/album/0qwV8NjYwXfFAB9lMafnSz"
       },
@@ -15692,7 +15782,7 @@
       ],
       "date_added": "2026-10-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-27",
       "duration_ms": 160226,
       "name": "Yumi",
       "url": "https://open.spotify.com/track/1ModDRltX1IIxurk9eVLX8"
@@ -15986,7 +16076,7 @@
       ],
       "date_added": "2026-09-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-27",
       "duration_ms": 162943,
       "name": "\u00c9toiles",
       "url": "https://open.spotify.com/track/2JDKxt8JhqqJEpcDSMAjeB"

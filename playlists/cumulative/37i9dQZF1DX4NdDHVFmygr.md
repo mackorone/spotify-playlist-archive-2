@@ -2,7 +2,7 @@
 
 ### [Hit Maghribi](https://open.spotify.com/playlist/37i9dQZF1DX4NdDHVFmygr)
 
-> Les hits marocains du moment\. Cover: ASSIA
+> Les hits marocains du moment\. Cover: Manal
 
 555 songs - 1 day 5 hr 27 min
 

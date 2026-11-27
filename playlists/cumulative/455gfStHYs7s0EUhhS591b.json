@@ -3315,6 +3315,32 @@
     },
     {
       "album": {
+        "name": "Marathon (Summer Is Calling Remix)",
+        "url": "https://open.spotify.com/album/32ozMuDCObMSygS1UIBb0b"
+      },
+      "artists": [
+        {
+          "name": "Lost Kings",
+          "url": "https://open.spotify.com/artist/3hyEbRtp617pNCuuQjyOmc"
+        },
+        {
+          "name": "Cosmos & Creature",
+          "url": "https://open.spotify.com/artist/6nBujjA6fus37LVZEqEULp"
+        },
+        {
+          "name": "Summer Is Calling",
+          "url": "https://open.spotify.com/artist/34q9Zt0mBwYXGMeRq9m94u"
+        }
+      ],
+      "date_added": "2026-11-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 186666,
+      "name": "Marathon - Summer Is Calling Remix",
+      "url": "https://open.spotify.com/track/00Kefprttpijbg05UtVbIp"
+    },
+    {
+      "album": {
         "name": "Hoogeloon (Part Two)",
         "url": "https://open.spotify.com/album/4y1s5lLIq83ghaGAnKxMNe"
       },

@@ -2,9 +2,9 @@
 
 ### [ung kniv ](https://open.spotify.com/playlist/37i9dQZF1DWTMVK39I3IIK)
 
-> unge kniv 🔪 @Albert
+> unge kniv 🔪 @AstridMatthesen
 
-490 songs - 1 day 1 hr 8 min
+494 songs - 1 day 1 hr 22 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -14,6 +14,7 @@
 | [1000 Hænder](https://open.spotify.com/track/26cx3JVqR0zBa2WWsqUl6c) | [Elsked](https://open.spotify.com/artist/1nrf4XbO46RDXE4iuJYKzJ) | [1000 Hænder](https://open.spotify.com/album/7jKVBenHoh5NFs7TCum46z) | 3:05 | 2024-06-27 | 2025-09-05 |
 | [124](https://open.spotify.com/track/5hzSuUxi6XVerUeVhKmQp5) | [JOSVA](https://open.spotify.com/artist/40k85G0FYRLzZnHmfUc2mr) | [124](https://open.spotify.com/album/393ZYZG7kp51f2WPrvPKLc) | 2:55 | 2026-09-25 |  |
 | [4\. sal](https://open.spotify.com/track/0c4Wvo36qvLm1G2GzIhWY3) | [Gunge](https://open.spotify.com/artist/2jCpr1LrI4wriiCyiqqyDN) | [4\. sal](https://open.spotify.com/album/6QXbMT5OaF07K6AcDc8SZK) | 2:39 | 2025-02-13 | 2025-02-23 |
+| [99 Lives](https://open.spotify.com/track/3fF0dHEDUDgSyVglTLW5s3) | [Blondage](https://open.spotify.com/artist/44XhQBXnAIhby5VC4GRo81) | [99 Lives](https://open.spotify.com/album/4Jw4iV4aObtj1MVbZPIVAx) | 3:18 | 2026-11-26 |  |
 | [A thousand lies](https://open.spotify.com/track/3g0lxrU7wv7j64QLAt2Krc) | [Smerz](https://open.spotify.com/artist/1f8PlfSHEW6fHnILSzm8dI) | [A thousand lies](https://open.spotify.com/album/11xRSNFhiIlci4YT9rXrBc) | 4:11 | 2025-02-20 | 2025-06-06 |
 | [affirmations](https://open.spotify.com/track/38Tt6dvzHXNLZgW6Zhryrs) | [Mercedess](https://open.spotify.com/artist/487LWNWQyTG52kpmID4tTm) | [affirmations](https://open.spotify.com/album/1rvC1FhzyQe7Js5L8PBw3I) | 3:20 | 2026-01-01 | 2026-02-20 |
 | [All I need](https://open.spotify.com/track/0DLnqDq2PvM2SNxBUgAnlU) | [Giift](https://open.spotify.com/artist/2uRyCr2a4iM7uEaz4oQE3p) | [Desires](https://open.spotify.com/album/5a8vdQ9RT5KvGmwGqWy3jD) | 2:42 | 2025-02-20 | 2025-03-28 |
@@ -103,12 +104,12 @@
 | [Driving me crazy](https://open.spotify.com/track/37nR6LHLMBErNHTBdIIZmG) | [snuggle](https://open.spotify.com/artist/3hD5jCWM1Kzj6BqhnwICTa) | [Goodbyehouse](https://open.spotify.com/album/2UHXU5yDMaB5281r3ZMhNu) | 2:30 | 2025-09-11 | 2026-02-27 |
 | [Drømmer](https://open.spotify.com/track/0LygyTQgwgub7hlSnxniKJ) | [Mathias Ranch](https://open.spotify.com/artist/1mWocDhzyzvNZJD0T2poQ8) | [Drømmer / Helt](https://open.spotify.com/album/6hX2wyH7niZIByb0OFKdC5) | 2:32 | 2025-03-20 | 2025-03-22 |
 | [du forstår det, jeg forstår det ik](https://open.spotify.com/track/7DbJqU0Tj5Ti0kuUYuAJPp) | [milo](https://open.spotify.com/artist/0ySh6QBLEyARk5Nfuxu3gF) | [du forstår det, jeg forstår det ik](https://open.spotify.com/album/4TOYrvfkdwuEBAeK0KHv0y) | 2:59 | 2026-06-26 |  |
-| [Du Ved Jeg Forstår Det](https://open.spotify.com/track/3Vp9YoclG72m2wq9zIj4lo) | [Albert](https://open.spotify.com/artist/3Sog3Abr94ggodkNxdvKRD) | [Du Ved Jeg Forstår Det](https://open.spotify.com/album/22oRvJRejjw4VH8mqOncWB) | 2:32 | 2026-11-13 |  |
+| [Du Ved Jeg Forstår Det](https://open.spotify.com/track/3Vp9YoclG72m2wq9zIj4lo) | [Albert](https://open.spotify.com/artist/3Sog3Abr94ggodkNxdvKRD) | [Du Ved Jeg Forstår Det](https://open.spotify.com/album/22oRvJRejjw4VH8mqOncWB) | 2:32 | 2026-11-13 | 2026-11-27 |
 | [Dust](https://open.spotify.com/track/6xq2ewiAEbFJt0PT8uharC) | [snuggle](https://open.spotify.com/artist/3hD5jCWM1Kzj6BqhnwICTa) | [Dust](https://open.spotify.com/album/5NfORohjlF3kjZJ2GaUtgD) | 3:27 | 2025-03-07 | 2025-05-30 |
 | [Dårligste Bedste Idé](https://open.spotify.com/track/3MMQxJeAw1A9jjqyGHz8DF) | [LUCY](https://open.spotify.com/artist/3YYCYfeypDt0g0kwgNYIWw) | [Dårligste Bedste Idé](https://open.spotify.com/album/0fsi7iQLNKjjs2zsWjNzyl) | 3:16 | 2024-06-27 | 2025-04-09 |
 | [Dér \(feat\. Wads\)](https://open.spotify.com/track/1CHopLIbq57daqmMzdZW1k) | [Pil](https://open.spotify.com/artist/3vSX14E4YqHrx8nyXeOVen), [Wads](https://open.spotify.com/artist/6MrX2ndZBm5xqWGTX26X2M) | [Dér \(feat\. Wads\)](https://open.spotify.com/album/4DVroCTqltqCUJdOcKaG9E) | 3:20 | 2024-06-27 | 2025-09-21 |
 | [Dødvande](https://open.spotify.com/track/4xmR81dksRzRinebqUDKb9) | [will](https://open.spotify.com/artist/6CVpx38ZMlFNcepKyWTcfB) | [Dødvande](https://open.spotify.com/album/0PjEG7TBeZ3o3pPEDwxFKL) | 2:10 | 2026-06-19 |  |
-| [eeelluminagee](https://open.spotify.com/track/3CNH1O6Yxyw9Hx9ewlSRdy) | [eee gee](https://open.spotify.com/artist/7wwdO3koJONTrS5TtFJ8RN) | [eeelluminagee](https://open.spotify.com/album/5z0tTAvea9bCu1yO6g6VXM) | 3:28 | 2026-05-21 |  |
+| [eeelluminagee](https://open.spotify.com/track/3CNH1O6Yxyw9Hx9ewlSRdy) | [eee gee](https://open.spotify.com/artist/7wwdO3koJONTrS5TtFJ8RN) | [eeelluminagee](https://open.spotify.com/album/5z0tTAvea9bCu1yO6g6VXM) | 3:28 | 2026-05-21 | 2026-11-27 |
 | [Ekkoer](https://open.spotify.com/track/48JWAZ5llPwoW51EdYKrYO) | [Laura Vejlby](https://open.spotify.com/artist/4V4WZwkKxV8Y2u5GVF3cIJ) | [Ekkoer](https://open.spotify.com/album/0iVMwoK9qjCMMFDariqDVa) | 2:41 | 2025-06-26 | 2026-09-12 |
 | [Eleanor's Escape](https://open.spotify.com/track/21LcmaUSmbrzdxqHUEhi8B) | [100%WET](https://open.spotify.com/artist/00NfekFQ6GejpGDubQhgN2) | [Eleanor's Escape](https://open.spotify.com/album/639kU4PVltUCtPQOL7rNUL) | 4:16 | 2026-04-16 | 2026-05-26 |
 | [Elskede At Drømme, Drømmer Om At Elske](https://open.spotify.com/track/1Z360UrBxnLoVV05mJczDh) | [Barselona](https://open.spotify.com/artist/2wdsck730u8ZhDA7eVHw7m), [Peter Sommer](https://open.spotify.com/artist/5EXeUuYgGRA1RnXHqALLDL) | [Legebørn](https://open.spotify.com/album/1IrfYgdNAzSX4NzPB0pjKD) | 4:50 | 2024-06-27 | 2025-02-07 |
@@ -145,6 +146,7 @@
 | [Fri](https://open.spotify.com/track/0V9y9q6r83jO8dpikgctm0) | [willum](https://open.spotify.com/artist/5TkuPbaXBv3T08JcdvsiDz) | [Fri](https://open.spotify.com/album/4CqgNKlaaPjZHBsqK8lEfy) | 2:47 | 2025-06-26 | 2025-10-26 |
 | [Fri mand](https://open.spotify.com/track/5FAAsjvJYsNE64tbNwTPT9) | [PIND](https://open.spotify.com/artist/2feslzBLWgoLAT5PfH2V9q) | [Fri mand](https://open.spotify.com/album/0A0bpSED85vWCLuX5NqKyJ) | 2:49 | 2025-05-01 | 2025-09-05 |
 | [Følsom dreng](https://open.spotify.com/track/7f8XR9iGp7CQzCfKNmtt7t) | [Blaue Blume](https://open.spotify.com/artist/2RMn57qMY0yhUiIYdtUXlh) | [Følsom dreng](https://open.spotify.com/album/0gOxMVZPRTfPAxrV5UXKWA) | 3:18 | 2024-09-05 | 2025-02-07 |
+| [Før Det Blir’ Vinter Igen](https://open.spotify.com/track/5ukozUB1V85YxUlzSIqebi) | [LUCY](https://open.spotify.com/artist/3YYCYfeypDt0g0kwgNYIWw) | [Før Det Blir’ Vinter Igen](https://open.spotify.com/album/0PhiuD1zupU27ke1TScWeI) | 3:29 | 2026-11-26 |  |
 | [Før du siger farvel](https://open.spotify.com/track/4jiTmYrDMu2B8DH2Np3o2e) | [Loui Henderson](https://open.spotify.com/artist/6rkkXp7EUJhyE9K4jDFuc0) | [Før du siger farvel](https://open.spotify.com/album/0fdDLy5cZ6jo4Tznlibbby) | 3:05 | 2026-06-26 |  |
 | [Førhen](https://open.spotify.com/track/2sgEeIveQ0pn5AnVSMhjHk) | [will](https://open.spotify.com/artist/6CVpx38ZMlFNcepKyWTcfB) | [Førhen](https://open.spotify.com/album/5Mt0SEkl9UPcCuWVebIxqR) | 3:19 | 2025-06-26 |  |
 | [Gav Det Et Skud](https://open.spotify.com/track/0GTdMP7x3g3sqWfc90C6il) | [August Høyen](https://open.spotify.com/artist/3nvGdNkcrq1IYHgJBw28Nm) | [Gav Det Et Skud](https://open.spotify.com/album/5VSbZUKdlrZpXEOub9OEZJ) | 2:56 | 2025-02-20 |  |
@@ -173,7 +175,7 @@
 | [Heartbreak](https://open.spotify.com/track/1JdPraBOBKK9V2uTPP4jnJ) | [Ginne Marker](https://open.spotify.com/artist/0NShpiolVrABxF4nKiSL39) | [Heartbreak](https://open.spotify.com/album/6FAUARCpztIj99JeEdPTZ5) | 2:45 | 2025-06-05 | 2025-06-13 |
 | [Heaven](https://open.spotify.com/track/5Zy4JPMVwISXB1amTXQCaH) | [ROYA](https://open.spotify.com/artist/6OxEmD1kV3B1OhVjqWO9Zh) | [Dear Space](https://open.spotify.com/album/587JvxALgoeXF1WQYsjAVp) | 3:22 | 2024-06-27 | 2024-11-29 |
 | [HEL IGEN \(feat\. Chris Abolade\)](https://open.spotify.com/track/27U7IT8vYLgI4tZnKTKf0r) | [Blaadage](https://open.spotify.com/artist/0ttQJRduN0NrldVyK7WRDy), [Chris Abolade](https://open.spotify.com/artist/4wqjUmydj8rX3foHUjNOtB) | [HEL IGEN \(feat\. Chris Abolade\)](https://open.spotify.com/album/6lvkflWV8rpLiRSWKVkqkT) | 3:35 | 2026-08-28 |  |
-| [Heliumtanker](https://open.spotify.com/track/2bm8pFI3ZPsZxRpxgBr85D) | [Marcus.wav](https://open.spotify.com/artist/2IwoU1JvxmNCdD1i69FmKr) | [Heliumtanker](https://open.spotify.com/album/5Aa18monSfhQj9wVnkI9Br) | 2:44 | 2026-06-11 |  |
+| [Heliumtanker](https://open.spotify.com/track/2bm8pFI3ZPsZxRpxgBr85D) | [Marcus.wav](https://open.spotify.com/artist/2IwoU1JvxmNCdD1i69FmKr) | [Heliumtanker](https://open.spotify.com/album/5Aa18monSfhQj9wVnkI9Br) | 2:44 | 2026-06-11 | 2026-11-27 |
 | [Helt](https://open.spotify.com/track/7vuUVW3lImv40lkgqJz4iQ) | [Mathias Ranch](https://open.spotify.com/artist/1mWocDhzyzvNZJD0T2poQ8) | [Drømmer / Helt](https://open.spotify.com/album/6hX2wyH7niZIByb0OFKdC5) | 4:06 | 2025-03-21 | 2025-03-28 |
 | [Hen til det](https://open.spotify.com/track/0p95JhZTHJXDAz1chvdKtD) | [Karla Korsbak](https://open.spotify.com/artist/64TCK9hFlXeyqmeC5JLxyC) | [Hen til det](https://open.spotify.com/album/7G917tqDbJDa3G7G3JgDsp) | 2:51 | 2025-04-24 | 2026-01-15 |
 | [Heyday](https://open.spotify.com/track/1po5B6oPIyVe4WNWo95jds) | [Polite](https://open.spotify.com/artist/58dZjH0389m3MlcYkoRDui) | [Heyday](https://open.spotify.com/album/5eRNMrOvUDNkYgLN5Dm4uP) | 3:31 | 2025-04-10 | 2025-04-18 |
@@ -209,6 +211,7 @@
 | [Høj På Livet](https://open.spotify.com/track/4xCCiECABvVCXE0UZb0k9t) | [144Hz](https://open.spotify.com/artist/2uPlJ3yxYEb2GjdbOb018e), [Sofie1998](https://open.spotify.com/artist/56kAP8Glt3AVDWrOwxX9aB) | [Høj På Livet](https://open.spotify.com/album/1Ggt1HjgSTmk2udoeFsnYa) | 3:39 | 2026-06-04 | 2026-11-21 |
 | [Højhus \(Hvor Går Vi Hen\)](https://open.spotify.com/track/2yGQDtB1DuJqFGrLKh6yrF) | [Statisk](https://open.spotify.com/artist/3iMPlKfT0MyTfFKht7LfgN) | [Højhus \(Hvor Går Vi Hen\)](https://open.spotify.com/album/1RpzwZgl2SKr1h5fvTbV50) | 3:11 | 2024-06-27 | 2025-02-07 |
 | [I am your house](https://open.spotify.com/track/62sOtdVgN9YUJErtoHaUc5) | [Molina](https://open.spotify.com/artist/0pxhu7zSqPjBTUWMl6piHF) | [When you wake up](https://open.spotify.com/album/12MEBuyqwcRS7iEdQP2GwY) | 4:26 | 2024-10-10 | 2024-11-22 |
+| [I Hate Endings](https://open.spotify.com/track/3lDXbWPcHuIC0nqIpiyQk7) | [GUZO](https://open.spotify.com/artist/5kYNsgbRhmiRs9FZxwaFwV) | [Long Way Home](https://open.spotify.com/album/0pe1IhCBa259ryvQITblYO) | 3:09 | 2026-11-26 |  |
 | [I Made It \(feat\. Andreas Odbjerg\)](https://open.spotify.com/track/43jK7qyJgxFIDSDbTeIjZ6) | [JOSVA](https://open.spotify.com/artist/40k85G0FYRLzZnHmfUc2mr), [andreas odbjerg](https://open.spotify.com/artist/6aHaYKL09sA8L260zXNlVR) | [I Made It \(feat\. Andreas Odbjerg\)](https://open.spotify.com/album/6wfDg2hy0GrwJEOQ7h1yMD) | 3:29 | 2024-06-27 |  |
 | [I nat er i nat](https://open.spotify.com/track/6hWPrZS18QcAsOQIHU18dD) | [Guldlokk](https://open.spotify.com/artist/3s1ycrMCGyVItSNujZS2cg), [kingtommi](https://open.spotify.com/artist/5SzjbKkjV5vdxP4vZMp2w0) | [I nat er i nat](https://open.spotify.com/album/4WEm63J6RFWKw5ax1X0lLd) | 3:10 | 2025-03-27 | 2025-04-04 |
 | [I Wanna Dive in the Seven Seas](https://open.spotify.com/track/2r4lqpAn19prTJcZy7YgC9) | [School of X](https://open.spotify.com/artist/4VL17UwE7ktJcG04WdbR9B) | [I Wanna Dive in the Seven Seas](https://open.spotify.com/album/0VN7yTWPdcNhAiOhApsmVq) | 2:44 | 2024-10-18 | 2024-11-28 |
@@ -237,7 +240,7 @@
 | [Jeg Ved At Jeg Intet Ved](https://open.spotify.com/track/5ej57afM7PwDRYyZNWGuFu) | [PATINA](https://open.spotify.com/artist/6SQ0yQG7sRlasn0yrSz7Gh) | [Uvejr](https://open.spotify.com/album/4fm0NWoZsWk7lbK4ohGas2) | 3:53 | 2025-09-04 | 2026-06-14 |
 | [Jeg ved det godt](https://open.spotify.com/track/48Y0NLXdCU0FgHhqBohkSL) | [Marcus.wav](https://open.spotify.com/artist/2IwoU1JvxmNCdD1i69FmKr) | [En sød lille én](https://open.spotify.com/album/2TJgZqKPl7zCYZNwM5Ca1A) | 2:51 | 2024-06-27 | 2024-09-07 |
 | [JEG VIL HØRE ALTING](https://open.spotify.com/track/38e4vqyumqZVXUB2jU1lkR) | [AFSKUM](https://open.spotify.com/artist/3m1cXoRVAFIYiQ1I3blbEM) | [JEG VIL HØRE ALTING / GLEMMER ALDRIG](https://open.spotify.com/album/0FOQGq5MzCH6HJpJO56kdA) | 4:18 | 2025-08-14 | 2025-08-22 |
-| [Jetlag](https://open.spotify.com/track/6HtKaapCZGhHKvuWatfaLk) | [Knægt](https://open.spotify.com/artist/2ma469IFw27u95sH9V72l6) | [Jetlag](https://open.spotify.com/album/5rNJuFVUU2CwTBWB8Zw5fk) | 4:01 | 2026-11-13 |  |
+| [Jetlag](https://open.spotify.com/track/6HtKaapCZGhHKvuWatfaLk) | [Knægt](https://open.spotify.com/artist/2ma469IFw27u95sH9V72l6) | [Jetlag](https://open.spotify.com/album/5rNJuFVUU2CwTBWB8Zw5fk) | 4:01 | 2026-11-13 | 2026-11-27 |
 | [jukeboxx](https://open.spotify.com/track/5WmldVhCY250SK8gn9EwUg) | [Wads](https://open.spotify.com/artist/6MrX2ndZBm5xqWGTX26X2M) | [jukeboxx](https://open.spotify.com/album/0gTPDdSTfpxGjQkoj0YxD7) | 2:36 | 2025-05-22 | 2025-05-30 |
 | [Kaster Mig Ud I](https://open.spotify.com/track/37Z0AVOT6JIQssoNth5J0f) | [August Høyen](https://open.spotify.com/artist/3nvGdNkcrq1IYHgJBw28Nm) | [Kaster Mig Ud I](https://open.spotify.com/album/74kVeuJxuJsrANODEwI8VL) | 2:48 | 2026-03-27 |  |
 | [Keep Forgetting](https://open.spotify.com/track/1rc1butXPjPJnAR2LVJWvv) | [GUZO](https://open.spotify.com/artist/5kYNsgbRhmiRs9FZxwaFwV) | [Keep Forgetting](https://open.spotify.com/album/5HBhsnBwHddgj9ookdBhDj) | 2:53 | 2024-08-29 | 2024-12-17 |
@@ -285,6 +288,7 @@
 | [Mareridt](https://open.spotify.com/track/6hhNPBPQDhO0WYbhVFFCIM) | [BJØRN](https://open.spotify.com/artist/6JgNOXKB2X1JjGYReJIa9D) | [Mareridt](https://open.spotify.com/album/2fTcRdTAQuCADEZj5KZGLf) | 3:03 | 2026-05-02 | 2026-05-29 |
 | [Marianne og Henrik](https://open.spotify.com/track/0awHR3yreICeQbqZmSfGVw) | [Sofie1998](https://open.spotify.com/artist/56kAP8Glt3AVDWrOwxX9aB) | [Marianne og Henrik](https://open.spotify.com/album/0sRUBB8pBrYJHak5F0sppr) | 3:00 | 2024-10-03 | 2026-09-18 |
 | [Marigold](https://open.spotify.com/track/0ial8d0UqAOVetenDTpcI7) | [snuggle](https://open.spotify.com/artist/3hD5jCWM1Kzj6BqhnwICTa) | [Marigold](https://open.spotify.com/album/0P4fFsIA6Y95WLKRg6UHW1) | 3:40 | 2025-01-23 | 2025-03-28 |
+| [Memo](https://open.spotify.com/track/2sfbUZrbgKtGG32q5cDSCt) | [Astrid Matthesen](https://open.spotify.com/artist/2DQ9yWHmT4sWYbMRtXae6C) | [Memo](https://open.spotify.com/album/5GR5rOaGVQdkWJ8ueFM6C7) | 4:11 | 2026-11-26 |  |
 | [Mere End Bare Kaffe](https://open.spotify.com/track/04EY5MIcdHXhVIeEKFi79u) | [Gejst](https://open.spotify.com/artist/5aYWNs1bORooRHDSeuZ1IP) | [Mere End Bare Kaffe](https://open.spotify.com/album/4uJiYK3mVmoNMLbKe8N7G9) | 3:01 | 2025-10-02 | 2025-10-10 |
 | [Mi Amor](https://open.spotify.com/track/5gCsQD68LPv4FmndQwyGEx) | [Sira Jovina](https://open.spotify.com/artist/6J9AFauvtJJ8brNaiWwWat) | [Før Jeg Falder](https://open.spotify.com/album/5VEvNimYjgSZDXbBPZ8Qf9) | 3:16 | 2025-06-19 | 2026-04-27 |
 | [Mig Og Min Mund](https://open.spotify.com/track/6zJFMDkfoTGtCW9mUZurqn) | [APHACA](https://open.spotify.com/artist/5Ppbc55kNdjvxP8Tw2P8S9) | [Mig Og Min Mund](https://open.spotify.com/album/08AZxKNYc8cCbqYpBDqi3Q) | 2:39 | 2024-06-27 |  |

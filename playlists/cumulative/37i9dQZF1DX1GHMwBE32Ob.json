@@ -1283,6 +1283,28 @@
     },
     {
       "album": {
+        "name": "B&F (BROKE & FAMOUS)",
+        "url": "https://open.spotify.com/album/7CTiv1ct3CrGUzSi7Mptk8"
+      },
+      "artists": [
+        {
+          "name": "Famous Pluto",
+          "url": "https://open.spotify.com/artist/2hg21aqtw66FhKSo3Uzbne"
+        },
+        {
+          "name": "Blaqbonez",
+          "url": "https://open.spotify.com/artist/12kjvw4e3gLp6qVHO65n7W"
+        }
+      ],
+      "date_added": "2026-11-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 125678,
+      "name": "B&F (BROKE & FAMOUS)",
+      "url": "https://open.spotify.com/track/520yc0Q7vzWGueYPw4za18"
+    },
+    {
+      "album": {
         "name": "Baba",
         "url": "https://open.spotify.com/album/63yPkpDRSUMDaUSPlXCTj2"
       },
@@ -2484,7 +2506,7 @@
       ],
       "date_added": "2025-10-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-27",
       "duration_ms": 169500,
       "name": "CELINE DION",
       "url": "https://open.spotify.com/track/0D1vNTcDR3SuZtPFUoTGej"
@@ -7119,6 +7141,24 @@
     },
     {
       "album": {
+        "name": "Me Gan Gan",
+        "url": "https://open.spotify.com/album/2QlestZIkkfUAdgsnEnPH0"
+      },
+      "artists": [
+        {
+          "name": "EF Moon",
+          "url": "https://open.spotify.com/artist/0fFQ89LOIU2Bc8bRacEyv9"
+        }
+      ],
+      "date_added": "2026-11-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 141762,
+      "name": "Me Gan Gan",
+      "url": "https://open.spotify.com/track/11FIkIgmpU9IViyh7li1gZ"
+    },
+    {
+      "album": {
         "name": "No Bad Boy, No Party",
         "url": "https://open.spotify.com/album/3haflscpuVSkTXo1yw3ghT"
       },
@@ -11088,7 +11128,7 @@
       ],
       "date_added": "2024-05-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-27",
       "duration_ms": 134237,
       "name": "WhatsApp",
       "url": "https://open.spotify.com/track/2DRHfIWD9Mg70QgTxAKn4m"

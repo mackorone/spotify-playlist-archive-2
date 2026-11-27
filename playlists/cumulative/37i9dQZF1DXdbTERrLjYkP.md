@@ -4,7 +4,7 @@
 
 > Discover the next wave of talent writing their own songs\. Cover: Grace Enger
 
-1,192 songs - 2 day 16 hr 25 min
+1,194 songs - 2 day 16 hr 32 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -709,7 +709,7 @@
 | [Mean Something](https://open.spotify.com/track/6xJAJMCtecFOlbfXsmdAeo) | [Filiah](https://open.spotify.com/artist/7eDeCweG3x20jhQvvbUkjl) | [Mean Something](https://open.spotify.com/album/2KmHL9ePVBaO705xrHr1Mr) | 4:04 | 2025-08-29 | 2025-11-22 |
 | [mean!](https://open.spotify.com/track/3Wbq0xfJFzYE74WBMiqJOH) | [Macy Todd](https://open.spotify.com/artist/36LLquZpLrRaGaMRivV2CD) | [pretty ruthless](https://open.spotify.com/album/6qijNpc6Vt4lxkrRHoPL26) | 3:20 | 2026-07-10 | 2026-09-05 |
 | [Meant To Be](https://open.spotify.com/track/136J2Jkg8sG7P5wilO9P1R) | [Ber](https://open.spotify.com/artist/3yojdgzMmWK3m7QABkOr7x), [Charlie Oriain](https://open.spotify.com/artist/0rNWn0b2f8PiL8VAdDR152) | [Meant To Be](https://open.spotify.com/album/2Ii84ROOIm5Hf5ZtbiG3P9) | 2:43 | 2022-01-14 | 2022-02-26 |
-| [Meet Me At The Cafe](https://open.spotify.com/track/0I4BZ46wgUqbazXhHATA1V) | [Yana](https://open.spotify.com/artist/6bR96LMvgvYgDlumR7JwPX) | [Meet Me At The Cafe](https://open.spotify.com/album/0GBVskaDi7VBjU5h2OQ8BN) | 3:03 | 2026-08-07 |  |
+| [Meet Me At The Cafe](https://open.spotify.com/track/0I4BZ46wgUqbazXhHATA1V) | [Yana](https://open.spotify.com/artist/6bR96LMvgvYgDlumR7JwPX) | [Meet Me At The Cafe](https://open.spotify.com/album/0GBVskaDi7VBjU5h2OQ8BN) | 3:03 | 2026-08-07 | 2026-11-27 |
 | [Megan’s Song](https://open.spotify.com/track/71eVKx9MDUBpGChmV98Hiu) | [Sophie Holohan](https://open.spotify.com/artist/4kpaI92KQcPABQj9qxIopw) | [Megan’s Song](https://open.spotify.com/album/6ZP7zOFmqA5NyjKLd2mhR2) | 3:10 | 2022-08-19 | 2022-12-24 |
 | [Memories](https://open.spotify.com/track/6SrYWzq2Fn0ReOmhE3lqh4) | [Aimee Carty](https://open.spotify.com/artist/4LkmOQU5KA6vZgvJHnpQDl) | [Memories](https://open.spotify.com/album/7udQ2xdosB3zUkdNGaG4m8) | 2:33 | 2024-09-20 | 2025-01-18 |
 | [Memories](https://open.spotify.com/track/2GXkfq4zMW42QbwATAIeiJ) | [Billianne](https://open.spotify.com/artist/0MID3D49WKmEGfBINN0VJC) | [Memories](https://open.spotify.com/album/0xjqoGk8yDHR6Nn0c2VLqa) | 3:15 | 2025-07-25 | 2025-11-08 |
@@ -847,7 +847,7 @@
 | [Queen of Hollywood](https://open.spotify.com/track/6gSA54ZcMahgDve60MlqJC) | [Caity Krone](https://open.spotify.com/artist/0qMLMrYSgSJBquDGCOMERs) | [Queen of Hollywood](https://open.spotify.com/album/1KqfJ8A0XHIPWmFxObJB49) | 4:56 | 2024-04-05 | 2024-05-25 |
 | [Queen of Texas](https://open.spotify.com/track/5SnAkhrhPXKRSCuvGjCM1s) | [Solya](https://open.spotify.com/artist/4q2k0Txoo06ZQ41MWnQMza) | [Queen of Texas](https://open.spotify.com/album/3XFMsDqtgYA0ImMRJW4e7e) | 3:09 | 2026-03-06 | 2026-06-26 |
 | [Quicksand](https://open.spotify.com/track/3lsMNvo9HDOK4YKXwbtWAu) | [Olivia Broadfield](https://open.spotify.com/artist/6PdwpyZMhQyBzwa70feMmM) | [The Split: Barcelona](https://open.spotify.com/album/619dyqE4hMunCbOeWwaerD) | 4:01 | 2025-01-03 | 2025-04-19 |
-| [Rabies](https://open.spotify.com/track/4bb4b8LxkX5HpUU9THfBQQ) | [Baby Bugs](https://open.spotify.com/artist/3TBTcHpZ3aV1g8rk8i1zb5), [Black Polish](https://open.spotify.com/artist/68uS7D9Jp3BsuUEOOqQ9oP) | [Rabies](https://open.spotify.com/album/5tfVxiVnjr3e6a5jgBKqKq) | 3:32 | 2026-07-31 |  |
+| [Rabies](https://open.spotify.com/track/4bb4b8LxkX5HpUU9THfBQQ) | [Baby Bugs](https://open.spotify.com/artist/3TBTcHpZ3aV1g8rk8i1zb5), [Black Polish](https://open.spotify.com/artist/68uS7D9Jp3BsuUEOOqQ9oP) | [Rabies](https://open.spotify.com/album/5tfVxiVnjr3e6a5jgBKqKq) | 3:32 | 2026-07-31 | 2026-11-27 |
 | [rage](https://open.spotify.com/track/0Ed5MKGIAIMYiW86M7qumt) | [Blessing](https://open.spotify.com/artist/57bDO2vmzu955G1W6EsYth) | [the girl next door](https://open.spotify.com/album/3MaPbB8htJFUCWQwUW0SjP) | 2:37 | 2022-04-22 | 2022-07-16 |
 | [Rain](https://open.spotify.com/track/1BRkplLPKZ4g9wsiA8hIth) | [Avery Lynch](https://open.spotify.com/artist/7aO285xSsCbjy0q9zEqXEk) | [Rain](https://open.spotify.com/album/43iRFJBKyigjwAIXnCBSEt) | 4:15 | 2024-11-15 | 2025-01-25 |
 | [Raining in June](https://open.spotify.com/track/7oHcx5tDMNr2YyyilaxsyG) | [Olivia Klugman](https://open.spotify.com/artist/3SEtmo8E5DJVuGddKYqeiU) | [Raining in June](https://open.spotify.com/album/3ceqN8cAMEoULjPmSytTNc) | 2:46 | 2022-01-14 | 2022-03-18 |
@@ -872,6 +872,7 @@
 | [Rocket Science](https://open.spotify.com/track/6iTCiGPIy42IDvm0PWDWLA) | [Quinn Lewis](https://open.spotify.com/artist/5n69lhq7BLWqnSjJgNPRh4) | [Rocket Science](https://open.spotify.com/album/7Cb2mXAxynvJSKO4w2DBHN) | 2:42 | 2022-08-12 | 2022-10-13 |
 | [Rocket Science](https://open.spotify.com/track/7El19GVmLKoGANrPxbWSa7) | [Quinn Lewis](https://open.spotify.com/artist/5n69lhq7BLWqnSjJgNPRh4) | [Heartbreak Hall Of Fame](https://open.spotify.com/album/4SpxjTnfgxHAxHjLAClJsF) | 2:42 | 2022-09-09 | 2022-12-24 |
 | [Rocket Woman](https://open.spotify.com/track/2PtZMicbDMbAYWpBzR8g3I) | [Talia Rae](https://open.spotify.com/artist/4v6p8rTvDtYbnoegKY3mqr) | [Rocket Woman](https://open.spotify.com/album/3QF644FWqbPiCeDZMNMFwM) | 3:37 | 2024-07-12 | 2024-08-24 |
+| [Rockstar](https://open.spotify.com/track/3KAupxPNje3nKAA5kSvovD) | [Hannah Hill](https://open.spotify.com/artist/2YXwzQWYyLiFYx6VA0e0WR) | [Rockstar](https://open.spotify.com/album/1MA32hbzAwq74luWckcPDs) | 3:24 | 2026-11-27 |  |
 | [Role Model](https://open.spotify.com/track/7EbHleMQStqGD7YKiCeBmz) | [Lucy Park](https://open.spotify.com/artist/2ve69eWi8j7eGKEsKz2WLF) | [Role Model](https://open.spotify.com/album/2mHWAQ08dnXOPh3ddrQqJ6) | 2:11 | 2023-05-05 | 2023-10-01 |
 | [rom com](https://open.spotify.com/track/621v7nXYzhMpRZwshVB0ZV) | [Sara Baroni](https://open.spotify.com/artist/4pjOlW7P9PpmsMyJvksXBq) | [rom com](https://open.spotify.com/album/3EwJ3FzBGDRElfF1aqLdLE) | 3:28 | 2026-06-19 | 2026-10-10 |
 | [Roses](https://open.spotify.com/track/4STDViDVw1BrMhT3LqSNXT) | [Iris Copperman](https://open.spotify.com/artist/6RcGUg4682v0WCDSB852iD) | [Middle School Dropout](https://open.spotify.com/album/4tFRlMuaPBCKK9pqqIeZh9) | 3:10 | 2026-04-03 | 2026-07-31 |
@@ -885,6 +886,7 @@
 | [Rust](https://open.spotify.com/track/0PuPIQIsX4RfzWJWjuBtRg) | [Karly Bowman](https://open.spotify.com/artist/6pMnomeWng0MECHaNIYBY6) | [From My Side](https://open.spotify.com/album/5vmJ1xWkA9gU8IBSn6gAck) | 3:12 | 2026-10-23 |  |
 | [Sad Porn](https://open.spotify.com/track/2HQMGY9BkNL3HUeF0wdANX) | [Baby Nova](https://open.spotify.com/artist/2dvThKiNFqpd5CVFCtJuFf) | [Sad Porn](https://open.spotify.com/album/2sNwW6lvEfZz9LtNA34M4P) | 3:12 | 2026-09-04 | 2026-10-10 |
 | [Sadder Days](https://open.spotify.com/track/6D0DwLJ40RzSyhRuuR4fSX) | [Ruby Plume](https://open.spotify.com/artist/1ng6C9TvJYFLHfyjBjRj84) | [Sadder Days](https://open.spotify.com/album/0O12fFnmOEBZ8HzcJV1PhZ) | 4:04 | 2026-08-07 | 2026-10-23 |
+| [Sadie](https://open.spotify.com/track/129LuxW7FfJUnqUDlupMWJ) | [Anna Lille](https://open.spotify.com/artist/4nwpfzpdL72UcfB0O3y6Gk) | [Sadie](https://open.spotify.com/album/4xHGCV0zWDZQFLuIIpB3qI) | 4:18 | 2026-11-27 |  |
 | [Sadtown USA](https://open.spotify.com/track/5L7sbhEYjCagSs6fGdfVbi) | [Carol Ades](https://open.spotify.com/artist/3WuoKYR1zeLGxR29c53Vdr) | [Sadtown USA](https://open.spotify.com/album/64nylLzvc9O40yAD3EaJ2G) | 3:10 | 2022-09-09 | 2022-11-19 |
 | [Sadtown USA](https://open.spotify.com/track/5isaeQhLPaB5dGg0ccJOuX) | [Carol Ades](https://open.spotify.com/artist/3WuoKYR1zeLGxR29c53Vdr) | [Sadtown USA](https://open.spotify.com/album/6mKq3sxLNkjr8k7fFkGENN) | 3:10 | 2022-07-22 | 2022-10-13 |
 | [Sail Away](https://open.spotify.com/track/4CZswu0Wz6p8MofHYdjgxc) | [Indy](https://open.spotify.com/artist/6vxqYQ8aMNtCuks7tVencQ) | [Sail Away](https://open.spotify.com/album/0ZTVAUvD7uDqn2s3Ir6IQV) | 2:29 | 2025-05-09 | 2025-09-13 |

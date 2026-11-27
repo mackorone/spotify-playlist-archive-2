@@ -11952,7 +11952,7 @@
       ],
       "date_added": "2026-07-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-27",
       "duration_ms": 252652,
       "name": "Commander",
       "url": "https://open.spotify.com/track/6PETjry7SA70CzGLjy9ePR"
@@ -16214,7 +16214,7 @@
       ],
       "date_added": "2026-11-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-27",
       "duration_ms": 267206,
       "name": "Emabaleni",
       "url": "https://open.spotify.com/track/1e9nyQowsvHl8hgCSAkLGm"
@@ -17348,7 +17348,7 @@
       ],
       "date_added": "2026-05-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-27",
       "duration_ms": 411428,
       "name": "Everybody Wanna Be In Love",
       "url": "https://open.spotify.com/track/6c4MbGlY1XHjnHuF2HeZUX"
@@ -30332,7 +30332,7 @@
       ],
       "date_added": "2026-08-01",
       "date_added_asterisk": false,
-      "date_removed": "2026-11-16",
+      "date_removed": null,
       "duration_ms": 509751,
       "name": "Khanya Njalo",
       "url": "https://open.spotify.com/track/674PBq5GoNgMbdfadkN8w0"
@@ -33520,7 +33520,7 @@
       ],
       "date_added": "2026-11-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-27",
       "duration_ms": 241698,
       "name": "Likhon'Ilanga",
       "url": "https://open.spotify.com/track/2mRis6uBVimGH8XxkJggeV"
@@ -39415,6 +39415,24 @@
     },
     {
       "album": {
+        "name": "My wallpaper feat Ayarhkay",
+        "url": "https://open.spotify.com/album/5VY8yjmOn3dX0fTse4bmO9"
+      },
+      "artists": [
+        {
+          "name": "Nzuzoh",
+          "url": "https://open.spotify.com/artist/7IVMakpnTa2q7hjxdJLKZ8"
+        }
+      ],
+      "date_added": "2026-11-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 273554,
+      "name": "My wallpaper feat Ayarhkay",
+      "url": "https://open.spotify.com/track/24Ts5b6SgQHwz6QYl0zT3F"
+    },
+    {
+      "album": {
         "name": "Awulutho Wena",
         "url": "https://open.spotify.com/album/1g1Move8I1C2SWE42ItvHf"
       },
@@ -40852,7 +40870,7 @@
       ],
       "date_added": "2026-11-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-27",
       "duration_ms": 233428,
       "name": "Ngidl'Emthwaleni",
       "url": "https://open.spotify.com/track/79gaFKHrhNXfJSw50egZoH"
@@ -41444,7 +41462,7 @@
       ],
       "date_added": "2026-11-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-27",
       "duration_ms": 277760,
       "name": "Ngivumeleni",
       "url": "https://open.spotify.com/track/6kB8zXYQtU0cFwG4JOz0uh"
@@ -49890,7 +49908,7 @@
       ],
       "date_added": "2026-06-20",
       "date_added_asterisk": false,
-      "date_removed": "2026-11-20",
+      "date_removed": null,
       "duration_ms": 248717,
       "name": "SASEZOLA",
       "url": "https://open.spotify.com/track/1NNIWalTKTHhn3hLkgJXQ1"
@@ -50812,7 +50830,7 @@
       ],
       "date_added": "2026-04-06",
       "date_added_asterisk": false,
-      "date_removed": "2026-11-21",
+      "date_removed": null,
       "duration_ms": 278073,
       "name": "Sekuzolunga Mama",
       "url": "https://open.spotify.com/track/6W8CWNHx5yktT9EPIPBYFR"
@@ -53122,6 +53140,36 @@
       "duration_ms": 83826,
       "name": "Smoking on my Ex Pack",
       "url": "https://open.spotify.com/track/4jTs7ny5eSRnKTzxdrFv5I"
+    },
+    {
+      "album": {
+        "name": "SMONGI (Di Baddie)",
+        "url": "https://open.spotify.com/album/0kQEcnavnVPwhVzlR5pqnK"
+      },
+      "artists": [
+        {
+          "name": "PLXYBOII_017",
+          "url": "https://open.spotify.com/artist/1SD4ymJH25lqnLmAxX1S9m"
+        },
+        {
+          "name": "Dolly Ditebogo",
+          "url": "https://open.spotify.com/artist/2Ot5RNeKB99oO2qp51ImHd"
+        },
+        {
+          "name": "Janesh",
+          "url": "https://open.spotify.com/artist/1oK1EnI3oWOsRKlV4e6L5L"
+        },
+        {
+          "name": "Criimora b.k.z",
+          "url": "https://open.spotify.com/artist/1Pz02GTLnPBX75ECw6OBty"
+        }
+      ],
+      "date_added": "2026-11-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 291146,
+      "name": "SMONGI (Di Baddie)",
+      "url": "https://open.spotify.com/track/0eubxoGuUnAs1TLX2zqTCb"
     },
     {
       "album": {
@@ -63080,7 +63128,7 @@
       ],
       "date_added": "2026-11-20",
       "date_added_asterisk": false,
-      "date_removed": "2026-11-25",
+      "date_removed": null,
       "duration_ms": 222000,
       "name": "Uyangibambezela (feat. KaMaphanga & Yolokazi)",
       "url": "https://open.spotify.com/track/0N2FZJNnHrxvuzvJd3LqqC"

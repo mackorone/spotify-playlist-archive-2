@@ -4,7 +4,7 @@
 
 > This is Jake Shimabukuro\. The essential tracks, all in one playlist.
 
-136 songs - 8 hr 52 min
+137 songs - 8 hr 55 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -67,7 +67,7 @@
 | [Lahaina \(feat\. Mick Fleetwood, Jake Shimabukuro & Henry Kapono\)](https://open.spotify.com/track/7HqVjdEyCn4QUyumS7Pf6f) | [The Doobie Brothers](https://open.spotify.com/artist/39T6qqI0jDtSWWioX8eGJz), [Henry Kapono](https://open.spotify.com/artist/2TdVVYXzvi5eAPq156DT2E), [Jake Shimabukuro](https://open.spotify.com/artist/69NjH5MsRLr0CX0zSlGmN3), [Mick Fleetwood](https://open.spotify.com/artist/7bRRWmUqERkyOVSSU6MPFu) | [Walk This Road \(feat\. Mavis Staples\)](https://open.spotify.com/album/17rXAvVnX0Anzzm1iFX3d3) | 4:17 | 2025-01-25 | 2025-03-15 |
 | [Lahaina \(feat\. Mick Fleetwood, Jake Shimabukuro & Henry Kapono\)](https://open.spotify.com/track/7b5SxmrPawO5SX5N18M0bh) | [The Doobie Brothers](https://open.spotify.com/artist/39T6qqI0jDtSWWioX8eGJz), [Henry Kapono](https://open.spotify.com/artist/2TdVVYXzvi5eAPq156DT2E), [Jake Shimabukuro](https://open.spotify.com/artist/69NjH5MsRLr0CX0zSlGmN3), [Mick Fleetwood](https://open.spotify.com/artist/7bRRWmUqERkyOVSSU6MPFu) | [Lahaina \(feat\. Mick Fleetwood, Jake Shimabukuro & Henry Kapono\)](https://open.spotify.com/album/4eXoo5d1oJ4A8fH9BnDYOK) | 4:17 | 2024-01-29 |  |
 | [Let's Go Home](https://open.spotify.com/track/5A3Csnl1sqe3zlWD7Gs3gf) | [Jake Shimabukuro](https://open.spotify.com/artist/69NjH5MsRLr0CX0zSlGmN3) | [Calm Seas](https://open.spotify.com/album/1H1nsvFuuDcRJLTEXRfuNr) | 2:21 | 2026-02-03 |  |
-| [Makapu'u Sunrise](https://open.spotify.com/track/1grA2gXoL5HTKA9zp1pmnz) | [Jake Shimabukuro](https://open.spotify.com/artist/69NjH5MsRLr0CX0zSlGmN3) | [Calm Seas](https://open.spotify.com/album/1H1nsvFuuDcRJLTEXRfuNr) | 2:40 | 2026-02-05 |  |
+| [Makapu'u Sunrise](https://open.spotify.com/track/1grA2gXoL5HTKA9zp1pmnz) | [Jake Shimabukuro](https://open.spotify.com/artist/69NjH5MsRLr0CX0zSlGmN3) | [Calm Seas](https://open.spotify.com/album/1H1nsvFuuDcRJLTEXRfuNr) | 2:40 | 2026-02-05 | 2026-11-27 |
 | [Make It Paradise](https://open.spotify.com/track/4K3O1bewDOnVxAJ5EaOrT5) | [Ziggy Marley](https://open.spotify.com/artist/0o0rlxlC3ApLWsxFkUjMXc), [Jake Shimabukuro](https://open.spotify.com/artist/69NjH5MsRLr0CX0zSlGmN3) | [Brightside](https://open.spotify.com/album/0b57ZiCwZ1zNPiVxPD3nU6) | 3:33 | 2026-05-04 | 2026-10-28 |
 | [Make It Paradise](https://open.spotify.com/track/4ZV6NV1l7yHlufiaaKI6G1) | [Ziggy Marley](https://open.spotify.com/artist/0o0rlxlC3ApLWsxFkUjMXc), [Jake Shimabukuro](https://open.spotify.com/artist/69NjH5MsRLr0CX0zSlGmN3) | [Brightside](https://open.spotify.com/album/4aJHr1kwmCQYnOrkYUc4gK) | 3:33 | 2026-09-15 |  |
 | [Morning Blue](https://open.spotify.com/track/44OX5NkBwQ3UTdYrFQDozm) | [Jake Shimabukuro](https://open.spotify.com/artist/69NjH5MsRLr0CX0zSlGmN3) | [Live With Jake Shimabukuro](https://open.spotify.com/album/2PwQ4z0rIku4NEEkIVL0so) | 3:10 | 2025-02-17 | 2025-04-10 |
@@ -115,6 +115,7 @@
 | [Wish You Were Here](https://open.spotify.com/track/2ILBVN8gvEXo7VqluceYr0) | [Jake Shimabukuro](https://open.spotify.com/artist/69NjH5MsRLr0CX0zSlGmN3), [Nolan Verner](https://open.spotify.com/artist/1mIyn2K6MfgmwrkoMNAaRl), [Dave Preston](https://open.spotify.com/artist/3UkHwtr4k4cCQRHZfKsGpk) | [Trio](https://open.spotify.com/album/3uLfTpSX4QuFWqAkcHQBz4) | 4:59 | 2024-12-16 | 2026-02-02 |
 | [アイス・クリーム](https://open.spotify.com/track/3gGxkaGQL44CQbqRqUe1cH) | [Jake Shimabukuro](https://open.spotify.com/artist/69NjH5MsRLr0CX0zSlGmN3) | [マイ・ライフ](https://open.spotify.com/album/5nk8bF12EGkjJ9R5XLbhXN) | 4:06 | 2024-01-29 | 2025-11-01 |
 | [イン・マイ・ライフ](https://open.spotify.com/track/2Im6Jdx18HFgxDz8zegDgB) | [Jake Shimabukuro](https://open.spotify.com/artist/69NjH5MsRLr0CX0zSlGmN3) | [マイ・ライフ](https://open.spotify.com/album/5nk8bF12EGkjJ9R5XLbhXN) | 3:30 | 2024-01-29 |  |
+| [ウィッシュ・オン・マイ・スター](https://open.spotify.com/track/2sCaS5jVhuuERaMikCq2A9) | [Jake Shimabukuro](https://open.spotify.com/artist/69NjH5MsRLr0CX0zSlGmN3), [Jennifer Perri](https://open.spotify.com/artist/0ukmfRxBnTtQnsn5XwWhLr) | [フラガール　\-オリジナル・サウンドトラック\-](https://open.spotify.com/album/65IxZ84MXW0v5HEWTsfnj2) | 3:34 | 2026-11-27 |  |
 | [ウィッシュ・オン・マイ・スター \- Solo](https://open.spotify.com/track/0ALdiZoLjRAuLjvvIygb6k) | [Jake Shimabukuro](https://open.spotify.com/artist/69NjH5MsRLr0CX0zSlGmN3) | [ジェントリー・ウィープス](https://open.spotify.com/album/0wyURoNZlzFweCCWPFO7Re) | 3:49 | 2024-06-18 | 2026-04-08 |
 | [エンジェル](https://open.spotify.com/track/1AsfyvfHnDdFbIA18Y1zIO) | [Jake Shimabukuro](https://open.spotify.com/artist/69NjH5MsRLr0CX0zSlGmN3) | [ジェントリー・ウィープス](https://open.spotify.com/album/0wyURoNZlzFweCCWPFO7Re) | 4:04 | 2025-06-09 | 2025-09-16 |
 | [オーバー・ザ・レインボー](https://open.spotify.com/track/7zZwioPblgmN6N9sn5pJ4P) | [Jake Shimabukuro](https://open.spotify.com/artist/69NjH5MsRLr0CX0zSlGmN3) | [ジェントリー・ウィープス](https://open.spotify.com/album/0wyURoNZlzFweCCWPFO7Re) | 4:13 | 2024-01-29 |  |

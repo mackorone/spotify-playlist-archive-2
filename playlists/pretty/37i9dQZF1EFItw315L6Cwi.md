@@ -105,8 +105,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFItw315L6Cwi.md) - [plain]
 | 95 | [ECONOMY](https://open.spotify.com/track/744E5g7AfGI5BUEqqPwFuF) | [makko](https://open.spotify.com/artist/6ARKr2ZoLf9TDoQiZarJMt) | [IM GLASHAUS MIT SCHEINEN WERFEN](https://open.spotify.com/album/3dRCzJDuGz31Br2sHSnHAb) | 2:02 |
 | 96 | [Song 2](https://open.spotify.com/track/6xEa5BXEjrJrJoztiYNnCs) | [Souly](https://open.spotify.com/artist/1fImPZoBVjmYrBFzCHh0N3) | [Moth Music](https://open.spotify.com/album/0LM5Rb2wxnsyPBKA6unakp) | 2:20 |
 | 97 | [Motte](https://open.spotify.com/track/2GMODpP7Gm5vI1upzdRnCz) | [Souly](https://open.spotify.com/artist/1fImPZoBVjmYrBFzCHh0N3) | [Moth Music](https://open.spotify.com/album/0LM5Rb2wxnsyPBKA6unakp) | 3:17 |
-| 98 | [WHY](https://open.spotify.com/track/72tfgwu0AurwnMyhpxOK4c) | [Juju](https://open.spotify.com/artist/4sg4no0TXdsrM1s4SVUwNF) | [44 ME](https://open.spotify.com/album/0zKLi0wo0t1F2jWJ3fgQsm) | 2:20 |
-| 99 | [fast schon frei](https://open.spotify.com/track/6MYE0gOvIj9PjJHdsCgRBw) | [Trettmann](https://open.spotify.com/artist/6QzzeKV0VcnT2vJMYDPuL4), [Lolito](https://open.spotify.com/artist/76LT1zhDz5oUDEwc8RQmBm) | [fast schon frei](https://open.spotify.com/album/4PXceGxLxyso7XLQw2oB3h) | 3:29 |
+| 98 | [fast schon frei](https://open.spotify.com/track/6MYE0gOvIj9PjJHdsCgRBw) | [Trettmann](https://open.spotify.com/artist/6QzzeKV0VcnT2vJMYDPuL4), [Lolito](https://open.spotify.com/artist/76LT1zhDz5oUDEwc8RQmBm) | [fast schon frei](https://open.spotify.com/album/4PXceGxLxyso7XLQw2oB3h) | 3:29 |
+| 99 | [WHY](https://open.spotify.com/track/72tfgwu0AurwnMyhpxOK4c) | [Juju](https://open.spotify.com/artist/4sg4no0TXdsrM1s4SVUwNF) | [44 ME](https://open.spotify.com/album/0zKLi0wo0t1F2jWJ3fgQsm) | 2:20 |
 | 100 | [GRILL ROYAL](https://open.spotify.com/track/7jJR5j9jZd8ELDph3B26gT) | [t\-low](https://open.spotify.com/artist/3tQzzidoPfVifoURnDfgmD) | [EVERYTHINGS PURPLE 3](https://open.spotify.com/album/5rtzdLY5wUHxFoNscDt3Ih) | 2:15 |
 | 101 | [FRONTPAGE](https://open.spotify.com/track/7fb3D6aVEIU6P5L6J8oUxQ) | [Boondawg](https://open.spotify.com/artist/46RrxZVxLkgEbraenPAmbz), [idolinjo](https://open.spotify.com/artist/7slJ8mgbVwvyPEzQMJ5qYO) | [DONT TRY THIS AT HOME](https://open.spotify.com/album/34Px3Z7ut9gBJhCsDsasJE) | 2:55 |
 | 102 | [Kein Student](https://open.spotify.com/track/1TMz6AxsBdXni4dnPiDn0S) | [Lugatti & 9ine](https://open.spotify.com/artist/4eZg2h2Qez5XuD6PQAqGie) | [Bis Hierher](https://open.spotify.com/album/6AuAIsbkZUFcASEPVG744R) | 2:13 |
@@ -155,4 +155,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFItw315L6Cwi.md) - [plain]
 | 145 | [prelude german dream](https://open.spotify.com/track/01evqoqXak7CRQfusYyKff) | [Juju](https://open.spotify.com/artist/4sg4no0TXdsrM1s4SVUwNF) | [44 ME](https://open.spotify.com/album/0zKLi0wo0t1F2jWJ3fgQsm) | 0:28 |
 | 146 | [prelude girls night](https://open.spotify.com/track/5ee8yJCvuureS0rSQDJywm) | [Juju](https://open.spotify.com/artist/4sg4no0TXdsrM1s4SVUwNF) | [44 ME](https://open.spotify.com/album/0zKLi0wo0t1F2jWJ3fgQsm) | 0:14 |
 
-Snapshot ID: `AciqBAAAAAAzsCvzgqKTXBEgj8Tjxiae`
+Snapshot ID: `AcivpAAAAADSUcxXVhSZvbp0OHWb1dBI`

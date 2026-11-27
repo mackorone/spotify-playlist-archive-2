@@ -4,7 +4,7 @@
 
 > The best new music from independent artists in the UK and Ireland\. Cover: two kalme
 
-3,750 songs - 8 day 6 hr 15 min
+3,751 songs - 8 day 6 hr 18 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -3041,6 +3041,7 @@
 | [Something So Good](https://open.spotify.com/track/6Kc2SYZ2dVfzXsqCiNIOfq) | [Le Boom](https://open.spotify.com/artist/7MyOyVdHb3cbI7fGZuG6gp) | [Something So Good](https://open.spotify.com/album/6LBjb9f0WyN5OxsKI1YEKA) | 3:03 | 2025-02-12 | 2025-03-12 |
 | [Something Special](https://open.spotify.com/track/4vFNP5okdHH3EVfr5xi1HN) | [Gracie Convert](https://open.spotify.com/artist/0kiZpBpCvMEzvCdFVgsAZN) | [Something Special](https://open.spotify.com/album/6wPffWhxmraDHp7T2N54j0) | 3:18 | 2022-03-08 | 2022-03-09 |
 | [Something Special](https://open.spotify.com/track/0LFOFtx66hgaRxIesfKxPh) | [Thouartchi](https://open.spotify.com/artist/4KARyHFYNWBfGYXIGAKhdV) | [Something Special](https://open.spotify.com/album/7EohCO5rwRny3ts4ADX7Oz) | 2:55 | 2022-10-28 | 2022-12-01 |
+| [sometimes memory fails me sometimes](https://open.spotify.com/track/1jyRl8bzrzFVJMintuOrv2) | [if i was a pony](https://open.spotify.com/artist/3t3zwTenPUimx09zxB0hRA) | [sometimes memory fails me sometimes](https://open.spotify.com/album/6PhYPDKJaoSqLXXAABbg1K) | 3:16 | 2026-11-25 |  |
 | [Songbird \(Forever\)](https://open.spotify.com/track/5Xgi2c4oLhX0xQtLbxBA4Z) | [Whitelands](https://open.spotify.com/artist/4B9oWJTIts1eOPLGKy4mro) | [Songbird \(Forever\)](https://open.spotify.com/album/1J1gaBTN1rY5tOsv2om4iM) | 3:45 | 2025-11-26 | 2025-12-04 |
 | [Sorry](https://open.spotify.com/track/1mAliub23hugL0bp6FYZ0p) | [SAHRA](https://open.spotify.com/artist/0afdCvcgScPqyciaOKoAR6) | [Sorry](https://open.spotify.com/album/1KiL7IrLSULtzYQaYajiNJ) | 2:56 | 2022-06-01 | 2022-06-30 |
 | [Sorry Ain't Enough](https://open.spotify.com/track/1wt0i0oqpjMQPFcvssbgst) | [Nosa](https://open.spotify.com/artist/1kzEYCZOAVa2h07NEcCezO) | [Sorry Ain't Enough](https://open.spotify.com/album/1YXV9yq9a9k3Y1hZ10q9vo) | 2:55 | 2024-08-27 | 2024-09-18 |

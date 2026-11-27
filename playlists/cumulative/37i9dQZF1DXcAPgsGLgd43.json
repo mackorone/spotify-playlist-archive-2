@@ -7270,7 +7270,7 @@
       ],
       "date_added": "2024-05-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-27",
       "duration_ms": 180000,
       "name": "Matadora - Radio Edit",
       "url": "https://open.spotify.com/track/0kIIoDPOIges2ZRGZIc6YC"
@@ -10004,6 +10004,28 @@
       "duration_ms": 215813,
       "name": "Ritmo 305",
       "url": "https://open.spotify.com/track/7M8EtNKLCdCEqPs1vwqHvE"
+    },
+    {
+      "album": {
+        "name": "Ritmo Latino",
+        "url": "https://open.spotify.com/album/1mOzhzbH67fJVclpu9v0Ri"
+      },
+      "artists": [
+        {
+          "name": "Andruss",
+          "url": "https://open.spotify.com/artist/6HZwb7Zbnvfo8u1sst4QrI"
+        },
+        {
+          "name": "JEZZ",
+          "url": "https://open.spotify.com/artist/69ykEd4Td9xKH3e94ZwrYR"
+        }
+      ],
+      "date_added": "2026-11-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 177286,
+      "name": "Ritmo Latino",
+      "url": "https://open.spotify.com/track/67iv5HEkEi1mSGRT0wq5aG"
     },
     {
       "album": {

@@ -1,15 +1,79 @@
 {
   "description": "<a href=\"spotify:artist:4iHnLagnnmgiIwMSm1wuTq\">Giorgia Angiuli</a>'s favorite tracks. Updated regularly. Curated by Giorgia Angiuli. More track IDs <a href=\"spotify:genre:track_id\">here</a>.",
-  "num_followers": 64178,
+  "num_followers": 64201,
   "original_name": "Giorgia Angiuli's track IDs",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAALRSx+PX63hBMauOrywx68taSYw5",
+  "snapshot_id": "AAAAAAbyQU0cyp1HpURNp5S1zOX+V3H0",
   "tracks": [
     {
-      "added_at": "2026-11-09 23:13:47",
+      "added_at": "2026-11-26 17:12:59",
+      "album": {
+        "name": "No Cage",
+        "url": "https://open.spotify.com/album/04yZuwj2dxTutk2qdLCsQC"
+      },
+      "artists": [
+        {
+          "name": "Giorgia Angiuli",
+          "url": "https://open.spotify.com/artist/4iHnLagnnmgiIwMSm1wuTq"
+        }
+      ],
+      "duration_ms": 240026,
+      "name": "One Breath",
+      "url": "https://open.spotify.com/track/4PAzxXV6VRSlziGccTOUnU"
+    },
+    {
+      "added_at": "2026-11-26 17:12:59",
+      "album": {
+        "name": "Guiding Voices EP",
+        "url": "https://open.spotify.com/album/0yjqXCNXvWGqWceeFp0BwR"
+      },
+      "artists": [
+        {
+          "name": "Zaa",
+          "url": "https://open.spotify.com/artist/3MJkjA2JwoLaRsEqooYtPu"
+        }
+      ],
+      "duration_ms": 211883,
+      "name": "Guiding Voices",
+      "url": "https://open.spotify.com/track/12PuQdRgzNW7u3K0EFkvdA"
+    },
+    {
+      "added_at": "2026-11-26 17:12:59",
+      "album": {
+        "name": "SMV017",
+        "url": "https://open.spotify.com/album/7LyDXRQhxNaGA8w985BCXN"
+      },
+      "artists": [
+        {
+          "name": "Ignez",
+          "url": "https://open.spotify.com/artist/35vEDafV45d7QN0D5rRwYV"
+        }
+      ],
+      "duration_ms": 348507,
+      "name": "Us In The Sand",
+      "url": "https://open.spotify.com/track/0il4PYxomh6pH0aY4FSk9U"
+    },
+    {
+      "added_at": "2026-11-26 17:12:59",
+      "album": {
+        "name": "It's the E",
+        "url": "https://open.spotify.com/album/3Fq6jiFykXaz4Pb43Bgp1s"
+      },
+      "artists": [
+        {
+          "name": "Pan-Pot",
+          "url": "https://open.spotify.com/artist/6OQOvP7RAdmAKVXXQqD0Se"
+        }
+      ],
+      "duration_ms": 214179,
+      "name": "It's the E",
+      "url": "https://open.spotify.com/track/7csV2fJMu6gv458oBqsoMK"
+    },
+    {
+      "added_at": "2026-11-26 17:12:59",
       "album": {
         "name": "Nava Shuru",
         "url": "https://open.spotify.com/album/4bDrK4ZFf4nYyZblNjqc1P"
@@ -29,7 +93,7 @@
       "url": "https://open.spotify.com/track/3HJtQkNms04N8BbGwJ5hNi"
     },
     {
-      "added_at": "2026-11-09 23:13:47",
+      "added_at": "2026-11-26 17:12:59",
       "album": {
         "name": "THE NIGHT GOES ON",
         "url": "https://open.spotify.com/album/4DbLMoLzlBDNmGDzFqAVrh"
@@ -45,7 +109,7 @@
       "url": "https://open.spotify.com/track/2yvI8iNb4srqkUHp6v1Pnb"
     },
     {
-      "added_at": "2026-11-09 23:13:47",
+      "added_at": "2026-11-26 17:12:59",
       "album": {
         "name": "Rain Tonight",
         "url": "https://open.spotify.com/album/0Md3bmjnIcD6U0iNGTssJR"
@@ -61,7 +125,7 @@
       "url": "https://open.spotify.com/track/615uAwouJzlpJhjTTtAXFf"
     },
     {
-      "added_at": "2026-11-09 23:13:47",
+      "added_at": "2026-11-26 17:12:59",
       "album": {
         "name": "The Portal Is You",
         "url": "https://open.spotify.com/album/5Jr4WzHqfP08SZvlEMBYZy"
@@ -81,7 +145,7 @@
       "url": "https://open.spotify.com/track/38TWnfdzg0XwJxcrER9SbN"
     },
     {
-      "added_at": "2026-11-09 23:13:47",
+      "added_at": "2026-11-26 17:12:59",
       "album": {
         "name": "Lucy (Volcano Remix)",
         "url": "https://open.spotify.com/album/1ewoHwfbbL62mvph5pSqiu"
@@ -105,7 +169,7 @@
       "url": "https://open.spotify.com/track/0iraOnKBU7ZN0XrQsN3uMK"
     },
     {
-      "added_at": "2026-11-09 23:13:47",
+      "added_at": "2026-11-26 17:12:59",
       "album": {
         "name": "Eternity",
         "url": "https://open.spotify.com/album/50kesCiqKZFQepNHGr5BR5"
@@ -121,7 +185,7 @@
       "url": "https://open.spotify.com/track/2npYtnKiCHNIj1PVsAxtPq"
     },
     {
-      "added_at": "2026-11-09 23:13:47",
+      "added_at": "2026-11-26 17:12:59",
       "album": {
         "name": "Amor EP",
         "url": "https://open.spotify.com/album/6v50qNzxBH7PI4rHsamjVX"
@@ -141,7 +205,7 @@
       "url": "https://open.spotify.com/track/4UhxekskWFXSv9ik933yBv"
     },
     {
-      "added_at": "2026-11-09 23:13:47",
+      "added_at": "2026-11-26 17:12:59",
       "album": {
         "name": "Done Searching",
         "url": "https://open.spotify.com/album/6yiWE718oOyYfQqxPl16Ol"
@@ -161,7 +225,7 @@
       "url": "https://open.spotify.com/track/7zVGrJKv5WEDW23z2qvmLR"
     },
     {
-      "added_at": "2026-11-09 23:13:47",
+      "added_at": "2026-11-26 17:12:59",
       "album": {
         "name": "Karmic Connection",
         "url": "https://open.spotify.com/album/5n2yyEvW8jrgpmjMxsurRc"
@@ -181,7 +245,7 @@
       "url": "https://open.spotify.com/track/1HWGuddEsyShwiBIBiiux9"
     },
     {
-      "added_at": "2026-11-09 23:13:47",
+      "added_at": "2026-11-26 17:12:59",
       "album": {
         "name": "Darkness",
         "url": "https://open.spotify.com/album/3zygknadb7Wu6t24FEa79g"
@@ -201,7 +265,7 @@
       "url": "https://open.spotify.com/track/78CcHDIIw093COMGylrkXj"
     },
     {
-      "added_at": "2026-11-09 23:13:47",
+      "added_at": "2026-11-26 17:12:59",
       "album": {
         "name": "Sacred Geometry",
         "url": "https://open.spotify.com/album/0CYafEex5MyTsJUfScXI3b"
@@ -221,7 +285,7 @@
       "url": "https://open.spotify.com/track/4buW4ERMvr8u1QTG2k9Jl5"
     },
     {
-      "added_at": "2026-11-09 23:13:47",
+      "added_at": "2026-11-26 17:12:59",
       "album": {
         "name": "Crazy People (Victor Ruiz Remix)",
         "url": "https://open.spotify.com/album/6TyFYm26pb39Lms5kOnOac"
@@ -241,7 +305,7 @@
       "url": "https://open.spotify.com/track/3amcv0aAbe57YRevwUxjVw"
     },
     {
-      "added_at": "2026-11-09 23:13:47",
+      "added_at": "2026-11-26 17:12:59",
       "album": {
         "name": "Gracias a la Vida (Victor Ruiz Remix)",
         "url": "https://open.spotify.com/album/4gvBFJbHDzyXIKK96hK0Jz"
@@ -261,7 +325,7 @@
       "url": "https://open.spotify.com/track/5vUYZ2rVqQHkZufW6PWmwF"
     },
     {
-      "added_at": "2026-11-09 23:13:47",
+      "added_at": "2026-11-26 17:12:59",
       "album": {
         "name": "Various Artist, Vol. 6 - 4 Years",
         "url": "https://open.spotify.com/album/6zKrUCc1yKmlLtEiexsq2A"
@@ -281,7 +345,7 @@
       "url": "https://open.spotify.com/track/66nRIVQe3VCVha8TpWb7DU"
     },
     {
-      "added_at": "2026-11-09 23:13:47",
+      "added_at": "2026-11-26 17:12:59",
       "album": {
         "name": "What's a Girl to Do in '25",
         "url": "https://open.spotify.com/album/2K9OkH3GAXoussmUIZHAfr"
@@ -297,47 +361,7 @@
       "url": "https://open.spotify.com/track/3OgdqZIgGIqusstV9IqX6p"
     },
     {
-      "added_at": "2026-11-09 23:13:47",
-      "album": {
-        "name": "Na Le (Phaxe Remix)",
-        "url": "https://open.spotify.com/album/6caV8eLYgWB5g93DNeZXvE"
-      },
-      "artists": [
-        {
-          "name": "Omiki",
-          "url": "https://open.spotify.com/artist/7pHwBqsYULdAdHgSwf1q9f"
-        },
-        {
-          "name": "Phaxe",
-          "url": "https://open.spotify.com/artist/4Pgbnc1zRPquMFR4iPH3MN"
-        }
-      ],
-      "duration_ms": 418714,
-      "name": "Na Le - Phaxe Remix",
-      "url": "https://open.spotify.com/track/2TbB5iWJtLRCP7xIy8Zh5E"
-    },
-    {
-      "added_at": "2026-11-09 23:13:47",
-      "album": {
-        "name": "Frequency of Light",
-        "url": "https://open.spotify.com/album/49iJ3zTVYH9Q8bCV5PVcAV"
-      },
-      "artists": [
-        {
-          "name": "Annie Hill",
-          "url": "https://open.spotify.com/artist/2B6pK7a0cAqCTMIqOSEP5o"
-        },
-        {
-          "name": "Giorgia Angiuli",
-          "url": "https://open.spotify.com/artist/4iHnLagnnmgiIwMSm1wuTq"
-        }
-      ],
-      "duration_ms": 326221,
-      "name": "Euphoria",
-      "url": "https://open.spotify.com/track/6ZWYz03Cuv1KYV3V4e3eGI"
-    },
-    {
-      "added_at": "2026-11-09 23:13:47",
+      "added_at": "2026-11-26 17:12:59",
       "album": {
         "name": "WIND",
         "url": "https://open.spotify.com/album/63He7s0muq7kACjVOGszvC"
@@ -357,7 +381,7 @@
       "url": "https://open.spotify.com/track/1UhzFALHc9kjh3UqRJjR02"
     },
     {
-      "added_at": "2026-11-09 23:13:47",
+      "added_at": "2026-11-26 17:12:59",
       "album": {
         "name": "Out of Time",
         "url": "https://open.spotify.com/album/5qwxuDwCYHD0sH8wCfzAnS"
@@ -377,7 +401,7 @@
       "url": "https://open.spotify.com/track/443M0kCEyrSg4V7R5mtq8X"
     },
     {
-      "added_at": "2026-11-09 23:13:47",
+      "added_at": "2026-11-26 17:12:59",
       "album": {
         "name": "Planetary_4.2 (Live)",
         "url": "https://open.spotify.com/album/5dSuaG8t4m7y3lefnuMF3M"
@@ -393,7 +417,7 @@
       "url": "https://open.spotify.com/track/6rRIi4fwSDHXYPGsMID3ez"
     },
     {
-      "added_at": "2026-11-09 23:13:47",
+      "added_at": "2026-11-26 17:12:59",
       "album": {
         "name": "Awakening",
         "url": "https://open.spotify.com/album/2RcOV3RnAldIg93TYJED1m"
@@ -409,7 +433,7 @@
       "url": "https://open.spotify.com/track/6wrPQMbHMvItfofIpGF4bn"
     },
     {
-      "added_at": "2026-11-09 23:13:47",
+      "added_at": "2026-11-26 17:12:59",
       "album": {
         "name": "OM SAI",
         "url": "https://open.spotify.com/album/2ppfAwjb5DRyZODBPlRY8a"
@@ -425,7 +449,7 @@
       "url": "https://open.spotify.com/track/1DlBwQWe1vws439Y6tmPOX"
     },
     {
-      "added_at": "2026-11-09 23:13:47",
+      "added_at": "2026-11-26 17:12:59",
       "album": {
         "name": "Music Never Stops",
         "url": "https://open.spotify.com/album/0o26WuwLDlmmECVwqsnMDe"
@@ -441,7 +465,7 @@
       "url": "https://open.spotify.com/track/3lHT8c3vKC3hdUrybNS617"
     },
     {
-      "added_at": "2026-11-09 23:13:47",
+      "added_at": "2026-11-26 17:12:59",
       "album": {
         "name": "Feeling of Freedom",
         "url": "https://open.spotify.com/album/4uumXH9NEITg8Q0BOQDGh1"
@@ -461,7 +485,7 @@
       "url": "https://open.spotify.com/track/69OZfULKD1LLn8iZt97RzO"
     },
     {
-      "added_at": "2026-11-09 23:13:47",
+      "added_at": "2026-11-26 17:12:59",
       "album": {
         "name": "Sofia",
         "url": "https://open.spotify.com/album/1bYHcpySfB2nB010FkFHWC"
@@ -481,7 +505,7 @@
       "url": "https://open.spotify.com/track/3HD3QiXD5962IrhFhCyXnd"
     },
     {
-      "added_at": "2026-11-09 23:13:47",
+      "added_at": "2026-11-26 17:12:59",
       "album": {
         "name": "Frequency of Light",
         "url": "https://open.spotify.com/album/49iJ3zTVYH9Q8bCV5PVcAV"
@@ -497,7 +521,7 @@
       "url": "https://open.spotify.com/track/0W6f2rnY5ni0hhv6j6Ek1G"
     },
     {
-      "added_at": "2026-11-09 23:13:47",
+      "added_at": "2026-11-26 17:12:59",
       "album": {
         "name": "Ritualism EP",
         "url": "https://open.spotify.com/album/0fxg0IWKE9wC47QNPL80uf"
@@ -513,7 +537,7 @@
       "url": "https://open.spotify.com/track/6kjcAmDG2MM2zWUw5lyTGH"
     },
     {
-      "added_at": "2026-11-09 23:13:47",
+      "added_at": "2026-11-26 17:12:59",
       "album": {
         "name": "OM SAI",
         "url": "https://open.spotify.com/album/2ppfAwjb5DRyZODBPlRY8a"
@@ -529,7 +553,7 @@
       "url": "https://open.spotify.com/track/7b5ExrWPBJev5TXhqrYzJJ"
     },
     {
-      "added_at": "2026-11-09 23:13:47",
+      "added_at": "2026-11-26 17:12:59",
       "album": {
         "name": "Alternate States of Reality",
         "url": "https://open.spotify.com/album/2LC70IrDd9LS3jxoJtQ9Gp"
@@ -545,7 +569,7 @@
       "url": "https://open.spotify.com/track/4JT6iFelefAGnTa6IYr2Qz"
     },
     {
-      "added_at": "2026-11-09 23:13:47",
+      "added_at": "2026-11-26 17:12:59",
       "album": {
         "name": "Breakthrough",
         "url": "https://open.spotify.com/album/1bv07deJ1WIVfiJJ6pSEVG"
@@ -561,7 +585,7 @@
       "url": "https://open.spotify.com/track/2VMmEwXdIujvxqwx3Y1buA"
     },
     {
-      "added_at": "2026-11-09 23:13:47",
+      "added_at": "2026-11-26 17:12:59",
       "album": {
         "name": "The Final Chapter",
         "url": "https://open.spotify.com/album/3fPKtayucX2AynTWEhSRE0"
@@ -585,7 +609,7 @@
       "url": "https://open.spotify.com/track/0CC1OTd1zrA3k7NyOqyYN1"
     },
     {
-      "added_at": "2026-11-09 23:13:47",
+      "added_at": "2026-11-26 17:12:59",
       "album": {
         "name": "All Night Long",
         "url": "https://open.spotify.com/album/7wNodDzHW0c1VgR1DOZicQ"
@@ -605,7 +629,7 @@
       "url": "https://open.spotify.com/track/28LGgAwi2ZhYCQWHQk0EcB"
     },
     {
-      "added_at": "2026-11-09 23:13:47",
+      "added_at": "2026-11-26 17:12:59",
       "album": {
         "name": "Reflex",
         "url": "https://open.spotify.com/album/2eOceXzjQHMyuTa5nAIpLe"
@@ -621,7 +645,7 @@
       "url": "https://open.spotify.com/track/3vAj1bE7xK1BfDB2DdkcCf"
     },
     {
-      "added_at": "2026-11-09 23:13:47",
+      "added_at": "2026-11-26 17:12:59",
       "album": {
         "name": "Yin Yang",
         "url": "https://open.spotify.com/album/6pc2eGF46AyUmDZDtQC1A7"
@@ -641,7 +665,7 @@
       "url": "https://open.spotify.com/track/673wjzs04n60LqO2l9bW9o"
     },
     {
-      "added_at": "2026-11-09 23:13:47",
+      "added_at": "2026-11-26 17:12:59",
       "album": {
         "name": "Loving Sphere",
         "url": "https://open.spotify.com/album/7HUdf3d2YErEziWGnhq79N"
@@ -657,7 +681,7 @@
       "url": "https://open.spotify.com/track/45DAIAN2Rbeimochn9iZYJ"
     },
     {
-      "added_at": "2026-11-09 23:13:47",
+      "added_at": "2026-11-26 17:12:59",
       "album": {
         "name": "I Was Laid-Back A Sinner Of Sorts EP",
         "url": "https://open.spotify.com/album/2IXM3WGkhhpqtR0ugHwPVx"
@@ -673,31 +697,7 @@
       "url": "https://open.spotify.com/track/5DX65uqCMWTzEdlvUfkioW"
     },
     {
-      "added_at": "2026-11-09 23:13:47",
-      "album": {
-        "name": "Sarabande",
-        "url": "https://open.spotify.com/album/4X7B8PnpBn7jZ1xDGrmIRS"
-      },
-      "artists": [
-        {
-          "name": "Armin van Buuren",
-          "url": "https://open.spotify.com/artist/0SfsnGyD8FpIN4U4WCkBZ5"
-        },
-        {
-          "name": "Vini Vici",
-          "url": "https://open.spotify.com/artist/29zsVzEH33dD5QqxeL8dvy"
-        },
-        {
-          "name": "Anna Timofei",
-          "url": "https://open.spotify.com/artist/4srvcFuQaZHS0KyBvFApWG"
-        }
-      ],
-      "duration_ms": 196666,
-      "name": "Sarabande",
-      "url": "https://open.spotify.com/track/5ZwFCHzRbAll8TTvDmAKht"
-    },
-    {
-      "added_at": "2026-11-09 23:13:47",
+      "added_at": "2026-11-26 17:12:59",
       "album": {
         "name": "I Wanna Feel Alive",
         "url": "https://open.spotify.com/album/0h6CgBHJzlN4HsGgaK5g3m"
@@ -713,7 +713,7 @@
       "url": "https://open.spotify.com/track/0zAt0nMa8R6Tfs5DGShLTE"
     },
     {
-      "added_at": "2026-11-09 23:13:47",
+      "added_at": "2026-11-26 17:12:59",
       "album": {
         "name": "Nanana",
         "url": "https://open.spotify.com/album/1VSYmeKN8agcZwlbUEHhC9"
@@ -729,7 +729,7 @@
       "url": "https://open.spotify.com/track/0lN46YG9nlCfJYf1JJQfOf"
     },
     {
-      "added_at": "2026-11-09 23:13:47",
+      "added_at": "2026-11-26 17:12:59",
       "album": {
         "name": "Horizon",
         "url": "https://open.spotify.com/album/5TSEQ2DdbKJPKEoaPBw5dv"
@@ -745,7 +745,7 @@
       "url": "https://open.spotify.com/track/0dtcPNiHxNdCeV9y8VaUW0"
     },
     {
-      "added_at": "2026-11-09 23:13:47",
+      "added_at": "2026-11-26 17:12:59",
       "album": {
         "name": "Panda On Fire",
         "url": "https://open.spotify.com/album/6dAkTnv5S6I7mjpI2cKfT1"
@@ -761,7 +761,7 @@
       "url": "https://open.spotify.com/track/5SJ21sgFdP5OKAIie1KSKs"
     },
     {
-      "added_at": "2026-11-09 23:13:47",
+      "added_at": "2026-11-26 17:12:59",
       "album": {
         "name": "Pale Light",
         "url": "https://open.spotify.com/album/6maZwUHv4hHHJl4Bzh4Q9k"
@@ -777,7 +777,7 @@
       "url": "https://open.spotify.com/track/64F0tid5vwapfuC4ERAHyA"
     },
     {
-      "added_at": "2026-11-09 23:13:47",
+      "added_at": "2026-11-26 17:12:59",
       "album": {
         "name": "The Chant",
         "url": "https://open.spotify.com/album/7MLHFcsLvgaL9nYzCf0AhL"
@@ -793,7 +793,7 @@
       "url": "https://open.spotify.com/track/0FIhFH19nbRao16SbzZ5dQ"
     },
     {
-      "added_at": "2026-11-09 23:13:47",
+      "added_at": "2026-11-26 17:12:59",
       "album": {
         "name": "Viento EP",
         "url": "https://open.spotify.com/album/3hDDHGN0YNff3d31AkRGaV"
@@ -809,7 +809,7 @@
       "url": "https://open.spotify.com/track/1aLfpxEUwwrB2zItNq7wrd"
     },
     {
-      "added_at": "2026-11-09 23:13:47",
+      "added_at": "2026-11-26 17:12:59",
       "album": {
         "name": "RITMO",
         "url": "https://open.spotify.com/album/0OD7izYJwTmirMdqjOS43Q"
@@ -833,7 +833,7 @@
       "url": "https://open.spotify.com/track/3ifvaAvaSYo1WDWXxAiv2A"
     },
     {
-      "added_at": "2026-11-09 23:13:47",
+      "added_at": "2026-11-26 17:12:59",
       "album": {
         "name": "Gipsy Queen EP",
         "url": "https://open.spotify.com/album/4p8kZszfLI7pLJjTEfrErx"
@@ -849,7 +849,7 @@
       "url": "https://open.spotify.com/track/5Y1SndahLemyQ1M9ydCf6N"
     },
     {
-      "added_at": "2026-11-09 23:13:47",
+      "added_at": "2026-11-26 17:12:59",
       "album": {
         "name": "Falling For You",
         "url": "https://open.spotify.com/album/06IxEeX95EI0GlyfuuPqjS"
@@ -865,27 +865,7 @@
       "url": "https://open.spotify.com/track/6KmjD9CaophLMXTCzKoLLZ"
     },
     {
-      "added_at": "2026-11-09 23:13:47",
-      "album": {
-        "name": "The Moment",
-        "url": "https://open.spotify.com/album/3vX5mMRLcvvpFXh0g0iTqA"
-      },
-      "artists": [
-        {
-          "name": "Gproject",
-          "url": "https://open.spotify.com/artist/4hTA1aFIjHiyJhDb5sPW7P"
-        },
-        {
-          "name": "Coexist",
-          "url": "https://open.spotify.com/artist/7I08DUDSBedSy10Pctjpjf"
-        }
-      ],
-      "duration_ms": 168428,
-      "name": "The Moment",
-      "url": "https://open.spotify.com/track/4s5Exhx0XrDLLvpgNuXaCI"
-    },
-    {
-      "added_at": "2026-11-09 23:13:47",
+      "added_at": "2026-11-26 17:12:59",
       "album": {
         "name": "2084 (Space 92 Remix)",
         "url": "https://open.spotify.com/album/38Ws4sERTEy1ACzu4CnLFA"
@@ -905,7 +885,7 @@
       "url": "https://open.spotify.com/track/75SedaGZfay5uZffxEzk7M"
     },
     {
-      "added_at": "2026-11-09 23:13:47",
+      "added_at": "2026-11-26 17:12:59",
       "album": {
         "name": "Born Again (Babylonia) feat. Widemode",
         "url": "https://open.spotify.com/album/7zKOmzXqKcDNlHGpE1DnQ1"

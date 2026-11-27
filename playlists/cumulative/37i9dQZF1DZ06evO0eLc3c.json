@@ -370,7 +370,7 @@
       ],
       "date_added": "2026-08-26",
       "date_added_asterisk": false,
-      "date_removed": "2026-11-25",
+      "date_removed": null,
       "duration_ms": 213466,
       "name": "Capitol Letter - From \u201cThe Hunger Games: Catching Fire\" Soundtrack",
       "url": "https://open.spotify.com/track/6nFTOfz07bLtJWaAwLKYkF"
@@ -738,7 +738,7 @@
       ],
       "date_added": "2025-03-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-27",
       "duration_ms": 183289,
       "name": "Glitter In Their Eyes",
       "url": "https://open.spotify.com/track/3XGLnUh9XzH1KiAobnpzsv"
@@ -954,10 +954,28 @@
       ],
       "date_added": "2025-03-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-27",
       "duration_ms": 265466,
       "name": "Kimberly",
       "url": "https://open.spotify.com/track/0iI8LriXKjg47IxjNCWuwz"
+    },
+    {
+      "album": {
+        "name": "Horses",
+        "url": "https://open.spotify.com/album/0OeuSeP8wp8n8OuTqYb61C"
+      },
+      "artists": [
+        {
+          "name": "Patti Smith",
+          "url": "https://open.spotify.com/artist/0vYkHhJ48Bs3jWcvZXvOrP"
+        }
+      ],
+      "date_added": "2026-11-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 267613,
+      "name": "Kimberly",
+      "url": "https://open.spotify.com/track/7JeR5T5cdJmtZUZX6itEL1"
     },
     {
       "album": {

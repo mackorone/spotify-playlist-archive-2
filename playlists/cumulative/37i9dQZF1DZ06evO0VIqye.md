@@ -4,7 +4,7 @@
 
 > This is Joan Jett & the Blackhearts\. The essential tracks, all in one playlist.
 
-119 songs - 6 hr 35 min
+120 songs - 6 hr 38 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -61,8 +61,8 @@
 | [I Love Rock 'N Roll](https://open.spotify.com/track/4jTqsgDaffdNH0BMBwhjFv) | [Joan Jett & the Blackhearts](https://open.spotify.com/artist/1Fmb52lZ6Jv7FMWXXTPO3K) | [I Love Rock 'N' Roll \(Expanded Edition\)](https://open.spotify.com/album/1MYPH5YMxk1auN13mcfLvh) | 2:55 | 2026-04-21 |  |
 | [I Love You Love Me Love](https://open.spotify.com/track/5mNnb2gpeXCaPRbJKLI4ue) | [Joan Jett & the Blackhearts](https://open.spotify.com/artist/1Fmb52lZ6Jv7FMWXXTPO3K) | [Glorious Results of a Misspent Youth \(Expanded Edition\)](https://open.spotify.com/album/5g0tzzMKPjOFd3tbjvVISF) | 3:19 | 2026-05-04 |  |
 | [I Still Dream About You](https://open.spotify.com/track/6y7Jl5Jrmdl0fCFcOVmnbX) | [Joan Jett & the Blackhearts](https://open.spotify.com/artist/1Fmb52lZ6Jv7FMWXXTPO3K) | [Up Your Alley](https://open.spotify.com/album/2pkv3nrNrwtUdT8VNWwt5U) | 3:22 | 2025-03-08 | 2026-05-09 |
-| [I Wanna Be Your Dog](https://open.spotify.com/track/2VppbCFGniv58380qH2Ut3) | [Joan Jett & the Blackhearts](https://open.spotify.com/artist/1Fmb52lZ6Jv7FMWXXTPO3K) | [Up Your Alley](https://open.spotify.com/album/2pkv3nrNrwtUdT8VNWwt5U) | 5:10 | 2025-03-08 | 2026-11-12 |
-| [I Wanna Be Your Dog](https://open.spotify.com/track/2q9E4H2F41UU6tAGGnQLPY) | [Joan Jett & the Blackhearts](https://open.spotify.com/artist/1Fmb52lZ6Jv7FMWXXTPO3K) | [Up Your Alley](https://open.spotify.com/album/21b03QbYud0qjLM5vd7VZa) | 5:10 | 2026-05-15 |  |
+| [I Wanna Be Your Dog](https://open.spotify.com/track/2VppbCFGniv58380qH2Ut3) | [Joan Jett & the Blackhearts](https://open.spotify.com/artist/1Fmb52lZ6Jv7FMWXXTPO3K) | [Up Your Alley](https://open.spotify.com/album/2pkv3nrNrwtUdT8VNWwt5U) | 5:10 | 2025-03-08 |  |
+| [I Wanna Be Your Dog](https://open.spotify.com/track/2q9E4H2F41UU6tAGGnQLPY) | [Joan Jett & the Blackhearts](https://open.spotify.com/artist/1Fmb52lZ6Jv7FMWXXTPO3K) | [Up Your Alley](https://open.spotify.com/album/21b03QbYud0qjLM5vd7VZa) | 5:10 | 2026-05-15 | 2026-11-27 |
 | [I Want You](https://open.spotify.com/track/1AKXEXuWv0g6XQSghcJtNO) | [Joan Jett & the Blackhearts](https://open.spotify.com/artist/1Fmb52lZ6Jv7FMWXXTPO3K) | [First Sessions](https://open.spotify.com/album/72grmzVPqrB4FnWtmGNqS9) | 2:41 | 2025-03-08 | 2026-04-24 |
 | [I Want You](https://open.spotify.com/track/3k3HYJsn50Gq3dEwD43tA1) | [Joan Jett & the Blackhearts](https://open.spotify.com/artist/1Fmb52lZ6Jv7FMWXXTPO3K) | [First Sessions](https://open.spotify.com/album/7i1OFBJxdffF2n51eE8DWv) | 2:41 | 2026-06-14 |  |
 | [I Want You](https://open.spotify.com/track/5tgl0clpp1zalEpKZhwluY) | [Joan Jett & the Blackhearts](https://open.spotify.com/artist/1Fmb52lZ6Jv7FMWXXTPO3K) | [Greatest Hits](https://open.spotify.com/album/6CpI2jDw8f36Rsfnq9Zirr) | 2:42 | 2026-04-24 | 2026-06-14 |
@@ -97,7 +97,8 @@
 | [Roadrunner USA \(1990 Version\)](https://open.spotify.com/track/0brwJjW5cYLuxXaBOMY1Za) | [Joan Jett & the Blackhearts](https://open.spotify.com/artist/1Fmb52lZ6Jv7FMWXXTPO3K) | [The Hit List](https://open.spotify.com/album/2mIFpqxnoM71gHMBKlzZtM) | 3:34 | 2026-04-05 | 2026-04-14 |
 | [School Days](https://open.spotify.com/track/15u5TiwDho7b2WK0R6PvAA) | [Joan Jett & the Blackhearts](https://open.spotify.com/artist/1Fmb52lZ6Jv7FMWXXTPO3K) | [Greatest Hits](https://open.spotify.com/album/5UwhZD3iKYWPKLvuedpVsl) | 3:02 | 2025-03-08 | 2026-04-22 |
 | [School Days](https://open.spotify.com/track/1MF8OVGu3gujAmcWGCcjuH) | [Joan Jett & the Blackhearts](https://open.spotify.com/artist/1Fmb52lZ6Jv7FMWXXTPO3K) | [Greatest Hits](https://open.spotify.com/album/6CpI2jDw8f36Rsfnq9Zirr) | 3:02 | 2026-04-22 | 2026-08-15 |
-| [School Days](https://open.spotify.com/track/7nfFHki7aSYJoLXe2sT2CQ) | [Joan Jett & the Blackhearts](https://open.spotify.com/artist/1Fmb52lZ6Jv7FMWXXTPO3K) | [Essentials](https://open.spotify.com/album/0eSjKB1TVEDXH1QAJNj9PG) | 3:02 | 2026-08-15 |  |
+| [School Days](https://open.spotify.com/track/5iHf2aHFR9lOZOvowbdOCr) | [Joan Jett & the Blackhearts](https://open.spotify.com/artist/1Fmb52lZ6Jv7FMWXXTPO3K) | [Essentials](https://open.spotify.com/album/6OcJjMjfTSTQs7j5JpgNNf) | 3:02 | 2026-11-27 |  |
+| [School Days](https://open.spotify.com/track/7nfFHki7aSYJoLXe2sT2CQ) | [Joan Jett & the Blackhearts](https://open.spotify.com/artist/1Fmb52lZ6Jv7FMWXXTPO3K) | [Essentials](https://open.spotify.com/album/0eSjKB1TVEDXH1QAJNj9PG) | 3:02 | 2026-08-15 | 2026-11-27 |
 | [Science Fiction/Double Feature](https://open.spotify.com/track/4Ox0knu2d0pShadIkPIjeh) | [Joan Jett & the Blackhearts](https://open.spotify.com/artist/1Fmb52lZ6Jv7FMWXXTPO3K) | [Dr\. Demento Covered In Punk](https://open.spotify.com/album/2uGft4b3hT4lbPEeg89wh3) | 3:54 | 2025-03-08 |  |
 | [Season of the Witch \- From the Netflix Series The Sons of Sam: A Descent Into Darkness](https://open.spotify.com/track/4hioZPeQC25oPzJvmP2mMY) | [Joan Jett & the Blackhearts](https://open.spotify.com/artist/1Fmb52lZ6Jv7FMWXXTPO3K) | [Season of the Witch \(From the Netflix Series The Sons of Sam: A Descent Into Darkness\)](https://open.spotify.com/album/1p3KuU8VZEjN6t9jcl0ccl) | 5:02 | 2026-04-20 |  |
 | [Season of the Witch \- From the Netflix Series The Sons of Sam: A Descent Into Darkness](https://open.spotify.com/track/6beSKm10DXDnYtOYnJ8dSG) | [Joan Jett & the Blackhearts](https://open.spotify.com/artist/1Fmb52lZ6Jv7FMWXXTPO3K) | [Season of the Witch \(From the Netflix Series The Sons of Sam: A Descent Into Darkness\)](https://open.spotify.com/album/6B90EJpSGFOJeTvAq8KWiA) | 5:02 | 2025-03-08 | 2026-04-20 |

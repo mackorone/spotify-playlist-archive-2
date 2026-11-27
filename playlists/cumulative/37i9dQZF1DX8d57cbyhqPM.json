@@ -11572,7 +11572,7 @@
       ],
       "date_added": "2026-07-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-27",
       "duration_ms": 137478,
       "name": "Nouveaux V\u00eatements",
       "url": "https://open.spotify.com/track/0u2uOHTTxWDclpULXVVktT"
@@ -12768,6 +12768,32 @@
       "duration_ms": 177276,
       "name": "Petit \u00e0 Petit",
       "url": "https://open.spotify.com/track/24Eg4AIHzKntUr89tXWNw5"
+    },
+    {
+      "album": {
+        "name": "KINDOKI",
+        "url": "https://open.spotify.com/album/6XFYhNt5ma9mTyWNWin8lD"
+      },
+      "artists": [
+        {
+          "name": "BabyDaiz",
+          "url": "https://open.spotify.com/artist/75ffkjzl2yQm2wRvP5QL4s"
+        },
+        {
+          "name": "KindlyNxsh",
+          "url": "https://open.spotify.com/artist/10G2iWM2FoafpNGqXZ9QMR"
+        },
+        {
+          "name": "Brotherkupa",
+          "url": "https://open.spotify.com/artist/2SRkMY6LxkfTMqktaFn32r"
+        }
+      ],
+      "date_added": "2026-11-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 180927,
+      "name": "Phumela",
+      "url": "https://open.spotify.com/track/6jfwLeCsMOuFtlXk5SdqG2"
     },
     {
       "album": {

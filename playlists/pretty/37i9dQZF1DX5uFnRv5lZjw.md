@@ -4,15 +4,15 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5uFnRv5lZjw.md) - [plain]
 
 > doom scrolling is out, off\-grid is in.
 
-[Spotify](https://open.spotify.com/user/spotify) - 79,242 likes - 117 songs - 4 hr 58 min
+[Spotify](https://open.spotify.com/user/spotify) - 79,258 likes - 117 songs - 4 hr 58 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [Adieux](https://open.spotify.com/track/2lHRiPZ9BGevu7jnXDo7q8) | [Ludovico Einaudi](https://open.spotify.com/artist/2uFUBdaVGtyMqckSeCl0Qj) | [Experience](https://open.spotify.com/album/0VZo00CZ7kv8GH7fUzSqTr) | 2:55 |
 | 2 | [Dawn Chorus \- III\. Fratercula arctica \- Andante](https://open.spotify.com/track/27aXOOXT0NbnFmb0DvXgOl) | [Erland Cooper](https://open.spotify.com/artist/636k3cBTCgdZfXzCj7Cuaa), [BBC Scottish Symphony Orchestra](https://open.spotify.com/artist/3CufywuKIBC8WhWNvzTQr1), [Freya Goldmark](https://open.spotify.com/artist/3JlsLQ4654rWTZKRqoWhr1), [Janne Nisonen](https://open.spotify.com/artist/0wAXBGTTMma4WuOU8B8XbU) | [Dawn Chorus](https://open.spotify.com/album/0QFltWe8mBdI4oKIV3CsSh) | 3:25 |
-| 3 | [Half Of My Soul](https://open.spotify.com/track/5ykVoVdexmabNS0Oi8RFSs) | [Teide](https://open.spotify.com/artist/31JZooajAUmQZAX2j6fPZ5) | [Half Of My Soul](https://open.spotify.com/album/6Ph4IPNvLZZh6kqBxmbZ60) | 3:41 |
-| 4 | [Can't Be Replaced](https://open.spotify.com/track/23xsPaiiJQ0StFj9NmTcHG) | [Mírabilis](https://open.spotify.com/artist/11nkqtBGx6kKdNeaT2hQYD) | [Can't Be Replaced](https://open.spotify.com/album/5lB5I9Lx2dl9rqcObrd6Qi) | 2:23 |
-| 5 | [Temporary Coexistence](https://open.spotify.com/track/44UULCqmzqSuT4FzNoALZl) | [Peter Sandberg](https://open.spotify.com/artist/3LtlJprzuq0Ii8p8YFZXai) | [Temporary Coexistence of Humans](https://open.spotify.com/album/2ob168pec2r2ZtuSjzbgtz) | 2:53 |
+| 3 | [Temporary Coexistence](https://open.spotify.com/track/44UULCqmzqSuT4FzNoALZl) | [Peter Sandberg](https://open.spotify.com/artist/3LtlJprzuq0Ii8p8YFZXai) | [Temporary Coexistence of Humans](https://open.spotify.com/album/2ob168pec2r2ZtuSjzbgtz) | 2:53 |
+| 4 | [Half Of My Soul](https://open.spotify.com/track/5ykVoVdexmabNS0Oi8RFSs) | [Teide](https://open.spotify.com/artist/31JZooajAUmQZAX2j6fPZ5) | [Half Of My Soul](https://open.spotify.com/album/6Ph4IPNvLZZh6kqBxmbZ60) | 3:41 |
+| 5 | [Can't Be Replaced](https://open.spotify.com/track/23xsPaiiJQ0StFj9NmTcHG) | [Mírabilis](https://open.spotify.com/artist/11nkqtBGx6kKdNeaT2hQYD) | [Can't Be Replaced](https://open.spotify.com/album/5lB5I9Lx2dl9rqcObrd6Qi) | 2:23 |
 | 6 | [Coffee Song](https://open.spotify.com/track/49Uq9mhpvn5a6mG5CWTkqh) | [Alexis Ffrench](https://open.spotify.com/artist/58R31AvN8JMHM7xkNpVLjX) | [24](https://open.spotify.com/album/2WffmCGMsHFGSjdHj3YHtW) | 2:51 |
 | 7 | [Truth Within](https://open.spotify.com/track/3mRO22aXY2HAdEVFluFrXI) | [Adrián Úlfur](https://open.spotify.com/artist/6Ei452Lp70QGEgTKGcAqUw) | [Truth Within](https://open.spotify.com/album/0LW4Hr1eiR2BodmRD9iDev) | 2:21 |
 | 8 | [Sula bassana \- Excerpt II](https://open.spotify.com/track/4gLfPQ5wKTjH6wpx74Irdr) | [Erland Cooper](https://open.spotify.com/artist/636k3cBTCgdZfXzCj7Cuaa), [BBC Scottish Symphony Orchestra](https://open.spotify.com/artist/3CufywuKIBC8WhWNvzTQr1) | [Sula bassana](https://open.spotify.com/album/1cvq1mlUEqgHkRQFpmx3AG) | 2:43 |
@@ -126,4 +126,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5uFnRv5lZjw.md) - [plain]
 | 116 | [Fleeting Dreams](https://open.spotify.com/track/5gHcTERPThy3uSkgj8Cegt) | [Ash Forrest](https://open.spotify.com/artist/6hoYRcfEHX7qRbBvQpoGCV) | [Fleeting Dreams](https://open.spotify.com/album/2Yqf95s4VCPO21d5URnAR1) | 2:21 |
 | 117 | [Amenable](https://open.spotify.com/track/45hCCandEc5IGL5p6rUy7g) | [Valter Soll](https://open.spotify.com/artist/1gD9cydWC0yCBMG8Bn6tau) | [Amenable](https://open.spotify.com/album/7lTPmvctkCtwVtMyJZtPaw) | 2:54 |
 
-Snapshot ID: `AAAAAPMaSazblrHkb82f0HsosmviCLys`
+Snapshot ID: `AAAAALF9rGd+LFjiQEVrIQ1MIwKEPnPP`

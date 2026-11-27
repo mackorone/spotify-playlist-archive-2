@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2023-02-03",
-  "description": "Indie, Pop und Rap mit deutschen Texten. Cover: Zartmann",
+  "description": "Indie, Pop und Rap mit deutschen Texten. Cover: Jonny Mahoro, fiora",
   "name": "Wilde Herzen",
   "tracks": [
     {
@@ -455,6 +455,24 @@
     },
     {
       "album": {
+        "name": "2005",
+        "url": "https://open.spotify.com/album/2A3NnyRADVFi7ZyeS23aCy"
+      },
+      "artists": [
+        {
+          "name": "Juli Gilde",
+          "url": "https://open.spotify.com/artist/4s1eFPN3Rvn8F56Rzs8UWS"
+        }
+      ],
+      "date_added": "2026-11-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 171605,
+      "name": "2005",
+      "url": "https://open.spotify.com/track/1Qb13MKmHX1eCAUhstvgec"
+    },
+    {
+      "album": {
         "name": "2008 (Venloer Stra\u00dfe)",
         "url": "https://open.spotify.com/album/1OOOgssijb6BL07fALclLy"
       },
@@ -488,6 +506,24 @@
       "duration_ms": 114093,
       "name": "2016",
       "url": "https://open.spotify.com/track/1wOMDZVFe2xZ6m0k6YCFZe"
+    },
+    {
+      "album": {
+        "name": "2023",
+        "url": "https://open.spotify.com/album/6ewShATEBspS2fLz26mhK7"
+      },
+      "artists": [
+        {
+          "name": "laela",
+          "url": "https://open.spotify.com/artist/6P2ykpNVv4VtvFijpIAEwF"
+        }
+      ],
+      "date_added": "2026-11-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 152790,
+      "name": "2023",
+      "url": "https://open.spotify.com/track/40seOuFWxOi7KrOUEsSWcQ"
     },
     {
       "album": {
@@ -1092,6 +1128,28 @@
       "duration_ms": 170000,
       "name": "9 To 5",
       "url": "https://open.spotify.com/track/7HRHKWjJ2JOfygbeUtogCs"
+    },
+    {
+      "album": {
+        "name": "Wo f\u00fchrt das hin?",
+        "url": "https://open.spotify.com/album/7uHjfZeEMba0eTlBpoREFN"
+      },
+      "artists": [
+        {
+          "name": "Lena&Linus",
+          "url": "https://open.spotify.com/artist/3DX6TJtDUfOov1NKF18IXh"
+        },
+        {
+          "name": "Otto Luft",
+          "url": "https://open.spotify.com/artist/3lJ8XUr1Urs6jApIR4Hk6H"
+        }
+      ],
+      "date_added": "2026-11-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 212368,
+      "name": "90s Sitcom",
+      "url": "https://open.spotify.com/track/4gtdRvqmExWupTILOVjn7b"
     },
     {
       "album": {
@@ -2210,7 +2268,7 @@
       ],
       "date_added": "2026-10-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-27",
       "duration_ms": 137506,
       "name": "Almer\u00eda",
       "url": "https://open.spotify.com/track/5ndluppHwAgqr4H13KiR05"
@@ -3875,6 +3933,42 @@
     },
     {
       "album": {
+        "name": "Beatles",
+        "url": "https://open.spotify.com/album/5VT7TsipkcZGQCrTKCkADp"
+      },
+      "artists": [
+        {
+          "name": "Haus F",
+          "url": "https://open.spotify.com/artist/29oAnuHTt0nstMUpXooF6R"
+        }
+      ],
+      "date_added": "2026-11-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 124186,
+      "name": "Beatles",
+      "url": "https://open.spotify.com/track/3Bo5ERlQkuYMLy2KBc4B29"
+    },
+    {
+      "album": {
+        "name": "beetlejuice",
+        "url": "https://open.spotify.com/album/3eo9TSYea2d64T21NLSMwI"
+      },
+      "artists": [
+        {
+          "name": "YRRRE",
+          "url": "https://open.spotify.com/artist/1wwT1eZWyAjVXbb1qpzEVC"
+        }
+      ],
+      "date_added": "2026-11-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 88613,
+      "name": "beetlejuice",
+      "url": "https://open.spotify.com/track/1gO2LUB4HopqYa5heKylkt"
+    },
+    {
+      "album": {
         "name": "Bei dir",
         "url": "https://open.spotify.com/album/3V9JIUKGUb5yghblRgYFXQ"
       },
@@ -4494,7 +4588,7 @@
       ],
       "date_added": "2026-11-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-27",
       "duration_ms": 170223,
       "name": "bis zur sehne",
       "url": "https://open.spotify.com/track/6kHiiT7SsGf8YSVjP91HvJ"
@@ -5528,6 +5622,28 @@
       "duration_ms": 165629,
       "name": "Brich mich",
       "url": "https://open.spotify.com/track/2r67sBB5WQWUdrVKz8sFnU"
+    },
+    {
+      "album": {
+        "name": "Bringst du mir das bei",
+        "url": "https://open.spotify.com/album/5JPZIOiVCwX0zrfAqUEm7O"
+      },
+      "artists": [
+        {
+          "name": "fiora",
+          "url": "https://open.spotify.com/artist/757EH7oogI3l10jrOicVzE"
+        },
+        {
+          "name": "Jonny Mahoro",
+          "url": "https://open.spotify.com/artist/6yo5P4iDSOU6JnCRGJfU98"
+        }
+      ],
+      "date_added": "2026-11-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 142040,
+      "name": "Bringst du mir das bei",
+      "url": "https://open.spotify.com/track/7l3t41HQhAGVZ28ccONm5t"
     },
     {
       "album": {
@@ -7870,7 +7986,7 @@
       ],
       "date_added": "2026-11-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-27",
       "duration_ms": 102302,
       "name": "Dieses Jahr",
       "url": "https://open.spotify.com/track/0UgFcDkE0UrfKcNSh8VMIo"
@@ -15024,7 +15140,7 @@
       ],
       "date_added": "2026-11-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-27",
       "duration_ms": 152920,
       "name": "hei\u00dfer regen",
       "url": "https://open.spotify.com/track/6XPv3jtoikDX7hWrJkUHYI"
@@ -16075,6 +16191,24 @@
     },
     {
       "album": {
+        "name": "ich hab genauso angst wie du",
+        "url": "https://open.spotify.com/album/0gdwNHikW88NQCgi2fcm24"
+      },
+      "artists": [
+        {
+          "name": "verifiziert",
+          "url": "https://open.spotify.com/artist/1SF4jakSq8kI38MYjFdaJG"
+        }
+      ],
+      "date_added": "2026-11-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 166321,
+      "name": "ich hab genauso angst wie du",
+      "url": "https://open.spotify.com/track/0OvDEcF9I7mpInyMrKvvrR"
+    },
+    {
+      "album": {
         "name": "Ich hab jeder KI von dir erz\u00e4hlt",
         "url": "https://open.spotify.com/album/0xn8KVXofsrpwNhnzNHfeG"
       },
@@ -16264,6 +16398,24 @@
       "duration_ms": 128100,
       "name": "ich jogge",
       "url": "https://open.spotify.com/track/19ieMFEzKvEd2roacgVZC1"
+    },
+    {
+      "album": {
+        "name": "ich kenn mich",
+        "url": "https://open.spotify.com/album/6uoMhnf5DWX6cyVXxhpC0P"
+      },
+      "artists": [
+        {
+          "name": "elia",
+          "url": "https://open.spotify.com/artist/1UjKYskUYIgAunG722zG3I"
+        }
+      ],
+      "date_added": "2026-11-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 188000,
+      "name": "ich kenn mich",
+      "url": "https://open.spotify.com/track/7xUB3SnGN1tVw14pXkkPIl"
     },
     {
       "album": {
@@ -16612,6 +16764,24 @@
       "duration_ms": 207029,
       "name": "ich will nicht dass du mich wieder losl\u00e4sst",
       "url": "https://open.spotify.com/track/6WpDeRASFi6GZ558glUoKz"
+    },
+    {
+      "album": {
+        "name": "Ich will tanzen",
+        "url": "https://open.spotify.com/album/0yffmykrqAI3KdgKmseOv7"
+      },
+      "artists": [
+        {
+          "name": "NIEMALS",
+          "url": "https://open.spotify.com/artist/1yY1FbNGJVyaTQQ62PYv9y"
+        }
+      ],
+      "date_added": "2026-11-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 178476,
+      "name": "Ich will tanzen",
+      "url": "https://open.spotify.com/track/0VccaSP4bHIpwZGysYG7Kn"
     },
     {
       "album": {
@@ -22858,7 +23028,7 @@
       ],
       "date_added": "2026-10-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-27",
       "duration_ms": 281972,
       "name": "Mein Herz",
       "url": "https://open.spotify.com/track/4DWLDnKIh6vjK21vCGOCug"
@@ -23585,6 +23755,24 @@
     },
     {
       "album": {
+        "name": "mond",
+        "url": "https://open.spotify.com/album/0yUrR7acm4eMibHtDNfFfK"
+      },
+      "artists": [
+        {
+          "name": "selene",
+          "url": "https://open.spotify.com/artist/3Mg9i6HVFg0ETCcGMqNhU9"
+        }
+      ],
+      "date_added": "2026-11-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 155979,
+      "name": "mond",
+      "url": "https://open.spotify.com/track/73mfIhH95P7LLSY3JMUWJ9"
+    },
+    {
+      "album": {
         "name": "Monobloc",
         "url": "https://open.spotify.com/album/5zzXAbbVglZLcLXzfQ8C1S"
       },
@@ -23794,7 +23982,7 @@
       ],
       "date_added": "2026-11-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-27",
       "duration_ms": 171645,
       "name": "Most Wanted List",
       "url": "https://open.spotify.com/track/4sCRehp27HB4b9UoTBIGXT"
@@ -24076,7 +24264,7 @@
       ],
       "date_added": "2026-10-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-27",
       "duration_ms": 130000,
       "name": "Nachgeschmack",
       "url": "https://open.spotify.com/track/0S15EgLEle4KhJvHce5Bls"
@@ -25964,7 +26152,7 @@
       ],
       "date_added": "2026-11-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-27",
       "duration_ms": 177602,
       "name": "Panik",
       "url": "https://open.spotify.com/track/2BK8IbjNhDqjesN7El73Nx"
@@ -26228,7 +26416,7 @@
       ],
       "date_added": "2026-09-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-27",
       "duration_ms": 157392,
       "name": "Parkplatz Crashout",
       "url": "https://open.spotify.com/track/7DyFnam2Rue17ttj31lOqm"
@@ -26978,7 +27166,7 @@
       ],
       "date_added": "2026-11-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-27",
       "duration_ms": 150500,
       "name": "Rande der Welt",
       "url": "https://open.spotify.com/track/510pG1x5yUac4HHKu8ux4D"
@@ -29314,7 +29502,7 @@
       ],
       "date_added": "2026-11-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-27",
       "duration_ms": 212516,
       "name": "Sehenh\u00f6rensagen",
       "url": "https://open.spotify.com/track/3gUEzJ0pC47MdeRIrizA0P"
@@ -30284,6 +30472,24 @@
       "duration_ms": 214506,
       "name": "so k.o. (feat. JEREMIAS)",
       "url": "https://open.spotify.com/track/0B4gBXd4XLXGvaBl7pI2vL"
+    },
+    {
+      "album": {
+        "name": "So k\u00fchl",
+        "url": "https://open.spotify.com/album/4gqe8YWvQViubLoaJTkWem"
+      },
+      "artists": [
+        {
+          "name": "BIBIZA",
+          "url": "https://open.spotify.com/artist/4cohcn6lAkdQIAt3q5C4e2"
+        }
+      ],
+      "date_added": "2026-11-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 171500,
+      "name": "So k\u00fchl",
+      "url": "https://open.spotify.com/track/18chZ85CvMAQP1cXTrNjvO"
     },
     {
       "album": {
@@ -33561,6 +33767,24 @@
     },
     {
       "album": {
+        "name": "U8",
+        "url": "https://open.spotify.com/album/0I1mf2Q5tgRkdTRTJlxJ8e"
+      },
+      "artists": [
+        {
+          "name": "Am\u00e9lia",
+          "url": "https://open.spotify.com/artist/54FK3m7jbipAgbP1gx8fUa"
+        }
+      ],
+      "date_added": "2026-11-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 158235,
+      "name": "U8",
+      "url": "https://open.spotify.com/track/07g4OlJkpGtMjiHN0HIMBu"
+    },
+    {
+      "album": {
         "name": "ASPARTAM-BITTER",
         "url": "https://open.spotify.com/album/47VYg7TN4eKlJ6eNSV4zTo"
       },
@@ -36208,7 +36432,7 @@
       ],
       "date_added": "2026-10-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-27",
       "duration_ms": 138333,
       "name": "weltohnefarben",
       "url": "https://open.spotify.com/track/0H5hye7VY1TE4XnvzwUf68"
@@ -37247,6 +37471,24 @@
     },
     {
       "album": {
+        "name": "wiegehtsderliebe (demo)",
+        "url": "https://open.spotify.com/album/3byiFhUEfJelsbYayl7EJl"
+      },
+      "artists": [
+        {
+          "name": "MC WINDHUND",
+          "url": "https://open.spotify.com/artist/57MYoG73ZnyZPIpZbTXFUb"
+        }
+      ],
+      "date_added": "2026-11-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 129854,
+      "name": "wiegehtsderliebe - demo",
+      "url": "https://open.spotify.com/track/5eYB8kEhZCAcidwU1aOrHD"
+    },
+    {
+      "album": {
         "name": "MINI",
         "url": "https://open.spotify.com/album/7w1GycA2X3co1x2JLj1G6e"
       },
@@ -37818,7 +38060,7 @@
       ],
       "date_added": "2026-11-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-27",
       "duration_ms": 152299,
       "name": "Wunder",
       "url": "https://open.spotify.com/track/4jqUw6U9hrSA7UaySsZGMl"
@@ -38020,7 +38262,7 @@
       ],
       "date_added": "2026-10-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-27",
       "duration_ms": 156923,
       "name": "Yokohama",
       "url": "https://open.spotify.com/track/0vRR1W6ckPBsQiDtkxxJFG"
@@ -38476,7 +38718,7 @@
       ],
       "date_added": "2026-11-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-27",
       "duration_ms": 230774,
       "name": "Zu Hause",
       "url": "https://open.spotify.com/track/02o5th4gya3WaAHaepeXSN"
@@ -38538,6 +38780,24 @@
       "duration_ms": 156441,
       "name": "Zu viel / nicht genug",
       "url": "https://open.spotify.com/track/6ASKJH0Uam97httStG9YA5"
+    },
+    {
+      "album": {
+        "name": "Zu viel zu wenig",
+        "url": "https://open.spotify.com/album/4y9RlF78mlYa10fK31NtkZ"
+      },
+      "artists": [
+        {
+          "name": "Magda",
+          "url": "https://open.spotify.com/artist/5yjjgmQfOQTB2s8XQxQwup"
+        }
+      ],
+      "date_added": "2026-11-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 136400,
+      "name": "Zu viel zu wenig",
+      "url": "https://open.spotify.com/track/3yxUEMvOwCWq6rRJMHJrOX"
     },
     {
       "album": {
@@ -38748,6 +39008,28 @@
       "duration_ms": 126391,
       "name": "Zur\u00fcck ans Meer",
       "url": "https://open.spotify.com/track/1sY2XVttZlnC9yUWXCNK0J"
+    },
+    {
+      "album": {
+        "name": "zur\u00fcck zu mir",
+        "url": "https://open.spotify.com/album/7eW5mv33eFnjW2yLAEfzbn"
+      },
+      "artists": [
+        {
+          "name": "yuice",
+          "url": "https://open.spotify.com/artist/3HzRdBRqO4fYCxe50wLXx7"
+        },
+        {
+          "name": "beatsbythani",
+          "url": "https://open.spotify.com/artist/5IYGnwthwcA0aQqXFf6kfE"
+        }
+      ],
+      "date_added": "2026-11-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 146496,
+      "name": "zur\u00fcck zu mir",
+      "url": "https://open.spotify.com/track/1cavWrghYHINKm5a31mPTY"
     },
     {
       "album": {

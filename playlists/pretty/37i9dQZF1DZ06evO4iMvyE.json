@@ -1,12 +1,12 @@
 {
   "description": "This is Jonas Brothers. The essential tracks, all in one playlist.",
-  "num_followers": 424942,
+  "num_followers": 424992,
   "original_name": "This Is Jonas Brothers",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "awOCAAAAAAB1tc0OTaVdO6eAvyJKOZAN",
+  "snapshot_id": "awYlAAAAAADzuqaSes0iOk/BS9AfmZwI",
   "tracks": [
     {
       "added_at": null,
@@ -371,26 +371,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "The Name Chapter: FREEFALL",
-        "url": "https://open.spotify.com/album/63fWdGyeBj8VDjvHSUROx3"
-      },
-      "artists": [
-        {
-          "name": "TOMORROW X TOGETHER",
-          "url": "https://open.spotify.com/artist/0ghlgldX5Dd6720Q3qFyQB"
-        },
-        {
-          "name": "Jonas Brothers",
-          "url": "https://open.spotify.com/artist/7gOdHgIoIKoe4i9Tta6qdD"
-        }
-      ],
-      "duration_ms": 145065,
-      "name": "Do It Like That",
-      "url": "https://open.spotify.com/track/0XM1XnOYv8BkFPFVCU8ZjX"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Greetings From Your Hometown",
         "url": "https://open.spotify.com/album/6iMMJ5UlCv9glyse2I2YgR"
       },
@@ -407,6 +387,26 @@
       "duration_ms": 157540,
       "name": "Loved You Better (with Dean Lewis)",
       "url": "https://open.spotify.com/track/5boOfeG5brpNtAvmx8CRc5"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "The Name Chapter: FREEFALL",
+        "url": "https://open.spotify.com/album/63fWdGyeBj8VDjvHSUROx3"
+      },
+      "artists": [
+        {
+          "name": "TOMORROW X TOGETHER",
+          "url": "https://open.spotify.com/artist/0ghlgldX5Dd6720Q3qFyQB"
+        },
+        {
+          "name": "Jonas Brothers",
+          "url": "https://open.spotify.com/artist/7gOdHgIoIKoe4i9Tta6qdD"
+        }
+      ],
+      "duration_ms": 145065,
+      "name": "Do It Like That",
+      "url": "https://open.spotify.com/track/0XM1XnOYv8BkFPFVCU8ZjX"
     },
     {
       "added_at": null,
@@ -459,38 +459,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Greetings From Your Hometown",
-        "url": "https://open.spotify.com/album/6iMMJ5UlCv9glyse2I2YgR"
-      },
-      "artists": [
-        {
-          "name": "Jonas Brothers",
-          "url": "https://open.spotify.com/artist/7gOdHgIoIKoe4i9Tta6qdD"
-        }
-      ],
-      "duration_ms": 183284,
-      "name": "I Can\u2019t Lose",
-      "url": "https://open.spotify.com/track/4zU91gu5GRDKMuEbd8623Z"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Jonas Brothers",
-        "url": "https://open.spotify.com/album/3n2IrYeqT3UzNpupQcfgbz"
-      },
-      "artists": [
-        {
-          "name": "Jonas Brothers",
-          "url": "https://open.spotify.com/artist/7gOdHgIoIKoe4i9Tta6qdD"
-        }
-      ],
-      "duration_ms": 151000,
-      "name": "Goodnight and Goodbye",
-      "url": "https://open.spotify.com/track/0qnnYMKZhzswKorRpBrnNk"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Runaway",
         "url": "https://open.spotify.com/album/0PijZTpKNGUvL12y7w4tZF"
       },
@@ -519,6 +487,38 @@
     {
       "added_at": null,
       "album": {
+        "name": "Jonas Brothers",
+        "url": "https://open.spotify.com/album/3n2IrYeqT3UzNpupQcfgbz"
+      },
+      "artists": [
+        {
+          "name": "Jonas Brothers",
+          "url": "https://open.spotify.com/artist/7gOdHgIoIKoe4i9Tta6qdD"
+        }
+      ],
+      "duration_ms": 151000,
+      "name": "Goodnight and Goodbye",
+      "url": "https://open.spotify.com/track/0qnnYMKZhzswKorRpBrnNk"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Greetings From Your Hometown",
+        "url": "https://open.spotify.com/album/6iMMJ5UlCv9glyse2I2YgR"
+      },
+      "artists": [
+        {
+          "name": "Jonas Brothers",
+          "url": "https://open.spotify.com/artist/7gOdHgIoIKoe4i9Tta6qdD"
+        }
+      ],
+      "duration_ms": 183284,
+      "name": "I Can\u2019t Lose",
+      "url": "https://open.spotify.com/track/4zU91gu5GRDKMuEbd8623Z"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Happen To Me (feat. Jonas Brothers)",
         "url": "https://open.spotify.com/album/5N1V6vJk94GiTmjuM5ZXID"
       },
@@ -539,18 +539,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "Greetings From Your Hometown",
-        "url": "https://open.spotify.com/album/6iMMJ5UlCv9glyse2I2YgR"
+        "name": "Life Is A Highway: Refueled Duets",
+        "url": "https://open.spotify.com/album/7w0pDDXQFZSULKDhzuH46M"
       },
       "artists": [
+        {
+          "name": "Rascal Flatts",
+          "url": "https://open.spotify.com/artist/0a1gHP0HAqALbEyxaD5Ngn"
+        },
         {
           "name": "Jonas Brothers",
           "url": "https://open.spotify.com/artist/7gOdHgIoIKoe4i9Tta6qdD"
         }
       ],
-      "duration_ms": 203923,
-      "name": "Mirror to the Sky",
-      "url": "https://open.spotify.com/track/1iAsoCfNZM96cKRcNcRyJp"
+      "duration_ms": 228066,
+      "name": "I Dare You",
+      "url": "https://open.spotify.com/track/0o5fZ3L5LpYEVyxNhDJke7"
     },
     {
       "added_at": null,
@@ -571,22 +575,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "Life Is A Highway: Refueled Duets",
-        "url": "https://open.spotify.com/album/7w0pDDXQFZSULKDhzuH46M"
+        "name": "Greetings From Your Hometown",
+        "url": "https://open.spotify.com/album/6iMMJ5UlCv9glyse2I2YgR"
       },
       "artists": [
-        {
-          "name": "Rascal Flatts",
-          "url": "https://open.spotify.com/artist/0a1gHP0HAqALbEyxaD5Ngn"
-        },
         {
           "name": "Jonas Brothers",
           "url": "https://open.spotify.com/artist/7gOdHgIoIKoe4i9Tta6qdD"
         }
       ],
-      "duration_ms": 228066,
-      "name": "I Dare You",
-      "url": "https://open.spotify.com/track/0o5fZ3L5LpYEVyxNhDJke7"
+      "duration_ms": 203923,
+      "name": "Mirror to the Sky",
+      "url": "https://open.spotify.com/track/1iAsoCfNZM96cKRcNcRyJp"
     },
     {
       "added_at": null,
@@ -639,8 +639,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Greetings From Your Hometown (Deluxe Edition)",
-        "url": "https://open.spotify.com/album/6RIoTRFwyMIV2a2zUb3mpR"
+        "name": "The Album",
+        "url": "https://open.spotify.com/album/7aq7a226T631f2w1Vs1vXx"
       },
       "artists": [
         {
@@ -648,9 +648,9 @@
           "url": "https://open.spotify.com/artist/7gOdHgIoIKoe4i9Tta6qdD"
         }
       ],
-      "duration_ms": 170083,
-      "name": "Tantrum",
-      "url": "https://open.spotify.com/track/1upNZOegt0VXUqsVfBw6CG"
+      "duration_ms": 169061,
+      "name": "Montana Sky",
+      "url": "https://open.spotify.com/track/2jpVAeVwDtvOwdyUYH3NxN"
     },
     {
       "added_at": null,
@@ -671,8 +671,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "The Album",
-        "url": "https://open.spotify.com/album/7aq7a226T631f2w1Vs1vXx"
+        "name": "Greetings From Your Hometown (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/6RIoTRFwyMIV2a2zUb3mpR"
       },
       "artists": [
         {
@@ -680,9 +680,9 @@
           "url": "https://open.spotify.com/artist/7gOdHgIoIKoe4i9Tta6qdD"
         }
       ],
-      "duration_ms": 169061,
-      "name": "Montana Sky",
-      "url": "https://open.spotify.com/track/2jpVAeVwDtvOwdyUYH3NxN"
+      "duration_ms": 170083,
+      "name": "Tantrum",
+      "url": "https://open.spotify.com/track/1upNZOegt0VXUqsVfBw6CG"
     },
     {
       "added_at": null,
@@ -743,22 +743,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Remember This",
-        "url": "https://open.spotify.com/album/5sIvIsXTXfwoMEBVk1xCqm"
-      },
-      "artists": [
-        {
-          "name": "Jonas Brothers",
-          "url": "https://open.spotify.com/artist/7gOdHgIoIKoe4i9Tta6qdD"
-        }
-      ],
-      "duration_ms": 178221,
-      "name": "Remember This",
-      "url": "https://open.spotify.com/track/6nACZEZIt1CIBmF09r5Pb5"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "XV",
         "url": "https://open.spotify.com/album/0i96PtPJV65ddxsfMfo45F"
       },
@@ -775,6 +759,22 @@
       "duration_ms": 185277,
       "name": "X (with KAROL G)",
       "url": "https://open.spotify.com/track/77fvnWALKJR0ws1VUx09CY"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Remember This",
+        "url": "https://open.spotify.com/album/5sIvIsXTXfwoMEBVk1xCqm"
+      },
+      "artists": [
+        {
+          "name": "Jonas Brothers",
+          "url": "https://open.spotify.com/artist/7gOdHgIoIKoe4i9Tta6qdD"
+        }
+      ],
+      "duration_ms": 178221,
+      "name": "Remember This",
+      "url": "https://open.spotify.com/track/6nACZEZIt1CIBmF09r5Pb5"
     },
     {
       "added_at": null,
@@ -815,6 +815,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Lines, Vines and Trying Times",
+        "url": "https://open.spotify.com/album/2QXAQ8FaktKXnEO2ueWGNb"
+      },
+      "artists": [
+        {
+          "name": "Jonas Brothers",
+          "url": "https://open.spotify.com/artist/7gOdHgIoIKoe4i9Tta6qdD"
+        }
+      ],
+      "duration_ms": 234146,
+      "name": "Fly With Me",
+      "url": "https://open.spotify.com/track/4mhyDbz8Rea9GtQ1koXEKr"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Diplo Presents Thomas Wesley: Chapter 1 - Snake Oil",
         "url": "https://open.spotify.com/album/24EiVoJXLPY9a6a7AqZNDg"
       },
@@ -831,22 +847,6 @@
       "duration_ms": 139809,
       "name": "Lonely (with Jonas Brothers)",
       "url": "https://open.spotify.com/track/6eXFl418w8hsxKcLgv1jwJ"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Lines, Vines and Trying Times",
-        "url": "https://open.spotify.com/album/2QXAQ8FaktKXnEO2ueWGNb"
-      },
-      "artists": [
-        {
-          "name": "Jonas Brothers",
-          "url": "https://open.spotify.com/artist/7gOdHgIoIKoe4i9Tta6qdD"
-        }
-      ],
-      "duration_ms": 234146,
-      "name": "Fly With Me",
-      "url": "https://open.spotify.com/track/4mhyDbz8Rea9GtQ1koXEKr"
     },
     {
       "added_at": null,

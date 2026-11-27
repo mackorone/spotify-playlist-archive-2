@@ -5542,7 +5542,7 @@
       ],
       "date_added": "2024-12-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-27",
       "duration_ms": 159215,
       "name": "Ladr\u00f3n",
       "url": "https://open.spotify.com/track/5gyT1xYFWyDWzEGDjicz5C"
@@ -10975,6 +10975,36 @@
     },
     {
       "album": {
+        "name": "Te Extra\u00f1o",
+        "url": "https://open.spotify.com/album/5xt4GwrDBHykUre6n8oToZ"
+      },
+      "artists": [
+        {
+          "name": "RAMKY EN LOS CONTROLES",
+          "url": "https://open.spotify.com/artist/6jXFmaC0CvsIRSzxapsnNd"
+        },
+        {
+          "name": "Eugenia Quevedo",
+          "url": "https://open.spotify.com/artist/13t1RROs40VnX8PtMUnBqc"
+        },
+        {
+          "name": "Q' Lokura",
+          "url": "https://open.spotify.com/artist/7dlkBH23ERFXxuNoMHq94Y"
+        },
+        {
+          "name": "Emanero",
+          "url": "https://open.spotify.com/artist/2BTS8Np1YzPQuXjgdlqsBB"
+        }
+      ],
+      "date_added": "2026-11-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 138157,
+      "name": "Te Extra\u00f1o",
+      "url": "https://open.spotify.com/track/6HVFOLDz3S98RtIlNKNmFl"
+    },
+    {
+      "album": {
         "name": "Te Felicito",
         "url": "https://open.spotify.com/album/4l0209Du1kilXZ4RojUfIJ"
       },
@@ -11430,7 +11460,7 @@
       ],
       "date_added": "2026-09-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-27",
       "duration_ms": 155690,
       "name": "Todas - En Vivo",
       "url": "https://open.spotify.com/track/7Lz7yfo6OePiYfJ4CokhgM"
@@ -11566,6 +11596,28 @@
       "duration_ms": 217301,
       "name": "Trampa",
       "url": "https://open.spotify.com/track/7EX8xKL93de0ovt2AWgdoP"
+    },
+    {
+      "album": {
+        "name": "Tres D\u00edas (En Vivo)",
+        "url": "https://open.spotify.com/album/6UlHWM6UOZrWzmE15k28hG"
+      },
+      "artists": [
+        {
+          "name": "DesaKTa2",
+          "url": "https://open.spotify.com/artist/3UdkBrbQWdMoMPI4XATTC0"
+        },
+        {
+          "name": "Nahuel Pennisi",
+          "url": "https://open.spotify.com/artist/4IjHltwoSKbUeZLPeULyDe"
+        }
+      ],
+      "date_added": "2026-11-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 159445,
+      "name": "Tres D\u00edas - En Vivo",
+      "url": "https://open.spotify.com/track/7AwlcICkSyG0AwNZ4AYbgP"
     },
     {
       "album": {

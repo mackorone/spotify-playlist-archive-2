@@ -1,12 +1,12 @@
 {
   "description": "These are some independent rock bands you need to hear.",
-  "num_followers": 1486,
+  "num_followers": 1504,
   "original_name": "Unsigned Rock",
   "owner": {
     "name": "Live To Jam",
     "url": "https://open.spotify.com/user/314as7ertwdr2zzyu25oqwcdsha4"
   },
-  "snapshot_id": "AAAHawTLMkNL22rxioYeAe17bfdf5ctS",
+  "snapshot_id": "AAAHby7PEihvWFA5M05azyIcCxG4bD2g",
   "tracks": [
     {
       "added_at": "2026-08-18 04:07:14",
@@ -1163,6 +1163,78 @@
       "duration_ms": 201841,
       "name": "Future #1 - 2026 Remix",
       "url": "https://open.spotify.com/track/7JzBGVfqflJK20PwDcxxmM"
+    },
+    {
+      "added_at": "2026-11-26 15:12:16",
+      "album": {
+        "name": "Medusa",
+        "url": "https://open.spotify.com/album/3ofnl4UCPVKIPznm20tb3N"
+      },
+      "artists": [
+        {
+          "name": "The Last Pioneers",
+          "url": "https://open.spotify.com/artist/47VNhQMeBaWxOZG6aJHYvM"
+        }
+      ],
+      "duration_ms": 239806,
+      "name": "Medusa",
+      "url": "https://open.spotify.com/track/0cTXQ1A2Xda6TIPGeUQlbM"
+    },
+    {
+      "added_at": "2026-11-26 16:58:23",
+      "album": {
+        "name": "Homicide Stage",
+        "url": "https://open.spotify.com/album/1iiBvybQUCeeA9gIcwwgkG"
+      },
+      "artists": [
+        {
+          "name": "Morning in May",
+          "url": "https://open.spotify.com/artist/3UULburonGvlXaqlMuUrak"
+        },
+        {
+          "name": "The Red Jumpsuit Apparatus",
+          "url": "https://open.spotify.com/artist/1SImpQO0GbjRgvlwCcCtFo"
+        },
+        {
+          "name": "Judge & Jury",
+          "url": "https://open.spotify.com/artist/2p1FiOhFr2sED9OxKVNRbB"
+        }
+      ],
+      "duration_ms": 164502,
+      "name": "Homicide Stage",
+      "url": "https://open.spotify.com/track/1fOUzA0EUe2bc7tlARVPds"
+    },
+    {
+      "added_at": "2026-11-26 19:40:35",
+      "album": {
+        "name": "I See Scared",
+        "url": "https://open.spotify.com/album/6QIiAKhYUUATIqKNQt0zV3"
+      },
+      "artists": [
+        {
+          "name": "Carl Schonbeck",
+          "url": "https://open.spotify.com/artist/64G455sXZCInt8gPhAe7mF"
+        }
+      ],
+      "duration_ms": 233290,
+      "name": "I See Scared",
+      "url": "https://open.spotify.com/track/4mx6MPSWrSJT6QD9IqS0BJ"
+    },
+    {
+      "added_at": "2026-11-26 19:41:12",
+      "album": {
+        "name": "I See Scared",
+        "url": "https://open.spotify.com/album/6QIiAKhYUUATIqKNQt0zV3"
+      },
+      "artists": [
+        {
+          "name": "Carl Schonbeck",
+          "url": "https://open.spotify.com/artist/64G455sXZCInt8gPhAe7mF"
+        }
+      ],
+      "duration_ms": 233290,
+      "name": "I See Scared",
+      "url": "https://open.spotify.com/track/4mx6MPSWrSJT6QD9IqS0BJ"
     }
   ],
   "unique_name": "Unsigned Rock",

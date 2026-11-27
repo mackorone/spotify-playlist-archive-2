@@ -4,7 +4,7 @@
 
 > låtarna som inte går att få nog av.
 
-620 songs - 1 day 9 hr 3 min
+622 songs - 1 day 9 hr 11 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -50,6 +50,7 @@
 | [Aqua](https://open.spotify.com/track/4iKJ7hwSzVdoI8MhnS6nAP) | [DJ Suzy](https://open.spotify.com/artist/5RyMh1IvhH3f3mKNItWdMc) | [Aqua](https://open.spotify.com/album/3yzdTUPD1Q8gInAZkHP3lm) | 2:33 | 2024-11-08 | 2025-03-03 |
 | [Arena](https://open.spotify.com/track/7MxSe1IUsbfSTyoZ3Vwgm4) | [Rebecca & Fiona](https://open.spotify.com/artist/6rgEPiKjowlMKZC1DF6W75) | [Arena](https://open.spotify.com/album/7IfHAYECjJU9jzopGiOtSq) | 3:58 | 2024-06-28 | 2024-08-23 |
 | [Autonomi](https://open.spotify.com/track/0SByBQFFm5iFAwOcsgXc3p) | [Dunali](https://open.spotify.com/artist/6dyRenxXqh7MVyrtQ4SOJM) | [Autonomi](https://open.spotify.com/album/6FBSEyiDEC1YHH6npGeEiv) | 2:54 | 2026-02-05 | 2026-04-03 |
+| [Azalea](https://open.spotify.com/track/0Dkp8CfJx2xSEaIuX8F2hx) | [Victor Leksell](https://open.spotify.com/artist/6RJXSfbIkEMoCJ8GAg2dVO) | [Azalea](https://open.spotify.com/album/1eTgGT1hadTFKHsAIF2g7W) | 3:25 | 2026-11-26 |  |
 | [Azizam](https://open.spotify.com/track/0GRc3eGTg8HBdWLRGYgqIc) | [Ed Sheeran](https://open.spotify.com/artist/6eUKZXaKkcviH0Ku9w2n3V) | [Azizam](https://open.spotify.com/album/37HwcDtLqY2WXN7NArODvI) | 2:42 | 2025-04-03 | 2026-02-13 |
 | [Baba Life](https://open.spotify.com/track/2PE4NQTuR3u8MQZJSE5sLw) | [Näääk](https://open.spotify.com/artist/4zJlp9X6E6IpfUrIzwrg7S), [Movits!](https://open.spotify.com/artist/3Rjud126EhtcSDte9lORR7), [Melo](https://open.spotify.com/artist/6VLD92i2GfGpN9jsHZP3mp) | [Baba Life](https://open.spotify.com/album/6KZ5yRxExqkWqXtZH66Gp8) | 3:10 | 2026-01-01 | 2026-04-03 |
 | [Baby Blue](https://open.spotify.com/track/0zTcYZot5zfBwOQkdv02ls) | [Cody Simpson](https://open.spotify.com/artist/79Xp2rRN7wdsaTJgttdX3K) | [Baby Blue / When It Comes To Loving You](https://open.spotify.com/album/4d0QJmAw0Yjs6soAwmVyHm) | 2:51 | 2026-03-26 |  |
@@ -251,7 +252,7 @@
 | [Hennessy](https://open.spotify.com/track/41MY3Ue0BSfAWqzt0RGosH) | [Parana](https://open.spotify.com/artist/7mkDHzjImR7tnMVJ1QKeFv) | [Hennessy](https://open.spotify.com/album/2sHBTZk91B9ztITUyhoFT1) | 2:20 | 2025-09-11 | 2026-02-27 |
 | [Hey Little Love](https://open.spotify.com/track/5Qbrs0cLLZU771kNUhSfnr) | [SI EVOL](https://open.spotify.com/artist/524Xl2s6Uw1LnRmdJwQ9S2) | [Hey Little Love](https://open.spotify.com/album/6xTYdiLnMPxflJl2NeJOF9) | 2:38 | 2024-06-28 | 2024-08-30 |
 | [Higher](https://open.spotify.com/track/3ST1g55sl9NDYOw5BwtaqT) | [Tom Grennan](https://open.spotify.com/artist/5SHxzwjek1Pipl1Yk11UHv) | [Higher](https://open.spotify.com/album/3b8s7uA0RjzJlP3WfIpdsa) | 3:21 | 2024-09-19 | 2025-05-09 |
-| [Higher Calling](https://open.spotify.com/track/50e8Mxn4TxgDKCDNZ2UY9j) | [STOR](https://open.spotify.com/artist/4XLISC9SzRTcR34fosyMtw), [Miriam Bryant](https://open.spotify.com/artist/2zd9YxlsQvA5mkZ1NarYVQ) | [Higher Calling](https://open.spotify.com/album/6GfIlRYwl488VlI6eekvtx) | 3:43 | 2026-10-08 |  |
+| [Higher Calling](https://open.spotify.com/track/50e8Mxn4TxgDKCDNZ2UY9j) | [STOR](https://open.spotify.com/artist/4XLISC9SzRTcR34fosyMtw), [Miriam Bryant](https://open.spotify.com/artist/2zd9YxlsQvA5mkZ1NarYVQ) | [Higher Calling](https://open.spotify.com/album/6GfIlRYwl488VlI6eekvtx) | 3:43 | 2026-10-08 | 2026-11-27 |
 | [Highlight](https://open.spotify.com/track/0XdLGeMddzvB6CtkuFHy7i) | [Killen.](https://open.spotify.com/artist/0faVSLrVTvEXkpSVBUQ3Wt) | [Highlight](https://open.spotify.com/album/4z1KgyCoUK2h22jRFnd2yy) | 4:11 | 2024-08-22 | 2025-04-18 |
 | [Hils Din Mor \(feat\. Anne Linnet\)](https://open.spotify.com/track/52fqmaEIDQdmWONvwXbvf8) | [Freja Kirk](https://open.spotify.com/artist/6RkUXqTZlgi1qagWreJRgG), [Silvana Imam](https://open.spotify.com/artist/14vNE9iqS5eGAL6OogiN8g), [Anne Linnet](https://open.spotify.com/artist/6AWEo7TFXeaDNDMMFuE2YY) | [Hils Din Mor \(feat\. Anne Linnet\)](https://open.spotify.com/album/4SK7VjGM1MnUT9mQIzolPe) | 2:52 | 2024-08-08 | 2025-03-25 |
 | [Hittat hem](https://open.spotify.com/track/2hAHrzFTAZh28fg6Y5awC7) | [Klara Almström](https://open.spotify.com/artist/2xUZsZaMqJSqpxIoTJl9D3), [Björn Holmgren](https://open.spotify.com/artist/4bVT7xfHUEirpqkTXE3Z7F) | [Hittat hem](https://open.spotify.com/album/3LRL5ylunpeHB352pVmmOE) | 3:04 | 2025-10-16 | 2026-04-03 |
@@ -319,6 +320,7 @@
 | [Jeansjacka](https://open.spotify.com/track/5VQLwMSUdFIHOj7ao6Rg4R) | [estraden](https://open.spotify.com/artist/2Osj5g9VkHReOlZgfoEQao) | [Jeansjacka](https://open.spotify.com/album/4F5rh6QUQNOudxl8ph3lgu) | 3:51 | 2024-06-28 | 2024-08-23 |
 | [Jobba](https://open.spotify.com/track/4vrPc2YtsWzhB8K2t9S9WP) | [IRMELI](https://open.spotify.com/artist/7cEc46TFuOcBiE04sy33jv) | [Jobba](https://open.spotify.com/album/3XAs2lplnR6bzHWrxHIwwa) | 2:41 | 2025-03-27 | 2025-04-04 |
 | [Josephine](https://open.spotify.com/track/2VHsPF4LyOL7jcXhc7t8VQ) | [Kevin Walker](https://open.spotify.com/artist/3ZmFADbNrWQvkouwpbCCeT) | [Josephine](https://open.spotify.com/album/07tHbUOa1pW8WHBLduEhIx) | 2:15 | 2025-04-24 | 2026-02-13 |
+| [Just Give Me a Reason \(feat\. Nate Ruess\)](https://open.spotify.com/track/1mKXFLRA179hdOWQBwUk9e) | [P!nk](https://open.spotify.com/artist/1KCSPY1glIKqW2TotWuXOR), [Nate Ruess](https://open.spotify.com/artist/1qUjOF5fzrpoNycD36b2jZ) | [The Truth About Love](https://open.spotify.com/album/2Q9oTK48eb85waX1fFJsvj) | 4:02 | 2026-11-26 |  |
 | [Kan Inte Gå](https://open.spotify.com/track/6KOzO2mUwSwe8a9GiJAn7X) | [Bolaget](https://open.spotify.com/artist/55ZGFvikpNjQHvtTWS5aZF) | [Kan Inte Gå](https://open.spotify.com/album/1rOwYVdRnJW8rHhEkG6zfC) | 2:26 | 2026-09-10 |  |
 | [Kaprifol](https://open.spotify.com/track/2smlSdstffsI9yfzH8xNfi) | [Thomas Stenström](https://open.spotify.com/artist/2DWNa2o3BbsIHeBq7Iu6E7) | [Sverige](https://open.spotify.com/album/5gl3P6CM2tN7dnf4gXy6IZ) | 3:51 | 2026-04-02 |  |
 | [Karaoke](https://open.spotify.com/track/4mTMMF9JVZhYavoETEFTH9) | [KAJ](https://open.spotify.com/artist/4blbIMKwfzTxHGvN0Est1t) | [Karaoke](https://open.spotify.com/album/0VDR3UCbi9usVYcZiv5pPv) | 2:43 | 2025-10-16 | 2026-04-03 |
@@ -335,7 +337,7 @@
 | [Kom över](https://open.spotify.com/track/5VinT6PZsRuHY5aLfBKAx9) | [Newkid](https://open.spotify.com/artist/5wXRHaEx8AvtUv0gyZHGf6) | [Kom över](https://open.spotify.com/album/6uEswJlWqXAsdwdXmpNJLW) | 2:13 | 2026-11-19 |  |
 | [Kontakt](https://open.spotify.com/track/0JNzY6AqndqZS9I3q2iHYg) | [Christian Nanou](https://open.spotify.com/artist/2BQUPbMBCJF16dUMMnaVQu) | [Kontakt](https://open.spotify.com/album/1gFh0wZIlYt6R3AeBnDOqL) | 2:44 | 2024-06-28 | 2024-08-16 |
 | [Kransen](https://open.spotify.com/track/14iMujU8chd9Vac9vpjuVe) | [Felicia Takman](https://open.spotify.com/artist/3KdFzFHhUFCRdbllsQ1lZd) | [Kransen](https://open.spotify.com/album/1fzz8Ae1OyMwuh5mcnISbr) | 3:43 | 2025-06-12 | 2025-10-19 |
-| [Kyss mig](https://open.spotify.com/track/5d2CjJmYY7wzHosBe0HUo1) | [JULIETT](https://open.spotify.com/artist/2bF6WnPOya736x0kgmfjrH) | [Kyss mig](https://open.spotify.com/album/3a8qdAft2SHaVtj5Z2Bx3b) | 3:02 | 2026-04-30 |  |
+| [Kyss mig](https://open.spotify.com/track/5d2CjJmYY7wzHosBe0HUo1) | [JULIETT](https://open.spotify.com/artist/2bF6WnPOya736x0kgmfjrH) | [Kyss mig](https://open.spotify.com/album/3a8qdAft2SHaVtj5Z2Bx3b) | 3:02 | 2026-04-30 | 2026-11-27 |
 | [Känner du som jag](https://open.spotify.com/track/5kUFLSWuw22NJ6JDHOloGQ) | [MELVIN](https://open.spotify.com/artist/2eepQKh5byG0hRhmy6U0I4) | [Känner du som jag](https://open.spotify.com/album/4ZF61pqBugl8Ep78uBeq7h) | 2:46 | 2025-06-19 | 2025-06-27 |
 | [Känner ni igen er](https://open.spotify.com/track/7CfHRQgFH52hn9gcj5d8Wq) | [Peder Stenberg](https://open.spotify.com/artist/2MKru4ipTJZbssZpyKwtB2) | [Känner ni igen er](https://open.spotify.com/album/5AOSs0BRjVjAZNvIshnVIj) | 4:39 | 2025-03-20 | 2025-10-19 |
 | [Känslostyrd](https://open.spotify.com/track/2uehAVAiwspd3OlukIw100) | [Sebastian Lara](https://open.spotify.com/artist/1gK6bR7fr8AfgfdZfGPyB0) | [Känslostyrd](https://open.spotify.com/album/1XBacOnNOR4BkbBRAPCxoe) | 2:28 | 2026-01-12 | 2026-04-03 |

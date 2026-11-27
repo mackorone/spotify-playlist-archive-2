@@ -4,7 +4,7 @@
 
 > Aggressive trap and bass for the <a href="spotify:genre:edm\_dance">gym</a>
 
-509 songs - 1 day 2 hr 59 min
+510 songs - 1 day 3 hr 4 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -119,6 +119,7 @@
 | [DIFFRENT](https://open.spotify.com/track/3EvKRA9ZDmZ0RL3emxE884) | [BLVK JVCK](https://open.spotify.com/artist/32IXja3Y6CPvnAtTHD2bWg), [THATSHYM](https://open.spotify.com/artist/2G6zjE7TSKRPPpY8EgAnpq) | [DIFFRENT](https://open.spotify.com/album/68m1oLyZBu6bIRB4L1sHKL) | 3:05 | 2022-02-04 | 2022-07-29 |
 | [Dimension](https://open.spotify.com/track/3IWkjBkiR4pHOkaHV52OMl) | [Excision](https://open.spotify.com/artist/5FKchcZpQOkqFvXBj1aCvb) | [Dimension](https://open.spotify.com/album/2DX7xiwtqyOVG3BmgyIbV4) | 2:39 | 2022-03-25 | 2023-07-09 |
 | [DISRESPECT](https://open.spotify.com/track/7LpQXlw2o9xWBE5CuATFJk) | [Bobby Blakdout](https://open.spotify.com/artist/3U7NPXeGDm8gryPUNOd46U), [Hekler](https://open.spotify.com/artist/4FoQJyBgyhdDCb1wdEgNZh), [Gladez](https://open.spotify.com/artist/1L4olAJRUMTi0OcWyFsprM), [Cam'ron](https://open.spotify.com/artist/7iMvwE8qANp3aIfAGKEAwS) | [DISRESPECT](https://open.spotify.com/album/0RGq1ek6xmKTIbF3R5j1P3) | 2:19 | 2024-02-16 | 2024-05-11 |
+| [Dive](https://open.spotify.com/track/5LEULg7IDdUX8gSvtbJ2Dv) | [rejection](https://open.spotify.com/artist/0S23vj2YyvxsVlhqqSohrk), [WE DIE YOUNG](https://open.spotify.com/artist/2AOcY7Okw1zDwZYUeIxW2V) | [WE DIE YOUNG vol.9](https://open.spotify.com/album/6f3gUnefDGoNxTIM4LhIb5) | 5:02 | 2026-11-27 |  |
 | [Do It To It \- Subtronics Remix](https://open.spotify.com/track/4JHL5XOuByjoHSt5bcVk0u) | [ACRAZE](https://open.spotify.com/artist/4pnp4w9g30yLfVIAFnZMRd), [Subtronics](https://open.spotify.com/artist/3NJ94iuAmmMjbszODYT6pO), [Cherish](https://open.spotify.com/artist/1c70yCa8sRgIiQxl3HOEFo) | [Do It To It \(Subtronics Remix\)](https://open.spotify.com/album/50ojeeiaz71JzrgDJfzsIw) | 2:27 | 2022-04-15 | 2025-10-07 |
 | [DO NOT LET UP](https://open.spotify.com/track/5qGWrNXHGgaZqy6RvORAZF) | [Hgods](https://open.spotify.com/artist/1mrXo5fhYhx3gEiLjbOtYA) | [DO NOT LET UP](https://open.spotify.com/album/1ZSKOhGvwVSmNE0aLduBpH) | 2:34 | 2026-07-31 |  |
 | [DO NOT TOUCH](https://open.spotify.com/track/0fj7LbbOaTu22hoemvDFSc) | [Space Laces](https://open.spotify.com/artist/37PZXblQTqpEWGdjctNcGP), [Nitepunk](https://open.spotify.com/artist/6iPbI11utXY9CVhX6SPXEg) | [DO NOT TOUCH](https://open.spotify.com/album/4EXphG82x55XoJf36KJSpW) | 3:26 | 2026-11-20 |  |
@@ -414,7 +415,7 @@
 | [SMACK TALK](https://open.spotify.com/track/5rzHkSHRyZUdQcCX6noFDB) | [ISOxo](https://open.spotify.com/artist/4zVCMnjw54nkhGHU4e1Pav), [Knock2](https://open.spotify.com/artist/6mmSS7itNWKbapgG2eZbIg), [RL Grime](https://open.spotify.com/artist/5eIbEEQnDM8yuDVB0bimSP), [ISOKNOCK](https://open.spotify.com/artist/0mmIPiJ8l2gAProE7THr37) | [SMACK TALK](https://open.spotify.com/album/0F1AHBmHwzLNiOvqXc1bnc) | 4:00 | 2024-06-28 |  |
 | [Smoke](https://open.spotify.com/track/2KFJYXqd3fVEHfWSNhlTEp) | [Skrillex](https://open.spotify.com/artist/5he5w2lnU9x7JFhnwcekXX), [ISOxo](https://open.spotify.com/artist/4zVCMnjw54nkhGHU4e1Pav), [Cristale](https://open.spotify.com/artist/6U1hXHFTV27cbQVXZvnX27), [TeeZandos](https://open.spotify.com/artist/0aDlKdF22vK6yut113KJix) | [Smoke](https://open.spotify.com/album/5NZawJNAy7ntRWNKlArhOe) | 2:30 | 2026-05-01 |  |
 | [Snakebite](https://open.spotify.com/track/10JLvDywZi3agozIA9tCRy) | [Viperactive](https://open.spotify.com/artist/7HeSEuZA4D7EtdygBjCbi9) | [Snakebite](https://open.spotify.com/album/47sCXgSltXVcKSTyXzzrkN) | 3:12 | 2025-05-09 | 2025-06-08 |
-| [Snakepit Anthem](https://open.spotify.com/track/25ZeuwUZtEkpKiWyn3ythT) | [Viperactive](https://open.spotify.com/artist/7HeSEuZA4D7EtdygBjCbi9) | [Snakepit](https://open.spotify.com/album/6PNhLb06FOlSkRtApeADEu) | 2:17 | 2026-09-25 |  |
+| [Snakepit Anthem](https://open.spotify.com/track/25ZeuwUZtEkpKiWyn3ythT) | [Viperactive](https://open.spotify.com/artist/7HeSEuZA4D7EtdygBjCbi9) | [Snakepit](https://open.spotify.com/album/6PNhLb06FOlSkRtApeADEu) | 2:17 | 2026-09-25 | 2026-11-27 |
 | [So Far](https://open.spotify.com/track/5LjoyefinBuAQr2Fj2byyM) | [Flosstradamus](https://open.spotify.com/artist/2FmzVitXZjIkFolH8HXd4j), [Nonsens](https://open.spotify.com/artist/09GJU4jF4zhNfN72mTyMCi) | [So Far](https://open.spotify.com/album/6mn4tGxbZ1hcL4S8pfj0l5) | 2:51 | 2021-11-19 | 2022-01-08 |
 | [SO HYPE](https://open.spotify.com/track/5AEG5fKUJVuN4dNguunkJ6) | [MAXARKA](https://open.spotify.com/artist/3N9yDjiEX6enGoEEdmJpgv) | [SO HYPE](https://open.spotify.com/album/0nGzubCgiCku5l7TYNSnmp) | 2:55 | 2026-07-31 | 2026-09-07 |
 | [Soma](https://open.spotify.com/track/6MVLHfS52hKHzbcLtejCWC) | [Skrillex](https://open.spotify.com/artist/5he5w2lnU9x7JFhnwcekXX), [Nitepunk](https://open.spotify.com/artist/6iPbI11utXY9CVhX6SPXEg) | [SOMA](https://open.spotify.com/album/4vSNQ69cqRe2WgsdPXH3mv) | 3:24 | 2026-06-12 |  |

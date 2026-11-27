@@ -1,12 +1,12 @@
 {
   "description": "This is Kane Brown. The essential tracks, all in one playlist.",
-  "num_followers": 267886,
+  "num_followers": 267888,
   "original_name": "This Is Kane Brown",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "awOCAAAAAADLtDWmO456fTcv779WzVrf",
+  "snapshot_id": "awYlAAAAAABsZ8mY5Uqr5fdqexBQWPpj",
   "tracks": [
     {
       "added_at": null,
@@ -811,6 +811,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Kane Brown",
+        "url": "https://open.spotify.com/album/4hhvgHjPqUOAYkclDkhL2T"
+      },
+      "artists": [
+        {
+          "name": "Kane Brown",
+          "url": "https://open.spotify.com/artist/3oSJ7TBVCWMDMiYjXNiCKE"
+        }
+      ],
+      "duration_ms": 165999,
+      "name": "Thunder in the Rain",
+      "url": "https://open.spotify.com/track/1A8s182NfOT6dOXjPsWfTn"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Never Be the Same (feat. Kane Brown)",
         "url": "https://open.spotify.com/album/2BAqpci48cWxxLwIDqjPRU"
       },
@@ -827,22 +843,6 @@
       "duration_ms": 225539,
       "name": "Never Be the Same (feat. Kane Brown)",
       "url": "https://open.spotify.com/track/0xk4woi8ENN8VWFDZTcF8h"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Kane Brown",
-        "url": "https://open.spotify.com/album/4hhvgHjPqUOAYkclDkhL2T"
-      },
-      "artists": [
-        {
-          "name": "Kane Brown",
-          "url": "https://open.spotify.com/artist/3oSJ7TBVCWMDMiYjXNiCKE"
-        }
-      ],
-      "duration_ms": 165999,
-      "name": "Thunder in the Rain",
-      "url": "https://open.spotify.com/track/1A8s182NfOT6dOXjPsWfTn"
     },
     {
       "added_at": null,
@@ -883,22 +883,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Different Man",
-        "url": "https://open.spotify.com/album/7dfTBn7wtgKEchVmyipBl1"
-      },
-      "artists": [
-        {
-          "name": "Kane Brown",
-          "url": "https://open.spotify.com/artist/3oSJ7TBVCWMDMiYjXNiCKE"
-        }
-      ],
-      "duration_ms": 203666,
-      "name": "Go Around",
-      "url": "https://open.spotify.com/track/4bRZoRhAQfqGLOkqAFDPp5"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Kane Brown",
         "url": "https://open.spotify.com/album/4hhvgHjPqUOAYkclDkhL2T"
       },
@@ -911,6 +895,22 @@
       "duration_ms": 203223,
       "name": "Hometown",
       "url": "https://open.spotify.com/track/2NqHZYzBWUHbbpDDgdGWJL"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Different Man",
+        "url": "https://open.spotify.com/album/7dfTBn7wtgKEchVmyipBl1"
+      },
+      "artists": [
+        {
+          "name": "Kane Brown",
+          "url": "https://open.spotify.com/artist/3oSJ7TBVCWMDMiYjXNiCKE"
+        }
+      ],
+      "duration_ms": 203666,
+      "name": "Go Around",
+      "url": "https://open.spotify.com/track/4bRZoRhAQfqGLOkqAFDPp5"
     }
   ],
   "unique_name": "This Is Kane Brown",

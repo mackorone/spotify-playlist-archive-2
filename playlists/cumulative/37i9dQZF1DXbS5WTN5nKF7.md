@@ -2,9 +2,9 @@
 
 ### [Hit Radio](https://open.spotify.com/playlist/37i9dQZF1DXbS5WTN5nKF7)
 
-> Le meilleur des hits avec Karol G.
+> Le meilleur des hits avec ESTL.
 
-564 songs - 1 day 5 hr 15 min
+565 songs - 1 day 5 hr 17 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -261,6 +261,7 @@
 | [Je tourne en rond \- Single mix](https://open.spotify.com/track/1mYAOuwqQwQRsSaOEhfm0u) | [Christophe Willem](https://open.spotify.com/artist/0wb3S587JG0riRtdPA6PQD) | [Je tourne en rond](https://open.spotify.com/album/3FklzOfGZjx7XVyzfTuTib) | 2:45 | 2023-07-27 | 2023-10-06 |
 | [Jesus He Knows Me](https://open.spotify.com/track/1zd8h6ho3mlbhkZnADHVzP) | [Ghost](https://open.spotify.com/artist/1Qp56T7n950O3EGMsSl81D) | [Jesus He Knows Me](https://open.spotify.com/album/5ATKAJjDVbFIoQVuaHrLNK) | 4:05 | 2023-08-17 | 2023-08-25 |
 | [Jet Lag](https://open.spotify.com/track/7fRTjRTHXx2NeDsU6V0585) | [LUIZA](https://open.spotify.com/artist/3K5sYlHk7RZimjYhUWej8D) | [Jet Lag](https://open.spotify.com/album/4cUQUMvniiMM4NVpIxH1Kh) | 2:45 | 2026-06-11 | 2026-07-24 |
+| [Jeune Demoiselle](https://open.spotify.com/track/4uie9TydlbuQRptziBOzss) | [Manon Lisa](https://open.spotify.com/artist/2qzxrbVBGwJjYOay7mJmhf) | [Jeune Demoiselle](https://open.spotify.com/album/2AWZKCVDQGrAIiLNuBd9CG) | 2:27 | 2026-11-26 |  |
 | [Jusqu'au dernier \- Version radio](https://open.spotify.com/track/0d3ewnwyQPx7ypLCucYlEW) | [Les Enfoirés](https://open.spotify.com/artist/1OCpqnXexjxrakYtmur3rN) | [Jusqu'au dernier \(Version radio\)](https://open.spotify.com/album/2GDz2nLvPZHfK281ILjqfw) | 3:04 | 2024-01-25 | 2024-03-15 |
 | [Just The Way You Are](https://open.spotify.com/track/7K3Lc3TfSR14aTOjIH7TUj) | [Milky](https://open.spotify.com/artist/5AvCP5qzxTmk4cQmh0SUEw) | [Just The Way You Are](https://open.spotify.com/album/1fN8LTM10sYFZl5BCzIPlj) | 3:30 | 2026-04-30 | 2026-05-15 |
 | [Juste un peu](https://open.spotify.com/track/7vNKvKNraI2IAooZMMiBzZ) | [Jungeli](https://open.spotify.com/artist/6L8y2rKomt32RmT4wfwZS7), [EMMA](https://open.spotify.com/artist/0p6woNDdqjwgcl4uLuCX4V) | [Juste un peu](https://open.spotify.com/album/7A3ec7fkFbwyH6jyjPatCJ) | 2:34 | 2026-07-09 | 2026-10-02 |
@@ -353,7 +354,7 @@
 | [Movin' To The Sun](https://open.spotify.com/track/25DgjoTlKK8KjstM4cZ8L2) | [HUGEL](https://open.spotify.com/artist/5PlfkPxwCpRRWQJBxCa0By), [Ultra Naté](https://open.spotify.com/artist/1cK2Abwkni7m51wJCSGllN) | [Movin' To The Sun](https://open.spotify.com/album/7sCzauzbInQn7NEsvTAtqq) | 2:22 | 2026-09-24 | 2026-10-16 |
 | [Mr\. Know It All](https://open.spotify.com/track/2g5kPQh1EexoG8kGZH2nOZ) | [Teddy Swims](https://open.spotify.com/artist/33qOK5uJ8AR2xuQQAhHump) | [Mr\. Know It All](https://open.spotify.com/album/6pSMDQxVmzO16b4feWczz1) | 3:18 | 2026-04-30 |  |
 | [Mwaki](https://open.spotify.com/track/5KTZgG84bKFGm53lhLtTqc) | [Zerb](https://open.spotify.com/artist/6mDl7lQiLxT0iQ8LYhAlWy), [Sofiya Nzau](https://open.spotify.com/artist/5Y2FS5YbGf7yRDumzD5nY3) | [SURRENDER](https://open.spotify.com/album/5asqLE8StjaHpMWSyjzo2D) | 3:28 | 2024-03-28 | 2024-05-24 |
-| [My Body Isn't Ready](https://open.spotify.com/track/79RJg6MqIJlBuedcMqB9F0) | [sombr](https://open.spotify.com/artist/4G9NDjRyZFDlJKMRL8hx3S) | [My Body Isn't Ready](https://open.spotify.com/album/27fL8TMJUfW4XRXZqougTh) | 3:37 | 2026-10-01 |  |
+| [My Body Isn't Ready](https://open.spotify.com/track/79RJg6MqIJlBuedcMqB9F0) | [sombr](https://open.spotify.com/artist/4G9NDjRyZFDlJKMRL8hx3S) | [My Body Isn't Ready](https://open.spotify.com/album/27fL8TMJUfW4XRXZqougTh) | 3:37 | 2026-10-01 | 2026-11-27 |
 | [Mystical Magical](https://open.spotify.com/track/221eHga9f9Ne4f8D7WVgPT) | [Benson Boone](https://open.spotify.com/artist/22wbnEMDvgVIAGdFeek6ET) | [Mystical Magical](https://open.spotify.com/album/7y5UZkCSxTUo47pxeTWbXK) | 2:45 | 2025-05-22 | 2026-02-13 |
 | [Mystical Magical](https://open.spotify.com/track/2ipIPsgrgd0j2beDf4Ki70) | [Benson Boone](https://open.spotify.com/artist/22wbnEMDvgVIAGdFeek6ET) | [American Heart](https://open.spotify.com/album/3C0QJ1R0T3xX0BUbOZcdCw) | 2:45 | 2026-02-19 | 2026-03-13 |
 | [Mélatonine](https://open.spotify.com/track/76gfpttwTGXl0k1UoFBMxM) | [Helena](https://open.spotify.com/artist/6M0dlWzmJ9Z81JM2WpHbsC) | [Hélé](https://open.spotify.com/album/78tVFMGbPWdm1S86JyC017) | 3:32 | 2025-06-05 | 2025-08-22 |

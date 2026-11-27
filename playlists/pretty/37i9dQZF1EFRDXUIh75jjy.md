@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFRDXUIh75jjy.md) - [plain]
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/3lU5u0XAQ25ta8AmlI0SCB">Steph Jones</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 721 likes - 302 songs - 15 hr 28 min
+[Spotify](https://open.spotify.com/user/spotify) - 722 likes - 302 songs - 15 hr 28 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -88,9 +88,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFRDXUIh75jjy.md) - [plain]
 | 78 | [buttons](https://open.spotify.com/track/6a3PAfOxDpgBv0ZdJuH5Eo) | [Lyn Lapid](https://open.spotify.com/artist/4pfy05cNNTacuOQ6SiSu4v) | [BUZZKILL](https://open.spotify.com/album/41oBhRyeuyMHkVdp2LYVJE) | 2:07 |
 | 79 | [Sad Forever](https://open.spotify.com/track/63jCeAYGLcRL21xm0jKlgn) | [Lauren Spencer Smith](https://open.spotify.com/artist/79AyR6ATpj2LTPxfb6FX50) | [Mirror \(Deluxe\)](https://open.spotify.com/album/5mm7YZkfxMlprJTOJEWfxq) | 2:55 |
 | 80 | [Girl Who Didn't Care](https://open.spotify.com/track/4XCDqYCoYUOc468PUKHgiQ) | [Tenille Townes](https://open.spotify.com/artist/3TyeX0lk4B7k56ukfzEE0z) | [Girl Who Didn't Care](https://open.spotify.com/album/40Y4YFAKYGg0vP0gvG7M90) | 3:12 |
-| 81 | [ok with it](https://open.spotify.com/track/26xOau4IoTbBTdcVjITxcp) | [Lyn Lapid](https://open.spotify.com/artist/4pfy05cNNTacuOQ6SiSu4v) | [to love in the 21st century](https://open.spotify.com/album/18pzJc8GyrVQmunRXrY3ch) | 2:45 |
+| 81 | [Don’t Break Her Heart](https://open.spotify.com/track/1L0qyb6Xwna2BZU7gP5W9Z) | [FLO](https://open.spotify.com/artist/0s4kXsjYeH0S1xRyVGN4NO) | [THERAPY AT THE CLUB](https://open.spotify.com/album/1Rz7o4Hllbk3qVHEa6XgBf) | 3:43 |
 | 82 | [Ghost](https://open.spotify.com/track/1qneBcMdEnAEDCTsZ3f0ZH) | [5 Seconds of Summer](https://open.spotify.com/artist/5Rl15oVamLq7FbSb0NNBNy) | [EVERYONE'S A STAR! \(Fully Evolved\)](https://open.spotify.com/album/5PZaqv1kmnGYMvO8lS0Cqs) | 3:48 |
-| 83 | [Don’t Break Her Heart](https://open.spotify.com/track/1L0qyb6Xwna2BZU7gP5W9Z) | [FLO](https://open.spotify.com/artist/0s4kXsjYeH0S1xRyVGN4NO) | [THERAPY AT THE CLUB](https://open.spotify.com/album/1Rz7o4Hllbk3qVHEa6XgBf) | 3:43 |
+| 83 | [ok with it](https://open.spotify.com/track/26xOau4IoTbBTdcVjITxcp) | [Lyn Lapid](https://open.spotify.com/artist/4pfy05cNNTacuOQ6SiSu4v) | [to love in the 21st century](https://open.spotify.com/album/18pzJc8GyrVQmunRXrY3ch) | 2:45 |
 | 84 | [Hear Me Out](https://open.spotify.com/track/0UcY1x4UkJqYwd9vnO3S2p) | [Jelly Roll](https://open.spotify.com/artist/19k8AgwwTSxeaxkOuCQEJs) | [Beautifully Broken](https://open.spotify.com/album/2GW4VpFk9mbc6qYZ0zNuu3) | 2:37 |
 | 85 | [Don't Want It Back](https://open.spotify.com/track/2yqhHi9QfZ5INE13sS5Bva) | [Sabrina Carpenter](https://open.spotify.com/artist/74KM79TiuVKeVCqs8QtB0B) | [EVOLution](https://open.spotify.com/album/7iOAJaGBmk67o337zaqt0R) | 3:01 |
 | 86 | [to the grave](https://open.spotify.com/track/5V7wh1SBtYZTqRLEsBuZAL) | [Bea Miller](https://open.spotify.com/artist/1o2NpYGqHiCq7FoiYdyd1x), [mike.](https://open.spotify.com/artist/5G9kmDLg3OeUyj8KVBLzbu) | [aurora](https://open.spotify.com/album/2rQu10gUgBVYzgsitDZNyU) | 3:57 |
@@ -171,8 +171,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFRDXUIh75jjy.md) - [plain]
 | 161 | [IT'S ALL GOOD](https://open.spotify.com/track/7yaeNwiYNogSFeehnPWwxS) | [Niko Moon](https://open.spotify.com/artist/6Rw7DRa1dzChBvxGPCpOxU), [Michael Franti & Spearhead](https://open.spotify.com/artist/1mHuZMOP8FG5ip4yAb1vrB) | [THESE ARE THE DAYS](https://open.spotify.com/album/1AJALAmmWZ7esphVavr66K) | 3:03 |
 | 162 | [Sinner](https://open.spotify.com/track/6qlYqUpPEYimStKV3nhcix) | [Koe Wetzel](https://open.spotify.com/artist/1Tie3AZgLQZqYEp8Fv4zOZ) | [The Night Champion](https://open.spotify.com/album/1BE3z8NRxfAV8ASyXoJmbe) | 4:02 |
 | 163 | [I Wanna](https://open.spotify.com/track/5Yv0A67iaoDEi7eKuHfImg) | [ella jane](https://open.spotify.com/artist/3gBjSrNsYzzbeo0nwsL21J) | [Marginalia](https://open.spotify.com/album/3Q7npjBOWlKQHJiIewOHsR) | 3:30 |
-| 164 | [Plastic Purse](https://open.spotify.com/track/51XzyvRLe38bouIZCv5itX) | [chloe moriondo](https://open.spotify.com/artist/3P4vW5tzQvmuoNaFQqzy9q) | [SUCKERPUNCH](https://open.spotify.com/album/04fys4zcFF3rawoRTl1Lgw) | 2:23 |
-| 165 | [Sertraline](https://open.spotify.com/track/659flwujVevewkwxpyk7DG) | [Myles Smith](https://open.spotify.com/artist/3bO19AOone0ubCsfDXDtYt) | [My Mess, My Heart, My Life.](https://open.spotify.com/album/08u2urMBBJIz9kMwAl08yI) | 3:16 |
+| 164 | [Sertraline](https://open.spotify.com/track/659flwujVevewkwxpyk7DG) | [Myles Smith](https://open.spotify.com/artist/3bO19AOone0ubCsfDXDtYt) | [My Mess, My Heart, My Life.](https://open.spotify.com/album/08u2urMBBJIz9kMwAl08yI) | 3:16 |
+| 165 | [Plastic Purse](https://open.spotify.com/track/51XzyvRLe38bouIZCv5itX) | [chloe moriondo](https://open.spotify.com/artist/3P4vW5tzQvmuoNaFQqzy9q) | [SUCKERPUNCH](https://open.spotify.com/album/04fys4zcFF3rawoRTl1Lgw) | 2:23 |
 | 166 | [Here I Come](https://open.spotify.com/track/0fjGRLRER2rCKZfiuUBDwr) | [Dara Reneé](https://open.spotify.com/artist/7BtVR5EyH1mjLM5bjXUD5s), [Disney](https://open.spotify.com/artist/3xvaSlT4xsyk6lY1ESOspO) | [High School Musical: The Musical: The Series \(Original Soundtrack/Season 3\)](https://open.spotify.com/album/71FLsJroKR8vr5BbWRZHGc) | 3:17 |
 | 167 | [There I Said It](https://open.spotify.com/track/2YU14wLn68Wgw2Xhl43G1N) | [Valencia Grace](https://open.spotify.com/artist/5cb5ljWIIrvUxokdf2vl6A) | [There I Said It](https://open.spotify.com/album/3Xr1ZEZdtVCwkvEOHU8Ry6) | 3:47 |
 | 168 | [YDH](https://open.spotify.com/track/3os7zzaUHaw3rWaCOzsNVg) | [Chloe Qisha](https://open.spotify.com/artist/1WNmfSqydnt1FDJKg3l6lw) | [Fantasize](https://open.spotify.com/album/4iimDF0uw3Y6oS1BDpKggD) | 3:17 |
@@ -219,8 +219,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFRDXUIh75jjy.md) - [plain]
 | 209 | [Everything Changes](https://open.spotify.com/track/1hEiNGSNGY2nfGBJQm5YWl) | [Ross Copperman](https://open.spotify.com/artist/5nHR37FDSU4I0QQta0AZ1C), [Cam](https://open.spotify.com/artist/5WRElKaZsn1tGnrgmJVAeO) | [Everything Changes](https://open.spotify.com/album/5DI2ubXdSU9ZoEbSU8PtyL) | 3:10 |
 | 210 | [Man In Me](https://open.spotify.com/track/4QP1cDL7DMAMwMwjresOgu) | [Madi Diaz](https://open.spotify.com/artist/7E1o9IcnpiFQDlAUk2H7Az) | [History Of A Feeling](https://open.spotify.com/album/0bx5hbIbfqvl6XmqTiGvkt) | 4:48 |
 | 211 | [Cheating On Myself](https://open.spotify.com/track/667yuKlceFZ4cT3VI6zEGi) | [CXLOE](https://open.spotify.com/artist/6M25WWmNO7wK1DnKmd3z6R) | [Shiny New Thing](https://open.spotify.com/album/0wlHdQIQOfVMzD83Lvpjkj) | 2:53 |
-| 212 | [Dead Weight](https://open.spotify.com/track/20Xmsa6hYHPz9GJP20o33N) | [ella jane](https://open.spotify.com/artist/3gBjSrNsYzzbeo0nwsL21J) | [Dead Weight](https://open.spotify.com/album/7lzDHu6RktqEkXkCTZwLql) | 3:04 |
-| 213 | [So Many Ways](https://open.spotify.com/track/5PCA9QRawbZAc2H3262HDX) | [Scout Willis](https://open.spotify.com/artist/3Ysxmjrlt0lcajmYoMZznN) | [So Many Ways](https://open.spotify.com/album/1mFxAq2azeYdXUbMLkPNKm) | 3:32 |
+| 212 | [So Many Ways](https://open.spotify.com/track/5PCA9QRawbZAc2H3262HDX) | [Scout Willis](https://open.spotify.com/artist/3Ysxmjrlt0lcajmYoMZznN) | [So Many Ways](https://open.spotify.com/album/1mFxAq2azeYdXUbMLkPNKm) | 3:32 |
+| 213 | [Dead Weight](https://open.spotify.com/track/20Xmsa6hYHPz9GJP20o33N) | [ella jane](https://open.spotify.com/artist/3gBjSrNsYzzbeo0nwsL21J) | [Dead Weight](https://open.spotify.com/album/7lzDHu6RktqEkXkCTZwLql) | 3:04 |
 | 214 | [Here Comes The Sun](https://open.spotify.com/track/1hTT4PtXnqmQ9UuEpCl0WA) | [Dylan Schneider](https://open.spotify.com/artist/5lRB3MAJfKzlt7dgYMHWgY) | [PUZZLED](https://open.spotify.com/album/3pxSPXoAtymp2WjtmdgSyo) | 2:44 |
 | 215 | [Gemini](https://open.spotify.com/track/4U96mEgDsbzcZid2wycKma) | [Cat Burns](https://open.spotify.com/artist/6WFDpw4u23uSpon4BHvFRn) | [How To Be Human](https://open.spotify.com/album/5l7VNmhvyYndw2XNxH9GFe) | 2:35 |
 | 216 | [Ain't That What You Do](https://open.spotify.com/track/62NEgS3WtKbbyHdGt4JjWz) | [Jas Von](https://open.spotify.com/artist/3e8Hd1noAoVXhnoTgClAXr) | [Ain't That What You Do](https://open.spotify.com/album/3lP9aSXPBGwlfYk6lt2xht) | 2:30 |
@@ -274,8 +274,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFRDXUIh75jjy.md) - [plain]
 | 264 | [Owe Me](https://open.spotify.com/track/6PVdOB9EHUzvJmaQ1QTwKx) | [Pia Mia](https://open.spotify.com/artist/1BhWF9W2PngtPSyobKg0rP) | [Anti Romantica](https://open.spotify.com/album/0eKLypqjx8bQQyVeTRBAa9) | 2:33 |
 | 265 | [Sad Times](https://open.spotify.com/track/5HmE12W0zOnXSyaLTWYnTq) | [John K](https://open.spotify.com/artist/73eAAfRkS2Vi4hx68oTJJE) | [SALT + LIGHT](https://open.spotify.com/album/2BctJ00mFldhrsOHMoz1h3) | 2:46 |
 | 266 | [Cry About It](https://open.spotify.com/track/5LZ92g4lPdAFd9MQtSDVla) | [Chloe Qisha](https://open.spotify.com/artist/1WNmfSqydnt1FDJKg3l6lw) | [Fantasize](https://open.spotify.com/album/4iimDF0uw3Y6oS1BDpKggD) | 2:47 |
-| 267 | [Cry Baby](https://open.spotify.com/track/0KXcvoQDhA4bt2hjhJcN7O) | [MacKenzie Porter](https://open.spotify.com/artist/6nXco5Q3cJJ0ZutnBOsSpq) | [Cry Baby](https://open.spotify.com/album/71JVxlGlLQHZZ1anFXkeej) | 3:42 |
-| 268 | [Possessed \(in a hot way\)](https://open.spotify.com/track/3szWY0VANDTndN5MjtdURQ) | [Chloe Qisha](https://open.spotify.com/artist/1WNmfSqydnt1FDJKg3l6lw) | [Fantasize](https://open.spotify.com/album/4iimDF0uw3Y6oS1BDpKggD) | 3:00 |
+| 267 | [Possessed \(in a hot way\)](https://open.spotify.com/track/3szWY0VANDTndN5MjtdURQ) | [Chloe Qisha](https://open.spotify.com/artist/1WNmfSqydnt1FDJKg3l6lw) | [Fantasize](https://open.spotify.com/album/4iimDF0uw3Y6oS1BDpKggD) | 3:00 |
+| 268 | [Cry Baby](https://open.spotify.com/track/0KXcvoQDhA4bt2hjhJcN7O) | [MacKenzie Porter](https://open.spotify.com/artist/6nXco5Q3cJJ0ZutnBOsSpq) | [Cry Baby](https://open.spotify.com/album/71JVxlGlLQHZZ1anFXkeej) | 3:42 |
 | 269 | [new boyfriend](https://open.spotify.com/track/4vWVLauloxVPBnaOp2xwBF) | [Master Peace](https://open.spotify.com/artist/4GNHtO2iEJ09r4JNTlqnO9) | [if i don’t love you, who will ?](https://open.spotify.com/album/182b2c2NpXsjlllhW0e1G9) | 2:48 |
 | 270 | [Death Grip](https://open.spotify.com/track/6bA83ldB28Xl1CLnTYVpq8) | [Charlie Hickey](https://open.spotify.com/artist/4Ky0ZDJDfY7UBbTVYPyVKc) | [Could’ve Been Anyone](https://open.spotify.com/album/7Btm2MR9ygjv2oTyBJ3Mzi) | 3:08 |
 | 271 | [roots](https://open.spotify.com/track/0cB3Loy7nNn0RdptFUvKws) | [MORGXN](https://open.spotify.com/artist/034u8Qcs47NHkRQXaWkLXW) | [vital](https://open.spotify.com/album/07hIcfKFcbsOSWpvsGslyE) | 3:49 |
@@ -311,4 +311,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFRDXUIh75jjy.md) - [plain]
 | 301 | [Tidal Wave](https://open.spotify.com/track/4ZNjc5TKVprUo1e9NzeCqQ) | [Paulina Jayne](https://open.spotify.com/artist/2VQ1JuL4CakwuJVSgaNBDg) | [Paulina Jayne](https://open.spotify.com/album/4OxqxKz3fmSAcAr1clBfxV) | 3:08 |
 | 302 | [Damage](https://open.spotify.com/track/0QsUCwtJBqLqv8SPexwnfk) | [Aaron Miller Hill](https://open.spotify.com/artist/6JzrBm54EjeRxn01EKjvLe) | [Occasus](https://open.spotify.com/album/3i3SSeZSTyyvlZtaRjjXvq) | 3:36 |
 
-Snapshot ID: `Acip+gAAAAAU/she8pR0Yzqk1aTyzLgL`
+Snapshot ID: `AcivpAAAAAByNjYUW3OU/UiRzTUIhgo8`

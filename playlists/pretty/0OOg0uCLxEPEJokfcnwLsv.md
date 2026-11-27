@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/0OOg0uCLxEPEJokfcnwLsv.md) - [plain]
 
 > These are some independent rock bands you need to hear.
 
-[Live To Jam](https://open.spotify.com/user/314as7ertwdr2zzyu25oqwcdsha4) - 1,486 likes - 72 songs - 4 hr 14 min
+[Live To Jam](https://open.spotify.com/user/314as7ertwdr2zzyu25oqwcdsha4) - 1,504 likes - 76 songs - 4 hr 29 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -80,5 +80,9 @@ pretty - [cumulative](/playlists/cumulative/0OOg0uCLxEPEJokfcnwLsv.md) - [plain]
 | 70 | [Bring Your Love](https://open.spotify.com/track/3oPuLZzvFvl5TF1YzA6RFy) | [Tin Zelkova](https://open.spotify.com/artist/1uft4s6QGconk4zwMNBBhu) | [Bring Your Love](https://open.spotify.com/album/7wHLdYV2rySnQ7FdhuUeGG) | 2:24 |
 | 71 | [Saturday Song For Sunday](https://open.spotify.com/track/32gEVbIyWbLOb8pjJND4fr) | [X\-Rated 1994](https://open.spotify.com/artist/71QiZSo2Jl9MO98vg3JSO0) | [Saturday Song For Sunday](https://open.spotify.com/album/2DZ2ODLdvjpmDTuAz5WZQU) | 3:24 |
 | 72 | [Future \#1 \- 2026 Remix](https://open.spotify.com/track/7JzBGVfqflJK20PwDcxxmM) | [Space of a Day](https://open.spotify.com/artist/5nNOI6NL16ypK6js5aiheB) | [Strains \(420 Deluxe EP\)](https://open.spotify.com/album/6DlliTyyxLxtiYZQy8aNys) | 3:21 |
+| 73 | [Medusa](https://open.spotify.com/track/0cTXQ1A2Xda6TIPGeUQlbM) | [The Last Pioneers](https://open.spotify.com/artist/47VNhQMeBaWxOZG6aJHYvM) | [Medusa](https://open.spotify.com/album/3ofnl4UCPVKIPznm20tb3N) | 3:59 |
+| 74 | [Homicide Stage](https://open.spotify.com/track/1fOUzA0EUe2bc7tlARVPds) | [Morning in May](https://open.spotify.com/artist/3UULburonGvlXaqlMuUrak), [The Red Jumpsuit Apparatus](https://open.spotify.com/artist/1SImpQO0GbjRgvlwCcCtFo), [Judge & Jury](https://open.spotify.com/artist/2p1FiOhFr2sED9OxKVNRbB) | [Homicide Stage](https://open.spotify.com/album/1iiBvybQUCeeA9gIcwwgkG) | 2:44 |
+| 75 | [I See Scared](https://open.spotify.com/track/4mx6MPSWrSJT6QD9IqS0BJ) | [Carl Schonbeck](https://open.spotify.com/artist/64G455sXZCInt8gPhAe7mF) | [I See Scared](https://open.spotify.com/album/6QIiAKhYUUATIqKNQt0zV3) | 3:53 |
+| 76 | [I See Scared](https://open.spotify.com/track/4mx6MPSWrSJT6QD9IqS0BJ) | [Carl Schonbeck](https://open.spotify.com/artist/64G455sXZCInt8gPhAe7mF) | [I See Scared](https://open.spotify.com/album/6QIiAKhYUUATIqKNQt0zV3) | 3:53 |
 
-Snapshot ID: `AAAHawTLMkNL22rxioYeAe17bfdf5ctS`
+Snapshot ID: `AAAHby7PEihvWFA5M05azyIcCxG4bD2g`

@@ -4995,6 +4995,24 @@
     },
     {
       "album": {
+        "name": "Jeffrey's Son",
+        "url": "https://open.spotify.com/album/7mrAbnESZTPGefHcHbLETf"
+      },
+      "artists": [
+        {
+          "name": "Louis Ottley",
+          "url": "https://open.spotify.com/artist/6lq9zv8FElQShSuFYolkp5"
+        }
+      ],
+      "date_added": "2026-11-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 197375,
+      "name": "Jeffrey's Son",
+      "url": "https://open.spotify.com/track/0uWDR6hzMrPWhgBiT6J9Zs"
+    },
+    {
+      "album": {
         "name": "Sycamore",
         "url": "https://open.spotify.com/album/3dkbfJo5szx7gGIx51zR5q"
       },
@@ -5906,7 +5924,7 @@
       ],
       "date_added": "2026-02-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-27",
       "duration_ms": 258014,
       "name": "Milk",
       "url": "https://open.spotify.com/track/3sFCKf3AsmHIPJPnkIg8PG"
@@ -10010,7 +10028,7 @@
       ],
       "date_added": "2026-05-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-27",
       "duration_ms": 225201,
       "name": "Wieso",
       "url": "https://open.spotify.com/track/5EVTMTPMNTyKQg55hVOhqF"
@@ -10382,6 +10400,24 @@
       "duration_ms": 161995,
       "name": "zu viel",
       "url": "https://open.spotify.com/track/1w5l9Qfpus2rpjJfYQBfQd"
+    },
+    {
+      "album": {
+        "name": "Zu viel zu wenig",
+        "url": "https://open.spotify.com/album/4y9RlF78mlYa10fK31NtkZ"
+      },
+      "artists": [
+        {
+          "name": "Magda",
+          "url": "https://open.spotify.com/artist/5yjjgmQfOQTB2s8XQxQwup"
+        }
+      ],
+      "date_added": "2026-11-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 136400,
+      "name": "Zu viel zu wenig",
+      "url": "https://open.spotify.com/track/3yxUEMvOwCWq6rRJMHJrOX"
     },
     {
       "album": {

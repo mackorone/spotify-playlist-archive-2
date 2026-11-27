@@ -4,7 +4,7 @@
 
 > De la douceur pour accompagner votre journée\. 🍁
 
-678 songs - 1 day 16 hr 15 min
+679 songs - 1 day 16 hr 17 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -527,7 +527,7 @@
 | [Rosier\-douleur](https://open.spotify.com/track/7iGASYouVLuiMggmfEB8MM) | [Jean Leloup](https://open.spotify.com/artist/4wxSKb9ur3AbGRCv81xFAd) | [L'étrange pays](https://open.spotify.com/album/13hzRu1yUCald5cfl6xtsp) | 2:18 | 2021-01-15 |  |
 | [Royallll \- Acoustic](https://open.spotify.com/track/0aZERRJPtlaPwLKYBuLbbc) | [Naïma Frank](https://open.spotify.com/artist/4aUXzuFgiPrcbVEQuw5r23), [Fernie](https://open.spotify.com/artist/5PemoTSZMQp59WnXZZ4EhI) | [Royallll \(Acoustic\)](https://open.spotify.com/album/6lpII3gcYlyNiD8cXVTXk4) | 2:49 | 2026-10-23 | 2026-10-30 |
 | [Rue de l'ours \- version du dimanche](https://open.spotify.com/track/67q2II41CAGAn3XAeE3qpa) | [Safia Nolin](https://open.spotify.com/artist/6A2d6U7npV8B6suj2A5bVJ) | [Rue de l'ours](https://open.spotify.com/album/77bSNDdVvlZALzMY2LKpsH) | 2:22 | 2021-06-13 | 2021-09-11 |
-| [Régate](https://open.spotify.com/track/4BBLpqkp9eVQS2Ra5MdI6u) | [Mathieu David Gagnon](https://open.spotify.com/artist/4cGEOcEeLrZdOBxVMugZyR), [Flore Laurentienne](https://open.spotify.com/artist/05ElmDRcpwbAIRmLqRw1Bv) | [Régate](https://open.spotify.com/album/0yoKESYqc1kYjvQULklAUk) | 4:44 | 2026-01-30 |  |
+| [Régate](https://open.spotify.com/track/4BBLpqkp9eVQS2Ra5MdI6u) | [Mathieu David Gagnon](https://open.spotify.com/artist/4cGEOcEeLrZdOBxVMugZyR), [Flore Laurentienne](https://open.spotify.com/artist/05ElmDRcpwbAIRmLqRw1Bv) | [Régate](https://open.spotify.com/album/0yoKESYqc1kYjvQULklAUk) | 4:44 | 2026-01-30 | 2026-11-27 |
 | [Rénos](https://open.spotify.com/track/4aCcNZIdgxiv3Wcykgb9gU) | [Kèthe Magané](https://open.spotify.com/artist/2xRd9oXpHOXzrED7JnyEZL) | [Rénos](https://open.spotify.com/album/2KtAOHXR5FajC5tDu0iH7t) | 2:58 | 2026-07-03 | 2026-08-08 |
 | [Rêve américain](https://open.spotify.com/track/24QonUF5uozUXhAnU8UA9B) | [Jonathan Personne](https://open.spotify.com/artist/5Aw2a3f4H08TuXNR1OqtLy) | [Rêve américain](https://open.spotify.com/album/3sdQCZN0xkMIFa8Baokdj0) | 3:37 | 2026-05-01 | 2026-06-14 |
 | [S'il te plaît, fais\-moi danser](https://open.spotify.com/track/0y1UQYcAeo7YS1haA7pTCy) | [Pierre Lapointe](https://open.spotify.com/artist/6zmMGBnFE2DCkAxaCVULRP) | [Treize chansons démodées pour ceux qui ont le cœur abîmé](https://open.spotify.com/album/20xnLUc9BHbjhXi2uVbxrx) | 2:46 | 2026-01-30 | 2026-05-16 |
@@ -660,6 +660,7 @@
 | [Walk Away Wishing](https://open.spotify.com/track/6qy7R1oYughuKogqTbIytH) | [Trudy](https://open.spotify.com/artist/4lBFE3enDio6Yb5xJaXbWS) | [Walk Away Wishing](https://open.spotify.com/album/2WcgHoUuXM6uQ7R6MHVXQS) | 2:45 | 2025-10-17 | 2025-12-20 |
 | [Waterfall](https://open.spotify.com/track/686REeaDyJsoTNl6eFDFiK) | [Laroie](https://open.spotify.com/artist/3vm1wp0nCMQSIaPVT6f0IY) | [Waterfall](https://open.spotify.com/album/0YxzumaPK6A7xM5mE5s9KA) | 4:39 | 2025-12-05 | 2026-05-30 |
 | [Where We Belong](https://open.spotify.com/track/4L9DijwYJ2PvqthNHUEkCE) | [a\-ron songs](https://open.spotify.com/artist/2SZ54u0MjmVUb0TXMZbpc5) | [Where We Belong](https://open.spotify.com/album/0NezjgTpBYmbtHcee8j9fy) | 3:45 | 2026-02-06 | 2026-06-13 |
+| [Whole Life](https://open.spotify.com/track/42h8a36oajv2baQaBkEbtM) | [Helena Deland](https://open.spotify.com/artist/0BJeP79i5wKgCqsEEiQ7G0) | [Whole Life](https://open.spotify.com/album/474Lymr5Z6E2vlCAcazKLv) | 2:18 | 2026-11-27 |  |
 | [Wicked Game](https://open.spotify.com/track/5WvotXJOlAi5KsonjA5Pwl) | [La Force](https://open.spotify.com/artist/6Wt2zqLZOrA36sooqmAvFH), [Unessential Oils](https://open.spotify.com/artist/34dPqKupUgAXZRn6beb0Zu) | [Wicked Game](https://open.spotify.com/album/1NxSaYXzNFn0sg53ZhSa6t) | 3:58 | 2026-06-12 | 2026-08-10 |
 | [Wildflower and Barley \(feat\. Allison Russell\)](https://open.spotify.com/track/7zTZfbO4ZiK69Y6nO4iyO9) | [Hozier](https://open.spotify.com/artist/2FXC3k01G6Gw61bmprjgqS), [Allison Russell](https://open.spotify.com/artist/3JBmecDGXTll46ygrnGTM6) | [Unreal Unearth: Unheard](https://open.spotify.com/album/1vL2mgGTukkrUxXt0loeTN) | 3:42 | 2024-04-05 | 2025-01-07 |
 | [Win of the Century](https://open.spotify.com/track/6uL1E5qg1PxEAzxBODCxPh) | [Aidan Rex](https://open.spotify.com/artist/1rkPPXRaJdv3dHucEHoXg9) | [Win of the Century](https://open.spotify.com/album/791e4R93yIduaysv9IRthG) | 2:52 | 2026-08-28 | 2026-09-19 |

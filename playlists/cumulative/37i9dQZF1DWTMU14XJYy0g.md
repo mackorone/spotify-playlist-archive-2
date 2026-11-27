@@ -2,9 +2,9 @@
 
 ### [Rock Argentino](https://open.spotify.com/playlist/37i9dQZF1DWTMU14XJYy0g)
 
-> Emblemas de nuestro rock 📸 Guasones
+> 📸  Joaco Burgos
 
-472 songs - 1 day 5 hr 12 min
+474 songs - 1 day 5 hr 19 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -325,7 +325,7 @@
 | [No Pares \(Sí, sí\)](https://open.spotify.com/track/1Q7Gq9wfgvEiQr5ErcD0Ks) | [La Grecia](https://open.spotify.com/artist/5eAzahInrBCojLVv1oKRlJ) | [Lady Garrón](https://open.spotify.com/album/5GpowTlDdjO8288epvUtWK) | 3:17 | 2026-07-31 |  |
 | [No Pasarán](https://open.spotify.com/track/4PaRbFygnnHjx9t766RRg7) | [Eruca Sativa](https://open.spotify.com/artist/2RPNbhguRnI9uqahGYcUc6) | [No Pasarán](https://open.spotify.com/album/6BH7DmrA6qENxehHba4kDv) | 3:50 | 2025-02-21 | 2025-03-08 |
 | [No Puedo Dormir](https://open.spotify.com/track/0qwTx0y2uPkVcXT9M9fu9e) | [Los Burritos](https://open.spotify.com/artist/20pbYX3EUvtEdG3Cjx9qG1), [Nico Bereciartua](https://open.spotify.com/artist/79KJ0gUMjDNnDWrT9szmZM) | [No Puedo Dormir](https://open.spotify.com/album/5VDaXN4qeSZIZpEoucY9Ow) | 3:57 | 2022-06-24 | 2023-04-22 |
-| [NO QUIEREN MÁS MI ROCANROL](https://open.spotify.com/track/15SjDtzBpyj6NxS4TY9CAT) | [Marilina Bertoldi](https://open.spotify.com/artist/1nm9PdmvzPXJmIlMOk5XLy) | [PARA QUIEN TRABAJAS Vol\. I](https://open.spotify.com/album/40Nq78LYEHEtCKd0tuOmy2) | 1:26 | 2025-05-23 |  |
+| [NO QUIEREN MÁS MI ROCANROL](https://open.spotify.com/track/15SjDtzBpyj6NxS4TY9CAT) | [Marilina Bertoldi](https://open.spotify.com/artist/1nm9PdmvzPXJmIlMOk5XLy) | [PARA QUIEN TRABAJAS Vol\. I](https://open.spotify.com/album/40Nq78LYEHEtCKd0tuOmy2) | 1:26 | 2025-05-23 | 2026-11-27 |
 | [No Se Amarguen](https://open.spotify.com/track/4A9PMFmGUWShmy5gEr5VtI) | [Alter Vu](https://open.spotify.com/artist/5vsjSGTCjYNsUY9Ln4R4dU) | [LA RED](https://open.spotify.com/album/0bMuaS8RADa8I71hKOCuqM) | 3:39 | 2025-04-25 | 2025-08-02 |
 | [No Tengo](https://open.spotify.com/track/0ZGmRAxY2XT3G0TJqWVOjA) | [Vicentico](https://open.spotify.com/artist/25THA9HUHoxpCT4LBp7UsZ) | [No Tengo](https://open.spotify.com/album/3l3Pp0CTPk3SNToZzX2fEu) | 5:19 | 2022-06-24 | 2022-07-02 |
 | [Noches de la Luna](https://open.spotify.com/track/20UDEAiUtKvHwclS4MhWmJ) | [1915](https://open.spotify.com/artist/4jwnlVc9Lj5vMkL32978d1) | [Noches de la Luna](https://open.spotify.com/album/3jSA6kPSMzjIpPBql7Qyan) | 3:14 | 2024-05-24 | 2025-03-08 |
@@ -396,6 +396,7 @@
 | [Serenata de una ruta larga](https://open.spotify.com/track/3Idt8MaiSm8PuVIgiHuFga) | [El Plan De La Mariposa](https://open.spotify.com/artist/3LY3yBRRL9yxCZxaxkdUir) | [Serenata de una ruta larga](https://open.spotify.com/album/6ViG0ICnYnj5KlVjxR6MDV) | 4:47 | 2024-05-10 |  |
 | [Señal](https://open.spotify.com/track/3wbNcSSX8ipuqDEvuSkL6W) | [La Beriso](https://open.spotify.com/artist/0Dy32zfSrQ332Bz8wsthKJ) | [Mienten](https://open.spotify.com/album/235Wl5n7jidt5DZCMobnlR) | 4:37 | 2023-06-16 | 2023-09-27 |
 | [SIBERIA](https://open.spotify.com/track/4FUbTQsBDmoO99i1TXwKeK) | [Piti Fernández](https://open.spotify.com/artist/4PJtMqmJX54aKaztYQfFYb) | [Caminos Bríos](https://open.spotify.com/album/3TX9rPF9ruJb5Ntk7wAOrF) | 3:54 | 2022-06-24 | 2023-04-01 |
+| [Siempre Hay Una Melodía](https://open.spotify.com/track/2mAhaXTSh8zLC7PamT6PK1) | [Joaco Burgos](https://open.spotify.com/artist/2MDvrUsi9z2CCh8p0Iqo7A) | [Siempre Hay Una Melodía](https://open.spotify.com/album/4OUFzMcZQXeweI8QhEgiKb) | 3:00 | 2026-11-27 |  |
 | [Sigo](https://open.spotify.com/track/3mRUbNFGSqtCI946GQpEhf) | [Guasones](https://open.spotify.com/artist/2wjmZuSHtRx96Qxb8HiP2o) | [Exilio](https://open.spotify.com/album/65aJsTVMkh87gXBhxgiYTZ) | 4:28 | 2026-11-20 |  |
 | [Silencio](https://open.spotify.com/track/4Ey3GCtvICUIJDM0wUCPd0) | [Los Tipitos](https://open.spotify.com/artist/1SykQGBiBwkQ1fcGpJ1BJt), [Andrés Calamaro](https://open.spotify.com/artist/3tAICgiSR5PfYY4B8qsoAU) | [Silencio](https://open.spotify.com/album/3OImMIbnVXy6OV1yJHSYeH) | 5:25 | 2024-06-07 | 2024-09-13 |
 | [Sin la Piel](https://open.spotify.com/track/5qPNGxwfatEJmtISRGErwP) | [Las Pelotas](https://open.spotify.com/artist/1Qv4E1VgZOGnOYd99Kp5Bs) | [Sin La Piel](https://open.spotify.com/album/50Z0f28zaJBF5MeqrWzOAP) | 3:41 | 2026-09-11 |  |
@@ -413,7 +414,7 @@
 | [Superextraño](https://open.spotify.com/track/3PqIjhaeM3EHhKcRsILaxB) | [Fito Paez](https://open.spotify.com/artist/1bZNv4q3OxYq7mmnLha7Tu) | [Superextraño](https://open.spotify.com/album/2kBcpKY13cIwUQDMrvrFrR) | 3:41 | 2025-02-28 | 2025-09-13 |
 | [Superman](https://open.spotify.com/track/2bjZVdbKirAuoARSGjb6Iy) | [Edu Schmidt](https://open.spotify.com/artist/7kNLKJ3eUza4CwbzgNes9W) | [Superman](https://open.spotify.com/album/5Rhcjg2AVjkAHV6VPD2xux) | 3:39 | 2024-05-31 | 2024-06-26 |
 | [Sur Vigente](https://open.spotify.com/track/6ZHQobo4G0Ig3i8ZTYzQla) | [Vozenoff](https://open.spotify.com/artist/0hASTHk8Lmdj2zAHvkfsfW) | [Sur Vigente](https://open.spotify.com/album/6GV5oNdTZmTpaD4D4HhzES) | 3:42 | 2022-07-01 | 2022-09-03 |
-| [Sábado \- Sesión 20° Aniversario En Vivo](https://open.spotify.com/track/07QuE6e03a0AbGsHocsgRU) | [El Mató a un Policía Motorizado](https://open.spotify.com/artist/5rLsN2LxYaEPLa1N7I2mPB) | [El Mató a un Policía Motorizado \(Sesión 20° Aniversario En Vivo\)](https://open.spotify.com/album/0S0olAbsD98CFGTuDcOEW2) | 3:08 | 2025-03-07 |  |
+| [Sábado \- Sesión 20° Aniversario En Vivo](https://open.spotify.com/track/07QuE6e03a0AbGsHocsgRU) | [El Mató a un Policía Motorizado](https://open.spotify.com/artist/5rLsN2LxYaEPLa1N7I2mPB) | [El Mató a un Policía Motorizado \(Sesión 20° Aniversario En Vivo\)](https://open.spotify.com/album/0S0olAbsD98CFGTuDcOEW2) | 3:08 | 2025-03-07 | 2026-11-27 |
 | [sé que va a venir](https://open.spotify.com/track/4CdsEPDWvoNL249vSYhxyp) | [Mujer Cebra](https://open.spotify.com/artist/6UZQzfJ09W8Dqmr0UoU5HL) | [Inhibidor](https://open.spotify.com/album/3pKSAQaC5qUpRAhRg5BRVk) | 4:01 | 2026-07-31 |  |
 | [Tajada](https://open.spotify.com/track/0HGchjSKUuMNsLg8zfwqFf) | [Babasonicos](https://open.spotify.com/artist/2F9pvj94b52wGKs0OqiNi2) | [Tajada](https://open.spotify.com/album/5hfg8YESqVnDHcOPiu4GSs) | 3:26 | 2023-12-01 | 2024-09-21 |
 | [Tan Distintos \- Acústico](https://open.spotify.com/track/6VVSQJKIS8QoS3ATKYZpI8) | [Guasones](https://open.spotify.com/artist/2wjmZuSHtRx96Qxb8HiP2o), [EMI](https://open.spotify.com/artist/6ITLgutvUhAIXVBbdr7FB1) | [Tan Distintos \(Acústico\)](https://open.spotify.com/album/4kn2pDF2SAuQGc9yUMp31n) | 3:38 | 2023-09-22 | 2025-12-20 |
@@ -477,6 +478,7 @@
 | [Yo mismo](https://open.spotify.com/track/7K11tjyEjrXfKkTZuwwt9J) | [Giros](https://open.spotify.com/artist/5qZ2Um0qzmcmSsIoMGg1Im), [Cruzando El Charco](https://open.spotify.com/artist/4STEdt6oH8RopaxpfWrO5Z) | [Lo Malo Del Después](https://open.spotify.com/album/5c7PVWVgfKzCL3UiXes5C3) | 3:40 | 2025-10-10 |  |
 | [Yo Soy la Máquina](https://open.spotify.com/track/4eq8fPmokjpFcMVpNLKwaI) | [Skay Beilinson](https://open.spotify.com/artist/4K8Mrjr9IvA8QU0Vjj4BED) | [Yo Soy la Máquina](https://open.spotify.com/album/1KgTB2iKxtvGWQ5EL97LDZ) | 3:04 | 2022-10-14 | 2023-03-04 |
 | [Yo Ya Sé](https://open.spotify.com/track/79thbxA6OpIUMVu8mROice) | [Charly García](https://open.spotify.com/artist/3jO7X5KupvwmWTHGtHgcgo) | [La Lógica del Escorpión](https://open.spotify.com/album/0k2JGzYRZQC3s3ZNTcyHoA) | 2:03 | 2024-09-12 | 2025-02-14 |
+| [¡Cruz Diablo! \- En Vivo, Sábado 12 de Marzo de 2016 / Hipódromo de Tandil](https://open.spotify.com/track/76AWEwlsjEraAf1NKY6Vys) | [Indio Solari](https://open.spotify.com/artist/0nUGkxUncFeXt0Dr0hhrc4), [Los Fundamentalistas del Aire Acondicionado](https://open.spotify.com/artist/1SKA2QwV2fwGgoMlx16FXO) | [¡Cruz Diablo! \(En Vivo, Sábado 12 de Marzo de 2016 / Hipódromo de Tandil\)](https://open.spotify.com/album/0nVQ0OVnwpo0CTRKVMmcL4) | 4:24 | 2026-11-27 |  |
 | [¿Cuál es tu norte?](https://open.spotify.com/track/3rXelz3OropaCqcftAvS0d) | [Piti Fernández](https://open.spotify.com/artist/4PJtMqmJX54aKaztYQfFYb) | [¿Cuál es tu norte?](https://open.spotify.com/album/4jB9UpCufTpKqCKdhzliPz) | 4:24 | 2023-03-17 | 2024-06-08 |
 | [¿Qué Vas A Hacer Tan Sola Hoy? \- Spotify Singles](https://open.spotify.com/track/65Qjvcf4RFQPwwkz7T6l76) | [Dillom](https://open.spotify.com/artist/4cJD9t5QBFTUQcd3xfbOb2) | [¿Qué Vas A Hacer Tan Sola Hoy? \- Spotify Singles](https://open.spotify.com/album/0pz6Qn6QKcJmdTwsGDcVBW) | 3:11 | 2024-11-07 | 2025-12-06 |
 | [Úsame](https://open.spotify.com/track/1TYqggFVoo2ILv5leZRFpE) | [RYAN](https://open.spotify.com/artist/3g7K56xAln97Nmy0G1hx8E) | [Úsame](https://open.spotify.com/album/4vnJLpo5yCmBCOpEVG33A6) | 3:03 | 2026-03-13 | 2026-08-01 |

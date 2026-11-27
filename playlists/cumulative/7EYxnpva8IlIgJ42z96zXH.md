@@ -4,7 +4,7 @@
 
 > Fuel your gym routine with the best workout hits for wellness, health, running, pilates, HIIT, weightlifting, hyrox, weightloss, bodybuilding, winter arc, locking in, getting fit, toning, run clubs + more
 
-1,185 songs - 2 day 14 hr 16 min
+1,186 songs - 2 day 14 hr 19 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -288,6 +288,7 @@
 | [Don't Stop](https://open.spotify.com/track/13cX2o4cASGLYXNaQyXWxt) | [Prospa](https://open.spotify.com/artist/6HabM2PUM519iIxervGWSb) | [Don't Stop](https://open.spotify.com/album/0rSgVoJE8fncqD9bJU0Ltq) | 2:27 | 2026-08-25 |  |
 | [Don't Stop The Party](https://open.spotify.com/track/3yU05u9gw48xEmBbjXij53) | [Marlon Hoffstadt](https://open.spotify.com/artist/0HHa7ZJZxUQlg5l2mB0N0f), [DJ Daddy Trance](https://open.spotify.com/artist/4lBSzo2LS8asEzoePv6VLM) | [Don't Stop The Party](https://open.spotify.com/album/0OfADW0uRpFXhedZyHOnkO) | 3:05 | 2024-03-28 | 2024-07-19 |
 | [Don't Wait Up](https://open.spotify.com/track/45PF1Y3RcW5MK0jxWvhc4D) | [Shakira](https://open.spotify.com/artist/0EmeFodog0BfCgMzAIvKQp) | [Don't Wait Up](https://open.spotify.com/album/5xEtia4eFu6W3Ql7xgR3Dp) | 3:24 | 2021-07-30 | 2021-08-20 |
+| [Don't Wanna Dance](https://open.spotify.com/track/3XjTAEGAsPZiQcnrqwZL29) | [Snakehips](https://open.spotify.com/artist/2FwJwEswyIUAljqgjNSHgP), [Scrufizzer](https://open.spotify.com/artist/3JmGsgVoGUN1Ro1jLfi7k1) | [Don't Wanna Dance](https://open.spotify.com/album/4AhNzDO92dyAjbLgyiNxgM) | 3:01 | 2026-11-27 |  |
 | [Don't You Hold Me Down](https://open.spotify.com/track/0d1ujEcFwTqA4kWliTSJim) | [Alan Walker](https://open.spotify.com/artist/7vk5e3vY1uw9plTHJAMwjN), [Georgia Ku](https://open.spotify.com/artist/5mYakBbBzPMQTfkVMIgiDM) | [Don't You Hold Me Down](https://open.spotify.com/album/5KQgg5bFgzVeQeZ0E4mxSQ) | 2:12 | 2021-08-28 | 2021-09-24 |
 | [DON'T YOU WORRY \(Farruko Remix\) \(with Farruko, David Guetta & Shakira\)](https://open.spotify.com/track/6Qk9crrlslodQnHqhCmjtC) | [Black Eyed Peas](https://open.spotify.com/artist/1yxSLGMDHlW21z4YXirZDS), [Farruko](https://open.spotify.com/artist/329e4yvIujISKGKz1BZZbO), [Shakira](https://open.spotify.com/artist/0EmeFodog0BfCgMzAIvKQp), [David Guetta](https://open.spotify.com/artist/1Cs0zKBU1kc0i8ypK3B9ai) | [DON'T YOU WORRY \(Farruko Remix\) \(with Farruko, David Guetta & Shakira\)](https://open.spotify.com/album/2aCT4cP1qg9NhPLvSg48N5) | 3:25 | 2022-09-02 | 2022-11-19 |
 | [Dopamine](https://open.spotify.com/track/0gy6fmn47eSk1jGMw8LABx) | [Opiuo](https://open.spotify.com/artist/69Fy7EM9qAFPdKSKLFU66b) | [Dopamine](https://open.spotify.com/album/69p7kVCg3aNBBRmucC48Ge) | 5:14 | 2022-07-29 | 2022-10-07 |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSOkubnsDCSS.md) - [plain]
 
 > Flow so good, it deserved a reload\.  Cover: Yizzy, Jme
 
-[Spotify](https://open.spotify.com/user/spotify) - 709,845 likes - 70 songs - 3 hr 28 min
+[Spotify](https://open.spotify.com/user/spotify) - 709,744 likes - 70 songs - 3 hr 28 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -39,8 +39,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSOkubnsDCSS.md) - [plain]
 | 29 | [TUFF](https://open.spotify.com/track/0BdOk4wHgmou8pQAVmot5W) | [BexBlu](https://open.spotify.com/artist/5pXt1B1htTEbkBbQrgNbhy), [Paul Stephan](https://open.spotify.com/artist/4mJjROPMjSeN3bcyUR2sXF), [t.o](https://open.spotify.com/artist/3VPVf2I5XVZGmTp5WHva68), [Kruz Leone](https://open.spotify.com/artist/2pXOtGRpnXJJfzEUddqKcC) | [TUFF](https://open.spotify.com/album/2PGtIrYSJiy5bw7Tcad6HN) | 3:15 |
 | 30 | [Dreaming](https://open.spotify.com/track/3XvYLYepT6vVwbEFdW51ws) | [Killa P](https://open.spotify.com/artist/0yZqTQF0ULKX2gFE6fBHXZ), [Numa Crew](https://open.spotify.com/artist/1tov99lRWyoWgwcnrBFADL), [Abstrakt Sonance](https://open.spotify.com/artist/00qKBesewdWy5l0bpMdosp) | [Killing Time](https://open.spotify.com/album/7aeGkSrHin7gULg31SzIen) | 2:36 |
 | 31 | [Active](https://open.spotify.com/track/0S4v7cMGdVr3wpxtbsVnVQ) | [Virus Syndicate](https://open.spotify.com/artist/0NV5eY4Jzg4ldg2ikGnV4n) | [Active](https://open.spotify.com/album/2k7Ug9KFqKGbLjXoVRDhwI) | 3:40 |
-| 32 | [Tec](https://open.spotify.com/track/6FCRFF2suUxQZntqnaTMru) | [Scorcher](https://open.spotify.com/artist/2BYHpYwXO4zi36Tf3pEH5n) | [Tec](https://open.spotify.com/album/5b8v3jLQtM16TFuq2Qvj8Z) | 2:15 |
-| 33 | [Putting on Weight](https://open.spotify.com/track/4RuSxcgeanxhLik8LIx3ND) | [Frisco](https://open.spotify.com/artist/1AKNroq6zJX4DlJaA0dcKw) | [Putting on Weight](https://open.spotify.com/album/4IbnHED3BCP9bjIu68xghy) | 3:03 |
+| 32 | [Putting on Weight](https://open.spotify.com/track/4RuSxcgeanxhLik8LIx3ND) | [Frisco](https://open.spotify.com/artist/1AKNroq6zJX4DlJaA0dcKw) | [Putting on Weight](https://open.spotify.com/album/4IbnHED3BCP9bjIu68xghy) | 3:03 |
+| 33 | [Tec](https://open.spotify.com/track/6FCRFF2suUxQZntqnaTMru) | [Scorcher](https://open.spotify.com/artist/2BYHpYwXO4zi36Tf3pEH5n) | [Tec](https://open.spotify.com/album/5b8v3jLQtM16TFuq2Qvj8Z) | 2:15 |
 | 34 | [Hyperfocus](https://open.spotify.com/track/2MjwF2xVs5hMYv8tFTyqIe) | [Manga Saint Hilare](https://open.spotify.com/artist/0jU1Tdr7ONlgk0Ey9JgXra) | [3 3 3 3](https://open.spotify.com/album/7JFR8bAEka2OjUGh5iPMZe) | 2:34 |
 | 35 | [STILL REMINISCING](https://open.spotify.com/track/736FYsG3s7DP17BFgWxyTk) | [Paul Stephan](https://open.spotify.com/artist/4mJjROPMjSeN3bcyUR2sXF), [BexBlu](https://open.spotify.com/artist/5pXt1B1htTEbkBbQrgNbhy), [Awaiting Kvng](https://open.spotify.com/artist/4kzXgdwAgZoKXO8GNMgvFc) | [STILL REMINISCING](https://open.spotify.com/album/4mpe33kvA9isxz7ts2OxIQ) | 2:27 |
 | 36 | [premium wear](https://open.spotify.com/track/6pKJ4KJfFW1M56NhlSm77e) | [namesbliss](https://open.spotify.com/artist/69NBSJxkHyagyCv9K902iM), [BexBlu](https://open.spotify.com/artist/5pXt1B1htTEbkBbQrgNbhy) | [premium wear](https://open.spotify.com/album/3mCq1Ij05M5IpEneuQPdu8) | 2:31 |
@@ -70,13 +70,13 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSOkubnsDCSS.md) - [plain]
 | 60 | [Streets Of Rage](https://open.spotify.com/track/4o1fiAhnayXFvxwHNmxlcB) | [Drone](https://open.spotify.com/artist/0shWQ9M3KOAHMv2W9lMecN), [Kyeza](https://open.spotify.com/artist/1WviCphVQaAq8iYfr52967) | [Streets Of Rage](https://open.spotify.com/album/7JSFtsnMVxEfk4gToZYM1t) | 4:11 |
 | 61 | [Big Shaq](https://open.spotify.com/track/1OTu1PvaDvHjTLdcGHMzvb) | [Shxdow](https://open.spotify.com/artist/53Fh7I0tinM6Ak1rH8lHY8), [+44](https://open.spotify.com/artist/24XhmjozLPqyHFtatU3uqo), [Kruz Leone](https://open.spotify.com/artist/2pXOtGRpnXJJfzEUddqKcC) | [Blas4Me](https://open.spotify.com/album/5eiODld2WhZdYBvyT1iB6d) | 2:53 |
 | 62 | [Run Tings](https://open.spotify.com/track/318AWQRiTge3MzdejcatY1) | [Logan\_olm](https://open.spotify.com/artist/7ezXYwQkPrEkSXdVsFowz0) | [Logan From The OtherSide](https://open.spotify.com/album/79rN0G0CjbKjcKUBAIWhqL) | 3:16 |
-| 63 | [Tears](https://open.spotify.com/track/46H0hdgPqCJEZwssr12nKv) | [M1KE7](https://open.spotify.com/artist/6uEAtBFJb2QlCoCBMuNhnA) | [Tears](https://open.spotify.com/album/2EYiyFWdzIGQEdXrYNtydb) | 2:19 |
-| 64 | [In My Corner](https://open.spotify.com/track/4JjFRMvjHhNe8Cb1LYWNBY) | [Bruza](https://open.spotify.com/artist/75NoDuNVpPxgRoxyySofSx) | [We're All On TV](https://open.spotify.com/album/2tEJ1zWcGczSfkctYnD0SQ) | 3:42 |
+| 63 | [In My Corner](https://open.spotify.com/track/4JjFRMvjHhNe8Cb1LYWNBY) | [Bruza](https://open.spotify.com/artist/75NoDuNVpPxgRoxyySofSx) | [We're All On TV](https://open.spotify.com/album/2tEJ1zWcGczSfkctYnD0SQ) | 3:42 |
+| 64 | [Tears](https://open.spotify.com/track/46H0hdgPqCJEZwssr12nKv) | [M1KE7](https://open.spotify.com/artist/6uEAtBFJb2QlCoCBMuNhnA) | [Tears](https://open.spotify.com/album/2EYiyFWdzIGQEdXrYNtydb) | 2:19 |
 | 65 | [Durag](https://open.spotify.com/track/0TTGXrpU995KJFylOMnxR4) | [Manga Saint Hilare](https://open.spotify.com/artist/0jU1Tdr7ONlgk0Ey9JgXra), [Lewi B.](https://open.spotify.com/artist/4DedTBbPVMtOiIxPIdqA5Z) | [OUTERNATIONAL](https://open.spotify.com/album/0GY77VtVlLiQcExnQ4rEoD) | 2:18 |
 | 66 | [spirit, pt\. 1](https://open.spotify.com/track/0AONpN0TCxQyLKJeruAV2d) | [Kwoli Black](https://open.spotify.com/artist/4munQWPVKYZ9uQHepLM1qn) | [spirit, pt\. 1](https://open.spotify.com/album/1Hj2yjReH6s8vRCzsNQgNi) | 1:49 |
 | 67 | [Grime Medley, Pt\. 1](https://open.spotify.com/track/0zVdq7RkOJV9qZKKilDgWD) | [DYNO](https://open.spotify.com/artist/4LA8Md9s5vNRscOFOe7wzq) | [Grime Medley, Pt\. 1](https://open.spotify.com/album/51muc0fwirGorde0lY7Hga) | 2:06 |
 | 68 | [NOT ROLLING](https://open.spotify.com/track/7pS5sw0cQBn4Vzqf6HMbgK) | [Renz](https://open.spotify.com/artist/49sRUNycijZlYjXBVTW5MG), [CHAMBER45](https://open.spotify.com/artist/3LkfAichpP3CfyRQKCi01u) | [NOT ROLLING](https://open.spotify.com/album/6x879Qf99gjuaCYZtcY4Y0) | 2:31 |
 | 69 | [Listen & Learn](https://open.spotify.com/track/0Ivpsx3vWHDbdJjrrVqyPG) | [Kyeza](https://open.spotify.com/artist/1WviCphVQaAq8iYfr52967), [Felix Dubs](https://open.spotify.com/artist/5iF6YGehiRgkpZ2uyzVG4u) | [Listen & Learn](https://open.spotify.com/album/06rk2eazRzhctA5P6aItWe) | 3:10 |
-| 70 | [R.I.O.T.](https://open.spotify.com/track/12tPULrVovU3H4eO5wHAhz) | [Snowy](https://open.spotify.com/artist/3opizXFB4I7D4926tpYMUP), [Sukh Knight](https://open.spotify.com/artist/2NskCY8L26IYipQhRWousM) | [R.I.O.T.](https://open.spotify.com/album/0Ed8HgUbVjimSFgu0xuM6r) | 3:06 |
+| 70 | [When Will It End?](https://open.spotify.com/track/5vwsZrnIsAdVLrg5q7ldHi) | [Chower](https://open.spotify.com/artist/4h4q5Q7DPbbKKTBk913DfF), [Daveyoh](https://open.spotify.com/artist/1bXcACbUTycIcqC0AiQ0Is) | [When Will It End?](https://open.spotify.com/album/4V41B6JaC1SV540ERnGEdR) | 2:37 |
 
 Snapshot ID: `AAAAAMOXAm72Dpk135OaYyxpL/y5mUJa`

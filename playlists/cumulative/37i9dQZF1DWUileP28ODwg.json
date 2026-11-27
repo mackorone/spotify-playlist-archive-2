@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-03-01",
-  "description": "Tune in here for new and current hits in Contemporary Christian music! Cover: Peter Burton",
+  "description": "Tune in here for new and current hits in Contemporary Christian music! Cover:  Brandon Lake",
   "name": "Top Contemporary Christian",
   "tracks": [
     {
@@ -3043,6 +3043,28 @@
     },
     {
       "album": {
+        "name": "Feels Like Falling",
+        "url": "https://open.spotify.com/album/2aHFDjLdxb8SHB9N4XcWe0"
+      },
+      "artists": [
+        {
+          "name": "Pat Barrett",
+          "url": "https://open.spotify.com/artist/0289SkqAn0iOohwm0pIHv3"
+        },
+        {
+          "name": "Abbie Gamboa",
+          "url": "https://open.spotify.com/artist/4TJVQinD20ZEoJXSuV6IU5"
+        }
+      ],
+      "date_added": "2026-11-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 260003,
+      "name": "Feels Like Falling",
+      "url": "https://open.spotify.com/track/4PN8GHFYyG34DMl8I60BB4"
+    },
+    {
+      "album": {
         "name": "Fight Like Heaven",
         "url": "https://open.spotify.com/album/1HFtYu2cRGDxkF4qSHtQVB"
       },
@@ -6028,7 +6050,7 @@
       ],
       "date_added": "2026-09-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-27",
       "duration_ms": 232220,
       "name": "How Good God Is",
       "url": "https://open.spotify.com/track/4fKoBrwsE44m3oMIzXSqhL"
@@ -6770,7 +6792,7 @@
       ],
       "date_added": "2026-09-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-27",
       "duration_ms": 231511,
       "name": "I've Found Jesus - Live",
       "url": "https://open.spotify.com/track/2i3Rjkur3NJiCH6txMqlDL"
@@ -15776,6 +15798,24 @@
       "duration_ms": 240015,
       "name": "Wholeheartedly",
       "url": "https://open.spotify.com/track/3J9uGNRA6oMvM4wnOkSdxT"
+    },
+    {
+      "album": {
+        "name": "Why Would I",
+        "url": "https://open.spotify.com/album/786y1d08UClBGeOeRZ5PYk"
+      },
+      "artists": [
+        {
+          "name": "Brandon Lake",
+          "url": "https://open.spotify.com/artist/1bdnGJxkbIIys5Jhk1T74v"
+        }
+      ],
+      "date_added": "2026-11-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 289182,
+      "name": "Why Would I",
+      "url": "https://open.spotify.com/track/4xBcWJdcQi2icUPMT115DT"
     },
     {
       "album": {

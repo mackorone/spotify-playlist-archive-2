@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2023-09-29",
-  "description": "La sc\u00e8ne fran\u00e7aise branch\u00e9e sur courant alternatif. Photo: Dal\u00ed.",
+  "description": "La sc\u00e8ne fran\u00e7aise branch\u00e9e sur courant alternatif. Photo: Ar\u00f8ne.",
   "name": "Courant Alternatif",
   "tracks": [
     {
@@ -442,6 +442,24 @@
       "duration_ms": 211866,
       "name": "ami imaginaire",
       "url": "https://open.spotify.com/track/0DuA2KLpfMq2TLgtHJ0g2b"
+    },
+    {
+      "album": {
+        "name": "qui es-tu (pour de vrai) ?",
+        "url": "https://open.spotify.com/album/5Rd8KY6vAN3iVuf2yvJJPN"
+      },
+      "artists": [
+        {
+          "name": "Elle en \u00e9t\u00e9",
+          "url": "https://open.spotify.com/artist/3clftljp65DnlVlGRRneEW"
+        }
+      ],
+      "date_added": "2026-11-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 147417,
+      "name": "Amour cowboy",
+      "url": "https://open.spotify.com/track/50a2na7jfYRMMaTk27H00T"
     },
     {
       "album": {
@@ -1273,6 +1291,24 @@
     },
     {
       "album": {
+        "name": "BORDERLINE CLUB",
+        "url": "https://open.spotify.com/album/1Acwebrao6NJJYSz5we61T"
+      },
+      "artists": [
+        {
+          "name": "KALIKA",
+          "url": "https://open.spotify.com/artist/0UgxFqJmwkpojz4mHBsRpD"
+        }
+      ],
+      "date_added": "2026-11-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 144786,
+      "name": "BORDERLINE CLUB",
+      "url": "https://open.spotify.com/track/59cZEUlfDCz4Dn5yARrnFM"
+    },
+    {
+      "album": {
         "name": "Bouche \u00e0 bouche / Paradise",
         "url": "https://open.spotify.com/album/6bFxGgf0zgRPiX4slKfEyy"
       },
@@ -1498,7 +1534,7 @@
       ],
       "date_added": "2026-09-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-27",
       "duration_ms": 169173,
       "name": "C'est \u00e7a que je veux",
       "url": "https://open.spotify.com/track/4ceSHKoIuiuh7T7dgv1IYP"
@@ -2922,7 +2958,7 @@
       ],
       "date_added": "2026-10-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-27",
       "duration_ms": 213400,
       "name": "D\u00c9SIR",
       "url": "https://open.spotify.com/track/4MoJaVhA04WspUheA55r3e"
@@ -3481,6 +3517,24 @@
     },
     {
       "album": {
+        "name": "Footlocker",
+        "url": "https://open.spotify.com/album/4yTCp7DJtIcO2ZF1htgunZ"
+      },
+      "artists": [
+        {
+          "name": "Zonmai",
+          "url": "https://open.spotify.com/artist/690TcJftS8JgJI5iEsYEcU"
+        }
+      ],
+      "date_added": "2026-11-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 146103,
+      "name": "Footlocker",
+      "url": "https://open.spotify.com/track/4gwH0MMjZN2k2HdjMYM522"
+    },
+    {
+      "album": {
         "name": "D\u00e9collage",
         "url": "https://open.spotify.com/album/7gmQgiup3PRcGbw97xelQH"
       },
@@ -3572,6 +3626,28 @@
       "duration_ms": 153000,
       "name": "Fucked Up",
       "url": "https://open.spotify.com/track/0IyTGXvTJ3vRDC7cS9wi9J"
+    },
+    {
+      "album": {
+        "name": "GALAXIE",
+        "url": "https://open.spotify.com/album/7xjCbT9paM6SSptoyVC3Gq"
+      },
+      "artists": [
+        {
+          "name": "William",
+          "url": "https://open.spotify.com/artist/0TTEZQOq4cNQsdL7MA1gcH"
+        },
+        {
+          "name": "Venty",
+          "url": "https://open.spotify.com/artist/0jjvwniVfA00WJZ1vNg51M"
+        }
+      ],
+      "date_added": "2026-11-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 179270,
+      "name": "GALAXIE",
+      "url": "https://open.spotify.com/track/6xWmyRfrROFY0RvS8F2BOm"
     },
     {
       "album": {
@@ -3990,6 +4066,24 @@
       "duration_ms": 184289,
       "name": "Human",
       "url": "https://open.spotify.com/track/0eud4SBuWHvNdu7FEddykC"
+    },
+    {
+      "album": {
+        "name": "hyper seule",
+        "url": "https://open.spotify.com/album/66JjdN1UVoBoX7NqH1atxS"
+      },
+      "artists": [
+        {
+          "name": "ar\u00f8ne",
+          "url": "https://open.spotify.com/artist/4azuvIO6w5uQmthX95jfL8"
+        }
+      ],
+      "date_added": "2026-11-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 127392,
+      "name": "hyper seule",
+      "url": "https://open.spotify.com/track/7DMkmR5WHIMtGaWrtJx6tU"
     },
     {
       "album": {
@@ -4578,7 +4672,7 @@
       ],
       "date_added": "2026-06-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-27",
       "duration_ms": 127242,
       "name": "je fais pleurer les hommes",
       "url": "https://open.spotify.com/track/5MPoJl0VcsotowwzLQCTyQ"
@@ -4877,6 +4971,24 @@
     },
     {
       "album": {
+        "name": "CRUSH",
+        "url": "https://open.spotify.com/album/7fG1tEw3OQO72MlpXYGg0N"
+      },
+      "artists": [
+        {
+          "name": "Adam\u00e9",
+          "url": "https://open.spotify.com/artist/0sERWA25W58jwsWqspklGe"
+        }
+      ],
+      "date_added": "2026-11-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 170000,
+      "name": "Jean Slim",
+      "url": "https://open.spotify.com/track/0dVoqYFf3UPnA0LL1Mrqeq"
+    },
+    {
+      "album": {
         "name": "JM PAS",
         "url": "https://open.spotify.com/album/2xNi0oUKUL2YZkGz1vXOsS"
       },
@@ -4892,7 +5004,7 @@
       ],
       "date_added": "2026-10-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-27",
       "duration_ms": 146575,
       "name": "JM PAS",
       "url": "https://open.spotify.com/track/59GJO8WnXSPmIzY2Ia60nG"
@@ -5304,6 +5416,24 @@
       "duration_ms": 222776,
       "name": "L'hiver sur tes l\u00e8vres",
       "url": "https://open.spotify.com/track/7JO6qzrdKcydC5rPHhbeXH"
+    },
+    {
+      "album": {
+        "name": "L'inconscience de la mer",
+        "url": "https://open.spotify.com/album/6j7cjZrdf3d3Pdx6LHcNKZ"
+      },
+      "artists": [
+        {
+          "name": "La Foudre",
+          "url": "https://open.spotify.com/artist/6BaPvVeHpgRiJPxj0OfFbg"
+        }
+      ],
+      "date_added": "2026-11-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 208000,
+      "name": "L'inconscience de la mer",
+      "url": "https://open.spotify.com/track/3OKveSrqgOY2FBz9Jff24n"
     },
     {
       "album": {
@@ -5957,6 +6087,24 @@
     },
     {
       "album": {
+        "name": "Le plus beau jour de ma vie",
+        "url": "https://open.spotify.com/album/3CRHAeHEtjNlX2lvCa1y5Z"
+      },
+      "artists": [
+        {
+          "name": "TheFrenchKris",
+          "url": "https://open.spotify.com/artist/3mMx6lCCOvQZheRBZ3CTQs"
+        }
+      ],
+      "date_added": "2026-11-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 151009,
+      "name": "Le plus beau jour de ma vie",
+      "url": "https://open.spotify.com/track/6MpbColoQk3i90UokioKUn"
+    },
+    {
+      "album": {
         "name": "Le Plus Grand Spectacle De La Terre",
         "url": "https://open.spotify.com/album/6v3AWuo8JpAn2dvkBnObzY"
       },
@@ -5990,7 +6138,7 @@
       ],
       "date_added": "2026-09-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-27",
       "duration_ms": 184165,
       "name": "le pr\u00e9sident s'en balek",
       "url": "https://open.spotify.com/track/4kC7UHxeSCEtPjY2e0NQ9T"
@@ -8364,7 +8512,7 @@
       ],
       "date_added": "2026-10-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-27",
       "duration_ms": 152024,
       "name": "Photos au mur",
       "url": "https://open.spotify.com/track/3hGwCNRgA8BkV0TzbVGwi7"
@@ -8736,7 +8884,7 @@
       ],
       "date_added": "2026-10-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-27",
       "duration_ms": 207364,
       "name": "Pop Song",
       "url": "https://open.spotify.com/track/7qBHFgVyYJl3bARSplq4Hl"
@@ -11168,7 +11316,7 @@
       ],
       "date_added": "2026-10-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-27",
       "duration_ms": 137627,
       "name": "tumemanques",
       "url": "https://open.spotify.com/track/2TKG9TzdOSGjSMwtFN1VR5"
@@ -11569,6 +11717,24 @@
     },
     {
       "album": {
+        "name": "Bonsoir Stanislas",
+        "url": "https://open.spotify.com/album/5ZVYJHqZAfUgJnYP7WytWp"
+      },
+      "artists": [
+        {
+          "name": "Stanislas",
+          "url": "https://open.spotify.com/artist/2mMDZnQTQpFY2pfahHvXK1"
+        }
+      ],
+      "date_added": "2026-11-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 144600,
+      "name": "Week-end",
+      "url": "https://open.spotify.com/track/6md5uckie7JrAhfDl4tunU"
+    },
+    {
+      "album": {
         "name": "Winter Days \u51ac\u306e\u65e5\u3005 (feat. Salasa)",
         "url": "https://open.spotify.com/album/4P1S3gomsgdZjScXrhLKWA"
       },
@@ -11840,7 +12006,7 @@
       ],
       "date_added": "2026-10-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-27",
       "duration_ms": 165106,
       "name": "\u00c0 quoi je sers \u00e0 part faire des classiques",
       "url": "https://open.spotify.com/track/3VQyhP9XFRrwLp7pRu3cX1"

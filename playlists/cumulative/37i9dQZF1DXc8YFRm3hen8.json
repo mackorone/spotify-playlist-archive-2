@@ -52,7 +52,7 @@
       ],
       "date_added": "2026-09-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-27",
       "duration_ms": 225109,
       "name": "(te advert\u00ed que no me dejaras pisar) las flores",
       "url": "https://open.spotify.com/track/3fvqXC7IXSI1TJ8oVv4iDk"
@@ -614,7 +614,7 @@
       ],
       "date_added": "2026-10-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-27",
       "duration_ms": 179539,
       "name": "Animales",
       "url": "https://open.spotify.com/track/0sGGeULtIdZB1rXxSVFrT1"
@@ -950,7 +950,7 @@
       ],
       "date_added": "2026-10-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-27",
       "duration_ms": 209359,
       "name": "Cada Cosa En Su Lugar",
       "url": "https://open.spotify.com/track/7nU3xdFO1HpbPM3HPF3g0r"
@@ -1004,7 +1004,7 @@
       ],
       "date_added": "2026-10-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-27",
       "duration_ms": 202728,
       "name": "Caleidoscopio Infinito",
       "url": "https://open.spotify.com/track/3xztJDLInxQDPw7T0xrP00"
@@ -1178,7 +1178,7 @@
       ],
       "date_added": "2022-06-29",
       "date_added_asterisk": false,
-      "date_removed": "2026-10-09",
+      "date_removed": null,
       "duration_ms": 320656,
       "name": "Chau",
       "url": "https://open.spotify.com/track/7EWbEYuEDzr55hHtJZtonj"
@@ -1196,7 +1196,7 @@
       ],
       "date_added": "2023-12-15",
       "date_added_asterisk": false,
-      "date_removed": "2026-10-09",
+      "date_removed": null,
       "duration_ms": 243626,
       "name": "Cheques",
       "url": "https://open.spotify.com/track/4sLeBVI7jCaDUd0WcxCWbg"
@@ -2488,7 +2488,7 @@
       ],
       "date_added": "2026-10-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-27",
       "duration_ms": 330364,
       "name": "El Suelo",
       "url": "https://open.spotify.com/track/0SdBcUlA7Xg8QDPSNCBtEy"
@@ -3111,6 +3111,24 @@
     },
     {
       "album": {
+        "name": "Falsificador",
+        "url": "https://open.spotify.com/album/46o7iYBP9VIDZrQTSqasUf"
+      },
+      "artists": [
+        {
+          "name": "El Zar",
+          "url": "https://open.spotify.com/artist/1cj1ov4uZ0Htsx9PWDpNvi"
+        }
+      ],
+      "date_added": "2026-11-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 195648,
+      "name": "Falsificador",
+      "url": "https://open.spotify.com/track/6QWelypPWsWgJtjnEr4xsd"
+    },
+    {
+      "album": {
         "name": "Fango",
         "url": "https://open.spotify.com/album/3Y5uIFvMnozIUvF0soxaM5"
       },
@@ -3252,7 +3270,7 @@
       ],
       "date_added": "2026-10-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-27",
       "duration_ms": 254895,
       "name": "Fractales",
       "url": "https://open.spotify.com/track/2eUp9yqOIYoGtCWKXohLyi"
@@ -3314,7 +3332,7 @@
       ],
       "date_added": "2026-07-24",
       "date_added_asterisk": false,
-      "date_removed": "2026-08-22",
+      "date_removed": null,
       "duration_ms": 207490,
       "name": "Fuego contra fuego",
       "url": "https://open.spotify.com/track/4LKB2awZYcnCgvZwF1MICH"
@@ -3426,7 +3444,7 @@
       ],
       "date_added": "2026-10-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-27",
       "duration_ms": 292457,
       "name": "GUAU",
       "url": "https://open.spotify.com/track/0CaWOjAFf0phIuaonhudgf"
@@ -3594,7 +3612,7 @@
       ],
       "date_added": "2026-05-29",
       "date_added_asterisk": false,
-      "date_removed": "2026-09-05",
+      "date_removed": null,
       "duration_ms": 183506,
       "name": "Haditas",
       "url": "https://open.spotify.com/track/6Rqc7r9cZ7IG8c8xvPyQvK"
@@ -4012,7 +4030,7 @@
       ],
       "date_added": "2026-10-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-27",
       "duration_ms": 125053,
       "name": "LA DAGA",
       "url": "https://open.spotify.com/track/2wuZsFEse1YneP4tv76Fem"
@@ -4048,7 +4066,7 @@
       ],
       "date_added": "2026-10-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-27",
       "duration_ms": 199750,
       "name": "La Felicidad no es una Pastilla Rosa",
       "url": "https://open.spotify.com/track/0s8m63thmLDfNIfCa8Qqaf"
@@ -4642,7 +4660,7 @@
       ],
       "date_added": "2026-10-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-27",
       "duration_ms": 234462,
       "name": "Las Ruinas de tu Imperio \u00b7III\u00b7 La Emperatriz Invertida",
       "url": "https://open.spotify.com/track/4Yi6Je53CHUvOCeixjxKc8"
@@ -5934,7 +5952,7 @@
       ],
       "date_added": "2022-06-29",
       "date_added_asterisk": false,
-      "date_removed": "2026-09-11",
+      "date_removed": null,
       "duration_ms": 178800,
       "name": "Nada Es Igual",
       "url": "https://open.spotify.com/track/3YLIsu2NZxqfEPj4ADA7WX"
@@ -6502,7 +6520,7 @@
       ],
       "date_added": "2024-11-07",
       "date_added_asterisk": false,
-      "date_removed": "2026-10-16",
+      "date_removed": null,
       "duration_ms": 240703,
       "name": "Pasos Al Costado",
       "url": "https://open.spotify.com/track/2CHRH34SWRjo1hvvbnpDww"
@@ -6720,7 +6738,7 @@
       ],
       "date_added": "2026-10-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-27",
       "duration_ms": 178372,
       "name": "Plano secuencia",
       "url": "https://open.spotify.com/track/3KioYhBHA5H3dJ4RdNB8pu"
@@ -6774,7 +6792,7 @@
       ],
       "date_added": "2024-04-05",
       "date_added_asterisk": false,
-      "date_removed": "2026-09-11",
+      "date_removed": null,
       "duration_ms": 226226,
       "name": "Post-Crucifixion",
       "url": "https://open.spotify.com/track/2ri0lTjVeBkWAmRVkJoHXL"
@@ -7052,7 +7070,7 @@
       ],
       "date_added": "2026-10-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-27",
       "duration_ms": 234500,
       "name": "QUEMA",
       "url": "https://open.spotify.com/track/7CfcA6vcLPa0hIcQHW3CnQ"
@@ -7182,7 +7200,7 @@
       ],
       "date_added": "2026-10-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-27",
       "duration_ms": 208470,
       "name": "Revoluci\u00f3n Clich\u00e9",
       "url": "https://open.spotify.com/track/4D7ku0eUqjjKjKmqBEb7ZY"
@@ -7432,7 +7450,7 @@
       ],
       "date_added": "2022-07-19",
       "date_added_asterisk": false,
-      "date_removed": "2026-10-09",
+      "date_removed": null,
       "duration_ms": 237636,
       "name": "Se Me Hizo Tarde",
       "url": "https://open.spotify.com/track/5iCQLeTVLauWAM3N0shr4P"
@@ -7516,6 +7534,24 @@
       "duration_ms": 181826,
       "name": "Ser\u00e1",
       "url": "https://open.spotify.com/track/60IzIxSuVAtU71yCmHjxHH"
+    },
+    {
+      "album": {
+        "name": "Ser\u00e1 mejor",
+        "url": "https://open.spotify.com/album/7mAU339tWkDX9G6j0DcRf0"
+      },
+      "artists": [
+        {
+          "name": "Indios",
+          "url": "https://open.spotify.com/artist/49ynGmq4dpplOn1Rsiejfp"
+        }
+      ],
+      "date_added": "2026-11-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 236240,
+      "name": "Ser\u00e1 mejor",
+      "url": "https://open.spotify.com/track/3ii1yByF0OjwTx7JZAm6uN"
     },
     {
       "album": {
@@ -7678,7 +7714,7 @@
       ],
       "date_added": "2026-08-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-27",
       "duration_ms": 212391,
       "name": "Solo Ellos Dos",
       "url": "https://open.spotify.com/track/7zYEOW5CBzixYzNGiJunE5"
@@ -8310,7 +8346,7 @@
       ],
       "date_added": "2026-09-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-27",
       "duration_ms": 211753,
       "name": "Todo Lo Que Vivimos",
       "url": "https://open.spotify.com/track/6biNr2utpGhugZsSApcldB"
@@ -8488,7 +8524,7 @@
       ],
       "date_added": "2024-04-05",
       "date_added_asterisk": false,
-      "date_removed": "2026-10-09",
+      "date_removed": null,
       "duration_ms": 283466,
       "name": "Tr\u00e1eme la Noche (Bring on the Night) (with Andy Summers)",
       "url": "https://open.spotify.com/track/0wMditvMpFP9aYzW3kDWnw"
@@ -8586,7 +8622,7 @@
       ],
       "date_added": "2022-06-29",
       "date_added_asterisk": false,
-      "date_removed": "2026-09-25",
+      "date_removed": null,
       "duration_ms": 211992,
       "name": "Tu Encanto",
       "url": "https://open.spotify.com/track/0zRCH3vyASd7BEQ6bFdbol"
@@ -8630,7 +8666,7 @@
       ],
       "date_added": "2022-06-29",
       "date_added_asterisk": false,
-      "date_removed": "2026-10-03",
+      "date_removed": null,
       "duration_ms": 252867,
       "name": "Tu Vida Mi Vida",
       "url": "https://open.spotify.com/track/3UA8Vjo0hQXGJnoeQF1SOL"
@@ -8692,7 +8728,7 @@
       ],
       "date_added": "2022-07-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-27",
       "duration_ms": 240218,
       "name": "T\u00fanel de la Vida",
       "url": "https://open.spotify.com/track/4bnGyB5G0Kau4rQB4Vnz0x"
@@ -9068,7 +9104,7 @@
       ],
       "date_added": "2026-01-12",
       "date_added_asterisk": false,
-      "date_removed": "2026-08-28",
+      "date_removed": null,
       "duration_ms": 243570,
       "name": "Una Vida M\u00e1s",
       "url": "https://open.spotify.com/track/3DrUefe54Lh14hPrhA4W4Y"
@@ -9335,6 +9371,24 @@
     },
     {
       "album": {
+        "name": "Revoluci\u00f3n Francesa",
+        "url": "https://open.spotify.com/album/6S7kdy0sjMH5E5XvpIAAGh"
+      },
+      "artists": [
+        {
+          "name": "Francia 98",
+          "url": "https://open.spotify.com/artist/6me7j5R08ARYKASHiqhvcu"
+        }
+      ],
+      "date_added": "2026-11-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 160929,
+      "name": "Vuelta al Ruedo",
+      "url": "https://open.spotify.com/track/4xehiPl6pnNfkiQRgsff2k"
+    },
+    {
+      "album": {
         "name": "LA FUERZA",
         "url": "https://open.spotify.com/album/3ynXtOWXUAZTyjJ1QwxXVC"
       },
@@ -9382,7 +9436,7 @@
       ],
       "date_added": "2023-12-15",
       "date_added_asterisk": false,
-      "date_removed": "2026-10-03",
+      "date_removed": null,
       "duration_ms": 223532,
       "name": "Ya No Mires Atr\u00e1s",
       "url": "https://open.spotify.com/track/535rcofAUexzCqS9xHkVkv"

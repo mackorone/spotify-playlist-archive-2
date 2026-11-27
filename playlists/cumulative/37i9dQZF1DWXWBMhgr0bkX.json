@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2024-07-02",
-  "description": "New pop releases from the UK & Ireland \ud83c\udf1f cover: FLO",
+  "description": "New pop releases from the UK & Ireland \ud83c\udf1f cover: Dua Lipa",
   "name": "New Pop UK",
   "tracks": [
     {
@@ -2020,7 +2020,7 @@
       ],
       "date_added": "2026-09-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-27",
       "duration_ms": 170400,
       "name": "bad taste",
       "url": "https://open.spotify.com/track/3TDVbddsKv0TrYdnLdrZZs"
@@ -5900,7 +5900,7 @@
       ],
       "date_added": "2026-09-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-27",
       "duration_ms": 243202,
       "name": "Daydreaming",
       "url": "https://open.spotify.com/track/4OqGAjIXTwVt7pxTekpuuf"
@@ -8278,7 +8278,7 @@
       ],
       "date_added": "2026-09-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-27",
       "duration_ms": 122916,
       "name": "Fantasy",
       "url": "https://open.spotify.com/track/2HhoZOgFf80u5wqErSXBil"
@@ -13881,6 +13881,24 @@
     },
     {
       "album": {
+        "name": "Kiss",
+        "url": "https://open.spotify.com/album/5BN5T28NkHLfphidpDAs1J"
+      },
+      "artists": [
+        {
+          "name": "James Marriott",
+          "url": "https://open.spotify.com/artist/14apS9tKI3K30GK92BNQUL"
+        }
+      ],
+      "date_added": "2026-11-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 174933,
+      "name": "Kiss",
+      "url": "https://open.spotify.com/track/5IXDw51dhPNfVxhmysyXXZ"
+    },
+    {
+      "album": {
         "name": "KISS KISS KISS",
         "url": "https://open.spotify.com/album/3fHbzgXcFTmapUwxklKbty"
       },
@@ -14026,6 +14044,24 @@
       "duration_ms": 123093,
       "name": "Knight Shift",
       "url": "https://open.spotify.com/track/04OgZGLuxPzwuobqduZYVe"
+    },
+    {
+      "album": {
+        "name": "Knives",
+        "url": "https://open.spotify.com/album/38WzxbUAmrFgBFieXoF1Av"
+      },
+      "artists": [
+        {
+          "name": "James Vincent McMorrow",
+          "url": "https://open.spotify.com/artist/7FDlvgcodNfC0IBdWevl4u"
+        }
+      ],
+      "date_added": "2026-11-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 238518,
+      "name": "Knives",
+      "url": "https://open.spotify.com/track/30WXK60kj1hEgnWwgXKoiY"
     },
     {
       "album": {
@@ -21464,6 +21500,24 @@
       "duration_ms": 170998,
       "name": "She Belongs To Me",
       "url": "https://open.spotify.com/track/6bu0R7UPZyibLGCoeOs1tH"
+    },
+    {
+      "album": {
+        "name": "Birth (Stripped Back)",
+        "url": "https://open.spotify.com/album/1BnGXCi4LiLsXS1QqdJust"
+      },
+      "artists": [
+        {
+          "name": "Sophie Saint",
+          "url": "https://open.spotify.com/artist/5CRJ8xa1BJNgONmWsL8tva"
+        }
+      ],
+      "date_added": "2026-11-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 203104,
+      "name": "She Belongs To Me - Live in Hackney, Oct 16, 2026",
+      "url": "https://open.spotify.com/track/6DOKrXD8Ze6BRbAN7Prql8"
     },
     {
       "album": {

@@ -9,7 +9,107 @@
   "snapshot_id": "AAAAAJ6f1oi0fpvDG8ytpDq+npBe9LFO",
   "tracks": [
     {
-      "added_at": "2026-11-20 05:00:00",
+      "added_at": "2026-11-27 05:00:00",
+      "album": {
+        "name": "OUT OF MY MIND",
+        "url": "https://open.spotify.com/album/2AGYicRLaEgTE3eoe8CztA"
+      },
+      "artists": [
+        {
+          "name": "Kanye West",
+          "url": "https://open.spotify.com/artist/5K4W6rqBFWDnAN6FQUkS6x"
+        },
+        {
+          "name": "Ye",
+          "url": "https://open.spotify.com/artist/3NlsBPwqJuDgtXZ2rv5Dmq"
+        }
+      ],
+      "duration_ms": 106957,
+      "name": "OUT OF MY MIND",
+      "url": "https://open.spotify.com/track/4MXFcXnEb4JzG6h4vpiUWB"
+    },
+    {
+      "added_at": "2026-11-27 05:00:00",
+      "album": {
+        "name": "The Devil's Tax Return: Volume 1",
+        "url": "https://open.spotify.com/album/6tIb2oFOQS6uimJAfx1n9m"
+      },
+      "artists": [
+        {
+          "name": "Galantis",
+          "url": "https://open.spotify.com/artist/4sTQVOfp9vEMCemLw50sbu"
+        }
+      ],
+      "duration_ms": 223280,
+      "name": "Sprawl II (Mountains Beyond Mountains)",
+      "url": "https://open.spotify.com/track/1JfsSohgD4mhLufNhjKuKE"
+    },
+    {
+      "added_at": "2026-11-27 05:00:00",
+      "album": {
+        "name": "Foreign Tongues, Loose Lips",
+        "url": "https://open.spotify.com/album/1OjG4rVJguph3dmrpLZ5M3"
+      },
+      "artists": [
+        {
+          "name": "The Rolling Stones",
+          "url": "https://open.spotify.com/artist/22bE4uQ6baNwSHPVcDxLCe"
+        }
+      ],
+      "duration_ms": 288388,
+      "name": "Where There's A Will",
+      "url": "https://open.spotify.com/track/2wiqk6v8eR8P0bTNTprgvY"
+    },
+    {
+      "added_at": "2026-11-27 05:00:00",
+      "album": {
+        "name": "Defected presents Most Rated 2027 (DJ Mix)",
+        "url": "https://open.spotify.com/album/1u3uiaD24g0RSKsU7NMYaf"
+      },
+      "artists": [
+        {
+          "name": "Moby",
+          "url": "https://open.spotify.com/artist/3OsRAKCvk37zwYcnzRf5XF"
+        },
+        {
+          "name": "Jacob Lusk",
+          "url": "https://open.spotify.com/artist/6dm2qCTCfqv1fqrow7UOcj"
+        },
+        {
+          "name": "BLOND:ISH",
+          "url": "https://open.spotify.com/artist/6zsJjoCtL1WByG0VsuFWzR"
+        },
+        {
+          "name": "Kiko Franco",
+          "url": "https://open.spotify.com/artist/3SNKZ8uTQoSyMsUNqNBOD2"
+        }
+      ],
+      "duration_ms": 274349,
+      "name": "Natural Blues (TECIE) - Mixed",
+      "url": "https://open.spotify.com/track/3zhkbrQWDOUScti09YWsqb"
+    },
+    {
+      "added_at": "2026-11-27 05:00:00",
+      "album": {
+        "name": "BORN TO WIN",
+        "url": "https://open.spotify.com/album/35DQzpngmAbr0muFuTawSE"
+      },
+      "artists": [
+        {
+          "name": "FLVR",
+          "url": "https://open.spotify.com/artist/0leKSEjHxsp5fYvQB67kEH"
+        },
+        {
+          "name": "Method Man",
+          "url": "https://open.spotify.com/artist/4VmEWwd8y9MCLwexFMdpwt"
+        }
+      ],
+      "duration_ms": 120424,
+      "name": "Boom & Shot",
+      "url": "https://open.spotify.com/track/5YwiMywjGzdRbjqaLRnDZZ"
+    },
+    {
+      "added_at": "2026-11-27 05:00:00",
       "album": {
         "name": "Electric Future Gangster",
         "url": "https://open.spotify.com/album/1TQAwsDbmpDimK8nMyxZU7"
@@ -33,7 +133,71 @@
       "url": "https://open.spotify.com/track/4hqYSmz7ZNXPJwhiNDV3hb"
     },
     {
-      "added_at": "2026-11-20 05:00:00",
+      "added_at": "2026-11-27 05:00:00",
+      "album": {
+        "name": "Seidh",
+        "url": "https://open.spotify.com/album/6A1eYYVopPe3y3NShpQGGU"
+      },
+      "artists": [
+        {
+          "name": "Heilung",
+          "url": "https://open.spotify.com/artist/7sTKZr30LqC928DZ5P9mNQ"
+        }
+      ],
+      "duration_ms": 305719,
+      "name": "Seidh",
+      "url": "https://open.spotify.com/track/1thXUA4u2yyIDgdNjcsQSe"
+    },
+    {
+      "added_at": "2026-11-27 05:00:00",
+      "album": {
+        "name": "Infinite EP",
+        "url": "https://open.spotify.com/album/5N8jnN7moaKottlIO3xmLZ"
+      },
+      "artists": [
+        {
+          "name": "Eminem",
+          "url": "https://open.spotify.com/artist/7dGJo4pcD2V6oG8kP0tJRR"
+        }
+      ],
+      "duration_ms": 251707,
+      "name": "Infinite",
+      "url": "https://open.spotify.com/track/4gmfWIk4cyu7jGHLUVoryg"
+    },
+    {
+      "added_at": "2026-11-27 05:00:00",
+      "album": {
+        "name": "Sheep (Original Radio Edit)",
+        "url": "https://open.spotify.com/album/2K835MGTE0IaJv6d0SGV0D"
+      },
+      "artists": [
+        {
+          "name": "Pink Floyd",
+          "url": "https://open.spotify.com/artist/0k17h0D3J5VfsdmQ1iZtE9"
+        }
+      ],
+      "duration_ms": 263293,
+      "name": "Sheep - Original Radio Edit",
+      "url": "https://open.spotify.com/track/6eC8MIqBDErjqTYq0ZoX74"
+    },
+    {
+      "added_at": "2026-11-27 05:00:00",
+      "album": {
+        "name": "Take Me Back (Leave Me There) [Special Edition]",
+        "url": "https://open.spotify.com/album/3fgMUdelypSkAQgBhk988F"
+      },
+      "artists": [
+        {
+          "name": "Cody Johnson",
+          "url": "https://open.spotify.com/artist/6zLBxLdl60ekBLpawtT63I"
+        }
+      ],
+      "duration_ms": 165200,
+      "name": "Take Me Back (Leave Me There) - Special Edition",
+      "url": "https://open.spotify.com/track/0aYAbSFPmLTyCwOk8dA5rv"
+    },
+    {
+      "added_at": "2026-11-27 05:00:00",
       "album": {
         "name": "Delores",
         "url": "https://open.spotify.com/album/1RqLF5AGkaj1Env1XFJ4cS"
@@ -73,215 +237,23 @@
       "url": "https://open.spotify.com/track/569ezKa7YP6G0N1sqArYre"
     },
     {
-      "added_at": "2026-11-20 05:00:00",
+      "added_at": "2026-11-27 05:00:00",
       "album": {
-        "name": "Thank God It's Christmas... Again!",
-        "url": "https://open.spotify.com/album/5uVEnSIzW6j6u4BOgRQcLs"
+        "name": "Covers Only, Vol. 2",
+        "url": "https://open.spotify.com/album/5Szf71kDHknomrPw3ehvU0"
       },
       "artists": [
         {
-          "name": "Queen",
-          "url": "https://open.spotify.com/artist/1dfeR4HaWDbWqFHLkxsg1d"
+          "name": "Our Last Night",
+          "url": "https://open.spotify.com/artist/00YTqRClk82aMchQQpYMd5"
         }
       ],
-      "duration_ms": 248193,
-      "name": "Thank God It's Christmas... Again! - Radio Edit",
-      "url": "https://open.spotify.com/track/5AFPpQ03x63NKgIcFuE95r"
+      "duration_ms": 222219,
+      "name": "Mr. Brightside",
+      "url": "https://open.spotify.com/track/0YU9XmRMEyLoU51stMLFkj"
     },
     {
-      "added_at": "2026-11-20 05:00:00",
-      "album": {
-        "name": "RITUAL",
-        "url": "https://open.spotify.com/album/5Qz8m8EPJPX4DFGEW9h7qb"
-      },
-      "artists": [
-        {
-          "name": "Viktor Orri \u00c1rnason",
-          "url": "https://open.spotify.com/artist/18Z4spLSvLLjg7hnCS5De1"
-        },
-        {
-          "name": "Yo-Yo Ma",
-          "url": "https://open.spotify.com/artist/5Dl3HXZjG6ZOWT5cV375lk"
-        },
-        {
-          "name": "Iceland Symphony Orchestra",
-          "url": "https://open.spotify.com/artist/3RPu1pwXXrPqamAp6OHZ8b"
-        }
-      ],
-      "duration_ms": 306631,
-      "name": "\u00c1r var alda | Dawn of Time",
-      "url": "https://open.spotify.com/track/72RW4SKS9thBgbDaYJGbgD"
-    },
-    {
-      "added_at": "2026-11-20 05:00:00",
-      "album": {
-        "name": "Largate (feat. Kali Uchis) [from GTAVI: The Album]",
-        "url": "https://open.spotify.com/album/46LfRDqggSxvpuy7B6zubw"
-      },
-      "artists": [
-        {
-          "name": "Helado Negro",
-          "url": "https://open.spotify.com/artist/69qhRLDvsWJOhWGXXQ0lQQ"
-        },
-        {
-          "name": "Grand Theft Auto VI",
-          "url": "https://open.spotify.com/artist/15o7qdDTBzs6xWRUYUtZc1"
-        },
-        {
-          "name": "Kali Uchis",
-          "url": "https://open.spotify.com/artist/1U1el3k54VvEUzo3ybLPlM"
-        }
-      ],
-      "duration_ms": 200571,
-      "name": "Largate (feat. Kali Uchis) [from GTAVI: The Album]",
-      "url": "https://open.spotify.com/track/5LdULCCoGY0ltOl8GIGR80"
-    },
-    {
-      "added_at": "2026-11-20 05:00:00",
-      "album": {
-        "name": "So Amazin'",
-        "url": "https://open.spotify.com/album/2c4JdIENhzMknQp8xipToc"
-      },
-      "artists": [
-        {
-          "name": "FLVR",
-          "url": "https://open.spotify.com/artist/0leKSEjHxsp5fYvQB67kEH"
-        },
-        {
-          "name": "Method Man",
-          "url": "https://open.spotify.com/artist/4VmEWwd8y9MCLwexFMdpwt"
-        }
-      ],
-      "duration_ms": 120424,
-      "name": "Lions In The Zoo Pt. I",
-      "url": "https://open.spotify.com/track/6H8u0zy4dTRnTI3QNe2N5U"
-    },
-    {
-      "added_at": "2026-11-20 05:00:00",
-      "album": {
-        "name": "Midnight Jazz Confidential",
-        "url": "https://open.spotify.com/album/3NOMAgrPi3dGQ5mx44DE1X"
-      },
-      "artists": [
-        {
-          "name": "Piero Umiliani",
-          "url": "https://open.spotify.com/artist/5sD7Cf3SaTVcrg81GQi1Xk"
-        },
-        {
-          "name": "Chet Baker",
-          "url": "https://open.spotify.com/artist/3rxeQlsv0Sc2nyYaZ5W71T"
-        }
-      ],
-      "duration_ms": 293760,
-      "name": "Alone In A Crowd - Remastered 2021",
-      "url": "https://open.spotify.com/track/3EvP0TJmgGWrn10OUmUOM1"
-    },
-    {
-      "added_at": "2026-11-20 05:00:00",
-      "album": {
-        "name": "Grand Theft Auto VI: The Album",
-        "url": "https://open.spotify.com/album/5BYKG4MHfySZthe2W6r7n4"
-      },
-      "artists": [
-        {
-          "name": "Camila Cabello",
-          "url": "https://open.spotify.com/artist/4nDoRrQiYLoBzwC5BhVJzF"
-        }
-      ],
-      "duration_ms": 184875,
-      "name": "Sweet Like Candy",
-      "url": "https://open.spotify.com/track/1QusS0DZ2KK8ukxsAoFZPK"
-    },
-    {
-      "added_at": "2026-11-20 05:00:00",
-      "album": {
-        "name": "WELCOME (feat. Eminem)",
-        "url": "https://open.spotify.com/album/0SIpXn5R4mqILiDJjWpbQd"
-      },
-      "artists": [
-        {
-          "name": "IDK",
-          "url": "https://open.spotify.com/artist/6aiFCgyKNwF9Rv5TOxnE8E"
-        },
-        {
-          "name": "Eminem",
-          "url": "https://open.spotify.com/artist/7dGJo4pcD2V6oG8kP0tJRR"
-        },
-        {
-          "name": "J Dilla",
-          "url": "https://open.spotify.com/artist/0IVcLMMbm05VIjnzPkGCyp"
-        }
-      ],
-      "duration_ms": 162412,
-      "name": "WELCOME (feat. Eminem)",
-      "url": "https://open.spotify.com/track/5xYS6MQKWWdMYg63hrwIiM"
-    },
-    {
-      "added_at": "2026-11-20 05:00:00",
-      "album": {
-        "name": "Seidh",
-        "url": "https://open.spotify.com/album/6A1eYYVopPe3y3NShpQGGU"
-      },
-      "artists": [
-        {
-          "name": "Heilung",
-          "url": "https://open.spotify.com/artist/7sTKZr30LqC928DZ5P9mNQ"
-        }
-      ],
-      "duration_ms": 305719,
-      "name": "Seidh",
-      "url": "https://open.spotify.com/track/1thXUA4u2yyIDgdNjcsQSe"
-    },
-    {
-      "added_at": "2026-11-20 05:00:00",
-      "album": {
-        "name": "Horseback (Special Edition)",
-        "url": "https://open.spotify.com/album/1gl4D55viqfJyaVvjFqQIH"
-      },
-      "artists": [
-        {
-          "name": "Cody Johnson",
-          "url": "https://open.spotify.com/artist/6zLBxLdl60ekBLpawtT63I"
-        }
-      ],
-      "duration_ms": 167373,
-      "name": "Horseback - Special Edition",
-      "url": "https://open.spotify.com/track/039aUqmDUgUVnKkxRzLLAb"
-    },
-    {
-      "added_at": "2026-11-20 05:00:00",
-      "album": {
-        "name": "Sheep (Original Radio Edit)",
-        "url": "https://open.spotify.com/album/2K835MGTE0IaJv6d0SGV0D"
-      },
-      "artists": [
-        {
-          "name": "Pink Floyd",
-          "url": "https://open.spotify.com/artist/0k17h0D3J5VfsdmQ1iZtE9"
-        }
-      ],
-      "duration_ms": 263293,
-      "name": "Sheep - Original Radio Edit",
-      "url": "https://open.spotify.com/track/6eC8MIqBDErjqTYq0ZoX74"
-    },
-    {
-      "added_at": "2026-11-20 05:00:00",
-      "album": {
-        "name": "Bass X Machina (Soundtrack from the Netflix Series)",
-        "url": "https://open.spotify.com/album/5TYPpGgTI1V9xNK1YX8ubU"
-      },
-      "artists": [
-        {
-          "name": "Janelle Mon\u00e1e",
-          "url": "https://open.spotify.com/artist/6ueGR6SWhUJfvEhqkvMsVs"
-        }
-      ],
-      "duration_ms": 150037,
-      "name": "HONOR KiLLING (Main Titles)",
-      "url": "https://open.spotify.com/track/4LWAK40UqU7QxiQKNRN480"
-    },
-    {
-      "added_at": "2026-11-20 05:00:00",
+      "added_at": "2026-11-27 05:00:00",
       "album": {
         "name": "Black Samson: The Saga Continues",
         "url": "https://open.spotify.com/album/07yS4BsrVFX4fwmH5XeYwp"
@@ -313,23 +285,55 @@
       "url": "https://open.spotify.com/track/1gLCXfNCSYOCHkfxxBMlpX"
     },
     {
-      "added_at": "2026-11-20 05:00:00",
+      "added_at": "2026-11-27 05:00:00",
       "album": {
-        "name": "Covers Only, Vol. 2",
-        "url": "https://open.spotify.com/album/5Szf71kDHknomrPw3ehvU0"
+        "name": "Bass X Machina (Soundtrack from the Netflix Series)",
+        "url": "https://open.spotify.com/album/5TYPpGgTI1V9xNK1YX8ubU"
       },
       "artists": [
         {
-          "name": "Our Last Night",
-          "url": "https://open.spotify.com/artist/00YTqRClk82aMchQQpYMd5"
+          "name": "Janelle Mon\u00e1e",
+          "url": "https://open.spotify.com/artist/6ueGR6SWhUJfvEhqkvMsVs"
         }
       ],
-      "duration_ms": 222219,
-      "name": "Mr. Brightside",
-      "url": "https://open.spotify.com/track/0YU9XmRMEyLoU51stMLFkj"
+      "duration_ms": 150037,
+      "name": "HONOR KiLLING (Main Titles)",
+      "url": "https://open.spotify.com/track/4LWAK40UqU7QxiQKNRN480"
     },
     {
-      "added_at": "2026-11-20 05:00:00",
+      "added_at": "2026-11-27 05:00:00",
+      "album": {
+        "name": "Thank God It's Christmas... Again!",
+        "url": "https://open.spotify.com/album/5uVEnSIzW6j6u4BOgRQcLs"
+      },
+      "artists": [
+        {
+          "name": "Queen",
+          "url": "https://open.spotify.com/artist/1dfeR4HaWDbWqFHLkxsg1d"
+        }
+      ],
+      "duration_ms": 248193,
+      "name": "Thank God It's Christmas... Again! - Radio Edit",
+      "url": "https://open.spotify.com/track/5AFPpQ03x63NKgIcFuE95r"
+    },
+    {
+      "added_at": "2026-11-27 05:00:00",
+      "album": {
+        "name": "petal",
+        "url": "https://open.spotify.com/album/48tSS2GzMqDhKYajqQUlcw"
+      },
+      "artists": [
+        {
+          "name": "Ariana Grande",
+          "url": "https://open.spotify.com/artist/66CXWjxzNUsdJxJ2JdwvnR"
+        }
+      ],
+      "duration_ms": 205845,
+      "name": "petal - angry live version",
+      "url": "https://open.spotify.com/track/2u9Fh3hOKD4JPWyb8JvHeM"
+    },
+    {
+      "added_at": "2026-11-27 05:00:00",
       "album": {
         "name": "The Savoy Recordings (Remastered 2026)",
         "url": "https://open.spotify.com/album/3vLtVZE1RwJvgsrZoJhcwI"
@@ -361,23 +365,7 @@
       "url": "https://open.spotify.com/track/2BnpqIvwukEn3fB5wgSYap"
     },
     {
-      "added_at": "2026-11-20 05:00:00",
-      "album": {
-        "name": "petal",
-        "url": "https://open.spotify.com/album/48tSS2GzMqDhKYajqQUlcw"
-      },
-      "artists": [
-        {
-          "name": "Ariana Grande",
-          "url": "https://open.spotify.com/artist/66CXWjxzNUsdJxJ2JdwvnR"
-        }
-      ],
-      "duration_ms": 205845,
-      "name": "petal - angry live version",
-      "url": "https://open.spotify.com/track/2u9Fh3hOKD4JPWyb8JvHeM"
-    },
-    {
-      "added_at": "2026-11-20 05:00:00",
+      "added_at": "2026-11-27 05:00:00",
       "album": {
         "name": "Next Time, Believe Me",
         "url": "https://open.spotify.com/album/0G5y7kWpfY0PiAkajU6rqP"
@@ -397,7 +385,7 @@
       "url": "https://open.spotify.com/track/0RDqgzJOIyDblSzcQprisc"
     },
     {
-      "added_at": "2026-11-20 05:00:00",
+      "added_at": "2026-11-27 05:00:00",
       "album": {
         "name": "No Gas",
         "url": "https://open.spotify.com/album/5z9QdvSbQ5zZ59SFaM0Vbr"
@@ -417,7 +405,23 @@
       "url": "https://open.spotify.com/track/64OHtiwZoSclo8HoHr50R7"
     },
     {
-      "added_at": "2026-11-20 05:00:00",
+      "added_at": "2026-11-27 05:00:00",
+      "album": {
+        "name": "Neverending Nightmare",
+        "url": "https://open.spotify.com/album/3G30HSCIaI6jUyQNPz9sjv"
+      },
+      "artists": [
+        {
+          "name": "DragonForce",
+          "url": "https://open.spotify.com/artist/2pH3wEn4eYlMMIIQyKPbVR"
+        }
+      ],
+      "duration_ms": 385256,
+      "name": "Neverending Nightmare",
+      "url": "https://open.spotify.com/track/4zQ65N7npjTLmpNvwbjWAQ"
+    },
+    {
+      "added_at": "2026-11-27 05:00:00",
       "album": {
         "name": "Trying To Get There (From \"Snoopy Presents: 12 Days of Snoopy\")",
         "url": "https://open.spotify.com/album/1AeRGvMigVa43GsZmt09Du"
@@ -441,7 +445,7 @@
       "url": "https://open.spotify.com/track/3SgiN73hnVnb9KSs4Z4iL2"
     },
     {
-      "added_at": "2026-11-20 05:00:00",
+      "added_at": "2026-11-27 05:00:00",
       "album": {
         "name": "Situation (feat. Big Sean, Erykah Badu, & Aasher Saintt)",
         "url": "https://open.spotify.com/album/4SlPNDEOnbbfPxq72hvwMt"
@@ -469,23 +473,47 @@
       "url": "https://open.spotify.com/track/54AVUcddMaglxfEuXcYoXa"
     },
     {
-      "added_at": "2026-11-20 05:00:00",
+      "added_at": "2026-11-27 05:00:00",
       "album": {
-        "name": "Neverending Nightmare",
-        "url": "https://open.spotify.com/album/3G30HSCIaI6jUyQNPz9sjv"
+        "name": "The Mosquito Bowl (Soundtrack from the Netflix Film)",
+        "url": "https://open.spotify.com/album/68gPKzIyOsrMRvHRpxxuka"
       },
       "artists": [
         {
-          "name": "DragonForce",
-          "url": "https://open.spotify.com/artist/2pH3wEn4eYlMMIIQyKPbVR"
+          "name": "Explosions In The Sky",
+          "url": "https://open.spotify.com/artist/1uQWmt1OhuHGRKmZ2ZcL6p"
         }
       ],
-      "duration_ms": 385256,
-      "name": "Neverending Nightmare",
-      "url": "https://open.spotify.com/track/4zQ65N7npjTLmpNvwbjWAQ"
+      "duration_ms": 315824,
+      "name": "Returns",
+      "url": "https://open.spotify.com/track/4m18efQuRfURdzjvEWN0R2"
     },
     {
-      "added_at": "2026-11-20 05:00:00",
+      "added_at": "2026-11-27 05:00:00",
+      "album": {
+        "name": "RITUAL",
+        "url": "https://open.spotify.com/album/5Qz8m8EPJPX4DFGEW9h7qb"
+      },
+      "artists": [
+        {
+          "name": "Viktor Orri \u00c1rnason",
+          "url": "https://open.spotify.com/artist/18Z4spLSvLLjg7hnCS5De1"
+        },
+        {
+          "name": "Yo-Yo Ma",
+          "url": "https://open.spotify.com/artist/5Dl3HXZjG6ZOWT5cV375lk"
+        },
+        {
+          "name": "Iceland Symphony Orchestra",
+          "url": "https://open.spotify.com/artist/3RPu1pwXXrPqamAp6OHZ8b"
+        }
+      ],
+      "duration_ms": 306631,
+      "name": "\u00c1r var alda | Dawn of Time",
+      "url": "https://open.spotify.com/track/72RW4SKS9thBgbDaYJGbgD"
+    },
+    {
+      "added_at": "2026-11-27 05:00:00",
       "album": {
         "name": "3ft From Gold",
         "url": "https://open.spotify.com/album/6AZMA1PZzpOQzkgPepymIF"
@@ -513,23 +541,31 @@
       "url": "https://open.spotify.com/track/1FUxjlcbSjwTb8AAV2VINb"
     },
     {
-      "added_at": "2026-11-20 05:00:00",
+      "added_at": "2026-11-27 05:00:00",
       "album": {
-        "name": "The Mosquito Bowl (Soundtrack from the Netflix Film)",
-        "url": "https://open.spotify.com/album/68gPKzIyOsrMRvHRpxxuka"
+        "name": "Largate (feat. Kali Uchis) [from GTAVI: The Album]",
+        "url": "https://open.spotify.com/album/46LfRDqggSxvpuy7B6zubw"
       },
       "artists": [
         {
-          "name": "Explosions In The Sky",
-          "url": "https://open.spotify.com/artist/1uQWmt1OhuHGRKmZ2ZcL6p"
+          "name": "Helado Negro",
+          "url": "https://open.spotify.com/artist/69qhRLDvsWJOhWGXXQ0lQQ"
+        },
+        {
+          "name": "Grand Theft Auto VI",
+          "url": "https://open.spotify.com/artist/15o7qdDTBzs6xWRUYUtZc1"
+        },
+        {
+          "name": "Kali Uchis",
+          "url": "https://open.spotify.com/artist/1U1el3k54VvEUzo3ybLPlM"
         }
       ],
-      "duration_ms": 315824,
-      "name": "Returns",
-      "url": "https://open.spotify.com/track/4m18efQuRfURdzjvEWN0R2"
+      "duration_ms": 200571,
+      "name": "Largate (feat. Kali Uchis) [from GTAVI: The Album]",
+      "url": "https://open.spotify.com/track/5LdULCCoGY0ltOl8GIGR80"
     },
     {
-      "added_at": "2026-11-20 05:00:00",
+      "added_at": "2026-11-27 05:00:00",
       "album": {
         "name": "Steady Flame",
         "url": "https://open.spotify.com/album/1zuCMCGmT1qCnJDOQKkQDB"
@@ -545,39 +581,7 @@
       "url": "https://open.spotify.com/track/0hYsK0skrmv8lix4CM3Kjp"
     },
     {
-      "added_at": "2026-11-20 05:00:00",
-      "album": {
-        "name": "I Want A Rocket (From \"Club Kid\")",
-        "url": "https://open.spotify.com/album/1mikitXVWnyMPveEOhkT1G"
-      },
-      "artists": [
-        {
-          "name": "Moby",
-          "url": "https://open.spotify.com/artist/3OsRAKCvk37zwYcnzRf5XF"
-        }
-      ],
-      "duration_ms": 282668,
-      "name": "I Want A Rocket - From \"Club Kid\"",
-      "url": "https://open.spotify.com/track/3kFATEng5hQUjUxlx4WJIT"
-    },
-    {
-      "added_at": "2026-11-20 05:00:00",
-      "album": {
-        "name": "Some Wings",
-        "url": "https://open.spotify.com/album/10EezPc3G2D5da6IHkxLPO"
-      },
-      "artists": [
-        {
-          "name": "The New Pornographers",
-          "url": "https://open.spotify.com/artist/4mO4aGO6u29UyR6XLZR9XW"
-        }
-      ],
-      "duration_ms": 159106,
-      "name": "Some Wings",
-      "url": "https://open.spotify.com/track/0G73gznZiHZAvUFZKA14Ep"
-    },
-    {
-      "added_at": "2026-11-20 05:00:00",
+      "added_at": "2026-11-27 05:00:00",
       "album": {
         "name": "Hell Or High Water",
         "url": "https://open.spotify.com/album/4k3syhWjhgTAoxITEmyqED"
@@ -593,7 +597,23 @@
       "url": "https://open.spotify.com/track/5NjXiw0GLZiUQ2jHsXp0XJ"
     },
     {
-      "added_at": "2026-11-20 05:00:00",
+      "added_at": "2026-11-27 05:00:00",
+      "album": {
+        "name": "Grand Theft Auto VI: The Album",
+        "url": "https://open.spotify.com/album/5BYKG4MHfySZthe2W6r7n4"
+      },
+      "artists": [
+        {
+          "name": "Camila Cabello",
+          "url": "https://open.spotify.com/artist/4nDoRrQiYLoBzwC5BhVJzF"
+        }
+      ],
+      "duration_ms": 184875,
+      "name": "Sweet Like Candy",
+      "url": "https://open.spotify.com/track/1QusS0DZ2KK8ukxsAoFZPK"
+    },
+    {
+      "added_at": "2026-11-27 05:00:00",
       "album": {
         "name": "Expensive Taste",
         "url": "https://open.spotify.com/album/4jvsbpZLM4wzJ9dpeDZeSu"
@@ -621,23 +641,23 @@
       "url": "https://open.spotify.com/track/4ar4rrNUCp7GaVCkRH6KhU"
     },
     {
-      "added_at": "2026-11-20 05:00:00",
+      "added_at": "2026-11-27 05:00:00",
       "album": {
-        "name": "Live in London",
-        "url": "https://open.spotify.com/album/6iUzScK0kAxb8XcImftCj6"
+        "name": "Some Wings",
+        "url": "https://open.spotify.com/album/10EezPc3G2D5da6IHkxLPO"
       },
       "artists": [
         {
-          "name": "Bad Company",
-          "url": "https://open.spotify.com/artist/5AEG63ajney2BoDXi0Vb84"
+          "name": "The New Pornographers",
+          "url": "https://open.spotify.com/artist/4mO4aGO6u29UyR6XLZR9XW"
         }
       ],
-      "duration_ms": 251800,
-      "name": "Trouble Shooter - Live: O2 Arena, London \u2013 October 29, 2016",
-      "url": "https://open.spotify.com/track/7B1mClEw0rgL6kzaAaxKUy"
+      "duration_ms": 159106,
+      "name": "Some Wings",
+      "url": "https://open.spotify.com/track/0G73gznZiHZAvUFZKA14Ep"
     },
     {
-      "added_at": "2026-11-20 05:00:00",
+      "added_at": "2026-11-27 05:00:00",
       "album": {
         "name": "Serial Killers, Vol. 1 (Remastered 2026)",
         "url": "https://open.spotify.com/album/6i1fDx3HIPppCUPK6CsxsZ"
@@ -665,7 +685,43 @@
       "url": "https://open.spotify.com/track/0Di3tBKeIxnyuSnzHrsaRq"
     },
     {
-      "added_at": "2026-11-20 05:00:00",
+      "added_at": "2026-11-27 05:00:00",
+      "album": {
+        "name": "Midnight Jazz Confidential",
+        "url": "https://open.spotify.com/album/3NOMAgrPi3dGQ5mx44DE1X"
+      },
+      "artists": [
+        {
+          "name": "Piero Umiliani",
+          "url": "https://open.spotify.com/artist/5sD7Cf3SaTVcrg81GQi1Xk"
+        },
+        {
+          "name": "Chet Baker",
+          "url": "https://open.spotify.com/artist/3rxeQlsv0Sc2nyYaZ5W71T"
+        }
+      ],
+      "duration_ms": 293760,
+      "name": "Alone In A Crowd - Remastered 2021",
+      "url": "https://open.spotify.com/track/3EvP0TJmgGWrn10OUmUOM1"
+    },
+    {
+      "added_at": "2026-11-27 05:00:00",
+      "album": {
+        "name": "Live in London",
+        "url": "https://open.spotify.com/album/6iUzScK0kAxb8XcImftCj6"
+      },
+      "artists": [
+        {
+          "name": "Bad Company",
+          "url": "https://open.spotify.com/artist/5AEG63ajney2BoDXi0Vb84"
+        }
+      ],
+      "duration_ms": 251800,
+      "name": "Trouble Shooter - Live: O2 Arena, London \u2013 October 29, 2016",
+      "url": "https://open.spotify.com/track/7B1mClEw0rgL6kzaAaxKUy"
+    },
+    {
+      "added_at": "2026-11-27 05:00:00",
       "album": {
         "name": "Tesra for Piano",
         "url": "https://open.spotify.com/album/5eCWDrftZDQF0izeoMmVfZ"
@@ -685,7 +741,7 @@
       "url": "https://open.spotify.com/track/3NG22KKplOm5AjObTLluIW"
     },
     {
-      "added_at": "2026-11-20 05:00:00",
+      "added_at": "2026-11-27 05:00:00",
       "album": {
         "name": "Dancing On The Wall (Deluxe Edition)",
         "url": "https://open.spotify.com/album/3EDzhFgFAjw9EucBMRkStE"
@@ -705,7 +761,7 @@
       "url": "https://open.spotify.com/track/1WYRF7RM8hsBe4edlS4Lze"
     },
     {
-      "added_at": "2026-11-20 05:00:00",
+      "added_at": "2026-11-27 05:00:00",
       "album": {
         "name": "PRESENT FOR YOU",
         "url": "https://open.spotify.com/album/799Yg7VN8Ahh6cvvc5U4On"
@@ -725,7 +781,7 @@
       "url": "https://open.spotify.com/track/40McJP3LJ6sSHKkR4g2AiV"
     },
     {
-      "added_at": "2026-11-20 05:00:00",
+      "added_at": "2026-11-27 05:00:00",
       "album": {
         "name": "T'som",
         "url": "https://open.spotify.com/album/6tzCKhzgBiXqJBc9q1B0pz"

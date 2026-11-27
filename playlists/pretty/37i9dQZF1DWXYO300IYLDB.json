@@ -1,6 +1,6 @@
 {
   "description": "\u30a2\u30b3\u30fc\u30b9\u30c6\u30a3\u30c3\u30af\u30fb\u30e1\u30ed\u30c7\u30a3\u30fc\u30ba\u3002\u3086\u3063\u305f\u308a\u3068\u3057\u305f\u30a2\u30b3\u30fc\u30b9\u30c6\u30a3\u30c3\u30af\u30b5\u30a6\u30f3\u30c9\u3067\u30ea\u30e9\u30c3\u30af\u30b9\u3057\u307e\u305b\u3093\u304b\uff1f",
-  "num_followers": 136532,
+  "num_followers": 136523,
   "original_name": "Acoustic Melodies Tokyo",
   "owner": {
     "name": "Spotify",
@@ -459,22 +459,6 @@
     {
       "added_at": "2026-03-12 15:00:29",
       "album": {
-        "name": "Time After Time",
-        "url": "https://open.spotify.com/album/5NovnTHEYZjadICACf4yPo"
-      },
-      "artists": [
-        {
-          "name": "Iron & Wine",
-          "url": "https://open.spotify.com/artist/4M5nCE77Qaxayuhp3fVn4V"
-        }
-      ],
-      "duration_ms": 170216,
-      "name": "Time After Time",
-      "url": "https://open.spotify.com/track/5JEM7lT9uSyhUsKFXwGfSm"
-    },
-    {
-      "added_at": "2026-03-12 15:00:29",
-      "album": {
         "name": "Harry's House",
         "url": "https://open.spotify.com/album/5r36AJ6VOJtp00oxSkBZ5h"
       },
@@ -487,6 +471,22 @@
       "duration_ms": 194543,
       "name": "Boyfriends",
       "url": "https://open.spotify.com/track/6qj02zSeEJGWZ4c0dn5QzJ"
+    },
+    {
+      "added_at": "2026-03-12 15:00:29",
+      "album": {
+        "name": "Time After Time",
+        "url": "https://open.spotify.com/album/5NovnTHEYZjadICACf4yPo"
+      },
+      "artists": [
+        {
+          "name": "Iron & Wine",
+          "url": "https://open.spotify.com/artist/4M5nCE77Qaxayuhp3fVn4V"
+        }
+      ],
+      "duration_ms": 170216,
+      "name": "Time After Time",
+      "url": "https://open.spotify.com/track/5JEM7lT9uSyhUsKFXwGfSm"
     },
     {
       "added_at": "2026-03-12 15:00:29",
@@ -579,22 +579,18 @@
     {
       "added_at": "2026-03-12 15:00:29",
       "album": {
-        "name": "The Joker And The Queen (feat. Taylor Swift)",
-        "url": "https://open.spotify.com/album/0vkAczpFKCazPKaoLtnBr0"
+        "name": "Old Phone",
+        "url": "https://open.spotify.com/album/002MjQVkI2aHS733fGjj3S"
       },
       "artists": [
         {
           "name": "Ed Sheeran",
           "url": "https://open.spotify.com/artist/6eUKZXaKkcviH0Ku9w2n3V"
-        },
-        {
-          "name": "Taylor Swift",
-          "url": "https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02"
         }
       ],
-      "duration_ms": 185422,
-      "name": "The Joker And The Queen (feat. Taylor Swift)",
-      "url": "https://open.spotify.com/track/6N1K5OVVCopBjGViHs2IvP"
+      "duration_ms": 221831,
+      "name": "Old Phone",
+      "url": "https://open.spotify.com/track/2QxviKpVdEXKDWs706MUZB"
     },
     {
       "added_at": "2026-03-12 15:00:29",
@@ -671,18 +667,22 @@
     {
       "added_at": "2026-03-12 15:00:29",
       "album": {
-        "name": "Old Phone",
-        "url": "https://open.spotify.com/album/002MjQVkI2aHS733fGjj3S"
+        "name": "The Joker And The Queen (feat. Taylor Swift)",
+        "url": "https://open.spotify.com/album/0vkAczpFKCazPKaoLtnBr0"
       },
       "artists": [
         {
           "name": "Ed Sheeran",
           "url": "https://open.spotify.com/artist/6eUKZXaKkcviH0Ku9w2n3V"
+        },
+        {
+          "name": "Taylor Swift",
+          "url": "https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02"
         }
       ],
-      "duration_ms": 221831,
-      "name": "Old Phone",
-      "url": "https://open.spotify.com/track/2QxviKpVdEXKDWs706MUZB"
+      "duration_ms": 185422,
+      "name": "The Joker And The Queen (feat. Taylor Swift)",
+      "url": "https://open.spotify.com/track/6N1K5OVVCopBjGViHs2IvP"
     },
     {
       "added_at": "2026-03-12 15:00:29",
@@ -863,6 +863,22 @@
     {
       "added_at": "2026-03-12 15:00:29",
       "album": {
+        "name": "Celebrate Me Home",
+        "url": "https://open.spotify.com/album/4Zt3jkBQHa5gMiZL95xbaB"
+      },
+      "artists": [
+        {
+          "name": "Lizzy McAlpine",
+          "url": "https://open.spotify.com/artist/1GmsPCcpKgF9OhlNXjOsbS"
+        }
+      ],
+      "duration_ms": 233558,
+      "name": "Celebrate Me Home",
+      "url": "https://open.spotify.com/track/4rVUzCFmxDor43ORzBKHcx"
+    },
+    {
+      "added_at": "2026-03-12 15:00:29",
+      "album": {
         "name": "You Could Start A Cult (with Lizzy McAlpine)",
         "url": "https://open.spotify.com/album/6sTwHqzlr0QYUzH5Dx4pwk"
       },
@@ -879,22 +895,6 @@
       "duration_ms": 194869,
       "name": "You Could Start A Cult (with Lizzy McAlpine)",
       "url": "https://open.spotify.com/track/45PRcjOnvjz6VMl7tI3O3c"
-    },
-    {
-      "added_at": "2026-03-12 15:00:29",
-      "album": {
-        "name": "Celebrate Me Home",
-        "url": "https://open.spotify.com/album/4Zt3jkBQHa5gMiZL95xbaB"
-      },
-      "artists": [
-        {
-          "name": "Lizzy McAlpine",
-          "url": "https://open.spotify.com/artist/1GmsPCcpKgF9OhlNXjOsbS"
-        }
-      ],
-      "duration_ms": 233558,
-      "name": "Celebrate Me Home",
-      "url": "https://open.spotify.com/track/4rVUzCFmxDor43ORzBKHcx"
     },
     {
       "added_at": "2026-03-12 15:00:29",
@@ -1263,22 +1263,6 @@
     {
       "added_at": "2026-03-12 15:00:29",
       "album": {
-        "name": "Get Lucky",
-        "url": "https://open.spotify.com/album/0oNss01Xphq9wWwOpiLkYQ"
-      },
-      "artists": [
-        {
-          "name": "Bossanova Tribute",
-          "url": "https://open.spotify.com/artist/7Cnj4EbIbTSXZFsWuzyEic"
-        }
-      ],
-      "duration_ms": 231983,
-      "name": "Get Lucky",
-      "url": "https://open.spotify.com/track/3r9exFdDYSr583KHHQ6FOl"
-    },
-    {
-      "added_at": "2026-03-12 15:00:29",
-      "album": {
         "name": "\u30de\u30b7\u304b\u3082\u3057\u308c\u306a\u3044",
         "url": "https://open.spotify.com/album/4BQ5ivnlanw4yUuqL3ugdA"
       },
@@ -1295,18 +1279,18 @@
     {
       "added_at": "2026-03-12 15:00:29",
       "album": {
-        "name": "Highlights",
-        "url": "https://open.spotify.com/album/275Y4XYTNfatAHFQfU54dt"
+        "name": "Get Lucky",
+        "url": "https://open.spotify.com/album/0oNss01Xphq9wWwOpiLkYQ"
       },
       "artists": [
         {
-          "name": "Sasha Alex Sloan",
-          "url": "https://open.spotify.com/artist/4xnihxcoXWK3UqryOSnbw5"
+          "name": "Bossanova Tribute",
+          "url": "https://open.spotify.com/artist/7Cnj4EbIbTSXZFsWuzyEic"
         }
       ],
-      "duration_ms": 152293,
-      "name": "Highlights",
-      "url": "https://open.spotify.com/track/0xvkTfdXvK7f1bOZ98ekbH"
+      "duration_ms": 231983,
+      "name": "Get Lucky",
+      "url": "https://open.spotify.com/track/3r9exFdDYSr583KHHQ6FOl"
     },
     {
       "added_at": "2026-03-12 15:00:29",
@@ -1323,6 +1307,22 @@
       "duration_ms": 162802,
       "name": "Coffee",
       "url": "https://open.spotify.com/track/3SY2LmMCRA5eLNXjyY2zPU"
+    },
+    {
+      "added_at": "2026-03-12 15:00:29",
+      "album": {
+        "name": "Highlights",
+        "url": "https://open.spotify.com/album/275Y4XYTNfatAHFQfU54dt"
+      },
+      "artists": [
+        {
+          "name": "Sasha Alex Sloan",
+          "url": "https://open.spotify.com/artist/4xnihxcoXWK3UqryOSnbw5"
+        }
+      ],
+      "duration_ms": 152293,
+      "name": "Highlights",
+      "url": "https://open.spotify.com/track/0xvkTfdXvK7f1bOZ98ekbH"
     },
     {
       "added_at": "2026-03-12 15:00:29",
@@ -1675,18 +1675,18 @@
     {
       "added_at": "2026-03-12 15:00:29",
       "album": {
-        "name": "It's a Mirror",
-        "url": "https://open.spotify.com/album/1fy2JdEjjXymGJWtVE1ckz"
+        "name": "changing",
+        "url": "https://open.spotify.com/album/3lkvhqFjk0FSeYcJvszsmC"
       },
       "artists": [
         {
-          "name": "Perfume Genius",
-          "url": "https://open.spotify.com/artist/2ueoLVCXQ948OfhVvAy3Nn"
+          "name": "tan sholto",
+          "url": "https://open.spotify.com/artist/7ARldRXJIb2tVzOwo3pq3V"
         }
       ],
-      "duration_ms": 212320,
-      "name": "It's a Mirror",
-      "url": "https://open.spotify.com/track/3El9UdrncPt4ISzlv7v8ON"
+      "duration_ms": 198953,
+      "name": "changing",
+      "url": "https://open.spotify.com/track/2UmxbPzKRhZoi3uEBV7FOY"
     }
   ],
   "unique_name": "Acoustic Melodies Tokyo",

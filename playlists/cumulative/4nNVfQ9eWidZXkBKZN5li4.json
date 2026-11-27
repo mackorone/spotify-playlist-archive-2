@@ -3729,6 +3729,28 @@
     },
     {
       "album": {
+        "name": "Soorma (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/76PIQnieybHVXDpW7Cc64l"
+      },
+      "artists": [
+        {
+          "name": "Shankar-Ehsaan-Loy",
+          "url": "https://open.spotify.com/artist/0L5GV6LN8SWWUWIdBbTLTZ"
+        },
+        {
+          "name": "Diljit Dosanjh",
+          "url": "https://open.spotify.com/artist/2FKWNmZWDBZR4dE5KX4plR"
+        }
+      ],
+      "date_added": "2026-11-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 287134,
+      "name": "Ishq Di Baajiyaan",
+      "url": "https://open.spotify.com/track/6gHVMInOPMsA4ujf0nWHSt"
+    },
+    {
+      "album": {
         "name": "Mismatched: Season 3 (Soundtrack from the Netflix Series)",
         "url": "https://open.spotify.com/album/75SlrAXlLbJN9LYJwlTJh6"
       },
@@ -9304,6 +9326,50 @@
       "duration_ms": 283539,
       "name": "Tu Hain Toh (From \"Mr. And Mrs. Mahi\")",
       "url": "https://open.spotify.com/track/6egfWbtFFhMToV2DvmEzmo"
+    },
+    {
+      "album": {
+        "name": "Jannat 2 (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/6CtqkIRtoYPHgFc1ft1DPi"
+      },
+      "artists": [
+        {
+          "name": "Pritam",
+          "url": "https://open.spotify.com/artist/1wRPtKGflJrBx9BmLsSwlU"
+        },
+        {
+          "name": "Shafqat Amanat Ali",
+          "url": "https://open.spotify.com/artist/5SuRAj1A9FEHj5NxS86YAm"
+        },
+        {
+          "name": "Sayeed Quadri",
+          "url": "https://open.spotify.com/artist/2pGRniGOJSOvYoK3dGaBb8"
+        }
+      ],
+      "date_added": "2026-11-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 272973,
+      "name": "Tu Hi Mera",
+      "url": "https://open.spotify.com/track/1CVqr5LImdmJ1Upt4z08Pm"
+    },
+    {
+      "album": {
+        "name": "Tu Keh De Toh (From \"Call Me Bae - Season 2\")",
+        "url": "https://open.spotify.com/album/7krMvUJpKtMZqFBokwOqVs"
+      },
+      "artists": [
+        {
+          "name": "Anuv Jain",
+          "url": "https://open.spotify.com/artist/4gdMJYnopf2nEUcanAwstx"
+        }
+      ],
+      "date_added": "2026-11-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 192285,
+      "name": "Tu Keh De Toh (From \"Call Me Bae - Season 2\")",
+      "url": "https://open.spotify.com/track/1cKijExn2LEjzsgVNnUlhE"
     },
     {
       "album": {

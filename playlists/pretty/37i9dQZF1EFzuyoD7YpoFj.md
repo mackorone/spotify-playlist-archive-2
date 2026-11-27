@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFzuyoD7YpoFj.md) - [plain]
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/2qLfMSD0xkFKDyH4qn8de8">Cole Porter</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 540 likes - 388 songs - 19 hr 54 min
+[Spotify](https://open.spotify.com/user/spotify) - 541 likes - 388 songs - 19 hr 54 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -21,15 +21,15 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFzuyoD7YpoFj.md) - [plain]
 | 11 | [You Go to My Head](https://open.spotify.com/track/5W4AX4iOO3d3L5YmRV65DJ) | [Billie Holiday](https://open.spotify.com/artist/1YzCsTRb22dQkh9lghPIrp) | [Billie Holiday \- Album Nr\. 3: Studio Highlights and the Legendary Cologne Concert \(1954\) \[2015 Digital Remaster\]](https://open.spotify.com/album/4g4v5ZQ8TFG66UIu9wluf0) | 2:53 |
 | 12 | [Let's Do It \(Let's Fall In Love\)](https://open.spotify.com/track/0YUsHYHiwi6drC1ATz47hm) | [Ella Fitzgerald](https://open.spotify.com/artist/5V0MlUE1Bft0mbLlND7FJz), [London Symphony Orchestra](https://open.spotify.com/artist/5yxyJsFanEAuwSM5kOuZKc) | [Someone To Watch Over Me](https://open.spotify.com/album/5UIPf7Q2gj2upbasQQaI5r) | 3:35 |
 | 13 | [You're The Top](https://open.spotify.com/track/1Bj7jBKBnVDRewSxC8oQj2) | [Jeri Southern](https://open.spotify.com/artist/53zwWZL3vLQ7fVfKrhrzaK) | [Jeri Southern Meets Cole Porter](https://open.spotify.com/album/4cryZN5d1BGiBkhtMPB05O) | 2:49 |
-| 14 | [Caught Up](https://open.spotify.com/track/7lqaw4hj1vy2YYkr6Fn7Lq) | [FLO](https://open.spotify.com/artist/0s4kXsjYeH0S1xRyVGN4NO) | [Access All Areas](https://open.spotify.com/album/3wSWMuHQOJ2gU22t5sCouR) | 3:50 |
-| 15 | [I'm In Love Again](https://open.spotify.com/track/5Gw6d1Mt428wFoJbSVy94i) | [Fats Domino](https://open.spotify.com/artist/09C0xjtosNAIXP36wTnWxd) | [Fats Domino Swings](https://open.spotify.com/album/3vte37u7rIAmMZJwNyJSjf) | 1:59 |
-| 16 | [Everything I Love](https://open.spotify.com/track/4Eq5ResH0UYm5u6EuG2VYk) | [Meadowpoints](https://open.spotify.com/artist/3EJ5w7wMNM0ZVOKFBaRp4J) | [Everything I Love](https://open.spotify.com/album/3IdFiT8WYcniX82XftHDhF) | 3:44 |
-| 17 | [Don't Fence Me In](https://open.spotify.com/track/7813tvGDGtLs8uLNVPxNX0) | [Bing Crosby](https://open.spotify.com/artist/6ZjFtWeHP9XN7FeKSUe80S), [The Andrews Sisters](https://open.spotify.com/artist/2NCGI6dLTxLdI9XHdv7QfM), [Vic Schoen & His Orchestra](https://open.spotify.com/artist/5wHn4S5C2d5fqXIPnJWe42) | [My Greatest Songs](https://open.spotify.com/album/2CiNrYDItFe7BLO2hlSjp8) | 3:07 |
-| 18 | [It's De\-Lovely](https://open.spotify.com/track/0VpS4hSRltXwOnqJz2gvK6) | [Jeri Southern](https://open.spotify.com/artist/53zwWZL3vLQ7fVfKrhrzaK) | [The Southern Style](https://open.spotify.com/album/5Kdb1NbdFQCE12xxZpmLoy) | 2:09 |
-| 19 | [I've Got My Love to Keep Me Warm](https://open.spotify.com/track/4swVkhYwnmA0ls8UWzz5VU) | [Billie Holiday](https://open.spotify.com/artist/1YzCsTRb22dQkh9lghPIrp) | [Billie Holiday Love Songs](https://open.spotify.com/album/3MXpFQDq1cTE4WfGZDAsY4) | 2:54 |
-| 20 | [C'est Magnifique \- Remastered](https://open.spotify.com/track/6ghdeAG64RBwahVxWzj9sa) | [Kay Starr](https://open.spotify.com/artist/7rpf45DdbpweG51Acze45i) | [Movin' On Broadway](https://open.spotify.com/album/0H3fpfEvApgmSPp8qivyOQ) | 2:19 |
-| 21 | [I Concentrate On You](https://open.spotify.com/track/2EAg1quHmyj5wGPEONM5KL) | [The Blue Green](https://open.spotify.com/artist/2MV5ORkK9NtSHyy4WbwY80) | [I Concentrate On You](https://open.spotify.com/album/5R8IVGtCRIxv5KWwpjTiFL) | 4:40 |
-| 22 | [All of You \- Remastered](https://open.spotify.com/track/0meetAGuWszl4BSSz1z22L) | [Sammy Davis Jr.](https://open.spotify.com/artist/1NAWG3AngjBXyKbmPaz92D) | [The Signature Collection](https://open.spotify.com/album/0fd3nDLYQpJPeMHPVoOmSx) | 2:41 |
+| 14 | [All of You \- Remastered](https://open.spotify.com/track/0meetAGuWszl4BSSz1z22L) | [Sammy Davis Jr.](https://open.spotify.com/artist/1NAWG3AngjBXyKbmPaz92D) | [The Signature Collection](https://open.spotify.com/album/0fd3nDLYQpJPeMHPVoOmSx) | 2:41 |
+| 15 | [Caught Up](https://open.spotify.com/track/7lqaw4hj1vy2YYkr6Fn7Lq) | [FLO](https://open.spotify.com/artist/0s4kXsjYeH0S1xRyVGN4NO) | [Access All Areas](https://open.spotify.com/album/3wSWMuHQOJ2gU22t5sCouR) | 3:50 |
+| 16 | [I'm In Love Again](https://open.spotify.com/track/5Gw6d1Mt428wFoJbSVy94i) | [Fats Domino](https://open.spotify.com/artist/09C0xjtosNAIXP36wTnWxd) | [Fats Domino Swings](https://open.spotify.com/album/3vte37u7rIAmMZJwNyJSjf) | 1:59 |
+| 17 | [Everything I Love](https://open.spotify.com/track/4Eq5ResH0UYm5u6EuG2VYk) | [Meadowpoints](https://open.spotify.com/artist/3EJ5w7wMNM0ZVOKFBaRp4J) | [Everything I Love](https://open.spotify.com/album/3IdFiT8WYcniX82XftHDhF) | 3:44 |
+| 18 | [Don't Fence Me In](https://open.spotify.com/track/7813tvGDGtLs8uLNVPxNX0) | [Bing Crosby](https://open.spotify.com/artist/6ZjFtWeHP9XN7FeKSUe80S), [The Andrews Sisters](https://open.spotify.com/artist/2NCGI6dLTxLdI9XHdv7QfM), [Vic Schoen & His Orchestra](https://open.spotify.com/artist/5wHn4S5C2d5fqXIPnJWe42) | [My Greatest Songs](https://open.spotify.com/album/2CiNrYDItFe7BLO2hlSjp8) | 3:07 |
+| 19 | [It's De\-Lovely](https://open.spotify.com/track/0VpS4hSRltXwOnqJz2gvK6) | [Jeri Southern](https://open.spotify.com/artist/53zwWZL3vLQ7fVfKrhrzaK) | [The Southern Style](https://open.spotify.com/album/5Kdb1NbdFQCE12xxZpmLoy) | 2:09 |
+| 20 | [I've Got My Love to Keep Me Warm](https://open.spotify.com/track/4swVkhYwnmA0ls8UWzz5VU) | [Billie Holiday](https://open.spotify.com/artist/1YzCsTRb22dQkh9lghPIrp) | [Billie Holiday Love Songs](https://open.spotify.com/album/3MXpFQDq1cTE4WfGZDAsY4) | 2:54 |
+| 21 | [C'est Magnifique \- Remastered](https://open.spotify.com/track/6ghdeAG64RBwahVxWzj9sa) | [Kay Starr](https://open.spotify.com/artist/7rpf45DdbpweG51Acze45i) | [Movin' On Broadway](https://open.spotify.com/album/0H3fpfEvApgmSPp8qivyOQ) | 2:19 |
+| 22 | [I Concentrate On You](https://open.spotify.com/track/2EAg1quHmyj5wGPEONM5KL) | [The Blue Green](https://open.spotify.com/artist/2MV5ORkK9NtSHyy4WbwY80) | [I Concentrate On You](https://open.spotify.com/album/5R8IVGtCRIxv5KWwpjTiFL) | 4:40 |
 | 23 | [I've Got You Under My Skin](https://open.spotify.com/track/1eBKL70QNc5b1cGLSG3FZ3) | [Matt Dusk](https://open.spotify.com/artist/1UbA3tvm40VqUsiFlJaPCs) | [Sinatra](https://open.spotify.com/album/1gPgrV9ISZzujHyTbNTaxK) | 3:29 |
 | 24 | [Façamos \(Vamos Amar\)](https://open.spotify.com/track/7y6vnVnkRzcxUZMdoCaksh) | [Elza Soares](https://open.spotify.com/artist/4cn4gMq0KXORHeYA45PcBi), [Chico Buarque](https://open.spotify.com/artist/6tOsSffQQIXmK8TqsDck8t) | [Do Cóccix Até o Pescoço](https://open.spotify.com/album/1jPumMqSdJBEfhZyRUrDfR) | 5:53 |
 | 25 | [I've Got You Under My Skin](https://open.spotify.com/track/6DqhZcYmiyeUx8UKDrJlmR) | [Ella Fitzgerald](https://open.spotify.com/artist/5V0MlUE1Bft0mbLlND7FJz) | [Ella Fitzgerald Sings The Cole Porter Song Book](https://open.spotify.com/album/5mKKz70X5wTSypnWxSQhTN) | 2:43 |
@@ -397,4 +397,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFzuyoD7YpoFj.md) - [plain]
 | 387 | [It Ain't Etiquette](https://open.spotify.com/track/1GbMATrktLfNh0qpFFckW3) | [Ronny Graham](https://open.spotify.com/artist/1p9N6ZU2PVPiQnqVRYdb96) | [Cole Porter Revisited](https://open.spotify.com/album/6nLxZJkzWzt72wRAj0uyWI) | 2:31 |
 | 388 | [You've Got Something](https://open.spotify.com/track/3mOu0wnhrLDqM2QPIGt3vh) | [Armando Trovajoli e La Sua Orchestra](https://open.spotify.com/artist/5WyhUmiKmVxjyCNgM4GbEw) | [Prigionieri del Cielo](https://open.spotify.com/album/6UIfJA1Rnz3OI5pwp4GUPr) | 3:56 |
 
-Snapshot ID: `AciqBAAAAAAO+DICWlVa7xbcBfNCdmo5`
+Snapshot ID: `AcivpAAAAAChkuHIhawF5zkBsJ0yiZ3h`

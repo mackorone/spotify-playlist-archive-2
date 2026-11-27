@@ -6705,6 +6705,24 @@
     },
     {
       "album": {
+        "name": "Dancing Leaves",
+        "url": "https://open.spotify.com/album/6ozrY1lH4pZ2CexU8mjAAF"
+      },
+      "artists": [
+        {
+          "name": "HoK\u00f8",
+          "url": "https://open.spotify.com/artist/7pRU1CndlfPZTkcMG5ZkBD"
+        }
+      ],
+      "date_added": "2026-11-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 145675,
+      "name": "Dancing Leaves",
+      "url": "https://open.spotify.com/track/47Y09nzZBMeRUXWk2Qmyd0"
+    },
+    {
+      "album": {
         "name": "Dandelion's Lullaby",
         "url": "https://open.spotify.com/album/3c9eWf9ONwSr9LKlwZ0ODW"
       },
@@ -6880,7 +6898,7 @@
       ],
       "date_added": "2026-09-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-27",
       "duration_ms": 141034,
       "name": "daydream",
       "url": "https://open.spotify.com/track/3b0ecHiZVgFb1dgABxccDg"
@@ -9744,7 +9762,7 @@
       ],
       "date_added": "2026-05-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-27",
       "duration_ms": 129729,
       "name": "familiar streets",
       "url": "https://open.spotify.com/track/1dxw1i0rNsRf7ZRbwDfnrw"
@@ -11046,7 +11064,7 @@
       ],
       "date_added": "2026-09-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-27",
       "duration_ms": 201601,
       "name": "gently",
       "url": "https://open.spotify.com/track/5hmwiusWFRLmpGtQg2XYxl"
@@ -14975,6 +14993,28 @@
     },
     {
       "album": {
+        "name": "Resonances",
+        "url": "https://open.spotify.com/album/5BlAUGLqvHJZCZ8AEU8txN"
+      },
+      "artists": [
+        {
+          "name": "Mujo",
+          "url": "https://open.spotify.com/artist/0vg08N1z9G9LrGLkG1nNDS"
+        },
+        {
+          "name": "softy",
+          "url": "https://open.spotify.com/artist/0wcen0V8FgQu6xYupnZMbB"
+        }
+      ],
+      "date_added": "2026-11-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 137302,
+      "name": "Jumping On Stars",
+      "url": "https://open.spotify.com/track/7b0OckcUhTu1HyJutW9gHC"
+    },
+    {
+      "album": {
         "name": "Jungle",
         "url": "https://open.spotify.com/album/5LxAFew3KGBqgedPSy9XO4"
       },
@@ -17650,10 +17690,32 @@
       ],
       "date_added": "2026-07-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-27",
       "duration_ms": 118518,
       "name": "Low Tide",
       "url": "https://open.spotify.com/track/4DTNQDl2D4w67kS6GbgyWd"
+    },
+    {
+      "album": {
+        "name": "Through the pines",
+        "url": "https://open.spotify.com/album/6OWFhjZtknbnWhcahgH9Ge"
+      },
+      "artists": [
+        {
+          "name": "Casiio",
+          "url": "https://open.spotify.com/artist/5zUSfxfP1NETZiaWt0Ui0a"
+        },
+        {
+          "name": "marsquake",
+          "url": "https://open.spotify.com/artist/7JHsA8iL2mnUsAteuzehsb"
+        }
+      ],
+      "date_added": "2026-11-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 153600,
+      "name": "Lower meadows",
+      "url": "https://open.spotify.com/track/2P3l5N2pSZSZ5DyK9uDlaF"
     },
     {
       "album": {
@@ -19008,7 +19070,7 @@
       ],
       "date_added": "2026-09-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-27",
       "duration_ms": 121445,
       "name": "Midnight Train",
       "url": "https://open.spotify.com/track/5FAeASq3LoG6Ta6uFpv9kz"
@@ -30065,6 +30127,28 @@
     },
     {
       "album": {
+        "name": "sundays",
+        "url": "https://open.spotify.com/album/0nqiXvnhhrQhSdxluTLtid"
+      },
+      "artists": [
+        {
+          "name": "Sleepermane",
+          "url": "https://open.spotify.com/artist/4gGsx7blPpBj7gKGmDBEfI"
+        },
+        {
+          "name": "Lenny Loops",
+          "url": "https://open.spotify.com/artist/6MvnyPinXRQbUCMsPoymhR"
+        }
+      ],
+      "date_added": "2026-11-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 142222,
+      "name": "sundays",
+      "url": "https://open.spotify.com/track/6O8mP9JpmKdNvh9iz8RP7S"
+    },
+    {
+      "album": {
         "name": "sundown",
         "url": "https://open.spotify.com/album/3O0CfJ4Iei7CJV3u0bCmKs"
       },
@@ -32484,6 +32568,28 @@
       "duration_ms": 110777,
       "name": "Tsuki",
       "url": "https://open.spotify.com/track/2xXZoAuztK3zZwjuTHNRCV"
+    },
+    {
+      "album": {
+        "name": "Tuesday",
+        "url": "https://open.spotify.com/album/7qksYz5tftbJoLTBR5UMSz"
+      },
+      "artists": [
+        {
+          "name": "Sebastian Kamae",
+          "url": "https://open.spotify.com/artist/7GsvnIE0bUBu6WZXO3ryJe"
+        },
+        {
+          "name": "Mindr",
+          "url": "https://open.spotify.com/artist/7AObJiF0vqNNnysunp45om"
+        }
+      ],
+      "date_added": "2026-11-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 158117,
+      "name": "Tuesday",
+      "url": "https://open.spotify.com/track/1lWDBGRznHRRc5oJhZTABY"
     },
     {
       "album": {

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO4bG046.md) - [plain]
 
 > This is Los Jaivas\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 37,231 likes - 50 songs - 4 hr 28 min
+[Spotify](https://open.spotify.com/user/spotify) - 37,234 likes - 50 songs - 4 hr 28 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -29,14 +29,14 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO4bG046.md) - [plain]
 | 19 | [Águila Sideral](https://open.spotify.com/track/5KiAfMWWdmUpoYI0NLIDCq) | [Los Jaivas](https://open.spotify.com/artist/750f5Yoi20mYBe2EoVqWiT) | [Alturas de Macchu Picchu](https://open.spotify.com/album/0HfcoysEsReQ58uWJSu5sk) | 5:22 |
 | 20 | [Un Mar de Gente](https://open.spotify.com/track/5F2dixXnuqUAIdCspNUDPP) | [Los Jaivas](https://open.spotify.com/artist/750f5Yoi20mYBe2EoVqWiT) | [Los Jaivas](https://open.spotify.com/album/5P0ZhGdvzJK31MvCWMGajo) | 4:09 |
 | 21 | [Frescura Antigua](https://open.spotify.com/track/7tAhN6fQ1JvsKeGCohkHij) | [Los Jaivas](https://open.spotify.com/artist/750f5Yoi20mYBe2EoVqWiT) | [Canción Del Sur](https://open.spotify.com/album/29x6mW5LiAnilLaiqfXtEu) | 3:12 |
-| 22 | [Donde Estabas Tú](https://open.spotify.com/track/7z6OlxRe1NjLe2lOG6cgxv) | [Los Jaivas](https://open.spotify.com/artist/750f5Yoi20mYBe2EoVqWiT) | [Palomita Blanca](https://open.spotify.com/album/0cTJJ912Yci0ISbAqdECkZ) | 2:46 |
+| 22 | [Mamalluca](https://open.spotify.com/track/6HhGrqxEJHOPdOiPLSBFIE) | [Los Jaivas](https://open.spotify.com/artist/750f5Yoi20mYBe2EoVqWiT) | [Mamalluca: Obras Sinfónicas, Vol\. 1](https://open.spotify.com/album/0ZPChiwu8RZKzNfCDSvku2) | 15:44 |
 | 23 | [Antigua América](https://open.spotify.com/track/4AgZfnB0Z1gtYAV5sdVD9y) | [Los Jaivas](https://open.spotify.com/artist/750f5Yoi20mYBe2EoVqWiT) | [Alturas de Macchu Picchu](https://open.spotify.com/album/0HfcoysEsReQ58uWJSu5sk) | 5:39 |
-| 24 | [Mamalluca](https://open.spotify.com/track/6HhGrqxEJHOPdOiPLSBFIE) | [Los Jaivas](https://open.spotify.com/artist/750f5Yoi20mYBe2EoVqWiT) | [Mamalluca: Obras Sinfónicas, Vol\. 1](https://open.spotify.com/album/0ZPChiwu8RZKzNfCDSvku2) | 15:44 |
+| 24 | [Donde Estabas Tú](https://open.spotify.com/track/7z6OlxRe1NjLe2lOG6cgxv) | [Los Jaivas](https://open.spotify.com/artist/750f5Yoi20mYBe2EoVqWiT) | [Palomita Blanca](https://open.spotify.com/album/0cTJJ912Yci0ISbAqdECkZ) | 2:46 |
 | 25 | [Guajira Cosmica](https://open.spotify.com/track/7vpRg1cVcWKN7MLyVvhCQf) | [Los Jaivas](https://open.spotify.com/artist/750f5Yoi20mYBe2EoVqWiT) | [Los Jaivas](https://open.spotify.com/album/5P0ZhGdvzJK31MvCWMGajo) | 7:59 |
-| 26 | [Vergüenza Ajena](https://open.spotify.com/track/6ZwYH70Fvk8sEFG3lah8ud) | [Los Jaivas](https://open.spotify.com/artist/750f5Yoi20mYBe2EoVqWiT) | [Palomita Blanca](https://open.spotify.com/album/0cTJJ912Yci0ISbAqdECkZ) | 2:50 |
-| 27 | [Corre Que Te Pillo](https://open.spotify.com/track/7ynwdIuc9g4jjw0blnVnVB) | [Los Jaivas](https://open.spotify.com/artist/750f5Yoi20mYBe2EoVqWiT) | [Aconcagua](https://open.spotify.com/album/01P0MFmOib4bDtRcxdfEbk) | 9:46 |
-| 28 | [Run Run Se Fue Pa'l Norte](https://open.spotify.com/track/6m49CvvCsitRLdWrOCH7hx) | [Los Jaivas](https://open.spotify.com/artist/750f5Yoi20mYBe2EoVqWiT) | [Obras de Violeta Parra](https://open.spotify.com/album/1TBM4bR0WDcR1kBdU4gC4D) | 5:14 |
-| 29 | [Cancion Del Sur](https://open.spotify.com/track/4k6kn9cd0X3KZmEgtUZy4Z) | [Los Jaivas](https://open.spotify.com/artist/750f5Yoi20mYBe2EoVqWiT) | [Canción Del Sur](https://open.spotify.com/album/29x6mW5LiAnilLaiqfXtEu) | 7:41 |
+| 26 | [Corre Que Te Pillo](https://open.spotify.com/track/7ynwdIuc9g4jjw0blnVnVB) | [Los Jaivas](https://open.spotify.com/artist/750f5Yoi20mYBe2EoVqWiT) | [Aconcagua](https://open.spotify.com/album/01P0MFmOib4bDtRcxdfEbk) | 9:46 |
+| 27 | [Cancion Del Sur](https://open.spotify.com/track/4k6kn9cd0X3KZmEgtUZy4Z) | [Los Jaivas](https://open.spotify.com/artist/750f5Yoi20mYBe2EoVqWiT) | [Canción Del Sur](https://open.spotify.com/album/29x6mW5LiAnilLaiqfXtEu) | 7:41 |
+| 28 | [Vergüenza Ajena](https://open.spotify.com/track/6ZwYH70Fvk8sEFG3lah8ud) | [Los Jaivas](https://open.spotify.com/artist/750f5Yoi20mYBe2EoVqWiT) | [Palomita Blanca](https://open.spotify.com/album/0cTJJ912Yci0ISbAqdECkZ) | 2:50 |
+| 29 | [Run Run Se Fue Pa'l Norte](https://open.spotify.com/track/6m49CvvCsitRLdWrOCH7hx) | [Los Jaivas](https://open.spotify.com/artist/750f5Yoi20mYBe2EoVqWiT) | [Obras de Violeta Parra](https://open.spotify.com/album/1TBM4bR0WDcR1kBdU4gC4D) | 5:14 |
 | 30 | [La Vida Mágica ¡Ay Si! \- En Vivo, Concierto en Londres 1979](https://open.spotify.com/track/1YKKYk43KirL3nuiYm20wC) | [Los Jaivas](https://open.spotify.com/artist/750f5Yoi20mYBe2EoVqWiT) | [En el Bar\-Restaurant "Lo Que Nunca Se Supo"](https://open.spotify.com/album/3adOUZHS6IpCpKI8Vl3UFW) | 3:25 |
 | 31 | [Debajo de las Higueras](https://open.spotify.com/track/7ukGH5jqrIyuTxyF8vXIvG) | [Los Jaivas](https://open.spotify.com/artist/750f5Yoi20mYBe2EoVqWiT) | [Aconcagua](https://open.spotify.com/album/01P0MFmOib4bDtRcxdfEbk) | 3:29 |
 | 32 | [Indio Hermano \- Versión 1996](https://open.spotify.com/track/2qvdu1d8aO0TvT3jRoxSZ6) | [Los Jaivas](https://open.spotify.com/artist/750f5Yoi20mYBe2EoVqWiT), [León Gieco](https://open.spotify.com/artist/5yoimVE1rbc3kAx4uwr7eq) | [Trilogía el Rencuentro](https://open.spotify.com/album/0INTpo6ighKQ7lGmK0FWsH) | 6:01 |
@@ -51,12 +51,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO4bG046.md) - [plain]
 | 41 | [La Centinela \- Versión 1997](https://open.spotify.com/track/0nYOSO5oocI5qHJn8JupIa) | [Los Jaivas](https://open.spotify.com/artist/750f5Yoi20mYBe2EoVqWiT), [Illapu](https://open.spotify.com/artist/6gWVXK2R7WYXTqxULGAyfx) | [Trilogía el Rencuentro](https://open.spotify.com/album/0INTpo6ighKQ7lGmK0FWsH) | 5:04 |
 | 42 | [Arrebol](https://open.spotify.com/track/4GfyC2qJ8hCsbeNdyPnJAT) | [Los Jaivas](https://open.spotify.com/artist/750f5Yoi20mYBe2EoVqWiT) | [Arrebol](https://open.spotify.com/album/6G6mZ0b2SzKv3391GZYdb0) | 6:48 |
 | 43 | [Ayer Cache \- 2020 Remasterizado](https://open.spotify.com/track/3CGulbIk6Zsc7h8UDjvRep) | [Los Jaivas](https://open.spotify.com/artist/750f5Yoi20mYBe2EoVqWiT) | [La Ventana \(Remasterizado 2020\)](https://open.spotify.com/album/6TKiJjr8lQOcO6FpRGkg6N) | 4:21 |
-| 44 | [Tan Lejos del Sol](https://open.spotify.com/track/1PmsOon14qW3aO8HhZ9D5B) | [Los Jaivas](https://open.spotify.com/artist/750f5Yoi20mYBe2EoVqWiT) | [Hijos de la Tierra](https://open.spotify.com/album/6F4aiBPbgSgnZIoZUL3sv0) | 6:28 |
-| 45 | [Aguamarina](https://open.spotify.com/track/5cN62o6B0GORay2k1tFsDT) | [Los Jaivas](https://open.spotify.com/artist/750f5Yoi20mYBe2EoVqWiT) | [Si Tú No Estás](https://open.spotify.com/album/5oX1Jjge7MwrMgYuCKjmxv) | 4:02 |
+| 44 | [Aguamarina](https://open.spotify.com/track/5cN62o6B0GORay2k1tFsDT) | [Los Jaivas](https://open.spotify.com/artist/750f5Yoi20mYBe2EoVqWiT) | [Si Tú No Estás](https://open.spotify.com/album/5oX1Jjge7MwrMgYuCKjmxv) | 4:02 |
+| 45 | [Tan Lejos del Sol](https://open.spotify.com/track/1PmsOon14qW3aO8HhZ9D5B) | [Los Jaivas](https://open.spotify.com/artist/750f5Yoi20mYBe2EoVqWiT) | [Hijos de la Tierra](https://open.spotify.com/album/6F4aiBPbgSgnZIoZUL3sv0) | 6:28 |
 | 46 | [Sueño Del Inca](https://open.spotify.com/track/3y0BB4Af1j5F4AcE5BNCN0) | [Los Jaivas](https://open.spotify.com/artist/750f5Yoi20mYBe2EoVqWiT) | [Serie De Oro](https://open.spotify.com/album/7A7yT68R727jeKLxPOAiRj) | 3:43 |
-| 47 | [Mañana Me Voy Pa'l Norte](https://open.spotify.com/track/7uSlhTeYaT1sIful5Y3JXj) | [Los Jaivas](https://open.spotify.com/artist/750f5Yoi20mYBe2EoVqWiT) | [Obras de Violeta Parra](https://open.spotify.com/album/1TBM4bR0WDcR1kBdU4gC4D) | 4:40 |
-| 48 | [Canción Para Los Pájaros](https://open.spotify.com/track/6T4FKfFIomCmOIjR49xJEJ) | [Los Jaivas](https://open.spotify.com/artist/750f5Yoi20mYBe2EoVqWiT) | [Canción Del Sur](https://open.spotify.com/album/29x6mW5LiAnilLaiqfXtEu) | 3:25 |
+| 47 | [Canción Para Los Pájaros](https://open.spotify.com/track/6T4FKfFIomCmOIjR49xJEJ) | [Los Jaivas](https://open.spotify.com/artist/750f5Yoi20mYBe2EoVqWiT) | [Canción Del Sur](https://open.spotify.com/album/29x6mW5LiAnilLaiqfXtEu) | 3:25 |
+| 48 | [Mañana Me Voy Pa'l Norte](https://open.spotify.com/track/7uSlhTeYaT1sIful5Y3JXj) | [Los Jaivas](https://open.spotify.com/artist/750f5Yoi20mYBe2EoVqWiT) | [Obras de Violeta Parra](https://open.spotify.com/album/1TBM4bR0WDcR1kBdU4gC4D) | 4:40 |
 | 49 | [Niña Serrana](https://open.spotify.com/track/5RuS5afTt26XtXfbnAoyv7) | [Los Jaivas](https://open.spotify.com/artist/750f5Yoi20mYBe2EoVqWiT) | [Si Tú No Estás](https://open.spotify.com/album/5oX1Jjge7MwrMgYuCKjmxv) | 4:17 |
 | 50 | [Todos Americanos](https://open.spotify.com/track/4SD3yYJKLPMJXdDFIiPpx9) | [Los Jaivas](https://open.spotify.com/artist/750f5Yoi20mYBe2EoVqWiT) | [Arrebol](https://open.spotify.com/album/6G6mZ0b2SzKv3391GZYdb0) | 4:53 |
 
-Snapshot ID: `awOCAAAAAAAd+L54bb7ZWrFUwI+4zRBa`
+Snapshot ID: `awYlAAAAAADaF/9ENKwuDMUvp2R+iqRl`

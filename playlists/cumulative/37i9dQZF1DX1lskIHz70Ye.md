@@ -4,7 +4,7 @@
 
 > Piezas acústicas para cenar a la luz de las velas con alguien especial.
 
-218 songs - 10 hr 37 min
+219 songs - 10 hr 39 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -70,6 +70,7 @@
 | [El Banco De La Plaza](https://open.spotify.com/track/4dvP23JMvMggnNx9SWSL1d) | [Los Viajantes](https://open.spotify.com/artist/4YAXYtBeaRHUxQ8R3TKheZ) | [El Banco De La Plaza](https://open.spotify.com/album/5eczeMrsbmQ7eMcDEy7od3) | 4:37 | 2022-03-03 |  |
 | [El Camino De La Vida](https://open.spotify.com/track/0d0zDKdDkpyetQarz3wFq7) | [Elias Carrera](https://open.spotify.com/artist/7qKazhBQV8sScUWPr8xVOO) | [Wasi](https://open.spotify.com/album/0PoKRHhIITIb48H5r6M7SJ) | 2:16 | 2022-03-03 | 2022-10-29 |
 | [El Carretero](https://open.spotify.com/track/3GAFugCvoutIwEAAzbeB74) | [Los Hermanos Cabaiguan](https://open.spotify.com/artist/3lD25kA4bqSWreXLA4sT5g) | [El Carretero](https://open.spotify.com/album/1VP2nwTHbf6K98NnAGtkjW) | 3:28 | 2022-03-03 | 2022-07-22 |
+| [El Sur De La Playa](https://open.spotify.com/track/10OirwvrDIp2KymmwGQ5Rw) | [Matthew Kaff](https://open.spotify.com/artist/45KZBIPW9K2Yslr7ccejpk) | [El Sur De La Playa](https://open.spotify.com/album/7mP4vGXJ8CfMcHLb2ZPdUw) | 2:10 | 2026-11-27 |  |
 | [Elizabeth](https://open.spotify.com/track/79Z5yXBRvSyTkClUowAiWe) | [Toni Barella](https://open.spotify.com/artist/4SG1RjKd3TiXxwZ36G6tut) | [Elizabeth](https://open.spotify.com/album/0m9OjqhtdawqAZSUjdL24I) | 2:14 | 2026-05-29 |  |
 | [Escucha Mi Voz](https://open.spotify.com/track/735Q2UQdQ8s4JbTnkXpoWq) | [Byron Brizz](https://open.spotify.com/artist/0PGmoSulvyPVKHDWyyMClJ), [David Peña](https://open.spotify.com/artist/4NMM9OaHOyncdIvuDks37i) | [Alma Mexicana](https://open.spotify.com/album/5q23NA34MBehDCwbbhfDBJ) | 2:03 | 2022-03-03 | 2022-07-22 |
 | [Esperare](https://open.spotify.com/track/36FlYtI3NMyqEMBQlaH7Eb) | [Las Tres Cuerdas](https://open.spotify.com/artist/6jXpHupMSkU9UO5HNpP30a) | [Esperare](https://open.spotify.com/album/3fO4NeuLeBx5S0Pabk5PaX) | 2:10 | 2022-03-03 | 2022-07-09 |

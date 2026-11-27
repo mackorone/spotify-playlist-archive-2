@@ -4,7 +4,7 @@
 
 > Piano music to accompany and inspire your writing.
 
-609 songs - 1 day 2 hr 14 min
+611 songs - 1 day 2 hr 18 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -21,6 +21,7 @@
 | [A Glance From His Brown & Blue Eyes](https://open.spotify.com/track/3wbUNzYewaXXPMqeKZvl8I) | [Aramis Silvereke](https://open.spotify.com/artist/11efnmWuN6PImMPmQjAfKq) | [A Glance From His Brown & Blue Eyes](https://open.spotify.com/album/0ZwZThQ3XiWXWNw8xF06hF) | 4:00 | 2022-05-04 | 2024-10-02 |
 | [A Heart Left Waiting](https://open.spotify.com/track/665cLB7yDDROBMULcwxWPN) | [Johannes Bornlöf](https://open.spotify.com/artist/1yLIaxyVkZnLMXhfRSYEjV) | [A Heart Left Waiting](https://open.spotify.com/album/0Cd764v4nVZXsXXJ0TN7fO) | 2:58 | 2026-09-25 |  |
 | [A Landscape In Time](https://open.spotify.com/track/3N3MDdkEPA6GDJcv5piDvF) | [Aran Locksley](https://open.spotify.com/artist/7GSlNqdvjRJaWUof6GaobW) | [A Landscape In Time](https://open.spotify.com/album/7AuKscPwxN4mpn8CicToVZ) | 2:18 | 2026-07-17 |  |
+| [A Life in Moments](https://open.spotify.com/track/4zVb3G1Dx819S3iNSSEaro) | [Antoine Fauré](https://open.spotify.com/artist/5TOgvcEmZnjyDHGdnQP4nL) | [A Life in Moments](https://open.spotify.com/album/5cvLSZBb10hYRDSoLkzXnj) | 2:05 | 2026-11-27 |  |
 | [A Little While](https://open.spotify.com/track/1ubmrFkL5wY0FvffVwUSEr) | [Quire](https://open.spotify.com/artist/2w7lRMm4lmFoPq20cGqMTt) | [A Little While](https://open.spotify.com/album/1MJurU4oezE5y1DQlXFfRx) | 3:14 | 2026-10-23 |  |
 | [A Love Note](https://open.spotify.com/track/7qWt0c0tCp5lc97qAdtaFV) | [Thibaud Fleming](https://open.spotify.com/artist/6QE5XI9fz7xt4jDwOqYceT) | [A Love Note](https://open.spotify.com/album/0MMN8nn4yVttrCm5AV8smU) | 2:06 | 2023-11-07 | 2025-05-01 |
 | [A passing season](https://open.spotify.com/track/0kcNgvxO5miMzPqkFYoeqK) | [Rowan Guthrie](https://open.spotify.com/artist/5UZOjfjGjEFQ5v3HGf02YG) | [A passing season](https://open.spotify.com/album/7uFAhV4JjbE5B7xgvxYTx7) | 2:55 | 2024-03-04 | 2026-08-28 |
@@ -222,6 +223,7 @@
 | [Heartsease](https://open.spotify.com/track/2VqdRIXLDBYtDHLBvWw0p4) | [Nadia Oak](https://open.spotify.com/artist/69kmTV1Yq4nmkwlrYSYeMa) | [Heartsease](https://open.spotify.com/album/2jVOyTHvkQHSQ0Y19arpqE) | 2:25 | 2022-09-13 | 2026-02-11 |
 | [Heather](https://open.spotify.com/track/5TeE1E52WeSDEsuE9jTWsQ) | [Celestial Aria](https://open.spotify.com/artist/3qpSThwNv7Jdfo1FLFaRKr) | [Heather](https://open.spotify.com/album/34rNjPWv9BJiWvqFXkiNKQ) | 3:31 | 2026-08-07 |  |
 | [Held between moments](https://open.spotify.com/track/72eJj4g5vJMWiIecEFjrbK) | [Justin Dell](https://open.spotify.com/artist/7nQzEyE1TWkfthJfE0fs43) | [Held between moments](https://open.spotify.com/album/5AYiyEIkW7p31Gn7xx6QQc) | 2:36 | 2026-02-10 |  |
+| [Here, Now](https://open.spotify.com/track/5r8Iujjg0V21C2GPWD1DXr) | [Emile Valadon](https://open.spotify.com/artist/3ZcrcpwVpdp0nHKwf2l8eS) | [Here, Now](https://open.spotify.com/album/1Z4VOBQMBGYODVhSyzbXjq) | 2:18 | 2026-11-27 |  |
 | [Hidden poetry](https://open.spotify.com/track/3KlDABftWLOMxlQUTkRmJI) | [Liu Ju](https://open.spotify.com/artist/3cCGz7C2zdclj245jLMqzk) | [Hidden poetry](https://open.spotify.com/album/3hn4kKodyid2wx4agXY3rM) | 2:19 | 2023-10-24 | 2025-05-01 |
 | [Hind \- Voiceless \- Harpa Sessions](https://open.spotify.com/track/3xgrIw8JY1aqdD5yNAB5OH) | [Gabríel Ólafs](https://open.spotify.com/artist/1vYrIm6O7VtBGszIWe75mB) | [Hind / Aska \(Harpa Sessions\)](https://open.spotify.com/album/4wMVESeu9wtxdBBUteIKV2) | 1:38 | 2022-10-26 | 2024-02-03 |
 | [Hinode](https://open.spotify.com/track/0jP1vlXPZWKezTOU49xGzN) | [Marlon Guild](https://open.spotify.com/artist/37H3UX4jTV7ZjH5yL6l3Yl) | [Hinode](https://open.spotify.com/album/1wkFABi2Q0XBC9j0dOEAwZ) | 2:31 | 2022-09-13 | 2026-02-11 |

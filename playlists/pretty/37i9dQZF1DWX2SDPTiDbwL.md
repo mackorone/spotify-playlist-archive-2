@@ -4,14 +4,14 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWX2SDPTiDbwL.md) - [plain]
 
 > El precioso sonido de la guitarra flamenca, perfecto para evadirte.
 
-[Spotify](https://open.spotify.com/user/spotify) - 52,223 likes - 80 songs - 4 hr 50 min
+[Spotify](https://open.spotify.com/user/spotify) - 52,233 likes - 79 songs - 4 hr 47 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [San Lorenzo](https://open.spotify.com/track/5Uos52MYyea9qBSqImO99M) | [Serenity State of Mind](https://open.spotify.com/artist/4fyOziQW8idDGt8352pAEZ) | [San Lorenzo](https://open.spotify.com/album/31g2RCgCvod7x94rdNWwtW) | 2:08 |
-| 2 | [España, Op\. 165: No\. 2, Tango \(Transcr\. for Guitar by Andrés Segovia\) \- Live at the Fundación Juan March](https://open.spotify.com/track/7ec7NpnONAYDLF3O1WHIPh) | [Isaac Albéniz](https://open.spotify.com/artist/4sbcjbyksdT4dJ5Lh0SvZp), [Ricardo Gallén](https://open.spotify.com/artist/1XlKgZWAWycE0gjpzMk4JT) | [Albéniz: España, Op\. 165: No\. 2, Tango](https://open.spotify.com/album/337JY60SklzcRsh9XSIoN9) | 2:45 |
-| 3 | [Who](https://open.spotify.com/track/4NDPR97nB1PuQ7773VK5WK) | [Mario Cabrera](https://open.spotify.com/artist/2jxGXKxdhbWgtylGviMHZh) | [Who](https://open.spotify.com/album/4mV8P8lGIWFFlrYlPc94Wz) | 2:57 |
-| 4 | [Onyx](https://open.spotify.com/track/5vPIHZrhWQV4bJvEvMOdwa) | [Esmeralda Torres](https://open.spotify.com/artist/3bT8Meiw5qtuGhtYozTWOp) | [Onyx](https://open.spotify.com/album/3xxdEs2WfbfsP14dXWdzEN) | 2:45 |
+| 2 | [Onyx](https://open.spotify.com/track/5vPIHZrhWQV4bJvEvMOdwa) | [Esmeralda Torres](https://open.spotify.com/artist/3bT8Meiw5qtuGhtYozTWOp) | [Onyx](https://open.spotify.com/album/3xxdEs2WfbfsP14dXWdzEN) | 2:45 |
+| 3 | [España, Op\. 165: No\. 2, Tango \(Transcr\. for Guitar by Andrés Segovia\) \- Live at the Fundación Juan March](https://open.spotify.com/track/7ec7NpnONAYDLF3O1WHIPh) | [Isaac Albéniz](https://open.spotify.com/artist/4sbcjbyksdT4dJ5Lh0SvZp), [Ricardo Gallén](https://open.spotify.com/artist/1XlKgZWAWycE0gjpzMk4JT) | [Albéniz: España, Op\. 165: No\. 2, Tango](https://open.spotify.com/album/337JY60SklzcRsh9XSIoN9) | 2:45 |
+| 4 | [Who](https://open.spotify.com/track/4NDPR97nB1PuQ7773VK5WK) | [Mario Cabrera](https://open.spotify.com/artist/2jxGXKxdhbWgtylGviMHZh) | [Who](https://open.spotify.com/album/4mV8P8lGIWFFlrYlPc94Wz) | 2:57 |
 | 5 | [Day of the Dead](https://open.spotify.com/track/6xKZtSbSn7QQLROYGwIO8T) | [Esteban Delano](https://open.spotify.com/artist/1L2SxyOV2Cl8bHGXKDZOrN) | [Day of the Dead](https://open.spotify.com/album/5e492cFRPmZDkqkV70KEJp) | 2:12 |
 | 6 | [I Found the Day](https://open.spotify.com/track/50jkiTxHbEAi2h9wOZVbgE) | [Carl Fletcher](https://open.spotify.com/artist/6MJVrtr9vMYLrCv6y0ypzK) | [I Found the Day](https://open.spotify.com/album/3oWKbBZvbTsvf5rrgOQyMs) | 2:27 |
 | 7 | [For Chamela](https://open.spotify.com/track/0FMvC8A6rUM0y3iU9dI3rH) | [Will Harrison](https://open.spotify.com/artist/01vcSVQOpFHutiYq0lrBwt) | [El Invernadero](https://open.spotify.com/album/1e44e9HKQvfv1Jiru5pF2y) | 3:01 |
@@ -78,15 +78,14 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWX2SDPTiDbwL.md) - [plain]
 | 68 | [Ojos de las Estrellas](https://open.spotify.com/track/344A5rwFf9gOulZPp06C42) | [Jim Stubblefield Group](https://open.spotify.com/artist/5IVxPvKxyxwoWyF2wrQLcQ) | [Rhythm of the Heart](https://open.spotify.com/album/2DHi5UXErkRa6Wvbd9Dvtk) | 5:36 |
 | 69 | [Pureza](https://open.spotify.com/track/4TpElKeUtQ2JzMnajhWbMe) | [Rafael Riqueni](https://open.spotify.com/artist/5eye4DlE12OQi676MhZGM4) | [Pureza](https://open.spotify.com/album/6KHaXDnrVNVa2e2OpXk6Tp) | 4:19 |
 | 70 | [Solamente Uno](https://open.spotify.com/track/7lLSKsSdzjgh3ufVKfg8oR) | [Guitarra Azul](https://open.spotify.com/artist/6demanG8RKIBV6LMmG4ihD) | [Mariposa](https://open.spotify.com/album/56J6y4rTg2rg1uNtjXsge9) | 3:51 |
-| 71 | [Dos Cruces](https://open.spotify.com/track/40yYzeImyqUkNcz0Fh7bVj) | [Chico García](https://open.spotify.com/artist/4VLWmHZ11JhQafEaw0GSlK) | [Guitarra Española \- Pasion Latina Vol.3 \(Spanish Guitar \- Latin Passion\)](https://open.spotify.com/album/1vzaRM0Jm4sHyAuqZCNx6e) | 2:52 |
-| 72 | [Corazón De Piedra](https://open.spotify.com/track/3odjYqGY9KdsTazd5fdwrt) | [Combo Cadre](https://open.spotify.com/artist/1vnozJqhOSx4kvl9sMGZML) | [Corazón De Piedra](https://open.spotify.com/album/3jTZyRV27S9r7DpMd9WW69) | 2:18 |
-| 73 | [Soleares](https://open.spotify.com/track/7GYEJQZPPt9jVCMzJM1qJA) | [Vincenzo Martinelli](https://open.spotify.com/artist/5RQtQllQERLUL3Wi4VCIQs) | [Vincenzo Martinelli](https://open.spotify.com/album/5EjwkgmYCKxHHfFDO8DMKo) | 3:32 |
-| 74 | [La Moraima](https://open.spotify.com/track/6JLjGnfzm03NxkmQCQSIyv) | [Rafa El Tachuela](https://open.spotify.com/artist/1VPNobfvjhHDuXbyJyynTk) | [Best of Rafa El Tachuela: Flamenco](https://open.spotify.com/album/6Of0l7qLCVmY3Kgfuc6san) | 3:55 |
-| 75 | [Classical Soul \- Edit](https://open.spotify.com/track/6VikkvVbmoCkufv4bLrdkZ) | [Oscar Lopez](https://open.spotify.com/artist/3ELktghnE5zeabnHdNycyh) | [Flashback \(The Best Of Oscar Lopez\)](https://open.spotify.com/album/0fe1xqfhH0roo28qiJ7UvD) | 2:55 |
-| 76 | [Danza de la Luna Nueva](https://open.spotify.com/track/4nc2FlzwqTahLALHwLTziW) | [Saro Tribastone](https://open.spotify.com/artist/4eCn888f7lVBtW0aTgRtab) | [Fanusa](https://open.spotify.com/album/10PDcyCeLSjsNQGBAC9WI8) | 3:17 |
-| 77 | [Armando's Market](https://open.spotify.com/track/5UPAXt1seYfboXQnCtfmp9) | [Robert Michaels](https://open.spotify.com/artist/5oMvKfHAyoVcXM1TkmXw2I) | [Allegro](https://open.spotify.com/album/3fyihTZwvK90KJfDrt0OlF) | 4:25 |
-| 78 | [Inolvidable](https://open.spotify.com/track/5APbR5HgGEgthIoJANMoJI) | [Guitarras de Luna](https://open.spotify.com/artist/0SBE5mcdSjhXgCBmWREiFh) | [Grandes Exitos del Sol](https://open.spotify.com/album/5dNZmdBj1zl3zu5LBdvf8D) | 4:02 |
-| 79 | [Una limosna por el amor de Dios](https://open.spotify.com/track/3zbnFohXXSHXve2oxxdATz) | [WarmHugs](https://open.spotify.com/artist/5aHt1vFcN24nd7PlZdzDGI) | [Una limosna por el amor de Dios](https://open.spotify.com/album/0inCL4j2ZIcg7SXi1g8FY8) | 3:18 |
-| 80 | [The Endless Dance](https://open.spotify.com/track/5PjuqD0vCX5GhDX0POF1td) | [Jason Carter](https://open.spotify.com/artist/3i8UqBUlpr6tMmD71XPjS1) | [Carter, Jason: Contemporary Spanish Guitar](https://open.spotify.com/album/0haIe7968D1EoweMZC4qrv) | 9:02 |
+| 71 | [Corazón De Piedra](https://open.spotify.com/track/3odjYqGY9KdsTazd5fdwrt) | [Combo Cadre](https://open.spotify.com/artist/1vnozJqhOSx4kvl9sMGZML) | [Corazón De Piedra](https://open.spotify.com/album/3jTZyRV27S9r7DpMd9WW69) | 2:18 |
+| 72 | [Soleares](https://open.spotify.com/track/7GYEJQZPPt9jVCMzJM1qJA) | [Vincenzo Martinelli](https://open.spotify.com/artist/5RQtQllQERLUL3Wi4VCIQs) | [Vincenzo Martinelli](https://open.spotify.com/album/5EjwkgmYCKxHHfFDO8DMKo) | 3:32 |
+| 73 | [La Moraima](https://open.spotify.com/track/6JLjGnfzm03NxkmQCQSIyv) | [Rafa El Tachuela](https://open.spotify.com/artist/1VPNobfvjhHDuXbyJyynTk) | [Best of Rafa El Tachuela: Flamenco](https://open.spotify.com/album/6Of0l7qLCVmY3Kgfuc6san) | 3:55 |
+| 74 | [Classical Soul \- Edit](https://open.spotify.com/track/6VikkvVbmoCkufv4bLrdkZ) | [Oscar Lopez](https://open.spotify.com/artist/3ELktghnE5zeabnHdNycyh) | [Flashback \(The Best Of Oscar Lopez\)](https://open.spotify.com/album/0fe1xqfhH0roo28qiJ7UvD) | 2:55 |
+| 75 | [Danza de la Luna Nueva](https://open.spotify.com/track/4nc2FlzwqTahLALHwLTziW) | [Saro Tribastone](https://open.spotify.com/artist/4eCn888f7lVBtW0aTgRtab) | [Fanusa](https://open.spotify.com/album/10PDcyCeLSjsNQGBAC9WI8) | 3:17 |
+| 76 | [Armando's Market](https://open.spotify.com/track/5UPAXt1seYfboXQnCtfmp9) | [Robert Michaels](https://open.spotify.com/artist/5oMvKfHAyoVcXM1TkmXw2I) | [Allegro](https://open.spotify.com/album/3fyihTZwvK90KJfDrt0OlF) | 4:25 |
+| 77 | [Inolvidable](https://open.spotify.com/track/5APbR5HgGEgthIoJANMoJI) | [Guitarras de Luna](https://open.spotify.com/artist/0SBE5mcdSjhXgCBmWREiFh) | [Grandes Exitos del Sol](https://open.spotify.com/album/5dNZmdBj1zl3zu5LBdvf8D) | 4:02 |
+| 78 | [Una limosna por el amor de Dios](https://open.spotify.com/track/3zbnFohXXSHXve2oxxdATz) | [WarmHugs](https://open.spotify.com/artist/5aHt1vFcN24nd7PlZdzDGI) | [Una limosna por el amor de Dios](https://open.spotify.com/album/0inCL4j2ZIcg7SXi1g8FY8) | 3:18 |
+| 79 | [The Endless Dance](https://open.spotify.com/track/5PjuqD0vCX5GhDX0POF1td) | [Jason Carter](https://open.spotify.com/artist/3i8UqBUlpr6tMmD71XPjS1) | [Carter, Jason: Contemporary Spanish Guitar](https://open.spotify.com/album/0haIe7968D1EoweMZC4qrv) | 9:02 |
 
-Snapshot ID: `AAAAAD48nMFwCX0LXIKECAuHMefnF1Yl`
+Snapshot ID: `AAAAAOwERZl1WVM8nXYr3/Df+gGD9MZ4`

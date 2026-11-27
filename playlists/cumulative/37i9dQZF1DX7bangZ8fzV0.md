@@ -4,7 +4,7 @@
 
 > Net die beste Afrikaanse musiek! Omslag: Brendan Peyper
 
-422 songs - 23 hr 15 min
+423 songs - 23 hr 18 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -153,12 +153,13 @@
 | [Help 'n Bietjie](https://open.spotify.com/track/7ITFyeRy9nJZQPqKtJvAN4) | [Wentzel](https://open.spotify.com/artist/0StQwxwrKk0iUBg0u0YF9C) | [Help 'n Bietjie](https://open.spotify.com/album/4WLars8ByBjJCieOdg3ZRJ) | 3:18 | 2025-03-20 | 2026-01-02 |
 | [Hemel Op Tafelberg](https://open.spotify.com/track/2qXMMOyrVGWjFVlELz0r7P) | [Kurt Darren](https://open.spotify.com/artist/3fFoaTI85WuaVkSMUxeYRd), [Spoegwolf](https://open.spotify.com/artist/6o4TnAxiqaQfZMLl55NFdn) | [Hemel Op Tafelberg](https://open.spotify.com/album/2yCjrIoLIw0v350IBQIODH) | 3:44 | 2026-04-30 | 2026-09-25 |
 | [Het Jy Iemand](https://open.spotify.com/track/6nxrtUmq5aNJlLef0zwKOP) | [Ollyvans](https://open.spotify.com/artist/5mUamRbK8IVMSh1fr8OzWq), [Tasché](https://open.spotify.com/artist/0wRKymJElTHOM1zCZuGspN) | [Het Jy Iemand](https://open.spotify.com/album/0bVTa1xvnoVMRABEvcBPW2) | 2:47 | 2025-06-13 |  |
-| [Heuning](https://open.spotify.com/track/6LhKKGotrMu24Ju93T1jhi) | [Winter Hotel](https://open.spotify.com/artist/0c7Ht8PeXWlU3SzZxJHuFy) | [Heuning](https://open.spotify.com/album/6mM1yusB6FEJDpkO0VzDiF) | 3:26 | 2026-08-24 |  |
+| [Heuning](https://open.spotify.com/track/6LhKKGotrMu24Ju93T1jhi) | [Winter Hotel](https://open.spotify.com/artist/0c7Ht8PeXWlU3SzZxJHuFy) | [Heuning](https://open.spotify.com/album/6mM1yusB6FEJDpkO0VzDiF) | 3:26 | 2026-08-24 | 2026-11-27 |
 | [Heupe](https://open.spotify.com/track/5UhybGE85NzDTmrXz1gcQ0) | [ONS](https://open.spotify.com/artist/49NkWWXM4QGYMhiiZCCtNb) | [Heupe](https://open.spotify.com/album/49NkCYYnGzIXaSVPJGmG4k) | 2:16 | 2026-11-05 |  |
 | [Hey Jy](https://open.spotify.com/track/0xjkqCaJ1EbdcFUz9rnoCI) | [Rooksein](https://open.spotify.com/artist/0TX0T9VkzOTEjsdzi1a4nT) | [Hey Jy](https://open.spotify.com/album/3c1a2CHREGxoqHBU8ml7nC) | 3:20 | 2023-08-03 | 2023-11-03 |
 | [Hey Sonneblom](https://open.spotify.com/track/4vyQOF8wGtDV6eHsOqWaCG) | [Droomsindroom](https://open.spotify.com/artist/36P4zQxOGCSabr44bXS8kW) | [Hey Sonneblom](https://open.spotify.com/album/4aYcdeTwgsJB1jjV8MON1e) | 3:30 | 2022-08-02 | 2024-05-10 |
 | [Hier Gaat Ons Alweer](https://open.spotify.com/track/1zkDzC92Zb1KUSTa2Rumqv) | [Pieter Koen](https://open.spotify.com/artist/42MoeGwwUSE0x4u9PHvSif) | [Hier Gaat Ons Alweer](https://open.spotify.com/album/2mpRZxyifeulCZI1lmBBT3) | 3:14 | 2022-10-06 | 2022-11-04 |
 | [Hoe Nou?](https://open.spotify.com/track/5woFmhSriTtpjYcaho6Ici) | [Die Heuwels Fantasties](https://open.spotify.com/artist/0FrkoXLOCHCWfMXw10Apxb), [Die Piesangskille](https://open.spotify.com/artist/0ziQukaJM4x6Wgus61oFrS), [Johan Viljoen](https://open.spotify.com/artist/5sLYgGnmf2ra6V7hLHbvG8) | [Hoe Nou?](https://open.spotify.com/album/0V6lrn2sG7eTXkJitsPjDC) | 2:59 | 2025-04-24 | 2026-11-06 |
+| [Hoekom Nie?](https://open.spotify.com/track/5Ug7HbeDAT7LbW53NomWna) | [Demi Lee Moore](https://open.spotify.com/artist/2RJteaG1GUmH9lQVczVkpp) | [Hoekom Nie?](https://open.spotify.com/album/4vyLGMy9ewdiCoDexHA3t6) | 3:00 | 2026-11-26 |  |
 | [Hokaai Stoppie Lorrie \(2025\)](https://open.spotify.com/track/7JAeat2cwKKMDKlkPvwqX4) | [Ray Dylan](https://open.spotify.com/artist/6eUxX7dCHCaXNNMvYtBhxY) | [Hokaai Stoppie Lorrie \(2025\)](https://open.spotify.com/album/2HnDPFI8Zur8DQ1KetiuHK) | 3:20 | 2025-06-05 | 2025-08-02 |
 | [Hop Hop Spinnekop](https://open.spotify.com/track/4NG32lh3Z2wHxrDptfiQd3) | [Kurt Darren](https://open.spotify.com/artist/3fFoaTI85WuaVkSMUxeYRd) | [100%](https://open.spotify.com/album/2axcE5ad6XVpFn0Szm2auS) | 3:00 | 2024-11-14 | 2026-09-25 |
 | [Hou Bene Hou](https://open.spotify.com/track/3OtXZRDaPgr9w3NO84Um3X) | [Nolene](https://open.spotify.com/artist/6GvYG4rpoXG56VwBYbKi6o) | [Hou Bene Hou](https://open.spotify.com/album/4kmNdny53K7oNhsJHAliYl) | 3:35 | 2024-04-26 | 2024-07-05 |

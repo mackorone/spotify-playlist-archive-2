@@ -1,15 +1,15 @@
 {
   "description": "Enjoy exclusive live performance videos from K-Pop artists produced by Spotify! (\uc2a4\ud3ec\ud2f0\ud30c\uc774\uac00 \ud504\ub85c\ub4c0\uc2f1\ud55c \ucf00\uc774\ud31d \uc544\ud2f0\uc2a4\ud2b8\ub4e4\uc758 \ud2b9\ubcc4\ud55c \ub77c\uc774\ube0c \ud37c\ud3ec\uba3c\uc2a4 \ube44\ub514\uc624\ub97c \uc990\uaca8\ubcf4\uc138\uc694!)",
-  "num_followers": 1550,
+  "num_followers": 1549,
   "original_name": "K-Pop Performance Video by Spotify",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAPRwhcTLg+v4oUo6WnRLT8KR7UpM",
+  "snapshot_id": "AAAAAC0uTB56wcLUnERpYz6Fos7PF1BA",
   "tracks": [
     {
-      "added_at": "2026-06-19 09:00:10",
+      "added_at": "2026-11-27 05:00:47",
       "album": {
         "name": "Merry Go Round",
         "url": "https://open.spotify.com/album/3xExm6422LDtFkZdkKblyo"
@@ -25,7 +25,831 @@
       "url": "https://open.spotify.com/track/6t4JEAfgl8oVJUASyxzptH"
     },
     {
-      "added_at": "2026-06-19 09:00:10",
+      "added_at": "2026-11-27 05:00:47",
+      "album": {
+        "name": "Bananas - Live at Spotify CLOSER",
+        "url": "https://open.spotify.com/album/4grRr7z6jcqPGK1tryHOlN"
+      },
+      "artists": [
+        {
+          "name": "LNGSHOT",
+          "url": "https://open.spotify.com/artist/2F4oTJOWkcD1JaTeKEa9h6"
+        }
+      ],
+      "duration_ms": 174186,
+      "name": "Bananas - Live at Spotify CLOSER",
+      "url": "https://open.spotify.com/track/1za4WotxuLwmjMqFjJIhME"
+    },
+    {
+      "added_at": "2026-11-27 05:00:47",
+      "album": {
+        "name": "Bananas (Live at Spotify CLOSER)",
+        "url": "https://open.spotify.com/album/6hVm3sGfQMdR6viprv9ChD"
+      },
+      "artists": [
+        {
+          "name": "LNGSHOT",
+          "url": "https://open.spotify.com/artist/2F4oTJOWkcD1JaTeKEa9h6"
+        }
+      ],
+      "duration_ms": 174186,
+      "name": "Bananas - Live at Spotify CLOSER",
+      "url": "https://open.spotify.com/track/1qfIdCic85upejQsrMg4qa"
+    },
+    {
+      "added_at": "2026-11-27 05:00:47",
+      "album": {
+        "name": "Masterpiece - Live at Spotify CLOSER",
+        "url": "https://open.spotify.com/album/42SxKmlReDixL4Z3GdUz8v"
+      },
+      "artists": [
+        {
+          "name": "LNGSHOT",
+          "url": "https://open.spotify.com/artist/2F4oTJOWkcD1JaTeKEa9h6"
+        }
+      ],
+      "duration_ms": 180351,
+      "name": "Masterpiece - Live at Spotify CLOSER",
+      "url": "https://open.spotify.com/track/53aCPyy4DhdmVpIyzdAGJL"
+    },
+    {
+      "added_at": "2026-11-27 05:00:47",
+      "album": {
+        "name": "Masterpiece (Live at Spotify CLOSER)",
+        "url": "https://open.spotify.com/album/25ly4TZbtM8M941eC4RVdy"
+      },
+      "artists": [
+        {
+          "name": "LNGSHOT",
+          "url": "https://open.spotify.com/artist/2F4oTJOWkcD1JaTeKEa9h6"
+        }
+      ],
+      "duration_ms": 180351,
+      "name": "Masterpiece - Live at Spotify CLOSER",
+      "url": "https://open.spotify.com/track/4uTaFM3JMwk9Gse3m3ENyd"
+    },
+    {
+      "added_at": "2026-11-27 05:00:47",
+      "album": {
+        "name": "Beep Beep - Live at Spotify CLOSER",
+        "url": "https://open.spotify.com/album/032C7vzZ8hcb5b3NJ0MO94"
+      },
+      "artists": [
+        {
+          "name": "LNGSHOT",
+          "url": "https://open.spotify.com/artist/2F4oTJOWkcD1JaTeKEa9h6"
+        }
+      ],
+      "duration_ms": 202090,
+      "name": "Beep Beep - Live at Spotify CLOSER",
+      "url": "https://open.spotify.com/track/1Xh4oZRXKfiIMi1mNi6F3b"
+    },
+    {
+      "added_at": "2026-11-27 05:00:47",
+      "album": {
+        "name": "Beep Beep (Live at Spotify CLOSER)",
+        "url": "https://open.spotify.com/album/1yXsQ8dY1ojadTMw7RJDGv"
+      },
+      "artists": [
+        {
+          "name": "LNGSHOT",
+          "url": "https://open.spotify.com/artist/2F4oTJOWkcD1JaTeKEa9h6"
+        }
+      ],
+      "duration_ms": 202090,
+      "name": "Beep Beep - Live at Spotify CLOSER",
+      "url": "https://open.spotify.com/track/72aFtSkD7nK4xpdovBBMaz"
+    },
+    {
+      "added_at": "2026-11-27 05:00:47",
+      "album": {
+        "name": "BANG BANG - Spotify DIVE ACADEMY LIVE - IVE",
+        "url": "https://open.spotify.com/album/1k0ffUAHcXNlfwaGcyZMwO"
+      },
+      "artists": [
+        {
+          "name": "IVE",
+          "url": "https://open.spotify.com/artist/6RHTUrRF63xao58xh9FXYJ"
+        }
+      ],
+      "duration_ms": 233322,
+      "name": "BANG BANG - Spotify DIVE ACADEMY LIVE - IVE",
+      "url": "https://open.spotify.com/track/7HKGv4dZk2nDwpjdrrw0Kz"
+    },
+    {
+      "added_at": "2026-11-27 05:00:47",
+      "album": {
+        "name": "BANG BANG - Spotify DIVE ACADEMY LIVE - IVE",
+        "url": "https://open.spotify.com/album/50xI7GZlbAyuuDPFHOSqh5"
+      },
+      "artists": [
+        {
+          "name": "IVE",
+          "url": "https://open.spotify.com/artist/6RHTUrRF63xao58xh9FXYJ"
+        }
+      ],
+      "duration_ms": 232649,
+      "name": "BANG BANG - Spotify DIVE ACADEMY LIVE - IVE",
+      "url": "https://open.spotify.com/track/7jXyUUGjZPw6WNbJiiGsII"
+    },
+    {
+      "added_at": "2026-11-27 05:00:47",
+      "album": {
+        "name": "LOVE DIVE - Spotify DIVE ACADEMY LIVE - IVE",
+        "url": "https://open.spotify.com/album/1vv7Vm51fzRNmXc2FdXqmV"
+      },
+      "artists": [
+        {
+          "name": "IVE",
+          "url": "https://open.spotify.com/artist/6RHTUrRF63xao58xh9FXYJ"
+        }
+      ],
+      "duration_ms": 180565,
+      "name": "LOVE DIVE - Spotify DIVE ACADEMY LIVE - IVE",
+      "url": "https://open.spotify.com/track/1aCpEvtooVn7nIq8HEajlv"
+    },
+    {
+      "added_at": "2026-11-27 05:00:47",
+      "album": {
+        "name": "LOVE DIVE - Spotify DIVE ACADEMY LIVE - IVE",
+        "url": "https://open.spotify.com/album/0wCk1IPpqtRtw7PJXv0b74"
+      },
+      "artists": [
+        {
+          "name": "IVE",
+          "url": "https://open.spotify.com/artist/6RHTUrRF63xao58xh9FXYJ"
+        }
+      ],
+      "duration_ms": 179846,
+      "name": "LOVE DIVE - Spotify DIVE ACADEMY LIVE - IVE",
+      "url": "https://open.spotify.com/track/40IGhsVgPmsyMrIKG37yIc"
+    },
+    {
+      "added_at": "2026-11-27 05:00:47",
+      "album": {
+        "name": "XOXZ - Spotify DIVE ACADEMY LIVE - IVE",
+        "url": "https://open.spotify.com/album/5Advo50ei9fjXvscFIEhLh"
+      },
+      "artists": [
+        {
+          "name": "IVE",
+          "url": "https://open.spotify.com/artist/6RHTUrRF63xao58xh9FXYJ"
+        }
+      ],
+      "duration_ms": 158677,
+      "name": "XOXZ - Spotify DIVE ACADEMY LIVE - IVE",
+      "url": "https://open.spotify.com/track/21H6fJg6pjgsd4rrtvkWE7"
+    },
+    {
+      "added_at": "2026-11-27 05:00:47",
+      "album": {
+        "name": "XOXZ - Spotify DIVE ACADEMY LIVE - IVE",
+        "url": "https://open.spotify.com/album/3q7NDH4w6ZIFgsThU1c6Tq"
+      },
+      "artists": [
+        {
+          "name": "IVE",
+          "url": "https://open.spotify.com/artist/6RHTUrRF63xao58xh9FXYJ"
+        }
+      ],
+      "duration_ms": 157949,
+      "name": "XOXZ - Spotify DIVE ACADEMY LIVE - IVE",
+      "url": "https://open.spotify.com/track/0zgx4KgQeItaeTFB7X8dC1"
+    },
+    {
+      "added_at": "2026-11-27 05:00:47",
+      "album": {
+        "name": "REBEL HEART - Spotify DIVE ACADEMY LIVE - IVE",
+        "url": "https://open.spotify.com/album/67izL5b9uNBMUeKzX3vgzb"
+      },
+      "artists": [
+        {
+          "name": "IVE",
+          "url": "https://open.spotify.com/artist/6RHTUrRF63xao58xh9FXYJ"
+        }
+      ],
+      "duration_ms": 188373,
+      "name": "REBEL HEART - Spotify DIVE ACADEMY LIVE - IVE",
+      "url": "https://open.spotify.com/track/2fvKsgu5jStedvZUDO7v6v"
+    },
+    {
+      "added_at": "2026-11-27 05:00:47",
+      "album": {
+        "name": "REBEL HEART - Spotify DIVE ACADEMY LIVE - IVE",
+        "url": "https://open.spotify.com/album/3DOD0Y3GzgSza1vZEaLLNp"
+      },
+      "artists": [
+        {
+          "name": "IVE",
+          "url": "https://open.spotify.com/artist/6RHTUrRF63xao58xh9FXYJ"
+        }
+      ],
+      "duration_ms": 187312,
+      "name": "REBEL HEART - Spotify DIVE ACADEMY LIVE - IVE",
+      "url": "https://open.spotify.com/track/12KRbeqTYBAgsOurJ6WxxP"
+    },
+    {
+      "added_at": "2026-11-27 05:00:47",
+      "album": {
+        "name": "Looks Can Kill - Spotify DIVE ACADEMY LIVE - IVE",
+        "url": "https://open.spotify.com/album/0oexICyu99OSoyH9W7vEJC"
+      },
+      "artists": [
+        {
+          "name": "IVE",
+          "url": "https://open.spotify.com/artist/6RHTUrRF63xao58xh9FXYJ"
+        }
+      ],
+      "duration_ms": 227562,
+      "name": "Looks Can Kill - Spotify DIVE ACADEMY LIVE - IVE",
+      "url": "https://open.spotify.com/track/2TU3bAfxfJvOUQbpoYNzch"
+    },
+    {
+      "added_at": "2026-11-27 05:00:47",
+      "album": {
+        "name": "Looks Can Kill - Spotify DIVE ACADEMY LIVE - IVE",
+        "url": "https://open.spotify.com/album/5YkXc7OMSimiCVBTOgq9nK"
+      },
+      "artists": [
+        {
+          "name": "IVE",
+          "url": "https://open.spotify.com/artist/6RHTUrRF63xao58xh9FXYJ"
+        }
+      ],
+      "duration_ms": 225282,
+      "name": "Looks Can Kill - Spotify DIVE ACADEMY LIVE - IVE",
+      "url": "https://open.spotify.com/track/5aQzVYFjWBEEyvjgpMelKe"
+    },
+    {
+      "added_at": "2026-11-27 05:00:47",
+      "album": {
+        "name": "Looks Can Kill - Spotify DIVE ACADEMY LIVE - IVE",
+        "url": "https://open.spotify.com/album/6UJb3LeNiD2RmkJXpONmF0"
+      },
+      "artists": [
+        {
+          "name": "IVE",
+          "url": "https://open.spotify.com/artist/6RHTUrRF63xao58xh9FXYJ"
+        }
+      ],
+      "duration_ms": 224704,
+      "name": "Looks Can Kill - Spotify DIVE ACADEMY LIVE - IVE",
+      "url": "https://open.spotify.com/track/5sgzQeyc9PNL3IEM06K5yl"
+    },
+    {
+      "added_at": "2026-11-27 05:00:47",
+      "album": {
+        "name": "Girls Girls Girls - Spotify DIVE ACADEMY LIVE - IVE",
+        "url": "https://open.spotify.com/album/34g0AEXpzDZATP3vPXuKK2"
+      },
+      "artists": [
+        {
+          "name": "IVE",
+          "url": "https://open.spotify.com/artist/6RHTUrRF63xao58xh9FXYJ"
+        }
+      ],
+      "duration_ms": 176234,
+      "name": "Girls Girls Girls - Spotify DIVE ACADEMY LIVE - IVE",
+      "url": "https://open.spotify.com/track/2tnWViGQOt0ihV62kdNaDx"
+    },
+    {
+      "added_at": "2026-11-27 05:00:47",
+      "album": {
+        "name": "Girls Girls Girls - Spotify DIVE ACADEMY LIVE - IVE",
+        "url": "https://open.spotify.com/album/1bRRWo28YjVC8g0DB7o3Wa"
+      },
+      "artists": [
+        {
+          "name": "IVE",
+          "url": "https://open.spotify.com/artist/6RHTUrRF63xao58xh9FXYJ"
+        }
+      ],
+      "duration_ms": 173932,
+      "name": "Girls Girls Girls - Spotify DIVE ACADEMY LIVE - IVE",
+      "url": "https://open.spotify.com/track/1LNVt5WZB1NptvoYtEuVdP"
+    },
+    {
+      "added_at": "2026-11-27 05:00:47",
+      "album": {
+        "name": "Girls Girls Girls - Spotify DIVE ACADEMY LIVE - IVE",
+        "url": "https://open.spotify.com/album/1pxgg8c1plJE50DMSDZtIv"
+      },
+      "artists": [
+        {
+          "name": "IVE",
+          "url": "https://open.spotify.com/artist/6RHTUrRF63xao58xh9FXYJ"
+        }
+      ],
+      "duration_ms": 173354,
+      "name": "Girls Girls Girls - Spotify DIVE ACADEMY LIVE - IVE",
+      "url": "https://open.spotify.com/track/4vjIgYm7drSUoBuRnV52zM"
+    },
+    {
+      "added_at": "2026-11-27 05:00:47",
+      "album": {
+        "name": "TALK - Live at Spotify CLOSER",
+        "url": "https://open.spotify.com/album/0VWzW7zhxdToZaIhtFULth"
+      },
+      "artists": [
+        {
+          "name": "ALLDAY PROJECT",
+          "url": "https://open.spotify.com/artist/4gEMn0YPOdotLOygnk0Ng2"
+        }
+      ],
+      "duration_ms": 180180,
+      "name": "TALK - Live at Spotify CLOSER",
+      "url": "https://open.spotify.com/track/419HtMJdoyVKR1IaMkKgOc"
+    },
+    {
+      "added_at": "2026-11-27 05:00:47",
+      "album": {
+        "name": "TALK - Live at Spotify CLOSER",
+        "url": "https://open.spotify.com/album/0h2ZVoFT1qXnokIZYELIVH"
+      },
+      "artists": [
+        {
+          "name": "ALLDAY PROJECT",
+          "url": "https://open.spotify.com/artist/4gEMn0YPOdotLOygnk0Ng2"
+        }
+      ],
+      "duration_ms": 180013,
+      "name": "TALK - Live at Spotify CLOSER",
+      "url": "https://open.spotify.com/track/2kNaEZHyqfFPhHDwRQFYLq"
+    },
+    {
+      "added_at": "2026-11-27 05:00:47",
+      "album": {
+        "name": "DO IT LIKE THIS - Live at Spotify CLOSER",
+        "url": "https://open.spotify.com/album/4MXRFSbTuW9XaCRSQxB1Yg"
+      },
+      "artists": [
+        {
+          "name": "ALLDAY PROJECT",
+          "url": "https://open.spotify.com/artist/4gEMn0YPOdotLOygnk0Ng2"
+        }
+      ],
+      "duration_ms": 146062,
+      "name": "DO IT LIKE THIS - Live at Spotify CLOSER",
+      "url": "https://open.spotify.com/track/5sB65ij4bejWXFqnNfa2v3"
+    },
+    {
+      "added_at": "2026-11-27 05:00:47",
+      "album": {
+        "name": "DO IT LIKE THIS - Live at Spotify CLOSER",
+        "url": "https://open.spotify.com/album/5LzG3p972mkz0re8RkpMxi"
+      },
+      "artists": [
+        {
+          "name": "ALLDAY PROJECT",
+          "url": "https://open.spotify.com/artist/4gEMn0YPOdotLOygnk0Ng2"
+        }
+      ],
+      "duration_ms": 145895,
+      "name": "DO IT LIKE THIS - Live at Spotify CLOSER",
+      "url": "https://open.spotify.com/track/6fZzebp1s5bmuuGAODFNIR"
+    },
+    {
+      "added_at": "2026-11-27 05:00:47",
+      "album": {
+        "name": "UP ALL NIGHT - Live at Spotify CLOSER",
+        "url": "https://open.spotify.com/album/2SWfHcEeHCb5NfnupHZuhI"
+      },
+      "artists": [
+        {
+          "name": "ALLDAY PROJECT",
+          "url": "https://open.spotify.com/artist/4gEMn0YPOdotLOygnk0Ng2"
+        }
+      ],
+      "duration_ms": 174257,
+      "name": "UP ALL NIGHT - Live at Spotify CLOSER",
+      "url": "https://open.spotify.com/track/4KaU41zBGNEkiig7b3Q6y6"
+    },
+    {
+      "added_at": "2026-11-27 05:00:47",
+      "album": {
+        "name": "UP ALL NIGHT - Live at Spotify CLOSER",
+        "url": "https://open.spotify.com/album/6P2kMdQ46CdvclEK1C1qdk"
+      },
+      "artists": [
+        {
+          "name": "ALLDAY PROJECT",
+          "url": "https://open.spotify.com/artist/4gEMn0YPOdotLOygnk0Ng2"
+        }
+      ],
+      "duration_ms": 174090,
+      "name": "UP ALL NIGHT - Live at Spotify CLOSER",
+      "url": "https://open.spotify.com/track/64GCTGLivflF67DTPkHrEx"
+    },
+    {
+      "added_at": "2026-11-27 05:00:47",
+      "album": {
+        "name": "ICONIC HEART (Korean Version) - Live at Spotify CLOSER",
+        "url": "https://open.spotify.com/album/571szO2V6u3lRe2vRElFVs"
+      },
+      "artists": [
+        {
+          "name": "Hearts2Hearts",
+          "url": "https://open.spotify.com/artist/1ZLU77nRzQIaP23mVSYpCQ"
+        }
+      ],
+      "duration_ms": 201216,
+      "name": "ICONIC HEART (Korean Version) - Live at Spotify CLOSER",
+      "url": "https://open.spotify.com/track/7L5WjtXxymeHZ2i9vaozoY"
+    },
+    {
+      "added_at": "2026-11-27 05:00:47",
+      "album": {
+        "name": "Baby Steps - Live at Spotify CLOSER",
+        "url": "https://open.spotify.com/album/37lng4y9qCkz3y81w3C66T"
+      },
+      "artists": [
+        {
+          "name": "Hearts2Hearts",
+          "url": "https://open.spotify.com/artist/1ZLU77nRzQIaP23mVSYpCQ"
+        }
+      ],
+      "duration_ms": 182144,
+      "name": "Baby Steps - Live at Spotify CLOSER",
+      "url": "https://open.spotify.com/track/0PQbMf5As78HnX0kHrW4H5"
+    },
+    {
+      "added_at": "2026-11-27 05:00:47",
+      "album": {
+        "name": "Butterflies - Live at Spotify CLOSER",
+        "url": "https://open.spotify.com/album/4JRXy3JgJ9ViA8itFPIoTt"
+      },
+      "artists": [
+        {
+          "name": "Hearts2Hearts",
+          "url": "https://open.spotify.com/artist/1ZLU77nRzQIaP23mVSYpCQ"
+        }
+      ],
+      "duration_ms": 197248,
+      "name": "Butterflies - Live at Spotify CLOSER",
+      "url": "https://open.spotify.com/track/3KnvjoYRFd8WUw5rnpRNLw"
+    },
+    {
+      "added_at": "2026-11-27 05:00:47",
+      "album": {
+        "name": "ROOTS - Spotify House Seoul 2026",
+        "url": "https://open.spotify.com/album/1mLPKkkBRGMFFAnl5j51Je"
+      },
+      "artists": [
+        {
+          "name": "Lil Moshpit",
+          "url": "https://open.spotify.com/artist/0tVSrjQ0NpDlecsJwGmrMy"
+        },
+        {
+          "name": "The Quiett",
+          "url": "https://open.spotify.com/artist/2qI1pO64eYqGUiv1XTw4cy"
+        },
+        {
+          "name": "Raf Sandou",
+          "url": "https://open.spotify.com/artist/4FBKTurCVdtC6Fq8mSQgj8"
+        },
+        {
+          "name": "CAMO",
+          "url": "https://open.spotify.com/artist/2YkhzcYyxJvtl5W6pY0PuF"
+        },
+        {
+          "name": "NOWIMYOUNG",
+          "url": "https://open.spotify.com/artist/66LxteaHD7NvxCnkQoyw2G"
+        },
+        {
+          "name": "HAON",
+          "url": "https://open.spotify.com/artist/2krUNMgFZYm5s4Nn0g91W9"
+        },
+        {
+          "name": "Tiger JK",
+          "url": "https://open.spotify.com/artist/11S00dFcvNvJahis8MTGMD"
+        },
+        {
+          "name": "Dynamicduo",
+          "url": "https://open.spotify.com/artist/4nvFFLtv7ZqoTr83387uK4"
+        }
+      ],
+      "duration_ms": 319902,
+      "name": "ROOTS - Spotify House Seoul 2026",
+      "url": "https://open.spotify.com/track/5UU7G36eCxab4Zs1cPCGbK"
+    },
+    {
+      "added_at": "2026-11-27 05:00:47",
+      "album": {
+        "name": "NAIL - Spotify House Seoul 2026",
+        "url": "https://open.spotify.com/album/3jcXZnjaCjrMy1RaFv5QHN"
+      },
+      "artists": [
+        {
+          "name": "Yves",
+          "url": "https://open.spotify.com/artist/6AkddQqEu75QRbsCo12zce"
+        },
+        {
+          "name": "Lolo Zoua\u00ef",
+          "url": "https://open.spotify.com/artist/2qDIR2WlcW3llkGqJWg9VJ"
+        }
+      ],
+      "duration_ms": 182570,
+      "name": "NAIL - Spotify House Seoul 2026",
+      "url": "https://open.spotify.com/track/6RMAqihFAkOODlkFgOA2Xd"
+    },
+    {
+      "added_at": "2026-11-27 05:00:47",
+      "album": {
+        "name": "Not But Disco - Spotify House Seoul 2026",
+        "url": "https://open.spotify.com/album/2J1Rab2OcozcKbA5TpRtRS"
+      },
+      "artists": [
+        {
+          "name": "KARDI",
+          "url": "https://open.spotify.com/artist/6v8xPUDPu5hQlu0GrYHyOE"
+        }
+      ],
+      "duration_ms": 243326,
+      "name": "Not But Disco - Spotify House Seoul 2026",
+      "url": "https://open.spotify.com/track/44C31h88OCrZhfiLgE0Vjq"
+    },
+    {
+      "added_at": "2026-11-27 05:00:47",
+      "album": {
+        "name": "Whenever - Spotify House Seoul 2026",
+        "url": "https://open.spotify.com/album/4MSG4SGScAjrJizWzgIiA5"
+      },
+      "artists": [
+        {
+          "name": "Raf Sandou",
+          "url": "https://open.spotify.com/artist/4FBKTurCVdtC6Fq8mSQgj8"
+        }
+      ],
+      "duration_ms": 166762,
+      "name": "Whenever - Spotify House Seoul 2026",
+      "url": "https://open.spotify.com/track/1x3vhdlmaTQ7djJ9vG3p7t"
+    },
+    {
+      "added_at": "2026-11-27 05:00:47",
+      "album": {
+        "name": "Wahssap - Spotify House Seoul 2026",
+        "url": "https://open.spotify.com/album/79HnSCBhDiSenq911Hx3V7"
+      },
+      "artists": [
+        {
+          "name": "Kid Milli",
+          "url": "https://open.spotify.com/artist/7IWshUcKfJyDWrbiF2XT8J"
+        },
+        {
+          "name": "MATTHEW",
+          "url": "https://open.spotify.com/artist/45bThv556KUNX5tJBTIKOU"
+        },
+        {
+          "name": "OKASHII",
+          "url": "https://open.spotify.com/artist/6Vs5u8gSzXsS1LPZhmXoiB"
+        },
+        {
+          "name": "Raf Sandou",
+          "url": "https://open.spotify.com/artist/4FBKTurCVdtC6Fq8mSQgj8"
+        },
+        {
+          "name": "Jeffrey White",
+          "url": "https://open.spotify.com/artist/2CzJxatdtHWmZzJf1iZZBi"
+        },
+        {
+          "name": "MASON HOME",
+          "url": "https://open.spotify.com/artist/6fUWivVaWaEgN2G0m7c0Wa"
+        }
+      ],
+      "duration_ms": 219979,
+      "name": "Wahssap - Spotify House Seoul 2026 - Live",
+      "url": "https://open.spotify.com/track/5yuogbzi3qraOM22Z4Oq4N"
+    },
+    {
+      "added_at": "2026-11-27 05:00:47",
+      "album": {
+        "name": "Go Back - Spotify House Seoul 2026",
+        "url": "https://open.spotify.com/album/4OqQ7D6mjRZa48aaRzy0Pr"
+      },
+      "artists": [
+        {
+          "name": "Dynamicduo",
+          "url": "https://open.spotify.com/artist/4nvFFLtv7ZqoTr83387uK4"
+        }
+      ],
+      "duration_ms": 158912,
+      "name": "Go Back - Spotify House Seoul 2026",
+      "url": "https://open.spotify.com/track/1PPi11OL2HDML6phAcILbZ"
+    },
+    {
+      "added_at": "2026-11-27 05:00:47",
+      "album": {
+        "name": "Postpink-Spotify House Seoul 2026",
+        "url": "https://open.spotify.com/album/4BhurEvdHpE5dbITaQ7vO4"
+      },
+      "artists": [
+        {
+          "name": "Silica Gel",
+          "url": "https://open.spotify.com/artist/2kxVxKOgoefmgkwoHipHsn"
+        }
+      ],
+      "duration_ms": 246705,
+      "name": "Postpink-Spotify House Seoul 2026",
+      "url": "https://open.spotify.com/track/3HRY9masI72ymI1bkciC6X"
+    },
+    {
+      "added_at": "2026-11-27 05:00:47",
+      "album": {
+        "name": "Postpink-Spotify House Seoul 2026",
+        "url": "https://open.spotify.com/album/35WFScrRPlTPMIhOavlCKd"
+      },
+      "artists": [
+        {
+          "name": "Silica Gel",
+          "url": "https://open.spotify.com/artist/2kxVxKOgoefmgkwoHipHsn"
+        }
+      ],
+      "duration_ms": 246704,
+      "name": "Postpink-Spotify House Seoul 2026",
+      "url": "https://open.spotify.com/track/2SEYUbWv9Enar4CMBN2rLO"
+    },
+    {
+      "added_at": "2026-11-27 05:00:47",
+      "album": {
+        "name": "LOVE ATTACK - Spotify House Seoul 2026",
+        "url": "https://open.spotify.com/album/3ozl4CL7mdYuiFYBz4Lcox"
+      },
+      "artists": [
+        {
+          "name": "RESCENE",
+          "url": "https://open.spotify.com/artist/5deOsjuFTKrNMJW3rKuL8S"
+        }
+      ],
+      "duration_ms": 202285,
+      "name": "LOVE ATTACK - Spotify House Seoul 2026",
+      "url": "https://open.spotify.com/track/3z1xzmOUXV8m3EvssboawC"
+    },
+    {
+      "added_at": "2026-11-27 05:00:47",
+      "album": {
+        "name": "KoK-Spotify House Seoul 2026",
+        "url": "https://open.spotify.com/album/1Yksvffti1abVGFNsH59td"
+      },
+      "artists": [
+        {
+          "name": "HYUKOH",
+          "url": "https://open.spotify.com/artist/57okaLdCtv3nVBSn5otJkp"
+        }
+      ],
+      "duration_ms": 528120,
+      "name": "KoK-Spotify House Seoul 2026",
+      "url": "https://open.spotify.com/track/2UoaQGYfYfeNTkgb4SLzsP"
+    },
+    {
+      "added_at": "2026-11-27 05:00:47",
+      "album": {
+        "name": "take it anymore - Spotify House Seoul 2026",
+        "url": "https://open.spotify.com/album/0wLstRWtfsAThS3yHD16kg"
+      },
+      "artists": [
+        {
+          "name": "can't be blue",
+          "url": "https://open.spotify.com/artist/32mluwkanSuuM3hm3d3Fh5"
+        }
+      ],
+      "duration_ms": 255305,
+      "name": "take it anymore - Spotify House Seoul 2026",
+      "url": "https://open.spotify.com/track/4O29UT1mgpnsNwKSLEvVRh"
+    },
+    {
+      "added_at": "2026-11-27 05:00:47",
+      "album": {
+        "name": "Yarrr - Spotify House Seoul 2026",
+        "url": "https://open.spotify.com/album/16m9MshFjqm6kDftE9cJsW"
+      },
+      "artists": [
+        {
+          "name": "HAON",
+          "url": "https://open.spotify.com/artist/2krUNMgFZYm5s4Nn0g91W9"
+        }
+      ],
+      "duration_ms": 107029,
+      "name": "Yarrr - Spotify House Seoul 2026",
+      "url": "https://open.spotify.com/track/1yKBIZGBU4JNqXX3ONTeC0"
+    },
+    {
+      "added_at": "2026-11-27 05:00:47",
+      "album": {
+        "name": "KOLOK COLOK - Spotify House Seoul 2026",
+        "url": "https://open.spotify.com/album/0aRdFs6Ek8MiyPr0txFKiJ"
+      },
+      "artists": [
+        {
+          "name": "NOWIMYOUNG",
+          "url": "https://open.spotify.com/artist/66LxteaHD7NvxCnkQoyw2G"
+        }
+      ],
+      "duration_ms": 110826,
+      "name": "KOLOK COLOK - Spotify House Seoul 2026",
+      "url": "https://open.spotify.com/track/1PGkr29ARJCIQaXyzwY2Yo"
+    },
+    {
+      "added_at": "2026-11-27 05:00:47",
+      "album": {
+        "name": "Do your dance-Spotify House Seoul 2026",
+        "url": "https://open.spotify.com/album/2BDTRiM9x9MtUi9idSWILV"
+      },
+      "artists": [
+        {
+          "name": "RIIZE",
+          "url": "https://open.spotify.com/artist/2jOm3cYujQx6o1dxuiuqaX"
+        }
+      ],
+      "duration_ms": 194837,
+      "name": "Do your dance-Spotify House Seoul 2026",
+      "url": "https://open.spotify.com/track/2LOAmah82wn5RBs5jN8o87"
+    },
+    {
+      "added_at": "2026-11-27 05:00:47",
+      "album": {
+        "name": "Do your dance-Spotify House Seoul 2026",
+        "url": "https://open.spotify.com/album/31FDuP6eLJMAu6udFQLOdC"
+      },
+      "artists": [
+        {
+          "name": "RIIZE",
+          "url": "https://open.spotify.com/artist/2jOm3cYujQx6o1dxuiuqaX"
+        }
+      ],
+      "duration_ms": 196913,
+      "name": "Do your dance-Spotify House Seoul 2026",
+      "url": "https://open.spotify.com/track/1ysJjrAVBTtHKcyAkSg68c"
+    },
+    {
+      "added_at": "2026-11-27 05:00:47",
+      "album": {
+        "name": "Do your dance (Spotify House Seoul 2026)",
+        "url": "https://open.spotify.com/album/2bgoC7kpJjCCDxJvKIgw9W"
+      },
+      "artists": [
+        {
+          "name": "RIIZE",
+          "url": "https://open.spotify.com/artist/2jOm3cYujQx6o1dxuiuqaX"
+        }
+      ],
+      "duration_ms": 195328,
+      "name": "Do your dance - Spotify House Seoul 2026",
+      "url": "https://open.spotify.com/track/2l97mjAbdH2FviwRace57a"
+    },
+    {
+      "added_at": "2026-11-27 05:00:47",
+      "album": {
+        "name": "LEGEND - Spotify House Seoul 2026",
+        "url": "https://open.spotify.com/album/64NM9tNz4uaiGdeIdBKoch"
+      },
+      "artists": [
+        {
+          "name": "JANNABI",
+          "url": "https://open.spotify.com/artist/2SY6OktZyMLdOnscX3DCyS"
+        }
+      ],
+      "duration_ms": 293001,
+      "name": "LEGEND - Spotify House Seoul 2026",
+      "url": "https://open.spotify.com/track/6vwtsAbrQuylF7H1qwRh9O"
+    },
+    {
+      "added_at": "2026-11-27 05:00:47",
+      "album": {
+        "name": "2 Chainz & Rollies 2026 - Spotify House Seoul 2026",
+        "url": "https://open.spotify.com/album/6pX1PVbhuNl5ukBWF1Xm1G"
+      },
+      "artists": [
+        {
+          "name": "The Quiett",
+          "url": "https://open.spotify.com/artist/2qI1pO64eYqGUiv1XTw4cy"
+        }
+      ],
+      "duration_ms": 195570,
+      "name": "2 Chainz & Rollies 2026 - Spotify House Seoul 2026",
+      "url": "https://open.spotify.com/track/5QwnfqsQ2Q19d5ERFjvsEU"
+    },
+    {
+      "added_at": "2026-11-27 05:00:47",
+      "album": {
+        "name": "Let Me Love You - Spotify House Seoul 2026",
+        "url": "https://open.spotify.com/album/3Rdsci2VdjUAJDoqGYJeUs"
+      },
+      "artists": [
+        {
+          "name": "Tiger JK",
+          "url": "https://open.spotify.com/artist/11S00dFcvNvJahis8MTGMD"
+        },
+        {
+          "name": "YOON MIRAE",
+          "url": "https://open.spotify.com/artist/1Do4bSzfUl0KWL9r1fITu0"
+        }
+      ],
+      "duration_ms": 195153,
+      "name": "Let Me Love You - Spotify House Seoul 2026",
+      "url": "https://open.spotify.com/track/6gZEDYogAosSh4V7yXSSM8"
+    },
+    {
+      "added_at": "2026-11-27 05:00:47",
       "album": {
         "name": "CRAZY (at PURE FLOWERS LIVE) l Presented by Spotify",
         "url": "https://open.spotify.com/album/7rckq7pX7XmzgPNgSOaXMP"
@@ -41,7 +865,7 @@
       "url": "https://open.spotify.com/track/4KhF3kOe5u8eS27G8DEJI9"
     },
     {
-      "added_at": "2026-06-19 09:00:10",
+      "added_at": "2026-11-27 05:00:47",
       "album": {
         "name": "SPAGHETTI (at PURE FLOWERS LIVE) l Presented by Spotify",
         "url": "https://open.spotify.com/album/7gDr60IgMn4LaVnKgafFV0"
@@ -61,7 +885,7 @@
       "url": "https://open.spotify.com/track/2qWaY57V2DowqqMJFF8VYS"
     },
     {
-      "added_at": "2026-06-19 09:00:10",
+      "added_at": "2026-11-27 05:00:47",
       "album": {
         "name": "CELEBRATION (at PURE FLOWERS LIVE) l Presented by Spotify",
         "url": "https://open.spotify.com/album/4tCfiJGGbg4EFwikgi84Sf"
@@ -77,7 +901,7 @@
       "url": "https://open.spotify.com/track/0bCr0rDZR3egGRYhD14PkJ"
     },
     {
-      "added_at": "2026-06-19 09:00:10",
+      "added_at": "2026-11-27 05:00:47",
       "album": {
         "name": "Sonder (at PURE FLOWERS LIVE) l Presented by Spotify",
         "url": "https://open.spotify.com/album/0Ch54rVSoEPdCE8qKuxH8W"
@@ -93,7 +917,7 @@
       "url": "https://open.spotify.com/track/11rPa1ex0jv6jQQdnopJYd"
     },
     {
-      "added_at": "2026-06-19 09:00:10",
+      "added_at": "2026-11-27 05:00:47",
       "album": {
         "name": "Creatures (at PURE FLOWERS LIVE) l Presented by Spotify",
         "url": "https://open.spotify.com/album/1l9nBUyvVRmv03XYfv6NYA"
@@ -109,7 +933,7 @@
       "url": "https://open.spotify.com/track/3WotTZr6P3Y7faSFC82nPO"
     },
     {
-      "added_at": "2026-06-19 09:00:10",
+      "added_at": "2026-11-27 05:00:47",
       "album": {
         "name": "BOOMPALA (at PURE FLOWERS LIVE) l Presented by Spotify",
         "url": "https://open.spotify.com/album/3SheoOcRqSqoeJdvfhZPHo"
@@ -125,7 +949,7 @@
       "url": "https://open.spotify.com/track/4RpHkKbIFAc96Q2ep2eg6y"
     },
     {
-      "added_at": "2026-06-19 09:00:10",
+      "added_at": "2026-11-27 05:00:47",
       "album": {
         "name": "SWIM (Live at Pier 17) | Presented by Spotify",
         "url": "https://open.spotify.com/album/31iTpQCIEaHrv3WxPfurxD"
@@ -141,7 +965,7 @@
       "url": "https://open.spotify.com/track/0KWuWlRY6IRCWUS7IJ2ObH"
     },
     {
-      "added_at": "2026-06-19 09:00:10",
+      "added_at": "2026-11-27 05:00:47",
       "album": {
         "name": "2.0 (Live at Pier 17) | Presented by Spotify",
         "url": "https://open.spotify.com/album/1PtRZuSJNqM03FYgdbzWih"
@@ -157,7 +981,7 @@
       "url": "https://open.spotify.com/track/44dQsteUZzZ5aN1uS8lhRj"
     },
     {
-      "added_at": "2026-06-19 09:00:10",
+      "added_at": "2026-11-27 05:00:47",
       "album": {
         "name": "NORMAL (Live at Pier 17) | Presented by Spotify",
         "url": "https://open.spotify.com/album/1ZHVo1MDKy7BXmLASfqc2C"
@@ -173,7 +997,7 @@
       "url": "https://open.spotify.com/track/15rwL0jnoGk8n2kmYY8DP0"
     },
     {
-      "added_at": "2026-06-19 09:00:10",
+      "added_at": "2026-11-27 05:00:47",
       "album": {
         "name": "On The Road",
         "url": "https://open.spotify.com/album/4qLmONjxB0xKGGra65EIgT"
@@ -189,7 +1013,7 @@
       "url": "https://open.spotify.com/track/7lt0IFjlsY1FztH3g7POGP"
     },
     {
-      "added_at": "2026-06-19 09:00:10",
+      "added_at": "2026-11-27 05:00:47",
       "album": {
         "name": "Beat It Up | Spotify Performance Video",
         "url": "https://open.spotify.com/album/2H001xNfwbodUi051OEO6Y"
@@ -205,7 +1029,7 @@
       "url": "https://open.spotify.com/track/5B5SLuIkevqp9KlCzxhupw"
     },
     {
-      "added_at": "2026-06-19 09:00:10",
+      "added_at": "2026-11-27 05:00:47",
       "album": {
         "name": "O.O Pt. 1 (Baila)",
         "url": "https://open.spotify.com/album/3UBnxG8yJO6Bp1lMlLBMZB"
@@ -221,7 +1045,7 @@
       "url": "https://open.spotify.com/track/0c15Tj9dcB3VgwDya7roED"
     },
     {
-      "added_at": "2026-06-19 09:00:10",
+      "added_at": "2026-11-27 05:00:47",
       "album": {
         "name": "O.O Part 1 (Baila)",
         "url": "https://open.spotify.com/album/3hndrP38zWOzZFDIIyDsB7"
@@ -237,7 +1061,7 @@
       "url": "https://open.spotify.com/track/6dx6xPMkBwPXdRXtaFEk1T"
     },
     {
-      "added_at": "2026-06-19 09:00:10",
+      "added_at": "2026-11-27 05:00:47",
       "album": {
         "name": "Star Eyes (Spotify Live Version)",
         "url": "https://open.spotify.com/album/5QPRhveyVrCxrDpgeMUZ8F"
@@ -253,7 +1077,7 @@
       "url": "https://open.spotify.com/track/5vDhLCnufZRYk4W43gOJjP"
     },
     {
-      "added_at": "2026-06-19 09:00:10",
+      "added_at": "2026-11-27 05:00:47",
       "album": {
         "name": "Star Eyes (Spotify Live Version)",
         "url": "https://open.spotify.com/album/4hoBN3h0te1QXuzLfKbs5V"
@@ -269,7 +1093,7 @@
       "url": "https://open.spotify.com/track/70onuk40GO7rAoJv8GCrbs"
     },
     {
-      "added_at": "2026-06-19 09:00:10",
+      "added_at": "2026-11-27 05:00:47",
       "album": {
         "name": "oops!",
         "url": "https://open.spotify.com/album/53P9gkabZ0sup2pTa0ySJs"
@@ -285,7 +1109,7 @@
       "url": "https://open.spotify.com/track/68UnaGof7Bd6UEQn75Bsb9"
     },
     {
-      "added_at": "2026-06-19 09:00:10",
+      "added_at": "2026-11-27 05:00:47",
       "album": {
         "name": "oops!",
         "url": "https://open.spotify.com/album/5tpi5cegn37C5Eb5inSESa"
@@ -301,7 +1125,7 @@
       "url": "https://open.spotify.com/track/0rY7KVfZoLlUHVpCD7KEAm"
     },
     {
-      "added_at": "2026-06-19 09:00:10",
+      "added_at": "2026-11-27 05:00:47",
       "album": {
         "name": "Upside Down Kiss",
         "url": "https://open.spotify.com/album/3kxXhrAyzON1BSAh62dD4Q"
@@ -317,7 +1141,7 @@
       "url": "https://open.spotify.com/track/6iaupFZ3bRJFxfoyYGHIs1"
     },
     {
-      "added_at": "2026-06-19 09:00:10",
+      "added_at": "2026-11-27 05:00:47",
       "album": {
         "name": "Upside Down Kiss",
         "url": "https://open.spotify.com/album/5bWPidA83oIMmECU5n8AAq"
@@ -333,7 +1157,7 @@
       "url": "https://open.spotify.com/track/32sf5Wf5C856fqrTntigSS"
     },
     {
-      "added_at": "2026-06-19 09:00:10",
+      "added_at": "2026-11-27 05:00:47",
       "album": {
         "name": "Promise - Spotify Live Version",
         "url": "https://open.spotify.com/album/4Ze2b2wEqXr6dxntYIBnqk"
@@ -349,7 +1173,7 @@
       "url": "https://open.spotify.com/track/1RJBfvb4imdz0YE0UMoG70"
     },
     {
-      "added_at": "2026-06-19 09:00:10",
+      "added_at": "2026-11-27 05:00:47",
       "album": {
         "name": "Promise - Spotify Live Version",
         "url": "https://open.spotify.com/album/4qOtsmxBucEfVWW0nNXR2d"
@@ -365,7 +1189,7 @@
       "url": "https://open.spotify.com/track/6rX8SGj26SdWa0RyD9d4du"
     },
     {
-      "added_at": "2026-06-19 09:00:10",
+      "added_at": "2026-11-27 05:00:47",
       "album": {
         "name": "Promise - Spotify Live Version",
         "url": "https://open.spotify.com/album/7CYADSNmR8ZFjhrIg8JCqf"
@@ -381,7 +1205,7 @@
       "url": "https://open.spotify.com/track/2GvaC8VwVrNwGTyrptfyhr"
     },
     {
-      "added_at": "2026-06-19 09:00:10",
+      "added_at": "2026-11-27 05:00:47",
       "album": {
         "name": "Promise - Spotify Live Version",
         "url": "https://open.spotify.com/album/7DDuWzLVKJxRKPuKUgH9Ob"
@@ -397,7 +1221,7 @@
       "url": "https://open.spotify.com/track/4ABOx8gMHbKsWYrMOBa2ZD"
     },
     {
-      "added_at": "2026-06-19 09:00:10",
+      "added_at": "2026-11-27 05:00:47",
       "album": {
         "name": "Freestyle",
         "url": "https://open.spotify.com/album/3pr47kR7vZWpgsiLsGBFEa"
@@ -413,7 +1237,7 @@
       "url": "https://open.spotify.com/track/6Wu30Ro8z8SLBUxsnfTKLI"
     },
     {
-      "added_at": "2026-06-19 09:00:10",
+      "added_at": "2026-11-27 05:00:47",
       "album": {
         "name": "Freestyle",
         "url": "https://open.spotify.com/album/1xHNZeSRJIJSxqPlvD2Jkw"
@@ -429,7 +1253,7 @@
       "url": "https://open.spotify.com/track/2rUpPYWptTmLm8fIYSXdQ2"
     },
     {
-      "added_at": "2026-06-19 09:00:10",
+      "added_at": "2026-11-27 05:00:47",
       "album": {
         "name": "Loose (Korean Ver.)",
         "url": "https://open.spotify.com/album/47tBLYvFev5FbtKO9PHlWm"
@@ -445,7 +1269,7 @@
       "url": "https://open.spotify.com/track/03HHGNtjpS5K6fRcwlX3Sx"
     },
     {
-      "added_at": "2026-06-19 09:00:10",
+      "added_at": "2026-11-27 05:00:47",
       "album": {
         "name": "Loose (Korean Ver.)",
         "url": "https://open.spotify.com/album/4WEEEi1YvRwwPzXileG661"

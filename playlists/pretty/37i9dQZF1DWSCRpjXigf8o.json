@@ -319,22 +319,6 @@
     {
       "added_at": "2026-11-06 10:13:47",
       "album": {
-        "name": "Crab",
-        "url": "https://open.spotify.com/album/5ciVjsvsNYHZEkUaNZW75B"
-      },
-      "artists": [
-        {
-          "name": "Pool Girl",
-          "url": "https://open.spotify.com/artist/7t7suXYznGBtoP2uCT0Wv2"
-        }
-      ],
-      "duration_ms": 195577,
-      "name": "Crab",
-      "url": "https://open.spotify.com/track/6v1d0oFmJnq0Md14QjTnAB"
-    },
-    {
-      "added_at": "2026-11-06 10:13:47",
-      "album": {
         "name": "Anything He Was",
         "url": "https://open.spotify.com/album/2FUew1tmYs8QW7YOmiZRDV"
       },
@@ -347,6 +331,22 @@
       "duration_ms": 239480,
       "name": "Anything He Was",
       "url": "https://open.spotify.com/track/5vtMCt0sWVxCbsTUnPyCTh"
+    },
+    {
+      "added_at": "2026-11-06 10:13:47",
+      "album": {
+        "name": "Crab",
+        "url": "https://open.spotify.com/album/5ciVjsvsNYHZEkUaNZW75B"
+      },
+      "artists": [
+        {
+          "name": "Pool Girl",
+          "url": "https://open.spotify.com/artist/7t7suXYznGBtoP2uCT0Wv2"
+        }
+      ],
+      "duration_ms": 195577,
+      "name": "Crab",
+      "url": "https://open.spotify.com/track/6v1d0oFmJnq0Md14QjTnAB"
     },
     {
       "added_at": "2026-11-06 10:13:47",
@@ -561,22 +561,6 @@
       "url": "https://open.spotify.com/track/5zg2SLq4J1w0y7n9TWP8s4"
     },
     {
-      "added_at": "2026-11-06 10:13:47",
-      "album": {
-        "name": "Love, At The End Of The World",
-        "url": "https://open.spotify.com/album/4N1jjlEFahaPfBEGBKkIEQ"
-      },
-      "artists": [
-        {
-          "name": "SEREN",
-          "url": "https://open.spotify.com/artist/7834TkZnwWSMThBso3wKjL"
-        }
-      ],
-      "duration_ms": 180768,
-      "name": "Love, At The End Of The World",
-      "url": "https://open.spotify.com/track/5TDzozeZNIzs6oSTDngBbd"
-    },
-    {
       "added_at": "2026-02-19 15:16:11",
       "album": {
         "name": "pity dirty",
@@ -591,6 +575,22 @@
       "duration_ms": 193000,
       "name": "pity dirty",
       "url": "https://open.spotify.com/track/1O12sL9Ekek4WY7U03cG06"
+    },
+    {
+      "added_at": "2026-11-06 10:13:47",
+      "album": {
+        "name": "Love, At The End Of The World",
+        "url": "https://open.spotify.com/album/4N1jjlEFahaPfBEGBKkIEQ"
+      },
+      "artists": [
+        {
+          "name": "SEREN",
+          "url": "https://open.spotify.com/artist/7834TkZnwWSMThBso3wKjL"
+        }
+      ],
+      "duration_ms": 180768,
+      "name": "Love, At The End Of The World",
+      "url": "https://open.spotify.com/track/5TDzozeZNIzs6oSTDngBbd"
     },
     {
       "added_at": "2026-02-19 15:16:11",
@@ -675,22 +675,6 @@
     {
       "added_at": "2026-11-06 10:13:47",
       "album": {
-        "name": "Therapist's Daughter",
-        "url": "https://open.spotify.com/album/3bcNya70WdDCtpcBK2V0Fl"
-      },
-      "artists": [
-        {
-          "name": "Sarah Julia",
-          "url": "https://open.spotify.com/artist/2qVi7G7OjgVXyl9zxabzTQ"
-        }
-      ],
-      "duration_ms": 173593,
-      "name": "Therapist's Daughter",
-      "url": "https://open.spotify.com/track/4Wa4o786mF0RLlLoO2Sz4R"
-    },
-    {
-      "added_at": "2026-11-06 10:13:47",
-      "album": {
         "name": "I Want It Easy",
         "url": "https://open.spotify.com/album/3fZyKX3UiJOy6QtIPw0bnG"
       },
@@ -703,6 +687,22 @@
       "duration_ms": 241159,
       "name": "I Want It Easy",
       "url": "https://open.spotify.com/track/5YJc3C3VJx8MpfKDfl9CTv"
+    },
+    {
+      "added_at": "2026-11-06 10:13:47",
+      "album": {
+        "name": "Therapist's Daughter",
+        "url": "https://open.spotify.com/album/3bcNya70WdDCtpcBK2V0Fl"
+      },
+      "artists": [
+        {
+          "name": "Sarah Julia",
+          "url": "https://open.spotify.com/artist/2qVi7G7OjgVXyl9zxabzTQ"
+        }
+      ],
+      "duration_ms": 173593,
+      "name": "Therapist's Daughter",
+      "url": "https://open.spotify.com/track/4Wa4o786mF0RLlLoO2Sz4R"
     },
     {
       "added_at": "2026-11-06 10:13:47",
@@ -941,22 +941,6 @@
       "url": "https://open.spotify.com/track/6XMIGkfs34gxTn0lBRBKQT"
     },
     {
-      "added_at": "2026-11-06 10:13:47",
-      "album": {
-        "name": "Jackie",
-        "url": "https://open.spotify.com/album/1SF3E1PRFrTKmcLnAnheaa"
-      },
-      "artists": [
-        {
-          "name": "Esme Emerson",
-          "url": "https://open.spotify.com/artist/6Jaz8RyF3F9ktK4aVFgbTL"
-        }
-      ],
-      "duration_ms": 193686,
-      "name": "Jackie",
-      "url": "https://open.spotify.com/track/24XXGis7TNNjgzKKuFhoPB"
-    },
-    {
       "added_at": "2026-02-19 15:16:11",
       "album": {
         "name": "See You Soon",
@@ -971,6 +955,22 @@
       "duration_ms": 194586,
       "name": "See You Soon",
       "url": "https://open.spotify.com/track/6J0iDtlXabHqZizUKWUAX8"
+    },
+    {
+      "added_at": "2026-11-06 10:13:47",
+      "album": {
+        "name": "Jackie",
+        "url": "https://open.spotify.com/album/1SF3E1PRFrTKmcLnAnheaa"
+      },
+      "artists": [
+        {
+          "name": "Esme Emerson",
+          "url": "https://open.spotify.com/artist/6Jaz8RyF3F9ktK4aVFgbTL"
+        }
+      ],
+      "duration_ms": 193686,
+      "name": "Jackie",
+      "url": "https://open.spotify.com/track/24XXGis7TNNjgzKKuFhoPB"
     },
     {
       "added_at": "2026-02-19 15:16:11",
@@ -1043,22 +1043,6 @@
     {
       "added_at": "2026-11-06 10:13:47",
       "album": {
-        "name": "Sleeping",
-        "url": "https://open.spotify.com/album/3MaY7jwsacEjRQDw8sG98V"
-      },
-      "artists": [
-        {
-          "name": "Fenne Lily",
-          "url": "https://open.spotify.com/artist/7iPH2BRBF9wKa6ljxvdext"
-        }
-      ],
-      "duration_ms": 212391,
-      "name": "Sleeping",
-      "url": "https://open.spotify.com/track/7IqurzUAAiSkZtH0CmO04u"
-    },
-    {
-      "added_at": "2026-11-06 10:13:47",
-      "album": {
         "name": "Mood Ring",
         "url": "https://open.spotify.com/album/32egrBNmQPGPRSYWdkn9Xf"
       },
@@ -1075,6 +1059,22 @@
     {
       "added_at": "2026-11-06 10:13:47",
       "album": {
+        "name": "Sleeping",
+        "url": "https://open.spotify.com/album/3MaY7jwsacEjRQDw8sG98V"
+      },
+      "artists": [
+        {
+          "name": "Fenne Lily",
+          "url": "https://open.spotify.com/artist/7iPH2BRBF9wKa6ljxvdext"
+        }
+      ],
+      "duration_ms": 212391,
+      "name": "Sleeping",
+      "url": "https://open.spotify.com/track/7IqurzUAAiSkZtH0CmO04u"
+    },
+    {
+      "added_at": "2026-11-06 10:13:47",
+      "album": {
         "name": "ACT II: Silkworm",
         "url": "https://open.spotify.com/album/42v7lt7rHS8PatbcLTvnXV"
       },
@@ -1087,6 +1087,22 @@
       "duration_ms": 136173,
       "name": "Woohoo",
       "url": "https://open.spotify.com/track/4um1LI7lfwbCXDGfPmnXyC"
+    },
+    {
+      "added_at": "2026-11-06 10:13:47",
+      "album": {
+        "name": "THE CHARM PARK III",
+        "url": "https://open.spotify.com/album/6LJBCljK5gCes98Cq6HHbf"
+      },
+      "artists": [
+        {
+          "name": "THE CHARM PARK",
+          "url": "https://open.spotify.com/artist/2QKf9jr434G3Mo8Hr9npPb"
+        }
+      ],
+      "duration_ms": 219456,
+      "name": "Stroll",
+      "url": "https://open.spotify.com/track/16ZOciXTgbjHD4TxoaHxUL"
     },
     {
       "added_at": "2026-11-06 10:13:47",
@@ -1119,22 +1135,6 @@
       "duration_ms": 212055,
       "name": "You Are Never Gone From Me",
       "url": "https://open.spotify.com/track/3X4aqjMeBDw4ISXy3M3Xtw"
-    },
-    {
-      "added_at": "2026-11-06 10:13:47",
-      "album": {
-        "name": "THE CHARM PARK III",
-        "url": "https://open.spotify.com/album/6LJBCljK5gCes98Cq6HHbf"
-      },
-      "artists": [
-        {
-          "name": "THE CHARM PARK",
-          "url": "https://open.spotify.com/artist/2QKf9jr434G3Mo8Hr9npPb"
-        }
-      ],
-      "duration_ms": 219456,
-      "name": "Stroll",
-      "url": "https://open.spotify.com/track/16ZOciXTgbjHD4TxoaHxUL"
     },
     {
       "added_at": "2026-11-06 10:13:47",
@@ -1333,6 +1333,22 @@
       "url": "https://open.spotify.com/track/2Qj1RsGrDD9laGR9QqrBvV"
     },
     {
+      "added_at": "2026-02-19 15:16:11",
+      "album": {
+        "name": "Wonder, Won't You?",
+        "url": "https://open.spotify.com/album/3aVD5rqyzp6fzi4do8MI1y"
+      },
+      "artists": [
+        {
+          "name": "Harrison Storm",
+          "url": "https://open.spotify.com/artist/5Ld19xtpAR80G2boTcHaVx"
+        }
+      ],
+      "duration_ms": 217080,
+      "name": "My Way Home",
+      "url": "https://open.spotify.com/track/1PmHzy1AebjGRue4hYVkpM"
+    },
+    {
       "added_at": "2026-11-06 10:13:47",
       "album": {
         "name": "girlhood",
@@ -1363,22 +1379,6 @@
       "duration_ms": 209774,
       "name": "a plumber",
       "url": "https://open.spotify.com/track/7ICFekB0XzNPiqlVV9b6fI"
-    },
-    {
-      "added_at": "2026-02-19 15:16:11",
-      "album": {
-        "name": "Wonder, Won't You?",
-        "url": "https://open.spotify.com/album/3aVD5rqyzp6fzi4do8MI1y"
-      },
-      "artists": [
-        {
-          "name": "Harrison Storm",
-          "url": "https://open.spotify.com/artist/5Ld19xtpAR80G2boTcHaVx"
-        }
-      ],
-      "duration_ms": 217080,
-      "name": "My Way Home",
-      "url": "https://open.spotify.com/track/1PmHzy1AebjGRue4hYVkpM"
     },
     {
       "added_at": "2026-11-06 10:13:47",
@@ -1483,22 +1483,6 @@
     {
       "added_at": "2026-11-06 10:13:47",
       "album": {
-        "name": "Reelin",
-        "url": "https://open.spotify.com/album/62Jnh12nK2w9rKee5BYNwE"
-      },
-      "artists": [
-        {
-          "name": "Squirrel Flower",
-          "url": "https://open.spotify.com/artist/7bI1v9NGBBhq8iGfytctni"
-        }
-      ],
-      "duration_ms": 162240,
-      "name": "Reelin",
-      "url": "https://open.spotify.com/track/2IUAGDffoWoasAGUPu5sM5"
-    },
-    {
-      "added_at": "2026-11-06 10:13:47",
-      "album": {
         "name": "\u3074\u304b\u3074\u304b",
         "url": "https://open.spotify.com/album/0fgbGNoJ8eIHzQoTOo6jnG"
       },
@@ -1515,18 +1499,18 @@
     {
       "added_at": "2026-11-06 10:13:47",
       "album": {
-        "name": "Nothing Less",
-        "url": "https://open.spotify.com/album/0QU7RnyQ3IJX0ep4y2Vh4P"
+        "name": "Reelin",
+        "url": "https://open.spotify.com/album/62Jnh12nK2w9rKee5BYNwE"
       },
       "artists": [
         {
-          "name": "#1 Dads",
-          "url": "https://open.spotify.com/artist/0RCHY4NGqCJ5GLWCYz2OiI"
+          "name": "Squirrel Flower",
+          "url": "https://open.spotify.com/artist/7bI1v9NGBBhq8iGfytctni"
         }
       ],
-      "duration_ms": 205668,
-      "name": "Nothing Less",
-      "url": "https://open.spotify.com/track/0fvmZ01vkAqUgz7aNmnNGt"
+      "duration_ms": 162240,
+      "name": "Reelin",
+      "url": "https://open.spotify.com/track/2IUAGDffoWoasAGUPu5sM5"
     },
     {
       "added_at": "2026-11-06 10:13:47",
@@ -1543,6 +1527,22 @@
       "duration_ms": 206322,
       "name": "\u50d5\u306e\u30df\u30e5\u30fc\u30ba",
       "url": "https://open.spotify.com/track/7H7RhLJhWx9vp5bnTyJQjF"
+    },
+    {
+      "added_at": "2026-11-06 10:13:47",
+      "album": {
+        "name": "Nothing Less",
+        "url": "https://open.spotify.com/album/0QU7RnyQ3IJX0ep4y2Vh4P"
+      },
+      "artists": [
+        {
+          "name": "#1 Dads",
+          "url": "https://open.spotify.com/artist/0RCHY4NGqCJ5GLWCYz2OiI"
+        }
+      ],
+      "duration_ms": 205668,
+      "name": "Nothing Less",
+      "url": "https://open.spotify.com/track/0fvmZ01vkAqUgz7aNmnNGt"
     },
     {
       "added_at": "2026-11-06 10:13:47",

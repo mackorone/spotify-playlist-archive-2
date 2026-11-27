@@ -1,12 +1,12 @@
 {
   "description": "This is Megadeth. The essential tracks, all in one playlist.",
-  "num_followers": 325647,
+  "num_followers": 325678,
   "original_name": "This Is Megadeth",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "awOCAAAAAACH9kmvuiYJ+/LZVZbaSWaQ",
+  "snapshot_id": "awYlAAAAAAB9jG4a/dGi4NXJHQeuwyGw",
   "tracks": [
     {
       "added_at": null,
@@ -347,6 +347,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Greatest Hits: Back To The Start",
+        "url": "https://open.spotify.com/album/00sgBMhbJo1lEa1hHhYtw4"
+      },
+      "artists": [
+        {
+          "name": "Megadeth",
+          "url": "https://open.spotify.com/artist/1Yox196W7bzVNZI7RBaPnf"
+        }
+      ],
+      "duration_ms": 222840,
+      "name": "Kill The King",
+      "url": "https://open.spotify.com/track/6QpLvP6lx2AuK51d1PcSOK"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Megadeth",
         "url": "https://open.spotify.com/album/6ouAFvDtaYWB7PdGaRtJGq"
       },
@@ -379,22 +395,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Greatest Hits: Back To The Start",
-        "url": "https://open.spotify.com/album/00sgBMhbJo1lEa1hHhYtw4"
-      },
-      "artists": [
-        {
-          "name": "Megadeth",
-          "url": "https://open.spotify.com/artist/1Yox196W7bzVNZI7RBaPnf"
-        }
-      ],
-      "duration_ms": 222840,
-      "name": "Kill The King",
-      "url": "https://open.spotify.com/track/6QpLvP6lx2AuK51d1PcSOK"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Rust In Peace",
         "url": "https://open.spotify.com/album/4e6ML9RBhDyyKTaTwbiRZv"
       },
@@ -411,22 +411,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Megadeth",
-        "url": "https://open.spotify.com/album/6ouAFvDtaYWB7PdGaRtJGq"
-      },
-      "artists": [
-        {
-          "name": "Megadeth",
-          "url": "https://open.spotify.com/artist/1Yox196W7bzVNZI7RBaPnf"
-        }
-      ],
-      "duration_ms": 208510,
-      "name": "Hey God?!",
-      "url": "https://open.spotify.com/track/2vwrGgIy5cUeU375P6w8aL"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Countdown To Extinction (Expanded Edition - Remastered)",
         "url": "https://open.spotify.com/album/1w9opfGdFtR3ulNHxnnO1e"
       },
@@ -439,6 +423,22 @@
       "duration_ms": 195826,
       "name": "Skin O' My Teeth - 2004 Remastered",
       "url": "https://open.spotify.com/track/7EFho37SrizYaQ2NVxLejd"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Megadeth",
+        "url": "https://open.spotify.com/album/6ouAFvDtaYWB7PdGaRtJGq"
+      },
+      "artists": [
+        {
+          "name": "Megadeth",
+          "url": "https://open.spotify.com/artist/1Yox196W7bzVNZI7RBaPnf"
+        }
+      ],
+      "duration_ms": 208510,
+      "name": "Hey God?!",
+      "url": "https://open.spotify.com/track/2vwrGgIy5cUeU375P6w8aL"
     },
     {
       "added_at": null,
@@ -475,22 +475,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Megadeth",
-        "url": "https://open.spotify.com/album/6ouAFvDtaYWB7PdGaRtJGq"
-      },
-      "artists": [
-        {
-          "name": "Megadeth",
-          "url": "https://open.spotify.com/artist/1Yox196W7bzVNZI7RBaPnf"
-        }
-      ],
-      "duration_ms": 280924,
-      "name": "Puppet Parade",
-      "url": "https://open.spotify.com/track/7bcdR8mEMVJNybCFC7dTlX"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Youthanasia (Expanded Edition - Remastered)",
         "url": "https://open.spotify.com/album/5UvUjC3G4UKSrwOeBA0qob"
       },
@@ -503,6 +487,22 @@
       "duration_ms": 211226,
       "name": "Train Of Consequences - Remastered 2004",
       "url": "https://open.spotify.com/track/03Yv8adIIOsRACDHLUYS9l"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Megadeth",
+        "url": "https://open.spotify.com/album/6ouAFvDtaYWB7PdGaRtJGq"
+      },
+      "artists": [
+        {
+          "name": "Megadeth",
+          "url": "https://open.spotify.com/artist/1Yox196W7bzVNZI7RBaPnf"
+        }
+      ],
+      "duration_ms": 280924,
+      "name": "Puppet Parade",
+      "url": "https://open.spotify.com/track/7bcdR8mEMVJNybCFC7dTlX"
     },
     {
       "added_at": null,
@@ -539,22 +539,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Megadeth",
-        "url": "https://open.spotify.com/album/6ouAFvDtaYWB7PdGaRtJGq"
-      },
-      "artists": [
-        {
-          "name": "Megadeth",
-          "url": "https://open.spotify.com/artist/1Yox196W7bzVNZI7RBaPnf"
-        }
-      ],
-      "duration_ms": 217413,
-      "name": "Another Bad Day",
-      "url": "https://open.spotify.com/track/7vuvPHgxMbc72D67uZ2wfv"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Killing Is My Business...And Business Is Good!",
         "url": "https://open.spotify.com/album/0TFQuO4m3XR5pTJCFS88Qk"
       },
@@ -567,6 +551,22 @@
       "duration_ms": 187573,
       "name": "Killing Is My Business...And Business Is Good!",
       "url": "https://open.spotify.com/track/7ouSZGlGdhFjgbQpB7TZ1m"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Megadeth",
+        "url": "https://open.spotify.com/album/6ouAFvDtaYWB7PdGaRtJGq"
+      },
+      "artists": [
+        {
+          "name": "Megadeth",
+          "url": "https://open.spotify.com/artist/1Yox196W7bzVNZI7RBaPnf"
+        }
+      ],
+      "duration_ms": 217413,
+      "name": "Another Bad Day",
+      "url": "https://open.spotify.com/track/7vuvPHgxMbc72D67uZ2wfv"
     },
     {
       "added_at": null,

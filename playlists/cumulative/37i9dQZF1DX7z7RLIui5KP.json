@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2025-10-28",
-  "description": "Proudly Kenyan gems made for the entire family. Cover: Fena Gitu",
+  "description": "Proudly Kenyan gems made for the entire family. Cover: The Babaz",
   "name": "Made In Kenya",
   "tracks": [
     {
@@ -156,7 +156,7 @@
       ],
       "date_added": "2026-09-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-27",
       "duration_ms": 174590,
       "name": "AJE?",
       "url": "https://open.spotify.com/track/6vbQnK2bnqmCJi2PyFS8zG"
@@ -253,6 +253,24 @@
     },
     {
       "album": {
+        "name": "BABA SHOP",
+        "url": "https://open.spotify.com/album/3ojxcMmxKG2lcEg63Ue7ig"
+      },
+      "artists": [
+        {
+          "name": "The Babaz",
+          "url": "https://open.spotify.com/artist/6IEl7tasSo01hU9z5wFTpm"
+        }
+      ],
+      "date_added": "2026-11-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 254000,
+      "name": "Ameniwacha Mataa",
+      "url": "https://open.spotify.com/track/2hdoNA5ZBY9oNoVUn7e29p"
+    },
+    {
+      "album": {
         "name": "Ananipenda",
         "url": "https://open.spotify.com/album/5FaG0EwHKRuPw28gL3bI20"
       },
@@ -282,7 +300,7 @@
       ],
       "date_added": "2026-08-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-27",
       "duration_ms": 197476,
       "name": "Angelina",
       "url": "https://open.spotify.com/track/5uI9DcWHmOPifqHvprR9mC"
@@ -942,7 +960,7 @@
       ],
       "date_added": "2026-10-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-27",
       "duration_ms": 124800,
       "name": "Burning Everything",
       "url": "https://open.spotify.com/track/3MTB2ChmFdKVzDNp9WOe73"
@@ -2122,7 +2140,7 @@
       ],
       "date_added": "2026-09-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-27",
       "duration_ms": 221938,
       "name": "Go Baby Go",
       "url": "https://open.spotify.com/track/10uxewpjOIT7dXeIDmKozZ"
@@ -2366,10 +2384,28 @@
       ],
       "date_added": "2026-06-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-27",
       "duration_ms": 213061,
       "name": "Hell Of A Night",
       "url": "https://open.spotify.com/track/2T7mz68Ha96CFfYVhJ6Fiw"
+    },
+    {
+      "album": {
+        "name": "The Problem Child",
+        "url": "https://open.spotify.com/album/1vyZQKBl8Nxh02VXpPVNV4"
+      },
+      "artists": [
+        {
+          "name": "Otile Brown",
+          "url": "https://open.spotify.com/artist/25txWhgJAzekbAaHuDzmwj"
+        }
+      ],
+      "date_added": "2026-11-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 227500,
+      "name": "Hello",
+      "url": "https://open.spotify.com/track/2s0IFprZwV6pX2N98DJqT2"
     },
     {
       "album": {
@@ -3827,6 +3863,32 @@
     },
     {
       "album": {
+        "name": "Alusa Continua",
+        "url": "https://open.spotify.com/album/4dgvWmd6oGnshBBMiuPp5K"
+      },
+      "artists": [
+        {
+          "name": "Bien",
+          "url": "https://open.spotify.com/artist/2zhossaaVN2pXg5p8o101X"
+        },
+        {
+          "name": "FEMI ONE",
+          "url": "https://open.spotify.com/artist/1Kg4nxeTD9wP3082jp1nkH"
+        },
+        {
+          "name": "Papaa Maasai",
+          "url": "https://open.spotify.com/artist/26eSHEj82aXbP6H5Z7ms87"
+        }
+      ],
+      "date_added": "2026-11-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 191316,
+      "name": "Mayolo",
+      "url": "https://open.spotify.com/track/2CzTX23Em1EsdS2d9gdJaF"
+    },
+    {
+      "album": {
         "name": "Mayoo",
         "url": "https://open.spotify.com/album/23lRRb60jedC86NHbLHWnp"
       },
@@ -4014,7 +4076,7 @@
       ],
       "date_added": "2026-11-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-27",
       "duration_ms": 182608,
       "name": "Mkataba",
       "url": "https://open.spotify.com/track/3kiVWA4g1Kx3l9jtWROR0F"
@@ -4290,7 +4352,7 @@
       ],
       "date_added": "2026-09-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-27",
       "duration_ms": 169411,
       "name": "Mwecheche",
       "url": "https://open.spotify.com/track/54Xa5HImqHMUh1Bm46CkMx"
@@ -5078,7 +5140,7 @@
       ],
       "date_added": "2026-10-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-27",
       "duration_ms": 155454,
       "name": "N\u00eengwendete",
       "url": "https://open.spotify.com/track/1N3p7FQMoPpSHS3XsNJDJk"
@@ -5569,6 +5631,28 @@
     },
     {
       "album": {
+        "name": "Rafiki",
+        "url": "https://open.spotify.com/album/2YkfbP2SoiGWfCGpMHLaqq"
+      },
+      "artists": [
+        {
+          "name": "Mathare Kids Talent Hub",
+          "url": "https://open.spotify.com/artist/0BMtUkOV552hMa5Z3ma8px"
+        },
+        {
+          "name": "Ila Nia",
+          "url": "https://open.spotify.com/artist/2BlTufGgupqEM4ITQAJhAp"
+        }
+      ],
+      "date_added": "2026-11-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 180000,
+      "name": "Rafiki",
+      "url": "https://open.spotify.com/track/0gNee7tuYDc6j3mDju9JN9"
+    },
+    {
+      "album": {
         "name": "REASON",
         "url": "https://open.spotify.com/album/3HsFIS5mJMqpisQXuwL0BN"
       },
@@ -5675,6 +5759,32 @@
     },
     {
       "album": {
+        "name": "Saa Zingine",
+        "url": "https://open.spotify.com/album/7DTrnD5oPwYlTaNx6VqaXo"
+      },
+      "artists": [
+        {
+          "name": "Muthoka",
+          "url": "https://open.spotify.com/artist/5BSYJH7QrL8yLmFPzJedBp"
+        },
+        {
+          "name": "Ywaya Tajiri",
+          "url": "https://open.spotify.com/artist/6wf9RfrBquBd6Galoe5oQE"
+        },
+        {
+          "name": "AUGUST IV",
+          "url": "https://open.spotify.com/artist/0rSI47DldAq15E6L5pUH6T"
+        }
+      ],
+      "date_added": "2026-11-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 165625,
+      "name": "Saa Zingine",
+      "url": "https://open.spotify.com/track/40baMZInZv8HUfQPgKoE6R"
+    },
+    {
+      "album": {
         "name": "Safari",
         "url": "https://open.spotify.com/album/2RUebih46jHBpq7cubYj7U"
       },
@@ -5694,6 +5804,24 @@
       "duration_ms": 202158,
       "name": "Safari",
       "url": "https://open.spotify.com/track/1UeizRSFPFkLC9ho5lfeay"
+    },
+    {
+      "album": {
+        "name": "Sahii",
+        "url": "https://open.spotify.com/album/0iwGQvqpzdL9qs85OMyvua"
+      },
+      "artists": [
+        {
+          "name": "Mumbua",
+          "url": "https://open.spotify.com/artist/37YcEqH1oYw8a0wJvl2xlc"
+        }
+      ],
+      "date_added": "2026-11-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 158571,
+      "name": "Sahii",
+      "url": "https://open.spotify.com/track/3YPvwtQVUnPVJIiqoW60A1"
     },
     {
       "album": {
@@ -6245,6 +6373,24 @@
     },
     {
       "album": {
+        "name": "Sitapotea",
+        "url": "https://open.spotify.com/album/6CdJJg4eH1etJnH4sf8pji"
+      },
+      "artists": [
+        {
+          "name": "Wanavokali",
+          "url": "https://open.spotify.com/artist/0JeZtZ5PnJVYLsXDZsKKMP"
+        }
+      ],
+      "date_added": "2026-11-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 165378,
+      "name": "Sitapotea",
+      "url": "https://open.spotify.com/track/6o2jpz6qH9LZX6yoCVECco"
+    },
+    {
+      "album": {
         "name": "Sitoki",
         "url": "https://open.spotify.com/album/029aryi1fOXR3nBhcPyh5L"
       },
@@ -6442,7 +6588,7 @@
       ],
       "date_added": "2026-09-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-27",
       "duration_ms": 175384,
       "name": "Strict Program",
       "url": "https://open.spotify.com/track/3GYQGZGbTy6hRInViq5Dwl"
@@ -6722,7 +6868,7 @@
       ],
       "date_added": "2026-10-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-27",
       "duration_ms": 188181,
       "name": "Tempted",
       "url": "https://open.spotify.com/track/6hLL8wyNPr8KXM7dwnmFAS"
@@ -6744,7 +6890,7 @@
       ],
       "date_added": "2026-07-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-27",
       "duration_ms": 173053,
       "name": "Tension",
       "url": "https://open.spotify.com/track/5nMMVWEj28Zp2KOUbMyuEa"
@@ -6930,7 +7076,7 @@
       ],
       "date_added": "2026-01-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-27",
       "duration_ms": 196628,
       "name": "Trust No 1",
       "url": "https://open.spotify.com/track/4Nfq2CziIZHDzVP8A6llUF"

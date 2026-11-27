@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2023-09-23",
-  "description": "Your shortcut to the best new Hip Hop. Cover: Playboi Carti",
+  "description": "Your shortcut to the best new Hip Hop. Cover: Travis Scott",
   "name": "A1",
   "tracks": [
     {
@@ -522,7 +522,7 @@
       ],
       "date_added": "2026-10-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-27",
       "duration_ms": 125533,
       "name": "60 mgs",
       "url": "https://open.spotify.com/track/3g0UsA0hxpwAtkrk9JHW9l"
@@ -2009,6 +2009,24 @@
     },
     {
       "album": {
+        "name": "Balcony",
+        "url": "https://open.spotify.com/album/7um76kaVTA4001Soogzgyv"
+      },
+      "artists": [
+        {
+          "name": "Tyga",
+          "url": "https://open.spotify.com/artist/5LHRHt1k9lMyONurDHEdrp"
+        }
+      ],
+      "date_added": "2026-11-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 116910,
+      "name": "Balcony",
+      "url": "https://open.spotify.com/track/1JA0rEw4t0xKotSVJPTpBe"
+    },
+    {
+      "album": {
         "name": "Bally On",
         "url": "https://open.spotify.com/album/583jyHPwmB25VqyEmKXD5l"
       },
@@ -3065,6 +3083,32 @@
     },
     {
       "album": {
+        "name": "The Fork and Knife",
+        "url": "https://open.spotify.com/album/5cld8q9clkWf6DtcUy9STc"
+      },
+      "artists": [
+        {
+          "name": "Skepta",
+          "url": "https://open.spotify.com/artist/2p1fiYHYiXz9qi0JJyxBzN"
+        },
+        {
+          "name": "Central Cee",
+          "url": "https://open.spotify.com/artist/5H4yInM5zmHqpKIoMNAx4r"
+        },
+        {
+          "name": "Jorja Smith",
+          "url": "https://open.spotify.com/artist/1CoZyIx7UvdxT5c8UkMzHd"
+        }
+      ],
+      "date_added": "2026-11-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 260134,
+      "name": "Broken Hearts (feat. Central Cee & Jorja Smith)",
+      "url": "https://open.spotify.com/track/0VXl4cbYCgvIZh4Bque6w3"
+    },
+    {
+      "album": {
         "name": "BROTHER STONE (FEAT. KODAK BLACK)",
         "url": "https://open.spotify.com/album/0LWTY98ijfILoFHupcQJKE"
       },
@@ -3164,6 +3208,28 @@
       "duration_ms": 176000,
       "name": "Bundle By Bundle",
       "url": "https://open.spotify.com/track/2gtg4jTNUqC4akFqWZZXcV"
+    },
+    {
+      "album": {
+        "name": "Burn This Shit Down (from GTAVI: The Album)",
+        "url": "https://open.spotify.com/album/0jgRjaxbK29djrWFc8qcTN"
+      },
+      "artists": [
+        {
+          "name": "Travis Scott",
+          "url": "https://open.spotify.com/artist/0Y5tJX1MQlPlqiwlOH1tJY"
+        },
+        {
+          "name": "Grand Theft Auto VI",
+          "url": "https://open.spotify.com/artist/15o7qdDTBzs6xWRUYUtZc1"
+        }
+      ],
+      "date_added": "2026-11-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 260000,
+      "name": "Burn This Shit Down (from GTAVI: The Album)",
+      "url": "https://open.spotify.com/track/30YpKShBDGUAGfUx2BfVIb"
     },
     {
       "album": {
@@ -3794,7 +3860,7 @@
       ],
       "date_added": "2026-10-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-27",
       "duration_ms": 146655,
       "name": "Chiltern Firehouse .",
       "url": "https://open.spotify.com/track/4qS0HFIVCwj0AS3zR7hdyi"
@@ -4132,6 +4198,28 @@
       "duration_ms": 119148,
       "name": "Common",
       "url": "https://open.spotify.com/track/1xkLsWNjxINSozZNnli0Yl"
+    },
+    {
+      "album": {
+        "name": "Cookin (from GTAVI: The Album)",
+        "url": "https://open.spotify.com/album/3OURDHGXmsYZHtOV0z7V2n"
+      },
+      "artists": [
+        {
+          "name": "21 Savage",
+          "url": "https://open.spotify.com/artist/1URnnhqYAYcrqrcwql10ft"
+        },
+        {
+          "name": "Grand Theft Auto VI",
+          "url": "https://open.spotify.com/artist/15o7qdDTBzs6xWRUYUtZc1"
+        }
+      ],
+      "date_added": "2026-11-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 162894,
+      "name": "Cookin (from GTAVI: The Album)",
+      "url": "https://open.spotify.com/track/1tKZXXx3Fs2kcadD5JXJDT"
     },
     {
       "album": {
@@ -5102,7 +5190,7 @@
       ],
       "date_added": "2026-11-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-27",
       "duration_ms": 164200,
       "name": "Don\u2019t Chart (from GTAVI: The Album)",
       "url": "https://open.spotify.com/track/4NaBitL0J4PBSODIL1sUg7"
@@ -10180,7 +10268,7 @@
       ],
       "date_added": "2026-10-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-27",
       "duration_ms": 189090,
       "name": "LEFT RIGHT (feat. Big Sean)",
       "url": "https://open.spotify.com/track/2pz2fuZbrWNoCxpmZrimWw"
@@ -13210,7 +13298,7 @@
       ],
       "date_added": "2026-08-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-27",
       "duration_ms": 157104,
       "name": "One Thousand Roses",
       "url": "https://open.spotify.com/track/0UPFGyVw3giCxdOhqUUftu"
@@ -13412,6 +13500,28 @@
       "duration_ms": 203910,
       "name": "Out My Face (My Baby) (feat. Lil Yachty)",
       "url": "https://open.spotify.com/track/124asPU2FC370O180KQPQi"
+    },
+    {
+      "album": {
+        "name": "OUT OF MY MIND",
+        "url": "https://open.spotify.com/album/2AGYicRLaEgTE3eoe8CztA"
+      },
+      "artists": [
+        {
+          "name": "Kanye West",
+          "url": "https://open.spotify.com/artist/5K4W6rqBFWDnAN6FQUkS6x"
+        },
+        {
+          "name": "Ye",
+          "url": "https://open.spotify.com/artist/3NlsBPwqJuDgtXZ2rv5Dmq"
+        }
+      ],
+      "date_added": "2026-11-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 106957,
+      "name": "OUT OF MY MIND",
+      "url": "https://open.spotify.com/track/4MXFcXnEb4JzG6h4vpiUWB"
     },
     {
       "album": {

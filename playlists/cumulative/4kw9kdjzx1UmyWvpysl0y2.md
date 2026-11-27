@@ -4,7 +4,7 @@
 
 > Brand new music from Monstercat, all in one place.
 
-1,345 songs - 3 day 2 hr 29 min
+1,346 songs - 3 day 2 hr 33 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -1140,6 +1140,7 @@
 | [Take Me Higher](https://open.spotify.com/track/7x6WyCtfWVMSzY7BtvSlbs) | [RetroVision](https://open.spotify.com/artist/6heMlLFM6RDDHRz99uKMqS) | [Take Me Higher](https://open.spotify.com/album/4liRBcZA8VxmCO17uCpwhC) | 2:34 | 2024-01-17 | 2024-04-09 |
 | [Take Me Into Space](https://open.spotify.com/track/7fyOoDZjardzxtHszeAtz3) | [Dada Life](https://open.spotify.com/artist/00sAT5YX8W3xNd1EuqyHw9), [DEXTER KING](https://open.spotify.com/artist/1cTcLDR0Y5LuXv7VlOQKmO) | [Take Me Into Space](https://open.spotify.com/album/3gep8PSYHoNtjx05xWCN6N) | 3:01 | 2023-01-17 | 2023-03-31 |
 | [Talk](https://open.spotify.com/track/1x60WzUs7c8byX7lvYJ8Fa) | [Fairlane](https://open.spotify.com/artist/3L7JnVovGbYSUmRyqhXMYO), [Bo Bruce](https://open.spotify.com/artist/4N2lZcytbZifGelhVEpMeK) | [Talk](https://open.spotify.com/album/7vhMewmkm14o6ImWq6el0I) | 3:34 | 2026-05-07 | 2026-08-15 |
+| [Talk \- VIP](https://open.spotify.com/track/6IekOuigzXMdbSKwZhjEXD) | [Fairlane](https://open.spotify.com/artist/3L7JnVovGbYSUmRyqhXMYO), [Bo Bruce](https://open.spotify.com/artist/4N2lZcytbZifGelhVEpMeK) | [Talk \(VIP\)](https://open.spotify.com/album/5VywHnvkYbol3pwTaxaTou) | 3:04 | 2026-11-26 |  |
 | [Talk To Me](https://open.spotify.com/track/1HTAiaEhm1ASBdfku96IUF) | [Ra5im](https://open.spotify.com/artist/0tozaYWflIEZ3jaXOULWjk) | [Talk To Me](https://open.spotify.com/album/4lXG5SZAxBlwZGD13ePprM) | 4:07 | 2022-09-21 | 2022-11-23 |
 | [Talk To You](https://open.spotify.com/track/5sGm4JoUGhd40NYlXMfnPw) | [Blanke](https://open.spotify.com/artist/59Yq0xrABEihHANsfo9QMT), [Sofia Quinn](https://open.spotify.com/artist/7aa9NIJCeJoYtpUL56UH6Q) | [Talk To You](https://open.spotify.com/album/6WgUuJYSA2mYQOCAvVoHZ3) | 4:06 | 2023-04-06 | 2023-06-30 |
 | [Tarantino](https://open.spotify.com/track/5UMs8rciA9omc6JDrWDV8Y) | [CloudNone](https://open.spotify.com/artist/49vNfTzZU1nXv2xO34z5RY), [Half an Orange](https://open.spotify.com/artist/64N3o9z76C2APyfgQV2HMp) | [& Friends](https://open.spotify.com/album/2ISFdlM8xYsp5D2Vndh6Br) | 3:43 | 2022-03-15 | 2022-05-27 |

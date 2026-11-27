@@ -3890,7 +3890,7 @@
       ],
       "date_added": "2026-08-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-27",
       "duration_ms": 254634,
       "name": "Spun - Kjartan Holm & Sin Fang Rework",
       "url": "https://open.spotify.com/track/4mZyu5iEEYugSPokqaFbx3"
@@ -4582,6 +4582,24 @@
       "duration_ms": 213426,
       "name": "Warmth of You",
       "url": "https://open.spotify.com/track/11HCS8E6veZP3Mkf3f5Kal"
+    },
+    {
+      "album": {
+        "name": "we stayed a little longer",
+        "url": "https://open.spotify.com/album/3sWDkkxVXzd67b52sVlKxH"
+      },
+      "artists": [
+        {
+          "name": "green.light",
+          "url": "https://open.spotify.com/artist/41XYPsG87pO9CuTUWmiPfk"
+        }
+      ],
+      "date_added": "2026-11-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 166813,
+      "name": "we stayed a little longer",
+      "url": "https://open.spotify.com/track/0uKfDCkJF0LLy5LZkBLzd3"
     },
     {
       "album": {

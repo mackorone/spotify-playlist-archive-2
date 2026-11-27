@@ -1,15 +1,15 @@
 {
   "description": "Your daily update of the most played tracks right now - France.",
-  "num_followers": 879211,
+  "num_followers": 879219,
   "original_name": "Top 50 - France",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MpqJuAAAAAAAAAAAAAAAAAAAAAAAAGVu",
+  "snapshot_id": "MpvbOAAAAAAAAAAAAAAAAAAAAAAAAGVu",
   "tracks": [
     {
-      "added_at": "2026-11-25 14:21:47",
+      "added_at": "2026-11-26 14:29:21",
       "album": {
         "name": "Flower In A Hurricane (feat. Tame Impala, SZA, King Gizzard & the Lizard Wizard) [From GTAVI: Original Score]",
         "url": "https://open.spotify.com/album/1V8Qu6CwkBfYucnCWxynq8"
@@ -41,7 +41,7 @@
       "url": "https://open.spotify.com/track/4HCOHRCSQelz2GPX8iTamO"
     },
     {
-      "added_at": "2026-11-25 14:21:47",
+      "added_at": "2026-11-26 14:29:21",
       "album": {
         "name": "Fille \u00e0 Papa",
         "url": "https://open.spotify.com/album/6WJKMOUNc5MI0l5CUp5fhl"
@@ -61,7 +61,7 @@
       "url": "https://open.spotify.com/track/2x7ItKbPQXhqXad1SwVnwS"
     },
     {
-      "added_at": "2026-11-25 14:21:47",
+      "added_at": "2026-11-26 14:29:21",
       "album": {
         "name": "Casus Belli",
         "url": "https://open.spotify.com/album/14hA41kJGeJi4MfY3EcMqk"
@@ -81,7 +81,7 @@
       "url": "https://open.spotify.com/track/4tJWZr9CkDDbiUPOShhvZY"
     },
     {
-      "added_at": "2026-11-25 14:21:47",
+      "added_at": "2026-11-26 14:29:21",
       "album": {
         "name": "WpointM",
         "url": "https://open.spotify.com/album/3DQjIYAljCg3htgIMPjLf8"
@@ -97,7 +97,7 @@
       "url": "https://open.spotify.com/track/7u9rlQE3TbZPjNCQFdoLvO"
     },
     {
-      "added_at": "2026-11-25 14:21:47",
+      "added_at": "2026-11-26 14:29:21",
       "album": {
         "name": "WpointM",
         "url": "https://open.spotify.com/album/3DQjIYAljCg3htgIMPjLf8"
@@ -117,7 +117,55 @@
       "url": "https://open.spotify.com/track/5CYfZNnRoSRzMwaLyl4ey1"
     },
     {
-      "added_at": "2026-11-25 14:21:47",
+      "added_at": "2026-11-26 14:29:21",
+      "album": {
+        "name": "FAST LIFE",
+        "url": "https://open.spotify.com/album/6veJjIj238yfsTg137hv4C"
+      },
+      "artists": [
+        {
+          "name": "L2B",
+          "url": "https://open.spotify.com/artist/4hYxvgmTzS29XAXlo5adgM"
+        }
+      ],
+      "duration_ms": 173800,
+      "name": "Dedans",
+      "url": "https://open.spotify.com/track/76afFB8dlUYFhW1INRfi01"
+    },
+    {
+      "added_at": "2026-11-26 14:29:21",
+      "album": {
+        "name": "L'undertaker",
+        "url": "https://open.spotify.com/album/1rXL3cUD3A3EU693Dolxrn"
+      },
+      "artists": [
+        {
+          "name": "Mauvais djo",
+          "url": "https://open.spotify.com/artist/51OKuyM4BiiYxFm8Mi6fa9"
+        }
+      ],
+      "duration_ms": 140026,
+      "name": "4",
+      "url": "https://open.spotify.com/track/2IEzETw6a4UmDVw0j0hjJt"
+    },
+    {
+      "added_at": "2026-11-26 14:29:21",
+      "album": {
+        "name": "L'undertaker, Pt.2",
+        "url": "https://open.spotify.com/album/2nagKdXmlO5QLpvjA27dxQ"
+      },
+      "artists": [
+        {
+          "name": "Mauvais djo",
+          "url": "https://open.spotify.com/artist/51OKuyM4BiiYxFm8Mi6fa9"
+        }
+      ],
+      "duration_ms": 168716,
+      "name": "12",
+      "url": "https://open.spotify.com/track/7C6qjGYDI7h28Nh4lQWYDo"
+    },
+    {
+      "added_at": "2026-11-26 14:29:21",
       "album": {
         "name": "IN INFINITUM",
         "url": "https://open.spotify.com/album/0TTw79ACe1zYcMGZxuFhM0"
@@ -137,39 +185,7 @@
       "url": "https://open.spotify.com/track/0Acl8fJa73xQ1nmEdIuKGx"
     },
     {
-      "added_at": "2026-11-25 14:21:47",
-      "album": {
-        "name": "FAST LIFE",
-        "url": "https://open.spotify.com/album/6veJjIj238yfsTg137hv4C"
-      },
-      "artists": [
-        {
-          "name": "L2B",
-          "url": "https://open.spotify.com/artist/4hYxvgmTzS29XAXlo5adgM"
-        }
-      ],
-      "duration_ms": 173800,
-      "name": "Dedans",
-      "url": "https://open.spotify.com/track/76afFB8dlUYFhW1INRfi01"
-    },
-    {
-      "added_at": "2026-11-25 14:21:47",
-      "album": {
-        "name": "L'undertaker",
-        "url": "https://open.spotify.com/album/1rXL3cUD3A3EU693Dolxrn"
-      },
-      "artists": [
-        {
-          "name": "Mauvais djo",
-          "url": "https://open.spotify.com/artist/51OKuyM4BiiYxFm8Mi6fa9"
-        }
-      ],
-      "duration_ms": 140026,
-      "name": "4",
-      "url": "https://open.spotify.com/track/2IEzETw6a4UmDVw0j0hjJt"
-    },
-    {
-      "added_at": "2026-11-25 14:21:47",
+      "added_at": "2026-11-26 14:29:21",
       "album": {
         "name": "J'assume",
         "url": "https://open.spotify.com/album/7q01MmYmGGFHADR5RYC54G"
@@ -185,23 +201,7 @@
       "url": "https://open.spotify.com/track/5qRO8OcqfOc7mgTEDN12XQ"
     },
     {
-      "added_at": "2026-11-25 14:21:47",
-      "album": {
-        "name": "L'undertaker, Pt.2",
-        "url": "https://open.spotify.com/album/2nagKdXmlO5QLpvjA27dxQ"
-      },
-      "artists": [
-        {
-          "name": "Mauvais djo",
-          "url": "https://open.spotify.com/artist/51OKuyM4BiiYxFm8Mi6fa9"
-        }
-      ],
-      "duration_ms": 168716,
-      "name": "12",
-      "url": "https://open.spotify.com/track/7C6qjGYDI7h28Nh4lQWYDo"
-    },
-    {
-      "added_at": "2026-11-25 14:21:47",
+      "added_at": "2026-11-26 14:29:21",
       "album": {
         "name": "BIR HAKEIM",
         "url": "https://open.spotify.com/album/4bXz2X0dtOv60AdBf1TcB9"
@@ -217,23 +217,7 @@
       "url": "https://open.spotify.com/track/7kn0PLcflNzx1tC2dRm0BX"
     },
     {
-      "added_at": "2026-11-25 14:21:47",
-      "album": {
-        "name": "IN INFINITUM",
-        "url": "https://open.spotify.com/album/0TTw79ACe1zYcMGZxuFhM0"
-      },
-      "artists": [
-        {
-          "name": "SDM",
-          "url": "https://open.spotify.com/artist/0LKAV3zJ8a8AIGnyc5OvfB"
-        }
-      ],
-      "duration_ms": 187880,
-      "name": "\u00c7A CHAUFFE",
-      "url": "https://open.spotify.com/track/5zj2b4dFoGXkpsxV2BkN5x"
-    },
-    {
-      "added_at": "2026-11-25 14:21:47",
+      "added_at": "2026-11-26 14:29:21",
       "album": {
         "name": "L'undertaker",
         "url": "https://open.spotify.com/album/1rXL3cUD3A3EU693Dolxrn"
@@ -249,7 +233,23 @@
       "url": "https://open.spotify.com/track/33Plu4Rq3ZmOfLLNQcAGva"
     },
     {
-      "added_at": "2026-11-25 14:21:47",
+      "added_at": "2026-11-26 14:29:21",
+      "album": {
+        "name": "IN INFINITUM",
+        "url": "https://open.spotify.com/album/0TTw79ACe1zYcMGZxuFhM0"
+      },
+      "artists": [
+        {
+          "name": "SDM",
+          "url": "https://open.spotify.com/artist/0LKAV3zJ8a8AIGnyc5OvfB"
+        }
+      ],
+      "duration_ms": 187880,
+      "name": "\u00c7A CHAUFFE",
+      "url": "https://open.spotify.com/track/5zj2b4dFoGXkpsxV2BkN5x"
+    },
+    {
+      "added_at": "2026-11-26 14:29:21",
       "album": {
         "name": "Destin\u00e9e Supremacy",
         "url": "https://open.spotify.com/album/2f9TdSgcGOxbjziCQKwf2t"
@@ -269,7 +269,7 @@
       "url": "https://open.spotify.com/track/6MSgVHt9pS3z20DNtBonCc"
     },
     {
-      "added_at": "2026-11-25 14:21:47",
+      "added_at": "2026-11-26 14:29:21",
       "album": {
         "name": "Noum\u00e9a",
         "url": "https://open.spotify.com/album/7lqhAywP57SUAnUBbR803I"
@@ -289,7 +289,7 @@
       "url": "https://open.spotify.com/track/6bTiBd9SYQxF4MbELTekG7"
     },
     {
-      "added_at": "2026-11-25 14:21:47",
+      "added_at": "2026-11-26 14:29:21",
       "album": {
         "name": "WpointM",
         "url": "https://open.spotify.com/album/3DQjIYAljCg3htgIMPjLf8"
@@ -309,7 +309,23 @@
       "url": "https://open.spotify.com/track/2fsZNGcGb7KVfcp3PlXgcD"
     },
     {
-      "added_at": "2026-11-25 14:21:47",
+      "added_at": "2026-11-26 14:29:21",
+      "album": {
+        "name": "L'undertaker",
+        "url": "https://open.spotify.com/album/1rXL3cUD3A3EU693Dolxrn"
+      },
+      "artists": [
+        {
+          "name": "Mauvais djo",
+          "url": "https://open.spotify.com/artist/51OKuyM4BiiYxFm8Mi6fa9"
+        }
+      ],
+      "duration_ms": 156076,
+      "name": "Pil\u00e9",
+      "url": "https://open.spotify.com/track/0PMhBcbq0a5EDngAlVQLAy"
+    },
+    {
+      "added_at": "2026-11-26 14:29:21",
       "album": {
         "name": "L'undertaker, Pt.2",
         "url": "https://open.spotify.com/album/2nagKdXmlO5QLpvjA27dxQ"
@@ -325,7 +341,39 @@
       "url": "https://open.spotify.com/track/1OwIgOyy1hJuQ6ZSMpg2MU"
     },
     {
-      "added_at": "2026-11-25 14:21:47",
+      "added_at": "2026-11-26 14:29:21",
+      "album": {
+        "name": "Le Plus Beau",
+        "url": "https://open.spotify.com/album/0UePPL79EhjZxsylVP6CJq"
+      },
+      "artists": [
+        {
+          "name": "TeddyBear",
+          "url": "https://open.spotify.com/artist/2wMA0cyQGggqKOjMfUNenu"
+        }
+      ],
+      "duration_ms": 198973,
+      "name": "Chaussures Roses",
+      "url": "https://open.spotify.com/track/2PFHIvrZjUsJ79KIOKxdXk"
+    },
+    {
+      "added_at": "2026-11-26 14:29:21",
+      "album": {
+        "name": "Pineapple",
+        "url": "https://open.spotify.com/album/7f3hFVJ3QKtimUriucF5Sx"
+      },
+      "artists": [
+        {
+          "name": "Leto",
+          "url": "https://open.spotify.com/artist/6HCBnyTBSLdb3TFn2ayulY"
+        }
+      ],
+      "duration_ms": 160487,
+      "name": "Pineapple",
+      "url": "https://open.spotify.com/track/1jSRu1IRoB6DPKsWTVGzTB"
+    },
+    {
+      "added_at": "2026-11-26 14:29:21",
       "album": {
         "name": "NO ME ARREPIENTO DE SENTIR TANTO",
         "url": "https://open.spotify.com/album/7a0lnWtCz0eW15WsWu3dHQ"
@@ -349,23 +397,7 @@
       "url": "https://open.spotify.com/track/3h5T5JypYU7huFiVYhv1dr"
     },
     {
-      "added_at": "2026-11-25 14:21:47",
-      "album": {
-        "name": "Le Plus Beau",
-        "url": "https://open.spotify.com/album/0UePPL79EhjZxsylVP6CJq"
-      },
-      "artists": [
-        {
-          "name": "TeddyBear",
-          "url": "https://open.spotify.com/artist/2wMA0cyQGggqKOjMfUNenu"
-        }
-      ],
-      "duration_ms": 198973,
-      "name": "Chaussures Roses",
-      "url": "https://open.spotify.com/track/2PFHIvrZjUsJ79KIOKxdXk"
-    },
-    {
-      "added_at": "2026-11-25 14:21:47",
+      "added_at": "2026-11-26 14:29:21",
       "album": {
         "name": "on s'en rappellera pas",
         "url": "https://open.spotify.com/album/2TLKicTW4h5Xpky6AinYq5"
@@ -385,39 +417,39 @@
       "url": "https://open.spotify.com/track/55vPnuXfuzXNW75JpuSczF"
     },
     {
-      "added_at": "2026-11-25 14:21:47",
+      "added_at": "2026-11-26 14:29:21",
       "album": {
-        "name": "Destin",
-        "url": "https://open.spotify.com/album/14p5CVdJCMRcgvICDAGS7k"
+        "name": "Sarah B.",
+        "url": "https://open.spotify.com/album/1JRUjufuzfIUnJW9mPxGd7"
       },
       "artists": [
         {
-          "name": "Ninho",
-          "url": "https://open.spotify.com/artist/6Te49r3A6f5BiIgBRxH7FH"
+          "name": "Bello&Dallas",
+          "url": "https://open.spotify.com/artist/2zW6nGPGBEaGNENvqaw9lo"
         }
       ],
-      "duration_ms": 193443,
-      "name": "La vie qu'on m\u00e8ne",
-      "url": "https://open.spotify.com/track/0Jh6iWjna1wk5le0Ahn7No"
+      "duration_ms": 153061,
+      "name": "S\u00e9minaire",
+      "url": "https://open.spotify.com/track/2m0OFkYLkK2SysSwje4xAd"
     },
     {
-      "added_at": "2026-11-25 14:21:47",
+      "added_at": "2026-11-26 14:29:21",
       "album": {
-        "name": "Et si j'\u00e9choue ?",
-        "url": "https://open.spotify.com/album/13DOol2YIm4SV5opoucJpu"
+        "name": "Neptune",
+        "url": "https://open.spotify.com/album/4d6UPuzH7S5hZhaWqQZ2U9"
       },
       "artists": [
         {
-          "name": "Bouss",
-          "url": "https://open.spotify.com/artist/3hWQDRr1PqwvnHeiZlucBq"
+          "name": "Theodora",
+          "url": "https://open.spotify.com/artist/3PpJbrAbphauEun8Xf9tD2"
         }
       ],
-      "duration_ms": 176146,
-      "name": "Cote \u00e0 la hausse",
-      "url": "https://open.spotify.com/track/3Kh2CbaeNyUp5PbjCh8PP5"
+      "duration_ms": 193072,
+      "name": "Habiba",
+      "url": "https://open.spotify.com/track/1ixnGkLXZJuEueqJioIjmm"
     },
     {
-      "added_at": "2026-11-25 14:21:47",
+      "added_at": "2026-11-26 14:29:21",
       "album": {
         "name": "Sensation",
         "url": "https://open.spotify.com/album/7ssHO3Sljdx8vlZQGT4TRM"
@@ -441,23 +473,39 @@
       "url": "https://open.spotify.com/track/1tRYfJj81vkGZ33OwQz2Eh"
     },
     {
-      "added_at": "2026-11-25 14:21:47",
+      "added_at": "2026-11-26 14:29:21",
       "album": {
-        "name": "Pineapple",
-        "url": "https://open.spotify.com/album/7f3hFVJ3QKtimUriucF5Sx"
+        "name": "Destin\u00e9e Supremacy",
+        "url": "https://open.spotify.com/album/2f9TdSgcGOxbjziCQKwf2t"
       },
       "artists": [
         {
-          "name": "Leto",
-          "url": "https://open.spotify.com/artist/6HCBnyTBSLdb3TFn2ayulY"
+          "name": "Aya Nakamura",
+          "url": "https://open.spotify.com/artist/7IlRNXHjoOCgEAWN5qYksg"
         }
       ],
-      "duration_ms": 160487,
-      "name": "Pineapple",
-      "url": "https://open.spotify.com/track/1jSRu1IRoB6DPKsWTVGzTB"
+      "duration_ms": 150511,
+      "name": "La p\u00e9tasse",
+      "url": "https://open.spotify.com/track/2FGUvuu07YxBUcK4fQ0nom"
     },
     {
-      "added_at": "2026-11-25 14:21:47",
+      "added_at": "2026-11-26 14:29:21",
+      "album": {
+        "name": "Destin",
+        "url": "https://open.spotify.com/album/14p5CVdJCMRcgvICDAGS7k"
+      },
+      "artists": [
+        {
+          "name": "Ninho",
+          "url": "https://open.spotify.com/artist/6Te49r3A6f5BiIgBRxH7FH"
+        }
+      ],
+      "duration_ms": 193443,
+      "name": "La vie qu'on m\u00e8ne",
+      "url": "https://open.spotify.com/track/0Jh6iWjna1wk5le0Ahn7No"
+    },
+    {
+      "added_at": "2026-11-26 14:29:21",
       "album": {
         "name": "Te rencontrer encore",
         "url": "https://open.spotify.com/album/1rLH6Yw3PKo031vtGiatiQ"
@@ -473,23 +521,127 @@
       "url": "https://open.spotify.com/track/5SqwlP6o9AjDRO1yNu7b09"
     },
     {
-      "added_at": "2026-11-25 14:21:47",
+      "added_at": "2026-11-26 14:29:21",
       "album": {
-        "name": "Sarah B.",
-        "url": "https://open.spotify.com/album/1JRUjufuzfIUnJW9mPxGd7"
+        "name": "(Re)belle",
+        "url": "https://open.spotify.com/album/3aAOQOzk2Iso145hyJ65Nu"
       },
       "artists": [
         {
-          "name": "Bello&Dallas",
-          "url": "https://open.spotify.com/artist/2zW6nGPGBEaGNENvqaw9lo"
+          "name": "Ad\u00e8le Castillon",
+          "url": "https://open.spotify.com/artist/4ueh4hmRvt62k4BgP8dIS0"
         }
       ],
-      "duration_ms": 153061,
-      "name": "S\u00e9minaire",
-      "url": "https://open.spotify.com/track/2m0OFkYLkK2SysSwje4xAd"
+      "duration_ms": 189266,
+      "name": "\u00c9t\u00e9 avec toi",
+      "url": "https://open.spotify.com/track/0I6ak8nLMqI4k233VOBVCd"
     },
     {
-      "added_at": "2026-11-25 14:21:47",
+      "added_at": "2026-11-26 14:29:21",
+      "album": {
+        "name": "Sicario",
+        "url": "https://open.spotify.com/album/0SoqqGHxdSJpNf7MNNE1Fq"
+      },
+      "artists": [
+        {
+          "name": "Timal",
+          "url": "https://open.spotify.com/artist/2ptKt4yP4mYRZmvi09JYyi"
+        }
+      ],
+      "duration_ms": 149538,
+      "name": "Sicario",
+      "url": "https://open.spotify.com/track/7CQW2QMr6WGaksSqn5Y4Lf"
+    },
+    {
+      "added_at": "2026-11-26 14:29:21",
+      "album": {
+        "name": "VIVE LA MONNAIE",
+        "url": "https://open.spotify.com/album/07S8hnczxCG1wvNMjbq8An"
+      },
+      "artists": [
+        {
+          "name": "GIMS",
+          "url": "https://open.spotify.com/artist/0GOx72r5AAEKRGQFn3xqXK"
+        },
+        {
+          "name": "Mauvais djo",
+          "url": "https://open.spotify.com/artist/51OKuyM4BiiYxFm8Mi6fa9"
+        }
+      ],
+      "duration_ms": 184186,
+      "name": "VIVE LA MONNAIE",
+      "url": "https://open.spotify.com/track/1wNmBZcYBdIf3Dp6P96Vn8"
+    },
+    {
+      "added_at": "2026-11-26 14:29:21",
+      "album": {
+        "name": "Destin\u00e9e Supremacy",
+        "url": "https://open.spotify.com/album/2f9TdSgcGOxbjziCQKwf2t"
+      },
+      "artists": [
+        {
+          "name": "Aya Nakamura",
+          "url": "https://open.spotify.com/artist/7IlRNXHjoOCgEAWN5qYksg"
+        }
+      ],
+      "duration_ms": 139290,
+      "name": "Tchiki",
+      "url": "https://open.spotify.com/track/4aWNY7a5Zi25pZ18Nm1R30"
+    },
+    {
+      "added_at": "2026-11-26 14:29:21",
+      "album": {
+        "name": "Et si j'\u00e9choue ?",
+        "url": "https://open.spotify.com/album/13DOol2YIm4SV5opoucJpu"
+      },
+      "artists": [
+        {
+          "name": "Bouss",
+          "url": "https://open.spotify.com/artist/3hWQDRr1PqwvnHeiZlucBq"
+        }
+      ],
+      "duration_ms": 176146,
+      "name": "Cote \u00e0 la hausse",
+      "url": "https://open.spotify.com/track/3Kh2CbaeNyUp5PbjCh8PP5"
+    },
+    {
+      "added_at": "2026-11-26 14:29:21",
+      "album": {
+        "name": "Burn This Shit Down (from GTAVI: The Album)",
+        "url": "https://open.spotify.com/album/0jgRjaxbK29djrWFc8qcTN"
+      },
+      "artists": [
+        {
+          "name": "Travis Scott",
+          "url": "https://open.spotify.com/artist/0Y5tJX1MQlPlqiwlOH1tJY"
+        },
+        {
+          "name": "Grand Theft Auto VI",
+          "url": "https://open.spotify.com/artist/15o7qdDTBzs6xWRUYUtZc1"
+        }
+      ],
+      "duration_ms": 260000,
+      "name": "Burn This Shit Down (from GTAVI: The Album)",
+      "url": "https://open.spotify.com/track/30YpKShBDGUAGfUx2BfVIb"
+    },
+    {
+      "added_at": "2026-11-26 14:29:21",
+      "album": {
+        "name": "En Croix",
+        "url": "https://open.spotify.com/album/2W1UqRYHgB4vEG4dEdtbhv"
+      },
+      "artists": [
+        {
+          "name": "Lagui",
+          "url": "https://open.spotify.com/artist/3TP2Ucsow6rW1s24aq9gb4"
+        }
+      ],
+      "duration_ms": 166779,
+      "name": "Olivia Valere",
+      "url": "https://open.spotify.com/track/6UThEXDDl7N3CWeFxYTMnm"
+    },
+    {
+      "added_at": "2026-11-26 14:29:21",
       "album": {
         "name": "Grand Gar\u00e7on",
         "url": "https://open.spotify.com/album/3S0xe0lkUMdi0H6qZcRrIr"
@@ -505,7 +657,7 @@
       "url": "https://open.spotify.com/track/6P0oYDUPYf2CNJxcokIH09"
     },
     {
-      "added_at": "2026-11-25 14:21:47",
+      "added_at": "2026-11-26 14:29:21",
       "album": {
         "name": "Diamant Noir",
         "url": "https://open.spotify.com/album/7LNFnwCFOuBNmlLwywpT3q"
@@ -529,55 +681,39 @@
       "url": "https://open.spotify.com/track/5M6bU1A2VHwWoKmHiYjrdU"
     },
     {
-      "added_at": "2026-11-25 14:21:47",
+      "added_at": "2026-11-26 14:29:21",
       "album": {
-        "name": "(Re)belle",
-        "url": "https://open.spotify.com/album/3aAOQOzk2Iso145hyJ65Nu"
+        "name": "The cat",
+        "url": "https://open.spotify.com/album/4YnR2N1LjIrS712qZvBWs7"
       },
       "artists": [
         {
-          "name": "Ad\u00e8le Castillon",
-          "url": "https://open.spotify.com/artist/4ueh4hmRvt62k4BgP8dIS0"
+          "name": "Nono La Grinta",
+          "url": "https://open.spotify.com/artist/4P2HohWBtvSxxwabNDdYXN"
         }
       ],
-      "duration_ms": 189266,
-      "name": "\u00c9t\u00e9 avec toi",
-      "url": "https://open.spotify.com/track/0I6ak8nLMqI4k233VOBVCd"
+      "duration_ms": 147692,
+      "name": "LOVE YOU",
+      "url": "https://open.spotify.com/track/0SYGJCm9PpTvO7g14EZQex"
     },
     {
-      "added_at": "2026-11-25 14:21:47",
+      "added_at": "2026-11-26 14:29:21",
       "album": {
-        "name": "L'undertaker",
-        "url": "https://open.spotify.com/album/1rXL3cUD3A3EU693Dolxrn"
+        "name": "AYA",
+        "url": "https://open.spotify.com/album/0BUPS678TfgTmCMVOviolC"
       },
       "artists": [
         {
-          "name": "Mauvais djo",
-          "url": "https://open.spotify.com/artist/51OKuyM4BiiYxFm8Mi6fa9"
+          "name": "Aya Nakamura",
+          "url": "https://open.spotify.com/artist/7IlRNXHjoOCgEAWN5qYksg"
         }
       ],
-      "duration_ms": 156076,
-      "name": "Pil\u00e9",
-      "url": "https://open.spotify.com/track/0PMhBcbq0a5EDngAlVQLAy"
+      "duration_ms": 183773,
+      "name": "La machine",
+      "url": "https://open.spotify.com/track/4YcK0u6DgSg1jQqWYCXTBq"
     },
     {
-      "added_at": "2026-11-25 14:21:47",
-      "album": {
-        "name": "Neptune",
-        "url": "https://open.spotify.com/album/4d6UPuzH7S5hZhaWqQZ2U9"
-      },
-      "artists": [
-        {
-          "name": "Theodora",
-          "url": "https://open.spotify.com/artist/3PpJbrAbphauEun8Xf9tD2"
-        }
-      ],
-      "duration_ms": 193072,
-      "name": "Habiba",
-      "url": "https://open.spotify.com/track/1ixnGkLXZJuEueqJioIjmm"
-    },
-    {
-      "added_at": "2026-11-25 14:21:47",
+      "added_at": "2026-11-26 14:29:21",
       "album": {
         "name": "Casus Belli",
         "url": "https://open.spotify.com/album/14hA41kJGeJi4MfY3EcMqk"
@@ -597,159 +733,7 @@
       "url": "https://open.spotify.com/track/7GvUVtvpRmxlun1sUnAHNt"
     },
     {
-      "added_at": "2026-11-25 14:21:47",
-      "album": {
-        "name": "Destin\u00e9e Supremacy",
-        "url": "https://open.spotify.com/album/2f9TdSgcGOxbjziCQKwf2t"
-      },
-      "artists": [
-        {
-          "name": "Aya Nakamura",
-          "url": "https://open.spotify.com/artist/7IlRNXHjoOCgEAWN5qYksg"
-        }
-      ],
-      "duration_ms": 150511,
-      "name": "La p\u00e9tasse",
-      "url": "https://open.spotify.com/track/2FGUvuu07YxBUcK4fQ0nom"
-    },
-    {
-      "added_at": "2026-11-25 14:21:47",
-      "album": {
-        "name": "Sicario",
-        "url": "https://open.spotify.com/album/0SoqqGHxdSJpNf7MNNE1Fq"
-      },
-      "artists": [
-        {
-          "name": "Timal",
-          "url": "https://open.spotify.com/artist/2ptKt4yP4mYRZmvi09JYyi"
-        }
-      ],
-      "duration_ms": 149538,
-      "name": "Sicario",
-      "url": "https://open.spotify.com/track/7CQW2QMr6WGaksSqn5Y4Lf"
-    },
-    {
-      "added_at": "2026-11-25 14:21:47",
-      "album": {
-        "name": "En Croix",
-        "url": "https://open.spotify.com/album/2W1UqRYHgB4vEG4dEdtbhv"
-      },
-      "artists": [
-        {
-          "name": "Lagui",
-          "url": "https://open.spotify.com/artist/3TP2Ucsow6rW1s24aq9gb4"
-        }
-      ],
-      "duration_ms": 166779,
-      "name": "Olivia Valere",
-      "url": "https://open.spotify.com/track/6UThEXDDl7N3CWeFxYTMnm"
-    },
-    {
-      "added_at": "2026-11-25 14:21:47",
-      "album": {
-        "name": "Housewife",
-        "url": "https://open.spotify.com/album/6JvmSyocXef7RZDZFaymNl"
-      },
-      "artists": [
-        {
-          "name": "Tate McRae",
-          "url": "https://open.spotify.com/artist/45dkTj5sMRSjrmBSBeiHym"
-        }
-      ],
-      "duration_ms": 208810,
-      "name": "Housewife",
-      "url": "https://open.spotify.com/track/2sFepQNyl1WjpROruP8bJ0"
-    },
-    {
-      "added_at": "2026-11-25 14:21:47",
-      "album": {
-        "name": "The cat",
-        "url": "https://open.spotify.com/album/4YnR2N1LjIrS712qZvBWs7"
-      },
-      "artists": [
-        {
-          "name": "Nono La Grinta",
-          "url": "https://open.spotify.com/artist/4P2HohWBtvSxxwabNDdYXN"
-        }
-      ],
-      "duration_ms": 147692,
-      "name": "LOVE YOU",
-      "url": "https://open.spotify.com/track/0SYGJCm9PpTvO7g14EZQex"
-    },
-    {
-      "added_at": "2026-11-25 14:21:47",
-      "album": {
-        "name": "VIVE LA MONNAIE",
-        "url": "https://open.spotify.com/album/07S8hnczxCG1wvNMjbq8An"
-      },
-      "artists": [
-        {
-          "name": "GIMS",
-          "url": "https://open.spotify.com/artist/0GOx72r5AAEKRGQFn3xqXK"
-        },
-        {
-          "name": "Mauvais djo",
-          "url": "https://open.spotify.com/artist/51OKuyM4BiiYxFm8Mi6fa9"
-        }
-      ],
-      "duration_ms": 184186,
-      "name": "VIVE LA MONNAIE",
-      "url": "https://open.spotify.com/track/1wNmBZcYBdIf3Dp6P96Vn8"
-    },
-    {
-      "added_at": "2026-11-25 14:21:47",
-      "album": {
-        "name": "Deadbeat",
-        "url": "https://open.spotify.com/album/5WulAOx9ilWy1h8UGZ1gkI"
-      },
-      "artists": [
-        {
-          "name": "Tame Impala",
-          "url": "https://open.spotify.com/artist/5INjqkS1o8h1imAzPqGZBb"
-        }
-      ],
-      "duration_ms": 223069,
-      "name": "Loser",
-      "url": "https://open.spotify.com/track/7bxaFZ1O3cHkgLKMsdC3xR"
-    },
-    {
-      "added_at": "2026-11-25 14:21:47",
-      "album": {
-        "name": "Self Aware",
-        "url": "https://open.spotify.com/album/7Cdqksm4yTfiq0EfKPa86M"
-      },
-      "artists": [
-        {
-          "name": "Temper City",
-          "url": "https://open.spotify.com/artist/5mHUmlJWkcoOk1NbjfrXWz"
-        }
-      ],
-      "duration_ms": 180740,
-      "name": "Self Aware",
-      "url": "https://open.spotify.com/track/4qW3BbQAwZsrnu8a3ZRdyT"
-    },
-    {
-      "added_at": "2026-11-25 14:21:47",
-      "album": {
-        "name": "Burn This Shit Down (from GTAVI: The Album)",
-        "url": "https://open.spotify.com/album/0jgRjaxbK29djrWFc8qcTN"
-      },
-      "artists": [
-        {
-          "name": "Travis Scott",
-          "url": "https://open.spotify.com/artist/0Y5tJX1MQlPlqiwlOH1tJY"
-        },
-        {
-          "name": "Grand Theft Auto VI",
-          "url": "https://open.spotify.com/artist/15o7qdDTBzs6xWRUYUtZc1"
-        }
-      ],
-      "duration_ms": 260000,
-      "name": "Burn This Shit Down (from GTAVI: The Album)",
-      "url": "https://open.spotify.com/track/30YpKShBDGUAGfUx2BfVIb"
-    },
-    {
-      "added_at": "2026-11-25 14:21:47",
+      "added_at": "2026-11-26 14:29:21",
       "album": {
         "name": "Ips\u00e9it\u00e9",
         "url": "https://open.spotify.com/album/7ovdjtmV0Bkm4Xb4pqtrZt"
@@ -765,23 +749,59 @@
       "url": "https://open.spotify.com/track/0z0izoGFPCoPJKFi41azyb"
     },
     {
-      "added_at": "2026-11-25 14:21:47",
+      "added_at": "2026-11-26 14:29:21",
       "album": {
-        "name": "Babydoll",
-        "url": "https://open.spotify.com/album/2FRSDXehsQLDy2rYnZ9Drq"
+        "name": "Dai Dai",
+        "url": "https://open.spotify.com/album/2eeufspLkAubwTJfOGSrI8"
       },
       "artists": [
         {
-          "name": "Jamie Miller",
-          "url": "https://open.spotify.com/artist/2LkkwxA19J8C52wPQl5bG6"
+          "name": "Shakira",
+          "url": "https://open.spotify.com/artist/0EmeFodog0BfCgMzAIvKQp"
+        },
+        {
+          "name": "Burna Boy",
+          "url": "https://open.spotify.com/artist/3wcj11K77LjEY1PkEazffa"
         }
       ],
-      "duration_ms": 178822,
-      "name": "Babydoll",
-      "url": "https://open.spotify.com/track/1o9mAOmNm3wT2NdyGV1Ard"
+      "duration_ms": 223448,
+      "name": "Dai Dai",
+      "url": "https://open.spotify.com/track/0kosUz0jePvjiz4ctmR6wL"
     },
     {
-      "added_at": "2026-11-25 14:21:47",
+      "added_at": "2026-11-26 14:29:21",
+      "album": {
+        "name": "Housewife",
+        "url": "https://open.spotify.com/album/6JvmSyocXef7RZDZFaymNl"
+      },
+      "artists": [
+        {
+          "name": "Tate McRae",
+          "url": "https://open.spotify.com/artist/45dkTj5sMRSjrmBSBeiHym"
+        }
+      ],
+      "duration_ms": 208810,
+      "name": "Housewife",
+      "url": "https://open.spotify.com/track/2sFepQNyl1WjpROruP8bJ0"
+    },
+    {
+      "added_at": "2026-11-26 14:29:21",
+      "album": {
+        "name": "Deadbeat",
+        "url": "https://open.spotify.com/album/5WulAOx9ilWy1h8UGZ1gkI"
+      },
+      "artists": [
+        {
+          "name": "Tame Impala",
+          "url": "https://open.spotify.com/artist/5INjqkS1o8h1imAzPqGZBb"
+        }
+      ],
+      "duration_ms": 223069,
+      "name": "Loser",
+      "url": "https://open.spotify.com/track/7bxaFZ1O3cHkgLKMsdC3xR"
+    },
+    {
+      "added_at": "2026-11-26 14:29:21",
       "album": {
         "name": "The Girl Of Your Dreams",
         "url": "https://open.spotify.com/album/03HD0ohJOvejRoesXWKZFl"
@@ -797,7 +817,39 @@
       "url": "https://open.spotify.com/track/7MOO89Qv9AV7VZkt5mcqA8"
     },
     {
-      "added_at": "2026-11-25 14:21:47",
+      "added_at": "2026-11-26 14:29:21",
+      "album": {
+        "name": "Babydoll",
+        "url": "https://open.spotify.com/album/2FRSDXehsQLDy2rYnZ9Drq"
+      },
+      "artists": [
+        {
+          "name": "Jamie Miller",
+          "url": "https://open.spotify.com/artist/2LkkwxA19J8C52wPQl5bG6"
+        }
+      ],
+      "duration_ms": 178822,
+      "name": "Babydoll",
+      "url": "https://open.spotify.com/track/1o9mAOmNm3wT2NdyGV1Ard"
+    },
+    {
+      "added_at": "2026-11-26 14:29:21",
+      "album": {
+        "name": "Self Aware",
+        "url": "https://open.spotify.com/album/7Cdqksm4yTfiq0EfKPa86M"
+      },
+      "artists": [
+        {
+          "name": "Temper City",
+          "url": "https://open.spotify.com/artist/5mHUmlJWkcoOk1NbjfrXWz"
+        }
+      ],
+      "duration_ms": 180740,
+      "name": "Self Aware",
+      "url": "https://open.spotify.com/track/4qW3BbQAwZsrnu8a3ZRdyT"
+    },
+    {
+      "added_at": "2026-11-26 14:29:21",
       "album": {
         "name": "Argent Sale - A COLORS SHOW",
         "url": "https://open.spotify.com/album/5rnigfYhS1xJ8JuRQhNfcE"
@@ -817,84 +869,36 @@
       "url": "https://open.spotify.com/track/0UbEeYuehzUktmPlhMtfA8"
     },
     {
-      "added_at": "2026-11-25 14:21:47",
+      "added_at": "2026-11-26 14:29:21",
       "album": {
-        "name": "RESTART",
-        "url": "https://open.spotify.com/album/6AjfJo32ltHVnKEhHrnz0L"
+        "name": "D\u00e9gun",
+        "url": "https://open.spotify.com/album/41PYeXwfA8Tenh0HajTLud"
       },
       "artists": [
         {
-          "name": "Nono La Grinta",
-          "url": "https://open.spotify.com/artist/4P2HohWBtvSxxwabNDdYXN"
+          "name": "Lagui",
+          "url": "https://open.spotify.com/artist/3TP2Ucsow6rW1s24aq9gb4"
         }
       ],
-      "duration_ms": 172259,
-      "name": "Paris",
-      "url": "https://open.spotify.com/track/3kql0qldZ3x5qUxwmUgYGa"
+      "duration_ms": 178000,
+      "name": "D\u00e9gun",
+      "url": "https://open.spotify.com/track/42KE76b1zWzeyFYYz6xKTF"
     },
     {
-      "added_at": "2026-11-25 14:21:47",
+      "added_at": "2026-11-26 14:29:21",
       "album": {
-        "name": "AYA",
-        "url": "https://open.spotify.com/album/0BUPS678TfgTmCMVOviolC"
+        "name": "M.I.L.S 3",
+        "url": "https://open.spotify.com/album/7MYn9BLGDun0DFxKKQUrWJ"
       },
       "artists": [
         {
-          "name": "Aya Nakamura",
-          "url": "https://open.spotify.com/artist/7IlRNXHjoOCgEAWN5qYksg"
+          "name": "Ninho",
+          "url": "https://open.spotify.com/artist/6Te49r3A6f5BiIgBRxH7FH"
         }
       ],
-      "duration_ms": 183773,
-      "name": "La machine",
-      "url": "https://open.spotify.com/track/4YcK0u6DgSg1jQqWYCXTBq"
-    },
-    {
-      "added_at": "2026-11-25 14:21:47",
-      "album": {
-        "name": "IN INFINITUM",
-        "url": "https://open.spotify.com/album/0TTw79ACe1zYcMGZxuFhM0"
-      },
-      "artists": [
-        {
-          "name": "SDM",
-          "url": "https://open.spotify.com/artist/0LKAV3zJ8a8AIGnyc5OvfB"
-        }
-      ],
-      "duration_ms": 181093,
-      "name": "DES PHOTOS DE TOI",
-      "url": "https://open.spotify.com/track/4xDDyAoBBKd1AvA3DAXiz3"
-    },
-    {
-      "added_at": "2026-11-25 14:21:47",
-      "album": {
-        "name": "A LA VIE A LA MORT",
-        "url": "https://open.spotify.com/album/22NwdsP47PnWsA58u3z7S9"
-      },
-      "artists": [
-        {
-          "name": "SDM",
-          "url": "https://open.spotify.com/artist/0LKAV3zJ8a8AIGnyc5OvfB"
-        }
-      ],
-      "duration_ms": 183813,
-      "name": "CARTIER SANTOS",
-      "url": "https://open.spotify.com/track/1Mzg6bu3hkCwJKEf7v49MN"
-    },
-    {
-      "added_at": "2026-11-25 14:21:47",
-      "album": {
-        "name": "Destin\u00e9e Supremacy",
-        "url": "https://open.spotify.com/album/2f9TdSgcGOxbjziCQKwf2t"
-      },
-      "artists": [
-        {
-          "name": "Aya Nakamura",
-          "url": "https://open.spotify.com/artist/7IlRNXHjoOCgEAWN5qYksg"
-        }
-      ],
-      "duration_ms": 139290,
-      "name": "Tchiki",
-      "url": "https://open.spotify.com/track/4aWNY7a5Zi25pZ18Nm1R30"
+      "duration_ms": 157766,
+      "name": "Lettre \u00e0 une femme",
+      "url": "https://open.spotify.com/track/5HEtuK03ygUzqca6yfgOYZ"
     }
   ],
   "unique_name": "Top 50 - France",

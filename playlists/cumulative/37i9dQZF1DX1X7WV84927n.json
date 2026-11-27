@@ -657,6 +657,24 @@
     },
     {
       "album": {
+        "name": "A Particular Proclivity for Pain",
+        "url": "https://open.spotify.com/album/3FJG6xhlLeC8WP0oBkpAQ7"
+      },
+      "artists": [
+        {
+          "name": "Chiodos",
+          "url": "https://open.spotify.com/artist/4ZIBrskTJWmkJUvM7uAu1o"
+        }
+      ],
+      "date_added": "2026-11-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 235715,
+      "name": "A Particular Proclivity for Pain",
+      "url": "https://open.spotify.com/track/7IgwIgLydCzA8KaRIPueEw"
+    },
+    {
+      "album": {
         "name": "A Pure Expression",
         "url": "https://open.spotify.com/album/5Epd7YN5aMt7VUOqteapKs"
       },
@@ -1759,6 +1777,28 @@
     },
     {
       "album": {
+        "name": "Anemoia",
+        "url": "https://open.spotify.com/album/7yMWsbfHNltTLoasYCbXBw"
+      },
+      "artists": [
+        {
+          "name": "Northlane",
+          "url": "https://open.spotify.com/artist/3qyg72RGnGdF521zMU02u9"
+        },
+        {
+          "name": "Dayseeker",
+          "url": "https://open.spotify.com/artist/5FjQVp1Lb0kltmwIuu5kfj"
+        }
+      ],
+      "date_added": "2026-11-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 253744,
+      "name": "Anemoia",
+      "url": "https://open.spotify.com/track/4gpv83yAQbdgTEisrNeBkB"
+    },
+    {
+      "album": {
         "name": "God Forgives",
         "url": "https://open.spotify.com/album/4u3ICe4arWgurXRgAzJFii"
       },
@@ -2226,6 +2266,24 @@
       "duration_ms": 178252,
       "name": "At My Worst",
       "url": "https://open.spotify.com/track/5r2o9tvg0iGQDBPKXJb2Rg"
+    },
+    {
+      "album": {
+        "name": "Attitude",
+        "url": "https://open.spotify.com/album/7g4PN2FFQHUcUmoNhLG3Z4"
+      },
+      "artists": [
+        {
+          "name": "Villanelle",
+          "url": "https://open.spotify.com/artist/3J9QwmRJDdn9Oq1fB6mfcF"
+        }
+      ],
+      "date_added": "2026-11-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 164961,
+      "name": "Attitude",
+      "url": "https://open.spotify.com/track/3CFth9g2SUk7IpLYIazXTz"
     },
     {
       "album": {
@@ -5154,7 +5212,7 @@
       ],
       "date_added": "2026-06-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-27",
       "duration_ms": 177333,
       "name": "Cemetery Friend",
       "url": "https://open.spotify.com/track/66dUVvepWzy0umDIq7klTN"
@@ -12451,6 +12509,24 @@
     },
     {
       "album": {
+        "name": "Gingivitis",
+        "url": "https://open.spotify.com/album/6Xt8bKhbnXV6oKEoCFHTLc"
+      },
+      "artists": [
+        {
+          "name": "Dance Gavin Dance",
+          "url": "https://open.spotify.com/artist/6guC9FqvlVboSKTI77NG2k"
+        }
+      ],
+      "date_added": "2026-11-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 168512,
+      "name": "Gingivitis",
+      "url": "https://open.spotify.com/track/6Ye8SxKmSFcMazWrqxOuL0"
+    },
+    {
+      "album": {
         "name": "GIRL$",
         "url": "https://open.spotify.com/album/5PiG8SxQgviIgBa3Pb3Shn"
       },
@@ -16654,7 +16730,7 @@
       ],
       "date_added": "2026-01-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-27",
       "duration_ms": 214723,
       "name": "Into Oblivion",
       "url": "https://open.spotify.com/track/0bUxpdWMazVZv1f7TSNSCW"
@@ -23372,7 +23448,7 @@
       ],
       "date_added": "2026-05-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-27",
       "duration_ms": 132857,
       "name": "One to Create You",
       "url": "https://open.spotify.com/track/53QEb0ny2MNk9sJ9bdFECK"
@@ -27200,7 +27276,7 @@
       ],
       "date_added": "2025-10-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-27",
       "duration_ms": 246946,
       "name": "Same Old Song",
       "url": "https://open.spotify.com/track/6pfwu8OzVOuNWLY7aH6fzw"
@@ -28340,7 +28416,7 @@
       ],
       "date_added": "2026-11-07",
       "date_added_asterisk": false,
-      "date_removed": "2026-11-26",
+      "date_removed": null,
       "duration_ms": 150093,
       "name": "Shedding Season (feat. Courtney LaPlante)",
       "url": "https://open.spotify.com/track/2RO6D7molMZBEdGrnhCK0J"
@@ -28780,7 +28856,7 @@
       ],
       "date_added": "2026-11-07",
       "date_added_asterisk": false,
-      "date_removed": "2026-11-24",
+      "date_removed": null,
       "duration_ms": 278710,
       "name": "Sit With",
       "url": "https://open.spotify.com/track/7gAaTedliEH4NFFjvqpA5H"
@@ -30814,7 +30890,7 @@
       ],
       "date_added": "2026-07-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-27",
       "duration_ms": 246767,
       "name": "TAPDAT",
       "url": "https://open.spotify.com/track/0pQ9gtLMkVhioRBVl5yCHs"
@@ -35818,7 +35894,7 @@
       ],
       "date_added": "2026-10-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-27",
       "duration_ms": 164800,
       "name": "War Bait",
       "url": "https://open.spotify.com/track/1JmJd0PiRNmJdGJZVABRNX"

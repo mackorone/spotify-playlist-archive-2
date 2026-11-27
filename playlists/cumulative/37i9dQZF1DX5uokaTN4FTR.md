@@ -2,7 +2,7 @@
 
 ### [Massive Dance Hits](https://open.spotify.com/playlist/37i9dQZF1DX5uokaTN4FTR)
 
-> The UK's biggest dance playlist! HUGEL
+> The UK's biggest dance playlist! Paul Oakenfold, Julian Fijma
 
 799 songs - 1 day 17 hr 31 min
 

@@ -719,6 +719,22 @@
     {
       "added_at": "2024-11-07 00:01:00",
       "album": {
+        "name": "Spotify Singles",
+        "url": "https://open.spotify.com/album/2ouh1shN9w3s7NzrW1sIDX"
+      },
+      "artists": [
+        {
+          "name": "Juanes",
+          "url": "https://open.spotify.com/artist/0UWZUmn7sybxMCqrw9tGa7"
+        }
+      ],
+      "duration_ms": 212773,
+      "name": "Fuego",
+      "url": "https://open.spotify.com/track/1ppfwB95hLpO2C6VYJxa3t"
+    },
+    {
+      "added_at": "2024-11-07 00:01:00",
+      "album": {
         "name": "NO CH\u00c3O NOVINHA (feat. Anitta) - Spotify Singles",
         "url": "https://open.spotify.com/album/1eINGKV81kCl8F4sfhSEbO"
       },
@@ -739,22 +755,6 @@
       "duration_ms": 121681,
       "name": "NO CH\u00c3O NOVINHA (feat. Anitta) - Spotify Singles",
       "url": "https://open.spotify.com/track/4qqKYtFZmduS5mP6w3vRCV"
-    },
-    {
-      "added_at": "2024-11-07 00:01:00",
-      "album": {
-        "name": "Spotify Singles",
-        "url": "https://open.spotify.com/album/2ouh1shN9w3s7NzrW1sIDX"
-      },
-      "artists": [
-        {
-          "name": "Juanes",
-          "url": "https://open.spotify.com/artist/0UWZUmn7sybxMCqrw9tGa7"
-        }
-      ],
-      "duration_ms": 212773,
-      "name": "Fuego",
-      "url": "https://open.spotify.com/track/1ppfwB95hLpO2C6VYJxa3t"
     },
     {
       "added_at": "2024-11-07 00:01:00",
@@ -959,34 +959,6 @@
     {
       "added_at": "2024-11-07 00:01:00",
       "album": {
-        "name": "Barbie - Spotify Singles (feat. FARIANA)",
-        "url": "https://open.spotify.com/album/5CU5MAvKXgVvMzEhYIrhOT"
-      },
-      "artists": [
-        {
-          "name": "Rebecca",
-          "url": "https://open.spotify.com/artist/5MS6HieNmKxzkAM8amE8sr"
-        },
-        {
-          "name": "Dulce Mar\u00eda",
-          "url": "https://open.spotify.com/artist/6kaefrHSdAvxhhCVDFTCEL"
-        },
-        {
-          "name": "Mc Danny",
-          "url": "https://open.spotify.com/artist/3PZTvUS5fUUhV3EKAjqdZk"
-        },
-        {
-          "name": "FARIANA",
-          "url": "https://open.spotify.com/artist/7cYik4OyfBXYV5Z2TI7p90"
-        }
-      ],
-      "duration_ms": 169424,
-      "name": "Barbie - Spotify Singles (feat. FARIANA)",
-      "url": "https://open.spotify.com/track/5xsk1jDIPQv1zptUIb4Ote"
-    },
-    {
-      "added_at": "2024-11-07 00:01:00",
-      "album": {
         "name": "Prende el Arbolito - Spotify Singles Holiday",
         "url": "https://open.spotify.com/album/6p9QNLWNLeW8cyo8W2g60n"
       },
@@ -1011,6 +983,34 @@
       "duration_ms": 170163,
       "name": "Prende el Arbolito - Spotify Singles Holiday",
       "url": "https://open.spotify.com/track/1C6bP1OpwtZO2RDKlQfFtW"
+    },
+    {
+      "added_at": "2024-11-07 00:01:00",
+      "album": {
+        "name": "Barbie - Spotify Singles (feat. FARIANA)",
+        "url": "https://open.spotify.com/album/5CU5MAvKXgVvMzEhYIrhOT"
+      },
+      "artists": [
+        {
+          "name": "Rebecca",
+          "url": "https://open.spotify.com/artist/5MS6HieNmKxzkAM8amE8sr"
+        },
+        {
+          "name": "Dulce Mar\u00eda",
+          "url": "https://open.spotify.com/artist/6kaefrHSdAvxhhCVDFTCEL"
+        },
+        {
+          "name": "Mc Danny",
+          "url": "https://open.spotify.com/artist/3PZTvUS5fUUhV3EKAjqdZk"
+        },
+        {
+          "name": "FARIANA",
+          "url": "https://open.spotify.com/artist/7cYik4OyfBXYV5Z2TI7p90"
+        }
+      ],
+      "duration_ms": 169424,
+      "name": "Barbie - Spotify Singles (feat. FARIANA)",
+      "url": "https://open.spotify.com/track/5xsk1jDIPQv1zptUIb4Ote"
     },
     {
       "added_at": "2024-11-07 00:01:00",

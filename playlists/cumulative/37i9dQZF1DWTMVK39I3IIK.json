@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2024-07-02",
-  "description": "unge kniv \ud83d\udd2a @Albert",
+  "description": "unge kniv \ud83d\udd2a @AstridMatthesen ",
   "name": "ung kniv ",
   "tracks": [
     {
@@ -118,6 +118,24 @@
       "duration_ms": 159543,
       "name": "4. sal",
       "url": "https://open.spotify.com/track/0c4Wvo36qvLm1G2GzIhWY3"
+    },
+    {
+      "album": {
+        "name": "99 Lives",
+        "url": "https://open.spotify.com/album/4Jw4iV4aObtj1MVbZPIVAx"
+      },
+      "artists": [
+        {
+          "name": "Blondage",
+          "url": "https://open.spotify.com/artist/44XhQBXnAIhby5VC4GRo81"
+        }
+      ],
+      "date_added": "2026-11-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 198478,
+      "name": "99 Lives",
+      "url": "https://open.spotify.com/track/3fF0dHEDUDgSyVglTLW5s3"
     },
     {
       "album": {
@@ -1794,7 +1812,7 @@
       ],
       "date_added": "2026-11-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-27",
       "duration_ms": 152273,
       "name": "Du Ved Jeg Forst\u00e5r Det",
       "url": "https://open.spotify.com/track/3Vp9YoclG72m2wq9zIj4lo"
@@ -1888,7 +1906,7 @@
       ],
       "date_added": "2026-05-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-27",
       "duration_ms": 208216,
       "name": "eeelluminagee",
       "url": "https://open.spotify.com/track/3CNH1O6Yxyw9Hx9ewlSRdy"
@@ -2555,6 +2573,24 @@
     },
     {
       "album": {
+        "name": "F\u00f8r Det Blir\u2019 Vinter Igen",
+        "url": "https://open.spotify.com/album/0PhiuD1zupU27ke1TScWeI"
+      },
+      "artists": [
+        {
+          "name": "LUCY",
+          "url": "https://open.spotify.com/artist/3YYCYfeypDt0g0kwgNYIWw"
+        }
+      ],
+      "date_added": "2026-11-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 209466,
+      "name": "F\u00f8r Det Blir\u2019 Vinter Igen",
+      "url": "https://open.spotify.com/track/5ukozUB1V85YxUlzSIqebi"
+    },
+    {
+      "album": {
         "name": "F\u00f8r du siger farvel",
         "url": "https://open.spotify.com/album/0fdDLy5cZ6jo4Tznlibbby"
       },
@@ -3078,7 +3114,7 @@
       ],
       "date_added": "2026-06-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-27",
       "duration_ms": 164000,
       "name": "Heliumtanker",
       "url": "https://open.spotify.com/track/2bm8pFI3ZPsZxRpxgBr85D"
@@ -3731,6 +3767,24 @@
     },
     {
       "album": {
+        "name": "Long Way Home",
+        "url": "https://open.spotify.com/album/0pe1IhCBa259ryvQITblYO"
+      },
+      "artists": [
+        {
+          "name": "GUZO",
+          "url": "https://open.spotify.com/artist/5kYNsgbRhmiRs9FZxwaFwV"
+        }
+      ],
+      "date_added": "2026-11-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 189584,
+      "name": "I Hate Endings",
+      "url": "https://open.spotify.com/track/3lDXbWPcHuIC0nqIpiyQk7"
+    },
+    {
+      "album": {
         "name": "I Made It (feat. Andreas Odbjerg)",
         "url": "https://open.spotify.com/album/6wfDg2hy0GrwJEOQ7h1yMD"
       },
@@ -4270,7 +4324,7 @@
       ],
       "date_added": "2026-11-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-27",
       "duration_ms": 241587,
       "name": "Jetlag",
       "url": "https://open.spotify.com/track/6HtKaapCZGhHKvuWatfaLk"
@@ -5152,6 +5206,24 @@
       "duration_ms": 220384,
       "name": "Marigold",
       "url": "https://open.spotify.com/track/0ial8d0UqAOVetenDTpcI7"
+    },
+    {
+      "album": {
+        "name": "Memo",
+        "url": "https://open.spotify.com/album/5GR5rOaGVQdkWJ8ueFM6C7"
+      },
+      "artists": [
+        {
+          "name": "Astrid Matthesen",
+          "url": "https://open.spotify.com/artist/2DQ9yWHmT4sWYbMRtXae6C"
+        }
+      ],
+      "date_added": "2026-11-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 251903,
+      "name": "Memo",
+      "url": "https://open.spotify.com/track/2sfbUZrbgKtGG32q5cDSCt"
     },
     {
       "album": {

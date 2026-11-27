@@ -1,12 +1,12 @@
 {
   "description": "This is Angela Torres. The essential tracks, all in one playlist.",
-  "num_followers": 10079,
+  "num_followers": 10084,
   "original_name": "This Is Angela Torres",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "awOCAAAAAABFLnXczyGJXtW0M8YQDDmT",
+  "snapshot_id": "awYlAAAAAAANA/YAM8uHGxjIUM9lIpnV",
   "tracks": [
     {
       "added_at": null,
@@ -187,8 +187,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "torpe / 21 de agosto",
-        "url": "https://open.spotify.com/album/123uMR7FtCe5TyLAVOz6AS"
+        "name": "mi nombre",
+        "url": "https://open.spotify.com/album/6H4WQWjOe65h2KpUwsp9XY"
       },
       "artists": [
         {
@@ -196,9 +196,9 @@
           "url": "https://open.spotify.com/artist/6LZA6PhNCwUfHzqfpN1nYL"
         }
       ],
-      "duration_ms": 232163,
-      "name": "torpe",
-      "url": "https://open.spotify.com/track/3zyaRbV2qnkJG8oIBv3P3I"
+      "duration_ms": 194896,
+      "name": "mi nombre",
+      "url": "https://open.spotify.com/track/0SOxTwy4KpvythrIe3xToH"
     },
     {
       "added_at": null,
@@ -219,8 +219,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "mi nombre",
-        "url": "https://open.spotify.com/album/6H4WQWjOe65h2KpUwsp9XY"
+        "name": "torpe / 21 de agosto",
+        "url": "https://open.spotify.com/album/123uMR7FtCe5TyLAVOz6AS"
       },
       "artists": [
         {
@@ -228,9 +228,9 @@
           "url": "https://open.spotify.com/artist/6LZA6PhNCwUfHzqfpN1nYL"
         }
       ],
-      "duration_ms": 194896,
-      "name": "mi nombre",
-      "url": "https://open.spotify.com/track/0SOxTwy4KpvythrIe3xToH"
+      "duration_ms": 232163,
+      "name": "torpe",
+      "url": "https://open.spotify.com/track/3zyaRbV2qnkJG8oIBv3P3I"
     },
     {
       "added_at": null,
@@ -523,22 +523,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Fiebre",
-        "url": "https://open.spotify.com/album/5sMP31RiHju3dGZ5tPdPWj"
-      },
-      "artists": [
-        {
-          "name": "Angela Torres",
-          "url": "https://open.spotify.com/artist/6LZA6PhNCwUfHzqfpN1nYL"
-        }
-      ],
-      "duration_ms": 140816,
-      "name": "Fiebre",
-      "url": "https://open.spotify.com/track/3pNi7px9XVXGlwqr0fZHXo"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Nasty Girl (feat. Ingratax)",
         "url": "https://open.spotify.com/album/7nmAtVkZuv1Z9iwvCpwbXs"
       },
@@ -567,8 +551,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "AL\u00d3",
-        "url": "https://open.spotify.com/album/3qUJJlinoiociQmSFKhRbx"
+        "name": "Fiebre",
+        "url": "https://open.spotify.com/album/5sMP31RiHju3dGZ5tPdPWj"
       },
       "artists": [
         {
@@ -576,25 +560,9 @@
           "url": "https://open.spotify.com/artist/6LZA6PhNCwUfHzqfpN1nYL"
         }
       ],
-      "duration_ms": 171428,
-      "name": "AL\u00d3",
-      "url": "https://open.spotify.com/track/6w8Wm9LJmgGDJ4dK7SkLwo"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "LA NI\u00d1A DE FUEGO",
-        "url": "https://open.spotify.com/album/7aqGuXR2Aq76FtenpEEDRO"
-      },
-      "artists": [
-        {
-          "name": "Angela Torres",
-          "url": "https://open.spotify.com/artist/6LZA6PhNCwUfHzqfpN1nYL"
-        }
-      ],
-      "duration_ms": 160851,
-      "name": "ARRABALERA",
-      "url": "https://open.spotify.com/track/2s9cvQzfwAgdnFUaKNivfE"
+      "duration_ms": 140816,
+      "name": "Fiebre",
+      "url": "https://open.spotify.com/track/3pNi7px9XVXGlwqr0fZHXo"
     },
     {
       "added_at": null,
@@ -615,6 +583,38 @@
     {
       "added_at": null,
       "album": {
+        "name": "LA NI\u00d1A DE FUEGO",
+        "url": "https://open.spotify.com/album/7aqGuXR2Aq76FtenpEEDRO"
+      },
+      "artists": [
+        {
+          "name": "Angela Torres",
+          "url": "https://open.spotify.com/artist/6LZA6PhNCwUfHzqfpN1nYL"
+        }
+      ],
+      "duration_ms": 160851,
+      "name": "ARRABALERA",
+      "url": "https://open.spotify.com/track/2s9cvQzfwAgdnFUaKNivfE"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "AL\u00d3",
+        "url": "https://open.spotify.com/album/3qUJJlinoiociQmSFKhRbx"
+      },
+      "artists": [
+        {
+          "name": "Angela Torres",
+          "url": "https://open.spotify.com/artist/6LZA6PhNCwUfHzqfpN1nYL"
+        }
+      ],
+      "duration_ms": 171428,
+      "name": "AL\u00d3",
+      "url": "https://open.spotify.com/track/6w8Wm9LJmgGDJ4dK7SkLwo"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Me Perd\u00ed",
         "url": "https://open.spotify.com/album/5iLFvV5lVhEoKTOkpgceVq"
       },
@@ -631,46 +631,6 @@
       "duration_ms": 204834,
       "name": "Me Perd\u00ed",
       "url": "https://open.spotify.com/track/1WmNPOeEj0ipzfalJ7tRWe"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "PURA",
-        "url": "https://open.spotify.com/album/2PAJpftisSwkakrKmheRcl"
-      },
-      "artists": [
-        {
-          "name": "BB ASUL",
-          "url": "https://open.spotify.com/artist/27PauMy7dOiHb7sI8h6s4T"
-        },
-        {
-          "name": "Angela Torres",
-          "url": "https://open.spotify.com/artist/6LZA6PhNCwUfHzqfpN1nYL"
-        }
-      ],
-      "duration_ms": 221714,
-      "name": "Tu Mitad (feat. Angela Torres)",
-      "url": "https://open.spotify.com/track/6rkAc7HYaGhSAS8O5vCcKy"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Me Di Cuenta",
-        "url": "https://open.spotify.com/album/6jFRVOjcQ9Ca7LwZbdpzyo"
-      },
-      "artists": [
-        {
-          "name": "Angela Torres",
-          "url": "https://open.spotify.com/artist/6LZA6PhNCwUfHzqfpN1nYL"
-        },
-        {
-          "name": "Sael",
-          "url": "https://open.spotify.com/artist/6Itjwvv5YmsC8ZcI5N4Jux"
-        }
-      ],
-      "duration_ms": 171034,
-      "name": "Me Di Cuenta",
-      "url": "https://open.spotify.com/track/2f0Sy7EgELM5bP6GZhrMSq"
     },
     {
       "added_at": null,
@@ -715,6 +675,46 @@
       "duration_ms": 212363,
       "name": "Fresh Prince - Remix",
       "url": "https://open.spotify.com/track/29bhlg1hLwg8I4jDH1UCCZ"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Me Di Cuenta",
+        "url": "https://open.spotify.com/album/6jFRVOjcQ9Ca7LwZbdpzyo"
+      },
+      "artists": [
+        {
+          "name": "Angela Torres",
+          "url": "https://open.spotify.com/artist/6LZA6PhNCwUfHzqfpN1nYL"
+        },
+        {
+          "name": "Sael",
+          "url": "https://open.spotify.com/artist/6Itjwvv5YmsC8ZcI5N4Jux"
+        }
+      ],
+      "duration_ms": 171034,
+      "name": "Me Di Cuenta",
+      "url": "https://open.spotify.com/track/2f0Sy7EgELM5bP6GZhrMSq"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "PURA",
+        "url": "https://open.spotify.com/album/2PAJpftisSwkakrKmheRcl"
+      },
+      "artists": [
+        {
+          "name": "BB ASUL",
+          "url": "https://open.spotify.com/artist/27PauMy7dOiHb7sI8h6s4T"
+        },
+        {
+          "name": "Angela Torres",
+          "url": "https://open.spotify.com/artist/6LZA6PhNCwUfHzqfpN1nYL"
+        }
+      ],
+      "duration_ms": 221714,
+      "name": "Tu Mitad (feat. Angela Torres)",
+      "url": "https://open.spotify.com/track/6rkAc7HYaGhSAS8O5vCcKy"
     },
     {
       "added_at": null,

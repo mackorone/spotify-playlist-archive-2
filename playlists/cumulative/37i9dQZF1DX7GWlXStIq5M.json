@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-03-24",
-  "description": "Hits e novidades do pop experimental no mesmo palco! Foto: GIANA",
+  "description": "Hits e novidades do pop experimental no mesmo palco! Foto: Jo\u00e3o Lucas",
   "name": "Palco POP",
   "tracks": [
     {
@@ -74,6 +74,24 @@
       "duration_ms": 169845,
       "name": "(N\u00e3o) Quero Me Apaixonar",
       "url": "https://open.spotify.com/track/5lAOoRwx3D8NoTZN8pVlxh"
+    },
+    {
+      "album": {
+        "name": ".com",
+        "url": "https://open.spotify.com/album/1hawWOyMae2qwmPwFPcu9X"
+      },
+      "artists": [
+        {
+          "name": "Priscila Tossan",
+          "url": "https://open.spotify.com/artist/4EZLWNKsB2l3Lm6vqJDFoA"
+        }
+      ],
+      "date_added": "2026-11-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 168000,
+      "name": ".com",
+      "url": "https://open.spotify.com/track/1n4L9zeRWkjL4XP4niLr1P"
     },
     {
       "album": {
@@ -688,7 +706,7 @@
       ],
       "date_added": "2026-01-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-27",
       "duration_ms": 183210,
       "name": "a1",
       "url": "https://open.spotify.com/track/6hUeReosw7wnQ2EMit2Rgk"
@@ -1551,6 +1569,24 @@
     },
     {
       "album": {
+        "name": "Ressaca de Saudade",
+        "url": "https://open.spotify.com/album/7sgK29oGGpm7Ij5SIg6Scc"
+      },
+      "artists": [
+        {
+          "name": "TIRI",
+          "url": "https://open.spotify.com/artist/2biikdsPdw63klSogoB5Ab"
+        }
+      ],
+      "date_added": "2026-11-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 137000,
+      "name": "Alvorada",
+      "url": "https://open.spotify.com/track/731eTFDNgBSwI4ZqXW5VQ3"
+    },
+    {
+      "album": {
         "name": "YASSIQ",
         "url": "https://open.spotify.com/album/0v9KwYwNsL3nk0YFBPqPIl"
       },
@@ -1624,7 +1660,7 @@
       ],
       "date_added": "2025-07-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-27",
       "duration_ms": 139354,
       "name": "Amapiano",
       "url": "https://open.spotify.com/track/7sP6wejK3mVZcv63h20Zil"
@@ -3347,6 +3383,32 @@
     },
     {
       "album": {
+        "name": "Bi Festinha",
+        "url": "https://open.spotify.com/album/6ux1QRc7s8cSkHIdZdMoUN"
+      },
+      "artists": [
+        {
+          "name": "LUDMILLA",
+          "url": "https://open.spotify.com/artist/3CDoRporvSjdzTrm99a3gi"
+        },
+        {
+          "name": "HITMAKER",
+          "url": "https://open.spotify.com/artist/0Otd1ReHJtVAzwAuRj09Zg"
+        },
+        {
+          "name": "Puterrier",
+          "url": "https://open.spotify.com/artist/0zbO4WWM2wJM3ulFmCbMwB"
+        }
+      ],
+      "date_added": "2026-11-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 148288,
+      "name": "Bi Festinha",
+      "url": "https://open.spotify.com/track/4TODvJGQ6l1HmtpgyPrGbl"
+    },
+    {
+      "album": {
         "name": "BICHO SOLTO!!!",
         "url": "https://open.spotify.com/album/4OXl5ItBNYKMZ1uvQiVwY2"
       },
@@ -4141,6 +4203,24 @@
     },
     {
       "album": {
+        "name": "CALMA",
+        "url": "https://open.spotify.com/album/4X82ix7wyNLsGJwUy4GvVX"
+      },
+      "artists": [
+        {
+          "name": "Jo\u00e3o Lucas",
+          "url": "https://open.spotify.com/artist/6uSm5GsSe3BwK9P1Q8aZ2R"
+        }
+      ],
+      "date_added": "2026-11-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 230363,
+      "name": "CALMA",
+      "url": "https://open.spotify.com/track/3BG7nWv1sHwUAUVKXspCyL"
+    },
+    {
+      "album": {
         "name": "Calma, agora vai!",
         "url": "https://open.spotify.com/album/61UTuzn1XmNx2iydg3xTTM"
       },
@@ -4750,7 +4830,7 @@
       ],
       "date_added": "2026-09-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-27",
       "duration_ms": 131000,
       "name": "CASA DOS MACHO",
       "url": "https://open.spotify.com/track/5OIIiSxRc6UwGLSbt96Jcz"
@@ -5776,7 +5856,7 @@
       ],
       "date_added": "2026-08-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-27",
       "duration_ms": 161088,
       "name": "COVARDIA",
       "url": "https://open.spotify.com/track/5Duyx6TmQ0n1JmrRyzROyn"
@@ -5904,7 +5984,7 @@
       ],
       "date_added": "2026-04-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-27",
       "duration_ms": 157186,
       "name": "Curvas",
       "url": "https://open.spotify.com/track/5p7aqn8b2RlAqWlCNKBJsL"
@@ -10978,7 +11058,7 @@
       ],
       "date_added": "2026-10-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-27",
       "duration_ms": 156000,
       "name": "Hootie Frutti - PEDRO SAMPAIO Remix",
       "url": "https://open.spotify.com/track/19rZJZMOK4c9CaocPSHqqC"
@@ -11152,6 +11232,24 @@
       "duration_ms": 160961,
       "name": "I'm Good (Blue) [feat. Bebe Rexha, Ludmilla and LIT killah] - 2023 Version",
       "url": "https://open.spotify.com/track/68NaWutYrE6BcbWuY49HYP"
+    },
+    {
+      "album": {
+        "name": "iaiaia",
+        "url": "https://open.spotify.com/album/0mqp4oeBOnEkMjud4WywFI"
+      },
+      "artists": [
+        {
+          "name": "PECI",
+          "url": "https://open.spotify.com/artist/7aeHLKCANCJ2ATbtFdElsV"
+        }
+      ],
+      "date_added": "2026-11-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 133814,
+      "name": "iaiaia",
+      "url": "https://open.spotify.com/track/3HUkh5Wunkm8GPMRQ4zc88"
     },
     {
       "album": {
@@ -13510,7 +13608,7 @@
       ],
       "date_added": "2026-05-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-27",
       "duration_ms": 163110,
       "name": "Mar\u00e9 De Sorte - Remix",
       "url": "https://open.spotify.com/track/33MTRgQrOhkRkA2oYEJ0lu"
@@ -15614,7 +15712,7 @@
       ],
       "date_added": "2026-08-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-27",
       "duration_ms": 224800,
       "name": "No Pain No Gain",
       "url": "https://open.spotify.com/track/4eYz5VDkfpivxiMxt5739K"
@@ -17329,6 +17427,24 @@
     },
     {
       "album": {
+        "name": "crisop\u00e9ia",
+        "url": "https://open.spotify.com/album/51Fdxfeg30etCgh9B4bnSg"
+      },
+      "artists": [
+        {
+          "name": "Camargo",
+          "url": "https://open.spotify.com/artist/1gH9PRoYmehUf3bErRTN1f"
+        }
+      ],
+      "date_added": "2026-11-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 213333,
+      "name": "outro n\u00edvel",
+      "url": "https://open.spotify.com/track/6JcPVqA4VZvAT8117hICwi"
+    },
+    {
+      "album": {
         "name": "Heavy Is The Head",
         "url": "https://open.spotify.com/album/3y4AaloFccKNLQcZNS9L8c"
       },
@@ -17592,7 +17708,7 @@
       ],
       "date_added": "2026-03-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-27",
       "duration_ms": 201783,
       "name": "PASSARINHO",
       "url": "https://open.spotify.com/track/5xnUZDsZHLVzOoSevGTNSl"
@@ -19826,7 +19942,7 @@
       ],
       "date_added": "2026-05-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-27",
       "duration_ms": 134753,
       "name": "Quando me ver passar",
       "url": "https://open.spotify.com/track/2CUIL76u0Nh37k1hcIwC4P"
@@ -19892,6 +20008,24 @@
       "duration_ms": 160016,
       "name": "Quase",
       "url": "https://open.spotify.com/track/59etIptmwHHugnoAAsNxvi"
+    },
+    {
+      "album": {
+        "name": "QUASE",
+        "url": "https://open.spotify.com/album/5i3ZFneZMIxAtBSpcQFyFZ"
+      },
+      "artists": [
+        {
+          "name": "Gabi Vicari",
+          "url": "https://open.spotify.com/artist/5A0FNnwAduqJICXU1PGBg8"
+        }
+      ],
+      "date_added": "2026-11-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 158023,
+      "name": "QUASE",
+      "url": "https://open.spotify.com/track/5df0v8MZSS3Tp5f1dgVSjo"
     },
     {
       "album": {
@@ -21622,7 +21756,7 @@
       ],
       "date_added": "2026-05-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-27",
       "duration_ms": 238058,
       "name": "SECA PALHA",
       "url": "https://open.spotify.com/track/6X6h7rjzj166usJ7Bx4MM1"
@@ -23532,7 +23666,7 @@
       ],
       "date_added": "2026-08-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-27",
       "duration_ms": 200345,
       "name": "Tar\u00f4",
       "url": "https://open.spotify.com/track/5YRD5hiYRWt95shTotBH3d"

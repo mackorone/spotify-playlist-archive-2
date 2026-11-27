@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2025-11-29",
-  "description": "With Yeat, Cuo Zay, Autumn! and more",
+  "description": "With Yeat, Autumn!, Cuo Zay and more",
   "name": "Taewitdak Radio",
   "tracks": [
     {
@@ -260,7 +260,7 @@
       ],
       "date_added": "2026-01-15",
       "date_added_asterisk": false,
-      "date_removed": "2026-11-25",
+      "date_removed": null,
       "duration_ms": 106728,
       "name": "Air Bender",
       "url": "https://open.spotify.com/track/0SC10wGF4YMLIdL1QMGlm8"
@@ -716,7 +716,7 @@
       ],
       "date_added": "2026-11-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-27",
       "duration_ms": 117937,
       "name": "Black Trucks (dirty souf)",
       "url": "https://open.spotify.com/track/0kdwZawCRqIZjKHEXRO8aX"
@@ -1800,7 +1800,7 @@
       ],
       "date_added": "2026-01-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-27",
       "duration_ms": 102738,
       "name": "drama queen",
       "url": "https://open.spotify.com/track/39Q83U8EJjNU90MIQA1Wgh"
@@ -3628,7 +3628,7 @@
       ],
       "date_added": "2025-12-10",
       "date_added_asterisk": false,
-      "date_removed": "2026-11-23",
+      "date_removed": null,
       "duration_ms": 189231,
       "name": "king of the pumpkin patch",
       "url": "https://open.spotify.com/track/7yXA3nKDn6fZSj8IWpukUv"
@@ -6034,7 +6034,7 @@
       ],
       "date_added": "2026-03-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-27",
       "duration_ms": 156815,
       "name": "Straight Forward",
       "url": "https://open.spotify.com/track/5QFebQipvG6fMprVVWlmvo"
@@ -6934,6 +6934,24 @@
       "duration_ms": 104568,
       "name": "u don't need me",
       "url": "https://open.spotify.com/track/57yLIR9EN5LxWTZMtgYY17"
+    },
+    {
+      "album": {
+        "name": "Understand Me",
+        "url": "https://open.spotify.com/album/0ZYukYktShSdTuQ9LVamSm"
+      },
+      "artists": [
+        {
+          "name": "HoodStarDotty",
+          "url": "https://open.spotify.com/artist/39a9barpTBigqWZehL6bhm"
+        }
+      ],
+      "date_added": "2026-11-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 130703,
+      "name": "Understand Me",
+      "url": "https://open.spotify.com/track/26DeT4NMNHz3tl4Iai6EAi"
     },
     {
       "album": {

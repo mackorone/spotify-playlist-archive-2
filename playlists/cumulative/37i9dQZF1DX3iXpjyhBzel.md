@@ -4,7 +4,7 @@
 
 > A música certa para o seu momento de adoração\. Foto: Isadora Pompeo
 
-397 songs - 1 day 15 hr 39 min
+398 songs - 1 day 15 hr 44 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -246,7 +246,7 @@
 | [O Fogo Arderá \- Ao Vivo](https://open.spotify.com/track/6ATNNv8tZF61fa7VwDH89j) | [Alexsander Lucio](https://open.spotify.com/artist/2xX3xodC7zA5u2xygCWzuP) | [O Fogo Arderá \(Ao Vivo\)](https://open.spotify.com/album/4rd6xVSZfkwaltIFTmZWNe) | 10:24 | 2025-01-10 |  |
 | [O Grande Eu Sou](https://open.spotify.com/track/4bvgiKYPehGp4OUSflTPTt) | [Isaias Saad](https://open.spotify.com/artist/1THj0JI7zld7YDsWERcSUz) | [O Grande Eu Sou](https://open.spotify.com/album/62QQniKZ3Sw4SAR2s6Er89) | 6:28 | 2023-04-15 | 2024-06-22 |
 | [O Lamento de Israel](https://open.spotify.com/track/09yeqY7MiMdgxlPmITqqIg) | [Rebeca Carvalho](https://open.spotify.com/artist/7ejjZWVYdXuGjkLsUPW4xL), [André e Felipe](https://open.spotify.com/artist/5QQUuUIP9gjrkI8amLfIlb) | [O Lamento de Israel](https://open.spotify.com/album/613HHVVY7kYqtfAwIRyITd) | 4:14 | 2023-11-03 | 2024-04-20 |
-| [O Medo Não Vai Me Parar \- Ao Vivo](https://open.spotify.com/track/4lILbjkdIihRgg3Z1QP5Qh) | [Sarah Beatriz](https://open.spotify.com/artist/5eo3eRvCHJhgMDL6K1cbMT) | [O Medo Não Vai Me Parar \(Ao Vivo\)](https://open.spotify.com/album/7crn3QiywbOhiLG1kxQ3tY) | 5:03 | 2022-11-25 |  |
+| [O Medo Não Vai Me Parar \- Ao Vivo](https://open.spotify.com/track/4lILbjkdIihRgg3Z1QP5Qh) | [Sarah Beatriz](https://open.spotify.com/artist/5eo3eRvCHJhgMDL6K1cbMT) | [O Medo Não Vai Me Parar \(Ao Vivo\)](https://open.spotify.com/album/7crn3QiywbOhiLG1kxQ3tY) | 5:03 | 2022-11-25 | 2026-11-27 |
 | [O Melhor De Deus](https://open.spotify.com/track/2YyQIxL1U8zyN09bxZnL5t) | [Ton Carfi](https://open.spotify.com/artist/4IefiwlkKHUFoRdBsGj756) | [Ton Canta, Vol\. 3](https://open.spotify.com/album/3xcT1zeUCojtJgbIMczyU7) | 3:25 | 2023-12-15 | 2024-04-20 |
 | [O Melhor Pra Ti \(Ao Vivo\)](https://open.spotify.com/track/2lTQLOsw92uCoVVG5knixC) | [Samuel Miranda](https://open.spotify.com/artist/0OF4E3fXk2tsG0C6zWmsLS) | [O Melhor Pra Ti \(Ao Vivo\)](https://open.spotify.com/album/1wd6c2RtTOCEfbZMooYl2w) | 4:05 | 2023-10-06 | 2023-11-25 |
 | [O Nazareno](https://open.spotify.com/track/5bQKQ0pDrQXXJyAolC5g4z) | [Aline Barros](https://open.spotify.com/artist/2aKyKSggb31Kw9s9i3iXoo), [Generación Gracia Música](https://open.spotify.com/artist/7qwXfWee0I0c9hgkJfzich) | [O Nazareno](https://open.spotify.com/album/3GDrnx8ePXn3ykgVosI7J6) | 5:39 | 2023-12-18 | 2024-03-23 |
@@ -372,6 +372,7 @@
 | [Uma Carta Viva \- Ao Vivo](https://open.spotify.com/track/6CxtFCLyCaDbi0iSO83aHr) | [Get Worship](https://open.spotify.com/artist/5ZynjHkFMZINvXZm7DD4Yp), [Get Records](https://open.spotify.com/artist/1CYUWfGfCUbH4AfbK6NG67), [Vinicius Cruz](https://open.spotify.com/artist/0cb8UlJzotLRPM0L0wfm4V), [Paulo Neto](https://open.spotify.com/artist/24lc8iaQY0UHitOufmSGko) | [Uma Carta Viva \(Ao Vivo\)](https://open.spotify.com/album/6spnacimvh1AKK0QA9ZJ09) | 4:59 | 2026-02-06 |  |
 | [Uma Hora é Pouco \- Ao Vivo](https://open.spotify.com/track/2wqR00j3EwhCORlq8sHYgp) | [Gabriela Rocha](https://open.spotify.com/artist/4fdCGYM7dtJLa3LvR1ccto) | [A Presença \(Ao Vivo\)](https://open.spotify.com/album/3N9HP3H0D3Bk8G14mj4JhT) | 10:21 | 2023-03-04 | 2025-12-01 |
 | [Unção Pelo Ar \- Ao Vivo](https://open.spotify.com/track/51K9AGSwKC6QTEMt7ic35E) | [Gabi Sampaio](https://open.spotify.com/artist/1mwuQroxtrC6ANU2Jwb8ZQ), [SOM DO CÉU](https://open.spotify.com/artist/4Tq5E0plsM6uNnLmxJWKNp), [Nívea Izabella](https://open.spotify.com/artist/22dXmOwdGFFSJhRnB9oXWJ) | [Unção Pelo Ar \(Ao Vivo\)](https://open.spotify.com/album/1vf5HDDGqzLvBsNV92pA22) | 10:41 | 2024-07-05 | 2026-03-03 |
+| [Usa\-me \(Ao Vivo\)](https://open.spotify.com/track/33fdrDBFhY9Z4HtC2oTy5U) | [Sarah Farias](https://open.spotify.com/artist/3YvHDhzmrkcYZuKN7A2KBK) | [Usa\-me \(Ao Vivo\)](https://open.spotify.com/album/0ZUliI2PBb9JbzhvwcurZJ) | 5:12 | 2026-11-27 |  |
 | [Vai Ter Vida Aí](https://open.spotify.com/track/4mQ6f7PV6XaCDRzMtZFoZq) | [Midian Lima](https://open.spotify.com/artist/1UNm54Ts7vBGKcWjbjEmMw) | [Vai Ter Vida Aí](https://open.spotify.com/album/1ZozrNvdcx0F6vmowuIuiX) | 4:30 | 2022-09-09 | 2023-04-29 |
 | [Vem Me Buscar \- Ao Vivo](https://open.spotify.com/track/0bMAWV9DDN2fllpvCtpzWl) | [Jefferson & Suellen](https://open.spotify.com/artist/4Cp8MAVITZ6a8qjTVvhV28) | [Vem Me Buscar \(Ao Vivo\)](https://open.spotify.com/album/1IKD5Kb7LNGNo4D14yjinQ) | 6:58 | 2023-01-20 | 2024-08-31 |
 | [Vida \- Ao Vivo](https://open.spotify.com/track/5BRY9EOYsV2TtB8qm43GHf) | [Eli Soares](https://open.spotify.com/artist/5zblJYkCzvB51Jh29FB07V), [Alexandre Pires](https://open.spotify.com/artist/0Rrl4hJQjRAbGtiEwAqS5N) | [Vida \(Ao Vivo\)](https://open.spotify.com/album/2EgB2hkSzkIb1hl6ukjXgA) | 4:18 | 2023-09-15 | 2023-10-14 |

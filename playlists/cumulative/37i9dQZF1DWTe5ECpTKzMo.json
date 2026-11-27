@@ -2281,6 +2281,32 @@
     },
     {
       "album": {
+        "name": "MAYBACH",
+        "url": "https://open.spotify.com/album/59bXP1pHr0f5LbAn7gIQCU"
+      },
+      "artists": [
+        {
+          "name": "Rafa L\u00f3pez",
+          "url": "https://open.spotify.com/artist/2p7TDgWQS2yxNNSbc62RpW"
+        },
+        {
+          "name": "Bruno Brunette",
+          "url": "https://open.spotify.com/artist/4rBLu7EtzIkpCuVSqYXTtc"
+        },
+        {
+          "name": "Joaqu\u00edn Coronel",
+          "url": "https://open.spotify.com/artist/5NoHhsqkBw0TMQFfig7eLT"
+        }
+      ],
+      "date_added": "2026-11-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 133548,
+      "name": "MAYBACH",
+      "url": "https://open.spotify.com/track/5pzmtxje5l0sh5LO6qcuTp"
+    },
+    {
+      "album": {
         "name": "Me acuerdo",
         "url": "https://open.spotify.com/album/0Gz5q8PyvIzmuLQuFISb0q"
       },
@@ -2598,7 +2624,7 @@
       ],
       "date_added": "2022-07-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-27",
       "duration_ms": 308506,
       "name": "Ni Muy Muy Ni Tan Tan",
       "url": "https://open.spotify.com/track/083IcGzprHpWcVhJHa3uo3"
@@ -2694,7 +2720,7 @@
       ],
       "date_added": "2023-06-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-27",
       "duration_ms": 219452,
       "name": "No Te Metas",
       "url": "https://open.spotify.com/track/341IhTrfJQujky7ovX3hlV"
@@ -2940,7 +2966,7 @@
       ],
       "date_added": "2026-11-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-27",
       "duration_ms": 214491,
       "name": "Patto D'Onore",
       "url": "https://open.spotify.com/track/6je1urczCCZLzhKDwJGXkm"
@@ -3341,6 +3367,32 @@
     },
     {
       "album": {
+        "name": "Recuerdos",
+        "url": "https://open.spotify.com/album/0haDHcp6t3UHGGOjiCY0tw"
+      },
+      "artists": [
+        {
+          "name": "El Makako",
+          "url": "https://open.spotify.com/artist/1amgHAlbWkg9EYD8ScraEv"
+        },
+        {
+          "name": "El Padrinito Toys",
+          "url": "https://open.spotify.com/artist/04mzq9GH08zOBRdV2gzmXm"
+        },
+        {
+          "name": "Amilkar Galaviz",
+          "url": "https://open.spotify.com/artist/13IcxOeQD6jVtvtzCuDjX4"
+        }
+      ],
+      "date_added": "2026-11-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 198315,
+      "name": "Recuerdos",
+      "url": "https://open.spotify.com/track/0ixVHFOP5SHhvJo2YPHhhq"
+    },
+    {
+      "album": {
         "name": "Parece Un Sue\u00f1o",
         "url": "https://open.spotify.com/album/0Re3fo7qmcnoCp5vGuqiy1"
       },
@@ -3378,6 +3430,28 @@
       "duration_ms": 260631,
       "name": "Roberto G\u00f3mez Bola\u00f1os",
       "url": "https://open.spotify.com/track/7pXwx7adDm53P1mHDcz21Y"
+    },
+    {
+      "album": {
+        "name": "ROL",
+        "url": "https://open.spotify.com/album/11t42D8Uo93qZsJGyVVzLv"
+      },
+      "artists": [
+        {
+          "name": "Adan JFW",
+          "url": "https://open.spotify.com/artist/6iw0GipaAI3E8kQGYtt5RR"
+        },
+        {
+          "name": "Abner Silva",
+          "url": "https://open.spotify.com/artist/631SSaDpqdPW4zoqC687X1"
+        }
+      ],
+      "date_added": "2026-11-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 154567,
+      "name": "ROL",
+      "url": "https://open.spotify.com/track/1ykkPfPtX8WR3v8LmXLMVg"
     },
     {
       "album": {

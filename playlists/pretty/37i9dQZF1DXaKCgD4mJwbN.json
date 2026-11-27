@@ -1,6 +1,6 @@
 {
   "description": "Puras rolitas pa' empinar el codo.",
-  "num_followers": 1222391,
+  "num_followers": 1222523,
   "original_name": "Pa' Pistear",
   "owner": {
     "name": "Spotify",
@@ -1199,6 +1199,22 @@
     {
       "added_at": "2026-10-16 06:35:29",
       "album": {
+        "name": "El Trabajo Es La Suerte",
+        "url": "https://open.spotify.com/album/4j7afzzctfV0UPUrJKWCQk"
+      },
+      "artists": [
+        {
+          "name": "Banda MS de Sergio Liz\u00e1rraga",
+          "url": "https://open.spotify.com/artist/2C6i0I5RiGzDKN9IAF8reh"
+        }
+      ],
+      "duration_ms": 217600,
+      "name": "La Casita",
+      "url": "https://open.spotify.com/track/0vtYnEw1eJwW26BrBnOAYJ"
+    },
+    {
+      "added_at": "2026-10-16 06:35:29",
+      "album": {
         "name": "Puerta Abierta, Vol. 1 (En Vivo)",
         "url": "https://open.spotify.com/album/7rJgUM53wtu1WnwcAMaEgg"
       },
@@ -1215,22 +1231,6 @@
       "duration_ms": 142064,
       "name": "Cabr\u00f3n y Vago - En Vivo",
       "url": "https://open.spotify.com/track/4nbWX2HzrOEnX4xxvYRCyU"
-    },
-    {
-      "added_at": "2026-10-16 06:35:29",
-      "album": {
-        "name": "El Trabajo Es La Suerte",
-        "url": "https://open.spotify.com/album/4j7afzzctfV0UPUrJKWCQk"
-      },
-      "artists": [
-        {
-          "name": "Banda MS de Sergio Liz\u00e1rraga",
-          "url": "https://open.spotify.com/artist/2C6i0I5RiGzDKN9IAF8reh"
-        }
-      ],
-      "duration_ms": 217600,
-      "name": "La Casita",
-      "url": "https://open.spotify.com/track/0vtYnEw1eJwW26BrBnOAYJ"
     },
     {
       "added_at": "2026-10-16 06:35:29",
@@ -1439,26 +1439,6 @@
     {
       "added_at": "2026-10-16 06:35:29",
       "album": {
-        "name": "Mood Malandro",
-        "url": "https://open.spotify.com/album/6x60IHS4WQeKN2xSxPSJbr"
-      },
-      "artists": [
-        {
-          "name": "C\u00f3digo FN",
-          "url": "https://open.spotify.com/artist/4A4qYy2jK9DDN1OHV0nLkH"
-        },
-        {
-          "name": "Gabito Ballesteros",
-          "url": "https://open.spotify.com/artist/6Sbl0NT50roqWvy746MfVf"
-        }
-      ],
-      "duration_ms": 191558,
-      "name": "Mood Malandro",
-      "url": "https://open.spotify.com/track/0zhymr6RqNuvp0RMIvdpdA"
-    },
-    {
-      "added_at": "2026-10-16 06:35:29",
-      "album": {
         "name": "Desde La Playa \"En Vivo desde Mazatlan, Sinaloa\"",
         "url": "https://open.spotify.com/album/1VdrXuMVBAzsxPP4vaecDI"
       },
@@ -1475,6 +1455,26 @@
       "duration_ms": 240624,
       "name": "La Historia (En Vivo)",
       "url": "https://open.spotify.com/track/0SnYsuBjmOlqdPQQQGcx7Z"
+    },
+    {
+      "added_at": "2026-10-16 06:35:29",
+      "album": {
+        "name": "Mood Malandro",
+        "url": "https://open.spotify.com/album/6x60IHS4WQeKN2xSxPSJbr"
+      },
+      "artists": [
+        {
+          "name": "C\u00f3digo FN",
+          "url": "https://open.spotify.com/artist/4A4qYy2jK9DDN1OHV0nLkH"
+        },
+        {
+          "name": "Gabito Ballesteros",
+          "url": "https://open.spotify.com/artist/6Sbl0NT50roqWvy746MfVf"
+        }
+      ],
+      "duration_ms": 191558,
+      "name": "Mood Malandro",
+      "url": "https://open.spotify.com/track/0zhymr6RqNuvp0RMIvdpdA"
     },
     {
       "added_at": "2026-10-16 06:35:29",
@@ -1675,22 +1675,6 @@
     {
       "added_at": "2026-10-16 06:35:29",
       "album": {
-        "name": "Te Deseo Lo Mejor",
-        "url": "https://open.spotify.com/album/3TJYqNwsxy6on2wKnQSOUc"
-      },
-      "artists": [
-        {
-          "name": "Gerardo Coronel",
-          "url": "https://open.spotify.com/artist/6JoYL9QYbdgPb6EuE5J2pC"
-        }
-      ],
-      "duration_ms": 140235,
-      "name": "Te Deseo Lo Mejor",
-      "url": "https://open.spotify.com/track/5ZyUe1pOBYblWLN2E3xJXu"
-    },
-    {
-      "added_at": "2026-10-16 06:35:29",
-      "album": {
         "name": "Modo DND",
         "url": "https://open.spotify.com/album/0HkgYr2M6KeK2dWgIJE6AC"
       },
@@ -1711,22 +1695,18 @@
     {
       "added_at": "2026-10-16 06:35:29",
       "album": {
-        "name": "Coronar Hasta Que Amanezca (En Vivo)",
-        "url": "https://open.spotify.com/album/4ZGGQByBy9NVxhjHC9SBdw"
+        "name": "Te Deseo Lo Mejor",
+        "url": "https://open.spotify.com/album/3TJYqNwsxy6on2wKnQSOUc"
       },
       "artists": [
         {
-          "name": "Luis Alfonso Partida El Yaki",
-          "url": "https://open.spotify.com/artist/5l6N2hoIaP7snXdjnCULvk"
-        },
-        {
-          "name": "Banda Corona del Rey",
-          "url": "https://open.spotify.com/artist/0CxrfcSWTiBX7M6WAakESI"
+          "name": "Gerardo Coronel",
+          "url": "https://open.spotify.com/artist/6JoYL9QYbdgPb6EuE5J2pC"
         }
       ],
-      "duration_ms": 192978,
-      "name": "Por Qui\u00e9n Me Dejas - En vivo",
-      "url": "https://open.spotify.com/track/7FABqptJxKZHqBPpEvCxhS"
+      "duration_ms": 140235,
+      "name": "Te Deseo Lo Mejor",
+      "url": "https://open.spotify.com/track/5ZyUe1pOBYblWLN2E3xJXu"
     },
     {
       "added_at": "2026-10-16 06:35:29",
@@ -1747,6 +1727,26 @@
       "duration_ms": 215984,
       "name": "Solita (En Vivo)",
       "url": "https://open.spotify.com/track/279gdvickeQgmRt3EHBtNg"
+    },
+    {
+      "added_at": "2026-10-16 06:35:29",
+      "album": {
+        "name": "Coronar Hasta Que Amanezca (En Vivo)",
+        "url": "https://open.spotify.com/album/4ZGGQByBy9NVxhjHC9SBdw"
+      },
+      "artists": [
+        {
+          "name": "Luis Alfonso Partida El Yaki",
+          "url": "https://open.spotify.com/artist/5l6N2hoIaP7snXdjnCULvk"
+        },
+        {
+          "name": "Banda Corona del Rey",
+          "url": "https://open.spotify.com/artist/0CxrfcSWTiBX7M6WAakESI"
+        }
+      ],
+      "duration_ms": 192978,
+      "name": "Por Qui\u00e9n Me Dejas - En vivo",
+      "url": "https://open.spotify.com/track/7FABqptJxKZHqBPpEvCxhS"
     },
     {
       "added_at": "2026-10-16 06:35:29",
@@ -1815,22 +1815,6 @@
     {
       "added_at": "2026-10-16 06:35:29",
       "album": {
-        "name": "M\u00e1s Te Recuerdo",
-        "url": "https://open.spotify.com/album/34JyFxBnl0taw2qyHljFbA"
-      },
-      "artists": [
-        {
-          "name": "Hernan Sepulveda",
-          "url": "https://open.spotify.com/artist/00CEIWvwRzWGVahslNZW0Z"
-        }
-      ],
-      "duration_ms": 270998,
-      "name": "M\u00e1s Te Recuerdo",
-      "url": "https://open.spotify.com/track/0GehdqUxnosJjrruvQCixm"
-    },
-    {
-      "added_at": "2026-10-16 06:35:29",
-      "album": {
         "name": "35 Aniversario",
         "url": "https://open.spotify.com/album/08euInxZ3T8O2ovqi4nenh"
       },
@@ -1843,6 +1827,22 @@
       "duration_ms": 227933,
       "name": "Actos De Un Tonto",
       "url": "https://open.spotify.com/track/6X3uMhKVvCXhVxuUql4Vlh"
+    },
+    {
+      "added_at": "2026-10-16 06:35:29",
+      "album": {
+        "name": "M\u00e1s Te Recuerdo",
+        "url": "https://open.spotify.com/album/34JyFxBnl0taw2qyHljFbA"
+      },
+      "artists": [
+        {
+          "name": "Hernan Sepulveda",
+          "url": "https://open.spotify.com/artist/00CEIWvwRzWGVahslNZW0Z"
+        }
+      ],
+      "duration_ms": 270998,
+      "name": "M\u00e1s Te Recuerdo",
+      "url": "https://open.spotify.com/track/0GehdqUxnosJjrruvQCixm"
     },
     {
       "added_at": "2026-10-16 06:35:29",
@@ -1899,6 +1899,22 @@
     {
       "added_at": "2026-10-16 06:35:29",
       "album": {
+        "name": "35 Aniversario",
+        "url": "https://open.spotify.com/album/08euInxZ3T8O2ovqi4nenh"
+      },
+      "artists": [
+        {
+          "name": "Conjunto Primavera",
+          "url": "https://open.spotify.com/artist/3nFB4eMP5gdqee2eQb8nZb"
+        }
+      ],
+      "duration_ms": 159773,
+      "name": "Una Vez M\u00e1s",
+      "url": "https://open.spotify.com/track/626PlV22AI5wy01vG0JjZO"
+    },
+    {
+      "added_at": "2026-10-16 06:35:29",
+      "album": {
         "name": "En Vivo Desde Mi Ranchito (En Vivo)",
         "url": "https://open.spotify.com/album/22Ovk2DIKkjtoEDWZ6AaTs"
       },
@@ -1919,22 +1935,6 @@
     {
       "added_at": "2026-10-16 06:35:29",
       "album": {
-        "name": "35 Aniversario",
-        "url": "https://open.spotify.com/album/08euInxZ3T8O2ovqi4nenh"
-      },
-      "artists": [
-        {
-          "name": "Conjunto Primavera",
-          "url": "https://open.spotify.com/artist/3nFB4eMP5gdqee2eQb8nZb"
-        }
-      ],
-      "duration_ms": 159773,
-      "name": "Una Vez M\u00e1s",
-      "url": "https://open.spotify.com/track/626PlV22AI5wy01vG0JjZO"
-    },
-    {
-      "added_at": "2026-10-16 06:35:29",
-      "album": {
         "name": "Marbella",
         "url": "https://open.spotify.com/album/103oYDFlPuP4UuYFeHxQbX"
       },
@@ -1947,6 +1947,22 @@
       "duration_ms": 170469,
       "name": "Marbella",
       "url": "https://open.spotify.com/track/3YNf8wa1hHcwmJQeMrrrBX"
+    },
+    {
+      "added_at": "2026-10-16 06:35:29",
+      "album": {
+        "name": "Infinito",
+        "url": "https://open.spotify.com/album/2393BbWjPqeNodz7lvaDNN"
+      },
+      "artists": [
+        {
+          "name": "La Fiera de Ojinaga",
+          "url": "https://open.spotify.com/artist/6qm0DFounuQWwu6IF0ZGH2"
+        }
+      ],
+      "duration_ms": 181984,
+      "name": "Chelas y Besos",
+      "url": "https://open.spotify.com/track/5qh3nDMUpZr1v3IHcBjePI"
     },
     {
       "added_at": "2026-10-16 06:35:29",
@@ -1967,22 +1983,6 @@
       "duration_ms": 188586,
       "name": "Amor Secreto - En Vivo",
       "url": "https://open.spotify.com/track/5VTStF8evSkRpPux9deN6u"
-    },
-    {
-      "added_at": "2026-10-16 06:35:29",
-      "album": {
-        "name": "Infinito",
-        "url": "https://open.spotify.com/album/2393BbWjPqeNodz7lvaDNN"
-      },
-      "artists": [
-        {
-          "name": "La Fiera de Ojinaga",
-          "url": "https://open.spotify.com/artist/6qm0DFounuQWwu6IF0ZGH2"
-        }
-      ],
-      "duration_ms": 181984,
-      "name": "Chelas y Besos",
-      "url": "https://open.spotify.com/track/5qh3nDMUpZr1v3IHcBjePI"
     },
     {
       "added_at": "2026-10-16 06:35:29",

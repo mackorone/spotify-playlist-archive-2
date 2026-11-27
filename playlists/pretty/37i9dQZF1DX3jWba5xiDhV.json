@@ -1,6 +1,6 @@
 {
   "description": "When the dancefloor calls your name, that's amore.",
-  "num_followers": 435806,
+  "num_followers": 435864,
   "original_name": "Italo Disco",
   "owner": {
     "name": "Spotify",
@@ -719,22 +719,6 @@
     {
       "added_at": "2026-07-30 22:02:37",
       "album": {
-        "name": "Dedicated To The Moon",
-        "url": "https://open.spotify.com/album/7yph4dnSdjHs2ke5ZZU2Lu"
-      },
-      "artists": [
-        {
-          "name": "Ivana Spagna",
-          "url": "https://open.spotify.com/artist/6RA9iJdNW5Lt7xTJhUBAno"
-        }
-      ],
-      "duration_ms": 290866,
-      "name": "Easy Lady",
-      "url": "https://open.spotify.com/track/2tHiQoEBpbwpoPJQ435LJ8"
-    },
-    {
-      "added_at": "2026-07-30 22:02:37",
-      "album": {
         "name": "Viewpoint",
         "url": "https://open.spotify.com/album/2hGI6J931bSqHmpirIY9Fb"
       },
@@ -747,6 +731,22 @@
       "duration_ms": 254973,
       "name": "Masterpiece",
       "url": "https://open.spotify.com/track/7vOs0UNehTDMera8uv6fXh"
+    },
+    {
+      "added_at": "2026-07-30 22:02:37",
+      "album": {
+        "name": "Dedicated To The Moon",
+        "url": "https://open.spotify.com/album/7yph4dnSdjHs2ke5ZZU2Lu"
+      },
+      "artists": [
+        {
+          "name": "Ivana Spagna",
+          "url": "https://open.spotify.com/artist/6RA9iJdNW5Lt7xTJhUBAno"
+        }
+      ],
+      "duration_ms": 290866,
+      "name": "Easy Lady",
+      "url": "https://open.spotify.com/track/2tHiQoEBpbwpoPJQ435LJ8"
     },
     {
       "added_at": "2026-07-30 22:02:37",
@@ -999,18 +999,18 @@
     {
       "added_at": "2026-07-30 22:02:37",
       "album": {
-        "name": "The Night (Original Remastered Version 2020)",
-        "url": "https://open.spotify.com/album/1Pf3wvHZSx6L3PTjEQNsZc"
+        "name": "For You (LP)",
+        "url": "https://open.spotify.com/album/3HaUzrq7HVsuVTmIIcsZ8n"
       },
       "artists": [
         {
-          "name": "Valerie Dore",
-          "url": "https://open.spotify.com/artist/6IwjxNTPn0EMh4U855D3qs"
+          "name": "Ago",
+          "url": "https://open.spotify.com/artist/3tr79XZgYXoRoI5G49Zqbx"
         }
       ],
-      "duration_ms": 376621,
-      "name": "The Night - Original Remastered Version 2020",
-      "url": "https://open.spotify.com/track/4IKfk28YxL7xHOflgt3tr4"
+      "duration_ms": 353000,
+      "name": "For You - Original Album",
+      "url": "https://open.spotify.com/track/5if1vlzBKrpoE1hZ6bxw2C"
     },
     {
       "added_at": "2026-07-30 22:02:37",
@@ -1031,18 +1031,18 @@
     {
       "added_at": "2026-07-30 22:02:37",
       "album": {
-        "name": "For You (LP)",
-        "url": "https://open.spotify.com/album/3HaUzrq7HVsuVTmIIcsZ8n"
+        "name": "The Night (Original Remastered Version 2020)",
+        "url": "https://open.spotify.com/album/1Pf3wvHZSx6L3PTjEQNsZc"
       },
       "artists": [
         {
-          "name": "Ago",
-          "url": "https://open.spotify.com/artist/3tr79XZgYXoRoI5G49Zqbx"
+          "name": "Valerie Dore",
+          "url": "https://open.spotify.com/artist/6IwjxNTPn0EMh4U855D3qs"
         }
       ],
-      "duration_ms": 353000,
-      "name": "For You - Original Album",
-      "url": "https://open.spotify.com/track/5if1vlzBKrpoE1hZ6bxw2C"
+      "duration_ms": 376621,
+      "name": "The Night - Original Remastered Version 2020",
+      "url": "https://open.spotify.com/track/4IKfk28YxL7xHOflgt3tr4"
     },
     {
       "added_at": "2026-07-30 22:02:37",
@@ -1091,26 +1091,18 @@
     {
       "added_at": "2026-07-30 22:02:37",
       "album": {
-        "name": "What Do You Live For? (feat. David Blank & Saturnino)",
-        "url": "https://open.spotify.com/album/00uw3T85RTvuXDX4QnUem4"
+        "name": "The Sound of Tony Esposito",
+        "url": "https://open.spotify.com/album/3xaaztf2ZXiBbjETpSTEQC"
       },
       "artists": [
         {
-          "name": "Rollover Djs",
-          "url": "https://open.spotify.com/artist/22XVOdZpIHdrMdyPnGAquF"
-        },
-        {
-          "name": "David Blank",
-          "url": "https://open.spotify.com/artist/21s8IBxSQOOZQKjW6oNgQ6"
-        },
-        {
-          "name": "Saturnino",
-          "url": "https://open.spotify.com/artist/1sKfOFTS7Ae9RLO2YbocVd"
+          "name": "Tony Esposito",
+          "url": "https://open.spotify.com/artist/2E236rsxSkaqZfJpv57gYF"
         }
       ],
-      "duration_ms": 257250,
-      "name": "What Do You Live For? (feat. David Blank & Saturnino)",
-      "url": "https://open.spotify.com/track/4XW2RdSCHDF67glmTN3CCQ"
+      "duration_ms": 313133,
+      "name": "Kalimba de luna",
+      "url": "https://open.spotify.com/track/1GhgNF88EQEhpGpBApiZfc"
     },
     {
       "added_at": "2026-07-30 22:02:37",
@@ -1135,18 +1127,26 @@
     {
       "added_at": "2026-07-30 22:02:37",
       "album": {
-        "name": "The Sound of Tony Esposito",
-        "url": "https://open.spotify.com/album/3xaaztf2ZXiBbjETpSTEQC"
+        "name": "What Do You Live For? (feat. David Blank & Saturnino)",
+        "url": "https://open.spotify.com/album/00uw3T85RTvuXDX4QnUem4"
       },
       "artists": [
         {
-          "name": "Tony Esposito",
-          "url": "https://open.spotify.com/artist/2E236rsxSkaqZfJpv57gYF"
+          "name": "Rollover Djs",
+          "url": "https://open.spotify.com/artist/22XVOdZpIHdrMdyPnGAquF"
+        },
+        {
+          "name": "David Blank",
+          "url": "https://open.spotify.com/artist/21s8IBxSQOOZQKjW6oNgQ6"
+        },
+        {
+          "name": "Saturnino",
+          "url": "https://open.spotify.com/artist/1sKfOFTS7Ae9RLO2YbocVd"
         }
       ],
-      "duration_ms": 313133,
-      "name": "Kalimba de luna",
-      "url": "https://open.spotify.com/track/1GhgNF88EQEhpGpBApiZfc"
+      "duration_ms": 257250,
+      "name": "What Do You Live For? (feat. David Blank & Saturnino)",
+      "url": "https://open.spotify.com/track/4XW2RdSCHDF67glmTN3CCQ"
     },
     {
       "added_at": "2026-07-30 22:02:37",
@@ -1223,6 +1223,22 @@
     {
       "added_at": "2026-07-30 22:02:37",
       "album": {
+        "name": "Caf\u00e8",
+        "url": "https://open.spotify.com/album/1vv5SsVv82uIMDMme0ow28"
+      },
+      "artists": [
+        {
+          "name": "Dd Sound",
+          "url": "https://open.spotify.com/artist/7q9FUGUCmVh5kVfXJyCADD"
+        }
+      ],
+      "duration_ms": 393773,
+      "name": "Caf\u00e8 - Original 1979 Version",
+      "url": "https://open.spotify.com/track/6bKOUB4zXxYFhG4a3x6JGZ"
+    },
+    {
+      "added_at": "2026-07-30 22:02:37",
+      "album": {
         "name": "Under the Ice - Single",
         "url": "https://open.spotify.com/album/3vMFalOaP1bCRm8HVFQOAk"
       },
@@ -1239,22 +1255,6 @@
       "duration_ms": 432404,
       "name": "Under the Ice - Original 12 Inch Version",
       "url": "https://open.spotify.com/track/2ue8ttSzbhnvhO7zc52NjC"
-    },
-    {
-      "added_at": "2026-07-30 22:02:37",
-      "album": {
-        "name": "Caf\u00e8",
-        "url": "https://open.spotify.com/album/1vv5SsVv82uIMDMme0ow28"
-      },
-      "artists": [
-        {
-          "name": "Dd Sound",
-          "url": "https://open.spotify.com/artist/7q9FUGUCmVh5kVfXJyCADD"
-        }
-      ],
-      "duration_ms": 393773,
-      "name": "Caf\u00e8 - Original 1979 Version",
-      "url": "https://open.spotify.com/track/6bKOUB4zXxYFhG4a3x6JGZ"
     },
     {
       "added_at": "2026-07-30 22:02:37",

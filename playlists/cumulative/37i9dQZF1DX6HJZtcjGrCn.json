@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2024-07-02",
-  "description": "M\u00fasica independente. A tua alternativa ao mainstream. Foto: Ana Lua Caiano",
+  "description": "M\u00fasica independente. A tua alternativa ao mainstream. Foto: TOTA",
   "name": "Cena Indie",
   "tracks": [
     {
@@ -136,7 +136,7 @@
       ],
       "date_added": "2026-01-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-27",
       "duration_ms": 177473,
       "name": "2SIDED",
       "url": "https://open.spotify.com/track/1kdHE79HtKUGmJ1vDyp69j"
@@ -1121,6 +1121,24 @@
     },
     {
       "album": {
+        "name": "brado",
+        "url": "https://open.spotify.com/album/6boudqWcoN3UIi3BKVGtSV"
+      },
+      "artists": [
+        {
+          "name": "TOTA",
+          "url": "https://open.spotify.com/artist/5E4Co7JcDatdwl6c6ti55N"
+        }
+      ],
+      "date_added": "2026-11-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 242853,
+      "name": "beb\u00e9s e b\u00eabedos",
+      "url": "https://open.spotify.com/track/6XUox5CmFkeC9x0tZkvceg"
+    },
+    {
+      "album": {
         "name": "Romance (Deluxe Edition)",
         "url": "https://open.spotify.com/album/1eKVHMQJt9UVkuOb4gE3wy"
       },
@@ -1132,7 +1150,7 @@
       ],
       "date_added": "2025-04-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-27",
       "duration_ms": 236245,
       "name": "Before You I Just Forget",
       "url": "https://open.spotify.com/track/1oVAmJ2oaHv5NWFH99jCWE"
@@ -1616,7 +1634,7 @@
       ],
       "date_added": "2026-10-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-27",
       "duration_ms": 254969,
       "name": "Can\u00e7\u00e3o Pra Dois",
       "url": "https://open.spotify.com/track/0RVRvmYO2IBv96Y9Qf3JrC"
@@ -2281,6 +2299,28 @@
     },
     {
       "album": {
+        "name": "Conversas Com o Batom",
+        "url": "https://open.spotify.com/album/6uW0x2cnnLKGZAsPzqoleE"
+      },
+      "artists": [
+        {
+          "name": "Jo\u00e3o N\u00e3o",
+          "url": "https://open.spotify.com/artist/5iOD5ECeTZmhUOiIoIPiHC"
+        },
+        {
+          "name": "Lil Noon",
+          "url": "https://open.spotify.com/artist/3e4WPDmHpNiXhaAy8tGfRs"
+        }
+      ],
+      "date_added": "2026-11-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 186976,
+      "name": "Conversas Com o Batom",
+      "url": "https://open.spotify.com/track/3PZqMvdgmTybyhJg8d4LeJ"
+    },
+    {
+      "album": {
         "name": "Cor l\u00e1 Fora",
         "url": "https://open.spotify.com/album/5SxomFEgRYwXGuyjNBlB99"
       },
@@ -2336,6 +2376,24 @@
       "duration_ms": 238930,
       "name": "Count The Ways",
       "url": "https://open.spotify.com/track/1GLpxKAMh0NvdfFD6F8uXs"
+    },
+    {
+      "album": {
+        "name": "Auto-Stress",
+        "url": "https://open.spotify.com/album/1PQlpY3ddAVnMhDPzfXj05"
+      },
+      "artists": [
+        {
+          "name": "800 Gondomar",
+          "url": "https://open.spotify.com/artist/6LYpujCssc9sGQK7VIoVm8"
+        }
+      ],
+      "date_added": "2026-11-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 139247,
+      "name": "Craque Total",
+      "url": "https://open.spotify.com/track/4anY2mydNt1wGqOXTzKHfX"
     },
     {
       "album": {
@@ -2480,7 +2538,7 @@
       ],
       "date_added": "2026-07-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-27",
       "duration_ms": 244866,
       "name": "Daughter from Hell",
       "url": "https://open.spotify.com/track/7yogqG9VriSe2gE9RKZKwG"
@@ -2853,6 +2911,24 @@
     },
     {
       "album": {
+        "name": "Branco Maduro (B\u00f3nus Disco Tinto)",
+        "url": "https://open.spotify.com/album/33fZrJofV26LOFxNncBw4b"
+      },
+      "artists": [
+        {
+          "name": "\u00c9me",
+          "url": "https://open.spotify.com/artist/2psGdwmcXOU2W2d3AycH3w"
+        }
+      ],
+      "date_added": "2026-11-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 208093,
+      "name": "Dores Laborais - c/ Banda Colegas",
+      "url": "https://open.spotify.com/track/5AdNck0w1k9XnYYwiOXNM3"
+    },
+    {
+      "album": {
         "name": "work in progress",
         "url": "https://open.spotify.com/album/2dBv8d4WbvtT4ZUxlri7A5"
       },
@@ -3120,6 +3196,24 @@
       "duration_ms": 160244,
       "name": "Edge of the Earth",
       "url": "https://open.spotify.com/track/4Zy6m1QjUivLl8Zt7E8uxr"
+    },
+    {
+      "album": {
+        "name": "Egoc\u00eantrico",
+        "url": "https://open.spotify.com/album/3sl6L9SHZal1wxDMSLyWCC"
+      },
+      "artists": [
+        {
+          "name": "Quadra",
+          "url": "https://open.spotify.com/artist/3shzbnxS6RC8PJHasU1ebK"
+        }
+      ],
+      "date_added": "2026-11-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 210147,
+      "name": "Egoc\u00eantrico",
+      "url": "https://open.spotify.com/track/56NfR7wnbuKrVsC6wHyjuH"
     },
     {
       "album": {
@@ -3651,6 +3745,24 @@
     },
     {
       "album": {
+        "name": "Fifty Percent Less SSRIs",
+        "url": "https://open.spotify.com/album/0kaJvlftPiCwaiC6PN3cGd"
+      },
+      "artists": [
+        {
+          "name": "HONEYMOAN",
+          "url": "https://open.spotify.com/artist/5J9s2Y6roGagMAipTa5XqV"
+        }
+      ],
+      "date_added": "2026-11-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 158571,
+      "name": "Fifty Percent Less SSRIs",
+      "url": "https://open.spotify.com/track/0WcW4z3Xs8eRT3oiE8qBD9"
+    },
+    {
+      "album": {
         "name": "First Light",
         "url": "https://open.spotify.com/album/2uPAqoHMW8fvvP5cFYejc4"
       },
@@ -3948,7 +4060,7 @@
       ],
       "date_added": "2025-10-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-27",
       "duration_ms": 287411,
       "name": "Giving Up Air",
       "url": "https://open.spotify.com/track/4K49GNARzyKM5WuZVLB6Jy"
@@ -4964,6 +5076,24 @@
       "duration_ms": 216160,
       "name": "Invincible (feat. Daniel Caesar)",
       "url": "https://open.spotify.com/track/7jhxagwOk9y1HC5ciRfmkQ"
+    },
+    {
+      "album": {
+        "name": "IN\u00c9RCIA",
+        "url": "https://open.spotify.com/album/3zZ5kbYxRm2HAcJqvSvZe7"
+      },
+      "artists": [
+        {
+          "name": "Lu\u00eds Braz Teixeira",
+          "url": "https://open.spotify.com/artist/6kjqZjez1wv0g2s2BiE0Z4"
+        }
+      ],
+      "date_added": "2026-11-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 181090,
+      "name": "IN\u00c9RCIA",
+      "url": "https://open.spotify.com/track/2vNNoVp9OYXtiKA7qMN4or"
     },
     {
       "album": {
@@ -6015,6 +6145,24 @@
     },
     {
       "album": {
+        "name": "mensagem :(",
+        "url": "https://open.spotify.com/album/5xjfI5puEyFDWTB5NKdRj2"
+      },
+      "artists": [
+        {
+          "name": "Lour",
+          "url": "https://open.spotify.com/artist/69euCymPvnZkNK4mjYIuzW"
+        }
+      ],
+      "date_added": "2026-11-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 172894,
+      "name": "mensagem :(",
+      "url": "https://open.spotify.com/track/60pfpGdAMedy0S8K1ED8xq"
+    },
+    {
+      "album": {
         "name": "Merry Christmas, Please Don't Call",
         "url": "https://open.spotify.com/album/4ngrC1or0nXFHjHdRDldhW"
       },
@@ -6226,7 +6374,7 @@
       ],
       "date_added": "2026-03-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-27",
       "duration_ms": 204778,
       "name": "Miyazaki",
       "url": "https://open.spotify.com/track/4VdqXAgfC79LeweD9qVgVZ"
@@ -6352,7 +6500,7 @@
       ],
       "date_added": "2025-09-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-27",
       "duration_ms": 311083,
       "name": "Mr. Mountebank",
       "url": "https://open.spotify.com/track/5tN8OqwUxsVKUCE1cea23k"
@@ -8682,7 +8830,7 @@
       ],
       "date_added": "2026-11-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-27",
       "duration_ms": 193646,
       "name": "Se A Cabe\u00e7a Anda Manca",
       "url": "https://open.spotify.com/track/6bzKtI6Ga1DrmWTEX45G50"

@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2019-05-26",
-  "description": "New music from Playboi Carti, Gunna and Don Toliver. ",
+  "description": "New music from Ye, Gunna and Don Toliver. ",
   "name": "RapCaviar",
   "tracks": [
     {
@@ -25314,7 +25314,7 @@
       ],
       "date_added": "2026-11-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-27",
       "duration_ms": 178840,
       "name": "I Wanna Fuck You",
       "url": "https://open.spotify.com/track/1G93i9ga7ZPEOqpiNhM1mq"
@@ -38542,6 +38542,28 @@
       "duration_ms": 153597,
       "name": "Out Of Love (feat. Internet Money)",
       "url": "https://open.spotify.com/track/7rTzrRdc5UbvLr0gwI1J3E"
+    },
+    {
+      "album": {
+        "name": "OUT OF MY MIND",
+        "url": "https://open.spotify.com/album/2AGYicRLaEgTE3eoe8CztA"
+      },
+      "artists": [
+        {
+          "name": "Kanye West",
+          "url": "https://open.spotify.com/artist/5K4W6rqBFWDnAN6FQUkS6x"
+        },
+        {
+          "name": "Ye",
+          "url": "https://open.spotify.com/artist/3NlsBPwqJuDgtXZ2rv5Dmq"
+        }
+      ],
+      "date_added": "2026-11-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 106957,
+      "name": "OUT OF MY MIND",
+      "url": "https://open.spotify.com/track/4MXFcXnEb4JzG6h4vpiUWB"
     },
     {
       "album": {
@@ -55170,7 +55192,7 @@
       ],
       "date_added": "2026-11-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-27",
       "duration_ms": 141824,
       "name": "TOO SOON (feat. Babyface)",
       "url": "https://open.spotify.com/track/1FcuNoGjKXQ7XvwuV0B9ke"

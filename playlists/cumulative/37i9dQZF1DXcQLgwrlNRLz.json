@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2026-06-30",
-  "description": "Le plus chauds d'Afrique Francophone. Cover: Baby Daiz & Tiakola ",
+  "description": "Le plus chauds d'Afrique Francophone. Cover: LinLin",
   "name": "Francophone.wav",
   "tracks": [
     {
@@ -188,7 +188,7 @@
       ],
       "date_added": "2026-10-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-27",
       "duration_ms": 118636,
       "name": "Bilingual Baddie(BB)",
       "url": "https://open.spotify.com/track/5OhIiYqDiGngTojSmC11ZP"
@@ -539,6 +539,28 @@
     },
     {
       "album": {
+        "name": "D GA",
+        "url": "https://open.spotify.com/album/2EDrkvEVqIClNvvqLc4xT6"
+      },
+      "artists": [
+        {
+          "name": "LinLin",
+          "url": "https://open.spotify.com/artist/1D7nUBd4i2mrVpmLQmHI0n"
+        },
+        {
+          "name": "Theodora",
+          "url": "https://open.spotify.com/artist/3PpJbrAbphauEun8Xf9tD2"
+        }
+      ],
+      "date_added": "2026-11-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 180462,
+      "name": "D GA",
+      "url": "https://open.spotify.com/track/2TxXO0GXIOCHkwRR35q4vP"
+    },
+    {
+      "album": {
         "name": "Forgiveness",
         "url": "https://open.spotify.com/album/3YrpMaoOnkF0d4H7vJW7c4"
       },
@@ -656,7 +678,7 @@
       ],
       "date_added": "2026-10-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-27",
       "duration_ms": 105826,
       "name": "Effray\u00e9s",
       "url": "https://open.spotify.com/track/4ocjzDW1Ub8o6qCt39UFmU"
@@ -1346,6 +1368,28 @@
       "duration_ms": 148193,
       "name": "Mood (feat. D2 & kulturr)",
       "url": "https://open.spotify.com/track/0Map8Sn47eyojScNyuMnUD"
+    },
+    {
+      "album": {
+        "name": "DIVAS",
+        "url": "https://open.spotify.com/album/6hdqkXEnPI1YscyRKSVOEp"
+      },
+      "artists": [
+        {
+          "name": "Roseline Layo",
+          "url": "https://open.spotify.com/artist/3vrK28yYXzDOifqaD3YyEI"
+        },
+        {
+          "name": "Oumou Sangar\u00e9",
+          "url": "https://open.spotify.com/artist/65CKKZilbcSKkAPC9a5Mvh"
+        }
+      ],
+      "date_added": "2026-11-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 217981,
+      "name": "MOUSSO",
+      "url": "https://open.spotify.com/track/1SCbrmRhSSCAtXw0Mui9un"
     },
     {
       "album": {

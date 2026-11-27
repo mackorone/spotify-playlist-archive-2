@@ -1,15 +1,59 @@
 {
-  "description": "The hip-hop playlist that's a whole mood. Art By Laci Jordan; Cover: Saweetie",
-  "num_followers": 3267597,
+  "description": "The hip-hop playlist that's a whole mood. Art By Laci Jordan; Cover: Cardi B",
+  "num_followers": 3267551,
   "original_name": "Feelin' Myself",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAADrNXzW+K6dn+xDG2feeh5GzocAX",
+  "snapshot_id": "AAAAAH3dVjrSfILub91RCInFFnQSfmuU",
   "tracks": [
     {
-      "added_at": "2026-11-20 05:01:32",
+      "added_at": "2026-11-27 05:01:38",
+      "album": {
+        "name": "50 Bands (feat. Flo Milli) [from GTAVI: The Album]",
+        "url": "https://open.spotify.com/album/3tPXNdx95uhAgzW2gVynBc"
+      },
+      "artists": [
+        {
+          "name": "Latto",
+          "url": "https://open.spotify.com/artist/3MdXrJWsbVzdn6fe5JYkSQ"
+        },
+        {
+          "name": "Grand Theft Auto VI",
+          "url": "https://open.spotify.com/artist/15o7qdDTBzs6xWRUYUtZc1"
+        },
+        {
+          "name": "Flo Milli",
+          "url": "https://open.spotify.com/artist/08PvCOlef4xdOr20jFSTPd"
+        }
+      ],
+      "duration_ms": 147400,
+      "name": "50 Bands (feat. Flo Milli) [from GTAVI: The Album]",
+      "url": "https://open.spotify.com/track/4iWwPHhQQeHJHqq5bONdeS"
+    },
+    {
+      "added_at": "2026-11-27 05:01:38",
+      "album": {
+        "name": "Don\u2019t Chart (from GTAVI: The Album)",
+        "url": "https://open.spotify.com/album/6bu9UAwyOykarcK9fJBjCz"
+      },
+      "artists": [
+        {
+          "name": "Cardi B",
+          "url": "https://open.spotify.com/artist/4kYSro6naA4h99UJvo89HB"
+        },
+        {
+          "name": "Grand Theft Auto VI",
+          "url": "https://open.spotify.com/artist/15o7qdDTBzs6xWRUYUtZc1"
+        }
+      ],
+      "duration_ms": 164200,
+      "name": "Don\u2019t Chart (from GTAVI: The Album)",
+      "url": "https://open.spotify.com/track/4NaBitL0J4PBSODIL1sUg7"
+    },
+    {
+      "added_at": "2026-11-27 05:01:38",
       "album": {
         "name": "Tina Tuesday Freestyles",
         "url": "https://open.spotify.com/album/7us0zl46Z7mkATIjbMuZop"
@@ -25,23 +69,7 @@
       "url": "https://open.spotify.com/track/30kdhH71QYFC1WBBz89chu"
     },
     {
-      "added_at": "2026-11-20 05:01:32",
-      "album": {
-        "name": "AH HA",
-        "url": "https://open.spotify.com/album/09DQe4Epg024ukkrAI5DGe"
-      },
-      "artists": [
-        {
-          "name": "Cardi B",
-          "url": "https://open.spotify.com/artist/4kYSro6naA4h99UJvo89HB"
-        }
-      ],
-      "duration_ms": 175866,
-      "name": "AH HA",
-      "url": "https://open.spotify.com/track/6fQeVMxEg2FSKfsQm5ArVR"
-    },
-    {
-      "added_at": "2026-11-20 05:01:32",
+      "added_at": "2026-11-27 05:01:38",
       "album": {
         "name": "Pink Blush (Remix) [feat. Megan Thee Stallion]",
         "url": "https://open.spotify.com/album/3sqKpIBO5ST20iCc5kY5nA"
@@ -61,7 +89,7 @@
       "url": "https://open.spotify.com/track/2k1gcQWaB2FuVFqK46s4ob"
     },
     {
-      "added_at": "2026-11-20 05:01:32",
+      "added_at": "2026-11-27 05:01:38",
       "album": {
         "name": "Jiggly Bow Bow (with Sexyy Red)",
         "url": "https://open.spotify.com/album/3vrpg8PutX0VIXEtlNgRv6"
@@ -81,23 +109,7 @@
       "url": "https://open.spotify.com/track/5WUaJ72FfYy1mQRWaLmOtn"
     },
     {
-      "added_at": "2026-11-20 05:01:32",
-      "album": {
-        "name": "details",
-        "url": "https://open.spotify.com/album/1YslW2Ai6kI5KFEfuttBTY"
-      },
-      "artists": [
-        {
-          "name": "Saweetie",
-          "url": "https://open.spotify.com/artist/6cK3NBO6uP7hh0oyuVELFl"
-        }
-      ],
-      "duration_ms": 149313,
-      "name": "details",
-      "url": "https://open.spotify.com/track/3vrfkA7oTCRxfeNf1cCqda"
-    },
-    {
-      "added_at": "2026-11-20 05:01:32",
+      "added_at": "2026-11-27 05:01:38",
       "album": {
         "name": "Feeling On My Body",
         "url": "https://open.spotify.com/album/50owKb2Oo4FXVBpsxBwxSq"
@@ -117,23 +129,7 @@
       "url": "https://open.spotify.com/track/5AIKM6zNiPi00rbWPnEq80"
     },
     {
-      "added_at": "2026-11-20 05:01:32",
-      "album": {
-        "name": "Spend Dat",
-        "url": "https://open.spotify.com/album/4bHuSvx7cbXCmVj5Y4XzFC"
-      },
-      "artists": [
-        {
-          "name": "Yung Miami",
-          "url": "https://open.spotify.com/artist/5lbW0rNhFyCiSlClBMYbki"
-        }
-      ],
-      "duration_ms": 181391,
-      "name": "Spend Dat",
-      "url": "https://open.spotify.com/track/0LWIiBYFmOnkqysugp0VKo"
-    },
-    {
-      "added_at": "2026-11-20 05:01:32",
+      "added_at": "2026-11-27 05:01:38",
       "album": {
         "name": "Not Yours",
         "url": "https://open.spotify.com/album/2dmEvjeosmWip7SSpV7wro"
@@ -149,23 +145,59 @@
       "url": "https://open.spotify.com/track/1Wlxvl98MLBcyXsVF6VDnt"
     },
     {
-      "added_at": "2026-11-20 05:01:32",
+      "added_at": "2026-11-27 05:01:38",
       "album": {
-        "name": "If You Want It",
-        "url": "https://open.spotify.com/album/1jc3lBsBsQaYOGRciN3Bv0"
+        "name": "AH HA",
+        "url": "https://open.spotify.com/album/09DQe4Epg024ukkrAI5DGe"
       },
       "artists": [
         {
-          "name": "Sexyy Red",
-          "url": "https://open.spotify.com/artist/3DbwFQlvLxRSi2uX8mf81A"
+          "name": "Cardi B",
+          "url": "https://open.spotify.com/artist/4kYSro6naA4h99UJvo89HB"
         }
       ],
-      "duration_ms": 182587,
-      "name": "If You Want It",
-      "url": "https://open.spotify.com/track/1lBkIZiPtUetgkMcSABu3h"
+      "duration_ms": 175866,
+      "name": "AH HA",
+      "url": "https://open.spotify.com/track/6fQeVMxEg2FSKfsQm5ArVR"
     },
     {
-      "added_at": "2026-11-20 05:01:32",
+      "added_at": "2026-11-27 05:01:38",
+      "album": {
+        "name": "Spend Dat",
+        "url": "https://open.spotify.com/album/4bHuSvx7cbXCmVj5Y4XzFC"
+      },
+      "artists": [
+        {
+          "name": "Yung Miami",
+          "url": "https://open.spotify.com/artist/5lbW0rNhFyCiSlClBMYbki"
+        }
+      ],
+      "duration_ms": 181391,
+      "name": "Spend Dat",
+      "url": "https://open.spotify.com/track/0LWIiBYFmOnkqysugp0VKo"
+    },
+    {
+      "added_at": "2026-11-27 05:01:38",
+      "album": {
+        "name": "Big Mama",
+        "url": "https://open.spotify.com/album/517YiqpjVOJnbd3Znp6awe"
+      },
+      "artists": [
+        {
+          "name": "Latto",
+          "url": "https://open.spotify.com/artist/3MdXrJWsbVzdn6fe5JYkSQ"
+        },
+        {
+          "name": "Doja Cat",
+          "url": "https://open.spotify.com/artist/5cj0lLjcoR7YOSnhnX0Po5"
+        }
+      ],
+      "duration_ms": 238573,
+      "name": "Okayyy (feat. Doja Cat)",
+      "url": "https://open.spotify.com/track/76IJjtvNrwN4yjRn2YMt2w"
+    },
+    {
+      "added_at": "2026-11-27 05:01:38",
       "album": {
         "name": "Tina Tuesday Freestyles",
         "url": "https://open.spotify.com/album/7us0zl46Z7mkATIjbMuZop"
@@ -181,23 +213,39 @@
       "url": "https://open.spotify.com/track/6cfxALbtuiIRdrfWCEDGvK"
     },
     {
-      "added_at": "2026-11-20 05:01:32",
+      "added_at": "2026-11-27 05:01:38",
       "album": {
-        "name": "Throw That Money",
-        "url": "https://open.spotify.com/album/6xd4OdM21eHL9NXqnFFCSS"
+        "name": "If You Want It",
+        "url": "https://open.spotify.com/album/1jc3lBsBsQaYOGRciN3Bv0"
       },
       "artists": [
         {
-          "name": "Flo Milli",
-          "url": "https://open.spotify.com/artist/08PvCOlef4xdOr20jFSTPd"
+          "name": "Sexyy Red",
+          "url": "https://open.spotify.com/artist/3DbwFQlvLxRSi2uX8mf81A"
         }
       ],
-      "duration_ms": 125142,
-      "name": "Throw That Money",
-      "url": "https://open.spotify.com/track/4QYMDDTvN9aSYAeXjmCv29"
+      "duration_ms": 182587,
+      "name": "If You Want It",
+      "url": "https://open.spotify.com/track/1lBkIZiPtUetgkMcSABu3h"
     },
     {
-      "added_at": "2026-11-20 05:01:32",
+      "added_at": "2026-11-27 05:01:38",
+      "album": {
+        "name": "Black Punk",
+        "url": "https://open.spotify.com/album/2MsrhQ8K9Qc2l8AeSnAOJT"
+      },
+      "artists": [
+        {
+          "name": "Molly Santana",
+          "url": "https://open.spotify.com/artist/1zEHBw7xQf0drXZagRkciU"
+        }
+      ],
+      "duration_ms": 193915,
+      "name": "Ain't Like You",
+      "url": "https://open.spotify.com/track/5FoXYwuzrRzRb21KVBeK8A"
+    },
+    {
+      "added_at": "2026-11-27 05:01:38",
       "album": {
         "name": "Nobody (feat. Monaleo) [Remix]",
         "url": "https://open.spotify.com/album/6tT8zJ9w55GkEcy4eFbnA9"
@@ -217,27 +265,7 @@
       "url": "https://open.spotify.com/track/06D4xKbpIT0tXXE2JEysBp"
     },
     {
-      "added_at": "2026-11-20 05:01:32",
-      "album": {
-        "name": "OMG",
-        "url": "https://open.spotify.com/album/62vFdMrYoMoJsxb9LpcsqM"
-      },
-      "artists": [
-        {
-          "name": "Lady Binladen",
-          "url": "https://open.spotify.com/artist/7uhhz6hbxdJlbHIbmqvAAT"
-        },
-        {
-          "name": "FattMack",
-          "url": "https://open.spotify.com/artist/3L9uBgjdSGghrzkEpr4Fy7"
-        }
-      ],
-      "duration_ms": 151104,
-      "name": "OMG",
-      "url": "https://open.spotify.com/track/42T2BaO6UXxvyT2FDPkXIt"
-    },
-    {
-      "added_at": "2026-11-20 05:01:32",
+      "added_at": "2026-11-27 05:01:38",
       "album": {
         "name": "Outside",
         "url": "https://open.spotify.com/album/5zl5XG90weUWtbROL75GCT"
@@ -257,7 +285,23 @@
       "url": "https://open.spotify.com/track/66akDgOGJi139ys0umhBns"
     },
     {
-      "added_at": "2026-11-20 05:01:32",
+      "added_at": "2026-11-27 05:01:38",
+      "album": {
+        "name": "details",
+        "url": "https://open.spotify.com/album/1YslW2Ai6kI5KFEfuttBTY"
+      },
+      "artists": [
+        {
+          "name": "Saweetie",
+          "url": "https://open.spotify.com/artist/6cK3NBO6uP7hh0oyuVELFl"
+        }
+      ],
+      "duration_ms": 149313,
+      "name": "details",
+      "url": "https://open.spotify.com/track/3vrfkA7oTCRxfeNf1cCqda"
+    },
+    {
+      "added_at": "2026-11-27 05:01:38",
       "album": {
         "name": "POP DAT THANG (feat. GloRilla, Yung Miami & YKNIECE) [Official Remix]",
         "url": "https://open.spotify.com/album/1w388FR5FmKmAa6Ju1lrW1"
@@ -285,7 +329,7 @@
       "url": "https://open.spotify.com/track/5tfpyQ5BVk6NoVxPoeZ7Eq"
     },
     {
-      "added_at": "2026-11-20 05:01:32",
+      "added_at": "2026-11-27 05:01:38",
       "album": {
         "name": "I Love 304s",
         "url": "https://open.spotify.com/album/17525Qh1kJxVYWVSBYJB1h"
@@ -301,7 +345,27 @@
       "url": "https://open.spotify.com/track/1Xrt390iOwVF78hcAKo8ix"
     },
     {
-      "added_at": "2026-11-20 05:01:32",
+      "added_at": "2026-11-27 05:01:38",
+      "album": {
+        "name": "MORE MOTION",
+        "url": "https://open.spotify.com/album/7ayNgjApAzGWGceNTPUktR"
+      },
+      "artists": [
+        {
+          "name": "Lakeyah",
+          "url": "https://open.spotify.com/artist/77gMBvQ2frbQAPyCeoYGm7"
+        },
+        {
+          "name": "Breskii",
+          "url": "https://open.spotify.com/artist/2wVt4s4eHizk62Er2CLunw"
+        }
+      ],
+      "duration_ms": 165960,
+      "name": "EXACTLY (feat. Breskii)",
+      "url": "https://open.spotify.com/track/5S9jJXM4gMP9PjK7pNIugf"
+    },
+    {
+      "added_at": "2026-11-27 05:01:38",
       "album": {
         "name": "F You",
         "url": "https://open.spotify.com/album/4TPOzSWHrWZb8hhrr3z7n2"
@@ -317,27 +381,7 @@
       "url": "https://open.spotify.com/track/5GJNSOZzuQ6mFYu4a2E54O"
     },
     {
-      "added_at": "2026-11-20 05:01:32",
-      "album": {
-        "name": "Don\u2019t Chart (from GTAVI: The Album)",
-        "url": "https://open.spotify.com/album/6bu9UAwyOykarcK9fJBjCz"
-      },
-      "artists": [
-        {
-          "name": "Cardi B",
-          "url": "https://open.spotify.com/artist/4kYSro6naA4h99UJvo89HB"
-        },
-        {
-          "name": "Grand Theft Auto VI",
-          "url": "https://open.spotify.com/artist/15o7qdDTBzs6xWRUYUtZc1"
-        }
-      ],
-      "duration_ms": 164200,
-      "name": "Don\u2019t Chart (from GTAVI: The Album)",
-      "url": "https://open.spotify.com/track/4NaBitL0J4PBSODIL1sUg7"
-    },
-    {
-      "added_at": "2026-11-20 05:01:32",
+      "added_at": "2026-11-27 05:01:38",
       "album": {
         "name": "Too Bo$$y",
         "url": "https://open.spotify.com/album/1qcQBEA1u6UOMjbpNp99So"
@@ -353,27 +397,7 @@
       "url": "https://open.spotify.com/track/1IFK4fgCXVzl2WmrcXO7J5"
     },
     {
-      "added_at": "2026-11-20 05:01:32",
-      "album": {
-        "name": "Big Mama",
-        "url": "https://open.spotify.com/album/517YiqpjVOJnbd3Znp6awe"
-      },
-      "artists": [
-        {
-          "name": "Latto",
-          "url": "https://open.spotify.com/artist/3MdXrJWsbVzdn6fe5JYkSQ"
-        },
-        {
-          "name": "Doja Cat",
-          "url": "https://open.spotify.com/artist/5cj0lLjcoR7YOSnhnX0Po5"
-        }
-      ],
-      "duration_ms": 238573,
-      "name": "Okayyy (feat. Doja Cat)",
-      "url": "https://open.spotify.com/track/76IJjtvNrwN4yjRn2YMt2w"
-    },
-    {
-      "added_at": "2026-11-20 05:01:32",
+      "added_at": "2026-11-27 05:01:38",
       "album": {
         "name": "Better Than Yours (feat. Youngboy Never Broke Again)",
         "url": "https://open.spotify.com/album/47ILgvAKy8xB5Cmuo0iQlN"
@@ -393,7 +417,7 @@
       "url": "https://open.spotify.com/track/7Cu72sNXv5n9vbHcXbSmgp"
     },
     {
-      "added_at": "2026-11-20 05:01:32",
+      "added_at": "2026-11-27 05:01:38",
       "album": {
         "name": "Watch Dis!",
         "url": "https://open.spotify.com/album/6vGsnz0EkIqv9zYPFKub3j"
@@ -413,27 +437,7 @@
       "url": "https://open.spotify.com/track/4b4XGnysKKSNZk2UqItJX1"
     },
     {
-      "added_at": "2026-11-20 05:01:32",
-      "album": {
-        "name": "WOAH",
-        "url": "https://open.spotify.com/album/4yGHrisO5kZlRKv9E06RdJ"
-      },
-      "artists": [
-        {
-          "name": "Flau'jae",
-          "url": "https://open.spotify.com/artist/5IQcgEvxwvq8kwy4iWCiBC"
-        },
-        {
-          "name": "Monaleo",
-          "url": "https://open.spotify.com/artist/2sflbTtCirog5VxD6jPAfb"
-        }
-      ],
-      "duration_ms": 156734,
-      "name": "WOAH",
-      "url": "https://open.spotify.com/track/2frxx1BJjJZQoIQ3Ri9cwA"
-    },
-    {
-      "added_at": "2026-11-20 05:01:32",
+      "added_at": "2026-11-27 05:01:38",
       "album": {
         "name": "BOAT REMIX",
         "url": "https://open.spotify.com/album/0PBa3RVZ6Mpy9dCdb3UnRC"
@@ -457,27 +461,7 @@
       "url": "https://open.spotify.com/track/2HeqKWstr0XAYILHpRo5ra"
     },
     {
-      "added_at": "2026-11-20 05:01:32",
-      "album": {
-        "name": "NWM",
-        "url": "https://open.spotify.com/album/2UlvJKa3ErOUugM6NNEjEs"
-      },
-      "artists": [
-        {
-          "name": "Kash Doll",
-          "url": "https://open.spotify.com/artist/3u579Gdap91lMptBSdXTpf"
-        },
-        {
-          "name": "Alex Vaughn",
-          "url": "https://open.spotify.com/artist/24S5IyzXICyGscL4vYshdq"
-        }
-      ],
-      "duration_ms": 192000,
-      "name": "NWM",
-      "url": "https://open.spotify.com/track/3xcGQuK0hKDB8a3eW2Wb5R"
-    },
-    {
-      "added_at": "2026-11-20 05:01:32",
+      "added_at": "2026-11-27 05:01:38",
       "album": {
         "name": "BIANCA (Extended)",
         "url": "https://open.spotify.com/album/3ZZPAolaVt6yBMsk84BeK1"
@@ -493,7 +477,7 @@
       "url": "https://open.spotify.com/track/6g4EPHt65k6X0BgLGzP1KW"
     },
     {
-      "added_at": "2026-11-20 05:01:32",
+      "added_at": "2026-11-27 05:01:38",
       "album": {
         "name": "Hang Wit a Bad Bitch (feat. Key Glock)",
         "url": "https://open.spotify.com/album/2baqPDpNzQ8eu8tGM98lZA"
@@ -513,7 +497,7 @@
       "url": "https://open.spotify.com/track/58kIVm8Mb2CS4j6UQa1PE4"
     },
     {
-      "added_at": "2026-11-20 05:01:32",
+      "added_at": "2026-11-27 05:01:38",
       "album": {
         "name": "Flo Jackson",
         "url": "https://open.spotify.com/album/7a50cJvGdEO7AfkEvOoCFS"
@@ -529,7 +513,7 @@
       "url": "https://open.spotify.com/track/4fwJzG3arwvfC1ZbRdracJ"
     },
     {
-      "added_at": "2026-11-20 05:01:32",
+      "added_at": "2026-11-27 05:01:38",
       "album": {
         "name": "Big Mama",
         "url": "https://open.spotify.com/album/517YiqpjVOJnbd3Znp6awe"
@@ -545,7 +529,23 @@
       "url": "https://open.spotify.com/track/2QU9ZLNwjlFHvPQbHLiwij"
     },
     {
-      "added_at": "2026-11-20 05:01:32",
+      "added_at": "2026-11-27 05:01:38",
+      "album": {
+        "name": "Throw That Money",
+        "url": "https://open.spotify.com/album/6xd4OdM21eHL9NXqnFFCSS"
+      },
+      "artists": [
+        {
+          "name": "Flo Milli",
+          "url": "https://open.spotify.com/artist/08PvCOlef4xdOr20jFSTPd"
+        }
+      ],
+      "duration_ms": 125142,
+      "name": "Throw That Money",
+      "url": "https://open.spotify.com/track/4QYMDDTvN9aSYAeXjmCv29"
+    },
+    {
+      "added_at": "2026-11-27 05:01:38",
       "album": {
         "name": "Popular",
         "url": "https://open.spotify.com/album/7xck6NTRqumFEIvd7ganZZ"
@@ -561,23 +561,7 @@
       "url": "https://open.spotify.com/track/74RED1gaWYRnb2AgEFh3ES"
     },
     {
-      "added_at": "2026-11-20 05:01:32",
-      "album": {
-        "name": "Hittin",
-        "url": "https://open.spotify.com/album/6fTMoY8zwETgz56dG8kwk7"
-      },
-      "artists": [
-        {
-          "name": "Dolly Babe",
-          "url": "https://open.spotify.com/artist/647qQOSIMSyoEoUEnN5LsM"
-        }
-      ],
-      "duration_ms": 141799,
-      "name": "Hittin",
-      "url": "https://open.spotify.com/track/6feMUnNusY2hSP1bPYOtbQ"
-    },
-    {
-      "added_at": "2026-11-20 05:01:32",
+      "added_at": "2026-11-27 05:01:38",
       "album": {
         "name": "ErrTime (feat. Latto) [Remix]",
         "url": "https://open.spotify.com/album/2i2SkQ9IRn6q9E8RjhpOH3"
@@ -597,7 +581,47 @@
       "url": "https://open.spotify.com/track/5CanskmqatfFbm9O9Epavt"
     },
     {
-      "added_at": "2026-11-20 05:01:32",
+      "added_at": "2026-11-27 05:01:38",
+      "album": {
+        "name": "NWM",
+        "url": "https://open.spotify.com/album/2UlvJKa3ErOUugM6NNEjEs"
+      },
+      "artists": [
+        {
+          "name": "Kash Doll",
+          "url": "https://open.spotify.com/artist/3u579Gdap91lMptBSdXTpf"
+        },
+        {
+          "name": "Alex Vaughn",
+          "url": "https://open.spotify.com/artist/24S5IyzXICyGscL4vYshdq"
+        }
+      ],
+      "duration_ms": 192000,
+      "name": "NWM",
+      "url": "https://open.spotify.com/track/3xcGQuK0hKDB8a3eW2Wb5R"
+    },
+    {
+      "added_at": "2026-11-27 05:01:38",
+      "album": {
+        "name": "WOAH",
+        "url": "https://open.spotify.com/album/4yGHrisO5kZlRKv9E06RdJ"
+      },
+      "artists": [
+        {
+          "name": "Flau'jae",
+          "url": "https://open.spotify.com/artist/5IQcgEvxwvq8kwy4iWCiBC"
+        },
+        {
+          "name": "Monaleo",
+          "url": "https://open.spotify.com/artist/2sflbTtCirog5VxD6jPAfb"
+        }
+      ],
+      "duration_ms": 156734,
+      "name": "WOAH",
+      "url": "https://open.spotify.com/track/2frxx1BJjJZQoIQ3Ri9cwA"
+    },
+    {
+      "added_at": "2026-11-27 05:01:38",
       "album": {
         "name": "Throw Aways",
         "url": "https://open.spotify.com/album/6eBzOnSReb75Fg0sXMhXJG"
@@ -613,7 +637,7 @@
       "url": "https://open.spotify.com/track/76nPNtQqzXWeKUZuOLdtWJ"
     },
     {
-      "added_at": "2026-11-20 05:01:32",
+      "added_at": "2026-11-27 05:01:38",
       "album": {
         "name": "WHIM WHAMIEE",
         "url": "https://open.spotify.com/album/0cU7tn9mTCW4cDQWsxrbWO"
@@ -633,7 +657,7 @@
       "url": "https://open.spotify.com/track/4eULTkHVLAhn5J5DOSNbdP"
     },
     {
-      "added_at": "2026-11-20 05:01:32",
+      "added_at": "2026-11-27 05:01:38",
       "album": {
         "name": "GOMF (feat. GloRilla)",
         "url": "https://open.spotify.com/album/7woXVG8V3g8TQjDd8WV5JO"
@@ -653,7 +677,7 @@
       "url": "https://open.spotify.com/track/7DbtXoclIdBSaeMWxcTSSY"
     },
     {
-      "added_at": "2026-11-20 05:01:32",
+      "added_at": "2026-11-27 05:01:38",
       "album": {
         "name": "Coconut Water",
         "url": "https://open.spotify.com/album/50rJrnieqMH6EScNI6BgXB"
@@ -669,7 +693,7 @@
       "url": "https://open.spotify.com/track/0mgnFP2bLDhkG4NvlIDW41"
     },
     {
-      "added_at": "2026-11-20 05:01:32",
+      "added_at": "2026-11-27 05:01:38",
       "album": {
         "name": "LOVER GIRL",
         "url": "https://open.spotify.com/album/5919KmtJqUR1VqkXJEH2US"
@@ -685,7 +709,23 @@
       "url": "https://open.spotify.com/track/3t6kNqWEd1CPE2nPz6wcQg"
     },
     {
-      "added_at": "2026-11-20 05:01:32",
+      "added_at": "2026-11-27 05:01:38",
+      "album": {
+        "name": "Hittin",
+        "url": "https://open.spotify.com/album/6fTMoY8zwETgz56dG8kwk7"
+      },
+      "artists": [
+        {
+          "name": "Dolly Babe",
+          "url": "https://open.spotify.com/artist/647qQOSIMSyoEoUEnN5LsM"
+        }
+      ],
+      "duration_ms": 141799,
+      "name": "Hittin",
+      "url": "https://open.spotify.com/track/6feMUnNusY2hSP1bPYOtbQ"
+    },
+    {
+      "added_at": "2026-11-27 05:01:38",
       "album": {
         "name": "AM I THE DRAMA?",
         "url": "https://open.spotify.com/album/1LsNb6mVitbLZCxnRsbCDJ"
@@ -701,7 +741,7 @@
       "url": "https://open.spotify.com/track/5MnPcgXz4RXqx09nIqvHKX"
     },
     {
-      "added_at": "2026-11-20 05:01:32",
+      "added_at": "2026-11-27 05:01:38",
       "album": {
         "name": "MOTION PACK",
         "url": "https://open.spotify.com/album/1YvvObdtDdAha2JiKuMIc8"
@@ -721,7 +761,7 @@
       "url": "https://open.spotify.com/track/3f72wceJz35zVhehff2reA"
     },
     {
-      "added_at": "2026-11-20 05:01:32",
+      "added_at": "2026-11-27 05:01:38",
       "album": {
         "name": "LUCY",
         "url": "https://open.spotify.com/album/0EnjeA3ZeMivEGuACIgrQi"
@@ -737,23 +777,7 @@
       "url": "https://open.spotify.com/track/0sH7M5s2bEWFRe7v7VRemW"
     },
     {
-      "added_at": "2026-11-20 05:01:32",
-      "album": {
-        "name": "A Girl Is A Gun",
-        "url": "https://open.spotify.com/album/7BfoT6cWpsK6Qs4udIVuUB"
-      },
-      "artists": [
-        {
-          "name": "Molly Santana",
-          "url": "https://open.spotify.com/artist/1zEHBw7xQf0drXZagRkciU"
-        }
-      ],
-      "duration_ms": 160586,
-      "name": "A Girl Is A Gun",
-      "url": "https://open.spotify.com/track/5k6dxhOevSarbZb6KCgTVT"
-    },
-    {
-      "added_at": "2026-11-20 05:01:32",
+      "added_at": "2026-11-27 05:01:38",
       "album": {
         "name": "Putting Ya Dine",
         "url": "https://open.spotify.com/album/1EfvRoD67Fh0xHvMfeFrGo"
@@ -769,7 +793,7 @@
       "url": "https://open.spotify.com/track/3C9H7htrTDVHrP8BiB2f2r"
     },
     {
-      "added_at": "2026-11-20 05:01:32",
+      "added_at": "2026-11-27 05:01:38",
       "album": {
         "name": "Typa",
         "url": "https://open.spotify.com/album/296t8NLKxtLZ8jBOa0eGSY"
@@ -785,7 +809,7 @@
       "url": "https://open.spotify.com/track/08L2vgqPpiLt7PpwMHbbk1"
     },
     {
-      "added_at": "2026-11-20 05:01:32",
+      "added_at": "2026-11-27 05:01:38",
       "album": {
         "name": "MEGAN: ACT II",
         "url": "https://open.spotify.com/album/1HOMjYmPvDpCNbb44JnFaa"
@@ -805,7 +829,7 @@
       "url": "https://open.spotify.com/track/3un3wRHzA77vlkWIXTWxNW"
     },
     {
-      "added_at": "2026-11-20 05:01:32",
+      "added_at": "2026-11-27 05:01:38",
       "album": {
         "name": "NOT DA 2",
         "url": "https://open.spotify.com/album/3Ntu1axGIlTbDhtAWFIeYi"
@@ -825,7 +849,7 @@
       "url": "https://open.spotify.com/track/7y306i1Fyfzapyo0CbeMRp"
     },
     {
-      "added_at": "2026-11-20 05:01:32",
+      "added_at": "2026-11-27 05:01:38",
       "album": {
         "name": "Baddie Baddie",
         "url": "https://open.spotify.com/album/4oRJgw3nyDQ3hnx7cXlbQr"
@@ -841,7 +865,7 @@
       "url": "https://open.spotify.com/track/5iiY9BOYRkydswD29G0SAh"
     },
     {
-      "added_at": "2026-11-20 05:01:32",
+      "added_at": "2026-11-27 05:01:38",
       "album": {
         "name": "First",
         "url": "https://open.spotify.com/album/2kZwByLNOpxPu22QKwVoNZ"
@@ -857,7 +881,7 @@
       "url": "https://open.spotify.com/track/0sMqGaH6o0HGQbT0Ttxcji"
     },
     {
-      "added_at": "2026-11-20 05:01:32",
+      "added_at": "2026-11-27 05:01:38",
       "album": {
         "name": "Bunna Summa (Ice Cream Summer Deluxe)",
         "url": "https://open.spotify.com/album/1PA3RT08KBO1fVcaxtlJPM"
@@ -873,7 +897,7 @@
       "url": "https://open.spotify.com/track/1cNFwJ8hvTCz4k2BJCDyBW"
     },
     {
-      "added_at": "2026-11-20 05:01:32",
+      "added_at": "2026-11-27 05:01:38",
       "album": {
         "name": "Ran Out",
         "url": "https://open.spotify.com/album/0ZGvj7akN44GAG6ZBigTIq"

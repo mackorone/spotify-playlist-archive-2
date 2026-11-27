@@ -4,7 +4,7 @@
 
 > Muito romance, groove suave e R&B feitos no Brasil.
 
-201 songs - 11 hr 18 min
+202 songs - 11 hr 21 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -54,7 +54,7 @@
 | [Debochada](https://open.spotify.com/track/4tBMQ34V6afrpBGddtx42P) | [Leo Guima](https://open.spotify.com/artist/4i6YMhe65eKTuSFRKq0X1d), [Os Garotin](https://open.spotify.com/artist/6aMpeys8CsM9RuRR74RNMP) | [Só Vem](https://open.spotify.com/album/0ZN6uJremDuf27alIbotKn) | 3:08 | 2023-11-03 | 2024-03-09 |
 | [Deixa](https://open.spotify.com/track/59ZjIItfGwA39IWTxibw33) | [Nathi](https://open.spotify.com/artist/1LeAwT4Eu1E6ySD3htFnh9) | [Deixa](https://open.spotify.com/album/7zS1vdR4gWETQig8uVCBlI) | 3:24 | 2024-05-24 | 2025-11-25 |
 | [Deixa Estar \(Sha la la\)](https://open.spotify.com/track/1EHIcTGfRgNegmhJYbdEEX) | [Os Fugitivos](https://open.spotify.com/artist/0JCwkTQqtgVQXBRxwEloEg) | [Deixa Estar \(Sha la la\)](https://open.spotify.com/album/3ZhTlCzRUXYaLyWLavKKqQ) | 5:25 | 2025-02-14 | 2026-01-20 |
-| [deixa eu te encontrar](https://open.spotify.com/track/2J1ex8oYw0T0qY18S820yV) | [Os Garotin](https://open.spotify.com/artist/6aMpeys8CsM9RuRR74RNMP), [MALIA](https://open.spotify.com/artist/5o6oaYrumOkkzsOmwZXJv6) | [FORÇA DA JUVENTUDE](https://open.spotify.com/album/1rjWs2gqsxkKVP9LIs2Luo) | 3:26 | 2026-05-22 |  |
+| [deixa eu te encontrar](https://open.spotify.com/track/2J1ex8oYw0T0qY18S820yV) | [Os Garotin](https://open.spotify.com/artist/6aMpeys8CsM9RuRR74RNMP), [MALIA](https://open.spotify.com/artist/5o6oaYrumOkkzsOmwZXJv6) | [FORÇA DA JUVENTUDE](https://open.spotify.com/album/1rjWs2gqsxkKVP9LIs2Luo) | 3:26 | 2026-05-22 | 2026-11-27 |
 | [Desalinho](https://open.spotify.com/track/63gdjaFptxqaqCIwSI3xV9) | [Juyè](https://open.spotify.com/artist/064WxKBb5PxUQpy6NGr3Jq), [DAY LIMNS](https://open.spotify.com/artist/1x1qM3ZqHhJOn11m42svnc) | [Desalinho](https://open.spotify.com/album/06bc6mkcNAZxT1XxzHjrWR) | 3:25 | 2025-08-01 |  |
 | [DESLIGA O TELEFONE](https://open.spotify.com/track/3rDOCyEn7PKiq2gykUphR9) | [N9NE](https://open.spotify.com/artist/15alwx15s1tZ2Gl9zF6Abv) | [DEJAVU PRIMAVERA](https://open.spotify.com/album/7wqRDsVsoKn8UNtr1nClFs) | 2:51 | 2023-12-08 | 2024-09-13 |
 | [Despacha](https://open.spotify.com/track/5m4Ok5eGb7Igrw6d6G4fqr) | [Melly](https://open.spotify.com/artist/7a7n9ka0Mnevq19mOU8tcW) | [Despacha](https://open.spotify.com/album/1dci5uXicRuc34idbXrxdi) | 2:58 | 2025-08-22 | 2026-05-08 |
@@ -130,6 +130,7 @@
 | [Nunca Te Deixei](https://open.spotify.com/track/6p1NbvGtfNKgsRsVU9eLDG) | [Jessé Alcantara](https://open.spotify.com/artist/5T7DnnHhIPE3aaftSLRJ0X), [Sulset Music](https://open.spotify.com/artist/4QjHpxVGeol4deNW46UScs) | [Nunca Te Deixei](https://open.spotify.com/album/0pF4py857zGGCEty1CeelF) | 3:46 | 2023-09-15 | 2023-11-11 |
 | [Não para Não](https://open.spotify.com/track/1NRL7Gz31YsIufsa3zhYed) | [Aydan](https://open.spotify.com/artist/6fKyodrAgP9ewRR1mGgSmU) | [Não para Não](https://open.spotify.com/album/5YsDkffdcFwbbmWZqW1kwS) | 2:34 | 2024-11-08 | 2025-08-02 |
 | [Nêga](https://open.spotify.com/track/37AIEnveDvWcRdjyqeYam1) | [Melly](https://open.spotify.com/artist/7a7n9ka0Mnevq19mOU8tcW) | [Nêga](https://open.spotify.com/album/0ILkyF8v2r8RHS8e2ZAFQ7) | 3:00 | 2023-09-15 | 2024-04-06 |
+| [o segredo é mil](https://open.spotify.com/track/4LNuDOJFsNzq7FoG87c1eU) | [Jun Alcan](https://open.spotify.com/artist/7CPlbqxyWd17sV44Morx3V) | [o segredo é mil](https://open.spotify.com/album/7rPJ8YyBsJ1F7vqInVqaGf) | 2:45 | 2026-11-27 |  |
 | [OFERENDA](https://open.spotify.com/track/4knACzeO6UUyh8mVMzhAk2) | [Trajano](https://open.spotify.com/artist/3LxEjKaojOdrfAZ4HrdJQy) | [TRANÇA](https://open.spotify.com/album/33o0Id7mFVN77Vn4tKx8EQ) | 4:29 | 2025-05-16 |  |
 | [Onda \- Remix](https://open.spotify.com/track/3ixozEXArgOxWDKiemyRPU) | [Patricia Marx](https://open.spotify.com/artist/43bh4WLBq3yxN3kIucxnHE), [DJ Nato\_PK](https://open.spotify.com/artist/2FLpwpKAbkrZDlyTuOBg3W) | [Onda \(Remix\)](https://open.spotify.com/album/1tUH0tMpxSzRvIXY91dyjs) | 5:46 | 2023-12-15 | 2024-04-06 |
 | [Ondina](https://open.spotify.com/track/2SahXyHV5pmsJD94jzmQ9n) | [Jadidi](https://open.spotify.com/artist/7yPkvzo4E7WYddcfECrK7f) | [Ondina](https://open.spotify.com/album/4Qoxe36lExqIFHvtVkFASK) | 4:04 | 2023-09-15 | 2024-07-27 |

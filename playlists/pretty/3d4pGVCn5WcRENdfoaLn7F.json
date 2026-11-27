@@ -1,12 +1,12 @@
 {
   "description": "These are some independent alternative rock bands you need to hear. Updated weekly.",
-  "num_followers": 940,
+  "num_followers": 948,
   "original_name": "Unsigned Alternative Rock",
   "owner": {
     "name": "Live To Jam",
     "url": "https://open.spotify.com/user/314as7ertwdr2zzyu25oqwcdsha4"
   },
-  "snapshot_id": "AAAEKwxzwYBFkMGd8RUD3jgG9a8glJno",
+  "snapshot_id": "AAAELcJvARsVatQXpgDbNNBAqSoyajR5",
   "tracks": [
     {
       "added_at": "2026-02-16 17:21:01",
@@ -959,6 +959,38 @@
       "duration_ms": 178693,
       "name": "Un Instant",
       "url": "https://open.spotify.com/track/4U4or2vzNiblQa6RX5pdn2"
+    },
+    {
+      "added_at": "2026-11-26 15:12:28",
+      "album": {
+        "name": "Medusa",
+        "url": "https://open.spotify.com/album/3ofnl4UCPVKIPznm20tb3N"
+      },
+      "artists": [
+        {
+          "name": "The Last Pioneers",
+          "url": "https://open.spotify.com/artist/47VNhQMeBaWxOZG6aJHYvM"
+        }
+      ],
+      "duration_ms": 239806,
+      "name": "Medusa",
+      "url": "https://open.spotify.com/track/0cTXQ1A2Xda6TIPGeUQlbM"
+    },
+    {
+      "added_at": "2026-11-26 20:04:07",
+      "album": {
+        "name": "Seasons in Exile",
+        "url": "https://open.spotify.com/album/2JpF6zKefRMIsMZIWEjk0c"
+      },
+      "artists": [
+        {
+          "name": "Unquiet Nights",
+          "url": "https://open.spotify.com/artist/5t9geVnj0iCBhJfdT3R2ot"
+        }
+      ],
+      "duration_ms": 222147,
+      "name": "Just Another Sun Going Down",
+      "url": "https://open.spotify.com/track/0opwEDW1ipm3aGgCawAyye"
     }
   ],
   "unique_name": "Unsigned Alternative Rock",

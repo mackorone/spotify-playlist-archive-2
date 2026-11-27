@@ -1125,6 +1125,32 @@
     },
     {
       "album": {
+        "name": "Indigo Child: The Last Hue",
+        "url": "https://open.spotify.com/album/55QI8hqAKVF9ePVO9j2aa1"
+      },
+      "artists": [
+        {
+          "name": "Lil Rich",
+          "url": "https://open.spotify.com/artist/5CBvG98FGlAMc4Pi9Mc7LV"
+        },
+        {
+          "name": "BIA",
+          "url": "https://open.spotify.com/artist/6veh5zbFpm31XsPdjBgPER"
+        },
+        {
+          "name": "BJRNCK",
+          "url": "https://open.spotify.com/artist/75CB9gAqPzqMGNHxymmxfg"
+        }
+      ],
+      "date_added": "2026-11-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 202666,
+      "name": "down",
+      "url": "https://open.spotify.com/track/3aTT8c0s0mkMHCIZafMQUi"
+    },
+    {
+      "album": {
         "name": "NICE GIRLS FINISH LAST: CUIDADO",
         "url": "https://open.spotify.com/album/76VLDGFn8MiyKRIMV2S4J7"
       },
@@ -1608,7 +1634,7 @@
       ],
       "date_added": "2025-10-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-27",
       "duration_ms": 141760,
       "name": "HARD WAY (feat. Becky G)",
       "url": "https://open.spotify.com/track/6nmFmZXID8zfYp21aI72KE"

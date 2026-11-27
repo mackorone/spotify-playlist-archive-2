@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0CpdwmkC9SB.md) - [plain]
 
 > The biggest festival of the year is back\. The official playlist for Glastonbury 2027.
 
-[Spotify](https://open.spotify.com/user/spotify) - 247,455 likes - 66 songs - 4 hr 10 min
+[Spotify](https://open.spotify.com/user/spotify) - 247,549 likes - 66 songs - 4 hr 10 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -40,16 +40,16 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0CpdwmkC9SB.md) - [plain]
 | 30 | [Kick Stones \(The Boys\)](https://open.spotify.com/track/6l5shPEg84qzJcojS0zMrV) | [Westside Cowboy](https://open.spotify.com/artist/5LfO4rbJarBvHjB34mU9m2) | [It Goes On](https://open.spotify.com/album/3dWKCKeiWtxjDNPTbGCQTO) | 3:56 |
 | 31 | [Islands](https://open.spotify.com/track/0Rqwa6i410IwhTiugt6vXi) | [The xx](https://open.spotify.com/artist/3iOvXCl6edW5Um0fXEBRXy) | [xx](https://open.spotify.com/album/2av2ZSHlvD7rvLSsMvtYCG) | 2:40 |
 | 32 | [Leader of the Pack](https://open.spotify.com/track/1YYK8zYkBKxVaANQ7CkgYu) | [Wunderhorse](https://open.spotify.com/artist/41pd7r1XBRsvdxY3vHEgib) | [Cub](https://open.spotify.com/album/1QNeya5YNW3oiuUi7B54y7) | 3:03 |
-| 33 | [Fit but You Know It](https://open.spotify.com/track/312A8WfROSLvZbMDHBUPDp) | [The Streets](https://open.spotify.com/artist/4GvOygVQquMaPm8oAc0vXi) | [A Grand Don't Come for Free](https://open.spotify.com/album/365ETCJBUmEWroc4UGBS1u) | 4:14 |
-| 34 | [Can't Get Over Losing You \(feat\. Portraits Of Tracy\)](https://open.spotify.com/track/32oEEIjEsjx4oB2bMnNYYs) | [The Avalanches](https://open.spotify.com/artist/3C8RpaI3Go0yFF9whvKoED), [Portraits Of Tracy](https://open.spotify.com/artist/34QizBjxVeMcA5HlZpKxxE) | [No Bad Memories](https://open.spotify.com/album/3De7Ues320SIjGCaz5b6fX) | 2:49 |
+| 33 | [Can't Get Over Losing You \(feat\. Portraits Of Tracy\)](https://open.spotify.com/track/32oEEIjEsjx4oB2bMnNYYs) | [The Avalanches](https://open.spotify.com/artist/3C8RpaI3Go0yFF9whvKoED), [Portraits Of Tracy](https://open.spotify.com/artist/34QizBjxVeMcA5HlZpKxxE) | [No Bad Memories](https://open.spotify.com/album/3De7Ues320SIjGCaz5b6fX) | 2:49 |
+| 34 | [Fit but You Know It](https://open.spotify.com/track/312A8WfROSLvZbMDHBUPDp) | [The Streets](https://open.spotify.com/artist/4GvOygVQquMaPm8oAc0vXi) | [A Grand Don't Come for Free](https://open.spotify.com/album/365ETCJBUmEWroc4UGBS1u) | 4:14 |
 | 35 | [If I Let You](https://open.spotify.com/track/2VR0LfCTo1wydVWvhseMSM) | [The Womack Sisters](https://open.spotify.com/artist/6BjLHAiun9TeqC55KB3L6s) | [The Womack Sisters](https://open.spotify.com/album/7DM9ZgCLCWorHqBB1GsjRh) | 3:58 |
 | 36 | [Cirrus](https://open.spotify.com/track/2lJ4d8MCT6ZlDRHKJ1br14) | [Bonobo](https://open.spotify.com/artist/0cmWgDlu9CwTgxPhf403hb) | [The North Borders](https://open.spotify.com/album/7sN6lCgPf1rbZYmA3edMKv) | 5:52 |
 | 37 | [Feel the Pain](https://open.spotify.com/track/6xUMt58RCX98m7g0KcMwAS) | [Dinosaur Jr.](https://open.spotify.com/artist/267VY6GX5LyU5c9M85ECZQ) | [Without a Sound](https://open.spotify.com/album/07m9cMgG70Pznj6M02qvGN) | 4:18 |
 | 38 | [Disgruntled \(feat\. J Hus & IRAH\)](https://open.spotify.com/track/6mUP0h69cQ7vCPhDfuvQ84) | [Chase & Status](https://open.spotify.com/artist/3jNkaOXasoc7RsxdchvEVq), [J Hus](https://open.spotify.com/artist/2a0uxJgbvvIRI4GX8pYfcr), [IRAH](https://open.spotify.com/artist/17fY0VRyqRgmqI3dHlE1UU) | [Generic Everything](https://open.spotify.com/album/2cu3mSocMVwnSnV9Ge69Do) | 3:12 |
 | 39 | [CRUISING TO SELF SOOTHE](https://open.spotify.com/track/4cErKi16sjFZOfd85t9dnt) | [Ecca Vandal](https://open.spotify.com/artist/0NhKCHTPG7Sz62S3zxV1Cf) | [LOOKING FOR PEOPLE TO UNFOLLOW](https://open.spotify.com/album/6S7mwrc4FXlG4MmuBaDGAA) | 2:30 |
 | 40 | [That's Me](https://open.spotify.com/track/1XIDsouIrqlQyNnBvK7cWY) | [Keo](https://open.spotify.com/artist/30FAFv3oKzNR9amC0XfmUA) | [Put A Smile On For Me](https://open.spotify.com/album/6lsuxUBgd9TFAfzS9lBkCH) | 2:11 |
-| 41 | [Roses](https://open.spotify.com/track/3cV0ssCRS5OUR6iRUHf56C) | [CHVRCHES](https://open.spotify.com/artist/3CjlHNtplJyTf9npxaPl5w) | [Roses](https://open.spotify.com/album/658SJZUurCZ0tbKEyhNMYF) | 3:28 |
-| 42 | [Waist 36 Leg 32](https://open.spotify.com/track/3IPLwU2d6nETANRwM5OoLb) | [Jamie T](https://open.spotify.com/artist/3Rsr4Z96O6U3lToOiV3zBh) | [Ghosts \(100 Days of Morning\)](https://open.spotify.com/album/3F9ZnOWuIZZpf3oV1SvRTy) | 3:50 |
+| 41 | [Waist 36 Leg 32](https://open.spotify.com/track/3IPLwU2d6nETANRwM5OoLb) | [Jamie T](https://open.spotify.com/artist/3Rsr4Z96O6U3lToOiV3zBh) | [Ghosts \(100 Days of Morning\)](https://open.spotify.com/album/3F9ZnOWuIZZpf3oV1SvRTy) | 3:50 |
+| 42 | [Roses](https://open.spotify.com/track/3cV0ssCRS5OUR6iRUHf56C) | [CHVRCHES](https://open.spotify.com/artist/3CjlHNtplJyTf9npxaPl5w) | [Roses](https://open.spotify.com/album/658SJZUurCZ0tbKEyhNMYF) | 3:28 |
 | 43 | [Movin' on Up](https://open.spotify.com/track/67ncFJWaIbJdqZl1bpEppz) | [Primal Scream](https://open.spotify.com/artist/3wury2nd8idV4GecUg5xze) | [Screamadelica](https://open.spotify.com/album/5PORx6PL7CdOywSJuGVrnc) | 3:48 |
 | 44 | [FU & UF](https://open.spotify.com/track/6vcMLDXzAHtw4fg2mI6veW) | [Skye Newman](https://open.spotify.com/artist/4UoEzpWZrFWvlGYOzTEn1M) | [FU & UF](https://open.spotify.com/album/6jcsn9AMkfslPTT3BVKQT1) | 2:39 |
 | 45 | [Over And Over](https://open.spotify.com/track/3RCj5fG55qjtmnEML1gpnA) | [Hot Chip](https://open.spotify.com/artist/37uLId6Z5ZXCx19vuruvv5) | [The Warning](https://open.spotify.com/album/25wuY7cXE8zjFnJRiU1ehS) | 5:47 |

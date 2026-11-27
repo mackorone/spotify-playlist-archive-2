@@ -2,9 +2,9 @@
 
 ### [PVNCHLNRS](https://open.spotify.com/playlist/37i9dQZF1DX1X23oiQRTB5)
 
-> SDM & Ninho au top de la première playlist de rap français.
+> Cherry Pie au top de la première playlist de rap français.
 
-505 songs - 1 day 1 hr 13 min
+507 songs - 1 day 1 hr 18 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -282,7 +282,7 @@
 | [LOVE YOU](https://open.spotify.com/track/35eK52MQkpWLxwyIAGKKXT) | [Nono La Grinta](https://open.spotify.com/artist/4P2HohWBtvSxxwabNDdYXN) | [LOVE YOU](https://open.spotify.com/album/3m0dYhTtuAIIwlaTofJlkq) | 2:27 | 2025-10-23 | 2026-10-16 |
 | [LOYAL](https://open.spotify.com/track/5W9JWRvM5nTLCz8Z9aW2NS) | [La Fève](https://open.spotify.com/artist/2sBKOwN0fSjx39VtL2WpjJ) | [LOYAL](https://open.spotify.com/album/5ua3ScbhrRD4fPu8G9YOtf) | 3:48 | 2023-11-30 | 2024-05-24 |
 | [Lululemon](https://open.spotify.com/track/4NUbhcdKi2nfq6RUUgKyWV) | [Leto](https://open.spotify.com/artist/6HCBnyTBSLdb3TFn2ayulY) | [Lululemon](https://open.spotify.com/album/2Apc6tczxlwREDpRKW7q1P) | 2:51 | 2026-09-03 |  |
-| [M.D](https://open.spotify.com/track/3bz3hKFyCsy60V2uURnEYZ) | [La Fouine](https://open.spotify.com/artist/6QS84S3i4gwdEKqWoTtDLd), [La Mano 1.9](https://open.spotify.com/artist/78iJ2FMbYAFY3djO4PbWZi) | [Silence Radio](https://open.spotify.com/album/34QueCrNb3m1GZxzjvnk20) | 2:55 | 2026-10-15 |  |
+| [M.D](https://open.spotify.com/track/3bz3hKFyCsy60V2uURnEYZ) | [La Fouine](https://open.spotify.com/artist/6QS84S3i4gwdEKqWoTtDLd), [La Mano 1.9](https://open.spotify.com/artist/78iJ2FMbYAFY3djO4PbWZi) | [Silence Radio](https://open.spotify.com/album/34QueCrNb3m1GZxzjvnk20) | 2:55 | 2026-10-15 | 2026-11-27 |
 | [Ma Came](https://open.spotify.com/track/3x6n0IkVMIqTl7EE2j3R2g) | [Dertay](https://open.spotify.com/artist/5xSXFYJ9xBDUBxF5VUKDZR) | [Ma Came](https://open.spotify.com/album/2R9xCcqvgr4UCFfN3JvviO) | 2:42 | 2023-01-20 | 2023-06-02 |
 | [Ma Came](https://open.spotify.com/track/6DdKVun3sEVCfyeSV1vTJI) | [Dertay](https://open.spotify.com/artist/5xSXFYJ9xBDUBxF5VUKDZR) | [Ma Came](https://open.spotify.com/album/2rW8ck12ZmGvd7NSO1Fbzm) | 2:42 | 2023-01-19 | 2023-01-21 |
 | [Macronie](https://open.spotify.com/track/5PEFCh1GU2LteiIJzYrvE0) | [Niska](https://open.spotify.com/artist/7CUFPNi1TU8RowpnFRSsZV) | [Macronie](https://open.spotify.com/album/2wdiFkGKgrvWoPxg2uw9jO) | 2:49 | 2026-11-19 |  |
@@ -349,6 +349,7 @@
 | [Nouméa](https://open.spotify.com/track/6bTiBd9SYQxF4MbELTekG7) | [Jok'air](https://open.spotify.com/artist/2kIs76sEGiulKeqetZq6ua), [Linema](https://open.spotify.com/artist/1JLLmatqNVWI9Ta5bIEvbl) | [Nouméa](https://open.spotify.com/album/7lqhAywP57SUAnUBbR803I) | 3:48 | 2026-10-08 |  |
 | [NOUS\#2](https://open.spotify.com/track/6RtlWji8Xzg4beZYSTkDUU) | [K2\_sp](https://open.spotify.com/artist/0lZe1qbPTyYFXebsbkznIh) | [NOUS\#2](https://open.spotify.com/album/1Rj7VCslRWBFZah7Fhhihq) | 2:57 | 2026-01-29 | 2026-06-12 |
 | [Nowhere 2](https://open.spotify.com/track/2zpcE21SuB8FsuwcYZMArD) | [Bouss](https://open.spotify.com/artist/3hWQDRr1PqwvnHeiZlucBq) | [Nowhere 2](https://open.spotify.com/album/3i136AqIrEBCxxlmNletJB) | 2:59 | 2026-02-12 | 2026-11-06 |
+| [OCÉAN DE PROBLÈMES](https://open.spotify.com/track/5dIeUtbhqDLrT61OmVis32) | [Ninho](https://open.spotify.com/artist/6Te49r3A6f5BiIgBRxH7FH) | [M.I.L.S 4 \(Deluxe Edition\)](https://open.spotify.com/album/2dYzdvprtQxTjRERTd4XsD) | 3:22 | 2026-11-26 |  |
 | [OG](https://open.spotify.com/track/3Bu67MTSsLLJNyZ8qg3itI) | [Genezio](https://open.spotify.com/artist/0PcU18DNfkn3pmbjy5yMFz), [Niska](https://open.spotify.com/artist/7CUFPNi1TU8RowpnFRSsZV) | [LES DENTS DU BONHEUR](https://open.spotify.com/album/4jvY8C0lsRWtbxtOEOtU00) | 2:44 | 2025-12-04 | 2026-06-19 |
 | [Olivia Valere](https://open.spotify.com/track/6UThEXDDl7N3CWeFxYTMnm) | [Lagui](https://open.spotify.com/artist/3TP2Ucsow6rW1s24aq9gb4) | [En Croix](https://open.spotify.com/album/2W1UqRYHgB4vEG4dEdtbhv) | 2:46 | 2026-07-30 |  |
 | [ON FAIT LES CHOSES](https://open.spotify.com/track/0geR06bJpVHmOU2wyVnPDl) | [Niaks](https://open.spotify.com/artist/2vVtmqEXliBFxqCa3Juo5W), [PLK](https://open.spotify.com/artist/3DCWeG2J1fZeu0Oe6i5Q6m) | [ON FAIT LES CHOSES](https://open.spotify.com/album/1VozY09WFHQaiaukAI2MTh) | 3:15 | 2025-05-29 | 2025-09-12 |
@@ -480,7 +481,7 @@
 | [Triste mélancolie \(feat\. Josman\)](https://open.spotify.com/track/2Xbeuuuba5orpOWIBlXoKi) | [Lesram](https://open.spotify.com/artist/0UeKDbiaApyP7qKfcmGN03), [Josman](https://open.spotify.com/artist/6dbdXbyAWk2qx8Qttw0knR) | [Du peu que j'ai eu, Du mieux que j'ai pu](https://open.spotify.com/album/3MfrrJMMFJKkn1HCeelBM7) | 3:25 | 2024-02-01 | 2024-07-27 |
 | [Trophée](https://open.spotify.com/track/1n1ufFsnSU3mDuDSHroza8) | [UZI](https://open.spotify.com/artist/5U05AU34EcZ8pfohg2dicI), [Booba](https://open.spotify.com/artist/58wXmynHaAWI5hwlPZP3qL) | [Trophée](https://open.spotify.com/album/4THFrVEcgnvqFf24q1noUQ) | 3:19 | 2022-07-07 | 2022-08-19 |
 | [Tsunami](https://open.spotify.com/track/41BfY3UzxsU5PNj75qPIFA) | [Favé](https://open.spotify.com/artist/20JMfmzDb5cjHxEoMXXMyY), [Timar](https://open.spotify.com/artist/4BUeuxQIWI69tEYuvzbv6D) | [Pleins Phares](https://open.spotify.com/album/76fQoy7EIbHkqQ2VxR86rb) | 3:01 | 2025-11-27 | 2026-04-24 |
-| [Tu dors ?](https://open.spotify.com/track/6JnsxE0leMVkUvTV0n969D) | [PLK](https://open.spotify.com/artist/3DCWeG2J1fZeu0Oe6i5Q6m) | [Grand Garçon](https://open.spotify.com/album/3S0xe0lkUMdi0H6qZcRrIr) | 2:08 | 2026-04-09 |  |
+| [Tu dors ?](https://open.spotify.com/track/6JnsxE0leMVkUvTV0n969D) | [PLK](https://open.spotify.com/artist/3DCWeG2J1fZeu0Oe6i5Q6m) | [Grand Garçon](https://open.spotify.com/album/3S0xe0lkUMdi0H6qZcRrIr) | 2:08 | 2026-04-09 | 2026-11-27 |
 | [Tu Sais](https://open.spotify.com/track/1R1deVa4LzVxzgFIpvS2O3) | [Djadja & Dinaz](https://open.spotify.com/artist/5hREZP0zTQbTLkZ2M8RS4v) | [Tu Sais](https://open.spotify.com/album/6lqW7JxQYN90kAv278RRFv) | 2:38 | 2025-06-26 | 2025-12-12 |
 | [Tu veux quoi](https://open.spotify.com/track/6oUTxLiDzwdZWsQyGFZ03d) | [Landy](https://open.spotify.com/artist/2EFpb61Lpi0l5ldOiqbZkK), [Franglish](https://open.spotify.com/artist/4uJNQGa3L2frXDxwgouTIw) | [Tu veux quoi](https://open.spotify.com/album/6ufgSwPjlOwa6kbInEqkIv) | 3:29 | 2025-07-24 | 2025-09-19 |
 | [Téléphone \- Extrait de CRCLR MVT SAISON II](https://open.spotify.com/track/0FLegMOg3yN9e2zF5p9Vxb) | [Freeze corleone](https://open.spotify.com/artist/76Pl0epAMXVXJspaSuz8im) | [Téléphone \(Extrait de CRCLR MVT SAISON II\)](https://open.spotify.com/album/6RaA2bknaESIlh1iv5FFcP) | 3:08 | 2022-01-06 | 2022-01-21 |
@@ -498,6 +499,7 @@
 | [Vrais salauds \(feat\. Gazo & Kore\)](https://open.spotify.com/track/5AjVGkFWK2Ct0B0hbdcmWJ) | [Lacrim](https://open.spotify.com/artist/7DUTsWY3RBd64vh8UtgtYA), [Gazo](https://open.spotify.com/artist/5gqmbbfjcikQBzPB5Hv13I), [Kore](https://open.spotify.com/artist/78Die3Gb8yaElTmGCa7m7N) | [VENI VIDI VICI](https://open.spotify.com/album/2vS6zdIbU16YO3zeZ50CcN) | 2:29 | 2024-06-20 | 2025-01-10 |
 | [VVS](https://open.spotify.com/track/5S12Ds2RswM2ITC0u1J01f) | [Ninho](https://open.spotify.com/artist/6Te49r3A6f5BiIgBRxH7FH) | [Jefe](https://open.spotify.com/album/0RBanMMBVaRdM7SOwgAmaK) | 3:07 | 2022-01-06 | 2023-01-13 |
 | [Wagyu du Jap'](https://open.spotify.com/track/0f23kGg4dotmFXMxBRnTpF) | [Guy2Bezbar](https://open.spotify.com/artist/07h4CCFmlXkwx0g4PL5Uuh) | [Wagyu du Jap'](https://open.spotify.com/album/71iiMtckKbHxVjTKMTVFvV) | 1:45 | 2025-09-25 | 2025-12-05 |
+| [Wetin Day](https://open.spotify.com/track/29RDlOhGIcBo4Ydpz0NKHQ) | [Zed](https://open.spotify.com/artist/4reog9Hn84AuUWvGX5a2Yq) | [NEPHILIM, pt\. 1](https://open.spotify.com/album/5BInayfWsCRPcpoREh5mcn) | 2:14 | 2026-11-26 |  |
 | [Willy Wonka](https://open.spotify.com/track/2bdn9JRP2J0T48V35BLjCP) | [Bilouki](https://open.spotify.com/artist/1NB6QyaNXhrDd82y0WyG3I) | [Willy Wonka](https://open.spotify.com/album/1pvX4ZwsxdyRzcqtBwBGKf) | 3:03 | 2025-09-18 | 2025-11-28 |
 | [Wouaw](https://open.spotify.com/track/5GrZ9iE4yLu5RE9dzEIpID) | [Jul](https://open.spotify.com/artist/3IW7ScrzXmPvZhB27hmfgy) | [D&P à vie](https://open.spotify.com/album/1REfaUH0Ic7VnohlnySdpF) | 2:46 | 2025-05-15 | 2025-07-18 |
 | [Wow](https://open.spotify.com/track/5OVeMW8NMzEIcup7Gi2kyZ) | [Landy](https://open.spotify.com/artist/2EFpb61Lpi0l5ldOiqbZkK) | [Wow](https://open.spotify.com/album/5liQLBq8NJehtloLa2jxv5) | 3:20 | 2025-03-27 | 2025-06-06 |

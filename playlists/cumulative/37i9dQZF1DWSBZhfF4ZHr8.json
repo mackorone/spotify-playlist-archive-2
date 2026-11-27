@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2024-07-02",
-  "description": "Les meilleures nouveaut\u00e9s de la vari\u00e9t\u00e9 fran\u00e7aise avec Ad\u00e8le Castillon.\n\n",
+  "description": "Les meilleures nouveaut\u00e9s de la vari\u00e9t\u00e9 fran\u00e7aise avec Marine.\n\n",
   "name": "Fresh Vari\u00e9t\u00e9",
   "tracks": [
     {
@@ -38,6 +38,24 @@
       "duration_ms": 194840,
       "name": "100K \u00e0 l'heure",
       "url": "https://open.spotify.com/track/0ZgvkcqpfrjlU3wBQduEwT"
+    },
+    {
+      "album": {
+        "name": "watch out",
+        "url": "https://open.spotify.com/album/1FaGHup8kBPYC47xge7Wim"
+      },
+      "artists": [
+        {
+          "name": "Louane",
+          "url": "https://open.spotify.com/artist/7wjeXCtRND2ZdKfMJFu6JC"
+        }
+      ],
+      "date_added": "2026-11-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 206156,
+      "name": "17",
+      "url": "https://open.spotify.com/track/4zeKwAuCDUdtueuJPAGnCM"
     },
     {
       "album": {
@@ -312,7 +330,7 @@
       ],
       "date_added": "2026-10-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-27",
       "duration_ms": 171210,
       "name": "Algorithme",
       "url": "https://open.spotify.com/track/1LKCXDRHsyh14z8TloNHoT"
@@ -384,7 +402,7 @@
       ],
       "date_added": "2026-09-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-27",
       "duration_ms": 126000,
       "name": "AMOUR OUBLI\u00c9",
       "url": "https://open.spotify.com/track/1qWw2X7hZWmJeUL6LbwEqY"
@@ -3844,7 +3862,7 @@
       ],
       "date_added": "2026-10-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-27",
       "duration_ms": 172616,
       "name": "J'ai pas dit",
       "url": "https://open.spotify.com/track/6jwicegpsLHWMDDD1mTqV2"
@@ -3866,6 +3884,24 @@
       "duration_ms": 177725,
       "name": "J'ai plus peur",
       "url": "https://open.spotify.com/track/1WuZtweA9VoqhFW42vMO9i"
+    },
+    {
+      "album": {
+        "name": "J'aimerais m'aimer",
+        "url": "https://open.spotify.com/album/7dY9mp5GyNIMi6cMSURDjL"
+      },
+      "artists": [
+        {
+          "name": "LECYA",
+          "url": "https://open.spotify.com/artist/08KSZ8jpESjY7kRm1KoAQI"
+        }
+      ],
+      "date_added": "2026-11-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 152658,
+      "name": "J'aimerais m'aimer",
+      "url": "https://open.spotify.com/track/409GDPMOZoLZEZUYg3CU8r"
     },
     {
       "album": {
@@ -3952,7 +3988,7 @@
       ],
       "date_added": "2026-10-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-27",
       "duration_ms": 191741,
       "name": "j'laisse parler",
       "url": "https://open.spotify.com/track/4KQatk8mmIIOEsXRykvOPb"
@@ -4875,6 +4911,24 @@
     },
     {
       "album": {
+        "name": "L'inverse",
+        "url": "https://open.spotify.com/album/4kTvCUtkGhMJ4R4q1VPEri"
+      },
+      "artists": [
+        {
+          "name": "Philippine Lavrey",
+          "url": "https://open.spotify.com/artist/2o7TjwrbU1Q3BpUbUnQ9CY"
+        }
+      ],
+      "date_added": "2026-11-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 195157,
+      "name": "L'inverse",
+      "url": "https://open.spotify.com/track/2JwZXKjFrzpqmf1COwiP2s"
+    },
+    {
+      "album": {
         "name": "la boss",
         "url": "https://open.spotify.com/album/7u74BHRRxw58frd6WU1995"
       },
@@ -5092,6 +5146,24 @@
       "duration_ms": 218709,
       "name": "La fin de l'\u00e9t\u00e9",
       "url": "https://open.spotify.com/track/5kRUEtzHzCPYLJCdLNpkcE"
+    },
+    {
+      "album": {
+        "name": "Bo\u00eete \u00e0 musique (\u00c9dition pr\u00e9cieuse)",
+        "url": "https://open.spotify.com/album/57vRmWJ8bcQHHta826TCA7"
+      },
+      "artists": [
+        {
+          "name": "Linh",
+          "url": "https://open.spotify.com/artist/15h1AB4jpLCdXLZNT7glWj"
+        }
+      ],
+      "date_added": "2026-11-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 204360,
+      "name": "La guitare de mon papa",
+      "url": "https://open.spotify.com/track/0VNfCvXwQKCCl4ZoHmuFkW"
     },
     {
       "album": {
@@ -7256,7 +7328,7 @@
       ],
       "date_added": "2026-10-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-27",
       "duration_ms": 156655,
       "name": "M\u00eame bois",
       "url": "https://open.spotify.com/track/4EHRdbCLmRnW2jTvaoozh5"
@@ -8427,6 +8499,24 @@
     },
     {
       "album": {
+        "name": "Reine des drames",
+        "url": "https://open.spotify.com/album/40kzWrEimWb7fSXenoYHdU"
+      },
+      "artists": [
+        {
+          "name": "Lena\u00efg",
+          "url": "https://open.spotify.com/artist/7LBRgobZF7IvkSKljcuGDb"
+        }
+      ],
+      "date_added": "2026-11-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 161311,
+      "name": "Poup\u00e9e",
+      "url": "https://open.spotify.com/track/0FPpA61u29HXUfFN7eXyrK"
+    },
+    {
+      "album": {
         "name": "Poup\u00e9e (Edit)",
         "url": "https://open.spotify.com/album/3AllFq7d0qGaXKaEfSDhTc"
       },
@@ -9276,7 +9366,7 @@
       ],
       "date_added": "2026-10-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-27",
       "duration_ms": 165985,
       "name": "R\u00e9par\u00e9",
       "url": "https://open.spotify.com/track/726zSugZBNTuOlXQyQbuvd"
@@ -9687,6 +9777,24 @@
     },
     {
       "album": {
+        "name": "Le feu, le brasier, le magma",
+        "url": "https://open.spotify.com/album/2P8cIvGhggwYHHTRCD5lDU"
+      },
+      "artists": [
+        {
+          "name": "Marine",
+          "url": "https://open.spotify.com/artist/5IcaqAG12inAfarGuGqpW1"
+        }
+      ],
+      "date_added": "2026-11-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 153093,
+      "name": "Si j'\u00e9tais Marin",
+      "url": "https://open.spotify.com/track/3Lqweg0AAINYZz3xIHIKST"
+    },
+    {
+      "album": {
         "name": "Si je m'en vais",
         "url": "https://open.spotify.com/album/4jeLyGZaKMioLXS5LjUUYM"
       },
@@ -9948,6 +10056,24 @@
       "duration_ms": 173453,
       "name": "Sortil\u00e8ges",
       "url": "https://open.spotify.com/track/3x4dGL6rGFbgsSyPUX4jx8"
+    },
+    {
+      "album": {
+        "name": "SOUVENIRS MAUVAIS",
+        "url": "https://open.spotify.com/album/6pBsglAto0ACwyPCkjIKvA"
+      },
+      "artists": [
+        {
+          "name": "SARAH SEY",
+          "url": "https://open.spotify.com/artist/3PSGIWWzhs6TnocrDnG2qs"
+        }
+      ],
+      "date_added": "2026-11-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 204000,
+      "name": "SOUVENIRS MAUVAIS",
+      "url": "https://open.spotify.com/track/0I9VMIkGrECyBJEsZRGYnf"
     },
     {
       "album": {
@@ -11172,7 +11298,7 @@
       ],
       "date_added": "2026-10-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-27",
       "duration_ms": 184036,
       "name": "Vers les jours heureux",
       "url": "https://open.spotify.com/track/0e6WDe2sImXEbqA5afJUnY"

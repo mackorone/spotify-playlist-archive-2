@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2023-03-23",
-  "description": "The sweetest bops. Cover: TUIDE",
+  "description": "The sweetest bops. Cover: XG",
   "name": "SUGAR",
   "tracks": [
     {
@@ -301,6 +301,24 @@
     },
     {
       "album": {
+        "name": "Back To Back",
+        "url": "https://open.spotify.com/album/4WwNQD3PYCtdIQeu5yb2Rx"
+      },
+      "artists": [
+        {
+          "name": "Alya",
+          "url": "https://open.spotify.com/artist/6xcJFzdGwkQBTtA59Bkckg"
+        }
+      ],
+      "date_added": "2026-11-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 158703,
+      "name": "Back To Back",
+      "url": "https://open.spotify.com/track/47mM2WXnn8ju70p4LY1lT3"
+    },
+    {
+      "album": {
         "name": "bad taste",
         "url": "https://open.spotify.com/album/4w1gQavyvVaZmHcUuuKxJL"
       },
@@ -330,7 +348,7 @@
       ],
       "date_added": "2026-02-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-27",
       "duration_ms": 178046,
       "name": "BANG BANG",
       "url": "https://open.spotify.com/track/4HEBNeUYxEpjDglZbjYz7o"
@@ -1381,6 +1399,24 @@
     },
     {
       "album": {
+        "name": "DEPENDS",
+        "url": "https://open.spotify.com/album/1ovXAdBxEGkXoYkIEg0IG8"
+      },
+      "artists": [
+        {
+          "name": "XG",
+          "url": "https://open.spotify.com/artist/0LOK81e9H5lr61HlGGHqwA"
+        }
+      ],
+      "date_added": "2026-11-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 185229,
+      "name": "DEPENDS",
+      "url": "https://open.spotify.com/track/23rcMbTChRPIwtCycyb3E4"
+    },
+    {
+      "album": {
         "name": "Diamond",
         "url": "https://open.spotify.com/album/5MM3zQXvFmpTBDe45rVida"
       },
@@ -2017,6 +2053,24 @@
     },
     {
       "album": {
+        "name": "Get \u2018Em Girls",
+        "url": "https://open.spotify.com/album/2Gtzo1b2Hsv9kkh5r4CT6P"
+      },
+      "artists": [
+        {
+          "name": "KARLEE GIRL",
+          "url": "https://open.spotify.com/artist/2fF1XYfUG2IbdEQZ4H0lHX"
+        }
+      ],
+      "date_added": "2026-11-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 199270,
+      "name": "Get \u2018Em Girls",
+      "url": "https://open.spotify.com/track/0PLJ8yOxocpIiRlo20Bp0f"
+    },
+    {
+      "album": {
         "name": "Girls Like Me",
         "url": "https://open.spotify.com/album/2EFtBwld7jEWsmROuWzYmi"
       },
@@ -2072,6 +2126,24 @@
       "duration_ms": 178253,
       "name": "Girls of the Year",
       "url": "https://open.spotify.com/track/03grA043a1uECo5Kyw28a0"
+    },
+    {
+      "album": {
+        "name": "Looks Can Kill",
+        "url": "https://open.spotify.com/album/29iylYBoI7taTmNyvfYygd"
+      },
+      "artists": [
+        {
+          "name": "IVE",
+          "url": "https://open.spotify.com/artist/6RHTUrRF63xao58xh9FXYJ"
+        }
+      ],
+      "date_added": "2026-11-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 181675,
+      "name": "Glow Motion",
+      "url": "https://open.spotify.com/track/2v8iMk1wIJoVnQ0eQTNGXg"
     },
     {
       "album": {
@@ -2966,10 +3038,32 @@
       ],
       "date_added": "2026-07-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-27",
       "duration_ms": 166000,
       "name": "KISS N TELL",
       "url": "https://open.spotify.com/track/3Fse9qXqMNey4TL5mLy8IF"
+    },
+    {
+      "album": {
+        "name": "KISS N TELL (\u2606Taku Takahashi Remix)",
+        "url": "https://open.spotify.com/album/7fCaNxPQDrIPzt7sfXPMZH"
+      },
+      "artists": [
+        {
+          "name": "aespa",
+          "url": "https://open.spotify.com/artist/6YVMFz59CuY7ngCxTxjpxE"
+        },
+        {
+          "name": "\u2606Taku Takahashi",
+          "url": "https://open.spotify.com/artist/13FGWDOwAoQyIBuZLtCjN9"
+        }
+      ],
+      "date_added": "2026-11-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 213000,
+      "name": "KISS N TELL - \u2606Taku Takahashi Remix",
+      "url": "https://open.spotify.com/track/17P54bku3tExjCV1eV9wDa"
     },
     {
       "album": {
@@ -3024,6 +3118,24 @@
       "duration_ms": 165773,
       "name": "KNOW ABOUT ME",
       "url": "https://open.spotify.com/track/5yfhzEct1ulyU6g5oVRraj"
+    },
+    {
+      "album": {
+        "name": "Leave With Me (Featured in Always Lalisa)",
+        "url": "https://open.spotify.com/album/4HlM53Ct0IOnrRdWLAGmAn"
+      },
+      "artists": [
+        {
+          "name": "LISA",
+          "url": "https://open.spotify.com/artist/5L1lO4eRHmJ7a0Q6csE5cT"
+        }
+      ],
+      "date_added": "2026-11-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 184788,
+      "name": "Leave With Me",
+      "url": "https://open.spotify.com/track/6SDT6lj8sVzFK0o8UI2Y2G"
     },
     {
       "album": {
@@ -4005,6 +4117,24 @@
     },
     {
       "album": {
+        "name": "BREAK EVEN",
+        "url": "https://open.spotify.com/album/4xYpXVSKqRTsL3ucRd8EMM"
+      },
+      "artists": [
+        {
+          "name": "ILLIT",
+          "url": "https://open.spotify.com/artist/36cgvBn0aadzOijnjjwqMN"
+        }
+      ],
+      "date_added": "2026-11-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 143875,
+      "name": "Pop",
+      "url": "https://open.spotify.com/track/1mre3HoVD50XwY02NvxKZZ"
+    },
+    {
+      "album": {
         "name": "POP",
         "url": "https://open.spotify.com/album/3DeFHwLhCLfhhg6GwDhMjX"
       },
@@ -4463,6 +4593,24 @@
     },
     {
       "album": {
+        "name": "ATTITUDE ERA!",
+        "url": "https://open.spotify.com/album/0EvdpMkKgFSH9oz9SHIni5"
+      },
+      "artists": [
+        {
+          "name": "Natanya",
+          "url": "https://open.spotify.com/artist/4QlEFh3gBGqmboPVc7AwUp"
+        }
+      ],
+      "date_added": "2026-11-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 198142,
+      "name": "SHOW ME RIGHT!",
+      "url": "https://open.spotify.com/track/4Dsr8SRfTTrhNoAeNu8nBE"
+    },
+    {
+      "album": {
         "name": "Smart (Remixes)",
         "url": "https://open.spotify.com/album/4IqfdL14SOkeFN2c5ASmGh"
       },
@@ -4514,7 +4662,7 @@
       ],
       "date_added": "2025-08-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-27",
       "duration_ms": 147566,
       "name": "Soap (feat. PinkPantheress)",
       "url": "https://open.spotify.com/track/02gYTLDCIGVM9Y9r4vDb2a"

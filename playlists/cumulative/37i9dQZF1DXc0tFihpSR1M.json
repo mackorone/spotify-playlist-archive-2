@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2024-07-02",
-  "description": "Det beste av ny pop akkurat n\u00e5! \ud83c\udf6d\nCover: Zara Larsson",
+  "description": "Det beste av ny pop akkurat n\u00e5! \ud83c\udf6d\nCover: Bella Kay",
   "name": "Ny Pop",
   "tracks": [
     {
@@ -3526,7 +3526,7 @@
       ],
       "date_added": "2026-11-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-27",
       "duration_ms": 173952,
       "name": "Fast Emotion (from GTAVI: The Album)",
       "url": "https://open.spotify.com/track/5ywRLhRi5JhoOoRurIyk5f"
@@ -7094,7 +7094,7 @@
       ],
       "date_added": "2026-11-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-27",
       "duration_ms": 203021,
       "name": "Killing The Mood",
       "url": "https://open.spotify.com/track/23aN2ayUPGtpoox5n3eeyG"
@@ -7451,6 +7451,24 @@
     },
     {
       "album": {
+        "name": "Like a Dog",
+        "url": "https://open.spotify.com/album/3nclAHvS4wQIIwNbiFT4Hi"
+      },
+      "artists": [
+        {
+          "name": "Bella Kay",
+          "url": "https://open.spotify.com/artist/4Z8MrrKMBHMPa8d04Ivur8"
+        }
+      ],
+      "date_added": "2026-11-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 162681,
+      "name": "Like a Dog",
+      "url": "https://open.spotify.com/track/4uedQsQUuamDPlCRAct8jZ"
+    },
+    {
+      "album": {
         "name": "Lithonia",
         "url": "https://open.spotify.com/album/1hfI7lik7Q3ENibeUxfsf3"
       },
@@ -7538,7 +7556,7 @@
       ],
       "date_added": "2026-11-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-27",
       "duration_ms": 185693,
       "name": "Lol of my life",
       "url": "https://open.spotify.com/track/0CT9gIIXcgJrB0nm2foMjR"
@@ -10538,6 +10556,24 @@
       "duration_ms": 198394,
       "name": "Sacrifice",
       "url": "https://open.spotify.com/track/1vR0FAmbln2Qjpyg0TvG2J"
+    },
+    {
+      "album": {
+        "name": "Sadie",
+        "url": "https://open.spotify.com/album/4xHGCV0zWDZQFLuIIpB3qI"
+      },
+      "artists": [
+        {
+          "name": "Anna Lille",
+          "url": "https://open.spotify.com/artist/4nwpfzpdL72UcfB0O3y6Gk"
+        }
+      ],
+      "date_added": "2026-11-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 258322,
+      "name": "Sadie",
+      "url": "https://open.spotify.com/track/129LuxW7FfJUnqUDlupMWJ"
     },
     {
       "album": {
@@ -13950,6 +13986,24 @@
       "duration_ms": 144101,
       "name": "White Keys",
       "url": "https://open.spotify.com/track/0bSv2vtkHtIUFD3DF06X8D"
+    },
+    {
+      "album": {
+        "name": "White Rabbit",
+        "url": "https://open.spotify.com/album/1HuPG5Cibq8YCUoDVOSuOh"
+      },
+      "artists": [
+        {
+          "name": "Marlen Tj\u00f8svoll",
+          "url": "https://open.spotify.com/artist/0lR9dVN1J2I13Pt02fTm5c"
+        }
+      ],
+      "date_added": "2026-11-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 209882,
+      "name": "White Rabbit",
+      "url": "https://open.spotify.com/track/42IYvOIvdcBwfTNylywS6Y"
     },
     {
       "album": {

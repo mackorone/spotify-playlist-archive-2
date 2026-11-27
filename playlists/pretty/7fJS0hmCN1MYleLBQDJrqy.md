@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/7fJS0hmCN1MYleLBQDJrqy.md) - [plain]
 
 > De beste Studenten Hits 2026 op één plek! 🍻 Dé ultieme playlist voor je huisfeest of de kroeg\. Vol met de beste Nederpop, kroegenhits, meezingers en de hardste tracks van Bankzitters, Antoon, Turfy Gang en Roxy Dekker\. 🎤🔥 Cover: Roxy Dekker
 
-[Topsify Benelux](https://open.spotify.com/user/playlistme.nl) - 51,512 likes - 196 songs - 8 hr 52 min
+[Topsify Benelux](https://open.spotify.com/user/playlistme.nl) - 51,509 likes - 196 songs - 8 hr 52 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -150,7 +150,7 @@ pretty - [cumulative](/playlists/cumulative/7fJS0hmCN1MYleLBQDJrqy.md) - [plain]
 | 140 | [Sprakeloos](https://open.spotify.com/track/1Y2KLMM1V2TeHcmOiiUXak) | [Jaap Reesema](https://open.spotify.com/artist/5WxnXxSCyhDSyi6elhBZd4) | [Sprakeloos](https://open.spotify.com/album/1wSyoTzqvfj8Rx9D1L6x7Z) | 2:25 |
 | 141 | [Tranen Van Goud](https://open.spotify.com/track/0Ekq35nZ7eaVURu300F09s) | [Aaron Blommaert](https://open.spotify.com/artist/67Hs92fNnRAgFBfL6EePwb), [Zoë Livay](https://open.spotify.com/artist/2avtvk1ZeiEf3wZ8dE8JfE) | [Tranen Van Goud](https://open.spotify.com/album/2gJFnppCudFvs1OQprImqB) | 2:21 |
 | 142 | [Ik Droom Alvast Van Jou](https://open.spotify.com/track/10fXUjOffC01ye6N151DGj) | [BENR](https://open.spotify.com/artist/3lC07j0oFDXJflpeAjo9eZ) | [Ik Droom Alvast Van Jou](https://open.spotify.com/album/2kHjvxjrHroXi2jlBm4iFh) | 2:36 |
-| 143 | [CD van mij](https://open.spotify.com/track/764EyTlmlcqOlf1FyBPYif) | [Ronnie Flex](https://open.spotify.com/artist/5eir5zFJpES4j7gsymbVyl), [Acda en de Munnik](https://open.spotify.com/artist/040Fqhc0l7a4MPeDx6cneh) | [CD van mij](https://open.spotify.com/album/5Dx0iogpXPTNFWSyTlCn3a) | 2:50 |
+| 143 | [CD van mij](https://open.spotify.com/track/764EyTlmlcqOlf1FyBPYif) | [Ronnie Flex](https://open.spotify.com/artist/5eir5zFJpES4j7gsymbVyl), [Acda en de Munnik](https://open.spotify.com/artist/040Fqhc0l7a4MPeDx6cneh), [De Vrienden van Amstel LIVE](https://open.spotify.com/artist/2wbvOtxDo1BCeCbZGzIzQf) | [CD van mij](https://open.spotify.com/album/5Dx0iogpXPTNFWSyTlCn3a) | 2:50 |
 | 144 | [Oude Liefde Roest Niet](https://open.spotify.com/track/5TIZfbC0VLJXwLnAa6NApJ) | [Snelle](https://open.spotify.com/artist/3E31HqA00iCX9nRhesw6LD), [Kaya Imani](https://open.spotify.com/artist/1vGqIJlfH4QS0KQzrKU8tw) | [Binnenspiegel](https://open.spotify.com/album/5GvmLsZrOqYqGD2Hz0eGyl) | 3:05 |
 | 145 | [Dezelfde Maan](https://open.spotify.com/track/0ToXQuLX91whBC3AvpXeKu) | [Nieloefaar](https://open.spotify.com/artist/2CDfqNP7YtEAYT4gFz7DZn) | [Dezelfde Maan](https://open.spotify.com/album/06v1vKrUMRZldOXd7DPTmt) | 3:03 |
 | 146 | [Samen Blijven](https://open.spotify.com/track/05frc7EsEIMBrF7uK6CCxT) | [Sigourney K](https://open.spotify.com/artist/0JgazfmeUqlV0HSXvs7kvj) | [Samen Blijven](https://open.spotify.com/album/0n3idTgAnCgj84Szvmjc4o) | 2:38 |

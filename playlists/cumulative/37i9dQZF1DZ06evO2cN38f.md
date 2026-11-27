@@ -4,7 +4,7 @@
 
 > This is Rochelle Jordan\. The essential tracks, all in one playlist.
 
-51 songs - 3 hr 16 min
+52 songs - 3 hr 21 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -15,6 +15,7 @@
 | [Around \- Shanti Celeste Remix](https://open.spotify.com/track/4ZdbTHeya4bV0fAPi36lm0) | [Rochelle Jordan](https://open.spotify.com/artist/3MM3uKNdJbvefUael12dl3), [Shanti Celeste](https://open.spotify.com/artist/3CkM2290WOa2ESzhlu5mzM) | [Around \(Shanti Celeste Remix\)](https://open.spotify.com/album/4dDEMNSFNSbRaxM78VQGOB) | 6:30 | 2026-09-20 | 2026-10-10 |
 | [Back in the Day](https://open.spotify.com/track/2sy9xj6yM79lyJaihqX9PB) | [Rochelle Jordan](https://open.spotify.com/artist/3MM3uKNdJbvefUael12dl3) | [1021](https://open.spotify.com/album/478zqPLfhIqeaB91EEnHLa) | 3:27 | 2026-06-16 |  |
 | [Bite The Bait](https://open.spotify.com/track/6pcXJ39XevPFNqXuUDClsf) | [Rochelle Jordan](https://open.spotify.com/artist/3MM3uKNdJbvefUael12dl3) | [Through The Wall](https://open.spotify.com/album/1vTquD47VNHtfuc5tVLI98) | 4:06 | 2026-06-16 |  |
+| [Close 2 Me \- salute's infinite passion remix](https://open.spotify.com/track/2BSRnmebXig2VIaqjSF2gA) | [Rochelle Jordan](https://open.spotify.com/artist/3MM3uKNdJbvefUael12dl3), [salute](https://open.spotify.com/artist/1np8xozf7ATJZDi9JX8Dx5) | [Close 2 Me \(salute's infinite passion remix\)](https://open.spotify.com/album/25BoMJUJgmojxOO2clvamC) | 4:52 | 2026-11-27 |  |
 | [Count It](https://open.spotify.com/track/0Xam5oGLrRlec9MJDQnZVz) | [Rochelle Jordan](https://open.spotify.com/artist/3MM3uKNdJbvefUael12dl3) | [Play With The Changes](https://open.spotify.com/album/7DF9gG0kP3noP30oOkErQW) | 3:28 | 2026-06-24 |  |
 | [CRANK](https://open.spotify.com/track/3i3q5ICTnKeT1BTbFh5Xaw) | [JIMMY EDGAR](https://open.spotify.com/artist/3qIRQKST5KCIIKWgmPTY2M), [Rochelle Jordan](https://open.spotify.com/artist/3MM3uKNdJbvefUael12dl3) | [CHEETAH BEND](https://open.spotify.com/album/2kVNzMqVeQItTdeebUtWnb) | 4:25 | 2026-08-12 | 2026-08-14 |
 | [Crave](https://open.spotify.com/track/7oYiep2CEMcE5NvkwjAzuP) | [Rochelle Jordan](https://open.spotify.com/artist/3MM3uKNdJbvefUael12dl3) | [Through The Wall](https://open.spotify.com/album/1vTquD47VNHtfuc5tVLI98) | 3:27 | 2026-08-30 | 2026-11-08 |
@@ -47,7 +48,7 @@
 | [Raven \- TYGAPAW Remix feat\. Rochelle Jordan](https://open.spotify.com/track/7fvqv5Ou098lxPlVGrwuAG) | [Kelela](https://open.spotify.com/artist/1U0sIzpRtDkvu1hXXzxh60), [TYGAPAW](https://open.spotify.com/artist/2PyscWeidzp9QnSWc5QMBq), [Rochelle Jordan](https://open.spotify.com/artist/3MM3uKNdJbvefUael12dl3) | [RAVE:N, The Remixes](https://open.spotify.com/album/6UDDsErmUUyEwQ4Oxs8INi) | 4:26 | 2026-06-16 |  |
 | [Show](https://open.spotify.com/track/6datuEqdjvYeS3cMaWCxKM) | [Sango](https://open.spotify.com/artist/7e3FtKBIPLrIVm8g1FJMVg), [Rochelle Jordan](https://open.spotify.com/artist/3MM3uKNdJbvefUael12dl3) | [Show](https://open.spotify.com/album/72asUETHX1ueZx7rC0j6vz) | 2:32 | 2026-07-28 | 2026-08-01 |
 | [Situation](https://open.spotify.com/track/3J1ZRxH4KrF1AISOkLPjtv) | [Rochelle Jordan](https://open.spotify.com/artist/3MM3uKNdJbvefUael12dl3) | [Play With The Changes](https://open.spotify.com/album/7DF9gG0kP3noP30oOkErQW) | 4:13 | 2026-06-16 | 2026-11-20 |
-| [Slow](https://open.spotify.com/track/19F8OeoZrLMg1O2X3KwyE4) | [Cyril Hahn](https://open.spotify.com/artist/4EFMHRFpgrpfp0AVEBp4m2), [Rochelle Jordan](https://open.spotify.com/artist/3MM3uKNdJbvefUael12dl3) | [Voices](https://open.spotify.com/album/06rUXmPBsO3uXbfYGHcmcm) | 3:42 | 2026-06-16 | 2026-11-24 |
+| [Slow](https://open.spotify.com/track/19F8OeoZrLMg1O2X3KwyE4) | [Cyril Hahn](https://open.spotify.com/artist/4EFMHRFpgrpfp0AVEBp4m2), [Rochelle Jordan](https://open.spotify.com/artist/3MM3uKNdJbvefUael12dl3) | [Voices](https://open.spotify.com/album/06rUXmPBsO3uXbfYGHcmcm) | 3:42 | 2026-06-16 |  |
 | [Spit It Out \(feat\. Rochelle Jordan\)](https://open.spotify.com/track/3sc1W8OHwAFoPe6mS7AJUT) | [KAYTRANADA](https://open.spotify.com/artist/6qgnBH6iDM91ipVXv28OMu), [Rochelle Jordan](https://open.spotify.com/artist/3MM3uKNdJbvefUael12dl3) | [TIMELESS](https://open.spotify.com/album/3C3t2bKhwEL3wdKioqWUDh) | 3:39 | 2026-06-16 |  |
 | [Sum](https://open.spotify.com/track/3MIVJlKGcLfYNLso4pp6dn) | [Rochelle Jordan](https://open.spotify.com/artist/3MM3uKNdJbvefUael12dl3) | [Through The Wall](https://open.spotify.com/album/1vTquD47VNHtfuc5tVLI98) | 4:09 | 2026-06-16 |  |
 | [Sumthin Crazy \(with Rochelle Jordan\)](https://open.spotify.com/track/7ebsbZwgXRvssvuleJ3Ucl) | [Snakehips](https://open.spotify.com/artist/2FwJwEswyIUAljqgjNSHgP), [Rochelle Jordan](https://open.spotify.com/artist/3MM3uKNdJbvefUael12dl3) | [never worry](https://open.spotify.com/album/1ZXC6ylnVeo9H0jAu5ri4r) | 3:06 | 2026-06-16 |  |

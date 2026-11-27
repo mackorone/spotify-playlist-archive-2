@@ -6,7 +6,7 @@
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "awOCAAAAAADUrH12IL/7t6P2WWh+6gec",
+  "snapshot_id": "awYlAAAAAABcv1Il3UwtDhivT4wUmza9",
   "tracks": [
     {
       "added_at": null,
@@ -431,34 +431,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Hoje Bem Melhor Que Antes",
-        "url": "https://open.spotify.com/album/066cdWggRtSAqvN9qPC0pL"
-      },
-      "artists": [
-        {
-          "name": "Clara Lima",
-          "url": "https://open.spotify.com/artist/4XdUyu7YX6zgKLi34JYQSG"
-        },
-        {
-          "name": "AR Baby",
-          "url": "https://open.spotify.com/artist/2AT3153fquK7QLZYfOLi9K"
-        },
-        {
-          "name": "Lis Mc",
-          "url": "https://open.spotify.com/artist/5OfwMhn4XgysSIxSxBvTDE"
-        },
-        {
-          "name": "Denielz Beats",
-          "url": "https://open.spotify.com/artist/5qZzjADaukO5c8BNR2FzaV"
-        }
-      ],
-      "duration_ms": 261817,
-      "name": "Rap Sujo",
-      "url": "https://open.spotify.com/track/1MyA9Xq5ZbDDeEf99lXTQH"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Poetisas no Topo 4",
         "url": "https://open.spotify.com/album/3ysU9DYelUV6ML80xGMki9"
       },
@@ -535,6 +507,34 @@
       "duration_ms": 202106,
       "name": "Hip Hop",
       "url": "https://open.spotify.com/track/5NVQrzgIEYZYjC7KAGaqEG"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Hoje Bem Melhor Que Antes",
+        "url": "https://open.spotify.com/album/066cdWggRtSAqvN9qPC0pL"
+      },
+      "artists": [
+        {
+          "name": "Clara Lima",
+          "url": "https://open.spotify.com/artist/4XdUyu7YX6zgKLi34JYQSG"
+        },
+        {
+          "name": "AR Baby",
+          "url": "https://open.spotify.com/artist/2AT3153fquK7QLZYfOLi9K"
+        },
+        {
+          "name": "Lis Mc",
+          "url": "https://open.spotify.com/artist/5OfwMhn4XgysSIxSxBvTDE"
+        },
+        {
+          "name": "Denielz Beats",
+          "url": "https://open.spotify.com/artist/5qZzjADaukO5c8BNR2FzaV"
+        }
+      ],
+      "duration_ms": 261817,
+      "name": "Rap Sujo",
+      "url": "https://open.spotify.com/track/1MyA9Xq5ZbDDeEf99lXTQH"
     },
     {
       "added_at": null,
@@ -699,30 +699,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "Travessia",
-        "url": "https://open.spotify.com/album/6qQjD2vtenrz1gQVUxDXjW"
+        "name": "O Pirata em Tokyo, Vol. 3: \"A Lenda do Drumless Ronin\"",
+        "url": "https://open.spotify.com/album/7lkSTakheDo3Fek10aJRSc"
       },
       "artists": [
         {
-          "name": "Madre Beatz",
-          "url": "https://open.spotify.com/artist/4GU1CeOF51IJbREWohSNBj"
-        },
-        {
-          "name": "Iza Sabino",
-          "url": "https://open.spotify.com/artist/3bgFgu57tkJSn1ONpK9Gs3"
+          "name": "Barba Negra",
+          "url": "https://open.spotify.com/artist/5BPmokvgi18I0XyI0sK0Rq"
         },
         {
           "name": "Clara Lima",
           "url": "https://open.spotify.com/artist/4XdUyu7YX6zgKLi34JYQSG"
-        },
-        {
-          "name": "Stefanie",
-          "url": "https://open.spotify.com/artist/2Pm1qbLKTFFJC5WTQWEtOe"
         }
       ],
-      "duration_ms": 219933,
-      "name": "Esperando Minha Vez",
-      "url": "https://open.spotify.com/track/45YqyEC0kGZxt7SDFba3aE"
+      "duration_ms": 175880,
+      "name": "De Voo em Voo",
+      "url": "https://open.spotify.com/track/5HuFC62HU0vQbwrIN7fjDP"
     },
     {
       "added_at": null,
@@ -747,34 +739,30 @@
     {
       "added_at": null,
       "album": {
-        "name": "Fendi (Remix)",
-        "url": "https://open.spotify.com/album/13fvyjO64cFoKWTgdLenZh"
+        "name": "Travessia",
+        "url": "https://open.spotify.com/album/6qQjD2vtenrz1gQVUxDXjW"
       },
       "artists": [
         {
-          "name": "Matheus Queiroz",
-          "url": "https://open.spotify.com/artist/42M14UjNCtQbaa0L3t2lN7"
+          "name": "Madre Beatz",
+          "url": "https://open.spotify.com/artist/4GU1CeOF51IJbREWohSNBj"
         },
         {
-          "name": "Chris MC",
-          "url": "https://open.spotify.com/artist/0obu7Om4zu9ahul5DI4JtY"
-        },
-        {
-          "name": "Junior Lord",
-          "url": "https://open.spotify.com/artist/6rFkZxhheU9l1nODgZm4SP"
+          "name": "Iza Sabino",
+          "url": "https://open.spotify.com/artist/3bgFgu57tkJSn1ONpK9Gs3"
         },
         {
           "name": "Clara Lima",
           "url": "https://open.spotify.com/artist/4XdUyu7YX6zgKLi34JYQSG"
         },
         {
-          "name": "Go Dassisti",
-          "url": "https://open.spotify.com/artist/6dHnnLJitCxdFTt9QmSQ8G"
+          "name": "Stefanie",
+          "url": "https://open.spotify.com/artist/2Pm1qbLKTFFJC5WTQWEtOe"
         }
       ],
-      "duration_ms": 224292,
-      "name": "Fendi - Remix",
-      "url": "https://open.spotify.com/track/3IfXnDhadUdCMNFLuA9yAS"
+      "duration_ms": 219933,
+      "name": "Esperando Minha Vez",
+      "url": "https://open.spotify.com/track/45YqyEC0kGZxt7SDFba3aE"
     },
     {
       "added_at": null,
@@ -811,26 +799,34 @@
     {
       "added_at": null,
       "album": {
-        "name": "Cris\u00e1lida",
-        "url": "https://open.spotify.com/album/4rUZOCrDhLJGQlnnNRZ8fe"
+        "name": "Fendi (Remix)",
+        "url": "https://open.spotify.com/album/13fvyjO64cFoKWTgdLenZh"
       },
       "artists": [
         {
-          "name": "Amabbi",
-          "url": "https://open.spotify.com/artist/6mMeUqEclPBXPIoffsneGV"
+          "name": "Matheus Queiroz",
+          "url": "https://open.spotify.com/artist/42M14UjNCtQbaa0L3t2lN7"
+        },
+        {
+          "name": "Chris MC",
+          "url": "https://open.spotify.com/artist/0obu7Om4zu9ahul5DI4JtY"
+        },
+        {
+          "name": "Junior Lord",
+          "url": "https://open.spotify.com/artist/6rFkZxhheU9l1nODgZm4SP"
         },
         {
           "name": "Clara Lima",
           "url": "https://open.spotify.com/artist/4XdUyu7YX6zgKLi34JYQSG"
         },
         {
-          "name": "GvsnoBeat",
-          "url": "https://open.spotify.com/artist/3XGaWnMifn6JKRERkyUgTk"
+          "name": "Go Dassisti",
+          "url": "https://open.spotify.com/artist/6dHnnLJitCxdFTt9QmSQ8G"
         }
       ],
-      "duration_ms": 209190,
-      "name": "Pr\u00f3logo",
-      "url": "https://open.spotify.com/track/1RID9maPNRdtSnoeoQcZ6K"
+      "duration_ms": 224292,
+      "name": "Fendi - Remix",
+      "url": "https://open.spotify.com/track/3IfXnDhadUdCMNFLuA9yAS"
     },
     {
       "added_at": null,
@@ -855,22 +851,26 @@
     {
       "added_at": null,
       "album": {
-        "name": "O Pirata em Tokyo, Vol. 3: \"A Lenda do Drumless Ronin\"",
-        "url": "https://open.spotify.com/album/7lkSTakheDo3Fek10aJRSc"
+        "name": "Cris\u00e1lida",
+        "url": "https://open.spotify.com/album/4rUZOCrDhLJGQlnnNRZ8fe"
       },
       "artists": [
         {
-          "name": "Barba Negra",
-          "url": "https://open.spotify.com/artist/5BPmokvgi18I0XyI0sK0Rq"
+          "name": "Amabbi",
+          "url": "https://open.spotify.com/artist/6mMeUqEclPBXPIoffsneGV"
         },
         {
           "name": "Clara Lima",
           "url": "https://open.spotify.com/artist/4XdUyu7YX6zgKLi34JYQSG"
+        },
+        {
+          "name": "GvsnoBeat",
+          "url": "https://open.spotify.com/artist/3XGaWnMifn6JKRERkyUgTk"
         }
       ],
-      "duration_ms": 175880,
-      "name": "De Voo em Voo",
-      "url": "https://open.spotify.com/track/5HuFC62HU0vQbwrIN7fjDP"
+      "duration_ms": 209190,
+      "name": "Pr\u00f3logo",
+      "url": "https://open.spotify.com/track/1RID9maPNRdtSnoeoQcZ6K"
     },
     {
       "added_at": null,
@@ -967,6 +967,34 @@
     {
       "added_at": null,
       "album": {
+        "name": "Lado Sul",
+        "url": "https://open.spotify.com/album/02f3dECJtPG9gSY84a9p0A"
+      },
+      "artists": [
+        {
+          "name": "Mano Fler",
+          "url": "https://open.spotify.com/artist/0bjKeFBcvURoPaJiGd0Kfx"
+        },
+        {
+          "name": "Clara Lima",
+          "url": "https://open.spotify.com/artist/4XdUyu7YX6zgKLi34JYQSG"
+        },
+        {
+          "name": "N\u00d3IZ",
+          "url": "https://open.spotify.com/artist/6IlYtq3ebcUBZW2bckVD2E"
+        },
+        {
+          "name": "Dj Samu AKA Suguiura",
+          "url": "https://open.spotify.com/artist/2ho4L2JrmN8G77BI2Nh5Xs"
+        }
+      ],
+      "duration_ms": 258876,
+      "name": "Lado Sul",
+      "url": "https://open.spotify.com/track/1ZGSviIeYmAVE8YuubNvqu"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Hoje Eu to Bem",
         "url": "https://open.spotify.com/album/3aFPLGP9pOl3jtGdKyOdmY"
       },
@@ -1015,78 +1043,26 @@
     {
       "added_at": null,
       "album": {
-        "name": "Lado Sul",
-        "url": "https://open.spotify.com/album/02f3dECJtPG9gSY84a9p0A"
+        "name": "C\u00c9U NUBLADO",
+        "url": "https://open.spotify.com/album/1YHnXj62FkVvIfQBnZv3Hz"
       },
       "artists": [
         {
-          "name": "Mano Fler",
-          "url": "https://open.spotify.com/artist/0bjKeFBcvURoPaJiGd0Kfx"
+          "name": "BEATDOMK",
+          "url": "https://open.spotify.com/artist/3skj2KZCvizGrCwYD03ApC"
         },
         {
           "name": "Clara Lima",
           "url": "https://open.spotify.com/artist/4XdUyu7YX6zgKLi34JYQSG"
         },
         {
-          "name": "N\u00d3IZ",
-          "url": "https://open.spotify.com/artist/6IlYtq3ebcUBZW2bckVD2E"
-        },
-        {
-          "name": "Dj Samu AKA Suguiura",
-          "url": "https://open.spotify.com/artist/2ho4L2JrmN8G77BI2Nh5Xs"
+          "name": "Victor Xam\u00e3",
+          "url": "https://open.spotify.com/artist/6sLPSvN2Z4R1ndAS068ibP"
         }
       ],
-      "duration_ms": 258876,
-      "name": "Lado Sul",
-      "url": "https://open.spotify.com/track/1ZGSviIeYmAVE8YuubNvqu"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "As Ruas Sabem",
-        "url": "https://open.spotify.com/album/3l5UJy9plzuyP5JtimkmwN"
-      },
-      "artists": [
-        {
-          "name": "Clara Lima",
-          "url": "https://open.spotify.com/artist/4XdUyu7YX6zgKLi34JYQSG"
-        },
-        {
-          "name": "Dalsin",
-          "url": "https://open.spotify.com/artist/6W2jVpE55n1wT0SrpxoeFk"
-        },
-        {
-          "name": "TEAGA",
-          "url": "https://open.spotify.com/artist/0eyVbJ5IrLvHUpFQSkmZnS"
-        }
-      ],
-      "duration_ms": 176528,
-      "name": "PHD",
-      "url": "https://open.spotify.com/track/6mZeGTUEmU6YCDVLL2IfJP"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Hoje Bem Melhor Que Antes",
-        "url": "https://open.spotify.com/album/066cdWggRtSAqvN9qPC0pL"
-      },
-      "artists": [
-        {
-          "name": "Clara Lima",
-          "url": "https://open.spotify.com/artist/4XdUyu7YX6zgKLi34JYQSG"
-        },
-        {
-          "name": "Denielz Beats",
-          "url": "https://open.spotify.com/artist/5qZzjADaukO5c8BNR2FzaV"
-        },
-        {
-          "name": "DJ Zuppa",
-          "url": "https://open.spotify.com/artist/0y1bDIleeRzKvuYu80TQma"
-        }
-      ],
-      "duration_ms": 142701,
-      "name": "Papo Reto, Flow e M\u00e9trica",
-      "url": "https://open.spotify.com/track/7xQYOYQwCvU2GG2pR4L5J5"
+      "duration_ms": 165600,
+      "name": "C\u00c9U NUBLADO",
+      "url": "https://open.spotify.com/track/2dqpWKWs1Uuu7DJgXtNnYr"
     },
     {
       "added_at": null,
@@ -1159,30 +1135,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "C\u00c9U NUBLADO",
-        "url": "https://open.spotify.com/album/1YHnXj62FkVvIfQBnZv3Hz"
-      },
-      "artists": [
-        {
-          "name": "BEATDOMK",
-          "url": "https://open.spotify.com/artist/3skj2KZCvizGrCwYD03ApC"
-        },
-        {
-          "name": "Clara Lima",
-          "url": "https://open.spotify.com/artist/4XdUyu7YX6zgKLi34JYQSG"
-        },
-        {
-          "name": "Victor Xam\u00e3",
-          "url": "https://open.spotify.com/artist/6sLPSvN2Z4R1ndAS068ibP"
-        }
-      ],
-      "duration_ms": 165600,
-      "name": "C\u00c9U NUBLADO",
-      "url": "https://open.spotify.com/track/2dqpWKWs1Uuu7DJgXtNnYr"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "A noite \u00e9 mais escura perto do amanhecer, Vol. 3",
         "url": "https://open.spotify.com/album/495kknYz50aSTsyFn74IIu"
       },
@@ -1216,13 +1168,41 @@
           "url": "https://open.spotify.com/artist/4XdUyu7YX6zgKLi34JYQSG"
         },
         {
-          "name": "Coyote Beatz",
-          "url": "https://open.spotify.com/artist/2PhFsxtwCQLS3e9SJwDN3j"
+          "name": "Dalsin",
+          "url": "https://open.spotify.com/artist/6W2jVpE55n1wT0SrpxoeFk"
+        },
+        {
+          "name": "TEAGA",
+          "url": "https://open.spotify.com/artist/0eyVbJ5IrLvHUpFQSkmZnS"
         }
       ],
-      "duration_ms": 155702,
-      "name": "As Ruas Sabem",
-      "url": "https://open.spotify.com/track/76Xgs4hU5z7cTxknWRnQcP"
+      "duration_ms": 176528,
+      "name": "PHD",
+      "url": "https://open.spotify.com/track/6mZeGTUEmU6YCDVLL2IfJP"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Hoje Bem Melhor Que Antes",
+        "url": "https://open.spotify.com/album/066cdWggRtSAqvN9qPC0pL"
+      },
+      "artists": [
+        {
+          "name": "Clara Lima",
+          "url": "https://open.spotify.com/artist/4XdUyu7YX6zgKLi34JYQSG"
+        },
+        {
+          "name": "Denielz Beats",
+          "url": "https://open.spotify.com/artist/5qZzjADaukO5c8BNR2FzaV"
+        },
+        {
+          "name": "DJ Zuppa",
+          "url": "https://open.spotify.com/artist/0y1bDIleeRzKvuYu80TQma"
+        }
+      ],
+      "duration_ms": 142701,
+      "name": "Papo Reto, Flow e M\u00e9trica",
+      "url": "https://open.spotify.com/track/7xQYOYQwCvU2GG2pR4L5J5"
     },
     {
       "added_at": null,
@@ -1247,30 +1227,6 @@
       "duration_ms": 172486,
       "name": "Tudo Muda",
       "url": "https://open.spotify.com/track/3i9LDg1PoYhwnHW5F4KFGh"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "SOLAR",
-        "url": "https://open.spotify.com/album/4eUgqY4dye3VLv1WPvx1U5"
-      },
-      "artists": [
-        {
-          "name": "Luccas Carlos",
-          "url": "https://open.spotify.com/artist/5WFFFHVqeVk5tLuYh2KjQy"
-        },
-        {
-          "name": "Clara Lima",
-          "url": "https://open.spotify.com/artist/4XdUyu7YX6zgKLi34JYQSG"
-        },
-        {
-          "name": "Paiva Prod",
-          "url": "https://open.spotify.com/artist/1T0F05F7TEo6QYr4vtGJdb"
-        }
-      ],
-      "duration_ms": 170890,
-      "name": "Sem Pressa",
-      "url": "https://open.spotify.com/track/2OXDQSebDxwzT7hdIwvnA2"
     },
     {
       "added_at": null,
@@ -1323,22 +1279,26 @@
     {
       "added_at": null,
       "album": {
-        "name": "SELFIE",
-        "url": "https://open.spotify.com/album/53QAxf8tki7iAQqmVrFfKT"
+        "name": "SOLAR",
+        "url": "https://open.spotify.com/album/4eUgqY4dye3VLv1WPvx1U5"
       },
       "artists": [
+        {
+          "name": "Luccas Carlos",
+          "url": "https://open.spotify.com/artist/5WFFFHVqeVk5tLuYh2KjQy"
+        },
         {
           "name": "Clara Lima",
           "url": "https://open.spotify.com/artist/4XdUyu7YX6zgKLi34JYQSG"
         },
         {
-          "name": "Go Dassisti",
-          "url": "https://open.spotify.com/artist/4i59vgAtwbdzZF4mAV6cbG"
+          "name": "Paiva Prod",
+          "url": "https://open.spotify.com/artist/1T0F05F7TEo6QYr4vtGJdb"
         }
       ],
-      "duration_ms": 164439,
-      "name": "Pensando em N\u00f3s",
-      "url": "https://open.spotify.com/track/7J79yyOY75Kc3GM6sSc02N"
+      "duration_ms": 170890,
+      "name": "Sem Pressa",
+      "url": "https://open.spotify.com/track/2OXDQSebDxwzT7hdIwvnA2"
     },
     {
       "added_at": null,
@@ -1363,6 +1323,50 @@
       "duration_ms": 123990,
       "name": "Tomando De Assalto",
       "url": "https://open.spotify.com/track/4fXLLta8UAXe6d8zHoL3Js"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "No One Will Save You",
+        "url": "https://open.spotify.com/album/0Sd9DZyrdJ2rP0SZOqHrKF"
+      },
+      "artists": [
+        {
+          "name": "Clara Lima",
+          "url": "https://open.spotify.com/artist/4XdUyu7YX6zgKLi34JYQSG"
+        },
+        {
+          "name": "Libra",
+          "url": "https://open.spotify.com/artist/58oCcA2IXrVg5ZEN3Hywpq"
+        },
+        {
+          "name": "Parmi",
+          "url": "https://open.spotify.com/artist/6LTcNC8jITmAKE5qG9Ghsa"
+        }
+      ],
+      "duration_ms": 179347,
+      "name": "No One Will Save You",
+      "url": "https://open.spotify.com/track/05YNZmZxNfyNA2TvaE5H0c"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "As Ruas Sabem",
+        "url": "https://open.spotify.com/album/3l5UJy9plzuyP5JtimkmwN"
+      },
+      "artists": [
+        {
+          "name": "Clara Lima",
+          "url": "https://open.spotify.com/artist/4XdUyu7YX6zgKLi34JYQSG"
+        },
+        {
+          "name": "Coyote Beatz",
+          "url": "https://open.spotify.com/artist/2PhFsxtwCQLS3e9SJwDN3j"
+        }
+      ],
+      "duration_ms": 155702,
+      "name": "As Ruas Sabem",
+      "url": "https://open.spotify.com/track/76Xgs4hU5z7cTxknWRnQcP"
     }
   ],
   "unique_name": "This Is Clara Lima",

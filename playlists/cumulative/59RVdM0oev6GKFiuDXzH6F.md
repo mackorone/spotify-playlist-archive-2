@@ -4,7 +4,7 @@
 
 > Club tracks and dancefloor essentials\. The best floor fillers\. Change your living room to a nightclub with these tracks!
 
-1,240 songs - 2 day 15 hr 48 min
+1,242 songs - 2 day 15 hr 54 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -138,6 +138,7 @@
 | [Body & Soul](https://open.spotify.com/track/1qkemFylpvVolVww5xXzHe) | [Matroda](https://open.spotify.com/artist/45lcbTsX07JWzmTIjcdyBz) | [Body & Soul / Winning Prize](https://open.spotify.com/album/2mLV1f1aV8pkB45AljGOwp) | 2:41 | 2026-02-20 |  |
 | [Body Knows](https://open.spotify.com/track/7pdXiYuGPM7kfPXfSAFXrq) | [Sentient Life](https://open.spotify.com/artist/6QfvBxyw84dkEWXh0RpMIz) | [Under The Surface EP](https://open.spotify.com/album/00AP8LqfRK0dcsT65nEPeU) | 2:32 | 2026-10-16 |  |
 | [Body Moving \- Skream Remix](https://open.spotify.com/track/4Si92Ccti5JgtMIhYVaEEt) | [Eliza Rose](https://open.spotify.com/artist/4XC335ouK6pXyq4QiIb8bP), [Calvin Harris](https://open.spotify.com/artist/7CajNmpbOovFoOoasH2HaY), [Skream](https://open.spotify.com/artist/2jbP92oFLWqPqogflK1wlW) | [Body Moving \(Skream Remix\)](https://open.spotify.com/album/19ra0E2DFURkLtvp5oDGTQ) | 4:49 | 2024-01-12 | 2024-09-26 |
+| [Body On Me](https://open.spotify.com/track/5lhbbkybtv1UzhvYyBLaEB) | [SMACK](https://open.spotify.com/artist/5uJw4WCX5nYj4FHky9r1Ug), [KIYOTO](https://open.spotify.com/artist/5uxop8n7axixBHd562LYrR) | [Body On Me](https://open.spotify.com/album/2JjolGO7kvuBLwRv5uLhqT) | 2:15 | 2026-11-26 |  |
 | [Body To Body](https://open.spotify.com/track/66ApsTpsJru1RynMvTmR4V) | [TELYKAST](https://open.spotify.com/artist/7vWC03wqXwUqjPON8hc1tz) | [Body To Body](https://open.spotify.com/album/6QNieC7Wn7A36nDPkSuhEt) | 2:24 | 2023-02-12 | 2023-04-13 |
 | [Bodyrock](https://open.spotify.com/track/7F3ADDV1t4HgbBE25hTThD) | [TH;EN](https://open.spotify.com/artist/6UbcuFp6HP6InTAbPASxff) | [Bodyrock](https://open.spotify.com/album/18XIDILNhAOLrt04Oz9Sn9) | 3:14 | 2025-11-14 |  |
 | [Bonfire](https://open.spotify.com/track/6ldE1maDt5nGQ41Sh7BviE) | [KSHMR](https://open.spotify.com/artist/2wX6xSig4Rig5kZU6ePlWe) | [Bonfire](https://open.spotify.com/album/2YXfiy1aLXEorGVokUw5hi) | 2:30 | 2026-10-02 |  |
@@ -358,6 +359,7 @@
 | [Freak In The Weekend](https://open.spotify.com/track/6DePSYDCW0ujpW5cUEVqoM) | [BURNR](https://open.spotify.com/artist/7bi8ABpXgK2DpE5nRaWdZ5) | [Freak In The Weekend](https://open.spotify.com/album/5nLLM6BAWl88JPwlGcVMjo) | 2:52 | 2024-02-29 | 2024-10-11 |
 | [Freak Like Me](https://open.spotify.com/track/2kCEz5SnL22qQhJeOjgNQW) | [Luis Torres](https://open.spotify.com/artist/60esHjNSJRdCNHApNP4XzW) | [Freak Like Me](https://open.spotify.com/album/63ihuSuuU6Ih6PWjNoPeZW) | 2:51 | 2023-05-25 | 2023-12-14 |
 | [Freak Out](https://open.spotify.com/track/6q7BYKdazGMHWAAiHKrrq3) | [BRN](https://open.spotify.com/artist/3yujwOo5L5DZDOcGj8K9fj) | [Freak Out](https://open.spotify.com/album/6DGCEXrMI3ZJ4Cy1Hns3NQ) | 2:53 | 2025-01-31 |  |
+| [Freaky](https://open.spotify.com/track/4UsAKoXtZA0T5UkzdhYI1k) | [Bauti Tesei](https://open.spotify.com/artist/17YsLIhtMx8p4QaDAqpPh6) | [Freaky](https://open.spotify.com/album/5mrdfGhSCI5Lj3NRmn8L5V) | 3:09 | 2026-11-26 |  |
 | [Freaky Feed Me](https://open.spotify.com/track/28mfXJIaL1GT5J4EalGxJA) | [Anti Up](https://open.spotify.com/artist/4UwR1ir6PovnQiwX5jRPvF) | [Freaky Feed Me / Outlaws \(feat\. Audio Bullys & Olly Burden\)](https://open.spotify.com/album/0XIJC8hJTQVMZ6Ys6NfziW) | 3:35 | 2024-09-27 | 2025-01-09 |
 | [Free](https://open.spotify.com/track/4UE5YjqaUALV8MVr9pJDfo) | [Wildcard \(US\)](https://open.spotify.com/artist/4kNI2d4AVNwPVcZNwgJFtr) | [Free](https://open.spotify.com/album/4FR5GqDVSOv5GiuwDedjSZ) | 3:30 | 2024-05-24 | 2024-09-26 |
 | [Free \(Mind Go Free\)](https://open.spotify.com/track/5bGDGsjhAMSaQKJmvGJImo) | [Tim Grand](https://open.spotify.com/artist/5s7hwju24qO7raJrUEYsON) | [Under The Surface EP](https://open.spotify.com/album/00AP8LqfRK0dcsT65nEPeU) | 3:10 | 2026-10-16 |  |

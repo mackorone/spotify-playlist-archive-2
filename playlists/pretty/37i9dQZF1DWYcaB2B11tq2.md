@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYcaB2B11tq2.md) - [plain]
 
 > Alaba al Seńor con estas canciones clásicas! Foto: Marcela Gandara
 
-[Spotify](https://open.spotify.com/user/spotify) - 527,337 likes - 100 songs - 9 hr 8 min
+[Spotify](https://open.spotify.com/user/spotify) - 527,403 likes - 100 songs - 9 hr 7 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -103,10 +103,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYcaB2B11tq2.md) - [plain]
 | 93 | [ESTAR BIEN](https://open.spotify.com/track/4cuHB56Vlh6dHycYLSzowC) | [ZOE Worship](https://open.spotify.com/artist/2ZfB6mbNS4AQTid9M6GDjK) | [ESTAR BIEN](https://open.spotify.com/album/0xaShTX3JNAeEGq1PaapGT) | 3:27 |
 | 94 | [Sin Ti](https://open.spotify.com/track/08PHbleBCzVQqiHeLi3631) | [Alex Zurdo](https://open.spotify.com/artist/0WI8OfWCRvK4nGHmKfFQmd) | [Sin Ti](https://open.spotify.com/album/74TJfLPvOdH3Pn04Vt7jjH) | 4:24 |
 | 95 | [Más Allá De Tu Ventana](https://open.spotify.com/track/2XZ1LwR4j9qlQxavgUGEyu) | [Hillsong Young & Free](https://open.spotify.com/artist/7m4gF38CPATtHrk5HS42WZ), [Hillsong en Español](https://open.spotify.com/artist/3phVKYqeq84Ai91CHTQfNq) | [Todos Mis Mejores Amigos](https://open.spotify.com/album/60RcEQQMc77fR4x2vxo8pR) | 5:05 |
-| 96 | [Ganas de Vivir](https://open.spotify.com/track/6367glu3JEfj7oJ03oAe7L) | [Kike Pavón](https://open.spotify.com/artist/2TkDdk47FGnvxcjQGDdPd0) | [Ganas de Vivir](https://open.spotify.com/album/1LX6lEi66BNQEV4GgxcvXk) | 3:57 |
-| 97 | [De Lo Más Profundo](https://open.spotify.com/track/4ldw8AP89yMbSrbJviQxBb) | [Fuego](https://open.spotify.com/artist/3F5E6wKnGN6qRjtsF2Z6vt) | [Por Fin en Casa](https://open.spotify.com/album/48qi6ZYqYATvWg7HtBYyQs) | 7:45 |
-| 98 | [El Nombre De Jesús \(feat\. Christine D'clario\)](https://open.spotify.com/track/1cMTzjQOTt3wVAbFgTGPYN) | [Redimi2](https://open.spotify.com/artist/0WZOmdnCln6FK6GM9e2tGm), [Christine D'Clario](https://open.spotify.com/artist/6JaSyvyg28SHC0Of8YE6M9) | [Operación Mundial](https://open.spotify.com/album/13cS6xvlMND2HFSphWWINT) | 4:30 |
-| 99 | [No Mas](https://open.spotify.com/track/47Pw8T2m3QUVog4YE3yxLm) | [Indiomar](https://open.spotify.com/artist/4fdudhIT1GNNvtvM309dyM) | [No Más](https://open.spotify.com/album/1Yu6bKHy545AZSh1rb4sWz) | 3:26 |
-| 100 | [El Cielo Gobierna](https://open.spotify.com/track/3RlEEd4YLEbpUSEo7o6wLH) | [David Scarpeta](https://open.spotify.com/artist/72eEtA2xeitbF17cpqGwqd) | [El Cielo Gobierna](https://open.spotify.com/album/0jJt3oV7ptqObZj9ktTaBW) | 4:25 |
+| 96 | [Me Basta](https://open.spotify.com/track/0BRxio3HO3AQ7Pm3Zx8xUn) | [Mónica Rodríguez](https://open.spotify.com/artist/1faUEl7u4gmxUVIh3esaf4) | [Tienes que Creer](https://open.spotify.com/album/6TZZT6jNGCn6DMKnGjFBwl) | 3:56 |
+| 97 | [Ganas de Vivir](https://open.spotify.com/track/6367glu3JEfj7oJ03oAe7L) | [Kike Pavón](https://open.spotify.com/artist/2TkDdk47FGnvxcjQGDdPd0) | [Ganas de Vivir](https://open.spotify.com/album/1LX6lEi66BNQEV4GgxcvXk) | 3:57 |
+| 98 | [De Lo Más Profundo](https://open.spotify.com/track/4ldw8AP89yMbSrbJviQxBb) | [Fuego](https://open.spotify.com/artist/3F5E6wKnGN6qRjtsF2Z6vt) | [Por Fin en Casa](https://open.spotify.com/album/48qi6ZYqYATvWg7HtBYyQs) | 7:45 |
+| 99 | [El Nombre De Jesús \(feat\. Christine D'clario\)](https://open.spotify.com/track/1cMTzjQOTt3wVAbFgTGPYN) | [Redimi2](https://open.spotify.com/artist/0WZOmdnCln6FK6GM9e2tGm), [Christine D'Clario](https://open.spotify.com/artist/6JaSyvyg28SHC0Of8YE6M9) | [Operación Mundial](https://open.spotify.com/album/13cS6xvlMND2HFSphWWINT) | 4:30 |
+| 100 | [No Mas](https://open.spotify.com/track/47Pw8T2m3QUVog4YE3yxLm) | [Indiomar](https://open.spotify.com/artist/4fdudhIT1GNNvtvM309dyM) | [No Más](https://open.spotify.com/album/1Yu6bKHy545AZSh1rb4sWz) | 3:26 |
 
 Snapshot ID: `AAAAAHAaDol4GaDB6Y663sAl8U3Ab4ri`

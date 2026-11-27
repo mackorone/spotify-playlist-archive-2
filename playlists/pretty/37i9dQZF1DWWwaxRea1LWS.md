@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWwaxRea1LWS.md) - [plain]
 
 > \#SpotifyTBT celebrates 10 years of Starboy\. Cover: The Weeknd
 
-[Spotify](https://open.spotify.com/user/spotify) - 2,254,337 likes - 30 songs - 1 hr 57 min
+[Spotify](https://open.spotify.com/user/spotify) - 2,254,280 likes - 30 songs - 1 hr 57 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

@@ -2,9 +2,9 @@
 
 ### [Indian Indie English](https://open.spotify.com/playlist/37i9dQZF1DX6sDj4CL6UK6)
 
-> English songs from Indian artists.<br/>Cover: The F16s
+> English songs from Indian artists.<br/>Cover: Kayan
 
-409 songs - 23 hr 20 min
+410 songs - 23 hr 22 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -35,6 +35,7 @@
 | [Bad for Me](https://open.spotify.com/track/4h5YzicLLdtt8NSRU8cRmF) | [Akshath](https://open.spotify.com/artist/35XjIi7RK4ckjgBrE6CcQo) | [Bad for Me](https://open.spotify.com/album/6I3uThRU2DxXUG7HlQJn2a) | 3:23 | 2022-03-25 | 2024-08-23 |
 | [Banana Cake](https://open.spotify.com/track/364QRc0IPz7qXUuJkUElnQ) | [Anika](https://open.spotify.com/artist/3eQjsu8rKDi7e62oFpnip7) | [Banana Cake](https://open.spotify.com/album/4Rggj2ueRuVX3PiXry6xpY) | 1:57 | 2023-08-23 | 2023-10-28 |
 | [Bang Bang](https://open.spotify.com/track/5A0BU4G7Cj5HWfRMfgCKhe) | [Ridi](https://open.spotify.com/artist/4dWZYIVD1EhyDVfc812o81) | [Bang Bang](https://open.spotify.com/album/3C2a8WD61N3Q6lCaYnXywp) | 3:03 | 2022-11-17 | 2023-01-18 |
+| [BBG](https://open.spotify.com/track/45Iy0o9lAv0YAMnDQjVAS4) | [Kayan](https://open.spotify.com/artist/3lfolnS8yn0VWK2FKM0hWs) | [BBG](https://open.spotify.com/album/5LtLf0v4bxnSwAwcZ4vA2Y) | 2:25 | 2026-11-27 |  |
 | [Beautiful Day](https://open.spotify.com/track/1mhBPosKQsDnyMtJRCVkDf) | [Aarya](https://open.spotify.com/artist/0hiGMrsjO7uwlfNq4NS7wf) | [Beautiful Day](https://open.spotify.com/album/2Xp0U1Ug2UXkCZhlKEsh4I) | 3:36 | 2022-03-25 | 2022-06-30 |
 | [Because Because Because](https://open.spotify.com/track/3Ke8cQwRISvXEXXvHou7Rv) | [Nikhil D'Souza](https://open.spotify.com/artist/39fT56OHEL2E98zDKrqBsC) | [Because Because Because](https://open.spotify.com/album/5nRXba9Mx7yK0FqrwneBvY) | 3:58 | 2023-07-10 |  |
 | [Believe](https://open.spotify.com/track/0HVGQkCRvHXMPep4s59qfm) | [Vasuda Sharma](https://open.spotify.com/artist/2ED6kjY3EyIRkxM2HAbrCL), [Layth Sidiq](https://open.spotify.com/artist/75qIhTMvg7SbytVJMHNZ9o) | [Believe](https://open.spotify.com/album/4PAchG7DoFJpjdKR0uKi61) | 4:07 | 2022-07-29 | 2023-01-13 |
@@ -327,7 +328,7 @@
 | [Should I Ghost You...](https://open.spotify.com/track/2A15Ljc9Eu1wxwtmLtBpTY) | [Zodiac Wave](https://open.spotify.com/artist/3onhR4FeK0vglwIn5t2Xsy) | [Should I Ghost You...](https://open.spotify.com/album/3CFeHZxJgEC0AshQlK98BT) | 2:14 | 2022-03-25 | 2023-05-20 |
 | [Silent Prayer](https://open.spotify.com/track/5lKBXAO6zCWyh4FAWrrUpM) | [The Coconut Milk Project](https://open.spotify.com/artist/7ME0Ae7qHNi4yPx7362ZF2) | [Silent Prayer](https://open.spotify.com/album/5tHYe6Y8ppgg0S4hFOlccW) | 3:30 | 2022-12-09 | 2023-02-01 |
 | [Simpler Times](https://open.spotify.com/track/2fmBEAxGrQHfqJwv3v8e7H) | [Black Letters](https://open.spotify.com/artist/0glNGCIZztkKr1cmnsYdS6) | [Simpler Times](https://open.spotify.com/album/6AfEBtGTwfc9BrvMbq8QyP) | 4:51 | 2023-04-01 | 2023-05-20 |
-| [skin](https://open.spotify.com/track/4tdkPWkgTvW7XwJXWdA5Gt) | [Ramya Pothuri](https://open.spotify.com/artist/0JgLc59DdeDlgyZtnvAJQ6) | [skin](https://open.spotify.com/album/1kWYJoPUqJ2que3kKtb5aC) | 2:55 | 2025-12-05 |  |
+| [skin](https://open.spotify.com/track/4tdkPWkgTvW7XwJXWdA5Gt) | [Ramya Pothuri](https://open.spotify.com/artist/0JgLc59DdeDlgyZtnvAJQ6) | [skin](https://open.spotify.com/album/1kWYJoPUqJ2que3kKtb5aC) | 2:55 | 2025-12-05 | 2026-11-27 |
 | [Sleepyhead](https://open.spotify.com/track/5WppvSzsJBoQhT6V8HV9U8) | [Parekh & Singh](https://open.spotify.com/artist/5HyacDSdBkCTDOBoX49ayp) | [Sleepyhead](https://open.spotify.com/album/3fw8NcJqdA53NtZHGzU6cS) | 3:06 | 2022-03-25 | 2023-05-24 |
 | [Snake](https://open.spotify.com/track/6ZLl6vyCbGeRzlCEiAJ2Vb) | [Nora Fatehi](https://open.spotify.com/artist/76jfMJlfNPQsOBblO0ZaEA), [Jason Derulo](https://open.spotify.com/artist/07YZf4WDAMNwqr4jfgOZ8y) | [Snake](https://open.spotify.com/album/0NgxRTUA93UA96M05S9pTH) | 1:53 | 2025-02-04 | 2025-08-24 |
 | [Snakes and Ladders](https://open.spotify.com/track/3qiekOQecW0IyPaSJ1YcYt) | [Noush!](https://open.spotify.com/artist/4RM2bD4EiGi9DidZYYEsd0) | [Snakes and Ladders](https://open.spotify.com/album/4l2NWVCZJWhtXnwvHQnfFa) | 3:53 | 2026-07-06 |  |

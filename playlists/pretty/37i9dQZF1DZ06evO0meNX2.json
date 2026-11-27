@@ -1,12 +1,12 @@
 {
   "description": "This is Codiciado. The essential tracks, all in one playlist.",
-  "num_followers": 47726,
+  "num_followers": 47755,
   "original_name": "This Is Codiciado",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "awOCAAAAAADHbNcWBuQv5eUKtvobDYpl",
+  "snapshot_id": "awYlAAAAAADvok3EToSAQd6c5GE8wwyW",
   "tracks": [
     {
       "added_at": null,
@@ -247,6 +247,26 @@
     {
       "added_at": null,
       "album": {
+        "name": "San Lunes (En Vivo)",
+        "url": "https://open.spotify.com/album/524CxunjXzjqwMlKDZ3Stn"
+      },
+      "artists": [
+        {
+          "name": "Codiciado",
+          "url": "https://open.spotify.com/artist/0IoWUuXfqpkfpxBRzthHU4"
+        },
+        {
+          "name": "Edwin Luna y La Trakalosa de Monterrey",
+          "url": "https://open.spotify.com/artist/4LFOoXhMhnq9U8VsZkSwxl"
+        }
+      ],
+      "duration_ms": 252617,
+      "name": "San Lunes - En Vivo",
+      "url": "https://open.spotify.com/track/0Yw6um7WOwJItDNTvU9e8Q"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "PISTEANDO DESDE LOS ANGELES (En Vivo)",
         "url": "https://open.spotify.com/album/3QbPa15debwncYYRMvb1hL"
       },
@@ -287,26 +307,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "San Lunes (En Vivo)",
-        "url": "https://open.spotify.com/album/524CxunjXzjqwMlKDZ3Stn"
-      },
-      "artists": [
-        {
-          "name": "Codiciado",
-          "url": "https://open.spotify.com/artist/0IoWUuXfqpkfpxBRzthHU4"
-        },
-        {
-          "name": "Edwin Luna y La Trakalosa de Monterrey",
-          "url": "https://open.spotify.com/artist/4LFOoXhMhnq9U8VsZkSwxl"
-        }
-      ],
-      "duration_ms": 252617,
-      "name": "San Lunes - En Vivo",
-      "url": "https://open.spotify.com/track/0Yw6um7WOwJItDNTvU9e8Q"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Golpes De La Vida",
         "url": "https://open.spotify.com/album/27ODCRlzVevImnQl0KcsXY"
       },
@@ -319,6 +319,26 @@
       "duration_ms": 221911,
       "name": "Golpes De La Vida",
       "url": "https://open.spotify.com/track/6GMSmRAi8t2uQySgwy2P6F"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Good Vibes 2",
+        "url": "https://open.spotify.com/album/5KneJGqSxTHOM70hszmYH0"
+      },
+      "artists": [
+        {
+          "name": "T3R Elemento",
+          "url": "https://open.spotify.com/artist/34nbQa7Hug9DYkRJpfKNFv"
+        },
+        {
+          "name": "Codiciado",
+          "url": "https://open.spotify.com/artist/0IoWUuXfqpkfpxBRzthHU4"
+        }
+      ],
+      "duration_ms": 167500,
+      "name": "Caviar",
+      "url": "https://open.spotify.com/track/5MEq6LNxiQdApTxGIbh94B"
     },
     {
       "added_at": null,
@@ -363,26 +383,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Good Vibes 2",
-        "url": "https://open.spotify.com/album/5KneJGqSxTHOM70hszmYH0"
-      },
-      "artists": [
-        {
-          "name": "T3R Elemento",
-          "url": "https://open.spotify.com/artist/34nbQa7Hug9DYkRJpfKNFv"
-        },
-        {
-          "name": "Codiciado",
-          "url": "https://open.spotify.com/artist/0IoWUuXfqpkfpxBRzthHU4"
-        }
-      ],
-      "duration_ms": 167500,
-      "name": "Caviar",
-      "url": "https://open.spotify.com/track/5MEq6LNxiQdApTxGIbh94B"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Y Ahora Resulta",
         "url": "https://open.spotify.com/album/66WV0hFPUtxWtTwSAzr4ig"
       },
@@ -423,22 +423,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "As\u00ed Es La Vida",
-        "url": "https://open.spotify.com/album/0TWwVA2SLE68qEemMfl9NC"
-      },
-      "artists": [
-        {
-          "name": "Codiciado",
-          "url": "https://open.spotify.com/artist/0IoWUuXfqpkfpxBRzthHU4"
-        }
-      ],
-      "duration_ms": 195336,
-      "name": "Villas 3ra",
-      "url": "https://open.spotify.com/track/6TZw8289Y2gyWHt9jLhTXD"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "D.M.8.",
         "url": "https://open.spotify.com/album/21LnZrWsvb3tUqXtD0qqiZ"
       },
@@ -459,6 +443,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "As\u00ed Es La Vida",
+        "url": "https://open.spotify.com/album/0TWwVA2SLE68qEemMfl9NC"
+      },
+      "artists": [
+        {
+          "name": "Codiciado",
+          "url": "https://open.spotify.com/artist/0IoWUuXfqpkfpxBRzthHU4"
+        }
+      ],
+      "duration_ms": 195336,
+      "name": "Villas 3ra",
+      "url": "https://open.spotify.com/track/6TZw8289Y2gyWHt9jLhTXD"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "No Voy A Cambiar",
         "url": "https://open.spotify.com/album/1kgLWHrvpuZuZ40DguJmbf"
       },
@@ -475,6 +475,26 @@
       "duration_ms": 165865,
       "name": "No Voy A Cambiar",
       "url": "https://open.spotify.com/track/7mLqaJfinPdwZ9evLFaG5p"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Habemus conciliaci\u00f3n (En Vivo)",
+        "url": "https://open.spotify.com/album/6sqdyaQLeXDhbfeKYEpUW9"
+      },
+      "artists": [
+        {
+          "name": "Codiciado",
+          "url": "https://open.spotify.com/artist/0IoWUuXfqpkfpxBRzthHU4"
+        },
+        {
+          "name": "Alfredo Olivas",
+          "url": "https://open.spotify.com/artist/5xYNmNkaWRqu3e5F4UXME8"
+        }
+      ],
+      "duration_ms": 222354,
+      "name": "Habemus conciliaci\u00f3n - En Vivo",
+      "url": "https://open.spotify.com/track/1SKtOjY1QWabqWnoZ1J77T"
     },
     {
       "added_at": null,
@@ -535,26 +555,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Habemus conciliaci\u00f3n (En Vivo)",
-        "url": "https://open.spotify.com/album/6sqdyaQLeXDhbfeKYEpUW9"
-      },
-      "artists": [
-        {
-          "name": "Codiciado",
-          "url": "https://open.spotify.com/artist/0IoWUuXfqpkfpxBRzthHU4"
-        },
-        {
-          "name": "Alfredo Olivas",
-          "url": "https://open.spotify.com/artist/5xYNmNkaWRqu3e5F4UXME8"
-        }
-      ],
-      "duration_ms": 222354,
-      "name": "Habemus conciliaci\u00f3n - En Vivo",
-      "url": "https://open.spotify.com/track/1SKtOjY1QWabqWnoZ1J77T"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "PISTEANDO DESDE LOS ANGELES (En Vivo)",
         "url": "https://open.spotify.com/album/3QbPa15debwncYYRMvb1hL"
       },
@@ -575,22 +575,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "As\u00ed Es La Vida",
-        "url": "https://open.spotify.com/album/0TWwVA2SLE68qEemMfl9NC"
-      },
-      "artists": [
-        {
-          "name": "Codiciado",
-          "url": "https://open.spotify.com/artist/0IoWUuXfqpkfpxBRzthHU4"
-        }
-      ],
-      "duration_ms": 225818,
-      "name": "Cinco Celulares",
-      "url": "https://open.spotify.com/track/40KkKXHkNTgKg2zn1FINi2"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Un Ni\u00f1o Buscando Un Sue\u00f1o",
         "url": "https://open.spotify.com/album/7mlCta03Ctg4iH2l3vZXDD"
       },
@@ -603,6 +587,22 @@
       "duration_ms": 163293,
       "name": "Un Ni\u00f1o Buscando Un Sue\u00f1o",
       "url": "https://open.spotify.com/track/5MJ2YApCCkbTybfHCzG8BL"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "As\u00ed Es La Vida",
+        "url": "https://open.spotify.com/album/0TWwVA2SLE68qEemMfl9NC"
+      },
+      "artists": [
+        {
+          "name": "Codiciado",
+          "url": "https://open.spotify.com/artist/0IoWUuXfqpkfpxBRzthHU4"
+        }
+      ],
+      "duration_ms": 225818,
+      "name": "Cinco Celulares",
+      "url": "https://open.spotify.com/track/40KkKXHkNTgKg2zn1FINi2"
     },
     {
       "added_at": null,
@@ -643,22 +643,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "As\u00ed Es La Vida",
-        "url": "https://open.spotify.com/album/0TWwVA2SLE68qEemMfl9NC"
-      },
-      "artists": [
-        {
-          "name": "Codiciado",
-          "url": "https://open.spotify.com/artist/0IoWUuXfqpkfpxBRzthHU4"
-        }
-      ],
-      "duration_ms": 163979,
-      "name": "SOY GRACIAS A DIOS",
-      "url": "https://open.spotify.com/track/7zgkP78Tll2hcD61KPJPF6"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Ni\u00f1o De Oro",
         "url": "https://open.spotify.com/album/2LtooHAvxsaUywYzKxfjhZ"
       },
@@ -675,6 +659,22 @@
       "duration_ms": 177704,
       "name": "Relojito Adiamantado",
       "url": "https://open.spotify.com/track/0ECe0wvJwuLcfopJLBaEb1"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "As\u00ed Es La Vida",
+        "url": "https://open.spotify.com/album/0TWwVA2SLE68qEemMfl9NC"
+      },
+      "artists": [
+        {
+          "name": "Codiciado",
+          "url": "https://open.spotify.com/artist/0IoWUuXfqpkfpxBRzthHU4"
+        }
+      ],
+      "duration_ms": 163979,
+      "name": "SOY GRACIAS A DIOS",
+      "url": "https://open.spotify.com/track/7zgkP78Tll2hcD61KPJPF6"
     },
     {
       "added_at": null,

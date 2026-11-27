@@ -1,6 +1,6 @@
 {
   "description": "The Latin soundtrack of the 70s! Cover: Julio Iglesias",
-  "num_followers": 103426,
+  "num_followers": 103459,
   "original_name": "Los 70s",
   "owner": {
     "name": "Spotify",
@@ -519,22 +519,6 @@
     {
       "added_at": "2026-10-02 20:36:42",
       "album": {
-        "name": "Maelo...El \u00danico",
-        "url": "https://open.spotify.com/album/1v14JDuh5QOUu1KVqfPwx7"
-      },
-      "artists": [
-        {
-          "name": "Ismael Rivera",
-          "url": "https://open.spotify.com/artist/788HzQOFhN3mcDo0InBqbJ"
-        }
-      ],
-      "duration_ms": 339240,
-      "name": "El Nazareno",
-      "url": "https://open.spotify.com/track/1DJ0vIXJ2hCZi1aZ9vv32v"
-    },
-    {
-      "added_at": "2026-10-02 20:36:42",
-      "album": {
         "name": "Con El Mariachi Vargas De Tecalitlan (with El Mariachi Vargas de Tecalitl\u00e1n)",
         "url": "https://open.spotify.com/album/13NCFsw0EMj0JHwC9KaYwK"
       },
@@ -551,8 +535,24 @@
     {
       "added_at": "2026-10-02 20:36:42",
       "album": {
-        "name": "Te Tuve Y Te Perd\u00ed",
-        "url": "https://open.spotify.com/album/7v5b8xqXgv2JUJrTjaJrh5"
+        "name": "Maelo...El \u00danico",
+        "url": "https://open.spotify.com/album/1v14JDuh5QOUu1KVqfPwx7"
+      },
+      "artists": [
+        {
+          "name": "Ismael Rivera",
+          "url": "https://open.spotify.com/artist/788HzQOFhN3mcDo0InBqbJ"
+        }
+      ],
+      "duration_ms": 339240,
+      "name": "El Nazareno",
+      "url": "https://open.spotify.com/track/1DJ0vIXJ2hCZi1aZ9vv32v"
+    },
+    {
+      "added_at": "2026-10-02 20:36:42",
+      "album": {
+        "name": "Falso Amor",
+        "url": "https://open.spotify.com/album/2Df8guHfWqzoQQAhzMhUOr"
       },
       "artists": [
         {
@@ -560,9 +560,9 @@
           "url": "https://open.spotify.com/artist/16kOCiqZ1auY4sokSeZuKf"
         }
       ],
-      "duration_ms": 158533,
-      "name": "Te Tuve Y Te Perd\u00ed",
-      "url": "https://open.spotify.com/track/1kLVCrHGL5xX8QgGkXa2N0"
+      "duration_ms": 176560,
+      "name": "Falso Amor",
+      "url": "https://open.spotify.com/track/4UcizizNU6ek3gYr59DX2j"
     },
     {
       "added_at": "2026-10-02 20:36:42",
@@ -631,8 +631,8 @@
     {
       "added_at": "2026-10-02 20:36:42",
       "album": {
-        "name": "Falso Amor",
-        "url": "https://open.spotify.com/album/2Df8guHfWqzoQQAhzMhUOr"
+        "name": "Te Tuve Y Te Perd\u00ed",
+        "url": "https://open.spotify.com/album/7v5b8xqXgv2JUJrTjaJrh5"
       },
       "artists": [
         {
@@ -640,9 +640,9 @@
           "url": "https://open.spotify.com/artist/16kOCiqZ1auY4sokSeZuKf"
         }
       ],
-      "duration_ms": 176560,
-      "name": "Falso Amor",
-      "url": "https://open.spotify.com/track/4UcizizNU6ek3gYr59DX2j"
+      "duration_ms": 158533,
+      "name": "Te Tuve Y Te Perd\u00ed",
+      "url": "https://open.spotify.com/track/1kLVCrHGL5xX8QgGkXa2N0"
     },
     {
       "added_at": "2026-10-02 20:36:42",

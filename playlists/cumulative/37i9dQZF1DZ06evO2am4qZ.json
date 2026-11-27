@@ -2266,10 +2266,28 @@
       ],
       "date_added": "2022-10-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-27",
       "duration_ms": 148069,
       "name": "Rainbow Cadillac",
       "url": "https://open.spotify.com/track/43JD7xFlgcCV2OVOVXMbKp"
+    },
+    {
+      "album": {
+        "name": "After The Rain",
+        "url": "https://open.spotify.com/album/2FE5XQT3uYCY04CfSDwPlr"
+      },
+      "artists": [
+        {
+          "name": "Baby Tate",
+          "url": "https://open.spotify.com/artist/3IJ21966TwNZI24MwZHMu4"
+        }
+      ],
+      "date_added": "2026-11-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 150998,
+      "name": "Rainbow Cadillac",
+      "url": "https://open.spotify.com/track/4Dcrvcc85wA4fcwSlCGR6C"
     },
     {
       "album": {

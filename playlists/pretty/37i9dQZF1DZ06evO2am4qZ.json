@@ -1,12 +1,12 @@
 {
   "description": "This is Baby Tate. The essential tracks, all in one playlist.",
-  "num_followers": 5309,
+  "num_followers": 5312,
   "original_name": "This Is Baby Tate",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "awOCAAAAAADrubpv4oI4Viipc/h7GRx9",
+  "snapshot_id": "awYlAAAAAADTtbPTIKv2rWzBiyvURR3c",
   "tracks": [
     {
       "added_at": null,
@@ -275,26 +275,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Awesome (feat. Baby Tate)",
-        "url": "https://open.spotify.com/album/0U31u16tUxLte3O7ghLpm6"
-      },
-      "artists": [
-        {
-          "name": "Sophie Powers",
-          "url": "https://open.spotify.com/artist/0hrMKLqgNEIemiF4Ag8dTI"
-        },
-        {
-          "name": "Baby Tate",
-          "url": "https://open.spotify.com/artist/3IJ21966TwNZI24MwZHMu4"
-        }
-      ],
-      "duration_ms": 145588,
-      "name": "Awesome (feat. Baby Tate)",
-      "url": "https://open.spotify.com/track/0aOFo1FPyMdgopCac1QMmc"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Billion Dollar Bitch (feat. Yung Baby Tate)",
         "url": "https://open.spotify.com/album/3fuXDz3sxWe8k9Ny9iqB0O"
       },
@@ -311,6 +291,26 @@
       "duration_ms": 188442,
       "name": "Billion Dollar Bitch (feat. Yung Baby Tate)",
       "url": "https://open.spotify.com/track/2ERxhNVMT1Fd5fNyX6CIcW"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Awesome (feat. Baby Tate)",
+        "url": "https://open.spotify.com/album/0U31u16tUxLte3O7ghLpm6"
+      },
+      "artists": [
+        {
+          "name": "Sophie Powers",
+          "url": "https://open.spotify.com/artist/0hrMKLqgNEIemiF4Ag8dTI"
+        },
+        {
+          "name": "Baby Tate",
+          "url": "https://open.spotify.com/artist/3IJ21966TwNZI24MwZHMu4"
+        }
+      ],
+      "duration_ms": 145588,
+      "name": "Awesome (feat. Baby Tate)",
+      "url": "https://open.spotify.com/track/0aOFo1FPyMdgopCac1QMmc"
     },
     {
       "added_at": null,
@@ -491,6 +491,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Baby Tate Presents - Sexploration: The Musical",
+        "url": "https://open.spotify.com/album/1C5qEvAwBYnbnToL6tj8no"
+      },
+      "artists": [
+        {
+          "name": "Baby Tate",
+          "url": "https://open.spotify.com/artist/3IJ21966TwNZI24MwZHMu4"
+        }
+      ],
+      "duration_ms": 167833,
+      "name": "Lollipop",
+      "url": "https://open.spotify.com/track/0p1Ei2H706y4ynYaGGJxaY"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Poof Be Gone",
         "url": "https://open.spotify.com/album/1MxPUBtYCzZ3qSxF5XUf9P"
       },
@@ -531,22 +547,6 @@
       "duration_ms": 172793,
       "name": "Perfect",
       "url": "https://open.spotify.com/track/44AlUStg32yZ3xwhhrUGxq"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Baby Tate Presents - Sexploration: The Musical",
-        "url": "https://open.spotify.com/album/1C5qEvAwBYnbnToL6tj8no"
-      },
-      "artists": [
-        {
-          "name": "Baby Tate",
-          "url": "https://open.spotify.com/artist/3IJ21966TwNZI24MwZHMu4"
-        }
-      ],
-      "duration_ms": 167833,
-      "name": "Lollipop",
-      "url": "https://open.spotify.com/track/0p1Ei2H706y4ynYaGGJxaY"
     },
     {
       "added_at": null,
@@ -703,6 +703,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Mani/Pedi",
+        "url": "https://open.spotify.com/album/1PggRLfABCLlNktVA64NDh"
+      },
+      "artists": [
+        {
+          "name": "Baby Tate",
+          "url": "https://open.spotify.com/artist/3IJ21966TwNZI24MwZHMu4"
+        }
+      ],
+      "duration_ms": 189887,
+      "name": "Dancing Queen",
+      "url": "https://open.spotify.com/track/6CeSwg2uQVfz20KXwXqKZQ"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "While You Wait",
         "url": "https://open.spotify.com/album/3L0ST7zHUCBnqXGNQmy2TL"
       },
@@ -723,38 +739,6 @@
       "duration_ms": 208149,
       "name": "Come First",
       "url": "https://open.spotify.com/track/0W1ULIQlbqZzfH2wP5A3WN"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Mani/Pedi",
-        "url": "https://open.spotify.com/album/1PggRLfABCLlNktVA64NDh"
-      },
-      "artists": [
-        {
-          "name": "Baby Tate",
-          "url": "https://open.spotify.com/artist/3IJ21966TwNZI24MwZHMu4"
-        }
-      ],
-      "duration_ms": 189887,
-      "name": "Dancing Queen",
-      "url": "https://open.spotify.com/track/6CeSwg2uQVfz20KXwXqKZQ"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "After The Rain: Deluxe",
-        "url": "https://open.spotify.com/album/6GOBCr97vW3rl3Nea3H6Pe"
-      },
-      "artists": [
-        {
-          "name": "Baby Tate",
-          "url": "https://open.spotify.com/artist/3IJ21966TwNZI24MwZHMu4"
-        }
-      ],
-      "duration_ms": 148069,
-      "name": "Rainbow Cadillac",
-      "url": "https://open.spotify.com/track/43JD7xFlgcCV2OVOVXMbKp"
     },
     {
       "added_at": null,
@@ -795,6 +779,58 @@
     {
       "added_at": null,
       "album": {
+        "name": "After The Rain: Deluxe",
+        "url": "https://open.spotify.com/album/6GOBCr97vW3rl3Nea3H6Pe"
+      },
+      "artists": [
+        {
+          "name": "Baby Tate",
+          "url": "https://open.spotify.com/artist/3IJ21966TwNZI24MwZHMu4"
+        }
+      ],
+      "duration_ms": 166950,
+      "name": "Focused",
+      "url": "https://open.spotify.com/track/0R86U2o1voaXPzvL5QrNWE"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "After The Rain",
+        "url": "https://open.spotify.com/album/2FE5XQT3uYCY04CfSDwPlr"
+      },
+      "artists": [
+        {
+          "name": "Baby Tate",
+          "url": "https://open.spotify.com/artist/3IJ21966TwNZI24MwZHMu4"
+        }
+      ],
+      "duration_ms": 150998,
+      "name": "Rainbow Cadillac",
+      "url": "https://open.spotify.com/track/4Dcrvcc85wA4fcwSlCGR6C"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Please Don't Cry",
+        "url": "https://open.spotify.com/album/2r3oxZgkGG3wDHGRGt7ytr"
+      },
+      "artists": [
+        {
+          "name": "Rapsody",
+          "url": "https://open.spotify.com/artist/6NL31G53xThQXkFs7lDpL5"
+        },
+        {
+          "name": "Baby Tate",
+          "url": "https://open.spotify.com/artist/3IJ21966TwNZI24MwZHMu4"
+        }
+      ],
+      "duration_ms": 262178,
+      "name": "A Ballad for Homegirls (feat. Baby Tate)",
+      "url": "https://open.spotify.com/track/2onp5lGTSamwuGlmfeHNJW"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Mani/Pedi",
         "url": "https://open.spotify.com/album/1PggRLfABCLlNktVA64NDh"
       },
@@ -824,9 +860,9 @@
           "url": "https://open.spotify.com/artist/3IJ21966TwNZI24MwZHMu4"
         }
       ],
-      "duration_ms": 166950,
-      "name": "Focused",
-      "url": "https://open.spotify.com/track/0R86U2o1voaXPzvL5QrNWE"
+      "duration_ms": 142398,
+      "name": "Eenie Meenie",
+      "url": "https://open.spotify.com/track/4SClznXpl6IEK4ese5MULZ"
     },
     {
       "added_at": null,
@@ -867,38 +903,26 @@
     {
       "added_at": null,
       "album": {
-        "name": "Please Don't Cry",
-        "url": "https://open.spotify.com/album/2r3oxZgkGG3wDHGRGt7ytr"
+        "name": "GIRLS Deluxe",
+        "url": "https://open.spotify.com/album/3f1h1T1qRCKVMgCiojxGr1"
       },
       "artists": [
         {
-          "name": "Rapsody",
-          "url": "https://open.spotify.com/artist/6NL31G53xThQXkFs7lDpL5"
+          "name": "Baby Tate",
+          "url": "https://open.spotify.com/artist/3IJ21966TwNZI24MwZHMu4"
         },
         {
-          "name": "Baby Tate",
-          "url": "https://open.spotify.com/artist/3IJ21966TwNZI24MwZHMu4"
-        }
-      ],
-      "duration_ms": 262178,
-      "name": "A Ballad for Homegirls (feat. Baby Tate)",
-      "url": "https://open.spotify.com/track/2onp5lGTSamwuGlmfeHNJW"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "After The Rain: Deluxe",
-        "url": "https://open.spotify.com/album/6GOBCr97vW3rl3Nea3H6Pe"
-      },
-      "artists": [
+          "name": "Asian Doll",
+          "url": "https://open.spotify.com/artist/4guK7U9J36z76E1tWecJ0J"
+        },
         {
-          "name": "Baby Tate",
-          "url": "https://open.spotify.com/artist/3IJ21966TwNZI24MwZHMu4"
+          "name": "Queen Key",
+          "url": "https://open.spotify.com/artist/3IhYHKVt0Q9vxCCwiCHahR"
         }
       ],
-      "duration_ms": 142398,
-      "name": "Eenie Meenie",
-      "url": "https://open.spotify.com/track/4SClznXpl6IEK4ese5MULZ"
+      "duration_ms": 262832,
+      "name": "Mean Girl (feat. Queen Key & Asian Doll)",
+      "url": "https://open.spotify.com/track/5EzqgKzMvp17pqX2MWetCh"
     },
     {
       "added_at": null,
@@ -939,26 +963,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "GIRLS Deluxe",
-        "url": "https://open.spotify.com/album/3f1h1T1qRCKVMgCiojxGr1"
+        "name": "Tate Tuesday, Vol. 1",
+        "url": "https://open.spotify.com/album/4ezlRpZgswWGCfOK1pkYJR"
       },
       "artists": [
         {
           "name": "Baby Tate",
           "url": "https://open.spotify.com/artist/3IJ21966TwNZI24MwZHMu4"
-        },
-        {
-          "name": "Asian Doll",
-          "url": "https://open.spotify.com/artist/4guK7U9J36z76E1tWecJ0J"
-        },
-        {
-          "name": "Queen Key",
-          "url": "https://open.spotify.com/artist/3IhYHKVt0Q9vxCCwiCHahR"
         }
       ],
-      "duration_ms": 262832,
-      "name": "Mean Girl (feat. Queen Key & Asian Doll)",
-      "url": "https://open.spotify.com/track/5EzqgKzMvp17pqX2MWetCh"
+      "duration_ms": 157575,
+      "name": "Straight",
+      "url": "https://open.spotify.com/track/3m0oTOYuZlqu6kTtoeulOw"
     },
     {
       "added_at": null,
@@ -975,22 +991,6 @@
       "duration_ms": 270186,
       "name": "That Girl",
       "url": "https://open.spotify.com/track/1eGW9NUzLN1roVpWWyjVI8"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Tate Tuesday, Vol. 1",
-        "url": "https://open.spotify.com/album/4ezlRpZgswWGCfOK1pkYJR"
-      },
-      "artists": [
-        {
-          "name": "Baby Tate",
-          "url": "https://open.spotify.com/artist/3IJ21966TwNZI24MwZHMu4"
-        }
-      ],
-      "duration_ms": 157575,
-      "name": "Straight",
-      "url": "https://open.spotify.com/track/3m0oTOYuZlqu6kTtoeulOw"
     },
     {
       "added_at": null,

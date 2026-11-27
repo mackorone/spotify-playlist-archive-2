@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-09-07",
-  "description": "Las grandes del Despecho y el G\u00e9nero Popular. Con Jhonny Rivera y Nanpa B\u00e1sico en portada.",
+  "description": "Las grandes del Despecho y el G\u00e9nero Popular. Con Nanpa B\u00e1sico y Jhonny Rivera en portada.",
   "name": "La + Popular",
   "tracks": [
     {
@@ -2956,6 +2956,24 @@
       "duration_ms": 222285,
       "name": "Guaro - Remix",
       "url": "https://open.spotify.com/track/3PmqejsYxlhII2zo7zXtQ8"
+    },
+    {
+      "album": {
+        "name": "Hablando Claro",
+        "url": "https://open.spotify.com/album/18iSToejAB36gFElrA5wnc"
+      },
+      "artists": [
+        {
+          "name": "Yeison Jimenez",
+          "url": "https://open.spotify.com/artist/3SEztK9fNxg81qZ8qETGNT"
+        }
+      ],
+      "date_added": "2026-11-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 161727,
+      "name": "Hablando Claro",
+      "url": "https://open.spotify.com/track/5M94pxQRxmrZ8JcdnXxjW0"
     },
     {
       "album": {
@@ -5942,6 +5960,28 @@
       "duration_ms": 214619,
       "name": "Se Nos Murio El Amor",
       "url": "https://open.spotify.com/track/4LyHx80mrDxGJvdL2Hr8gl"
+    },
+    {
+      "album": {
+        "name": "Se te hizo tarde",
+        "url": "https://open.spotify.com/album/63eUT6G4qyGuO9m3or9gRj"
+      },
+      "artists": [
+        {
+          "name": "Nanpa B\u00e1sico",
+          "url": "https://open.spotify.com/artist/1cUpGtXcSQsovNYEZOQgOG"
+        },
+        {
+          "name": "Luis Alfonso",
+          "url": "https://open.spotify.com/artist/0GchaVw5KfSVEm0xl0OXEe"
+        }
+      ],
+      "date_added": "2026-11-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 208836,
+      "name": "Se te hizo tarde",
+      "url": "https://open.spotify.com/track/6kqsEt1UuimC1EWdnpnXZn"
     },
     {
       "album": {

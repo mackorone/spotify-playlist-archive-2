@@ -1,12 +1,12 @@
 {
   "description": "This is Jimi Hendrix. The essential tracks, all in one playlist.",
-  "num_followers": 329900,
+  "num_followers": 329912,
   "original_name": "This Is Jimi Hendrix",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "awOCAAAAAAD69i3KBjuFzOhT6Vu6S0QB",
+  "snapshot_id": "awYlAAAAAADtgwFMeto6xfoEWcy2BNdr",
   "tracks": [
     {
       "added_at": null,
@@ -251,22 +251,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Blues",
-        "url": "https://open.spotify.com/album/6kvCH4eS92QkpBNdTmjLEz"
-      },
-      "artists": [
-        {
-          "name": "Jimi Hendrix",
-          "url": "https://open.spotify.com/artist/776Uo845nYHJpNaStv1Ds4"
-        }
-      ],
-      "duration_ms": 457600,
-      "name": "Born Under a Bad Sign",
-      "url": "https://open.spotify.com/track/1HbOlAS9kF9d5j7WNQbin9"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "West Coast Seattle Boy: The Jimi Hendrix Anthology",
         "url": "https://open.spotify.com/album/6c0U1VcL3Bom0g6HTpUa1i"
       },
@@ -283,6 +267,22 @@
       "duration_ms": 145146,
       "name": "Mercy, Mercy - Single/LP Version",
       "url": "https://open.spotify.com/track/0R8ftvBCBw2d9DylZKFJ1P"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Blues",
+        "url": "https://open.spotify.com/album/6kvCH4eS92QkpBNdTmjLEz"
+      },
+      "artists": [
+        {
+          "name": "Jimi Hendrix",
+          "url": "https://open.spotify.com/artist/776Uo845nYHJpNaStv1Ds4"
+        }
+      ],
+      "duration_ms": 457600,
+      "name": "Born Under a Bad Sign",
+      "url": "https://open.spotify.com/track/1HbOlAS9kF9d5j7WNQbin9"
     },
     {
       "added_at": null,
@@ -511,22 +511,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "People, Hell & Angels",
-        "url": "https://open.spotify.com/album/4TKeFuhHHiBhRddgUfZEvf"
-      },
-      "artists": [
-        {
-          "name": "Jimi Hendrix",
-          "url": "https://open.spotify.com/artist/776Uo845nYHJpNaStv1Ds4"
-        }
-      ],
-      "duration_ms": 224653,
-      "name": "Izabella",
-      "url": "https://open.spotify.com/track/4kETOLpw7MYYo37hZSDXLl"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Magic Boy: The Jimi Hendrix Experience Live At Berkeley [First Show]",
         "url": "https://open.spotify.com/album/1kvQfnOEYKiU6RYEdRosWi"
       },
@@ -539,6 +523,22 @@
       "duration_ms": 257493,
       "name": "Johnny B. Goode - Live At Berkeley - 1st Show",
       "url": "https://open.spotify.com/track/3c2JhiszPrDz3G03Dylz0r"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "People, Hell & Angels",
+        "url": "https://open.spotify.com/album/4TKeFuhHHiBhRddgUfZEvf"
+      },
+      "artists": [
+        {
+          "name": "Jimi Hendrix",
+          "url": "https://open.spotify.com/artist/776Uo845nYHJpNaStv1Ds4"
+        }
+      ],
+      "duration_ms": 224653,
+      "name": "Izabella",
+      "url": "https://open.spotify.com/track/4kETOLpw7MYYo37hZSDXLl"
     },
     {
       "added_at": null,
@@ -575,22 +575,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "People, Hell & Angels",
-        "url": "https://open.spotify.com/album/4TKeFuhHHiBhRddgUfZEvf"
-      },
-      "artists": [
-        {
-          "name": "Jimi Hendrix",
-          "url": "https://open.spotify.com/artist/776Uo845nYHJpNaStv1Ds4"
-        }
-      ],
-      "duration_ms": 239733,
-      "name": "Bleeding Heart",
-      "url": "https://open.spotify.com/track/5QytK3mFNMckdsgVdCv5Lf"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Both Sides of the Sky",
         "url": "https://open.spotify.com/album/0EfHWQeb3T1UJw9KrqN407"
       },
@@ -603,6 +587,22 @@
       "duration_ms": 183426,
       "name": "Lover Man",
       "url": "https://open.spotify.com/track/4pufpcO8KDHalIp3Uh8GEU"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "People, Hell & Angels",
+        "url": "https://open.spotify.com/album/4TKeFuhHHiBhRddgUfZEvf"
+      },
+      "artists": [
+        {
+          "name": "Jimi Hendrix",
+          "url": "https://open.spotify.com/artist/776Uo845nYHJpNaStv1Ds4"
+        }
+      ],
+      "duration_ms": 239733,
+      "name": "Bleeding Heart",
+      "url": "https://open.spotify.com/track/5QytK3mFNMckdsgVdCv5Lf"
     },
     {
       "added_at": null,
@@ -639,22 +639,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "People, Hell & Angels",
-        "url": "https://open.spotify.com/album/4TKeFuhHHiBhRddgUfZEvf"
-      },
-      "artists": [
-        {
-          "name": "Jimi Hendrix",
-          "url": "https://open.spotify.com/artist/776Uo845nYHJpNaStv1Ds4"
-        }
-      ],
-      "duration_ms": 104866,
-      "name": "Villanova Junction Blues",
-      "url": "https://open.spotify.com/track/0ME8AQSwfAtSa6ZQpgjROg"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Live At Monterey",
         "url": "https://open.spotify.com/album/6NdaU4JVYrQAxDOSrG0aPF"
       },
@@ -667,6 +651,22 @@
       "duration_ms": 426613,
       "name": "Like A Rolling Stone - Live At Monterey",
       "url": "https://open.spotify.com/track/2y84zRlD8OD6wYpxUylgTV"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "People, Hell & Angels",
+        "url": "https://open.spotify.com/album/4TKeFuhHHiBhRddgUfZEvf"
+      },
+      "artists": [
+        {
+          "name": "Jimi Hendrix",
+          "url": "https://open.spotify.com/artist/776Uo845nYHJpNaStv1Ds4"
+        }
+      ],
+      "duration_ms": 104866,
+      "name": "Villanova Junction Blues",
+      "url": "https://open.spotify.com/track/0ME8AQSwfAtSa6ZQpgjROg"
     },
     {
       "added_at": null,
@@ -687,22 +687,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Rainbow Bridge",
-        "url": "https://open.spotify.com/album/2et0fTgbRp3w4Izzs4uVtz"
-      },
-      "artists": [
-        {
-          "name": "Jimi Hendrix",
-          "url": "https://open.spotify.com/artist/776Uo845nYHJpNaStv1Ds4"
-        }
-      ],
-      "duration_ms": 284333,
-      "name": "Dolly Dagger",
-      "url": "https://open.spotify.com/track/2AKcU2vk8MJrmXdRM9jwBU"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "The Cry of Love",
         "url": "https://open.spotify.com/album/7ykAHaoptbCYaO0HAjpgcL"
       },
@@ -715,6 +699,22 @@
       "duration_ms": 232506,
       "name": "Night Bird Flying",
       "url": "https://open.spotify.com/track/6qKlw6TyxVkaUZrlJYP8xD"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Rainbow Bridge",
+        "url": "https://open.spotify.com/album/2et0fTgbRp3w4Izzs4uVtz"
+      },
+      "artists": [
+        {
+          "name": "Jimi Hendrix",
+          "url": "https://open.spotify.com/artist/776Uo845nYHJpNaStv1Ds4"
+        }
+      ],
+      "duration_ms": 215133,
+      "name": "Room Full of Mirrors",
+      "url": "https://open.spotify.com/track/7uQcSTXM4q7tGzguGVeLtX"
     },
     {
       "added_at": null,
@@ -751,22 +751,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Rainbow Bridge",
-        "url": "https://open.spotify.com/album/2et0fTgbRp3w4Izzs4uVtz"
-      },
-      "artists": [
-        {
-          "name": "Jimi Hendrix",
-          "url": "https://open.spotify.com/artist/776Uo845nYHJpNaStv1Ds4"
-        }
-      ],
-      "duration_ms": 215133,
-      "name": "Room Full of Mirrors",
-      "url": "https://open.spotify.com/track/7uQcSTXM4q7tGzguGVeLtX"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "The Cry of Love",
         "url": "https://open.spotify.com/album/7ykAHaoptbCYaO0HAjpgcL"
       },
@@ -779,6 +763,22 @@
       "duration_ms": 229120,
       "name": "Drifting",
       "url": "https://open.spotify.com/track/4xmlBI4xprNK78GSoTtkxp"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Rainbow Bridge",
+        "url": "https://open.spotify.com/album/2et0fTgbRp3w4Izzs4uVtz"
+      },
+      "artists": [
+        {
+          "name": "Jimi Hendrix",
+          "url": "https://open.spotify.com/artist/776Uo845nYHJpNaStv1Ds4"
+        }
+      ],
+      "duration_ms": 284333,
+      "name": "Dolly Dagger",
+      "url": "https://open.spotify.com/track/2AKcU2vk8MJrmXdRM9jwBU"
     },
     {
       "added_at": null,

@@ -1045,6 +1045,24 @@
     },
     {
       "album": {
+        "name": "Aguacero",
+        "url": "https://open.spotify.com/album/2FLzcxuAovKYnfkwrbr6jM"
+      },
+      "artists": [
+        {
+          "name": "Chapeaux",
+          "url": "https://open.spotify.com/artist/1wofiPduBh5W7JcgVqoLQQ"
+        }
+      ],
+      "date_added": "2026-11-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 132692,
+      "name": "Aguacero",
+      "url": "https://open.spotify.com/track/6y9qARG86Ntow80jzOoInM"
+    },
+    {
+      "album": {
         "name": "Funk Generation",
         "url": "https://open.spotify.com/album/6z6VObudfoxrvGNC5MtiTY"
       },
@@ -2950,7 +2968,7 @@
       ],
       "date_added": "2026-10-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-27",
       "duration_ms": 154502,
       "name": "BAILAR O MORIR",
       "url": "https://open.spotify.com/track/1B5WEv8pZo1KpMOyruKK6Y"
@@ -3586,6 +3604,24 @@
       "duration_ms": 330000,
       "name": "Bichigyal - Remix",
       "url": "https://open.spotify.com/track/4v45rww5vNHvlu3iqdwa9u"
+    },
+    {
+      "album": {
+        "name": "Real Hasta La Muerte II",
+        "url": "https://open.spotify.com/album/4Gqg391dMB9BA7pPW331Ag"
+      },
+      "artists": [
+        {
+          "name": "Anuel AA",
+          "url": "https://open.spotify.com/artist/2R21vXR83lH98kGeO99Y66"
+        }
+      ],
+      "date_added": "2026-11-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 200869,
+      "name": "Bichote",
+      "url": "https://open.spotify.com/track/6S1w1u1J8fldyPXuje4AGw"
     },
     {
       "album": {
@@ -5006,7 +5042,7 @@
       ],
       "date_added": "2026-09-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-27",
       "duration_ms": 234300,
       "name": "CIUDADES",
       "url": "https://open.spotify.com/track/5OhQGwR7Rcw1TBu9hNxgm4"
@@ -8190,7 +8226,7 @@
       ],
       "date_added": "2026-09-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-27",
       "duration_ms": 255006,
       "name": "El Nuevo Campe\u00f3n",
       "url": "https://open.spotify.com/track/6wq0r4ef71dOvfpK3JWPsM"
@@ -8546,6 +8582,24 @@
       "duration_ms": 165671,
       "name": "Ella Baila Sola",
       "url": "https://open.spotify.com/track/3dnP0JxCgygwQH9Gm7q7nb"
+    },
+    {
+      "album": {
+        "name": "Ella quiere mambo",
+        "url": "https://open.spotify.com/album/6PAXhfYxoVBAq6KubuE2Zu"
+      },
+      "artists": [
+        {
+          "name": "La T y La M",
+          "url": "https://open.spotify.com/artist/1FxPMQ9A0882eNDx3ZkD6B"
+        }
+      ],
+      "date_added": "2026-11-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 148941,
+      "name": "Ella quiere mambo",
+      "url": "https://open.spotify.com/track/1rmDdilxKsPuh4uCKhzpMq"
     },
     {
       "album": {
@@ -8974,6 +9028,32 @@
       "duration_ms": 158441,
       "name": "Es Mi Culpa - Versi\u00f3n Cumbia",
       "url": "https://open.spotify.com/track/78OOLg1XsVW0QQkfHP2VEV"
+    },
+    {
+      "album": {
+        "name": "ESA NOTA",
+        "url": "https://open.spotify.com/album/1Qz8jdCTr8oBiZfFwkBUuY"
+      },
+      "artists": [
+        {
+          "name": "Benja Valencia",
+          "url": "https://open.spotify.com/artist/2N4rDzKt2aZK1ksES0YKBP"
+        },
+        {
+          "name": "Pablo Chill-E",
+          "url": "https://open.spotify.com/artist/2XcZshqzPKm3iZcmt73R8D"
+        },
+        {
+          "name": "Distobal",
+          "url": "https://open.spotify.com/artist/2fbx2ZUJ47fJKCT3RKDEWD"
+        }
+      ],
+      "date_added": "2026-11-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 184688,
+      "name": "ESA NOTA",
+      "url": "https://open.spotify.com/track/5neDRSv92WBRaVM6BpdiFo"
     },
     {
       "album": {
@@ -10565,6 +10645,28 @@
     },
     {
       "album": {
+        "name": "GRACIAS X TODO",
+        "url": "https://open.spotify.com/album/05yVCXvCap5aglKYrDMHx7"
+      },
+      "artists": [
+        {
+          "name": "Feid",
+          "url": "https://open.spotify.com/artist/2LRoIwlKmHjgvigdNGBHNo"
+        },
+        {
+          "name": "Snoop Dogg",
+          "url": "https://open.spotify.com/artist/7hJcb9fa4alzcOq3EaNPoG"
+        }
+      ],
+      "date_added": "2026-11-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 182900,
+      "name": "GRACIAS X TODO",
+      "url": "https://open.spotify.com/track/4WmcJk3pLqQuwVcFePYZJA"
+    },
+    {
+      "album": {
         "name": "Elsa y Elmar (Spotify Sessions)",
         "url": "https://open.spotify.com/album/5jmAIf4GwcKVSFwHCLWh26"
       },
@@ -11460,6 +11562,24 @@
       "duration_ms": 209686,
       "name": "INFINITOS COMO EL MAR",
       "url": "https://open.spotify.com/track/2asUhQ9DDNtVinkQ095Rhm"
+    },
+    {
+      "album": {
+        "name": "Injusta Condena",
+        "url": "https://open.spotify.com/album/6TKBRYvtpqXOgbpsh4zht2"
+      },
+      "artists": [
+        {
+          "name": "Los Pibes Chorros",
+          "url": "https://open.spotify.com/artist/3TINnlLcMBQA88OoalsvYR"
+        }
+      ],
+      "date_added": "2026-11-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 196396,
+      "name": "Injusta Condena",
+      "url": "https://open.spotify.com/track/2ThK4pHRwdjZdPNOI1xzgR"
     },
     {
       "album": {
@@ -14967,6 +15087,24 @@
     },
     {
       "album": {
+        "name": "MA\u00d1ANA",
+        "url": "https://open.spotify.com/album/72UiM5udgRySqCwNcRNaII"
+      },
+      "artists": [
+        {
+          "name": "trouve feraud",
+          "url": "https://open.spotify.com/artist/5wYoljDrAYqKBnbncgw27o"
+        }
+      ],
+      "date_added": "2026-11-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 157500,
+      "name": "MA\u00d1ANA",
+      "url": "https://open.spotify.com/track/7DGD8nqCwNLBt9NJOToLWM"
+    },
+    {
+      "album": {
         "name": "me asfixia LA CIUDAD",
         "url": "https://open.spotify.com/album/0DpCVfdtF5alKkKMKLCG8V"
       },
@@ -15930,7 +16068,7 @@
       ],
       "date_added": "2026-11-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-27",
       "duration_ms": 155171,
       "name": "Migajas",
       "url": "https://open.spotify.com/track/6X0xjArooU3ErLHpJAhx7w"
@@ -16050,7 +16188,7 @@
       ],
       "date_added": "2026-11-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-27",
       "duration_ms": 127326,
       "name": "Milko Freestyle",
       "url": "https://open.spotify.com/track/6qP0OSXyS6vMS7Ib4waLHt"
@@ -16142,7 +16280,7 @@
       ],
       "date_added": "2026-09-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-27",
       "duration_ms": 192250,
       "name": "miss universo",
       "url": "https://open.spotify.com/track/5jAC6o32oJXDYk4uRtdGNH"
@@ -16878,7 +17016,7 @@
       ],
       "date_added": "2026-10-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-27",
       "duration_ms": 213000,
       "name": "NADIE-SABE",
       "url": "https://open.spotify.com/track/5atsb8mmduLyh1e7uQLPGP"
@@ -20124,6 +20262,24 @@
       "duration_ms": 165648,
       "name": "Por Dios Que No - En Vivo",
       "url": "https://open.spotify.com/track/3GQtDlWeuibWgxJe0Feuan"
+    },
+    {
+      "album": {
+        "name": "Latinaje Deluxe",
+        "url": "https://open.spotify.com/album/7DzgFCStzRVvhHA9miIMxo"
+      },
+      "artists": [
+        {
+          "name": "Cazzu",
+          "url": "https://open.spotify.com/artist/6w3SkAHYPsQ1bxV7VDlG5y"
+        }
+      ],
+      "date_added": "2026-11-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 186138,
+      "name": "Por Este Amor",
+      "url": "https://open.spotify.com/track/5UahBVdvOJ2CSCeiQRXjgj"
     },
     {
       "album": {
@@ -27827,6 +27983,24 @@
     },
     {
       "album": {
+        "name": "Veneno y Pu\u00f1al",
+        "url": "https://open.spotify.com/album/76fQ3tMpvzJHv5DxVWHF1M"
+      },
+      "artists": [
+        {
+          "name": "Abel Pintos",
+          "url": "https://open.spotify.com/artist/6HTUcOExehqydqa7C3usAa"
+        }
+      ],
+      "date_added": "2026-11-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 190714,
+      "name": "Veneno y Pu\u00f1al",
+      "url": "https://open.spotify.com/track/5JtNhXxQ4zMLdVsIPieuIY"
+    },
+    {
+      "album": {
         "name": "VENTE CONMIGO",
         "url": "https://open.spotify.com/album/5SULZpveqjEFxoMoZjudDB"
       },
@@ -27988,7 +28162,7 @@
       ],
       "date_added": "2026-08-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-27",
       "duration_ms": 192554,
       "name": "Vida Mala",
       "url": "https://open.spotify.com/track/3pwUgRjmvwWKOUwOsjAsFa"

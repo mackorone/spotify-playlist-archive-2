@@ -7400,7 +7400,7 @@
       ],
       "date_added": "2026-11-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-27",
       "duration_ms": 260000,
       "name": "Burn This Shit Down (from GTAVI: The Album)",
       "url": "https://open.spotify.com/track/30YpKShBDGUAGfUx2BfVIb"
@@ -9304,7 +9304,7 @@
       ],
       "date_added": "2026-03-07",
       "date_added_asterisk": false,
-      "date_removed": "2026-11-26",
+      "date_removed": null,
       "duration_ms": 248866,
       "name": "Coming Up Roses",
       "url": "https://open.spotify.com/track/0QPdjsMOUhwouq1NS3HwfQ"
@@ -23786,7 +23786,7 @@
       ],
       "date_added": "2026-06-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-27",
       "duration_ms": 258270,
       "name": "H\u00e5nd i h\u00e5nd",
       "url": "https://open.spotify.com/track/7tmObcH9iG5Ncv4dYAtVc4"
@@ -26240,7 +26240,7 @@
       ],
       "date_added": "2021-11-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-27",
       "duration_ms": 206639,
       "name": "It's Beginning to Look a Lot like Christmas",
       "url": "https://open.spotify.com/track/0lLdorYw7lVrJydTINhWdI"
@@ -26276,7 +26276,7 @@
       ],
       "date_added": "2025-11-15",
       "date_added_asterisk": false,
-      "date_removed": "2026-11-26",
+      "date_removed": null,
       "duration_ms": 207199,
       "name": "It's Beginning to Look a Lot like Christmas",
       "url": "https://open.spotify.com/track/3it2BvJfyhPEWF3kD2TZJ1"
@@ -27661,6 +27661,32 @@
     },
     {
       "album": {
+        "name": "Jula da pakker var alt",
+        "url": "https://open.spotify.com/album/2lwB8ImBpy0jJeYJIPP2zR"
+      },
+      "artists": [
+        {
+          "name": "Oskar Westerlin",
+          "url": "https://open.spotify.com/artist/0oXnxfuBoIz4DlUCbvxWxd"
+        },
+        {
+          "name": "Rakel Berntzen",
+          "url": "https://open.spotify.com/artist/1DXtVLKyV7y9AOP61NUXrd"
+        },
+        {
+          "name": "Klavenes",
+          "url": "https://open.spotify.com/artist/5ydwTAPWTP0GapuIF6T0Wg"
+        }
+      ],
+      "date_added": "2026-11-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 133333,
+      "name": "Jula da pakker var alt",
+      "url": "https://open.spotify.com/track/6Vph9TfNZ7ocmkXuhrKo6Z"
+    },
+    {
+      "album": {
         "name": "Jula Hjemme (feat. Trygve Skaug)",
         "url": "https://open.spotify.com/album/3qJ34RupcqOwNh9Qor3V1C"
       },
@@ -27676,7 +27702,7 @@
       ],
       "date_added": "2021-11-30",
       "date_added_asterisk": false,
-      "date_removed": "2025-12-29",
+      "date_removed": null,
       "duration_ms": 232106,
       "name": "Jula Hjemme (feat. Trygve Skaug)",
       "url": "https://open.spotify.com/track/47G1D6ZRAkj37PsONIqs8h"
@@ -43656,7 +43682,7 @@
       ],
       "date_added": "2026-10-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-27",
       "duration_ms": 204924,
       "name": "SAVNER ET MENNESKE",
       "url": "https://open.spotify.com/track/4XnC0KesuS0urhamae4pHM"
@@ -53744,7 +53770,7 @@
       ],
       "date_added": "2023-11-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-27",
       "duration_ms": 229638,
       "name": "Underneath the Tree",
       "url": "https://open.spotify.com/track/3YZE5qDV7u1ZD1gZc47ZeR"
@@ -53762,7 +53788,7 @@
       ],
       "date_added": "2021-12-24",
       "date_added_asterisk": false,
-      "date_removed": "2026-11-26",
+      "date_removed": null,
       "duration_ms": 229638,
       "name": "Underneath the Tree",
       "url": "https://open.spotify.com/track/3nAp4IvdMPPWEH9uuXFFV5"

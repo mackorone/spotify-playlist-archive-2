@@ -25,7 +25,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFPuUMfySOlJb.md) - [plain]
 | 15 | [Justified](https://open.spotify.com/track/5oUjKkbMDkVUkQ4cirjHwF) | [Emotional Oranges](https://open.spotify.com/artist/12trz2INGglrKMzLmg0y2C) | [STILL EMO](https://open.spotify.com/album/3CDhdWD9GZB7Sj0QNnZ78y) | 2:45 |
 | 16 | [Fuck You Too](https://open.spotify.com/track/27h3yBSFjfgWE3W3DKOknf) | [Kodak Black](https://open.spotify.com/artist/46SHBwWsqBkxI7EeeBEQG7) | [When I Was Dead](https://open.spotify.com/album/65SsQtOf5Cd25fanX62XRR) | 3:26 |
 | 17 | [Issues](https://open.spotify.com/track/0fdGancqr2bZGUOT42CNj5) | [Yung Pinch](https://open.spotify.com/artist/61qMnYXa1GxSBoV3IiYKjZ) | [Issues](https://open.spotify.com/album/3x1N5mOC36Sy0KyBRFDWtk) | 2:46 |
-| 18 | [Hate It or Love It](https://open.spotify.com/track/1Uw69Bi0t5bIeLyTxVPPCT) | [TOMORROW X TOGETHER](https://open.spotify.com/artist/0ghlgldX5Dd6720Q3qFyQB) | [PERFECT STORM \(HUENINGKAI Ver.\)](https://open.spotify.com/album/4LQFfyRVeVQaLEysykqnYj) | 2:45 |
+| 18 | [Hate It or Love It](https://open.spotify.com/track/2Q0xgdf8ChGrd5fYyyZYDK) | [TOMORROW X TOGETHER](https://open.spotify.com/artist/0ghlgldX5Dd6720Q3qFyQB) | [PERFECT STORM \(SOOBIN Ver.\)](https://open.spotify.com/album/7xUMyAMHJmiMVMHhyO1CZv) | 2:45 |
 | 19 | [Life Goes On](https://open.spotify.com/track/1mXtEf59XtQ8mQtHL3Had6) | [Lil Mosey](https://open.spotify.com/artist/5zctI4wO9XSKS8XwcnqEHk) | [Life Goes On](https://open.spotify.com/album/63a9YKa0yTquyvq3O1Ce5W) | 2:46 |
 | 20 | [THROW UP](https://open.spotify.com/track/3baUe3C6XeMeE0GcHOn0xR) | [Dro Kenji](https://open.spotify.com/artist/46fHMu9KxdQwcGV9xI1L9R) | [WISH YOU WERE HERE](https://open.spotify.com/album/0PxvbdJQowxgtKBhNJAMep) | 3:07 |
 | 21 | [Site Flipping](https://open.spotify.com/track/7q09p7MYHpq9Bbg80wnW6r) | [Real Boston Richey](https://open.spotify.com/artist/1iwUuIOKYjV7SKIg27v4zi) | [Public Housing, Pt\. 2](https://open.spotify.com/album/6HgjCMe3yei1aus3qyUDSI) | 2:50 |
@@ -38,8 +38,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFPuUMfySOlJb.md) - [plain]
 | 28 | [No Stress](https://open.spotify.com/track/0HPlW2dfXiXGWJbKAPyHkZ) | [Kiana Ledé](https://open.spotify.com/artist/7jZMxhsB8djyIbYmoiJSTs) | [Cut Ties](https://open.spotify.com/album/2KH8PHZCwSqFWiFOz2jzAy) | 2:14 |
 | 29 | [Fliccin Up](https://open.spotify.com/track/4SGqmuv6pxaei3Silq8qaK) | [MBNel](https://open.spotify.com/artist/2aqdy2BLMhGFHhRb1ZbDCF) | [Fliccin Up](https://open.spotify.com/album/6C2rgMF06Uwkm9yokUo7X0) | 2:07 |
 | 30 | [Ski Ga Ski \(隙が好き\)](https://open.spotify.com/track/52QAsWTBhQOPBA83ZfFERg) | [千葉雄喜](https://open.spotify.com/artist/6Qhgat07PNOdnJSnCXJigu), [Big Sean](https://open.spotify.com/artist/0c173mlxpT3dSFRgMO8XPh) | [Ski Ga Ski \(隙が好き\)](https://open.spotify.com/album/6d9GgeqYFK8JYqhS6U8mwL) | 2:01 |
-| 31 | [Don't Waste Your Time](https://open.spotify.com/track/7gZ6wC0JVjkS1W1xkpQ7zf) | [Ann Marie](https://open.spotify.com/artist/3feB1IF85It42sebtWSqws) | [Pain Never Looked This Good \(Night\)](https://open.spotify.com/album/0gmvFL9UFeqwwBFDMWLDh5) | 2:08 |
-| 32 | [heavy metal](https://open.spotify.com/track/2vpcuOcKoYoDlNNs0qGlpI) | [skaiwater](https://open.spotify.com/artist/1URVdcNYXigvk6Dj0fHYOM) | [\#gigi](https://open.spotify.com/album/5yYtz3hPgOc2XAh5eDjDBa) | 2:23 |
+| 31 | [heavy metal](https://open.spotify.com/track/2vpcuOcKoYoDlNNs0qGlpI) | [skaiwater](https://open.spotify.com/artist/1URVdcNYXigvk6Dj0fHYOM) | [\#gigi](https://open.spotify.com/album/5yYtz3hPgOc2XAh5eDjDBa) | 2:23 |
+| 32 | [Don't Waste Your Time](https://open.spotify.com/track/7gZ6wC0JVjkS1W1xkpQ7zf) | [Ann Marie](https://open.spotify.com/artist/3feB1IF85It42sebtWSqws) | [Pain Never Looked This Good \(Night\)](https://open.spotify.com/album/0gmvFL9UFeqwwBFDMWLDh5) | 2:08 |
 | 33 | [Call Me](https://open.spotify.com/track/0rRdDKkEwn17XyWgUozqPa) | [Abby Anderson](https://open.spotify.com/artist/0WicR9iYAPd0Bi7i3bz9MB) | [Call Me](https://open.spotify.com/album/725L6fW7uLDMVG8XlEwuWl) | 2:39 |
 | 34 | [Never Left](https://open.spotify.com/track/5hxEyhBnfraTdAnmPsuvlH) | [Anella](https://open.spotify.com/artist/0aRXmCsqGxwpaBqY7WQOsN) | [Never Left](https://open.spotify.com/album/2q558Z4kL38WSl5MuuH5dx) | 2:45 |
 | 35 | [Again](https://open.spotify.com/track/3YZF7oBXjZ0BQX4LwFq3ih) | [AG Club](https://open.spotify.com/artist/22KyrgRdE2K6aB5wtZls3c) | [Again](https://open.spotify.com/album/5DTfFUKdmyA52M8JuqM55D) | 2:47 |
@@ -52,4 +52,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFPuUMfySOlJb.md) - [plain]
 | 42 | [FellInLoveWithAThug](https://open.spotify.com/track/1uVItMXV0MEM3h1XZSDQoH) | [Krimelife Ca$$](https://open.spotify.com/artist/0ZMIyR3pxywqRD66PVrhqj) | [Urban Legend](https://open.spotify.com/album/3dZFUb3lzP3U6sojUTYeme) | 1:53 |
 | 43 | [Running Out of Words](https://open.spotify.com/track/4JrgIIauZIucAVBJwz184N) | [CMTEN](https://open.spotify.com/artist/3ReVTyprRfKmKquryr9UeA) | [Mistakes, etc.](https://open.spotify.com/album/2nvkVRDJnlsy7kIvtoO7w5) | 2:37 |
 
-Snapshot ID: `AciqIgAAAAASifI188qy4Z6hsPq7/HhI`
+Snapshot ID: `AcivwgAAAACbSV+2Y+N/sV4f/QF6Ps7a`

@@ -4,7 +4,7 @@
 
 > This is The Used\. The essential tracks, all in one playlist.
 
-103 songs - 5 hr 32 min
+104 songs - 5 hr 36 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -80,7 +80,8 @@
 | [Pinky Swear](https://open.spotify.com/track/1mNrTiHrV8DthnCiWLW8G9) | [The Used](https://open.spotify.com/artist/55VydwMyCuGcavwPuhutPL) | [Toxic Positivity](https://open.spotify.com/album/3eFVX7tq5tCU0uqol29fis) | 2:13 | 2023-05-20 | 2026-01-25 |
 | [Playing The Victim](https://open.spotify.com/track/1jQ56oPXtND0hIyb2SHGQN) | [The Used](https://open.spotify.com/artist/55VydwMyCuGcavwPuhutPL) | [Heartwork \(Deluxe\)](https://open.spotify.com/album/4J2liOk0lc7aLArgpZE1So) | 2:22 | 2022-11-11 | 2023-05-21 |
 | [Poetic Tragedy](https://open.spotify.com/track/58sdfzX722CMoU7m0s5dUi) | [The Used](https://open.spotify.com/artist/55VydwMyCuGcavwPuhutPL) | [The Used](https://open.spotify.com/album/57d5dFo7oN2yUyGfSKPrRv) | 3:44 | 2022-02-25 |  |
-| [POISON feat\. Bert McCracken \(The Used\)](https://open.spotify.com/track/35N1r1X3vzTs5hIk42SPBR) | [coldrain](https://open.spotify.com/artist/4pCVGaLWxDe4d8bsjsnmUM), [The Used](https://open.spotify.com/artist/55VydwMyCuGcavwPuhutPL), [Bert McCracken](https://open.spotify.com/artist/7rEzlkwGjVgUXbWi0kDEAA) | [POISON feat\. Bert McCracken \(The Used\)](https://open.spotify.com/album/1a2lPzj5stWhiIOnftpyGD) | 3:35 | 2026-08-30 |  |
+| [POISON feat\. Bert McCracken \(The Used\)](https://open.spotify.com/track/1iy0rcM4Z3d6DvrH7LMFRI) | [coldrain](https://open.spotify.com/artist/4pCVGaLWxDe4d8bsjsnmUM), [The Used](https://open.spotify.com/artist/55VydwMyCuGcavwPuhutPL), [Bert McCracken](https://open.spotify.com/artist/7rEzlkwGjVgUXbWi0kDEAA) | [OPTIMIZE = OPTDEMISE](https://open.spotify.com/album/4d1SQUNvHqLe1lr0IkrXPd) | 3:35 | 2026-11-27 |  |
+| [POISON feat\. Bert McCracken \(The Used\)](https://open.spotify.com/track/35N1r1X3vzTs5hIk42SPBR) | [coldrain](https://open.spotify.com/artist/4pCVGaLWxDe4d8bsjsnmUM), [The Used](https://open.spotify.com/artist/55VydwMyCuGcavwPuhutPL), [Bert McCracken](https://open.spotify.com/artist/7rEzlkwGjVgUXbWi0kDEAA) | [POISON feat\. Bert McCracken \(The Used\)](https://open.spotify.com/album/1a2lPzj5stWhiIOnftpyGD) | 3:35 | 2026-08-30 | 2026-11-27 |
 | [Pretty Handsome Awkward](https://open.spotify.com/track/77BfOPXhlnNaSbg647qkx2) | [The Used](https://open.spotify.com/artist/55VydwMyCuGcavwPuhutPL) | [Lies for the Liars](https://open.spotify.com/album/2UTLJA4Rxsth81uNh4Q6ox) | 3:35 | 2022-01-17 |  |
 | [Put Me Out](https://open.spotify.com/track/6XcLXKshSwwbShcndUY1Kh) | [The Used](https://open.spotify.com/artist/55VydwMyCuGcavwPuhutPL) | [Vulnerable](https://open.spotify.com/album/4Onu4JUb8cK11LGvVOZ4N8) | 4:02 | 2022-01-17 | 2022-12-28 |
 | [Revolution](https://open.spotify.com/track/3er2yurebKOKZJR6H3IFTo) | [The Used](https://open.spotify.com/artist/55VydwMyCuGcavwPuhutPL) | [Imaginary Enemy](https://open.spotify.com/album/2UMvo9uU74jGUArNX7C7qT) | 4:04 | 2022-01-17 |  |

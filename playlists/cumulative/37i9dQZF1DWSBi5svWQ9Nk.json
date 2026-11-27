@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2023-02-25",
-  "description": "De 50 grootste hits in NL met cover: Tate McRae",
+  "description": "De 50 grootste hits in NL met cover: Issah & Frenna",
   "name": "Hot Hits NL",
   "tracks": [
     {
@@ -860,7 +860,7 @@
       ],
       "date_added": "2026-09-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-27",
       "duration_ms": 105088,
       "name": "Anne",
       "url": "https://open.spotify.com/track/5GMVfVehF38Nnvk9onA6zH"
@@ -3472,7 +3472,7 @@
       ],
       "date_added": "2026-10-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-27",
       "duration_ms": 224610,
       "name": "Dicht Bij Het Vuur",
       "url": "https://open.spotify.com/track/7rXjKVKU9oYwl0TXPYPj3t"
@@ -4959,6 +4959,28 @@
     },
     {
       "album": {
+        "name": "Go Easy (from GTAVI: The Album)",
+        "url": "https://open.spotify.com/album/7o1zyOQAQwAcseaLOHRpHe"
+      },
+      "artists": [
+        {
+          "name": "Dua Lipa",
+          "url": "https://open.spotify.com/artist/6M2wZ9GZgrQXHCFfjv46we"
+        },
+        {
+          "name": "Grand Theft Auto VI",
+          "url": "https://open.spotify.com/artist/15o7qdDTBzs6xWRUYUtZc1"
+        }
+      ],
+      "date_added": "2026-11-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 191500,
+      "name": "Go Easy (from GTAVI: The Album)",
+      "url": "https://open.spotify.com/track/7koaKeYj2Xkw1vItkRUlX4"
+    },
+    {
+      "album": {
         "name": "KPop Demon Hunters (Soundtrack from the Netflix Film)",
         "url": "https://open.spotify.com/album/14JkAa6IiFaOh5s0nMyMU9"
       },
@@ -5510,7 +5532,7 @@
       ],
       "date_added": "2026-10-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-27",
       "duration_ms": 183509,
       "name": "Het Komt Door Jou",
       "url": "https://open.spotify.com/track/5JWHSbwDQIXQP9532k3uqQ"
@@ -9747,6 +9769,24 @@
     },
     {
       "album": {
+        "name": "Parachute",
+        "url": "https://open.spotify.com/album/0p8HRk8YftL51GFU0DvVbz"
+      },
+      "artists": [
+        {
+          "name": "Bente",
+          "url": "https://open.spotify.com/artist/4U9nsRTH2mr9L4UXEWqG5e"
+        }
+      ],
+      "date_added": "2026-11-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 206921,
+      "name": "Parachute",
+      "url": "https://open.spotify.com/track/6ipQbyshG2EiqlR11pbYLR"
+    },
+    {
+      "album": {
         "name": "Paranoia",
         "url": "https://open.spotify.com/album/1R3bFpMH3ySvkMArLrwFox"
       },
@@ -13712,6 +13752,24 @@
       "duration_ms": 199433,
       "name": "Wat Wil Je Van Mij",
       "url": "https://open.spotify.com/track/1KxRzfQuO8k0dCua9JVRgM"
+    },
+    {
+      "album": {
+        "name": "Ms. Lauren",
+        "url": "https://open.spotify.com/album/1V1B6QOOeJexGmKbgHDIWL"
+      },
+      "artists": [
+        {
+          "name": "Yade Lauren",
+          "url": "https://open.spotify.com/artist/2YkP9pfIZ6hJKeuppuz8qT"
+        }
+      ],
+      "date_added": "2026-11-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 138782,
+      "name": "Wat Zou Je Doen",
+      "url": "https://open.spotify.com/track/0czJd9NMIXgWynWNlHa3US"
     },
     {
       "album": {

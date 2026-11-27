@@ -4,7 +4,7 @@
 
 > Suomen suurin ja paras rock\-soittolista.
 
-400 songs - 1 day 1 hr 57 min
+402 songs - 1 day 2 hr 5 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -24,6 +24,7 @@
 | [An Ocean Of Strange Islands](https://open.spotify.com/track/7HLmjUIFeeCxiJKASRqltT) | [Nightwish](https://open.spotify.com/artist/2NPduAUeLVsfIauhRwuft1) | [An Ocean Of Strange Islands](https://open.spotify.com/album/5Pld9dbaBVoidxPQEhVusV) | 9:26 | 2024-09-12 | 2024-09-27 |
 | [Angel Of Midnight](https://open.spotify.com/track/4ElS6G17jF87cluP3rn8Aa) | [Battle Beast](https://open.spotify.com/artist/7k5jeohQCF20a8foBD9ize) | [Angel of Midnight](https://open.spotify.com/album/4HlR5iQDk57xUQeBTMwNhK) | 3:26 | 2025-09-04 |  |
 | [Anhedonia](https://open.spotify.com/track/4kQw8sDuZirD5DluVUm2ff) | [Sara](https://open.spotify.com/artist/2vWRgNboMcV1z1g7TrFsQr) | [Anhedonia](https://open.spotify.com/album/0w9soTmgOvg2anV3SfZ9jV) | 3:48 | 2024-09-26 | 2025-01-17 |
+| [anna mun haihtua](https://open.spotify.com/track/47XnlJRe1IxyuZFE5YzN0Q) | [niiles](https://open.spotify.com/artist/7K95f5w10whY0tAjKZjuiz) | [kadotus](https://open.spotify.com/album/0rPmHKeJvl4UkaPKjryzBs) | 3:29 | 2026-11-26 |  |
 | [Annihilate Me](https://open.spotify.com/track/7lWgoPdOX6T6xsqoVRHQmy) | [I Prevail](https://open.spotify.com/artist/3Uobr6LgQpBbk6k4QGAb3V) | [Annihilate Me](https://open.spotify.com/album/1rjNoRofF8n9tZHyU6tqPc) | 3:22 | 2025-08-14 | 2026-10-30 |
 | [Arms Around Me](https://open.spotify.com/track/301CeEA0GFGthMXOI3YXbc) | [Moon Shot](https://open.spotify.com/artist/7q6MMOgRRdkw9Xw5xAfQa9) | [The Power](https://open.spotify.com/album/6Rbxgt8xNmnc6xHlXSRxQM) | 4:09 | 2024-09-11 | 2025-01-17 |
 | [Ascension Day](https://open.spotify.com/track/4sscLguEDlCH2EfaS2FAYk) | [Von Hertzen Brothers](https://open.spotify.com/artist/5QA702pGd9qa2oWvp21ofG) | [Ascension Day](https://open.spotify.com/album/4ev1RRP4QZVJSouEmyai19) | 5:06 | 2024-09-19 | 2024-10-25 |
@@ -88,7 +89,7 @@
 | [Dead Company](https://open.spotify.com/track/01oyX4Sq1w6ZpgeOUHdqsJ) | [Royal Blood](https://open.spotify.com/artist/2S5hlvw4CMtMGswFtfdK15) | [Dead Company](https://open.spotify.com/album/76Ef0MsA8Z7bhBlCQsowir) | 3:19 | 2026-10-29 |  |
 | [Dead End](https://open.spotify.com/track/1qYto5saFz03lgET0Kcb8W) | [Stoned Statues](https://open.spotify.com/artist/4T3zk8OMwpondwavcnTZeQ) | [Dead End](https://open.spotify.com/album/07jg0qHyZftzBT2bClnwTs) | 3:35 | 2025-09-18 | 2025-11-14 |
 | [Dead Or Alive](https://open.spotify.com/track/122jYbqBkC5X3TO7AKpFgo) | [Thundermother](https://open.spotify.com/artist/18jTFcgHRRYHdwdof1MDZw) | [Dead Or Alive](https://open.spotify.com/album/1XI9tZmvcoof83ZShzUwTL) | 3:43 | 2024-11-14 | 2025-01-17 |
-| [Dead People Scare Me \(But The Living Make Me Sick\)](https://open.spotify.com/track/6VcbQTlKbE4bt85Rx6qXnV) | [Lost Society](https://open.spotify.com/artist/5Vy1NbrZXTMTAGFa4Im6hN) | [Dead People Scare Me \(But The Living Make Me Sick\)](https://open.spotify.com/album/5KDDpUroWEDc7HXH0Dqouc) | 3:32 | 2025-05-22 |  |
+| [Dead People Scare Me \(But The Living Make Me Sick\)](https://open.spotify.com/track/6VcbQTlKbE4bt85Rx6qXnV) | [Lost Society](https://open.spotify.com/artist/5Vy1NbrZXTMTAGFa4Im6hN) | [Dead People Scare Me \(But The Living Make Me Sick\)](https://open.spotify.com/album/5KDDpUroWEDc7HXH0Dqouc) | 3:32 | 2025-05-22 | 2026-11-27 |
 | [Deathress](https://open.spotify.com/track/4JiNrMWIH2JeAuMIjPlno5) | [LAB](https://open.spotify.com/artist/6sOJPvWOPUqhAoVwV4G6Uk) | [Deathress](https://open.spotify.com/album/7gk9kfF1h653TA18Blj9kz) | 3:51 | 2025-09-18 | 2026-03-13 |
 | [Demonic Depression](https://open.spotify.com/track/2zQWT6JUajr5pvoHcqHD0V) | [Volbeat](https://open.spotify.com/artist/0L5fC7Ogm2YwgqVCRcF1bT) | [God Of Angels Trust](https://open.spotify.com/album/0PTsIhGBmoAAkLULFz6lwC) | 3:58 | 2025-06-05 | 2025-06-13 |
 | [Destroy Me](https://open.spotify.com/track/5sdqwzp1kSHHqTFsyfhrZW) | [PRESIDENT](https://open.spotify.com/artist/40nPYop0FOD9Syyu5y4dAU) | [Destroy Me](https://open.spotify.com/album/6M1XaMPbxRZZcmM38GwUQc) | 2:42 | 2025-09-04 | 2025-09-27 |
@@ -235,8 +236,9 @@
 | [Mitä ihminen katuu](https://open.spotify.com/track/3YvtNf7AZIFH0ghnFrct0I) | [Sara](https://open.spotify.com/artist/2vWRgNboMcV1z1g7TrFsQr) | [Mitä ihminen katuu](https://open.spotify.com/album/1daqKzXj8nJtNPltrbPTOd) | 3:52 | 2026-10-29 |  |
 | [Mitä jää](https://open.spotify.com/track/3J4YG4PfgimicYyeJHzq2G) | [LÄHIÖBOTOX](https://open.spotify.com/artist/2DQUFoAlTM6TbSOabVRumg), [Jodahe](https://open.spotify.com/artist/47bHkMN3v678TKL5Tku7mF) | [Surullinen tapaus – sellaista on vapaus](https://open.spotify.com/album/55JvF5GgYdLTN7RwyfmcIB) | 2:51 | 2024-11-08 | 2024-11-29 |
 | [Monsters](https://open.spotify.com/track/747GeWvELWeEc7VFFIo7eJ) | [Fear Of Domination](https://open.spotify.com/artist/4KmUqzBGTHWlO46RpvMBUq) | [Monsters](https://open.spotify.com/album/4Yo4Cc6YbANSJjb6BEb87g) | 4:22 | 2024-09-11 | 2025-06-27 |
+| [Monsters In Your Head](https://open.spotify.com/track/6DiXFsgbRPLt17fIAYkBbx) | [Balboa Son](https://open.spotify.com/artist/6ZcJKMHJOCYcDNiKK9TeMi) | [Monsters In Your Head](https://open.spotify.com/album/0KXz3niHiUbwzfCxHbKZ9x) | 4:35 | 2026-11-26 |  |
 | [More!](https://open.spotify.com/track/4HHCuXfrlsqL5yffcovuvV) | [Sweatmaster](https://open.spotify.com/artist/2GhrB6KvD9FsgG81kMsD89) | [More!](https://open.spotify.com/album/054mt69QQ9YElS19c2bYOf) | 3:41 | 2025-11-13 | 2026-10-02 |
-| [Musta valo](https://open.spotify.com/track/0tmxdDHthPCpoF881Hu3Zy) | [Timo Rautiainen & Trio Niskalaukaus](https://open.spotify.com/artist/6sJ8TvVdY3NLFxtG4TESzC) | [Tuomiojärvi](https://open.spotify.com/album/2bOL9UxiD5EoRkmc3ulkfo) | 3:50 | 2025-09-11 |  |
+| [Musta valo](https://open.spotify.com/track/0tmxdDHthPCpoF881Hu3Zy) | [Timo Rautiainen & Trio Niskalaukaus](https://open.spotify.com/artist/6sJ8TvVdY3NLFxtG4TESzC) | [Tuomiojärvi](https://open.spotify.com/album/2bOL9UxiD5EoRkmc3ulkfo) | 3:50 | 2025-09-11 | 2026-11-27 |
 | [my mind is a mountain](https://open.spotify.com/track/6vBRAhaSk91csuuWtttPf8) | [Deftones](https://open.spotify.com/artist/6Ghvu1VvMGScGpOUJBAHNH) | [my mind is a mountain](https://open.spotify.com/album/0cysnMmyD2V1SK3JRhCfnG) | 2:50 | 2025-07-10 | 2025-07-18 |
 | [My Only Angel](https://open.spotify.com/track/1n8GIWPeFqj36RO1bPfNdd) | [Aerosmith](https://open.spotify.com/artist/7Ey4PD4MYsKc5I2dolUwbH), [YUNGBLUD](https://open.spotify.com/artist/6Ad91Jof8Niiw0lGLLi3NW) | [My Only Angel](https://open.spotify.com/album/246sRdKNqiYUkcpHfQRP4f) | 4:15 | 2025-09-18 | 2025-11-21 |
 | [My Plastic Escape](https://open.spotify.com/track/2vkKLneeb5vuLPIKAQyJNZ) | [Metal De Facto](https://open.spotify.com/artist/59epaYX40r4ZePz9x3YRdF) | [Land Of The Rising Sun \- Part 2](https://open.spotify.com/album/0BaYmpcLqAycMwr3NAcLG2) | 5:51 | 2026-03-05 |  |

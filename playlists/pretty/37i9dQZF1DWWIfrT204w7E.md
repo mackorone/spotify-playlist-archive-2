@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWIfrT204w7E.md) - [plain]
 
 > Drill scenes connect\. Cover: Dave & Central Cee
 
-[Spotify](https://open.spotify.com/user/spotify) - 162,397 likes - 50 songs - 2 hr 34 min
+[Spotify](https://open.spotify.com/user/spotify) - 162,398 likes - 50 songs - 2 hr 34 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -39,8 +39,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWIfrT204w7E.md) - [plain]
 | 29 | [Demons \(feat\. Fivio Foreign & Sosa Geek\)](https://open.spotify.com/track/05aZ9sAU1YXndHv0FMi9iW) | [Drake](https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4), [Fivio Foreign](https://open.spotify.com/artist/14CHVeJGrR5xgUGQFV5BVM), [Sosa Geek](https://open.spotify.com/artist/2UyyBkpzN5w3hzZBZGvRZb) | [Dark Lane Demo Tapes](https://open.spotify.com/album/6OQ9gBfg5EXeNAEwGSs6jK) | 3:24 |
 | 30 | [Is Ya Ready](https://open.spotify.com/track/2QXWdzWLvRZToFFyY49Exz) | [Kay Flock](https://open.spotify.com/artist/2AMeiDbfU2vonrTkpXDKUu) | [Is Ya Ready](https://open.spotify.com/album/7N2DIKOu4lxVAqcLX8ZOqp) | 2:04 |
 | 31 | [Ain't It Different \(feat\. AJ Tracey & Stormzy\)](https://open.spotify.com/track/6NJfIydBMYrXvlaXsFxmc8) | [Headie One](https://open.spotify.com/artist/6UCQYrcJ6wab6gnQ89OJFh), [AJ Tracey](https://open.spotify.com/artist/4Xi6LSfFqv26XgP9NKN26U), [Stormzy](https://open.spotify.com/artist/2SrSdSvpminqmStGELCSNd) | [Ain't It Different \(feat\. AJ Tracey & Stormzy\)](https://open.spotify.com/album/4DlHEcnhhUJbLuRvaOfdxC) | 3:16 |
-| 32 | [Loading](https://open.spotify.com/track/4D0GT8zWuA7Z2em6dpajAn) | [Central Cee](https://open.spotify.com/artist/5H4yInM5zmHqpKIoMNAx4r) | [Loading](https://open.spotify.com/album/11W7cdDjujY2ktlOAGGq7Q) | 2:53 |
-| 33 | [ROLLIN N CONTROLLIN FREESTYLE](https://open.spotify.com/track/1xqRKo0SDFDO5Jy8yEVD0X) | [DUSTY LOCANE](https://open.spotify.com/artist/22hWz22JAmIhIEp0u1X01L) | [ROLLIN N CONTROLLIN FREESTYLE](https://open.spotify.com/album/752RRPgpiIBjptbb1BqoRI) | 3:11 |
+| 32 | [ROLLIN N CONTROLLIN FREESTYLE](https://open.spotify.com/track/1xqRKo0SDFDO5Jy8yEVD0X) | [DUSTY LOCANE](https://open.spotify.com/artist/22hWz22JAmIhIEp0u1X01L) | [ROLLIN N CONTROLLIN FREESTYLE](https://open.spotify.com/album/752RRPgpiIBjptbb1BqoRI) | 3:11 |
+| 33 | [Loading](https://open.spotify.com/track/4D0GT8zWuA7Z2em6dpajAn) | [Central Cee](https://open.spotify.com/artist/5H4yInM5zmHqpKIoMNAx4r) | [Loading](https://open.spotify.com/album/11W7cdDjujY2ktlOAGGq7Q) | 2:53 |
 | 34 | [IYKYK \(They Know Who\)](https://open.spotify.com/track/3giOJy1zsagI2miM669sh8) | [Hooligan Hefs](https://open.spotify.com/artist/1VXE1xqGNlT9HG6TcjpQ9I), [Hooligan Skinny](https://open.spotify.com/artist/6E2hlUEGs0bO0ktdZKy1lh) | [IYKYK \(They Know Who\)](https://open.spotify.com/album/6w9xEv3rJCEmQQl7VSSega) | 2:47 |
 | 35 | [Mel Made Me Do It](https://open.spotify.com/track/3y8xPhq9Ho1hCEMIE9DvZe) | [Stormzy](https://open.spotify.com/artist/2SrSdSvpminqmStGELCSNd) | [Mel Made Me Do It](https://open.spotify.com/album/2qB4PkpoOUuvLXPzckmYdw) | 7:20 |
 | 36 | [What They Gon Say](https://open.spotify.com/track/5XsXZ1c7GKFNfzSsoeYFY7) | [Ron Suno](https://open.spotify.com/artist/3A63dHvKuavknOcvWVgZA9), [Zay Munna](https://open.spotify.com/artist/14AVlxYsgbbSygfGrNbG3n) | [What They Gon Say](https://open.spotify.com/album/1myZxsTthy8vaYfv9UC2dU) | 2:31 |
@@ -50,8 +50,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWIfrT204w7E.md) - [plain]
 | 40 | [Traffic](https://open.spotify.com/track/3WpGt7fhdIDd5ej7xyzbe8) | [Lil Reese](https://open.spotify.com/artist/1bPxKZtCdjB1aj1csBJpdS), [Chief Keef](https://open.spotify.com/artist/15iVAtD3s3FsQR4w1v6M0P) | [Traffic](https://open.spotify.com/album/3TIC3tf3EeG2e2otDVXhEE) | 3:57 |
 | 41 | [Woi](https://open.spotify.com/track/69F4G9WD5U1vKrpaCiLznl) | [Digga](https://open.spotify.com/artist/57n1OF36WvtOeATY6WQ6iw) | [Woi](https://open.spotify.com/album/77qJnRUCy175akzXSXxZ5r) | 3:02 |
 | 42 | [Paris to Tokyo](https://open.spotify.com/track/5QvW5lK6mkfTegpAK9JOO7) | [Fivio Foreign](https://open.spotify.com/artist/14CHVeJGrR5xgUGQFV5BVM), [The Kid LAROI](https://open.spotify.com/artist/2tIP7SsRs7vjIcLrU85W8J) | [Paris to Tokyo](https://open.spotify.com/album/5BXl6r5L4zXQufLQjgkU6U) | 2:10 |
-| 43 | [Greece](https://open.spotify.com/track/5ohlN3aJiV7849vqb3HDI1) | [Clavish](https://open.spotify.com/artist/4ygR3mAG9AsBRVKIlmFYP1) | [Greece](https://open.spotify.com/album/5zmDVvrSrECRqUimEeHygu) | 2:39 |
-| 44 | [Straight To It \(feat\. Fivio Foreign\)](https://open.spotify.com/track/4RaV9tFFV7R04lglRhgg5O) | [King Von](https://open.spotify.com/artist/6QtgPSJPSzcnn7dPZ4VINp), [Fivio Foreign](https://open.spotify.com/artist/14CHVeJGrR5xgUGQFV5BVM) | [What It Means To Be King](https://open.spotify.com/album/3nrdCjP7QGBqMEutGTtT1B) | 2:58 |
+| 43 | [Straight To It \(feat\. Fivio Foreign\)](https://open.spotify.com/track/4RaV9tFFV7R04lglRhgg5O) | [King Von](https://open.spotify.com/artist/6QtgPSJPSzcnn7dPZ4VINp), [Fivio Foreign](https://open.spotify.com/artist/14CHVeJGrR5xgUGQFV5BVM) | [What It Means To Be King](https://open.spotify.com/album/3nrdCjP7QGBqMEutGTtT1B) | 2:58 |
+| 44 | [Greece](https://open.spotify.com/track/5ohlN3aJiV7849vqb3HDI1) | [Clavish](https://open.spotify.com/artist/4ygR3mAG9AsBRVKIlmFYP1) | [Greece](https://open.spotify.com/album/5zmDVvrSrECRqUimEeHygu) | 2:39 |
 | 45 | [Nice & Good](https://open.spotify.com/track/0FP75UX2W460N7q2PKrzdh) | [Knucks](https://open.spotify.com/artist/6W4vm8P3JFQboO4cvHeqaa), [SL](https://open.spotify.com/artist/0wY1K9SgxbaRfoFRmSR5x5) | [Nice & Good](https://open.spotify.com/album/2nZHGm0LbyWb9SQ48RWFdO) | 3:57 |
 | 46 | [Wow](https://open.spotify.com/track/1zEtEb820Vwe9giuUFXH7H) | [Tion Wayne](https://open.spotify.com/artist/7b79bQFziJFedJb75k6hFt) | [Wow](https://open.spotify.com/album/50GEiFeJvh61ifn8ZWyH4Y) | 2:53 |
 | 47 | [No Remorse](https://open.spotify.com/track/5auKzb2kuqO3lTcoybxVJI) | [Sheff G](https://open.spotify.com/artist/1tG7s7S4sq2eFFW0QZyLbm) | [From The Can](https://open.spotify.com/album/7D59qIBeJucYHLc1Kq6i69) | 2:29 |

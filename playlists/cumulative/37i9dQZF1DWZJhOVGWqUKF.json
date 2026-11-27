@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2024-07-02",
-  "description": "Sechs Saiten f\u00fcr ein Halleluja. Cover: Thundermother",
+  "description": "Sechs Saiten f\u00fcr ein Halleluja. Cover: IMPVLSE",
   "name": "Rock Rotation",
   "tracks": [
     {
@@ -1316,6 +1316,28 @@
       "duration_ms": 216884,
       "name": "An Ending In Itself",
       "url": "https://open.spotify.com/track/10NpRPR6vhJLF2LutMM2Qk"
+    },
+    {
+      "album": {
+        "name": "Anemoia",
+        "url": "https://open.spotify.com/album/7yMWsbfHNltTLoasYCbXBw"
+      },
+      "artists": [
+        {
+          "name": "Northlane",
+          "url": "https://open.spotify.com/artist/3qyg72RGnGdF521zMU02u9"
+        },
+        {
+          "name": "Dayseeker",
+          "url": "https://open.spotify.com/artist/5FjQVp1Lb0kltmwIuu5kfj"
+        }
+      ],
+      "date_added": "2026-11-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 253744,
+      "name": "Anemoia",
+      "url": "https://open.spotify.com/track/4gpv83yAQbdgTEisrNeBkB"
     },
     {
       "album": {
@@ -5329,6 +5351,24 @@
     },
     {
       "album": {
+        "name": "Divine Intervention",
+        "url": "https://open.spotify.com/album/6E6gQyItqFbmEmS14La4Ns"
+      },
+      "artists": [
+        {
+          "name": "IMPVLSE",
+          "url": "https://open.spotify.com/artist/4Xb8zLSdetzreInyw9csZN"
+        }
+      ],
+      "date_added": "2026-11-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 239096,
+      "name": "Divine Intervention",
+      "url": "https://open.spotify.com/track/0JMHO4tH1nUS4BvIXMtCoV"
+    },
+    {
+      "album": {
         "name": "Do One",
         "url": "https://open.spotify.com/album/2ENUR4w5JHhovY6tKRX7DS"
       },
@@ -5983,6 +6023,24 @@
     },
     {
       "album": {
+        "name": "Elusion",
+        "url": "https://open.spotify.com/album/0gFltLAG5FkQJvQH1zu5iX"
+      },
+      "artists": [
+        {
+          "name": "Fomies",
+          "url": "https://open.spotify.com/artist/1wUWT3r2atzIpT08Fje9EH"
+        }
+      ],
+      "date_added": "2026-11-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 240182,
+      "name": "Elusion",
+      "url": "https://open.spotify.com/track/2a2eisrK3Q85yus8Ip1a94"
+    },
+    {
+      "album": {
         "name": "Emergence",
         "url": "https://open.spotify.com/album/7y5CGrH0FgyOVKFtqhCzPH"
       },
@@ -6074,7 +6132,7 @@
       ],
       "date_added": "2026-11-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-27",
       "duration_ms": 188226,
       "name": "EPITAPH",
       "url": "https://open.spotify.com/track/0PU4ouHMxR2mvPLIh3rkTD"
@@ -6312,7 +6370,7 @@
       ],
       "date_added": "2025-12-04",
       "date_added_asterisk": false,
-      "date_removed": "2026-11-20",
+      "date_removed": null,
       "duration_ms": 217189,
       "name": "Everything Is Fine",
       "url": "https://open.spotify.com/track/6BerQ9av2hnOFNAYJnl704"
@@ -7862,7 +7920,7 @@
       ],
       "date_added": "2026-11-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-27",
       "duration_ms": 253935,
       "name": "Good",
       "url": "https://open.spotify.com/track/51wai5Fn2EuJ71GzbsSoXt"
@@ -9920,7 +9978,7 @@
       ],
       "date_added": "2026-11-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-27",
       "duration_ms": 217583,
       "name": "IDWK",
       "url": "https://open.spotify.com/track/7hMfavTn5u7UJfr0ajA1SP"
@@ -10805,6 +10863,24 @@
     },
     {
       "album": {
+        "name": "Killin' Me (With Lea Bell of Palebloom)",
+        "url": "https://open.spotify.com/album/4Epi9DXMy12ZkEqggY67IJ"
+      },
+      "artists": [
+        {
+          "name": "Lonely Spring",
+          "url": "https://open.spotify.com/artist/3noGPmqOwQzkj3lMzblV3f"
+        }
+      ],
+      "date_added": "2026-11-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 151586,
+      "name": "Killin' Me (With Lea Bell of Palebloom)",
+      "url": "https://open.spotify.com/track/55FcjVGRHIMMXMETOVXbtc"
+    },
+    {
+      "album": {
         "name": "KILLING ME",
         "url": "https://open.spotify.com/album/0NGSjSPlCLyv2y2ALMDwX9"
       },
@@ -10954,7 +11030,7 @@
       ],
       "date_added": "2026-11-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-27",
       "duration_ms": 188462,
       "name": "L.I.Y. - Single Edit",
       "url": "https://open.spotify.com/track/6onfuXZ5fRlmpWwJgcOu1F"
@@ -15501,6 +15577,24 @@
     },
     {
       "album": {
+        "name": "R.I.O.T.",
+        "url": "https://open.spotify.com/album/1RH9jI1mkUDoPFjGLAbNN4"
+      },
+      "artists": [
+        {
+          "name": "All To Get Her",
+          "url": "https://open.spotify.com/artist/1yWYIvOEu0SBfep8GEmhf8"
+        }
+      ],
+      "date_added": "2026-11-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 180346,
+      "name": "R.I.O.T.",
+      "url": "https://open.spotify.com/track/4AF5tLI1JdPB0aeUIY9Phm"
+    },
+    {
+      "album": {
         "name": "Rag Doll (feat. As Everything Unfolds & Lake Malice)",
         "url": "https://open.spotify.com/album/1gBAQ3UFACC9d47qrUIB18"
       },
@@ -16325,6 +16419,24 @@
     },
     {
       "album": {
+        "name": "Save Me from Who I've Been",
+        "url": "https://open.spotify.com/album/3j3Z6HXKKUxZA10oycKdIf"
+      },
+      "artists": [
+        {
+          "name": "Story Untold",
+          "url": "https://open.spotify.com/artist/0BOXARfvlX6FdiyMJUUn1Z"
+        }
+      ],
+      "date_added": "2026-11-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 180000,
+      "name": "Save Me from Who I've Been",
+      "url": "https://open.spotify.com/track/3wboiDPhaw9D8CEEQm18K5"
+    },
+    {
+      "album": {
         "name": "Save The Cat",
         "url": "https://open.spotify.com/album/3lF11dYBA2aml6FwhXBh5k"
       },
@@ -16538,7 +16650,7 @@
       ],
       "date_added": "2026-11-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-27",
       "duration_ms": 179200,
       "name": "Searching For You",
       "url": "https://open.spotify.com/track/4YKseHMSPwFAFXZd6jfooU"
@@ -17964,7 +18076,7 @@
       ],
       "date_added": "2026-11-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-27",
       "duration_ms": 192838,
       "name": "Strings of Fate",
       "url": "https://open.spotify.com/track/74lfSiAHg1z7qfjai64qHg"
@@ -19736,7 +19848,7 @@
       ],
       "date_added": "2026-11-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-27",
       "duration_ms": 230466,
       "name": "Time Is Never Wasted (When You're Wasted All The Time)",
       "url": "https://open.spotify.com/track/08ELV601CJbdE4pdV5NOVD"
@@ -19974,7 +20086,7 @@
       ],
       "date_added": "2026-11-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-27",
       "duration_ms": 235263,
       "name": "Tracing Shadows",
       "url": "https://open.spotify.com/track/4QZaJUBAVHDAdLCniyVVQA"
@@ -20430,7 +20542,7 @@
       ],
       "date_added": "2026-11-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-27",
       "duration_ms": 221660,
       "name": "Until The Day",
       "url": "https://open.spotify.com/track/24EcYXRdMO5bvAG2vqmtnM"
@@ -21450,6 +21562,24 @@
       "duration_ms": 208893,
       "name": "Where The Goth Girls At?",
       "url": "https://open.spotify.com/track/5kPfThD8sI2AvIhTkf0nbs"
+    },
+    {
+      "album": {
+        "name": "Foreign Tongues, Loose Lips",
+        "url": "https://open.spotify.com/album/1OjG4rVJguph3dmrpLZ5M3"
+      },
+      "artists": [
+        {
+          "name": "The Rolling Stones",
+          "url": "https://open.spotify.com/artist/22bE4uQ6baNwSHPVcDxLCe"
+        }
+      ],
+      "date_added": "2026-11-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 288388,
+      "name": "Where There's A Will",
+      "url": "https://open.spotify.com/track/2wiqk6v8eR8P0bTNTprgvY"
     },
     {
       "album": {

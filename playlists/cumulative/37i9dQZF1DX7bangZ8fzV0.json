@@ -2726,7 +2726,7 @@
       ],
       "date_added": "2026-08-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-27",
       "duration_ms": 206769,
       "name": "Heuning",
       "url": "https://open.spotify.com/track/6LhKKGotrMu24Ju93T1jhi"
@@ -2828,6 +2828,24 @@
       "duration_ms": 179002,
       "name": "Hoe Nou?",
       "url": "https://open.spotify.com/track/5woFmhSriTtpjYcaho6Ici"
+    },
+    {
+      "album": {
+        "name": "Hoekom Nie?",
+        "url": "https://open.spotify.com/album/4vyLGMy9ewdiCoDexHA3t6"
+      },
+      "artists": [
+        {
+          "name": "Demi Lee Moore",
+          "url": "https://open.spotify.com/artist/2RJteaG1GUmH9lQVczVkpp"
+        }
+      ],
+      "date_added": "2026-11-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 180087,
+      "name": "Hoekom Nie?",
+      "url": "https://open.spotify.com/track/5Ug7HbeDAT7LbW53NomWna"
     },
     {
       "album": {

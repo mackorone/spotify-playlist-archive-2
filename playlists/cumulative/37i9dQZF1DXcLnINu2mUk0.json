@@ -385,6 +385,24 @@
     },
     {
       "album": {
+        "name": "A Tinta",
+        "url": "https://open.spotify.com/album/07Kq8uCOxEmcI7sA8ErCLe"
+      },
+      "artists": [
+        {
+          "name": "t. Policarpo",
+          "url": "https://open.spotify.com/artist/1mlIsIPUmPwNtjuEdIYz8K"
+        }
+      ],
+      "date_added": "2026-11-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 222046,
+      "name": "A Tinta",
+      "url": "https://open.spotify.com/track/2oKYNRZRPE3Evyj1uIBF7b"
+    },
+    {
+      "album": {
         "name": "A2",
         "url": "https://open.spotify.com/album/0wd6LRW2h9wMbn4m4WMXMC"
       },
@@ -924,7 +942,7 @@
       ],
       "date_added": "2023-07-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-27",
       "duration_ms": 165333,
       "name": "Amar De Cor",
       "url": "https://open.spotify.com/track/7lpqxqXjVuOQz6LAJLsLFw"
@@ -1856,7 +1874,7 @@
       ],
       "date_added": "2023-07-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-27",
       "duration_ms": 216556,
       "name": "Barco",
       "url": "https://open.spotify.com/track/6f3wQcpYZUjnakdFmriRbF"
@@ -2052,7 +2070,7 @@
       ],
       "date_added": "2026-11-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-27",
       "duration_ms": 175200,
       "name": "beijo teu",
       "url": "https://open.spotify.com/track/5N9B8BlZIxednu8yqILxaN"
@@ -2394,7 +2412,7 @@
       ],
       "date_added": "2026-10-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-27",
       "duration_ms": 163826,
       "name": "bom fingidor",
       "url": "https://open.spotify.com/track/5MtIN0uvqo0eofqxtKTT5Q"
@@ -6147,6 +6165,28 @@
     },
     {
       "album": {
+        "name": "Exerc\u00edcio de Escrita #4",
+        "url": "https://open.spotify.com/album/7ePFTuxaJpG13ONvQWcTfO"
+      },
+      "artists": [
+        {
+          "name": "Buster",
+          "url": "https://open.spotify.com/artist/7eLPnjLxEaQYIAv4T6f5nc"
+        },
+        {
+          "name": "M'Cirilo",
+          "url": "https://open.spotify.com/artist/5X5sqkoyIBRop5h0IA7aH8"
+        }
+      ],
+      "date_added": "2026-11-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 170666,
+      "name": "Exerc\u00edcio de Escrita #4",
+      "url": "https://open.spotify.com/track/6aNd4sub2cdDmcGHea5EgM"
+    },
+    {
+      "album": {
         "name": "EYES NEVER LIE",
         "url": "https://open.spotify.com/album/4GQPQKMOh9wP04G3nzXKOm"
       },
@@ -7452,6 +7492,24 @@
       "duration_ms": 177446,
       "name": "F\u00e9",
       "url": "https://open.spotify.com/track/3OTj724joKEqIYEyAVNUM4"
+    },
+    {
+      "album": {
+        "name": "Live Sessions '26",
+        "url": "https://open.spotify.com/album/1Umoyc99EBpDwyUqTMgGIA"
+      },
+      "artists": [
+        {
+          "name": "Yang",
+          "url": "https://open.spotify.com/artist/1v0CIz79JpKd2QJgQ3Gxci"
+        }
+      ],
+      "date_added": "2026-11-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 202105,
+      "name": "F\u00e9",
+      "url": "https://open.spotify.com/track/1FNspMTaCmu7posk5WR9bC"
     },
     {
       "album": {
@@ -10149,6 +10207,28 @@
     },
     {
       "album": {
+        "name": "Maratona",
+        "url": "https://open.spotify.com/album/1bJz7LgpCFG6ewIVEYsyob"
+      },
+      "artists": [
+        {
+          "name": "Harold",
+          "url": "https://open.spotify.com/artist/69IjpIjVQJljQ8AsCJMBi3"
+        },
+        {
+          "name": "EMMVR",
+          "url": "https://open.spotify.com/artist/4NRTBluAEQVhhSOA5yinWI"
+        }
+      ],
+      "date_added": "2026-11-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 162807,
+      "name": "Maratona",
+      "url": "https://open.spotify.com/track/5MrJBzScZ74PS6VZtxAjse"
+    },
+    {
+      "album": {
         "name": "Marcas",
         "url": "https://open.spotify.com/album/5BChOTwUPTheJ04yQkt5qd"
       },
@@ -10416,7 +10496,7 @@
       ],
       "date_added": "2026-11-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-27",
       "duration_ms": 166736,
       "name": "Mentira",
       "url": "https://open.spotify.com/track/6Bu1meH6a6gSGp4qORfbt9"
@@ -10434,7 +10514,7 @@
       ],
       "date_added": "2025-10-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-27",
       "duration_ms": 229661,
       "name": "Mentira",
       "url": "https://open.spotify.com/track/2zWN9n7HcvYsydcykLgNQW"
@@ -13385,6 +13465,24 @@
     },
     {
       "album": {
+        "name": "Perdoar",
+        "url": "https://open.spotify.com/album/0vs21xd3BJDhaZEXOJWJil"
+      },
+      "artists": [
+        {
+          "name": "Pta",
+          "url": "https://open.spotify.com/artist/3VIQzyoHE4thDQjYkR0AEA"
+        }
+      ],
+      "date_added": "2026-11-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 163764,
+      "name": "Perdoar",
+      "url": "https://open.spotify.com/track/6woxycLnpE85Dq32NQpTW5"
+    },
+    {
+      "album": {
         "name": "Perfume (Ao Vivo)",
         "url": "https://open.spotify.com/album/5tE6GbtjP4htGoyrT5H78A"
       },
@@ -14186,7 +14284,7 @@
       ],
       "date_added": "2025-11-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-27",
       "duration_ms": 164000,
       "name": "Quem Tem O Teu <3",
       "url": "https://open.spotify.com/track/43ncSBC0ZlkmPJqB8nfoZP"
@@ -15108,6 +15206,28 @@
       "duration_ms": 182941,
       "name": "Sangue",
       "url": "https://open.spotify.com/track/7y7QWBupm0DyjCDOZFUmci"
+    },
+    {
+      "album": {
+        "name": "\u00daLTIMO FILHO DO BITA",
+        "url": "https://open.spotify.com/album/42GrDkUAv0XuqkQg7UVwod"
+      },
+      "artists": [
+        {
+          "name": "Yb No Vision",
+          "url": "https://open.spotify.com/artist/3eTcC5IOlcpwh98YUCeTJ6"
+        },
+        {
+          "name": "YANKEMA",
+          "url": "https://open.spotify.com/artist/1KpBnKdAUaXpGoHvvSXUaJ"
+        }
+      ],
+      "date_added": "2026-11-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 162000,
+      "name": "SANZALA (feat. YANKEMA)",
+      "url": "https://open.spotify.com/track/7LVK44A0VcGvmBLFBx6HqC"
     },
     {
       "album": {
@@ -17354,6 +17474,24 @@
       "duration_ms": 145945,
       "name": "TKT",
       "url": "https://open.spotify.com/track/0PvVkuO5QxckApBrHpYtr6"
+    },
+    {
+      "album": {
+        "name": "to me / round n round",
+        "url": "https://open.spotify.com/album/4KUHiQa8rzJHBqcc82oZLc"
+      },
+      "artists": [
+        {
+          "name": "Al\u00e9xia",
+          "url": "https://open.spotify.com/artist/2kwuj4lyFr1dmU7eTTHxxh"
+        }
+      ],
+      "date_added": "2026-11-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 142384,
+      "name": "to me",
+      "url": "https://open.spotify.com/track/1ujb7V7doyxPVk2WFuOavs"
     },
     {
       "album": {

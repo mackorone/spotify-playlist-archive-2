@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFDSNCLbSH3WI.md) - [plain]
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/2fdEf506uQJUK5dlS1HhNo">Dahi</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 469 likes - 171 songs - 10 hr 29 min
+[Spotify](https://open.spotify.com/user/spotify) - 471 likes - 171 songs - 10 hr 29 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -107,8 +107,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFDSNCLbSH3WI.md) - [plain]
 | 97 | [pray4dagang \(feat\. KayCyy\)](https://open.spotify.com/track/36PAI4ORIT1jHLjYwgGpXw) | [A$AP Rocky](https://open.spotify.com/artist/13ubrt8QOOCPljQ2FL1Kca), [KayCyy](https://open.spotify.com/artist/7gmVTgaiN0gpDJKvTHPTRL) | [pray4dagang \(feat\. KayCyy\)](https://open.spotify.com/album/6uFVKyP21XhtoPGySqGjBZ) | 3:22 |
 | 98 | [Tree of Life](https://open.spotify.com/track/0XCneIf2nzxEPnWHWwszKn) | [Ab\-Soul](https://open.spotify.com/artist/0g9vAlRPK9Gt3FKCekk4TW) | [These Days...](https://open.spotify.com/album/36V9Nypcss9ybEKKmPBhin) | 5:37 |
 | 99 | [Faster](https://open.spotify.com/track/7pPrI9EZNokodBQIgvo0BI) | [Kid Ink](https://open.spotify.com/artist/6KZDXtSj0SzGOV705nNeh3) | [Full Speed](https://open.spotify.com/album/0d8ZiQuUcHDzUkqz9PEn7j) | 2:27 |
-| 100 | [Memories On 47th St.](https://open.spotify.com/track/6oVz6Htjk970xInBdmOvak) | [VIC MENSA](https://open.spotify.com/artist/27w1NoOLMX7tJMYqcetPyG) | [The Autobiography](https://open.spotify.com/album/6NySuONTKK6mtLG0nF80Jr) | 4:02 |
-| 101 | [Saturday Night](https://open.spotify.com/track/7gSPJdd7ZcmLmTOWqzlZG3) | [Ravyn Lenae](https://open.spotify.com/artist/5RTLRtXjbXI2lSXc6jxlAz) | [Blue Island](https://open.spotify.com/album/7I4OxTeNnQgLalOEJZzBqG) | 3:37 |
+| 100 | [Saturday Night](https://open.spotify.com/track/7gSPJdd7ZcmLmTOWqzlZG3) | [Ravyn Lenae](https://open.spotify.com/artist/5RTLRtXjbXI2lSXc6jxlAz) | [Blue Island](https://open.spotify.com/album/7I4OxTeNnQgLalOEJZzBqG) | 3:37 |
+| 101 | [Memories On 47th St.](https://open.spotify.com/track/6oVz6Htjk970xInBdmOvak) | [VIC MENSA](https://open.spotify.com/artist/27w1NoOLMX7tJMYqcetPyG) | [The Autobiography](https://open.spotify.com/album/6NySuONTKK6mtLG0nF80Jr) | 4:02 |
 | 102 | [Shame \(with Elmiene\)](https://open.spotify.com/track/28Ir6VUbomCsKRYXJDS8pW) | [Dahi](https://open.spotify.com/artist/5BozIJTTNCufaZpjhy2der), [Elmiene](https://open.spotify.com/artist/2CLclpIC43fLzsYq6LQvlL) | [Shame](https://open.spotify.com/album/2o4dcRZUBuseVy8omv6CaO) | 2:32 |
 | 103 | [Soul Glitch](https://open.spotify.com/track/4EabiixKs1IXXRyFha7ODG) | [Tinashe](https://open.spotify.com/artist/0NIIxcxNHmOoyBx03SfTCD) | [Nightride](https://open.spotify.com/album/4oUQWJAcEtTuhYFR9AGfaC) | 4:11 |
 | 104 | [Candy](https://open.spotify.com/track/5NwBOCI0trPlbtfocWrt2q) | [Ravyn Lenae](https://open.spotify.com/artist/5RTLRtXjbXI2lSXc6jxlAz) | [Bird's Eye](https://open.spotify.com/album/1uE3dRPe3SrGdNhd1nWlSa) | 3:06 |
@@ -180,4 +180,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFDSNCLbSH3WI.md) - [plain]
 | 170 | [YAH](https://open.spotify.com/track/56huEpZCBEm8qx1bWSeRf9) | [Bethel Adekogbe](https://open.spotify.com/artist/5QThtzr4WbyYjp1QMr66Gz) | [House of God](https://open.spotify.com/album/3x7I5wa60q82pPeVTxr3w8) | 2:23 |
 | 171 | [Mamacita](https://open.spotify.com/track/5FhcbG04J2xE4Yl89tU0tJ) | [TUAWKI](https://open.spotify.com/artist/5qcbpph3M3q5LKCD7TH6RZ) | [Slopped + Chewed Vol\. 4](https://open.spotify.com/album/2H7pgyDHTtaee6AL6je1xZ) | 3:40 |
 
-Snapshot ID: `AciqBAAAAABgs5L99wcAVwy76spcAV+K`
+Snapshot ID: `AcivpAAAAADnASsmb3TUi6K31Yo274lY`

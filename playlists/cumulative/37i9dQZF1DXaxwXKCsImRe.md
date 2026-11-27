@@ -2,7 +2,7 @@
 
 ### [RADAR BNLX](https://open.spotify.com/playlist/37i9dQZF1DXaxwXKCsImRe)
 
-> De toekomst van de Benelux volgens onze muziekredactie\. Cover: <a href="spotify:artist:3z2daXDBOR0uFDF3TB788X">Justen de Wildt</a>
+> De toekomst van de Benelux volgens onze muziekredactie\. Cover: <a href="spotify:artist:2avtvk1ZeiEf3wZ8dE8JfE">Zoë Livay</a>
 
 287 songs - 15 hr 10 min
 

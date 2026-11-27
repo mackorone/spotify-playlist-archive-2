@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX16xyFvvdaW6.md) - [plain]
 
 > Los mejores temas del Rock Cristiano\. ¡Dale al play y disfruta estos tremendos temazos!
 
-[Spotify](https://open.spotify.com/user/spotify) - 159,577 likes - 55 songs - 3 hr 41 min
+[Spotify](https://open.spotify.com/user/spotify) - 159,586 likes - 55 songs - 3 hr 41 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -22,19 +22,19 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX16xyFvvdaW6.md) - [plain]
 | 12 | [Siguiéndote Los Pasos](https://open.spotify.com/track/4FV62NKM79ekbq3QAvuBhe) | [Rojo](https://open.spotify.com/artist/5NvKO965JkIJanRuKQPVN6) | [Apasionado por Ti](https://open.spotify.com/album/31tCkaF0h4BAubPd4hkLsB) | 3:00 |
 | 13 | [A tus pies](https://open.spotify.com/track/66gmwd5CbuzJYDTBd57zdM) | [Credo](https://open.spotify.com/artist/6RjjLhiDH0icVk8Et5Unsl) | [Verdad Escondida](https://open.spotify.com/album/0pUxjluen4b2mf3Pkr1FDw) | 3:19 |
 | 14 | [De Tal Manera](https://open.spotify.com/track/3dGcL3nzABghmtd847UwVi) | [Fernando Ramos](https://open.spotify.com/artist/5MJzy9qF9CL7CWapio7IPv), [La Feria Oficial](https://open.spotify.com/artist/2SJpjUs975HmjZrjVRTSAh) | [De Tal Manera](https://open.spotify.com/album/4sldH3oUygVdQfh9oz0wyw) | 4:14 |
-| 15 | [Enamorado De Ti](https://open.spotify.com/track/5Iy1ewyP16XUKYLSlPBtgi) | [Strike 3](https://open.spotify.com/artist/3hNpQuSjrFXElHOEzmwQ2l) | [Memories \(Edición Especial\)](https://open.spotify.com/album/0tiXUxBtGraV3sMjDQJuzY) | 5:26 |
-| 16 | [Harto](https://open.spotify.com/track/67SmmMagUwguyRfTMbbWzj) | [Zona 7](https://open.spotify.com/artist/00NjBHJBqHJXIiKr9OLAhI) | [Como Me Ves?](https://open.spotify.com/album/4nfoGNTVDZ9WXgvmL9H65k) | 4:07 |
-| 17 | [Demasiado Para Describir](https://open.spotify.com/track/4ISbYfyeqpYlDc1U6DudR3) | [Kyosko](https://open.spotify.com/artist/3SJVLk4Qc9qJ5Mk5dCQrOB) | [Demasiado Para Describir](https://open.spotify.com/album/2Tcq4iOPrTVblClZTdjj3K) | 4:03 |
-| 18 | [Difícil](https://open.spotify.com/track/0EErBY401BKkKq7GMo20YJ) | [Año Cero](https://open.spotify.com/artist/5Gkiy2b9FCiZbLdJvsC1dS), [Fila9](https://open.spotify.com/artist/2GD3xRfQ8lBw95xkBu6Jtp) | [Difícil](https://open.spotify.com/album/15K3BF3iSi5N8kFsOx1cj6) | 2:15 |
-| 19 | [victoria](https://open.spotify.com/track/0C71lTgtN5s1MFpJ2Ekk0g) | [Nxtwave](https://open.spotify.com/artist/3icg8QXxKDihHvzfoC1Vpm), [Christy Corson](https://open.spotify.com/artist/35ouuu71O4IRvrx5OWk7xh) | [victoria](https://open.spotify.com/album/4o7R6DQ0V2JREcuihiEnDy) | 3:17 |
-| 20 | [Vengan y Vean](https://open.spotify.com/track/3ML4PR7vYby13O1QbEpyMf) | [Shammai](https://open.spotify.com/artist/3hp9n03tGKNU5O3xMdSRMz), [Nate Diaz](https://open.spotify.com/artist/7DhqbylsLWouIf4LYo2XqN) | [Vengan y Vean](https://open.spotify.com/album/1PXuLd5Om2stClhROOdtqU) | 4:38 |
-| 21 | [Sobre las Aguas](https://open.spotify.com/track/0160nXrwsZGabn2MS3eZBt) | [Credo](https://open.spotify.com/artist/6RjjLhiDH0icVk8Et5Unsl) | [Sobre las Aguas](https://open.spotify.com/album/0NTxzUKkcuioP465pmYzUF) | 4:00 |
-| 22 | [Vuelvo a Ver](https://open.spotify.com/track/3hJYBaL0k7Y7UHmzHrOeGh) | [Puerto Seguro](https://open.spotify.com/artist/0NYMMK9shZvGfTbaeE75xd) | [Vuelvo a Ver](https://open.spotify.com/album/0HyL4cWJurDVxObSN7kQhO) | 4:16 |
-| 23 | [Otra Oportunidad](https://open.spotify.com/track/0g1dQ5Wafzv5umVhjNcEle) | [Revoluzion Estereo](https://open.spotify.com/artist/07y7DBTR7GwPS7sapmxrtG) | [Revoluzion Estereo](https://open.spotify.com/album/6LpcHauCrtKT0UJuXG8YI8) | 4:15 |
-| 24 | [Dias Mejores](https://open.spotify.com/track/3sYJReZT3FdfszMVHlbRBU) | [Benjamin Rivera](https://open.spotify.com/artist/5k6kUa8aPcXy9TTmOAXX06) | [Dias Mejores](https://open.spotify.com/album/1faelqcXJKpp2O8K4FkkH2) | 4:27 |
-| 25 | [Unico Digno](https://open.spotify.com/track/1uY5vSCLPH5h6ZHFDLBvmB) | [Mayo Music](https://open.spotify.com/artist/1ezbDLKNVEautrYggZnnAU), [Mary Pagan](https://open.spotify.com/artist/1Aai1Tz0m6JRJPk4jMPDA2) | [Unico Digno](https://open.spotify.com/album/5BLfPLnSxwnRO8wfrJWzdc) | 9:05 |
-| 26 | [Que Se Llene Tu Casa](https://open.spotify.com/track/5SJsGkMXZCN9mzxoM8JjNj) | [Ingrid Rosario](https://open.spotify.com/artist/39PYJNgoQuBHjE6LEn3ZdE) | [Cuan Gran Amor](https://open.spotify.com/album/6uviGvDbNIhxoOMqTP3HKl) | 4:08 |
-| 27 | [La Lengua](https://open.spotify.com/track/1fVyHOQLgfVk1wRfu1xkDF) | [Rescate](https://open.spotify.com/artist/1yIESehTCkR9hPmGFKxuV5) | [La Lengua](https://open.spotify.com/album/7y9VR0MZiJbN8O7Z8eT1WB) | 3:02 |
+| 15 | [Ya No Soy](https://open.spotify.com/track/1Ox9sKd7G9wi165gBQuLfR) | [Pepe Lopez Band](https://open.spotify.com/artist/26jcTakzCqPX0KGJth8aiz) | [Ya No Soy](https://open.spotify.com/album/3rWT04FUPTwtJUb0TWT0Gg) | 3:05 |
+| 16 | [Enamorado De Ti](https://open.spotify.com/track/5Iy1ewyP16XUKYLSlPBtgi) | [Strike 3](https://open.spotify.com/artist/3hNpQuSjrFXElHOEzmwQ2l) | [Memories \(Edición Especial\)](https://open.spotify.com/album/0tiXUxBtGraV3sMjDQJuzY) | 5:26 |
+| 17 | [Harto](https://open.spotify.com/track/67SmmMagUwguyRfTMbbWzj) | [Zona 7](https://open.spotify.com/artist/00NjBHJBqHJXIiKr9OLAhI) | [Como Me Ves?](https://open.spotify.com/album/4nfoGNTVDZ9WXgvmL9H65k) | 4:07 |
+| 18 | [Demasiado Para Describir](https://open.spotify.com/track/4ISbYfyeqpYlDc1U6DudR3) | [Kyosko](https://open.spotify.com/artist/3SJVLk4Qc9qJ5Mk5dCQrOB) | [Demasiado Para Describir](https://open.spotify.com/album/2Tcq4iOPrTVblClZTdjj3K) | 4:03 |
+| 19 | [Difícil](https://open.spotify.com/track/0EErBY401BKkKq7GMo20YJ) | [Año Cero](https://open.spotify.com/artist/5Gkiy2b9FCiZbLdJvsC1dS), [Fila9](https://open.spotify.com/artist/2GD3xRfQ8lBw95xkBu6Jtp) | [Difícil](https://open.spotify.com/album/15K3BF3iSi5N8kFsOx1cj6) | 2:15 |
+| 20 | [victoria](https://open.spotify.com/track/0C71lTgtN5s1MFpJ2Ekk0g) | [Nxtwave](https://open.spotify.com/artist/3icg8QXxKDihHvzfoC1Vpm), [Christy Corson](https://open.spotify.com/artist/35ouuu71O4IRvrx5OWk7xh) | [victoria](https://open.spotify.com/album/4o7R6DQ0V2JREcuihiEnDy) | 3:17 |
+| 21 | [Vengan y Vean](https://open.spotify.com/track/3ML4PR7vYby13O1QbEpyMf) | [Shammai](https://open.spotify.com/artist/3hp9n03tGKNU5O3xMdSRMz), [Nate Diaz](https://open.spotify.com/artist/7DhqbylsLWouIf4LYo2XqN) | [Vengan y Vean](https://open.spotify.com/album/1PXuLd5Om2stClhROOdtqU) | 4:38 |
+| 22 | [Sobre las Aguas](https://open.spotify.com/track/0160nXrwsZGabn2MS3eZBt) | [Credo](https://open.spotify.com/artist/6RjjLhiDH0icVk8Et5Unsl) | [Sobre las Aguas](https://open.spotify.com/album/0NTxzUKkcuioP465pmYzUF) | 4:00 |
+| 23 | [Vuelvo a Ver](https://open.spotify.com/track/3hJYBaL0k7Y7UHmzHrOeGh) | [Puerto Seguro](https://open.spotify.com/artist/0NYMMK9shZvGfTbaeE75xd) | [Vuelvo a Ver](https://open.spotify.com/album/0HyL4cWJurDVxObSN7kQhO) | 4:16 |
+| 24 | [Otra Oportunidad](https://open.spotify.com/track/0g1dQ5Wafzv5umVhjNcEle) | [Revoluzion Estereo](https://open.spotify.com/artist/07y7DBTR7GwPS7sapmxrtG) | [Revoluzion Estereo](https://open.spotify.com/album/6LpcHauCrtKT0UJuXG8YI8) | 4:15 |
+| 25 | [Dias Mejores](https://open.spotify.com/track/3sYJReZT3FdfszMVHlbRBU) | [Benjamin Rivera](https://open.spotify.com/artist/5k6kUa8aPcXy9TTmOAXX06) | [Dias Mejores](https://open.spotify.com/album/1faelqcXJKpp2O8K4FkkH2) | 4:27 |
+| 26 | [Unico Digno](https://open.spotify.com/track/1uY5vSCLPH5h6ZHFDLBvmB) | [Mayo Music](https://open.spotify.com/artist/1ezbDLKNVEautrYggZnnAU), [Mary Pagan](https://open.spotify.com/artist/1Aai1Tz0m6JRJPk4jMPDA2) | [Unico Digno](https://open.spotify.com/album/5BLfPLnSxwnRO8wfrJWzdc) | 9:05 |
+| 27 | [Que Se Llene Tu Casa](https://open.spotify.com/track/5SJsGkMXZCN9mzxoM8JjNj) | [Ingrid Rosario](https://open.spotify.com/artist/39PYJNgoQuBHjE6LEn3ZdE) | [Cuan Gran Amor](https://open.spotify.com/album/6uviGvDbNIhxoOMqTP3HKl) | 4:08 |
 | 28 | [No Voy a Mirar Atrás](https://open.spotify.com/track/4soiQ9uVtlBpa6qRwKDhtW) | [Edgar Lira](https://open.spotify.com/artist/16rV2Pqq0YkrTFTPT1T4pq) | [Morir a Mi](https://open.spotify.com/album/0T3GnphchGM8bJiTcL203u) | 4:00 |
 | 29 | [VIENE \- En Vivo Desde VORTERIX](https://open.spotify.com/track/0kag34OinSKhKZ9tViRAD9) | [Rescate](https://open.spotify.com/artist/1yIESehTCkR9hPmGFKxuV5) | [VIENE \(En Vivo Desde VORTERIX\)](https://open.spotify.com/album/0FEHlgZGTDRDcReRDNBhUg) | 3:06 |
 | 30 | [Prototipo](https://open.spotify.com/track/0YOWFe3Iht7daxhWSS8i19) | [revoestereo](https://open.spotify.com/artist/4mz7SgPW11L0nUw2JyRa0J) | [Prototipo](https://open.spotify.com/album/4eIkNv0xa8qtXPO6KzaD3D) | 3:02 |
@@ -64,4 +64,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX16xyFvvdaW6.md) - [plain]
 | 54 | [Preso De Tu Amor](https://open.spotify.com/track/5j2sr7PLGTn7FIrByKQpM8) | [Áaron Emanuel](https://open.spotify.com/artist/0q3zPjmbWZBCxePVcT6iue) | [Preso De Tu Amor](https://open.spotify.com/album/3hSiwuydPUA9nWiSBzji7H) | 3:24 |
 | 55 | [Alaba](https://open.spotify.com/track/3gtKnR2a9bQMIB4OnSZ1JX) | [Banda Generasion](https://open.spotify.com/artist/6W6JOZ91tOgrLB4bdcGs3r) | [Yo Soy Generasion](https://open.spotify.com/album/0Q9uXsdYktit3JOb3LRsaV) | 5:24 |
 
-Snapshot ID: `AAAAABCoU8crqNWq/xyLGIEdjDmvApqF`
+Snapshot ID: `AAAAAO+aEyB8xjHW5YEp5an53RCQktkX`

@@ -1,12 +1,12 @@
 {
   "description": "This is H.E.R.. The essential tracks, all in one playlist.",
-  "num_followers": 264013,
+  "num_followers": 264025,
   "original_name": "This Is H.E.R.",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "awOCAAAAAABUSr5/jdhxJ57/bcqHXgMS",
+  "snapshot_id": "awYlAAAAAABM2xw0QGvDE8WbNFwwBcSi",
   "tracks": [
     {
       "added_at": null,
@@ -827,18 +827,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "My Song",
-        "url": "https://open.spotify.com/album/4CuBjhv8H7ebadwJyS6MK1"
+        "name": "Spell My Name",
+        "url": "https://open.spotify.com/album/7cVfHcCdsGH28PMMRdTQg5"
       },
       "artists": [
+        {
+          "name": "Toni Braxton",
+          "url": "https://open.spotify.com/artist/3X458ddYA2YcVWuVIGGOYe"
+        },
         {
           "name": "H.E.R.",
           "url": "https://open.spotify.com/artist/3Y7RZ31TRPVadSFVy1o8os"
         }
       ],
-      "duration_ms": 350741,
-      "name": "My Song",
-      "url": "https://open.spotify.com/track/16V37tEJapC7jTli8qHImc"
+      "duration_ms": 258125,
+      "name": "Gotta Move On (feat. H.E.R.)",
+      "url": "https://open.spotify.com/track/6ZeFPc7KUp9RH4s0Skj24H"
     },
     {
       "added_at": null,
@@ -859,22 +863,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "Spell My Name",
-        "url": "https://open.spotify.com/album/7cVfHcCdsGH28PMMRdTQg5"
+        "name": "My Song",
+        "url": "https://open.spotify.com/album/4CuBjhv8H7ebadwJyS6MK1"
       },
       "artists": [
-        {
-          "name": "Toni Braxton",
-          "url": "https://open.spotify.com/artist/3X458ddYA2YcVWuVIGGOYe"
-        },
         {
           "name": "H.E.R.",
           "url": "https://open.spotify.com/artist/3Y7RZ31TRPVadSFVy1o8os"
         }
       ],
-      "duration_ms": 258125,
-      "name": "Gotta Move On (feat. H.E.R.)",
-      "url": "https://open.spotify.com/track/6ZeFPc7KUp9RH4s0Skj24H"
+      "duration_ms": 350741,
+      "name": "My Song",
+      "url": "https://open.spotify.com/track/16V37tEJapC7jTli8qHImc"
     },
     {
       "added_at": null,
@@ -942,15 +942,11 @@
         {
           "name": "H.E.R.",
           "url": "https://open.spotify.com/artist/3Y7RZ31TRPVadSFVy1o8os"
-        },
-        {
-          "name": "Ty Dolla $ign",
-          "url": "https://open.spotify.com/artist/7c0XG5cIJTrrAgEC3ULPiq"
         }
       ],
-      "duration_ms": 221134,
-      "name": "Back of My Mind (feat. Ty Dolla $ign)",
-      "url": "https://open.spotify.com/track/0NYEdeOOdXN6Nw2AeKecSJ"
+      "duration_ms": 202079,
+      "name": "Hold On",
+      "url": "https://open.spotify.com/track/6SSQ6eGAHVoQSNAFvbYEce"
     }
   ],
   "unique_name": "This Is H.E.R.",

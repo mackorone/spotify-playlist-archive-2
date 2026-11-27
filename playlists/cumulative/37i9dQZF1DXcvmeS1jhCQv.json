@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2024-02-03",
-  "description": "The best new Irish music in one place \ud83d\udccd Cover: Madra Salach",
+  "description": "The best new Irish music in one place \ud83d\udccd Cover: Radie Peat",
   "name": "Today's Ireland",
   "tracks": [
     {
@@ -362,7 +362,7 @@
       ],
       "date_added": "2026-08-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-27",
       "duration_ms": 205851,
       "name": "Aero",
       "url": "https://open.spotify.com/track/48XFc12VlpoYgRi8e9W9HR"
@@ -2804,7 +2804,7 @@
       ],
       "date_added": "2026-09-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-27",
       "duration_ms": 144820,
       "name": "Dog's Best Man",
       "url": "https://open.spotify.com/track/2ZrWP6HDMdUhtTxMNgCaM9"
@@ -4165,6 +4165,24 @@
     },
     {
       "album": {
+        "name": "No Human Tongue Can Tell",
+        "url": "https://open.spotify.com/album/6TxgYAxC0MRdjZ2HJ4eAWH"
+      },
+      "artists": [
+        {
+          "name": "Radie Peat",
+          "url": "https://open.spotify.com/artist/2HzXwEzn6g3waLTIufC1Ji"
+        }
+      ],
+      "date_added": "2026-11-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 213920,
+      "name": "Hares on The Mountain",
+      "url": "https://open.spotify.com/track/23XRxuggbBfTNEq1aheLzF"
+    },
+    {
+      "album": {
         "name": "Hares on The Mountain",
         "url": "https://open.spotify.com/album/20m4rs9RvcjcB0Y9AUdKWr"
       },
@@ -4562,7 +4580,7 @@
       ],
       "date_added": "2026-10-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-27",
       "duration_ms": 223461,
       "name": "Houston",
       "url": "https://open.spotify.com/track/1O1cqCZMZmtxVV4C8ej03i"
@@ -5450,7 +5468,7 @@
       ],
       "date_added": "2026-10-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-27",
       "duration_ms": 278953,
       "name": "Jacobsons",
       "url": "https://open.spotify.com/track/3NsyjB7Y1CZ2qjydcnFYXK"
@@ -5710,6 +5728,24 @@
       "duration_ms": 178118,
       "name": "Kit Kat Club",
       "url": "https://open.spotify.com/track/069KRt3LNYWB9Hc2l59xxf"
+    },
+    {
+      "album": {
+        "name": "Knives",
+        "url": "https://open.spotify.com/album/38WzxbUAmrFgBFieXoF1Av"
+      },
+      "artists": [
+        {
+          "name": "James Vincent McMorrow",
+          "url": "https://open.spotify.com/artist/7FDlvgcodNfC0IBdWevl4u"
+        }
+      ],
+      "date_added": "2026-11-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 238518,
+      "name": "Knives",
+      "url": "https://open.spotify.com/track/30WXK60kj1hEgnWwgXKoiY"
     },
     {
       "album": {
@@ -6521,6 +6557,24 @@
     },
     {
       "album": {
+        "name": "Make you mine.",
+        "url": "https://open.spotify.com/album/3quvlROWJ5Jq8VI4EcAhyV"
+      },
+      "artists": [
+        {
+          "name": "Favour",
+          "url": "https://open.spotify.com/artist/7gOKBA8pmCoAX4KJXkjOpT"
+        }
+      ],
+      "date_added": "2026-11-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 102857,
+      "name": "Make you mine.",
+      "url": "https://open.spotify.com/track/1827NnE8yYR8N9XBoqIGsE"
+    },
+    {
+      "album": {
         "name": "Male Loneliness Epidemic",
         "url": "https://open.spotify.com/album/1VwpC36Ai1rf3Rvkk1MOHu"
       },
@@ -7038,7 +7092,7 @@
       ],
       "date_added": "2026-09-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-27",
       "duration_ms": 249708,
       "name": "Near",
       "url": "https://open.spotify.com/track/3ggaWEf47wUzWJkaY2BCod"
@@ -7233,6 +7287,24 @@
     },
     {
       "album": {
+        "name": "repeat it aloud",
+        "url": "https://open.spotify.com/album/6PW7s1KjrVaDZmiKqAcWiW"
+      },
+      "artists": [
+        {
+          "name": "Luz",
+          "url": "https://open.spotify.com/artist/3cdI6SvJ24KsOcvYyBwH9c"
+        }
+      ],
+      "date_added": "2026-11-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 246884,
+      "name": "no indication",
+      "url": "https://open.spotify.com/track/7dANeBcbg08qI0mZ4xa2II"
+    },
+    {
+      "album": {
         "name": "No More",
         "url": "https://open.spotify.com/album/0UizShvXdzrnmPWPm2X8xW"
       },
@@ -7378,6 +7450,24 @@
       "duration_ms": 238997,
       "name": "Not That Kinda Girl",
       "url": "https://open.spotify.com/track/4orGsSGLLKYaVWpSdogCOs"
+    },
+    {
+      "album": {
+        "name": "Not The Only Word",
+        "url": "https://open.spotify.com/album/05Yqeod7oZ3Taq6WsTVzFj"
+      },
+      "artists": [
+        {
+          "name": "The Coronas",
+          "url": "https://open.spotify.com/artist/2tppd6KkhK4ULAd217Ecq1"
+        }
+      ],
+      "date_added": "2026-11-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 210653,
+      "name": "Not The Only Word",
+      "url": "https://open.spotify.com/track/1sIav01Pjy1vkuNXcPqhoV"
     },
     {
       "album": {
@@ -7768,6 +7858,24 @@
       "duration_ms": 226796,
       "name": "Paris",
       "url": "https://open.spotify.com/track/4KxQWXimKCGVTatrSwmrYw"
+    },
+    {
+      "album": {
+        "name": "Sun or Man or God",
+        "url": "https://open.spotify.com/album/7zw4FtCt7MIfGBJTq82bms"
+      },
+      "artists": [
+        {
+          "name": "Search Results",
+          "url": "https://open.spotify.com/artist/26WnkHydmkuHAgHS0ZbZjM"
+        }
+      ],
+      "date_added": "2026-11-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 113933,
+      "name": "Participating Heavyweight",
+      "url": "https://open.spotify.com/track/0HdaCFy8N424pEQUHu8BKi"
     },
     {
       "album": {
@@ -8528,6 +8636,24 @@
       "duration_ms": 254459,
       "name": "Ribbon Factory",
       "url": "https://open.spotify.com/track/5PRdIyuXDEGziNc2Raz63P"
+    },
+    {
+      "album": {
+        "name": "Gree",
+        "url": "https://open.spotify.com/album/5eKnhtKbP3XpC2H71MTVOk"
+      },
+      "artists": [
+        {
+          "name": "ffolliott",
+          "url": "https://open.spotify.com/artist/0LznsDgbblksEJsSty0Xbz"
+        }
+      ],
+      "date_added": "2026-11-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 150858,
+      "name": "righteo",
+      "url": "https://open.spotify.com/track/0iM2kP8cc2srzpiZ98jx5s"
     },
     {
       "album": {
@@ -9328,7 +9454,7 @@
       ],
       "date_added": "2026-10-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-27",
       "duration_ms": 222978,
       "name": "So Damn Good",
       "url": "https://open.spotify.com/track/4x9faBmIYLjjwltBoAcZDR"
@@ -9440,7 +9566,7 @@
       ],
       "date_added": "2026-10-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-27",
       "duration_ms": 231458,
       "name": "Some Stroke of Luck",
       "url": "https://open.spotify.com/track/2hv5wSJ3qcLiaxHe1gEntX"
@@ -9660,7 +9786,7 @@
       ],
       "date_added": "2026-09-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-27",
       "duration_ms": 344295,
       "name": "Stockholm",
       "url": "https://open.spotify.com/track/4Aor8M0U720cnHUgYvOC5P"
@@ -10474,7 +10600,7 @@
       ],
       "date_added": "2026-10-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-27",
       "duration_ms": 225168,
       "name": "The Parrot",
       "url": "https://open.spotify.com/track/7r5PbkltWvGfMg2cQtzWMb"
@@ -10496,6 +10622,28 @@
       "duration_ms": 174178,
       "name": "The Pressures of the Heart",
       "url": "https://open.spotify.com/track/0dBhs5Aw3NO9gAVIWrnmLZ"
+    },
+    {
+      "album": {
+        "name": "Migrants in Time",
+        "url": "https://open.spotify.com/album/27W47Xx8bjW7iIl9ohDu1m"
+      },
+      "artists": [
+        {
+          "name": "Michael D. Higgins",
+          "url": "https://open.spotify.com/artist/0MIS4dtc6DIe6E9D0wM1Ox"
+        },
+        {
+          "name": "Myles O'Reilly",
+          "url": "https://open.spotify.com/artist/7BHdwnkL0tV0SpfhTVRTjU"
+        }
+      ],
+      "date_added": "2026-11-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 157525,
+      "name": "The Prophets Are Weeping",
+      "url": "https://open.spotify.com/track/6DY5mFZmjMSGvf30wBL7mq"
     },
     {
       "album": {

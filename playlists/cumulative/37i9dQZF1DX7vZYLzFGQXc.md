@@ -4,7 +4,7 @@
 
 > 피어나고 있는 한국의 재능들을 만나보세요! \(Cover: Munan\) \(Meet the emerging talents of Korea!\)
 
-1,724 songs - 4 day 0 hr 36 min
+1,725 songs - 4 day 0 hr 39 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -170,7 +170,7 @@
 | [Blessed \(Punk Tech\-XI Remix\)](https://open.spotify.com/track/2Waqgry98Xo11k2LdArGL0) | [D'scoTech\-XI](https://open.spotify.com/artist/3FWym5aKInnu807CBuJhGA), [Jimmy Brown](https://open.spotify.com/artist/5YPCpDIPOY4WqY9Bqdw4Uc), [Rovv](https://open.spotify.com/artist/2ExJZeWFE28d7G0uq1olVy), [Sweet The Kid](https://open.spotify.com/artist/4qaGGZulMdVRK7uDgGAaNq) | [DTX 1st : Blessed ride](https://open.spotify.com/album/6qHCN2r5Y8smeXRDhkT5eS) | 3:03 | 2023-01-30 | 2023-04-01 |
 | [Bloom](https://open.spotify.com/track/72sm32NK5bCQFrzH7zNp1Q) | [Blue.D](https://open.spotify.com/artist/0rK0ZPLX4fKnFSbqs6gYfY) | [The First Bloom](https://open.spotify.com/album/1cFnuOep138fqDsALVDZ6S) | 3:07 | 2023-07-27 | 2024-03-06 |
 | [BLOOM](https://open.spotify.com/track/5l9WrwAZyXBgEiJIPpEANO) | [HONDAM](https://open.spotify.com/artist/2P9QVVyvGIIl76Kbqvan21) | [BLOOM](https://open.spotify.com/album/3c2Nz8JpybvM8HxqiznSMy) | 3:10 | 2021-12-02 | 2022-01-11 |
-| [Bloom and Wither](https://open.spotify.com/track/2dkWvjHWcll9kepV7F2NBF) | [Saebit](https://open.spotify.com/artist/3Ry1kQJLsbsMJi5W2p27IX) | [Bloom and Wither](https://open.spotify.com/album/6wqBWJLivks8w3bz39d6Gq) | 3:49 | 2026-04-24 |  |
+| [Bloom and Wither](https://open.spotify.com/track/2dkWvjHWcll9kepV7F2NBF) | [Saebit](https://open.spotify.com/artist/3Ry1kQJLsbsMJi5W2p27IX) | [Bloom and Wither](https://open.spotify.com/album/6wqBWJLivks8w3bz39d6Gq) | 3:49 | 2026-04-24 | 2026-11-27 |
 | [Blooming](https://open.spotify.com/track/1daslr1tDd43sEnMexSj52) | [CheongMyeong](https://open.spotify.com/artist/1Mjlf9UQiSP1iLgwMTRh4r) | [Blooming](https://open.spotify.com/album/1iw98MRy821YrNqRieHNGN) | 3:05 | 2023-03-31 | 2023-05-02 |
 | [blooming](https://open.spotify.com/track/4ZEdXvd8rWGwOArzGzXr2u) | [Kim Marie](https://open.spotify.com/artist/0dBTTLuseszs4BqgyXCrC8) | [blooming](https://open.spotify.com/album/4m6i862LBcQlLoDR5INrN3) | 3:59 | 2022-04-07 | 2022-05-12 |
 | [Blooming Days](https://open.spotify.com/track/7Ex059datTUSSOP2xo2qYN) | [Yebit](https://open.spotify.com/artist/7zdCvtTQdMCj37CuQxkyQf) | [EBS DOCUPRIME <KEEP OUT\-Women Over 60 Only> OST](https://open.spotify.com/album/5Ypy0nyL9ZLKQGiVnv3Bt4) | 3:50 | 2021-12-02 | 2022-01-11 |
@@ -978,6 +978,7 @@
 | [My Song](https://open.spotify.com/track/428XOGB2hGO7eBdWZG5c8x) | [5moon](https://open.spotify.com/artist/4akR4qv87vt6Fuqe0OuPc6) | [Twinkling Watermelon \(Original Television Soundtrack\) Pt\. 8](https://open.spotify.com/album/6cH55kGXjEjFw4VkOFkQ5w) | 4:06 | 2023-11-14 | 2024-04-04 |
 | [My Star](https://open.spotify.com/track/2qj8n1VGiuNS7vY5JXsmIb) | [by me](https://open.spotify.com/artist/7ruuBEYQ0TXTogOAdNsNif) | [My Star](https://open.spotify.com/album/0RQu5BjIJOl5MsZAOLnAkY) | 4:24 | 2022-02-17 | 2022-03-18 |
 | [My Summer](https://open.spotify.com/track/5JsgMnafrLb2yxtbohFkoW) | [Sujo](https://open.spotify.com/artist/7dMT17CQ6YkJHCclJRTWx1) | [My Summer](https://open.spotify.com/album/50YN7ocXzASb61JHu7csMH) | 3:52 | 2021-12-02 | 2022-01-11 |
+| [My Truth, My Youth](https://open.spotify.com/track/4xRjgnN6HhNVydG6SZagxY) | [Samui](https://open.spotify.com/artist/0HPaAAfUL4k7xE45xXi5yb) | [My Truth, My Youth](https://open.spotify.com/album/7CTUEw0LD0McdZRj0GExsF) | 3:26 | 2026-11-26 |  |
 | [My You, My Star](https://open.spotify.com/track/13WsbTTgosaevWNxZC9ryG) | [Nam Saera](https://open.spotify.com/artist/5U37QbWZ7EvVfD7EGpMC9t) | [Love Interference 2023 \(Original Television Soundtrack\), Pt\. 2](https://open.spotify.com/album/3o99FUu2LCEaRAQ7qOPZE7) | 3:42 | 2023-01-30 | 2023-02-09 |
 | [My Youth](https://open.spotify.com/track/2O8pQEw1iv65v9Rqqs494T) | [THE SOLUTIONS](https://open.spotify.com/artist/5fwYrHN92VR90PJQ11ybJ8) | [TIME](https://open.spotify.com/album/6hTGLdEK5YkDInHmItiQQf) | 3:47 | 2022-03-17 | 2022-04-21 |
 | [Naksan Park](https://open.spotify.com/track/48xtAdnr3wrZoFbTIyiFe6) | [COCONA](https://open.spotify.com/artist/5UukZH6jYHqTwLSSWGj7FN) | [Naksan Park](https://open.spotify.com/album/7G3tBOCWksNcNucngkE04Q) | 2:28 | 2022-06-09 | 2022-06-19 |

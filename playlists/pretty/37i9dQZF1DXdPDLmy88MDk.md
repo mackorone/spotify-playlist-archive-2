@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdPDLmy88MDk.md) - [plain]
 
 > Gentle instrumental tunes.
 
-[Spotify](https://open.spotify.com/user/spotify) - 267,523 likes - 124 songs - 7 hr 2 min
+[Spotify](https://open.spotify.com/user/spotify) - 267,541 likes - 124 songs - 7 hr 2 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -13,9 +13,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdPDLmy88MDk.md) - [plain]
 | 3 | [The Swan \- Reimagined](https://open.spotify.com/track/5WqQsbo40ZJU514i4qaS7Y) | [Camille Saint\-Saëns](https://open.spotify.com/artist/436sYg6CZhNefQJogaXeK0), [Verwey](https://open.spotify.com/artist/4ol6DQyE3YPC6XGrgkq5Nb) | [The Swan \- Reimagined](https://open.spotify.com/album/2tCcEfhsCr2jO7mXMGLAES) | 2:46 |
 | 4 | [Manhattan Sunrise](https://open.spotify.com/track/7jT28bNawgEskE8tDLEBbd) | [Ola Gjeilo](https://open.spotify.com/artist/29lbSb4ujaVH5pHnQjFT0G) | [Gjeilo: Manhattan Sunrise](https://open.spotify.com/album/0N8AvE66Yxl0NLaqx6vcDl) | 3:38 |
 | 5 | [the color of the sky \- solo piano](https://open.spotify.com/track/06UlQEupfklesVD0OB2N87) | [Chad Lawson](https://open.spotify.com/artist/72uoxerTvAd7x3cbfYmNc8) | [the color of the sky \(solo piano\)](https://open.spotify.com/album/5CwNs4a2hBPimKHRvb6rM0) | 3:43 |
-| 6 | [Loom \- Sunrise Session II](https://open.spotify.com/track/42DSWZ06VzGVzuoRwZEHHe) | [Ólafur Arnalds](https://open.spotify.com/artist/7E3BRXV9ZbCt5lQTCXMTia), [Reykjavík Orkestra](https://open.spotify.com/artist/2QNVqJUUo1JmnkDVBblSaU) | [Loom \(Sunrise Session II\)](https://open.spotify.com/album/0lCyefnvL1HqQkpXl5HjC5) | 3:46 |
-| 7 | [A Sense Of Place](https://open.spotify.com/track/1NOHpPlvaq8IFTNJrUM5pM) | [Sophie Hutchings](https://open.spotify.com/artist/54MsweggxTxlfYUbhZNIQ0) | [A Sense of Place](https://open.spotify.com/album/030MFeAMtyiGEMJMpKQQuv) | 3:15 |
-| 8 | [Future Love \- Reimagined by Pêtr Aleksänder instrumental](https://open.spotify.com/track/08ciGXj3HGPuY6jACqds83) | [Ride](https://open.spotify.com/artist/0WPY9nnBy01s5QOt4o4oQX), [Pêtr Aleksänder](https://open.spotify.com/artist/6NXrsSyjmxtUrYh3kaAexZ) | [Clouds In The Mirror \(This Is Not A Safe Place reimagined by Pêtr Aleksänder\) \[Instrumental version\]](https://open.spotify.com/album/1ZreFzgLIQfsdYsn9fA01c) | 3:03 |
+| 6 | [Future Love \- Reimagined by Pêtr Aleksänder instrumental](https://open.spotify.com/track/08ciGXj3HGPuY6jACqds83) | [Ride](https://open.spotify.com/artist/0WPY9nnBy01s5QOt4o4oQX), [Pêtr Aleksänder](https://open.spotify.com/artist/6NXrsSyjmxtUrYh3kaAexZ) | [Clouds In The Mirror \(This Is Not A Safe Place reimagined by Pêtr Aleksänder\) \[Instrumental version\]](https://open.spotify.com/album/1ZreFzgLIQfsdYsn9fA01c) | 3:03 |
+| 7 | [Loom \- Sunrise Session II](https://open.spotify.com/track/42DSWZ06VzGVzuoRwZEHHe) | [Ólafur Arnalds](https://open.spotify.com/artist/7E3BRXV9ZbCt5lQTCXMTia), [Reykjavík Orkestra](https://open.spotify.com/artist/2QNVqJUUo1JmnkDVBblSaU) | [Loom \(Sunrise Session II\)](https://open.spotify.com/album/0lCyefnvL1HqQkpXl5HjC5) | 3:46 |
+| 8 | [A Sense Of Place](https://open.spotify.com/track/1NOHpPlvaq8IFTNJrUM5pM) | [Sophie Hutchings](https://open.spotify.com/artist/54MsweggxTxlfYUbhZNIQ0) | [A Sense of Place](https://open.spotify.com/album/030MFeAMtyiGEMJMpKQQuv) | 3:15 |
 | 9 | [Mozart Romance Variation \(After Piano Concerto No\. 20, K\. 466: II\. Romance\)](https://open.spotify.com/track/2rwPn9ique4d3X3qYb9gDA) | [Wolfgang Amadeus Mozart](https://open.spotify.com/artist/4NJhFmfw43RLBLjQvxDuRS), [Jan\-Peter Klöpfel](https://open.spotify.com/artist/7fpQh1lgdWnKPcAVJHsl4h), [Gabriele Bagnati](https://open.spotify.com/artist/0OG7Jsxh29ESIeAHlElBOj) | [Mozart Romance Variation \(After Piano Concerto No\. 20, K\. 466: II\. Romance\)](https://open.spotify.com/album/7tNgEgRXdmVWqYRKZ90Tc4) | 1:46 |
 | 10 | [Cinema Paradiso \(From "Cinema Paradiso"\) \- Symphonic](https://open.spotify.com/track/10oscnPKtlQcFOdDousYKG) | [Café del Mundo](https://open.spotify.com/artist/6Vaar3GSj3czeE9EtOrKUJ), [Deutsches Filmorchester Babelsberg](https://open.spotify.com/artist/3gGJa6qH96mfOdii1Wzuir) | [Cinema Paradiso \(From "Cinema Paradiso"\) \[Symphonic\]](https://open.spotify.com/album/5CgnI2Bh9ZzqAUV7CNKDPM) | 4:21 |
 | 11 | [The Poetry of Earth \(Geophony\) \- Edit](https://open.spotify.com/track/3dQ6KNl8to4bxJTEeAy63u) | [Max Richter](https://open.spotify.com/artist/2VZNmg4vCnew4Pavo8zDdW) | [The Poetry of Earth \(Geophony\)](https://open.spotify.com/album/3nKt5NFrSQiMuVF6XLp6ja) | 3:39 |
@@ -133,4 +133,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdPDLmy88MDk.md) - [plain]
 | 123 | [Piano Sonata No\. 9: II\. Lento](https://open.spotify.com/track/13N9Wd7JX346ZZqUwTxkwo) | [Anis Fuleihan](https://open.spotify.com/artist/5gHoKuc3ZL5JlXOXJnyP9E), [Tatiana Primak\-Khoury](https://open.spotify.com/artist/1erZzEQ3UqiP7kNDe2rQy6) | [Lebanese Piano Music](https://open.spotify.com/album/5yPsI6FtPTzRCBFjD84uaw) | 4:08 |
 | 124 | [Aria variata in A Minor, BWV 989: Var\. 10, —](https://open.spotify.com/track/4U9G8GTbNsResg1stwT3BK) | [Johann Sebastian Bach](https://open.spotify.com/artist/5aIqB5nVVvmFsvSdExz408), [Tamara Stefanovich](https://open.spotify.com/artist/3j715uRkAjPRwIvUB7ruMC) | [Influences](https://open.spotify.com/album/4Ue2myfhYRmIcbowoQCAnY) | 2:32 |
 
-Snapshot ID: `AAAAAPAuziZu9p6ZJUMwMOuGr2l6BgKD`
+Snapshot ID: `AAAAAC3SEmy/DLPmLRsSrL3g0xaj7Xmx`

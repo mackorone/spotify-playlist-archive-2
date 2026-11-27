@@ -419,6 +419,28 @@
     },
     {
       "album": {
+        "name": "7 E MIEZZ",
+        "url": "https://open.spotify.com/album/75qFQ4fPzBxXqHuiRo68gM"
+      },
+      "artists": [
+        {
+          "name": "El Chapo Junior",
+          "url": "https://open.spotify.com/artist/1fWDYRSANxGCdDew83u6Wc"
+        },
+        {
+          "name": "EMDI",
+          "url": "https://open.spotify.com/artist/1Qa7XkZpAw9Nk2nHiQLD6S"
+        }
+      ],
+      "date_added": "2026-11-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 149332,
+      "name": "7 E MIEZZ",
+      "url": "https://open.spotify.com/track/02V0vGVhwmwEZTDdOT90ov"
+    },
+    {
+      "album": {
         "name": "7/7",
         "url": "https://open.spotify.com/album/1we0yt2pmpz84YEIboKAan"
       },
@@ -460,6 +482,32 @@
       "duration_ms": 132946,
       "name": "A FACCIA TOJ (feat. Vale Lambo)",
       "url": "https://open.spotify.com/track/768nVxtZe6YhUNSIk54E6q"
+    },
+    {
+      "album": {
+        "name": "Smokin' Hot",
+        "url": "https://open.spotify.com/album/7o76h0HGG8trlvUxWtbVRg"
+      },
+      "artists": [
+        {
+          "name": "Mumei",
+          "url": "https://open.spotify.com/artist/1RfsFDw4R7x14OT4DYudKQ"
+        },
+        {
+          "name": "Real Talk",
+          "url": "https://open.spotify.com/artist/7MeFbKQT6w9iBMLuHmzVVW"
+        },
+        {
+          "name": "Siro",
+          "url": "https://open.spotify.com/artist/5CPJnlUPexYdNg3G1OontR"
+        }
+      ],
+      "date_added": "2026-11-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 124545,
+      "name": "A FELP SOTT A FELP SOTT A FELP SOTT A FELP",
+      "url": "https://open.spotify.com/track/6s1V17sCdhorrmeA2dOv6E"
     },
     {
       "album": {
@@ -1038,6 +1086,28 @@
       "duration_ms": 176612,
       "name": "AP ROYAL",
       "url": "https://open.spotify.com/track/70S1TTDTH4F3v2I6FvphCz"
+    },
+    {
+      "album": {
+        "name": "ARIA",
+        "url": "https://open.spotify.com/album/6zGBhnzQYrvyt3NFfWv2OR"
+      },
+      "artists": [
+        {
+          "name": "Capozanarky",
+          "url": "https://open.spotify.com/artist/4L2hq3OboU70UVsqOrU6qt"
+        },
+        {
+          "name": "Paulbeatzz",
+          "url": "https://open.spotify.com/artist/6fXM11nMcMwHW9ssWL4cK5"
+        }
+      ],
+      "date_added": "2026-11-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 160000,
+      "name": "ARIA",
+      "url": "https://open.spotify.com/track/5Ir2Cy3XcGiRbO1Tvh5Byz"
     },
     {
       "album": {
@@ -3886,7 +3956,7 @@
       ],
       "date_added": "2026-11-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-27",
       "duration_ms": 127349,
       "name": "EMIRATES",
       "url": "https://open.spotify.com/track/3DV9M7xF0k14TgpwpMpllF"
@@ -4424,7 +4494,7 @@
       ],
       "date_added": "2026-10-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-27",
       "duration_ms": 149527,
       "name": "Frisk",
       "url": "https://open.spotify.com/track/1xBKzmVAD2NCUDYCciAszr"
@@ -9087,6 +9157,24 @@
     },
     {
       "album": {
+        "name": "OKKE",
+        "url": "https://open.spotify.com/album/7byn9RjeqLuDGn5RYJcvHX"
+      },
+      "artists": [
+        {
+          "name": "LM219",
+          "url": "https://open.spotify.com/artist/0SEG7Ff6V4mtPLDpR9KuEZ"
+        }
+      ],
+      "date_added": "2026-11-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 115642,
+      "name": "OKKE",
+      "url": "https://open.spotify.com/track/0pqzgfDVhRvhvWnaulgM8T"
+    },
+    {
+      "album": {
         "name": "TUTTO \u00c8 POSSIBILE",
         "url": "https://open.spotify.com/album/5EKYDOBrlVJlvMGEgdgytB"
       },
@@ -10368,7 +10456,7 @@
       ],
       "date_added": "2026-11-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-27",
       "duration_ms": 161249,
       "name": "Preghiera Pt.2",
       "url": "https://open.spotify.com/track/50D6r78bb6acvaFwKzstJs"
@@ -11762,7 +11850,7 @@
       ],
       "date_added": "2026-11-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-27",
       "duration_ms": 163590,
       "name": "SELECAO",
       "url": "https://open.spotify.com/track/2drQsnkER9rHRSWfH1td0n"

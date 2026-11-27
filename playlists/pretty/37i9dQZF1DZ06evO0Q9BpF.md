@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0Q9BpF.md) - [plain]
 
 > This is Generación 12\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 52,048 likes - 50 songs - 5 hr 29 min
+[Spotify](https://open.spotify.com/user/spotify) - 52,052 likes - 50 songs - 5 hr 29 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -21,8 +21,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0Q9BpF.md) - [plain]
 | 11 | [Blanco y Negro](https://open.spotify.com/track/2m1nDW5217YpVmoTgbuB4H) | [Vaes](https://open.spotify.com/artist/7iOw6TIHh8GcNnaAFvXyTu), [Generación 12](https://open.spotify.com/artist/1w76rpst0I6hGUgCR2B33C) | [La Luz](https://open.spotify.com/album/1XFGH2sQhe9oIJIVMjrnsN) | 3:00 |
 | 12 | [Dios Conmigo Estás](https://open.spotify.com/track/03RTnmDblfMVZReedzgVXZ) | [Generación 12](https://open.spotify.com/artist/1w76rpst0I6hGUgCR2B33C) | [Esto Es Un Avivamiento](https://open.spotify.com/album/5PEWSHeJJcpVJ62xlnhpVL) | 5:45 |
 | 13 | [Tu Reino Está Aquí \- En Vivo](https://open.spotify.com/track/4McmkkXIfdyHY6awDlbRM8) | [Generación 12](https://open.spotify.com/artist/1w76rpst0I6hGUgCR2B33C) | [Tu Reino Está Aquí \(En Vivo\)](https://open.spotify.com/album/4HCRXhbFIH2jaY45Yf9Lfk) | 5:33 |
-| 14 | [Salmo 34](https://open.spotify.com/track/6vdRyO5FAmRLECLdnznm3n) | [TWICE](https://open.spotify.com/artist/2yp6zqk49KOKKrOSSsUb75), [Generación 12](https://open.spotify.com/artist/1w76rpst0I6hGUgCR2B33C), [Johan y Sofi](https://open.spotify.com/artist/4QPzngDflVr8Qq8vRgL4qT) | [Aquí En Tu Presencia](https://open.spotify.com/album/2Gf51jWTYj7DfKmnf3JQKj) | 4:12 |
-| 15 | [Danzando](https://open.spotify.com/track/1ueo2meNJBBguUZpeY9pAh) | [Generación 12](https://open.spotify.com/artist/1w76rpst0I6hGUgCR2B33C), [Gateway Worship Español](https://open.spotify.com/artist/6CyrlDkin8EyehBeKUxcSV) | [Tu Amor No Tiene Fin](https://open.spotify.com/album/21LTaaJ43ugEWxsaA7umtb) | 5:01 |
+| 14 | [Danzando](https://open.spotify.com/track/1ueo2meNJBBguUZpeY9pAh) | [Generación 12](https://open.spotify.com/artist/1w76rpst0I6hGUgCR2B33C), [Gateway Worship Español](https://open.spotify.com/artist/6CyrlDkin8EyehBeKUxcSV) | [Tu Amor No Tiene Fin](https://open.spotify.com/album/21LTaaJ43ugEWxsaA7umtb) | 5:01 |
+| 15 | [Salmo 34](https://open.spotify.com/track/6vdRyO5FAmRLECLdnznm3n) | [TWICE](https://open.spotify.com/artist/2yp6zqk49KOKKrOSSsUb75), [Generación 12](https://open.spotify.com/artist/1w76rpst0I6hGUgCR2B33C), [Johan y Sofi](https://open.spotify.com/artist/4QPzngDflVr8Qq8vRgL4qT) | [Aquí En Tu Presencia](https://open.spotify.com/album/2Gf51jWTYj7DfKmnf3JQKj) | 4:12 |
 | 16 | [Yo Me Rindo a Él \(Si Te Tengo a Ti\)](https://open.spotify.com/track/7JVhj6oOsmPXjKz2c99zzg) | [MISSION MUSICA](https://open.spotify.com/artist/16xtOvCPk7NaeGsdrLehgw), [Generación 12](https://open.spotify.com/artist/1w76rpst0I6hGUgCR2B33C), [Daniel Calveti](https://open.spotify.com/artist/4lZXpKLxWjMDFeNmiU4H1h) | [Yo Me Rindo a Él \(Si Te Tengo a Ti\)](https://open.spotify.com/album/4SwxEpsxZpn0VMQy569y8c) | 9:24 |
 | 17 | [No Hay Nada Imposible \- En Vivo](https://open.spotify.com/track/6HKkJwCwn8dgjp7uLyMaPU) | [Generación 12](https://open.spotify.com/artist/1w76rpst0I6hGUgCR2B33C), [Edgar Aguilar](https://open.spotify.com/artist/7Mn27Z2iSFFaF4UP8UjqOG), [Johan Manjarrés](https://open.spotify.com/artist/1jsU0SifGEeNfwJyIS4qc7) | [Sana Nuestra Nación](https://open.spotify.com/album/21FcQ9b3whbOUi5m7opU4p) | 9:48 |
 | 18 | [Unidos Somos Más Fuertes](https://open.spotify.com/track/6MDqbFekDpUxzRgBOoOYwo) | [Generación 12](https://open.spotify.com/artist/1w76rpst0I6hGUgCR2B33C), [Jay Kalyl](https://open.spotify.com/artist/0sHeKC0Zcxpz4wOHHE5oJ7) | [Esto Es Un Avivamiento](https://open.spotify.com/album/5PEWSHeJJcpVJ62xlnhpVL) | 4:16 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0Q9BpF.md) - [plain]
 | 49 | [Cantar de Tu Amor \- En Vivo](https://open.spotify.com/track/1x6LGbZbGFm8PYl8QDuVC1) | [Generación 12](https://open.spotify.com/artist/1w76rpst0I6hGUgCR2B33C), [Lead](https://open.spotify.com/artist/5pyTY6jmdDNfKmmlo92Vfd), [Daniela Quintero](https://open.spotify.com/artist/3Oiu7Wp2lqFqkoRkcZCcWi), [Johan Manjarrés](https://open.spotify.com/artist/1jsU0SifGEeNfwJyIS4qc7), [Sofía Mancipe](https://open.spotify.com/artist/13JxTQpXz8TBhXjOjYDioQ) | [Obra de Tu Amor](https://open.spotify.com/album/6XYbEcqn7QcbLlJbfwdbS2) | 4:36 |
 | 50 | [Encuentro Glorioso](https://open.spotify.com/track/1J8nUS0I6OiW54SG4syUzO) | [Generación 12](https://open.spotify.com/artist/1w76rpst0I6hGUgCR2B33C), [Fernando Ramos](https://open.spotify.com/artist/5MJzy9qF9CL7CWapio7IPv), [Johan Manjarrés](https://open.spotify.com/artist/1jsU0SifGEeNfwJyIS4qc7) | [Mientras Viva \(En Vivo Desde Sudamérica\)](https://open.spotify.com/album/509ue0LQK7UVQieiDCFky2) | 5:49 |
 
-Snapshot ID: `awOCAAAAAADhDqe7b109Pq6rSdRKtQ8E`
+Snapshot ID: `awYlAAAAAABY0Nd5cyuboJ1ZBHlsWlY4`

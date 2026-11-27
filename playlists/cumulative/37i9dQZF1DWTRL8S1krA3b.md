@@ -4,7 +4,7 @@
 
 > This year's new country holiday songs! Cover: Ingrid Andress
 
-322 songs - 17 hr 18 min
+325 songs - 17 hr 29 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -127,10 +127,12 @@
 | [Hot Pink Christmas](https://open.spotify.com/track/1RQWYbbVJCsQErc09l3VVQ) | [Tanner Adell](https://open.spotify.com/artist/5xKVALj2MSqOHmQhburCM8) | [Hot Pink Christmas](https://open.spotify.com/album/2LIjyzfiw867GA7EJ477ZT) | 2:36 | 2023-11-24 | 2024-10-19 |
 | [Hurry Up Christmas](https://open.spotify.com/track/4bEAALwyWpypPXSG85C9I7) | [HunterGirl](https://open.spotify.com/artist/44kkhQvtgI931bffRbSrMm) | [Hurry Up Christmas](https://open.spotify.com/album/6f0xVeaoyY2X0mbjhJ60Ej) | 2:47 | 2023-12-22 | 2024-10-19 |
 | [Hurry Up Christmas](https://open.spotify.com/track/5xSMrP8c9doImUxajUi882) | [HunterGirl](https://open.spotify.com/artist/44kkhQvtgI931bffRbSrMm) | [Hurry Up Christmas](https://open.spotify.com/album/1fLwyTyXwRYx387gZLPJx9) | 2:47 | 2023-11-24 | 2024-04-19 |
+| [I Hate Christmas](https://open.spotify.com/track/1HFWW9XofvJpwBIHImqJpD) | [Kylie Morgan](https://open.spotify.com/artist/3g2yaL04Uapb5fxmwsUZgV) | [I Hate Christmas](https://open.spotify.com/album/2I6tQXBGSieGrq5zDIEdgj) | 2:26 | 2026-11-27 |  |
 | [I Hate The Holidays](https://open.spotify.com/track/7qpeNNnmo5oUvW0XGVIYR6) | [Sam Williams](https://open.spotify.com/artist/4cwkbiVtJw6GUOka2ZFZqz) | [I Hate The Holidays](https://open.spotify.com/album/2giouTHLLZuLiPrC4TVDRY) | 3:19 | 2023-11-24 | 2024-10-19 |
 | [I Saw Mommy Kissing Santa Claus \(feat\. Vivianne Decker, Eric Decker II, Forrest Decker\)](https://open.spotify.com/track/3hz0J4UVZIqz6P06UE6LRu) | [Jessie James Decker](https://open.spotify.com/artist/0GzIauSfKRc5BlNXpTWAGz), [Eric Decker II](https://open.spotify.com/artist/0N8GlhymdZ0TyprN2xlDZU), [Forrest Decker](https://open.spotify.com/artist/75R6iL39fxQihNdPo1G18T), [Vivianne Decker](https://open.spotify.com/artist/2YOYCJsRiG4WvC7KpjrcUV) | [Decker The Halls](https://open.spotify.com/album/7nKkIzrIeKcUjHCM27w4Ep) | 3:01 | 2023-11-24 | 2024-10-19 |
 | [I Want a Massey Ferguson for Christmas](https://open.spotify.com/track/7kQBtVQz6XYLoXlpH1fxWD) | [Brett Kissel](https://open.spotify.com/artist/6VOaUBrKfzd49nIAzjVKmm) | [I Want a Massey Ferguson for Christmas](https://open.spotify.com/album/5WkUk0rR0lrZ0Sh4tPaVid) | 2:42 | 2023-11-24 | 2024-10-19 |
 | [I'll Be Home For Christmas](https://open.spotify.com/track/0R6zcgvV4ysqWeE1dmL5N8) | [Brandy Clark](https://open.spotify.com/artist/5vMAKlvvMNSRQRYCAvpG6S) | [My Favorite Christmas / I'll Be Home For Christmas](https://open.spotify.com/album/33xlOJnpWnSJZpEhPs1Rav) | 2:49 | 2023-11-24 | 2024-10-19 |
+| [I'll Be Home For Christmas](https://open.spotify.com/track/7wJaDvOE3wdzGAUIpUqZNb) | [Colton Dawson](https://open.spotify.com/artist/6JlJsYnStS2L1D06mgFHjg) | [I'll Be Home For Christmas](https://open.spotify.com/album/04j1nAJ91R6zfLr0Ha8DZH) | 5:36 | 2026-11-27 |  |
 | [I'll Be Home for Christmas](https://open.spotify.com/track/7zNeDg8NYqlYTZZIvQN4SA) | [David Nail](https://open.spotify.com/artist/4DZGvSv2oMkBUnPz67E6z6) | [I'll Be Home for Christmas](https://open.spotify.com/album/2uNtbFRwfyGWcAfA0mq6j5) | 2:28 | 2024-10-18 | 2025-11-08 |
 | [I'll Be Home For Christmas](https://open.spotify.com/track/1GjuT0FXHHve3t5CzqU9Wd) | [Gabby Barrett](https://open.spotify.com/artist/6Iz3eq2aQGFf7TbGT2iahL) | [I'll Be Home For Christmas](https://open.spotify.com/album/3obmcueQA0HPnQcUmYykic) | 3:20 | 2024-10-25 | 2025-11-08 |
 | [I'll Be Home For Christmas](https://open.spotify.com/track/6qHC7PTkjgIZiFqCCLGPE3) | [Max McNown](https://open.spotify.com/artist/340PS4ZcZ4UCBgyrXzEjcp) | [I'll Be Home For Christmas](https://open.spotify.com/album/70qzmIrJAfu3CLjEEg8k0m) | 3:21 | 2024-11-01 | 2025-11-08 |
@@ -327,6 +329,7 @@
 | [Wouldn’t Be Christmas](https://open.spotify.com/track/5GV4Vgimh8KiSf5UsW5W9o) | [Lady A](https://open.spotify.com/artist/32WkQRZEVKSzVAAYqukAEA) | [On This Winter's Night \(Volume 2\)](https://open.spotify.com/album/2b36acHD0MJvIT82Zoc6tV) | 3:26 | 2025-09-26 | 2026-11-14 |
 | [Wrap You Up](https://open.spotify.com/track/3kpk1EOVsnZIID0Bfgf1Za) | [Brandon Davis](https://open.spotify.com/artist/4qdsGbPO1JC8iXFo62qcNV) | [Silverado Santa](https://open.spotify.com/album/54kXDXgK0dhdxRa8MHHDzp) | 3:53 | 2023-11-24 | 2024-10-19 |
 | [wrapped](https://open.spotify.com/track/4P9G6gHP2NnNXhwDA3qVuB) | [Ashley Cooke](https://open.spotify.com/artist/2qwXeRk8VBAegbUnf3xdyi) | [wrapped](https://open.spotify.com/album/0I8rdVH8xmtoNLSs5wfuG4) | 2:50 | 2026-10-16 |  |
+| [X in Christmas](https://open.spotify.com/track/6CZryVIiTm7MWY9uvhbtiI) | [Jenna Davis](https://open.spotify.com/artist/6oXQgzqvbeAem9kPX0pXnD) | [X in Christmas](https://open.spotify.com/album/7mg2SZPQ3HeWVOSouGxuwl) | 3:14 | 2026-11-27 |  |
 | [You and Me and Christmas](https://open.spotify.com/track/7JLIUosTKUWT5UWBlxUylt) | [LeAnn Rimes](https://open.spotify.com/artist/2d3VHzlOEwXvmBdS4pzOPL) | [It's Christmas, Eve \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/3AKlrhnIEBP30JVMGyustQ) | 2:41 | 2025-11-07 | 2026-11-14 |
 | [You Make It Feel Like Christmas \(feat\. Austin Snell\)](https://open.spotify.com/track/4WGnSdV3IUnIG2p4Pgn23F) | [Jordyn Shellhart](https://open.spotify.com/artist/4KKlcB7shlFTD98I5JNSuE), [Austin Snell](https://open.spotify.com/artist/6Hd5hSFd33CfhMqtG3fjtx) | [Cross\-Legged By The Fireplace](https://open.spotify.com/album/1y666doEpQiMtIYBo8Tzgi) | 3:06 | 2023-12-01 | 2024-10-19 |
 | [Your Angel](https://open.spotify.com/track/2xsvVZh9rVMVZgHWbtU9On) | [Kassi Ashton](https://open.spotify.com/artist/1LCsAfmP4l13EYtzDaLMAg) | [Your Angel](https://open.spotify.com/album/6WJc7BvF7RDjLPWETP1c2V) | 3:34 | 2024-11-01 | 2025-11-08 |

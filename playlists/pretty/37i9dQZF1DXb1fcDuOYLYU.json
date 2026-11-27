@@ -191,22 +191,6 @@
     {
       "added_at": "2026-10-02 04:02:33",
       "album": {
-        "name": "D\u00e9jenme Llorar",
-        "url": "https://open.spotify.com/album/3PMiqyeyog96N8A8GpDVJY"
-      },
-      "artists": [
-        {
-          "name": "Carla Morrison",
-          "url": "https://open.spotify.com/artist/0XK6kT7xcZAlcYrNjOgzJe"
-        }
-      ],
-      "duration_ms": 244973,
-      "name": "Disfruto",
-      "url": "https://open.spotify.com/track/50WkRwFR0BAo6If7GtXnA8"
-    },
-    {
-      "added_at": "2026-10-02 04:02:33",
-      "album": {
         "name": "Soltera",
         "url": "https://open.spotify.com/album/0VRb8B2ls0GDEfmKiL8FWJ"
       },
@@ -219,6 +203,22 @@
       "duration_ms": 214642,
       "name": "Soltera",
       "url": "https://open.spotify.com/track/3OJDtCdYs8QJnui708tEU3"
+    },
+    {
+      "added_at": "2026-10-02 04:02:33",
+      "album": {
+        "name": "D\u00e9jenme Llorar",
+        "url": "https://open.spotify.com/album/3PMiqyeyog96N8A8GpDVJY"
+      },
+      "artists": [
+        {
+          "name": "Carla Morrison",
+          "url": "https://open.spotify.com/artist/0XK6kT7xcZAlcYrNjOgzJe"
+        }
+      ],
+      "duration_ms": 244973,
+      "name": "Disfruto",
+      "url": "https://open.spotify.com/track/50WkRwFR0BAo6If7GtXnA8"
     },
     {
       "added_at": "2026-10-02 04:02:33",
@@ -383,22 +383,6 @@
     {
       "added_at": "2026-10-02 04:02:33",
       "album": {
-        "name": "Si",
-        "url": "https://open.spotify.com/album/3pNoZEMsLO0HZygvwaXANB"
-      },
-      "artists": [
-        {
-          "name": "Julieta Venegas",
-          "url": "https://open.spotify.com/artist/2QWIScpFDNxmS6ZEMIUvgm"
-        }
-      ],
-      "duration_ms": 239226,
-      "name": "Lento",
-      "url": "https://open.spotify.com/track/2NsMwNWumJXCdTg2IZCLZ5"
-    },
-    {
-      "added_at": "2026-10-02 04:02:33",
-      "album": {
         "name": "Paulina",
         "url": "https://open.spotify.com/album/64M45unRUhuzlOYth6w5HB"
       },
@@ -411,6 +395,22 @@
       "duration_ms": 224640,
       "name": "Yo No Soy Esa Mujer",
       "url": "https://open.spotify.com/track/0JAGODD5w6MeYQzA9lV6Zm"
+    },
+    {
+      "added_at": "2026-10-02 04:02:33",
+      "album": {
+        "name": "Si",
+        "url": "https://open.spotify.com/album/3pNoZEMsLO0HZygvwaXANB"
+      },
+      "artists": [
+        {
+          "name": "Julieta Venegas",
+          "url": "https://open.spotify.com/artist/2QWIScpFDNxmS6ZEMIUvgm"
+        }
+      ],
+      "duration_ms": 239226,
+      "name": "Lento",
+      "url": "https://open.spotify.com/track/2NsMwNWumJXCdTg2IZCLZ5"
     },
     {
       "added_at": "2026-10-02 04:02:33",
@@ -479,6 +479,22 @@
     {
       "added_at": "2026-10-02 04:02:33",
       "album": {
+        "name": "Entre A Mi Mundo",
+        "url": "https://open.spotify.com/album/02fBX9fLFfOG2v33oZo73z"
+      },
+      "artists": [
+        {
+          "name": "Selena",
+          "url": "https://open.spotify.com/artist/6IE6z7DcZIT4Ml3Fh5Ivch"
+        }
+      ],
+      "duration_ms": 186373,
+      "name": "Como La Flor",
+      "url": "https://open.spotify.com/track/0gatssZ0J7pMAlvFCGZZGH"
+    },
+    {
+      "added_at": "2026-10-02 04:02:33",
+      "album": {
         "name": "Cupido",
         "url": "https://open.spotify.com/album/3HWlgRjxW0H7fWm1n2LBbE"
       },
@@ -495,22 +511,6 @@
       "duration_ms": 165275,
       "name": "Mi\u00e9nteme",
       "url": "https://open.spotify.com/track/6ebo7CQn4ILLGvXRmXHhQz"
-    },
-    {
-      "added_at": "2026-10-02 04:02:33",
-      "album": {
-        "name": "Entre A Mi Mundo",
-        "url": "https://open.spotify.com/album/02fBX9fLFfOG2v33oZo73z"
-      },
-      "artists": [
-        {
-          "name": "Selena",
-          "url": "https://open.spotify.com/artist/6IE6z7DcZIT4Ml3Fh5Ivch"
-        }
-      ],
-      "duration_ms": 186373,
-      "name": "Como La Flor",
-      "url": "https://open.spotify.com/track/0gatssZ0J7pMAlvFCGZZGH"
     },
     {
       "added_at": "2026-10-02 04:02:33",
@@ -927,22 +927,6 @@
     {
       "added_at": "2026-10-02 04:02:33",
       "album": {
-        "name": "BARAJA BENDITA",
-        "url": "https://open.spotify.com/album/1B8QJFOcpBeycykDaWttDY"
-      },
-      "artists": [
-        {
-          "name": "Becky G",
-          "url": "https://open.spotify.com/artist/4obzFoKoKRHIphyHzJ35G3"
-        }
-      ],
-      "duration_ms": 127740,
-      "name": "CHULA",
-      "url": "https://open.spotify.com/track/4SEQheyYUhSyCoOHvDdkla"
-    },
-    {
-      "added_at": "2026-10-02 04:02:33",
-      "album": {
         "name": "BESITO",
         "url": "https://open.spotify.com/album/43WGkYXN5ZQE3i8wvk7qqa"
       },
@@ -955,6 +939,22 @@
       "duration_ms": 179720,
       "name": "BESITO",
       "url": "https://open.spotify.com/track/389oMzXEijK20cCw6pFfYl"
+    },
+    {
+      "added_at": "2026-10-02 04:02:33",
+      "album": {
+        "name": "BARAJA BENDITA",
+        "url": "https://open.spotify.com/album/1B8QJFOcpBeycykDaWttDY"
+      },
+      "artists": [
+        {
+          "name": "Becky G",
+          "url": "https://open.spotify.com/artist/4obzFoKoKRHIphyHzJ35G3"
+        }
+      ],
+      "duration_ms": 127740,
+      "name": "CHULA",
+      "url": "https://open.spotify.com/track/4SEQheyYUhSyCoOHvDdkla"
     },
     {
       "added_at": "2026-10-02 04:02:33",
@@ -1447,6 +1447,22 @@
     {
       "added_at": "2026-10-02 04:02:33",
       "album": {
+        "name": "Easy Love",
+        "url": "https://open.spotify.com/album/3XLOBz1zhjbYgY5HQgQXum"
+      },
+      "artists": [
+        {
+          "name": "ISADORA",
+          "url": "https://open.spotify.com/artist/3y581XbiJyiM9Y0HBoZk8C"
+        }
+      ],
+      "duration_ms": 179702,
+      "name": "Easy Love",
+      "url": "https://open.spotify.com/track/40XRlswBO92cdV7jS7VqIA"
+    },
+    {
+      "added_at": "2026-10-02 04:02:33",
+      "album": {
         "name": "Spotify Anniversary | Oral Fixation (20th) and Pies Descalzos (30th) LIVE",
         "url": "https://open.spotify.com/album/3MPdhBdbgE1pNvIANARIfL"
       },
@@ -1475,22 +1491,6 @@
       "duration_ms": 178874,
       "name": "ya no estoy",
       "url": "https://open.spotify.com/track/0tuhaH4P3jVSCTdV070tig"
-    },
-    {
-      "added_at": "2026-10-02 04:02:33",
-      "album": {
-        "name": "Easy Love",
-        "url": "https://open.spotify.com/album/3XLOBz1zhjbYgY5HQgQXum"
-      },
-      "artists": [
-        {
-          "name": "ISADORA",
-          "url": "https://open.spotify.com/artist/3y581XbiJyiM9Y0HBoZk8C"
-        }
-      ],
-      "duration_ms": 179702,
-      "name": "Easy Love",
-      "url": "https://open.spotify.com/track/40XRlswBO92cdV7jS7VqIA"
     },
     {
       "added_at": "2026-10-02 04:02:33",
@@ -1527,22 +1527,6 @@
     {
       "added_at": "2026-10-02 04:02:33",
       "album": {
-        "name": "LOS CISNES",
-        "url": "https://open.spotify.com/album/557XWOuNRadtqs2rByxVuk"
-      },
-      "artists": [
-        {
-          "name": "Melanie Santiler",
-          "url": "https://open.spotify.com/artist/1ZN9ReUi4VKQjhzQDVV3Zk"
-        }
-      ],
-      "duration_ms": 177215,
-      "name": "CARI\u00d1O",
-      "url": "https://open.spotify.com/track/6GR5SpN5QMumyDgmaGjecM"
-    },
-    {
-      "added_at": "2026-10-02 04:02:33",
-      "album": {
         "name": "Alma Caribe\u00f1a",
         "url": "https://open.spotify.com/album/5JE7TvLrx9uwR1rHLPEyo9"
       },
@@ -1555,6 +1539,22 @@
       "duration_ms": 267973,
       "name": "Como Me Duele Perderte",
       "url": "https://open.spotify.com/track/2NvsxLwEnF3FtJJsdhkdmq"
+    },
+    {
+      "added_at": "2026-10-02 04:02:33",
+      "album": {
+        "name": "LOS CISNES",
+        "url": "https://open.spotify.com/album/557XWOuNRadtqs2rByxVuk"
+      },
+      "artists": [
+        {
+          "name": "Melanie Santiler",
+          "url": "https://open.spotify.com/artist/1ZN9ReUi4VKQjhzQDVV3Zk"
+        }
+      ],
+      "duration_ms": 177215,
+      "name": "CARI\u00d1O",
+      "url": "https://open.spotify.com/track/6GR5SpN5QMumyDgmaGjecM"
     },
     {
       "added_at": "2026-10-02 04:02:33",

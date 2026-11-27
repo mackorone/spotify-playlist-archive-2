@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0ENBD2.md) - [plain]
 
 > This is Queen\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 4,991,395 likes - 50 songs - 3 hr 22 min
+[Spotify](https://open.spotify.com/user/spotify) - 4,991,447 likes - 50 songs - 3 hr 22 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -30,8 +30,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0ENBD2.md) - [plain]
 | 20 | [Don't Stop Me Now \- ...Revisited](https://open.spotify.com/track/2JmZGZMlDu90ngd74T05Ue) | [Queen](https://open.spotify.com/artist/1dfeR4HaWDbWqFHLkxsg1d) | [Bohemian Rhapsody \(The Original Soundtrack\)](https://open.spotify.com/album/69RZR37WFgxDDdfxAPz9pk) | 3:37 |
 | 21 | [I Want It All \- Single Version](https://open.spotify.com/track/4w79VLgle2eoaAsstdpXAq) | [Queen](https://open.spotify.com/artist/1dfeR4HaWDbWqFHLkxsg1d) | [The Miracle \(Collector's Edition\)](https://open.spotify.com/album/32SCJ9cqSEVHczInhCCwPs) | 4:01 |
 | 22 | [Who Wants To Live Forever](https://open.spotify.com/track/3bmh7WhduQpPW7fwg6Uv8Y) | [Queen](https://open.spotify.com/artist/1dfeR4HaWDbWqFHLkxsg1d) | [Greatest Hits II](https://open.spotify.com/album/36ezh7pwcktRIhXmL2AFhp) | 4:57 |
-| 23 | [Too Much Love Will Kill You](https://open.spotify.com/track/3wFwjn2xygzaQfDlcui9w4) | [Queen](https://open.spotify.com/artist/1dfeR4HaWDbWqFHLkxsg1d) | [Made In Heaven \(Deluxe Edition\)](https://open.spotify.com/album/4WHZOrekAUoBMQaajTIglO) | 4:20 |
-| 24 | [These Are The Days Of Our Lives](https://open.spotify.com/track/1CLSAkvROchcKnY0iR34ya) | [Queen](https://open.spotify.com/artist/1dfeR4HaWDbWqFHLkxsg1d) | [Innuendo](https://open.spotify.com/album/0CNfnxzURJtjzeyELCBfvj) | 4:15 |
+| 23 | [These Are The Days Of Our Lives](https://open.spotify.com/track/1CLSAkvROchcKnY0iR34ya) | [Queen](https://open.spotify.com/artist/1dfeR4HaWDbWqFHLkxsg1d) | [Innuendo](https://open.spotify.com/album/0CNfnxzURJtjzeyELCBfvj) | 4:15 |
+| 24 | [Too Much Love Will Kill You](https://open.spotify.com/track/3wFwjn2xygzaQfDlcui9w4) | [Queen](https://open.spotify.com/artist/1dfeR4HaWDbWqFHLkxsg1d) | [Made In Heaven \(Deluxe Edition\)](https://open.spotify.com/album/4WHZOrekAUoBMQaajTIglO) | 4:20 |
 | 25 | [Radio Ga Ga \- Live Aid](https://open.spotify.com/track/0ng0si11RnlaCl5y8UKTWg) | [Queen](https://open.spotify.com/artist/1dfeR4HaWDbWqFHLkxsg1d) | [Bohemian Rhapsody \(The Original Soundtrack\)](https://open.spotify.com/album/69RZR37WFgxDDdfxAPz9pk) | 4:05 |
 | 26 | [Hammer To Fall](https://open.spotify.com/track/1OuuQNfGJ0KwD4KUJ7tuzj) | [Queen](https://open.spotify.com/artist/1dfeR4HaWDbWqFHLkxsg1d) | [Greatest Hits II](https://open.spotify.com/album/36ezh7pwcktRIhXmL2AFhp) | 3:40 |
 | 27 | [Friends Will Be Friends](https://open.spotify.com/track/11fDQmW6T3zyX6OEKKF11O) | [Queen](https://open.spotify.com/artist/1dfeR4HaWDbWqFHLkxsg1d) | [A Kind Of Magic \(Deluxe Edition\)](https://open.spotify.com/album/3gAVJcYGZD5Jm8YaWOkSrZ) | 4:12 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0ENBD2.md) - [plain]
 | 49 | [Keep Yourself Alive](https://open.spotify.com/track/4DU4NgVlTkdS9Ce9o8lsZ6) | [Queen](https://open.spotify.com/artist/1dfeR4HaWDbWqFHLkxsg1d) | [Queen \(Deluxe Edition\)](https://open.spotify.com/album/16br4ndsgOTnBQTjV0W5aB) | 3:46 |
 | 50 | [Who Wants to Live Forever \- Live in Budapest](https://open.spotify.com/track/0FpvhhU3bfAtjx7gFv0GOi) | [Queen](https://open.spotify.com/artist/1dfeR4HaWDbWqFHLkxsg1d) | [Who Wants to Live Forever \(Live in Budapest\)](https://open.spotify.com/album/1phOF1iJfhjm64XX3P6Vny) | 3:59 |
 
-Snapshot ID: `awOCAAAAAABgxSb22zEdmncuj8DKskVG`
+Snapshot ID: `awYlAAAAAADER9/kjePnmzNE4+0uoEE/`

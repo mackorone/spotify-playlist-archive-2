@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-05-13",
-  "description": "\u0643\u0644 \u0645\u0627 \u0647\u0648 \u062c\u062f\u064a\u062f \u0641\u064a \u0639\u0627\u0644\u0645 \u0627\u0644\u0628\u0648\u0628 \u0627\u0644\u0645\u0635\u0631\u064a. \u0627\u0644\u063a\u0644\u0627\u0641: \u0633\u0645\u064a\u0631\u0629 \u0633\u0639\u064a\u062f",
+  "description": "\u0643\u0644 \u0645\u0627 \u0647\u0648 \u062c\u062f\u064a\u062f \u0641\u064a \u0639\u0627\u0644\u0645 \u0627\u0644\u0628\u0648\u0628 \u0627\u0644\u0645\u0635\u0631\u064a. \u0627\u0644\u063a\u0644\u0627\u0641: \u0646\u0628\u064a\u0644",
   "name": "\u0628\u0648\u0628 \u062c\u062f\u064a\u062f",
   "tracks": [
     {
@@ -2337,6 +2337,24 @@
     },
     {
       "album": {
+        "name": "Ela Olele",
+        "url": "https://open.spotify.com/album/2S1FPToDJoC0ewkTcxnflc"
+      },
+      "artists": [
+        {
+          "name": "Mohamed Hamaki",
+          "url": "https://open.spotify.com/artist/6bb9VI1PpPTEmdgcgjTppX"
+        }
+      ],
+      "date_added": "2026-11-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 236440,
+      "name": "Ela Olele",
+      "url": "https://open.spotify.com/track/1dbKnH4KAS7RTMUbaFkn8q"
+    },
+    {
+      "album": {
         "name": "Elhob W Bass",
         "url": "https://open.spotify.com/album/3aSlIC2iDpGkBqQ9a10CnG"
       },
@@ -2442,6 +2460,24 @@
       "duration_ms": 208760,
       "name": "Ensan 2ali",
       "url": "https://open.spotify.com/track/0jmsuGduZnn5wE5LBfTQB1"
+    },
+    {
+      "album": {
+        "name": "Ensani",
+        "url": "https://open.spotify.com/album/2JbMH3DbUbgs9jO8oyJVRr"
+      },
+      "artists": [
+        {
+          "name": "Nabil",
+          "url": "https://open.spotify.com/artist/4Rl8onVZp4QFiYARW298WD"
+        }
+      ],
+      "date_added": "2026-11-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 194310,
+      "name": "Ensani",
+      "url": "https://open.spotify.com/track/6D8YV0zoG5a8QLS7Lu42Uy"
     },
     {
       "album": {
@@ -5839,6 +5875,24 @@
     },
     {
       "album": {
+        "name": "Sarhana",
+        "url": "https://open.spotify.com/album/74cgsNN9yOEwL5DZwTUm8h"
+      },
+      "artists": [
+        {
+          "name": "Sandy",
+          "url": "https://open.spotify.com/artist/2YvRrakSWfzyWwv8JCeeC5"
+        }
+      ],
+      "date_added": "2026-11-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 200605,
+      "name": "Sarhana",
+      "url": "https://open.spotify.com/track/3g3mXiaHPwUvmTQz7xnIZ3"
+    },
+    {
+      "album": {
         "name": "Sayed Alaqareb Intro",
         "url": "https://open.spotify.com/album/5WeNZAlFYcfNiVywGQWzMz"
       },
@@ -7573,6 +7627,24 @@
     },
     {
       "album": {
+        "name": "\u0623\u062d\u0644\u0627\u0645 \u0645\u0627 \u062a\u062d\u0642\u0642\u062a\u0634",
+        "url": "https://open.spotify.com/album/5ulb57VEcynop87Fgp6l7z"
+      },
+      "artists": [
+        {
+          "name": "Maha Ftouni",
+          "url": "https://open.spotify.com/artist/2alZWWB8btL8F9NCeoR1Xn"
+        }
+      ],
+      "date_added": "2026-11-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 225000,
+      "name": "\u0623\u062d\u0644\u0627\u0645 \u0645\u0627 \u062a\u062d\u0642\u0642\u062a\u0634",
+      "url": "https://open.spotify.com/track/4eX6jhQeLhbUR2tVu5h7hy"
+    },
+    {
+      "album": {
         "name": "\u0623\u0645\u0627\u0646\u0629 \u0645\u0627\u062a\u0645\u0634\u064a\u0634",
         "url": "https://open.spotify.com/album/39wyOun2YvyHWYfpttmu6t"
       },
@@ -7714,6 +7786,28 @@
       "duration_ms": 239600,
       "name": "\u0627\u0628\u0646 \u0627\u0645\u0628\u0627\u0631\u062d",
       "url": "https://open.spotify.com/track/74zhameHOFlWAhXWTwp5GQ"
+    },
+    {
+      "album": {
+        "name": "\u0627\u0628\u0648 \u0627\u0644\u0635\u062d\u0627\u0628",
+        "url": "https://open.spotify.com/album/49jBaLPVwsWXFS07AmSR4O"
+      },
+      "artists": [
+        {
+          "name": "Loai",
+          "url": "https://open.spotify.com/artist/5OcZpV21cb8KFH7iTEnNwe"
+        },
+        {
+          "name": "Tooma",
+          "url": "https://open.spotify.com/artist/06DFi3gbAAErstJENtIa5z"
+        }
+      ],
+      "date_added": "2026-11-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 201142,
+      "name": "\u0627\u0628\u0648 \u0627\u0644\u0635\u062d\u0627\u0628",
+      "url": "https://open.spotify.com/track/0TuFI8epFFPM0K6kwLyRzv"
     },
     {
       "album": {

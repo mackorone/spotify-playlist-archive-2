@@ -199,6 +199,40 @@
     },
     {
       "album": {
+        "name": "Aquecimento Toda Hora",
+        "url": "https://open.spotify.com/album/1mlOXQNvNVYu7hs3EZX80W"
+      },
+      "artists": [
+        {
+          "name": "DENNIS",
+          "url": "https://open.spotify.com/artist/6xlRSRMLgZbsSNd0BMobwy"
+        },
+        {
+          "name": "LUDMILLA",
+          "url": "https://open.spotify.com/artist/3CDoRporvSjdzTrm99a3gi"
+        },
+        {
+          "name": "Mc Gorran",
+          "url": "https://open.spotify.com/artist/3iQV5jlUMOyIr1AOquwu4T"
+        },
+        {
+          "name": "MC Nito",
+          "url": "https://open.spotify.com/artist/0EOOwVUWdPElrXOJyKOiBw"
+        },
+        {
+          "name": "MC Marcelly",
+          "url": "https://open.spotify.com/artist/3XtuCcYVAgDABkXDLUk8BE"
+        }
+      ],
+      "date_added": "2026-11-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 148955,
+      "name": "Aquecimento Toda Hora",
+      "url": "https://open.spotify.com/track/0FmbcQltVBhEnmgZ4I9igc"
+    },
+    {
+      "album": {
         "name": "Bi Festinha",
         "url": "https://open.spotify.com/album/6ux1QRc7s8cSkHIdZdMoUN"
       },
@@ -870,7 +904,7 @@
       ],
       "date_added": "2023-10-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-27",
       "duration_ms": 301682,
       "name": "Faz uma Loucura por mim / Voc\u00ea me vira a cabe\u00e7a - Ao Vivo",
       "url": "https://open.spotify.com/track/2hy9PyCleGC4HRe5MsPwfF"

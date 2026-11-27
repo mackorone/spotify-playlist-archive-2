@@ -11301,6 +11301,24 @@
     },
     {
       "album": {
+        "name": "Patterns",
+        "url": "https://open.spotify.com/album/1CmNVddjouw94lscnuOvDp"
+      },
+      "artists": [
+        {
+          "name": "Riley Howe",
+          "url": "https://open.spotify.com/artist/2vloKEy3B9bqBKOkCewats"
+        }
+      ],
+      "date_added": "2026-11-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 146782,
+      "name": "Patterns",
+      "url": "https://open.spotify.com/track/7vYcOX1eYCiEvm0PnysCHM"
+    },
+    {
+      "album": {
         "name": "Pavanas",
         "url": "https://open.spotify.com/album/7aNculG2nCCrehRVP4N3Ya"
       },

@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2023-02-11",
-  "description": "L\u2019alternatif qu\u00e9b\u00e9cois \u00e0 plein volume. Photo: Lo\u00efc Lafrance",
+  "description": "L\u2019alternatif qu\u00e9b\u00e9cois \u00e0 plein volume. Photo: DVTR",
   "name": "ALT_QC",
   "tracks": [
     {
@@ -2018,6 +2018,24 @@
       "duration_ms": 256457,
       "name": "C'est normal",
       "url": "https://open.spotify.com/track/6BGtsJWx1z2Azuc7Y9aVgy"
+    },
+    {
+      "album": {
+        "name": "Cabaret",
+        "url": "https://open.spotify.com/album/45n7Lg3WQ6bqha9GPFIb2D"
+      },
+      "artists": [
+        {
+          "name": "Grand Public",
+          "url": "https://open.spotify.com/artist/5Ctw4xKmnbdrLyWdEA4KiO"
+        }
+      ],
+      "date_added": "2026-11-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 219409,
+      "name": "Cabaret",
+      "url": "https://open.spotify.com/track/6YcTv9ZkZJ6o7wHFNJV0x5"
     },
     {
       "album": {
@@ -6168,7 +6186,7 @@
       ],
       "date_added": "2026-10-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-27",
       "duration_ms": 270461,
       "name": "Kathleen",
       "url": "https://open.spotify.com/track/4X1GOBjOLKUc90poQMT0eX"
@@ -10095,6 +10113,24 @@
     },
     {
       "album": {
+        "name": "Queen Cong",
+        "url": "https://open.spotify.com/album/7kOcnFHtNzfTFJT9Ywr2V7"
+      },
+      "artists": [
+        {
+          "name": "DVTR",
+          "url": "https://open.spotify.com/artist/2qLPU8fMazHXW2IzNklrZF"
+        }
+      ],
+      "date_added": "2026-11-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 161032,
+      "name": "Queen Cong",
+      "url": "https://open.spotify.com/track/27l4R5mKqUiLvmgIaupN2l"
+    },
+    {
+      "album": {
         "name": "Quel ami",
         "url": "https://open.spotify.com/album/020KslK8D4Ps0dIIOlA9sB"
       },
@@ -10956,7 +10992,7 @@
       ],
       "date_added": "2026-08-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-27",
       "duration_ms": 147640,
       "name": "sex & cigarettes",
       "url": "https://open.spotify.com/track/2c0wJGVHOWxnWtsapZ7c27"

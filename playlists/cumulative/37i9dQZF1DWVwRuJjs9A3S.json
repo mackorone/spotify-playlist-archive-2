@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2024-07-02",
-  "description": "Det senaste och b\u00e4sta fr\u00e5n v\u00e4rlden av indie. Cover: Little Jinder",
+  "description": "Det senaste och b\u00e4sta fr\u00e5n v\u00e4rlden av indie. Cover: Girl Scout",
   "name": "Indie Highlights",
   "tracks": [
     {
@@ -4355,6 +4355,24 @@
     },
     {
       "album": {
+        "name": "City Zen",
+        "url": "https://open.spotify.com/album/0tF3JPXtRa1TKNabVco2Kf"
+      },
+      "artists": [
+        {
+          "name": "Double Virgo",
+          "url": "https://open.spotify.com/artist/6z7qEMTNZigz2k3qozRYw1"
+        }
+      ],
+      "date_added": "2026-11-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 287201,
+      "name": "City Zen",
+      "url": "https://open.spotify.com/track/4DwiHZHNKyd3149LYvm41v"
+    },
+    {
+      "album": {
         "name": "Clairo",
         "url": "https://open.spotify.com/album/0mWTMQVfVqE3so5uDbXHjU"
       },
@@ -4392,6 +4410,24 @@
       "duration_ms": 185933,
       "name": "Clay",
       "url": "https://open.spotify.com/track/5NCuTNOLyeNQ1gZjNGpOix"
+    },
+    {
+      "album": {
+        "name": "Clean",
+        "url": "https://open.spotify.com/album/1wDAIGeXoztRt3IjIlLr2z"
+      },
+      "artists": [
+        {
+          "name": "Girl Scout",
+          "url": "https://open.spotify.com/artist/4CbghtwTo6bvxk5QacvRrE"
+        }
+      ],
+      "date_added": "2026-11-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 199754,
+      "name": "Clean",
+      "url": "https://open.spotify.com/track/0uHRbqbPW19pBgqD9NF6qE"
     },
     {
       "album": {
@@ -6305,6 +6341,24 @@
     },
     {
       "album": {
+        "name": "drink, smoke & talk",
+        "url": "https://open.spotify.com/album/2YBwd6qhn9PYHObEe3KBUi"
+      },
+      "artists": [
+        {
+          "name": "Naits",
+          "url": "https://open.spotify.com/artist/7eD6KWTeu81k4qcy1taHaj"
+        }
+      ],
+      "date_added": "2026-11-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 173537,
+      "name": "drink, smoke & talk",
+      "url": "https://open.spotify.com/track/5MNCVZ5QgxlCiD5ratABDm"
+    },
+    {
+      "album": {
         "name": "Drywall",
         "url": "https://open.spotify.com/album/01OSOU9YnGYjkpf2YORl6j"
       },
@@ -8038,7 +8092,7 @@
       ],
       "date_added": "2026-07-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-27",
       "duration_ms": 177464,
       "name": "For Your Eyes Only",
       "url": "https://open.spotify.com/track/7uYLYKdG6hY688nDXDUnlq"
@@ -10058,7 +10112,7 @@
       ],
       "date_added": "2026-07-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-27",
       "duration_ms": 198716,
       "name": "Higher than Mount Everest",
       "url": "https://open.spotify.com/track/1L4MJdES5EHIhLm7LA7oUE"
@@ -12596,7 +12650,7 @@
       ],
       "date_added": "2026-07-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-27",
       "duration_ms": 127438,
       "name": "INVINCIBLE",
       "url": "https://open.spotify.com/track/5Q097UCJdfPaC6Io9AXjQ9"
@@ -14413,6 +14467,24 @@
     },
     {
       "album": {
+        "name": "LMK",
+        "url": "https://open.spotify.com/album/0y21GSb2SpeyvUIsBrqF99"
+      },
+      "artists": [
+        {
+          "name": "Sam Ezeh",
+          "url": "https://open.spotify.com/artist/5Ys0Puc1F5jOw7EpmhMSTK"
+        }
+      ],
+      "date_added": "2026-11-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 217109,
+      "name": "LMK pt. 1",
+      "url": "https://open.spotify.com/track/2KCNu4YZ9X1IyQ3rNxx0nc"
+    },
+    {
+      "album": {
         "name": "Paper, Scissors & Rock n Roll",
         "url": "https://open.spotify.com/album/7cBULiuGU6Bx9bsUTVp9PX"
       },
@@ -15084,7 +15156,7 @@
       ],
       "date_added": "2026-07-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-27",
       "duration_ms": 150622,
       "name": "Magic Metal Montana",
       "url": "https://open.spotify.com/track/7p2raGiQopzdSeYnWLwehY"
@@ -15120,7 +15192,7 @@
       ],
       "date_added": "2026-07-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-27",
       "duration_ms": 188052,
       "name": "Magical Thinking",
       "url": "https://open.spotify.com/track/2Qb7MEZRVY7ji0ZjkdQuqC"
@@ -15546,6 +15618,24 @@
       "duration_ms": 187800,
       "name": "member",
       "url": "https://open.spotify.com/track/3oP9C1RYEOzRWMmnKtC8wh"
+    },
+    {
+      "album": {
+        "name": "Memo",
+        "url": "https://open.spotify.com/album/5GR5rOaGVQdkWJ8ueFM6C7"
+      },
+      "artists": [
+        {
+          "name": "Astrid Matthesen",
+          "url": "https://open.spotify.com/artist/2DQ9yWHmT4sWYbMRtXae6C"
+        }
+      ],
+      "date_added": "2026-11-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 251903,
+      "name": "Memo",
+      "url": "https://open.spotify.com/track/2sfbUZrbgKtGG32q5cDSCt"
     },
     {
       "album": {
@@ -21217,6 +21307,28 @@
     },
     {
       "album": {
+        "name": "Sista best\u00e4llningen (igen)",
+        "url": "https://open.spotify.com/album/1KOWDHnu0OW8M23uDQnJhQ"
+      },
+      "artists": [
+        {
+          "name": "bob hund",
+          "url": "https://open.spotify.com/artist/6OZxE19iim1JKvCA3GmCVx"
+        },
+        {
+          "name": "Esther",
+          "url": "https://open.spotify.com/artist/3POjAYvvEzzCFAWm4uHEza"
+        }
+      ],
+      "date_added": "2026-11-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 251546,
+      "name": "Sista best\u00e4llningen (igen)",
+      "url": "https://open.spotify.com/track/4s65YOJRpeWLlQK4jEY7sD"
+    },
+    {
+      "album": {
         "name": "Sjuk i Huvudet \u2013 Paul Gascoigne",
         "url": "https://open.spotify.com/album/1cBXxeObgl62kfqZOH8oDq"
       },
@@ -22696,7 +22808,7 @@
       ],
       "date_added": "2026-08-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-27",
       "duration_ms": 218275,
       "name": "Such Love",
       "url": "https://open.spotify.com/track/04o83rHaqpXrVd45yq2IvX"

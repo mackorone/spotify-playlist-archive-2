@@ -1,6 +1,6 @@
 {
   "description": "Alaba al Se\u0144or con estas canciones cl\u00e1sicas! Foto: Marcela Gandara",
-  "num_followers": 527337,
+  "num_followers": 527403,
   "original_name": "Cl\u00e1sicos Cristianos",
   "owner": {
     "name": "Spotify",
@@ -1719,6 +1719,22 @@
     {
       "added_at": "2026-05-12 05:08:23",
       "album": {
+        "name": "Tienes que Creer",
+        "url": "https://open.spotify.com/album/6TZZT6jNGCn6DMKnGjFBwl"
+      },
+      "artists": [
+        {
+          "name": "M\u00f3nica Rodr\u00edguez",
+          "url": "https://open.spotify.com/artist/1faUEl7u4gmxUVIh3esaf4"
+        }
+      ],
+      "duration_ms": 236600,
+      "name": "Me Basta",
+      "url": "https://open.spotify.com/track/0BRxio3HO3AQ7Pm3Zx8xUn"
+    },
+    {
+      "added_at": "2026-05-12 05:08:23",
+      "album": {
         "name": "Ganas de Vivir",
         "url": "https://open.spotify.com/album/1LX6lEi66BNQEV4GgxcvXk"
       },
@@ -1783,22 +1799,6 @@
       "duration_ms": 206865,
       "name": "No Mas",
       "url": "https://open.spotify.com/track/47Pw8T2m3QUVog4YE3yxLm"
-    },
-    {
-      "added_at": "2026-05-12 05:08:23",
-      "album": {
-        "name": "El Cielo Gobierna",
-        "url": "https://open.spotify.com/album/0jJt3oV7ptqObZj9ktTaBW"
-      },
-      "artists": [
-        {
-          "name": "David Scarpeta",
-          "url": "https://open.spotify.com/artist/72eEtA2xeitbF17cpqGwqd"
-        }
-      ],
-      "duration_ms": 265280,
-      "name": "El Cielo Gobierna",
-      "url": "https://open.spotify.com/track/3RlEEd4YLEbpUSEo7o6wLH"
     }
   ],
   "unique_name": "Cl\u00e1sicos Cristianos",

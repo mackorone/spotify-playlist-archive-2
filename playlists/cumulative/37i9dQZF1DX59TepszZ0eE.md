@@ -4,7 +4,7 @@
 
 > Proudly South African Christian and Gospel music\. Cover: "<a href=https://open.spotify.com/artist/5kiRFLzxYedX55EwwIDuj3?si=jG5MXQYQSyW7WpBXiv\_qew>Omega Khunou</a>"
 
-512 songs - 2 day 7 hr 11 min
+513 songs - 2 day 7 hr 16 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -41,6 +41,7 @@
 | [Basheshe Bahleke](https://open.spotify.com/track/32PnVMQXGPHviFa7T4qRct) | [Deborah Fraser](https://open.spotify.com/artist/0vFuRv3NvGd3RFx6gwSziQ) | [Basheshe Bahleke](https://open.spotify.com/album/4tU5X737hd9Kr8wYEa4JTw) | 4:18 | 2023-05-05 | 2023-07-14 |
 | [Bayazibuza](https://open.spotify.com/track/33pRs7b2nBdqG7mCOHQuqh) | [Nduduzo Matse](https://open.spotify.com/artist/6pLZutxrnCCiFIcxy7drQK) | [New Sounds of Glory](https://open.spotify.com/album/1p9jZMfZfbpxRUbel7Ph07) | 5:00 | 2023-06-16 |  |
 | [Bayede](https://open.spotify.com/track/7LzqOAcpoYyON5lE3tLn4y) | [Lusanda Beja](https://open.spotify.com/artist/0YUGmCeW5yRmxinae7xxPe) | [Jesu 'lidwala](https://open.spotify.com/album/64Ten8WmX26OtfIxbwwtM9) | 6:07 | 2024-03-29 | 2024-04-05 |
+| [Bayede](https://open.spotify.com/track/5JamrVIOGP4xBg00zMpEAc) | [Thanda Choir](https://open.spotify.com/artist/0A2XryBGpXQ6fYWTRTzl9a) | [A Place We Call Home](https://open.spotify.com/album/60DfAfmOv2nJCwkU5N6Czx) | 4:48 | 2026-11-27 |  |
 | [Bayede \(Live at Worship House Church Limpopo , 2023\) \(feat\. Khangeziwe Sdudla\)](https://open.spotify.com/track/05kKU4RHDouwVkh3mJUTKu) | [Worship House](https://open.spotify.com/artist/3Aa2R54aqT4UiklOkE0qwD), [Khangeziwe Sdudla](https://open.spotify.com/artist/4iiGAjeApongUu5VQ8erBF) | [Worship House Celebration 20 \(Live at Worship House Church Limpopo , 2023\)](https://open.spotify.com/album/5kS4SrOqx8pLnYZs6efJeO) | 6:09 | 2024-03-01 | 2024-07-12 |
 | [Bayede Yeshua \- Long Edit](https://open.spotify.com/track/1jeTylSNFMbrrjNsOurwoC) | [TK Goodman](https://open.spotify.com/artist/6Mhd9XMD4BEPmdKmoi1yz1), [Mmuso Worship](https://open.spotify.com/artist/5r5sBwAXxOibX4NHzP6j9s) | [Bayede Yeshua \(Long Edit\)](https://open.spotify.com/album/7yeu2Xy7oMv7y68sobYdFI) | 11:37 | 2025-09-19 | 2025-12-12 |
 | [Bayohlala Bejabula \- Live](https://open.spotify.com/track/7egEv6e5U0343tYtJWYJdW) | [Njabulo Masinga](https://open.spotify.com/artist/3Igz2e5CEXqo4l77TfX8Z3) | [Devotional Praise \(Live\)](https://open.spotify.com/album/7ENrDmcs4C7hNhA9XNBszM) | 4:31 | 2023-08-25 | 2023-09-15 |

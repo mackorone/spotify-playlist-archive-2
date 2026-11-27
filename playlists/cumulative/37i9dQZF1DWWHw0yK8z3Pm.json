@@ -4880,7 +4880,7 @@
       ],
       "date_added": "2026-08-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-27",
       "duration_ms": 283234,
       "name": "Freedom Bus (feat. Jesse Welles)",
       "url": "https://open.spotify.com/track/6WIG59dsRrXkkJGoMUt1Xo"
@@ -11058,6 +11058,24 @@
       "duration_ms": 160871,
       "name": "Sad All The Time - Bonus Track",
       "url": "https://open.spotify.com/track/05SLKEyD0ZnGLEsCMx4FAf"
+    },
+    {
+      "album": {
+        "name": "Sad State Of Mind",
+        "url": "https://open.spotify.com/album/5NIJwhadrjFd7zqbaFWdTs"
+      },
+      "artists": [
+        {
+          "name": "Kady Zadora",
+          "url": "https://open.spotify.com/artist/3e5ErlzlEHeOEHgAH0Oeew"
+        }
+      ],
+      "date_added": "2026-11-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 159603,
+      "name": "Sad State Of Mind",
+      "url": "https://open.spotify.com/track/5nmRoF8pVdB2R4QbkpkFJH"
     },
     {
       "album": {

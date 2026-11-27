@@ -1,6 +1,6 @@
 {
   "description": "The irresistible rhythms of Latin jazz. Gracias por la m\u00fasica, Eddie Palmieri \ud83d\udd4a\ufe0f",
-  "num_followers": 513122,
+  "num_followers": 513116,
   "original_name": "Latin Jazz",
   "owner": {
     "name": "Spotify",
@@ -79,6 +79,22 @@
     {
       "added_at": "2025-08-07 16:57:48",
       "album": {
+        "name": "Enchantment",
+        "url": "https://open.spotify.com/album/3NaX3LlcZvDgsUoscFGOfY"
+      },
+      "artists": [
+        {
+          "name": "Hilton Ruiz",
+          "url": "https://open.spotify.com/artist/7uUrPQUnxCoQusOAh5I0D1"
+        }
+      ],
+      "duration_ms": 209173,
+      "name": "Home Cookin'",
+      "url": "https://open.spotify.com/track/5iHt2zihQWvVBGdPIR4dKT"
+    },
+    {
+      "added_at": "2025-08-07 16:57:48",
+      "album": {
         "name": "Noche de Amor",
         "url": "https://open.spotify.com/album/1NvVlQFSVOjr7w0Jh18VZ6"
       },
@@ -95,22 +111,6 @@
       "duration_ms": 443874,
       "name": "Noche de Amor",
       "url": "https://open.spotify.com/track/1CYuo0OfQLSoqkaM8Hrrxt"
-    },
-    {
-      "added_at": "2025-08-07 16:57:48",
-      "album": {
-        "name": "Enchantment",
-        "url": "https://open.spotify.com/album/3NaX3LlcZvDgsUoscFGOfY"
-      },
-      "artists": [
-        {
-          "name": "Hilton Ruiz",
-          "url": "https://open.spotify.com/artist/7uUrPQUnxCoQusOAh5I0D1"
-        }
-      ],
-      "duration_ms": 209173,
-      "name": "Home Cookin'",
-      "url": "https://open.spotify.com/track/5iHt2zihQWvVBGdPIR4dKT"
     },
     {
       "added_at": "2025-08-07 16:57:48",
@@ -691,6 +691,22 @@
     {
       "added_at": "2025-08-07 16:57:48",
       "album": {
+        "name": "Keeper Of The Flame",
+        "url": "https://open.spotify.com/album/3e4bAbCTZq7nvw62WuFgOH"
+      },
+      "artists": [
+        {
+          "name": "Poncho Sanchez",
+          "url": "https://open.spotify.com/artist/7wIvJyLDNfkgdKFVxJl5tL"
+        }
+      ],
+      "duration_ms": 247693,
+      "name": "A Night In Tunisia",
+      "url": "https://open.spotify.com/track/5wRMcNaW1pCQjBIAw7ZY5t"
+    },
+    {
+      "added_at": "2025-08-07 16:57:48",
+      "album": {
         "name": "El Arte Del Bolero",
         "url": "https://open.spotify.com/album/71ESLz3m93ORMv1ebjdV7c"
       },
@@ -711,18 +727,22 @@
     {
       "added_at": "2025-08-07 16:57:48",
       "album": {
-        "name": "Keeper Of The Flame",
-        "url": "https://open.spotify.com/album/3e4bAbCTZq7nvw62WuFgOH"
+        "name": "Ultimate Duets",
+        "url": "https://open.spotify.com/album/28xn3zHQbQHtmAL8dptb4A"
       },
       "artists": [
         {
-          "name": "Poncho Sanchez",
-          "url": "https://open.spotify.com/artist/7wIvJyLDNfkgdKFVxJl5tL"
+          "name": "Arturo Sandoval",
+          "url": "https://open.spotify.com/artist/0MGQZNEMaEICyku3cSDrnJ"
+        },
+        {
+          "name": "Josh Groban",
+          "url": "https://open.spotify.com/artist/6cXMpsP9x0SH4kFfMyVezF"
         }
       ],
-      "duration_ms": 247693,
-      "name": "A Night In Tunisia",
-      "url": "https://open.spotify.com/track/5wRMcNaW1pCQjBIAw7ZY5t"
+      "duration_ms": 320480,
+      "name": "Solo Esta Soledad",
+      "url": "https://open.spotify.com/track/4Y30iXqao3OnzhSFQaBW7L"
     },
     {
       "added_at": "2025-08-07 16:57:48",
@@ -747,26 +767,6 @@
       "duration_ms": 233483,
       "name": "Desde Que O Samba \u00c9 Samba - Ao Vivo Em Nova York / 2019",
       "url": "https://open.spotify.com/track/5mVzs9ECtDIgZzMjcCi6qE"
-    },
-    {
-      "added_at": "2025-08-07 16:57:48",
-      "album": {
-        "name": "Ultimate Duets",
-        "url": "https://open.spotify.com/album/28xn3zHQbQHtmAL8dptb4A"
-      },
-      "artists": [
-        {
-          "name": "Arturo Sandoval",
-          "url": "https://open.spotify.com/artist/0MGQZNEMaEICyku3cSDrnJ"
-        },
-        {
-          "name": "Josh Groban",
-          "url": "https://open.spotify.com/artist/6cXMpsP9x0SH4kFfMyVezF"
-        }
-      ],
-      "duration_ms": 320480,
-      "name": "Solo Esta Soledad",
-      "url": "https://open.spotify.com/track/4Y30iXqao3OnzhSFQaBW7L"
     },
     {
       "added_at": "2025-08-07 16:57:48",
@@ -1115,22 +1115,6 @@
     {
       "added_at": "2025-08-07 16:57:48",
       "album": {
-        "name": "Ascendentes",
-        "url": "https://open.spotify.com/album/4wDsQfo6S0LjKnGlI9E0Jm"
-      },
-      "artists": [
-        {
-          "name": "Orestes Gomez",
-          "url": "https://open.spotify.com/artist/6XToOxid134FKnslBTQZW1"
-        }
-      ],
-      "duration_ms": 214300,
-      "name": "Piscis",
-      "url": "https://open.spotify.com/track/7MYFwzSj7n5NkDKoKlQL94"
-    },
-    {
-      "added_at": "2025-08-07 16:57:48",
-      "album": {
         "name": "cuarto de colores",
         "url": "https://open.spotify.com/album/7ijTXugrPlHTRSuzo7u2Br"
       },
@@ -1147,22 +1131,18 @@
     {
       "added_at": "2025-08-07 16:57:48",
       "album": {
-        "name": "New Era",
-        "url": "https://open.spotify.com/album/5aUeMcCYLSc3HqFRPwfZya"
+        "name": "Ascendentes",
+        "url": "https://open.spotify.com/album/4wDsQfo6S0LjKnGlI9E0Jm"
       },
       "artists": [
         {
-          "name": "Negroni's Trio",
-          "url": "https://open.spotify.com/artist/6clJrNFd1xD5dzc9UzxW7C"
-        },
-        {
-          "name": "Pedro Cap\u00f3",
-          "url": "https://open.spotify.com/artist/4QVBYiagIaa6ZGSPMbybpy"
+          "name": "Orestes Gomez",
+          "url": "https://open.spotify.com/artist/6XToOxid134FKnslBTQZW1"
         }
       ],
-      "duration_ms": 250082,
-      "name": "El Incomprendido (feat. Pedro Cap\u00f3)",
-      "url": "https://open.spotify.com/track/5tOiB8UUOb6B2BzTDJL5IR"
+      "duration_ms": 214300,
+      "name": "Piscis",
+      "url": "https://open.spotify.com/track/7MYFwzSj7n5NkDKoKlQL94"
     },
     {
       "added_at": "2025-08-07 16:57:48",
@@ -1183,6 +1163,26 @@
       "duration_ms": 153507,
       "name": "Papo Final",
       "url": "https://open.spotify.com/track/1uyZTB0xrmqxwbxxvstFZp"
+    },
+    {
+      "added_at": "2025-08-07 16:57:48",
+      "album": {
+        "name": "New Era",
+        "url": "https://open.spotify.com/album/5aUeMcCYLSc3HqFRPwfZya"
+      },
+      "artists": [
+        {
+          "name": "Negroni's Trio",
+          "url": "https://open.spotify.com/artist/6clJrNFd1xD5dzc9UzxW7C"
+        },
+        {
+          "name": "Pedro Cap\u00f3",
+          "url": "https://open.spotify.com/artist/4QVBYiagIaa6ZGSPMbybpy"
+        }
+      ],
+      "duration_ms": 250082,
+      "name": "El Incomprendido (feat. Pedro Cap\u00f3)",
+      "url": "https://open.spotify.com/track/5tOiB8UUOb6B2BzTDJL5IR"
     },
     {
       "added_at": "2025-08-07 16:57:48",
@@ -1455,26 +1455,6 @@
     {
       "added_at": "2025-08-07 16:57:48",
       "album": {
-        "name": "Live in Cuba",
-        "url": "https://open.spotify.com/album/2mLRfQqMxdiZSpUHnd0HKy"
-      },
-      "artists": [
-        {
-          "name": "Jazz At Lincoln Center Orchestra",
-          "url": "https://open.spotify.com/artist/6MnWA8xVW1sEzV9s7wXpQb"
-        },
-        {
-          "name": "Wynton Marsalis",
-          "url": "https://open.spotify.com/artist/375zxMmh2cSgUzFFnva0O7"
-        }
-      ],
-      "duration_ms": 429775,
-      "name": "Dali - From Portrait in Seven Shades",
-      "url": "https://open.spotify.com/track/5rTuSVB4hmbP7sfRGM9jaC"
-    },
-    {
-      "added_at": "2025-08-07 16:57:48",
-      "album": {
         "name": "Te Escucho",
         "url": "https://open.spotify.com/album/4YKvsvmt6eSImzRk33GtS8"
       },
@@ -1491,6 +1471,26 @@
       "duration_ms": 230550,
       "name": "Te Escucho",
       "url": "https://open.spotify.com/track/4h7TaUKl9oPS6c7mvnFgF7"
+    },
+    {
+      "added_at": "2025-08-07 16:57:48",
+      "album": {
+        "name": "Live in Cuba",
+        "url": "https://open.spotify.com/album/2mLRfQqMxdiZSpUHnd0HKy"
+      },
+      "artists": [
+        {
+          "name": "Jazz At Lincoln Center Orchestra",
+          "url": "https://open.spotify.com/artist/6MnWA8xVW1sEzV9s7wXpQb"
+        },
+        {
+          "name": "Wynton Marsalis",
+          "url": "https://open.spotify.com/artist/375zxMmh2cSgUzFFnva0O7"
+        }
+      ],
+      "duration_ms": 429775,
+      "name": "Dali - From Portrait in Seven Shades",
+      "url": "https://open.spotify.com/track/5rTuSVB4hmbP7sfRGM9jaC"
     },
     {
       "added_at": "2025-08-07 16:57:48",
@@ -1523,26 +1523,6 @@
     {
       "added_at": "2025-08-07 16:57:48",
       "album": {
-        "name": "Expectativas",
-        "url": "https://open.spotify.com/album/5QYiiHRn4G7IhUEskK3ctZ"
-      },
-      "artists": [
-        {
-          "name": "Manuel Valera",
-          "url": "https://open.spotify.com/artist/76RyqtLsvbJFynRIu9dXJ8"
-        },
-        {
-          "name": "New Cuban Express",
-          "url": "https://open.spotify.com/artist/5k6qmrXBpYXDFA6rOJqYy5"
-        }
-      ],
-      "duration_ms": 256266,
-      "name": "Chamber Timba",
-      "url": "https://open.spotify.com/track/6by7enSlSy1OqK8x1830sN"
-    },
-    {
-      "added_at": "2025-08-07 16:57:48",
-      "album": {
         "name": "Raise up off Me",
         "url": "https://open.spotify.com/album/49qisly3p7r0M8olieO1D8"
       },
@@ -1559,6 +1539,26 @@
       "duration_ms": 354049,
       "name": "Blue Hughes",
       "url": "https://open.spotify.com/track/6d83fOPssWlHzDmc6MnBS8"
+    },
+    {
+      "added_at": "2025-08-07 16:57:48",
+      "album": {
+        "name": "Expectativas",
+        "url": "https://open.spotify.com/album/5QYiiHRn4G7IhUEskK3ctZ"
+      },
+      "artists": [
+        {
+          "name": "Manuel Valera",
+          "url": "https://open.spotify.com/artist/76RyqtLsvbJFynRIu9dXJ8"
+        },
+        {
+          "name": "New Cuban Express",
+          "url": "https://open.spotify.com/artist/5k6qmrXBpYXDFA6rOJqYy5"
+        }
+      ],
+      "duration_ms": 256266,
+      "name": "Chamber Timba",
+      "url": "https://open.spotify.com/track/6by7enSlSy1OqK8x1830sN"
     },
     {
       "added_at": "2025-08-07 16:57:48",
@@ -1803,22 +1803,18 @@
     {
       "added_at": "2025-08-07 16:57:48",
       "album": {
-        "name": "La Receta",
-        "url": "https://open.spotify.com/album/1qPkHtWlPt8T0CphqNMlz6"
+        "name": "Rareza de Siglo (En Vivo)",
+        "url": "https://open.spotify.com/album/0PaJvLUbDjC72tmSXkxzQm"
       },
       "artists": [
         {
-          "name": "Gonzalo Grau",
-          "url": "https://open.spotify.com/artist/0kHkqT79Moy6COGdjZdiLI"
-        },
-        {
-          "name": "Plural",
-          "url": "https://open.spotify.com/artist/6kTEyy1WTvIbF0HRfX2uIW"
+          "name": "Cucurucho Vald\u00e9s",
+          "url": "https://open.spotify.com/artist/43sGBi6byj2qxsR90hy38Y"
         }
       ],
-      "duration_ms": 422560,
-      "name": "Cacao",
-      "url": "https://open.spotify.com/track/6XfWGC5eipLnGRUY47Rvom"
+      "duration_ms": 518143,
+      "name": "Rareza de siglo",
+      "url": "https://open.spotify.com/track/20GpkyaDZAit5Ty7zP2vqz"
     },
     {
       "added_at": "2025-08-07 16:57:48",

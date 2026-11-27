@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFBKXDgLNOy7n.md) - [plain]
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/1uu0bFedEiZmJYPoqdB6uH">Shane MacGowan</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 30 likes - 101 songs - 5 hr 32 min
+[Spotify](https://open.spotify.com/user/spotify) - 35 likes - 101 songs - 5 hr 32 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -110,4 +110,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFBKXDgLNOy7n.md) - [plain]
 | 100 | [Jukebox](https://open.spotify.com/track/0NDw8k6zPWHrwnt44UiqpP) | [The Popes](https://open.spotify.com/artist/6UXBk0CSeNtXrU0Wdk02uR) | [Holloway Boulevard](https://open.spotify.com/album/2BmBfwSRZDR0lASzmmgd29) | 3:04 |
 | 101 | [The Recruiting Sergeant](https://open.spotify.com/track/7HFnL3qiZEXSPfsyAQOkiL) | [ReGael](https://open.spotify.com/artist/5ASDQpBDLlyOOVBIb7GrWe) | [Coastlines](https://open.spotify.com/album/7sOkvlVTIH003fO40bdB6z) | 2:23 |
 
-Snapshot ID: `Acip+gAAAACM/RXn3m30B4qAJxmfU0MA`
+Snapshot ID: `AcivpAAAAABB5TrGOMkn5cKba/szb+sM`

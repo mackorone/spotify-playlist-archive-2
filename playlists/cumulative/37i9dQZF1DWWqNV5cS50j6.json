@@ -1444,7 +1444,7 @@
       ],
       "date_added": "2026-11-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-27",
       "duration_ms": 279480,
       "name": "Amazing Grace",
       "url": "https://open.spotify.com/track/7wdVWU0mWfXieiORD0PNh6"
@@ -2888,6 +2888,24 @@
       "duration_ms": 188020,
       "name": "balenciaga size 42",
       "url": "https://open.spotify.com/track/4sNZrt2CzEzWT931xRE2Iu"
+    },
+    {
+      "album": {
+        "name": "Band",
+        "url": "https://open.spotify.com/album/2MmlbUxJqM7FC49KIURRsq"
+      },
+      "artists": [
+        {
+          "name": "haloplus+",
+          "url": "https://open.spotify.com/artist/224oiUpyCYmxo3WJQW3EPB"
+        }
+      ],
+      "date_added": "2026-11-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 158959,
+      "name": "Band",
+      "url": "https://open.spotify.com/track/2Gz4c8wVrfpIq0eJHXz91p"
     },
     {
       "album": {
@@ -4426,7 +4444,7 @@
       ],
       "date_added": "2026-07-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-27",
       "duration_ms": 220303,
       "name": "Bone Collector",
       "url": "https://open.spotify.com/track/3EsL6WLnJvF6t3nuPBxRY2"
@@ -9432,7 +9450,7 @@
       ],
       "date_added": "2026-09-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-27",
       "duration_ms": 209000,
       "name": "Dorian Gray",
       "url": "https://open.spotify.com/track/5BibNCekPwcfhaAtmoO7wB"
@@ -18447,6 +18465,24 @@
     },
     {
       "album": {
+        "name": "Jeffrey's Son",
+        "url": "https://open.spotify.com/album/7mrAbnESZTPGefHcHbLETf"
+      },
+      "artists": [
+        {
+          "name": "Louis Ottley",
+          "url": "https://open.spotify.com/artist/6lq9zv8FElQShSuFYolkp5"
+        }
+      ],
+      "date_added": "2026-11-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 197375,
+      "name": "Jeffrey's Son",
+      "url": "https://open.spotify.com/track/0uWDR6hzMrPWhgBiT6J9Zs"
+    },
+    {
+      "album": {
         "name": "Jenny",
         "url": "https://open.spotify.com/album/14PW20ySyvP27eGpXFC79K"
       },
@@ -18948,7 +18984,7 @@
       ],
       "date_added": "2026-09-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-27",
       "duration_ms": 220295,
       "name": "Kid",
       "url": "https://open.spotify.com/track/3yXMMzqvq3aTiczg8lpkfS"
@@ -19674,7 +19710,7 @@
       ],
       "date_added": "2026-09-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-27",
       "duration_ms": 168000,
       "name": "LEGACY (feat. North West)",
       "url": "https://open.spotify.com/track/110lZovwhbPK1THyMIKQMY"
@@ -26339,6 +26375,24 @@
     },
     {
       "album": {
+        "name": "Plastic Poppies",
+        "url": "https://open.spotify.com/album/08aZMWUCMu5LicDhYVMPfG"
+      },
+      "artists": [
+        {
+          "name": "The Femcels",
+          "url": "https://open.spotify.com/artist/6IEfd4F10D3zvJ9N6DNmvK"
+        }
+      ],
+      "date_added": "2026-11-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 183173,
+      "name": "Plastic Poppies",
+      "url": "https://open.spotify.com/track/7ftlivV4XZp4NKF1s9hAhr"
+    },
+    {
+      "album": {
         "name": "Play Ball",
         "url": "https://open.spotify.com/album/0Hxv0nRUqLTCZBKmFm9sqx"
       },
@@ -27608,6 +27662,24 @@
       "duration_ms": 146386,
       "name": "Queen",
       "url": "https://open.spotify.com/track/21KjtfhFAHOn0WyX8Q2MF2"
+    },
+    {
+      "album": {
+        "name": "Queen Cong",
+        "url": "https://open.spotify.com/album/7kOcnFHtNzfTFJT9Ywr2V7"
+      },
+      "artists": [
+        {
+          "name": "DVTR",
+          "url": "https://open.spotify.com/artist/2qLPU8fMazHXW2IzNklrZF"
+        }
+      ],
+      "date_added": "2026-11-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 161032,
+      "name": "Queen Cong",
+      "url": "https://open.spotify.com/track/27l4R5mKqUiLvmgIaupN2l"
     },
     {
       "album": {
@@ -31639,6 +31711,24 @@
     },
     {
       "album": {
+        "name": "sometimes memory fails me sometimes",
+        "url": "https://open.spotify.com/album/6PhYPDKJaoSqLXXAABbg1K"
+      },
+      "artists": [
+        {
+          "name": "if i was a pony",
+          "url": "https://open.spotify.com/artist/3t3zwTenPUimx09zxB0hRA"
+        }
+      ],
+      "date_added": "2026-11-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 196721,
+      "name": "sometimes memory fails me sometimes",
+      "url": "https://open.spotify.com/track/1jyRl8bzrzFVJMintuOrv2"
+    },
+    {
+      "album": {
         "name": "Song for the Messenger",
         "url": "https://open.spotify.com/album/5qp010KtWhsUNURCNH8o1c"
       },
@@ -32060,6 +32150,24 @@
       "duration_ms": 199796,
       "name": "Spoiled little brat",
       "url": "https://open.spotify.com/track/724utiMbqUfT1g3tqbfQYu"
+    },
+    {
+      "album": {
+        "name": "QWERTY III",
+        "url": "https://open.spotify.com/album/55CfzpEQ0WWCjLPLZZyhJY"
+      },
+      "artists": [
+        {
+          "name": "Saya Gray",
+          "url": "https://open.spotify.com/artist/4EnymklUyqZwvmHQGlRssl"
+        }
+      ],
+      "date_added": "2026-11-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 248505,
+      "name": "SPOOO0OOOOF",
+      "url": "https://open.spotify.com/track/4t8uO5Qi5QfW7w89ahJLjc"
     },
     {
       "album": {
@@ -35080,7 +35188,7 @@
       ],
       "date_added": "2026-09-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-27",
       "duration_ms": 133750,
       "name": "The Recorded Message - A Message",
       "url": "https://open.spotify.com/track/0TgX2xB8t0aXZeRCAcs4TZ"

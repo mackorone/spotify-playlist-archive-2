@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2021-12-21",
-  "description": "Trivium are on top of today's best Metal playlist.",
+  "description": "Northlane are on top of today's best Metal playlist.",
   "name": "Kickass Metal",
   "tracks": [
     {
@@ -500,6 +500,24 @@
       "duration_ms": 211848,
       "name": "a new moral low ground",
       "url": "https://open.spotify.com/track/2XNJNwSOq8tLWhQ5a9sGBb"
+    },
+    {
+      "album": {
+        "name": "A Particular Proclivity for Pain",
+        "url": "https://open.spotify.com/album/3FJG6xhlLeC8WP0oBkpAQ7"
+      },
+      "artists": [
+        {
+          "name": "Chiodos",
+          "url": "https://open.spotify.com/artist/4ZIBrskTJWmkJUvM7uAu1o"
+        }
+      ],
+      "date_added": "2026-11-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 235715,
+      "name": "A Particular Proclivity for Pain",
+      "url": "https://open.spotify.com/track/7IgwIgLydCzA8KaRIPueEw"
     },
     {
       "album": {
@@ -1240,6 +1258,28 @@
       "duration_ms": 290733,
       "name": "Ancestry",
       "url": "https://open.spotify.com/track/3L0JKbjp5StdqWBFHFab6O"
+    },
+    {
+      "album": {
+        "name": "Anemoia",
+        "url": "https://open.spotify.com/album/7yMWsbfHNltTLoasYCbXBw"
+      },
+      "artists": [
+        {
+          "name": "Northlane",
+          "url": "https://open.spotify.com/artist/3qyg72RGnGdF521zMU02u9"
+        },
+        {
+          "name": "Dayseeker",
+          "url": "https://open.spotify.com/artist/5FjQVp1Lb0kltmwIuu5kfj"
+        }
+      ],
+      "date_added": "2026-11-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 253744,
+      "name": "Anemoia",
+      "url": "https://open.spotify.com/track/4gpv83yAQbdgTEisrNeBkB"
     },
     {
       "album": {
@@ -2093,6 +2133,24 @@
     },
     {
       "album": {
+        "name": "Marrow Deep",
+        "url": "https://open.spotify.com/album/0vg1J7pmgC1X7ZeGllEQGz"
+      },
+      "artists": [
+        {
+          "name": "Mastodon",
+          "url": "https://open.spotify.com/artist/1Dvfqq39HxvCJ3GvfeIFuT"
+        }
+      ],
+      "date_added": "2026-11-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 277698,
+      "name": "Barbarians Blood",
+      "url": "https://open.spotify.com/track/2paME07MM072G5YvGaFYM3"
+    },
+    {
+      "album": {
         "name": "Barbie & Ken",
         "url": "https://open.spotify.com/album/4mljsOFQj7XRh77BAVF1aq"
       },
@@ -2908,6 +2966,24 @@
       "duration_ms": 254346,
       "name": "Blood Oath - Edit",
       "url": "https://open.spotify.com/track/1xEX1oeaTTGcAqeV2TZ3Vx"
+    },
+    {
+      "album": {
+        "name": "Slept With Cannula",
+        "url": "https://open.spotify.com/album/3o8hkSiwvDv2A9gpwcJbbk"
+      },
+      "artists": [
+        {
+          "name": "Crowquill",
+          "url": "https://open.spotify.com/artist/6pUEVEFvxk4xakMzo6wHFR"
+        }
+      ],
+      "date_added": "2026-11-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 127922,
+      "name": "Blood On My Hands",
+      "url": "https://open.spotify.com/track/5lazvRjx3WVO4ppTABSuZS"
     },
     {
       "album": {
@@ -4918,7 +4994,7 @@
       ],
       "date_added": "2026-10-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-27",
       "duration_ms": 173244,
       "name": "Crackology",
       "url": "https://open.spotify.com/track/44LKq2xDLGrApS4VxjufWd"
@@ -6244,7 +6320,7 @@
       ],
       "date_added": "2026-10-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-27",
       "duration_ms": 247185,
       "name": "Deathwish",
       "url": "https://open.spotify.com/track/0ZvGajFnTQtEAyKNjqt982"
@@ -9016,7 +9092,7 @@
       ],
       "date_added": "2026-10-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-27",
       "duration_ms": 154653,
       "name": "Fear Based Life",
       "url": "https://open.spotify.com/track/2vlyJGYuyjE839pSMiGnvb"
@@ -12044,7 +12120,7 @@
       ],
       "date_added": "2026-10-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-27",
       "duration_ms": 302306,
       "name": "I Am Ice",
       "url": "https://open.spotify.com/track/6ZNscYeVhHgM3RHU4TjEMZ"
@@ -15271,6 +15347,24 @@
     },
     {
       "album": {
+        "name": "GALLOWS (Deluxe)",
+        "url": "https://open.spotify.com/album/2P1I4yhmWXAcnbtqXfXg92"
+      },
+      "artists": [
+        {
+          "name": "blessthefall",
+          "url": "https://open.spotify.com/artist/7t2C8WwLyKUKRe0LVh8zl9"
+        }
+      ],
+      "date_added": "2026-11-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 189933,
+      "name": "mallxcore",
+      "url": "https://open.spotify.com/track/20vVC1Wq0Fep8eP87Xm6JC"
+    },
+    {
+      "album": {
         "name": "Mammoth's Hand",
         "url": "https://open.spotify.com/album/4ozt7Ns1luCzF5xheqkfA2"
       },
@@ -15643,6 +15737,24 @@
     },
     {
       "album": {
+        "name": "Merciless by Nature",
+        "url": "https://open.spotify.com/album/0fGRbNlKAXoHUdTOqEt66K"
+      },
+      "artists": [
+        {
+          "name": "Viscera",
+          "url": "https://open.spotify.com/artist/4jBjMnUHg8VCv9HM7KKbFd"
+        }
+      ],
+      "date_added": "2026-11-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 284040,
+      "name": "Merciless by Nature",
+      "url": "https://open.spotify.com/track/36uRrdlW2azUbV6ZPcfD9d"
+    },
+    {
+      "album": {
         "name": "METALI!! (feat. Tom Morello)",
         "url": "https://open.spotify.com/album/6ZZgSUrLXWhOxZs3TrPWXt"
       },
@@ -15824,7 +15936,7 @@
       ],
       "date_added": "2026-07-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-27",
       "duration_ms": 232605,
       "name": "Molecular Conversion",
       "url": "https://open.spotify.com/track/3H7xHy4qOTKYdBwE0secGZ"
@@ -16037,6 +16149,28 @@
     },
     {
       "album": {
+        "name": "Mutual Death Warrant (from GTAVI: The Album)",
+        "url": "https://open.spotify.com/album/6Ul8iBUTWthPOsoesxWMY5"
+      },
+      "artists": [
+        {
+          "name": "Power Trip",
+          "url": "https://open.spotify.com/artist/3TmaQHOfq1olDKHtE38zYT"
+        },
+        {
+          "name": "Grand Theft Auto VI",
+          "url": "https://open.spotify.com/artist/15o7qdDTBzs6xWRUYUtZc1"
+        }
+      ],
+      "date_added": "2026-11-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 227253,
+      "name": "Mutual Death Warrant (from GTAVI: The Album)",
+      "url": "https://open.spotify.com/track/5wHEByduQ67cUN48ddtgb0"
+    },
+    {
+      "album": {
         "name": "my mind is a mountain",
         "url": "https://open.spotify.com/album/0cysnMmyD2V1SK3JRhCfnG"
       },
@@ -16164,7 +16298,7 @@
       ],
       "date_added": "2026-07-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-27",
       "duration_ms": 249750,
       "name": "Nails In The Coffin",
       "url": "https://open.spotify.com/track/1mZjfaQkaaphQiaGmnCJzQ"
@@ -16290,7 +16424,7 @@
       ],
       "date_added": "2026-09-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-27",
       "duration_ms": 159000,
       "name": "Nerv(e)",
       "url": "https://open.spotify.com/track/37SHR6iwSXTQ6zPtQluxDD"
@@ -17382,7 +17516,7 @@
       ],
       "date_added": "2026-09-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-27",
       "duration_ms": 214411,
       "name": "OBSOLETE. DELETE. REPEAT.",
       "url": "https://open.spotify.com/track/65NzKcoNd9pCKS4P5NksJm"
@@ -21574,7 +21708,7 @@
       ],
       "date_added": "2026-07-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-27",
       "duration_ms": 297619,
       "name": "Snakes for Dinner",
       "url": "https://open.spotify.com/track/1QJTU1IJBWu8oTzKIt4n6r"
@@ -23257,6 +23391,24 @@
     },
     {
       "album": {
+        "name": "PeelingFlesh",
+        "url": "https://open.spotify.com/album/3QPyiUIOXOLFyolBw7v7cu"
+      },
+      "artists": [
+        {
+          "name": "PeelingFlesh",
+          "url": "https://open.spotify.com/artist/40DbKvYvADTiks7hZIUPHG"
+        }
+      ],
+      "date_added": "2026-11-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 159777,
+      "name": "T.D.C.U.",
+      "url": "https://open.spotify.com/track/7lYiueZlj1qa0VmiLLizGL"
+    },
+    {
+      "album": {
         "name": "T.I.M.E.",
         "url": "https://open.spotify.com/album/632ug91PGPg5ODJIJYNAUY"
       },
@@ -24488,7 +24640,7 @@
       ],
       "date_added": "2026-08-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-27",
       "duration_ms": 282640,
       "name": "The Morrisist",
       "url": "https://open.spotify.com/track/6zUFKTWtomByHkQo1Uw2o0"
@@ -25955,6 +26107,28 @@
     },
     {
       "album": {
+        "name": "Trigger Finger",
+        "url": "https://open.spotify.com/album/06FpVRKrxYVyq9BxyjwBc9"
+      },
+      "artists": [
+        {
+          "name": "Vanna",
+          "url": "https://open.spotify.com/artist/7cXUCar1BPOeMI2qza9oa1"
+        },
+        {
+          "name": "Vana",
+          "url": "https://open.spotify.com/artist/6o2D1YBpFJDDaMwZYGyW3T"
+        }
+      ],
+      "date_added": "2026-11-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 175754,
+      "name": "Trigger Finger",
+      "url": "https://open.spotify.com/track/55q9zGf6iHnOkHIGnsfxEM"
+    },
+    {
+      "album": {
         "name": "Troubled Water",
         "url": "https://open.spotify.com/album/5ppygjU5YVH6knvthwcpbf"
       },
@@ -27292,7 +27466,7 @@
       ],
       "date_added": "2026-09-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-27",
       "duration_ms": 177733,
       "name": "Wall of Skulls",
       "url": "https://open.spotify.com/track/4J6N2ykIlFQP4VK4lVBRjK"

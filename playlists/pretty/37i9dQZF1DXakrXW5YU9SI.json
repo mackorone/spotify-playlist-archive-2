@@ -1,6 +1,6 @@
 {
   "description": "Daj si\u0119 otuli\u0107 ciep\u0142ym brzmieniom \u2744\ufe0f\u2615",
-  "num_followers": 346137,
+  "num_followers": 346352,
   "original_name": "Zimowy chill",
   "owner": {
     "name": "Spotify",
@@ -767,6 +767,26 @@
     {
       "added_at": "2026-11-21 23:00:04",
       "album": {
+        "name": "BESOS",
+        "url": "https://open.spotify.com/album/5iDoFpdKXCswpu35WTZMjg"
+      },
+      "artists": [
+        {
+          "name": "Jan Marczewski",
+          "url": "https://open.spotify.com/artist/0JIgW2OFhm0hH8UdCMU5SU"
+        },
+        {
+          "name": "Hugo Tarres",
+          "url": "https://open.spotify.com/artist/6VaYrjshHIPyNBnmVdLdgQ"
+        }
+      ],
+      "duration_ms": 158457,
+      "name": "BESOS",
+      "url": "https://open.spotify.com/track/7xgb8DRD74b2UhUUkRtzqv"
+    },
+    {
+      "added_at": "2026-11-21 23:00:04",
+      "album": {
         "name": "When Saturn Returns",
         "url": "https://open.spotify.com/album/7747qoZwY5j8OkSkQ4kM51"
       },
@@ -795,26 +815,6 @@
       "duration_ms": 192668,
       "name": "Ritual",
       "url": "https://open.spotify.com/track/6Bd87PKVxEe9hYWqymB4q8"
-    },
-    {
-      "added_at": "2026-11-21 23:00:04",
-      "album": {
-        "name": "BESOS",
-        "url": "https://open.spotify.com/album/5iDoFpdKXCswpu35WTZMjg"
-      },
-      "artists": [
-        {
-          "name": "Jan Marczewski",
-          "url": "https://open.spotify.com/artist/0JIgW2OFhm0hH8UdCMU5SU"
-        },
-        {
-          "name": "Hugo Tarres",
-          "url": "https://open.spotify.com/artist/6VaYrjshHIPyNBnmVdLdgQ"
-        }
-      ],
-      "duration_ms": 158457,
-      "name": "BESOS",
-      "url": "https://open.spotify.com/track/7xgb8DRD74b2UhUUkRtzqv"
     },
     {
       "added_at": "2026-11-21 23:00:04",
@@ -951,22 +951,6 @@
     {
       "added_at": "2026-11-21 23:00:04",
       "album": {
-        "name": "Jak Ci jest?",
-        "url": "https://open.spotify.com/album/1jcLVV7fP9Lm0gfVRRTSyt"
-      },
-      "artists": [
-        {
-          "name": "Igor Herbut",
-          "url": "https://open.spotify.com/artist/5KTMtd3GnDdcWnwxcEBwKX"
-        }
-      ],
-      "duration_ms": 395346,
-      "name": "Jak Ci jest?",
-      "url": "https://open.spotify.com/track/29paoKhPhHyffhWxZKNfVS"
-    },
-    {
-      "added_at": "2026-11-21 23:00:04",
-      "album": {
         "name": "Nast\u0119pny prosz\u0119",
         "url": "https://open.spotify.com/album/54YQmIx2vjYKMMTi0e0SNn"
       },
@@ -979,6 +963,22 @@
       "duration_ms": 164915,
       "name": "Nast\u0119pny prosz\u0119",
       "url": "https://open.spotify.com/track/6Tps1gh9OaN7XerstTIEAi"
+    },
+    {
+      "added_at": "2026-11-21 23:00:04",
+      "album": {
+        "name": "Jak Ci jest?",
+        "url": "https://open.spotify.com/album/1jcLVV7fP9Lm0gfVRRTSyt"
+      },
+      "artists": [
+        {
+          "name": "Igor Herbut",
+          "url": "https://open.spotify.com/artist/5KTMtd3GnDdcWnwxcEBwKX"
+        }
+      ],
+      "duration_ms": 395346,
+      "name": "Jak Ci jest?",
+      "url": "https://open.spotify.com/track/29paoKhPhHyffhWxZKNfVS"
     },
     {
       "added_at": "2026-11-21 23:00:04",

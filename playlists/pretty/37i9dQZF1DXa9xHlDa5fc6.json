@@ -1,6 +1,6 @@
 {
   "description": "unwind with these alternative favorites and new discoveries.",
-  "num_followers": 484555,
+  "num_followers": 484540,
   "original_name": "License To Chill",
   "owner": {
     "name": "Spotify",
@@ -207,22 +207,6 @@
     {
       "added_at": "2026-06-17 20:08:40",
       "album": {
-        "name": "ZABA",
-        "url": "https://open.spotify.com/album/14IOe7ahxQPTwUYUQX3IFi"
-      },
-      "artists": [
-        {
-          "name": "Glass Animals",
-          "url": "https://open.spotify.com/artist/4yvcSjfu4PC0CYQyLy4wSq"
-        }
-      ],
-      "duration_ms": 289306,
-      "name": "Gooey",
-      "url": "https://open.spotify.com/track/1gk3FhAV07q9Jg77UxnVjX"
-    },
-    {
-      "added_at": "2026-06-17 20:08:40",
-      "album": {
         "name": "A/B",
         "url": "https://open.spotify.com/album/4he4SQup02hEIQdwhZlZlk"
       },
@@ -235,6 +219,22 @@
       "duration_ms": 269893,
       "name": "All the Pretty Girls",
       "url": "https://open.spotify.com/track/0QQIhT6PtJ5glyn4HKNKQ6"
+    },
+    {
+      "added_at": "2026-06-17 20:08:40",
+      "album": {
+        "name": "ZABA",
+        "url": "https://open.spotify.com/album/14IOe7ahxQPTwUYUQX3IFi"
+      },
+      "artists": [
+        {
+          "name": "Glass Animals",
+          "url": "https://open.spotify.com/artist/4yvcSjfu4PC0CYQyLy4wSq"
+        }
+      ],
+      "duration_ms": 289306,
+      "name": "Gooey",
+      "url": "https://open.spotify.com/track/1gk3FhAV07q9Jg77UxnVjX"
     },
     {
       "added_at": "2026-06-17 20:08:40",
@@ -351,22 +351,6 @@
     {
       "added_at": "2026-06-17 20:08:40",
       "album": {
-        "name": "Dopamine",
-        "url": "https://open.spotify.com/album/17l7MIu0Jh0tdgK7or9ovw"
-      },
-      "artists": [
-        {
-          "name": "B\u00d8RNS",
-          "url": "https://open.spotify.com/artist/1KP6TWI40m7p3QBTU6u2xo"
-        }
-      ],
-      "duration_ms": 260986,
-      "name": "American Money",
-      "url": "https://open.spotify.com/track/4AewKenHXKBt643p473xCk"
-    },
-    {
-      "added_at": "2026-06-17 20:08:40",
-      "album": {
         "name": "All I Ever Asked (with sombr)",
         "url": "https://open.spotify.com/album/5QJmeE6V1Rs9CdYvt7II8x"
       },
@@ -383,6 +367,22 @@
       "duration_ms": 217578,
       "name": "All I Ever Asked (with sombr)",
       "url": "https://open.spotify.com/track/3h1SACNX5U6CytntiBHEZn"
+    },
+    {
+      "added_at": "2026-06-17 20:08:40",
+      "album": {
+        "name": "Dopamine",
+        "url": "https://open.spotify.com/album/17l7MIu0Jh0tdgK7or9ovw"
+      },
+      "artists": [
+        {
+          "name": "B\u00d8RNS",
+          "url": "https://open.spotify.com/artist/1KP6TWI40m7p3QBTU6u2xo"
+        }
+      ],
+      "duration_ms": 260986,
+      "name": "American Money",
+      "url": "https://open.spotify.com/track/4AewKenHXKBt643p473xCk"
     },
     {
       "added_at": "2026-06-17 20:08:40",
@@ -1343,22 +1343,6 @@
     {
       "added_at": "2026-06-17 20:08:40",
       "album": {
-        "name": "Metamorphosis",
-        "url": "https://open.spotify.com/album/49S75QQHzUjB8dWf2V6C77"
-      },
-      "artists": [
-        {
-          "name": "Infinity Song",
-          "url": "https://open.spotify.com/artist/2PZThLYBW7XtcYVzQms8oM"
-        }
-      ],
-      "duration_ms": 201808,
-      "name": "Slow Burn",
-      "url": "https://open.spotify.com/track/5gUiI6bJSPcKM2lwRaLAgE"
-    },
-    {
-      "added_at": "2026-06-17 20:08:40",
-      "album": {
         "name": "Oregon / Harvard",
         "url": "https://open.spotify.com/album/1JLuplmuYwh4sgCitKhB8I"
       },
@@ -1375,18 +1359,18 @@
     {
       "added_at": "2026-06-17 20:08:40",
       "album": {
-        "name": "WIRED",
-        "url": "https://open.spotify.com/album/2ZOCPqWk1v5UXSBHqOC151"
+        "name": "Metamorphosis",
+        "url": "https://open.spotify.com/album/49S75QQHzUjB8dWf2V6C77"
       },
       "artists": [
         {
-          "name": "Basement",
-          "url": "https://open.spotify.com/artist/4DUQBYAyOTZotSEdKhaf6c"
+          "name": "Infinity Song",
+          "url": "https://open.spotify.com/artist/2PZThLYBW7XtcYVzQms8oM"
         }
       ],
-      "duration_ms": 206780,
-      "name": "Head Alight",
-      "url": "https://open.spotify.com/track/0Vk0bBWOUO5gMviFV4Refk"
+      "duration_ms": 201808,
+      "name": "Slow Burn",
+      "url": "https://open.spotify.com/track/5gUiI6bJSPcKM2lwRaLAgE"
     },
     {
       "added_at": "2026-06-17 20:08:40",
@@ -1403,6 +1387,22 @@
       "duration_ms": 185740,
       "name": "Set Yourself Free",
       "url": "https://open.spotify.com/track/4w7XRsCWPzXiC7HZUEVLFl"
+    },
+    {
+      "added_at": "2026-06-17 20:08:40",
+      "album": {
+        "name": "WIRED",
+        "url": "https://open.spotify.com/album/2ZOCPqWk1v5UXSBHqOC151"
+      },
+      "artists": [
+        {
+          "name": "Basement",
+          "url": "https://open.spotify.com/artist/4DUQBYAyOTZotSEdKhaf6c"
+        }
+      ],
+      "duration_ms": 206780,
+      "name": "Head Alight",
+      "url": "https://open.spotify.com/track/0Vk0bBWOUO5gMviFV4Refk"
     },
     {
       "added_at": "2026-06-17 20:08:40",
@@ -1643,22 +1643,6 @@
     {
       "added_at": "2026-06-17 20:08:40",
       "album": {
-        "name": "West Coast",
-        "url": "https://open.spotify.com/album/4cSgASAuWJQ9igHuwMlCQ6"
-      },
-      "artists": [
-        {
-          "name": "MISSIO",
-          "url": "https://open.spotify.com/artist/2HOMW1liAxI3URnEq95SMS"
-        }
-      ],
-      "duration_ms": 251872,
-      "name": "West Coast",
-      "url": "https://open.spotify.com/track/6zvbty1Vv0uR5Zajlx43gk"
-    },
-    {
-      "added_at": "2026-06-17 20:08:40",
-      "album": {
         "name": "Sharon Van Etten & The Attachment Theory",
         "url": "https://open.spotify.com/album/5aGKc7OL3d1aJodCG2747F"
       },
@@ -1671,6 +1655,22 @@
       "duration_ms": 250409,
       "name": "Idiot Box",
       "url": "https://open.spotify.com/track/33Wi8Etr6ljOsBViBOKWQ5"
+    },
+    {
+      "added_at": "2026-06-17 20:08:40",
+      "album": {
+        "name": "West Coast",
+        "url": "https://open.spotify.com/album/4cSgASAuWJQ9igHuwMlCQ6"
+      },
+      "artists": [
+        {
+          "name": "MISSIO",
+          "url": "https://open.spotify.com/artist/2HOMW1liAxI3URnEq95SMS"
+        }
+      ],
+      "duration_ms": 251872,
+      "name": "West Coast",
+      "url": "https://open.spotify.com/track/6zvbty1Vv0uR5Zajlx43gk"
     },
     {
       "added_at": "2026-06-17 20:08:40",
@@ -1723,22 +1723,6 @@
     {
       "added_at": "2026-06-17 20:08:40",
       "album": {
-        "name": "I See You",
-        "url": "https://open.spotify.com/album/3dDqhWFE1ev9y7mnkEEG1p"
-      },
-      "artists": [
-        {
-          "name": "MISSIO",
-          "url": "https://open.spotify.com/artist/2HOMW1liAxI3URnEq95SMS"
-        }
-      ],
-      "duration_ms": 228735,
-      "name": "I See You",
-      "url": "https://open.spotify.com/track/3EqHFfCSbX4Z1pX8JQ0c0r"
-    },
-    {
-      "added_at": "2026-06-17 20:08:40",
-      "album": {
         "name": "Weightless",
         "url": "https://open.spotify.com/album/6XscVw482npx8U4x0aXXyp"
       },
@@ -1751,6 +1735,22 @@
       "duration_ms": 242922,
       "name": "Weightless",
       "url": "https://open.spotify.com/track/4syzriQO4gEZR61pU5FBFd"
+    },
+    {
+      "added_at": "2026-06-17 20:08:40",
+      "album": {
+        "name": "I See You",
+        "url": "https://open.spotify.com/album/3dDqhWFE1ev9y7mnkEEG1p"
+      },
+      "artists": [
+        {
+          "name": "MISSIO",
+          "url": "https://open.spotify.com/artist/2HOMW1liAxI3URnEq95SMS"
+        }
+      ],
+      "duration_ms": 228735,
+      "name": "I See You",
+      "url": "https://open.spotify.com/track/3EqHFfCSbX4Z1pX8JQ0c0r"
     },
     {
       "added_at": "2026-06-17 20:08:40",
@@ -2195,6 +2195,22 @@
     {
       "added_at": "2026-06-17 20:08:40",
       "album": {
+        "name": "Spinning the Truth Around",
+        "url": "https://open.spotify.com/album/6i7WsXMKef0aJnPUN9uMOP"
+      },
+      "artists": [
+        {
+          "name": "Blue October",
+          "url": "https://open.spotify.com/artist/1TJbmc7jTpw78GKCiMpvDh"
+        }
+      ],
+      "duration_ms": 289165,
+      "name": "Spinning the Truth Around",
+      "url": "https://open.spotify.com/track/5Lkhf0rFPpKy3GaSimofXv"
+    },
+    {
+      "added_at": "2026-06-17 20:08:40",
+      "album": {
         "name": "Death Grip",
         "url": "https://open.spotify.com/album/1J71Jvi9ZrCg1prlKhtMOI"
       },
@@ -2215,22 +2231,6 @@
     {
       "added_at": "2026-06-17 20:08:40",
       "album": {
-        "name": "Spinning the Truth Around",
-        "url": "https://open.spotify.com/album/6i7WsXMKef0aJnPUN9uMOP"
-      },
-      "artists": [
-        {
-          "name": "Blue October",
-          "url": "https://open.spotify.com/artist/1TJbmc7jTpw78GKCiMpvDh"
-        }
-      ],
-      "duration_ms": 289165,
-      "name": "Spinning the Truth Around",
-      "url": "https://open.spotify.com/track/5Lkhf0rFPpKy3GaSimofXv"
-    },
-    {
-      "added_at": "2026-06-17 20:08:40",
-      "album": {
         "name": "Paranoid",
         "url": "https://open.spotify.com/album/3NN3PtcVj4qu9Wm237MgYP"
       },
@@ -2243,22 +2243,6 @@
       "duration_ms": 221373,
       "name": "Paranoid",
       "url": "https://open.spotify.com/track/6Ez7j7MPocvayb7J7WlaR7"
-    },
-    {
-      "added_at": "2026-06-17 20:08:40",
-      "album": {
-        "name": "Aftertaste",
-        "url": "https://open.spotify.com/album/4JA0mBZ4KkCk0clp3d8kLY"
-      },
-      "artists": [
-        {
-          "name": "Katie Gavin",
-          "url": "https://open.spotify.com/artist/0DpJl9MRib7qywJOoYqEZg"
-        }
-      ],
-      "duration_ms": 214706,
-      "name": "Aftertaste",
-      "url": "https://open.spotify.com/track/3AinWupnMmlYaOgJGqitFe"
     },
     {
       "added_at": "2026-06-17 20:08:40",
@@ -2279,18 +2263,18 @@
     {
       "added_at": "2026-06-17 20:08:40",
       "album": {
-        "name": "Tilt At The Wind No More",
-        "url": "https://open.spotify.com/album/7p6kas933fJItm9YDJew2A"
+        "name": "Aftertaste",
+        "url": "https://open.spotify.com/album/4JA0mBZ4KkCk0clp3d8kLY"
       },
       "artists": [
         {
-          "name": "Andrew McMahon in the Wilderness",
-          "url": "https://open.spotify.com/artist/716ZwtZBmwROBXcFmCzfdM"
+          "name": "Katie Gavin",
+          "url": "https://open.spotify.com/artist/0DpJl9MRib7qywJOoYqEZg"
         }
       ],
-      "duration_ms": 212081,
-      "name": "Smoke & Ribbons",
-      "url": "https://open.spotify.com/track/13vTVHPEGmoTT8RypblKpJ"
+      "duration_ms": 214706,
+      "name": "Aftertaste",
+      "url": "https://open.spotify.com/track/3AinWupnMmlYaOgJGqitFe"
     },
     {
       "added_at": "2026-06-17 20:08:40",
@@ -2307,6 +2291,22 @@
       "duration_ms": 269473,
       "name": "Just A Western",
       "url": "https://open.spotify.com/track/69GRL4Pmz6yxw3CUkaeP2A"
+    },
+    {
+      "added_at": "2026-06-17 20:08:40",
+      "album": {
+        "name": "Tilt At The Wind No More",
+        "url": "https://open.spotify.com/album/7p6kas933fJItm9YDJew2A"
+      },
+      "artists": [
+        {
+          "name": "Andrew McMahon in the Wilderness",
+          "url": "https://open.spotify.com/artist/716ZwtZBmwROBXcFmCzfdM"
+        }
+      ],
+      "duration_ms": 212081,
+      "name": "Smoke & Ribbons",
+      "url": "https://open.spotify.com/track/13vTVHPEGmoTT8RypblKpJ"
     },
     {
       "added_at": "2026-06-17 20:08:40",
@@ -2419,22 +2419,6 @@
     {
       "added_at": "2026-06-17 20:08:40",
       "album": {
-        "name": "Minimum Wage",
-        "url": "https://open.spotify.com/album/4uKDcWQqRuf4W7wrdtgzwp"
-      },
-      "artists": [
-        {
-          "name": "Blondes",
-          "url": "https://open.spotify.com/artist/7GRJzNqBhBrhB9axaHsLlP"
-        }
-      ],
-      "duration_ms": 196512,
-      "name": "Minimum Wage",
-      "url": "https://open.spotify.com/track/1Cgin6oAvA4hvqmRvnRR1v"
-    },
-    {
-      "added_at": "2026-06-17 20:08:40",
-      "album": {
         "name": "I Remember Way Too Much (Acoustic Version)",
         "url": "https://open.spotify.com/album/0Jyta4WQVQakKAKNGJnCQH"
       },
@@ -2447,6 +2431,22 @@
       "duration_ms": 222540,
       "name": "I Remember Way Too Much - Acoustic Version",
       "url": "https://open.spotify.com/track/0cqHnXoMyt3ZMCb4IpPy4d"
+    },
+    {
+      "added_at": "2026-06-17 20:08:40",
+      "album": {
+        "name": "Minimum Wage",
+        "url": "https://open.spotify.com/album/4uKDcWQqRuf4W7wrdtgzwp"
+      },
+      "artists": [
+        {
+          "name": "Blondes",
+          "url": "https://open.spotify.com/artist/7GRJzNqBhBrhB9axaHsLlP"
+        }
+      ],
+      "duration_ms": 196512,
+      "name": "Minimum Wage",
+      "url": "https://open.spotify.com/track/1Cgin6oAvA4hvqmRvnRR1v"
     },
     {
       "added_at": "2026-06-17 20:08:40",

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/4fiEJd3fBtLcNuWwmZ2HeT.md) - [plain]
 
 > Adicta a mi novia
 
-[bpdhoe](https://open.spotify.com/user/megaalexpro3000) - 2 likes - 529 songs - 1 day 6 hr 27 min
+[bpdhoe](https://open.spotify.com/user/megaalexpro3000) - 2 likes - 530 songs - 1 day 6 hr 29 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -537,5 +537,6 @@ pretty - [cumulative](/playlists/cumulative/4fiEJd3fBtLcNuWwmZ2HeT.md) - [plain]
 | 527 | [LOSTRUST \(feat\. Yi Xi\)](https://open.spotify.com/track/1kkdsilbjUuuHZMHqUvn5o) | [GGPRM](https://open.spotify.com/artist/6veKk0BLOtQRlTArMf247p), [Yi Xi](https://open.spotify.com/artist/0wMM1e0cn0HAMWeVxkQc9T) | [LOSTRUST \(feat\. Yi Xi\)](https://open.spotify.com/album/5hu3eJlZVZL7zhN4YEqgDh) | 1:32 |
 | 528 | [Splitter Girl](https://open.spotify.com/track/0kAQ0bGcee2YyzM4C3a3FV) | [weevildoing](https://open.spotify.com/artist/5zwqiROc7gBVY5Xx2sf2Tn), [SeeU](https://open.spotify.com/artist/1mao2cTeJSvu5ufNV2CtdR) | [Splitter Girl](https://open.spotify.com/album/2uocSKWR7VZhwbZx9BknfH) | 3:10 |
 | 529 | [Schadenfreude](https://open.spotify.com/track/2OregsirjLYVdL7DfT3n5W) | [ぐちり](https://open.spotify.com/artist/7AhWr9uwljlOcqY6eiX7ww) | [Mugenhouyou](https://open.spotify.com/album/3Jcm3UheVWkyhnUwnqHW4D) | 2:53 |
+| 530 | [おくすりちょうだい](https://open.spotify.com/track/0wQGkL12Uutn406obKNzI8) | [アザミ](https://open.spotify.com/artist/7hvp5ittRpuSvksfusEkmv) | [おくすりちょうだい](https://open.spotify.com/album/0Wg5AVB28YUfQEpY5nE7Wz) | 2:55 |
 
-Snapshot ID: `AAAKlP6IZSmWqzDTCQdQUTlc5w1AqVUL`
+Snapshot ID: `AAAKlZIHbHsUlTwWCPu6wE0AH50XM8Op`

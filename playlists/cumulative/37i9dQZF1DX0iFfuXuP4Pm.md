@@ -4,7 +4,7 @@
 
 > Mga nangunguna sa mundo ng OPM\. Cover: GEHLEE
 
-652 songs - 1 day 16 hr 41 min
+654 songs - 1 day 16 hr 49 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -243,6 +243,7 @@
 | [Jigsaw Puzzle](https://open.spotify.com/track/1a17aapKcbXTSdrQM3B9ar) | [Regine Velasquez](https://open.spotify.com/artist/3wNylAjJX1PiCpMKx8Lrfp) | [Jigsaw Puzzle](https://open.spotify.com/album/7DpzEpSRjZiFFkRRpgYpWK) | 2:59 | 2025-01-15 | 2025-02-20 |
 | [K](https://open.spotify.com/track/78VwTvhDEgUe4etkxPyrMN) | [Eliza Maturan](https://open.spotify.com/artist/3C1ER0cuXc8dLtaI8RvLI6) | [K](https://open.spotify.com/album/5YxEY0VbeXcdmha670Hh6s) | 3:45 | 2025-04-02 | 2025-07-10 |
 | [Kaakit\-akit](https://open.spotify.com/track/6GPfKhdih8hhpC0MJXDu6G) | [Over October](https://open.spotify.com/artist/1hMAGfvamVXuSWBFQRFMeq) | [Kaakit\-akit](https://open.spotify.com/album/1CMNY2NlvTax6Tkb2X2ov2) | 4:06 | 2024-07-24 | 2024-12-12 |
+| [KABADO](https://open.spotify.com/track/1BpZI7nnmuBDkKq0kRDtw7) | [Dro Perez](https://open.spotify.com/artist/1Qwm4EmOYuY34nAFfeEUOa), [Sol](https://open.spotify.com/artist/5X0TyKrix2K8jKMDNAxGUT) | [KABADO](https://open.spotify.com/album/6QirzdlEJWXYgPEXJk6u07) | 3:46 | 2026-11-27 |  |
 | [KABANATA](https://open.spotify.com/track/0XAd307ZQhPFVtnVrqwUsd) | [JAO](https://open.spotify.com/artist/6Bc3V3kVnWpY5kqQN6nio5) | [KABANATA](https://open.spotify.com/album/4ORFzQtMyd3xR7SnLFnod9) | 3:48 | 2025-03-26 | 2025-07-03 |
 | [Kabisado](https://open.spotify.com/track/4z928BtE4j1bjhcX9RU44M) | [IV OF SPADES](https://open.spotify.com/artist/4k9wp4ipHdA1bu1T4x1ZTG) | [Andalucia](https://open.spotify.com/album/3rK5A6he7WDayWPDm3ttSh) | 3:27 | 2026-04-08 |  |
 | [kahel na langit](https://open.spotify.com/track/1ytElsSPsJ1GBqMfPYydRX) | [Maki](https://open.spotify.com/artist/6AvnL2gWjNYs1hRVJx4huK) | [kahel na langit](https://open.spotify.com/album/4hien5o64CQkkSqQ2w6vhQ) | 3:36 | 2025-06-18 | 2026-04-16 |
@@ -353,7 +354,7 @@
 | [Misbehave](https://open.spotify.com/track/4kdK6ElvEvHh3MaD2sBAOh) | [Lola Amour](https://open.spotify.com/artist/29zSTMejPhY0m7kwNQ9SPI) | [Misbehave](https://open.spotify.com/album/18BMu9faCjCie5pvbEejmc) | 3:42 | 2025-06-04 | 2025-08-07 |
 | [Miss Miss](https://open.spotify.com/track/5mi8Oe95frx6LhvFioXE7t) | [Rob Deniel](https://open.spotify.com/artist/7dFzqx2qyelGPiBKmdSEOT) | [Miss Miss](https://open.spotify.com/album/7vX4hut0GPXmfbqbSvz49o) | 4:25 | 2024-01-24 | 2024-10-10 |
 | [Misteryoso](https://open.spotify.com/track/0kE1SmlJNLg14dgdo9kJws) | [Cup of Joe](https://open.spotify.com/artist/61nn6nOoLWjVC1ER2qFAvN) | [Misteryoso](https://open.spotify.com/album/6BqP9dOpxUGa7gCunYMw9a) | 3:41 | 2024-05-24 | 2025-05-08 |
-| [Monday Afternoon](https://open.spotify.com/track/3CTcje8vXcClKwy7xVOZwu) | [Dionela](https://open.spotify.com/artist/1chOgh5tgwfiyJ2zhUHwBj) | [Monday Afternoon](https://open.spotify.com/album/6q3fsRJeID2rKGgHRF8Uh3) | 4:29 | 2026-09-11 |  |
+| [Monday Afternoon](https://open.spotify.com/track/3CTcje8vXcClKwy7xVOZwu) | [Dionela](https://open.spotify.com/artist/1chOgh5tgwfiyJ2zhUHwBj) | [Monday Afternoon](https://open.spotify.com/album/6q3fsRJeID2rKGgHRF8Uh3) | 4:29 | 2026-09-11 | 2026-11-27 |
 | [Monster](https://open.spotify.com/track/2WXfwMREEeDXnuhLF7TLtp) | [IV OF SPADES](https://open.spotify.com/artist/4k9wp4ipHdA1bu1T4x1ZTG) | [Andalucia](https://open.spotify.com/album/3rK5A6he7WDayWPDm3ttSh) | 3:00 | 2025-11-12 | 2025-12-10 |
 | [Moolah](https://open.spotify.com/track/26DXCOVx8HiHooG0RveKEn) | [SCOOP DOGG](https://open.spotify.com/artist/5RLP1KKuSvzYTWDujE3bi2), [Daarth](https://open.spotify.com/artist/1tAln3eaP4KDXezHvfy1a3) | [Moolah](https://open.spotify.com/album/6P6HlYKePGlHFy9pVeBNNS) | 2:37 | 2026-04-16 | 2026-07-25 |
 | [Moonlight](https://open.spotify.com/track/7cens2GI2PTemvKNnpjxs8) | [Ian Asher](https://open.spotify.com/artist/5IrxhrMyvZxzgPYrC9j2km), [SB19](https://open.spotify.com/artist/3g7vYcdDXnqnDKYFwqXBJP), [Terry Zhong](https://open.spotify.com/artist/6gmZPYIcqdjmkauB2krvSg) | [Moonlight](https://open.spotify.com/album/204uhd5Yr7mUtfydYTnBDQ) | 2:48 | 2024-05-08 | 2024-06-13 |
@@ -365,6 +366,7 @@
 | [Multo \(Stripped Down\)](https://open.spotify.com/track/1GSv3y0eL50grXOaro8BTn) | [Cup of Joe](https://open.spotify.com/artist/61nn6nOoLWjVC1ER2qFAvN) | [The Loved One \(Original Movie Soundtrack\)](https://open.spotify.com/album/3Ro4baI6qQJeefppUAUoVw) | 4:06 | 2026-02-25 | 2026-07-04 |
 | [Munchies](https://open.spotify.com/track/1vXc5zGgyzKsNjA6USRzkd) | [Illest Morena](https://open.spotify.com/artist/2zRoFfKfqM5jaUysSG9EUI) | [Munchies](https://open.spotify.com/album/7MKpOuvtAQlOYTjPeRAgXk) | 3:28 | 2024-05-01 | 2024-06-01 |
 | [Museo](https://open.spotify.com/track/2dMQ4FbQcrEWVFK6NIFjrl) | [Eliza Maturan](https://open.spotify.com/artist/3C1ER0cuXc8dLtaI8RvLI6) | [Museo](https://open.spotify.com/album/5YU9eW5SXNmyX768HHrDFr) | 4:30 | 2024-06-20 | 2024-11-28 |
+| [Musta?](https://open.spotify.com/track/0jJNDqQkfbZBkOdYTAlESy) | [Adie](https://open.spotify.com/artist/1DlYnIiliftt6R21Y5NOW2) | [Saliw Padamdam](https://open.spotify.com/album/6s6FXsgGlBUwhQILpn1juS) | 4:01 | 2026-11-27 |  |
 | [My Day](https://open.spotify.com/track/26gpJidk118QGbNcDqCHbW) | [HELLMERRY](https://open.spotify.com/artist/4NsbfTEC3nOcc0vOpZ1rRc) | [My Day](https://open.spotify.com/album/0nIgomkDdr75IJu4aanFJl) | 3:49 | 2025-01-01 | 2025-05-22 |
 | [Na Para Bang](https://open.spotify.com/track/5U3UOiWDos9P2NWV7xTNwJ) | [Mariah Deborah](https://open.spotify.com/artist/37Wy0h3oMjblxPn4bLXqyv) | [Na Para Bang](https://open.spotify.com/album/3PEV15iBgqpsdyUVT5pj4x) | 3:48 | 2026-09-25 |  |
 | [Nagbabakasakali](https://open.spotify.com/track/4fE0gWRGGRTxMCiJ51As3w) | [polaris.](https://open.spotify.com/artist/48iP2a3vIRKl7MtFZDLnUx), [drmfy](https://open.spotify.com/artist/4hsyXkZRXr0zZ8WNQAJnhp) | [Nagbabakasakali](https://open.spotify.com/album/3QGjMQB9pwrBzvdbHacVdQ) | 3:22 | 2024-01-24 | 2024-02-29 |
@@ -537,7 +539,7 @@
 | [Shuloks](https://open.spotify.com/track/1m4zRUexgXzzpI9Sb94bgz) | [RAPROJECT SIX](https://open.spotify.com/artist/02QBz6b5fpeADDbuTE1C59) | [Shuloks](https://open.spotify.com/album/70FbVi8zPEnqd19ZBnyq2s) | 2:58 | 2026-08-28 |  |
 | [Sikulo](https://open.spotify.com/track/4UIfLmvtfUdSnoC9O6uXvv) | [Maki](https://open.spotify.com/artist/6AvnL2gWjNYs1hRVJx4huK), [Angela Ken](https://open.spotify.com/artist/7yaaxrkMOWJZXpIYHkppDH), [Nhiko](https://open.spotify.com/artist/1aW2DEplQwLEpQ68PMpHQa) | [Sikulo](https://open.spotify.com/album/2nR17tFk4I05vKtmOKdxfL) | 4:41 | 2024-03-27 | 2024-09-12 |
 | [Silent Cries](https://open.spotify.com/track/0WqlelFtFu2w5R1OzrE3Vg) | [JOSH CULLEN](https://open.spotify.com/artist/3xn2W0ziGURPYJj372a6jQ) | [Silent Cries](https://open.spotify.com/album/2Rd4le0hPammFgfq9m1wjU) | 3:13 | 2024-09-04 | 2024-09-27 |
-| [Silip](https://open.spotify.com/track/3nHfwCmcwmt1eJX3rqn8xC) | [Adie](https://open.spotify.com/artist/1DlYnIiliftt6R21Y5NOW2) | [Silip](https://open.spotify.com/album/2IZRTt70Ri8I5G9clDfJEO) | 3:02 | 2026-09-04 |  |
+| [Silip](https://open.spotify.com/track/3nHfwCmcwmt1eJX3rqn8xC) | [Adie](https://open.spotify.com/artist/1DlYnIiliftt6R21Y5NOW2) | [Silip](https://open.spotify.com/album/2IZRTt70Ri8I5G9clDfJEO) | 3:02 | 2026-09-04 | 2026-11-27 |
 | [Silong](https://open.spotify.com/track/5D9HON23VZD4UMeSvklhCY) | [Caña](https://open.spotify.com/artist/1gmvYFMrUzI3qL11GrmtD8) | [Silong](https://open.spotify.com/album/4wn5vVfyQuKgAHPaj5wRdG) | 5:42 | 2025-10-22 | 2025-11-27 |
 | [Silver](https://open.spotify.com/track/3eZMRJkj4Q78YJ2iGxKjgI) | [TJ Monterde](https://open.spotify.com/artist/7LvDTuFCBv08xm6u1pOMK0), [10CM](https://open.spotify.com/artist/6zn0ihyAApAYV51zpXxdEp) | [Silver](https://open.spotify.com/album/50NmyXmki7sJlAmJcIdMMl) | 3:43 | 2025-05-14 | 2025-07-10 |
 | [simula ngayon.](https://open.spotify.com/track/0kLXjivW4YUO9vvBj5pZc7) | [Angela Ken](https://open.spotify.com/artist/7yaaxrkMOWJZXpIYHkppDH) | [Panahon](https://open.spotify.com/album/4v7HDiwv7uwOWI6fOfOKgX) | 3:33 | 2026-05-13 | 2026-08-15 |

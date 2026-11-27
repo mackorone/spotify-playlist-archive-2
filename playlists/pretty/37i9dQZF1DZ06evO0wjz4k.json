@@ -1,12 +1,12 @@
 {
   "description": "This is Parker McCollum. The essential tracks, all in one playlist.",
-  "num_followers": 36917,
+  "num_followers": 36927,
   "original_name": "This Is Parker McCollum",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "awOCAAAAAABra6kSCZ1ErwV2KeaV+Lau",
+  "snapshot_id": "awYlAAAAAABHnHELUcv1PdPL8saBznyx",
   "tracks": [
     {
       "added_at": null,
@@ -155,22 +155,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Parker McCollum",
-        "url": "https://open.spotify.com/album/0yqDWZNB69J3FYyQPgF4xA"
-      },
-      "artists": [
-        {
-          "name": "Parker McCollum",
-          "url": "https://open.spotify.com/artist/0Z8XVUAOBPM4x12wKnFHEQ"
-        }
-      ],
-      "duration_ms": 208946,
-      "name": "Solid Country Gold",
-      "url": "https://open.spotify.com/track/7f0FidagqvvapT7TeaWfuP"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Noise Complaint",
         "url": "https://open.spotify.com/album/2c4NXT3nDspQTLujTdIJHT"
       },
@@ -187,6 +171,22 @@
       "duration_ms": 223062,
       "name": "Love (feat. Parker McCollum)",
       "url": "https://open.spotify.com/track/12n0Z1dIlqXZYXx43MSHoG"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Parker McCollum",
+        "url": "https://open.spotify.com/album/0yqDWZNB69J3FYyQPgF4xA"
+      },
+      "artists": [
+        {
+          "name": "Parker McCollum",
+          "url": "https://open.spotify.com/artist/0Z8XVUAOBPM4x12wKnFHEQ"
+        }
+      ],
+      "duration_ms": 208946,
+      "name": "Solid Country Gold",
+      "url": "https://open.spotify.com/track/7f0FidagqvvapT7TeaWfuP"
     },
     {
       "added_at": null,
@@ -316,9 +316,9 @@
           "url": "https://open.spotify.com/artist/0Z8XVUAOBPM4x12wKnFHEQ"
         }
       ],
-      "duration_ms": 285680,
-      "name": "Hope That I\u2019m Enough",
-      "url": "https://open.spotify.com/track/0UiRMlvrPJKKM4FCsoFDAf"
+      "duration_ms": 311666,
+      "name": "My Blue",
+      "url": "https://open.spotify.com/track/18i60D5UgcVUjTPzZdQmPM"
     },
     {
       "added_at": null,
@@ -380,9 +380,9 @@
           "url": "https://open.spotify.com/artist/0Z8XVUAOBPM4x12wKnFHEQ"
         }
       ],
-      "duration_ms": 311666,
-      "name": "My Blue",
-      "url": "https://open.spotify.com/track/18i60D5UgcVUjTPzZdQmPM"
+      "duration_ms": 285680,
+      "name": "Hope That I\u2019m Enough",
+      "url": "https://open.spotify.com/track/0UiRMlvrPJKKM4FCsoFDAf"
     },
     {
       "added_at": null,
@@ -451,22 +451,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Live From Sound City",
-        "url": "https://open.spotify.com/album/3cF0CmRy4jMsWM7naXCYdR"
-      },
-      "artists": [
-        {
-          "name": "Parker McCollum",
-          "url": "https://open.spotify.com/artist/0Z8XVUAOBPM4x12wKnFHEQ"
-        }
-      ],
-      "duration_ms": 269533,
-      "name": "'Til the End - Acoustic",
-      "url": "https://open.spotify.com/track/5XuOK4ZuhRnJLg9QtHlpKm"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "The Limestone Kid",
         "url": "https://open.spotify.com/album/2kAU2XG75F3QLzSQrlHo2P"
       },
@@ -479,6 +463,22 @@
       "duration_ms": 251520,
       "name": "High Above the Water",
       "url": "https://open.spotify.com/track/4oJU2pJNmtAlduLSAMJ7QE"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Live From Sound City",
+        "url": "https://open.spotify.com/album/3cF0CmRy4jMsWM7naXCYdR"
+      },
+      "artists": [
+        {
+          "name": "Parker McCollum",
+          "url": "https://open.spotify.com/artist/0Z8XVUAOBPM4x12wKnFHEQ"
+        }
+      ],
+      "duration_ms": 269533,
+      "name": "'Til the End - Acoustic",
+      "url": "https://open.spotify.com/track/5XuOK4ZuhRnJLg9QtHlpKm"
     },
     {
       "added_at": null,
@@ -519,22 +519,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Live From Sound City",
-        "url": "https://open.spotify.com/album/3cF0CmRy4jMsWM7naXCYdR"
-      },
-      "artists": [
-        {
-          "name": "Parker McCollum",
-          "url": "https://open.spotify.com/artist/0Z8XVUAOBPM4x12wKnFHEQ"
-        }
-      ],
-      "duration_ms": 221333,
-      "name": "Better Alone - Acoustic",
-      "url": "https://open.spotify.com/track/0gmgenGc22fdjFpX3UBWnd"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "The Limestone Kid",
         "url": "https://open.spotify.com/album/2kAU2XG75F3QLzSQrlHo2P"
       },
@@ -547,6 +531,22 @@
       "duration_ms": 265906,
       "name": "Silhouette",
       "url": "https://open.spotify.com/track/30qsfPMvKe7oMgrqHb5OXN"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Live From Sound City",
+        "url": "https://open.spotify.com/album/3cF0CmRy4jMsWM7naXCYdR"
+      },
+      "artists": [
+        {
+          "name": "Parker McCollum",
+          "url": "https://open.spotify.com/artist/0Z8XVUAOBPM4x12wKnFHEQ"
+        }
+      ],
+      "duration_ms": 221333,
+      "name": "Better Alone - Acoustic",
+      "url": "https://open.spotify.com/track/0gmgenGc22fdjFpX3UBWnd"
     },
     {
       "added_at": null,
@@ -583,6 +583,26 @@
     {
       "added_at": null,
       "album": {
+        "name": "In Defense of Drinking",
+        "url": "https://open.spotify.com/album/2CU1ydBFrQ1JFbt0GG1txx"
+      },
+      "artists": [
+        {
+          "name": "Tyler Halverson",
+          "url": "https://open.spotify.com/artist/3oFu5CCLk4p4zLBNo3wrai"
+        },
+        {
+          "name": "Parker McCollum",
+          "url": "https://open.spotify.com/artist/0Z8XVUAOBPM4x12wKnFHEQ"
+        }
+      ],
+      "duration_ms": 221578,
+      "name": "Beer Garden Baby",
+      "url": "https://open.spotify.com/track/7iUN9ytQekHf0EazrYHoGk"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Live From Sound City",
         "url": "https://open.spotify.com/album/3cF0CmRy4jMsWM7naXCYdR"
       },
@@ -615,26 +635,6 @@
       "duration_ms": 183242,
       "name": "Santa Fe",
       "url": "https://open.spotify.com/track/12AEBgTTELBhtAthd5dRqH"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "In Defense of Drinking",
-        "url": "https://open.spotify.com/album/2CU1ydBFrQ1JFbt0GG1txx"
-      },
-      "artists": [
-        {
-          "name": "Tyler Halverson",
-          "url": "https://open.spotify.com/artist/3oFu5CCLk4p4zLBNo3wrai"
-        },
-        {
-          "name": "Parker McCollum",
-          "url": "https://open.spotify.com/artist/0Z8XVUAOBPM4x12wKnFHEQ"
-        }
-      ],
-      "duration_ms": 221578,
-      "name": "Beer Garden Baby",
-      "url": "https://open.spotify.com/track/7iUN9ytQekHf0EazrYHoGk"
     },
     {
       "added_at": null,

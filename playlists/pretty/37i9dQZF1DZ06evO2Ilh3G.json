@@ -1,12 +1,12 @@
 {
   "description": "This is Offset. The essential tracks, all in one playlist.",
-  "num_followers": 120559,
+  "num_followers": 120570,
   "original_name": "This Is Offset",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "awOCAAAAAAAlDRq916NVLwBf8eu9TSkJ",
+  "snapshot_id": "awYlAAAAAACR2sOZ7zQc08R728f5XNsW",
   "tracks": [
     {
       "added_at": null,
@@ -187,18 +187,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "Something I Need",
-        "url": "https://open.spotify.com/album/3fFbtQSZPuTZRTlghImWcQ"
+        "name": "GMFU",
+        "url": "https://open.spotify.com/album/0sjhU3kzHU2dfd6SVrzLIp"
       },
       "artists": [
         {
           "name": "Offset",
           "url": "https://open.spotify.com/artist/4DdkRBBYG6Yk9Ka8tdJ9BW"
+        },
+        {
+          "name": "Gunna",
+          "url": "https://open.spotify.com/artist/2hlmm7s2ICUX0LVIhVFlZQ"
         }
       ],
-      "duration_ms": 145754,
-      "name": "Something I Need",
-      "url": "https://open.spotify.com/track/7CLcUDZNAIEJVmQOFqMON8"
+      "duration_ms": 196437,
+      "name": "Spit Propane (feat. Gunna)",
+      "url": "https://open.spotify.com/track/0Gwfb3N7Le6CyiY5rSs4Ty"
     },
     {
       "added_at": null,
@@ -227,22 +231,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "GMFU",
-        "url": "https://open.spotify.com/album/0sjhU3kzHU2dfd6SVrzLIp"
+        "name": "Something I Need",
+        "url": "https://open.spotify.com/album/3fFbtQSZPuTZRTlghImWcQ"
       },
       "artists": [
         {
           "name": "Offset",
           "url": "https://open.spotify.com/artist/4DdkRBBYG6Yk9Ka8tdJ9BW"
-        },
-        {
-          "name": "Gunna",
-          "url": "https://open.spotify.com/artist/2hlmm7s2ICUX0LVIhVFlZQ"
         }
       ],
-      "duration_ms": 196437,
-      "name": "Spit Propane (feat. Gunna)",
-      "url": "https://open.spotify.com/track/0Gwfb3N7Le6CyiY5rSs4Ty"
+      "duration_ms": 145754,
+      "name": "Something I Need",
+      "url": "https://open.spotify.com/track/7CLcUDZNAIEJVmQOFqMON8"
     },
     {
       "added_at": null,
@@ -271,42 +271,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "SET IT OFF",
-        "url": "https://open.spotify.com/album/1D1hLipjrdB6pnxurMtC3E"
-      },
-      "artists": [
-        {
-          "name": "Offset",
-          "url": "https://open.spotify.com/artist/4DdkRBBYG6Yk9Ka8tdJ9BW"
-        }
-      ],
-      "duration_ms": 191466,
-      "name": "DON'T YOU LIE",
-      "url": "https://open.spotify.com/track/0MSTxF501TyzjuRTHZz46g"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "One of Wun",
-        "url": "https://open.spotify.com/album/7g0PJ7VbsOkYTECUFkyNPN"
-      },
-      "artists": [
-        {
-          "name": "Gunna",
-          "url": "https://open.spotify.com/artist/2hlmm7s2ICUX0LVIhVFlZQ"
-        },
-        {
-          "name": "Offset",
-          "url": "https://open.spotify.com/artist/4DdkRBBYG6Yk9Ka8tdJ9BW"
-        }
-      ],
-      "duration_ms": 165346,
-      "name": "prada dem (feat. Offset)",
-      "url": "https://open.spotify.com/track/7fzN9lz890zav0HERLvVKZ"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "GMFU",
         "url": "https://open.spotify.com/album/0sjhU3kzHU2dfd6SVrzLIp"
       },
@@ -327,6 +291,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "SET IT OFF",
+        "url": "https://open.spotify.com/album/1D1hLipjrdB6pnxurMtC3E"
+      },
+      "artists": [
+        {
+          "name": "Offset",
+          "url": "https://open.spotify.com/artist/4DdkRBBYG6Yk9Ka8tdJ9BW"
+        }
+      ],
+      "duration_ms": 191466,
+      "name": "DON'T YOU LIE",
+      "url": "https://open.spotify.com/track/0MSTxF501TyzjuRTHZz46g"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "KIARI",
         "url": "https://open.spotify.com/album/2hHTG0xjC0wzHO8CJozddr"
       },
@@ -343,6 +323,26 @@
       "duration_ms": 194571,
       "name": "Run It Up (feat. Key Glock)",
       "url": "https://open.spotify.com/track/73EKQrgYNVwOaKdwh5a1PV"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "One of Wun",
+        "url": "https://open.spotify.com/album/7g0PJ7VbsOkYTECUFkyNPN"
+      },
+      "artists": [
+        {
+          "name": "Gunna",
+          "url": "https://open.spotify.com/artist/2hlmm7s2ICUX0LVIhVFlZQ"
+        },
+        {
+          "name": "Offset",
+          "url": "https://open.spotify.com/artist/4DdkRBBYG6Yk9Ka8tdJ9BW"
+        }
+      ],
+      "duration_ms": 165346,
+      "name": "prada dem (feat. Offset)",
+      "url": "https://open.spotify.com/track/7fzN9lz890zav0HERLvVKZ"
     },
     {
       "added_at": null,
@@ -407,6 +407,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "GMFU",
+        "url": "https://open.spotify.com/album/0sjhU3kzHU2dfd6SVrzLIp"
+      },
+      "artists": [
+        {
+          "name": "Offset",
+          "url": "https://open.spotify.com/artist/4DdkRBBYG6Yk9Ka8tdJ9BW"
+        }
+      ],
+      "duration_ms": 146400,
+      "name": "I Did",
+      "url": "https://open.spotify.com/track/2LEMAgY1p14F1cwKu6mqaY"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "KIARI",
         "url": "https://open.spotify.com/album/2hHTG0xjC0wzHO8CJozddr"
       },
@@ -451,22 +467,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "GMFU",
-        "url": "https://open.spotify.com/album/0sjhU3kzHU2dfd6SVrzLIp"
-      },
-      "artists": [
-        {
-          "name": "Offset",
-          "url": "https://open.spotify.com/artist/4DdkRBBYG6Yk9Ka8tdJ9BW"
-        }
-      ],
-      "duration_ms": 146400,
-      "name": "I Did",
-      "url": "https://open.spotify.com/track/2LEMAgY1p14F1cwKu6mqaY"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "NOT ALL HEROES WEAR CAPES (Deluxe)",
         "url": "https://open.spotify.com/album/3IO8IPjwXuzPJnoaqkwYrj"
       },
@@ -487,6 +487,26 @@
       "duration_ms": 265480,
       "name": "No Complaints (feat. Offset & Drake) (Bonus)",
       "url": "https://open.spotify.com/track/156LzfvMNKuXuiot4uzhGD"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "GMFU",
+        "url": "https://open.spotify.com/album/0sjhU3kzHU2dfd6SVrzLIp"
+      },
+      "artists": [
+        {
+          "name": "Offset",
+          "url": "https://open.spotify.com/artist/4DdkRBBYG6Yk9Ka8tdJ9BW"
+        },
+        {
+          "name": "Tommy Richman",
+          "url": "https://open.spotify.com/artist/1WaFQSHVGZQJTbf0BdxdNo"
+        }
+      ],
+      "duration_ms": 148943,
+      "name": "One Way Flight (feat. Tommy Richman)",
+      "url": "https://open.spotify.com/track/3Cf5s3N0DR1WBi36auyyDa"
     },
     {
       "added_at": null,
@@ -555,26 +575,6 @@
       "duration_ms": 257600,
       "name": "Rap Saved Me (feat. Quavo)",
       "url": "https://open.spotify.com/track/0tdCy39PgWN8LFWu34ORn3"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "GMFU",
-        "url": "https://open.spotify.com/album/0sjhU3kzHU2dfd6SVrzLIp"
-      },
-      "artists": [
-        {
-          "name": "Offset",
-          "url": "https://open.spotify.com/artist/4DdkRBBYG6Yk9Ka8tdJ9BW"
-        },
-        {
-          "name": "Tommy Richman",
-          "url": "https://open.spotify.com/artist/1WaFQSHVGZQJTbf0BdxdNo"
-        }
-      ],
-      "duration_ms": 148943,
-      "name": "One Way Flight (feat. Tommy Richman)",
-      "url": "https://open.spotify.com/track/3Cf5s3N0DR1WBi36auyyDa"
     },
     {
       "added_at": null,
@@ -715,6 +715,26 @@
     {
       "added_at": null,
       "album": {
+        "name": "The Party Never Ends 2.0",
+        "url": "https://open.spotify.com/album/7kOpqRCEqTTzcGc4CwEFph"
+      },
+      "artists": [
+        {
+          "name": "Juice WRLD",
+          "url": "https://open.spotify.com/artist/4MCBfE4596Uoi2O4DtmEMz"
+        },
+        {
+          "name": "Offset",
+          "url": "https://open.spotify.com/artist/4DdkRBBYG6Yk9Ka8tdJ9BW"
+        }
+      ],
+      "duration_ms": 180064,
+      "name": "Celebrate (with Offset)",
+      "url": "https://open.spotify.com/track/6hEzT3fE6ecwWvhlqiFCLF"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "GMFU",
         "url": "https://open.spotify.com/album/0sjhU3kzHU2dfd6SVrzLIp"
       },
@@ -724,9 +744,9 @@
           "url": "https://open.spotify.com/artist/4DdkRBBYG6Yk9Ka8tdJ9BW"
         }
       ],
-      "duration_ms": 156219,
-      "name": "Buy Ice",
-      "url": "https://open.spotify.com/track/6MoCDD3oWz73TYpj92ymBV"
+      "duration_ms": 222649,
+      "name": "5 Star",
+      "url": "https://open.spotify.com/track/7qFo4kUGHTa64yQTFsXmx4"
     },
     {
       "added_at": null,
@@ -755,26 +775,6 @@
       "duration_ms": 145188,
       "name": "Menace",
       "url": "https://open.spotify.com/track/0CjHqLvr4EdjBJ0XiKtbCI"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "The Party Never Ends 2.0",
-        "url": "https://open.spotify.com/album/7kOpqRCEqTTzcGc4CwEFph"
-      },
-      "artists": [
-        {
-          "name": "Juice WRLD",
-          "url": "https://open.spotify.com/artist/4MCBfE4596Uoi2O4DtmEMz"
-        },
-        {
-          "name": "Offset",
-          "url": "https://open.spotify.com/artist/4DdkRBBYG6Yk9Ka8tdJ9BW"
-        }
-      ],
-      "duration_ms": 180064,
-      "name": "Celebrate (with Offset)",
-      "url": "https://open.spotify.com/track/6hEzT3fE6ecwWvhlqiFCLF"
     },
     {
       "added_at": null,
@@ -1011,34 +1011,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "JEFFERY",
-        "url": "https://open.spotify.com/album/7EpUpNUkkEGnaCvkcn1j4H"
-      },
-      "artists": [
-        {
-          "name": "Young Thug",
-          "url": "https://open.spotify.com/artist/50co4Is1HCEo8bhOyUWKpn"
-        },
-        {
-          "name": "Quavo",
-          "url": "https://open.spotify.com/artist/0VRj0yCOv2FXJNP47XQnx5"
-        },
-        {
-          "name": "Offset",
-          "url": "https://open.spotify.com/artist/4DdkRBBYG6Yk9Ka8tdJ9BW"
-        },
-        {
-          "name": "Young Scooter",
-          "url": "https://open.spotify.com/artist/4cmA2QDPdzh8W2ytpyUGes"
-        }
-      ],
-      "duration_ms": 315973,
-      "name": "Guwop (feat. Quavo, Offset and Young Scooter)",
-      "url": "https://open.spotify.com/track/1BSA5I386L2IAmFQURYjIz"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Quality Control: Control The Streets Volume 2",
         "url": "https://open.spotify.com/album/59zpaLOByFkJhc9D5Xqna9"
       },
@@ -1063,6 +1035,34 @@
       "duration_ms": 217220,
       "name": "Pink Toes (Offset, DaBaby feat. Gunna)",
       "url": "https://open.spotify.com/track/0W1ZfgXpC23RYQPDq7RM5I"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "JEFFERY",
+        "url": "https://open.spotify.com/album/7EpUpNUkkEGnaCvkcn1j4H"
+      },
+      "artists": [
+        {
+          "name": "Young Thug",
+          "url": "https://open.spotify.com/artist/50co4Is1HCEo8bhOyUWKpn"
+        },
+        {
+          "name": "Quavo",
+          "url": "https://open.spotify.com/artist/0VRj0yCOv2FXJNP47XQnx5"
+        },
+        {
+          "name": "Offset",
+          "url": "https://open.spotify.com/artist/4DdkRBBYG6Yk9Ka8tdJ9BW"
+        },
+        {
+          "name": "Young Scooter",
+          "url": "https://open.spotify.com/artist/4cmA2QDPdzh8W2ytpyUGes"
+        }
+      ],
+      "duration_ms": 315973,
+      "name": "Guwop (feat. Quavo, Offset and Young Scooter)",
+      "url": "https://open.spotify.com/track/1BSA5I386L2IAmFQURYjIz"
     },
     {
       "added_at": null,

@@ -4,7 +4,7 @@
 
 > This is Pabllo Vittar\. The essential tracks, all in one playlist.
 
-145 songs - 6 hr 53 min
+146 songs - 6 hr 56 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -66,7 +66,7 @@
 | [Exatamente Igual](https://open.spotify.com/track/4sP8S3OWKfMu9IEtX1sYkS) | [Pabllo Vittar](https://open.spotify.com/artist/6tzRZ39aZlNqlUzQlkuhDV) | [Prazer, Mamãe Noel](https://open.spotify.com/album/3N9ANUKLXnxmyff9xG9UqB) | 3:17 | 2025-11-23 | 2026-08-11 |
 | [Fala Quem É](https://open.spotify.com/track/09JiYC3EAggTwYHNwTIJnb) | [Anitta](https://open.spotify.com/artist/7FNnA9vBm6EKceENgCGRMb), [Marina Sena](https://open.spotify.com/artist/0nFdWpwl7h6fp3ADRyG14L), [Pabllo Vittar](https://open.spotify.com/artist/6tzRZ39aZlNqlUzQlkuhDV) | [Fala Quem É](https://open.spotify.com/album/4h0SG1pqYG18d3sjT4O9uJ) | 2:03 | 2025-12-07 | 2026-01-04 |
 | [Fala Quem É](https://open.spotify.com/track/6tJvgq2imhqTdmDivVlefX) | [Anitta](https://open.spotify.com/artist/7FNnA9vBm6EKceENgCGRMb), [Marina Sena](https://open.spotify.com/artist/0nFdWpwl7h6fp3ADRyG14L), [Pabllo Vittar](https://open.spotify.com/artist/6tzRZ39aZlNqlUzQlkuhDV) | [Ensaios Da Anitta](https://open.spotify.com/album/6EkCnMeO4zOURLKlTKbl39) | 2:03 | 2026-01-04 |  |
-| [Falta Coragem](https://open.spotify.com/track/2Ai0zPyvWl5BWpdv5YVguy) | [Pabllo Vittar](https://open.spotify.com/artist/6tzRZ39aZlNqlUzQlkuhDV), [Taty Girl](https://open.spotify.com/artist/3vvHdmRO7G0C3sWP5mHxDE) | [Batidão Tropical Vol\. 2](https://open.spotify.com/album/7taQQZWIVcnHK6spr9N21l) | 2:37 | 2024-12-03 |  |
+| [Falta Coragem](https://open.spotify.com/track/2Ai0zPyvWl5BWpdv5YVguy) | [Pabllo Vittar](https://open.spotify.com/artist/6tzRZ39aZlNqlUzQlkuhDV), [Taty Girl](https://open.spotify.com/artist/3vvHdmRO7G0C3sWP5mHxDE) | [Batidão Tropical Vol\. 2](https://open.spotify.com/album/7taQQZWIVcnHK6spr9N21l) | 2:37 | 2024-12-03 | 2026-11-27 |
 | [Falta Coragem](https://open.spotify.com/track/2PQttFtH9rWyMxHPHfSckD) | [Pabllo Vittar](https://open.spotify.com/artist/6tzRZ39aZlNqlUzQlkuhDV), [Taty Girl](https://open.spotify.com/artist/3vvHdmRO7G0C3sWP5mHxDE) | [Batidão Tropical Vol\. 2](https://open.spotify.com/album/6azBEVsWyRCxu27zpPXFC0) | 2:37 | 2024-10-21 | 2024-12-03 |
 | [Falta Coragem](https://open.spotify.com/track/6lRrel33k5DYgUX3GHBpFs) | [Pabllo Vittar](https://open.spotify.com/artist/6tzRZ39aZlNqlUzQlkuhDV), [Taty Girl](https://open.spotify.com/artist/3vvHdmRO7G0C3sWP5mHxDE) | [Batidão Tropical Vol\. 2](https://open.spotify.com/album/7g1OoBZsRRCy2DA9NeASaw) | 2:37 | 2024-04-12 | 2024-08-06 |
 | [Fantasía](https://open.spotify.com/track/5PCIZcn6hKrMA8fmtRoX7Z) | [Pabllo Vittar](https://open.spotify.com/artist/6tzRZ39aZlNqlUzQlkuhDV), [NATHY PELUSO](https://open.spotify.com/artist/3VHAySZQPlfGlNLslzXYpN) | [Fantasía](https://open.spotify.com/album/2LbRBxToUXzFJjPMApnOAQ) | 2:29 | 2025-04-12 |  |
@@ -151,6 +151,7 @@
 | [Ultra Som](https://open.spotify.com/track/22xeSdbkS1rjlw0J7alewY) | [Pabllo Vittar](https://open.spotify.com/artist/6tzRZ39aZlNqlUzQlkuhDV) | [Batidão Tropical](https://open.spotify.com/album/194szTkDIGJsa9iZJNStwN) | 1:54 | 2023-10-10 | 2026-07-08 |
 | [VAMPIRA](https://open.spotify.com/track/53sU5FYujB8QaiH61RyQ5l) | [BUDAH](https://open.spotify.com/artist/08zSkHjCY3ypH4gdBVHWgO), [Pabllo Vittar](https://open.spotify.com/artist/6tzRZ39aZlNqlUzQlkuhDV) | [FREQUÊNCIA LUNAR](https://open.spotify.com/album/3qbfxWGIF45fv8btLzrsDR) | 2:50 | 2026-05-30 |  |
 | [Vira Lata](https://open.spotify.com/track/610qP5fEpQMv7gzyLipesZ) | [João Gomes](https://open.spotify.com/artist/4JNo6Q5KdcRf1vtSX9mB0S), [Pabllo Vittar](https://open.spotify.com/artist/6tzRZ39aZlNqlUzQlkuhDV) | [Vira Lata](https://open.spotify.com/album/1073rEb0vN7ZPBc2Fcs1ph) | 2:10 | 2024-12-08 |  |
+| [VITA'S HOUSE \- REMIX](https://open.spotify.com/track/1kaxEz0uhN0Xa4YEhlIGVD) | [Vita](https://open.spotify.com/artist/6dfQmJiIvW1OedMalPDMnO), [Clementaum](https://open.spotify.com/artist/0uQbfh4oRRfWmp6EOGDLzH), [PZZS](https://open.spotify.com/artist/1h27s7BnaBATagMAgDOcDF), [Pabllo Vittar](https://open.spotify.com/artist/6tzRZ39aZlNqlUzQlkuhDV), [Brunoso](https://open.spotify.com/artist/7MEwECUpH1JQzXbRMr0nFz) | [VITA'S HOUSE \(REMIX\)](https://open.spotify.com/album/172w5qULAOfIlbsInFaJ8s) | 2:34 | 2026-11-27 |  |
 | [Zap Zum](https://open.spotify.com/track/7zyZ9yPXIQebb79PrMghpV) | [Pabllo Vittar](https://open.spotify.com/artist/6tzRZ39aZlNqlUzQlkuhDV) | [Batidão Tropical](https://open.spotify.com/album/194szTkDIGJsa9iZJNStwN) | 2:47 | 2023-10-10 |  |
 | [Ânsia](https://open.spotify.com/track/3KgZPCgxOKqOeR5VEZXK43) | [Pabllo Vittar](https://open.spotify.com/artist/6tzRZ39aZlNqlUzQlkuhDV) | [Batidão Tropical](https://open.spotify.com/album/194szTkDIGJsa9iZJNStwN) | 2:59 | 2023-10-10 | 2026-09-26 |
 

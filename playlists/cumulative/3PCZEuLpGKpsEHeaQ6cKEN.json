@@ -1055,6 +1055,24 @@
     },
     {
       "album": {
+        "name": "ALL THE THINGS",
+        "url": "https://open.spotify.com/album/1GY4DSxHLXynwM38INPkbo"
+      },
+      "artists": [
+        {
+          "name": "SUPERSTRINGS",
+          "url": "https://open.spotify.com/artist/0WDwBVGmUjf7eJUKDpecYz"
+        }
+      ],
+      "date_added": "2026-11-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 182000,
+      "name": "ALL THE THINGS",
+      "url": "https://open.spotify.com/track/6dKT0k3PnFGtryqKHqvBoF"
+    },
+    {
+      "album": {
         "name": "All Things Go",
         "url": "https://open.spotify.com/album/3v3eGp5roAE526aFaeHgHP"
       },
@@ -36882,6 +36900,24 @@
       "duration_ms": 203809,
       "name": "The Orange Theme",
       "url": "https://open.spotify.com/track/6qUoVjPN8Ys5NfnTgJrkBT"
+    },
+    {
+      "album": {
+        "name": "The Prophet",
+        "url": "https://open.spotify.com/album/2cx2B73YcX5yQ2cjlG6bSM"
+      },
+      "artists": [
+        {
+          "name": "Armin van Buuren",
+          "url": "https://open.spotify.com/artist/0SfsnGyD8FpIN4U4WCkBZ5"
+        }
+      ],
+      "date_added": "2026-11-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 207887,
+      "name": "The Prophet",
+      "url": "https://open.spotify.com/track/1ThGsAO9QRLSPUrL5ZP5kS"
     },
     {
       "album": {

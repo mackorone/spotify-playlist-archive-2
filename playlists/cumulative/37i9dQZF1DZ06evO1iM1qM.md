@@ -4,7 +4,7 @@
 
 > This is John Coltrane\. The essential tracks, all in one playlist.
 
-90 songs - 10 hr 25 min
+91 songs - 10 hr 29 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -69,7 +69,8 @@
 | [My Little Brown Book](https://open.spotify.com/track/4rmCI9VWrwrJTJ8XQ80BMN) | [Duke Ellington](https://open.spotify.com/artist/4F7Q5NV6h5TSwCainz8S5A), [John Coltrane](https://open.spotify.com/artist/2hGh5VOeeqimQFxqXvfCUf) | [Duke Ellington & John Coltrane](https://open.spotify.com/album/1OvmilWKtrabJGEpPRlgK5) | 5:19 | 2025-07-20 |  |
 | [My One And Only Love](https://open.spotify.com/track/0uPkCpuoERqrkBL06Art50) | [John Coltrane](https://open.spotify.com/artist/2hGh5VOeeqimQFxqXvfCUf), [Johnny Hartman](https://open.spotify.com/artist/7qVvIFc9DktkAc0HKzRhNo) | [John Coltrane And Johnny Hartman](https://open.spotify.com/album/5e3mq4TT4RLn4VXfgKV6MU) | 4:55 | 2025-07-20 |  |
 | [My Shining Hour](https://open.spotify.com/track/38DgLl4Cm6tU7wKyB6ZykE) | [John Coltrane](https://open.spotify.com/artist/2hGh5VOeeqimQFxqXvfCUf) | [Coltrane Jazz](https://open.spotify.com/album/1rYvimVGwIQgc5IhBwLBuX) | 4:48 | 2026-08-26 | 2026-08-28 |
-| [Naima \- Mono](https://open.spotify.com/track/5cAwEKmadsW4nCYe9QUvgU) | [John Coltrane](https://open.spotify.com/artist/2hGh5VOeeqimQFxqXvfCUf) | [Giant Steps \(Mono\)](https://open.spotify.com/album/7MBQWjukLxXZYvQ8vzEH7t) | 4:25 | 2025-07-20 |  |
+| [Naima \- 2020 Remaster](https://open.spotify.com/track/3jnz28JDlLUPA90sly4Xqk) | [John Coltrane](https://open.spotify.com/artist/2hGh5VOeeqimQFxqXvfCUf) | [Giant Steps \(60th Anniversary Super Deluxe Edition\) \[2020 Remaster\]](https://open.spotify.com/album/4jTDjHLMFCHWrjuP1qmCf4) | 4:25 | 2026-11-27 |  |
+| [Naima \- Mono](https://open.spotify.com/track/5cAwEKmadsW4nCYe9QUvgU) | [John Coltrane](https://open.spotify.com/artist/2hGh5VOeeqimQFxqXvfCUf) | [Giant Steps \(Mono\)](https://open.spotify.com/album/7MBQWjukLxXZYvQ8vzEH7t) | 4:25 | 2025-07-20 | 2026-11-27 |
 | [On Green Dolphin Street \(feat\. John Coltrane, Cannonball Adderley & Bill Evans\)](https://open.spotify.com/track/0tUq1zaYNoV6ZiYRU2bjqf) | [Miles Davis](https://open.spotify.com/artist/0kbYTNQb4Pb1rPbbaF0pT4), [John Coltrane](https://open.spotify.com/artist/2hGh5VOeeqimQFxqXvfCUf), [Cannonball Adderley](https://open.spotify.com/artist/5v74mT11KGJqadf9sLw4dA), [Bill Evans](https://open.spotify.com/artist/4jXfFzeP66Zy67HM2mvIIF) | [Kind Of Blue \(Legacy Edition\)](https://open.spotify.com/album/4sb0eMpDn3upAFfyi4q2rw) | 9:49 | 2026-08-18 |  |
 | [Rhodomagnetics \- Remastered 2026](https://open.spotify.com/track/31tDjlAyJmCSBOYrLHC5jX) | [John Coltrane](https://open.spotify.com/artist/2hGh5VOeeqimQFxqXvfCUf), [Wilbur Harden](https://open.spotify.com/artist/1zObM8Nu9u5qzUoRyXydeq) | [Rhodomagnetics \(Remastered 2026\)](https://open.spotify.com/album/3hsZQTFEpAjOePlrEToEGU) | 7:04 | 2026-09-27 | 2026-10-24 |
 | [Robbins' Nest \- Remastered 2025](https://open.spotify.com/track/5ivImevG3fgPJR31uab3Fc) | [Frank Wess](https://open.spotify.com/artist/1yy6FH5FQX3RQqxnjMPRBn), [John Coltrane](https://open.spotify.com/artist/2hGh5VOeeqimQFxqXvfCUf), [Paul Quinichette](https://open.spotify.com/artist/79M6Ce0m7LMzZOfy5C27C1), [Mal Waldron](https://open.spotify.com/artist/4cP0bprQSFtZdI9QEKKZA3), [Doug Watkins](https://open.spotify.com/artist/3j0ZsENc1qq8vQ0stKX2z1), [Art Taylor](https://open.spotify.com/artist/3CsHGnB9qK3KYH7xmyGAGX) | [Wheelin' And Dealin' \(Remastered 2025\)](https://open.spotify.com/album/7E9VLn1tpj21o29shM3lQo) | 15:33 | 2025-08-24 | 2025-09-21 |

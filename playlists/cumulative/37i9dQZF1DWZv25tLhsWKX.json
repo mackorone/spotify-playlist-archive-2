@@ -727,6 +727,28 @@
     },
     {
       "album": {
+        "name": "Home",
+        "url": "https://open.spotify.com/album/7KOMjOpeuPNNkMQnWcQxM6"
+      },
+      "artists": [
+        {
+          "name": "Kenny Sharp",
+          "url": "https://open.spotify.com/artist/7HL0NItywvJ7qgDfBiIo0E"
+        },
+        {
+          "name": "Mikki Brayboy",
+          "url": "https://open.spotify.com/artist/1AoKjo4miXPc57akxzT6nY"
+        }
+      ],
+      "date_added": "2026-11-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 183576,
+      "name": "Home",
+      "url": "https://open.spotify.com/track/6SkKK4pKFDH2tP1rR2OLiT"
+    },
+    {
+      "album": {
         "name": "Carolina Confessions",
         "url": "https://open.spotify.com/album/6RVN0MPUbYBiYm2Otf6Li2"
       },
@@ -1582,7 +1604,7 @@
       ],
       "date_added": "2021-02-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-27",
       "duration_ms": 238120,
       "name": "Sheldon Churchyard",
       "url": "https://open.spotify.com/track/5Ic08EW0Dn1v4s6FNzRIWZ"

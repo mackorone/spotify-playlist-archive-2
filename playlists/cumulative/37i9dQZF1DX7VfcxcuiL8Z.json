@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2024-07-02",
-  "description": "Ecca Vandal \ud83e\udd18",
+  "description": "The best in new rock. Cover: Ball Park Music",
   "name": "Rock Out.",
   "tracks": [
     {
@@ -679,6 +679,28 @@
     },
     {
       "album": {
+        "name": "Anemoia",
+        "url": "https://open.spotify.com/album/7yMWsbfHNltTLoasYCbXBw"
+      },
+      "artists": [
+        {
+          "name": "Northlane",
+          "url": "https://open.spotify.com/artist/3qyg72RGnGdF521zMU02u9"
+        },
+        {
+          "name": "Dayseeker",
+          "url": "https://open.spotify.com/artist/5FjQVp1Lb0kltmwIuu5kfj"
+        }
+      ],
+      "date_added": "2026-11-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 253744,
+      "name": "Anemoia",
+      "url": "https://open.spotify.com/track/4gpv83yAQbdgTEisrNeBkB"
+    },
+    {
+      "album": {
         "name": "Angel Wings",
         "url": "https://open.spotify.com/album/4iWYLfamJp7XGKbmUWam1H"
       },
@@ -928,6 +950,24 @@
       "duration_ms": 166730,
       "name": "Autopilot",
       "url": "https://open.spotify.com/track/3a1jT0YHIsQDqIPt95gONV"
+    },
+    {
+      "album": {
+        "name": "Orange Skies",
+        "url": "https://open.spotify.com/album/3ah3bsac2VwBxuxUKhidnp"
+      },
+      "artists": [
+        {
+          "name": "COTERIE",
+          "url": "https://open.spotify.com/artist/0152lAerTxFtfqXBnJi8TY"
+        }
+      ],
+      "date_added": "2026-11-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 199590,
+      "name": "AYO (Let Me Go Home)",
+      "url": "https://open.spotify.com/track/3sAv6ZAYD9eMWzcQndu2Xz"
     },
     {
       "album": {
@@ -1732,7 +1772,7 @@
       ],
       "date_added": "2026-09-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-27",
       "duration_ms": 212038,
       "name": "Bleeding Heart",
       "url": "https://open.spotify.com/track/1WXuljOQWtK6rKRNM4SlEk"
@@ -2914,7 +2954,7 @@
       ],
       "date_added": "2026-09-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-27",
       "duration_ms": 263972,
       "name": "Crucified",
       "url": "https://open.spotify.com/track/16RujY71B7zUln5H6q8CPk"
@@ -6147,6 +6187,24 @@
     },
     {
       "album": {
+        "name": "I Need Your Connection",
+        "url": "https://open.spotify.com/album/6EXUFuDnlopKyDk1vfkvQ5"
+      },
+      "artists": [
+        {
+          "name": "EGOISM",
+          "url": "https://open.spotify.com/artist/6bTkIQfvR8nlRCHLAvbfOD"
+        }
+      ],
+      "date_added": "2026-11-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 237944,
+      "name": "I Need Your Connection",
+      "url": "https://open.spotify.com/track/59qourBUJmUNiG7n4YLfyG"
+    },
+    {
+      "album": {
         "name": "The Holy Cross Tigers",
         "url": "https://open.spotify.com/album/34rN1EeWCYWzPCwIaUXqQr"
       },
@@ -6234,6 +6292,24 @@
       "duration_ms": 182265,
       "name": "I'm a Boxer",
       "url": "https://open.spotify.com/track/1BVSGSHw04IybM1HSxWl2M"
+    },
+    {
+      "album": {
+        "name": "I\u2019m Here, You\u2019re Gone",
+        "url": "https://open.spotify.com/album/4Upf73Yj2am6ETSgn0jVtm"
+      },
+      "artists": [
+        {
+          "name": "Polly",
+          "url": "https://open.spotify.com/artist/35oynIp89cQF1qjOZTRWkq"
+        }
+      ],
+      "date_added": "2026-11-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 165891,
+      "name": "I'm Here, You're Gone",
+      "url": "https://open.spotify.com/track/0iLnBP5f8qA7TcHKAMYLoy"
     },
     {
       "album": {
@@ -8544,7 +8620,7 @@
       ],
       "date_added": "2026-09-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-27",
       "duration_ms": 247694,
       "name": "My Whole World",
       "url": "https://open.spotify.com/track/2tfc81XZfVReM0kYQqv7o3"
@@ -11026,7 +11102,7 @@
       ],
       "date_added": "2026-09-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-27",
       "duration_ms": 155648,
       "name": "Silencio",
       "url": "https://open.spotify.com/track/6eVoCbEtFjzfYeWJjkD3gP"
@@ -12052,7 +12128,7 @@
       ],
       "date_added": "2026-09-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-27",
       "duration_ms": 140384,
       "name": "Take It",
       "url": "https://open.spotify.com/track/18sbcV3RQ2wgP3CCz61cMe"
@@ -12662,6 +12738,24 @@
       "duration_ms": 168266,
       "name": "THE LIVING",
       "url": "https://open.spotify.com/track/3gIavfUyAj6UxVyreaoJCp"
+    },
+    {
+      "album": {
+        "name": "The New Me Starts Tomorrow",
+        "url": "https://open.spotify.com/album/2UXk2k1W7N0MOezYxl1Hp5"
+      },
+      "artists": [
+        {
+          "name": "Ball Park Music",
+          "url": "https://open.spotify.com/artist/1ououJVWgWsHWMYDLvT7sH"
+        }
+      ],
+      "date_added": "2026-11-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 160557,
+      "name": "The New Me Starts Tomorrow",
+      "url": "https://open.spotify.com/track/63KC9BgSlDFk5RmfoMGNHB"
     },
     {
       "album": {
@@ -14245,6 +14339,24 @@
     },
     {
       "album": {
+        "name": "Foreign Tongues, Loose Lips",
+        "url": "https://open.spotify.com/album/1OjG4rVJguph3dmrpLZ5M3"
+      },
+      "artists": [
+        {
+          "name": "The Rolling Stones",
+          "url": "https://open.spotify.com/artist/22bE4uQ6baNwSHPVcDxLCe"
+        }
+      ],
+      "date_added": "2026-11-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 288388,
+      "name": "Where There's A Will",
+      "url": "https://open.spotify.com/track/2wiqk6v8eR8P0bTNTprgvY"
+    },
+    {
+      "album": {
         "name": "Who Will You Follow",
         "url": "https://open.spotify.com/album/21kwp73XrMKnqCrI9MSzDR"
       },
@@ -14740,7 +14852,7 @@
       ],
       "date_added": "2026-10-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-27",
       "duration_ms": 169655,
       "name": "You Feel Me",
       "url": "https://open.spotify.com/track/05sR5BjeSAvvq4inZZ7H2Y"

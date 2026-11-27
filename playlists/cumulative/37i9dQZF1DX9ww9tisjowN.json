@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2023-05-09",
-  "description": "What pops out!? Roll the gacha and find your Neo J-Pop treasure. cover: LiSA",
+  "description": "What pops out!? Roll the gacha and find your Neo J-Pop treasure. cover: YOASOBI",
   "name": "Gacha Pop",
   "tracks": [
     {
@@ -9508,7 +9508,7 @@
       ],
       "date_added": "2026-11-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-27",
       "duration_ms": 145475,
       "name": "pavilion",
       "url": "https://open.spotify.com/track/6BBMh7nJjWgyjWDPNhwRBJ"
@@ -15798,6 +15798,24 @@
       "duration_ms": 182082,
       "name": "\u308f\u305f\u3057\u3001\u30d5\u30a3\u30af\u30b7\u30e7\u30f3",
       "url": "https://open.spotify.com/track/082cQcc5Hg01f2vcH8ceTV"
+    },
+    {
+      "album": {
+        "name": "\u308f\u305f\u3057\u305f\u3061\u306e\u30aa\u30ab\u30eb\u30c8",
+        "url": "https://open.spotify.com/album/0LlFpGbkoAXoCQN2QxZZJ9"
+      },
+      "artists": [
+        {
+          "name": "NOMELON NOLEMON",
+          "url": "https://open.spotify.com/artist/3PRXdiVu8lUkeCKw4ZUX4B"
+        }
+      ],
+      "date_added": "2026-11-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 168000,
+      "name": "\u308f\u305f\u3057\u305f\u3061\u306e\u30aa\u30ab\u30eb\u30c8",
+      "url": "https://open.spotify.com/track/0xDVlylGQZOakMv6rVL7Ck"
     },
     {
       "album": {

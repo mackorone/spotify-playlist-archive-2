@@ -2,9 +2,9 @@
 
 ### [TrenChill K\-Hip Hop](https://open.spotify.com/playlist/37i9dQZF1DWWvmOXYvR5a6)
 
-> Trendy x Chill K\-Hip Hop\.  \(Cover: justinforthis\) \(트렌디 x 칠! 세련되고 듣기 편한 힙합음악들을 즐겨보세요.\)
+> Trendy x Chill K\-Hip Hop\.  \(Cover: Colde\) \(트렌디 x 칠! 세련되고 듣기 편한 힙합음악들을 즐겨보세요.\)
 
-865 songs - 1 day 21 hr 59 min
+866 songs - 1 day 22 hr 2 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -466,7 +466,7 @@
 | [Me Like Yuh \(K\) \(Feat\. Hoody\)](https://open.spotify.com/track/4FOZlvdQutqRNcQQRefA7T) | [Jay Park](https://open.spotify.com/artist/4XDi67ZENZcbfKnvMnTYsI), [Hoody](https://open.spotify.com/artist/7lXgbtBDcCRbfc5f8FhGUL) | [EVERYTHING YOU WANTED](https://open.spotify.com/album/0c4LKBzh0ufU36AyuzZRc2) | 3:43 | 2022-07-24 | 2024-04-19 |
 | [Me wit u 4eva …](https://open.spotify.com/track/4Mh4Aeg20cET04G9NI1pyL) | [YongYong](https://open.spotify.com/artist/4lgoUoPxqxjZMtN0raCBVK) | [Me wit u 4eva …](https://open.spotify.com/album/1J1Ja75sV6wsnXrsntpJuW) | 3:03 | 2023-10-04 | 2023-10-17 |
 | [Mean](https://open.spotify.com/track/1NJ5N8SfKOH1AWCDkZQtGj) | [BLASÉ](https://open.spotify.com/artist/6XsOOgLCtnkkOv2uhZXuB0) | [Debugging](https://open.spotify.com/album/1mKifxJ2tQAlcGj4Kfwugz) | 2:44 | 2024-05-21 | 2024-06-08 |
-| [measurement](https://open.spotify.com/track/4dYpG9ztNxko6qDraNdgLt) | [justinforthis](https://open.spotify.com/artist/1MZvn2OoRX4PO4KA85NwdD) | [measurement](https://open.spotify.com/album/2KNM2qAqA7CT3ZuOLny5vU) | 2:48 | 2026-11-19 |  |
+| [measurement](https://open.spotify.com/track/4dYpG9ztNxko6qDraNdgLt) | [justinforthis](https://open.spotify.com/artist/1MZvn2OoRX4PO4KA85NwdD) | [measurement](https://open.spotify.com/album/2KNM2qAqA7CT3ZuOLny5vU) | 2:48 | 2026-11-19 | 2026-11-27 |
 | [meet me in Toronto](https://open.spotify.com/track/2kAoncETVbwALgilqVYLOi) | [CHANGMO](https://open.spotify.com/artist/3hvinNZRzTLoREmqFiKr1b), [Paul Blanco](https://open.spotify.com/artist/2fiGm496AG7ePURQiSSJIw) | [Boyhood](https://open.spotify.com/album/3eX0C672y1Y2HQTotIGU8V) | 3:23 | 2022-04-01 | 2022-07-29 |
 | [meet me in Toronto](https://open.spotify.com/track/6gnkpiuVtm2b5hzUNnXtQd) | [CHANGMO](https://open.spotify.com/artist/3hvinNZRzTLoREmqFiKr1b), [Paul Blanco](https://open.spotify.com/artist/2fiGm496AG7ePURQiSSJIw) | [Boyhood](https://open.spotify.com/album/7ybEq8ZLOtsH2VwdIrjNri) | 3:23 | 2022-07-24 | 2022-11-29 |
 | [Meeting is easy, parting is hard \(Feat\. Leellamarz\) \(Prod\. TOIL\)](https://open.spotify.com/track/1GFS1xMbcAWXf5W0tSuZev) | [Basick](https://open.spotify.com/artist/7pXKdkQsYFCMG2omRxheJ2), [Leellamarz](https://open.spotify.com/artist/79g2STpP2iV1xfgHuhrhX0) | [Show Me The Money 10 Episode 3](https://open.spotify.com/album/5W1NIlh0lKO1nABgocreql) | 3:51 | 2022-04-01 | 2026-03-14 |
@@ -803,7 +803,7 @@
 | [Vancouver 2](https://open.spotify.com/track/2fiI6e0WxyZB3QnmRxYGPg) | [BIG Naughty](https://open.spotify.com/artist/7cEaNXXTHx3LokbjUUyHal) | [Vancouver 2](https://open.spotify.com/album/0cuXDMN1yjtTrYJfrnVxFq) | 3:22 | 2023-09-19 |  |
 | [Venus](https://open.spotify.com/track/2aLH4EiEoZLpbeEQvTBbtH) | [DPR LIVE](https://open.spotify.com/artist/0siBQaURCli5wn2lqv8WZg) | [IITE COOL](https://open.spotify.com/album/2OjMA1arGnBXDE20XbesVL) | 3:16 | 2022-04-01 | 2022-07-29 |
 | [vicious circle \(Feat\. Rei, Lil Kintexx\)](https://open.spotify.com/track/6AnMuoMXMsaNq6TiWuwip4) | [KANGXIHO](https://open.spotify.com/artist/3llwzHsnLXfNZM2WHBIKSE), [Rei](https://open.spotify.com/artist/3pyrfwmUGt2MIRbhMY8iar), [Lil Kintexx](https://open.spotify.com/artist/05GiFsy2bdPTpl3oyJyZic) | [19LOVed](https://open.spotify.com/album/4T7Z9Do7P0gpf46Uy1AW71) | 3:15 | 2022-10-14 | 2022-10-29 |
-| [Villain](https://open.spotify.com/track/6wiasLz64Eo0qdwOEuuq2Q) | [1ANDON](https://open.spotify.com/artist/3FuZ5fJDy5kgZ994gpSmEf), [Kim Feelsun](https://open.spotify.com/artist/5jOztsbYMrFcbPauBMX6ih), [L\-like](https://open.spotify.com/artist/6L639z5gxUZ0uvXFewX9E7), [Verbal Jint](https://open.spotify.com/artist/24sQuJhQ85ZygDG7sUVUxR) | [Phantom Pain](https://open.spotify.com/album/1UHtWE0ml91fMJkFHfsupS) | 3:15 | 2026-04-01 |  |
+| [Villain](https://open.spotify.com/track/6wiasLz64Eo0qdwOEuuq2Q) | [1ANDON](https://open.spotify.com/artist/3FuZ5fJDy5kgZ994gpSmEf), [Kim Feelsun](https://open.spotify.com/artist/5jOztsbYMrFcbPauBMX6ih), [L\-like](https://open.spotify.com/artist/6L639z5gxUZ0uvXFewX9E7), [Verbal Jint](https://open.spotify.com/artist/24sQuJhQ85ZygDG7sUVUxR) | [Phantom Pain](https://open.spotify.com/album/1UHtWE0ml91fMJkFHfsupS) | 3:15 | 2026-04-01 | 2026-11-27 |
 | [VISTA \(feat\. gaeko, THAMA\)](https://open.spotify.com/track/7dBgD0N3hnFq8euHEryShz) | [John Park](https://open.spotify.com/artist/4mbvd7ZJ2goftjy1L33LiB), [Gaeko](https://open.spotify.com/artist/0tkHE1pQ5ZCgQb8WZ0ba79), [THAMA](https://open.spotify.com/artist/1Ktiv08TbBy195pQUH8Qld) | [VISTA](https://open.spotify.com/album/6jghSUiZlBVm7isqJfYqtG) | 3:59 | 2024-08-08 |  |
 | [Wait A Minute ! \(Feat\. 황세현\(h3hyeon\)\)](https://open.spotify.com/track/30kEjqFheQPomQcf2kZM7H) | [HAAN](https://open.spotify.com/artist/2l8mENYuyXlnqdjSrsSLq6), [Chan](https://open.spotify.com/artist/5Jte273iLRGrRRMA5yJy3F), [h3hyeon](https://open.spotify.com/artist/2VjfPlcTFJhQSe8ALJJ1dz) | [Wait A Minute !](https://open.spotify.com/album/59Vc3Ij1sz6fQmgfv5ANtD) | 3:14 | 2026-03-13 |  |
 | [Waiting For You \(feat\. Jay Park\)](https://open.spotify.com/track/0nC94WBww2j23UVqWCIq12) | [CAMO](https://open.spotify.com/artist/2YkhzcYyxJvtl5W6pY0PuF), [Jay Park](https://open.spotify.com/artist/4XDi67ZENZcbfKnvMnTYsI) | [Pressure Makes Diamonds](https://open.spotify.com/album/0eT8WtiDIRVOzHuYWVpEnc) | 3:02 | 2023-02-24 | 2023-07-07 |
@@ -872,6 +872,7 @@
 | [애 \(just like uh huh\)](https://open.spotify.com/track/383c6EPYFELVPnQObxy026) | [kimj](https://open.spotify.com/artist/2DwWHe8gOHsUzMn1saNYjw), [Effie](https://open.spotify.com/artist/5PIWabZPdU3YWRMbvD5nQJ), [audiogothh](https://open.spotify.com/artist/1cTacypQyyzMQhsGmmKAyR) | [희 / 노 / 애 / 락](https://open.spotify.com/album/2q4GpFI6Ytc0apj7VnUgvf) | 3:08 | 2026-02-06 | 2026-03-14 |
 | [오염](https://open.spotify.com/track/0GtvTl4sjuDRJF59MjywwO) | [Hwaji](https://open.spotify.com/artist/1Azg0okIA7BY6CMwRBLmud) | [오염,추](https://open.spotify.com/album/2A8D0clrVMyW9KsYRTiZWQ) | 2:45 | 2022-09-06 | 2023-04-17 |
 | [이 고요가 너무 좋아](https://open.spotify.com/track/2KvpeVhE15918QtnCc3QCJ) | [BOYHOOD](https://open.spotify.com/artist/2r8smtQqQ7z4M9guHnawaM) | [수면마취](https://open.spotify.com/album/4aXsVV3ulNKMj6H3TZThgS) | 3:06 | 2022-04-01 | 2022-07-14 |
+| [쿨한 척 \(FEAT\. RAF SANDOU\)](https://open.spotify.com/track/5cLuzXj2YOxCu5v5l7PcGd) | [Colde](https://open.spotify.com/artist/3VQDqjQ4wJyw8PzpGdlZpB), [Raf Sandou](https://open.spotify.com/artist/4FBKTurCVdtC6Fq8mSQgj8) | [WAVY BABY](https://open.spotify.com/album/2IEr9fbAhlQ96asZF6WT2F) | 3:08 | 2026-11-26 |  |
 | [후회 \(feat\. 김승민\)](https://open.spotify.com/track/6mGDrU10ewbBdeJrgD5ScG) | [CARSPACE](https://open.spotify.com/artist/6mScVyqAyNG48yrL20Rdd4), [Kim Seungmin](https://open.spotify.com/artist/31VffPWiL2AAwNIMODB9qZ) | [L.V.D \(LOVED YOU\)](https://open.spotify.com/album/5lAl1gROcOPUFHczVMo2rT) | 3:52 | 2022-07-04 | 2022-07-15 |
 
 \*This playlist was first scraped on 2022-04-20. Prior content cannot be recovered.

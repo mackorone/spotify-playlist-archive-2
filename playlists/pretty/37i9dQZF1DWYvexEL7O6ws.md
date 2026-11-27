@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYvexEL7O6ws.md) - [plain]
 
 > The label's essential tracks by Drake, PARTYNEXTDOOR, Smiley, Naomi Sharon and more.
 
-[Spotify](https://open.spotify.com/user/spotify) - 96,204 likes - 145 songs - 8 hr 1 min
+[Spotify](https://open.spotify.com/user/spotify) - 96,202 likes - 145 songs - 8 hr 1 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

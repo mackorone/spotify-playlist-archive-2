@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaycfqyBao40.md) - [plain]
 
 > Music featured in the Prime Original series, Carrie\. Now streaming on Prime Video.
 
-[Spotify](https://open.spotify.com/user/spotify) - 18,310 likes - 75 songs - 4 hr 17 min
+[Spotify](https://open.spotify.com/user/spotify) - 18,397 likes - 75 songs - 4 hr 17 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

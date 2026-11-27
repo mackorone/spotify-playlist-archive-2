@@ -2,9 +2,9 @@
 
 ### [Country Live](https://open.spotify.com/playlist/37i9dQZF1DXaDsAWldGrpI)
 
-> Your favorite artists, recorded live \- just like you were there! Cover: Eric Church
+> Your favorite artists, recorded live \- just like you were there! Cover: Treaty Oak Revival
 
-237 songs - 16 hr 50 min
+238 songs - 16 hr 55 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -95,7 +95,7 @@
 | [Good Time To Me \(feat\. Lainey Wilson\) \(Live From Nashville's Big Bash\)](https://open.spotify.com/track/4skqcqegMq41BXYpJp0C9Z) | [King Calaway](https://open.spotify.com/artist/1IdbSuYtF7RSaFarmctwoE), [Lainey Wilson](https://open.spotify.com/artist/6tPHARSq45lQ8BSALCfkFC) | [Good Time To Me \(feat\. Lainey Wilson\) \[Live From Nashville's Big Bash\]](https://open.spotify.com/album/1vsE3mQE0OdmBv2VfMhjs1) | 3:02 | 2023-10-27 | 2024-04-19 |
 | [Good Time To Me \(feat\. Lainey Wilson\) \- Live From Nashville's Big Bash](https://open.spotify.com/track/0aHmuFZ34nExkvbmjDv7ek) | [King Calaway](https://open.spotify.com/artist/1IdbSuYtF7RSaFarmctwoE), [Lainey Wilson](https://open.spotify.com/artist/6tPHARSq45lQ8BSALCfkFC) | [Good Time To Me \(feat\. Lainey Wilson\) \[Live From Nashville's Big Bash\]](https://open.spotify.com/album/4nDvHGMIneRWxLaAhZX9Iv) | 3:02 | 2022-01-07 | 2024-05-05 |
 | [Hallelujah \(Live from The Ryman\)](https://open.spotify.com/track/7hkRBTW9o525wqBnSq246f) | [Abbey Cone](https://open.spotify.com/artist/1N53jg6KZxBoFI9oWNchct) | [Hallelujah \(Live from The Ryman\)](https://open.spotify.com/album/46Xogmmy8WYRWOaj12BitP) | 3:49 | 2024-03-15 | 2024-05-10 |
-| [Hard Times \- Live](https://open.spotify.com/track/3WSOOKrJmKEG4TY34Mg1yb) | [Emmylou Harris](https://open.spotify.com/artist/5s6TJEuHTr9GR894wc6VfP) | [At the Ryman \(Live\)](https://open.spotify.com/album/6QU3H8XFMeYIylEhEFmIIy) | 3:25 | 2024-05-04 |  |
+| [Hard Times \- Live](https://open.spotify.com/track/3WSOOKrJmKEG4TY34Mg1yb) | [Emmylou Harris](https://open.spotify.com/artist/5s6TJEuHTr9GR894wc6VfP) | [At the Ryman \(Live\)](https://open.spotify.com/album/6QU3H8XFMeYIylEhEFmIIy) | 3:25 | 2024-05-04 | 2026-11-27 |
 | [Hate How You Look \- Live From London](https://open.spotify.com/track/5VIlk2bnBUL9qm3IItRQmo) | [Josh Ross](https://open.spotify.com/artist/1ZGTSMjK1D2HrpPTOh916U) | [Hate How You Look \(Live From London\)](https://open.spotify.com/album/5s1LYXS2J3hh48RZj2OMfb) | 3:23 | 2025-12-12 |  |
 | [Heading South \- Live](https://open.spotify.com/track/1oahhuBQ0lDwfFj92D1k7V) | [Zach Bryan](https://open.spotify.com/artist/40ZNYROS4zLfyyBSs2PGe2) | [All My Homies Hate Ticketmaster \(Live from Red Rocks\)](https://open.spotify.com/album/5hVCiOPye3IDJG4rbO44UH) | 3:28 | 2022-12-25 |  |
 | [Heartache Tonight \- 2013 Remaster](https://open.spotify.com/track/2bzgKuK3pVez40qUvo8sYr) | [Eagles](https://open.spotify.com/artist/0ECwFtbIWEVNwjlrfc6xoL) | [The Long Run \(2013 Remaster\)](https://open.spotify.com/album/1sW1HxI9VppbiXqgFQHVCP) | 4:25 | 2024-05-04 |  |
@@ -146,6 +146,7 @@
 | [Next Thing You Know \- Live From The O2 London](https://open.spotify.com/track/3iqGOpRkz4V4juMd7ccyIl) | [Jordan Davis](https://open.spotify.com/artist/77kULmXAQ6vWer7IIHdGzI) | [Next Thing You Know \(Live From The O2 London\)](https://open.spotify.com/album/7eSlozbGidbOROgKxcNkOU) | 3:01 | 2023-05-19 |  |
 | [No Horse To Ride \- Live From Boston](https://open.spotify.com/track/1LfvRCAx0kgP6cbpmArtel) | [Luke Grimes](https://open.spotify.com/artist/7Cezk2wEDBPfYCwEuKum1Y) | [No Horse To Ride \(Live From Boston\)](https://open.spotify.com/album/7ojhjADjKK2rqXSbao0pfp) | 3:46 | 2024-09-13 |  |
 | [No One Else On Earth \- Live](https://open.spotify.com/track/5dNlMKYjk6BsTEKrZX61mT) | [Wynonna](https://open.spotify.com/artist/4yiXkMbxDIZ3jgEG89NSC1) | [No One Else On Earth \(Live\)](https://open.spotify.com/album/62uaZ5wUlfUwMn7eEJ9v1G) | 4:44 | 2024-06-07 | 2024-07-06 |
+| [No Vacancy \(Live From Southaven, MS\)](https://open.spotify.com/track/3AlMP2cZ3aKh7EMiqja0hd) | [Treaty Oak Revival](https://open.spotify.com/artist/3444S3C4U9Ts86BnCtSPRV) | [Live From Boomtown USA](https://open.spotify.com/album/790z7naXav5ljmv7ZsVnvn) | 5:18 | 2026-11-27 |  |
 | [Nobody But You \(Duet with Gwen Stefani\) \- Live](https://open.spotify.com/track/3twoyaIBmqSyBkIxTQYl5m) | [Blake Shelton](https://open.spotify.com/artist/1UTPBmNbXNTittyMJrNkvw), [Gwen Stefani](https://open.spotify.com/artist/4yiQZ8tQPux8cPriYMWUFP) | [Nobody But You \(Duet with Gwen Stefani\) \[Live\]](https://open.spotify.com/album/28JOBmOhSs9ssOBgbxGTrp) | 3:30 | 2021-07-22 |  |
 | [Oh, Anna! \- Live from the Opry](https://open.spotify.com/track/2TvvudKzKJIhTPAjhTtfCo) | [Dasha](https://open.spotify.com/artist/7Ez6lTtSMjMf2YSYpukP1I) | [Oh, Anna! \(Live from the Opry\)](https://open.spotify.com/album/4DTQLzcwIych3iemPgt0li) | 4:24 | 2026-02-27 | 2026-08-28 |
 | [Okie From Muskogee \- Live In Muskogee, Oklahoma/1969](https://open.spotify.com/track/4b65hP5xZvthkSTkCSJuVs) | [Merle Haggard](https://open.spotify.com/artist/2ptmyXoL7poH6Zq62h1QT9) | [Okie From Muskogee \(Live In Muskogee, Oklahoma/1969\)](https://open.spotify.com/album/2oQ0VRkbeYmrUXCjy1CPV6) | 4:08 | 2024-05-04 |  |

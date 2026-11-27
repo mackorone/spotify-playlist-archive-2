@@ -1,6 +1,6 @@
 {
   "description": "The latest and greatest! Revive los \u00e9xitos latinos de los \u00faltimos meses.",
-  "num_followers": 857869,
+  "num_followers": 857939,
   "original_name": "Latin Hit Mix",
   "owner": {
     "name": "Spotify",
@@ -747,6 +747,26 @@
     {
       "added_at": "2026-11-12 20:10:47",
       "album": {
+        "name": "Daddy Yankee: Bzrp Music Sessions, Vol. 0/66",
+        "url": "https://open.spotify.com/album/1lYZ1jkIDGcPVbBRIadB4t"
+      },
+      "artists": [
+        {
+          "name": "Bizarrap",
+          "url": "https://open.spotify.com/artist/716NhGYqD1jl2wI1Qkgq36"
+        },
+        {
+          "name": "Daddy Yankee",
+          "url": "https://open.spotify.com/artist/4VMYDCV2IEDYJArk749S6m"
+        }
+      ],
+      "duration_ms": 151805,
+      "name": "Daddy Yankee: Bzrp Music Sessions, Vol. 0/66",
+      "url": "https://open.spotify.com/track/2uPMsTEKx79gJ8rB3AcT0v"
+    },
+    {
+      "added_at": "2026-11-12 20:10:47",
+      "album": {
         "name": "YOGURCITO REMIX (feat. Kris R., ROA)",
         "url": "https://open.spotify.com/album/3VpceHZ7RMR5Te1GljOED9"
       },
@@ -803,26 +823,6 @@
     {
       "added_at": "2026-11-12 20:10:47",
       "album": {
-        "name": "Daddy Yankee: Bzrp Music Sessions, Vol. 0/66",
-        "url": "https://open.spotify.com/album/1lYZ1jkIDGcPVbBRIadB4t"
-      },
-      "artists": [
-        {
-          "name": "Bizarrap",
-          "url": "https://open.spotify.com/artist/716NhGYqD1jl2wI1Qkgq36"
-        },
-        {
-          "name": "Daddy Yankee",
-          "url": "https://open.spotify.com/artist/4VMYDCV2IEDYJArk749S6m"
-        }
-      ],
-      "duration_ms": 151805,
-      "name": "Daddy Yankee: Bzrp Music Sessions, Vol. 0/66",
-      "url": "https://open.spotify.com/track/2uPMsTEKx79gJ8rB3AcT0v"
-    },
-    {
-      "added_at": "2026-11-12 20:10:47",
-      "album": {
         "name": "LA VILLA",
         "url": "https://open.spotify.com/album/1XVigPq3MfLv2kDIwWu1tq"
       },
@@ -843,6 +843,26 @@
       "duration_ms": 192111,
       "name": "LA VILLA",
       "url": "https://open.spotify.com/track/6YkGw5op7PeyP2gmMMMrfJ"
+    },
+    {
+      "added_at": "2026-11-12 20:10:47",
+      "album": {
+        "name": "Better Late Than Never",
+        "url": "https://open.spotify.com/album/2Kw4Hh3xAkcROBNPuKnh4t"
+      },
+      "artists": [
+        {
+          "name": "Romeo Santos",
+          "url": "https://open.spotify.com/artist/5lwmRuXgjX8xIwlnauTZIP"
+        },
+        {
+          "name": "Prince Royce",
+          "url": "https://open.spotify.com/artist/3MHaV05u0io8fQbZ2XPtlC"
+        }
+      ],
+      "duration_ms": 239120,
+      "name": "Lokita Por M\u00ed",
+      "url": "https://open.spotify.com/track/2aG4AXf3TUtlmk4s9BLYDi"
     },
     {
       "added_at": "2026-11-12 20:10:47",
@@ -879,26 +899,6 @@
       "duration_ms": 163411,
       "name": "Coraz\u00f3n",
       "url": "https://open.spotify.com/track/2339UOI2SU3L1nJtUnx0GF"
-    },
-    {
-      "added_at": "2026-11-12 20:10:47",
-      "album": {
-        "name": "Better Late Than Never",
-        "url": "https://open.spotify.com/album/2Kw4Hh3xAkcROBNPuKnh4t"
-      },
-      "artists": [
-        {
-          "name": "Romeo Santos",
-          "url": "https://open.spotify.com/artist/5lwmRuXgjX8xIwlnauTZIP"
-        },
-        {
-          "name": "Prince Royce",
-          "url": "https://open.spotify.com/artist/3MHaV05u0io8fQbZ2XPtlC"
-        }
-      ],
-      "duration_ms": 239120,
-      "name": "Lokita Por M\u00ed",
-      "url": "https://open.spotify.com/track/2aG4AXf3TUtlmk4s9BLYDi"
     },
     {
       "added_at": "2026-11-12 20:10:47",
@@ -1115,6 +1115,22 @@
     {
       "added_at": "2026-11-12 20:10:47",
       "album": {
+        "name": "\u00bfD\u00f3nde Es El After?",
+        "url": "https://open.spotify.com/album/4kF3HIX0K4uSLacWe25qBG"
+      },
+      "artists": [
+        {
+          "name": "Rawayana",
+          "url": "https://open.spotify.com/artist/2AbQwU2cuEGfD465wCXlg2"
+        }
+      ],
+      "duration_ms": 159333,
+      "name": "Se Vienen Cositas",
+      "url": "https://open.spotify.com/track/7ulDhf05iMrq4IFWNbTrbI"
+    },
+    {
+      "added_at": "2026-11-12 20:10:47",
+      "album": {
         "name": "La Plena (W Sound 05)",
         "url": "https://open.spotify.com/album/6mCCkmAs0Q3RNFD8dp2Pw8"
       },
@@ -1135,22 +1151,6 @@
       "duration_ms": 150001,
       "name": "La Plena - W Sound 05",
       "url": "https://open.spotify.com/track/6xOEgzkMSZJKz6qtCJsQL5"
-    },
-    {
-      "added_at": "2026-11-12 20:10:47",
-      "album": {
-        "name": "\u00bfD\u00f3nde Es El After?",
-        "url": "https://open.spotify.com/album/4kF3HIX0K4uSLacWe25qBG"
-      },
-      "artists": [
-        {
-          "name": "Rawayana",
-          "url": "https://open.spotify.com/artist/2AbQwU2cuEGfD465wCXlg2"
-        }
-      ],
-      "duration_ms": 159333,
-      "name": "Se Vienen Cositas",
-      "url": "https://open.spotify.com/track/7ulDhf05iMrq4IFWNbTrbI"
     },
     {
       "added_at": "2026-11-12 20:10:47",
@@ -1351,26 +1351,6 @@
     {
       "added_at": "2026-11-12 20:10:47",
       "album": {
-        "name": "FOREVER TU GANTEL",
-        "url": "https://open.spotify.com/album/2CmgcsyoQeFW6yj6eFTwdA"
-      },
-      "artists": [
-        {
-          "name": "Omar Courtz",
-          "url": "https://open.spotify.com/artist/3E12tRURRvPfHz0hAMCFYc"
-        },
-        {
-          "name": "\u00d1engo Flow",
-          "url": "https://open.spotify.com/artist/12vb80Km0Ew53ABfJOepVz"
-        }
-      ],
-      "duration_ms": 226533,
-      "name": "FOREVER TU GANTEL",
-      "url": "https://open.spotify.com/track/5XE2dc5tz7tbufWCPFUo5c"
-    },
-    {
-      "added_at": "2026-11-12 20:10:47",
-      "album": {
         "name": "QUE HACES",
         "url": "https://open.spotify.com/album/4QXhhpipr4vVZz8gmlXceJ"
       },
@@ -1387,6 +1367,26 @@
       "duration_ms": 171813,
       "name": "QUE HACES",
       "url": "https://open.spotify.com/track/4ad3yFpPEMFLnvCtvbman5"
+    },
+    {
+      "added_at": "2026-11-12 20:10:47",
+      "album": {
+        "name": "FOREVER TU GANTEL",
+        "url": "https://open.spotify.com/album/2CmgcsyoQeFW6yj6eFTwdA"
+      },
+      "artists": [
+        {
+          "name": "Omar Courtz",
+          "url": "https://open.spotify.com/artist/3E12tRURRvPfHz0hAMCFYc"
+        },
+        {
+          "name": "\u00d1engo Flow",
+          "url": "https://open.spotify.com/artist/12vb80Km0Ew53ABfJOepVz"
+        }
+      ],
+      "duration_ms": 226533,
+      "name": "FOREVER TU GANTEL",
+      "url": "https://open.spotify.com/track/5XE2dc5tz7tbufWCPFUo5c"
     },
     {
       "added_at": "2026-11-12 20:10:47",
@@ -1423,6 +1423,26 @@
     {
       "added_at": "2026-11-12 20:10:47",
       "album": {
+        "name": "Do Not Disturb: Late Checkout",
+        "url": "https://open.spotify.com/album/2h5VwiZ1SsUrPd04Zfd1jO"
+      },
+      "artists": [
+        {
+          "name": "Young Miko",
+          "url": "https://open.spotify.com/artist/3qsKSpcV3ncke3hw52JSMB"
+        },
+        {
+          "name": "Rauw Alejandro",
+          "url": "https://open.spotify.com/artist/1mcTU81TzQhprhouKaTkpq"
+        }
+      ],
+      "duration_ms": 202413,
+      "name": "Aquel diciembre",
+      "url": "https://open.spotify.com/track/6A2VAtuRu5p5LymL4RSCBG"
+    },
+    {
+      "added_at": "2026-11-12 20:10:47",
+      "album": {
         "name": "GANAS REMIX",
         "url": "https://open.spotify.com/album/51ZB7xmzN8RVLJfCeXJmOH"
       },
@@ -1447,26 +1467,6 @@
       "duration_ms": 326746,
       "name": "GANAS REMIX",
       "url": "https://open.spotify.com/track/57vNJ68zPmGIkgiDreQv6S"
-    },
-    {
-      "added_at": "2026-11-12 20:10:47",
-      "album": {
-        "name": "Do Not Disturb: Late Checkout",
-        "url": "https://open.spotify.com/album/2h5VwiZ1SsUrPd04Zfd1jO"
-      },
-      "artists": [
-        {
-          "name": "Young Miko",
-          "url": "https://open.spotify.com/artist/3qsKSpcV3ncke3hw52JSMB"
-        },
-        {
-          "name": "Rauw Alejandro",
-          "url": "https://open.spotify.com/artist/1mcTU81TzQhprhouKaTkpq"
-        }
-      ],
-      "duration_ms": 202413,
-      "name": "Aquel diciembre",
-      "url": "https://open.spotify.com/track/6A2VAtuRu5p5LymL4RSCBG"
     },
     {
       "added_at": "2026-11-12 20:10:47",
@@ -1631,26 +1631,6 @@
     {
       "added_at": "2026-11-12 20:10:47",
       "album": {
-        "name": "Me Mareo",
-        "url": "https://open.spotify.com/album/4aS33VYowVrUJTMd8c5OXc"
-      },
-      "artists": [
-        {
-          "name": "Kidd Voodoo",
-          "url": "https://open.spotify.com/artist/10VBp06W8NIgMW4JruLCC4"
-        },
-        {
-          "name": "JC Reyes",
-          "url": "https://open.spotify.com/artist/0FwnPHExlRRxEZPLAi5tmG"
-        }
-      ],
-      "duration_ms": 168209,
-      "name": "Me Mareo",
-      "url": "https://open.spotify.com/track/0F1svfSx95E3qDBySn719G"
-    },
-    {
-      "added_at": "2026-11-12 20:10:47",
-      "album": {
         "name": "PONGO",
         "url": "https://open.spotify.com/album/2enHgKCtJSopIOoi0uhy0Y"
       },
@@ -1671,6 +1651,26 @@
       "duration_ms": 189197,
       "name": "PONGO",
       "url": "https://open.spotify.com/track/3vohqCtAozZw4ifTAtwbxu"
+    },
+    {
+      "added_at": "2026-11-12 20:10:47",
+      "album": {
+        "name": "Me Mareo",
+        "url": "https://open.spotify.com/album/4aS33VYowVrUJTMd8c5OXc"
+      },
+      "artists": [
+        {
+          "name": "Kidd Voodoo",
+          "url": "https://open.spotify.com/artist/10VBp06W8NIgMW4JruLCC4"
+        },
+        {
+          "name": "JC Reyes",
+          "url": "https://open.spotify.com/artist/0FwnPHExlRRxEZPLAi5tmG"
+        }
+      ],
+      "duration_ms": 168209,
+      "name": "Me Mareo",
+      "url": "https://open.spotify.com/track/0F1svfSx95E3qDBySn719G"
     },
     {
       "added_at": "2026-11-12 20:10:47",

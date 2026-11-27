@@ -4,7 +4,7 @@
 
 > 
 
-2,301 songs - 5 day 13 hr 34 min
+2,303 songs - 5 day 13 hr 43 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -1172,6 +1172,7 @@
 | [Lover](https://open.spotify.com/track/1dGr1c8CrMLDpV6mPbImSI) | [Taylor Swift](https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02) | [Lover](https://open.spotify.com/album/1NAmidJlEaVgA3MpcPFYGq) | 3:41 | 2023-06-23 |  |
 | [Lover, You Should've Come Over](https://open.spotify.com/track/6Jv7kjGkhY2fT4yuBF3aTz) | [Jeff Buckley](https://open.spotify.com/artist/3nnQpaTvKb5jCQabZefACI) | [Grace](https://open.spotify.com/album/7yQtjAjhtNi76KRu05XWFS) | 6:44 | 2026-09-06 |  |
 | [Lovers Rock](https://open.spotify.com/track/6dBUzqjtbnIa1TwYbyw5CM) | [TV Girl](https://open.spotify.com/artist/0Y6dVaC9DZtPNH4591M42W) | [French Exit](https://open.spotify.com/album/4Hai0uVzRbyTSaTPzxTY4e) | 3:33 | 2026-10-07 |  |
+| [lovespell](https://open.spotify.com/track/7sw4noZpXxObOxDrh3BIvV) | [Covet](https://open.spotify.com/artist/46iJ1VD4HKFnqjISGqlZkV) | [lovespell](https://open.spotify.com/album/7x4mrXE9YQBRMCYnbZsizj) | 4:12 | 2026-11-26 |  |
 | [Low](https://open.spotify.com/track/2GAhgAjOhEmItWLfgisyOn) | [SZA](https://open.spotify.com/artist/7tYKF4w9nC0nq9CsPZTHyP) | [SOS](https://open.spotify.com/album/07w0rG5TETcyihsEIZR3qG) | 3:01 | 2023-10-10 |  |
 | [Lucid Girl](https://open.spotify.com/track/5TdnxXaZIqJjASZaJQrW2e) | [Thee Sacred Souls](https://open.spotify.com/artist/0oK5D6uPhGu4Jk2dbZfodU) | [Got a Story to Tell](https://open.spotify.com/album/6yvKcQNyd09wYCCp8O8mNB) | 3:24 | 2026-08-27 |  |
 | [Lucky \- from Now You See Me: Now You Don’t](https://open.spotify.com/track/0LdfRfBLZZJrATRUpAQOUe) | [Reneé Rapp](https://open.spotify.com/artist/2hUYKu1x0UZQXvzCmggvSn) | [Lucky \(from Now You See Me: Now You Don’t\)](https://open.spotify.com/album/3NNzw1JFbGkyNfiz9MoGcE) | 2:28 | 2025-11-01 |  |
@@ -1382,6 +1383,7 @@
 | [Nothing Matters But You](https://open.spotify.com/track/70wrRjno33tp0gaYLqdyjC) | [Madison Beer](https://open.spotify.com/artist/2kRfqPViCqYdSGhYSM9R0Q) | [Silence Between Songs](https://open.spotify.com/album/0Q0rJ81u7O4EFCpqkcwJJ2) | 2:45 | 2026-06-24 |  |
 | [Nothing New \(feat\. Phoebe Bridgers\) \(Taylor’s Version\) \(From The Vault\)](https://open.spotify.com/track/01K4zKU104LyJ8gMb7227B) | [Taylor Swift](https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02), [Phoebe Bridgers](https://open.spotify.com/artist/1r1uxoy19fzMxunt3ONAkG) | [Red \(Taylor's Version\)](https://open.spotify.com/album/6kZ42qRrzov54LcAk4onW9) | 4:18 | 2023-08-14 | 2026-10-23 |
 | [Nothing's Gonna Hurt You Baby](https://open.spotify.com/track/2TeX8rhHEbWA5u3FZZAxBX) | [Cigarettes After Sex](https://open.spotify.com/artist/1QAJqy2dA3ihHBFIHRphZj) | [I.](https://open.spotify.com/album/6arepQNAs2wdg2GoRB861m) | 4:46 | 2026-08-28 |  |
+| [Nothing's Gonna Stop Us Now](https://open.spotify.com/track/3X7uFMzJrEE0sxn62qd8Ch) | [Starship](https://open.spotify.com/artist/0kObWap02DEg9EAJ3PBxzf) | [No Protection](https://open.spotify.com/album/3nCQjsOzTmnWM6gnjIaT8J) | 4:30 | 2026-11-26 |  |
 | [Notice Me](https://open.spotify.com/track/6cjQZQh7G1PT56n5EtjvJC) | [SZA](https://open.spotify.com/artist/7tYKF4w9nC0nq9CsPZTHyP) | [SOS Deluxe: LANA](https://open.spotify.com/album/3VQkNrG74QPY4rHBPoyZYZ) | 2:40 | 2024-12-30 |  |
 | [Notice Me, Horton \- From "Seussical The Musical"](https://open.spotify.com/track/5HML9ylanbhqWYe0kk3jiM) | [Lynn Ahrens](https://open.spotify.com/artist/7vd6sS3NY5iwoMuyOK4LPK), [Stephen Flaherty](https://open.spotify.com/artist/0e0KzJhXyejX79USdqgNiy), [Janine LaManna](https://open.spotify.com/artist/6JR2RlXf1P7oALaIiHwJEm), [Kevin Chamberlin](https://open.spotify.com/artist/0hjafZk3hkNc7iamqlXfJY) | [Seussical](https://open.spotify.com/album/1O4Z2W8WXk6eoeAIQy67Ze) | 3:07 | 2025-11-05 |  |
 | [Notting Hill](https://open.spotify.com/track/0DDsSbVaPO76UdbWLe95cA) | [Suki Waterhouse](https://open.spotify.com/artist/5GGJosGMs08YEmKTZJe1fL) | [Notting Hill](https://open.spotify.com/album/7zAYZLmTr2H1npTp0jZthc) | 3:10 | 2026-07-26 |  |

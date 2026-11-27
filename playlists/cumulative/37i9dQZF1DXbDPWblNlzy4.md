@@ -4,7 +4,7 @@
 
 > Los éxitos más POPulares en español los encuentras aquí\. Foto: Lasso
 
-623 songs - 1 day 8 hr 20 min
+624 songs - 1 day 8 hr 24 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -322,7 +322,7 @@
 | [Limonar](https://open.spotify.com/track/5A0BHKTVDwtO2X20EDiZlG) | [Greeicy](https://open.spotify.com/artist/5dbaLmK5SHLLg8Z4CcTJpX) | [Limonar](https://open.spotify.com/album/6JKiblGr9JWNYFQ5qmbuN3) | 3:15 | 2025-05-16 | 2026-01-31 |
 | [Limón y Sal](https://open.spotify.com/track/7dITAq1YP5e0kTcaDq4YWI) | [Julieta Venegas](https://open.spotify.com/artist/2QWIScpFDNxmS6ZEMIUvgm) | [Limon Y Sal](https://open.spotify.com/album/1YhHEtOj1mhMz0769Fqa9Q) | 3:25 | 2026-03-18 | 2026-03-27 |
 | [LINEAS PARALELAS](https://open.spotify.com/track/0sqCdE6AyJnSO0TZIiOgdf) | [FABIAN](https://open.spotify.com/artist/5OHLIL5eTIYJ4WXNvKkeyG), [ROBI](https://open.spotify.com/artist/6ISKc7ev3V4EGnEagkXexc) | [LINEAS PARALELAS](https://open.spotify.com/album/1kwYFhLdteuvP0Qv1gJVB7) | 3:02 | 2026-07-17 |  |
-| [llorando de risa](https://open.spotify.com/track/4HCFMyheSM0NsWYT51WK2O) | [Susana Cala](https://open.spotify.com/artist/68LgpWsaAwjflP3CLXC0LB), [Elsa y Elmar](https://open.spotify.com/artist/5nKGeITSNCVP76muyOlszy) | [llorando de risa](https://open.spotify.com/album/3ILsMChw24VuxsZ3CFcVjO) | 3:07 | 2026-10-30 |  |
+| [llorando de risa](https://open.spotify.com/track/4HCFMyheSM0NsWYT51WK2O) | [Susana Cala](https://open.spotify.com/artist/68LgpWsaAwjflP3CLXC0LB), [Elsa y Elmar](https://open.spotify.com/artist/5nKGeITSNCVP76muyOlszy) | [llorando de risa](https://open.spotify.com/album/3ILsMChw24VuxsZ3CFcVjO) | 3:07 | 2026-10-30 | 2026-11-27 |
 | [Lluvia](https://open.spotify.com/track/1heIify4NygHEzqrozuVKK) | [Arcángel](https://open.spotify.com/artist/4SsVbpTthjScTS7U2hmr1X), [Ricky Martin](https://open.spotify.com/artist/7slfeZO9LsJbWgpkIoXBUJ) | [LA 8VA MARAVILLA](https://open.spotify.com/album/4ZMzNSoTgWgSfkBpJTCx9w) | 3:24 | 2026-01-22 | 2026-01-31 |
 | [LLYLM](https://open.spotify.com/track/2SiAcexM2p1yX6joESbehd) | [ROSALÍA](https://open.spotify.com/artist/7ltDVBr6mKbRvohxheJ9h1) | [LLYLM](https://open.spotify.com/album/44mKxp7RB6x5O19VWqEXEm) | 2:54 | 2023-03-17 | 2023-03-25 |
 | [lo que hay x aquí](https://open.spotify.com/track/5IlLm20JXhKbMtsH20NblC) | [Rels B](https://open.spotify.com/artist/2IMZYfNi21MGqxopj9fWx8) | [lo que hay x aquí](https://open.spotify.com/album/28MEC53zcdE731x6FX3Hsm) | 2:35 | 2023-03-17 | 2023-05-13 |
@@ -483,6 +483,7 @@
 | [Primera Cita](https://open.spotify.com/track/4mGrWfDISjNjgeQnH1B8IE) | [Carin Leon](https://open.spotify.com/artist/66ihevNkSYNzRAl44dx6jJ) | [Primera Cita](https://open.spotify.com/album/4BeF1IA1ufJtzgOgqx3a9Z) | 3:06 | 2023-09-29 | 2025-03-22 |
 | [Primera Cita](https://open.spotify.com/track/61TIqrpTJ6ZlEaQpneVboa) | [Servando & Florentino](https://open.spotify.com/artist/2sU7vdIXtvChlnXIcUliVe) | [Primera Cita](https://open.spotify.com/album/12zL0QO90BC88QJTYeso5d) | 2:44 | 2023-03-17 | 2023-07-29 |
 | [Princeso](https://open.spotify.com/track/3XyUgV741iAhQVwETqQSvp) | [Briella](https://open.spotify.com/artist/3ef240gIQOpOu1OaPNYF2b) | [Tinikijima](https://open.spotify.com/album/1VOAqmm83sCljIt0Isuue2) | 2:37 | 2026-08-14 |  |
+| [problemas:des\-ahógate](https://open.spotify.com/track/7vxFh2b7O52HuYX7e28Rm7) | [Susana Cala](https://open.spotify.com/artist/68LgpWsaAwjflP3CLXC0LB) | [\[demos\] vol\. 2](https://open.spotify.com/album/5nauI28CDEY8PO5yDCb30b) | 3:13 | 2026-11-27 |  |
 | [Prométeme](https://open.spotify.com/track/5LGEeGRTgcYI2KHRYcJLdc) | [Monsieur Periné](https://open.spotify.com/artist/36KsCCwgI0Dep97yVJWmkK) | [Bolero Apocalíptico](https://open.spotify.com/album/51oaN9VvyBHWlflI8UzUti) | 3:09 | 2023-04-28 | 2023-05-13 |
 | [PROVENZA](https://open.spotify.com/track/7dSZ6zGTQx66c2GF91xCrb) | [KAROL G](https://open.spotify.com/artist/790FomKkXshlbRYZFtlgla) | [PROVENZA](https://open.spotify.com/album/1wLB2bnCl2m5m9M9g8r93Y) | 3:30 | 2023-03-17 | 2023-04-22 |
 | [Puntos Suspensivos](https://open.spotify.com/track/158YjH4OfLhG3AuUalaFUE) | [Ysa C](https://open.spotify.com/artist/6jmYNc5XuhmHOEf58AGeRk) | [Puntos Suspensivos](https://open.spotify.com/album/3oUsMQAhvY3PzAw6sT0y03) | 2:18 | 2025-09-26 | 2026-01-31 |

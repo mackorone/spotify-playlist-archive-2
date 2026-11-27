@@ -14009,6 +14009,24 @@
     },
     {
       "album": {
+        "name": "Never",
+        "url": "https://open.spotify.com/album/2INhruz6kN5GiYUHnrAbpm"
+      },
+      "artists": [
+        {
+          "name": "Timaya",
+          "url": "https://open.spotify.com/artist/7gEgjd9W1P1iAD9FbubrqC"
+        }
+      ],
+      "date_added": "2026-11-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 146592,
+      "name": "Never",
+      "url": "https://open.spotify.com/track/1EsdgUoBXIp72WvMSd3F9g"
+    },
+    {
+      "album": {
         "name": "Best of Naija Classics II",
         "url": "https://open.spotify.com/album/6LSXycchxp26b1AEGIsLcG"
       },
@@ -19228,7 +19246,7 @@
       ],
       "date_added": "2026-08-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-27",
       "duration_ms": 174915,
       "name": "Stay a Little Longer",
       "url": "https://open.spotify.com/track/5fYfkdAKlwSuEPxwkv7xep"
@@ -20808,7 +20826,7 @@
       ],
       "date_added": "2026-10-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-27",
       "duration_ms": 161632,
       "name": "Uwese (feat. Oxlade)",
       "url": "https://open.spotify.com/track/6LjhNdD7XDi3deb1gGx552"
@@ -22392,6 +22410,28 @@
       "duration_ms": 227937,
       "name": "You Are",
       "url": "https://open.spotify.com/track/6jI9XYNr5wSkULVVPSHzvP"
+    },
+    {
+      "album": {
+        "name": "Younger",
+        "url": "https://open.spotify.com/album/2fvd9TepqHLUOuFvGZyNM5"
+      },
+      "artists": [
+        {
+          "name": "joki",
+          "url": "https://open.spotify.com/artist/1jk1F3dSUQFcHCfbXpuQ5D"
+        },
+        {
+          "name": "Magixx",
+          "url": "https://open.spotify.com/artist/0rskhjcLm5BxjwZDRs4142"
+        }
+      ],
+      "date_added": "2026-11-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 148474,
+      "name": "Younger",
+      "url": "https://open.spotify.com/track/38o3n0Ywd9aa3A7UrCs4dA"
     },
     {
       "album": {

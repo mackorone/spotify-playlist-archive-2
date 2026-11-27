@@ -2873,6 +2873,32 @@
     },
     {
       "album": {
+        "name": "Sohy: Paix, Op. 18 No. 1 (Arr. For Cello & Piano)",
+        "url": "https://open.spotify.com/album/1t6xxMYbZzqVevBt9oVZSd"
+      },
+      "artists": [
+        {
+          "name": "Charlotte Sohy",
+          "url": "https://open.spotify.com/artist/4brUQ3dIhPHDJCHX2fQVDp"
+        },
+        {
+          "name": "Laura van der Heijden",
+          "url": "https://open.spotify.com/artist/23wZCdNR0NYNW0OHxAjhD0"
+        },
+        {
+          "name": "J\u00e2ms Coleman",
+          "url": "https://open.spotify.com/artist/7aTD4dR8XvFLvmRCNf8vHC"
+        }
+      ],
+      "date_added": "2026-11-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 239933,
+      "name": "Paix, Op. 18 No. 1 (Arr. For Cello & Piano)",
+      "url": "https://open.spotify.com/track/2EzKjlTQIKPV1eWJHrj1lv"
+    },
+    {
+      "album": {
         "name": "Myopia",
         "url": "https://open.spotify.com/album/1XFhwj2xUtypgyEqAmTrQV"
       },

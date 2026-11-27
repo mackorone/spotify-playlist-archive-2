@@ -1,6 +1,6 @@
 {
   "description": "Make it new. Fresh takes on vintage soul, folk, blues, and roots rock. Cover: Marfa",
-  "num_followers": 429716,
+  "num_followers": 429723,
   "original_name": "the new retro",
   "owner": {
     "name": "Spotify",
@@ -183,18 +183,18 @@
     {
       "added_at": "2026-11-20 05:01:38",
       "album": {
-        "name": "Mule",
-        "url": "https://open.spotify.com/album/7u120MsUxCkPcyQg9LJnmo"
+        "name": "No Tengo Valor",
+        "url": "https://open.spotify.com/album/7JvcNuFQT1h2e2IcyQUXhL"
       },
       "artists": [
         {
-          "name": "Orville Peck",
-          "url": "https://open.spotify.com/artist/46auOkH1pk28rWrSoUNhLo"
+          "name": "54 Ultra",
+          "url": "https://open.spotify.com/artist/6X5L6rmyvrWWu60Gx6exiZ"
         }
       ],
-      "duration_ms": 179054,
-      "name": "Run Out Of Road",
-      "url": "https://open.spotify.com/track/2FJVgqIXOUUgkyaaAP72dI"
+      "duration_ms": 182750,
+      "name": "No Tengo Valor",
+      "url": "https://open.spotify.com/track/16Eou1I5su9dxDKCYAVkmH"
     },
     {
       "added_at": "2026-11-20 05:01:38",
@@ -231,18 +231,18 @@
     {
       "added_at": "2026-11-20 05:01:38",
       "album": {
-        "name": "No Tengo Valor",
-        "url": "https://open.spotify.com/album/7JvcNuFQT1h2e2IcyQUXhL"
+        "name": "Mule",
+        "url": "https://open.spotify.com/album/7u120MsUxCkPcyQg9LJnmo"
       },
       "artists": [
         {
-          "name": "54 Ultra",
-          "url": "https://open.spotify.com/artist/6X5L6rmyvrWWu60Gx6exiZ"
+          "name": "Orville Peck",
+          "url": "https://open.spotify.com/artist/46auOkH1pk28rWrSoUNhLo"
         }
       ],
-      "duration_ms": 182750,
-      "name": "No Tengo Valor",
-      "url": "https://open.spotify.com/track/16Eou1I5su9dxDKCYAVkmH"
+      "duration_ms": 179054,
+      "name": "Run Out Of Road",
+      "url": "https://open.spotify.com/track/2FJVgqIXOUUgkyaaAP72dI"
     },
     {
       "added_at": "2026-11-20 05:01:38",
@@ -275,22 +275,6 @@
     {
       "added_at": "2026-11-20 05:01:38",
       "album": {
-        "name": "Bitter End",
-        "url": "https://open.spotify.com/album/4pL9vVuPANQdsOB6IbC2xy"
-      },
-      "artists": [
-        {
-          "name": "Frank Mastra",
-          "url": "https://open.spotify.com/artist/4nCpBgm1OfE0FUMlUlqOwv"
-        }
-      ],
-      "duration_ms": 226305,
-      "name": "This Heart Of Mine",
-      "url": "https://open.spotify.com/track/3LZ5f8AcX36noWF4X1PkZO"
-    },
-    {
-      "added_at": "2026-11-20 05:01:38",
-      "album": {
         "name": "someone to you",
         "url": "https://open.spotify.com/album/4WcXbD9aj2KAajoRnHK20p"
       },
@@ -303,6 +287,22 @@
       "duration_ms": 199091,
       "name": "someone to you",
       "url": "https://open.spotify.com/track/7uk0hE1Wa4QaFHzEbLPhwt"
+    },
+    {
+      "added_at": "2026-11-20 05:01:38",
+      "album": {
+        "name": "Bitter End",
+        "url": "https://open.spotify.com/album/4pL9vVuPANQdsOB6IbC2xy"
+      },
+      "artists": [
+        {
+          "name": "Frank Mastra",
+          "url": "https://open.spotify.com/artist/4nCpBgm1OfE0FUMlUlqOwv"
+        }
+      ],
+      "duration_ms": 226305,
+      "name": "This Heart Of Mine",
+      "url": "https://open.spotify.com/track/3LZ5f8AcX36noWF4X1PkZO"
     },
     {
       "added_at": "2026-11-20 05:01:38",
@@ -499,22 +499,6 @@
     {
       "added_at": "2026-11-20 05:01:38",
       "album": {
-        "name": "Take It As It Is",
-        "url": "https://open.spotify.com/album/5qMBpitswasvtiUvKmBFW3"
-      },
-      "artists": [
-        {
-          "name": "Skinshape",
-          "url": "https://open.spotify.com/artist/1itM5tXaK5THggpXA7ovAe"
-        }
-      ],
-      "duration_ms": 289313,
-      "name": "Take It As It Is",
-      "url": "https://open.spotify.com/track/1exBcwZfWI6lafCCDtauBp"
-    },
-    {
-      "added_at": "2026-11-20 05:01:38",
-      "album": {
         "name": "Show Me How",
         "url": "https://open.spotify.com/album/5NeRiilPMIlEeeq6yjEUsF"
       },
@@ -527,6 +511,22 @@
       "duration_ms": 203446,
       "name": "Show Me How",
       "url": "https://open.spotify.com/track/1PBnd0988GaZgLhhReu2SM"
+    },
+    {
+      "added_at": "2026-11-20 05:01:38",
+      "album": {
+        "name": "Take It As It Is",
+        "url": "https://open.spotify.com/album/5qMBpitswasvtiUvKmBFW3"
+      },
+      "artists": [
+        {
+          "name": "Skinshape",
+          "url": "https://open.spotify.com/artist/1itM5tXaK5THggpXA7ovAe"
+        }
+      ],
+      "duration_ms": 289313,
+      "name": "Take It As It Is",
+      "url": "https://open.spotify.com/track/1exBcwZfWI6lafCCDtauBp"
     },
     {
       "added_at": "2026-11-20 05:01:38",
@@ -595,22 +595,6 @@
     {
       "added_at": "2026-11-20 05:01:38",
       "album": {
-        "name": "All That It Is",
-        "url": "https://open.spotify.com/album/5XaCaoQjxJPz5a3NhZxjNZ"
-      },
-      "artists": [
-        {
-          "name": "Whitney Whitney",
-          "url": "https://open.spotify.com/artist/2Jze5ZZUDEo9TowuCnI45R"
-        }
-      ],
-      "duration_ms": 230960,
-      "name": "All That It Is",
-      "url": "https://open.spotify.com/track/7aEfNs8cRi0YRbiIwwrmP9"
-    },
-    {
-      "added_at": "2026-11-20 05:01:38",
-      "album": {
         "name": "Kentucky Too Long",
         "url": "https://open.spotify.com/album/4Z8FQO3TmpkD6COopQTTxE"
       },
@@ -623,6 +607,22 @@
       "duration_ms": 218816,
       "name": "Kentucky Too Long",
       "url": "https://open.spotify.com/track/6dPMvMqLD2sfmDWYfGLgHa"
+    },
+    {
+      "added_at": "2026-11-20 05:01:38",
+      "album": {
+        "name": "All That It Is",
+        "url": "https://open.spotify.com/album/5XaCaoQjxJPz5a3NhZxjNZ"
+      },
+      "artists": [
+        {
+          "name": "Whitney Whitney",
+          "url": "https://open.spotify.com/artist/2Jze5ZZUDEo9TowuCnI45R"
+        }
+      ],
+      "duration_ms": 230960,
+      "name": "All That It Is",
+      "url": "https://open.spotify.com/track/7aEfNs8cRi0YRbiIwwrmP9"
     },
     {
       "added_at": "2026-11-20 05:01:38",
@@ -839,18 +839,22 @@
     {
       "added_at": "2026-11-20 05:01:38",
       "album": {
-        "name": "Free Again",
-        "url": "https://open.spotify.com/album/7DEAG8vu1hH69Uumg8qsAs"
+        "name": "For the Time Being",
+        "url": "https://open.spotify.com/album/34yEKd4Ee3yKFyhlKtAL8o"
       },
       "artists": [
         {
-          "name": "Sam Burton",
-          "url": "https://open.spotify.com/artist/38uF92nRI3YmOAeocf4D6J"
+          "name": "Sammy Rae & The Friends",
+          "url": "https://open.spotify.com/artist/3lFDsTyYNPQc8WzJExnQWn"
+        },
+        {
+          "name": "Will Leet",
+          "url": "https://open.spotify.com/artist/2ArFmY25rRvP5RFJpHkqLi"
         }
       ],
-      "duration_ms": 232104,
-      "name": "Free Again",
-      "url": "https://open.spotify.com/track/0baB7MojwdkkJE69tF5Kjw"
+      "duration_ms": 245333,
+      "name": "For the Time Being",
+      "url": "https://open.spotify.com/track/0b0rwzZCms56M9VvEWkd0M"
     },
     {
       "added_at": "2026-11-20 05:01:38",
@@ -871,22 +875,18 @@
     {
       "added_at": "2026-11-20 05:01:38",
       "album": {
-        "name": "For the Time Being",
-        "url": "https://open.spotify.com/album/34yEKd4Ee3yKFyhlKtAL8o"
+        "name": "Free Again",
+        "url": "https://open.spotify.com/album/7DEAG8vu1hH69Uumg8qsAs"
       },
       "artists": [
         {
-          "name": "Sammy Rae & The Friends",
-          "url": "https://open.spotify.com/artist/3lFDsTyYNPQc8WzJExnQWn"
-        },
-        {
-          "name": "Will Leet",
-          "url": "https://open.spotify.com/artist/2ArFmY25rRvP5RFJpHkqLi"
+          "name": "Sam Burton",
+          "url": "https://open.spotify.com/artist/38uF92nRI3YmOAeocf4D6J"
         }
       ],
-      "duration_ms": 245333,
-      "name": "For the Time Being",
-      "url": "https://open.spotify.com/track/0b0rwzZCms56M9VvEWkd0M"
+      "duration_ms": 232104,
+      "name": "Free Again",
+      "url": "https://open.spotify.com/track/0baB7MojwdkkJE69tF5Kjw"
     },
     {
       "added_at": "2026-11-20 05:01:38",
@@ -1039,22 +1039,6 @@
     {
       "added_at": "2026-11-20 05:01:38",
       "album": {
-        "name": "Landfill Poetry",
-        "url": "https://open.spotify.com/album/0FQC88MBO0njsv7tnfBTI3"
-      },
-      "artists": [
-        {
-          "name": "Riley Downing",
-          "url": "https://open.spotify.com/artist/1CUUaD4QTSHjEfrLohLaW6"
-        }
-      ],
-      "duration_ms": 257522,
-      "name": "Hay Hay Hay",
-      "url": "https://open.spotify.com/track/6VHLbJATDyuk4w4dWbe4aC"
-    },
-    {
-      "added_at": "2026-11-20 05:01:38",
-      "album": {
         "name": "Act I",
         "url": "https://open.spotify.com/album/7tJwgD3IbrgdlNNfv2nE1R"
       },
@@ -1067,6 +1051,22 @@
       "duration_ms": 192463,
       "name": "Stay",
       "url": "https://open.spotify.com/track/353A1eattWX5QjVnE5yd5X"
+    },
+    {
+      "added_at": "2026-11-20 05:01:38",
+      "album": {
+        "name": "Landfill Poetry",
+        "url": "https://open.spotify.com/album/0FQC88MBO0njsv7tnfBTI3"
+      },
+      "artists": [
+        {
+          "name": "Riley Downing",
+          "url": "https://open.spotify.com/artist/1CUUaD4QTSHjEfrLohLaW6"
+        }
+      ],
+      "duration_ms": 257522,
+      "name": "Hay Hay Hay",
+      "url": "https://open.spotify.com/track/6VHLbJATDyuk4w4dWbe4aC"
     },
     {
       "added_at": "2026-11-20 05:01:38",
@@ -1191,22 +1191,6 @@
     {
       "added_at": "2026-11-20 05:01:38",
       "album": {
-        "name": "Tetris",
-        "url": "https://open.spotify.com/album/5k6k7smqMIAQt78wLhV4El"
-      },
-      "artists": [
-        {
-          "name": "Meg McRee",
-          "url": "https://open.spotify.com/artist/2XXRe7XAVLJZUUOjlEdssy"
-        }
-      ],
-      "duration_ms": 197000,
-      "name": "Tetris",
-      "url": "https://open.spotify.com/track/5InHPth2cbafb1CLzx904x"
-    },
-    {
-      "added_at": "2026-11-20 05:01:38",
-      "album": {
         "name": "Dance For Love",
         "url": "https://open.spotify.com/album/4ur5fRmG36m0aYACPyCCEE"
       },
@@ -1219,6 +1203,22 @@
       "duration_ms": 262536,
       "name": "Dance For Love",
       "url": "https://open.spotify.com/track/7hredXafMauuh15FNDEPnQ"
+    },
+    {
+      "added_at": "2026-11-20 05:01:38",
+      "album": {
+        "name": "Tetris",
+        "url": "https://open.spotify.com/album/5k6k7smqMIAQt78wLhV4El"
+      },
+      "artists": [
+        {
+          "name": "Meg McRee",
+          "url": "https://open.spotify.com/artist/2XXRe7XAVLJZUUOjlEdssy"
+        }
+      ],
+      "duration_ms": 197000,
+      "name": "Tetris",
+      "url": "https://open.spotify.com/track/5InHPth2cbafb1CLzx904x"
     },
     {
       "added_at": "2026-11-20 05:01:38",
@@ -1395,6 +1395,22 @@
     {
       "added_at": "2026-11-20 05:01:38",
       "album": {
+        "name": "Fake It Till You Make It",
+        "url": "https://open.spotify.com/album/5FwnR18zlJpfZxJKHwcO6z"
+      },
+      "artists": [
+        {
+          "name": "Honeybear, the Band",
+          "url": "https://open.spotify.com/artist/1t3BkCQTMTGykNPpmj7drk"
+        }
+      ],
+      "duration_ms": 219120,
+      "name": "Fake It Till You Make It",
+      "url": "https://open.spotify.com/track/4Gkug9PYnMDUAmfbk6r5sj"
+    },
+    {
+      "added_at": "2026-11-20 05:01:38",
+      "album": {
         "name": "The Illusion Of Love (feat. Lukas Nelson)",
         "url": "https://open.spotify.com/album/2ORyv79ovybfjEdkR4OM9A"
       },
@@ -1411,22 +1427,6 @@
       "duration_ms": 283427,
       "name": "The Illusion Of Love (feat. Lukas Nelson)",
       "url": "https://open.spotify.com/track/3wbTGRx1ggj8QKIdJXcgpl"
-    },
-    {
-      "added_at": "2026-11-20 05:01:38",
-      "album": {
-        "name": "Fake It Till You Make It",
-        "url": "https://open.spotify.com/album/5FwnR18zlJpfZxJKHwcO6z"
-      },
-      "artists": [
-        {
-          "name": "Honeybear, the Band",
-          "url": "https://open.spotify.com/artist/1t3BkCQTMTGykNPpmj7drk"
-        }
-      ],
-      "duration_ms": 219120,
-      "name": "Fake It Till You Make It",
-      "url": "https://open.spotify.com/track/4Gkug9PYnMDUAmfbk6r5sj"
     },
     {
       "added_at": "2026-11-20 05:01:38",
@@ -1579,22 +1579,6 @@
     {
       "added_at": "2026-11-20 05:01:38",
       "album": {
-        "name": "You've Got What It Takes",
-        "url": "https://open.spotify.com/album/3Lrx6TzBs7qgZGm1E4UVdw"
-      },
-      "artists": [
-        {
-          "name": "Theo Lawrence",
-          "url": "https://open.spotify.com/artist/28eXJYBZVGDRy1c7j4dIw2"
-        }
-      ],
-      "duration_ms": 215506,
-      "name": "You've Got What It Takes",
-      "url": "https://open.spotify.com/track/5n6UJnJc6JP9pqRWTigmQa"
-    },
-    {
-      "added_at": "2026-11-20 05:01:38",
-      "album": {
         "name": "Cold Times",
         "url": "https://open.spotify.com/album/16Ms3KhV99SaBDqtY4j7y7"
       },
@@ -1607,6 +1591,22 @@
       "duration_ms": 213720,
       "name": "Cold Times",
       "url": "https://open.spotify.com/track/1INvWY0xcIMij69ACS9JFm"
+    },
+    {
+      "added_at": "2026-11-20 05:01:38",
+      "album": {
+        "name": "You've Got What It Takes",
+        "url": "https://open.spotify.com/album/3Lrx6TzBs7qgZGm1E4UVdw"
+      },
+      "artists": [
+        {
+          "name": "Theo Lawrence",
+          "url": "https://open.spotify.com/artist/28eXJYBZVGDRy1c7j4dIw2"
+        }
+      ],
+      "duration_ms": 215506,
+      "name": "You've Got What It Takes",
+      "url": "https://open.spotify.com/track/5n6UJnJc6JP9pqRWTigmQa"
     },
     {
       "added_at": "2026-11-20 05:01:38",

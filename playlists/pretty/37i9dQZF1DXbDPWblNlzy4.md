@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbDPWblNlzy4.md) - [plain]
 
 > Los éxitos más POPulares en español los encuentras aquí\. Foto: Lasso
 
-[Spotify](https://open.spotify.com/user/spotify) - 598,111 likes - 52 songs - 2 hr 35 min
+[Spotify](https://open.spotify.com/user/spotify) - 598,078 likes - 52 songs - 2 hr 35 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -15,9 +15,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbDPWblNlzy4.md) - [plain]
 | 5 | [La Fábula](https://open.spotify.com/track/6AJpmsldHFaBUkjKV0DX9j) | [Samuraï](https://open.spotify.com/artist/0BovidHLtM9n55WXWkApK9) | [La Fábula](https://open.spotify.com/album/49zomDfCjLkMlgvVXEzswY) | 2:41 |
 | 6 | [COSAS DEL AMOR \(feat\. KICKBOMBO\)](https://open.spotify.com/track/4QShpVwkoUtMT2OLEYE4zD) | [Annasofia](https://open.spotify.com/artist/37GbbR22KbzWN5Wfb9djSo), [KICKBOMBO](https://open.spotify.com/artist/7A2htSu45kogVfNBMD4Xgh) | [COSAS DEL AMOR \(feat\. KICKBOMBO\)](https://open.spotify.com/album/5LvOJA5uFl6cHNae6clPg6) | 2:23 |
 | 7 | [verano en la ciudad](https://open.spotify.com/track/2WzXAEN2FvbwjAi7NEOUeo) | [Joaquina](https://open.spotify.com/artist/081F5qgtVMfcHZKDY1IEa0) | [verano en la ciudad](https://open.spotify.com/album/7esCAic9KXNGprLkyCSMDR) | 3:32 |
-| 8 | [llorando de risa](https://open.spotify.com/track/4HCFMyheSM0NsWYT51WK2O) | [Susana Cala](https://open.spotify.com/artist/68LgpWsaAwjflP3CLXC0LB), [Elsa y Elmar](https://open.spotify.com/artist/5nKGeITSNCVP76muyOlszy) | [llorando de risa](https://open.spotify.com/album/3ILsMChw24VuxsZ3CFcVjO) | 3:07 |
-| 9 | [Algo Cambiará](https://open.spotify.com/track/2f60WcMHtB91W44LXFGc2y) | [Chell](https://open.spotify.com/artist/26z5jcyErxp9lUdkw28pId) | [Escenarios Ficticios](https://open.spotify.com/album/6zwgX9tlUcGRBIfDB5I6fq) | 3:08 |
-| 10 | [Mujer me estas matando](https://open.spotify.com/track/3yRZpzvjJjj4b9lXqiSf7G) | [Manuel Lizarazo](https://open.spotify.com/artist/3GAdaUGcZiphtBqlLxXHZC) | [Mujer me estas matando](https://open.spotify.com/album/3CyVwbAOlkLESikxgGQqVH) | 2:43 |
+| 8 | [Algo Cambiará](https://open.spotify.com/track/2f60WcMHtB91W44LXFGc2y) | [Chell](https://open.spotify.com/artist/26z5jcyErxp9lUdkw28pId) | [Escenarios Ficticios](https://open.spotify.com/album/6zwgX9tlUcGRBIfDB5I6fq) | 3:08 |
+| 9 | [Mujer me estas matando](https://open.spotify.com/track/3yRZpzvjJjj4b9lXqiSf7G) | [Manuel Lizarazo](https://open.spotify.com/artist/3GAdaUGcZiphtBqlLxXHZC) | [Mujer me estas matando](https://open.spotify.com/album/3CyVwbAOlkLESikxgGQqVH) | 2:43 |
+| 10 | [problemas:des\-ahógate](https://open.spotify.com/track/7vxFh2b7O52HuYX7e28Rm7) | [Susana Cala](https://open.spotify.com/artist/68LgpWsaAwjflP3CLXC0LB) | [\[demos\] vol\. 2](https://open.spotify.com/album/5nauI28CDEY8PO5yDCb30b) | 3:13 |
 | 11 | [Te extraño](https://open.spotify.com/track/5CeaWEKhYh4V6fOsi13X6d) | [Catalina](https://open.spotify.com/artist/5e89WNYIDZlwyI4opb2kCK) | [mala marea](https://open.spotify.com/album/6322XHElbmPhXRCtTJvFof) | 2:54 |
 | 12 | [superpoder](https://open.spotify.com/track/10SXiR9AtTFANGX45NJeSL) | [Lasso](https://open.spotify.com/artist/3SCOuAxngTC1yGjKMcIPEd) | [superpoder](https://open.spotify.com/album/6s3I8KSBKb6xUoD1iXPUVT) | 3:10 |
 | 13 | [Normal](https://open.spotify.com/track/6OtV718PF8srqETTUOKJMI) | [Maca & Gero](https://open.spotify.com/artist/6u8guISpLd1Al1exxE6BtV), [Manuel Lizarazo](https://open.spotify.com/artist/3GAdaUGcZiphtBqlLxXHZC) | [Normal](https://open.spotify.com/album/7qWGL1APRHrhvPW7aA2y2h) | 3:00 |
@@ -61,4 +61,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbDPWblNlzy4.md) - [plain]
 | 51 | [por la pequeña Venecia](https://open.spotify.com/track/0SFvSc2qggsVQqnfYzeCv4) | [Danny Ocean](https://open.spotify.com/artist/5H1nN1SzW0qNeUEZvuXjAj) | [venequia.](https://open.spotify.com/album/7qF0L6bZnkDlezwvUJeFet) | 3:02 |
 | 52 | [Sabe Bien](https://open.spotify.com/track/36LDPQfypNqhflhok841qb) | [Pedro Capó](https://open.spotify.com/artist/4QVBYiagIaa6ZGSPMbybpy) | [Sabe Bien](https://open.spotify.com/album/2ntsVWNEOkxCYevBecgpvq) | 2:40 |
 
-Snapshot ID: `AAAAANJNk7ebXR+sAxPZBJjDVQ0AXrFM`
+Snapshot ID: `AAAAAKyCa4ycNIKAS/j05BDcqhdBnhfB`

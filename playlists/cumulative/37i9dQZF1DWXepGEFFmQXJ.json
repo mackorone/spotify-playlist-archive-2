@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-01-02",
-  "description": "The cream of today's country crop. Cover: Ella Langley",
+  "description": "The cream of today's country crop. Cover: James Johnston",
   "name": "Fresh Country",
   "tracks": [
     {
@@ -9461,6 +9461,24 @@
     },
     {
       "album": {
+        "name": "HEAVEN TO ME",
+        "url": "https://open.spotify.com/album/2cqkvXjQlkIdiJWS1przAx"
+      },
+      "artists": [
+        {
+          "name": "James Johnston",
+          "url": "https://open.spotify.com/artist/69HMYPrcstafeCTHI3Dcp1"
+        }
+      ],
+      "date_added": "2026-11-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 230110,
+      "name": "HEAVEN TO ME",
+      "url": "https://open.spotify.com/track/1JXORdh5WgaRrMb0Klcesp"
+    },
+    {
+      "album": {
         "name": "Heavens Know",
         "url": "https://open.spotify.com/album/23YfWwXfnEotsMNhlPAlHF"
       },
@@ -13786,7 +13804,7 @@
       ],
       "date_added": "2026-10-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-27",
       "duration_ms": 212333,
       "name": "Make Trouble",
       "url": "https://open.spotify.com/track/6l8JlOPCBGKWJs3XOs44u0"
@@ -16818,7 +16836,7 @@
       ],
       "date_added": "2026-10-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-27",
       "duration_ms": 210000,
       "name": "Porch Light",
       "url": "https://open.spotify.com/track/3SM8VdUoDb7e3OUWkApJdn"
@@ -22630,6 +22648,28 @@
       "duration_ms": 214798,
       "name": "Trouble",
       "url": "https://open.spotify.com/track/7cRggVoZ18mmvIN2EcSQ3J"
+    },
+    {
+      "album": {
+        "name": "Trouble",
+        "url": "https://open.spotify.com/album/2n7vuGcc4yFZjEn1OAjSLG"
+      },
+      "artists": [
+        {
+          "name": "Y.O.G.A.",
+          "url": "https://open.spotify.com/artist/0H2mWrAuc4RzRwr2SkpG2y"
+        },
+        {
+          "name": "Jimbo Stokes",
+          "url": "https://open.spotify.com/artist/1kjIdNzI0AIDHaaqfbEzdK"
+        }
+      ],
+      "date_added": "2026-11-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 189986,
+      "name": "Trouble",
+      "url": "https://open.spotify.com/track/4Ni5e1f5zY4EmxIaCwcipb"
     },
     {
       "album": {

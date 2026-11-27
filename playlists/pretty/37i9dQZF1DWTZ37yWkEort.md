@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTZ37yWkEort.md) - [plain]
 
 > From joyful jubillance to hushed harmonies\. Cover: Pentatonix
 
-[Spotify](https://open.spotify.com/user/spotify) - 62,067 likes - 50 songs - 2 hr 28 min
+[Spotify](https://open.spotify.com/user/spotify) - 62,079 likes - 50 songs - 2 hr 28 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -13,7 +13,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTZ37yWkEort.md) - [plain]
 | 3 | [Do You Hear What I Hear?](https://open.spotify.com/track/4ALkaFHbQZtJ5h1FigF2Ps) | [Andrea Bocelli](https://open.spotify.com/artist/3EA9hVIzKfFiQI0Kikz2wo), [Matteo Bocelli](https://open.spotify.com/artist/3SzmIPVTtVc0AzbR8kwk0w), [Virginia Bocelli](https://open.spotify.com/artist/5zF9MgOi02PuW8KAH9VtyX), [Pentatonix](https://open.spotify.com/artist/26AHtbjWKiwYzsoGoUZq53) | [Do You Hear What I Hear?](https://open.spotify.com/album/2FJVY528PwIOfqDkAn25a4) | 3:05 |
 | 4 | [Winter Wonderland](https://open.spotify.com/track/4ewNAc5D5Lm92YWbP0zI7R) | [Backstreet Boys](https://open.spotify.com/artist/5rSXSAkZ67PYJSvpUpkOr7) | [A Very Backstreet Christmas](https://open.spotify.com/album/5953GQNfxqEWdLobD6lG7T) | 1:40 |
 | 5 | [Pure Imagination / Christmas Time Is Here](https://open.spotify.com/track/18QnV6B8oCorqVYkz0Nljp) | [Pentatonix](https://open.spotify.com/artist/26AHtbjWKiwYzsoGoUZq53) | [The Greatest Christmas Hits](https://open.spotify.com/album/4tRcSRjaE98LsBVOm6cSJT) | 3:20 |
-| 6 | [O Come, O Come Emmanuel](https://open.spotify.com/track/79F8kAOjY7378yM98rc5Gh) | [The Swingles](https://open.spotify.com/artist/5QvPTVBx6OlrUuPwC8W3uU) | [Auld Lang Syne](https://open.spotify.com/album/4uflf5jBf1oZ1E8BfmZdSs) | 4:03 |
+| 6 | [O Come, O Come Emmanuel](https://open.spotify.com/track/79F8kAOjY7378yM98rc5Gh) | [The Swingle Singers](https://open.spotify.com/artist/1ZlFYysRdc6YaUH5FkxPl8) | [Auld Lang Syne](https://open.spotify.com/album/4uflf5jBf1oZ1E8BfmZdSs) | 4:03 |
 | 7 | [Carol of the Bells](https://open.spotify.com/track/3rBwq738wVuKxJZ6YBvfV5) | [Red Letter Daze](https://open.spotify.com/artist/1vAhVbWP3CHJtZ4Tf9gcdW) | [Carol of the Bells](https://open.spotify.com/album/60lvtyh0ZKUrIxyle722Ou) | 2:05 |
 | 8 | [Santamagic](https://open.spotify.com/track/0QXqoBRJ9tbw1AQ94rxfGn) | [The Real Group](https://open.spotify.com/artist/4EIXOUTnf8Gtbk2kq4LYNK) | [Santamagic](https://open.spotify.com/album/73qQ1YcElJG6QTrQ9XxHgV) | 1:58 |
 | 9 | [Jingle Bell Rock](https://open.spotify.com/track/7h0jTze9vNvp7Kpid2i2dB) | [Rockapella](https://open.spotify.com/artist/1AFSUleuDTapVhm5zUf4ix) | [A Rockapella Holiday](https://open.spotify.com/album/1WCdcmjKznIqlpGrSzMKWO) | 1:55 |

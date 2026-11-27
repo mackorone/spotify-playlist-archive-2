@@ -1,6 +1,6 @@
 {
   "description": "afrobeats daqui, de fora, de todos os cantos",
-  "num_followers": 23586,
+  "num_followers": 23589,
   "original_name": "pique afrobeats",
   "owner": {
     "name": "Spotify",
@@ -187,6 +187,26 @@
     {
       "added_at": "2026-10-19 15:51:33",
       "album": {
+        "name": "Formation",
+        "url": "https://open.spotify.com/album/3kVrx9gltuUKLXgAToVjWx"
+      },
+      "artists": [
+        {
+          "name": "Adekunle Gold",
+          "url": "https://open.spotify.com/artist/2IK173RXLiCSQ8fhDlAb3s"
+        },
+        {
+          "name": "Olamide",
+          "url": "https://open.spotify.com/artist/4ovtyvs7j1jSmwhkBGHqSr"
+        }
+      ],
+      "duration_ms": 156666,
+      "name": "Formation",
+      "url": "https://open.spotify.com/track/687RJSOAS8xDed1hoFxum1"
+    },
+    {
+      "added_at": "2026-10-19 15:51:33",
+      "album": {
         "name": "Fazendo A Minha (Deluxe)",
         "url": "https://open.spotify.com/album/6YuTzlPQP2pR0ewsz1FsHJ"
       },
@@ -207,26 +227,6 @@
       "duration_ms": 145531,
       "name": "Outra Vida",
       "url": "https://open.spotify.com/track/0sjHWu6zXuG1cXwk1ktWyO"
-    },
-    {
-      "added_at": "2026-10-19 15:51:33",
-      "album": {
-        "name": "Formation",
-        "url": "https://open.spotify.com/album/3kVrx9gltuUKLXgAToVjWx"
-      },
-      "artists": [
-        {
-          "name": "Adekunle Gold",
-          "url": "https://open.spotify.com/artist/2IK173RXLiCSQ8fhDlAb3s"
-        },
-        {
-          "name": "Olamide",
-          "url": "https://open.spotify.com/artist/4ovtyvs7j1jSmwhkBGHqSr"
-        }
-      ],
-      "duration_ms": 156666,
-      "name": "Formation",
-      "url": "https://open.spotify.com/track/687RJSOAS8xDed1hoFxum1"
     },
     {
       "added_at": "2026-10-19 15:51:33",

@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2021-12-21",
-  "description": "No rules. No boundaries. The best new alternative tracks. Cover: bby",
+  "description": "No rules. No boundaries. The best new alternative tracks. Cover: Lambrini Girls",
   "name": "the new alt",
   "tracks": [
     {
@@ -8572,7 +8572,7 @@
       ],
       "date_added": "2026-10-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-27",
       "duration_ms": 226726,
       "name": "Blood Brothers",
       "url": "https://open.spotify.com/track/7aMdmpShbYFRbdJigosY7C"
@@ -17469,6 +17469,24 @@
     },
     {
       "album": {
+        "name": "Did You Get The Memo?",
+        "url": "https://open.spotify.com/album/0eV6gD8EG9Ajmjr7tPISjb"
+      },
+      "artists": [
+        {
+          "name": "Lime Cordiale",
+          "url": "https://open.spotify.com/artist/6yrtCy4XJHXM6tczo4RlTs"
+        }
+      ],
+      "date_added": "2026-11-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 206666,
+      "name": "Did You Get The Memo?",
+      "url": "https://open.spotify.com/track/0d3CY0Bj5pTvPabzMHWldb"
+    },
+    {
+      "album": {
         "name": "Did You Sleep Last Night?",
         "url": "https://open.spotify.com/album/0neb8SNbZDXNUT6wHdDv68"
       },
@@ -18884,6 +18902,24 @@
       "duration_ms": 229193,
       "name": "Don't Take The Night",
       "url": "https://open.spotify.com/track/7sWnUG7lH6vjFiJlrFH8EA"
+    },
+    {
+      "album": {
+        "name": "Don't Talk to Me Until I've Had My Abortion",
+        "url": "https://open.spotify.com/album/2BmM2GY6hJvuwiccD83vGz"
+      },
+      "artists": [
+        {
+          "name": "Lambrini Girls",
+          "url": "https://open.spotify.com/artist/6VR4TJ20WGiho2xZWMuuWb"
+        }
+      ],
+      "date_added": "2026-11-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 210493,
+      "name": "Don't Talk to Me Until I've Had My Abortion",
+      "url": "https://open.spotify.com/track/3f1wjvvxHs7tlbyKZsz8De"
     },
     {
       "album": {
@@ -23553,6 +23589,24 @@
     },
     {
       "album": {
+        "name": "Star's Revenge II",
+        "url": "https://open.spotify.com/album/5bKzQ05WOEEpPKx7f58NMx"
+      },
+      "artists": [
+        {
+          "name": "Star's Revenge",
+          "url": "https://open.spotify.com/artist/12lX7OtfVkJ0HiFdkOM7IX"
+        }
+      ],
+      "date_added": "2026-11-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 128008,
+      "name": "Fine Line",
+      "url": "https://open.spotify.com/track/76dbuW1OcyOQiuqAyMPBWh"
+    },
+    {
+      "album": {
         "name": "FINGER",
         "url": "https://open.spotify.com/album/1ThMkYLRdD5obUheU3QgJO"
       },
@@ -26306,6 +26360,24 @@
       "duration_ms": 176347,
       "name": "glass house (feat. Braden Bales)",
       "url": "https://open.spotify.com/track/2wm7IiFx8bLBhLAuUFod3K"
+    },
+    {
+      "album": {
+        "name": "Glimmer",
+        "url": "https://open.spotify.com/album/6ZPot55L26MdfhbgzbxGje"
+      },
+      "artists": [
+        {
+          "name": "Temples",
+          "url": "https://open.spotify.com/artist/4ogwGU9VPWrnVBs1GEwZVV"
+        }
+      ],
+      "date_added": "2026-11-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 235454,
+      "name": "Glimmer",
+      "url": "https://open.spotify.com/track/1JJJX6INX5PFFIXkdors14"
     },
     {
       "album": {
@@ -32728,7 +32800,7 @@
       ],
       "date_added": "2026-10-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-27",
       "duration_ms": 201386,
       "name": "I know",
       "url": "https://open.spotify.com/track/1dtdCmWxgKAPVxK22OQShC"
@@ -61124,7 +61196,7 @@
       ],
       "date_added": "2026-11-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-27",
       "duration_ms": 237728,
       "name": "SPIDER",
       "url": "https://open.spotify.com/track/6WqcZe2i6KQQNYGvf5jmTV"
@@ -67182,6 +67254,24 @@
       "duration_ms": 171450,
       "name": "The Way I Feel",
       "url": "https://open.spotify.com/track/0CtDXpf55FygKZeWkuX5Px"
+    },
+    {
+      "album": {
+        "name": "The Way It Is",
+        "url": "https://open.spotify.com/album/3NTnIdkuP2k9MZ6bJah9ux"
+      },
+      "artists": [
+        {
+          "name": "SNACKTIME",
+          "url": "https://open.spotify.com/artist/4WdKwazXyV5Hc2YtWc2IDr"
+        }
+      ],
+      "date_added": "2026-11-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 242935,
+      "name": "The Way It Is",
+      "url": "https://open.spotify.com/track/267NwMoIgxZ68atDUmqL5Y"
     },
     {
       "album": {

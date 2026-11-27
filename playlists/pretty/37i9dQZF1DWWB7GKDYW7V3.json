@@ -1,6 +1,6 @@
 {
   "description": "De Spotify muziekredactie tipt 40 acts voor LL26! Nieuwe namen bekend: Kelis, Celeste, Willem, ZEP, Lambrini Girls en meer... ",
-  "num_followers": 36924,
+  "num_followers": 36923,
   "original_name": "Best of Lowlands",
   "owner": {
     "name": "Spotify",
@@ -1211,22 +1211,6 @@
     {
       "added_at": "2026-05-12 09:00:32",
       "album": {
-        "name": "Seventeen Going Under (Deluxe)",
-        "url": "https://open.spotify.com/album/4FKOLaEGqA7ZFYYW5r4X9z"
-      },
-      "artists": [
-        {
-          "name": "Sam Fender",
-          "url": "https://open.spotify.com/artist/6zlR5ttMfMNmwf2lecU9Cc"
-        }
-      ],
-      "duration_ms": 297933,
-      "name": "Seventeen Going Under",
-      "url": "https://open.spotify.com/track/5rF6YUIlgiat22OT1lWspJ"
-    },
-    {
-      "added_at": "2026-05-12 09:00:32",
-      "album": {
         "name": "Songs For The Deaf",
         "url": "https://open.spotify.com/album/4w3NeXtywU398NYW4903rY"
       },
@@ -1239,6 +1223,22 @@
       "duration_ms": 278746,
       "name": "No One Knows",
       "url": "https://open.spotify.com/track/6y20BV5L33R8YXM0YuI38N"
+    },
+    {
+      "added_at": "2026-05-12 09:00:32",
+      "album": {
+        "name": "Seventeen Going Under (Deluxe)",
+        "url": "https://open.spotify.com/album/4FKOLaEGqA7ZFYYW5r4X9z"
+      },
+      "artists": [
+        {
+          "name": "Sam Fender",
+          "url": "https://open.spotify.com/artist/6zlR5ttMfMNmwf2lecU9Cc"
+        }
+      ],
+      "duration_ms": 297933,
+      "name": "Seventeen Going Under",
+      "url": "https://open.spotify.com/track/5rF6YUIlgiat22OT1lWspJ"
     },
     {
       "added_at": "2026-05-12 09:00:32",
@@ -1299,22 +1299,6 @@
     {
       "added_at": "2026-05-12 09:00:32",
       "album": {
-        "name": "Blur: The Best Of",
-        "url": "https://open.spotify.com/album/1bgkxe4t0HNeLn9rhrx79x"
-      },
-      "artists": [
-        {
-          "name": "Blur",
-          "url": "https://open.spotify.com/artist/7MhMgCo0Bl0Kukl93PZbYS"
-        }
-      ],
-      "duration_ms": 259385,
-      "name": "Girls & Boys",
-      "url": "https://open.spotify.com/track/5CeL9C3bsoe4yzYS1Qz8cw"
-    },
-    {
-      "added_at": "2026-05-12 09:00:32",
-      "album": {
         "name": "Bicep",
         "url": "https://open.spotify.com/album/4psDRFbIlUM1KUb1omccXo"
       },
@@ -1327,6 +1311,22 @@
       "duration_ms": 269149,
       "name": "Glue",
       "url": "https://open.spotify.com/track/2aJDlirz6v2a4HREki98cP"
+    },
+    {
+      "added_at": "2026-05-12 09:00:32",
+      "album": {
+        "name": "Blur: The Best Of",
+        "url": "https://open.spotify.com/album/1bgkxe4t0HNeLn9rhrx79x"
+      },
+      "artists": [
+        {
+          "name": "Blur",
+          "url": "https://open.spotify.com/artist/7MhMgCo0Bl0Kukl93PZbYS"
+        }
+      ],
+      "duration_ms": 259385,
+      "name": "Girls & Boys",
+      "url": "https://open.spotify.com/track/5CeL9C3bsoe4yzYS1Qz8cw"
     },
     {
       "added_at": "2026-05-12 09:00:32",
@@ -1947,22 +1947,6 @@
     {
       "added_at": "2026-05-12 09:00:32",
       "album": {
-        "name": "De Lachende Derde",
-        "url": "https://open.spotify.com/album/2xBEH6Yx2yaKVJNljOW2V4"
-      },
-      "artists": [
-        {
-          "name": "De Jeugd Van Tegenwoordig",
-          "url": "https://open.spotify.com/artist/1u7uShzlA1tXJeox3jMFPq"
-        }
-      ],
-      "duration_ms": 220946,
-      "name": "Sterrenstof",
-      "url": "https://open.spotify.com/track/7D5vAulNfrQV6xEwzgH0OF"
-    },
-    {
-      "added_at": "2026-05-12 09:00:32",
-      "album": {
         "name": "Hot Fuss",
         "url": "https://open.spotify.com/album/4OHNH3sDzIxnmUADXzv2kT"
       },
@@ -1975,6 +1959,22 @@
       "duration_ms": 197280,
       "name": "Somebody Told Me",
       "url": "https://open.spotify.com/track/3twNvmDtFQtAd5gMKedhLD"
+    },
+    {
+      "added_at": "2026-05-12 09:00:32",
+      "album": {
+        "name": "De Lachende Derde",
+        "url": "https://open.spotify.com/album/2xBEH6Yx2yaKVJNljOW2V4"
+      },
+      "artists": [
+        {
+          "name": "De Jeugd Van Tegenwoordig",
+          "url": "https://open.spotify.com/artist/1u7uShzlA1tXJeox3jMFPq"
+        }
+      ],
+      "duration_ms": 220946,
+      "name": "Sterrenstof",
+      "url": "https://open.spotify.com/track/7D5vAulNfrQV6xEwzgH0OF"
     },
     {
       "added_at": "2026-05-12 09:00:32",

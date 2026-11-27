@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-10-01",
-  "description": "The best of bars, beats & rhymes from the 254. Cover: <a href=\"https://open.spotify.com/artist/6w4t3pnu0u5aDfnkDzN4vA?si=21ca3d6a3b2d4ee9\"> Calvo Mistari</a> and <a href=\"https://open.spotify.com/artist/4IbACJyPBYxvIJAJh8KOi6?si=60a217ce15f949e3\"> Naiboi</a>",
+  "description": "The best of bars, beats & rhymes from the 254. Cover: <a href=\"https://open.spotify.com/artist/0zEKVcCCknQwijBu3JIfSy?si=c6c08a1679b04ab9\"> Kapitani</a> ",
   "name": "254 Flow",
   "tracks": [
     {
@@ -1600,7 +1600,7 @@
       ],
       "date_added": "2025-03-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-27",
       "duration_ms": 211558,
       "name": "Chinje",
       "url": "https://open.spotify.com/track/5JO1evNqPbkzI4WfUb3VYL"
@@ -2826,6 +2826,24 @@
       "duration_ms": 229999,
       "name": "For Myself",
       "url": "https://open.spotify.com/track/3vcV3uDN4Ac4fCQJsdT3hb"
+    },
+    {
+      "album": {
+        "name": "Genge Rockstar",
+        "url": "https://open.spotify.com/album/1zcXtE03cnm9jyIyC2niF9"
+      },
+      "artists": [
+        {
+          "name": "Lilmaina",
+          "url": "https://open.spotify.com/artist/1GF4G0q7pW65JWvuKWKDzv"
+        }
+      ],
+      "date_added": "2026-11-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 164598,
+      "name": "Freaky",
+      "url": "https://open.spotify.com/track/3PmTfbV8LAXe4DmlzU9lj7"
     },
     {
       "album": {
@@ -8037,6 +8055,24 @@
     },
     {
       "album": {
+        "name": "Prototype",
+        "url": "https://open.spotify.com/album/49yek5hHs1Z5WCTsS7wyhe"
+      },
+      "artists": [
+        {
+          "name": "Khaligraph Jones",
+          "url": "https://open.spotify.com/artist/1xxXRVpuEm3X3p1QEm61Az"
+        }
+      ],
+      "date_added": "2026-11-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 171232,
+      "name": "Prototype",
+      "url": "https://open.spotify.com/track/38Jvsmx9JbXkkgkAU3hwZP"
+    },
+    {
+      "album": {
         "name": "FREEDOM II",
         "url": "https://open.spotify.com/album/3DKOQ3jh0VzNwUnz6kKBF9"
       },
@@ -8252,7 +8288,7 @@
       ],
       "date_added": "2025-04-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-27",
       "duration_ms": 250070,
       "name": "Risk",
       "url": "https://open.spotify.com/track/622bSED9pIr9cjX908B1Kr"
@@ -8510,6 +8546,28 @@
       "duration_ms": 194000,
       "name": "S.I.T.T.S (Ka Eliud)",
       "url": "https://open.spotify.com/track/4krV1xjRQAnwukaWPDvcgn"
+    },
+    {
+      "album": {
+        "name": "Safe",
+        "url": "https://open.spotify.com/album/2nMMGcvnENfcBVQuuHturl"
+      },
+      "artists": [
+        {
+          "name": "Kapitani",
+          "url": "https://open.spotify.com/artist/0zEKVcCCknQwijBu3JIfSy"
+        },
+        {
+          "name": "Countree Hype",
+          "url": "https://open.spotify.com/artist/4trjztkEHNUqYhnW3XTG8C"
+        }
+      ],
+      "date_added": "2026-11-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 160828,
+      "name": "Safe",
+      "url": "https://open.spotify.com/track/2Mh3YI7pLx7nbUulUJtjQJ"
     },
     {
       "album": {
@@ -10516,7 +10574,7 @@
       ],
       "date_added": "2026-04-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-27",
       "duration_ms": 169411,
       "name": "Trap Harakati",
       "url": "https://open.spotify.com/track/5zqzBnWP6dLTNLp7zT0jXx"
@@ -10736,6 +10794,32 @@
       "duration_ms": 132500,
       "name": "Under the Influence",
       "url": "https://open.spotify.com/track/3r056cmJmmTHK44fEffRCW"
+    },
+    {
+      "album": {
+        "name": "Usiguse",
+        "url": "https://open.spotify.com/album/1eMG3Z2f8r4MrWNjJwRoIi"
+      },
+      "artists": [
+        {
+          "name": "Kaa La Moto",
+          "url": "https://open.spotify.com/artist/7jvdp7S94qyfvChivF4ua9"
+        },
+        {
+          "name": "Conboi Cannabino",
+          "url": "https://open.spotify.com/artist/21JsKO4s7eusNZOL5aMQWH"
+        },
+        {
+          "name": "CIE",
+          "url": "https://open.spotify.com/artist/7HAAX5aNgfvBJJwrilreWe"
+        }
+      ],
+      "date_added": "2026-11-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 202414,
+      "name": "Usiguse",
+      "url": "https://open.spotify.com/track/14fGrLkatoi29WWtpgsUjc"
     },
     {
       "album": {
@@ -11086,7 +11170,7 @@
       ],
       "date_added": "2026-03-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-27",
       "duration_ms": 156793,
       "name": "Walahi",
       "url": "https://open.spotify.com/track/4RglRKBc2F3upPtrIUicMD"

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0pBnnJLCYjo.md) - [plain]
 
 > humanos recomendando humanos\. todos los martes canciones seleccionadas por tus editores de Spotify México.
 
-[Spotify](https://open.spotify.com/user/spotify) - 476,278 likes - 30 songs - 1 hr 46 min
+[Spotify](https://open.spotify.com/user/spotify) - 476,249 likes - 30 songs - 1 hr 46 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-01-10",
-  "description": "Fresh Latin Indie you should know. Cover: Ralphie Choo",
+  "description": "Fresh Latin Indie you should know. Cover: Ed Maverick",
   "name": "el nuevo indie",
   "tracks": [
     {
@@ -672,6 +672,24 @@
       "duration_ms": 157795,
       "name": "A VECES SE PIERDE | A VECES SE GANA",
       "url": "https://open.spotify.com/track/76IV0SeSn22UhWtp2Wx8Wc"
+    },
+    {
+      "album": {
+        "name": "Las Perdidas",
+        "url": "https://open.spotify.com/album/114gmqwT5cqTAz9HutYytk"
+      },
+      "artists": [
+        {
+          "name": "GOMZ",
+          "url": "https://open.spotify.com/artist/7BLezVBmCyG6aFk101o7vA"
+        }
+      ],
+      "date_added": "2026-11-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 181578,
+      "name": "Aa Cualquiera",
+      "url": "https://open.spotify.com/track/6v9xo8FycYmgHqb7L2b7Va"
     },
     {
       "album": {
@@ -1410,7 +1428,7 @@
       ],
       "date_added": "2026-10-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-27",
       "duration_ms": 148694,
       "name": "Amarillo nena",
       "url": "https://open.spotify.com/track/6fAiqxQlmrvQsol8Ifyejl"
@@ -8128,7 +8146,7 @@
       ],
       "date_added": "2026-10-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-27",
       "duration_ms": 240092,
       "name": "ESCOMBRO",
       "url": "https://open.spotify.com/track/1kmi0zn4uKWVkYBK5omxPm"
@@ -8801,6 +8819,24 @@
     },
     {
       "album": {
+        "name": "Falsificador",
+        "url": "https://open.spotify.com/album/46o7iYBP9VIDZrQTSqasUf"
+      },
+      "artists": [
+        {
+          "name": "El Zar",
+          "url": "https://open.spotify.com/artist/1cj1ov4uZ0Htsx9PWDpNvi"
+        }
+      ],
+      "date_added": "2026-11-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 195648,
+      "name": "Falsificador",
+      "url": "https://open.spotify.com/track/6QWelypPWsWgJtjnEr4xsd"
+    },
+    {
+      "album": {
         "name": "Falta Algo",
         "url": "https://open.spotify.com/album/5psNcnKQlvazaFbBN8MUVv"
       },
@@ -9204,6 +9240,24 @@
       "duration_ms": 225856,
       "name": "FRUTA Y T\u00c9 (ma\u00f1ana es hoy)",
       "url": "https://open.spotify.com/track/7huDzyOO3t3r92s94ybr5B"
+    },
+    {
+      "album": {
+        "name": "Fr\u00e9name",
+        "url": "https://open.spotify.com/album/4HflY6y0MUfRIyUwXRgVpJ"
+      },
+      "artists": [
+        {
+          "name": "San Tosielo",
+          "url": "https://open.spotify.com/artist/1Vp0zKCF6r1aut8Emx7CHH"
+        }
+      ],
+      "date_added": "2026-11-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 216035,
+      "name": "Fr\u00e9name",
+      "url": "https://open.spotify.com/track/5B0ZVnfT4bIl2wnMfQ0lo6"
     },
     {
       "album": {
@@ -11947,6 +12001,28 @@
     },
     {
       "album": {
+        "name": "LABERINTO",
+        "url": "https://open.spotify.com/album/46wjfIb7T871y2B3nYeEqt"
+      },
+      "artists": [
+        {
+          "name": "Turde",
+          "url": "https://open.spotify.com/artist/4QvojSqsHuURFc49UBjugU"
+        },
+        {
+          "name": "17.",
+          "url": "https://open.spotify.com/artist/2fh89rpVFwF8DuLuaXpXra"
+        }
+      ],
+      "date_added": "2026-11-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 181714,
+      "name": "LABERINTO",
+      "url": "https://open.spotify.com/track/4kvqFP1adF0aZeGVmGjzaC"
+    },
+    {
+      "album": {
         "name": "Labios De Papel",
         "url": "https://open.spotify.com/album/7uH04L3rJYPASskv8IVqqn"
       },
@@ -13951,6 +14027,24 @@
     },
     {
       "album": {
+        "name": "MA\u00d1ANA",
+        "url": "https://open.spotify.com/album/72UiM5udgRySqCwNcRNaII"
+      },
+      "artists": [
+        {
+          "name": "trouve feraud",
+          "url": "https://open.spotify.com/artist/5wYoljDrAYqKBnbncgw27o"
+        }
+      ],
+      "date_added": "2026-11-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 157500,
+      "name": "MA\u00d1ANA",
+      "url": "https://open.spotify.com/track/7DGD8nqCwNLBt9NJOToLWM"
+    },
+    {
+      "album": {
         "name": "Me Asusta Amar Tanto la Soledad",
         "url": "https://open.spotify.com/album/1RjUloYZjSGblp5fKixULs"
       },
@@ -15658,6 +15752,24 @@
       "duration_ms": 199531,
       "name": "nada de nada",
       "url": "https://open.spotify.com/track/11Ycp611BypMSPvJy6su4S"
+    },
+    {
+      "album": {
+        "name": "Nada es para siempre",
+        "url": "https://open.spotify.com/album/3FLSIk9lLlNd8mtiDiGtEi"
+      },
+      "artists": [
+        {
+          "name": "Macario Mart\u00ednez",
+          "url": "https://open.spotify.com/artist/228pVneav5qwbCGQrrqQo4"
+        }
+      ],
+      "date_added": "2026-11-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 207476,
+      "name": "Nada es para siempre",
+      "url": "https://open.spotify.com/track/33CX8uIjgt88svbJjbPS8T"
     },
     {
       "album": {
@@ -17626,7 +17738,7 @@
       ],
       "date_added": "2026-10-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-27",
       "duration_ms": 223616,
       "name": "PALABRAS DE MUJER",
       "url": "https://open.spotify.com/track/52HITJzRmsa4yL9ViYRPQc"
@@ -22657,6 +22769,24 @@
     },
     {
       "album": {
+        "name": "Tal Vez",
+        "url": "https://open.spotify.com/album/6igCmPaAfJwJcoj2znkOcp"
+      },
+      "artists": [
+        {
+          "name": "Samura\u00ef",
+          "url": "https://open.spotify.com/artist/0BovidHLtM9n55WXWkApK9"
+        }
+      ],
+      "date_added": "2026-11-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 238430,
+      "name": "Tal Vez",
+      "url": "https://open.spotify.com/track/2EgdZ3DJSkmonucYTgxKJO"
+    },
+    {
+      "album": {
         "name": "tal vez el amor",
         "url": "https://open.spotify.com/album/5qu0izFsk48Fo3vIvfJqu0"
       },
@@ -24468,7 +24598,7 @@
       ],
       "date_added": "2026-10-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-27",
       "duration_ms": 174487,
       "name": "Tu Culpa",
       "url": "https://open.spotify.com/track/45x7XMSuwSHPzByFbntDZO"
@@ -24914,6 +25044,24 @@
       "duration_ms": 211562,
       "name": "Uh",
       "url": "https://open.spotify.com/track/4O2kPvcDfNAJbCA2Lc8l3D"
+    },
+    {
+      "album": {
+        "name": "Uhla Lala",
+        "url": "https://open.spotify.com/album/4b3uuSo6rJacikWBevaJVz"
+      },
+      "artists": [
+        {
+          "name": "Cosmic Wacho",
+          "url": "https://open.spotify.com/artist/6qVCBovVysB8MOf7a1mUKa"
+        }
+      ],
+      "date_added": "2026-11-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 195219,
+      "name": "Uhla Lala",
+      "url": "https://open.spotify.com/track/24ugO6EmE5y9MD6hXJtTjg"
     },
     {
       "album": {
@@ -25682,6 +25830,24 @@
       "duration_ms": 173200,
       "name": "Ver\u00f3nica",
       "url": "https://open.spotify.com/track/3ppKzJJeiveJtB03kuk43D"
+    },
+    {
+      "album": {
+        "name": "Sin Agua Es Ruta Yerma (Vol. II)",
+        "url": "https://open.spotify.com/album/20ZpYm94fSjSbbuWTjsCYa"
+      },
+      "artists": [
+        {
+          "name": "Ed Maverick",
+          "url": "https://open.spotify.com/artist/3JSSjGYcIkgsrz7892CelT"
+        }
+      ],
+      "date_added": "2026-11-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 224501,
+      "name": "vestido blanco",
+      "url": "https://open.spotify.com/track/4EXR8jObI4qrXKIJybFR1l"
     },
     {
       "album": {

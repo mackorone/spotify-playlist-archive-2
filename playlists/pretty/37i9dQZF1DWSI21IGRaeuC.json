@@ -1,13 +1,29 @@
 {
-  "description": "the deep & minimal side of house & tech \u26cf\ufe0f\u26cf\ufe0f  \nfeaturing Josh Baker",
-  "num_followers": 94911,
+  "description": "the deep & minimal side of house & tech \u26cf\ufe0f\u26cf\ufe0f  \nfeaturing IDEMI",
+  "num_followers": 94965,
   "original_name": "Deep & Minimal",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAEYvXVYKCVaQWD+XToa6AnEpnDkL",
+  "snapshot_id": "AAAAAB4xJg4h/tNqRhDiGLdsjefiyip/",
   "tracks": [
+    {
+      "added_at": "2026-11-20 05:00:51",
+      "album": {
+        "name": "Feel The Power",
+        "url": "https://open.spotify.com/album/4K7tlWAzJ5HlwwJ6ytoXkU"
+      },
+      "artists": [
+        {
+          "name": "IDEMI",
+          "url": "https://open.spotify.com/artist/09OK5GXLbMSjg8lOb4wRVT"
+        }
+      ],
+      "duration_ms": 170909,
+      "name": "Feel The Power",
+      "url": "https://open.spotify.com/track/15H4AkVcMFNG5CFTjxwIB2"
+    },
     {
       "added_at": "2026-11-13 05:00:46",
       "album": {
@@ -29,36 +45,20 @@
       "url": "https://open.spotify.com/track/15tGq1xOOer8QZ268uBNxG"
     },
     {
-      "added_at": "2026-11-20 05:00:51",
+      "added_at": "2026-11-27 05:01:25",
       "album": {
-        "name": "Feel The Power",
-        "url": "https://open.spotify.com/album/4K7tlWAzJ5HlwwJ6ytoXkU"
+        "name": "Energy EP",
+        "url": "https://open.spotify.com/album/3B38ik7ZUfeQp4kNd9tl1E"
       },
       "artists": [
         {
-          "name": "IDEMI",
-          "url": "https://open.spotify.com/artist/09OK5GXLbMSjg8lOb4wRVT"
+          "name": "Marsolo",
+          "url": "https://open.spotify.com/artist/19KqOfazpv8bU6RrVJpLcV"
         }
       ],
-      "duration_ms": 170909,
-      "name": "Feel The Power",
-      "url": "https://open.spotify.com/track/15H4AkVcMFNG5CFTjxwIB2"
-    },
-    {
-      "added_at": "2026-10-23 04:03:24",
-      "album": {
-        "name": "Bad Love",
-        "url": "https://open.spotify.com/album/4uJjNkWEE0JFhGyG1LgboQ"
-      },
-      "artists": [
-        {
-          "name": "TeeDee",
-          "url": "https://open.spotify.com/artist/6ZzzrehTAdrM8y6saVjtoN"
-        }
-      ],
-      "duration_ms": 181374,
-      "name": "Bad Love",
-      "url": "https://open.spotify.com/track/6xxQxSXcJhgT5QBan2DtF2"
+      "duration_ms": 205781,
+      "name": "Energy",
+      "url": "https://open.spotify.com/track/2eAIjLSqXgpM6bZoSKNxUv"
     },
     {
       "added_at": "2026-08-28 04:01:45",
@@ -79,6 +79,38 @@
       "duration_ms": 185423,
       "name": "Over You",
       "url": "https://open.spotify.com/track/0Se6UXsaDBMJJaxy4FV4a6"
+    },
+    {
+      "added_at": "2026-10-23 04:03:24",
+      "album": {
+        "name": "Bad Love",
+        "url": "https://open.spotify.com/album/4uJjNkWEE0JFhGyG1LgboQ"
+      },
+      "artists": [
+        {
+          "name": "TeeDee",
+          "url": "https://open.spotify.com/artist/6ZzzrehTAdrM8y6saVjtoN"
+        }
+      ],
+      "duration_ms": 181374,
+      "name": "Bad Love",
+      "url": "https://open.spotify.com/track/6xxQxSXcJhgT5QBan2DtF2"
+    },
+    {
+      "added_at": "2026-11-27 05:01:25",
+      "album": {
+        "name": "Grace EP",
+        "url": "https://open.spotify.com/album/2Vv3FpZ3eufYqLXgrc9H0T"
+      },
+      "artists": [
+        {
+          "name": "Ranger Trucco",
+          "url": "https://open.spotify.com/artist/36N80lh8tNu7XedcW55NC3"
+        }
+      ],
+      "duration_ms": 197538,
+      "name": "Grace",
+      "url": "https://open.spotify.com/track/76ZIobdl3bsAhyaf5bgOge"
     },
     {
       "added_at": "2026-11-06 05:00:58",
@@ -105,6 +137,38 @@
       "url": "https://open.spotify.com/track/6IQ6Ybxf0hzzcmGpmfhDS7"
     },
     {
+      "added_at": "2026-11-20 05:00:51",
+      "album": {
+        "name": "SHAKIN",
+        "url": "https://open.spotify.com/album/6cfNutfi7WpnxRV7sr6xdl"
+      },
+      "artists": [
+        {
+          "name": "Bushbaby",
+          "url": "https://open.spotify.com/artist/6YYg4TQoF8cp50IuM2vU4C"
+        }
+      ],
+      "duration_ms": 224887,
+      "name": "You Want Me",
+      "url": "https://open.spotify.com/track/2C9nxyC6JnvQeTUtpHjtnV"
+    },
+    {
+      "added_at": "2026-11-27 05:01:25",
+      "album": {
+        "name": "What U Hide",
+        "url": "https://open.spotify.com/album/195AVUuovnflpaiH7ZadtM"
+      },
+      "artists": [
+        {
+          "name": "Lucky Luke",
+          "url": "https://open.spotify.com/artist/5ee4yhrWOxaxvL77BoVpVR"
+        }
+      ],
+      "duration_ms": 193432,
+      "name": "What U Hide",
+      "url": "https://open.spotify.com/track/6WVlCFdrvxGuvSZuRRNOvu"
+    },
+    {
       "added_at": "2026-11-06 05:00:58",
       "album": {
         "name": "Gimme A Beat",
@@ -123,22 +187,6 @@
       "duration_ms": 183581,
       "name": "Gimme A Beat",
       "url": "https://open.spotify.com/track/4guJccRQ3OYLW9MU88h434"
-    },
-    {
-      "added_at": "2026-11-20 05:00:51",
-      "album": {
-        "name": "After Midnight EP",
-        "url": "https://open.spotify.com/album/2Xt3CVmOBoX7SR0xSBfw8y"
-      },
-      "artists": [
-        {
-          "name": "Ky William",
-          "url": "https://open.spotify.com/artist/2dIpuJtQApGRmGeUobllYq"
-        }
-      ],
-      "duration_ms": 177293,
-      "name": "After Midnight",
-      "url": "https://open.spotify.com/track/3rw9001mkVSn7TlGEwiYYn"
     },
     {
       "added_at": "2026-10-02 04:01:31",
@@ -221,6 +269,26 @@
       "url": "https://open.spotify.com/track/1LIpl58FE75TGjyTz7AKTY"
     },
     {
+      "added_at": "2026-11-27 05:01:25",
+      "album": {
+        "name": "A special groove (Let's groove) [feat. George Morel]",
+        "url": "https://open.spotify.com/album/4hdl1WB6a0dxxPi9iBOye3"
+      },
+      "artists": [
+        {
+          "name": "Job De Jong",
+          "url": "https://open.spotify.com/artist/0XbTWVRVTghfm7SBPI6hpI"
+        },
+        {
+          "name": "George Morel",
+          "url": "https://open.spotify.com/artist/1lFrAhvIUbiWsTEMexSlDy"
+        }
+      ],
+      "duration_ms": 142148,
+      "name": "A special groove (Let's groove) [feat. George Morel]",
+      "url": "https://open.spotify.com/track/1MY9y3ffSlrTUdYE2cExSX"
+    },
+    {
       "added_at": "2026-11-13 05:00:46",
       "album": {
         "name": "When U Were Mine",
@@ -235,22 +303,6 @@
       "duration_ms": 176000,
       "name": "When U Were Mine",
       "url": "https://open.spotify.com/track/6t2Z6ZjynEP2hxuhzM2WxF"
-    },
-    {
-      "added_at": "2026-11-20 05:00:51",
-      "album": {
-        "name": "SHAKIN",
-        "url": "https://open.spotify.com/album/6cfNutfi7WpnxRV7sr6xdl"
-      },
-      "artists": [
-        {
-          "name": "Bushbaby",
-          "url": "https://open.spotify.com/artist/6YYg4TQoF8cp50IuM2vU4C"
-        }
-      ],
-      "duration_ms": 224887,
-      "name": "You Want Me",
-      "url": "https://open.spotify.com/track/2C9nxyC6JnvQeTUtpHjtnV"
     },
     {
       "added_at": "2026-11-06 05:00:58",
@@ -271,18 +323,34 @@
     {
       "added_at": "2026-11-20 05:00:51",
       "album": {
-        "name": "Faded",
-        "url": "https://open.spotify.com/album/4dbY2oxsz6mDQw9AbuYqsZ"
+        "name": "After Midnight EP",
+        "url": "https://open.spotify.com/album/2Xt3CVmOBoX7SR0xSBfw8y"
       },
       "artists": [
         {
-          "name": "Nat Kara",
-          "url": "https://open.spotify.com/artist/45JSk7XvIJijTo2Kc8Nzfj"
+          "name": "Ky William",
+          "url": "https://open.spotify.com/artist/2dIpuJtQApGRmGeUobllYq"
         }
       ],
-      "duration_ms": 238000,
-      "name": "Faded",
-      "url": "https://open.spotify.com/track/5yVG8NJrD2XurcDcoxuK26"
+      "duration_ms": 177293,
+      "name": "After Midnight",
+      "url": "https://open.spotify.com/track/3rw9001mkVSn7TlGEwiYYn"
+    },
+    {
+      "added_at": "2026-11-27 05:01:25",
+      "album": {
+        "name": "Dissolve EP",
+        "url": "https://open.spotify.com/album/2BAgHgxoROLlPj8MYVXyct"
+      },
+      "artists": [
+        {
+          "name": "Mihai Popoviciu",
+          "url": "https://open.spotify.com/artist/0NkrYKqkzWI0pilb6ko9uM"
+        }
+      ],
+      "duration_ms": 254998,
+      "name": "Dissolve",
+      "url": "https://open.spotify.com/track/2oGCWtZUJdEXgGERUmyZup"
     },
     {
       "added_at": "2026-11-06 05:00:58",
@@ -315,6 +383,22 @@
       "duration_ms": 190534,
       "name": "Let's Get This",
       "url": "https://open.spotify.com/track/5FCtVeCG1dsTqfDHkyALR2"
+    },
+    {
+      "added_at": "2026-11-20 05:00:51",
+      "album": {
+        "name": "Faded",
+        "url": "https://open.spotify.com/album/4dbY2oxsz6mDQw9AbuYqsZ"
+      },
+      "artists": [
+        {
+          "name": "Nat Kara",
+          "url": "https://open.spotify.com/artist/45JSk7XvIJijTo2Kc8Nzfj"
+        }
+      ],
+      "duration_ms": 238000,
+      "name": "Faded",
+      "url": "https://open.spotify.com/track/5yVG8NJrD2XurcDcoxuK26"
     },
     {
       "added_at": "2026-11-20 05:00:51",
@@ -529,22 +613,6 @@
       "url": "https://open.spotify.com/track/3Q9AFy7RhFlp5QWmBhLdEq"
     },
     {
-      "added_at": "2026-11-06 05:00:58",
-      "album": {
-        "name": "Rockin' With The Best",
-        "url": "https://open.spotify.com/album/5lyZzcX01gsKfy4ZfwvGWV"
-      },
-      "artists": [
-        {
-          "name": "Osmosis Jones",
-          "url": "https://open.spotify.com/artist/39vtMUnZETGKSh6MFRSJ7n"
-        }
-      ],
-      "duration_ms": 217000,
-      "name": "Rockin' With The Best",
-      "url": "https://open.spotify.com/track/5beDh4JJBRdw6TlsHIuYGA"
-    },
-    {
       "added_at": "2026-10-02 04:01:31",
       "album": {
         "name": "Speechless",
@@ -575,22 +643,6 @@
       "duration_ms": 173023,
       "name": "Scope",
       "url": "https://open.spotify.com/track/3oOzvKiZlHD47XFpD5PUXb"
-    },
-    {
-      "added_at": "2026-11-06 05:00:58",
-      "album": {
-        "name": "It's Time",
-        "url": "https://open.spotify.com/album/5kMz2ErPxOupInqPrc2Ba6"
-      },
-      "artists": [
-        {
-          "name": "Mason Talbot",
-          "url": "https://open.spotify.com/artist/0impnXOKSt86UnIYtZ1hFA"
-        }
-      ],
-      "duration_ms": 178041,
-      "name": "It's Time",
-      "url": "https://open.spotify.com/track/0Z7wtardwyNMEWZR8PSUGg"
     },
     {
       "added_at": "2026-11-06 05:00:58",
@@ -1481,22 +1533,6 @@
       "url": "https://open.spotify.com/track/3VyrgdbuNii6he47vV6Ryr"
     },
     {
-      "added_at": "2026-08-21 04:01:27",
-      "album": {
-        "name": "Work Your Body",
-        "url": "https://open.spotify.com/album/1HpGxibYw3eD9wGlsY2kX2"
-      },
-      "artists": [
-        {
-          "name": "Funk Cartel",
-          "url": "https://open.spotify.com/artist/5CTZ9x42i9fZmlzm3AEyX0"
-        }
-      ],
-      "duration_ms": 165581,
-      "name": "Work Your Body",
-      "url": "https://open.spotify.com/track/7Myxv15uekMkWTvGZqmDsB"
-    },
-    {
       "added_at": "2026-07-24 04:01:33",
       "album": {
         "name": "Can't Slow Down",
@@ -1813,22 +1849,6 @@
       "url": "https://open.spotify.com/track/1DKmvYdvympuinKv3bXhev"
     },
     {
-      "added_at": "2026-07-03 04:01:53",
-      "album": {
-        "name": "Wish",
-        "url": "https://open.spotify.com/album/0Q92nebW1oGdgpoNtiwcq3"
-      },
-      "artists": [
-        {
-          "name": "Mat Eclair",
-          "url": "https://open.spotify.com/artist/42lEg1ppWhuHrBKLKdVdSa"
-        }
-      ],
-      "duration_ms": 182255,
-      "name": "Wish",
-      "url": "https://open.spotify.com/track/3Ry5upRqMd9UhbiKrwPVDI"
-    },
-    {
       "added_at": "2026-06-19 04:01:17",
       "album": {
         "name": "Rush",
@@ -1951,22 +1971,6 @@
       "duration_ms": 260010,
       "name": "Believe In Yourself",
       "url": "https://open.spotify.com/track/1wFW0fKAf4gEwdESW1cdqy"
-    },
-    {
-      "added_at": "2026-05-15 04:02:22",
-      "album": {
-        "name": "Non Stop",
-        "url": "https://open.spotify.com/album/07vh38TMCsVcaahSyrpecs"
-      },
-      "artists": [
-        {
-          "name": "Secret Floor",
-          "url": "https://open.spotify.com/artist/3mA8kikSvA1bdFS84nB2lm"
-        }
-      ],
-      "duration_ms": 179500,
-      "name": "Non Stop",
-      "url": "https://open.spotify.com/track/6z0Zc6uf2ofI2KkUupFepg"
     },
     {
       "added_at": "2026-04-24 04:01:42",

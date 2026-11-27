@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUI804Xnly9d.md) - [plain]
 
 > Magic of acoustic poured into your Chai\. Cover \- Bhediya
 
-[Spotify](https://open.spotify.com/user/spotify) - 158,811 likes - 76 songs - 4 hr 21 min
+[Spotify](https://open.spotify.com/user/spotify) - 158,846 likes - 76 songs - 4 hr 21 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

@@ -1,12 +1,12 @@
 {
   "description": "This is BK. The essential tracks, all in one playlist.",
-  "num_followers": 115564,
+  "num_followers": 115598,
   "original_name": "This Is BK",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "awOCAAAAAACYZEtuFxH8Q2CTejEvM5yD",
+  "snapshot_id": "awYlAAAAAAD5+F2mFg1pAekpTmluto/k",
   "tracks": [
     {
       "added_at": null,
@@ -403,6 +403,30 @@
     {
       "added_at": null,
       "album": {
+        "name": "O L\u00edder em Movimento",
+        "url": "https://open.spotify.com/album/22qXEcma67stw3AZOaDWmq"
+      },
+      "artists": [
+        {
+          "name": "BK",
+          "url": "https://open.spotify.com/artist/1YOVBTvznjiDvtAj4ExHeo"
+        },
+        {
+          "name": "JXNV$",
+          "url": "https://open.spotify.com/artist/2eYGPD8O1chWmQ92TvdtCW"
+        },
+        {
+          "name": "Nansy Silvvz",
+          "url": "https://open.spotify.com/artist/5EmJTNqpOyZQ5yoaJL9TdT"
+        }
+      ],
+      "duration_ms": 256161,
+      "name": "Universo",
+      "url": "https://open.spotify.com/track/0PXXt94a68f2EAMwgn0Vr5"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "F**K SONGS",
         "url": "https://open.spotify.com/album/2ysqT6MYBNQrrJI6fKeJPi"
       },
@@ -427,30 +451,6 @@
       "duration_ms": 200586,
       "name": "T\u00c1 TARDE",
       "url": "https://open.spotify.com/track/0dyJ7rDk995cRo1ktfVmkP"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "O L\u00edder em Movimento",
-        "url": "https://open.spotify.com/album/22qXEcma67stw3AZOaDWmq"
-      },
-      "artists": [
-        {
-          "name": "BK",
-          "url": "https://open.spotify.com/artist/1YOVBTvznjiDvtAj4ExHeo"
-        },
-        {
-          "name": "JXNV$",
-          "url": "https://open.spotify.com/artist/2eYGPD8O1chWmQ92TvdtCW"
-        },
-        {
-          "name": "Nansy Silvvz",
-          "url": "https://open.spotify.com/artist/5EmJTNqpOyZQ5yoaJL9TdT"
-        }
-      ],
-      "duration_ms": 256161,
-      "name": "Universo",
-      "url": "https://open.spotify.com/track/0PXXt94a68f2EAMwgn0Vr5"
     },
     {
       "added_at": null,
@@ -1127,30 +1127,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Gigantes",
-        "url": "https://open.spotify.com/album/6kjXPFw0BT3SdpWgHwjr32"
-      },
-      "artists": [
-        {
-          "name": "BK",
-          "url": "https://open.spotify.com/artist/1YOVBTvznjiDvtAj4ExHeo"
-        },
-        {
-          "name": "Nave",
-          "url": "https://open.spotify.com/artist/3lsEmETqVt85iRYSYslRMb"
-        },
-        {
-          "name": "El Lif Beatz",
-          "url": "https://open.spotify.com/artist/0HBQtIkqXtoKagoPOgxK8k"
-        }
-      ],
-      "duration_ms": 148738,
-      "name": "Deus do Furdun\u00e7o",
-      "url": "https://open.spotify.com/track/3sUhwX7vQhzuKDkFC6lAEr"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Cidade do Pecado",
         "url": "https://open.spotify.com/album/1ZVgAn5v8hT0V4dvvPligx"
       },
@@ -1175,6 +1151,30 @@
     {
       "added_at": null,
       "album": {
+        "name": "Gigantes",
+        "url": "https://open.spotify.com/album/6kjXPFw0BT3SdpWgHwjr32"
+      },
+      "artists": [
+        {
+          "name": "BK",
+          "url": "https://open.spotify.com/artist/1YOVBTvznjiDvtAj4ExHeo"
+        },
+        {
+          "name": "Nave",
+          "url": "https://open.spotify.com/artist/3lsEmETqVt85iRYSYslRMb"
+        },
+        {
+          "name": "El Lif Beatz",
+          "url": "https://open.spotify.com/artist/0HBQtIkqXtoKagoPOgxK8k"
+        }
+      ],
+      "duration_ms": 148738,
+      "name": "Deus do Furdun\u00e7o",
+      "url": "https://open.spotify.com/track/3sUhwX7vQhzuKDkFC6lAEr"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "O L\u00edder em Movimento",
         "url": "https://open.spotify.com/album/22qXEcma67stw3AZOaDWmq"
       },
@@ -1191,6 +1191,26 @@
       "duration_ms": 217044,
       "name": "Pessoas",
       "url": "https://open.spotify.com/track/5Iqv9gAh4aAyLFi9vUDLi0"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Castelos & Ru\u00ednas (Remix 10 Anos)",
+        "url": "https://open.spotify.com/album/21uTK3w6H6sFibWdRrefaY"
+      },
+      "artists": [
+        {
+          "name": "BK",
+          "url": "https://open.spotify.com/artist/1YOVBTvznjiDvtAj4ExHeo"
+        },
+        {
+          "name": "DJ TamY",
+          "url": "https://open.spotify.com/artist/78BI41VSButcqEG7ptvi17"
+        }
+      ],
+      "duration_ms": 172073,
+      "name": "C&R Interl\u00fadio I - DJ TamY Remix",
+      "url": "https://open.spotify.com/track/0LCuIMFp4SLyAnwZ45lhjs"
     },
     {
       "added_at": null,
@@ -1263,30 +1283,6 @@
       "duration_ms": 191338,
       "name": "Se Eu N\u00e3o Manter",
       "url": "https://open.spotify.com/track/0mBr4S97a0duSfgebe007c"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Fa7Her",
-        "url": "https://open.spotify.com/album/5uVO4ZYVCrLUfAiCd7pHrf"
-      },
-      "artists": [
-        {
-          "name": "Akira Presidente",
-          "url": "https://open.spotify.com/artist/6ZnwtQznVleZpEkQINdyfG"
-        },
-        {
-          "name": "El Lif Beatz",
-          "url": "https://open.spotify.com/artist/0HBQtIkqXtoKagoPOgxK8k"
-        },
-        {
-          "name": "BK",
-          "url": "https://open.spotify.com/artist/1YOVBTvznjiDvtAj4ExHeo"
-        }
-      ],
-      "duration_ms": 221175,
-      "name": "$$$$$$$",
-      "url": "https://open.spotify.com/track/3PupSTdHu8h3WAtlVbMY9n"
     }
   ],
   "unique_name": "This Is BK",

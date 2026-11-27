@@ -1,12 +1,12 @@
 {
   "description": "This is Lourena. The essential tracks, all in one playlist.",
-  "num_followers": 22384,
+  "num_followers": 22382,
   "original_name": "This Is Lourena",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "awOCAAAAAAAbjVMeuGkdpFCm2A0LoyXT",
+  "snapshot_id": "awYlAAAAAAAjik60WQLIsYExeiGgBTMw",
   "tracks": [
     {
       "added_at": null,
@@ -543,6 +543,30 @@
     {
       "added_at": null,
       "album": {
+        "name": "Copacabana",
+        "url": "https://open.spotify.com/album/6ylV7GsWXQUvPRa8rbYfic"
+      },
+      "artists": [
+        {
+          "name": "Lourena",
+          "url": "https://open.spotify.com/artist/3jLj1sAQaEpLpktyJmyGIh"
+        },
+        {
+          "name": "Luedji Luna",
+          "url": "https://open.spotify.com/artist/0sWTkzCrdEvuX7Du6MFLzc"
+        },
+        {
+          "name": "Malibu",
+          "url": "https://open.spotify.com/artist/0PMk31f9Log4ixwUUY40p6"
+        }
+      ],
+      "duration_ms": 202477,
+      "name": "Copacabana",
+      "url": "https://open.spotify.com/track/04gUXiclg2dWKTWI2cUb71"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Poesia de Boteco",
         "url": "https://open.spotify.com/album/5JyVfUGi4mSUZZ9DHdnbJc"
       },
@@ -575,30 +599,6 @@
       "duration_ms": 312207,
       "name": "Poesia de Boteco",
       "url": "https://open.spotify.com/track/4uExiXNq9cL45Y1cLmNtAO"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Copacabana",
-        "url": "https://open.spotify.com/album/6ylV7GsWXQUvPRa8rbYfic"
-      },
-      "artists": [
-        {
-          "name": "Lourena",
-          "url": "https://open.spotify.com/artist/3jLj1sAQaEpLpktyJmyGIh"
-        },
-        {
-          "name": "Luedji Luna",
-          "url": "https://open.spotify.com/artist/0sWTkzCrdEvuX7Du6MFLzc"
-        },
-        {
-          "name": "Malibu",
-          "url": "https://open.spotify.com/artist/0PMk31f9Log4ixwUUY40p6"
-        }
-      ],
-      "duration_ms": 202477,
-      "name": "Copacabana",
-      "url": "https://open.spotify.com/track/04gUXiclg2dWKTWI2cUb71"
     },
     {
       "added_at": null,
@@ -991,8 +991,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Atemporal",
-        "url": "https://open.spotify.com/album/79zurdk3n5ieLtyT749rzq"
+        "name": "Um Pouco de Mim",
+        "url": "https://open.spotify.com/album/2xhrb0Bg1uXDUoB6zDJgKv"
       },
       "artists": [
         {
@@ -1000,17 +1000,17 @@
           "url": "https://open.spotify.com/artist/3jLj1sAQaEpLpktyJmyGIh"
         },
         {
-          "name": "Jorge Vercillo",
-          "url": "https://open.spotify.com/artist/783AF57UpgTN2fditDRFSs"
+          "name": "Pineapple StormTv",
+          "url": "https://open.spotify.com/artist/09U6hmCerKcIJrixubiBjm"
         },
         {
-          "name": "Malibu",
-          "url": "https://open.spotify.com/artist/0PMk31f9Log4ixwUUY40p6"
+          "name": "MC Hariel",
+          "url": "https://open.spotify.com/artist/0pcoadNMmvrUyab1RxWBoV"
         }
       ],
-      "duration_ms": 184728,
-      "name": "Atemporal",
-      "url": "https://open.spotify.com/track/2pb4YtQrf4VbipwHZVGUIS"
+      "duration_ms": 198260,
+      "name": "Cupido Querido",
+      "url": "https://open.spotify.com/track/0hGMJl9fF67jCgMYBr8MDa"
     },
     {
       "added_at": null,
@@ -1039,8 +1039,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Um Pouco de Mim",
-        "url": "https://open.spotify.com/album/2xhrb0Bg1uXDUoB6zDJgKv"
+        "name": "Atemporal",
+        "url": "https://open.spotify.com/album/79zurdk3n5ieLtyT749rzq"
       },
       "artists": [
         {
@@ -1048,17 +1048,17 @@
           "url": "https://open.spotify.com/artist/3jLj1sAQaEpLpktyJmyGIh"
         },
         {
-          "name": "Pineapple StormTv",
-          "url": "https://open.spotify.com/artist/09U6hmCerKcIJrixubiBjm"
+          "name": "Jorge Vercillo",
+          "url": "https://open.spotify.com/artist/783AF57UpgTN2fditDRFSs"
         },
         {
-          "name": "MC Hariel",
-          "url": "https://open.spotify.com/artist/0pcoadNMmvrUyab1RxWBoV"
+          "name": "Malibu",
+          "url": "https://open.spotify.com/artist/0PMk31f9Log4ixwUUY40p6"
         }
       ],
-      "duration_ms": 198260,
-      "name": "Cupido Querido",
-      "url": "https://open.spotify.com/track/0hGMJl9fF67jCgMYBr8MDa"
+      "duration_ms": 184728,
+      "name": "Atemporal",
+      "url": "https://open.spotify.com/track/2pb4YtQrf4VbipwHZVGUIS"
     },
     {
       "added_at": null,
@@ -1151,62 +1151,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Bruxaria 051",
-        "url": "https://open.spotify.com/album/5wwsozSTK5ftZLbZYXb287"
-      },
-      "artists": [
-        {
-          "name": "Tropa do Bruxo",
-          "url": "https://open.spotify.com/artist/4s3lxX76LwxzMdQEAFYdzv"
-        },
-        {
-          "name": "MC Hariel",
-          "url": "https://open.spotify.com/artist/0pcoadNMmvrUyab1RxWBoV"
-        },
-        {
-          "name": "Lourena",
-          "url": "https://open.spotify.com/artist/3jLj1sAQaEpLpktyJmyGIh"
-        },
-        {
-          "name": "Mc J9",
-          "url": "https://open.spotify.com/artist/1nVTS3NgM1cSNSUMr0dY0M"
-        },
-        {
-          "name": "Luka Pumes",
-          "url": "https://open.spotify.com/artist/4OQArJT8U8ERpczgb96GiY"
-        },
-        {
-          "name": "DJ Thi Marquez",
-          "url": "https://open.spotify.com/artist/3PqV7Fyye1JcHwZHQ8BjoA"
-        },
-        {
-          "name": "Colombo Pires",
-          "url": "https://open.spotify.com/artist/1ta5CY6ruoV25kWA3Tk2hW"
-        },
-        {
-          "name": "prodPdrin",
-          "url": "https://open.spotify.com/artist/13Nx98HKg4gpZYvZShzgmt"
-        },
-        {
-          "name": "Dom M",
-          "url": "https://open.spotify.com/artist/1sr9tfI7nXNsh1YPTsPZcn"
-        },
-        {
-          "name": "RIC MUSIC",
-          "url": "https://open.spotify.com/artist/7kdYYoCudHnWFDFJhYZTJ2"
-        },
-        {
-          "name": "Analogic",
-          "url": "https://open.spotify.com/artist/5w7rdQm98KK3C5U6zrnenv"
-        }
-      ],
-      "duration_ms": 235919,
-      "name": "O Corre Nunca Vai Parar",
-      "url": "https://open.spotify.com/track/7Hkk9sj1032Lv1S61s5qzy"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Posturadin",
         "url": "https://open.spotify.com/album/66QOsOeesc7RCRddsMOLKo"
       },
@@ -1267,6 +1211,62 @@
     {
       "added_at": null,
       "album": {
+        "name": "Bruxaria 051",
+        "url": "https://open.spotify.com/album/5wwsozSTK5ftZLbZYXb287"
+      },
+      "artists": [
+        {
+          "name": "Tropa do Bruxo",
+          "url": "https://open.spotify.com/artist/4s3lxX76LwxzMdQEAFYdzv"
+        },
+        {
+          "name": "MC Hariel",
+          "url": "https://open.spotify.com/artist/0pcoadNMmvrUyab1RxWBoV"
+        },
+        {
+          "name": "Lourena",
+          "url": "https://open.spotify.com/artist/3jLj1sAQaEpLpktyJmyGIh"
+        },
+        {
+          "name": "Mc J9",
+          "url": "https://open.spotify.com/artist/1nVTS3NgM1cSNSUMr0dY0M"
+        },
+        {
+          "name": "Luka Pumes",
+          "url": "https://open.spotify.com/artist/4OQArJT8U8ERpczgb96GiY"
+        },
+        {
+          "name": "DJ Thi Marquez",
+          "url": "https://open.spotify.com/artist/3PqV7Fyye1JcHwZHQ8BjoA"
+        },
+        {
+          "name": "Colombo Pires",
+          "url": "https://open.spotify.com/artist/1ta5CY6ruoV25kWA3Tk2hW"
+        },
+        {
+          "name": "prodPdrin",
+          "url": "https://open.spotify.com/artist/13Nx98HKg4gpZYvZShzgmt"
+        },
+        {
+          "name": "Dom M",
+          "url": "https://open.spotify.com/artist/1sr9tfI7nXNsh1YPTsPZcn"
+        },
+        {
+          "name": "RIC MUSIC",
+          "url": "https://open.spotify.com/artist/7kdYYoCudHnWFDFJhYZTJ2"
+        },
+        {
+          "name": "Analogic",
+          "url": "https://open.spotify.com/artist/5w7rdQm98KK3C5U6zrnenv"
+        }
+      ],
+      "duration_ms": 235919,
+      "name": "O Corre Nunca Vai Parar",
+      "url": "https://open.spotify.com/track/7Hkk9sj1032Lv1S61s5qzy"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "At\u00e9 o Mundo Acabar",
         "url": "https://open.spotify.com/album/3wse1sgsXwXB74OhpxCKgm"
       },
@@ -1311,6 +1311,26 @@
     {
       "added_at": null,
       "album": {
+        "name": "Chore N\u00e3o",
+        "url": "https://open.spotify.com/album/24S4f5Zoxvtp846vd4DzOd"
+      },
+      "artists": [
+        {
+          "name": "Lourena",
+          "url": "https://open.spotify.com/artist/3jLj1sAQaEpLpktyJmyGIh"
+        },
+        {
+          "name": "Haga",
+          "url": "https://open.spotify.com/artist/5LmwSGneAmeX78pWDTbq8o"
+        }
+      ],
+      "duration_ms": 176111,
+      "name": "Chore N\u00e3o",
+      "url": "https://open.spotify.com/track/5aC2Avnr6X3HVRJcu4R9ar"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Tudo Vai Mudar",
         "url": "https://open.spotify.com/album/1Zk0KKqRWihfdboFzblnwt"
       },
@@ -1331,26 +1351,6 @@
       "duration_ms": 173553,
       "name": "Tudo Vai Mudar",
       "url": "https://open.spotify.com/track/2OXY2pkzwIBWxE8vPMB829"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Chore N\u00e3o",
-        "url": "https://open.spotify.com/album/24S4f5Zoxvtp846vd4DzOd"
-      },
-      "artists": [
-        {
-          "name": "Lourena",
-          "url": "https://open.spotify.com/artist/3jLj1sAQaEpLpktyJmyGIh"
-        },
-        {
-          "name": "Haga",
-          "url": "https://open.spotify.com/artist/5LmwSGneAmeX78pWDTbq8o"
-        }
-      ],
-      "duration_ms": 176111,
-      "name": "Chore N\u00e3o",
-      "url": "https://open.spotify.com/track/5aC2Avnr6X3HVRJcu4R9ar"
     },
     {
       "added_at": null,
@@ -1439,22 +1439,26 @@
     {
       "added_at": null,
       "album": {
-        "name": "Ele Me Falou",
-        "url": "https://open.spotify.com/album/1ZcPayaQioWQ4DRcJUqJoh"
+        "name": "Poesia Ac\u00fastica #9: Melhor Forma (LOCOS Remix)",
+        "url": "https://open.spotify.com/album/0T25XNwakPTqyCio9TaeKJ"
       },
       "artists": [
         {
-          "name": "BUDAH",
-          "url": "https://open.spotify.com/artist/08zSkHjCY3ypH4gdBVHWgO"
+          "name": "LOCOS",
+          "url": "https://open.spotify.com/artist/5hj8WfJMICGwPJlihxIpmE"
+        },
+        {
+          "name": "Salve Malak",
+          "url": "https://open.spotify.com/artist/7zxFc10N9BP2lg73b8cwZ0"
         },
         {
           "name": "Lourena",
           "url": "https://open.spotify.com/artist/3jLj1sAQaEpLpktyJmyGIh"
         }
       ],
-      "duration_ms": 209268,
-      "name": "Ele Me Falou",
-      "url": "https://open.spotify.com/track/5OHyVyyjFInvuuBeupT7c5"
+      "duration_ms": 113442,
+      "name": "Poesia Ac\u00fastica #9: Melhor Forma - LOCOS Remix",
+      "url": "https://open.spotify.com/track/7z3OQBFYClg9rHbUX2o0yQ"
     }
   ],
   "unique_name": "This Is Lourena",

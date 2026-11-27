@@ -2937,6 +2937,32 @@
     },
     {
       "album": {
+        "name": "Festival of Carols (Lo, How a Rose)",
+        "url": "https://open.spotify.com/album/46cqbCUBOje5k4jtmawdRE"
+      },
+      "artists": [
+        {
+          "name": "Michael Praetorius",
+          "url": "https://open.spotify.com/artist/0OTPgUKkDp058dC3czXFM2"
+        },
+        {
+          "name": "Jean-S\u00e9bastien Vall\u00e9e",
+          "url": "https://open.spotify.com/artist/0eR1CZrl8eAm2YA7ITQzs9"
+        },
+        {
+          "name": "Toronto Mendelssohn Singers",
+          "url": "https://open.spotify.com/artist/3VU1rNlwCUrIvD4GvHoPdy"
+        }
+      ],
+      "date_added": "2026-11-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 212000,
+      "name": "Lo, How a Rose - Arr. for Choir by Richard Proulx",
+      "url": "https://open.spotify.com/track/5co4UbGpdvGPac1U81ZxOB"
+    },
+    {
+      "album": {
         "name": "The Wonder of Christmas",
         "url": "https://open.spotify.com/album/31FdebdWzsv9oGTkgIEMJP"
       },
@@ -4076,6 +4102,36 @@
       "duration_ms": 255133,
       "name": "Silent Night (Arr. Burton for Vocal Ensemble)",
       "url": "https://open.spotify.com/track/1rmv4H8ON9oaSi92MXOJ7j"
+    },
+    {
+      "album": {
+        "name": "Sing We Now",
+        "url": "https://open.spotify.com/album/3kukgPEtAUUndBplcHLNSq"
+      },
+      "artists": [
+        {
+          "name": "Traditional",
+          "url": "https://open.spotify.com/artist/1U5zgr455OGyIkLNXvDdrf"
+        },
+        {
+          "name": "Cristina Montes Mateo",
+          "url": "https://open.spotify.com/artist/0NtAxBhq9sz7yKR3aFh0vy"
+        },
+        {
+          "name": "UCI Chamber Singers",
+          "url": "https://open.spotify.com/artist/4LgBlkFhskMxHc9B0e9EUH"
+        },
+        {
+          "name": "Irene Messoloras",
+          "url": "https://open.spotify.com/artist/7bLs9uL2MjQUMXwSqW5btL"
+        }
+      ],
+      "date_added": "2026-11-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 103826,
+      "name": "Sing We Now of Christmas - Arr. for choir by Fred Prentice and Carol Barnett",
+      "url": "https://open.spotify.com/track/6CQaZOLi4D5dprYUnDcDmj"
     },
     {
       "album": {

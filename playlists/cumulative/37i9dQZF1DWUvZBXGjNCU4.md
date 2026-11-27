@@ -4,7 +4,7 @@
 
 > Warm and cozy acoustic instrumentals.
 
-442 songs - 19 hr 45 min
+443 songs - 19 hr 49 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -48,14 +48,14 @@
 | [Auburn to Green](https://open.spotify.com/track/5UN9mQlx5fr9SirISSSuVJ) | [Noah Lorne](https://open.spotify.com/artist/3mgtorvPIuOOqO0V5EwEqa) | [Auburn to Green](https://open.spotify.com/album/6bHo8s2CSu4tzCnTTPLE3n) | 2:40 | 2025-06-11 |  |
 | [Aurora Prelude](https://open.spotify.com/track/4zNrO0MmzxqlthrBhnV8d2) | [Serena Perez](https://open.spotify.com/artist/2zkK4XfOHnssYBDk6Vp5PR) | [Aurora Prelude](https://open.spotify.com/album/6fiETmJfgbxUs0Rx3zE7Vi) | 2:32 | 2024-03-29 | 2026-05-23 |
 | [Autumn Coming](https://open.spotify.com/track/4FMe5WxTUYxd4U9jk0C4yl) | [Daniel Kaede](https://open.spotify.com/artist/6aup7uM4yUHX9NLba0sxmt) | [Autumn Coming](https://open.spotify.com/album/3Q6axAHOm4KVMFJlxFRvQF) | 2:21 | 2022-05-13 | 2022-10-07 |
-| [Autumn Dreams](https://open.spotify.com/track/7cWsIOBYEv1WomW8PSeX2s) | [Rua Do Sol](https://open.spotify.com/artist/6H6xSboY4n7uDxqgRaBBL4) | [Autumn Dreams](https://open.spotify.com/album/2TWUEmjaeo6RHBtOUBDwp5) | 3:43 | 2024-10-01 |  |
+| [Autumn Dreams](https://open.spotify.com/track/7cWsIOBYEv1WomW8PSeX2s) | [Rua Do Sol](https://open.spotify.com/artist/6H6xSboY4n7uDxqgRaBBL4) | [Autumn Dreams](https://open.spotify.com/album/2TWUEmjaeo6RHBtOUBDwp5) | 3:43 | 2024-10-01 | 2026-11-27 |
 | [Back to Boulder Creek](https://open.spotify.com/track/3aa0G5MIUCXZDD3FwcqL0j) | [Carol Poole](https://open.spotify.com/artist/02I1DT5QQhN18VH7MYEsSv) | [Back to Boulder Creek](https://open.spotify.com/album/6toTINQLDLrIcJRmXxd1fF) | 2:19 | 2022-05-13 | 2022-06-10 |
 | [Bagatelle Valley](https://open.spotify.com/track/1JaFCtOHjdzp0X5ReBZj4g) | [Nylonwings](https://open.spotify.com/artist/2FLK3ubX0vLLfbU5ViuJTN) | [Lluvia Bienvenida](https://open.spotify.com/album/4TItwlcBMFW12yGES5lBCA) | 3:07 | 2022-05-13 | 2022-06-10 |
 | [Bastiments](https://open.spotify.com/track/1B3c71jCiMtb2CIpkzT2a7) | [Riley Howe](https://open.spotify.com/artist/2vloKEy3B9bqBKOkCewats) | [Núria](https://open.spotify.com/album/35xNbujDkw7WI2064N4L53) | 2:56 | 2023-02-24 | 2023-06-23 |
 | [Beautitude](https://open.spotify.com/track/4IWpVVj6c0LhBePxFoAZEe) | [Georg Gardner](https://open.spotify.com/artist/6f0loscSdyOfbHMWJSV9Pv) | [Beautitude](https://open.spotify.com/album/2exVfoLC3vLD8qBdNDPuDY) | 1:59 | 2023-01-20 | 2023-09-16 |
 | [Beech Woods](https://open.spotify.com/track/2LN0TKS8xzsrD3UQ74O7LA) | [Solomon Davis](https://open.spotify.com/artist/1UsbAYI6GPRqkeH7BEWkBl) | [Beech Woods](https://open.spotify.com/album/0s4AKKQuijvlppeRcSj51D) | 1:52 | 2023-02-24 | 2023-09-16 |
 | [Before You go](https://open.spotify.com/track/3m4gh0NRsAwzyGjPoL2o3s) | [Andri Hart](https://open.spotify.com/artist/59R6a52V4bd0isZZXpazzL) | [Before You Go](https://open.spotify.com/album/3PdwBttSdtSzCa9hktsYxf) | 2:52 | 2023-03-10 | 2023-06-23 |
-| [Behind that Shadow](https://open.spotify.com/track/2ak4qF5VErlR1AnkMihYNR) | [Jonka Ebony](https://open.spotify.com/artist/1JTHwGu0pNf3WuXKyaZFAE) | [Behind that Shadow](https://open.spotify.com/album/5O5bqnGkpZIAUk5fit5o5G) | 2:18 | 2024-10-09 |  |
+| [Behind that Shadow](https://open.spotify.com/track/2ak4qF5VErlR1AnkMihYNR) | [Jonka Ebony](https://open.spotify.com/artist/1JTHwGu0pNf3WuXKyaZFAE) | [Behind that Shadow](https://open.spotify.com/album/5O5bqnGkpZIAUk5fit5o5G) | 2:18 | 2024-10-09 | 2026-11-27 |
 | [Bela Vista](https://open.spotify.com/track/4VbvFhMlAijXeY8fV9uhZa) | [Oliver Fowles](https://open.spotify.com/artist/1YSnhg3LTTtSqMNUOyauIP) | [Bela Vista](https://open.spotify.com/album/2onZ4M2kSJuPEFZ5HlQu6f) | 2:20 | 2022-05-13 | 2024-04-06 |
 | [Belonging to the Woods](https://open.spotify.com/track/5YGlabRh3sgy2VAtL8Bu3l) | [American Legion](https://open.spotify.com/artist/0jffXLYJMz2VeBonnuICk3) | [Belonging to the Woods](https://open.spotify.com/album/5MXiLVQY1I0dRkCK0wCGv2) | 3:24 | 2022-05-13 | 2022-10-07 |
 | [Better Here](https://open.spotify.com/track/2xMK2XVpe7mOFMjaI1ZPGh) | [Equanimity Seekers](https://open.spotify.com/artist/6oXndPl70FAG2e2h7ttCge) | [Better Here](https://open.spotify.com/album/6PJhbCAzc2w4edtE6ay57F) | 2:23 | 2022-06-17 | 2025-11-25 |
@@ -247,7 +247,7 @@
 | [Meeting and Passing](https://open.spotify.com/track/1V6MaIG0Ad0WTXIFYJJHmw) | [Sven Simons](https://open.spotify.com/artist/6OaZTQIF7xhBOSNSj3D1PU) | [Meeting and Passing](https://open.spotify.com/album/5jwABaertIL4wbwvMDGlfu) | 2:41 | 2025-07-22 |  |
 | [Melrose](https://open.spotify.com/track/5ngbgfC1bhMA7WMxzH9Cfe) | [Olma](https://open.spotify.com/artist/0jgC3HsKV46vXA8wsaZFuP) | [Melrose](https://open.spotify.com/album/6Z1EwaLJ7zU8SaGywp0pSj) | 2:04 | 2022-05-13 | 2022-06-10 |
 | [Mending Wall](https://open.spotify.com/track/7tdnauJhZjAn3THCaa5thS) | [Sven Simons](https://open.spotify.com/artist/6OaZTQIF7xhBOSNSj3D1PU) | [Mending Wall](https://open.spotify.com/album/1yVKdwUc4z2WJZoApRdY6s) | 2:23 | 2026-09-18 |  |
-| [Millstätter See](https://open.spotify.com/track/1f2ZxUgU6d5gp7pRyz35I0) | [Andreas Horschel](https://open.spotify.com/artist/7jtXTNxn8Q0LVzvSjIlldV) | [Millstätter See](https://open.spotify.com/album/6f5YB6Y0Ic0ixZ85lsibUG) | 2:37 | 2023-03-31 |  |
+| [Millstätter See](https://open.spotify.com/track/1f2ZxUgU6d5gp7pRyz35I0) | [Andreas Horschel](https://open.spotify.com/artist/7jtXTNxn8Q0LVzvSjIlldV) | [Millstätter See](https://open.spotify.com/album/6f5YB6Y0Ic0ixZ85lsibUG) | 2:37 | 2023-03-31 | 2026-11-27 |
 | [Mindset](https://open.spotify.com/track/4KGyiKKDpKNGcn46Nbz5qj) | [Sam Stone](https://open.spotify.com/artist/0Ostoo9TfYaBuDd5QdHz28) | [Mindset](https://open.spotify.com/album/402gxdke8XzhCG8MKkXT4b) | 2:25 | 2024-10-01 |  |
 | [Mist on Water](https://open.spotify.com/track/4UD4lu6cPROXEGSeJGp1BW) | [Enzo Costa](https://open.spotify.com/artist/08bZKTxSPaQAvmzc5YvDAQ) | [Mist on Water](https://open.spotify.com/album/0sLeBGncP7adWV4bDnqUnN) | 2:36 | 2025-12-03 |  |
 | [Moment Held](https://open.spotify.com/track/2QHs7x6qPQnhC2p1JILpuy) | [Ivan Pirman](https://open.spotify.com/artist/76BMzkMBbRiZ6WuWDOUPNg) | [Moment Held](https://open.spotify.com/album/7eSyVcWIf46avGw5FfLk2f) | 2:22 | 2025-06-11 |  |
@@ -416,7 +416,7 @@
 | [Valentine](https://open.spotify.com/track/533SnCwxVytF3viTF5kYql) | [Maisy Anderson](https://open.spotify.com/artist/1LZ0rsW9h1Aaoh9kJjWUeE) | [Valentine](https://open.spotify.com/album/18wiVGkktOzfti1YGrhL9W) | 2:30 | 2023-02-24 | 2023-09-29 |
 | [Vanek](https://open.spotify.com/track/7maiFElZYEyuvBjuxl6Whr) | [Sun Guitar](https://open.spotify.com/artist/0RIvnFewvejl7pKPF0hcFg) | [Vanek](https://open.spotify.com/album/08u0Dbk7cWg2JSDj01K5Gy) | 2:33 | 2022-05-13 | 2023-06-10 |
 | [Vicinity](https://open.spotify.com/track/5k40DYe9ZLMyVkAo0PaV16) | [Muray Ailis](https://open.spotify.com/artist/0smUzhouQgR5N9B3mhOtCW) | [Vicinity](https://open.spotify.com/album/25cn5lyWuPQm4usrqdzg2W) | 2:04 | 2026-03-30 |  |
-| [View of the Park](https://open.spotify.com/track/61RiC53XYBjZmyW6u081HC) | [Roots and Recognition](https://open.spotify.com/artist/0pcVy4l3REi7JxDbLrZ37L) | [Letting the Light In](https://open.spotify.com/album/1eGxXdtkKb0os4MUacj89J) | 3:14 | 2023-08-31 |  |
+| [View of the Park](https://open.spotify.com/track/61RiC53XYBjZmyW6u081HC) | [Roots and Recognition](https://open.spotify.com/artist/0pcVy4l3REi7JxDbLrZ37L) | [Letting the Light In](https://open.spotify.com/album/1eGxXdtkKb0os4MUacj89J) | 3:14 | 2023-08-31 | 2026-11-27 |
 | [Violet Fog](https://open.spotify.com/track/3E5sK3kvpTuUBQDQ8fvIes) | [Picturesque Sound](https://open.spotify.com/artist/4kmwcaEZw9Xs2GMUGKaR3D) | [Violet Fog](https://open.spotify.com/album/0jQZ7IEH8y10fgOheXeGVq) | 2:58 | 2022-07-08 | 2022-07-15 |
 | [Virginia \- Acoustic Guitar](https://open.spotify.com/track/2bRmzP7r8HBbn0WzgYe7w5) | [Byron Wolfe](https://open.spotify.com/artist/5FnRSMJOiTQUGkNRfOaJYm) | [Virginia \(Acoustic Guitar\)](https://open.spotify.com/album/3baVP3sGIoBgLrK0QTOHns) | 2:20 | 2022-05-13 | 2023-08-18 |
 | [Virginia Roads](https://open.spotify.com/track/4mvPV4OfTqTr3BphyM4Rz1) | [Lucy Duclos](https://open.spotify.com/artist/4mcQ5pefKb0EGBe87nvas0) | [Virginia Roads](https://open.spotify.com/album/4sTKdmaDoTWpwCQF1v8nfX) | 3:21 | 2022-05-13 | 2023-02-25 |
@@ -432,6 +432,7 @@
 | [Weavers](https://open.spotify.com/track/0fwI77XIC0gcpfU6h0il8v) | [Ciaran Delany](https://open.spotify.com/artist/2WuIGHkWICbZ4ZnIWWwaQE) | [Mirror](https://open.spotify.com/album/1eajczC71VdUgRAakjJfw8) | 3:05 | 2022-05-13 | 2022-06-10 |
 | [Wees Hier](https://open.spotify.com/track/3X0udzrbLkU0GHi4zbrMAq) | [Adrianne Mercier](https://open.spotify.com/artist/06urGGaPJJnDlxhUHO0TCn) | [Wees Hier](https://open.spotify.com/album/1HhXKa695uXIITpxVLLk5q) | 1:54 | 2023-02-24 | 2023-09-16 |
 | [Wetterstein](https://open.spotify.com/track/6WfdfnyXB4XRHPtdYUtMZw) | [Michael Reiss](https://open.spotify.com/artist/0KuRSjM6OFX0mH6GW5Shvy) | [Wetterstein](https://open.spotify.com/album/0u5TdFB5G2JI6BR5bQQIs5) | 4:08 | 2023-11-24 | 2024-06-26 |
+| [When I Fall](https://open.spotify.com/track/7xhavfJzCX9sUhXgtecOjT) | [Faelt](https://open.spotify.com/artist/6FlnhTAnvtLGV8mEZLGkBX) | [When I Fall](https://open.spotify.com/album/5S1tW0PBvUv2OPnzkCbnWm) | 3:06 | 2026-11-27 |  |
 | [When I'm With You](https://open.spotify.com/track/2owyKJv6AXPVSnHIPmOLsp) | [Benjamin Waverly](https://open.spotify.com/artist/4IXlJyOpO3xS2Sl7GZMUu7) | [When I'm With You](https://open.spotify.com/album/4jMcDv3EarnmcXRRTmHW3a) | 2:41 | 2022-05-13 | 2023-03-11 |
 | [When Sarah Returned](https://open.spotify.com/track/0Osgo37JsM3e6PKkrRGX77) | [Daniel Kaede](https://open.spotify.com/artist/6aup7uM4yUHX9NLba0sxmt) | [Somewhere Ahead](https://open.spotify.com/album/5qoSYzAjuuMXA6AaIn5YJT) | 2:36 | 2022-05-13 | 2024-07-30 |
 | [While You Waited](https://open.spotify.com/track/6HRH0Y8gia8VPbWC016Om3) | [Czarina Frost](https://open.spotify.com/artist/3iidbcDBg4BOBD5a927q0Q) | [While You Waited](https://open.spotify.com/album/3NIH1WpZiLV1eQo3UhlM7b) | 1:58 | 2022-05-13 | 2023-09-16 |

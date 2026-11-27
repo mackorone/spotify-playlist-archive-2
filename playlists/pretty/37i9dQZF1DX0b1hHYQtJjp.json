@@ -1,12 +1,12 @@
 {
   "description": "Recent hits and new songs from your fave artists. Cover: Kacey Musgraves",
-  "num_followers": 956979,
+  "num_followers": 957005,
   "original_name": "Just Good Music",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAMEZvQvqQyZy6bL9xlAcivs2RkVL",
+  "snapshot_id": "AAAAACSm/Ot0N/8Pp0SCkq8fcQ7GStY6",
   "tracks": [
     {
       "added_at": "2026-11-20 05:40:37",
@@ -41,22 +41,6 @@
       "url": "https://open.spotify.com/track/2haRBhKu8xM9fpV9CboS0w"
     },
     {
-      "added_at": "2026-11-20 05:02:24",
-      "album": {
-        "name": "Lucky Me",
-        "url": "https://open.spotify.com/album/60ohkB52oyMIZNKtPNAp2S"
-      },
-      "artists": [
-        {
-          "name": "Ian Harrison",
-          "url": "https://open.spotify.com/artist/5KNwR0B4tskwLbpfPtt1LG"
-        }
-      ],
-      "duration_ms": 142590,
-      "name": "Lucky Me",
-      "url": "https://open.spotify.com/track/7JmAPZJMAf7VBq8rrCwduu"
-    },
-    {
       "added_at": "2026-08-21 04:02:41",
       "album": {
         "name": "Babydoll",
@@ -73,22 +57,6 @@
       "url": "https://open.spotify.com/track/1o9mAOmNm3wT2NdyGV1Ard"
     },
     {
-      "added_at": "2026-08-07 05:26:06",
-      "album": {
-        "name": "Stop The Wedding!",
-        "url": "https://open.spotify.com/album/4dem9qxmFf4RD6fqoCH6wc"
-      },
-      "artists": [
-        {
-          "name": "Ashe",
-          "url": "https://open.spotify.com/artist/6P5NO5hzJbuOqSdyPB7SJM"
-        }
-      ],
-      "duration_ms": 198840,
-      "name": "Stop The Wedding!",
-      "url": "https://open.spotify.com/track/3zOYmiNOuyDL0ClxJcEJ0T"
-    },
-    {
       "added_at": "2026-11-20 05:02:24",
       "album": {
         "name": "Grand Theft Auto VI: The Album",
@@ -103,6 +71,38 @@
       "duration_ms": 223683,
       "name": "Crazy For You",
       "url": "https://open.spotify.com/track/7atOpwxr1aIeRlyGEPNn0C"
+    },
+    {
+      "added_at": "2026-11-20 05:02:24",
+      "album": {
+        "name": "Lucky Me",
+        "url": "https://open.spotify.com/album/60ohkB52oyMIZNKtPNAp2S"
+      },
+      "artists": [
+        {
+          "name": "Ian Harrison",
+          "url": "https://open.spotify.com/artist/5KNwR0B4tskwLbpfPtt1LG"
+        }
+      ],
+      "duration_ms": 142590,
+      "name": "Lucky Me",
+      "url": "https://open.spotify.com/track/7JmAPZJMAf7VBq8rrCwduu"
+    },
+    {
+      "added_at": "2026-08-07 05:26:06",
+      "album": {
+        "name": "Stop The Wedding!",
+        "url": "https://open.spotify.com/album/4dem9qxmFf4RD6fqoCH6wc"
+      },
+      "artists": [
+        {
+          "name": "Ashe",
+          "url": "https://open.spotify.com/artist/6P5NO5hzJbuOqSdyPB7SJM"
+        }
+      ],
+      "duration_ms": 198840,
+      "name": "Stop The Wedding!",
+      "url": "https://open.spotify.com/track/3zOYmiNOuyDL0ClxJcEJ0T"
     },
     {
       "added_at": "2026-10-23 04:12:14",
@@ -137,6 +137,42 @@
       "url": "https://open.spotify.com/track/23aN2ayUPGtpoox5n3eeyG"
     },
     {
+      "added_at": "2026-11-27 05:01:05",
+      "album": {
+        "name": "Bad at Goodbyes",
+        "url": "https://open.spotify.com/album/1ETwFcDJbYKBWExO85GYTJ"
+      },
+      "artists": [
+        {
+          "name": "Bebe Stockwell",
+          "url": "https://open.spotify.com/artist/2KPSR6XA83w8XYrwWekhA9"
+        }
+      ],
+      "duration_ms": 174554,
+      "name": "Bad at Goodbyes",
+      "url": "https://open.spotify.com/track/3SHM2RkG2IzMiU57KHuMQC"
+    },
+    {
+      "added_at": "2026-10-02 04:00:57",
+      "album": {
+        "name": "Draw You Out",
+        "url": "https://open.spotify.com/album/6AAZV1VyL6Y6HC4hbPg3Cr"
+      },
+      "artists": [
+        {
+          "name": "Noah Kahan",
+          "url": "https://open.spotify.com/artist/2RQXRUsr4IW1f3mKyKsy4B"
+        },
+        {
+          "name": "The Hunger Games",
+          "url": "https://open.spotify.com/artist/6UdECsev3yuXe2rfLrdDiF"
+        }
+      ],
+      "duration_ms": 255984,
+      "name": "Draw You Out - From The Hunger Games: Sunrise on the Reaping - The Album",
+      "url": "https://open.spotify.com/track/5KTcGJKm4HgLhLt8Tc7EQ5"
+    },
+    {
       "added_at": "2026-11-09 19:31:56",
       "album": {
         "name": "My Body Isn't Ready (Orchestral Version from Sound City)",
@@ -151,6 +187,22 @@
       "duration_ms": 225550,
       "name": "My Body Isn't Ready - Orchestral Version from Sound City",
       "url": "https://open.spotify.com/track/5wA2qmCu9hcu6KAqNE4FOC"
+    },
+    {
+      "added_at": "2026-11-25 05:04:19",
+      "album": {
+        "name": "BETTER OVER TIME",
+        "url": "https://open.spotify.com/album/0Iccs76G7e4e403S9VRqiA"
+      },
+      "artists": [
+        {
+          "name": "BigXthaPlug",
+          "url": "https://open.spotify.com/artist/6qxpnaukVayrQn6ViNvu9I"
+        }
+      ],
+      "duration_ms": 159133,
+      "name": "ONE",
+      "url": "https://open.spotify.com/track/5V3CgOTXhPXuYxCFJZ0br9"
     },
     {
       "added_at": "2026-11-20 06:12:55",
@@ -183,6 +235,22 @@
       "duration_ms": 169040,
       "name": "Lonely Guy",
       "url": "https://open.spotify.com/track/1sd7RBCgu3CbV8QiiB7jn0"
+    },
+    {
+      "added_at": "2026-10-02 04:00:57",
+      "album": {
+        "name": "Midnight Crisis",
+        "url": "https://open.spotify.com/album/5NBylpmkOvFFlpF9Gx2mFl"
+      },
+      "artists": [
+        {
+          "name": "Paige Fish",
+          "url": "https://open.spotify.com/artist/10djoaqJLN6H4oORnKJ63P"
+        }
+      ],
+      "duration_ms": 207654,
+      "name": "Midnight Crisis",
+      "url": "https://open.spotify.com/track/2EKRvcVCzYfamZCUWdYBJk"
     },
     {
       "added_at": "2026-10-16 04:01:43",
@@ -221,22 +289,6 @@
       "url": "https://open.spotify.com/track/4QtsEj52kEsbCn2SgyKzlK"
     },
     {
-      "added_at": "2026-10-02 04:00:57",
-      "album": {
-        "name": "Midnight Crisis",
-        "url": "https://open.spotify.com/album/5NBylpmkOvFFlpF9Gx2mFl"
-      },
-      "artists": [
-        {
-          "name": "Paige Fish",
-          "url": "https://open.spotify.com/artist/10djoaqJLN6H4oORnKJ63P"
-        }
-      ],
-      "duration_ms": 207654,
-      "name": "Midnight Crisis",
-      "url": "https://open.spotify.com/track/2EKRvcVCzYfamZCUWdYBJk"
-    },
-    {
       "added_at": "2026-07-24 04:02:42",
       "album": {
         "name": "Visitor",
@@ -251,22 +303,6 @@
       "duration_ms": 173975,
       "name": "Great Expectation",
       "url": "https://open.spotify.com/track/7ujApz6iFP3PmKIDGcaGbe"
-    },
-    {
-      "added_at": "2026-11-25 05:04:19",
-      "album": {
-        "name": "BETTER OVER TIME",
-        "url": "https://open.spotify.com/album/0Iccs76G7e4e403S9VRqiA"
-      },
-      "artists": [
-        {
-          "name": "BigXthaPlug",
-          "url": "https://open.spotify.com/artist/6qxpnaukVayrQn6ViNvu9I"
-        }
-      ],
-      "duration_ms": 159133,
-      "name": "ONE",
-      "url": "https://open.spotify.com/track/5V3CgOTXhPXuYxCFJZ0br9"
     },
     {
       "added_at": "2026-09-25 04:03:24",
@@ -601,6 +637,58 @@
       "url": "https://open.spotify.com/track/7lf9B6heWvYJ8Odgnki8uS"
     },
     {
+      "added_at": "2026-07-24 04:02:42",
+      "album": {
+        "name": "Been By Now",
+        "url": "https://open.spotify.com/album/2CW0gIlEO8iQBUdtRyxnb4"
+      },
+      "artists": [
+        {
+          "name": "Morgan Wallen",
+          "url": "https://open.spotify.com/artist/4oUHIQIBe0LHzYfvXNW4QM"
+        }
+      ],
+      "duration_ms": 213805,
+      "name": "Been By Now",
+      "url": "https://open.spotify.com/track/3xwMjQriBVW0OGEvNKo9c0"
+    },
+    {
+      "added_at": "2026-05-22 05:03:16",
+      "album": {
+        "name": "Rein Me In (with Olivia Dean)",
+        "url": "https://open.spotify.com/album/4utNKv9RDTzfIGok0tlOgl"
+      },
+      "artists": [
+        {
+          "name": "Sam Fender",
+          "url": "https://open.spotify.com/artist/6zlR5ttMfMNmwf2lecU9Cc"
+        },
+        {
+          "name": "Olivia Dean",
+          "url": "https://open.spotify.com/artist/00x1fYSGhdqScXBRpSj3DW"
+        }
+      ],
+      "duration_ms": 339410,
+      "name": "Rein Me In (with Olivia Dean)",
+      "url": "https://open.spotify.com/track/7MZHqgTVTnN6xZGYAcEEAf"
+    },
+    {
+      "added_at": "2026-05-22 05:03:16",
+      "album": {
+        "name": "Be Her",
+        "url": "https://open.spotify.com/album/0xY9ccawTTfHlwdVlkDT90"
+      },
+      "artists": [
+        {
+          "name": "Ella Langley",
+          "url": "https://open.spotify.com/artist/6BRxQ8cD3eqnrVj6WKDok8"
+        }
+      ],
+      "duration_ms": 217240,
+      "name": "Be Her",
+      "url": "https://open.spotify.com/track/05CjWFAcAlY6O9po6Qwakk"
+    },
+    {
       "added_at": "2026-10-23 04:12:14",
       "album": {
         "name": "Muse",
@@ -651,26 +739,6 @@
       "duration_ms": 171352,
       "name": "Follow Me",
       "url": "https://open.spotify.com/track/25bvxz66anpgtw1ZIl7OyV"
-    },
-    {
-      "added_at": "2026-10-02 04:00:57",
-      "album": {
-        "name": "Draw You Out",
-        "url": "https://open.spotify.com/album/6AAZV1VyL6Y6HC4hbPg3Cr"
-      },
-      "artists": [
-        {
-          "name": "Noah Kahan",
-          "url": "https://open.spotify.com/artist/2RQXRUsr4IW1f3mKyKsy4B"
-        },
-        {
-          "name": "The Hunger Games",
-          "url": "https://open.spotify.com/artist/6UdECsev3yuXe2rfLrdDiF"
-        }
-      ],
-      "duration_ms": 255984,
-      "name": "Draw You Out - From The Hunger Games: Sunrise on the Reaping - The Album",
-      "url": "https://open.spotify.com/track/5KTcGJKm4HgLhLt8Tc7EQ5"
     },
     {
       "added_at": "2026-09-18 04:00:21",
@@ -1153,22 +1221,6 @@
       "url": "https://open.spotify.com/track/5EKzc1abEyGFbwDjrKuq7D"
     },
     {
-      "added_at": "2026-09-11 04:01:50",
-      "album": {
-        "name": "The Weight of the Woods (Extended Edition)",
-        "url": "https://open.spotify.com/album/1R4BIKP7Clt6YoB58FbozL"
-      },
-      "artists": [
-        {
-          "name": "Dermot Kennedy",
-          "url": "https://open.spotify.com/artist/5KNNVgR6LBIABRIomyCwKJ"
-        }
-      ],
-      "duration_ms": 344295,
-      "name": "Stockholm",
-      "url": "https://open.spotify.com/track/4Aor8M0U720cnHUgYvOC5P"
-    },
-    {
       "added_at": "2026-05-22 05:03:16",
       "album": {
         "name": "Boston",
@@ -1215,58 +1267,6 @@
       "duration_ms": 175763,
       "name": "Cowgirl",
       "url": "https://open.spotify.com/track/1CXLVRVMVxtJOtV50pfVly"
-    },
-    {
-      "added_at": "2026-07-24 04:02:42",
-      "album": {
-        "name": "Been By Now",
-        "url": "https://open.spotify.com/album/2CW0gIlEO8iQBUdtRyxnb4"
-      },
-      "artists": [
-        {
-          "name": "Morgan Wallen",
-          "url": "https://open.spotify.com/artist/4oUHIQIBe0LHzYfvXNW4QM"
-        }
-      ],
-      "duration_ms": 213805,
-      "name": "Been By Now",
-      "url": "https://open.spotify.com/track/3xwMjQriBVW0OGEvNKo9c0"
-    },
-    {
-      "added_at": "2026-05-22 05:03:16",
-      "album": {
-        "name": "Rein Me In (with Olivia Dean)",
-        "url": "https://open.spotify.com/album/4utNKv9RDTzfIGok0tlOgl"
-      },
-      "artists": [
-        {
-          "name": "Sam Fender",
-          "url": "https://open.spotify.com/artist/6zlR5ttMfMNmwf2lecU9Cc"
-        },
-        {
-          "name": "Olivia Dean",
-          "url": "https://open.spotify.com/artist/00x1fYSGhdqScXBRpSj3DW"
-        }
-      ],
-      "duration_ms": 339410,
-      "name": "Rein Me In (with Olivia Dean)",
-      "url": "https://open.spotify.com/track/7MZHqgTVTnN6xZGYAcEEAf"
-    },
-    {
-      "added_at": "2026-05-22 05:03:16",
-      "album": {
-        "name": "Be Her",
-        "url": "https://open.spotify.com/album/0xY9ccawTTfHlwdVlkDT90"
-      },
-      "artists": [
-        {
-          "name": "Ella Langley",
-          "url": "https://open.spotify.com/artist/6BRxQ8cD3eqnrVj6WKDok8"
-        }
-      ],
-      "duration_ms": 217240,
-      "name": "Be Her",
-      "url": "https://open.spotify.com/track/05CjWFAcAlY6O9po6Qwakk"
     },
     {
       "added_at": "2026-05-22 05:03:16",

@@ -8605,6 +8605,24 @@
     },
     {
       "album": {
+        "name": "Apr\u00e8s Minuit",
+        "url": "https://open.spotify.com/album/1VgZg4mE4Uq1YqrIkQgQDv"
+      },
+      "artists": [
+        {
+          "name": "RnBoi",
+          "url": "https://open.spotify.com/artist/4yPFe6ZiSjH5mgjDwiYZgc"
+        }
+      ],
+      "date_added": "2026-11-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 144000,
+      "name": "Faux pas",
+      "url": "https://open.spotify.com/track/5Tr0QsVcH8V7xPpxSJLwU0"
+    },
+    {
+      "album": {
         "name": "Misstape 2",
         "url": "https://open.spotify.com/album/0huxZwTSdGZcd9KaDwTh6k"
       },
@@ -17849,6 +17867,28 @@
     },
     {
       "album": {
+        "name": "Vault 6",
+        "url": "https://open.spotify.com/album/55x70IxJx3dtwgUDpAF1Fo"
+      },
+      "artists": [
+        {
+          "name": "6LACK",
+          "url": "https://open.spotify.com/artist/4IVAbR2w4JJNJDDRFP3E83"
+        },
+        {
+          "name": "Jhen\u00e9 Aiko",
+          "url": "https://open.spotify.com/artist/5ZS223C6JyBfXasXxrRqOk"
+        }
+      ],
+      "date_added": "2026-11-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 192000,
+      "name": "Moves (with Jhen\u00e9 Aiko)",
+      "url": "https://open.spotify.com/track/3pHqs2CmdJS74NgPM8nDel"
+    },
+    {
+      "album": {
         "name": "Mr Right",
         "url": "https://open.spotify.com/album/6v2bBaHrTPmPy4rWQzMcZT"
       },
@@ -22810,7 +22850,7 @@
       ],
       "date_added": "2026-10-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-27",
       "duration_ms": 221727,
       "name": "Relax (2009)",
       "url": "https://open.spotify.com/track/3283xMe0tWUXRtIJ7pydi5"

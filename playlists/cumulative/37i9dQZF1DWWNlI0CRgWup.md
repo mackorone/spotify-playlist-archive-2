@@ -4,7 +4,7 @@
 
 > Découvrez les nouveautés des artistes RADAR France\. Photo : \(D\)Juno
 
-384 songs - 19 hr 17 min
+386 songs - 19 hr 23 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -13,6 +13,7 @@
 | [2006 \- Opps qui court](https://open.spotify.com/track/5cJHbMiyHr3oj9M8ZqIxho) | [Kerchak](https://open.spotify.com/artist/1nRbtbdYK51y71nVOxu332) | [2006 \(Opps qui court\)](https://open.spotify.com/album/5ncE4u6zAIl1O7a4x3zy2Q) | 2:58 | 2024-01-18 | 2024-04-11 |
 | [488](https://open.spotify.com/track/3fhqY2T90LO2vLivB7XJi4) | [Smeels](https://open.spotify.com/artist/6FyY3mlFrDdKUX35GrzeOZ) | [FAR AWAY](https://open.spotify.com/album/5SUp3SMovKemBkHpEFVfYw) | 3:08 | 2026-10-01 |  |
 | [4BULLDOG](https://open.spotify.com/track/28yU238mbNuvyRxWHCVNSL) | [Jolagreen23](https://open.spotify.com/artist/2jZ78PLlC1PuYKQ2bVwRvz) | [+99XP](https://open.spotify.com/album/29t2X8bZK7I6MbpXV6BDX9) | 2:31 | 2025-06-19 | 2025-11-13 |
+| [92](https://open.spotify.com/track/4Oz5vESV2Xs6DxHHOzLWf0) | [VEN1](https://open.spotify.com/artist/3Cz37xnWAOtQEa5jfrTUbL) | [92](https://open.spotify.com/album/3sKwq1h96VIeBZQJql4V5O) | 2:08 | 2026-11-26 |  |
 | [A Dog in a Manger](https://open.spotify.com/track/7smNXOvuCLjEG3qeOQdqVH) | [Astral Bakers](https://open.spotify.com/artist/6VUpGE6ErMWwqZGepBWc0D) | [A Dog in a Manger](https://open.spotify.com/album/38TmYJoFrS4La3bDZKmIje) | 3:21 | 2025-06-19 | 2026-09-18 |
 | [A l'américaine](https://open.spotify.com/track/0UHU3DLdPDcShv4m8o1mdc) | [Johnny Jane](https://open.spotify.com/artist/5ZtagJrNULymltW3pEbfhr) | [A l'américaine](https://open.spotify.com/album/2S9ME2sqrjF1tOJlqt1BkL) | 3:24 | 2023-07-11 | 2024-01-19 |
 | [Ados](https://open.spotify.com/track/0gc9MiWqo0me326ecRzaPg) | [Joseph Kamel](https://open.spotify.com/artist/5SQFDZOMgKao4hMpULEaoI) | [Ados](https://open.spotify.com/album/2Og8w5f5fU4PEMH3GbNgZw) | 2:53 | 2022-11-24 | 2023-09-09 |
@@ -34,6 +35,7 @@
 | [Bahwai](https://open.spotify.com/track/0hfSOgINLNsRHkASA31vY7) | [Yamê](https://open.spotify.com/artist/0wiCfDEHaEcPkKZOi7Nivl) | [ELOWI](https://open.spotify.com/album/49TUnWv5swURA9osAyLHI2) | 2:45 | 2023-10-13 | 2024-01-19 |
 | [baisers puissants](https://open.spotify.com/track/0oiXMt5EJNWdw6CZjbIm3O) | [Alma Rechtman](https://open.spotify.com/artist/2OzA28ZGJJEA8lzMockPcN) | [la maison s'effondre](https://open.spotify.com/album/1WOYjbzToKQ2v1KgwHBeZP) | 3:09 | 2026-10-08 |  |
 | [BARA](https://open.spotify.com/track/0w4Sq93I6HyUHihEtp0Nut) | [Yvnnis](https://open.spotify.com/artist/2Av0IgTSSDYLJNajJrQwyb) | [BARA](https://open.spotify.com/album/4DwQC08KIxlOidHamE3cnG) | 3:07 | 2025-06-19 | 2025-11-13 |
+| [Batman](https://open.spotify.com/track/6xbm3SABfyvW2MQD4wj5Bd) | [Steve Ibrahim](https://open.spotify.com/artist/0LO2e5fJCBLFn4Ua1IPszs) | [Batman](https://open.spotify.com/album/6uARLMmJtcFedhaCV500Sj) | 3:46 | 2026-11-26 |  |
 | [Beautiful Everything](https://open.spotify.com/track/7y2FybBAX1q90Z5QYpfqy1) | [Astral Bakers](https://open.spotify.com/artist/6VUpGE6ErMWwqZGepBWc0D) | [The Whole Story](https://open.spotify.com/album/4GlTxg5zKftVRrKIAlsWal) | 4:18 | 2024-03-11 | 2025-06-20 |
 | [bedroom walls](https://open.spotify.com/track/7AQocoPIOuhVfdxnogZgf8) | [November Ultra](https://open.spotify.com/artist/0naOCLau0NmL1kdFlbZAfr) | [bedroom walls](https://open.spotify.com/album/2SF5uQ1lC1OmlnpMYlOv9U) | 2:23 | 2022-03-01 | 2022-09-30 |
 | [Bella Vita](https://open.spotify.com/track/6bDXDC1meVMo6NyzH7VoxB) | [Oria](https://open.spotify.com/artist/2tcokte1gClrCRw645UFYR) | [Bella Vita](https://open.spotify.com/album/7E5q2YUeY5NXoo14PuI4Pn) | 2:59 | 2026-09-17 | 2026-10-16 |
@@ -129,7 +131,7 @@
 | [fou](https://open.spotify.com/track/0tH5JUbzvZYKk3CciyUlTy) | [Zélie](https://open.spotify.com/artist/0TGeOStDbxqVi8UJdBQsEx) | [un million de petits chocs](https://open.spotify.com/album/2IC2gH3S0XVQvug7M3rFjS) | 2:48 | 2024-03-11 | 2025-11-13 |
 | [Fous](https://open.spotify.com/track/6iDJJTC95l6eQBRfUKWrq3) | [Emma Peters](https://open.spotify.com/artist/6lY6kOVMG0mR07JTzU33o5) | [Fous](https://open.spotify.com/album/2sOcYT0QyNgZEuYvQ6gfI7) | 2:31 | 2021-12-02 | 2022-02-04 |
 | [Fous](https://open.spotify.com/track/76SdXXI996exZt00GiO5Co) | [Emma Peters](https://open.spotify.com/artist/6lY6kOVMG0mR07JTzU33o5) | [Dimanche](https://open.spotify.com/album/5KnRVFct1nHFXTJ3iavsLq) | 2:31 | 2023-09-08 | 2024-01-19 |
-| [FR DZ](https://open.spotify.com/track/26VNKq2Zql986XlaHw6yTh) | [VEN1](https://open.spotify.com/artist/3Cz37xnWAOtQEa5jfrTUbL) | [FR DZ](https://open.spotify.com/album/6lZ9Z2pivuWcWD8kDJuA8o) | 3:04 | 2026-09-17 |  |
+| [FR DZ](https://open.spotify.com/track/26VNKq2Zql986XlaHw6yTh) | [VEN1](https://open.spotify.com/artist/3Cz37xnWAOtQEa5jfrTUbL) | [FR DZ](https://open.spotify.com/album/6lZ9Z2pivuWcWD8kDJuA8o) | 3:04 | 2026-09-17 | 2026-11-27 |
 | [FUMER LE VERT](https://open.spotify.com/track/4zCM7FOuE2uroOiRifmnQu) | [Jolagreen23](https://open.spotify.com/artist/2jZ78PLlC1PuYKQ2bVwRvz) | [GOTY EDITION](https://open.spotify.com/album/5duCZsXkb1PXNBNqtdeEO4) | 2:27 | 2025-11-12 | 2026-09-18 |
 | [Garder Le Sourire](https://open.spotify.com/track/3AEzJ4yLoVJy7j605Qggwz) | [Sam Sauvage](https://open.spotify.com/artist/1tlWl5ltF7CudnGGjF96KL) | [Mesdames, Messieurs !!](https://open.spotify.com/album/4ggyDTNZsJ4Xb6y8R1kPjv) | 3:19 | 2026-11-12 |  |
 | [GARE DU NORD](https://open.spotify.com/track/2KjPE7Km3e8ILfin60DEFF) | [Yvnnis](https://open.spotify.com/artist/2Av0IgTSSDYLJNajJrQwyb) | [L'AFRO OU LES TRESSES](https://open.spotify.com/album/5GaFutbilpzWUYP0kkoVPP) | 3:11 | 2024-01-24 | 2025-06-20 |
@@ -198,7 +200,7 @@
 | [Le départ](https://open.spotify.com/track/1aPmnLaOqUckJH55npV3ZC) | [Blond](https://open.spotify.com/artist/6bAfbEF8yCMBTtXEBFLh2x) | [Te souviens\-tu ?](https://open.spotify.com/album/4LfcPStkgGYBfHrHWugvpd) | 3:07 | 2026-01-08 |  |
 | [Le Jeune](https://open.spotify.com/track/6amKBSZGfDYxNbL2ByRnir) | [QuinzeQuinze](https://open.spotify.com/artist/2SWMwDn0bu2QcXwBWznf5u) | [Le Jeune](https://open.spotify.com/album/6f0YgX8Oec0sTVluzFCT9C) | 3:59 | 2021-12-02 | 2022-02-04 |
 | [le manège](https://open.spotify.com/track/1544oKxSzETEcBpOKdf3de) | [November Ultra](https://open.spotify.com/artist/0naOCLau0NmL1kdFlbZAfr) | [le manège](https://open.spotify.com/album/6Qt86ubTBo7keQIxje0qNW) | 3:49 | 2021-12-02 | 2022-03-02 |
-| [Le mur du salon](https://open.spotify.com/track/6DSFwl1y7t1ds2zMjgxEYy) | [Steve Ibrahim](https://open.spotify.com/artist/0LO2e5fJCBLFn4Ua1IPszs) | [Le mur du salon](https://open.spotify.com/album/2gZL4ccmGDOXe3mKvTGENo) | 3:09 | 2026-01-29 |  |
+| [Le mur du salon](https://open.spotify.com/track/6DSFwl1y7t1ds2zMjgxEYy) | [Steve Ibrahim](https://open.spotify.com/artist/0LO2e5fJCBLFn4Ua1IPszs) | [Le mur du salon](https://open.spotify.com/album/2gZL4ccmGDOXe3mKvTGENo) | 3:09 | 2026-01-29 | 2026-11-27 |
 | [Le Plus Beau](https://open.spotify.com/track/1hDnVeTL6IHjuCyacA7QvV) | [TeddyBear](https://open.spotify.com/artist/2wMA0cyQGggqKOjMfUNenu) | [Le Plus Beau](https://open.spotify.com/album/4s8YhG1eTxmFmpHRiaig1P) | 2:48 | 2026-09-17 | 2026-10-16 |
 | [Le temps passe](https://open.spotify.com/track/24o720A8MCkwTWWytpMZld) | [Emma Peters](https://open.spotify.com/artist/6lY6kOVMG0mR07JTzU33o5) | [Le temps passe](https://open.spotify.com/album/2JZquiQA5Vg3J0HYokRdyE) | 3:12 | 2021-12-02 | 2022-06-18 |
 | [leader price](https://open.spotify.com/track/4DzSa5hqOPvoqE6cwt4Iav) | [The Doug](https://open.spotify.com/artist/1AT7xbkG9hKbNlvGfZtA7S) | [grandes surfaces](https://open.spotify.com/album/4AOcbCgPxu07O1lEK2mnJQ) | 2:53 | 2025-06-19 |  |

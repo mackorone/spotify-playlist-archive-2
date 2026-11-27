@@ -4,7 +4,7 @@
 
 > Nieuwe tijdloze muziek\. Cover: Within Temptation & S10
 
-992 songs - 2 day 10 hr 28 min
+994 songs - 2 day 10 hr 35 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -16,7 +16,7 @@
 | [1975](https://open.spotify.com/track/5RLzgNuAfuKx808CN60gCy) | [Tash Sultana](https://open.spotify.com/artist/6zVFRTB0Y1whWyH7ZNmywf) | [SUGAR EP.](https://open.spotify.com/album/2ue0uFTFAFxETZEtLBphmJ) | 7:16 | 2023-08-24 | 2024-01-12 |
 | [1989](https://open.spotify.com/track/2LJSRQW2w3u2vbi9S6qJr5) | [dEUS](https://open.spotify.com/artist/3zMir00BoCKhwNTjlT61KN) | [1989](https://open.spotify.com/album/1a8HpWgvArprdjGViNrQEr) | 5:05 | 2023-02-23 | 2023-05-27 |
 | [21](https://open.spotify.com/track/42G2iOzg2XJ1AGixhNV6cE) | [Kingfishr](https://open.spotify.com/artist/6c2qQFq3xfxFJndX6wSe4f) | [Halcyon](https://open.spotify.com/album/6qozXyj0x4k9gvSuKm6Jlq) | 2:59 | 2025-09-12 | 2026-03-13 |
-| [24 Hours](https://open.spotify.com/track/3pFYcTc0okPqmVF4DDQfup) | [Son Mieux](https://open.spotify.com/artist/1BCBAzjX8J0qpvNTPRDCLc) | [24 Hours](https://open.spotify.com/album/67lBzfEqQE39zkXHcH6ltY) | 3:26 | 2026-04-13 |  |
+| [24 Hours](https://open.spotify.com/track/3pFYcTc0okPqmVF4DDQfup) | [Son Mieux](https://open.spotify.com/artist/1BCBAzjX8J0qpvNTPRDCLc) | [24 Hours](https://open.spotify.com/album/67lBzfEqQE39zkXHcH6ltY) | 3:26 | 2026-04-13 | 2026-11-27 |
 | [90s Kid](https://open.spotify.com/track/3JgcOUpDmbU5lguxvxKfKG) | [DI\-RECT](https://open.spotify.com/artist/0d1nFNO90pwRmCeeqjOx2Q) | [90s Kid](https://open.spotify.com/album/1THYYuaXwWyZsdgybQ6bCD) | 3:19 | 2023-02-23 | 2023-03-10 |
 | [A Bar on the West Side of Town](https://open.spotify.com/track/1TR6uCeeDkDrWEZ2utFySv) | [Stephen Day](https://open.spotify.com/artist/4cnFw4bkIWVGKUBsr93OS5) | [Gold Mine](https://open.spotify.com/album/352Ay6TGW4fg3hRshekgbV) | 2:35 | 2024-08-29 | 2024-09-20 |
 | [A Different Kind of Happiness](https://open.spotify.com/track/1Hd2Cw8guWWMyVx8cGftYA) | [Nothing But Thieves](https://open.spotify.com/artist/1kDGbuxWknIKx4FlgWxiSp) | [A Different Kind of Happiness](https://open.spotify.com/album/4qhgSq49DI10h3ZAvhtPoP) | 4:06 | 2026-09-18 |  |
@@ -241,6 +241,7 @@
 | [Evergreen](https://open.spotify.com/track/55z3ChHdosGm28ieptmg7E) | [Ilse DeLange](https://open.spotify.com/artist/3FTKP1k9VbOng3m1rgnsqx) | [Evergreen](https://open.spotify.com/album/50bF97TPPv2zeUecGGEkZg) | 3:12 | 2026-03-13 | 2026-10-16 |
 | [Every Day and Every Night](https://open.spotify.com/track/18WMlv400ZLzVuW33m8CGN) | [WILSN](https://open.spotify.com/artist/2ymjQZjPQe0pziQ67Y8Ncr) | [Those Days Are Over](https://open.spotify.com/album/08gZ1W70cqDTkOX5TsUZBf) | 2:54 | 2023-02-23 | 2023-07-15 |
 | [Everybody's Got to Learn](https://open.spotify.com/track/6z0WgAtsvXR8zXH454CLtZ) | [First Aid Kit](https://open.spotify.com/artist/21egYD1eInY6bGFcniCRT1) | [Palomino Deluxe \(Child of Summer Edition\)](https://open.spotify.com/album/1zQPgJzwxqFxwQbw8SmMGd) | 3:53 | 2023-07-14 | 2024-01-26 |
+| [Everyone's Invited](https://open.spotify.com/track/2haRBhKu8xM9fpV9CboS0w) | [Mark Ambor](https://open.spotify.com/artist/11p2E654TTU8e0nZWBR4AL) | [East Houston Tapes](https://open.spotify.com/album/0mDy6JlxU2s7hImnrXtnj0) | 2:30 | 2026-11-26 |  |
 | [Everything Is Peaceful Love](https://open.spotify.com/track/5bA9nkU0bUuBrAaakSiOXP) | [Bon Iver](https://open.spotify.com/artist/4LEiUm1SRbFMgfqnQTwUbQ) | [Everything Is Peaceful Love](https://open.spotify.com/album/0TISqdrgN6Cvsg7rdDaUJs) | 3:30 | 2025-03-06 | 2025-06-20 |
 | [Evol Love](https://open.spotify.com/track/7muf6AxPAt2y32KiDgs0kB) | [Elske DeWall](https://open.spotify.com/artist/3iORog227J0qlfKXYHdR6M) | [Evol Love](https://open.spotify.com/album/5BRxmdYHo1szR8FoqKEunx) | 2:47 | 2024-12-05 | 2025-04-18 |
 | [Evolution](https://open.spotify.com/track/2vpO3zMJ82SxEY1MzjNNrp) | [Nothing But Thieves](https://open.spotify.com/artist/1kDGbuxWknIKx4FlgWxiSp) | [Evolution](https://open.spotify.com/album/10reOzyrRiJQehulKminkn) | 3:45 | 2026-05-28 | 2026-09-25 |
@@ -346,6 +347,7 @@
 | [Hello](https://open.spotify.com/track/6WOWlW3yUqyobe5t60CMNu) | [Goldkimono](https://open.spotify.com/artist/3krHIfEy37pVe0zjdisDBk) | [Hello](https://open.spotify.com/album/5ktE0WaMW40T9mcr7MM6Ic) | 3:34 | 2023-08-24 | 2023-11-17 |
 | [Hello](https://open.spotify.com/track/6kIl5WZtEdImIcEarhs9iZ) | [Goldkimono](https://open.spotify.com/artist/3krHIfEy37pVe0zjdisDBk) | [Something Out Of Nothing](https://open.spotify.com/album/52avYCo20BfLgGk50FvyRW) | 3:34 | 2023-11-13 | 2024-03-15 |
 | [Here \(with Chris Stapleton\)](https://open.spotify.com/track/3vacuoRYIAFTu0CsnBIcL7) | [Mumford & Sons](https://open.spotify.com/artist/3gd8FJtBJtkRxdfbTu19U2), [Chris Stapleton](https://open.spotify.com/artist/4YLtscXsxbVgi031ovDDdh) | [Prizefighter](https://open.spotify.com/album/36tMC1BcEdVTX2YN5Ygg7k) | 3:11 | 2026-02-19 | 2026-08-25 |
+| [Here Then We're Gone](https://open.spotify.com/track/2StTTNEWsqY0hp9D3wKUay) | [Ella Langley](https://open.spotify.com/artist/6BRxQ8cD3eqnrVj6WKDok8), [The Hunger Games](https://open.spotify.com/artist/6UdECsev3yuXe2rfLrdDiF) | [The Hunger Games: Sunrise on the Reaping \- The Album](https://open.spotify.com/album/1XVsmx5SwHTXEowtD5T22L) | 4:06 | 2026-11-26 |  |
 | [Here's To Forever](https://open.spotify.com/track/1kPqJKym5MEHXO0Mpdh4Bx) | [Bart van Liemt](https://open.spotify.com/artist/3xLM1wsWj19ZjpYwmuyX5D) | [Here's To Forever](https://open.spotify.com/album/3p9p5hYgfz4AiC3tNfX4g7) | 3:04 | 2025-06-27 | 2025-11-25 |
 | [Hideaway](https://open.spotify.com/track/7shWFWckY9KfesurTuUHkR) | [Joy Denalane](https://open.spotify.com/artist/5vP3nmsaGrondXXS5BvrSH) | [Hideaway](https://open.spotify.com/album/0wi0YD4YslP4u8GBvlqWNG) | 4:19 | 2023-08-03 | 2024-01-26 |
 | [High](https://open.spotify.com/track/5hlPrSCx9BvnQ3rCTkblMZ) | [Stephen Sanchez](https://open.spotify.com/artist/5XKFrudbV4IiuE5WuTPRmT) | [Angel Face](https://open.spotify.com/album/6CczqhUdYOH4qLSDnN3zkg) | 2:41 | 2023-11-30 | 2024-05-25 |
@@ -447,7 +449,7 @@
 | [Jaded](https://open.spotify.com/track/3AAY8YicetRPlDAkibHLiS) | [Miley Cyrus](https://open.spotify.com/artist/5YGY8feqx7naU7z4HrwZM6) | [Endless Summer Vacation](https://open.spotify.com/album/0HiZ8fNXwJOQcrf5iflrdz) | 3:05 | 2023-03-30 | 2023-09-01 |
 | [James Dean](https://open.spotify.com/track/2MVt6GD9AVbmniOIng0rVz) | [Tash Sultana](https://open.spotify.com/artist/6zVFRTB0Y1whWyH7ZNmywf) | [James Dean](https://open.spotify.com/album/61YMV5YCWzd4FmQAeBmraP) | 4:26 | 2023-05-09 | 2023-08-12 |
 | [James Dean](https://open.spotify.com/track/77Gdk4vNjXNxQ3fTBu3Nbq) | [Tash Sultana](https://open.spotify.com/artist/6zVFRTB0Y1whWyH7ZNmywf) | [James Dean](https://open.spotify.com/album/2oLPnNQQIreeFE4csdq5An) | 4:26 | 2023-03-17 | 2023-05-11 |
-| [Japan](https://open.spotify.com/track/29USgREdEXy48zHm3OnhAZ) | [Fontaines D.C.](https://open.spotify.com/artist/3SXwqSqAoBz9WCI9PDQzY6) | [Dopamine Chamber](https://open.spotify.com/album/0JICUfSKOdGqzE9FJSrNci) | 3:14 | 2026-11-12 |  |
+| [Japan](https://open.spotify.com/track/29USgREdEXy48zHm3OnhAZ) | [Fontaines D.C.](https://open.spotify.com/artist/3SXwqSqAoBz9WCI9PDQzY6) | [Dopamine Chamber](https://open.spotify.com/album/0JICUfSKOdGqzE9FJSrNci) | 3:14 | 2026-11-12 | 2026-11-27 |
 | [Joking](https://open.spotify.com/track/2NeHJnXA3fsCmfKRnCJIQq) | [Lusaint](https://open.spotify.com/artist/35v2YILQxee0yatdWj6Kg7) | [Joking](https://open.spotify.com/album/1lSICe6rIoZ3OOf4HGTfZU) | 2:38 | 2025-05-29 | 2025-10-10 |
 | [Josh Tillman and the Accidental Dose](https://open.spotify.com/track/6P7bs2kVAOqt0rB8vnNS2f) | [Father John Misty](https://open.spotify.com/artist/2kGBy2WHvF0VdZyqiVCkDT) | [Mahashmashana](https://open.spotify.com/album/2oJHtuXrCJ0KMH5GrC6Qdw) | 5:12 | 2024-11-21 | 2025-01-24 |
 | [Joy](https://open.spotify.com/track/4WOsZ7Rq8NmEiLpXM8Zvd5) | [ROLE MODEL](https://open.spotify.com/artist/1dy5WNgIKQU6ezkpZs4y8z) | [Joy](https://open.spotify.com/album/1XXUdRkbwKWm8hCcHLwdGl) | 3:34 | 2026-07-10 | 2026-09-16 |

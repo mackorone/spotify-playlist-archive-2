@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTZQgENtHuxI.md) - [plain]
 
 > Sortez les pantalons pattes d‘eph et les chemises en satin !
 
-[Spotify](https://open.spotify.com/user/spotify) - 140,576 likes - 50 songs - 4 hr 41 min
+[Spotify](https://open.spotify.com/user/spotify) - 140,575 likes - 50 songs - 4 hr 41 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -48,8 +48,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTZQgENtHuxI.md) - [plain]
 | 38 | [I Will Survive \- Extended Version](https://open.spotify.com/track/619REdZwzaCVSkSueKqPS1) | [Gloria Gaynor](https://open.spotify.com/artist/6V6WCgi7waF55bJmylC4H5) | [Silver Collection](https://open.spotify.com/album/3t4vQKksE3hxfsYS8Nr6cP) | 7:56 |
 | 39 | [Disco Nights \(Rock Freak\) \- 12" Disco Remix](https://open.spotify.com/track/21NEoaczQ5G1aEhJAgz0JQ) | [G.Q.](https://open.spotify.com/artist/18YelxQioKKPXK1PE5hh1n) | [Disco Nights \(Expanded Edition\)](https://open.spotify.com/album/5hgGl3cmYdzcPedJs47Jum) | 8:50 |
 | 40 | [Do What You Wanna Do](https://open.spotify.com/track/4ADW3HBraqvlFcxRlcRyoK) | [T\-Connection](https://open.spotify.com/artist/4zLYrCC0iBYDV8QmEYzUFS) | [Something For The Weekend](https://open.spotify.com/album/4dnOon8AzLu1CyBUjXErI5) | 7:17 |
-| 41 | [Spacer](https://open.spotify.com/track/3gzFESmUSfoFWeehf2rNOl) | [Sheila](https://open.spotify.com/artist/5fhRcv2KU96vbXqNE2FEdu) | [Intégrale \(exclus À 17 ans "At Seventeen", En duo avec Claude François\)](https://open.spotify.com/album/6wzJnPvJwYOzW5LMjAdfNc) | 5:54 |
-| 42 | [Brazilian Love Affair](https://open.spotify.com/track/1gN4FXvfrVOqJSWh20BPBK) | [George Duke](https://open.spotify.com/artist/3EB0uKE2lGw6BB1UFJrONl) | [Brazilian Love Affair \(Expanded Edition\)](https://open.spotify.com/album/7mVnCwqkT2tYSJBBbD4l4T) | 7:23 |
+| 41 | [Brazilian Love Affair](https://open.spotify.com/track/1gN4FXvfrVOqJSWh20BPBK) | [George Duke](https://open.spotify.com/artist/3EB0uKE2lGw6BB1UFJrONl) | [Brazilian Love Affair \(Expanded Edition\)](https://open.spotify.com/album/7mVnCwqkT2tYSJBBbD4l4T) | 7:23 |
+| 42 | [Spacer](https://open.spotify.com/track/3gzFESmUSfoFWeehf2rNOl) | [Sheila](https://open.spotify.com/artist/5fhRcv2KU96vbXqNE2FEdu) | [Intégrale \(exclus À 17 ans "At Seventeen", En duo avec Claude François\)](https://open.spotify.com/album/6wzJnPvJwYOzW5LMjAdfNc) | 5:54 |
 | 43 | [Beat the Street](https://open.spotify.com/track/41F97acqBc7aMzwD224kRR) | [Sharon Redd](https://open.spotify.com/artist/2kUUaHnVe0rRarZqRZgHEY) | [Beat the Street: The Very Best of Sharon Redd](https://open.spotify.com/album/3EOCA2DlYoeTIYjQauWDXM) | 6:15 |
 | 44 | [Spank \- Special DJ Remix](https://open.spotify.com/track/6MfYTs6Cwny5P4a1fI7stu) | [Jimmy "Bo" Horne](https://open.spotify.com/artist/6jcPHv7qVfqysvBT7Jmn7K) | [The Very Best Of The Tk Years](https://open.spotify.com/album/6R1hsCjnZakiVgqjcJkRRv) | 6:58 |
 | 45 | [YMCA](https://open.spotify.com/track/3ypMsqUwfNFMiooMLVHfkp) | [Village People](https://open.spotify.com/artist/0dCKce6tJJdHvlWnDMwzPW) | [Can't Stop the Music \(Original Soundtrack 1980\)](https://open.spotify.com/album/4oIOg6AgN5cTIQPk00RAWS) | 3:22 |

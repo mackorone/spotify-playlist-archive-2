@@ -4,7 +4,7 @@
 
 > ¡Aqui están todas las esenciales Tropicales de adoración!
 
-256 songs - 15 hr 23 min
+258 songs - 15 hr 30 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -57,7 +57,7 @@
 | [Contigo](https://open.spotify.com/track/0bI1DevumPPMmeTCyfoi6X) | [ANMILY](https://open.spotify.com/artist/1lrVxCIGcyqltmJ7hUdNmT) | [Contigo](https://open.spotify.com/album/3E3UbV8CHRyD25cHZU1dtw) | 2:27 | 2025-04-30 |  |
 | [Contigo](https://open.spotify.com/track/1ld0Nc6a8kqXjMJw3eRm1j) | [Mr\. Don](https://open.spotify.com/artist/12YP3RGVLp3c36Zi6lFRtR) | [Contigo](https://open.spotify.com/album/4EyoMV51X0r69upo5S2na0) | 3:42 | 2020-11-24 | 2026-01-24 |
 | [Contigo](https://open.spotify.com/track/2AvucB3PF66vcQoQJ6nZ3H) | [Mr\. Don](https://open.spotify.com/artist/12YP3RGVLp3c36Zi6lFRtR) | [Deluxe](https://open.spotify.com/album/7DqUydQ4WODGbSdYLDte9I) | 3:43 | 2020-11-24 | 2024-04-19 |
-| [Coritos Medley 2.0](https://open.spotify.com/track/0lECYI5HpJSQqpKk0BRp9z) | [Puchi Colon](https://open.spotify.com/artist/2SuLNlSmriMddkk59UkOdi) | [30 Años de Adoración Tropical](https://open.spotify.com/album/5CrNPfMYE1RZXCvABtn7Aq) | 4:09 | 2026-03-29 |  |
+| [Coritos Medley 2.0](https://open.spotify.com/track/0lECYI5HpJSQqpKk0BRp9z) | [Puchi Colon](https://open.spotify.com/artist/2SuLNlSmriMddkk59UkOdi) | [30 Años de Adoración Tropical](https://open.spotify.com/album/5CrNPfMYE1RZXCvABtn7Aq) | 4:09 | 2026-03-29 | 2026-11-27 |
 | [Corro a Ti](https://open.spotify.com/track/1sR3k6e5fuCQrHHMWjUkM5) | [LifeBanda](https://open.spotify.com/artist/5ZuEEy60Q2rXIQX20efDHz) | [Corro a Ti](https://open.spotify.com/album/4I9ZoZ53UKl31RaFYedPAP) | 3:32 | 2025-09-26 |  |
 | [Cuando está la Presencia del Rey](https://open.spotify.com/track/2l2IGV4CEBnT310cWK5PH4) | [Margarita de la Cruz](https://open.spotify.com/artist/6TgLtqzmFhIQD4OMxW1AF7) | [Cuando está la Presencia del Rey](https://open.spotify.com/album/5w6KLLGX8tLm7r4SL04PDZ) | 4:36 | 2025-09-26 | 2026-03-29 |
 | [Cuestión de Fé](https://open.spotify.com/track/1hA9pOl53hYmKBDzxE2Y6i) | [Tony Vega](https://open.spotify.com/artist/3Yg61bt7pZYX1bbMXEj8oY) | [A Solas](https://open.spotify.com/album/7j9iOuNGdCEpBw4qVUPNwl) | 4:53 | 2024-07-19 | 2025-03-01 |
@@ -131,6 +131,7 @@
 | [Lejos](https://open.spotify.com/track/55N34N8Xnl6V6ZcMricxe4) | [Tommy Bueno](https://open.spotify.com/artist/5bQOdNLAjlUqoiNHbvfknR), [Lisan Beat](https://open.spotify.com/artist/33mpx3IrKw93IM1C8tVSQi) | [Lejos](https://open.spotify.com/album/1M5i0l6WJgLJtvJvkLj07A) | 2:59 | 2025-03-28 |  |
 | [Llegare \(Remastered\) \[feat\. Zeri\]](https://open.spotify.com/track/2muF4IsAlsdubJ2vfIA6Aq) | [Vito Vasquez](https://open.spotify.com/artist/6X77ZznZkcQj4vcIEwYRM5), [Zeri](https://open.spotify.com/artist/1ISG0zSleX4gwbBf4AydB8) | [Vuelve a Soñar \- EP](https://open.spotify.com/album/7qtu9kgujZ7Ze82Cuj8zJv) | 3:42 | 2020-11-24 | 2024-07-19 |
 | [Llegó el Culto \- Remix](https://open.spotify.com/track/7MSWXSadUTvH0ZqPsRa91N) | [Lizzy Parra](https://open.spotify.com/artist/1Cm5r6LqrFQDuA0F4KUIQz), [Niko Eme](https://open.spotify.com/artist/4jLWtcGrESS5YvRip2ATmL), [Peter Metivier](https://open.spotify.com/artist/1dRxdmjynLZ3uWalEN5wrg), [MR\. Yeison](https://open.spotify.com/artist/4ieXJFMJnmtKA88Mu4wuy6) | [Llegó el Culto \(Remix\)](https://open.spotify.com/album/0x98fuDJtaLXC6makn1aIY) | 3:16 | 2024-07-19 | 2026-11-06 |
+| [Llegó la Fiesta](https://open.spotify.com/track/5q1CMOjy3UHPlteww6x3tF) | [Johnny Rez](https://open.spotify.com/artist/49JT46VWgu2bzVmcCGPTqk) | [Algo Aún Mejor EP](https://open.spotify.com/album/0KRagsqWZhVY4lAm9fI1VP) | 3:16 | 2026-11-27 |  |
 | [Lo Mejor De La Vida](https://open.spotify.com/track/4T8vv4Hwzg0vEwsRg253oS) | [R Nova](https://open.spotify.com/artist/7rXuCCgw2Intfg2EJdQypx) | [Lo Mejor De La Vida](https://open.spotify.com/album/10o6MR8g8EXpeRGulLaPSl) | 3:37 | 2026-03-29 |  |
 | [Lo Que Hoy No Pudo Ser](https://open.spotify.com/track/05fLRTHI40TvfN2UogPH6U) | [Alex Campos](https://open.spotify.com/artist/6slyJwua5e5GuhuP82sTHR) | [Lo Que Hoy No Pudo Ser](https://open.spotify.com/album/2gid8ldQL20sszSDum6Pjz) | 3:35 | 2026-06-26 | 2026-09-15 |
 | [LONELY](https://open.spotify.com/track/1YDnbv3zhSQ1z5TZT2BNH3) | [Vaes](https://open.spotify.com/artist/7iOw6TIHh8GcNnaAFvXyTu) | [LONELY](https://open.spotify.com/album/0lyUiWAoAOC08gAc6Tkeiz) | 2:39 | 2024-12-11 | 2026-11-06 |
@@ -167,7 +168,7 @@
 | [NO TIENES IGUAL](https://open.spotify.com/track/3W2H4Ss0F4C0XqTJfa2ke9) | [Su Presencia](https://open.spotify.com/artist/2gaFnEQydJdWNkT17NLZm3) | [NO TIENES IGUAL](https://open.spotify.com/album/4Nrx6RkWTYqGr3IW2XLdNT) | 4:07 | 2026-07-25 |  |
 | [No Vaya a Ser](https://open.spotify.com/track/4cxZYv0KJvw6MNHjuz8tOk) | [Britt](https://open.spotify.com/artist/0HwCaUS8htBIGIlRABaZIv) | [No Vaya a Ser](https://open.spotify.com/album/4LUCoUs4hhd16D350FiZ6G) | 3:10 | 2020-11-24 | 2024-07-19 |
 | [Nos Vamos A Gozar](https://open.spotify.com/track/2ZHpcTpOiuHM8tRRsWvyTW) | [El Swing Divino](https://open.spotify.com/artist/47lEsXx9WQW7NP9j8gs2Zk) | [Adorar A Dios](https://open.spotify.com/album/4aOpEMW8mBFw3hS4zPPNQn) | 3:15 | 2024-07-19 |  |
-| [NUEVA VIDA](https://open.spotify.com/track/379HVyZjCQuBB4zclv7230) | [Jesus David Suarez](https://open.spotify.com/artist/0Rt3ZjpAQPbHqrHs6sPfi0) | [NUEVA VIDA](https://open.spotify.com/album/7g7Qor16vSdBywF1BcbT7a) | 2:38 | 2026-11-06 |  |
+| [NUEVA VIDA](https://open.spotify.com/track/379HVyZjCQuBB4zclv7230) | [Jesus David Suarez](https://open.spotify.com/artist/0Rt3ZjpAQPbHqrHs6sPfi0) | [NUEVA VIDA](https://open.spotify.com/album/7g7Qor16vSdBywF1BcbT7a) | 2:38 | 2026-11-06 | 2026-11-27 |
 | [Nueva vida](https://open.spotify.com/track/7cE2dtrfKER31utLWdKDHE) | [Pablo Cifuentes](https://open.spotify.com/artist/0e3gPGSlQZEcsaohevhUMt) | [Nueva vida](https://open.spotify.com/album/0HESFuQ7m8CrUmLh2QqMRq) | 3:34 | 2024-12-11 | 2025-07-26 |
 | [Ola de Calma](https://open.spotify.com/track/4q9sQbwmCA95KNJNSXl27A) | [David Ordoñez](https://open.spotify.com/artist/2ObAn94Bm0Q9cSyryDKVI0), [Odanis BSK](https://open.spotify.com/artist/2equ79Fk9Rj9vmQsuJpIJ9) | [Ola de Calma](https://open.spotify.com/album/5oMkWlFJpUUwyJaT8kE3wE) | 3:24 | 2026-04-25 | 2026-11-06 |
 | [Otra Vez](https://open.spotify.com/track/14t6bEV9Efq9yor2RuJoli) | [David Muguercia](https://open.spotify.com/artist/5nMM1vcEVt8ZMtMozqQ4fu), [Obyone](https://open.spotify.com/artist/1kjzrYEdRok24Tpamprfpa), [Emanuel Lara](https://open.spotify.com/artist/4h8AlGulCUpliPcRlj40Ap) | [Otra Vez](https://open.spotify.com/album/4jTwmNKRgjnTIrm8nyKA9C) | 3:08 | 2026-07-25 |  |
@@ -216,6 +217,7 @@
 | [Sublime Gracia](https://open.spotify.com/track/7ql7c661G5jstNSU3UVt0S) | [Damaris Guerra](https://open.spotify.com/artist/6KOEJIpphgdK2z7wXfWYvj), [Isamar](https://open.spotify.com/artist/2drlQvlGLUluWh7iqqB8p7) | [Sublime Gracia](https://open.spotify.com/album/4JMgMpgaGlSDXTEa8kV1CX) | 2:46 | 2025-10-24 |  |
 | [Summertime](https://open.spotify.com/track/2YhJlGNniJbAMbNUWf6iiE) | [Yeyo](https://open.spotify.com/artist/3lzyHlwA8eLqDqHZ3FnKJp) | [Summertime](https://open.spotify.com/album/0qSI9KwRdzu1euqI19poAi) | 3:23 | 2020-11-24 | 2024-07-19 |
 | [Taba Lloviendo](https://open.spotify.com/track/7GFiB95NCGLBZbZFbe5Lue) | [Omy Alka](https://open.spotify.com/artist/6dBxV47XdYFxRPmDGSyhgh) | [Taba Lloviendo](https://open.spotify.com/album/6AFl7NFbzUmkHztB5C2vvF) | 3:08 | 2026-01-23 |  |
+| [Tan Fiel](https://open.spotify.com/track/03fRGMzesz5G120LpnVzkS) | [R Nova](https://open.spotify.com/artist/7rXuCCgw2Intfg2EJdQypx) | [Tan Fiel](https://open.spotify.com/album/0wkRMXxSifAS9GSsThNz4Q) | 3:06 | 2026-11-27 |  |
 | [Te Amo](https://open.spotify.com/track/6GvSHhIxdWaQJbiQyzdOCy) | [Triple Seven](https://open.spotify.com/artist/7cOcEjYXnkleFMc5J8ypBN), [Musiko](https://open.spotify.com/artist/4A03xFVufDpEqOY9fQlFue) | [7](https://open.spotify.com/album/0SwG9W9WTQNhAJV8z4LYNU) | 4:21 | 2020-11-24 | 2024-07-19 |
 | [Te Entrego Mi Corazón](https://open.spotify.com/track/3vjUs4D0CfYuABhwMyG50o) | [Pablo Betancourth](https://open.spotify.com/artist/1HswyM5Xhfp8mogA5HJALe) | [Te Entrego Mi Corazón](https://open.spotify.com/album/1zthoHj47DANo7hIwf0ZcT) | 3:27 | 2020-11-24 |  |
 | [Tengo un Nuevo Amor \(Salsa\)](https://open.spotify.com/track/0J5rrCuSHRTNXRVAUZiekO) | [David Y Abraham](https://open.spotify.com/artist/03bSnfVbCWNrwj4UfHzoc4) | [Alábale Con Ritmo de Salsa](https://open.spotify.com/album/7j6xtDw5T1EJMkhPzoazrx) | 4:42 | 2020-11-24 | 2022-07-29 |

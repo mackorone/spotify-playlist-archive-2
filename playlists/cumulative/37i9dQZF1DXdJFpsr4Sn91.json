@@ -6894,7 +6894,7 @@
       ],
       "date_added": "2026-11-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-27",
       "duration_ms": 176490,
       "name": "Helena",
       "url": "https://open.spotify.com/track/7CL0XvdOIunKIAjshljO3p"
@@ -7968,7 +7968,7 @@
       ],
       "date_added": "2026-11-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-27",
       "duration_ms": 169574,
       "name": "I'll Die Happily",
       "url": "https://open.spotify.com/track/3GbtxhWAT8NltZsd2THDEq"
@@ -10065,6 +10065,24 @@
     },
     {
       "album": {
+        "name": "Keih\u00e4s",
+        "url": "https://open.spotify.com/album/2nVjeMmakspBsZHMa1ROSD"
+      },
+      "artists": [
+        {
+          "name": "Efka Crush",
+          "url": "https://open.spotify.com/artist/7F5rSmDXew3j6VX4e60dJF"
+        }
+      ],
+      "date_added": "2026-11-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 196800,
+      "name": "Keih\u00e4s",
+      "url": "https://open.spotify.com/track/18tv4FM3PPHR4LHEZnMq4d"
+    },
+    {
+      "album": {
         "name": "Keinu mua p\u00e4in",
         "url": "https://open.spotify.com/album/3E9wTf0wJCqSSPeiyLfeRS"
       },
@@ -10076,7 +10094,7 @@
       ],
       "date_added": "2026-11-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-27",
       "duration_ms": 144324,
       "name": "Keinu mua p\u00e4in",
       "url": "https://open.spotify.com/track/2cFAEieqgJXWjGRVq9FSVe"
@@ -14264,7 +14282,7 @@
       ],
       "date_added": "2026-11-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-27",
       "duration_ms": 169141,
       "name": "Mustelma",
       "url": "https://open.spotify.com/track/3xWTO3CsJS6tmZrR67R3uT"
@@ -17603,6 +17621,28 @@
     },
     {
       "album": {
+        "name": "Rakas & rangaistus (feat. Evelina)",
+        "url": "https://open.spotify.com/album/3NqPELFGYiqIvsNsjPCJGX"
+      },
+      "artists": [
+        {
+          "name": "Sara Siipola",
+          "url": "https://open.spotify.com/artist/0cv9YYFgE0vLVgTjMrOZup"
+        },
+        {
+          "name": "Evelina",
+          "url": "https://open.spotify.com/artist/3KgHd8tKiKYsazNkydQgYM"
+        }
+      ],
+      "date_added": "2026-11-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 221317,
+      "name": "Rakas & rangaistus (feat. Evelina)",
+      "url": "https://open.spotify.com/track/7tGNnO9kOm4vzI0WGYFRSn"
+    },
+    {
+      "album": {
         "name": "Rakasta mua",
         "url": "https://open.spotify.com/album/7vwXUsKguvh1TzScdVFqUv"
       },
@@ -19491,6 +19531,24 @@
     },
     {
       "album": {
+        "name": "Siel se menee taas",
+        "url": "https://open.spotify.com/album/7KJSXoww4s7fmuiRFj6VW6"
+      },
+      "artists": [
+        {
+          "name": "Nathanael",
+          "url": "https://open.spotify.com/artist/0ZXI1MlPy3f6Q4SqRL9cl9"
+        }
+      ],
+      "date_added": "2026-11-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 131202,
+      "name": "Siel se menee taas",
+      "url": "https://open.spotify.com/track/4CBNoOo1gj06pCZbh1tBNx"
+    },
+    {
+      "album": {
         "name": "Siks kai m\u00e4 oon sun (Vain el\u00e4m\u00e4\u00e4 kausi 16)",
         "url": "https://open.spotify.com/album/6puwcWcwlJ3sfSS6p07nfx"
       },
@@ -20191,6 +20249,24 @@
     },
     {
       "album": {
+        "name": "Spotlight",
+        "url": "https://open.spotify.com/album/6VwTeoRtfBmQttXOKaSEUq"
+      },
+      "artists": [
+        {
+          "name": "Lage",
+          "url": "https://open.spotify.com/artist/7zakYXqhliziu6I44dJa9c"
+        }
+      ],
+      "date_added": "2026-11-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 158833,
+      "name": "Spotlight",
+      "url": "https://open.spotify.com/track/3ZJD0WtycqCumq58Lrpdiu"
+    },
+    {
+      "album": {
         "name": "GNX",
         "url": "https://open.spotify.com/album/0hvT3yIEysuuvkK73vgdcW"
       },
@@ -20586,6 +20662,28 @@
       "duration_ms": 182159,
       "name": "Suomalainen Superstara",
       "url": "https://open.spotify.com/track/4S61u0InVCx79RqYYMLTgC"
+    },
+    {
+      "album": {
+        "name": "Suomalaista k\u00e4sity\u00f6t\u00e4 (feat. costee)",
+        "url": "https://open.spotify.com/album/6fC4lXhQhc5YUtDuRKpAvy"
+      },
+      "artists": [
+        {
+          "name": "Tupe.",
+          "url": "https://open.spotify.com/artist/4yJlK8mRoESpFoPq3sOAi5"
+        },
+        {
+          "name": "costee",
+          "url": "https://open.spotify.com/artist/3I4GcOB25cSJHa9d7Bsgji"
+        }
+      ],
+      "date_added": "2026-11-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 169519,
+      "name": "Suomalaista k\u00e4sity\u00f6t\u00e4 (feat. costee)",
+      "url": "https://open.spotify.com/track/4O5OVOlovqTX7oCjfAqufd"
     },
     {
       "album": {
@@ -24692,7 +24790,7 @@
       ],
       "date_added": "2026-06-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-27",
       "duration_ms": 169846,
       "name": "V\u00e4rit",
       "url": "https://open.spotify.com/track/0wvcMn4YYcmdAzvcvJkRZQ"

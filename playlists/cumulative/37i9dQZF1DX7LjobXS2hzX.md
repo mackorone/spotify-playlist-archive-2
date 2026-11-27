@@ -2,9 +2,9 @@
 
 ### [La Hit Liste](https://open.spotify.com/playlist/37i9dQZF1DX7LjobXS2hzX)
 
-> Voici les hits du moment avec Alicia Moffet
+> Voici les hits du moment avec Souldia, Cupidon
 
-765 songs - 1 day 16 hr 14 min
+766 songs - 1 day 16 hr 18 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -106,13 +106,13 @@
 | [Blue Strips](https://open.spotify.com/track/7u7IqryLFAygWFz6bsEB7y) | [Jessie Murph](https://open.spotify.com/artist/2yLzlEFtIS0Q9UkyBZdQA7) | [Blue Strips](https://open.spotify.com/album/38Vd2K3RytxtNWLE5aU2VR) | 2:27 | 2025-05-16 | 2025-12-20 |
 | [BMF](https://open.spotify.com/track/3U3hFkMr0Q90pD24EkE3Pr) | [SZA](https://open.spotify.com/artist/7tYKF4w9nC0nq9CsPZTHyP) | [SOS Deluxe: LANA](https://open.spotify.com/album/3VQkNrG74QPY4rHBPoyZYZ) | 3:00 | 2025-01-10 | 2025-10-18 |
 | [Bones](https://open.spotify.com/track/54ipXppHLA8U4yqpOFTUhr) | [Imagine Dragons](https://open.spotify.com/artist/53XhwfbYqKCa1cC15pYq2q) | [Mercury \- Acts 1 & 2](https://open.spotify.com/album/6yiXkzHvC0OTmhfDQOEWtS) | 2:45 | 2022-11-11 | 2023-09-16 |
-| [Bonjour, Pardon, Merci](https://open.spotify.com/track/2jAXPXIejP3yz5mUtZLkOX) | [Céline Dion](https://open.spotify.com/artist/4S9EykWXhStSc15wEx8QFK) | [Bonjour, Pardon, Merci](https://open.spotify.com/album/02QlnQYs9hya4kAG0Zw0jJ) | 3:10 | 2026-07-03 |  |
+| [Bonjour, Pardon, Merci](https://open.spotify.com/track/2jAXPXIejP3yz5mUtZLkOX) | [Céline Dion](https://open.spotify.com/artist/4S9EykWXhStSc15wEx8QFK) | [Bonjour, Pardon, Merci](https://open.spotify.com/album/02QlnQYs9hya4kAG0Zw0jJ) | 3:10 | 2026-07-03 | 2026-11-27 |
 | [BOOST](https://open.spotify.com/track/2CP4hqiRmgqz4T7s4RgMQj) | [Robert Robert](https://open.spotify.com/artist/2IzC3vT8yHOZ3Ne5HYQfM3) | [BOOST](https://open.spotify.com/album/4gvOhyW8BG4ikck6BNOqC1) | 2:35 | 2025-11-07 | 2026-01-17 |
 | [Boston](https://open.spotify.com/track/36idurZmYRjJ56KQ8JD9bN) | [STELLA LEFTY](https://open.spotify.com/artist/6hp2uD84OrQ3u3ukmTjLz2) | [Boston](https://open.spotify.com/album/4YLIRb8DdBTXbgHiFLicH2) | 2:50 | 2026-05-29 |  |
 | [Break Like a Bottle](https://open.spotify.com/track/5bS0R7dEFYHvIOK1sy3i0N) | [Sorrene](https://open.spotify.com/artist/7gtvuGFtopwxP14Spa1OR6) | [Break Like a Bottle](https://open.spotify.com/album/0rkI9u24cCWE2jht32n7Kn) | 3:30 | 2025-11-07 | 2026-03-11 |
 | [Briller \- Golden \- version française](https://open.spotify.com/track/4Zg2p0S5G6dxF3xCmRBv3R) | [HUNTR/X](https://open.spotify.com/artist/2yNNYQBChuox9A5Ka93BIn), [Alexiane Broque](https://open.spotify.com/artist/5qIdeu6LWidREML9dzL0WD), [Jeanne Jérosme](https://open.spotify.com/artist/55MG6lE79B7ClZe6nMSnrK), [Clotilde Verry](https://open.spotify.com/artist/5QrZth2MNx8LlLnzkVaqKr), [KPop Demon Hunters Cast](https://open.spotify.com/artist/7mW7Tv7NvywKKXqafZo0Lc) | [Golden \(from the Netflix film KPop Demon Hunters\)](https://open.spotify.com/album/2FZ9yvgjgkzgcvvRMLx9Ab) | 3:12 | 2025-10-17 | 2026-03-11 |
 | [Broken \- Radio Edit](https://open.spotify.com/track/3f5w7CK8pCKwlijBz0vann) | [Jay Scøtt](https://open.spotify.com/artist/3G9XTWY09egHqHlbRcP5cx) | [Ses Plus Grands Succès](https://open.spotify.com/album/2VERbKTPxuqen1yO2ISCaH) | 2:41 | 2022-07-09 | 2023-04-01 |
-| [Brokie](https://open.spotify.com/track/2IuiVOploNTYCiJI30PJdw) | [Lost](https://open.spotify.com/artist/5Pd7zqwUqC1INMJAT2Df7b) | [Brokie](https://open.spotify.com/album/4TpAHIAKmLrbn66UOmvu4c) | 2:14 | 2026-11-20 |  |
+| [Brokie](https://open.spotify.com/track/2IuiVOploNTYCiJI30PJdw) | [Lost](https://open.spotify.com/artist/5Pd7zqwUqC1INMJAT2Df7b) | [Brokie](https://open.spotify.com/album/4TpAHIAKmLrbn66UOmvu4c) | 2:14 | 2026-11-20 | 2026-11-27 |
 | [BUSINESS CLASS](https://open.spotify.com/track/25qdQ9CfExanGHqzeRTwF1) | [Lost](https://open.spotify.com/artist/5Pd7zqwUqC1INMJAT2Df7b) | [HÉRITAGE \(Deluxe\)](https://open.spotify.com/album/5bEAst4zPVbagufynpA9L2) | 2:47 | 2023-12-15 | 2024-03-09 |
 | [Buzzé \- Hip\-Hop](https://open.spotify.com/track/0DerIoTW99VdoDKNDBIVsU) | [Jay Scøtt](https://open.spotify.com/artist/3G9XTWY09egHqHlbRcP5cx), [FouKi](https://open.spotify.com/artist/3IMC79WXhjXUkDHhpsSN8n), [Rymz](https://open.spotify.com/artist/3dN1EUAKOFCUBPFXRUdqKu), [Souldia](https://open.spotify.com/artist/6ekcMUMZoiX2HBbQGZgNh1), [Xavier Euphory](https://open.spotify.com/artist/0uHOElDo0UUKXn6LzLS2Wg) | [Buzzé Pack](https://open.spotify.com/album/3ifgCpBb6nVh76QEVGldnI) | 3:13 | 2026-05-29 | 2026-06-27 |
 | [Bécane \- A COLORS SHOW](https://open.spotify.com/track/3oUEzTAoOxqZHN4xiqTGqJ) | [Yamê](https://open.spotify.com/artist/0wiCfDEHaEcPkKZOi7Nivl) | [Bécane \- A COLORS SHOW](https://open.spotify.com/album/7oBuvko8hsXKXHEUHvDXnB) | 3:02 | 2023-12-08 | 2024-06-15 |
@@ -361,6 +361,7 @@
 | [Jouer](https://open.spotify.com/track/2N3hy5pmIniu74CYQ4NgdL) | [Ariane Moffatt](https://open.spotify.com/artist/5x9UA1g9OYt1wCyPb0YN8l) | [Jouer](https://open.spotify.com/album/5Erz4Q7ny0yoo09VTycNEg) | 3:06 | 2025-02-21 | 2026-01-17 |
 | [JUMP](https://open.spotify.com/track/5H1sKFMzDeMtXwND3V6hRY) | [BLACKPINK](https://open.spotify.com/artist/41MozSoPIsD1dJM0CLPjZF) | [JUMP](https://open.spotify.com/album/3hzoZlx2KwtvJEUl9piPWr) | 2:44 | 2025-07-18 | 2025-12-20 |
 | [Jump](https://open.spotify.com/track/6XpEm7VJ7TZxZTawH8BCSW) | [Tyla](https://open.spotify.com/artist/3SozjO3Lat463tQICI9LcE), [Gunna](https://open.spotify.com/artist/2hlmm7s2ICUX0LVIhVFlZQ), [Skillibeng](https://open.spotify.com/artist/5FkUhnHQ0KC63549LHHtst) | [TYLA](https://open.spotify.com/album/3KGVOGmIbinlrR97aFufGE) | 2:27 | 2024-04-26 | 2024-10-26 |
+| [Jusqu'à la fin](https://open.spotify.com/track/3IbDdbg3b1VpuibC9Aj753) | [Souldia](https://open.spotify.com/artist/6ekcMUMZoiX2HBbQGZgNh1), [Cupidon](https://open.spotify.com/artist/5iLIhZFtUFijzNwplwZtlV) | [Jusqu'à la fin](https://open.spotify.com/album/0CrDF44c8Ey2nWA1IgraZH) | 3:49 | 2026-11-27 |  |
 | [Just Keep Watching \(From F1® The Movie\)](https://open.spotify.com/track/2yWlGEgEfPot0lv3OAjuG3) | [Tate McRae](https://open.spotify.com/artist/45dkTj5sMRSjrmBSBeiHym), [F1 The Album](https://open.spotify.com/artist/3aly4xJOy3LVznzvRIvFYC) | [Just Keep Watching \(From F1® The Movie\)](https://open.spotify.com/album/5aWEjuULckx3nnpAM9w6gY) | 2:22 | 2025-06-06 | 2025-10-11 |
 | [KIA RIO](https://open.spotify.com/track/6BXhCFvAKAp8N7ZhWoBfDv) | [Robert Robert](https://open.spotify.com/artist/2IzC3vT8yHOZ3Ne5HYQfM3) | [KIA RIO](https://open.spotify.com/album/79NtucSknC4MTsKrpew1Al) | 3:05 | 2025-10-03 | 2025-11-22 |
 | [Kill Bill](https://open.spotify.com/track/3OHfY25tqY28d16oZczHc8) | [SZA](https://open.spotify.com/artist/7tYKF4w9nC0nq9CsPZTHyP) | [SOS](https://open.spotify.com/album/07w0rG5TETcyihsEIZR3qG) | 2:33 | 2022-12-23 | 2023-02-04 |

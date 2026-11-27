@@ -4,7 +4,7 @@
 
 > This is Sexyy Red\. The essential tracks, all in one playlist.
 
-150 songs - 6 hr 55 min
+151 songs - 6 hr 57 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -35,6 +35,7 @@
 | [Clouted Up](https://open.spotify.com/track/0L4ar279c2jy2bPg9WAcsi) | [Sexyy Red](https://open.spotify.com/artist/3DbwFQlvLxRSi2uX8mf81A) | [U Kno What To Do \(UKWTD\)](https://open.spotify.com/album/2MBtDCT8SgVFw5VHU8lWX7) | 1:57 | 2024-09-08 | 2026-11-17 |
 | [Come Here \(feat\. Sexyy Red\)](https://open.spotify.com/track/2C2BJ5xjUD3AvVR6BtqiFu) | [BossMan Dlow](https://open.spotify.com/artist/23xFbA9rYgRX8mreqysWPc), [Sexyy Red](https://open.spotify.com/artist/3DbwFQlvLxRSi2uX8mf81A) | [Come Here \(feat\. Sexyy Red\)](https://open.spotify.com/album/3QxPYvooBMx633nZ3loSDF) | 3:14 | 2024-03-16 | 2025-04-15 |
 | [Come Here \(feat\. Sexyy Red\)](https://open.spotify.com/track/3djPfGkkCxWMP68yy2GulG) | [BossMan Dlow](https://open.spotify.com/artist/23xFbA9rYgRX8mreqysWPc), [Sexyy Red](https://open.spotify.com/artist/3DbwFQlvLxRSi2uX8mf81A) | [Mr Beat The Road](https://open.spotify.com/album/3x3G6TKWWgRS1vWp03FoNb) | 3:14 | 2025-04-15 | 2026-05-31 |
+| [Cooties \(Remix\)](https://open.spotify.com/track/3Q5nO0zCq8Mao1KgCCl9wk) | [Real Dimez](https://open.spotify.com/artist/4vBgQ1r8qLZ1mWaceTy58o), [Sexyy Red](https://open.spotify.com/artist/3DbwFQlvLxRSi2uX8mf81A) | [Grand Theft Auto VI: The Album \(Deluxe Edition\)](https://open.spotify.com/album/2O7j5mKjiyJRLNUo4RZKzs) | 2:44 | 2026-11-27 |  |
 | [Daddy \(feat\. Sexyy Red\)](https://open.spotify.com/track/7oYjWdHi4gwPxOkRVWfSUc) | [Tokischa](https://open.spotify.com/artist/2p4aN0Uxkk3iT3HK0cJ2cJ), [Sexyy Red](https://open.spotify.com/artist/3DbwFQlvLxRSi2uX8mf81A) | [Daddy \(feat\. Sexyy Red\)](https://open.spotify.com/album/2aUz6JfGW97Min1HueLXmp) | 3:13 | 2023-12-13 | 2026-04-20 |
 | [Daddy \(feat\. Sexyy Red\) \- Vandalized Edit](https://open.spotify.com/track/2sb27UopO5ME6MdymutVnV) | [Tokischa](https://open.spotify.com/artist/2p4aN0Uxkk3iT3HK0cJ2cJ), [Jarreau Vandal](https://open.spotify.com/artist/6f96znq79wvlknKHHHhtTW), [Sexyy Red](https://open.spotify.com/artist/3DbwFQlvLxRSi2uX8mf81A) | [Daddy \(feat\. Sexyy Red\) \[Vandalized Edit\]](https://open.spotify.com/album/2k0tmoYn3bI1hmIjeIbWQl) | 3:12 | 2025-03-05 | 2025-04-20 |
 | [DAMN SHORTY \- feat\. Sexyy Red](https://open.spotify.com/track/3ghMzjSfLHEriTZRej6JHm) | [Chief Keef](https://open.spotify.com/artist/15iVAtD3s3FsQR4w1v6M0P), [Mike WiLL Made\-It](https://open.spotify.com/artist/0NWbwDZY1VkRqFafuQm6wk), [Sexyy Red](https://open.spotify.com/artist/3DbwFQlvLxRSi2uX8mf81A) | [DIRTY NACHOS](https://open.spotify.com/album/6BpbaxnD9tN5sZTmEkmLh3) | 3:06 | 2024-03-16 |  |
@@ -67,7 +68,7 @@
 | [Her Her Her \(feat\. DJ Holiday\)](https://open.spotify.com/track/2eRRo7gznC0swKmvyiZRAO) | [Sexyy Red](https://open.spotify.com/artist/3DbwFQlvLxRSi2uX8mf81A), [DJ Holiday](https://open.spotify.com/artist/6Q4MFlysvdbBeEhoKgAUbY) | [Yo Favorite Trappa Favorite Rappa](https://open.spotify.com/album/4lnnjuRw10Swa4WrMXRhOk) | 3:01 | 2026-04-21 | 2026-05-22 |
 | [HOES \(feat\. Sexyy Red\) \[From Scary Movie\]](https://open.spotify.com/track/1IMTFCCPDw0R3JT6jYMimo) | [Lizzo](https://open.spotify.com/artist/56oDRnqbIiwx4mymNEv7dS), [Sexyy Red](https://open.spotify.com/artist/3DbwFQlvLxRSi2uX8mf81A) | [HOES \(feat\. Sexyy Red\) \[From Scary Movie\]](https://open.spotify.com/album/1fuVofIf79f9kg2CPH3LIt) | 2:09 | 2026-05-24 | 2026-09-12 |
 | [Hold On Yeah](https://open.spotify.com/track/6M41zLwqgg0hK2ELUaVnH9) | [Sexyy Red](https://open.spotify.com/artist/3DbwFQlvLxRSi2uX8mf81A) | [Hood Hottest Princess \(Deluxe\)](https://open.spotify.com/album/7eJUwUbX2BGnNkLBoOvIlr) | 2:25 | 2023-12-13 | 2024-03-17 |
-| [Hoochie Coochie](https://open.spotify.com/track/7ygjfxmmkgPN0nbyYOMD2T) | [Sexyy Red](https://open.spotify.com/artist/3DbwFQlvLxRSi2uX8mf81A) | [Hoochie Coochie](https://open.spotify.com/album/3AGhrLfPdpOZQnI7s5GBjz) | 2:27 | 2025-04-06 |  |
+| [Hoochie Coochie](https://open.spotify.com/track/7ygjfxmmkgPN0nbyYOMD2T) | [Sexyy Red](https://open.spotify.com/artist/3DbwFQlvLxRSi2uX8mf81A) | [Hoochie Coochie](https://open.spotify.com/album/3AGhrLfPdpOZQnI7s5GBjz) | 2:27 | 2025-04-06 | 2026-11-27 |
 | [Hood Bitch](https://open.spotify.com/track/3zBwBkR18TfwaZTQ5fOIWl) | [Sexyy Red](https://open.spotify.com/artist/3DbwFQlvLxRSi2uX8mf81A) | [Ghetto Superstar](https://open.spotify.com/album/1Np99lkXyvQXneF0m5zTOy) | 2:37 | 2023-11-10 | 2024-05-24 |
 | [Hood Bitch](https://open.spotify.com/track/6ExguHzcEThPS1PC4wah38) | [Sexyy Red](https://open.spotify.com/artist/3DbwFQlvLxRSi2uX8mf81A) | [Ghetto Superstar](https://open.spotify.com/album/6lbPCqEJgVNcsxjwFZKwtc) | 2:37 | 2024-05-24 | 2024-05-26 |
 | [Hood Rats \(with Sukihana\)](https://open.spotify.com/track/3bdyyYQ9Ykldt7XOgxWNQY) | [Sexyy Red](https://open.spotify.com/artist/3DbwFQlvLxRSi2uX8mf81A), [Sukihana](https://open.spotify.com/artist/3EJmmU8C3pk268dP7IbOt7) | [Hood Rats \(with Sukihana\)](https://open.spotify.com/album/1dkqNDedqxeSUyFnmHL8Nx) | 2:55 | 2023-11-10 | 2024-03-17 |

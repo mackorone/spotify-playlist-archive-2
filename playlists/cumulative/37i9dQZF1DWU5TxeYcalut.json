@@ -818,7 +818,7 @@
       ],
       "date_added": "2024-03-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-27",
       "duration_ms": 183106,
       "name": "Coisa N\u00ba 10",
       "url": "https://open.spotify.com/track/7IDT1CPTBq6B8zpgbqVZYG"
@@ -840,6 +840,24 @@
       "duration_ms": 283965,
       "name": "Consola\u00e7\u00e3o - Live",
       "url": "https://open.spotify.com/track/49KG5t8YMzD1HIusWoNchm"
+    },
+    {
+      "album": {
+        "name": "Cosmos",
+        "url": "https://open.spotify.com/album/3mbNCn2ETjS8wwTHrZnT7n"
+      },
+      "artists": [
+        {
+          "name": "Leo Gandelman",
+          "url": "https://open.spotify.com/artist/7q1dPac1mIOp9NZX12ApbW"
+        }
+      ],
+      "date_added": "2026-11-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 275842,
+      "name": "Cosmos",
+      "url": "https://open.spotify.com/track/3d4NOWNgSnmWbq7k7CuhFN"
     },
     {
       "album": {
@@ -2955,6 +2973,36 @@
     },
     {
       "album": {
+        "name": "Prazer\u00e1",
+        "url": "https://open.spotify.com/album/0RNcgbu9I6ZctmqkaC58SJ"
+      },
+      "artists": [
+        {
+          "name": "Trabalhos Espaciais Manuais",
+          "url": "https://open.spotify.com/artist/4RSRiccbutyX0OVVc4py7Z"
+        },
+        {
+          "name": "Livia Nery",
+          "url": "https://open.spotify.com/artist/2jgNIddZBgTiswbLmv91Qu"
+        },
+        {
+          "name": "Di Melo",
+          "url": "https://open.spotify.com/artist/4KyZtyl55zzHoBJUp07Doe"
+        },
+        {
+          "name": "Duda Raupp",
+          "url": "https://open.spotify.com/artist/1TblNIhFNuu2fTJbTp6rDp"
+        }
+      ],
+      "date_added": "2026-11-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 263000,
+      "name": "Prazer\u00e1",
+      "url": "https://open.spotify.com/track/1ilo3TXrHc9LHhrTvAg59A"
+    },
+    {
+      "album": {
         "name": "Primeiro de Novembro",
         "url": "https://open.spotify.com/album/5GQ82XvLgmhs7PcS7EI69D"
       },
@@ -3052,7 +3100,7 @@
       ],
       "date_added": "2023-03-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-27",
       "duration_ms": 367240,
       "name": "Quisiera Tenerte a Mi Lado",
       "url": "https://open.spotify.com/track/0nABj1vTjAHoIQsC2VSmRj"

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcCQbOdQV38g.md) - [plain]
 
 > Het zomergevoel met Nederlandstalig ☀️🧡\. Cover: Justen de Wildt
 
-[Spotify](https://open.spotify.com/user/spotify) - 74,179 likes - 75 songs - 3 hr 25 min
+[Spotify](https://open.spotify.com/user/spotify) - 74,175 likes - 75 songs - 3 hr 25 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -65,7 +65,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcCQbOdQV38g.md) - [plain]
 | 55 | [Slapeloosheid](https://open.spotify.com/track/5tiTVSryX1Hu09cPsNvaIR) | [Suzan & Freek](https://open.spotify.com/artist/77IW5ZK1smDQYYKDCQugXh) | [Slapeloosheid](https://open.spotify.com/album/2DIOF2PigIUoGJWhq9XBCG) | 2:57 |
 | 56 | [Vanavond \(Uit M'n Bol\)](https://open.spotify.com/track/0gq4UgDPGFdqpsWshU7dmv) | [Kris Kross Amsterdam](https://open.spotify.com/artist/4LcUpNlXFEleaLlelmkv2R), [Donnie](https://open.spotify.com/artist/2ylIKKdMukkuprCgY4ZDFE), [Tino Martin](https://open.spotify.com/artist/0iVHnv2bQN5iee8J6iCVO4) | [Vanavond \(Uit M'n Bol\)](https://open.spotify.com/album/484UFqfszlmpKrCTGjOaVa) | 2:46 |
 | 57 | [De Tapster Uit Tijuana](https://open.spotify.com/track/3VKUZemyzO52vCdZrXl7A9) | [Sander Kwarten](https://open.spotify.com/artist/3mF7KKbv6XN4QYjDOFFipn) | [De Tapster Uit Tijuana](https://open.spotify.com/album/43Xdl2v1kht5oRtsp8a6qL) | 3:06 |
-| 58 | [CD van mij](https://open.spotify.com/track/764EyTlmlcqOlf1FyBPYif) | [Ronnie Flex](https://open.spotify.com/artist/5eir5zFJpES4j7gsymbVyl), [Acda en de Munnik](https://open.spotify.com/artist/040Fqhc0l7a4MPeDx6cneh) | [CD van mij](https://open.spotify.com/album/5Dx0iogpXPTNFWSyTlCn3a) | 2:50 |
+| 58 | [CD van mij](https://open.spotify.com/track/764EyTlmlcqOlf1FyBPYif) | [Ronnie Flex](https://open.spotify.com/artist/5eir5zFJpES4j7gsymbVyl), [Acda en de Munnik](https://open.spotify.com/artist/040Fqhc0l7a4MPeDx6cneh), [De Vrienden van Amstel LIVE](https://open.spotify.com/artist/2wbvOtxDo1BCeCbZGzIzQf) | [CD van mij](https://open.spotify.com/album/5Dx0iogpXPTNFWSyTlCn3a) | 2:50 |
 | 59 | [Waar Ga Je Heen](https://open.spotify.com/track/5G6hrPIse64sqdsqVxBK78) | [Emma Heesters](https://open.spotify.com/artist/3898xesz6JuQkpz7Kiu4uM) | [Waar Ga Je Heen](https://open.spotify.com/album/5vo4P3v3h4ve0vsyzv5tjl) | 2:59 |
 | 60 | [Alles Op Gevoel](https://open.spotify.com/track/3kHSi1ysS2HLt3XmBLIYlO) | [FLEMMING](https://open.spotify.com/artist/0YLlTW9rW7ZCy2cA2u3RYk), [Zoe Tauran](https://open.spotify.com/artist/63eEYhIlgGEjHZrQf61EAB), [Ronnie Flex](https://open.spotify.com/artist/5eir5zFJpES4j7gsymbVyl) | [Twee Stappen Voor](https://open.spotify.com/album/6HwoP7y1vS2gtH2bMPdfHK) | 2:49 |
 | 61 | [Jammer Dan](https://open.spotify.com/track/4PyYGasJnEDj7RNcNMK40k) | [Stef Ekkel](https://open.spotify.com/artist/1cUsaZWQDILKpljyM7FWXm) | [Jammer Dan](https://open.spotify.com/album/2AxAA2mZxU9U8EymFn0nxd) | 3:05 |

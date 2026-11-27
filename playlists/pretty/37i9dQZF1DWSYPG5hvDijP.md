@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSYPG5hvDijP.md) - [plain]
 
 > Naya Hindi Hip\-Hop! Cover: Rare, Y.D.S, Lil Sprit 37, Vizen
 
-[Spotify](https://open.spotify.com/user/spotify) - 24,678 likes - 75 songs - 3 hr 25 min
+[Spotify](https://open.spotify.com/user/spotify) - 24,714 likes - 75 songs - 3 hr 25 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -48,7 +48,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSYPG5hvDijP.md) - [plain]
 | 38 | [Paisa Toh Bahut Hai](https://open.spotify.com/track/61aF6OSg5tK3fTLorzwOb6) | [Shantanu](https://open.spotify.com/artist/2Fbbl2LqgmqMLrL71chON3), [Raktim Dey](https://open.spotify.com/artist/14UeEgpfU2yKKNY49d6jb5) | [Paisa Toh Bahut Hai](https://open.spotify.com/album/5EunajeWedX5bXkTBxviyk) | 2:34 |
 | 39 | [Hawa Mai Gum](https://open.spotify.com/track/7Gl4mUPfxHEGhdTeoZnkkO) | [saksham dhyani](https://open.spotify.com/artist/4UAFxXN3ovNQvlDlICUhx5), [Akash Raturi](https://open.spotify.com/artist/457OeTZAHzomrx5vdJUQMa), [Maven Music](https://open.spotify.com/artist/7qsUZEko6gauCXtSdrOelW), [GHILDIYAL](https://open.spotify.com/artist/19oE1SHCKszlQciGXQGtbW) | [Guldasta](https://open.spotify.com/album/2QevWyeVzx91E18lKIcvxu) | 3:21 |
 | 40 | [Serotonin](https://open.spotify.com/track/3t7tyGtMWPO9ON07NgrQVm) | [Parth Kamboj](https://open.spotify.com/artist/3nPa0lkAwrXNg0ceAhUDlF) | [Serotonin](https://open.spotify.com/album/41s2ef6T8EwMmCu27upqWy) | 2:24 |
-| 41 | [Log Kehte Hai](https://open.spotify.com/track/2OTD4zVHbNxHsYryK0EjHZ) | [Poet Shaf](https://open.spotify.com/artist/5qlreh49Z5Pwrk8QmQob6b) | [Log Kehte Hai](https://open.spotify.com/album/4xshACUOeSdMdNgfFoSpSp) | 3:55 |
+| 41 | [Log Kehte Hai](https://open.spotify.com/track/2OTD4zVHbNxHsYryK0EjHZ) | [Poet Shaf](https://open.spotify.com/artist/5qlreh49Z5Pwrk8QmQob6b), [Niranjan Sarbi](https://open.spotify.com/artist/4dUD7NDXQiGSyo6dBuRUx4) | [Log Kehte Hai](https://open.spotify.com/album/4xshACUOeSdMdNgfFoSpSp) | 3:55 |
 | 42 | [Kya Bata](https://open.spotify.com/track/4ZSHIAHWW4J94xb0y29R06) | [Sashwat](https://open.spotify.com/artist/6WDcM5HzhOssmNxlC1twpB), [Shauk](https://open.spotify.com/artist/7GZQqgpRKJMTehxFDPmVt3) | [Kya Bata](https://open.spotify.com/album/09TZ0CBgJcOGbCjFN7TbEs) | 1:57 |
 | 43 | [Sab Set Hai](https://open.spotify.com/track/6HlsFdX5LhnFyKX5To8VyG) | [Raga](https://open.spotify.com/artist/4MJZBb8KABfKw0gzfgacpO), [Panther](https://open.spotify.com/artist/1HnV8VaGdip3y1SpJPgft0) | [Sab Set Hai](https://open.spotify.com/album/5hfgYC8gBhpYXAJpv54LFR) | 2:39 |
 | 44 | [Hot Wheels](https://open.spotify.com/track/5kgtw7roBC1DDaTZWfy4xm) | [Pancham](https://open.spotify.com/artist/3huoY1OXYvL515nDMJeVMj), [Suraj Iyer](https://open.spotify.com/artist/4blzwsKMNhnNCFtlJ7p1SL), [Prissha](https://open.spotify.com/artist/61GLxQPP4ljtcOGVckN2x0), [Calm](https://open.spotify.com/artist/10qWcrbcxZeuyHHQO1hXxE) | [Hot Wheels](https://open.spotify.com/album/1939SbBgo5Jpgtu6tB9Yoe) | 2:26 |

@@ -4,7 +4,7 @@
 
 > Bien Chaka con LOS DOS DE TAMAULIPAS & the hottest Corridos in the U.S.
 
-603 songs - 1 day 6 hr 0 min
+604 songs - 1 day 6 hr 2 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -104,7 +104,7 @@
 | [Chambeando Recio](https://open.spotify.com/track/5GUn6oyW713HWxE9F1Xp0T) | [LEGADO 7](https://open.spotify.com/artist/7yCGrS6Xh3UngvY6Ad5sMJ) | [Chambeando Recio](https://open.spotify.com/album/5iYuRSAA6tEhTDAOBhTDff) | 2:37 | 2022-05-20 | 2022-12-24 |
 | [Changuito Me Apodaron](https://open.spotify.com/track/0v8cA0p513Il0GvPeNVuk9) | [Grupo Feroz](https://open.spotify.com/artist/3ZZ34mIzBjDmgfyGcU9D4r) | [Changuito Me Apodaron](https://open.spotify.com/album/1CMvKp1MBcw2f07BlXMIZu) | 2:43 | 2025-09-24 |  |
 | [CHEVROLET 90](https://open.spotify.com/track/6XnQxJ4Xc9gAB6QhF44LVY) | [Rey Quinto](https://open.spotify.com/artist/7EpdzasUopr1eDw9i66Of0) | [V \- EP](https://open.spotify.com/album/1KIUFaKSmfJKfkEv2wQoP5) | 2:01 | 2026-04-03 | 2026-06-20 |
-| [Chiclona](https://open.spotify.com/track/0Gfj3PJYYEXmhV0Qla5HQc) | [LENCHO](https://open.spotify.com/artist/34pmYm95tyjrnk8Cbj6nFo) | [Chiclona](https://open.spotify.com/album/5M4EVI6HzUPtzVtCLGqtB3) | 2:40 | 2025-12-12 |  |
+| [Chiclona](https://open.spotify.com/track/0Gfj3PJYYEXmhV0Qla5HQc) | [LENCHO](https://open.spotify.com/artist/34pmYm95tyjrnk8Cbj6nFo) | [Chiclona](https://open.spotify.com/album/5M4EVI6HzUPtzVtCLGqtB3) | 2:40 | 2025-12-12 | 2026-11-27 |
 | [chiclona](https://open.spotify.com/track/4icM6ny646bWf318ws9LWz) | [Peso Pluma](https://open.spotify.com/artist/12GqGscKJx3aE4t07u7eVZ), [Tito Double P](https://open.spotify.com/artist/5eumcnUkdmGvkvcsx1WFNG), [LENCHO](https://open.spotify.com/artist/34pmYm95tyjrnk8Cbj6nFo) | [chiclona](https://open.spotify.com/album/2Q2s3dFmw5MHEgvpz8Wu6n) | 2:41 | 2026-07-17 | 2026-08-28 |
 | [Chingandole Macizo](https://open.spotify.com/track/7d6Om5zkPVABcMU9dat8kF) | [Luis R Conriquez](https://open.spotify.com/artist/0pePYDrJGk8gqMRbXrLJC8) | [Corridos Bélicos, Vol\. 2](https://open.spotify.com/album/5WWAwbRCM3CyiZNO9rsfWS) | 2:34 | 2022-05-20 | 2023-03-04 |
 | [Cholo 7](https://open.spotify.com/track/06ONHS2cu9I7fvzTz3NQvq) | [Fuerza Regida](https://open.spotify.com/artist/0ys2OFYzWYB5hRDLCsBqxt), [Luis R Conriquez](https://open.spotify.com/artist/0pePYDrJGk8gqMRbXrLJC8) | [Cholo 7](https://open.spotify.com/album/2DqUzBO8R3Aw4q26PDjV1t) | 2:37 | 2024-11-08 | 2026-07-04 |
@@ -483,6 +483,7 @@
 | [Por Las Calles Se Rumora](https://open.spotify.com/track/3n04GXpNrmDIoSgM4bZHug) | [Ruben Figueroa](https://open.spotify.com/artist/39sUQ6z3CTsNB4BhBecLOg) | [Por Las Calles Se Rumora](https://open.spotify.com/album/7gpWpGPOjmtpKgUJAjnh2R) | 4:10 | 2022-05-20 | 2022-06-06 |
 | [Por Si Acaso](https://open.spotify.com/track/0FBQk9b2mveexdjaiZhySz) | [Herencia de Patrones](https://open.spotify.com/artist/1Q6SZxTvaE3HhslV0iXbI6), [Grupo Triple L](https://open.spotify.com/artist/63VkI7oaQL2Ou1KH9FhN3k) | [Por Si Acaso](https://open.spotify.com/album/3bhs4igaxstdRBeZHfahiP) | 3:18 | 2022-05-20 | 2023-09-09 |
 | [Por Si Se Les Olvidaba](https://open.spotify.com/track/0rR7MiMnCmNTH7sIrxZdl7) | [Luis R Conriquez](https://open.spotify.com/artist/0pePYDrJGk8gqMRbXrLJC8), [Alex Torres](https://open.spotify.com/artist/70u0ytxL7TpF1Kdc2HFyM2) | [Por Si Se Les Olvidaba](https://open.spotify.com/album/3FB9u2hi89iWalsZVrZDck) | 2:40 | 2024-10-04 | 2024-10-19 |
+| [PORSCHE](https://open.spotify.com/track/6XPVScZDwye5k7WNDyOkHm) | [Cito](https://open.spotify.com/artist/5yTWELZtBTwUxovdzOrZJr) | [PORSCHE](https://open.spotify.com/album/2Ax7AHL3MpvBqNtFMpPgzY) | 2:20 | 2026-11-26 |  |
 | [Porte de Scarface](https://open.spotify.com/track/4racXk6nohLnSR3KtBtUin) | [Chuy Montana](https://open.spotify.com/artist/12KipYva9312KrSBekytFE) | [Porte de Scarface](https://open.spotify.com/album/6l4XTVc1ZD9DidTb7GsUtX) | 2:52 | 2024-03-22 | 2024-04-19 |
 | [Porte de Scarface](https://open.spotify.com/track/5KX5GVCWkqAhGOaPGaLIBK) | [Chuy Montana](https://open.spotify.com/artist/12KipYva9312KrSBekytFE) | [Porte de Scarface](https://open.spotify.com/album/5bircs6AOMJQprSwCyAhnp) | 2:52 | 2023-04-21 | 2024-12-07 |
 | [Porte Exuberante](https://open.spotify.com/track/4DdnffqoFr9wDRlCACNmGf) | [Natanael Cano](https://open.spotify.com/artist/0elWFr7TW8piilVRYJUe4P), [Oscar Maydon](https://open.spotify.com/artist/3l9G1G9MxH6DaRhwLklaf5) | [A Mis 20](https://open.spotify.com/album/4TATXEH2tnZVTqlyURoWUR) | 3:33 | 2022-05-20 | 2023-05-16 |

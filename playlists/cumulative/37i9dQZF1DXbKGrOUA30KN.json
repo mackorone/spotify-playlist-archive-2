@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2025-10-28",
-  "description": "Deutschpop, der jetzt passiert. Cover: Kauta, Mucco",
+  "description": "Deutschpop, der jetzt passiert. Cover: verifiziert",
   "name": "POPLAND",
   "tracks": [
     {
@@ -20,6 +20,24 @@
       "duration_ms": 164370,
       "name": "\"Normalgewicht\"",
       "url": "https://open.spotify.com/track/7HIuexcb4clBhAupfX6als"
+    },
+    {
+      "album": {
+        "name": "(d)ein rockstar",
+        "url": "https://open.spotify.com/album/3fellso0V9l99r1sGNeXTK"
+      },
+      "artists": [
+        {
+          "name": "yola",
+          "url": "https://open.spotify.com/artist/6rLUiFCfqWOUPgrfHccwkF"
+        }
+      ],
+      "date_added": "2026-11-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 171432,
+      "name": "(d)ein rockstar",
+      "url": "https://open.spotify.com/track/1zyJbdYlXPER6n17YVmMMI"
     },
     {
       "album": {
@@ -566,7 +584,7 @@
       ],
       "date_added": "2026-11-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-27",
       "duration_ms": 211289,
       "name": "Alles anders",
       "url": "https://open.spotify.com/track/3Wqp1uFqEP2yhdj7OnpvGG"
@@ -905,6 +923,24 @@
     },
     {
       "album": {
+        "name": "am ende",
+        "url": "https://open.spotify.com/album/0OUsE9V3jyAjs0zaXN9plf"
+      },
+      "artists": [
+        {
+          "name": "Ma\u00ebl & Jonas",
+          "url": "https://open.spotify.com/artist/1JIyU8QP1uefijZtptLeTp"
+        }
+      ],
+      "date_added": "2026-11-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 198826,
+      "name": "am ende",
+      "url": "https://open.spotify.com/track/0G0uo03rgTNoVfg7ies9vs"
+    },
+    {
+      "album": {
         "name": "Am Ende dieses Lieds",
         "url": "https://open.spotify.com/album/0uI04hH5PgQPyj5xWXOlFq"
       },
@@ -920,6 +956,24 @@
       "duration_ms": 168912,
       "name": "Am Ende dieses Lieds",
       "url": "https://open.spotify.com/track/0EhfipW0dxhg0bESywNyAp"
+    },
+    {
+      "album": {
+        "name": "an die hand nehmen",
+        "url": "https://open.spotify.com/album/5YhyFTDngpTKNQY5SQL1LB"
+      },
+      "artists": [
+        {
+          "name": "Lilli",
+          "url": "https://open.spotify.com/artist/0EdqMUSITvHwlyAc5SwPcK"
+        }
+      ],
+      "date_added": "2026-11-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 175360,
+      "name": "an die hand nehmen",
+      "url": "https://open.spotify.com/track/1qNofgfY5scqOq1NqvTuc4"
     },
     {
       "album": {
@@ -1815,6 +1869,24 @@
     },
     {
       "album": {
+        "name": "Bis Dann",
+        "url": "https://open.spotify.com/album/0QbxpXZcybNPuiLj8XSj2W"
+      },
+      "artists": [
+        {
+          "name": "bac",
+          "url": "https://open.spotify.com/artist/1ABhalCH6yn3eS3T46KmvF"
+        }
+      ],
+      "date_added": "2026-11-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 229546,
+      "name": "Bis Dann",
+      "url": "https://open.spotify.com/track/0fmZ01u3ZYd15pEyJu400s"
+    },
+    {
+      "album": {
         "name": "bis du mich fallen l\u00e4sst",
         "url": "https://open.spotify.com/album/6oymu7bgwmhhaTOPEF1u9H"
       },
@@ -2036,6 +2108,28 @@
       "duration_ms": 182008,
       "name": "Bring mich nach Haus",
       "url": "https://open.spotify.com/track/07NDaezeYAJ2FoXxoE8GUC"
+    },
+    {
+      "album": {
+        "name": "Bringst du mir das bei",
+        "url": "https://open.spotify.com/album/5JPZIOiVCwX0zrfAqUEm7O"
+      },
+      "artists": [
+        {
+          "name": "fiora",
+          "url": "https://open.spotify.com/artist/757EH7oogI3l10jrOicVzE"
+        },
+        {
+          "name": "Jonny Mahoro",
+          "url": "https://open.spotify.com/artist/6yo5P4iDSOU6JnCRGJfU98"
+        }
+      ],
+      "date_added": "2026-11-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 142040,
+      "name": "Bringst du mir das bei",
+      "url": "https://open.spotify.com/track/7l3t41HQhAGVZ28ccONm5t"
     },
     {
       "album": {
@@ -2302,7 +2396,7 @@
       ],
       "date_added": "2026-11-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-27",
       "duration_ms": 177019,
       "name": "Countrysong",
       "url": "https://open.spotify.com/track/4y0phObRg4w3BceS1BNNFf"
@@ -2988,7 +3082,7 @@
       ],
       "date_added": "2026-11-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-27",
       "duration_ms": 133333,
       "name": "DENIM",
       "url": "https://open.spotify.com/track/42S4UM0ZyvHsemaXrOODc9"
@@ -3064,6 +3158,24 @@
       "duration_ms": 208040,
       "name": "der kleinste mensch der welt",
       "url": "https://open.spotify.com/track/2RuhIkouqj8ebFcSrxnzTa"
+    },
+    {
+      "album": {
+        "name": "Der letzte Tag",
+        "url": "https://open.spotify.com/album/72oXXP5U9JylJK5wi4Edqt"
+      },
+      "artists": [
+        {
+          "name": "JORIS",
+          "url": "https://open.spotify.com/artist/7BKePXVmQRgnkbGcrFX1G4"
+        }
+      ],
+      "date_added": "2026-11-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 224328,
+      "name": "Der letzte Tag",
+      "url": "https://open.spotify.com/track/1qVIL42W7r9EWGagXb5VBg"
     },
     {
       "album": {
@@ -3742,7 +3854,7 @@
       ],
       "date_added": "2026-11-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-27",
       "duration_ms": 185480,
       "name": "Egoist",
       "url": "https://open.spotify.com/track/1MO6DrAce5UOrlqMVLz9BV"
@@ -3832,7 +3944,7 @@
       ],
       "date_added": "2026-11-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-27",
       "duration_ms": 167741,
       "name": "ein bisschen mehr f\u00fcr dich",
       "url": "https://open.spotify.com/track/6xWrKgkFOGF1E9pf416aDH"
@@ -4108,6 +4220,24 @@
       "duration_ms": 137475,
       "name": "Elefantastisch",
       "url": "https://open.spotify.com/track/0VwQrqWfGbuUjSjTaWB7Ac"
+    },
+    {
+      "album": {
+        "name": "unversch\u00e4mt",
+        "url": "https://open.spotify.com/album/2Q7Ll7mg6aPbyGsLsin1zw"
+      },
+      "artists": [
+        {
+          "name": "Katha Pauer",
+          "url": "https://open.spotify.com/artist/2YxWusBgSh4BLJdypUbFbC"
+        }
+      ],
+      "date_added": "2026-11-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 223666,
+      "name": "Ende",
+      "url": "https://open.spotify.com/track/0PuSWSVcvKqYCpDggD5hL5"
     },
     {
       "album": {
@@ -5527,6 +5657,28 @@
     },
     {
       "album": {
+        "name": "GPS",
+        "url": "https://open.spotify.com/album/0B9SPMHI4EuenFj2U6ZDA9"
+      },
+      "artists": [
+        {
+          "name": "benno!",
+          "url": "https://open.spotify.com/artist/1EZIni3W4CmC2bTy75Q053"
+        },
+        {
+          "name": "badm\u00f3mzjay",
+          "url": "https://open.spotify.com/artist/7oWrEQO1d3klp0Qrfh7a5h"
+        }
+      ],
+      "date_added": "2026-11-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 167576,
+      "name": "GPS",
+      "url": "https://open.spotify.com/track/5eYChxZMYjv9DXkVCbIzo9"
+    },
+    {
+      "album": {
         "name": "Graue Maus",
         "url": "https://open.spotify.com/album/3Prrtkokc6O9F9rAxxSlPV"
       },
@@ -6807,6 +6959,24 @@
     },
     {
       "album": {
+        "name": "ich hab genauso angst wie du",
+        "url": "https://open.spotify.com/album/0gdwNHikW88NQCgi2fcm24"
+      },
+      "artists": [
+        {
+          "name": "verifiziert",
+          "url": "https://open.spotify.com/artist/1SF4jakSq8kI38MYjFdaJG"
+        }
+      ],
+      "date_added": "2026-11-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 166321,
+      "name": "ich hab genauso angst wie du",
+      "url": "https://open.spotify.com/track/0OvDEcF9I7mpInyMrKvvrR"
+    },
+    {
+      "album": {
         "name": "ICH HAB'S GUT, ICH HAB DICH",
         "url": "https://open.spotify.com/album/0HwmC3bl3rmAWjUh2yevdm"
       },
@@ -7034,7 +7204,7 @@
       ],
       "date_added": "2026-10-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-27",
       "duration_ms": 138095,
       "name": "Ich vermisse mich",
       "url": "https://open.spotify.com/track/6bHkrScCGqNcgIVDDKhaDW"
@@ -7154,7 +7324,7 @@
       ],
       "date_added": "2026-10-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-27",
       "duration_ms": 207508,
       "name": "Ich will nur dass du wei\u00dft - JazzDP",
       "url": "https://open.spotify.com/track/1DqewkQFNP75JnKOcoCaTW"
@@ -8494,7 +8664,7 @@
       ],
       "date_added": "2026-09-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-27",
       "duration_ms": 158997,
       "name": "KOPF AUS HERZ AUF",
       "url": "https://open.spotify.com/track/3XlF5qXcaqtINvTMPYLAKY"
@@ -8794,7 +8964,7 @@
       ],
       "date_added": "2026-10-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-27",
       "duration_ms": 119207,
       "name": "lauf auf lego",
       "url": "https://open.spotify.com/track/5qmZXCnP1n3O1tGA7lKvs8"
@@ -9188,7 +9358,7 @@
       ],
       "date_added": "2026-10-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-27",
       "duration_ms": 197966,
       "name": "Liebe findet immer ihren Weg",
       "url": "https://open.spotify.com/track/3mRpRAmA0BJnVTRL26pEOH"
@@ -9600,7 +9770,7 @@
       ],
       "date_added": "2026-11-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-27",
       "duration_ms": 149142,
       "name": "M3",
       "url": "https://open.spotify.com/track/4nmVAcrJlr7P9EHJWjAOuu"
@@ -10168,7 +10338,7 @@
       ],
       "date_added": "2026-11-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-27",
       "duration_ms": 124909,
       "name": "Melody",
       "url": "https://open.spotify.com/track/639XKHDNrrjMUDvSv52mRq"
@@ -10868,6 +11038,24 @@
       "duration_ms": 150000,
       "name": "Nicht Naiv",
       "url": "https://open.spotify.com/track/3kDDrcWxh4FSEb15xkwAes"
+    },
+    {
+      "album": {
+        "name": "Nicht Verliebt",
+        "url": "https://open.spotify.com/album/2wnhOdWh5vMaqRmXG2dneO"
+      },
+      "artists": [
+        {
+          "name": "Ellice",
+          "url": "https://open.spotify.com/artist/7sAaTbbHDafboXdSERjtEl"
+        }
+      ],
+      "date_added": "2026-11-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 165000,
+      "name": "Nicht Verliebt",
+      "url": "https://open.spotify.com/track/4heikGZhOysj6ry7m8nGVk"
     },
     {
       "album": {
@@ -11675,6 +11863,24 @@
     },
     {
       "album": {
+        "name": "Paradiso",
+        "url": "https://open.spotify.com/album/0cnVbaPWskjj8fmPj9IIhk"
+      },
+      "artists": [
+        {
+          "name": "Frida Gold",
+          "url": "https://open.spotify.com/artist/1Q229kIsASlkUb3VBeQmIL"
+        }
+      ],
+      "date_added": "2026-11-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 179000,
+      "name": "Paradiso",
+      "url": "https://open.spotify.com/track/2TSOOjGbiABNOHmYps1Wlw"
+    },
+    {
+      "album": {
         "name": "Parodie",
         "url": "https://open.spotify.com/album/3urty4veH7Dgx0Kfz1aTZc"
       },
@@ -11748,6 +11954,24 @@
       "duration_ms": 161573,
       "name": "Pass auf wen du liebst",
       "url": "https://open.spotify.com/track/4WwMweQmprMBDQZVVAV5a5"
+    },
+    {
+      "album": {
+        "name": "Pauli",
+        "url": "https://open.spotify.com/album/3j5KiPmTdsGHf8gcP1gWrW"
+      },
+      "artists": [
+        {
+          "name": "Charlotte Kudella",
+          "url": "https://open.spotify.com/artist/237KrHWanV4SzWmqWRdpyg"
+        }
+      ],
+      "date_added": "2026-11-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 174160,
+      "name": "Pauli",
+      "url": "https://open.spotify.com/track/119VKm7XMBpl6DNyr8EkEX"
     },
     {
       "album": {
@@ -13174,7 +13398,7 @@
       ],
       "date_added": "2026-11-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-27",
       "duration_ms": 273994,
       "name": "Solange Dein Herz schl\u00e4gt (Herztrilogie III)",
       "url": "https://open.spotify.com/track/5fpvDUn1rivW2zyj0Nmm45"
@@ -14425,6 +14649,24 @@
     },
     {
       "album": {
+        "name": "verlieb mich in die falschen",
+        "url": "https://open.spotify.com/album/6MJdqicBHTA0MOT75kls9S"
+      },
+      "artists": [
+        {
+          "name": "ana\u00efs",
+          "url": "https://open.spotify.com/artist/5uT4SmzhWTYv1iia2BFnVQ"
+        }
+      ],
+      "date_added": "2026-11-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 151209,
+      "name": "verlieb mich in die falschen",
+      "url": "https://open.spotify.com/track/5dnvJSFSHfatpS6Lue9cT6"
+    },
+    {
+      "album": {
         "name": "VERLIEBT IN MICH",
         "url": "https://open.spotify.com/album/1mgjUkBHhJLQlrcxtC3QOX"
       },
@@ -15380,7 +15622,7 @@
       ],
       "date_added": "2026-11-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-27",
       "duration_ms": 156130,
       "name": "Wenn das Liebe ist",
       "url": "https://open.spotify.com/track/19GL1hN4fmnx2APmFOYsYg"
@@ -15821,6 +16063,24 @@
     },
     {
       "album": {
+        "name": "Wie Beim Ersten Mal",
+        "url": "https://open.spotify.com/album/6AppSeN8ZrYG51rih3B6Ob"
+      },
+      "artists": [
+        {
+          "name": "Tom Twers",
+          "url": "https://open.spotify.com/artist/6Vg9ZTblAIMeOiRCgyzJzO"
+        }
+      ],
+      "date_added": "2026-11-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 125500,
+      "name": "Wie Beim Ersten Mal",
+      "url": "https://open.spotify.com/track/3xyYiXnmjFfApJCLlAllU3"
+    },
+    {
+      "album": {
         "name": "Wie Du",
         "url": "https://open.spotify.com/album/3jYqCP7LOWZWYEAcSPnQv9"
       },
@@ -16164,7 +16424,7 @@
       ],
       "date_added": "2026-11-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-27",
       "duration_ms": 167993,
       "name": "Wird schon wieder leichter",
       "url": "https://open.spotify.com/track/5P3xFJrPQG29gG4HKEA7iK"
@@ -16414,6 +16674,24 @@
       "duration_ms": 152856,
       "name": "yin und yang",
       "url": "https://open.spotify.com/track/3uEWjrFM2sY2eRPrR7msZq"
+    },
+    {
+      "album": {
+        "name": "Unkaputt",
+        "url": "https://open.spotify.com/album/141Rv6KOkn6S9KCWQdY0ty"
+      },
+      "artists": [
+        {
+          "name": "S\u00f6hne Mannheims",
+          "url": "https://open.spotify.com/artist/7xCzwxwDwXTTCtjcWBoNow"
+        }
+      ],
+      "date_added": "2026-11-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 178200,
+      "name": "You Don't Burn Me",
+      "url": "https://open.spotify.com/track/43uZodcCf9PfmS7hgkSXBa"
     },
     {
       "album": {

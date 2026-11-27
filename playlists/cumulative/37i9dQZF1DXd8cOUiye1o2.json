@@ -1530,7 +1530,7 @@
       ],
       "date_added": "2026-11-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-27",
       "duration_ms": 144502,
       "name": "All That I Have",
       "url": "https://open.spotify.com/track/24XA6nrVoP57Tik49MxEGh"
@@ -5260,7 +5260,7 @@
       ],
       "date_added": "2026-11-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-27",
       "duration_ms": 169729,
       "name": "Chashm-E-Baddoor",
       "url": "https://open.spotify.com/track/5JSbIlIaRZ9ZbUsTZnaMlK"
@@ -5821,6 +5821,10 @@
         "url": "https://open.spotify.com/album/436Cud9mcsSmaMT5ASWSLF"
       },
       "artists": [
+        {
+          "name": "Samad - Bharath",
+          "url": "https://open.spotify.com/artist/5RzGM81zRc77CEAZVCWFxN"
+        },
         {
           "name": "Samad Khan",
           "url": "https://open.spotify.com/artist/1eRjjSUHqx9F7yJQeahZOW"
@@ -6574,7 +6578,7 @@
       ],
       "date_added": "2026-11-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-27",
       "duration_ms": 319090,
       "name": "Dhola Ji - From \"Suryaa\"",
       "url": "https://open.spotify.com/track/2fMJcKSDhbSEkN1v7pOXGi"
@@ -7787,6 +7791,32 @@
     },
     {
       "album": {
+        "name": "Dobara Nahi",
+        "url": "https://open.spotify.com/album/4Qco6mRrD20Cg9Snf6uNH0"
+      },
+      "artists": [
+        {
+          "name": "Faheem Abdullah",
+          "url": "https://open.spotify.com/artist/05etL4pzWd6TSv1x5WrlG3"
+        },
+        {
+          "name": "Duha Shah",
+          "url": "https://open.spotify.com/artist/3l1qBa4ZTuNfYOap9WGbDQ"
+        },
+        {
+          "name": "Hyder Dar",
+          "url": "https://open.spotify.com/artist/7Khu2sHjq6VFAfiRLql5tt"
+        }
+      ],
+      "date_added": "2026-11-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 212061,
+      "name": "Dobara Nahi",
+      "url": "https://open.spotify.com/track/0Kw5ADD3mt1DUoNsw6r6Ex"
+    },
+    {
+      "album": {
         "name": "Dooriyan",
         "url": "https://open.spotify.com/album/2tyl3fdhWAv9FOsQQayozu"
       },
@@ -7832,6 +7862,36 @@
       "duration_ms": 232000,
       "name": "Doriyaan",
       "url": "https://open.spotify.com/track/764M4Kbrhr4eovUiGTKE61"
+    },
+    {
+      "album": {
+        "name": "Dua",
+        "url": "https://open.spotify.com/album/0lj0WZrqnXtPj6vXLccJ2H"
+      },
+      "artists": [
+        {
+          "name": "Dhvani Bhanushali",
+          "url": "https://open.spotify.com/artist/1OPqAyxsQc8mcRmoNBAnVk"
+        },
+        {
+          "name": "Goldie Sohel",
+          "url": "https://open.spotify.com/artist/5Y9YGMxRoQYfJFj4kJ9TVv"
+        },
+        {
+          "name": "Sukhamrit Soin",
+          "url": "https://open.spotify.com/artist/6JbCipvhHBf6c9D4ocTm74"
+        },
+        {
+          "name": "Arafat Mehmood",
+          "url": "https://open.spotify.com/artist/23CFIqxATE8yL1OTX6j8ad"
+        }
+      ],
+      "date_added": "2026-11-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 176666,
+      "name": "Dua",
+      "url": "https://open.spotify.com/track/38fOmI1zgqrc4nhgW7Nzse"
     },
     {
       "album": {
@@ -15663,6 +15723,28 @@
     },
     {
       "album": {
+        "name": "MUJHAY HURT HO RAHA HAI",
+        "url": "https://open.spotify.com/album/13jyyvwqgKBLkdyUJT0Q8q"
+      },
+      "artists": [
+        {
+          "name": "Janisht Joshi",
+          "url": "https://open.spotify.com/artist/0lxFJDXOwwxbYpo0EnA51Z"
+        },
+        {
+          "name": "Unkill ji",
+          "url": "https://open.spotify.com/artist/37IDTCYm9GJTwptgygP8Wz"
+        }
+      ],
+      "date_added": "2026-11-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 165187,
+      "name": "LAACHAARI",
+      "url": "https://open.spotify.com/track/2m3CEkcrp1yai5RYTD9I3F"
+    },
+    {
+      "album": {
         "name": "GLORY (Soundtrack from the Netflix Series)",
         "url": "https://open.spotify.com/album/1uX3ViFpG09nXhrzUWGZvs"
       },
@@ -16168,7 +16250,7 @@
       ],
       "date_added": "2026-11-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-27",
       "duration_ms": 176000,
       "name": "Maahi",
       "url": "https://open.spotify.com/track/7kI2yFDNIAsZXiK5JNXWa2"
@@ -16624,7 +16706,7 @@
       ],
       "date_added": "2026-11-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-27",
       "duration_ms": 275861,
       "name": "Mai Vapas Aaunga",
       "url": "https://open.spotify.com/track/62amXebZcBcFlCl9b6554u"
@@ -18232,6 +18314,36 @@
       "duration_ms": 166092,
       "name": "Milta Nahi Hai",
       "url": "https://open.spotify.com/track/6wza6SdUG6VOiyxS4zcx9J"
+    },
+    {
+      "album": {
+        "name": "Mirch Masala (From \"Eetha\")",
+        "url": "https://open.spotify.com/album/50IrLvRCcN5H0VVnRkUS5O"
+      },
+      "artists": [
+        {
+          "name": "Ajay-Atul",
+          "url": "https://open.spotify.com/artist/5fvTHKKzW44A9867nPDocM"
+        },
+        {
+          "name": "Shreya Ghoshal",
+          "url": "https://open.spotify.com/artist/0oOet2f43PA68X5RxKobEy"
+        },
+        {
+          "name": "Madhura Datar",
+          "url": "https://open.spotify.com/artist/5OnHjG8OFg5HCpmbxTuxBL"
+        },
+        {
+          "name": "Amitabh Bhattacharya",
+          "url": "https://open.spotify.com/artist/2fMqTqiTxUDlmcOEPaQSsx"
+        }
+      ],
+      "date_added": "2026-11-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 360369,
+      "name": "Mirch Masala - From \"Eetha\"",
+      "url": "https://open.spotify.com/track/44gJALUFdHSwTWSwlyWGaz"
     },
     {
       "album": {
@@ -24799,6 +24911,24 @@
     },
     {
       "album": {
+        "name": "Silsila",
+        "url": "https://open.spotify.com/album/4WEjzWypOSVS8t0aDXqTrb"
+      },
+      "artists": [
+        {
+          "name": "Arushi Bhargava",
+          "url": "https://open.spotify.com/artist/1ZLEyi8wBNl5rRMjGzvhbu"
+        }
+      ],
+      "date_added": "2026-11-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 236885,
+      "name": "Silsila",
+      "url": "https://open.spotify.com/track/1aW5duMQwwvck2WJe2CdPk"
+    },
+    {
+      "album": {
         "name": "Namit Malhotra\u2019s Ramayana [HINDI]",
         "url": "https://open.spotify.com/album/5IlDk38rZZ5AOuomqtaxAJ"
       },
@@ -25396,7 +25526,7 @@
       ],
       "date_added": "2026-11-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-27",
       "duration_ms": 249911,
       "name": "Suniyo Zara - From \"Suryaa\"",
       "url": "https://open.spotify.com/track/3lcRKHjf3iScAEWkqQW3Cw"
@@ -30694,6 +30824,32 @@
       "duration_ms": 237024,
       "name": "Zamaana Lage - Rewind (From \"Metro ... In Dino\")",
       "url": "https://open.spotify.com/track/7qiMLZ0fpTP5OMewYAo3Tn"
+    },
+    {
+      "album": {
+        "name": "Zara Poocho",
+        "url": "https://open.spotify.com/album/1OM46FgD1Z9nIV3LJUjtZA"
+      },
+      "artists": [
+        {
+          "name": "Abhijeet Srivastava",
+          "url": "https://open.spotify.com/artist/4FJhE5ToBQGzOGf0D5Xd1C"
+        },
+        {
+          "name": "Aanchal Tyagi",
+          "url": "https://open.spotify.com/artist/2Zk1S1jMx7YNHnGQi07off"
+        },
+        {
+          "name": "Shayra Apoorva",
+          "url": "https://open.spotify.com/artist/2l6dWCvNtJVgvF2oR7kUg8"
+        }
+      ],
+      "date_added": "2026-11-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 166265,
+      "name": "Zara Poocho",
+      "url": "https://open.spotify.com/track/3lGuHxZ7G5z6UMpUuLp1Ar"
     },
     {
       "album": {

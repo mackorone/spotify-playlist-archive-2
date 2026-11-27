@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2021-12-29",
-  "description": "Sweet afro melodies. Cover: Joeboy",
+  "description": "Sweet afro melodies. Cover: Bayanni",
   "name": "Ginja",
   "tracks": [
     {
@@ -1960,7 +1960,7 @@
       ],
       "date_added": "2026-03-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-27",
       "duration_ms": 189714,
       "name": "Baami",
       "url": "https://open.spotify.com/track/5P8pUsmXV23EcLGLF15mG8"
@@ -19236,7 +19236,7 @@
       ],
       "date_added": "2026-08-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-27",
       "duration_ms": 145617,
       "name": "Sugarcane",
       "url": "https://open.spotify.com/track/4UaWK6d1o295r49cTKnAPk"
@@ -20278,6 +20278,24 @@
       "duration_ms": 175500,
       "name": "Tonight",
       "url": "https://open.spotify.com/track/5iyo28ttlgg0JvrXZaqSwM"
+    },
+    {
+      "album": {
+        "name": "LOTHARIO",
+        "url": "https://open.spotify.com/album/12uwo37wj6jfulOyeEBoC1"
+      },
+      "artists": [
+        {
+          "name": "Bayanni",
+          "url": "https://open.spotify.com/artist/6FbCERtE2CKqEWihHMYjcG"
+        }
+      ],
+      "date_added": "2026-11-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 156666,
+      "name": "Too Many",
+      "url": "https://open.spotify.com/track/4K2gYCSzMVgGxr34K224V9"
     },
     {
       "album": {
@@ -21683,6 +21701,28 @@
     },
     {
       "album": {
+        "name": "Whiskey",
+        "url": "https://open.spotify.com/album/2BnIG9ZtR8aB4kbPZAITOk"
+      },
+      "artists": [
+        {
+          "name": "Darkoo",
+          "url": "https://open.spotify.com/artist/4QSTyDpxsKmv3UfavVUImR"
+        },
+        {
+          "name": "FOLA",
+          "url": "https://open.spotify.com/artist/0FK1hXdXst70HD11n5J26z"
+        }
+      ],
+      "date_added": "2026-11-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 173155,
+      "name": "Whiskey",
+      "url": "https://open.spotify.com/track/02738G92Zhe8W7iCVxyVgY"
+    },
+    {
+      "album": {
         "name": "what a feeling",
         "url": "https://open.spotify.com/album/0NWBna7snlHKH0NJ2f3Skp"
       },
@@ -22447,6 +22487,24 @@
     },
     {
       "album": {
+        "name": "You & me",
+        "url": "https://open.spotify.com/album/02YNbbxxkEofWOEwTHAvOB"
+      },
+      "artists": [
+        {
+          "name": "Amma",
+          "url": "https://open.spotify.com/artist/3tzLeaebyww0SwtETRYRIm"
+        }
+      ],
+      "date_added": "2026-11-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 180000,
+      "name": "You & me",
+      "url": "https://open.spotify.com/track/148ryz0o7pqJhc5MyOVTTv"
+    },
+    {
+      "album": {
         "name": "You (Rum & Schnapp)",
         "url": "https://open.spotify.com/album/0LMjfmmG1XQIigfU9EewmJ"
       },
@@ -22728,7 +22786,7 @@
       ],
       "date_added": "2026-08-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-27",
       "duration_ms": 165600,
       "name": "ZERO",
       "url": "https://open.spotify.com/track/0A0guIoWqPINmiLwWu2Phg"

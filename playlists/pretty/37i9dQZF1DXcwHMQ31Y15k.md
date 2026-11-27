@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcwHMQ31Y15k.md) - [plain]
 
 > Sopo wae sing ngerti, yuk nyanyi sik\. Cover: Vandesta
 
-[Spotify](https://open.spotify.com/user/spotify) - 265,641 likes - 101 songs - 8 hr 24 min
+[Spotify](https://open.spotify.com/user/spotify) - 265,764 likes - 101 songs - 8 hr 24 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

@@ -4,7 +4,7 @@
 
 > Obama&\#x27;s actual playlist? Nope, just a fan who grouped all his summer song picks into one list\. \(2026, 2024 &amp; 2023 + bonus tracks\) Enjoy!
 
-6,749 songs - 15 day 17 hr 42 min
+6,753 songs - 15 day 17 hr 54 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -134,6 +134,7 @@
 | [A Roadie \(Some\)](https://open.spotify.com/track/62KRy6vbzdbxdYagoJ7jmv) | [Olive Light](https://open.spotify.com/artist/1MJX8SRpJR5KuMZwlVPFBL) | [A Roadie \(Some\)](https://open.spotify.com/album/1N2y7npauaGxN5XDRQdV5m) | 2:10 | 2025-10-30 | 2025-12-06 |
 | [a song to quit your job to](https://open.spotify.com/track/0mfGFeYDeO4mOIuiAqPxBU) | [Scoobert Doobert](https://open.spotify.com/artist/5zKkCi9E4L8p6aRiCSJVTn) | [a song to quit your job to](https://open.spotify.com/album/3eC2bNmztzh8ALa5g8FcZB) | 2:46 | 2022-01-08 | 2022-01-30 |
 | [A Thousand Days](https://open.spotify.com/track/0I4J0EAyOfEl9j8IdNjYCt) | [Friday Skye](https://open.spotify.com/artist/50X3rdrvet8wWM4PNtLhQj) | [A Thousand Days](https://open.spotify.com/album/3lzjkGuVhJ9O3DvIXUejYo) | 2:09 | 2024-05-20 | 2024-06-01 |
+| [A Thousand Highways](https://open.spotify.com/track/5f0ONwP20evXNGXOQyIyHU) | [Steve Mullaney](https://open.spotify.com/artist/41PgwnckDxw5iSOL7REZ8z) | [Good Water Steve Pearl Band](https://open.spotify.com/album/0aYYQdvGXqmFQIRtZLWfXL) | 3:48 | 2026-11-26 |  |
 | [A Thousand Seas](https://open.spotify.com/track/0cnctdkYZVgFkg6q5Nxm6L) | [Bone Nest](https://open.spotify.com/artist/0xWjVpyUgTeXnYWScqBEdq), [Chagiyobo](https://open.spotify.com/artist/0vhD3HRR0bCJP60KeffgYr), [Meltycanon](https://open.spotify.com/artist/3agnCimLdkVM3mc4PFJUxC) | [A Thousand Seas](https://open.spotify.com/album/4aTGG85hBck8a5RUUyXu00) | 2:22 | 2024-04-01 | 2024-04-14 |
 | [A Ti Te Gusta](https://open.spotify.com/track/2dLw69uvAgkq9NCa5bcl65) | [Solara](https://open.spotify.com/artist/7g925K1zEM0MxXCuhW6vaB) | [A Ti Te Gusta](https://open.spotify.com/album/1rAM5cCfnG0DXnhQMdJfyB) | 2:18 | 2021-04-24 | 2021-05-09 |
 | [A Tiempo](https://open.spotify.com/track/0yxkICdZGmhEXvMO9rrnmO) | [Doble Xx](https://open.spotify.com/artist/5GhCBaGHtfS7fnpkM0fzj3), [Bebo](https://open.spotify.com/artist/2RZJw37GvJoKmeDNlUmfDq), [Deluxx](https://open.spotify.com/artist/6dgkLkqmuaQlrArIuRHwxq) | [A Tiempo](https://open.spotify.com/album/1rOuHzHF7mhFKA5H5UtAlI) | 2:24 | 2025-01-26 | 2025-02-07 |
@@ -1581,6 +1582,7 @@
 | [Don't Want You](https://open.spotify.com/track/0JdJYG1Utuq5bL9lZ1Hjdy) | [Elijah Parham](https://open.spotify.com/artist/25YJk0CscumhEfX5eZ37tQ) | [Caving](https://open.spotify.com/album/6wgWqeGy6QJpyWzu1P7bXK) | 3:26 | 2024-06-08 | 2024-06-20 |
 | [Don't Waste It](https://open.spotify.com/track/6YEgVSezyB2Ao8S8sTkG3A) | [Ley.na](https://open.spotify.com/artist/08CRMVMr48KpO1CdmOBwvV) | [Don't Waste It](https://open.spotify.com/album/3gjgoW5hY1qQc3vQqcXRhq) | 3:14 | 2025-09-18 | 2025-10-01 |
 | [Don't Worry Baby](https://open.spotify.com/track/5CA51pIAlOtnA6qDvTEmjs) | [Los Lobos](https://open.spotify.com/artist/6OWapcJm9xd55ci9CYbAuT) | [How Will the Wolf Survive?](https://open.spotify.com/album/5dl01XDIMXrmjJ22obqfhQ) | 2:49 | 2026-07-30 |  |
+| [don't you](https://open.spotify.com/track/2oazkde4Z9v5TQCNSq9cZK) | [Steve Stout](https://open.spotify.com/artist/13xgeb7Gr4pPS03s5gcvie) | [i wanna buy a beach house](https://open.spotify.com/album/49A2Vy9fwiVNaE8kS7zvXo) | 2:05 | 2026-11-26 |  |
 | [Don't You Forget About Me](https://open.spotify.com/track/1gUdr56ko9J7fZHHHN6nFh) | [Sara Melson](https://open.spotify.com/artist/1Kytaevw3xfR35imimNkaG) | [Don't You Forget About Me](https://open.spotify.com/album/5j8SuHgWHUHTygLbqVH8Rj) | 3:44 | 2025-10-16 | 2025-10-29 |
 | [Don't You Know](https://open.spotify.com/track/38d1M3vfvW3nOBaNHbMMwf) | [LorZzz](https://open.spotify.com/artist/0wZWiHVMV9Cp8trFwEVQsk) | [Don't You Know](https://open.spotify.com/album/4T5hbdHZbaCCowCH7Rh7nI) | 2:28 | 2024-06-18 | 2024-06-30 |
 | [Don't You Worry 'Bout A Thing](https://open.spotify.com/track/1QvWxgZvTU0w8rlPRE5Zrv) | [Stevie Wonder](https://open.spotify.com/artist/7guDJrEfX3qb6FEbdPA5qi) | [Innervisions](https://open.spotify.com/album/5jgI8Eminx9MmLBontDWq8) | 4:44 | 2019-09-29\* | 2020-09-01 |
@@ -2677,6 +2679,7 @@
 | [Hypeman](https://open.spotify.com/track/6QaYVH17E7T2Emfoqm5VQo) | [Marc.Made](https://open.spotify.com/artist/0RetzfhhE2S55u8bGEoySv) | [Hypeman](https://open.spotify.com/album/6zPVzW0VJ89CBU3ocwD4Qu) | 3:16 | 2020-12-04 | 2020-12-19 |
 | [Hypnotize](https://open.spotify.com/track/18mZ0jyw3dAWDgYUeTEQYD) | [Lala Chloe](https://open.spotify.com/artist/777UkFnLnvKiAJqlecalxh) | [Hypnotize](https://open.spotify.com/album/0fTacOnCz5mHZNdvbhzz97) | 4:15 | 2025-11-12 | 2025-12-19 |
 | [Hypnotized](https://open.spotify.com/track/4geBj8XbdKnVsw0y01bjLs) | [Band of Coyotes](https://open.spotify.com/artist/2q1a1UBuTh6weuuYsS4ibO) | [Hypnotized](https://open.spotify.com/album/5f6RMf6MuEejpFp5Bwb4bR) | 4:12 | 2024-09-27 | 2024-10-01 |
+| [Hypnotized](https://open.spotify.com/track/6qcBkRU7LCKJfqa84ICn9B) | [Boyan](https://open.spotify.com/artist/0Oro38xoxbaWM8qUopnYoJ), [Säm Wilder](https://open.spotify.com/artist/5ggPsCXzRhoyVoeMRvg32B) | [Hypnotized](https://open.spotify.com/album/2pDwzM1EOfqY5L2APM1DfF) | 3:45 | 2026-11-27 |  |
 | [Hypocrite](https://open.spotify.com/track/32TAddif0f0MlSbqVPOFgT) | [Allison Park](https://open.spotify.com/artist/5N1vEfUa50Brm3ciG2zZ7h) | [Hypocrite](https://open.spotify.com/album/1FlEhyKp6xOCPX5JC0nSyJ) | 4:09 | 2025-04-16 | 2025-05-08 |
 | [Hypocrite](https://open.spotify.com/track/5HiTnO0TxjIR5wWFoiQlT5) | [Compass](https://open.spotify.com/artist/0IeDag6Mjm397glEJwhKeA) | [Hypocrite](https://open.spotify.com/album/4uc50ROh0H3eNkS2sPDqoK) | 3:08 | 2023-04-03 | 2023-04-23 |
 | [I Ain't Worried](https://open.spotify.com/track/6BWvZQWWkfoD7j41jYNHql) | [The Ruffcats](https://open.spotify.com/artist/53TOTyDr7fq6y0tR5wufER), [Doug Shorts](https://open.spotify.com/artist/0Mqy0WLIhiV2g1WanUInzx) | [I Ain't Worried](https://open.spotify.com/album/7G6xaujV2Zld2vSo6816fZ) | 3:17 | 2026-03-03 | 2026-04-04 |
@@ -5452,6 +5455,7 @@
 | [Stupid Cupid](https://open.spotify.com/track/0vMRZycjJEBQTw5EYeKztq) | [Gemi Dream](https://open.spotify.com/artist/5SgNqTom9gLElyZ26cD0CI) | [Stupid Cupid](https://open.spotify.com/album/5kGoQQeR1KQxQmE5zmMty8) | 2:42 | 2024-02-19 | 2024-02-27 |
 | [Stupid Heart](https://open.spotify.com/track/4hsBVboU7ETKgjsnpHzwu9) | [Ronny Criss](https://open.spotify.com/artist/7fB9Oz2vNZm85s2t1rFfUK) | [Stupid Heart](https://open.spotify.com/album/0STm4yYrsnXJmZqwiTV0PJ) | 4:09 | 2026-02-20 | 2026-03-15 |
 | [Stupid Me](https://open.spotify.com/track/3yl0hK8awY340PpLYGuwZg) | [NIIVA](https://open.spotify.com/artist/0viMvQMmt8vK3TO2TAkbz1) | [NIIVA](https://open.spotify.com/album/4DoVWd6Ak9O9Qo5dUs8KEx) | 3:07 | 2021-02-19 | 2021-03-06 |
+| [Sturdy](https://open.spotify.com/track/1HMRm5TwO7uVRkO00U8MPb) | [Kimani](https://open.spotify.com/artist/59i7EZjgHlVzoxZvvCRWiX) | [Sturdy](https://open.spotify.com/album/1t1SXCrtvQ1ae1UZEfxEho) | 2:24 | 2026-11-27 |  |
 | [Stutter, Vol\. 2](https://open.spotify.com/track/2hbcCTN9V0W8s3I0Ji92IS) | [Antonio Sky](https://open.spotify.com/artist/02Evk0EwdPaRF3MZp0dKCH) | [Stutter, Vol\. 2](https://open.spotify.com/album/7EaHIM4CF9ibf5aZ5syd3F) | 3:39 | 2024-11-15 | 2024-11-27 |
 | [Subtext](https://open.spotify.com/track/4xr3p6e0lNigsmHhb22rkK) | [Wayne G Miller](https://open.spotify.com/artist/2X5c6ps8B7lt3K5yAaUFbR) | [Subtext](https://open.spotify.com/album/1WK8Vez2yzN0GR5zBiSo2p) | 2:46 | 2026-02-05 | 2026-03-11 |
 | [Sucka 4 U](https://open.spotify.com/track/0UFDa4PDpdM69t1FDaAXSJ) | [Morgan Taylor](https://open.spotify.com/artist/6aaFMlrrpvM8drt4IjyNph) | [Sucka 4 U](https://open.spotify.com/album/11r4U0e6ER09oLIeW7F5cJ) | 2:46 | 2024-02-14 | 2024-02-26 |

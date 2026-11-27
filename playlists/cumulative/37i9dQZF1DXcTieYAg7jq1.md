@@ -4,7 +4,7 @@
 
 > Featuring that new vintage\. Cover: Tiger Lewis
 
-626 songs - 1 day 11 hr 15 min
+629 songs - 1 day 11 hr 25 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -141,6 +141,7 @@
 | [downBAD](https://open.spotify.com/track/3bSnDv4C54Z8Fp4rhHs4w0) | [Stop Light Observations](https://open.spotify.com/artist/2EOIjdzbFGRM87IvJU34JJ) | [downBAD](https://open.spotify.com/album/0Yb29Jc2wTL7h2S1pKNp13) | 2:54 | 2022-04-15 | 2023-11-11 |
 | [Downsize](https://open.spotify.com/track/3SvYs68Wn1Z4U845Cdi0jg) | [Mills](https://open.spotify.com/artist/7MceGzCJ3bPNyErb440Izo) | [Final Thoughts](https://open.spotify.com/album/0PHkrjK9UIgFRM186LuR1q) | 3:01 | 2021-12-03 | 2022-07-28 |
 | [Dream Boy](https://open.spotify.com/track/45dJrdg8O7Rz1XAlffMc9N) | [Stacey Ryan](https://open.spotify.com/artist/3sXwEUqxSzb11VpuFa5cvJ) | [Dream Boy](https://open.spotify.com/album/0V7yLI80TezN9BNhpoUPW1) | 3:24 | 2023-10-27 | 2025-08-16 |
+| [Dreams](https://open.spotify.com/track/4QtsEj52kEsbCn2SgyKzlK) | [Allen Stone](https://open.spotify.com/artist/536osqBGKzeozje8BfcGsa) | [Dreams](https://open.spotify.com/album/0TxO2xq6bbYneqlShIcIrc) | 3:07 | 2026-11-27 |  |
 | [Dress Rehearsal](https://open.spotify.com/track/1zVsoNOPnuwQxpTeP5c7ot) | [Lindsey Lomis](https://open.spotify.com/artist/7qY2O8bWspXlSwQl5JAkvn) | [Dress Rehearsal](https://open.spotify.com/album/4Q0izijrtRFyKkO7CCfsGZ) | 2:15 | 2026-05-22 |  |
 | [Drifting Apart](https://open.spotify.com/track/5Pr6R1aGN7tk18HslPUrSW) | [Juke Ross](https://open.spotify.com/artist/3mDo5Nv0SWpslJe9HzA2xY) | [Chapter 2](https://open.spotify.com/album/3N5XKeovbZHLKdeORgHEJ1) | 3:29 | 2021-12-03 | 2022-12-24 |
 | [Drippin' In Love](https://open.spotify.com/track/2qCl9fSe6lVJFVA18nCZ5Z) | [Frankie Zulferino](https://open.spotify.com/artist/1e2qCgABcOAaTeqLHHFkvC) | [Drippin' In Love](https://open.spotify.com/album/7a2boCHqvpmp7S2jNOgp7K) | 4:05 | 2022-08-26 | 2023-02-18 |
@@ -154,6 +155,7 @@
 | [Ego Talking](https://open.spotify.com/track/3XGuVdPaYpIj48GOl711bK) | [Izzy Escobar](https://open.spotify.com/artist/63iuP8EumHpqaaMKyi0pxO) | [Ego Talking](https://open.spotify.com/album/5sW4mHXlHqny4w0d7ylyUi) | 2:55 | 2026-09-18 | 2026-10-24 |
 | [end credits](https://open.spotify.com/track/4IEGZYUSKkgWMy8vpp1Z7H) | [Sarah Kang](https://open.spotify.com/artist/0MBNzfGHTiPYag4DupDXUj) | [end credits](https://open.spotify.com/album/6ZgbXMymYOnmGTTgFcnmy2) | 4:08 | 2022-09-30 | 2023-05-27 |
 | [Euphoria](https://open.spotify.com/track/5B5TkWpRVYbwTalK5wmlif) | [Talia Rae](https://open.spotify.com/artist/4v6p8rTvDtYbnoegKY3mqr) | [Euphoria](https://open.spotify.com/album/0XsXNu1alb2oWNzN96sDpW) | 3:32 | 2026-03-20 |  |
+| [Even Roses Die](https://open.spotify.com/track/7boIu5FtLrXwEpkkU3t9Gw) | [Sarah Lola](https://open.spotify.com/artist/1BLuDhATwVggi6ciHsgNNe) | [Even Roses Die](https://open.spotify.com/album/3gia3qjf17hWWBLygoBST2) | 2:21 | 2026-11-27 |  |
 | [Every Day and Every Night](https://open.spotify.com/track/18WMlv400ZLzVuW33m8CGN) | [WILSN](https://open.spotify.com/artist/2ymjQZjPQe0pziQ67Y8Ncr) | [Those Days Are Over](https://open.spotify.com/album/08gZ1W70cqDTkOX5TsUZBf) | 2:54 | 2023-02-03 | 2025-09-20 |
 | [Everybody](https://open.spotify.com/track/01YZSZi4jNs7QjEXn6eM6Y) | [Spencer Sutherland](https://open.spotify.com/artist/6mjz3NMhNE5SK7GsbJIg6C) | [Everybody](https://open.spotify.com/album/5lMHqkGXjoC0pKVUV8IKzQ) | 3:17 | 2022-07-22 | 2024-10-05 |
 | [Face The River](https://open.spotify.com/track/4ESI02gRSgi4HlZMH0JDyF) | [Gavin DeGraw](https://open.spotify.com/artist/5DYAABs8rkY9VhwtENoQCz) | [Face The River](https://open.spotify.com/album/0ZMHcAWJPzZuNhk8R3UOi9) | 3:36 | 2022-04-15 | 2023-02-16 |
@@ -281,7 +283,7 @@
 | [In Water](https://open.spotify.com/track/2z6MgeDtMM8bpy3iJwr7QO) | [Bay Ledges](https://open.spotify.com/artist/7FhRUp59cBzPaxobsRY1Nc) | [In Water](https://open.spotify.com/album/6oADPnUSjOQjUEl4FffwHU) | 3:47 | 2022-04-22 | 2024-03-16 |
 | [Indicator](https://open.spotify.com/track/6JnryIdhlapiO1ZPV2AD4H) | [John The Blind](https://open.spotify.com/artist/12U3blX0ilxf0tnejqPDYD) | [Indicator](https://open.spotify.com/album/6ujiOVHXvy4ki58z4SCPoE) | 2:50 | 2026-02-06 |  |
 | [Infinite Love](https://open.spotify.com/track/4vbhm12kpJwFP9frdIlD1u) | [Lane Brothers](https://open.spotify.com/artist/5SzuidUf9uEZLC6E62BszN), [Grayson Lane](https://open.spotify.com/artist/7kcCf7qRizAKhmuvA1HF2q), [Garrett Lane](https://open.spotify.com/artist/6NBt7jdlOAZmnLvHwSw8TL) | [Lane Brothers](https://open.spotify.com/album/7tjQsjnKGHN9g84C0xrwZ9) | 3:25 | 2024-02-23 | 2026-01-24 |
-| [Is This Love??](https://open.spotify.com/track/2WZ2OD87MX3vVPv4OoKJ4M) | [Solya](https://open.spotify.com/artist/4q2k0Txoo06ZQ41MWnQMza) | [Is This Love??](https://open.spotify.com/album/0EuILydBpAc9FqLSG6pqOW) | 3:09 | 2026-02-13 |  |
+| [Is This Love??](https://open.spotify.com/track/2WZ2OD87MX3vVPv4OoKJ4M) | [Solya](https://open.spotify.com/artist/4q2k0Txoo06ZQ41MWnQMza) | [Is This Love??](https://open.spotify.com/album/0EuILydBpAc9FqLSG6pqOW) | 3:09 | 2026-02-13 | 2026-11-27 |
 | [It Don't Matter](https://open.spotify.com/track/45IX2seKuUtWnQEzAh3JRc) | [Elise Azkoul](https://open.spotify.com/artist/6KCrTdWDzF11PcWt6uygaE) | [It Don't Matter](https://open.spotify.com/album/5CSe4p4wJpggsELemioCqj) | 3:33 | 2022-05-06 | 2025-09-20 |
 | [It Was You](https://open.spotify.com/track/6GGH6rgZEGAg0Afy6SOXb8) | [Stephen Day](https://open.spotify.com/artist/4cnFw4bkIWVGKUBsr93OS5) | [It Was You](https://open.spotify.com/album/5xo2Vvp1ceoc71Sz7YuvWh) | 3:16 | 2024-05-03 | 2024-08-03 |
 | [It Will Come In Time](https://open.spotify.com/track/2eqocLN1rW8h10svumB8wd) | [Benny Sings](https://open.spotify.com/artist/4gHcu2JoaXJ0mV4aNPCd7N) | [It Will Come In Time](https://open.spotify.com/album/3kUX1L10eOj1lSuwrfk9PM) | 2:53 | 2022-04-29 | 2023-05-13 |
@@ -345,6 +347,7 @@
 | [Lover Girl](https://open.spotify.com/track/6dWilYAxP2aJbTTt0UsatK) | [Laufey](https://open.spotify.com/artist/7gW0r5CkdEUMm42w9XpyZO) | [Lover Girl](https://open.spotify.com/album/6Qj5rkXFYGlCe7X6VqqoRS) | 2:44 | 2025-07-18 | 2025-08-09 |
 | [Lovesick](https://open.spotify.com/track/5op34xwSJ2jKWq2nbDPFVn) | [Haley Reinhart](https://open.spotify.com/artist/5cKlE8f6b26h61Ml7m052Q) | [Off The Ground](https://open.spotify.com/album/6JVabF7u0lubMct7BDUCRT) | 4:35 | 2022-09-02 | 2023-07-19 |
 | [Love’s a Gun](https://open.spotify.com/track/7vqgKci5WfCnk0iUrNN9op) | [Daniel Seavey](https://open.spotify.com/artist/21z8to3YxZXgKYJpBB54P2) | [Love’s a Gun](https://open.spotify.com/album/7tUhB6UQTg64z5xx34SdNy) | 2:59 | 2026-05-29 | 2026-09-12 |
+| [Lovin' You Darlin'](https://open.spotify.com/track/4ALy5ziPI7jPU98mat9kMz) | [Velvet Bloom](https://open.spotify.com/artist/1HiDrUs73y9fUOt8DjBH55) | [Lovin' You Darlin'](https://open.spotify.com/album/77u3XgagB9QzoTR4lZIsHa) | 3:41 | 2026-11-27 |  |
 | [Lucky Charm](https://open.spotify.com/track/4Szao0AvRVhjlsTzFBsqwL) | [Madeline The Person](https://open.spotify.com/artist/79GARbspzW3V7Kb07hTLoY) | [Lucky Charm](https://open.spotify.com/album/75tf9TGXxxYBrAYhEwUUe2) | 3:02 | 2026-06-26 |  |
 | [Made You Look](https://open.spotify.com/track/0QHEIqNKsMoOY5urbzN48u) | [Meghan Trainor](https://open.spotify.com/artist/6JL8zeS1NmiOftqZTRgdTz) | [Takin' It Back](https://open.spotify.com/album/4LVa9bljQRvLYpWr8qyaXs) | 2:14 | 2022-10-21 | 2023-04-29 |
 | [Madelyn](https://open.spotify.com/track/39ZpHwLpCFBDeLpOphQYLQ) | [Anderson East](https://open.spotify.com/artist/5q6z6GTth6lMbL9I8CAgby) | [Madelyn](https://open.spotify.com/album/2GxqnG8rJVHG18Bm27vpo0) | 3:15 | 2021-12-03 | 2023-01-20 |
@@ -523,7 +526,7 @@
 | [Speed of Light](https://open.spotify.com/track/4X3a6cE8mRHHVKkqLDSK3m) | [Dhruv](https://open.spotify.com/artist/70NcAr4ZtA3FAqU16iQZSb) | [Speed of Light](https://open.spotify.com/album/2QYOMAjVLhjshBsPvU0xhW) | 3:27 | 2024-05-31 | 2026-04-18 |
 | [Spinnin](https://open.spotify.com/track/0K2KKyyKoPaNTOUPxubHPN) | [Madison Beer](https://open.spotify.com/artist/2kRfqPViCqYdSGhYSM9R0Q) | [Spinnin](https://open.spotify.com/album/1H231df9UtLpu609triLDa) | 2:46 | 2023-08-18 | 2026-02-14 |
 | [Staring at the Wall](https://open.spotify.com/track/1vaE2g2ECAPiSDve8ApSGm) | [Norah Jones](https://open.spotify.com/artist/2Kx7MNY7cI1ENniW7vT30N) | [Staring at the Wall](https://open.spotify.com/album/5tknEZvydcc1zkg5CWOcym) | 4:31 | 2024-02-23 | 2024-03-09 |
-| [Stay](https://open.spotify.com/track/353A1eattWX5QjVnE5yd5X) | [Kashus Culpepper](https://open.spotify.com/artist/2MPe4h9blynt1CfCkMku6j) | [Act I](https://open.spotify.com/album/7tJwgD3IbrgdlNNfv2nE1R) | 3:12 | 2026-01-23 |  |
+| [Stay](https://open.spotify.com/track/353A1eattWX5QjVnE5yd5X) | [Kashus Culpepper](https://open.spotify.com/artist/2MPe4h9blynt1CfCkMku6j) | [Act I](https://open.spotify.com/album/7tJwgD3IbrgdlNNfv2nE1R) | 3:12 | 2026-01-23 | 2026-11-27 |
 | [Stay in Bed and F\*\*\* \(While The World Burns\)](https://open.spotify.com/track/07DAMNunYyHvoG6PC88laF) | [Jonathan Roy](https://open.spotify.com/artist/62ggJuZV87VvP3sAHM0V3K) | [Stay in Bed and F\*\*\* \(While The World Burns\)](https://open.spotify.com/album/35yHgVIXp8hDTDTI3L77CT) | 2:44 | 2022-11-18 | 2023-02-16 |
 | [Steady Love](https://open.spotify.com/track/0ZpcK7pDA45LAVQFTJ2ieb) | [Ben Rector](https://open.spotify.com/artist/4AapPt7H6bGH4i7chTulpI) | [The Joy of Music](https://open.spotify.com/album/6Dy4vBbWht1kb3ITtTfqZA) | 3:44 | 2022-02-11 | 2022-07-31 |
 | [Steady Love](https://open.spotify.com/track/6UOkF086zUgYXnqFxqUvEI) | [Ben Rector](https://open.spotify.com/artist/4AapPt7H6bGH4i7chTulpI) | [The Joy of Music](https://open.spotify.com/album/1l4VD485oDSJM23eWJEWJN) | 3:44 | 2022-02-11 | 2023-06-24 |
@@ -550,7 +553,7 @@
 | [Sweet Chamomile](https://open.spotify.com/track/0RfBLmmqsSP1pir9zu46d4) | [Ruth B.](https://open.spotify.com/artist/2WzaAvm2bBCf4pEhyuDgCY) | [Moments in Between](https://open.spotify.com/album/31YtUUKHFaKVhlELeptm1S) | 3:28 | 2021-12-03 | 2022-10-01 |
 | [Sweet n’ Sour](https://open.spotify.com/track/3ksychRhiWmZgGjIxtzKix) | [Fana Hues](https://open.spotify.com/artist/4yJHrytMK7mqtKsXVGaBNg) | [Sweet n’ Sour](https://open.spotify.com/album/06KkMtJIZ5bUGYjZjJmAOh) | 2:37 | 2026-07-07 |  |
 | [Sweet Tooth](https://open.spotify.com/track/2q3WnVVXT4xh4GA4O7cHF3) | [Lusaint](https://open.spotify.com/artist/35v2YILQxee0yatdWj6Kg7) | [Sweet Tooth](https://open.spotify.com/album/0m7jHaP0wjBEqrRncFTLic) | 3:07 | 2024-02-02 | 2024-05-03 |
-| [Talk About Love](https://open.spotify.com/track/3HkptDhVM1bpF4lz3haQRk) | [Olive Jones](https://open.spotify.com/artist/2DwbPVZ7uyW2B0AgoHuzLn) | [Talk About Love](https://open.spotify.com/album/3Ab4I0S7mBYWdrOw6h1ttt) | 5:10 | 2025-11-21 |  |
+| [Talk About Love](https://open.spotify.com/track/3HkptDhVM1bpF4lz3haQRk) | [Olive Jones](https://open.spotify.com/artist/2DwbPVZ7uyW2B0AgoHuzLn) | [Talk About Love](https://open.spotify.com/album/3Ab4I0S7mBYWdrOw6h1ttt) | 5:10 | 2025-11-21 | 2026-11-27 |
 | [Tears Hit The Ground](https://open.spotify.com/track/2ajCIDxKQ5x7nBCvepBDx4) | [Enisa](https://open.spotify.com/artist/19mMHUyLK5uYyg9D14yJP6) | [Love Cycle](https://open.spotify.com/album/5331y9QfIpABo07fzyWtZt) | 3:21 | 2022-02-18 | 2023-03-25 |
 | [Tears Won’t Lie](https://open.spotify.com/track/07LUwalhQE7iHMxr1r3HIq) | [Brooke Combe](https://open.spotify.com/artist/0JXwYf8x27ZfMO2gGuh6HO) | [Tears Won’t Lie](https://open.spotify.com/album/7kUNk9FALessjeV4Byk0tc) | 2:56 | 2026-05-01 | 2026-10-24 |
 | [Tell Me](https://open.spotify.com/track/2UvjzFa5j6V2oi6PStN2TT) | [WILSN](https://open.spotify.com/artist/2ymjQZjPQe0pziQ67Y8Ncr) | [Tell Me](https://open.spotify.com/album/5G0S0RDVw7yKKzW3krfKlV) | 3:42 | 2022-03-25 | 2023-02-16 |

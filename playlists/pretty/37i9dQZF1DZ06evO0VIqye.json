@@ -1,12 +1,12 @@
 {
   "description": "This is Joan Jett & the Blackhearts. The essential tracks, all in one playlist.",
-  "num_followers": 62679,
+  "num_followers": 62677,
   "original_name": "This Is Joan Jett & the Blackhearts",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "awOCAAAAAABfuNfctmk1/8euFB/ZRYbH",
+  "snapshot_id": "awYlAAAAAABITWK4tWO+2LHD6wrGAWzV",
   "tracks": [
     {
       "added_at": null,
@@ -423,8 +423,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "First Sessions",
-        "url": "https://open.spotify.com/album/7i1OFBJxdffF2n51eE8DWv"
+        "name": "Good Music",
+        "url": "https://open.spotify.com/album/2bwQ6NSbu002DTWRKIbk6D"
       },
       "artists": [
         {
@@ -432,9 +432,9 @@
           "url": "https://open.spotify.com/artist/1Fmb52lZ6Jv7FMWXXTPO3K"
         }
       ],
-      "duration_ms": 161066,
-      "name": "I Want You",
-      "url": "https://open.spotify.com/track/3k3HYJsn50Gq3dEwD43tA1"
+      "duration_ms": 345000,
+      "name": "Good Music",
+      "url": "https://open.spotify.com/track/3H3e9wWaEjGDjPxZYVkNHp"
     },
     {
       "added_at": null,
@@ -455,22 +455,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Good Music",
-        "url": "https://open.spotify.com/album/2bwQ6NSbu002DTWRKIbk6D"
-      },
-      "artists": [
-        {
-          "name": "Joan Jett & the Blackhearts",
-          "url": "https://open.spotify.com/artist/1Fmb52lZ6Jv7FMWXXTPO3K"
-        }
-      ],
-      "duration_ms": 345000,
-      "name": "Good Music",
-      "url": "https://open.spotify.com/track/3H3e9wWaEjGDjPxZYVkNHp"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Bad Reputation (Expanded Edition)",
         "url": "https://open.spotify.com/album/4xAJmkDRtJcSmRWpAEtRRB"
       },
@@ -487,8 +471,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Essentials",
-        "url": "https://open.spotify.com/album/0eSjKB1TVEDXH1QAJNj9PG"
+        "name": "First Sessions",
+        "url": "https://open.spotify.com/album/7i1OFBJxdffF2n51eE8DWv"
       },
       "artists": [
         {
@@ -496,15 +480,15 @@
           "url": "https://open.spotify.com/artist/1Fmb52lZ6Jv7FMWXXTPO3K"
         }
       ],
-      "duration_ms": 232333,
-      "name": "You Drive Me Wild",
-      "url": "https://open.spotify.com/track/2ZSDEBnyfkCHNdllWJqxNG"
+      "duration_ms": 161066,
+      "name": "I Want You",
+      "url": "https://open.spotify.com/track/3k3HYJsn50Gq3dEwD43tA1"
     },
     {
       "added_at": null,
       "album": {
         "name": "Up Your Alley",
-        "url": "https://open.spotify.com/album/21b03QbYud0qjLM5vd7VZa"
+        "url": "https://open.spotify.com/album/2pkv3nrNrwtUdT8VNWwt5U"
       },
       "artists": [
         {
@@ -514,39 +498,7 @@
       ],
       "duration_ms": 310640,
       "name": "I Wanna Be Your Dog",
-      "url": "https://open.spotify.com/track/2q9E4H2F41UU6tAGGnQLPY"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Tank Girl Soundtrack",
-        "url": "https://open.spotify.com/album/5EmkiJMTXyVyQnOO84hKz7"
-      },
-      "artists": [
-        {
-          "name": "Joan Jett & the Blackhearts",
-          "url": "https://open.spotify.com/artist/1Fmb52lZ6Jv7FMWXXTPO3K"
-        }
-      ],
-      "duration_ms": 143360,
-      "name": "Let's Do It - O.S.T.",
-      "url": "https://open.spotify.com/track/0AsgPWO44bOT7Bo4oArEEW"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Bad Reputation (Expanded Edition)",
-        "url": "https://open.spotify.com/album/4xAJmkDRtJcSmRWpAEtRRB"
-      },
-      "artists": [
-        {
-          "name": "Joan Jett & the Blackhearts",
-          "url": "https://open.spotify.com/artist/1Fmb52lZ6Jv7FMWXXTPO3K"
-        }
-      ],
-      "duration_ms": 223986,
-      "name": "You Don't Know What You've Got",
-      "url": "https://open.spotify.com/track/2ikFuUAyiFxsnPxHI0o7mD"
+      "url": "https://open.spotify.com/track/2VppbCFGniv58380qH2Ut3"
     },
     {
       "added_at": null,
@@ -567,6 +519,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Bad Reputation (Expanded Edition)",
+        "url": "https://open.spotify.com/album/4xAJmkDRtJcSmRWpAEtRRB"
+      },
+      "artists": [
+        {
+          "name": "Joan Jett & the Blackhearts",
+          "url": "https://open.spotify.com/artist/1Fmb52lZ6Jv7FMWXXTPO3K"
+        }
+      ],
+      "duration_ms": 223986,
+      "name": "You Don't Know What You've Got",
+      "url": "https://open.spotify.com/track/2ikFuUAyiFxsnPxHI0o7mD"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Dr. Demento Covered In Punk",
         "url": "https://open.spotify.com/album/2uGft4b3hT4lbPEeg89wh3"
       },
@@ -579,6 +547,22 @@
       "duration_ms": 234795,
       "name": "Science Fiction/Double Feature",
       "url": "https://open.spotify.com/track/4Ox0knu2d0pShadIkPIjeh"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Tank Girl Soundtrack",
+        "url": "https://open.spotify.com/album/5EmkiJMTXyVyQnOO84hKz7"
+      },
+      "artists": [
+        {
+          "name": "Joan Jett & the Blackhearts",
+          "url": "https://open.spotify.com/artist/1Fmb52lZ6Jv7FMWXXTPO3K"
+        }
+      ],
+      "duration_ms": 143360,
+      "name": "Let's Do It - O.S.T.",
+      "url": "https://open.spotify.com/track/0AsgPWO44bOT7Bo4oArEEW"
     },
     {
       "added_at": null,
@@ -599,6 +583,38 @@
     {
       "added_at": null,
       "album": {
+        "name": "Album (Expanded Edition)",
+        "url": "https://open.spotify.com/album/4LbWRk6NSbB7XvyXGKvgas"
+      },
+      "artists": [
+        {
+          "name": "Joan Jett & the Blackhearts",
+          "url": "https://open.spotify.com/artist/1Fmb52lZ6Jv7FMWXXTPO3K"
+        }
+      ],
+      "duration_ms": 182800,
+      "name": "I Love Playin' With Fire",
+      "url": "https://open.spotify.com/track/3umY8W04g6IleknmXNEPVV"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Flashback",
+        "url": "https://open.spotify.com/album/0VuwTQocDzfql2T14ARdHL"
+      },
+      "artists": [
+        {
+          "name": "Joan Jett & the Blackhearts",
+          "url": "https://open.spotify.com/artist/1Fmb52lZ6Jv7FMWXXTPO3K"
+        }
+      ],
+      "duration_ms": 250573,
+      "name": "Rebel, Rebel",
+      "url": "https://open.spotify.com/track/0aMC6R5oEtQuhbxJuUQtSq"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Up Your Alley",
         "url": "https://open.spotify.com/album/2pkv3nrNrwtUdT8VNWwt5U"
       },
@@ -615,8 +631,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Album (Expanded Edition)",
-        "url": "https://open.spotify.com/album/4LbWRk6NSbB7XvyXGKvgas"
+        "name": "Essentials",
+        "url": "https://open.spotify.com/album/0eSjKB1TVEDXH1QAJNj9PG"
       },
       "artists": [
         {
@@ -624,9 +640,9 @@
           "url": "https://open.spotify.com/artist/1Fmb52lZ6Jv7FMWXXTPO3K"
         }
       ],
-      "duration_ms": 182800,
-      "name": "I Love Playin' With Fire",
-      "url": "https://open.spotify.com/track/3umY8W04g6IleknmXNEPVV"
+      "duration_ms": 232333,
+      "name": "You Drive Me Wild",
+      "url": "https://open.spotify.com/track/2ZSDEBnyfkCHNdllWJqxNG"
     },
     {
       "added_at": null,
@@ -656,9 +672,9 @@
           "url": "https://open.spotify.com/artist/1Fmb52lZ6Jv7FMWXXTPO3K"
         }
       ],
-      "duration_ms": 250573,
-      "name": "Rebel, Rebel",
-      "url": "https://open.spotify.com/track/0aMC6R5oEtQuhbxJuUQtSq"
+      "duration_ms": 215440,
+      "name": "Activity Grrrl",
+      "url": "https://open.spotify.com/track/2AcF2eTslhoR8ktNt03rlc"
     },
     {
       "added_at": null,
@@ -723,8 +739,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Flashback",
-        "url": "https://open.spotify.com/album/0VuwTQocDzfql2T14ARdHL"
+        "name": "Good Music",
+        "url": "https://open.spotify.com/album/2bwQ6NSbu002DTWRKIbk6D"
       },
       "artists": [
         {
@@ -732,25 +748,9 @@
           "url": "https://open.spotify.com/artist/1Fmb52lZ6Jv7FMWXXTPO3K"
         }
       ],
-      "duration_ms": 215440,
-      "name": "Activity Grrrl",
-      "url": "https://open.spotify.com/track/2AcF2eTslhoR8ktNt03rlc"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Essentials",
-        "url": "https://open.spotify.com/album/0eSjKB1TVEDXH1QAJNj9PG"
-      },
-      "artists": [
-        {
-          "name": "Joan Jett & the Blackhearts",
-          "url": "https://open.spotify.com/artist/1Fmb52lZ6Jv7FMWXXTPO3K"
-        }
-      ],
-      "duration_ms": 182413,
-      "name": "School Days",
-      "url": "https://open.spotify.com/track/7nfFHki7aSYJoLXe2sT2CQ"
+      "duration_ms": 139173,
+      "name": "Fun, Fun, Fun",
+      "url": "https://open.spotify.com/track/0zp6Byr3O05jhRYFhgTKSV"
     },
     {
       "added_at": null,
@@ -767,22 +767,6 @@
       "duration_ms": 171666,
       "name": "Long Time - Acoustic",
       "url": "https://open.spotify.com/track/0JbcL4u8q5BScIsMsz9Bb5"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Good Music",
-        "url": "https://open.spotify.com/album/2bwQ6NSbu002DTWRKIbk6D"
-      },
-      "artists": [
-        {
-          "name": "Joan Jett & the Blackhearts",
-          "url": "https://open.spotify.com/artist/1Fmb52lZ6Jv7FMWXXTPO3K"
-        }
-      ],
-      "duration_ms": 139173,
-      "name": "Fun, Fun, Fun",
-      "url": "https://open.spotify.com/track/0zp6Byr3O05jhRYFhgTKSV"
     },
     {
       "added_at": null,
@@ -815,6 +799,22 @@
       "duration_ms": 216173,
       "name": "Coney Island Whitefish",
       "url": "https://open.spotify.com/track/0s0oLRYtGnZkJEQ59NjRsQ"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Essentials",
+        "url": "https://open.spotify.com/album/6OcJjMjfTSTQs7j5JpgNNf"
+      },
+      "artists": [
+        {
+          "name": "Joan Jett & the Blackhearts",
+          "url": "https://open.spotify.com/artist/1Fmb52lZ6Jv7FMWXXTPO3K"
+        }
+      ],
+      "duration_ms": 182413,
+      "name": "School Days",
+      "url": "https://open.spotify.com/track/5iHf2aHFR9lOZOvowbdOCr"
     },
     {
       "added_at": null,

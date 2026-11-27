@@ -1,6 +1,6 @@
 {
   "description": "Floor fillers and big streamers of 2012. ",
-  "num_followers": 14171,
+  "num_followers": 14220,
   "original_name": "Dance Hits of 2012",
   "owner": {
     "name": "Spotify",
@@ -51,26 +51,6 @@
     {
       "added_at": "2022-10-14 00:00:00",
       "album": {
-        "name": "Settle (Special Edition)",
-        "url": "https://open.spotify.com/album/7bdjtx1RTkWoSoOaIl7a8E"
-      },
-      "artists": [
-        {
-          "name": "Disclosure",
-          "url": "https://open.spotify.com/artist/6nS5roXSAGhTGr34W6n7Et"
-        },
-        {
-          "name": "Sam Smith",
-          "url": "https://open.spotify.com/artist/2wY79sveU1sp5g7SokKOiI"
-        }
-      ],
-      "duration_ms": 255631,
-      "name": "Latch",
-      "url": "https://open.spotify.com/track/51ODNNDZm21HU7wI7cccRr"
-    },
-    {
-      "added_at": "2022-10-14 00:00:00",
-      "album": {
         "name": "#willpower",
         "url": "https://open.spotify.com/album/6edYDxspt9uQj21mbAfFIb"
       },
@@ -87,6 +67,26 @@
       "duration_ms": 283400,
       "name": "Scream & Shout",
       "url": "https://open.spotify.com/track/2iJuuzV8P9Yz0VSurttIV5"
+    },
+    {
+      "added_at": "2022-10-14 00:00:00",
+      "album": {
+        "name": "Settle (Special Edition)",
+        "url": "https://open.spotify.com/album/7bdjtx1RTkWoSoOaIl7a8E"
+      },
+      "artists": [
+        {
+          "name": "Disclosure",
+          "url": "https://open.spotify.com/artist/6nS5roXSAGhTGr34W6n7Et"
+        },
+        {
+          "name": "Sam Smith",
+          "url": "https://open.spotify.com/artist/2wY79sveU1sp5g7SokKOiI"
+        }
+      ],
+      "duration_ms": 255631,
+      "name": "Latch",
+      "url": "https://open.spotify.com/track/51ODNNDZm21HU7wI7cccRr"
     },
     {
       "added_at": "2022-10-14 00:00:00",
@@ -1023,6 +1023,22 @@
     {
       "added_at": "2022-10-14 00:00:00",
       "album": {
+        "name": "The Princess, Pt. Two",
+        "url": "https://open.spotify.com/album/7p72vm3axkMsrAMBwl7d3T"
+      },
+      "artists": [
+        {
+          "name": "Parov Stelar",
+          "url": "https://open.spotify.com/artist/65EXuYHVoehCKqp0kOS6px"
+        }
+      ],
+      "duration_ms": 197506,
+      "name": "Booty Swing",
+      "url": "https://open.spotify.com/track/3sMleqdCDalZ6xsAQe8xuY"
+    },
+    {
+      "added_at": "2022-10-14 00:00:00",
+      "album": {
         "name": "Dance Again...The Hits",
         "url": "https://open.spotify.com/album/7LN1DM2rLG5GFezakJF4vk"
       },
@@ -1039,22 +1055,6 @@
       "duration_ms": 237266,
       "name": "Dance Again (feat. Pitbull)",
       "url": "https://open.spotify.com/track/4d2hD63oUGU3s7L66JD0BE"
-    },
-    {
-      "added_at": "2022-10-14 00:00:00",
-      "album": {
-        "name": "The Princess, Pt. Two",
-        "url": "https://open.spotify.com/album/7p72vm3axkMsrAMBwl7d3T"
-      },
-      "artists": [
-        {
-          "name": "Parov Stelar",
-          "url": "https://open.spotify.com/artist/65EXuYHVoehCKqp0kOS6px"
-        }
-      ],
-      "duration_ms": 197506,
-      "name": "Booty Swing",
-      "url": "https://open.spotify.com/track/3sMleqdCDalZ6xsAQe8xuY"
     },
     {
       "added_at": "2022-10-14 00:00:00",

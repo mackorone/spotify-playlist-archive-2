@@ -952,7 +952,7 @@
       ],
       "date_added": "2026-05-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-27",
       "duration_ms": 206590,
       "name": "deixa eu te encontrar",
       "url": "https://open.spotify.com/track/2J1ex8oYw0T0qY18S820yV"
@@ -2546,6 +2546,24 @@
       "duration_ms": 180959,
       "name": "N\u00eaga",
       "url": "https://open.spotify.com/track/37AIEnveDvWcRdjyqeYam1"
+    },
+    {
+      "album": {
+        "name": "o segredo \u00e9 mil",
+        "url": "https://open.spotify.com/album/7rPJ8YyBsJ1F7vqInVqaGf"
+      },
+      "artists": [
+        {
+          "name": "Jun Alcan",
+          "url": "https://open.spotify.com/artist/7CPlbqxyWd17sV44Morx3V"
+        }
+      ],
+      "date_added": "2026-11-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 165505,
+      "name": "o segredo \u00e9 mil",
+      "url": "https://open.spotify.com/track/4LNuDOJFsNzq7FoG87c1eU"
     },
     {
       "album": {

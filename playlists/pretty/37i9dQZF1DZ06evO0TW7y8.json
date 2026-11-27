@@ -1,12 +1,12 @@
 {
   "description": "This is Jorja Smith. The essential tracks, all in one playlist.",
-  "num_followers": 328754,
+  "num_followers": 328772,
   "original_name": "This Is Jorja Smith",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "awOCAAAAAAByh3AdM/Q177rdvRPjZBIF",
+  "snapshot_id": "awYlAAAAAAD81pnQn8xrB3REOrFmIz3X",
   "tracks": [
     {
       "added_at": null,
@@ -219,6 +219,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "falling or flying (Deluxe)",
+        "url": "https://open.spotify.com/album/6wRMM8MLrOYDmyUnSiNzQa"
+      },
+      "artists": [
+        {
+          "name": "Jorja Smith",
+          "url": "https://open.spotify.com/artist/1CoZyIx7UvdxT5c8UkMzHd"
+        }
+      ],
+      "duration_ms": 131000,
+      "name": "Little Things x Gypsy Woman - L BEATS MASHUP",
+      "url": "https://open.spotify.com/track/2AlCe2DDxELeESF5IP3t9K"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "For A Good Time...",
         "url": "https://open.spotify.com/album/55uMsvthBm45JtBhyadkPa"
       },
@@ -235,22 +251,6 @@
       "duration_ms": 222840,
       "name": "Coming Home (feat. Jorja Smith)",
       "url": "https://open.spotify.com/track/0KUHECqcYMQGsPkfsWLUo6"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "falling or flying (Deluxe)",
-        "url": "https://open.spotify.com/album/6wRMM8MLrOYDmyUnSiNzQa"
-      },
-      "artists": [
-        {
-          "name": "Jorja Smith",
-          "url": "https://open.spotify.com/artist/1CoZyIx7UvdxT5c8UkMzHd"
-        }
-      ],
-      "duration_ms": 131000,
-      "name": "Little Things x Gypsy Woman - L BEATS MASHUP",
-      "url": "https://open.spotify.com/track/2AlCe2DDxELeESF5IP3t9K"
     },
     {
       "added_at": null,
@@ -475,22 +475,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Be Right Back",
-        "url": "https://open.spotify.com/album/7MbcxleVqx5qeZgXdw5FAi"
-      },
-      "artists": [
-        {
-          "name": "Jorja Smith",
-          "url": "https://open.spotify.com/artist/1CoZyIx7UvdxT5c8UkMzHd"
-        }
-      ],
-      "duration_ms": 214047,
-      "name": "Burn",
-      "url": "https://open.spotify.com/track/099qKQ9zvTWcMDsNsasKpI"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "falling or flying",
         "url": "https://open.spotify.com/album/3cCpJc6LhvskN7i9w3WkaA"
       },
@@ -511,6 +495,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Be Right Back",
+        "url": "https://open.spotify.com/album/7MbcxleVqx5qeZgXdw5FAi"
+      },
+      "artists": [
+        {
+          "name": "Jorja Smith",
+          "url": "https://open.spotify.com/artist/1CoZyIx7UvdxT5c8UkMzHd"
+        }
+      ],
+      "duration_ms": 214047,
+      "name": "Burn",
+      "url": "https://open.spotify.com/track/099qKQ9zvTWcMDsNsasKpI"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "What Are The Odds",
         "url": "https://open.spotify.com/album/53Rf76kJAhJNtyrxLgKTRa"
       },
@@ -527,22 +527,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Lost & Found",
-        "url": "https://open.spotify.com/album/3AlSuZnX4ZCab8eoWnnfbm"
-      },
-      "artists": [
-        {
-          "name": "Jorja Smith",
-          "url": "https://open.spotify.com/artist/1CoZyIx7UvdxT5c8UkMzHd"
-        }
-      ],
-      "duration_ms": 191992,
-      "name": "Where Did I Go?",
-      "url": "https://open.spotify.com/track/79OKfIXCPbNhZa3h1ZREag"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Addicted",
         "url": "https://open.spotify.com/album/4oGNxeyb9Qe4LcS98Szhcs"
       },
@@ -555,6 +539,22 @@
       "duration_ms": 204174,
       "name": "Addicted",
       "url": "https://open.spotify.com/track/3vMtiUewPWlK5UsIlE8lIy"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Lost & Found",
+        "url": "https://open.spotify.com/album/3AlSuZnX4ZCab8eoWnnfbm"
+      },
+      "artists": [
+        {
+          "name": "Jorja Smith",
+          "url": "https://open.spotify.com/artist/1CoZyIx7UvdxT5c8UkMzHd"
+        }
+      ],
+      "duration_ms": 191992,
+      "name": "Where Did I Go?",
+      "url": "https://open.spotify.com/track/79OKfIXCPbNhZa3h1ZREag"
     },
     {
       "added_at": null,
@@ -663,58 +663,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Killing Me",
-        "url": "https://open.spotify.com/album/7FTJjjKgVJhOHiGJ66tpbk"
-      },
-      "artists": [
-        {
-          "name": "Sasha Keable",
-          "url": "https://open.spotify.com/artist/7MxGWmiAbqjNOGmj23wbWf"
-        },
-        {
-          "name": "Jorja Smith",
-          "url": "https://open.spotify.com/artist/1CoZyIx7UvdxT5c8UkMzHd"
-        }
-      ],
-      "duration_ms": 205784,
-      "name": "Killing Me",
-      "url": "https://open.spotify.com/track/35KBVb0GWD9u0IGMRSNMEL"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Lost & Found",
-        "url": "https://open.spotify.com/album/3AlSuZnX4ZCab8eoWnnfbm"
-      },
-      "artists": [
-        {
-          "name": "Jorja Smith",
-          "url": "https://open.spotify.com/artist/1CoZyIx7UvdxT5c8UkMzHd"
-        }
-      ],
-      "duration_ms": 242035,
-      "name": "February 3rd",
-      "url": "https://open.spotify.com/track/3c5gLGgwRrE7sQYSNHCXEj"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "falling or flying",
-        "url": "https://open.spotify.com/album/3cCpJc6LhvskN7i9w3WkaA"
-      },
-      "artists": [
-        {
-          "name": "Jorja Smith",
-          "url": "https://open.spotify.com/artist/1CoZyIx7UvdxT5c8UkMzHd"
-        }
-      ],
-      "duration_ms": 127680,
-      "name": "Lately",
-      "url": "https://open.spotify.com/track/2DEUiGcDxB4QpImgydZmTi"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "MALIK",
         "url": "https://open.spotify.com/album/0X8L8zMHTYQr5wX9zeHPqf"
       },
@@ -735,6 +683,58 @@
     {
       "added_at": null,
       "album": {
+        "name": "Killing Me",
+        "url": "https://open.spotify.com/album/7FTJjjKgVJhOHiGJ66tpbk"
+      },
+      "artists": [
+        {
+          "name": "Sasha Keable",
+          "url": "https://open.spotify.com/artist/7MxGWmiAbqjNOGmj23wbWf"
+        },
+        {
+          "name": "Jorja Smith",
+          "url": "https://open.spotify.com/artist/1CoZyIx7UvdxT5c8UkMzHd"
+        }
+      ],
+      "duration_ms": 205784,
+      "name": "Killing Me",
+      "url": "https://open.spotify.com/track/35KBVb0GWD9u0IGMRSNMEL"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "falling or flying",
+        "url": "https://open.spotify.com/album/3cCpJc6LhvskN7i9w3WkaA"
+      },
+      "artists": [
+        {
+          "name": "Jorja Smith",
+          "url": "https://open.spotify.com/artist/1CoZyIx7UvdxT5c8UkMzHd"
+        }
+      ],
+      "duration_ms": 127680,
+      "name": "Lately",
+      "url": "https://open.spotify.com/track/2DEUiGcDxB4QpImgydZmTi"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Lost & Found",
+        "url": "https://open.spotify.com/album/3AlSuZnX4ZCab8eoWnnfbm"
+      },
+      "artists": [
+        {
+          "name": "Jorja Smith",
+          "url": "https://open.spotify.com/artist/1CoZyIx7UvdxT5c8UkMzHd"
+        }
+      ],
+      "duration_ms": 242035,
+      "name": "February 3rd",
+      "url": "https://open.spotify.com/track/3c5gLGgwRrE7sQYSNHCXEj"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Loving You / Don't Let Me Go",
         "url": "https://open.spotify.com/album/4AT8IOeR5ZntLmTOeCj75j"
       },
@@ -751,22 +751,6 @@
       "duration_ms": 152610,
       "name": "Loving You (feat. Maverick Sabre)",
       "url": "https://open.spotify.com/track/3Jx1s38DVgJJwuoxAGi7kh"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Lost & Found",
-        "url": "https://open.spotify.com/album/3AlSuZnX4ZCab8eoWnnfbm"
-      },
-      "artists": [
-        {
-          "name": "Jorja Smith",
-          "url": "https://open.spotify.com/artist/1CoZyIx7UvdxT5c8UkMzHd"
-        }
-      ],
-      "duration_ms": 190429,
-      "name": "Don't Watch Me Cry",
-      "url": "https://open.spotify.com/track/202lm9YX5WmAac83tOGlVn"
     },
     {
       "added_at": null,
@@ -811,8 +795,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Be Right Back",
-        "url": "https://open.spotify.com/album/7MbcxleVqx5qeZgXdw5FAi"
+        "name": "Lost & Found",
+        "url": "https://open.spotify.com/album/3AlSuZnX4ZCab8eoWnnfbm"
       },
       "artists": [
         {
@@ -820,9 +804,9 @@
           "url": "https://open.spotify.com/artist/1CoZyIx7UvdxT5c8UkMzHd"
         }
       ],
-      "duration_ms": 166424,
-      "name": "Home",
-      "url": "https://open.spotify.com/track/0F2sfIqC4Csaiow6WBbAbC"
+      "duration_ms": 190429,
+      "name": "Don't Watch Me Cry",
+      "url": "https://open.spotify.com/track/202lm9YX5WmAac83tOGlVn"
     },
     {
       "added_at": null,
@@ -839,6 +823,22 @@
       "duration_ms": 225631,
       "name": "By Any Means",
       "url": "https://open.spotify.com/track/2UWnZrXLXIyfMgNvJr2KUa"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Be Right Back",
+        "url": "https://open.spotify.com/album/7MbcxleVqx5qeZgXdw5FAi"
+      },
+      "artists": [
+        {
+          "name": "Jorja Smith",
+          "url": "https://open.spotify.com/artist/1CoZyIx7UvdxT5c8UkMzHd"
+        }
+      ],
+      "duration_ms": 166424,
+      "name": "Home",
+      "url": "https://open.spotify.com/track/0F2sfIqC4Csaiow6WBbAbC"
     },
     {
       "added_at": null,

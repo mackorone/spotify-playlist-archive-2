@@ -1343,6 +1343,24 @@
     },
     {
       "album": {
+        "name": "Giant Steps (60th Anniversary Super Deluxe Edition) [2020 Remaster]",
+        "url": "https://open.spotify.com/album/4jTDjHLMFCHWrjuP1qmCf4"
+      },
+      "artists": [
+        {
+          "name": "John Coltrane",
+          "url": "https://open.spotify.com/artist/2hGh5VOeeqimQFxqXvfCUf"
+        }
+      ],
+      "date_added": "2026-11-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 265068,
+      "name": "Naima - 2020 Remaster",
+      "url": "https://open.spotify.com/track/3jnz28JDlLUPA90sly4Xqk"
+    },
+    {
+      "album": {
         "name": "Giant Steps (Mono)",
         "url": "https://open.spotify.com/album/7MBQWjukLxXZYvQ8vzEH7t"
       },
@@ -1354,7 +1372,7 @@
       ],
       "date_added": "2025-07-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-27",
       "duration_ms": 265049,
       "name": "Naima - Mono",
       "url": "https://open.spotify.com/track/5cAwEKmadsW4nCYe9QUvgU"

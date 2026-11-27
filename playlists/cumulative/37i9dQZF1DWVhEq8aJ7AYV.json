@@ -74,7 +74,7 @@
       ],
       "date_added": "2025-10-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-27",
       "duration_ms": 211500,
       "name": "A Go-G\u00f3tica",
       "url": "https://open.spotify.com/track/4yUprRBa7bisq9G2OF6aQv"
@@ -420,7 +420,7 @@
       ],
       "date_added": "2021-09-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-27",
       "duration_ms": 218882,
       "name": "Barracuda (Bonus Track)",
       "url": "https://open.spotify.com/track/5wUVmLSKRLnn6JOC7NxTDt"
@@ -1441,6 +1441,24 @@
     },
     {
       "album": {
+        "name": "En Autom\u00e1tico",
+        "url": "https://open.spotify.com/album/3N8P6L7uk6Ct7ppsu319Bm"
+      },
+      "artists": [
+        {
+          "name": "Sgt. Papers",
+          "url": "https://open.spotify.com/artist/76aFiLtqQ3kqvPxLe3D8ri"
+        }
+      ],
+      "date_added": "2026-11-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 113637,
+      "name": "En Autom\u00e1tico",
+      "url": "https://open.spotify.com/track/5E41bHwPiPITXxodxbpsvo"
+    },
+    {
+      "album": {
         "name": "El Loco Mundo De Los Jovenes",
         "url": "https://open.spotify.com/album/48P6nJlSaE2zMSSZvD4oSg"
       },
@@ -2054,7 +2072,7 @@
       ],
       "date_added": "2025-02-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-27",
       "duration_ms": 163455,
       "name": "Huevos Al Motor",
       "url": "https://open.spotify.com/track/49dC4peDBvX1jjxaxgXaPs"
@@ -2346,7 +2364,7 @@
       ],
       "date_added": "2021-09-03",
       "date_added_asterisk": false,
-      "date_removed": "2025-10-25",
+      "date_removed": null,
       "duration_ms": 115293,
       "name": "La Chica Rockabilly",
       "url": "https://open.spotify.com/track/4ioqGCkmubr8E86LaR80mv"
@@ -3344,7 +3362,7 @@
       ],
       "date_added": "2023-07-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-27",
       "duration_ms": 157266,
       "name": "Overdrawn At Cortes Bank",
       "url": "https://open.spotify.com/track/0jxywL4Hg5cyX9ehgTUWBD"
@@ -3608,6 +3626,24 @@
       "duration_ms": 193700,
       "name": "PPV",
       "url": "https://open.spotify.com/track/6KS8bwPWTQdi6CHst8OpBu"
+    },
+    {
+      "album": {
+        "name": "Propaganda",
+        "url": "https://open.spotify.com/album/2xeW2ufdvlIYTOVmykLmMo"
+      },
+      "artists": [
+        {
+          "name": "Sgt. Papers",
+          "url": "https://open.spotify.com/artist/76aFiLtqQ3kqvPxLe3D8ri"
+        }
+      ],
+      "date_added": "2026-11-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 118634,
+      "name": "Propaganda",
+      "url": "https://open.spotify.com/track/23Us40sOQX8aj5qRVpiryf"
     },
     {
       "album": {
@@ -4034,6 +4070,28 @@
       "duration_ms": 198019,
       "name": "Siempre",
       "url": "https://open.spotify.com/track/1G9h543efweZczd5O86Ays"
+    },
+    {
+      "album": {
+        "name": "Siempre Estar Contigo",
+        "url": "https://open.spotify.com/album/68f7wCGWtHeuUs6G0tKTr1"
+      },
+      "artists": [
+        {
+          "name": "Los Gatos Rockabilly",
+          "url": "https://open.spotify.com/artist/44g8mCTOmHpdeZFuaj9hS3"
+        },
+        {
+          "name": "Rub\u00e9n Albarr\u00e1n",
+          "url": "https://open.spotify.com/artist/7M75Am5m6J934JSviUOGz0"
+        }
+      ],
+      "date_added": "2026-11-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 166906,
+      "name": "Siempre Estar Contigo",
+      "url": "https://open.spotify.com/track/70SJhMSOklhyRfOCBi6IXZ"
     },
     {
       "album": {

@@ -2,9 +2,9 @@
 
 ### [ny dansk rap](https://open.spotify.com/playlist/37i9dQZF1DXdhDukKQ88Cc)
 
-> kun det nyeste danske rap øverst 👀  Azzi på cover!!
+> kun det nyeste danske rap øverst 👀  Wesmo på cover!!
 
-683 songs - 1 day 5 hr 12 min
+690 songs - 1 day 5 hr 29 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -37,6 +37,7 @@
 | [400KM](https://open.spotify.com/track/3ZQOc4eHvf8ndHcQsgOjY7) | [YAWO](https://open.spotify.com/artist/2djIkthTh1g6Pu2mVCEHdZ) | [400KM](https://open.spotify.com/album/6WEjxiLRlD6VCzzj7aIJx7) | 2:14 | 2026-10-15 |  |
 | [4:44](https://open.spotify.com/track/2v28o9UzJpaFVxtJqH25XN) | [LAY](https://open.spotify.com/artist/1n8Fd2279g0K5EPnxPc7J0) | [4:44](https://open.spotify.com/album/7nj291ovgMINOO9owFsM2o) | 1:57 | 2024-11-21 | 2025-11-14 |
 | [4AM](https://open.spotify.com/track/1N32Z7eOaLxT8WHXRhvySH) | [Michael Williams](https://open.spotify.com/artist/4pA9UUTKYrz88wP5NzYyVE) | [4AM](https://open.spotify.com/album/38hEWfFEVQjyBUj6OkwnnZ) | 3:04 | 2026-06-11 | 2026-06-20 |
+| [4MATIC](https://open.spotify.com/track/2hAtdnCXAsVuFjdUWMFCSl) | [Forty](https://open.spotify.com/artist/3KoqqxDnw3bcWJi0JAJZVl) | [4MATIC](https://open.spotify.com/album/0ptUVKc19SK5duOo2EZmBc) | 1:58 | 2026-11-26 |  |
 | [5 dage om ugen](https://open.spotify.com/track/49ByNAHElchd86rdR3OWIM) | [pensum](https://open.spotify.com/artist/3OM8n83SId481FEUQjqO7p) | [5 dage om ugen](https://open.spotify.com/album/4ySnQiqHFa8mAVXm2qtibw) | 3:00 | 2026-10-29 |  |
 | [555 \(feat\. KESI\)](https://open.spotify.com/track/2s0v4Q14vbu2jUpuNTBcww) | [Gilli](https://open.spotify.com/artist/2KbikmQKGiUPR2ARs1h0sq), [KESI](https://open.spotify.com/artist/2d7AMvzFwh5wUTuqQl3BAE) | [Kiko Club](https://open.spotify.com/album/1CnKG0vmRTZkG0oxwIZnc3) | 2:37 | 2024-01-04 | 2024-02-10 |
 | [555 \(feat\. KESI\)](https://open.spotify.com/track/3VWuGvgAaYMB6bSNevfozD) | [Gilli](https://open.spotify.com/artist/2KbikmQKGiUPR2ARs1h0sq), [KESI](https://open.spotify.com/artist/2d7AMvzFwh5wUTuqQl3BAE) | [Kiko Club](https://open.spotify.com/album/3y4SAFKOvJ9CDDwNaMOgLL) | 2:37 | 2023-11-10 | 2024-09-13 |
@@ -354,6 +355,7 @@
 | [INTROLUDE](https://open.spotify.com/track/7F6Obrc3MbKxmkLioYyTf3) | [MARQ](https://open.spotify.com/artist/4Cm5pvR59CgfEcAG5wen6x) | [INTROLUDE](https://open.spotify.com/album/3HBPyk4kSeXssiSlqcZXUw) | 3:16 | 2025-11-20 | 2026-01-02 |
 | [Ivrig](https://open.spotify.com/track/2KN3oDrrcQGVEflzdGDcDl) | [Artigeardit](https://open.spotify.com/artist/6a3WaWgxrVmNIvaiTCI0Kk) | [Ivrig](https://open.spotify.com/album/0T4s2FNI0JGlkbjaNScuLa) | 2:48 | 2026-05-28 | 2026-10-02 |
 | [JACK & PEPSI](https://open.spotify.com/track/4rBFry7KERpMK0TnvWec9d) | [Cizzo](https://open.spotify.com/artist/4mDyp9yRHugUnXvIBrt9xP) | [JACK & PEPSI](https://open.spotify.com/album/7sGyaU81DDhnyRsNDE7M4S) | 2:16 | 2024-11-21 | 2025-05-16 |
+| [Jalousi](https://open.spotify.com/track/62b1WY0ysw0HpcTb26qMqS) | [Carmon](https://open.spotify.com/artist/4Bu9ocyPQWQRyk3kXDSNlv) | [Jalousi](https://open.spotify.com/album/3slNNfCzkqLqOwLIUIGJgn) | 2:13 | 2026-11-26 |  |
 | [Je Ka Jo](https://open.spotify.com/track/0GFJI3tJuE9S3su4H8Co2G) | [ICEKIID](https://open.spotify.com/artist/3RYYha3CC7js2PHbcBHewt) | [Je Ka Jo](https://open.spotify.com/album/29OCZ1A2FbLNBvoDrlEUf0) | 2:58 | 2023-09-29 | 2024-09-13 |
 | [Jeg Venter Kun På Dig](https://open.spotify.com/track/3GT8yZ5TTgL3ZpjuJ944uu) | [willum](https://open.spotify.com/artist/5TkuPbaXBv3T08JcdvsiDz) | [Jeg Venter Kun På Dig](https://open.spotify.com/album/4ZDpx31270qcGkryOc3HN0) | 3:31 | 2025-10-02 | 2025-10-17 |
 | [Jordskælv](https://open.spotify.com/track/2yDRyz5yfHz62FkFeb6Ybn) | [ozzy](https://open.spotify.com/artist/1RJznM4DOSV69NWbkq3RA9) | [Jordskælv](https://open.spotify.com/album/4OOeYf8qb1fJXXLXLMGgPm) | 3:05 | 2026-06-25 |  |
@@ -372,6 +374,7 @@
 | [King Of Lions](https://open.spotify.com/track/78Wcn0KtwtcSk3AFZLCnsZ) | [Mowgli](https://open.spotify.com/artist/1dMKCVDiKj96gvK3Agana5) | [King Of Lions](https://open.spotify.com/album/06xP6kjRPNSpaPDKhRT9AD) | 2:11 | 2024-06-20 | 2024-09-13 |
 | [Kirsebær](https://open.spotify.com/track/5dCLDvxvL4TPhcj43hsTBu) | [Tessa](https://open.spotify.com/artist/3pJK3CUpbnyX7ogDfAwa9J) | [Kirsebær](https://open.spotify.com/album/2GvNkzQVVOI3WxUyE1GPi5) | 2:13 | 2025-09-18 | 2025-10-10 |
 | [KITTY \(feat\. Tessa\)](https://open.spotify.com/track/0L8mArFgQMunWP6qip3U7k) | [DIBSET](https://open.spotify.com/artist/4g53FCcxQZEj8SSr1rHmiH), [Tessa](https://open.spotify.com/artist/3pJK3CUpbnyX7ogDfAwa9J) | [KITTY \(feat\. Tessa\)](https://open.spotify.com/album/2o4OKDnYbLOXp9md43Nqnt) | 2:16 | 2024-06-06 | 2024-11-08 |
+| [KJU](https://open.spotify.com/track/12ij2t4HgHF1AR9YV6HjzN) | [T.G Boogie](https://open.spotify.com/artist/1PVxZM6C1jxLDUNJAEVX6d), [ZUUZ](https://open.spotify.com/artist/0sgVdVG2hRMx0wAkH023cx) | [KJU](https://open.spotify.com/album/6mCZlW4KGCgQ9w4lalsbYg) | 2:26 | 2026-11-26 |  |
 | [KNÆ OG TÅ](https://open.spotify.com/track/10U0KmJ0ls2QkMHZVmwmT4) | [Zuloo](https://open.spotify.com/artist/5Eb9Tyd8uGdju7tI8FPQXr) | [KNÆ OG TÅ](https://open.spotify.com/album/3y8VWPgl8elI04EXOjYI75) | 2:05 | 2025-04-24 | 2025-06-20 |
 | [KODE](https://open.spotify.com/track/5dSxfRinJsjI2wnNFlNDMa) | [2Tiltango](https://open.spotify.com/artist/50Z7q8GxBq0FllwqnZeexw) | [TANGOHOLICS](https://open.spotify.com/album/3icXdOisWKJwLenvX97Mmr) | 2:16 | 2025-11-27 | 2026-01-02 |
 | [Kogende \(feat\. Noah Carter\)](https://open.spotify.com/track/7ppzo53maz9xPCKFpen2yE) | [Kimbo](https://open.spotify.com/artist/4a88Q5HOh8FSXQ1gPcQu2U), [Noah Carter](https://open.spotify.com/artist/2dfY7zXIP61MKHtD175hFp) | [Kogende \(feat\. Noah Carter\)](https://open.spotify.com/album/4ywvzvzwa2PNNuMJku1V6r) | 2:10 | 2024-08-22 | 2024-11-01 |
@@ -421,6 +424,7 @@
 | [Ma3lish](https://open.spotify.com/track/49yenoLDcKFYZCPqHgKUpQ) | [Tan](https://open.spotify.com/artist/7KhbTeqa1IUlb1qlPCp1Uh) | [Ma3lish](https://open.spotify.com/album/3LNKeNW7iYmaA8puM490lm) | 2:25 | 2026-01-08 | 2026-01-23 |
 | [MADNESS \(feat\. Artigeardit\)](https://open.spotify.com/track/2WuXxMvcuRqrfXAMXtXM9s) | [Branco](https://open.spotify.com/artist/1YwMnnHvnG64fJxYSVwmN6), [Artigeardit](https://open.spotify.com/artist/6a3WaWgxrVmNIvaiTCI0Kk) | [BABA BUSINESS 3 \(DELUXE\)](https://open.spotify.com/album/4JITSDwkgMxh2VK5ScfMEl) | 2:18 | 2024-12-26 | 2025-04-18 |
 | [MAGIC AIRLINES \(feat\. Blæst\)](https://open.spotify.com/track/2BwK0nlKXl065pfHhbEoCy) | [Branco](https://open.spotify.com/artist/1YwMnnHvnG64fJxYSVwmN6), [Blæst](https://open.spotify.com/artist/3elCsuJ1JjDeAd8mjlRRX5) | [BABA BUSINESS 3](https://open.spotify.com/album/16y1M4Dnrqiodnk8KvRhLf) | 2:43 | 2024-05-23 | 2024-09-13 |
+| [Makabelly](https://open.spotify.com/track/54HkhQpVRb2IdSHgJ4VgVN) | [Belly](https://open.spotify.com/artist/09Tr5rMM8oP3lN24JOnBW9) | [Makabelly](https://open.spotify.com/album/116s4eQvhU9DFfI79KvdDw) | 2:23 | 2026-11-26 |  |
 | [Mama \(feat\. Fouli\)](https://open.spotify.com/track/6Uhm7x6qW5Ec3yrmPvG6Gk) | [DIBSET](https://open.spotify.com/artist/4g53FCcxQZEj8SSr1rHmiH), [Fouli](https://open.spotify.com/artist/1IWMpdsWQeTckTQSGVNj8N) | [Mama \(feat\. Fouli\)](https://open.spotify.com/album/09npcb0ZCxF4QgaLk8pto2) | 2:14 | 2025-07-17 | 2025-08-15 |
 | [Mannschaft](https://open.spotify.com/track/13PJBkdi5W6h438CRjCTk4) | [Mowgli](https://open.spotify.com/artist/1dMKCVDiKj96gvK3Agana5) | [Mannschaft](https://open.spotify.com/album/50OWKkK1u1qIxUt6uf8XJG) | 2:16 | 2025-10-16 | 2025-11-21 |
 | [Marcelo](https://open.spotify.com/track/5dRw9iWHJYEw3eAVu20JhJ) | [Cizzo](https://open.spotify.com/artist/4mDyp9yRHugUnXvIBrt9xP) | [Young & Heartless](https://open.spotify.com/album/1c9x0b4WAEXdKHYyTAT8hL) | 2:02 | 2025-10-30 | 2026-04-10 |
@@ -531,6 +535,7 @@
 | [SAY NO MORE](https://open.spotify.com/track/0IgcYmkuX43NutmVCP4rAZ) | [Benny](https://open.spotify.com/artist/4ILUZ9Dq04CkO7FeKBcFfM) | [SAY NO MORE](https://open.spotify.com/album/41eWAwbm6TtOSrpvInIs2H) | 2:31 | 2026-09-03 |  |
 | [Seaside](https://open.spotify.com/track/5GzKwlyP8skeSpVM4fsSMp) | [Artigeardit](https://open.spotify.com/artist/6a3WaWgxrVmNIvaiTCI0Kk) | [Seaside](https://open.spotify.com/album/0WtiDurUDmsFSIXuf9mZN0) | 3:08 | 2025-04-10 | 2025-07-11 |
 | [Sel3a](https://open.spotify.com/track/53LzWvEtwiWAgG0qZpddmd) | [Tan](https://open.spotify.com/artist/7KhbTeqa1IUlb1qlPCp1Uh), [Aim](https://open.spotify.com/artist/5ZS3e1UtuO8Cfu9zN6mgcO), [YassineBeats](https://open.spotify.com/artist/1sBuaNJSSSQgG1cseKY7Hk) | [Sel3a](https://open.spotify.com/album/1MXu13AzC4Q3RnYR6fhjxo) | 2:55 | 2025-11-06 | 2025-11-28 |
+| [SELV TAK](https://open.spotify.com/track/57EW7qcMcUNSf50Sd4TYVf) | [Ferslev](https://open.spotify.com/artist/7eFy8x4GPEMGr2iwf52ejZ) | [SELV TAK](https://open.spotify.com/album/7fFje9gJUsPMUKA13todi5) | 2:15 | 2026-11-26 |  |
 | [SENDER MIG OP](https://open.spotify.com/track/06lzRD5xRmvCq1od8uUBs6) | [GUSTO](https://open.spotify.com/artist/2ePd2b0RlMm7txE4D4SXpL) | [NOIR](https://open.spotify.com/album/3XisejB9Ken8zCotzJWsL4) | 2:52 | 2025-11-13 | 2025-11-28 |
 | [Sent](https://open.spotify.com/track/2zbr6Jls3FE4JCtLwCPD5N) | [Artigeardit](https://open.spotify.com/artist/6a3WaWgxrVmNIvaiTCI0Kk), [Lamin](https://open.spotify.com/artist/4ZwOlDVAGXQo66ykbLQ8dP) | [Sent](https://open.spotify.com/album/2IchXZECJXUQYmD0o49uwU) | 2:34 | 2024-01-18 | 2025-01-10 |
 | [Settings](https://open.spotify.com/track/6nQqtUIELq6zQWld6UwhDn) | [Carmon](https://open.spotify.com/artist/4Bu9ocyPQWQRyk3kXDSNlv) | [Settings](https://open.spotify.com/album/4c9XYiW6vT5hS8c4Pofmjp) | 2:01 | 2023-09-21 | 2024-01-19 |
@@ -560,6 +565,7 @@
 | [Snik Snak \(feat\. Noah Carter\)](https://open.spotify.com/track/0Y3i5QMg6gkiNNXQl2fBAM) | [Carmon](https://open.spotify.com/artist/4Bu9ocyPQWQRyk3kXDSNlv), [Noah Carter](https://open.spotify.com/artist/2dfY7zXIP61MKHtD175hFp) | [Anderledes Aura](https://open.spotify.com/album/68TaBEOIlGQjolKMIDThPa) | 2:40 | 2026-04-09 | 2026-09-04 |
 | [SOBER](https://open.spotify.com/track/0XJnk1m8m43RbeBYnbdlxy) | [NODE](https://open.spotify.com/artist/03WNJB1zKyqW8DimkHP4Bg) | [SOBER](https://open.spotify.com/album/5lUNsYLIZX9QDIFnxmcGxv) | 2:47 | 2024-09-27 | 2024-11-01 |
 | [SODA](https://open.spotify.com/track/2qQW6QYAqpRXWkIjiABgys) | [wicky](https://open.spotify.com/artist/79ky6ZBdwtfcMNf2LqRzvP) | [SODA](https://open.spotify.com/album/1Oc0wPHNFMdpvAB6F0H0zc) | 2:08 | 2026-10-01 |  |
+| [Soldier Boy \(Soulja Boy\)](https://open.spotify.com/track/6AAjwyHrrYRZZ6IZVRtL7N) | [Fed](https://open.spotify.com/artist/3iNAYojNoEixhavOvoW1Pr) | [Soldier Boy \(Soulja Boy\)](https://open.spotify.com/album/70byjpLUDzW8TsxEU5qSaE) | 2:18 | 2026-11-26 |  |
 | [SOLEN STÅR OP](https://open.spotify.com/track/4CSJtn4yNxWa3Cmo7ngPYN) | [RH](https://open.spotify.com/artist/0BecZI4vqLoN178y3f16XJ) | [SOLEN STÅR OP](https://open.spotify.com/album/6IXAw5CQJAfQvXi0QWBBAM) | 2:27 | 2024-03-08 | 2024-04-26 |
 | [Solrige Dage](https://open.spotify.com/track/06lB0pKFVgJbiiPiPHk2J8) | [Miklo](https://open.spotify.com/artist/1ehbJ6ob0exKXppmDcfhm8) | [Solrige Dage](https://open.spotify.com/album/00h0m8cnd3ac4c0Gy9R3ul) | 2:47 | 2025-07-31 | 2025-08-22 |
 | [Som Forleden](https://open.spotify.com/track/4hI2NaagyNj7N5kS9M9vVh) | [Lamin](https://open.spotify.com/artist/4ZwOlDVAGXQo66ykbLQ8dP) | [Som Forleden](https://open.spotify.com/album/4Oofku7QyqBO8OlQxyvrnd) | 2:41 | 2023-09-21 | 2023-12-14 |
@@ -604,6 +610,7 @@
 | [TMAX](https://open.spotify.com/track/4ssk9gSrtDLemExleFmYeS) | [LOLO](https://open.spotify.com/artist/30G2LsTs2NCXeCbjuZYvnf) | [TMAX](https://open.spotify.com/album/0DQG2g45oPf0Zvi5gbCh0a) | 2:01 | 2023-09-21 | 2023-11-11 |
 | [To Gange](https://open.spotify.com/track/1ByKkALevy63Nd0VBw1ToD) | [KESI](https://open.spotify.com/artist/2d7AMvzFwh5wUTuqQl3BAE), [Lamin](https://open.spotify.com/artist/4ZwOlDVAGXQo66ykbLQ8dP) | [FOMO 88.8 FM](https://open.spotify.com/album/4B4EYQ1TfHMWJlOTTpenmn) | 1:56 | 2024-08-07 | 2025-02-28 |
 | [Tog Dit Hjerte](https://open.spotify.com/track/5BsppsIMQjIjrnpQ288SYK) | [willum](https://open.spotify.com/artist/5TkuPbaXBv3T08JcdvsiDz) | [Tog Dit Hjerte](https://open.spotify.com/album/65kUHONYP441tbeCktQgJo) | 2:32 | 2026-10-29 |  |
+| [Top Boy](https://open.spotify.com/track/5og1JeqFDV3OTlNMVQnokL) | [Wesmo](https://open.spotify.com/artist/6igw5k1b1JrNyj4E3rZVm3) | [Top Boy](https://open.spotify.com/album/71x9FuVpcLyTggt4fFg9HC) | 2:27 | 2026-11-26 |  |
 | [Topfart](https://open.spotify.com/track/2EbLz05DxMmuiEQv7zgNrY) | [Eezy](https://open.spotify.com/artist/7wlIkhhCpEiTUjBQtxrowe) | [Topfart](https://open.spotify.com/album/2acA3wjr4eYsfX7WCWEXF6) | 2:34 | 2024-02-22 | 2024-04-05 |
 | [Topform \(feat\. Lamin\)](https://open.spotify.com/track/53HToqrRc4NB5CBOUJjSWH) | [KESI](https://open.spotify.com/artist/2d7AMvzFwh5wUTuqQl3BAE), [Lamin](https://open.spotify.com/artist/4ZwOlDVAGXQo66ykbLQ8dP) | [TILLYKKE](https://open.spotify.com/album/4bJGHh9r2ssr5vt6y2OZLg) | 2:21 | 2023-09-21 | 2024-09-13 |
 | [Topskud](https://open.spotify.com/track/2yXRAzgIXzLwKCoyP0kEwG) | [Tjabo](https://open.spotify.com/artist/4a8fAlcwVh5WQM19I6tZpU), [BONFI](https://open.spotify.com/artist/3rDUvh74JdHkHrgV7xyEia) | [Tjabo](https://open.spotify.com/album/5m7m3rfPyB3FBYuedwOMgW) | 2:11 | 2026-08-07 | 2026-09-04 |

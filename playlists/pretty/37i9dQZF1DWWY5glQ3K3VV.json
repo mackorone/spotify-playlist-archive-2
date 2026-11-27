@@ -1,6 +1,6 @@
 {
   "description": "SPINGERE",
-  "num_followers": 118412,
+  "num_followers": 118421,
   "original_name": "Club Rap ",
   "owner": {
     "name": "Spotify",
@@ -171,18 +171,22 @@
     {
       "added_at": "2026-09-03 22:02:54",
       "album": {
-        "name": "SWAG MUSIC",
-        "url": "https://open.spotify.com/album/2UXBH30efrkteg2hSfUB10"
+        "name": "Life Is Good (feat. Drake)",
+        "url": "https://open.spotify.com/album/5uCEoLCj3ZZZ1EtzQdQWVl"
       },
       "artists": [
         {
-          "name": "Artie 5ive",
-          "url": "https://open.spotify.com/artist/2R4kNOwHUUsuDYhKsESVbF"
+          "name": "Future",
+          "url": "https://open.spotify.com/artist/1RyvyyTE3xzB2ZywiAwp0i"
+        },
+        {
+          "name": "Drake",
+          "url": "https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4"
         }
       ],
-      "duration_ms": 172714,
-      "name": "SWAG MUSIC",
-      "url": "https://open.spotify.com/track/3QGY1Tr2MePboAxYtsdbn4"
+      "duration_ms": 237735,
+      "name": "Life Is Good (feat. Drake)",
+      "url": "https://open.spotify.com/track/5yY9lUy8nbvjM1Uyo1Uqoc"
     },
     {
       "added_at": "2026-09-03 22:02:54",
@@ -267,22 +271,18 @@
     {
       "added_at": "2026-09-03 22:02:54",
       "album": {
-        "name": "Life Is Good (feat. Drake)",
-        "url": "https://open.spotify.com/album/5uCEoLCj3ZZZ1EtzQdQWVl"
+        "name": "SWAG MUSIC",
+        "url": "https://open.spotify.com/album/2UXBH30efrkteg2hSfUB10"
       },
       "artists": [
         {
-          "name": "Future",
-          "url": "https://open.spotify.com/artist/1RyvyyTE3xzB2ZywiAwp0i"
-        },
-        {
-          "name": "Drake",
-          "url": "https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4"
+          "name": "Artie 5ive",
+          "url": "https://open.spotify.com/artist/2R4kNOwHUUsuDYhKsESVbF"
         }
       ],
-      "duration_ms": 237735,
-      "name": "Life Is Good (feat. Drake)",
-      "url": "https://open.spotify.com/track/5yY9lUy8nbvjM1Uyo1Uqoc"
+      "duration_ms": 172714,
+      "name": "SWAG MUSIC",
+      "url": "https://open.spotify.com/track/3QGY1Tr2MePboAxYtsdbn4"
     },
     {
       "added_at": "2026-09-03 22:02:54",
@@ -703,6 +703,22 @@
     {
       "added_at": "2026-09-03 22:02:54",
       "album": {
+        "name": "Bossoli",
+        "url": "https://open.spotify.com/album/6DkNp8K9LeYR2xryLdW7Sq"
+      },
+      "artists": [
+        {
+          "name": "Shiva",
+          "url": "https://open.spotify.com/artist/2K5nCggbhSZ00YCYP5qkZS"
+        }
+      ],
+      "duration_ms": 178758,
+      "name": "Bossoli",
+      "url": "https://open.spotify.com/track/5mn8bU8IjYqr8ZqTDmLtSO"
+    },
+    {
+      "added_at": "2026-09-03 22:02:54",
+      "album": {
         "name": "SIRIO",
         "url": "https://open.spotify.com/album/2v7KXdLrb81rGL9G7jwcjF"
       },
@@ -743,22 +759,6 @@
     {
       "added_at": "2026-09-03 22:02:54",
       "album": {
-        "name": "Bossoli",
-        "url": "https://open.spotify.com/album/6DkNp8K9LeYR2xryLdW7Sq"
-      },
-      "artists": [
-        {
-          "name": "Shiva",
-          "url": "https://open.spotify.com/artist/2K5nCggbhSZ00YCYP5qkZS"
-        }
-      ],
-      "duration_ms": 178758,
-      "name": "Bossoli",
-      "url": "https://open.spotify.com/track/5mn8bU8IjYqr8ZqTDmLtSO"
-    },
-    {
-      "added_at": "2026-09-03 22:02:54",
-      "album": {
         "name": "FERITE",
         "url": "https://open.spotify.com/album/4mLp42UXbXFTMhAM4V1Kgz"
       },
@@ -775,6 +775,30 @@
       "duration_ms": 151515,
       "name": "Soldi Arrotolati (feat. ANNA)",
       "url": "https://open.spotify.com/track/1zp4TEQ9zaNGXTjY6fsz1p"
+    },
+    {
+      "added_at": "2026-09-03 22:02:54",
+      "album": {
+        "name": "Madreperla",
+        "url": "https://open.spotify.com/album/5FnVg6RBrEFUIEpHRw8EB1"
+      },
+      "artists": [
+        {
+          "name": "Gu\u00e8",
+          "url": "https://open.spotify.com/artist/7F2utINZ6tSokSiZTQBE27"
+        },
+        {
+          "name": "ANNA",
+          "url": "https://open.spotify.com/artist/7K80yOTC0Id95gRaOxDG5u"
+        },
+        {
+          "name": "Sfera Ebbasta",
+          "url": "https://open.spotify.com/artist/23TFHmajVfBtlRx5MXqgoz"
+        }
+      ],
+      "duration_ms": 201845,
+      "name": "Cookies N' Cream (feat. ANNA & Sfera Ebbasta)",
+      "url": "https://open.spotify.com/track/1xUnvxp9DFrpwXnO0RHKUp"
     },
     {
       "added_at": "2026-09-03 22:02:54",
@@ -827,30 +851,6 @@
       "duration_ms": 146526,
       "name": "Warzone (feat. Artie 5ive, Capo Plaza & Nerissima Serpe)",
       "url": "https://open.spotify.com/track/6iFfFjKnr615pD7aL5Z2Cx"
-    },
-    {
-      "added_at": "2026-09-03 22:02:54",
-      "album": {
-        "name": "Madreperla",
-        "url": "https://open.spotify.com/album/5FnVg6RBrEFUIEpHRw8EB1"
-      },
-      "artists": [
-        {
-          "name": "Gu\u00e8",
-          "url": "https://open.spotify.com/artist/7F2utINZ6tSokSiZTQBE27"
-        },
-        {
-          "name": "ANNA",
-          "url": "https://open.spotify.com/artist/7K80yOTC0Id95gRaOxDG5u"
-        },
-        {
-          "name": "Sfera Ebbasta",
-          "url": "https://open.spotify.com/artist/23TFHmajVfBtlRx5MXqgoz"
-        }
-      ],
-      "duration_ms": 201845,
-      "name": "Cookies N' Cream (feat. ANNA & Sfera Ebbasta)",
-      "url": "https://open.spotify.com/track/1xUnvxp9DFrpwXnO0RHKUp"
     },
     {
       "added_at": "2026-09-03 22:02:54",
@@ -983,22 +983,6 @@
     {
       "added_at": "2026-09-03 22:02:54",
       "album": {
-        "name": "LOCO",
-        "url": "https://open.spotify.com/album/37gg7kaGWbOLVjLKMLKrwG"
-      },
-      "artists": [
-        {
-          "name": "Frezza",
-          "url": "https://open.spotify.com/artist/32G8poKFhw5C0um4jMXH9W"
-        }
-      ],
-      "duration_ms": 124528,
-      "name": "LOCO",
-      "url": "https://open.spotify.com/track/0LRn7PREPQewuKuiHTRC6T"
-    },
-    {
-      "added_at": "2026-09-03 22:02:54",
-      "album": {
         "name": "WAO",
         "url": "https://open.spotify.com/album/6nMTRVyMQdql9a5Afk1lOD"
       },
@@ -1019,22 +1003,18 @@
     {
       "added_at": "2026-09-03 22:02:54",
       "album": {
-        "name": "TaTaTa (feat. Travis Scott)",
-        "url": "https://open.spotify.com/album/5g7VbiVwXeu8lVdj4tpAZ5"
+        "name": "LOCO",
+        "url": "https://open.spotify.com/album/37gg7kaGWbOLVjLKMLKrwG"
       },
       "artists": [
         {
-          "name": "Burna Boy",
-          "url": "https://open.spotify.com/artist/3wcj11K77LjEY1PkEazffa"
-        },
-        {
-          "name": "Travis Scott",
-          "url": "https://open.spotify.com/artist/0Y5tJX1MQlPlqiwlOH1tJY"
+          "name": "Frezza",
+          "url": "https://open.spotify.com/artist/32G8poKFhw5C0um4jMXH9W"
         }
       ],
-      "duration_ms": 150651,
-      "name": "TaTaTa (feat. Travis Scott)",
-      "url": "https://open.spotify.com/track/7iCvoWlfuJ1y7zibnh1EW9"
+      "duration_ms": 124528,
+      "name": "LOCO",
+      "url": "https://open.spotify.com/track/0LRn7PREPQewuKuiHTRC6T"
     },
     {
       "added_at": "2026-09-03 22:02:54",
@@ -1063,6 +1043,26 @@
     {
       "added_at": "2026-09-03 22:02:54",
       "album": {
+        "name": "TaTaTa (feat. Travis Scott)",
+        "url": "https://open.spotify.com/album/5g7VbiVwXeu8lVdj4tpAZ5"
+      },
+      "artists": [
+        {
+          "name": "Burna Boy",
+          "url": "https://open.spotify.com/artist/3wcj11K77LjEY1PkEazffa"
+        },
+        {
+          "name": "Travis Scott",
+          "url": "https://open.spotify.com/artist/0Y5tJX1MQlPlqiwlOH1tJY"
+        }
+      ],
+      "duration_ms": 150651,
+      "name": "TaTaTa (feat. Travis Scott)",
+      "url": "https://open.spotify.com/track/7iCvoWlfuJ1y7zibnh1EW9"
+    },
+    {
+      "added_at": "2026-09-03 22:02:54",
+      "album": {
         "name": "Salvatore Vive",
         "url": "https://open.spotify.com/album/1VSve1RDkpnGq2J1VL1Ux4"
       },
@@ -1083,22 +1083,6 @@
     {
       "added_at": "2026-09-03 22:02:54",
       "album": {
-        "name": "CHAMPIONS LEAGUE",
-        "url": "https://open.spotify.com/album/0lXnDC17PrUn7US2iy8sa4"
-      },
-      "artists": [
-        {
-          "name": "Frezza",
-          "url": "https://open.spotify.com/artist/32G8poKFhw5C0um4jMXH9W"
-        }
-      ],
-      "duration_ms": 184560,
-      "name": "CHAMPIONS LEAGUE",
-      "url": "https://open.spotify.com/track/06Zq6HSD1O6XpblP1jXkMB"
-    },
-    {
-      "added_at": "2026-09-03 22:02:54",
-      "album": {
         "name": "BAMBOLA (feat. Niky Savage)",
         "url": "https://open.spotify.com/album/3M3ROZK07jqgSacqr6gcyX"
       },
@@ -1115,6 +1099,22 @@
       "duration_ms": 194693,
       "name": "BAMBOLA (feat. Niky Savage)",
       "url": "https://open.spotify.com/track/62OO2X47vPk5WxTx68HDqg"
+    },
+    {
+      "added_at": "2026-09-03 22:02:54",
+      "album": {
+        "name": "CHAMPIONS LEAGUE",
+        "url": "https://open.spotify.com/album/0lXnDC17PrUn7US2iy8sa4"
+      },
+      "artists": [
+        {
+          "name": "Frezza",
+          "url": "https://open.spotify.com/artist/32G8poKFhw5C0um4jMXH9W"
+        }
+      ],
+      "duration_ms": 184560,
+      "name": "CHAMPIONS LEAGUE",
+      "url": "https://open.spotify.com/track/06Zq6HSD1O6XpblP1jXkMB"
     },
     {
       "added_at": "2026-09-03 22:02:54",
@@ -1191,6 +1191,26 @@
     {
       "added_at": "2026-09-03 22:02:54",
       "album": {
+        "name": "Going Hard 3",
+        "url": "https://open.spotify.com/album/0oziYx99Q1JEAzHl5bZlra"
+      },
+      "artists": [
+        {
+          "name": "Tony Boy",
+          "url": "https://open.spotify.com/artist/6PsQc21YZU7WNfiODG69Qk"
+        },
+        {
+          "name": "ANNA",
+          "url": "https://open.spotify.com/artist/7K80yOTC0Id95gRaOxDG5u"
+        }
+      ],
+      "duration_ms": 130560,
+      "name": "Codeine (feat. ANNA)",
+      "url": "https://open.spotify.com/track/2fgOUiGsgelBOjH8ZTSJHs"
+    },
+    {
+      "added_at": "2026-09-03 22:02:54",
+      "album": {
         "name": "SCUGNIZZI X SEMPRE",
         "url": "https://open.spotify.com/album/1KAwVf1Z880lPfgDXSVCkM"
       },
@@ -1215,26 +1235,6 @@
       "duration_ms": 121804,
       "name": "ZE PEQUENO",
       "url": "https://open.spotify.com/track/0BTaf9B2reL6S8Ep82XMcO"
-    },
-    {
-      "added_at": "2026-09-03 22:02:54",
-      "album": {
-        "name": "Going Hard 3",
-        "url": "https://open.spotify.com/album/0oziYx99Q1JEAzHl5bZlra"
-      },
-      "artists": [
-        {
-          "name": "Tony Boy",
-          "url": "https://open.spotify.com/artist/6PsQc21YZU7WNfiODG69Qk"
-        },
-        {
-          "name": "ANNA",
-          "url": "https://open.spotify.com/artist/7K80yOTC0Id95gRaOxDG5u"
-        }
-      ],
-      "duration_ms": 130560,
-      "name": "Codeine (feat. ANNA)",
-      "url": "https://open.spotify.com/track/2fgOUiGsgelBOjH8ZTSJHs"
     },
     {
       "added_at": "2026-09-03 22:02:54",
@@ -1519,22 +1519,22 @@
     {
       "added_at": "2026-09-03 22:02:54",
       "album": {
-        "name": "RYAN TED",
-        "url": "https://open.spotify.com/album/2U9mwmcJrUmkIpJm9gq8n7"
+        "name": "Effetto notte",
+        "url": "https://open.spotify.com/album/39wuRno08Rl0Jsse2kCHga"
       },
       "artists": [
         {
-          "name": "Tedua",
-          "url": "https://open.spotify.com/artist/1AgAVqo74e2q4FVvg0xpT7"
+          "name": "Emis Killa",
+          "url": "https://open.spotify.com/artist/6FtwCmLY6L1sqvjaQ2lV6G"
         },
         {
-          "name": "ANNA",
-          "url": "https://open.spotify.com/artist/7K80yOTC0Id95gRaOxDG5u"
+          "name": "Sfera Ebbasta",
+          "url": "https://open.spotify.com/artist/23TFHmajVfBtlRx5MXqgoz"
         }
       ],
-      "duration_ms": 124464,
-      "name": "Felpa Nera (feat. ANNA)",
-      "url": "https://open.spotify.com/track/168t3ud7jZIslO0P5ZDKnj"
+      "duration_ms": 176000,
+      "name": "ON FIRE - paid in full",
+      "url": "https://open.spotify.com/track/2pGbOFiWVwZaTq3iKi5sGb"
     },
     {
       "added_at": "2026-09-03 22:02:54",
@@ -1559,22 +1559,22 @@
     {
       "added_at": "2026-09-03 22:02:54",
       "album": {
-        "name": "Effetto notte",
-        "url": "https://open.spotify.com/album/39wuRno08Rl0Jsse2kCHga"
+        "name": "RYAN TED",
+        "url": "https://open.spotify.com/album/2U9mwmcJrUmkIpJm9gq8n7"
       },
       "artists": [
         {
-          "name": "Emis Killa",
-          "url": "https://open.spotify.com/artist/6FtwCmLY6L1sqvjaQ2lV6G"
+          "name": "Tedua",
+          "url": "https://open.spotify.com/artist/1AgAVqo74e2q4FVvg0xpT7"
         },
         {
-          "name": "Sfera Ebbasta",
-          "url": "https://open.spotify.com/artist/23TFHmajVfBtlRx5MXqgoz"
+          "name": "ANNA",
+          "url": "https://open.spotify.com/artist/7K80yOTC0Id95gRaOxDG5u"
         }
       ],
-      "duration_ms": 176000,
-      "name": "ON FIRE - paid in full",
-      "url": "https://open.spotify.com/track/2pGbOFiWVwZaTq3iKi5sGb"
+      "duration_ms": 124464,
+      "name": "Felpa Nera (feat. ANNA)",
+      "url": "https://open.spotify.com/track/168t3ud7jZIslO0P5ZDKnj"
     },
     {
       "added_at": "2026-09-03 22:02:54",

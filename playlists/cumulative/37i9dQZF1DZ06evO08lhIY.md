@@ -4,7 +4,7 @@
 
 > This is Limoblaze\. The essential tracks, all in one playlist.
 
-88 songs - 4 hr 53 min
+89 songs - 4 hr 55 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -84,7 +84,8 @@
 | [Super Power](https://open.spotify.com/track/15Y7IdbhvkDvulOS5HS8zl) | [Limoblaze](https://open.spotify.com/artist/0liXA3xwx6pncxYQA30ahT) | [Solid Ground](https://open.spotify.com/album/48o7epnOBiRJrjRAi290qr) | 2:34 | 2026-03-31 | 2026-11-20 |
 | [Super Power II](https://open.spotify.com/track/06GKUmEBjcUAeM0FfbSphf) | [Limoblaze](https://open.spotify.com/artist/0liXA3xwx6pncxYQA30ahT), [RUA YOUNG](https://open.spotify.com/artist/6i1jJEMjPbIki7mpvE0QQ1) | [Super Power II Pack](https://open.spotify.com/album/3Aw2bB8g0D80ysihK9G68K) | 2:28 | 2026-09-11 |  |
 | [Talk & Do](https://open.spotify.com/track/2PXulTyeJgq6204kpwpzVM) | [Limoblaze](https://open.spotify.com/artist/0liXA3xwx6pncxYQA30ahT), [Ada Ehi](https://open.spotify.com/artist/27aJyju2K5sLLiCgZKemnt) | [Talk & Do](https://open.spotify.com/album/4lqNta0wM1DiICK7PORqx9) | 2:45 | 2025-07-15 |  |
-| [Talk & Do II](https://open.spotify.com/track/3ZDqVh19Mss6IQVUKEWxMt) | [Limoblaze](https://open.spotify.com/artist/0liXA3xwx6pncxYQA30ahT), [Marizu](https://open.spotify.com/artist/4rwolwLHj97rPwbhyNSeU9), [Emandiong](https://open.spotify.com/artist/5Vvh5iDYvPE6EHhUZbgpBs) | [Father's Love](https://open.spotify.com/album/3vS3r8d3EWBo9AD9qqMlm0) | 2:29 | 2026-09-30 |  |
+| [Talk & Do II](https://open.spotify.com/track/3ZDqVh19Mss6IQVUKEWxMt) | [Limoblaze](https://open.spotify.com/artist/0liXA3xwx6pncxYQA30ahT), [Marizu](https://open.spotify.com/artist/4rwolwLHj97rPwbhyNSeU9), [Emandiong](https://open.spotify.com/artist/5Vvh5iDYvPE6EHhUZbgpBs) | [Father's Love](https://open.spotify.com/album/3vS3r8d3EWBo9AD9qqMlm0) | 2:29 | 2026-09-30 | 2026-11-27 |
+| [Talk & Do II](https://open.spotify.com/track/5193WAFQfCw4XGjnHwcVsh) | [Limoblaze](https://open.spotify.com/artist/0liXA3xwx6pncxYQA30ahT), [Marizu](https://open.spotify.com/artist/4rwolwLHj97rPwbhyNSeU9), [Emandiong](https://open.spotify.com/artist/5Vvh5iDYvPE6EHhUZbgpBs) | [Talk & Do II](https://open.spotify.com/album/5bWpDaS7mCwRzVfMKYo2E8) | 2:29 | 2026-11-27 |  |
 | [This Kind Love](https://open.spotify.com/track/0FZKJ0tLHM3OvxdqRjuZBq) | [Limoblaze](https://open.spotify.com/artist/0liXA3xwx6pncxYQA30ahT), [Marizu](https://open.spotify.com/artist/4rwolwLHj97rPwbhyNSeU9), [Oba Reengy](https://open.spotify.com/artist/2p8Rrwmp4CLigLFsClVDVC) | [Father's Love](https://open.spotify.com/album/3vS3r8d3EWBo9AD9qqMlm0) | 2:45 | 2026-09-28 | 2026-10-18 |
 | [This Kind Love](https://open.spotify.com/track/6UapcI8lcu4dINFvlhjzEq) | [Limoblaze](https://open.spotify.com/artist/0liXA3xwx6pncxYQA30ahT), [Marizu](https://open.spotify.com/artist/4rwolwLHj97rPwbhyNSeU9), [Oba Reengy](https://open.spotify.com/artist/2p8Rrwmp4CLigLFsClVDVC) | [This Kind Love](https://open.spotify.com/album/0prCNqfLXKPZO8tlpuSXxc) | 2:45 | 2026-10-18 |  |
 | [Through It All](https://open.spotify.com/track/7HJ8vm2bMY49p8B9fOJbPU) | [Limoblaze](https://open.spotify.com/artist/0liXA3xwx6pncxYQA30ahT), [Joe L Barnes](https://open.spotify.com/artist/5nO7Yt0Jon48sqKR6VME4T), [Moses Akoh](https://open.spotify.com/artist/6mUEeS22r3xn9ksKKgENrT) | [Through It All](https://open.spotify.com/album/05sDA2q36D4gvHLC2B23X6) | 8:23 | 2025-11-30 | 2026-05-24 |

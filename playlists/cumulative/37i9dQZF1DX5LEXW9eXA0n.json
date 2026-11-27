@@ -20016,7 +20016,7 @@
       ],
       "date_added": "2026-04-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-27",
       "duration_ms": 213529,
       "name": "On such a wonderful night",
       "url": "https://open.spotify.com/track/2nnIHyTZOnFvkYeKeebFvu"
@@ -21092,6 +21092,24 @@
       "duration_ms": 218239,
       "name": "Phantom Pain",
       "url": "https://open.spotify.com/track/2DFxgbXJzTe8P7DJ5wjDeD"
+    },
+    {
+      "album": {
+        "name": "Piano",
+        "url": "https://open.spotify.com/album/5GCUeLKEJ2knY2wMUOXS5v"
+      },
+      "artists": [
+        {
+          "name": "#Annyeong",
+          "url": "https://open.spotify.com/artist/4M9tATKeCZPhipaM6ge2VS"
+        }
+      ],
+      "date_added": "2026-11-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 253453,
+      "name": "Piano",
+      "url": "https://open.spotify.com/track/747Sy9iiiDeXFAFyMkgc98"
     },
     {
       "album": {
@@ -26568,7 +26586,7 @@
       },
       "artists": [
         {
-          "name": "Shin Yong Jae",
+          "name": "SHIN YONGJAE",
           "url": "https://open.spotify.com/artist/2frFGmni9tkRgXYdXmzQvR"
         }
       ],

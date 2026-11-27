@@ -1,12 +1,12 @@
 {
   "description": "This is Bear McCreary. The essential tracks, all in one playlist.",
-  "num_followers": 11738,
+  "num_followers": 11739,
   "original_name": "This Is Bear McCreary",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "awOCAAAAAAAM1e5+itXK7HcPuDwykfT6",
+  "snapshot_id": "awYlAAAAAADMrgNBDCaEp5YU+25ihFc+",
   "tracks": [
     {
       "added_at": null,
@@ -95,6 +95,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "The Lord of the Rings: The Rings of Power (Season 3: Prime Original Series Soundtrack)",
+        "url": "https://open.spotify.com/album/1NXZBkmdHTzMqTpy1EyWea"
+      },
+      "artists": [
+        {
+          "name": "Bear McCreary",
+          "url": "https://open.spotify.com/artist/2ifvIECHAlEgPMBuBOJ0lG"
+        }
+      ],
+      "duration_ms": 267692,
+      "name": "Celeborn",
+      "url": "https://open.spotify.com/track/25eJcwIIZnwz2qFnvoXUKz"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Outlander Main Title Theme (Skye Boat Song) [feat. Raya Yarbrough]",
         "url": "https://open.spotify.com/album/1d0eMuR3QNb1UC6VbIkEEj"
       },
@@ -111,22 +127,6 @@
       "duration_ms": 96773,
       "name": "Outlander Main Title Theme (Skye Boat Song) [feat. Raya Yarbrough]",
       "url": "https://open.spotify.com/track/10VIsMEvM4K2xgFvh9plJi"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "The Lord of the Rings: The Rings of Power (Season 3: Prime Original Series Soundtrack)",
-        "url": "https://open.spotify.com/album/1NXZBkmdHTzMqTpy1EyWea"
-      },
-      "artists": [
-        {
-          "name": "Bear McCreary",
-          "url": "https://open.spotify.com/artist/2ifvIECHAlEgPMBuBOJ0lG"
-        }
-      ],
-      "duration_ms": 267692,
-      "name": "Celeborn",
-      "url": "https://open.spotify.com/track/25eJcwIIZnwz2qFnvoXUKz"
     },
     {
       "added_at": null,
@@ -187,8 +187,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "God of War (PlayStation Soundtrack)",
-        "url": "https://open.spotify.com/album/3AieuV7WztobSMYG86Hdez"
+        "name": "The Lord of the Rings: The Rings of Power (Season 2: Amazon Original Series Soundtrack)",
+        "url": "https://open.spotify.com/album/2Oe6kYDU9YQhun0YrXL9eV"
       },
       "artists": [
         {
@@ -196,13 +196,17 @@
           "url": "https://open.spotify.com/artist/2ifvIECHAlEgPMBuBOJ0lG"
         },
         {
-          "name": "Eiv\u00f8r",
-          "url": "https://open.spotify.com/artist/2dB4ya2W1Gvng8gjWSPu2H"
+          "name": "Rory Kinnear",
+          "url": "https://open.spotify.com/artist/6SSIsLO62MF9fki7azCOYF"
+        },
+        {
+          "name": "Daniel Weyman",
+          "url": "https://open.spotify.com/artist/0LoXTc6jYjrsaNrpvpc64m"
         }
       ],
-      "duration_ms": 219266,
-      "name": "Memories of Mother (From \"God of War\" Soundtrack) (feat. Eiv\u00f8r)",
-      "url": "https://open.spotify.com/track/7nEZnpwjdAw2vCRJg2Q2xG"
+      "duration_ms": 139988,
+      "name": "Old Tom Bombadil Reprise (feat. Rory Kinnear and Daniel Weyman)",
+      "url": "https://open.spotify.com/track/0geBtKwDWV8Df99GMeueQB"
     },
     {
       "added_at": null,
@@ -259,30 +263,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "The Lord of the Rings: The Rings of Power (Season 2: Amazon Original Series Soundtrack)",
-        "url": "https://open.spotify.com/album/2Oe6kYDU9YQhun0YrXL9eV"
-      },
-      "artists": [
-        {
-          "name": "Bear McCreary",
-          "url": "https://open.spotify.com/artist/2ifvIECHAlEgPMBuBOJ0lG"
-        },
-        {
-          "name": "Rory Kinnear",
-          "url": "https://open.spotify.com/artist/6SSIsLO62MF9fki7azCOYF"
-        },
-        {
-          "name": "Daniel Weyman",
-          "url": "https://open.spotify.com/artist/0LoXTc6jYjrsaNrpvpc64m"
-        }
-      ],
-      "duration_ms": 139988,
-      "name": "Old Tom Bombadil Reprise (feat. Rory Kinnear and Daniel Weyman)",
-      "url": "https://open.spotify.com/track/0geBtKwDWV8Df99GMeueQB"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "God of War (PlayStation Soundtrack)",
         "url": "https://open.spotify.com/album/3AieuV7WztobSMYG86Hdez"
       },
@@ -290,27 +270,15 @@
         {
           "name": "Bear McCreary",
           "url": "https://open.spotify.com/artist/2ifvIECHAlEgPMBuBOJ0lG"
-        }
-      ],
-      "duration_ms": 246626,
-      "name": "God of War (From \"God of War\" Soundtrack)",
-      "url": "https://open.spotify.com/track/6ZMwwuUOx8kefl32gWOjtY"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Outlander: Season 1, Vol. 1 (Original Television Soundtrack)",
-        "url": "https://open.spotify.com/album/7IACcKsPaMrCJjwsZLjoJ3"
-      },
-      "artists": [
+        },
         {
-          "name": "Bear McCreary",
-          "url": "https://open.spotify.com/artist/2ifvIECHAlEgPMBuBOJ0lG"
+          "name": "Eiv\u00f8r",
+          "url": "https://open.spotify.com/artist/2dB4ya2W1Gvng8gjWSPu2H"
         }
       ],
-      "duration_ms": 178333,
-      "name": "Castle Leoch",
-      "url": "https://open.spotify.com/track/3WvZJVAqJ0aWdEfFHquH1c"
+      "duration_ms": 219266,
+      "name": "Memories of Mother (From \"God of War\" Soundtrack) (feat. Eiv\u00f8r)",
+      "url": "https://open.spotify.com/track/7nEZnpwjdAw2vCRJg2Q2xG"
     },
     {
       "added_at": null,
@@ -327,6 +295,54 @@
       "duration_ms": 159946,
       "name": "Valinor",
       "url": "https://open.spotify.com/track/0u5Z2JqBdzHoXKcFgq0KK6"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Outlander: Season 1, Vol. 1 (Original Television Soundtrack)",
+        "url": "https://open.spotify.com/album/7IACcKsPaMrCJjwsZLjoJ3"
+      },
+      "artists": [
+        {
+          "name": "Bear McCreary",
+          "url": "https://open.spotify.com/artist/2ifvIECHAlEgPMBuBOJ0lG"
+        }
+      ],
+      "duration_ms": 338280,
+      "name": "Fallen Through Time",
+      "url": "https://open.spotify.com/track/77vdkjZCPZRECcDfZsdPmy"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Godzilla: King of the Monsters (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/6VQkLK6fJO8hFJmEF5dJz4"
+      },
+      "artists": [
+        {
+          "name": "Bear McCreary",
+          "url": "https://open.spotify.com/artist/2ifvIECHAlEgPMBuBOJ0lG"
+        }
+      ],
+      "duration_ms": 154560,
+      "name": "Godzilla Main Title",
+      "url": "https://open.spotify.com/track/6EscmbDWTIP17ZgNWOqPlf"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "God of War (PlayStation Soundtrack)",
+        "url": "https://open.spotify.com/album/3AieuV7WztobSMYG86Hdez"
+      },
+      "artists": [
+        {
+          "name": "Bear McCreary",
+          "url": "https://open.spotify.com/artist/2ifvIECHAlEgPMBuBOJ0lG"
+        }
+      ],
+      "duration_ms": 246626,
+      "name": "God of War (From \"God of War\" Soundtrack)",
+      "url": "https://open.spotify.com/track/6ZMwwuUOx8kefl32gWOjtY"
     },
     {
       "added_at": null,
@@ -351,22 +367,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Godzilla: King of the Monsters (Original Motion Picture Soundtrack)",
-        "url": "https://open.spotify.com/album/6VQkLK6fJO8hFJmEF5dJz4"
-      },
-      "artists": [
-        {
-          "name": "Bear McCreary",
-          "url": "https://open.spotify.com/artist/2ifvIECHAlEgPMBuBOJ0lG"
-        }
-      ],
-      "duration_ms": 154560,
-      "name": "Godzilla Main Title",
-      "url": "https://open.spotify.com/track/6EscmbDWTIP17ZgNWOqPlf"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Outlander: Season 1, Vol. 1 (Original Television Soundtrack)",
         "url": "https://open.spotify.com/album/7IACcKsPaMrCJjwsZLjoJ3"
       },
@@ -376,9 +376,9 @@
           "url": "https://open.spotify.com/artist/2ifvIECHAlEgPMBuBOJ0lG"
         }
       ],
-      "duration_ms": 338280,
-      "name": "Fallen Through Time",
-      "url": "https://open.spotify.com/track/77vdkjZCPZRECcDfZsdPmy"
+      "duration_ms": 178333,
+      "name": "Castle Leoch",
+      "url": "https://open.spotify.com/track/3WvZJVAqJ0aWdEfFHquH1c"
     },
     {
       "added_at": null,
@@ -575,42 +575,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Outlander: Blood of my Blood (Season 2 Original Series Soundtrack)",
-        "url": "https://open.spotify.com/album/1MzzczScFfaoZ8G0JQWyMh"
-      },
-      "artists": [
-        {
-          "name": "Bear McCreary",
-          "url": "https://open.spotify.com/artist/2ifvIECHAlEgPMBuBOJ0lG"
-        }
-      ],
-      "duration_ms": 236338,
-      "name": "For Hearth and Home",
-      "url": "https://open.spotify.com/track/0aw2UoWCwLexLfbYUAYg2y"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "God of War Ragnar\u00f6k (Original Soundtrack)",
-        "url": "https://open.spotify.com/album/7LmeRZOi905AochW9J9FAA"
-      },
-      "artists": [
-        {
-          "name": "Bear McCreary",
-          "url": "https://open.spotify.com/artist/2ifvIECHAlEgPMBuBOJ0lG"
-        },
-        {
-          "name": "Eiv\u00f8r",
-          "url": "https://open.spotify.com/artist/2dB4ya2W1Gvng8gjWSPu2H"
-        }
-      ],
-      "duration_ms": 213163,
-      "name": "Holding On (From \"God of War Ragnar\u00f6k\" Soundtrack) (feat. Eiv\u00f8r)",
-      "url": "https://open.spotify.com/track/1vtjHODXUuhsVc2BN60N9L"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "The Lord of the Rings: The Rings of Power (Season 3: Prime Original Series Soundtrack)",
         "url": "https://open.spotify.com/album/1NXZBkmdHTzMqTpy1EyWea"
       },
@@ -631,6 +595,38 @@
     {
       "added_at": null,
       "album": {
+        "name": "Outlander: Season 2 (Original Television Soundtrack)",
+        "url": "https://open.spotify.com/album/07aDYYURSMys73g1b0u6pU"
+      },
+      "artists": [
+        {
+          "name": "Bear McCreary",
+          "url": "https://open.spotify.com/artist/2ifvIECHAlEgPMBuBOJ0lG"
+        }
+      ],
+      "duration_ms": 209746,
+      "name": "Faith",
+      "url": "https://open.spotify.com/track/4E9QyByFJFlrT08DHD8zHW"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Outlander: Blood of my Blood (Season 2 Original Series Soundtrack)",
+        "url": "https://open.spotify.com/album/1MzzczScFfaoZ8G0JQWyMh"
+      },
+      "artists": [
+        {
+          "name": "Bear McCreary",
+          "url": "https://open.spotify.com/artist/2ifvIECHAlEgPMBuBOJ0lG"
+        }
+      ],
+      "duration_ms": 236338,
+      "name": "For Hearth and Home",
+      "url": "https://open.spotify.com/track/0aw2UoWCwLexLfbYUAYg2y"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "The Lord of the Rings: The Rings of Power (Season 2: Amazon Original Series Soundtrack)",
         "url": "https://open.spotify.com/album/2Oe6kYDU9YQhun0YrXL9eV"
       },
@@ -647,8 +643,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Outlander: Season 1, Vol. 2 (Original Television Soundtrack)",
-        "url": "https://open.spotify.com/album/2tYOFTmwwQydlHFksksO87"
+        "name": "God of War Ragnar\u00f6k (Original Soundtrack)",
+        "url": "https://open.spotify.com/album/7LmeRZOi905AochW9J9FAA"
       },
       "artists": [
         {
@@ -656,29 +652,13 @@
           "url": "https://open.spotify.com/artist/2ifvIECHAlEgPMBuBOJ0lG"
         },
         {
-          "name": "Raya Yarbrough",
-          "url": "https://open.spotify.com/artist/0REVpmwvmt8Mc9rHPJTsV2"
+          "name": "Eiv\u00f8r",
+          "url": "https://open.spotify.com/artist/2dB4ya2W1Gvng8gjWSPu2H"
         }
       ],
-      "duration_ms": 201773,
-      "name": "The Summoning (feat. Raya Yarbrough)",
-      "url": "https://open.spotify.com/track/1xnNYxFwlKOkZRRrGvc9Xq"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Outlander: Season 2 (Original Television Soundtrack)",
-        "url": "https://open.spotify.com/album/07aDYYURSMys73g1b0u6pU"
-      },
-      "artists": [
-        {
-          "name": "Bear McCreary",
-          "url": "https://open.spotify.com/artist/2ifvIECHAlEgPMBuBOJ0lG"
-        }
-      ],
-      "duration_ms": 209746,
-      "name": "Faith",
-      "url": "https://open.spotify.com/track/4E9QyByFJFlrT08DHD8zHW"
+      "duration_ms": 213163,
+      "name": "Holding On (From \"God of War Ragnar\u00f6k\" Soundtrack) (feat. Eiv\u00f8r)",
+      "url": "https://open.spotify.com/track/1vtjHODXUuhsVc2BN60N9L"
     },
     {
       "added_at": null,
@@ -715,6 +695,26 @@
     {
       "added_at": null,
       "album": {
+        "name": "Outlander: Season 1, Vol. 2 (Original Television Soundtrack)",
+        "url": "https://open.spotify.com/album/2tYOFTmwwQydlHFksksO87"
+      },
+      "artists": [
+        {
+          "name": "Bear McCreary",
+          "url": "https://open.spotify.com/artist/2ifvIECHAlEgPMBuBOJ0lG"
+        },
+        {
+          "name": "Raya Yarbrough",
+          "url": "https://open.spotify.com/artist/0REVpmwvmt8Mc9rHPJTsV2"
+        }
+      ],
+      "duration_ms": 201773,
+      "name": "The Summoning (feat. Raya Yarbrough)",
+      "url": "https://open.spotify.com/track/1xnNYxFwlKOkZRRrGvc9Xq"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Outlander: Season 7 (Original Television Soundtrack)",
         "url": "https://open.spotify.com/album/4qBiXsf6Xa71EmjOjG4iHT"
       },
@@ -727,22 +727,6 @@
       "duration_ms": 219293,
       "name": "War Is Inevitable",
       "url": "https://open.spotify.com/track/3K1n95TTbn9CLvReR9MyYc"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "God of War Ragnar\u00f6k (Original Soundtrack)",
-        "url": "https://open.spotify.com/album/7LmeRZOi905AochW9J9FAA"
-      },
-      "artists": [
-        {
-          "name": "Bear McCreary",
-          "url": "https://open.spotify.com/artist/2ifvIECHAlEgPMBuBOJ0lG"
-        }
-      ],
-      "duration_ms": 565666,
-      "name": "Letting Go (From \"God of War Ragnar\u00f6k\" Soundtrack)",
-      "url": "https://open.spotify.com/track/5rBXF4jd4xsenZnv5h3mfn"
     },
     {
       "added_at": null,
@@ -790,6 +774,78 @@
         {
           "name": "Bear McCreary",
           "url": "https://open.spotify.com/artist/2ifvIECHAlEgPMBuBOJ0lG"
+        },
+        {
+          "name": "Jens Kidman",
+          "url": "https://open.spotify.com/artist/0iTaLLCMTSi9pO4TE8sZTh"
+        },
+        {
+          "name": "Morgan Sorne",
+          "url": "https://open.spotify.com/artist/2OyHgTrHx5XKFb1oTRpDa3"
+        }
+      ],
+      "duration_ms": 218509,
+      "name": "Nazgnag\u00f4l (feat. Jens Kidman and Morgan Sorne)",
+      "url": "https://open.spotify.com/track/5tOQjPDTLC6F1Kjy3rM75t"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "God of War Ragnar\u00f6k (Original Soundtrack)",
+        "url": "https://open.spotify.com/album/7LmeRZOi905AochW9J9FAA"
+      },
+      "artists": [
+        {
+          "name": "Bear McCreary",
+          "url": "https://open.spotify.com/artist/2ifvIECHAlEgPMBuBOJ0lG"
+        }
+      ],
+      "duration_ms": 565666,
+      "name": "Letting Go (From \"God of War Ragnar\u00f6k\" Soundtrack)",
+      "url": "https://open.spotify.com/track/5rBXF4jd4xsenZnv5h3mfn"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Outlander: Season 4 (Original Television Soundtrack)",
+        "url": "https://open.spotify.com/album/5txUaOE0Skafk1JBkyzc7V"
+      },
+      "artists": [
+        {
+          "name": "Bear McCreary",
+          "url": "https://open.spotify.com/artist/2ifvIECHAlEgPMBuBOJ0lG"
+        }
+      ],
+      "duration_ms": 204666,
+      "name": "Brianna and Roger Theme",
+      "url": "https://open.spotify.com/track/7HvFEJxUMSKnfcZVJcRtur"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Outlander: Season 2 (Original Television Soundtrack)",
+        "url": "https://open.spotify.com/album/07aDYYURSMys73g1b0u6pU"
+      },
+      "artists": [
+        {
+          "name": "Bear McCreary",
+          "url": "https://open.spotify.com/artist/2ifvIECHAlEgPMBuBOJ0lG"
+        }
+      ],
+      "duration_ms": 270440,
+      "name": "White Roses of Scotland",
+      "url": "https://open.spotify.com/track/0CFfmGkOH4qxEVTUVMNxZq"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "The Lord of the Rings: The Rings of Power (Season 3: Prime Original Series Soundtrack)",
+        "url": "https://open.spotify.com/album/1NXZBkmdHTzMqTpy1EyWea"
+      },
+      "artists": [
+        {
+          "name": "Bear McCreary",
+          "url": "https://open.spotify.com/artist/2ifvIECHAlEgPMBuBOJ0lG"
         }
       ],
       "duration_ms": 312072,
@@ -819,22 +875,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Outlander: Season 4 (Original Television Soundtrack)",
-        "url": "https://open.spotify.com/album/5txUaOE0Skafk1JBkyzc7V"
-      },
-      "artists": [
-        {
-          "name": "Bear McCreary",
-          "url": "https://open.spotify.com/artist/2ifvIECHAlEgPMBuBOJ0lG"
-        }
-      ],
-      "duration_ms": 204666,
-      "name": "Brianna and Roger Theme",
-      "url": "https://open.spotify.com/track/7HvFEJxUMSKnfcZVJcRtur"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Outlander: Season 5 (Original Television Soundtrack)",
         "url": "https://open.spotify.com/album/3MzysgDbqZa3o1eEklNe4r"
       },
@@ -851,38 +891,6 @@
       "duration_ms": 546506,
       "name": "The Fiery Cross (feat. Griogair Labhruidh)",
       "url": "https://open.spotify.com/track/0iejrWjPMGrGNzQrGaEzrY"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "The Lord of the Rings: The Rings of Power (Season 3: Prime Original Series Soundtrack)",
-        "url": "https://open.spotify.com/album/1NXZBkmdHTzMqTpy1EyWea"
-      },
-      "artists": [
-        {
-          "name": "Bear McCreary",
-          "url": "https://open.spotify.com/artist/2ifvIECHAlEgPMBuBOJ0lG"
-        }
-      ],
-      "duration_ms": 153416,
-      "name": "Thrain",
-      "url": "https://open.spotify.com/track/55kqcP6bC5cvxdqGkDjo61"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Outlander: Season 2 (Original Television Soundtrack)",
-        "url": "https://open.spotify.com/album/07aDYYURSMys73g1b0u6pU"
-      },
-      "artists": [
-        {
-          "name": "Bear McCreary",
-          "url": "https://open.spotify.com/artist/2ifvIECHAlEgPMBuBOJ0lG"
-        }
-      ],
-      "duration_ms": 270440,
-      "name": "White Roses of Scotland",
-      "url": "https://open.spotify.com/track/0CFfmGkOH4qxEVTUVMNxZq"
     },
     {
       "added_at": null,

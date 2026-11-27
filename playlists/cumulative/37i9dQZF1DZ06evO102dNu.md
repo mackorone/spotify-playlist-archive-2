@@ -4,7 +4,7 @@
 
 > This is Frank Sinatra\. The essential tracks, all in one playlist.
 
-81 songs - 4 hr 9 min
+82 songs - 4 hr 12 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -27,7 +27,7 @@
 | [Drinking Water \(Aqua de Beber\)](https://open.spotify.com/track/0d7rAcuh3djewMUKGxyVG8) | [Antônio Carlos Jobim](https://open.spotify.com/artist/3pO5VjZ4wOHCMBXOvbMISG), [Frank Sinatra](https://open.spotify.com/artist/1Mxqyy3pSjf8kZZL4QVxS0) | [Sinatra/Jobim: The Complete Reprise Recordings](https://open.spotify.com/album/5280NkLzxe2w7K1JW9I8jX) | 2:35 | 2024-11-30 |  |
 | [Fly Me To The Moon](https://open.spotify.com/track/1PVTvvxpSkyJWemW1CwVVk) | [Frank Sinatra](https://open.spotify.com/artist/1Mxqyy3pSjf8kZZL4QVxS0) | [A Man And His Music](https://open.spotify.com/album/6lmuhQkwg4qkjytuho7Oxz) | 2:28 | 2026-05-19 | 2026-08-18 |
 | [Fly Me To The Moon \(In Other Words\)](https://open.spotify.com/track/5b7OgznPJJr1vHNYGyvxau) | [Frank Sinatra](https://open.spotify.com/artist/1Mxqyy3pSjf8kZZL4QVxS0), [Count Basie](https://open.spotify.com/artist/2jFZlvIea42ZvcCw4OeEdA) | [Sinatra/Basie: The Complete Reprise Studio Recordings](https://open.spotify.com/album/2NCtCObbmJoJnplsR5mLAl) | 2:27 | 2024-11-30 |  |
-| [Fly Me To The Moon \- Live At The Sands, Las Vegas, NV / January 29, 1966 / First Show](https://open.spotify.com/track/6cVtxsKo5SC9Z3IEfw6W54) | [Frank Sinatra](https://open.spotify.com/artist/1Mxqyy3pSjf8kZZL4QVxS0) | [Sinatra At The Sands \- 60th Anniversary](https://open.spotify.com/album/4HqxECORvwwBuD01A9zAVT) | 2:41 | 2026-10-27 |  |
+| [Fly Me To The Moon \- Live At The Sands, Las Vegas, NV / January 29, 1966 / First Show](https://open.spotify.com/track/6cVtxsKo5SC9Z3IEfw6W54) | [Frank Sinatra](https://open.spotify.com/artist/1Mxqyy3pSjf8kZZL4QVxS0) | [Sinatra At The Sands \- 60th Anniversary](https://open.spotify.com/album/4HqxECORvwwBuD01A9zAVT) | 2:41 | 2026-10-27 | 2026-11-27 |
 | [For Once In My Life](https://open.spotify.com/track/3FsrG1TIB79ONER5Fr1cCt) | [Frank Sinatra](https://open.spotify.com/artist/1Mxqyy3pSjf8kZZL4QVxS0) | [My Way \(Expanded Edition\)](https://open.spotify.com/album/3IdNQBn7De23AVyv2V67wn) | 2:51 | 2024-11-30 |  |
 | [Have Yourself a Merry Little Christmas \(feat\. Frank Sinatra\)](https://open.spotify.com/track/703fzperBa4pQsFYAANQZf) | [Sol Kaplan](https://open.spotify.com/artist/0SF29Uv75NwjxkTKCUo3Id), [Frank Sinatra](https://open.spotify.com/artist/1Mxqyy3pSjf8kZZL4QVxS0) | [The Victors \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/37qzw0lNg3SP6vwwGCHEnr) | 3:35 | 2024-11-30 | 2025-01-20 |
 | [Homesick \-\- That's All](https://open.spotify.com/track/46PMpnd62rwRX6wk3UNnd5) | [Frank Sinatra](https://open.spotify.com/artist/1Mxqyy3pSjf8kZZL4QVxS0) | [The Columbia Years \(1943\-1952\) The Complete Recordings](https://open.spotify.com/album/4mql5hi9two0Dm5QriSqQv) | 3:22 | 2024-12-01 | 2025-12-13 |
@@ -76,6 +76,7 @@
 | [The Girl From Ipanema](https://open.spotify.com/track/5N6pQ2vYtd3Rb9w7LC8PZ9) | [Antônio Carlos Jobim](https://open.spotify.com/artist/3pO5VjZ4wOHCMBXOvbMISG), [Frank Sinatra](https://open.spotify.com/artist/1Mxqyy3pSjf8kZZL4QVxS0) | [Sinatra/Jobim: The Complete Reprise Recordings](https://open.spotify.com/album/5280NkLzxe2w7K1JW9I8jX) | 3:20 | 2024-11-30 |  |
 | [The Girl From Ipanema \- 2008 Remastered](https://open.spotify.com/track/3NdHYXQK5gkFFEZvSMVVj6) | [Frank Sinatra](https://open.spotify.com/artist/1Mxqyy3pSjf8kZZL4QVxS0), [Antônio Carlos Jobim](https://open.spotify.com/artist/3pO5VjZ4wOHCMBXOvbMISG) | [Nothing But The Best \(2008 Remastered\)](https://open.spotify.com/album/3i67sGIVw8EBlgfSRv3Lj2) | 3:14 | 2024-11-30 |  |
 | [The Lady Is A Tramp \- Remastered 1998](https://open.spotify.com/track/4Z4eU8yoBtBGIQPQrhCFr2) | [Frank Sinatra](https://open.spotify.com/artist/1Mxqyy3pSjf8kZZL4QVxS0) | [A Swingin' Affair! \(Remastered / Expanded Edition\)](https://open.spotify.com/album/5Jxf3eOoGvWDGg957iXEkj) | 3:14 | 2024-11-30 |  |
+| [The September Of My Years](https://open.spotify.com/track/7aEqYB9fGCGtq8aYL6ugQU) | [Frank Sinatra](https://open.spotify.com/artist/1Mxqyy3pSjf8kZZL4QVxS0) | [September Of My Years \(Expanded Edition\)](https://open.spotify.com/album/3DdN3GRJj8YS0V0fiyXtbt) | 3:15 | 2026-11-27 |  |
 | [The Way You Look Tonight](https://open.spotify.com/track/0elmUoU7eMPwZX1Mw1MnQo) | [Frank Sinatra](https://open.spotify.com/artist/1Mxqyy3pSjf8kZZL4QVxS0) | [Days Of Wine And Roses, Moon River And Other Academy Award Winners](https://open.spotify.com/album/7FAo3wmrJNNzz2W5Z5ZG80) | 3:22 | 2024-11-30 |  |
 | [The World We Knew \(Over And Over\)](https://open.spotify.com/track/62KZRwymXq9Rgm8Cm5UCfx) | [Frank Sinatra](https://open.spotify.com/artist/1Mxqyy3pSjf8kZZL4QVxS0) | [The World We Knew](https://open.spotify.com/album/67Evm6gPc9wFSUf1aXOrKO) | 2:47 | 2024-11-30 |  |
 | [Theme From New York, New York](https://open.spotify.com/track/3QksrtI9VFCBHWA4rgvcV8) | [Frank Sinatra](https://open.spotify.com/artist/1Mxqyy3pSjf8kZZL4QVxS0) | [Trilogy: Past, Present & Future](https://open.spotify.com/album/4Cv61B08yHx3fwkylkhCxe) | 3:26 | 2024-11-30 |  |

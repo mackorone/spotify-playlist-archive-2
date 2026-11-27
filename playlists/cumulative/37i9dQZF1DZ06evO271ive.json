@@ -615,6 +615,28 @@
     },
     {
       "album": {
+        "name": "Grand Theft Auto VI: The Album (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/2O7j5mKjiyJRLNUo4RZKzs"
+      },
+      "artists": [
+        {
+          "name": "Real Dimez",
+          "url": "https://open.spotify.com/artist/4vBgQ1r8qLZ1mWaceTy58o"
+        },
+        {
+          "name": "Sexyy Red",
+          "url": "https://open.spotify.com/artist/3DbwFQlvLxRSi2uX8mf81A"
+        }
+      ],
+      "date_added": "2026-11-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 164392,
+      "name": "Cooties (Remix)",
+      "url": "https://open.spotify.com/track/3Q5nO0zCq8Mao1KgCCl9wk"
+    },
+    {
+      "album": {
         "name": "Daddy (feat. Sexyy Red)",
         "url": "https://open.spotify.com/album/2aUz6JfGW97Min1HueLXmp"
       },
@@ -1294,7 +1316,7 @@
       ],
       "date_added": "2025-04-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-27",
       "duration_ms": 147450,
       "name": "Hoochie Coochie",
       "url": "https://open.spotify.com/track/7ygjfxmmkgPN0nbyYOMD2T"

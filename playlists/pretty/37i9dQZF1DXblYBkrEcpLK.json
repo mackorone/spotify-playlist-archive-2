@@ -1,6 +1,6 @@
 {
   "description": "Celebrate the great female artists from anime culture. \u30a2\u30cb\u30e1\u30b7\u30fc\u30f3\u3092\u5f69\u308b\u5973\u6027\u30a2\u30fc\u30c6\u30a3\u30b9\u30c8\u9054\u3092\u7279\u96c6\uff01 Cover: \u6771\u5c71\u5948\u592e Nao Toyama",
-  "num_followers": 199023,
+  "num_followers": 199020,
   "original_name": "Women of Anime",
   "owner": {
     "name": "Spotify",
@@ -407,22 +407,6 @@
     {
       "added_at": "2026-11-13 07:40:40",
       "album": {
-        "name": "UNDEAD",
-        "url": "https://open.spotify.com/album/6MJBA73OCvq4FEJqYhXn9e"
-      },
-      "artists": [
-        {
-          "name": "YOASOBI",
-          "url": "https://open.spotify.com/artist/64tJ2EAv1R6UaZqc4iOCyj"
-        }
-      ],
-      "duration_ms": 182702,
-      "name": "UNDEAD",
-      "url": "https://open.spotify.com/track/5NxmDq0yXBYGfCbMqvIXuv"
-    },
-    {
-      "added_at": "2026-11-13 07:40:40",
-      "album": {
         "name": "Open \u03b1 Door",
         "url": "https://open.spotify.com/album/4BJ7PY6YSfHY9pu2nDFBiy"
       },
@@ -435,6 +419,22 @@
       "duration_ms": 184898,
       "name": "\u6b8b\u97ff\u6563\u6b4c",
       "url": "https://open.spotify.com/track/2cErTn7DU75ZILisPP34TB"
+    },
+    {
+      "added_at": "2026-11-13 07:40:40",
+      "album": {
+        "name": "UNDEAD",
+        "url": "https://open.spotify.com/album/6MJBA73OCvq4FEJqYhXn9e"
+      },
+      "artists": [
+        {
+          "name": "YOASOBI",
+          "url": "https://open.spotify.com/artist/64tJ2EAv1R6UaZqc4iOCyj"
+        }
+      ],
+      "duration_ms": 182702,
+      "name": "UNDEAD",
+      "url": "https://open.spotify.com/track/5NxmDq0yXBYGfCbMqvIXuv"
     },
     {
       "added_at": "2026-11-13 07:40:40",
@@ -755,22 +755,6 @@
     {
       "added_at": "2026-11-13 07:40:40",
       "album": {
-        "name": "\u30e9\u30b9\u30c8\u30c0\u30f3\u30b9\u3042\u306a\u305f\u3068",
-        "url": "https://open.spotify.com/album/0fkv7ecmetM6W7GUGQMYGb"
-      },
-      "artists": [
-        {
-          "name": "MISIA",
-          "url": "https://open.spotify.com/artist/3uyDATzOGjbGCts7v2eszk"
-        }
-      ],
-      "duration_ms": 213066,
-      "name": "\u30e9\u30b9\u30c8\u30c0\u30f3\u30b9\u3042\u306a\u305f\u3068",
-      "url": "https://open.spotify.com/track/4s2NSTs2Go6JSnAUKpM2bs"
-    },
-    {
-      "added_at": "2026-11-13 07:40:40",
-      "album": {
         "name": "\u65b0\u6642\u4ee3 (\u30a6\u30bf from ONE PIECE FILM RED)",
         "url": "https://open.spotify.com/album/7r72omJJLTajYYn9vImIcb"
       },
@@ -787,18 +771,18 @@
     {
       "added_at": "2026-11-13 07:40:40",
       "album": {
-        "name": "\u30a2\u30c9\u30ec\u30ca",
-        "url": "https://open.spotify.com/album/2QgUUmu8JSrgsuacr6dI6x"
+        "name": "\u30e9\u30b9\u30c8\u30c0\u30f3\u30b9\u3042\u306a\u305f\u3068",
+        "url": "https://open.spotify.com/album/0fkv7ecmetM6W7GUGQMYGb"
       },
       "artists": [
         {
-          "name": "YOASOBI",
-          "url": "https://open.spotify.com/artist/64tJ2EAv1R6UaZqc4iOCyj"
+          "name": "MISIA",
+          "url": "https://open.spotify.com/artist/3uyDATzOGjbGCts7v2eszk"
         }
       ],
-      "duration_ms": 185825,
-      "name": "\u30a2\u30c9\u30ec\u30ca",
-      "url": "https://open.spotify.com/track/6RlkEHM3PohEge8Lfhe9Cs"
+      "duration_ms": 213066,
+      "name": "\u30e9\u30b9\u30c8\u30c0\u30f3\u30b9\u3042\u306a\u305f\u3068",
+      "url": "https://open.spotify.com/track/4s2NSTs2Go6JSnAUKpM2bs"
     },
     {
       "added_at": "2026-11-13 07:40:40",
@@ -815,6 +799,22 @@
       "duration_ms": 165280,
       "name": "Pang Pang Pang",
       "url": "https://open.spotify.com/track/17upXStU80To2HOMpCdn8t"
+    },
+    {
+      "added_at": "2026-11-13 07:40:40",
+      "album": {
+        "name": "\u30a2\u30c9\u30ec\u30ca",
+        "url": "https://open.spotify.com/album/2QgUUmu8JSrgsuacr6dI6x"
+      },
+      "artists": [
+        {
+          "name": "YOASOBI",
+          "url": "https://open.spotify.com/artist/64tJ2EAv1R6UaZqc4iOCyj"
+        }
+      ],
+      "duration_ms": 185825,
+      "name": "\u30a2\u30c9\u30ec\u30ca",
+      "url": "https://open.spotify.com/track/6RlkEHM3PohEge8Lfhe9Cs"
     },
     {
       "added_at": "2026-11-13 07:40:40",

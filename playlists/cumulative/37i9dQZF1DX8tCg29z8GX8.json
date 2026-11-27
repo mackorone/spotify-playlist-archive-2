@@ -499,6 +499,32 @@
     },
     {
       "album": {
+        "name": "Ab\u0254nefo\u0254",
+        "url": "https://open.spotify.com/album/59EjUYeaMkqVvcDagvtfjb"
+      },
+      "artists": [
+        {
+          "name": "AratheJay",
+          "url": "https://open.spotify.com/artist/2d8z61cS6XfaDDv5tbDOWN"
+        },
+        {
+          "name": "Kelvin Black",
+          "url": "https://open.spotify.com/artist/4RBd9AXV1VdGxlWoKVWwXM"
+        },
+        {
+          "name": "Xlimkid",
+          "url": "https://open.spotify.com/artist/2R4dOeNFDtzHkuTXiydZ5c"
+        }
+      ],
+      "date_added": "2026-11-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 241311,
+      "name": "Ab\u0254nefo\u0254",
+      "url": "https://open.spotify.com/track/1HTypTsGSRQkJbWAZDABc1"
+    },
+    {
+      "album": {
         "name": "BADDIES <3 MOLIY",
         "url": "https://open.spotify.com/album/0WIupJhXxVtHKJBDll1d0l"
       },
@@ -1304,6 +1330,28 @@
       "duration_ms": 303716,
       "name": "Answer (feat. Omawumi)",
       "url": "https://open.spotify.com/track/7wx2t7wL4IgwZKdf0kjZuu"
+    },
+    {
+      "album": {
+        "name": "Antigua",
+        "url": "https://open.spotify.com/album/3iKbSXJNFlKqgAzzFxlEZN"
+      },
+      "artists": [
+        {
+          "name": "Sarkodie",
+          "url": "https://open.spotify.com/artist/01DTVE3KmoPogPZaOvMqO8"
+        },
+        {
+          "name": "King Promise",
+          "url": "https://open.spotify.com/artist/4tIKaxUmpXzshok2yCnwdf"
+        }
+      ],
+      "date_added": "2026-11-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 196192,
+      "name": "Antigua",
+      "url": "https://open.spotify.com/track/5ZCRfow7u1txLEVETJFvMk"
     },
     {
       "album": {
@@ -8132,7 +8180,7 @@
       ],
       "date_added": "2024-08-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-27",
       "duration_ms": 217399,
       "name": "Jesus Christ 2",
       "url": "https://open.spotify.com/track/0YgtgUHRS8vC9bytCETMZB"
@@ -10109,6 +10157,24 @@
     },
     {
       "album": {
+        "name": "Marry You",
+        "url": "https://open.spotify.com/album/3fjkCmyE5PXEpm4KBkpm5N"
+      },
+      "artists": [
+        {
+          "name": "Stonebwoy",
+          "url": "https://open.spotify.com/artist/2ayt5jDUuTCpoTG7sHSvuq"
+        }
+      ],
+      "date_added": "2026-11-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 188888,
+      "name": "Marry You",
+      "url": "https://open.spotify.com/track/0R8VCLGJLT3xnn5gqXXQ0a"
+    },
+    {
+      "album": {
         "name": "Masallaci",
         "url": "https://open.spotify.com/album/0fZTCzdV6sxq4l2Ez6Bt6M"
       },
@@ -10306,7 +10372,7 @@
       ],
       "date_added": "2025-06-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-27",
       "duration_ms": 170840,
       "name": "meet 4 corner",
       "url": "https://open.spotify.com/track/1xzClFt96f9K5mGCCAXTD8"
@@ -11848,7 +11914,7 @@
       ],
       "date_added": "2026-05-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-27",
       "duration_ms": 156000,
       "name": "ODO PA",
       "url": "https://open.spotify.com/track/4XyamF81pJyWkC8Q1ps1Ff"
@@ -14356,7 +14422,7 @@
       ],
       "date_added": "2026-11-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-27",
       "duration_ms": 132592,
       "name": "SAVE ME",
       "url": "https://open.spotify.com/track/7eZWymo3fZhBQZDwdAOsf0"
@@ -15310,6 +15376,24 @@
       "duration_ms": 182857,
       "name": "Soweto (with Omah Lay & Tempoe)",
       "url": "https://open.spotify.com/track/5bKxwhNieD3qoGmwkoM4Vk"
+    },
+    {
+      "album": {
+        "name": "Speak",
+        "url": "https://open.spotify.com/album/3Vmrr3643mlR3hTBlJ9NtT"
+      },
+      "artists": [
+        {
+          "name": "Gyakie",
+          "url": "https://open.spotify.com/artist/1zO1FWFxxNUCqUuGATxZQZ"
+        }
+      ],
+      "date_added": "2026-11-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 160824,
+      "name": "Speak",
+      "url": "https://open.spotify.com/track/4XC9UfqbR62OauedPdMiSH"
     },
     {
       "album": {

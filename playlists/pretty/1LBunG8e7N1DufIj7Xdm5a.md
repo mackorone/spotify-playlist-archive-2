@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/1LBunG8e7N1DufIj7Xdm5a.md) - [plain]
 
 > playlist spotify free
 
-[Cristian Nevola](https://open.spotify.com/user/1188041238) - 288 likes - 5,591 songs - 13 day 0 hr 44 min
+[Cristian Nevola](https://open.spotify.com/user/1188041238) - 288 likes - 5,593 songs - 13 day 0 hr 51 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -5599,5 +5599,7 @@ pretty - [cumulative](/playlists/cumulative/1LBunG8e7N1DufIj7Xdm5a.md) - [plain]
 | 5589 | [Errorzone](https://open.spotify.com/track/5eFI3Z10boOcLyJO4PnZ0F) | [Vein.fm](https://open.spotify.com/artist/5NU7mpGqMvlZpq63RajHOH) | [Errorzone](https://open.spotify.com/album/5KSIgVF5lx4JURkS50jRS9) | 4:15 |
 | 5590 | [Five Stars](https://open.spotify.com/track/1QswqzN2X2tC9cWYBymPnP) | [OUTLAW SOCIETY](https://open.spotify.com/artist/5mem2hI70zuwz2nkkUWWKQ) | [Five Stars](https://open.spotify.com/album/45Q6agfZoAo5zyWSoqptb0) | 3:52 |
 | 5591 | [Killer in Me](https://open.spotify.com/track/0jj4Zch9p9bWbyO1HlGST6) | [NitRo \- Tunes](https://open.spotify.com/artist/4jYkECQhDrMZPm8DNPafYP) | [Eternal Lights](https://open.spotify.com/album/71hEBDtxSuQswTT1E7Iszu) | 3:50 |
+| 5592 | [Who Hurt You?](https://open.spotify.com/track/2u19Unl6KmXv8LtXV3soJU) | [Wretched Things](https://open.spotify.com/artist/6bq9LPNfltcBgpvfdtTWwk) | [Who Hurt You?](https://open.spotify.com/album/11j0mR7VT4vOy5ReydgFZU) | 3:38 |
+| 5593 | [An Evil Creek Christmas](https://open.spotify.com/track/1H8nVOSsO07tvHSj7HTmM0) | [Evil Creek](https://open.spotify.com/artist/2I4085hTPFNAyGRFvgo1LM) | [An Evil Creek Christmas](https://open.spotify.com/album/7k5bCK7rvvFkcBnkHVyGL5) | 3:57 |
 
-Snapshot ID: `AAALJeef1xt1n/ATKGIwAoG9HqrJyNAa`
+Snapshot ID: `AAALJyXBQpTXnMV8imnMd5ZI4zbZBMC9`

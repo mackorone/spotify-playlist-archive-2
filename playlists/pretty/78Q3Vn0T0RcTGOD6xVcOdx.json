@@ -1,12 +1,12 @@
 {
   "description": "Top hits 2026: best songs right now, chart hits, pop and R&amp;B hits.",
-  "num_followers": 554,
+  "num_followers": 555,
   "original_name": "Top Hits 2026 \ud83d\udd25 Best Songs Right Now, Chart Hits, Pop & R&B Hits",
   "owner": {
     "name": "Nuvora",
     "url": "https://open.spotify.com/user/11141650175"
   },
-  "snapshot_id": "AAAC5iZOEmru6jCrZK4u/qU0MPfVlbuT",
+  "snapshot_id": "AAAC7EfN2ir7RFqurvvgYWg8nymujwJk",
   "tracks": [
     {
       "added_at": "2026-10-07 15:07:55",
@@ -2179,6 +2179,102 @@
       "duration_ms": 168364,
       "name": "This Year",
       "url": "https://open.spotify.com/track/2LMu07B1arHDz7BnE7KxPb"
+    },
+    {
+      "added_at": "2026-11-26 16:26:20",
+      "album": {
+        "name": "I'll Follow",
+        "url": "https://open.spotify.com/album/0YGDdfOPnLNsK6te5whKYy"
+      },
+      "artists": [
+        {
+          "name": "BOLO BOIS",
+          "url": "https://open.spotify.com/artist/5xQVUYIGVCMe8cBEqYWZWO"
+        }
+      ],
+      "duration_ms": 236190,
+      "name": "I'll Follow",
+      "url": "https://open.spotify.com/track/30EGgezbFTSZ2RBI2Zhcs5"
+    },
+    {
+      "added_at": "2026-11-26 16:27:08",
+      "album": {
+        "name": "Burning Sparrow",
+        "url": "https://open.spotify.com/album/2DyoIYvDbh7vplLvcQE1Cg"
+      },
+      "artists": [
+        {
+          "name": "That's Ren\u00e9",
+          "url": "https://open.spotify.com/artist/2rniRweMGwb0DEal8ymfPQ"
+        }
+      ],
+      "duration_ms": 345575,
+      "name": "Burning Sparrow",
+      "url": "https://open.spotify.com/track/6Lm7Lip7BrFUqNiNtovzgx"
+    },
+    {
+      "added_at": "2026-11-26 16:28:01",
+      "album": {
+        "name": "While We Still Can",
+        "url": "https://open.spotify.com/album/4R6rQndW4D72rGOxG1qC8b"
+      },
+      "artists": [
+        {
+          "name": "Frank Brugge",
+          "url": "https://open.spotify.com/artist/7jeSt9KkhCUeAvli8wmjiC"
+        }
+      ],
+      "duration_ms": 252800,
+      "name": "While We Still Can",
+      "url": "https://open.spotify.com/track/6YzbSxzvFYF8CUSPCzkh8w"
+    },
+    {
+      "added_at": "2026-11-26 16:29:40",
+      "album": {
+        "name": "Alive",
+        "url": "https://open.spotify.com/album/60p4rLiuJadU0NqhBJobMt"
+      },
+      "artists": [
+        {
+          "name": "Vini Camalcha",
+          "url": "https://open.spotify.com/artist/3JC0e5Xh4qjoU2azQPtFMc"
+        }
+      ],
+      "duration_ms": 452400,
+      "name": "Alive",
+      "url": "https://open.spotify.com/track/52N4TQbXfbpYSv3XhAUI2Q"
+    },
+    {
+      "added_at": "2026-11-26 16:30:22",
+      "album": {
+        "name": "Seasons II",
+        "url": "https://open.spotify.com/album/2BWxr6ZnHr9obaiPTLpEVH"
+      },
+      "artists": [
+        {
+          "name": "TheStaRiders",
+          "url": "https://open.spotify.com/artist/7jeaPXkwDOt6MmII5H0Z2g"
+        }
+      ],
+      "duration_ms": 224839,
+      "name": "Without U",
+      "url": "https://open.spotify.com/track/1sQHj3yMt9EyeBnTZvnxbz"
+    },
+    {
+      "added_at": "2026-11-26 18:42:45",
+      "album": {
+        "name": "Rhythm & Blues (New Season)",
+        "url": "https://open.spotify.com/album/3hBuhqOk6P2lsDIpFkreXu"
+      },
+      "artists": [
+        {
+          "name": "Majorrr",
+          "url": "https://open.spotify.com/artist/1ASx98978V6Mfzm8CByHTq"
+        }
+      ],
+      "duration_ms": 186315,
+      "name": "Rhythm & Blues (New Season)",
+      "url": "https://open.spotify.com/track/3AUH7mEwqFS31QGsmjpCAN"
     }
   ],
   "unique_name": "Top Hits 2026 \ud83d\udd25 Best Songs Right Now, Chart Hits, Pop & R&B Hits",

@@ -4,7 +4,7 @@
 
 > tradición, modernidad y frescura\. Sonido argentino, del futuro 📸 Trouve Feraud
 
-173 songs - 12 hr 0 min
+174 songs - 12 hr 4 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -145,6 +145,7 @@
 | [Se que no Vas a Volver](https://open.spotify.com/track/5HF4UKMAJa20x0fRZrNuce) | [Gaby Kerpel](https://open.spotify.com/artist/2cnT3zcI1uKvnT3n1JQnP4) | [CARNABAILITO](https://open.spotify.com/album/4QHsGumANBWVSTTMtK15HB) | 4:09 | 2024-03-29 | 2026-09-03 |
 | [Serenata Plateada](https://open.spotify.com/track/1lQJm0qUacjrCeSNlsInL2) | [Pol Nada](https://open.spotify.com/artist/1Dts5QEWhfTgrZvDBEdNUH) | [New Latam Beats From Argentina \(Disco A\)](https://open.spotify.com/album/0xl8eIaxb1yPsyMPNSaS86) | 5:25 | 2023-08-11 | 2026-09-03 |
 | [Sin darle motivo \- Derrok Remix](https://open.spotify.com/track/0pOy8zLbOSbIjVRxm4oqPP) | [Uji](https://open.spotify.com/artist/3BQDgh6CjxVXMhy00YEx3G), [La Charo](https://open.spotify.com/artist/4kAM3B6DtYL1GZVIHBglKK), [Derrok](https://open.spotify.com/artist/1Gqv9YkzHHS3jyQb0DvQTv) | [Sin darle motivo \(Derrok Remix\)](https://open.spotify.com/album/5CxO6iZLm3VFD7RCEOzNFa) | 5:28 | 2023-08-11 | 2026-09-03 |
+| [Sin Rumbo](https://open.spotify.com/track/3yaAX8Wp1ZsnJXg2vTg6vz) | [Veeyam](https://open.spotify.com/artist/0mUKZR7k8cOSewS6faryVf), [Veeyam & Los Gauchos](https://open.spotify.com/artist/2T62lS5PKNjBgZgrMEKtSH), [jjjulián](https://open.spotify.com/artist/1QQyeUqjjqvo9CNTIkzTAE) | [Naturaleza Nuestra](https://open.spotify.com/album/6t4fsxc5oHmL0HtG3hjbWl) | 3:07 | 2026-11-27 |  |
 | [Sirenita](https://open.spotify.com/track/2HuxNnfSAsbkQOrOpsWnpe) | [Lauphan](https://open.spotify.com/artist/3WCISvz5htT0JUmdjsHj1I) | [Litoraleza](https://open.spotify.com/album/28J5VHK9A7T5ooPnZFm7pc) | 3:28 | 2023-08-11 | 2026-09-03 |
 | [Sol de Mayo](https://open.spotify.com/track/6GNBSRNCK9ICj4cjOboZjs) | [León Cordero](https://open.spotify.com/artist/6qVPuVTRw9e4lqnAttpTBh) | [Jueves](https://open.spotify.com/album/0DRGfxoY78QeOkbislfWsT) | 3:28 | 2026-10-02 |  |
 | [Soy la lluvia](https://open.spotify.com/track/6nBTtVXOr8tXZQaJRguy8r) | [Los Bosques](https://open.spotify.com/artist/49Pl9Au4UinKf0RVdBycOG), [Vicky Ripa](https://open.spotify.com/artist/6p4NHYSocHSiSm3FFz6uJr) | [Soy la lluvia](https://open.spotify.com/album/6Z8c45wjOmc0m8kFhyYrLB) | 5:27 | 2023-08-11 | 2026-09-03 |

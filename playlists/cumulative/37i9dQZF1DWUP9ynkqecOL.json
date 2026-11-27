@@ -2867,6 +2867,32 @@
     },
     {
       "album": {
+        "name": "Naturaleza Nuestra",
+        "url": "https://open.spotify.com/album/6t4fsxc5oHmL0HtG3hjbWl"
+      },
+      "artists": [
+        {
+          "name": "Veeyam",
+          "url": "https://open.spotify.com/artist/0mUKZR7k8cOSewS6faryVf"
+        },
+        {
+          "name": "Veeyam & Los Gauchos",
+          "url": "https://open.spotify.com/artist/2T62lS5PKNjBgZgrMEKtSH"
+        },
+        {
+          "name": "jjjuli\u00e1n",
+          "url": "https://open.spotify.com/artist/1QQyeUqjjqvo9CNTIkzTAE"
+        }
+      ],
+      "date_added": "2026-11-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 187564,
+      "name": "Sin Rumbo",
+      "url": "https://open.spotify.com/track/3yaAX8Wp1ZsnJXg2vTg6vz"
+    },
+    {
+      "album": {
         "name": "Litoraleza",
         "url": "https://open.spotify.com/album/28J5VHK9A7T5ooPnZFm7pc"
       },

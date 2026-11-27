@@ -2,9 +2,9 @@
 
 ### [Québécois Contemporain](https://open.spotify.com/playlist/37i9dQZF1DX8X9gjW0N3D7)
 
-> De la musique québécoise pour tous les goûts\.  Photo: Alexandre Poulin
+> De la musique québécoise pour tous les goûts\.  Photo: Étienne Dufresne
 
-664 songs - 1 day 13 hr 7 min
+665 songs - 1 day 13 hr 10 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -396,7 +396,7 @@
 | [Mon amour](https://open.spotify.com/track/11r38rBuSbkj0M51YLDBh8) | [Clara Roy\-Jensen](https://open.spotify.com/artist/1JZu5DVhnKHHPWa9q4IJbZ) | [Mon amour](https://open.spotify.com/album/7CIx0b1ScA7XrRLTmbwJLk) | 4:29 | 2026-01-16 | 2026-03-21 |
 | [Monnaie](https://open.spotify.com/track/5SQMb560m9tf4ocbCQlZU7) | [Aswell](https://open.spotify.com/artist/7ircrxU9ilF88T3dfIP6yc) | [Monnaie](https://open.spotify.com/album/7sLIbhxsS3mFjE3nnqQYhZ) | 2:25 | 2025-09-12 | 2025-10-18 |
 | [monsieur Quan](https://open.spotify.com/track/5JvgShGpd6azGj7JO9XpxY) | [Alphonse Bisaillon](https://open.spotify.com/artist/2D6FbkaHZ4AYvKzp2E2Plt) | [monsieur Quan](https://open.spotify.com/album/0qiMtfdSUDzTDOkwgn6ZSM) | 5:17 | 2026-01-23 | 2026-03-07 |
-| [Mood Ring](https://open.spotify.com/track/7rDj3Mst01U7U6GmfHImZT) | [Sophia Bel](https://open.spotify.com/artist/6WJnpSVDynCWGrhJcSQIm6) | [Mood Ring](https://open.spotify.com/album/32egrBNmQPGPRSYWdkn9Xf) | 3:22 | 2026-08-21 |  |
+| [Mood Ring](https://open.spotify.com/track/7rDj3Mst01U7U6GmfHImZT) | [Sophia Bel](https://open.spotify.com/artist/6WJnpSVDynCWGrhJcSQIm6) | [Mood Ring](https://open.spotify.com/album/32egrBNmQPGPRSYWdkn9Xf) | 3:22 | 2026-08-21 | 2026-11-27 |
 | [Mosaic in the Sun](https://open.spotify.com/track/2iitUrUOfO8Mj5fdLUNGj1) | [Edwin Raphael](https://open.spotify.com/artist/44DUgsrbRUlhwfLyj4ySUB) | [I Know A Garden](https://open.spotify.com/album/5m48ZpXDMCaEYBIUlkEkmb) | 3:10 | 2026-07-17 |  |
 | [Moucherons](https://open.spotify.com/track/7MKcEo1tspRup4Ci2uDK2k) | [Grégoire Lemån](https://open.spotify.com/artist/3XvUHowr5b2j7xekM989Qi) | [Moucherons](https://open.spotify.com/album/0k5sogOb9BX47fxCTsMhpF) | 4:03 | 2025-10-17 | 2026-02-14 |
 | [Mourir ensemble](https://open.spotify.com/track/5cnFw5edGRri2cmWysHkuG) | [Mantisse](https://open.spotify.com/artist/20iPdUZMRpNULtRfv9mJP7) | [Mourir ensemble](https://open.spotify.com/album/0nH1KOHq6HogQGhIlNn3Lz) | 1:38 | 2026-02-20 | 2026-05-16 |
@@ -496,6 +496,7 @@
 | [Que je vous aime](https://open.spotify.com/track/7x4DcnTpKSlQZrzMgpugv0) | [Gabriella Olivo](https://open.spotify.com/artist/16TtQYVADdkb4Ay75wCVhO) | [Que je vous aime](https://open.spotify.com/album/1AiiElsCE9tm1xryxCswZP) | 3:16 | 2026-03-27 | 2026-06-27 |
 | [Que ta lumière](https://open.spotify.com/track/7HnHrPmhNbpj7Dim9MhoiD) | [Maude Audet](https://open.spotify.com/artist/4cevhLjv2nMVIOpUnS23n5) | [Que ta lumière](https://open.spotify.com/album/6s980Fk6p3ZTq8obc8QWVO) | 3:52 | 2026-04-10 | 2026-08-22 |
 | [Quel tourment !](https://open.spotify.com/track/5TTrU6eheAdQYyHSL7dnR7) | [Caroline Savoie](https://open.spotify.com/artist/0XTtTfY9lTNs1wPgpICfBb), [Jeanne Côté](https://open.spotify.com/artist/2dNYXvbpBSHNjYc8eAvQB7), [Ponteix](https://open.spotify.com/artist/1v0LRrF0AKvsTKrzNqVTEl) | [Quel tourment !](https://open.spotify.com/album/5lH7pG039yqIIryX9XUmPO) | 3:22 | 2026-04-24 | 2026-08-08 |
+| [quelle époque](https://open.spotify.com/track/68aRTk3AHVniMwsb4vyip9) | [Etienne Dufresne](https://open.spotify.com/artist/1wVdxcnaMBJy3MII8nZalv) | [zigzag](https://open.spotify.com/album/5de5N0q0Q2Pq1uitt2RnmP) | 3:05 | 2026-11-27 |  |
 | [Quelque chose](https://open.spotify.com/track/4kU9TPu6WatoMCFwULSKVm) | [Loud](https://open.spotify.com/artist/5DXzQwj6Kgr5kBjVlYdSHo) | [Quelque chose](https://open.spotify.com/album/7p16VbgKxfQWbDpAX6w4OH) | 2:05 | 2025-09-12 | 2025-10-18 |
 | [Quelque part](https://open.spotify.com/track/0UHRWEgyy2q6VrF97datxO) | [Annie Villeneuve](https://open.spotify.com/artist/4UIM7xyslKU8ufDGXcRDpa) | [Quelque part](https://open.spotify.com/album/1vfVX1lxSPPWOyNFtJE0qe) | 2:39 | 2024-09-20 | 2025-09-13 |
 | [Quitter la ville](https://open.spotify.com/track/2P27FSOybu4OXzkLkyCH4u) | [Miro](https://open.spotify.com/artist/5j7ql2sFpKxWvZI6TIDfgj), [Ariane Moffatt](https://open.spotify.com/artist/5x9UA1g9OYt1wCyPb0YN8l) | [Quitter la ville](https://open.spotify.com/album/4TuUgN6lJSQueUpDtjvBjG) | 3:05 | 2024-06-28 | 2024-11-09 |

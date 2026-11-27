@@ -1,13 +1,29 @@
 {
   "description": "Introducing RADAR Philippines Cast of 2026. Cover: NEW LORE",
-  "num_followers": 135740,
+  "num_followers": 135737,
   "original_name": "RADAR Philippines",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAOJ59X3DLyFne/KqsfeTTdf254XR",
+  "snapshot_id": "AAAAAOfB/96qt2Pxo4DBb+uJCG/43lGg",
   "tracks": [
+    {
+      "added_at": "2026-11-27 02:00:03",
+      "album": {
+        "name": "ACTIVATE",
+        "url": "https://open.spotify.com/album/3AGIP9pfoRLXtL1eZee0TH"
+      },
+      "artists": [
+        {
+          "name": "Waiian",
+          "url": "https://open.spotify.com/artist/3p5RE0gW2l4oFW82SgMv29"
+        }
+      ],
+      "duration_ms": 164055,
+      "name": "ACTIVATE",
+      "url": "https://open.spotify.com/track/4YIt8kkGqb4BROGbiPocaI"
+    },
     {
       "added_at": "2026-11-13 02:00:23",
       "album": {

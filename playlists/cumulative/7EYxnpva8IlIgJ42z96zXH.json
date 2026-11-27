@@ -5897,6 +5897,28 @@
     },
     {
       "album": {
+        "name": "Don't Wanna Dance",
+        "url": "https://open.spotify.com/album/4AhNzDO92dyAjbLgyiNxgM"
+      },
+      "artists": [
+        {
+          "name": "Snakehips",
+          "url": "https://open.spotify.com/artist/2FwJwEswyIUAljqgjNSHgP"
+        },
+        {
+          "name": "Scrufizzer",
+          "url": "https://open.spotify.com/artist/3JmGsgVoGUN1Ro1jLfi7k1"
+        }
+      ],
+      "date_added": "2026-11-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 181402,
+      "name": "Don't Wanna Dance",
+      "url": "https://open.spotify.com/track/3XjTAEGAsPZiQcnrqwZL29"
+    },
+    {
+      "album": {
         "name": "Don't You Hold Me Down",
         "url": "https://open.spotify.com/album/5KQgg5bFgzVeQeZ0E4mxSQ"
       },

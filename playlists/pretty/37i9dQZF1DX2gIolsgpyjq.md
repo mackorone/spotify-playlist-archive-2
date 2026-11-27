@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2gIolsgpyjq.md) - [plain]
 
 > The best new music by independent artists in the Nordics\. Cover: Casper The Ghost
 
-[Spotify](https://open.spotify.com/user/spotify) - 32,294 likes - 50 songs - 2 hr 25 min
+[Spotify](https://open.spotify.com/user/spotify) - 32,311 likes - 50 songs - 2 hr 25 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -14,7 +14,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2gIolsgpyjq.md) - [plain]
 | 4 | [when the light is on](https://open.spotify.com/track/5JNTDCjfLXZ8PAyW5NgrUV) | [mikey](https://open.spotify.com/artist/2ftTkWEgbZL8ziKDBRI9nr) | [when the light is on](https://open.spotify.com/album/7kxBRFqmpHCE6nc780afUg) | 2:51 |
 | 5 | [unfolded](https://open.spotify.com/track/7Be42TyWXpNFStuxNw8Khg) | [shinyhunt](https://open.spotify.com/artist/6HzmHkcqEfZjqzsd5rGG63) | [unfolded](https://open.spotify.com/album/0I5uPQBjW366cqW5FCalvM) | 1:39 |
 | 6 | [keep my cool](https://open.spotify.com/track/4UIBs4QxlYiFGWP3iyS39N) | [Serafina](https://open.spotify.com/artist/4g4oPw2qu01skDg6qpxUts) | [natura2000](https://open.spotify.com/album/3WLtIG6UFmJtSTTOxgVysn) | 1:32 |
-| 7 | [YOU](https://open.spotify.com/track/5FQRXenNy5f79zMwLijKgs) | [N4TE](https://open.spotify.com/artist/2VDxbSg037D6nxo0ed60z3), [fortune](https://open.spotify.com/artist/7yB0k5D1ojJSsCHrCATIsZ) | [YOU](https://open.spotify.com/album/7opjxzoXXfxjSpHwRAPOo6) | 2:38 |
+| 7 | [YOU](https://open.spotify.com/track/5FQRXenNy5f79zMwLijKgs) | [N4TE](https://open.spotify.com/artist/2VDxbSg037D6nxo0ed60z3), [fortune](https://open.spotify.com/artist/3OC5m2vZ5dYbZ4x2lfEfh2) | [YOU](https://open.spotify.com/album/7opjxzoXXfxjSpHwRAPOo6) | 2:38 |
 | 8 | [Hysteric](https://open.spotify.com/track/5tfmqHZHj1Py9L5XTfcxbk) | [Sylvie's Head](https://open.spotify.com/artist/6Re2HYnIxbLkNiAY5QqPDa) | [Hysteric](https://open.spotify.com/album/4j6bT07VTle16VcAJfGPp1) | 4:22 |
 | 9 | [Giddy Up](https://open.spotify.com/track/75qRpFoVkGqcXJh0T9T7mm) | [FRANCES](https://open.spotify.com/artist/5ci8yM9dEU2h7cQBo9i0QR), [Winnie Raeder](https://open.spotify.com/artist/1QnifH4HAt0yWP9A9IcoMK) | [Giddy Up](https://open.spotify.com/album/4BTP3XBaQ02rPWNaQpkrJR) | 2:35 |
 | 10 | [TOO YOUNG](https://open.spotify.com/track/3YcoHcFmI31xS20ZTSyDEY) | [ILMA](https://open.spotify.com/artist/28HUvCNgo5vgvf8Sm6wxfs) | [TOO YOUNG](https://open.spotify.com/album/6rHkJ18uaUtgZE5WHVCqBg) | 3:12 |

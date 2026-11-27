@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-04-20",
-  "description": "Trendy x Chill K-Hip Hop.  (Cover: justinforthis) (\ud2b8\ub80c\ub514 x \uce60! \uc138\ub828\ub418\uace0 \ub4e3\uae30 \ud3b8\ud55c \ud799\ud569\uc74c\uc545\ub4e4\uc744 \uc990\uaca8\ubcf4\uc138\uc694.) ",
+  "description": "Trendy x Chill K-Hip Hop.  (Cover: Colde) (\ud2b8\ub80c\ub514 x \uce60! \uc138\ub828\ub418\uace0 \ub4e3\uae30 \ud3b8\ud55c \ud799\ud569\uc74c\uc545\ub4e4\uc744 \uc990\uaca8\ubcf4\uc138\uc694.) ",
   "name": "TrenChill K-Hip Hop",
   "tracks": [
     {
@@ -9732,7 +9732,7 @@
       ],
       "date_added": "2026-11-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-27",
       "duration_ms": 168000,
       "name": "measurement",
       "url": "https://open.spotify.com/track/4dYpG9ztNxko6qDraNdgLt"
@@ -16966,7 +16966,7 @@
       ],
       "date_added": "2026-04-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-27",
       "duration_ms": 195333,
       "name": "Villain",
       "url": "https://open.spotify.com/track/6wiasLz64Eo0qdwOEuuq2Q"
@@ -18466,6 +18466,28 @@
       "duration_ms": 186745,
       "name": "\uc774 \uace0\uc694\uac00 \ub108\ubb34 \uc88b\uc544",
       "url": "https://open.spotify.com/track/2KvpeVhE15918QtnCc3QCJ"
+    },
+    {
+      "album": {
+        "name": "WAVY BABY",
+        "url": "https://open.spotify.com/album/2IEr9fbAhlQ96asZF6WT2F"
+      },
+      "artists": [
+        {
+          "name": "Colde",
+          "url": "https://open.spotify.com/artist/3VQDqjQ4wJyw8PzpGdlZpB"
+        },
+        {
+          "name": "Raf Sandou",
+          "url": "https://open.spotify.com/artist/4FBKTurCVdtC6Fq8mSQgj8"
+        }
+      ],
+      "date_added": "2026-11-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 188219,
+      "name": "\ucfe8\ud55c \ucc99 (FEAT. RAF SANDOU)",
+      "url": "https://open.spotify.com/track/5cLuzXj2YOxCu5v5l7PcGd"
     },
     {
       "album": {

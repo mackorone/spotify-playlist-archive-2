@@ -4,7 +4,7 @@
 
 > music to get fly to ft\. Erykah Badu
 
-691 songs - 1 day 13 hr 12 min
+692 songs - 1 day 13 hr 15 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -14,7 +14,7 @@
 | [11:30](https://open.spotify.com/track/4wMdqBMvVKpNPpRFiBRiXO) | [Duckwrth](https://open.spotify.com/artist/6I3MElirhT5t6Kf7p0hGk9) | [Chrome Bull](https://open.spotify.com/album/3IJE33ruLyvq3yCiJubw4g) | 3:01 | 2023-07-28 |  |
 | [2 Million Up](https://open.spotify.com/track/5JS1gz9zP4GTy0LZYvSeUK) | [Peezy](https://open.spotify.com/artist/6lOaHNmL3l3hKDGNf0egfs) | [ONLY BUILT 4 DIAMOND LINKS](https://open.spotify.com/album/3s4uzffoGode9dbtELaVEp) | 2:39 | 2024-09-05 | 2024-09-17 |
 | [212](https://open.spotify.com/track/16EMONl2vH3rt9f4ehTG8g) | [Azealia Banks](https://open.spotify.com/artist/7gRhy3MIPHQo5CXYfWaw9I), [Lazy Jay](https://open.spotify.com/artist/4vUAD0POkGvO6J9c9hv6qR) | [Broke with Expensive Taste](https://open.spotify.com/album/6ptPMZzScoFqSVfzph6m9B) | 3:24 | 2021-12-08 | 2022-04-28 |
-| [2PM](https://open.spotify.com/track/5RTi6GqC3aXSbTgxuSyv6x) | [Paco](https://open.spotify.com/artist/2XmsywQiI1izPHz7Mo84vZ) | [2PM](https://open.spotify.com/album/5vNYiaVnsawDAmoeEEAjiQ) | 1:53 | 2024-08-23 |  |
+| [2PM](https://open.spotify.com/track/5RTi6GqC3aXSbTgxuSyv6x) | [Paco](https://open.spotify.com/artist/2XmsywQiI1izPHz7Mo84vZ) | [2PM](https://open.spotify.com/album/5vNYiaVnsawDAmoeEEAjiQ) | 1:53 | 2024-08-23 | 2026-11-27 |
 | [4 Leaf Clover \(feat\. Steve Lacy\)](https://open.spotify.com/track/1To829onYmL63wLNtU7Zm8) | [Ravyn Lenae](https://open.spotify.com/artist/5RTLRtXjbXI2lSXc6jxlAz), [Steve Lacy](https://open.spotify.com/artist/57vWImR43h4CaDao012Ofp) | [Crush EP](https://open.spotify.com/album/7jxrYnrAa06rekcs1cxp7i) | 3:40 | 2024-05-02 | 2024-05-07 |
 | [4EVA \(feat\. Pharrell Williams\)](https://open.spotify.com/track/3CblJq8QQQ0bb7vwJu8c3v) | [KAYTRAMINÉ](https://open.spotify.com/artist/5oifjQw72WO7Jut07fVWMy), [Aminé](https://open.spotify.com/artist/3Gm5F95VdRxW3mqCn8RPBJ), [KAYTRANADA](https://open.spotify.com/artist/6qgnBH6iDM91ipVXv28OMu), [Pharrell Williams](https://open.spotify.com/artist/2RdwBSPQiwcmiDo9kixcl8) | [4EVA \(feat\. Pharrell Williams\)](https://open.spotify.com/album/3unS7dpXcZ0MmNBDkp5Hqx) | 3:10 | 2023-04-11 |  |
 | [505](https://open.spotify.com/track/58ge6dfP91o9oXMzq3XkIS) | [Arctic Monkeys](https://open.spotify.com/artist/7Ln80lUS6He07XvHI8qqHH) | [Favourite Worst Nightmare \(Standard Version\)](https://open.spotify.com/album/6rsQnwaoJHxXJRCDBPkBRw) | 4:13 | 2021-08-05 | 2022-09-15 |
@@ -147,6 +147,7 @@
 | [Cry Alone](https://open.spotify.com/track/1ijdK77sk67rPi450Pmm8O) | [Cydnee with a C](https://open.spotify.com/artist/5a4kURAuZDYRjLfkJq3zQU) | [Cry Alone](https://open.spotify.com/album/5HNAP2fit3ueHHo5Zsb2dU) | 1:42 | 2023-07-28 | 2025-11-23 |
 | [Crystalfilm](https://open.spotify.com/track/5bBrbeCtAntjU0SOUXnIC8) | [Little Dragon](https://open.spotify.com/artist/6Tyzp9KzpiZ04DABQoedps) | [Ritual Union](https://open.spotify.com/album/1BQVdofe7ROnSoaiC9418p) | 4:49 | 2023-10-04 |  |
 | [CTRL](https://open.spotify.com/track/0cGwZWfdBTLWZSiATC7OXm) | [Mysie](https://open.spotify.com/artist/3rf7cB2o79L2LEcl9HIjAf) | [CTRL](https://open.spotify.com/album/3lg6V1KDuWepNyGt3YSTJ7) | 2:19 | 2023-07-28 | 2024-08-10 |
+| [Cudi Smoove Spot](https://open.spotify.com/track/3Z30tpwkBi8oahnaVZLUlD) | [Isaiah Mostafa](https://open.spotify.com/artist/38pMqxFHLBJ8g5RUVO8CTI), [Marika Sage](https://open.spotify.com/artist/099o2lcQN0i7I2Bakz5QI5) | [Cudi Smoove Spot](https://open.spotify.com/album/5AsHiCbFxqtBtUInU0obq7) | 3:11 | 2024-08-23 |  |
 | [Cuttin Up](https://open.spotify.com/track/563HSQomvV0D8reoElNsCZ) | [Lud Foe](https://open.spotify.com/artist/0Cu32uCaqDJYQADOev92Et) | [Cuttin Up](https://open.spotify.com/album/2cxpzTJzDVPGvnKbtdVA9y) | 2:47 | 2024-09-05 | 2024-09-17 |
 | [CÉLINE](https://open.spotify.com/track/3PDph58rpbRHraKLXaC2ZG) | [Amaarae](https://open.spotify.com/artist/21UPYSRWFKwtqvSAnFnSvS), [Kyu Steed](https://open.spotify.com/artist/7KDgQWTOnYMsPqI61gxVUy), [6](https://open.spotify.com/artist/3iF2oCv5pVQ19uwoaBK9qW) | [THE ANGEL YOU DON'T KNOW](https://open.spotify.com/album/1cceIhCQ8R79pwy8jbZFqE) | 3:00 | 2023-10-04 |  |
 | [Dance](https://open.spotify.com/track/3RshwpG2D2FtdpEWe6ItAK) | [Jay Safari](https://open.spotify.com/artist/1ZDLdMwbdm4AdfXZTqbVdT) | [Dance](https://open.spotify.com/album/0Rkl5rosO2RGnoKz5Cw6j5) | 2:45 | 2022-02-02 | 2022-07-02 |

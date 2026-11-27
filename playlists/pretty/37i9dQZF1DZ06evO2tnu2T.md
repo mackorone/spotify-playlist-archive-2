@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2tnu2T.md) - [plain]
 
 > This is Absolutely\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 2,488 likes - 26 songs - 1 hr 24 min
+[Spotify](https://open.spotify.com/user/spotify) - 2,487 likes - 26 songs - 1 hr 24 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -18,11 +18,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2tnu2T.md) - [plain]
 | 8 | [EVERYBODY KNOWS I'M SAD \- REMIX](https://open.spotify.com/track/15BYAhv1YFKwKaOIJz1r9s) | [MARINA](https://open.spotify.com/artist/6CwfuxIqcltXDGjfZsMd9A), [Absolutely](https://open.spotify.com/artist/4ellgkPyhbJetngXmHX5Zh) | [PRINCESS OF POWER \(DELUXE\)](https://open.spotify.com/album/7KKQfFKPruJ3lHVVtwGuo7) | 4:07 |
 | 9 | [Air](https://open.spotify.com/track/71QKcBjRSoGBMNPByY715u) | [The Chainsmokers](https://open.spotify.com/artist/69GGBxA162lTqCwzJG5jLp), [Absolutely](https://open.spotify.com/artist/4ellgkPyhbJetngXmHX5Zh) | [Breathe](https://open.spotify.com/album/4x5UzbvkvyvBPBfF3h6t9h) | 2:49 |
 | 10 | [Heartbreak Anniversary \- H&M&REDSTAGE](https://open.spotify.com/track/37kwFPtjKsxi8CAAvgT5Fa) | [Absolutely](https://open.spotify.com/artist/4ellgkPyhbJetngXmHX5Zh) | [Heartbreak Anniversary \(H&M&REDSTAGE\)](https://open.spotify.com/album/0meYfjk11lzFgR1hK31EJg) | 3:21 |
-| 11 | [No Audience](https://open.spotify.com/track/4neKoZZ53RPyeUyKqH8WSm) | [Absolutely](https://open.spotify.com/artist/4ellgkPyhbJetngXmHX5Zh) | [Paracosm](https://open.spotify.com/album/7oxvUjBnPYJAuBFMrTwNTw) | 2:48 |
+| 11 | [Nowhere to Hide](https://open.spotify.com/track/1OkdA1jxsQSSSvhWAlL71s) | [Absolutely](https://open.spotify.com/artist/4ellgkPyhbJetngXmHX5Zh) | [Paracosm](https://open.spotify.com/album/6LifnNApEGwyRpFHMKNW25) | 3:38 |
 | 12 | [24 Hours](https://open.spotify.com/track/5nwSXC1tojEYcUPUfywdu3) | [Absolutely](https://open.spotify.com/artist/4ellgkPyhbJetngXmHX5Zh) | [CEREBRUM](https://open.spotify.com/album/3NY3LrCmVkMoUKrAc9wSPQ) | 3:27 |
 | 13 | [Shades](https://open.spotify.com/track/3mjieZNrw6iPjcMI9VuhAP) | [Snakehips](https://open.spotify.com/artist/2FwJwEswyIUAljqgjNSHgP), [Absolutely](https://open.spotify.com/artist/4ellgkPyhbJetngXmHX5Zh) | [Shades](https://open.spotify.com/album/16vgihjplSgXYRfEYTHKCS) | 2:31 |
 | 14 | [333](https://open.spotify.com/track/0phc7JQXWEFd49VE0M81oR) | [Tinashe](https://open.spotify.com/artist/0NIIxcxNHmOoyBx03SfTCD), [Absolutely](https://open.spotify.com/artist/4ellgkPyhbJetngXmHX5Zh) | [333](https://open.spotify.com/album/7zP5gW9QuwC9nKTIPk2CjD) | 3:01 |
-| 15 | [Nowhere to Hide](https://open.spotify.com/track/1OkdA1jxsQSSSvhWAlL71s) | [Absolutely](https://open.spotify.com/artist/4ellgkPyhbJetngXmHX5Zh) | [Paracosm](https://open.spotify.com/album/6LifnNApEGwyRpFHMKNW25) | 3:38 |
+| 15 | [No Audience](https://open.spotify.com/track/4neKoZZ53RPyeUyKqH8WSm) | [Absolutely](https://open.spotify.com/artist/4ellgkPyhbJetngXmHX5Zh) | [Paracosm](https://open.spotify.com/album/7oxvUjBnPYJAuBFMrTwNTw) | 2:48 |
 | 16 | [Arrivals](https://open.spotify.com/track/3s1nTmSxNzqdp2aF3aHISL) | [Absolutely](https://open.spotify.com/artist/4ellgkPyhbJetngXmHX5Zh) | [CEREBRUM](https://open.spotify.com/album/3NY3LrCmVkMoUKrAc9wSPQ) | 3:05 |
 | 17 | [Walls \(feat\. Absolutely\) \- Live](https://open.spotify.com/track/7tMwaGg2AlnQ0XYLdWSJjw) | [Jonas Brothers](https://open.spotify.com/artist/7gOdHgIoIKoe4i9Tta6qdD), [Absolutely](https://open.spotify.com/artist/4ellgkPyhbJetngXmHX5Zh) | [Friends From Your Hometown](https://open.spotify.com/album/4xyhhzhRAm1u4lstjybyWk) | 4:24 |
 | 18 | [Real Love](https://open.spotify.com/track/6k90i92oRrG0qosTBcLjjx) | [ONE HOUSE](https://open.spotify.com/artist/6RC9lZOZqIxeg4g38SXNLn), [Absolutely](https://open.spotify.com/artist/4ellgkPyhbJetngXmHX5Zh), [Isaiah Roberts](https://open.spotify.com/artist/6bwqsxhkLewp1LocvpL2ec) | [Eyes Up](https://open.spotify.com/album/5dvBx8aXzJjlJupOiOfRtD) | 2:16 |
@@ -35,4 +35,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2tnu2T.md) - [plain]
 | 25 | [Symphony](https://open.spotify.com/track/1V5YRAjAJWt7snPQ96hP2R) | [Absolutely](https://open.spotify.com/artist/4ellgkPyhbJetngXmHX5Zh) | [CEREBRUM](https://open.spotify.com/album/3NY3LrCmVkMoUKrAc9wSPQ) | 2:41 |
 | 26 | [Daylight](https://open.spotify.com/track/5gFQ0Gt2IO9qsf5z8LClso) | [Absolutely](https://open.spotify.com/artist/4ellgkPyhbJetngXmHX5Zh) | [CEREBRUM](https://open.spotify.com/album/3NY3LrCmVkMoUKrAc9wSPQ) | 3:31 |
 
-Snapshot ID: `awOCAAAAAAApR7W7wofWI0Y+oXf2MGF0`
+Snapshot ID: `awYlAAAAAACsFyIh76neMQjZe0cLXgdc`

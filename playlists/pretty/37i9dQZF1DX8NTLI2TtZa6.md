@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8NTLI2TtZa6.md) - [plain]
 
 > Get\. It\. Done\. Focus\-enhancing piano music to keep you motivated during your study session.
 
-[Spotify](https://open.spotify.com/user/spotify) - 2,354,442 likes - 120 songs - 5 hr 8 min
+[Spotify](https://open.spotify.com/user/spotify) - 2,354,286 likes - 119 songs - 5 hr 6 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -107,26 +107,25 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8NTLI2TtZa6.md) - [plain]
 | 97 | [Equinox](https://open.spotify.com/track/4wv3ixqGPuO0Rdbf3Ut0PU) | [Marco Apicella](https://open.spotify.com/artist/5Nww6Nim8NzaAH97sRJxms) | [Equinox](https://open.spotify.com/album/7HngB2j6G8OPPegkEIEBXY) | 2:58 |
 | 98 | [Places](https://open.spotify.com/track/4DWMufkvX438r7JBAJ2efc) | [Muriël Bostdorp](https://open.spotify.com/artist/0X98pXmiqyxLXGiLjkj4rq) | [Places](https://open.spotify.com/album/0qrg9kqWFOZsiwQM5o418l) | 3:30 |
 | 99 | [Silent Waltz](https://open.spotify.com/track/4ztFWnV0ujL6LoIhX24Tys) | [Alix Claude](https://open.spotify.com/artist/2IxTniy4sAptAfXe0WgwLD) | [Silent Waltz](https://open.spotify.com/album/57i8rQXOklkf6I0bD1vWZg) | 2:42 |
-| 100 | [Pose](https://open.spotify.com/track/2Y2bYMpbNkHoQp0DwlSIej) | [Følgesvend](https://open.spotify.com/artist/3HFQhWHwDYkmK1x7WkKO78) | [Pose](https://open.spotify.com/album/680IQ3Ck2y4b6zmuP7vg1D) | 2:06 |
-| 101 | [Soft Amber](https://open.spotify.com/track/7uIAQEyXcPx9f2BTaVEAVt) | [Constance Lucas](https://open.spotify.com/artist/3xe11Jl7vdO7Py3udTGzWq) | [Soft Amber](https://open.spotify.com/album/6PIkPVbTBppn4zBRzcV7gS) | 2:19 |
-| 102 | [Sailing](https://open.spotify.com/track/3BzjuaHgLpJPbJCSoriHbq) | [Tankeflukt](https://open.spotify.com/artist/5AlAiT9n6MGUG2Lron7jB1) | [Sailing](https://open.spotify.com/album/4w1hpzfnRa9pxmxamHwbiP) | 2:32 |
-| 103 | [A Time to Talk](https://open.spotify.com/track/1zic8kbRydAEqwdOx8T0Z0) | [Hues of Ruby](https://open.spotify.com/artist/2mDOYcn8NaX5VXn6DAECyW) | [A Time to Talk](https://open.spotify.com/album/6rN835FJyPw9GEVglWm0Nz) | 2:24 |
-| 104 | [Calm Waters](https://open.spotify.com/track/4tOvimzaiRtoRSO2Fi7hFZ) | [Amine Ayad](https://open.spotify.com/artist/1AyCO3Kq1tv1K87CBbC2KM) | [Calm Waters](https://open.spotify.com/album/1z0rEpc8QBWh0aepFwKJok) | 2:36 |
-| 105 | [Daydreaming](https://open.spotify.com/track/2NVhXrU6sQwVSyBnaEGWfS) | [Tom Kristiaan](https://open.spotify.com/artist/1ZU9WJfipgna3ANBoomXYk) | [Daydreaming](https://open.spotify.com/album/5o293eWTwB7QpEVZ79Hc6k) | 2:52 |
-| 106 | [Hidden Shelter](https://open.spotify.com/track/0rOBEixawHNSSzITCRln0g) | [Erjos](https://open.spotify.com/artist/70qp21FDz8QMIIGF3ETrAV) | [Hidden Shelter](https://open.spotify.com/album/46gVcoaSs68jRq06h3eQYn) | 2:01 |
-| 107 | [The Sound of Snow](https://open.spotify.com/track/2x90SHtWXagGmY5w0HVx1i) | [Stephan Moccio](https://open.spotify.com/artist/25s9H1JQmTu3iuFzpXWUIg) | [The Sound Of Snow](https://open.spotify.com/album/0WIVuD9M706cCtCSTGCFZY) | 2:35 |
-| 108 | [Flying](https://open.spotify.com/track/6onLB9QbkLpR9hZimB0ff5) | [James Quinn](https://open.spotify.com/artist/5snx16ErkhOi5bNc2mLx5V) | [Flying](https://open.spotify.com/album/16pGvEINbTOP3Tt064XiCp) | 2:25 |
-| 109 | [I'll Be Around](https://open.spotify.com/track/4UJ8IkZl3qhcRLFdZ9XyY5) | [Gavin Luke](https://open.spotify.com/artist/2bqAlaRiT91dCQ7KMGnP8i) | [I'll Be Around](https://open.spotify.com/album/2A01x4zvltCBhOa8cpl9mf) | 3:10 |
-| 110 | [Poetry](https://open.spotify.com/track/2rlOcXfBwMlZfMvXGvSkU7) | [Lou Maxence](https://open.spotify.com/artist/7KP4VeCHHi7TuDNlociPui) | [Poetry](https://open.spotify.com/album/7nWkxo27xOWNSBvlnRPGd8) | 3:01 |
-| 111 | [campfire](https://open.spotify.com/track/0hzKA9jzEj7vFgkLyF4LQu) | [Edvard Kravchuk](https://open.spotify.com/artist/0LK67TfgE1O9GrBXJ9KLUe) | [campfire](https://open.spotify.com/album/53amoiSBErIDMWnX1yBUj9) | 3:06 |
-| 112 | [Moments of movement](https://open.spotify.com/track/2hHiDZt7uHjaIIUa2H9qBU) | [Carl Fredman](https://open.spotify.com/artist/5jtOQKqrJ7r0exrpWykoWU) | [Moments of movement](https://open.spotify.com/album/0gLpOwvM4ZUnonSZV5Odp3) | 2:12 |
-| 113 | [The Optimist](https://open.spotify.com/track/4wJd6cER10JZRuU5y3DBkZ) | [Matt Stewart\-Evans](https://open.spotify.com/artist/7x67OgZ8Iu8FEYpvRAPuh7) | [The Optimist](https://open.spotify.com/album/3KzZstlr8d3MiiO1swIRJX) | 2:39 |
-| 114 | [Previous](https://open.spotify.com/track/059ryoQJ8Nt3xndqMJWDHk) | [Seth Fernsby](https://open.spotify.com/artist/1HURo2WjQ7rMSgqgcKT6MX) | [Previous](https://open.spotify.com/album/1aARVlUxqmMjPW1SZzLhW3) | 2:03 |
-| 115 | [Raven](https://open.spotify.com/track/5UiH9u0WhHejEqDHZMsUbR) | [cleaned](https://open.spotify.com/artist/1yp2KhukqTL1SNjjQDCNj3) | [Raven](https://open.spotify.com/album/6jO2BuANtYaSHJLMHuC2mT) | 2:54 |
-| 116 | [When It Rains](https://open.spotify.com/track/6nXvoksCAZqI8nEBTSvpfx) | [Ron Adelaar](https://open.spotify.com/artist/09L72oOms1QBoALUSLqx8u) | [When It Rains](https://open.spotify.com/album/4uWWYNXiMcwiHIhUakiZT8) | 2:19 |
-| 117 | [Pirouette](https://open.spotify.com/track/0NZ7ku5SqkWqij5SXe3FIO) | [Ron Adelaar](https://open.spotify.com/artist/09L72oOms1QBoALUSLqx8u) | [Pirouette](https://open.spotify.com/album/57Z6mfy4khEp7rRaU6t8hU) | 2:19 |
-| 118 | [Iris](https://open.spotify.com/track/3hWbgzfP4jE9rd6Tathuig) | [Daigo Hanada](https://open.spotify.com/artist/7kxdoQTibsQW5pOim1p2i3) | [Iris](https://open.spotify.com/album/7jrGdtwYraqkb7Psf3h4Jo) | 4:19 |
-| 119 | [Lenore](https://open.spotify.com/track/2DXTpqaCHn4PmcyLyWTSXY) | [Josh Kramer](https://open.spotify.com/artist/2stOL2fH4SxcTNg7RXo9AG) | [Lenore](https://open.spotify.com/album/2MWwckYbwVNNIjhnF5GTGw) | 2:38 |
-| 120 | [Wild Horses Run Free](https://open.spotify.com/track/3XMWBL5SaKwYyuxXcEXJF1) | [Sarah Spring](https://open.spotify.com/artist/2ichvOEY8OwpGaodYoOELd) | [Wild Horses Run Free](https://open.spotify.com/album/0B4k5ZQpiRRVXhwYXF9Sni) | 2:34 |
+| 100 | [Soft Amber](https://open.spotify.com/track/7uIAQEyXcPx9f2BTaVEAVt) | [Constance Lucas](https://open.spotify.com/artist/3xe11Jl7vdO7Py3udTGzWq) | [Soft Amber](https://open.spotify.com/album/6PIkPVbTBppn4zBRzcV7gS) | 2:19 |
+| 101 | [Sailing](https://open.spotify.com/track/3BzjuaHgLpJPbJCSoriHbq) | [Tankeflukt](https://open.spotify.com/artist/5AlAiT9n6MGUG2Lron7jB1) | [Sailing](https://open.spotify.com/album/4w1hpzfnRa9pxmxamHwbiP) | 2:32 |
+| 102 | [A Time to Talk](https://open.spotify.com/track/1zic8kbRydAEqwdOx8T0Z0) | [Hues of Ruby](https://open.spotify.com/artist/2mDOYcn8NaX5VXn6DAECyW) | [A Time to Talk](https://open.spotify.com/album/6rN835FJyPw9GEVglWm0Nz) | 2:24 |
+| 103 | [Calm Waters](https://open.spotify.com/track/4tOvimzaiRtoRSO2Fi7hFZ) | [Amine Ayad](https://open.spotify.com/artist/1AyCO3Kq1tv1K87CBbC2KM) | [Calm Waters](https://open.spotify.com/album/1z0rEpc8QBWh0aepFwKJok) | 2:36 |
+| 104 | [Daydreaming](https://open.spotify.com/track/2NVhXrU6sQwVSyBnaEGWfS) | [Tom Kristiaan](https://open.spotify.com/artist/1ZU9WJfipgna3ANBoomXYk) | [Daydreaming](https://open.spotify.com/album/5o293eWTwB7QpEVZ79Hc6k) | 2:52 |
+| 105 | [Hidden Shelter](https://open.spotify.com/track/0rOBEixawHNSSzITCRln0g) | [Erjos](https://open.spotify.com/artist/70qp21FDz8QMIIGF3ETrAV) | [Hidden Shelter](https://open.spotify.com/album/46gVcoaSs68jRq06h3eQYn) | 2:01 |
+| 106 | [The Sound of Snow](https://open.spotify.com/track/2x90SHtWXagGmY5w0HVx1i) | [Stephan Moccio](https://open.spotify.com/artist/25s9H1JQmTu3iuFzpXWUIg) | [The Sound Of Snow](https://open.spotify.com/album/0WIVuD9M706cCtCSTGCFZY) | 2:35 |
+| 107 | [Flying](https://open.spotify.com/track/6onLB9QbkLpR9hZimB0ff5) | [James Quinn](https://open.spotify.com/artist/5snx16ErkhOi5bNc2mLx5V) | [Flying](https://open.spotify.com/album/16pGvEINbTOP3Tt064XiCp) | 2:25 |
+| 108 | [I'll Be Around](https://open.spotify.com/track/4UJ8IkZl3qhcRLFdZ9XyY5) | [Gavin Luke](https://open.spotify.com/artist/2bqAlaRiT91dCQ7KMGnP8i) | [I'll Be Around](https://open.spotify.com/album/2A01x4zvltCBhOa8cpl9mf) | 3:10 |
+| 109 | [Poetry](https://open.spotify.com/track/2rlOcXfBwMlZfMvXGvSkU7) | [Lou Maxence](https://open.spotify.com/artist/7KP4VeCHHi7TuDNlociPui) | [Poetry](https://open.spotify.com/album/7nWkxo27xOWNSBvlnRPGd8) | 3:01 |
+| 110 | [campfire](https://open.spotify.com/track/0hzKA9jzEj7vFgkLyF4LQu) | [Edvard Kravchuk](https://open.spotify.com/artist/0LK67TfgE1O9GrBXJ9KLUe) | [campfire](https://open.spotify.com/album/53amoiSBErIDMWnX1yBUj9) | 3:06 |
+| 111 | [Moments of movement](https://open.spotify.com/track/2hHiDZt7uHjaIIUa2H9qBU) | [Carl Fredman](https://open.spotify.com/artist/5jtOQKqrJ7r0exrpWykoWU) | [Moments of movement](https://open.spotify.com/album/0gLpOwvM4ZUnonSZV5Odp3) | 2:12 |
+| 112 | [The Optimist](https://open.spotify.com/track/4wJd6cER10JZRuU5y3DBkZ) | [Matt Stewart\-Evans](https://open.spotify.com/artist/7x67OgZ8Iu8FEYpvRAPuh7) | [The Optimist](https://open.spotify.com/album/3KzZstlr8d3MiiO1swIRJX) | 2:39 |
+| 113 | [Previous](https://open.spotify.com/track/059ryoQJ8Nt3xndqMJWDHk) | [Seth Fernsby](https://open.spotify.com/artist/1HURo2WjQ7rMSgqgcKT6MX) | [Previous](https://open.spotify.com/album/1aARVlUxqmMjPW1SZzLhW3) | 2:03 |
+| 114 | [Raven](https://open.spotify.com/track/5UiH9u0WhHejEqDHZMsUbR) | [cleaned](https://open.spotify.com/artist/1yp2KhukqTL1SNjjQDCNj3) | [Raven](https://open.spotify.com/album/6jO2BuANtYaSHJLMHuC2mT) | 2:54 |
+| 115 | [When It Rains](https://open.spotify.com/track/6nXvoksCAZqI8nEBTSvpfx) | [Ron Adelaar](https://open.spotify.com/artist/09L72oOms1QBoALUSLqx8u) | [When It Rains](https://open.spotify.com/album/4uWWYNXiMcwiHIhUakiZT8) | 2:19 |
+| 116 | [Pirouette](https://open.spotify.com/track/0NZ7ku5SqkWqij5SXe3FIO) | [Ron Adelaar](https://open.spotify.com/artist/09L72oOms1QBoALUSLqx8u) | [Pirouette](https://open.spotify.com/album/57Z6mfy4khEp7rRaU6t8hU) | 2:19 |
+| 117 | [Iris](https://open.spotify.com/track/3hWbgzfP4jE9rd6Tathuig) | [Daigo Hanada](https://open.spotify.com/artist/7kxdoQTibsQW5pOim1p2i3) | [Iris](https://open.spotify.com/album/7jrGdtwYraqkb7Psf3h4Jo) | 4:19 |
+| 118 | [Lenore](https://open.spotify.com/track/2DXTpqaCHn4PmcyLyWTSXY) | [Josh Kramer](https://open.spotify.com/artist/2stOL2fH4SxcTNg7RXo9AG) | [Lenore](https://open.spotify.com/album/2MWwckYbwVNNIjhnF5GTGw) | 2:38 |
+| 119 | [Wild Horses Run Free](https://open.spotify.com/track/3XMWBL5SaKwYyuxXcEXJF1) | [Sarah Spring](https://open.spotify.com/artist/2ichvOEY8OwpGaodYoOELd) | [Wild Horses Run Free](https://open.spotify.com/album/0B4k5ZQpiRRVXhwYXF9Sni) | 2:34 |
 
-Snapshot ID: `AAAAACROzpW/QT2G+cqnJbCbZOKBNdR8`
+Snapshot ID: `AAAAALoMTwIN8TWpi6pQyRIDbcfQgBKD`

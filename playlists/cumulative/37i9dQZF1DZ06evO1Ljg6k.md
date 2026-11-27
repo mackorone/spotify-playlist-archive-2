@@ -4,7 +4,7 @@
 
 > This is D'Angelo\. The essential tracks, all in one playlist.
 
-63 songs - 5 hr 13 min
+64 songs - 5 hr 17 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -41,6 +41,7 @@
 | [Interlude For Real](https://open.spotify.com/track/48frkgGcl9KZgfESy0midb) | [D'Angelo](https://open.spotify.com/artist/336vr2M3Va0FjyvB55lJEd) | [Live In Stockholm](https://open.spotify.com/album/0VgPK1zGg0JIe5fXAbfkVT) | 1:09 | 2026-08-26 | 2026-08-27 |
 | [Jonz In My Bones \- Live At The Jazz Cafe, London/1995](https://open.spotify.com/track/0cUMdJl2C1WFcnSsgYjBF9) | [D'Angelo](https://open.spotify.com/artist/336vr2M3Va0FjyvB55lJEd) | [Live At The Jazz Cafe, London](https://open.spotify.com/album/6CJecR5ViEgD3KxVGMmiRi) | 3:55 | 2025-10-18 |  |
 | [Jonz In My Bonz](https://open.spotify.com/track/7114JMdpaHhNEOlIY0Ljze) | [D'Angelo](https://open.spotify.com/artist/336vr2M3Va0FjyvB55lJEd) | [Brown Sugar](https://open.spotify.com/album/4HTVABUq8amDUxBv3zJbX4) | 5:56 | 2026-08-26 | 2026-08-27 |
+| [Kamikazi](https://open.spotify.com/track/5NsWLe50IEKoV99IShQg86) | [D'Angelo](https://open.spotify.com/artist/336vr2M3Va0FjyvB55lJEd), [Slingbaum](https://open.spotify.com/artist/1PWbIqVLjvg2W4dU0LdMA2) | [Kamikazi](https://open.spotify.com/album/04YHw3mpkB0q9BHYT60Vxu) | 4:22 | 2026-11-27 |  |
 | [Lady](https://open.spotify.com/track/7AjfklMN4WpQYz5FkT4E66) | [D'Angelo](https://open.spotify.com/artist/336vr2M3Va0FjyvB55lJEd) | [Brown Sugar](https://open.spotify.com/album/4HTVABUq8amDUxBv3zJbX4) | 5:46 | 2025-10-15 |  |
 | [Left And Right](https://open.spotify.com/track/4EQ0dK6Sg7v685NGrQvuki) | [D'Angelo](https://open.spotify.com/artist/336vr2M3Va0FjyvB55lJEd), [Redman](https://open.spotify.com/artist/7xTKLpo7UCzXSnlH7fOIoM), [Method Man](https://open.spotify.com/artist/4VmEWwd8y9MCLwexFMdpwt) | [Voodoo](https://open.spotify.com/album/2lO9yuuIDgBpSJzxTh3ai8) | 4:46 | 2026-08-26 | 2026-08-27 |
 | [Me And Those Dreamin' Eyes Of Mine](https://open.spotify.com/track/5MjUkhqCpr5uZ39xZmLZxe) | [D'Angelo](https://open.spotify.com/artist/336vr2M3Va0FjyvB55lJEd) | [Brown Sugar](https://open.spotify.com/album/4HTVABUq8amDUxBv3zJbX4) | 4:46 | 2025-10-15 |  |

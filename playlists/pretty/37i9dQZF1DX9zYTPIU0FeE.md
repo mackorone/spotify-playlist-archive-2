@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9zYTPIU0FeE.md) - [plain]
 
 > Journey through the sounds of South African Jazz\. Cover: Pilani Bubu
 
-[Spotify](https://open.spotify.com/user/spotify) - 14,966 likes - 60 songs - 5 hr 20 min
+[Spotify](https://open.spotify.com/user/spotify) - 14,974 likes - 60 songs - 5 hr 20 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -22,9 +22,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9zYTPIU0FeE.md) - [plain]
 | 12 | [Mama](https://open.spotify.com/track/0WtT81xVf7FERbo6SdoFE1) | [Rorisang Sechele](https://open.spotify.com/artist/56cA6GXVKFti1Ax2iWZmwU) | [Mama](https://open.spotify.com/album/4Zf7ktaekWbM4RAW56QAqN) | 4:20 |
 | 13 | [Wendile](https://open.spotify.com/track/72eOisbgNdPmSKNMrokUIQ) | [Nomfundo Xaluva](https://open.spotify.com/artist/71N9TXfexGfLXxPDJec5iE) | [Ndilapha](https://open.spotify.com/album/794Pfh9JnYrNIVox3OVtax) | 6:38 |
 | 14 | [Nguwe](https://open.spotify.com/track/0TqxXQxF11lNHNzpzQ8MCZ) | [Internet Athi](https://open.spotify.com/artist/5ycDBJECG7YqvqtkstSFaa) | [Nguwe](https://open.spotify.com/album/1lbVmXMwuOaR7IGh4V47cQ) | 5:09 |
-| 15 | [Ḽiṅwalo ḽa Mubebi](https://open.spotify.com/track/3svg2F1ZsOxF2CIL4AAngt) | [Nduduzo Makhathini](https://open.spotify.com/artist/6EvFcDtvFuVugEtZNslkft), [Muneyi](https://open.spotify.com/artist/6JzpDqY5CZkjLU40GmmTkM) | [The Myth We Choose](https://open.spotify.com/album/0MLGCKPzliFC2fEkqhihYw) | 6:22 |
+| 15 | [xandibona wena feat\. Thandi Ntuli](https://open.spotify.com/track/2i34qxXLo879bdRYDwyhQN) | [Thandiswa](https://open.spotify.com/artist/6Y5DNQAHBjLtlb7xPOmk3N), [Thandi Ntuli](https://open.spotify.com/artist/1g7pneoNO9Thq5oYQyR5Dy) | [Sankofa](https://open.spotify.com/album/5y7tFgFLl0d5AKExJC8Rsy) | 4:03 |
 | 16 | [Lesedi](https://open.spotify.com/track/7yCLdDtr0RBqQ36gQ0OYhO) | [Kujenga](https://open.spotify.com/artist/46zBMWkU58KyXCD5WuS3ha) | [In The Wake](https://open.spotify.com/album/7vBYVegNxjgWj8eJwiXEWq) | 10:02 |
-| 17 | [xandibona wena feat\. Thandi Ntuli](https://open.spotify.com/track/2i34qxXLo879bdRYDwyhQN) | [Thandiswa](https://open.spotify.com/artist/6Y5DNQAHBjLtlb7xPOmk3N), [Thandi Ntuli](https://open.spotify.com/artist/1g7pneoNO9Thq5oYQyR5Dy) | [Sankofa](https://open.spotify.com/album/5y7tFgFLl0d5AKExJC8Rsy) | 4:03 |
+| 17 | [Ḽiṅwalo ḽa Mubebi](https://open.spotify.com/track/3svg2F1ZsOxF2CIL4AAngt) | [Nduduzo Makhathini](https://open.spotify.com/artist/6EvFcDtvFuVugEtZNslkft), [Muneyi](https://open.spotify.com/artist/6JzpDqY5CZkjLU40GmmTkM) | [The Myth We Choose](https://open.spotify.com/album/0MLGCKPzliFC2fEkqhihYw) | 6:22 |
 | 18 | [The Beyond](https://open.spotify.com/track/1CFaQyXq0nSHSBQ9AAALDQ) | [Shane Cooper](https://open.spotify.com/artist/2NFkaT0OaYcQiY1UsW9JtZ) | [The Beyond](https://open.spotify.com/album/5xTKYO7RjVCdaROa9kvBcN) | 1:45 |
 | 19 | [Days Begin To Sing](https://open.spotify.com/track/28UYnzAaPLrglxCtr1tGrg) | [Linda Sikhakhane](https://open.spotify.com/artist/21Vw6haIClrf19wKkA68on), [Omagugu](https://open.spotify.com/artist/3fOgc0hcEUZjOuhvGEise4) | [Days Begin To Sing](https://open.spotify.com/album/02Wod8VLumZiz6Qlr1vynH) | 4:44 |
 | 20 | [Thato Ya Hao](https://open.spotify.com/track/5wwlcvBWy5VRA0ZKgQk6HP) | [John Lundun](https://open.spotify.com/artist/0yZ5REAJnSQ71pr9yC9CVk), [MODIKA.](https://open.spotify.com/artist/0yIhOcXDITuo8fbnLTvR7m) | [Thato Ya Hao](https://open.spotify.com/album/04RM5lbAmZ1xLP7XpHsGNA) | 3:11 |
@@ -55,8 +55,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9zYTPIU0FeE.md) - [plain]
 | 45 | [Our People](https://open.spotify.com/track/4knK9nXhnH4k01cVOo33jj) | [NLite.](https://open.spotify.com/artist/1LtjSJhBTIHe7auEuEg7VZ) | [Our People](https://open.spotify.com/album/2wyTG0UqnHXTJ4FffxJ9PS) | 3:19 |
 | 46 | [Let The Sky Open Under Your Feet](https://open.spotify.com/track/2Pe4C7EbOhkb2ELEGsLfDc) | [Skyjack](https://open.spotify.com/artist/6gSBRCbcqIIaD7slbHymwa) | [Let The Sky Open Under Your Feet](https://open.spotify.com/album/5KbTt2xYPBeZXvChMbMwec) | 6:35 |
 | 47 | [Journey of Gratitude](https://open.spotify.com/track/2kQQl45G0j2dEC7AR6RNuL) | [Ofentse Moses Sebula](https://open.spotify.com/artist/0raJ8N8Li4aGwfYveT9I2E) | [H.O.P.E \(Holding On to Positive Expectations\)](https://open.spotify.com/album/0hbHnPzMH1eesjHzByYvSF) | 5:49 |
-| 48 | [One](https://open.spotify.com/track/4kytiTENCQoF0Rhnqy0PHm) | [Modise Sekgothe](https://open.spotify.com/artist/19xYGHhFoNER9GR8sgUpo4), [Siya Makuzeni](https://open.spotify.com/artist/6v9uhvfn5BnIsBCKf4Mq8k), [Shane Cooper](https://open.spotify.com/artist/49JnjDWq7kySXbzplQsnhN) | [One](https://open.spotify.com/album/7EtFs3HiEq0a0hTd9ClMbx) | 5:10 |
-| 49 | [iGosa](https://open.spotify.com/track/4Fl542e8KE9jXiJEBq3fHK) | [Linda Sikhakhane](https://open.spotify.com/artist/21Vw6haIClrf19wKkA68on) | [iLadi](https://open.spotify.com/album/2fxOL93WjnYC4tNoPGkKqL) | 6:54 |
+| 48 | [iGosa](https://open.spotify.com/track/4Fl542e8KE9jXiJEBq3fHK) | [Linda Sikhakhane](https://open.spotify.com/artist/21Vw6haIClrf19wKkA68on) | [iLadi](https://open.spotify.com/album/2fxOL93WjnYC4tNoPGkKqL) | 6:54 |
+| 49 | [One](https://open.spotify.com/track/4kytiTENCQoF0Rhnqy0PHm) | [Modise Sekgothe](https://open.spotify.com/artist/19xYGHhFoNER9GR8sgUpo4), [Siya Makuzeni](https://open.spotify.com/artist/6v9uhvfn5BnIsBCKf4Mq8k), [Shane Cooper](https://open.spotify.com/artist/49JnjDWq7kySXbzplQsnhN) | [One](https://open.spotify.com/album/7EtFs3HiEq0a0hTd9ClMbx) | 5:10 |
 | 50 | [Bawo Ndi Xolele \(Hymn\)](https://open.spotify.com/track/5oDMLrjVqFN3ALJmsBAjtq) | [Billy Monama](https://open.spotify.com/artist/6EEx5rAGr364qfmgHHOf9m) | [The Y\-Factor Project](https://open.spotify.com/album/6RFLbolbRVLiQwcn2yXk5s) | 3:30 |
 | 51 | [The Aha Moment](https://open.spotify.com/track/5DCuEzR8CjK94M2DWwKygy) | [Zu.](https://open.spotify.com/artist/1CQAguK72YsRMOjz1ECeqq), [Zuko Collective](https://open.spotify.com/artist/7ES5SeD9pzZlWsStxrVUMK) | [Tones of Epiphany](https://open.spotify.com/album/3xGxUaz3ASDBegpjbmChea) | 6:02 |
 | 52 | [Monate Ofedile](https://open.spotify.com/track/3tmrfMKWSKiPzhyKqX419r) | [Don Laka](https://open.spotify.com/artist/1pVB3hFHwbaa3CkI72nQfQ) | [Invitation 2](https://open.spotify.com/album/3JHKnTZn987AZsQHDpx0x5) | 4:18 |

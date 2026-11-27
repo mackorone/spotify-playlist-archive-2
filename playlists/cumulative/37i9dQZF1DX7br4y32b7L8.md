@@ -2,9 +2,9 @@
 
 ### [Viral Hits NL](https://open.spotify.com/playlist/37i9dQZF1DX7br4y32b7L8)
 
-> \#fyp songs voor je playlist\. Cover: Issah & Frenna
+> \#fyp songs voor je playlist: Issah & Frenna, No Scrubs, Mi Chico en meer...
 
-955 songs - 1 day 23 hr 53 min
+956 songs - 1 day 23 hr 56 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -570,6 +570,7 @@
 | [MY EYES](https://open.spotify.com/track/4kjI1gwQZRKNDkw1nI475M) | [Travis Scott](https://open.spotify.com/artist/0Y5tJX1MQlPlqiwlOH1tJY) | [UTOPIA](https://open.spotify.com/album/18NOKLkZETa4sWwLMIm0UZ) | 4:11 | 2024-02-08 | 2024-03-15 |
 | [My Love Mine All Mine](https://open.spotify.com/track/3vkCueOmm7xQDoJ17W1Pm3) | [Mitski](https://open.spotify.com/artist/2uYWxilOVlUdk4oV9DvwqK) | [The Land Is Inhospitable and So Are We](https://open.spotify.com/album/2Cn1d2KgbkAqbZCJ1RzdkA) | 2:17 | 2023-09-28 | 2023-11-30 |
 | [My Moon My Man](https://open.spotify.com/track/4fQVQKIiidREPI0MhFEuDn) | [Feist](https://open.spotify.com/artist/6CWTBjOJK75cTE8Xv8u1kj) | [The Reminder](https://open.spotify.com/album/27Y2wm3WcFThQocgjLI5wF) | 3:48 | 2026-11-19 |  |
+| [My Moon My Man](https://open.spotify.com/track/3VYSKGBdjbGC4owpHULCPe) | [FINNEAS](https://open.spotify.com/artist/37M5pPGs6V1fchFJSgCguX) | [My Moon My Man](https://open.spotify.com/album/0ad1DSuEgQce3MSSI5CU9k) | 3:22 | 2026-11-26 |  |
 | [MY POWER](https://open.spotify.com/track/7ia5l12mCvbQTeAnG1oYpg) | [Nija](https://open.spotify.com/artist/7f9KxQWD88MZrSY6jc0zoW), [Beyoncé](https://open.spotify.com/artist/6vWDO969PvNqNYHIOW5v0m), [Busiswa](https://open.spotify.com/artist/3RThWxnHbyN5Hvkr66eYj7), [Yemi Alade](https://open.spotify.com/artist/7fKO99ryLDo8VocdtVvwZW), [Tierra Whack](https://open.spotify.com/artist/4lPl9gqgox3JDiaJ1yklKh), [Moonchild Sanelly](https://open.spotify.com/artist/6aDX1jzNVAI9enlQzW0Pgw), [DJ Lag](https://open.spotify.com/artist/1svX5cMlY22N60RxwzeJNO) | [The Lion King: The Gift](https://open.spotify.com/album/552zi1M53PQAX5OH4FIdTx) | 4:19 | 2023-06-14 | 2023-09-01 |
 | [Nacht Op Ibiza](https://open.spotify.com/track/2NXFo9XIDV6BDlw8TLTM6t) | [Rotjoch](https://open.spotify.com/artist/52kkq3LdnSafdKRWjNqKBw), [Adje](https://open.spotify.com/artist/5erZiBCKPxe9FaTiXHO00m), [Lil Kleine](https://open.spotify.com/artist/3AlRiyjMywTVNzTcHbf9QT), [Hef](https://open.spotify.com/artist/7ge3QfYPMTjDbMoVLuuIuJ) | [Float](https://open.spotify.com/album/1z0AKJhbx7jiVu0SlsyMhW) | 3:37 | 2024-09-17 | 2024-11-01 |
 | [Nasty](https://open.spotify.com/track/6NjWCIYu1W8xa3HIvcIhd4) | [Tinashe](https://open.spotify.com/artist/0NIIxcxNHmOoyBx03SfTCD) | [Nasty](https://open.spotify.com/album/1vMVDUsMWaD5eB4oahCboP) | 2:56 | 2024-06-06 | 2024-07-04 |
@@ -936,7 +937,7 @@
 | [Wie Ben Jij](https://open.spotify.com/track/2txPPrev1n79RlLuFh01lW) | [SBMG](https://open.spotify.com/artist/3HL2hJ9MmM9eazDokIndkr), [Rello](https://open.spotify.com/artist/3H6wISJt78QaXrvNSRr47V) | [Money En Gang En Mixtape](https://open.spotify.com/album/5xmTC3gfSq84ZvFQOvYk2T) | 4:46 | 2023-08-31 | 2023-09-30 |
 | [Wie Ben Jij \- Sped Up](https://open.spotify.com/track/5Wgkd6dgFvjLadervYGJHH) | [SBMG](https://open.spotify.com/artist/3HL2hJ9MmM9eazDokIndkr), [Rello](https://open.spotify.com/artist/3H6wISJt78QaXrvNSRr47V) | [Wie Ben Jij \(Sped Up\)](https://open.spotify.com/album/5HPvRGI723QNLimhjzXD9q) | 3:44 | 2023-09-29 | 2024-01-07 |
 | [Wil Je Weten](https://open.spotify.com/track/2Toz57Z50AtzmG1WJNynrC) | [OFFICIAL KALOUTJE](https://open.spotify.com/artist/4DelmsIXEfwweSJLOcfDQn) | [Wil Je Weten](https://open.spotify.com/album/6dms2PVjRmbmsvsU94Yu0D) | 2:33 | 2023-05-19 | 2023-07-11 |
-| [Willing and Able](https://open.spotify.com/track/6pk6E0SZxILzfaAGFngxEs) | [Noah Kahan](https://open.spotify.com/artist/2RQXRUsr4IW1f3mKyKsy4B) | [The Great Divide](https://open.spotify.com/album/2fnkyn9EybagIoFJ7a13oz) | 4:57 | 2026-09-24 |  |
+| [Willing and Able](https://open.spotify.com/track/6pk6E0SZxILzfaAGFngxEs) | [Noah Kahan](https://open.spotify.com/artist/2RQXRUsr4IW1f3mKyKsy4B) | [The Great Divide](https://open.spotify.com/album/2fnkyn9EybagIoFJ7a13oz) | 4:57 | 2026-09-24 | 2026-11-27 |
 | [Winterjas](https://open.spotify.com/track/0fp3KUWXNSFSwg37hahuit) | [JOB](https://open.spotify.com/artist/5sSYwtZlYFqpTnHjjxxEXB) | [Winterjas](https://open.spotify.com/album/2EqyZmY7HDSArHt3Ys69ny) | 2:19 | 2025-02-03 | 2025-03-28 |
 | [Wishes Come True](https://open.spotify.com/track/3VpY2SUf41sVpVYwLO4uyg) | [Duncan Laurence](https://open.spotify.com/artist/3klZnJvYGIbWritVwQD434) | [Wishes Come True](https://open.spotify.com/album/0HXTNQ39atgxPSPSPmB8nP) | 2:44 | 2023-11-16 | 2023-11-30 |
 | [Without You \(feat\. Usher\)](https://open.spotify.com/track/1tAutlhI9FwnKn7fVgmd5P) | [David Guetta](https://open.spotify.com/artist/1Cs0zKBU1kc0i8ypK3B9ai), [USHER](https://open.spotify.com/artist/23zg3TcAtWQy7J6upgbUnj) | [Nothing but the Beat 2.0](https://open.spotify.com/album/5aprcHwM1KJhaY9Kbxkfkn) | 3:28 | 2026-01-19 | 2026-11-13 |

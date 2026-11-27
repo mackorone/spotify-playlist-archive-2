@@ -2,9 +2,9 @@
 
 ### [Dance Hits](https://open.spotify.com/playlist/37i9dQZF1DX0BcQWzuB7ZO)
 
-> All the <a href="spotify:genre:edm\_dance">big ones</a> with Mau P
+> All the <a href="spotify:genre:edm\_dance">big ones</a> with Dom Dolla, Solomun & Skepta
 
-539 songs - 1 day 4 hr 4 min
+540 songs - 1 day 4 hr 7 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -167,6 +167,7 @@
 | [Fall Into Me \(feat\. Dylan Matthew\)](https://open.spotify.com/track/5jwPoLlVOLcawSpvDpwlty) | [NGHTMRE](https://open.spotify.com/artist/76M2Ekj8bG8W7X2nbx2CpF), [SLANDER](https://open.spotify.com/artist/20DZAfCuP1TKZl5KcY7z3Q), [Dylan Matthew](https://open.spotify.com/artist/6d0ZjIp5L7Ygy2l02HskRX) | [Fall Into Me \(feat\. Dylan Matthew\)](https://open.spotify.com/album/6PT8LbcXWPCVAk5Ixj2cu9) | 3:51 | 2022-06-10 | 2022-08-26 |
 | [Famax](https://open.spotify.com/track/4yhqQAKFiHNCXpxxFVhxRq) | [RAFFA GUIDO](https://open.spotify.com/artist/5zvKbKHQcyZFvTYADnEkTQ) | [Famax](https://open.spotify.com/album/1wwVoTyNUWFP6BAOcGWbZI) | 5:35 | 2024-04-12 | 2025-03-29 |
 | [Fancy $hit](https://open.spotify.com/track/2pZwLbKPazJUZItP235e6O) | [CID](https://open.spotify.com/artist/4FCzCS0KEgb0rgySWINItO), [Taylr Renee](https://open.spotify.com/artist/27feHJH3VKyk8FgOndiWU8) | [Fancy $hit](https://open.spotify.com/album/2DFFAszheHpFsCnCUUyQgh) | 2:48 | 2025-09-12 | 2026-10-17 |
+| [Fancy Footwork](https://open.spotify.com/track/0BK6ACxpzK8nkWa3YKuunX) | [Chris Lorenzo](https://open.spotify.com/artist/7tm9Tuc70geXOOyKhtZHIj), [Chromeo](https://open.spotify.com/artist/2mV8aJphiSHYJf43DxL7Gt) | [Fancy Footwork](https://open.spotify.com/album/1alVbRjUS3mG2Uk2D6iflR) | 3:12 | 2026-11-27 |  |
 | [Favour](https://open.spotify.com/track/44wR4NqR75eJMETxrz59Sr) | [FISHER](https://open.spotify.com/artist/1VJ0briNOlXRtJUAzoUJdt), [Tones And I](https://open.spotify.com/artist/2NjfBq1NflQcKSeiDooVjY) | [Favour](https://open.spotify.com/album/2Cu1dQasaSEVPqG3nq8ILq) | 3:14 | 2026-04-30 |  |
 | [Feel It \- Club Edit](https://open.spotify.com/track/71xKlOIhZKO55Rt3zSHzQt) | [Jazzy](https://open.spotify.com/artist/7zAAwgV5Wqmvpb4GzvlRkP) | [Feel It \(Club Edit\)](https://open.spotify.com/album/0xa0dJgYKO9keCfgjhuBYH) | 2:04 | 2023-10-06 | 2024-07-13 |
 | [Ferrari](https://open.spotify.com/track/5xKJI9aPQhuTdTq8BrJ8fL) | [James Hype](https://open.spotify.com/artist/43BxCL6t4c73BQnIJtry5v), [Miggy Dela Rosa](https://open.spotify.com/artist/45ruzGUmIr8WLjLOPJ9mGU) | [Ferrari](https://open.spotify.com/album/4WLkmuc0lGCBJLtj1yxJI0) | 3:05 | 2022-05-26 | 2022-07-29 |
@@ -241,7 +242,7 @@
 | [Impossible \(feat\. John Martin\)](https://open.spotify.com/track/7nvaEKdCDWbnQK7uJsCS5y) | [David Guetta](https://open.spotify.com/artist/1Cs0zKBU1kc0i8ypK3B9ai), [MORTEN](https://open.spotify.com/artist/19HFRWmRCl27kTk6LeqAO8), [John Martin](https://open.spotify.com/artist/2auikkNYqigWStoHWK1Grq) | [Impossible \(feat\. John Martin\)](https://open.spotify.com/album/7xtz0WQBjOCXv1vgLu9vM6) | 3:08 | 2021-11-03\* | 2022-07-16 |
 | [In Da Getto](https://open.spotify.com/track/63aj87TQG6F3RVO5nbG2VQ) | [J Balvin](https://open.spotify.com/artist/1vyhD5VmyZ7KMfW5gqLgo5), [Skrillex](https://open.spotify.com/artist/5he5w2lnU9x7JFhnwcekXX) | [In Da Getto](https://open.spotify.com/album/2M7g0SNXnSq7j5BgYJYJsl) | 2:11 | 2021-11-03\* | 2022-11-25 |
 | [In The Yuma \(feat\. Aatig\)](https://open.spotify.com/track/2e2yKavdT6WQzzMHwNtPFa) | [Chris Lake](https://open.spotify.com/artist/5Igpc9iLZ3YGtKeYfSrrOE), [Aatig](https://open.spotify.com/artist/21OabQwzpxuFNxp7p781Ao) | [In The Yuma \(feat\. Aatig\)](https://open.spotify.com/album/0JjZ7kWBexlcQJMCpZ2MZF) | 2:36 | 2023-01-06 | 2023-09-16 |
-| [In This Bih'](https://open.spotify.com/track/4QUxlbwlSBYiaTT27A5MEj) | [Chris Lorenzo](https://open.spotify.com/artist/7tm9Tuc70geXOOyKhtZHIj), [Kah\-Lo](https://open.spotify.com/artist/59iOp415oyqGlBHyAhu4z3) | [In This Bih'](https://open.spotify.com/album/2lV1sjDJzsDktstoTBUCrK) | 3:30 | 2026-07-03 |  |
+| [In This Bih'](https://open.spotify.com/track/4QUxlbwlSBYiaTT27A5MEj) | [Chris Lorenzo](https://open.spotify.com/artist/7tm9Tuc70geXOOyKhtZHIj), [Kah\-Lo](https://open.spotify.com/artist/59iOp415oyqGlBHyAhu4z3) | [In This Bih'](https://open.spotify.com/album/2lV1sjDJzsDktstoTBUCrK) | 3:30 | 2026-07-03 | 2026-11-27 |
 | [Innadadance \(feat\. Suli Breaks & Jazzie B\)](https://open.spotify.com/track/3HYCPBUC827RcXZsfwAU4l) | [Faithless](https://open.spotify.com/artist/5T4UKHhr4HGIC0VzdZQtAE), [Suli Breaks](https://open.spotify.com/artist/5XnwG6JFrOMlVGOZfy54ck), [Jazzie B.](https://open.spotify.com/artist/2Bohv14bNCQi67Ft5pWI0g) | [Innadadance \(feat\. Suli Breaks & Jazzie B\)](https://open.spotify.com/album/38PuLBxHoiFiOpSpRXs7rW) | 4:06 | 2021-11-03\* | 2021-11-20 |
 | [Inner Light](https://open.spotify.com/track/40tPP3K10yMZxwnT65REKj) | [Elderbrook](https://open.spotify.com/artist/2vf4pRsEY6LpL5tKmqWb64), [Bob Moses](https://open.spotify.com/artist/6LHsnRBUYhFyt01PdKXAF5) | [Inner Light](https://open.spotify.com/album/4lwHXYfthE95rn7z1B3dWD) | 4:17 | 2021-11-13 | 2022-04-29 |
 | [It Don’t Matter \- Spotify Singles](https://open.spotify.com/track/7ltLi7CG003USSGYsSba9s) | [Alok](https://open.spotify.com/artist/0NGAZxHanS9e0iNHpR8f2W), [Sofi Tukker](https://open.spotify.com/artist/586uxXMyD5ObPuzjtrzO1Q), [INNA](https://open.spotify.com/artist/2w9zwq3AktTeYYMuhMjju8) | [It Don’t Matter \- Spotify Singles](https://open.spotify.com/album/5w5UPTvxo2vjCWnP5fbEnc) | 2:53 | 2021-11-03\* | 2022-01-28 |

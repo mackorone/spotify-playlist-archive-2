@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2023-06-18",
-  "description": "Your new favourite songs! Cover: Dua Lipa",
+  "description": "Your new favourite songs! Cover: Justice",
   "name": "Breaking Hits",
   "tracks": [
     {
@@ -2472,7 +2472,7 @@
       ],
       "date_added": "2026-08-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-27",
       "duration_ms": 302800,
       "name": "BedHead",
       "url": "https://open.spotify.com/track/1aPrxGK9OZBVscOkKwklR4"
@@ -3062,6 +3062,24 @@
       "duration_ms": 156721,
       "name": "Blink Twice",
       "url": "https://open.spotify.com/track/3f3ujFD6YndqRRVYuBcq7T"
+    },
+    {
+      "album": {
+        "name": "Grand Theft Auto VI: The Album",
+        "url": "https://open.spotify.com/album/5BYKG4MHfySZthe2W6r7n4"
+      },
+      "artists": [
+        {
+          "name": "Tove Lo",
+          "url": "https://open.spotify.com/artist/4NHQUGzhtTLFvgF5SZesLK"
+        }
+      ],
+      "date_added": "2026-11-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 161219,
+      "name": "Blood In Your Eyes",
+      "url": "https://open.spotify.com/track/606u5IuPr3lDZR5LnzgxxW"
     },
     {
       "album": {
@@ -10713,6 +10731,28 @@
     },
     {
       "album": {
+        "name": "Hoki Mai R\u0101 Koe",
+        "url": "https://open.spotify.com/album/1cHoXQLpf36AXFopI7a5sE"
+      },
+      "artists": [
+        {
+          "name": "Stan Walker",
+          "url": "https://open.spotify.com/artist/7fRw4ouudxR1jHgyrTIKuY"
+        },
+        {
+          "name": "Te Wehi",
+          "url": "https://open.spotify.com/artist/2DkCh3TikVqqOAKrbMNIVc"
+        }
+      ],
+      "date_added": "2026-11-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 177530,
+      "name": "Hoki Mai R\u0101 Koe",
+      "url": "https://open.spotify.com/track/2hHlTsjCLVFi62nivUmO7P"
+    },
+    {
+      "album": {
         "name": "Tension (Deluxe)",
         "url": "https://open.spotify.com/album/3StjwfadugiV10gNhLDu29"
       },
@@ -16065,6 +16105,24 @@
     },
     {
       "album": {
+        "name": "My Moon My Man",
+        "url": "https://open.spotify.com/album/0ad1DSuEgQce3MSSI5CU9k"
+      },
+      "artists": [
+        {
+          "name": "FINNEAS",
+          "url": "https://open.spotify.com/artist/37M5pPGs6V1fchFJSgCguX"
+        }
+      ],
+      "date_added": "2026-11-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 202217,
+      "name": "My Moon My Man",
+      "url": "https://open.spotify.com/track/3VYSKGBdjbGC4owpHULCPe"
+    },
+    {
+      "album": {
         "name": "My Regards",
         "url": "https://open.spotify.com/album/5j242B2iACKvvgwUFs60t2"
       },
@@ -16796,7 +16854,7 @@
       ],
       "date_added": "2026-09-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-27",
       "duration_ms": 168428,
       "name": "Not Many - Ganay Biralunbar",
       "url": "https://open.spotify.com/track/6ytpqi2XfBbtNguP5QsmN5"
@@ -23516,7 +23574,7 @@
       ],
       "date_added": "2026-09-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-27",
       "duration_ms": 196665,
       "name": "The Start",
       "url": "https://open.spotify.com/track/5Jh7h57SHsgmvPLnkN2P76"
@@ -24791,6 +24849,24 @@
     },
     {
       "album": {
+        "name": "vintage vuitton",
+        "url": "https://open.spotify.com/album/6l9qksdtvLKaFg6SZv1Xem"
+      },
+      "artists": [
+        {
+          "name": "earfzilla",
+          "url": "https://open.spotify.com/artist/65SDZetBIC5qK27DoJUx0f"
+        }
+      ],
+      "date_added": "2026-11-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 86964,
+      "name": "vintage vuitton",
+      "url": "https://open.spotify.com/track/6Rvi7T8vQkkIYQcp1DWm3u"
+    },
+    {
+      "album": {
         "name": "Von dutch",
         "url": "https://open.spotify.com/album/0Mg2cY7VjvKeJAL7mzk1kw"
       },
@@ -25006,7 +25082,7 @@
       ],
       "date_added": "2026-08-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-27",
       "duration_ms": 219367,
       "name": "WannaCry",
       "url": "https://open.spotify.com/track/7JW8FRWVCOQDs40IjEXdPi"

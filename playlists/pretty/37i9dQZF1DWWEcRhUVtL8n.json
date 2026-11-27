@@ -1,13 +1,29 @@
 {
-  "description": "New and approved indie pop. Cover: Quiet Light",
-  "num_followers": 1657709,
+  "description": "New and approved indie pop. Cover: Remi Wolf",
+  "num_followers": 1657646,
   "original_name": "Indie Pop",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAACNPKrk0oHKhIUU4YxpFK8H6jryp",
+  "snapshot_id": "AAAAALez8rf8YiQnjYBBf1dzbMfo12nL",
   "tracks": [
+    {
+      "added_at": "2026-10-09 04:02:47",
+      "album": {
+        "name": "I Won't Cry",
+        "url": "https://open.spotify.com/album/06mN2pGUc6dylBWpLSl4Wo"
+      },
+      "artists": [
+        {
+          "name": "Remi Wolf",
+          "url": "https://open.spotify.com/artist/0NB5HROxc8dDBXpkIi1v3d"
+        }
+      ],
+      "duration_ms": 260146,
+      "name": "I Won\u2019t Cry",
+      "url": "https://open.spotify.com/track/1FP6gZVvRnvFkaFhgfGYBT"
+    },
     {
       "added_at": "2026-10-09 04:02:47",
       "album": {
@@ -23,22 +39,6 @@
       "duration_ms": 151500,
       "name": "Earrings",
       "url": "https://open.spotify.com/track/0eAuGrXyGFYwur9ARUe7LJ"
-    },
-    {
-      "added_at": "2026-10-09 04:02:47",
-      "album": {
-        "name": "Bottle",
-        "url": "https://open.spotify.com/album/0uZGs0m2awRRM75OD1iftN"
-      },
-      "artists": [
-        {
-          "name": "Remi Wolf",
-          "url": "https://open.spotify.com/artist/0NB5HROxc8dDBXpkIi1v3d"
-        }
-      ],
-      "duration_ms": 258353,
-      "name": "Bottle",
-      "url": "https://open.spotify.com/track/6RE9jLqeJftjRXERFYOK9E"
     },
     {
       "added_at": "2026-11-06 05:01:49",
@@ -73,24 +73,20 @@
       "url": "https://open.spotify.com/track/37GUzBOW6gbF68KIAFnjh6"
     },
     {
-      "added_at": "2026-10-09 04:02:47",
+      "added_at": "2026-11-27 05:01:06",
       "album": {
-        "name": "Indie Movie Soundtrack",
-        "url": "https://open.spotify.com/album/7I6MN9nGSErwluedzQpouw"
+        "name": "Tell Me It's A Dream",
+        "url": "https://open.spotify.com/album/4sZKuCrdf0O3YNrjxQcBDS"
       },
       "artists": [
         {
-          "name": "Forrest Nolan",
-          "url": "https://open.spotify.com/artist/3M8UUCqb0mIEn5S2lO13yv"
-        },
-        {
-          "name": "hey hey",
-          "url": "https://open.spotify.com/artist/5wweLa0rCB2s0kSpkUHDIe"
+          "name": "Rosa Walton",
+          "url": "https://open.spotify.com/artist/1X0HaTcdkHW7LviblBiEeq"
         }
       ],
-      "duration_ms": 189627,
-      "name": "my girl could too",
-      "url": "https://open.spotify.com/track/6B8QswCNK3x1kSIVh4W7ml"
+      "duration_ms": 258719,
+      "name": "Tell Me It's A Dream",
+      "url": "https://open.spotify.com/track/5regdMVPWTbIsRO7q7y59s"
     },
     {
       "added_at": "2026-11-13 05:01:25",
@@ -109,20 +105,20 @@
       "url": "https://open.spotify.com/track/2vgeAlfyqNyikQfVYa6BS4"
     },
     {
-      "added_at": "2026-10-23 04:02:09",
+      "added_at": "2026-11-27 05:01:06",
       "album": {
-        "name": "PANGEA",
-        "url": "https://open.spotify.com/album/7F0wEfyBPyUlHyCnXHQwiG"
+        "name": "daytripper",
+        "url": "https://open.spotify.com/album/5y3uqZP9EDAclrq6EYAnGK"
       },
       "artists": [
         {
-          "name": "Dominic Fike",
-          "url": "https://open.spotify.com/artist/6USv9qhCn6zfxlBQIYJ9qs"
+          "name": "Ruru",
+          "url": "https://open.spotify.com/artist/4G8qsHO0ipAGtyto79fWjo"
         }
       ],
-      "duration_ms": 145099,
-      "name": "PANGEA",
-      "url": "https://open.spotify.com/track/0BA0Gdyz3UK8PJC7c44lK7"
+      "duration_ms": 190088,
+      "name": "daytripper",
+      "url": "https://open.spotify.com/track/1GIpl74aKJJfaMlxvvlBCh"
     },
     {
       "added_at": "2026-10-09 04:02:47",
@@ -157,20 +153,24 @@
       "url": "https://open.spotify.com/track/0Bskt2h2qvLBHkqFzLaw5i"
     },
     {
-      "added_at": "2026-10-23 04:02:09",
+      "added_at": "2026-10-09 04:02:47",
       "album": {
-        "name": "What we want and need from love",
-        "url": "https://open.spotify.com/album/6vr03B0AIqHXL597wAroV2"
+        "name": "Indie Movie Soundtrack",
+        "url": "https://open.spotify.com/album/7I6MN9nGSErwluedzQpouw"
       },
       "artists": [
         {
-          "name": "Mila Bea",
-          "url": "https://open.spotify.com/artist/2zNoOjMtnHPRWgZKqEhxXm"
+          "name": "Forrest Nolan",
+          "url": "https://open.spotify.com/artist/3M8UUCqb0mIEn5S2lO13yv"
+        },
+        {
+          "name": "hey hey",
+          "url": "https://open.spotify.com/artist/5wweLa0rCB2s0kSpkUHDIe"
         }
       ],
-      "duration_ms": 253590,
-      "name": "What we want and need from love",
-      "url": "https://open.spotify.com/track/6KoBqazoogdxoa2fs42ktF"
+      "duration_ms": 189627,
+      "name": "my girl could too",
+      "url": "https://open.spotify.com/track/6B8QswCNK3x1kSIVh4W7ml"
     },
     {
       "added_at": "2026-10-23 04:02:09",
@@ -417,6 +417,22 @@
       "url": "https://open.spotify.com/track/3PpTiirc8IzcjqEwDyaBZK"
     },
     {
+      "added_at": "2026-11-27 05:01:06",
+      "album": {
+        "name": "No Punctuation",
+        "url": "https://open.spotify.com/album/6uQ5idHs3nbfHwh6U1sims"
+      },
+      "artists": [
+        {
+          "name": "beabadoobee",
+          "url": "https://open.spotify.com/artist/35l9BRT7MXmM8bv2WDQiyB"
+        }
+      ],
+      "duration_ms": 197373,
+      "name": "No Punctuation",
+      "url": "https://open.spotify.com/track/6eZdZWIjhIGU7OR0FhmvqJ"
+    },
+    {
       "added_at": "2026-10-09 04:02:47",
       "album": {
         "name": "Do That Again",
@@ -431,22 +447,6 @@
       "duration_ms": 158693,
       "name": "Malcolm In The Middle",
       "url": "https://open.spotify.com/track/6fLWI86qpzbxvAQO90tiwR"
-    },
-    {
-      "added_at": "2026-10-09 04:02:47",
-      "album": {
-        "name": "blue",
-        "url": "https://open.spotify.com/album/3kxuW16FADFPyKmeke0wlR"
-      },
-      "artists": [
-        {
-          "name": "girl in red",
-          "url": "https://open.spotify.com/artist/3uwAm6vQy7kWPS2bciKWx9"
-        }
-      ],
-      "duration_ms": 250049,
-      "name": "blue",
-      "url": "https://open.spotify.com/track/0RJB6ldc79QC6jW5OR2Pv1"
     },
     {
       "added_at": "2026-10-09 04:02:47",
@@ -467,6 +467,22 @@
     {
       "added_at": "2026-10-09 04:02:47",
       "album": {
+        "name": "blue",
+        "url": "https://open.spotify.com/album/3kxuW16FADFPyKmeke0wlR"
+      },
+      "artists": [
+        {
+          "name": "girl in red",
+          "url": "https://open.spotify.com/artist/3uwAm6vQy7kWPS2bciKWx9"
+        }
+      ],
+      "duration_ms": 250049,
+      "name": "blue",
+      "url": "https://open.spotify.com/track/0RJB6ldc79QC6jW5OR2Pv1"
+    },
+    {
+      "added_at": "2026-10-09 04:02:47",
+      "album": {
         "name": "double edged sword",
         "url": "https://open.spotify.com/album/11XkCwTHV7CTnRn5zzyesW"
       },
@@ -483,8 +499,8 @@
     {
       "added_at": "2026-10-09 04:02:47",
       "album": {
-        "name": "I Won't Cry",
-        "url": "https://open.spotify.com/album/06mN2pGUc6dylBWpLSl4Wo"
+        "name": "Bottle",
+        "url": "https://open.spotify.com/album/0uZGs0m2awRRM75OD1iftN"
       },
       "artists": [
         {
@@ -492,9 +508,9 @@
           "url": "https://open.spotify.com/artist/0NB5HROxc8dDBXpkIi1v3d"
         }
       ],
-      "duration_ms": 260146,
-      "name": "I Won\u2019t Cry",
-      "url": "https://open.spotify.com/track/1FP6gZVvRnvFkaFhgfGYBT"
+      "duration_ms": 258353,
+      "name": "Bottle",
+      "url": "https://open.spotify.com/track/6RE9jLqeJftjRXERFYOK9E"
     },
     {
       "added_at": "2026-10-09 04:02:47",
@@ -511,6 +527,22 @@
       "duration_ms": 178281,
       "name": "Estranged",
       "url": "https://open.spotify.com/track/4M7lT4DNieS5JTs2dEKiBQ"
+    },
+    {
+      "added_at": "2026-10-23 04:02:09",
+      "album": {
+        "name": "PANGEA",
+        "url": "https://open.spotify.com/album/7F0wEfyBPyUlHyCnXHQwiG"
+      },
+      "artists": [
+        {
+          "name": "Dominic Fike",
+          "url": "https://open.spotify.com/artist/6USv9qhCn6zfxlBQIYJ9qs"
+        }
+      ],
+      "duration_ms": 145099,
+      "name": "PANGEA",
+      "url": "https://open.spotify.com/track/0BA0Gdyz3UK8PJC7c44lK7"
     },
     {
       "added_at": "2026-10-09 04:02:47",
@@ -739,22 +771,6 @@
     {
       "added_at": "2026-10-09 04:02:47",
       "album": {
-        "name": "Pool Water Confessions",
-        "url": "https://open.spotify.com/album/6Qf7f5ijkPyixOl3yuUM88"
-      },
-      "artists": [
-        {
-          "name": "SUM SUN",
-          "url": "https://open.spotify.com/artist/3Rkl3UpmEVgW3vEoISzJUT"
-        }
-      ],
-      "duration_ms": 206158,
-      "name": "Pool Water Confessions",
-      "url": "https://open.spotify.com/track/1ahZDBeXgSjbo31UyKh7w6"
-    },
-    {
-      "added_at": "2026-10-09 04:02:47",
-      "album": {
         "name": "I WANNA LOVE YOU BABE",
         "url": "https://open.spotify.com/album/2bMNH52yTI8iJczEutL43W"
       },
@@ -767,6 +783,22 @@
       "duration_ms": 274120,
       "name": "I WANNA LOVE YOU BABE",
       "url": "https://open.spotify.com/track/3jNgp0vOXGqd0Dy9V4KdsB"
+    },
+    {
+      "added_at": "2026-10-09 04:02:47",
+      "album": {
+        "name": "Pool Water Confessions",
+        "url": "https://open.spotify.com/album/6Qf7f5ijkPyixOl3yuUM88"
+      },
+      "artists": [
+        {
+          "name": "SUM SUN",
+          "url": "https://open.spotify.com/artist/3Rkl3UpmEVgW3vEoISzJUT"
+        }
+      ],
+      "duration_ms": 206158,
+      "name": "Pool Water Confessions",
+      "url": "https://open.spotify.com/track/1ahZDBeXgSjbo31UyKh7w6"
     },
     {
       "added_at": "2026-10-09 04:02:47",
@@ -835,22 +867,6 @@
     {
       "added_at": "2026-10-09 04:02:47",
       "album": {
-        "name": "She\u2019s the Best",
-        "url": "https://open.spotify.com/album/5lxMKFdNAshWkJZsqr1FYD"
-      },
-      "artists": [
-        {
-          "name": "Troye Sivan",
-          "url": "https://open.spotify.com/artist/3WGpXCj9YhhfX11TToZcXP"
-        }
-      ],
-      "duration_ms": 262896,
-      "name": "FF",
-      "url": "https://open.spotify.com/track/5WJSOTl4LAuEipWkTMPSYo"
-    },
-    {
-      "added_at": "2026-10-09 04:02:47",
-      "album": {
         "name": "Equus Caballus",
         "url": "https://open.spotify.com/album/7dJPDPUi94jA91VxG4vZb3"
       },
@@ -867,6 +883,22 @@
     {
       "added_at": "2026-10-09 04:02:47",
       "album": {
+        "name": "She\u2019s the Best",
+        "url": "https://open.spotify.com/album/5lxMKFdNAshWkJZsqr1FYD"
+      },
+      "artists": [
+        {
+          "name": "Troye Sivan",
+          "url": "https://open.spotify.com/artist/3WGpXCj9YhhfX11TToZcXP"
+        }
+      ],
+      "duration_ms": 262896,
+      "name": "FF",
+      "url": "https://open.spotify.com/track/5WJSOTl4LAuEipWkTMPSYo"
+    },
+    {
+      "added_at": "2026-10-09 04:02:47",
+      "album": {
         "name": "In Every Lifetime (From the Prime Original Series, Off Campus)",
         "url": "https://open.spotify.com/album/2yPLiUHhRdTE0b84ljXgGd"
       },
@@ -879,6 +911,22 @@
       "duration_ms": 203572,
       "name": "In Every Lifetime",
       "url": "https://open.spotify.com/track/6Ya6zZj0ZzxjpErU7LM7ba"
+    },
+    {
+      "added_at": "2026-11-27 05:01:06",
+      "album": {
+        "name": "Fleeting (Forever)",
+        "url": "https://open.spotify.com/album/38bYf23dSJeJqPwHWXQkyD"
+      },
+      "artists": [
+        {
+          "name": "Sarah Kinsley",
+          "url": "https://open.spotify.com/artist/34A8vV1MCxGpA14KspqQuC"
+        }
+      ],
+      "duration_ms": 247445,
+      "name": "The Look That Never Ends",
+      "url": "https://open.spotify.com/track/7bcZ24jO8abgqDP7zQ2Vm5"
     },
     {
       "added_at": "2026-10-09 04:02:47",
@@ -1085,6 +1133,22 @@
       "url": "https://open.spotify.com/track/7EzqmGOTlrzy1NxZRjeuVV"
     },
     {
+      "added_at": "2026-10-23 04:02:09",
+      "album": {
+        "name": "What we want and need from love",
+        "url": "https://open.spotify.com/album/6vr03B0AIqHXL597wAroV2"
+      },
+      "artists": [
+        {
+          "name": "Mila Bea",
+          "url": "https://open.spotify.com/artist/2zNoOjMtnHPRWgZKqEhxXm"
+        }
+      ],
+      "duration_ms": 253590,
+      "name": "What we want and need from love",
+      "url": "https://open.spotify.com/track/6KoBqazoogdxoa2fs42ktF"
+    },
+    {
       "added_at": "2026-10-09 04:02:47",
       "album": {
         "name": "The Clearing",
@@ -1099,6 +1163,22 @@
       "duration_ms": 229880,
       "name": "Just Two Girls",
       "url": "https://open.spotify.com/track/5yKfoYiHtMr7v6A1dk5ooh"
+    },
+    {
+      "added_at": "2026-11-27 05:01:06",
+      "album": {
+        "name": "underneath",
+        "url": "https://open.spotify.com/album/3Ef5QxE08ZcBYp7ruQDAhU"
+      },
+      "artists": [
+        {
+          "name": "Amie Blu",
+          "url": "https://open.spotify.com/artist/3WWvqxymB3Nypxej8XcQKC"
+        }
+      ],
+      "duration_ms": 209058,
+      "name": "underneath",
+      "url": "https://open.spotify.com/track/17fYcNeZOig9908CA4paoO"
     },
     {
       "added_at": "2026-10-09 04:02:47",
@@ -1133,20 +1213,20 @@
       "url": "https://open.spotify.com/track/5brhefwMpr2H1E9UaBo3ix"
     },
     {
-      "added_at": "2026-10-17 20:26:26",
+      "added_at": "2026-11-13 05:01:25",
       "album": {
-        "name": "Lucy, When You Wake Up",
-        "url": "https://open.spotify.com/album/22jM2Q6r740ZFQOqJwnMs0"
+        "name": "Tell Him",
+        "url": "https://open.spotify.com/album/4xBplgdBasQJe7XBEaFhmH"
       },
       "artists": [
         {
-          "name": "Alfie Jukes",
-          "url": "https://open.spotify.com/artist/06qfcPQQZ3AplWOg3KxsQ9"
+          "name": "Romy Mars",
+          "url": "https://open.spotify.com/artist/6cJxlOHcaXLNUUKYkSecTd"
         }
       ],
-      "duration_ms": 214806,
-      "name": "Lucy, When You Wake Up",
-      "url": "https://open.spotify.com/track/6zQxRQTscqIdvvi7C5JhX5"
+      "duration_ms": 157082,
+      "name": "Tell Him",
+      "url": "https://open.spotify.com/track/48OQwFBixhT1hfocKYRDOW"
     },
     {
       "added_at": "2026-10-09 04:02:47",
@@ -1163,6 +1243,22 @@
       "duration_ms": 218440,
       "name": "Snowburn",
       "url": "https://open.spotify.com/track/5AGe4sWEAZdZRxgTZRlaND"
+    },
+    {
+      "added_at": "2026-10-17 20:26:26",
+      "album": {
+        "name": "Lucy, When You Wake Up",
+        "url": "https://open.spotify.com/album/22jM2Q6r740ZFQOqJwnMs0"
+      },
+      "artists": [
+        {
+          "name": "Alfie Jukes",
+          "url": "https://open.spotify.com/artist/06qfcPQQZ3AplWOg3KxsQ9"
+        }
+      ],
+      "duration_ms": 214806,
+      "name": "Lucy, When You Wake Up",
+      "url": "https://open.spotify.com/track/6zQxRQTscqIdvvi7C5JhX5"
     },
     {
       "added_at": "2026-10-09 04:02:47",
@@ -1183,38 +1279,6 @@
       "duration_ms": 202651,
       "name": "girls will be girls (feat. WILLOW)",
       "url": "https://open.spotify.com/track/27CMx2IQna3TPFhFtPih5p"
-    },
-    {
-      "added_at": "2026-11-13 05:01:25",
-      "album": {
-        "name": "Tell Him",
-        "url": "https://open.spotify.com/album/4xBplgdBasQJe7XBEaFhmH"
-      },
-      "artists": [
-        {
-          "name": "Romy Mars",
-          "url": "https://open.spotify.com/artist/6cJxlOHcaXLNUUKYkSecTd"
-        }
-      ],
-      "duration_ms": 157082,
-      "name": "Tell Him",
-      "url": "https://open.spotify.com/track/48OQwFBixhT1hfocKYRDOW"
-    },
-    {
-      "added_at": "2026-10-09 04:02:47",
-      "album": {
-        "name": "gloria!",
-        "url": "https://open.spotify.com/album/7lasq7rFh5mygtWV08BOqh"
-      },
-      "artists": [
-        {
-          "name": "hemlocke springs",
-          "url": "https://open.spotify.com/artist/52PdgUJOjvS6Mpmjy1SAlx"
-        }
-      ],
-      "duration_ms": 201202,
-      "name": "gloria!",
-      "url": "https://open.spotify.com/track/0JvxCw2L2ChMeVpIfSwvqN"
     },
     {
       "added_at": "2026-10-09 04:02:47",
@@ -1247,6 +1311,22 @@
       "duration_ms": 194149,
       "name": "cranberry",
       "url": "https://open.spotify.com/track/6NXm804iftHe3VKuKHSH4O"
+    },
+    {
+      "added_at": "2026-10-09 04:02:47",
+      "album": {
+        "name": "gloria!",
+        "url": "https://open.spotify.com/album/7lasq7rFh5mygtWV08BOqh"
+      },
+      "artists": [
+        {
+          "name": "hemlocke springs",
+          "url": "https://open.spotify.com/artist/52PdgUJOjvS6Mpmjy1SAlx"
+        }
+      ],
+      "duration_ms": 201202,
+      "name": "gloria!",
+      "url": "https://open.spotify.com/track/0JvxCw2L2ChMeVpIfSwvqN"
     },
     {
       "added_at": "2026-10-09 04:02:47",
@@ -1383,22 +1463,6 @@
     {
       "added_at": "2026-10-09 04:02:47",
       "album": {
-        "name": "Endless Sundays",
-        "url": "https://open.spotify.com/album/346P9Ra44b9k0doRdKzwks"
-      },
-      "artists": [
-        {
-          "name": "Liang Lawrence",
-          "url": "https://open.spotify.com/artist/3nMWhKVpR0rMn7WFZ0XQoQ"
-        }
-      ],
-      "duration_ms": 248281,
-      "name": "Endless Sundays",
-      "url": "https://open.spotify.com/track/6r91l350cidymaEMcKceGc"
-    },
-    {
-      "added_at": "2026-10-09 04:02:47",
-      "album": {
         "name": "Miyazaki",
         "url": "https://open.spotify.com/album/1UOlu9Gxe7HFYg3Ifsolp9"
       },
@@ -1411,6 +1475,22 @@
       "duration_ms": 204778,
       "name": "Miyazaki",
       "url": "https://open.spotify.com/track/4VdqXAgfC79LeweD9qVgVZ"
+    },
+    {
+      "added_at": "2026-10-09 04:02:47",
+      "album": {
+        "name": "Endless Sundays",
+        "url": "https://open.spotify.com/album/346P9Ra44b9k0doRdKzwks"
+      },
+      "artists": [
+        {
+          "name": "Liang Lawrence",
+          "url": "https://open.spotify.com/artist/3nMWhKVpR0rMn7WFZ0XQoQ"
+        }
+      ],
+      "duration_ms": 248281,
+      "name": "Endless Sundays",
+      "url": "https://open.spotify.com/track/6r91l350cidymaEMcKceGc"
     },
     {
       "added_at": "2026-10-09 05:26:14",
@@ -1493,6 +1573,38 @@
       "url": "https://open.spotify.com/track/3OgiN8HuDd4suA01Tbo5Ks"
     },
     {
+      "added_at": "2026-11-27 05:01:06",
+      "album": {
+        "name": "Wishing In Reverse",
+        "url": "https://open.spotify.com/album/2uvbVlvIRKK5sljHcWDD2h"
+      },
+      "artists": [
+        {
+          "name": "Liang Lawrence",
+          "url": "https://open.spotify.com/artist/3nMWhKVpR0rMn7WFZ0XQoQ"
+        }
+      ],
+      "duration_ms": 188996,
+      "name": "Belle Of The Ball",
+      "url": "https://open.spotify.com/track/4BMSTla2bxnKi2GV3DnWSg"
+    },
+    {
+      "added_at": "2026-10-09 04:02:47",
+      "album": {
+        "name": "let the feeling die",
+        "url": "https://open.spotify.com/album/1IJpjSrKuQfsjkTzFNkXLV"
+      },
+      "artists": [
+        {
+          "name": "Jessie Mazin",
+          "url": "https://open.spotify.com/artist/61Yb6Hi8nlwDwR3GJ7VAnx"
+        }
+      ],
+      "duration_ms": 176435,
+      "name": "EVERY THOUGHT I\u2019VE EVER HAD",
+      "url": "https://open.spotify.com/track/3ihXuxpiMXLQRk4hknvXFN"
+    },
+    {
       "added_at": "2026-10-09 04:02:47",
       "album": {
         "name": "Belinda",
@@ -1527,22 +1639,6 @@
     {
       "added_at": "2026-10-09 04:02:47",
       "album": {
-        "name": "let the feeling die",
-        "url": "https://open.spotify.com/album/1IJpjSrKuQfsjkTzFNkXLV"
-      },
-      "artists": [
-        {
-          "name": "Jessie Mazin",
-          "url": "https://open.spotify.com/artist/61Yb6Hi8nlwDwR3GJ7VAnx"
-        }
-      ],
-      "duration_ms": 176435,
-      "name": "EVERY THOUGHT I\u2019VE EVER HAD",
-      "url": "https://open.spotify.com/track/3ihXuxpiMXLQRk4hknvXFN"
-    },
-    {
-      "added_at": "2026-10-09 04:02:47",
-      "album": {
         "name": "Dust Settles and So Will I",
         "url": "https://open.spotify.com/album/4f9ajG7yABePyI59OhmRQH"
       },
@@ -1555,102 +1651,6 @@
       "duration_ms": 173003,
       "name": "All I See Is The Sky",
       "url": "https://open.spotify.com/track/2tyfn5zPNpAa8IyF0sszGj"
-    },
-    {
-      "added_at": "2026-10-09 04:02:47",
-      "album": {
-        "name": "Queen",
-        "url": "https://open.spotify.com/album/0UItZbJtLu7g845Zgiyoji"
-      },
-      "artists": [
-        {
-          "name": "Gus Dapperton",
-          "url": "https://open.spotify.com/artist/6sHCvZe1PHrOAuYlwTLNH4"
-        }
-      ],
-      "duration_ms": 239831,
-      "name": "Queen",
-      "url": "https://open.spotify.com/track/6CjejdRVV6I4MbDJkNKqJ6"
-    },
-    {
-      "added_at": "2026-10-09 04:02:47",
-      "album": {
-        "name": "Nothing's Accidental",
-        "url": "https://open.spotify.com/album/5H2Ax7Hf3CXwmVjLYGpQGh"
-      },
-      "artists": [
-        {
-          "name": "After Louise",
-          "url": "https://open.spotify.com/artist/6tjPtIeNLFkHlDQG2mRy3W"
-        }
-      ],
-      "duration_ms": 199333,
-      "name": "Nothing's Accidental",
-      "url": "https://open.spotify.com/track/3kY3wfC4Z6hzYxLS3mb0EH"
-    },
-    {
-      "added_at": "2026-10-09 04:02:47",
-      "album": {
-        "name": "lie alone",
-        "url": "https://open.spotify.com/album/4ftfORA5fYEtqNAjT94d2U"
-      },
-      "artists": [
-        {
-          "name": "ALINA",
-          "url": "https://open.spotify.com/artist/5dMqTi9pBymJAVzH9V7N86"
-        }
-      ],
-      "duration_ms": 229100,
-      "name": "lie alone",
-      "url": "https://open.spotify.com/track/2VzOhFDUMzY5FFjZe2uBpf"
-    },
-    {
-      "added_at": "2026-10-23 04:02:09",
-      "album": {
-        "name": "Savior",
-        "url": "https://open.spotify.com/album/4sWbxFwZ7NQny0AnkmzkBW"
-      },
-      "artists": [
-        {
-          "name": "Foushe\u00e9",
-          "url": "https://open.spotify.com/artist/6trIghKwHRUyxwvm66HLHH"
-        }
-      ],
-      "duration_ms": 161529,
-      "name": "Savior",
-      "url": "https://open.spotify.com/track/5A6FYlGCZUl8G8twvSdUZP"
-    },
-    {
-      "added_at": "2026-10-09 04:02:47",
-      "album": {
-        "name": "Fall In Love With Me",
-        "url": "https://open.spotify.com/album/0ubfpcm64JcRxzcswazYdj"
-      },
-      "artists": [
-        {
-          "name": "Basia Ma\u0142ecka",
-          "url": "https://open.spotify.com/artist/6ORk5XjNPdW5mPj04Ac5XY"
-        }
-      ],
-      "duration_ms": 168685,
-      "name": "Fall In Love With Me",
-      "url": "https://open.spotify.com/track/0jXng1BPR8uiwt4v0rb16F"
-    },
-    {
-      "added_at": "2026-10-09 04:02:47",
-      "album": {
-        "name": "drama queens",
-        "url": "https://open.spotify.com/album/1xFSIoX8WD1IttHFr5TFio"
-      },
-      "artists": [
-        {
-          "name": "Forrest Nolan",
-          "url": "https://open.spotify.com/artist/3M8UUCqb0mIEn5S2lO13yv"
-        }
-      ],
-      "duration_ms": 170503,
-      "name": "drama queens",
-      "url": "https://open.spotify.com/track/5x244J13Sq97dXy9cYU1Dh"
     }
   ],
   "unique_name": "Indie Pop",

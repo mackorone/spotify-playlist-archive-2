@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2449GK.md) - [plain]
 
 > This is Alcolirykoz\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 65,973 likes - 38 songs - 2 hr 22 min
+[Spotify](https://open.spotify.com/user/spotify) - 65,981 likes - 38 songs - 2 hr 22 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -31,9 +31,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2449GK.md) - [plain]
 | 21 | [Reflujo](https://open.spotify.com/track/04ri4wOci5SO0lbBTlShjp) | [Alcolirykoz](https://open.spotify.com/artist/3ygJTpJJIK7eEeC2EFRl9D), [Estee Nack](https://open.spotify.com/artist/6BBkWyAZhcINj7GecYg3Wd) | [Aranjuez](https://open.spotify.com/album/3VXuNp5vOx2aX2tfe6AaYm) | 3:48 |
 | 22 | [Estetograma](https://open.spotify.com/track/6i9kgNiuLPFKr8hepwkatB) | [Alcolirykoz](https://open.spotify.com/artist/3ygJTpJJIK7eEeC2EFRl9D), [Daymé Arocena](https://open.spotify.com/artist/6LcWO77VeIUPqNY22N3fI0) | [Anarcolirykoz](https://open.spotify.com/album/21wfgUoxj9SBtHjZrlF66I) | 3:40 |
 | 23 | [Fruko y Sus Presos \(2.018\)](https://open.spotify.com/track/3wLZplvZc5OOSpKRxr9Uky) | [Alcolirykoz](https://open.spotify.com/artist/3ygJTpJJIK7eEeC2EFRl9D) | [En Letras Mayúsculas \(Reedición 2018\)](https://open.spotify.com/album/4pnGRjkikanhqwLk0F98iW) | 3:38 |
-| 24 | [Género Rural](https://open.spotify.com/track/7oOKkNyeZaOzrjWNYsjr5P) | [Alcolirykoz](https://open.spotify.com/artist/3ygJTpJJIK7eEeC2EFRl9D), [Rulaz Plazco](https://open.spotify.com/artist/04sQWOLwOBQW1EIAQGJF0s) | [Servicios Ambulatorioz](https://open.spotify.com/album/13AZK07VZhsbPB5KhlRaw2) | 3:51 |
+| 24 | [Quien Va](https://open.spotify.com/track/21WsQHnPcE2nGM7RUyuEay) | [No Rules Clan](https://open.spotify.com/artist/6i28S1MHCSNJtufoq0DnPv), [Alcolirykoz](https://open.spotify.com/artist/3ygJTpJJIK7eEeC2EFRl9D), [El Arkeologo](https://open.spotify.com/artist/6IB7haQdDZM6rdSssVRHre) | [Pantone](https://open.spotify.com/album/4KIYSo2O5ZqH03VeHXsWNX) | 4:25 |
 | 25 | [No Está en Venta](https://open.spotify.com/track/70kqnlIktu6mBuweHwUXGz) | [Alcolirykoz](https://open.spotify.com/artist/3ygJTpJJIK7eEeC2EFRl9D) | [Aranjuez](https://open.spotify.com/album/3VXuNp5vOx2aX2tfe6AaYm) | 4:00 |
-| 26 | [Quien Va](https://open.spotify.com/track/21WsQHnPcE2nGM7RUyuEay) | [No Rules Clan](https://open.spotify.com/artist/6i28S1MHCSNJtufoq0DnPv), [Alcolirykoz](https://open.spotify.com/artist/3ygJTpJJIK7eEeC2EFRl9D), [El Arkeologo](https://open.spotify.com/artist/6IB7haQdDZM6rdSssVRHre) | [Pantone](https://open.spotify.com/album/4KIYSo2O5ZqH03VeHXsWNX) | 4:25 |
+| 26 | [Género Rural](https://open.spotify.com/track/7oOKkNyeZaOzrjWNYsjr5P) | [Alcolirykoz](https://open.spotify.com/artist/3ygJTpJJIK7eEeC2EFRl9D), [Rulaz Plazco](https://open.spotify.com/artist/04sQWOLwOBQW1EIAQGJF0s) | [Servicios Ambulatorioz](https://open.spotify.com/album/13AZK07VZhsbPB5KhlRaw2) | 3:51 |
 | 27 | [Otra Canción Larga](https://open.spotify.com/track/2PfziMSEW5WDvoxSWCxRfT) | [Alcolirykoz](https://open.spotify.com/artist/3ygJTpJJIK7eEeC2EFRl9D) | [Efectos Secundarios](https://open.spotify.com/album/72fxZydAOtlLc4XiAWeFzq) | 6:05 |
 | 28 | [Los Genios de la Botella \- Remix Gambeta](https://open.spotify.com/track/1vJKRRBEYz034bWewZz146) | [Alcolirykoz](https://open.spotify.com/artist/3ygJTpJJIK7eEeC2EFRl9D), [Gambeta](https://open.spotify.com/artist/1ansBUwEboqKX6Fm31txU4) | [Viejas Recetas Remixes y Otras Rarezas](https://open.spotify.com/album/3D9RotS2JIfLMEVT1lfBu8) | 3:03 |
 | 29 | [El Despilfarro](https://open.spotify.com/track/0cKpLltsjba1REqMwFzvK1) | [Alcolirykoz](https://open.spotify.com/artist/3ygJTpJJIK7eEeC2EFRl9D) | [El Despilfarro](https://open.spotify.com/album/7vB3v0khrKFPp700YjLNgc) | 2:58 |
@@ -47,4 +47,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2449GK.md) - [plain]
 | 37 | [No Hay Flores en Venus](https://open.spotify.com/track/7phGc1gPOFCbhC5RVLpRCf) | [Alcolirykoz](https://open.spotify.com/artist/3ygJTpJJIK7eEeC2EFRl9D), [Lianna](https://open.spotify.com/artist/0DvVlPVedwq6LF3jQqkZXa) | [Efectos Secundarios](https://open.spotify.com/album/72fxZydAOtlLc4XiAWeFzq) | 2:57 |
 | 38 | [El Salón de la Injusticia](https://open.spotify.com/track/2x7cgane1Pqh8pxgKhayOu) | [Alcolirykoz](https://open.spotify.com/artist/3ygJTpJJIK7eEeC2EFRl9D) | [Efectos Secundarios](https://open.spotify.com/album/72fxZydAOtlLc4XiAWeFzq) | 3:50 |
 
-Snapshot ID: `awOCAAAAAACP1JB2HUsh9ssGZKV3htnF`
+Snapshot ID: `awYlAAAAAABb2CKp3+rQt5BnmH74czeS`

@@ -2,9 +2,9 @@
 
 ### [Made In South Africa](https://open.spotify.com/playlist/37i9dQZF1DX9wXOYagay8L)
 
-> Proudly Southern African Afropop gems\. Cover: The Joy
+> Proudly Southern African Afropop gems\. Cover: Simmy
 
-791 songs - 2 day 8 hr 5 min
+792 songs - 2 day 8 hr 9 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -104,7 +104,7 @@
 | [Bhekemehlweni](https://open.spotify.com/track/4GqYUUX01isf7s5YpQk59o) | [Afrotraction](https://open.spotify.com/artist/5nWUxMDXCniEU2M0VXZPH3), [Aymos](https://open.spotify.com/artist/3xXIOO328Ieh0PWOcxivjL) | [Africa\. Love\. Music](https://open.spotify.com/album/5LirWmWeo0o9nZbMPVfEMf) | 3:36 | 2022-10-13 | 2023-02-10 |
 | [BIZAN'UMAMA](https://open.spotify.com/track/40OrhVxoTGnPbo1avCDYTM) | [Zonke](https://open.spotify.com/artist/1eBaQkCXWlq1vhCLMVFdqn) | [BIZAN'UMAMA](https://open.spotify.com/album/4zhPzcxKGHw0CLDmP28HRc) | 4:18 | 2023-10-12 | 2024-05-03 |
 | [Black President \(Brenda Fassie 60th Tribute\)](https://open.spotify.com/track/2HAquNlzSJBEQpz4ZhATii) | [The Soil](https://open.spotify.com/artist/3UhCf5Cu963oXz9DseciIU) | [Black President \(Brenda Fassie 60th Tribute\)](https://open.spotify.com/album/285dGwNu1LHuKsggkEJ3Xo) | 4:10 | 2025-04-10 | 2025-10-10 |
-| [Black Sweater](https://open.spotify.com/track/3pdGzKXpQPLstXujPTZQg5) | [Vusi Nova](https://open.spotify.com/artist/0EdZov8Gv5SHN4IVF3b4m8), [Anthony Hamilton](https://open.spotify.com/artist/2DzRMyWgjuMbYvt5BLbpCo) | [Promises](https://open.spotify.com/album/3FUsw3tcGtqJboGJmyR92G) | 4:33 | 2025-09-12 |  |
+| [Black Sweater](https://open.spotify.com/track/3pdGzKXpQPLstXujPTZQg5) | [Vusi Nova](https://open.spotify.com/artist/0EdZov8Gv5SHN4IVF3b4m8), [Anthony Hamilton](https://open.spotify.com/artist/2DzRMyWgjuMbYvt5BLbpCo) | [Promises](https://open.spotify.com/album/3FUsw3tcGtqJboGJmyR92G) | 4:33 | 2025-09-12 | 2026-11-27 |
 | [Break](https://open.spotify.com/track/1LtKgnc7y3jW4bkkYozDDc) | [Thando Zide](https://open.spotify.com/artist/4szs3im3aqSWr8MbdoW1W2) | [Break](https://open.spotify.com/album/701nJOG1dAwQ0VYSGk3zbt) | 2:10 | 2025-06-20 | 2026-07-07 |
 | [Buya](https://open.spotify.com/track/6xhsflZ8sxlJVmquIIcMZp) | [Bongi Silinda](https://open.spotify.com/artist/1HS4J0XmZ1djkEOtCkhH6r), [Soul Kulture](https://open.spotify.com/artist/1LZkUMy70sBaxwNWLr22ah) | [Buya](https://open.spotify.com/album/2UpileuXTy8en41E8ZEpL6) | 4:05 | 2024-08-01 | 2024-08-16 |
 | [Buya](https://open.spotify.com/track/7EbI4Ctt4ZQ7R90mXf0Kcv) | [KhiweG](https://open.spotify.com/artist/1r2fqIvsisXOh3VkwYeZGz) | [Buya](https://open.spotify.com/album/6MIMxuFqi0vMLybGOs9Z29) | 4:33 | 2022-03-24 | 2022-06-17 |
@@ -223,6 +223,7 @@
 | [I'll Be Here For You](https://open.spotify.com/track/2DYj7xay1QF1mtxg5SStOJ) | [Jon Delinger](https://open.spotify.com/artist/6N08SlULviNvUJhmDgevsF) | [I'll Be Here For You](https://open.spotify.com/album/7uXOXyGuOf2EaNCJxE2yaR) | 5:13 | 2022-08-04 | 2022-08-19 |
 | [I'm gonna be alright](https://open.spotify.com/track/6ZxZCtgXbgMhlnOA6zbHIX) | [Harrison Mkhize](https://open.spotify.com/artist/5h8373IjaJ4LHlcOGdky8w) | [A Stranger's Love](https://open.spotify.com/album/4s7pUkiKwtwSshDa2rKAqf) | 3:58 | 2022-02-03 | 2022-02-18 |
 | [Ibandla](https://open.spotify.com/track/6EpoJJIRPkO79fFZvGzSY6) | [Ruff](https://open.spotify.com/artist/4MChJwJ4CmqZkLJVracqjh), [Emtee](https://open.spotify.com/artist/6U3gCOvxVWKBxXItqp3mdr), [Sjava](https://open.spotify.com/artist/4RfOLIFy2xEmlWzXEVmLJn), [Saudi](https://open.spotify.com/artist/37Qsf5KCKljH7mL134xp4k) | [The Trap Temptations](https://open.spotify.com/album/5NbREtW6Pvn1U8ha72Pv5m) | 4:56 | 2026-06-18 |  |
+| [Ibhemile](https://open.spotify.com/track/5B29Ebw8tFlxyDDOeU6W8O) | [Simmy](https://open.spotify.com/artist/3MjlXVCfmLdY9QQ2GCd7iA), [Lwah Ndlunkulu](https://open.spotify.com/artist/2h9NlcdGxIEnnh5aQuSeZ1) | [eFairyland, Vol\. 2](https://open.spotify.com/album/14ITj1rAGNkUdki9rI09nH) | 4:15 | 2026-11-26 |  |
 | [ICE BOY](https://open.spotify.com/track/5WitY5GhqNFpbw85MRlTJc) | [Prince Benza](https://open.spotify.com/artist/5jCHpUIjSnOXUzVaxwBA2k), [Master KG](https://open.spotify.com/artist/523y9KSneKh6APd1hKxLuF), [CK the Dj](https://open.spotify.com/artist/4IPk1SN4U0wmDksDGcvGVP), [Leon Lee](https://open.spotify.com/artist/7C2brYxxHiu329vBUebugD) | [ICE BOY](https://open.spotify.com/album/5coGZmI44wlfeivpxWBPIJ) | 5:28 | 2023-02-23 | 2023-03-18 |
 | [Idliso](https://open.spotify.com/track/7DmG8BsUL1PZRlrQNW9AgP) | [Aubrey Qwana](https://open.spotify.com/artist/6uVEWgg7sAAzfPQsXjzTRi) | [Intando Kumnini](https://open.spotify.com/album/7y9ZTolHoLTcGuoJrk0PSR) | 3:43 | 2026-10-15 |  |
 | [Idliso](https://open.spotify.com/track/19nYxv4eoMwEjxgruXqOSK) | [Nozi](https://open.spotify.com/artist/30kJwhrtiIFDPOa7og862Y) | [Idliso](https://open.spotify.com/album/6Gw7TPI2X8j9VLfWzG6qVK) | 5:05 | 2022-11-17 | 2023-06-30 |

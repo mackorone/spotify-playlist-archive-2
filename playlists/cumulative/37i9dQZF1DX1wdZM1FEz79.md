@@ -2,7 +2,7 @@
 
 ### [K\-Folk/Acoustic](https://open.spotify.com/playlist/37i9dQZF1DX1wdZM1FEz79)
 
-> Chillout to the coolest Korean folk/acoustic tunes\. \(Cover: WISUE\) 감미롭고 부드러운 한국 포크/어쿠스틱 음악과 함께하세요.
+> Chillout to the coolest Korean folk/acoustic tunes\. \(Cover: O3ohn\) 감미롭고 부드러운 한국 포크/어쿠스틱 음악과 함께하세요.
 
 707 songs - 1 day 17 hr 35 min
 
@@ -223,7 +223,7 @@
 | [Headache](https://open.spotify.com/track/6R4Lv4Bx0qhyVlVwurGzdf) | [Elaine](https://open.spotify.com/artist/7o30ZHbzQe9mDG8LbmmSel) | [Headache](https://open.spotify.com/album/14uWodFImRHWXjSm5bQITQ) | 3:33 | 2021-12-10 | 2022-07-19 |
 | [Hello](https://open.spotify.com/track/2XeZwMyRKG9vSvTLq7Y40Z) | [Haze Moon](https://open.spotify.com/artist/5qWj6gxjgEq3Ut7QKG1Wjd) | [My Beautiful Apartment \(Original Television Soundtrack\) \(O′PENing\)](https://open.spotify.com/album/1t9pAo9XneaecUx94i27ms) | 3:48 | 2022-07-04 | 2022-08-10 |
 | [Hello, goodbye.](https://open.spotify.com/track/6QSkLzLRAwPMaYnesYdqdX) | [Isaac Hong](https://open.spotify.com/artist/4bST03NJ0YEysocK5AV1wB) | [Hello, goodbye.](https://open.spotify.com/album/5MTTOYSuCUp7Wz6P57lAja) | 3:06 | 2025-11-13 |  |
-| [hero? hero!](https://open.spotify.com/track/3oVgXy5z54cbieLGpGVq41) | [WISUE](https://open.spotify.com/artist/6AtePm872YnH0PPQZpNFry) | [from.](https://open.spotify.com/album/0vofZH4JYymfDCx5R0JHhs) | 4:08 | 2026-11-17 |  |
+| [hero? hero!](https://open.spotify.com/track/3oVgXy5z54cbieLGpGVq41) | [WISUE](https://open.spotify.com/artist/6AtePm872YnH0PPQZpNFry) | [from.](https://open.spotify.com/album/0vofZH4JYymfDCx5R0JHhs) | 4:08 | 2026-11-17 | 2026-11-27 |
 | [Hide and Seek](https://open.spotify.com/track/4dv1Ygd62DuZEjzqVivgKE) | [Park Seo Ryoung](https://open.spotify.com/artist/3feVktwro8QoXPKQqe20gy) | [Hide and Seek](https://open.spotify.com/album/1QgeqdZEcBZXSUqykXvyDZ) | 3:06 | 2022-05-03 | 2022-06-19 |
 | [Hide And Seek](https://open.spotify.com/track/6kgbXxqe6gDKMYrjNL3zqD) | [SURAN](https://open.spotify.com/artist/1mORehSVEd7lcaT2d7Sl2K), [HEIZE](https://open.spotify.com/artist/5dCvSnVduaFleCnyy98JMo) | [Jumpin'](https://open.spotify.com/album/5zIcY1Rd64xth4HmCwmYwu) | 2:57 | 2022-03-31 | 2022-04-16 |
 | [Hide and Seek \(feat\. kimminseong\)](https://open.spotify.com/track/7ylQ2APCeCGzmD3H0bgTwP) | [Kim Hyo Rin](https://open.spotify.com/artist/5utWINxnF6V3qB60hLMZTp), [kimminseong](https://open.spotify.com/artist/6kEcqDj4yNNQtE3hNjWjgq) | [Hide and Seek \(feat\. kimminseong\)](https://open.spotify.com/album/18soFYAFOWDmjUpL4R09bG) | 3:44 | 2026-03-06 | 2026-04-02 |
@@ -289,7 +289,7 @@
 | [Indigo](https://open.spotify.com/track/57gU292uJXE0ur2697dQWJ) | [이봄](https://open.spotify.com/artist/5lsChpOwgH1pnjniKZLD8A) | [Indigo](https://open.spotify.com/album/3KQC1jKtj0o7BtK5siVNvd) | 3:40 | 2022-01-13 | 2022-01-18 |
 | [Inside](https://open.spotify.com/track/3SVvPN9zqICAetI0g9x5SN) | [KYUL](https://open.spotify.com/artist/10LaysU4hUTEGtWwC0Zbrm) | [Inside](https://open.spotify.com/album/2jVzlkR05AEAzBAGdv1C4G) | 2:48 | 2022-03-31 | 2022-04-12 |
 | [invisible](https://open.spotify.com/track/7a3FZTbMXhvBHPK1gpA03u) | [HOHYUN](https://open.spotify.com/artist/15QTZYWWbRmiII0wpKIAmu) | [invisible](https://open.spotify.com/album/1aG1R1Q706NZOhXVd4ZWSM) | 4:14 | 2022-03-31 | 2022-04-11 |
-| [IRIJEORI](https://open.spotify.com/track/2cAfb6rL7NcAm6DxxcOGRB) | [gongwon](https://open.spotify.com/artist/7kX37KAwZZxvbsXSF1rtpJ) | [IRIJEORI](https://open.spotify.com/album/73pNxDixMMWRx4NzYes2Vh) | 3:36 | 2026-10-29 | 2026-11-26 |
+| [IRIJEORI](https://open.spotify.com/track/2cAfb6rL7NcAm6DxxcOGRB) | [gongwon](https://open.spotify.com/artist/7kX37KAwZZxvbsXSF1rtpJ) | [IRIJEORI](https://open.spotify.com/album/73pNxDixMMWRx4NzYes2Vh) | 3:36 | 2026-10-29 |  |
 | [Is It Fine? \(Feat\. Cha Woo Joo, Joob A\)](https://open.spotify.com/track/0ha7YfBJddjubCa4y9xoug) | [yowoon](https://open.spotify.com/artist/05Sc4rR9HIhRZrszKwynLk), [Cha Woo Joo](https://open.spotify.com/artist/6mScVyqAyNG48yrL20Rdd4), [Joob A](https://open.spotify.com/artist/4fiMU9JbjPoMn7PVtYPRWP) | [Is It Fine? \(Feat\. Cha Woo Joo, Joob A\)](https://open.spotify.com/album/43KTTj2BtUePbWeQbhGmbM) | 3:00 | 2024-09-23 | 2024-10-16 |
 | [Is you](https://open.spotify.com/track/36HZ2Z3rvP3i4YFB5tUjY9) | [Jay chang](https://open.spotify.com/artist/7H2xroGGrPmbmHtwBOZyLT) | [Is you](https://open.spotify.com/album/7y8QDramTNvHWnbFANijH1) | 3:51 | 2022-02-10 | 2022-05-28 |
 | [Isle in Waves](https://open.spotify.com/track/3WCqOxhcu9aqdYaIT8RpZP) | [Motte](https://open.spotify.com/artist/4bh77HBBwCekmEPcbXAljy) | [Isle in Waves](https://open.spotify.com/album/39XPD1xXFhXOdxmpt3DvVB) | 3:51 | 2025-09-08 | 2025-09-25 |

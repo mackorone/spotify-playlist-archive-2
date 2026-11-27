@@ -2241,6 +2241,28 @@
     },
     {
       "album": {
+        "name": "Kancheli: When Almonds Blossomed",
+        "url": "https://open.spotify.com/album/025dCC1pbeIyXanMf2QrLw"
+      },
+      "artists": [
+        {
+          "name": "Gia Kancheli",
+          "url": "https://open.spotify.com/artist/5xW70tCVhylaxAg7oRl0H6"
+        },
+        {
+          "name": "Mariam Batsashvili",
+          "url": "https://open.spotify.com/artist/5EfRmAMpdmiA8NDoBxGYci"
+        }
+      ],
+      "date_added": "2026-11-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 121986,
+      "name": "Kancheli: 33 Miniatures: No. 3, Theme from \"When Almonds Blossomed\"",
+      "url": "https://open.spotify.com/track/1mlZtJvP9bKIuTT0S9kQIH"
+    },
+    {
+      "album": {
         "name": "J.S. Bach: Keyboard Concerto No. 1 in D Major, BWV 972 (After Vivaldi, RV 230): II. Larghetto",
         "url": "https://open.spotify.com/album/6t7b9wNTlxy6w2izqpAksQ"
       },

@@ -1,13 +1,253 @@
 {
-  "description": "Hear what's new in folk, roots & indie singer-songwriter. Cover: Devon Gilfillian & Allison Russell",
-  "num_followers": 886292,
+  "description": "Hear what's new in folk, roots & indie singer-songwriter. Cover: Helena Deland",
+  "num_followers": 886324,
   "original_name": "Fresh Folk",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAOgJkQkmHxVA3ikO64QxauiF7yb8",
+  "snapshot_id": "AAAAAGU+TOCqr5kJkpFSPsff8NOkNisU",
   "tracks": [
+    {
+      "added_at": "2026-11-27 05:00:31",
+      "album": {
+        "name": "Black Magic",
+        "url": "https://open.spotify.com/album/6hi4PpWER2tBbTCzQJPkJM"
+      },
+      "artists": [
+        {
+          "name": "Good Wild Gods",
+          "url": "https://open.spotify.com/artist/6XY9ZdPBtDFSHv4bRUW1E3"
+        },
+        {
+          "name": "Old Sea Brigade",
+          "url": "https://open.spotify.com/artist/6vUNwmljZAcn7tNtUoxG45"
+        },
+        {
+          "name": "Luke Sital-Singh",
+          "url": "https://open.spotify.com/artist/3Lw97gGh8bp1MftsYmwJHG"
+        }
+      ],
+      "duration_ms": 210026,
+      "name": "Black Magic",
+      "url": "https://open.spotify.com/track/6X5YclGknPL4zxirSAcxWQ"
+    },
+    {
+      "added_at": "2026-11-27 05:00:31",
+      "album": {
+        "name": "Whole Life",
+        "url": "https://open.spotify.com/album/474Lymr5Z6E2vlCAcazKLv"
+      },
+      "artists": [
+        {
+          "name": "Helena Deland",
+          "url": "https://open.spotify.com/artist/0BJeP79i5wKgCqsEEiQ7G0"
+        }
+      ],
+      "duration_ms": 138446,
+      "name": "Whole Life",
+      "url": "https://open.spotify.com/track/42h8a36oajv2baQaBkEbtM"
+    },
+    {
+      "added_at": "2026-11-27 05:00:31",
+      "album": {
+        "name": "Groupie (with Jessie Mazin)",
+        "url": "https://open.spotify.com/album/7rgyYbnDujtb5CtjvZZyad"
+      },
+      "artists": [
+        {
+          "name": "Leonie Biney",
+          "url": "https://open.spotify.com/artist/4fG5iQ1bDCtgOmhbVNWilq"
+        },
+        {
+          "name": "Jessie Mazin",
+          "url": "https://open.spotify.com/artist/61Yb6Hi8nlwDwR3GJ7VAnx"
+        }
+      ],
+      "duration_ms": 173000,
+      "name": "Groupie (with Jessie Mazin)",
+      "url": "https://open.spotify.com/track/3xD8uwc9sZHQXVSLhS6C21"
+    },
+    {
+      "added_at": "2026-11-27 05:00:31",
+      "album": {
+        "name": "Like a Dog",
+        "url": "https://open.spotify.com/album/3nclAHvS4wQIIwNbiFT4Hi"
+      },
+      "artists": [
+        {
+          "name": "Bella Kay",
+          "url": "https://open.spotify.com/artist/4Z8MrrKMBHMPa8d04Ivur8"
+        }
+      ],
+      "duration_ms": 162681,
+      "name": "Like a Dog",
+      "url": "https://open.spotify.com/track/4uedQsQUuamDPlCRAct8jZ"
+    },
+    {
+      "added_at": "2026-11-27 05:00:31",
+      "album": {
+        "name": "Given to the Night",
+        "url": "https://open.spotify.com/album/6FHAfylmNrnSkC5M19aqia"
+      },
+      "artists": [
+        {
+          "name": "Purple Pilgrims",
+          "url": "https://open.spotify.com/artist/10jJPAsjoKNz6T9P1M5lJ7"
+        }
+      ],
+      "duration_ms": 237222,
+      "name": "Echo",
+      "url": "https://open.spotify.com/track/5qpcbaU2lqYwbXgthj19by"
+    },
+    {
+      "added_at": "2026-11-27 05:00:31",
+      "album": {
+        "name": "ready or not",
+        "url": "https://open.spotify.com/album/7kTqE5jW9nOygE1DljVvHi"
+      },
+      "artists": [
+        {
+          "name": "lindsay",
+          "url": "https://open.spotify.com/artist/5rar25ejTh6Z3bZ2MhiAfS"
+        },
+        {
+          "name": "LANKS",
+          "url": "https://open.spotify.com/artist/6f5yObGSpFj9eJL55GBzrb"
+        }
+      ],
+      "duration_ms": 182893,
+      "name": "ready or not",
+      "url": "https://open.spotify.com/track/2nvjMISiChF8ihTNpXFkpC"
+    },
+    {
+      "added_at": "2026-11-27 05:00:31",
+      "album": {
+        "name": "Knives",
+        "url": "https://open.spotify.com/album/38WzxbUAmrFgBFieXoF1Av"
+      },
+      "artists": [
+        {
+          "name": "James Vincent McMorrow",
+          "url": "https://open.spotify.com/artist/7FDlvgcodNfC0IBdWevl4u"
+        }
+      ],
+      "duration_ms": 238518,
+      "name": "Knives",
+      "url": "https://open.spotify.com/track/30WXK60kj1hEgnWwgXKoiY"
+    },
+    {
+      "added_at": "2026-11-27 05:00:31",
+      "album": {
+        "name": "Somersault",
+        "url": "https://open.spotify.com/album/3jeqxWoJUugVArdE4xVLjF"
+      },
+      "artists": [
+        {
+          "name": "Stella Dunai",
+          "url": "https://open.spotify.com/artist/03UFzahBbYcVlyOu47RQzi"
+        }
+      ],
+      "duration_ms": 210950,
+      "name": "Somersault",
+      "url": "https://open.spotify.com/track/2OIPDmp5ddpIzahxEJIPWo"
+    },
+    {
+      "added_at": "2026-11-27 05:00:31",
+      "album": {
+        "name": "Spain Song",
+        "url": "https://open.spotify.com/album/7HTjFUkfQdxPqOHEeMqpqi"
+      },
+      "artists": [
+        {
+          "name": "claire my flair",
+          "url": "https://open.spotify.com/artist/0YJlDaNrY5A0if0WeHF1uJ"
+        }
+      ],
+      "duration_ms": 271413,
+      "name": "Spain Song",
+      "url": "https://open.spotify.com/track/2DfjNp0HzEim8lCIv5uaG1"
+    },
+    {
+      "added_at": "2026-11-27 05:00:31",
+      "album": {
+        "name": "Corridor",
+        "url": "https://open.spotify.com/album/2DCOgQZqPAgjHortCWTb8A"
+      },
+      "artists": [
+        {
+          "name": "Cornelia Murr",
+          "url": "https://open.spotify.com/artist/1FdUgjmEeGCpmAxXatjiEG"
+        }
+      ],
+      "duration_ms": 186020,
+      "name": "Any Other Way",
+      "url": "https://open.spotify.com/track/4uU1VpksXrf6zNufEkMhEs"
+    },
+    {
+      "added_at": "2026-11-27 05:00:31",
+      "album": {
+        "name": "Katie Cruel",
+        "url": "https://open.spotify.com/album/4oigaRwUhvaIF0TFv1mnou"
+      },
+      "artists": [
+        {
+          "name": "Florence Rose Broomfield",
+          "url": "https://open.spotify.com/artist/6rkzTIEcx03p1nmHoo3uSZ"
+        }
+      ],
+      "duration_ms": 173849,
+      "name": "Katie Cruel",
+      "url": "https://open.spotify.com/track/4Q1iSGrzCaHv1KkMX9chEu"
+    },
+    {
+      "added_at": "2026-11-27 05:00:31",
+      "album": {
+        "name": "Twilight Room",
+        "url": "https://open.spotify.com/album/1oNZdcyNJQFtAjYOVNsJlT"
+      },
+      "artists": [
+        {
+          "name": "Sophie Hunger",
+          "url": "https://open.spotify.com/artist/3nOQJdlPEzFVhTEzxwcGax"
+        }
+      ],
+      "duration_ms": 216776,
+      "name": "Twilight Room",
+      "url": "https://open.spotify.com/track/46GsFIa135TatApguVf4VO"
+    },
+    {
+      "added_at": "2026-11-27 05:00:31",
+      "album": {
+        "name": "Brothers Keep Goin' Anyway (From the Motion Picture \"Brother Verses Brother\")",
+        "url": "https://open.spotify.com/album/20AfcmyVo6kibuk1EwR7ud"
+      },
+      "artists": [
+        {
+          "name": "Ethan Gold",
+          "url": "https://open.spotify.com/artist/0s99vDYatcM8lspzPvbuRb"
+        }
+      ],
+      "duration_ms": 225269,
+      "name": "Brothers Keep Goin' Anyway",
+      "url": "https://open.spotify.com/track/1zTjfFWKTHflUjJmq372pI"
+    },
+    {
+      "added_at": "2026-11-27 05:00:31",
+      "album": {
+        "name": "Memo",
+        "url": "https://open.spotify.com/album/5GR5rOaGVQdkWJ8ueFM6C7"
+      },
+      "artists": [
+        {
+          "name": "Astrid Matthesen",
+          "url": "https://open.spotify.com/artist/2DQ9yWHmT4sWYbMRtXae6C"
+        }
+      ],
+      "duration_ms": 251903,
+      "name": "Memo",
+      "url": "https://open.spotify.com/track/2sfbUZrbgKtGG32q5cDSCt"
+    },
     {
       "added_at": "2026-11-20 05:01:41",
       "album": {

@@ -611,6 +611,32 @@
     },
     {
       "album": {
+        "name": "AMERICANSLOPFOOD",
+        "url": "https://open.spotify.com/album/5LI7CowG0yKShjhfhTBqVu"
+      },
+      "artists": [
+        {
+          "name": "Blu",
+          "url": "https://open.spotify.com/artist/1KeJhR0ENFviw187pD4LPT"
+        },
+        {
+          "name": "MED",
+          "url": "https://open.spotify.com/artist/36zSkwftotDHslP3KUQpew"
+        },
+        {
+          "name": "Bane Capital",
+          "url": "https://open.spotify.com/artist/31bDSGSOB0Lgc1FIDWFmeL"
+        }
+      ],
+      "date_added": "2026-11-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 193718,
+      "name": "AMERICANSLOPFOOD",
+      "url": "https://open.spotify.com/track/6TaXtj5gYKjmKxgrLKnD75"
+    },
+    {
+      "album": {
         "name": "Still Nothing Still (Deluxe)",
         "url": "https://open.spotify.com/album/47zLi5b1Xv8uwVzTWTDM6C"
       },
@@ -5056,7 +5082,7 @@
       ],
       "date_added": "2023-02-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-27",
       "duration_ms": 216883,
       "name": "Good Vibrations",
       "url": "https://open.spotify.com/track/38g4mEWyukKL2IZwX5f4jg"
@@ -7168,7 +7194,7 @@
       ],
       "date_added": "2026-02-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-27",
       "duration_ms": 249331,
       "name": "Love N Drugs",
       "url": "https://open.spotify.com/track/3kGK2EcioWNqaj5rfsKN5b"
@@ -7943,6 +7969,28 @@
     },
     {
       "album": {
+        "name": "Never Settle",
+        "url": "https://open.spotify.com/album/3WT4glQHxUJaXpVSDPnM3a"
+      },
+      "artists": [
+        {
+          "name": "Bijaan",
+          "url": "https://open.spotify.com/artist/3jntXP4RXJ0mHrFW3AC3KY"
+        },
+        {
+          "name": "Cadence Weapon",
+          "url": "https://open.spotify.com/artist/179CHqJZlZwKBQhjcOeAOS"
+        }
+      ],
+      "date_added": "2026-11-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 225538,
+      "name": "Never Settle",
+      "url": "https://open.spotify.com/track/30FlvNiQL7PQ3N7qJWHcbT"
+    },
+    {
+      "album": {
         "name": "New Day",
         "url": "https://open.spotify.com/album/6LYOnP339GvjeB6imk4q2j"
       },
@@ -7988,6 +8036,44 @@
       "duration_ms": 230511,
       "name": "New Harrison",
       "url": "https://open.spotify.com/track/3HZKBjeOyPZo2DLRIz6Ikr"
+    },
+    {
+      "album": {
+        "name": "FromTheMud. (Northside Edition)",
+        "url": "https://open.spotify.com/album/6KBOS8WbwmKkDq6tiI7ykq"
+      },
+      "artists": [
+        {
+          "name": "Thelonious",
+          "url": "https://open.spotify.com/artist/7oMI2F5UkZ6zozGE7jxRRI"
+        },
+        {
+          "name": "Gritfall",
+          "url": "https://open.spotify.com/artist/7rNjZJ2iF4ixVCkvtl91AI"
+        },
+        {
+          "name": "Akintoye",
+          "url": "https://open.spotify.com/artist/1EgCxqT8GgE5oXX3PkeGhq"
+        },
+        {
+          "name": "KOTO?",
+          "url": "https://open.spotify.com/artist/1N7v8ztld41DN69kQvp0We"
+        },
+        {
+          "name": "Kai Banks",
+          "url": "https://open.spotify.com/artist/1oshkDo0mvTYNAPKaY9qiP"
+        },
+        {
+          "name": "Shad",
+          "url": "https://open.spotify.com/artist/15lOM8PWY9pXQoURZwSZlK"
+        }
+      ],
+      "date_added": "2026-11-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 468965,
+      "name": "NewNorthside.",
+      "url": "https://open.spotify.com/track/72zA92ni5UqA5XIDXAhSVc"
     },
     {
       "album": {
@@ -8296,7 +8382,7 @@
       ],
       "date_added": "2026-11-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-27",
       "duration_ms": 140494,
       "name": "NORTH OF BROOKLYN",
       "url": "https://open.spotify.com/track/0P1T1sG5UKz09a1dw2NjOZ"
@@ -8720,7 +8806,7 @@
       ],
       "date_added": "2021-12-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-27",
       "duration_ms": 216453,
       "name": "Out Of My Hands (feat. Oddisee)",
       "url": "https://open.spotify.com/track/0bhSj3xSQFNcKvzH6r6tPp"
@@ -11758,6 +11844,28 @@
       "duration_ms": 197066,
       "name": "The LP",
       "url": "https://open.spotify.com/track/3TGJJERElA998ZlJcfA1Qz"
+    },
+    {
+      "album": {
+        "name": "The Myth",
+        "url": "https://open.spotify.com/album/3oAESuAn5pyet60jjtTRAy"
+      },
+      "artists": [
+        {
+          "name": "Def Sound",
+          "url": "https://open.spotify.com/artist/0u04Yo3YXdFxev4ZE0AZx7"
+        },
+        {
+          "name": "TOBi",
+          "url": "https://open.spotify.com/artist/0P54cVemq1DCHUfUMlWAoN"
+        }
+      ],
+      "date_added": "2026-11-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 305844,
+      "name": "THE MYTH",
+      "url": "https://open.spotify.com/track/52MkRbofhmDCmw7lgxpT3t"
     },
     {
       "album": {

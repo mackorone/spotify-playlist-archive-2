@@ -4,7 +4,7 @@
 
 > This is Mc Luanna\. The essential tracks, all in one playlist.
 
-135 songs - 6 hr 28 min
+136 songs - 6 hr 30 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -72,6 +72,7 @@
 | [M.P.G](https://open.spotify.com/track/2xpUxllPR6nEiBCxzb4CCP) | [Mc Luanna](https://open.spotify.com/artist/6VpdTQWCRE01WVoEuby2a6), [Maunatrack](https://open.spotify.com/artist/7EE3Bwna7HSQ4bR4PCXtMY) | [IRREFREÁVEL](https://open.spotify.com/album/37GSicVBksghz8FmLvrUiQ) | 2:13 | 2026-03-21 | 2026-04-17 |
 | [Maldita](https://open.spotify.com/track/3MSsAKcyLjiMJz0Hq4kZos) | [Mc Luanna](https://open.spotify.com/artist/6VpdTQWCRE01WVoEuby2a6), [Mello Santana](https://open.spotify.com/artist/02J1zj1QPj7nlJiKGX6wgY) | [44](https://open.spotify.com/album/54SQtN4KEfykOFgjtKXLzr) | 3:07 | 2023-12-30 | 2026-03-20 |
 | [Maldita](https://open.spotify.com/track/5Ba9p1oenxnVkFosipeZQP) | [Mc Luanna](https://open.spotify.com/artist/6VpdTQWCRE01WVoEuby2a6), [Mello Santana](https://open.spotify.com/artist/02J1zj1QPj7nlJiKGX6wgY) | [44](https://open.spotify.com/album/1fPfNznpz4W17li7aAGBna) | 3:07 | 2026-03-20 |  |
+| [MANDELA DESACATO](https://open.spotify.com/track/028tk2wLjKst51hy8QBIaQ) | [Dikai](https://open.spotify.com/artist/217xsjaPzWxB4bur8nxPbb), [Mc Magrinho](https://open.spotify.com/artist/4JA9UvIYD3D5kL7utiGJMI), [MC Lan](https://open.spotify.com/artist/4mb1xtQVGSK5dh8AbtwBiR), [Mc Kitinho](https://open.spotify.com/artist/1d2PrJ5wELpihT8yrwH4mO), [Mc Luanna](https://open.spotify.com/artist/6VpdTQWCRE01WVoEuby2a6) | [MANDELA DESACATO](https://open.spotify.com/album/2yfI82RKjZc5rivDKJoHzt) | 1:53 | 2026-11-27 |  |
 | [Medley 4x4](https://open.spotify.com/track/5iwPuUC3SCUxZ753JeGJEn) | [Mc Luanna](https://open.spotify.com/artist/6VpdTQWCRE01WVoEuby2a6), [Mello Santana](https://open.spotify.com/artist/02J1zj1QPj7nlJiKGX6wgY), [AF!RMA](https://open.spotify.com/artist/5ezbyJgINANhxowRLAUoXS) | [PAPEL DE OTÁRIA \| MEDLEY 4X4](https://open.spotify.com/album/0pX6HvnLUdVsLDm6ktuMwF) | 3:00 | 2026-08-16 | 2026-11-07 |
 | [MEGA FUNK XHAKINHA PAGANDO DE MÁQUINA](https://open.spotify.com/track/5DMXhtV3FPjJa0mAlsfIi1) | [MATTOS SC](https://open.spotify.com/artist/3dN2KAjw6MCodMsN4sMyHN), [XHAKINHA](https://open.spotify.com/artist/0teFYIlUpmF4CcIOfcwBC4), [DJ Petroski](https://open.spotify.com/artist/2ibOTUqkFFeIYei7my6n6A), [MC K9](https://open.spotify.com/artist/6Vxu4TDCN5TMlRpdu6a2Ag), [Mc Luanna](https://open.spotify.com/artist/6VpdTQWCRE01WVoEuby2a6), [MC MN](https://open.spotify.com/artist/4hV3aU0WKvFaiX5ugXP5hp) | [MEGA FUNK XHAKINHA PAGANDO DE MÁQUINA](https://open.spotify.com/album/0YSJedX1wWG3zxBNsl4g1j) | 2:40 | 2026-08-31 | 2026-09-03 |
 | [Meia Milha](https://open.spotify.com/track/7LSQcoAyMmkLvBWBSnMtIy) | [Nill](https://open.spotify.com/artist/2Ig1qV7rQGQtBWKa8mynIl), [Mc Luanna](https://open.spotify.com/artist/6VpdTQWCRE01WVoEuby2a6), [Deekapz](https://open.spotify.com/artist/7nsXkCzq2603Kc9SrJx1q0) | [O Resgate do Maestro](https://open.spotify.com/album/63vTiNOR203fXij5mcZOo1) | 3:10 | 2024-01-05 | 2024-02-05 |

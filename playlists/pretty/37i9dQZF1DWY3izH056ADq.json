@@ -1,6 +1,6 @@
 {
   "description": "Enjoy music From \"Paradox Live\"! \u00a9Paradox Live2023",
-  "num_followers": 42891,
+  "num_followers": 42887,
   "original_name": "Paradox Live -\u30d1\u30e9\u30e9\u30a4-",
   "owner": {
     "name": "Spotify",
@@ -407,6 +407,22 @@
     {
       "added_at": "2026-09-15 16:20:21",
       "album": {
+        "name": "Paradox Live -Road to Legend- Round1 \u201cRAGE\"",
+        "url": "https://open.spotify.com/album/1Wgf5u72mNvYRsPuYacFBp"
+      },
+      "artists": [
+        {
+          "name": "VISTY",
+          "url": "https://open.spotify.com/artist/1owUp8KymexV2zFYxUZ2oF"
+        }
+      ],
+      "duration_ms": 192920,
+      "name": "BE A STAR",
+      "url": "https://open.spotify.com/track/1Wp8xRAX9eE9k2j2OuG2px"
+    },
+    {
+      "added_at": "2026-09-15 16:20:21",
+      "album": {
         "name": "Paradox Live -Road to Legend- Round1 \u201cFATE\"",
         "url": "https://open.spotify.com/album/3InCCQOBaZ2Xe70LeaLyOf"
       },
@@ -419,22 +435,6 @@
       "duration_ms": 236442,
       "name": "edN",
       "url": "https://open.spotify.com/track/4oGINy3fZWYNoUZSPaGoJR"
-    },
-    {
-      "added_at": "2026-09-15 16:20:21",
-      "album": {
-        "name": "Paradox Live -Road to Legend- (Round2 \"TRUST\")",
-        "url": "https://open.spotify.com/album/6injsNO9iZ5sLOOwsFIi8f"
-      },
-      "artists": [
-        {
-          "name": "\u60aa\u6f22\u5974\u7b49",
-          "url": "https://open.spotify.com/artist/72Ozt64MM4zCH8IFFoFsyC"
-        }
-      ],
-      "duration_ms": 224397,
-      "name": "\u559d\u91c7 -Leave It To Me-",
-      "url": "https://open.spotify.com/track/1aLgndk57WjannutLYCFT1"
     },
     {
       "added_at": "2026-09-15 16:20:21",
@@ -471,18 +471,34 @@
     {
       "added_at": "2026-09-15 16:20:21",
       "album": {
-        "name": "Paradox Live -Road to Legend- Round1 \u201cRAGE\"",
-        "url": "https://open.spotify.com/album/1Wgf5u72mNvYRsPuYacFBp"
+        "name": "Paradox Live -Road to Legend- (Round2 \"TRUST\")",
+        "url": "https://open.spotify.com/album/6injsNO9iZ5sLOOwsFIi8f"
       },
       "artists": [
         {
-          "name": "VISTY",
-          "url": "https://open.spotify.com/artist/1owUp8KymexV2zFYxUZ2oF"
+          "name": "\u60aa\u6f22\u5974\u7b49",
+          "url": "https://open.spotify.com/artist/72Ozt64MM4zCH8IFFoFsyC"
         }
       ],
-      "duration_ms": 192920,
-      "name": "BE A STAR",
-      "url": "https://open.spotify.com/track/1Wp8xRAX9eE9k2j2OuG2px"
+      "duration_ms": 224397,
+      "name": "\u559d\u91c7 -Leave It To Me-",
+      "url": "https://open.spotify.com/track/1aLgndk57WjannutLYCFT1"
+    },
+    {
+      "added_at": "2026-09-15 16:20:21",
+      "album": {
+        "name": "Paradox Live Opening Show-Road to Legend-",
+        "url": "https://open.spotify.com/album/4W6oeLcRlI6LUDRUkxHwPs"
+      },
+      "artists": [
+        {
+          "name": "AMPRULE",
+          "url": "https://open.spotify.com/artist/1cO53m1IwwUVEJu68wlPj0"
+        }
+      ],
+      "duration_ms": 182440,
+      "name": "Do as I say",
+      "url": "https://open.spotify.com/track/1LZTrDkC2D2VdnFZacIMyf"
     },
     {
       "added_at": "2026-09-15 16:20:21",
@@ -503,18 +519,34 @@
     {
       "added_at": "2026-09-15 16:20:21",
       "album": {
-        "name": "Paradox Live Opening Show-Road to Legend-",
-        "url": "https://open.spotify.com/album/4W6oeLcRlI6LUDRUkxHwPs"
+        "name": "Paradox Live -Battle of Unity- \u6b66\u96f7\u7ba1 \"ZERO\"",
+        "url": "https://open.spotify.com/album/7cGu9zlFI8dQ3fx9x6LvRv"
       },
       "artists": [
         {
-          "name": "AMPRULE",
-          "url": "https://open.spotify.com/artist/1cO53m1IwwUVEJu68wlPj0"
+          "name": "\u6b66\u96f7\u7ba1",
+          "url": "https://open.spotify.com/artist/28Y1K6WVGuV4SqbjRxcOTC"
         }
       ],
-      "duration_ms": 182440,
-      "name": "Do as I say",
-      "url": "https://open.spotify.com/track/1LZTrDkC2D2VdnFZacIMyf"
+      "duration_ms": 219408,
+      "name": "Back In The Day",
+      "url": "https://open.spotify.com/track/7oYDm9ZIqVBVeWUYP7xeGu"
+    },
+    {
+      "added_at": "2026-09-15 16:20:21",
+      "album": {
+        "name": "Paradox Live 3rd album \"ANTHEM\"",
+        "url": "https://open.spotify.com/album/73Hnzxkzqk4xyiWlzI58RD"
+      },
+      "artists": [
+        {
+          "name": "cozmez",
+          "url": "https://open.spotify.com/artist/0HLLtp14pveBWVAnD7UVPn"
+        }
+      ],
+      "duration_ms": 210120,
+      "name": "Make it",
+      "url": "https://open.spotify.com/track/4QWiPz32r5aabLegsZxPxD"
     },
     {
       "added_at": "2026-09-15 16:20:21",
@@ -539,40 +571,8 @@
     {
       "added_at": "2026-09-15 16:20:21",
       "album": {
-        "name": "Paradox Live 3rd album \"ANTHEM\"",
-        "url": "https://open.spotify.com/album/73Hnzxkzqk4xyiWlzI58RD"
-      },
-      "artists": [
-        {
-          "name": "cozmez",
-          "url": "https://open.spotify.com/artist/0HLLtp14pveBWVAnD7UVPn"
-        }
-      ],
-      "duration_ms": 210120,
-      "name": "Make it",
-      "url": "https://open.spotify.com/track/4QWiPz32r5aabLegsZxPxD"
-    },
-    {
-      "added_at": "2026-09-15 16:20:21",
-      "album": {
-        "name": "Paradox Live -Battle of Unity- \u6b66\u96f7\u7ba1 \"ZERO\"",
-        "url": "https://open.spotify.com/album/7cGu9zlFI8dQ3fx9x6LvRv"
-      },
-      "artists": [
-        {
-          "name": "\u6b66\u96f7\u7ba1",
-          "url": "https://open.spotify.com/artist/28Y1K6WVGuV4SqbjRxcOTC"
-        }
-      ],
-      "duration_ms": 219408,
-      "name": "Back In The Day",
-      "url": "https://open.spotify.com/track/7oYDm9ZIqVBVeWUYP7xeGu"
-    },
-    {
-      "added_at": "2026-09-15 16:20:21",
-      "album": {
-        "name": "Paradox Live Shuffle Team Show (Vol.2)",
-        "url": "https://open.spotify.com/album/0Rnc7ihMXSzdvQ02iVvfu3"
+        "name": "Paradox Live Shuffle Team Show (Vol.1)",
+        "url": "https://open.spotify.com/album/1j9xsbEpvMvcYEBOsDB9Bm"
       },
       "artists": [
         {
@@ -580,13 +580,21 @@
           "url": "https://open.spotify.com/artist/69FKx8Ee2gvs68j2bqh0QM"
         },
         {
+          "name": "\u7fe0\u77f3\u4f9d\u7e54",
+          "url": "https://open.spotify.com/artist/4QehghJ7APvk7yrN0YQo5Z"
+        },
+        {
+          "name": "\u96c5\u90a6\u5584",
+          "url": "https://open.spotify.com/artist/5VBOz8EhAcIpiw1Eyw4B78"
+        },
+        {
           "name": "\u4f0a\u85e4\u7d17\u6708",
           "url": "https://open.spotify.com/artist/4bdhyD5JaQnFzsYay9XKnV"
         }
       ],
-      "duration_ms": 227040,
-      "name": "Why do you like me??",
-      "url": "https://open.spotify.com/track/4bACB0QtfXGVoezkhd8IwI"
+      "duration_ms": 231386,
+      "name": "\u30ae\u30e9\u30ae\u30e9CANDY NIGHT",
+      "url": "https://open.spotify.com/track/3ARfJSBeTcwEe3vDwxy1CH"
     },
     {
       "added_at": "2026-09-15 16:20:21",
@@ -603,6 +611,22 @@
       "duration_ms": 202320,
       "name": "EGOlution",
       "url": "https://open.spotify.com/track/4sCjnIyFZ9EOSnRUlzmrE2"
+    },
+    {
+      "added_at": "2026-09-15 16:20:21",
+      "album": {
+        "name": "Paradox Live THE ANIMATION Ending Track\u300cEvery Day Every Night\u300d",
+        "url": "https://open.spotify.com/album/1DsTcWJf1mpTVtzUjMgYEE"
+      },
+      "artists": [
+        {
+          "name": "\u6b66\u96f7\u7ba1",
+          "url": "https://open.spotify.com/artist/28Y1K6WVGuV4SqbjRxcOTC"
+        }
+      ],
+      "duration_ms": 196600,
+      "name": "Every Day Every Night",
+      "url": "https://open.spotify.com/track/11uZKZOVRvptbrOY62zIVr"
     },
     {
       "added_at": "2026-09-15 16:20:21",
@@ -639,24 +663,8 @@
     {
       "added_at": "2026-09-15 16:20:21",
       "album": {
-        "name": "Paradox Live THE ANIMATION Ending Track\u300cEvery Day Every Night\u300d",
-        "url": "https://open.spotify.com/album/1DsTcWJf1mpTVtzUjMgYEE"
-      },
-      "artists": [
-        {
-          "name": "\u6b66\u96f7\u7ba1",
-          "url": "https://open.spotify.com/artist/28Y1K6WVGuV4SqbjRxcOTC"
-        }
-      ],
-      "duration_ms": 196600,
-      "name": "Every Day Every Night",
-      "url": "https://open.spotify.com/track/11uZKZOVRvptbrOY62zIVr"
-    },
-    {
-      "added_at": "2026-09-15 16:20:21",
-      "album": {
-        "name": "Paradox Live Shuffle Team Show (Vol.1)",
-        "url": "https://open.spotify.com/album/1j9xsbEpvMvcYEBOsDB9Bm"
+        "name": "Paradox Live Shuffle Team Show (Vol.2)",
+        "url": "https://open.spotify.com/album/0Rnc7ihMXSzdvQ02iVvfu3"
       },
       "artists": [
         {
@@ -664,21 +672,13 @@
           "url": "https://open.spotify.com/artist/69FKx8Ee2gvs68j2bqh0QM"
         },
         {
-          "name": "\u7fe0\u77f3\u4f9d\u7e54",
-          "url": "https://open.spotify.com/artist/4QehghJ7APvk7yrN0YQo5Z"
-        },
-        {
-          "name": "\u96c5\u90a6\u5584",
-          "url": "https://open.spotify.com/artist/5VBOz8EhAcIpiw1Eyw4B78"
-        },
-        {
           "name": "\u4f0a\u85e4\u7d17\u6708",
           "url": "https://open.spotify.com/artist/4bdhyD5JaQnFzsYay9XKnV"
         }
       ],
-      "duration_ms": 231386,
-      "name": "\u30ae\u30e9\u30ae\u30e9CANDY NIGHT",
-      "url": "https://open.spotify.com/track/3ARfJSBeTcwEe3vDwxy1CH"
+      "duration_ms": 227040,
+      "name": "Why do you like me??",
+      "url": "https://open.spotify.com/track/4bACB0QtfXGVoezkhd8IwI"
     },
     {
       "added_at": "2026-09-15 16:20:21",
@@ -740,13 +740,13 @@
       },
       "artists": [
         {
-          "name": "\u6b66\u96f7\u7ba1",
-          "url": "https://open.spotify.com/artist/28Y1K6WVGuV4SqbjRxcOTC"
+          "name": "The Cat's Whiskers",
+          "url": "https://open.spotify.com/artist/2E4FGvqaZ65gGPYyFg5aUS"
         }
       ],
-      "duration_ms": 210032,
-      "name": "\u304b\u3064\u3066\u5929\u624d\u3060\u3063\u305f\u4ffa\u305f\u3061\u3078",
-      "url": "https://open.spotify.com/track/3eSN3QAJsLqWzvWA61j4Wk"
+      "duration_ms": 254208,
+      "name": "\u30a6\u30a7\u30ab\u30d4\u30dd",
+      "url": "https://open.spotify.com/track/1LbU7xrc2n2YBR8NUyqN4B"
     },
     {
       "added_at": "2026-09-15 16:20:21",
@@ -756,13 +756,13 @@
       },
       "artists": [
         {
-          "name": "The Cat's Whiskers",
-          "url": "https://open.spotify.com/artist/2E4FGvqaZ65gGPYyFg5aUS"
+          "name": "\u6b66\u96f7\u7ba1",
+          "url": "https://open.spotify.com/artist/28Y1K6WVGuV4SqbjRxcOTC"
         }
       ],
-      "duration_ms": 254208,
-      "name": "\u30a6\u30a7\u30ab\u30d4\u30dd",
-      "url": "https://open.spotify.com/track/1LbU7xrc2n2YBR8NUyqN4B"
+      "duration_ms": 210032,
+      "name": "\u304b\u3064\u3066\u5929\u624d\u3060\u3063\u305f\u4ffa\u305f\u3061\u3078",
+      "url": "https://open.spotify.com/track/3eSN3QAJsLqWzvWA61j4Wk"
     },
     {
       "added_at": "2026-09-15 16:20:21",
@@ -815,22 +815,6 @@
     {
       "added_at": "2026-09-15 16:20:21",
       "album": {
-        "name": "Paradox Live 3rd album \"ANTHEM\"",
-        "url": "https://open.spotify.com/album/73Hnzxkzqk4xyiWlzI58RD"
-      },
-      "artists": [
-        {
-          "name": "\u6b66\u96f7\u7ba1",
-          "url": "https://open.spotify.com/artist/28Y1K6WVGuV4SqbjRxcOTC"
-        }
-      ],
-      "duration_ms": 196592,
-      "name": "Let It Heat",
-      "url": "https://open.spotify.com/track/2k3XaA6PJVxI4dPUa4GVbJ"
-    },
-    {
-      "added_at": "2026-09-15 16:20:21",
-      "album": {
         "name": "Paradox Live Shuffle Team Show (Vol.2)",
         "url": "https://open.spotify.com/album/0Rnc7ihMXSzdvQ02iVvfu3"
       },
@@ -851,6 +835,22 @@
       "duration_ms": 288586,
       "name": "Rats & Nobles",
       "url": "https://open.spotify.com/track/5puGKhaphVDO2yaU9ycynd"
+    },
+    {
+      "added_at": "2026-09-15 16:20:21",
+      "album": {
+        "name": "Paradox Live 3rd album \"ANTHEM\"",
+        "url": "https://open.spotify.com/album/73Hnzxkzqk4xyiWlzI58RD"
+      },
+      "artists": [
+        {
+          "name": "\u6b66\u96f7\u7ba1",
+          "url": "https://open.spotify.com/artist/28Y1K6WVGuV4SqbjRxcOTC"
+        }
+      ],
+      "duration_ms": 196592,
+      "name": "Let It Heat",
+      "url": "https://open.spotify.com/track/2k3XaA6PJVxI4dPUa4GVbJ"
     },
     {
       "added_at": "2026-09-15 16:20:21",

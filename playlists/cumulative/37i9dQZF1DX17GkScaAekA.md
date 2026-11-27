@@ -4,7 +4,7 @@
 
 > quiet hallways, dusty sunlight, cosy sweaters, and hot tea
 
-175 songs - 11 hr 25 min
+176 songs - 11 hr 28 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -160,6 +160,7 @@
 | [Suite bergamasque, L\. 75: III\. Clair de lune](https://open.spotify.com/track/3hCPh4oVVjaM8tv9sFH8cx) | [Claude Debussy](https://open.spotify.com/artist/1Uff91EOsvd99rtAupatMP), [Alice Sara Ott](https://open.spotify.com/artist/0d6alfZHUx3xoRnPjkTL7Q) | [Nightfall](https://open.spotify.com/album/0Mbkl6nlKMXhmVeoSCQntV) | 4:54 | 2021-11-09 |  |
 | [Suite brasileira No\. 1: II\. Suave acalanto](https://open.spotify.com/track/1MsIcoNvS3QETc7P96OM1H) | [Oscar Lorenzo Fernández](https://open.spotify.com/artist/4CT1odezsNRAX8mxy3CSiz), [Daniil Trifonov](https://open.spotify.com/artist/1fUhTALoWXPL6PZSkKImY9) | [Fernândez: Suite brasileira No\. 1: II\. Suave acalanto](https://open.spotify.com/album/22ypaXTQfFHGnmP2ze1aJk) | 3:24 | 2026-09-18 |  |
 | [Suite in B\-Flat Major, HWV 434: IV\. Menuet](https://open.spotify.com/track/23Oz7dTlkIjEkkYcazMQL7) | [George Frideric Handel](https://open.spotify.com/artist/1QL7yTHrdahRMpvNtn6rI2), [Jeneba Kanneh\-Mason](https://open.spotify.com/artist/4N1PbaBSiRha6yzEmdwcCZ) | [Suite in B\-Flat Major, HWV 434: IV\. Menuet](https://open.spotify.com/album/3bAan4DmzlrUY4MOVdgaGW) | 3:56 | 2025-10-03 |  |
+| [Symphonic Etudes, Op\. 13: No\. 11, Variation IX](https://open.spotify.com/track/3XtikstBD0JOGtSJe3itpr) | [Schumann](https://open.spotify.com/artist/0vlBgnKZcebJYVZruCPPpC), [Zlata Chochieva](https://open.spotify.com/artist/17Lk8hvcGG9cqBLZUNHFSj) | [Symphonic Etudes, Op\. 13: No\. 11, Variation IX](https://open.spotify.com/album/3qU7IwGsryS26yUXDf7kFc) | 3:01 | 2026-11-27 |  |
 | [Symphony No\. 2 in C Major, Op\. 61: III\. Langsam](https://open.spotify.com/track/6Ngg4wrCqwwIT5HdjtAKYo) | [Robert Schumann](https://open.spotify.com/artist/2UqjDAXnDxejEyE0CzfUrZ), [Piano Duo Takahashi \| Lehmann](https://open.spotify.com/artist/5EZD1UM439F1apf62m4rWw) | [Originals and Beyond \(Original Transcriptions for Piano Duo\)](https://open.spotify.com/album/7pIL3Kf3Z8NloicYbBPKwz) | 10:06 | 2022-07-15 |  |
 | [Symphony No\. 3 in F Major, Op\. 90: III\. Un poco allegretto \(Version for piano 4 hands\)](https://open.spotify.com/track/1Mk9mrwz6kNeRGOQSRwIVG) | [Johannes Brahms](https://open.spotify.com/artist/5wTAi7QkpP6kp8a54lmTOq), [Christian Kohn](https://open.spotify.com/artist/5bXYEWKLJ2dNWW2s2i6nQw), [Silke\-Thora Matthies](https://open.spotify.com/artist/2fmquHJDDgvwjYfMYBOcZa) | [Brahms: Four\-Hand Piano Music, Vol\. 7](https://open.spotify.com/album/27sFg04mt7ZkQAiCZvsMc3) | 6:05 | 2022-07-15 |  |
 | [Symphony Number 5, Allegro \(Arr\. Piano\)](https://open.spotify.com/track/2DHdtlFEAIBdzqfGO4O9MI) | [Music Lab Collective](https://open.spotify.com/artist/1ylcY77FWeSVQKh5et1VGp) | [Symphony Number 5, Allegro \(Arr\. Piano\)](https://open.spotify.com/album/02jkP2S0cXbPC6hnqcNaIk) | 2:17 | 2024-02-16 | 2024-04-06 |

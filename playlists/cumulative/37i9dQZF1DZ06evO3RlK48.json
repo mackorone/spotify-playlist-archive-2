@@ -935,6 +935,28 @@
     },
     {
       "album": {
+        "name": "Dancing On The Wall (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/3EDzhFgFAjw9EucBMRkStE"
+      },
+      "artists": [
+        {
+          "name": "MUNA",
+          "url": "https://open.spotify.com/artist/6xdRb2GypJ7DqnWAI2mHGn"
+        },
+        {
+          "name": "Arlo Parks",
+          "url": "https://open.spotify.com/artist/4kIwETcbpuFgRukE8o7Opx"
+        }
+      ],
+      "date_added": "2026-11-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 271230,
+      "name": "So What - Arlo Parks Summer Was Ecstasy Version",
+      "url": "https://open.spotify.com/track/1WYRF7RM8hsBe4edlS4Lze"
+    },
+    {
+      "album": {
         "name": "MUNA",
         "url": "https://open.spotify.com/album/4ndTvTrNwgUfRw4g1R2B4l"
       },

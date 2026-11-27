@@ -2310,7 +2310,7 @@
       ],
       "date_added": "2026-09-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-27",
       "duration_ms": 132009,
       "name": "daily",
       "url": "https://open.spotify.com/track/0S6Qy2k5Umyj7xY8Wp1d1O"
@@ -3399,6 +3399,24 @@
     },
     {
       "album": {
+        "name": "En tarvii en\u00e4\u00e4 apua",
+        "url": "https://open.spotify.com/album/7EYqn4Ygc8bc2qDiJVPHgV"
+      },
+      "artists": [
+        {
+          "name": "Bahamo",
+          "url": "https://open.spotify.com/artist/2waFsMVhlxp6dyCD4YIEps"
+        }
+      ],
+      "date_added": "2026-11-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 166996,
+      "name": "En tarvii en\u00e4\u00e4 apua",
+      "url": "https://open.spotify.com/track/08WfNYd1rrTICtXotBsO4c"
+    },
+    {
+      "album": {
         "name": "En tied\u00e4 mik\u00e4 muhun meni",
         "url": "https://open.spotify.com/album/3egen559wts7KVjHzeccnc"
       },
@@ -3746,6 +3764,24 @@
       "duration_ms": 127000,
       "name": "Expiry Date",
       "url": "https://open.spotify.com/track/7v0t4pauST9ubb3zFnjDJ4"
+    },
+    {
+      "album": {
+        "name": "Faith",
+        "url": "https://open.spotify.com/album/5dOuDm0tkgkb7fHH1K9T0j"
+      },
+      "artists": [
+        {
+          "name": "Antti Everything",
+          "url": "https://open.spotify.com/artist/1Y3jUgGbxualpRYVuR0PeZ"
+        }
+      ],
+      "date_added": "2026-11-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 206953,
+      "name": "Faith",
+      "url": "https://open.spotify.com/track/3fBXpgdORFBz9sM1BwpnvL"
     },
     {
       "album": {
@@ -8219,6 +8255,24 @@
     },
     {
       "album": {
+        "name": "Keih\u00e4s",
+        "url": "https://open.spotify.com/album/2nVjeMmakspBsZHMa1ROSD"
+      },
+      "artists": [
+        {
+          "name": "Efka Crush",
+          "url": "https://open.spotify.com/artist/7F5rSmDXew3j6VX4e60dJF"
+        }
+      ],
+      "date_added": "2026-11-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 196800,
+      "name": "Keih\u00e4s",
+      "url": "https://open.spotify.com/track/18tv4FM3PPHR4LHEZnMq4d"
+    },
+    {
+      "album": {
         "name": "Keinu mua p\u00e4in",
         "url": "https://open.spotify.com/album/3E9wTf0wJCqSSPeiyLfeRS"
       },
@@ -8732,6 +8786,28 @@
       "duration_ms": 284129,
       "name": "Kivi\u00e4 ja laivoja",
       "url": "https://open.spotify.com/track/3navhyUDpBPcKtUjBrwV46"
+    },
+    {
+      "album": {
+        "name": "know that",
+        "url": "https://open.spotify.com/album/6KCQkjd6ms3Zpd0gI12tfN"
+      },
+      "artists": [
+        {
+          "name": "finnj\u00e4vel",
+          "url": "https://open.spotify.com/artist/5YQtvxTvGSShjMTOMyCuPT"
+        },
+        {
+          "name": "Grant",
+          "url": "https://open.spotify.com/artist/6SkVKlAmIWVD0LQvCGQqSj"
+        }
+      ],
+      "date_added": "2026-11-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 218817,
+      "name": "know that",
+      "url": "https://open.spotify.com/track/3qF7ERvp0fWTLgdOWlRKAy"
     },
     {
       "album": {
@@ -14678,7 +14754,7 @@
       ],
       "date_added": "2026-03-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-27",
       "duration_ms": 192949,
       "name": "Pelkk\u00e4 kirosana",
       "url": "https://open.spotify.com/track/2LnXnh1HRlznaDtf5LrFOa"
@@ -15518,6 +15594,24 @@
       "duration_ms": 328324,
       "name": "Psykedeelinen Harmaa",
       "url": "https://open.spotify.com/track/4jjzce0WWJ0k6rehl4Zxrz"
+    },
+    {
+      "album": {
+        "name": "Sinisen s\u00e4vyt",
+        "url": "https://open.spotify.com/album/6GoDqAYon6AKW0sIno5216"
+      },
+      "artists": [
+        {
+          "name": "Leeni",
+          "url": "https://open.spotify.com/artist/4qFbzYlUZ5e7oeirpDdQ0z"
+        }
+      ],
+      "date_added": "2026-11-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 231400,
+      "name": "PTSD",
+      "url": "https://open.spotify.com/track/5wi0y148yk4vTM6y6n9iHG"
     },
     {
       "album": {
@@ -17824,7 +17918,7 @@
       ],
       "date_added": "2026-05-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-27",
       "duration_ms": 183813,
       "name": "Space impact",
       "url": "https://open.spotify.com/track/0iKYR4kfQJ8s9R62yiZguD"
@@ -18752,7 +18846,7 @@
       ],
       "date_added": "2026-09-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-27",
       "duration_ms": 154247,
       "name": "S\u00e4 n\u00e4\u00e4t mut",
       "url": "https://open.spotify.com/track/4M0Bz6eqG3AGhQ4MOdqMwa"
@@ -19210,7 +19304,7 @@
       ],
       "date_added": "2026-04-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-27",
       "duration_ms": 224693,
       "name": "Tasaraha",
       "url": "https://open.spotify.com/track/0hYe5ePzcUt1li2dFYALWB"
@@ -20404,6 +20498,24 @@
       "duration_ms": 108679,
       "name": "Tuu tuu tuonelahan",
       "url": "https://open.spotify.com/track/2IIRq8e6apN2qYgx0yPDcW"
+    },
+    {
+      "album": {
+        "name": "Saan kyynelii vaa ku tuulee",
+        "url": "https://open.spotify.com/album/2P2s5WimQ5uddiWwG2kmh7"
+      },
+      "artists": [
+        {
+          "name": "Diya",
+          "url": "https://open.spotify.com/artist/7aVx10WNIKLScTvZm7oNk5"
+        }
+      ],
+      "date_added": "2026-11-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 182475,
+      "name": "Tuulee",
+      "url": "https://open.spotify.com/track/0qU9cBw4Ux85QYHLQYqZJy"
     },
     {
       "album": {
@@ -22984,7 +23096,7 @@
       ],
       "date_added": "2026-09-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-27",
       "duration_ms": 269706,
       "name": "\u00c4l\u00e4 pelk\u00e4\u00e4 el\u00e4m\u00e4\u00e4",
       "url": "https://open.spotify.com/track/30TolWVfIheRQVHGq0dYeH"

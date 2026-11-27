@@ -5,6 +5,24 @@
   "tracks": [
     {
       "album": {
+        "name": "A Christmas Meditation No. 1",
+        "url": "https://open.spotify.com/album/7l8xhea4uEZi7FpUa9CW5v"
+      },
+      "artists": [
+        {
+          "name": "Goldb\u00e6k",
+          "url": "https://open.spotify.com/artist/2CxGH13O1qZqOnfxsvF4qO"
+        }
+      ],
+      "date_added": "2026-11-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 210695,
+      "name": "A Christmas Meditation No. 1",
+      "url": "https://open.spotify.com/track/5hoXpF74ygTOffh6vPy6D8"
+    },
+    {
+      "album": {
         "name": "A Christmas Prelude No. 1",
         "url": "https://open.spotify.com/album/4zcCzsCkRZFlEBGNLPoGGW"
       },
@@ -932,7 +950,7 @@
       ],
       "date_added": "2024-11-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-27",
       "duration_ms": 174355,
       "name": "Have Yourself A Merry Little Christmas (Arr. Chen & Leong for Violin & Piano)",
       "url": "https://open.spotify.com/track/1JagJyIGgwfydNXI6F6W8G"
@@ -1018,7 +1036,7 @@
       ],
       "date_added": "2025-10-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-27",
       "duration_ms": 157390,
       "name": "Have Yourself A Merry Little Christmas (Performed on Piano)",
       "url": "https://open.spotify.com/track/4XWWwPtmyaxe0MInJImz4c"

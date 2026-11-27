@@ -4,7 +4,7 @@
 
 > כל הפופ היפה והמרגש של ישראל\. קאבר: ליהי טולדנו
 
-788 songs - 1 day 17 hr 18 min
+789 songs - 1 day 17 hr 21 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -340,7 +340,7 @@
 | [הסיבה שאין בי פחד](https://open.spotify.com/track/0UHE1MUY1JzKzRmmaC2PcL) | [Netta](https://open.spotify.com/artist/4Z4afeDmHFxPmJorIwupbZ) | [הסיבה שאין בי פחד](https://open.spotify.com/album/7djHUmUI5lVrXZ1o528KXc) | 3:27 | 2025-01-16 | 2025-05-09 |
 | [העיניים הכחולות שלך](https://open.spotify.com/track/5HZZsfKZVNYxeRtGUtpRGV) | [Shira Margalit](https://open.spotify.com/artist/3fuBh15tUjQVjzVZ3u73rz) | [העיניים הכחולות שלך](https://open.spotify.com/album/2RvumRZJbbkITIM2Ex1G5k) | 3:36 | 2025-03-20 | 2025-06-06 |
 | [הפסקה](https://open.spotify.com/track/3uM0jrF33GHDv46PH3PY7t) | [שירה זלוף](https://open.spotify.com/artist/6uPXjLmLtFf4cE35saHiSp) | [הפסקה](https://open.spotify.com/album/42VqrrvwnNrMLfU0KJE8vb) | 2:32 | 2026-03-26 | 2026-04-24 |
-| [הריקוד האחרון](https://open.spotify.com/track/6NWbeLZXgp30P4HnF5bH0Y) | [May Sfadia](https://open.spotify.com/artist/4Bl08QHOgjjt8Hcg53iq0j) | [הריקוד האחרון](https://open.spotify.com/album/5kXMySR8LaFnfPQpC3Sv6B) | 2:57 | 2026-08-13 |  |
+| [הריקוד האחרון](https://open.spotify.com/track/6NWbeLZXgp30P4HnF5bH0Y) | [May Sfadia](https://open.spotify.com/artist/4Bl08QHOgjjt8Hcg53iq0j) | [הריקוד האחרון](https://open.spotify.com/album/5kXMySR8LaFnfPQpC3Sv6B) | 2:57 | 2026-08-13 | 2026-11-27 |
 | [השיבה לאוקטובר](https://open.spotify.com/track/0Tcg2DOTuPJp0m0lVHqyzq) | [Liran Danino](https://open.spotify.com/artist/1DuDDXSYBMLr55q9lYmDEk) | [השיבה לאוקטובר](https://open.spotify.com/album/4kXVIH5V3l0B1WwJbGJDCL) | 3:55 | 2024-10-10 | 2025-02-07 |
 | [השיבנו](https://open.spotify.com/track/5VksXB2EcN8EQFaM2U3vIR) | [חנן בן ארי](https://open.spotify.com/artist/343YYaA5MSjiZZ5cGyTr4u) | [השיבנו](https://open.spotify.com/album/02tTkn5LIZAUxF5L4KvEH4) | 3:56 | 2025-10-16 | 2025-10-31 |
 | [השיר האחרון](https://open.spotify.com/track/2XoKor2uVHjXau2fftrB7e) | [Liran Danino](https://open.spotify.com/artist/1DuDDXSYBMLr55q9lYmDEk) | [השיר האחרון](https://open.spotify.com/album/7Hn0FKRxaCupJXjZ4CN0M8) | 4:13 | 2026-08-06 | 2026-10-16 |
@@ -777,6 +777,7 @@
 | [תגיד לי](https://open.spotify.com/track/78daxVdonl1IIh9psyytyN) | [Meshi Kleinstein](https://open.spotify.com/artist/5UXzKAfgV4czwkDaJE5NmP) | [תגיד לי](https://open.spotify.com/album/4wXozJpjfeR1GLKQLQU2RU) | 2:29 | 2026-08-06 | 2026-10-23 |
 | [תגיד לי אתה \(Tagid Li Ata\)](https://open.spotify.com/track/11hpzrOje8yC9IckrqIo3m) | [Idan Raichel](https://open.spotify.com/artist/5EBnQEKoaiAk37Q7cfGrE1) | [תגיד לי אתה \(Tagid Li Ata\)](https://open.spotify.com/album/5a6CtZFjJi4jS7IJgeMtWV) | 3:00 | 2025-07-10 | 2025-11-07 |
 | [תהיה בנאדם](https://open.spotify.com/track/0BIn5KNnPdnDZrLJ2qLXnp) | [מ'](https://open.spotify.com/artist/36TG4OFhKuCHnTFCa6BEh7) | [תהיה בנאדם](https://open.spotify.com/album/4d0DUXWVlWh3R7OzyPrUYI) | 1:57 | 2025-08-28 | 2025-12-19 |
+| [תודה לאבא](https://open.spotify.com/track/29B4WbbZRholb3GQvxfBjp) | [Harel Moyal](https://open.spotify.com/artist/2icfuQZ4Mhw10Kbrzzsm4z) | [תודה לאבא](https://open.spotify.com/album/5nD0fyIAwIkl1puE0uOLSr) | 3:05 | 2026-11-26 |  |
 | [תזכור אותי](https://open.spotify.com/track/7L8Il8OpIxMHIlYy2aIEg3) | [Miri Mesika](https://open.spotify.com/artist/0GmwRPHVAU8zOdTOujIDUa), [Offer Nissim](https://open.spotify.com/artist/2U5N2KMBT6aFPrQMygMkhj) | [תזכור אותי](https://open.spotify.com/album/5cn2KOtODO2pdsqHjhxY9j) | 3:33 | 2026-07-30 | 2026-09-11 |
 | [תזמני](https://open.spotify.com/track/30VYlr2dAhVO1IAlkUvwuR) | [Asulin](https://open.spotify.com/artist/76O0DRobXGao078KT0xci8) | [תזמני](https://open.spotify.com/album/3fKHO7lIqHGphKl2vjev13) | 2:23 | 2025-08-21 | 2025-09-05 |
 | [תחילתו של הסוף](https://open.spotify.com/track/0Zufbrj7YoWYi8DUbPK7m5) | [Idan Rafael Haviv](https://open.spotify.com/artist/57PnQxsNvOvG2ZDElDEUjW) | [תחילתו של הסוף](https://open.spotify.com/album/0z3IpiI3ZtLr8Lp1zKpS0i) | 3:01 | 2025-12-04 | 2025-12-19 |

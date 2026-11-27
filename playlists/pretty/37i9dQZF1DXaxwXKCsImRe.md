@@ -2,18 +2,18 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaxwXKCsImRe.md) - [plain]
 
 ### [RADAR BNLX](https://open.spotify.com/playlist/37i9dQZF1DXaxwXKCsImRe)
 
-> De toekomst van de Benelux volgens onze muziekredactie\. Cover: <a href="spotify:artist:3z2daXDBOR0uFDF3TB788X">Justen de Wildt</a>
+> De toekomst van de Benelux volgens onze muziekredactie\. Cover: <a href="spotify:artist:2avtvk1ZeiEf3wZ8dE8JfE">Zoë Livay</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 8,346 likes - 24 songs - 1 hr 12 min
+[Spotify](https://open.spotify.com/user/spotify) - 8,347 likes - 24 songs - 1 hr 12 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
-| 1 | [Vrienden Voor Altijd](https://open.spotify.com/track/3WmyRqkjV14uKcueq03IEV) | [Justen de Wildt](https://open.spotify.com/artist/3z2daXDBOR0uFDF3TB788X), [Sven Versteeg](https://open.spotify.com/artist/0NJI3CV8t7MIgRhC3Ov2vV), [Samantha Steenwijk](https://open.spotify.com/artist/74KdLwJ1opjUx5tahaMZo8) | [Vrienden Voor Altijd](https://open.spotify.com/album/6HUkKUsSc7gvuyQ4yLjbhI) | 2:47 |
-| 2 | [Cheerio](https://open.spotify.com/track/3L9mOOGtByXTKSQOyyko9o) | [Justen de Wildt](https://open.spotify.com/artist/3z2daXDBOR0uFDF3TB788X) | [Cheerio](https://open.spotify.com/album/31pOa0QRbqjz0yTkY37Sqh) | 2:28 |
-| 3 | [Partytent](https://open.spotify.com/track/5HndG3ksWnTSf32DUvpyUM) | [Donnie](https://open.spotify.com/artist/2ylIKKdMukkuprCgY4ZDFE), [Justen de Wildt](https://open.spotify.com/artist/3z2daXDBOR0uFDF3TB788X) | [Partytent](https://open.spotify.com/album/3fGwD8nd8KY9Sk7kesDSOU) | 2:42 |
-| 4 | [Zolang Als Het Kan](https://open.spotify.com/track/1j8CnoN2fMtPrAbxJEs5iW) | [Zoë Livay](https://open.spotify.com/artist/2avtvk1ZeiEf3wZ8dE8JfE) | [Zolang Als Het Kan](https://open.spotify.com/album/0mhKIkLsJZUJ60YqxHTJ8b) | 3:00 |
-| 5 | [Dat Ze Van Hem Houdt](https://open.spotify.com/track/7bqWezmwsEJdUqy326SM83) | [Zoë Livay](https://open.spotify.com/artist/2avtvk1ZeiEf3wZ8dE8JfE), [Beste Zangers](https://open.spotify.com/artist/5tOJq6eS9TQEya6rxFvfEa) | [Beste Zangers 2026 \(Zoë Livay\)](https://open.spotify.com/album/4hp8Ylt5gjrnn7JMrQIb4F) | 3:05 |
-| 6 | [Sluit Me In Je Armen](https://open.spotify.com/track/3hDonrNsWXsXegk5y67wKs) | [Zoë Livay](https://open.spotify.com/artist/2avtvk1ZeiEf3wZ8dE8JfE) | [Sluit Me In Je Armen](https://open.spotify.com/album/0dmNOTJAS3XLdvQyVJpYaW) | 2:43 |
+| 1 | [Zolang Als Het Kan](https://open.spotify.com/track/1j8CnoN2fMtPrAbxJEs5iW) | [Zoë Livay](https://open.spotify.com/artist/2avtvk1ZeiEf3wZ8dE8JfE) | [Zolang Als Het Kan](https://open.spotify.com/album/0mhKIkLsJZUJ60YqxHTJ8b) | 3:00 |
+| 2 | [Dat Ze Van Hem Houdt](https://open.spotify.com/track/7bqWezmwsEJdUqy326SM83) | [Zoë Livay](https://open.spotify.com/artist/2avtvk1ZeiEf3wZ8dE8JfE), [Beste Zangers](https://open.spotify.com/artist/5tOJq6eS9TQEya6rxFvfEa) | [Beste Zangers 2026 \(Zoë Livay\)](https://open.spotify.com/album/4hp8Ylt5gjrnn7JMrQIb4F) | 3:05 |
+| 3 | [Sluit Me In Je Armen](https://open.spotify.com/track/3hDonrNsWXsXegk5y67wKs) | [Zoë Livay](https://open.spotify.com/artist/2avtvk1ZeiEf3wZ8dE8JfE) | [Sluit Me In Je Armen](https://open.spotify.com/album/0dmNOTJAS3XLdvQyVJpYaW) | 2:43 |
+| 4 | [Vrienden Voor Altijd](https://open.spotify.com/track/3WmyRqkjV14uKcueq03IEV) | [Justen de Wildt](https://open.spotify.com/artist/3z2daXDBOR0uFDF3TB788X), [Sven Versteeg](https://open.spotify.com/artist/0NJI3CV8t7MIgRhC3Ov2vV), [Samantha Steenwijk](https://open.spotify.com/artist/74KdLwJ1opjUx5tahaMZo8) | [Vrienden Voor Altijd](https://open.spotify.com/album/6HUkKUsSc7gvuyQ4yLjbhI) | 2:47 |
+| 5 | [Cheerio](https://open.spotify.com/track/3L9mOOGtByXTKSQOyyko9o) | [Justen de Wildt](https://open.spotify.com/artist/3z2daXDBOR0uFDF3TB788X) | [Cheerio](https://open.spotify.com/album/31pOa0QRbqjz0yTkY37Sqh) | 2:28 |
+| 6 | [Partytent](https://open.spotify.com/track/5HndG3ksWnTSf32DUvpyUM) | [Donnie](https://open.spotify.com/artist/2ylIKKdMukkuprCgY4ZDFE), [Justen de Wildt](https://open.spotify.com/artist/3z2daXDBOR0uFDF3TB788X) | [Partytent](https://open.spotify.com/album/3fGwD8nd8KY9Sk7kesDSOU) | 2:42 |
 | 7 | [Hey Poes](https://open.spotify.com/track/3or3wODEzHipOyhbn9GBZp) | [Senna](https://open.spotify.com/artist/4oMzH6lIWPhCdx7KADXLJZ), [Monique Smit](https://open.spotify.com/artist/5z4lUxGyk6fWkbqoITgJTv) | [Hey Poes](https://open.spotify.com/album/5eKGfJrhNXed8KYrsJAOkp) | 2:21 |
 | 8 | [Vuurwerk](https://open.spotify.com/track/5gFNiSyU6MJBcWU31ATJgh) | [Senna](https://open.spotify.com/artist/4oMzH6lIWPhCdx7KADXLJZ), [Sven Versteeg](https://open.spotify.com/artist/0NJI3CV8t7MIgRhC3Ov2vV) | [Vuurwerk](https://open.spotify.com/album/6Q3K5puUGxM4OChACZbBPf) | 3:04 |
 | 9 | [Waar Blijf Je Nou](https://open.spotify.com/track/3zPB1hMsorvAEiIl88JOpr) | [Donnie](https://open.spotify.com/artist/2ylIKKdMukkuprCgY4ZDFE), [Senna](https://open.spotify.com/artist/4oMzH6lIWPhCdx7KADXLJZ) | [Waar Blijf Je Nou](https://open.spotify.com/album/5bVeC1xSb9cerOTLbVCKDJ) | 2:58 |
@@ -33,4 +33,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaxwXKCsImRe.md) - [plain]
 | 23 | [Helaas](https://open.spotify.com/track/0JzULZMvwyf00IMQmGFoS5) | [Langa](https://open.spotify.com/artist/0BFood0cmj86LkpdOArhNs), [Yssi SB](https://open.spotify.com/artist/0o1hCS1PDOc1UtVrcXB9s8), [Rijck](https://open.spotify.com/artist/0TzY5bHHF5sZsm1XV5UCzZ) | [Helaas](https://open.spotify.com/album/5VJ9DvEiel3SnSZBSFGnvx) | 2:42 |
 | 24 | [Bottega](https://open.spotify.com/track/0AIJ7AyADNauAKNBKEKhGv) | [Langa](https://open.spotify.com/artist/0BFood0cmj86LkpdOArhNs) | [Bottega](https://open.spotify.com/album/3oI3ueQ9ULWtdMSV6yVP4Q) | 2:32 |
 
-Snapshot ID: `AAAAADDdIwpnFPZ1CLAwtB5VzmRycAFL`
+Snapshot ID: `AAAAABlcqLtOMmyX75ptIaFQB3GSkqmv`

@@ -2,9 +2,9 @@
 
 ### [Tumbado Romántico](https://open.spotify.com/playlist/37i9dQZF1DX0H1gQEaz8An)
 
-> Lo que diga el corazón ❤️💔 Cover: Anakin Larios
+> Lo que diga el corazón ❤️💔 Cover: Estilo Real
 
-272 songs - 14 hr 7 min
+273 songs - 14 hr 9 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -259,6 +259,7 @@
 | [Una Mentirosa](https://open.spotify.com/track/7pl6uuLAW8W0y5qmrpn2P4) | [Oscar Maydon](https://open.spotify.com/artist/3l9G1G9MxH6DaRhwLklaf5), [Eslabon Armado](https://open.spotify.com/artist/0XeEobZplHxzM9QzFQWLiR) | [Una Mentirosa](https://open.spotify.com/album/7Ax5vWCPWDcMqa2gkxATNs) | 3:02 | 2024-03-15 | 2025-09-20 |
 | [Una Vez Y Ya](https://open.spotify.com/track/6joFkH4jcJwW4QefTVphZD) | [RIA](https://open.spotify.com/artist/21suutlchqrS2j8b2tjEWt) | [Una Vez Y Ya](https://open.spotify.com/album/3H0L8xL0Ha6FhfycLHz5oR) | 2:34 | 2026-04-03 | 2026-10-03 |
 | [Van Cleef](https://open.spotify.com/track/1yRWBqzIjOrizGaBfxFBvc) | [El Padrinito Toys](https://open.spotify.com/artist/04mzq9GH08zOBRdV2gzmXm) | [Van Cleef](https://open.spotify.com/album/547ls3Aoqi2xExYUlW00lT) | 2:24 | 2024-09-27 | 2025-02-27 |
+| [Ve y Dile](https://open.spotify.com/track/1euRZaOqwF8sSsiP1VMBDO) | [Estilo Real](https://open.spotify.com/artist/4bsgB9vTxAXje3cGitRbFN) | [Ve y Dile](https://open.spotify.com/album/0MDn9KCzZUksxniEf5SAYj) | 1:52 | 2026-11-26 |  |
 | [Verbo](https://open.spotify.com/track/6THdoQ84J4S3JArCVfLMmj) | [Fabio Capri](https://open.spotify.com/artist/1SvS3C2cttLfpWzIIQiPAq) | [Verbo](https://open.spotify.com/album/69wDGyvBsPJX6pd9miTEXp) | 2:48 | 2025-01-17 | 2025-07-05 |
 | [Vestido Negro](https://open.spotify.com/track/5nkK1Ndk8f2tE7l7MRDjyh) | [Christian Lara](https://open.spotify.com/artist/0eptefgBKrNB6UAZvrX9c5) | [Vestido Negro](https://open.spotify.com/album/34VSDhNg7x8hHOkVxPzaVO) | 3:17 | 2024-03-15 | 2025-09-20 |
 | [vete de una vez](https://open.spotify.com/track/6RM6EWJjDuvjwkUBqbyMhl) | [Julio Caesar](https://open.spotify.com/artist/2Sr1WpVyOrlqgy294KkR6K) | [vete de una vez](https://open.spotify.com/album/3ZRctlFN64rCLSXvCHRsW2) | 3:40 | 2025-09-19 | 2026-04-04 |

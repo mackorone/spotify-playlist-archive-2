@@ -3964,7 +3964,7 @@
       ],
       "date_added": "2026-10-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-27",
       "duration_ms": 475135,
       "name": "Cordero Redentor",
       "url": "https://open.spotify.com/track/2h69SKKQRKLmGSekYRTduU"
@@ -9105,6 +9105,24 @@
     },
     {
       "album": {
+        "name": "He Probado (Ac\u00fastico)",
+        "url": "https://open.spotify.com/album/0aTLFdlIbXBiKP5z010Mub"
+      },
+      "artists": [
+        {
+          "name": "Enoc Parra",
+          "url": "https://open.spotify.com/artist/2dXm6Fjb3OP6YKDyaF09jM"
+        }
+      ],
+      "date_added": "2026-11-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 432000,
+      "name": "He Probado - Ac\u00fastico",
+      "url": "https://open.spotify.com/track/0lfWMS8kFTcknwaPKUL53x"
+    },
+    {
+      "album": {
         "name": "Heme Aqu\u00ed",
         "url": "https://open.spotify.com/album/3GInOybWRXxTQkA8xNZa3Q"
       },
@@ -10926,7 +10944,7 @@
       ],
       "date_added": "2025-12-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-27",
       "duration_ms": 291824,
       "name": "Los coros del universo",
       "url": "https://open.spotify.com/track/4xfJoHvsg4BLP00Ek11NLi"
@@ -12732,6 +12750,32 @@
       "duration_ms": 180173,
       "name": "Nada",
       "url": "https://open.spotify.com/track/3P09VuL6OIqf52ddF9KRWG"
+    },
+    {
+      "album": {
+        "name": "Nada Es Imposible (Live)",
+        "url": "https://open.spotify.com/album/7nKA7YfMZhUFzy8ZCAgEX9"
+      },
+      "artists": [
+        {
+          "name": "Planetshakers",
+          "url": "https://open.spotify.com/artist/5A0SFJQSdSjFHGcndiGT1s"
+        },
+        {
+          "name": "Miel San Marcos",
+          "url": "https://open.spotify.com/artist/7zpvy5B9gb5KprNUzNCOEE"
+        },
+        {
+          "name": "Planetshakers Espa\u00f1ol",
+          "url": "https://open.spotify.com/artist/7qFoOJ83QEGQFCgBeFMhkP"
+        }
+      ],
+      "date_added": "2026-11-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 274191,
+      "name": "Nada Es Imposible - Live",
+      "url": "https://open.spotify.com/track/6sI9yoGx1nKBsyKSZSHVQU"
     },
     {
       "album": {
@@ -15112,7 +15156,7 @@
       ],
       "date_added": "2025-10-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-27",
       "duration_ms": 492206,
       "name": "Pr\u00edncipe de paz",
       "url": "https://open.spotify.com/track/2bQJg9yqWio0X79c6jpCQn"
@@ -19890,6 +19934,28 @@
       "duration_ms": 315600,
       "name": "Una Y Otra Vez",
       "url": "https://open.spotify.com/track/07RYlmvOrD1Z9ferw3zoZ8"
+    },
+    {
+      "album": {
+        "name": "BIBLIA, GUITARRA & VOCES",
+        "url": "https://open.spotify.com/album/0sO4vMNb32FnHqx4ZW9U2i"
+      },
+      "artists": [
+        {
+          "name": "Marcos Brunet",
+          "url": "https://open.spotify.com/artist/7cLoxFihGCVL3s1K3xHK4I"
+        },
+        {
+          "name": "Jorge Szczecko",
+          "url": "https://open.spotify.com/artist/2a4AN1XXaB85B9T8CZ04iZ"
+        }
+      ],
+      "date_added": "2026-11-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 572269,
+      "name": "Un\u00e1nimes (Hechos 2)",
+      "url": "https://open.spotify.com/track/07kPTARKDjHoOL6BLGKAMo"
     },
     {
       "album": {

@@ -3889,6 +3889,32 @@
     },
     {
       "album": {
+        "name": "Don't Play Around (from GTAVI: The Album)",
+        "url": "https://open.spotify.com/album/2AGSNLBGHNjweIr8J1dxVO"
+      },
+      "artists": [
+        {
+          "name": "CHRIS STASSY",
+          "url": "https://open.spotify.com/artist/3BxjasMelf9pKaE4f7Y0So"
+        },
+        {
+          "name": "KETTAMA",
+          "url": "https://open.spotify.com/artist/3an9rnsXKPCAMlZgH4A0n4"
+        },
+        {
+          "name": "Grand Theft Auto VI",
+          "url": "https://open.spotify.com/artist/15o7qdDTBzs6xWRUYUtZc1"
+        }
+      ],
+      "date_added": "2026-11-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 323402,
+      "name": "Don't Play Around (from GTAVI: The Album)",
+      "url": "https://open.spotify.com/track/1H8KYXECpmJPpt01Nb97h9"
+    },
+    {
+      "album": {
         "name": "Don't Stop",
         "url": "https://open.spotify.com/album/0194cIBrgVyNYXLk0csjjF"
       },
@@ -5604,6 +5630,28 @@
       "duration_ms": 226086,
       "name": "Front To The Back",
       "url": "https://open.spotify.com/track/45r4fPK9j4DN867pipmmXx"
+    },
+    {
+      "album": {
+        "name": "Fuk Dat",
+        "url": "https://open.spotify.com/album/462TEHCvzlXim0NXNCdDtO"
+      },
+      "artists": [
+        {
+          "name": "Bob Sinclar",
+          "url": "https://open.spotify.com/artist/5YFS41yoX0YuFY39fq21oN"
+        },
+        {
+          "name": "Diva Avari",
+          "url": "https://open.spotify.com/artist/5OvtsjnJjRmgi2t8YNOQw5"
+        }
+      ],
+      "date_added": "2026-11-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 172270,
+      "name": "Fuk Dat",
+      "url": "https://open.spotify.com/track/5W330zvP9Tg1q4IiR8kod6"
     },
     {
       "album": {
@@ -10458,7 +10506,7 @@
       ],
       "date_added": "2026-06-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-27",
       "duration_ms": 215062,
       "name": "Manhattan",
       "url": "https://open.spotify.com/track/0x4hqWguXOxlO1sEwVXB7V"
@@ -10908,7 +10956,7 @@
       ],
       "date_added": "2026-06-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-27",
       "duration_ms": 212506,
       "name": "Mountain",
       "url": "https://open.spotify.com/track/6LxIy9MYS2C76HcXph8zFq"
@@ -14260,6 +14308,10 @@
         {
           "name": "ANOTR",
           "url": "https://open.spotify.com/artist/4p5WgeiPSPpqPDs7T6OkWf"
+        },
+        {
+          "name": "Circoloco Records",
+          "url": "https://open.spotify.com/artist/473Lb5bIpzUsXMsHKhZGDf"
         },
         {
           "name": "Emily Warren",

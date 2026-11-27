@@ -4,7 +4,7 @@
 
 > 👉 Free Pitch : audiartist.com \| Insta : stardust\_from\_sun \| Email : musiqueslibre2droit@gmail.com \| 🎸 Rock &\#x27;n Blues delivers Blues Rock, Classic Rock, Southern Rock, Hard Rock, R&amp;B &amp; Soul\. Soulful rhythms, timeless riffs, and electrifying energy\. Follow now and vibe with the best of rock and blues!
 
-906 songs - 2 day 8 hr 23 min
+907 songs - 2 day 8 hr 27 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -665,6 +665,7 @@
 | [Same blue moon](https://open.spotify.com/track/0uH7sby1mHUKUyQWxGe4mA) | [Barry Postlethwaite](https://open.spotify.com/artist/1xGEOSqUsYYL3SZCASwPEo) | [Same blue moon](https://open.spotify.com/album/1lRtROCewUhlHMR095bq0l) | 3:09 | 2026-05-31 | 2026-07-12 |
 | [Same Old Conversations](https://open.spotify.com/track/2kJIYwJN84JYxi57lZXYVT) | [Mitchell Young](https://open.spotify.com/artist/6RY3dxOO5v52Hj1eLdlCyM) | [Same Old Conversations](https://open.spotify.com/album/2W7flHMDhErPU9Or3VOEl5) | 3:06 | 2026-06-04 |  |
 | [SANCOCHO](https://open.spotify.com/track/76RUHJgHO72jPSzuZlcxKK) | [R69.](https://open.spotify.com/artist/7HyKPvhSUoLztKsDq2wGFj) | [SANCOCHO](https://open.spotify.com/album/7dlZFkwBoU2r8vEQnX5tKi) | 2:05 | 2026-11-01 |  |
+| [Say](https://open.spotify.com/track/3LykhB2OEWnRVhOg0TfhI6) | [Resident Hero](https://open.spotify.com/artist/6ov0ZOdwUGfWOPPP1DhfzY) | [Say](https://open.spotify.com/album/1XF7h9nwdGajy4cav9IHEz) | 3:50 | 2026-11-26 |  |
 | [Scared of Okay](https://open.spotify.com/track/07VAdJmbCNBbloWnzmNEpX) | [Aged Beyond Decay](https://open.spotify.com/artist/0lNgiaIYRDLNkCv5CuYjVb) | [Scared of Okay](https://open.spotify.com/album/3QByuDDlt1E7u2UwfpgbzB) | 4:15 | 2026-05-21 | 2026-06-18 |
 | [Schutzengel \- Live 2026](https://open.spotify.com/track/5yGpfxLnzmjY3yI8zJE4fO) | [Frame Band](https://open.spotify.com/artist/4IVYWGaG93XXtfwh1SbbHu), [van HOB](https://open.spotify.com/artist/7v8PUdfmhuEtfM8WthheHS) | [Schutzengel \(Live 2026\)](https://open.spotify.com/album/0az5EtzuhcARBvkdb1CGsR) | 4:02 | 2026-05-31 | 2026-06-18 |
 | [Schwarzer Tag](https://open.spotify.com/track/4g9TF07neCl7oZf50PGsQ6) | [Onexx](https://open.spotify.com/artist/5VauwpnaW66TvC0HrJ8ISv) | [Schwarzer Tag](https://open.spotify.com/album/0yWvmpUZP2IoZhNdR9K5Ql) | 3:01 | 2025-10-30 | 2025-12-17 |

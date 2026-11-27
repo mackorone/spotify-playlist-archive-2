@@ -1,15 +1,15 @@
 {
   "description": "Reggaeton hits from Myke Towers & Rauw Alejandro, KAROL G, Bad Bunny and more. \ud83d\udd25\ud83c\udf51",
-  "num_followers": 10014087,
+  "num_followers": 10012585,
   "original_name": "Baila Reggaeton",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAPub0t/bJLCVjznU3bufHWOsLqjT",
+  "snapshot_id": "AAAAAFLPielrkpbnM+Jyoe3YO3IbXEwD",
   "tracks": [
     {
-      "added_at": "2026-11-20 05:01:09",
+      "added_at": "2026-11-27 05:00:52",
       "album": {
         "name": "Tremendo Desastre",
         "url": "https://open.spotify.com/album/6SO08tJ1GFnMqzXLzA9E3t"
@@ -29,7 +29,7 @@
       "url": "https://open.spotify.com/track/55iSVA6k6fDtFMK98XKy7w"
     },
     {
-      "added_at": "2026-11-20 05:01:09",
+      "added_at": "2026-11-27 05:00:52",
       "album": {
         "name": "Suzuki (from GTAVI: The Album)",
         "url": "https://open.spotify.com/album/3hKreIX64Q2003E8m74Plp"
@@ -49,7 +49,23 @@
       "url": "https://open.spotify.com/track/6VDw2mGBIa4csypjOhS6JT"
     },
     {
-      "added_at": "2026-11-20 05:01:09",
+      "added_at": "2026-11-27 05:00:52",
+      "album": {
+        "name": "Real Hasta La Muerte II",
+        "url": "https://open.spotify.com/album/4Gqg391dMB9BA7pPW331Ag"
+      },
+      "artists": [
+        {
+          "name": "Anuel AA",
+          "url": "https://open.spotify.com/artist/2R21vXR83lH98kGeO99Y66"
+        }
+      ],
+      "duration_ms": 200869,
+      "name": "Bichote",
+      "url": "https://open.spotify.com/track/6S1w1u1J8fldyPXuje4AGw"
+    },
+    {
+      "added_at": "2026-11-27 05:00:52",
       "album": {
         "name": "MATADORA",
         "url": "https://open.spotify.com/album/0fjs4nBJ9w4qk1A9mg90HW"
@@ -65,7 +81,7 @@
       "url": "https://open.spotify.com/track/6cWxlpfHEcNXojMyCKcIpx"
     },
     {
-      "added_at": "2026-11-20 05:01:09",
+      "added_at": "2026-11-27 05:00:52",
       "album": {
         "name": "PARADIXE (REMIX)",
         "url": "https://open.spotify.com/album/7bDd1p7E9lfMcU6RR1ZsPR"
@@ -97,7 +113,7 @@
       "url": "https://open.spotify.com/track/7yttWsYHTlqBKNNLbaH9rA"
     },
     {
-      "added_at": "2026-11-20 05:01:09",
+      "added_at": "2026-11-27 05:00:52",
       "album": {
         "name": "WINDOW SHOPPER",
         "url": "https://open.spotify.com/album/35PiOjp1Z2AGxSbIh1fUGl"
@@ -113,7 +129,7 @@
       "url": "https://open.spotify.com/track/39W7F5Ayk3AH8cS1IoT9zV"
     },
     {
-      "added_at": "2026-11-20 05:01:09",
+      "added_at": "2026-11-27 05:00:52",
       "album": {
         "name": "La Voz Favorita",
         "url": "https://open.spotify.com/album/1g4gOThJ1Go0FCkj8gLgWQ"
@@ -133,7 +149,7 @@
       "url": "https://open.spotify.com/track/5dgREmLlxVJn6h8U0CofEo"
     },
     {
-      "added_at": "2026-11-20 05:01:09",
+      "added_at": "2026-11-27 05:00:52",
       "album": {
         "name": "La Falda",
         "url": "https://open.spotify.com/album/0tbf8UBDFwP0zMfcc7zqJh"
@@ -149,7 +165,7 @@
       "url": "https://open.spotify.com/track/3RskBcs0Iu92bHl4KmRryd"
     },
     {
-      "added_at": "2026-11-20 05:01:09",
+      "added_at": "2026-11-27 05:00:52",
       "album": {
         "name": "BOTZ",
         "url": "https://open.spotify.com/album/5n3zMrSedSoon33igy3KB2"
@@ -165,7 +181,31 @@
       "url": "https://open.spotify.com/track/4tpT01PRHuLZI1tAvrJfRf"
     },
     {
-      "added_at": "2026-11-20 05:01:09",
+      "added_at": "2026-11-27 05:00:52",
+      "album": {
+        "name": "GIN TONIC",
+        "url": "https://open.spotify.com/album/2t3668JsXTsfDoUjokLgRQ"
+      },
+      "artists": [
+        {
+          "name": "El Bogueto",
+          "url": "https://open.spotify.com/artist/3S9Hg7sRKhmtWunFZ2yAYP"
+        },
+        {
+          "name": "LENCHO",
+          "url": "https://open.spotify.com/artist/34pmYm95tyjrnk8Cbj6nFo"
+        },
+        {
+          "name": "Bastian",
+          "url": "https://open.spotify.com/artist/4K7sffC0683anJ57UKBzyD"
+        }
+      ],
+      "duration_ms": 195166,
+      "name": "GIN TONIC",
+      "url": "https://open.spotify.com/track/5r499Gq3m3FitQsTf6kEG8"
+    },
+    {
+      "added_at": "2026-11-27 05:00:52",
       "album": {
         "name": "Donde Hubo Fuego Cenizas Quedan",
         "url": "https://open.spotify.com/album/6hyjCpbJz8IQAvIU13xbiL"
@@ -181,7 +221,7 @@
       "url": "https://open.spotify.com/track/2ffXkUDtPJ29jZulZjPqqJ"
     },
     {
-      "added_at": "2026-11-20 05:01:09",
+      "added_at": "2026-11-27 05:00:52",
       "album": {
         "name": "Flavorz Pack",
         "url": "https://open.spotify.com/album/2hky4LGRpZzc892hOMYxGv"
@@ -201,7 +241,7 @@
       "url": "https://open.spotify.com/track/60en70VzA0uqMAFTzShVit"
     },
     {
-      "added_at": "2026-11-20 05:01:09",
+      "added_at": "2026-11-27 05:00:52",
       "album": {
         "name": "No Hay \u00c1ngeles Aqu\u00ed",
         "url": "https://open.spotify.com/album/3Vh4oQSFSokbfcuXy7HH2i"
@@ -225,7 +265,7 @@
       "url": "https://open.spotify.com/track/2dsx6BZCzxQXUqXG6MbuEr"
     },
     {
-      "added_at": "2026-11-20 05:01:09",
+      "added_at": "2026-11-27 05:00:52",
       "album": {
         "name": "ZIZI",
         "url": "https://open.spotify.com/album/4f0YTBqSbvM1iJpuY9r3yQ"
@@ -245,7 +285,7 @@
       "url": "https://open.spotify.com/track/5BsvzSvw98mLqpZznMjuLX"
     },
     {
-      "added_at": "2026-11-20 05:01:09",
+      "added_at": "2026-11-27 05:00:52",
       "album": {
         "name": "Macacoa 2000 (from GTAVI: The Album)",
         "url": "https://open.spotify.com/album/0aTw0UBIeTrqyRvmDUuhIw"
@@ -265,7 +305,7 @@
       "url": "https://open.spotify.com/track/7GtO6G2Iue3yfIYhx36JZn"
     },
     {
-      "added_at": "2026-11-20 05:01:09",
+      "added_at": "2026-11-27 05:00:52",
       "album": {
         "name": "DeB\u00cd TiRAR M\u00e1S FOToS",
         "url": "https://open.spotify.com/album/5K79FLRUCSysQnVESLcTdb"
@@ -289,7 +329,7 @@
       "url": "https://open.spotify.com/track/7d6yK8v8J484SWH5prIQiE"
     },
     {
-      "added_at": "2026-11-20 05:01:09",
+      "added_at": "2026-11-27 05:00:52",
       "album": {
         "name": "CARITA FELIZ",
         "url": "https://open.spotify.com/album/72fKROtde4M6Rv14mgIOpm"
@@ -305,7 +345,7 @@
       "url": "https://open.spotify.com/track/6bQsFck5fRznOrCfJMxF1c"
     },
     {
-      "added_at": "2026-11-20 05:01:09",
+      "added_at": "2026-11-27 05:00:52",
       "album": {
         "name": "FX De La Rose",
         "url": "https://open.spotify.com/album/10FrXNEY6Inn07cZFBf3k3"
@@ -321,7 +361,7 @@
       "url": "https://open.spotify.com/track/1yG1za0O6OK6sKa79xGtsA"
     },
     {
-      "added_at": "2026-11-20 05:01:09",
+      "added_at": "2026-11-27 05:00:52",
       "album": {
         "name": "Cuando No Era Cantante (Remix)",
         "url": "https://open.spotify.com/album/544ufGb3kucRiYrB93cteJ"
@@ -349,7 +389,7 @@
       "url": "https://open.spotify.com/track/2pbSCYzxrG0wa6qcj8IyiE"
     },
     {
-      "added_at": "2026-11-20 05:01:09",
+      "added_at": "2026-11-27 05:00:52",
       "album": {
         "name": "DELIRIUM",
         "url": "https://open.spotify.com/album/0xTFLxAqGha7RPtlHkDqm6"
@@ -369,7 +409,7 @@
       "url": "https://open.spotify.com/track/0JqpFd68DAc8gLNubwTrkq"
     },
     {
-      "added_at": "2026-11-20 05:01:09",
+      "added_at": "2026-11-27 05:00:52",
       "album": {
         "name": "La Voz Favorita",
         "url": "https://open.spotify.com/album/1g4gOThJ1Go0FCkj8gLgWQ"
@@ -385,7 +425,7 @@
       "url": "https://open.spotify.com/track/1nsSptqJG7xzP6vDgeoJ41"
     },
     {
-      "added_at": "2026-11-20 05:01:09",
+      "added_at": "2026-11-27 05:00:52",
       "album": {
         "name": "LA POSTAL",
         "url": "https://open.spotify.com/album/3mfhO7yPczONj4ymNVWoG1"
@@ -405,7 +445,7 @@
       "url": "https://open.spotify.com/track/3xoHVt0FLR05c0QIWHB7lC"
     },
     {
-      "added_at": "2026-11-20 05:01:09",
+      "added_at": "2026-11-27 05:00:52",
       "album": {
         "name": "Kobe Brray 8",
         "url": "https://open.spotify.com/album/2tWsIeTy1Ta8dywMaD0zm8"
@@ -425,7 +465,7 @@
       "url": "https://open.spotify.com/track/6YSDgb1AtIe39n8lygzERd"
     },
     {
-      "added_at": "2026-11-20 05:01:09",
+      "added_at": "2026-11-27 05:00:52",
       "album": {
         "name": "Alg\u00fan D\u00eda",
         "url": "https://open.spotify.com/album/4u6qq4hzHJRdRTBzHpkjH8"
@@ -445,7 +485,7 @@
       "url": "https://open.spotify.com/track/1xsCN4M0pvYi0CkwxTUC0D"
     },
     {
-      "added_at": "2026-11-20 05:01:09",
+      "added_at": "2026-11-27 05:00:52",
       "album": {
         "name": "POR SI MA\u00d1ANA NO ESTOY",
         "url": "https://open.spotify.com/album/6A7uWpBb4nHbiBHWRlZi5f"
@@ -473,7 +513,7 @@
       "url": "https://open.spotify.com/track/01xWRzLhSgANX9CGgBzssk"
     },
     {
-      "added_at": "2026-11-20 05:01:09",
+      "added_at": "2026-11-27 05:00:52",
       "album": {
         "name": "Balenciaga",
         "url": "https://open.spotify.com/album/3pJMrZyVDFg8HTNjsDrTq3"
@@ -493,7 +533,7 @@
       "url": "https://open.spotify.com/track/4VGFK69hVzkQ4K5qR4ypdF"
     },
     {
-      "added_at": "2026-11-20 05:01:09",
+      "added_at": "2026-11-27 05:00:52",
       "album": {
         "name": "EL GREEN PRINT: La Saga (Disc 2) - EL CLUB DE LAS 19 FLORES",
         "url": "https://open.spotify.com/album/5lKHDf06WmHx6pN2K4phgh"
@@ -517,7 +557,7 @@
       "url": "https://open.spotify.com/track/6r2FMcPFa2sthCwAd0328y"
     },
     {
-      "added_at": "2026-11-20 05:01:09",
+      "added_at": "2026-11-27 05:00:52",
       "album": {
         "name": "Una Aventura",
         "url": "https://open.spotify.com/album/4ljazARRKBsouqhbB864Ms"
@@ -533,7 +573,7 @@
       "url": "https://open.spotify.com/track/6P5OklKnFLlyc5sZiQwCrA"
     },
     {
-      "added_at": "2026-11-20 05:01:09",
+      "added_at": "2026-11-27 05:00:52",
       "album": {
         "name": "Mi Carpe Diem",
         "url": "https://open.spotify.com/album/5xNpY6LGUqNbluWuLJRNSl"
@@ -549,7 +589,7 @@
       "url": "https://open.spotify.com/track/0aLgqklsBNnVValSEGssbz"
     },
     {
-      "added_at": "2026-11-20 05:01:09",
+      "added_at": "2026-11-27 05:00:52",
       "album": {
         "name": "ROSITA",
         "url": "https://open.spotify.com/album/3kU2wmmT1ix5kSHtNm1rFD"
@@ -573,7 +613,7 @@
       "url": "https://open.spotify.com/track/4HyPxBQDLUnY3w7gukITrW"
     },
     {
-      "added_at": "2026-11-20 05:01:09",
+      "added_at": "2026-11-27 05:00:52",
       "album": {
         "name": "DeB\u00cd TiRAR M\u00e1S FOToS",
         "url": "https://open.spotify.com/album/5K79FLRUCSysQnVESLcTdb"
@@ -589,7 +629,7 @@
       "url": "https://open.spotify.com/track/6J5kc12BW5HuP3d7C3vvx8"
     },
     {
-      "added_at": "2026-11-20 05:01:09",
+      "added_at": "2026-11-27 05:00:52",
       "album": {
         "name": "Vallenatico pa la Disco",
         "url": "https://open.spotify.com/album/2NIdcHU9Bs37j9a7WHtUMH"
@@ -613,7 +653,7 @@
       "url": "https://open.spotify.com/track/7tbcp2vkEigHElHFpzGbEP"
     },
     {
-      "added_at": "2026-11-20 05:01:09",
+      "added_at": "2026-11-27 05:00:52",
       "album": {
         "name": "BARAJA BENDITA",
         "url": "https://open.spotify.com/album/1B8QJFOcpBeycykDaWttDY"
@@ -629,7 +669,7 @@
       "url": "https://open.spotify.com/track/6Woew1S4PzF6NrJPJ1Hylx"
     },
     {
-      "added_at": "2026-11-20 05:01:09",
+      "added_at": "2026-11-27 05:00:52",
       "album": {
         "name": "VAMO A VEL",
         "url": "https://open.spotify.com/album/6Kv4lDBzqyg7vdbbIxnGEI"
@@ -649,7 +689,7 @@
       "url": "https://open.spotify.com/track/10NP7LyY0Hs7p6xqAckosJ"
     },
     {
-      "added_at": "2026-11-20 05:01:09",
+      "added_at": "2026-11-27 05:00:52",
       "album": {
         "name": "INDIVIDUAL",
         "url": "https://open.spotify.com/album/0OOuP9cAX5QayOJEtzv0tM"
@@ -665,7 +705,7 @@
       "url": "https://open.spotify.com/track/3DjGf2TjAmCGU67xgrYKxj"
     },
     {
-      "added_at": "2026-11-20 05:01:09",
+      "added_at": "2026-11-27 05:00:52",
       "album": {
         "name": "Pa' La Girl",
         "url": "https://open.spotify.com/album/1nyC2Gxv6GCNAKXuF0r4Ly"
@@ -685,7 +725,7 @@
       "url": "https://open.spotify.com/track/0ElK9nIl6ncVwENMiqqHdb"
     },
     {
-      "added_at": "2026-11-20 05:01:09",
+      "added_at": "2026-11-27 05:00:52",
       "album": {
         "name": "Te Entiendo (Remix)",
         "url": "https://open.spotify.com/album/05OMViCaav7QFZig4FJJOB"
@@ -709,7 +749,7 @@
       "url": "https://open.spotify.com/track/1VvliZHnsUj177MnuSY8G2"
     },
     {
-      "added_at": "2026-11-20 05:01:09",
+      "added_at": "2026-11-27 05:00:52",
       "album": {
         "name": "8",
         "url": "https://open.spotify.com/album/7xtQgvoHpB0JVCadeJHAFz"
@@ -725,7 +765,7 @@
       "url": "https://open.spotify.com/track/0i4DJNy8HYU78Cybk3OwMm"
     },
     {
-      "added_at": "2026-11-20 05:01:09",
+      "added_at": "2026-11-27 05:00:52",
       "album": {
         "name": "Off The Planet",
         "url": "https://open.spotify.com/album/5eQCto2v7SsMmEnwBxbSSg"
@@ -741,7 +781,7 @@
       "url": "https://open.spotify.com/track/2bIQLFtJVGjNQ2ti5P1SMi"
     },
     {
-      "added_at": "2026-11-20 05:01:09",
+      "added_at": "2026-11-27 05:00:52",
       "album": {
         "name": "POR SI MA\u00d1ANA NO ESTOY",
         "url": "https://open.spotify.com/album/6A7uWpBb4nHbiBHWRlZi5f"
@@ -761,7 +801,7 @@
       "url": "https://open.spotify.com/track/1YAWMfsmduIrpqrjP45pFn"
     },
     {
-      "added_at": "2026-11-20 05:01:09",
+      "added_at": "2026-11-27 05:00:52",
       "album": {
         "name": "OMAKASE",
         "url": "https://open.spotify.com/album/79TuXcubVSnQDvvvzEbIY2"
@@ -781,7 +821,7 @@
       "url": "https://open.spotify.com/track/13ZG0ttABjb0rpL84bOBm6"
     },
     {
-      "added_at": "2026-11-20 05:01:09",
+      "added_at": "2026-11-27 05:00:52",
       "album": {
         "name": "Pal Agua",
         "url": "https://open.spotify.com/album/3uOpta5cUNTRP3HFJzFMyt"
@@ -801,7 +841,7 @@
       "url": "https://open.spotify.com/track/5oG6xYYuukHrsK1SLagCn0"
     },
     {
-      "added_at": "2026-11-20 05:01:09",
+      "added_at": "2026-11-27 05:00:52",
       "album": {
         "name": "The Gemeliza",
         "url": "https://open.spotify.com/album/2UTATs0QPurLuoLmbqOFlM"
@@ -825,7 +865,7 @@
       "url": "https://open.spotify.com/track/0NHwue3JYhODro0rQYwCPd"
     },
     {
-      "added_at": "2026-11-20 05:01:09",
+      "added_at": "2026-11-27 05:00:52",
       "album": {
         "name": "DeB\u00cd TiRAR M\u00e1S FOToS",
         "url": "https://open.spotify.com/album/5K79FLRUCSysQnVESLcTdb"
@@ -841,7 +881,7 @@
       "url": "https://open.spotify.com/track/59D4DOkspUbWyMmbAPQkxZ"
     },
     {
-      "added_at": "2026-11-20 05:01:09",
+      "added_at": "2026-11-27 05:00:52",
       "album": {
         "name": "Gata Only (Remix)",
         "url": "https://open.spotify.com/album/3j6Hr2FWIsjgTKWbfRx0tu"
@@ -865,7 +905,7 @@
       "url": "https://open.spotify.com/track/0JGTfiC4Z41GEEpMYLbWwO"
     },
     {
-      "added_at": "2026-11-20 05:01:09",
+      "added_at": "2026-11-27 05:00:52",
       "album": {
         "name": "Pensando En Ti",
         "url": "https://open.spotify.com/album/45YKf1761lYqYzO6GEZmQt"
@@ -885,7 +925,7 @@
       "url": "https://open.spotify.com/track/1PVVYqyciYdBGBm0p0Iq2O"
     },
     {
-      "added_at": "2026-11-20 05:01:09",
+      "added_at": "2026-11-27 05:00:52",
       "album": {
         "name": "Cosa Nuestra",
         "url": "https://open.spotify.com/album/0aX0UXrHG2ceYIxTQcqJdA"
@@ -905,7 +945,7 @@
       "url": "https://open.spotify.com/track/0l0vcZMU7AOeQmUIREoI2U"
     },
     {
-      "added_at": "2026-11-20 05:01:09",
+      "added_at": "2026-11-27 05:00:52",
       "album": {
         "name": "Tropicoqueta",
         "url": "https://open.spotify.com/album/0yY0fT7zibMEffhBJD9Nab"
@@ -925,43 +965,7 @@
       "url": "https://open.spotify.com/track/0nafF9MxcXJBQWv3BTKtdF"
     },
     {
-      "added_at": "2026-11-20 05:01:09",
-      "album": {
-        "name": "AIRE",
-        "url": "https://open.spotify.com/album/5X1QJwRKRpyteu2TsPiLJx"
-      },
-      "artists": [
-        {
-          "name": "Lucho RK",
-          "url": "https://open.spotify.com/artist/1y6tVxTqgNfqxTayfohSKJ"
-        }
-      ],
-      "duration_ms": 141180,
-      "name": "AIRE",
-      "url": "https://open.spotify.com/track/6nloIaklTZd2Sbpk4laaeJ"
-    },
-    {
-      "added_at": "2026-11-20 05:01:09",
-      "album": {
-        "name": "Volver\u00e9",
-        "url": "https://open.spotify.com/album/5qw35qmtl50xkx4Nr6QNDj"
-      },
-      "artists": [
-        {
-          "name": "Ovy On The Drums",
-          "url": "https://open.spotify.com/artist/3m5qlPf2OkihLz3dRYnkPA"
-        },
-        {
-          "name": "Manuel Turizo",
-          "url": "https://open.spotify.com/artist/0tmwSHipWxN12fsoLcFU3B"
-        }
-      ],
-      "duration_ms": 144586,
-      "name": "Volver\u00e9",
-      "url": "https://open.spotify.com/track/5uRrYrFs8hRaPBT15ljKhH"
-    },
-    {
-      "added_at": "2026-11-20 05:01:09",
+      "added_at": "2026-11-27 05:00:52",
       "album": {
         "name": "SI LAS PAREDES HABLARAN",
         "url": "https://open.spotify.com/album/0U0dJC5TvkLSd1CKMoleT7"
@@ -981,7 +985,7 @@
       "url": "https://open.spotify.com/track/3ENGH9alDrEvggq3ZoGzWN"
     },
     {
-      "added_at": "2026-11-20 05:01:09",
+      "added_at": "2026-11-27 05:00:52",
       "album": {
         "name": "ALCOBA",
         "url": "https://open.spotify.com/album/34gdrNNgq2cWmlt4vIl4GK"

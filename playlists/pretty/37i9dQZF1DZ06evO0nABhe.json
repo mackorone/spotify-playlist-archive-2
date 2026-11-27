@@ -1,12 +1,12 @@
 {
   "description": "This is Story Of The Year. The essential tracks, all in one playlist.",
-  "num_followers": 12560,
+  "num_followers": 12567,
   "original_name": "This Is Story Of The Year",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "awOCAAAAAABUwojs7M0U2W8un6wSuDSs",
+  "snapshot_id": "awYlAAAAAADqu1vGK0bui8V7Igmpb6NA",
   "tracks": [
     {
       "added_at": null,
@@ -595,22 +595,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "Can't Slow Down",
-        "url": "https://open.spotify.com/album/37lVwJXOk93Xblhs8GkVsY"
+        "name": "The Black Swan",
+        "url": "https://open.spotify.com/album/0Qk9nVlmC49ZNo9j14khzF"
       },
       "artists": [
-        {
-          "name": "Kayzo",
-          "url": "https://open.spotify.com/artist/72iCiKwu6nu6Qq9emIwzYv"
-        },
         {
           "name": "Story Of The Year",
           "url": "https://open.spotify.com/artist/0KDuKk6YdEu3hR56HtXmxt"
         }
       ],
-      "duration_ms": 230666,
-      "name": "Can't Slow Down",
-      "url": "https://open.spotify.com/track/3Dfr1VIJGTlnEymtHbrosb"
+      "duration_ms": 213586,
+      "name": "Choose Your Fate",
+      "url": "https://open.spotify.com/track/7MdAuHu62UdrjybUxrJEcv"
     },
     {
       "added_at": null,
@@ -647,6 +643,26 @@
     {
       "added_at": null,
       "album": {
+        "name": "Can't Slow Down",
+        "url": "https://open.spotify.com/album/37lVwJXOk93Xblhs8GkVsY"
+      },
+      "artists": [
+        {
+          "name": "Kayzo",
+          "url": "https://open.spotify.com/artist/72iCiKwu6nu6Qq9emIwzYv"
+        },
+        {
+          "name": "Story Of The Year",
+          "url": "https://open.spotify.com/artist/0KDuKk6YdEu3hR56HtXmxt"
+        }
+      ],
+      "duration_ms": 230666,
+      "name": "Can't Slow Down",
+      "url": "https://open.spotify.com/track/3Dfr1VIJGTlnEymtHbrosb"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "The Black Swan",
         "url": "https://open.spotify.com/album/0Qk9nVlmC49ZNo9j14khzF"
       },
@@ -656,25 +672,9 @@
           "url": "https://open.spotify.com/artist/0KDuKk6YdEu3hR56HtXmxt"
         }
       ],
-      "duration_ms": 213586,
-      "name": "Choose Your Fate",
-      "url": "https://open.spotify.com/track/7MdAuHu62UdrjybUxrJEcv"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Wolves",
-        "url": "https://open.spotify.com/album/17q9CmOhDYE5vu1wGRWfzi"
-      },
-      "artists": [
-        {
-          "name": "Story Of The Year",
-          "url": "https://open.spotify.com/artist/0KDuKk6YdEu3hR56HtXmxt"
-        }
-      ],
-      "duration_ms": 205903,
-      "name": "How Can We Go On",
-      "url": "https://open.spotify.com/track/11MUmYolZPiuvmCTNgWFNd"
+      "duration_ms": 240240,
+      "name": "Terrified",
+      "url": "https://open.spotify.com/track/1phS2i2pPfpTsJEQMw5WNA"
     },
     {
       "added_at": null,
@@ -711,8 +711,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "The Black Swan",
-        "url": "https://open.spotify.com/album/0Qk9nVlmC49ZNo9j14khzF"
+        "name": "Wolves",
+        "url": "https://open.spotify.com/album/17q9CmOhDYE5vu1wGRWfzi"
       },
       "artists": [
         {
@@ -720,9 +720,9 @@
           "url": "https://open.spotify.com/artist/0KDuKk6YdEu3hR56HtXmxt"
         }
       ],
-      "duration_ms": 240240,
-      "name": "Terrified",
-      "url": "https://open.spotify.com/track/1phS2i2pPfpTsJEQMw5WNA"
+      "duration_ms": 205903,
+      "name": "How Can We Go On",
+      "url": "https://open.spotify.com/track/11MUmYolZPiuvmCTNgWFNd"
     }
   ],
   "unique_name": "This Is Story Of The Year",

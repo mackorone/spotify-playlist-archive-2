@@ -1,12 +1,12 @@
 {
-  "description": "Celebrate and honor Pride with songs from LGBTQIA+ artists. Cover: Kings Elliot",
-  "num_followers": 1064506,
+  "description": "Celebrate and honor Pride with songs from LGBTQIA+ artists. Cover: underscores",
+  "num_followers": 1064463,
   "original_name": "GLOW",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAANBfJAziHVLZ9+NSQ8+lq4uGLGjf",
+  "snapshot_id": "AAAAAHiQB2voYNNbKTxH2ZL+WIy9agJN",
   "tracks": [
     {
       "added_at": "2026-11-17 06:21:51",
@@ -39,6 +39,22 @@
       "duration_ms": 192002,
       "name": "White Collar",
       "url": "https://open.spotify.com/track/6HUlCUZK5DzmHIeX8lC3a1"
+    },
+    {
+      "added_at": "2026-11-20 17:32:25",
+      "album": {
+        "name": "U",
+        "url": "https://open.spotify.com/album/1qSS0T6Ffrb3rFVpizzOuk"
+      },
+      "artists": [
+        {
+          "name": "underscores",
+          "url": "https://open.spotify.com/artist/7HfUJxeVTgrvhk0eWHFzV7"
+        }
+      ],
+      "duration_ms": 213250,
+      "name": "Tell Me (U Want It)",
+      "url": "https://open.spotify.com/track/2fIv98BZ6NdkeYLZAvNzP7"
     },
     {
       "added_at": "2026-11-10 05:00:29",
@@ -159,22 +175,6 @@
       "duration_ms": 232816,
       "name": "Change",
       "url": "https://open.spotify.com/track/3uGBIAD7oz5rSBOVBHrATQ"
-    },
-    {
-      "added_at": "2026-11-20 17:32:25",
-      "album": {
-        "name": "U",
-        "url": "https://open.spotify.com/album/1qSS0T6Ffrb3rFVpizzOuk"
-      },
-      "artists": [
-        {
-          "name": "underscores",
-          "url": "https://open.spotify.com/artist/7HfUJxeVTgrvhk0eWHFzV7"
-        }
-      ],
-      "duration_ms": 213250,
-      "name": "Tell Me (U Want It)",
-      "url": "https://open.spotify.com/track/2fIv98BZ6NdkeYLZAvNzP7"
     },
     {
       "added_at": "2026-11-10 05:00:29",

@@ -2,14 +2,14 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX03VbhoH7arm.md) - [plain]
 
 ### [Hot Hits Brasil](https://open.spotify.com/playlist/37i9dQZF1DX03VbhoH7arm)
 
-> Grandes hits do BR e do 🌎 / Foto: LUDMILLA
+> Grandes hits do BR e do 🌎 / Foto: IZA
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,562,335 likes - 50 songs - 2 hr 46 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,562,264 likes - 50 songs - 2 hr 46 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
-| 1 | [Bi Festinha](https://open.spotify.com/track/4TODvJGQ6l1HmtpgyPrGbl) | [LUDMILLA](https://open.spotify.com/artist/3CDoRporvSjdzTrm99a3gi), [HITMAKER](https://open.spotify.com/artist/0Otd1ReHJtVAzwAuRj09Zg), [Puterrier](https://open.spotify.com/artist/0zbO4WWM2wJM3ulFmCbMwB) | [Bi Festinha](https://open.spotify.com/album/6ux1QRc7s8cSkHIdZdMoUN) | 2:28 |
-| 2 | [Postura](https://open.spotify.com/track/3zOxgmlmxbq0fL7ginvcBc) | [IZA](https://open.spotify.com/artist/3zgnrYIltMkgeejmvMCnes), [Duquesa](https://open.spotify.com/artist/1JlC6XG7lkwT6GzgQB9xOx) | [Postura](https://open.spotify.com/album/4C9qZgGwD6dDDJKxtCDLqw) | 4:24 |
+| 1 | [Postura](https://open.spotify.com/track/3zOxgmlmxbq0fL7ginvcBc) | [IZA](https://open.spotify.com/artist/3zgnrYIltMkgeejmvMCnes), [Duquesa](https://open.spotify.com/artist/1JlC6XG7lkwT6GzgQB9xOx) | [Postura](https://open.spotify.com/album/4C9qZgGwD6dDDJKxtCDLqw) | 4:24 |
+| 2 | [Bi Festinha](https://open.spotify.com/track/4TODvJGQ6l1HmtpgyPrGbl) | [LUDMILLA](https://open.spotify.com/artist/3CDoRporvSjdzTrm99a3gi), [HITMAKER](https://open.spotify.com/artist/0Otd1ReHJtVAzwAuRj09Zg), [Puterrier](https://open.spotify.com/artist/0zbO4WWM2wJM3ulFmCbMwB) | [Bi Festinha](https://open.spotify.com/album/6ux1QRc7s8cSkHIdZdMoUN) | 2:28 |
 | 3 | [Por Você \- Spotify e Jão: Cada lembrança nos trouxe até aqui \- Ao Vivo](https://open.spotify.com/track/2CDG739960vzk63xW376x2) | [Jão](https://open.spotify.com/artist/59FrDXDVJz0EKqYg39dnT2) | [Por Você \- Spotify e Jão: Cada lembrança nos trouxe até aqui \(Ao Vivo\)](https://open.spotify.com/album/503Yuzx2P6ABKMhL6ZgFwa) | 3:36 |
 | 4 | [Mon Amour](https://open.spotify.com/track/69lnNVsVKJs3yrfv06UZtI) | [Baco Exu do Blues](https://open.spotify.com/artist/78nr1pVnDR7qZH6QbVMYZf), [Marina Sena](https://open.spotify.com/artist/0nFdWpwl7h6fp3ADRyG14L) | [Mon Amour](https://open.spotify.com/album/7CGVeBieYqzryYS7HIUwQB) | 4:29 |
 | 5 | [Patient Zero](https://open.spotify.com/track/11hcBLPtbMp4aQI6zGQLub) | [Taylor Swift](https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02) | [The Life of a Showgirl: The Encore](https://open.spotify.com/album/4hF2gTGuPYlykYuphDxi8J) | 3:45 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX03VbhoH7arm.md) - [plain]
 | 49 | [Lush Life](https://open.spotify.com/track/1rIKgCH4H52lrvDcz50hS8) | [Zara Larsson](https://open.spotify.com/artist/1Xylc3o4UrD53lo9CvFvVg) | [So Good](https://open.spotify.com/album/5YLRVHDVRw3QqWbeTGpC5B) | 3:20 |
 | 50 | [WHERE IS MY HUSBAND!](https://open.spotify.com/track/55lijDD6OAjLFFUHU9tcDm) | [RAYE](https://open.spotify.com/artist/5KKpBU5eC2tJDzf0wmlRp2) | [WHERE IS MY HUSBAND!](https://open.spotify.com/album/01sqwTOTrN9gaYQc1rr6Zw) | 3:17 |
 
-Snapshot ID: `AAAAALqZwJ+ShI0Q4ZqSvtKhZ9iNvMKW`
+Snapshot ID: `AAAAAD94V/ZmNcv0H8MBQVff2djr7CqP`

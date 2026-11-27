@@ -1,12 +1,12 @@
 {
   "description": "This is Oliver Tree. The essential tracks, all in one playlist.",
-  "num_followers": 182368,
+  "num_followers": 182381,
   "original_name": "This Is Oliver Tree",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "awOCAAAAAAC+PbEwid/VX6O0JAa4Zmfk",
+  "snapshot_id": "awYlAAAAAAA53M7KHbFa37Kqe7LEivr7",
   "tracks": [
     {
       "added_at": null,
@@ -583,6 +583,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Love You Madly Hate You Badly",
+        "url": "https://open.spotify.com/album/4Ns0kKlkmOUNgEM3OHhmKt"
+      },
+      "artists": [
+        {
+          "name": "Oliver Tree",
+          "url": "https://open.spotify.com/artist/6TLwD7HPWuiOzvXEa3oCNe"
+        }
+      ],
+      "duration_ms": 150790,
+      "name": "Joyride",
+      "url": "https://open.spotify.com/track/5uQQOcohwdoXdYR60TlBsd"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Here We Go Again",
         "url": "https://open.spotify.com/album/1MIlk0URqciXoiT8xqLzZf"
       },
@@ -599,22 +615,6 @@
       "duration_ms": 164541,
       "name": "Here We Go Again",
       "url": "https://open.spotify.com/track/3WsbAGQt6HgTj9kg6f466M"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Love You Madly Hate You Badly",
-        "url": "https://open.spotify.com/album/4Ns0kKlkmOUNgEM3OHhmKt"
-      },
-      "artists": [
-        {
-          "name": "Oliver Tree",
-          "url": "https://open.spotify.com/artist/6TLwD7HPWuiOzvXEa3oCNe"
-        }
-      ],
-      "duration_ms": 150790,
-      "name": "Joyride",
-      "url": "https://open.spotify.com/track/5uQQOcohwdoXdYR60TlBsd"
     },
     {
       "added_at": null,
@@ -831,6 +831,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Cowboy Tears Drown the World in a Swimming Pool of Sorrow (Deluxe)",
+        "url": "https://open.spotify.com/album/3HnZ8f1qXz3I9XrLAxOnSv"
+      },
+      "artists": [
+        {
+          "name": "Oliver Tree",
+          "url": "https://open.spotify.com/artist/6TLwD7HPWuiOzvXEa3oCNe"
+        }
+      ],
+      "duration_ms": 192722,
+      "name": "A-Okay",
+      "url": "https://open.spotify.com/track/58Z6i7sihPU7vqetCvrE5I"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Voices (feat. Oliver Tree)",
         "url": "https://open.spotify.com/album/3oFZmnzIemQRpB0JOLzXRe"
       },
@@ -847,22 +863,6 @@
       "duration_ms": 188575,
       "name": "Voices (feat. Oliver Tree)",
       "url": "https://open.spotify.com/track/2LWJ0zNei0z2WjHHwSNUkx"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Cowboy Tears Drown the World in a Swimming Pool of Sorrow (Deluxe)",
-        "url": "https://open.spotify.com/album/3HnZ8f1qXz3I9XrLAxOnSv"
-      },
-      "artists": [
-        {
-          "name": "Oliver Tree",
-          "url": "https://open.spotify.com/artist/6TLwD7HPWuiOzvXEa3oCNe"
-        }
-      ],
-      "duration_ms": 192722,
-      "name": "A-Okay",
-      "url": "https://open.spotify.com/track/58Z6i7sihPU7vqetCvrE5I"
     },
     {
       "added_at": null,

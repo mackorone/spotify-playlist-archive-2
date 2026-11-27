@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2024-07-02",
-  "description": "le canzoni di cui siamo ossessionati \ud83d\udc9b Angelina Mango in cover ",
+  "description": "le canzoni di cui siamo ossessionati \ud83d\udc9b Angelica Bove in cover ",
   "name": "Alta Rotazione",
   "tracks": [
     {
@@ -714,7 +714,7 @@
       ],
       "date_added": "2026-07-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-27",
       "duration_ms": 236660,
       "name": "AMERICA INC.",
       "url": "https://open.spotify.com/track/0ODFKSdXfQg92EgSVGjf9q"
@@ -2431,6 +2431,24 @@
     },
     {
       "album": {
+        "name": "Casa Mia",
+        "url": "https://open.spotify.com/album/3UwbM1JjautmnxGCXGYTkz"
+      },
+      "artists": [
+        {
+          "name": "Mim\u00ec",
+          "url": "https://open.spotify.com/artist/52qre2JBFS4n84AnZFWSY1"
+        }
+      ],
+      "date_added": "2026-11-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 144499,
+      "name": "Casa Mia",
+      "url": "https://open.spotify.com/track/4pVz87842VJOEAO6TG32w8"
+    },
+    {
+      "album": {
         "name": "Tutti Tornano A Casa",
         "url": "https://open.spotify.com/album/6vWS1rPwGcHIHPbDoaJXfZ"
       },
@@ -2726,6 +2744,24 @@
       "duration_ms": 135692,
       "name": "Chill",
       "url": "https://open.spotify.com/track/74tpC8vZ6DJUILzGG9uvp4"
+    },
+    {
+      "album": {
+        "name": "Chimera",
+        "url": "https://open.spotify.com/album/4MlzEy1pohugrZo6niAaTm"
+      },
+      "artists": [
+        {
+          "name": "ceneri",
+          "url": "https://open.spotify.com/artist/1RpjdVVigmI1T1UW8gxXJz"
+        }
+      ],
+      "date_added": "2026-11-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 199536,
+      "name": "Chimera",
+      "url": "https://open.spotify.com/track/3k4wnlqhcrJ9S6L4DmVjOt"
     },
     {
       "album": {
@@ -5140,7 +5176,7 @@
       ],
       "date_added": "2026-08-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-27",
       "duration_ms": 178398,
       "name": "Genova e Napoli",
       "url": "https://open.spotify.com/track/4IPvLJHeW1wwPDz0mYvxzZ"
@@ -5496,6 +5532,24 @@
       "duration_ms": 173217,
       "name": "HIPPY YA YO (PER\u00d2 ANCHE NO)",
       "url": "https://open.spotify.com/track/46trdAZWe5whe77YWstw4G"
+    },
+    {
+      "album": {
+        "name": "Ho gi\u00e0 le mie battaglie",
+        "url": "https://open.spotify.com/album/4a8AYt7cTqwSMVb0x7zoLn"
+      },
+      "artists": [
+        {
+          "name": "Primogenito",
+          "url": "https://open.spotify.com/artist/5kFvZ6VFcWQehxrg2PI8Ce"
+        }
+      ],
+      "date_added": "2026-11-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 134770,
+      "name": "Ho gi\u00e0 le mie battaglie",
+      "url": "https://open.spotify.com/track/6lOthX3tH1e36s7JjBkJRL"
     },
     {
       "album": {
@@ -6246,7 +6300,7 @@
       ],
       "date_added": "2026-11-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-27",
       "duration_ms": 147010,
       "name": "KINK X IL PINK",
       "url": "https://open.spotify.com/track/6TlY3Ck6CEWUehVfbr8Lfn"
@@ -6264,7 +6318,7 @@
       ],
       "date_added": "2026-09-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-27",
       "duration_ms": 283432,
       "name": "Kintsugi",
       "url": "https://open.spotify.com/track/60auNwFo4P6tKewfxWJplG"
@@ -7478,7 +7532,7 @@
       ],
       "date_added": "2026-11-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-27",
       "duration_ms": 174472,
       "name": "Ma B\u00e9b\u00e9",
       "url": "https://open.spotify.com/track/1vIhbnJcQcEg0GYgMucP4S"
@@ -7866,6 +7920,28 @@
       "duration_ms": 136973,
       "name": "MARIA",
       "url": "https://open.spotify.com/track/6D4mCJkPrRjhkKTUgUXrkD"
+    },
+    {
+      "album": {
+        "name": "SANGHA",
+        "url": "https://open.spotify.com/album/5zatWqIoVTwT3HzHvf1olD"
+      },
+      "artists": [
+        {
+          "name": "MACE",
+          "url": "https://open.spotify.com/artist/7gjqZ8coFZimZDtdk04WP1"
+        },
+        {
+          "name": "Artie 5ive",
+          "url": "https://open.spotify.com/artist/2R4kNOwHUUsuDYhKsESVbF"
+        }
+      ],
+      "date_added": "2026-11-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 191823,
+      "name": "Marika \u20aa (con Artie 5ive)",
+      "url": "https://open.spotify.com/track/0ZPxhcWqqH8k9v1QJDoFbM"
     },
     {
       "album": {
@@ -9066,7 +9142,7 @@
       ],
       "date_added": "2026-10-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-27",
       "duration_ms": 233018,
       "name": "Non Lo Diciamo A Nessuno",
       "url": "https://open.spotify.com/track/6afr3pf8eGKGOSIpTVAzSB"
@@ -9910,6 +9986,36 @@
       "duration_ms": 188580,
       "name": "PARAFULMINI",
       "url": "https://open.spotify.com/track/0JECTPjnSp9FQStc6AQOS2"
+    },
+    {
+      "album": {
+        "name": "SANGHA",
+        "url": "https://open.spotify.com/album/5zatWqIoVTwT3HzHvf1olD"
+      },
+      "artists": [
+        {
+          "name": "MACE",
+          "url": "https://open.spotify.com/artist/7gjqZ8coFZimZDtdk04WP1"
+        },
+        {
+          "name": "nayt",
+          "url": "https://open.spotify.com/artist/7tmTvmqgTBcX88ZrSHByrD"
+        },
+        {
+          "name": "22simba",
+          "url": "https://open.spotify.com/artist/4Xsf5hhfIyhTgiVymlPLA7"
+        },
+        {
+          "name": "prima stanza a destra",
+          "url": "https://open.spotify.com/artist/2mCfJF2n60STC46nVkhuq5"
+        }
+      ],
+      "date_added": "2026-11-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 240895,
+      "name": "Paranoia \u0f26 (con 22simba, nayt, prima stanza a destra)",
+      "url": "https://open.spotify.com/track/3F2vdisEFwAeizyeVwZfXP"
     },
     {
       "album": {
@@ -11511,6 +11617,24 @@
     },
     {
       "album": {
+        "name": "Kintsugi",
+        "url": "https://open.spotify.com/album/61132QDUeWwZMUFcFqyMqc"
+      },
+      "artists": [
+        {
+          "name": "Elisa",
+          "url": "https://open.spotify.com/artist/2ARH58Hit3yC6ziGdhma23"
+        }
+      ],
+      "date_added": "2026-11-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 232445,
+      "name": "Riguarda noi due",
+      "url": "https://open.spotify.com/track/61tVNN5lRIPeG3JHykz11v"
+    },
+    {
+      "album": {
         "name": "RIMANI RIMANI RIMANI",
         "url": "https://open.spotify.com/album/1XykBGy8nRX5iAG8PeEYH4"
       },
@@ -11922,7 +12046,7 @@
       ],
       "date_added": "2026-11-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-27",
       "duration_ms": 285232,
       "name": "Satellite \u25d1 (con Gemitaiz, Venerus, Promessa, iako, Izi)",
       "url": "https://open.spotify.com/track/7e6KoJch30XS9peskmndI9"
@@ -12260,7 +12384,7 @@
       ],
       "date_added": "2026-11-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-27",
       "duration_ms": 174106,
       "name": "Senza la tua mano in tasca",
       "url": "https://open.spotify.com/track/2R0caWLPF6FjmlGqUrrSKk"
@@ -13927,6 +14051,24 @@
     },
     {
       "album": {
+        "name": "Tutte le ragazze hanno bisogno d'amore",
+        "url": "https://open.spotify.com/album/1jrI9y8w7oIzf0ItGrTEYN"
+      },
+      "artists": [
+        {
+          "name": "Rizzo",
+          "url": "https://open.spotify.com/artist/2ALJBMyhbGODOEpstHfEqN"
+        }
+      ],
+      "date_added": "2026-11-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 182542,
+      "name": "Troia (vattene)",
+      "url": "https://open.spotify.com/track/2Bi3Ch7rpX1uQjjAI6LkA9"
+    },
+    {
+      "album": {
         "name": "TU CON CHI FAI L'AMORE",
         "url": "https://open.spotify.com/album/43QUbp2adTA2x2nnLnYnx8"
       },
@@ -14160,7 +14302,7 @@
       ],
       "date_added": "2026-10-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-27",
       "duration_ms": 149491,
       "name": "TUTTO",
       "url": "https://open.spotify.com/track/5sP4ho21CsOL7ocyA1A90l"
@@ -14200,6 +14342,24 @@
       "duration_ms": 192022,
       "name": "Tutto a puttane",
       "url": "https://open.spotify.com/track/66umGLEmn0B3CFp1lBT7lN"
+    },
+    {
+      "album": {
+        "name": "Tutto questo mare dentro",
+        "url": "https://open.spotify.com/album/1xj7eJ8zx3bAp7EWffiiDo"
+      },
+      "artists": [
+        {
+          "name": "Santamarea",
+          "url": "https://open.spotify.com/artist/016AD2neE2X7e0ChuREr4o"
+        }
+      ],
+      "date_added": "2026-11-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 216968,
+      "name": "Tutto questo mare dentro",
+      "url": "https://open.spotify.com/track/677ovZmFjXOQpAMHLniuJn"
     },
     {
       "album": {
@@ -14374,6 +14534,36 @@
       "duration_ms": 240572,
       "name": "Un mondo a parte",
       "url": "https://open.spotify.com/track/5niBKNtMNJTSPLTCBTc3wr"
+    },
+    {
+      "album": {
+        "name": "SANGHA",
+        "url": "https://open.spotify.com/album/5zatWqIoVTwT3HzHvf1olD"
+      },
+      "artists": [
+        {
+          "name": "MACE",
+          "url": "https://open.spotify.com/artist/7gjqZ8coFZimZDtdk04WP1"
+        },
+        {
+          "name": "Gemitaiz",
+          "url": "https://open.spotify.com/artist/4upwdFMlZBmQ68jP9jPzjK"
+        },
+        {
+          "name": "Franco126",
+          "url": "https://open.spotify.com/artist/2KkO9uXHF9BVNJASjLekAc"
+        },
+        {
+          "name": "Angelica Bove",
+          "url": "https://open.spotify.com/artist/0T2LdB8gO5vgY4Ku8bYYx8"
+        }
+      ],
+      "date_added": "2026-11-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 206616,
+      "name": "Un mondo che non esiste pi\u00f9 \u1984 (con Gemitaiz, Franco126, Angelica Bove)",
+      "url": "https://open.spotify.com/track/5qY5tglvCt9iwYYpWco8yS"
     },
     {
       "album": {

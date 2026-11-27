@@ -4,7 +4,7 @@
 
 > These are some independent rock bands you need to hear.
 
-724 songs - 1 day 20 hr 26 min
+727 songs - 1 day 20 hr 37 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -291,6 +291,7 @@
 | [Hold On](https://open.spotify.com/track/0wAzX0NZLyAFPTflxOTCTc) | [Broken Star](https://open.spotify.com/artist/7jixBxoSPjyr8LXJaa8TX6) | [Hold On](https://open.spotify.com/album/43GFUuYUiB80EuOmuTcbCj) | 2:38 | 2026-02-09 | 2026-03-04 |
 | [Hold On](https://open.spotify.com/track/1HSmYf0HuCsL2pwxvfFMsT) | [SINEAD](https://open.spotify.com/artist/1W8hGPWp51WM8s8abI0B94) | [Hold On](https://open.spotify.com/album/6ahhFqtnECetFvpPD1J2E5) | 2:30 | 2026-09-02 | 2026-10-11 |
 | [Hole In The Page](https://open.spotify.com/track/0YnttbLpSAZxLWF0TqYZw0) | [David Starr](https://open.spotify.com/artist/6PJuDsfOF3dpzVpdrUIRw1) | [MUST BE BLUE](https://open.spotify.com/album/2UQxmEQ0JM0aqKQr30zKjH) | 3:06 | 2026-10-26 | 2026-11-23 |
+| [Homicide Stage](https://open.spotify.com/track/1fOUzA0EUe2bc7tlARVPds) | [Morning in May](https://open.spotify.com/artist/3UULburonGvlXaqlMuUrak), [The Red Jumpsuit Apparatus](https://open.spotify.com/artist/1SImpQO0GbjRgvlwCcCtFo), [Judge & Jury](https://open.spotify.com/artist/2p1FiOhFr2sED9OxKVNRbB) | [Homicide Stage](https://open.spotify.com/album/1iiBvybQUCeeA9gIcwwgkG) | 2:44 | 2026-11-26 |  |
 | [Horsedance](https://open.spotify.com/track/5Kyxld3QBUpL5RzO9ahlBm) | [23 And Beyond The Infinite](https://open.spotify.com/artist/2nFL6h2Km7gLJumEEOaDLW) | [Lumen Del Mundo](https://open.spotify.com/album/4S2EiOj8ZQfU0ytNo7RN8H) | 3:18 | 2026-03-22 | 2026-04-20 |
 | [Hover](https://open.spotify.com/track/1VPbv7tBDx59RfOEPe1zgH) | [Jenine](https://open.spotify.com/artist/0oWzaYwOVGqNCeUa6ozxn3) | [Hover](https://open.spotify.com/album/1Q7soH0TmMr4GGJCtEmMLE) | 2:52 | 2025-12-13 | 2026-02-23 |
 | [Hunt Me Down](https://open.spotify.com/track/0b2RimjmoPFCqXvppAZeAq) | [Forestt Light](https://open.spotify.com/artist/1dQO7ovsxueUnTvuQril35) | [Hunt Me Down](https://open.spotify.com/album/6FdekhGJLX3juBXFgSqyvh) | 3:57 | 2026-04-11 | 2026-05-08 |
@@ -306,6 +307,7 @@
 | [I Only Cry From a Distance x Time Frustration](https://open.spotify.com/track/2A06ZDCmfAevcBlzGPGrAw) | [Dez Dare](https://open.spotify.com/artist/1elbB348tXNuC92QkZlHLF) | [CHERYL! Your Love Shines Down Like A Supernova’s Death](https://open.spotify.com/album/2FaiLx82IYqLWVtyRPCPRT) | 4:53 | 2025-11-06 | 2025-12-12 |
 | [I RAGAZZI DEL 2020](https://open.spotify.com/track/4KqNZui4229o3aQu6i175G) | [SULABU](https://open.spotify.com/artist/5OFSadrsMqs6HOOMJg63iJ) | [I RAGAZZI DEL 2020](https://open.spotify.com/album/1WIXpY3RQ4b8pHn40b1nP8) | 4:31 | 2025-12-03 | 2025-12-28 |
 | [I Scream at the Sky](https://open.spotify.com/track/0CLp865LeLrvTR4a5baLZe) | [Echo Boulevard](https://open.spotify.com/artist/1gALePO988dZS6ODOta7q4) | [I Scream at the Sky](https://open.spotify.com/album/5hmEYrCwecUfQUKhz3820H) | 2:06 | 2025-12-22 | 2026-01-21 |
+| [I See Scared](https://open.spotify.com/track/4mx6MPSWrSJT6QD9IqS0BJ) | [Carl Schonbeck](https://open.spotify.com/artist/64G455sXZCInt8gPhAe7mF) | [I See Scared](https://open.spotify.com/album/6QIiAKhYUUATIqKNQt0zV3) | 3:53 | 2026-11-26 |  |
 | [I Will Survive](https://open.spotify.com/track/2ntUrJmw1Vsvv342JF9HAj) | [Lonely wanderer](https://open.spotify.com/artist/7oZKXbKzbYSqj49riynY8v) | [I Will Survive](https://open.spotify.com/album/5c0tOfj6Kj7kjHz4cZ5CCo) | 3:04 | 2026-02-28 | 2026-03-22 |
 | [I'll Try To Be Me](https://open.spotify.com/track/0pZxLIpnGqaSdlHZ8py0ox) | [Ashstone](https://open.spotify.com/artist/47hrCicuIVVFh4Z7dVNNUG) | [I'll Try To Be Me](https://open.spotify.com/album/4KRfApT06AeCFlLhTWY8qW) | 3:44 | 2025-12-08 |  |
 | [I'm not awake](https://open.spotify.com/track/62rbl7R33LsdBWDaN2r8OV) | [Indie Indie](https://open.spotify.com/artist/4E6AE9M4PlKLPrnHhfGQYa) | [Fading Silhouette](https://open.spotify.com/album/5gRuEkrNfmEqhFfXkDfzsk) | 3:55 | 2026-01-22 | 2026-03-04 |
@@ -387,6 +389,7 @@
 | [Many Moons](https://open.spotify.com/track/6rhXWIuO1sJwhCmfNB9CTv) | [Terrestrials](https://open.spotify.com/artist/0IgtGoVVy0B7ZdqwLIkKCW) | [Many Moons](https://open.spotify.com/album/7xRl9kTbSPglPTcrXpj82f) | 3:41 | 2026-08-10 | 2026-10-11 |
 | [March](https://open.spotify.com/track/6aVkk0kVHBRFgL4SzhiycG) | [Crafty McVillain](https://open.spotify.com/artist/47wtKyzMEByReL7R3RJ4eP) | [March](https://open.spotify.com/album/0mf6WhdV3ZlgvVLhKAMJoP) | 4:43 | 2026-02-14 | 2026-03-22 |
 | [Mastodonte](https://open.spotify.com/track/2ONSCIg1KbDHUhwQb3SYaj) | [Ruster](https://open.spotify.com/artist/0MB2qTmFxuZkVdphbXgSeq) | [Mastodonte](https://open.spotify.com/album/1WqEAf6ehq91MtabcIqUvr) | 3:06 | 2025-12-31 | 2026-01-21 |
+| [Medusa](https://open.spotify.com/track/0cTXQ1A2Xda6TIPGeUQlbM) | [The Last Pioneers](https://open.spotify.com/artist/47VNhQMeBaWxOZG6aJHYvM) | [Medusa](https://open.spotify.com/album/3ofnl4UCPVKIPznm20tb3N) | 3:59 | 2026-11-26 |  |
 | [Meet You There](https://open.spotify.com/track/15tiZK3Wk9yB5mIKqPSZLY) | [Eve Indigo](https://open.spotify.com/artist/7EY2PX3OuDZUpNiaPkufKC) | [Meet You There](https://open.spotify.com/album/6YY5GY3agv7G7LwMtLUDrM) | 5:29 | 2026-06-15 | 2026-08-08 |
 | [melt into you](https://open.spotify.com/track/7f19vtCNG0lzI5CaYJkZi3) | [something else together.](https://open.spotify.com/artist/0fMtdcweycDDoRM0H5Rpyy) | [melt into you](https://open.spotify.com/album/0rD8DtavP3xnlSRHZGaCB8) | 4:31 | 2025-12-13 | 2026-01-05 |
 | [Memory Lapse](https://open.spotify.com/track/3vNql4MJZIrxkRAoVI7fSz) | [Nick Wallisch](https://open.spotify.com/artist/3CUJTfHnXqWKlepkfGjHZk), [Proteus](https://open.spotify.com/artist/2npdyO8ezTNfRw9vSi8f4K) | [The Lost Jams](https://open.spotify.com/album/6FoybyVEEiMq1kpsiGa5Ni) | 3:56 | 2025-12-01 | 2025-12-28 |

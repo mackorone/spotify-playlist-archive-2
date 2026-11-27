@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-06-30",
-  "description": "Todas las semanas los nuevos lanzamientos de rock en espa\u00f1ol \ud83d\udcf8 Guasones",
+  "description": "Todas las semanas los nuevos lanzamientos de rock en espa\u00f1ol \ud83d\udcf8 Meme del Real ",
   "name": "el nuevo rock",
   "tracks": [
     {
@@ -5155,6 +5155,32 @@
     },
     {
       "album": {
+        "name": "Naturaleza Nuestra",
+        "url": "https://open.spotify.com/album/6t4fsxc5oHmL0HtG3hjbWl"
+      },
+      "artists": [
+        {
+          "name": "Veeyam",
+          "url": "https://open.spotify.com/artist/0mUKZR7k8cOSewS6faryVf"
+        },
+        {
+          "name": "Veeyam & Los Gauchos",
+          "url": "https://open.spotify.com/artist/2T62lS5PKNjBgZgrMEKtSH"
+        },
+        {
+          "name": "jjjuli\u00e1n",
+          "url": "https://open.spotify.com/artist/1QQyeUqjjqvo9CNTIkzTAE"
+        }
+      ],
+      "date_added": "2026-11-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 267404,
+      "name": "Alma de Oro",
+      "url": "https://open.spotify.com/track/0NxKnZWOIIZhl6m74FHS9p"
+    },
+    {
+      "album": {
         "name": "Alma Errante",
         "url": "https://open.spotify.com/album/3egKePzCNDAMBvPRpBPKsd"
       },
@@ -6872,7 +6898,7 @@
       ],
       "date_added": "2026-11-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-27",
       "duration_ms": 222439,
       "name": "ANTES DE MORIRME VOL. 2",
       "url": "https://open.spotify.com/track/1NzlS5lozb9pGtnjXz3hAI"
@@ -14288,7 +14314,7 @@
       ],
       "date_added": "2026-11-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-27",
       "duration_ms": 207400,
       "name": "Campos De Golf",
       "url": "https://open.spotify.com/track/2POzBe7i64yZF0ngCST3MG"
@@ -19336,6 +19362,28 @@
       "duration_ms": 181360,
       "name": "Coraz\u00f3n ardiendo",
       "url": "https://open.spotify.com/track/60zBmfg2Hle1y4VaUfISOo"
+    },
+    {
+      "album": {
+        "name": "Memo Rex Commander y el Coraz\u00f3n At\u00f3mico de la V\u00eda L\u00e1ctea (Revisitado)",
+        "url": "https://open.spotify.com/album/1xZPF0L6AxIxnsoemmOYTy"
+      },
+      "artists": [
+        {
+          "name": "Meme del Real",
+          "url": "https://open.spotify.com/artist/0HkMgxowXkwqDN3Z0s7kAB"
+        },
+        {
+          "name": "Zo\u00e9",
+          "url": "https://open.spotify.com/artist/6IdtcAwaNVAggwd6sCKgTI"
+        }
+      ],
+      "date_added": "2026-11-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 255986,
+      "name": "Coraz\u00f3n At\u00f3mico",
+      "url": "https://open.spotify.com/track/41EOetzK0ssh44TvGGWV21"
     },
     {
       "album": {
@@ -26208,6 +26256,24 @@
       "duration_ms": 246500,
       "name": "Doggorebi",
       "url": "https://open.spotify.com/track/2ecsquX0i6A3F5kmnJLGXm"
+    },
+    {
+      "album": {
+        "name": "Dogs",
+        "url": "https://open.spotify.com/album/2f40cItbtPULC3rQmabvz6"
+      },
+      "artists": [
+        {
+          "name": "Mellon Collie",
+          "url": "https://open.spotify.com/artist/5nWkSrKwhtPiS3UWWNmlPk"
+        }
+      ],
+      "date_added": "2026-11-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 272633,
+      "name": "Dogs",
+      "url": "https://open.spotify.com/track/6Z2ThlOakgCVax62DxgcO5"
     },
     {
       "album": {
@@ -35374,7 +35440,7 @@
       ],
       "date_added": "2026-11-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-27",
       "duration_ms": 206797,
       "name": "Era yo la que apuntaba",
       "url": "https://open.spotify.com/track/0Dbcv5NW0ZkBVxfJ8vRSvx"
@@ -37144,6 +37210,32 @@
       "duration_ms": 199796,
       "name": "Esta Noche Que Sal\u00ed",
       "url": "https://open.spotify.com/track/3SN1eGZpzGJlFbnde0B6Sy"
+    },
+    {
+      "album": {
+        "name": "Esta Vez No 2.0",
+        "url": "https://open.spotify.com/album/3CZWUzwKg10ityFQJCakti"
+      },
+      "artists": [
+        {
+          "name": "Pressive",
+          "url": "https://open.spotify.com/artist/0A5tnsz3SjTXp9SOWc2Rx4"
+        },
+        {
+          "name": "NXNNI",
+          "url": "https://open.spotify.com/artist/7c3WfapyPAyyBvchugCGvK"
+        },
+        {
+          "name": "Obesity",
+          "url": "https://open.spotify.com/artist/1YhGVmNndorZhzjMDTrdVG"
+        }
+      ],
+      "date_added": "2026-11-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 218500,
+      "name": "Esta Vez No 2.0",
+      "url": "https://open.spotify.com/track/56UwoyV0IuvbnCXA1yTmdE"
     },
     {
       "album": {
@@ -39186,6 +39278,24 @@
       "duration_ms": 213333,
       "name": "Fea",
       "url": "https://open.spotify.com/track/2dCaAdHPetC80XV78kQ9a7"
+    },
+    {
+      "album": {
+        "name": "Featuring Hot Mulligan",
+        "url": "https://open.spotify.com/album/7c1zXEuBhqdmF1d6zbfRM7"
+      },
+      "artists": [
+        {
+          "name": "Awexa",
+          "url": "https://open.spotify.com/artist/1tv5NHtc4XP7MpNeupdfYa"
+        }
+      ],
+      "date_added": "2026-11-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 169156,
+      "name": "Featuring Hot Mulligan",
+      "url": "https://open.spotify.com/track/2JTeHbLo9m5qnR7ph9WfIa"
     },
     {
       "album": {
@@ -42760,7 +42870,7 @@
       ],
       "date_added": "2026-11-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-27",
       "duration_ms": 139375,
       "name": "Gogo House",
       "url": "https://open.spotify.com/track/1dV46YRFkhP8gGrKzsurJ1"
@@ -46092,7 +46202,7 @@
       ],
       "date_added": "2026-11-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-27",
       "duration_ms": 217169,
       "name": "Honestidad",
       "url": "https://open.spotify.com/track/1Kujat540VXHBRX2vT7vlB"
@@ -61886,7 +61996,7 @@
       ],
       "date_added": "2026-10-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-27",
       "duration_ms": 200000,
       "name": "Malir Sal",
       "url": "https://open.spotify.com/track/3GGVeXIqGFqcZ3zYkmFu9z"
@@ -64920,7 +65030,7 @@
       ],
       "date_added": "2026-11-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-27",
       "duration_ms": 248292,
       "name": "Memoria",
       "url": "https://open.spotify.com/track/10K0kDK6vrxIfaButo3K2s"
@@ -67506,6 +67616,24 @@
       "duration_ms": 288052,
       "name": "Mi\u00e9nteme",
       "url": "https://open.spotify.com/track/4KOv3GcYB3570Lpr92yeOp"
+    },
+    {
+      "album": {
+        "name": "MI\u00c9NTEME",
+        "url": "https://open.spotify.com/album/4cQCYkik52MQeneXgxwBgY"
+      },
+      "artists": [
+        {
+          "name": "Malcriada",
+          "url": "https://open.spotify.com/artist/2ZUqAIo5iiRcSaq7TQBW5C"
+        }
+      ],
+      "date_added": "2026-11-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 152000,
+      "name": "MI\u00c9NTEME",
+      "url": "https://open.spotify.com/track/4zGOHj1f8RubVyFvETrQkZ"
     },
     {
       "album": {
@@ -74533,6 +74661,24 @@
     },
     {
       "album": {
+        "name": "Noche de P\u00e1nico",
+        "url": "https://open.spotify.com/album/04jTOosKmeeBpvEDtsD4wW"
+      },
+      "artists": [
+        {
+          "name": "Nuevos Vicios",
+          "url": "https://open.spotify.com/artist/4DYnKenkvlxMCBrwMjcdst"
+        }
+      ],
+      "date_added": "2026-11-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 250672,
+      "name": "Noche de P\u00e1nico",
+      "url": "https://open.spotify.com/track/7tfmaigofuhzvdozxa414W"
+    },
+    {
+      "album": {
         "name": "Noche en la Ciudad",
         "url": "https://open.spotify.com/album/5ODyt3Uy1Ph969S9BKjMJK"
       },
@@ -76052,7 +76198,7 @@
       ],
       "date_added": "2026-11-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-27",
       "duration_ms": 208615,
       "name": "Nunca Quise",
       "url": "https://open.spotify.com/track/2BhwCJbyd6CyEECopyCVrv"
@@ -77422,6 +77568,24 @@
       "duration_ms": 259487,
       "name": "Oro y Pl\u00e1stico",
       "url": "https://open.spotify.com/track/1ZbApa6huol8xqfqQuG1A2"
+    },
+    {
+      "album": {
+        "name": "Muerte Al Tallo De Una Flor",
+        "url": "https://open.spotify.com/album/1EkXROll80PHxH4XR0hzlg"
+      },
+      "artists": [
+        {
+          "name": "El Ruido Inmersivo de los Sue\u00f1os",
+          "url": "https://open.spotify.com/artist/377Ar7C6GQX6YexaDLUMMV"
+        }
+      ],
+      "date_added": "2026-11-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 228300,
+      "name": "Orqu\u00eddea",
+      "url": "https://open.spotify.com/track/7hVT4HuCXp9Oz2grBWJM44"
     },
     {
       "album": {
@@ -83488,6 +83652,24 @@
       "duration_ms": 133310,
       "name": "Promesa Feliz",
       "url": "https://open.spotify.com/track/7zHBqEWopKaap99FSYtxT7"
+    },
+    {
+      "album": {
+        "name": "LA UNION HIP.GNOSIS V.3",
+        "url": "https://open.spotify.com/album/4541RiZ5yg9GCYqPf7tpax"
+      },
+      "artists": [
+        {
+          "name": "La Uni\u00f3n",
+          "url": "https://open.spotify.com/artist/2Ax9wZpdlg4r2zkc3pcI8U"
+        }
+      ],
+      "date_added": "2026-11-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 205050,
+      "name": "PROMESA ROTA",
+      "url": "https://open.spotify.com/track/6u2ksFNvTztL9d6A1XDNRH"
     },
     {
       "album": {
@@ -90120,7 +90302,7 @@
       ],
       "date_added": "2026-11-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-27",
       "duration_ms": 312157,
       "name": "SAHUARO",
       "url": "https://open.spotify.com/track/3Hsq2yl5dAAs8Rq1Y2JNM4"
@@ -93341,6 +93523,24 @@
     },
     {
       "album": {
+        "name": "Siempre Hay Una Melod\u00eda",
+        "url": "https://open.spotify.com/album/4OUFzMcZQXeweI8QhEgiKb"
+      },
+      "artists": [
+        {
+          "name": "Joaco Burgos",
+          "url": "https://open.spotify.com/artist/2MDvrUsi9z2CCh8p0Iqo7A"
+        }
+      ],
+      "date_added": "2026-11-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 180906,
+      "name": "Siempre Hay Una Melod\u00eda",
+      "url": "https://open.spotify.com/track/2mAhaXTSh8zLC7PamT6PK1"
+    },
+    {
+      "album": {
         "name": "Siempre Igual",
         "url": "https://open.spotify.com/album/7pj4XEXXMPJkNbjxFiHhrU"
       },
@@ -94384,7 +94584,7 @@
       ],
       "date_added": "2026-11-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-27",
       "duration_ms": 246776,
       "name": "Sistem\u00e1tico",
       "url": "https://open.spotify.com/track/1X8kJyBGdAIy1DAeRg0KrZ"
@@ -103593,6 +103793,24 @@
     },
     {
       "album": {
+        "name": "Tu Voz",
+        "url": "https://open.spotify.com/album/7o9EMnxEx0M6QVB5zzdPKw"
+      },
+      "artists": [
+        {
+          "name": "Policias y Ladrones",
+          "url": "https://open.spotify.com/artist/6Y9quCNVfxgIE308HSMpEd"
+        }
+      ],
+      "date_added": "2026-11-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 202392,
+      "name": "Tu Voz",
+      "url": "https://open.spotify.com/track/6c0izuLI8Kv3EwazTdGLC5"
+    },
+    {
+      "album": {
         "name": "Nadie Pat\u00edn",
         "url": "https://open.spotify.com/album/6n2pHznavOJqVzdmCj0nVz"
       },
@@ -108970,7 +109188,7 @@
       ],
       "date_added": "2026-11-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-27",
       "duration_ms": 210656,
       "name": "Viva",
       "url": "https://open.spotify.com/track/6x7xm0nu8KbyeBLz9JgI3T"
@@ -110426,7 +110644,7 @@
       ],
       "date_added": "2026-11-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-27",
       "duration_ms": 165600,
       "name": "Watchugonadoaboutit?",
       "url": "https://open.spotify.com/track/2JFQVYx1NKefyyrunYICGf"
@@ -112260,6 +112478,24 @@
       "duration_ms": 203720,
       "name": "You Don't Like Real Girls",
       "url": "https://open.spotify.com/track/4DyIiCu13N2psksuq1xeMU"
+    },
+    {
+      "album": {
+        "name": "LAPSUS",
+        "url": "https://open.spotify.com/album/0CuX5fFA0Pebt18mfRmQFy"
+      },
+      "artists": [
+        {
+          "name": "Ultraligera",
+          "url": "https://open.spotify.com/artist/5Vv5llyiK1nlME2UNDzPBB"
+        }
+      ],
+      "date_added": "2026-11-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 243320,
+      "name": "YUGULAR",
+      "url": "https://open.spotify.com/track/7gXhtx6aO5yO4XjsAeOFlF"
     },
     {
       "album": {

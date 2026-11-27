@@ -444,7 +444,7 @@
       ],
       "date_added": "2026-09-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-27",
       "duration_ms": 233600,
       "name": "A Void",
       "url": "https://open.spotify.com/track/0sz41VsHu2tgWdiQOt7bd4"
@@ -2446,10 +2446,32 @@
       ],
       "date_added": "2026-11-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-27",
       "duration_ms": 123983,
       "name": "B.O.B.",
       "url": "https://open.spotify.com/track/4eu2C1zMf5wjOlbhBtua5n"
+    },
+    {
+      "album": {
+        "name": "Trail Mix EP",
+        "url": "https://open.spotify.com/album/1uUmSMYIoI30uFIuVl5ky2"
+      },
+      "artists": [
+        {
+          "name": "Subtronics",
+          "url": "https://open.spotify.com/artist/3NJ94iuAmmMjbszODYT6pO"
+        },
+        {
+          "name": "Crankdat",
+          "url": "https://open.spotify.com/artist/5lCekoJW9jNq01B1wiqdAb"
+        }
+      ],
+      "date_added": "2026-11-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 123983,
+      "name": "B.O.B.",
+      "url": "https://open.spotify.com/track/5WWaqWKbkiceByEE5uqc5I"
     },
     {
       "album": {
@@ -6310,7 +6332,7 @@
       ],
       "date_added": "2026-11-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-27",
       "duration_ms": 185142,
       "name": "Bury Them",
       "url": "https://open.spotify.com/track/0IfZFvb5YydOQRuwrb4K25"
@@ -10268,6 +10290,28 @@
       "duration_ms": 139034,
       "name": "DISRESPECT",
       "url": "https://open.spotify.com/track/7LpQXlw2o9xWBE5CuATFJk"
+    },
+    {
+      "album": {
+        "name": "WE DIE YOUNG vol.9",
+        "url": "https://open.spotify.com/album/6f3gUnefDGoNxTIM4LhIb5"
+      },
+      "artists": [
+        {
+          "name": "rejection",
+          "url": "https://open.spotify.com/artist/0S23vj2YyvxsVlhqqSohrk"
+        },
+        {
+          "name": "WE DIE YOUNG",
+          "url": "https://open.spotify.com/artist/2AOcY7Okw1zDwZYUeIxW2V"
+        }
+      ],
+      "date_added": "2026-11-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 302695,
+      "name": "Dive",
+      "url": "https://open.spotify.com/track/5LEULg7IDdUX8gSvtbJ2Dv"
     },
     {
       "album": {
@@ -37358,7 +37402,7 @@
       ],
       "date_added": "2026-08-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-27",
       "duration_ms": 161142,
       "name": "STINK MODE",
       "url": "https://open.spotify.com/track/35wiXT21VADtYMHavMX7vm"
@@ -39148,7 +39192,7 @@
       ],
       "date_added": "2026-09-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-27",
       "duration_ms": 205517,
       "name": "The Block",
       "url": "https://open.spotify.com/track/3MnBeb0rOMmrhJ6azyip02"
@@ -40722,6 +40766,24 @@
       "duration_ms": 144335,
       "name": "Toxic",
       "url": "https://open.spotify.com/track/7AHzzHjC26x5PL3NJU6UlU"
+    },
+    {
+      "album": {
+        "name": "Trail Mix EP",
+        "url": "https://open.spotify.com/album/1uUmSMYIoI30uFIuVl5ky2"
+      },
+      "artists": [
+        {
+          "name": "Subtronics",
+          "url": "https://open.spotify.com/artist/3NJ94iuAmmMjbszODYT6pO"
+        }
+      ],
+      "date_added": "2026-11-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 172800,
+      "name": "Trail Mix",
+      "url": "https://open.spotify.com/track/2StEpMsVd9I95pSCJvcIF4"
     },
     {
       "album": {
@@ -43215,6 +43277,36 @@
     },
     {
       "album": {
+        "name": "When The Light Breaks (Remixes)",
+        "url": "https://open.spotify.com/album/5sxvG2sGW65mdtmv6rH8j0"
+      },
+      "artists": [
+        {
+          "name": "Said The Sky",
+          "url": "https://open.spotify.com/artist/4LZ4De2MoO3lP6QaNCfvcu"
+        },
+        {
+          "name": "ILLENIUM",
+          "url": "https://open.spotify.com/artist/45eNHdiiabvmbp4erw26rg"
+        },
+        {
+          "name": "Heather Sommer",
+          "url": "https://open.spotify.com/artist/0EHYuPn9Xng2lZP2cfz4cV"
+        },
+        {
+          "name": "Koven",
+          "url": "https://open.spotify.com/artist/3UCbp6D1lvILlxRJT9LnFa"
+        }
+      ],
+      "date_added": "2026-11-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 226206,
+      "name": "When The Light Breaks - Koven Remix",
+      "url": "https://open.spotify.com/track/2HkZsGS977YEU9OBkRYJ0g"
+    },
+    {
+      "album": {
         "name": "Where Do We Go (feat. Poppy Baskcomb)",
         "url": "https://open.spotify.com/album/2ypJ0tKO8imaWL0SlgUeVJ"
       },
@@ -43784,6 +43876,28 @@
       "duration_ms": 282065,
       "name": "Within Cells Interlinked",
       "url": "https://open.spotify.com/track/2ZIq0taozbe81UbqyB9yWV"
+    },
+    {
+      "album": {
+        "name": "Within Me",
+        "url": "https://open.spotify.com/album/36ddS7jyxOHP8C3x5cUI29"
+      },
+      "artists": [
+        {
+          "name": "Rival",
+          "url": "https://open.spotify.com/artist/4u1nYxjl132D6rcMeYQ6Zz"
+        },
+        {
+          "name": "Linney",
+          "url": "https://open.spotify.com/artist/0vomb9Zaob10lPzxBcIiNb"
+        }
+      ],
+      "date_added": "2026-11-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 249863,
+      "name": "Within Me",
+      "url": "https://open.spotify.com/track/1cBuPq9R59fwfgXkLGvCQE"
     },
     {
       "album": {

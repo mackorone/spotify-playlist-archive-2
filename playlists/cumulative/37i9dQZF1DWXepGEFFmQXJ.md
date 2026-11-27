@@ -2,9 +2,9 @@
 
 ### [Fresh Country](https://open.spotify.com/playlist/37i9dQZF1DWXepGEFFmQXJ)
 
-> The cream of today's country crop\. Cover: Ella Langley
+> The cream of today's country crop\. Cover: James Johnston
 
-1,350 songs - 3 day 2 hr 15 min
+1,352 songs - 3 day 2 hr 22 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -516,6 +516,7 @@
 | [Heartbroken \- Jessie Version](https://open.spotify.com/track/60bbiP93CSxmLibuwvxay9) | [Diplo](https://open.spotify.com/artist/5fMUXHkw8R8eOP2RNVYEZX), [Jessie Murph](https://open.spotify.com/artist/2yLzlEFtIS0Q9UkyBZdQA7) | [Diplo Presents Thomas Wesley: Chapter 2 \- Swamp Savant](https://open.spotify.com/album/4T2TQZ3hlWAsCe9PXK3uM9) | 3:17 | 2023-08-10 | 2024-06-14 |
 | [HEARTFIRST](https://open.spotify.com/track/1S55d7hhptRt8PS6nC1fSY) | [Kelsea Ballerini](https://open.spotify.com/artist/3RqBeV12Tt7A8xH3zBDDUF) | [HEARTFIRST](https://open.spotify.com/album/34lEWEkrMZmB2WTzMXsk2s) | 3:07 | 2022-04-07 | 2022-09-09 |
 | [Heartstrings](https://open.spotify.com/track/5yzRGVeirNYC24dYkT3Yjq) | [Flatland Cavalry](https://open.spotify.com/artist/4SfGzWmeoNPKIOmiyc7Pav) | [Work of Heart \- Heartstrings](https://open.spotify.com/album/75nqbogQG36rnoSRlVKtmP) | 4:01 | 2026-10-02 | 2026-11-13 |
+| [HEAVEN TO ME](https://open.spotify.com/track/1JXORdh5WgaRrMb0Klcesp) | [James Johnston](https://open.spotify.com/artist/69HMYPrcstafeCTHI3Dcp1) | [HEAVEN TO ME](https://open.spotify.com/album/2cqkvXjQlkIdiJWS1przAx) | 3:50 | 2026-11-26 |  |
 | [Heavens Know](https://open.spotify.com/track/1t4rBxUyowSDGHRXc97oFR) | [Jade Gibson](https://open.spotify.com/artist/6WySchWeh56OiZ7Fxzu7Aq) | [Heavens Know](https://open.spotify.com/album/23YfWwXfnEotsMNhlPAlHF) | 3:30 | 2023-08-17 | 2023-11-10 |
 | [Heavy Eyes](https://open.spotify.com/track/2gJj6WtAxXjApMs3PXsCeX) | [Zach Bryan](https://open.spotify.com/artist/40ZNYROS4zLfyyBSs2PGe2) | [American Heartbreak](https://open.spotify.com/album/7IouDrXPdAZwT1NzVV3vef) | 3:10 | 2022-05-19 | 2022-12-05 |
 | [HELL BOY](https://open.spotify.com/track/0TB3Diz7QTmqXbn07esBAf) | [James Johnston](https://open.spotify.com/artist/69HMYPrcstafeCTHI3Dcp1) | [HELL BOY](https://open.spotify.com/album/3c9EqYQI2MUpCF29Fliila) | 2:55 | 2025-01-23 | 2025-04-18 |
@@ -747,7 +748,7 @@
 | [Madeline](https://open.spotify.com/track/2LPkPV3xEQegxAp3dTQseZ) | [Jamie McDell](https://open.spotify.com/artist/44MWRwByQXnNT4PwguMPIH) | [Beach House EP](https://open.spotify.com/album/6rUHR6JumTPgpP3q5G3Usq) | 3:14 | 2023-06-15 | 2023-07-28 |
 | [Madeline \(feat\. Gabriella Rose\)](https://open.spotify.com/track/2DDo2QqElDO9PgOHeGtQiy) | [Zach Bryan](https://open.spotify.com/artist/40ZNYROS4zLfyyBSs2PGe2), [Gabriella Rose](https://open.spotify.com/artist/4Ff6AJhOGPhMC1wezoZNTj) | [Madeline \(feat\. Gabriella Rose\)](https://open.spotify.com/album/6GtkOiEX7Hp8N21AFhmafQ) | 2:25 | 2025-07-17 | 2025-10-17 |
 | [Make It Rain](https://open.spotify.com/track/5uJUF0Az31PDoOjaYeT2Cy) | [Riley Green](https://open.spotify.com/artist/2QMsj4XJ7ne2hojxt6v5eb) | [Don't Mind If I Do \(Deluxe\)](https://open.spotify.com/album/1zYMNgeczOfopUj0mDK8Nx) | 4:12 | 2025-09-11 | 2026-02-27 |
-| [Make Trouble](https://open.spotify.com/track/6l8JlOPCBGKWJs3XOs44u0) | [Bayker Blankenship](https://open.spotify.com/artist/1iP8yKbscxGv4Yzysz7XLr) | [Make Trouble](https://open.spotify.com/album/1CTfne4ZsabaoNdawt1nCD) | 3:32 | 2026-10-02 |  |
+| [Make Trouble](https://open.spotify.com/track/6l8JlOPCBGKWJs3XOs44u0) | [Bayker Blankenship](https://open.spotify.com/artist/1iP8yKbscxGv4Yzysz7XLr) | [Make Trouble](https://open.spotify.com/album/1CTfne4ZsabaoNdawt1nCD) | 3:32 | 2026-10-02 | 2026-11-27 |
 | [Making Up For Lost Wine](https://open.spotify.com/track/1KL31CycjUK0ZPzMUBiYyo) | [Amber Lawrence](https://open.spotify.com/artist/3RyYW4bMFeTeQ2jjLZu4xg) | [Making Up For Lost Wine](https://open.spotify.com/album/4FSQnscHa5ywBYP3z5r3Xl) | 3:08 | 2022-06-02 | 2022-07-29 |
 | [Mama's Eyes](https://open.spotify.com/track/3vDIOac07rO5yGTvNeNSh7) | [Tenille Arts](https://open.spotify.com/artist/0gSAxSvAApQc71cTpoXDFu) | [Mama's Eyes](https://open.spotify.com/album/2OUWJQrzQJNk3Oeew9oN0T) | 3:10 | 2023-05-18 | 2023-07-21 |
 | [Mamaw's House](https://open.spotify.com/track/4HeViKsdSOLkOvwfcRVkK8) | [Thomas Rhett](https://open.spotify.com/artist/6x2LnllRG5uGarZMsD4iO8), [Morgan Wallen](https://open.spotify.com/artist/4oUHIQIBe0LHzYfvXNW4QM) | [20 Number Ones \(Bonus Version\)](https://open.spotify.com/album/5H2qv56KuvEfPjPVYWStUe) | 3:07 | 2023-09-28 | 2024-04-19 |
@@ -909,7 +910,7 @@
 | [Plainsman \(feat\. Turnpike Troubadours\)](https://open.spotify.com/track/1MvpArWMOKjTlJq6Gvz645) | [Zach Bryan](https://open.spotify.com/artist/40ZNYROS4zLfyyBSs2PGe2), [Turnpike Troubadours](https://open.spotify.com/artist/1YSA4byX5AL1zoTsSTlB03) | [Plainsman \(feat\. Turnpike Troubadours\)](https://open.spotify.com/album/2y6T5TpxvA3163wUWzgM3J) | 3:46 | 2026-10-16 |  |
 | [Plastic Cigarette](https://open.spotify.com/track/2jCJjRc9mz6VYBMhLy3H9i) | [Zach Bryan](https://open.spotify.com/artist/40ZNYROS4zLfyyBSs2PGe2) | [With Heaven On Top](https://open.spotify.com/album/4NvMwUFmY1dcDEgD8KoQjG) | 3:05 | 2026-01-15 | 2026-04-03 |
 | [Playin It Cool](https://open.spotify.com/track/5nq38CwAntBAffMWgRQztp) | [Tyler Hubbard](https://open.spotify.com/artist/3BEV5FcxOtkQJ7lLRKMh3V) | [Playin It Cool](https://open.spotify.com/album/0MP4msEVMyuEjiHgyc4PvC) | 2:49 | 2026-11-05 |  |
-| [Porch Light](https://open.spotify.com/track/3SM8VdUoDb7e3OUWkApJdn) | [LECADE](https://open.spotify.com/artist/5KfgJTNwvEbzMtJREyq9Jt) | [Porch Light](https://open.spotify.com/album/0qQgzw883N7XGkTuno2kNS) | 3:30 | 2026-10-02 |  |
+| [Porch Light](https://open.spotify.com/track/3SM8VdUoDb7e3OUWkApJdn) | [LECADE](https://open.spotify.com/artist/5KfgJTNwvEbzMtJREyq9Jt) | [Porch Light](https://open.spotify.com/album/0qQgzw883N7XGkTuno2kNS) | 3:30 | 2026-10-02 | 2026-11-27 |
 | [Porch Light \(Valley Version\)](https://open.spotify.com/track/0XpadPENnHNnUUA0sTqPe2) | [Sara Berki](https://open.spotify.com/artist/21L6MUgqitOTfF9t1PcNXd) | [Porch Light \(Valley Version\)](https://open.spotify.com/album/6wlSTQlPPQjly70oSZraPn) | 3:33 | 2025-10-23 | 2026-01-15 |
 | [Pour Me A Drink \(Feat\. Blake Shelton\)](https://open.spotify.com/track/5ZLL6wYXeqg0k35ZkDRfhZ) | [Post Malone](https://open.spotify.com/artist/246dkjvS1zLTtiykXe5h60), [Blake Shelton](https://open.spotify.com/artist/1UTPBmNbXNTittyMJrNkvw) | [Pour Me A Drink](https://open.spotify.com/album/1WE56xSN0l6bnwGyLeQWdz) | 3:15 | 2024-06-21 | 2024-09-06 |
 | [Pour My Heart Out](https://open.spotify.com/track/15EHG8LhwOn1eRRjb3KSLJ) | [Taylor Moss](https://open.spotify.com/artist/6kk3eFuZoE4Lq7dD03Ehkj) | [Pour My Heart Out](https://open.spotify.com/album/0SR72BuMowT5gSFqfZpD4y) | 3:38 | 2023-09-21 | 2023-11-17 |
@@ -1220,6 +1221,7 @@
 | [Traitor Joe](https://open.spotify.com/track/4EU5ykgudDvqTMhMzTSaAp) | [Megan Moroney](https://open.spotify.com/artist/5Ppie0uPnbnvGBYRwYmlt0) | [Lucky](https://open.spotify.com/album/5DFed53ADZwnPOYuqoZJHK) | 2:33 | 2023-05-04 | 2023-10-06 |
 | [Tree Birds](https://open.spotify.com/track/0uNzLccqsb5crQ2dcBlakz) | [Dylan Gossett](https://open.spotify.com/artist/4H4M0Y4cN39zIVDHvdW53x) | [Tree Birds](https://open.spotify.com/album/6PAud3gLOCgM4Mit5yaPkh) | 3:32 | 2024-10-10 | 2025-01-24 |
 | [Trouble](https://open.spotify.com/track/7cRggVoZ18mmvIN2EcSQ3J) | [Josh Ross](https://open.spotify.com/artist/1ZGTSMjK1D2HrpPTOh916U) | [Trouble](https://open.spotify.com/album/3svJ9Mv1JKL7R4CBZLtCfp) | 3:34 | 2023-01-05 | 2023-06-23 |
+| [Trouble](https://open.spotify.com/track/4Ni5e1f5zY4EmxIaCwcipb) | [Y.O.G.A.](https://open.spotify.com/artist/0H2mWrAuc4RzRwr2SkpG2y), [Jimbo Stokes](https://open.spotify.com/artist/1kjIdNzI0AIDHaaqfbEzdK) | [Trouble](https://open.spotify.com/album/2n7vuGcc4yFZjEn1OAjSLG) | 3:09 | 2026-11-26 |  |
 | [Trouble With A Heartbreak](https://open.spotify.com/track/3HO30hRbkOLU6ZWERayfQO) | [Jason Aldean](https://open.spotify.com/artist/3FfvYsEGaIb52QPXhg4DcH) | [GEORGIA](https://open.spotify.com/album/4ZaUIMUNymqD3koXtYev2P) | 3:16 | 2022-07-28 | 2022-09-24 |
 | [Trouble With A Heartbreak](https://open.spotify.com/track/4lSNyiHil3tuiwtvEpN1qq) | [Jason Aldean](https://open.spotify.com/artist/3FfvYsEGaIb52QPXhg4DcH) | [Trouble With A Heartbreak](https://open.spotify.com/album/3hs2Iakgld3yGrrcJSpg28) | 3:16 | 2022-03-31 | 2022-07-29 |
 | [TRUCK BED](https://open.spotify.com/track/103u49mLoJUge83B1CnLxI) | [HARDY](https://open.spotify.com/artist/5QNm7E7RU2m64l6Gliu8Oy) | [the mockingbird & THE CROW](https://open.spotify.com/album/6Oynwy3OABCiAqN9w9UqBN) | 2:47 | 2023-06-01 | 2024-04-05 |

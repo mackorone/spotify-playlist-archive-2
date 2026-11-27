@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFLoUfni1QYZU.md) - [plain]
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/2B5hXslE3gB415wlpuI6et">LP</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 808 likes - 86 songs - 5 hr 22 min
+[Spotify](https://open.spotify.com/user/spotify) - 809 likes - 86 songs - 5 hr 22 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -32,8 +32,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFLoUfni1QYZU.md) - [plain]
 | 22 | [N'oublie pas](https://open.spotify.com/track/7FIpYtyMksImC785MQ6rk0) | [Mylène Farmer](https://open.spotify.com/artist/0e04xgVBPU6mE2QkSHlufD), [LP](https://open.spotify.com/artist/0J7U24vlOOIeMpuaO6Q85A) | [Désobéissance](https://open.spotify.com/album/5YDET5CVSy7YvV7I3s5wAI) | 3:39 |
 | 23 | [Someday](https://open.spotify.com/track/6aqQwBaJ2W7z5PIqWMheGx) | [LP](https://open.spotify.com/artist/0J7U24vlOOIeMpuaO6Q85A) | [Forever for Now \(Deluxe Edition\)](https://open.spotify.com/album/4Xj78YEY3wweavnPEJXuWw) | 4:12 |
 | 24 | [Up Against Me](https://open.spotify.com/track/0FblCEqvjlYKCPkid3C0Z5) | [LP](https://open.spotify.com/artist/0J7U24vlOOIeMpuaO6Q85A) | [Lost On You](https://open.spotify.com/album/2IdswGlDALRu7hjWi3Nu7f) | 3:02 |
-| 25 | [House On Fire](https://open.spotify.com/track/0d3oQhaywjswCbMWxzuCaB) | [LP](https://open.spotify.com/artist/0J7U24vlOOIeMpuaO6Q85A) | [Heart to Mouth](https://open.spotify.com/album/4OjeNKUsZFgD6dnQbd3pM9) | 3:01 |
-| 26 | [Suspicion](https://open.spotify.com/track/7xBZsLKgEKDh2mIb3SWTk5) | [LP](https://open.spotify.com/artist/0J7U24vlOOIeMpuaO6Q85A) | [Lost On You](https://open.spotify.com/album/1PZZJGNY5VDtAQmNqP1f4U) | 3:20 |
+| 25 | [Suspicion](https://open.spotify.com/track/7xBZsLKgEKDh2mIb3SWTk5) | [LP](https://open.spotify.com/artist/0J7U24vlOOIeMpuaO6Q85A) | [Lost On You](https://open.spotify.com/album/1PZZJGNY5VDtAQmNqP1f4U) | 3:20 |
+| 26 | [House On Fire](https://open.spotify.com/track/0d3oQhaywjswCbMWxzuCaB) | [LP](https://open.spotify.com/artist/0J7U24vlOOIeMpuaO6Q85A) | [Heart to Mouth](https://open.spotify.com/album/4OjeNKUsZFgD6dnQbd3pM9) | 3:01 |
 | 27 | [Shine Ya Light](https://open.spotify.com/track/2sWwtub4lyQ3vdno4Le9Av) | [Rita Ora](https://open.spotify.com/artist/5CCwRZC6euC8Odo6y9X8jr) | [ORA](https://open.spotify.com/album/3wVudWLcF1D7jK5kTj6hlA) | 3:30 |
 | 28 | [Mirror Man](https://open.spotify.com/track/5ItmPIcrJGy1e9sMnihDqB) | [Ella Henderson](https://open.spotify.com/artist/7nDsS0l5ZAzMedVRKPP8F1) | [Chapter One](https://open.spotify.com/album/0KP9GNOxpsKRSA0t0B4ZsL) | 3:42 |
 | 29 | [Switchblade](https://open.spotify.com/track/0lghQmFvO9TVRx7GmrafsU) | [LP](https://open.spotify.com/artist/0J7U24vlOOIeMpuaO6Q85A) | [Lost On You](https://open.spotify.com/album/1PZZJGNY5VDtAQmNqP1f4U) | 4:24 |
@@ -95,4 +95,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFLoUfni1QYZU.md) - [plain]
 | 85 | [Pedestal](https://open.spotify.com/track/2uuG0q0NJCODSZxo3Q3RX8) | [EMIN](https://open.spotify.com/artist/0sKY9AcBdiGx4FbFbQsXoX) | [Good Love](https://open.spotify.com/album/0fetHuPcxKROz43WYu3J31) | 3:25 |
 | 86 | [Dark Side \(Instrumental Version\) \[Originally performed by Kelly Clarkson\]](https://open.spotify.com/track/0UIz6OBemLHhD8XW8t2acZ) | [Back Track Karaoke](https://open.spotify.com/artist/0CG46RticezLidYhQ66gUW) | [Top Song's Karaoke \-Vol 3](https://open.spotify.com/album/1c7kIevmDnQPdvmeERdQj4) | 3:21 |
 
-Snapshot ID: `AciqIgAAAACVTFk+hZR4bJdeV9UjJ9Zw`
+Snapshot ID: `AcivwgAAAAD+sA4Z1EL1sxLuzVuIfUb2`

@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-09-22",
-  "description": "What is your love language? Say it in Swahili.  Cover: Maua Sama & Rayvanny",
+  "description": "What is your love language? Say it in Swahili.  Cover: Nandy",
   "name": "Swahili Love ",
   "tracks": [
     {
@@ -804,7 +804,7 @@
       ],
       "date_added": "2026-05-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-27",
       "duration_ms": 197647,
       "name": "Call Me",
       "url": "https://open.spotify.com/track/7yeC0Li94ZmAwxVW5qApUw"
@@ -1976,6 +1976,28 @@
       "duration_ms": 172035,
       "name": "I Belong To You",
       "url": "https://open.spotify.com/track/2PJhzxSrHqNTfhNuFtybCQ"
+    },
+    {
+      "album": {
+        "name": "The Real King Of The East",
+        "url": "https://open.spotify.com/album/0Y8Ypi9J7BAyPoilrtoAEc"
+      },
+      "artists": [
+        {
+          "name": "Otile Brown",
+          "url": "https://open.spotify.com/artist/25txWhgJAzekbAaHuDzmwj"
+        },
+        {
+          "name": "Jovial",
+          "url": "https://open.spotify.com/artist/2iULDphri5hyIfw6Z1HhcH"
+        }
+      ],
+      "date_added": "2026-11-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 186382,
+      "name": "I Choose You (feat. Jovial)",
+      "url": "https://open.spotify.com/track/4QXLr3G3YXUzyTIoDTTgpe"
     },
     {
       "album": {
@@ -3802,7 +3824,7 @@
       ],
       "date_added": "2025-10-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-27",
       "duration_ms": 222223,
       "name": "Msumari",
       "url": "https://open.spotify.com/track/0LIWMtd93zoCGx2TdzMJCx"
@@ -4099,6 +4121,28 @@
     },
     {
       "album": {
+        "name": "911",
+        "url": "https://open.spotify.com/album/2GbjisCZ2WprELtU0wTp2o"
+      },
+      "artists": [
+        {
+          "name": "Nandy",
+          "url": "https://open.spotify.com/artist/2YfO4GV7JrFSXyfEoa5id3"
+        },
+        {
+          "name": "Bobby V.",
+          "url": "https://open.spotify.com/artist/4HgF4KnohByNElYid7iCNb"
+        }
+      ],
+      "date_added": "2026-11-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 161120,
+      "name": "My Love",
+      "url": "https://open.spotify.com/track/4AlAnCEFRGkEce5Cm0gbJq"
+    },
+    {
+      "album": {
         "name": "My Sugar",
         "url": "https://open.spotify.com/album/0WQeKFYsWSLtnoAb30SjDW"
       },
@@ -4360,10 +4404,28 @@
       ],
       "date_added": "2026-11-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-27",
       "duration_ms": 145263,
       "name": "Nakupenda",
       "url": "https://open.spotify.com/track/2f8p5z0EA3oNDG7FVtwLYc"
+    },
+    {
+      "album": {
+        "name": "Nakupenda",
+        "url": "https://open.spotify.com/album/0jQViRPRSqtAFdGfkJ5b9x"
+      },
+      "artists": [
+        {
+          "name": "Mavokali",
+          "url": "https://open.spotify.com/artist/5EIk6BWcEKUeHgmM0vD0cX"
+        }
+      ],
+      "date_added": "2026-11-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 145263,
+      "name": "Nakupenda",
+      "url": "https://open.spotify.com/track/6dhuF3ULDtKJe3HO50SGIn"
     },
     {
       "album": {

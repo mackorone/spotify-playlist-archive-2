@@ -2,7 +2,7 @@
 
 ### [Sucessos Gospel](https://open.spotify.com/playlist/37i9dQZF1DX0OEZC3cbQmU)
 
-> A palavra do Senhor na voz de grandes adoradores do Brasil\. Foto: Julliany Souza
+> A palavra do Senhor na voz de grandes adoradores do Brasil\. Foto: Get Worship
 
 222 songs - 23 hr 4 min
 

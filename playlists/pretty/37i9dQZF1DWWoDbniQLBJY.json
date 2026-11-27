@@ -1,6 +1,6 @@
 {
   "description": "Aqu\u00ed viven las ac\u00fasticas. Cover: Valentina Rico",
-  "num_followers": 1733589,
+  "num_followers": 1733352,
   "original_name": "Ac\u00fasticas",
   "owner": {
     "name": "Spotify",
@@ -475,22 +475,6 @@
     {
       "added_at": "2026-09-11 04:01:24",
       "album": {
-        "name": "Shakira MTV Unplugged",
-        "url": "https://open.spotify.com/album/3yQQUyIA3vRIRnB4rqtThe"
-      },
-      "artists": [
-        {
-          "name": "Shakira",
-          "url": "https://open.spotify.com/artist/0EmeFodog0BfCgMzAIvKQp"
-        }
-      ],
-      "duration_ms": 298773,
-      "name": "Estoy Aqu\u00ed - En Vivo",
-      "url": "https://open.spotify.com/track/1C4b2NM9ViU7PbCIA2PLVT"
-    },
-    {
-      "added_at": "2026-09-11 04:01:24",
-      "album": {
         "name": "La Llave De Mi Corazon",
         "url": "https://open.spotify.com/album/1xdl8xYY54gDXuTVhOxNSc"
       },
@@ -503,6 +487,22 @@
       "duration_ms": 162066,
       "name": "Si Tu No Bailas Conmigo",
       "url": "https://open.spotify.com/track/1Cbw6WMknPdct4PeOuUzJH"
+    },
+    {
+      "added_at": "2026-09-11 04:01:24",
+      "album": {
+        "name": "Shakira MTV Unplugged",
+        "url": "https://open.spotify.com/album/3yQQUyIA3vRIRnB4rqtThe"
+      },
+      "artists": [
+        {
+          "name": "Shakira",
+          "url": "https://open.spotify.com/artist/0EmeFodog0BfCgMzAIvKQp"
+        }
+      ],
+      "duration_ms": 298773,
+      "name": "Estoy Aqu\u00ed - En Vivo",
+      "url": "https://open.spotify.com/track/1C4b2NM9ViU7PbCIA2PLVT"
     },
     {
       "added_at": "2026-09-11 04:01:24",
@@ -687,6 +687,22 @@
     {
       "added_at": "2026-09-11 04:01:24",
       "album": {
+        "name": "Dimos Tanto",
+        "url": "https://open.spotify.com/album/1j3xpnB1UQmJgUTLtaVwEo"
+      },
+      "artists": [
+        {
+          "name": "El Toed",
+          "url": "https://open.spotify.com/artist/1FtiJnQyLN1nHqWz6ALjyh"
+        }
+      ],
+      "duration_ms": 189437,
+      "name": "Dimos Tanto",
+      "url": "https://open.spotify.com/track/797rLEGNwiTPnkpd1itDC9"
+    },
+    {
+      "added_at": "2026-09-11 04:01:24",
+      "album": {
         "name": "Natalia Lafourcade (Spotify Session)",
         "url": "https://open.spotify.com/album/0s9tY7YgGKtTxBuWPiJFFj"
       },
@@ -755,22 +771,6 @@
       "duration_ms": 195789,
       "name": "La \u00daltima Canci\u00f3n",
       "url": "https://open.spotify.com/track/0wKivXf3kIW91AtEll1Aqa"
-    },
-    {
-      "added_at": "2026-09-11 04:01:24",
-      "album": {
-        "name": "Dimos Tanto",
-        "url": "https://open.spotify.com/album/1j3xpnB1UQmJgUTLtaVwEo"
-      },
-      "artists": [
-        {
-          "name": "El Toed",
-          "url": "https://open.spotify.com/artist/1FtiJnQyLN1nHqWz6ALjyh"
-        }
-      ],
-      "duration_ms": 189437,
-      "name": "Dimos Tanto",
-      "url": "https://open.spotify.com/track/797rLEGNwiTPnkpd1itDC9"
     },
     {
       "added_at": "2026-09-11 04:01:24",
@@ -875,22 +875,6 @@
     {
       "added_at": "2026-09-11 04:01:24",
       "album": {
-        "name": "Despacito (Acoustic)",
-        "url": "https://open.spotify.com/album/1Pt8HB8WKl2eVAgE0MTMeB"
-      },
-      "artists": [
-        {
-          "name": "Aberola",
-          "url": "https://open.spotify.com/artist/0i3cbCgMSQS3tXMVFXoaTC"
-        }
-      ],
-      "duration_ms": 218108,
-      "name": "Despacito - Acoustic",
-      "url": "https://open.spotify.com/track/3tqRrUMHQ0y80CN58Xh0CT"
-    },
-    {
-      "added_at": "2026-09-11 04:01:24",
-      "album": {
         "name": "Acustico",
         "url": "https://open.spotify.com/album/7nWAePPkngD730y97WP8H1"
       },
@@ -907,6 +891,22 @@
       "duration_ms": 453893,
       "name": "Algo M\u00e1s (Versi\u00f3n Ac\u00fastica) (with Miguel Inzunza) - En Vivo",
       "url": "https://open.spotify.com/track/4lsQ95QbbWVlJYjsRxsOda"
+    },
+    {
+      "added_at": "2026-09-11 04:01:24",
+      "album": {
+        "name": "Despacito (Acoustic)",
+        "url": "https://open.spotify.com/album/1Pt8HB8WKl2eVAgE0MTMeB"
+      },
+      "artists": [
+        {
+          "name": "Aberola",
+          "url": "https://open.spotify.com/artist/0i3cbCgMSQS3tXMVFXoaTC"
+        }
+      ],
+      "duration_ms": 218108,
+      "name": "Despacito - Acoustic",
+      "url": "https://open.spotify.com/track/3tqRrUMHQ0y80CN58Xh0CT"
     },
     {
       "added_at": "2026-09-11 04:01:24",
@@ -963,22 +963,6 @@
     {
       "added_at": "2026-09-11 04:01:24",
       "album": {
-        "name": "Un Chingo",
-        "url": "https://open.spotify.com/album/5JvTVY2AYNpX6g4KIXzkdT"
-      },
-      "artists": [
-        {
-          "name": "Carlos Neda",
-          "url": "https://open.spotify.com/artist/05zc3wphPHwr407CCUbSk9"
-        }
-      ],
-      "duration_ms": 177285,
-      "name": "Un Chingo",
-      "url": "https://open.spotify.com/track/7nIMGS6kTXvlci76i6neKb"
-    },
-    {
-      "added_at": "2026-09-11 04:01:24",
-      "album": {
         "name": "Am\u00e9 (demo original)",
         "url": "https://open.spotify.com/album/6qRHfBZ4IOPG4CSsUMdqoE"
       },
@@ -991,6 +975,22 @@
       "duration_ms": 205197,
       "name": "Am\u00e9 - demo original",
       "url": "https://open.spotify.com/track/5FOEWRyZ9xwJwRlHmIaftH"
+    },
+    {
+      "added_at": "2026-09-11 04:01:24",
+      "album": {
+        "name": "Un Chingo",
+        "url": "https://open.spotify.com/album/5JvTVY2AYNpX6g4KIXzkdT"
+      },
+      "artists": [
+        {
+          "name": "Carlos Neda",
+          "url": "https://open.spotify.com/artist/05zc3wphPHwr407CCUbSk9"
+        }
+      ],
+      "duration_ms": 177285,
+      "name": "Un Chingo",
+      "url": "https://open.spotify.com/track/7nIMGS6kTXvlci76i6neKb"
     },
     {
       "added_at": "2026-09-11 04:01:24",
@@ -1255,22 +1255,6 @@
     {
       "added_at": "2026-09-11 04:01:24",
       "album": {
-        "name": "Roto",
-        "url": "https://open.spotify.com/album/5763P0o9ruO8OZ4Dwey7sf"
-      },
-      "artists": [
-        {
-          "name": "KURT",
-          "url": "https://open.spotify.com/artist/4kcnsS1aAB40FMcLD01gmI"
-        }
-      ],
-      "duration_ms": 165760,
-      "name": "Roto",
-      "url": "https://open.spotify.com/track/5muxDDRz7Y1m9leVgwTUrD"
-    },
-    {
-      "added_at": "2026-09-11 04:01:24",
-      "album": {
         "name": "No Valgo Pa' Ciudad",
         "url": "https://open.spotify.com/album/6inO88KEzGOsZxOYAvRsr2"
       },
@@ -1287,6 +1271,22 @@
     {
       "added_at": "2026-09-11 04:01:24",
       "album": {
+        "name": "Roto",
+        "url": "https://open.spotify.com/album/5763P0o9ruO8OZ4Dwey7sf"
+      },
+      "artists": [
+        {
+          "name": "KURT",
+          "url": "https://open.spotify.com/artist/4kcnsS1aAB40FMcLD01gmI"
+        }
+      ],
+      "duration_ms": 165760,
+      "name": "Roto",
+      "url": "https://open.spotify.com/track/5muxDDRz7Y1m9leVgwTUrD"
+    },
+    {
+      "added_at": "2026-09-11 04:01:24",
+      "album": {
         "name": "Mis Favoritas",
         "url": "https://open.spotify.com/album/0COUHCrbpLcVNCI8ITVMhi"
       },
@@ -1299,22 +1299,6 @@
       "duration_ms": 281640,
       "name": "No Lo So\u00f1\u00e9 - Version Acustico",
       "url": "https://open.spotify.com/track/6chtkBSmt7RorTFD8EQtXx"
-    },
-    {
-      "added_at": "2026-09-11 04:01:24",
-      "album": {
-        "name": "X Aqu\u00ed X All\u00e1 (Acustico)",
-        "url": "https://open.spotify.com/album/1fnwRevrGaRoY5MSmfOBVO"
-      },
-      "artists": [
-        {
-          "name": "CACERES",
-          "url": "https://open.spotify.com/artist/2hh9vTDXej21Upds5nlJTn"
-        }
-      ],
-      "duration_ms": 190628,
-      "name": "X Aqu\u00ed X All\u00e1 - Acustico",
-      "url": "https://open.spotify.com/track/648QMpSfKf72WwwvG3fKL5"
     },
     {
       "added_at": "2026-09-11 04:01:24",
@@ -1339,6 +1323,22 @@
     {
       "added_at": "2026-09-11 04:01:24",
       "album": {
+        "name": "X Aqu\u00ed X All\u00e1 (Acustico)",
+        "url": "https://open.spotify.com/album/1fnwRevrGaRoY5MSmfOBVO"
+      },
+      "artists": [
+        {
+          "name": "CACERES",
+          "url": "https://open.spotify.com/artist/2hh9vTDXej21Upds5nlJTn"
+        }
+      ],
+      "duration_ms": 190628,
+      "name": "X Aqu\u00ed X All\u00e1 - Acustico",
+      "url": "https://open.spotify.com/track/648QMpSfKf72WwwvG3fKL5"
+    },
+    {
+      "added_at": "2026-09-11 04:01:24",
+      "album": {
         "name": "Souvenir (Ac\u00fastico)",
         "url": "https://open.spotify.com/album/5SY3H12qUEisZPFwdDliJY"
       },
@@ -1355,6 +1355,22 @@
       "duration_ms": 198213,
       "name": "Souvenir - Ac\u00fastico",
       "url": "https://open.spotify.com/track/7DdrGHH2WVJE5mu8shi6If"
+    },
+    {
+      "added_at": "2026-09-11 04:01:24",
+      "album": {
+        "name": "Underdog (Acoustic Version)",
+        "url": "https://open.spotify.com/album/29Tp5smvItl2ghk03OAsZP"
+      },
+      "artists": [
+        {
+          "name": "Alicia Keys",
+          "url": "https://open.spotify.com/artist/3DiDSECUqqY1AuBP8qtaIa"
+        }
+      ],
+      "duration_ms": 210848,
+      "name": "Underdog - Acoustic Version",
+      "url": "https://open.spotify.com/track/4IbaDX0qm36Oiu0kdoq8Wb"
     },
     {
       "added_at": "2026-09-11 04:01:24",
@@ -1379,22 +1395,6 @@
       "duration_ms": 250259,
       "name": "DE SASTRE",
       "url": "https://open.spotify.com/track/4UQ70VRSltB7PLBTXcvxtv"
-    },
-    {
-      "added_at": "2026-09-11 04:01:24",
-      "album": {
-        "name": "Underdog (Acoustic Version)",
-        "url": "https://open.spotify.com/album/29Tp5smvItl2ghk03OAsZP"
-      },
-      "artists": [
-        {
-          "name": "Alicia Keys",
-          "url": "https://open.spotify.com/artist/3DiDSECUqqY1AuBP8qtaIa"
-        }
-      ],
-      "duration_ms": 210848,
-      "name": "Underdog - Acoustic Version",
-      "url": "https://open.spotify.com/track/4IbaDX0qm36Oiu0kdoq8Wb"
     },
     {
       "added_at": "2026-09-11 04:01:24",
@@ -1603,22 +1603,6 @@
     {
       "added_at": "2026-09-11 04:01:24",
       "album": {
-        "name": "La Vida",
-        "url": "https://open.spotify.com/album/0cvBa5BALdQpnrc1W0GZLs"
-      },
-      "artists": [
-        {
-          "name": "KURT",
-          "url": "https://open.spotify.com/artist/4kcnsS1aAB40FMcLD01gmI"
-        }
-      ],
-      "duration_ms": 174106,
-      "name": "Amanec\u00ed Nublado",
-      "url": "https://open.spotify.com/track/2K6QLnzA48e8G1fqR6RTYV"
-    },
-    {
-      "added_at": "2026-09-11 04:01:24",
-      "album": {
         "name": "Matadero 5 (Live)",
         "url": "https://open.spotify.com/album/3paLi9xpW1JqE1BdBSaB2V"
       },
@@ -1631,6 +1615,22 @@
       "duration_ms": 152355,
       "name": "Cuando Se Apaga la Luz (Live)",
       "url": "https://open.spotify.com/track/5pdCo4Yix1Z81XC5saZ7FI"
+    },
+    {
+      "added_at": "2026-09-11 04:01:24",
+      "album": {
+        "name": "La Vida",
+        "url": "https://open.spotify.com/album/0cvBa5BALdQpnrc1W0GZLs"
+      },
+      "artists": [
+        {
+          "name": "KURT",
+          "url": "https://open.spotify.com/artist/4kcnsS1aAB40FMcLD01gmI"
+        }
+      ],
+      "duration_ms": 174106,
+      "name": "Amanec\u00ed Nublado",
+      "url": "https://open.spotify.com/track/2K6QLnzA48e8G1fqR6RTYV"
     },
     {
       "added_at": "2026-09-11 04:01:24",
@@ -1695,22 +1695,6 @@
     {
       "added_at": "2026-09-11 04:01:24",
       "album": {
-        "name": "En Medio De Este Ruido",
-        "url": "https://open.spotify.com/album/5P1JlJLQHC5YqZEXBZtmjf"
-      },
-      "artists": [
-        {
-          "name": "KURT",
-          "url": "https://open.spotify.com/artist/4kcnsS1aAB40FMcLD01gmI"
-        }
-      ],
-      "duration_ms": 247213,
-      "name": "En Medio De Este Ruido",
-      "url": "https://open.spotify.com/track/1HnsGkbzPZDV0yuI0iVbPw"
-    },
-    {
-      "added_at": "2026-09-11 04:01:24",
-      "album": {
         "name": "enero (versi\u00f3n ac\u00fastica)",
         "url": "https://open.spotify.com/album/5INUocHzw5QksKPVfVrLeg"
       },
@@ -1727,6 +1711,22 @@
       "duration_ms": 206143,
       "name": "enero - versi\u00f3n ac\u00fastica",
       "url": "https://open.spotify.com/track/0giE6nExgeUPqt66IT1Vkr"
+    },
+    {
+      "added_at": "2026-09-11 04:01:24",
+      "album": {
+        "name": "En Medio De Este Ruido",
+        "url": "https://open.spotify.com/album/5P1JlJLQHC5YqZEXBZtmjf"
+      },
+      "artists": [
+        {
+          "name": "KURT",
+          "url": "https://open.spotify.com/artist/4kcnsS1aAB40FMcLD01gmI"
+        }
+      ],
+      "duration_ms": 247213,
+      "name": "En Medio De Este Ruido",
+      "url": "https://open.spotify.com/track/1HnsGkbzPZDV0yuI0iVbPw"
     },
     {
       "added_at": "2026-09-11 04:01:24",

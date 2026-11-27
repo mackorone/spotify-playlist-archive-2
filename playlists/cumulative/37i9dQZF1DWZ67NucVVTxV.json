@@ -3804,7 +3804,7 @@
       ],
       "date_added": "2026-11-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-27",
       "duration_ms": 143669,
       "name": "Check Up",
       "url": "https://open.spotify.com/track/7vxljyUUjPsbXv6loi0dj7"
@@ -10981,6 +10981,24 @@
     },
     {
       "album": {
+        "name": "Me Gan Gan",
+        "url": "https://open.spotify.com/album/2QlestZIkkfUAdgsnEnPH0"
+      },
+      "artists": [
+        {
+          "name": "EF Moon",
+          "url": "https://open.spotify.com/artist/0fFQ89LOIU2Bc8bRacEyv9"
+        }
+      ],
+      "date_added": "2026-11-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 141762,
+      "name": "Me Gan Gan",
+      "url": "https://open.spotify.com/track/11FIkIgmpU9IViyh7li1gZ"
+    },
+    {
+      "album": {
         "name": "MEGA MONEY MEGA",
         "url": "https://open.spotify.com/album/77bphBtAaaTCuM7pkFO7YV"
       },
@@ -14320,7 +14338,7 @@
       ],
       "date_added": "2026-11-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-27",
       "duration_ms": 164728,
       "name": "Pick Up",
       "url": "https://open.spotify.com/track/087qFAqKnIwtDfWbFImzOd"
@@ -15436,6 +15454,24 @@
       "duration_ms": 211320,
       "name": "Roadman",
       "url": "https://open.spotify.com/track/1vAvrkdedqfcFVm6cLfZBe"
+    },
+    {
+      "album": {
+        "name": "Rockstar",
+        "url": "https://open.spotify.com/album/2j7kM4h23tPBbNEKrxgGjH"
+      },
+      "artists": [
+        {
+          "name": "Yedika",
+          "url": "https://open.spotify.com/artist/0SzHZFIFLpRQwGde6xhXBp"
+        }
+      ],
+      "date_added": "2026-11-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 179120,
+      "name": "Rockstar",
+      "url": "https://open.spotify.com/track/2L2sCi5xRaK7oXumD9NMgx"
     },
     {
       "album": {

@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2024-07-02",
-  "description": "unearthing music that makes life feel interesting, featuring untitled (halo)",
+  "description": "unearthing music that makes life feel interesting, featuring studio20",
   "name": "melomania",
   "tracks": [
     {
@@ -693,6 +693,24 @@
     },
     {
       "album": {
+        "name": "Angels Hide (Their Faces)",
+        "url": "https://open.spotify.com/album/44JRYXwQu4sEUjOHeM6iHG"
+      },
+      "artists": [
+        {
+          "name": "Legss",
+          "url": "https://open.spotify.com/artist/6qSC5s99fwbkvyWzRqws4F"
+        }
+      ],
+      "date_added": "2026-11-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 245866,
+      "name": "Angels Hide (Their Faces)",
+      "url": "https://open.spotify.com/track/4ITaOuZQlM3SNbLz5y9NBv"
+    },
+    {
+      "album": {
         "name": "Anger",
         "url": "https://open.spotify.com/album/5RQTl5CeOw0ZgodtWqdGZB"
       },
@@ -1036,6 +1054,24 @@
       "duration_ms": 208948,
       "name": "bald heads crackin",
       "url": "https://open.spotify.com/track/0EuoI75ePFQi6WySQfi7rL"
+    },
+    {
+      "album": {
+        "name": "Band",
+        "url": "https://open.spotify.com/album/2MmlbUxJqM7FC49KIURRsq"
+      },
+      "artists": [
+        {
+          "name": "haloplus+",
+          "url": "https://open.spotify.com/artist/224oiUpyCYmxo3WJQW3EPB"
+        }
+      ],
+      "date_added": "2026-11-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 158959,
+      "name": "Band",
+      "url": "https://open.spotify.com/track/2Gz4c8wVrfpIq0eJHXz91p"
     },
     {
       "album": {
@@ -1614,10 +1650,28 @@
       ],
       "date_added": "2026-07-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-27",
       "duration_ms": 153901,
       "name": "Bonny",
       "url": "https://open.spotify.com/track/7I2KJqvAvV909vi7w2LFOM"
+    },
+    {
+      "album": {
+        "name": "Hero Weak Thing",
+        "url": "https://open.spotify.com/album/5fNDjJAw9MrZJ22LKUrhUl"
+      },
+      "artists": [
+        {
+          "name": "Hank",
+          "url": "https://open.spotify.com/artist/0yRKzgUID7XrB6LoWCstJK"
+        }
+      ],
+      "date_added": "2026-11-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 215146,
+      "name": "Bop It",
+      "url": "https://open.spotify.com/track/05pQk7akq0UW5jNtSTwp63"
     },
     {
       "album": {
@@ -1932,7 +1986,7 @@
       ],
       "date_added": "2026-09-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-27",
       "duration_ms": 200106,
       "name": "Carried Away",
       "url": "https://open.spotify.com/track/75F4TSKg87eYFHFKdnpN8s"
@@ -2696,7 +2750,7 @@
       ],
       "date_added": "2026-09-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-27",
       "duration_ms": 228574,
       "name": "Dancefloor Magic - Groove Wizard",
       "url": "https://open.spotify.com/track/1l0ggF69SYlhSKOMNRGwzE"
@@ -2812,6 +2866,24 @@
       "duration_ms": 230150,
       "name": "Death Lurking (feat. Izzy Da Fonseca)",
       "url": "https://open.spotify.com/track/4Gn8QeUyrAgDXegt6XVVBX"
+    },
+    {
+      "album": {
+        "name": "Degrees of Freedom",
+        "url": "https://open.spotify.com/album/1E4Svl23nRS2uO2iL3qri0"
+      },
+      "artists": [
+        {
+          "name": "Mandrake Handshake",
+          "url": "https://open.spotify.com/artist/3tW2ocpP6a9HqZoWgn45kn"
+        }
+      ],
+      "date_added": "2026-11-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 251250,
+      "name": "Degrees Of Freedom - Radio Edit",
+      "url": "https://open.spotify.com/track/7gtHzl50EKf4GvZfSDpIwv"
     },
     {
       "album": {
@@ -3457,6 +3529,24 @@
     },
     {
       "album": {
+        "name": "Given to the Night",
+        "url": "https://open.spotify.com/album/6FHAfylmNrnSkC5M19aqia"
+      },
+      "artists": [
+        {
+          "name": "Purple Pilgrims",
+          "url": "https://open.spotify.com/artist/10jJPAsjoKNz6T9P1M5lJ7"
+        }
+      ],
+      "date_added": "2026-11-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 237222,
+      "name": "Echo",
+      "url": "https://open.spotify.com/track/5qpcbaU2lqYwbXgthj19by"
+    },
+    {
+      "album": {
         "name": "Echoes",
         "url": "https://open.spotify.com/album/0IB09v85OkHqvsjKABzKwt"
       },
@@ -3965,6 +4055,24 @@
     },
     {
       "album": {
+        "name": "Star's Revenge II",
+        "url": "https://open.spotify.com/album/5bKzQ05WOEEpPKx7f58NMx"
+      },
+      "artists": [
+        {
+          "name": "Star's Revenge",
+          "url": "https://open.spotify.com/artist/12lX7OtfVkJ0HiFdkOM7IX"
+        }
+      ],
+      "date_added": "2026-11-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 128008,
+      "name": "Fine Line",
+      "url": "https://open.spotify.com/track/76dbuW1OcyOQiuqAyMPBWh"
+    },
+    {
+      "album": {
         "name": "Fish",
         "url": "https://open.spotify.com/album/2DJdRA9iqPWAMOsqFBEOk2"
       },
@@ -4340,6 +4448,24 @@
       "duration_ms": 203167,
       "name": "Gasoline",
       "url": "https://open.spotify.com/track/1sAbFyl5tkdQyMBPNRjjVl"
+    },
+    {
+      "album": {
+        "name": "Georgie",
+        "url": "https://open.spotify.com/album/5tyRTg4zzPC6eLzm9ZczHG"
+      },
+      "artists": [
+        {
+          "name": "L'OBJECTIF",
+          "url": "https://open.spotify.com/artist/7dB5TtNG9BHNj4QCfS0SQg"
+        }
+      ],
+      "date_added": "2026-11-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 283739,
+      "name": "Georgie",
+      "url": "https://open.spotify.com/track/0ZHo3nQBTnCcXGE4nM1Cjo"
     },
     {
       "album": {
@@ -4754,7 +4880,7 @@
       ],
       "date_added": "2026-09-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-27",
       "duration_ms": 178733,
       "name": "Gum (EM)",
       "url": "https://open.spotify.com/track/1S1WyMdqivQkZooA7vwIHP"
@@ -5090,6 +5216,24 @@
       "duration_ms": 363918,
       "name": "Hit My Head All Day",
       "url": "https://open.spotify.com/track/0JIKmYZmtDKqXAU37ZqwbN"
+    },
+    {
+      "album": {
+        "name": "Hole In My Heart",
+        "url": "https://open.spotify.com/album/3XBltEoNHM3cP2b6Ijlizw"
+      },
+      "artists": [
+        {
+          "name": "Wyatt",
+          "url": "https://open.spotify.com/artist/4SLgQO3VSUSc9prFr4OEmU"
+        }
+      ],
+      "date_added": "2026-11-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 256422,
+      "name": "Hole In My Heart",
+      "url": "https://open.spotify.com/track/2bHjNfdVnjQVlL6Utnz2z8"
     },
     {
       "album": {
@@ -5644,7 +5788,7 @@
       ],
       "date_added": "2026-07-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-27",
       "duration_ms": 261651,
       "name": "Indu",
       "url": "https://open.spotify.com/track/6cZ3PHOCMsI9ZPyDhmZk7Q"
@@ -5734,7 +5878,7 @@
       ],
       "date_added": "2026-07-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-27",
       "duration_ms": 343944,
       "name": "Isn't He Funny?",
       "url": "https://open.spotify.com/track/4RLCHXFRTWiAYUhdacWmSx"
@@ -6371,6 +6515,24 @@
     },
     {
       "album": {
+        "name": "Last song i sing",
+        "url": "https://open.spotify.com/album/2EaMewgRhSXHb4cEHdugvL"
+      },
+      "artists": [
+        {
+          "name": "Pollyfromthedirt",
+          "url": "https://open.spotify.com/artist/3mNIIIyyVyJvCeO3ZpqlpM"
+        }
+      ],
+      "date_added": "2026-11-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 219204,
+      "name": "Last song i sing",
+      "url": "https://open.spotify.com/track/6GKrqFUnbzWhk20QTqMAUN"
+    },
+    {
+      "album": {
         "name": "Laugh Track",
         "url": "https://open.spotify.com/album/76juKkE8ehhDiFG8dc6VN8"
       },
@@ -6400,7 +6562,7 @@
       ],
       "date_added": "2026-08-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-27",
       "duration_ms": 213186,
       "name": "Lay on Plastic Moment",
       "url": "https://open.spotify.com/track/6mOHiBCtC0EzimRRniKilA"
@@ -6840,7 +7002,7 @@
       ],
       "date_added": "2026-09-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-27",
       "duration_ms": 200587,
       "name": "Love You Better",
       "url": "https://open.spotify.com/track/0OAZvY29RSoHwzfUuSHrvv"
@@ -10102,7 +10264,7 @@
       ],
       "date_added": "2026-07-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-27",
       "duration_ms": 285183,
       "name": "Something Else to Give",
       "url": "https://open.spotify.com/track/2LGum1EJPchyr2HK9Kln8P"
@@ -10160,6 +10322,24 @@
       "duration_ms": 213688,
       "name": "Something To Be Said",
       "url": "https://open.spotify.com/track/3mlG7ROtnYEYhUiHw9fIYG"
+    },
+    {
+      "album": {
+        "name": "sometimes memory fails me sometimes",
+        "url": "https://open.spotify.com/album/6PhYPDKJaoSqLXXAABbg1K"
+      },
+      "artists": [
+        {
+          "name": "if i was a pony",
+          "url": "https://open.spotify.com/artist/3t3zwTenPUimx09zxB0hRA"
+        }
+      ],
+      "date_added": "2026-11-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 196721,
+      "name": "sometimes memory fails me sometimes",
+      "url": "https://open.spotify.com/track/1jyRl8bzrzFVJMintuOrv2"
     },
     {
       "album": {
@@ -10574,7 +10754,7 @@
       ],
       "date_added": "2026-08-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-27",
       "duration_ms": 165349,
       "name": "Streetlights",
       "url": "https://open.spotify.com/track/1IsY2z3JN7QTunKn1pSdZ9"
@@ -10690,6 +10870,24 @@
       "duration_ms": 145732,
       "name": "Sugar Sandwich",
       "url": "https://open.spotify.com/track/0YjWw115kqMWebWvXKC7is"
+    },
+    {
+      "album": {
+        "name": "Everything You Need",
+        "url": "https://open.spotify.com/album/1MURnOdIa8uVtia2vhx0dP"
+      },
+      "artists": [
+        {
+          "name": "Will Bryant",
+          "url": "https://open.spotify.com/artist/2uJRUFEELBSNirlF7oFHea"
+        }
+      ],
+      "date_added": "2026-11-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 246852,
+      "name": "Sunday League",
+      "url": "https://open.spotify.com/track/1UVS4Mf35Thg9MTg8U3OtQ"
     },
     {
       "album": {
@@ -10888,7 +11086,7 @@
       ],
       "date_added": "2026-08-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-27",
       "duration_ms": 253990,
       "name": "teeth",
       "url": "https://open.spotify.com/track/3M0znkPqbu7s2h4V89FzD7"
@@ -11742,7 +11940,7 @@
       ],
       "date_added": "2026-09-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-27",
       "duration_ms": 232600,
       "name": "Tiny Feet",
       "url": "https://open.spotify.com/track/1KxJm5O2UqytGxbtG5NtzK"
@@ -12664,6 +12862,24 @@
       "duration_ms": 232047,
       "name": "Winner",
       "url": "https://open.spotify.com/track/21GMGZQQ0MhG5mTe7cvs2Y"
+    },
+    {
+      "album": {
+        "name": "Wish I Still Knew / Penny Drop",
+        "url": "https://open.spotify.com/album/3xCLo6Yzij7AgUhm9l0PST"
+      },
+      "artists": [
+        {
+          "name": "studio20",
+          "url": "https://open.spotify.com/artist/2RLTzU6T70BdbKDd7Fcata"
+        }
+      ],
+      "date_added": "2026-11-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 258458,
+      "name": "Wish I Still Knew",
+      "url": "https://open.spotify.com/track/1SXaWMqiAKtNsnLgLjEBcD"
     },
     {
       "album": {

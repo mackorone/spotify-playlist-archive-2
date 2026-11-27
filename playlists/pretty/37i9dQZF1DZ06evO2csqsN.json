@@ -1,12 +1,12 @@
 {
   "description": "This is Latto. The essential tracks, all in one playlist.",
-  "num_followers": 42165,
+  "num_followers": 42166,
   "original_name": "This Is Latto",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "awOCAAAAAABDlCUTg4ceVCSb0okfSQp3",
+  "snapshot_id": "awYlAAAAAAD9GT/pN80532ijBAes9kZP",
   "tracks": [
     {
       "added_at": null,
@@ -359,6 +359,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Sugar Honey Iced Tea",
+        "url": "https://open.spotify.com/album/1S9LGRodo5jsXGsMeVaYNp"
+      },
+      "artists": [
+        {
+          "name": "Latto",
+          "url": "https://open.spotify.com/artist/3MdXrJWsbVzdn6fe5JYkSQ"
+        }
+      ],
+      "duration_ms": 147013,
+      "name": "Georgia Peach",
+      "url": "https://open.spotify.com/track/3UidcB20Bb0f9WGZ08TNCL"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "I Just Called",
         "url": "https://open.spotify.com/album/4Qq3n68D2ktEi0eHFMdpSp"
       },
@@ -379,22 +395,6 @@
       "duration_ms": 150560,
       "name": "I Just Called",
       "url": "https://open.spotify.com/track/0H8Tclo4x4kbZruQtZFNSX"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Sugar Honey Iced Tea",
-        "url": "https://open.spotify.com/album/1S9LGRodo5jsXGsMeVaYNp"
-      },
-      "artists": [
-        {
-          "name": "Latto",
-          "url": "https://open.spotify.com/artist/3MdXrJWsbVzdn6fe5JYkSQ"
-        }
-      ],
-      "duration_ms": 147013,
-      "name": "Georgia Peach",
-      "url": "https://open.spotify.com/track/3UidcB20Bb0f9WGZ08TNCL"
     },
     {
       "added_at": null,
@@ -527,8 +527,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "777",
-        "url": "https://open.spotify.com/album/4vjE6Rgl5z6K2PhrAtIA7O"
+        "name": "No Hook",
+        "url": "https://open.spotify.com/album/0hyrMfQMMX09fOOsnOuhQ8"
       },
       "artists": [
         {
@@ -536,9 +536,9 @@
           "url": "https://open.spotify.com/artist/3MdXrJWsbVzdn6fe5JYkSQ"
         }
       ],
-      "duration_ms": 80006,
-      "name": "777 Pt. 1",
-      "url": "https://open.spotify.com/track/4vUeHbV4moHsvwqdwZNEQo"
+      "duration_ms": 103488,
+      "name": "No Hook",
+      "url": "https://open.spotify.com/track/5HyUymevRIBqIlHfmup8Sz"
     },
     {
       "added_at": null,
@@ -563,22 +563,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "No Hook",
-        "url": "https://open.spotify.com/album/0hyrMfQMMX09fOOsnOuhQ8"
-      },
-      "artists": [
-        {
-          "name": "Latto",
-          "url": "https://open.spotify.com/artist/3MdXrJWsbVzdn6fe5JYkSQ"
-        }
-      ],
-      "duration_ms": 103488,
-      "name": "No Hook",
-      "url": "https://open.spotify.com/track/5HyUymevRIBqIlHfmup8Sz"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "GLORIOUS",
         "url": "https://open.spotify.com/album/4dUAojdnh5Bcho1n8bPSO0"
       },
@@ -599,8 +583,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Queen of Da Souf",
-        "url": "https://open.spotify.com/album/1HOYLdaWocKi1YGveli9kF"
+        "name": "777",
+        "url": "https://open.spotify.com/album/4vjE6Rgl5z6K2PhrAtIA7O"
       },
       "artists": [
         {
@@ -608,25 +592,9 @@
           "url": "https://open.spotify.com/artist/3MdXrJWsbVzdn6fe5JYkSQ"
         }
       ],
-      "duration_ms": 113237,
-      "name": "On God",
-      "url": "https://open.spotify.com/track/7ySc8EB354qhPQKmOw4td0"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Big Mama",
-        "url": "https://open.spotify.com/album/517YiqpjVOJnbd3Znp6awe"
-      },
-      "artists": [
-        {
-          "name": "Latto",
-          "url": "https://open.spotify.com/artist/3MdXrJWsbVzdn6fe5JYkSQ"
-        }
-      ],
-      "duration_ms": 181586,
-      "name": "Get Money Girl",
-      "url": "https://open.spotify.com/track/6etwTzZtI9L64TYpfdOK0j"
+      "duration_ms": 80006,
+      "name": "777 Pt. 1",
+      "url": "https://open.spotify.com/track/4vUeHbV4moHsvwqdwZNEQo"
     },
     {
       "added_at": null,
@@ -651,6 +619,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Big Mama",
+        "url": "https://open.spotify.com/album/517YiqpjVOJnbd3Znp6awe"
+      },
+      "artists": [
+        {
+          "name": "Latto",
+          "url": "https://open.spotify.com/artist/3MdXrJWsbVzdn6fe5JYkSQ"
+        }
+      ],
+      "duration_ms": 181586,
+      "name": "Get Money Girl",
+      "url": "https://open.spotify.com/track/6etwTzZtI9L64TYpfdOK0j"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Sunday Service",
         "url": "https://open.spotify.com/album/5ayh7q1xq1jFa3QsmE3M7n"
       },
@@ -667,8 +651,28 @@
     {
       "added_at": null,
       "album": {
-        "name": "Business & Personal (Intro)",
-        "url": "https://open.spotify.com/album/5N4cdVzzsQFrw6qleGwPBr"
+        "name": "Grand Theft Auto VI: The Album (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/2O7j5mKjiyJRLNUo4RZKzs"
+      },
+      "artists": [
+        {
+          "name": "Latto",
+          "url": "https://open.spotify.com/artist/3MdXrJWsbVzdn6fe5JYkSQ"
+        },
+        {
+          "name": "Flo Milli",
+          "url": "https://open.spotify.com/artist/08PvCOlef4xdOr20jFSTPd"
+        }
+      ],
+      "duration_ms": 147400,
+      "name": "50 Bands (feat. Flo Milli)",
+      "url": "https://open.spotify.com/track/5nPhdydAsaYyTRvOUrUdDD"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Sugar Honey Iced Tea",
+        "url": "https://open.spotify.com/album/1S9LGRodo5jsXGsMeVaYNp"
       },
       "artists": [
         {
@@ -676,9 +680,9 @@
           "url": "https://open.spotify.com/artist/3MdXrJWsbVzdn6fe5JYkSQ"
         }
       ],
-      "duration_ms": 260799,
-      "name": "Business & Personal (Intro)",
-      "url": "https://open.spotify.com/track/7MuSU4AjQ9yW9Jl6eFIPTW"
+      "duration_ms": 146893,
+      "name": "H&M",
+      "url": "https://open.spotify.com/track/1KhUaRnlArqC9MxvUfk8Tb"
     },
     {
       "added_at": null,
@@ -699,8 +703,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Sugar Honey Iced Tea",
-        "url": "https://open.spotify.com/album/1S9LGRodo5jsXGsMeVaYNp"
+        "name": "Queen of Da Souf",
+        "url": "https://open.spotify.com/album/1HOYLdaWocKi1YGveli9kF"
       },
       "artists": [
         {
@@ -708,9 +712,25 @@
           "url": "https://open.spotify.com/artist/3MdXrJWsbVzdn6fe5JYkSQ"
         }
       ],
-      "duration_ms": 146893,
-      "name": "H&M",
-      "url": "https://open.spotify.com/track/1KhUaRnlArqC9MxvUfk8Tb"
+      "duration_ms": 113237,
+      "name": "On God",
+      "url": "https://open.spotify.com/track/7ySc8EB354qhPQKmOw4td0"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Business & Personal (Intro)",
+        "url": "https://open.spotify.com/album/5N4cdVzzsQFrw6qleGwPBr"
+      },
+      "artists": [
+        {
+          "name": "Latto",
+          "url": "https://open.spotify.com/artist/3MdXrJWsbVzdn6fe5JYkSQ"
+        }
+      ],
+      "duration_ms": 260799,
+      "name": "Business & Personal (Intro)",
+      "url": "https://open.spotify.com/track/7MuSU4AjQ9yW9Jl6eFIPTW"
     },
     {
       "added_at": null,
@@ -959,26 +979,6 @@
       "duration_ms": 153000,
       "name": "It's Givin",
       "url": "https://open.spotify.com/track/5h9dlUlCGZahkuaC3MShz3"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Official FIFA World Cup 2026\u2122 Album",
-        "url": "https://open.spotify.com/album/3cLao7JVaEFsplFdY8TkJT"
-      },
-      "artists": [
-        {
-          "name": "Ayra Starr",
-          "url": "https://open.spotify.com/artist/3ZpEKRjHaHANcpk10u6Ntq"
-        },
-        {
-          "name": "Latto",
-          "url": "https://open.spotify.com/artist/3MdXrJWsbVzdn6fe5JYkSQ"
-        }
-      ],
-      "duration_ms": 207840,
-      "name": "Show Me",
-      "url": "https://open.spotify.com/track/1g516K680WWGh6JFeYJkd0"
     }
   ],
   "unique_name": "This Is Latto",

@@ -4314,7 +4314,7 @@
       ],
       "date_added": "2026-10-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-27",
       "duration_ms": 163764,
       "name": "Dedo no Gatilho",
       "url": "https://open.spotify.com/track/3wZMF4qdGh3wQoPi4dFuGa"
@@ -6718,7 +6718,7 @@
       ],
       "date_added": "2026-06-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-27",
       "duration_ms": 131615,
       "name": "Foca em mim - Spotify Singles",
       "url": "https://open.spotify.com/track/3H6MZFtzwidLB7bKKaDZe7"
@@ -8376,6 +8376,52 @@
       "duration_ms": 130285,
       "name": "JA FAZEM HORAS",
       "url": "https://open.spotify.com/track/3ktjRiYWnKIJv277yiaDGC"
+    },
+    {
+      "album": {
+        "name": "Jacob & Co 2",
+        "url": "https://open.spotify.com/album/2hCEsk4H3yJTCJskCMJvUk"
+      },
+      "artists": [
+        {
+          "name": "MC Vinny",
+          "url": "https://open.spotify.com/artist/0dNyaMJp0r9zBYG86JgRDI"
+        },
+        {
+          "name": "Mc IG",
+          "url": "https://open.spotify.com/artist/2q9wk5fkeU2C9CgCKdh4AN"
+        },
+        {
+          "name": "Mc Kadu",
+          "url": "https://open.spotify.com/artist/21ELc2P2rA3Cu6xw3VWqvv"
+        },
+        {
+          "name": "Dj GM",
+          "url": "https://open.spotify.com/artist/03PnQHlbH5nDDVX3hNg628"
+        },
+        {
+          "name": "DJ SM OFICIAL",
+          "url": "https://open.spotify.com/artist/3P5zTIzigTqkP9NNbtnLnE"
+        },
+        {
+          "name": "MC Cebezinho",
+          "url": "https://open.spotify.com/artist/5Dz2FizMLqV0Cr3c8uhEcF"
+        },
+        {
+          "name": "MC Paulin da Capital",
+          "url": "https://open.spotify.com/artist/592JnViQ2tot63c1SbtgK2"
+        },
+        {
+          "name": "MC Renan R5",
+          "url": "https://open.spotify.com/artist/5o5BaAi3y2xVodfP4h4p0n"
+        }
+      ],
+      "date_added": "2026-11-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 410875,
+      "name": "Jacob & Co 2",
+      "url": "https://open.spotify.com/track/0USgFRh15sZ6swJ3jvxxXy"
     },
     {
       "album": {
@@ -14126,6 +14172,28 @@
       "duration_ms": 154789,
       "name": "Porsche \"Ye Yo\"",
       "url": "https://open.spotify.com/track/7jpS4vYcLObK2YtcXjgwEO"
+    },
+    {
+      "album": {
+        "name": "ZAZA",
+        "url": "https://open.spotify.com/album/4wUsPVUyVmpw52IqkWfClM"
+      },
+      "artists": [
+        {
+          "name": "IZA",
+          "url": "https://open.spotify.com/artist/3zgnrYIltMkgeejmvMCnes"
+        },
+        {
+          "name": "Duquesa",
+          "url": "https://open.spotify.com/artist/1JlC6XG7lkwT6GzgQB9xOx"
+        }
+      ],
+      "date_added": "2026-11-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 264000,
+      "name": "Postura",
+      "url": "https://open.spotify.com/track/0MFPSiMpPXv0KSvA1bMqiZ"
     },
     {
       "album": {

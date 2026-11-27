@@ -1,6 +1,6 @@
 {
   "description": "Detroit <a href=\"spotify:genre:techno\">Techno</a> Essentials. Cover: DJ Minx.",
-  "num_followers": 106276,
+  "num_followers": 106293,
   "original_name": "Detroit Techno",
   "owner": {
     "name": "Spotify",
@@ -331,6 +331,22 @@
     {
       "added_at": "2025-08-29 04:00:36",
       "album": {
+        "name": "Patterns the Album",
+        "url": "https://open.spotify.com/album/1XzqlBfwHGBtaLXT5j6zGw"
+      },
+      "artists": [
+        {
+          "name": "Claude Young",
+          "url": "https://open.spotify.com/artist/7hWRneMDJulC1IMfHD1gt7"
+        }
+      ],
+      "duration_ms": 307933,
+      "name": "Ancelyn",
+      "url": "https://open.spotify.com/track/2AoGPNyWIsnPTHhJnHdIuf"
+    },
+    {
+      "added_at": "2025-08-29 04:00:36",
+      "album": {
         "name": "Heavenly Revisited Album",
         "url": "https://open.spotify.com/album/2r4zhVV8z7bxBtNpm3LVPs"
       },
@@ -347,22 +363,6 @@
       "duration_ms": 208818,
       "name": "World Of Deep",
       "url": "https://open.spotify.com/track/06i10JXZGO969A5NR4MXGD"
-    },
-    {
-      "added_at": "2025-08-29 04:00:36",
-      "album": {
-        "name": "Patterns the Album",
-        "url": "https://open.spotify.com/album/1XzqlBfwHGBtaLXT5j6zGw"
-      },
-      "artists": [
-        {
-          "name": "Claude Young",
-          "url": "https://open.spotify.com/artist/7hWRneMDJulC1IMfHD1gt7"
-        }
-      ],
-      "duration_ms": 307933,
-      "name": "Ancelyn",
-      "url": "https://open.spotify.com/track/2AoGPNyWIsnPTHhJnHdIuf"
     },
     {
       "added_at": "2025-08-29 04:00:36",

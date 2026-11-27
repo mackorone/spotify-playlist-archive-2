@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXafoakAmk88b.md) - [plain]
 
 > New indie from black artists driving the current\. Cover: Love Spells
 
-[Spotify](https://open.spotify.com/user/spotify) - 58,377 likes - 50 songs - 2 hr 39 min
+[Spotify](https://open.spotify.com/user/spotify) - 58,380 likes - 50 songs - 2 hr 39 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -36,14 +36,14 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXafoakAmk88b.md) - [plain]
 | 26 | [kitchen](https://open.spotify.com/track/0WF786uDPhd2bp1z0Vnhml) | [camille blackman](https://open.spotify.com/artist/5jswcyyCL6uoFlF9TaEtHc) | [kitchen](https://open.spotify.com/album/6pLG9prpIghOVmrerREsbl) | 3:10 |
 | 27 | [Anyone In Love](https://open.spotify.com/track/5fjaHwIsvJKxkhODCYY0EB) | [Jalen Ngonda](https://open.spotify.com/artist/2kEDso93O2hDgCbnuiSkkZ) | [Anyone In Love](https://open.spotify.com/album/2XWTgpZp4up1zFIIUApP3G) | 3:06 |
 | 28 | [wotless](https://open.spotify.com/track/49wa3CofaXUTuhaNGkoYQf) | [Dean Blunt](https://open.spotify.com/artist/5CFSYjc0PAiQvndFjafabk) | [wotless](https://open.spotify.com/album/4IDXbFID1H7ol56BdzbUqI) | 1:28 |
-| 29 | [We'll Never Be This Young Again](https://open.spotify.com/track/0cCyMQoRm3ofgJVb26APSn) | [Laila!](https://open.spotify.com/artist/7tHTnyrdTNM152slc8aQ3t) | [We'll Never Be This Young Again](https://open.spotify.com/album/6FAKkmCP208V0ubSLJ6AXl) | 2:21 |
-| 30 | [hunting days](https://open.spotify.com/track/6zsCOSqaG0QiWoTqJkRpEG) | [Khatumu](https://open.spotify.com/artist/4UKSvoK7sV3294V39V0pfu) | [hunting days](https://open.spotify.com/album/28EWTxtGcRWPPbSfacYr7H) | 3:32 |
-| 31 | [Sunday](https://open.spotify.com/track/4J95y5Goj21bbI5H0VDvLZ) | [Annahstasia](https://open.spotify.com/artist/1hElmDU1PFIf4JbkdOcMRE) | [Surface Tension](https://open.spotify.com/album/632eFniptp1u6saHBEN06y) | 4:01 |
+| 29 | [hunting days](https://open.spotify.com/track/6zsCOSqaG0QiWoTqJkRpEG) | [Khatumu](https://open.spotify.com/artist/4UKSvoK7sV3294V39V0pfu) | [hunting days](https://open.spotify.com/album/28EWTxtGcRWPPbSfacYr7H) | 3:32 |
+| 30 | [Sunday](https://open.spotify.com/track/4J95y5Goj21bbI5H0VDvLZ) | [Annahstasia](https://open.spotify.com/artist/1hElmDU1PFIf4JbkdOcMRE) | [Surface Tension](https://open.spotify.com/album/632eFniptp1u6saHBEN06y) | 4:01 |
+| 31 | [We'll Never Be This Young Again](https://open.spotify.com/track/0cCyMQoRm3ofgJVb26APSn) | [Laila!](https://open.spotify.com/artist/7tHTnyrdTNM152slc8aQ3t) | [We'll Never Be This Young Again](https://open.spotify.com/album/6FAKkmCP208V0ubSLJ6AXl) | 2:21 |
 | 32 | [Bones And All](https://open.spotify.com/track/32NRHTXx7dWCBHaKtinsZ6) | [Love Spells](https://open.spotify.com/artist/5iiqhuffUTPEOjAUDj19IW) | [The Love I Showed You Was Yours To Keep](https://open.spotify.com/album/6mk2yI6dHBQSFlkFiuZXAn) | 3:14 |
 | 33 | [Promise?](https://open.spotify.com/track/0V3XS6661Y8Ybx26JoWuOZ) | [Bella Kay](https://open.spotify.com/artist/4Z8MrrKMBHMPa8d04Ivur8) | [are you mad at me?](https://open.spotify.com/album/3YyOwxYRBrWdfDqBtps1RL) | 3:12 |
 | 34 | [its not about me!](https://open.spotify.com/track/02UI5paChJe2PHsi0nikly) | [Jahson Paynter](https://open.spotify.com/artist/73SbrIktK3Na0OTmhZpMy8) | [its not about me!](https://open.spotify.com/album/3EcqQco9MASQejGgqBGGAu) | 2:51 |
-| 35 | [Creek](https://open.spotify.com/track/6pahtfyWIYs5qYHNrx9Yjv) | [waterbaby](https://open.spotify.com/artist/7ig7r3UikvL9qJe7pQvCBn) | [Creek](https://open.spotify.com/album/4ZHCgrvfu9ayQNQ0agDrVO) | 1:53 |
-| 36 | [Royal Courts \(Great Misfortune\)](https://open.spotify.com/track/2dnaSoyIqAulyklbaj8d9d) | [Portraits Of Tracy](https://open.spotify.com/artist/34QizBjxVeMcA5HlZpKxxE) | [Q: From Where Do Our Primal Instincts Originate? A: MTV!](https://open.spotify.com/album/5TIQ4cukqmnsi2hzVhwlO0) | 3:54 |
+| 35 | [Royal Courts \(Great Misfortune\)](https://open.spotify.com/track/2dnaSoyIqAulyklbaj8d9d) | [Portraits Of Tracy](https://open.spotify.com/artist/34QizBjxVeMcA5HlZpKxxE) | [Q: From Where Do Our Primal Instincts Originate? A: MTV!](https://open.spotify.com/album/5TIQ4cukqmnsi2hzVhwlO0) | 3:54 |
+| 36 | [Creek](https://open.spotify.com/track/6pahtfyWIYs5qYHNrx9Yjv) | [waterbaby](https://open.spotify.com/artist/7ig7r3UikvL9qJe7pQvCBn) | [Creek](https://open.spotify.com/album/4ZHCgrvfu9ayQNQ0agDrVO) | 1:53 |
 | 37 | [Savior](https://open.spotify.com/track/5A6FYlGCZUl8G8twvSdUZP) | [Fousheé](https://open.spotify.com/artist/6trIghKwHRUyxwvm66HLHH) | [Savior](https://open.spotify.com/album/4sWbxFwZ7NQny0AnkmzkBW) | 2:41 |
 | 38 | [Geezer](https://open.spotify.com/track/3KPN41U5Im8VH2ZuFl9PHT) | [Kevin Abstract](https://open.spotify.com/artist/07EcmJpfAday8xGkslfanE), [Dominic Fike](https://open.spotify.com/artist/6USv9qhCn6zfxlBQIYJ9qs) | [Geezer](https://open.spotify.com/album/7ludJVUn2P4sfeQPzQ62eO) | 2:49 |
 | 39 | [Way Out](https://open.spotify.com/track/58m8vkNvKucm1ec0l5EJyc) | [stevestevesteve](https://open.spotify.com/artist/4lL9kDmkreefWNJUbYvrvf) | [Way Out](https://open.spotify.com/album/2XSHcNvl9XNCJzLhhDCOAk) | 3:20 |
@@ -56,7 +56,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXafoakAmk88b.md) - [plain]
 | 46 | [Baby Driver](https://open.spotify.com/track/5dtDj7mdGJjlviTxyfMrZE) | [070 Shake](https://open.spotify.com/artist/12Zk1DFhCbHY6v3xep2ZjI) | [Baby Driver](https://open.spotify.com/album/0yUdcVEmK8G3jWAYS6Dii6) | 3:36 |
 | 47 | [Spilled](https://open.spotify.com/track/0MfBrS3KErpMzFmUVwJk7B) | [swell foop](https://open.spotify.com/artist/5zQi16UXlsQxpqeIOYBu7r) | [Spilled](https://open.spotify.com/album/1j2EOM8xd4XQNYpCxvBuGY) | 2:50 |
 | 48 | [Petty Pete](https://open.spotify.com/track/3AoRetRPhYJ9dcBCXIXBD5) | [Liim](https://open.spotify.com/artist/4WBs3HlXxMAqo8Yi6m1PCM) | [Petty Pete](https://open.spotify.com/album/4Ofb1xAGY7BRXi5CCcWNg1) | 2:40 |
-| 49 | [Let Me Be Wrong](https://open.spotify.com/track/7iueQDyeYZRXZc4DYYAwDw) | [Jensen McRae](https://open.spotify.com/artist/11dABkjSoOjcP9p3TFSNRj) | [I Don't Know How But They Found Me!](https://open.spotify.com/album/61pSh8kSiqdyoTgDbaPG8h) | 2:36 |
-| 50 | [Cold Hands](https://open.spotify.com/track/2ZaTomBYLVmHjC3SCfjfl6) | [Momo Boyd](https://open.spotify.com/artist/5gqxLVfjWfNZ6dsKL05NKd), [Infinity Song](https://open.spotify.com/artist/2PZThLYBW7XtcYVzQms8oM) | [Miss Michigan](https://open.spotify.com/album/403xK3xBydTLfaBxctsZ2X) | 3:24 |
+| 49 | [Everyday](https://open.spotify.com/track/6IBD81r5jQxyUD40RPzpQF) | [Celeste](https://open.spotify.com/artist/49HlOY4gkHqsYG9GCuhkcc) | [Everyday](https://open.spotify.com/album/7rfqIJTMI65xPzjj0QA7et) | 3:40 |
+| 50 | [Let Me Be Wrong](https://open.spotify.com/track/7iueQDyeYZRXZc4DYYAwDw) | [Jensen McRae](https://open.spotify.com/artist/11dABkjSoOjcP9p3TFSNRj) | [I Don't Know How But They Found Me!](https://open.spotify.com/album/61pSh8kSiqdyoTgDbaPG8h) | 2:36 |
 
 Snapshot ID: `AAAAAE/TD0ZDsUgxm5OO9shua9DhcP4k`

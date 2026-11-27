@@ -4,7 +4,7 @@
 
 > Los mejores temas del Rock Cristiano\. ¡Dale al play y disfruta estos tremendos temazos!
 
-142 songs - 9 hr 55 min
+143 songs - 9 hr 58 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -63,7 +63,7 @@
 | [La Bendición](https://open.spotify.com/track/2I7bBpIx0X6yJcWY3AGNi1) | [In Christ](https://open.spotify.com/artist/4Az4DwZLXVPAJS9ABa83b7) | [Adorar](https://open.spotify.com/album/1b53jIDNaeJhlerPMnCY9e) | 3:49 | 2022-10-25 | 2025-09-27 |
 | [La Bendición](https://open.spotify.com/track/3xATGvvRb6L3pN6VQJN3o9) | [In Christ](https://open.spotify.com/artist/4Az4DwZLXVPAJS9ABa83b7) | [Adorar](https://open.spotify.com/album/1ftyzyvz2FGRLq6p4Lx8P0) | 3:49 | 2022-07-22 | 2023-02-23 |
 | [La Bendición](https://open.spotify.com/track/6TLsEUOdntbYlNYzIC3FaG) | [In Christ](https://open.spotify.com/artist/4Az4DwZLXVPAJS9ABa83b7) | [Adorar](https://open.spotify.com/album/61OVjCoGUuvjoFOkLwTf4J) | 3:49 | 2022-10-25 | 2024-04-19 |
-| [La Lengua](https://open.spotify.com/track/1fVyHOQLgfVk1wRfu1xkDF) | [Rescate](https://open.spotify.com/artist/1yIESehTCkR9hPmGFKxuV5) | [La Lengua](https://open.spotify.com/album/7y9VR0MZiJbN8O7Z8eT1WB) | 3:02 | 2025-07-25 |  |
+| [La Lengua](https://open.spotify.com/track/1fVyHOQLgfVk1wRfu1xkDF) | [Rescate](https://open.spotify.com/artist/1yIESehTCkR9hPmGFKxuV5) | [La Lengua](https://open.spotify.com/album/7y9VR0MZiJbN8O7Z8eT1WB) | 3:02 | 2025-07-25 | 2026-11-27 |
 | [Levanta tu oración](https://open.spotify.com/track/2iCszwZqi0lXZrKPeslnxi) | [Jeimy Roxana](https://open.spotify.com/artist/5f66KWcE2hUOSUEP89H56V) | [Levanta tu oración](https://open.spotify.com/album/3MSjDtIxDhZMyjL73peCD8) | 4:40 | 2024-12-11 | 2026-07-25 |
 | [Libre Para Adorar](https://open.spotify.com/track/4YbjKXcWB81ycfhUM4C4OW) | [Gerry Marquez](https://open.spotify.com/artist/5Duuy8GUonNkuVCTZnz5ds) | [Un Tiempo Nuevo](https://open.spotify.com/album/39gtt13f79a9EtHbYimHHx) | 4:13 | 2022-10-25 |  |
 | [Libre para Adorar \(En Vivo\)](https://open.spotify.com/track/0pKfAdb93p1moBIeNpdT7C) | [Gerry Marquez](https://open.spotify.com/artist/5Duuy8GUonNkuVCTZnz5ds) | [Un Tiempo Nuevo](https://open.spotify.com/album/2r5OHljOkWZ6qGnJAE3qyr) | 4:13 | 2022-07-22 | 2024-04-19 |
@@ -147,6 +147,7 @@
 | [Viene](https://open.spotify.com/track/2hMTb8yNvkEp0J2UBVHIiF) | [Rescate](https://open.spotify.com/artist/1yIESehTCkR9hPmGFKxuV5) | [Viene](https://open.spotify.com/album/4XvKh85x0M1xoYh78BhpnG) | 2:58 | 2024-07-29 | 2025-10-25 |
 | [VIENE \- En Vivo Desde VORTERIX](https://open.spotify.com/track/0kag34OinSKhKZ9tViRAD9) | [Rescate](https://open.spotify.com/artist/1yIESehTCkR9hPmGFKxuV5) | [VIENE \(En Vivo Desde VORTERIX\)](https://open.spotify.com/album/0FEHlgZGTDRDcReRDNBhUg) | 3:06 | 2025-10-24 |  |
 | [Vuelvo a Ver](https://open.spotify.com/track/3hJYBaL0k7Y7UHmzHrOeGh) | [Puerto Seguro](https://open.spotify.com/artist/0NYMMK9shZvGfTbaeE75xd) | [Vuelvo a Ver](https://open.spotify.com/album/0HyL4cWJurDVxObSN7kQhO) | 4:16 | 2022-07-22 |  |
+| [Ya No Soy](https://open.spotify.com/track/1Ox9sKd7G9wi165gBQuLfR) | [Pepe Lopez Band](https://open.spotify.com/artist/26jcTakzCqPX0KGJth8aiz) | [Ya No Soy](https://open.spotify.com/album/3rWT04FUPTwtJUb0TWT0Gg) | 3:05 | 2026-11-27 |  |
 | [Yo También](https://open.spotify.com/track/1BiTNGWo3a37MSqMqBYMGK) | [TWICE](https://open.spotify.com/artist/2yp6zqk49KOKKrOSSsUb75) | [Yo También](https://open.spotify.com/album/3oQwqSwoyoIr4skxLacTIt) | 6:42 | 2022-07-22 | 2024-04-19 |
 | [Yo también](https://open.spotify.com/track/5pIEpXY1Fw2Gk94mmTbOaV) | [TWICE](https://open.spotify.com/artist/2yp6zqk49KOKKrOSSsUb75) | [Yo También](https://open.spotify.com/album/1UCOinJ1vZcO4c4CrG1Ieg) | 6:42 | 2022-10-25 | 2025-03-01 |
 | [Éramos](https://open.spotify.com/track/6fVL8BrM91tDH7O2mdJfs0) | [Legados](https://open.spotify.com/artist/7wxcfZAF0aqflLMFbsPZp2) | [Mil Intentos](https://open.spotify.com/album/2os50fltRWshJNluelHYmD) | 3:53 | 2022-07-22 | 2024-12-12 |

@@ -2041,6 +2041,24 @@
     },
     {
       "album": {
+        "name": "Pieces",
+        "url": "https://open.spotify.com/album/3TEfzUsJu9nfpNN3Q4EBYV"
+      },
+      "artists": [
+        {
+          "name": "Folly Tree",
+          "url": "https://open.spotify.com/artist/1hT145icDtkvzjToOQkvkz"
+        }
+      ],
+      "date_added": "2026-11-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 145893,
+      "name": "Pieces",
+      "url": "https://open.spotify.com/track/0x9p5RP00yvHShK0DqiFJJ"
+    },
+    {
+      "album": {
         "name": "Lost Ballads Part I",
         "url": "https://open.spotify.com/album/02L25wVcc0RYtzaAb9JbMM"
       },
@@ -3537,6 +3555,24 @@
     },
     {
       "album": {
+        "name": "\u05d0\u05e8\u05e5 \u05d0\u05d7\u05ea",
+        "url": "https://open.spotify.com/album/0z6uqVFt7NDLaxT52lxkNh"
+      },
+      "artists": [
+        {
+          "name": "Karolina",
+          "url": "https://open.spotify.com/artist/1h40NvcAHSbG4O2r3932kB"
+        }
+      ],
+      "date_added": "2026-11-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 206000,
+      "name": "\u05d0\u05e8\u05e5 \u05d0\u05d7\u05ea",
+      "url": "https://open.spotify.com/track/61XtpYkQFiUlyvNhzfqOqq"
+    },
+    {
+      "album": {
         "name": "\u05d0\u05e8\u05e5 \u05d9\u05e9\u05e8\u05d0\u05dc",
         "url": "https://open.spotify.com/album/5nRtlv9RH3qwGYOshzt0v0"
       },
@@ -3899,6 +3935,24 @@
     },
     {
       "album": {
+        "name": "\u05e9\u05d5\u05e9\u05e0\u05d4 \u05e2\u05dc\u05d9\u05d5\u05e0\u05d4",
+        "url": "https://open.spotify.com/album/1zYMyTuOpS2EZbJWmxhrJY"
+      },
+      "artists": [
+        {
+          "name": "Ilai Ashdot",
+          "url": "https://open.spotify.com/artist/17hPAjtRLK0X3JHXFnd5Sy"
+        }
+      ],
+      "date_added": "2026-11-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 232583,
+      "name": "\u05d2\u05d5\u05e8\u05dc (\u05e9\u05dc\u05d5\u05e9\u05d4 \u05db\u05d5\u05db\u05d1\u05d9\u05dd)",
+      "url": "https://open.spotify.com/track/6Gwf5xZ6MXr1Kc0y5LGCkC"
+    },
+    {
+      "album": {
         "name": "\u05d0\u05d9 \u05d0\u05e4\u05e9\u05e8 \u05dc\u05e8\u05db\u05d1 \u05e2\u05dc \u05e1\u05d5\u05e1 \u05e4\u05e8\u05d0",
         "url": "https://open.spotify.com/album/3uKIb53kW2Ub3Kd1WPU2Hx"
       },
@@ -3968,7 +4022,7 @@
       ],
       "date_added": "2026-01-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-27",
       "duration_ms": 169160,
       "name": "\u05d3\u05d9\u05e0\u05d4",
       "url": "https://open.spotify.com/track/5XmwcmebBMGaPrI7UPedDj"
@@ -6407,6 +6461,32 @@
     },
     {
       "album": {
+        "name": "\u05dc\u05d0 \u05e2\u05db\u05e9\u05d9\u05d5",
+        "url": "https://open.spotify.com/album/1RfDc2W6VExfws88mkjaHT"
+      },
+      "artists": [
+        {
+          "name": "Alma Zohar",
+          "url": "https://open.spotify.com/artist/61Sbigb2Faz8K27wBoOBo9"
+        },
+        {
+          "name": "Ollie Danon",
+          "url": "https://open.spotify.com/artist/1hoFAEXkhrWmmS5G9NFc6U"
+        },
+        {
+          "name": "PA'AM",
+          "url": "https://open.spotify.com/artist/39Xp68AEeQ9Ykb02vMcjP0"
+        }
+      ],
+      "date_added": "2026-11-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 229911,
+      "name": "\u05dc\u05d0 \u05e2\u05db\u05e9\u05d9\u05d5",
+      "url": "https://open.spotify.com/track/4I3nJKe10IWNeC9bTksYpM"
+    },
+    {
+      "album": {
         "name": "\u05dc\u05d0 \u05e4\u05d4 \u05de\u05d7\u05e8",
         "url": "https://open.spotify.com/album/1rKbmEXqHmO2DLLEfE7Fy4"
       },
@@ -7852,7 +7932,7 @@
       ],
       "date_added": "2026-08-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-27",
       "duration_ms": 192576,
       "name": "\u05e1\u05dc\u05d5\u05e0\u05d9\u05e7\u05d9",
       "url": "https://open.spotify.com/track/1YRh2dIrZn70gHoInP6MXF"
@@ -8004,7 +8084,7 @@
       ],
       "date_added": "2026-11-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-27",
       "duration_ms": 260288,
       "name": "\u05e2\u05d5\u05e7\u05d1\u05d9\u05dd \u05d0\u05d7\u05e8\u05d9\u05da",
       "url": "https://open.spotify.com/track/2ngWDPF7GYexB8b4ESvfd5"
@@ -8680,7 +8760,7 @@
       ],
       "date_added": "2026-11-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-27",
       "duration_ms": 248000,
       "name": "\u05e9\u05d9\u05e8 \u05dc\u05d0\u05e1\u05e3",
       "url": "https://open.spotify.com/track/1ugjWzPek3YqiGlftecI2e"

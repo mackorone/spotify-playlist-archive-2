@@ -8056,7 +8056,7 @@
       ],
       "date_added": "2026-04-10",
       "date_added_asterisk": false,
-      "date_removed": "2026-11-26",
+      "date_removed": null,
       "duration_ms": 161000,
       "name": "nothin lasts 4ever",
       "url": "https://open.spotify.com/track/1uriDwfQjwE54CXc14xkSo"
@@ -10156,6 +10156,10 @@
         {
           "name": "ANOTR",
           "url": "https://open.spotify.com/artist/4p5WgeiPSPpqPDs7T6OkWf"
+        },
+        {
+          "name": "Circoloco Records",
+          "url": "https://open.spotify.com/artist/473Lb5bIpzUsXMsHKhZGDf"
         },
         {
           "name": "Emily Warren",
@@ -13208,7 +13212,7 @@
       ],
       "date_added": "2026-10-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-27",
       "duration_ms": 171120,
       "name": "Your Lovin'",
       "url": "https://open.spotify.com/track/4MS7dkKHDKY8cZ9zwGEjDg"

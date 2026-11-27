@@ -901,6 +901,28 @@
     },
     {
       "album": {
+        "name": "Antigua",
+        "url": "https://open.spotify.com/album/3iKbSXJNFlKqgAzzFxlEZN"
+      },
+      "artists": [
+        {
+          "name": "Sarkodie",
+          "url": "https://open.spotify.com/artist/01DTVE3KmoPogPZaOvMqO8"
+        },
+        {
+          "name": "King Promise",
+          "url": "https://open.spotify.com/artist/4tIKaxUmpXzshok2yCnwdf"
+        }
+      ],
+      "date_added": "2026-11-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 196192,
+      "name": "Antigua",
+      "url": "https://open.spotify.com/track/5ZCRfow7u1txLEVETJFvMk"
+    },
+    {
+      "album": {
         "name": "African Giant",
         "url": "https://open.spotify.com/album/277z75G1Gdz0SWN9pegrrs"
       },
@@ -1656,7 +1678,7 @@
       ],
       "date_added": "2026-11-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-27",
       "duration_ms": 176118,
       "name": "BALOTELLI (SUPA)",
       "url": "https://open.spotify.com/track/1XOUhnk0aG87PZ4c7MhHfU"
@@ -2008,6 +2030,32 @@
       "duration_ms": 238576,
       "name": "Berna",
       "url": "https://open.spotify.com/track/6UqvKN9wgDiZ25SFAJE3Va"
+    },
+    {
+      "album": {
+        "name": "Better Than Ever",
+        "url": "https://open.spotify.com/album/0rxApZNEt17klwrRynMhGf"
+      },
+      "artists": [
+        {
+          "name": "NO11",
+          "url": "https://open.spotify.com/artist/1bu3a0AAJbZazQJV0tbywD"
+        },
+        {
+          "name": "Pa Salieu",
+          "url": "https://open.spotify.com/artist/290nCNEce1y6rfoJiO2rK7"
+        },
+        {
+          "name": "SPINALL",
+          "url": "https://open.spotify.com/artist/2NtQA3PY9chI8l65ejZLTP"
+        }
+      ],
+      "date_added": "2026-11-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 142439,
+      "name": "Better Than Ever",
+      "url": "https://open.spotify.com/track/6Hajw1GZYeKFwGuXU9nSUZ"
     },
     {
       "album": {
@@ -3088,7 +3136,7 @@
       ],
       "date_added": "2026-09-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-27",
       "duration_ms": 144000,
       "name": "CHE",
       "url": "https://open.spotify.com/track/6sPehU8iJcnrSndiAoFONQ"
@@ -3484,6 +3532,28 @@
       "duration_ms": 129544,
       "name": "Cubana",
       "url": "https://open.spotify.com/track/6L0owZVOkCYYajP9ChDHdX"
+    },
+    {
+      "album": {
+        "name": "D GA",
+        "url": "https://open.spotify.com/album/2EDrkvEVqIClNvvqLc4xT6"
+      },
+      "artists": [
+        {
+          "name": "LinLin",
+          "url": "https://open.spotify.com/artist/1D7nUBd4i2mrVpmLQmHI0n"
+        },
+        {
+          "name": "Theodora",
+          "url": "https://open.spotify.com/artist/3PpJbrAbphauEun8Xf9tD2"
+        }
+      ],
+      "date_added": "2026-11-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 180462,
+      "name": "D GA",
+      "url": "https://open.spotify.com/track/2TxXO0GXIOCHkwRR35q4vP"
     },
     {
       "album": {
@@ -4226,7 +4296,7 @@
       ],
       "date_added": "2026-11-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-27",
       "duration_ms": 171584,
       "name": "El Classico",
       "url": "https://open.spotify.com/track/1Q0SAIQM1UwhMo1niXOB5M"
@@ -4690,7 +4760,7 @@
       ],
       "date_added": "2024-04-19",
       "date_added_asterisk": false,
-      "date_removed": "2026-07-17",
+      "date_removed": null,
       "duration_ms": 154512,
       "name": "FEEL",
       "url": "https://open.spotify.com/track/1mk8ZC9OeTZMr8Wy31LqRj"
@@ -6262,7 +6332,7 @@
       ],
       "date_added": "2026-04-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-27",
       "duration_ms": 192419,
       "name": "I AM",
       "url": "https://open.spotify.com/track/1iDNf6nP0BCXilLVVptflh"
@@ -6314,7 +6384,7 @@
       ],
       "date_added": "2026-06-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-27",
       "duration_ms": 233976,
       "name": "I Know Who I Be (with JAZZWRLD & GL_Ceejay)",
       "url": "https://open.spotify.com/track/1TglprKNjHw9rmTNgVZpUu"
@@ -9356,7 +9426,7 @@
       ],
       "date_added": "2024-07-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-27",
       "duration_ms": 221217,
       "name": "Ngozi",
       "url": "https://open.spotify.com/track/5mhM7bfzv52bzfCzlq8vH1"
@@ -12467,6 +12537,32 @@
     },
     {
       "album": {
+        "name": "TENSION",
+        "url": "https://open.spotify.com/album/0hY0Wa8Sdrzo6KqrtirLct"
+      },
+      "artists": [
+        {
+          "name": "Jux",
+          "url": "https://open.spotify.com/artist/2ZLAPSgdMTOcovno5mGBZW"
+        },
+        {
+          "name": "Tiwa Savage",
+          "url": "https://open.spotify.com/artist/1hNaHKp2Za5YdOAG0WnRbc"
+        },
+        {
+          "name": "Shoday",
+          "url": "https://open.spotify.com/artist/23R4AtMwVv0pbJYB1joioW"
+        }
+      ],
+      "date_added": "2026-11-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 206017,
+      "name": "TENSION",
+      "url": "https://open.spotify.com/track/58TQadykSdC17KJjHAYE5u"
+    },
+    {
+      "album": {
         "name": "Terminator",
         "url": "https://open.spotify.com/album/6a3w9YAl8ZAloTczNVOwf3"
       },
@@ -13788,7 +13884,7 @@
       ],
       "date_added": "2026-11-20",
       "date_added_asterisk": false,
-      "date_removed": "2026-11-24",
+      "date_removed": null,
       "duration_ms": 162352,
       "name": "WHITE LAMBO",
       "url": "https://open.spotify.com/track/1tTWlIdLDCWepo55CRkU0w"

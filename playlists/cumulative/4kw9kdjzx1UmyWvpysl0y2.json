@@ -23725,6 +23725,28 @@
     },
     {
       "album": {
+        "name": "Talk (VIP)",
+        "url": "https://open.spotify.com/album/5VywHnvkYbol3pwTaxaTou"
+      },
+      "artists": [
+        {
+          "name": "Fairlane",
+          "url": "https://open.spotify.com/artist/3L7JnVovGbYSUmRyqhXMYO"
+        },
+        {
+          "name": "Bo Bruce",
+          "url": "https://open.spotify.com/artist/4N2lZcytbZifGelhVEpMeK"
+        }
+      ],
+      "date_added": "2026-11-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 184551,
+      "name": "Talk - VIP",
+      "url": "https://open.spotify.com/track/6IekOuigzXMdbSKwZhjEXD"
+    },
+    {
+      "album": {
         "name": "Talk To Me",
         "url": "https://open.spotify.com/album/4lXG5SZAxBlwZGD13ePprM"
       },

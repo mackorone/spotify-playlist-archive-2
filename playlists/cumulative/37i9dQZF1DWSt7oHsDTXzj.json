@@ -1053,6 +1053,24 @@
     },
     {
       "album": {
+        "name": "Christmas Eve",
+        "url": "https://open.spotify.com/album/6gOpp25FmV5bPhanf4gHNY"
+      },
+      "artists": [
+        {
+          "name": "Kate Nash",
+          "url": "https://open.spotify.com/artist/5vBKu1igxFo6g1sHADkIdg"
+        }
+      ],
+      "date_added": "2026-11-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 308306,
+      "name": "Christmas Eve",
+      "url": "https://open.spotify.com/track/14Fwh9s4gh59vpBRwMTvIt"
+    },
+    {
+      "album": {
         "name": "Christmas Eve (Soul Purpose) / It\u2019s Going To Be A Cold Winter",
         "url": "https://open.spotify.com/album/59LBLGqfxMTSXuLmMmGsIT"
       },
@@ -2529,6 +2547,24 @@
     },
     {
       "album": {
+        "name": "I Love Christmas",
+        "url": "https://open.spotify.com/album/2GUpcLmWTs9mV7S6R6q3XM"
+      },
+      "artists": [
+        {
+          "name": "Tegan and Sara",
+          "url": "https://open.spotify.com/artist/5e1BZulIiYWPRm8yogwUYH"
+        }
+      ],
+      "date_added": "2026-11-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 167306,
+      "name": "I Love Christmas",
+      "url": "https://open.spotify.com/track/5YbgUS6JZLajQ8TsZDLZdu"
+    },
+    {
+      "album": {
         "name": "I Wish It Was Christmas Today",
         "url": "https://open.spotify.com/album/409ST2qM9KvT8OFIYPMI5w"
       },
@@ -3606,7 +3642,7 @@
       ],
       "date_added": "2025-12-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-27",
       "duration_ms": 233456,
       "name": "Not So Merry Christmas",
       "url": "https://open.spotify.com/track/2PJus90Cvm31pZPMiUHvsT"
@@ -3840,7 +3876,7 @@
       ],
       "date_added": "2025-12-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-27",
       "duration_ms": 159209,
       "name": "santa baby",
       "url": "https://open.spotify.com/track/1gpXsWIb9HhdiK3KYDsCZr"

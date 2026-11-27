@@ -1,13 +1,33 @@
 {
   "description": "Brand new music from Monstercat, all in one place.",
-  "num_followers": 121986,
+  "num_followers": 121979,
   "original_name": "New Music Weekly | Monstercat",
   "owner": {
     "name": "Monstercat",
     "url": "https://open.spotify.com/user/monstercatmedia"
   },
-  "snapshot_id": "AAAV8aVIG9UmJLHhGjwdwswO9P3vdA0L",
+  "snapshot_id": "AAAV8ov0M+BYA0ojmTu9KsoElMJ5tVzP",
   "tracks": [
+    {
+      "added_at": "2026-11-26 14:27:57",
+      "album": {
+        "name": "Talk (VIP)",
+        "url": "https://open.spotify.com/album/5VywHnvkYbol3pwTaxaTou"
+      },
+      "artists": [
+        {
+          "name": "Fairlane",
+          "url": "https://open.spotify.com/artist/3L7JnVovGbYSUmRyqhXMYO"
+        },
+        {
+          "name": "Bo Bruce",
+          "url": "https://open.spotify.com/artist/4N2lZcytbZifGelhVEpMeK"
+        }
+      ],
+      "duration_ms": 184551,
+      "name": "Talk - VIP",
+      "url": "https://open.spotify.com/track/6IekOuigzXMdbSKwZhjEXD"
+    },
     {
       "added_at": "2026-11-25 15:50:51",
       "album": {

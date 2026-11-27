@@ -30,8 +30,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFFvjKUi5y4xB.md) - [plain]
 | 20 | [Throw A Fit](https://open.spotify.com/track/7D8aQaRzoi9Qzz5yerVK5b) | [Tinashe](https://open.spotify.com/artist/0NIIxcxNHmOoyBx03SfTCD) | [Throw A Fit](https://open.spotify.com/album/2kGxRa3ut2AMvo1fdoUeuK) | 2:38 |
 | 21 | [Bounce Back](https://open.spotify.com/track/2RCZhvj9bhe4f14caGBsYu) | [Little Mix](https://open.spotify.com/artist/3e7awlrlDSwF3iM0WBjGMp) | [Confetti \(Expanded Edition\)](https://open.spotify.com/album/0KDISpxSUWynoaqwEaEeX8) | 2:40 |
 | 22 | [Throw It Away](https://open.spotify.com/track/21DN44aYlSoyfOQcboC0IP) | [Summer Walker](https://open.spotify.com/artist/57LYzLEk2LcFghVwuWbcuS) | [Still Over It](https://open.spotify.com/album/4lPqFAvgmG97pxyxQsyCQx) | 2:31 |
-| 23 | [a&t](https://open.spotify.com/track/6ho88pvz4c8WCSFbdVXNia) | [21 Savage](https://open.spotify.com/artist/1URnnhqYAYcrqrcwql10ft) | [i am > i was](https://open.spotify.com/album/007DWn799UWvfY1wwZeENR) | 3:31 |
-| 24 | [Wasted](https://open.spotify.com/track/79EVtighsMYkWahVb9MnF8) | [Don Toliver](https://open.spotify.com/artist/4Gso3d4CscCijv0lmajZWs) | [Heaven Or Hell](https://open.spotify.com/album/7z4GhRfLqfSkqrj5F3Yt2B) | 2:51 |
+| 23 | [Wasted](https://open.spotify.com/track/79EVtighsMYkWahVb9MnF8) | [Don Toliver](https://open.spotify.com/artist/4Gso3d4CscCijv0lmajZWs) | [Heaven Or Hell](https://open.spotify.com/album/7z4GhRfLqfSkqrj5F3Yt2B) | 2:51 |
+| 24 | [a&t](https://open.spotify.com/track/6ho88pvz4c8WCSFbdVXNia) | [21 Savage](https://open.spotify.com/artist/1URnnhqYAYcrqrcwql10ft) | [i am > i was](https://open.spotify.com/album/007DWn799UWvfY1wwZeENR) | 3:31 |
 | 25 | [Water \(Drowning Pt\. 2\) \[feat\. Kodak Black\]](https://open.spotify.com/track/3xXI0QxPxPnexMc8wxPOYA) | [A Boogie Wit da Hoodie](https://open.spotify.com/artist/31W5EY0aAly4Qieq6OFu6I), [Kodak Black](https://open.spotify.com/artist/46SHBwWsqBkxI7EeeBEQG7) | [Me vs\. Myself](https://open.spotify.com/album/2vM2H6lyPfitmNZlc1Vrxv) | 3:26 |
 | 26 | [Wheelie \(feat\. 21 Savage\)](https://open.spotify.com/track/5lrAnzvRBQSgAkpo0WkMjB) | [Latto](https://open.spotify.com/artist/3MdXrJWsbVzdn6fe5JYkSQ), [21 Savage](https://open.spotify.com/artist/1URnnhqYAYcrqrcwql10ft) | [777](https://open.spotify.com/album/4vjE6Rgl5z6K2PhrAtIA7O) | 2:50 |
 | 27 | [see the real](https://open.spotify.com/track/4E64eAph6AYI98ucunrGH8) | [21 Savage](https://open.spotify.com/artist/1URnnhqYAYcrqrcwql10ft) | [american dream](https://open.spotify.com/album/2RRYaYHY7fIIdvFlvgb5vq) | 3:02 |
@@ -128,4 +128,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFFvjKUi5y4xB.md) - [plain]
 | 118 | [Down In Your Ways](https://open.spotify.com/track/2IO0JLR0qtl5q5E95i2dms) | [Roy Woods](https://open.spotify.com/artist/7mDU6nMUJnOSY2Hkjz5oqM), [Jozzy](https://open.spotify.com/artist/6Ja6zFB5d7XRihhfMo6KzY) | [X](https://open.spotify.com/album/2dbpbsUKhV5OSLjN2rdm0a) | 3:21 |
 | 119 | [Funny Friends](https://open.spotify.com/track/7pdXnEdEPcYjWFq03RpFdx) | [Jo'zzy](https://open.spotify.com/artist/0uamFSGtLGcaBgPdI6cnRh) | [Funny Friends](https://open.spotify.com/album/5i41XIJIKOfqqVN4uCsctr) | 2:12 |
 
-Snapshot ID: `AciqBAAAAAAoMfr2lCtdaf5VXQssp5il`
+Snapshot ID: `AcivpAAAAAD1Ok5ht+uxPimOvxbFgieZ`

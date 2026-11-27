@@ -2276,6 +2276,24 @@
     {
       "album": {
         "name": "Bonne chance",
+        "url": "https://open.spotify.com/album/2l2bEnj03uOm9ZHq99CKgt"
+      },
+      "artists": [
+        {
+          "name": "Les Louanges",
+          "url": "https://open.spotify.com/artist/57GQLJX1O8guO5PVj46e6l"
+        }
+      ],
+      "date_added": "2026-11-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 186839,
+      "name": "Bonne chance",
+      "url": "https://open.spotify.com/track/5gKruxPZBwfM9H3zn5Uh04"
+    },
+    {
+      "album": {
+        "name": "Bonne chance",
         "url": "https://open.spotify.com/album/66MHqqazWOvCAM7tieOXgb"
       },
       "artists": [
@@ -18852,6 +18870,28 @@
       "duration_ms": 160145,
       "name": "When the sun comes down",
       "url": "https://open.spotify.com/track/43YRk6mjE8VTSG20DOdOB4"
+    },
+    {
+      "album": {
+        "name": "Where is she? / Farewell",
+        "url": "https://open.spotify.com/album/0kvdiwLzNjDbr996p2MsIH"
+      },
+      "artists": [
+        {
+          "name": "Samant",
+          "url": "https://open.spotify.com/artist/3uRWOTy9otoxixGe3yG8Bh"
+        },
+        {
+          "name": "Lou Val",
+          "url": "https://open.spotify.com/artist/6u3PN3PCsWLGsw1OffKQ2F"
+        }
+      ],
+      "date_added": "2026-11-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 261625,
+      "name": "Where is she? / Farewell",
+      "url": "https://open.spotify.com/track/2SJ3eyOB3ngNHUcXAIAyKl"
     },
     {
       "album": {

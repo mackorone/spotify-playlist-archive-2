@@ -1,6 +1,6 @@
 {
   "description": "The best in classic and contemporary Reggae. Cover: Original Koffee, for <a href=spotify:playlist:37i9dQZF1DX0rM1NjYKMJa> Carnival Sounds Live 2026.</a>",
-  "num_followers": 2106191,
+  "num_followers": 2105993,
   "original_name": "One Love",
   "owner": {
     "name": "Spotify",
@@ -639,22 +639,6 @@
     {
       "added_at": "2026-08-21 14:00:21",
       "album": {
-        "name": "Natty Rebel (Extra Version)",
-        "url": "https://open.spotify.com/album/6HTLFNdjeW75Am1fKMHGyZ"
-      },
-      "artists": [
-        {
-          "name": "U-Roy",
-          "url": "https://open.spotify.com/artist/4aCH6cwaYahrWfJWqfEfra"
-        }
-      ],
-      "duration_ms": 211960,
-      "name": "Natty Rebel - Remaster 1990",
-      "url": "https://open.spotify.com/track/5FgdPuK51WBYhuMhV0XIBg"
-    },
-    {
-      "added_at": "2026-08-21 14:00:21",
-      "album": {
         "name": "Do To Me",
         "url": "https://open.spotify.com/album/6b9SrV7fOCmUubzvBQvRVg"
       },
@@ -667,6 +651,22 @@
       "duration_ms": 225103,
       "name": "Do To Me",
       "url": "https://open.spotify.com/track/0CmQgwV3Bmzh9nZb9TNVEI"
+    },
+    {
+      "added_at": "2026-08-21 14:00:21",
+      "album": {
+        "name": "Natty Rebel (Extra Version)",
+        "url": "https://open.spotify.com/album/6HTLFNdjeW75Am1fKMHGyZ"
+      },
+      "artists": [
+        {
+          "name": "U-Roy",
+          "url": "https://open.spotify.com/artist/4aCH6cwaYahrWfJWqfEfra"
+        }
+      ],
+      "duration_ms": 211960,
+      "name": "Natty Rebel - Remaster 1990",
+      "url": "https://open.spotify.com/track/5FgdPuK51WBYhuMhV0XIBg"
     },
     {
       "added_at": "2026-08-21 14:00:21",
@@ -1203,6 +1203,22 @@
     {
       "added_at": "2026-08-21 14:00:21",
       "album": {
+        "name": "Dragonfly",
+        "url": "https://open.spotify.com/album/62Ot058LfUzRFxbramAggQ"
+      },
+      "artists": [
+        {
+          "name": "Ziggy Marley",
+          "url": "https://open.spotify.com/artist/0o0rlxlC3ApLWsxFkUjMXc"
+        }
+      ],
+      "duration_ms": 257799,
+      "name": "Good Ol' Days (featuring Cedella Marley)",
+      "url": "https://open.spotify.com/track/28Q2F391hseaFE88B3jki4"
+    },
+    {
+      "added_at": "2026-08-21 14:00:21",
+      "album": {
         "name": "Hustling In My Blood",
         "url": "https://open.spotify.com/album/2RBVosWbf5PCDS0b44NiaK"
       },
@@ -1223,22 +1239,6 @@
       "duration_ms": 255221,
       "name": "Hustling In My Blood",
       "url": "https://open.spotify.com/track/4frqa3VmTDu8uPiflqdmoQ"
-    },
-    {
-      "added_at": "2026-08-21 14:00:21",
-      "album": {
-        "name": "Dragonfly",
-        "url": "https://open.spotify.com/album/62Ot058LfUzRFxbramAggQ"
-      },
-      "artists": [
-        {
-          "name": "Ziggy Marley",
-          "url": "https://open.spotify.com/artist/0o0rlxlC3ApLWsxFkUjMXc"
-        }
-      ],
-      "duration_ms": 257799,
-      "name": "Good Ol' Days (featuring Cedella Marley)",
-      "url": "https://open.spotify.com/track/28Q2F391hseaFE88B3jki4"
     },
     {
       "added_at": "2026-08-21 14:00:21",
@@ -1483,6 +1483,42 @@
     {
       "added_at": "2026-08-21 14:00:21",
       "album": {
+        "name": "Life From Kingston",
+        "url": "https://open.spotify.com/album/5r1gzIqEYoFEi7OdpNSiu8"
+      },
+      "artists": [
+        {
+          "name": "Royal Blu",
+          "url": "https://open.spotify.com/artist/5GZOZpWXKPAMPZQrcrnyzx"
+        },
+        {
+          "name": "Protoje",
+          "url": "https://open.spotify.com/artist/7BGR8y1VZAWK2oR4zD9COr"
+        }
+      ],
+      "duration_ms": 169846,
+      "name": "Life From Kingston",
+      "url": "https://open.spotify.com/track/5BcE6Qrh3tnkP6VfmhqGKL"
+    },
+    {
+      "added_at": "2026-08-21 14:00:21",
+      "album": {
+        "name": "Cry Wolf",
+        "url": "https://open.spotify.com/album/255urlK7V4yakvNY6r7aUK"
+      },
+      "artists": [
+        {
+          "name": "Skip Marley",
+          "url": "https://open.spotify.com/artist/4ryoUS0W8qXokfMxrlJt6O"
+        }
+      ],
+      "duration_ms": 207772,
+      "name": "Cry Wolf",
+      "url": "https://open.spotify.com/track/6I2MrEcIvtLzz2Gv6DGCAU"
+    },
+    {
+      "added_at": "2026-08-21 14:00:21",
+      "album": {
         "name": "By Any Mean$ (with Jesse Royal)",
         "url": "https://open.spotify.com/album/2Hrl1LzZTfBQ9yyr0ME1rB"
       },
@@ -1507,38 +1543,22 @@
     {
       "added_at": "2026-08-21 14:00:21",
       "album": {
-        "name": "Cry Wolf",
-        "url": "https://open.spotify.com/album/255urlK7V4yakvNY6r7aUK"
+        "name": "Stereo",
+        "url": "https://open.spotify.com/album/1JanzxNHyIWF1fFcqAWxLg"
       },
       "artists": [
         {
-          "name": "Skip Marley",
-          "url": "https://open.spotify.com/artist/4ryoUS0W8qXokfMxrlJt6O"
-        }
-      ],
-      "duration_ms": 207772,
-      "name": "Cry Wolf",
-      "url": "https://open.spotify.com/track/6I2MrEcIvtLzz2Gv6DGCAU"
-    },
-    {
-      "added_at": "2026-08-21 14:00:21",
-      "album": {
-        "name": "Life From Kingston",
-        "url": "https://open.spotify.com/album/5r1gzIqEYoFEi7OdpNSiu8"
-      },
-      "artists": [
-        {
-          "name": "Royal Blu",
-          "url": "https://open.spotify.com/artist/5GZOZpWXKPAMPZQrcrnyzx"
+          "name": "Rik Jam",
+          "url": "https://open.spotify.com/artist/5s8Z7hEzedh3vepd7dckZv"
         },
         {
-          "name": "Protoje",
-          "url": "https://open.spotify.com/artist/7BGR8y1VZAWK2oR4zD9COr"
+          "name": "Eric Rachmany",
+          "url": "https://open.spotify.com/artist/7fLTVZfdwBPBgGkAYdSprM"
         }
       ],
-      "duration_ms": 169846,
-      "name": "Life From Kingston",
-      "url": "https://open.spotify.com/track/5BcE6Qrh3tnkP6VfmhqGKL"
+      "duration_ms": 247880,
+      "name": "Stereo",
+      "url": "https://open.spotify.com/track/6LP7QdPw4Ly6neYg4zLKGO"
     },
     {
       "added_at": "2026-08-21 14:00:21",
@@ -1559,26 +1579,6 @@
       "duration_ms": 200168,
       "name": "Inna Di Ghetto",
       "url": "https://open.spotify.com/track/1yKqoyJmeLymK6dLd1Tt9P"
-    },
-    {
-      "added_at": "2026-08-21 14:00:21",
-      "album": {
-        "name": "Stereo",
-        "url": "https://open.spotify.com/album/1JanzxNHyIWF1fFcqAWxLg"
-      },
-      "artists": [
-        {
-          "name": "Rik Jam",
-          "url": "https://open.spotify.com/artist/5s8Z7hEzedh3vepd7dckZv"
-        },
-        {
-          "name": "Eric Rachmany",
-          "url": "https://open.spotify.com/artist/7fLTVZfdwBPBgGkAYdSprM"
-        }
-      ],
-      "duration_ms": 247880,
-      "name": "Stereo",
-      "url": "https://open.spotify.com/track/6LP7QdPw4Ly6neYg4zLKGO"
     },
     {
       "added_at": "2026-08-21 14:00:21",
@@ -1767,6 +1767,22 @@
     {
       "added_at": "2026-08-21 14:00:21",
       "album": {
+        "name": "One Two",
+        "url": "https://open.spotify.com/album/4H9eL5O62tZRXwksrtMQfN"
+      },
+      "artists": [
+        {
+          "name": "Sister Nancy",
+          "url": "https://open.spotify.com/artist/21pMSs2JHWwwy2kp1QIIVB"
+        }
+      ],
+      "duration_ms": 196506,
+      "name": "Bam Bam",
+      "url": "https://open.spotify.com/track/7cKLOenzViwzoHJWciMIrj"
+    },
+    {
+      "added_at": "2026-08-21 14:00:21",
+      "album": {
         "name": "Hot Shot (International Version #2)",
         "url": "https://open.spotify.com/album/6NmFmPX56pcLBOFMhIiKvF"
       },
@@ -1787,18 +1803,18 @@
     {
       "added_at": "2026-08-21 14:00:21",
       "album": {
-        "name": "One Two",
-        "url": "https://open.spotify.com/album/4H9eL5O62tZRXwksrtMQfN"
+        "name": "Legend (The Definitive Remasters)",
+        "url": "https://open.spotify.com/album/4qsXcmAgPNSliu6oMQGOQ9"
       },
       "artists": [
         {
-          "name": "Sister Nancy",
-          "url": "https://open.spotify.com/artist/21pMSs2JHWwwy2kp1QIIVB"
+          "name": "Bob Marley & The Wailers",
+          "url": "https://open.spotify.com/artist/2QsynagSdAqZj3U9HgDzjD"
         }
       ],
-      "duration_ms": 196506,
-      "name": "Bam Bam",
-      "url": "https://open.spotify.com/track/7cKLOenzViwzoHJWciMIrj"
+      "duration_ms": 237133,
+      "name": "Could You Be Loved",
+      "url": "https://open.spotify.com/track/3yoWBFuanYVmwbJ4jF0AQi"
     },
     {
       "added_at": "2026-08-21 14:00:21",
@@ -1839,22 +1855,6 @@
     {
       "added_at": "2026-08-21 14:00:21",
       "album": {
-        "name": "Legend (The Definitive Remasters)",
-        "url": "https://open.spotify.com/album/4qsXcmAgPNSliu6oMQGOQ9"
-      },
-      "artists": [
-        {
-          "name": "Bob Marley & The Wailers",
-          "url": "https://open.spotify.com/artist/2QsynagSdAqZj3U9HgDzjD"
-        }
-      ],
-      "duration_ms": 237133,
-      "name": "Could You Be Loved",
-      "url": "https://open.spotify.com/track/3yoWBFuanYVmwbJ4jF0AQi"
-    },
-    {
-      "added_at": "2026-08-21 14:00:21",
-      "album": {
         "name": "Hebron Gate",
         "url": "https://open.spotify.com/album/7G45S3yiopYRmqpmrpO7tX"
       },
@@ -1891,6 +1891,22 @@
     {
       "added_at": "2026-08-21 14:00:21",
       "album": {
+        "name": "Legend (The Definitive Remasters)",
+        "url": "https://open.spotify.com/album/4qsXcmAgPNSliu6oMQGOQ9"
+      },
+      "artists": [
+        {
+          "name": "Bob Marley & The Wailers",
+          "url": "https://open.spotify.com/artist/2QsynagSdAqZj3U9HgDzjD"
+        }
+      ],
+      "duration_ms": 230733,
+      "name": "Is This Love",
+      "url": "https://open.spotify.com/track/5QTEEImISE4USGEwqAci8O"
+    },
+    {
+      "added_at": "2026-08-21 14:00:21",
+      "album": {
         "name": "The Israelites",
         "url": "https://open.spotify.com/album/46BSjIgwm2NarXXFM8fEjX"
       },
@@ -1919,22 +1935,6 @@
       "duration_ms": 205714,
       "name": "Mama",
       "url": "https://open.spotify.com/track/1dTCwGjVspJIpA318cquIy"
-    },
-    {
-      "added_at": "2026-08-21 14:00:21",
-      "album": {
-        "name": "Legend (The Definitive Remasters)",
-        "url": "https://open.spotify.com/album/4qsXcmAgPNSliu6oMQGOQ9"
-      },
-      "artists": [
-        {
-          "name": "Bob Marley & The Wailers",
-          "url": "https://open.spotify.com/artist/2QsynagSdAqZj3U9HgDzjD"
-        }
-      ],
-      "duration_ms": 256493,
-      "name": "Waiting In Vain",
-      "url": "https://open.spotify.com/track/7FILn9Akg2468HPNsRZCkq"
     },
     {
       "added_at": "2026-08-21 14:00:21",

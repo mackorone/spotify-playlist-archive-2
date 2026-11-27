@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2021-12-28",
-  "description": "Rey Quinto poniendo la M\u00fasica Mexicana en alto en la playlist sin fronteras.",
+  "description": "Grupo Marca Registrada poniendo la M\u00fasica Mexicana en alto en la playlist sin fronteras.",
   "name": "Los Que Mandan - M\u00fasica Mexicana",
   "tracks": [
     {
@@ -4070,7 +4070,7 @@
       ],
       "date_added": "2026-10-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-27",
       "duration_ms": 171676,
       "name": "Cheers",
       "url": "https://open.spotify.com/track/3Yog7KA5IteljJITMJZwSn"
@@ -9099,6 +9099,28 @@
     },
     {
       "album": {
+        "name": "EUROLOKITAS",
+        "url": "https://open.spotify.com/album/4wi9wBEiQARddLu1wWsXXM"
+      },
+      "artists": [
+        {
+          "name": "Los Bohemios de Sinaloa",
+          "url": "https://open.spotify.com/artist/3x1ZLPgWf6jDKeGUifNxE7"
+        },
+        {
+          "name": "El Rabbanito",
+          "url": "https://open.spotify.com/artist/4VPLEp6rYxqpf6n0QEkS5z"
+        }
+      ],
+      "date_added": "2026-11-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 180000,
+      "name": "EUROLOKITAS",
+      "url": "https://open.spotify.com/track/1T2V2M2L3KFYgtfh8GFELx"
+    },
+    {
+      "album": {
         "name": "EVOLUZION\u00c9",
         "url": "https://open.spotify.com/album/6GOumSWtPIA2CftFTsL2mj"
       },
@@ -9624,7 +9646,7 @@
       ],
       "date_added": "2026-10-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-27",
       "duration_ms": 154899,
       "name": "Frenchie",
       "url": "https://open.spotify.com/track/5iO3suCSAD2tQA20uQWuOY"
@@ -14858,7 +14880,7 @@
       ],
       "date_added": "2026-10-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-27",
       "duration_ms": 184285,
       "name": "Mi Morena",
       "url": "https://open.spotify.com/track/2iw2ZHKD2QRerzWvn3D2jm"
@@ -15738,6 +15760,28 @@
       "duration_ms": 166132,
       "name": "MU\u00d1EQUITA",
       "url": "https://open.spotify.com/track/6kn9GQY9JSZ9wZriNdlCg9"
+    },
+    {
+      "album": {
+        "name": "M\u00e1scara",
+        "url": "https://open.spotify.com/album/1azhxOhp22sBy9vbyclsVN"
+      },
+      "artists": [
+        {
+          "name": "Yandel",
+          "url": "https://open.spotify.com/artist/0eHQ9o50hj6ZDNBt6Ys1sD"
+        },
+        {
+          "name": "Grupo Frontera",
+          "url": "https://open.spotify.com/artist/6XkjpgcEsYab502Vr1bBeW"
+        }
+      ],
+      "date_added": "2026-11-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 209640,
+      "name": "M\u00e1scara",
+      "url": "https://open.spotify.com/track/0EaRUdHtdMq2PzOFqB8dCC"
     },
     {
       "album": {
@@ -24912,6 +24956,24 @@
       "duration_ms": 169537,
       "name": "Ya No Me Duele Tanto",
       "url": "https://open.spotify.com/track/0iNIe5802Xv0U5S7yxKNA1"
+    },
+    {
+      "album": {
+        "name": "Disco Duro",
+        "url": "https://open.spotify.com/album/5mcdCvSBMJEYFqAfMqTpkg"
+      },
+      "artists": [
+        {
+          "name": "Grupo Marca Registrada",
+          "url": "https://open.spotify.com/artist/1gW6pz5n1aK249L0GvfQCC"
+        }
+      ],
+      "date_added": "2026-11-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 244960,
+      "name": "Ya No Me Llames Amor",
+      "url": "https://open.spotify.com/track/6284xcGBkAZIvqUjYACp5x"
     },
     {
       "album": {

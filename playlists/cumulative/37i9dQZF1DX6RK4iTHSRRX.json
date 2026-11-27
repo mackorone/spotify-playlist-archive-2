@@ -1659,6 +1659,28 @@
     },
     {
       "album": {
+        "name": "Leise rieselt der Schnee (Arr. for Guitar by Rosie Bennet)",
+        "url": "https://open.spotify.com/album/6AZTfgw92E71JufqXHC0uk"
+      },
+      "artists": [
+        {
+          "name": "Traditional",
+          "url": "https://open.spotify.com/artist/1U5zgr455OGyIkLNXvDdrf"
+        },
+        {
+          "name": "Rosie Bennet",
+          "url": "https://open.spotify.com/artist/0kiQ1OKhXM3wmO6IGpJM7E"
+        }
+      ],
+      "date_added": "2026-11-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 116040,
+      "name": "Leise rieselt der Schnee (Arr. for Guitar by Rosie Bennet)",
+      "url": "https://open.spotify.com/track/5ORzKoSdn9Ji4ymDfwLcOQ"
+    },
+    {
+      "album": {
         "name": "Christmas Acoustic",
         "url": "https://open.spotify.com/album/4GEU8iOMl6c38XpYY1mesV"
       },

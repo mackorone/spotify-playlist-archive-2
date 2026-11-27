@@ -2,9 +2,9 @@
 
 ### [Hot Hits Italia](https://open.spotify.com/playlist/37i9dQZF1DX6wfQutivYYr)
 
-> Alfa  in cover della playlist con tutte le hit 🔥
+> Sfera in cover della playlist con tutte le hit 🔥
 
-396 songs - 20 hr 42 min
+399 songs - 20 hr 51 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -167,6 +167,7 @@
 | [GRANDINE \(feat\. mew\)](https://open.spotify.com/track/0liQcHfCU5zKeSEdIYfGIP) | [Holden](https://open.spotify.com/artist/3XTUciJcdix4GkO9YoBdtP), [mew](https://open.spotify.com/artist/2IUzp4XydH7CtjqGwW2XiU) | [GRANDINE \(feat\. mew\)](https://open.spotify.com/album/3GFXDDau3jmZ2RdrkJ3HTy) | 3:07 | 2024-11-14 | 2025-01-17 |
 | [Grattacieli meteoriti gli angeli](https://open.spotify.com/track/5p319BfcZtPd7Y8FOGB3yH) | [Gazzelle](https://open.spotify.com/artist/7KFOc3T4Xo8DVZt4PWw2qN) | [INDI](https://open.spotify.com/album/54HzLTohLottYBCmkjD41S) | 3:24 | 2025-01-27 | 2025-04-01 |
 | [Grazie ma no grazie](https://open.spotify.com/track/5stOy3oDM1OahBHWHHBOF4) | [Willie Peyote](https://open.spotify.com/artist/00CsjN69YCczmdW0bDKaCC) | [Sulla riva del fiume](https://open.spotify.com/album/0DZGNwemSCG5RpLozu2HWF) | 3:25 | 2025-02-18 | 2025-03-25 |
+| [Great Expectation](https://open.spotify.com/track/7ujApz6iFP3PmKIDGcaGbe) | [SIENNA SPIRO](https://open.spotify.com/artist/02gSuSAWEdWa5UOvqzjX6v) | [Visitor](https://open.spotify.com/album/1Aye7tEOHfJ3hDJIeJFggF) | 2:53 | 2026-11-26 |  |
 | [Guess featuring Billie Eilish](https://open.spotify.com/track/3WOhcATHxK2SLNeP5W3v1v) | [Charli xcx](https://open.spotify.com/artist/25uiPmTg16RbhZWAqwLBy5), [Billie Eilish](https://open.spotify.com/artist/6qqNVTkY8uBg9cP3Jd7DAH) | [Guess featuring Billie Eilish](https://open.spotify.com/album/3ThlxfLSy4bfKzxWqmC7VN) | 2:23 | 2024-08-07 | 2024-08-30 |
 | [Halo](https://open.spotify.com/track/6zjlQ39iHKMaPcY9Fz4d9e) | [Samurai Jay](https://open.spotify.com/artist/2n0Ki4A5tKTEloq3WCt1IH), [Vito Salamanca](https://open.spotify.com/artist/2QJ1AReDewmz4fcRhGxW6Y) | [Halo](https://open.spotify.com/album/4t5euIQosseN76E6f3b8NF) | 2:17 | 2025-07-21 | 2026-06-26 |
 | [HEETS \(feat\. Geolier\)](https://open.spotify.com/track/7heTgNdtbRD4n0Vg8rGYXo) | [Lele Blade](https://open.spotify.com/artist/3yGA8yyowtKVXgNIXguMfz), [Geolier](https://open.spotify.com/artist/27LlKWxS3KXW7RRAxN5S8s), [Dele](https://open.spotify.com/artist/58bdmuoVnCLzq3gqATaLLB), [Poison Beatz](https://open.spotify.com/artist/2jnjbAYKylrmBMCFZE0OCK) | [CON I MIEI OCCHI](https://open.spotify.com/album/6JWyzXSxNZzmJzBBAviLcR) | 2:57 | 2024-11-04 | 2025-02-04 |
@@ -346,6 +347,7 @@
 | [Stargazing](https://open.spotify.com/track/3Vr3zh0r7ALn8VLqCiRR10) | [Myles Smith](https://open.spotify.com/artist/3bO19AOone0ubCsfDXDtYt) | [Stargazing](https://open.spotify.com/album/3VNxRarx9HUI5w7DHv0TBj) | 2:52 | 2024-07-18 | 2025-02-04 |
 | [Stateside + Zara Larsson](https://open.spotify.com/track/1DwscornXpj8fmOmYVlqZt) | [PinkPantheress](https://open.spotify.com/artist/78rUTD7y6Cy67W1RVzYs7t), [Zara Larsson](https://open.spotify.com/artist/1Xylc3o4UrD53lo9CvFvVg) | [Fancy Some More?](https://open.spotify.com/album/12Lig9oAX9nvpWHft5cHgF) | 3:04 | 2026-03-17 | 2026-04-08 |
 | [Sto bene al mare \(feat\. Sayf & Rkomi\)](https://open.spotify.com/track/7bozAK8PtroF5owUL01coy) | [Marco Mengoni](https://open.spotify.com/artist/3xGlLcG9CUrs5MvFkSLOS5), [Sayf](https://open.spotify.com/artist/3HAwumPgGOSXlZSyGWuLhB), [Rkomi](https://open.spotify.com/artist/056KMTw6IztdQjBmFfVyO3) | [Sto bene al mare \(feat\. Sayf & Rkomi\)](https://open.spotify.com/album/4NQBEzQomU36U3oaXTgKj4) | 2:47 | 2025-06-26 | 2025-11-07 |
+| [Stop The Wedding!](https://open.spotify.com/track/7MOO89Qv9AV7VZkt5mcqA8) | [Ashe](https://open.spotify.com/artist/6P5NO5hzJbuOqSdyPB7SJM) | [The Girl Of Your Dreams](https://open.spotify.com/album/03HD0ohJOvejRoesXWKZFl) | 3:19 | 2026-11-26 |  |
 | [STORIE BREVI](https://open.spotify.com/track/5GZupy8zByqFmXvpwZ4JOC) | [Tananai](https://open.spotify.com/artist/35V1WomiedCJeGfupcPm7s), [Annalisa](https://open.spotify.com/artist/0EqkKYDK9EkKY5N7zU3FPv) | [STORIE BREVI](https://open.spotify.com/album/6c4p2PNyp5Ek43s2IDX5Vh) | 2:55 | 2024-06-28 | 2024-11-26 |
 | [stupid song](https://open.spotify.com/track/4LfCY65LvojKjWEnU7fNN4) | [Olivia Rodrigo](https://open.spotify.com/artist/1McMsnEElThX1knmY4oliG) | [you seem pretty sad for a girl so in love](https://open.spotify.com/album/3WZZF72ihlKPZBS4zSsNHl) | 3:29 | 2026-06-18 | 2026-07-24 |
 | [Stupida sfortuna](https://open.spotify.com/track/2yzOkthIypp8Lwkww7LZjY) | [Fulminacci](https://open.spotify.com/artist/1QeqGmpgU5Yg74GNcjIIq3) | [Stupida sfortuna](https://open.spotify.com/album/2op7wmZ9fVyLGLhjGmrLMG) | 2:55 | 2026-02-25 |  |
@@ -392,6 +394,7 @@
 | [Victory Lap \(feat\. Shiva, Geolier\)](https://open.spotify.com/track/2tmwbR99VkM2oJ2dWZ8Vx4) | [Sfera Ebbasta](https://open.spotify.com/artist/23TFHmajVfBtlRx5MXqgoz), [Shiva](https://open.spotify.com/artist/2K5nCggbhSZ00YCYP5qkZS), [Geolier](https://open.spotify.com/artist/27LlKWxS3KXW7RRAxN5S8s) | [PUROSANGUE](https://open.spotify.com/album/6kHBJWK7kTEN7rAEygNtRw) | 3:31 | 2026-11-23 |  |
 | [Video hot \(feat\. Geolier\)](https://open.spotify.com/track/3o9OeBX0vgh51r15Ta7Dok) | [CoCo](https://open.spotify.com/artist/5FEh6KHK99CyLXp3qFvZFM), [Geolier](https://open.spotify.com/artist/27LlKWxS3KXW7RRAxN5S8s), [Startuffo](https://open.spotify.com/artist/6rlRsGkuYPz1ssHFa4lm4N), [D\-Ross](https://open.spotify.com/artist/0GKNWhzf7koQl9HuUJnz1T) | [MAI PIÙ FORSE](https://open.spotify.com/album/31zOPRV9kLjtyq3eqiAMvj) | 3:06 | 2024-11-13 | 2025-02-07 |
 | [Vita da adulti](https://open.spotify.com/track/14c2UO4kudqpUxvDIbP8Ro) | [Angelina Mango](https://open.spotify.com/artist/1A6HBLulvBFzNtlMb7b08f) | [Vita da adulti](https://open.spotify.com/album/4SED6aKzCAhtVIyswgG4ia) | 3:33 | 2026-11-19 |  |
+| [Vivian](https://open.spotify.com/track/6QkXWOi9lL54T2QOf2IFeP) | [Alex Fontana](https://open.spotify.com/artist/4WxHNeMUO9NIo0A0M6hkr9) | [Vivian](https://open.spotify.com/album/5R4UcURDTa8iAhmADCrY4j) | 3:02 | 2026-11-26 |  |
 | [VOLEVO CAPIRE CON MARRACASH](https://open.spotify.com/track/6UrPST46XxYPqbAAThhSMS) | [Madame](https://open.spotify.com/artist/1vgQksyJ0IVz8y9XerEOy3), [Marracash](https://open.spotify.com/artist/5AZuEF0feCXMkUCwQiQlW7) | [DISINCANTO](https://open.spotify.com/album/02UzV7oxqKA0Kkp3n205KB) | 2:37 | 2026-04-20 |  |
 | [Volevo essere un duro](https://open.spotify.com/track/5sFbAYktReH4AJbATsGAw8) | [Lucio Corsi](https://open.spotify.com/artist/1rGpYQGiwKelukgqpI6xKx) | [Volevo essere un duro](https://open.spotify.com/album/3bq0Zk9IMKngHA7QnefTxT) | 3:05 | 2025-02-13 | 2025-04-22 |
 | [VVS CARTIER](https://open.spotify.com/track/3FrbT8aqk9xHtTfQc9Z3IR) | [Sfera Ebbasta](https://open.spotify.com/artist/23TFHmajVfBtlRx5MXqgoz), [Shiva](https://open.spotify.com/artist/2K5nCggbhSZ00YCYP5qkZS) | [SANTANA MONEY GANG](https://open.spotify.com/album/71agI93AilqukvHURp6tGy) | 3:00 | 2025-05-08 | 2025-11-06 |

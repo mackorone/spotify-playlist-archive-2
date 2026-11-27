@@ -6,7 +6,7 @@
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "awOCAAAAAAA5ZzUF+KmJCGNtTaNnSVi1",
+  "snapshot_id": "awYlAAAAAAD19JeFu7zLXXxNNTXd4+tK",
   "tracks": [
     {
       "added_at": null,
@@ -148,25 +148,9 @@
           "url": "https://open.spotify.com/artist/1TglzqikfCCHG4pXOlKR6Y"
         }
       ],
-      "duration_ms": 193293,
-      "name": "Soul Jar",
-      "url": "https://open.spotify.com/track/1rDETpDKFivRksRXGWQz6L"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Occult Box (Deluxe Edition)",
-        "url": "https://open.spotify.com/album/1gBL6rEeGLUM1anvgGuisF"
-      },
-      "artists": [
-        {
-          "name": "Salt Creek",
-          "url": "https://open.spotify.com/artist/1TglzqikfCCHG4pXOlKR6Y"
-        }
-      ],
-      "duration_ms": 320320,
-      "name": "Destroy",
-      "url": "https://open.spotify.com/track/5GMsUTlHVuuKF08zW6zQ5g"
+      "duration_ms": 186447,
+      "name": "EVERYONEISTHESAME",
+      "url": "https://open.spotify.com/track/12svdsIFudWZFmgzSMmXxi"
     },
     {
       "added_at": null,
@@ -212,9 +196,9 @@
           "url": "https://open.spotify.com/artist/1TglzqikfCCHG4pXOlKR6Y"
         }
       ],
-      "duration_ms": 186447,
-      "name": "EVERYONEISTHESAME",
-      "url": "https://open.spotify.com/track/12svdsIFudWZFmgzSMmXxi"
+      "duration_ms": 193293,
+      "name": "Soul Jar",
+      "url": "https://open.spotify.com/track/1rDETpDKFivRksRXGWQz6L"
     },
     {
       "added_at": null,
@@ -244,9 +228,9 @@
           "url": "https://open.spotify.com/artist/1TglzqikfCCHG4pXOlKR6Y"
         }
       ],
-      "duration_ms": 281319,
-      "name": "Swim in Time",
-      "url": "https://open.spotify.com/track/5LYh1qa0oN7WzNlJAXimhY"
+      "duration_ms": 234073,
+      "name": "Highway Lights",
+      "url": "https://open.spotify.com/track/7A1oDHWG9S7rvhn3cD1LbY"
     },
     {
       "added_at": null,
@@ -292,9 +276,9 @@
           "url": "https://open.spotify.com/artist/1TglzqikfCCHG4pXOlKR6Y"
         }
       ],
-      "duration_ms": 234073,
-      "name": "Highway Lights",
-      "url": "https://open.spotify.com/track/7A1oDHWG9S7rvhn3cD1LbY"
+      "duration_ms": 281319,
+      "name": "Swim in Time",
+      "url": "https://open.spotify.com/track/5LYh1qa0oN7WzNlJAXimhY"
     },
     {
       "added_at": null,

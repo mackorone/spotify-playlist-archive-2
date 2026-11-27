@@ -1626,7 +1626,7 @@
       ],
       "date_added": "2026-09-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-27",
       "duration_ms": 406554,
       "name": "Autumn Serenade",
       "url": "https://open.spotify.com/track/1ZUTW4oNoaaJMGwUtCKsuE"
@@ -3780,6 +3780,24 @@
       "duration_ms": 413742,
       "name": "Childhood",
       "url": "https://open.spotify.com/track/6VevLCbLoayn1QtBILFKJ5"
+    },
+    {
+      "album": {
+        "name": "Imagerie Club",
+        "url": "https://open.spotify.com/album/6xpSYY4TTcgNuWOsMLTSkT"
+      },
+      "artists": [
+        {
+          "name": "NCY Milky Band",
+          "url": "https://open.spotify.com/artist/1pb87NjDnnDkruGPvHTkIt"
+        }
+      ],
+      "date_added": "2026-11-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 262374,
+      "name": "Childhood 277",
+      "url": "https://open.spotify.com/track/6yKAbF1P3ELYRnIQjHmHEa"
     },
     {
       "album": {
@@ -8372,7 +8390,7 @@
       ],
       "date_added": "2026-10-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-27",
       "duration_ms": 183960,
       "name": "Howl",
       "url": "https://open.spotify.com/track/00ZOnzSIZXvO07SeVtxZdq"
@@ -11930,6 +11948,24 @@
       "duration_ms": 321386,
       "name": "Lord Have Mercy",
       "url": "https://open.spotify.com/track/4BujRkyN9HhlOYXVJhGbAA"
+    },
+    {
+      "album": {
+        "name": "Lord of Lords",
+        "url": "https://open.spotify.com/album/7r3bUn5QpU08Mv1ISXgF8a"
+      },
+      "artists": [
+        {
+          "name": "L\u00e9on Phal",
+          "url": "https://open.spotify.com/artist/1AKiAMwxnF2f1zBlSGDfXC"
+        }
+      ],
+      "date_added": "2026-11-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 268333,
+      "name": "Lord of Lords",
+      "url": "https://open.spotify.com/track/3AcvOxzSi4lcL5DJIg0VcX"
     },
     {
       "album": {

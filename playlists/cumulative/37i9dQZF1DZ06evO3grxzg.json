@@ -712,7 +712,7 @@
       ],
       "date_added": "2026-11-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-27",
       "duration_ms": 218093,
       "name": "Dance The Night Away - Cross MIx",
       "url": "https://open.spotify.com/track/64DfgImKmWZnLyISCWCLSg"
@@ -2070,7 +2070,7 @@
       ],
       "date_added": "2026-10-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-27",
       "duration_ms": 225653,
       "name": "No Es Cierto",
       "url": "https://open.spotify.com/track/5hl0gS2hIUvHpfPA6UJj9m"
@@ -2662,6 +2662,24 @@
       "duration_ms": 186946,
       "name": "Sodio",
       "url": "https://open.spotify.com/track/7jYZU1CIruZU3puB5tiYiW"
+    },
+    {
+      "album": {
+        "name": "Pachang\u00f3n Latino Vol. 3",
+        "url": "https://open.spotify.com/album/2XdkAYjEXy0FodVSbtK77U"
+      },
+      "artists": [
+        {
+          "name": "Danna Paola",
+          "url": "https://open.spotify.com/artist/5xSx2FM8mQnrfgM1QsHniB"
+        }
+      ],
+      "date_added": "2026-11-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 187373,
+      "name": "Sodio",
+      "url": "https://open.spotify.com/track/0eOvFlUmXV705Ot7AbxZ7Y"
     },
     {
       "album": {
@@ -3358,6 +3376,24 @@
       "duration_ms": 219320,
       "name": "XT4S1S",
       "url": "https://open.spotify.com/track/7dMTCS9BLzBqYTlAuHP8TM"
+    },
+    {
+      "album": {
+        "name": "Qu\u00edmica Del Perreo Vol. 3",
+        "url": "https://open.spotify.com/album/34O8ubVgnX0GWaSdpZ2wqy"
+      },
+      "artists": [
+        {
+          "name": "Danna Paola",
+          "url": "https://open.spotify.com/artist/5xSx2FM8mQnrfgM1QsHniB"
+        }
+      ],
+      "date_added": "2026-11-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 219440,
+      "name": "XT4S1S",
+      "url": "https://open.spotify.com/track/0vkqzNEFLiOPmY1FKWBlST"
     },
     {
       "album": {

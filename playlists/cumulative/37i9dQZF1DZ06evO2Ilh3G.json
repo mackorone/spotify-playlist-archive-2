@@ -31,6 +31,24 @@
     },
     {
       "album": {
+        "name": "GMFU",
+        "url": "https://open.spotify.com/album/0sjhU3kzHU2dfd6SVrzLIp"
+      },
+      "artists": [
+        {
+          "name": "Offset",
+          "url": "https://open.spotify.com/artist/4DdkRBBYG6Yk9Ka8tdJ9BW"
+        }
+      ],
+      "date_added": "2026-11-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 222649,
+      "name": "5 Star",
+      "url": "https://open.spotify.com/track/7qFo4kUGHTa64yQTFsXmx4"
+    },
+    {
+      "album": {
         "name": "Ahora Dice (Real Hasta La Muerte Remix)",
         "url": "https://open.spotify.com/album/69kbK6RzAI23eD2TImJ687"
       },
@@ -496,7 +514,7 @@
       ],
       "date_added": "2026-11-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-27",
       "duration_ms": 156219,
       "name": "Buy Ice",
       "url": "https://open.spotify.com/track/6MoCDD3oWz73TYpj92ymBV"

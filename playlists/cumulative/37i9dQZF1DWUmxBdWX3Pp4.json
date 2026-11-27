@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-01-02",
-  "description": "\u00c9xitos de Trap Latino  \ud83d\udcf8  LAJA y Anuel AA. \n",
+  "description": "\u00c9xitos de Trap Latino  \ud83d\udcf8  Anuel AA. \n",
   "name": "TRAPPERZ",
   "tracks": [
     {
@@ -2106,6 +2106,32 @@
       "duration_ms": 180214,
       "name": "Blackout",
       "url": "https://open.spotify.com/track/68mJvII29H8wlKpyGyeP7x"
+    },
+    {
+      "album": {
+        "name": "BNDCD",
+        "url": "https://open.spotify.com/album/1mDhEmkSSVHK69BfXDy2NB"
+      },
+      "artists": [
+        {
+          "name": "Mvchoo23",
+          "url": "https://open.spotify.com/artist/7qVTIQYjCnpu6ohojfpf3t"
+        },
+        {
+          "name": "Hades66",
+          "url": "https://open.spotify.com/artist/4CQdcx66F116k2db2Y0rjE"
+        },
+        {
+          "name": "\u00d1engo Flow",
+          "url": "https://open.spotify.com/artist/12vb80Km0Ew53ABfJOepVz"
+        }
+      ],
+      "date_added": "2026-11-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 252765,
+      "name": "BNDCD",
+      "url": "https://open.spotify.com/track/47YzAPWeSDDY1lN3jwxahQ"
     },
     {
       "album": {
@@ -5106,7 +5132,7 @@
       ],
       "date_added": "2026-08-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-27",
       "duration_ms": 248104,
       "name": "Frontea (Remix)",
       "url": "https://open.spotify.com/track/175yFGZ5VXeHrMHptXQ87x"
@@ -7864,6 +7890,32 @@
       "duration_ms": 205733,
       "name": "Los De Siempre",
       "url": "https://open.spotify.com/track/5IsTVBbwSjU38VqJbZNokS"
+    },
+    {
+      "album": {
+        "name": "Real Hasta La Muerte II",
+        "url": "https://open.spotify.com/album/4Gqg391dMB9BA7pPW331Ag"
+      },
+      "artists": [
+        {
+          "name": "Anuel AA",
+          "url": "https://open.spotify.com/artist/2R21vXR83lH98kGeO99Y66"
+        },
+        {
+          "name": "Cosculluela",
+          "url": "https://open.spotify.com/artist/00me4Ke1LsvMxt5kydlMyU"
+        },
+        {
+          "name": "Chris Jedi",
+          "url": "https://open.spotify.com/artist/0qTZZWLzuD59Un5r1speHm"
+        }
+      ],
+      "date_added": "2026-11-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 280000,
+      "name": "Los Diablos",
+      "url": "https://open.spotify.com/track/5uEAwz0xd8qsvVmWs5O5nQ"
     },
     {
       "album": {
@@ -12772,7 +12824,7 @@
       ],
       "date_added": "2026-10-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-27",
       "duration_ms": 240975,
       "name": "SI ME QUIERES...",
       "url": "https://open.spotify.com/track/70A0AekMvr4DdxaKa1tQE0"
@@ -14578,7 +14630,7 @@
       ],
       "date_added": "2026-10-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-27",
       "duration_ms": 201818,
       "name": "Vendetta",
       "url": "https://open.spotify.com/track/7mGZQR7jfW7VTm6sFAUOmD"
@@ -14816,6 +14868,40 @@
       "duration_ms": 206170,
       "name": "Wake Up & Bake Up",
       "url": "https://open.spotify.com/track/7MBHncxZXB7fzf5cAx8C05"
+    },
+    {
+      "album": {
+        "name": "Ware (Remix)",
+        "url": "https://open.spotify.com/album/7rMSF8k1ZlRL0Gn2qId5Al"
+      },
+      "artists": [
+        {
+          "name": "Skinny TLW",
+          "url": "https://open.spotify.com/artist/3ArCxywf9nzWOeQ24a6iSj"
+        },
+        {
+          "name": "Mr Plata",
+          "url": "https://open.spotify.com/artist/0UWiPOyp26dwNCEKRwo7qO"
+        },
+        {
+          "name": "Topboy TGR",
+          "url": "https://open.spotify.com/artist/1HYdJRbyNCkiko7TAw9rei"
+        },
+        {
+          "name": "Luis Brown",
+          "url": "https://open.spotify.com/artist/1f7FtdbdaRjeeOr0gK9f3L"
+        },
+        {
+          "name": "DFZM",
+          "url": "https://open.spotify.com/artist/6ndLrsgT3MV5CNxIrW71fw"
+        }
+      ],
+      "date_added": "2026-11-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 307200,
+      "name": "Ware - Remix",
+      "url": "https://open.spotify.com/track/7npnloHzWpHCfmduIITlis"
     },
     {
       "album": {

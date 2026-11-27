@@ -539,6 +539,24 @@
     },
     {
       "album": {
+        "name": "HANA",
+        "url": "https://open.spotify.com/album/2oypv23kc2pJaykM2VCcZb"
+      },
+      "artists": [
+        {
+          "name": "Sophie Ellis-Bextor",
+          "url": "https://open.spotify.com/artist/2cBh5lVMg222FFuRU7EfDE"
+        }
+      ],
+      "date_added": "2026-11-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 240720,
+      "name": "Hearing in Colour",
+      "url": "https://open.spotify.com/track/2gIYNUmpVQBsBFySZSIsC1"
+    },
+    {
+      "album": {
         "name": "Songs from the Kitchen Disco: Sophie Ellis-Bextor's Greatest Hits",
         "url": "https://open.spotify.com/album/1Ow8exCwrgZjMEyKo53sKV"
       },
@@ -826,7 +844,7 @@
       ],
       "date_added": "2026-07-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-27",
       "duration_ms": 195880,
       "name": "Love Is You - Bonus Track",
       "url": "https://open.spotify.com/track/6YDgYJqyeCWZMdypwphwxz"

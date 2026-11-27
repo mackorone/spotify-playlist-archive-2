@@ -4,7 +4,7 @@
 
 > Introducing RADAR Philippines Cast of 2026\. Cover: NEW LORE
 
-370 songs - 21 hr 54 min
+371 songs - 21 hr 57 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -15,6 +15,7 @@
 | [3rd Eye](https://open.spotify.com/track/1Rmg6e9FO4C0RLtXpFtA4G) | [Lesha](https://open.spotify.com/artist/796yJgEbZmYnqJKvWNfeIi), [CARELESS](https://open.spotify.com/artist/6ZPADYpgSS0VwqZPJeX54p) | [3rd Eye](https://open.spotify.com/album/4AD7IVbMSuXMZWES5pZCKg) | 2:45 | 2022-09-01 | 2022-12-01 |
 | [5678](https://open.spotify.com/track/2hAoi72sQzqmRwj4eXRjeh) | [KAIA](https://open.spotify.com/artist/5UWPjwwieMFFohWLHe4Usy) | [5678](https://open.spotify.com/album/0UYm7AHI0WoaCDajD1Dwdt) | 2:51 | 2023-04-13 | 2024-04-03 |
 | [65+4](https://open.spotify.com/track/47MuTRFIMpxY05ZLyfX5Pg) | [Elhé](https://open.spotify.com/artist/2cISyyoc7B4kws6seWRzao) | [ELHÉVATE](https://open.spotify.com/album/5OsAMhWYPohj7fBlpafmD0) | 3:14 | 2026-04-06 |  |
+| [ACTIVATE](https://open.spotify.com/track/4YIt8kkGqb4BROGbiPocaI) | [Waiian](https://open.spotify.com/artist/3p5RE0gW2l4oFW82SgMv29) | [ACTIVATE](https://open.spotify.com/album/3AGIP9pfoRLXtL1eZee0TH) | 2:44 | 2026-11-27 |  |
 | [Aftertaste](https://open.spotify.com/track/356cHgniK3jX5vdyTw5bxj) | [Paolo Sandejas](https://open.spotify.com/artist/7aerdWadzubpu06Oxysg6R), [TALA](https://open.spotify.com/artist/2VL6HPPI1raa3qKW6NUNBR) | [Aftertaste](https://open.spotify.com/album/4A4p0x3lcjeCXog13ypREc) | 3:32 | 2023-04-13 | 2024-04-03 |
 | [Ai Shite Ruyo](https://open.spotify.com/track/7lN50K8eny7KTRXKvd95Wt) | [HEY JUNE!](https://open.spotify.com/artist/4Bxk4PebmsWgvjMrtQqBvq) | [Ai Shite Ruyo](https://open.spotify.com/album/0s74hT3Ar02cQZA7VHhxnn) | 3:08 | 2026-06-26 |  |
 | [Alam Ko Na](https://open.spotify.com/track/5sxzyd1SIx7COY68mfEO3y) | [DENȲ](https://open.spotify.com/artist/2Q2uIXpaRSH3Or0oT5nFXR), [Just Hush](https://open.spotify.com/artist/3KovZIDNYgQY8chiNZo2ZF), [Third Flo'](https://open.spotify.com/artist/4oq3ZPun2GUPkUBo8BzuTW) | [LOVES7AGE](https://open.spotify.com/album/69ewkNFbekxjGlMyc5kCYQ) | 4:00 | 2023-11-29 | 2024-01-12 |

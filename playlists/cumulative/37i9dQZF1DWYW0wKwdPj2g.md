@@ -4,7 +4,7 @@
 
 > In the mood for live Christian and Gospel music? This is the one\. Cover: Kaestrings
 
-382 songs - 2 day 4 hr 11 min
+384 songs - 2 day 4 hr 22 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -81,6 +81,7 @@
 | [E No Hard \- Live](https://open.spotify.com/track/4p9XzSuRlbO6zQXralzZdZ) | [Chris Morgan](https://open.spotify.com/artist/40n0HESbOmwGQh401vtbWM) | [E No Hard \(Live\)](https://open.spotify.com/album/2oekmzHsUS0uHXpN8WhThx) | 8:34 | 2026-01-02 | 2026-06-26 |
 | [E Ti Tobi to \(Live\)](https://open.spotify.com/track/6CyvOdf4V0PM8mU3ktVzsh) | [EmmaOMG](https://open.spotify.com/artist/7a03YaPRYV8Ym2LwMPvDJz), [The OhEmGee Choir](https://open.spotify.com/artist/3anQm3u8qGQyPeAOh0bAzb), [Pelumi Deborah](https://open.spotify.com/artist/4UEAcfckZercWHlnw0jdOx), [BBO](https://open.spotify.com/artist/2uaQ0i7hnhD1rRwDOSCkOd) | [E Ti Tobi to \(Live\)](https://open.spotify.com/album/5mY52gjoMuJsiLybLRQR3J) | 13:46 | 2024-08-16 |  |
 | [Ebenezer \(My Helper\)](https://open.spotify.com/track/0vZuT1xmdfAiPS2MHrAwTE) | [Victoria Orenze](https://open.spotify.com/artist/4NS4onS3tvVfCJk2sJ7vso) | [Prayer](https://open.spotify.com/album/6olSiqJYx7DRvMyO8brUbO) | 5:46 | 2025-09-26 | 2026-07-31 |
+| [Ebenezer \- Live](https://open.spotify.com/track/50dnCP1nXtv4zUGPdifoPJ) | [Esther Oji](https://open.spotify.com/artist/5Hd4U5JFovPR2yNcXa3Pm4) | [THE GLORY](https://open.spotify.com/album/1shGNLyo6g9fRal3HeJev1) | 6:51 | 2026-11-27 |  |
 | [Ebenezer \- Live](https://open.spotify.com/track/1NIsNb7J8yfy9TYE1ycKMp) | [Nathaniel Bassey](https://open.spotify.com/artist/1ukmGETCwXTbgrTrkRDnmn), [VICTORIA ORENZE](https://open.spotify.com/artist/132I30e3higEmuOlmqnP1w) | [HALLELUJAH LIVE](https://open.spotify.com/album/5xe3knii9RbZzikwkiIqBY) | 8:31 | 2024-02-23 |  |
 | [Ebube Dike \- Live](https://open.spotify.com/track/0NZwRpYu9MUDs4UOhbk2JU) | [Petersongs](https://open.spotify.com/artist/7IX8zSDGS22YhwyqsZ5FA0) | [Ebube Dike \(Live\)](https://open.spotify.com/album/75hxUxNYdgPNtpOlFGrgmh) | 4:16 | 2026-06-26 |  |
 | [Ego Ole](https://open.spotify.com/track/0gPmTJ0QcBRa2aGO4jzsAm) | [Tkeyz](https://open.spotify.com/artist/6MRNiMCUDv9mDmMcaXhjgI) | [Ego Ole \(Live\)](https://open.spotify.com/album/1lWEQZSMeiE4dFvpUE6NNZ) | 8:57 | 2026-11-13 |  |
@@ -103,6 +104,7 @@
 | [Fear Not \- Live](https://open.spotify.com/track/6JNOrgmjEmlIkJGLPak4hO) | [Thinah Zungu](https://open.spotify.com/artist/0gqiNXIGbyBCBsbQ4TWJlg), [Dumi Mkokstad](https://open.spotify.com/artist/7FfBAT4utQnGFnzAqidA6p) | [Live at Soweto Theater](https://open.spotify.com/album/7e0vBGk87YGodfK0eFnho2) | 7:53 | 2024-02-23 | 2024-12-20 |
 | [Fire \- Live](https://open.spotify.com/track/21qtkRxWRYazoctM8bxsQC) | [Gabriel Eziashi](https://open.spotify.com/artist/6sx0dcFppnpZl1HSX6cCqx) | [Fire \(Live\)](https://open.spotify.com/album/2cfh0AgpP7j7ZSfPLYyCoE) | 9:39 | 2025-01-17 | 2026-03-06 |
 | [Follow Yeshua \- Live](https://open.spotify.com/track/6iL5DaueYNSR8LPjFtkuMv) | [Oncemore Six](https://open.spotify.com/artist/2dvNUHcfNDLyItfiAB40Rd) | [Follow Yeshua \(Live\)](https://open.spotify.com/album/11MycYuDq6vDBUNnOYiW6s) | 9:14 | 2026-07-03 | 2026-08-14 |
+| [Follow You \- Live](https://open.spotify.com/track/66VOsW9iYPPzrcCkC6KaK5) | [JOHN GODFREY](https://open.spotify.com/artist/5ApfHPATrv1gdJ45DaRA9X) | [Follow You \(Live\)](https://open.spotify.com/album/4VUJSNaNBfshUN5hQ0t33p) | 4:35 | 2026-11-27 |  |
 | [Fragrance to Fire](https://open.spotify.com/track/7eGDM90StP3QFkcwJPaLRg) | [Dunsin Oyekan](https://open.spotify.com/artist/49BZ6sJNhvubVBsomYuLFM) | [The Gospel of the Kingdom](https://open.spotify.com/album/25YIWvGm47WqKctz8k76r5) | 10:57 | 2024-02-23 |  |
 | [Freedom chant \- Live](https://open.spotify.com/track/7bBecDvVJ3ngeIFGs1M8BG) | [Moses Akoh](https://open.spotify.com/artist/6mUEeS22r3xn9ksKKgENrT), [Chinedu Ndubueze](https://open.spotify.com/artist/52CdmtfVJaUfq8calnMejr) | [Freedom chant \(Live\)](https://open.spotify.com/album/7Gs5hlOMJxcpBeVQQAfUpm) | 6:37 | 2025-01-31 | 2025-03-07 |
 | [FRESH FIRE \- LIVE](https://open.spotify.com/track/7sDMSbBoYKZBu5BGwtJWAP) | [Ruke Gure](https://open.spotify.com/artist/3kJycPCLqMjSCHGEjvMUlz) | [FRESH FIRE \(LIVE\)](https://open.spotify.com/album/1DiDnNc3mQqPu4lUDDU0gw) | 6:43 | 2024-05-31 | 2024-11-01 |

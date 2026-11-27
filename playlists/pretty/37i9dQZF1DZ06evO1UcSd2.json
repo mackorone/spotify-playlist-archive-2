@@ -1,12 +1,12 @@
 {
   "description": "This is Lenin Ram\u00edrez. The essential tracks, all in one playlist.",
-  "num_followers": 90511,
+  "num_followers": 90533,
   "original_name": "This Is Lenin Ram\u00edrez",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "awOCAAAAAADYue6L1eqA/kN+X8rrfNUc",
+  "snapshot_id": "awYlAAAAAADXp1/+lrHU2MK4wxz/fI6e",
   "tracks": [
     {
       "added_at": null,
@@ -127,6 +127,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Mi Conquista",
+        "url": "https://open.spotify.com/album/79ZIEAQjbnfv1GHteRx3P7"
+      },
+      "artists": [
+        {
+          "name": "Lenin Ram\u00edrez",
+          "url": "https://open.spotify.com/artist/3hTffafUYLLgO4yuPAxb5U"
+        }
+      ],
+      "duration_ms": 198062,
+      "name": "El Famoso Chino Antrax",
+      "url": "https://open.spotify.com/track/5JINcxe6jLF09D6RSpHH5p"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "HD",
         "url": "https://open.spotify.com/album/5EKxnTPqRJgagk80jG0WNC"
       },
@@ -143,22 +159,6 @@
       "duration_ms": 193295,
       "name": "HD",
       "url": "https://open.spotify.com/track/6IH0VPpPDcXjxPflZEyzvo"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Mi Conquista",
-        "url": "https://open.spotify.com/album/79ZIEAQjbnfv1GHteRx3P7"
-      },
-      "artists": [
-        {
-          "name": "Lenin Ram\u00edrez",
-          "url": "https://open.spotify.com/artist/3hTffafUYLLgO4yuPAxb5U"
-        }
-      ],
-      "duration_ms": 198062,
-      "name": "El Famoso Chino Antrax",
-      "url": "https://open.spotify.com/track/5JINcxe6jLF09D6RSpHH5p"
     },
     {
       "added_at": null,
@@ -447,26 +447,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Mis 30 Aniversario (Vol. 1)",
-        "url": "https://open.spotify.com/album/7ufHHLXyH5jninZcI4EVaL"
-      },
-      "artists": [
-        {
-          "name": "Pancho Barraza",
-          "url": "https://open.spotify.com/artist/5dmU7FrmtbQaSzIvGsE4Jp"
-        },
-        {
-          "name": "Lenin Ram\u00edrez",
-          "url": "https://open.spotify.com/artist/3hTffafUYLLgO4yuPAxb5U"
-        }
-      ],
-      "duration_ms": 200703,
-      "name": "Vuelve por Favor",
-      "url": "https://open.spotify.com/track/2UYYMHO9M2NCvpHVPOKJ9g"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "En Vivo",
         "url": "https://open.spotify.com/album/3OoDAWDsVyaDZYgvfv9ebT"
       },
@@ -483,6 +463,26 @@
       "duration_ms": 188040,
       "name": "Aquiles el de Tijuana (En Vivo)",
       "url": "https://open.spotify.com/track/2Cv7yRcIgMP53Hv7AuDLt4"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Mis 30 Aniversario (Vol. 1)",
+        "url": "https://open.spotify.com/album/7ufHHLXyH5jninZcI4EVaL"
+      },
+      "artists": [
+        {
+          "name": "Pancho Barraza",
+          "url": "https://open.spotify.com/artist/5dmU7FrmtbQaSzIvGsE4Jp"
+        },
+        {
+          "name": "Lenin Ram\u00edrez",
+          "url": "https://open.spotify.com/artist/3hTffafUYLLgO4yuPAxb5U"
+        }
+      ],
+      "duration_ms": 200703,
+      "name": "Vuelve por Favor",
+      "url": "https://open.spotify.com/track/2UYYMHO9M2NCvpHVPOKJ9g"
     },
     {
       "added_at": null,
@@ -619,6 +619,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Con Aroma a Alcohol",
+        "url": "https://open.spotify.com/album/3QOveKghJYUAf4YsbrvQRm"
+      },
+      "artists": [
+        {
+          "name": "Lenin Ram\u00edrez",
+          "url": "https://open.spotify.com/artist/3hTffafUYLLgO4yuPAxb5U"
+        }
+      ],
+      "duration_ms": 208000,
+      "name": "Tres Veladoras",
+      "url": "https://open.spotify.com/track/4Ua4dmFPenv0xlDK8sIEQN"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Dependencia Emocional",
         "url": "https://open.spotify.com/album/0baizf63HCAjkESipPwj9l"
       },
@@ -639,38 +655,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Con Aroma a Alcohol",
-        "url": "https://open.spotify.com/album/3QOveKghJYUAf4YsbrvQRm"
-      },
-      "artists": [
-        {
-          "name": "Lenin Ram\u00edrez",
-          "url": "https://open.spotify.com/artist/3hTffafUYLLgO4yuPAxb5U"
-        }
-      ],
-      "duration_ms": 208000,
-      "name": "Tres Veladoras",
-      "url": "https://open.spotify.com/track/4Ua4dmFPenv0xlDK8sIEQN"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Con Los Pies en La Tierra",
-        "url": "https://open.spotify.com/album/1Lfc9KLUvubRJ7TM4KZZ1r"
-      },
-      "artists": [
-        {
-          "name": "Lenin Ram\u00edrez",
-          "url": "https://open.spotify.com/artist/3hTffafUYLLgO4yuPAxb5U"
-        }
-      ],
-      "duration_ms": 175090,
-      "name": "24/7 Dolido",
-      "url": "https://open.spotify.com/track/6SOEnAfMK7T4rzW3dsHrLk"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "El Gordo",
         "url": "https://open.spotify.com/album/7r4O4UQOJwzBBu4dq5vatA"
       },
@@ -687,6 +671,22 @@
       "duration_ms": 166613,
       "name": "El Gordo",
       "url": "https://open.spotify.com/track/0hIwzRYTOPZPkFFv84MdQz"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Con Los Pies en La Tierra",
+        "url": "https://open.spotify.com/album/1Lfc9KLUvubRJ7TM4KZZ1r"
+      },
+      "artists": [
+        {
+          "name": "Lenin Ram\u00edrez",
+          "url": "https://open.spotify.com/artist/3hTffafUYLLgO4yuPAxb5U"
+        }
+      ],
+      "duration_ms": 175090,
+      "name": "24/7 Dolido",
+      "url": "https://open.spotify.com/track/6SOEnAfMK7T4rzW3dsHrLk"
     },
     {
       "added_at": null,
@@ -919,18 +919,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "Con Aroma a Alcohol",
-        "url": "https://open.spotify.com/album/3QOveKghJYUAf4YsbrvQRm"
+        "name": "Eso Es La Riqueza",
+        "url": "https://open.spotify.com/album/33mlZqWzDXoOS26N9XMnT3"
       },
       "artists": [
+        {
+          "name": "La Adictiva",
+          "url": "https://open.spotify.com/artist/49EE6lVLgU8sp7dFgPshgM"
+        },
         {
           "name": "Lenin Ram\u00edrez",
           "url": "https://open.spotify.com/artist/3hTffafUYLLgO4yuPAxb5U"
         }
       ],
-      "duration_ms": 171146,
-      "name": "Con Aroma A Alcohol - Version Banda",
-      "url": "https://open.spotify.com/track/2xhzEoGcFBLtJT2wH9CKE5"
+      "duration_ms": 174693,
+      "name": "Eso Es La Riqueza",
+      "url": "https://open.spotify.com/track/1Z4rfBr27XeDxzXgxQgug2"
     },
     {
       "added_at": null,
@@ -955,22 +959,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "Eso Es La Riqueza",
-        "url": "https://open.spotify.com/album/33mlZqWzDXoOS26N9XMnT3"
+        "name": "Con Aroma a Alcohol",
+        "url": "https://open.spotify.com/album/3QOveKghJYUAf4YsbrvQRm"
       },
       "artists": [
-        {
-          "name": "La Adictiva",
-          "url": "https://open.spotify.com/artist/49EE6lVLgU8sp7dFgPshgM"
-        },
         {
           "name": "Lenin Ram\u00edrez",
           "url": "https://open.spotify.com/artist/3hTffafUYLLgO4yuPAxb5U"
         }
       ],
-      "duration_ms": 174693,
-      "name": "Eso Es La Riqueza",
-      "url": "https://open.spotify.com/track/1Z4rfBr27XeDxzXgxQgug2"
+      "duration_ms": 171146,
+      "name": "Con Aroma A Alcohol - Version Banda",
+      "url": "https://open.spotify.com/track/2xhzEoGcFBLtJT2wH9CKE5"
     }
   ],
   "unique_name": "This Is Lenin Ram\u00edrez",

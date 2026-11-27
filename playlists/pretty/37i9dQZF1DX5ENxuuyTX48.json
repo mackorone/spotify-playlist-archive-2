@@ -1,6 +1,6 @@
 {
   "description": "After all, we are all siblings. Cover: Bernadya, Pamungkas",
-  "num_followers": 37490,
+  "num_followers": 37492,
   "original_name": "mantap vibes",
   "owner": {
     "name": "Spotify",
@@ -775,6 +775,22 @@
     {
       "added_at": "2026-10-16 07:21:03",
       "album": {
+        "name": "Sementara, Selamanya",
+        "url": "https://open.spotify.com/album/47wF2oUGXvb44j1Wo1aLfD"
+      },
+      "artists": [
+        {
+          "name": "Fajar Noor",
+          "url": "https://open.spotify.com/artist/3JQketpX6wbJUNAlOIigJc"
+        }
+      ],
+      "duration_ms": 227908,
+      "name": "Salah Apa Aku",
+      "url": "https://open.spotify.com/track/7vokkLgTYkd15cWSZ0lTp5"
+    },
+    {
+      "added_at": "2026-10-16 07:21:03",
+      "album": {
         "name": "Pergilah Kasih",
         "url": "https://open.spotify.com/album/1beyGP8N6Gk25YnbytA3vv"
       },
@@ -803,22 +819,6 @@
       "duration_ms": 283311,
       "name": "That Somebody",
       "url": "https://open.spotify.com/track/0rmhhawrhWNqqZprQTGWWz"
-    },
-    {
-      "added_at": "2026-10-16 07:21:03",
-      "album": {
-        "name": "Sementara, Selamanya",
-        "url": "https://open.spotify.com/album/47wF2oUGXvb44j1Wo1aLfD"
-      },
-      "artists": [
-        {
-          "name": "Fajar Noor",
-          "url": "https://open.spotify.com/artist/3JQketpX6wbJUNAlOIigJc"
-        }
-      ],
-      "duration_ms": 227908,
-      "name": "Salah Apa Aku",
-      "url": "https://open.spotify.com/track/7vokkLgTYkd15cWSZ0lTp5"
     },
     {
       "added_at": "2026-10-16 07:21:03",
@@ -879,6 +879,26 @@
     {
       "added_at": "2026-10-16 07:21:03",
       "album": {
+        "name": "Kok Masih Rindu?",
+        "url": "https://open.spotify.com/album/6ZmGnBimcLIsdQLXl2wMb4"
+      },
+      "artists": [
+        {
+          "name": "Akbar Chalay",
+          "url": "https://open.spotify.com/artist/0dIJRlr9m4hUwdBYmKUTjW"
+        },
+        {
+          "name": "Mingse",
+          "url": "https://open.spotify.com/artist/7n6UYi8ahl0SOStLqjWf6I"
+        }
+      ],
+      "duration_ms": 162928,
+      "name": "Kok Masih Rindu?",
+      "url": "https://open.spotify.com/track/3fVpFgP2I6kXEgdfIDpRKe"
+    },
+    {
+      "added_at": "2026-10-16 07:21:03",
+      "album": {
         "name": "Rabun Jauh",
         "url": "https://open.spotify.com/album/0gD4VL7vdxZfeUkRfTpLRM"
       },
@@ -927,26 +947,6 @@
       "duration_ms": 315506,
       "name": "Ropang",
       "url": "https://open.spotify.com/track/4c2OR5RjaVRhAOTqWhXZfQ"
-    },
-    {
-      "added_at": "2026-10-16 07:21:03",
-      "album": {
-        "name": "Kok Masih Rindu?",
-        "url": "https://open.spotify.com/album/6ZmGnBimcLIsdQLXl2wMb4"
-      },
-      "artists": [
-        {
-          "name": "Akbar Chalay",
-          "url": "https://open.spotify.com/artist/0dIJRlr9m4hUwdBYmKUTjW"
-        },
-        {
-          "name": "Mingse",
-          "url": "https://open.spotify.com/artist/7n6UYi8ahl0SOStLqjWf6I"
-        }
-      ],
-      "duration_ms": 162928,
-      "name": "Kok Masih Rindu?",
-      "url": "https://open.spotify.com/track/3fVpFgP2I6kXEgdfIDpRKe"
     },
     {
       "added_at": "2026-10-16 07:21:03",
@@ -1147,22 +1147,6 @@
     {
       "added_at": "2026-10-16 07:21:03",
       "album": {
-        "name": "Gurun Hujan",
-        "url": "https://open.spotify.com/album/6nKmMv7wQ37UCC7NrgnlTR"
-      },
-      "artists": [
-        {
-          "name": "Juicy Luicy",
-          "url": "https://open.spotify.com/artist/3tMTXQyRrPmMyHv5SoC0TV"
-        }
-      ],
-      "duration_ms": 190762,
-      "name": "Gurun Hujan",
-      "url": "https://open.spotify.com/track/4czYdbSTG4j5mlsgS6VWn7"
-    },
-    {
-      "added_at": "2026-10-16 07:21:03",
-      "album": {
         "name": "Mati Bersemi",
         "url": "https://open.spotify.com/album/2oJFJ9wTEMV6xT0kpeTEf0"
       },
@@ -1175,6 +1159,22 @@
       "duration_ms": 324083,
       "name": "Lalu Biru",
       "url": "https://open.spotify.com/track/3iC60wudai0qrFnkFUDHSs"
+    },
+    {
+      "added_at": "2026-10-16 07:21:03",
+      "album": {
+        "name": "Gurun Hujan",
+        "url": "https://open.spotify.com/album/6nKmMv7wQ37UCC7NrgnlTR"
+      },
+      "artists": [
+        {
+          "name": "Juicy Luicy",
+          "url": "https://open.spotify.com/artist/3tMTXQyRrPmMyHv5SoC0TV"
+        }
+      ],
+      "duration_ms": 190762,
+      "name": "Gurun Hujan",
+      "url": "https://open.spotify.com/track/4czYdbSTG4j5mlsgS6VWn7"
     },
     {
       "added_at": "2026-10-16 07:21:03",
@@ -1207,6 +1207,22 @@
       "duration_ms": 202191,
       "name": "Sayang Orang Sama",
       "url": "https://open.spotify.com/track/1pkemoTIuhFJrX3GLKGf9y"
+    },
+    {
+      "added_at": "2026-10-16 07:21:03",
+      "album": {
+        "name": "iqro'",
+        "url": "https://open.spotify.com/album/3XqIOufqMUKfSTpzuz4ok3"
+      },
+      "artists": [
+        {
+          "name": "Raim Laode",
+          "url": "https://open.spotify.com/artist/5LcNPa8f8bRmZqELgoRFkN"
+        }
+      ],
+      "duration_ms": 271343,
+      "name": "Menari-nari",
+      "url": "https://open.spotify.com/track/0UZOqGXaMzOSuhgew24neL"
     },
     {
       "added_at": "2026-10-16 07:21:03",
@@ -1263,22 +1279,6 @@
       "duration_ms": 232615,
       "name": "Sudah Tahu Tuhan Kita Berbeda",
       "url": "https://open.spotify.com/track/17JYicZJSXhHJ3FCY9pv6L"
-    },
-    {
-      "added_at": "2026-10-16 07:21:03",
-      "album": {
-        "name": "iqro'",
-        "url": "https://open.spotify.com/album/3XqIOufqMUKfSTpzuz4ok3"
-      },
-      "artists": [
-        {
-          "name": "Raim Laode",
-          "url": "https://open.spotify.com/artist/5LcNPa8f8bRmZqELgoRFkN"
-        }
-      ],
-      "duration_ms": 271343,
-      "name": "Menari-nari",
-      "url": "https://open.spotify.com/track/0UZOqGXaMzOSuhgew24neL"
     },
     {
       "added_at": "2026-10-16 07:21:03",
@@ -1523,22 +1523,6 @@
     {
       "added_at": "2026-10-16 07:21:03",
       "album": {
-        "name": "Hatchu!!",
-        "url": "https://open.spotify.com/album/1BTnjmmBTK1QxlqwYPdQ5F"
-      },
-      "artists": [
-        {
-          "name": "Salma Salsabil",
-          "url": "https://open.spotify.com/artist/1y46m0kIaKwnodL0ElvQIs"
-        }
-      ],
-      "duration_ms": 204343,
-      "name": "Hatchu!!",
-      "url": "https://open.spotify.com/track/2Xrakgck64eK7BebSfiWsp"
-    },
-    {
-      "added_at": "2026-10-16 07:21:03",
-      "album": {
         "name": "Bila",
         "url": "https://open.spotify.com/album/0rTZJbjUYarAtLGkV2NejN"
       },
@@ -1551,6 +1535,22 @@
       "duration_ms": 152374,
       "name": "Bila",
       "url": "https://open.spotify.com/track/5vUHyNdyf058fWhnUY5nIr"
+    },
+    {
+      "added_at": "2026-10-16 07:21:03",
+      "album": {
+        "name": "Hatchu!!",
+        "url": "https://open.spotify.com/album/1BTnjmmBTK1QxlqwYPdQ5F"
+      },
+      "artists": [
+        {
+          "name": "Salma Salsabil",
+          "url": "https://open.spotify.com/artist/1y46m0kIaKwnodL0ElvQIs"
+        }
+      ],
+      "duration_ms": 204343,
+      "name": "Hatchu!!",
+      "url": "https://open.spotify.com/track/2Xrakgck64eK7BebSfiWsp"
     },
     {
       "added_at": "2026-10-16 07:21:03",
@@ -1707,26 +1707,6 @@
     {
       "added_at": "2026-10-16 07:21:03",
       "album": {
-        "name": "Sebatas Mimpi",
-        "url": "https://open.spotify.com/album/7i0hFkyqprLGxZu5uVGEnY"
-      },
-      "artists": [
-        {
-          "name": "Angie Carvalho",
-          "url": "https://open.spotify.com/artist/6nUQOIpgG7Sf0DqSJODNmK"
-        },
-        {
-          "name": "Yovie Widianto",
-          "url": "https://open.spotify.com/artist/7Ln5yumFjHCkeZ8bAzHUcp"
-        }
-      ],
-      "duration_ms": 218240,
-      "name": "Sebatas Mimpi",
-      "url": "https://open.spotify.com/track/66bAuBggOmZ4YDgqlWk8Fo"
-    },
-    {
-      "added_at": "2026-10-16 07:21:03",
-      "album": {
         "name": "Sang Penikam 2026",
         "url": "https://open.spotify.com/album/5UCmJPDYgmKNRnzm7vWAUy"
       },
@@ -1743,6 +1723,26 @@
       "duration_ms": 344090,
       "name": "Sang Penikam 2026",
       "url": "https://open.spotify.com/track/6JUiXGuIM4xVf56nivKJ9K"
+    },
+    {
+      "added_at": "2026-10-16 07:21:03",
+      "album": {
+        "name": "Sebatas Mimpi",
+        "url": "https://open.spotify.com/album/7i0hFkyqprLGxZu5uVGEnY"
+      },
+      "artists": [
+        {
+          "name": "Angie Carvalho",
+          "url": "https://open.spotify.com/artist/6nUQOIpgG7Sf0DqSJODNmK"
+        },
+        {
+          "name": "Yovie Widianto",
+          "url": "https://open.spotify.com/artist/7Ln5yumFjHCkeZ8bAzHUcp"
+        }
+      ],
+      "duration_ms": 218240,
+      "name": "Sebatas Mimpi",
+      "url": "https://open.spotify.com/track/66bAuBggOmZ4YDgqlWk8Fo"
     }
   ],
   "unique_name": "mantap vibes",

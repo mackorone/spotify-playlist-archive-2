@@ -3960,7 +3960,7 @@
       ],
       "date_added": "2026-05-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-27",
       "duration_ms": 154160,
       "name": "A\u0219a \u0219i a\u0219a",
       "url": "https://open.spotify.com/track/1MlChz5MNNWw0MZwFZu7ho"
@@ -6200,7 +6200,7 @@
       ],
       "date_added": "2025-04-29",
       "date_added_asterisk": false,
-      "date_removed": "2026-11-26",
+      "date_removed": null,
       "duration_ms": 159157,
       "name": "Bipolar\u0103",
       "url": "https://open.spotify.com/track/66elBtZzxgKPrj2FvKrQ3R"
@@ -8814,7 +8814,7 @@
       ],
       "date_added": "2026-11-13",
       "date_added_asterisk": false,
-      "date_removed": "2026-11-20",
+      "date_removed": null,
       "duration_ms": 218164,
       "name": "Ce Intrari Avem",
       "url": "https://open.spotify.com/track/0zrVEuNAcZFPvVw6uIQO0g"
@@ -10473,6 +10473,24 @@
     },
     {
       "album": {
+        "name": "Colt de rai",
+        "url": "https://open.spotify.com/album/12E5hRYvMur7QCt0zkn0HF"
+      },
+      "artists": [
+        {
+          "name": "Alex Botea",
+          "url": "https://open.spotify.com/artist/0P8GOB6ZytMhZX8fd1OUsz"
+        }
+      ],
+      "date_added": "2026-11-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 258857,
+      "name": "Colt de rai",
+      "url": "https://open.spotify.com/track/2noAaFEMSINNOsPnMqTZC0"
+    },
+    {
+      "album": {
         "name": "Hustler",
         "url": "https://open.spotify.com/album/6Xy6jJdpb5Cck12U7pHA1E"
       },
@@ -11734,7 +11752,7 @@
       ],
       "date_added": "2025-11-18",
       "date_added_asterisk": false,
-      "date_removed": "2025-11-20",
+      "date_removed": null,
       "duration_ms": 194851,
       "name": "Da-mi locatia",
       "url": "https://open.spotify.com/track/63kILzmdAQKYKlU52yzozZ"
@@ -16172,7 +16190,7 @@
       ],
       "date_added": "2026-09-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-27",
       "duration_ms": 161843,
       "name": "Eu plec cu ea",
       "url": "https://open.spotify.com/track/6Kb5cFq5B3hGj5WPNSTg1T"
@@ -17826,7 +17844,7 @@
       ],
       "date_added": "2025-05-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-27",
       "duration_ms": 198000,
       "name": "FLY",
       "url": "https://open.spotify.com/track/4Hnz28zV4yVyc2J7U3ZR0x"
@@ -23722,7 +23740,7 @@
       ],
       "date_added": "2026-11-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-27",
       "duration_ms": 244600,
       "name": "Inima fara noroc",
       "url": "https://open.spotify.com/track/41VEG2YqkaK7JZgjbstEW6"
@@ -31832,7 +31850,7 @@
       ],
       "date_added": "2026-02-21",
       "date_added_asterisk": false,
-      "date_removed": "2026-11-25",
+      "date_removed": null,
       "duration_ms": 189000,
       "name": "M\u0103 sun\u0103 nebunele",
       "url": "https://open.spotify.com/track/14WRFJcCJpyQnPAj4hv7O7"
@@ -35628,7 +35646,7 @@
       ],
       "date_added": "2026-06-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-27",
       "duration_ms": 211013,
       "name": "paradyse",
       "url": "https://open.spotify.com/track/2os0uiO7qZQoLYqjJQ2J6v"
@@ -37019,6 +37037,28 @@
     },
     {
       "album": {
+        "name": "Poala mea",
+        "url": "https://open.spotify.com/album/7r3W6Z0Rw1gmMBFnlAXnGv"
+      },
+      "artists": [
+        {
+          "name": "MADATORRICELLI",
+          "url": "https://open.spotify.com/artist/4y2uMVYqHq7SlTTfBQpdsJ"
+        },
+        {
+          "name": "Beach, Please!",
+          "url": "https://open.spotify.com/artist/0AljsDnrnSvZELOH1OE9CB"
+        }
+      ],
+      "date_added": "2026-11-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 156631,
+      "name": "Poala mea",
+      "url": "https://open.spotify.com/track/0O9sVjHhmFyyUeWmUFtg4h"
+    },
+    {
+      "album": {
         "name": "Ap\u0103 (Deluxe Edition)",
         "url": "https://open.spotify.com/album/0W1bmifq59fFf75BBeTv8B"
       },
@@ -37680,7 +37720,7 @@
       ],
       "date_added": "2025-07-05",
       "date_added_asterisk": false,
-      "date_removed": "2026-11-26",
+      "date_removed": null,
       "duration_ms": 202220,
       "name": "PRIETENA TA",
       "url": "https://open.spotify.com/track/6lu7h9TW9L94lAevaJbyvy"
@@ -38250,7 +38290,7 @@
       ],
       "date_added": "2026-10-07",
       "date_added_asterisk": false,
-      "date_removed": "2026-11-26",
+      "date_removed": null,
       "duration_ms": 137872,
       "name": "Pun mana pe ea",
       "url": "https://open.spotify.com/track/5tM7fT2w14kNUg0CkitDpi"
@@ -42070,7 +42110,7 @@
       ],
       "date_added": "2025-05-17",
       "date_added_asterisk": false,
-      "date_removed": "2026-04-30",
+      "date_removed": null,
       "duration_ms": 142000,
       "name": "sexyZ",
       "url": "https://open.spotify.com/track/2G7zweQ25yC9xHNIGEuvcb"
@@ -44802,7 +44842,7 @@
       ],
       "date_added": "2025-09-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-27",
       "duration_ms": 214649,
       "name": "STIU CA TI-E DOR",
       "url": "https://open.spotify.com/track/2PQDJhSNFJE1YM1lxTSZk9"
@@ -46020,7 +46060,7 @@
       ],
       "date_added": "2026-03-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-27",
       "duration_ms": 159007,
       "name": "SWIM",
       "url": "https://open.spotify.com/track/68lbSrXDORS51pmyjZv712"
@@ -46764,7 +46804,7 @@
       ],
       "date_added": "2026-10-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-27",
       "duration_ms": 222347,
       "name": "Te Fac Sa Mori De Mine",
       "url": "https://open.spotify.com/track/6BgYIu4nTu8t17YdozyQWK"
@@ -50114,7 +50154,7 @@
       ],
       "date_added": "2023-04-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-27",
       "duration_ms": 216804,
       "name": "ultima noapte de dragoste",
       "url": "https://open.spotify.com/track/0oXZ3qfucx429EeoUDbXhK"

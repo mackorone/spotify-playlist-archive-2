@@ -1,12 +1,12 @@
 {
   "description": "This is Los inquietos del vallenato. The essential tracks, all in one playlist.",
-  "num_followers": 32656,
+  "num_followers": 32658,
   "original_name": "This Is Los inquietos del vallenato",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "awOCAAAAAADEMKFrEyu+Swy9yY5slPHs",
+  "snapshot_id": "awYlAAAAAABLGKUuD9EV1G0LxllLFpco",
   "tracks": [
     {
       "added_at": null,
@@ -203,8 +203,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Presente y Futuro",
-        "url": "https://open.spotify.com/album/7MUG211VpL3P7h2ANoMNSP"
+        "name": "Buenos Tiempos",
+        "url": "https://open.spotify.com/album/6ATrYjKXRdMAxaKGtp2sSv"
       },
       "artists": [
         {
@@ -212,9 +212,9 @@
           "url": "https://open.spotify.com/artist/1i2sOJlmgkWrWx28rB17Bd"
         }
       ],
-      "duration_ms": 303546,
-      "name": "Ven Y Dime",
-      "url": "https://open.spotify.com/track/67SvCf7lfwSkVyAPlvZ1AS"
+      "duration_ms": 300982,
+      "name": "Me Matar\u00e1 El Sentimiento",
+      "url": "https://open.spotify.com/track/2QJHTS9SihbPj9wKN0oa9C"
     },
     {
       "added_at": null,
@@ -235,8 +235,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Buenos Tiempos",
-        "url": "https://open.spotify.com/album/6ATrYjKXRdMAxaKGtp2sSv"
+        "name": "Presente y Futuro",
+        "url": "https://open.spotify.com/album/7MUG211VpL3P7h2ANoMNSP"
       },
       "artists": [
         {
@@ -244,9 +244,9 @@
           "url": "https://open.spotify.com/artist/1i2sOJlmgkWrWx28rB17Bd"
         }
       ],
-      "duration_ms": 300982,
-      "name": "Me Matar\u00e1 El Sentimiento",
-      "url": "https://open.spotify.com/track/2QJHTS9SihbPj9wKN0oa9C"
+      "duration_ms": 303546,
+      "name": "Ven Y Dime",
+      "url": "https://open.spotify.com/track/67SvCf7lfwSkVyAPlvZ1AS"
     },
     {
       "added_at": null,
@@ -263,22 +263,6 @@
       "duration_ms": 267626,
       "name": "Primavera Azul",
       "url": "https://open.spotify.com/track/23tkUf3GABPnRTakTBRAe0"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Presente y Futuro",
-        "url": "https://open.spotify.com/album/7MUG211VpL3P7h2ANoMNSP"
-      },
-      "artists": [
-        {
-          "name": "Los inquietos del vallenato",
-          "url": "https://open.spotify.com/artist/1i2sOJlmgkWrWx28rB17Bd"
-        }
-      ],
-      "duration_ms": 284600,
-      "name": "Ven A M\u00ed",
-      "url": "https://open.spotify.com/track/1GdNQquq0BgZandu8lxfrx"
     },
     {
       "added_at": null,
@@ -315,6 +299,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Presente y Futuro",
+        "url": "https://open.spotify.com/album/7MUG211VpL3P7h2ANoMNSP"
+      },
+      "artists": [
+        {
+          "name": "Los inquietos del vallenato",
+          "url": "https://open.spotify.com/artist/1i2sOJlmgkWrWx28rB17Bd"
+        }
+      ],
+      "duration_ms": 284600,
+      "name": "Ven A M\u00ed",
+      "url": "https://open.spotify.com/track/1GdNQquq0BgZandu8lxfrx"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Inquietos por el Mundo",
         "url": "https://open.spotify.com/album/01AO43F1xJA1t6m8g5QlJW"
       },
@@ -347,22 +347,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Con Luz Propia",
-        "url": "https://open.spotify.com/album/6zUPSO3nAslXMD5BdxGE8S"
-      },
-      "artists": [
-        {
-          "name": "Los inquietos del vallenato",
-          "url": "https://open.spotify.com/artist/1i2sOJlmgkWrWx28rB17Bd"
-        }
-      ],
-      "duration_ms": 240253,
-      "name": "Ven T\u00fa",
-      "url": "https://open.spotify.com/track/1TVcu3Ve1Mds74o8f4vTou"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Sue\u00f1os de Colombia",
         "url": "https://open.spotify.com/album/7FHFcPMOdTXQ9AozIqpCia"
       },
@@ -379,6 +363,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Con Luz Propia",
+        "url": "https://open.spotify.com/album/6zUPSO3nAslXMD5BdxGE8S"
+      },
+      "artists": [
+        {
+          "name": "Los inquietos del vallenato",
+          "url": "https://open.spotify.com/artist/1i2sOJlmgkWrWx28rB17Bd"
+        }
+      ],
+      "duration_ms": 240253,
+      "name": "Ven T\u00fa",
+      "url": "https://open.spotify.com/track/1TVcu3Ve1Mds74o8f4vTou"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Presente y Futuro",
         "url": "https://open.spotify.com/album/7MUG211VpL3P7h2ANoMNSP"
       },
@@ -391,22 +391,6 @@
       "duration_ms": 286666,
       "name": "Te Quiero Asi",
       "url": "https://open.spotify.com/track/3YHoI3rKWYyxg7va9VyEy1"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Volver a Triunfar",
-        "url": "https://open.spotify.com/album/2zmudHpIZ9n0TfeuAFaImO"
-      },
-      "artists": [
-        {
-          "name": "Los inquietos del vallenato",
-          "url": "https://open.spotify.com/artist/1i2sOJlmgkWrWx28rB17Bd"
-        }
-      ],
-      "duration_ms": 257653,
-      "name": "No Le Temas Al Amor",
-      "url": "https://open.spotify.com/track/7jE4t5ZWcXvPnt9BSzVm8a"
     },
     {
       "added_at": null,
@@ -443,70 +427,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Por Siempre",
-        "url": "https://open.spotify.com/album/1xg7guYWSlsud8r0U6uMqU"
-      },
-      "artists": [
-        {
-          "name": "Los inquietos del vallenato",
-          "url": "https://open.spotify.com/artist/1i2sOJlmgkWrWx28rB17Bd"
-        }
-      ],
-      "duration_ms": 297280,
-      "name": "Suave Brisa",
-      "url": "https://open.spotify.com/track/7abGJIx7X3mbeVsBQiJhnb"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Presente y Futuro",
-        "url": "https://open.spotify.com/album/7MUG211VpL3P7h2ANoMNSP"
-      },
-      "artists": [
-        {
-          "name": "Los inquietos del vallenato",
-          "url": "https://open.spotify.com/artist/1i2sOJlmgkWrWx28rB17Bd"
-        }
-      ],
-      "duration_ms": 313933,
-      "name": "Vivimos Lo Nuestro",
-      "url": "https://open.spotify.com/track/4HqY4sYQqEDcxLp9lemip5"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Buenos Tiempos",
-        "url": "https://open.spotify.com/album/6ATrYjKXRdMAxaKGtp2sSv"
-      },
-      "artists": [
-        {
-          "name": "Los inquietos del vallenato",
-          "url": "https://open.spotify.com/artist/1i2sOJlmgkWrWx28rB17Bd"
-        }
-      ],
-      "duration_ms": 271960,
-      "name": "Solo Amame",
-      "url": "https://open.spotify.com/track/6waFDuT3aPGzbmI6SWnlx8"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Inquietos por el Mundo",
-        "url": "https://open.spotify.com/album/01AO43F1xJA1t6m8g5QlJW"
-      },
-      "artists": [
-        {
-          "name": "Los inquietos del vallenato",
-          "url": "https://open.spotify.com/artist/1i2sOJlmgkWrWx28rB17Bd"
-        }
-      ],
-      "duration_ms": 278053,
-      "name": "No Te Olvides de Mi",
-      "url": "https://open.spotify.com/track/0DbE1B9SW27XmoHPdGfJG5"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Volver a Triunfar",
         "url": "https://open.spotify.com/album/2zmudHpIZ9n0TfeuAFaImO"
       },
@@ -516,9 +436,9 @@
           "url": "https://open.spotify.com/artist/1i2sOJlmgkWrWx28rB17Bd"
         }
       ],
-      "duration_ms": 255253,
-      "name": "Mi Soledad",
-      "url": "https://open.spotify.com/track/2WEhsbO6w0K33ag59IKpIW"
+      "duration_ms": 257653,
+      "name": "No Le Temas Al Amor",
+      "url": "https://open.spotify.com/track/7jE4t5ZWcXvPnt9BSzVm8a"
     },
     {
       "added_at": null,
@@ -548,9 +468,89 @@
           "url": "https://open.spotify.com/artist/1i2sOJlmgkWrWx28rB17Bd"
         }
       ],
+      "duration_ms": 271960,
+      "name": "Solo Amame",
+      "url": "https://open.spotify.com/track/6waFDuT3aPGzbmI6SWnlx8"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Por Siempre",
+        "url": "https://open.spotify.com/album/1xg7guYWSlsud8r0U6uMqU"
+      },
+      "artists": [
+        {
+          "name": "Los inquietos del vallenato",
+          "url": "https://open.spotify.com/artist/1i2sOJlmgkWrWx28rB17Bd"
+        }
+      ],
+      "duration_ms": 297280,
+      "name": "Suave Brisa",
+      "url": "https://open.spotify.com/track/7abGJIx7X3mbeVsBQiJhnb"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Inquietos por el Mundo",
+        "url": "https://open.spotify.com/album/01AO43F1xJA1t6m8g5QlJW"
+      },
+      "artists": [
+        {
+          "name": "Los inquietos del vallenato",
+          "url": "https://open.spotify.com/artist/1i2sOJlmgkWrWx28rB17Bd"
+        }
+      ],
+      "duration_ms": 278053,
+      "name": "No Te Olvides de Mi",
+      "url": "https://open.spotify.com/track/0DbE1B9SW27XmoHPdGfJG5"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Presente y Futuro",
+        "url": "https://open.spotify.com/album/7MUG211VpL3P7h2ANoMNSP"
+      },
+      "artists": [
+        {
+          "name": "Los inquietos del vallenato",
+          "url": "https://open.spotify.com/artist/1i2sOJlmgkWrWx28rB17Bd"
+        }
+      ],
+      "duration_ms": 313933,
+      "name": "Vivimos Lo Nuestro",
+      "url": "https://open.spotify.com/track/4HqY4sYQqEDcxLp9lemip5"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Buenos Tiempos",
+        "url": "https://open.spotify.com/album/6ATrYjKXRdMAxaKGtp2sSv"
+      },
+      "artists": [
+        {
+          "name": "Los inquietos del vallenato",
+          "url": "https://open.spotify.com/artist/1i2sOJlmgkWrWx28rB17Bd"
+        }
+      ],
       "duration_ms": 301714,
       "name": "Te Amar\u00e9",
       "url": "https://open.spotify.com/track/3oIs4KYGL1W8DpWUbRyk66"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Volver a Triunfar",
+        "url": "https://open.spotify.com/album/2zmudHpIZ9n0TfeuAFaImO"
+      },
+      "artists": [
+        {
+          "name": "Los inquietos del vallenato",
+          "url": "https://open.spotify.com/artist/1i2sOJlmgkWrWx28rB17Bd"
+        }
+      ],
+      "duration_ms": 255253,
+      "name": "Mi Soledad",
+      "url": "https://open.spotify.com/track/2WEhsbO6w0K33ag59IKpIW"
     },
     {
       "added_at": null,
@@ -567,22 +567,6 @@
       "duration_ms": 281386,
       "name": "Cuando Te Vayas",
       "url": "https://open.spotify.com/track/629bybYHCuo9VtG695Qk8F"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Volver a Triunfar",
-        "url": "https://open.spotify.com/album/2zmudHpIZ9n0TfeuAFaImO"
-      },
-      "artists": [
-        {
-          "name": "Los inquietos del vallenato",
-          "url": "https://open.spotify.com/artist/1i2sOJlmgkWrWx28rB17Bd"
-        }
-      ],
-      "duration_ms": 243080,
-      "name": "Cada D\u00eda Te Quiero M\u00e1s",
-      "url": "https://open.spotify.com/track/3AoWQtlL6Ma0z54NKuBhF3"
     },
     {
       "added_at": null,
@@ -619,6 +603,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Volver a Triunfar",
+        "url": "https://open.spotify.com/album/2zmudHpIZ9n0TfeuAFaImO"
+      },
+      "artists": [
+        {
+          "name": "Los inquietos del vallenato",
+          "url": "https://open.spotify.com/artist/1i2sOJlmgkWrWx28rB17Bd"
+        }
+      ],
+      "duration_ms": 243080,
+      "name": "Cada D\u00eda Te Quiero M\u00e1s",
+      "url": "https://open.spotify.com/track/3AoWQtlL6Ma0z54NKuBhF3"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Buenos Tiempos",
         "url": "https://open.spotify.com/album/6ATrYjKXRdMAxaKGtp2sSv"
       },
@@ -631,22 +631,6 @@
       "duration_ms": 227918,
       "name": "Dos Locos",
       "url": "https://open.spotify.com/track/04sQocLyA1HIldBgUhbAQe"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Volver a Triunfar",
-        "url": "https://open.spotify.com/album/2zmudHpIZ9n0TfeuAFaImO"
-      },
-      "artists": [
-        {
-          "name": "Los inquietos del vallenato",
-          "url": "https://open.spotify.com/artist/1i2sOJlmgkWrWx28rB17Bd"
-        }
-      ],
-      "duration_ms": 254133,
-      "name": "D\u00ed Que Si",
-      "url": "https://open.spotify.com/track/4Zl7QcPqfCIMFzc3BcjB7o"
     },
     {
       "added_at": null,
@@ -683,6 +667,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Volver a Triunfar",
+        "url": "https://open.spotify.com/album/2zmudHpIZ9n0TfeuAFaImO"
+      },
+      "artists": [
+        {
+          "name": "Los inquietos del vallenato",
+          "url": "https://open.spotify.com/artist/1i2sOJlmgkWrWx28rB17Bd"
+        }
+      ],
+      "duration_ms": 254133,
+      "name": "D\u00ed Que Si",
+      "url": "https://open.spotify.com/track/4Zl7QcPqfCIMFzc3BcjB7o"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Buenos Tiempos",
         "url": "https://open.spotify.com/album/6ATrYjKXRdMAxaKGtp2sSv"
       },
@@ -695,22 +695,6 @@
       "duration_ms": 322560,
       "name": "Tu Historieta",
       "url": "https://open.spotify.com/track/39BcI6ZugEmBfN44khXiuc"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Orgullo Vallenato",
-        "url": "https://open.spotify.com/album/58XJDLb5RJOKVfGEx4OoRA"
-      },
-      "artists": [
-        {
-          "name": "Los inquietos del vallenato",
-          "url": "https://open.spotify.com/artist/1i2sOJlmgkWrWx28rB17Bd"
-        }
-      ],
-      "duration_ms": 283546,
-      "name": "Te Quiero Como Eres",
-      "url": "https://open.spotify.com/track/49Y9MIid1kzJYaULdsJ7S8"
     },
     {
       "added_at": null,
@@ -743,6 +727,22 @@
       "duration_ms": 288680,
       "name": "Quisiera Ser Como Tu",
       "url": "https://open.spotify.com/track/4i6MltBTLgpUaitF1JmfDe"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Orgullo Vallenato",
+        "url": "https://open.spotify.com/album/58XJDLb5RJOKVfGEx4OoRA"
+      },
+      "artists": [
+        {
+          "name": "Los inquietos del vallenato",
+          "url": "https://open.spotify.com/artist/1i2sOJlmgkWrWx28rB17Bd"
+        }
+      ],
+      "duration_ms": 283546,
+      "name": "Te Quiero Como Eres",
+      "url": "https://open.spotify.com/track/49Y9MIid1kzJYaULdsJ7S8"
     },
     {
       "added_at": null,

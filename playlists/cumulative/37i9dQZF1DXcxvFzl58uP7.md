@@ -4,7 +4,7 @@
 
 > Dreamy melodies and hushed vocals\. Cover: Gabriela Bee
 
-1,069 songs - 2 day 7 hr 28 min
+1,071 songs - 2 day 7 hr 33 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -328,6 +328,7 @@
 | [Feeling Good](https://open.spotify.com/track/5rIVvxrkGWLGYV4UrEh1WE) | [Madson Project.](https://open.spotify.com/artist/7dEFLdpxjmqhnv5ePvCTP7), [Ok2222](https://open.spotify.com/artist/032KwgTrwjRFmANQ7R0oKX) | [Feeling Good](https://open.spotify.com/album/7tlFmHnOoNRXOnb2hb5p8F) | 2:21 | 2019-07-30\* | 2021-05-28 |
 | [Feels Good to Laugh](https://open.spotify.com/track/2mcfbhM10CF3Kobonpst1P) | [Honeywhip](https://open.spotify.com/artist/1yyRuOZtns01N2hUtseLT0) | [Feels Good to Laugh](https://open.spotify.com/album/0r6UvwailjTPu6vjLNHKxz) | 2:49 | 2020-04-21 | 2021-08-26 |
 | [Fever Dream](https://open.spotify.com/track/6Y2xAiFDPNnnmuS7cYp3GI) | [Scarlett](https://open.spotify.com/artist/4dHHC9hAlB6BoOq6KWUHgj) | [Fever Dream](https://open.spotify.com/album/1nf7NpH6gM1PU2EuJYGwrF) | 2:57 | 2020-06-24 | 2021-05-18 |
+| [Figure It Out](https://open.spotify.com/track/6aE9uuoDdXMFZiKadQPE1B) | [Old Man Canyon](https://open.spotify.com/artist/3lybdJ5QPH5NJolzMVKnLx) | [Figure It Out](https://open.spotify.com/album/4KIFXJ1rSuxVD9gt0jb8uQ) | 2:21 | 2026-11-27 |  |
 | [Fired Up](https://open.spotify.com/track/030CNJwkkIkLedZhBlLReh) | [Evan Torrente](https://open.spotify.com/artist/4DVUPd8bfkx2b1TvHKFVVF) | [Fired Up](https://open.spotify.com/album/3P4xycP0wCQBxFGHWUVmud) | 3:01 | 2021-10-29 | 2022-04-09 |
 | [Flaming Hot Cheetos](https://open.spotify.com/track/6Q4oiVdxUveuaVEXWfephy) | [Clairo](https://open.spotify.com/artist/3l0CmX0FuQjFxr8SK7Vqag) | [Flaming Hot Cheetos](https://open.spotify.com/album/236cmOOacJenVPmlb7pAAe) | 2:03 | 2019-07-31 | 2022-07-28 |
 | [Flaming Hot Cheetos](https://open.spotify.com/track/1F6IbA7di42uPc3cff8PXV) | [Clairo](https://open.spotify.com/artist/3l0CmX0FuQjFxr8SK7Vqag) | [Flaming Hot Cheetos](https://open.spotify.com/album/12pkuSY7Cy2sc5Ix0XIYIE) | 2:03 | 2021-02-27 | 2023-06-10 |
@@ -539,6 +540,7 @@
 | [Lee's Last Dance](https://open.spotify.com/track/7fw8RYPrugH1suWWAmB0Q2) | [Gilligan Moss](https://open.spotify.com/artist/2fo0F81pRzdXjmWP6MkQqB) | [Lee's Last Dance](https://open.spotify.com/album/3p0q39Mghvq19nr4rKmsz2) | 3:10 | 2021-03-21 | 2021-05-25 |
 | [legroom](https://open.spotify.com/track/4JzuUq7VjNF32PJb51l8n5) | [adan diaz](https://open.spotify.com/artist/6ktN7KRUuaLMHyKOog3tGP) | [legroom](https://open.spotify.com/album/7Ah5gi5esQYI7UNNABFft4) | 1:37 | 2021-11-19 | 2022-12-15 |
 | [LEMME](https://open.spotify.com/track/555fZ7u65xGM2oyLQzXqlg) | [CRITTER](https://open.spotify.com/artist/7arvE5qBEbW7UgwoaJhpOM) | [LEMME](https://open.spotify.com/album/1gRG0X4qunVTYzRceeWn4R) | 2:40 | 2021-04-30 | 2021-05-26 |
+| [Les Avions](https://open.spotify.com/track/3a8dudjsnG6vmvGhnOTogK) | [Sophia Bel](https://open.spotify.com/artist/6WJnpSVDynCWGrhJcSQIm6) | [Les Avions](https://open.spotify.com/album/3cMDtJUtwrDMc35OJj9cRM) | 2:34 | 2026-11-27 |  |
 | [Let Go](https://open.spotify.com/track/2bpLqoucf7nznaYYbsnw8H) | [The Polar Boys](https://open.spotify.com/artist/57Wc6hKk68L1KrjdA3Z8cd) | [Let Go](https://open.spotify.com/album/77h3CQoCjiTFuVylbD3x83) | 3:27 | 2021-04-29 | 2021-08-24 |
 | [Let Me Help You](https://open.spotify.com/track/0YmAnzsr1Jb2k7fiENDatx) | [Baseball Gregg](https://open.spotify.com/artist/7MXsu694gc1X8K6s7XPmw4), [Boy Romeo](https://open.spotify.com/artist/1dULeNQzjHQZQuxi7fkdPI) | [Let Me Help You](https://open.spotify.com/album/1dKfJpB3WPtJZE25yKfGYG) | 3:01 | 2021-02-28 | 2021-06-27 |
 | [Let There Be Light Again](https://open.spotify.com/track/0YCz0CKKxSx1Ezk0HsYnHI) | [Sunset Rollercoaster](https://open.spotify.com/artist/7BqRcZsHYYQeqMAOp7e532) | [Let There Be Light Again](https://open.spotify.com/album/2T9PfTuP5ovbfpM7wv6nez) | 3:47 | 2021-09-10 | 2022-04-29 |
@@ -806,7 +808,7 @@
 | [Shooting Star](https://open.spotify.com/track/5HSCHarXwdTRIfVwsYnbRA) | [Tommy Newport](https://open.spotify.com/artist/7FvQR6QFfXmW18dyMqnHvv) | [Shooting Star](https://open.spotify.com/album/50hsrcRrFSSPzWIIPhDgRV) | 2:34 | 2020-06-20 | 2021-04-30 |
 | [should i get my ears pierced?](https://open.spotify.com/track/3F86hfA7Afrya4LTKckWKM) | [remy](https://open.spotify.com/artist/4DsVKs4W72RTKOfD3CtTaw) | [should i get my ears pierced?](https://open.spotify.com/album/7DNALWifdczn56CQ0IrAa9) | 2:31 | 2021-07-02 | 2022-04-17 |
 | [Shoulder](https://open.spotify.com/track/0cs9JUEbRpq0FKlrLatqnL) | [CASTLEBEAT](https://open.spotify.com/artist/0k8UHfMqW86uvhmhHiYzj3), [Sonia Gadhia](https://open.spotify.com/artist/3bjxtDdZiByIKfHFEK96zB) | [Melodrama](https://open.spotify.com/album/4VDue6QekQ9iZZpMTLS7ZX) | 3:21 | 2020-10-16 | 2021-07-26 |
-| [Show Me How](https://open.spotify.com/track/01TyFEZu6mHbffsVfxgrFn) | [Men I Trust](https://open.spotify.com/artist/3zmfs9cQwzJl575W1ZYXeT) | [Show Me How](https://open.spotify.com/album/75IgpYGNlc8KmwZ9FlTtJg) | 3:35 | 2021-11-17 |  |
+| [Show Me How](https://open.spotify.com/track/01TyFEZu6mHbffsVfxgrFn) | [Men I Trust](https://open.spotify.com/artist/3zmfs9cQwzJl575W1ZYXeT) | [Show Me How](https://open.spotify.com/album/75IgpYGNlc8KmwZ9FlTtJg) | 3:35 | 2021-11-17 | 2026-11-27 |
 | [Show Me How](https://open.spotify.com/track/75IQVo8hqI1iwVZyvkN2VT) | [Men I Trust](https://open.spotify.com/artist/3zmfs9cQwzJl575W1ZYXeT) | [Show Me How](https://open.spotify.com/album/7mUYDBqNiddmKxuKrnBEKQ) | 3:35 | 2023-09-29 | 2024-04-19 |
 | [Show Runner 99](https://open.spotify.com/track/4G5bnCpOB99DIcOQa6QVYw) | [Ritt Momney](https://open.spotify.com/artist/7MPGCB854Qo4alYMOPkBka) | [Show Runner 99](https://open.spotify.com/album/1ixXFuKaljRwvI8IEupLeQ) | 3:26 | 2021-08-27 | 2022-07-29 |
 | [Shy](https://open.spotify.com/track/3TFNxpIwIzMi3jsMRy9GVZ) | [Hether](https://open.spotify.com/artist/5O35zGUolf87RATk2NgSD3) | [Shy](https://open.spotify.com/album/3GB1leLOnXrqHy7dTFZ9I8) | 3:21 | 2019-11-15 |  |
@@ -856,7 +858,7 @@
 | [Sorry](https://open.spotify.com/track/7LHp74RcZNzo19YH6ZX3mL) | [Alex Kehm](https://open.spotify.com/artist/13B2InTOzB64KSklQRZRmU) | [Sorry](https://open.spotify.com/album/16ZPZhvDZa9poswDtxxhtw) | 2:25 | 2021-03-19 | 2021-05-19 |
 | [Sorry](https://open.spotify.com/track/7Hs4BDVWvKvKzfr5A0pI9K) | [Hala](https://open.spotify.com/artist/1dTBAtLZBUB8Ir4PmJYw9t) | [Sorry // Single](https://open.spotify.com/album/34ywWzeLG8WVOwgyV6vLUY) | 3:31 | 2019-08-02 | 2021-05-26 |
 | [sorrynotsorry](https://open.spotify.com/track/1TI8NKAfjMvvx6P5M0u1Iy) | [Faerybabyy](https://open.spotify.com/artist/2jp9e4qVPGoS2X2fyNy9id) | [sorrynotsorry](https://open.spotify.com/album/3Py8BTTA0sId5dkgSRNYOH) | 1:54 | 2025-03-03 | 2025-03-27 |
-| [soul](https://open.spotify.com/track/2up5Y1j5nWCJE73F14LNOS) | [Peach Luffe](https://open.spotify.com/artist/6KvuacOcxH22xWgQTAwxui) | [soul](https://open.spotify.com/album/37ehSiY8tQRSKGx7cQyRtg) | 1:55 | 2026-11-20 |  |
+| [soul](https://open.spotify.com/track/2up5Y1j5nWCJE73F14LNOS) | [Peach Luffe](https://open.spotify.com/artist/6KvuacOcxH22xWgQTAwxui) | [soul](https://open.spotify.com/album/37ehSiY8tQRSKGx7cQyRtg) | 1:55 | 2026-11-20 | 2026-11-27 |
 | [Sour Switchblade](https://open.spotify.com/track/39d1cTisYJIbQE3BJNB5KY) | [Elita](https://open.spotify.com/artist/7ApzfFN0BmeeVJPsQBReRv) | [Sour Switchblade](https://open.spotify.com/album/08604CFDc915v2omjreOry) | 2:28 | 2021-09-10 | 2022-04-19 |
 | [Sour Switchblade](https://open.spotify.com/track/4wFeMmJDlgkAxlQ07PbdGZ) | [Elita](https://open.spotify.com/artist/7ApzfFN0BmeeVJPsQBReRv) | [Sour Switchblade](https://open.spotify.com/album/0165PYHqH1iILn2HtbT3R4) | 2:28 | 2021-09-10 | 2022-12-15 |
 | [Speak \(Future Generations Remix\)](https://open.spotify.com/track/7DFfKlTQcyY4W3EVGMQfE2) | [Gracie and Rachel](https://open.spotify.com/artist/4jKFMEVOa9uon9utRFsLLX), [Future Generations](https://open.spotify.com/artist/3wKj5PmSpnrtz9n9hG2QCA) | [Speak \(Up\)](https://open.spotify.com/album/106iB8oMm45pg0B3lZwymf) | 3:00 | 2021-03-02 | 2021-05-28 |

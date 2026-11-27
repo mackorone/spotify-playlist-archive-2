@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2023-09-29",
-  "description": "\ud83c\udf6f\ud83c\udf6f\ud83c\udf6f\nPhoto : AFFA",
+  "description": "\ud83c\udf6f\ud83c\udf6f\ud83c\udf6f\nPhoto : Gol.d x Lestin",
   "name": "le miel",
   "tracks": [
     {
@@ -612,7 +612,7 @@
       ],
       "date_added": "2026-10-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-27",
       "duration_ms": 161014,
       "name": "Apr\u00e8s Moi",
       "url": "https://open.spotify.com/track/5LKsXN90VEK7OBGpUJjvZc"
@@ -1754,7 +1754,7 @@
       ],
       "date_added": "2026-09-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-27",
       "duration_ms": 185142,
       "name": "Ch\u00e9ri doudou",
       "url": "https://open.spotify.com/track/31v1ovWgFGYqF4ylU647q7"
@@ -2414,6 +2414,24 @@
       "duration_ms": 163487,
       "name": "dangerous. (bonus track)",
       "url": "https://open.spotify.com/track/1C3mBO5V9o8kUSzWIbkJmL"
+    },
+    {
+      "album": {
+        "name": "Dans ce monde",
+        "url": "https://open.spotify.com/album/4dE7I8uxvbnsOZzOmpqj6g"
+      },
+      "artists": [
+        {
+          "name": "NATHAN",
+          "url": "https://open.spotify.com/artist/3hp2apilKCFSad2nh0I50s"
+        }
+      ],
+      "date_added": "2026-11-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 155121,
+      "name": "Dans ce monde",
+      "url": "https://open.spotify.com/track/5pkkoeE6vqFOPY7OfEZZ8q"
     },
     {
       "album": {
@@ -3734,6 +3752,24 @@
       "duration_ms": 202570,
       "name": "Faire Mieux",
       "url": "https://open.spotify.com/track/59fnX2XFGGKC8xhSrZcRt6"
+    },
+    {
+      "album": {
+        "name": "FAIRPLAY",
+        "url": "https://open.spotify.com/album/4T41XFhvm0QaZr0kncZ7Fn"
+      },
+      "artists": [
+        {
+          "name": "Jah\u00efem Solo",
+          "url": "https://open.spotify.com/artist/5XN9cJro2ndaoRsUaS7huS"
+        }
+      ],
+      "date_added": "2026-11-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 162315,
+      "name": "FAIRPLAY",
+      "url": "https://open.spotify.com/track/0XnxDq1uYoICyYNRR1zwJI"
     },
     {
       "album": {
@@ -5116,7 +5152,7 @@
       ],
       "date_added": "2026-07-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-27",
       "duration_ms": 144025,
       "name": "INTUITION",
       "url": "https://open.spotify.com/track/5BoIGwh0ZRKnayGvo0HA2D"
@@ -7070,7 +7106,7 @@
       ],
       "date_added": "2026-10-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-27",
       "duration_ms": 180864,
       "name": "l\u2019\u00e9picier",
       "url": "https://open.spotify.com/track/1b8HMVhixwFZQJ08QKY7A6"
@@ -7128,6 +7164,28 @@
       "duration_ms": 78648,
       "name": "Ma Ch\u00e8re Michelle",
       "url": "https://open.spotify.com/track/7yeLUEtDLYWffUWc9yt5Wn"
+    },
+    {
+      "album": {
+        "name": "Ma faute",
+        "url": "https://open.spotify.com/album/3phDGmVb6K7SF4hihYSALd"
+      },
+      "artists": [
+        {
+          "name": "Nawfel",
+          "url": "https://open.spotify.com/artist/7JZBcucjPQyb2adaOLTCmX"
+        },
+        {
+          "name": "Jay luv",
+          "url": "https://open.spotify.com/artist/0zPKwOI3xzTHyGEsBxVqOs"
+        }
+      ],
+      "date_added": "2026-11-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 185029,
+      "name": "Ma faute",
+      "url": "https://open.spotify.com/track/4aSmZGAnS4oBx4kcvZPkDL"
     },
     {
       "album": {
@@ -7650,6 +7708,24 @@
       "duration_ms": 141501,
       "name": "minibar",
       "url": "https://open.spotify.com/track/2O77JjyoBbw1FvXXK1Roka"
+    },
+    {
+      "album": {
+        "name": "Minimum",
+        "url": "https://open.spotify.com/album/7nSJQGdAOd5IVtEvNiZuZ7"
+      },
+      "artists": [
+        {
+          "name": "Awa Lemen",
+          "url": "https://open.spotify.com/artist/2Q3dL2MjiG85qgYsQNrxXH"
+        }
+      ],
+      "date_added": "2026-11-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 181902,
+      "name": "Minimum",
+      "url": "https://open.spotify.com/track/5URh8RQ6rVCXI96TuqeQqK"
     },
     {
       "album": {
@@ -8808,7 +8884,7 @@
       ],
       "date_added": "2026-09-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-27",
       "duration_ms": 154160,
       "name": "Parfum d'\u00e9t\u00e9 (feat. Kyana)",
       "url": "https://open.spotify.com/track/79Heow36qLXfYFkmIBWc3Z"
@@ -9951,6 +10027,24 @@
     },
     {
       "album": {
+        "name": "Reste",
+        "url": "https://open.spotify.com/album/1A48rMb2UV9nEjmvt71bAI"
+      },
+      "artists": [
+        {
+          "name": "Re\u00ffn",
+          "url": "https://open.spotify.com/artist/4xqnWGU6MssJcPvMaVuZQF"
+        }
+      ],
+      "date_added": "2026-11-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 153833,
+      "name": "Reste",
+      "url": "https://open.spotify.com/track/6ZUaxEotWXSf5px1BEIloX"
+    },
+    {
+      "album": {
         "name": "Saison 00",
         "url": "https://open.spotify.com/album/0MdN6wfUWZtMFXV0ESjYuf"
       },
@@ -10465,6 +10559,28 @@
     },
     {
       "album": {
+        "name": "Sans blague",
+        "url": "https://open.spotify.com/album/4EsexNqvWwzymTLeoAim1A"
+      },
+      "artists": [
+        {
+          "name": "Lestin",
+          "url": "https://open.spotify.com/artist/3dARbB5oGnzJMklK69pwxh"
+        },
+        {
+          "name": "Gol.d",
+          "url": "https://open.spotify.com/artist/1iq9ebpFaCHQ4FbAQWnTtV"
+        }
+      ],
+      "date_added": "2026-11-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 173522,
+      "name": "Sans blague",
+      "url": "https://open.spotify.com/track/6fII1aSQwmAzRTQlisQvhJ"
+    },
+    {
+      "album": {
         "name": "Sans dire au revoir",
         "url": "https://open.spotify.com/album/2tZPImOS0u8gUmIO7f2nJS"
       },
@@ -10740,6 +10856,24 @@
       "duration_ms": 149623,
       "name": "Sexe & the city",
       "url": "https://open.spotify.com/track/7w3Oy2C0Sp4ymfEiv1dLbK"
+    },
+    {
+      "album": {
+        "name": "Si",
+        "url": "https://open.spotify.com/album/5sd4Xe6vbdsici3S007N4o"
+      },
+      "artists": [
+        {
+          "name": "\u00c4zy",
+          "url": "https://open.spotify.com/artist/0R4YyWteFkDWFybhQyOeXF"
+        }
+      ],
+      "date_added": "2026-11-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 228623,
+      "name": "Si",
+      "url": "https://open.spotify.com/track/5XTZsITLWLtEfM0esvDT15"
     },
     {
       "album": {
@@ -11166,7 +11300,7 @@
       ],
       "date_added": "2026-09-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-27",
       "duration_ms": 259179,
       "name": "Sors de ma vie",
       "url": "https://open.spotify.com/track/6xFooD3XgYjz9AoslWJ9ls"
@@ -12332,7 +12466,7 @@
       ],
       "date_added": "2026-10-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-27",
       "duration_ms": 193486,
       "name": "Un peu de soleil",
       "url": "https://open.spotify.com/track/4tNqbGez0EoiVmBJNyRNFO"

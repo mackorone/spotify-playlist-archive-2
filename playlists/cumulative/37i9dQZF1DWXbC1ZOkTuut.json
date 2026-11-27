@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2023-05-20",
-  "description": "Fe con sabor a M\u00e9xico. Foto: Alex Campos",
+  "description": "Fe con sabor a M\u00e9xico. Foto: Hermanos Espinoza",
   "name": "M\u00fasica Mexicana Cristiana",
   "tracks": [
     {
@@ -708,7 +708,7 @@
       ],
       "date_added": "2026-06-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-27",
       "duration_ms": 231154,
       "name": "Alma Sedienta",
       "url": "https://open.spotify.com/track/624kw9aCerEGydSx6HIapt"
@@ -3760,7 +3760,7 @@
       ],
       "date_added": "2026-06-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-27",
       "duration_ms": 232495,
       "name": "C\u00f3mo No Voy a Creer",
       "url": "https://open.spotify.com/track/1pUIYZYqeEVEcMUWjJQX7c"
@@ -4330,6 +4330,24 @@
       "duration_ms": 165546,
       "name": "Dios Est\u00e1 Aqu\u00ed",
       "url": "https://open.spotify.com/track/6kCUBfwNXBNBJ5XPTzvZNU"
+    },
+    {
+      "album": {
+        "name": "DIOS POR DELANTE",
+        "url": "https://open.spotify.com/album/3Tq4UKvhptnjeBCG1xFDtz"
+      },
+      "artists": [
+        {
+          "name": "Hermanos Espinoza",
+          "url": "https://open.spotify.com/artist/1V0BgbhknuuZIMxKO0M9FV"
+        }
+      ],
+      "date_added": "2026-11-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 214473,
+      "name": "DIOS POR DELANTE",
+      "url": "https://open.spotify.com/track/08YpPMWRDp6FwHWivbwOkw"
     },
     {
       "album": {
@@ -6804,7 +6822,7 @@
       ],
       "date_added": "2026-06-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-27",
       "duration_ms": 189080,
       "name": "Entre Tus Manos (Alabanza Ranchera)",
       "url": "https://open.spotify.com/track/0wBEhjvnnQy6ZtcZ9JBsC7"
@@ -12665,6 +12683,32 @@
     },
     {
       "album": {
+        "name": "No hay Dios tan grande como T\u00fa",
+        "url": "https://open.spotify.com/album/5JyBtt9uj9vdOiE4YAelhJ"
+      },
+      "artists": [
+        {
+          "name": "La Cuarta Tribu",
+          "url": "https://open.spotify.com/artist/53PHZJeh2gWISiEJs7wtz7"
+        },
+        {
+          "name": "Marto",
+          "url": "https://open.spotify.com/artist/4LRWJYTQRWcOO913St1duY"
+        },
+        {
+          "name": "Grupo Respaldo",
+          "url": "https://open.spotify.com/artist/4ETVNscBfQBhJaBtnUX93m"
+        }
+      ],
+      "date_added": "2026-11-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 215294,
+      "name": "No hay Dios tan grande como T\u00fa",
+      "url": "https://open.spotify.com/track/1G89Xwqsad8dDV2SkKe6D1"
+    },
+    {
+      "album": {
         "name": "La Gran Se\u00f1ora (Banda)",
         "url": "https://open.spotify.com/album/2vpPlSBA12bNyT6cKenLvW"
       },
@@ -14594,6 +14638,24 @@
       "duration_ms": 142534,
       "name": "Primer Amor",
       "url": "https://open.spotify.com/track/6Nkd32xGViN4Q95xHkQ4RT"
+    },
+    {
+      "album": {
+        "name": "Primero Dios",
+        "url": "https://open.spotify.com/album/2vhOYTBgIJVFoe1rYaJ0er"
+      },
+      "artists": [
+        {
+          "name": "Jymba",
+          "url": "https://open.spotify.com/artist/0FN1WCqzw7rwFm03jLNLzA"
+        }
+      ],
+      "date_added": "2026-11-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 197217,
+      "name": "Primero Dios",
+      "url": "https://open.spotify.com/track/1vQVR0B1TCcB81FZKYYq8j"
     },
     {
       "album": {

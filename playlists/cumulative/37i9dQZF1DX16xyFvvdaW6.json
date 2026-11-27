@@ -1070,7 +1070,7 @@
       ],
       "date_added": "2025-07-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-27",
       "duration_ms": 182596,
       "name": "La Lengua",
       "url": "https://open.spotify.com/track/1fVyHOQLgfVk1wRfu1xkDF"
@@ -2632,6 +2632,24 @@
       "duration_ms": 256812,
       "name": "Vuelvo a Ver",
       "url": "https://open.spotify.com/track/3hJYBaL0k7Y7UHmzHrOeGh"
+    },
+    {
+      "album": {
+        "name": "Ya No Soy",
+        "url": "https://open.spotify.com/album/3rWT04FUPTwtJUb0TWT0Gg"
+      },
+      "artists": [
+        {
+          "name": "Pepe Lopez Band",
+          "url": "https://open.spotify.com/artist/26jcTakzCqPX0KGJth8aiz"
+        }
+      ],
+      "date_added": "2026-11-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 185180,
+      "name": "Ya No Soy",
+      "url": "https://open.spotify.com/track/1Ox9sKd7G9wi165gBQuLfR"
     },
     {
       "album": {

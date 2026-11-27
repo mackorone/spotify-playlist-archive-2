@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-12-10",
-  "description": "Today's biggest dance hits! Cover: Joel Corry",
+  "description": "Today's biggest dance hits! Cover: PAWSA",
   "name": "Dance Generation",
   "tracks": [
     {
@@ -3266,7 +3266,7 @@
       ],
       "date_added": "2026-09-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-27",
       "duration_ms": 146260,
       "name": "Breathless",
       "url": "https://open.spotify.com/track/3gElwRzfAWrTpGi5Tf6aax"
@@ -3612,6 +3612,28 @@
       "duration_ms": 174330,
       "name": "Can't Play Myself (A Tribute To Amy)",
       "url": "https://open.spotify.com/track/6GrLwf1LdBCmkBOsmOcbPp"
+    },
+    {
+      "album": {
+        "name": "CAN'T STOP",
+        "url": "https://open.spotify.com/album/0IhjsRXIDYmNkATHAcnHHq"
+      },
+      "artists": [
+        {
+          "name": "HUUE",
+          "url": "https://open.spotify.com/artist/5huJSf6weSItBn6djBYOuk"
+        },
+        {
+          "name": "Arky Waters",
+          "url": "https://open.spotify.com/artist/1cxe1pFJnavjEUC9hRKZli"
+        }
+      ],
+      "date_added": "2026-11-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 153428,
+      "name": "CAN'T STOP",
+      "url": "https://open.spotify.com/track/1Qs1Iy1tIeu8RU1PfDmfqW"
     },
     {
       "album": {
@@ -6139,6 +6161,32 @@
     },
     {
       "album": {
+        "name": "Don't Play Around (from GTAVI: The Album)",
+        "url": "https://open.spotify.com/album/2AGSNLBGHNjweIr8J1dxVO"
+      },
+      "artists": [
+        {
+          "name": "CHRIS STASSY",
+          "url": "https://open.spotify.com/artist/3BxjasMelf9pKaE4f7Y0So"
+        },
+        {
+          "name": "KETTAMA",
+          "url": "https://open.spotify.com/artist/3an9rnsXKPCAMlZgH4A0n4"
+        },
+        {
+          "name": "Grand Theft Auto VI",
+          "url": "https://open.spotify.com/artist/15o7qdDTBzs6xWRUYUtZc1"
+        }
+      ],
+      "date_added": "2026-11-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 323402,
+      "name": "Don't Play Around (from GTAVI: The Album)",
+      "url": "https://open.spotify.com/track/1H8KYXECpmJPpt01Nb97h9"
+    },
+    {
+      "album": {
         "name": "Don't Really Care",
         "url": "https://open.spotify.com/album/3809RidvYF5fZH1rFEFDFt"
       },
@@ -8038,7 +8086,7 @@
       ],
       "date_added": "2026-07-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-27",
       "duration_ms": 164285,
       "name": "FRICTION",
       "url": "https://open.spotify.com/track/2tyuXpv3CarzWKm3CtcumY"
@@ -8712,6 +8760,28 @@
       "duration_ms": 211191,
       "name": "Glad I Found You",
       "url": "https://open.spotify.com/track/4D7WGniYHsapNrosDX8KDK"
+    },
+    {
+      "album": {
+        "name": "Go",
+        "url": "https://open.spotify.com/album/5aHq9ndiCPUNb0CVdI33xt"
+      },
+      "artists": [
+        {
+          "name": "CYRIL",
+          "url": "https://open.spotify.com/artist/11kt6ggsdxvI8MhyeSMKom"
+        },
+        {
+          "name": "Baker Boy",
+          "url": "https://open.spotify.com/artist/6Qpa8xhGsGitz4WBf4BkpK"
+        }
+      ],
+      "date_added": "2026-11-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 128571,
+      "name": "Go",
+      "url": "https://open.spotify.com/track/0RvQI7WdtCqacWSm5nKWhr"
     },
     {
       "album": {
@@ -11901,6 +11971,28 @@
     },
     {
       "album": {
+        "name": "Let Me Drive",
+        "url": "https://open.spotify.com/album/10GOl9sN49LV4I7PFhha2b"
+      },
+      "artists": [
+        {
+          "name": "HUGEL",
+          "url": "https://open.spotify.com/artist/5PlfkPxwCpRRWQJBxCa0By"
+        },
+        {
+          "name": "SEGA ofc",
+          "url": "https://open.spotify.com/artist/40lN354OUw3FGMwmCNMQzU"
+        }
+      ],
+      "date_added": "2026-11-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 131250,
+      "name": "Let Me Drive",
+      "url": "https://open.spotify.com/track/1insRESoT56MebemKYc2JG"
+    },
+    {
+      "album": {
         "name": "LET'S GO",
         "url": "https://open.spotify.com/album/22ucq2C8fUF9VHN3dcVvan"
       },
@@ -12466,6 +12558,32 @@
       "duration_ms": 219261,
       "name": "Lola's Theme - Tripolism Remix",
       "url": "https://open.spotify.com/track/4tDDGi78yN261vDDaOQlGD"
+    },
+    {
+      "album": {
+        "name": "London (feat. Tinie Tempah)",
+        "url": "https://open.spotify.com/album/6u78LPL2r0CY2cIBPVE46c"
+      },
+      "artists": [
+        {
+          "name": "MORTEN",
+          "url": "https://open.spotify.com/artist/19HFRWmRCl27kTk6LeqAO8"
+        },
+        {
+          "name": "David Guetta",
+          "url": "https://open.spotify.com/artist/1Cs0zKBU1kc0i8ypK3B9ai"
+        },
+        {
+          "name": "Tinie Tempah",
+          "url": "https://open.spotify.com/artist/0Tob4H0FLtEONHU1MjpUEp"
+        }
+      ],
+      "date_added": "2026-11-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 158798,
+      "name": "London (feat. Tinie Tempah)",
+      "url": "https://open.spotify.com/track/5PblcXpyjy3NDBYYZ5ynln"
     },
     {
       "album": {
@@ -15590,7 +15708,7 @@
       ],
       "date_added": "2026-07-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-27",
       "duration_ms": 169968,
       "name": "Out My Body",
       "url": "https://open.spotify.com/track/1pA3PUVtJALwxZIQ6wj42X"
@@ -19572,7 +19690,7 @@
       ],
       "date_added": "2026-06-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-27",
       "duration_ms": 182077,
       "name": "Spin Me Slowly (feat. Julia Church)",
       "url": "https://open.spotify.com/track/4kSPUCwxN0KjrX8Q3uM3rY"
@@ -22986,7 +23104,7 @@
       ],
       "date_added": "2026-10-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-27",
       "duration_ms": 183694,
       "name": "We Come 1",
       "url": "https://open.spotify.com/track/67AoFkT611zuwNP8CRjyvx"
@@ -23958,7 +24076,7 @@
       ],
       "date_added": "2026-10-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-27",
       "duration_ms": 151841,
       "name": "Work With Me",
       "url": "https://open.spotify.com/track/7eSwXy2etUZ9aqeZ0b3sfl"
@@ -24010,6 +24128,24 @@
       "duration_ms": 146523,
       "name": "World Gone Wild (feat. Sam Martin)",
       "url": "https://open.spotify.com/track/4arNFfHtD5FPYcpUUiUOM1"
+    },
+    {
+      "album": {
+        "name": "WORLDWIDE",
+        "url": "https://open.spotify.com/album/5ITTQkaQnJi4RmukFOtAup"
+      },
+      "artists": [
+        {
+          "name": "PAWSA",
+          "url": "https://open.spotify.com/artist/4E0HD2PMY8kQJIjlShrLUS"
+        }
+      ],
+      "date_added": "2026-11-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 237151,
+      "name": "WORLDWIDE",
+      "url": "https://open.spotify.com/track/1KM2SquQT02mMqDKNwVieX"
     },
     {
       "album": {

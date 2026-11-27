@@ -1,6 +1,6 @@
 {
   "description": "Nothing but beautiful country love songs. ",
-  "num_followers": 1737936,
+  "num_followers": 1737836,
   "original_name": "Country Kind of Love",
   "owner": {
     "name": "Spotify",
@@ -123,18 +123,18 @@
     {
       "added_at": "2026-10-23 04:01:17",
       "album": {
-        "name": "Your Man",
-        "url": "https://open.spotify.com/album/5NATaOfEAcyQFATqWZRKLO"
+        "name": "From A Room: Volume 2",
+        "url": "https://open.spotify.com/album/24fkX2Gdqw4a6pR9BUYbE5"
       },
       "artists": [
         {
-          "name": "Josh Turner",
-          "url": "https://open.spotify.com/artist/7vCtweS8UVAXTyau2j0rDT"
+          "name": "Chris Stapleton",
+          "url": "https://open.spotify.com/artist/4YLtscXsxbVgi031ovDDdh"
         }
       ],
-      "duration_ms": 211893,
-      "name": "Your Man",
-      "url": "https://open.spotify.com/track/1WzAeadSKJhqykZFbJNmQv"
+      "duration_ms": 210133,
+      "name": "Millionaire",
+      "url": "https://open.spotify.com/track/68JS5SFTnW5Yv9Vzw81Jf0"
     },
     {
       "added_at": "2026-10-23 04:01:17",
@@ -303,18 +303,18 @@
     {
       "added_at": "2026-10-23 04:01:17",
       "album": {
-        "name": "From A Room: Volume 2",
-        "url": "https://open.spotify.com/album/24fkX2Gdqw4a6pR9BUYbE5"
+        "name": "Your Man",
+        "url": "https://open.spotify.com/album/5NATaOfEAcyQFATqWZRKLO"
       },
       "artists": [
         {
-          "name": "Chris Stapleton",
-          "url": "https://open.spotify.com/artist/4YLtscXsxbVgi031ovDDdh"
+          "name": "Josh Turner",
+          "url": "https://open.spotify.com/artist/7vCtweS8UVAXTyau2j0rDT"
         }
       ],
-      "duration_ms": 210133,
-      "name": "Millionaire",
-      "url": "https://open.spotify.com/track/68JS5SFTnW5Yv9Vzw81Jf0"
+      "duration_ms": 211893,
+      "name": "Your Man",
+      "url": "https://open.spotify.com/track/1WzAeadSKJhqykZFbJNmQv"
     },
     {
       "added_at": "2026-10-23 04:01:17",
@@ -335,22 +335,6 @@
     {
       "added_at": "2026-10-23 04:01:17",
       "album": {
-        "name": "Am I Okay?",
-        "url": "https://open.spotify.com/album/7l80BDHxpZwj8FXImqH8fw"
-      },
-      "artists": [
-        {
-          "name": "Megan Moroney",
-          "url": "https://open.spotify.com/artist/5Ppie0uPnbnvGBYRwYmlt0"
-        }
-      ],
-      "duration_ms": 235002,
-      "name": "Am I Okay?",
-      "url": "https://open.spotify.com/track/36wAwEkSDpNQ4oQeRLYC3L"
-    },
-    {
-      "added_at": "2026-10-23 04:01:17",
-      "album": {
         "name": "Lee Brice",
         "url": "https://open.spotify.com/album/3GyH4lUfzEkbxlaW5xTYYL"
       },
@@ -363,6 +347,22 @@
       "duration_ms": 198440,
       "name": "Rumor",
       "url": "https://open.spotify.com/track/56eGOeSsqdg3FLxdo83TwV"
+    },
+    {
+      "added_at": "2026-10-23 04:01:17",
+      "album": {
+        "name": "Am I Okay?",
+        "url": "https://open.spotify.com/album/7l80BDHxpZwj8FXImqH8fw"
+      },
+      "artists": [
+        {
+          "name": "Megan Moroney",
+          "url": "https://open.spotify.com/artist/5Ppie0uPnbnvGBYRwYmlt0"
+        }
+      ],
+      "duration_ms": 235002,
+      "name": "Am I Okay?",
+      "url": "https://open.spotify.com/track/36wAwEkSDpNQ4oQeRLYC3L"
     },
     {
       "added_at": "2026-10-23 04:01:17",
@@ -983,22 +983,6 @@
     {
       "added_at": "2026-10-23 04:01:17",
       "album": {
-        "name": "For You 2",
-        "url": "https://open.spotify.com/album/2A35FaFPGRANYw0vh0ctRk"
-      },
-      "artists": [
-        {
-          "name": "Parmalee",
-          "url": "https://open.spotify.com/artist/4TshyQDihSYXSWqvclXl3I"
-        }
-      ],
-      "duration_ms": 178880,
-      "name": "Gonna Love You",
-      "url": "https://open.spotify.com/track/4k8ozY5BjfGGvICHka5DfI"
-    },
-    {
-      "added_at": "2026-10-23 04:01:17",
-      "album": {
         "name": "Back To Life",
         "url": "https://open.spotify.com/album/3f45YnvjJazhk0Ena7CASK"
       },
@@ -1011,6 +995,22 @@
       "duration_ms": 214218,
       "name": "Back To Life",
       "url": "https://open.spotify.com/track/7Lr4XaxGpkAwa37IVgg22k"
+    },
+    {
+      "added_at": "2026-10-23 04:01:17",
+      "album": {
+        "name": "For You 2",
+        "url": "https://open.spotify.com/album/2A35FaFPGRANYw0vh0ctRk"
+      },
+      "artists": [
+        {
+          "name": "Parmalee",
+          "url": "https://open.spotify.com/artist/4TshyQDihSYXSWqvclXl3I"
+        }
+      ],
+      "duration_ms": 178880,
+      "name": "Gonna Love You",
+      "url": "https://open.spotify.com/track/4k8ozY5BjfGGvICHka5DfI"
     },
     {
       "added_at": "2026-10-23 04:01:17",
@@ -1191,6 +1191,22 @@
     {
       "added_at": "2026-10-23 04:01:17",
       "album": {
+        "name": "Storyteller",
+        "url": "https://open.spotify.com/album/4q3SkZWPYJtKno1RbnrjL4"
+      },
+      "artists": [
+        {
+          "name": "Carrie Underwood",
+          "url": "https://open.spotify.com/artist/4xFUf1FHVy696Q1JQZMTRj"
+        }
+      ],
+      "duration_ms": 210972,
+      "name": "Heartbeat",
+      "url": "https://open.spotify.com/track/05BgC2247XGi8ySwBzOO0o"
+    },
+    {
+      "added_at": "2026-10-23 04:01:17",
+      "album": {
         "name": "Ballads",
         "url": "https://open.spotify.com/album/2C0OBNu8hYwn5vxWUainU5"
       },
@@ -1219,22 +1235,6 @@
       "duration_ms": 183542,
       "name": "Dance With You",
       "url": "https://open.spotify.com/track/5SIb4S2seQAeCHPXxiNHBL"
-    },
-    {
-      "added_at": "2026-10-23 04:01:17",
-      "album": {
-        "name": "Storyteller",
-        "url": "https://open.spotify.com/album/4q3SkZWPYJtKno1RbnrjL4"
-      },
-      "artists": [
-        {
-          "name": "Carrie Underwood",
-          "url": "https://open.spotify.com/artist/4xFUf1FHVy696Q1JQZMTRj"
-        }
-      ],
-      "duration_ms": 210972,
-      "name": "Heartbeat",
-      "url": "https://open.spotify.com/track/05BgC2247XGi8ySwBzOO0o"
     },
     {
       "added_at": "2026-10-23 04:01:17",

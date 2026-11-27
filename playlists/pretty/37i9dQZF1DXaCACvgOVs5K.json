@@ -1,6 +1,6 @@
 {
   "description": "Get ready for Ibiza season 2026. See you on the dancefloor.",
-  "num_followers": 915267,
+  "num_followers": 915274,
   "original_name": "Ibiza 2026",
   "owner": {
     "name": "Spotify",
@@ -263,18 +263,22 @@
     {
       "added_at": "2026-10-01 23:00:26",
       "album": {
-        "name": "Out of My Mind EP",
-        "url": "https://open.spotify.com/album/7ESPqDltGcBM5c01aH1prU"
+        "name": "Baby",
+        "url": "https://open.spotify.com/album/4MbyPhOldP6NLm1CZf8Oxo"
       },
       "artists": [
         {
-          "name": "Joshwa",
-          "url": "https://open.spotify.com/artist/1PzAgFVk9v8cxn9flrqrv5"
+          "name": "Prospa",
+          "url": "https://open.spotify.com/artist/6HabM2PUM519iIxervGWSb"
+        },
+        {
+          "name": "Murda Beatz",
+          "url": "https://open.spotify.com/artist/3CbYyyd8wH3RT6t0jwpdzC"
         }
       ],
-      "duration_ms": 204737,
-      "name": "Out of My Mind",
-      "url": "https://open.spotify.com/track/2FFwFlkKjKBSCdVpPf38Gj"
+      "duration_ms": 193384,
+      "name": "Baby",
+      "url": "https://open.spotify.com/track/5q6QXK4K3DvIlwGEtElny3"
     },
     {
       "added_at": "2026-10-01 23:00:26",
@@ -303,22 +307,18 @@
     {
       "added_at": "2026-10-01 23:00:26",
       "album": {
-        "name": "Baby",
-        "url": "https://open.spotify.com/album/4MbyPhOldP6NLm1CZf8Oxo"
+        "name": "Out of My Mind EP",
+        "url": "https://open.spotify.com/album/7ESPqDltGcBM5c01aH1prU"
       },
       "artists": [
         {
-          "name": "Prospa",
-          "url": "https://open.spotify.com/artist/6HabM2PUM519iIxervGWSb"
-        },
-        {
-          "name": "Murda Beatz",
-          "url": "https://open.spotify.com/artist/3CbYyyd8wH3RT6t0jwpdzC"
+          "name": "Joshwa",
+          "url": "https://open.spotify.com/artist/1PzAgFVk9v8cxn9flrqrv5"
         }
       ],
-      "duration_ms": 193384,
-      "name": "Baby",
-      "url": "https://open.spotify.com/track/5q6QXK4K3DvIlwGEtElny3"
+      "duration_ms": 204737,
+      "name": "Out of My Mind",
+      "url": "https://open.spotify.com/track/2FFwFlkKjKBSCdVpPf38Gj"
     },
     {
       "added_at": "2026-10-01 23:00:26",
@@ -330,6 +330,10 @@
         {
           "name": "ANOTR",
           "url": "https://open.spotify.com/artist/4p5WgeiPSPpqPDs7T6OkWf"
+        },
+        {
+          "name": "Circoloco Records",
+          "url": "https://open.spotify.com/artist/473Lb5bIpzUsXMsHKhZGDf"
         },
         {
           "name": "Emily Warren",
@@ -571,22 +575,6 @@
     {
       "added_at": "2026-10-01 23:00:26",
       "album": {
-        "name": "Patigo",
-        "url": "https://open.spotify.com/album/2tos295ovD9NdTx99fCPCf"
-      },
-      "artists": [
-        {
-          "name": "Stryv",
-          "url": "https://open.spotify.com/artist/6XjgqvaVLUib6lCerbZrYD"
-        }
-      ],
-      "duration_ms": 190000,
-      "name": "Patigo",
-      "url": "https://open.spotify.com/track/6RONUICnXH5jCcHEwX8Lu7"
-    },
-    {
-      "added_at": "2026-10-01 23:00:26",
-      "album": {
         "name": "Ride On Me",
         "url": "https://open.spotify.com/album/5yRI7CON1FuhWmw2jRAXX4"
       },
@@ -603,6 +591,22 @@
     {
       "added_at": "2026-10-01 23:00:26",
       "album": {
+        "name": "Patigo",
+        "url": "https://open.spotify.com/album/2tos295ovD9NdTx99fCPCf"
+      },
+      "artists": [
+        {
+          "name": "Stryv",
+          "url": "https://open.spotify.com/artist/6XjgqvaVLUib6lCerbZrYD"
+        }
+      ],
+      "duration_ms": 190000,
+      "name": "Patigo",
+      "url": "https://open.spotify.com/track/6RONUICnXH5jCcHEwX8Lu7"
+    },
+    {
+      "added_at": "2026-10-01 23:00:26",
+      "album": {
         "name": "Breaking Point EP",
         "url": "https://open.spotify.com/album/58nZe6rmrimxwTx84lDdCK"
       },
@@ -615,6 +619,26 @@
       "duration_ms": 168334,
       "name": "Breaking Point",
       "url": "https://open.spotify.com/track/79a1xMhXdnCPpTY8MmnEre"
+    },
+    {
+      "added_at": "2026-10-01 23:00:26",
+      "album": {
+        "name": "Unique Moment",
+        "url": "https://open.spotify.com/album/0iPrARRc7TA86CBN0dAvBq"
+      },
+      "artists": [
+        {
+          "name": "CAMELPHAT",
+          "url": "https://open.spotify.com/artist/240wlM8vDrf6S4zCyzGj2W"
+        },
+        {
+          "name": "Volkoder",
+          "url": "https://open.spotify.com/artist/5SwGFGfUlV6Dan4ygjF5CU"
+        }
+      ],
+      "duration_ms": 180000,
+      "name": "Unique Moment",
+      "url": "https://open.spotify.com/track/2fJFjRgFpfdkbSoyRKUuf7"
     },
     {
       "added_at": "2026-10-01 23:00:26",
@@ -639,26 +663,6 @@
       "duration_ms": 148571,
       "name": "Solar Skin (feat. jasper.wav)",
       "url": "https://open.spotify.com/track/3cH1FROo7Q1lC0N8SmdQJ1"
-    },
-    {
-      "added_at": "2026-10-01 23:00:26",
-      "album": {
-        "name": "Unique Moment",
-        "url": "https://open.spotify.com/album/0iPrARRc7TA86CBN0dAvBq"
-      },
-      "artists": [
-        {
-          "name": "CAMELPHAT",
-          "url": "https://open.spotify.com/artist/240wlM8vDrf6S4zCyzGj2W"
-        },
-        {
-          "name": "Volkoder",
-          "url": "https://open.spotify.com/artist/5SwGFGfUlV6Dan4ygjF5CU"
-        }
-      ],
-      "duration_ms": 180000,
-      "name": "Unique Moment",
-      "url": "https://open.spotify.com/track/2fJFjRgFpfdkbSoyRKUuf7"
     },
     {
       "added_at": "2026-10-01 23:00:26",
@@ -791,22 +795,6 @@
     {
       "added_at": "2026-10-01 23:00:26",
       "album": {
-        "name": "I Never Knew",
-        "url": "https://open.spotify.com/album/2w8spOidxh0RSjdRjXvd3r"
-      },
-      "artists": [
-        {
-          "name": "Adam Ten",
-          "url": "https://open.spotify.com/artist/05tmGPn4fFdVpnsMt0YW5S"
-        }
-      ],
-      "duration_ms": 231680,
-      "name": "I Never Knew",
-      "url": "https://open.spotify.com/track/54vF34GSMXYZfjPXMsHYWf"
-    },
-    {
-      "added_at": "2026-10-01 23:00:26",
-      "album": {
         "name": "Why Why",
         "url": "https://open.spotify.com/album/2oTmIJ3msSnvWWWwAqOvb5"
       },
@@ -819,6 +807,22 @@
       "duration_ms": 185332,
       "name": "Why Why",
       "url": "https://open.spotify.com/track/7JuZuYCMq9RK4LgnJ3xnJS"
+    },
+    {
+      "added_at": "2026-10-01 23:00:26",
+      "album": {
+        "name": "I Never Knew",
+        "url": "https://open.spotify.com/album/2w8spOidxh0RSjdRjXvd3r"
+      },
+      "artists": [
+        {
+          "name": "Adam Ten",
+          "url": "https://open.spotify.com/artist/05tmGPn4fFdVpnsMt0YW5S"
+        }
+      ],
+      "duration_ms": 231680,
+      "name": "I Never Knew",
+      "url": "https://open.spotify.com/track/54vF34GSMXYZfjPXMsHYWf"
     },
     {
       "added_at": "2026-10-01 23:00:26",
@@ -1031,6 +1035,30 @@
     {
       "added_at": "2026-10-01 23:00:26",
       "album": {
+        "name": "Gets Like That (Jamie Jones Remix)",
+        "url": "https://open.spotify.com/album/2pIThEiymteX1pfyoQAd3G"
+      },
+      "artists": [
+        {
+          "name": "Jamie Jones",
+          "url": "https://open.spotify.com/artist/4admDxmnri5Zco0xYrJ0ji"
+        },
+        {
+          "name": "Max Dean",
+          "url": "https://open.spotify.com/artist/65TLDWbTJxYASqadmNAxvc"
+        },
+        {
+          "name": "Luke Dean",
+          "url": "https://open.spotify.com/artist/2BhXOZ96YbOdXz8F6HVUw4"
+        }
+      ],
+      "duration_ms": 223384,
+      "name": "Gets Like That - Jamie Jones Remix",
+      "url": "https://open.spotify.com/track/0axzZ7BBLs8n6XXkheqX3W"
+    },
+    {
+      "added_at": "2026-10-01 23:00:26",
+      "album": {
         "name": "Groovejet (If This Ain\u2019t Love) [not without friends Remix]",
         "url": "https://open.spotify.com/album/5eQfhNNii4T8pMQebfhrpF"
       },
@@ -1063,30 +1091,6 @@
       "duration_ms": 180362,
       "name": "Groovejet (If This Ain\u2019t Love) - not without friends Remix",
       "url": "https://open.spotify.com/track/6yb14tUTLWfBStXgcQJbPV"
-    },
-    {
-      "added_at": "2026-10-01 23:00:26",
-      "album": {
-        "name": "Gets Like That (Jamie Jones Remix)",
-        "url": "https://open.spotify.com/album/2pIThEiymteX1pfyoQAd3G"
-      },
-      "artists": [
-        {
-          "name": "Jamie Jones",
-          "url": "https://open.spotify.com/artist/4admDxmnri5Zco0xYrJ0ji"
-        },
-        {
-          "name": "Max Dean",
-          "url": "https://open.spotify.com/artist/65TLDWbTJxYASqadmNAxvc"
-        },
-        {
-          "name": "Luke Dean",
-          "url": "https://open.spotify.com/artist/2BhXOZ96YbOdXz8F6HVUw4"
-        }
-      ],
-      "duration_ms": 223384,
-      "name": "Gets Like That - Jamie Jones Remix",
-      "url": "https://open.spotify.com/track/0axzZ7BBLs8n6XXkheqX3W"
     },
     {
       "added_at": "2026-10-01 23:00:26",
@@ -1195,6 +1199,22 @@
     {
       "added_at": "2026-10-01 23:00:26",
       "album": {
+        "name": "Lets Get High",
+        "url": "https://open.spotify.com/album/6qQZNrcx4UiexydAqe1jXV"
+      },
+      "artists": [
+        {
+          "name": "Michael Bibi",
+          "url": "https://open.spotify.com/artist/4cvdQRyHmkSQSakUrW2oxv"
+        }
+      ],
+      "duration_ms": 203114,
+      "name": "Lets Get High",
+      "url": "https://open.spotify.com/track/2QhWUUeC1C53aycexa4M1u"
+    },
+    {
+      "added_at": "2026-10-01 23:00:26",
+      "album": {
         "name": "High In Ibiza",
         "url": "https://open.spotify.com/album/6H0z59p0oklDvTPkrVwCIH"
       },
@@ -1215,42 +1235,6 @@
       "duration_ms": 142500,
       "name": "High In Ibiza",
       "url": "https://open.spotify.com/track/1hiKvffSphbFpWEr2VJYJP"
-    },
-    {
-      "added_at": "2026-10-01 23:00:26",
-      "album": {
-        "name": "My Temptations",
-        "url": "https://open.spotify.com/album/7zkuvjLRSq5dqOlNekcQGU"
-      },
-      "artists": [
-        {
-          "name": "Oden & Fatzo",
-          "url": "https://open.spotify.com/artist/2YEnrpAWWaNRFumgde1lLH"
-        },
-        {
-          "name": "Barney Bones",
-          "url": "https://open.spotify.com/artist/7rzyYETlkvNEdxdtSUXXTV"
-        }
-      ],
-      "duration_ms": 191657,
-      "name": "My Temptations",
-      "url": "https://open.spotify.com/track/2MK2fcwBiq2fHxooYW4qfC"
-    },
-    {
-      "added_at": "2026-10-01 23:00:26",
-      "album": {
-        "name": "Lets Get High",
-        "url": "https://open.spotify.com/album/6qQZNrcx4UiexydAqe1jXV"
-      },
-      "artists": [
-        {
-          "name": "Michael Bibi",
-          "url": "https://open.spotify.com/artist/4cvdQRyHmkSQSakUrW2oxv"
-        }
-      ],
-      "duration_ms": 203114,
-      "name": "Lets Get High",
-      "url": "https://open.spotify.com/track/2QhWUUeC1C53aycexa4M1u"
     },
     {
       "added_at": "2026-10-01 23:00:26",
@@ -1291,6 +1275,26 @@
       "duration_ms": 213977,
       "name": "Too Bright",
       "url": "https://open.spotify.com/track/3nP5ePIrZh1AUQ1mj6Thxd"
+    },
+    {
+      "added_at": "2026-10-01 23:00:26",
+      "album": {
+        "name": "My Temptations",
+        "url": "https://open.spotify.com/album/7zkuvjLRSq5dqOlNekcQGU"
+      },
+      "artists": [
+        {
+          "name": "Oden & Fatzo",
+          "url": "https://open.spotify.com/artist/2YEnrpAWWaNRFumgde1lLH"
+        },
+        {
+          "name": "Barney Bones",
+          "url": "https://open.spotify.com/artist/7rzyYETlkvNEdxdtSUXXTV"
+        }
+      ],
+      "duration_ms": 191657,
+      "name": "My Temptations",
+      "url": "https://open.spotify.com/track/2MK2fcwBiq2fHxooYW4qfC"
     },
     {
       "added_at": "2026-10-01 23:00:26",
@@ -1463,26 +1467,6 @@
     {
       "added_at": "2026-10-01 23:00:26",
       "album": {
-        "name": "Tell Me (feat. Pollena)",
-        "url": "https://open.spotify.com/album/4rCZGeJjFeAo3iKRHZVA3Y"
-      },
-      "artists": [
-        {
-          "name": "TSHA",
-          "url": "https://open.spotify.com/artist/2kLa7JZu4Ijdz1Gle2khZh"
-        },
-        {
-          "name": "Pollena",
-          "url": "https://open.spotify.com/artist/6jLF65ZDRDiQCnTvs7O7CF"
-        }
-      ],
-      "duration_ms": 212417,
-      "name": "Tell Me (feat. Pollena)",
-      "url": "https://open.spotify.com/track/1EtcVqPyMdcT9EhSeXxaqJ"
-    },
-    {
-      "added_at": "2026-10-01 23:00:26",
-      "album": {
         "name": "Lost",
         "url": "https://open.spotify.com/album/2mJ08Ks0w1VpU5g5LjgM6W"
       },
@@ -1523,6 +1507,26 @@
     {
       "added_at": "2026-10-01 23:00:26",
       "album": {
+        "name": "Tell Me (feat. Pollena)",
+        "url": "https://open.spotify.com/album/4rCZGeJjFeAo3iKRHZVA3Y"
+      },
+      "artists": [
+        {
+          "name": "TSHA",
+          "url": "https://open.spotify.com/artist/2kLa7JZu4Ijdz1Gle2khZh"
+        },
+        {
+          "name": "Pollena",
+          "url": "https://open.spotify.com/artist/6jLF65ZDRDiQCnTvs7O7CF"
+        }
+      ],
+      "duration_ms": 212417,
+      "name": "Tell Me (feat. Pollena)",
+      "url": "https://open.spotify.com/track/1EtcVqPyMdcT9EhSeXxaqJ"
+    },
+    {
+      "added_at": "2026-10-01 23:00:26",
+      "album": {
         "name": "Gator Boots",
         "url": "https://open.spotify.com/album/1eNG28Pic6eX39VwSwNls9"
       },
@@ -1539,6 +1543,22 @@
       "duration_ms": 141309,
       "name": "Gator Boots",
       "url": "https://open.spotify.com/track/0ON2rwK5dBNykojqtug4lY"
+    },
+    {
+      "added_at": "2026-10-01 23:00:26",
+      "album": {
+        "name": "Groovin'",
+        "url": "https://open.spotify.com/album/5M3dYjmtgbeumqwFL4SYvX"
+      },
+      "artists": [
+        {
+          "name": "Disciples",
+          "url": "https://open.spotify.com/artist/5EehXjjMktLuJmbRsM7YfB"
+        }
+      ],
+      "duration_ms": 198931,
+      "name": "Groovin'",
+      "url": "https://open.spotify.com/track/23qCezcrWon6acl0CiLqoK"
     },
     {
       "added_at": "2026-10-01 23:00:26",
@@ -1563,38 +1583,6 @@
     {
       "added_at": "2026-10-01 23:00:26",
       "album": {
-        "name": "Sing It Back",
-        "url": "https://open.spotify.com/album/3n5saDIM60fJfhIeZmWZqx"
-      },
-      "artists": [
-        {
-          "name": "Laherte",
-          "url": "https://open.spotify.com/artist/1iHLjX5K4nfcDZGj0Z2lkP"
-        }
-      ],
-      "duration_ms": 220312,
-      "name": "Sing It Back",
-      "url": "https://open.spotify.com/track/6emZmP4oGTMxFveqpp67vM"
-    },
-    {
-      "added_at": "2026-10-01 23:00:26",
-      "album": {
-        "name": "Groovin'",
-        "url": "https://open.spotify.com/album/5M3dYjmtgbeumqwFL4SYvX"
-      },
-      "artists": [
-        {
-          "name": "Disciples",
-          "url": "https://open.spotify.com/artist/5EehXjjMktLuJmbRsM7YfB"
-        }
-      ],
-      "duration_ms": 198931,
-      "name": "Groovin'",
-      "url": "https://open.spotify.com/track/23qCezcrWon6acl0CiLqoK"
-    },
-    {
-      "added_at": "2026-10-01 23:00:26",
-      "album": {
         "name": "The Montana Girl",
         "url": "https://open.spotify.com/album/5rgDnaJlLiiGIcjja0eoE8"
       },
@@ -1607,6 +1595,22 @@
       "duration_ms": 221538,
       "name": "The Montana Girl",
       "url": "https://open.spotify.com/track/1ivmytPrFuESg6gevnKCnU"
+    },
+    {
+      "added_at": "2026-10-01 23:00:26",
+      "album": {
+        "name": "Sing It Back",
+        "url": "https://open.spotify.com/album/3n5saDIM60fJfhIeZmWZqx"
+      },
+      "artists": [
+        {
+          "name": "Laherte",
+          "url": "https://open.spotify.com/artist/1iHLjX5K4nfcDZGj0Z2lkP"
+        }
+      ],
+      "duration_ms": 220312,
+      "name": "Sing It Back",
+      "url": "https://open.spotify.com/track/6emZmP4oGTMxFveqpp67vM"
     },
     {
       "added_at": "2026-10-01 23:00:26",
@@ -1735,26 +1739,6 @@
     {
       "added_at": "2026-10-01 23:00:26",
       "album": {
-        "name": "Take Our Time",
-        "url": "https://open.spotify.com/album/278jI8aJg1hoU9guHMgFQP"
-      },
-      "artists": [
-        {
-          "name": "Oden & Fatzo",
-          "url": "https://open.spotify.com/artist/2YEnrpAWWaNRFumgde1lLH"
-        },
-        {
-          "name": "Astels",
-          "url": "https://open.spotify.com/artist/4azViUTvRLgNwb3GmtZvii"
-        }
-      ],
-      "duration_ms": 179962,
-      "name": "Take Our Time",
-      "url": "https://open.spotify.com/track/35ESi5vxKuXZu29EH1mFdI"
-    },
-    {
-      "added_at": "2026-10-01 23:00:26",
-      "album": {
         "name": "IBIZA",
         "url": "https://open.spotify.com/album/31czGIdxfoex2L6hGzZGy8"
       },
@@ -1775,6 +1759,26 @@
       "duration_ms": 182000,
       "name": "IBIZA",
       "url": "https://open.spotify.com/track/2UWGoFGAYstslkTzLnHLXq"
+    },
+    {
+      "added_at": "2026-10-01 23:00:26",
+      "album": {
+        "name": "Take Our Time",
+        "url": "https://open.spotify.com/album/278jI8aJg1hoU9guHMgFQP"
+      },
+      "artists": [
+        {
+          "name": "Oden & Fatzo",
+          "url": "https://open.spotify.com/artist/2YEnrpAWWaNRFumgde1lLH"
+        },
+        {
+          "name": "Astels",
+          "url": "https://open.spotify.com/artist/4azViUTvRLgNwb3GmtZvii"
+        }
+      ],
+      "duration_ms": 179962,
+      "name": "Take Our Time",
+      "url": "https://open.spotify.com/track/35ESi5vxKuXZu29EH1mFdI"
     },
     {
       "added_at": "2026-10-01 23:00:26",
@@ -1911,6 +1915,26 @@
     {
       "added_at": "2026-10-01 23:00:26",
       "album": {
+        "name": "Even Angels Ghost",
+        "url": "https://open.spotify.com/album/6ptOCnDXGsj3cw1D87e5MS"
+      },
+      "artists": [
+        {
+          "name": "Overmono",
+          "url": "https://open.spotify.com/artist/01PnN11ovfen6xUOHfNpn3"
+        },
+        {
+          "name": "Kindora",
+          "url": "https://open.spotify.com/artist/4Y60hS4r2QPUohZh8ciVjN"
+        }
+      ],
+      "duration_ms": 262976,
+      "name": "Even Angels Ghost",
+      "url": "https://open.spotify.com/track/428xFofpMSCCMl2PZvBN6q"
+    },
+    {
+      "added_at": "2026-10-01 23:00:26",
+      "album": {
         "name": "Energy Crew Pt. 1",
         "url": "https://open.spotify.com/album/3pDBOAKDjXCYjLswTu6vMe"
       },
@@ -1939,38 +1963,18 @@
     {
       "added_at": "2026-10-01 23:00:26",
       "album": {
-        "name": "Even Angels Ghost",
-        "url": "https://open.spotify.com/album/6ptOCnDXGsj3cw1D87e5MS"
+        "name": "nothin lasts 4ever",
+        "url": "https://open.spotify.com/album/28KXehF6hOt3iYjCxVPr0o"
       },
       "artists": [
         {
-          "name": "Overmono",
-          "url": "https://open.spotify.com/artist/01PnN11ovfen6xUOHfNpn3"
-        },
-        {
-          "name": "Kindora",
-          "url": "https://open.spotify.com/artist/4Y60hS4r2QPUohZh8ciVjN"
+          "name": "BLOND:ISH",
+          "url": "https://open.spotify.com/artist/6zsJjoCtL1WByG0VsuFWzR"
         }
       ],
-      "duration_ms": 262976,
-      "name": "Even Angels Ghost",
-      "url": "https://open.spotify.com/track/428xFofpMSCCMl2PZvBN6q"
-    },
-    {
-      "added_at": "2026-10-01 23:00:26",
-      "album": {
-        "name": "Your Lovin'",
-        "url": "https://open.spotify.com/album/4Bfkxlb2mIQMiwvyWZvVe7"
-      },
-      "artists": [
-        {
-          "name": "CASSIMM",
-          "url": "https://open.spotify.com/artist/1dA7pt23MNLlDsLpABATtG"
-        }
-      ],
-      "duration_ms": 171120,
-      "name": "Your Lovin'",
-      "url": "https://open.spotify.com/track/4MS7dkKHDKY8cZ9zwGEjDg"
+      "duration_ms": 161000,
+      "name": "nothin lasts 4ever",
+      "url": "https://open.spotify.com/track/1uriDwfQjwE54CXc14xkSo"
     }
   ],
   "unique_name": "Ibiza 2026",

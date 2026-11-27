@@ -1,6 +1,6 @@
 {
   "description": "La playlist del jazz italiano, passato e presente. Cover: Carolina Bubbico",
-  "num_followers": 35303,
+  "num_followers": 35297,
   "original_name": "Jazz Italia",
   "owner": {
     "name": "Spotify",
@@ -807,26 +807,6 @@
     {
       "added_at": "2026-10-02 08:14:11",
       "album": {
-        "name": "fusion.",
-        "url": "https://open.spotify.com/album/5aDct9hn71QRnhcCiAJN54"
-      },
-      "artists": [
-        {
-          "name": "Davide Shorty",
-          "url": "https://open.spotify.com/artist/5nZ6WgYH6mSPf2YaKXOZso"
-        },
-        {
-          "name": "Sans Soucis",
-          "url": "https://open.spotify.com/artist/4vXFvvWirlvTwcl184KfDc"
-        }
-      ],
-      "duration_ms": 220797,
-      "name": "Battiti in parole",
-      "url": "https://open.spotify.com/track/1EtXY815EYdOeZgz7ILBhL"
-    },
-    {
-      "added_at": "2026-10-02 08:14:11",
-      "album": {
         "name": "You've Changed",
         "url": "https://open.spotify.com/album/7hGEPf44dnLcXPOfs3RBdX"
       },
@@ -843,6 +823,26 @@
       "duration_ms": 302689,
       "name": "Per Ricordarmi Di Te",
       "url": "https://open.spotify.com/track/4vYAHjRiwV0kjb4JIzLlHX"
+    },
+    {
+      "added_at": "2026-10-02 08:14:11",
+      "album": {
+        "name": "fusion.",
+        "url": "https://open.spotify.com/album/5aDct9hn71QRnhcCiAJN54"
+      },
+      "artists": [
+        {
+          "name": "Davide Shorty",
+          "url": "https://open.spotify.com/artist/5nZ6WgYH6mSPf2YaKXOZso"
+        },
+        {
+          "name": "Sans Soucis",
+          "url": "https://open.spotify.com/artist/4vXFvvWirlvTwcl184KfDc"
+        }
+      ],
+      "duration_ms": 220797,
+      "name": "Battiti in parole",
+      "url": "https://open.spotify.com/track/1EtXY815EYdOeZgz7ILBhL"
     },
     {
       "added_at": "2026-10-02 08:14:11",
@@ -1387,6 +1387,22 @@
     {
       "added_at": "2026-10-02 08:14:11",
       "album": {
+        "name": "Porta Pia",
+        "url": "https://open.spotify.com/album/27ewyS8tUv5mc6VtkB206d"
+      },
+      "artists": [
+        {
+          "name": "Coca Puma",
+          "url": "https://open.spotify.com/artist/1ByonnOisC5Owt0tfsyzGc"
+        }
+      ],
+      "duration_ms": 175458,
+      "name": "Porta Pia",
+      "url": "https://open.spotify.com/track/3odWDhS8Pk3yIqti833UQb"
+    },
+    {
+      "added_at": "2026-10-02 08:14:11",
+      "album": {
         "name": "Ballads",
         "url": "https://open.spotify.com/album/1gqjxM0wGTsEhA9GNCD1Gi"
       },
@@ -1439,22 +1455,6 @@
     {
       "added_at": "2026-10-02 08:14:11",
       "album": {
-        "name": "Porta Pia",
-        "url": "https://open.spotify.com/album/27ewyS8tUv5mc6VtkB206d"
-      },
-      "artists": [
-        {
-          "name": "Coca Puma",
-          "url": "https://open.spotify.com/artist/1ByonnOisC5Owt0tfsyzGc"
-        }
-      ],
-      "duration_ms": 175458,
-      "name": "Porta Pia",
-      "url": "https://open.spotify.com/track/3odWDhS8Pk3yIqti833UQb"
-    },
-    {
-      "added_at": "2026-10-02 08:14:11",
-      "album": {
         "name": "The Jazzness",
         "url": "https://open.spotify.com/album/6MZzEc8mkCHG7ugAbbI2oQ"
       },
@@ -1467,22 +1467,6 @@
       "duration_ms": 248089,
       "name": "Ripartire Da Zero 2025",
       "url": "https://open.spotify.com/track/2VP7ywy2ucmXx089g5Izgb"
-    },
-    {
-      "added_at": "2026-10-02 08:14:11",
-      "album": {
-        "name": "Le mie donne",
-        "url": "https://open.spotify.com/album/0nNoUuTnjhy6nsbrFHtAYY"
-      },
-      "artists": [
-        {
-          "name": "Sade Mangiaracina",
-          "url": "https://open.spotify.com/artist/4SE5avfQnwqWxmiGZI1WMb"
-        }
-      ],
-      "duration_ms": 236881,
-      "name": "Rosa",
-      "url": "https://open.spotify.com/track/3wO2S9SjQkG64qJv81S0ah"
     },
     {
       "added_at": "2026-10-02 08:14:11",
@@ -1507,18 +1491,18 @@
     {
       "added_at": "2026-10-02 08:14:11",
       "album": {
-        "name": "Vacation and Probation",
-        "url": "https://open.spotify.com/album/3xZeHsf0cMMvI2EXx8F4yv"
+        "name": "Le mie donne",
+        "url": "https://open.spotify.com/album/0nNoUuTnjhy6nsbrFHtAYY"
       },
       "artists": [
         {
-          "name": "Calibro 35",
-          "url": "https://open.spotify.com/artist/7ueDbhgpZaiUxEbiHnwezi"
+          "name": "Sade Mangiaracina",
+          "url": "https://open.spotify.com/artist/4SE5avfQnwqWxmiGZI1WMb"
         }
       ],
-      "duration_ms": 154480,
-      "name": "Vacation and Probation",
-      "url": "https://open.spotify.com/track/0dTH4fsHjj5fG9yvzco2J7"
+      "duration_ms": 236881,
+      "name": "Rosa",
+      "url": "https://open.spotify.com/track/3wO2S9SjQkG64qJv81S0ah"
     },
     {
       "added_at": "2026-10-02 08:14:11",
@@ -1563,6 +1547,22 @@
       "duration_ms": 245500,
       "name": "CAOS ARM\u00d2NICO (feat. Clap! Clap!)",
       "url": "https://open.spotify.com/track/0fIaouH60PJ35OBZIF3tTh"
+    },
+    {
+      "added_at": "2026-10-02 08:14:11",
+      "album": {
+        "name": "Vacation and Probation",
+        "url": "https://open.spotify.com/album/3xZeHsf0cMMvI2EXx8F4yv"
+      },
+      "artists": [
+        {
+          "name": "Calibro 35",
+          "url": "https://open.spotify.com/artist/7ueDbhgpZaiUxEbiHnwezi"
+        }
+      ],
+      "duration_ms": 154480,
+      "name": "Vacation and Probation",
+      "url": "https://open.spotify.com/track/0dTH4fsHjj5fG9yvzco2J7"
     },
     {
       "added_at": "2026-10-02 08:14:11",
@@ -1635,22 +1635,6 @@
     {
       "added_at": "2026-10-02 08:14:11",
       "album": {
-        "name": "New Game Plus",
-        "url": "https://open.spotify.com/album/6tmZs6mC32XYxX7roqBsFd"
-      },
-      "artists": [
-        {
-          "name": "magikAAAAArp",
-          "url": "https://open.spotify.com/artist/1pyovQJ1LBijAxUci0z8sq"
-        }
-      ],
-      "duration_ms": 222000,
-      "name": "2 AM",
-      "url": "https://open.spotify.com/track/3vSCu1i40ARAivECYZfcV9"
-    },
-    {
-      "added_at": "2026-10-02 08:14:11",
-      "album": {
         "name": "Norma (Arr. for Jazz Orchestra)",
         "url": "https://open.spotify.com/album/6E5n7bwbyvjDeGj4IexGGl"
       },
@@ -1671,6 +1655,22 @@
       "duration_ms": 584075,
       "name": "Norma: Casta diva - Arr. for Jazz Orchestra",
       "url": "https://open.spotify.com/track/6F2ZVnF2AXI3sG6bxq1o5x"
+    },
+    {
+      "added_at": "2026-10-02 08:14:11",
+      "album": {
+        "name": "New Game Plus",
+        "url": "https://open.spotify.com/album/6tmZs6mC32XYxX7roqBsFd"
+      },
+      "artists": [
+        {
+          "name": "magikAAAAArp",
+          "url": "https://open.spotify.com/artist/1pyovQJ1LBijAxUci0z8sq"
+        }
+      ],
+      "duration_ms": 222000,
+      "name": "2 AM",
+      "url": "https://open.spotify.com/track/3vSCu1i40ARAivECYZfcV9"
     },
     {
       "added_at": "2026-10-02 08:14:11",
@@ -1755,22 +1755,6 @@
     {
       "added_at": "2026-10-02 08:14:11",
       "album": {
-        "name": "Freaky People",
-        "url": "https://open.spotify.com/album/5GidaDXTEqFHHfhH5aTo44"
-      },
-      "artists": [
-        {
-          "name": "Al Doum & The Faryds",
-          "url": "https://open.spotify.com/artist/3eL7WEdwv8YTlSsg5mqyF5"
-        }
-      ],
-      "duration_ms": 348375,
-      "name": "Here We Gong",
-      "url": "https://open.spotify.com/track/5u0jFEGcdSiJgBFvZf0Waj"
-    },
-    {
-      "added_at": "2026-10-02 08:14:11",
-      "album": {
         "name": "IRA",
         "url": "https://open.spotify.com/album/4WhBN2WPPxAU5M5Tpw56PL"
       },
@@ -1783,6 +1767,22 @@
       "duration_ms": 662586,
       "name": "hajar",
       "url": "https://open.spotify.com/track/2sy4zmZz3kIxZGL1VYa7sD"
+    },
+    {
+      "added_at": "2026-10-02 08:14:11",
+      "album": {
+        "name": "Freaky People",
+        "url": "https://open.spotify.com/album/5GidaDXTEqFHHfhH5aTo44"
+      },
+      "artists": [
+        {
+          "name": "Al Doum & The Faryds",
+          "url": "https://open.spotify.com/artist/3eL7WEdwv8YTlSsg5mqyF5"
+        }
+      ],
+      "duration_ms": 348375,
+      "name": "Here We Gong",
+      "url": "https://open.spotify.com/track/5u0jFEGcdSiJgBFvZf0Waj"
     },
     {
       "added_at": "2026-10-02 08:14:11",
@@ -1815,6 +1815,38 @@
       "duration_ms": 653973,
       "name": "Certi angoli segreti",
       "url": "https://open.spotify.com/track/0TgOi4joOrp0spXM754Z8X"
+    },
+    {
+      "added_at": "2026-10-02 08:14:11",
+      "album": {
+        "name": "Moon Kin",
+        "url": "https://open.spotify.com/album/0XoKbSzakitFU6aAsqFPQm"
+      },
+      "artists": [
+        {
+          "name": "Emanuele Triglia",
+          "url": "https://open.spotify.com/artist/617R11XUjqnwEnjXGsqjTp"
+        },
+        {
+          "name": "Davide Savarese",
+          "url": "https://open.spotify.com/artist/4qxVdV4LGMsYYravUCrwgf"
+        },
+        {
+          "name": "QWALE",
+          "url": "https://open.spotify.com/artist/2cRadsW7it5UQecQG1Icsh"
+        },
+        {
+          "name": "Francesco Fratini",
+          "url": "https://open.spotify.com/artist/3DAWdBF9FZhTWbThgzcfNB"
+        },
+        {
+          "name": "Vincenzo Lato",
+          "url": "https://open.spotify.com/artist/18afzVKbLNUIWgXz9DIIrV"
+        }
+      ],
+      "duration_ms": 156838,
+      "name": "Samo",
+      "url": "https://open.spotify.com/track/47yfVqjJxsOdfTNpo47v2H"
     },
     {
       "added_at": "2026-10-02 08:14:11",
@@ -1859,38 +1891,6 @@
       "duration_ms": 288616,
       "name": "Tuareg",
       "url": "https://open.spotify.com/track/78x2PdL40tU1NMLpv933CU"
-    },
-    {
-      "added_at": "2026-10-02 08:14:11",
-      "album": {
-        "name": "Moon Kin",
-        "url": "https://open.spotify.com/album/0XoKbSzakitFU6aAsqFPQm"
-      },
-      "artists": [
-        {
-          "name": "Emanuele Triglia",
-          "url": "https://open.spotify.com/artist/617R11XUjqnwEnjXGsqjTp"
-        },
-        {
-          "name": "Davide Savarese",
-          "url": "https://open.spotify.com/artist/4qxVdV4LGMsYYravUCrwgf"
-        },
-        {
-          "name": "QWALE",
-          "url": "https://open.spotify.com/artist/2cRadsW7it5UQecQG1Icsh"
-        },
-        {
-          "name": "Francesco Fratini",
-          "url": "https://open.spotify.com/artist/3DAWdBF9FZhTWbThgzcfNB"
-        },
-        {
-          "name": "Vincenzo Lato",
-          "url": "https://open.spotify.com/artist/18afzVKbLNUIWgXz9DIIrV"
-        }
-      ],
-      "duration_ms": 156838,
-      "name": "Samo",
-      "url": "https://open.spotify.com/track/47yfVqjJxsOdfTNpo47v2H"
     },
     {
       "added_at": "2026-10-02 08:14:11",

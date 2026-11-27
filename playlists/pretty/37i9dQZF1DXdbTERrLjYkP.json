@@ -1,12 +1,12 @@
 {
   "description": "Discover the next wave of talent writing their own songs. Cover: Grace Enger",
-  "num_followers": 219659,
+  "num_followers": 219658,
   "original_name": "Next Gen Singer-Songwriters",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAALbdrTVhSwiksuB2EtLKIqhIKk+z",
+  "snapshot_id": "AAAAANcT5/Li8My9Aqe/6nng7BjJkbfL",
   "tracks": [
     {
       "added_at": "2026-11-20 05:14:19",
@@ -25,6 +25,22 @@
       "url": "https://open.spotify.com/track/42NrToIoZCMQ7GjSsx3cKD"
     },
     {
+      "added_at": "2026-11-27 05:01:09",
+      "album": {
+        "name": "Sadie",
+        "url": "https://open.spotify.com/album/4xHGCV0zWDZQFLuIIpB3qI"
+      },
+      "artists": [
+        {
+          "name": "Anna Lille",
+          "url": "https://open.spotify.com/artist/4nwpfzpdL72UcfB0O3y6Gk"
+        }
+      ],
+      "duration_ms": 258322,
+      "name": "Sadie",
+      "url": "https://open.spotify.com/track/129LuxW7FfJUnqUDlupMWJ"
+    },
+    {
       "added_at": "2026-11-20 05:14:19",
       "album": {
         "name": "Wishing In Reverse",
@@ -39,6 +55,22 @@
       "duration_ms": 188996,
       "name": "Belle Of The Ball",
       "url": "https://open.spotify.com/track/4BMSTla2bxnKi2GV3DnWSg"
+    },
+    {
+      "added_at": "2026-11-27 05:01:09",
+      "album": {
+        "name": "Rockstar",
+        "url": "https://open.spotify.com/album/1MA32hbzAwq74luWckcPDs"
+      },
+      "artists": [
+        {
+          "name": "Hannah Hill",
+          "url": "https://open.spotify.com/artist/2YXwzQWYyLiFYx6VA0e0WR"
+        }
+      ],
+      "duration_ms": 204257,
+      "name": "Rockstar",
+      "url": "https://open.spotify.com/track/3KAupxPNje3nKAA5kSvovD"
     },
     {
       "added_at": "2026-11-21 03:20:34",
@@ -939,42 +971,6 @@
       "duration_ms": 219302,
       "name": "Complicated",
       "url": "https://open.spotify.com/track/1Ic99VrqmtQr6BHuzBDdrj"
-    },
-    {
-      "added_at": "2026-08-07 05:20:14",
-      "album": {
-        "name": "Meet Me At The Cafe",
-        "url": "https://open.spotify.com/album/0GBVskaDi7VBjU5h2OQ8BN"
-      },
-      "artists": [
-        {
-          "name": "Yana",
-          "url": "https://open.spotify.com/artist/6bR96LMvgvYgDlumR7JwPX"
-        }
-      ],
-      "duration_ms": 183537,
-      "name": "Meet Me At The Cafe",
-      "url": "https://open.spotify.com/track/0I4BZ46wgUqbazXhHATA1V"
-    },
-    {
-      "added_at": "2026-07-31 01:09:28",
-      "album": {
-        "name": "Rabies",
-        "url": "https://open.spotify.com/album/5tfVxiVnjr3e6a5jgBKqKq"
-      },
-      "artists": [
-        {
-          "name": "Baby Bugs",
-          "url": "https://open.spotify.com/artist/3TBTcHpZ3aV1g8rk8i1zb5"
-        },
-        {
-          "name": "Black Polish",
-          "url": "https://open.spotify.com/artist/68uS7D9Jp3BsuUEOOqQ9oP"
-        }
-      ],
-      "duration_ms": 212830,
-      "name": "Rabies",
-      "url": "https://open.spotify.com/track/4bb4b8LxkX5HpUU9THfBQQ"
     },
     {
       "added_at": "2026-07-24 04:02:41",

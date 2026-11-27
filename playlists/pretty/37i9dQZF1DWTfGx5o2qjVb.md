@@ -4,11 +4,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTfGx5o2qjVb.md) - [plain]
 
 > <a href="spotify:artist:4p5WgeiPSPpqPDs7T6OkWf">ANOTR</a>'s favorite tracks\. Curated by ANOTR\. More track IDs <a href="spotify:genre:track\_id">here</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 26,310 likes - 100 songs - 7 hr 8 min
+[Spotify](https://open.spotify.com/user/spotify) - 26,321 likes - 100 songs - 7 hr 8 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
-| 1 | [Silver Lines \(feat\. Emily Warren\)](https://open.spotify.com/track/2qpkcHxt9Kc5RLf4f7HokU) | [ANOTR](https://open.spotify.com/artist/4p5WgeiPSPpqPDs7T6OkWf), [Emily Warren](https://open.spotify.com/artist/1oKdM70mJD8VvDOTKeS8t1) | [Silver Lines \(feat\. Emily Warren\)](https://open.spotify.com/album/0cDWfAk9fRIvcdeITJmUF1) | 3:21 |
+| 1 | [Silver Lines \(feat\. Emily Warren\)](https://open.spotify.com/track/2qpkcHxt9Kc5RLf4f7HokU) | [ANOTR](https://open.spotify.com/artist/4p5WgeiPSPpqPDs7T6OkWf), [Circoloco Records](https://open.spotify.com/artist/473Lb5bIpzUsXMsHKhZGDf), [Emily Warren](https://open.spotify.com/artist/1oKdM70mJD8VvDOTKeS8t1) | [Silver Lines \(feat\. Emily Warren\)](https://open.spotify.com/album/0cDWfAk9fRIvcdeITJmUF1) | 3:21 |
 | 2 | [Talk To You \(ft\. 54 Ultra\)](https://open.spotify.com/track/0kl6Ozan3fuUdCl6TlB15v) | [ANOTR](https://open.spotify.com/artist/4p5WgeiPSPpqPDs7T6OkWf), [54 Ultra](https://open.spotify.com/artist/6X5L6rmyvrWWu60Gx6exiZ) | [Talk To You \(ft\. 54 Ultra\)](https://open.spotify.com/album/374Z5kI6lNCztQV7HItzUJ) | 3:11 |
 | 3 | [Mada Meho So](https://open.spotify.com/track/00Mu0ADNrvmVp8s0GXLePg) | [Thomas Frempong](https://open.spotify.com/artist/0hd9C69OcgrnQCNlLIL0XE) | [Mada Meho So](https://open.spotify.com/album/6Gh3OKkIvqRSyaoI9vc0c5) | 6:29 |
 | 4 | [Libre](https://open.spotify.com/track/0Jy51xAFhozgu0g4yaZ62H) | [Genairo Nvilla](https://open.spotify.com/artist/1jcktnRawixaqiP98O8aJm) | [Libre](https://open.spotify.com/album/5OA83x4lXPnEJO7XiS2yJQ) | 4:36 |

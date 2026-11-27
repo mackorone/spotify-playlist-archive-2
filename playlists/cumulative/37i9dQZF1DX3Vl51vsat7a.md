@@ -4,7 +4,7 @@
 
 > Discover your new favourite artists with a focus on Germany, Switzerland, Austria\. Cover: KUKO
 
-556 songs - 1 day 4 hr 9 min
+558 songs - 1 day 4 hr 15 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -275,6 +275,7 @@
 | [Jamais Été \(Cool\)](https://open.spotify.com/track/3d78cgjRdpp2hmhZdyMmKp) | [Zoë Më](https://open.spotify.com/artist/1ceXjlrYcTS2i4ShwhjjcN) | [Jamais Été \(Cool\)](https://open.spotify.com/album/0dpWyeA0DSO4CgMjSGspra) | 2:35 | 2026-04-23 | 2026-10-16 |
 | [James Blake](https://open.spotify.com/track/2jjmmklmlTnS5WEYrL0MkN) | [Provinz](https://open.spotify.com/artist/2f7f3AmL16mmiAmYnxmmfx), [ENNIO](https://open.spotify.com/artist/6ztKrKekC3nb3nCBoy9HUt) | [James Blake](https://open.spotify.com/album/0jaT6ytnqXaQ0EhElQg9Zn) | 3:44 | 2023-11-23 | 2024-04-19 |
 | [James Blake](https://open.spotify.com/track/6wjiWdFdfcyZNikqjqb9vu) | [Provinz](https://open.spotify.com/artist/2f7f3AmL16mmiAmYnxmmfx), [ENNIO](https://open.spotify.com/artist/6ztKrKekC3nb3nCBoy9HUt) | [James Blake](https://open.spotify.com/album/5PVKyMewYidIhvFGpiGeNW) | 3:44 | 2023-11-23 | 2025-05-30 |
+| [Jeffrey's Son](https://open.spotify.com/track/0uWDR6hzMrPWhgBiT6J9Zs) | [Louis Ottley](https://open.spotify.com/artist/6lq9zv8FElQShSuFYolkp5) | [Jeffrey's Son](https://open.spotify.com/album/7mrAbnESZTPGefHcHbLETf) | 3:17 | 2026-11-26 |  |
 | [Jungle](https://open.spotify.com/track/4ALVnrzsiNjtRZs3hulmEZ) | [Drew Sycamore](https://open.spotify.com/artist/2hyMuTjcOQsuC1QV0paUBA) | [Sycamore](https://open.spotify.com/album/3dkbfJo5szx7gGIx51zR5q) | 3:00 | 2021-12-16 | 2022-04-08 |
 | [Jungs](https://open.spotify.com/track/1jho4k3ZW3EcDEKDuoAaEs) | [BRUCKNER](https://open.spotify.com/artist/0OKQx5tW0vxtKwYVblZTkq) | [Jungs](https://open.spotify.com/album/6xck8Dqp9molj0ILkbwMbV) | 2:36 | 2024-06-20 | 2024-08-17 |
 | [Kamera Blitzlicht](https://open.spotify.com/track/1iqw9RC7HckP1b75DkO2es) | [Dilla](https://open.spotify.com/artist/17l4XlVVWNktDeJDigQ3HJ) | [Kamera Blitzlicht](https://open.spotify.com/album/646xIOsDbv5KQq09Vgt3eg) | 3:58 | 2026-07-09 |  |
@@ -323,7 +324,7 @@
 | [Method Acting](https://open.spotify.com/track/0waRqqT3XMM1UzZkSZGnd3) | [error](https://open.spotify.com/artist/3CiuMe6mZlqH8TnuzA3AYp) | [Method Acting](https://open.spotify.com/album/2tz2LLDjbdRZXaWsYwRAtA) | 2:47 | 2025-09-25 | 2026-04-04 |
 | [Mich selbst](https://open.spotify.com/track/42qXgF9aACLBZjcMnpfO36) | [moé](https://open.spotify.com/artist/2Odi4EJdB2wFUTMWNCxJ7T) | [Mich selbst](https://open.spotify.com/album/0GVBQN5S6CykRYpprV3l0d) | 3:48 | 2026-02-26 | 2026-09-05 |
 | [mietfrei](https://open.spotify.com/track/1CknK1sYAhoYxZEs5OfqEq) | [Ski Aggu](https://open.spotify.com/artist/6CP5wWvO8oIxedESJNCN4H), [SIRA](https://open.spotify.com/artist/2HIP5sNZWkrPgSBWRk8XpA) | [mietfrei](https://open.spotify.com/album/3MWijTaxJrKLKeY1VmcwyH) | 2:21 | 2023-07-20 | 2023-09-01 |
-| [Milk](https://open.spotify.com/track/3sFCKf3AsmHIPJPnkIg8PG) | [Mary Middlefield](https://open.spotify.com/artist/4AHdi9slY1QQdgFXRFUUIs) | [Milk](https://open.spotify.com/album/5YSgMAS15Hai4c69Gfnzez) | 4:18 | 2026-02-19 |  |
+| [Milk](https://open.spotify.com/track/3sFCKf3AsmHIPJPnkIg8PG) | [Mary Middlefield](https://open.spotify.com/artist/4AHdi9slY1QQdgFXRFUUIs) | [Milk](https://open.spotify.com/album/5YSgMAS15Hai4c69Gfnzez) | 4:18 | 2026-02-19 | 2026-11-27 |
 | [MIND ACTRESS](https://open.spotify.com/track/6Vyw8E2SOTb5dUasc76bmH) | [Joplyn](https://open.spotify.com/artist/32Jt1AK733JbFR82hEZ0Ih) | [PAPPELALLEE 01](https://open.spotify.com/album/5qcXQaYl5cwPi00ej8JWSF) | 3:53 | 2021-12-16 | 2022-04-29 |
 | [Mirror](https://open.spotify.com/track/3oEE9CTAWGucULUz6q9s7l) | [AVEC](https://open.spotify.com/artist/6N8vbhxZ0CYJHd8WGJ9Snf) | [I Feel Alone These Days](https://open.spotify.com/album/3XUpS6zpdfyYvqLHktRXia) | 4:08 | 2023-07-20 | 2024-07-19 |
 | [Mittelfinger](https://open.spotify.com/track/3SuzunWJyo7gaedTPAp06r) | [Florentina](https://open.spotify.com/artist/7adCbfW9aRcBxWhuuSNXTo) | [Mittelfinger](https://open.spotify.com/album/7vR1STUfZ9Io0u1Ei67XDH) | 2:09 | 2024-06-06 | 2024-08-30 |
@@ -537,7 +538,7 @@
 | [wie du manchmal fehlst](https://open.spotify.com/track/2gOVXniOMdunVdYk2NUQ4p) | [Zartmann](https://open.spotify.com/artist/0pVHBkObr9UNIWpms1e4I0), [Ski Aggu](https://open.spotify.com/artist/6CP5wWvO8oIxedESJNCN4H), [Dauner](https://open.spotify.com/artist/2E5bmPbkiGhZ3ZK798zFIb) | [wie du manchmal fehlst](https://open.spotify.com/album/7c6bG1FchpuEbkTl8iJ4As) | 2:11 | 2024-05-23 | 2024-06-21 |
 | [Wieder](https://open.spotify.com/track/0ZBxJRpsvY53vphDtoi4FI) | [Ansu](https://open.spotify.com/artist/62TYO8MQIPGNVne59x3AqS), [Cato](https://open.spotify.com/artist/5Qa6L42X3G6sXrWvYvxGOc), [2sick](https://open.spotify.com/artist/1FQkPQ3IrjRAny1OXdGX8S) | [Wieder](https://open.spotify.com/album/6Gvc1zMQanZDbbupEAEgHe) | 2:12 | 2024-07-04 | 2026-02-27 |
 | [Wien](https://open.spotify.com/track/65caFJtNCC6xdSBUXZivw2) | [Mayberg](https://open.spotify.com/artist/0lNJF6sbrXXPubqKkkyK23) | [MINI](https://open.spotify.com/album/7w1GycA2X3co1x2JLj1G6e) | 2:16 | 2023-03-02 | 2023-09-15 |
-| [Wieso](https://open.spotify.com/track/5EVTMTPMNTyKQg55hVOhqF) | [Magda](https://open.spotify.com/artist/5yjjgmQfOQTB2s8XQxQwup) | [Wieso](https://open.spotify.com/album/6K1nYULYod3v6ffOKwp5ei) | 3:45 | 2026-05-07 |  |
+| [Wieso](https://open.spotify.com/track/5EVTMTPMNTyKQg55hVOhqF) | [Magda](https://open.spotify.com/artist/5yjjgmQfOQTB2s8XQxQwup) | [Wieso](https://open.spotify.com/album/6K1nYULYod3v6ffOKwp5ei) | 3:45 | 2026-05-07 | 2026-11-27 |
 | [Wild Ones](https://open.spotify.com/track/2MH5KK60I00JOPigNOt4v8) | [southstar](https://open.spotify.com/artist/1GVuCyb4PlArufUZDUnRQi) | [Wild Ones](https://open.spotify.com/album/2JSwcjpkanFKfT3ev3eDQr) | 3:26 | 2023-10-05 | 2024-02-16 |
 | [Willst du](https://open.spotify.com/track/0XeyWcuJsrJo28jZGda4IQ) | [Dilla](https://open.spotify.com/artist/17l4XlVVWNktDeJDigQ3HJ), [emi x](https://open.spotify.com/artist/5kDJnYkE7Xm5zgEsJHb23u) | [Willst du](https://open.spotify.com/album/3v6PmEA3aZhxeG1Y62nmS3) | 2:56 | 2024-03-14 | 2025-06-27 |
 | [wir haben's überlebt](https://open.spotify.com/track/4N2xigWIV1NWcMe6HRdalt) | [Zartmann](https://open.spotify.com/artist/0pVHBkObr9UNIWpms1e4I0) | [wir haben's überlebt](https://open.spotify.com/album/7tUlb7DaDpS3PJT7t8X5DY) | 2:20 | 2024-10-10 | 2024-10-25 |
@@ -558,6 +559,7 @@
 | [Zimmerpflanze](https://open.spotify.com/track/4rOEdJmcop5bNKC95SEcml) | [RIAN](https://open.spotify.com/artist/0bqYZDuHYSjfnY8JJutg4f) | [Verwandtschaftstreffen EP](https://open.spotify.com/album/5jcd2yl20EAgbf9th5JM8Q) | 2:26 | 2025-02-27 | 2026-02-27 |
 | [ZOMBIE](https://open.spotify.com/track/75KHUxaMlmvSIYZnUMMLj9) | [FLØRE](https://open.spotify.com/artist/5aUy7Z5Q1m6f9fNp8or3sD) | [ZOMBIE](https://open.spotify.com/album/0BUM8lM9I5YnnPFVXV3yyv) | 3:13 | 2023-01-19 | 2023-06-16 |
 | [zu viel](https://open.spotify.com/track/1w5l9Qfpus2rpjJfYQBfQd) | [Lovis](https://open.spotify.com/artist/08xqubZPFcvhvCPSxwpbj5) | [zu viel](https://open.spotify.com/album/4OMFvED2nxBqmHzzA5owNB) | 2:41 | 2025-07-17 | 2025-09-05 |
+| [Zu viel zu wenig](https://open.spotify.com/track/3yxUEMvOwCWq6rRJMHJrOX) | [Magda](https://open.spotify.com/artist/5yjjgmQfOQTB2s8XQxQwup) | [Zu viel zu wenig](https://open.spotify.com/album/4y9RlF78mlYa10fK31NtkZ) | 2:16 | 2026-11-26 |  |
 | [Zug](https://open.spotify.com/track/4HzI51MtylzWfyHt5M9dAX) | [Ansu](https://open.spotify.com/artist/62TYO8MQIPGNVne59x3AqS), [$OHO BANI](https://open.spotify.com/artist/3KQylwDxYE7Vxli0BSuwaf), [Cato](https://open.spotify.com/artist/5Qa6L42X3G6sXrWvYvxGOc) | [Soul über Ego](https://open.spotify.com/album/1UsBo0GLw8Ob7rotm0mgD5) | 2:15 | 2023-03-02 | 2023-11-17 |
 | [Zwei Menschen](https://open.spotify.com/track/1XB2S5i8oJKiCq1ABLJeYz) | [Provinz](https://open.spotify.com/artist/2f7f3AmL16mmiAmYnxmmfx) | [Zwei Menschen](https://open.spotify.com/album/5bAj7lNz2BQ3Z6MyZyWHNU) | 3:24 | 2022-07-28 | 2022-09-16 |
 | [Zwilling](https://open.spotify.com/track/28eswYbPQEl1dCvxz5lWQc) | [Souly](https://open.spotify.com/artist/1fImPZoBVjmYrBFzCHh0N3) | [Zwilling](https://open.spotify.com/album/2kZQkjTic3M1mG1dVIB0Av) | 1:44 | 2026-07-02 |  |

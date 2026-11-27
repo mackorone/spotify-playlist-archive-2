@@ -4,7 +4,7 @@
 
 > K'ID = Korean ID\. Welcome to the K\-Rock anthem! \(Cover: Sultan of the Disco\) \(핫한 국내 록 음악을 만나보세요!\)
 
-1,237 songs - 3 day 3 hr 16 min
+1,238 songs - 3 day 3 hr 20 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -161,7 +161,7 @@
 | [Camelia](https://open.spotify.com/track/7osu6K184SiV1Hve4Lp0KK) | [OmO](https://open.spotify.com/artist/0qd4ZITXi1pNRIuhUst0h7) | [Camelia](https://open.spotify.com/album/6m1RjLrIM0P3z7SToNL32D) | 4:00 | 2024-12-18 | 2025-02-19 |
 | [Can I Be Me?](https://open.spotify.com/track/7J8Gyy5wUFBDbpD7vqpJKy) | [HANRORO](https://open.spotify.com/artist/5wVJpXzuKV6Xj7Yhsf2uYx) | [Can I Be Me?](https://open.spotify.com/album/7wnXIsAJu06lWAWRrTziIq) | 3:08 | 2025-07-07 | 2025-07-25 |
 | [CAN'T KEEP SMILING!](https://open.spotify.com/track/6ZPIZDuCF5qcVZIcKgifRN) | [YdBB](https://open.spotify.com/artist/2UjX6FLGyUQb4sbookjR3y) | [CAN'T KEEP SMILING!](https://open.spotify.com/album/1kkbJxIuCkl14Pd43HCKUQ) | 3:14 | 2025-03-31 | 2025-04-23 |
-| [can't love \(feat\. HAN \(Stray Kids\)\)](https://open.spotify.com/track/28his6ZYxU15m3bCUTUtFA) | [can't be blue](https://open.spotify.com/artist/32mluwkanSuuM3hm3d3Fh5), [HAN](https://open.spotify.com/artist/46YvTuKiPBUu5KP9818J2F) | [can't love \(feat\. HAN \(Stray Kids\)\)](https://open.spotify.com/album/0fJoozKZUNh31IdKsZ8lnm) | 3:15 | 2026-05-26 |  |
+| [can't love \(feat\. HAN \(Stray Kids\)\)](https://open.spotify.com/track/28his6ZYxU15m3bCUTUtFA) | [can't be blue](https://open.spotify.com/artist/32mluwkanSuuM3hm3d3Fh5), [HAN](https://open.spotify.com/artist/46YvTuKiPBUu5KP9818J2F) | [can't love \(feat\. HAN \(Stray Kids\)\)](https://open.spotify.com/album/0fJoozKZUNh31IdKsZ8lnm) | 3:15 | 2026-05-26 | 2026-11-27 |
 | [Cape](https://open.spotify.com/track/6NpTVrEK8x4oNLiaUartCK) | [Suzy](https://open.spotify.com/artist/4U80LJd8sG6U9YTFP5izka) | [Cape](https://open.spotify.com/album/4FptBJzdZO2HUTvSF9UrFu) | 4:24 | 2022-10-07 | 2022-12-13 |
 | [cares](https://open.spotify.com/track/0JSRc0gSUIsXzo4xHe9BUo) | [The Poles](https://open.spotify.com/artist/7isCii8IZOBPInAYFn2n5Q) | [cares](https://open.spotify.com/album/49jzDG0UlTvh46TVAYZ3cJ) | 4:34 | 2025-03-17 | 2025-04-12 |
 | [Cat](https://open.spotify.com/track/7LGxie1fkXm3vHQvjijoBw) | [Ha Hyun Sang](https://open.spotify.com/artist/1jK4qH2wAXqF8v64zvaGRb) | [Cat](https://open.spotify.com/album/2KSOEIBLOuuhW31M9TWpjQ) | 3:22 | 2025-04-23 | 2025-05-08 |
@@ -683,6 +683,7 @@
 | [My Name Is Malguem](https://open.spotify.com/track/4rIqyuLPbNRVOcHGOI0l4A) | [SOYEON](https://open.spotify.com/artist/6Xg22wJOAcnvPUfk5WvODH) | [My Name Is Malguem \[The Seasons: Cantabile of Park Bo Gum\]](https://open.spotify.com/album/3cKJ87R9WQYbcfBKoOdPPn) | 3:08 | 2025-06-30 | 2025-07-08 |
 | [My Side](https://open.spotify.com/track/2bfRzTMJIeHnxa9JbpmHMi) | [Hui](https://open.spotify.com/artist/4R0tSGcVRQ8ZXPzttU8mHy) | [No Gain No Love, Pt\. 3 \(Original Soundtrack\)](https://open.spotify.com/album/0zfrALsmg6jEnAuxphBspl) | 2:56 | 2024-11-06 | 2024-11-13 |
 | [My star](https://open.spotify.com/track/6j9lOM0mmJsS4fP7s4GTrU) | [O.WHEN](https://open.spotify.com/artist/7f5OHScUwC0ZKZzma5mMxq) | [My star](https://open.spotify.com/album/1qlznH1GRH7VBXxd1AZ9Xs) | 3:14 | 2025-10-21 | 2025-11-03 |
+| [My Truth, My Youth](https://open.spotify.com/track/4xRjgnN6HhNVydG6SZagxY) | [Samui](https://open.spotify.com/artist/0HPaAAfUL4k7xE45xXi5yb) | [My Truth, My Youth](https://open.spotify.com/album/7CTUEw0LD0McdZRj0GExsF) | 3:26 | 2026-11-27 |  |
 | [My Youth](https://open.spotify.com/track/1lk4BA7QjRdRLIu7ZuoRz8) | [V01D](https://open.spotify.com/artist/1AXz12zUZ7GGJO4Z0693Iw) | [YOUTHQUAKE](https://open.spotify.com/album/46cZiCd8EjN4mTOHabfdBM) | 2:54 | 2026-10-22 | 2026-10-30 |
 | [Mystery Happy](https://open.spotify.com/track/3nmOPSrQzdG81KgZXW0HGy) | [We Are The Night](https://open.spotify.com/artist/5UT1mOF7JAjcc7e3wen8vw) | [Mystery Happy](https://open.spotify.com/album/0bqb26fZao4mdtE8TOolNF) | 3:55 | 2022-07-08 | 2022-07-28 |
 | [NamgungFEFERE \(feat\. Japanese Breakfast\)](https://open.spotify.com/track/29sI2nRMCyKqmmpWZ6WJsi) | [Silica Gel](https://open.spotify.com/artist/2kxVxKOgoefmgkwoHipHsn), [Japanese Breakfast](https://open.spotify.com/artist/7MoIc5s9KXolCBH1fy9kkw) | [NamgungFEFERE](https://open.spotify.com/album/1ymy46awOlT3qoFofw8r94) | 3:48 | 2025-07-10 | 2025-08-01 |

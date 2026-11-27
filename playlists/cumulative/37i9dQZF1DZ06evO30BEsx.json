@@ -1149,6 +1149,66 @@
     },
     {
       "album": {
+        "name": "Danny Elfman: Cello Concerto & Film Music",
+        "url": "https://open.spotify.com/album/7kZ5FcQnPYmA5WQVjlsxaK"
+      },
+      "artists": [
+        {
+          "name": "Danny Elfman",
+          "url": "https://open.spotify.com/artist/5qBZETtyzfYnXOobDXbmcD"
+        },
+        {
+          "name": "Gautier Capu\u00e7on",
+          "url": "https://open.spotify.com/artist/57ziOSBD3x0PhVbl7MXTgI"
+        },
+        {
+          "name": "Lionel Bringuier",
+          "url": "https://open.spotify.com/artist/78tOC3otzyHJOy6wO6j6hB"
+        },
+        {
+          "name": "BBC Concert Orchestra",
+          "url": "https://open.spotify.com/artist/3dIPaddbWppnquuPkcYVDg"
+        }
+      ],
+      "date_added": "2026-11-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 228013,
+      "name": "Elfman: Good Will Hunting: End Titles",
+      "url": "https://open.spotify.com/track/7jFaHuwKm1GiafIRy9YAZJ"
+    },
+    {
+      "album": {
+        "name": "Danny Elfman: Cello Concerto & Film Music",
+        "url": "https://open.spotify.com/album/7kZ5FcQnPYmA5WQVjlsxaK"
+      },
+      "artists": [
+        {
+          "name": "Danny Elfman",
+          "url": "https://open.spotify.com/artist/5qBZETtyzfYnXOobDXbmcD"
+        },
+        {
+          "name": "Gautier Capu\u00e7on",
+          "url": "https://open.spotify.com/artist/57ziOSBD3x0PhVbl7MXTgI"
+        },
+        {
+          "name": "Lionel Bringuier",
+          "url": "https://open.spotify.com/artist/78tOC3otzyHJOy6wO6j6hB"
+        },
+        {
+          "name": "BBC Concert Orchestra",
+          "url": "https://open.spotify.com/artist/3dIPaddbWppnquuPkcYVDg"
+        }
+      ],
+      "date_added": "2026-11-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 256026,
+      "name": "Elfman: Milk: Give\u2019Em Hope",
+      "url": "https://open.spotify.com/track/2KRfBXyVRGiLeH68Ko6lNO"
+    },
+    {
+      "album": {
         "name": "Jack's Lament (From \"Nightmare Before Christmas\")",
         "url": "https://open.spotify.com/album/1sYsDRktHog00qd2v6nKpa"
       },
@@ -1172,7 +1232,7 @@
       ],
       "date_added": "2026-11-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-27",
       "duration_ms": 191906,
       "name": "Elfman: The Nightmare Before Christmas: Jack\u2019s Lament",
       "url": "https://open.spotify.com/track/4LAwr5zF7XDUQZXrSSPAro"
@@ -2640,7 +2700,7 @@
       ],
       "date_added": "2025-11-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-27",
       "duration_ms": 913335,
       "name": "Schubert: String Quintet in C Major, Op. 163, D. 956: II. Adagio",
       "url": "https://open.spotify.com/track/25mDxI046ioWDZZgSF2MYT"

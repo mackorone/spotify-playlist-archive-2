@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX97SIuADeA1Y.md) - [plain]
 
 > slap house on repeat.
 
-[Spotify](https://open.spotify.com/user/spotify) - 339,275 likes - 60 songs - 2 hr 41 min
+[Spotify](https://open.spotify.com/user/spotify) - 339,265 likes - 60 songs - 2 hr 41 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -50,8 +50,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX97SIuADeA1Y.md) - [plain]
 | 40 | [Chasing Cars](https://open.spotify.com/track/6oit3wfPSYmFPZQnyh5DGX) | [Harrison](https://open.spotify.com/artist/58O8UPrTdl4u2buM0skj94) | [Chasing Cars](https://open.spotify.com/album/1XL7IALXlyqPQxV9nfWyPU) | 2:51 |
 | 41 | [abcdefu](https://open.spotify.com/track/4n7llAzVaSqxAI2TtwqdDr) | [FÄT TONY](https://open.spotify.com/artist/0GB4bpkY7X1MUCCD98huVK), [MEDUN](https://open.spotify.com/artist/31iEFric0QtZxWkPMWCIqM), [Tiffany Aris](https://open.spotify.com/artist/4D4y0HNxJLmJBNXQkrVbHo) | [abcdefu](https://open.spotify.com/album/6DCOsfIWEGFtDlfQ5Y6h8M) | 2:52 |
 | 42 | [Gangsta's Paradise](https://open.spotify.com/track/6Cm7r5U5igaAnwKOWjFhTq) | [Coolio](https://open.spotify.com/artist/3y24n3XhZ96wgwRXjvS17T), [Bodybangers](https://open.spotify.com/artist/7koJQAjVzXoUpH6pXrihXA), [Lotus](https://open.spotify.com/artist/5NgQo5enpKJsf6ohQedD6b) | [Gangsta's Paradise](https://open.spotify.com/album/5miAnRqv7eWbmgY4nK7jU9) | 2:48 |
-| 43 | [Better Place \- Tiësto Remix](https://open.spotify.com/track/1CHnNHvOJOiTdHHfHQSZYC) | [\*NSYNC](https://open.spotify.com/artist/6Ff53KvcvAj5U7Z1vojB5o), [Tiësto](https://open.spotify.com/artist/2o5jDhtHVPhrJdv3cEQ99Z) | [TROLLS Band Together \(Original Motion Picture Soundtrack\) \[Deluxe Edition\]](https://open.spotify.com/album/4Hd2fHOUEo7CJL7ol5oDyH) | 3:02 |
-| 44 | [She Wolf \(Falling to Pieces\)](https://open.spotify.com/track/0hr1uftboYFqgJadb7ecML) | [YES YES](https://open.spotify.com/artist/3jcjf0rNrcWYAdeiz96Yus) | [She Wolf \(Falling to Pieces\)](https://open.spotify.com/album/7A37H04INETElZeLJioWDD) | 2:51 |
+| 43 | [She Wolf \(Falling to Pieces\)](https://open.spotify.com/track/0hr1uftboYFqgJadb7ecML) | [YES YES](https://open.spotify.com/artist/3jcjf0rNrcWYAdeiz96Yus) | [She Wolf \(Falling to Pieces\)](https://open.spotify.com/album/7A37H04INETElZeLJioWDD) | 2:51 |
+| 44 | [Better Place \- Tiësto Remix](https://open.spotify.com/track/1CHnNHvOJOiTdHHfHQSZYC) | [\*NSYNC](https://open.spotify.com/artist/6Ff53KvcvAj5U7Z1vojB5o), [Tiësto](https://open.spotify.com/artist/2o5jDhtHVPhrJdv3cEQ99Z) | [TROLLS Band Together \(Original Motion Picture Soundtrack\) \[Deluxe Edition\]](https://open.spotify.com/album/4Hd2fHOUEo7CJL7ol5oDyH) | 3:02 |
 | 45 | [Alone Again \(feat\. PollyAnna\)](https://open.spotify.com/track/1xqbdoQipgmgFnGpCAtfrz) | [Yves V](https://open.spotify.com/artist/47BEc2RoW53owMyxacXWdV), [SESA](https://open.spotify.com/artist/7HgOnmGGMNtNOzo6Rbs1fQ), [PollyAnna](https://open.spotify.com/artist/3mRSi79NwnlKaOH8vFxBVL) | [Alone Again \(feat\. PollyAnna\)](https://open.spotify.com/album/4C37xotyTsiNmWBppkv6cO) | 2:37 |
 | 46 | [Loco](https://open.spotify.com/track/4YBjClI5wybymYzEs5jjlP) | [Nora & Chris](https://open.spotify.com/artist/0YFn3NxI5ooU7IhGvRB5Yg), [Alex Martin](https://open.spotify.com/artist/04DZVy8gTWcLSGZOPqPp2c) | [Loco](https://open.spotify.com/album/2TSQFv7xX0IDqibKup1CyH) | 2:10 |
 | 47 | [Outta Love](https://open.spotify.com/track/0oLBr0Knuo63yDvnq3f5U3) | [David Puentez](https://open.spotify.com/artist/4gSsv9FQDyXx0GUkZYha7v), [TEN TONNE SKELETON](https://open.spotify.com/artist/1xTbla5aaPQxFEMr11yxTA) | [Outta Love](https://open.spotify.com/album/59FlDwNsfaskGibimitsIm) | 2:44 |

@@ -4,7 +4,7 @@
 
 > Baba God, run am 🙏\. <br/>Cover: FOLA
 
-199 songs - 9 hr 19 min
+200 songs - 9 hr 22 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -145,7 +145,7 @@
 | [Omo](https://open.spotify.com/track/2JePyTyj5nmjDe2ovgCChq) | [Priesst](https://open.spotify.com/artist/4Z3LLYwCpB9OKKaSttnapP) | [Omo](https://open.spotify.com/album/0Q4bqBS5jE3GpU0bOmnen6) | 2:36 | 2026-02-27 | 2026-11-24 |
 | [ONE MAN REGIMENT](https://open.spotify.com/track/5iPcWi1tJ4zes1bRlZP5Dj) | [Fireboy DML](https://open.spotify.com/artist/75VKfyoBlkmrJFDqo1o2VY) | [ZUKO!](https://open.spotify.com/album/7ALh95O2ioQV7a3sW4L2CG) | 3:13 | 2026-10-16 |  |
 | [Only God](https://open.spotify.com/track/2hl9HqcOsnosvepwql12un) | [Victor AD](https://open.spotify.com/artist/0yUUty3Foto0aVQ0qElM3N), [Timaya](https://open.spotify.com/artist/7gEgjd9W1P1iAD9FbubrqC) | [Only God](https://open.spotify.com/album/5msES2AJgY40wJpt6g61c5) | 3:12 | 2026-05-08 | 2026-09-28 |
-| [Orin Halleluyah](https://open.spotify.com/track/4tsuoqyKW9Ra1pRaUUy2ox) | [Kashy](https://open.spotify.com/artist/0DYnwgN5Jo8G58o26XIfK6), [Zinoleesky](https://open.spotify.com/artist/6Kp3KWPiVgi33DkJqo9T4g) | [Kashamadupe](https://open.spotify.com/album/1gpTlRqHbK7VW6E4atLb6D) | 2:28 | 2025-06-20 |  |
+| [Orin Halleluyah](https://open.spotify.com/track/4tsuoqyKW9Ra1pRaUUy2ox) | [Kashy](https://open.spotify.com/artist/0DYnwgN5Jo8G58o26XIfK6), [Zinoleesky](https://open.spotify.com/artist/6Kp3KWPiVgi33DkJqo9T4g) | [Kashamadupe](https://open.spotify.com/album/1gpTlRqHbK7VW6E4atLb6D) | 2:28 | 2025-06-20 | 2026-11-27 |
 | [Orindowo](https://open.spotify.com/track/4ytHRcSgxIyC6xwUsKzA6D) | [BhadBoi OML](https://open.spotify.com/artist/7gCoPolzUpHjzOhp22ihoN), [Naira Marley](https://open.spotify.com/artist/5DfaMudUwkoz6TAPYifqkJ) | [Orindowo](https://open.spotify.com/album/5M3NG4sis4WH64CY10CkRE) | 2:47 | 2026-07-31 |  |
 | [Owo Oluwa \(feat\. Young Jonn, Krizbeatz & Wave Choir\)](https://open.spotify.com/track/1l1y5S87c7TB1SQeqYPXQ8) | [Kizz Daniel](https://open.spotify.com/artist/1X6cBGnXpEpN7CmflLKmLV), [Young Jonn](https://open.spotify.com/artist/4JM1zsVj1pt38Q8mhv5teI), [Krizbeatz](https://open.spotify.com/artist/5ecA37waug3nQ8hqfz6IlT), [Wave Choir](https://open.spotify.com/artist/6CKSrDs4vniJIYpAUgWLaO) | [Owo Oluwa \(feat\. Young Jonn, Krizbeatz & Wave Choir\)](https://open.spotify.com/album/63TbRZjT5dtOWaK7ASJ5ql) | 2:57 | 2026-09-18 |  |
 | [Pami](https://open.spotify.com/track/5HKje6lrhbvyyeVfZqWGlU) | [Balloranking](https://open.spotify.com/artist/0GCgnG9YEbz5i9ASbvZNTP), [BhadBoi OML](https://open.spotify.com/artist/7gCoPolzUpHjzOhp22ihoN) | [Baby Thug](https://open.spotify.com/album/1ZH9KYQn8yCLh4FBlkGNw1) | 2:56 | 2026-07-17 | 2026-10-27 |
@@ -165,6 +165,7 @@
 | [Realize](https://open.spotify.com/track/37xumKXReRyER0jlfM3iVL) | [Balloranking](https://open.spotify.com/artist/0GCgnG9YEbz5i9ASbvZNTP), [Seyi Vibez](https://open.spotify.com/artist/4zmZ8lVLzGc84S4v2B1rLx) | [Trench Kid \(Deluxe Edition\)](https://open.spotify.com/album/3Uj9cMWx6MjmIuXIK0NHl2) | 2:55 | 2025-06-20 |  |
 | [Realness](https://open.spotify.com/track/6Uh5S2WjXoFPkgcVHaQV0d) | [Ayo Maff](https://open.spotify.com/artist/4kuHnKdDObYPKYPcyJC4f6), [Chike](https://open.spotify.com/artist/6zK1M4TcabpLQMNmmG2P0Q) | [Prince of the Street](https://open.spotify.com/album/6eAuO5yaH0N9ALkeKtuiaW) | 2:13 | 2025-06-27 |  |
 | [Remember](https://open.spotify.com/track/0Q1bMs3xLQiDEeaneehdxv) | [Asake](https://open.spotify.com/artist/3a1tBryiczPAZpgoZN9Rzg) | [Work Of Art](https://open.spotify.com/album/2O9VJaLSnwjZ2HPpMaVoPU) | 3:02 | 2025-06-20 | 2026-01-15 |
+| [Rockstar](https://open.spotify.com/track/2L2sCi5xRaK7oXumD9NMgx) | [Yedika](https://open.spotify.com/artist/0SzHZFIFLpRQwGde6xhXBp) | [Rockstar](https://open.spotify.com/album/2j7kM4h23tPBbNEKrxgGjH) | 2:59 | 2026-11-27 |  |
 | [Rules Of Life](https://open.spotify.com/track/5EKmhnRn3MTuj6eT8xj2xD) | [Hotkeed](https://open.spotify.com/artist/18o7UrZPvSitJxti0OodSj) | [Never Fold](https://open.spotify.com/album/6gBxO7tfLHurwBh11efMwq) | 2:50 | 2026-01-14 | 2026-11-16 |
 | [Safer](https://open.spotify.com/track/4h5GUtukxJVkNbFsIooGXU) | [LYRXX](https://open.spotify.com/artist/6IP3yCr9AOjbbB3CdXq06G) | [Safer](https://open.spotify.com/album/75qc16uD5MaKYeW03vHHdO) | 2:27 | 2026-02-20 | 2026-02-27 |
 | [Salama](https://open.spotify.com/track/6sbALB7lMJ1HNg2XAy6kUL) | [FirstKlaz](https://open.spotify.com/artist/6VPpDxzOXTPNsdxfJ5cAR5) | [Salama](https://open.spotify.com/album/08oRda9UCVm9yvGzj7pbpA) | 4:41 | 2026-08-28 | 2026-10-23 |

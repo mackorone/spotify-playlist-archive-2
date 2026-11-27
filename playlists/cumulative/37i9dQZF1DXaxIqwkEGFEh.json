@@ -2281,6 +2281,24 @@
     },
     {
       "album": {
+        "name": "AKs",
+        "url": "https://open.spotify.com/album/10EhcATpZADXl20HPlGANV"
+      },
+      "artists": [
+        {
+          "name": "Tee Grizzley",
+          "url": "https://open.spotify.com/artist/6AUl0ykLLpvTktob97x9hO"
+        }
+      ],
+      "date_added": "2026-11-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 244701,
+      "name": "AKs",
+      "url": "https://open.spotify.com/track/5RWzL5dYMN9lmO9MQ4jnIG"
+    },
+    {
+      "album": {
         "name": "AL Roker",
         "url": "https://open.spotify.com/album/5aBdVwpC86hOzVJZKEG6tr"
       },
@@ -6282,7 +6300,7 @@
       ],
       "date_added": "2026-11-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-27",
       "duration_ms": 115694,
       "name": "Both Ways (feat. EST Gee)",
       "url": "https://open.spotify.com/track/6XMC4r1vWL9iqlYWWUGsfO"
@@ -6598,7 +6616,7 @@
       ],
       "date_added": "2026-11-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-27",
       "duration_ms": 130742,
       "name": "Bread & Butter",
       "url": "https://open.spotify.com/track/6BZbPxXO7QQDF6iZt4uno9"
@@ -8540,7 +8558,7 @@
       ],
       "date_added": "2026-11-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-27",
       "duration_ms": 131200,
       "name": "Chow Time",
       "url": "https://open.spotify.com/track/081VCB0f8mFOYZ10fTsJVt"
@@ -9140,6 +9158,28 @@
       "duration_ms": 186279,
       "name": "Convos with the Dead",
       "url": "https://open.spotify.com/track/6HjOnFtuHx7VBEJ67ZUBF1"
+    },
+    {
+      "album": {
+        "name": "Cookin (from GTAVI: The Album)",
+        "url": "https://open.spotify.com/album/3OURDHGXmsYZHtOV0z7V2n"
+      },
+      "artists": [
+        {
+          "name": "21 Savage",
+          "url": "https://open.spotify.com/artist/1URnnhqYAYcrqrcwql10ft"
+        },
+        {
+          "name": "Grand Theft Auto VI",
+          "url": "https://open.spotify.com/artist/15o7qdDTBzs6xWRUYUtZc1"
+        }
+      ],
+      "date_added": "2026-11-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 162894,
+      "name": "Cookin (from GTAVI: The Album)",
+      "url": "https://open.spotify.com/track/1tKZXXx3Fs2kcadD5JXJDT"
     },
     {
       "album": {
@@ -15255,6 +15295,24 @@
     },
     {
       "album": {
+        "name": "The Misunderstood Truth",
+        "url": "https://open.spotify.com/album/3u3uus2TiTBsPh8hfbpKlc"
+      },
+      "artists": [
+        {
+          "name": "Foogiano",
+          "url": "https://open.spotify.com/artist/5iyTbismzdvyjpjIuhKRvX"
+        }
+      ],
+      "date_added": "2026-11-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 183000,
+      "name": "Gang Talk",
+      "url": "https://open.spotify.com/track/6p7fw1ZGhw7XQnwFOfYWeK"
+    },
+    {
+      "album": {
         "name": "Gang Time",
         "url": "https://open.spotify.com/album/7CqIBingCuH1gQvKH2uJPM"
       },
@@ -16856,6 +16914,28 @@
       "duration_ms": 175095,
       "name": "Got Bigger",
       "url": "https://open.spotify.com/track/0rRh9mvBCchy2PuJ9ZGA2s"
+    },
+    {
+      "album": {
+        "name": "Got Dat (from GTAVI: The Album)",
+        "url": "https://open.spotify.com/album/7HTYPpa7ushILkz8nsUpxg"
+      },
+      "artists": [
+        {
+          "name": "Pooh Shiesty",
+          "url": "https://open.spotify.com/artist/5F1aAS1duwlzExnPs3l2Xe"
+        },
+        {
+          "name": "Grand Theft Auto VI",
+          "url": "https://open.spotify.com/artist/15o7qdDTBzs6xWRUYUtZc1"
+        }
+      ],
+      "date_added": "2026-11-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 190523,
+      "name": "Got Dat (from GTAVI: The Album)",
+      "url": "https://open.spotify.com/track/4PlN6xgZ7euLu99Os37I9r"
     },
     {
       "album": {
@@ -21492,7 +21572,7 @@
       ],
       "date_added": "2026-11-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-27",
       "duration_ms": 194000,
       "name": "Intro",
       "url": "https://open.spotify.com/track/42awniSHXoFj1jYgT1ewIj"
@@ -39442,7 +39522,7 @@
       ],
       "date_added": "2026-11-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-27",
       "duration_ms": 172895,
       "name": "Snow Ball",
       "url": "https://open.spotify.com/track/0itLeIUK0QZbKIhkMyTewR"

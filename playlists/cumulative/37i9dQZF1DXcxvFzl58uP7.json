@@ -5969,6 +5969,24 @@
     },
     {
       "album": {
+        "name": "Figure It Out",
+        "url": "https://open.spotify.com/album/4KIFXJ1rSuxVD9gt0jb8uQ"
+      },
+      "artists": [
+        {
+          "name": "Old Man Canyon",
+          "url": "https://open.spotify.com/artist/3lybdJ5QPH5NJolzMVKnLx"
+        }
+      ],
+      "date_added": "2026-11-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 141786,
+      "name": "Figure It Out",
+      "url": "https://open.spotify.com/track/6aE9uuoDdXMFZiKadQPE1B"
+    },
+    {
+      "album": {
         "name": "Fired Up",
         "url": "https://open.spotify.com/album/3P4xycP0wCQBxFGHWUVmud"
       },
@@ -9856,6 +9874,24 @@
       "duration_ms": 160666,
       "name": "LEMME",
       "url": "https://open.spotify.com/track/555fZ7u65xGM2oyLQzXqlg"
+    },
+    {
+      "album": {
+        "name": "Les Avions",
+        "url": "https://open.spotify.com/album/3cMDtJUtwrDMc35OJj9cRM"
+      },
+      "artists": [
+        {
+          "name": "Sophia Bel",
+          "url": "https://open.spotify.com/artist/6WJnpSVDynCWGrhJcSQIm6"
+        }
+      ],
+      "date_added": "2026-11-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 154531,
+      "name": "Les Avions",
+      "url": "https://open.spotify.com/track/3a8dudjsnG6vmvGhnOTogK"
     },
     {
       "album": {
@@ -14824,7 +14860,7 @@
       ],
       "date_added": "2021-11-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-27",
       "duration_ms": 215110,
       "name": "Show Me How",
       "url": "https://open.spotify.com/track/01TyFEZu6mHbffsVfxgrFn"
@@ -15736,7 +15772,7 @@
       ],
       "date_added": "2026-11-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-27",
       "duration_ms": 115434,
       "name": "soul",
       "url": "https://open.spotify.com/track/2up5Y1j5nWCJE73F14LNOS"

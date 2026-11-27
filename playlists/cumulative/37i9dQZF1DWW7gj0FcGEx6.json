@@ -641,6 +641,24 @@
     },
     {
       "album": {
+        "name": "Toos \u2013 De van der Valk ontvoering (Soundtrack van de Netflix-serie)",
+        "url": "https://open.spotify.com/album/1ztWwFTTkQcXXakIP5LAPB"
+      },
+      "artists": [
+        {
+          "name": "Merlijn Snitker",
+          "url": "https://open.spotify.com/artist/37x9UFhovaGc26nKNxvFXG"
+        }
+      ],
+      "date_added": "2026-11-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 200000,
+      "name": "Adagio voor Toos",
+      "url": "https://open.spotify.com/track/2hHULfyrkxMJCXWRKJxpLk"
+    },
+    {
+      "album": {
         "name": "Materialists (Original Soundtrack)",
         "url": "https://open.spotify.com/album/20fuKKdQbvoDR93W19PtYf"
       },
@@ -3938,6 +3956,24 @@
       "duration_ms": 125500,
       "name": "El cursor impaciente",
       "url": "https://open.spotify.com/track/0aUPys5azfbk2gAYf4VCg0"
+    },
+    {
+      "album": {
+        "name": "El ni\u00f1o (Banda sonora de la pel\u00edcula de Netflix)",
+        "url": "https://open.spotify.com/album/488cJht7PQcljZ2Ka5TtFD"
+      },
+      "artists": [
+        {
+          "name": "Fernando Vel\u00e1zquez",
+          "url": "https://open.spotify.com/artist/2pElTJJ5D3ziEPyvZsW5eF"
+        }
+      ],
+      "date_added": "2026-11-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 93503,
+      "name": "El ni\u00f1o",
+      "url": "https://open.spotify.com/track/64xgeo7sP2JleZQkETYAe6"
     },
     {
       "album": {
@@ -17812,6 +17848,24 @@
       "duration_ms": 262975,
       "name": "Train Dreams",
       "url": "https://open.spotify.com/track/0nmIUIFffbcqFop1CqcFeS"
+    },
+    {
+      "album": {
+        "name": "Way of the Warrior Kid (Soundtrack from the Apple Original Film)",
+        "url": "https://open.spotify.com/album/0zYF1wP5ntVpWzNnNmoDbf"
+      },
+      "artists": [
+        {
+          "name": "Steven Price",
+          "url": "https://open.spotify.com/artist/3sw7CBftCnflJN8HQiUNmK"
+        }
+      ],
+      "date_added": "2026-11-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 72080,
+      "name": "Training Starts Now",
+      "url": "https://open.spotify.com/track/6qyNhIqCbU7qG8wooSyXIE"
     },
     {
       "album": {

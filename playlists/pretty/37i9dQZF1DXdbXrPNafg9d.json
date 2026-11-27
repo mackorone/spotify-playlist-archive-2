@@ -1,13 +1,293 @@
 {
-  "description": "The BEST new music every Friday, by INDIE EDITORS Cover: Julien Baker",
-  "num_followers": 1287039,
+  "description": "The BEST new music every Friday, by INDIE EDITORS Cover: Star's Revenge",
+  "num_followers": 1286984,
   "original_name": "All New Indie",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAABdpW8WZKBRKLJjnwJFW6ZKAQG4l",
+  "snapshot_id": "AAAAAPMR07X0SEnEfdG02MW6KtbpiQzC",
   "tracks": [
+    {
+      "added_at": "2026-11-20 05:01:43",
+      "album": {
+        "name": "Lavender Buds b/w Nettle Leaves",
+        "url": "https://open.spotify.com/album/5iTPrPucPUw4QwEM8rCV5M"
+      },
+      "artists": [
+        {
+          "name": "El Michels Affair",
+          "url": "https://open.spotify.com/artist/0cLrgpG3pW4MX4nD8h6qCc"
+        }
+      ],
+      "duration_ms": 208170,
+      "name": "Lavender Buds",
+      "url": "https://open.spotify.com/track/3755f0ihUO09qh3dg7AH5A"
+    },
+    {
+      "added_at": "2026-11-27 05:00:26",
+      "album": {
+        "name": "Star's Revenge II",
+        "url": "https://open.spotify.com/album/5bKzQ05WOEEpPKx7f58NMx"
+      },
+      "artists": [
+        {
+          "name": "Star's Revenge",
+          "url": "https://open.spotify.com/artist/12lX7OtfVkJ0HiFdkOM7IX"
+        }
+      ],
+      "duration_ms": 128008,
+      "name": "Fine Line",
+      "url": "https://open.spotify.com/track/76dbuW1OcyOQiuqAyMPBWh"
+    },
+    {
+      "added_at": "2026-11-27 05:00:26",
+      "album": {
+        "name": "Whole Life",
+        "url": "https://open.spotify.com/album/474Lymr5Z6E2vlCAcazKLv"
+      },
+      "artists": [
+        {
+          "name": "Helena Deland",
+          "url": "https://open.spotify.com/artist/0BJeP79i5wKgCqsEEiQ7G0"
+        }
+      ],
+      "duration_ms": 138446,
+      "name": "Whole Life",
+      "url": "https://open.spotify.com/track/42h8a36oajv2baQaBkEbtM"
+    },
+    {
+      "added_at": "2026-11-27 05:00:26",
+      "album": {
+        "name": "Grey Boy 7\"",
+        "url": "https://open.spotify.com/album/4nGjNldomqspqEOVNaUTAL"
+      },
+      "artists": [
+        {
+          "name": "Nirosta Steel",
+          "url": "https://open.spotify.com/artist/6B6MO6Q4QoLGVq7Kf8vlGM"
+        }
+      ],
+      "duration_ms": 234000,
+      "name": "GREY BOY (BOSS MIX)",
+      "url": "https://open.spotify.com/track/7bAz4JKuuiMthB8ytRMcTD"
+    },
+    {
+      "added_at": "2026-11-27 05:00:26",
+      "album": {
+        "name": "Band",
+        "url": "https://open.spotify.com/album/2MmlbUxJqM7FC49KIURRsq"
+      },
+      "artists": [
+        {
+          "name": "haloplus+",
+          "url": "https://open.spotify.com/artist/224oiUpyCYmxo3WJQW3EPB"
+        }
+      ],
+      "duration_ms": 158959,
+      "name": "Band",
+      "url": "https://open.spotify.com/track/2Gz4c8wVrfpIq0eJHXz91p"
+    },
+    {
+      "added_at": "2026-11-27 05:00:26",
+      "album": {
+        "name": "Heaven",
+        "url": "https://open.spotify.com/album/3pnvXASyC2wsTGp0Oo8fof"
+      },
+      "artists": [
+        {
+          "name": "Triathalon",
+          "url": "https://open.spotify.com/artist/2SaIA1enj83vEmJikZdjQ3"
+        }
+      ],
+      "duration_ms": 212511,
+      "name": "Heaven",
+      "url": "https://open.spotify.com/track/5Q4qYEOwX3txvrUKtylGNx"
+    },
+    {
+      "added_at": "2026-11-27 05:00:26",
+      "album": {
+        "name": "Like a Dog",
+        "url": "https://open.spotify.com/album/3nclAHvS4wQIIwNbiFT4Hi"
+      },
+      "artists": [
+        {
+          "name": "Bella Kay",
+          "url": "https://open.spotify.com/artist/4Z8MrrKMBHMPa8d04Ivur8"
+        }
+      ],
+      "duration_ms": 162681,
+      "name": "Like a Dog",
+      "url": "https://open.spotify.com/track/4uedQsQUuamDPlCRAct8jZ"
+    },
+    {
+      "added_at": "2026-11-27 05:00:26",
+      "album": {
+        "name": "If We Were Kids (In Another Life)",
+        "url": "https://open.spotify.com/album/3EMqEjGqrxKHvGvs89D4Vi"
+      },
+      "artists": [
+        {
+          "name": "Still Blank",
+          "url": "https://open.spotify.com/artist/55PWse6Vpvyruh3IPtPQ71"
+        }
+      ],
+      "duration_ms": 207138,
+      "name": "If We Were Kids (In Another Life)",
+      "url": "https://open.spotify.com/track/6SF185go4Zg17N6f0WoD06"
+    },
+    {
+      "added_at": "2026-11-27 05:00:26",
+      "album": {
+        "name": "I Can't Make You Do It",
+        "url": "https://open.spotify.com/album/6luhS3ksgWkyzswdAeX2Ym"
+      },
+      "artists": [
+        {
+          "name": "Laila Smith",
+          "url": "https://open.spotify.com/artist/1r8fRAn7ElExxKIxEcDcCm"
+        }
+      ],
+      "duration_ms": 193767,
+      "name": "I Can't Make You Do It",
+      "url": "https://open.spotify.com/track/2xnkl677ZgNdpmC9WQFSki"
+    },
+    {
+      "added_at": "2026-11-27 05:00:26",
+      "album": {
+        "name": "Free",
+        "url": "https://open.spotify.com/album/0PAmSoLG3lW4MBiaO7Gxm3"
+      },
+      "artists": [
+        {
+          "name": "Dominique Da Silva",
+          "url": "https://open.spotify.com/artist/4r8PxDmz7OklWJ6OP4TibY"
+        }
+      ],
+      "duration_ms": 217431,
+      "name": "Free",
+      "url": "https://open.spotify.com/track/0JvibEn3jY04k5lDo06WRt"
+    },
+    {
+      "added_at": "2026-11-27 05:00:26",
+      "album": {
+        "name": "Circle",
+        "url": "https://open.spotify.com/album/00BIuSggqxF9KJO2z1jrbb"
+      },
+      "artists": [
+        {
+          "name": "Mia Joy",
+          "url": "https://open.spotify.com/artist/5a3lFI5IJGQbpMTdjrehHl"
+        },
+        {
+          "name": "Midwife",
+          "url": "https://open.spotify.com/artist/5vjIHa1u3TnOlDvVDR9qQa"
+        }
+      ],
+      "duration_ms": 262613,
+      "name": "Circle",
+      "url": "https://open.spotify.com/track/0QW8MvDVCfKFp90B0Qvj5b"
+    },
+    {
+      "added_at": "2026-11-27 05:00:26",
+      "album": {
+        "name": "Groupie (with Jessie Mazin)",
+        "url": "https://open.spotify.com/album/7rgyYbnDujtb5CtjvZZyad"
+      },
+      "artists": [
+        {
+          "name": "Leonie Biney",
+          "url": "https://open.spotify.com/artist/4fG5iQ1bDCtgOmhbVNWilq"
+        },
+        {
+          "name": "Jessie Mazin",
+          "url": "https://open.spotify.com/artist/61Yb6Hi8nlwDwR3GJ7VAnx"
+        }
+      ],
+      "duration_ms": 173000,
+      "name": "Groupie (with Jessie Mazin)",
+      "url": "https://open.spotify.com/track/3xD8uwc9sZHQXVSLhS6C21"
+    },
+    {
+      "added_at": "2026-11-27 05:00:26",
+      "album": {
+        "name": "no destination",
+        "url": "https://open.spotify.com/album/7voxFcbC49JnvWWEQQZghj"
+      },
+      "artists": [
+        {
+          "name": "Kilu",
+          "url": "https://open.spotify.com/artist/795iruo8TSJsZPVAps6Iow"
+        }
+      ],
+      "duration_ms": 226667,
+      "name": "no destination",
+      "url": "https://open.spotify.com/track/4ZCwMcqU1UDQyRE0r0aYAN"
+    },
+    {
+      "added_at": "2026-11-27 05:00:26",
+      "album": {
+        "name": "Clean",
+        "url": "https://open.spotify.com/album/1wDAIGeXoztRt3IjIlLr2z"
+      },
+      "artists": [
+        {
+          "name": "Girl Scout",
+          "url": "https://open.spotify.com/artist/4CbghtwTo6bvxk5QacvRrE"
+        }
+      ],
+      "duration_ms": 199754,
+      "name": "Clean",
+      "url": "https://open.spotify.com/track/0uHRbqbPW19pBgqD9NF6qE"
+    },
+    {
+      "added_at": "2026-11-27 05:00:26",
+      "album": {
+        "name": "sometimes memory fails me sometimes",
+        "url": "https://open.spotify.com/album/6PhYPDKJaoSqLXXAABbg1K"
+      },
+      "artists": [
+        {
+          "name": "if i was a pony",
+          "url": "https://open.spotify.com/artist/3t3zwTenPUimx09zxB0hRA"
+        }
+      ],
+      "duration_ms": 196721,
+      "name": "sometimes memory fails me sometimes",
+      "url": "https://open.spotify.com/track/1jyRl8bzrzFVJMintuOrv2"
+    },
+    {
+      "added_at": "2026-11-27 05:00:26",
+      "album": {
+        "name": "Never the Same",
+        "url": "https://open.spotify.com/album/4K6Q8JaX82NaXBYbmyl2Y7"
+      },
+      "artists": [
+        {
+          "name": "Pony Trap",
+          "url": "https://open.spotify.com/artist/2UJ1ggn0j9stts85Eq7btt"
+        }
+      ],
+      "duration_ms": 213346,
+      "name": "Never the Same",
+      "url": "https://open.spotify.com/track/0BwdFzuk61Kfc0fP1v9Cd7"
+    },
+    {
+      "added_at": "2026-11-27 05:00:26",
+      "album": {
+        "name": "Katie Cruel",
+        "url": "https://open.spotify.com/album/4oigaRwUhvaIF0TFv1mnou"
+      },
+      "artists": [
+        {
+          "name": "Florence Rose Broomfield",
+          "url": "https://open.spotify.com/artist/6rkzTIEcx03p1nmHoo3uSZ"
+        }
+      ],
+      "duration_ms": 173849,
+      "name": "Katie Cruel",
+      "url": "https://open.spotify.com/track/4Q1iSGrzCaHv1KkMX9chEu"
+    },
     {
       "added_at": "2026-11-20 05:01:43",
       "album": {
@@ -239,22 +519,6 @@
       "duration_ms": 232106,
       "name": "Keynote",
       "url": "https://open.spotify.com/track/3DkMYLj0CRFZe0hKi1tUuz"
-    },
-    {
-      "added_at": "2026-11-20 05:01:43",
-      "album": {
-        "name": "Lavender Buds b/w Nettle Leaves",
-        "url": "https://open.spotify.com/album/5iTPrPucPUw4QwEM8rCV5M"
-      },
-      "artists": [
-        {
-          "name": "El Michels Affair",
-          "url": "https://open.spotify.com/artist/0cLrgpG3pW4MX4nD8h6qCc"
-        }
-      ],
-      "duration_ms": 208170,
-      "name": "Lavender Buds",
-      "url": "https://open.spotify.com/track/3755f0ihUO09qh3dg7AH5A"
     },
     {
       "added_at": "2026-11-20 05:01:43",
@@ -3131,202 +3395,6 @@
       "duration_ms": 136842,
       "name": "Feathers",
       "url": "https://open.spotify.com/track/1pYNsHbQXDKzLKWjlFWkQ5"
-    },
-    {
-      "added_at": "2026-10-16 04:29:12",
-      "album": {
-        "name": "Back to Pennsylvania",
-        "url": "https://open.spotify.com/album/5knLtpvnr1rjcL7u7dbjzy"
-      },
-      "artists": [
-        {
-          "name": "Anna Shoemaker",
-          "url": "https://open.spotify.com/artist/3STjhKc10jr3X60mDRpHV4"
-        }
-      ],
-      "duration_ms": 166411,
-      "name": "Already Low",
-      "url": "https://open.spotify.com/track/4ZiuC55hl9Jg4sCVhm8oFi"
-    },
-    {
-      "added_at": "2026-10-16 04:29:12",
-      "album": {
-        "name": "star",
-        "url": "https://open.spotify.com/album/4yJ6xcyg1Rv7htmNxwSdX8"
-      },
-      "artists": [
-        {
-          "name": "Leyla Ebrahimi",
-          "url": "https://open.spotify.com/artist/52yWTbMGFG2xpM86QddMvR"
-        }
-      ],
-      "duration_ms": 236453,
-      "name": "star",
-      "url": "https://open.spotify.com/track/6amVMTh1Lr08QA27a7FtCx"
-    },
-    {
-      "added_at": "2026-10-16 04:29:12",
-      "album": {
-        "name": "Joan Of Arc",
-        "url": "https://open.spotify.com/album/6VxoiSHwxPS8uYPfie1AI1"
-      },
-      "artists": [
-        {
-          "name": "Lael Neale",
-          "url": "https://open.spotify.com/artist/7mi56yFiPlaLW2PtsZnoWF"
-        }
-      ],
-      "duration_ms": 194226,
-      "name": "Joan Of Arc",
-      "url": "https://open.spotify.com/track/5KBfqciTt4cTmFIoN4EAx7"
-    },
-    {
-      "added_at": "2026-10-16 04:29:12",
-      "album": {
-        "name": "Lighter in the Morning (3/2)",
-        "url": "https://open.spotify.com/album/7orKgFCGLUGdRvVIEDJzvV"
-      },
-      "artists": [
-        {
-          "name": "Veronica Everheart",
-          "url": "https://open.spotify.com/artist/0NSLJ2nRp4Nk4G0wCz6XYL"
-        },
-        {
-          "name": "Nikki Nair",
-          "url": "https://open.spotify.com/artist/27JCep1zDO3K8GY50trDo6"
-        }
-      ],
-      "duration_ms": 245106,
-      "name": "U|\\|K|\\|0W@BL3 D1$T@|\\|C3",
-      "url": "https://open.spotify.com/track/7h3YHCbgLVKTVx5ma3qdtT"
-    },
-    {
-      "added_at": "2026-10-16 04:29:12",
-      "album": {
-        "name": "Slide",
-        "url": "https://open.spotify.com/album/1m9LbRtekfGQm3Q635GlND"
-      },
-      "artists": [
-        {
-          "name": "Now, Now",
-          "url": "https://open.spotify.com/artist/6ZitSwtBSGqj00w11GvMU3"
-        }
-      ],
-      "duration_ms": 260546,
-      "name": "Slide",
-      "url": "https://open.spotify.com/track/5xHbllWdvBHs6LGAWVk3Hl"
-    },
-    {
-      "added_at": "2026-10-16 04:29:12",
-      "album": {
-        "name": "Staring At Fields",
-        "url": "https://open.spotify.com/album/2JNsaaemsSTdgpD4aXJvmi"
-      },
-      "artists": [
-        {
-          "name": "Gently Tender",
-          "url": "https://open.spotify.com/artist/483bBNsBBCvjAnx2Sc8BHc"
-        }
-      ],
-      "duration_ms": 253800,
-      "name": "Don't Sleep",
-      "url": "https://open.spotify.com/track/7CJPyS63aMCbGN8QnYI1tA"
-    },
-    {
-      "added_at": "2026-10-16 04:29:12",
-      "album": {
-        "name": "Wendy",
-        "url": "https://open.spotify.com/album/3P1tWO0eN6G8kPN6dSMSHB"
-      },
-      "artists": [
-        {
-          "name": "Knox Write",
-          "url": "https://open.spotify.com/artist/6LCRsIzcJEhHvCxFpRzOfK"
-        }
-      ],
-      "duration_ms": 217112,
-      "name": "Wendy",
-      "url": "https://open.spotify.com/track/3ZaryXQZwzEPD9X4gVvMKX"
-    },
-    {
-      "added_at": "2026-10-16 04:29:12",
-      "album": {
-        "name": "Pass Me By",
-        "url": "https://open.spotify.com/album/4GNaTViaMzDzbg5XYE7kp7"
-      },
-      "artists": [
-        {
-          "name": "Alba Akvama",
-          "url": "https://open.spotify.com/artist/0aOHcQWEx7wsZg277ZOcGe"
-        }
-      ],
-      "duration_ms": 132500,
-      "name": "Pass Me By",
-      "url": "https://open.spotify.com/track/2YtbpuYoqOqpr6aij1Tdfc"
-    },
-    {
-      "added_at": "2026-10-16 04:29:12",
-      "album": {
-        "name": "Pure Joy",
-        "url": "https://open.spotify.com/album/5XxGF3EpHwICAFHVXrJqz6"
-      },
-      "artists": [
-        {
-          "name": "Liam Snowy Halliwell",
-          "url": "https://open.spotify.com/artist/2NbyAAyubfpDrA3b27j8wM"
-        }
-      ],
-      "duration_ms": 170524,
-      "name": "(Seasons Repeating)",
-      "url": "https://open.spotify.com/track/6T25laGz84yJRSkWQw2hpz"
-    },
-    {
-      "added_at": "2026-10-09 04:03:01",
-      "album": {
-        "name": "Mud",
-        "url": "https://open.spotify.com/album/19cvoEE5d3pMkxLFL5TsAG"
-      },
-      "artists": [
-        {
-          "name": "Remi Wolf",
-          "url": "https://open.spotify.com/artist/0NB5HROxc8dDBXpkIi1v3d"
-        }
-      ],
-      "duration_ms": 210665,
-      "name": "Champagne",
-      "url": "https://open.spotify.com/track/0Rxs96nQeboThWCNzP4H0c"
-    },
-    {
-      "added_at": "2026-10-09 04:03:01",
-      "album": {
-        "name": "Live at Carnegie Hall",
-        "url": "https://open.spotify.com/album/5FjFRlo7diqzHNpVz5wJCt"
-      },
-      "artists": [
-        {
-          "name": "Cameron Winter",
-          "url": "https://open.spotify.com/artist/0kGweFvHWUfh6oLnookVeO"
-        }
-      ],
-      "duration_ms": 337715,
-      "name": "If You Turn Back Now - Live at Carnegie Hall",
-      "url": "https://open.spotify.com/track/0v0BMYE3RHQI8vANQRCGd6"
-    },
-    {
-      "added_at": "2026-10-09 04:03:01",
-      "album": {
-        "name": "She\u2019s the Best",
-        "url": "https://open.spotify.com/album/5lxMKFdNAshWkJZsqr1FYD"
-      },
-      "artists": [
-        {
-          "name": "Troye Sivan",
-          "url": "https://open.spotify.com/artist/3WGpXCj9YhhfX11TToZcXP"
-        }
-      ],
-      "duration_ms": 262896,
-      "name": "FF",
-      "url": "https://open.spotify.com/track/5WJSOTl4LAuEipWkTMPSYo"
     }
   ],
   "unique_name": "All New Indie",

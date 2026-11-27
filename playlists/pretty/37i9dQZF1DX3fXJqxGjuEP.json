@@ -1,6 +1,6 @@
 {
   "description": "Give your day a warm and fruity vibe with Latin music! \ud83c\udf1e\ud83c\udf34\ud83c\udf4d\ud83c\udf49",
-  "num_followers": 731801,
+  "num_followers": 731752,
   "original_name": "Tropical Vibe",
   "owner": {
     "name": "Spotify",
@@ -247,22 +247,6 @@
     {
       "added_at": "2026-09-25 06:00:07",
       "album": {
-        "name": "Chan Chan",
-        "url": "https://open.spotify.com/album/4i8oCrEGBTqhFW4rjTPkgp"
-      },
-      "artists": [
-        {
-          "name": "Iseo & Dodosound",
-          "url": "https://open.spotify.com/artist/7dmbpbRfi5fEBqu9A9kwrc"
-        }
-      ],
-      "duration_ms": 260320,
-      "name": "Chan Chan",
-      "url": "https://open.spotify.com/track/7wQ3PHT0oNWwjPuTZ2z7cS"
-    },
-    {
-      "added_at": "2026-09-25 06:00:07",
-      "album": {
         "name": "Me Duele",
         "url": "https://open.spotify.com/album/3erPSNvC7zUmex1wdqc4uV"
       },
@@ -279,6 +263,22 @@
       "duration_ms": 196733,
       "name": "Me Duele",
       "url": "https://open.spotify.com/track/2jG2P21A1c45YU0Z1euaNB"
+    },
+    {
+      "added_at": "2026-09-25 06:00:07",
+      "album": {
+        "name": "Chan Chan",
+        "url": "https://open.spotify.com/album/4i8oCrEGBTqhFW4rjTPkgp"
+      },
+      "artists": [
+        {
+          "name": "Iseo & Dodosound",
+          "url": "https://open.spotify.com/artist/7dmbpbRfi5fEBqu9A9kwrc"
+        }
+      ],
+      "duration_ms": 260320,
+      "name": "Chan Chan",
+      "url": "https://open.spotify.com/track/7wQ3PHT0oNWwjPuTZ2z7cS"
     },
     {
       "added_at": "2026-09-25 06:00:07",
@@ -339,22 +339,6 @@
     {
       "added_at": "2026-09-25 06:00:07",
       "album": {
-        "name": "Pan",
-        "url": "https://open.spotify.com/album/2Z7Q2m7lLYBHJlZWRMENft"
-      },
-      "artists": [
-        {
-          "name": "Chuwi",
-          "url": "https://open.spotify.com/artist/6wF1Cz760dpdbX9RJIDpQW"
-        }
-      ],
-      "duration_ms": 221656,
-      "name": "Tikiri",
-      "url": "https://open.spotify.com/track/3x6mcLgaZNaBGONTG2Ebb1"
-    },
-    {
-      "added_at": "2026-09-25 06:00:07",
-      "album": {
         "name": "Me Pasa (Piscis)",
         "url": "https://open.spotify.com/album/1Y1QRdYUrRzLcC8ZqmlkHs"
       },
@@ -391,6 +375,22 @@
       "duration_ms": 171750,
       "name": "Yo no Necesito de Mucho",
       "url": "https://open.spotify.com/track/6lEr0uF4mJJAODSXfQ6WvR"
+    },
+    {
+      "added_at": "2026-09-25 06:00:07",
+      "album": {
+        "name": "Pan",
+        "url": "https://open.spotify.com/album/2Z7Q2m7lLYBHJlZWRMENft"
+      },
+      "artists": [
+        {
+          "name": "Chuwi",
+          "url": "https://open.spotify.com/artist/6wF1Cz760dpdbX9RJIDpQW"
+        }
+      ],
+      "duration_ms": 221656,
+      "name": "Tikiri",
+      "url": "https://open.spotify.com/track/3x6mcLgaZNaBGONTG2Ebb1"
     },
     {
       "added_at": "2026-09-25 06:00:07",
@@ -871,26 +871,6 @@
     {
       "added_at": "2026-09-25 06:00:07",
       "album": {
-        "name": "Tiempo Compartido",
-        "url": "https://open.spotify.com/album/60iutg1EYIP0B3ZtYGcj4a"
-      },
-      "artists": [
-        {
-          "name": "Vacaci\u00f3n",
-          "url": "https://open.spotify.com/artist/0VDRX95OX96cR7q15oaXgd"
-        },
-        {
-          "name": "Adanowsky",
-          "url": "https://open.spotify.com/artist/3yS2Ua2b0erJP5dx3xs063"
-        }
-      ],
-      "duration_ms": 186386,
-      "name": "Amor De Verano",
-      "url": "https://open.spotify.com/track/0ftQLiC3Whfsb3b6nWAoPK"
-    },
-    {
-      "added_at": "2026-09-25 06:00:07",
-      "album": {
         "name": "Pescador de Sue\u00f1os",
         "url": "https://open.spotify.com/album/1DtKs4ri0nya6YmWd6WlrP"
       },
@@ -923,6 +903,26 @@
       "duration_ms": 236026,
       "name": "T\u00fa",
       "url": "https://open.spotify.com/track/0Y1WKjtTEJakcSy1QbKspx"
+    },
+    {
+      "added_at": "2026-09-25 06:00:07",
+      "album": {
+        "name": "Tiempo Compartido",
+        "url": "https://open.spotify.com/album/60iutg1EYIP0B3ZtYGcj4a"
+      },
+      "artists": [
+        {
+          "name": "Vacaci\u00f3n",
+          "url": "https://open.spotify.com/artist/0VDRX95OX96cR7q15oaXgd"
+        },
+        {
+          "name": "Adanowsky",
+          "url": "https://open.spotify.com/artist/3yS2Ua2b0erJP5dx3xs063"
+        }
+      ],
+      "duration_ms": 186386,
+      "name": "Amor De Verano",
+      "url": "https://open.spotify.com/track/0ftQLiC3Whfsb3b6nWAoPK"
     },
     {
       "added_at": "2026-09-25 06:00:07",
@@ -1295,22 +1295,6 @@
     {
       "added_at": "2026-09-25 06:00:07",
       "album": {
-        "name": "Heavenly Sweetness Sampler #3",
-        "url": "https://open.spotify.com/album/6S7fiWGmRObHoDOLlhHptX"
-      },
-      "artists": [
-        {
-          "name": "Coopers",
-          "url": "https://open.spotify.com/artist/0Up9P61xDdOSe0XEyCJ6ph"
-        }
-      ],
-      "duration_ms": 184750,
-      "name": "Acapulco, dos de la tard",
-      "url": "https://open.spotify.com/track/4qPzX5KPnxMcDE1uxxwiap"
-    },
-    {
-      "added_at": "2026-09-25 06:00:07",
-      "album": {
         "name": "Jungle Fire",
         "url": "https://open.spotify.com/album/2bproUHkH4ZckvOhxIYoT7"
       },
@@ -1323,6 +1307,22 @@
       "duration_ms": 229080,
       "name": "At\u00f3mico",
       "url": "https://open.spotify.com/track/704w7nDWknuIV05nSWoXEw"
+    },
+    {
+      "added_at": "2026-09-25 06:00:07",
+      "album": {
+        "name": "Heavenly Sweetness Sampler #3",
+        "url": "https://open.spotify.com/album/6S7fiWGmRObHoDOLlhHptX"
+      },
+      "artists": [
+        {
+          "name": "Coopers",
+          "url": "https://open.spotify.com/artist/0Up9P61xDdOSe0XEyCJ6ph"
+        }
+      ],
+      "duration_ms": 184750,
+      "name": "Acapulco, dos de la tard",
+      "url": "https://open.spotify.com/track/4qPzX5KPnxMcDE1uxxwiap"
     },
     {
       "added_at": "2026-09-25 06:00:07",
@@ -1435,18 +1435,22 @@
     {
       "added_at": "2026-09-25 06:00:07",
       "album": {
-        "name": "D\u00edas Negros",
-        "url": "https://open.spotify.com/album/5aAukLeOUD7CH1qE36t7mt"
+        "name": "Ll\u00e9vame",
+        "url": "https://open.spotify.com/album/4MUmKDn5xEfGpBo2ihzTJM"
       },
       "artists": [
         {
-          "name": "Chango Menas",
-          "url": "https://open.spotify.com/artist/02JOH3JikydGzqOEI7WzA9"
+          "name": "Bebo Dumont",
+          "url": "https://open.spotify.com/artist/1K3l8XdgOtySWPTvBfhgYe"
+        },
+        {
+          "name": "Gabo Lugo",
+          "url": "https://open.spotify.com/artist/7N1J7Ba9vb440S6pSs2qEo"
         }
       ],
-      "duration_ms": 182320,
-      "name": "D\u00edas Negros",
-      "url": "https://open.spotify.com/track/7GggClJIZhrWpNYfFt5RAQ"
+      "duration_ms": 258523,
+      "name": "Ll\u00e9vame",
+      "url": "https://open.spotify.com/track/79yN85jSmZsQVkcovCOv3o"
     },
     {
       "added_at": "2026-09-25 06:00:07",
@@ -1467,22 +1471,18 @@
     {
       "added_at": "2026-09-25 06:00:07",
       "album": {
-        "name": "Ll\u00e9vame",
-        "url": "https://open.spotify.com/album/4MUmKDn5xEfGpBo2ihzTJM"
+        "name": "D\u00edas Negros",
+        "url": "https://open.spotify.com/album/5aAukLeOUD7CH1qE36t7mt"
       },
       "artists": [
         {
-          "name": "Bebo Dumont",
-          "url": "https://open.spotify.com/artist/1K3l8XdgOtySWPTvBfhgYe"
-        },
-        {
-          "name": "Gabo Lugo",
-          "url": "https://open.spotify.com/artist/7N1J7Ba9vb440S6pSs2qEo"
+          "name": "Chango Menas",
+          "url": "https://open.spotify.com/artist/02JOH3JikydGzqOEI7WzA9"
         }
       ],
-      "duration_ms": 258523,
-      "name": "Ll\u00e9vame",
-      "url": "https://open.spotify.com/track/79yN85jSmZsQVkcovCOv3o"
+      "duration_ms": 182320,
+      "name": "D\u00edas Negros",
+      "url": "https://open.spotify.com/track/7GggClJIZhrWpNYfFt5RAQ"
     },
     {
       "added_at": "2026-09-25 06:00:07",

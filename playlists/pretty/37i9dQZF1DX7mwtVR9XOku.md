@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7mwtVR9XOku.md) - [plain]
 
 > Déjate arrullar por estas apacibles melodías clásicas.
 
-[Spotify](https://open.spotify.com/user/spotify) - 52,460 likes - 72 songs - 3 hr 38 min
+[Spotify](https://open.spotify.com/user/spotify) - 52,465 likes - 72 songs - 3 hr 38 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -14,9 +14,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7mwtVR9XOku.md) - [plain]
 | 4 | [Reef](https://open.spotify.com/track/14E2KOXyzozxKQHu2bh1VW) | [Antonymes](https://open.spotify.com/artist/1FXNgc8dxBxW9XQzQBWUj7) | [Reef](https://open.spotify.com/album/3MjhtNO02yct2msRjP5g0O) | 4:11 |
 | 5 | [Quietly Quietly](https://open.spotify.com/track/4WWzf8XjwjnvlCtXBd3y6c) | [Peter Cavallo](https://open.spotify.com/artist/4wkhNurLn15nvnOh3O8yCV) | [Quietly Quietly](https://open.spotify.com/album/2x2prQ4nWkiX5kg3qDagz4) | 3:22 |
 | 6 | [Enfantillages pittoresques: II\. Berceuse](https://open.spotify.com/track/0L5WGmfuDp4JgbOnv3eqOg) | [Erik Satie](https://open.spotify.com/artist/459INk8vcC0ebEef82WjIK), [Cristina Ariagno](https://open.spotify.com/artist/1P2QbCWRfx3t99tZSUdL18) | [Satie: Complete Piano Works, Vol\. 2/2](https://open.spotify.com/album/2tmqRnqJGhdHtv5WbEQdex) | 1:17 |
-| 7 | [Dream 1 \(before the wind blows it all away\) \- Pt\. 1](https://open.spotify.com/track/3FVy3aVs0TFzLv6FEiLqC2) | [Max Richter](https://open.spotify.com/artist/2VZNmg4vCnew4Pavo8zDdW) | [Sleep](https://open.spotify.com/album/0JLN7JryQ2T7lBEYIrSQF1) | 2:33 |
-| 8 | [The Return](https://open.spotify.com/track/5wlUjXNwN62wxhAZWddA6B) | [Library Tapes](https://open.spotify.com/artist/2ojlS7imGFiZ8A8tXXGEt7) | [The Return](https://open.spotify.com/album/4nZ4sclyQYkBT2SlKBXvcJ) | 2:18 |
-| 9 | [Lunar](https://open.spotify.com/track/0v1YUX6yWvRJCoWIYuU1vB) | [Christian Badzura](https://open.spotify.com/artist/4o4c7wie7O9R8ju7JWtHsQ), [Bruce Liu](https://open.spotify.com/artist/3GMPZX0AZo90KkPjFpgPT9) | [Lunar](https://open.spotify.com/album/5aBpRb8Su6q0aWJiCModUr) | 3:09 |
+| 7 | [The Return](https://open.spotify.com/track/5wlUjXNwN62wxhAZWddA6B) | [Library Tapes](https://open.spotify.com/artist/2ojlS7imGFiZ8A8tXXGEt7) | [The Return](https://open.spotify.com/album/4nZ4sclyQYkBT2SlKBXvcJ) | 2:18 |
+| 8 | [Lunar](https://open.spotify.com/track/0v1YUX6yWvRJCoWIYuU1vB) | [Christian Badzura](https://open.spotify.com/artist/4o4c7wie7O9R8ju7JWtHsQ), [Bruce Liu](https://open.spotify.com/artist/3GMPZX0AZo90KkPjFpgPT9) | [Lunar](https://open.spotify.com/album/5aBpRb8Su6q0aWJiCModUr) | 3:09 |
+| 9 | [Dream 1 \(before the wind blows it all away\) \- Pt\. 1](https://open.spotify.com/track/3FVy3aVs0TFzLv6FEiLqC2) | [Max Richter](https://open.spotify.com/artist/2VZNmg4vCnew4Pavo8zDdW) | [Sleep](https://open.spotify.com/album/0JLN7JryQ2T7lBEYIrSQF1) | 2:33 |
 | 10 | [saman](https://open.spotify.com/track/5RqKo9P4DLA0bVyY70cWkr) | [Ólafur Arnalds](https://open.spotify.com/artist/7E3BRXV9ZbCt5lQTCXMTia) | [re:member](https://open.spotify.com/album/6JpQGIi2he6iskzR4aLwPG) | 2:11 |
 | 11 | [Mid Air](https://open.spotify.com/track/5O3UGMP9XJLbshKKZHsrGN) | [GÅEL](https://open.spotify.com/artist/3IDwktZCJFdN7oBKwLOZX5) | [Mid Air](https://open.spotify.com/album/3WDpzRaFtaWQlWxFQn8jxK) | 2:27 |
 | 12 | [Dream 1 \(before the wind blows it all away\) \- Pt\. 8](https://open.spotify.com/track/1A8qD0Ygjzsby5OmXh1PTa) | [Max Richter](https://open.spotify.com/artist/2VZNmg4vCnew4Pavo8zDdW) | [Sleep](https://open.spotify.com/album/0JLN7JryQ2T7lBEYIrSQF1) | 1:58 |
@@ -81,4 +81,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7mwtVR9XOku.md) - [plain]
 | 71 | [Reflection](https://open.spotify.com/track/5EjEo7s2rLHcMZz0BxhOPm) | [Víkingur Ólafsson](https://open.spotify.com/artist/0iqgjl0OG3z53PZVIB7ZyD) | [Reflections](https://open.spotify.com/album/5BvQCAdlTeCpshkRFORsWY) | 5:34 |
 | 72 | [Late](https://open.spotify.com/track/7nbupE7oWrRG33GgnIbF7C) | [Nils Frahm](https://open.spotify.com/artist/5gqhueRUZEa7VDnQt4HODp) | [Late](https://open.spotify.com/album/5t53hTakFJn6VnwBQnfd5f) | 3:18 |
 
-Snapshot ID: `AAAAAGe+tLy1tyrODXYXhqVbfvcoRk/x`
+Snapshot ID: `AAAAAFmG9aTZKvpiPkqUnrLO3FV1WcIk`

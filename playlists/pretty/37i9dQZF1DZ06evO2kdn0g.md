@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2kdn0g.md) - [plain]
 
 > This is Avenoir\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 6,336 likes - 27 songs - 1 hr 17 min
+[Spotify](https://open.spotify.com/user/spotify) - 6,340 likes - 27 songs - 1 hr 17 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -13,18 +13,18 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2kdn0g.md) - [plain]
 | 3 | [Favour](https://open.spotify.com/track/7sYQ4bgCZAbnV3TdUbscFz) | [Avenoir](https://open.spotify.com/artist/3Z7onAknzpinUu3KtmgeZb) | [Favour](https://open.spotify.com/album/29kCfGrCCIeS0u3RxsvzTC) | 2:36 |
 | 4 | [LINK UP](https://open.spotify.com/track/1AhGYugYUCWwyB08K2U875) | [Avenoir](https://open.spotify.com/artist/3Z7onAknzpinUu3KtmgeZb) | [NOIRE](https://open.spotify.com/album/4Edp8Knz4hREMPHSCD6Ewd) | 2:05 |
 | 5 | [Plein Soleil](https://open.spotify.com/track/2jYoHERAJLmbPEzgEq3q81) | [Avenoir](https://open.spotify.com/artist/3Z7onAknzpinUu3KtmgeZb) | [Plein Soleil](https://open.spotify.com/album/34syQNcB2yboOXhcPmN78h) | 3:25 |
-| 6 | [Superposition](https://open.spotify.com/track/5vR7uJE1YTA9p3n6xBE1p1) | [Avenoir](https://open.spotify.com/artist/3Z7onAknzpinUu3KtmgeZb) | [Superposition](https://open.spotify.com/album/7cefdWw7RyJXmKZEX0PduI) | 3:35 |
-| 7 | [TMW](https://open.spotify.com/track/0xNMqGEjgTdsjTYiGJdi8v) | [Avenoir](https://open.spotify.com/artist/3Z7onAknzpinUu3KtmgeZb) | [TMW](https://open.spotify.com/album/5csnKY1yR98iMm91sEMw9y) | 2:08 |
+| 6 | [TMW](https://open.spotify.com/track/0xNMqGEjgTdsjTYiGJdi8v) | [Avenoir](https://open.spotify.com/artist/3Z7onAknzpinUu3KtmgeZb) | [TMW](https://open.spotify.com/album/5csnKY1yR98iMm91sEMw9y) | 2:08 |
+| 7 | [Superposition](https://open.spotify.com/track/5vR7uJE1YTA9p3n6xBE1p1) | [Avenoir](https://open.spotify.com/artist/3Z7onAknzpinUu3KtmgeZb) | [Superposition](https://open.spotify.com/album/7cefdWw7RyJXmKZEX0PduI) | 3:35 |
 | 8 | [AFTER HOURS](https://open.spotify.com/track/1dss83SWGJ6iIYZsyMWyY4) | [Avenoir](https://open.spotify.com/artist/3Z7onAknzpinUu3KtmgeZb) | [AFTER HOURS](https://open.spotify.com/album/4eOPIWduCqvgaQkcs0E78d) | 2:53 |
 | 9 | [Lady](https://open.spotify.com/track/6DgXb6t0sRDjtyldebcnEA) | [Avenoir](https://open.spotify.com/artist/3Z7onAknzpinUu3KtmgeZb) | [Mirage](https://open.spotify.com/album/1ScwWsJ8KmcKRrAWh9nCAS) | 3:03 |
 | 10 | [Eve](https://open.spotify.com/track/0xx52Xbs4MHTsaZZlPaVhT) | [Avenoir](https://open.spotify.com/artist/3Z7onAknzpinUu3KtmgeZb) | [Eve](https://open.spotify.com/album/6BegTMIS4njwAMXbRX5aui) | 2:43 |
 | 11 | [DIFFERENT](https://open.spotify.com/track/1rgwKSuwFnq9nw54ZfKKjp) | [Avenoir](https://open.spotify.com/artist/3Z7onAknzpinUu3KtmgeZb) | [NOIRE](https://open.spotify.com/album/4Edp8Knz4hREMPHSCD6Ewd) | 2:35 |
 | 12 | [Too Much](https://open.spotify.com/track/0zRtbhAtRmXXrhyfiBOio2) | [Avenoir](https://open.spotify.com/artist/3Z7onAknzpinUu3KtmgeZb) | [Too Much](https://open.spotify.com/album/4dQzXJwYGaVOx2gs4Hz2KI) | 3:50 |
-| 13 | [Alone](https://open.spotify.com/track/3kjLA2VXiLYzenxpjkzhEP) | [Avenoir](https://open.spotify.com/artist/3Z7onAknzpinUu3KtmgeZb) | [Mirage](https://open.spotify.com/album/1ScwWsJ8KmcKRrAWh9nCAS) | 2:25 |
+| 13 | [Mirage](https://open.spotify.com/track/0605IFCVNYSchpfcoS77YU) | [Avenoir](https://open.spotify.com/artist/3Z7onAknzpinUu3KtmgeZb) | [Mirage](https://open.spotify.com/album/1ScwWsJ8KmcKRrAWh9nCAS) | 2:29 |
 | 14 | [D4U \(Spotify Singles\)](https://open.spotify.com/track/5fakMMK21KeT6Wu5GpEX6t) | [Avenoir](https://open.spotify.com/artist/3Z7onAknzpinUu3KtmgeZb) | [D4U \(Spotify Singles\)](https://open.spotify.com/album/0GXMun1k687PVQexQFpoAA) | 2:40 |
 | 15 | [Crisis Evasion](https://open.spotify.com/track/590oorGK2QmupDeAGtk1Al) | [Maz B](https://open.spotify.com/artist/7dmwSItAEr4EhkUH5C9aXH), [Avenoir](https://open.spotify.com/artist/3Z7onAknzpinUu3KtmgeZb) | [Apollo](https://open.spotify.com/album/6V8N8vobePP7eRwPBrUH5d) | 2:34 |
 | 16 | [Can't Leave Alone \(feat\. Avenoir & Maz B\)](https://open.spotify.com/track/3bGfuGWywg85koHG8nturm) | [Pino](https://open.spotify.com/artist/58DUKFTIbamsxqTHfoofpu), [Avenoir](https://open.spotify.com/artist/3Z7onAknzpinUu3KtmgeZb), [Maz B](https://open.spotify.com/artist/7dmwSItAEr4EhkUH5C9aXH), [86](https://open.spotify.com/artist/2o89WDAOoTqUO7AA9hvh1Q) | ['02](https://open.spotify.com/album/4G1Bike7xA2biArlI5WNzO) | 3:33 |
-| 17 | [Mirage](https://open.spotify.com/track/0605IFCVNYSchpfcoS77YU) | [Avenoir](https://open.spotify.com/artist/3Z7onAknzpinUu3KtmgeZb) | [Mirage](https://open.spotify.com/album/1ScwWsJ8KmcKRrAWh9nCAS) | 2:29 |
+| 17 | [Alone](https://open.spotify.com/track/3kjLA2VXiLYzenxpjkzhEP) | [Avenoir](https://open.spotify.com/artist/3Z7onAknzpinUu3KtmgeZb) | [Mirage](https://open.spotify.com/album/1ScwWsJ8KmcKRrAWh9nCAS) | 2:25 |
 | 18 | [Heaven](https://open.spotify.com/track/1MjfmxFnt7CpIG4KnXS7jI) | [Avenoir](https://open.spotify.com/artist/3Z7onAknzpinUu3KtmgeZb), [Bryant Barnes](https://open.spotify.com/artist/1URGXPcURc0aQzLeph65nK) | [Heaven](https://open.spotify.com/album/3dDHsgsMUgGJrgfxPyjdcI) | 3:02 |
 | 19 | [WHO DO U LUV](https://open.spotify.com/track/7IXmojGjBth1Vga82YkLg8) | [Avenoir](https://open.spotify.com/artist/3Z7onAknzpinUu3KtmgeZb) | [WHO DO U LUV](https://open.spotify.com/album/2VmIrHVXSVSb5z6KaTitMf) | 4:08 |
 | 20 | [TRACK 02 \(Dangerous Lover\)](https://open.spotify.com/track/0BflE0kan9H39aPZzLjUHZ) | [Avenoir](https://open.spotify.com/artist/3Z7onAknzpinUu3KtmgeZb) | [NOIRE](https://open.spotify.com/album/4Edp8Knz4hREMPHSCD6Ewd) | 2:58 |
@@ -36,4 +36,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2kdn0g.md) - [plain]
 | 26 | [Marbles](https://open.spotify.com/track/7lmc2aV9A0vvHJKIflWPne) | [Avenoir](https://open.spotify.com/artist/3Z7onAknzpinUu3KtmgeZb) | [Mirage](https://open.spotify.com/album/1ScwWsJ8KmcKRrAWh9nCAS) | 2:31 |
 | 27 | [MORTAL](https://open.spotify.com/track/4ZbUA2dQFMvEwgzZJWsBTF) | [Avenoir](https://open.spotify.com/artist/3Z7onAknzpinUu3KtmgeZb) | [NOIRE](https://open.spotify.com/album/4Edp8Knz4hREMPHSCD6Ewd) | 2:21 |
 
-Snapshot ID: `awOCAAAAAADkJ5dKHJ86TNbaGJMBDR/S`
+Snapshot ID: `awYlAAAAAADW25AiW3Iz+vzhblO2H/qJ`

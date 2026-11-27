@@ -4,7 +4,7 @@
 
 > Warm instrumental versions of your favorite Christmas songs.
 
-207 songs - 10 hr 30 min
+211 songs - 10 hr 44 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -132,6 +132,7 @@
 | [Oh Christmas Tree](https://open.spotify.com/track/4HkmCOAh5oqQ7KsihV2Yfs) | [Holy Eve Trio](https://open.spotify.com/artist/2MIg8Vq5NCa9AER8dbCFDG) | [Blue Christmas EP](https://open.spotify.com/album/4dJvLEZjecdymJWBHCiZiZ) | 2:23 | 2022-10-07 | 2025-09-05 |
 | [Oh Holy Night](https://open.spotify.com/track/1sCwaLpoN8VitJIYHgWZei) | [Lucy Christiansen](https://open.spotify.com/artist/7MEdErlyxiA996mSCEy9l0) | [Home For Christmas](https://open.spotify.com/album/2TH7H24oY5NaW44MILtcPK) | 3:30 | 2021-12-21 | 2022-10-14 |
 | [Once in Royal David's City](https://open.spotify.com/track/68ugUmH1wjIN0vCR98sC7G) | [Red Brick Lane](https://open.spotify.com/artist/2zw8MpGMCASv0YfeAuUUzJ) | [Once in Royal David's City](https://open.spotify.com/album/5dDT9Nh3MCITsacmvIv6lp) | 2:45 | 2021-12-21 |  |
+| [Our Warm December](https://open.spotify.com/track/1U39k07lfZQ0QZGZ2klJWw) | [LaSalle Street Trio](https://open.spotify.com/artist/0lEDIqg3LH3JQ9YoFMJAIn) | [Our Warm December](https://open.spotify.com/album/6ifWd9n7nODOMiGQ1hWanF) | 3:08 | 2026-11-27 |  |
 | [Please come home for christmas](https://open.spotify.com/track/4CjsInvWGmHOxxVQ2sS9F4) | [Jeff Laine & Co](https://open.spotify.com/artist/4i2Ps9G6SHd16reEGA5xva) | [Please come home for christmas](https://open.spotify.com/album/5r2ZzaDZhyqzORtTWnbYPM) | 2:33 | 2023-10-13 |  |
 | [Please Come Home for Christmas](https://open.spotify.com/track/528sRoUStf8eqZS1bLwVQP) | [Jeff Laine & Co](https://open.spotify.com/artist/4i2Ps9G6SHd16reEGA5xva) | [christmas piano](https://open.spotify.com/album/55yWhghxRRxUI6WNEFLHZc) | 2:33 | 2023-10-13 | 2023-10-14 |
 | [Quiet Eve in December](https://open.spotify.com/track/0KYwg7gjS2sxiiyQG7poIC) | [Billie Shaw](https://open.spotify.com/artist/5fLL8sHcUsZw07ll4RV2Ku) | [Quiet Eve in December](https://open.spotify.com/album/0hcMWQwFYhDp3c2Qbbib28) | 2:40 | 2025-11-03 |  |
@@ -154,9 +155,11 @@
 | [Sleigh Ride](https://open.spotify.com/track/3CwE9ExeHCA9ho6hy1lrNZ) | [Roddy Doyle Trio](https://open.spotify.com/artist/2NpfQuA1kHiGx9LHgDx4p3) | [Christmas Jazz!](https://open.spotify.com/album/5Zb21fmHLMw1lkft5F88Id) | 3:22 | 2022-10-07 | 2025-09-05 |
 | [Slides Across The Snow](https://open.spotify.com/track/34X9nQST5kNnFUVoubt5uF) | [Ornette Haynes](https://open.spotify.com/artist/5Fb5lnOYweoOU7Xt5qQ1h6) | [Slides Across The Snow](https://open.spotify.com/album/19DU6jIdm4zjOj1ZLqY6ws) | 3:41 | 2026-11-13 |  |
 | [Snow Painting the View](https://open.spotify.com/track/6GShrBUWZ30exiGCVVoWo2) | [Brilliant Supervision](https://open.spotify.com/artist/4l67wBSXU77P21X5o2dyUo) | [Snow Painting the View](https://open.spotify.com/album/4mpxUFtEUKOG3m1BPcpTXy) | 2:47 | 2024-12-12 |  |
+| [Snowflakes and Candlelight](https://open.spotify.com/track/2EtkYde8Ae1d2ODrpjCArJ) | [Douglas Ruby Trio](https://open.spotify.com/artist/1viVBXkZrTMnLT6hsFhiMM) | [Snowflakes and Candlelight](https://open.spotify.com/album/5CfZRrRdsFDOCx8759Urko) | 3:36 | 2026-11-27 |  |
 | [Somewhere In My Memory](https://open.spotify.com/track/2okeg8ZIf25wcY5QGCjZAz) | [Ron Bladworth](https://open.spotify.com/artist/0BqBNOQfrBTClJMq6n03Mf) | [Somewhere In My Memory](https://open.spotify.com/album/3xVrlYjcB3OKVvfdvzMbCX) | 3:22 | 2023-11-10 |  |
 | [Still, Still, Still](https://open.spotify.com/track/1L0op2aXXuCnWsGT8ltTMW) | [Kyle Mendes Jazz Trio](https://open.spotify.com/artist/0KZqPiOKt79SlPR6kzZUm2) | [I'll Be Home For Christmas](https://open.spotify.com/album/3JFeZMiH5g3cXfrxpNkXtS) | 2:21 | 2022-10-20 | 2025-09-05 |
 | [Suzy Snowflake](https://open.spotify.com/track/58zVXwV16mxnrtwi9WBng8) | [Ryder Quartet](https://open.spotify.com/artist/03feorh2ud2VxCrgRcsaLx) | [Suzy Snowflake](https://open.spotify.com/album/0sT6voPsLMtPNClQBItqWD) | 3:10 | 2024-10-25 |  |
+| [The Bells of Christmas Day](https://open.spotify.com/track/3d02iej3oebiIKixEFOE5N) | [Fred Hayes](https://open.spotify.com/artist/62p6oXKfOk0e0tLh9uO94a) | [The Bells of Christmas Day](https://open.spotify.com/album/3hnUpIBVBVtLe9s81PCVXR) | 3:43 | 2026-11-27 |  |
 | [The Boar's Head Carol](https://open.spotify.com/track/76MGFBv1q0lxsEE6p1Is7t) | [Trio Serena](https://open.spotify.com/artist/0rdaxUS2UanmnFN66x4Y8Z) | [The Boar's Head Carol](https://open.spotify.com/album/6KMnu9pR2hmYwBP3kDClYb) | 3:19 | 2025-10-03 |  |
 | [The Chipmunk Song](https://open.spotify.com/track/0fQOIeqzT092q2p8wDDBYl) | [Sonny Magic Trio](https://open.spotify.com/artist/5UBpgvMO0TGIUiuD69RAP3) | [Have Yourself a Merry Little Christmas](https://open.spotify.com/album/3owNP9iL5Db7iKu7JEyWEg) | 2:43 | 2022-10-07 | 2025-09-05 |
 | [The Christmas I Fell For You](https://open.spotify.com/track/5lYCdABg8ji35l57OWyTej) | [Gail Cameron](https://open.spotify.com/artist/3xmDjA6LY5tG4L7AmNPTXg) | [The Christmas I Fell For You](https://open.spotify.com/album/6sgyWLAhf8JAUT7nC7KquK) | 3:04 | 2026-11-06 |  |
@@ -215,5 +218,6 @@
 | [Winter Wonderland](https://open.spotify.com/track/4VmA5KpWZO0UVcagpcoUde) | [Meadow Park](https://open.spotify.com/artist/3xgSoGgPQpQvOK5XOyoOAm) | [Winter Wonderland](https://open.spotify.com/album/00mDfkOOwU5Z9k09Btz0DN) | 2:53 | 2026-11-06 |  |
 | [With White Snow](https://open.spotify.com/track/22fuRASO5iQ1XeXCba7U26) | [Hamilton Jones Trio](https://open.spotify.com/artist/3kivgh7JqxadGYAYo99XeL) | [With White Snow](https://open.spotify.com/album/1umLeCGkQ17Qlc9FCjoELz) | 2:49 | 2024-11-11 | 2025-09-05 |
 | [You're All I Want For Christmas](https://open.spotify.com/track/3TKli016N6D1XnU0Jz8xVx) | [Smoke & Mirrors Trio](https://open.spotify.com/artist/2l8hGNs8QG9fAf8baaZPhV) | [Happy Christmas, Little Friend](https://open.spotify.com/album/66xxXSW7xjV4bLQwj3FXtF) | 5:20 | 2022-10-20 |  |
+| [Yuletide](https://open.spotify.com/track/3YiqX79C4jWKkF3nmGodiu) | [Rudy Winston](https://open.spotify.com/artist/0eg5Y6qtyXmuDqBqEHbJ6L) | [Yuletide](https://open.spotify.com/album/6C1VbYmAvx84Vvs8gzvUSj) | 3:32 | 2026-11-27 |  |
 
 \*This playlist was first scraped on 2021-12-28. Prior content cannot be recovered.

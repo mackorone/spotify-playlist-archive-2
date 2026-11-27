@@ -9757,6 +9757,24 @@
     },
     {
       "album": {
+        "name": "Oh Lord",
+        "url": "https://open.spotify.com/album/5sueg7RFLwMZxrtloBNRzf"
+      },
+      "artists": [
+        {
+          "name": "Uwa",
+          "url": "https://open.spotify.com/artist/3PhBxIUdrJCXeEprUL5pkV"
+        }
+      ],
+      "date_added": "2026-11-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 287242,
+      "name": "Oh Lord",
+      "url": "https://open.spotify.com/track/79KeO8QeTOGlEtZbG4ksIn"
+    },
+    {
+      "album": {
         "name": "Oh Mpa",
         "url": "https://open.spotify.com/album/3NXAo7AMQmzIgp2Hcupn5t"
       },
@@ -10526,7 +10544,7 @@
       ],
       "date_added": "2026-09-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-27",
       "duration_ms": 268965,
       "name": "P139",
       "url": "https://open.spotify.com/track/4fqp3iEbiBtxbaqwQPCk7p"
@@ -13621,6 +13639,24 @@
     },
     {
       "album": {
+        "name": "Prepare The Way",
+        "url": "https://open.spotify.com/album/3jgCvt3xZQV7AuKvbZo4Hb"
+      },
+      "artists": [
+        {
+          "name": "Natalie Okri",
+          "url": "https://open.spotify.com/artist/003ZYdCrDxEZWWeaqhCP3j"
+        }
+      ],
+      "date_added": "2026-11-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 155294,
+      "name": "Tis The Season",
+      "url": "https://open.spotify.com/track/5kYXnpGDpGsauWwRA3mJzM"
+    },
+    {
+      "album": {
         "name": "To me",
         "url": "https://open.spotify.com/album/5c6wFb8kE1iL0IswbinfWO"
       },
@@ -15518,7 +15554,7 @@
       ],
       "date_added": "2026-10-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-27",
       "duration_ms": 147216,
       "name": "\u00e0\u1e63\u1eb9",
       "url": "https://open.spotify.com/track/4zIPB6jJOasLbPfJZcXjo8"

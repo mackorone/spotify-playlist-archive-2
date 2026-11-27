@@ -95,6 +95,24 @@
     },
     {
       "album": {
+        "name": "2006",
+        "url": "https://open.spotify.com/album/3nQuESzI46J1FnV1j5b0Oq"
+      },
+      "artists": [
+        {
+          "name": "Carlos Diem",
+          "url": "https://open.spotify.com/artist/52eCukmvzQTZ45VpgpEfNP"
+        }
+      ],
+      "date_added": "2026-11-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 190206,
+      "name": "2006",
+      "url": "https://open.spotify.com/track/3Sxko84nHVm1FHA0wHuXig"
+    },
+    {
+      "album": {
         "name": "2do Viaje",
         "url": "https://open.spotify.com/album/1Kdktvltlmz9s0kF1xZJyA"
       },
@@ -8268,6 +8286,28 @@
       "duration_ms": 109665,
       "name": "Rhyme Or Reason",
       "url": "https://open.spotify.com/track/69PucpUT1iQJ2BWUFxd4aP"
+    },
+    {
+      "album": {
+        "name": "Rich Kids",
+        "url": "https://open.spotify.com/album/2AJasAEJEqKVYOk4qccyy1"
+      },
+      "artists": [
+        {
+          "name": "The Mosfets",
+          "url": "https://open.spotify.com/artist/4sl6X5AE6960qO5WMkbPzr"
+        },
+        {
+          "name": "Thomas Duxbury",
+          "url": "https://open.spotify.com/artist/6ECILQNZ22Kc1VCNpX4Cct"
+        }
+      ],
+      "date_added": "2026-11-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 149760,
+      "name": "Rich Kids",
+      "url": "https://open.spotify.com/track/3wPaAPgHFZ6eExWM69NF9g"
     },
     {
       "album": {

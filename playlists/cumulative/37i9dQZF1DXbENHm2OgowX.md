@@ -4,7 +4,7 @@
 
 > wandering the forest as the fog floats through the trees
 
-247 songs - 17 hr 40 min
+248 songs - 17 hr 43 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -207,7 +207,7 @@
 | [Sometimes](https://open.spotify.com/track/5KBKqxYY263Tr0haAu3fMz) | [my bloody valentine](https://open.spotify.com/artist/3G3Gdm0ZRAOxLrbyjfhii5) | [Loveless](https://open.spotify.com/album/3GH4IiI6jQAIvnHVdb5FB6) | 5:19 | 2022-02-11 | 2022-11-10 |
 | [Spaces Inbetween.](https://open.spotify.com/track/54shhL9vif2iwUXg0lNpQX) | [Omori](https://open.spotify.com/artist/4DoTDDfW3gkeyb06XrIHlg) | [Omori \(Original Game Soundtrack\), Pt.1](https://open.spotify.com/album/3SDU0tsnoMO841qeOHlP8B) | 0:58 | 2022-11-09 | 2023-01-10 |
 | [Spectral](https://open.spotify.com/track/3U8n9dqqe4louRiL2Sg4fp) | [Tim Hecker](https://open.spotify.com/artist/1qiwaJwjKod5WhcYZ76O1B) | [Radio Amor](https://open.spotify.com/album/5yHH2l3d2d2K5tNQGorEdR) | 8:09 | 2022-11-09 |  |
-| [Spun \- Kjartan Holm & Sin Fang Rework](https://open.spotify.com/track/4mZyu5iEEYugSPokqaFbx3) | [Kiasmos](https://open.spotify.com/artist/6X8lhZ7YaRUBlOsOYimlyD), [Kjartan Holm](https://open.spotify.com/artist/0BWRfTuCYTRzqnjYprarFo), [Sin Fang](https://open.spotify.com/artist/7xsi0kBJ58yWMu4WXFYPHU), [Ólafur Arnalds](https://open.spotify.com/artist/7E3BRXV9ZbCt5lQTCXMTia), [Janus Rasmussen](https://open.spotify.com/artist/0F2fFVawIwHt6W9az6SPaA) | [II Reworked](https://open.spotify.com/album/1EsypK4DiuwCIWJKghB9Hy) | 4:14 | 2026-08-18 |  |
+| [Spun \- Kjartan Holm & Sin Fang Rework](https://open.spotify.com/track/4mZyu5iEEYugSPokqaFbx3) | [Kiasmos](https://open.spotify.com/artist/6X8lhZ7YaRUBlOsOYimlyD), [Kjartan Holm](https://open.spotify.com/artist/0BWRfTuCYTRzqnjYprarFo), [Sin Fang](https://open.spotify.com/artist/7xsi0kBJ58yWMu4WXFYPHU), [Ólafur Arnalds](https://open.spotify.com/artist/7E3BRXV9ZbCt5lQTCXMTia), [Janus Rasmussen](https://open.spotify.com/artist/0F2fFVawIwHt6W9az6SPaA) | [II Reworked](https://open.spotify.com/album/1EsypK4DiuwCIWJKghB9Hy) | 4:14 | 2026-08-18 | 2026-11-27 |
 | [Squatter's Quarters](https://open.spotify.com/track/6NzaYbR6ayFuvEfTedn3ZF) | [Gryphon Rue](https://open.spotify.com/artist/6jyMM1uTcdiCwsLfWAWlHP) | [I Keep My Diamond Necklace in a Pond of Sparkling Water](https://open.spotify.com/album/0uiBZUXcFQpqBVKUKnS8LJ) | 4:36 | 2025-06-20 | 2026-09-19 |
 | [stardust](https://open.spotify.com/track/2foA23OBrzFfhzrmLaFaCW) | [xójira](https://open.spotify.com/artist/02k0Lp7WPTzkLbJsPWNLc2) | [psych ward valentine](https://open.spotify.com/album/4FESVxhaPJwyDThjEs4hkG) | 3:10 | 2023-01-20 | 2023-09-10 |
 | [stardust](https://open.spotify.com/track/2gDx1fgbqzXAnoul9C2ELa) | [xójira](https://open.spotify.com/artist/02k0Lp7WPTzkLbJsPWNLc2) | [psych ward valentine](https://open.spotify.com/album/4dsmQ6M65rpAC24EEHyA7N) | 3:10 | 2023-09-15 | 2024-04-19 |
@@ -246,6 +246,7 @@
 | [Waiting for Your Train](https://open.spotify.com/track/4eUOEthFna4tWFZd9Xkd0R) | [Wreath](https://open.spotify.com/artist/3x9rlymTBij2DrVsEst9JX) | [Green Wall](https://open.spotify.com/album/5BBhvTuPLebldrjg1oyPqE) | 2:02 | 2022-02-11 |  |
 | [wake up](https://open.spotify.com/track/1kABbt163rQnhsQ3rElVNu) | [Blu Velvet](https://open.spotify.com/artist/4GhQUESEKnWAUS4d9pcSS8) | [wake up](https://open.spotify.com/album/6G6lpAPRRKhwH2HUtvskfz) | 2:39 | 2026-03-20 | 2026-06-13 |
 | [Warmth of You](https://open.spotify.com/track/11HCS8E6veZP3Mkf3f5Kal) | [Planning For Burial](https://open.spotify.com/artist/4nhaUpMjrBW8vywsP2yzzD) | [Below the House](https://open.spotify.com/album/31lWxuVOP2hrbyqetVueTW) | 3:33 | 2022-02-11 |  |
+| [we stayed a little longer](https://open.spotify.com/track/0uKfDCkJF0LLy5LZkBLzd3) | [green.light](https://open.spotify.com/artist/41XYPsG87pO9CuTUWmiPfk) | [we stayed a little longer](https://open.spotify.com/album/3sWDkkxVXzd67b52sVlKxH) | 2:46 | 2026-11-24 |  |
 | [what stayed after you left](https://open.spotify.com/track/1qDc9kOiH3F8J8A8X7oZQq) | [Fieldnøte](https://open.spotify.com/artist/0lFZFORfkO4KUR7f2a3gLN), [Peter Mowry](https://open.spotify.com/artist/4mafztcbCRLBcgsVyf19nU) | [what stayed after you left](https://open.spotify.com/album/6jpYWedczd8uOiQqvpAkBE) | 2:06 | 2026-05-15 | 2026-06-13 |
 | [WHEN I WAS OLDER \- Music Inspired By The Film ROMA](https://open.spotify.com/track/7tGEAA1f8MydT7eVbbO9Zy) | [Billie Eilish](https://open.spotify.com/artist/6qqNVTkY8uBg9cP3Jd7DAH) | [WHEN I WAS OLDER \(Music Inspired By The Film ROMA\)](https://open.spotify.com/album/0LgnntyagLdfW5Dz2OSYHU) | 4:30 | 2022-11-09 | 2025-06-21 |
 | [When the Sun Hits](https://open.spotify.com/track/0oxYB9GoOIDrdzniNdKC44) | [Slowdive](https://open.spotify.com/artist/72X6FHxaShda0XeQw3vbeF) | [Souvlaki](https://open.spotify.com/album/53eHm1f3sFiSzWMaKOl98Z) | 4:45 | 2022-02-11 | 2023-01-10 |

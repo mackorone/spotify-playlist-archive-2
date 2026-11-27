@@ -699,6 +699,24 @@
     },
     {
       "album": {
+        "name": "A Place We Call Home",
+        "url": "https://open.spotify.com/album/60DfAfmOv2nJCwkU5N6Czx"
+      },
+      "artists": [
+        {
+          "name": "Thanda Choir",
+          "url": "https://open.spotify.com/artist/0A2XryBGpXQ6fYWTRTzl9a"
+        }
+      ],
+      "date_added": "2026-11-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 288357,
+      "name": "Bayede",
+      "url": "https://open.spotify.com/track/5JamrVIOGP4xBg00zMpEAc"
+    },
+    {
+      "album": {
         "name": "Worship House Celebration 20 (Live at Worship House Church Limpopo , 2023)",
         "url": "https://open.spotify.com/album/5kS4SrOqx8pLnYZs6efJeO"
       },

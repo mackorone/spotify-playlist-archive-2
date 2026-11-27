@@ -4,12 +4,13 @@
 
 > When you're a 19th century villain with excellent taste in music.
 
-96 songs - 11 hr 48 min
+97 songs - 11 hr 52 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
 | [1812 Overture, Op\. 49, TH 49](https://open.spotify.com/track/3FTtol76FmRdVNRUO42csG) | [Pyotr Ilyich Tchaikovsky](https://open.spotify.com/artist/3MKCzCnpzw3TjUYs2v7vDA), [Berliner Philharmoniker](https://open.spotify.com/artist/6uRJnvQ3f8whVnmeoecv5Z), [Claudio Abbado](https://open.spotify.com/artist/6HclTVD03WSY6GUpN16BkP) | [Tchaikovsky: Ouverture Solenelle Op\. 49 "1812"; Fantasy Overture "The Tempest"; Marche Slave, Op\. 31; Fantasy Overture "Romeo and Juliet"](https://open.spotify.com/album/3uJ0nON5lB2DhcNhJesSTD) | 14:45 | 2022-06-21 |  |
 | [24 Preludes, Op\. 28: No\. 4 in E Minor\. Largo](https://open.spotify.com/track/3maBF9jM0ICV3qSKmvNvIu) | [Frédéric Chopin](https://open.spotify.com/artist/7y97mc3bZRFXzT2szRM4L4), [Jan Lisiecki](https://open.spotify.com/artist/0iZW6hAah0wPk6gOZCGcmy) | [Chopin: 24 Preludes, Op\. 28: No\. 4 in E Minor\. Largo](https://open.spotify.com/album/0WZabZ5Xaqgsqod0xY7891) | 2:26 | 2024-11-15 |  |
+| [5 Morceaux de fantaisie, Op\. 3: II\. Prélude](https://open.spotify.com/track/342j9JRYEQv9ZGT1skC4JS) | [Sergei Rachmaninoff](https://open.spotify.com/artist/0Kekt6CKSo0m5mivKcoH51), [Mao Fujita](https://open.spotify.com/artist/1jN4Xmeo6upsAer2hRZhrl) | [Rachmaninoff](https://open.spotify.com/album/6gjHmvCsR1wEzIqELF0AUc) | 4:01 | 2026-11-27 |  |
 | [A Dante Symphony, S.109: 1\. Inferno](https://open.spotify.com/track/1dg09xDUvkYDSpxVivrA34) | [Franz Liszt](https://open.spotify.com/artist/1385hLNbrnbCJGokfH2ac2), [Orchestre de la Suisse Romande](https://open.spotify.com/artist/4NzLn7UyhvBlgzhF7WwMM1), [Jesús López\-Cobos](https://open.spotify.com/artist/4hVO4GtoFDpYsXdgXOxssI) | [Liszt: Faust Symphony; Dante Symphony; Les Prélludes; Prometheus](https://open.spotify.com/album/1s1zj0erJyhfE6LhhTD0Nw) | 19:23 | 2022-06-21 |  |
 | [A Night On The Bare Mountain](https://open.spotify.com/track/7ziy9EUNCwYgXQsqxyW7pb) | [Modest Mussorgsky](https://open.spotify.com/artist/284mnx33IWcymQEpMxyfHl), [Orchestre Symphonique de Montréal](https://open.spotify.com/artist/4AcXapei4U7xnWecv9AEBd), [Kent Nagano](https://open.spotify.com/artist/3JzgNB1Kzlc17zuSzrC51x) | [Danse Macabre](https://open.spotify.com/album/2hRaFLIC2ge5ZDoThJZaMU) | 11:50 | 2023-10-13 |  |
 | [A Pagan Dance No.2 Live](https://open.spotify.com/track/2bMdP5b8Um7zHPg2B83vnl) | [Mark John McEncroe](https://open.spotify.com/artist/02ep1mxR5xAc2t9m0ZyGL6), [Budapest Symphony Orchestra](https://open.spotify.com/artist/4yrzlxPNm4ulLRpn5wmEAX), [Anthony Amore](https://open.spotify.com/artist/2I2M6cIgvlfSUSgOfIjjrp) | [A Pagan Dance No.2 Live](https://open.spotify.com/album/6naztOk0fDaFHBsfpGFn10) | 6:12 | 2026-07-10 |  |

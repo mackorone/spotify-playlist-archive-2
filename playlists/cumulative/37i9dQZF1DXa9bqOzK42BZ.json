@@ -537,6 +537,24 @@
     },
     {
       "album": {
+        "name": "911",
+        "url": "https://open.spotify.com/album/2GbjisCZ2WprELtU0wTp2o"
+      },
+      "artists": [
+        {
+          "name": "Nandy",
+          "url": "https://open.spotify.com/artist/2YfO4GV7JrFSXyfEoa5id3"
+        }
+      ],
+      "date_added": "2026-11-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 206346,
+      "name": "Asante",
+      "url": "https://open.spotify.com/track/0mWtLeDDVOBzul9dMYda79"
+    },
+    {
+      "album": {
         "name": "Asante",
         "url": "https://open.spotify.com/album/3OQhPS52juljB5hPz0lm8O"
       },
@@ -1174,7 +1192,7 @@
       ],
       "date_added": "2026-07-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-27",
       "duration_ms": 199549,
       "name": "Enda",
       "url": "https://open.spotify.com/track/3g4RPFobpRoFLRzmtVu5Az"
@@ -2016,7 +2034,7 @@
       ],
       "date_added": "2026-10-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-27",
       "duration_ms": 177219,
       "name": "Kawathi - Radio Edit/Clean",
       "url": "https://open.spotify.com/track/3jyuZrtgXbT5Is0IipK9kP"
@@ -2056,6 +2074,28 @@
       "duration_ms": 328000,
       "name": "Kila Kitu Kitakuwa Sawa",
       "url": "https://open.spotify.com/track/1ZQv07GhXuM16IQuJZaGXC"
+    },
+    {
+      "album": {
+        "name": "Mountain Movers Club 2",
+        "url": "https://open.spotify.com/album/7AesDW0vXKciAiY9aRAPnA"
+      },
+      "artists": [
+        {
+          "name": "Proud Refuge",
+          "url": "https://open.spotify.com/artist/7BdlxAdFLv4gmdD9Gl116j"
+        },
+        {
+          "name": "Moji Short Babaa",
+          "url": "https://open.spotify.com/artist/3KTcpM8xNZerZuS1CixhYZ"
+        }
+      ],
+      "date_added": "2026-11-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 252186,
+      "name": "Kila Kona",
+      "url": "https://open.spotify.com/track/6A7gkdT2b8a8EsDWA9TgcU"
     },
     {
       "album": {
@@ -2248,7 +2288,7 @@
       ],
       "date_added": "2026-10-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-27",
       "duration_ms": 218936,
       "name": "Let's Go",
       "url": "https://open.spotify.com/track/0fXYt9rF4chhP317CltuvU"
@@ -2828,7 +2868,7 @@
       ],
       "date_added": "2026-03-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-27",
       "duration_ms": 176000,
       "name": "Mkono Wako",
       "url": "https://open.spotify.com/track/6iO00GNlCsbtD0VCt1heKS"
@@ -6262,6 +6302,28 @@
       "duration_ms": 212457,
       "name": "Unarudi Lini",
       "url": "https://open.spotify.com/track/61Zc74od47dj7dXVuKxsO9"
+    },
+    {
+      "album": {
+        "name": "Unaweza",
+        "url": "https://open.spotify.com/album/54pwmwL52ZWDqzxHPoxmY5"
+      },
+      "artists": [
+        {
+          "name": "PAUL CLEMENT",
+          "url": "https://open.spotify.com/artist/4BkrM8kWqVUH2GKIJ8hAPR"
+        },
+        {
+          "name": "Jaque Gachiri",
+          "url": "https://open.spotify.com/artist/6QzgRcXUEtn12axzxwDogi"
+        }
+      ],
+      "date_added": "2026-11-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 1337073,
+      "name": "Unaweza",
+      "url": "https://open.spotify.com/track/5htdpGox5G4EB68HoYmHyS"
     },
     {
       "album": {

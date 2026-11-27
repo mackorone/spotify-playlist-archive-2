@@ -1,12 +1,12 @@
 {
   "description": "This is Earth, Wind & Fire. The essential tracks, all in one playlist.",
-  "num_followers": 376848,
+  "num_followers": 376840,
   "original_name": "This Is Earth, Wind & Fire",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "awOCAAAAAAB6nRzj1VRQ08DQ+6qWou9v",
+  "snapshot_id": "awYlAAAAAACGTf6cbGhtzkqzuVFx+XUK",
   "tracks": [
     {
       "added_at": null,
@@ -327,8 +327,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Millennium",
-        "url": "https://open.spotify.com/album/3iIn06BOVJL8Hf7JEa0UfB"
+        "name": "I Am",
+        "url": "https://open.spotify.com/album/4RLVTxnuVN5ZWZqBFnaaQt"
       },
       "artists": [
         {
@@ -336,9 +336,9 @@
           "url": "https://open.spotify.com/artist/4QQgXkCYTt3BlENzhyNETg"
         }
       ],
-      "duration_ms": 263146,
-      "name": "Spend the Night",
-      "url": "https://open.spotify.com/track/0HaRWfC7s1oKaUnBSwcK03"
+      "duration_ms": 212484,
+      "name": "You and I",
+      "url": "https://open.spotify.com/track/6xGrfYIoclflaZvBUeFAwA"
     },
     {
       "added_at": null,
@@ -359,8 +359,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "I Am",
-        "url": "https://open.spotify.com/album/4RLVTxnuVN5ZWZqBFnaaQt"
+        "name": "Millennium",
+        "url": "https://open.spotify.com/album/3iIn06BOVJL8Hf7JEa0UfB"
       },
       "artists": [
         {
@@ -368,9 +368,25 @@
           "url": "https://open.spotify.com/artist/4QQgXkCYTt3BlENzhyNETg"
         }
       ],
-      "duration_ms": 212484,
-      "name": "You and I",
-      "url": "https://open.spotify.com/track/6xGrfYIoclflaZvBUeFAwA"
+      "duration_ms": 263146,
+      "name": "Spend the Night",
+      "url": "https://open.spotify.com/track/0HaRWfC7s1oKaUnBSwcK03"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Gratitude",
+        "url": "https://open.spotify.com/album/7AqOsJkpKZdkiap6CmIJ3Z"
+      },
+      "artists": [
+        {
+          "name": "Earth, Wind & Fire",
+          "url": "https://open.spotify.com/artist/4QQgXkCYTt3BlENzhyNETg"
+        }
+      ],
+      "duration_ms": 206390,
+      "name": "Gratitude",
+      "url": "https://open.spotify.com/track/3u6RUwssIdqbeXSjU8bX8F"
     },
     {
       "added_at": null,
@@ -491,22 +507,6 @@
       "duration_ms": 235140,
       "name": "Love Music",
       "url": "https://open.spotify.com/track/4a5aC5C4MAfqHPGgVZhSrr"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Gratitude",
-        "url": "https://open.spotify.com/album/7AqOsJkpKZdkiap6CmIJ3Z"
-      },
-      "artists": [
-        {
-          "name": "Earth, Wind & Fire",
-          "url": "https://open.spotify.com/artist/4QQgXkCYTt3BlENzhyNETg"
-        }
-      ],
-      "duration_ms": 206390,
-      "name": "Gratitude",
-      "url": "https://open.spotify.com/track/3u6RUwssIdqbeXSjU8bX8F"
     },
     {
       "added_at": null,
@@ -747,58 +747,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Powerlight",
-        "url": "https://open.spotify.com/album/3hZjcwZDDQOYB9PiGzEKSa"
-      },
-      "artists": [
-        {
-          "name": "Earth, Wind & Fire",
-          "url": "https://open.spotify.com/artist/4QQgXkCYTt3BlENzhyNETg"
-        }
-      ],
-      "duration_ms": 356373,
-      "name": "Side by Side",
-      "url": "https://open.spotify.com/track/1nv7USeo1Y4gqQRqD7PsPI"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "That's The Way Of The World",
-        "url": "https://open.spotify.com/album/5tXZfxvr2VaWibD74nw8VL"
-      },
-      "artists": [
-        {
-          "name": "Earth, Wind & Fire",
-          "url": "https://open.spotify.com/artist/4QQgXkCYTt3BlENzhyNETg"
-        }
-      ],
-      "duration_ms": 215298,
-      "name": "Happy Feelin'",
-      "url": "https://open.spotify.com/track/4X7hACjMfokfcgfNWPasdZ"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Babel - Music From And Inspired By The Motion Picture",
-        "url": "https://open.spotify.com/album/3oHysLqzr30LVkciv5idom"
-      },
-      "artists": [
-        {
-          "name": "Earth, Wind & Fire",
-          "url": "https://open.spotify.com/artist/4QQgXkCYTt3BlENzhyNETg"
-        },
-        {
-          "name": "Fatboy Slim",
-          "url": "https://open.spotify.com/artist/4Y7tXHSEejGu1vQ9bwDdXW"
-        }
-      ],
-      "duration_ms": 389973,
-      "name": "September/The Joker",
-      "url": "https://open.spotify.com/track/1yW6zNGmBCP95LLy2w1p1O"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Let's Go Dumb Crasy",
         "url": "https://open.spotify.com/album/3nmPYcTH2TvFFnxgeCB0MF"
       },
@@ -827,6 +775,38 @@
     {
       "added_at": null,
       "album": {
+        "name": "That's The Way Of The World",
+        "url": "https://open.spotify.com/album/5tXZfxvr2VaWibD74nw8VL"
+      },
+      "artists": [
+        {
+          "name": "Earth, Wind & Fire",
+          "url": "https://open.spotify.com/artist/4QQgXkCYTt3BlENzhyNETg"
+        }
+      ],
+      "duration_ms": 215298,
+      "name": "Happy Feelin'",
+      "url": "https://open.spotify.com/track/4X7hACjMfokfcgfNWPasdZ"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Powerlight",
+        "url": "https://open.spotify.com/album/3hZjcwZDDQOYB9PiGzEKSa"
+      },
+      "artists": [
+        {
+          "name": "Earth, Wind & Fire",
+          "url": "https://open.spotify.com/artist/4QQgXkCYTt3BlENzhyNETg"
+        }
+      ],
+      "duration_ms": 356373,
+      "name": "Side by Side",
+      "url": "https://open.spotify.com/track/1nv7USeo1Y4gqQRqD7PsPI"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Raise!",
         "url": "https://open.spotify.com/album/1hj1SYbJYdXloRiSjsCLXg"
       },
@@ -839,6 +819,26 @@
       "duration_ms": 277543,
       "name": "I've Had Enough",
       "url": "https://open.spotify.com/track/157By8hFx0KvNuSKtjubDo"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Babel - Music From And Inspired By The Motion Picture",
+        "url": "https://open.spotify.com/album/3oHysLqzr30LVkciv5idom"
+      },
+      "artists": [
+        {
+          "name": "Earth, Wind & Fire",
+          "url": "https://open.spotify.com/artist/4QQgXkCYTt3BlENzhyNETg"
+        },
+        {
+          "name": "Fatboy Slim",
+          "url": "https://open.spotify.com/artist/4Y7tXHSEejGu1vQ9bwDdXW"
+        }
+      ],
+      "duration_ms": 389973,
+      "name": "September/The Joker",
+      "url": "https://open.spotify.com/track/1yW6zNGmBCP95LLy2w1p1O"
     },
     {
       "added_at": null,

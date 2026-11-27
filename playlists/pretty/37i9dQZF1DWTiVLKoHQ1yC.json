@@ -1,6 +1,6 @@
 {
   "description": "Come alive with this progressive & melodic house selection.",
-  "num_followers": 265653,
+  "num_followers": 265686,
   "original_name": "Melodic & Euphoric",
   "owner": {
     "name": "Spotify",
@@ -591,26 +591,6 @@
     {
       "added_at": "2026-11-06 00:00:40",
       "album": {
-        "name": "Out Of My Body (feat. EJAE)",
-        "url": "https://open.spotify.com/album/2YidFYtb1VSsHdzodpnBIx"
-      },
-      "artists": [
-        {
-          "name": "Anyma",
-          "url": "https://open.spotify.com/artist/4iBwchw0U0GZv5RfVYSMxN"
-        },
-        {
-          "name": "EJAE",
-          "url": "https://open.spotify.com/artist/0RMJOzHDhAKY1o2j0W0vxY"
-        }
-      ],
-      "duration_ms": 159666,
-      "name": "Out Of My Body (feat. EJAE)",
-      "url": "https://open.spotify.com/track/6YYg1yA4raAeDzixJfITnb"
-    },
-    {
-      "added_at": "2026-11-06 00:00:40",
-      "album": {
         "name": "Let Me Know",
         "url": "https://open.spotify.com/album/4fwWUr4HeZd1D2XwpSadtd"
       },
@@ -627,42 +607,22 @@
     {
       "added_at": "2026-11-06 00:00:40",
       "album": {
-        "name": "Save Me",
-        "url": "https://open.spotify.com/album/4Bq9sY0d1IogWKXnR9JUte"
+        "name": "Out Of My Body (feat. EJAE)",
+        "url": "https://open.spotify.com/album/2YidFYtb1VSsHdzodpnBIx"
       },
       "artists": [
         {
-          "name": "Marten Lou",
-          "url": "https://open.spotify.com/artist/7MmHXD2ESooP0XdgrVuKTK"
+          "name": "Anyma",
+          "url": "https://open.spotify.com/artist/4iBwchw0U0GZv5RfVYSMxN"
         },
         {
-          "name": "CAMELPHAT",
-          "url": "https://open.spotify.com/artist/240wlM8vDrf6S4zCyzGj2W"
+          "name": "EJAE",
+          "url": "https://open.spotify.com/artist/0RMJOzHDhAKY1o2j0W0vxY"
         }
       ],
-      "duration_ms": 212985,
-      "name": "Save Me",
-      "url": "https://open.spotify.com/track/1GaDH1dJfouYubhkaS2gy5"
-    },
-    {
-      "added_at": "2026-11-06 00:00:40",
-      "album": {
-        "name": "Ride At Dawn",
-        "url": "https://open.spotify.com/album/7DiasgKMXc817JWAUi1org"
-      },
-      "artists": [
-        {
-          "name": "Above & Beyond",
-          "url": "https://open.spotify.com/artist/10gzBoINW3cLJfZUka8Zoe"
-        },
-        {
-          "name": "Zo\u00eb Johnston",
-          "url": "https://open.spotify.com/artist/3dWyWwLvZWsWtXZHhmAiFL"
-        }
-      ],
-      "duration_ms": 173554,
-      "name": "Ride At Dawn",
-      "url": "https://open.spotify.com/track/55Q7oDS8Y4e6dYyqZKax7d"
+      "duration_ms": 159666,
+      "name": "Out Of My Body (feat. EJAE)",
+      "url": "https://open.spotify.com/track/6YYg1yA4raAeDzixJfITnb"
     },
     {
       "added_at": "2026-11-06 00:00:40",
@@ -687,42 +647,58 @@
     {
       "added_at": "2026-11-06 00:00:40",
       "album": {
-        "name": "Down For You (feat. Jyll)",
-        "url": "https://open.spotify.com/album/2ZyUqivsK42AcoATdxdUkf"
+        "name": "Ride At Dawn",
+        "url": "https://open.spotify.com/album/7DiasgKMXc817JWAUi1org"
       },
       "artists": [
         {
-          "name": "Franky Wah",
-          "url": "https://open.spotify.com/artist/3IG3Ub4ra8AuSxCFDVkVco"
+          "name": "Above & Beyond",
+          "url": "https://open.spotify.com/artist/10gzBoINW3cLJfZUka8Zoe"
         },
         {
-          "name": "Jyll",
-          "url": "https://open.spotify.com/artist/255QhVPytbdcbgCbHJ5rNe"
+          "name": "Zo\u00eb Johnston",
+          "url": "https://open.spotify.com/artist/3dWyWwLvZWsWtXZHhmAiFL"
         }
       ],
-      "duration_ms": 202500,
-      "name": "Down For You (feat. Jyll)",
-      "url": "https://open.spotify.com/track/5N0hLKYNwYhTLQsGyLz8As"
+      "duration_ms": 173554,
+      "name": "Ride At Dawn",
+      "url": "https://open.spotify.com/track/55Q7oDS8Y4e6dYyqZKax7d"
     },
     {
       "added_at": "2026-11-06 00:00:40",
       "album": {
-        "name": "Ceremony (Feat. Tailor)",
-        "url": "https://open.spotify.com/album/0Ds6w39pEOuMkCCFj4TyCF"
+        "name": "Save Me",
+        "url": "https://open.spotify.com/album/4Bq9sY0d1IogWKXnR9JUte"
+      },
+      "artists": [
+        {
+          "name": "Marten Lou",
+          "url": "https://open.spotify.com/artist/7MmHXD2ESooP0XdgrVuKTK"
+        },
+        {
+          "name": "CAMELPHAT",
+          "url": "https://open.spotify.com/artist/240wlM8vDrf6S4zCyzGj2W"
+        }
+      ],
+      "duration_ms": 212985,
+      "name": "Save Me",
+      "url": "https://open.spotify.com/track/1GaDH1dJfouYubhkaS2gy5"
+    },
+    {
+      "added_at": "2026-11-06 00:00:40",
+      "album": {
+        "name": "Strange",
+        "url": "https://open.spotify.com/album/65UJBXpyTmCV1DPVz5dfBY"
       },
       "artists": [
         {
           "name": "Eli & Fur",
           "url": "https://open.spotify.com/artist/5CkVLGKUJkIc1pmSk10QP4"
-        },
-        {
-          "name": "Tailor",
-          "url": "https://open.spotify.com/artist/2Qf8oz2NeIs8FVCJSsXkWH"
         }
       ],
-      "duration_ms": 209153,
-      "name": "Ceremony (Feat. Tailor)",
-      "url": "https://open.spotify.com/track/0aYwSeY6AHMNyyh4AJyl8o"
+      "duration_ms": 224731,
+      "name": "Strange",
+      "url": "https://open.spotify.com/track/4b0mIhIQikJFdfl3dvvWD6"
     },
     {
       "added_at": "2026-11-06 00:00:40",
@@ -739,6 +715,26 @@
       "duration_ms": 212903,
       "name": "Sewn",
       "url": "https://open.spotify.com/track/5HK5WzgL0w9KS8tqsyGcdM"
+    },
+    {
+      "added_at": "2026-11-06 00:00:40",
+      "album": {
+        "name": "Down For You (feat. Jyll)",
+        "url": "https://open.spotify.com/album/2ZyUqivsK42AcoATdxdUkf"
+      },
+      "artists": [
+        {
+          "name": "Franky Wah",
+          "url": "https://open.spotify.com/artist/3IG3Ub4ra8AuSxCFDVkVco"
+        },
+        {
+          "name": "Jyll",
+          "url": "https://open.spotify.com/artist/255QhVPytbdcbgCbHJ5rNe"
+        }
+      ],
+      "duration_ms": 202500,
+      "name": "Down For You (feat. Jyll)",
+      "url": "https://open.spotify.com/track/5N0hLKYNwYhTLQsGyLz8As"
     },
     {
       "added_at": "2026-11-06 00:00:40",
@@ -779,6 +775,26 @@
     {
       "added_at": "2026-11-06 00:00:40",
       "album": {
+        "name": "Ceremony (Feat. Tailor)",
+        "url": "https://open.spotify.com/album/0Ds6w39pEOuMkCCFj4TyCF"
+      },
+      "artists": [
+        {
+          "name": "Eli & Fur",
+          "url": "https://open.spotify.com/artist/5CkVLGKUJkIc1pmSk10QP4"
+        },
+        {
+          "name": "Tailor",
+          "url": "https://open.spotify.com/artist/2Qf8oz2NeIs8FVCJSsXkWH"
+        }
+      ],
+      "duration_ms": 209153,
+      "name": "Ceremony (Feat. Tailor)",
+      "url": "https://open.spotify.com/track/0aYwSeY6AHMNyyh4AJyl8o"
+    },
+    {
+      "added_at": "2026-11-06 00:00:40",
+      "album": {
         "name": "Flashes",
         "url": "https://open.spotify.com/album/1kNXd72fsJqBszEM7cmcmK"
       },
@@ -795,22 +811,6 @@
       "duration_ms": 239500,
       "name": "Flashes",
       "url": "https://open.spotify.com/track/584s5UwLH5sCdEUv6z46Xm"
-    },
-    {
-      "added_at": "2026-11-06 00:00:40",
-      "album": {
-        "name": "Strange",
-        "url": "https://open.spotify.com/album/65UJBXpyTmCV1DPVz5dfBY"
-      },
-      "artists": [
-        {
-          "name": "Eli & Fur",
-          "url": "https://open.spotify.com/artist/5CkVLGKUJkIc1pmSk10QP4"
-        }
-      ],
-      "duration_ms": 224731,
-      "name": "Strange",
-      "url": "https://open.spotify.com/track/4b0mIhIQikJFdfl3dvvWD6"
     },
     {
       "added_at": "2026-11-06 00:00:40",
@@ -955,6 +955,26 @@
     {
       "added_at": "2026-11-06 00:00:40",
       "album": {
+        "name": "Blinded By The Lights",
+        "url": "https://open.spotify.com/album/4MyxdMHn11T7yNrUVeEuJq"
+      },
+      "artists": [
+        {
+          "name": "Kryder",
+          "url": "https://open.spotify.com/artist/1xfLBmx0n8DQri9HxJsq9O"
+        },
+        {
+          "name": "Cammie Robinson",
+          "url": "https://open.spotify.com/artist/4CzzY9kG8C2BLOuTuy3oLe"
+        }
+      ],
+      "duration_ms": 166178,
+      "name": "Blinded By The Lights",
+      "url": "https://open.spotify.com/track/7hrGjo6HMiPQjD0Ruc5yrl"
+    },
+    {
+      "added_at": "2026-11-06 00:00:40",
+      "album": {
         "name": "Goddess",
         "url": "https://open.spotify.com/album/02hZdMx9nXn5VyCMalWTnj"
       },
@@ -1027,26 +1047,6 @@
     {
       "added_at": "2026-11-06 00:00:40",
       "album": {
-        "name": "Blinded By The Lights",
-        "url": "https://open.spotify.com/album/4MyxdMHn11T7yNrUVeEuJq"
-      },
-      "artists": [
-        {
-          "name": "Kryder",
-          "url": "https://open.spotify.com/artist/1xfLBmx0n8DQri9HxJsq9O"
-        },
-        {
-          "name": "Cammie Robinson",
-          "url": "https://open.spotify.com/artist/4CzzY9kG8C2BLOuTuy3oLe"
-        }
-      ],
-      "duration_ms": 166178,
-      "name": "Blinded By The Lights",
-      "url": "https://open.spotify.com/track/7hrGjo6HMiPQjD0Ruc5yrl"
-    },
-    {
-      "added_at": "2026-11-06 00:00:40",
-      "album": {
         "name": "How Does It Feel",
         "url": "https://open.spotify.com/album/5g7eHEiWZexaG3OoMTY8Jk"
       },
@@ -1087,26 +1087,6 @@
     {
       "added_at": "2026-11-06 00:00:40",
       "album": {
-        "name": "Three",
-        "url": "https://open.spotify.com/album/3rRRiDr7Z47Lv2DTZRIuGV"
-      },
-      "artists": [
-        {
-          "name": "Mahmut Orhan",
-          "url": "https://open.spotify.com/artist/3t8WiyalpvnB9AObcMufiE"
-        },
-        {
-          "name": "Felix Raphael",
-          "url": "https://open.spotify.com/artist/4nknUpUYu4baxWwkunq81Z"
-        }
-      ],
-      "duration_ms": 179678,
-      "name": "Three",
-      "url": "https://open.spotify.com/track/2b0xpf2dOP8qsRPAAEOHcw"
-    },
-    {
-      "added_at": "2026-11-06 00:00:40",
-      "album": {
         "name": "I'm On My Way",
         "url": "https://open.spotify.com/album/1PmoRrq9lPAVg7uDGOWyX7"
       },
@@ -1139,6 +1119,26 @@
       "duration_ms": 186785,
       "name": "Man On Fire",
       "url": "https://open.spotify.com/track/1jg9RaPAzIQfOK5GJ0LOs0"
+    },
+    {
+      "added_at": "2026-11-06 00:00:40",
+      "album": {
+        "name": "Three",
+        "url": "https://open.spotify.com/album/3rRRiDr7Z47Lv2DTZRIuGV"
+      },
+      "artists": [
+        {
+          "name": "Mahmut Orhan",
+          "url": "https://open.spotify.com/artist/3t8WiyalpvnB9AObcMufiE"
+        },
+        {
+          "name": "Felix Raphael",
+          "url": "https://open.spotify.com/artist/4nknUpUYu4baxWwkunq81Z"
+        }
+      ],
+      "duration_ms": 179678,
+      "name": "Three",
+      "url": "https://open.spotify.com/track/2b0xpf2dOP8qsRPAAEOHcw"
     },
     {
       "added_at": "2026-11-06 00:00:40",

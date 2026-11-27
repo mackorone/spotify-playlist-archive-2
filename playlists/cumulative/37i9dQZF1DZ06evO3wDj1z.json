@@ -740,10 +740,28 @@
       ],
       "date_added": "2022-06-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-27",
       "duration_ms": 190026,
       "name": "La Maestra - Ranchera Version",
       "url": "https://open.spotify.com/track/1UUutkWcWg1vUeuWIlsuqW"
+    },
+    {
+      "album": {
+        "name": "Necesito Due\u00f1a",
+        "url": "https://open.spotify.com/album/0ow5H1Ztq6bPN6V5TAUVEY"
+      },
+      "artists": [
+        {
+          "name": "Sergio Vega \"El Shaka\"",
+          "url": "https://open.spotify.com/artist/5YNi3BopLa4XtYRtzML80L"
+        }
+      ],
+      "date_added": "2026-11-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 191240,
+      "name": "La Maestra - Ranchera Version",
+      "url": "https://open.spotify.com/track/6psGliGcLuOtplggEsjsrb"
     },
     {
       "album": {

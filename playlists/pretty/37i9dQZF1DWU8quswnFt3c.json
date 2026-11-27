@@ -1,6 +1,6 @@
 {
   "description": "Listen to women at full volume with Miss Monique from Ukraine.",
-  "num_followers": 1019154,
+  "num_followers": 1019061,
   "original_name": "EQUAL",
   "owner": {
     "name": "Spotify",
@@ -571,6 +571,22 @@
     {
       "added_at": "2026-11-20 05:00:23",
       "album": {
+        "name": "Keddab",
+        "url": "https://open.spotify.com/album/430OinMfmEtvRBeKNYPbeL"
+      },
+      "artists": [
+        {
+          "name": "ASSIA",
+          "url": "https://open.spotify.com/artist/3x7veOAhTEg0Z3abcNQhzu"
+        }
+      ],
+      "duration_ms": 166779,
+      "name": "Keddab",
+      "url": "https://open.spotify.com/track/7Hh4hykGxO7hT0FoFVkonP"
+    },
+    {
+      "added_at": "2026-11-20 05:00:23",
+      "album": {
         "name": "Everyday, Everything Is At Stake",
         "url": "https://open.spotify.com/album/73MzukUBuiIOYbC6V3P4Wj"
       },
@@ -587,18 +603,18 @@
     {
       "added_at": "2026-11-20 05:00:23",
       "album": {
-        "name": "Keddab",
-        "url": "https://open.spotify.com/album/430OinMfmEtvRBeKNYPbeL"
+        "name": "\u91cd\u5beb\u7b2c\u4e00\u7ae0",
+        "url": "https://open.spotify.com/album/15RnFD9jAQj0z3ZFKBZzM6"
       },
       "artists": [
         {
-          "name": "ASSIA",
-          "url": "https://open.spotify.com/artist/3x7veOAhTEg0Z3abcNQhzu"
+          "name": "JOYY",
+          "url": "https://open.spotify.com/artist/7L98ngCpo0DMZDBeJXQB3h"
         }
       ],
-      "duration_ms": 166779,
-      "name": "Keddab",
-      "url": "https://open.spotify.com/track/7Hh4hykGxO7hT0FoFVkonP"
+      "duration_ms": 212500,
+      "name": "\u96b1\u75db",
+      "url": "https://open.spotify.com/track/6U2ZB5NZTr5qHfVTSouaXD"
     },
     {
       "added_at": "2026-11-20 05:00:23",
@@ -623,22 +639,6 @@
     {
       "added_at": "2026-11-20 05:00:23",
       "album": {
-        "name": "\u91cd\u5beb\u7b2c\u4e00\u7ae0",
-        "url": "https://open.spotify.com/album/15RnFD9jAQj0z3ZFKBZzM6"
-      },
-      "artists": [
-        {
-          "name": "JOYY",
-          "url": "https://open.spotify.com/artist/7L98ngCpo0DMZDBeJXQB3h"
-        }
-      ],
-      "duration_ms": 212500,
-      "name": "\u96b1\u75db",
-      "url": "https://open.spotify.com/track/6U2ZB5NZTr5qHfVTSouaXD"
-    },
-    {
-      "added_at": "2026-11-20 05:00:23",
-      "album": {
         "name": "Heartsong",
         "url": "https://open.spotify.com/album/5bOHldwxMlxDhzSuMc1s8G"
       },
@@ -655,22 +655,6 @@
     {
       "added_at": "2026-11-20 05:00:23",
       "album": {
-        "name": "Everyday, Everything Is At Stake",
-        "url": "https://open.spotify.com/album/73MzukUBuiIOYbC6V3P4Wj"
-      },
-      "artists": [
-        {
-          "name": "Thoom",
-          "url": "https://open.spotify.com/artist/2Tpvy7ryLgM835gDgN2nL5"
-        }
-      ],
-      "duration_ms": 158787,
-      "name": "December Forever",
-      "url": "https://open.spotify.com/track/1lV0KkH0yn4nxdfxQUlOoy"
-    },
-    {
-      "added_at": "2026-11-20 05:00:23",
-      "album": {
         "name": "Almohada",
         "url": "https://open.spotify.com/album/2LtO4iBh2fHscyiVnPq1cw"
       },
@@ -683,6 +667,22 @@
       "duration_ms": 222120,
       "name": "Almohada",
       "url": "https://open.spotify.com/track/4GWsAeu3Ga2NR0XpRWdpB8"
+    },
+    {
+      "added_at": "2026-11-20 05:00:23",
+      "album": {
+        "name": "Everyday, Everything Is At Stake",
+        "url": "https://open.spotify.com/album/73MzukUBuiIOYbC6V3P4Wj"
+      },
+      "artists": [
+        {
+          "name": "Thoom",
+          "url": "https://open.spotify.com/artist/2Tpvy7ryLgM835gDgN2nL5"
+        }
+      ],
+      "duration_ms": 158787,
+      "name": "December Forever",
+      "url": "https://open.spotify.com/track/1lV0KkH0yn4nxdfxQUlOoy"
     },
     {
       "added_at": "2026-11-20 05:00:23",
@@ -707,22 +707,6 @@
     {
       "added_at": "2026-11-20 05:00:23",
       "album": {
-        "name": "The Doves Came Home",
-        "url": "https://open.spotify.com/album/6stW0BEOqA6F0Gi7inuzLS"
-      },
-      "artists": [
-        {
-          "name": "Shye",
-          "url": "https://open.spotify.com/artist/1aqEk77J220IxgnGsgEz9T"
-        }
-      ],
-      "duration_ms": 277060,
-      "name": "Smoke",
-      "url": "https://open.spotify.com/track/5IGQIUoXm7ZsMXUkHRIsMg"
-    },
-    {
-      "added_at": "2026-11-20 05:00:23",
-      "album": {
         "name": "Aray ko Salikaka",
         "url": "https://open.spotify.com/album/40B63bA8qzo6lrmQ29rEjg"
       },
@@ -739,18 +723,18 @@
     {
       "added_at": "2026-11-20 05:00:23",
       "album": {
-        "name": "Aayi Teri Baat Mein",
-        "url": "https://open.spotify.com/album/6UjCMR7x2WcwXK4ominJcN"
+        "name": "The Doves Came Home",
+        "url": "https://open.spotify.com/album/6stW0BEOqA6F0Gi7inuzLS"
       },
       "artists": [
         {
-          "name": "Palak Muchhal",
-          "url": "https://open.spotify.com/artist/3yMmYEklQ7gLOZXEFNd3xr"
+          "name": "Shye",
+          "url": "https://open.spotify.com/artist/1aqEk77J220IxgnGsgEz9T"
         }
       ],
-      "duration_ms": 184746,
-      "name": "Aayi Teri Baat Mein",
-      "url": "https://open.spotify.com/track/5QmM1gtD8wHYQuBFOUcrGy"
+      "duration_ms": 277060,
+      "name": "Smoke",
+      "url": "https://open.spotify.com/track/5IGQIUoXm7ZsMXUkHRIsMg"
     },
     {
       "added_at": "2026-11-20 05:00:23",
@@ -767,6 +751,22 @@
       "duration_ms": 184313,
       "name": "Por Debajo De La Mesa",
       "url": "https://open.spotify.com/track/3fkdu0ySrFF0Y3VAyyGPjL"
+    },
+    {
+      "added_at": "2026-11-20 05:00:23",
+      "album": {
+        "name": "Aayi Teri Baat Mein",
+        "url": "https://open.spotify.com/album/6UjCMR7x2WcwXK4ominJcN"
+      },
+      "artists": [
+        {
+          "name": "Palak Muchhal",
+          "url": "https://open.spotify.com/artist/3yMmYEklQ7gLOZXEFNd3xr"
+        }
+      ],
+      "duration_ms": 184746,
+      "name": "Aayi Teri Baat Mein",
+      "url": "https://open.spotify.com/track/5QmM1gtD8wHYQuBFOUcrGy"
     },
     {
       "added_at": "2026-11-20 05:00:23",

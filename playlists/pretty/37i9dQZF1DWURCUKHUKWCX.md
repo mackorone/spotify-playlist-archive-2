@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWURCUKHUKWCX.md) - [plain]
 
 > Atmospheric and emotional piano pieces.
 
-[Spotify](https://open.spotify.com/user/spotify) - 583,303 likes - 192 songs - 9 hr 55 min
+[Spotify](https://open.spotify.com/user/spotify) - 583,327 likes - 192 songs - 9 hr 55 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -17,17 +17,17 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWURCUKHUKWCX.md) - [plain]
 | 7 | [Adagio \(Ravel\)](https://open.spotify.com/track/64qeNInhPT3TKPCc6eKyy3) | [Maurice Ravel](https://open.spotify.com/artist/17hR0sYHpx7VYTMRfFUOmY), [Matteo Myderwyk](https://open.spotify.com/artist/5fNGQT58pOykJbZQVDx3R6) | [Ravel \(Encores\)](https://open.spotify.com/album/4enKowMiwzVBUqTLYb6CHh) | 2:47 |
 | 8 | [Echoes of Colors](https://open.spotify.com/track/2iK2iWYwUGp19nevOXCzdk) | [Patrick Hamilton](https://open.spotify.com/artist/5gxCZXXCHpwrqcCJxq0VhJ) | [Echoes of Colors](https://open.spotify.com/album/0RsZUNP73u5mPVm3sABojG) | 2:25 |
 | 9 | [Always Know](https://open.spotify.com/track/2suwcmJtyWrVOTI7o0x144) | [Jon Batiste](https://open.spotify.com/artist/0eRbECAGCLLiTyVXPBRexU) | [Always Know](https://open.spotify.com/album/3dMZmG47IGKlzmzHw8Aixc) | 3:43 |
-| 10 | [BRUM3](https://open.spotify.com/track/27Dczt5NLzWYdEwN2ilMN7) | [Vulax](https://open.spotify.com/artist/2WNzDCBl2ibX17FoW5byBc) | [AUTUMN](https://open.spotify.com/album/2apVNBxkjBe4IbKFoyuUEI) | 2:37 |
-| 11 | [Poco Allegretto \(after Brahms\) \- Memories of a Symphony](https://open.spotify.com/track/1ikKKTO0Hr7XVkTP79s0gb) | [Johannes Brahms](https://open.spotify.com/artist/5wTAi7QkpP6kp8a54lmTOq), [Javier Escudero](https://open.spotify.com/artist/6A92FyWQLVbUdIjQJjge6N) | [Poco Allegretto \(after Brahms\) \- Memories of a Symphony](https://open.spotify.com/album/61o2xJRfCMVmEZIL2BbeO6) | 2:26 |
-| 12 | [From Afar](https://open.spotify.com/track/4QgjhskI1iRNLzPKXDIDZI) | [Dirk Maassen](https://open.spotify.com/artist/758yIKdhJhWL6oTuTSFVV6) | [From Afar](https://open.spotify.com/album/58GecIwjleoA2VnBeEX7Tu) | 3:31 |
-| 13 | [Solêr](https://open.spotify.com/track/3SsXxuvEu20CnDg7LUNFDY) | [Otto A\. Totland](https://open.spotify.com/artist/0Dc8oO0rYX3DgirVK88dcl) | [Pinô](https://open.spotify.com/album/7uPWpTHYqHEQTpZIlgELQK) | 2:35 |
-| 14 | [Notturno per Noto](https://open.spotify.com/track/5i0IeTriPB0PUtYn0xkXDA) | [Patrick Hamilton](https://open.spotify.com/artist/5gxCZXXCHpwrqcCJxq0VhJ) | [Colors \(Deluxe\)](https://open.spotify.com/album/43fRAd4ll6yo8qDKBg2d6U) | 2:53 |
-| 15 | [Bhairav Rising \(feat\. Purbayan Chatterjee\)](https://open.spotify.com/track/0K6fLzHP5Ypo2OKBs4Mfxc) | [Chad Lawson](https://open.spotify.com/artist/72uoxerTvAd7x3cbfYmNc8), [Purbayan Chatterjee](https://open.spotify.com/artist/7cOq32s7XaaDAgYnMp7aPW) | [Awakening: The Stillness Within](https://open.spotify.com/album/2salpedZAfs33O9ChRNMyI) | 7:13 |
-| 16 | [Silent Fields \- Upright Version](https://open.spotify.com/track/37HHQF6PxPmumZWsaxvtg1) | [Justus Eichhorn](https://open.spotify.com/artist/6qiCMD9orWGdxUkJXP7hqY) | [Eichhorn: Silent Fields \(Upright Version\)](https://open.spotify.com/album/7qZ6kPUGniTnP4icsbT4zr) | 2:57 |
-| 17 | [Memore](https://open.spotify.com/track/4DafMfmtxcIr3ld1FGhSYk) | [Olivia Belli](https://open.spotify.com/artist/3JU9NLB27wyGhbwbApR9uy) | [Stanze Memori](https://open.spotify.com/album/11qXmDFDlQSCyufLQSpYk1) | 2:45 |
-| 18 | [room enough \- solo piano](https://open.spotify.com/track/6cnk6JzRl70Mmo2NUzERFI) | [Chad Lawson](https://open.spotify.com/artist/72uoxerTvAd7x3cbfYmNc8) | [room enough](https://open.spotify.com/album/2fMH2sy4zccBBLhNJwcDiB) | 5:04 |
-| 19 | [MEM](https://open.spotify.com/track/0coFg5hgu9YBlSyEgFt1cC) | [Martin Kohlstedt](https://open.spotify.com/artist/5odNYb0R6MGVmindrMrYyk) | [Kluft](https://open.spotify.com/album/19Kk94KsyYLDwaPmPcJENH) | 4:25 |
-| 20 | [Lontano](https://open.spotify.com/track/6FlPPlBm1BvBe3my3dOkh8) | [Dirk Maassen](https://open.spotify.com/artist/758yIKdhJhWL6oTuTSFVV6) | [Eden](https://open.spotify.com/album/00Pl5Bh1mcV5t5gAFmQR1H) | 4:08 |
+| 10 | [Poco Allegretto \(after Brahms\) \- Memories of a Symphony](https://open.spotify.com/track/1ikKKTO0Hr7XVkTP79s0gb) | [Johannes Brahms](https://open.spotify.com/artist/5wTAi7QkpP6kp8a54lmTOq), [Javier Escudero](https://open.spotify.com/artist/6A92FyWQLVbUdIjQJjge6N) | [Poco Allegretto \(after Brahms\) \- Memories of a Symphony](https://open.spotify.com/album/61o2xJRfCMVmEZIL2BbeO6) | 2:26 |
+| 11 | [From Afar](https://open.spotify.com/track/4QgjhskI1iRNLzPKXDIDZI) | [Dirk Maassen](https://open.spotify.com/artist/758yIKdhJhWL6oTuTSFVV6) | [From Afar](https://open.spotify.com/album/58GecIwjleoA2VnBeEX7Tu) | 3:31 |
+| 12 | [Solêr](https://open.spotify.com/track/3SsXxuvEu20CnDg7LUNFDY) | [Otto A\. Totland](https://open.spotify.com/artist/0Dc8oO0rYX3DgirVK88dcl) | [Pinô](https://open.spotify.com/album/7uPWpTHYqHEQTpZIlgELQK) | 2:35 |
+| 13 | [Notturno per Noto](https://open.spotify.com/track/5i0IeTriPB0PUtYn0xkXDA) | [Patrick Hamilton](https://open.spotify.com/artist/5gxCZXXCHpwrqcCJxq0VhJ) | [Colors \(Deluxe\)](https://open.spotify.com/album/43fRAd4ll6yo8qDKBg2d6U) | 2:53 |
+| 14 | [Bhairav Rising \(feat\. Purbayan Chatterjee\)](https://open.spotify.com/track/0K6fLzHP5Ypo2OKBs4Mfxc) | [Chad Lawson](https://open.spotify.com/artist/72uoxerTvAd7x3cbfYmNc8), [Purbayan Chatterjee](https://open.spotify.com/artist/7cOq32s7XaaDAgYnMp7aPW) | [Awakening: The Stillness Within](https://open.spotify.com/album/2salpedZAfs33O9ChRNMyI) | 7:13 |
+| 15 | [Silent Fields \- Upright Version](https://open.spotify.com/track/37HHQF6PxPmumZWsaxvtg1) | [Justus Eichhorn](https://open.spotify.com/artist/6qiCMD9orWGdxUkJXP7hqY) | [Eichhorn: Silent Fields \(Upright Version\)](https://open.spotify.com/album/7qZ6kPUGniTnP4icsbT4zr) | 2:57 |
+| 16 | [Memore](https://open.spotify.com/track/4DafMfmtxcIr3ld1FGhSYk) | [Olivia Belli](https://open.spotify.com/artist/3JU9NLB27wyGhbwbApR9uy) | [Stanze Memori](https://open.spotify.com/album/11qXmDFDlQSCyufLQSpYk1) | 2:45 |
+| 17 | [room enough \- solo piano](https://open.spotify.com/track/6cnk6JzRl70Mmo2NUzERFI) | [Chad Lawson](https://open.spotify.com/artist/72uoxerTvAd7x3cbfYmNc8) | [room enough](https://open.spotify.com/album/2fMH2sy4zccBBLhNJwcDiB) | 5:04 |
+| 18 | [MEM](https://open.spotify.com/track/0coFg5hgu9YBlSyEgFt1cC) | [Martin Kohlstedt](https://open.spotify.com/artist/5odNYb0R6MGVmindrMrYyk) | [Kluft](https://open.spotify.com/album/19Kk94KsyYLDwaPmPcJENH) | 4:25 |
+| 19 | [Lontano](https://open.spotify.com/track/6FlPPlBm1BvBe3my3dOkh8) | [Dirk Maassen](https://open.spotify.com/artist/758yIKdhJhWL6oTuTSFVV6) | [Eden](https://open.spotify.com/album/00Pl5Bh1mcV5t5gAFmQR1H) | 4:08 |
+| 20 | [BRUM3](https://open.spotify.com/track/27Dczt5NLzWYdEwN2ilMN7) | [Vulax](https://open.spotify.com/artist/2WNzDCBl2ibX17FoW5byBc) | [AUTUMN](https://open.spotify.com/album/2apVNBxkjBe4IbKFoyuUEI) | 2:37 |
 | 21 | [White Flowers Take Their Bath \- Version for Piano](https://open.spotify.com/track/62RdrnQoCnhdMfKgNCe42z) | [Meredi](https://open.spotify.com/artist/3JIwUwScCrI3OUwj50CT1H) | [Meredi: White Flowers Take Their Bath \(Version for Piano\)](https://open.spotify.com/album/1YOOl1LRKhoZ33cDnihiRZ) | 3:22 |
 | 22 | [Metamorphosis Two](https://open.spotify.com/track/70bIGumCDM0MT1gATtpO00) | [Philip Glass](https://open.spotify.com/artist/69lxxQvsfAIoQbB20bEPFC), [Olivia Belli](https://open.spotify.com/artist/3JU9NLB27wyGhbwbApR9uy) | [Metamorphosis Two](https://open.spotify.com/album/4sMimTNCh4SkFhVzWL50Zj) | 6:56 |
 | 23 | [4am feeling](https://open.spotify.com/track/0hYaiWcaYmFx6Blaa6tGwn) | [Ola Gjeilo](https://open.spotify.com/artist/29lbSb4ujaVH5pHnQjFT0G) | [4am feeling](https://open.spotify.com/album/6URUq1pOo7FVUTCIO2xkSk) | 3:00 |
@@ -201,4 +201,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWURCUKHUKWCX.md) - [plain]
 | 191 | [Spartacus Love Theme](https://open.spotify.com/track/6VtKjjaeZIsGIf7pqXJDoA) | [Alex North](https://open.spotify.com/artist/2x2WoBP4HIXYCxxNzfGG34), [ARSHA KAVIANI](https://open.spotify.com/artist/6X2QoSBLc6zeYdIQrtLNed) | [Accents & Echoes](https://open.spotify.com/album/6hitDfHO4Bhp0709ZY2Mag) | 3:36 |
 | 192 | [Dono Per un Addio](https://open.spotify.com/track/0u3w1DZDNaVkCIQCD5b4Mq) | [Dardust](https://open.spotify.com/artist/6JhUHne9H09NdkTI5E9GSt) | [\#001 Coordinate](https://open.spotify.com/album/32zxMMLPHaqd6R5kEs1ayQ) | 4:21 |
 
-Snapshot ID: `AAAAAI6beBsv36aJmutAaSM6VRTvxlpZ`
+Snapshot ID: `AAAAAL6Ao4hEVlFSD9LoOvodsd6qwmlt`

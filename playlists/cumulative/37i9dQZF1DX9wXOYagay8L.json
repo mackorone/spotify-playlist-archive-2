@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2021-12-29",
-  "description": "Proudly Southern African Afropop gems. Cover: The Joy",
+  "description": "Proudly Southern African Afropop gems. Cover: Simmy",
   "name": "Made In South Africa",
   "tracks": [
     {
@@ -2092,7 +2092,7 @@
       ],
       "date_added": "2025-09-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-27",
       "duration_ms": 273253,
       "name": "Black Sweater",
       "url": "https://open.spotify.com/track/3pdGzKXpQPLstXujPTZQg5"
@@ -4704,6 +4704,28 @@
       "duration_ms": 296470,
       "name": "Ibandla",
       "url": "https://open.spotify.com/track/6EpoJJIRPkO79fFZvGzSY6"
+    },
+    {
+      "album": {
+        "name": "eFairyland, Vol. 2",
+        "url": "https://open.spotify.com/album/14ITj1rAGNkUdki9rI09nH"
+      },
+      "artists": [
+        {
+          "name": "Simmy",
+          "url": "https://open.spotify.com/artist/3MjlXVCfmLdY9QQ2GCd7iA"
+        },
+        {
+          "name": "Lwah Ndlunkulu",
+          "url": "https://open.spotify.com/artist/2h9NlcdGxIEnnh5aQuSeZ1"
+        }
+      ],
+      "date_added": "2026-11-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 255287,
+      "name": "Ibhemile",
+      "url": "https://open.spotify.com/track/5B29Ebw8tFlxyDDOeU6W8O"
     },
     {
       "album": {

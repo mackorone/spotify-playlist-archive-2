@@ -1030,7 +1030,7 @@
       ],
       "date_added": "2026-07-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-27",
       "duration_ms": 240004,
       "name": "Afterlife",
       "url": "https://open.spotify.com/track/2qt1p3NHil24W9gd8IrEK5"
@@ -11023,6 +11023,28 @@
     },
     {
       "album": {
+        "name": "IKARUS",
+        "url": "https://open.spotify.com/album/5SLPdUj4jq1nZ99qxTzYHr"
+      },
+      "artists": [
+        {
+          "name": "Thomas Schumacher",
+          "url": "https://open.spotify.com/artist/7KkV7dFoGEXr4M3fpb1FgD"
+        },
+        {
+          "name": "A.D.H.S.",
+          "url": "https://open.spotify.com/artist/7t6VUymL8RQKVqKQW9VTLl"
+        }
+      ],
+      "date_added": "2026-11-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 287555,
+      "name": "IKARUS",
+      "url": "https://open.spotify.com/track/4ItP4iaAEkEuy1tKtLnUmZ"
+    },
+    {
+      "album": {
         "name": "Rain",
         "url": "https://open.spotify.com/album/3rcMEaH5c4wJv3LUF1LJnb"
       },
@@ -11234,7 +11256,7 @@
       ],
       "date_added": "2026-07-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-27",
       "duration_ms": 125957,
       "name": "In Your Mind",
       "url": "https://open.spotify.com/track/1wqbfeYOH4xOXFJqnJsZm1"
@@ -23106,6 +23128,36 @@
       "duration_ms": 259354,
       "name": "The Pill",
       "url": "https://open.spotify.com/track/6YLm1kEhrpM48rfL1t3tH3"
+    },
+    {
+      "album": {
+        "name": "The Portal EP",
+        "url": "https://open.spotify.com/album/1I1YX0pkJIFLYUF5JcEmph"
+      },
+      "artists": [
+        {
+          "name": "Charlotte de Witte",
+          "url": "https://open.spotify.com/artist/1lJhME1ZpzsEa5M0wW6Mso"
+        },
+        {
+          "name": "Avalon",
+          "url": "https://open.spotify.com/artist/0SFwBkGokPRtTX212zO7xo"
+        },
+        {
+          "name": "GMS",
+          "url": "https://open.spotify.com/artist/1jLsr1sNO2WshuzmSibSIt"
+        },
+        {
+          "name": "Age of Acid",
+          "url": "https://open.spotify.com/artist/0YogsXKqBux48FK5lqYY9F"
+        }
+      ],
+      "date_added": "2026-11-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 642253,
+      "name": "The Portal",
+      "url": "https://open.spotify.com/track/5jQJndGHgUi5HcbTi3gOjs"
     },
     {
       "album": {

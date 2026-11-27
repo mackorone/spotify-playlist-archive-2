@@ -2,9 +2,9 @@
 
 ### [Grand Hit](https://open.spotify.com/playlist/37i9dQZF1DXcSPhLAnCjoM)
 
-> "Chaussures Roses" de TeddyBear est le Grand Hit de la semaine.
+> "Sous influence" d'Eddy de Pretto est le Grand Hit de la semaine.
 
-358 songs - 18 hr 18 min
+359 songs - 18 hr 21 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -160,6 +160,7 @@
 | [Je veux, je veux, je veux](https://open.spotify.com/track/1O1BFGmTnnRX5L6FAQeMyI) | [chien noir](https://open.spotify.com/artist/2MdOIYu5xlRSog6P2i4uwP) | [Je veux, je veux, je veux](https://open.spotify.com/album/2Vm3JlbhgYPWjD6wsOgwlS) | 2:52 | 2023-09-28 | 2023-10-06 |
 | [Je Vis Pour Elle \(feat\. Kendji Girac\)](https://open.spotify.com/track/5PTRbObGxCYNkmzKcwY4RF) | [Andrea Bocelli](https://open.spotify.com/artist/3EA9hVIzKfFiQI0Kikz2wo), [Kendji Girac](https://open.spotify.com/artist/4IS4EyXNmiI2w5SRCjMtEF) | [Je Vis Pour Elle \(feat\. Kendji Girac\)](https://open.spotify.com/album/0D2Hgi2CrM24wn1pdBN1sp) | 4:25 | 2025-02-27 | 2025-07-25 |
 | [Jet Lag](https://open.spotify.com/track/7fRTjRTHXx2NeDsU6V0585) | [LUIZA](https://open.spotify.com/artist/3K5sYlHk7RZimjYhUWej8D) | [Jet Lag](https://open.spotify.com/album/4cUQUMvniiMM4NVpIxH1Kh) | 2:45 | 2026-04-23 |  |
+| [Jeune Demoiselle](https://open.spotify.com/track/4uie9TydlbuQRptziBOzss) | [Manon Lisa](https://open.spotify.com/artist/2qzxrbVBGwJjYOay7mJmhf) | [Jeune Demoiselle](https://open.spotify.com/album/2AWZKCVDQGrAIiLNuBd9CG) | 2:27 | 2026-11-26 |  |
 | [Julia](https://open.spotify.com/track/3yNkZsAusrKllNWP4cvUH8) | [Aliocha Schneider](https://open.spotify.com/artist/186IEnMYqWBPOAFn78wTPB) | [Aliocha Schneider](https://open.spotify.com/album/6qXsItClo7MADiKsiMZIAx) | 2:38 | 2024-09-12 | 2025-02-28 |
 | [Jusqu'au dernier \- Version radio](https://open.spotify.com/track/0d3ewnwyQPx7ypLCucYlEW) | [Les Enfoirés](https://open.spotify.com/artist/1OCpqnXexjxrakYtmur3rN) | [Jusqu'au dernier \(Version radio\)](https://open.spotify.com/album/2GDz2nLvPZHfK281ILjqfw) | 3:04 | 2024-01-25 | 2024-05-17 |
 | [Juste un peu](https://open.spotify.com/track/7vNKvKNraI2IAooZMMiBzZ) | [Jungeli](https://open.spotify.com/artist/6L8y2rKomt32RmT4wfwZS7), [EMMA](https://open.spotify.com/artist/0p6woNDdqjwgcl4uLuCX4V) | [Juste un peu](https://open.spotify.com/album/7A3ec7fkFbwyH6jyjPatCJ) | 2:34 | 2026-06-25 |  |
@@ -183,7 +184,7 @@
 | [La lune](https://open.spotify.com/track/4mNIlqifKuEfnf03MIFEOw) | [Christophe Maé](https://open.spotify.com/artist/7jgnJBnpZTiGnCF2Wvka2Z) | [La lune](https://open.spotify.com/album/7Jb1IPLlgsMbIubX0UqeLf) | 3:28 | 2026-02-12 |  |
 | [la maison](https://open.spotify.com/track/6LwRx3YAwMp3VmDxAHVpP6) | [marguerite](https://open.spotify.com/artist/4jF2P66DtNEficnixuIhKQ) | [grandir](https://open.spotify.com/album/081gGbY0tkx9wYxbORdgA7) | 2:34 | 2025-10-23 | 2026-04-24 |
 | [la pluie](https://open.spotify.com/track/1xNEjz5Wfhb5ApOMN0Xr8Q) | [Louane](https://open.spotify.com/artist/7wjeXCtRND2ZdKfMJFu6JC) | [la pluie](https://open.spotify.com/album/13N4j77R6XsNHGwwtl6npd) | 2:41 | 2024-07-04 | 2025-03-21 |
-| [La recette](https://open.spotify.com/track/3KJtQJVParlVJopsz3JMnB) | [Jeck](https://open.spotify.com/artist/1kvygchIwU4XHXY8xD6ugf), [Carla](https://open.spotify.com/artist/7dgCfYEmAX7OxaYWgCGxAr) | [Oxygène](https://open.spotify.com/album/21ykfEipigcGgtUQFRcjkJ) | 3:02 | 2026-02-05 |  |
+| [La recette](https://open.spotify.com/track/3KJtQJVParlVJopsz3JMnB) | [Jeck](https://open.spotify.com/artist/1kvygchIwU4XHXY8xD6ugf), [Carla](https://open.spotify.com/artist/7dgCfYEmAX7OxaYWgCGxAr) | [Oxygène](https://open.spotify.com/album/21ykfEipigcGgtUQFRcjkJ) | 3:02 | 2026-02-05 | 2026-11-27 |
 | [La symphonie des éclairs](https://open.spotify.com/track/4QIH0XYnCLoCl1WZIV08Pn) | [Zaho de Sagazan](https://open.spotify.com/artist/38GSybQjdc6sxptciOkxMq) | [La symphonie des éclairs](https://open.spotify.com/album/5GoDO8a03bxSSxMCeYKfaW) | 3:18 | 2024-02-15 | 2025-01-10 |
 | [La symphonie des éclairs \- Edit](https://open.spotify.com/track/2qgS51uMu0cAjZOI9PVoTN) | [Zaho de Sagazan](https://open.spotify.com/artist/38GSybQjdc6sxptciOkxMq) | [La symphonie des éclairs](https://open.spotify.com/album/5GoDO8a03bxSSxMCeYKfaW) | 2:58 | 2023-09-28 | 2024-02-16 |
 | [La vie](https://open.spotify.com/track/04VPEsP3L4td2u4RuvOdrD) | [Malo'](https://open.spotify.com/artist/0wHHtuNdjnmH9spIm2VrhR) | [La vie](https://open.spotify.com/album/7a1zSyuq070pBzYpSrc0Az) | 3:28 | 2023-09-28 | 2023-10-06 |

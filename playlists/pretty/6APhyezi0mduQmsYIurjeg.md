@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/6APhyezi0mduQmsYIurjeg.md) - [plain]
 
 > Submit your song: https:&\#x2F;&\#x2F;dailyplaylists.com&\#x2F;playlists&\#x2F;6APhyezi0mduQmsYIurjeg
 
-[RADIO PLUG PRO](https://open.spotify.com/user/31j62y3lgk2wiycoov2nuie5hp3e) - 1,281 likes - 646 songs - 1 day 15 hr 11 min
+[RADIO PLUG PRO](https://open.spotify.com/user/31j62y3lgk2wiycoov2nuie5hp3e) - 1,281 likes - 649 songs - 1 day 15 hr 20 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -654,5 +654,8 @@ pretty - [cumulative](/playlists/cumulative/6APhyezi0mduQmsYIurjeg.md) - [plain]
 | 644 | [Tears \(Kyo Kusanagi The King of Fighters '99\) \- Vocal Version](https://open.spotify.com/track/6YBiU7aCpxDmApjb3AODLR) | [Vocal Game Orchestra](https://open.spotify.com/artist/4LvoFWmhUT7CNWjppMoaUK) | [Tears \(Kyo Kusanagi The King of Fighters '99\) \[Vocal Version\]](https://open.spotify.com/album/5Py5DnojD5T3nj0aXKnU4g) | 4:12 |
 | 645 | [LEVEL OVER LEVEL](https://open.spotify.com/track/1lIKAnGEzTtBQRjfBIGXsO) | [Twist & Writhe](https://open.spotify.com/artist/4zRz9OrERKG1EJriVM7U0s) | [LEVEL OVER LEVEL](https://open.spotify.com/album/5VQXkQId7M1JpsVQUF5I1s) | 3:30 |
 | 646 | [Haga Lo Que Haga](https://open.spotify.com/track/7rtCC8R2Id26sFryZuO13A) | [Mil Disparos](https://open.spotify.com/artist/4yhzOd2WrjwPz9yHG2TwKn) | [Haga Lo Que Haga](https://open.spotify.com/album/1VKklGTrS2IZ2HlskmH7Ql) | 2:34 |
+| 647 | [Rich Kids](https://open.spotify.com/track/3wPaAPgHFZ6eExWM69NF9g) | [The Mosfets](https://open.spotify.com/artist/4sl6X5AE6960qO5WMkbPzr), [Thomas Duxbury](https://open.spotify.com/artist/6ECILQNZ22Kc1VCNpX4Cct) | [Rich Kids](https://open.spotify.com/album/2AJasAEJEqKVYOk4qccyy1) | 2:29 |
+| 648 | [2006](https://open.spotify.com/track/3Sxko84nHVm1FHA0wHuXig) | [Carlos Diem](https://open.spotify.com/artist/52eCukmvzQTZ45VpgpEfNP) | [2006](https://open.spotify.com/album/3nQuESzI46J1FnV1j5b0Oq) | 3:10 |
+| 649 | [2006](https://open.spotify.com/track/3Sxko84nHVm1FHA0wHuXig) | [Carlos Diem](https://open.spotify.com/artist/52eCukmvzQTZ45VpgpEfNP) | [2006](https://open.spotify.com/album/3nQuESzI46J1FnV1j5b0Oq) | 3:10 |
 
-Snapshot ID: `AAADHM93pzXxtZ8sMEU+ntbnzgw7Vb1A`
+Snapshot ID: `AAADH4JN+e0bftQszUTS/CiUuYndBsD3`

@@ -1,13 +1,33 @@
 {
   "description": "This is D'Angelo. The essential tracks, all in one playlist.",
-  "num_followers": 79531,
+  "num_followers": 79541,
   "original_name": "This Is D'Angelo",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "awOCAAAAAAC9aMN4bp+co6FO5RhJVyl9",
+  "snapshot_id": "awYlAAAAAACoRQXS4IZ/SUA1aSF6hGaH",
   "tracks": [
+    {
+      "added_at": null,
+      "album": {
+        "name": "Kamikazi",
+        "url": "https://open.spotify.com/album/04YHw3mpkB0q9BHYT60Vxu"
+      },
+      "artists": [
+        {
+          "name": "D'Angelo",
+          "url": "https://open.spotify.com/artist/336vr2M3Va0FjyvB55lJEd"
+        },
+        {
+          "name": "Slingbaum",
+          "url": "https://open.spotify.com/artist/1PWbIqVLjvg2W4dU0LdMA2"
+        }
+      ],
+      "duration_ms": 262981,
+      "name": "Kamikazi",
+      "url": "https://open.spotify.com/track/5NsWLe50IEKoV99IShQg86"
+    },
     {
       "added_at": null,
       "album": {
@@ -343,6 +363,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Brown Sugar",
+        "url": "https://open.spotify.com/album/4HTVABUq8amDUxBv3zJbX4"
+      },
+      "artists": [
+        {
+          "name": "D'Angelo",
+          "url": "https://open.spotify.com/artist/336vr2M3Va0FjyvB55lJEd"
+        }
+      ],
+      "duration_ms": 259366,
+      "name": "Smooth",
+      "url": "https://open.spotify.com/track/1ZZCkUToFBOEwjssB1hzU4"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Instant Vintage",
         "url": "https://open.spotify.com/album/2Dfk3iSj303wZD28aXq5ov"
       },
@@ -363,8 +399,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Brown Sugar",
-        "url": "https://open.spotify.com/album/4HTVABUq8amDUxBv3zJbX4"
+        "name": "Voodoo",
+        "url": "https://open.spotify.com/album/2lO9yuuIDgBpSJzxTh3ai8"
       },
       "artists": [
         {
@@ -372,9 +408,9 @@
           "url": "https://open.spotify.com/artist/336vr2M3Va0FjyvB55lJEd"
         }
       ],
-      "duration_ms": 259366,
-      "name": "Smooth",
-      "url": "https://open.spotify.com/track/1ZZCkUToFBOEwjssB1hzU4"
+      "duration_ms": 316306,
+      "name": "The Line",
+      "url": "https://open.spotify.com/track/3RE93xPC29qZqbubAUeXTt"
     },
     {
       "added_at": null,
@@ -391,22 +427,6 @@
       "duration_ms": 358558,
       "name": "Another Life",
       "url": "https://open.spotify.com/track/2f9mmR37OEceYERbXml0Nj"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Voodoo",
-        "url": "https://open.spotify.com/album/2lO9yuuIDgBpSJzxTh3ai8"
-      },
-      "artists": [
-        {
-          "name": "D'Angelo",
-          "url": "https://open.spotify.com/artist/336vr2M3Va0FjyvB55lJEd"
-        }
-      ],
-      "duration_ms": 316306,
-      "name": "The Line",
-      "url": "https://open.spotify.com/track/3RE93xPC29qZqbubAUeXTt"
     },
     {
       "added_at": null,
@@ -451,6 +471,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "The Best So Far",
+        "url": "https://open.spotify.com/album/1MXR2vMRldZITKc1Zk6bLe"
+      },
+      "artists": [
+        {
+          "name": "D'Angelo",
+          "url": "https://open.spotify.com/artist/336vr2M3Va0FjyvB55lJEd"
+        }
+      ],
+      "duration_ms": 252640,
+      "name": "Heaven Must Be Like This",
+      "url": "https://open.spotify.com/track/6NA2IIPkgNN9johIhFrByb"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Black Messiah",
         "url": "https://open.spotify.com/album/5Hfbag0SsHxafx1SySFSX6"
       },
@@ -487,22 +523,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "The Best So Far",
-        "url": "https://open.spotify.com/album/1MXR2vMRldZITKc1Zk6bLe"
-      },
-      "artists": [
-        {
-          "name": "D'Angelo",
-          "url": "https://open.spotify.com/artist/336vr2M3Va0FjyvB55lJEd"
-        }
-      ],
-      "duration_ms": 252640,
-      "name": "Heaven Must Be Like This",
-      "url": "https://open.spotify.com/track/6NA2IIPkgNN9johIhFrByb"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Finding Forever",
         "url": "https://open.spotify.com/album/0XFFBEzvJ7Zit24MY5oVV3"
       },
@@ -519,22 +539,6 @@
       "duration_ms": 267626,
       "name": "So Far To Go",
       "url": "https://open.spotify.com/track/5Hu9CX99Rdyuyweh5mGcah"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Black Messiah",
-        "url": "https://open.spotify.com/album/5Hfbag0SsHxafx1SySFSX6"
-      },
-      "artists": [
-        {
-          "name": "D'Angelo",
-          "url": "https://open.spotify.com/artist/336vr2M3Va0FjyvB55lJEd"
-        }
-      ],
-      "duration_ms": 231906,
-      "name": "Till It's Done (Tutu)",
-      "url": "https://open.spotify.com/track/1tgmyTEKDOkwyvyE37AJDj"
     },
     {
       "added_at": null,
@@ -579,6 +583,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Black Messiah",
+        "url": "https://open.spotify.com/album/5Hfbag0SsHxafx1SySFSX6"
+      },
+      "artists": [
+        {
+          "name": "D'Angelo",
+          "url": "https://open.spotify.com/artist/336vr2M3Va0FjyvB55lJEd"
+        }
+      ],
+      "duration_ms": 231906,
+      "name": "Till It's Done (Tutu)",
+      "url": "https://open.spotify.com/track/1tgmyTEKDOkwyvyE37AJDj"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Live At The Jazz Cafe, London",
         "url": "https://open.spotify.com/album/6CJecR5ViEgD3KxVGMmiRi"
       },
@@ -615,22 +635,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Black Messiah",
-        "url": "https://open.spotify.com/album/5Hfbag0SsHxafx1SySFSX6"
-      },
-      "artists": [
-        {
-          "name": "D'Angelo",
-          "url": "https://open.spotify.com/artist/336vr2M3Va0FjyvB55lJEd"
-        }
-      ],
-      "duration_ms": 289026,
-      "name": "Ain't That Easy",
-      "url": "https://open.spotify.com/track/2yx7XX9v7M6yhm2fBG7K3E"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Natural",
         "url": "https://open.spotify.com/album/41GKq0Bz81Qmz11VSfY0ga"
       },
@@ -651,6 +655,22 @@
       "duration_ms": 358906,
       "name": "So Cold",
       "url": "https://open.spotify.com/track/2PM2MSkvTdzc3tl7D4Wh2K"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Black Messiah",
+        "url": "https://open.spotify.com/album/5Hfbag0SsHxafx1SySFSX6"
+      },
+      "artists": [
+        {
+          "name": "D'Angelo",
+          "url": "https://open.spotify.com/artist/336vr2M3Va0FjyvB55lJEd"
+        }
+      ],
+      "duration_ms": 289026,
+      "name": "Ain't That Easy",
+      "url": "https://open.spotify.com/track/2yx7XX9v7M6yhm2fBG7K3E"
     }
   ],
   "unique_name": "This Is D'Angelo",

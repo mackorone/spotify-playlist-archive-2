@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVA5o3WHL2eG.md) - [plain]
 
 > Women at full volume! Cover: Suena
 
-[Spotify](https://open.spotify.com/user/spotify) - 51,815 likes - 50 songs - 2 hr 33 min
+[Spotify](https://open.spotify.com/user/spotify) - 51,814 likes - 50 songs - 2 hr 33 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -33,9 +33,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVA5o3WHL2eG.md) - [plain]
 | 23 | [Adulta](https://open.spotify.com/track/7DocintZ5hbadFUprMSIE4) | [Suena](https://open.spotify.com/artist/3ZCy1ehzbzEAcpcHnHJYXd) | [INSTINCTA](https://open.spotify.com/album/3PLxcpG6HX1bPdqrJTUNfT) | 1:41 |
 | 24 | [bands breiter](https://open.spotify.com/track/3uCsn5n3t8ZEw0uBK3oS42) | [cherice](https://open.spotify.com/artist/3hdHRmL8PsniFkBS3WwuA7) | [bands breiter](https://open.spotify.com/album/5PgWcCrBneffntXJTwAvlW) | 2:12 |
 | 25 | [pink](https://open.spotify.com/track/2Vd5BdcrLQ9VGpoE5Ovmi7) | [verifiziert](https://open.spotify.com/artist/1SF4jakSq8kI38MYjFdaJG) | [pink](https://open.spotify.com/album/1OoPoq8o9oQMBeane1YIRp) | 2:29 |
-| 26 | [ARROGANT](https://open.spotify.com/track/4mcm0nIqYOK3t714LBIzwT) | [CALLI](https://open.spotify.com/artist/1Z8ZD7IOnNaWxt7PMaLiJA) | [ARROGANT](https://open.spotify.com/album/1AYgJbFYuSfWSN3KpAjdjd) | 2:40 |
+| 26 | [Rather Be Wrong](https://open.spotify.com/track/0D4X0kEAAutSOL7lnKT09r) | [Amaya Gloor](https://open.spotify.com/artist/7zq1dJ7R6GzLynDM6DPZ4x) | [Running Love](https://open.spotify.com/album/73CrWbbOIg8KTZ4qEcKzhc) | 2:53 |
 | 27 | [Take Me to Ecstasy](https://open.spotify.com/track/0ZRVGU4tml1miY4uwmDevN) | [Alyne](https://open.spotify.com/artist/3I6VTLm67GhUmOTrhM0DzY) | [Take Me to Ecstasy](https://open.spotify.com/album/7lSgVKdX8c07TZVTaffiNb) | 4:13 |
-| 28 | [Rather Be Wrong](https://open.spotify.com/track/0D4X0kEAAutSOL7lnKT09r) | [Amaya Gloor](https://open.spotify.com/artist/7zq1dJ7R6GzLynDM6DPZ4x) | [Running Love](https://open.spotify.com/album/73CrWbbOIg8KTZ4qEcKzhc) | 2:53 |
+| 28 | [ARROGANT](https://open.spotify.com/track/4mcm0nIqYOK3t714LBIzwT) | [CALLI](https://open.spotify.com/artist/1Z8ZD7IOnNaWxt7PMaLiJA) | [ARROGANT](https://open.spotify.com/album/1AYgJbFYuSfWSN3KpAjdjd) | 2:40 |
 | 29 | [kontrolle \(interlude\)](https://open.spotify.com/track/5xjTqKeAfaNIwKDtsInoYe) | [Charlize](https://open.spotify.com/artist/5RKUXG6hD3vVpakjwcK5IW) | [kontrolle \(interlude\)](https://open.spotify.com/album/6Y2G8pJCOhpxrI69stPWDA) | 3:30 |
 | 30 | [Primapulsa](https://open.spotify.com/track/06qgb8Cs6lu5V5cMWvOt3j) | [Suena](https://open.spotify.com/artist/3ZCy1ehzbzEAcpcHnHJYXd) | [INSTINCTA](https://open.spotify.com/album/3PLxcpG6HX1bPdqrJTUNfT) | 2:27 |
 | 31 | [Berlin](https://open.spotify.com/track/62gOHDyfTIQUExwJeFDQJ4) | [Stella Bossi](https://open.spotify.com/artist/3mRoki0oqjOZy7pXCd2cSz) | [Berlin](https://open.spotify.com/album/1txqdO67idfV6AEW23kLRw) | 3:08 |

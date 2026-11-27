@@ -1,6 +1,6 @@
 {
   "description": "\u00a1Mu\u00e9vete al ritmo de las Cumbias! \nCover: Mariangela",
-  "num_followers": 277992,
+  "num_followers": 278020,
   "original_name": "Super Cumbias",
   "owner": {
     "name": "Spotify",
@@ -455,6 +455,26 @@
     {
       "added_at": "2026-09-14 07:02:39",
       "album": {
+        "name": "DESVELADO",
+        "url": "https://open.spotify.com/album/5aDEezKnOqyQo0qvTFhpkM"
+      },
+      "artists": [
+        {
+          "name": "Eslabon Armado",
+          "url": "https://open.spotify.com/artist/0XeEobZplHxzM9QzFQWLiR"
+        },
+        {
+          "name": "Grupo Frontera",
+          "url": "https://open.spotify.com/artist/6XkjpgcEsYab502Vr1bBeW"
+        }
+      ],
+      "duration_ms": 160752,
+      "name": "Quedate Conmigo",
+      "url": "https://open.spotify.com/track/2lqHosXoRrzxh42th6Mi7a"
+    },
+    {
+      "added_at": "2026-09-14 07:02:39",
+      "album": {
         "name": "Pa\u00b4 Que Te Acuerdes | CROSSOVER #8",
         "url": "https://open.spotify.com/album/6Es6kN0L82XnLAaKV02ZoC"
       },
@@ -475,26 +495,6 @@
       "duration_ms": 172800,
       "name": "Pa\u00b4Que Te Acuerdes | CROSSOVER #8",
       "url": "https://open.spotify.com/track/5aZ8rf2aPfZrnRWLA7bByo"
-    },
-    {
-      "added_at": "2026-09-14 07:02:39",
-      "album": {
-        "name": "DESVELADO",
-        "url": "https://open.spotify.com/album/5aDEezKnOqyQo0qvTFhpkM"
-      },
-      "artists": [
-        {
-          "name": "Eslabon Armado",
-          "url": "https://open.spotify.com/artist/0XeEobZplHxzM9QzFQWLiR"
-        },
-        {
-          "name": "Grupo Frontera",
-          "url": "https://open.spotify.com/artist/6XkjpgcEsYab502Vr1bBeW"
-        }
-      ],
-      "duration_ms": 160752,
-      "name": "Quedate Conmigo",
-      "url": "https://open.spotify.com/track/2lqHosXoRrzxh42th6Mi7a"
     },
     {
       "added_at": "2026-09-14 07:02:39",
@@ -855,6 +855,22 @@
     {
       "added_at": "2026-09-14 07:02:39",
       "album": {
+        "name": "Lo Mejor De...",
+        "url": "https://open.spotify.com/album/5J1qxK7rxPeYi7wgQALes2"
+      },
+      "artists": [
+        {
+          "name": "A.B. Quintanilla III Y Los Kumbia Kings",
+          "url": "https://open.spotify.com/artist/6BMQo3hxi4qwLiZpHKK5iL"
+        }
+      ],
+      "duration_ms": 219800,
+      "name": "Desde Que No Est\u00e1s Aqu\u00ed",
+      "url": "https://open.spotify.com/track/749JqjlwgQBz2Fx0Z92zm9"
+    },
+    {
+      "added_at": "2026-09-14 07:02:39",
+      "album": {
         "name": "Coraz\u00f3n Enamorado",
         "url": "https://open.spotify.com/album/2MzkTpKrYylAQue1a1Jh6P"
       },
@@ -871,22 +887,6 @@
       "duration_ms": 300840,
       "name": "Coraz\u00f3n Enamorado",
       "url": "https://open.spotify.com/track/29xZSv5HOvmAI2bFIJnWHc"
-    },
-    {
-      "added_at": "2026-09-14 07:02:39",
-      "album": {
-        "name": "Lo Mejor De...",
-        "url": "https://open.spotify.com/album/5J1qxK7rxPeYi7wgQALes2"
-      },
-      "artists": [
-        {
-          "name": "A.B. Quintanilla III Y Los Kumbia Kings",
-          "url": "https://open.spotify.com/artist/6BMQo3hxi4qwLiZpHKK5iL"
-        }
-      ],
-      "duration_ms": 219800,
-      "name": "Desde Que No Est\u00e1s Aqu\u00ed",
-      "url": "https://open.spotify.com/track/749JqjlwgQBz2Fx0Z92zm9"
     },
     {
       "added_at": "2026-09-14 07:02:39",
@@ -1207,18 +1207,18 @@
     {
       "added_at": "2026-09-14 07:02:39",
       "album": {
-        "name": "AMIGOS PARA QU\u00c9",
-        "url": "https://open.spotify.com/album/1WppuWwpRiBMCxA01HUxST"
+        "name": "ENCUENTROS",
+        "url": "https://open.spotify.com/album/6Q2RSXigUcxzMKHzVYiyHw"
       },
       "artists": [
         {
-          "name": "Oscar Ortiz",
-          "url": "https://open.spotify.com/artist/0FvHxb8a4I0A2i8jKCsFei"
+          "name": "Becky G",
+          "url": "https://open.spotify.com/artist/4obzFoKoKRHIphyHzJ35G3"
         }
       ],
-      "duration_ms": 192091,
-      "name": "AMIGOS PARA QU\u00c9",
-      "url": "https://open.spotify.com/track/2lGSjuUG1t7RzVWbHQCc1M"
+      "duration_ms": 180786,
+      "name": "OTRO CAP\u00cdTULO",
+      "url": "https://open.spotify.com/track/4ZJ6Ef4JKjYwiuyYp7DxSK"
     },
     {
       "added_at": "2026-09-14 07:02:39",
@@ -1243,18 +1243,18 @@
     {
       "added_at": "2026-09-14 07:02:39",
       "album": {
-        "name": "ENCUENTROS",
-        "url": "https://open.spotify.com/album/6Q2RSXigUcxzMKHzVYiyHw"
+        "name": "AMIGOS PARA QU\u00c9",
+        "url": "https://open.spotify.com/album/1WppuWwpRiBMCxA01HUxST"
       },
       "artists": [
         {
-          "name": "Becky G",
-          "url": "https://open.spotify.com/artist/4obzFoKoKRHIphyHzJ35G3"
+          "name": "Oscar Ortiz",
+          "url": "https://open.spotify.com/artist/0FvHxb8a4I0A2i8jKCsFei"
         }
       ],
-      "duration_ms": 180786,
-      "name": "OTRO CAP\u00cdTULO",
-      "url": "https://open.spotify.com/track/4ZJ6Ef4JKjYwiuyYp7DxSK"
+      "duration_ms": 192091,
+      "name": "AMIGOS PARA QU\u00c9",
+      "url": "https://open.spotify.com/track/2lGSjuUG1t7RzVWbHQCc1M"
     },
     {
       "added_at": "2026-09-14 07:02:39",
@@ -1555,6 +1555,22 @@
     {
       "added_at": "2026-09-14 07:02:39",
       "album": {
+        "name": "Cuando Una Mujer",
+        "url": "https://open.spotify.com/album/6Kqio6YmPAge6dLPtV0cYh"
+      },
+      "artists": [
+        {
+          "name": "Mariangela",
+          "url": "https://open.spotify.com/artist/6rbhHufoSGkldXNhOtb6Mf"
+        }
+      ],
+      "duration_ms": 156394,
+      "name": "Cuando Una Mujer",
+      "url": "https://open.spotify.com/track/3avC8Pl0P86k3GQjE1h9y1"
+    },
+    {
+      "added_at": "2026-09-14 07:02:39",
+      "album": {
         "name": "CONTACTO CERO",
         "url": "https://open.spotify.com/album/7xjCBEtL7v7AIDN5OUXicZ"
       },
@@ -1571,22 +1587,6 @@
       "duration_ms": 123136,
       "name": "CONTACTO CERO",
       "url": "https://open.spotify.com/track/2KLl3FnpYYmNNTRWIg2nRv"
-    },
-    {
-      "added_at": "2026-09-14 07:02:39",
-      "album": {
-        "name": "Cuando Una Mujer",
-        "url": "https://open.spotify.com/album/6Kqio6YmPAge6dLPtV0cYh"
-      },
-      "artists": [
-        {
-          "name": "Mariangela",
-          "url": "https://open.spotify.com/artist/6rbhHufoSGkldXNhOtb6Mf"
-        }
-      ],
-      "duration_ms": 156394,
-      "name": "Cuando Una Mujer",
-      "url": "https://open.spotify.com/track/3avC8Pl0P86k3GQjE1h9y1"
     },
     {
       "added_at": "2026-09-14 07:02:39",

@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-03-01",
-  "description": "Lo mejor del Trap, Rap, R&B, Afrobeats y Reggaeton Cristiano. Foto: Alex Zurdo",
+  "description": "Lo mejor del Trap, Rap, R&B, Afrobeats y Reggaeton Cristiano. Foto: Jay Kalyl",
   "name": "Flow Cristiano",
   "tracks": [
     {
@@ -813,6 +813,24 @@
     },
     {
       "album": {
+        "name": "Amor Amor",
+        "url": "https://open.spotify.com/album/2ExXEhTkuPIJIFE8N1wBHw"
+      },
+      "artists": [
+        {
+          "name": "ANMILY",
+          "url": "https://open.spotify.com/artist/1lrVxCIGcyqltmJ7hUdNmT"
+        }
+      ],
+      "date_added": "2026-11-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 160887,
+      "name": "Amor Amor",
+      "url": "https://open.spotify.com/track/43fgaafMa3LITBL1TnTImi"
+    },
+    {
+      "album": {
         "name": "Amor C\u00f3smico",
         "url": "https://open.spotify.com/album/1006qTPEsgtf7pgjdH9U0U"
       },
@@ -1361,6 +1379,36 @@
     },
     {
       "album": {
+        "name": "Bonito",
+        "url": "https://open.spotify.com/album/2QKcAYoz2CLz6ANhpetIty"
+      },
+      "artists": [
+        {
+          "name": "Spiritual Bless",
+          "url": "https://open.spotify.com/artist/46dFxTjmPw26bu8MlY2UNv"
+        },
+        {
+          "name": "Esteban Music",
+          "url": "https://open.spotify.com/artist/0Xuf6wb2j6Ok0KTAZNJTmH"
+        },
+        {
+          "name": "Eliezer Daniels",
+          "url": "https://open.spotify.com/artist/0XSbTfozK3F8xeYpPneVO9"
+        },
+        {
+          "name": "Isaac Ramos",
+          "url": "https://open.spotify.com/artist/2CM8oWpCey84yaqw4anuks"
+        }
+      ],
+      "date_added": "2026-11-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 163130,
+      "name": "Bonito",
+      "url": "https://open.spotify.com/track/6RmnoLi1arfznH858ODuo1"
+    },
+    {
+      "album": {
         "name": "Buena Onda",
         "url": "https://open.spotify.com/album/7A8XQQfQmqv43Wb5Rpyg50"
       },
@@ -1612,7 +1660,7 @@
       ],
       "date_added": "2025-10-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-27",
       "duration_ms": 224285,
       "name": "Canta y no llores",
       "url": "https://open.spotify.com/track/1r88NULqPe2zuuONEYNCAk"
@@ -2160,7 +2208,7 @@
       ],
       "date_added": "2026-07-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-27",
       "duration_ms": 147672,
       "name": "Contigo",
       "url": "https://open.spotify.com/track/0bI1DevumPPMmeTCyfoi6X"
@@ -2416,6 +2464,32 @@
       "duration_ms": 203049,
       "name": "Culpable",
       "url": "https://open.spotify.com/track/223tyVVp6cld7LGIWGpOg5"
+    },
+    {
+      "album": {
+        "name": "X COMPLETO",
+        "url": "https://open.spotify.com/album/6VRULrUslvqlJxAnUihpeH"
+      },
+      "artists": [
+        {
+          "name": "Lilo Music",
+          "url": "https://open.spotify.com/artist/5Ohvie2JLowLLNB7SdTvEd"
+        },
+        {
+          "name": "Jay Kalyl",
+          "url": "https://open.spotify.com/artist/0sHeKC0Zcxpz4wOHHE5oJ7"
+        },
+        {
+          "name": "DRAZZI",
+          "url": "https://open.spotify.com/artist/57rIFfHeIYy3BRDoTIucGg"
+        }
+      ],
+      "date_added": "2026-11-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 247000,
+      "name": "Curame El Alma",
+      "url": "https://open.spotify.com/track/0vNNI9uSpB7sLLfMWqu5KF"
     },
     {
       "album": {
@@ -3762,7 +3836,7 @@
       ],
       "date_added": "2026-07-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-27",
       "duration_ms": 185250,
       "name": "Entre L\u00e1grimas y Fe",
       "url": "https://open.spotify.com/track/5Ak4fjPN0RAVsVNnZbXbdl"
@@ -3982,6 +4056,28 @@
       "duration_ms": 205158,
       "name": "ESTOY CON CRISTO",
       "url": "https://open.spotify.com/track/4BPmF7Z4oHvDUMR4NPk02U"
+    },
+    {
+      "album": {
+        "name": "Cr\u00f3nicas",
+        "url": "https://open.spotify.com/album/49UGwCUVbbMnvoVZycoTtO"
+      },
+      "artists": [
+        {
+          "name": "SarieL",
+          "url": "https://open.spotify.com/artist/6HLjz3mUSt52nDpFylq93A"
+        },
+        {
+          "name": "Zoprano",
+          "url": "https://open.spotify.com/artist/2mdcXhVmknCqnJU4M5ofyl"
+        }
+      ],
+      "date_added": "2026-11-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 178039,
+      "name": "Estuve Ahi",
+      "url": "https://open.spotify.com/track/7IMR5oQ1yQdYF5mZH997Eu"
     },
     {
       "album": {
@@ -5159,6 +5255,24 @@
     },
     {
       "album": {
+        "name": "Hazlo Tu",
+        "url": "https://open.spotify.com/album/6MLn7o6hKdy6rn5R0mLIaT"
+      },
+      "artists": [
+        {
+          "name": "Kelmitt",
+          "url": "https://open.spotify.com/artist/6tOv5UYDorjmsernjtaHO1"
+        }
+      ],
+      "date_added": "2026-11-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 193714,
+      "name": "Hazlo Tu",
+      "url": "https://open.spotify.com/track/780RWk66ZJSvsafhJ202P5"
+    },
+    {
+      "album": {
         "name": "HIGHLIGHT",
         "url": "https://open.spotify.com/album/0cIoOPLvXjj3Iyq0cM09LW"
       },
@@ -6100,7 +6214,7 @@
       ],
       "date_added": "2025-10-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-27",
       "duration_ms": 206706,
       "name": "La Ruta J",
       "url": "https://open.spotify.com/track/0f6SWs7AAonb8SS4a80oEz"
@@ -6514,7 +6628,7 @@
       ],
       "date_added": "2026-09-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-27",
       "duration_ms": 164112,
       "name": "Lo Hace",
       "url": "https://open.spotify.com/track/6ybnUOW0vLzvQeyUUTK7bu"
@@ -7946,7 +8060,7 @@
       ],
       "date_added": "2026-07-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-27",
       "duration_ms": 166256,
       "name": "Mutari",
       "url": "https://open.spotify.com/track/188U3qJOtDOI3crnkWAwKy"
@@ -8590,6 +8704,24 @@
       "duration_ms": 182520,
       "name": "NO QUIERO M\u00c1S NA'",
       "url": "https://open.spotify.com/track/2whIRS3t0wWh087udFoQqo"
+    },
+    {
+      "album": {
+        "name": "No Te Acerques",
+        "url": "https://open.spotify.com/album/4wTzkvtvJHR4c4brXNSmPB"
+      },
+      "artists": [
+        {
+          "name": "J Arias",
+          "url": "https://open.spotify.com/artist/12KoDb9Ns560M5AAm6gsym"
+        }
+      ],
+      "date_added": "2026-11-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 217500,
+      "name": "No Te Acerques",
+      "url": "https://open.spotify.com/track/6fJSiQp1n3dtwAWxxPlLrL"
     },
     {
       "album": {
@@ -10081,6 +10213,32 @@
     },
     {
       "album": {
+        "name": "QUISIERA (REMIX)",
+        "url": "https://open.spotify.com/album/71gexEwlY4Anz00cMETWVO"
+      },
+      "artists": [
+        {
+          "name": "El Philippe",
+          "url": "https://open.spotify.com/artist/3COYG9FFfTZQEB5B58Ufi1"
+        },
+        {
+          "name": "Derick Music",
+          "url": "https://open.spotify.com/artist/05NjguLXAk84uNrA0YlX8q"
+        },
+        {
+          "name": "Grupo Good Family",
+          "url": "https://open.spotify.com/artist/6qlZBjVyhdRaegiaVtWeKt"
+        }
+      ],
+      "date_added": "2026-11-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 184355,
+      "name": "QUISIERA - REMIX",
+      "url": "https://open.spotify.com/track/5R9MStWRFk5BpCGn2J6JnS"
+    },
+    {
+      "album": {
         "name": "Qui\u00e9brame",
         "url": "https://open.spotify.com/album/1UR4VD3TTpvk7Wed2lkPxE"
       },
@@ -10254,6 +10412,24 @@
       "duration_ms": 227001,
       "name": "Revol\u00fa",
       "url": "https://open.spotify.com/track/1zaQLu8zWH6C3BZXR4vS6I"
+    },
+    {
+      "album": {
+        "name": "Rewind & Stop",
+        "url": "https://open.spotify.com/album/5TRzDN1t3isypSONIdLf5z"
+      },
+      "artists": [
+        {
+          "name": "Jinys",
+          "url": "https://open.spotify.com/artist/4dojzRdnyV83FaWOMcK3ir"
+        }
+      ],
+      "date_added": "2026-11-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 203783,
+      "name": "Rewind & Stop",
+      "url": "https://open.spotify.com/track/747VVcAIzt9MYFm3lT3RNB"
     },
     {
       "album": {
@@ -10476,7 +10652,7 @@
       ],
       "date_added": "2026-11-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-27",
       "duration_ms": 213100,
       "name": "Se Dar\u00e1",
       "url": "https://open.spotify.com/track/7gWxMBEM7ttFJzf5A8L3UI"
@@ -10773,6 +10949,32 @@
     },
     {
       "album": {
+        "name": "Sie7e Pie",
+        "url": "https://open.spotify.com/album/7j1UYbrBMqlG6rK2GZRDHs"
+      },
+      "artists": [
+        {
+          "name": "Carlito Codigo",
+          "url": "https://open.spotify.com/artist/5UteEvNs5R2nAmmv55R9bR"
+        },
+        {
+          "name": "Dexter Music",
+          "url": "https://open.spotify.com/artist/5pzzsAs3nFK4EX9lZB0MdG"
+        },
+        {
+          "name": "Andryk Duarte",
+          "url": "https://open.spotify.com/artist/7HLEmdYu0bzR2jHwZaxTzA"
+        }
+      ],
+      "date_added": "2026-11-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 199148,
+      "name": "Sie7e Pie",
+      "url": "https://open.spotify.com/track/5OtQHU6cG6LJnW9VitYR7p"
+    },
+    {
+      "album": {
         "name": "Siempre Est\u00e1s",
         "url": "https://open.spotify.com/album/0VwhVOHqEtIZIx5CInCChd"
       },
@@ -10898,7 +11100,7 @@
       ],
       "date_added": "2025-11-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-27",
       "duration_ms": 198035,
       "name": "Sigo Firme",
       "url": "https://open.spotify.com/track/1ko30tEQ1NcMTBNPTeZurH"
@@ -11410,7 +11612,7 @@
       ],
       "date_added": "2025-09-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-27",
       "duration_ms": 182661,
       "name": "SONR\u00cdO",
       "url": "https://open.spotify.com/track/0f9DOgwi2AWErQ8ucD4z4f"
@@ -11520,7 +11722,7 @@
       ],
       "date_added": "2025-09-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-27",
       "duration_ms": 172858,
       "name": "Spirit Mueve",
       "url": "https://open.spotify.com/track/45yJLuemnwlYAvJvbJFu2U"
@@ -11578,6 +11780,24 @@
       "duration_ms": 142500,
       "name": "Tan Bueno",
       "url": "https://open.spotify.com/track/7AUW3JjrrXiJIwxpG5FJ3h"
+    },
+    {
+      "album": {
+        "name": "Tan Fiel",
+        "url": "https://open.spotify.com/album/0wkRMXxSifAS9GSsThNz4Q"
+      },
+      "artists": [
+        {
+          "name": "R Nova",
+          "url": "https://open.spotify.com/artist/7rXuCCgw2Intfg2EJdQypx"
+        }
+      ],
+      "date_added": "2026-11-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 186538,
+      "name": "Tan Fiel",
+      "url": "https://open.spotify.com/track/03fRGMzesz5G120LpnVzkS"
     },
     {
       "album": {
@@ -11738,6 +11958,40 @@
       "duration_ms": 199808,
       "name": "Te Encontr\u00e9",
       "url": "https://open.spotify.com/track/5QqUyePqVQ1AUsQuCd4qgL"
+    },
+    {
+      "album": {
+        "name": "Te Encontr\u00e9",
+        "url": "https://open.spotify.com/album/2zy6nFOTBN3eMM2CXLXwJ2"
+      },
+      "artists": [
+        {
+          "name": "Fiore",
+          "url": "https://open.spotify.com/artist/5YJEPeiDhF5BbG3m8g9oO4"
+        },
+        {
+          "name": "Barboza",
+          "url": "https://open.spotify.com/artist/0HN3uHZSS2Bosw1cFImLVG"
+        },
+        {
+          "name": "Gz\u00fas",
+          "url": "https://open.spotify.com/artist/6WFXd1CQaQoUoLD0aMfzXE"
+        },
+        {
+          "name": "Bomby",
+          "url": "https://open.spotify.com/artist/2U3Y8qTTqVAA7uoksbqTDh"
+        },
+        {
+          "name": "Nohaaddana",
+          "url": "https://open.spotify.com/artist/2w4vDNeEe7xccBqtBNjPcA"
+        }
+      ],
+      "date_added": "2026-11-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 161744,
+      "name": "Te Encontr\u00e9",
+      "url": "https://open.spotify.com/track/7ew3QNKr2EHH1kGkgeQHQ0"
     },
     {
       "album": {
@@ -12458,7 +12712,7 @@
       ],
       "date_added": "2026-07-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-27",
       "duration_ms": 165781,
       "name": "T\u00edralo",
       "url": "https://open.spotify.com/track/3WHio4D4UmwgbUDXbcVpVk"
@@ -12567,6 +12821,24 @@
     },
     {
       "album": {
+        "name": "Silo\u00e9",
+        "url": "https://open.spotify.com/album/4hxpJRuAejyCtksbFIs7R0"
+      },
+      "artists": [
+        {
+          "name": "Emanuel Lara",
+          "url": "https://open.spotify.com/artist/4h8AlGulCUpliPcRlj40Ap"
+        }
+      ],
+      "date_added": "2026-11-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 214866,
+      "name": "Una cita",
+      "url": "https://open.spotify.com/track/3zkn7w7rFq125KW9efIK5R"
+    },
+    {
+      "album": {
         "name": "UNA LUZ",
         "url": "https://open.spotify.com/album/1mvn4warkbxABN6aMIQ0Jh"
       },
@@ -12640,7 +12912,7 @@
       ],
       "date_added": "2025-11-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-27",
       "duration_ms": 167878,
       "name": "UNDERGROUND",
       "url": "https://open.spotify.com/track/75A0jdP09OKnFhEJ2LPmOv"

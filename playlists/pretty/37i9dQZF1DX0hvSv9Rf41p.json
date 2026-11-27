@@ -6,13 +6,13 @@
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAOq5e/xtMFxO0e/+G4Ie6ebptno4",
+  "snapshot_id": "AAAAACWrWHrA4j8t+PKPyrxJSjjN5qhs",
   "tracks": [
     {
-      "added_at": "2026-11-20 05:01:54",
+      "added_at": "2026-11-27 05:01:40",
       "album": {
-        "name": "B.O.B.",
-        "url": "https://open.spotify.com/album/6GyAj12htrIhQNoFeAUGuN"
+        "name": "Trail Mix EP",
+        "url": "https://open.spotify.com/album/1uUmSMYIoI30uFIuVl5ky2"
       },
       "artists": [
         {
@@ -26,51 +26,7 @@
       ],
       "duration_ms": 123983,
       "name": "B.O.B.",
-      "url": "https://open.spotify.com/track/4eu2C1zMf5wjOlbhBtua5n"
-    },
-    {
-      "added_at": "2026-11-13 05:01:48",
-      "album": {
-        "name": "Escapism Vol. II",
-        "url": "https://open.spotify.com/album/4aqUvBOO4ieaXIuXDrvAW2"
-      },
-      "artists": [
-        {
-          "name": "Levity",
-          "url": "https://open.spotify.com/artist/1PbO7aQiVeKbGp8GYWDL9C"
-        },
-        {
-          "name": "Emi Grace",
-          "url": "https://open.spotify.com/artist/0U6MHJ9KRB5A1M7iHN06sS"
-        }
-      ],
-      "duration_ms": 205241,
-      "name": "Eternity (feat. Emi Grace)",
-      "url": "https://open.spotify.com/track/6CwEB6vhbFxiX5JaOzpWM5"
-    },
-    {
-      "added_at": "2026-10-30 04:01:26",
-      "album": {
-        "name": "WITH ME [Crankdat Remix]",
-        "url": "https://open.spotify.com/album/3gHTcUva1zhO2SZHu6dxa8"
-      },
-      "artists": [
-        {
-          "name": "John Summit",
-          "url": "https://open.spotify.com/artist/7kNqXtgeIwFtelmRjWv205"
-        },
-        {
-          "name": "Julia Wolf",
-          "url": "https://open.spotify.com/artist/5yvGiZLSWJTPBlZpVbPnEZ"
-        },
-        {
-          "name": "Crankdat",
-          "url": "https://open.spotify.com/artist/5lCekoJW9jNq01B1wiqdAb"
-        }
-      ],
-      "duration_ms": 138591,
-      "name": "WITH ME - Crankdat Remix",
-      "url": "https://open.spotify.com/track/0CNeSfSqaXGDkTKOG8soRk"
+      "url": "https://open.spotify.com/track/5WWaqWKbkiceByEE5uqc5I"
     },
     {
       "added_at": "2026-11-20 05:01:54",
@@ -121,24 +77,80 @@
       "url": "https://open.spotify.com/track/7Kb0qkoko5Yn8s4ZviI1hx"
     },
     {
-      "added_at": "2026-11-20 05:01:54",
+      "added_at": "2026-11-13 05:01:48",
       "album": {
-        "name": "NOT ANOTHER LOVE SONG",
-        "url": "https://open.spotify.com/album/2ROgoSKr1XZzCzfsD2KCnw"
+        "name": "Escapism Vol. II",
+        "url": "https://open.spotify.com/album/4aqUvBOO4ieaXIuXDrvAW2"
       },
       "artists": [
         {
-          "name": "AVELLO",
-          "url": "https://open.spotify.com/artist/1ZR5GnPw0Jkb5M4hnBwzuZ"
+          "name": "Levity",
+          "url": "https://open.spotify.com/artist/1PbO7aQiVeKbGp8GYWDL9C"
         },
         {
-          "name": "Darla Jade",
-          "url": "https://open.spotify.com/artist/615ZycClQL8KQ8qzZiuP8T"
+          "name": "Emi Grace",
+          "url": "https://open.spotify.com/artist/0U6MHJ9KRB5A1M7iHN06sS"
         }
       ],
-      "duration_ms": 186086,
-      "name": "NOT ANOTHER LOVE SONG",
-      "url": "https://open.spotify.com/track/2iuyhZ4LYo82yYHBE0fthZ"
+      "duration_ms": 205241,
+      "name": "Eternity (feat. Emi Grace)",
+      "url": "https://open.spotify.com/track/6CwEB6vhbFxiX5JaOzpWM5"
+    },
+    {
+      "added_at": "2026-11-27 05:01:40",
+      "album": {
+        "name": "Trail Mix EP",
+        "url": "https://open.spotify.com/album/1uUmSMYIoI30uFIuVl5ky2"
+      },
+      "artists": [
+        {
+          "name": "Subtronics",
+          "url": "https://open.spotify.com/artist/3NJ94iuAmmMjbszODYT6pO"
+        }
+      ],
+      "duration_ms": 172800,
+      "name": "Trail Mix",
+      "url": "https://open.spotify.com/track/2StEpMsVd9I95pSCJvcIF4"
+    },
+    {
+      "added_at": "2026-11-20 05:01:54",
+      "album": {
+        "name": "Ritual",
+        "url": "https://open.spotify.com/album/6hJ3vkwUvZXODBzDSsT3XZ"
+      },
+      "artists": [
+        {
+          "name": "LEVEL UP",
+          "url": "https://open.spotify.com/artist/1ZpDxqXS6HAvoZyCzQfKRb"
+        }
+      ],
+      "duration_ms": 168827,
+      "name": "RITUAL",
+      "url": "https://open.spotify.com/track/6YWDDf2iAmrQzzw9sNdfeA"
+    },
+    {
+      "added_at": "2026-10-30 04:01:26",
+      "album": {
+        "name": "WITH ME [Crankdat Remix]",
+        "url": "https://open.spotify.com/album/3gHTcUva1zhO2SZHu6dxa8"
+      },
+      "artists": [
+        {
+          "name": "John Summit",
+          "url": "https://open.spotify.com/artist/7kNqXtgeIwFtelmRjWv205"
+        },
+        {
+          "name": "Julia Wolf",
+          "url": "https://open.spotify.com/artist/5yvGiZLSWJTPBlZpVbPnEZ"
+        },
+        {
+          "name": "Crankdat",
+          "url": "https://open.spotify.com/artist/5lCekoJW9jNq01B1wiqdAb"
+        }
+      ],
+      "duration_ms": 138591,
+      "name": "WITH ME - Crankdat Remix",
+      "url": "https://open.spotify.com/track/0CNeSfSqaXGDkTKOG8soRk"
     },
     {
       "added_at": "2026-09-25 04:02:58",
@@ -201,6 +213,26 @@
       "url": "https://open.spotify.com/track/1XvfDsyFAQ6JSs8TXqUgDT"
     },
     {
+      "added_at": "2026-11-20 05:01:54",
+      "album": {
+        "name": "NOT ANOTHER LOVE SONG",
+        "url": "https://open.spotify.com/album/2ROgoSKr1XZzCzfsD2KCnw"
+      },
+      "artists": [
+        {
+          "name": "AVELLO",
+          "url": "https://open.spotify.com/artist/1ZR5GnPw0Jkb5M4hnBwzuZ"
+        },
+        {
+          "name": "Darla Jade",
+          "url": "https://open.spotify.com/artist/615ZycClQL8KQ8qzZiuP8T"
+        }
+      ],
+      "duration_ms": 186086,
+      "name": "NOT ANOTHER LOVE SONG",
+      "url": "https://open.spotify.com/track/2iuyhZ4LYo82yYHBE0fthZ"
+    },
+    {
       "added_at": "2026-11-13 05:01:48",
       "album": {
         "name": "Stars Align",
@@ -221,20 +253,24 @@
       "url": "https://open.spotify.com/track/30XyoSeZQXJiP6y0fCeUWx"
     },
     {
-      "added_at": "2026-11-20 05:01:54",
+      "added_at": "2026-11-27 05:01:40",
       "album": {
-        "name": "Ritual",
-        "url": "https://open.spotify.com/album/6hJ3vkwUvZXODBzDSsT3XZ"
+        "name": "WE DIE YOUNG vol.9",
+        "url": "https://open.spotify.com/album/6f3gUnefDGoNxTIM4LhIb5"
       },
       "artists": [
         {
-          "name": "LEVEL UP",
-          "url": "https://open.spotify.com/artist/1ZpDxqXS6HAvoZyCzQfKRb"
+          "name": "rejection",
+          "url": "https://open.spotify.com/artist/0S23vj2YyvxsVlhqqSohrk"
+        },
+        {
+          "name": "WE DIE YOUNG",
+          "url": "https://open.spotify.com/artist/2AOcY7Okw1zDwZYUeIxW2V"
         }
       ],
-      "duration_ms": 168827,
-      "name": "RITUAL",
-      "url": "https://open.spotify.com/track/6YWDDf2iAmrQzzw9sNdfeA"
+      "duration_ms": 302695,
+      "name": "Dive",
+      "url": "https://open.spotify.com/track/5LEULg7IDdUX8gSvtbJ2Dv"
     },
     {
       "added_at": "2026-10-30 04:01:26",
@@ -325,26 +361,6 @@
       "url": "https://open.spotify.com/track/06hW3CBqIcAQjlJsLLZM33"
     },
     {
-      "added_at": "2026-11-13 05:01:48",
-      "album": {
-        "name": "Bounce FM",
-        "url": "https://open.spotify.com/album/0d7nVKGRfBSdXeW4TAMQ6Y"
-      },
-      "artists": [
-        {
-          "name": "Moody Good",
-          "url": "https://open.spotify.com/artist/3EN8pUGJtYWutzf2fUxrDH"
-        },
-        {
-          "name": "Dr. Ush\u016bu",
-          "url": "https://open.spotify.com/artist/5UCxi2O9gdyXj7fNgQE9xR"
-        }
-      ],
-      "duration_ms": 265714,
-      "name": "Bounce FM",
-      "url": "https://open.spotify.com/track/3TCkKDvs4C2ZFhZ9bu6b5K"
-    },
-    {
       "added_at": "2026-09-25 04:02:58",
       "album": {
         "name": "UNMASKED!",
@@ -359,6 +375,34 @@
       "duration_ms": 139739,
       "name": "CRUSH ON U",
       "url": "https://open.spotify.com/track/5NjS8UegnF9wCyEHhy1U0s"
+    },
+    {
+      "added_at": "2026-11-27 05:01:40",
+      "album": {
+        "name": "When The Light Breaks (Remixes)",
+        "url": "https://open.spotify.com/album/5sxvG2sGW65mdtmv6rH8j0"
+      },
+      "artists": [
+        {
+          "name": "Said The Sky",
+          "url": "https://open.spotify.com/artist/4LZ4De2MoO3lP6QaNCfvcu"
+        },
+        {
+          "name": "ILLENIUM",
+          "url": "https://open.spotify.com/artist/45eNHdiiabvmbp4erw26rg"
+        },
+        {
+          "name": "Heather Sommer",
+          "url": "https://open.spotify.com/artist/0EHYuPn9Xng2lZP2cfz4cV"
+        },
+        {
+          "name": "Koven",
+          "url": "https://open.spotify.com/artist/3UCbp6D1lvILlxRJT9LnFa"
+        }
+      ],
+      "duration_ms": 226206,
+      "name": "When The Light Breaks - Koven Remix",
+      "url": "https://open.spotify.com/track/2HkZsGS977YEU9OBkRYJ0g"
     },
     {
       "added_at": "2026-10-30 04:01:26",
@@ -525,6 +569,26 @@
       "url": "https://open.spotify.com/track/2nbye27S8Nv1JSrmxl1Ycf"
     },
     {
+      "added_at": "2026-11-27 05:01:40",
+      "album": {
+        "name": "Within Me",
+        "url": "https://open.spotify.com/album/36ddS7jyxOHP8C3x5cUI29"
+      },
+      "artists": [
+        {
+          "name": "Rival",
+          "url": "https://open.spotify.com/artist/4u1nYxjl132D6rcMeYQ6Zz"
+        },
+        {
+          "name": "Linney",
+          "url": "https://open.spotify.com/artist/0vomb9Zaob10lPzxBcIiNb"
+        }
+      ],
+      "duration_ms": 249863,
+      "name": "Within Me",
+      "url": "https://open.spotify.com/track/1cBuPq9R59fwfgXkLGvCQE"
+    },
+    {
       "added_at": "2026-10-23 04:01:22",
       "album": {
         "name": "Fluxiverse Vol.3",
@@ -603,6 +667,26 @@
       "duration_ms": 240000,
       "name": "Hear The Horns (Persian March)",
       "url": "https://open.spotify.com/track/2xxPqizW7f19XOk9QooPBE"
+    },
+    {
+      "added_at": "2026-11-13 05:01:48",
+      "album": {
+        "name": "Bounce FM",
+        "url": "https://open.spotify.com/album/0d7nVKGRfBSdXeW4TAMQ6Y"
+      },
+      "artists": [
+        {
+          "name": "Moody Good",
+          "url": "https://open.spotify.com/artist/3EN8pUGJtYWutzf2fUxrDH"
+        },
+        {
+          "name": "Dr. Ush\u016bu",
+          "url": "https://open.spotify.com/artist/5UCxi2O9gdyXj7fNgQE9xR"
+        }
+      ],
+      "duration_ms": 265714,
+      "name": "Bounce FM",
+      "url": "https://open.spotify.com/track/3TCkKDvs4C2ZFhZ9bu6b5K"
     },
     {
       "added_at": "2026-10-09 04:02:04",
@@ -827,26 +911,6 @@
       "duration_ms": 160551,
       "name": "RAWWW",
       "url": "https://open.spotify.com/track/0LySaNLaiyr0bOEsKGgALN"
-    },
-    {
-      "added_at": "2026-11-06 10:03:38",
-      "album": {
-        "name": "Bury Them / Salts",
-        "url": "https://open.spotify.com/album/0XPHzjN4aR027cfRIcmTIt"
-      },
-      "artists": [
-        {
-          "name": "Klinical",
-          "url": "https://open.spotify.com/artist/7qMADlc8tXmh8bOx6bQAxB"
-        },
-        {
-          "name": "Killa P",
-          "url": "https://open.spotify.com/artist/0yZqTQF0ULKX2gFE6fBHXZ"
-        }
-      ],
-      "duration_ms": 185142,
-      "name": "Bury Them",
-      "url": "https://open.spotify.com/track/0IfZFvb5YydOQRuwrb4K25"
     },
     {
       "added_at": "2026-10-09 04:02:04",
@@ -1331,26 +1395,6 @@
     {
       "added_at": "2026-09-25 04:02:58",
       "album": {
-        "name": "The Block",
-        "url": "https://open.spotify.com/album/4HcwZqnr72ATTGJ8fCaLOR"
-      },
-      "artists": [
-        {
-          "name": "Bou",
-          "url": "https://open.spotify.com/artist/35dxfY1wywqVRUEaVuMm13"
-        },
-        {
-          "name": "Friction",
-          "url": "https://open.spotify.com/artist/5xdizdgbQQvGAgAolGhpXr"
-        }
-      ],
-      "duration_ms": 205517,
-      "name": "The Block",
-      "url": "https://open.spotify.com/track/3MnBeb0rOMmrhJ6azyip02"
-    },
-    {
-      "added_at": "2026-09-25 04:02:58",
-      "album": {
         "name": "Shakin' TT's",
         "url": "https://open.spotify.com/album/0uTyKCh6g3HiWKWpkp9MUe"
       },
@@ -1509,26 +1553,6 @@
       "url": "https://open.spotify.com/track/73NKwK7CHB0GXovxk24aOu"
     },
     {
-      "added_at": "2026-09-11 04:02:00",
-      "album": {
-        "name": "A Void",
-        "url": "https://open.spotify.com/album/3aBbAamOkFehpGWjgMFP5G"
-      },
-      "artists": [
-        {
-          "name": "Quackson",
-          "url": "https://open.spotify.com/artist/1srU7GzSGHwG1ewjSv6ztq"
-        },
-        {
-          "name": "Bella Renee",
-          "url": "https://open.spotify.com/artist/7od8NRvfdfAanx6IcY7JSa"
-        }
-      ],
-      "duration_ms": 233600,
-      "name": "A Void",
-      "url": "https://open.spotify.com/track/0sz41VsHu2tgWdiQOt7bd4"
-    },
-    {
       "added_at": "2026-09-18 04:14:57",
       "album": {
         "name": "Fire",
@@ -1615,26 +1639,6 @@
       "duration_ms": 204137,
       "name": "Lose It All",
       "url": "https://open.spotify.com/track/0Zq2IfabhVry15laf5Irtk"
-    },
-    {
-      "added_at": "2026-08-14 04:01:38",
-      "album": {
-        "name": "STINK MODE / BELONG TO ME",
-        "url": "https://open.spotify.com/album/4moyV2ZbmUuaUjexhCNssK"
-      },
-      "artists": [
-        {
-          "name": "LSDREAM",
-          "url": "https://open.spotify.com/artist/3Hrqjumb6WHg2aAUHJHLND"
-        },
-        {
-          "name": "Kill The Noise",
-          "url": "https://open.spotify.com/artist/3qnMl4DHT4gndzFAcG4FlM"
-        }
-      ],
-      "duration_ms": 161142,
-      "name": "STINK MODE",
-      "url": "https://open.spotify.com/track/35wiXT21VADtYMHavMX7vm"
     },
     {
       "added_at": "2026-08-21 04:02:23",

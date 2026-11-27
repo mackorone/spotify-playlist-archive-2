@@ -4,7 +4,7 @@
 
 > Recent hits and new songs from your fave artists\. Cover: Kacey Musgraves
 
-2,737 songs - 6 day 6 hr 57 min
+2,738 songs - 6 day 7 hr 0 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -164,6 +164,7 @@
 | [Back To You](https://open.spotify.com/track/0MG5kEZwTRrjKc0RZo9iCA) | [Benjamin Ingrosso](https://open.spotify.com/artist/7jEEE187pVG6InOxn03oA5) | [Pink Velvet Theatre](https://open.spotify.com/album/5vFDUbMumlLOjC75rHioJC) | 3:23 | 2024-10-25 | 2024-12-07 |
 | [Backup Plan \(feat\. Luke Combs\)](https://open.spotify.com/track/58is1MxJ0mafkdwalyYanU) | [Bailey Zimmerman](https://open.spotify.com/artist/3win9vGIxFfBRag9S63wwf), [Luke Combs](https://open.spotify.com/artist/718COspgdWOnwOFpJHRZHS) | [Backup Plan \(feat\. Luke Combs\)](https://open.spotify.com/album/7zSwRYnnPvr3BIljhzf9uQ) | 3:01 | 2025-05-02 | 2025-06-28 |
 | [Backwards](https://open.spotify.com/track/4sUreUOAY8aJEGxqPwIWI9) | [Jonas Brothers](https://open.spotify.com/artist/7gOdHgIoIKoe4i9Tta6qdD) | [Greetings From Your Hometown](https://open.spotify.com/album/6iMMJ5UlCv9glyse2I2YgR) | 3:00 | 2025-09-12 | 2026-02-28 |
+| [Bad at Goodbyes](https://open.spotify.com/track/3SHM2RkG2IzMiU57KHuMQC) | [Bebe Stockwell](https://open.spotify.com/artist/2KPSR6XA83w8XYrwWekhA9) | [Bad at Goodbyes](https://open.spotify.com/album/1ETwFcDJbYKBWExO85GYTJ) | 2:54 | 2026-11-27 |  |
 | [Bad Combination](https://open.spotify.com/track/6hEYKhkbUzXq15uRDTOcsU) | [Ruth B.](https://open.spotify.com/artist/2WzaAvm2bBCf4pEhyuDgCY) | [Bad Combination](https://open.spotify.com/album/7GPl7lfPggDwXt1LfNi6wt) | 3:14 | 2026-05-01 | 2026-06-06 |
 | [BAD COMPANY](https://open.spotify.com/track/6l8EVqC5hJbYzys0N3QXAN) | [Tiger La Flor](https://open.spotify.com/artist/5rWU8Vm32I8BJtPtrY5JC7) | [BAD COMPANY](https://open.spotify.com/album/11NO5t5VTniRy4dJOxQ1EC) | 2:53 | 2026-06-26 | 2026-07-11 |
 | [Bad Dream](https://open.spotify.com/track/4G7LYlnVgPWVmjXERE8NnB) | [Wallows](https://open.spotify.com/artist/0NIPkIjTV8mB795yEIiPYL) | [Bad Dream](https://open.spotify.com/album/3Ksfxxd3u2IABEqECQ8UWw) | 3:30 | 2024-04-26 | 2024-05-11 |
@@ -2162,7 +2163,7 @@
 | [Still Life](https://open.spotify.com/track/3Rmo63pS3ZAM03dJ9lVErM) | [Tors](https://open.spotify.com/artist/41dCbpok7A4uyNqbo3VVZ0) | [Miracle](https://open.spotify.com/album/7DkhdPN2rSpYG0tXqDljIh) | 3:44 | 2024-04-26 | 2024-05-04 |
 | [Still The Same](https://open.spotify.com/track/1ALggh912tizrjndhRLY63) | [Victor Ray](https://open.spotify.com/artist/3vABvmPywI2fV90bnpkpsJ) | [Still The Same](https://open.spotify.com/album/3bGZJDlp1lBNJYrcdGR1F4) | 3:14 | 2024-09-20 | 2024-10-19 |
 | [Still the Same \(feat\. Boy In Space\)](https://open.spotify.com/track/0f8xPdFJ6SdlHJwkxpdw2Q) | [SHY Martin](https://open.spotify.com/artist/7eCmccnRwPmRnWPw61x6jM), [Boy In Space](https://open.spotify.com/artist/0xu4jAQQv7ZAqvFGdc9HgP) | [Still the Same \(feat\. Boy In Space\)](https://open.spotify.com/album/15a2L2owp0WoKIMfcwncLc) | 2:58 | 2020-02-28 | 2020-06-12 |
-| [Stockholm](https://open.spotify.com/track/4Aor8M0U720cnHUgYvOC5P) | [Dermot Kennedy](https://open.spotify.com/artist/5KNNVgR6LBIABRIomyCwKJ) | [The Weight of the Woods \(Extended Edition\)](https://open.spotify.com/album/1R4BIKP7Clt6YoB58FbozL) | 5:44 | 2026-09-11 |  |
+| [Stockholm](https://open.spotify.com/track/4Aor8M0U720cnHUgYvOC5P) | [Dermot Kennedy](https://open.spotify.com/artist/5KNNVgR6LBIABRIomyCwKJ) | [The Weight of the Woods \(Extended Edition\)](https://open.spotify.com/album/1R4BIKP7Clt6YoB58FbozL) | 5:44 | 2026-09-11 | 2026-11-27 |
 | [Stoned at the Nail Salon](https://open.spotify.com/track/0WLVSnKqQBK4UPom1TESHK) | [Lorde](https://open.spotify.com/artist/163tK9Wjr9P9DmM0AVK7lm) | [Stoned at the Nail Salon](https://open.spotify.com/album/1LPqrRp0TeRO7hO1SYF08y) | 4:26 | 2021-09-18 | 2021-10-16 |
 | [Stop](https://open.spotify.com/track/3XJV73RAVIVfLKLV7eevuG) | [Anthony Ramos](https://open.spotify.com/artist/660YptcR0hNHJ8iEr1qcse) | [Stop](https://open.spotify.com/album/3PmOimRwikYLeYyBQUNxQ5) | 3:10 | 2020-08-14 | 2020-10-18 |
 | [Stop Me Dead](https://open.spotify.com/track/0JiNzR7D3lpOumnlUGnKjU) | [Kerr Mercer](https://open.spotify.com/artist/5sCWBXe11vVgkSogU1jq5x) | [Stop Me Dead](https://open.spotify.com/album/37XRrMkAxD04z1scC9AgxF) | 2:31 | 2026-06-12 | 2026-07-11 |

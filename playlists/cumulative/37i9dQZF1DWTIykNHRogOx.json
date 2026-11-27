@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2024-07-02",
-  "description": "Les  meilleures nouveaut\u00e9s de la chanson fran\u00e7aise avec Pomme.",
+  "description": "Les  meilleures nouveaut\u00e9s de la chanson fran\u00e7aise avec TeddyBear.",
   "name": "Exception Fran\u00e7aise",
   "tracks": [
     {
@@ -600,6 +600,24 @@
       "duration_ms": 154125,
       "name": "Bande annonce",
       "url": "https://open.spotify.com/track/3LzDVM9VIu8EjyimQcrENP"
+    },
+    {
+      "album": {
+        "name": "Batman",
+        "url": "https://open.spotify.com/album/6uARLMmJtcFedhaCV500Sj"
+      },
+      "artists": [
+        {
+          "name": "Steve Ibrahim",
+          "url": "https://open.spotify.com/artist/0LO2e5fJCBLFn4Ua1IPszs"
+        }
+      ],
+      "date_added": "2026-11-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 226749,
+      "name": "Batman",
+      "url": "https://open.spotify.com/track/6xbm3SABfyvW2MQD4wj5Bd"
     },
     {
       "album": {
@@ -1443,6 +1461,24 @@
     },
     {
       "album": {
+        "name": "Dispara\u00eetre",
+        "url": "https://open.spotify.com/album/0JHe5X2xIUozToFlOLKzIL"
+      },
+      "artists": [
+        {
+          "name": "Tout le monde s'appelle clara",
+          "url": "https://open.spotify.com/artist/5kgtXjB4gzuQbcMMNV6z3n"
+        }
+      ],
+      "date_added": "2026-11-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 164643,
+      "name": "Dispara\u00eetre",
+      "url": "https://open.spotify.com/track/2w8zt3mBOcgD9AftcMaUtI"
+    },
+    {
+      "album": {
         "name": "Dispara\u00eetre (Version piano)",
         "url": "https://open.spotify.com/album/23dB4MqyzNPISBwC7MVsO6"
       },
@@ -1838,7 +1874,7 @@
       ],
       "date_added": "2026-08-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-27",
       "duration_ms": 155633,
       "name": "fleur",
       "url": "https://open.spotify.com/track/1Z4x3SgHhoizXZUBe80BzY"
@@ -3021,6 +3057,24 @@
     },
     {
       "album": {
+        "name": "La nouvelle vie",
+        "url": "https://open.spotify.com/album/50cl3pRU5PT2OHogfFtAmu"
+      },
+      "artists": [
+        {
+          "name": "Flavien Berger",
+          "url": "https://open.spotify.com/artist/5PyU5aVBI66v0pkCIvEJfu"
+        }
+      ],
+      "date_added": "2026-11-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 288643,
+      "name": "La nouvelle vie",
+      "url": "https://open.spotify.com/track/1NzhIPjideyZm4idjBHkaY"
+    },
+    {
+      "album": {
         "name": "LA NUIT (La Venue de l\u2019avenir - musique originale)",
         "url": "https://open.spotify.com/album/6FEqYXlwRZfx9ro7cXNZru"
       },
@@ -3390,6 +3444,24 @@
       "duration_ms": 169920,
       "name": "Le bout du monde - R\u00e9\u00e9dition",
       "url": "https://open.spotify.com/track/0sdl8iR0JH2uBYiFCPUrb7"
+    },
+    {
+      "album": {
+        "name": "melancholia",
+        "url": "https://open.spotify.com/album/1ngGU6RUAJTdYkJMT0Bv0W"
+      },
+      "artists": [
+        {
+          "name": "Mathilde",
+          "url": "https://open.spotify.com/artist/7ctr5cWbHXAOpQkcH5ttsO"
+        }
+      ],
+      "date_added": "2026-11-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 176097,
+      "name": "le corps des femmes : melancholia",
+      "url": "https://open.spotify.com/track/4HHPjlibX7LB2DVcpArVpC"
     },
     {
       "album": {
@@ -4358,7 +4430,7 @@
       ],
       "date_added": "2026-05-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-27",
       "duration_ms": 277986,
       "name": "Les roses",
       "url": "https://open.spotify.com/track/5Ff8SOh8E69TbqLHJFHQjT"
@@ -4518,6 +4590,24 @@
       "duration_ms": 222751,
       "name": "lily rose",
       "url": "https://open.spotify.com/track/5aB5RkgtA34pFL5ZhRKdlx"
+    },
+    {
+      "album": {
+        "name": "Loin de la ville",
+        "url": "https://open.spotify.com/album/4CbHx94ju5KRFIXv9vdgLC"
+      },
+      "artists": [
+        {
+          "name": "MATHILDE",
+          "url": "https://open.spotify.com/artist/0LcXDxH8dn2AGnkDPFIdW1"
+        }
+      ],
+      "date_added": "2026-11-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 187137,
+      "name": "Loin de la ville",
+      "url": "https://open.spotify.com/track/1CQlsWUaLSW3al3yiTdMzY"
     },
     {
       "album": {
@@ -5361,6 +5451,24 @@
     },
     {
       "album": {
+        "name": "Les temps perdus",
+        "url": "https://open.spotify.com/album/0FaSs00i3luTMzpEU0TNvx"
+      },
+      "artists": [
+        {
+          "name": "Cascadeur",
+          "url": "https://open.spotify.com/artist/5yUtzFVpUdN8UtyZzDD9o9"
+        }
+      ],
+      "date_added": "2026-11-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 202320,
+      "name": "Orage violent",
+      "url": "https://open.spotify.com/track/47hhYmWvXeEa3XYUy3lDcR"
+    },
+    {
+      "album": {
         "name": "ordi par la fen\u00eatre",
         "url": "https://open.spotify.com/album/0A5jpGUoZXDz8tjZs0zYdz"
       },
@@ -5942,7 +6050,7 @@
       ],
       "date_added": "2026-06-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-27",
       "duration_ms": 199400,
       "name": "Qu'est-ce qu'on se ressemble",
       "url": "https://open.spotify.com/track/1tcH4X0nYk8K9HKxG2d9A8"
@@ -6184,7 +6292,7 @@
       ],
       "date_added": "2026-10-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-27",
       "duration_ms": 183010,
       "name": "Ressens",
       "url": "https://open.spotify.com/track/4ezg0M1I331BZVSY98TCFT"
@@ -6736,7 +6844,7 @@
       ],
       "date_added": "2026-10-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-27",
       "duration_ms": 241967,
       "name": "souveraine : melancholia",
       "url": "https://open.spotify.com/track/7lz70aLFPlpvm5WGekWKJT"
@@ -7814,7 +7922,7 @@
       ],
       "date_added": "2026-05-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-27",
       "duration_ms": 187320,
       "name": "\u00c9t\u00e9 avec toi",
       "url": "https://open.spotify.com/track/4cSHMHSTRhetAtT1iDP2zO"

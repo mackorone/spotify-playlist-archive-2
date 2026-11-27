@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2020-05-22",
-  "description": "The Best of Hip-Hop, Rap, Grime and Drill from the UK. Cover: BexBlu, Paul Stephan",
+  "description": "The Best of Hip-Hop, Rap, Grime and Drill from the UK. Cover: Novelist",
   "name": "Rap UK",
   "tracks": [
     {
@@ -6968,7 +6968,7 @@
       ],
       "date_added": "2026-05-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-27",
       "duration_ms": 161656,
       "name": "Body Tea (feat. J Hus)",
       "url": "https://open.spotify.com/track/4foa1MtTVcTboTIigCbjJv"
@@ -16807,6 +16807,28 @@
     },
     {
       "album": {
+        "name": "Cannon",
+        "url": "https://open.spotify.com/album/5ct8NDWjoHTOWaBsplVmld"
+      },
+      "artists": [
+        {
+          "name": "Chip",
+          "url": "https://open.spotify.com/artist/0tJCNteqwm7LmRZ6KWr8GT"
+        },
+        {
+          "name": "Parker Ighile",
+          "url": "https://open.spotify.com/artist/3cjyqM4lb0grqM0j4opTXM"
+        }
+      ],
+      "date_added": "2026-11-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 276250,
+      "name": "Footprints In The Sand",
+      "url": "https://open.spotify.com/track/6WQdgvBYA6YKDq2cc8YicD"
+    },
+    {
+      "album": {
         "name": "Coalition",
         "url": "https://open.spotify.com/album/7nETsHrJ3WxWO0iXziE7o6"
       },
@@ -16938,7 +16960,7 @@
       ],
       "date_added": "2026-05-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-27",
       "duration_ms": 131223,
       "name": "Franklin Saint",
       "url": "https://open.spotify.com/track/41eLyUevYzG1Nqcs9LOSQb"
@@ -20160,6 +20182,28 @@
       "duration_ms": 178167,
       "name": "Hello",
       "url": "https://open.spotify.com/track/4hq3RmohHEgRnzM2SEUVKH"
+    },
+    {
+      "album": {
+        "name": "More Than Rhyme (Deluxe)",
+        "url": "https://open.spotify.com/album/7hY0ysR7256egtpSgWD0kO"
+      },
+      "artists": [
+        {
+          "name": "163Margs",
+          "url": "https://open.spotify.com/artist/3YCLjLKCZN6U1t7IBJv8k2"
+        },
+        {
+          "name": "Marlo",
+          "url": "https://open.spotify.com/artist/6ioU7VVUMpOhlsD1b9A4xP"
+        }
+      ],
+      "date_added": "2026-11-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 153600,
+      "name": "Hello Miss",
+      "url": "https://open.spotify.com/track/6VsVL51jyujq41BoEUPQwV"
     },
     {
       "album": {
@@ -26856,7 +26900,7 @@
       ],
       "date_added": "2026-07-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-27",
       "duration_ms": 187833,
       "name": "Made Men",
       "url": "https://open.spotify.com/track/47I7vCKXmt6BMfaBsIlyUT"
@@ -34743,6 +34787,24 @@
     },
     {
       "album": {
+        "name": "SCENES",
+        "url": "https://open.spotify.com/album/0g3cBK40cLQrBDO6uc30fu"
+      },
+      "artists": [
+        {
+          "name": "Novelist",
+          "url": "https://open.spotify.com/artist/4OPTZC24954HYBeHKeoLSc"
+        }
+      ],
+      "date_added": "2026-11-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 109168,
+      "name": "PLACE",
+      "url": "https://open.spotify.com/track/182neIFyGEJepUUfNtlJqv"
+    },
+    {
+      "album": {
         "name": "Plain Jane",
         "url": "https://open.spotify.com/album/1BytsId0KoI309YrKfNWdL"
       },
@@ -36158,7 +36220,7 @@
       ],
       "date_added": "2026-04-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-27",
       "duration_ms": 74500,
       "name": "Quaresma",
       "url": "https://open.spotify.com/track/0dS6mvqzBRZ4X4jlEqQNv9"
@@ -46272,6 +46334,24 @@
       "duration_ms": 230040,
       "name": "Typa Way",
       "url": "https://open.spotify.com/track/277OKlE8bKSaWghuEBz7U7"
+    },
+    {
+      "album": {
+        "name": "Tyrant",
+        "url": "https://open.spotify.com/album/7dC1fHs3PVLi7d39dS9WEa"
+      },
+      "artists": [
+        {
+          "name": "Blanco",
+          "url": "https://open.spotify.com/artist/5FxsPS1K61fHEVB3FNZw6Y"
+        }
+      ],
+      "date_added": "2026-11-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 120000,
+      "name": "Tyrant",
+      "url": "https://open.spotify.com/track/0EvjQLuVip3D5mLBKLXr8r"
     },
     {
       "album": {

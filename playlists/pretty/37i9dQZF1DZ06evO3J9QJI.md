@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3J9QJI.md) - [plain]
 
 > This is Irv Gotti\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 175 likes - 13 songs - 44 min 49 sec
+[Spotify](https://open.spotify.com/user/spotify) - 176 likes - 13 songs - 44 min 49 sec
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -18,8 +18,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3J9QJI.md) - [plain]
 | 8 | [O.G\. \- Remix](https://open.spotify.com/track/6HWd3U8RC5hXcfj3c3Snfn) | [Irv Gotti](https://open.spotify.com/artist/6jBZBnyIYxyLIEFp6f2SbF), [Caddillac Tah](https://open.spotify.com/artist/4a7eqaOZbZrEj2J37FzJvl), [Black Child](https://open.spotify.com/artist/6X2NavlZruxomYkfSaZiwN) | [Irv Gotti Presents...The Remixes](https://open.spotify.com/album/7nQXKEaWp5Mib2Ni6PJGhT) | 2:49 |
 | 9 | [Here We Come](https://open.spotify.com/track/0TeEO7pnnKr9OnHyfCE3Hg) | [Vita](https://open.spotify.com/artist/3ot6fEzKvRrCnWy5BWlnxU), [Irv Gotti](https://open.spotify.com/artist/6jBZBnyIYxyLIEFp6f2SbF), [Ronny Bumps](https://open.spotify.com/artist/7ixk3IjGehM3J3LBrmtstu) | [Irv Gotti Presents..\. The Inc.](https://open.spotify.com/album/3DGkcr076qNEue0odlRrGk) | 3:53 |
 | 10 | [Hard Livin'](https://open.spotify.com/track/7Ekfi0norL9U3umpqrBmXo) | [Irv Gotti](https://open.spotify.com/artist/6jBZBnyIYxyLIEFp6f2SbF), [D.O\. Cannons](https://open.spotify.com/artist/0goZfLP9o3cMDjawhuYfI5), [Young Merc](https://open.spotify.com/artist/6RdgFuRxWjCYZZzUKjFJBG) | [Irv Gotti Presents...The Remixes](https://open.spotify.com/album/7nQXKEaWp5Mib2Ni6PJGhT) | 3:56 |
-| 11 | [Moreno \- Skit](https://open.spotify.com/track/5qPqsM0fdhY3iEViEEZb33) | [Irv Gotti](https://open.spotify.com/artist/6jBZBnyIYxyLIEFp6f2SbF) | [Irv Gotti Presents...The Remixes](https://open.spotify.com/album/7nQXKEaWp5Mib2Ni6PJGhT) | 0:45 |
-| 12 | [Boss \- Skit](https://open.spotify.com/track/2x81bnQVQEqhV0IWIbsMQk) | [Irv Gotti](https://open.spotify.com/artist/6jBZBnyIYxyLIEFp6f2SbF) | [Irv Gotti Presents...The Remixes](https://open.spotify.com/album/7nQXKEaWp5Mib2Ni6PJGhT) | 0:42 |
-| 13 | [No One Does It Better \- Remix](https://open.spotify.com/track/6Khtdk7kkYji84hNpnKJB9) | [Irv Gotti](https://open.spotify.com/artist/6jBZBnyIYxyLIEFp6f2SbF), [Ja Rule](https://open.spotify.com/artist/1J2VVASYAamtQ3Bt8wGgA6), [Caddillac Tah](https://open.spotify.com/artist/4a7eqaOZbZrEj2J37FzJvl), [Black Child](https://open.spotify.com/artist/6X2NavlZruxomYkfSaZiwN) | [Irv Gotti Presents...The Remixes](https://open.spotify.com/album/7nQXKEaWp5Mib2Ni6PJGhT) | 3:43 |
+| 11 | [No One Does It Better \- Remix](https://open.spotify.com/track/6Khtdk7kkYji84hNpnKJB9) | [Irv Gotti](https://open.spotify.com/artist/6jBZBnyIYxyLIEFp6f2SbF), [Ja Rule](https://open.spotify.com/artist/1J2VVASYAamtQ3Bt8wGgA6), [Caddillac Tah](https://open.spotify.com/artist/4a7eqaOZbZrEj2J37FzJvl), [Black Child](https://open.spotify.com/artist/6X2NavlZruxomYkfSaZiwN) | [Irv Gotti Presents...The Remixes](https://open.spotify.com/album/7nQXKEaWp5Mib2Ni6PJGhT) | 3:43 |
+| 12 | [Moreno \- Skit](https://open.spotify.com/track/5qPqsM0fdhY3iEViEEZb33) | [Irv Gotti](https://open.spotify.com/artist/6jBZBnyIYxyLIEFp6f2SbF) | [Irv Gotti Presents...The Remixes](https://open.spotify.com/album/7nQXKEaWp5Mib2Ni6PJGhT) | 0:45 |
+| 13 | [Boss \- Skit](https://open.spotify.com/track/2x81bnQVQEqhV0IWIbsMQk) | [Irv Gotti](https://open.spotify.com/artist/6jBZBnyIYxyLIEFp6f2SbF) | [Irv Gotti Presents...The Remixes](https://open.spotify.com/album/7nQXKEaWp5Mib2Ni6PJGhT) | 0:42 |
 
-Snapshot ID: `awOCAAAAAACWMQmoFZQ8GXwrdtSS0VKs`
+Snapshot ID: `awYlAAAAAAAZjEUGY8egKa3iw1iZXYS+`

@@ -1,12 +1,12 @@
 {
   "description": "This is Dominic Fike. The essential tracks, all in one playlist.",
-  "num_followers": 114892,
+  "num_followers": 114914,
   "original_name": "This Is Dominic Fike",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "awOCAAAAAACVOAupCmjDw4dkAgy1PL9P",
+  "snapshot_id": "awYlAAAAAACWUVecB5khkfp3IT1OV+VT",
   "tracks": [
     {
       "added_at": null,
@@ -191,30 +191,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "SMALL TOWN",
-        "url": "https://open.spotify.com/album/5HWgZgMLGybC8F7RMHL7Y2"
-      },
-      "artists": [
-        {
-          "name": "Dominic Fike",
-          "url": "https://open.spotify.com/artist/6USv9qhCn6zfxlBQIYJ9qs"
-        },
-        {
-          "name": "Gabriel Jacoby",
-          "url": "https://open.spotify.com/artist/05pLxSVIyZiQTqQnR4QQ9H"
-        },
-        {
-          "name": "Emma Ogier",
-          "url": "https://open.spotify.com/artist/7lVBH2nQlHcpcU4RiY7izm"
-        }
-      ],
-      "duration_ms": 169981,
-      "name": "SMALL TOWN",
-      "url": "https://open.spotify.com/track/3i1eMUF4POV3G1xkQIisoN"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Phone Numbers",
         "url": "https://open.spotify.com/album/6RhSCF1Z3g95Q1rZWqpUdT"
       },
@@ -251,22 +227,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "HOW TO QUIT SMOKING",
-        "url": "https://open.spotify.com/album/4JxUxYheA8Xs2dvEZTWsyg"
-      },
-      "artists": [
-        {
-          "name": "Dominic Fike",
-          "url": "https://open.spotify.com/artist/6USv9qhCn6zfxlBQIYJ9qs"
-        }
-      ],
-      "duration_ms": 131263,
-      "name": "LILY WAS A CAVALIER",
-      "url": "https://open.spotify.com/track/5ZzoyYAFQr3L0IBQTovBjy"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Don't Forget About Me, Demos",
         "url": "https://open.spotify.com/album/05jbNkYoEQdjVDHEHtg1gY"
       },
@@ -279,6 +239,22 @@
       "duration_ms": 107280,
       "name": "Westcoast Collective",
       "url": "https://open.spotify.com/track/7rNun2AyLu4u4rQpRt0iS9"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "HOW TO QUIT SMOKING",
+        "url": "https://open.spotify.com/album/4JxUxYheA8Xs2dvEZTWsyg"
+      },
+      "artists": [
+        {
+          "name": "Dominic Fike",
+          "url": "https://open.spotify.com/artist/6USv9qhCn6zfxlBQIYJ9qs"
+        }
+      ],
+      "duration_ms": 131263,
+      "name": "LILY WAS A CAVALIER",
+      "url": "https://open.spotify.com/track/5ZzoyYAFQr3L0IBQTovBjy"
     },
     {
       "added_at": null,
@@ -315,26 +291,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "HOW TO QUIT SMOKING",
-        "url": "https://open.spotify.com/album/4JxUxYheA8Xs2dvEZTWsyg"
-      },
-      "artists": [
-        {
-          "name": "Dominic Fike",
-          "url": "https://open.spotify.com/artist/6USv9qhCn6zfxlBQIYJ9qs"
-        },
-        {
-          "name": "Grace Ives",
-          "url": "https://open.spotify.com/artist/4TZieE5978SbTInJswaay2"
-        }
-      ],
-      "duration_ms": 133656,
-      "name": "HONEYLOVE",
-      "url": "https://open.spotify.com/track/3uQ8p120IPeO2n0h36IAcY"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "We Love Dogs!",
         "url": "https://open.spotify.com/album/1Aus1dFkP2BSyzibCl0HA7"
       },
@@ -351,6 +307,30 @@
       "duration_ms": 209970,
       "name": "Photo ID (with Dominic Fike)",
       "url": "https://open.spotify.com/track/1F35Dmog9pekyCVnH1eQpl"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "HOW TO QUIT SMOKING",
+        "url": "https://open.spotify.com/album/4JxUxYheA8Xs2dvEZTWsyg"
+      },
+      "artists": [
+        {
+          "name": "Dominic Fike",
+          "url": "https://open.spotify.com/artist/6USv9qhCn6zfxlBQIYJ9qs"
+        },
+        {
+          "name": "Gabriel Jacoby",
+          "url": "https://open.spotify.com/artist/05pLxSVIyZiQTqQnR4QQ9H"
+        },
+        {
+          "name": "Emma Ogier",
+          "url": "https://open.spotify.com/artist/7lVBH2nQlHcpcU4RiY7izm"
+        }
+      ],
+      "duration_ms": 169981,
+      "name": "SMALL TOWN",
+      "url": "https://open.spotify.com/track/5quJ9xU6fM1yPzfFIpJVZl"
     },
     {
       "added_at": null,
@@ -391,22 +371,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "HOW TO QUIT SMOKING",
-        "url": "https://open.spotify.com/album/4JxUxYheA8Xs2dvEZTWsyg"
-      },
-      "artists": [
-        {
-          "name": "Dominic Fike",
-          "url": "https://open.spotify.com/artist/6USv9qhCn6zfxlBQIYJ9qs"
-        }
-      ],
-      "duration_ms": 178334,
-      "name": "WALLFLOWER",
-      "url": "https://open.spotify.com/track/20cre5t6pqsZPCF794uJpT"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "What Could Possibly Go Wrong",
         "url": "https://open.spotify.com/album/1BubKJqf6Uc4fNae5kLJJ7"
       },
@@ -419,6 +383,26 @@
       "duration_ms": 197846,
       "name": "Politics & Violence",
       "url": "https://open.spotify.com/track/4keHa1UN3c9OWHVv3BE5ra"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "HOW TO QUIT SMOKING",
+        "url": "https://open.spotify.com/album/4JxUxYheA8Xs2dvEZTWsyg"
+      },
+      "artists": [
+        {
+          "name": "Dominic Fike",
+          "url": "https://open.spotify.com/artist/6USv9qhCn6zfxlBQIYJ9qs"
+        },
+        {
+          "name": "Grace Ives",
+          "url": "https://open.spotify.com/artist/4TZieE5978SbTInJswaay2"
+        }
+      ],
+      "duration_ms": 133656,
+      "name": "HONEYLOVE",
+      "url": "https://open.spotify.com/track/3uQ8p120IPeO2n0h36IAcY"
     },
     {
       "added_at": null,
@@ -455,22 +439,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Rocket",
-        "url": "https://open.spotify.com/album/3KKqjBV0QBcgfTErzdkEd3"
-      },
-      "artists": [
-        {
-          "name": "Dominic Fike",
-          "url": "https://open.spotify.com/artist/6USv9qhCn6zfxlBQIYJ9qs"
-        }
-      ],
-      "duration_ms": 171741,
-      "name": "Great Pretender",
-      "url": "https://open.spotify.com/track/1pNEdS8LS4TKZgTSvfvl5C"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "What Could Possibly Go Wrong",
         "url": "https://open.spotify.com/album/1BubKJqf6Uc4fNae5kLJJ7"
       },
@@ -487,6 +455,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Rocket",
+        "url": "https://open.spotify.com/album/3KKqjBV0QBcgfTErzdkEd3"
+      },
+      "artists": [
+        {
+          "name": "Dominic Fike",
+          "url": "https://open.spotify.com/artist/6USv9qhCn6zfxlBQIYJ9qs"
+        }
+      ],
+      "duration_ms": 171741,
+      "name": "Great Pretender",
+      "url": "https://open.spotify.com/track/1pNEdS8LS4TKZgTSvfvl5C"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Don't Forget About Me, Demos",
         "url": "https://open.spotify.com/album/05jbNkYoEQdjVDHEHtg1gY"
       },
@@ -499,38 +483,6 @@
       "duration_ms": 194360,
       "name": "King of Everything",
       "url": "https://open.spotify.com/track/0lO1yt6M1l1OAs80M3vEfM"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Doggy (feat. Love Spells and Truly Young)",
-        "url": "https://open.spotify.com/album/7azUuF24wzDvguS18Eq4tV"
-      },
-      "artists": [
-        {
-          "name": "Geezer",
-          "url": "https://open.spotify.com/artist/1Px3z0pAOyBLWpcFPb5VYH"
-        },
-        {
-          "name": "Kevin Abstract",
-          "url": "https://open.spotify.com/artist/07EcmJpfAday8xGkslfanE"
-        },
-        {
-          "name": "Dominic Fike",
-          "url": "https://open.spotify.com/artist/6USv9qhCn6zfxlBQIYJ9qs"
-        },
-        {
-          "name": "Love Spells",
-          "url": "https://open.spotify.com/artist/5iiqhuffUTPEOjAUDj19IW"
-        },
-        {
-          "name": "Truly Young",
-          "url": "https://open.spotify.com/artist/6Hqu0lCYGK2QO1vp4rwDMS"
-        }
-      ],
-      "duration_ms": 172359,
-      "name": "Doggy (feat. Love Spells and Truly Young)",
-      "url": "https://open.spotify.com/track/5Vu1MTtsQFUO03YpHyfcuU"
     },
     {
       "added_at": null,
@@ -571,6 +523,38 @@
     {
       "added_at": null,
       "album": {
+        "name": "Doggy (feat. Love Spells and Truly Young)",
+        "url": "https://open.spotify.com/album/7azUuF24wzDvguS18Eq4tV"
+      },
+      "artists": [
+        {
+          "name": "Geezer",
+          "url": "https://open.spotify.com/artist/1Px3z0pAOyBLWpcFPb5VYH"
+        },
+        {
+          "name": "Kevin Abstract",
+          "url": "https://open.spotify.com/artist/07EcmJpfAday8xGkslfanE"
+        },
+        {
+          "name": "Dominic Fike",
+          "url": "https://open.spotify.com/artist/6USv9qhCn6zfxlBQIYJ9qs"
+        },
+        {
+          "name": "Love Spells",
+          "url": "https://open.spotify.com/artist/5iiqhuffUTPEOjAUDj19IW"
+        },
+        {
+          "name": "Truly Young",
+          "url": "https://open.spotify.com/artist/6Hqu0lCYGK2QO1vp4rwDMS"
+        }
+      ],
+      "duration_ms": 172359,
+      "name": "Doggy (feat. Love Spells and Truly Young)",
+      "url": "https://open.spotify.com/track/5Vu1MTtsQFUO03YpHyfcuU"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "14 minutes",
         "url": "https://open.spotify.com/album/2qwv7hNjSGfLarHY2adeq9"
       },
@@ -603,6 +587,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "What Could Possibly Go Wrong",
+        "url": "https://open.spotify.com/album/1BubKJqf6Uc4fNae5kLJJ7"
+      },
+      "artists": [
+        {
+          "name": "Dominic Fike",
+          "url": "https://open.spotify.com/artist/6USv9qhCn6zfxlBQIYJ9qs"
+        }
+      ],
+      "duration_ms": 150620,
+      "name": "Wurli",
+      "url": "https://open.spotify.com/track/5MSshyHGM9ajWSEoBcR0jv"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Blush",
         "url": "https://open.spotify.com/album/59pGTYofVrG2K6Q12h7gm0"
       },
@@ -619,22 +619,6 @@
       "duration_ms": 209830,
       "name": "Maroon",
       "url": "https://open.spotify.com/track/6lJxjmUZ0EcZoxyKNhOOGa"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "What Could Possibly Go Wrong",
-        "url": "https://open.spotify.com/album/1BubKJqf6Uc4fNae5kLJJ7"
-      },
-      "artists": [
-        {
-          "name": "Dominic Fike",
-          "url": "https://open.spotify.com/artist/6USv9qhCn6zfxlBQIYJ9qs"
-        }
-      ],
-      "duration_ms": 150620,
-      "name": "Wurli",
-      "url": "https://open.spotify.com/track/5MSshyHGM9ajWSEoBcR0jv"
     },
     {
       "added_at": null,
@@ -887,6 +871,26 @@
       "duration_ms": 89894,
       "name": "One Glass",
       "url": "https://open.spotify.com/track/5cm8sMvF8qskWFUrDdDIhr"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Will You Be My Yellow?",
+        "url": "https://open.spotify.com/album/12nH1R4NqEtaOQ5M7RA63p"
+      },
+      "artists": [
+        {
+          "name": "Bakar",
+          "url": "https://open.spotify.com/artist/3K2Srho6NCF3o9MswGR76H"
+        },
+        {
+          "name": "Dominic Fike",
+          "url": "https://open.spotify.com/artist/6USv9qhCn6zfxlBQIYJ9qs"
+        }
+      ],
+      "duration_ms": 173349,
+      "name": "Stop Selling Her Drugs (feat. Dominic Fike)",
+      "url": "https://open.spotify.com/track/4uBQDAzZ881KYZvW7ZInUn"
     }
   ],
   "unique_name": "This Is Dominic Fike",

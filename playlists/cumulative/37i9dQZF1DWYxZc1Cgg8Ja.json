@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2023-09-27",
-  "description": "Sonidos latinos para relajarse a cualquier hora del d\u00eda. Foto: Osm\u00e1n M\u00fasica",
+  "description": "Sonidos latinos para relajarse a cualquier hora del d\u00eda. Foto: Feid & Snoop Dogg",
   "name": "Vibra Chill",
   "tracks": [
     {
@@ -1606,6 +1606,28 @@
       "duration_ms": 166720,
       "name": "Goosebumps",
       "url": "https://open.spotify.com/track/7sVH3E4Ea7vmggCkffdU4q"
+    },
+    {
+      "album": {
+        "name": "GRACIAS X TODO",
+        "url": "https://open.spotify.com/album/05yVCXvCap5aglKYrDMHx7"
+      },
+      "artists": [
+        {
+          "name": "Feid",
+          "url": "https://open.spotify.com/artist/2LRoIwlKmHjgvigdNGBHNo"
+        },
+        {
+          "name": "Snoop Dogg",
+          "url": "https://open.spotify.com/artist/7hJcb9fa4alzcOq3EaNPoG"
+        }
+      ],
+      "date_added": "2026-11-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 182900,
+      "name": "GRACIAS X TODO",
+      "url": "https://open.spotify.com/track/4WmcJk3pLqQuwVcFePYZJA"
     },
     {
       "album": {
@@ -3218,7 +3240,7 @@
       ],
       "date_added": "2026-08-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-27",
       "duration_ms": 195217,
       "name": "Orgullo de Ganster",
       "url": "https://open.spotify.com/track/4IwIcMAptDdL6HBnRzbGOv"

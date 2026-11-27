@@ -2761,6 +2761,28 @@
     },
     {
       "album": {
+        "name": "Body On Me",
+        "url": "https://open.spotify.com/album/2JjolGO7kvuBLwRv5uLhqT"
+      },
+      "artists": [
+        {
+          "name": "SMACK",
+          "url": "https://open.spotify.com/artist/5uJw4WCX5nYj4FHky9r1Ug"
+        },
+        {
+          "name": "KIYOTO",
+          "url": "https://open.spotify.com/artist/5uxop8n7axixBHd562LYrR"
+        }
+      ],
+      "date_added": "2026-11-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 135000,
+      "name": "Body On Me",
+      "url": "https://open.spotify.com/track/5lhbbkybtv1UzhvYyBLaEB"
+    },
+    {
+      "album": {
         "name": "Body To Body",
         "url": "https://open.spotify.com/album/6QNieC7Wn7A36nDPkSuhEt"
       },
@@ -7254,6 +7276,24 @@
       "duration_ms": 173023,
       "name": "Freak Out",
       "url": "https://open.spotify.com/track/6q7BYKdazGMHWAAiHKrrq3"
+    },
+    {
+      "album": {
+        "name": "Freaky",
+        "url": "https://open.spotify.com/album/5mrdfGhSCI5Lj3NRmn8L5V"
+      },
+      "artists": [
+        {
+          "name": "Bauti Tesei",
+          "url": "https://open.spotify.com/artist/17YsLIhtMx8p4QaDAqpPh6"
+        }
+      ],
+      "date_added": "2026-11-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 189230,
+      "name": "Freaky",
+      "url": "https://open.spotify.com/track/4UsAKoXtZA0T5UkzdhYI1k"
     },
     {
       "album": {

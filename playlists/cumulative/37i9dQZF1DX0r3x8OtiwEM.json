@@ -46,7 +46,7 @@
       ],
       "date_added": "2024-09-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-27",
       "duration_ms": 333658,
       "name": "3 Days Later",
       "url": "https://open.spotify.com/track/0divWrAf5awgfmCGyWhZ3j"
@@ -1264,7 +1264,7 @@
       ],
       "date_added": "2026-09-18",
       "date_added_asterisk": false,
-      "date_removed": "2026-10-27",
+      "date_removed": null,
       "duration_ms": 179076,
       "name": "Be My Own",
       "url": "https://open.spotify.com/track/4YhVo4VniHUGeTE6bOYF41"
@@ -2752,7 +2752,7 @@
       ],
       "date_added": "2025-07-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-27",
       "duration_ms": 206829,
       "name": "Contesto",
       "url": "https://open.spotify.com/track/4PjAtEHN8MXgXFQwTxIWva"
@@ -4228,7 +4228,7 @@
       ],
       "date_added": "2026-01-16",
       "date_added_asterisk": false,
-      "date_removed": "2026-10-21",
+      "date_removed": null,
       "duration_ms": 214687,
       "name": "Empty Skies",
       "url": "https://open.spotify.com/track/1JFWNrBSaz1HdWUPPILJ3V"
@@ -4566,7 +4566,7 @@
       ],
       "date_added": "2022-07-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-27",
       "duration_ms": 212080,
       "name": "EYES",
       "url": "https://open.spotify.com/track/4ipoHe6bjN9IeXr8CGJYgR"
@@ -5126,7 +5126,7 @@
       ],
       "date_added": "2026-01-09",
       "date_added_asterisk": false,
-      "date_removed": "2026-10-22",
+      "date_removed": null,
       "duration_ms": 240714,
       "name": "For a Feeling (feat. RHODES) - Adam Sellouk & Y do I Remix",
       "url": "https://open.spotify.com/track/17g0qkplMw3ejgGpDd2GJj"
@@ -5524,7 +5524,7 @@
       ],
       "date_added": "2024-09-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-27",
       "duration_ms": 453068,
       "name": "glow",
       "url": "https://open.spotify.com/track/3i9QKRl5Ql3pgUfNdYBVTc"
@@ -7806,10 +7806,32 @@
       ],
       "date_added": "2026-09-11",
       "date_added_asterisk": false,
-      "date_removed": "2026-11-23",
+      "date_removed": null,
       "duration_ms": 295487,
       "name": "Landlords Nightmare",
       "url": "https://open.spotify.com/track/3WkdjUhq7DCqvtanW7TjSg"
+    },
+    {
+      "album": {
+        "name": "Last All Night",
+        "url": "https://open.spotify.com/album/7D9gg9eLqCOGCvsyvo4kLA"
+      },
+      "artists": [
+        {
+          "name": "Juicy Romance",
+          "url": "https://open.spotify.com/artist/55RZaB7LJnx3sXeyVJXB2e"
+        },
+        {
+          "name": "Azzecca",
+          "url": "https://open.spotify.com/artist/2k5DY2QDU3kBi5DX7OQlWj"
+        }
+      ],
+      "date_added": "2026-11-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 209885,
+      "name": "Last All Night",
+      "url": "https://open.spotify.com/track/1iUNHk3lN8EZMIhcB68uAc"
     },
     {
       "album": {
@@ -7868,7 +7890,7 @@
       ],
       "date_added": "2024-05-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-27",
       "duration_ms": 256743,
       "name": "Last Night - Anyma x Layton Giordani Remix",
       "url": "https://open.spotify.com/track/22hOKPKTAegLoLJKM33K4a"
@@ -8024,7 +8046,7 @@
       ],
       "date_added": "2024-08-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-27",
       "duration_ms": 253658,
       "name": "Like A Dream",
       "url": "https://open.spotify.com/track/5BfmbGA0K89froxm1kNBF1"
@@ -8228,7 +8250,7 @@
       ],
       "date_added": "2025-08-22",
       "date_added_asterisk": false,
-      "date_removed": "2026-08-25",
+      "date_removed": null,
       "duration_ms": 198764,
       "name": "Loop",
       "url": "https://open.spotify.com/track/5MKANTNybiKpBINi93lfj7"
@@ -8446,7 +8468,7 @@
       ],
       "date_added": "2026-08-21",
       "date_added_asterisk": false,
-      "date_removed": "2026-11-14",
+      "date_removed": null,
       "duration_ms": 214982,
       "name": "Low",
       "url": "https://open.spotify.com/track/3RS9G9t00I4ljZzylMXH9O"
@@ -10330,7 +10352,7 @@
       ],
       "date_added": "2025-04-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-27",
       "duration_ms": 222956,
       "name": "One And Only",
       "url": "https://open.spotify.com/track/4iA5MckI9OGxFgNDGtuRoZ"
@@ -11304,7 +11326,7 @@
       ],
       "date_added": "2026-01-09",
       "date_added_asterisk": false,
-      "date_removed": "2026-06-09",
+      "date_removed": null,
       "duration_ms": 207619,
       "name": "Pump Up The Jam",
       "url": "https://open.spotify.com/track/4ksPwUFgqXopEItcz0sqEQ"
@@ -12004,7 +12026,7 @@
       ],
       "date_added": "2026-05-01",
       "date_added_asterisk": false,
-      "date_removed": "2026-10-28",
+      "date_removed": null,
       "duration_ms": 265511,
       "name": "Rivers and Homes Retake",
       "url": "https://open.spotify.com/track/27yxfXtOHaPkytNz0P2HoL"
@@ -12136,7 +12158,7 @@
       ],
       "date_added": "2024-11-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-27",
       "duration_ms": 336000,
       "name": "Saga",
       "url": "https://open.spotify.com/track/1uujki6DaepMXtCRv4ySKi"
@@ -13356,7 +13378,7 @@
       ],
       "date_added": "2022-08-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-27",
       "duration_ms": 233562,
       "name": "Stay There",
       "url": "https://open.spotify.com/track/7t9PLlf9nI2Xo8WRrfcItk"
@@ -14066,7 +14088,7 @@
       ],
       "date_added": "2026-06-19",
       "date_added_asterisk": false,
-      "date_removed": "2026-11-26",
+      "date_removed": null,
       "duration_ms": 400629,
       "name": "The Doubt",
       "url": "https://open.spotify.com/track/2sxAMFvwgEwNer6Ph1SZcn"
@@ -16364,7 +16386,7 @@
       ],
       "date_added": "2024-10-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-27",
       "duration_ms": 159600,
       "name": "WONDER",
       "url": "https://open.spotify.com/track/5rEdvcGN1LKDAufgdw2K6s"

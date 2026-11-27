@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-01-02",
-  "description": "De la Calle a la Cima con Fuerza Regida.",
+  "description": "De la Calle a la Cima con Anuel AA.",
   "name": "MANSI\u00d3N REGGAET\u00d3N",
   "tracks": [
     {
@@ -28,7 +28,7 @@
       ],
       "date_added": "2026-06-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-27",
       "duration_ms": 231791,
       "name": "$UELTA GATITA $UELTA",
       "url": "https://open.spotify.com/track/01xWRzLhSgANX9CGgBzssk"
@@ -1658,6 +1658,24 @@
       "duration_ms": 162146,
       "name": "BESTIES",
       "url": "https://open.spotify.com/track/7eTv2OTr3aY5iKtFdBusoA"
+    },
+    {
+      "album": {
+        "name": "Real Hasta La Muerte II",
+        "url": "https://open.spotify.com/album/4Gqg391dMB9BA7pPW331Ag"
+      },
+      "artists": [
+        {
+          "name": "Anuel AA",
+          "url": "https://open.spotify.com/artist/2R21vXR83lH98kGeO99Y66"
+        }
+      ],
+      "date_added": "2026-11-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 200869,
+      "name": "Bichote",
+      "url": "https://open.spotify.com/track/6S1w1u1J8fldyPXuje4AGw"
     },
     {
       "album": {
@@ -5271,6 +5289,32 @@
     },
     {
       "album": {
+        "name": "ESA NOTA",
+        "url": "https://open.spotify.com/album/1Qz8jdCTr8oBiZfFwkBUuY"
+      },
+      "artists": [
+        {
+          "name": "Benja Valencia",
+          "url": "https://open.spotify.com/artist/2N4rDzKt2aZK1ksES0YKBP"
+        },
+        {
+          "name": "Pablo Chill-E",
+          "url": "https://open.spotify.com/artist/2XcZshqzPKm3iZcmt73R8D"
+        },
+        {
+          "name": "Distobal",
+          "url": "https://open.spotify.com/artist/2fbx2ZUJ47fJKCT3RKDEWD"
+        }
+      ],
+      "date_added": "2026-11-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 184688,
+      "name": "ESA NOTA",
+      "url": "https://open.spotify.com/track/5neDRSv92WBRaVM6BpdiFo"
+    },
+    {
+      "album": {
         "name": "Esc\u00e1ndalo",
         "url": "https://open.spotify.com/album/3OA4b7KyqgX26a6r7XZWE3"
       },
@@ -8599,6 +8643,36 @@
     },
     {
       "album": {
+        "name": "Mani\u00e1tica",
+        "url": "https://open.spotify.com/album/5x5ftt025tns3yVYImwuwI"
+      },
+      "artists": [
+        {
+          "name": "El Malilla",
+          "url": "https://open.spotify.com/artist/6BV37tKh6pY97mnNdTCzly"
+        },
+        {
+          "name": "De La Ghetto",
+          "url": "https://open.spotify.com/artist/3EiLUeyEcA6fbRPSHkG5kb"
+        },
+        {
+          "name": "Jowell",
+          "url": "https://open.spotify.com/artist/6TASDj2ogOKQptnxgEvrcP"
+        },
+        {
+          "name": "Dj Hate",
+          "url": "https://open.spotify.com/artist/0CE9Pp45uCrBkCsL4COjfS"
+        }
+      ],
+      "date_added": "2026-11-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 200911,
+      "name": "Mani\u00e1tica",
+      "url": "https://open.spotify.com/track/49PGN1jRbJ2Qk2izoGzv5r"
+    },
+    {
+      "album": {
         "name": "Maquillaje",
         "url": "https://open.spotify.com/album/0CLVKodSfi7SSMDFQutIhy"
       },
@@ -10100,7 +10174,7 @@
       ],
       "date_added": "2026-10-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-27",
       "duration_ms": 158859,
       "name": "No Me Suman",
       "url": "https://open.spotify.com/track/23M9h0b9WvF3NC9ZgT0qB4"
@@ -12304,7 +12378,7 @@
       ],
       "date_added": "2026-05-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-27",
       "duration_ms": 172072,
       "name": "Q Hubo Amor (Medell\u00edn)",
       "url": "https://open.spotify.com/track/0HHRmqcKYBUAsMXgXdvxx8"

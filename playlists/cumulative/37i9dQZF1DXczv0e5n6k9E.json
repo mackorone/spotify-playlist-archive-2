@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2024-07-02",
-  "description": "\u0397 \u03b5\u03bb\u03bb\u03b7\u03bd\u03b9\u03ba\u03ae \u03c1\u03b1\u03c0 \u03c3\u03ba\u03b7\u03bd\u03ae \u03c3\u03c4\u03b1 \u03ba\u03b1\u03bb\u03cd\u03c4\u03b5\u03c1\u03ac \u03c4\u03b7\u03c2. \u0395\u03be\u03ce\u03c6\u03c5\u03bb\u03bb\u03bf: Roi 6/12",
+  "description": "\u0397 \u03b5\u03bb\u03bb\u03b7\u03bd\u03b9\u03ba\u03ae \u03c1\u03b1\u03c0 \u03c3\u03ba\u03b7\u03bd\u03ae \u03c3\u03c4\u03b1 \u03ba\u03b1\u03bb\u03cd\u03c4\u03b5\u03c1\u03ac \u03c4\u03b7\u03c2. \u0395\u03be\u03ce\u03c6\u03c5\u03bb\u03bb\u03bf: Bres",
   "name": "Hot Greek Rap",
   "tracks": [
     {
@@ -280,7 +280,7 @@
       ],
       "date_added": "2026-11-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-27",
       "duration_ms": 128000,
       "name": "2FACE",
       "url": "https://open.spotify.com/track/1uJPiVJMaDdtNfLWGqFs2B"
@@ -2944,7 +2944,7 @@
       ],
       "date_added": "2026-10-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-27",
       "duration_ms": 205714,
       "name": "BILLION VIEW",
       "url": "https://open.spotify.com/track/4kWPKMeijVnvEG1OULI0KV"
@@ -4596,7 +4596,7 @@
       ],
       "date_added": "2026-11-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-27",
       "duration_ms": 106263,
       "name": "DARKWAVE",
       "url": "https://open.spotify.com/track/6dtuEjc4lxlvBd03io65wi"
@@ -5124,7 +5124,7 @@
       ],
       "date_added": "2026-10-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-27",
       "duration_ms": 140571,
       "name": "Diss Track",
       "url": "https://open.spotify.com/track/2WZQ4o39tzTJn7trsM3ZcS"
@@ -6068,6 +6068,28 @@
       "duration_ms": 154480,
       "name": "ETSI DE GINETE",
       "url": "https://open.spotify.com/track/5sQVqxvMimtLqi6p1d9tby"
+    },
+    {
+      "album": {
+        "name": "Plata o Nada",
+        "url": "https://open.spotify.com/album/2WHOsHKpKToDRXuapNKCDA"
+      },
+      "artists": [
+        {
+          "name": "Bres",
+          "url": "https://open.spotify.com/artist/3KqadO00DMt4lSqyEE5CTr"
+        },
+        {
+          "name": "PAR1S",
+          "url": "https://open.spotify.com/artist/6rZK15LxP7rOo0npKh0biK"
+        }
+      ],
+      "date_added": "2026-11-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 172788,
+      "name": "Eukairia",
+      "url": "https://open.spotify.com/track/3eELXKJm5KUpNF7w7aaaDi"
     },
     {
       "album": {
@@ -9820,6 +9842,28 @@
       "duration_ms": 161032,
       "name": "KOMODINO",
       "url": "https://open.spotify.com/track/6h35W32qi70UPoSY3xB4Iu"
+    },
+    {
+      "album": {
+        "name": "Kompina",
+        "url": "https://open.spotify.com/album/59CGSgYi8PXq3ucGykt6OQ"
+      },
+      "artists": [
+        {
+          "name": "Arab",
+          "url": "https://open.spotify.com/artist/3h3WR8UDyRk15U74xAXE7a"
+        },
+        {
+          "name": "Lami",
+          "url": "https://open.spotify.com/artist/5V9DCSxcVep57RMyCfL2TP"
+        }
+      ],
+      "date_added": "2026-11-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 108571,
+      "name": "Kompina",
+      "url": "https://open.spotify.com/track/5YFh02RQeeOpVARIlA5Vid"
     },
     {
       "album": {
@@ -15343,6 +15387,28 @@
     },
     {
       "album": {
+        "name": "Pouthena De Xrosto",
+        "url": "https://open.spotify.com/album/3Fb717MEvcoPY7oIAyfgIl"
+      },
+      "artists": [
+        {
+          "name": "Fy",
+          "url": "https://open.spotify.com/artist/0WxSlQlue0fq99fXfGBmxA"
+        },
+        {
+          "name": "Ivan Greko",
+          "url": "https://open.spotify.com/artist/0cy6ZMOTeautXRNJsR6PiV"
+        }
+      ],
+      "date_added": "2026-11-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 166380,
+      "name": "Pouthena De Xrosto",
+      "url": "https://open.spotify.com/track/5fhBLZEFDlZyg27Rs3eCop"
+    },
+    {
+      "album": {
         "name": "PRESVHS",
         "url": "https://open.spotify.com/album/7cWDVIpickrrLaGqe7kxk4"
       },
@@ -16567,6 +16633,36 @@
     },
     {
       "album": {
+        "name": "STRAIGHT OUTTA STREETS",
+        "url": "https://open.spotify.com/album/5bAVYQH6EcFbhEapkvTQOO"
+      },
+      "artists": [
+        {
+          "name": "GAB",
+          "url": "https://open.spotify.com/artist/0LuYYFDRJd3PNTh1k4nFRN"
+        },
+        {
+          "name": "Arab",
+          "url": "https://open.spotify.com/artist/3h3WR8UDyRk15U74xAXE7a"
+        },
+        {
+          "name": "M3NTRA",
+          "url": "https://open.spotify.com/artist/2PGUfaiMdCRUBN4h0hcVcn"
+        },
+        {
+          "name": "BIG TSEPAS",
+          "url": "https://open.spotify.com/artist/2jR7ukUMLTb8f523vZKzDc"
+        }
+      ],
+      "date_added": "2026-11-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 157092,
+      "name": "SAVILO",
+      "url": "https://open.spotify.com/track/7EOA0OjPmKf9zQEW9ZTHrZ"
+    },
+    {
+      "album": {
         "name": "Royal",
         "url": "https://open.spotify.com/album/6NigROCnaigsr6FroYtDAu"
       },
@@ -16814,7 +16910,7 @@
       ],
       "date_added": "2026-11-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-27",
       "duration_ms": 138929,
       "name": "Seri Apo Xthes",
       "url": "https://open.spotify.com/track/5WONz35lHVxkgPqSIahH9U"
@@ -18720,6 +18816,32 @@
       "duration_ms": 196853,
       "name": "To Sagapw",
       "url": "https://open.spotify.com/track/60VwRmtFziGwPfhklepBZT"
+    },
+    {
+      "album": {
+        "name": "TO XEIS ME TA LOGIA",
+        "url": "https://open.spotify.com/album/4W0b4tMdqEXDLIoCruyvxD"
+      },
+      "artists": [
+        {
+          "name": "Kidd",
+          "url": "https://open.spotify.com/artist/1RqOmrtivmvKrfBO81j1ou"
+        },
+        {
+          "name": "Evangelia",
+          "url": "https://open.spotify.com/artist/3J7SI1JrZt43ZBlH24IqCK"
+        },
+        {
+          "name": "BLVD",
+          "url": "https://open.spotify.com/artist/3XVSWUdVDon1RGgHdPuqzR"
+        }
+      ],
+      "date_added": "2026-11-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 156000,
+      "name": "TO XEIS ME TA LOGIA",
+      "url": "https://open.spotify.com/track/0cfPGas7ZMCwPv4syhadMj"
     },
     {
       "album": {

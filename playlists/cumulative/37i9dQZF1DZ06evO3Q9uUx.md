@@ -4,7 +4,7 @@
 
 > This is BIA\. The essential tracks, all in one playlist.
 
-165 songs - 7 hr 47 min
+166 songs - 7 hr 50 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -58,6 +58,7 @@
 | [DIRTY BITCH](https://open.spotify.com/track/6TqH7xhC0vKeoLFFQlhcIK) | [BIA](https://open.spotify.com/artist/6veh5zbFpm31XsPdjBgPER) | [BIANCA \(Deluxe\)](https://open.spotify.com/album/5DOdpNIiaOVADclW1K8dIN) | 2:47 | 2026-07-17 | 2026-08-03 |
 | [DON'T TELL \(feat\. Juicy J\)](https://open.spotify.com/track/058XdfrLCP1tPxnc39ibGy) | [BIA](https://open.spotify.com/artist/6veh5zbFpm31XsPdjBgPER), [Juicy J](https://open.spotify.com/artist/5gCRApTajqwbnHHPbr2Fpi) | [REALLY HER \(INTL DELUXE\)](https://open.spotify.com/album/28Yvo0JYp7oZe1fsNsh7H2) | 2:22 | 2024-01-05 | 2024-07-06 |
 | [DON'T TELL \(feat\. Juicy J\)](https://open.spotify.com/track/7ANhqhDBoEZ3nLDqMNtmTG) | [BIA](https://open.spotify.com/artist/6veh5zbFpm31XsPdjBgPER), [Juicy J](https://open.spotify.com/artist/5gCRApTajqwbnHHPbr2Fpi) | [REALLY HER](https://open.spotify.com/album/4acZyhrXnAZR3PSDLAaoX5) | 2:22 | 2023-07-30 | 2024-01-06 |
+| [down](https://open.spotify.com/track/3aTT8c0s0mkMHCIZafMQUi) | [Lil Rich](https://open.spotify.com/artist/5CBvG98FGlAMc4Pi9Mc7LV), [BIA](https://open.spotify.com/artist/6veh5zbFpm31XsPdjBgPER), [BJRNCK](https://open.spotify.com/artist/75CB9gAqPzqMGNHxymmxfg) | [Indigo Child: The Last Hue](https://open.spotify.com/album/55QI8hqAKVF9ePVO9j2aa1) | 3:22 | 2026-11-27 |  |
 | [DROWN IN MY CUP](https://open.spotify.com/track/12vEQQFrOLlxGCc53YLDuN) | [BIA](https://open.spotify.com/artist/6veh5zbFpm31XsPdjBgPER) | [NICE GIRLS FINISH LAST: CUIDADO](https://open.spotify.com/album/76VLDGFn8MiyKRIMV2S4J7) | 3:07 | 2022-10-28 | 2023-06-11 |
 | [DUBAI](https://open.spotify.com/track/0RCFwZ4GluILfF8VDJoJV8) | [BIA](https://open.spotify.com/artist/6veh5zbFpm31XsPdjBgPER), [Tion Wayne](https://open.spotify.com/artist/7b79bQFziJFedJb75k6hFt) | [REALLY HER \(INTL DELUXE\)](https://open.spotify.com/album/28Yvo0JYp7oZe1fsNsh7H2) | 3:15 | 2023-10-10 | 2024-07-23 |
 | [Eat It Up \(feat\. BIA\)](https://open.spotify.com/track/3nePMGxrBMKtffHpkKqSHA) | [Kaliii](https://open.spotify.com/artist/1YRqgFNXqRyMDRr8ClS1NL), [BIA](https://open.spotify.com/artist/6veh5zbFpm31XsPdjBgPER) | [Toxic Chocolate](https://open.spotify.com/album/5X4gn5R6OOy34QpVRReCnh) | 3:01 | 2022-10-28 |  |
@@ -80,7 +81,7 @@
 | [Good Idea \(feat\. BIA\)](https://open.spotify.com/track/3sXcUMhBQLCyr6Cl6z7RP4) | [Kid Ink](https://open.spotify.com/artist/6KZDXtSj0SzGOV705nNeh3), [BIA](https://open.spotify.com/artist/6veh5zbFpm31XsPdjBgPER) | [Summer In The Winter](https://open.spotify.com/album/6uG9BscYmPnAbtl6Cy9u91) | 3:16 | 2022-10-28 | 2023-07-16 |
 | [GUAVA](https://open.spotify.com/track/45IRDfRHvD08QTUhgUFsHz) | [BIA](https://open.spotify.com/artist/6veh5zbFpm31XsPdjBgPER) | [BIANCA](https://open.spotify.com/album/7wmeALlMQDyo4HeNwf5EVV) | 1:48 | 2025-10-12 | 2026-01-31 |
 | [Gucci Comin' Home](https://open.spotify.com/track/4r6AFRv8b4KurDJvm7BZ5N) | [BIA](https://open.spotify.com/artist/6veh5zbFpm31XsPdjBgPER) | [Gucci Comin' Home](https://open.spotify.com/album/1dXVrNCauP1ZD51Xc2LCIU) | 2:59 | 2022-10-28 | 2023-03-05 |
-| [HARD WAY \(feat\. Becky G\)](https://open.spotify.com/track/6nmFmZXID8zfYp21aI72KE) | [BIA](https://open.spotify.com/artist/6veh5zbFpm31XsPdjBgPER), [Becky G](https://open.spotify.com/artist/4obzFoKoKRHIphyHzJ35G3) | [BIANCA](https://open.spotify.com/album/7wmeALlMQDyo4HeNwf5EVV) | 2:21 | 2025-10-12 |  |
+| [HARD WAY \(feat\. Becky G\)](https://open.spotify.com/track/6nmFmZXID8zfYp21aI72KE) | [BIA](https://open.spotify.com/artist/6veh5zbFpm31XsPdjBgPER), [Becky G](https://open.spotify.com/artist/4obzFoKoKRHIphyHzJ35G3) | [BIANCA](https://open.spotify.com/album/7wmeALlMQDyo4HeNwf5EVV) | 2:21 | 2025-10-12 | 2026-11-27 |
 | [High \(Kris Bowers Remix\)](https://open.spotify.com/track/1Tj0TcwUZZhbgKB6ACu7EE) | [Christian Rich](https://open.spotify.com/artist/7cAlvWK5rgMmJ37j7woN8l), [Vince Staples](https://open.spotify.com/artist/68kEuyFKyqrdQQLLsmiatm), [BIA](https://open.spotify.com/artist/6veh5zbFpm31XsPdjBgPER), [Kris Bowers](https://open.spotify.com/artist/2wWBoQpcybsDVpouFubTqZ) | [FW14 \(Extended Version\)](https://open.spotify.com/album/6m2UrRkuLmSzi1yNhbyO0h) | 3:39 | 2022-10-28 | 2023-07-30 |
 | [HOLLYWOOD](https://open.spotify.com/track/1gVrmubxd0344yczu7EXjQ) | [BIA](https://open.spotify.com/artist/6veh5zbFpm31XsPdjBgPER) | [HOLLYWOOD](https://open.spotify.com/album/5NOk5HClnVQvho2fB1p3eN) | 3:33 | 2022-10-28 | 2023-07-31 |
 | [I Like Dat \(feat\. BIA & Kehlani\)](https://open.spotify.com/track/3e1C4xcn4REvbAa7M6VshF) | [T\-Pain](https://open.spotify.com/artist/3aQeKQSyrW4qWr35idm0cy), [BIA](https://open.spotify.com/artist/6veh5zbFpm31XsPdjBgPER), [Kehlani](https://open.spotify.com/artist/0cGUm45nv7Z6M6qdXYQGTX) | [I Like Dat \(feat\. BIA & Kehlani\)](https://open.spotify.com/album/6j46dFtnzrjKNAmfcEtpKJ) | 4:43 | 2022-10-28 | 2025-10-09 |

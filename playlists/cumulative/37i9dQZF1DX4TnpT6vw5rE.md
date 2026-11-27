@@ -4,7 +4,7 @@
 
 > Melt into the Atmospheric Calm with these mellow beats and ambient tones.
 
-446 songs - 1 day 0 hr 20 min
+447 songs - 1 day 0 hr 22 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -132,6 +132,7 @@
 | [Doorways](https://open.spotify.com/track/1XY8MZaDrG873CbAlwrQSd) | [lucen](https://open.spotify.com/artist/6UlxeucXP4ODooKUwGZUNj) | [Doorways](https://open.spotify.com/album/2VdwWQREipL22ZfWYhCX7m) | 1:49 | 2025-07-15 | 2026-02-13 |
 | [Dormandie](https://open.spotify.com/track/6mZjfVhBFzErtyYEX2sEbL) | [Stellarscopees](https://open.spotify.com/artist/663VphTY3ZpSam1nra3WG6) | [Dormandie](https://open.spotify.com/album/01faQGyJDZB7NbQovatqEu) | 2:42 | 2026-02-12 |  |
 | [Dormio](https://open.spotify.com/track/5KrtsbUaDBPE0aFpxw4I0T) | [Estado De Calma](https://open.spotify.com/artist/0E1GrT0XtW2bcQvEuu7ajV) | [Dormio](https://open.spotify.com/album/3yYe7uQZsi7NsACNFzItNh) | 2:39 | 2021-10-14 | 2024-09-29 |
+| [dream away](https://open.spotify.com/track/0y6gqsIssPqM7Gotm73G2x) | [ambiænic](https://open.spotify.com/artist/0FOBCC1tUA27CQBpVTqJpu) | [dream away](https://open.spotify.com/album/1Oc1jinMhLkMXN2b7A3NJR) | 1:48 | 2026-10-05 |  |
 | [Dream Traveler](https://open.spotify.com/track/4qq5zkuRXq17ycXLBiFqC5) | [Eline Moss](https://open.spotify.com/artist/5oLYsGYb1G271Z6wtiYVpA) | [Dream Traveler](https://open.spotify.com/album/1pF8o1asO5oWDoCG0DZZdZ) | 2:20 | 2024-05-10 | 2026-02-13 |
 | [Dreams Collide](https://open.spotify.com/track/52sZSQY4NoNXg6VWjfG547) | [Light Matter](https://open.spotify.com/artist/6qmxb5iOHCQSSGHEONImae) | [Dreams Collide](https://open.spotify.com/album/6Xqn10OHNm1nJa4Lnvh866) | 3:00 | 2025-12-10 |  |
 | [Dreamsurf](https://open.spotify.com/track/0zUsN77HWaBujNAcMD4GUW) | [DIYFi](https://open.spotify.com/artist/1X177snoetl4cpyQ34snta) | [Dreamsurf](https://open.spotify.com/album/5moBUjTC86nclsprlXZRf8) | 2:56 | 2025-10-01 |  |
@@ -228,7 +229,7 @@
 | [Kanta's Theme](https://open.spotify.com/track/2im8y2Qrnj0xvt5c9BgNYF) | [Chris Walla](https://open.spotify.com/artist/4UP7ibAacJ5joROTv4ShG5) | [Tape Loops](https://open.spotify.com/album/78oxfIEDfWlUw8vFSDvoSq) | 6:42 | 2022-07-22 | 2022-10-18 |
 | [Kanta's Theme](https://open.spotify.com/track/4l2yPgS0exxRHRXOaiqksw) | [Chris Walla](https://open.spotify.com/artist/4UP7ibAacJ5joROTv4ShG5) | [Kanta's Theme \- Single](https://open.spotify.com/album/0c2jq5ML6NCy5HjTMnT46m) | 6:42 | 2020-12-08\* | 2022-07-29 |
 | [Kanta's Theme](https://open.spotify.com/track/64aH6OkIpw6f0edTLMx2VU) | [Chris Walla](https://open.spotify.com/artist/4UP7ibAacJ5joROTv4ShG5) | [Tape Loops](https://open.spotify.com/album/2VNgo52l7JCwA03x4QKPGN) | 6:42 | 2022-11-22 | 2024-04-19 |
-| [Katharsis](https://open.spotify.com/track/2EDKmd2QEyMLOrAFv8L3AT) | [WIDE HORIZON](https://open.spotify.com/artist/5EEy0pxsYQurmMjiSXB9g0) | [Katharsis](https://open.spotify.com/album/6dzDDjTSjYu0t5GkIa4Ku2) | 2:49 | 2026-07-07 |  |
+| [Katharsis](https://open.spotify.com/track/2EDKmd2QEyMLOrAFv8L3AT) | [WIDE HORIZON](https://open.spotify.com/artist/5EEy0pxsYQurmMjiSXB9g0) | [Katharsis](https://open.spotify.com/album/6dzDDjTSjYu0t5GkIa4Ku2) | 2:49 | 2026-07-07 | 2026-11-27 |
 | [Kepesh](https://open.spotify.com/track/0p8gq23UoCaw6mfndx470w) | [Arms and Sleepers](https://open.spotify.com/artist/0KjF9pkI2bO9EMuB7LnHqP) | [The Organ Hearts](https://open.spotify.com/album/4Fb3dmmuXqDzsa1BtaP9JR) | 5:28 | 2021-01-15 | 2021-05-27 |
 | [Kilika](https://open.spotify.com/track/2GvS6SG9VHxRgMbLLPFEVI) | [Teen Daze](https://open.spotify.com/artist/2GE6MAdyGzeXpY9TwIYd3l) | [Kilika](https://open.spotify.com/album/665D0qSJx36civibfzbJ3B) | 4:44 | 2020-12-08\* | 2021-03-18 |
 | [Know Where](https://open.spotify.com/track/0iT8tYZ3haeUUXWogdRJh0) | [Holy Other](https://open.spotify.com/artist/7txCfGfh46OwoUBDPj4HKL) | [With U](https://open.spotify.com/album/5eIrB1QIV8Yz2tbGaw2S9D) | 3:28 | 2020-12-08\* | 2021-03-06 |

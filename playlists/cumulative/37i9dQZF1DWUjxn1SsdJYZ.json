@@ -286,7 +286,7 @@
       ],
       "date_added": "2026-10-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-27",
       "duration_ms": 178241,
       "name": "2Cleva",
       "url": "https://open.spotify.com/track/6SkpDOjj64i8NlCg8Wz1zg"
@@ -4358,7 +4358,7 @@
       ],
       "date_added": "2026-08-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-27",
       "duration_ms": 275590,
       "name": "Brasil",
       "url": "https://open.spotify.com/track/2rOyYldVLfwKghlS3SgNEW"
@@ -8216,7 +8216,7 @@
       ],
       "date_added": "2026-06-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-27",
       "duration_ms": 199260,
       "name": "Downtown Dreamin'",
       "url": "https://open.spotify.com/track/4uNe94RzbUMRFwo2XiRweX"
@@ -8448,7 +8448,7 @@
       ],
       "date_added": "2026-07-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-27",
       "duration_ms": 112982,
       "name": "DROWNIN",
       "url": "https://open.spotify.com/track/2Iud4uB4YMTpFzv32ysbHY"
@@ -10467,6 +10467,28 @@
     },
     {
       "album": {
+        "name": "Flow At?",
+        "url": "https://open.spotify.com/album/2qpZjWTO4NGwqY2A93QCDj"
+      },
+      "artists": [
+        {
+          "name": "Hellcat Speedracer",
+          "url": "https://open.spotify.com/artist/6lvertBSQwUlKgo9ZGPbZV"
+        },
+        {
+          "name": "Kobie Dee",
+          "url": "https://open.spotify.com/artist/3hjzcsAgsPSXyF6zuAM4tO"
+        }
+      ],
+      "date_added": "2026-11-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 135223,
+      "name": "Flow At?",
+      "url": "https://open.spotify.com/track/3052KVfZeDRxZ0626RtUux"
+    },
+    {
+      "album": {
         "name": "TRISTAN.",
         "url": "https://open.spotify.com/album/2VxlvrUZWXwD8j6ygWrKJG"
       },
@@ -12014,7 +12036,7 @@
       ],
       "date_added": "2026-08-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-27",
       "duration_ms": 133714,
       "name": "GO DUMB",
       "url": "https://open.spotify.com/track/43vAoVmQxWX1u5X7kYBzmy"
@@ -16122,7 +16144,7 @@
       ],
       "date_added": "2026-09-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-27",
       "duration_ms": 127882,
       "name": "kylie",
       "url": "https://open.spotify.com/track/1e1HDiKRvgF4274sY5iNsA"
@@ -16246,7 +16268,7 @@
       ],
       "date_added": "2026-06-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-27",
       "duration_ms": 177566,
       "name": "Lah Lah",
       "url": "https://open.spotify.com/track/2lhHhPyQrhb2kzXC4Vqotp"
@@ -16978,6 +17000,28 @@
       "duration_ms": 124878,
       "name": "LIED TO MY FACE",
       "url": "https://open.spotify.com/track/2V7vvwuyjat8IchV9EbxcD"
+    },
+    {
+      "album": {
+        "name": "Life Ain't Easy (feat. Stan Walker)",
+        "url": "https://open.spotify.com/album/35WTsv9LU6I5Ij33TaB23k"
+      },
+      "artists": [
+        {
+          "name": "Kings",
+          "url": "https://open.spotify.com/artist/32GMj177nVLZPp3lqVrCXp"
+        },
+        {
+          "name": "Stan Walker",
+          "url": "https://open.spotify.com/artist/7fRw4ouudxR1jHgyrTIKuY"
+        }
+      ],
+      "date_added": "2026-11-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 175674,
+      "name": "Life Ain't Easy (feat. Stan Walker)",
+      "url": "https://open.spotify.com/track/0RDFwdaqjGfl4TclZssohw"
     },
     {
       "album": {
@@ -21011,6 +21055,24 @@
     },
     {
       "album": {
+        "name": "4031",
+        "url": "https://open.spotify.com/album/52sdU8XIwyRwDJHT5QdXfj"
+      },
+      "artists": [
+        {
+          "name": "Izzar",
+          "url": "https://open.spotify.com/artist/0vKgFYlm0P3REMbXf57Zqq"
+        }
+      ],
+      "date_added": "2026-11-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 170721,
+      "name": "No Love",
+      "url": "https://open.spotify.com/track/4gQMYa6hNm7gpiTU1xYhR5"
+    },
+    {
+      "album": {
         "name": "NO MAS",
         "url": "https://open.spotify.com/album/62fbcTkk0CdYwgSvwJjlGl"
       },
@@ -22598,7 +22660,7 @@
       ],
       "date_added": "2026-08-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-27",
       "duration_ms": 119670,
       "name": "Out The Blue",
       "url": "https://open.spotify.com/track/3dQ8MRBpgHLm2fKBkxLykd"
@@ -27425,6 +27487,24 @@
     },
     {
       "album": {
+        "name": "Sitara",
+        "url": "https://open.spotify.com/album/5ZhvMs7y4RY3ZfqC6GKvud"
+      },
+      "artists": [
+        {
+          "name": "L-FRESH The LION",
+          "url": "https://open.spotify.com/artist/1pWigxBjUwEk9xH0Ks1r8L"
+        }
+      ],
+      "date_added": "2026-11-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 180483,
+      "name": "Sitara",
+      "url": "https://open.spotify.com/track/1HPtbDBp8SSN5Ca8FfHjPi"
+    },
+    {
+      "album": {
         "name": "Sixth Sense",
         "url": "https://open.spotify.com/album/5dmD53AthaOn0hr0L9Xdvn"
       },
@@ -29921,6 +30001,24 @@
     },
     {
       "album": {
+        "name": "TALANOA FROM THE CULDESAC",
+        "url": "https://open.spotify.com/album/4WRymKLhcDkHl1HfHEHb2w"
+      },
+      "artists": [
+        {
+          "name": "TANIELA",
+          "url": "https://open.spotify.com/artist/7EonSQbTffX4sXIG8m7isu"
+        }
+      ],
+      "date_added": "2026-11-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 195582,
+      "name": "THE BLOCKS (Preface)",
+      "url": "https://open.spotify.com/track/4r9z1Ap7vTvvY50ZA1VX3b"
+    },
+    {
+      "album": {
         "name": "The Boy Who Fell From The Sky",
         "url": "https://open.spotify.com/album/58Lmgx5aSPjNDXr9JtpoF3"
       },
@@ -30106,7 +30204,7 @@
       ],
       "date_added": "2026-08-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-27",
       "duration_ms": 181874,
       "name": "THE MOVE",
       "url": "https://open.spotify.com/track/7EhejUEzKGX8wnEYWdD4Un"
@@ -32893,6 +32991,24 @@
     },
     {
       "album": {
+        "name": "Project in The Suburbs 2",
+        "url": "https://open.spotify.com/album/2AUZPGQCGgNNJOohkEsZBK"
+      },
+      "artists": [
+        {
+          "name": "kayeonwun",
+          "url": "https://open.spotify.com/artist/2LWuiriYyZn5yvg4ejXEBc"
+        }
+      ],
+      "date_added": "2026-11-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 158000,
+      "name": "WATCH OUT",
+      "url": "https://open.spotify.com/track/1W6HoP2xEjo0azvDAhlCnf"
+    },
+    {
+      "album": {
         "name": "WATCH THE WICK",
         "url": "https://open.spotify.com/album/3v7dLUTc1FbBxzVJGuB7C6"
       },
@@ -33363,6 +33479,24 @@
     },
     {
       "album": {
+        "name": "WESTSIDE",
+        "url": "https://open.spotify.com/album/6M9dSKbYA1pMhFZQpY9Oto"
+      },
+      "artists": [
+        {
+          "name": "Inkabee",
+          "url": "https://open.spotify.com/artist/09cUVzX7itryGp6zaJjmiX"
+        }
+      ],
+      "date_added": "2026-11-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 154698,
+      "name": "WESTSIDE",
+      "url": "https://open.spotify.com/track/5ow3Ioz5BjUily8J8wMATX"
+    },
+    {
+      "album": {
         "name": "Souths Most Wanted",
         "url": "https://open.spotify.com/album/5RxqqLZmax9JUDet82iJhR"
       },
@@ -33426,6 +33560,32 @@
       "duration_ms": 245504,
       "name": "What Do You Write?",
       "url": "https://open.spotify.com/track/4wmLEXH2gu8AaH6i91Ew6k"
+    },
+    {
+      "album": {
+        "name": "ROAD TO SYNTHCLUB",
+        "url": "https://open.spotify.com/album/6fnzRYkatXCKoB5ON6P97W"
+      },
+      "artists": [
+        {
+          "name": "Fat Papi",
+          "url": "https://open.spotify.com/artist/6bemHySK6oqDAPZZzt61ov"
+        },
+        {
+          "name": "prodshushy",
+          "url": "https://open.spotify.com/artist/6aQnbm7k0VsmUqfU9cfwoA"
+        },
+        {
+          "name": "sosocamo",
+          "url": "https://open.spotify.com/artist/6hpztnbgmaneFFGGnEOVjd"
+        }
+      ],
+      "date_added": "2026-11-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 154558,
+      "name": "WHAT I WANT",
+      "url": "https://open.spotify.com/track/5uatQsUVomhAIZxN98Ct1m"
     },
     {
       "album": {

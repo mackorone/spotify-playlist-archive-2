@@ -2,9 +2,9 @@
 
 ### [Vibra Chill](https://open.spotify.com/playlist/37i9dQZF1DWYxZc1Cgg8Ja)
 
-> Sonidos latinos para relajarse a cualquier hora del día\. Foto: Osmán Música
+> Sonidos latinos para relajarse a cualquier hora del día\. Foto: Feid & Snoop Dogg
 
-226 songs - 11 hr 30 min
+227 songs - 11 hr 33 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -82,6 +82,7 @@
 | [frente al mar](https://open.spotify.com/track/60u6hcpH5Qm1M3xESdNBrB) | [Beéle](https://open.spotify.com/artist/7a0XAaPaK2aDSqa8p3QnC7) | [frente al mar](https://open.spotify.com/album/0Wf0E2diHQJRdkPR12BcXs) | 2:45 | 2024-09-27 |  |
 | [Game Over](https://open.spotify.com/track/5NbsKVtCFu62h3e08FyWje) | [Junior Zamora](https://open.spotify.com/artist/1xbYDYZZRWQ0mG218SGVDQ), [More](https://open.spotify.com/artist/0vLXnXSAplgnptyE3jKnpi), [Drea Dury](https://open.spotify.com/artist/7euT1r89ub1s001dTqp3gh), [Good Vice crew](https://open.spotify.com/artist/2S6I4rL5hXSZXoL1mVksgz) | [Drama Vol\. 3](https://open.spotify.com/album/55Sb0QJuaByvQKUTzDWIdG) | 2:24 | 2023-12-15 | 2024-01-20 |
 | [Goosebumps](https://open.spotify.com/track/7sVH3E4Ea7vmggCkffdU4q) | [Qing Madi](https://open.spotify.com/artist/0ZvsEkINadmEV4qzS4ollh) | [Goosebumps](https://open.spotify.com/album/0puYR0eJhVtrJAOsH5mbY4) | 2:46 | 2025-01-31 | 2025-02-08 |
+| [GRACIAS X TODO](https://open.spotify.com/track/4WmcJk3pLqQuwVcFePYZJA) | [Feid](https://open.spotify.com/artist/2LRoIwlKmHjgvigdNGBHNo), [Snoop Dogg](https://open.spotify.com/artist/7hJcb9fa4alzcOq3EaNPoG) | [GRACIAS X TODO](https://open.spotify.com/album/05yVCXvCap5aglKYrDMHx7) | 3:02 | 2026-11-27 |  |
 | [GUAIA](https://open.spotify.com/track/4RLpkB6wWcFQyT0KDcxVNW) | [Reykon](https://open.spotify.com/artist/3PAwspMN27PDm81WwXDsMf) | [GUAIA](https://open.spotify.com/album/2Sl4uHdm7F5vX6mZPhEO6c) | 2:29 | 2025-11-14 | 2025-11-25 |
 | [Guaro](https://open.spotify.com/track/57sG0muDy6txXqYFBlcA6y) | [Beéle](https://open.spotify.com/artist/7a0XAaPaK2aDSqa8p3QnC7) | [Guaro](https://open.spotify.com/album/1D8eQxCxhoMcNB7XwNl468) | 1:58 | 2023-07-21 | 2024-08-06 |
 | [Hasta Aquí Llegué](https://open.spotify.com/track/08pbRBstuvH7ArRxeb8fwT) | [Nanpa Básico](https://open.spotify.com/artist/1cUpGtXcSQsovNYEZOQgOG), [Beéle](https://open.spotify.com/artist/7a0XAaPaK2aDSqa8p3QnC7) | [Hasta Aquí Llegué](https://open.spotify.com/album/7hYoXVqpRhN9ATvO8Kf3w5) | 3:08 | 2024-07-19 |  |
@@ -155,7 +156,7 @@
 | [Ojalá](https://open.spotify.com/track/04hcwA2QczjJkiEFoaK6qC) | [Juan Duque](https://open.spotify.com/artist/49ggXUsjVHl7BwwaiPUCn6), [Nanpa Básico](https://open.spotify.com/artist/1cUpGtXcSQsovNYEZOQgOG) | [Ojalá](https://open.spotify.com/album/71t5su830WyBTzVLZQxOb5) | 3:00 | 2025-07-25 | 2026-08-08 |
 | [Ojalá](https://open.spotify.com/track/4dLIAE3xbJLoiIBbKkZWJk) | [The Rudeboyz](https://open.spotify.com/artist/7ciBW1p3KBsYIkFk4UmwS8), [Maluma](https://open.spotify.com/artist/1r4hJ1h58CWwUQe3MxPuau), [Adam Levine](https://open.spotify.com/artist/4bYPcJP5jwMhSivRcqie2n) | [Ojalá](https://open.spotify.com/album/00XhrF5bpFfMJ0tT85DkTY) | 3:09 | 2023-07-21 | 2024-12-17 |
 | [OKCRA](https://open.spotify.com/track/0MpG3FrYRY2EmSgwrV8oF7) | [Lorduy](https://open.spotify.com/artist/69W4dBFtMrTWYHEHwbpHhC), [ADSO](https://open.spotify.com/artist/29b16XDtyMXDrfo2hZ69wf), [Blazz Music](https://open.spotify.com/artist/0Nt94CK2e3Vvp5ddUHGZsw) | [OKCRA](https://open.spotify.com/album/7t8IHDrZiUec3iZuKJLxZY) | 2:40 | 2026-09-25 |  |
-| [Orgullo de Ganster](https://open.spotify.com/track/4IwIcMAptDdL6HBnRzbGOv) | [ANDY ALASKA](https://open.spotify.com/artist/4Khd0aexSTIiryfokru56l), [Hector Nazza](https://open.spotify.com/artist/1WGxt0iUo8qfQlzwIAlxQB) | [Orgullo de Ganster](https://open.spotify.com/album/2V4rZCORUp4yTeNXoeORMG) | 3:15 | 2026-08-21 |  |
+| [Orgullo de Ganster](https://open.spotify.com/track/4IwIcMAptDdL6HBnRzbGOv) | [ANDY ALASKA](https://open.spotify.com/artist/4Khd0aexSTIiryfokru56l), [Hector Nazza](https://open.spotify.com/artist/1WGxt0iUo8qfQlzwIAlxQB) | [Orgullo de Ganster](https://open.spotify.com/album/2V4rZCORUp4yTeNXoeORMG) | 3:15 | 2026-08-21 | 2026-11-27 |
 | [orióN](https://open.spotify.com/track/5pVJ3IlnpIorU44oXizzG5) | [Boza](https://open.spotify.com/artist/2NfSBtmWe7oPw1EmetJVso), [ELENA ROSE](https://open.spotify.com/artist/0zO8yNnw5GQgutcIyXfGBY) | [orióN](https://open.spotify.com/album/2FWRFIH8Agbw8JGG4hbdG6) | 4:00 | 2024-06-28 |  |
 | [Ozono](https://open.spotify.com/track/4acvrfbXrDPFQNNDnFZnpC) | [Luister La Voz](https://open.spotify.com/artist/4FoMtKClFtTNsfQN7ivDII), [maikol el insoportable](https://open.spotify.com/artist/3VM367sQBq9n6bsyu5OWQr) | [Ozono](https://open.spotify.com/album/0Yh9K0Fo5hLl92tEmP0g7y) | 4:04 | 2026-02-13 | 2026-05-23 |
 | [Pa Que Baile](https://open.spotify.com/track/0qBBbKXDG1cncdx3L5ytJx) | [Los Dioses Del Ritmo](https://open.spotify.com/artist/3SB8QuuxVULg4nFHoWJ5vj) | [Pa Que Baile](https://open.spotify.com/album/5zwWZet8pyk3vCynttCRQd) | 2:43 | 2025-06-20 | 2025-09-06 |

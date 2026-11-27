@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-03-01",
-  "description": "Dale a Dios toda la gloria y alabanza! Foto: Barak",
+  "description": "Dale a Dios toda la gloria y alabanza! Foto: Sarai Rivera",
   "name": "Alabanzas y Gloria",
   "tracks": [
     {
@@ -1012,7 +1012,7 @@
       ],
       "date_added": "2026-11-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-27",
       "duration_ms": 475135,
       "name": "Cordero Redentor",
       "url": "https://open.spotify.com/track/2h69SKKQRKLmGSekYRTduU"
@@ -1132,7 +1132,7 @@
       ],
       "date_added": "2025-06-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-27",
       "duration_ms": 500062,
       "name": "Creo en Ti - En Vivo",
       "url": "https://open.spotify.com/track/3Y7GONXyobAPweunEts85k"
@@ -1448,7 +1448,7 @@
       ],
       "date_added": "2025-06-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-27",
       "duration_ms": 304774,
       "name": "Declaro El Nombre De Jes\u00fas",
       "url": "https://open.spotify.com/track/1QW4r3g1mO6VXJnc9C7KfD"
@@ -1772,6 +1772,24 @@
       "duration_ms": 299680,
       "name": "Dios Es Poderoso (God Is Able)",
       "url": "https://open.spotify.com/track/56K53QX4tlStTlC5X33sLd"
+    },
+    {
+      "album": {
+        "name": "Dios Escogi\u00f3 Mi Casa",
+        "url": "https://open.spotify.com/album/3N3IYg02zj9Vsr7hSr67vh"
+      },
+      "artists": [
+        {
+          "name": "Alex Marquez Oficial",
+          "url": "https://open.spotify.com/artist/0mWEEdgUmHziltREUUbcAt"
+        }
+      ],
+      "date_added": "2026-11-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 485404,
+      "name": "Dios Escogi\u00f3 Mi Casa",
+      "url": "https://open.spotify.com/track/3qCW6jwWGgMpps098bOnvH"
     },
     {
       "album": {
@@ -3035,6 +3053,24 @@
     },
     {
       "album": {
+        "name": "He Probado (Ac\u00fastico)",
+        "url": "https://open.spotify.com/album/0aTLFdlIbXBiKP5z010Mub"
+      },
+      "artists": [
+        {
+          "name": "Enoc Parra",
+          "url": "https://open.spotify.com/artist/2dXm6Fjb3OP6YKDyaF09jM"
+        }
+      ],
+      "date_added": "2026-11-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 432000,
+      "name": "He Probado - Ac\u00fastico",
+      "url": "https://open.spotify.com/track/0lfWMS8kFTcknwaPKUL53x"
+    },
+    {
+      "album": {
         "name": "Heme Aqu\u00ed",
         "url": "https://open.spotify.com/album/3GInOybWRXxTQkA8xNZa3Q"
       },
@@ -3877,6 +3913,24 @@
     },
     {
       "album": {
+        "name": "Lo Mejor Que Pude Decidir",
+        "url": "https://open.spotify.com/album/5KLU7c7NIlO0B9JfKuPsUd"
+      },
+      "artists": [
+        {
+          "name": "Luc\u00eda Rodr\u00edguez",
+          "url": "https://open.spotify.com/artist/0a8BtSIFtdztLxA6f0jbeZ"
+        }
+      ],
+      "date_added": "2026-11-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 343014,
+      "name": "Lo Mejor Que Pude Decidir",
+      "url": "https://open.spotify.com/track/6Z3ulAcVnDNGsBs9I92z0z"
+    },
+    {
+      "album": {
         "name": "Lo Rindo Todo",
         "url": "https://open.spotify.com/album/0LcOPHrmKCbD0OlH7Papkx"
       },
@@ -4647,6 +4701,32 @@
     },
     {
       "album": {
+        "name": "Nada Es Imposible (Live)",
+        "url": "https://open.spotify.com/album/7nKA7YfMZhUFzy8ZCAgEX9"
+      },
+      "artists": [
+        {
+          "name": "Planetshakers",
+          "url": "https://open.spotify.com/artist/5A0SFJQSdSjFHGcndiGT1s"
+        },
+        {
+          "name": "Miel San Marcos",
+          "url": "https://open.spotify.com/artist/7zpvy5B9gb5KprNUzNCOEE"
+        },
+        {
+          "name": "Planetshakers Espa\u00f1ol",
+          "url": "https://open.spotify.com/artist/7qFoOJ83QEGQFCgBeFMhkP"
+        }
+      ],
+      "date_added": "2026-11-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 274191,
+      "name": "Nada Es Imposible - Live",
+      "url": "https://open.spotify.com/track/6sI9yoGx1nKBsyKSZSHVQU"
+    },
+    {
+      "album": {
         "name": "Vida Encontr\u00e9",
         "url": "https://open.spotify.com/album/1Gmrh2y0G2eOANlMx5ZwQh"
       },
@@ -5105,6 +5185,28 @@
     },
     {
       "album": {
+        "name": "NUNCA FUE LA RELIGI\u00d3N",
+        "url": "https://open.spotify.com/album/6ZkpdQKfaSQSamnd3jWUVH"
+      },
+      "artists": [
+        {
+          "name": "Johan y Sofi",
+          "url": "https://open.spotify.com/artist/4QPzngDflVr8Qq8vRgL4qT"
+        },
+        {
+          "name": "Grupo Grace",
+          "url": "https://open.spotify.com/artist/6toUclayfnCvKyLtLSmyqb"
+        }
+      ],
+      "date_added": "2026-11-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 471874,
+      "name": "NUNCA FUE LA RELIGI\u00d3N",
+      "url": "https://open.spotify.com/track/64mribyzDkvpDnxqM9chsK"
+    },
+    {
+      "album": {
         "name": "Obra de Tu Amor",
         "url": "https://open.spotify.com/album/7iwgHqgKqP2D5MhtnmGBeV"
       },
@@ -5246,7 +5348,7 @@
       ],
       "date_added": "2026-11-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-27",
       "duration_ms": 357000,
       "name": "PACTO",
       "url": "https://open.spotify.com/track/6U8gWR2cqiBCMC8bQkVL2S"
@@ -6481,6 +6583,28 @@
     },
     {
       "album": {
+        "name": "Se Trata De Ti",
+        "url": "https://open.spotify.com/album/31tIhIXGQjMZp4a1hBgdo8"
+      },
+      "artists": [
+        {
+          "name": "Grupo Grace",
+          "url": "https://open.spotify.com/artist/6toUclayfnCvKyLtLSmyqb"
+        },
+        {
+          "name": "World Worship",
+          "url": "https://open.spotify.com/artist/0sWeunTzY69e7TCkUflZQm"
+        }
+      ],
+      "date_added": "2026-11-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 650094,
+      "name": "Se Trata De Ti",
+      "url": "https://open.spotify.com/track/1C8fgRq7C8OXAoPM7SXOHl"
+    },
+    {
+      "album": {
         "name": "Sea Como Sea",
         "url": "https://open.spotify.com/album/3G9W4gR0sSr3V54arY3QCs"
       },
@@ -6592,7 +6716,7 @@
       ],
       "date_added": "2025-06-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-27",
       "duration_ms": 355867,
       "name": "Socorro - En Vivo desde el Auditorio Nacional",
       "url": "https://open.spotify.com/track/0iVyFhkvbxVFsMzujlZ6PC"
@@ -6789,6 +6913,28 @@
     },
     {
       "album": {
+        "name": "Suficiente Dios",
+        "url": "https://open.spotify.com/album/2JQShHFIXUZZiIMat8bvEW"
+      },
+      "artists": [
+        {
+          "name": "Diana Marie",
+          "url": "https://open.spotify.com/artist/7MfOmMx8EvZ1Ajfts2NDmI"
+        },
+        {
+          "name": "Mary Pagan",
+          "url": "https://open.spotify.com/artist/1Aai1Tz0m6JRJPk4jMPDA2"
+        }
+      ],
+      "date_added": "2026-11-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 234256,
+      "name": "Suficiente Dios",
+      "url": "https://open.spotify.com/track/3NxZdEVGt4HmmNIIFUQI1S"
+    },
+    {
+      "album": {
         "name": "Mas Que Un Anhelo",
         "url": "https://open.spotify.com/album/2Kk1sYvCz3LI2wn9lp0NIZ"
       },
@@ -6844,7 +6990,7 @@
       ],
       "date_added": "2025-06-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-27",
       "duration_ms": 448865,
       "name": "S\u00f3lo Hay Uno",
       "url": "https://open.spotify.com/track/4AB2Ek7uOKheppnUBlz9o6"
@@ -7080,7 +7226,7 @@
       ],
       "date_added": "2025-07-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-27",
       "duration_ms": 268800,
       "name": "Todo lo entrego a Ti",
       "url": "https://open.spotify.com/track/7jwcIVhWVZINSsHaLjDEuK"
@@ -7528,10 +7674,32 @@
       ],
       "date_added": "2026-07-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-27",
       "duration_ms": 512857,
       "name": "Una Iglesia Sin Mancha",
       "url": "https://open.spotify.com/track/1ucpyBDhmnWrXb4pUN4bBw"
+    },
+    {
+      "album": {
+        "name": "BIBLIA, GUITARRA & VOCES",
+        "url": "https://open.spotify.com/album/0sO4vMNb32FnHqx4ZW9U2i"
+      },
+      "artists": [
+        {
+          "name": "Marcos Brunet",
+          "url": "https://open.spotify.com/artist/7cLoxFihGCVL3s1K3xHK4I"
+        },
+        {
+          "name": "Jorge Szczecko",
+          "url": "https://open.spotify.com/artist/2a4AN1XXaB85B9T8CZ04iZ"
+        }
+      ],
+      "date_added": "2026-11-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 572269,
+      "name": "Un\u00e1nimes (Hechos 2)",
+      "url": "https://open.spotify.com/track/07kPTARKDjHoOL6BLGKAMo"
     },
     {
       "album": {

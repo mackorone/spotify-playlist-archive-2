@@ -1,6 +1,6 @@
 {
   "description": "La psicodelia tropical latinoamericana y sus alucinantes ritmos.",
-  "num_followers": 52337,
+  "num_followers": 52334,
   "original_name": "TROPILOCO",
   "owner": {
     "name": "Spotify",
@@ -515,22 +515,6 @@
     {
       "added_at": "2025-05-19 17:05:09",
       "album": {
-        "name": "Noche triler",
-        "url": "https://open.spotify.com/album/7AGuFiVXeGfR6CyhoWxVId"
-      },
-      "artists": [
-        {
-          "name": "LA MECANICA POPULAR",
-          "url": "https://open.spotify.com/artist/5HSs4Esw2LP6dSBsjCL2kK"
-        }
-      ],
-      "duration_ms": 238907,
-      "name": "Noche triler",
-      "url": "https://open.spotify.com/track/5ze6zmZ1sEIIFPSvrNi75n"
-    },
-    {
-      "added_at": "2025-05-19 17:05:09",
-      "album": {
         "name": "La Bomba",
         "url": "https://open.spotify.com/album/2KtK583Hq65HDEkgE0c5qn"
       },
@@ -543,6 +527,22 @@
       "duration_ms": 134720,
       "name": "La Bomba",
       "url": "https://open.spotify.com/track/4DVogoYzvFrFOtUMQIamJf"
+    },
+    {
+      "added_at": "2025-05-19 17:05:09",
+      "album": {
+        "name": "Noche triler",
+        "url": "https://open.spotify.com/album/7AGuFiVXeGfR6CyhoWxVId"
+      },
+      "artists": [
+        {
+          "name": "LA MECANICA POPULAR",
+          "url": "https://open.spotify.com/artist/5HSs4Esw2LP6dSBsjCL2kK"
+        }
+      ],
+      "duration_ms": 238907,
+      "name": "Noche triler",
+      "url": "https://open.spotify.com/track/5ze6zmZ1sEIIFPSvrNi75n"
     },
     {
       "added_at": "2025-05-19 17:05:09",
@@ -579,22 +579,6 @@
     {
       "added_at": "2025-05-19 17:05:09",
       "album": {
-        "name": "Contra La Corriente",
-        "url": "https://open.spotify.com/album/5Mj8KBKsx8RwpC1AV2s93c"
-      },
-      "artists": [
-        {
-          "name": "Jaguar",
-          "url": "https://open.spotify.com/artist/2q2aMOy0lcMiR0KXffDXEC"
-        }
-      ],
-      "duration_ms": 263096,
-      "name": "Contra La Corriente",
-      "url": "https://open.spotify.com/track/3AT2aCbmbu8OapUxwei1SO"
-    },
-    {
-      "added_at": "2025-05-19 17:05:09",
-      "album": {
         "name": "Dos Santos",
         "url": "https://open.spotify.com/album/203gWxeq8djoqOxwU45zkg"
       },
@@ -607,6 +591,22 @@
       "duration_ms": 213186,
       "name": "El Pescador",
       "url": "https://open.spotify.com/track/2yLm7Y9foI71By8rAdYsFE"
+    },
+    {
+      "added_at": "2025-05-19 17:05:09",
+      "album": {
+        "name": "Contra La Corriente",
+        "url": "https://open.spotify.com/album/5Mj8KBKsx8RwpC1AV2s93c"
+      },
+      "artists": [
+        {
+          "name": "Jaguar",
+          "url": "https://open.spotify.com/artist/2q2aMOy0lcMiR0KXffDXEC"
+        }
+      ],
+      "duration_ms": 263096,
+      "name": "Contra La Corriente",
+      "url": "https://open.spotify.com/track/3AT2aCbmbu8OapUxwei1SO"
     },
     {
       "added_at": "2025-05-19 17:05:09",
@@ -1231,6 +1231,22 @@
     {
       "added_at": "2025-05-19 17:05:09",
       "album": {
+        "name": "Somos",
+        "url": "https://open.spotify.com/album/4MoPXiOJYb32vO1JhKBOvw"
+      },
+      "artists": [
+        {
+          "name": "La Chamba",
+          "url": "https://open.spotify.com/artist/0HDNMO4nFZR6IGwqLdBneh"
+        }
+      ],
+      "duration_ms": 198469,
+      "name": "Por Ah\u00ed",
+      "url": "https://open.spotify.com/track/5TewOoVbMDzrV5AKHXKMPd"
+    },
+    {
+      "added_at": "2025-05-19 17:05:09",
+      "album": {
         "name": "Sonido Yoryi",
         "url": "https://open.spotify.com/album/0tbKSUNuPamYlrj6xs2WIe"
       },
@@ -1247,18 +1263,18 @@
     {
       "added_at": "2025-05-19 17:05:09",
       "album": {
-        "name": "Somos",
-        "url": "https://open.spotify.com/album/4MoPXiOJYb32vO1JhKBOvw"
+        "name": "Solo Yo",
+        "url": "https://open.spotify.com/album/2nkdmiUVwlv0Smw9e6fgW9"
       },
       "artists": [
         {
-          "name": "La Chamba",
-          "url": "https://open.spotify.com/artist/0HDNMO4nFZR6IGwqLdBneh"
+          "name": "Buyepongo",
+          "url": "https://open.spotify.com/artist/1HmiqLEbQr8UGX7aEMM3c0"
         }
       ],
-      "duration_ms": 198469,
-      "name": "Por Ah\u00ed",
-      "url": "https://open.spotify.com/track/5TewOoVbMDzrV5AKHXKMPd"
+      "duration_ms": 492786,
+      "name": "Solo Yo",
+      "url": "https://open.spotify.com/track/3Lf3G3HoYLbs3pt0FhecEj"
     },
     {
       "added_at": "2025-05-19 17:05:09",
@@ -1279,22 +1295,6 @@
     {
       "added_at": "2025-05-19 17:05:09",
       "album": {
-        "name": "Palermo's Grunch",
-        "url": "https://open.spotify.com/album/4QjEWC8yYh8JQna57ZKFaj"
-      },
-      "artists": [
-        {
-          "name": "Los Pira\u00f1as",
-          "url": "https://open.spotify.com/artist/1TWdamQsAiOgB0szQsMSeq"
-        }
-      ],
-      "duration_ms": 308864,
-      "name": "Palermo's Grunch",
-      "url": "https://open.spotify.com/track/3QIIQCAJeIFpi9GK0vB6Ye"
-    },
-    {
-      "added_at": "2025-05-19 17:05:09",
-      "album": {
         "name": "Chica Psy",
         "url": "https://open.spotify.com/album/6wXsBA06udJMz8GXS4k6CE"
       },
@@ -1311,18 +1311,18 @@
     {
       "added_at": "2025-05-19 17:05:09",
       "album": {
-        "name": "Solo Yo",
-        "url": "https://open.spotify.com/album/2nkdmiUVwlv0Smw9e6fgW9"
+        "name": "Palermo's Grunch",
+        "url": "https://open.spotify.com/album/4QjEWC8yYh8JQna57ZKFaj"
       },
       "artists": [
         {
-          "name": "Buyepongo",
-          "url": "https://open.spotify.com/artist/1HmiqLEbQr8UGX7aEMM3c0"
+          "name": "Los Pira\u00f1as",
+          "url": "https://open.spotify.com/artist/1TWdamQsAiOgB0szQsMSeq"
         }
       ],
-      "duration_ms": 492786,
-      "name": "Solo Yo",
-      "url": "https://open.spotify.com/track/3Lf3G3HoYLbs3pt0FhecEj"
+      "duration_ms": 308864,
+      "name": "Palermo's Grunch",
+      "url": "https://open.spotify.com/track/3QIIQCAJeIFpi9GK0vB6Ye"
     },
     {
       "added_at": "2025-05-19 17:05:09",
@@ -1463,22 +1463,6 @@
     {
       "added_at": "2025-05-19 17:05:09",
       "album": {
-        "name": "El Vacile Del T\u00edo",
-        "url": "https://open.spotify.com/album/5kLj6KoLyNvJ8qNppOipmg"
-      },
-      "artists": [
-        {
-          "name": "Juan Pablo Vega",
-          "url": "https://open.spotify.com/artist/2PfyKA4qhjkxUVkerTCxz0"
-        }
-      ],
-      "duration_ms": 146496,
-      "name": "El Vacile Del T\u00edo",
-      "url": "https://open.spotify.com/track/6nAibjd93efRHvK86fiYiJ"
-    },
-    {
-      "added_at": "2025-05-19 17:05:09",
-      "album": {
         "name": "Virgen de Guadalupe",
         "url": "https://open.spotify.com/album/5l1BXk01Bi8lsWqvGvoH5D"
       },
@@ -1491,6 +1475,22 @@
       "duration_ms": 222214,
       "name": "Virgen de Guadalupe",
       "url": "https://open.spotify.com/track/4DpBpURKuXKwWECFwMkr7T"
+    },
+    {
+      "added_at": "2025-05-19 17:05:09",
+      "album": {
+        "name": "El Vacile Del T\u00edo",
+        "url": "https://open.spotify.com/album/5kLj6KoLyNvJ8qNppOipmg"
+      },
+      "artists": [
+        {
+          "name": "Juan Pablo Vega",
+          "url": "https://open.spotify.com/artist/2PfyKA4qhjkxUVkerTCxz0"
+        }
+      ],
+      "duration_ms": 146496,
+      "name": "El Vacile Del T\u00edo",
+      "url": "https://open.spotify.com/track/6nAibjd93efRHvK86fiYiJ"
     },
     {
       "added_at": "2025-05-19 17:05:09",

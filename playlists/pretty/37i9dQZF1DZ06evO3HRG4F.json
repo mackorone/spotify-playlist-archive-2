@@ -1,12 +1,12 @@
 {
   "description": "This is Charlie Monttana. The essential tracks, all in one playlist.",
-  "num_followers": 5746,
+  "num_followers": 5745,
   "original_name": "This Is Charlie Monttana",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "awOCAAAAAADDjEBGHebODkWe0VitxQEd",
+  "snapshot_id": "awYlAAAAAAAqBdvI4408VAgaFrQRWgwm",
   "tracks": [
     {
       "added_at": null,
@@ -319,22 +319,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "15 Grandes \u00c9xitos",
-        "url": "https://open.spotify.com/album/5gd5kQbqAKWxckZvtSTtA0"
-      },
-      "artists": [
-        {
-          "name": "Charlie Monttana",
-          "url": "https://open.spotify.com/artist/6hszx52doSbSMupWHUGdTv"
-        }
-      ],
-      "duration_ms": 306360,
-      "name": "Pinche Pancho",
-      "url": "https://open.spotify.com/track/5aPW7Izp95syL826w96yO6"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Rockin' And Rollin'",
         "url": "https://open.spotify.com/album/2NSURyToNLKlRwUM1AS3x0"
       },
@@ -347,6 +331,22 @@
       "duration_ms": 180760,
       "name": "Pinches Mariguanos",
       "url": "https://open.spotify.com/track/3abqHxzHzh7yTj6WTiy4J1"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "15 Grandes \u00c9xitos",
+        "url": "https://open.spotify.com/album/5gd5kQbqAKWxckZvtSTtA0"
+      },
+      "artists": [
+        {
+          "name": "Charlie Monttana",
+          "url": "https://open.spotify.com/artist/6hszx52doSbSMupWHUGdTv"
+        }
+      ],
+      "duration_ms": 306360,
+      "name": "Pinche Pancho",
+      "url": "https://open.spotify.com/track/5aPW7Izp95syL826w96yO6"
     },
     {
       "added_at": null,
@@ -511,6 +511,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "S\u00e9 Lo Que Hicieron el Disco Pasado (Del Creador de Suicida)",
+        "url": "https://open.spotify.com/album/7fn7RJLP6jySOnTxhRefLm"
+      },
+      "artists": [
+        {
+          "name": "Charlie Monttana",
+          "url": "https://open.spotify.com/artist/6hszx52doSbSMupWHUGdTv"
+        }
+      ],
+      "duration_ms": 304800,
+      "name": "Ya No Te Tengo",
+      "url": "https://open.spotify.com/track/4sk8Co7iAm0U67qQD1RFDr"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Decreto por el Regreso de los Buenos Tiempos",
         "url": "https://open.spotify.com/album/1Zz2lh2JImZz2X82aQ3iMV"
       },
@@ -527,22 +543,6 @@
       "duration_ms": 309626,
       "name": "Prot\u00e9geme",
       "url": "https://open.spotify.com/track/6bD1GkpSae9gcBmCIsWZ8F"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "S\u00e9 Lo Que Hicieron el Disco Pasado (Del Creador de Suicida)",
-        "url": "https://open.spotify.com/album/7fn7RJLP6jySOnTxhRefLm"
-      },
-      "artists": [
-        {
-          "name": "Charlie Monttana",
-          "url": "https://open.spotify.com/artist/6hszx52doSbSMupWHUGdTv"
-        }
-      ],
-      "duration_ms": 304800,
-      "name": "Ya No Te Tengo",
-      "url": "https://open.spotify.com/track/4sk8Co7iAm0U67qQD1RFDr"
     },
     {
       "added_at": null,
@@ -579,22 +579,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Decreto por el Regreso de los Buenos Tiempos",
-        "url": "https://open.spotify.com/album/1Zz2lh2JImZz2X82aQ3iMV"
-      },
-      "artists": [
-        {
-          "name": "Charlie Monttana",
-          "url": "https://open.spotify.com/artist/6hszx52doSbSMupWHUGdTv"
-        }
-      ],
-      "duration_ms": 226520,
-      "name": "\u00a1Vete al Carajo!",
-      "url": "https://open.spotify.com/track/6b6IB01M7qXg4WyqD5EQKI"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Todos Estos A\u00f1os, Vol. 2",
         "url": "https://open.spotify.com/album/6uqtNBebkhBdxig3ewSyl5"
       },
@@ -607,6 +591,22 @@
       "duration_ms": 153320,
       "name": "Perd\u00f3name Mi Amor",
       "url": "https://open.spotify.com/track/7Mtc9v1kK4jZjQmWi155xM"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Decreto por el Regreso de los Buenos Tiempos",
+        "url": "https://open.spotify.com/album/1Zz2lh2JImZz2X82aQ3iMV"
+      },
+      "artists": [
+        {
+          "name": "Charlie Monttana",
+          "url": "https://open.spotify.com/artist/6hszx52doSbSMupWHUGdTv"
+        }
+      ],
+      "duration_ms": 226520,
+      "name": "\u00a1Vete al Carajo!",
+      "url": "https://open.spotify.com/track/6b6IB01M7qXg4WyqD5EQKI"
     },
     {
       "added_at": null,
@@ -643,26 +643,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Pares y Duetos: Disco 2",
-        "url": "https://open.spotify.com/album/70wnL7EEHIVjWuAttocxmY"
-      },
-      "artists": [
-        {
-          "name": "Charlie Monttana",
-          "url": "https://open.spotify.com/artist/6hszx52doSbSMupWHUGdTv"
-        },
-        {
-          "name": "Divisi\u00f3n Min\u00fascula",
-          "url": "https://open.spotify.com/artist/2Ky9mFKNApb9KpEcORXE3p"
-        }
-      ],
-      "duration_ms": 192333,
-      "name": "Estoy Tan Solo",
-      "url": "https://open.spotify.com/track/4qvkfmC8UVHxECR9y61z3s"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Teatro Metropolitan 2018 (En Vivo)",
         "url": "https://open.spotify.com/album/3jjZeLI5yIcstu7qFIDgeU"
       },
@@ -683,6 +663,26 @@
     {
       "added_at": null,
       "album": {
+        "name": "Pares y Duetos: Disco 2",
+        "url": "https://open.spotify.com/album/70wnL7EEHIVjWuAttocxmY"
+      },
+      "artists": [
+        {
+          "name": "Charlie Monttana",
+          "url": "https://open.spotify.com/artist/6hszx52doSbSMupWHUGdTv"
+        },
+        {
+          "name": "Divisi\u00f3n Min\u00fascula",
+          "url": "https://open.spotify.com/artist/2Ky9mFKNApb9KpEcORXE3p"
+        }
+      ],
+      "duration_ms": 192333,
+      "name": "Estoy Tan Solo",
+      "url": "https://open.spotify.com/track/4qvkfmC8UVHxECR9y61z3s"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Montamorfosis",
         "url": "https://open.spotify.com/album/7ALgl4x4459Wn1yFaotbkT"
       },
@@ -695,38 +695,6 @@
       "duration_ms": 285466,
       "name": "Brillando en la Oscuridad",
       "url": "https://open.spotify.com/track/5lzOcS594OcqqbUifg97ZF"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "En Vivo en el Teatro Isabela Corona, Vol. 2",
-        "url": "https://open.spotify.com/album/3MfHiMLrd79xV6kgSc9kB3"
-      },
-      "artists": [
-        {
-          "name": "Charlie Monttana",
-          "url": "https://open.spotify.com/artist/6hszx52doSbSMupWHUGdTv"
-        }
-      ],
-      "duration_ms": 397480,
-      "name": "Contigo - En Vivo",
-      "url": "https://open.spotify.com/track/69ZXaG6EO87Ay88YLruMXs"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "En Vivo, Vol. 1 (En Vivo)",
-        "url": "https://open.spotify.com/album/7x8Knu6fbmp4CDcYg7GcR7"
-      },
-      "artists": [
-        {
-          "name": "Charlie Monttana",
-          "url": "https://open.spotify.com/artist/6hszx52doSbSMupWHUGdTv"
-        }
-      ],
-      "duration_ms": 301573,
-      "name": "De Que el Amor Apesta Apesta - En Vivo",
-      "url": "https://open.spotify.com/track/6icW8z4zbebBK4oCVmJsti"
     },
     {
       "added_at": null,
@@ -747,8 +715,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "15 Grandes \u00c9xitos",
-        "url": "https://open.spotify.com/album/5gd5kQbqAKWxckZvtSTtA0"
+        "name": "En Vivo, Vol. 1 (En Vivo)",
+        "url": "https://open.spotify.com/album/7x8Knu6fbmp4CDcYg7GcR7"
       },
       "artists": [
         {
@@ -756,9 +724,9 @@
           "url": "https://open.spotify.com/artist/6hszx52doSbSMupWHUGdTv"
         }
       ],
-      "duration_ms": 282946,
-      "name": "Pobre de Ti",
-      "url": "https://open.spotify.com/track/4ZrmPfaz063MTSfCd0PhmK"
+      "duration_ms": 301573,
+      "name": "De Que el Amor Apesta Apesta - En Vivo",
+      "url": "https://open.spotify.com/track/6icW8z4zbebBK4oCVmJsti"
     },
     {
       "added_at": null,
@@ -772,9 +740,25 @@
           "url": "https://open.spotify.com/artist/6hszx52doSbSMupWHUGdTv"
         }
       ],
-      "duration_ms": 190026,
-      "name": "Blues para Trabajar - En Vivo",
-      "url": "https://open.spotify.com/track/2wC7KdGIuo7VlUnXwtvuB6"
+      "duration_ms": 397480,
+      "name": "Contigo - En Vivo",
+      "url": "https://open.spotify.com/track/69ZXaG6EO87Ay88YLruMXs"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "15 Grandes \u00c9xitos",
+        "url": "https://open.spotify.com/album/5gd5kQbqAKWxckZvtSTtA0"
+      },
+      "artists": [
+        {
+          "name": "Charlie Monttana",
+          "url": "https://open.spotify.com/artist/6hszx52doSbSMupWHUGdTv"
+        }
+      ],
+      "duration_ms": 282946,
+      "name": "Pobre de Ti",
+      "url": "https://open.spotify.com/track/4ZrmPfaz063MTSfCd0PhmK"
     },
     {
       "added_at": null,
@@ -811,6 +795,22 @@
       "duration_ms": 146466,
       "name": "D\u00e9jenme Rockanrolear",
       "url": "https://open.spotify.com/track/6U0BtbSWCrqYNAoKwXqprJ"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "En Vivo en el Teatro Isabela Corona, Vol. 2",
+        "url": "https://open.spotify.com/album/3MfHiMLrd79xV6kgSc9kB3"
+      },
+      "artists": [
+        {
+          "name": "Charlie Monttana",
+          "url": "https://open.spotify.com/artist/6hszx52doSbSMupWHUGdTv"
+        }
+      ],
+      "duration_ms": 190026,
+      "name": "Blues para Trabajar - En Vivo",
+      "url": "https://open.spotify.com/track/2wC7KdGIuo7VlUnXwtvuB6"
     },
     {
       "added_at": null,

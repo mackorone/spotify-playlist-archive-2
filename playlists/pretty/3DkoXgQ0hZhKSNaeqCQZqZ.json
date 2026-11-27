@@ -1,13 +1,33 @@
 {
   "description": "FurryRadio.com, furry music for furs, by furs.",
-  "num_followers": 1274,
+  "num_followers": 1277,
   "original_name": "FURRY RADIO",
   "owner": {
     "name": "Zunkz",
     "url": "https://open.spotify.com/user/21ojyqenqyu63axkiblipyqya"
   },
-  "snapshot_id": "AAAGSFdUo0ps0KTiDGV4hlYi25ONM1x0",
+  "snapshot_id": "AAAGU1lWgoGO8TPhQ94UyxwKVdAhoM0s",
   "tracks": [
+    {
+      "added_at": "2026-03-05 04:42:47",
+      "album": {
+        "name": "RUDOLPH REINDEER BOY",
+        "url": "https://open.spotify.com/album/17U7c7NQ4sQNYYCevBywkI"
+      },
+      "artists": [
+        {
+          "name": "alottadogs",
+          "url": "https://open.spotify.com/artist/1vuMbz8SdGeSE8UaOQiXuN"
+        },
+        {
+          "name": "r u s s e l b u c k",
+          "url": "https://open.spotify.com/artist/3Si34xQXMZlrics4njesF2"
+        }
+      ],
+      "duration_ms": 140076,
+      "name": "RUDOLPH REINDEER BOY",
+      "url": "https://open.spotify.com/track/77UiDteFZF5JDw5ZdSMiMZ"
+    },
     {
       "added_at": "2026-11-25 06:21:44",
       "album": {
@@ -2951,26 +2971,6 @@
     {
       "added_at": "2026-03-05 04:42:47",
       "album": {
-        "name": "RUDOLPH REINDEER BOY",
-        "url": "https://open.spotify.com/album/17U7c7NQ4sQNYYCevBywkI"
-      },
-      "artists": [
-        {
-          "name": "alottadogs",
-          "url": "https://open.spotify.com/artist/1vuMbz8SdGeSE8UaOQiXuN"
-        },
-        {
-          "name": "r u s s e l b u c k",
-          "url": "https://open.spotify.com/artist/3Si34xQXMZlrics4njesF2"
-        }
-      ],
-      "duration_ms": 140076,
-      "name": "RUDOLPH REINDEER BOY",
-      "url": "https://open.spotify.com/track/77UiDteFZF5JDw5ZdSMiMZ"
-    },
-    {
-      "added_at": "2026-03-05 04:42:47",
-      "album": {
         "name": "Dancing with a Werewolf (ValueFactory Remix)",
         "url": "https://open.spotify.com/album/4xWlVKqqC8D30M80Ahm0fN"
       },
@@ -3435,22 +3435,6 @@
     {
       "added_at": "2026-03-05 04:42:47",
       "album": {
-        "name": "tales of .moon4ever",
-        "url": "https://open.spotify.com/album/0Wj6Iud9S8RduORKtv35eh"
-      },
-      "artists": [
-        {
-          "name": ".moon4ever",
-          "url": "https://open.spotify.com/artist/4P803ru8lxWK9tku9LujUj"
-        }
-      ],
-      "duration_ms": 111477,
-      "name": "goodbye to a world",
-      "url": "https://open.spotify.com/track/5AXTaJgOMrxR4dbhdNk2li"
-    },
-    {
-      "added_at": "2026-03-05 04:42:47",
-      "album": {
         "name": "Crimson Galaxies",
         "url": "https://open.spotify.com/album/4iVzbV3AoyVRypYasLf92c"
       },
@@ -3783,22 +3767,6 @@
     {
       "added_at": "2026-03-05 04:42:47",
       "album": {
-        "name": "My Love is a Quickscope",
-        "url": "https://open.spotify.com/album/2fm2HpEwNWqdsqLcCE4D0H"
-      },
-      "artists": [
-        {
-          "name": "Vylet Pony",
-          "url": "https://open.spotify.com/artist/1kM5BZXs7FFN8Dj1WpgH2j"
-        }
-      ],
-      "duration_ms": 227250,
-      "name": "My Love is a Quickscope",
-      "url": "https://open.spotify.com/track/7hBjYecLIxghERxBAH02Fz"
-    },
-    {
-      "added_at": "2026-03-05 04:42:47",
-      "album": {
         "name": "ON MY BODY",
         "url": "https://open.spotify.com/album/5pEGqmCiP46dHKMIS9I2PA"
       },
@@ -3815,18 +3783,18 @@
     {
       "added_at": "2026-03-05 04:42:47",
       "album": {
-        "name": "ONLY US, NEVER THEM",
-        "url": "https://open.spotify.com/album/78el29q9QSnJThg9k5NKfY"
+        "name": "My Love is a Quickscope",
+        "url": "https://open.spotify.com/album/2fm2HpEwNWqdsqLcCE4D0H"
       },
       "artists": [
         {
-          "name": "Jaylaflame",
-          "url": "https://open.spotify.com/artist/5UdUCGK24WtRFRcXyzxN6U"
+          "name": "Vylet Pony",
+          "url": "https://open.spotify.com/artist/1kM5BZXs7FFN8Dj1WpgH2j"
         }
       ],
-      "duration_ms": 135000,
-      "name": "lil boy",
-      "url": "https://open.spotify.com/track/3SjZZQa6pY3IuZZSCvL6lF"
+      "duration_ms": 227250,
+      "name": "My Love is a Quickscope",
+      "url": "https://open.spotify.com/track/7hBjYecLIxghERxBAH02Fz"
     },
     {
       "added_at": "2026-03-05 04:42:47",
@@ -6191,22 +6159,6 @@
     {
       "added_at": "2026-03-05 04:42:47",
       "album": {
-        "name": "Drained",
-        "url": "https://open.spotify.com/album/3FDlszVMTptRq3PXkGbw4p"
-      },
-      "artists": [
-        {
-          "name": "ABSRDST",
-          "url": "https://open.spotify.com/artist/0F4rneT54YD3eaWYXUXvFM"
-        }
-      ],
-      "duration_ms": 242666,
-      "name": "Drained",
-      "url": "https://open.spotify.com/track/3ISjtbkPZgp4kQaGuNcQwR"
-    },
-    {
-      "added_at": "2026-03-05 04:42:47",
-      "album": {
         "name": "galaxy",
         "url": "https://open.spotify.com/album/7BBL1R0SvKo026lLHx2Ssl"
       },
@@ -6435,22 +6387,6 @@
       "duration_ms": 150234,
       "name": "ON MY BODY",
       "url": "https://open.spotify.com/track/52NAe9IEa65ExgnamYkN5O"
-    },
-    {
-      "added_at": "2026-03-05 04:42:47",
-      "album": {
-        "name": "ONLY US, NEVER THEM",
-        "url": "https://open.spotify.com/album/78el29q9QSnJThg9k5NKfY"
-      },
-      "artists": [
-        {
-          "name": "Jaylaflame",
-          "url": "https://open.spotify.com/artist/5UdUCGK24WtRFRcXyzxN6U"
-        }
-      ],
-      "duration_ms": 135000,
-      "name": "lil boy",
-      "url": "https://open.spotify.com/track/3SjZZQa6pY3IuZZSCvL6lF"
     },
     {
       "added_at": "2026-03-05 04:42:47",
@@ -6835,22 +6771,6 @@
     {
       "added_at": "2026-03-05 04:42:47",
       "album": {
-        "name": "TRANQUIL",
-        "url": "https://open.spotify.com/album/1rbdkQxI6hqQ2x3vfdEEEC"
-      },
-      "artists": [
-        {
-          "name": "BASSDOG",
-          "url": "https://open.spotify.com/artist/12nm0BL6ld04PNgVi1UwwU"
-        }
-      ],
-      "duration_ms": 175098,
-      "name": "FLOWERS",
-      "url": "https://open.spotify.com/track/6TExJ61OqpJYFsJ7Rdc0dV"
-    },
-    {
-      "added_at": "2026-03-05 04:42:47",
-      "album": {
         "name": "Neverland",
         "url": "https://open.spotify.com/album/3EDAJhK1lYeXEzoHnf56he"
       },
@@ -6931,6 +6851,22 @@
       "duration_ms": 331000,
       "name": "sorry, i zoned out",
       "url": "https://open.spotify.com/track/1BgXNabnEjcbCocOJnpGSu"
+    },
+    {
+      "added_at": "2026-03-05 04:42:47",
+      "album": {
+        "name": "TRANQUIL",
+        "url": "https://open.spotify.com/album/1rbdkQxI6hqQ2x3vfdEEEC"
+      },
+      "artists": [
+        {
+          "name": "BASSDOG",
+          "url": "https://open.spotify.com/artist/12nm0BL6ld04PNgVi1UwwU"
+        }
+      ],
+      "duration_ms": 175098,
+      "name": "FLOWERS",
+      "url": "https://open.spotify.com/track/6TExJ61OqpJYFsJ7Rdc0dV"
     },
     {
       "added_at": "2026-03-05 04:42:47",
@@ -7043,22 +6979,6 @@
       "duration_ms": 85394,
       "name": "south",
       "url": "https://open.spotify.com/track/0RGO0OK4kV9bKviTFjcllk"
-    },
-    {
-      "added_at": "2026-03-05 04:42:47",
-      "album": {
-        "name": "ONLY US, NEVER THEM",
-        "url": "https://open.spotify.com/album/78el29q9QSnJThg9k5NKfY"
-      },
-      "artists": [
-        {
-          "name": "Jaylaflame",
-          "url": "https://open.spotify.com/artist/5UdUCGK24WtRFRcXyzxN6U"
-        }
-      ],
-      "duration_ms": 164571,
-      "name": "nonbinary",
-      "url": "https://open.spotify.com/track/3hJl4ZMJkaPCowO2BdE2Oe"
     },
     {
       "added_at": "2026-03-05 04:42:47",

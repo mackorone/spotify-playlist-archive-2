@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-12-29",
-  "description": "New music off the beaten track. Cover: Hot Chip, Beth Ditto",
+  "description": "New music off the beaten track. Cover: Dixon, Trikk ",
   "name": "OFF POP",
   "tracks": [
     {
@@ -7222,7 +7222,7 @@
       ],
       "date_added": "2026-05-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-27",
       "duration_ms": 240318,
       "name": "Dracula (with JENNIE) - Boys Noize Disko Version",
       "url": "https://open.spotify.com/track/53AnN5mzvc62M1KOT45ffl"
@@ -7536,6 +7536,24 @@
       "duration_ms": 191360,
       "name": "Drums of Death",
       "url": "https://open.spotify.com/track/0s2kdkcG5N7ySBbEwTiFEF"
+    },
+    {
+      "album": {
+        "name": "du bist mein rausch",
+        "url": "https://open.spotify.com/album/7w1aDI8y4O7kGVbHFJDFuD"
+      },
+      "artists": [
+        {
+          "name": "aurea",
+          "url": "https://open.spotify.com/artist/5XjpiI81Hkf0X9hGcTP27x"
+        }
+      ],
+      "date_added": "2026-11-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 219195,
+      "name": "du bist mein rausch",
+      "url": "https://open.spotify.com/track/2DyAeUeDrgbeV0PvMseiT9"
     },
     {
       "album": {
@@ -15926,7 +15944,7 @@
       ],
       "date_added": "2026-05-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-27",
       "duration_ms": 188452,
       "name": "Last October",
       "url": "https://open.spotify.com/track/2mQI9h4mI5MlHJGnF2WJSU"
@@ -16148,6 +16166,24 @@
       "duration_ms": 218455,
       "name": "Lessons",
       "url": "https://open.spotify.com/track/7dcNsaYCgtycbQYYPj5bao"
+    },
+    {
+      "album": {
+        "name": "Funny Business",
+        "url": "https://open.spotify.com/album/7rFEz6wirEItbRX2vHP1s3"
+      },
+      "artists": [
+        {
+          "name": "Odd Beholder",
+          "url": "https://open.spotify.com/artist/3QXIzf05xhPdEUciKVif6v"
+        }
+      ],
+      "date_added": "2026-11-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 322915,
+      "name": "Let Go",
+      "url": "https://open.spotify.com/track/64jdR2bhhay29fKcvLP4Pz"
     },
     {
       "album": {
@@ -17916,6 +17952,32 @@
       "duration_ms": 222242,
       "name": "Luna",
       "url": "https://open.spotify.com/track/37q95xoPlZZzzymKJmEFIB"
+    },
+    {
+      "album": {
+        "name": "RAGENATION I",
+        "url": "https://open.spotify.com/album/3EDkpCrimsZTuZnLjVKBoU"
+      },
+      "artists": [
+        {
+          "name": "Tri/xon",
+          "url": "https://open.spotify.com/artist/7oFpeew5rSVQEUDcJ9y4F5"
+        },
+        {
+          "name": "Trikk",
+          "url": "https://open.spotify.com/artist/4wPR8PhvdOB0vksHMUWDZY"
+        },
+        {
+          "name": "Dixon",
+          "url": "https://open.spotify.com/artist/3wc57nV2fGEoM8x4xPK1O9"
+        }
+      ],
+      "date_added": "2026-11-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 236631,
+      "name": "MAD/NESS feat. Umar Bin Hassan of The Last Poets",
+      "url": "https://open.spotify.com/track/2VDWIaztL70rAm7GcjpzyU"
     },
     {
       "album": {
@@ -24792,7 +24854,7 @@
       ],
       "date_added": "2026-05-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-27",
       "duration_ms": 251783,
       "name": "Siren Reprise",
       "url": "https://open.spotify.com/track/678wI419HyRL4qSTbXdyLu"
@@ -26324,6 +26386,24 @@
       "duration_ms": 174776,
       "name": "strangers",
       "url": "https://open.spotify.com/track/5uwfkHrHW6smpBtHoJEmeB"
+    },
+    {
+      "album": {
+        "name": "Strawberry Lips",
+        "url": "https://open.spotify.com/album/51z6VTzWPrW9H79UnqdPGz"
+      },
+      "artists": [
+        {
+          "name": "Boy Amor",
+          "url": "https://open.spotify.com/artist/3AupJfKW4DItB2fo9zRQ9E"
+        }
+      ],
+      "date_added": "2026-11-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 199472,
+      "name": "Strawberry Lips",
+      "url": "https://open.spotify.com/track/3VEhmyJAJeoTOfFqxPZiqp"
     },
     {
       "album": {
@@ -28420,7 +28500,7 @@
       ],
       "date_added": "2026-05-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-27",
       "duration_ms": 202972,
       "name": "The Wave",
       "url": "https://open.spotify.com/track/6Ln44Up5lBxNgCsaLoXY6W"

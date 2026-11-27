@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2024-12-04",
-  "description": "Some of the most influential and innovative voices in afrobeats, afropop, amapiano, hiplife and everything in between, from earliest acts to newest stars. \n\nCover: Solana",
+  "description": "Some of the most influential and innovative voices in afrobeats, afropop, amapiano, hiplife and everything in between, from earliest acts to newest stars. \n\nCover: Kold AF",
   "name": "Women of Afro",
   "tracks": [
     {
@@ -322,7 +322,7 @@
       ],
       "date_added": "2026-11-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-27",
       "duration_ms": 165000,
       "name": "Aka Oma",
       "url": "https://open.spotify.com/track/45kMpM6mIfmK1FDM4PFt3y"
@@ -1142,7 +1142,7 @@
       ],
       "date_added": "2026-09-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-27",
       "duration_ms": 220291,
       "name": "Chinyere",
       "url": "https://open.spotify.com/track/7kC22nNl5VK2bzlnF7Xb7N"
@@ -1358,6 +1358,28 @@
       "duration_ms": 252723,
       "name": "CRAZY OF ME (feat. MaWhoo)",
       "url": "https://open.spotify.com/track/6gkJmjZtPgbCyYKEHWagz3"
+    },
+    {
+      "album": {
+        "name": "D GA",
+        "url": "https://open.spotify.com/album/2EDrkvEVqIClNvvqLc4xT6"
+      },
+      "artists": [
+        {
+          "name": "LinLin",
+          "url": "https://open.spotify.com/artist/1D7nUBd4i2mrVpmLQmHI0n"
+        },
+        {
+          "name": "Theodora",
+          "url": "https://open.spotify.com/artist/3PpJbrAbphauEun8Xf9tD2"
+        }
+      ],
+      "date_added": "2026-11-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 180462,
+      "name": "D GA",
+      "url": "https://open.spotify.com/track/2TxXO0GXIOCHkwRR35q4vP"
     },
     {
       "album": {
@@ -3452,7 +3474,7 @@
       ],
       "date_added": "2026-05-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-27",
       "duration_ms": 206250,
       "name": "Longo Longo",
       "url": "https://open.spotify.com/track/7C4ld0CYlWSHk7hovq3xpn"
@@ -3550,7 +3572,7 @@
       ],
       "date_added": "2026-07-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-27",
       "duration_ms": 148400,
       "name": "Love Me Softly",
       "url": "https://open.spotify.com/track/28PeOScBCg4T4PmYppgtuY"
@@ -4562,7 +4584,7 @@
       ],
       "date_added": "2026-11-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-27",
       "duration_ms": 165882,
       "name": "O r\u00ed mi",
       "url": "https://open.spotify.com/track/3R4GEid3JLlWuujA7HlRQt"
@@ -5439,6 +5461,28 @@
     },
     {
       "album": {
+        "name": "911",
+        "url": "https://open.spotify.com/album/2GbjisCZ2WprELtU0wTp2o"
+      },
+      "artists": [
+        {
+          "name": "Nandy",
+          "url": "https://open.spotify.com/artist/2YfO4GV7JrFSXyfEoa5id3"
+        },
+        {
+          "name": "Tiwa Savage",
+          "url": "https://open.spotify.com/artist/1hNaHKp2Za5YdOAG0WnRbc"
+        }
+      ],
+      "date_added": "2026-11-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 174642,
+      "name": "Santorini",
+      "url": "https://open.spotify.com/track/4OJwKQgovsiqlhAxLMMpFH"
+    },
+    {
+      "album": {
         "name": "Sapiosexual",
         "url": "https://open.spotify.com/album/5SyGcOymdbcswIkKi1sQwR"
       },
@@ -5751,6 +5795,24 @@
     },
     {
       "album": {
+        "name": "Speak",
+        "url": "https://open.spotify.com/album/3Vmrr3643mlR3hTBlJ9NtT"
+      },
+      "artists": [
+        {
+          "name": "Gyakie",
+          "url": "https://open.spotify.com/artist/1zO1FWFxxNUCqUuGATxZQZ"
+        }
+      ],
+      "date_added": "2026-11-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 160824,
+      "name": "Speak",
+      "url": "https://open.spotify.com/track/4XC9UfqbR62OauedPdMiSH"
+    },
+    {
+      "album": {
         "name": "Speak To Me",
         "url": "https://open.spotify.com/album/2uyzf0f95cXqjawLckp8bK"
       },
@@ -5867,6 +5929,24 @@
     },
     {
       "album": {
+        "name": "Smoking Gun",
+        "url": "https://open.spotify.com/album/2ZuEpQEGT0uPlRdhz6czeS"
+      },
+      "artists": [
+        {
+          "name": "Victoria Kimani",
+          "url": "https://open.spotify.com/artist/6HbeytIa6j2WCdPQzCrXpf"
+        }
+      ],
+      "date_added": "2026-11-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 114545,
+      "name": "Sup Wit U",
+      "url": "https://open.spotify.com/track/5BIidxJ4et6LrD0dehbdeR"
+    },
+    {
+      "album": {
         "name": "Superwoman",
         "url": "https://open.spotify.com/album/4QEfxuq5zIDoY7kumRDLA5"
       },
@@ -5972,7 +6052,7 @@
       ],
       "date_added": "2026-11-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-27",
       "duration_ms": 159409,
       "name": "Therapy",
       "url": "https://open.spotify.com/track/4jTRj7jqpWFIOCcBXWRIqD"
@@ -6328,7 +6408,7 @@
       ],
       "date_added": "2026-09-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-27",
       "duration_ms": 141116,
       "name": "VIP",
       "url": "https://open.spotify.com/track/5Nel8CnZxSZUZ3i3yLowLk"
@@ -6409,6 +6489,24 @@
     },
     {
       "album": {
+        "name": "karnage!",
+        "url": "https://open.spotify.com/album/3xEqcjCNM1XYOngoSH3oEg"
+      },
+      "artists": [
+        {
+          "name": "Kold AF",
+          "url": "https://open.spotify.com/artist/30nT1GUVxPdjDFnXpP1wh8"
+        }
+      ],
+      "date_added": "2026-11-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 197333,
+      "name": "wait a minute!",
+      "url": "https://open.spotify.com/track/7rdtsG7DC4g37nbo9PV4GD"
+    },
+    {
+      "album": {
         "name": "Wayside",
         "url": "https://open.spotify.com/album/7M3HnxJBwhzNqTLNPBnAcJ"
       },
@@ -6442,6 +6540,28 @@
       "duration_ms": 176470,
       "name": "Where Do We Go",
       "url": "https://open.spotify.com/track/3sCinQALcMKnL6b6nYDnMb"
+    },
+    {
+      "album": {
+        "name": "Whiskey",
+        "url": "https://open.spotify.com/album/2BnIG9ZtR8aB4kbPZAITOk"
+      },
+      "artists": [
+        {
+          "name": "Darkoo",
+          "url": "https://open.spotify.com/artist/4QSTyDpxsKmv3UfavVUImR"
+        },
+        {
+          "name": "FOLA",
+          "url": "https://open.spotify.com/artist/0FK1hXdXst70HD11n5J26z"
+        }
+      ],
+      "date_added": "2026-11-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 173155,
+      "name": "Whiskey",
+      "url": "https://open.spotify.com/track/02738G92Zhe8W7iCVxyVgY"
     },
     {
       "album": {

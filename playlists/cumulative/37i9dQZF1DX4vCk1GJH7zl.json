@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2023-07-23",
-  "description": "Sucessos e novidades do rock calminho pra relaxar o seu dia! Foto: Zimbra",
+  "description": "Sucessos e novidades do rock calminho pra relaxar o seu dia! Foto: Flerte Flamingo",
   "name": "Rock Leve",
   "tracks": [
     {
@@ -727,6 +727,28 @@
     },
     {
       "album": {
+        "name": "Calmo",
+        "url": "https://open.spotify.com/album/6qyS648OD8JhbdrLxcR1sF"
+      },
+      "artists": [
+        {
+          "name": "Humberto Gessinger",
+          "url": "https://open.spotify.com/artist/4A4HpNHrbu2nzPyIGFTaJ5"
+        },
+        {
+          "name": "Duca Leindecker",
+          "url": "https://open.spotify.com/artist/1265uXcvod5t28vgWMUH9U"
+        }
+      ],
+      "date_added": "2026-11-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 167437,
+      "name": "Calmo",
+      "url": "https://open.spotify.com/track/1PQ2CNWw21L0v67Fap4YwJ"
+    },
+    {
+      "album": {
         "name": "Camale\u00e3o",
         "url": "https://open.spotify.com/album/0JdfXInQkquJKuyqlVLfEH"
       },
@@ -1010,7 +1032,7 @@
       ],
       "date_added": "2026-11-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-27",
       "duration_ms": 256098,
       "name": "Como Eu Amo Voc\u00ea",
       "url": "https://open.spotify.com/track/4028iIAbxcMeW8PnVz208Z"
@@ -1454,7 +1476,7 @@
       ],
       "date_added": "2026-10-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-27",
       "duration_ms": 272158,
       "name": "eternamente",
       "url": "https://open.spotify.com/track/4e8viVM9hXPasMMxCPXCuV"
@@ -1498,6 +1520,24 @@
       "duration_ms": 254645,
       "name": "Eu Deixo",
       "url": "https://open.spotify.com/track/4kysCKNjDUK1WrSDdfzW2X"
+    },
+    {
+      "album": {
+        "name": "Eu e Voc\u00ea Sempre",
+        "url": "https://open.spotify.com/album/0grw7ElksQbguzvdcwpuSz"
+      },
+      "artists": [
+        {
+          "name": "Suricato",
+          "url": "https://open.spotify.com/artist/35j8oMehl8Q9mLnVmkVqMC"
+        }
+      ],
+      "date_added": "2026-11-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 306000,
+      "name": "Eu e Voc\u00ea Sempre",
+      "url": "https://open.spotify.com/track/57rZJTASgLcOEV1uSAN6CK"
     },
     {
       "album": {
@@ -2290,7 +2330,7 @@
       ],
       "date_added": "2026-04-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-27",
       "duration_ms": 190975,
       "name": "Melhor Resposta",
       "url": "https://open.spotify.com/track/684VCfWjap3OaIEr8Tf70f"
@@ -2366,7 +2406,7 @@
       ],
       "date_added": "2026-08-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-27",
       "duration_ms": 168107,
       "name": "MENINA VENENO",
       "url": "https://open.spotify.com/track/4RjyulOffxqkRxtPujLqQQ"
@@ -2761,6 +2801,24 @@
     },
     {
       "album": {
+        "name": "N\u00e3o Me Fa\u00e7a Voltar",
+        "url": "https://open.spotify.com/album/6JrISGHtS8o5vgSAdBbuTI"
+      },
+      "artists": [
+        {
+          "name": "Flerte Flamingo",
+          "url": "https://open.spotify.com/artist/7zdaWFrCzl1h0jmDGt9Qih"
+        }
+      ],
+      "date_added": "2026-11-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 258661,
+      "name": "N\u00e3o Me Fa\u00e7a Voltar",
+      "url": "https://open.spotify.com/track/4TF101YB9LSfKi1QYyxPXG"
+    },
+    {
+      "album": {
         "name": "n\u00e3o me importo mais",
         "url": "https://open.spotify.com/album/741ZgcZ2POqxmqoHYAUxYG"
       },
@@ -2914,6 +2972,32 @@
       "duration_ms": 209552,
       "name": "O Verso",
       "url": "https://open.spotify.com/track/7pXTeKmUbEpZoIDDyW1nVm"
+    },
+    {
+      "album": {
+        "name": "Olha (Ao Vivo)",
+        "url": "https://open.spotify.com/album/7rdkUMxJldLwK6FsfElzeH"
+      },
+      "artists": [
+        {
+          "name": "Far From Alaska",
+          "url": "https://open.spotify.com/artist/1ztNPX8z169arfAY0TWFLB"
+        },
+        {
+          "name": "Lenine",
+          "url": "https://open.spotify.com/artist/4YLBdrR3DVSMncm785NH6C"
+        },
+        {
+          "name": "Nova Orquestra",
+          "url": "https://open.spotify.com/artist/4uzwSJoGCB3DhCmFhhTS31"
+        }
+      ],
+      "date_added": "2026-11-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 235294,
+      "name": "Olha - Ao Vivo",
+      "url": "https://open.spotify.com/track/5CvJrLIPIKMZOydisCcByM"
     },
     {
       "album": {

@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2024-07-02",
-  "description": "\u03a4\u03b1 \u03ba\u03b1\u03bb\u03cd\u03c4\u03b5\u03c1\u03b1 \u03c4\u03b7\u03c2 \u03b5\u03bb\u03bb\u03b7\u03bd\u03b9\u03ba\u03ae\u03c2 \u03c0\u03bf\u03c0 \u03c3\u03ba\u03b7\u03bd\u03ae\u03c2 \u03b1\u03c5\u03c4\u03ae \u03c4\u03b7 \u03c3\u03c4\u03b9\u03b3\u03bc\u03ae. \u0395\u03be\u03ce\u03c6\u03c5\u03bb\u03bb\u03bf: Claydee, Rena Morfi",
+  "description": "\u03a4\u03b1 \u03ba\u03b1\u03bb\u03cd\u03c4\u03b5\u03c1\u03b1 \u03c4\u03b7\u03c2 \u03b5\u03bb\u03bb\u03b7\u03bd\u03b9\u03ba\u03ae\u03c2 \u03c0\u03bf\u03c0 \u03c3\u03ba\u03b7\u03bd\u03ae\u03c2 \u03b1\u03c5\u03c4\u03ae \u03c4\u03b7 \u03c3\u03c4\u03b9\u03b3\u03bc\u03ae. \u0395\u03be\u03ce\u03c6\u03c5\u03bb\u03bb\u03bf: LILA",
   "name": "Greek Pop",
   "tracks": [
     {
@@ -108,7 +108,7 @@
       ],
       "date_added": "2026-06-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-27",
       "duration_ms": 176947,
       "name": "A'ti",
       "url": "https://open.spotify.com/track/3jBba6wuPZwclW44byHwlg"
@@ -2946,7 +2946,7 @@
       ],
       "date_added": "2026-05-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-27",
       "duration_ms": 140777,
       "name": "Glyko Antio",
       "url": "https://open.spotify.com/track/1XJAyJ7p11u2He72ecoq5C"
@@ -3143,6 +3143,24 @@
     },
     {
       "album": {
+        "name": "I Agapi Sto Ho Pi",
+        "url": "https://open.spotify.com/album/6mEf2EVzMC93RnIeb5DaxY"
+      },
+      "artists": [
+        {
+          "name": "Christos Dantis",
+          "url": "https://open.spotify.com/artist/1TKXk9QDdArvRAKdW2sMyc"
+        }
+      ],
+      "date_added": "2026-11-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 170897,
+      "name": "I Agapi Sto Ho Pi",
+      "url": "https://open.spotify.com/track/2nHAcJmHD9dAiIZcxrwstX"
+    },
+    {
+      "album": {
         "name": "50 Years (Live at Odeon of Herodes Atticus)",
         "url": "https://open.spotify.com/album/31Er5ZZpjPKHNQx1z8IPeC"
       },
@@ -3274,7 +3292,7 @@
       ],
       "date_added": "2026-05-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-27",
       "duration_ms": 161142,
       "name": "Isos Avrio",
       "url": "https://open.spotify.com/track/4KKlKLS7iGXyk2Mysaz3vV"
@@ -4782,7 +4800,7 @@
       ],
       "date_added": "2026-05-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-27",
       "duration_ms": 196744,
       "name": "Oneiro Vathi",
       "url": "https://open.spotify.com/track/0VU2t3vtbGI8TiVzR0PoFt"
@@ -5847,6 +5865,28 @@
     },
     {
       "album": {
+        "name": "So Sexy",
+        "url": "https://open.spotify.com/album/5mAXg6Zf1K4a6xH5JQFcRc"
+      },
+      "artists": [
+        {
+          "name": "Eleni Foureira",
+          "url": "https://open.spotify.com/artist/39E15l8zeCDYpSZwFNX4G2"
+        },
+        {
+          "name": "ARCADE",
+          "url": "https://open.spotify.com/artist/565UjtVObRIa1hdNFUJajr"
+        }
+      ],
+      "date_added": "2026-11-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 179047,
+      "name": "So Sexy",
+      "url": "https://open.spotify.com/track/7HdGDJZU94wGFFmTyr0YBu"
+    },
+    {
+      "album": {
         "name": "Social Media",
         "url": "https://open.spotify.com/album/6IklcTdtyA8nZ1aeYb81JG"
       },
@@ -6488,6 +6528,32 @@
       "duration_ms": 169468,
       "name": "To Velos",
       "url": "https://open.spotify.com/track/6TFPOMN57JxaKdfkxwB4YQ"
+    },
+    {
+      "album": {
+        "name": "TO XEIS ME TA LOGIA",
+        "url": "https://open.spotify.com/album/4W0b4tMdqEXDLIoCruyvxD"
+      },
+      "artists": [
+        {
+          "name": "Kidd",
+          "url": "https://open.spotify.com/artist/1RqOmrtivmvKrfBO81j1ou"
+        },
+        {
+          "name": "Evangelia",
+          "url": "https://open.spotify.com/artist/3J7SI1JrZt43ZBlH24IqCK"
+        },
+        {
+          "name": "BLVD",
+          "url": "https://open.spotify.com/artist/3XVSWUdVDon1RGgHdPuqzR"
+        }
+      ],
+      "date_added": "2026-11-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 156000,
+      "name": "TO XEIS ME TA LOGIA",
+      "url": "https://open.spotify.com/track/0cfPGas7ZMCwPv4syhadMj"
     },
     {
       "album": {

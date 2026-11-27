@@ -4,7 +4,7 @@
 
 > This is Joan Baez\. The essential tracks, all in one playlist.
 
-130 songs - 7 hr 51 min
+131 songs - 7 hr 54 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -36,7 +36,8 @@
 | [Diamonds & Rust](https://open.spotify.com/track/3mq4d0XatVGY7vOMIhUBEz) | [Judy Collins](https://open.spotify.com/artist/5yzE49FicYiSxN61oaxkNn), [Joan Baez](https://open.spotify.com/artist/1EevBGfUh3RSQSGpluxgBm) | [Paradise](https://open.spotify.com/album/2fm8pHor9hd3t6szmNZv1x) | 3:35 | 2022-09-24 |  |
 | [Diamonds And Rust](https://open.spotify.com/track/4O0sGJdqpHMaWz7KoVd7tb) | [Joan Baez](https://open.spotify.com/artist/1EevBGfUh3RSQSGpluxgBm) | [Diamonds & Rust](https://open.spotify.com/album/3O9LYeSXXEypjdptHMghUg) | 4:46 | 2022-09-22 |  |
 | [Don't Cry For Me Argentina \- Live](https://open.spotify.com/track/6mwSAVdxyJPFNGPZvrufEy) | [Joan Baez](https://open.spotify.com/artist/1EevBGfUh3RSQSGpluxgBm) | [Live](https://open.spotify.com/album/2WMBWzM366ayJ6JwPX0YCa) | 3:13 | 2024-07-01 | 2024-07-24 |
-| [Don't Think Twice, It's All Right](https://open.spotify.com/track/3ORn0rgu27z7hlnNgvYWse) | [Joan Baez](https://open.spotify.com/artist/1EevBGfUh3RSQSGpluxgBm) | [The First 10 Years](https://open.spotify.com/album/4r2BckN3R24ifqfXKUUbMn) | 3:09 | 2022-09-22 |  |
+| [Don't Think Twice, It's All Right](https://open.spotify.com/track/3ORn0rgu27z7hlnNgvYWse) | [Joan Baez](https://open.spotify.com/artist/1EevBGfUh3RSQSGpluxgBm) | [The First 10 Years](https://open.spotify.com/album/4r2BckN3R24ifqfXKUUbMn) | 3:09 | 2022-09-22 | 2026-11-27 |
+| [Don't Think Twice, It's All Right](https://open.spotify.com/track/1jWMYvFjuSzWda5mswu8r4) | [Joan Baez](https://open.spotify.com/artist/1EevBGfUh3RSQSGpluxgBm) | [In Concert](https://open.spotify.com/album/66EuOM4JX57MTYRtSzQp4q) | 3:11 | 2026-11-27 |  |
 | [Donna Donna](https://open.spotify.com/track/49uBVeaM3ixGD8VIeqh9KI) | [Joan Baez](https://open.spotify.com/artist/1EevBGfUh3RSQSGpluxgBm) | [Joan Baez](https://open.spotify.com/album/734AFYo34Q1zRpg9N8E2Ho) | 3:12 | 2022-09-29 |  |
 | [Drug Store Truck Drivin' Man \- Live At The Woodstock Music & Art Fair / 1969](https://open.spotify.com/track/0rl1mAu2HBkIptk1rUtzlI) | [Joan Baez](https://open.spotify.com/artist/1EevBGfUh3RSQSGpluxgBm), [Jeffrey Shurtleff](https://open.spotify.com/artist/3Ek5Fzr1vbkPI5AUYWtwBv) | [Live At Woodstock](https://open.spotify.com/album/5z56SO1GMxmXbNIRBbOBcj) | 2:49 | 2024-07-02 | 2024-07-03 |
 | [East Virginia](https://open.spotify.com/track/7cOXUx0Q5PYafyNFriFajr) | [Joan Baez](https://open.spotify.com/artist/1EevBGfUh3RSQSGpluxgBm) | [Joan Baez](https://open.spotify.com/album/734AFYo34Q1zRpg9N8E2Ho) | 3:43 | 2022-10-07 | 2026-06-18 |

@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2024-07-02",
-  "description": "The home of Canadian country music. Cover: Rick Duff, Gustavo Mioto",
+  "description": "The home of Canadian country music. Cover: Bradley Hale, Sully Burrows",
   "name": "North Country",
   "tracks": [
     {
@@ -234,7 +234,7 @@
       ],
       "date_added": "2026-07-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-27",
       "duration_ms": 187200,
       "name": "Ah qu'on est ben icitte (feat. Olivier Couture)",
       "url": "https://open.spotify.com/track/6AHJ086lGZXsp0tv9NCH5n"
@@ -1649,6 +1649,24 @@
     },
     {
       "album": {
+        "name": "Breakeven",
+        "url": "https://open.spotify.com/album/4CVGk46IMoRaGeD285VmEl"
+      },
+      "artists": [
+        {
+          "name": "Brodie Bell",
+          "url": "https://open.spotify.com/artist/0J4vcSIFoR7ZEdynudGl9X"
+        }
+      ],
+      "date_added": "2026-11-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 159351,
+      "name": "Breakeven",
+      "url": "https://open.spotify.com/track/4jJ3WhlMYXSX8jO13faOfy"
+    },
+    {
+      "album": {
         "name": "Broken Heart Thing (feat. Dustin Lynch)",
         "url": "https://open.spotify.com/album/5y0ocwzDSZ9B8YENtOkEcK"
       },
@@ -2126,6 +2144,24 @@
       "duration_ms": 215222,
       "name": "Carl Dean",
       "url": "https://open.spotify.com/track/3efLofADfuZadHHNi1X0F3"
+    },
+    {
+      "album": {
+        "name": "Origine",
+        "url": "https://open.spotify.com/album/535GSp5DHaSo7EWWoj05j2"
+      },
+      "artists": [
+        {
+          "name": "2Fr\u00e8res",
+          "url": "https://open.spotify.com/artist/7hHwwhjG9V3HkHZoPsJB5Q"
+        }
+      ],
+      "date_added": "2026-11-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 152266,
+      "name": "Carolane",
+      "url": "https://open.spotify.com/track/6CuhMhEsK1Z4ZwfyROjtpk"
     },
     {
       "album": {
@@ -4926,7 +4962,7 @@
       ],
       "date_added": "2026-07-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-27",
       "duration_ms": 205950,
       "name": "God Knows I Try",
       "url": "https://open.spotify.com/track/1Im9Iuc0kOw6CqZo9AItEo"
@@ -5182,6 +5218,28 @@
       "duration_ms": 204704,
       "name": "Good Man",
       "url": "https://open.spotify.com/track/6J4GbwXrFpvb7Dn7iBUwdq"
+    },
+    {
+      "album": {
+        "name": "Good Ol' Boys",
+        "url": "https://open.spotify.com/album/0SdpW5gfPjt7lnRYIa4yU3"
+      },
+      "artists": [
+        {
+          "name": "Bradley Hale",
+          "url": "https://open.spotify.com/artist/1TPjClIZ0S2xtgSNfqV6gF"
+        },
+        {
+          "name": "Sully Burrows",
+          "url": "https://open.spotify.com/artist/5lCc0O15jryv68uC4A8McT"
+        }
+      ],
+      "date_added": "2026-11-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 205348,
+      "name": "Good Ol' Boys",
+      "url": "https://open.spotify.com/track/03nViDKX4l6UtQU6zA9zys"
     },
     {
       "album": {
@@ -6516,6 +6574,24 @@
       "duration_ms": 201487,
       "name": "I Ain't Crazy",
       "url": "https://open.spotify.com/track/4ZJ6oanHufLf1kBDloOipa"
+    },
+    {
+      "album": {
+        "name": "I Ain\u2019t Free",
+        "url": "https://open.spotify.com/album/0aIzftIxmAjtPV48Lrnq7u"
+      },
+      "artists": [
+        {
+          "name": "Catie St.Germain",
+          "url": "https://open.spotify.com/artist/5CNov9zScAO79WvNww2tdv"
+        }
+      ],
+      "date_added": "2026-11-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 188462,
+      "name": "I Ain\u2019t Free",
+      "url": "https://open.spotify.com/track/4UtlnwM0lRBDicD1FQ3Tgx"
     },
     {
       "album": {
@@ -8638,7 +8714,7 @@
       ],
       "date_added": "2026-07-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-27",
       "duration_ms": 159331,
       "name": "Little Red Rider",
       "url": "https://open.spotify.com/track/3eK0Z3M2R9LPYLZ0x0CETS"
@@ -12416,7 +12492,7 @@
       ],
       "date_added": "2026-07-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-27",
       "duration_ms": 221787,
       "name": "Saving Me",
       "url": "https://open.spotify.com/track/21GmnjIASYxKgFmBvtbVGC"
@@ -13472,7 +13548,7 @@
       ],
       "date_added": "2026-07-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-27",
       "duration_ms": 178849,
       "name": "Spin Me Like a Record",
       "url": "https://open.spotify.com/track/2o9MXcSYfubOQuqfxsLHlp"
@@ -15222,6 +15298,24 @@
       "duration_ms": 204845,
       "name": "Too Sober to Drive",
       "url": "https://open.spotify.com/track/2JaTNd1QFqJqY3Iiw4DPPU"
+    },
+    {
+      "album": {
+        "name": "Torn",
+        "url": "https://open.spotify.com/album/68tjhHIVqK5EBxfPDWISfA"
+      },
+      "artists": [
+        {
+          "name": "Jessica Sevier",
+          "url": "https://open.spotify.com/artist/7bEcIrpwBawp9YKL2MxLL2"
+        }
+      ],
+      "date_added": "2026-11-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 219100,
+      "name": "Torn",
+      "url": "https://open.spotify.com/track/31BizD2xGYJ1ZZk4bB3Pmz"
     },
     {
       "album": {

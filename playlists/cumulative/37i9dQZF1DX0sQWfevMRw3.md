@@ -4,7 +4,7 @@
 
 > 🇳🇴🤝🇸🇪
 
-1,730 songs - 2 day 23 hr 42 min
+1,732 songs - 2 day 23 hr 47 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -1027,6 +1027,7 @@
 | [Miste det](https://open.spotify.com/track/6HI6mIzktfclfne3N8SZ5l) | [Drittsekk](https://open.spotify.com/artist/2AWNiSdDhYAqQDpRvtfLtM), [Richie Holm](https://open.spotify.com/artist/6extXLs8CgAuChKJuMaFyt), [Kaffe Karlsson](https://open.spotify.com/artist/1PuOSwI11bE2FE9d6KehL2), [Mozby](https://open.spotify.com/artist/6kxzjvqTwQHtqzObBTJHh6) | [Miste det](https://open.spotify.com/album/2IM8A4awEokOwYK1JsFbMx) | 2:22 | 2025-07-24 | 2026-02-17 |
 | [Mitt lilla fejs & jag](https://open.spotify.com/track/7rMOiHCtibUC2qBhCPHCHy) | [Louise Andersson Bodin](https://open.spotify.com/artist/23z00NPQmiYxmpZSiDlQAE) | [Mitt lilla fejs & jag](https://open.spotify.com/album/3qSR0uHyOG1mJRj5mjLYIS) | 2:32 | 2024-01-18 | 2024-02-09 |
 | [Mon frére](https://open.spotify.com/track/1TzDpGGfnd5MfoFQCnySZF) | [Alfons](https://open.spotify.com/artist/5f5mH9BDkeyXmDbzevu38d) | [Mon frére](https://open.spotify.com/album/0DmddaBpwmY7nlxyGCbk7e) | 2:36 | 2021-12-16 | 2022-07-28 |
+| [Money](https://open.spotify.com/track/06NVaj4r1mnTwjrl5J1gNq) | [Leoney](https://open.spotify.com/artist/3ol0uH1CnoPNB0FSHEUogd) | [Money](https://open.spotify.com/album/6eFnwLKu9kBfFiEcfVvh5h) | 2:28 | 2026-11-26 |  |
 | [MONSTER](https://open.spotify.com/track/0woarGqyt4zgxhkyMtAy5E) | [Hasselyra](https://open.spotify.com/artist/13D0gA0YkSBYe5Fksj5H4B) | [MONSTER](https://open.spotify.com/album/0bUf4k4PSfZNqztyaKJvt9) | 2:08 | 2026-10-22 |  |
 | [MONSTER](https://open.spotify.com/track/632xfk18NbSubsQHJoRsh1) | [vem e du](https://open.spotify.com/artist/2KBgumo8NAu59C5DwsTBUQ) | [MONSTER](https://open.spotify.com/album/4mgynCQsb6eE4Lh8c9hlqK) | 2:24 | 2023-10-26 | 2023-11-24 |
 | [Moonlight Shadow](https://open.spotify.com/track/35wC2S4HBFHe1mUJINo1Qh) | [Jack Mazzoni](https://open.spotify.com/artist/2ZhNwwAIjVKhN9iy4br78h), [Nicola Fasano](https://open.spotify.com/artist/0AJ9YvsEOnAqMB9Q15TfYQ) | [Moonlight Shadow](https://open.spotify.com/album/7kyQ7pshrpSEaGQz4XYW1t) | 2:36 | 2021-12-16 | 2022-05-26 |
@@ -1676,6 +1677,7 @@
 | [VISSLA SOM GUNILLA](https://open.spotify.com/track/4NHLGVvuWZhBjo95KLJ1E8) | [Rasmus Gozzi](https://open.spotify.com/artist/3loTvAld5Tpk5aSNbboGpj), [Gunilla Persson](https://open.spotify.com/artist/5w05coq5piPottWOoVVaWE) | [VISSLA SOM GUNILLA](https://open.spotify.com/album/19lhfxlRQBk72VeXUCybEU) | 1:59 | 2025-01-30 | 2025-03-14 |
 | [VIVA LA GUNILLA \- MADNEZZ SPED UP REMIX](https://open.spotify.com/track/1lFbLg9oKO5F0XZ9zWqKJl) | [Gunilla Persson](https://open.spotify.com/artist/5w05coq5piPottWOoVVaWE), [MADNEZZ](https://open.spotify.com/artist/5lmx6s9v76pWT7alLaiL9b) | [VIVA LA GUNILLA \(MADNEZZ SPED UP REMIX\)](https://open.spotify.com/album/28wCPnkNDu3xBwHTSy44iH) | 1:57 | 2024-05-23 | 2024-11-08 |
 | [Viva La Vida](https://open.spotify.com/track/3PzfAzqI03wcX8OikTdrH2) | [Soppgirobygget](https://open.spotify.com/artist/03SBMfoHX3EUENFwFoLN5i) | [Viva La Vida](https://open.spotify.com/album/1L8q23sIBg9hklgZwbHyVX) | 2:27 | 2024-07-04 | 2025-08-01 |
+| [Viva La Vida](https://open.spotify.com/track/1B6r04aGGvqiNJuGMHnHnt) | [Studavigå](https://open.spotify.com/artist/4dReOlQZoHTfnk2608Gwf6), [Arild Aas](https://open.spotify.com/artist/0H9XxJcRLKTYCfPTNKmttd) | [Viva La Vida](https://open.spotify.com/album/43c9dgBGUON7zyzLfOFll9) | 2:30 | 2026-11-26 |  |
 | [VOI TILL MIN FUCKBOI](https://open.spotify.com/track/7MVDhCrcjzdEdZbOkZa2XV) | [FRÖKEN SNUSK](https://open.spotify.com/artist/6RjsbK9T7d1UQD1PFEYYGt), [Rasmus Gozzi](https://open.spotify.com/artist/3loTvAld5Tpk5aSNbboGpj) | [VOI TILL MIN FUCKBOI](https://open.spotify.com/album/2CuUNP6q3OohkEEUw2orgT) | 2:22 | 2024-04-04 | 2024-07-27 |
 | [Voltage](https://open.spotify.com/track/7z3kQQICDz1iLkfo7j1lOV) | [Mike Gudmann](https://open.spotify.com/artist/5tF4j2R7iNOIFdmpmEsn3s), [Popcorn!](https://open.spotify.com/artist/2ghlJsDAq3yMB04J7AgfwJ) | [Voltage](https://open.spotify.com/album/5mXvnVtQEvsg8DptdcHfxk) | 2:27 | 2021-12-16 | 2022-07-29 |
 | [VOLVO 142](https://open.spotify.com/track/0X9q2JqNNK93TEy4M8TWuT) | [Louise Andersson Bodin](https://open.spotify.com/artist/23z00NPQmiYxmpZSiDlQAE) | [VOLVO 142](https://open.spotify.com/album/5OY3p14hOJawBnOBSUgeec) | 2:36 | 2023-10-26 | 2024-01-26 |

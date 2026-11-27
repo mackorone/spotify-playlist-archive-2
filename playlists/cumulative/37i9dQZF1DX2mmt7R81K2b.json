@@ -2985,6 +2985,44 @@
     },
     {
       "album": {
+        "name": "Soundtrack to the Apocalypse (Live)",
+        "url": "https://open.spotify.com/album/0Xr2cGdcGWPos5FdlplARb"
+      },
+      "artists": [
+        {
+          "name": "Soweto Kinch",
+          "url": "https://open.spotify.com/artist/6Z37ofcWV3ZDEMbevEtoSk"
+        },
+        {
+          "name": "London Symphony Orchestra",
+          "url": "https://open.spotify.com/artist/5yxyJsFanEAuwSM5kOuZKc"
+        },
+        {
+          "name": "Ben Palmer",
+          "url": "https://open.spotify.com/artist/7BuKIq2YqVZhxSdquEnwko"
+        },
+        {
+          "name": "Rick Simpson",
+          "url": "https://open.spotify.com/artist/3FKhFIysDUOzJwTMNIFjpf"
+        },
+        {
+          "name": "Joshua Vadiveloo",
+          "url": "https://open.spotify.com/artist/0P7BXiq4xYkNTVNN90XEvq"
+        },
+        {
+          "name": "Louis Hamilton-Foad",
+          "url": "https://open.spotify.com/artist/4ldMMqU7ifZQVGvZ3ypfO1"
+        }
+      ],
+      "date_added": "2026-11-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 141802,
+      "name": "Soundtrack to the Apocalypse, Apocalypse Coda - Live",
+      "url": "https://open.spotify.com/track/0LunB0KoxFfJDn4h3JPWZT"
+    },
+    {
+      "album": {
         "name": "Suite 785",
         "url": "https://open.spotify.com/album/7iJunXjuZCewVj5QAqpogj"
       },

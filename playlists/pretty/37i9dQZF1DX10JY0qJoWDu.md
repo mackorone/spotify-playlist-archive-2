@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX10JY0qJoWDu.md) - [plain]
 
 > Make the holiday magic with festive Disney classics and pop hits.
 
-[Spotify](https://open.spotify.com/user/spotify) - 207,069 likes - 87 songs - 3 hr 51 min
+[Spotify](https://open.spotify.com/user/spotify) - 207,219 likes - 87 songs - 3 hr 51 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

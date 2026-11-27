@@ -1,15 +1,15 @@
 {
-  "description": "What is your love language? Say it in Swahili.  Cover: Maua Sama & Rayvanny",
-  "num_followers": 41915,
+  "description": "What is your love language? Say it in Swahili.  Cover: Nandy",
+  "num_followers": 41944,
   "original_name": "Swahili Love ",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAAmPPJOHcKxOU75SS41iMRphZBvm",
+  "snapshot_id": "AAAAAC8y8Wlirbbbs719ICsziksIivZK",
   "tracks": [
     {
-      "added_at": "2026-11-19 23:59:18",
+      "added_at": "2026-11-26 23:59:12",
       "album": {
         "name": "Natulizana",
         "url": "https://open.spotify.com/album/3rqu6ac3lZYgzvLdYWq6Tg"
@@ -25,23 +25,27 @@
       "url": "https://open.spotify.com/track/5JVCPxHDsOBbTn9lw0yhP1"
     },
     {
-      "added_at": "2026-11-19 23:59:18",
+      "added_at": "2026-11-26 23:59:12",
       "album": {
-        "name": "Nakupenda",
-        "url": "https://open.spotify.com/album/3x1IVD7R3l6pHTwnAiq2jW"
+        "name": "911",
+        "url": "https://open.spotify.com/album/2GbjisCZ2WprELtU0wTp2o"
       },
       "artists": [
         {
-          "name": "Mavokali",
-          "url": "https://open.spotify.com/artist/5EIk6BWcEKUeHgmM0vD0cX"
+          "name": "Nandy",
+          "url": "https://open.spotify.com/artist/2YfO4GV7JrFSXyfEoa5id3"
+        },
+        {
+          "name": "Bobby V.",
+          "url": "https://open.spotify.com/artist/4HgF4KnohByNElYid7iCNb"
         }
       ],
-      "duration_ms": 145263,
-      "name": "Nakupenda",
-      "url": "https://open.spotify.com/track/2f8p5z0EA3oNDG7FVtwLYc"
+      "duration_ms": 161120,
+      "name": "My Love",
+      "url": "https://open.spotify.com/track/4AlAnCEFRGkEce5Cm0gbJq"
     },
     {
-      "added_at": "2026-11-19 23:59:18",
+      "added_at": "2026-11-26 23:59:12",
       "album": {
         "name": "Malaika",
         "url": "https://open.spotify.com/album/0ncMgAh9d9EphTcCTSYVqK"
@@ -65,7 +69,27 @@
       "url": "https://open.spotify.com/track/4pDrRoXNJ89IcAVzYLlNkn"
     },
     {
-      "added_at": "2026-11-19 23:59:18",
+      "added_at": "2026-11-26 23:59:12",
+      "album": {
+        "name": "The Real King Of The East",
+        "url": "https://open.spotify.com/album/0Y8Ypi9J7BAyPoilrtoAEc"
+      },
+      "artists": [
+        {
+          "name": "Otile Brown",
+          "url": "https://open.spotify.com/artist/25txWhgJAzekbAaHuDzmwj"
+        },
+        {
+          "name": "Jovial",
+          "url": "https://open.spotify.com/artist/2iULDphri5hyIfw6Z1HhcH"
+        }
+      ],
+      "duration_ms": 186382,
+      "name": "I Choose You (feat. Jovial)",
+      "url": "https://open.spotify.com/track/4QXLr3G3YXUzyTIoDTTgpe"
+    },
+    {
+      "added_at": "2026-11-26 23:59:12",
       "album": {
         "name": "31",
         "url": "https://open.spotify.com/album/3zNp3g5kEnRMrhAoxg2qhs"
@@ -85,7 +109,7 @@
       "url": "https://open.spotify.com/track/6Jwiz7dPghIJ09mx7CkBf0"
     },
     {
-      "added_at": "2026-11-19 23:59:18",
+      "added_at": "2026-11-26 23:59:12",
       "album": {
         "name": "Somebody's Daughter",
         "url": "https://open.spotify.com/album/4j7sVVrEg5X31to9IxWDIC"
@@ -101,7 +125,7 @@
       "url": "https://open.spotify.com/track/2Wx7nu8Bz9Aw5IvoRGXAuX"
     },
     {
-      "added_at": "2026-11-19 23:59:18",
+      "added_at": "2026-11-26 23:59:12",
       "album": {
         "name": "Nitunzie",
         "url": "https://open.spotify.com/album/3GEOy0Mq9AhToUconXseU3"
@@ -117,7 +141,23 @@
       "url": "https://open.spotify.com/track/4oilg7qbwH4SRiSQOzHTrx"
     },
     {
-      "added_at": "2026-11-19 23:59:18",
+      "added_at": "2026-11-26 23:59:12",
+      "album": {
+        "name": "Nakupenda",
+        "url": "https://open.spotify.com/album/0jQViRPRSqtAFdGfkJ5b9x"
+      },
+      "artists": [
+        {
+          "name": "Mavokali",
+          "url": "https://open.spotify.com/artist/5EIk6BWcEKUeHgmM0vD0cX"
+        }
+      ],
+      "duration_ms": 145263,
+      "name": "Nakupenda",
+      "url": "https://open.spotify.com/track/6dhuF3ULDtKJe3HO50SGIn"
+    },
+    {
+      "added_at": "2026-11-26 23:59:12",
       "album": {
         "name": "Alusa Continua",
         "url": "https://open.spotify.com/album/4dgvWmd6oGnshBBMiuPp5K"
@@ -133,7 +173,7 @@
       "url": "https://open.spotify.com/track/3iEeNYIyBFyyEm4VziydNz"
     },
     {
-      "added_at": "2026-11-19 23:59:18",
+      "added_at": "2026-11-26 23:59:12",
       "album": {
         "name": "Banana",
         "url": "https://open.spotify.com/album/5ETj4zboxainPuaePMm592"
@@ -153,7 +193,7 @@
       "url": "https://open.spotify.com/track/2hCOa9I7qRTPTbt5bpZLhb"
     },
     {
-      "added_at": "2026-11-19 23:59:18",
+      "added_at": "2026-11-26 23:59:12",
       "album": {
         "name": "Somebody",
         "url": "https://open.spotify.com/album/6Lbkqp4MmahYVWmBq6LUWR"
@@ -173,7 +213,7 @@
       "url": "https://open.spotify.com/track/3CFCxKoA91XYhTh452SAJj"
     },
     {
-      "added_at": "2026-11-19 23:59:18",
+      "added_at": "2026-11-26 23:59:12",
       "album": {
         "name": "Safari Ya Mapenzi",
         "url": "https://open.spotify.com/album/25LfFjU2Pjym1ts45Vbt0G"
@@ -189,7 +229,7 @@
       "url": "https://open.spotify.com/track/3NwRu8k7BhOD8gNwymNuxW"
     },
     {
-      "added_at": "2026-11-19 23:59:18",
+      "added_at": "2026-11-26 23:59:12",
       "album": {
         "name": "The Problem Child",
         "url": "https://open.spotify.com/album/1vyZQKBl8Nxh02VXpPVNV4"
@@ -205,7 +245,7 @@
       "url": "https://open.spotify.com/track/2s0IFprZwV6pX2N98DJqT2"
     },
     {
-      "added_at": "2026-11-19 23:59:18",
+      "added_at": "2026-11-26 23:59:12",
       "album": {
         "name": "Napendwa",
         "url": "https://open.spotify.com/album/6d9KJ3UK1Idjud9Hl7A7EC"
@@ -225,7 +265,7 @@
       "url": "https://open.spotify.com/track/2fe7pt46glPPjQFBjriMCz"
     },
     {
-      "added_at": "2026-11-19 23:59:18",
+      "added_at": "2026-11-26 23:59:12",
       "album": {
         "name": "Yoyo",
         "url": "https://open.spotify.com/album/68uiH2UHyO8clfkV4HWnzq"
@@ -241,7 +281,7 @@
       "url": "https://open.spotify.com/track/78AwXtsxAg9TErM4gwNs2k"
     },
     {
-      "added_at": "2026-11-19 23:59:18",
+      "added_at": "2026-11-26 23:59:12",
       "album": {
         "name": "Mtu Mzima",
         "url": "https://open.spotify.com/album/25eVf8JxwJXoD0Vanog35u"
@@ -257,7 +297,7 @@
       "url": "https://open.spotify.com/track/6nQyBIqqMRmKcdlkaCyWZ6"
     },
     {
-      "added_at": "2026-11-19 23:59:18",
+      "added_at": "2026-11-26 23:59:12",
       "album": {
         "name": "Miti",
         "url": "https://open.spotify.com/album/6pWI3mM97WmJrWhtFjIK7A"
@@ -277,7 +317,7 @@
       "url": "https://open.spotify.com/track/693Nupdv9SutEUk1R7IhcL"
     },
     {
-      "added_at": "2026-11-19 23:59:18",
+      "added_at": "2026-11-26 23:59:12",
       "album": {
         "name": "KANDA",
         "url": "https://open.spotify.com/album/34KsjXx5WtGnS9v7HsCCxc"
@@ -297,7 +337,7 @@
       "url": "https://open.spotify.com/track/1b731QaxyB1OfOVzdb88bI"
     },
     {
-      "added_at": "2026-11-19 23:59:18",
+      "added_at": "2026-11-26 23:59:12",
       "album": {
         "name": "Nampenda",
         "url": "https://open.spotify.com/album/4RrzSWqeoSnU24CDzLIPJA"
@@ -313,7 +353,7 @@
       "url": "https://open.spotify.com/track/5wy5RI8sYhPohJ2cOtPtvW"
     },
     {
-      "added_at": "2026-11-19 23:59:18",
+      "added_at": "2026-11-26 23:59:12",
       "album": {
         "name": "Bhuju",
         "url": "https://open.spotify.com/album/3YeYkTet5Z6gbB66868VcL"
@@ -333,7 +373,7 @@
       "url": "https://open.spotify.com/track/43anMhnVk6EDjvxu3re25J"
     },
     {
-      "added_at": "2026-11-19 23:59:18",
+      "added_at": "2026-11-26 23:59:12",
       "album": {
         "name": "Wasiwasi",
         "url": "https://open.spotify.com/album/4A3tkgIoGW190qRfJNzfKg"
@@ -349,7 +389,7 @@
       "url": "https://open.spotify.com/track/6APLhvny4lS9NxuJjE5fXf"
     },
     {
-      "added_at": "2026-11-19 23:59:18",
+      "added_at": "2026-11-26 23:59:12",
       "album": {
         "name": "Mpepe",
         "url": "https://open.spotify.com/album/3e4RghdN6WrQyHQRJzBqsf"
@@ -369,7 +409,7 @@
       "url": "https://open.spotify.com/track/5yWOragZsRFaZjHlRY3fMg"
     },
     {
-      "added_at": "2026-11-19 23:59:18",
+      "added_at": "2026-11-26 23:59:12",
       "album": {
         "name": "Njeve",
         "url": "https://open.spotify.com/album/0E0crvIU728RRRK5b3821K"
@@ -385,7 +425,7 @@
       "url": "https://open.spotify.com/track/2Wsj8IF7dEBoKKqx0sGqRZ"
     },
     {
-      "added_at": "2026-11-19 23:59:18",
+      "added_at": "2026-11-26 23:59:12",
       "album": {
         "name": "Listen to Me Again",
         "url": "https://open.spotify.com/album/4xQ3Molayp9PvepgQsZqe4"
@@ -405,7 +445,7 @@
       "url": "https://open.spotify.com/track/14p6haa3m3b9WxUhDF93iy"
     },
     {
-      "added_at": "2026-11-19 23:59:18",
+      "added_at": "2026-11-26 23:59:12",
       "album": {
         "name": "Kumbe",
         "url": "https://open.spotify.com/album/20hCsxkV1X5ipI9g1Yojh3"
@@ -421,7 +461,7 @@
       "url": "https://open.spotify.com/track/2Xcvr4o54F8lib8ptIgSDO"
     },
     {
-      "added_at": "2026-11-19 23:59:18",
+      "added_at": "2026-11-26 23:59:12",
       "album": {
         "name": "Love Design",
         "url": "https://open.spotify.com/album/4ZFec2ttYPEPubrGB2J3Sw"
@@ -441,7 +481,7 @@
       "url": "https://open.spotify.com/track/7zkZ8iKtTAt97oEosdKMpK"
     },
     {
-      "added_at": "2026-11-19 23:59:18",
+      "added_at": "2026-11-26 23:59:12",
       "album": {
         "name": "Naenjoy",
         "url": "https://open.spotify.com/album/6pBRCq3gGWwFG9oFAG9XmX"
@@ -457,7 +497,7 @@
       "url": "https://open.spotify.com/track/4OmM9icKzWnoo4pZC0wqoR"
     },
     {
-      "added_at": "2026-11-19 23:59:18",
+      "added_at": "2026-11-26 23:59:12",
       "album": {
         "name": "Touch",
         "url": "https://open.spotify.com/album/2yBzGSKc9W0KyTb7fwowhW"
@@ -473,7 +513,7 @@
       "url": "https://open.spotify.com/track/6LhhKqI7A7Pyn6TQp0KqNq"
     },
     {
-      "added_at": "2026-11-19 23:59:18",
+      "added_at": "2026-11-26 23:59:12",
       "album": {
         "name": "MOYO",
         "url": "https://open.spotify.com/album/2FmE4N63p2D4niFQwqMB9G"
@@ -493,7 +533,7 @@
       "url": "https://open.spotify.com/track/2xxoFcwteaps8BFBabgIRB"
     },
     {
-      "added_at": "2026-11-19 23:59:18",
+      "added_at": "2026-11-26 23:59:12",
       "album": {
         "name": "Nakupenda",
         "url": "https://open.spotify.com/album/14LRbN8KHBjZgA7gaKYAY0"
@@ -509,7 +549,7 @@
       "url": "https://open.spotify.com/track/1zTsIGDezfknAm2vkoSqcz"
     },
     {
-      "added_at": "2026-11-19 23:59:18",
+      "added_at": "2026-11-26 23:59:12",
       "album": {
         "name": "Searching for Love",
         "url": "https://open.spotify.com/album/7EgruAjgY7cV4YEbn4zZbK"
@@ -525,7 +565,7 @@
       "url": "https://open.spotify.com/track/0nkrOVuEuIXmTeM20SfPeA"
     },
     {
-      "added_at": "2026-11-19 23:59:18",
+      "added_at": "2026-11-26 23:59:12",
       "album": {
         "name": "Nichum (feat. Darassa)",
         "url": "https://open.spotify.com/album/4TheUCjOTTQgkYZSLvvA0M"
@@ -545,7 +585,7 @@
       "url": "https://open.spotify.com/track/02FisdTIvwtjVyRnWaDf7K"
     },
     {
-      "added_at": "2026-11-19 23:59:18",
+      "added_at": "2026-11-26 23:59:12",
       "album": {
         "name": "Yanamwagika",
         "url": "https://open.spotify.com/album/6U2gw3Hf4KribaJkGRa1hV"
@@ -565,7 +605,7 @@
       "url": "https://open.spotify.com/track/2QDnyZuNoQdwKgaFQ9WVqm"
     },
     {
-      "added_at": "2026-11-19 23:59:18",
+      "added_at": "2026-11-26 23:59:12",
       "album": {
         "name": "Yazoee",
         "url": "https://open.spotify.com/album/6Lc9nilYGt0nnZKRPhXwsa"
@@ -581,7 +621,7 @@
       "url": "https://open.spotify.com/track/7go3M2likVy1B21NC0XJA1"
     },
     {
-      "added_at": "2026-11-19 23:59:18",
+      "added_at": "2026-11-26 23:59:12",
       "album": {
         "name": "My Baby",
         "url": "https://open.spotify.com/album/496cKX0aoovWWXdZlTdO9Q"
@@ -597,7 +637,7 @@
       "url": "https://open.spotify.com/track/1XhVA2goJwKSfUYN8k8AoF"
     },
     {
-      "added_at": "2026-11-19 23:59:18",
+      "added_at": "2026-11-26 23:59:12",
       "album": {
         "name": "Self Love",
         "url": "https://open.spotify.com/album/7JdVF7n1nxAMrF9tACscLO"
@@ -613,7 +653,7 @@
       "url": "https://open.spotify.com/track/0KW4jkATD90jEVUH1VYzT0"
     },
     {
-      "added_at": "2026-11-19 23:59:18",
+      "added_at": "2026-11-26 23:59:12",
       "album": {
         "name": "Moyo",
         "url": "https://open.spotify.com/album/4OEjsxaYkOs9T5rR5uqSMu"
@@ -629,7 +669,7 @@
       "url": "https://open.spotify.com/track/0YsbBzLZiOXFwTQ0mFYSX5"
     },
     {
-      "added_at": "2026-11-19 23:59:18",
+      "added_at": "2026-11-26 23:59:12",
       "album": {
         "name": "I Love You",
         "url": "https://open.spotify.com/album/1u4xz5MGmqYxqVMYXdvnyg"
@@ -645,7 +685,7 @@
       "url": "https://open.spotify.com/track/3XRI2PTAJ65j7uPKuvpuNS"
     },
     {
-      "added_at": "2026-11-19 23:59:18",
+      "added_at": "2026-11-26 23:59:12",
       "album": {
         "name": "Room Number 3",
         "url": "https://open.spotify.com/album/17L4x88dKSyBVnvYpgMzVY"
@@ -661,7 +701,7 @@
       "url": "https://open.spotify.com/track/51TVoZ4d09tedi9Z8iSX5r"
     },
     {
-      "added_at": "2026-11-19 23:59:18",
+      "added_at": "2026-11-26 23:59:12",
       "album": {
         "name": "Kama Sio",
         "url": "https://open.spotify.com/album/3jlIsMfVbLH2l8aS8EgDvJ"
@@ -681,7 +721,7 @@
       "url": "https://open.spotify.com/track/6S920U14Kw9v5dedojzQLA"
     },
     {
-      "added_at": "2026-11-19 23:59:18",
+      "added_at": "2026-11-26 23:59:12",
       "album": {
         "name": "Wewe",
         "url": "https://open.spotify.com/album/6pGLKEtnPe2caApnGszFEX"
@@ -697,7 +737,7 @@
       "url": "https://open.spotify.com/track/0lubOWkxW8XzWHvn05W9h9"
     },
     {
-      "added_at": "2026-11-19 23:59:18",
+      "added_at": "2026-11-26 23:59:12",
       "album": {
         "name": "Tamu Chungu",
         "url": "https://open.spotify.com/album/5hXDmk0ecC2SOXi1PFRh0e"
@@ -717,7 +757,7 @@
       "url": "https://open.spotify.com/track/5qBPJlncdq7swIjYcaBm2G"
     },
     {
-      "added_at": "2026-11-19 23:59:18",
+      "added_at": "2026-11-26 23:59:12",
       "album": {
         "name": "Katam (feat. Bien)",
         "url": "https://open.spotify.com/album/2yRuZcR1TDAY2oFyLs6vHf"
@@ -737,7 +777,7 @@
       "url": "https://open.spotify.com/track/4MGtTXaggDrYal3andtYxP"
     },
     {
-      "added_at": "2026-11-19 23:59:18",
+      "added_at": "2026-11-26 23:59:12",
       "album": {
         "name": "PM",
         "url": "https://open.spotify.com/album/5jPZv395c02JpG6P2CfDBd"
@@ -753,7 +793,7 @@
       "url": "https://open.spotify.com/track/2DeJgXfd917CXIVpU988HJ"
     },
     {
-      "added_at": "2026-11-19 23:59:18",
+      "added_at": "2026-11-26 23:59:12",
       "album": {
         "name": "MVUA",
         "url": "https://open.spotify.com/album/2IqvrWY8WnDmcy5kaj3zbl"
@@ -769,7 +809,7 @@
       "url": "https://open.spotify.com/track/3WtzLuNn57NdACSZchtit3"
     },
     {
-      "added_at": "2026-11-19 23:59:18",
+      "added_at": "2026-11-26 23:59:12",
       "album": {
         "name": "Wewe na mimi (bongo Flava)",
         "url": "https://open.spotify.com/album/33bzWGYexe9TTWm0abEKu1"
@@ -789,7 +829,7 @@
       "url": "https://open.spotify.com/track/6oOfoL9E1iztf2anyIakKo"
     },
     {
-      "added_at": "2026-11-19 23:59:18",
+      "added_at": "2026-11-26 23:59:12",
       "album": {
         "name": "Hekaya",
         "url": "https://open.spotify.com/album/2kTsEaD1ueaIy6diuV7qKP"
@@ -805,23 +845,7 @@
       "url": "https://open.spotify.com/track/0yr8s0uDixBYcKjAVdvQZF"
     },
     {
-      "added_at": "2026-11-19 23:59:18",
-      "album": {
-        "name": "Msumari",
-        "url": "https://open.spotify.com/album/4zOv6utTtdWh8xx0Jb7R8C"
-      },
-      "artists": [
-        {
-          "name": "Diamond Platnumz",
-          "url": "https://open.spotify.com/artist/3cAisWS37sGCCtRgWfvrod"
-        }
-      ],
-      "duration_ms": 222223,
-      "name": "Msumari",
-      "url": "https://open.spotify.com/track/0LIWMtd93zoCGx2TdzMJCx"
-    },
-    {
-      "added_at": "2026-11-19 23:59:18",
+      "added_at": "2026-11-26 23:59:12",
       "album": {
         "name": "SUGAR",
         "url": "https://open.spotify.com/album/3t54foBHypQsPElET1ls6c"
@@ -837,7 +861,7 @@
       "url": "https://open.spotify.com/track/46P7l0UD1ZvNj24PHMY4wB"
     },
     {
-      "added_at": "2026-11-19 23:59:18",
+      "added_at": "2026-11-26 23:59:12",
       "album": {
         "name": "Sella",
         "url": "https://open.spotify.com/album/7pz3hUlORG75E9FupX5iJJ"
@@ -853,7 +877,7 @@
       "url": "https://open.spotify.com/track/7LOTcIQ7yuQHxTPEdIvP9g"
     },
     {
-      "added_at": "2026-11-19 23:59:18",
+      "added_at": "2026-11-26 23:59:12",
       "album": {
         "name": "Nilivyo",
         "url": "https://open.spotify.com/album/3VFN9c5uM6SGfYaPMnNGUs"
@@ -873,7 +897,7 @@
       "url": "https://open.spotify.com/track/2a9oIDrcKCgFFhrKLx82c0"
     },
     {
-      "added_at": "2026-11-19 23:59:18",
+      "added_at": "2026-11-26 23:59:12",
       "album": {
         "name": "Mashiko",
         "url": "https://open.spotify.com/album/3WPA0y6gPmj8tjnxPZDSm2"
@@ -889,7 +913,7 @@
       "url": "https://open.spotify.com/track/2yVR3Ly0eAdqnHc8O5C0Mf"
     },
     {
-      "added_at": "2026-11-19 23:59:18",
+      "added_at": "2026-11-26 23:59:12",
       "album": {
         "name": "Your Loss",
         "url": "https://open.spotify.com/album/6HzYn6HViKNb7mWwbIC8Ie"
@@ -905,7 +929,7 @@
       "url": "https://open.spotify.com/track/5v3BFswaqCAri7bZY2g78o"
     },
     {
-      "added_at": "2026-11-19 23:59:18",
+      "added_at": "2026-11-26 23:59:12",
       "album": {
         "name": "Si Mimi",
         "url": "https://open.spotify.com/album/7lOu0ytKDPL8E7mv793vxK"
@@ -921,7 +945,7 @@
       "url": "https://open.spotify.com/track/2wXTa09oysRfgOwu09ZeH5"
     },
     {
-      "added_at": "2026-11-19 23:59:18",
+      "added_at": "2026-11-26 23:59:12",
       "album": {
         "name": "Love Season",
         "url": "https://open.spotify.com/album/3lmgIevac4UvNrj4K5I3hg"
@@ -937,7 +961,7 @@
       "url": "https://open.spotify.com/track/560WaxcCey7Ss0t4ii0Bm4"
     },
     {
-      "added_at": "2026-11-19 23:59:18",
+      "added_at": "2026-11-26 23:59:12",
       "album": {
         "name": "Fitingi (feat. Marioo)",
         "url": "https://open.spotify.com/album/14LrFiTCxQoYkteAQO4iJY"
@@ -957,23 +981,7 @@
       "url": "https://open.spotify.com/track/5UhDCKzxdH5RLbnUL5f4ld"
     },
     {
-      "added_at": "2026-11-19 23:59:18",
-      "album": {
-        "name": "Subira",
-        "url": "https://open.spotify.com/album/1v0fPa8B379OhGZg2dMW2D"
-      },
-      "artists": [
-        {
-          "name": "Otile Brown",
-          "url": "https://open.spotify.com/artist/25txWhgJAzekbAaHuDzmwj"
-        }
-      ],
-      "duration_ms": 245649,
-      "name": "Subira",
-      "url": "https://open.spotify.com/track/2utgOHRwphmYpiSP3CHN5p"
-    },
-    {
-      "added_at": "2026-11-19 23:59:18",
+      "added_at": "2026-11-26 23:59:12",
       "album": {
         "name": "Hate That I Love You",
         "url": "https://open.spotify.com/album/6mNgkMoCmIAuQuFDTfMu8M"
@@ -989,7 +997,7 @@
       "url": "https://open.spotify.com/track/4Z5WbiyKtTMFWgqK7ErFKv"
     },
     {
-      "added_at": "2026-11-19 23:59:18",
+      "added_at": "2026-11-26 23:59:12",
       "album": {
         "name": "Hayanogi",
         "url": "https://open.spotify.com/album/1OeqcTOml3iCr45fZhZFoS"
@@ -1005,7 +1013,7 @@
       "url": "https://open.spotify.com/track/3CsK7zOiSlT58HlRHKASOh"
     },
     {
-      "added_at": "2026-11-19 23:59:18",
+      "added_at": "2026-11-26 23:59:12",
       "album": {
         "name": "Aje",
         "url": "https://open.spotify.com/album/1BpeAxmgnX9cjgrcoOnLCj"
@@ -1021,27 +1029,23 @@
       "url": "https://open.spotify.com/track/3ZnHvodgfo2Wzo10z9oZPX"
     },
     {
-      "added_at": "2026-11-19 23:59:18",
+      "added_at": "2026-11-26 23:59:12",
       "album": {
-        "name": "Call Me",
-        "url": "https://open.spotify.com/album/2saIxLurd9fufhXrueztza"
+        "name": "Subira",
+        "url": "https://open.spotify.com/album/1v0fPa8B379OhGZg2dMW2D"
       },
       "artists": [
         {
-          "name": "Fena Gitu",
-          "url": "https://open.spotify.com/artist/5uWJrA5m2FRzq2FnZAmL1W"
-        },
-        {
-          "name": "Ariel Wayz",
-          "url": "https://open.spotify.com/artist/6vLTbWnzofdofLGkDfxODG"
+          "name": "Otile Brown",
+          "url": "https://open.spotify.com/artist/25txWhgJAzekbAaHuDzmwj"
         }
       ],
-      "duration_ms": 197647,
-      "name": "Call Me",
-      "url": "https://open.spotify.com/track/7yeC0Li94ZmAwxVW5qApUw"
+      "duration_ms": 245649,
+      "name": "Subira",
+      "url": "https://open.spotify.com/track/2utgOHRwphmYpiSP3CHN5p"
     },
     {
-      "added_at": "2026-11-19 23:59:18",
+      "added_at": "2026-11-26 23:59:12",
       "album": {
         "name": "After All",
         "url": "https://open.spotify.com/album/6skxQDk7Zs9qVRkQKPDNdf"

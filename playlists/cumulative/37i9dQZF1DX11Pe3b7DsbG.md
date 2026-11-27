@@ -4,7 +4,7 @@
 
 > Um bom sambinha para acompanhar cada gole.
 
-96 songs - 5 hr 37 min
+97 songs - 5 hr 40 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -16,7 +16,7 @@
 | [Argumento](https://open.spotify.com/track/7Fpa5YcWRvaYfwNyGjnAqQ) | [Paulinho Da Viola](https://open.spotify.com/artist/0t2xdTxRXnffsmpMamH8Ls) | [Meus Momentos: Paulinho Da Viola](https://open.spotify.com/album/5DJ8Iu9nfpGykmggpCLsYu) | 3:14 | 2022-03-08 | 2023-08-05 |
 | [Argumento \- 2012 Remaster](https://open.spotify.com/track/6cB8s0RjeWV8HmrftZB3ua) | [Paulinho Da Viola](https://open.spotify.com/artist/0t2xdTxRXnffsmpMamH8Ls) | [Carnaval Samba](https://open.spotify.com/album/42TRJqMGcShiWlnhLR9IKm) | 3:16 | 2022-03-08 | 2022-11-14 |
 | [Asfalto Selvagem](https://open.spotify.com/track/3cCQPtsEBDGVhupAzHYx48) | [Tassia Reis](https://open.spotify.com/artist/0kc1BjcLHaXhZVzCp0HeAl) | [Asfalto Selvagem](https://open.spotify.com/album/3l7cmXYZgUZz7DH3o1YtD8) | 2:55 | 2024-08-16 |  |
-| [Banho de Folhas](https://open.spotify.com/track/4rnsEw278G3pFjiMSzS4fG) | [Xande de Pilares](https://open.spotify.com/artist/4IQKOXNGjuRRe0WgOm5YfB) | [Banho de Folhas](https://open.spotify.com/album/0wLE1tEXT32qRgPidt3r5R) | 3:51 | 2024-10-04 |  |
+| [Banho de Folhas](https://open.spotify.com/track/4rnsEw278G3pFjiMSzS4fG) | [Xande de Pilares](https://open.spotify.com/artist/4IQKOXNGjuRRe0WgOm5YfB) | [Banho de Folhas](https://open.spotify.com/album/0wLE1tEXT32qRgPidt3r5R) | 3:51 | 2024-10-04 | 2026-11-27 |
 | [Bota Pra Tocar Tim Maia](https://open.spotify.com/track/60a5kYlSisLg8291QSfsh4) | [Diogo Nogueira](https://open.spotify.com/artist/57xRtfFlssbpntpRQOBodd) | [Bota Pra Tocar Tim Maia](https://open.spotify.com/album/2EAtqaRZeyW3V4U5FNOWzs) | 3:42 | 2022-03-08 |  |
 | [Boteco do Arlindo](https://open.spotify.com/track/0zRnv0rsYvYNdt9as7kHmm) | [João Nogueira](https://open.spotify.com/artist/5gcpKqNGPhEtKW5G1ZUZPK) | [Focus \- O Essencial de João Nogueira](https://open.spotify.com/album/1V4HN6xdGBhu4u6wB2pNsI) | 2:48 | 2022-03-08 |  |
 | [Cabide](https://open.spotify.com/track/6Uhnj8W9qflWLavYUfHkPJ) | [Mart'nália](https://open.spotify.com/artist/4EUuQxMNowMUEs5gu4BzBX) | [Menino do Rio](https://open.spotify.com/album/48katkMd5Hkb14rUEgo0YO) | 2:33 | 2022-03-08 |  |
@@ -34,6 +34,7 @@
 | [Coração Leviano](https://open.spotify.com/track/3Pz0EPURuJlpuUCRzgb7hQ) | [Paulinho Da Viola](https://open.spotify.com/artist/0t2xdTxRXnffsmpMamH8Ls) | [Meus Momentos: Paulinho Da Viola](https://open.spotify.com/album/5DJ8Iu9nfpGykmggpCLsYu) | 2:52 | 2022-03-08 | 2023-01-26 |
 | [Deixa A Vida Me Levar \- Ao Vivo](https://open.spotify.com/track/3ADuEIn09NAZIBgpYY3IsE) | [Zeca Pagodinho](https://open.spotify.com/artist/3qZ2n5keOAat1SoF6bHwmb) | [Zeca Pagodinho \- Uma Prova De Amor Ao Vivo \(Deluxe\)](https://open.spotify.com/album/4rDMla3wFYoWfhcoUQ5XuC) | 3:14 | 2022-03-08 |  |
 | [Dependente Do Amor](https://open.spotify.com/track/0ONoYJqSkvUFp2wmNvH2kW) | [Zeca Pagodinho](https://open.spotify.com/artist/3qZ2n5keOAat1SoF6bHwmb), [Xande de Pilares](https://open.spotify.com/artist/4IQKOXNGjuRRe0WgOm5YfB) | [Mais Feliz](https://open.spotify.com/album/4fN80AnER7ua5DH8U1A7k9) | 3:44 | 2022-03-08 |  |
+| [Dor de Amor](https://open.spotify.com/track/7esoySsDmKzBNGCzNc6IAT) | [Karinah](https://open.spotify.com/artist/2fmAUYDODPfZav0wlyGnNb) | [As Damas do Samba](https://open.spotify.com/album/0mAqkQQ1enu6caxAqHtPit) | 3:30 | 2026-11-27 |  |
 | [Estácio Eu e Você \- Ao Vivo](https://open.spotify.com/track/77aWqhX9yVfwj2P50AnvKi) | [Luiz Melodia](https://open.spotify.com/artist/1zZjt7cDeeJSLWZYK34r7W) | [Luiz Melodia Especial MTV \(Ao Vivo\)](https://open.spotify.com/album/5yAarIXV8aFp0tMacqDH1h) | 3:05 | 2022-03-08 |  |
 | [Eu e Você Sempre \- Ao Vivo](https://open.spotify.com/track/2XXa3wavj9vwz353ezqLUx) | [Jorge Aragão](https://open.spotify.com/artist/2cAooeeHKk2UvzUgIxpS0y) | [Jorge 70: Ao Vivo em São Paulo, Pt\. 1](https://open.spotify.com/album/2E1JGC6suXlgoQQqGYgqQ8) | 4:11 | 2022-03-08 |  |
 | [Eu Vou Chegando](https://open.spotify.com/track/0MlLbRZYmBLd2sWKECh6zA) | [Riachão](https://open.spotify.com/artist/4DehzNT3tR37NB0Nz1iHBD) | [Mundão de Ouro](https://open.spotify.com/album/3fShPfDTdSqu0pck5wlWfm) | 2:56 | 2022-03-08 |  |

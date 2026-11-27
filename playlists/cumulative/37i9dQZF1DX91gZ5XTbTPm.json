@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-01-13",
-  "description": "The Midwest is always on time. Cover: Babyface Ray\n",
+  "description": "The Midwest is always on time. Cover: Ye\n",
   "name": "CST",
   "tracks": [
     {
@@ -1729,6 +1729,24 @@
     },
     {
       "album": {
+        "name": "AKs",
+        "url": "https://open.spotify.com/album/10EhcATpZADXl20HPlGANV"
+      },
+      "artists": [
+        {
+          "name": "Tee Grizzley",
+          "url": "https://open.spotify.com/artist/6AUl0ykLLpvTktob97x9hO"
+        }
+      ],
+      "date_added": "2026-11-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 244701,
+      "name": "AKs",
+      "url": "https://open.spotify.com/track/5RWzL5dYMN9lmO9MQ4jnIG"
+    },
+    {
+      "album": {
         "name": "AKUNA",
         "url": "https://open.spotify.com/album/4wr8ni8dr2e94Ae6tCbFHR"
       },
@@ -2150,6 +2168,28 @@
       "duration_ms": 158392,
       "name": "Anotha One",
       "url": "https://open.spotify.com/track/5NZtLC1p5RPFUPGmPq96zl"
+    },
+    {
+      "album": {
+        "name": "LOST TAPES 6",
+        "url": "https://open.spotify.com/album/4NAVrnz0aZPU1dtSsQkkOD"
+      },
+      "artists": [
+        {
+          "name": "Sada Baby",
+          "url": "https://open.spotify.com/artist/2JSwnwAT1BupAQkhqcRCUw"
+        },
+        {
+          "name": "FMB DZ",
+          "url": "https://open.spotify.com/artist/1h6ob3DaPqHakcGmqbzLWa"
+        }
+      ],
+      "date_added": "2026-11-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 143452,
+      "name": "APE DRIP",
+      "url": "https://open.spotify.com/track/6kYkTLX58ipy2RDQvSRKQi"
     },
     {
       "album": {
@@ -4697,6 +4737,56 @@
     },
     {
       "album": {
+        "name": "BRADY BUNCH (feat. Buddyy, Teejayx6, Scatz, Puablo15 & Mg Sleepy)",
+        "url": "https://open.spotify.com/album/49yfSN10BOCwiy7wtjREpT"
+      },
+      "artists": [
+        {
+          "name": "BabyTron",
+          "url": "https://open.spotify.com/artist/0sKsReKseslDlhxmbN6wLk"
+        },
+        {
+          "name": "Ralfy the Plug",
+          "url": "https://open.spotify.com/artist/1yI0tX9OnfOx9siPj8KNOO"
+        },
+        {
+          "name": "Certified Trapper",
+          "url": "https://open.spotify.com/artist/7gABnNCiNJBaT8KkaHGK13"
+        },
+        {
+          "name": "BLP KOSHER",
+          "url": "https://open.spotify.com/artist/6w60ExNMjs0gd4ioh7GMRI"
+        },
+        {
+          "name": "Buddyy",
+          "url": "https://open.spotify.com/artist/0K8HkQGJc97iVMsaM6GIpI"
+        },
+        {
+          "name": "Teejayx6",
+          "url": "https://open.spotify.com/artist/5jGqKmL1iBtlEb3LZovw8Y"
+        },
+        {
+          "name": "Scatz",
+          "url": "https://open.spotify.com/artist/4nBb9lk9Psv6m7NtEJnf7b"
+        },
+        {
+          "name": "Puablo15",
+          "url": "https://open.spotify.com/artist/6aYmW6H9JysEbwMavsgODM"
+        },
+        {
+          "name": "Mg Sleepy",
+          "url": "https://open.spotify.com/artist/4Lf9xLId6Ho8TdXSmhllxW"
+        }
+      ],
+      "date_added": "2026-11-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 325728,
+      "name": "BRADY BUNCH (feat. Buddyy, Teejayx6, Scatz, Puablo15 & Mg Sleepy)",
+      "url": "https://open.spotify.com/track/0eDQR2YtHZY7We17FXt0YW"
+    },
+    {
+      "album": {
         "name": "We Eat The Most (Reloaded)",
         "url": "https://open.spotify.com/album/1MaaGLGGQIGmx5vvkBd94N"
       },
@@ -5114,7 +5204,7 @@
       ],
       "date_added": "2026-11-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-27",
       "duration_ms": 107976,
       "name": "Button Over Fully",
       "url": "https://open.spotify.com/track/24yUcdXmKZ0oTYgn89lSsw"
@@ -8186,7 +8276,7 @@
       ],
       "date_added": "2026-07-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-27",
       "duration_ms": 111959,
       "name": "Drake & Josh",
       "url": "https://open.spotify.com/track/63qrB98Xx1cbHku3ZFq64Y"
@@ -9526,7 +9616,7 @@
       ],
       "date_added": "2026-04-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-27",
       "duration_ms": 251560,
       "name": "FIGHT BACK",
       "url": "https://open.spotify.com/track/4EupdwMHQTlZCyNyclV2X4"
@@ -15264,7 +15354,7 @@
       ],
       "date_added": "2026-11-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-27",
       "duration_ms": 148438,
       "name": "IKYFL (from GTAVI: The Album)",
       "url": "https://open.spotify.com/track/0su0OAiFQvsbw18Fy4ruoF"
@@ -16406,6 +16496,24 @@
       "duration_ms": 200228,
       "name": "Kamehameha",
       "url": "https://open.spotify.com/track/62kJ1EPq1tLUNWtuWJ0Wqw"
+    },
+    {
+      "album": {
+        "name": "B4 Robert (archive tape)",
+        "url": "https://open.spotify.com/album/6PQgcZhQX7xitgfOqfS6BO"
+      },
+      "artists": [
+        {
+          "name": "Raq baby",
+          "url": "https://open.spotify.com/artist/2MEiPjmRDl1ftTEaBD3B7D"
+        }
+      ],
+      "date_added": "2026-11-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 148557,
+      "name": "Kani Gitter",
+      "url": "https://open.spotify.com/track/050iDkVk0BUbCIyKCydJzj"
     },
     {
       "album": {
@@ -21340,7 +21448,7 @@
       ],
       "date_added": "2026-06-26",
       "date_added_asterisk": false,
-      "date_removed": "2026-11-20",
+      "date_removed": null,
       "duration_ms": 156000,
       "name": "Not Yours",
       "url": "https://open.spotify.com/track/1Wlxvl98MLBcyXsVF6VDnt"
@@ -21802,7 +21910,7 @@
       ],
       "date_added": "2026-11-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-27",
       "duration_ms": 151104,
       "name": "OMG",
       "url": "https://open.spotify.com/track/42T2BaO6UXxvyT2FDPkXIt"
@@ -22284,6 +22392,28 @@
       "duration_ms": 212266,
       "name": "OUT OF MY BODY",
       "url": "https://open.spotify.com/track/2rplRMLE3Ig1qtSb06LyOM"
+    },
+    {
+      "album": {
+        "name": "OUT OF MY MIND",
+        "url": "https://open.spotify.com/album/2AGYicRLaEgTE3eoe8CztA"
+      },
+      "artists": [
+        {
+          "name": "Kanye West",
+          "url": "https://open.spotify.com/artist/5K4W6rqBFWDnAN6FQUkS6x"
+        },
+        {
+          "name": "Ye",
+          "url": "https://open.spotify.com/artist/3NlsBPwqJuDgtXZ2rv5Dmq"
+        }
+      ],
+      "date_added": "2026-11-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 106957,
+      "name": "OUT OF MY MIND",
+      "url": "https://open.spotify.com/track/4MXFcXnEb4JzG6h4vpiUWB"
     },
     {
       "album": {
@@ -24472,7 +24602,7 @@
       ],
       "date_added": "2026-11-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-27",
       "duration_ms": 143529,
       "name": "Rake it Up",
       "url": "https://open.spotify.com/track/3nod116Jtu1oHF1pPCjx6v"

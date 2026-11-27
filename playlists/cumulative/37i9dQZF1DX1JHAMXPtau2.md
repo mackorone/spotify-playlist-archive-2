@@ -4,7 +4,7 @@
 
 > Soft and cozy piano versions of all your favourite Christmas songs.
 
-59 songs - 2 hr 40 min
+60 songs - 2 hr 42 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -36,6 +36,7 @@
 | [I Still Believe in Santa Clause](https://open.spotify.com/track/23SGz7Wz2c5A9830LLUCdH) | [Manfred Flynn](https://open.spotify.com/artist/1zGhQhooGB9J162ncgrR68) | [Merry Jazzmas!](https://open.spotify.com/album/3VycMqU4q8PbpBMVUiGV4i) | 2:50 | 2023-11-17 | 2026-05-20 |
 | [It Came Upon The Midnight Clear](https://open.spotify.com/track/7tmMuhg6bvWSyLdEBWlWTb) | [Christian Glass](https://open.spotify.com/artist/2UHwvIXHdMtcmboouSQJ7k) | [It Came Upon The Midnight Clear](https://open.spotify.com/album/0od5E7hLRGWB1Qd2KIFYN1) | 2:26 | 2023-11-17 |  |
 | [Jingle Bells \- Piano](https://open.spotify.com/track/3o5MXSiuutkoTVsL64CH7K) | [Merry Pines](https://open.spotify.com/artist/5R2MLk0AVIoRCxZ6JvamzW) | [Jazzy Piano for the Holidays](https://open.spotify.com/album/271p0NGxaSmWAaTZzi8lWJ) | 2:39 | 2023-11-17 |  |
+| [Joy to the World](https://open.spotify.com/track/3F4n21MehEfAWPh2fyVzj6) | [Jerome Louis](https://open.spotify.com/artist/0PZxdzq1JhF2EQDjtvO5uJ) | [When December Comes](https://open.spotify.com/album/56RI3SqRXv1BTHnFQYQikt) | 2:08 | 2026-11-27 |  |
 | [Joy To The World](https://open.spotify.com/track/1HPF2x2SgdWwrGVgPh16ki) | [The Christmas Brothers](https://open.spotify.com/artist/4hq9JfKZqh3qDuAvRZK81e) | [Joy to the World](https://open.spotify.com/album/1kezJtycElHPKwIsI6x1ur) | 1:44 | 2023-11-17 |  |
 | [Let it Snow](https://open.spotify.com/track/7fdouZD8z3H05NzuqHNKvz) | [Jeroen Granneman](https://open.spotify.com/artist/1R0UpoenE1gqapaTNm9d0f) | [This Time of Year](https://open.spotify.com/album/0UPpgjXaveyo92FO0zdIIL) | 1:48 | 2026-11-06 |  |
 | [Light of the World](https://open.spotify.com/track/5HmHdOfFEGyrFihRHtx8jv) | [Faye Mosley](https://open.spotify.com/artist/50JVQBWkJTwvTOAvhgcBhv) | [Light of the World](https://open.spotify.com/album/2yNYgL3DzPYgnChLSAS5h7) | 1:45 | 2023-11-17 |  |

@@ -4,7 +4,7 @@
 
 > The best of electronic trap 🩷 with ISOxo
 
-997 songs - 2 day 3 hr 44 min
+998 songs - 2 day 3 hr 49 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -209,6 +209,7 @@
 | [Disaster](https://open.spotify.com/track/65Ga5ZT9oE2zZVC1nCHxW7) | [NEOTEK](https://open.spotify.com/artist/44btqMHopGiWCGHMtFw3mv), [Bella Renee](https://open.spotify.com/artist/7od8NRvfdfAanx6IcY7JSa) | [Disaster](https://open.spotify.com/album/1Ky5TyJ72ScYyLhWgyKH8f) | 2:51 | 2025-10-03 |  |
 | [Dispersion](https://open.spotify.com/track/2UTol6JAtH0yIHAV8mLo5C) | [dêtre](https://open.spotify.com/artist/22H63n9LhxdWcljuWiNNGT) | [Dispersion](https://open.spotify.com/album/45KCP0PM3xJRzAD58mlP7B) | 3:05 | 2025-06-27 | 2025-08-16 |
 | [Dissonance](https://open.spotify.com/track/11c0skcVRXliRFtjAPUjGV) | [Leat'eq](https://open.spotify.com/artist/1iBxtU5394iPOzmot1FDUD) | [Obsidian Dreams](https://open.spotify.com/album/0CYGjt66v4PIb2MMQiQMrz) | 2:37 | 2025-03-14 | 2025-04-05 |
+| [Dive](https://open.spotify.com/track/5LEULg7IDdUX8gSvtbJ2Dv) | [rejection](https://open.spotify.com/artist/0S23vj2YyvxsVlhqqSohrk), [WE DIE YOUNG](https://open.spotify.com/artist/2AOcY7Okw1zDwZYUeIxW2V) | [WE DIE YOUNG vol.9](https://open.spotify.com/album/6f3gUnefDGoNxTIM4LhIb5) | 5:02 | 2026-11-27 |  |
 | [DIY \- Old Skool Mix](https://open.spotify.com/track/4O20esaZKdbmWpGmPKm8Yj) | [Coki](https://open.spotify.com/artist/4WvwRJA3YhUn5J2caHXoAG), [Leotrix](https://open.spotify.com/artist/3mVL1qynaYs31rgyDTytkS), [Flowdan](https://open.spotify.com/artist/07CimrZi5vs9iEao47TNQ4) | [DIY](https://open.spotify.com/album/7CURbqdBFzwEBVN6Hk8h6F) | 3:09 | 2023-12-01 | 2024-01-20 |
 | [DNA \(Loving You\) \[feat\. Hannah Boleyn\] \[Levity Remix\]](https://open.spotify.com/track/2rAB0mDHnaOnfvFmaWUx0j) | [Billy Gillies](https://open.spotify.com/artist/0kmovylAP20DMJhS3BE2CO), [Levity](https://open.spotify.com/artist/1PbO7aQiVeKbGp8GYWDL9C), [Hannah Boleyn](https://open.spotify.com/artist/6EP96GaItADv1rNqR2oGIR) | [DNA \(Loving You\) \[feat\. Hannah Boleyn\] \[Levity Remix\]](https://open.spotify.com/album/4dKYCpl0dDy01Lw2msVJBU) | 2:56 | 2023-12-08 | 2025-08-23 |
 | [DO AS I SAY](https://open.spotify.com/track/56NCLe3cAx4QCtHDhl6WD8) | [Nikita, the Wicked](https://open.spotify.com/artist/0Kc65Qv0ju9H2cMNnP3Tqd) | [DO AS I SAY](https://open.spotify.com/album/0ldvzzs4B1TDj8kUPv5HLb) | 3:19 | 2026-05-15 | 2026-08-22 |
@@ -249,7 +250,7 @@
 | [Eden](https://open.spotify.com/track/44aRKPTVWjWtxCeGaXYKSF) | [Juelz](https://open.spotify.com/artist/04p1jV00pBnrmh2rKl0jnT), [fussy](https://open.spotify.com/artist/789btpHpNQjZGwJIplXJuk) | [Eden](https://open.spotify.com/album/4cVCweGWAjAiQXk8ploVGQ) | 2:56 | 2022-06-24 | 2023-02-15 |
 | [Eden \(feat\. fussy\)](https://open.spotify.com/track/0dCtaEXGzrVxlqteDis4vP) | [Juelz](https://open.spotify.com/artist/04p1jV00pBnrmh2rKl0jnT), [fussy](https://open.spotify.com/artist/789btpHpNQjZGwJIplXJuk) | [Eden \(feat\. fussy\)](https://open.spotify.com/album/5PFB53TFWypfqXhOjXi6Lj) | 2:56 | 2022-12-02 | 2024-04-19 |
 | [EGO! \(TAKE IT BACK\)](https://open.spotify.com/track/0f2BL1gqLqHg3SGkBf7VoY) | [Juelz](https://open.spotify.com/artist/04p1jV00pBnrmh2rKl0jnT) | [EGO! \(TAKE IT BACK\)](https://open.spotify.com/album/4pN2JLXN7tfiirnp2Ifl3X) | 3:29 | 2024-11-05 |  |
-| [EGOTRIP](https://open.spotify.com/track/1mftC5sqZIwvwzfFWdjgCg) | [Eliminate](https://open.spotify.com/artist/6hBrJJrcYoNhvLC6KaFR4b) | [Get Off The Internet](https://open.spotify.com/album/79Vap7cvRfZIf5qV87LbKV) | 2:24 | 2024-03-22 |  |
+| [EGOTRIP](https://open.spotify.com/track/1mftC5sqZIwvwzfFWdjgCg) | [Eliminate](https://open.spotify.com/artist/6hBrJJrcYoNhvLC6KaFR4b) | [Get Off The Internet](https://open.spotify.com/album/79Vap7cvRfZIf5qV87LbKV) | 2:24 | 2024-03-22 | 2026-11-27 |
 | [Element](https://open.spotify.com/track/7sUcDPS4aKs3L171pM2iTP) | [Godlands](https://open.spotify.com/artist/2BW6zD5lzOxdEFWrgsHMq8), [Lizdek](https://open.spotify.com/artist/65Kq02oh0g3gRqfZ0fo8eG) | [Element](https://open.spotify.com/album/0IdRdaNv8lVXVI5ybDRKyx) | 2:00 | 2024-06-07 | 2025-02-01 |
 | [Emerald](https://open.spotify.com/track/2eAzJdGWnNPSSGFDHEBh7B) | [ero808](https://open.spotify.com/artist/6x9CKUBQ96VjXxKgGE5hIw), [rSUN](https://open.spotify.com/artist/6Xeaz1BUIz3AHiT87zNAIo), [Deliriousninja](https://open.spotify.com/artist/4V7oY0avOn1pHnLnm4DODk) | [Emerald](https://open.spotify.com/album/3jwJuAOzD9swvO3Kuh9zq7) | 2:57 | 2023-03-17 | 2024-08-20 |
 | [EMPURRA](https://open.spotify.com/track/4VKMrWdhJvNWcCZ8u8hT6R) | [Dabow](https://open.spotify.com/artist/6GQx1heM2wyI3iHpAC5P8X), [bauti](https://open.spotify.com/artist/5WM06QK9Vtq1p9aRSczRdf) | [EMPURRA](https://open.spotify.com/album/4oVQrBehJVUmwlWNilM22e) | 2:12 | 2026-03-06 | 2026-06-13 |

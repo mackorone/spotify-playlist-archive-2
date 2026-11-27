@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO4dhOKA.md) - [plain]
 
 > This is Lalo Mora\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 71,646 likes - 50 songs - 2 hr 35 min
+[Spotify](https://open.spotify.com/user/spotify) - 71,658 likes - 50 songs - 2 hr 35 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -53,10 +53,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO4dhOKA.md) - [plain]
 | 43 | [Corrido De Los Pérez](https://open.spotify.com/track/2uIFOZHlMfbFNVh00f2LB3) | [Lalo Mora](https://open.spotify.com/artist/77Gf2HJPvVREGVNEV8goPZ) | [Corridos De Jefes](https://open.spotify.com/album/661ltDGlqi9spo8kJRNRNV) | 3:41 |
 | 44 | [Ojitos a Mi Gusto](https://open.spotify.com/track/3taGhh1KtPfIGTU5QjdfTc) | [Lalo Mora](https://open.spotify.com/artist/77Gf2HJPvVREGVNEV8goPZ) | [El Rey de Mil Coronas](https://open.spotify.com/album/4qKx9OnjDjkJbGO1XyuqLM) | 2:40 |
 | 45 | [Sabor De Engaño \- En Vivo](https://open.spotify.com/track/61YdCCMDNcg4EE0nY8Pf0K) | [PALOMAZO NORTEÑO](https://open.spotify.com/artist/3Ok9uA7y10FoqTp6hC1ZkC), [Rosendo Cantú](https://open.spotify.com/artist/1dtN7ORy44Zy1ku9rJBgJi), [Lalo Mora](https://open.spotify.com/artist/77Gf2HJPvVREGVNEV8goPZ) | [La Borrachera Perfecta \(En Vivo\)](https://open.spotify.com/album/3YkEYl9P5EPCzdur3lpMf5) | 2:50 |
-| 46 | [Corazón de Oro \- En Vivo](https://open.spotify.com/track/6LWbqItYhTpwKXC64sn67L) | [Carín León](https://open.spotify.com/artist/66ihevNkSYNzRAl44dx6jJ), [PALOMAZO NORTEÑO](https://open.spotify.com/artist/3Ok9uA7y10FoqTp6hC1ZkC), [Lalo Mora](https://open.spotify.com/artist/77Gf2HJPvVREGVNEV8goPZ), [Eliseo Robles](https://open.spotify.com/artist/7mK1F4c2VQnHzuoH4wUX2y) | [Chapayeka \(Puro Chucky\) \(En Vivo\)](https://open.spotify.com/album/3yOll80cJzqzR0X6xnbX3h) | 3:25 |
-| 47 | [Que Dios Me Perdone](https://open.spotify.com/track/2dDH9Rb3uDPj15Zs68O8Q8) | [Lalo Mora](https://open.spotify.com/artist/77Gf2HJPvVREGVNEV8goPZ) | [Las Más Pegadas](https://open.spotify.com/album/4K8ULhFPmm29xp2FHc6igc) | 2:48 |
+| 46 | [Que Dios Me Perdone](https://open.spotify.com/track/2dDH9Rb3uDPj15Zs68O8Q8) | [Lalo Mora](https://open.spotify.com/artist/77Gf2HJPvVREGVNEV8goPZ) | [Las Más Pegadas](https://open.spotify.com/album/4K8ULhFPmm29xp2FHc6igc) | 2:48 |
+| 47 | [Corazón de Oro \- En Vivo](https://open.spotify.com/track/6LWbqItYhTpwKXC64sn67L) | [Carín León](https://open.spotify.com/artist/66ihevNkSYNzRAl44dx6jJ), [PALOMAZO NORTEÑO](https://open.spotify.com/artist/3Ok9uA7y10FoqTp6hC1ZkC), [Lalo Mora](https://open.spotify.com/artist/77Gf2HJPvVREGVNEV8goPZ), [Eliseo Robles](https://open.spotify.com/artist/7mK1F4c2VQnHzuoH4wUX2y) | [Chapayeka \(Puro Chucky\) \(En Vivo\)](https://open.spotify.com/album/3yOll80cJzqzR0X6xnbX3h) | 3:25 |
 | 48 | [Los Sauces Llorones](https://open.spotify.com/track/4usEulEiuTXderzs33oblT) | [Lalo Mora](https://open.spotify.com/artist/77Gf2HJPvVREGVNEV8goPZ) | [El Rey de Mil Coronas](https://open.spotify.com/album/4qKx9OnjDjkJbGO1XyuqLM) | 3:19 |
 | 49 | [Me Regalo Contigo](https://open.spotify.com/track/7pdWEE81ttyaExmwjKEwgt) | [Lalo Mora](https://open.spotify.com/artist/77Gf2HJPvVREGVNEV8goPZ) | [La Casita De Adobe](https://open.spotify.com/album/6wU7pHjRDZGa4sRVawB1aZ) | 3:07 |
 | 50 | [Gorrión Errante \- Con Banda](https://open.spotify.com/track/6GaRuhFZAT492Bmmsf6Mwb) | [Lalo Mora](https://open.spotify.com/artist/77Gf2HJPvVREGVNEV8goPZ) | [45 Éxitos \(Versiones Originales\)](https://open.spotify.com/album/3hgPZ6SJi38giU4wlYi9nN) | 2:54 |
 
-Snapshot ID: `awOCAAAAAABgoPidYzH2ZKR2lpZCX+6Q`
+Snapshot ID: `awYlAAAAAABrVYIPo994joFVEis4n2PL`

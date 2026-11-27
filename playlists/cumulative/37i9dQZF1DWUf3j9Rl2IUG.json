@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-12-01",
-  "description": "Afrobeats' hottest singles. Cover: Adekunle Gold & Blaqbonez",
+  "description": "Afrobeats' hottest singles. Cover: NO11",
   "name": "Gbedu",
   "tracks": [
     {
@@ -2026,6 +2026,32 @@
       "duration_ms": 154173,
       "name": "Best Of Both Worlds",
       "url": "https://open.spotify.com/track/3lqUUejq3ESNMEEW1wnicR"
+    },
+    {
+      "album": {
+        "name": "Better Than Ever",
+        "url": "https://open.spotify.com/album/0rxApZNEt17klwrRynMhGf"
+      },
+      "artists": [
+        {
+          "name": "NO11",
+          "url": "https://open.spotify.com/artist/1bu3a0AAJbZazQJV0tbywD"
+        },
+        {
+          "name": "Pa Salieu",
+          "url": "https://open.spotify.com/artist/290nCNEce1y6rfoJiO2rK7"
+        },
+        {
+          "name": "SPINALL",
+          "url": "https://open.spotify.com/artist/2NtQA3PY9chI8l65ejZLTP"
+        }
+      ],
+      "date_added": "2026-11-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 142439,
+      "name": "Better Than Ever",
+      "url": "https://open.spotify.com/track/6Hajw1GZYeKFwGuXU9nSUZ"
     },
     {
       "album": {
@@ -4226,7 +4252,7 @@
       ],
       "date_added": "2026-11-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-27",
       "duration_ms": 200816,
       "name": "DRTY",
       "url": "https://open.spotify.com/track/4v908d71nMHw4sRRx5YTZQ"
@@ -9560,7 +9586,7 @@
       ],
       "date_added": "2026-11-20",
       "date_added_asterisk": false,
-      "date_removed": "2026-11-21",
+      "date_removed": null,
       "duration_ms": 151909,
       "name": "Money In A Wheelbarrow",
       "url": "https://open.spotify.com/track/65K31Yui1Sfn4pSub3uKJP"
@@ -9781,6 +9807,24 @@
     },
     {
       "album": {
+        "name": "Mushin",
+        "url": "https://open.spotify.com/album/2MmJKeXHgsKezTFNMp8a43"
+      },
+      "artists": [
+        {
+          "name": "Terry Apala",
+          "url": "https://open.spotify.com/artist/0lHE0lpGvHJWcbieicn5wM"
+        }
+      ],
+      "date_added": "2026-11-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 230315,
+      "name": "Mushin",
+      "url": "https://open.spotify.com/track/0iZLftbCJZfG7pFbmBurdW"
+    },
+    {
+      "album": {
         "name": "Mwah!",
         "url": "https://open.spotify.com/album/2nACbWmfy1aPjwFXexphvQ"
       },
@@ -9970,7 +10014,7 @@
       ],
       "date_added": "2026-11-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-27",
       "duration_ms": 202758,
       "name": "Na Money",
       "url": "https://open.spotify.com/track/1MEhHrisdcK9xuTuxvYdzh"
@@ -13200,7 +13244,7 @@
       ],
       "date_added": "2026-11-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-27",
       "duration_ms": 171428,
       "name": "SUGA",
       "url": "https://open.spotify.com/track/3XC9zpwHs7osQe7kJjpFps"
@@ -13310,6 +13354,28 @@
       "duration_ms": 124864,
       "name": "Taliban",
       "url": "https://open.spotify.com/track/0tD7qefvHLOLc9Em9tcohZ"
+    },
+    {
+      "album": {
+        "name": "E-Mortal Boy",
+        "url": "https://open.spotify.com/album/4r6kHpL8Ql8O6FvfvdjVwg"
+      },
+      "artists": [
+        {
+          "name": "Rema",
+          "url": "https://open.spotify.com/artist/46pWGuE3dSwY3bMMXGBvVS"
+        },
+        {
+          "name": "BNYX\u00ae",
+          "url": "https://open.spotify.com/artist/6os1temnovzJIEGRUmn3fG"
+        }
+      ],
+      "date_added": "2026-11-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 171408,
+      "name": "TANZANIA",
+      "url": "https://open.spotify.com/track/2iz77djY2EC2swPRvRbFco"
     },
     {
       "album": {
@@ -14086,7 +14152,7 @@
       ],
       "date_added": "2026-11-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-27",
       "duration_ms": 167057,
       "name": "Velvet",
       "url": "https://open.spotify.com/track/46eFAhTemPWwNG0Z8yIsKl"

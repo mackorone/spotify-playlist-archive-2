@@ -2,24 +2,24 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9ww9tisjowN.md) - [plain]
 
 ### [Gacha Pop](https://open.spotify.com/playlist/37i9dQZF1DX9ww9tisjowN)
 
-> What pops out!? Roll the gacha and find your Neo J\-Pop treasure\. cover: LiSA
+> What pops out!? Roll the gacha and find your Neo J\-Pop treasure\. cover: YOASOBI
 
-[Spotify](https://open.spotify.com/user/spotify) - 564,473 likes - 75 songs - 4 hr 14 min
+[Spotify](https://open.spotify.com/user/spotify) - 564,510 likes - 75 songs - 4 hr 15 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
-| 1 | [YES](https://open.spotify.com/track/2b8adGbmp6swKDTeySw1eU) | [LiSA](https://open.spotify.com/artist/0blbVefuxOGltDBa00dspv) | [YES](https://open.spotify.com/album/2MfHhRewq0NNudlThYeOw8) | 5:01 |
-| 2 | [KILLA](https://open.spotify.com/track/62QKQ1q60ia1JdRq3z5QLe) | [YOASOBI](https://open.spotify.com/artist/64tJ2EAv1R6UaZqc4iOCyj) | [KILLA](https://open.spotify.com/album/67kLj3jphSXfZpTkPL5UsN) | 3:04 |
-| 3 | [君と生きて君と死にたい！](https://open.spotify.com/track/76m7HVNSn9boYZqzfdMuXq) | [Tatsuya Kitani](https://open.spotify.com/artist/7mvhRvEAHiCTQHUnH7fgnv) | [PURE](https://open.spotify.com/album/5R0dCdjb1aDADy623EOLpg) | 3:29 |
-| 4 | [シンカ](https://open.spotify.com/track/12UmOQlYTGVkKz8QqRmr5s) | [Ado](https://open.spotify.com/artist/6mEQK9m2krja6X1cfsAjfl) | [シンカ](https://open.spotify.com/album/1Lbz370TR61xZSisbc7i9S) | 3:19 |
-| 5 | [踊り子](https://open.spotify.com/track/1YXot2MLAG9sttepCtBRM7) | [Vaundy](https://open.spotify.com/artist/2IUl3m1H1EQ7QfNbNWvgru) | [replica](https://open.spotify.com/album/4LWbfv8uvEF3oz7YBFxmzn) | 3:49 |
-| 6 | [SPIN](https://open.spotify.com/track/7Kn5NdVjzS9WUPub1rlwuT) | [Kroi](https://open.spotify.com/artist/4S8J8Nct8lHsbzAeNJXcJa) | [SPIN](https://open.spotify.com/album/4Zgc3KeKNzc25VloCHuKBK) | 5:05 |
-| 7 | [mosi mosi?](https://open.spotify.com/track/76oCvJj6LRoed2754GybpH) | [楽音](https://open.spotify.com/artist/4W11pDowC8EO7a6cR5WO9L) | [mosi mosi?](https://open.spotify.com/album/7f1NEFlfunI7TMwrE886W5) | 2:43 |
-| 8 | [Sunset Kiss \(feat\. Polyphia\)](https://open.spotify.com/track/5MYlEdN2pfbl0S1qCToSvQ) | [BABYMETAL](https://open.spotify.com/artist/630wzNP2OL7fl4Xl0GnMWq), [Polyphia](https://open.spotify.com/artist/4vGrte8FDu062Ntj0RsPiZ) | [METAL FORTH](https://open.spotify.com/album/7JAioi7aQOS0VenAg3xfrp) | 3:33 |
-| 9 | [僕らの事にさせて \(Prod\. Vaundy\)](https://open.spotify.com/track/73PjaJWkRvlTqGekbZ3rjZ) | [Jeremy Quartus](https://open.spotify.com/artist/3RsPoeUFdT5nPJi59X63iy), [Vaundy](https://open.spotify.com/artist/2IUl3m1H1EQ7QfNbNWvgru) | [僕らの事にさせて \(Prod\. Vaundy\)](https://open.spotify.com/album/1Mjrfn6qqRAAJM6OTjxnaz) | 5:17 |
-| 10 | [Raven Sky](https://open.spotify.com/track/1D2G2i1mtiTWYmkwqZX2jt) | [Ado](https://open.spotify.com/artist/6mEQK9m2krja6X1cfsAjfl) | [Raven Sky](https://open.spotify.com/album/6YDBrEr2LJoNsKQD3Le4eR) | 4:12 |
-| 11 | [AIYOU](https://open.spotify.com/track/0jjygW2mhgfVT8OOgEyp7U) | [Eve](https://open.spotify.com/artist/58oPVy7oihAEXE0Ott6JOf) | [AIYOU](https://open.spotify.com/album/2XhSVmF3l0I59LYAn9J6Ph) | 2:39 |
-| 12 | [青春病](https://open.spotify.com/track/4EwKtJQT2ZHKzECGH3EjLx) | [Fujii Kaze](https://open.spotify.com/artist/6bDWAcdtVR3WHz2xtiIPUi) | [青春病](https://open.spotify.com/album/4L6znWirdFX9BDIsaSi9Fb) | 5:21 |
+| 1 | [KILLA](https://open.spotify.com/track/62QKQ1q60ia1JdRq3z5QLe) | [YOASOBI](https://open.spotify.com/artist/64tJ2EAv1R6UaZqc4iOCyj) | [KILLA](https://open.spotify.com/album/67kLj3jphSXfZpTkPL5UsN) | 3:04 |
+| 2 | [君と生きて君と死にたい！](https://open.spotify.com/track/76m7HVNSn9boYZqzfdMuXq) | [Tatsuya Kitani](https://open.spotify.com/artist/7mvhRvEAHiCTQHUnH7fgnv) | [PURE](https://open.spotify.com/album/5R0dCdjb1aDADy623EOLpg) | 3:29 |
+| 3 | [シンカ](https://open.spotify.com/track/12UmOQlYTGVkKz8QqRmr5s) | [Ado](https://open.spotify.com/artist/6mEQK9m2krja6X1cfsAjfl) | [シンカ](https://open.spotify.com/album/1Lbz370TR61xZSisbc7i9S) | 3:19 |
+| 4 | [踊り子](https://open.spotify.com/track/1YXot2MLAG9sttepCtBRM7) | [Vaundy](https://open.spotify.com/artist/2IUl3m1H1EQ7QfNbNWvgru) | [replica](https://open.spotify.com/album/4LWbfv8uvEF3oz7YBFxmzn) | 3:49 |
+| 5 | [SPIN](https://open.spotify.com/track/7Kn5NdVjzS9WUPub1rlwuT) | [Kroi](https://open.spotify.com/artist/4S8J8Nct8lHsbzAeNJXcJa) | [SPIN](https://open.spotify.com/album/4Zgc3KeKNzc25VloCHuKBK) | 5:05 |
+| 6 | [mosi mosi?](https://open.spotify.com/track/76oCvJj6LRoed2754GybpH) | [楽音](https://open.spotify.com/artist/4W11pDowC8EO7a6cR5WO9L) | [mosi mosi?](https://open.spotify.com/album/7f1NEFlfunI7TMwrE886W5) | 2:43 |
+| 7 | [Sunset Kiss \(feat\. Polyphia\)](https://open.spotify.com/track/5MYlEdN2pfbl0S1qCToSvQ) | [BABYMETAL](https://open.spotify.com/artist/630wzNP2OL7fl4Xl0GnMWq), [Polyphia](https://open.spotify.com/artist/4vGrte8FDu062Ntj0RsPiZ) | [METAL FORTH](https://open.spotify.com/album/7JAioi7aQOS0VenAg3xfrp) | 3:33 |
+| 8 | [僕らの事にさせて \(Prod\. Vaundy\)](https://open.spotify.com/track/73PjaJWkRvlTqGekbZ3rjZ) | [Jeremy Quartus](https://open.spotify.com/artist/3RsPoeUFdT5nPJi59X63iy), [Vaundy](https://open.spotify.com/artist/2IUl3m1H1EQ7QfNbNWvgru) | [僕らの事にさせて \(Prod\. Vaundy\)](https://open.spotify.com/album/1Mjrfn6qqRAAJM6OTjxnaz) | 5:17 |
+| 9 | [Raven Sky](https://open.spotify.com/track/1D2G2i1mtiTWYmkwqZX2jt) | [Ado](https://open.spotify.com/artist/6mEQK9m2krja6X1cfsAjfl) | [Raven Sky](https://open.spotify.com/album/6YDBrEr2LJoNsKQD3Le4eR) | 4:12 |
+| 10 | [AIYOU](https://open.spotify.com/track/0jjygW2mhgfVT8OOgEyp7U) | [Eve](https://open.spotify.com/artist/58oPVy7oihAEXE0Ott6JOf) | [AIYOU](https://open.spotify.com/album/2XhSVmF3l0I59LYAn9J6Ph) | 2:39 |
+| 11 | [青春病](https://open.spotify.com/track/4EwKtJQT2ZHKzECGH3EjLx) | [Fujii Kaze](https://open.spotify.com/artist/6bDWAcdtVR3WHz2xtiIPUi) | [青春病](https://open.spotify.com/album/4L6znWirdFX9BDIsaSi9Fb) | 5:21 |
+| 12 | [YES](https://open.spotify.com/track/2b8adGbmp6swKDTeySw1eU) | [LiSA](https://open.spotify.com/artist/0blbVefuxOGltDBa00dspv) | [YES](https://open.spotify.com/album/2MfHhRewq0NNudlThYeOw8) | 5:01 |
 | 13 | [エメラルド](https://open.spotify.com/track/6m93jhY37ewvEMkUu0rMh6) | [Tatsuya Kitani](https://open.spotify.com/artist/7mvhRvEAHiCTQHUnH7fgnv) | [エメラルド](https://open.spotify.com/album/4Aa7p5Ii6nCNESA0GRUGSX) | 3:57 |
 | 14 | [雲を抜け風下へ私だけ](https://open.spotify.com/track/19XtWJTyMKMfLYUec3FlHx) | [ヨルシカ](https://open.spotify.com/artist/4UK2Lzi6fBfUi9rpDt6cik) | [雲を抜け風下へ私だけ](https://open.spotify.com/album/0FyaMUsOnxYdEEHXMWBlm0) | 3:58 |
 | 15 | [DND](https://open.spotify.com/track/6A4ooWBIeYjfb4Xd2ygUo1) | [Ado](https://open.spotify.com/artist/6mEQK9m2krja6X1cfsAjfl), [KUROMI](https://open.spotify.com/artist/1nah1bp3mzMd4FhMUxhU4d) | [DND](https://open.spotify.com/album/0G0jXVhffbttASyJ6Ngxbz) | 3:05 |
@@ -76,12 +76,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9ww9tisjowN.md) - [plain]
 | 66 | [Rendezvous](https://open.spotify.com/track/6TkOzdpamfi29svzcGUjga) | [Mili](https://open.spotify.com/artist/0K05TDnN7xPwIHDOwD2YYs) | [Rendezvous](https://open.spotify.com/album/46yP7hfFOSSMdYhVZVE50b) | 3:28 |
 | 67 | [Pang Pang Pang](https://open.spotify.com/track/17upXStU80To2HOMpCdn8t) | [Kyary Pamyu Pamyu](https://open.spotify.com/artist/7Gh6fW49xfXLP8DTWaLVJP) | [Pang Pang Pang](https://open.spotify.com/album/0fQWahCafW4WWZo5q05VI3) | 2:45 |
 | 68 | [理由](https://open.spotify.com/track/5F9VvD2KbmlysTNwUptNL9) | [DUSTCELL](https://open.spotify.com/artist/6Rs4z6XgltEI01UlDlu98B) | [理由](https://open.spotify.com/album/7srTz4jxPQvkx3C1ynLzKI) | 3:52 |
-| 69 | [Pinot noir](https://open.spotify.com/track/2DXknNYBaZlCC7tDM0i23O) | [iVy](https://open.spotify.com/artist/70lDezP0StoGMa58IcLXCc) | [reason for being](https://open.spotify.com/album/0CQJPuVnW2ruQGgBCLvj2R) | 3:12 |
-| 70 | [メランコリー散歩](https://open.spotify.com/track/6HMYNNwqdtvBvtM6SzRH2a) | [kiyu](https://open.spotify.com/artist/3aEOW8dsrbkcL3iA3w1tXu) | [メランコリー散歩](https://open.spotify.com/album/0s0CPSG3POgBFYMNyEbECy) | 3:58 |
-| 71 | [pavilion](https://open.spotify.com/track/6BBMh7nJjWgyjWDPNhwRBJ) | [tsumiki](https://open.spotify.com/artist/6oiuO4S02p4iTO9VLU3jRr) | [pavilion](https://open.spotify.com/album/7LmysHeysLJI0kP6SbZWwb) | 2:25 |
-| 72 | [MATCHA](https://open.spotify.com/track/7gESiMMOwo8uFkc1mb0ZPZ) | [JO1](https://open.spotify.com/artist/2koP6FEfIEVk4l2Fe6jFhu) | [AAO](https://open.spotify.com/album/0sZcpa3BHSXlFor4YfAACL) | 2:30 |
-| 73 | [City Blue](https://open.spotify.com/track/4sH0aKvTf9whGEGKJQkOuv) | [Mili](https://open.spotify.com/artist/0K05TDnN7xPwIHDOwD2YYs) | [City Blue](https://open.spotify.com/album/2LaWQVVM0yebLElIVH5YhX) | 2:59 |
-| 74 | [Aurora](https://open.spotify.com/track/5ht69Xbfj12h1n6Nd12qaW) | [STARGLOW](https://open.spotify.com/artist/1iw2iFU0Tpq7xvkX4VZyfZ) | [Aurora](https://open.spotify.com/album/77i2hnrLLEg4T5GOFCXakR) | 3:41 |
-| 75 | [いいんじゃない](https://open.spotify.com/track/6hJAJZixE6D1rjreTfBxNm) | [muque](https://open.spotify.com/artist/3SfOqz3ae0KRhTQzeR4m3t) | [いいんじゃない](https://open.spotify.com/album/71eZv4CCScNApcSYATHObm) | 2:56 |
+| 69 | [メランコリー散歩](https://open.spotify.com/track/6HMYNNwqdtvBvtM6SzRH2a) | [kiyu](https://open.spotify.com/artist/3aEOW8dsrbkcL3iA3w1tXu) | [メランコリー散歩](https://open.spotify.com/album/0s0CPSG3POgBFYMNyEbECy) | 3:58 |
+| 70 | [MATCHA](https://open.spotify.com/track/7gESiMMOwo8uFkc1mb0ZPZ) | [JO1](https://open.spotify.com/artist/2koP6FEfIEVk4l2Fe6jFhu) | [AAO](https://open.spotify.com/album/0sZcpa3BHSXlFor4YfAACL) | 2:30 |
+| 71 | [City Blue](https://open.spotify.com/track/4sH0aKvTf9whGEGKJQkOuv) | [Mili](https://open.spotify.com/artist/0K05TDnN7xPwIHDOwD2YYs) | [City Blue](https://open.spotify.com/album/2LaWQVVM0yebLElIVH5YhX) | 2:59 |
+| 72 | [Aurora](https://open.spotify.com/track/5ht69Xbfj12h1n6Nd12qaW) | [STARGLOW](https://open.spotify.com/artist/1iw2iFU0Tpq7xvkX4VZyfZ) | [Aurora](https://open.spotify.com/album/77i2hnrLLEg4T5GOFCXakR) | 3:41 |
+| 73 | [わたしたちのオカルト](https://open.spotify.com/track/0xDVlylGQZOakMv6rVL7Ck) | [NOMELON NOLEMON](https://open.spotify.com/artist/3PRXdiVu8lUkeCKw4ZUX4B) | [わたしたちのオカルト](https://open.spotify.com/album/0LlFpGbkoAXoCQN2QxZZJ9) | 2:48 |
+| 74 | [いいんじゃない](https://open.spotify.com/track/6hJAJZixE6D1rjreTfBxNm) | [muque](https://open.spotify.com/artist/3SfOqz3ae0KRhTQzeR4m3t) | [いいんじゃない](https://open.spotify.com/album/71eZv4CCScNApcSYATHObm) | 2:56 |
+| 75 | [Pinot noir](https://open.spotify.com/track/2DXknNYBaZlCC7tDM0i23O) | [iVy](https://open.spotify.com/artist/70lDezP0StoGMa58IcLXCc) | [reason for being](https://open.spotify.com/album/0CQJPuVnW2ruQGgBCLvj2R) | 3:12 |
 
-Snapshot ID: `AAAAAKGm7bOQtjrHc0ejFvyljulfaqGp`
+Snapshot ID: `AAAAAM1goDEmH5BLDaOx+ig0WjCIvkMq`

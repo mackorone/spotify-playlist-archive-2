@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2023-09-29",
-  "description": "Les hits zouk & kompa du moment. Photo : Marvin x Senyss",
+  "description": "Les hits zouk & kompa du moment. Photo : L\u00c9A CHURROS x Mik L",
   "name": "Zouk Station",
   "tracks": [
     {
@@ -718,7 +718,7 @@
       ],
       "date_added": "2026-10-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-27",
       "duration_ms": 198837,
       "name": "Bandit",
       "url": "https://open.spotify.com/track/2dkfeyEWCbCCYgfXqlN2u0"
@@ -1303,6 +1303,28 @@
     },
     {
       "album": {
+        "name": "Chacun sa route",
+        "url": "https://open.spotify.com/album/2Q2mGYDgudJP0ioLSaj4zS"
+      },
+      "artists": [
+        {
+          "name": "SenSey'",
+          "url": "https://open.spotify.com/artist/23u2dvae3e0f3caJSqdlN5"
+        },
+        {
+          "name": "Yoan",
+          "url": "https://open.spotify.com/artist/3zLakmncfxwiYZRHe0i5Ke"
+        }
+      ],
+      "date_added": "2026-11-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 199034,
+      "name": "Chacun sa route",
+      "url": "https://open.spotify.com/track/4FQdXhuBReS3s5FYBz7Yp3"
+    },
+    {
+      "album": {
         "name": "Chambre 41",
         "url": "https://open.spotify.com/album/5M8YB1mmEHueFKUovWAyty"
       },
@@ -1718,7 +1740,7 @@
       ],
       "date_added": "2025-08-07",
       "date_added_asterisk": false,
-      "date_removed": "2025-10-10",
+      "date_removed": null,
       "duration_ms": 172268,
       "name": "Continu\u00e9 gard\u00e9",
       "url": "https://open.spotify.com/track/0rL4mMf6GShlF70S6CXpkB"
@@ -2288,7 +2310,7 @@
       ],
       "date_added": "2026-10-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-27",
       "duration_ms": 132631,
       "name": "DON'T CARE",
       "url": "https://open.spotify.com/track/5kYQ0GagBehowLHQOvlXQY"
@@ -2611,6 +2633,28 @@
     },
     {
       "album": {
+        "name": "Doudou an mwen",
+        "url": "https://open.spotify.com/album/7bmL12wjCr92NzZ0E4e1jx"
+      },
+      "artists": [
+        {
+          "name": "Mik L",
+          "url": "https://open.spotify.com/artist/7aLBaAtUjEwZSUIr3S2BtR"
+        },
+        {
+          "name": "L\u00c9A CHURROS",
+          "url": "https://open.spotify.com/artist/1wroQVdy6a6jempVrScxJC"
+        }
+      ],
+      "date_added": "2026-11-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 200220,
+      "name": "Doudou an mwen",
+      "url": "https://open.spotify.com/track/26b6xSeGbv8OoxCBhkriT7"
+    },
+    {
+      "album": {
         "name": "ADN",
         "url": "https://open.spotify.com/album/3oCtzwa0oflzV7hb3Cf8Hi"
       },
@@ -2622,7 +2666,7 @@
       ],
       "date_added": "2026-09-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-27",
       "duration_ms": 187000,
       "name": "Doutes",
       "url": "https://open.spotify.com/track/1fuB5rU71L5QEr93oM4x1V"
@@ -3511,6 +3555,28 @@
     },
     {
       "album": {
+        "name": "I Like",
+        "url": "https://open.spotify.com/album/6p9rrwpxtoFghf1VVyj3fh"
+      },
+      "artists": [
+        {
+          "name": "Lov'nee",
+          "url": "https://open.spotify.com/artist/2XHk8hsNkttV09BnFR7rTG"
+        },
+        {
+          "name": "DJ Jyz",
+          "url": "https://open.spotify.com/artist/7HMdFIeGnqwPKBRgpJF3gI"
+        }
+      ],
+      "date_added": "2026-11-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 190843,
+      "name": "I Like",
+      "url": "https://open.spotify.com/track/3dSh6CAzjHfizoqWLtqElS"
+    },
+    {
+      "album": {
         "name": "Il est temps",
         "url": "https://open.spotify.com/album/4SAaZZTo2cl82ZGuaMq1xx"
       },
@@ -3632,6 +3698,28 @@
       "duration_ms": 205800,
       "name": "Inoubliable",
       "url": "https://open.spotify.com/track/6Meu5E8RItga0bsCQdIyK3"
+    },
+    {
+      "album": {
+        "name": "Insomnie",
+        "url": "https://open.spotify.com/album/414r7IfRYcasw24Ebro8kV"
+      },
+      "artists": [
+        {
+          "name": "Kent1",
+          "url": "https://open.spotify.com/artist/3j1OW2DW29UNsdM44viM9f"
+        },
+        {
+          "name": "Dj M'sy",
+          "url": "https://open.spotify.com/artist/0Xmy1akydp75Cv7zYLeB8c"
+        }
+      ],
+      "date_added": "2026-11-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 142857,
+      "name": "Insomnie",
+      "url": "https://open.spotify.com/track/4OaGGacDXdHGYciTZCBg0X"
     },
     {
       "album": {
@@ -6723,6 +6811,24 @@
     },
     {
       "album": {
+        "name": "Pa Ni Lajan",
+        "url": "https://open.spotify.com/album/1G59mGYoqvDV9xYHnWsrOn"
+      },
+      "artists": [
+        {
+          "name": "Lo\u00efc Emboul\u00e9",
+          "url": "https://open.spotify.com/artist/7BLv95GIAewL8GOsIM8qN4"
+        }
+      ],
+      "date_added": "2026-11-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 181618,
+      "name": "Pa Ni Lajan",
+      "url": "https://open.spotify.com/track/6BEL8Yhsr8MJANOsB827X0"
+    },
+    {
+      "album": {
         "name": "Pa Nowmal",
         "url": "https://open.spotify.com/album/6H26y2puPTgrK0xxyFB9kJ"
       },
@@ -6800,7 +6906,7 @@
       ],
       "date_added": "2026-10-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-27",
       "duration_ms": 204183,
       "name": "PAKSADOR",
       "url": "https://open.spotify.com/track/4f1DbfEQBypyePXHysh8Kn"
@@ -6862,7 +6968,7 @@
       ],
       "date_added": "2026-08-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-27",
       "duration_ms": 164470,
       "name": "Papillon",
       "url": "https://open.spotify.com/track/0Vl2qHHtv0TPMJ1v39DqZS"
@@ -7034,7 +7140,7 @@
       ],
       "date_added": "2026-09-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-27",
       "duration_ms": 219791,
       "name": "Pense \u00e0 moi",
       "url": "https://open.spotify.com/track/0bMQO4FSJeIWQlFUjB1N0H"

@@ -4,7 +4,7 @@
 
 > Música tranquila para evadirse.
 
-590 songs - 1 day 9 hr 20 min
+591 songs - 1 day 9 hr 25 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -101,6 +101,7 @@
 | [Cambios](https://open.spotify.com/track/2pehRZBrGUQrsAnnyG02ET) | [Mario Diaz](https://open.spotify.com/artist/0p1xvmO3gEsrCdvRLf4qLh), [Colectivo Panamera](https://open.spotify.com/artist/7aFW3s8aXxis0oiGyOM3Yw) | [Cambios](https://open.spotify.com/album/1JgQALH4p7iOtrcJPHrYqD) | 3:23 | 2024-04-11 | 2024-06-22 |
 | [Camila](https://open.spotify.com/track/2C4GuNW7SzpQth4I17xUgY) | [Teo Planell](https://open.spotify.com/artist/3Mhaefda5u1LJlRWdJgqz4) | [Camila](https://open.spotify.com/album/2tQFs7w7GqTfGFS8uT1Ev8) | 2:03 | 2026-07-30 |  |
 | [Caminar Sobre la Luna](https://open.spotify.com/track/2ETIE8drnfLbnj12WuvvcT) | [Lina de Sol](https://open.spotify.com/artist/77dt3BFeJYkWqdRgJcFIJK) | [de Sol en Sol](https://open.spotify.com/album/16ugOIf3psA88gt1oqFtpf) | 3:36 | 2025-10-03 | 2026-03-27 |
+| [Camino](https://open.spotify.com/track/7d269Sa0WFoa3UZsT8RPGr) | [Las Nietas del Charli](https://open.spotify.com/artist/7qUIkRxw27ibYFxuzEm9rS) | [Un Sol dentro](https://open.spotify.com/album/4xFxPU5N0Er8jCSzt36fje) | 4:49 | 2026-10-15 |  |
 | [can you see me?](https://open.spotify.com/track/0PqyrHOwAMA43it710rAor) | [MARO](https://open.spotify.com/artist/3NP4jJcW3R6qO6rbtnH0wn) | [can you see me?](https://open.spotify.com/album/6lvr2vceq0j5YhJUQTPSKE) | 3:17 | 2023-08-18 | 2024-03-23 |
 | [Canción de Cuna para Gabriel y Nicolás \- Tema incluído en la Banda Sonora Original "Blue & Malone Casos Imposibles"](https://open.spotify.com/track/2Nj6b1tSxcMdLGNp9UOkGy) | [Coque Malla](https://open.spotify.com/artist/2VR9eUwDCe6jccal0ZQ5FV) | [Canción de Cuna para Gabriel y Nicolás \(Tema incluído en la Banda Sonora Original Blue & Malone Casos Imposibles\)](https://open.spotify.com/album/6r5nOWh4HQxbqAKULzg9QR) | 3:15 | 2024-06-06 |  |
 | [Canción de Despedida](https://open.spotify.com/track/0aiLg6zGgeNoNYqk0e4d4m) | [Adiós Amores](https://open.spotify.com/artist/6so3HRQveYWGixSBgKfBxT) | [El Camino](https://open.spotify.com/album/720mOOPxxpzDogAwBGOY9q) | 4:13 | 2023-10-26 | 2024-02-09 |
@@ -206,7 +207,7 @@
 | [Gara](https://open.spotify.com/track/0KXmw8ZMt0eQntsjNrMq6p) | [Ant Cosmos](https://open.spotify.com/artist/5j1AZkYzQt0e8cwA2Q1UgQ) | [Gara](https://open.spotify.com/album/7HDR2yQrKhyCXViL6Dzqn2) | 1:50 | 2025-03-06 | 2025-08-20 |
 | [gaviotas de cristal](https://open.spotify.com/track/73Qs48OY5Won2FWwUeh6wh) | [Rels B](https://open.spotify.com/artist/2IMZYfNi21MGqxopj9fWx8) | [fill de la mar \(2026\)](https://open.spotify.com/album/6nwZerT6S5mNbj2MLdJgVt) | 1:57 | 2026-09-28 |  |
 | [gin and wine \(ginuwine\)](https://open.spotify.com/track/33u4lROskD2GSckbtsjCVI) | [tg.blk](https://open.spotify.com/artist/24ygMLBnr7isvmgvAx2Phm) | [gin and wine \(ginuwine\)](https://open.spotify.com/album/3JwhKO0Pw10XKRlgFC9PL0) | 2:09 | 2024-03-04 | 2024-08-03 |
-| [girlhood](https://open.spotify.com/track/38PXyRblkgEYvJRAwX6XGD) | [NEW LORE](https://open.spotify.com/artist/6qJpZtfyp8a3D2bXq1eQ5E) | [girlhood](https://open.spotify.com/album/3bfl3J5n57QdWtbaelu5RH) | 3:51 | 2026-05-14 |  |
+| [girlhood](https://open.spotify.com/track/38PXyRblkgEYvJRAwX6XGD) | [NEW LORE](https://open.spotify.com/artist/6qJpZtfyp8a3D2bXq1eQ5E) | [girlhood](https://open.spotify.com/album/3bfl3J5n57QdWtbaelu5RH) | 3:51 | 2026-05-14 | 2026-11-27 |
 | [Gothic Babe Tendencies \(feat\. blackbear\)](https://open.spotify.com/track/3l207IhDzpcRe5MlgNM7ZX) | [Julia Wolf](https://open.spotify.com/artist/5yvGiZLSWJTPBlZpVbPnEZ), [blackbear](https://open.spotify.com/artist/2cFrymmkijnjDg9SS92EPM) | [Gothic Babe Tendencies \(feat\. blackbear\)](https://open.spotify.com/album/28jYKoBBu4hjMUPBU5cL6n) | 5:03 | 2023-01-05 | 2023-02-18 |
 | [Gymnopedie N\. 1](https://open.spotify.com/track/3ciSwoLfrJMGJbwCCEGfHs) | [Zurito](https://open.spotify.com/artist/3zyjOpipjSnFWFRKQvO57T) | [Tamesis](https://open.spotify.com/album/1TJGpB0M8m8PAycC8vCDo9) | 7:55 | 2026-09-28 |  |
 | [Hace Mucho Tiempo](https://open.spotify.com/track/790myZFzSomT1B5MkFhuNT) | [Los Aptos](https://open.spotify.com/artist/4tenlYn9MG8Fda3OyDtPRO) | [Descifrar](https://open.spotify.com/album/0iS5WqBx0TeI4duoxqk57F) | 4:16 | 2023-07-06 | 2023-08-19 |

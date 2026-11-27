@@ -4,7 +4,7 @@
 
 > The tracks we love, work on and enjoy every hour of the day \| Including trance, house, techno, dance, Afro house, melodic techno \| Tracks from Armin van Buuren, ARTY, D.O.D, Loud Luxury, Brando and more! \| Updated weekly on Friday \|
 
-1,924 songs - 4 day 6 hr 5 min
+1,926 songs - 4 day 6 hr 11 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -57,6 +57,7 @@
 | [All Night](https://open.spotify.com/track/0zlr4Q8qZZWfM8ezyrDAWe) | [Armin van Buuren](https://open.spotify.com/artist/0SfsnGyD8FpIN4U4WCkBZ5), [John Christian](https://open.spotify.com/artist/4I4ZRmxuOEADKSea0rNq3h) | [All Night](https://open.spotify.com/album/642I33KMPYEosGoSDAtHD8) | 3:03 | 2025-01-31 | 2025-05-16 |
 | [All Night](https://open.spotify.com/track/0pUp0qIDX3jlA37m6tC7yW) | [Cedric Gervais](https://open.spotify.com/artist/4Wjf8diP59VmPG7fi4y724) | [All Night](https://open.spotify.com/album/5MwnL48g0ZLDiwaqC3Qk3t) | 3:04 | 2026-07-17 |  |
 | [All On You](https://open.spotify.com/track/5B47MmVywAc1wmoFs0GfKH) | [Chelina Manuhutu](https://open.spotify.com/artist/4IoT1ZwtqNYn1u7q9r62Sy) | [All On You](https://open.spotify.com/album/0vDRLzYZE8nQpkjoFs3NRI) | 3:04 | 2024-05-14 | 2024-10-19 |
+| [ALL THE THINGS](https://open.spotify.com/track/6dKT0k3PnFGtryqKHqvBoF) | [SUPERSTRINGS](https://open.spotify.com/artist/0WDwBVGmUjf7eJUKDpecYz) | [ALL THE THINGS](https://open.spotify.com/album/1GY4DSxHLXynwM38INPkbo) | 3:02 | 2026-11-27 |  |
 | [All Things Go](https://open.spotify.com/track/5zRzH31eNesILtPWZfs5XK) | [Madism](https://open.spotify.com/artist/5UUdxfBMwm0hLlLgnZtBFv), [YORK](https://open.spotify.com/artist/20L5MecnuNujUE6imrfK0Q), [NEIMY](https://open.spotify.com/artist/71Dhj822M1LGpuryPIV2KO) | [All Things Go](https://open.spotify.com/album/3v3eGp5roAE526aFaeHgHP) | 3:15 | 2026-04-10 | 2026-04-17 |
 | [All This Time Alone](https://open.spotify.com/track/4gvhLNxyZbjDR9pUQVCc1Y) | [Chicane](https://open.spotify.com/artist/5GxyeQagayzZOg4UwffQlD), [The Mannequin](https://open.spotify.com/artist/6OEwfaPcnzqHoZ5HlWEtL6) | [All This Time Alone](https://open.spotify.com/album/7zelNlPuN1e264IHe1d2p4) | 2:54 | 2023-03-02 | 2023-03-25 |
 | [All You Fly Skinners](https://open.spotify.com/track/2uDEfIo9QNMusG3BUgJ1jA) | [Lock 'N Load](https://open.spotify.com/artist/36WpsQfa32ou67lhwl8RQ9) | [All You Fly Skinners](https://open.spotify.com/album/0mRHtTCfcUfgNufupjH7A0) | 6:28 | 2024-01-04 | 2024-07-20 |
@@ -1670,6 +1671,7 @@
 | [The Music](https://open.spotify.com/track/4xfYNH75F5Ji7CJ1v0OMM9) | [Kideko](https://open.spotify.com/artist/0ZwQMCRqfyh1OGQkBh9Cnj), [Saffron Stone](https://open.spotify.com/artist/71FmTfYoEXhF3kSsbPiuKz) | [The Music](https://open.spotify.com/album/4msQOmIlkiNfRYacIgk0fj) | 2:26 | 2022-06-09 | 2023-03-25 |
 | [The Orange Theme](https://open.spotify.com/track/3s0mUcA2Y6NitFgvixRRPT) | [HI\-LO](https://open.spotify.com/artist/0ETJQforv5OXgDgidQv9qd), [Tai Woffinden](https://open.spotify.com/artist/7hHvec5hQk2LtFSe1pIDU3), [Oliver Heldens](https://open.spotify.com/artist/5nki7yRhxgM509M5ADlN1p) | [The Orange Theme](https://open.spotify.com/album/3qfoTfu82HfZQjY6xijaiw) | 3:06 | 2025-07-04 |  |
 | [The Orange Theme](https://open.spotify.com/track/6qUoVjPN8Ys5NfnTgJrkBT) | [Joris Voorn](https://open.spotify.com/artist/4jGpKAmwvU263l0tUh4xKU), [AVIRA](https://open.spotify.com/artist/7rznn3BVOuA5jyPB275jmS) | [The Orange Theme](https://open.spotify.com/album/5NZSTlwgjkrpFBp6WEOW0e) | 3:23 | 2024-04-26 | 2024-10-19 |
+| [The Prophet](https://open.spotify.com/track/1ThGsAO9QRLSPUrL5ZP5kS) | [Armin van Buuren](https://open.spotify.com/artist/0SfsnGyD8FpIN4U4WCkBZ5) | [The Prophet](https://open.spotify.com/album/2cx2B73YcX5yQ2cjlG6bSM) | 3:27 | 2026-11-27 |  |
 | [The Records](https://open.spotify.com/track/18fApEcxDOp88JN8tgYzBL) | [Hannah Laing](https://open.spotify.com/artist/1QEd635szhierW6gzRiS1o) | [Sola Summer of Rave 2021](https://open.spotify.com/album/5aiSoy7io8mTjRXdlGRukI) | 3:28 | 2024-05-07 | 2024-05-10 |
 | [The Records](https://open.spotify.com/track/3yeJpI0m4HAbMVbZspMFgo) | [Hannah Laing](https://open.spotify.com/artist/1QEd635szhierW6gzRiS1o) | [The Records](https://open.spotify.com/album/6enQqqHf1TgwVe1Zu7Krq1) | 3:28 | 2024-01-12 | 2024-01-19 |
 | [The Rhythm of the Night \- Athenica Remix](https://open.spotify.com/track/35PuLtj8bIGVxivenJUDlL) | [Neptunica](https://open.spotify.com/artist/5dGsIOepO9ufQlXjW8KrPL), [Corona](https://open.spotify.com/artist/26T6b8maqEVltcmE4kSDUl), [Athenica](https://open.spotify.com/artist/6P8u7jHjhsQSi2b55HrItV) | [The Rhythm of the Night \(Athenica Remix\)](https://open.spotify.com/album/5X11VADB9U0ZfUbyCCPLke) | 3:32 | 2025-06-13 | 2025-06-20 |

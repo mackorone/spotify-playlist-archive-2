@@ -1,6 +1,6 @@
 {
   "description": "Revisit stand out songs from these singer/songwriters. Cover: Buffalo Traffic Jam",
-  "num_followers": 80929,
+  "num_followers": 80934,
   "original_name": "Folk Favourites",
   "owner": {
     "name": "Spotify",
@@ -623,22 +623,6 @@
     {
       "added_at": "2026-10-22 21:37:37",
       "album": {
-        "name": "With Heaven On Top",
-        "url": "https://open.spotify.com/album/4NvMwUFmY1dcDEgD8KoQjG"
-      },
-      "artists": [
-        {
-          "name": "Zach Bryan",
-          "url": "https://open.spotify.com/artist/40ZNYROS4zLfyyBSs2PGe2"
-        }
-      ],
-      "duration_ms": 174197,
-      "name": "Santa Fe",
-      "url": "https://open.spotify.com/track/7qVntDLi3qf0mm18Kd54lx"
-    },
-    {
-      "added_at": "2026-10-22 21:37:37",
-      "album": {
         "name": "Wild Rivers",
         "url": "https://open.spotify.com/album/4SMbqvJenspMXbcPROZsVK"
       },
@@ -651,6 +635,22 @@
       "duration_ms": 173604,
       "name": "Speak Too Soon",
       "url": "https://open.spotify.com/track/0AUURXuRvLPKEH6KaJZSXy"
+    },
+    {
+      "added_at": "2026-10-22 21:37:37",
+      "album": {
+        "name": "With Heaven On Top",
+        "url": "https://open.spotify.com/album/4NvMwUFmY1dcDEgD8KoQjG"
+      },
+      "artists": [
+        {
+          "name": "Zach Bryan",
+          "url": "https://open.spotify.com/artist/40ZNYROS4zLfyyBSs2PGe2"
+        }
+      ],
+      "duration_ms": 174197,
+      "name": "Santa Fe",
+      "url": "https://open.spotify.com/track/7qVntDLi3qf0mm18Kd54lx"
     },
     {
       "added_at": "2026-10-22 21:37:37",
@@ -735,22 +735,6 @@
     {
       "added_at": "2026-10-22 21:37:37",
       "album": {
-        "name": "Missing Piece",
-        "url": "https://open.spotify.com/album/6zQCdokfVne8dFU5Z5BpS3"
-      },
-      "artists": [
-        {
-          "name": "Vance Joy",
-          "url": "https://open.spotify.com/artist/10exVja0key0uqUkk6LJRT"
-        }
-      ],
-      "duration_ms": 217408,
-      "name": "Missing Piece",
-      "url": "https://open.spotify.com/track/5YqdiryRmdAzYFlxo43hAJ"
-    },
-    {
-      "added_at": "2026-10-22 21:37:37",
-      "album": {
         "name": "Bright Future",
         "url": "https://open.spotify.com/album/2Y8WS7iDIZkvzB5GUeLvku"
       },
@@ -763,6 +747,22 @@
       "duration_ms": 259016,
       "name": "Sadness As A Gift",
       "url": "https://open.spotify.com/track/1UpXhetX1s5OXTY5fRjWvu"
+    },
+    {
+      "added_at": "2026-10-22 21:37:37",
+      "album": {
+        "name": "Missing Piece",
+        "url": "https://open.spotify.com/album/6zQCdokfVne8dFU5Z5BpS3"
+      },
+      "artists": [
+        {
+          "name": "Vance Joy",
+          "url": "https://open.spotify.com/artist/10exVja0key0uqUkk6LJRT"
+        }
+      ],
+      "duration_ms": 217408,
+      "name": "Missing Piece",
+      "url": "https://open.spotify.com/track/5YqdiryRmdAzYFlxo43hAJ"
     },
     {
       "added_at": "2026-10-22 21:37:37",
@@ -847,6 +847,22 @@
     {
       "added_at": "2026-10-22 21:37:37",
       "album": {
+        "name": "Bleeds",
+        "url": "https://open.spotify.com/album/29HKbQ2pgXgElTnH66mFXK"
+      },
+      "artists": [
+        {
+          "name": "Wednesday",
+          "url": "https://open.spotify.com/artist/4j7DrazfBZLLD0OrVoAtEe"
+        }
+      ],
+      "duration_ms": 215506,
+      "name": "Elderberry Wine",
+      "url": "https://open.spotify.com/track/00lSB9CSyOcsxKVtbPbniL"
+    },
+    {
+      "added_at": "2026-10-22 21:37:37",
+      "album": {
         "name": "Snow",
         "url": "https://open.spotify.com/album/4egQIHw55CVeZ9BlS3fEoL"
       },
@@ -875,22 +891,6 @@
       "duration_ms": 199391,
       "name": "Thinking 'Bout Love",
       "url": "https://open.spotify.com/track/42UaitnwvuKqNcD5Oa2HlD"
-    },
-    {
-      "added_at": "2026-10-22 21:37:37",
-      "album": {
-        "name": "Bleeds",
-        "url": "https://open.spotify.com/album/29HKbQ2pgXgElTnH66mFXK"
-      },
-      "artists": [
-        {
-          "name": "Wednesday",
-          "url": "https://open.spotify.com/artist/4j7DrazfBZLLD0OrVoAtEe"
-        }
-      ],
-      "duration_ms": 215506,
-      "name": "Elderberry Wine",
-      "url": "https://open.spotify.com/track/00lSB9CSyOcsxKVtbPbniL"
     },
     {
       "added_at": "2026-10-22 21:37:37",
@@ -1071,18 +1071,18 @@
     {
       "added_at": "2026-10-22 21:37:37",
       "album": {
-        "name": "Multitudes",
-        "url": "https://open.spotify.com/album/1p4Q0pUvvURdCwC842Abjn"
+        "name": "The Order Of Time",
+        "url": "https://open.spotify.com/album/4TVWSt83FpSfocgA3omB0k"
       },
       "artists": [
         {
-          "name": "Feist",
-          "url": "https://open.spotify.com/artist/6CWTBjOJK75cTE8Xv8u1kj"
+          "name": "Valerie June",
+          "url": "https://open.spotify.com/artist/4QZdOCb3UacKbQ1ybDFAKM"
         }
       ],
-      "duration_ms": 201174,
-      "name": "Hiding Out In The Open",
-      "url": "https://open.spotify.com/track/6Q34tUtXLuWst5c63ddQ7N"
+      "duration_ms": 218640,
+      "name": "Astral Plane",
+      "url": "https://open.spotify.com/track/1ISGSSgVnZhyiOGSI8itNa"
     },
     {
       "added_at": "2026-10-22 21:37:37",
@@ -1103,18 +1103,18 @@
     {
       "added_at": "2026-10-22 21:37:37",
       "album": {
-        "name": "The Order Of Time",
-        "url": "https://open.spotify.com/album/4TVWSt83FpSfocgA3omB0k"
+        "name": "Multitudes",
+        "url": "https://open.spotify.com/album/1p4Q0pUvvURdCwC842Abjn"
       },
       "artists": [
         {
-          "name": "Valerie June",
-          "url": "https://open.spotify.com/artist/4QZdOCb3UacKbQ1ybDFAKM"
+          "name": "Feist",
+          "url": "https://open.spotify.com/artist/6CWTBjOJK75cTE8Xv8u1kj"
         }
       ],
-      "duration_ms": 218640,
-      "name": "Astral Plane",
-      "url": "https://open.spotify.com/track/1ISGSSgVnZhyiOGSI8itNa"
+      "duration_ms": 201174,
+      "name": "Hiding Out In The Open",
+      "url": "https://open.spotify.com/track/6Q34tUtXLuWst5c63ddQ7N"
     },
     {
       "added_at": "2026-10-22 21:37:37",
@@ -1291,22 +1291,6 @@
     {
       "added_at": "2026-10-22 21:37:37",
       "album": {
-        "name": "isaac gracie (extended edition)",
-        "url": "https://open.spotify.com/album/0WhOJJJZPWfefjJogtinkD"
-      },
-      "artists": [
-        {
-          "name": "isaac gracie",
-          "url": "https://open.spotify.com/artist/5Smb3KB29epOb92Btsxulb"
-        }
-      ],
-      "duration_ms": 343249,
-      "name": "reverie",
-      "url": "https://open.spotify.com/track/56iI6wwW6Lm2DzRxl0TFqH"
-    },
-    {
-      "added_at": "2026-10-22 21:37:37",
-      "album": {
         "name": "Wave",
         "url": "https://open.spotify.com/album/4sgJYX3we1RoranerDs8ph"
       },
@@ -1319,6 +1303,22 @@
       "duration_ms": 253600,
       "name": "Here Comes The River",
       "url": "https://open.spotify.com/track/1bkmxox97PzwqGCEaFuFLD"
+    },
+    {
+      "added_at": "2026-10-22 21:37:37",
+      "album": {
+        "name": "isaac gracie (extended edition)",
+        "url": "https://open.spotify.com/album/0WhOJJJZPWfefjJogtinkD"
+      },
+      "artists": [
+        {
+          "name": "isaac gracie",
+          "url": "https://open.spotify.com/artist/5Smb3KB29epOb92Btsxulb"
+        }
+      ],
+      "duration_ms": 343249,
+      "name": "reverie",
+      "url": "https://open.spotify.com/track/56iI6wwW6Lm2DzRxl0TFqH"
     },
     {
       "added_at": "2026-10-22 21:37:37",
@@ -1375,6 +1375,22 @@
     {
       "added_at": "2026-10-22 21:37:37",
       "album": {
+        "name": "Only Pieces of the Truth",
+        "url": "https://open.spotify.com/album/5WTMX9SyPDigNcgewZGtLG"
+      },
+      "artists": [
+        {
+          "name": "Jordan Hart",
+          "url": "https://open.spotify.com/artist/2NuHJNDBd9Vq4k09qrXibo"
+        }
+      ],
+      "duration_ms": 261788,
+      "name": "Freedom",
+      "url": "https://open.spotify.com/track/6L1PKCmrvrfsVSDbo6f8Jd"
+    },
+    {
+      "added_at": "2026-10-22 21:37:37",
+      "album": {
         "name": "Faking My Own Death",
         "url": "https://open.spotify.com/album/5wGcJVAdzM6LndVUbMxTnf"
       },
@@ -1419,22 +1435,6 @@
       "duration_ms": 288402,
       "name": "Rhododendron",
       "url": "https://open.spotify.com/track/7s8gLWAkwL8F7WggHYzZR4"
-    },
-    {
-      "added_at": "2026-10-22 21:37:37",
-      "album": {
-        "name": "Only Pieces of the Truth",
-        "url": "https://open.spotify.com/album/5WTMX9SyPDigNcgewZGtLG"
-      },
-      "artists": [
-        {
-          "name": "Jordan Hart",
-          "url": "https://open.spotify.com/artist/2NuHJNDBd9Vq4k09qrXibo"
-        }
-      ],
-      "duration_ms": 261788,
-      "name": "Freedom",
-      "url": "https://open.spotify.com/track/6L1PKCmrvrfsVSDbo6f8Jd"
     },
     {
       "added_at": "2026-10-22 21:37:37",
@@ -1511,22 +1511,6 @@
     {
       "added_at": "2026-10-22 21:37:37",
       "album": {
-        "name": "Moondog",
-        "url": "https://open.spotify.com/album/0C6QY4CHawH4KPL6GmeTnK"
-      },
-      "artists": [
-        {
-          "name": "Leif Vollebekk",
-          "url": "https://open.spotify.com/artist/3jzXlBF2157k4exx7idecs"
-        }
-      ],
-      "duration_ms": 305640,
-      "name": "Moondog",
-      "url": "https://open.spotify.com/track/1H26eTheLo3Flr7KIdtSce"
-    },
-    {
-      "added_at": "2026-10-22 21:37:37",
-      "album": {
         "name": "Signs of Life",
         "url": "https://open.spotify.com/album/4MOkPB90s3AsnbjNmGJ5x2"
       },
@@ -1539,6 +1523,22 @@
       "duration_ms": 183626,
       "name": "We Can't Be Tamed",
       "url": "https://open.spotify.com/track/2GygOAZfu7hG7WULOP0bCq"
+    },
+    {
+      "added_at": "2026-10-22 21:37:37",
+      "album": {
+        "name": "Moondog",
+        "url": "https://open.spotify.com/album/0C6QY4CHawH4KPL6GmeTnK"
+      },
+      "artists": [
+        {
+          "name": "Leif Vollebekk",
+          "url": "https://open.spotify.com/artist/3jzXlBF2157k4exx7idecs"
+        }
+      ],
+      "duration_ms": 305640,
+      "name": "Moondog",
+      "url": "https://open.spotify.com/track/1H26eTheLo3Flr7KIdtSce"
     },
     {
       "added_at": "2026-10-22 21:37:37",

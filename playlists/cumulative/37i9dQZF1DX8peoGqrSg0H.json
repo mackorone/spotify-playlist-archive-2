@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-05-30",
-  "description": "T-Pop \u0e44\u0e21\u0e48\u0e44\u0e2b\u0e27 \u0e15\u0e49\u0e2d\u0e07\u0e1f\u0e31\u0e07 T-Pop Now \u0e41\u0e25\u0e49\u0e27. \u0e28\u0e34\u0e25\u0e1b\u0e34\u0e19: VVV",
+  "description": "T-Pop \u0e44\u0e21\u0e48\u0e44\u0e2b\u0e27 \u0e15\u0e49\u0e2d\u0e07\u0e1f\u0e31\u0e07 T-Pop Now \u0e41\u0e25\u0e49\u0e27. \u0e28\u0e34\u0e25\u0e1b\u0e34\u0e19: DICERED",
   "name": "T-Pop Now",
   "tracks": [
     {
@@ -476,7 +476,7 @@
       ],
       "date_added": "2026-10-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-27",
       "duration_ms": 155529,
       "name": "Baby Girl",
       "url": "https://open.spotify.com/track/1waM1iX8oDT7PnR5Abr5IZ"
@@ -2255,6 +2255,24 @@
     },
     {
       "album": {
+        "name": "HeartQuake (\u0e2a\u0e31\u0e48\u0e19\u0e2a\u0e31\u0e48\u0e19)",
+        "url": "https://open.spotify.com/album/7CxudvUKCcHwU2JEeIE3IJ"
+      },
+      "artists": [
+        {
+          "name": "butterfliiii",
+          "url": "https://open.spotify.com/artist/1bcnkGtaZZtiwwRYtXceZ9"
+        }
+      ],
+      "date_added": "2026-11-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 133666,
+      "name": "HeartQuake (\u0e2a\u0e31\u0e48\u0e19\u0e2a\u0e31\u0e48\u0e19)",
+      "url": "https://open.spotify.com/track/6AZdupdchlOjlOHBL1TE5c"
+    },
+    {
+      "album": {
         "name": "heartstopper",
         "url": "https://open.spotify.com/album/2ry2AJIjzcmrH0o2qMynKL"
       },
@@ -2284,7 +2302,7 @@
       ],
       "date_added": "2026-11-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-27",
       "duration_ms": 146700,
       "name": "HEY BRO!",
       "url": "https://open.spotify.com/track/15pRer5ef8psMILmBARiUT"
@@ -2367,6 +2385,24 @@
     },
     {
       "album": {
+        "name": "HPNY",
+        "url": "https://open.spotify.com/album/7BgmebGsX4EtbM0rsEnZn3"
+      },
+      "artists": [
+        {
+          "name": "PUN",
+          "url": "https://open.spotify.com/artist/6HEMZkIMQAPnd36iLsUlTx"
+        }
+      ],
+      "date_added": "2026-11-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 200000,
+      "name": "HPNY",
+      "url": "https://open.spotify.com/track/4lLjvJe6oxDIL2VJjWWwf7"
+    },
+    {
+      "album": {
         "name": "HUH?",
         "url": "https://open.spotify.com/album/3qz6SkDht9QOuFUqDghIzu"
       },
@@ -2400,6 +2436,24 @@
       "duration_ms": 206626,
       "name": "HURRICANE",
       "url": "https://open.spotify.com/track/4EBha8njgnyRajfMvrvfBW"
+    },
+    {
+      "album": {
+        "name": "HUSH",
+        "url": "https://open.spotify.com/album/3H6inCLmkPQkOUEz1cKlq0"
+      },
+      "artists": [
+        {
+          "name": "VIIS (\u0e27\u0e34\u0e2a)",
+          "url": "https://open.spotify.com/artist/0PDZDpg6VsAznmLDVxP2au"
+        }
+      ],
+      "date_added": "2026-11-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 170624,
+      "name": "HUSH",
+      "url": "https://open.spotify.com/track/2WrodjdVp9x42hoihQ4Obo"
     },
     {
       "album": {
@@ -3606,7 +3660,7 @@
       ],
       "date_added": "2026-11-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-27",
       "duration_ms": 234000,
       "name": "My Bambi - Ver. \u0e2b\u0e21\u0e32\u0e40\u0e14\u0e47\u0e01",
       "url": "https://open.spotify.com/track/4DeMlPD4M908RP4ogvsR0d"
@@ -3686,6 +3740,24 @@
       "duration_ms": 149453,
       "name": "NASA",
       "url": "https://open.spotify.com/track/5QoTKVSKBAVgo4RM4DyfKU"
+    },
+    {
+      "album": {
+        "name": "Naughty",
+        "url": "https://open.spotify.com/album/5fZlcIQCi9N8QDhYW7joPV"
+      },
+      "artists": [
+        {
+          "name": "NANON",
+          "url": "https://open.spotify.com/artist/15A3eJ05XZObM0QEh1zfTo"
+        }
+      ],
+      "date_added": "2026-11-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 169200,
+      "name": "Naughty",
+      "url": "https://open.spotify.com/track/74wi9CG9YKe9GXABLpU0g1"
     },
     {
       "album": {
@@ -4224,7 +4296,7 @@
       ],
       "date_added": "2025-10-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-27",
       "duration_ms": 167586,
       "name": "Pretty Girl",
       "url": "https://open.spotify.com/track/6tB3Own6faovgVetrvNCiZ"
@@ -13232,7 +13304,7 @@
       ],
       "date_added": "2025-08-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-27",
       "duration_ms": 296040,
       "name": "\u0e25\u0e32\u0e21\u0e1b\u0e32\u0e21 (circus)",
       "url": "https://open.spotify.com/track/30CRjTYAXaJf5YBsNQHIvG"
@@ -13756,6 +13828,32 @@
       "duration_ms": 221095,
       "name": "\u0e2a\u0e27\u0e22\u0e07\u0e32\u0e21\u0e40\u0e2a\u0e21\u0e2d (Ever-Forever) - Ost. \u0e2b\u0e25\u0e32\u0e19\u0e21\u0e48\u0e32",
       "url": "https://open.spotify.com/track/5Bs2KbKUeNHM25x8t1DBTF"
+    },
+    {
+      "album": {
+        "name": "\u0e2a\u0e2d\u0e19\u0e17\u0e35 (Teach Me)",
+        "url": "https://open.spotify.com/album/1Ke1Xr5VmzJwvUMjkeVc3C"
+      },
+      "artists": [
+        {
+          "name": "DICERED",
+          "url": "https://open.spotify.com/artist/1UgsiornRZh1v7TRs7DNH5"
+        },
+        {
+          "name": "DICE",
+          "url": "https://open.spotify.com/artist/4TowSWXul9J5jxTyntRJEv"
+        },
+        {
+          "name": "GALCHANIE",
+          "url": "https://open.spotify.com/artist/3ymVAMnF6CJaSM8IwAcfoa"
+        }
+      ],
+      "date_added": "2026-11-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 157714,
+      "name": "\u0e2a\u0e2d\u0e19\u0e17\u0e35 (Teach Me)",
+      "url": "https://open.spotify.com/track/3uhPrKsewojlZuWICZOPkQ"
     },
     {
       "album": {
@@ -15004,6 +15102,24 @@
       "duration_ms": 227171,
       "name": "\u0e2d\u0e22\u0e48\u0e32\u0e1d\u0e37\u0e19 (Over)",
       "url": "https://open.spotify.com/track/50kRcZqaEbUPjTRIg2kkNr"
+    },
+    {
+      "album": {
+        "name": "\u0e2d\u0e22\u0e48\u0e32\u0e21\u0e32\u0e41\u0e01\u0e25\u0e49\u0e07\u0e40\u0e1b\u0e47\u0e19\u0e2b\u0e48\u0e27\u0e07",
+        "url": "https://open.spotify.com/album/09FDDkvczocwhm6nQFMLrX"
+      },
+      "artists": [
+        {
+          "name": "MicMac",
+          "url": "https://open.spotify.com/artist/5piMoefWkj2eUzSf8YZ1li"
+        }
+      ],
+      "date_added": "2026-11-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 198666,
+      "name": "\u0e2d\u0e22\u0e48\u0e32\u0e21\u0e32\u0e41\u0e01\u0e25\u0e49\u0e07\u0e40\u0e1b\u0e47\u0e19\u0e2b\u0e48\u0e27\u0e07",
+      "url": "https://open.spotify.com/track/7j7DJuzLAcQaFCP1W1A6NT"
     },
     {
       "album": {
@@ -19298,7 +19414,7 @@
       ],
       "date_added": "2026-10-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-27",
       "duration_ms": 169800,
       "name": "\u0e44\u0e21\u0e48\u0e44\u0e2b\u0e27\u0e41\u0e25\u0e49\u0e27 (Officially) [feat. JAOKHUN]",
       "url": "https://open.spotify.com/track/7BCtBwJry326NG7LT62eNe"

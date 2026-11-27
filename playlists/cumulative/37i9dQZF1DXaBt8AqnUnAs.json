@@ -7310,7 +7310,7 @@
       ],
       "date_added": "2026-08-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-27",
       "duration_ms": 205714,
       "name": "gatos pretos & cachorros",
       "url": "https://open.spotify.com/track/2FaBsvZY4Qo7MJgiMbryaM"
@@ -12348,7 +12348,7 @@
       ],
       "date_added": "2026-07-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-27",
       "duration_ms": 129200,
       "name": "O destino reservou",
       "url": "https://open.spotify.com/track/4JZOGkpZfTNlmENPbGIal9"
@@ -18361,6 +18361,36 @@
     },
     {
       "album": {
+        "name": "ERA UMA VEZ",
+        "url": "https://open.spotify.com/album/4C0PcsLYSmZ0BUapNY7y5t"
+      },
+      "artists": [
+        {
+          "name": "Altamira",
+          "url": "https://open.spotify.com/artist/12xPPAGu03vdZR3AmWNIxZ"
+        },
+        {
+          "name": "Godoi",
+          "url": "https://open.spotify.com/artist/2zqSYuohoGcP3LvxGWkZRb"
+        },
+        {
+          "name": "Thebosh",
+          "url": "https://open.spotify.com/artist/6NCFegwTfE1dbVEOPrAGxI"
+        },
+        {
+          "name": "ASTRO",
+          "url": "https://open.spotify.com/artist/2yICCgySsAJ2FtIVrnhUm9"
+        }
+      ],
+      "date_added": "2026-11-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 177000,
+      "name": "Uma Vez e Mais Nada",
+      "url": "https://open.spotify.com/track/7sm0KO9YgbQh2SSKipUjre"
+    },
+    {
+      "album": {
         "name": "Unfollow",
         "url": "https://open.spotify.com/album/2WdnOej2SoiuHL05SFy2QI"
       },
@@ -19518,6 +19548,24 @@
       "duration_ms": 100408,
       "name": "\u00c9 Que Eu Preciso Dizer",
       "url": "https://open.spotify.com/track/1kfwsz1ak4qZj75BaHG4YR"
+    },
+    {
+      "album": {
+        "name": "\u00c9 S\u00f3 Voc\u00ea Querer",
+        "url": "https://open.spotify.com/album/10GmId1xDhRzNe7pCLtP1e"
+      },
+      "artists": [
+        {
+          "name": "Pk",
+          "url": "https://open.spotify.com/artist/5xYkM2vMrE23taj6tl7qkm"
+        }
+      ],
+      "date_added": "2026-11-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 141698,
+      "name": "\u00c9 S\u00f3 Voc\u00ea Querer",
+      "url": "https://open.spotify.com/track/24c23RPQypktmK4EQAs7TA"
     },
     {
       "album": {

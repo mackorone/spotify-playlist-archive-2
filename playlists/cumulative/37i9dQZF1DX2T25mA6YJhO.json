@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2024-07-02",
-  "description": "S\u00fabete a la nueva ola del rock espa\u00f1ol. Foto: Ru\u00efnosa y las Strippers de Rahola.",
+  "description": "S\u00fabete a la nueva ola del rock espa\u00f1ol. Foto: Sanguijuelas del Guadiana.",
   "name": "Rock 2026",
   "tracks": [
     {
@@ -110,7 +110,7 @@
       ],
       "date_added": "2026-06-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-27",
       "duration_ms": 202783,
       "name": "1340",
       "url": "https://open.spotify.com/track/0IvDHeEx0iX08EYTV23pvk"
@@ -370,7 +370,7 @@
       ],
       "date_added": "2026-11-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-27",
       "duration_ms": 150528,
       "name": "A punto estoy de ser feliz",
       "url": "https://open.spotify.com/track/3QVzGB6AcsZj1Hw7J4q79t"
@@ -2128,7 +2128,7 @@
       ],
       "date_added": "2026-11-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-27",
       "duration_ms": 198356,
       "name": "CAMBIAR",
       "url": "https://open.spotify.com/track/5hwHhklZKVM4aUGUYd5GOg"
@@ -3933,6 +3933,24 @@
     },
     {
       "album": {
+        "name": "Donde Nunca Ha Entrado Nadie",
+        "url": "https://open.spotify.com/album/4UJH67wEpCSVOcp2rBeUF7"
+      },
+      "artists": [
+        {
+          "name": "Embusteros",
+          "url": "https://open.spotify.com/artist/6f7lvc6nLaTvShpNCJNveE"
+        }
+      ],
+      "date_added": "2026-11-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 202562,
+      "name": "Donde Nunca Ha Entrado Nadie",
+      "url": "https://open.spotify.com/track/13KLxLFDdOlB0KbwCxFEW6"
+    },
+    {
+      "album": {
         "name": "Dos Galaxias",
         "url": "https://open.spotify.com/album/1NES8cPssseE2OU3WwiXTH"
       },
@@ -4262,7 +4280,7 @@
       ],
       "date_added": "2026-05-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-27",
       "duration_ms": 189383,
       "name": "El Bar De Siempre",
       "url": "https://open.spotify.com/track/5buhwtea15sPVccG5Ulv41"
@@ -4334,7 +4352,7 @@
       ],
       "date_added": "2026-10-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-27",
       "duration_ms": 128302,
       "name": "El caf\u00e9 no me hace nada",
       "url": "https://open.spotify.com/track/6WZT8D1BD4cbLQC89C09TO"
@@ -4490,6 +4508,24 @@
       "duration_ms": 196629,
       "name": "El Final",
       "url": "https://open.spotify.com/track/3qcDuXsK4lYgRMm8yK7Y8F"
+    },
+    {
+      "album": {
+        "name": "Un Lugar Donde Tumbarme",
+        "url": "https://open.spotify.com/album/2iqdArydTV5ZxSyIoEw6mL"
+      },
+      "artists": [
+        {
+          "name": "La Paloma",
+          "url": "https://open.spotify.com/artist/6poevqCIGOy8886WKNTHkv"
+        }
+      ],
+      "date_added": "2026-11-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 200109,
+      "name": "El Fr\u00edo",
+      "url": "https://open.spotify.com/track/52cOuIyoGCdZiAvL9YbQgr"
     },
     {
       "album": {
@@ -4808,6 +4844,24 @@
       "duration_ms": 142042,
       "name": "Elegante",
       "url": "https://open.spotify.com/track/6YeaXPb86tGmdlgpizacvb"
+    },
+    {
+      "album": {
+        "name": "Elegiste vivir en Barcelona",
+        "url": "https://open.spotify.com/album/7aAAJe7UQ84XXSRyGTWttv"
+      },
+      "artists": [
+        {
+          "name": "Lisasinson",
+          "url": "https://open.spotify.com/artist/0bvq2O2MrIINNOJTVuqQ32"
+        }
+      ],
+      "date_added": "2026-11-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 163157,
+      "name": "Elegiste vivir en Barcelona",
+      "url": "https://open.spotify.com/track/0sYJbdQOPQz9e0PICyqKnW"
     },
     {
       "album": {
@@ -10513,6 +10567,24 @@
     },
     {
       "album": {
+        "name": "Noche de P\u00e1nico",
+        "url": "https://open.spotify.com/album/04jTOosKmeeBpvEDtsD4wW"
+      },
+      "artists": [
+        {
+          "name": "Nuevos Vicios",
+          "url": "https://open.spotify.com/artist/4DYnKenkvlxMCBrwMjcdst"
+        }
+      ],
+      "date_added": "2026-11-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 250672,
+      "name": "Noche de P\u00e1nico",
+      "url": "https://open.spotify.com/track/7tfmaigofuhzvdozxa414W"
+    },
+    {
+      "album": {
         "name": "NOLOMEREZCO",
         "url": "https://open.spotify.com/album/7FTbB06QGrrhrHwmKB9Or5"
       },
@@ -12581,6 +12653,24 @@
     },
     {
       "album": {
+        "name": "Rumbo a tu Piel",
+        "url": "https://open.spotify.com/album/1V8OnG8NqUWOpQMnZGgC3T"
+      },
+      "artists": [
+        {
+          "name": "Interferencias",
+          "url": "https://open.spotify.com/artist/5FfMaucNsbPciI1kCmVQIN"
+        }
+      ],
+      "date_added": "2026-11-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 227456,
+      "name": "Rumbo a tu Piel",
+      "url": "https://open.spotify.com/track/13WDouTLvIQ5UDWyTgXylt"
+    },
+    {
+      "album": {
         "name": "R\u00c1PIDO, R\u00c1PIDO, R\u00c1PIDO!",
         "url": "https://open.spotify.com/album/5lhXcAG65oMRJqcEoDEg9o"
       },
@@ -12848,7 +12938,7 @@
       ],
       "date_added": "2026-11-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-27",
       "duration_ms": 359000,
       "name": "Serena",
       "url": "https://open.spotify.com/track/242MS2GQQgU0uF0g1zad0v"
@@ -13000,6 +13090,28 @@
       "duration_ms": 173534,
       "name": "Si No Me Muevo",
       "url": "https://open.spotify.com/track/2M5RUpgmQ97T3DWe1iTEtO"
+    },
+    {
+      "album": {
+        "name": "Si no tienes ganas",
+        "url": "https://open.spotify.com/album/5EcgUvPKrN6kC6FL9xUUY0"
+      },
+      "artists": [
+        {
+          "name": "Repion",
+          "url": "https://open.spotify.com/artist/15o4xwiKZWJ6jOFp9LeP24"
+        },
+        {
+          "name": "Despistaos",
+          "url": "https://open.spotify.com/artist/0QE9iXPzgSaBq34OqIZ4n2"
+        }
+      ],
+      "date_added": "2026-11-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 232534,
+      "name": "Si no tienes ganas",
+      "url": "https://open.spotify.com/track/7sqQG4yOdr2JHyNY2CLE1f"
     },
     {
       "album": {
@@ -13314,7 +13426,7 @@
       ],
       "date_added": "2026-11-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-27",
       "duration_ms": 207510,
       "name": "Sold out",
       "url": "https://open.spotify.com/track/6quYpOu1iTFlruK1aDUQyE"
@@ -13734,6 +13846,24 @@
       "duration_ms": 144652,
       "name": "TDA",
       "url": "https://open.spotify.com/track/2mIpVnpIHhIAOXo9Uzr0Hm"
+    },
+    {
+      "album": {
+        "name": "Te Equivocas",
+        "url": "https://open.spotify.com/album/5xZXRa3uZUKn2yNwF2M6MJ"
+      },
+      "artists": [
+        {
+          "name": "Las Dianas",
+          "url": "https://open.spotify.com/artist/5jTPdO06h2aTkDtHCYMAIm"
+        }
+      ],
+      "date_added": "2026-11-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 160616,
+      "name": "Te Equivocas",
+      "url": "https://open.spotify.com/track/7L2bDJzzp0WlJh9bf254c7"
     },
     {
       "album": {
@@ -15849,6 +15979,24 @@
     },
     {
       "album": {
+        "name": "LAPSUS",
+        "url": "https://open.spotify.com/album/0CuX5fFA0Pebt18mfRmQFy"
+      },
+      "artists": [
+        {
+          "name": "Ultraligera",
+          "url": "https://open.spotify.com/artist/5Vv5llyiK1nlME2UNDzPBB"
+        }
+      ],
+      "date_added": "2026-11-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 243320,
+      "name": "YUGULAR",
+      "url": "https://open.spotify.com/track/7gXhtx6aO5yO4XjsAeOFlF"
+    },
+    {
+      "album": {
         "name": "Zero Az\u00facar",
         "url": "https://open.spotify.com/album/1GOJQzYOLN0KKtIYjSMHsp"
       },
@@ -15918,7 +16066,7 @@
       ],
       "date_added": "2026-11-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-27",
       "duration_ms": 181445,
       "name": "\u00bfCu\u00e1nto Tiempo Llevo As\u00ed?",
       "url": "https://open.spotify.com/track/7cusjDG0BuYowOY8ZRX9ij"

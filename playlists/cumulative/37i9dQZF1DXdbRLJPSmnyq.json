@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2023-07-07",
-  "description": "All the J-Pop tunes you love in one playlist. Cover: XG ",
+  "description": "All the J-Pop tunes you love in one playlist. Cover: Hikaru Utada",
   "name": "J-Pop Hits",
   "tracks": [
     {
@@ -492,7 +492,7 @@
       ],
       "date_added": "2026-02-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-27",
       "duration_ms": 205306,
       "name": "Bloom",
       "url": "https://open.spotify.com/track/2ezkOPL49H0ZrQYM6y328n"
@@ -2051,6 +2051,24 @@
     },
     {
       "album": {
+        "name": "hi-liter",
+        "url": "https://open.spotify.com/album/3AqgIAjEf3cY61hL3WAOSt"
+      },
+      "artists": [
+        {
+          "name": "Suchmos",
+          "url": "https://open.spotify.com/artist/0O0hxUrO2PKxZknken3R24"
+        }
+      ],
+      "date_added": "2026-11-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 269374,
+      "name": "hi-liter",
+      "url": "https://open.spotify.com/track/5aUsHc4eKXwtzd2xSx2t5m"
+    },
+    {
+      "album": {
         "name": "HIDE YOU feat.chelmico",
         "url": "https://open.spotify.com/album/6cdRL2cZYmuoevIdq4AxiQ"
       },
@@ -2329,6 +2347,24 @@
     },
     {
       "album": {
+        "name": "Intentions",
+        "url": "https://open.spotify.com/album/6wun2ov3Z9XcB7m5QTvtQC"
+      },
+      "artists": [
+        {
+          "name": "Hikaru Utada",
+          "url": "https://open.spotify.com/artist/7lbSsjYACZHn1MSDXPxNF2"
+        }
+      ],
+      "date_added": "2026-11-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 216922,
+      "name": "Intentions",
+      "url": "https://open.spotify.com/track/1xRYcOjkWUT0p9juSMqjcG"
+    },
+    {
+      "album": {
         "name": "Intergalactic Bound",
         "url": "https://open.spotify.com/album/7r4h1bFrkehz6ssyx6ox1i"
       },
@@ -2557,6 +2593,24 @@
     },
     {
       "album": {
+        "name": "KILLA",
+        "url": "https://open.spotify.com/album/67kLj3jphSXfZpTkPL5UsN"
+      },
+      "artists": [
+        {
+          "name": "YOASOBI",
+          "url": "https://open.spotify.com/artist/64tJ2EAv1R6UaZqc4iOCyj"
+        }
+      ],
+      "date_added": "2026-11-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 184584,
+      "name": "KILLA",
+      "url": "https://open.spotify.com/track/62QKQ1q60ia1JdRq3z5QLe"
+    },
+    {
+      "album": {
         "name": "EYE",
         "url": "https://open.spotify.com/album/0SxFKQ1SqA3SF9EPcSG5E0"
       },
@@ -2782,6 +2836,24 @@
       "duration_ms": 232173,
       "name": "Lonely in Gorgeous",
       "url": "https://open.spotify.com/track/1Dl1SlF0wySEhHDrn74f3H"
+    },
+    {
+      "album": {
+        "name": "SUIATSU",
+        "url": "https://open.spotify.com/album/67DGuV6YAyUMj9JEv2QMIA"
+      },
+      "artists": [
+        {
+          "name": "Stray Kids",
+          "url": "https://open.spotify.com/artist/2dIgFjalVxs4ThymZ67YCE"
+        }
+      ],
+      "date_added": "2026-11-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 192000,
+      "name": "Lonely Night",
+      "url": "https://open.spotify.com/track/5IaDSdgvQp003f4RAzr6Da"
     },
     {
       "album": {
@@ -5029,6 +5101,28 @@
     },
     {
       "album": {
+        "name": "Teenage Devotion",
+        "url": "https://open.spotify.com/album/1nGuboCM3nt1eusEGQmSdZ"
+      },
+      "artists": [
+        {
+          "name": "Hana Hope",
+          "url": "https://open.spotify.com/artist/0HRps5F3fAsPL6QmFCdK7a"
+        },
+        {
+          "name": "Rol3ert",
+          "url": "https://open.spotify.com/artist/3fJfvyieATQfDE47J42H2E"
+        }
+      ],
+      "date_added": "2026-11-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 193461,
+      "name": "Teenage Devotion",
+      "url": "https://open.spotify.com/track/6NDuGBAn0ENZ6sGFJW2uUJ"
+    },
+    {
+      "album": {
         "name": "TEST ME",
         "url": "https://open.spotify.com/album/4zWZzoe6u8FdjSYowVPKeZ"
       },
@@ -5956,7 +6050,7 @@
       ],
       "date_added": "2025-10-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-27",
       "duration_ms": 152546,
       "name": "\u3044\u3068\u304a\u3057\u3044\u65e5\u3005",
       "url": "https://open.spotify.com/track/0QeD68D7Up78qybkCsGFBI"
@@ -6932,7 +7026,7 @@
       ],
       "date_added": "2026-02-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-27",
       "duration_ms": 248874,
       "name": "\u30b7\u30f3\u30ae\u30e5\u30e9\u30ea\u30c6\u30a3",
       "url": "https://open.spotify.com/track/0XamVfkI6uAAjvpbVnerBx"
@@ -9326,7 +9420,7 @@
       ],
       "date_added": "2025-10-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-27",
       "duration_ms": 213693,
       "name": "\u706f\u3092\u8b77\u308b",
       "url": "https://open.spotify.com/track/0tu73VStd4PNxbF37Y6YSD"
@@ -9734,7 +9828,7 @@
       ],
       "date_added": "2026-02-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-27",
       "duration_ms": 234471,
       "name": "\u86f9",
       "url": "https://open.spotify.com/track/3WE8A4ZHK7CDtXtcvpJxnC"

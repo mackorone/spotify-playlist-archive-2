@@ -4,7 +4,7 @@
 
 > Du Congo, au monde 🌍 avec Tontons BabyDaiz et Tiakola.
 
-824 songs - 1 day 22 hr 4 min
+825 songs - 1 day 22 hr 7 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -576,7 +576,7 @@
 | [Nous Deux](https://open.spotify.com/track/4SKamIlowPlWqUYwc0M31W) | [Gaëlle](https://open.spotify.com/artist/1uN3byO6WUB2dSDg6XpsEw), [Hiro](https://open.spotify.com/artist/64XqdWjtYhfMJeQB7wtAwS) | [Nous Deux](https://open.spotify.com/album/70kLp4rJ4DEQTcewmFw16p) | 2:14 | 2024-09-13 | 2025-02-01 |
 | [Nous deux](https://open.spotify.com/track/6APVzgDu9ni6rIcSubOZz3) | [SDM](https://open.spotify.com/artist/0LKAV3zJ8a8AIGnyc5OvfB) | [Nous deux](https://open.spotify.com/album/4P6ow8BZHDgWESXQMjUUzK) | 3:41 | 2023-04-07 | 2024-09-28 |
 | [Nous2](https://open.spotify.com/track/2oswXAs7dpgNyJbjqUOZKB) | [Fally Ipupa](https://open.spotify.com/artist/6IflU2YrY5Cyw7YoBICosV) | [Formule 7](https://open.spotify.com/album/4wIVgSLd2xKHdp3Bs6iVsf) | 7:00 | 2023-06-30 | 2024-03-09 |
-| [Nouveaux Vêtements](https://open.spotify.com/track/0u2uOHTTxWDclpULXVVktT) | [Jungeli](https://open.spotify.com/artist/6L8y2rKomt32RmT4wfwZS7) | [Face ID](https://open.spotify.com/album/01FQeOcF3uekuC3EQKq9jy) | 2:17 | 2026-07-24 |  |
+| [Nouveaux Vêtements](https://open.spotify.com/track/0u2uOHTTxWDclpULXVVktT) | [Jungeli](https://open.spotify.com/artist/6L8y2rKomt32RmT4wfwZS7) | [Face ID](https://open.spotify.com/album/01FQeOcF3uekuC3EQKq9jy) | 2:17 | 2026-07-24 | 2026-11-27 |
 | [Numéro](https://open.spotify.com/track/4Cjw87Y6SgBy1avnn1ahAa) | [Jogga](https://open.spotify.com/artist/6kByPyGr60aeCsb8TGOWav) | [Numéro](https://open.spotify.com/album/7D9kfm5IdIkcs0Jp0J4hXi) | 3:00 | 2025-04-18 | 2025-09-06 |
 | [Nyash](https://open.spotify.com/track/5ODAaPhmmLTzNV6uVMg09X) | [DJ P2N](https://open.spotify.com/artist/6JNbpPDLC00W4j3MghVxFN), [The Gucci](https://open.spotify.com/artist/3O1lIvIcDzKIooiGxGf565) | [Nyash](https://open.spotify.com/album/0AC6NOg0zsesoxhWnTUhHh) | 3:42 | 2025-03-14 | 2025-04-26 |
 | [Nyonga](https://open.spotify.com/track/3NthrOhvKorMzs4Mle09vP) | [DODY OBAMS](https://open.spotify.com/artist/3B7F4YIsNAoFHm605iOcz9) | [Nyonga](https://open.spotify.com/album/147gWZmqapFKm2tc85GVvU) | 3:01 | 2025-01-24 | 2025-02-22 |
@@ -635,6 +635,7 @@
 | [Petit génie](https://open.spotify.com/track/6z0GwK274ToNmvxfyYPuHw) | [Jungeli](https://open.spotify.com/artist/6L8y2rKomt32RmT4wfwZS7), [Imen Es](https://open.spotify.com/artist/7CW7QdOgRStOg7JktRuZ3E), [Alonzo](https://open.spotify.com/artist/2z2TRvloJt4EfUNQp9rHAi), [Abou Debeing](https://open.spotify.com/artist/2jFnPm8VeSO19i6B8blXB5), [Lossa](https://open.spotify.com/artist/5ZlyVrDhzKVvaZNj3b58fE) | [Petit génie](https://open.spotify.com/album/2jhcUs6UTxBncqB02VZpyD) | 3:37 | 2023-09-29 | 2024-08-24 |
 | [Petit génie](https://open.spotify.com/track/1eldTykrnkEBLX41bk5eMw) | [Jungeli](https://open.spotify.com/artist/6L8y2rKomt32RmT4wfwZS7), [Imen Es](https://open.spotify.com/artist/7CW7QdOgRStOg7JktRuZ3E), [Alonzo](https://open.spotify.com/artist/2z2TRvloJt4EfUNQp9rHAi), [Abou Debeing](https://open.spotify.com/artist/2jFnPm8VeSO19i6B8blXB5), [Lossa](https://open.spotify.com/artist/5ZlyVrDhzKVvaZNj3b58fE) | [Petit génie](https://open.spotify.com/album/4Ta3fRzeMUtQlQrrcn1cuE) | 3:37 | 2023-12-01 | 2024-04-19 |
 | [Petit à Petit](https://open.spotify.com/track/24Eg4AIHzKntUr89tXWNw5) | [DAVINHOR](https://open.spotify.com/artist/3viiIGEp9jn0sKz4K0D6HT) | [Petit à Petit](https://open.spotify.com/album/21nt18qQXRiQpezjjXPAba) | 2:57 | 2025-04-25 | 2026-02-07 |
+| [Phumela](https://open.spotify.com/track/6jfwLeCsMOuFtlXk5SdqG2) | [BabyDaiz](https://open.spotify.com/artist/75ffkjzl2yQm2wRvP5QL4s), [KindlyNxsh](https://open.spotify.com/artist/10G2iWM2FoafpNGqXZ9QMR), [Brotherkupa](https://open.spotify.com/artist/2SRkMY6LxkfTMqktaFn32r) | [KINDOKI](https://open.spotify.com/album/6XFYhNt5ma9mTyWNWin8lD) | 3:00 | 2026-11-27 |  |
 | [Pieteron](https://open.spotify.com/track/2hT7SV5QUhbO0p8T1dkHS6) | [Fulu Miziki](https://open.spotify.com/artist/5YpOlimBuGWDamh62kx4cu) | [Pieteron](https://open.spotify.com/album/2e1ZMyWJzNs7AYyswMeOsG) | 3:22 | 2023-11-24 | 2024-01-05 |
 | [Pili Pili](https://open.spotify.com/track/2jPbUHhzykvFjlPe9syyUO) | [RJ Kanierra](https://open.spotify.com/artist/3bUA7po6oFl7sVyq6ukrlx), [Innoss'B](https://open.spotify.com/artist/1nLQWXXs7ZauI4SC6rUFPV) | [Pili Pili](https://open.spotify.com/album/6aGaXFjY6peextp0uV59xR) | 3:49 | 2026-06-12 |  |
 | [PILON](https://open.spotify.com/track/50i2I2eHuKp75PfmrbFGqW) | [Samy Lrzo](https://open.spotify.com/artist/2K1JOV2mHYXJh0kpNSwER4), [Gambino La MG](https://open.spotify.com/artist/2xdTZfuOFh2ylOnnTEs5sg) | [PILON](https://open.spotify.com/album/2OmNSawCtKwg9S9RMG6KmC) | 3:05 | 2024-03-29 | 2024-08-31 |

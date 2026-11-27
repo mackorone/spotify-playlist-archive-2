@@ -4285,6 +4285,28 @@
     },
     {
       "album": {
+        "name": "Law Khayef",
+        "url": "https://open.spotify.com/album/5hMdszshrK5CGpYaDtMyhb"
+      },
+      "artists": [
+        {
+          "name": "Haifa Wehbe",
+          "url": "https://open.spotify.com/artist/05ai8foZsZwk0cni0IOuNj"
+        },
+        {
+          "name": "Al Nather",
+          "url": "https://open.spotify.com/artist/5qvrUMJ8oO3BswrQO3w0hl"
+        }
+      ],
+      "date_added": "2026-11-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 233639,
+      "name": "Law Khayef",
+      "url": "https://open.spotify.com/track/7gOtWJHThMDq7gLYTbMAOa"
+    },
+    {
+      "album": {
         "name": "Leeh",
         "url": "https://open.spotify.com/album/3MeDB8esgcm5JtzFOu8kS2"
       },
@@ -8224,7 +8246,7 @@
       ],
       "date_added": "2025-10-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-27",
       "duration_ms": 204250,
       "name": "\u062f\u0648\u0631 \u0639\u0630\u0631",
       "url": "https://open.spotify.com/track/3xdIuk8WVIX9xedX4TZMzB"

@@ -2,9 +2,9 @@
 
 ### [Música Católica ](https://open.spotify.com/playlist/37i9dQZF1DX9foP18YmfwY)
 
-> Os padres e nomes que movem multidões pelo país\. Foto: Comunidade Católica Shalom
+> Os padres e nomes que movem multidões pelo país\. Foto: Ramon e Rafael
 
-245 songs - 19 hr 39 min
+246 songs - 19 hr 42 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -117,7 +117,7 @@
 | [João 2,1 \- Milagres e Prodígios](https://open.spotify.com/track/2aHkYiTUWNOiaomdvxfe44) | [Marilia Mello](https://open.spotify.com/artist/4kQo1gccdNf15nCHkzFrd6) | [João 2,1 \(Milagres e Prodígios\)](https://open.spotify.com/album/0LsatqD9aTqq5vqOQBODFs) | 4:09 | 2023-10-06 | 2023-10-21 |
 | [Justo é o Senhor](https://open.spotify.com/track/0aCKVjNUsSmLwX0Czdy9Lm) | [Vida Reluz](https://open.spotify.com/artist/5SjEX4uwXN8CbVpWqVVFTD), [Rafinha Oliveira](https://open.spotify.com/artist/6qk84dyqqdvo3dswL9Qs69) | [Justo é o Senhor](https://open.spotify.com/album/1MTOoIHMEI4ibmh4Yhvlnf) | 3:41 | 2023-06-02 | 2023-07-15 |
 | [Já Deu Certo](https://open.spotify.com/track/1pZJJiJC4CR9fMOhXP3Xm3) | [Padre Rodrigo Natal](https://open.spotify.com/artist/0GLzzNhSoCbwsXOCADMo07), [Canthares](https://open.spotify.com/artist/0lCYigvugHfAXSHGJHUtdr) | [Já Deu Certo](https://open.spotify.com/album/3XI0e2tIRvuxbMbHWvC7Ns) | 4:36 | 2022-09-02 | 2023-12-23 |
-| [Levanta e Anda \- Ao Vivo](https://open.spotify.com/track/2jycVbKMZWU5raNSWkdxxe) | [Padre Marcelo Rossi](https://open.spotify.com/artist/0BLa22ZCJcTxW78hoNlFA9) | [Ágape Amor Divino \(Ao Vivo\) \[Deluxe\]](https://open.spotify.com/album/57hepB3nk9cMT0FHeXtkYm) | 5:24 | 2024-10-18 |  |
+| [Levanta e Anda \- Ao Vivo](https://open.spotify.com/track/2jycVbKMZWU5raNSWkdxxe) | [Padre Marcelo Rossi](https://open.spotify.com/artist/0BLa22ZCJcTxW78hoNlFA9) | [Ágape Amor Divino \(Ao Vivo\) \[Deluxe\]](https://open.spotify.com/album/57hepB3nk9cMT0FHeXtkYm) | 5:24 | 2024-10-18 | 2026-11-27 |
 | [Lindo Céu](https://open.spotify.com/track/0CPz0cchr6ITUbzdLwsSYi) | [GBA Stage](https://open.spotify.com/artist/6s7YSVBs6f9Asf9UZydQ4s), [Jessica Dias](https://open.spotify.com/artist/6nCdSWwlMM1cUfAWrHrnvD) | [Gba Stage, Vol\. 23](https://open.spotify.com/album/2D4CcXjhXqVGeScmv9xtt1) | 3:56 | 2024-10-04 | 2024-10-26 |
 | [Longe de Deus, Tudo É Ilusão](https://open.spotify.com/track/6tFow5ytjJCSOIVngI2uNc) | [Cleiton Saraiva](https://open.spotify.com/artist/2xI0dIjtJhMNGA5NB8GgaO) | [Deus Anda Comigo](https://open.spotify.com/album/7jGddnQXi1xKn1RsXTuk1e) | 3:43 | 2022-09-02 | 2023-05-20 |
 | [Louvando à Maria](https://open.spotify.com/track/08t3MfYsYecOpJubRX3eBi) | [Eliana Ribeiro](https://open.spotify.com/artist/7ffqgUujPJ2BxcFc8BmG5y) | [Louvando à Maria](https://open.spotify.com/album/0yltmAC0k3ki0KFPKqXPT1) | 3:04 | 2025-02-17 | 2025-07-12 |
@@ -139,6 +139,7 @@
 | [Melhor e Mais Feliz \(Kolkata\)](https://open.spotify.com/track/6VFM6XUg0rUGUNhMyQYSuL) | [Celina Borges](https://open.spotify.com/artist/7EEghT52d3DvpgqTxlMy6n) | [Melhor e Mais Feliz \(Kolkata\)](https://open.spotify.com/album/6eO1dMo1F82Nky8dh0IbXP) | 4:13 | 2022-10-14 | 2022-11-13 |
 | [Meu Jeito de Arrumar](https://open.spotify.com/track/6Aup2MCHinKld8gJVCWqBE) | [Ziza Fernandes](https://open.spotify.com/artist/1FpUYWktSYkpryKsKQFWiK) | [Tempus Fugit](https://open.spotify.com/album/3EGoPkoqAueKsFRWVlocOl) | 4:03 | 2023-08-18 | 2023-09-02 |
 | [Meu Mundo](https://open.spotify.com/track/712wkFgYgi6i6xJfFtBoNL) | [Thiago Brado](https://open.spotify.com/artist/7nhFPRuBTebusd2cBMAaEK) | [Meu Acampamento](https://open.spotify.com/album/7nFGxAkZ9iz7h5cho5xIqm) | 5:56 | 2022-09-02 | 2023-02-25 |
+| [Meu Pai](https://open.spotify.com/track/2c1Hf0wIJXhKMcd0YAUkHF) | [Ramon e Rafael](https://open.spotify.com/artist/0ivA4QP4IYhr99InHqVOLV) | [O Som da Igreja, Vol\. 2](https://open.spotify.com/album/1JZyvWoQqQU8ZD3NFEy86G) | 3:44 | 2026-11-27 |  |
 | [Milagre de Amor](https://open.spotify.com/track/5u162KDc5vVtLW8NVxvVgg) | [GBA Stage](https://open.spotify.com/artist/6s7YSVBs6f9Asf9UZydQ4s), [Davidson Silva](https://open.spotify.com/artist/1sWAcwfPuIuEdS4dSTd3HR) | [Milagre de Amor](https://open.spotify.com/album/7GMUQjOfVNZW38ewetR7Ew) | 4:16 | 2025-02-07 |  |
 | [Minha Vocação](https://open.spotify.com/track/2bb2BDNQXu3VJeuporvpoO) | [Juliana de Paula](https://open.spotify.com/artist/3gPXWkF4RfdzSRFBUGj481), [Pitter](https://open.spotify.com/artist/698WBQoZEhZKSCHpwoHZQ2), [Ana Lúcia](https://open.spotify.com/artist/24zpYD2LDhoI30qaUN6Qxi) | [Minha Vocação](https://open.spotify.com/album/0s95JwpzAH7S9PWV3tg5Yi) | 4:14 | 2022-09-02 |  |
 | [Minha Voz Te Louva](https://open.spotify.com/track/2RkN94PC0QWoYMuVnxyNUh) | [Anjos de Resgate](https://open.spotify.com/artist/6NdqC1F1roz6KejkMjoIJK) | [Minha Voz Te Louva](https://open.spotify.com/album/1LSnfT1VyBTCjKg3tXejFm) | 3:20 | 2023-03-11 | 2023-07-29 |

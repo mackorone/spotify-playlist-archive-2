@@ -4,7 +4,7 @@
 
 > explore the alt\-sounds of Copenhagen and beyond 🌀 Cover: Erika de Casier
 
-384 songs - 21 hr 47 min
+386 songs - 21 hr 52 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -34,6 +34,7 @@
 | [Baby](https://open.spotify.com/track/2j5OVXMkRA0E3w27HHJN1A) | [Grant](https://open.spotify.com/artist/6SkVKlAmIWVD0LQvCGQqSj) | [Baby / Baby Pt\. 2](https://open.spotify.com/album/3L6eKwIWVOxRaLOIuQTsxp) | 3:29 | 2026-11-05 |  |
 | [Back of a car](https://open.spotify.com/track/77gA40f86KuiqzFMnEh2Ww) | [A Good Year](https://open.spotify.com/artist/30F8R1qAerw8VvYtRGGg0j), [Koilwood](https://open.spotify.com/artist/4GKDR0aZmXTNpvDBcUy1m2) | [Back of a car](https://open.spotify.com/album/70I3QI750IKQK7UMgSMeve) | 2:31 | 2026-04-09 |  |
 | [Back Of My Hand](https://open.spotify.com/track/5DBpe50clTbGYnJZCIbUVG) | [Horse Vision](https://open.spotify.com/artist/28gAkTGnjn8QZllb4EU4OM) | [Back Of My Hand](https://open.spotify.com/album/1rtMcCl8GC8tpp2NShuS0d) | 2:40 | 2025-09-26 |  |
+| [Band](https://open.spotify.com/track/2Gz4c8wVrfpIq0eJHXz91p) | [haloplus+](https://open.spotify.com/artist/224oiUpyCYmxo3WJQW3EPB) | [Band](https://open.spotify.com/album/2MmlbUxJqM7FC49KIURRsq) | 2:38 | 2026-11-27 |  |
 | [Barrons Hotel \(I, To, Thee.\)](https://open.spotify.com/track/0eeyCEOLKsVVWxfZP0zA8k) | [Purelink](https://open.spotify.com/artist/2kUrBcfh7PVIivyYGAVjrQ), [Rainy Miller](https://open.spotify.com/artist/53LAWIqLkYE3N2UFod80A3) | [Barrons Hotel/Yellow Bones](https://open.spotify.com/album/4DiYXaIgNZZBKHwWBjXr6Y) | 5:54 | 2026-04-30 |  |
 | [Be My](https://open.spotify.com/track/0R224dzbGFzYy4bQgnO19J) | [RIP Swirl](https://open.spotify.com/artist/2qKskILMPYdropXMRJhn0V), [Mother Soki](https://open.spotify.com/artist/08W3G3y83p0TLqqjiyKXBk) | [Be My](https://open.spotify.com/album/3tNlHGHKxgbvMsg440Nnov) | 3:04 | 2026-07-08 |  |
 | [Berlin](https://open.spotify.com/track/17XxoRBKPgZqSzYLFW3gto) | [Quiet Light](https://open.spotify.com/artist/6Uy2IwBjxdF0MxQVIN18n9) | [Berlin](https://open.spotify.com/album/7fWswbqrYkq5epwUQAJtFU) | 3:23 | 2026-02-26 |  |
@@ -75,6 +76,7 @@
 | [curbstone](https://open.spotify.com/track/2W0DPHfAgEXQQwdo4EQoKS) | [mikey](https://open.spotify.com/artist/2ftTkWEgbZL8ziKDBRI9nr) | [curbstone](https://open.spotify.com/album/6TtFyyYzlwhEuDZoIIQmvt) | 3:19 | 2026-10-02 |  |
 | [Cute Little Spore](https://open.spotify.com/track/6qRLpNRWAAiaF1SBNmutHs) | [Velvy](https://open.spotify.com/artist/3QOzYZsjM7lKys2jAyg9JV) | [The Room We Lived In](https://open.spotify.com/album/00wYWrRYnSOBLNFSqYJn42) | 3:12 | 2025-03-13 | 2025-10-18 |
 | [CY](https://open.spotify.com/track/3qKYZAvIbxsxMtBLDucDz6) | [Mother Soki](https://open.spotify.com/artist/08W3G3y83p0TLqqjiyKXBk) | [CY](https://open.spotify.com/album/16UbcoUWBK6nwzPfCnO1R2) | 4:30 | 2025-10-31 | 2026-03-20 |
+| [Dare to talk](https://open.spotify.com/track/0vSovpy2oSbWg9z6hhj02h) | [Zoumer](https://open.spotify.com/artist/2gvZEOoUMIzYFrXeqMaALB) | [Dare to talk](https://open.spotify.com/album/7oFKuh1onKn1DaHb99sC6B) | 2:23 | 2026-11-27 |  |
 | [daughter](https://open.spotify.com/track/5VRbDeF87UzXK8LI1HLk3f) | [shinyhunt](https://open.spotify.com/artist/6HzmHkcqEfZjqzsd5rGG63) | [daughter](https://open.spotify.com/album/4FlWe4YmzMi9LVFZlza1AK) | 4:46 | 2025-06-06 | 2025-10-11 |
 | [Days In My Arms](https://open.spotify.com/track/6juSVsEDuNqM2Zp8D0kK5L) | [Milan W.](https://open.spotify.com/artist/4ZCux8WXdeKCoARMg1JSok) | [Leave Another Day](https://open.spotify.com/album/40UEAKeQY7F59p1dLFrD24) | 4:00 | 2025-03-13 | 2026-01-17 |
 | [Days Incomplete](https://open.spotify.com/track/7hzXbAbf3okLa0kpb39tG9) | [Fine](https://open.spotify.com/artist/2356dfnXmbn9pH0xE2sYQ5) | [Rocky Top Ballads](https://open.spotify.com/album/55FiMoQX3KBZo5hawtpofc) | 3:39 | 2025-03-13 | 2025-09-27 |
@@ -151,7 +153,7 @@
 | [Green Edge](https://open.spotify.com/track/2VFnC7z1CCX0iWQZyAbOB9) | [Colle](https://open.spotify.com/artist/1Ntmc8ccjS54sdx3ZVqqPI) | [Montalvo](https://open.spotify.com/album/5hb0lF7BfVsxwkTP8W7Agr) | 3:32 | 2025-03-13 |  |
 | [Grow](https://open.spotify.com/track/6S2WWtLiVy4qEbQwRRAEzv) | [inrain](https://open.spotify.com/artist/7kODJsPZCXFeAB0gPOSHC1) | [Rise](https://open.spotify.com/album/4zYodUV4okpIGgWA0g1Fa3) | 3:00 | 2026-04-30 |  |
 | [Guess It's Wrecked](https://open.spotify.com/track/1m8hRVS4d1naBsHNZDKV33) | [Moin](https://open.spotify.com/artist/3HKbW1X4Aj2RZU6ruh3a0e), [Olan Monk](https://open.spotify.com/artist/3BBWf8gJdcOI5EwrptKGSM) | [You Never End](https://open.spotify.com/album/06IJJi2iZOfJvHWFM8lRI9) | 2:09 | 2025-03-13 | 2026-01-24 |
-| [Gums](https://open.spotify.com/track/1SPkDEDUnOZqMfcRPPMYgu) | [Blue Mena](https://open.spotify.com/artist/0OVCaaj4RxjhMe7vHsPPCa) | [gums](https://open.spotify.com/album/5WIoze1Mah2RAPGwWefQOa) | 3:38 | 2025-04-24 |  |
+| [Gums](https://open.spotify.com/track/1SPkDEDUnOZqMfcRPPMYgu) | [Blue Mena](https://open.spotify.com/artist/0OVCaaj4RxjhMe7vHsPPCa) | [gums](https://open.spotify.com/album/5WIoze1Mah2RAPGwWefQOa) | 3:38 | 2025-04-24 | 2026-11-27 |
 | [Habits](https://open.spotify.com/track/4e1kPElO9MSRiyE7QGHZuF) | [Ragnhild og](https://open.spotify.com/artist/48WSqLS1CDGcKE7NUwdHNt) | [Habits](https://open.spotify.com/album/5RlpuOflr8i0c989tds0vx) | 4:26 | 2025-09-26 |  |
 | [Haircuts](https://open.spotify.com/track/5pXrgtPk7YQOIwGvakglnk) | [Barbro](https://open.spotify.com/artist/4xLgZcnFsAbYKBfsQEJGKY), [Tiberius b](https://open.spotify.com/artist/0Kt443UQm5aqR2WCwqSMe0) | [Haircuts](https://open.spotify.com/album/1EtG8S1NEVLTUrx3G8teB7) | 3:38 | 2025-09-05 | 2026-05-01 |
 | [Halftime Dream Dome](https://open.spotify.com/track/4c0mww51628TfyDyFYPUPy) | [Rogergoon](https://open.spotify.com/artist/6wLdaFwOKydBughkGExqUd) | [Halftime Dream Dome](https://open.spotify.com/album/0oJJtHOTzJn6rWIvQFNRMu) | 3:26 | 2026-01-21 |  |
@@ -240,7 +242,7 @@
 | [NOT 2NITE \(feat\. Cansu Kandemir\)](https://open.spotify.com/track/3deDVVLNFHoLccEarFE6UZ) | [Rat Heart](https://open.spotify.com/artist/4bM1ixwFMF5CJhL1Bi7c3e), [Cansu Kandemir](https://open.spotify.com/artist/40psfIeWHQLuytUKWzxrFv) | [Dancin' In The Streets](https://open.spotify.com/album/7cRn8O6Z0BHY6jGpduuUKZ) | 6:09 | 2025-11-07 |  |
 | [Not Likely](https://open.spotify.com/track/1eJ2ADk4tZPXpS4cVXoY2k) | [Alana Markel](https://open.spotify.com/artist/6PC5HPcQCXiidE2DKTAwoY) | [Not Likely](https://open.spotify.com/album/4tzPkWNXFukd4VVJgeb32X) | 2:34 | 2026-09-17 |  |
 | [Not Offended](https://open.spotify.com/track/4wDTwzp2JuuD4UKAP2jrD8) | [Mija Milovic](https://open.spotify.com/artist/2OOCBx8T5zRIv2tLXF8l59) | [Not Offended](https://open.spotify.com/album/68o9R9l54MZKYsV0xD5zR0) | 3:05 | 2025-06-19 | 2026-03-07 |
-| [not yet](https://open.spotify.com/track/1gU7Z66t6Urh6tnefEi9lr) | [Kaho Matsui](https://open.spotify.com/artist/2ahVQ3HBZfU8RGxwIgNfnU) | [nightmare intercom](https://open.spotify.com/album/2ten2ozCkcuMgpWNYWwOBC) | 3:21 | 2026-01-16 |  |
+| [not yet](https://open.spotify.com/track/1gU7Z66t6Urh6tnefEi9lr) | [Kaho Matsui](https://open.spotify.com/artist/2ahVQ3HBZfU8RGxwIgNfnU) | [nightmare intercom](https://open.spotify.com/album/2ten2ozCkcuMgpWNYWwOBC) | 3:21 | 2026-01-16 | 2026-11-27 |
 | [Nothing's Really Over, Not With Anyone](https://open.spotify.com/track/58FryVfE2TK3vRu64yWkBY) | [Venus Anon](https://open.spotify.com/artist/7ku2IztgbUo8QcB87vKqRg) | [Catharsis](https://open.spotify.com/album/66gqu98OyVLm1yrfDKtdOm) | 2:22 | 2025-03-13 | 2025-09-13 |
 | [Now I've Got A Lot You Know](https://open.spotify.com/track/7IBcEGpyByHkGMbbXIDdFR) | [Sophia Stel](https://open.spotify.com/artist/18w9tq3c2x11niEFNYqeex) | [Now I've Got A Lot You Know](https://open.spotify.com/album/1aCqkBhJIJGzvhDIx5PuQu) | 5:10 | 2026-08-21 |  |
 | [Numb](https://open.spotify.com/track/3R3gSrDHRnAu0ZMxXPaqd4) | [Melodi Ghazal](https://open.spotify.com/artist/6f05TSa46XPA6UoITTjqwm) | [Numb](https://open.spotify.com/album/4hUxwuyEjww2DH1RrdIqlK) | 2:53 | 2026-01-23 |  |

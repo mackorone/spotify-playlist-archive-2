@@ -1718,7 +1718,7 @@
       ],
       "date_added": "2025-12-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-27",
       "duration_ms": 155424,
       "name": "CAPAZ PUEDEN SONAR PERO",
       "url": "https://open.spotify.com/track/0jKIrsHNLiQ2QbklqSSk46"
@@ -4798,7 +4798,7 @@
       ],
       "date_added": "2025-04-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-27",
       "duration_ms": 170713,
       "name": "HONEY",
       "url": "https://open.spotify.com/track/5l6dRaGzi21yzNlbl6jBjO"
@@ -7406,7 +7406,7 @@
       ],
       "date_added": "2026-11-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-27",
       "duration_ms": 152762,
       "name": "Noviembre III",
       "url": "https://open.spotify.com/track/2KjNPXUrf5w2gOEWAqcYcJ"
@@ -8197,6 +8197,32 @@
     },
     {
       "album": {
+        "name": "Por Hoy",
+        "url": "https://open.spotify.com/album/0NDo0F1oZQsX9tzJ8ffwig"
+      },
+      "artists": [
+        {
+          "name": "Les K",
+          "url": "https://open.spotify.com/artist/5EaOzIjVdEXYJFX6QaX206"
+        },
+        {
+          "name": "sin1rostro",
+          "url": "https://open.spotify.com/artist/5d5rASnyRPeheVxkp3MT4A"
+        },
+        {
+          "name": "El Esca",
+          "url": "https://open.spotify.com/artist/7GdYY1koOX8nAt1sDFlfzt"
+        }
+      ],
+      "date_added": "2026-11-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 291209,
+      "name": "Por Hoy",
+      "url": "https://open.spotify.com/track/02srwJNEGAPzAcMoY3nZBZ"
+    },
+    {
+      "album": {
         "name": "Porkeria",
         "url": "https://open.spotify.com/album/3PKRITgQRTmZxaEilFqKOz"
       },
@@ -8554,7 +8580,7 @@
       ],
       "date_added": "2026-06-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-27",
       "duration_ms": 432405,
       "name": "RAPSINCORTE 51",
       "url": "https://open.spotify.com/track/1yYXWfxAbcycUNl6irdvrh"

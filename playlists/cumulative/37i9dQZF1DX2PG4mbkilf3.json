@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-02-24",
-  "description": "Your guide to R&B in Canada, with Maz B from Winnipeg, MB.",
+  "description": "Your guide to R&B in Canada, with Samant and Lou Val.",
   "name": "Mood Ring ",
   "tracks": [
     {
@@ -502,7 +502,7 @@
       ],
       "date_added": "2026-11-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-27",
       "duration_ms": 285405,
       "name": "405",
       "url": "https://open.spotify.com/track/2vIPNCjH3Mr9GYSj3Hq5kE"
@@ -538,7 +538,7 @@
       ],
       "date_added": "2026-10-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-27",
       "duration_ms": 157090,
       "name": "456",
       "url": "https://open.spotify.com/track/4SU737Kw8An25yekcF3UFk"
@@ -1724,7 +1724,7 @@
       ],
       "date_added": "2026-09-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-27",
       "duration_ms": 151011,
       "name": "Alright, alright",
       "url": "https://open.spotify.com/track/4vIIDIYWvlMlrXA60n1rcD"
@@ -2766,7 +2766,7 @@
       ],
       "date_added": "2026-07-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-27",
       "duration_ms": 256034,
       "name": "Bad Timing",
       "url": "https://open.spotify.com/track/2RCATsDsg3vBL3x561PJ1w"
@@ -7731,6 +7731,24 @@
     },
     {
       "album": {
+        "name": "Do You?",
+        "url": "https://open.spotify.com/album/0GNY44hAceiSWXGmdI8qCF"
+      },
+      "artists": [
+        {
+          "name": "\u1e62\u1eb9w\u00e0",
+          "url": "https://open.spotify.com/artist/0O4ZT28upUvTpqFICunfVK"
+        }
+      ],
+      "date_added": "2026-11-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 225807,
+      "name": "Do You?",
+      "url": "https://open.spotify.com/track/4dexkJ1ZsLnPa23vFU4zaG"
+    },
+    {
+      "album": {
         "name": "Keshia Chant\u00e9",
         "url": "https://open.spotify.com/album/5DX2VIiIzs2YOxIwu5ladI"
       },
@@ -7898,6 +7916,24 @@
       "duration_ms": 198260,
       "name": "Don't Go Far",
       "url": "https://open.spotify.com/track/33qLiRPjkus5clxQvBBLgW"
+    },
+    {
+      "album": {
+        "name": "Don't Let Go",
+        "url": "https://open.spotify.com/album/5aCugSqPKz7jDRCmCf7Ug6"
+      },
+      "artists": [
+        {
+          "name": "KAYAM",
+          "url": "https://open.spotify.com/artist/58UJUfMaQRjFlDxawMuOru"
+        }
+      ],
+      "date_added": "2026-11-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 178908,
+      "name": "Don't Let Go",
+      "url": "https://open.spotify.com/track/2XpcpFQELGnKygESCj7ka1"
     },
     {
       "album": {
@@ -8870,7 +8906,7 @@
       ],
       "date_added": "2026-11-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-27",
       "duration_ms": 174500,
       "name": "end w/ u",
       "url": "https://open.spotify.com/track/1OrOopXSctWnpVwQVfEHf1"
@@ -10466,6 +10502,24 @@
       "duration_ms": 166250,
       "name": "For Now",
       "url": "https://open.spotify.com/track/443THossCBCsZQ91AKnBDP"
+    },
+    {
+      "album": {
+        "name": "PENUMBRA",
+        "url": "https://open.spotify.com/album/7AT6tfTTtXTZIKAWdmeWm1"
+      },
+      "artists": [
+        {
+          "name": "$anteria",
+          "url": "https://open.spotify.com/artist/30KpA4NugE4H0PLXjC8AU7"
+        }
+      ],
+      "date_added": "2026-11-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 127200,
+      "name": "FOR PEACE",
+      "url": "https://open.spotify.com/track/6nXDXnYepukeo3ZO2ASzy2"
     },
     {
       "album": {
@@ -12540,7 +12594,7 @@
       ],
       "date_added": "2026-10-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-27",
       "duration_ms": 176146,
       "name": "Heaven Sent",
       "url": "https://open.spotify.com/track/6RDnE56IgXL124OFK17Ws4"
@@ -17540,7 +17594,7 @@
       ],
       "date_added": "2026-10-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-27",
       "duration_ms": 146341,
       "name": "LOST IT ALL",
       "url": "https://open.spotify.com/track/6GcTaBQ8cw8ukPrU1fJd4T"
@@ -19076,6 +19130,24 @@
       "duration_ms": 195210,
       "name": "Missing You Feels Right",
       "url": "https://open.spotify.com/track/0gEJwYN6aGOaPlAXxfGwDg"
+    },
+    {
+      "album": {
+        "name": "Mistakes",
+        "url": "https://open.spotify.com/album/0Z08bUOG6QXnGWnamsjtTA"
+      },
+      "artists": [
+        {
+          "name": "Blynk",
+          "url": "https://open.spotify.com/artist/5QudGDXQi1yGCjENRjMNeQ"
+        }
+      ],
+      "date_added": "2026-11-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 155861,
+      "name": "Mistakes",
+      "url": "https://open.spotify.com/track/4f4jkb9MYqeuwWvazzyOdd"
     },
     {
       "album": {
@@ -27515,6 +27587,24 @@
     },
     {
       "album": {
+        "name": "SLIPPED PILLS",
+        "url": "https://open.spotify.com/album/2bZfycAawGHwZJjsrLDmsU"
+      },
+      "artists": [
+        {
+          "name": "Caleb Awiti",
+          "url": "https://open.spotify.com/artist/18QJYkUruunLIMqRIC1ljN"
+        }
+      ],
+      "date_added": "2026-11-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 185769,
+      "name": "SLIPPED PILLS",
+      "url": "https://open.spotify.com/track/4TGm6CnNXXmgiaNOdmesQA"
+    },
+    {
+      "album": {
         "name": "Slow",
         "url": "https://open.spotify.com/album/6ou78tufapX7uj4wawzjJy"
       },
@@ -28270,6 +28360,24 @@
       "duration_ms": 161584,
       "name": "Something",
       "url": "https://open.spotify.com/track/7meoGGpPJ24LwtIxvzTpfI"
+    },
+    {
+      "album": {
+        "name": "Something About Us",
+        "url": "https://open.spotify.com/album/3ahYc16UJ5EpUzgbF521xv"
+      },
+      "artists": [
+        {
+          "name": "Kubla",
+          "url": "https://open.spotify.com/artist/7KgcPkeaO1Rpa4MFl2sLOm"
+        }
+      ],
+      "date_added": "2026-11-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 342958,
+      "name": "Something About Us",
+      "url": "https://open.spotify.com/track/3A2zL3qpfEEyTejI5tVGDP"
     },
     {
       "album": {
@@ -34196,6 +34304,28 @@
       "duration_ms": 149386,
       "name": "Where Did You Go",
       "url": "https://open.spotify.com/track/05psPm6j4TA5zkmHWunyVQ"
+    },
+    {
+      "album": {
+        "name": "Where is she? / Farewell",
+        "url": "https://open.spotify.com/album/0kvdiwLzNjDbr996p2MsIH"
+      },
+      "artists": [
+        {
+          "name": "Samant",
+          "url": "https://open.spotify.com/artist/3uRWOTy9otoxixGe3yG8Bh"
+        },
+        {
+          "name": "Lou Val",
+          "url": "https://open.spotify.com/artist/6u3PN3PCsWLGsw1OffKQ2F"
+        }
+      ],
+      "date_added": "2026-11-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 261625,
+      "name": "Where is she? / Farewell",
+      "url": "https://open.spotify.com/track/2SJ3eyOB3ngNHUcXAIAyKl"
     },
     {
       "album": {

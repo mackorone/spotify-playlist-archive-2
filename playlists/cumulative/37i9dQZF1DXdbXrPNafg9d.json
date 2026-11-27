@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2019-05-26",
-  "description": "The BEST new music every Friday, by INDIE EDITORS Cover: Julien Baker",
+  "description": "The BEST new music every Friday, by INDIE EDITORS Cover: Star's Revenge",
   "name": "All New Indie",
   "tracks": [
     {
@@ -204,7 +204,7 @@
       ],
       "date_added": "2026-10-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-27",
       "duration_ms": 170524,
       "name": "(Seasons Repeating)",
       "url": "https://open.spotify.com/track/6T25laGz84yJRSkWQw2hpz"
@@ -8870,7 +8870,7 @@
       ],
       "date_added": "2026-10-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-27",
       "duration_ms": 166411,
       "name": "Already Low",
       "url": "https://open.spotify.com/track/4ZiuC55hl9Jg4sCVhm8oFi"
@@ -16186,6 +16186,24 @@
       "duration_ms": 222352,
       "name": "Balloon - Sunset Rollercoaster Remake",
       "url": "https://open.spotify.com/track/7bpmCG4sekwU57wUQeY83b"
+    },
+    {
+      "album": {
+        "name": "Band",
+        "url": "https://open.spotify.com/album/2MmlbUxJqM7FC49KIURRsq"
+      },
+      "artists": [
+        {
+          "name": "haloplus+",
+          "url": "https://open.spotify.com/artist/224oiUpyCYmxo3WJQW3EPB"
+        }
+      ],
+      "date_added": "2026-11-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 158959,
+      "name": "Band",
+      "url": "https://open.spotify.com/track/2Gz4c8wVrfpIq0eJHXz91p"
     },
     {
       "album": {
@@ -32068,7 +32086,7 @@
       ],
       "date_added": "2026-10-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-27",
       "duration_ms": 210665,
       "name": "Champagne",
       "url": "https://open.spotify.com/track/0Rxs96nQeboThWCNzP4H0c"
@@ -34341,6 +34359,28 @@
     },
     {
       "album": {
+        "name": "Circle",
+        "url": "https://open.spotify.com/album/00BIuSggqxF9KJO2z1jrbb"
+      },
+      "artists": [
+        {
+          "name": "Mia Joy",
+          "url": "https://open.spotify.com/artist/5a3lFI5IJGQbpMTdjrehHl"
+        },
+        {
+          "name": "Midwife",
+          "url": "https://open.spotify.com/artist/5vjIHa1u3TnOlDvVDR9qQa"
+        }
+      ],
+      "date_added": "2026-11-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 262613,
+      "name": "Circle",
+      "url": "https://open.spotify.com/track/0QW8MvDVCfKFp90B0Qvj5b"
+    },
+    {
+      "album": {
         "name": "Circle Games",
         "url": "https://open.spotify.com/album/1GYjylMo8zY4kxIsOgKHSD"
       },
@@ -34868,6 +34908,24 @@
       "duration_ms": 189240,
       "name": "Clay Pigeons",
       "url": "https://open.spotify.com/track/7GBU8Dvl64jIRPplVjieGw"
+    },
+    {
+      "album": {
+        "name": "Clean",
+        "url": "https://open.spotify.com/album/1wDAIGeXoztRt3IjIlLr2z"
+      },
+      "artists": [
+        {
+          "name": "Girl Scout",
+          "url": "https://open.spotify.com/artist/4CbghtwTo6bvxk5QacvRrE"
+        }
+      ],
+      "date_added": "2026-11-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 199754,
+      "name": "Clean",
+      "url": "https://open.spotify.com/track/0uHRbqbPW19pBgqD9NF6qE"
     },
     {
       "album": {
@@ -48690,7 +48748,7 @@
       ],
       "date_added": "2026-10-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-27",
       "duration_ms": 253800,
       "name": "Don't Sleep",
       "url": "https://open.spotify.com/track/7CJPyS63aMCbGN8QnYI1tA"
@@ -60964,7 +61022,7 @@
       ],
       "date_added": "2026-10-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-27",
       "duration_ms": 262896,
       "name": "FF",
       "url": "https://open.spotify.com/track/5WJSOTl4LAuEipWkTMPSYo"
@@ -61420,6 +61478,24 @@
       "duration_ms": 227775,
       "name": "finding rhythm",
       "url": "https://open.spotify.com/track/4Y5xx6F2NhaxJ0D5fzgKXB"
+    },
+    {
+      "album": {
+        "name": "Star's Revenge II",
+        "url": "https://open.spotify.com/album/5bKzQ05WOEEpPKx7f58NMx"
+      },
+      "artists": [
+        {
+          "name": "Star's Revenge",
+          "url": "https://open.spotify.com/artist/12lX7OtfVkJ0HiFdkOM7IX"
+        }
+      ],
+      "date_added": "2026-11-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 128008,
+      "name": "Fine Line",
+      "url": "https://open.spotify.com/track/76dbuW1OcyOQiuqAyMPBWh"
     },
     {
       "album": {
@@ -64976,6 +65052,24 @@
       "duration_ms": 187626,
       "name": "Free",
       "url": "https://open.spotify.com/track/5E8wZrVyC3y52WQSkcZnEP"
+    },
+    {
+      "album": {
+        "name": "Free",
+        "url": "https://open.spotify.com/album/0PAmSoLG3lW4MBiaO7Gxm3"
+      },
+      "artists": [
+        {
+          "name": "Dominique Da Silva",
+          "url": "https://open.spotify.com/artist/4r8PxDmz7OklWJ6OP4TibY"
+        }
+      ],
+      "date_added": "2026-11-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 217431,
+      "name": "Free",
+      "url": "https://open.spotify.com/track/0JvibEn3jY04k5lDo06WRt"
     },
     {
       "album": {
@@ -73027,6 +73121,24 @@
     },
     {
       "album": {
+        "name": "Grey Boy 7\"",
+        "url": "https://open.spotify.com/album/4nGjNldomqspqEOVNaUTAL"
+      },
+      "artists": [
+        {
+          "name": "Nirosta Steel",
+          "url": "https://open.spotify.com/artist/6B6MO6Q4QoLGVq7Kf8vlGM"
+        }
+      ],
+      "date_added": "2026-11-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 234000,
+      "name": "GREY BOY (BOSS MIX)",
+      "url": "https://open.spotify.com/track/7bAz4JKuuiMthB8ytRMcTD"
+    },
+    {
+      "album": {
         "name": "Bigger Than Life",
         "url": "https://open.spotify.com/album/1azw2HBS09fU4S9sqEreUq"
       },
@@ -73294,6 +73406,28 @@
       "duration_ms": 120268,
       "name": "Groupie",
       "url": "https://open.spotify.com/track/79Ty2Ykvn2ZJhFd9Nn45b7"
+    },
+    {
+      "album": {
+        "name": "Groupie (with Jessie Mazin)",
+        "url": "https://open.spotify.com/album/7rgyYbnDujtb5CtjvZZyad"
+      },
+      "artists": [
+        {
+          "name": "Leonie Biney",
+          "url": "https://open.spotify.com/artist/4fG5iQ1bDCtgOmhbVNWilq"
+        },
+        {
+          "name": "Jessie Mazin",
+          "url": "https://open.spotify.com/artist/61Yb6Hi8nlwDwR3GJ7VAnx"
+        }
+      ],
+      "date_added": "2026-11-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 173000,
+      "name": "Groupie (with Jessie Mazin)",
+      "url": "https://open.spotify.com/track/3xD8uwc9sZHQXVSLhS6C21"
     },
     {
       "album": {
@@ -77662,6 +77796,24 @@
       "duration_ms": 234866,
       "name": "Heaven",
       "url": "https://open.spotify.com/track/67RloP5xniak0DT4jXwxX0"
+    },
+    {
+      "album": {
+        "name": "Heaven",
+        "url": "https://open.spotify.com/album/3pnvXASyC2wsTGp0Oo8fof"
+      },
+      "artists": [
+        {
+          "name": "Triathalon",
+          "url": "https://open.spotify.com/artist/2SaIA1enj83vEmJikZdjQ3"
+        }
+      ],
+      "date_added": "2026-11-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 212511,
+      "name": "Heaven",
+      "url": "https://open.spotify.com/track/5Q4qYEOwX3txvrUKtylGNx"
     },
     {
       "album": {
@@ -85091,6 +85243,24 @@
     },
     {
       "album": {
+        "name": "I Can't Make You Do It",
+        "url": "https://open.spotify.com/album/6luhS3ksgWkyzswdAeX2Ym"
+      },
+      "artists": [
+        {
+          "name": "Laila Smith",
+          "url": "https://open.spotify.com/artist/1r8fRAn7ElExxKIxEcDcCm"
+        }
+      ],
+      "date_added": "2026-11-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 193767,
+      "name": "I Can't Make You Do It",
+      "url": "https://open.spotify.com/track/2xnkl677ZgNdpmC9WQFSki"
+    },
+    {
+      "album": {
         "name": "Patience",
         "url": "https://open.spotify.com/album/3Buvf7Of7aUawi5aISewot"
       },
@@ -91707,6 +91877,24 @@
     },
     {
       "album": {
+        "name": "If We Were Kids (In Another Life)",
+        "url": "https://open.spotify.com/album/3EMqEjGqrxKHvGvs89D4Vi"
+      },
+      "artists": [
+        {
+          "name": "Still Blank",
+          "url": "https://open.spotify.com/artist/55PWse6Vpvyruh3IPtPQ71"
+        }
+      ],
+      "date_added": "2026-11-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 207138,
+      "name": "If We Were Kids (In Another Life)",
+      "url": "https://open.spotify.com/track/6SF185go4Zg17N6f0WoD06"
+    },
+    {
+      "album": {
         "name": "If You Care",
         "url": "https://open.spotify.com/album/35wL3cZtpTEm5lRtMqj79j"
       },
@@ -91920,7 +92108,7 @@
       ],
       "date_added": "2026-10-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-27",
       "duration_ms": 337715,
       "name": "If You Turn Back Now - Live at Carnegie Hall",
       "url": "https://open.spotify.com/track/0v0BMYE3RHQI8vANQRCGd6"
@@ -97976,7 +98164,7 @@
       ],
       "date_added": "2026-10-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-27",
       "duration_ms": 194226,
       "name": "Joan Of Arc",
       "url": "https://open.spotify.com/track/5KBfqciTt4cTmFIoN4EAx7"
@@ -99900,6 +100088,24 @@
       "duration_ms": 255466,
       "name": "Kathy's Song",
       "url": "https://open.spotify.com/track/2JZHwLYnvwGqRUwHi2240w"
+    },
+    {
+      "album": {
+        "name": "Katie Cruel",
+        "url": "https://open.spotify.com/album/4oigaRwUhvaIF0TFv1mnou"
+      },
+      "artists": [
+        {
+          "name": "Florence Rose Broomfield",
+          "url": "https://open.spotify.com/artist/6rkzTIEcx03p1nmHoo3uSZ"
+        }
+      ],
+      "date_added": "2026-11-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 173849,
+      "name": "Katie Cruel",
+      "url": "https://open.spotify.com/track/4Q1iSGrzCaHv1KkMX9chEu"
     },
     {
       "album": {
@@ -106656,6 +106862,24 @@
       "duration_ms": 212373,
       "name": "Like a Brother",
       "url": "https://open.spotify.com/track/0WtfEK4wbbrlFnzvsg4XpU"
+    },
+    {
+      "album": {
+        "name": "Like a Dog",
+        "url": "https://open.spotify.com/album/3nclAHvS4wQIIwNbiFT4Hi"
+      },
+      "artists": [
+        {
+          "name": "Bella Kay",
+          "url": "https://open.spotify.com/artist/4Z8MrrKMBHMPa8d04Ivur8"
+        }
+      ],
+      "date_added": "2026-11-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 162681,
+      "name": "Like a Dog",
+      "url": "https://open.spotify.com/track/4uedQsQUuamDPlCRAct8jZ"
     },
     {
       "album": {
@@ -125431,6 +125655,24 @@
     },
     {
       "album": {
+        "name": "Never the Same",
+        "url": "https://open.spotify.com/album/4K6Q8JaX82NaXBYbmyl2Y7"
+      },
+      "artists": [
+        {
+          "name": "Pony Trap",
+          "url": "https://open.spotify.com/artist/2UJ1ggn0j9stts85Eq7btt"
+        }
+      ],
+      "date_added": "2026-11-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 213346,
+      "name": "Never the Same",
+      "url": "https://open.spotify.com/track/0BwdFzuk61Kfc0fP1v9Cd7"
+    },
+    {
+      "album": {
         "name": "Never The Same",
         "url": "https://open.spotify.com/album/0wHANw7u1DUQDYuFvr1NX2"
       },
@@ -126812,6 +127054,24 @@
       "duration_ms": 221826,
       "name": "No Choice",
       "url": "https://open.spotify.com/track/4dj1qglNo2j45K8z2sDFEY"
+    },
+    {
+      "album": {
+        "name": "no destination",
+        "url": "https://open.spotify.com/album/7voxFcbC49JnvWWEQQZghj"
+      },
+      "artists": [
+        {
+          "name": "Kilu",
+          "url": "https://open.spotify.com/artist/795iruo8TSJsZPVAps6Iow"
+        }
+      ],
+      "date_added": "2026-11-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 226667,
+      "name": "no destination",
+      "url": "https://open.spotify.com/track/4ZCwMcqU1UDQyRE0r0aYAN"
     },
     {
       "album": {
@@ -136702,7 +136962,7 @@
       ],
       "date_added": "2026-10-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-27",
       "duration_ms": 132500,
       "name": "Pass Me By",
       "url": "https://open.spotify.com/track/2YtbpuYoqOqpr6aij1Tdfc"
@@ -160392,7 +160652,7 @@
       ],
       "date_added": "2026-10-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-27",
       "duration_ms": 260546,
       "name": "Slide",
       "url": "https://open.spotify.com/track/5xHbllWdvBHs6LGAWVk3Hl"
@@ -164255,6 +164515,24 @@
     },
     {
       "album": {
+        "name": "sometimes memory fails me sometimes",
+        "url": "https://open.spotify.com/album/6PhYPDKJaoSqLXXAABbg1K"
+      },
+      "artists": [
+        {
+          "name": "if i was a pony",
+          "url": "https://open.spotify.com/artist/3t3zwTenPUimx09zxB0hRA"
+        }
+      ],
+      "date_added": "2026-11-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 196721,
+      "name": "sometimes memory fails me sometimes",
+      "url": "https://open.spotify.com/track/1jyRl8bzrzFVJMintuOrv2"
+    },
+    {
+      "album": {
         "name": "Sometimes You Got To",
         "url": "https://open.spotify.com/album/0qEXW6xlwIAUSomdk9rPDU"
       },
@@ -166782,7 +167060,7 @@
       ],
       "date_added": "2026-10-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-27",
       "duration_ms": 236453,
       "name": "star",
       "url": "https://open.spotify.com/track/6amVMTh1Lr08QA27a7FtCx"
@@ -192016,7 +192294,7 @@
       ],
       "date_added": "2026-10-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-27",
       "duration_ms": 245106,
       "name": "U|\\|K|\\|0W@BL3 D1$T@|\\|C3",
       "url": "https://open.spotify.com/track/7h3YHCbgLVKTVx5ma3qdtT"
@@ -197040,7 +197318,7 @@
       ],
       "date_added": "2026-10-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-27",
       "duration_ms": 217112,
       "name": "Wendy",
       "url": "https://open.spotify.com/track/3ZaryXQZwzEPD9X4gVvMKX"
@@ -200518,6 +200796,24 @@
       "duration_ms": 314733,
       "name": "Who's That",
       "url": "https://open.spotify.com/track/2YPP52aPZiFUxTmbQTUiR6"
+    },
+    {
+      "album": {
+        "name": "Whole Life",
+        "url": "https://open.spotify.com/album/474Lymr5Z6E2vlCAcazKLv"
+      },
+      "artists": [
+        {
+          "name": "Helena Deland",
+          "url": "https://open.spotify.com/artist/0BJeP79i5wKgCqsEEiQ7G0"
+        }
+      ],
+      "date_added": "2026-11-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 138446,
+      "name": "Whole Life",
+      "url": "https://open.spotify.com/track/42h8a36oajv2baQaBkEbtM"
     },
     {
       "album": {

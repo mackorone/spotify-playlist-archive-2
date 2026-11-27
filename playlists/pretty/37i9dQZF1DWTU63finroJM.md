@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTU63finroJM.md) - [plain]
 
 > Meet the future of music around the world\. Cover: JAS
 
-[Spotify](https://open.spotify.com/user/spotify) - 88,596 likes - 25 songs - 1 hr 16 min
+[Spotify](https://open.spotify.com/user/spotify) - 88,603 likes - 25 songs - 1 hr 16 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWvrRGuT6dlZ.md) - [plain]
 
 > The best new music from fresh and emerging artists\. Curated with love by human Spotify editors\. Cover: Elizabeth Everly\. Artwork: Isu Kim.
 
-[Spotify](https://open.spotify.com/user/spotify) - 7,470 likes - 44 songs - 2 hr 26 min
+[Spotify](https://open.spotify.com/user/spotify) - 7,469 likes - 44 songs - 2 hr 26 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -26,7 +26,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWvrRGuT6dlZ.md) - [plain]
 | 16 | [wouldn't change for you](https://open.spotify.com/track/74GOphegX9cYK9DKAwzWm5) | [kahmy](https://open.spotify.com/artist/1o0ZpWuj4Az5JH5w28EvPN) | [wouldn't change for you](https://open.spotify.com/album/1Ar15vmZe1I2FX7vDvzfJN) | 4:16 |
 | 17 | [Start Line](https://open.spotify.com/track/11KioBAgn4SKau9afEXJ7c) | [Mona Shirakawa](https://open.spotify.com/artist/1oaUtsLI8ap1gtMqckeKn3) | [Start Line](https://open.spotify.com/album/3EjZaO6p4nrrxpVa95HWIB) | 3:03 |
 | 18 | [家](https://open.spotify.com/track/4VwDUUSNtsj7N1vaAoH3VS) | [Jasmine C](https://open.spotify.com/artist/6H1fGzH3FVEgBEinAi4rcB) | [家](https://open.spotify.com/album/1JMkKYEodLF0dHrlo2r6Bq) | 4:14 |
-| 19 | [Paradise](https://open.spotify.com/track/08YHxWGxRkjpo4SSCEfA4p) | [Ritchie Leong](https://open.spotify.com/artist/64Z9Y2gzSyj45yml0RNV4T) | [Paradise](https://open.spotify.com/album/2YF4JyTySQMQNj7Sx6UYMH) | 3:43 |
+| 19 | [Paradise](https://open.spotify.com/track/08YHxWGxRkjpo4SSCEfA4p) | [Ritchie Leong 梁瑋城](https://open.spotify.com/artist/64Z9Y2gzSyj45yml0RNV4T) | [Paradise](https://open.spotify.com/album/2YF4JyTySQMQNj7Sx6UYMH) | 3:43 |
 | 20 | [只是朋友](https://open.spotify.com/track/12g2g9t7VYNwdp5yrWNTGb) | [Haze哈泽](https://open.spotify.com/artist/0O6GJprb1FbUFhv9yks1lq) | [只是朋友](https://open.spotify.com/album/1wVtLjvq5hCScvfLEmrI2a) | 3:34 |
 | 21 | [Takkan Pernah](https://open.spotify.com/track/0iELiHJoMexn3eSMGUiiEc) | [Hussain](https://open.spotify.com/artist/7pM3dWinKFuyNmMAHD0ddu) | [Big Stage Rocketfuel \- Dominasi For Real](https://open.spotify.com/album/5qFtaVKbT03WjWsrKHG96z) | 3:44 |
 | 22 | [While You're Gone](https://open.spotify.com/track/0TolqQgmzw9i5FxG1Azt6Y) | [Says It All](https://open.spotify.com/artist/0xZ87cRfEFJNylIaFv7Qb5) | [While You're Gone](https://open.spotify.com/album/4O9Ou3INly8zIFMwEocgN8) | 3:16 |

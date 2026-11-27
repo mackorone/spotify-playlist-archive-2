@@ -53,6 +53,28 @@
     },
     {
       "album": {
+        "name": "Dance Mode!",
+        "url": "https://open.spotify.com/album/2WLF2MEPy84iUHEkSElL4Z"
+      },
+      "artists": [
+        {
+          "name": "Bluey",
+          "url": "https://open.spotify.com/artist/6ca3AFdIIgaP4ZIW8J6zXu"
+        },
+        {
+          "name": "Pluto Jonze",
+          "url": "https://open.spotify.com/artist/6DRm66ULaD9MVnfZ4TBfmF"
+        }
+      ],
+      "date_added": "2026-11-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 178393,
+      "name": "Army",
+      "url": "https://open.spotify.com/track/5LiWBXtN90vMEgcEfw4EJt"
+    },
+    {
+      "album": {
         "name": "Rug Island",
         "url": "https://open.spotify.com/album/0OSnOvYEtdwuAYvqLa8hyV"
       },
@@ -244,7 +266,7 @@
       ],
       "date_added": "2025-07-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-27",
       "duration_ms": 81363,
       "name": "Chattermax",
       "url": "https://open.spotify.com/track/2fjzQBE5mdrkmjYI3WkAWK"

@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2024-07-02",
-  "description": "Najlepsze polskie piosenki na czasie. Cover: Lanberry, Justyna Steczkowska, Wiktor Walig\u00f3ra",
+  "description": "Najlepsze polskie piosenki na czasie. Cover: Livka",
   "name": "Polskie hity",
   "tracks": [
     {
@@ -210,6 +210,24 @@
       "duration_ms": 142666,
       "name": "A CAPPELLA",
       "url": "https://open.spotify.com/track/422x0kVjxPWUtsiIif5CJQ"
+    },
+    {
+      "album": {
+        "name": "A co je\u015bli",
+        "url": "https://open.spotify.com/album/4YvuRqa9HwEMJOpZaqV3lD"
+      },
+      "artists": [
+        {
+          "name": "Natalia Zast\u0119pa",
+          "url": "https://open.spotify.com/artist/7bXYYWnAtHMVj0lSOHryno"
+        }
+      ],
+      "date_added": "2026-11-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 218096,
+      "name": "A co je\u015bli",
+      "url": "https://open.spotify.com/track/0bgUWNUzCMj9PTo2OgQjjm"
     },
     {
       "album": {
@@ -847,6 +865,32 @@
     },
     {
       "album": {
+        "name": "Baddie",
+        "url": "https://open.spotify.com/album/2sQY4BaKb2uP3esRaghgzl"
+      },
+      "artists": [
+        {
+          "name": "Natalia Nykiel",
+          "url": "https://open.spotify.com/artist/2f0ffZ1gPxazVKo0TossWj"
+        },
+        {
+          "name": "Young Leosia",
+          "url": "https://open.spotify.com/artist/0iBTVnJ1Sff92zCDujfvyJ"
+        },
+        {
+          "name": "4Money",
+          "url": "https://open.spotify.com/artist/6EjCs0fSiq0HvAbCzIPeq1"
+        }
+      ],
+      "date_added": "2026-11-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 151034,
+      "name": "Baddie",
+      "url": "https://open.spotify.com/track/7LFxKOiVcfSpDJFhJhTnwy"
+    },
+    {
+      "album": {
         "name": "Bal",
         "url": "https://open.spotify.com/album/6Y5HzYbeRvT9Q4XMa7mtcg"
       },
@@ -1476,7 +1520,7 @@
       ],
       "date_added": "2026-11-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-27",
       "duration_ms": 213397,
       "name": "Blask",
       "url": "https://open.spotify.com/track/2pzLHEqFFAFqBgDnJTM1CS"
@@ -4775,6 +4819,28 @@
     },
     {
       "album": {
+        "name": "Dziewczyna przeci\u0119ta na p\u00f3\u0142",
+        "url": "https://open.spotify.com/album/6PkI9aA65Fh2Ab4X2o4nwZ"
+      },
+      "artists": [
+        {
+          "name": "Igo",
+          "url": "https://open.spotify.com/artist/6I5JdHLVup9pIjn9g5K20N"
+        },
+        {
+          "name": "Kasia Lins",
+          "url": "https://open.spotify.com/artist/7IRnDitYnXmIpoClQ0XspK"
+        }
+      ],
+      "date_added": "2026-11-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 240000,
+      "name": "Dziewczyna przeci\u0119ta na p\u00f3\u0142",
+      "url": "https://open.spotify.com/track/2l7HiofCGgfVQbkxNWr7au"
+    },
+    {
+      "album": {
         "name": "DZIEWCZYNA Z PLAKATU",
         "url": "https://open.spotify.com/album/6fdEQop9ZUjRZNNLI2Cchv"
       },
@@ -5292,6 +5358,28 @@
       "duration_ms": 158117,
       "name": "FIKU MIKU",
       "url": "https://open.spotify.com/track/5JUs80EV0MeJ3s2atMaPjr"
+    },
+    {
+      "album": {
+        "name": "filtr",
+        "url": "https://open.spotify.com/album/75PMTMIKmpfZJy69RS7ZsA"
+      },
+      "artists": [
+        {
+          "name": "Livka",
+          "url": "https://open.spotify.com/artist/0eWYWLizN5us1MOF1rdyh9"
+        },
+        {
+          "name": "Favst",
+          "url": "https://open.spotify.com/artist/16TsNPlesuA1R9kPLS6nta"
+        }
+      ],
+      "date_added": "2026-11-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 192727,
+      "name": "filtr",
+      "url": "https://open.spotify.com/track/3M7jxWZwtv1A3HxgCC7tuP"
     },
     {
       "album": {
@@ -10464,7 +10552,7 @@
       ],
       "date_added": "2026-11-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-27",
       "duration_ms": 178909,
       "name": "Moulin Rouge",
       "url": "https://open.spotify.com/track/2gyPFCycuWJz2VBEhWsiy2"
@@ -10512,6 +10600,24 @@
       "duration_ms": 159529,
       "name": "mo\u017cemorze",
       "url": "https://open.spotify.com/track/0IE7cjqYVMWRliklJuU0nn"
+    },
+    {
+      "album": {
+        "name": "Mo\u017cemy to przespa\u0107",
+        "url": "https://open.spotify.com/album/1PgDkYUVvg8nMZMhPxRMo2"
+      },
+      "artists": [
+        {
+          "name": "Martyna Baranowska",
+          "url": "https://open.spotify.com/artist/5qMLMV4Czbb9puv6O8Rd9b"
+        }
+      ],
+      "date_added": "2026-11-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 152210,
+      "name": "Mo\u017cemy to przespa\u0107",
+      "url": "https://open.spotify.com/track/4K2cge69YD9mkpqqqn0Z5W"
     },
     {
       "album": {
@@ -10722,7 +10828,7 @@
       ],
       "date_added": "2026-11-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-27",
       "duration_ms": 125916,
       "name": "na ca\u0142y g\u0142os",
       "url": "https://open.spotify.com/track/6Nt3wTIgZtzPrYUIxJ9tqp"
@@ -12278,6 +12384,28 @@
       "duration_ms": 190506,
       "name": "Nie za\u015bpiewam Twojej mamie",
       "url": "https://open.spotify.com/track/2utoajLfufNnNWFdYgbPLm"
+    },
+    {
+      "album": {
+        "name": "Impuls",
+        "url": "https://open.spotify.com/album/0372ps2gXsgCeJEtswrgNa"
+      },
+      "artists": [
+        {
+          "name": "Nita",
+          "url": "https://open.spotify.com/artist/1AGR5KsqctsAYgxxINt5xi"
+        },
+        {
+          "name": "Ania D\u0105browska",
+          "url": "https://open.spotify.com/artist/7008bv4QLo6eziuxszbjqO"
+        }
+      ],
+      "date_added": "2026-11-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 146099,
+      "name": "Nie zmieniaj mnie",
+      "url": "https://open.spotify.com/track/0OLK4xCLW6LMOtf6Cy3IkG"
     },
     {
       "album": {
@@ -13948,7 +14076,7 @@
       ],
       "date_added": "2026-11-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-27",
       "duration_ms": 185986,
       "name": "Parasolka",
       "url": "https://open.spotify.com/track/7ArKXOg6lAKARi5xC1QkEZ"
@@ -14659,6 +14787,32 @@
     },
     {
       "album": {
+        "name": "POLSKA GUROM",
+        "url": "https://open.spotify.com/album/1zDVxo6uEpzMMakY1cDsmH"
+      },
+      "artists": [
+        {
+          "name": "Pawbeats",
+          "url": "https://open.spotify.com/artist/4WrzIcfTrK5U6UcDp4cX6L"
+        },
+        {
+          "name": "Justyna Steczkowska",
+          "url": "https://open.spotify.com/artist/4MoS5osilxUivShOUtUoZP"
+        },
+        {
+          "name": "Kizo",
+          "url": "https://open.spotify.com/artist/2IHoZ3RrDJIikMRsYgHjhy"
+        }
+      ],
+      "date_added": "2026-11-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 151338,
+      "name": "POLSKA GUROM",
+      "url": "https://open.spotify.com/track/6hOKwWcZyINQi5WjaI9tdf"
+    },
+    {
+      "album": {
         "name": "POLSKI SPIDERMAN",
         "url": "https://open.spotify.com/album/38GbDZRfoJ9ErpePeEUaWr"
       },
@@ -14714,7 +14868,7 @@
       ],
       "date_added": "2026-11-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-27",
       "duration_ms": 166000,
       "name": "pomi\u0119dzy",
       "url": "https://open.spotify.com/track/7z8XKupAEaSdDcj4rO4F1k"
@@ -15646,7 +15800,7 @@
       ],
       "date_added": "2026-11-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-27",
       "duration_ms": 185044,
       "name": "Raport",
       "url": "https://open.spotify.com/track/35mN0UFFpdbPwCmNJlkZl7"
@@ -15756,6 +15910,24 @@
       "duration_ms": 142448,
       "name": "Replay",
       "url": "https://open.spotify.com/track/4HlzM85SSSWqVkaZVgH6vK"
+    },
+    {
+      "album": {
+        "name": "RESTAURACJA Z GWIAZDK\u0104",
+        "url": "https://open.spotify.com/album/6xiAiX87h7dRYxQLN4Feod"
+      },
+      "artists": [
+        {
+          "name": "Julia Rocka",
+          "url": "https://open.spotify.com/artist/3KK1cO0sCWl01U14rS7wwN"
+        }
+      ],
+      "date_added": "2026-11-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 140787,
+      "name": "RESTAURACJA Z GWIAZDK\u0104",
+      "url": "https://open.spotify.com/track/4eKtX9cTqWPqk6j2WB2LaM"
     },
     {
       "album": {
@@ -17374,7 +17546,7 @@
       ],
       "date_added": "2026-10-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-27",
       "duration_ms": 200454,
       "name": "SZTUCZNE USTA",
       "url": "https://open.spotify.com/track/3TaKlH1BbZ6swEF5GECVo9"
@@ -19384,7 +19556,7 @@
       ],
       "date_added": "2026-11-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-27",
       "duration_ms": 162424,
       "name": "W DRODZE",
       "url": "https://open.spotify.com/track/394RgQxvrvhh5T0eRRcQq5"

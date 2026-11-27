@@ -15347,6 +15347,28 @@
     },
     {
       "album": {
+        "name": "If You Wait",
+        "url": "https://open.spotify.com/album/579DycpcdiWLPAPJp6HaTo"
+      },
+      "artists": [
+        {
+          "name": "George FitzGerald",
+          "url": "https://open.spotify.com/artist/3KOHpygRuo1ruQAbEneR3t"
+        },
+        {
+          "name": "Lil Silva",
+          "url": "https://open.spotify.com/artist/2Kv0ApBohrL213X9avMrEn"
+        }
+      ],
+      "date_added": "2026-11-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 211249,
+      "name": "If You Wait",
+      "url": "https://open.spotify.com/track/7h3EvRbj33NM41bSvQtm4B"
+    },
+    {
+      "album": {
         "name": "ily (i love you baby) (ARTY Remix) [feat. Emilee]",
         "url": "https://open.spotify.com/album/0yjeJmDUDmjtW0iQr7v1D6"
       },

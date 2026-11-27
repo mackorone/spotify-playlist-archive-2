@@ -34,7 +34,7 @@
       ],
       "date_added": "2026-04-28",
       "date_added_asterisk": false,
-      "date_removed": "2026-05-03",
+      "date_removed": null,
       "duration_ms": 270069,
       "name": "A Few Of Your Own",
       "url": "https://open.spotify.com/track/2O4dfLvOE0VBqDmGQiw7fR"
@@ -1260,10 +1260,28 @@
       ],
       "date_added": "2026-04-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-27",
       "duration_ms": 286967,
       "name": "Orbiter",
       "url": "https://open.spotify.com/track/77fL8ATR0dpUDLI0XLmDBV"
+    },
+    {
+      "album": {
+        "name": "Orbiter (Live From New York)",
+        "url": "https://open.spotify.com/album/081pJ4Vo3DFfypvNjLqD46"
+      },
+      "artists": [
+        {
+          "name": "Noah Kahan",
+          "url": "https://open.spotify.com/artist/2RQXRUsr4IW1f3mKyKsy4B"
+        }
+      ],
+      "date_added": "2026-11-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 333768,
+      "name": "Orbiter - Live From New York",
+      "url": "https://open.spotify.com/track/6gzpizzGrpAbtJh2ShPpbH"
     },
     {
       "album": {

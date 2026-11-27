@@ -1339,6 +1339,28 @@
     },
     {
       "album": {
+        "name": "Man of Steel Suite (Live)",
+        "url": "https://open.spotify.com/album/2uIgRRdoBRIN24IRSaIND9"
+      },
+      "artists": [
+        {
+          "name": "Hans Zimmer",
+          "url": "https://open.spotify.com/artist/0YC192cP3KPCRWx8zr8MfZ"
+        },
+        {
+          "name": "The Disruptive Collective",
+          "url": "https://open.spotify.com/artist/0oMhzz3sH8FqeezbdI3yAm"
+        }
+      ],
+      "date_added": "2026-11-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 322026,
+      "name": "Man of Steel Suite, Part 1 - Live",
+      "url": "https://open.spotify.com/track/2Y09qmMER9UMsBsVTkRoTU"
+    },
+    {
+      "album": {
         "name": "Inception (Music from the Motion Picture)",
         "url": "https://open.spotify.com/album/2qvA7HmSg1iM6XMiFF76dp"
       },

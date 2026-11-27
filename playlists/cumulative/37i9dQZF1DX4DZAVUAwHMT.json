@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2023-01-15",
-  "description": "The UK's biggest rock playlist. Cover: Julien Baker",
+  "description": "The UK's biggest rock playlist. Cover: Kings of Leon",
   "name": "The Rock List",
   "tracks": [
     {
@@ -1533,6 +1533,24 @@
     },
     {
       "album": {
+        "name": "All Your Friends",
+        "url": "https://open.spotify.com/album/0ADqAf6vTOAROsRt56nn5a"
+      },
+      "artists": [
+        {
+          "name": "Mayday Parade",
+          "url": "https://open.spotify.com/artist/3WfJ1OtrWI7RViX9DMyEGy"
+        }
+      ],
+      "date_added": "2026-11-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 153253,
+      "name": "All Your Friends",
+      "url": "https://open.spotify.com/track/20tHqQkAVG1e3ambaAtEFd"
+    },
+    {
+      "album": {
         "name": "Who've You Come As?, Pt. 2",
         "url": "https://open.spotify.com/album/3AVhzOJ1jUZB5uSB4reg6i"
       },
@@ -2034,7 +2052,7 @@
       ],
       "date_added": "2026-09-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-27",
       "duration_ms": 221489,
       "name": "Arsenal",
       "url": "https://open.spotify.com/track/3QEglzrnBHZg2yVGlo3G5j"
@@ -2502,7 +2520,7 @@
       ],
       "date_added": "2026-09-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-27",
       "duration_ms": 142221,
       "name": "Bang Bang Bang",
       "url": "https://open.spotify.com/track/6fhNTP2BZzR3wri0qh1iKx"
@@ -4272,7 +4290,7 @@
       ],
       "date_added": "2026-09-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-27",
       "duration_ms": 209558,
       "name": "Burn Down The Disco",
       "url": "https://open.spotify.com/track/3FgB1xSfll5GpW8hSlALoe"
@@ -4532,7 +4550,7 @@
       ],
       "date_added": "2026-09-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-27",
       "duration_ms": 170726,
       "name": "Call It What You Want",
       "url": "https://open.spotify.com/track/46museEHuxvmYT16wjAEkD"
@@ -5401,6 +5419,24 @@
     },
     {
       "album": {
+        "name": "Coming Home",
+        "url": "https://open.spotify.com/album/44ZbMyOnCwdcFOxbLNEerb"
+      },
+      "artists": [
+        {
+          "name": "Dogpark",
+          "url": "https://open.spotify.com/artist/2VlmDb05CPERyCZfmZI3x7"
+        }
+      ],
+      "date_added": "2026-11-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 217906,
+      "name": "Coming Home",
+      "url": "https://open.spotify.com/track/09mS03HQau1w606Jmfb0b7"
+    },
+    {
+      "album": {
         "name": "Coming On Strong",
         "url": "https://open.spotify.com/album/3oeSa6CphbMgzssPEUknVt"
       },
@@ -5744,6 +5780,24 @@
       "duration_ms": 301825,
       "name": "Cryogen",
       "url": "https://open.spotify.com/track/5ITICFtTKxzcbR43ehRvsI"
+    },
+    {
+      "album": {
+        "name": "Crystal",
+        "url": "https://open.spotify.com/album/1DkyNn8eIehX6SjaWP5Jnm"
+      },
+      "artists": [
+        {
+          "name": "Garage Flower",
+          "url": "https://open.spotify.com/artist/5OPvOvNuF91gVClQXK2DuH"
+        }
+      ],
+      "date_added": "2026-11-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 205314,
+      "name": "Crystal",
+      "url": "https://open.spotify.com/track/2CGCNsat1hMLtrrmYS5wcp"
     },
     {
       "album": {
@@ -6318,6 +6372,24 @@
       "duration_ms": 209513,
       "name": "DEAD GIRL WALKING",
       "url": "https://open.spotify.com/track/7MzYunk9yPyDsJjSPTppuH"
+    },
+    {
+      "album": {
+        "name": "DEAD IN AMERICA",
+        "url": "https://open.spotify.com/album/4sSgxC5soMgkze7onA4WIz"
+      },
+      "artists": [
+        {
+          "name": "NOAHFINNCE",
+          "url": "https://open.spotify.com/artist/6y7T3BaNMGAYgRbATEq4cM"
+        }
+      ],
+      "date_added": "2026-11-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 164146,
+      "name": "DEAD IN AMERICA",
+      "url": "https://open.spotify.com/track/0o7tQe55Hz0BwcFF4M5QdN"
     },
     {
       "album": {
@@ -7287,6 +7359,24 @@
     },
     {
       "album": {
+        "name": "Dying To Stay",
+        "url": "https://open.spotify.com/album/5hJuzRvH2exRfDnA3a5Qds"
+      },
+      "artists": [
+        {
+          "name": "Mouth Culture",
+          "url": "https://open.spotify.com/artist/4Fc4GqcYwYnTePiW3nggrd"
+        }
+      ],
+      "date_added": "2026-11-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 270284,
+      "name": "Dying To Stay",
+      "url": "https://open.spotify.com/track/6g4MSDNFmPCOBuhKNfMi4x"
+    },
+    {
+      "album": {
         "name": "Easier",
         "url": "https://open.spotify.com/album/4PnhLX8zjgFP9PTGEe6eyS"
       },
@@ -7832,6 +7922,24 @@
       "duration_ms": 177240,
       "name": "Every Day of Every Year",
       "url": "https://open.spotify.com/track/3I5vikOEk8loIkj0gspCfk"
+    },
+    {
+      "album": {
+        "name": "Every Part Of Me",
+        "url": "https://open.spotify.com/album/38YPQtVWqxozySQ0lIN0ll"
+      },
+      "artists": [
+        {
+          "name": "THE HARA",
+          "url": "https://open.spotify.com/artist/2MizZlEPFQHeR3MndOyYoQ"
+        }
+      ],
+      "date_added": "2026-11-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 233250,
+      "name": "Every Part Of Me",
+      "url": "https://open.spotify.com/track/4tF9X4u2vkjXE4Hx5EQwDi"
     },
     {
       "album": {
@@ -10313,6 +10421,24 @@
     },
     {
       "album": {
+        "name": "Good Dream (White Horse)",
+        "url": "https://open.spotify.com/album/2CvKnPhfwWXz8FQ2nWdN3F"
+      },
+      "artists": [
+        {
+          "name": "Peter McPoland",
+          "url": "https://open.spotify.com/artist/23E65IfLBGQv0FBrMwCcG2"
+        }
+      ],
+      "date_added": "2026-11-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 259862,
+      "name": "Good Dream (White Horse)",
+      "url": "https://open.spotify.com/track/48wlrTZ5TSvTnp6hV9y5UG"
+    },
+    {
+      "album": {
         "name": "GOOD ENEMY",
         "url": "https://open.spotify.com/album/3A5aAGLhHkQZFJsk4FsvAg"
       },
@@ -11976,7 +12102,7 @@
       ],
       "date_added": "2026-09-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-27",
       "duration_ms": 178481,
       "name": "Hotter On The Internet",
       "url": "https://open.spotify.com/track/7nA4exclffXTeHK0JG6CwQ"
@@ -13896,7 +14022,7 @@
       ],
       "date_added": "2026-09-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-27",
       "duration_ms": 291873,
       "name": "Juice A Jumbo Jet",
       "url": "https://open.spotify.com/track/3vv4bbwHPvt10Y9c1ASv2k"
@@ -14596,7 +14722,7 @@
       ],
       "date_added": "2026-09-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-27",
       "duration_ms": 144906,
       "name": "lamb (feat. Kellin Quinn)",
       "url": "https://open.spotify.com/track/4KcJQSNtKzqi42wAdhlIml"
@@ -17112,7 +17238,7 @@
       ],
       "date_added": "2026-09-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-27",
       "duration_ms": 256024,
       "name": "Mourning",
       "url": "https://open.spotify.com/track/5zwngdtBYzTqYJT9gXxAdF"
@@ -23110,7 +23236,7 @@
       ],
       "date_added": "2026-09-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-27",
       "duration_ms": 228467,
       "name": "Sleepwalker",
       "url": "https://open.spotify.com/track/0qFmjpNGhjaxp789YQ7zMb"
@@ -24376,6 +24502,24 @@
       "duration_ms": 234657,
       "name": "Street Of Dreams",
       "url": "https://open.spotify.com/track/70X6SFkjCUZ0nRBUGXddTn"
+    },
+    {
+      "album": {
+        "name": "Strings of Fate",
+        "url": "https://open.spotify.com/album/1JRfQITGdbUjLnrhwGnsK7"
+      },
+      "artists": [
+        {
+          "name": "Destroy Boys",
+          "url": "https://open.spotify.com/artist/7KeN0XX71T4fGysIYLB5J5"
+        }
+      ],
+      "date_added": "2026-11-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 192838,
+      "name": "Strings of Fate",
+      "url": "https://open.spotify.com/track/74lfSiAHg1z7qfjai64qHg"
     },
     {
       "album": {

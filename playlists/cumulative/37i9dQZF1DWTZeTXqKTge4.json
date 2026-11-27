@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-01-10",
-  "description": "Le rap qu\u00e9b\u00e9cois, servi tout frais tout chaud. Photo: Souldia, Cupidon",
+  "description": "Le rap qu\u00e9b\u00e9cois, servi tout frais tout chaud. Photo: Vago",
   "name": "Rap qu\u00e9b",
   "tracks": [
     {
@@ -1705,6 +1705,42 @@
     },
     {
       "album": {
+        "name": "MTL ULTRA",
+        "url": "https://open.spotify.com/album/4Ud2R7LdQvXzJwrU0YwjGJ"
+      },
+      "artists": [
+        {
+          "name": "SeinsSucrer",
+          "url": "https://open.spotify.com/artist/6AFFCSzexIvA2fBeEpe0nP"
+        }
+      ],
+      "date_added": "2026-11-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 173168,
+      "name": "Appel Manqu\u00e9",
+      "url": "https://open.spotify.com/track/6FZ0mLsaZ2A6hMRvkjKnXe"
+    },
+    {
+      "album": {
+        "name": "Guide pour pour apprendre \u00e0 voler",
+        "url": "https://open.spotify.com/album/4X6j7WYRVAtVDamwP6do8n"
+      },
+      "artists": [
+        {
+          "name": "Rymz",
+          "url": "https://open.spotify.com/artist/3dN1EUAKOFCUBPFXRUdqKu"
+        }
+      ],
+      "date_added": "2026-11-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 199550,
+      "name": "Apprendre \u00e0 voler",
+      "url": "https://open.spotify.com/track/5JhmOaWBL841PQZ0RpRRm2"
+    },
+    {
+      "album": {
         "name": "Ap\u00e9ro",
         "url": "https://open.spotify.com/album/3QsGBK0RqydK0HkTgqWyYK"
       },
@@ -3374,7 +3410,7 @@
       ],
       "date_added": "2026-08-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-27",
       "duration_ms": 182333,
       "name": "Billets",
       "url": "https://open.spotify.com/track/1qU308QRfBdcsnE2YL57Kz"
@@ -13677,6 +13713,32 @@
     },
     {
       "album": {
+        "name": "KL\u00c8",
+        "url": "https://open.spotify.com/album/4SlfLOIa4DqStchI5Dl4Dx"
+      },
+      "artists": [
+        {
+          "name": "Kelzk",
+          "url": "https://open.spotify.com/artist/5KwQXiLnoAoMPNKsVfOxLz"
+        },
+        {
+          "name": "Narnobeats",
+          "url": "https://open.spotify.com/artist/0K4oTXWAQFbRzzFEPLIDpZ"
+        },
+        {
+          "name": "Fistoon",
+          "url": "https://open.spotify.com/artist/5foqjyhyviiPdrLp0qJmxL"
+        }
+      ],
+      "date_added": "2026-11-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 180000,
+      "name": "KL\u00c8",
+      "url": "https://open.spotify.com/track/34QdQmj4pyqyvrts2DO1mX"
+    },
+    {
+      "album": {
         "name": "Kreyday Everyday",
         "url": "https://open.spotify.com/album/28L3tq3fXtLPsQdWSqWbnf"
       },
@@ -14192,6 +14254,24 @@
       "duration_ms": 139764,
       "name": "La purge",
       "url": "https://open.spotify.com/track/48dHTQ3bniL8m816qZCsMY"
+    },
+    {
+      "album": {
+        "name": "Black Forest Cake",
+        "url": "https://open.spotify.com/album/0VAi9LfWJ6xKYtpo79QRBx"
+      },
+      "artists": [
+        {
+          "name": "Naya Ali",
+          "url": "https://open.spotify.com/artist/6xsuPHpz2MgwF8OhEc9ScC"
+        }
+      ],
+      "date_added": "2026-11-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 181649,
+      "name": "La Recipe",
+      "url": "https://open.spotify.com/track/4moiwijtkSi9XKtfS6JomR"
     },
     {
       "album": {
@@ -17208,7 +17288,7 @@
       ],
       "date_added": "2026-08-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-27",
       "duration_ms": 151384,
       "name": "MON TOUR",
       "url": "https://open.spotify.com/track/4xnCYX1Uiv6qoowXCoppSP"
@@ -24323,6 +24403,24 @@
     },
     {
       "album": {
+        "name": "Soon Touch Roads",
+        "url": "https://open.spotify.com/album/7amfojtyccwOd2H7X1xWnB"
+      },
+      "artists": [
+        {
+          "name": "Vago",
+          "url": "https://open.spotify.com/artist/7uy5FZOHPwE01q5QXpqZRe"
+        }
+      ],
+      "date_added": "2026-11-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 92107,
+      "name": "Soon Touch Roads",
+      "url": "https://open.spotify.com/track/7hmDU1mIy4MG8CORPDOkjC"
+    },
+    {
+      "album": {
         "name": "Soroche",
         "url": "https://open.spotify.com/album/6lgpGcx0Y3AbGz26de8Rre"
       },
@@ -26636,7 +26734,7 @@
       ],
       "date_added": "2026-10-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-27",
       "duration_ms": 133548,
       "name": "Un dollar",
       "url": "https://open.spotify.com/track/1cnF641QNII6fR1Tm32oIR"
@@ -26716,7 +26814,7 @@
       ],
       "date_added": "2026-09-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-27",
       "duration_ms": 144424,
       "name": "UNEXPECTED VODKA JOURNEY",
       "url": "https://open.spotify.com/track/4WX6h2Ha0TH3wIiTSEI1ZN"
@@ -27782,7 +27880,7 @@
       ],
       "date_added": "2026-10-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-27",
       "duration_ms": 203468,
       "name": "Woah!",
       "url": "https://open.spotify.com/track/2TjhyL8UCI0VnsxVwspabf"

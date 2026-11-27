@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaywRlmHaP59.md) - [plain]
 
 > Discover the best hits of Lebanon.
 
-[Spotify](https://open.spotify.com/user/spotify) - 108,626 likes - 42 songs - 2 hr 19 min
+[Spotify](https://open.spotify.com/user/spotify) - 108,669 likes - 42 songs - 2 hr 19 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -17,7 +17,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaywRlmHaP59.md) - [plain]
 | 7 | [Tak Tak Albi](https://open.spotify.com/track/5CjPwqpFmFU9z6LsUXdetV) | [Wael Kfoury](https://open.spotify.com/artist/09A6IffSw0t8L8sfuOCVws) | [Tak Tak Albi](https://open.spotify.com/album/3Uxi4zHfS5wjTeFYuLgAsI) | 4:03 |
 | 8 | [قلبي دق](https://open.spotify.com/track/1BY9r3MwnSMOFoffuSmi9p) | [Melhem Zein](https://open.spotify.com/artist/3pCdpK2DVRSs77L9RtxFy0) | [٢٢](https://open.spotify.com/album/5ispGWCzyFIcUmRZB59Epa) | 3:13 |
 | 9 | [Badna Nroue](https://open.spotify.com/track/4Y29obvHXHeQFJUjZOEHqG) | [Haifa Wehbe](https://open.spotify.com/artist/05ai8foZsZwk0cni0IOuNj) | [Mega Haifa 2](https://open.spotify.com/album/01NVQQpvmM2ejbglR55Smx) | 1:45 |
-| 10 | [Farek Men El Sama Lal Ard](https://open.spotify.com/track/38TuvHgODyqzjAD5X8GXCX) | [Yara](https://open.spotify.com/artist/46FJPTBdnCK0GMd76nil6e) | [Taghyeer El Fousoul](https://open.spotify.com/album/6QQXjBIopnsi0kPSepQg94) | 3:37 |
+| 10 | [فرق من السما للأرض](https://open.spotify.com/track/38TuvHgODyqzjAD5X8GXCX) | [Yara](https://open.spotify.com/artist/46FJPTBdnCK0GMd76nil6e) | [Taghyeer El Fousoul](https://open.spotify.com/album/6QQXjBIopnsi0kPSepQg94) | 3:37 |
 | 11 | [El Bint El Awiye](https://open.spotify.com/track/1l3S4j9ksQMh2tKIta1bfw) | [Wael Kfoury](https://open.spotify.com/artist/09A6IffSw0t8L8sfuOCVws) | [El Bint El Awiye](https://open.spotify.com/album/6TQquIuw9t7upY6tYfFtGF) | 3:34 |
 | 12 | [Albi Mertah](https://open.spotify.com/track/7AR95BVtIccdWjaWD2iuWX) | [Adam](https://open.spotify.com/artist/2VXNaPH6tQXdoLbU3PrRVz) | [Albi Mertah](https://open.spotify.com/album/4LhiXTMY6udx0hlECrTfb2) | 3:14 |
 | 13 | [Chou B Oul](https://open.spotify.com/track/3svYE1Y2bTBiLWYeKukRxF) | [Ziad Bourji](https://open.spotify.com/artist/04N4sGkSTSxjVfbiItLvTj) | [Chou B Oul](https://open.spotify.com/album/79AMPUKJDB8qM7YhWJKi38) | 3:05 |
@@ -31,7 +31,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaywRlmHaP59.md) - [plain]
 | 21 | [Ellit Adab](https://open.spotify.com/track/0M0QUK3Y8WRtEf47SgVeUA) | [Fares Karam](https://open.spotify.com/artist/06LBSAoRYVLCzBU0HtlPW3) | [Ellit Adab](https://open.spotify.com/album/5yNb6o8oSgUBCYFcUoL6cZ) | 2:50 |
 | 22 | [Sahak Isho2](https://open.spotify.com/track/3zlKK9XIKHfKgNE1NDTw65) | [Fadel Chaker](https://open.spotify.com/artist/1LljnS3oumQ36wdBhkPKrs) | [Sahak Isho2](https://open.spotify.com/album/0Z3zSzfMUnG8CyKJOQjWkD) | 3:24 |
 | 23 | [Ettala Fia](https://open.spotify.com/track/1AofrI6TYzXGIrvKk3tjWe) | [Carole Samaha](https://open.spotify.com/artist/0CSSBwiYmYF569NxdQedQ3) | [Helm](https://open.spotify.com/album/5ZtffaFHscFIsdnJfAPotq) | 4:45 |
-| 24 | [Ma Baaref](https://open.spotify.com/track/3o33CncxOfTLMYcGAIND9t) | [Yara](https://open.spotify.com/artist/46FJPTBdnCK0GMd76nil6e) | [Ya Ayech Bi Oyouni](https://open.spotify.com/album/58bJrHDzBpbByyqV3WMqCH) | 4:02 |
+| 24 | [ما بعرف](https://open.spotify.com/track/3o33CncxOfTLMYcGAIND9t) | [Yara](https://open.spotify.com/artist/46FJPTBdnCK0GMd76nil6e) | [Ya Ayech Bi Oyouni](https://open.spotify.com/album/58bJrHDzBpbByyqV3WMqCH) | 4:02 |
 | 25 | [ana min \- ‘bil dam’ series soundtrack](https://open.spotify.com/track/4b9XevTC3G9v8NdGms3Y9z) | [Marilyne Naaman](https://open.spotify.com/artist/65U0i2so4TBaFympLshw8s) | [ana min \(‘bil dam’ series soundtrack\)](https://open.spotify.com/album/0998OOSuYxxCvIJXSY8TbM) | 3:03 |
 | 26 | [Badi Ghayer Fiki El Aalam](https://open.spotify.com/track/6eMhigZ4x6KfVKDyJVMPIW) | [Wael Kfoury](https://open.spotify.com/artist/09A6IffSw0t8L8sfuOCVws) | [Badi Ghayer Fiki El Aalam](https://open.spotify.com/album/1CeDtZTFFa8RumRTycPge1) | 3:51 |
 | 27 | [كوكبي](https://open.spotify.com/track/4gMaUtyBnnTP50MWFFVQc3) | [Melhem Zein](https://open.spotify.com/artist/3pCdpK2DVRSs77L9RtxFy0) | [٢٢](https://open.spotify.com/album/5ispGWCzyFIcUmRZB59Epa) | 4:08 |

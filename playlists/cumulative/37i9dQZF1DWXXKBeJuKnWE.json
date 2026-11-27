@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2023-01-15",
-  "description": "The sound of the underground. Cover: Narrow Head",
+  "description": "The sound of the underground. Cover: Mouth Culture",
   "name": "The Pit",
   "tracks": [
     {
@@ -34,7 +34,7 @@
       ],
       "date_added": "2026-11-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-27",
       "duration_ms": 152196,
       "name": "(I Can't Get Out Of) My Own Way",
       "url": "https://open.spotify.com/track/5mx3Sm7ercSZASQBShNrpN"
@@ -356,6 +356,24 @@
       "duration_ms": 211848,
       "name": "a new moral low ground",
       "url": "https://open.spotify.com/track/2XNJNwSOq8tLWhQ5a9sGBb"
+    },
+    {
+      "album": {
+        "name": "A Particular Proclivity for Pain",
+        "url": "https://open.spotify.com/album/3FJG6xhlLeC8WP0oBkpAQ7"
+      },
+      "artists": [
+        {
+          "name": "Chiodos",
+          "url": "https://open.spotify.com/artist/4ZIBrskTJWmkJUvM7uAu1o"
+        }
+      ],
+      "date_added": "2026-11-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 235715,
+      "name": "A Particular Proclivity for Pain",
+      "url": "https://open.spotify.com/track/7IgwIgLydCzA8KaRIPueEw"
     },
     {
       "album": {
@@ -780,6 +798,28 @@
       "duration_ms": 216884,
       "name": "An Ending In Itself",
       "url": "https://open.spotify.com/track/10NpRPR6vhJLF2LutMM2Qk"
+    },
+    {
+      "album": {
+        "name": "Anemoia",
+        "url": "https://open.spotify.com/album/7yMWsbfHNltTLoasYCbXBw"
+      },
+      "artists": [
+        {
+          "name": "Northlane",
+          "url": "https://open.spotify.com/artist/3qyg72RGnGdF521zMU02u9"
+        },
+        {
+          "name": "Dayseeker",
+          "url": "https://open.spotify.com/artist/5FjQVp1Lb0kltmwIuu5kfj"
+        }
+      ],
+      "date_added": "2026-11-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 253744,
+      "name": "Anemoia",
+      "url": "https://open.spotify.com/track/4gpv83yAQbdgTEisrNeBkB"
     },
     {
       "album": {
@@ -3480,7 +3520,7 @@
       ],
       "date_added": "2026-11-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-27",
       "duration_ms": 199449,
       "name": "DAMAGED PEOPLE",
       "url": "https://open.spotify.com/track/7rg6G9tjorF8VsKJz0guyu"
@@ -3700,7 +3740,7 @@
       ],
       "date_added": "2026-11-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-27",
       "duration_ms": 129346,
       "name": "Davidian",
       "url": "https://open.spotify.com/track/1Vlg1Qi0nUONrAzdZl8OwG"
@@ -3882,7 +3922,7 @@
       ],
       "date_added": "2026-06-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-27",
       "duration_ms": 272000,
       "name": "Death To Something",
       "url": "https://open.spotify.com/track/691foVXBeyjG2KPY4PGeFy"
@@ -4300,6 +4340,24 @@
       "duration_ms": 196818,
       "name": "Dissimulator",
       "url": "https://open.spotify.com/track/2CyfukQBuNQo1DJ31ho50G"
+    },
+    {
+      "album": {
+        "name": "Dissonate",
+        "url": "https://open.spotify.com/album/33augwf4CN1s1XLt6iGCnr"
+      },
+      "artists": [
+        {
+          "name": "Ignite",
+          "url": "https://open.spotify.com/artist/48ErVeccMDF5UiHA4TdGWr"
+        }
+      ],
+      "date_added": "2026-11-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 203557,
+      "name": "Dissonate",
+      "url": "https://open.spotify.com/track/1ifLp2NEVcgv2r7c6eBM7f"
     },
     {
       "album": {
@@ -5105,6 +5163,24 @@
     },
     {
       "album": {
+        "name": "Every Part Of Me",
+        "url": "https://open.spotify.com/album/38YPQtVWqxozySQ0lIN0ll"
+      },
+      "artists": [
+        {
+          "name": "THE HARA",
+          "url": "https://open.spotify.com/artist/2MizZlEPFQHeR3MndOyYoQ"
+        }
+      ],
+      "date_added": "2026-11-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 233250,
+      "name": "Every Part Of Me",
+      "url": "https://open.spotify.com/track/4tF9X4u2vkjXE4Hx5EQwDi"
+    },
+    {
+      "album": {
         "name": "Everybody Knows",
         "url": "https://open.spotify.com/album/13gb5lKK6fIsAEYMzEg9Qs"
       },
@@ -5120,6 +5196,24 @@
       "duration_ms": 199617,
       "name": "Everybody Knows",
       "url": "https://open.spotify.com/track/4uHsDdr65dajDR7zuc7336"
+    },
+    {
+      "album": {
+        "name": "Everything Changed",
+        "url": "https://open.spotify.com/album/0MDX4juVoduGW5INKuHabS"
+      },
+      "artists": [
+        {
+          "name": "Otu",
+          "url": "https://open.spotify.com/artist/2evWkIg1jHHBLYqRuotSJZ"
+        }
+      ],
+      "date_added": "2026-11-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 215684,
+      "name": "Everything Changed",
+      "url": "https://open.spotify.com/track/4hWjHl41OZpUJ5QhFAVpP1"
     },
     {
       "album": {
@@ -5767,6 +5861,24 @@
     },
     {
       "album": {
+        "name": "Dying To Stay",
+        "url": "https://open.spotify.com/album/5hJuzRvH2exRfDnA3a5Qds"
+      },
+      "artists": [
+        {
+          "name": "Mouth Culture",
+          "url": "https://open.spotify.com/artist/4Fc4GqcYwYnTePiW3nggrd"
+        }
+      ],
+      "date_added": "2026-11-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 232403,
+      "name": "Fool",
+      "url": "https://open.spotify.com/track/6otg3nHJ97hRBgdYKGnuxM"
+    },
+    {
+      "album": {
         "name": "How To Disappear",
         "url": "https://open.spotify.com/album/1zwEmwHMjcL6eFesggCTOR"
       },
@@ -6377,6 +6489,24 @@
     },
     {
       "album": {
+        "name": "Gingivitis",
+        "url": "https://open.spotify.com/album/6Xt8bKhbnXV6oKEoCFHTLc"
+      },
+      "artists": [
+        {
+          "name": "Dance Gavin Dance",
+          "url": "https://open.spotify.com/artist/6guC9FqvlVboSKTI77NG2k"
+        }
+      ],
+      "date_added": "2026-11-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 168512,
+      "name": "Gingivitis",
+      "url": "https://open.spotify.com/track/6Ye8SxKmSFcMazWrqxOuL0"
+    },
+    {
+      "album": {
         "name": "Giraffe",
         "url": "https://open.spotify.com/album/3uFbktga31i0ft3ZwRhrNp"
       },
@@ -6526,6 +6656,24 @@
       "duration_ms": 144430,
       "name": "Go Tobann",
       "url": "https://open.spotify.com/track/1N3XD3Fz1Brtzsu7ghjqSV"
+    },
+    {
+      "album": {
+        "name": "Goathammer",
+        "url": "https://open.spotify.com/album/0GO6CvedFULbqzzOPxtFPs"
+      },
+      "artists": [
+        {
+          "name": "Devastator",
+          "url": "https://open.spotify.com/artist/7mirzgcgxZvy2huJ4Ehrko"
+        }
+      ],
+      "date_added": "2026-11-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 255400,
+      "name": "Goathammer",
+      "url": "https://open.spotify.com/track/7riD9RrWsRmjcFD5ayOTd3"
     },
     {
       "album": {
@@ -6858,7 +7006,7 @@
       ],
       "date_added": "2026-11-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-27",
       "duration_ms": 132655,
       "name": "Growing Pains",
       "url": "https://open.spotify.com/track/1UddgWOlKT1AXp4PbBHy2U"
@@ -8842,7 +8990,7 @@
       ],
       "date_added": "2026-07-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-27",
       "duration_ms": 187464,
       "name": "Kill Me First",
       "url": "https://open.spotify.com/track/1mFvTywPa4teyAeo9frqAY"
@@ -11162,6 +11310,24 @@
       "duration_ms": 295775,
       "name": "Novocaine",
       "url": "https://open.spotify.com/track/7ylI3Csj3EG4HPVf11L2jz"
+    },
+    {
+      "album": {
+        "name": "nowhere left",
+        "url": "https://open.spotify.com/album/5t1Ygw4bLRv0utGv2k85ww"
+      },
+      "artists": [
+        {
+          "name": "KIDPUNK",
+          "url": "https://open.spotify.com/artist/6QUkxY9FkBh9XF4qCbaABt"
+        }
+      ],
+      "date_added": "2026-11-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 170000,
+      "name": "nowhere left",
+      "url": "https://open.spotify.com/track/0ojAddSDnzruKbDTk28A0j"
     },
     {
       "album": {
@@ -14037,6 +14203,24 @@
     },
     {
       "album": {
+        "name": "STEP PSYCHOSIS",
+        "url": "https://open.spotify.com/album/6R4l1hy6MWaTUjdxzXbg4t"
+      },
+      "artists": [
+        {
+          "name": "GANS",
+          "url": "https://open.spotify.com/artist/05PzzXnIetN4rWDlYv23SK"
+        }
+      ],
+      "date_added": "2026-11-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 315653,
+      "name": "STEP PSYCHOSIS",
+      "url": "https://open.spotify.com/track/6Er3ru3ganWBxk2BuUCkIP"
+    },
+    {
+      "album": {
         "name": "STFU",
         "url": "https://open.spotify.com/album/0NYz1EimESo3xgx3KMkknf"
       },
@@ -14214,7 +14398,7 @@
       ],
       "date_added": "2026-11-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-27",
       "duration_ms": 208026,
       "name": "Subhuman Scum",
       "url": "https://open.spotify.com/track/0AK37FmiY8JC9PbEknBfRi"
@@ -14582,7 +14766,7 @@
       ],
       "date_added": "2026-11-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-27",
       "duration_ms": 175377,
       "name": "Systematic Enslavement",
       "url": "https://open.spotify.com/track/3BgLXWQENoT4QxmDHE4xlZ"
@@ -15504,7 +15688,7 @@
       ],
       "date_added": "2026-10-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-27",
       "duration_ms": 221253,
       "name": "Therapy In Me",
       "url": "https://open.spotify.com/track/0cjvjLMnAbPyuHUm817t31"
@@ -17746,7 +17930,7 @@
       ],
       "date_added": "2026-07-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-27",
       "duration_ms": 194693,
       "name": "Your Name In Red Ink",
       "url": "https://open.spotify.com/track/2Wuq5insP2K1DiQZrfGhGn"

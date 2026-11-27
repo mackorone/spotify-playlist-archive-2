@@ -2,9 +2,9 @@
 
 ### [Haze ](https://open.spotify.com/playlist/37i9dQZF1DWUcJb0bNFBm0)
 
-> Noise distortion amongst the hazy clouds ☁️  Cover: Leaveourtears \(Korea\)
+> Noise distortion amongst the hazy clouds ☁️  Cover: Shye \(Singapore\)
 
-342 songs - 23 hr 38 min
+344 songs - 23 hr 47 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -293,8 +293,10 @@
 | [the river](https://open.spotify.com/track/7fenr5zdjkJKH50czhtBnq) | [Sun Cell](https://open.spotify.com/artist/2FkruVc167pPQ7FYtjmPef) | [the river](https://open.spotify.com/album/0nUlCvIFEo4qVhYhueTEYL) | 3:14 | 2026-03-19 |  |
 | [The River Runs slowly](https://open.spotify.com/track/085Fu95fvjitPSEyIPJcmg) | [Ferri\-Chrome](https://open.spotify.com/artist/1mQTu2sdvPrgwujzkfnpJy) | [The River Runs slowly](https://open.spotify.com/album/13XlfaVHqb3EztJyk9kFnT) | 2:38 | 2024-08-05 | 2024-12-05 |
 | [The Sun Is In Our Eyes](https://open.spotify.com/track/0htL9fhtoeL1XMFi3mnSTm) | [UJU](https://open.spotify.com/artist/2rc8Sz5mhQYrNg9xkoYlMI) | [The Sun Is In Our Eyes](https://open.spotify.com/album/62KE5bmBpoqYtkLQYMkFJh) | 6:47 | 2024-06-27 | 2024-08-09 |
+| [The World Today](https://open.spotify.com/track/1GkuTYll123sH8z17NbPgR) | [Themilo](https://open.spotify.com/artist/59sKn5XeA4AI4WdrlW25aS) | [The World Today](https://open.spotify.com/album/5OTuZQ62eil0WqT51EwFUk) | 4:52 | 2026-11-27 |  |
 | [thorns](https://open.spotify.com/track/5xJnY016OyIUAMsLIDhfO4) | [B Murph](https://open.spotify.com/artist/37UPFnpW6Y42ztryUCYzUJ), [xona](https://open.spotify.com/artist/0pn2qAOiJ6u8E9gY7vO6WZ) | [thorns](https://open.spotify.com/album/3TuSeBroII1uKr01YkltRA) | 2:35 | 2025-04-03 | 2026-11-16 |
 | [Tired](https://open.spotify.com/track/1D3B2JlVierm8SoKsSxQ8s) | [Coming Up Roses](https://open.spotify.com/artist/6pfmrPAgSkSRCZXAkbkGyb) | [Tired](https://open.spotify.com/album/5rA3SyvNJjX4R2GUF6OWdX) | 2:41 | 2025-05-09 | 2025-11-15 |
+| [To Be Seen](https://open.spotify.com/track/14Ublw3yabvejlcmwdk6J8) | [Shye](https://open.spotify.com/artist/1aqEk77J220IxgnGsgEz9T) | [To Be Seen](https://open.spotify.com/album/3k2g97qbQdynnuIzihPeCg) | 3:55 | 2026-11-27 |  |
 | [To My Love](https://open.spotify.com/track/3V6rl1l7hJT3u3NVN0g1UU) | [Pocari Sweet波卡利甜](https://open.spotify.com/artist/594eWfeyQ02c9MLYI9iLuK) | [Tears in Rain（就像泪水消逝在雨中）](https://open.spotify.com/album/6nlLIph5HfbYSJ9UquhqVM) | 4:36 | 2024-06-27 | 2024-12-05 |
 | [To My Love](https://open.spotify.com/track/7FULpfn4MQlvqZHqDO1hYj) | [Pocari Sweet波卡利甜](https://open.spotify.com/artist/2mRvIBsxvP5BcxNWM9MfcR) | [Tears in Rain](https://open.spotify.com/album/0IzZfuIqvh3eiGo88D9J9r) | 4:36 | 2024-12-04 | 2025-08-01 |
 | [To Rage \- Middle Farm Session](https://open.spotify.com/track/5MiULLcKAT4UffR0PPB4w3) | [Daughter](https://open.spotify.com/artist/46CitWgnWrvF9t70C2p1Me) | [Middle Farm Session](https://open.spotify.com/album/0Ykr9wHAv3YTnDCyJtXDaJ) | 4:53 | 2025-10-09 | 2026-04-24 |

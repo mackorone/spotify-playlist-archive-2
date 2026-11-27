@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2021-12-29",
-  "description": "The best new and classic South African Rock. Cover: Spoegwolf",
+  "description": "The best new and classic South African Rock. Cover: Coasters",
   "name": "SA Rock ",
   "tracks": [
     {
@@ -218,6 +218,24 @@
       "duration_ms": 202887,
       "name": "A Little Less",
       "url": "https://open.spotify.com/track/5He1bjR7YKGzKi48UXzYVG"
+    },
+    {
+      "album": {
+        "name": "A Million Miles",
+        "url": "https://open.spotify.com/album/5SYqmFLNeQj8LYQOBMFJbC"
+      },
+      "artists": [
+        {
+          "name": "Kahn Morbee",
+          "url": "https://open.spotify.com/artist/2iWHEO8h8v3D9lITyyB6GF"
+        }
+      ],
+      "date_added": "2026-11-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 170730,
+      "name": "A Million Miles",
+      "url": "https://open.spotify.com/track/340TJEiepLvM5otCpibWiI"
     },
     {
       "album": {
@@ -506,10 +524,28 @@
       ],
       "date_added": "2026-09-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-27",
       "duration_ms": 181888,
       "name": "Aksie Braai",
       "url": "https://open.spotify.com/track/52YuMNXCzmAPxFIh9d8aNc"
+    },
+    {
+      "album": {
+        "name": "Aktuele Sake",
+        "url": "https://open.spotify.com/album/2kBUh3RgH0sVTTyAzN0VXT"
+      },
+      "artists": [
+        {
+          "name": "Kaart Blaansje",
+          "url": "https://open.spotify.com/artist/7eKE04GW2tJo88RDcw7sP9"
+        }
+      ],
+      "date_added": "2026-11-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 298442,
+      "name": "Aktuele Sake",
+      "url": "https://open.spotify.com/track/271svPyW4FFl01FgHOzLQE"
     },
     {
       "album": {
@@ -1306,6 +1342,24 @@
       "duration_ms": 240063,
       "name": "Baseline",
       "url": "https://open.spotify.com/track/73lM1799uutdMU9kYRGn6M"
+    },
+    {
+      "album": {
+        "name": "basement",
+        "url": "https://open.spotify.com/album/2gi9DkcxLjGEqgBYVJUL0a"
+      },
+      "artists": [
+        {
+          "name": "Coasters",
+          "url": "https://open.spotify.com/artist/4VjyjBUcEwwx4xqtU359Ep"
+        }
+      ],
+      "date_added": "2026-11-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 187333,
+      "name": "basement",
+      "url": "https://open.spotify.com/track/5AtyA8kPjKE3AGut0ETdGf"
     },
     {
       "album": {
@@ -2190,6 +2244,24 @@
       "duration_ms": 305658,
       "name": "Breathe Here Comes the Panic",
       "url": "https://open.spotify.com/track/1RJjLIbSRaA46rr45wtjKo"
+    },
+    {
+      "album": {
+        "name": "Brief",
+        "url": "https://open.spotify.com/album/7jONd6VgfSuOWfA9WKFdzf"
+      },
+      "artists": [
+        {
+          "name": "SKUINS NA TWEE",
+          "url": "https://open.spotify.com/artist/3f9tUtHG8q8KeG5kBG3zcM"
+        }
+      ],
+      "date_added": "2026-11-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 212718,
+      "name": "Brief",
+      "url": "https://open.spotify.com/track/1zA437pL5gDbPRNPeYR8fi"
     },
     {
       "album": {
@@ -4241,6 +4313,24 @@
     },
     {
       "album": {
+        "name": "Dis Jou Lewe Werd",
+        "url": "https://open.spotify.com/album/6plT5x6RJm6dDE6D0O0vib"
+      },
+      "artists": [
+        {
+          "name": "NIKOTIEN",
+          "url": "https://open.spotify.com/artist/1owyXkdGxYWNYxr9YknHG0"
+        }
+      ],
+      "date_added": "2026-11-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 192001,
+      "name": "Dis Jou Lewe Werd",
+      "url": "https://open.spotify.com/track/5EJ0wBH90gWSmmw7AZD1Jy"
+    },
+    {
+      "album": {
         "name": "Dis Okay",
         "url": "https://open.spotify.com/album/1fKwNlSRfPn3yyIdY18hKP"
       },
@@ -4610,7 +4700,7 @@
       ],
       "date_added": "2026-11-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-27",
       "duration_ms": 261147,
       "name": "Dro\u00ea Re\u00ebn",
       "url": "https://open.spotify.com/track/6wjVk7GuIczB184wyVoaKB"
@@ -6026,7 +6116,7 @@
       ],
       "date_added": "2026-11-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-27",
       "duration_ms": 246000,
       "name": "Gee Meer",
       "url": "https://open.spotify.com/track/3E2OiknENNt5RlBOL6F4L3"
@@ -6159,6 +6249,32 @@
     },
     {
       "album": {
+        "name": "Geraas",
+        "url": "https://open.spotify.com/album/1prYwehy76TTkRmgGfcLef"
+      },
+      "artists": [
+        {
+          "name": "Ampie",
+          "url": "https://open.spotify.com/artist/05OlCJb6VjFEHPiCfwTCZx"
+        },
+        {
+          "name": "Coenie Naude",
+          "url": "https://open.spotify.com/artist/6XNhIqAENeuAS9mfdNA1eF"
+        },
+        {
+          "name": "Dan Patlansky",
+          "url": "https://open.spotify.com/artist/3awgCNpBPrMUtU6dxRLVF5"
+        }
+      ],
+      "date_added": "2026-11-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 179646,
+      "name": "Geraas",
+      "url": "https://open.spotify.com/track/5LD0EBj1uxohnFsXNsvQ41"
+    },
+    {
+      "album": {
         "name": "Gesiggie",
         "url": "https://open.spotify.com/album/6Y2ewvAcBPC1nJbgMoJMug"
       },
@@ -6282,6 +6398,24 @@
       "duration_ms": 157520,
       "name": "Ghost Rider",
       "url": "https://open.spotify.com/track/7yY19ftTx7KgHBnAvpWBXx"
+    },
+    {
+      "album": {
+        "name": "GHUBULUZA",
+        "url": "https://open.spotify.com/album/28V5rSlzUo8xBvsiojifRt"
+      },
+      "artists": [
+        {
+          "name": "ALTRA-MAL",
+          "url": "https://open.spotify.com/artist/5ajE5Xs6rASLIMmCUAc2Qx"
+        }
+      ],
+      "date_added": "2026-11-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 145659,
+      "name": "GHUBULUZA",
+      "url": "https://open.spotify.com/track/5U0jSMQGv5xaWmC1FAaes9"
     },
     {
       "album": {
@@ -6769,6 +6903,28 @@
     },
     {
       "album": {
+        "name": "groot drome, KLEIN SAKKE",
+        "url": "https://open.spotify.com/album/7hjsNqpXRwW5p87MVSrrPy"
+      },
+      "artists": [
+        {
+          "name": "TWO",
+          "url": "https://open.spotify.com/artist/0lPCLnqch0At4pU5dgRShl"
+        },
+        {
+          "name": "SimZo",
+          "url": "https://open.spotify.com/artist/1Uhnip7oXdAOh7psiRGZWQ"
+        }
+      ],
+      "date_added": "2026-11-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 134651,
+      "name": "groot drome, KLEIN SAKKE",
+      "url": "https://open.spotify.com/track/7hobozD86POZaUGtUvHF1E"
+    },
+    {
+      "album": {
         "name": "Groovie Ghoulie",
         "url": "https://open.spotify.com/album/2K6cfdKCxGEaqEPjEWM9da"
       },
@@ -7123,6 +7279,24 @@
     },
     {
       "album": {
+        "name": "Hello (Ross's Version)",
+        "url": "https://open.spotify.com/album/3qZTpGxqeNGpUQ14BBHrE8"
+      },
+      "artists": [
+        {
+          "name": "Ross Learmonth",
+          "url": "https://open.spotify.com/artist/5ONIVFtUBDrUz28G8ltCHN"
+        }
+      ],
+      "date_added": "2026-11-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 222511,
+      "name": "Hello (Ross's Version)",
+      "url": "https://open.spotify.com/track/6UM1Q4q4aFvZTbeF53wYL4"
+    },
+    {
+      "album": {
         "name": "As Jy Met Vuur Speel Sal Jy Brand",
         "url": "https://open.spotify.com/album/5gSfDHZrqgG02WCE30NRvM"
       },
@@ -7354,7 +7528,7 @@
       ],
       "date_added": "2026-11-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-27",
       "duration_ms": 190500,
       "name": "HITS LIKE THIS",
       "url": "https://open.spotify.com/track/11ThfB3hcwaOAhNaiddxEL"
@@ -9633,6 +9807,24 @@
     },
     {
       "album": {
+        "name": "Liewe Heiden",
+        "url": "https://open.spotify.com/album/2oVNFOPSp7kkRDXtjnSSxk"
+      },
+      "artists": [
+        {
+          "name": "The Buckfever Underground",
+          "url": "https://open.spotify.com/artist/64CsQDGZFx0ejzIy8VFaI9"
+        }
+      ],
+      "date_added": "2026-11-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 273674,
+      "name": "Liewe Heiden",
+      "url": "https://open.spotify.com/track/2GeokH1mbKOPkbkivgHYEe"
+    },
+    {
+      "album": {
         "name": "Forgotten Songs: E.P. 4 - Fresh Takes and Forgotten Tapes",
         "url": "https://open.spotify.com/album/5oOWKaqihT8atWiXUXbNf5"
       },
@@ -9900,6 +10092,24 @@
       "duration_ms": 243720,
       "name": "Lonely-lonely",
       "url": "https://open.spotify.com/track/0aTltS2EBEW76JBVQhIQ7a"
+    },
+    {
+      "album": {
+        "name": "Long Way Down",
+        "url": "https://open.spotify.com/album/4C6xcOEWgn7zlni693mtOY"
+      },
+      "artists": [
+        {
+          "name": "Stereo Club",
+          "url": "https://open.spotify.com/artist/4NJbKjkR9DcoyVT4ZXgAkv"
+        }
+      ],
+      "date_added": "2026-11-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 179855,
+      "name": "Long Way Down",
+      "url": "https://open.spotify.com/track/4p1Ff1v4iZGGe1gPhcs18U"
     },
     {
       "album": {
@@ -10228,7 +10438,7 @@
       ],
       "date_added": "2026-11-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-27",
       "duration_ms": 237761,
       "name": "Manual Breather",
       "url": "https://open.spotify.com/track/0WB5I6Gw6KwXTJrgyyWIJt"
@@ -10693,6 +10903,24 @@
     },
     {
       "album": {
+        "name": "Mourning Son",
+        "url": "https://open.spotify.com/album/7BMQYCcr6FFHJyJOkk14Bj"
+      },
+      "artists": [
+        {
+          "name": "Hellcats",
+          "url": "https://open.spotify.com/artist/2AowMnfwcOgR3RuSuM8Hu8"
+        }
+      ],
+      "date_added": "2026-11-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 282189,
+      "name": "Mourning Son",
+      "url": "https://open.spotify.com/track/2GQHtUf4YkVMB8kaGPoq8a"
+    },
+    {
+      "album": {
         "name": "Moving On",
         "url": "https://open.spotify.com/album/16tg33hGgJoIPNEEEWzZGF"
       },
@@ -11036,7 +11264,7 @@
       ],
       "date_added": "2026-11-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-27",
       "duration_ms": 180413,
       "name": "Mymer",
       "url": "https://open.spotify.com/track/2LtzQYD9iJVp7EUSwaRlxW"
@@ -11436,7 +11664,7 @@
       ],
       "date_added": "2026-11-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-27",
       "duration_ms": 253410,
       "name": "No-stal-gies",
       "url": "https://open.spotify.com/track/5HIBPVltVLt6ekTdLIOYA4"
@@ -12518,7 +12746,7 @@
       ],
       "date_added": "2026-04-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-27",
       "duration_ms": 180011,
       "name": "Pikkewynstraat",
       "url": "https://open.spotify.com/track/6kHnBVq4migU2NmT7JUVPI"
@@ -12738,7 +12966,7 @@
       ],
       "date_added": "2026-11-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-27",
       "duration_ms": 281760,
       "name": "Power of Midnight",
       "url": "https://open.spotify.com/track/7aYjSRT7kAKikhsYZuaSup"
@@ -13484,7 +13712,7 @@
       ],
       "date_added": "2026-11-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-27",
       "duration_ms": 261000,
       "name": "Rukkemoer",
       "url": "https://open.spotify.com/track/2RkkyVfqSXNgYCQGG1VKSj"
@@ -13716,6 +13944,24 @@
       "duration_ms": 195431,
       "name": "Scarred",
       "url": "https://open.spotify.com/track/3C1piIulJ3OSeGZLqa8i8M"
+    },
+    {
+      "album": {
+        "name": "SCARS",
+        "url": "https://open.spotify.com/album/0CekelUfu2o2fj2C45Z33T"
+      },
+      "artists": [
+        {
+          "name": "The Govt.",
+          "url": "https://open.spotify.com/artist/2UJWWvf4gRNfPzfrvO1VU9"
+        }
+      ],
+      "date_added": "2026-11-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 247000,
+      "name": "SCARS",
+      "url": "https://open.spotify.com/track/1TFwkfnZTOW2GnuxbYBG5R"
     },
     {
       "album": {
@@ -14150,7 +14396,7 @@
       ],
       "date_added": "2026-11-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-27",
       "duration_ms": 167405,
       "name": "SIDE EFFECTS",
       "url": "https://open.spotify.com/track/2gHNweRTvRaw5HswmIcdEE"
@@ -14280,6 +14526,24 @@
       "duration_ms": 225911,
       "name": "Skemer",
       "url": "https://open.spotify.com/track/1jA3oyVG2hVhJ1N4pEnikA"
+    },
+    {
+      "album": {
+        "name": "Skeur My in Twee",
+        "url": "https://open.spotify.com/album/2c7nzySTuUiYKb9iQWZSq9"
+      },
+      "artists": [
+        {
+          "name": "Tot Stilstand",
+          "url": "https://open.spotify.com/artist/7DLmVHAVKRMGZuA1KEk11S"
+        }
+      ],
+      "date_added": "2026-11-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 204435,
+      "name": "Skeur My in Twee",
+      "url": "https://open.spotify.com/track/3hwLdzX3gbmiOyjVvDx6px"
     },
     {
       "album": {
@@ -15693,6 +15957,24 @@
     },
     {
       "album": {
+        "name": "Switserland",
+        "url": "https://open.spotify.com/album/2Ppsaq6HdruaVnAs2YGW48"
+      },
+      "artists": [
+        {
+          "name": "Skobbejakus",
+          "url": "https://open.spotify.com/artist/1nZW9M9Dq7Fu9yYAByFAR9"
+        }
+      ],
+      "date_added": "2026-11-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 223000,
+      "name": "Switserland",
+      "url": "https://open.spotify.com/track/7GNaA2fTrWArAos25hjnvZ"
+    },
+    {
+      "album": {
         "name": "Sy Weet",
         "url": "https://open.spotify.com/album/4PDJBtjCopCcMIDJhRb2r3"
       },
@@ -16104,7 +16386,7 @@
       ],
       "date_added": "2026-11-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-27",
       "duration_ms": 198832,
       "name": "Tequila & Lime",
       "url": "https://open.spotify.com/track/0ebFg4FZNhAiqvvCXGegNh"
@@ -17230,7 +17512,7 @@
       ],
       "date_added": "2026-11-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-27",
       "duration_ms": 287594,
       "name": "Under The Blue",
       "url": "https://open.spotify.com/track/0z1AvgdpwxxQ78eGONLWbT"
@@ -17544,7 +17826,7 @@
       ],
       "date_added": "2026-06-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-27",
       "duration_ms": 135272,
       "name": "Verloor Jouself",
       "url": "https://open.spotify.com/track/6gyapfzo41oTNPFLMBIgA4"
@@ -18746,7 +19028,7 @@
       ],
       "date_added": "2026-11-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-27",
       "duration_ms": 198789,
       "name": "Wyk Engel Wyk",
       "url": "https://open.spotify.com/track/7LQrbK5X4CPZ56mGCBOHO5"

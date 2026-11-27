@@ -2,9 +2,9 @@
 
 ### [New Pop UK](https://open.spotify.com/playlist/37i9dQZF1DWXWBMhgr0bkX)
 
-> New pop releases from the UK & Ireland 🌟 cover: FLO
+> New pop releases from the UK & Ireland 🌟 cover: Dua Lipa
 
-1,523 songs - 3 day 6 hr 50 min
+1,526 songs - 3 day 7 hr 0 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -118,7 +118,7 @@
 | [Bad Guy](https://open.spotify.com/track/4MNtdN4HlTVQlBBM5fLIQP) | [Sweet Love](https://open.spotify.com/artist/7d9dknRT5j9nng6ACdLCfq) | [Bad Guy](https://open.spotify.com/album/57boUEqytRwqeqtZwBux7r) | 3:00 | 2025-04-10 | 2025-04-25 |
 | [BAD IDEA](https://open.spotify.com/track/2tv9f6TI6N2YodNZznGX9u) | [Lana Lubany](https://open.spotify.com/artist/53jnd1fhXV7lbXSfjgk1WR) | [BAD IDEA](https://open.spotify.com/album/6onkLsxds6BIAt1CJcqHpH) | 3:04 | 2026-01-23 | 2026-03-06 |
 | [bad people](https://open.spotify.com/track/2R0xXX5JQWnidDXYHTrDQs) | [Harvey Brittain](https://open.spotify.com/artist/2xrhDfConcV9D7c1tUqueP) | [bad people](https://open.spotify.com/album/0v8IiqoYzJhjp5PzmG94HO) | 3:18 | 2026-03-13 | 2026-04-10 |
-| [bad taste](https://open.spotify.com/track/3TDVbddsKv0TrYdnLdrZZs) | [Freya Skye](https://open.spotify.com/artist/2puBSdvuiPd5L4ENw6mxsn) | [bad taste](https://open.spotify.com/album/4w1gQavyvVaZmHcUuuKxJL) | 2:50 | 2026-09-17 |  |
+| [bad taste](https://open.spotify.com/track/3TDVbddsKv0TrYdnLdrZZs) | [Freya Skye](https://open.spotify.com/artist/2puBSdvuiPd5L4ENw6mxsn) | [bad taste](https://open.spotify.com/album/4w1gQavyvVaZmHcUuuKxJL) | 2:50 | 2026-09-17 | 2026-11-27 |
 | [Ballet Pumps](https://open.spotify.com/track/3iAua4ZysTvqch8Uyt3lZ4) | [Bea](https://open.spotify.com/artist/6Jl6Xw5FnzQqmKNodwbKym) | [Ballet Pumps](https://open.spotify.com/album/4FYcvhBdw8iyAwAhXfyDnv) | 3:18 | 2026-08-27 | 2026-10-02 |
 | [Be My Love](https://open.spotify.com/track/52oAg84vPElHHPfbabV9ar) | [Benjamin Steer](https://open.spotify.com/artist/3AsjkwNrs6gHBh3tYXxiNH) | [Be My Love](https://open.spotify.com/album/0HlI5t6vSAc4UX6Utmt32G) | 2:26 | 2026-02-27 | 2026-04-10 |
 | [Beast](https://open.spotify.com/track/6rrkmh9RJAlZ6ZkonTK5P1) | [Charlotte MacInnes](https://open.spotify.com/artist/6awXERWZUqqR1jyC9CwZWb) | [HIGHWATER](https://open.spotify.com/album/6faZq7r1fxJ2YcxLQanRAl) | 3:10 | 2026-06-26 | 2026-07-17 |
@@ -332,7 +332,7 @@
 | [Dark Arts](https://open.spotify.com/track/5q8lO9GDY33DvVH4gkkPNa) | [aimei 媚](https://open.spotify.com/artist/2ij6gLxPV2uEuRxDwnyBfZ) | [Dark Arts](https://open.spotify.com/album/3cZJKRV8PnPOuBUZJbHZaZ) | 3:27 | 2024-09-12 | 2024-10-11 |
 | [Daughter](https://open.spotify.com/track/69Pn3QQWzXriWsdvpSVbCj) | [Eyelar](https://open.spotify.com/artist/3u4qXYRgHgU7YtjZt9sduX) | [Daughter](https://open.spotify.com/album/2vxPTN9qoa6PUliP6kCSZV) | 2:32 | 2025-12-05 | 2026-01-30 |
 | [day's end](https://open.spotify.com/track/1tTnHwzbrZ0oQHsCCE0RaT) | [Luz](https://open.spotify.com/artist/3cdI6SvJ24KsOcvYyBwH9c) | [day's end](https://open.spotify.com/album/0g2mNIPGRMkRESJFDTgnam) | 3:01 | 2026-07-23 | 2026-09-11 |
-| [Daydreaming](https://open.spotify.com/track/4OqGAjIXTwVt7pxTekpuuf) | [CHIRAI](https://open.spotify.com/artist/2p3FQ1wlwCWcCXQpUuxWTa) | [Daydreaming](https://open.spotify.com/album/58bEBWRLvRZ9sUU7GweNIZ) | 4:03 | 2026-09-17 |  |
+| [Daydreaming](https://open.spotify.com/track/4OqGAjIXTwVt7pxTekpuuf) | [CHIRAI](https://open.spotify.com/artist/2p3FQ1wlwCWcCXQpUuxWTa) | [Daydreaming](https://open.spotify.com/album/58bEBWRLvRZ9sUU7GweNIZ) | 4:03 | 2026-09-17 | 2026-11-27 |
 | [Daydreams](https://open.spotify.com/track/1Zd1rB7gPvaIhtJmorOUgU) | [Theo Zellus](https://open.spotify.com/artist/4FhoAhb3rM2xpTPkoskUts) | [Daydreams](https://open.spotify.com/album/4i8AntK5jOzWkf2n3JYiIC) | 2:45 | 2024-06-04 | 2024-09-06 |
 | [DCFMA](https://open.spotify.com/track/3ZpYnHfhIsBQKOwSE5mWE5) | [Bimini](https://open.spotify.com/artist/5QSfJ3Ny5A3AAmv2gg1pCk) | [DCFMA](https://open.spotify.com/album/5UKzcyFcO1ygtf6yiLdcLh) | 4:11 | 2025-12-05 | 2026-01-16 |
 | [Dead & Buried](https://open.spotify.com/track/0rOQVbaY5pXtEwzUxzSiWH) | [Alfie Castley](https://open.spotify.com/artist/4t5uGGNiFjujYEEyVVDEwc) | [When The Lights Are Low EP](https://open.spotify.com/album/4mLwJFiIk4kXebpXQLF9AP) | 3:15 | 2026-09-10 | 2026-09-26 |
@@ -463,7 +463,7 @@
 | [FAMOUS](https://open.spotify.com/track/2jqqbDOjU6aJO3Vj9pKKIY) | [ETHAN](https://open.spotify.com/artist/5oqtu58F4NZtVlCamsdmdq) | [FAMOUS](https://open.spotify.com/album/0lf82hX3Y2QcWrqfXfpLpC) | 2:50 | 2026-05-28 | 2026-07-03 |
 | [fancy](https://open.spotify.com/track/7J5GcAbZ2rsWk2BzZDVog1) | [Artemas](https://open.spotify.com/artist/0PCCGZ0wGLizHt2KZ7hhA2) | [fancy / xvideos](https://open.spotify.com/album/073p1oabjQBPOYrAMWOrge) | 2:05 | 2024-12-20 | 2025-02-14 |
 | [Fantasia](https://open.spotify.com/track/5cPKOERv76tk5jpIyBxGW5) | [Michael Aldag](https://open.spotify.com/artist/2e1NO2tyaMZajNoWe71ZiJ) | [Fantasia](https://open.spotify.com/album/1l6X9iGw2UNNqIOHm2KjGi) | 2:26 | 2025-01-31 | 2025-02-21 |
-| [Fantasy](https://open.spotify.com/track/2HhoZOgFf80u5wqErSXBil) | [dexter in the newsagent](https://open.spotify.com/artist/3bAdh9KH0kxlwrfz7Uh5Aa) | [Fantasy](https://open.spotify.com/album/1KofBMfkgQDP3GNfE7E6H8) | 2:02 | 2026-09-17 |  |
+| [Fantasy](https://open.spotify.com/track/2HhoZOgFf80u5wqErSXBil) | [dexter in the newsagent](https://open.spotify.com/artist/3bAdh9KH0kxlwrfz7Uh5Aa) | [Fantasy](https://open.spotify.com/album/1KofBMfkgQDP3GNfE7E6H8) | 2:02 | 2026-09-17 | 2026-11-27 |
 | [Fantasy](https://open.spotify.com/track/23zspOaDtWuHh0bZaCo3PZ) | [Fickle Friends](https://open.spotify.com/artist/1nhSLEYdoBHG6cJ8NDwoF1) | [Fickle Friends](https://open.spotify.com/album/77NcQbJCAIoymd5Z0VCJre) | 3:13 | 2025-11-07 | 2026-01-15 |
 | [Fantasy](https://open.spotify.com/track/6dpPD92UT5ETTb56EI57yI) | [JADE](https://open.spotify.com/artist/24b0qNYNgeOfpP5rbljIB3) | [Fantasy](https://open.spotify.com/album/4TLjECteKor6f1j5zpVYYc) | 3:36 | 2024-10-17 | 2025-01-17 |
 | [Fault Line](https://open.spotify.com/track/16hJb6Q1lb22hVc4IsJoCo) | [Elle Coves](https://open.spotify.com/artist/3Hey7RF0bxnjPP8IEXmPRa) | [Fault Line](https://open.spotify.com/album/4oaZCFbDFPktNYKJrTlXf3) | 3:11 | 2025-11-07 | 2025-12-12 |
@@ -772,6 +772,7 @@
 | [Killing the Game](https://open.spotify.com/track/4uKMuSSz5efdaVKZINX0Mi) | [IDER](https://open.spotify.com/artist/2LOwKJMjuv7VsprtYaFzl0) | [Late to the World](https://open.spotify.com/album/52IVBszkmihtHkZ1QQqjki) | 4:01 | 2025-02-21 | 2025-03-14 |
 | [Killing The Mood](https://open.spotify.com/track/23aN2ayUPGtpoox5n3eeyG) | [Holly Humberstone](https://open.spotify.com/artist/0nnYdIpahs41QiZ9MWp5Wx) | [Cruel World…So It Ends](https://open.spotify.com/album/0Q6uk8wBcCwONqiYROLo8U) | 3:23 | 2026-11-13 |  |
 | [kintsugi](https://open.spotify.com/track/3x6gA8SG2NB2XQ9gmgggT9) | [Ella Eyre](https://open.spotify.com/artist/66TrUkUZ3RM29dqeDQRgyA) | [kintsugi](https://open.spotify.com/album/4EWfIhYmj4618XFcsFG6UW) | 3:27 | 2025-06-12 | 2025-07-25 |
+| [Kiss](https://open.spotify.com/track/5IXDw51dhPNfVxhmysyXXZ) | [James Marriott](https://open.spotify.com/artist/14apS9tKI3K30GK92BNQUL) | [Kiss](https://open.spotify.com/album/5BN5T28NkHLfphidpDAs1J) | 2:54 | 2026-11-27 |  |
 | [KISS KISS KISS](https://open.spotify.com/track/5iE8bnKSui0ZB4W4OeF6dJ) | [flowerovlove](https://open.spotify.com/artist/1JspXUvEv3D9ddMeLNqYWj) | [KISS KISS KISS](https://open.spotify.com/album/3fHbzgXcFTmapUwxklKbty) | 3:17 | 2026-07-30 | 2026-08-28 |
 | [Kiss My Levi's](https://open.spotify.com/track/3EOc927LqursoU8Qx1zZxX) | [Bellah Mae](https://open.spotify.com/artist/0BCD9XnZVhdY2vojKAPAiT) | [Keep It Peachy](https://open.spotify.com/album/6kaUbA3snbhNGbkc5T2e4x) | 2:26 | 2026-05-28 | 2026-07-10 |
 | [Kiss U](https://open.spotify.com/track/4NQhiSup7VLViZe7r3kzUX) | [LYVIA](https://open.spotify.com/artist/50lx8GGMkqblJrDSpaV0du) | [Running Late...](https://open.spotify.com/album/5Yk5ADXoZC60aQSJqOCIe9) | 2:54 | 2025-07-24 | 2025-08-22 |
@@ -780,6 +781,7 @@
 | [Kissing In The Strobe Light \(feat\. Orchid\)](https://open.spotify.com/track/6wAHDahF7f8cqEeABNZbEu) | [SONIKKU](https://open.spotify.com/artist/31iYRMOM5mUFDxPMMljOZ9), [Orchid](https://open.spotify.com/artist/6QOxGQVxMhHHeljjU5dIvV) | [Kissing In The Strobe Light \(feat\. Orchid\)](https://open.spotify.com/album/2fw19MoetBBdoUpGLuZES3) | 3:39 | 2025-07-09 | 2025-08-01 |
 | [Knife Cuts Both Ways](https://open.spotify.com/track/3HTVn3ykDxr3ZtmThhUlwy) | [ARI LEE](https://open.spotify.com/artist/2CR4RXDXZVMvjEV3rrEVA7) | [Knife Cuts Both Ways](https://open.spotify.com/album/0USp78h1DwcmOa0BDLNhU7) | 2:58 | 2026-05-14 | 2026-06-27 |
 | [Knight Shift](https://open.spotify.com/track/04OgZGLuxPzwuobqduZYVe) | [Ellie Dixon](https://open.spotify.com/artist/4mvJltDSlBawXCZhq6NAso) | [Knight Shift](https://open.spotify.com/album/6aVxjvh07K5Kg3S10eVaAe) | 2:03 | 2025-03-28 | 2025-04-18 |
+| [Knives](https://open.spotify.com/track/30WXK60kj1hEgnWwgXKoiY) | [James Vincent McMorrow](https://open.spotify.com/artist/7FDlvgcodNfC0IBdWevl4u) | [Knives](https://open.spotify.com/album/38WzxbUAmrFgBFieXoF1Av) | 3:58 | 2026-11-27 |  |
 | [Knockin’ On Wood](https://open.spotify.com/track/5FOMmRwn03ZwOfVDfQbkx8) | [JP O'Grady](https://open.spotify.com/artist/2MNgLXbhja9W7EUYoXmK4l) | [Knockin' On Wood](https://open.spotify.com/album/39gyA541xVESVqk80HvtNc) | 3:10 | 2026-10-15 |  |
 | [Know How It Hurts](https://open.spotify.com/track/120sSK66JfcBPb9mqPmd6G) | [IDER](https://open.spotify.com/artist/2LOwKJMjuv7VsprtYaFzl0) | [Know How It Hurts](https://open.spotify.com/album/6q5b2ooIGg1oPlxD969M9l) | 3:42 | 2024-11-15 | 2025-01-17 |
 | [Know When It's Over](https://open.spotify.com/track/0Yr0HFvu6fbTrVF5rso6ah) | [Sinead Una](https://open.spotify.com/artist/0tQFNwjbNUUR2ow68NpGSB) | [Know When It's Over](https://open.spotify.com/album/63i1XOBrJwBlN1WhXWM5PX) | 4:04 | 2025-04-10 | 2025-05-02 |
@@ -1189,6 +1191,7 @@
 | [Shadows](https://open.spotify.com/track/4uqwjTu6OOTASKwDb1PDtx) | [Talia Rae](https://open.spotify.com/artist/4v6p8rTvDtYbnoegKY3mqr) | [Shadows](https://open.spotify.com/album/0mQFKHQ1KQYQCY46mudsJC) | 3:03 | 2024-08-16 | 2024-10-18 |
 | [Shangri\-La](https://open.spotify.com/track/1nXXqWvZUYXUyM9HCrXt1V) | [Moncrieff](https://open.spotify.com/artist/7axEazQlDDxu7KBQyFTfoC) | [Shangri\-La](https://open.spotify.com/album/2mLuqaQ5K6L67MvxukHCTd) | 3:22 | 2025-03-28 | 2025-04-11 |
 | [She Belongs To Me](https://open.spotify.com/track/6bu0R7UPZyibLGCoeOs1tH) | [Sophie Saint](https://open.spotify.com/artist/5CRJ8xa1BJNgONmWsL8tva) | [She Belongs To Me](https://open.spotify.com/album/7KanoDd12S4DNUH8wRoOjP) | 2:50 | 2026-06-18 | 2026-07-24 |
+| [She Belongs To Me \- Live in Hackney, Oct 16, 2026](https://open.spotify.com/track/6DOKrXD8Ze6BRbAN7Prql8) | [Sophie Saint](https://open.spotify.com/artist/5CRJ8xa1BJNgONmWsL8tva) | [Birth \(Stripped Back\)](https://open.spotify.com/album/1BnGXCi4LiLsXS1QqdJust) | 3:23 | 2026-11-27 |  |
 | [She Holds Me](https://open.spotify.com/track/5R2lEJq8s91Xm1k7mbKGoQ) | [Dring](https://open.spotify.com/artist/1CXXrFuiErqDFLhQPPPYKt) | [She Holds Me](https://open.spotify.com/album/2Ow1ZYIWU2erbGCiSlGdCF) | 3:04 | 2025-09-11 | 2025-10-10 |
 | [She Knows I'm Nice](https://open.spotify.com/track/20XDCUqj008V72g1BpJJ8U) | [Finn Mungo](https://open.spotify.com/artist/2iusqS4txEVVJupH4r7tS9) | [She Knows I'm Nice](https://open.spotify.com/album/5a1tT8UMhikG7Ehs0RFlNQ) | 3:53 | 2025-03-28 | 2025-04-11 |
 | [She's Just A Friend Of Mine](https://open.spotify.com/track/4HZb7nI9lA3VNFlZeyw1j8) | [twst](https://open.spotify.com/artist/5zEQC9Hbg0Sql7lQB466xD) | [She's Just A Friend Of Mine](https://open.spotify.com/album/2RwbSWEsPaS21vssjkLHC2) | 2:40 | 2026-09-17 | 2026-11-20 |

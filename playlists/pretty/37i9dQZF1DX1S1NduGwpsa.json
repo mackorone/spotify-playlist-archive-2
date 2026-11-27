@@ -1,15 +1,15 @@
 {
   "description": "The best jazz new releases. Cover: Joshua Redman",
-  "num_followers": 170451,
+  "num_followers": 170489,
   "original_name": "Jazz Club",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAKzB5hrdNdQwBLRMlZazWOu93ius",
+  "snapshot_id": "AAAAAC9a2WfHspILzfhIUOatpP3RvjJR",
   "tracks": [
     {
-      "added_at": "2026-11-20 04:00:46",
+      "added_at": "2026-11-27 04:00:37",
       "album": {
         "name": "If Ever You Would Leave Us (we play for Rollins)",
         "url": "https://open.spotify.com/album/5PmMSDVFehJgsXszJBnwes"
@@ -29,7 +29,7 @@
       "url": "https://open.spotify.com/track/3xoIQRVsIH9Iwon7XEPayc"
     },
     {
-      "added_at": "2026-11-20 04:00:46",
+      "added_at": "2026-11-27 04:00:37",
       "album": {
         "name": "Overtown Lights (from GTAVI: The Album)",
         "url": "https://open.spotify.com/album/16lcH1dcOj1tb33WRXoRYW"
@@ -57,7 +57,23 @@
       "url": "https://open.spotify.com/track/2Tnvf01c6SPKWaLxTsHcFa"
     },
     {
-      "added_at": "2026-11-20 04:00:46",
+      "added_at": "2026-11-27 04:00:37",
+      "album": {
+        "name": "Lord of Lords",
+        "url": "https://open.spotify.com/album/7r3bUn5QpU08Mv1ISXgF8a"
+      },
+      "artists": [
+        {
+          "name": "L\u00e9on Phal",
+          "url": "https://open.spotify.com/artist/1AKiAMwxnF2f1zBlSGDfXC"
+        }
+      ],
+      "duration_ms": 268333,
+      "name": "Lord of Lords",
+      "url": "https://open.spotify.com/track/3AcvOxzSi4lcL5DJIg0VcX"
+    },
+    {
+      "added_at": "2026-11-27 04:00:37",
       "album": {
         "name": "reverie",
         "url": "https://open.spotify.com/album/5bco4xpKFuybfx6JmbVDvj"
@@ -73,7 +89,7 @@
       "url": "https://open.spotify.com/track/6odzoNsTI3mBcjKnmNaoRJ"
     },
     {
-      "added_at": "2026-11-20 04:00:46",
+      "added_at": "2026-11-27 04:00:37",
       "album": {
         "name": "lifesaver",
         "url": "https://open.spotify.com/album/5DlYfsb1NoafIURaA0RNjd"
@@ -89,7 +105,7 @@
       "url": "https://open.spotify.com/track/59N73dcu6jwim2WWNhVn1X"
     },
     {
-      "added_at": "2026-11-20 04:00:46",
+      "added_at": "2026-11-27 04:00:37",
       "album": {
         "name": "Moments Brighter Than The Sun",
         "url": "https://open.spotify.com/album/6iAqEY6BzdSdvxKXPy1ovY"
@@ -105,23 +121,23 @@
       "url": "https://open.spotify.com/track/1e3U7LIoj1rLi8X8O583UH"
     },
     {
-      "added_at": "2026-11-20 04:00:46",
+      "added_at": "2026-11-27 04:00:37",
       "album": {
-        "name": "Imagination",
-        "url": "https://open.spotify.com/album/1zx46KvPM1RyqJ6VOhUJIH"
+        "name": "Imagerie Club",
+        "url": "https://open.spotify.com/album/6xpSYY4TTcgNuWOsMLTSkT"
       },
       "artists": [
         {
-          "name": "Stella Cole",
-          "url": "https://open.spotify.com/artist/1JV6ZltofPUo3j5CTALYRR"
+          "name": "NCY Milky Band",
+          "url": "https://open.spotify.com/artist/1pb87NjDnnDkruGPvHTkIt"
         }
       ],
-      "duration_ms": 243200,
-      "name": "As Time Goes By",
-      "url": "https://open.spotify.com/track/0R5j6ygRWhHhArjrsokvgW"
+      "duration_ms": 262374,
+      "name": "Childhood 277",
+      "url": "https://open.spotify.com/track/6yKAbF1P3ELYRnIQjHmHEa"
     },
     {
-      "added_at": "2026-11-20 04:00:46",
+      "added_at": "2026-11-27 04:00:37",
       "album": {
         "name": "The Look Of Love (25th Anniversary Edition)",
         "url": "https://open.spotify.com/album/1agyPrdD71MVix3PDPXHSC"
@@ -137,7 +153,7 @@
       "url": "https://open.spotify.com/track/6illMdSnnZcPGGjhrZpwYI"
     },
     {
-      "added_at": "2026-11-20 04:00:46",
+      "added_at": "2026-11-27 04:00:37",
       "album": {
         "name": "Diana",
         "url": "https://open.spotify.com/album/2Hbv3WDEy7nsshBwNPVz29"
@@ -153,7 +169,7 @@
       "url": "https://open.spotify.com/track/1zwejNLZzrvpsChAxOudqw"
     },
     {
-      "added_at": "2026-11-20 04:00:46",
+      "added_at": "2026-11-27 04:00:37",
       "album": {
         "name": "The Jazz Nights",
         "url": "https://open.spotify.com/album/2JJHzLyMW28YseVbjbg9ok"
@@ -169,7 +185,7 @@
       "url": "https://open.spotify.com/track/3pNWC41kALblPpJpLHR7ny"
     },
     {
-      "added_at": "2026-11-20 04:00:46",
+      "added_at": "2026-11-27 04:00:37",
       "album": {
         "name": "Not For Lack Of Trying (Deluxe)",
         "url": "https://open.spotify.com/album/4BeNZ3Gr6Kt3IfQXJOHkXD"
@@ -185,7 +201,7 @@
       "url": "https://open.spotify.com/track/4cZioYxDGFKgF45aiWs5B7"
     },
     {
-      "added_at": "2026-11-20 04:00:46",
+      "added_at": "2026-11-27 04:00:37",
       "album": {
         "name": "the Sound of Art",
         "url": "https://open.spotify.com/album/7Mit6sJO0PT3XtICMqtTko"
@@ -205,7 +221,7 @@
       "url": "https://open.spotify.com/track/2IQZJUcLTe6CcTZ4Ek6YI5"
     },
     {
-      "added_at": "2026-11-20 04:00:46",
+      "added_at": "2026-11-27 04:00:37",
       "album": {
         "name": "Kicks",
         "url": "https://open.spotify.com/album/6r1iGGR9nHIdGJItNdAK8K"
@@ -229,7 +245,7 @@
       "url": "https://open.spotify.com/track/6WR4wTQm5UPPhG1dtn3MCC"
     },
     {
-      "added_at": "2026-11-20 04:00:46",
+      "added_at": "2026-11-27 04:00:37",
       "album": {
         "name": "Wainui Beach",
         "url": "https://open.spotify.com/album/6lg71RQM8jO1DfDIE6EKpo"
@@ -245,7 +261,7 @@
       "url": "https://open.spotify.com/track/4uaD45cvop4sT5DmtVN6c9"
     },
     {
-      "added_at": "2026-11-20 04:00:46",
+      "added_at": "2026-11-27 04:00:37",
       "album": {
         "name": "Live At The Blue Note L.A.",
         "url": "https://open.spotify.com/album/6m7pxdtmBiIsV8VTYeYc7S"
@@ -261,7 +277,7 @@
       "url": "https://open.spotify.com/track/4p6xofTGJ0Hi8gpSc2DGEl"
     },
     {
-      "added_at": "2026-11-20 04:00:46",
+      "added_at": "2026-11-27 04:00:37",
       "album": {
         "name": "Flamingo",
         "url": "https://open.spotify.com/album/5c8kVJxZXO7i7qgiDDTnts"
@@ -289,7 +305,7 @@
       "url": "https://open.spotify.com/track/1jmML7EcBqNkhkEEzMURKe"
     },
     {
-      "added_at": "2026-11-20 04:00:46",
+      "added_at": "2026-11-27 04:00:37",
       "album": {
         "name": "Never Too Soon",
         "url": "https://open.spotify.com/album/7M2ejpwYLTDP204rVnMFp1"
@@ -309,7 +325,7 @@
       "url": "https://open.spotify.com/track/6kYtjS1HpbXczssthox6zV"
     },
     {
-      "added_at": "2026-11-20 04:00:46",
+      "added_at": "2026-11-27 04:00:37",
       "album": {
         "name": "A Date with Depeche Mode",
         "url": "https://open.spotify.com/album/4kwVAkI2UNwSslmw45UVkx"
@@ -329,7 +345,7 @@
       "url": "https://open.spotify.com/track/3IpuysNI5h5YMzF4lpbPud"
     },
     {
-      "added_at": "2026-11-20 04:00:46",
+      "added_at": "2026-11-27 04:00:37",
       "album": {
         "name": "SUPER 8",
         "url": "https://open.spotify.com/album/0XUQkhd1tr4focNZXmXolD"
@@ -345,7 +361,7 @@
       "url": "https://open.spotify.com/track/3f9opbbcdyOetdkMu5K1R9"
     },
     {
-      "added_at": "2026-11-20 04:00:46",
+      "added_at": "2026-11-27 04:00:37",
       "album": {
         "name": "Yekwini",
         "url": "https://open.spotify.com/album/6fbrUU0GsxpZT5EZghfOWM"
@@ -365,7 +381,7 @@
       "url": "https://open.spotify.com/track/39lb8ajAZM5EOCmSRY4kc1"
     },
     {
-      "added_at": "2026-11-20 04:00:46",
+      "added_at": "2026-11-27 04:00:37",
       "album": {
         "name": "Elene's Song",
         "url": "https://open.spotify.com/album/6NfCNtv2UyO0Cvw4WQCygX"
@@ -381,7 +397,7 @@
       "url": "https://open.spotify.com/track/14t7xCPRRnceHUWGS5fEC5"
     },
     {
-      "added_at": "2026-11-20 04:00:46",
+      "added_at": "2026-11-27 04:00:37",
       "album": {
         "name": "Another Night (It's Just) ft. Theo Croker, Daru Jones, Oli Rockberger",
         "url": "https://open.spotify.com/album/0DYW8xek5shDjDAla1Hv7i"
@@ -405,7 +421,23 @@
       "url": "https://open.spotify.com/track/0dWT5IDit0SKvC50eKNn1w"
     },
     {
-      "added_at": "2026-11-20 04:00:46",
+      "added_at": "2026-11-27 04:00:37",
+      "album": {
+        "name": "Imagination",
+        "url": "https://open.spotify.com/album/1zx46KvPM1RyqJ6VOhUJIH"
+      },
+      "artists": [
+        {
+          "name": "Stella Cole",
+          "url": "https://open.spotify.com/artist/1JV6ZltofPUo3j5CTALYRR"
+        }
+      ],
+      "duration_ms": 243200,
+      "name": "As Time Goes By",
+      "url": "https://open.spotify.com/track/0R5j6ygRWhHhArjrsokvgW"
+    },
+    {
+      "added_at": "2026-11-27 04:00:37",
       "album": {
         "name": "Nocturnes",
         "url": "https://open.spotify.com/album/5Dnr40B7tiMdtAOmg4bUV5"
@@ -433,7 +465,7 @@
       "url": "https://open.spotify.com/track/4lLVS2N8auPcFRUOGTRHxv"
     },
     {
-      "added_at": "2026-11-20 04:00:46",
+      "added_at": "2026-11-27 04:00:37",
       "album": {
         "name": "Frozen Flashes",
         "url": "https://open.spotify.com/album/21GPT25bZsfbb5qYXDvgL8"
@@ -449,7 +481,7 @@
       "url": "https://open.spotify.com/track/2mVQXLMuQCe6BiTrdLRbhf"
     },
     {
-      "added_at": "2026-11-20 04:00:46",
+      "added_at": "2026-11-27 04:00:37",
       "album": {
         "name": "PEACE",
         "url": "https://open.spotify.com/album/40mjCuZ1UH54SlsYK4aA8a"
@@ -465,23 +497,7 @@
       "url": "https://open.spotify.com/track/0dPwt6abax3nZ6LrIQzhzG"
     },
     {
-      "added_at": "2026-11-20 04:00:46",
-      "album": {
-        "name": "christmas dream",
-        "url": "https://open.spotify.com/album/2JWdOmygDfiRzazzfGGomt"
-      },
-      "artists": [
-        {
-          "name": "aron!",
-          "url": "https://open.spotify.com/artist/5rCTkyHZUIUcPwKwIz8YOg"
-        }
-      ],
-      "duration_ms": 182549,
-      "name": "it's the most wonderful time of the year",
-      "url": "https://open.spotify.com/track/6ozYsjpGOTCgsQg77xvHaX"
-    },
-    {
-      "added_at": "2026-11-20 04:00:46",
+      "added_at": "2026-11-27 04:00:37",
       "album": {
         "name": "But Not For Me",
         "url": "https://open.spotify.com/album/1IDdRfd99shwFnJzGJdvYm"
@@ -497,7 +513,7 @@
       "url": "https://open.spotify.com/track/0Ls0HlOqQtCpoPwUu5yLzc"
     },
     {
-      "added_at": "2026-11-20 04:00:46",
+      "added_at": "2026-11-27 04:00:37",
       "album": {
         "name": "Something's Gotta Give",
         "url": "https://open.spotify.com/album/6M3hHjOpBKyDAPO5j4DVYZ"
@@ -513,7 +529,7 @@
       "url": "https://open.spotify.com/track/31S6JHlGUipCsZb4xnNQQ2"
     },
     {
-      "added_at": "2026-11-20 04:00:46",
+      "added_at": "2026-11-27 04:00:37",
       "album": {
         "name": "Wide Open",
         "url": "https://open.spotify.com/album/4UetcX5W2bMBEpa3BNxK5e"
@@ -533,7 +549,7 @@
       "url": "https://open.spotify.com/track/45bJ2eLOOPNwoWOzkwvusG"
     },
     {
-      "added_at": "2026-11-20 04:00:46",
+      "added_at": "2026-11-27 04:00:37",
       "album": {
         "name": "Bodies & Ideas",
         "url": "https://open.spotify.com/album/0VTpBRBEUqEuThv2zKxIt5"
@@ -549,7 +565,7 @@
       "url": "https://open.spotify.com/track/6K2gm86gUFVSNFe2Fnvdvs"
     },
     {
-      "added_at": "2026-11-20 04:00:46",
+      "added_at": "2026-11-27 04:00:37",
       "album": {
         "name": "God Bless The Child",
         "url": "https://open.spotify.com/album/5ifM5FKsR0JE9HdUUiTOnT"
@@ -581,7 +597,7 @@
       "url": "https://open.spotify.com/track/2f8tsXV3RfgXCkNLWdzmVV"
     },
     {
-      "added_at": "2026-11-20 04:00:46",
+      "added_at": "2026-11-27 04:00:37",
       "album": {
         "name": "Aberdeen",
         "url": "https://open.spotify.com/album/6Djhn6LSBunJkJUZi0el1f"
@@ -609,7 +625,7 @@
       "url": "https://open.spotify.com/track/3iVoB8pt8vazxR7NwvvUCL"
     },
     {
-      "added_at": "2026-11-20 04:00:46",
+      "added_at": "2026-11-27 04:00:37",
       "album": {
         "name": "Comme un \u00e9cho lointain",
         "url": "https://open.spotify.com/album/6L52UdluTRHs4kUHMaLHby"
@@ -637,7 +653,7 @@
       "url": "https://open.spotify.com/track/42C9NNFStIk1wOy0u4zl5U"
     },
     {
-      "added_at": "2026-11-20 04:00:46",
+      "added_at": "2026-11-27 04:00:37",
       "album": {
         "name": "Abathathu",
         "url": "https://open.spotify.com/album/0Tx7NZnfovKps11qh1mLTf"
@@ -653,7 +669,7 @@
       "url": "https://open.spotify.com/track/7CdBGfruRsDm5lOlFsoH8q"
     },
     {
-      "added_at": "2026-11-20 04:00:46",
+      "added_at": "2026-11-27 04:00:37",
       "album": {
         "name": "La Sentencia - Duo",
         "url": "https://open.spotify.com/album/3HguosoaEMHpSODZmb1o36"
@@ -673,7 +689,7 @@
       "url": "https://open.spotify.com/track/74oyWihpW29wlh97CLkMaj"
     },
     {
-      "added_at": "2026-11-20 04:00:46",
+      "added_at": "2026-11-27 04:00:37",
       "album": {
         "name": "Sax Track",
         "url": "https://open.spotify.com/album/05OI5HSR5RtKe4N0s1vDXE"
@@ -693,7 +709,7 @@
       "url": "https://open.spotify.com/track/7qhVqs4kdA7CBHiurhd6Mk"
     },
     {
-      "added_at": "2026-11-20 04:00:46",
+      "added_at": "2026-11-27 04:00:37",
       "album": {
         "name": "Forgiveness",
         "url": "https://open.spotify.com/album/09xy1Zk3SuaGaH5sRkggCT"
@@ -709,7 +725,23 @@
       "url": "https://open.spotify.com/track/4qJnaCEOhxBz6kiMHerXDE"
     },
     {
-      "added_at": "2026-11-20 04:00:46",
+      "added_at": "2026-11-27 04:00:37",
+      "album": {
+        "name": "christmas dream",
+        "url": "https://open.spotify.com/album/2JWdOmygDfiRzazzfGGomt"
+      },
+      "artists": [
+        {
+          "name": "aron!",
+          "url": "https://open.spotify.com/artist/5rCTkyHZUIUcPwKwIz8YOg"
+        }
+      ],
+      "duration_ms": 182549,
+      "name": "it's the most wonderful time of the year",
+      "url": "https://open.spotify.com/track/6ozYsjpGOTCgsQg77xvHaX"
+    },
+    {
+      "added_at": "2026-11-27 04:00:37",
       "album": {
         "name": "Always",
         "url": "https://open.spotify.com/album/7cYYXhyJAKIFzDHFrwwh6a"
@@ -737,7 +769,7 @@
       "url": "https://open.spotify.com/track/5FHDoWLGGHpjmbs5uMfdqI"
     },
     {
-      "added_at": "2026-11-20 04:00:46",
+      "added_at": "2026-11-27 04:00:37",
       "album": {
         "name": "Canton Strut",
         "url": "https://open.spotify.com/album/2JzTFDrTAZpkkndLO5RSNc"
@@ -753,7 +785,7 @@
       "url": "https://open.spotify.com/track/1NNN1R9ONTvkCCWtoTDT4d"
     },
     {
-      "added_at": "2026-11-20 04:00:46",
+      "added_at": "2026-11-27 04:00:37",
       "album": {
         "name": "Inner Oath",
         "url": "https://open.spotify.com/album/6e0LyDJECdhqYfaonGaW1D"
@@ -773,7 +805,7 @@
       "url": "https://open.spotify.com/track/0Jy6LP7SfrzTfGeEQh3vcF"
     },
     {
-      "added_at": "2026-11-20 04:00:46",
+      "added_at": "2026-11-27 04:00:37",
       "album": {
         "name": "Summertime",
         "url": "https://open.spotify.com/album/2xSiRbIxTg4UYg9aoJTuoV"
@@ -789,7 +821,7 @@
       "url": "https://open.spotify.com/track/249aZOusHlB6hTAYzULvqQ"
     },
     {
-      "added_at": "2026-11-20 04:00:46",
+      "added_at": "2026-11-27 04:00:37",
       "album": {
         "name": "And so it goes...",
         "url": "https://open.spotify.com/album/2mSpwTBIVyUPFnGJ2yKME5"
@@ -805,7 +837,7 @@
       "url": "https://open.spotify.com/track/6N1eCaZR3zb05tLtD09M2c"
     },
     {
-      "added_at": "2026-11-20 04:00:46",
+      "added_at": "2026-11-27 04:00:37",
       "album": {
         "name": "Polka Dots And Moonbeams",
         "url": "https://open.spotify.com/album/77mtyJRLgYiXX3cGmhIn9B"
@@ -821,7 +853,7 @@
       "url": "https://open.spotify.com/track/0P8pe1BrOKDP554NpDfkFy"
     },
     {
-      "added_at": "2026-11-20 04:00:46",
+      "added_at": "2026-11-27 04:00:37",
       "album": {
         "name": "Memory Bomb",
         "url": "https://open.spotify.com/album/4LyevrLzvyquVTex1GSjuB"
@@ -845,7 +877,7 @@
       "url": "https://open.spotify.com/track/2NvLivoGmNiAxKdI6ylzPk"
     },
     {
-      "added_at": "2026-11-20 04:00:46",
+      "added_at": "2026-11-27 04:00:37",
       "album": {
         "name": "Almost There",
         "url": "https://open.spotify.com/album/4Ws8vdg8G0nSHdC7rdNwEN"
@@ -861,7 +893,7 @@
       "url": "https://open.spotify.com/track/5OBqVGcDzgjECmmSGBUwGT"
     },
     {
-      "added_at": "2026-11-20 04:00:46",
+      "added_at": "2026-11-27 04:00:37",
       "album": {
         "name": "Grand Street",
         "url": "https://open.spotify.com/album/6TIjvKJlXCo4mJUYJRUdJV"
@@ -889,7 +921,7 @@
       "url": "https://open.spotify.com/track/2NxHjUNJbp9udozC5zCUxy"
     },
     {
-      "added_at": "2026-11-20 04:00:46",
+      "added_at": "2026-11-27 04:00:37",
       "album": {
         "name": "the Sound of Art",
         "url": "https://open.spotify.com/album/6BeRemsQEyEWP4JDcqtkVo"
@@ -909,7 +941,7 @@
       "url": "https://open.spotify.com/track/05PmmkOhawXJ1MIbICQP5J"
     },
     {
-      "added_at": "2026-11-20 04:00:46",
+      "added_at": "2026-11-27 04:00:37",
       "album": {
         "name": "I Guess That\u2019s What Love Can Do",
         "url": "https://open.spotify.com/album/5u4hdsG3MgD11Qw4XXVlfY"
@@ -929,7 +961,7 @@
       "url": "https://open.spotify.com/track/2heRwECCxRuS7d01zhpfxO"
     },
     {
-      "added_at": "2026-11-20 04:00:46",
+      "added_at": "2026-11-27 04:00:37",
       "album": {
         "name": "Floating",
         "url": "https://open.spotify.com/album/0hezZylj1jkluVNBAztyKX"
@@ -953,7 +985,7 @@
       "url": "https://open.spotify.com/track/7amc8eHkaiFOl7uxBtVkIJ"
     },
     {
-      "added_at": "2026-11-20 04:00:46",
+      "added_at": "2026-11-27 04:00:37",
       "album": {
         "name": "Sextan Bucket",
         "url": "https://open.spotify.com/album/31JfQ2JfmnjID4AmmErkA8"
@@ -981,7 +1013,7 @@
       "url": "https://open.spotify.com/track/5WKEoxwAqPPSQvkttcvjOx"
     },
     {
-      "added_at": "2026-11-20 04:00:46",
+      "added_at": "2026-11-27 04:00:37",
       "album": {
         "name": "At Last",
         "url": "https://open.spotify.com/album/4JmunSVZjllauUkJO9abyi"
@@ -997,7 +1029,7 @@
       "url": "https://open.spotify.com/track/5pc0LjdOAAFvUEwcNhlBoh"
     },
     {
-      "added_at": "2026-11-20 04:00:46",
+      "added_at": "2026-11-27 04:00:37",
       "album": {
         "name": "Just a Little Lovin'",
         "url": "https://open.spotify.com/album/1K6ABE9afJklvWm6chmxDu"
@@ -1013,27 +1045,7 @@
       "url": "https://open.spotify.com/track/6CSgYGyNf2JQpnx1K4DFzw"
     },
     {
-      "added_at": "2026-11-20 04:00:46",
-      "album": {
-        "name": "Dedicated To You",
-        "url": "https://open.spotify.com/album/6F2N7JA2Dnbkg9zjVVGqd1"
-      },
-      "artists": [
-        {
-          "name": "Branford Marsalis Quartet",
-          "url": "https://open.spotify.com/artist/795yvukGj0UOfcP8uftDq9"
-        },
-        {
-          "name": "Dianne Reeves",
-          "url": "https://open.spotify.com/artist/7nwrblOf59ulOiB6djwPVh"
-        }
-      ],
-      "duration_ms": 406554,
-      "name": "Autumn Serenade",
-      "url": "https://open.spotify.com/track/1ZUTW4oNoaaJMGwUtCKsuE"
-    },
-    {
-      "added_at": "2026-11-20 04:00:46",
+      "added_at": "2026-11-27 04:00:37",
       "album": {
         "name": "Days Begin To Sing",
         "url": "https://open.spotify.com/album/02Wod8VLumZiz6Qlr1vynH"
@@ -1053,23 +1065,7 @@
       "url": "https://open.spotify.com/track/28UYnzAaPLrglxCtr1tGrg"
     },
     {
-      "added_at": "2026-11-20 04:00:46",
-      "album": {
-        "name": "Sweetest Season",
-        "url": "https://open.spotify.com/album/5zTgf33meU5mjdh4EfW23U"
-      },
-      "artists": [
-        {
-          "name": "Yazmin Lacey",
-          "url": "https://open.spotify.com/artist/2datC2OML2YxykP6vnDRmg"
-        }
-      ],
-      "duration_ms": 170753,
-      "name": "Sweetest Season",
-      "url": "https://open.spotify.com/track/2UKYhq5GAjhmFwBk7uwRGG"
-    },
-    {
-      "added_at": "2026-11-20 04:00:46",
+      "added_at": "2026-11-27 04:00:37",
       "album": {
         "name": "Lawns",
         "url": "https://open.spotify.com/album/2m4grKXk7ezZMAPnFRtceJ"
@@ -1093,23 +1089,7 @@
       "url": "https://open.spotify.com/track/5pbhLARny6tF7BEg7Nb4Gf"
     },
     {
-      "added_at": "2026-11-20 04:00:46",
-      "album": {
-        "name": "Howl",
-        "url": "https://open.spotify.com/album/6jigyjKRyswdih6yL5JoNs"
-      },
-      "artists": [
-        {
-          "name": "Mei Semones",
-          "url": "https://open.spotify.com/artist/3Cp20KSVlMlFuOdqiqHFGR"
-        }
-      ],
-      "duration_ms": 183960,
-      "name": "Howl",
-      "url": "https://open.spotify.com/track/00ZOnzSIZXvO07SeVtxZdq"
-    },
-    {
-      "added_at": "2026-11-20 04:00:46",
+      "added_at": "2026-11-27 04:00:37",
       "album": {
         "name": "Jubilee Feeling",
         "url": "https://open.spotify.com/album/1w0VJUqClIKvyXDdIqbWxx"
@@ -1125,7 +1105,7 @@
       "url": "https://open.spotify.com/track/20oKIhNJOY7QemUmqydhDN"
     },
     {
-      "added_at": "2026-11-20 04:00:46",
+      "added_at": "2026-11-27 04:00:37",
       "album": {
         "name": "Make it happen.",
         "url": "https://open.spotify.com/album/36ECaKImuhB7t2nUbjjyDj"
@@ -1141,7 +1121,7 @@
       "url": "https://open.spotify.com/track/3hJPYF19ISp9ct7I2fiU5j"
     },
     {
-      "added_at": "2026-11-20 04:00:46",
+      "added_at": "2026-11-27 04:00:37",
       "album": {
         "name": "Where moments wait",
         "url": "https://open.spotify.com/album/4YHht6wVxHw5xXgN5yIc4f"
@@ -1157,7 +1137,23 @@
       "url": "https://open.spotify.com/track/2iCLQ0ijBjOSWGx4uUEUh4"
     },
     {
-      "added_at": "2026-11-20 04:00:46",
+      "added_at": "2026-11-27 04:00:37",
+      "album": {
+        "name": "Sweetest Season",
+        "url": "https://open.spotify.com/album/5zTgf33meU5mjdh4EfW23U"
+      },
+      "artists": [
+        {
+          "name": "Yazmin Lacey",
+          "url": "https://open.spotify.com/artist/2datC2OML2YxykP6vnDRmg"
+        }
+      ],
+      "duration_ms": 170753,
+      "name": "Sweetest Season",
+      "url": "https://open.spotify.com/track/2UKYhq5GAjhmFwBk7uwRGG"
+    },
+    {
+      "added_at": "2026-11-27 04:00:37",
       "album": {
         "name": "Memory Bomb",
         "url": "https://open.spotify.com/album/617gOMW4LhxYZi5BE6s4B1"

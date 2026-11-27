@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFAu0bePhLMSX.md) - [plain]
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/0fcSBGKwKuIMqCRmsAru3e">Biff Stannard</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 706 likes - 173 songs - 11 hr 10 min
+[Spotify](https://open.spotify.com/user/spotify) - 708 likes - 173 songs - 11 hr 10 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -76,8 +76,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFAu0bePhLMSX.md) - [plain]
 | 66 | [Light Up \(From the Netflix Documentary 'Kylie'\)](https://open.spotify.com/track/5z8BOVrdo09o6VFR7AuhXk) | [Kylie Minogue](https://open.spotify.com/artist/4RVnAU35WRWra6OZ3CbbMA) | [Light Up \(From the Netflix Documentary 'Kylie'\)](https://open.spotify.com/album/5ukQWhi6imFTlaJxsuoIZO) | 3:17 |
 | 67 | [Voodoo](https://open.spotify.com/track/6rYVBkMNqLBH5kw7AcBz77) | [Spice Girls](https://open.spotify.com/artist/0uq5PttqEjj3IH1bzwcrXF) | [Greatest Hits](https://open.spotify.com/album/2XLpqfYjGTecYQJQU9wFxG) | 3:11 |
 | 68 | [Tell Me What You Dream](https://open.spotify.com/track/1lSSqcVfpoFAHyhSb8odzR) | [GABRIELLE](https://open.spotify.com/artist/7rftfGIYEeZ79sLb58ZBDi) | [Rise](https://open.spotify.com/album/0UdmyRJgaoe92dHgMit5bT) | 4:02 |
-| 69 | [Outer Space Girls](https://open.spotify.com/track/1XHosFpKcWkRtuxPQm0HnO) | [Spice Girls](https://open.spotify.com/artist/0uq5PttqEjj3IH1bzwcrXF) | [Spiceworld \(25th Anniversary\)](https://open.spotify.com/album/3diiYWB32h7c7Eo2x8oxjK) | 3:58 |
-| 70 | [This Time of Year](https://open.spotify.com/track/1eXj6IRSUoL36AEvojj4ZJ) | [Kylie Minogue](https://open.spotify.com/artist/4RVnAU35WRWra6OZ3CbbMA) | [Kylie Christmas \(Fully Wrapped\)](https://open.spotify.com/album/1ujy9xmGf7fnbPLIZnBLO5) | 3:29 |
+| 69 | [This Time of Year](https://open.spotify.com/track/1eXj6IRSUoL36AEvojj4ZJ) | [Kylie Minogue](https://open.spotify.com/artist/4RVnAU35WRWra6OZ3CbbMA) | [Kylie Christmas \(Fully Wrapped\)](https://open.spotify.com/album/1ujy9xmGf7fnbPLIZnBLO5) | 3:29 |
+| 70 | [Outer Space Girls](https://open.spotify.com/track/1XHosFpKcWkRtuxPQm0HnO) | [Spice Girls](https://open.spotify.com/artist/0uq5PttqEjj3IH1bzwcrXF) | [Spiceworld \(25th Anniversary\)](https://open.spotify.com/album/3diiYWB32h7c7Eo2x8oxjK) | 3:58 |
 | 71 | [Bitch Get Out My Car](https://open.spotify.com/track/4O5lLmu32GcqTsNM8CTL0L) | [Say Now](https://open.spotify.com/artist/1p6HheoJqfYMiMC62yQIWn) | [Bitch Get Out My Car](https://open.spotify.com/album/7wBWhre9MI2woi5fLq24W1) | 2:15 |
 | 72 | [Feed Your Love \- Demo](https://open.spotify.com/track/1182NfpbWAJflmaIMOmKaQ) | [Spice Girls](https://open.spotify.com/artist/0uq5PttqEjj3IH1bzwcrXF) | [Spice \(25th Anniversary / Deluxe Edition\)](https://open.spotify.com/album/6VIvQiUIOBMxjme8LYiUlU) | 5:12 |
 | 73 | [Starlight](https://open.spotify.com/track/2MJ8rS9Vi489qebKCh1Xb2) | [Matt Cardle](https://open.spotify.com/artist/3906URNmNa1VCXEeiJ3DSH) | [Letters \(Deluxe Edition\)](https://open.spotify.com/album/5sqeWpEKYq5b7g0rIbSIk8) | 4:18 |
@@ -88,10 +88,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFAu0bePhLMSX.md) - [plain]
 | 78 | [Invincible](https://open.spotify.com/track/0Z3FJOME6CL4Xosj0rRYwx) | [Five](https://open.spotify.com/artist/6rEzedK7cKWjeQWdAYvWVG) | [Invincible](https://open.spotify.com/album/6rwT7u32X6CdrOCClbowiW) | 4:12 |
 | 79 | [Lullaby](https://open.spotify.com/track/6IMGVh9priO0YVmm1rojXx) | [Ronan Keating](https://open.spotify.com/artist/3nlHsNqwCSvT988ZfSW1Yh), [KIZ](https://open.spotify.com/artist/3crmckhd0fPjJaLRDPigKk) | [Fires](https://open.spotify.com/album/1wDMuC10nqI6bCnjf1lzrZ) | 3:54 |
 | 80 | [Loving Days](https://open.spotify.com/track/09pDDFlNY1wkw67ci85RZl) | [Kylie Minogue](https://open.spotify.com/artist/4RVnAU35WRWra6OZ3CbbMA) | [Body Language](https://open.spotify.com/album/7vd7tsL9QEJSKX4nvkkP9T) | 4:26 |
-| 81 | [Just A Day](https://open.spotify.com/track/7dlDAQNbVBBQpTK7LvB63p) | [Aquilo](https://open.spotify.com/artist/26GHRG8x1F4AzbCKzUaIbw) | [Just A Day](https://open.spotify.com/album/5oPJdG33gRgFxHhI6rSWUf) | 3:25 |
-| 82 | [Hold My Body Tight](https://open.spotify.com/track/6MFIFAyq6pt9trqc3cvorS) | [East 17](https://open.spotify.com/artist/6lOC7lwSO1ql4Gc2Y3QObY) | [Steam](https://open.spotify.com/album/1HsKmkuzfcU57zh70og7Wd) | 3:51 |
-| 83 | [Everybody](https://open.spotify.com/track/1c0jsSL891pobIRQkuzgur) | [Hear'Say](https://open.spotify.com/artist/1kMfh3vEY0iWX9SDVjvdsd) | [Everybody](https://open.spotify.com/album/2gURVlgSFzmUldl8EWnN4I) | 3:54 |
-| 84 | [XMAS](https://open.spotify.com/track/4vEvgcU9aSuI7yQyAXHDsl) | [Kylie Minogue](https://open.spotify.com/artist/4RVnAU35WRWra6OZ3CbbMA) | [Kylie Christmas \(Fully Wrapped\)](https://open.spotify.com/album/1ujy9xmGf7fnbPLIZnBLO5) | 3:15 |
+| 81 | [XMAS](https://open.spotify.com/track/4vEvgcU9aSuI7yQyAXHDsl) | [Kylie Minogue](https://open.spotify.com/artist/4RVnAU35WRWra6OZ3CbbMA) | [Kylie Christmas \(Fully Wrapped\)](https://open.spotify.com/album/1ujy9xmGf7fnbPLIZnBLO5) | 3:15 |
+| 82 | [Just A Day](https://open.spotify.com/track/7dlDAQNbVBBQpTK7LvB63p) | [Aquilo](https://open.spotify.com/artist/26GHRG8x1F4AzbCKzUaIbw) | [Just A Day](https://open.spotify.com/album/5oPJdG33gRgFxHhI6rSWUf) | 3:25 |
+| 83 | [Hold My Body Tight](https://open.spotify.com/track/6MFIFAyq6pt9trqc3cvorS) | [East 17](https://open.spotify.com/artist/6lOC7lwSO1ql4Gc2Y3QObY) | [Steam](https://open.spotify.com/album/1HsKmkuzfcU57zh70og7Wd) | 3:51 |
+| 84 | [Everybody](https://open.spotify.com/track/1c0jsSL891pobIRQkuzgur) | [Hear'Say](https://open.spotify.com/artist/1kMfh3vEY0iWX9SDVjvdsd) | [Everybody](https://open.spotify.com/album/2gURVlgSFzmUldl8EWnN4I) | 3:54 |
 | 85 | [Hearts Collide](https://open.spotify.com/track/6wZLtBO9bH2cpsQrm6udm0) | [Little Boots](https://open.spotify.com/artist/0MoXIHcFwhIWnFgBfdvQ30) | [Hands \(Standard DMD\)](https://open.spotify.com/album/1SxlVyf7bCGblH0jQYfL9Z) | 3:45 |
 | 86 | [Places](https://open.spotify.com/track/0VoW5QMambzEXSxrIapO7K) | [Ella Henderson](https://open.spotify.com/artist/7nDsS0l5ZAzMedVRKPP8F1) | [Everything I Didn’t Say](https://open.spotify.com/album/7sb53RUF8x70PzjPmDxF0Q) | 2:59 |
 | 87 | [By Your Side](https://open.spotify.com/track/5DnFrBj0B95LtGBCohSChD) | [Jimmy Somerville](https://open.spotify.com/artist/6LQeBFIfD4C22RJVVjQ6S7) | [Dare to Love](https://open.spotify.com/album/6jerfHX5ZAMHJAewnofvjQ) | 4:46 |
@@ -182,4 +182,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFAu0bePhLMSX.md) - [plain]
 | 172 | [Gonna Get It This Time](https://open.spotify.com/track/4GhrAsUbo4HmTZvXYlxSke) | [Will Young](https://open.spotify.com/artist/2U6gqwyl9F33YxawnFrZG7) | [Let It Go \(Bonus Tracks\)](https://open.spotify.com/album/2ubU9zi8NfQ1qXRNGkLIoi) | 4:03 |
 | 173 | [Never Give Up](https://open.spotify.com/track/1nlGXptwifSiUIrInybCae) | [Jason L\. Smith](https://open.spotify.com/artist/73ynyjKxPklTyMqh11aMog) | [British Dance Invasion, Vol\. 1](https://open.spotify.com/album/23emBcbDlbBqg2sSzXpmNN) | 4:16 |
 
-Snapshot ID: `AciqBAAAAACdiZR3244yh9JQAqygWdcJ`
+Snapshot ID: `AcivpAAAAACYWIgnFOLVq0LNtnCNzTsi`

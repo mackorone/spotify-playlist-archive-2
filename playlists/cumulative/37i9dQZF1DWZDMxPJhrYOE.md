@@ -2,7 +2,7 @@
 
 ### [De nye](https://open.spotify.com/playlist/37i9dQZF1DWZDMxPJhrYOE)
 
-> De stærkeste nye sange fra de seneste par måneder\. Så er du opdateret!
+> De stærkeste nye sange fra de seneste par måneder\. Så er du opdateret! Zira på forsiden 🥷
 
 1,380 songs - 2 day 23 hr 52 min
 
@@ -761,7 +761,7 @@
 | [Loser](https://open.spotify.com/track/3RmFPuTTAjSQ2pbEd2j9oA) | [Tame Impala](https://open.spotify.com/artist/5INjqkS1o8h1imAzPqGZBb) | [Loser](https://open.spotify.com/album/3xIGAElZCxV44QtMvXrPMa) | 3:43 | 2025-09-04 | 2025-12-12 |
 | [Lost Your Faith](https://open.spotify.com/track/4j5vH33ipS1ulVxbwtYkpm) | [Ava Max](https://open.spotify.com/artist/4npEfmQ6YuiwW1GpUmaq3F) | [Lost Your Faith](https://open.spotify.com/album/3YwyFBiVp38ZenPHy04LRd) | 3:13 | 2025-02-06 | 2025-05-18 |
 | [Louisiana](https://open.spotify.com/track/3fxQ8GkReHrrN4zTYpQ1ex) | [Artigeardit](https://open.spotify.com/artist/6a3WaWgxrVmNIvaiTCI0Kk) | [Louisiana](https://open.spotify.com/album/6JsFn553CiwPbXFsvjVF9p) | 2:52 | 2026-04-23 | 2026-07-03 |
-| [Lov Mig Du Venter](https://open.spotify.com/track/2XS8lNsfEp19keGZNhdazo) | [Zira](https://open.spotify.com/artist/4pJAB4vr5CJYRINQQ8WtfB) | [Lov Mig Du Venter](https://open.spotify.com/album/09F16jvSErunqiJkNrymrS) | 2:31 | 2026-11-05 | 2026-11-13 |
+| [Lov Mig Du Venter](https://open.spotify.com/track/2XS8lNsfEp19keGZNhdazo) | [Zira](https://open.spotify.com/artist/4pJAB4vr5CJYRINQQ8WtfB) | [Lov Mig Du Venter](https://open.spotify.com/album/09F16jvSErunqiJkNrymrS) | 2:31 | 2026-11-05 |  |
 | [Love Bites \(Feat\. Tove Lo & SG Lewis\)](https://open.spotify.com/track/3bgaDjKLaicRMFD3Vmw3wv) | [Nelly Furtado](https://open.spotify.com/artist/2jw70GZXlAI8QzWeY2bgRc), [Tove Lo](https://open.spotify.com/artist/4NHQUGzhtTLFvgF5SZesLK), [SG Lewis](https://open.spotify.com/artist/0GG2cWaonE4JPrjcCCQ1EG) | [Love Bites \(Feat\. Tove Lo & SG Lewis\)](https://open.spotify.com/album/3ZOz5WED7SNRykujcrvXUZ) | 2:47 | 2024-07-31 | 2024-08-23 |
 | [Love Can Grow](https://open.spotify.com/track/6uXE1eYTnvxngLUfmuRNsu) | [Declan J Donovan](https://open.spotify.com/artist/6bh228LGC3eAzbplPWV02r) | [Love Can Grow](https://open.spotify.com/album/5iVTqjz6O8WR33Xe9MkXWk) | 3:13 | 2025-12-19 | 2026-03-22 |
 | [Love Hangover \(feat\. Dominic Fike\)](https://open.spotify.com/track/2P6YMsU9jt22CXfizfudi3) | [JENNIE](https://open.spotify.com/artist/250b0Wlc5Vk0CoUsaCY84M), [Dominic Fike](https://open.spotify.com/artist/6USv9qhCn6zfxlBQIYJ9qs) | [Love Hangover \(feat\. Dominic Fike\)](https://open.spotify.com/album/3awd1TKrdd3emCecvza61j) | 3:00 | 2025-01-30 | 2025-04-11 |
@@ -1289,7 +1289,7 @@
 | [Var det dig, der var derinde?](https://open.spotify.com/track/4TxZbbcL8jAqjuonT6CUnJ) | [Guldimund](https://open.spotify.com/artist/5269oiQ5yjMDcgXoJr6zkw), [Sarah Wichmann](https://open.spotify.com/artist/51MYcyx50QTCOVGXeX3cfx) | [Var det dig, der var derinde?](https://open.spotify.com/album/4oQX9QIAhLMpqUEBEwomWb) | 4:15 | 2026-05-28 | 2026-06-05 |
 | [Venter Ikk På Nogen](https://open.spotify.com/track/6rA1UNW5QHnBBg04VX6nN8) | [Pil](https://open.spotify.com/artist/3vSX14E4YqHrx8nyXeOVen) | [Venter Ikk På Nogen](https://open.spotify.com/album/5C4Xi4rDB5X7IeOKrYwv4a) | 3:31 | 2026-01-09 | 2026-08-30 |
 | [Venter Kun På Dig](https://open.spotify.com/track/7y5aDrMQIYHnySJk84yyUZ) | [Sira Jovina](https://open.spotify.com/artist/6J9AFauvtJJ8brNaiWwWat) | [Venter Kun På Dig](https://open.spotify.com/album/7sBpUWuaMauZvtzbgBzGnL) | 2:20 | 2025-06-05 | 2025-06-13 |
-| [verden er blaa \(feat\. ozzy\)](https://open.spotify.com/track/3g3U6vMUj98tZAOyBDD8C1) | [Noah Shacc](https://open.spotify.com/artist/2loViEtAOK1DPMIpeggP7Y), [ozzy](https://open.spotify.com/artist/1RJznM4DOSV69NWbkq3RA9) | [verden er blaa \(feat\. ozzy\)](https://open.spotify.com/album/6gfzN6qpkN9Z6S6VdxdEM9) | 2:27 | 2026-11-24 |  |
+| [verden er blaa \(feat\. ozzy\)](https://open.spotify.com/track/3g3U6vMUj98tZAOyBDD8C1) | [Noah Shacc](https://open.spotify.com/artist/2loViEtAOK1DPMIpeggP7Y), [ozzy](https://open.spotify.com/artist/1RJznM4DOSV69NWbkq3RA9) | [verden er blaa \(feat\. ozzy\)](https://open.spotify.com/album/6gfzN6qpkN9Z6S6VdxdEM9) | 2:27 | 2026-11-24 | 2026-11-27 |
 | [VERDEN ER VIDUNDERLIG](https://open.spotify.com/track/5vGjqKJ71eE5P5PQDbye2x) | [Turboweekend](https://open.spotify.com/artist/4v5M2g2hKOoaUceEgJbr80) | [VERDEN ER VIDUNDERLIG](https://open.spotify.com/album/3CStDQnMuR3Fu2uaXgBej1) | 4:45 | 2025-11-20 | 2025-11-28 |
 | [VERDEN RUNDT](https://open.spotify.com/track/62Du6R05e0d5nZ4IUVBaqf) | [Branco](https://open.spotify.com/artist/1YwMnnHvnG64fJxYSVwmN6) | [BABA BUSINESS 3](https://open.spotify.com/album/16y1M4Dnrqiodnk8KvRhLf) | 2:23 | 2024-07-31 | 2024-08-02 |
 | [Verdens Volume Skruet Op \(Peter Sommer X HUGORM\)](https://open.spotify.com/track/5gD5VS7jX349VDIS8ozwZF) | [Peter Sommer](https://open.spotify.com/artist/5EXeUuYgGRA1RnXHqALLDL), [HUGORM](https://open.spotify.com/artist/2MaqdTB8EUuYLUPDJipWG2) | [Verdens Volume Skruet Op \(Peter Sommer X HUGORM\)](https://open.spotify.com/album/0QJ2nSyPkTyVEDADT0dKDI) | 2:52 | 2025-06-26 | 2025-07-04 |

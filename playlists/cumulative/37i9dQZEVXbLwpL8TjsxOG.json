@@ -11086,7 +11086,7 @@
       ],
       "date_added": "2024-07-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-27",
       "duration_ms": 230581,
       "name": "Let go",
       "url": "https://open.spotify.com/track/0VKdwugDTY088b1J84QH3e"
@@ -14150,7 +14150,7 @@
       ],
       "date_added": "2025-12-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-27",
       "duration_ms": 200011,
       "name": "On a SunnyDay",
       "url": "https://open.spotify.com/track/6PKraUz7pKyBqyeI2B7A0y"
@@ -15912,7 +15912,7 @@
       ],
       "date_added": "2024-11-21",
       "date_added_asterisk": false,
-      "date_removed": "2026-11-23",
+      "date_removed": null,
       "duration_ms": 151646,
       "name": "Running Wild",
       "url": "https://open.spotify.com/track/50zAEIE4B1QqhPjRMK2Xmh"
@@ -18850,7 +18850,7 @@
       ],
       "date_added": "2022-10-29",
       "date_added_asterisk": false,
-      "date_removed": "2026-11-16",
+      "date_removed": null,
       "duration_ms": 282463,
       "name": "The Astronaut",
       "url": "https://open.spotify.com/track/0h7QMc9ZRzA9QJrbEHytn2"
@@ -21812,7 +21812,7 @@
       ],
       "date_added": "2026-11-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-27",
       "duration_ms": 181911,
       "name": "You're Under Arrest",
       "url": "https://open.spotify.com/track/7IY0j2xsQqaWtVqb17xpJG"
@@ -25404,7 +25404,7 @@
       ],
       "date_added": "2026-07-05",
       "date_added_asterisk": false,
-      "date_removed": "2026-11-25",
+      "date_removed": null,
       "duration_ms": 259133,
       "name": "\u5bcc\u58eb\u5c71\u4e0b",
       "url": "https://open.spotify.com/track/3cthRwQ2X0SNTaauD7tjn5"
@@ -25808,7 +25808,7 @@
       ],
       "date_added": "2022-10-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-27",
       "duration_ms": 205933,
       "name": "\u601d\u89ba\u5931\u8abf",
       "url": "https://open.spotify.com/track/3H9gYJcdtqeUiM8WX8YrZz"
@@ -26458,7 +26458,7 @@
       ],
       "date_added": "2026-07-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-27",
       "duration_ms": 257013,
       "name": "\u6211\u672c\u4eba",
       "url": "https://open.spotify.com/track/55z4ZnZNJEJBn9hPrekE4f"
@@ -26660,7 +26660,7 @@
       ],
       "date_added": "2024-03-13",
       "date_added_asterisk": false,
-      "date_removed": "2026-07-16",
+      "date_removed": null,
       "duration_ms": 242778,
       "name": "\u62bd",
       "url": "https://open.spotify.com/track/0gR31WqpwQyB1312AO9wxl"
@@ -26956,7 +26956,7 @@
       ],
       "date_added": "2026-07-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-27",
       "duration_ms": 194812,
       "name": "\u65cb\u8f49\u6728\u99ac",
       "url": "https://open.spotify.com/track/5YOyplpxGqOuxDr0BlQI0u"
@@ -31033,6 +31033,24 @@
     },
     {
       "album": {
+        "name": "My Bad",
+        "url": "https://open.spotify.com/album/42ZYQpGKQMStoKcAnn6D6T"
+      },
+      "artists": [
+        {
+          "name": "Zpecial",
+          "url": "https://open.spotify.com/artist/56Ac1JJiopOrWDuRIb330x"
+        }
+      ],
+      "date_added": "2026-11-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 221281,
+      "name": "\u8a18\u5f97\u4e0d\u8a18\u5f97",
+      "url": "https://open.spotify.com/track/4T3CyJrncE0w7vIUH7QMct"
+    },
+    {
+      "album": {
         "name": "\u8a18\u61b6\u68c9",
         "url": "https://open.spotify.com/album/6uWrUpmYlVSBmJ6RkCW4QE"
       },
@@ -32120,7 +32138,7 @@
       ],
       "date_added": "2026-11-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-27",
       "duration_ms": 248973,
       "name": "\u96e2\u5bb6\u51fa\u8d70",
       "url": "https://open.spotify.com/track/1nOOfzRbAJfXAId7jXAdFU"
@@ -32618,7 +32636,7 @@
       ],
       "date_added": "2024-03-29",
       "date_added_asterisk": false,
-      "date_removed": "2026-11-26",
+      "date_removed": null,
       "duration_ms": 219385,
       "name": "\u9ed1\u73bb\u7483",
       "url": "https://open.spotify.com/track/65TyCkIJtF8hDF599vCXwe"
@@ -32690,7 +32708,7 @@
       ],
       "date_added": "2026-11-16",
       "date_added_asterisk": false,
-      "date_removed": "2026-11-25",
+      "date_removed": null,
       "duration_ms": 181911,
       "name": "\uccb4\ud3ec\ud558\uaca0\uc5b4",
       "url": "https://open.spotify.com/track/30T1Q5lsYzCEKzifUWwFWM"

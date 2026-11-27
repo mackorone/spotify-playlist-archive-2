@@ -1717,6 +1717,40 @@
     },
     {
       "album": {
+        "name": "MANDELA DESACATO",
+        "url": "https://open.spotify.com/album/2yfI82RKjZc5rivDKJoHzt"
+      },
+      "artists": [
+        {
+          "name": "Dikai",
+          "url": "https://open.spotify.com/artist/217xsjaPzWxB4bur8nxPbb"
+        },
+        {
+          "name": "Mc Magrinho",
+          "url": "https://open.spotify.com/artist/4JA9UvIYD3D5kL7utiGJMI"
+        },
+        {
+          "name": "MC Lan",
+          "url": "https://open.spotify.com/artist/4mb1xtQVGSK5dh8AbtwBiR"
+        },
+        {
+          "name": "Mc Kitinho",
+          "url": "https://open.spotify.com/artist/1d2PrJ5wELpihT8yrwH4mO"
+        },
+        {
+          "name": "Mc Luanna",
+          "url": "https://open.spotify.com/artist/6VpdTQWCRE01WVoEuby2a6"
+        }
+      ],
+      "date_added": "2026-11-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 113754,
+      "name": "MANDELA DESACATO",
+      "url": "https://open.spotify.com/track/028tk2wLjKst51hy8QBIaQ"
+    },
+    {
+      "album": {
         "name": "PAPEL DE OT\u00c1RIA | MEDLEY 4X4",
         "url": "https://open.spotify.com/album/0pX6HvnLUdVsLDm6ktuMwF"
       },

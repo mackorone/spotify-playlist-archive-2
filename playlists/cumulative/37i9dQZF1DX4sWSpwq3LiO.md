@@ -4,7 +4,7 @@
 
 > Peaceful piano to help you slow down, breathe, and relax.
 
-1,880 songs - 3 day 11 hr 17 min
+1,882 songs - 3 day 11 hr 22 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -1617,6 +1617,7 @@
 | [The Nomad](https://open.spotify.com/track/2CqYEUz87EmtXLpu5QhjrQ) | [Koral Banko](https://open.spotify.com/artist/77POcMr56NHorl74QoH1Lj) | [The Nomad](https://open.spotify.com/album/5ha7u3ly8G0bEDLxidwWRD) | 2:57 | 2019-05-26\* | 2019-10-30 |
 | [The Northern Fields](https://open.spotify.com/track/3rqNtzfekrqoZcaK2CfGwP) | [SG Hilltwig](https://open.spotify.com/artist/756zvVCs2NGZiI0HVWfrKS) | [The Northern Fields](https://open.spotify.com/album/4B95zmZkzbJ3EFPRiWzW9y) | 2:33 | 2026-10-23 |  |
 | [The oak](https://open.spotify.com/track/5JcvLTlhEtDl3lPFs95xRM) | [Kiara Leonard](https://open.spotify.com/artist/0fAevrRhdDPOCXbd7FYR8P) | [Fields](https://open.spotify.com/album/0bqMUUD910BVxrs4ENCuTC) | 2:04 | 2022-04-28 | 2022-10-25 |
+| [The Ocean](https://open.spotify.com/track/4o3HZF3nJMYMGGXw4p4a0M) | [Eldur Hættu](https://open.spotify.com/artist/3GsfhG02GtXyYPOoc5QRa8) | [The Ocean](https://open.spotify.com/album/18uoIbSMlZEhC1ln89dNpG) | 2:17 | 2026-11-27 |  |
 | [The Old Garden](https://open.spotify.com/track/6brQG7CUofzdsnNx3qssrh) | [Sanna Aalto](https://open.spotify.com/artist/6EJXTKyCTIQICfv1PT6uAg) | [The Old Garden](https://open.spotify.com/album/4Jb3hdLpWGCRrNM6so6KXM) | 2:54 | 2023-12-05 | 2025-02-26 |
 | [The Orchard \(I\)](https://open.spotify.com/track/2Wcv1iL7U75j0yAUuQq4Qz) | [Christopher Dicker](https://open.spotify.com/artist/3WrvWolT9GYQzCudBunNu3) | [The Orchard \(I\)](https://open.spotify.com/album/7r3fBLzgZjxVXqRyUU2tPt) | 2:47 | 2021-03-17 | 2022-03-11 |
 | [The Owl](https://open.spotify.com/track/0YFMpvuxexjjj8lZKYRCrD) | [Valérie Beaumont](https://open.spotify.com/artist/1MB6Pvf8JF8zGKtI1LSVjD) | [The Owl](https://open.spotify.com/album/4D5mDIlOrgRAXMO4hOhYXo) | 2:59 | 2021-09-16 | 2022-07-16 |
@@ -1780,6 +1781,7 @@
 | [Volga](https://open.spotify.com/track/5GVo7iQPoQUDOX1xUadS1p) | [Ivan Vladusic](https://open.spotify.com/artist/6RIbBV3sHhVlLi2mPPMjbN) | [Volga](https://open.spotify.com/album/4E7hFmTDF1eyBIxdXyREiF) | 2:49 | 2022-01-12 | 2022-10-25 |
 | [Vorfreude](https://open.spotify.com/track/1306xuQzBjGCK8OlEhJpf7) | [Roman Jensen](https://open.spotify.com/artist/4raiE8vGGRVn7J1dPb1fbG) | [Vorfreude](https://open.spotify.com/album/1L6PYZfg2Xq3OhNjvskXPC) | 2:28 | 2020-06-02 | 2020-10-20 |
 | [Vows](https://open.spotify.com/track/4sUMe29O588OnzPopccTpz) | [Thomas Perceval](https://open.spotify.com/artist/42lfxltT65SVNLR6kypDU5) | [Vows](https://open.spotify.com/album/2riHc7KNEL07eltyfYqza1) | 2:24 | 2026-06-12 |  |
+| [Vy](https://open.spotify.com/track/3Zx0Tl2eWcJbQGH5bAxZjP) | [Andreas Björkstrand](https://open.spotify.com/artist/4C0SwV2WJqRW290Xz2HIfV) | [Vy](https://open.spotify.com/album/59ErMAvHeDcEtrvaC0Gw3T) | 2:37 | 2026-11-27 |  |
 | [Vágyakozás](https://open.spotify.com/track/3ZiZPLX6lz8D6ip3X8Zq42) | [Katona Ernesztina](https://open.spotify.com/artist/5q88YG8qotyr34n4Exhpn3) | [Vágyakozás](https://open.spotify.com/album/6KQYxoNfn7qUn1nLOHGkUZ) | 2:05 | 2020-06-16 | 2020-11-17 |
 | [Wait For Me](https://open.spotify.com/track/2z6wyjZZ5hIP7ef5qjW7kW) | [Dawn Well](https://open.spotify.com/artist/4QfIvnMPiyUcI6mSTZc1mJ) | [Wait For Me](https://open.spotify.com/album/496cm8dtvsmmwlz3moBnM8) | 2:00 | 2021-05-22 | 2022-07-16 |
 | [Waiting](https://open.spotify.com/track/6bt1Qb3CCzQkXkXu3FzEeX) | [Damien Jeunet](https://open.spotify.com/artist/4PLGZc5uRGoXxjzjVDzlPs) | [Waiting](https://open.spotify.com/album/5z2LHBhaATswQNRQWioTXJ) | 2:44 | 2020-10-06 | 2022-05-27 |

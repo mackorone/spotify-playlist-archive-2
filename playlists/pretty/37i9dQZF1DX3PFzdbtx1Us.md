@@ -4,24 +4,24 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3PFzdbtx1Us.md) - [plain]
 
 > Ambient piano to help you stay focussed.
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,202,829 likes - 153 songs - 6 hr 34 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,202,781 likes - 151 songs - 6 hr 28 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
-| 1 | [Night Streets](https://open.spotify.com/track/3OYG0OTISrtY56IloYZSXU) | [Skaresnø](https://open.spotify.com/artist/6hLr4Lg3n1F95Xmzn8ZcnA) | [Night Streets](https://open.spotify.com/album/7Kl8tiNtQAw3qp9jFJWyJL) | 2:23 |
+| 1 | [In The Eye Of The Storm](https://open.spotify.com/track/60yNKvBlT6ZFh849EqkpWH) | [Francesco Rossi](https://open.spotify.com/artist/1G9Qopy7Z3ewAgD2bp86mY) | [In The Eye Of The Storm](https://open.spotify.com/album/2CdLJCjlYnIkllWGKVNyeq) | 2:50 |
 | 2 | [Escallonia](https://open.spotify.com/track/3eiNEHJYK9MX3UKYfW9irj) | [Rory Lewis](https://open.spotify.com/artist/5xMvSh83e0z7eBZSZ8dxKA) | [Escallonia](https://open.spotify.com/album/2wY3ju9AoeMmFDyATPzBSh) | 2:09 |
-| 3 | [Aragonese](https://open.spotify.com/track/3bN2VEtYuFV2GjEHmfxTI3) | [Ametrine Skies](https://open.spotify.com/artist/40vrF4Xbk1GAxqnIRdyrKs) | [Aragonese](https://open.spotify.com/album/7xumXPGEwMrYVOb4pk6ANG) | 2:14 |
-| 4 | [L'or du temps](https://open.spotify.com/track/4GLHnYC81ZvMcQuChl19gk) | [Keiko Ishida](https://open.spotify.com/artist/5kiKC3sVss9s7fjEa1HDLW) | [L'or du temps](https://open.spotify.com/album/6Tab6Rsk2duWXaPseT2GHp) | 2:18 |
-| 5 | [Before You Go](https://open.spotify.com/track/2EAYuCBJ55Q1reUgg26m3m) | [Ivan Malik](https://open.spotify.com/artist/1b46vh3SUeLoHOnWyfkhpm) | [Before You Go](https://open.spotify.com/album/24vCd79C4KmPTShU7VxHSu) | 2:06 |
-| 6 | [In The Eye Of The Storm](https://open.spotify.com/track/60yNKvBlT6ZFh849EqkpWH) | [Francesco Rossi](https://open.spotify.com/artist/1G9Qopy7Z3ewAgD2bp86mY) | [In The Eye Of The Storm](https://open.spotify.com/album/2CdLJCjlYnIkllWGKVNyeq) | 2:50 |
-| 7 | [Regarde les flammes danser](https://open.spotify.com/track/3FiarvAUxKc8N5uMT8yFKi) | [Leo Nocta](https://open.spotify.com/artist/1BOoMqm6EGpw6D36gt76PI) | [Regarde les flammes danser](https://open.spotify.com/album/1aFkM7ohLd3j6LmvMqgNQV) | 2:11 |
-| 8 | [Avioncito De Papel](https://open.spotify.com/track/25sQgB0cL7326ANzBO7ZLe) | [Teide](https://open.spotify.com/artist/31JZooajAUmQZAX2j6fPZ5) | [Avioncito De Papel](https://open.spotify.com/album/1YuZmvRVkCLaoowcy47M4p) | 2:32 |
-| 9 | [Time in its fury](https://open.spotify.com/track/0VtPANl5cMiIwhZj7Wb26v) | [Liu Ju](https://open.spotify.com/artist/3cCGz7C2zdclj245jLMqzk) | [Time in its fury](https://open.spotify.com/album/4x4LYQ1bmp8yf9HE58WLeL) | 2:23 |
-| 10 | [The Limestone](https://open.spotify.com/track/2lWQ4ZRpOW0ZOEdWjG5Wzi) | [Maxim Slanov](https://open.spotify.com/artist/6BJeebrVncgZDD3y0qOQQf) | [The Limestone](https://open.spotify.com/album/5ep7vG452SEeamVWgunlw0) | 2:24 |
-| 11 | [Benny's Nest](https://open.spotify.com/track/2LlMGblXQQ7j9p3dNwFCvY) | [Waylen Orson](https://open.spotify.com/artist/0MiPwC4KkJlyM17wLHZViw) | [Benny's Nest](https://open.spotify.com/album/2OhBvSQMYpo6jO7qjetMr5) | 2:13 |
-| 12 | [Longing](https://open.spotify.com/track/0MVHmSGtQB1cuX56mtJmqo) | [Leonard Anderson](https://open.spotify.com/artist/1cXE0r5JyjFer1EwCcv8zS) | [Longing](https://open.spotify.com/album/0jOrGMPdWJCMQ8QU3VTSVz) | 2:36 |
-| 13 | [Lavender Haze](https://open.spotify.com/track/1vGxSwfwOrnpcv5xro4G9k) | [Ted Lucky](https://open.spotify.com/artist/38GDIHuGmSYxf05zaOZKFg) | [Lavender Haze](https://open.spotify.com/album/6lpRDy5JYuxJeEzM22Y0HC) | 2:16 |
-| 14 | [Trace](https://open.spotify.com/track/7gcJjZs6m9ixdpItFmLSfT) | [Orlune](https://open.spotify.com/artist/4mTcmBVMRGrKwJPebaQajS) | [Trace](https://open.spotify.com/album/5YKJbjjcYM1YwoXv1LWIYR) | 2:11 |
+| 3 | [Trace](https://open.spotify.com/track/7gcJjZs6m9ixdpItFmLSfT) | [Orlune](https://open.spotify.com/artist/4mTcmBVMRGrKwJPebaQajS) | [Trace](https://open.spotify.com/album/5YKJbjjcYM1YwoXv1LWIYR) | 2:11 |
+| 4 | [Aragonese](https://open.spotify.com/track/3bN2VEtYuFV2GjEHmfxTI3) | [Ametrine Skies](https://open.spotify.com/artist/40vrF4Xbk1GAxqnIRdyrKs) | [Aragonese](https://open.spotify.com/album/7xumXPGEwMrYVOb4pk6ANG) | 2:14 |
+| 5 | [L'or du temps](https://open.spotify.com/track/4GLHnYC81ZvMcQuChl19gk) | [Keiko Ishida](https://open.spotify.com/artist/5kiKC3sVss9s7fjEa1HDLW) | [L'or du temps](https://open.spotify.com/album/6Tab6Rsk2duWXaPseT2GHp) | 2:18 |
+| 6 | [Before You Go](https://open.spotify.com/track/2EAYuCBJ55Q1reUgg26m3m) | [Ivan Malik](https://open.spotify.com/artist/1b46vh3SUeLoHOnWyfkhpm) | [Before You Go](https://open.spotify.com/album/24vCd79C4KmPTShU7VxHSu) | 2:06 |
+| 7 | [Night Streets](https://open.spotify.com/track/3OYG0OTISrtY56IloYZSXU) | [Skaresnø](https://open.spotify.com/artist/6hLr4Lg3n1F95Xmzn8ZcnA) | [Night Streets](https://open.spotify.com/album/7Kl8tiNtQAw3qp9jFJWyJL) | 2:23 |
+| 8 | [Regarde les flammes danser](https://open.spotify.com/track/3FiarvAUxKc8N5uMT8yFKi) | [Leo Nocta](https://open.spotify.com/artist/1BOoMqm6EGpw6D36gt76PI) | [Regarde les flammes danser](https://open.spotify.com/album/1aFkM7ohLd3j6LmvMqgNQV) | 2:11 |
+| 9 | [Avioncito De Papel](https://open.spotify.com/track/25sQgB0cL7326ANzBO7ZLe) | [Teide](https://open.spotify.com/artist/31JZooajAUmQZAX2j6fPZ5) | [Avioncito De Papel](https://open.spotify.com/album/1YuZmvRVkCLaoowcy47M4p) | 2:32 |
+| 10 | [Time in its fury](https://open.spotify.com/track/0VtPANl5cMiIwhZj7Wb26v) | [Liu Ju](https://open.spotify.com/artist/3cCGz7C2zdclj245jLMqzk) | [Time in its fury](https://open.spotify.com/album/4x4LYQ1bmp8yf9HE58WLeL) | 2:23 |
+| 11 | [The Limestone](https://open.spotify.com/track/2lWQ4ZRpOW0ZOEdWjG5Wzi) | [Maxim Slanov](https://open.spotify.com/artist/6BJeebrVncgZDD3y0qOQQf) | [The Limestone](https://open.spotify.com/album/5ep7vG452SEeamVWgunlw0) | 2:24 |
+| 12 | [Benny's Nest](https://open.spotify.com/track/2LlMGblXQQ7j9p3dNwFCvY) | [Waylen Orson](https://open.spotify.com/artist/0MiPwC4KkJlyM17wLHZViw) | [Benny's Nest](https://open.spotify.com/album/2OhBvSQMYpo6jO7qjetMr5) | 2:13 |
+| 13 | [Longing](https://open.spotify.com/track/0MVHmSGtQB1cuX56mtJmqo) | [Leonard Anderson](https://open.spotify.com/artist/1cXE0r5JyjFer1EwCcv8zS) | [Longing](https://open.spotify.com/album/0jOrGMPdWJCMQ8QU3VTSVz) | 2:36 |
+| 14 | [Lavender Haze](https://open.spotify.com/track/1vGxSwfwOrnpcv5xro4G9k) | [Ted Lucky](https://open.spotify.com/artist/38GDIHuGmSYxf05zaOZKFg) | [Lavender Haze](https://open.spotify.com/album/6lpRDy5JYuxJeEzM22Y0HC) | 2:16 |
 | 15 | [Softly Held](https://open.spotify.com/track/0e5T5GIVaVI7r5RZxqcGGb) | [Artforms](https://open.spotify.com/artist/16Ev5y1RzTr6tneuozoCmA) | [Softly Held](https://open.spotify.com/album/3x2NzeTcJyVDBoohUOwUJf) | 2:54 |
 | 16 | [Quickly](https://open.spotify.com/track/6GeD8T4CuI2ifhJ2GXB4Jx) | [Elois Jacq](https://open.spotify.com/artist/11seAZZohLTcq2V1blAOnN) | [Quickly](https://open.spotify.com/album/3yaJ6o9vfgfnuUacHrzego) | 2:10 |
 | 17 | [à Jamais](https://open.spotify.com/track/3pQMBz9uXu5fnWujqgANGB) | [Nicholai Janeret](https://open.spotify.com/artist/1emPMGrt54fr9Ax9Q2xOql) | [à Jamais](https://open.spotify.com/album/4KS81e2WOCsnY0oXRt0YtL) | 2:44 |
@@ -150,16 +150,14 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3PFzdbtx1Us.md) - [plain]
 | 140 | [Flock of birds](https://open.spotify.com/track/1IX1OcHSP4orBnAijqa7gT) | [Skye High](https://open.spotify.com/artist/3DGbJwTEqE5CuLnxk0KI5l) | [Flock of birds](https://open.spotify.com/album/05KODFYK497NNmTs0ZW9xx) | 3:02 |
 | 141 | [Salt Skin](https://open.spotify.com/track/5MKtW4amtrjowQ4z7uWCjU) | [Galen Rise](https://open.spotify.com/artist/7sZcguS7cGilZg03SqOH3R) | [Salt Skin](https://open.spotify.com/album/5uDgyEcwgosiV7lf9n2f40) | 2:55 |
 | 142 | [Unconditional](https://open.spotify.com/track/7eriWSdbkuFHBM6qiHIEq8) | [Michael Frankenberger](https://open.spotify.com/artist/4LKXdZFgLqP1Yozo8I28jJ) | [Unconditional](https://open.spotify.com/album/1uy7xtQ94KNqMtQnr2KNCO) | 2:24 |
-| 143 | [Children's Waltz](https://open.spotify.com/track/4rw3ixKqjEzKUajMD0z3mA) | [Serge Dusault](https://open.spotify.com/artist/2RV3XBg4xGArDfTzQ1apdz) | [Children's Waltz](https://open.spotify.com/album/6jtiXFHQFQt298cHCywft9) | 2:13 |
-| 144 | [Everyday](https://open.spotify.com/track/3ljvffjEqf4o0gvOcvxF4O) | [Hans Bukowski](https://open.spotify.com/artist/3Vc2GbgFE5kQCvG6Td2vDi) | [Everyday](https://open.spotify.com/album/6wtmiUX46vgAtAZ64UHtK2) | 2:19 |
-| 145 | [Rébus](https://open.spotify.com/track/1RaP4GkSYdKzKyRJdXxBJ6) | [Christophe Pouget](https://open.spotify.com/artist/6NMPthFB3FbixffuRKpIGU) | [Rébus](https://open.spotify.com/album/4pJZ7dbo8FXYh3NwS7wOvl) | 2:29 |
-| 146 | [That's why I stay](https://open.spotify.com/track/4foc5c5MA7gjjDSz5KcOp9) | [Mima Renard](https://open.spotify.com/artist/5hVW03Fp1Lfjuz9VaMmrF4) | [That's why I stay](https://open.spotify.com/album/6GpyzzwDlwS8EhUJiLibNO) | 2:26 |
-| 147 | [Elysian Fields](https://open.spotify.com/track/3JcpgyK7eflknAKNHyo8HF) | [Jozef De Schutter](https://open.spotify.com/artist/3h4qdlsSNxMXLzlaITwT7o) | [Elysian Fields](https://open.spotify.com/album/5Ye5ytPLhrW457eaALFpdW) | 2:03 |
-| 148 | [Ambiguos](https://open.spotify.com/track/4ckUU6TR19hXSAc5C0DdIf) | [Ivan Vladusic](https://open.spotify.com/artist/6RIbBV3sHhVlLi2mPPMjbN) | [Ambiguos](https://open.spotify.com/album/0GK3JsrJx1KfurBpPzjNau) | 3:11 |
-| 149 | [Back to you](https://open.spotify.com/track/58fIHb9sDH1QCsVLRBaUVq) | [Christian Janssen](https://open.spotify.com/artist/42vzUzUtpdNGFYxqgVcXl1) | [Back to you](https://open.spotify.com/album/3OpMdkUcg1dq1JBc60ZVwz) | 2:20 |
-| 150 | [Particle rise](https://open.spotify.com/track/0D1cenBb72xRFkD4CErjP3) | [Ama Hemmah](https://open.spotify.com/artist/6hTWxjJtaTM4iQQuOexVqY) | [Particle rise](https://open.spotify.com/album/1jeycRIxUrfUgKxTzDRrKR) | 2:32 |
-| 151 | [Refraction](https://open.spotify.com/track/0fb16xi6nGQi15crUCDrw8) | [Allysium](https://open.spotify.com/artist/5uQAgpFL2lx2pufHYhPAin) | [Refraction](https://open.spotify.com/album/1aGIdyXxti7seh4NwA5RNJ) | 2:59 |
-| 152 | [Fiume](https://open.spotify.com/track/0kpHSnJTru2qYTk0WFDsyA) | [Carluccio](https://open.spotify.com/artist/06bxyT4bXPZaKsInaJ75UL) | [Fiume](https://open.spotify.com/album/7o91RvyJGtNZmoVe68zkSk) | 2:20 |
-| 153 | [Danse avec moi](https://open.spotify.com/track/6EJ1ZUorVQzjUIq2kaIBur) | [Hector VallÇe](https://open.spotify.com/artist/2KlGXtQBlBpqBOt4WnVH4M) | [Danse avec moi](https://open.spotify.com/album/1dGrCWi0hfpYTTSFKE6PQr) | 2:26 |
+| 143 | [Everyday](https://open.spotify.com/track/3ljvffjEqf4o0gvOcvxF4O) | [Hans Bukowski](https://open.spotify.com/artist/3Vc2GbgFE5kQCvG6Td2vDi) | [Everyday](https://open.spotify.com/album/6wtmiUX46vgAtAZ64UHtK2) | 2:19 |
+| 144 | [Rébus](https://open.spotify.com/track/1RaP4GkSYdKzKyRJdXxBJ6) | [Christophe Pouget](https://open.spotify.com/artist/6NMPthFB3FbixffuRKpIGU) | [Rébus](https://open.spotify.com/album/4pJZ7dbo8FXYh3NwS7wOvl) | 2:29 |
+| 145 | [That's why I stay](https://open.spotify.com/track/4foc5c5MA7gjjDSz5KcOp9) | [Mima Renard](https://open.spotify.com/artist/5hVW03Fp1Lfjuz9VaMmrF4) | [That's why I stay](https://open.spotify.com/album/6GpyzzwDlwS8EhUJiLibNO) | 2:26 |
+| 146 | [Elysian Fields](https://open.spotify.com/track/3JcpgyK7eflknAKNHyo8HF) | [Jozef De Schutter](https://open.spotify.com/artist/3h4qdlsSNxMXLzlaITwT7o) | [Elysian Fields](https://open.spotify.com/album/5Ye5ytPLhrW457eaALFpdW) | 2:03 |
+| 147 | [Back to you](https://open.spotify.com/track/58fIHb9sDH1QCsVLRBaUVq) | [Christian Janssen](https://open.spotify.com/artist/42vzUzUtpdNGFYxqgVcXl1) | [Back to you](https://open.spotify.com/album/3OpMdkUcg1dq1JBc60ZVwz) | 2:20 |
+| 148 | [Particle rise](https://open.spotify.com/track/0D1cenBb72xRFkD4CErjP3) | [Ama Hemmah](https://open.spotify.com/artist/6hTWxjJtaTM4iQQuOexVqY) | [Particle rise](https://open.spotify.com/album/1jeycRIxUrfUgKxTzDRrKR) | 2:32 |
+| 149 | [Refraction](https://open.spotify.com/track/0fb16xi6nGQi15crUCDrw8) | [Allysium](https://open.spotify.com/artist/5uQAgpFL2lx2pufHYhPAin) | [Refraction](https://open.spotify.com/album/1aGIdyXxti7seh4NwA5RNJ) | 2:59 |
+| 150 | [Fiume](https://open.spotify.com/track/0kpHSnJTru2qYTk0WFDsyA) | [Carluccio](https://open.spotify.com/artist/06bxyT4bXPZaKsInaJ75UL) | [Fiume](https://open.spotify.com/album/7o91RvyJGtNZmoVe68zkSk) | 2:20 |
+| 151 | [Danse avec moi](https://open.spotify.com/track/6EJ1ZUorVQzjUIq2kaIBur) | [Hector VallÇe](https://open.spotify.com/artist/2KlGXtQBlBpqBOt4WnVH4M) | [Danse avec moi](https://open.spotify.com/album/1dGrCWi0hfpYTTSFKE6PQr) | 2:26 |
 
-Snapshot ID: `AAAAAGNQFJx55mCTHiYjkgLgTVbjBYwy`
+Snapshot ID: `AAAAAF54I25tI7iIpHOvBxKyXgQe3v+6`

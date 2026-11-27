@@ -4,7 +4,7 @@
 
 > für ein bisschen ruhe im \(schnee\)sturm
 
-401 songs - 22 hr 25 min
+403 songs - 22 hr 34 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -186,7 +186,7 @@
 | [labour](https://open.spotify.com/track/2Ggr9IfS70wYQacW8nZKPG) | [Paris Paloma](https://open.spotify.com/artist/2EXpthNgSeTDeX8nGwxppp) | [labour](https://open.spotify.com/album/4h7ERA3MzqEh9B3edziLAn) | 3:57 | 2023-07-26 |  |
 | [Lady In the GPS](https://open.spotify.com/track/3S5aeNMYlrbxZGgUK7uCHv) | [Dominique Way](https://open.spotify.com/artist/5kROZ1F7ExRZyFnHvKdlJ7) | [Who Could Not Be Broken](https://open.spotify.com/album/0LFdvovLwaU4WQX1q3n6il) | 2:41 | 2026-07-30 | 2026-10-25 |
 | [lavender \(feat\. Pink Sweat$\)](https://open.spotify.com/track/4WkmcS7sW41aVsFdJ2PfT7) | [JVKE](https://open.spotify.com/artist/164Uj4eKjl6zTBKfJLFKKK), [Pink Sweat$](https://open.spotify.com/artist/1W7FNibLa0O0b572tB2w7t) | [lavender \(feat\. Pink Sweat$\)](https://open.spotify.com/album/6yVgRdy62kDlrxeV3nBQOv) | 2:37 | 2024-02-09 | 2024-10-19 |
-| [Leave and Stay](https://open.spotify.com/track/3rstaBH3ZFo0hx25YjoxGg) | [NAVENI](https://open.spotify.com/artist/6SKl45GZWlPXXiRgAP9Kmg), [dezabel](https://open.spotify.com/artist/02qYPfeUvEdhSqLG8ercxJ), [Ben Botfield](https://open.spotify.com/artist/3sLeazIw2jhX90UbaDSYPy) | [Leave and Stay](https://open.spotify.com/album/6Lb2xJLvaCZTtK1ytzXaiU) | 3:00 | 2026-11-19 |  |
+| [Leave and Stay](https://open.spotify.com/track/3rstaBH3ZFo0hx25YjoxGg) | [NAVENI](https://open.spotify.com/artist/6SKl45GZWlPXXiRgAP9Kmg), [dezabel](https://open.spotify.com/artist/02qYPfeUvEdhSqLG8ercxJ), [Ben Botfield](https://open.spotify.com/artist/3sLeazIw2jhX90UbaDSYPy) | [Leave and Stay](https://open.spotify.com/album/6Lb2xJLvaCZTtK1ytzXaiU) | 3:00 | 2026-11-19 | 2026-11-27 |
 | [Lemon Blossoms](https://open.spotify.com/track/6NPee9nvVWAh5Q0hMBSJsd) | [The Ediacaran](https://open.spotify.com/artist/58LaHoIzAeY421BB6tg9cO), [Bastido](https://open.spotify.com/artist/6X57lq2YTwkIBThasY36AM) | [Lemon Blossoms](https://open.spotify.com/album/0e6pz5wSBxVJqPZW8OheDV) | 2:53 | 2026-03-19 | 2026-04-03 |
 | [Let Me Love You Like A Woman](https://open.spotify.com/track/1gxdWpeOUBpvB908fiZs4D) | [Lana Del Rey](https://open.spotify.com/artist/00FQb4jTyendYWaN8pK0wa) | [Chemtrails Over The Country Club](https://open.spotify.com/album/6QeosPQpJckkW0Obir5RT8) | 3:20 | 2023-07-26 | 2024-04-19 |
 | [Let Me Take You](https://open.spotify.com/track/79m64RFHHq93QrGVzrA4Yp) | [Dekker](https://open.spotify.com/artist/2Udd2jgFaz8tXG1w3PyMtN) | [Let Me Take You](https://open.spotify.com/album/4Gg1QjNa0aZmOKggqWCNYQ) | 3:09 | 2025-06-17 | 2025-10-01 |
@@ -286,6 +286,7 @@
 | [Rote Flaggen](https://open.spotify.com/track/7bkUa9kDFGxgCC7d36dzFI) | [Berq](https://open.spotify.com/artist/0eVixEZVW2PB1UogwTWXc1) | [ROTE FLAGGEN](https://open.spotify.com/album/0EWCRqTiWqdumuQKybIzWa) | 3:44 | 2023-10-20 | 2024-05-23 |
 | [Runaway](https://open.spotify.com/track/67MDtHFmozKIM6WlbXIhCl) | [anaïs](https://open.spotify.com/artist/5uT4SmzhWTYv1iia2BFnVQ) | [Runaway](https://open.spotify.com/album/6i9bj9UAehl2AQLDmz5SDH) | 3:06 | 2023-07-26 | 2024-02-10 |
 | [S P E Y S I D E](https://open.spotify.com/track/6khKJVbTxzfhbGfHMtyOM8) | [Bon Iver](https://open.spotify.com/artist/4LEiUm1SRbFMgfqnQTwUbQ) | [S P E Y S I D E](https://open.spotify.com/album/5VFsihsTprFnqRHyrNxMPs) | 3:29 | 2024-11-09 | 2025-02-21 |
+| [Sadie](https://open.spotify.com/track/129LuxW7FfJUnqUDlupMWJ) | [Anna Lille](https://open.spotify.com/artist/4nwpfzpdL72UcfB0O3y6Gk) | [Sadie](https://open.spotify.com/album/4xHGCV0zWDZQFLuIIpB3qI) | 4:18 | 2026-11-26 |  |
 | [Samara](https://open.spotify.com/track/1uAvKraqOWgoCt8bwce9e9) | [Blanco White](https://open.spotify.com/artist/3ccVtqcqedranb7y8eywJ5) | [On the Other Side](https://open.spotify.com/album/51bsId3cKJ6paV9l6KKIkC) | 4:12 | 2024-02-09 | 2024-04-19 |
 | [Same Vibes](https://open.spotify.com/track/5TCkEIJWaKr0UzMGPVtWTM) | [AVAION](https://open.spotify.com/artist/5oJvmyeWzyeahRtjup3Oys) | [Same Vibes](https://open.spotify.com/album/0m8atgFEMGDQy6FHBF9ypO) | 3:01 | 2023-09-08 | 2026-05-22 |
 | [save myself](https://open.spotify.com/track/2mqgFt9mypTriVwkXzDeJW) | [ilayda](https://open.spotify.com/artist/2JctEubYrAEVMCbHAfdYPU) | [shades](https://open.spotify.com/album/56hNHlahRLNbdDGhcXdYcz) | 2:56 | 2024-11-14 | 2026-01-22 |
@@ -382,7 +383,8 @@
 | [Vaitimbora](https://open.spotify.com/track/0QAUgW2vTmlUWhbiNeSkWm) | [Mariana Froes](https://open.spotify.com/artist/60oAQJsBmykZP3GwjbSL6S), [Trinix](https://open.spotify.com/artist/3HqP3nd8WI0VfHRhApPlan) | [Vaitimbora](https://open.spotify.com/album/0cIKxynxh628Q7qOyamXLe) | 2:15 | 2025-05-22 | 2025-11-08 |
 | [valentino](https://open.spotify.com/track/5YsbCR2KjUvxFqS4dpy6aT) | [anaïs](https://open.spotify.com/artist/5uT4SmzhWTYv1iia2BFnVQ) | [valentino](https://open.spotify.com/album/317Xp1LCF1ESzsEDV4Gi5P) | 2:08 | 2025-05-22 | 2025-09-26 |
 | [Versailles \(Hold\) \- Edit](https://open.spotify.com/track/4Yf9QLUM8EeHaCS7EnaHnX) | [Christian Löffler](https://open.spotify.com/artist/3tSvlEzeDnVbQJBTkIA6nO) | [Versailles \(Hold\)](https://open.spotify.com/album/0LKvGM4ka3ESkrCaiOuD15) | 3:38 | 2024-04-19 | 2026-03-28 |
-| [Victoria](https://open.spotify.com/track/4SRwNxBXUSbUqSKEofvolu) | [Suena](https://open.spotify.com/artist/3ZCy1ehzbzEAcpcHnHJYXd), [Esther Abrami](https://open.spotify.com/artist/5zCkKfOMcIx8ISU53JBPng) | [Victoria](https://open.spotify.com/album/5d5Z3dbaq76uyQxvCUZuqe) | 2:23 | 2026-11-05 |  |
+| [veränderung tut weh](https://open.spotify.com/track/2Wg0q0irzT4pZ3EyWCRACZ) | [gereon](https://open.spotify.com/artist/565n6lo7aHtnqFDCN8HVtP) | [veränderung tut weh](https://open.spotify.com/album/56CZJurrZLLdxD3SbPALy9) | 4:38 | 2026-11-26 |  |
+| [Victoria](https://open.spotify.com/track/4SRwNxBXUSbUqSKEofvolu) | [Suena](https://open.spotify.com/artist/3ZCy1ehzbzEAcpcHnHJYXd), [Esther Abrami](https://open.spotify.com/artist/5zCkKfOMcIx8ISU53JBPng) | [Victoria](https://open.spotify.com/album/5d5Z3dbaq76uyQxvCUZuqe) | 2:23 | 2026-11-05 | 2026-11-27 |
 | [was bleibt](https://open.spotify.com/track/0IImqP5NaL0ZN5jPCIlOad) | [Ami Warning](https://open.spotify.com/artist/7emjIbMonyAREBQkHhblu9) | [was bleibt](https://open.spotify.com/album/6mWRN4XBYWFVJlnmnE9UFJ) | 3:13 | 2026-09-03 | 2026-10-02 |
 | [Washed Up](https://open.spotify.com/track/5DC8a9K1q6xTIDlTOVVJt9) | [Sharktank](https://open.spotify.com/artist/6BcWGwvuWOW4F9IYBvWR6K) | [Get It Done](https://open.spotify.com/album/3OLKZxkcuaBD1WKiRf9RtM) | 3:24 | 2023-07-26 | 2024-04-19 |
 | [Water The Flowers](https://open.spotify.com/track/6dHLIrTnDWBuW5cZsot1yr) | [Claire Rosinkranz](https://open.spotify.com/artist/3V0ZQW0dNuVaFtbVYgSI24) | [Water The Flowers](https://open.spotify.com/album/18OwtNEeXcKttR8Y4WsNV2) | 2:30 | 2026-06-25 | 2026-09-27 |

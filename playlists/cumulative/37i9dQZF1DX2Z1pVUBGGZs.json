@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2024-07-02",
-  "description": "a playlist without boundaries \ud83d\ude80 cover: Tora-i, Louis Culture",
+  "description": "a playlist without boundaries \ud83d\ude80 cover: Soraya Cinema",
   "name": "Our Generation",
   "tracks": [
     {
@@ -3341,6 +3341,24 @@
     },
     {
       "album": {
+        "name": "Can I have a kiss?",
+        "url": "https://open.spotify.com/album/310QRaJFgUhzjTzPtGhBx7"
+      },
+      "artists": [
+        {
+          "name": "Downtown Kayoto",
+          "url": "https://open.spotify.com/artist/1iq8YeJvyhHB44r0bJj8RR"
+        }
+      ],
+      "date_added": "2026-11-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 137426,
+      "name": "Can I have a kiss?",
+      "url": "https://open.spotify.com/track/2zXphC1m2gfI6GQF1G188x"
+    },
+    {
+      "album": {
         "name": "Can we talk about Isaac?",
         "url": "https://open.spotify.com/album/0p0b5NEjx9v2XfSQG3qel8"
       },
@@ -6505,6 +6523,24 @@
     },
     {
       "album": {
+        "name": "family function",
+        "url": "https://open.spotify.com/album/3wuf1Srs3cTH27r0VTOVM2"
+      },
+      "artists": [
+        {
+          "name": "@WAR",
+          "url": "https://open.spotify.com/artist/31EqzztLNVAKfqgIQ3O5qU"
+        }
+      ],
+      "date_added": "2026-11-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 79436,
+      "name": "family function",
+      "url": "https://open.spotify.com/track/2eaZGOOSupGSmYfLQhdQsa"
+    },
+    {
+      "album": {
         "name": "Fantasy",
         "url": "https://open.spotify.com/album/1KofBMfkgQDP3GNfE7E6H8"
       },
@@ -8039,6 +8075,28 @@
     },
     {
       "album": {
+        "name": "Groupie (with Jessie Mazin)",
+        "url": "https://open.spotify.com/album/7rgyYbnDujtb5CtjvZZyad"
+      },
+      "artists": [
+        {
+          "name": "Leonie Biney",
+          "url": "https://open.spotify.com/artist/4fG5iQ1bDCtgOmhbVNWilq"
+        },
+        {
+          "name": "Jessie Mazin",
+          "url": "https://open.spotify.com/artist/61Yb6Hi8nlwDwR3GJ7VAnx"
+        }
+      ],
+      "date_added": "2026-11-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 173000,
+      "name": "Groupie (with Jessie Mazin)",
+      "url": "https://open.spotify.com/track/3xD8uwc9sZHQXVSLhS6C21"
+    },
+    {
+      "album": {
         "name": "REX",
         "url": "https://open.spotify.com/album/6igKOsbTZO5b7fbqc121OB"
       },
@@ -9282,7 +9340,7 @@
       ],
       "date_added": "2026-09-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-27",
       "duration_ms": 210403,
       "name": "How To Perform Magic",
       "url": "https://open.spotify.com/track/5I8Mj6WpssjjLlvj1yxCer"
@@ -10710,7 +10768,7 @@
       ],
       "date_added": "2026-10-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-27",
       "duration_ms": 155714,
       "name": "It Don't Work",
       "url": "https://open.spotify.com/track/75Lpthr6e5q1vGsnhn5ZjE"
@@ -10872,7 +10930,7 @@
       ],
       "date_added": "2026-10-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-27",
       "duration_ms": 230181,
       "name": "It's Pixie",
       "url": "https://open.spotify.com/track/0Ceb0mslfOdIu7Fciv4L8h"
@@ -11900,7 +11958,7 @@
       ],
       "date_added": "2026-10-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-27",
       "duration_ms": 135468,
       "name": "LIBRA",
       "url": "https://open.spotify.com/track/5CCr3GS6latXAASvrBA5Ur"
@@ -12012,6 +12070,24 @@
       "duration_ms": 162412,
       "name": "Lights Off",
       "url": "https://open.spotify.com/track/3RH8lBYK7rpmRmyYY79t0J"
+    },
+    {
+      "album": {
+        "name": "What a Life!",
+        "url": "https://open.spotify.com/album/5oq2B7jNG1R67WoYOhe0ad"
+      },
+      "artists": [
+        {
+          "name": "LOTTS",
+          "url": "https://open.spotify.com/artist/2CCQ9gvSonrYi0dN6YKz49"
+        }
+      ],
+      "date_added": "2026-11-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 198521,
+      "name": "Like a Kid",
+      "url": "https://open.spotify.com/track/6nd2chEQAzNeVc35EuRG31"
     },
     {
       "album": {
@@ -13242,7 +13318,7 @@
       ],
       "date_added": "2026-10-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-27",
       "duration_ms": 199960,
       "name": "Me and The Locals",
       "url": "https://open.spotify.com/track/2HyE9oC7CYoo0yefqtDGjo"
@@ -14018,6 +14094,24 @@
       "duration_ms": 245336,
       "name": "My Endeavour",
       "url": "https://open.spotify.com/track/32zC4WPTjQdzXbQGvSk6rB"
+    },
+    {
+      "album": {
+        "name": "my fault",
+        "url": "https://open.spotify.com/album/43CIrRP4irzg9ZjVycZYxB"
+      },
+      "artists": [
+        {
+          "name": "AMINAT",
+          "url": "https://open.spotify.com/artist/6N4l7nAbM3WsDbds8HdBoh"
+        }
+      ],
+      "date_added": "2026-11-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 124536,
+      "name": "my fault",
+      "url": "https://open.spotify.com/track/24eQRcoZRDT7UG3YZ7nIwg"
     },
     {
       "album": {
@@ -14895,6 +14989,24 @@
     },
     {
       "album": {
+        "name": "The Perfect Place",
+        "url": "https://open.spotify.com/album/0bTI3svv8RcMTzdjbGj1QL"
+      },
+      "artists": [
+        {
+          "name": "Zukovstheworld",
+          "url": "https://open.spotify.com/artist/0ybwRrGnCsrDOglPdosrqV"
+        }
+      ],
+      "date_added": "2026-11-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 150925,
+      "name": "Ordinary Voices",
+      "url": "https://open.spotify.com/track/3JlwwfSO6HJRM0VWTIygFF"
+    },
+    {
+      "album": {
         "name": "ORION",
         "url": "https://open.spotify.com/album/0bmSnUSdtG5uz1OlKaiWbQ"
       },
@@ -15734,6 +15846,24 @@
       "duration_ms": 190356,
       "name": "Pomegranate",
       "url": "https://open.spotify.com/track/5xG8zZlNA77WAN2tOBeAfy"
+    },
+    {
+      "album": {
+        "name": "PopUFO",
+        "url": "https://open.spotify.com/album/7ovDcXXHnJdyC1xpPwrJEq"
+      },
+      "artists": [
+        {
+          "name": "Soraya Cinema",
+          "url": "https://open.spotify.com/artist/3DP8fD0P68CorpqJY6mjc9"
+        }
+      ],
+      "date_added": "2026-11-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 180466,
+      "name": "PopUFO",
+      "url": "https://open.spotify.com/track/4DLLIPg20wyu8BFp4NLKsN"
     },
     {
       "album": {
@@ -17186,7 +17316,7 @@
       ],
       "date_added": "2026-10-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-27",
       "duration_ms": 191000,
       "name": "Scream Your Name",
       "url": "https://open.spotify.com/track/60hJhoKRl5oEdgJQQ4aFrx"
@@ -17550,7 +17680,7 @@
       ],
       "date_added": "2026-09-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-27",
       "duration_ms": 160265,
       "name": "She's Just A Friend Of Mine",
       "url": "https://open.spotify.com/track/4HZb7nI9lA3VNFlZeyw1j8"

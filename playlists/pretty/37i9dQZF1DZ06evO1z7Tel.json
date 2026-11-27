@@ -1,12 +1,12 @@
 {
   "description": "This is Carlos Y Jose. The essential tracks, all in one playlist.",
-  "num_followers": 40718,
+  "num_followers": 40731,
   "original_name": "This Is Carlos Y Jose",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "awOCAAAAAAB8YUc4w+PRtHMtwC9QjWMM",
+  "snapshot_id": "awYlAAAAAACXB8a3FVbxhhwpgat43gMh",
   "tracks": [
     {
       "added_at": null,
@@ -171,22 +171,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Norte\u00f1as De Coraz\u00f3n 20 Exitos",
-        "url": "https://open.spotify.com/album/2RUgpSKWqoXr7uQvLgmYGF"
-      },
-      "artists": [
-        {
-          "name": "Carlos Y Jose",
-          "url": "https://open.spotify.com/artist/2IRfUbSEqoOzedNHXVD1Xb"
-        }
-      ],
-      "duration_ms": 167821,
-      "name": "Soy Alba\u00f1il",
-      "url": "https://open.spotify.com/track/1iEb7lTcR3TzRAoYcZoIGT"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Lo M\u00e1s Escuchado De",
         "url": "https://open.spotify.com/album/1IVNmS6tX19lyAVSYpx3Do"
       },
@@ -199,6 +183,22 @@
       "duration_ms": 192426,
       "name": "El Vino Y La Parranda",
       "url": "https://open.spotify.com/track/1nDgTKTlFu1MnY4AD1INKE"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Norte\u00f1as De Coraz\u00f3n 20 Exitos",
+        "url": "https://open.spotify.com/album/2RUgpSKWqoXr7uQvLgmYGF"
+      },
+      "artists": [
+        {
+          "name": "Carlos Y Jose",
+          "url": "https://open.spotify.com/artist/2IRfUbSEqoOzedNHXVD1Xb"
+        }
+      ],
+      "duration_ms": 167821,
+      "name": "Soy Alba\u00f1il",
+      "url": "https://open.spotify.com/track/1iEb7lTcR3TzRAoYcZoIGT"
     },
     {
       "added_at": null,
@@ -607,8 +607,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Corridos Norte\u00f1os Con Carlos Y Jos\u00e9",
-        "url": "https://open.spotify.com/album/0tkrAv4a7Cad5wqrBc1V0Z"
+        "name": "Una Noche Serena Y Obscura",
+        "url": "https://open.spotify.com/album/00Sj4MCBwW7upNInYNuM0A"
       },
       "artists": [
         {
@@ -616,9 +616,9 @@
           "url": "https://open.spotify.com/artist/2IRfUbSEqoOzedNHXVD1Xb"
         }
       ],
-      "duration_ms": 156746,
-      "name": "Corrido De Gabino",
-      "url": "https://open.spotify.com/track/6bkpivmltOd4bvG8WKWQuv"
+      "duration_ms": 249226,
+      "name": "Una Noche Serena Y Oscura",
+      "url": "https://open.spotify.com/track/4s5UucTLMuov5FQnOn4Cqi"
     },
     {
       "added_at": null,
@@ -635,6 +635,22 @@
       "duration_ms": 160813,
       "name": "Los Dos Contrabandos",
       "url": "https://open.spotify.com/track/5l4K1ifEJoN9zBYhlw1HkX"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Corridos Norte\u00f1os Con Carlos Y Jos\u00e9",
+        "url": "https://open.spotify.com/album/0tkrAv4a7Cad5wqrBc1V0Z"
+      },
+      "artists": [
+        {
+          "name": "Carlos Y Jose",
+          "url": "https://open.spotify.com/artist/2IRfUbSEqoOzedNHXVD1Xb"
+        }
+      ],
+      "duration_ms": 156746,
+      "name": "Corrido De Gabino",
+      "url": "https://open.spotify.com/track/6bkpivmltOd4bvG8WKWQuv"
     },
     {
       "added_at": null,
@@ -667,22 +683,6 @@
       "duration_ms": 206184,
       "name": "Paloma Piquito de Oro",
       "url": "https://open.spotify.com/track/5dVgJPtCcMM3QqIFOblure"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Una Noche Serena Y Obscura",
-        "url": "https://open.spotify.com/album/00Sj4MCBwW7upNInYNuM0A"
-      },
-      "artists": [
-        {
-          "name": "Carlos Y Jose",
-          "url": "https://open.spotify.com/artist/2IRfUbSEqoOzedNHXVD1Xb"
-        }
-      ],
-      "duration_ms": 249226,
-      "name": "Una Noche Serena Y Oscura",
-      "url": "https://open.spotify.com/track/4s5UucTLMuov5FQnOn4Cqi"
     },
     {
       "added_at": null,
@@ -799,8 +799,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Norte\u00f1as De Coraz\u00f3n 20 Exitos",
-        "url": "https://open.spotify.com/album/2RUgpSKWqoXr7uQvLgmYGF"
+        "name": "Noches Eternas",
+        "url": "https://open.spotify.com/album/5pk5NixB6iYy7OJp7syRPL"
       },
       "artists": [
         {
@@ -808,9 +808,9 @@
           "url": "https://open.spotify.com/artist/2IRfUbSEqoOzedNHXVD1Xb"
         }
       ],
-      "duration_ms": 197167,
-      "name": "La Cosecha",
-      "url": "https://open.spotify.com/track/5XIQHYRvkT4wnznsbbwYhV"
+      "duration_ms": 174968,
+      "name": "Por Nuestro Bien",
+      "url": "https://open.spotify.com/track/1On8rT1lB4AA95AKE02oO7"
     }
   ],
   "unique_name": "This Is Carlos Y Jose",

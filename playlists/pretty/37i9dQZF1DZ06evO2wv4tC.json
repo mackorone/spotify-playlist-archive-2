@@ -1,12 +1,12 @@
 {
   "description": "This is DESTIN CONRAD. The essential tracks, all in one playlist.",
-  "num_followers": 3673,
+  "num_followers": 3672,
   "original_name": "This Is DESTIN CONRAD",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "awOCAAAAAAC1MA7q9pLKahIFrdRRjohC",
+  "snapshot_id": "awYlAAAAAAAELn3LwJxgyC+yUwO5fy+g",
   "tracks": [
     {
       "added_at": null,
@@ -163,6 +163,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "ROADRUNNER",
+        "url": "https://open.spotify.com/album/7joEKdjJC5ROVOVc15CNfj"
+      },
+      "artists": [
+        {
+          "name": "DESTIN CONRAD",
+          "url": "https://open.spotify.com/artist/4jwROPSUkTkohLCRiyjiZZ"
+        }
+      ],
+      "duration_ms": 146037,
+      "name": "CHI CHI",
+      "url": "https://open.spotify.com/track/4AVOscsP8vsP4SbmKoaIxv"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "wHIMSY",
         "url": "https://open.spotify.com/album/4JbxuyZJlpIyvXhVCRoq9E"
       },
@@ -183,18 +199,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "ROADRUNNER",
-        "url": "https://open.spotify.com/album/7joEKdjJC5ROVOVc15CNfj"
+        "name": "LOVE ON DIGITAL",
+        "url": "https://open.spotify.com/album/7ChitlgU5oFgKmjLtViJ8K"
       },
       "artists": [
         {
           "name": "DESTIN CONRAD",
           "url": "https://open.spotify.com/artist/4jwROPSUkTkohLCRiyjiZZ"
+        },
+        {
+          "name": "Kehlani",
+          "url": "https://open.spotify.com/artist/0cGUm45nv7Z6M6qdXYQGTX"
         }
       ],
-      "duration_ms": 146037,
-      "name": "CHI CHI",
-      "url": "https://open.spotify.com/track/4AVOscsP8vsP4SbmKoaIxv"
+      "duration_ms": 225444,
+      "name": "BAD BITCHES",
+      "url": "https://open.spotify.com/track/5ld2rB0d5nG8RTQRRmkxNa"
     },
     {
       "added_at": null,
@@ -223,22 +243,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "LOVE ON DIGITAL",
-        "url": "https://open.spotify.com/album/7ChitlgU5oFgKmjLtViJ8K"
+        "name": "ROADRUNNER",
+        "url": "https://open.spotify.com/album/7joEKdjJC5ROVOVc15CNfj"
       },
       "artists": [
         {
           "name": "DESTIN CONRAD",
           "url": "https://open.spotify.com/artist/4jwROPSUkTkohLCRiyjiZZ"
-        },
-        {
-          "name": "Kehlani",
-          "url": "https://open.spotify.com/artist/0cGUm45nv7Z6M6qdXYQGTX"
         }
       ],
-      "duration_ms": 225444,
-      "name": "BAD BITCHES",
-      "url": "https://open.spotify.com/track/5ld2rB0d5nG8RTQRRmkxNa"
+      "duration_ms": 154666,
+      "name": "I LOVE YOUR BODY",
+      "url": "https://open.spotify.com/track/3LeYRxEaVtDsvNgpulMIU9"
     },
     {
       "added_at": null,
@@ -255,22 +271,6 @@
       "duration_ms": 195279,
       "name": "DIAMOND GOLD",
       "url": "https://open.spotify.com/track/1HDemO62blrYXP4IuZv0Ta"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "ROADRUNNER",
-        "url": "https://open.spotify.com/album/7joEKdjJC5ROVOVc15CNfj"
-      },
-      "artists": [
-        {
-          "name": "DESTIN CONRAD",
-          "url": "https://open.spotify.com/artist/4jwROPSUkTkohLCRiyjiZZ"
-        }
-      ],
-      "duration_ms": 154666,
-      "name": "I LOVE YOUR BODY",
-      "url": "https://open.spotify.com/track/3LeYRxEaVtDsvNgpulMIU9"
     },
     {
       "added_at": null,
@@ -311,26 +311,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "wHIMSY",
-        "url": "https://open.spotify.com/album/4JbxuyZJlpIyvXhVCRoq9E"
-      },
-      "artists": [
-        {
-          "name": "DESTIN CONRAD",
-          "url": "https://open.spotify.com/artist/4jwROPSUkTkohLCRiyjiZZ"
-        },
-        {
-          "name": "Keyon Harrold",
-          "url": "https://open.spotify.com/artist/4JG781pl96pL2h0AoERgOA"
-        }
-      ],
-      "duration_ms": 168571,
-      "name": "wHIP",
-      "url": "https://open.spotify.com/track/6iaLsNI1ht2Z2fSFqvESx0"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "ROADRUNNER",
         "url": "https://open.spotify.com/album/7joEKdjJC5ROVOVc15CNfj"
       },
@@ -347,26 +327,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "Synonym",
-        "url": "https://open.spotify.com/album/6ssRIhqoOblT5x1xdJDkJQ"
+        "name": "wHIMSY",
+        "url": "https://open.spotify.com/album/4JbxuyZJlpIyvXhVCRoq9E"
       },
       "artists": [
-        {
-          "name": "Meshell Ndegeocello",
-          "url": "https://open.spotify.com/artist/0uZRjholJ0fVC2J9EvnYnj"
-        },
         {
           "name": "DESTIN CONRAD",
           "url": "https://open.spotify.com/artist/4jwROPSUkTkohLCRiyjiZZ"
         },
         {
-          "name": "Moses Sumney",
-          "url": "https://open.spotify.com/artist/5W10uJRsbt9bROJDKoI1Wn"
+          "name": "Keyon Harrold",
+          "url": "https://open.spotify.com/artist/4JG781pl96pL2h0AoERgOA"
         }
       ],
-      "duration_ms": 220084,
-      "name": "The Closer I Get To You (with Destin Conrad, Moses Sumney)",
-      "url": "https://open.spotify.com/track/5DU13OfCGd3jM4aTY6cONd"
+      "duration_ms": 168571,
+      "name": "wHIP",
+      "url": "https://open.spotify.com/track/6iaLsNI1ht2Z2fSFqvESx0"
     },
     {
       "added_at": null,
@@ -414,11 +390,39 @@
         {
           "name": "DESTIN CONRAD",
           "url": "https://open.spotify.com/artist/4jwROPSUkTkohLCRiyjiZZ"
+        },
+        {
+          "name": "Stalk Ashley",
+          "url": "https://open.spotify.com/artist/6VCt6Dh7TaZF330ZFeNHv5"
         }
       ],
-      "duration_ms": 161874,
-      "name": "NERVOUS",
-      "url": "https://open.spotify.com/track/6MPpLzbkqUmklwCFQqzD1h"
+      "duration_ms": 135483,
+      "name": "SKIN OUT",
+      "url": "https://open.spotify.com/track/6J239Ojm9MmCJQL6WchlAT"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Synonym",
+        "url": "https://open.spotify.com/album/6ssRIhqoOblT5x1xdJDkJQ"
+      },
+      "artists": [
+        {
+          "name": "Meshell Ndegeocello",
+          "url": "https://open.spotify.com/artist/0uZRjholJ0fVC2J9EvnYnj"
+        },
+        {
+          "name": "DESTIN CONRAD",
+          "url": "https://open.spotify.com/artist/4jwROPSUkTkohLCRiyjiZZ"
+        },
+        {
+          "name": "Moses Sumney",
+          "url": "https://open.spotify.com/artist/5W10uJRsbt9bROJDKoI1Wn"
+        }
+      ],
+      "duration_ms": 220084,
+      "name": "The Closer I Get To You (with Destin Conrad, Moses Sumney)",
+      "url": "https://open.spotify.com/track/5DU13OfCGd3jM4aTY6cONd"
     },
     {
       "added_at": null,
@@ -435,22 +439,6 @@
       "duration_ms": 97826,
       "name": "EXCITED!",
       "url": "https://open.spotify.com/track/3qE98sHohjBGmohgKOSK01"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "wHIMSY",
-        "url": "https://open.spotify.com/album/4JbxuyZJlpIyvXhVCRoq9E"
-      },
-      "artists": [
-        {
-          "name": "DESTIN CONRAD",
-          "url": "https://open.spotify.com/artist/4jwROPSUkTkohLCRiyjiZZ"
-        }
-      ],
-      "duration_ms": 167111,
-      "name": "HARD!",
-      "url": "https://open.spotify.com/track/0DFCew2KI6dzd8FKoGWWph"
     },
     {
       "added_at": null,
@@ -478,15 +466,27 @@
         {
           "name": "DESTIN CONRAD",
           "url": "https://open.spotify.com/artist/4jwROPSUkTkohLCRiyjiZZ"
-        },
-        {
-          "name": "Stalk Ashley",
-          "url": "https://open.spotify.com/artist/6VCt6Dh7TaZF330ZFeNHv5"
         }
       ],
-      "duration_ms": 135483,
-      "name": "SKIN OUT",
-      "url": "https://open.spotify.com/track/6J239Ojm9MmCJQL6WchlAT"
+      "duration_ms": 161874,
+      "name": "NERVOUS",
+      "url": "https://open.spotify.com/track/6MPpLzbkqUmklwCFQqzD1h"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "SATIN",
+        "url": "https://open.spotify.com/album/14DbuWegTlHKKUW1WfUdny"
+      },
+      "artists": [
+        {
+          "name": "DESTIN CONRAD",
+          "url": "https://open.spotify.com/artist/4jwROPSUkTkohLCRiyjiZZ"
+        }
+      ],
+      "duration_ms": 90836,
+      "name": "IT'S YOURS",
+      "url": "https://open.spotify.com/track/10wts7gW6XFI4k1BrDKsAc"
     },
     {
       "added_at": null,
@@ -507,22 +507,6 @@
       "duration_ms": 172931,
       "name": "MAKE IT UP - A COLORS SHOW",
       "url": "https://open.spotify.com/track/5w7epjCisok9TojZEtU4CG"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "SATIN",
-        "url": "https://open.spotify.com/album/14DbuWegTlHKKUW1WfUdny"
-      },
-      "artists": [
-        {
-          "name": "DESTIN CONRAD",
-          "url": "https://open.spotify.com/artist/4jwROPSUkTkohLCRiyjiZZ"
-        }
-      ],
-      "duration_ms": 90836,
-      "name": "IT'S YOURS",
-      "url": "https://open.spotify.com/track/10wts7gW6XFI4k1BrDKsAc"
     },
     {
       "added_at": null,
@@ -568,9 +552,9 @@
           "url": "https://open.spotify.com/artist/4jwROPSUkTkohLCRiyjiZZ"
         }
       ],
-      "duration_ms": 100122,
-      "name": "LOVE!",
-      "url": "https://open.spotify.com/track/5YdRkQBGqufdSK1pRLZ5Tm"
+      "duration_ms": 167111,
+      "name": "HARD!",
+      "url": "https://open.spotify.com/track/0DFCew2KI6dzd8FKoGWWph"
     },
     {
       "added_at": null,
@@ -635,22 +619,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "wHIMSY!",
-        "url": "https://open.spotify.com/album/1Qx04kMMQn0mCWljoV7loF"
+        "name": "wHIMSY",
+        "url": "https://open.spotify.com/album/4JbxuyZJlpIyvXhVCRoq9E"
       },
       "artists": [
         {
           "name": "DESTIN CONRAD",
           "url": "https://open.spotify.com/artist/4jwROPSUkTkohLCRiyjiZZ"
-        },
-        {
-          "name": "Terrace Martin",
-          "url": "https://open.spotify.com/artist/7MNEVabc4cs19CbzAFZmXz"
         }
       ],
-      "duration_ms": 186285,
-      "name": "NOTHING IS REAL",
-      "url": "https://open.spotify.com/track/5jttofWxJX0pp7B6jB4HMO"
+      "duration_ms": 100122,
+      "name": "LOVE!",
+      "url": "https://open.spotify.com/track/5YdRkQBGqufdSK1pRLZ5Tm"
     },
     {
       "added_at": null,
@@ -711,6 +691,26 @@
     {
       "added_at": null,
       "album": {
+        "name": "wHIMSY!",
+        "url": "https://open.spotify.com/album/1Qx04kMMQn0mCWljoV7loF"
+      },
+      "artists": [
+        {
+          "name": "DESTIN CONRAD",
+          "url": "https://open.spotify.com/artist/4jwROPSUkTkohLCRiyjiZZ"
+        },
+        {
+          "name": "Terrace Martin",
+          "url": "https://open.spotify.com/artist/7MNEVabc4cs19CbzAFZmXz"
+        }
+      ],
+      "duration_ms": 186285,
+      "name": "NOTHING IS REAL",
+      "url": "https://open.spotify.com/track/5jttofWxJX0pp7B6jB4HMO"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "SUBMISSIVE",
         "url": "https://open.spotify.com/album/6Hyn3j0o6KwT8fgcfBre5z"
       },
@@ -727,22 +727,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "CAUTIOUS",
-        "url": "https://open.spotify.com/album/0ZZUcHxOSxK1g75vEA0Yqf"
-      },
-      "artists": [
-        {
-          "name": "DESTIN CONRAD",
-          "url": "https://open.spotify.com/artist/4jwROPSUkTkohLCRiyjiZZ"
-        }
-      ],
-      "duration_ms": 140450,
-      "name": "CAUTIOUS",
-      "url": "https://open.spotify.com/track/3Duhj1XaVNS3EtEnkhuvAL"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "SATIN",
         "url": "https://open.spotify.com/album/14DbuWegTlHKKUW1WfUdny"
       },
@@ -755,6 +739,22 @@
       "duration_ms": 181144,
       "name": "DAYDREAM",
       "url": "https://open.spotify.com/track/2dsbZwFPMYhchakMgL72DD"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "CAUTIOUS",
+        "url": "https://open.spotify.com/album/0ZZUcHxOSxK1g75vEA0Yqf"
+      },
+      "artists": [
+        {
+          "name": "DESTIN CONRAD",
+          "url": "https://open.spotify.com/artist/4jwROPSUkTkohLCRiyjiZZ"
+        }
+      ],
+      "duration_ms": 140450,
+      "name": "CAUTIOUS",
+      "url": "https://open.spotify.com/track/3Duhj1XaVNS3EtEnkhuvAL"
     },
     {
       "added_at": null,
@@ -791,22 +791,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "SUBMISSIVE",
-        "url": "https://open.spotify.com/album/6Hyn3j0o6KwT8fgcfBre5z"
-      },
-      "artists": [
-        {
-          "name": "DESTIN CONRAD",
-          "url": "https://open.spotify.com/artist/4jwROPSUkTkohLCRiyjiZZ"
-        }
-      ],
-      "duration_ms": 132068,
-      "name": "MARIPOSA",
-      "url": "https://open.spotify.com/track/6mpANPTNlj2LpLIbTItVnQ"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "NOSEBLEED",
         "url": "https://open.spotify.com/album/2q8tx7JjxwCuHklk2yVb5F"
       },
@@ -819,6 +803,22 @@
       "duration_ms": 141415,
       "name": "NOSEBLEED",
       "url": "https://open.spotify.com/track/32BdPuMcOzowmFjRR8Rb84"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "SUBMISSIVE",
+        "url": "https://open.spotify.com/album/6Hyn3j0o6KwT8fgcfBre5z"
+      },
+      "artists": [
+        {
+          "name": "DESTIN CONRAD",
+          "url": "https://open.spotify.com/artist/4jwROPSUkTkohLCRiyjiZZ"
+        }
+      ],
+      "duration_ms": 132068,
+      "name": "MARIPOSA",
+      "url": "https://open.spotify.com/track/6mpANPTNlj2LpLIbTItVnQ"
     },
     {
       "added_at": null,

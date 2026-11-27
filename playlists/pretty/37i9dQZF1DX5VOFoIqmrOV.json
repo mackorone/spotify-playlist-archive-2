@@ -1,6 +1,6 @@
 {
   "description": "The finest set of Telugu music from the past 10 years. \nCover : 35 Chinna katha kadu!",
-  "num_followers": 472899,
+  "num_followers": 472950,
   "original_name": "Tollywood Pearls",
   "owner": {
     "name": "Spotify",
@@ -413,26 +413,6 @@
       "url": "https://open.spotify.com/track/729Mpzd9gE5p9dRehnb1WG"
     },
     {
-      "added_at": "2025-09-19 08:40:31",
-      "album": {
-        "name": "Poolamme Pilla (From \"HanuMan\") [Telugu]",
-        "url": "https://open.spotify.com/album/0BV1m2cWIBUmFpO3DhkvJN"
-      },
-      "artists": [
-        {
-          "name": "GowraHari",
-          "url": "https://open.spotify.com/artist/1GEwRtJ6snJ0z2hzmXAG80"
-        },
-        {
-          "name": "Kasarla Shyam",
-          "url": "https://open.spotify.com/artist/4wxBWsFkyA2K1BMBFj91qt"
-        }
-      ],
-      "duration_ms": 267682,
-      "name": "Poolamme Pilla (From \"HanuMan\") [Telugu]",
-      "url": "https://open.spotify.com/track/4ooaLueG56Bsq44TUNRgAn"
-    },
-    {
       "added_at": "2021-12-16 12:46:43",
       "album": {
         "name": "Gang Leader (Original Motion Picture Soundtrack)",
@@ -455,6 +435,22 @@
       "duration_ms": 271937,
       "name": "Hoyna Hoyna",
       "url": "https://open.spotify.com/track/7mNQwVYgoB3mtjkjCKsbXM"
+    },
+    {
+      "added_at": "2022-02-09 09:10:51",
+      "album": {
+        "name": "DJ Tillu",
+        "url": "https://open.spotify.com/album/3loo3ZQ43Rsu0FdtorNZE0"
+      },
+      "artists": [
+        {
+          "name": "Ram Miriyala",
+          "url": "https://open.spotify.com/artist/4A2XSc4OJjuPY4l6NjnrDj"
+        }
+      ],
+      "duration_ms": 183500,
+      "name": "Tillu Anna DJ Pedithe",
+      "url": "https://open.spotify.com/track/4ZNIkO2j6K2c0Nm8zWXmdn"
     },
     {
       "added_at": "2026-04-17 11:03:44",
@@ -509,44 +505,24 @@
       "url": "https://open.spotify.com/track/0iLgVMCi8KCTF9e6QbKvSl"
     },
     {
-      "added_at": "2022-02-09 09:10:51",
+      "added_at": "2025-09-19 08:40:31",
       "album": {
-        "name": "DJ Tillu",
-        "url": "https://open.spotify.com/album/3loo3ZQ43Rsu0FdtorNZE0"
+        "name": "Poolamme Pilla (From \"HanuMan\") [Telugu]",
+        "url": "https://open.spotify.com/album/0BV1m2cWIBUmFpO3DhkvJN"
       },
       "artists": [
         {
-          "name": "Ram Miriyala",
-          "url": "https://open.spotify.com/artist/4A2XSc4OJjuPY4l6NjnrDj"
-        }
-      ],
-      "duration_ms": 183500,
-      "name": "Tillu Anna DJ Pedithe",
-      "url": "https://open.spotify.com/track/4ZNIkO2j6K2c0Nm8zWXmdn"
-    },
-    {
-      "added_at": "2022-10-17 05:05:06",
-      "album": {
-        "name": "Naa Madhi (From \"Thiru\")",
-        "url": "https://open.spotify.com/album/0ceS6UwDJIFvogBfDdv7V3"
-      },
-      "artists": [
-        {
-          "name": "Dhanunjay Seepana",
-          "url": "https://open.spotify.com/artist/5DxwUWyGp1uejyE80iJcn0"
+          "name": "GowraHari",
+          "url": "https://open.spotify.com/artist/1GEwRtJ6snJ0z2hzmXAG80"
         },
         {
-          "name": "Srinivasa Mouli",
-          "url": "https://open.spotify.com/artist/2y2DSOmE3xKWW4Wia2ucCi"
-        },
-        {
-          "name": "Anirudh Ravichander",
-          "url": "https://open.spotify.com/artist/4zCH9qm4R2DADamUHMCa6O"
+          "name": "Kasarla Shyam",
+          "url": "https://open.spotify.com/artist/4wxBWsFkyA2K1BMBFj91qt"
         }
       ],
-      "duration_ms": 174193,
-      "name": "Naa Madhi (From \"Thiru\")",
-      "url": "https://open.spotify.com/track/42JI4hVOPLwQ0J7WOfIieR"
+      "duration_ms": 267682,
+      "name": "Poolamme Pilla (From \"HanuMan\") [Telugu]",
+      "url": "https://open.spotify.com/track/4ooaLueG56Bsq44TUNRgAn"
     },
     {
       "added_at": "2023-08-07 09:11:28",
@@ -571,6 +547,30 @@
       "duration_ms": 214765,
       "name": "Emannavoo",
       "url": "https://open.spotify.com/track/36ylvIx1fVaM4i5pux7Ea1"
+    },
+    {
+      "added_at": "2022-10-17 05:05:06",
+      "album": {
+        "name": "Naa Madhi (From \"Thiru\")",
+        "url": "https://open.spotify.com/album/0ceS6UwDJIFvogBfDdv7V3"
+      },
+      "artists": [
+        {
+          "name": "Dhanunjay Seepana",
+          "url": "https://open.spotify.com/artist/5DxwUWyGp1uejyE80iJcn0"
+        },
+        {
+          "name": "Srinivasa Mouli",
+          "url": "https://open.spotify.com/artist/2y2DSOmE3xKWW4Wia2ucCi"
+        },
+        {
+          "name": "Anirudh Ravichander",
+          "url": "https://open.spotify.com/artist/4zCH9qm4R2DADamUHMCa6O"
+        }
+      ],
+      "duration_ms": 174193,
+      "name": "Naa Madhi (From \"Thiru\")",
+      "url": "https://open.spotify.com/track/42JI4hVOPLwQ0J7WOfIieR"
     },
     {
       "added_at": "2026-04-17 11:03:44",
@@ -1803,6 +1803,22 @@
     {
       "added_at": "2023-08-07 09:11:28",
       "album": {
+        "name": "Son Of Satyamurthy",
+        "url": "https://open.spotify.com/album/0nJiWxWeUSYUq3xpzNKs5d"
+      },
+      "artists": [
+        {
+          "name": "Yazin Nizar",
+          "url": "https://open.spotify.com/artist/2pVurQy6iuWWx707gilSdX"
+        }
+      ],
+      "duration_ms": 262488,
+      "name": "Seethakaalam",
+      "url": "https://open.spotify.com/track/2C72bOiY3kbCgDBBznoejk"
+    },
+    {
+      "added_at": "2023-08-07 09:11:28",
+      "album": {
         "name": "Nenu Local",
         "url": "https://open.spotify.com/album/7D1e4SHtUU145PYbUiZ4F7"
       },
@@ -1819,22 +1835,6 @@
       "duration_ms": 236617,
       "name": "Arere Yekkada",
       "url": "https://open.spotify.com/track/1SbK7OHdqsTUfzPVKylwND"
-    },
-    {
-      "added_at": "2023-08-07 09:11:28",
-      "album": {
-        "name": "Son Of Satyamurthy",
-        "url": "https://open.spotify.com/album/0nJiWxWeUSYUq3xpzNKs5d"
-      },
-      "artists": [
-        {
-          "name": "Yazin Nizar",
-          "url": "https://open.spotify.com/artist/2pVurQy6iuWWx707gilSdX"
-        }
-      ],
-      "duration_ms": 262488,
-      "name": "Seethakaalam",
-      "url": "https://open.spotify.com/track/2C72bOiY3kbCgDBBznoejk"
     },
     {
       "added_at": "2023-08-07 09:11:28",
@@ -1961,6 +1961,26 @@
       "url": "https://open.spotify.com/track/2x3Plafnj7QE5VU3mFI7f7"
     },
     {
+      "added_at": "2023-08-07 09:11:28",
+      "album": {
+        "name": "Fidaa",
+        "url": "https://open.spotify.com/album/2OPvJhDyy9YvHJT3xt7Zwh"
+      },
+      "artists": [
+        {
+          "name": "Madhu Priya",
+          "url": "https://open.spotify.com/artist/1TpuHZaoRQMiKcMRN5DjDY"
+        },
+        {
+          "name": "Ramky",
+          "url": "https://open.spotify.com/artist/0T6ky5WnBqEazCMELEcQbn"
+        }
+      ],
+      "duration_ms": 324546,
+      "name": "Vachinde",
+      "url": "https://open.spotify.com/track/7KkaBto4aewGt8wl6q6wxH"
+    },
+    {
       "added_at": "2023-03-16 06:15:29",
       "album": {
         "name": "Amigos",
@@ -1979,6 +1999,22 @@
       "duration_ms": 281723,
       "name": "Enno Ratrulosthayi Remix Song",
       "url": "https://open.spotify.com/track/3HbGXLKLyWnCX4VQOQbAGM"
+    },
+    {
+      "added_at": "2021-12-16 12:46:43",
+      "album": {
+        "name": "Colour Photo",
+        "url": "https://open.spotify.com/album/04ryisWEHXSoU3l5K3J6k9"
+      },
+      "artists": [
+        {
+          "name": "Kala Bhairava",
+          "url": "https://open.spotify.com/artist/4tejKImNVmDcORNBuZ1l14"
+        }
+      ],
+      "duration_ms": 213437,
+      "name": "Tharagathi Gadhi",
+      "url": "https://open.spotify.com/track/7h8pQvwKxRYTt3oRGjNT93"
     },
     {
       "added_at": "2023-08-07 09:11:28",
@@ -2067,42 +2103,6 @@
       "duration_ms": 248133,
       "name": "Hey Pillagaada",
       "url": "https://open.spotify.com/track/3A3vrhAzRGaK92PtFzndjS"
-    },
-    {
-      "added_at": "2023-08-07 09:11:28",
-      "album": {
-        "name": "Fidaa",
-        "url": "https://open.spotify.com/album/2OPvJhDyy9YvHJT3xt7Zwh"
-      },
-      "artists": [
-        {
-          "name": "Madhu Priya",
-          "url": "https://open.spotify.com/artist/1TpuHZaoRQMiKcMRN5DjDY"
-        },
-        {
-          "name": "Ramky",
-          "url": "https://open.spotify.com/artist/0T6ky5WnBqEazCMELEcQbn"
-        }
-      ],
-      "duration_ms": 324546,
-      "name": "Vachinde",
-      "url": "https://open.spotify.com/track/7KkaBto4aewGt8wl6q6wxH"
-    },
-    {
-      "added_at": "2021-12-16 12:46:43",
-      "album": {
-        "name": "Colour Photo",
-        "url": "https://open.spotify.com/album/04ryisWEHXSoU3l5K3J6k9"
-      },
-      "artists": [
-        {
-          "name": "Kala Bhairava",
-          "url": "https://open.spotify.com/artist/4tejKImNVmDcORNBuZ1l14"
-        }
-      ],
-      "duration_ms": 213437,
-      "name": "Tharagathi Gadhi",
-      "url": "https://open.spotify.com/track/7h8pQvwKxRYTt3oRGjNT93"
     },
     {
       "added_at": "2023-08-07 09:11:28",

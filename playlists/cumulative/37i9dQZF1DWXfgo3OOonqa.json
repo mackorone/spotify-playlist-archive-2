@@ -681,6 +681,28 @@
     },
     {
       "album": {
+        "name": "V",
+        "url": "https://open.spotify.com/album/4JSunZf7nyJYDmQEumhSgH"
+      },
+      "artists": [
+        {
+          "name": "Lekaye",
+          "url": "https://open.spotify.com/artist/1ex9QsvTSM6iNuLh1lkJUM"
+        },
+        {
+          "name": "Shiro",
+          "url": "https://open.spotify.com/artist/2r9JAY6ISvp0VvZsT6cBJo"
+        }
+      ],
+      "date_added": "2026-11-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 130169,
+      "name": "2 LATE",
+      "url": "https://open.spotify.com/track/31wgs2TkbJoJ4zbIk5dXD7"
+    },
+    {
+      "album": {
         "name": "2 Phones",
         "url": "https://open.spotify.com/album/08wb7oiFjkYnOoQtprgvwb"
       },
@@ -16140,7 +16162,7 @@
       ],
       "date_added": "2026-09-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-27",
       "duration_ms": 125000,
       "name": "F\u00d6RV\u00c5NAD",
       "url": "https://open.spotify.com/track/7zr1wqsm4q2qDriySGqSP7"
@@ -16916,7 +16938,7 @@
       ],
       "date_added": "2026-10-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-27",
       "duration_ms": 116000,
       "name": "Ger dig all min love",
       "url": "https://open.spotify.com/track/6DiEEc4CoHvG6xeZqxHnD3"
@@ -19818,7 +19840,7 @@
       ],
       "date_added": "2026-08-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-27",
       "duration_ms": 155792,
       "name": "HiTMaN",
       "url": "https://open.spotify.com/track/5c2OWBO6Z94hgeLbi0w67r"
@@ -21448,6 +21470,28 @@
       "duration_ms": 157093,
       "name": "inatt",
       "url": "https://open.spotify.com/track/2YTZ3XiOHUUnwqJH9suznv"
+    },
+    {
+      "album": {
+        "name": "2 Tracks",
+        "url": "https://open.spotify.com/album/305IVpWnDK62FzFxiv8pct"
+      },
+      "artists": [
+        {
+          "name": "N1cho",
+          "url": "https://open.spotify.com/artist/2oYxnEf9p7RUIeDVo3y13y"
+        },
+        {
+          "name": "Le Bandit",
+          "url": "https://open.spotify.com/artist/2TZHEsA6cWPgEVUsrEt4IQ"
+        }
+      ],
+      "date_added": "2026-11-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 145053,
+      "name": "Industrin",
+      "url": "https://open.spotify.com/track/0mqTeyEHQLBVL0z3P8UFaP"
     },
     {
       "album": {
@@ -23650,6 +23694,28 @@
       "duration_ms": 159906,
       "name": "Kiss N Tell",
       "url": "https://open.spotify.com/track/2bK0IFKQWY19cNzHObywZ9"
+    },
+    {
+      "album": {
+        "name": "KJU",
+        "url": "https://open.spotify.com/album/6mCZlW4KGCgQ9w4lalsbYg"
+      },
+      "artists": [
+        {
+          "name": "T.G Boogie",
+          "url": "https://open.spotify.com/artist/1PVxZM6C1jxLDUNJAEVX6d"
+        },
+        {
+          "name": "ZUUZ",
+          "url": "https://open.spotify.com/artist/0sgVdVG2hRMx0wAkH023cx"
+        }
+      ],
+      "date_added": "2026-11-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 146122,
+      "name": "KJU",
+      "url": "https://open.spotify.com/track/12ij2t4HgHF1AR9YV6HjzN"
     },
     {
       "album": {
@@ -26299,6 +26365,28 @@
     },
     {
       "album": {
+        "name": "2 Tracks",
+        "url": "https://open.spotify.com/album/305IVpWnDK62FzFxiv8pct"
+      },
+      "artists": [
+        {
+          "name": "N1cho",
+          "url": "https://open.spotify.com/artist/2oYxnEf9p7RUIeDVo3y13y"
+        },
+        {
+          "name": "Le Bandit",
+          "url": "https://open.spotify.com/artist/2TZHEsA6cWPgEVUsrEt4IQ"
+        }
+      ],
+      "date_added": "2026-11-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 191207,
+      "name": "Lockdown",
+      "url": "https://open.spotify.com/track/2RMvZ1zsZ2IeGEooRm4IY2"
+    },
+    {
+      "album": {
         "name": "LOGGA UT",
         "url": "https://open.spotify.com/album/5piGT2xQPt0xydho8ufEsO"
       },
@@ -27860,7 +27948,7 @@
       ],
       "date_added": "2026-07-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-27",
       "duration_ms": 147070,
       "name": "Mademoiselle",
       "url": "https://open.spotify.com/track/0oZSUWZPd5EXeCE0ATO1k0"
@@ -36637,6 +36725,24 @@
     },
     {
       "album": {
+        "name": "REWIND",
+        "url": "https://open.spotify.com/album/5SbKhDccX7N6nVWeaGzaDk"
+      },
+      "artists": [
+        {
+          "name": "DANO",
+          "url": "https://open.spotify.com/artist/1qid2RAqbRe7NvZ8tCxbOS"
+        }
+      ],
+      "date_added": "2026-11-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 124353,
+      "name": "REWIND",
+      "url": "https://open.spotify.com/track/02vPAWRFArjvThqqh6fT2Z"
+    },
+    {
+      "album": {
         "name": "Ride Or Die",
         "url": "https://open.spotify.com/album/7ooGHtHXunbRyohHb6mGMF"
       },
@@ -37922,7 +38028,7 @@
       ],
       "date_added": "2026-08-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-27",
       "duration_ms": 124137,
       "name": "Save Me",
       "url": "https://open.spotify.com/track/0UyfknmEkHvlbvNT0N1tkL"
@@ -38306,6 +38412,24 @@
       "duration_ms": 138000,
       "name": "Sena n\u00e4tter",
       "url": "https://open.spotify.com/track/7wh6eCTjlgq9K7xJcGVdlA"
+    },
+    {
+      "album": {
+        "name": "Sentimental",
+        "url": "https://open.spotify.com/album/2YYB42FrQCldIqAeWAmm09"
+      },
+      "artists": [
+        {
+          "name": "Ninety",
+          "url": "https://open.spotify.com/artist/2tl3YeeRX4B0j3RbGRVBcD"
+        }
+      ],
+      "date_added": "2026-11-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 135145,
+      "name": "Sentimental",
+      "url": "https://open.spotify.com/track/4ozL0w3lGQzUjTLjrZn5hO"
     },
     {
       "album": {
@@ -39778,7 +39902,7 @@
       ],
       "date_added": "2026-09-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-27",
       "duration_ms": 189374,
       "name": "Snubbe (BTB)",
       "url": "https://open.spotify.com/track/613EnGm3kWJJcd0r21kzMm"
@@ -42198,7 +42322,7 @@
       ],
       "date_added": "2026-07-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-27",
       "duration_ms": 138913,
       "name": "System",
       "url": "https://open.spotify.com/track/2SjdGLlnVHX4bmKm7DMVZW"
@@ -43708,6 +43832,24 @@
       "duration_ms": 156269,
       "name": "Til Toppen",
       "url": "https://open.spotify.com/track/3IdMka9dVfYIKZmpGf6Heo"
+    },
+    {
+      "album": {
+        "name": "TILLBAKA",
+        "url": "https://open.spotify.com/album/6IgRNtK31Wud88GcTFievx"
+      },
+      "artists": [
+        {
+          "name": "GG",
+          "url": "https://open.spotify.com/artist/5NxuYq2W1QB6qpPxNYVumI"
+        }
+      ],
+      "date_added": "2026-11-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 163404,
+      "name": "TILLBAKA",
+      "url": "https://open.spotify.com/track/6RKxx70AYa5uSEZOJ0ikLR"
     },
     {
       "album": {
@@ -46951,6 +47093,24 @@
     },
     {
       "album": {
+        "name": "VI ELLER DOM",
+        "url": "https://open.spotify.com/album/2PDkBDQ799jgiofIbQnynm"
+      },
+      "artists": [
+        {
+          "name": "Blizzy",
+          "url": "https://open.spotify.com/artist/4tSx9oXscGCVaVXEhH86qp"
+        }
+      ],
+      "date_added": "2026-11-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 133139,
+      "name": "VI ELLER DOM",
+      "url": "https://open.spotify.com/track/38ijhDKtZASYcIDXZ2en18"
+    },
+    {
+      "album": {
         "name": "Vi K\u00f6r",
         "url": "https://open.spotify.com/album/07bJvyUTNqSIspZK2gadJX"
       },
@@ -47176,7 +47336,7 @@
       ],
       "date_added": "2026-10-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-27",
       "duration_ms": 130169,
       "name": "VILL VARA H\u00c4R",
       "url": "https://open.spotify.com/track/4OG3ULeZl3idtV93yagqsd"

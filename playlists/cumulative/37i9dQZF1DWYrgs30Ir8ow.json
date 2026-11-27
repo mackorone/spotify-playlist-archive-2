@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2023-02-25",
-  "description": "Altijd frisse hits! Cover: Jonna Fraser & Frenna",
+  "description": "Altijd frisse hits! Cover: Kris Kross Amsterdam, Carel & Jonna Fraser",
   "name": "Fresh Hits",
   "tracks": [
     {
@@ -4626,6 +4626,28 @@
       "duration_ms": 176000,
       "name": "Bundle By Bundle",
       "url": "https://open.spotify.com/track/2gtg4jTNUqC4akFqWZZXcV"
+    },
+    {
+      "album": {
+        "name": "Burn This Shit Down (from GTAVI: The Album)",
+        "url": "https://open.spotify.com/album/0jgRjaxbK29djrWFc8qcTN"
+      },
+      "artists": [
+        {
+          "name": "Travis Scott",
+          "url": "https://open.spotify.com/artist/0Y5tJX1MQlPlqiwlOH1tJY"
+        },
+        {
+          "name": "Grand Theft Auto VI",
+          "url": "https://open.spotify.com/artist/15o7qdDTBzs6xWRUYUtZc1"
+        }
+      ],
+      "date_added": "2026-11-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 260000,
+      "name": "Burn This Shit Down (from GTAVI: The Album)",
+      "url": "https://open.spotify.com/track/30YpKShBDGUAGfUx2BfVIb"
     },
     {
       "album": {
@@ -10159,6 +10181,28 @@
     },
     {
       "album": {
+        "name": "Gezelligheidsdier",
+        "url": "https://open.spotify.com/album/7eNtzN3qTNStyQpD5p3qpU"
+      },
+      "artists": [
+        {
+          "name": "Donnie",
+          "url": "https://open.spotify.com/artist/2ylIKKdMukkuprCgY4ZDFE"
+        },
+        {
+          "name": "Marco Schuitmaker",
+          "url": "https://open.spotify.com/artist/5kukvi4C18gvtXbDS1eKjQ"
+        }
+      ],
+      "date_added": "2026-11-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 155374,
+      "name": "Gezelligheidsdier",
+      "url": "https://open.spotify.com/track/17QtUCnGatxnb0ojq2NzlZ"
+    },
+    {
+      "album": {
         "name": "Gezichten EP",
         "url": "https://open.spotify.com/album/3jBDb7CmEwRl7TLE54Tfct"
       },
@@ -11929,6 +11973,32 @@
     },
     {
       "album": {
+        "name": "Hoe Ik Je Loev (CRUSH)",
+        "url": "https://open.spotify.com/album/72OEaD0vFVuyOFrEk52kpN"
+      },
+      "artists": [
+        {
+          "name": "Kris Kross Amsterdam",
+          "url": "https://open.spotify.com/artist/4LcUpNlXFEleaLlelmkv2R"
+        },
+        {
+          "name": "Carel",
+          "url": "https://open.spotify.com/artist/5qbldCiZAkn2KfwyUfithX"
+        },
+        {
+          "name": "Jonna Fraser",
+          "url": "https://open.spotify.com/artist/5adKMaYrGOMyOfnbiLPuHg"
+        }
+      ],
+      "date_added": "2026-11-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 124251,
+      "name": "Hoe Ik Je Loev (CRUSH)",
+      "url": "https://open.spotify.com/track/2qoa8BDGy8kiW2GsPiQcLU"
+    },
+    {
+      "album": {
         "name": "Hoe Zou Het Zijn Geweest",
         "url": "https://open.spotify.com/album/6sqKgulNiIhYxOs4rwHR2a"
       },
@@ -12600,7 +12670,7 @@
       ],
       "date_added": "2026-09-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-27",
       "duration_ms": 150266,
       "name": "HVB",
       "url": "https://open.spotify.com/track/1rmyXcwRGKDpKG9EzjmlQQ"
@@ -20372,7 +20442,7 @@
       ],
       "date_added": "2026-09-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-27",
       "duration_ms": 206921,
       "name": "Parachute",
       "url": "https://open.spotify.com/track/6ipQbyshG2EiqlR11pbYLR"
@@ -20412,6 +20482,24 @@
       "duration_ms": 154400,
       "name": "Parler Fran\u00e7ais",
       "url": "https://open.spotify.com/track/0gfHldycqvlnoxGwTPu52Z"
+    },
+    {
+      "album": {
+        "name": "Party With The Boys",
+        "url": "https://open.spotify.com/album/5Ei8O7C8Fa5oXZTNB166Sf"
+      },
+      "artists": [
+        {
+          "name": "Don Toliver",
+          "url": "https://open.spotify.com/artist/4Gso3d4CscCijv0lmajZWs"
+        }
+      ],
+      "date_added": "2026-11-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 155492,
+      "name": "Party With The Boys",
+      "url": "https://open.spotify.com/track/5d2Sj3lMKJFefwU26GInQu"
     },
     {
       "album": {
@@ -20776,7 +20864,7 @@
       ],
       "date_added": "2026-09-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-27",
       "duration_ms": 145373,
       "name": "Pistache",
       "url": "https://open.spotify.com/track/0LcFvudD0m6m0Vo2UyedFm"
@@ -22978,6 +23066,24 @@
       "duration_ms": 122818,
       "name": "Sensa",
       "url": "https://open.spotify.com/track/4OByoXgJXbXD4KXtHeA4Xi"
+    },
+    {
+      "album": {
+        "name": "SEPHORA",
+        "url": "https://open.spotify.com/album/4aBOrCEczQjaWE2oiyGhT0"
+      },
+      "artists": [
+        {
+          "name": "Issah",
+          "url": "https://open.spotify.com/artist/59ZjXKy0c97P7681qe7Tsq"
+        }
+      ],
+      "date_added": "2026-11-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 128391,
+      "name": "SEPHORA",
+      "url": "https://open.spotify.com/track/06XvfZtvE0ZMjodXteivH5"
     },
     {
       "album": {
@@ -29068,7 +29174,7 @@
       ],
       "date_added": "2026-09-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-27",
       "duration_ms": 118471,
       "name": "Wauw",
       "url": "https://open.spotify.com/track/3A08L1HFsnHKyFQep0AWyY"
@@ -30338,7 +30444,7 @@
       ],
       "date_added": "2026-11-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-27",
       "duration_ms": 181911,
       "name": "You\u2019re Under Arrest",
       "url": "https://open.spotify.com/track/0pMoUGdpD8nupNP1mSdZUn"

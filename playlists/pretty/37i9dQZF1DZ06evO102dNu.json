@@ -1,12 +1,12 @@
 {
   "description": "This is Frank Sinatra. The essential tracks, all in one playlist.",
-  "num_followers": 1232302,
+  "num_followers": 1232334,
   "original_name": "This Is Frank Sinatra",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "awOCAAAAAADyZSdjW8NnvV/RbUKjt36D",
+  "snapshot_id": "awYlAAAAAAAbM768cCCpDi9/d8cP7xIv",
   "tracks": [
     {
       "added_at": null,
@@ -423,8 +423,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Trilogy: Past, Present & Future",
-        "url": "https://open.spotify.com/album/4Cv61B08yHx3fwkylkhCxe"
+        "name": "Come Swing With Me! (Remastered)",
+        "url": "https://open.spotify.com/album/4iKRtw8U5nIwGP1A5TBevR"
       },
       "artists": [
         {
@@ -432,9 +432,9 @@
           "url": "https://open.spotify.com/artist/1Mxqyy3pSjf8kZZL4QVxS0"
         }
       ],
-      "duration_ms": 206066,
-      "name": "Theme From New York, New York",
-      "url": "https://open.spotify.com/track/3QksrtI9VFCBHWA4rgvcV8"
+      "duration_ms": 148293,
+      "name": "I Love You - Remastered",
+      "url": "https://open.spotify.com/track/4w9dZ5cMKPsL6zXqBBz1JQ"
     },
     {
       "added_at": null,
@@ -459,8 +459,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Come Swing With Me! (Remastered)",
-        "url": "https://open.spotify.com/album/4iKRtw8U5nIwGP1A5TBevR"
+        "name": "Trilogy: Past, Present & Future",
+        "url": "https://open.spotify.com/album/4Cv61B08yHx3fwkylkhCxe"
       },
       "artists": [
         {
@@ -468,9 +468,9 @@
           "url": "https://open.spotify.com/artist/1Mxqyy3pSjf8kZZL4QVxS0"
         }
       ],
-      "duration_ms": 148293,
-      "name": "I Love You - Remastered",
-      "url": "https://open.spotify.com/track/4w9dZ5cMKPsL6zXqBBz1JQ"
+      "duration_ms": 206066,
+      "name": "Theme From New York, New York",
+      "url": "https://open.spotify.com/track/3QksrtI9VFCBHWA4rgvcV8"
     },
     {
       "added_at": null,
@@ -507,6 +507,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "My Way (Expanded Edition)",
+        "url": "https://open.spotify.com/album/3IdNQBn7De23AVyv2V67wn"
+      },
+      "artists": [
+        {
+          "name": "Frank Sinatra",
+          "url": "https://open.spotify.com/artist/1Mxqyy3pSjf8kZZL4QVxS0"
+        }
+      ],
+      "duration_ms": 171066,
+      "name": "For Once In My Life",
+      "url": "https://open.spotify.com/track/3FsrG1TIB79ONER5Fr1cCt"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Sinatra/Jobim: The Complete Reprise Recordings",
         "url": "https://open.spotify.com/album/5280NkLzxe2w7K1JW9I8jX"
       },
@@ -523,22 +539,6 @@
       "duration_ms": 163186,
       "name": "Change Partners",
       "url": "https://open.spotify.com/track/5LMDR9OJOVfRAB99Vr96zn"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "My Way (Expanded Edition)",
-        "url": "https://open.spotify.com/album/3IdNQBn7De23AVyv2V67wn"
-      },
-      "artists": [
-        {
-          "name": "Frank Sinatra",
-          "url": "https://open.spotify.com/artist/1Mxqyy3pSjf8kZZL4QVxS0"
-        }
-      ],
-      "duration_ms": 171066,
-      "name": "For Once In My Life",
-      "url": "https://open.spotify.com/track/3FsrG1TIB79ONER5Fr1cCt"
     },
     {
       "added_at": null,
@@ -851,8 +851,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Sinatra At The Sands - 60th Anniversary",
-        "url": "https://open.spotify.com/album/4HqxECORvwwBuD01A9zAVT"
+        "name": "September Of My Years (Expanded Edition)",
+        "url": "https://open.spotify.com/album/3DdN3GRJj8YS0V0fiyXtbt"
       },
       "artists": [
         {
@@ -860,9 +860,9 @@
           "url": "https://open.spotify.com/artist/1Mxqyy3pSjf8kZZL4QVxS0"
         }
       ],
-      "duration_ms": 161573,
-      "name": "Fly Me To The Moon - Live At The Sands, Las Vegas, NV / January 29, 1966 / First Show",
-      "url": "https://open.spotify.com/track/6cVtxsKo5SC9Z3IEfw6W54"
+      "duration_ms": 195480,
+      "name": "The September Of My Years",
+      "url": "https://open.spotify.com/track/7aEqYB9fGCGtq8aYL6ugQU"
     }
   ],
   "unique_name": "This Is Frank Sinatra",

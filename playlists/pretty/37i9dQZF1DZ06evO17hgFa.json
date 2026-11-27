@@ -1,12 +1,12 @@
 {
   "description": "This is Billie Holiday. The essential tracks, all in one playlist.",
-  "num_followers": 151433,
+  "num_followers": 151444,
   "original_name": "This Is Billie Holiday",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "awOCAAAAAAB1Ej5wbl9jqAZYsKy0uye0",
+  "snapshot_id": "awYlAAAAAADHYHeAB219q2e1uhMb0wzh",
   "tracks": [
     {
       "added_at": null,
@@ -351,22 +351,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Recital",
-        "url": "https://open.spotify.com/album/2YliGLupRmayvY7eC6Es7r"
-      },
-      "artists": [
-        {
-          "name": "Billie Holiday",
-          "url": "https://open.spotify.com/artist/1YzCsTRb22dQkh9lghPIrp"
-        }
-      ],
-      "duration_ms": 179853,
-      "name": "How Deep Is The Ocean?",
-      "url": "https://open.spotify.com/track/1yKDFWPxCzB2Kg3ic2bQ1k"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Billie Holiday Love Songs",
         "url": "https://open.spotify.com/album/3MXpFQDq1cTE4WfGZDAsY4"
       },
@@ -379,6 +363,22 @@
       "duration_ms": 181333,
       "name": "Easy Living",
       "url": "https://open.spotify.com/track/0XsbCr34semDxq0ZX84BCh"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Recital",
+        "url": "https://open.spotify.com/album/2YliGLupRmayvY7eC6Es7r"
+      },
+      "artists": [
+        {
+          "name": "Billie Holiday",
+          "url": "https://open.spotify.com/artist/1YzCsTRb22dQkh9lghPIrp"
+        }
+      ],
+      "duration_ms": 179853,
+      "name": "How Deep Is The Ocean?",
+      "url": "https://open.spotify.com/track/1yKDFWPxCzB2Kg3ic2bQ1k"
     },
     {
       "added_at": null,
@@ -467,8 +467,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "The Complete Commodore Recordings",
-        "url": "https://open.spotify.com/album/7zSWkh1YCGAo4zO7nje22z"
+        "name": "Music For Torching",
+        "url": "https://open.spotify.com/album/127Jwx8NAD3DPnLDDucazY"
       },
       "artists": [
         {
@@ -476,9 +476,9 @@
           "url": "https://open.spotify.com/artist/1YzCsTRb22dQkh9lghPIrp"
         }
       ],
-      "duration_ms": 198866,
-      "name": "I'm Yours",
-      "url": "https://open.spotify.com/track/1oAQJNKrMnIX5tLMan0UsY"
+      "duration_ms": 264373,
+      "name": "Come Rain Or Come Shine",
+      "url": "https://open.spotify.com/track/20lPX0g0lacr7c72M8A0OR"
     },
     {
       "added_at": null,
@@ -503,22 +503,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Music For Torching",
-        "url": "https://open.spotify.com/album/127Jwx8NAD3DPnLDDucazY"
-      },
-      "artists": [
-        {
-          "name": "Billie Holiday",
-          "url": "https://open.spotify.com/artist/1YzCsTRb22dQkh9lghPIrp"
-        }
-      ],
-      "duration_ms": 264373,
-      "name": "Come Rain Or Come Shine",
-      "url": "https://open.spotify.com/track/20lPX0g0lacr7c72M8A0OR"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "I Only Have Eyes For You",
         "url": "https://open.spotify.com/album/2V66YProO6dJVqUXOAKDm3"
       },
@@ -531,6 +515,22 @@
       "duration_ms": 174333,
       "name": "I Only Have Eyes For You",
       "url": "https://open.spotify.com/track/6G48GrqVR0ySo7F0BdUJ9u"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "The Complete Commodore Recordings",
+        "url": "https://open.spotify.com/album/7zSWkh1YCGAo4zO7nje22z"
+      },
+      "artists": [
+        {
+          "name": "Billie Holiday",
+          "url": "https://open.spotify.com/artist/1YzCsTRb22dQkh9lghPIrp"
+        }
+      ],
+      "duration_ms": 198866,
+      "name": "I'm Yours",
+      "url": "https://open.spotify.com/track/1oAQJNKrMnIX5tLMan0UsY"
     },
     {
       "added_at": null,
@@ -567,22 +567,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "The Lady Sings",
-        "url": "https://open.spotify.com/album/12Ie61TJvvha9qm27suytg"
-      },
-      "artists": [
-        {
-          "name": "Billie Holiday",
-          "url": "https://open.spotify.com/artist/1YzCsTRb22dQkh9lghPIrp"
-        }
-      ],
-      "duration_ms": 188160,
-      "name": "Good Morning Heartache",
-      "url": "https://open.spotify.com/track/5jGqJTsejbAy7QdhAH2Qwp"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Lover Man",
         "url": "https://open.spotify.com/album/7tsBTgXE5wZggdmh5qBhZH"
       },
@@ -595,6 +579,22 @@
       "duration_ms": 175426,
       "name": "That Ole Devil Called Love",
       "url": "https://open.spotify.com/track/0AQneI6Ek7V7pQEcRZfPwF"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "The Lady Sings",
+        "url": "https://open.spotify.com/album/12Ie61TJvvha9qm27suytg"
+      },
+      "artists": [
+        {
+          "name": "Billie Holiday",
+          "url": "https://open.spotify.com/artist/1YzCsTRb22dQkh9lghPIrp"
+        }
+      ],
+      "duration_ms": 188160,
+      "name": "Good Morning Heartache",
+      "url": "https://open.spotify.com/track/5jGqJTsejbAy7QdhAH2Qwp"
     },
     {
       "added_at": null,
@@ -723,6 +723,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Songs For Distingu\u00e9 Lovers",
+        "url": "https://open.spotify.com/album/4aVrAD83svetEEqiANmvmw"
+      },
+      "artists": [
+        {
+          "name": "Billie Holiday",
+          "url": "https://open.spotify.com/artist/1YzCsTRb22dQkh9lghPIrp"
+        }
+      ],
+      "duration_ms": 333200,
+      "name": "Just One Of Those Things - Take 8 - Master Take",
+      "url": "https://open.spotify.com/track/434Icqe1n6rfIoOSwhrYbn"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Lady Day: The Complete Billie Holiday On Columbia (1933-1944)",
         "url": "https://open.spotify.com/album/7pBwUBRsdgtIyX7tGOmaoy"
       },
@@ -743,8 +759,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Songs For Distingu\u00e9 Lovers",
-        "url": "https://open.spotify.com/album/4aVrAD83svetEEqiANmvmw"
+        "name": "Lover Man",
+        "url": "https://open.spotify.com/album/7tsBTgXE5wZggdmh5qBhZH"
       },
       "artists": [
         {
@@ -752,9 +768,9 @@
           "url": "https://open.spotify.com/artist/1YzCsTRb22dQkh9lghPIrp"
         }
       ],
-      "duration_ms": 333200,
-      "name": "Just One Of Those Things - Take 8 - Master Take",
-      "url": "https://open.spotify.com/track/434Icqe1n6rfIoOSwhrYbn"
+      "duration_ms": 179453,
+      "name": "There Is No Greater Love",
+      "url": "https://open.spotify.com/track/2fSlY7Sv6ZKcTOkp1ki9xL"
     },
     {
       "added_at": null,
@@ -771,22 +787,6 @@
       "duration_ms": 248813,
       "name": "They Can't Take That Away From Me",
       "url": "https://open.spotify.com/track/1ytWVUYZiVJq8FriPFtafJ"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Lover Man",
-        "url": "https://open.spotify.com/album/7tsBTgXE5wZggdmh5qBhZH"
-      },
-      "artists": [
-        {
-          "name": "Billie Holiday",
-          "url": "https://open.spotify.com/artist/1YzCsTRb22dQkh9lghPIrp"
-        }
-      ],
-      "duration_ms": 179453,
-      "name": "There Is No Greater Love",
-      "url": "https://open.spotify.com/track/2fSlY7Sv6ZKcTOkp1ki9xL"
     },
     {
       "added_at": null,
@@ -827,18 +827,34 @@
     {
       "added_at": null,
       "album": {
-        "name": "Body and Soul",
-        "url": "https://open.spotify.com/album/3aJNsCTs6AlnGcLs2b6Rc3"
+        "name": "Verve Remixed 3",
+        "url": "https://open.spotify.com/album/36OJA0CFoB1DTYYojj3EEi"
       },
       "artists": [
         {
+          "name": "Ogden Nash",
+          "url": "https://open.spotify.com/artist/3PqJgc8sLclLqk5vdanQKM"
+        },
+        {
+          "name": "Kurt Weill",
+          "url": "https://open.spotify.com/artist/69a1b61a56mJlx8iAUMBsY"
+        },
+        {
           "name": "Billie Holiday",
           "url": "https://open.spotify.com/artist/1YzCsTRb22dQkh9lghPIrp"
+        },
+        {
+          "name": "Bent",
+          "url": "https://open.spotify.com/artist/59xljcfdN2Z9VX2U5RFKEa"
+        },
+        {
+          "name": "Simon Mills",
+          "url": "https://open.spotify.com/artist/5XRbLABLIWCBjIw8B7Ia7p"
         }
       ],
-      "duration_ms": 405613,
-      "name": "Embraceable You",
-      "url": "https://open.spotify.com/track/6gMSKtyc2OXAh7qvMoMVKs"
+      "duration_ms": 261773,
+      "name": "Speak Low - Bent Remix",
+      "url": "https://open.spotify.com/track/7ujUko3QK8m1UFnexVmRbc"
     }
   ],
   "unique_name": "This Is Billie Holiday",

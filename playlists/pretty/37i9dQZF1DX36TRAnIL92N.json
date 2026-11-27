@@ -1,6 +1,6 @@
 {
   "description": "High energy Techno to boost your workout.",
-  "num_followers": 520526,
+  "num_followers": 520716,
   "original_name": "Techno Workout",
   "owner": {
     "name": "Spotify",
@@ -735,26 +735,6 @@
     {
       "added_at": "2026-11-20 20:12:02",
       "album": {
-        "name": "Frequency",
-        "url": "https://open.spotify.com/album/6Rm91r3NcNXKjNrf4xt7zm"
-      },
-      "artists": [
-        {
-          "name": "Eli Brown",
-          "url": "https://open.spotify.com/artist/5lVNSw2GPci8kebrAQpZqU"
-        },
-        {
-          "name": "Dimension",
-          "url": "https://open.spotify.com/artist/1QMgre3BHX161ZHtWMUu6S"
-        }
-      ],
-      "duration_ms": 205714,
-      "name": "Frequency",
-      "url": "https://open.spotify.com/track/2X9niMzzXId2fNe3wu6l2e"
-    },
-    {
-      "added_at": "2026-11-20 20:12:02",
-      "album": {
         "name": "Where I'm From",
         "url": "https://open.spotify.com/album/71N6oT6Vtqs5xjn9b1xxYK"
       },
@@ -775,6 +755,26 @@
       "duration_ms": 202500,
       "name": "Where I'm From",
       "url": "https://open.spotify.com/track/0JFNTfRWLqQ09z9ZHldX8d"
+    },
+    {
+      "added_at": "2026-11-20 20:12:02",
+      "album": {
+        "name": "Frequency",
+        "url": "https://open.spotify.com/album/6Rm91r3NcNXKjNrf4xt7zm"
+      },
+      "artists": [
+        {
+          "name": "Eli Brown",
+          "url": "https://open.spotify.com/artist/5lVNSw2GPci8kebrAQpZqU"
+        },
+        {
+          "name": "Dimension",
+          "url": "https://open.spotify.com/artist/1QMgre3BHX161ZHtWMUu6S"
+        }
+      ],
+      "duration_ms": 205714,
+      "name": "Frequency",
+      "url": "https://open.spotify.com/track/2X9niMzzXId2fNe3wu6l2e"
     },
     {
       "added_at": "2026-11-20 20:12:02",
@@ -839,26 +839,6 @@
     {
       "added_at": "2026-11-20 20:12:02",
       "album": {
-        "name": "Coming In Heavy",
-        "url": "https://open.spotify.com/album/723kV64ne2P2nR3PLXHNyY"
-      },
-      "artists": [
-        {
-          "name": "Eli Brown",
-          "url": "https://open.spotify.com/artist/5lVNSw2GPci8kebrAQpZqU"
-        },
-        {
-          "name": "Pan-Pot",
-          "url": "https://open.spotify.com/artist/6OQOvP7RAdmAKVXXQqD0Se"
-        }
-      ],
-      "duration_ms": 231521,
-      "name": "Coming In Heavy",
-      "url": "https://open.spotify.com/track/6VTiQz9Er68Nn8DywsO2v3"
-    },
-    {
-      "added_at": "2026-11-20 20:12:02",
-      "album": {
         "name": "How You Move (Age of Acid Remix)",
         "url": "https://open.spotify.com/album/0bbmqxl95e7qJHGmiuv77Z"
       },
@@ -883,6 +863,26 @@
       "duration_ms": 419154,
       "name": "How You Move - Age of Acid Remix",
       "url": "https://open.spotify.com/track/5sNwFhrJfNsAZIL0JhX76h"
+    },
+    {
+      "added_at": "2026-11-20 20:12:02",
+      "album": {
+        "name": "Coming In Heavy",
+        "url": "https://open.spotify.com/album/723kV64ne2P2nR3PLXHNyY"
+      },
+      "artists": [
+        {
+          "name": "Eli Brown",
+          "url": "https://open.spotify.com/artist/5lVNSw2GPci8kebrAQpZqU"
+        },
+        {
+          "name": "Pan-Pot",
+          "url": "https://open.spotify.com/artist/6OQOvP7RAdmAKVXXQqD0Se"
+        }
+      ],
+      "duration_ms": 231521,
+      "name": "Coming In Heavy",
+      "url": "https://open.spotify.com/track/6VTiQz9Er68Nn8DywsO2v3"
     },
     {
       "added_at": "2026-11-20 20:12:02",
@@ -947,22 +947,6 @@
     {
       "added_at": "2026-11-20 20:12:02",
       "album": {
-        "name": "Believe",
-        "url": "https://open.spotify.com/album/3vUbTHFU39OGMaJ3VGD98N"
-      },
-      "artists": [
-        {
-          "name": "Eli Brown",
-          "url": "https://open.spotify.com/artist/5lVNSw2GPci8kebrAQpZqU"
-        }
-      ],
-      "duration_ms": 408669,
-      "name": "Believe",
-      "url": "https://open.spotify.com/track/40up5wCfwQXTDXyE18hJbJ"
-    },
-    {
-      "added_at": "2026-11-20 20:12:02",
-      "album": {
         "name": "Mercury",
         "url": "https://open.spotify.com/album/5q2bsjSrluBoWf3F61Fofp"
       },
@@ -983,6 +967,22 @@
       "duration_ms": 225346,
       "name": "Mercury",
       "url": "https://open.spotify.com/track/25dFcH5EsCJLMSmFDDJLT3"
+    },
+    {
+      "added_at": "2026-11-20 20:12:02",
+      "album": {
+        "name": "Believe",
+        "url": "https://open.spotify.com/album/3vUbTHFU39OGMaJ3VGD98N"
+      },
+      "artists": [
+        {
+          "name": "Eli Brown",
+          "url": "https://open.spotify.com/artist/5lVNSw2GPci8kebrAQpZqU"
+        }
+      ],
+      "duration_ms": 408669,
+      "name": "Believe",
+      "url": "https://open.spotify.com/track/40up5wCfwQXTDXyE18hJbJ"
     }
   ],
   "unique_name": "Techno Workout",

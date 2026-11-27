@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFytB89FQTrZQ.md) - [plain]
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/4Wi1FLcqmkfe8LZa5QxrSA">MNEK</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 4,955 likes - 334 songs - 18 hr 17 min
+[Spotify](https://open.spotify.com/user/spotify) - 4,958 likes - 334 songs - 18 hr 17 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -242,8 +242,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFytB89FQTrZQ.md) - [plain]
 | 232 | [In Your Clouds](https://open.spotify.com/track/5vx016WUYcrXIHZ9h0JxTy) | [MNEK](https://open.spotify.com/artist/7uMh23xWiuR7zsNkuNcm2G) | [Small Talk \- EP](https://open.spotify.com/album/6adnqzJgMLO8oJmzP0Kp28) | 4:58 |
 | 233 | [WHAT'S REALLY GOOD?](https://open.spotify.com/track/3BpV4X96v59dXv5bucIgXL) | [Brayton Bowman](https://open.spotify.com/artist/2PLMuRIKJKvwg3rOGr2MuK) | [22 MINUTES LATER](https://open.spotify.com/album/6XKzZUj9aeS1YygwyVVrG7) | 4:04 |
 | 234 | [WORRY TOO MUCH \- EDIT](https://open.spotify.com/track/6uuqMnJ49QOfToEqTObu7B) | [Brayton Bowman](https://open.spotify.com/artist/2PLMuRIKJKvwg3rOGr2MuK), [S'natra](https://open.spotify.com/artist/6ejpB7JpUhE7XHXAIStcsv), [Niko The Kid](https://open.spotify.com/artist/0FPoqGEZFwHQfu5tRPL08X) | [CHAPTER 23 \(THE EDITS\)](https://open.spotify.com/album/57gwOGPtX7vOYJgH9faPFk) | 3:14 |
-| 235 | [Phone](https://open.spotify.com/track/2ClPhnTuoffoj3CkDxEdGi) | [MNEK](https://open.spotify.com/artist/7uMh23xWiuR7zsNkuNcm2G) | [Language](https://open.spotify.com/album/1Savte5xUnDV7zXpzpf4AR) | 3:23 |
-| 236 | [Is Anybody There](https://open.spotify.com/track/6uktW9We6a1nidJJwNndKd) | [Becky Hill](https://open.spotify.com/artist/4EPJlUEBy49EX1wuFOvtjK) | [Only Honest On The Weekend](https://open.spotify.com/album/2LWAzUYdZSUq0fW8ddbL1Q) | 3:16 |
+| 235 | [Is Anybody There](https://open.spotify.com/track/6uktW9We6a1nidJJwNndKd) | [Becky Hill](https://open.spotify.com/artist/4EPJlUEBy49EX1wuFOvtjK) | [Only Honest On The Weekend](https://open.spotify.com/album/2LWAzUYdZSUq0fW8ddbL1Q) | 3:16 |
+| 236 | [Phone](https://open.spotify.com/track/2ClPhnTuoffoj3CkDxEdGi) | [MNEK](https://open.spotify.com/artist/7uMh23xWiuR7zsNkuNcm2G) | [Language](https://open.spotify.com/album/1Savte5xUnDV7zXpzpf4AR) | 3:23 |
 | 237 | [Worth My While](https://open.spotify.com/track/61yCjv5bKruUBDmbsls0Pn) | [Manny Norté](https://open.spotify.com/artist/5IZXhE6DcoszTt30hAeJuw), [Stalk Ashley](https://open.spotify.com/artist/6VCt6Dh7TaZF330ZFeNHv5), [Tiana Major9](https://open.spotify.com/artist/1Naqgo0HMRoumRP0e2MXD9), [Ayra Starr](https://open.spotify.com/artist/3ZpEKRjHaHANcpk10u6Ntq) | [Worth My While](https://open.spotify.com/album/4xjs0e8UUcJ7HUWrapvqR5) | 3:25 |
 | 238 | [INNOCENT](https://open.spotify.com/track/1KIFCi8G2xun3uXACcZDZy) | [Ryan Ashley](https://open.spotify.com/artist/6kZjELknW6k5H1kSZDKcoM), [Kate Stewart](https://open.spotify.com/artist/494OPqLjjEhjKil1G6MWho) | [INNOCENT](https://open.spotify.com/album/4EW6GvsKJE1X40aHbOR9Fk) | 3:26 |
 | 239 | [One Track Mind \(feat\. RILEASA\)](https://open.spotify.com/track/5RgB1e7a1KHrXrfT3UuPCc) | [Becky Hill](https://open.spotify.com/artist/4EPJlUEBy49EX1wuFOvtjK), [RILEASA](https://open.spotify.com/artist/5spVyRrIk8Es1ZBi2ClEUU) | [Believe Me Now?](https://open.spotify.com/album/70szmVYkj3Y8y1wh3bxkMR) | 2:44 |
@@ -343,4 +343,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFytB89FQTrZQ.md) - [plain]
 | 333 | [Forever](https://open.spotify.com/track/4nFQk5qNI8TKWnorHDljEp) | [Jono Hill](https://open.spotify.com/artist/6gQmXqh4cXimoa1NotjBQW) | [As Far as the Eye Can See \(Original Score\)](https://open.spotify.com/album/6ACj9tILNQn22YobKjbfAr) | 0:44 |
 | 334 | [Hearsay \- Interlude](https://open.spotify.com/track/65sA0SEBGpcTadBiIWvfKB) | [MNEK](https://open.spotify.com/artist/7uMh23xWiuR7zsNkuNcm2G) | [Language](https://open.spotify.com/album/1Savte5xUnDV7zXpzpf4AR) | 0:15 |
 
-Snapshot ID: `Acip+gAAAAASkJuCgQQt7h8pnejmbXLx`
+Snapshot ID: `AcivpAAAAADSpodxZy2KroM/QDIa5N0I`

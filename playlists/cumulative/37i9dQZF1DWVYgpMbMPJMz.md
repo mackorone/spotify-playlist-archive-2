@@ -4,7 +4,7 @@
 
 > Experience the lastest and the greatest Worship music right here, right now\. Cover: SEU Worship
 
-1,135 songs - 4 day 10 hr 55 min
+1,136 songs - 4 day 11 hr 1 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -368,7 +368,7 @@
 | [Heart Cry](https://open.spotify.com/track/7sj3foHbvvf33iGlhx2Rma) | [SEU Worship](https://open.spotify.com/artist/7M7UXUwtz3Wb25PVS8dwHs), [Dan Rivera](https://open.spotify.com/artist/0AMYyPxXhg0YdrIrLaWD31) | [Heart Cry](https://open.spotify.com/album/1mXWDLikomDEHcv5cYornP) | 7:05 | 2022-06-03 | 2022-07-02 |
 | [Heart Like Heaven \- in lieu of me](https://open.spotify.com/track/1VUaj16xDwJ6Jox7SOqJOL) | [Matt Crocker](https://open.spotify.com/artist/6vGCQS2VmikoQOsXgFN3Ec) | [MATT CROCKER \- in lieu of me \(Vol\. 2\)](https://open.spotify.com/album/41ANwyjke7x5MtyyK6ZEm1) | 6:01 | 2026-09-04 | 2026-10-03 |
 | [Heaven Collide](https://open.spotify.com/track/6napmh5WfgrThYbkwognKx) | [Roosevelt Stewart](https://open.spotify.com/artist/2KVpuzFwWhwa7oR6g5tvmk), [Anna Golden](https://open.spotify.com/artist/3YChYj3gO6EJmFwI79cUSe) | [Heaven Collide](https://open.spotify.com/album/6y8gYo7orW8jbpY3EAqpRe) | 5:16 | 2026-07-31 | 2026-09-19 |
-| [Heaven Sings Holy](https://open.spotify.com/track/4KhMTGBEqYdTdLlos91oXI) | [Michael Gabriel Monroe](https://open.spotify.com/artist/63ox6qPSxB4PsktUu1Qu75) | [Heaven Sings Holy](https://open.spotify.com/album/42BXK3yKX8LAeWGLr0Qigd) | 4:57 | 2026-02-27 |  |
+| [Heaven Sings Holy](https://open.spotify.com/track/4KhMTGBEqYdTdLlos91oXI) | [Michael Gabriel Monroe](https://open.spotify.com/artist/63ox6qPSxB4PsktUu1Qu75) | [Heaven Sings Holy](https://open.spotify.com/album/42BXK3yKX8LAeWGLr0Qigd) | 4:57 | 2026-02-27 | 2026-11-27 |
 | [Heaven's Frequency](https://open.spotify.com/track/5iJViNLHsoOlulhrDVDJCH) | [Meredith Andrews](https://open.spotify.com/artist/6qk2W9h3eE5UtPJlIatzsY), [Cecily](https://open.spotify.com/artist/4hryzFSB8IYFIaBba9jUvT) | [Heaven's Frequency](https://open.spotify.com/album/6f1Jkfs8tfgM7G2tmUXxbj) | 4:15 | 2024-03-22 | 2024-09-28 |
 | [Help Me Live in Step \- Live](https://open.spotify.com/track/6LgNEqbZd7TBNSpjTsomIM) | [Shane & Shane](https://open.spotify.com/artist/2LFbgsbEhfilNpQYW7mied), [Kingdom Kids](https://open.spotify.com/artist/5ZEFkYy6VPMg1C4QssVKCZ) | [Worship in The Word, Vol\. 2 \(Live\)](https://open.spotify.com/album/7HmiWfc5xCGC5pUoZrP7IC) | 4:34 | 2022-09-02 | 2023-02-25 |
 | [Help My Unbelief \- Acoustic](https://open.spotify.com/track/2NHRSVGALcjEfEIV9X0yRt) | [Chris Tomlin](https://open.spotify.com/artist/6pRi6EIPXz4QJEOEsBaA0m) | [Help My Unbelief](https://open.spotify.com/album/0IFLYIJTTtebsHLeSrEtKQ) | 3:26 | 2026-02-06 | 2026-04-04 |
@@ -1137,6 +1137,7 @@
 | [You Prepare the Fire](https://open.spotify.com/track/726NUsPYYDXOG4TmkTpRpl) | [Zach Webb](https://open.spotify.com/artist/7xY48N1Fs8R9DDKcUrevke) | [You Prepare the Fire](https://open.spotify.com/album/2QIQ0XXpJnwbfJ8OvlPABZ) | 5:20 | 2026-05-08 | 2026-10-24 |
 | [You Remain \- Live](https://open.spotify.com/track/5OSWlFATPnMqNAidk1a0cT) | [Meredith Mauldin](https://open.spotify.com/artist/4O0BmoWXRlZmal3Y4YrT7y), [UPPERROOM](https://open.spotify.com/artist/107CG0UhUl9GJnPwF83N63), [Elyssa Smith](https://open.spotify.com/artist/0p7lJtfYpKXr9KClOkpRaF) | [You Remain \(Live\)](https://open.spotify.com/album/0mC62E1P3NyDz3IvZxPVPK) | 6:08 | 2022-07-01 | 2022-07-30 |
 | [You Stay The Same \- Live](https://open.spotify.com/track/1GVNMNVD6iShdSkhXdNy01) | [7 Hills Worship](https://open.spotify.com/artist/0SLXOHoqcGPOsH9RZETtp1), [Hailey Hampton](https://open.spotify.com/artist/1es11bh34XVASYtJEa6be3) | [You Stay The Same \(Live\)](https://open.spotify.com/album/7rzqEeJH3LEF5g8Gt3TfhK) | 5:33 | 2025-06-06 | 2025-06-21 |
+| [You Stay The Same \- Live](https://open.spotify.com/track/1xZLEt2xEVNaaJQw2RYzyz) | [ICF Sunday Night](https://open.spotify.com/artist/7cXKmEWEQzsADxmpFgzdBl) | [You Stay The Same \(Live\)](https://open.spotify.com/album/5Elk6QZzb4pllhBVncb4A9) | 6:03 | 2026-11-27 |  |
 | [You Will Be Saved](https://open.spotify.com/track/5qZfyZ194ueTEHYTkGNA6f) | [ELEVATION RHYTHM](https://open.spotify.com/artist/0qZ8aSF0iMCQI99AAXikF8) | [You Will Be Saved](https://open.spotify.com/album/5vWSZtMuoAs4LImacMCKbk) | 6:14 | 2023-03-31 | 2024-05-04 |
 | [You Will Have It All](https://open.spotify.com/track/5znzle0Lx9BzqgGpoz5xEJ) | [DOE](https://open.spotify.com/artist/7z7byOJ4AJnMY2NHE66ZpW) | [You Will Have It All](https://open.spotify.com/album/0xKyxbiOjwq4sVIABMqrmJ) | 5:22 | 2026-08-14 | 2026-08-29 |
 | [You Will Make A Way](https://open.spotify.com/track/61jyAFUcAgEKBI55uCKkpT) | [Darlene Zschech](https://open.spotify.com/artist/6ZLy8YFk7VbamsI5qbYXtw) | [Testament](https://open.spotify.com/album/58h82eRAsZRTYrwQDvgclN) | 6:11 | 2024-10-11 | 2025-09-20 |

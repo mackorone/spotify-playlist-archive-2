@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-05-30",
-  "description": "Latest music from Aditya Rikhari, Shreya Ghoshal, Faheem Abdullah and more.",
+  "description": "Latest music from Dhvani Bhanushali, Banjaare, Faheem Abdullah and more.",
   "name": "New Music Friday I-Pop ",
   "tracks": [
     {
@@ -1970,6 +1970,32 @@
       "duration_ms": 191752,
       "name": "Afsos",
       "url": "https://open.spotify.com/track/4Qm7r3ImER8S2Ori1gLMAf"
+    },
+    {
+      "album": {
+        "name": "Afsurdagi",
+        "url": "https://open.spotify.com/album/6bya9DNYL4c3b4TgPUciQ5"
+      },
+      "artists": [
+        {
+          "name": "Khan",
+          "url": "https://open.spotify.com/artist/6Pw5uJLhqmspnTuHchPnmS"
+        },
+        {
+          "name": "Noor",
+          "url": "https://open.spotify.com/artist/7F5LO6TFFBGkRhsQdCcLVm"
+        },
+        {
+          "name": "Yaani Karnawat",
+          "url": "https://open.spotify.com/artist/2DQRnUEWF0YPw4vXHgJzq8"
+        }
+      ],
+      "date_added": "2026-11-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 217959,
+      "name": "Afsurdagi",
+      "url": "https://open.spotify.com/track/45CtI088j2t6xdtlKguJt8"
     },
     {
       "album": {
@@ -4447,6 +4473,28 @@
     },
     {
       "album": {
+        "name": "Banjaara Mai Tera",
+        "url": "https://open.spotify.com/album/0E3DiKkfDGer6iLjSSbKsa"
+      },
+      "artists": [
+        {
+          "name": "Banjaare",
+          "url": "https://open.spotify.com/artist/7IbxsPdlYelceWNyHAor55"
+        },
+        {
+          "name": "Roni",
+          "url": "https://open.spotify.com/artist/2yCnfrc4kI0XxzqLUMPiBk"
+        }
+      ],
+      "date_added": "2026-11-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 177744,
+      "name": "Banjaara Mai Tera",
+      "url": "https://open.spotify.com/track/5c2ivl6HZkFDVeTctbp38O"
+    },
+    {
+      "album": {
         "name": "Banjaare (Following the Sun)",
         "url": "https://open.spotify.com/album/1J6GU8VNYO3luUsiV4IWQE"
       },
@@ -6276,7 +6324,7 @@
       ],
       "date_added": "2026-10-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-27",
       "duration_ms": 163902,
       "name": "Bin Kasoor",
       "url": "https://open.spotify.com/track/0r3zrt8rLVnJnVGRRmSNTi"
@@ -7760,7 +7808,7 @@
       ],
       "date_added": "2026-10-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-27",
       "duration_ms": 146400,
       "name": "Cheere Waldeya",
       "url": "https://open.spotify.com/track/2EFDi3FCEVZSw1qBdI0WDX"
@@ -9024,6 +9072,32 @@
       "duration_ms": 213506,
       "name": "Dastak",
       "url": "https://open.spotify.com/track/6p2ZjkoroOPdcTlcM5MLwA"
+    },
+    {
+      "album": {
+        "name": "Dastak",
+        "url": "https://open.spotify.com/album/5lNa6BoexOV95qF2nmPyKj"
+      },
+      "artists": [
+        {
+          "name": "Suyash",
+          "url": "https://open.spotify.com/artist/397qVkvMksq20YImjWX9BR"
+        },
+        {
+          "name": "Danny",
+          "url": "https://open.spotify.com/artist/1qyXgLYCg0osV4glEYuQIv"
+        },
+        {
+          "name": "Avvy Ballagan",
+          "url": "https://open.spotify.com/artist/17SREP4Zd3CshA6N3uTP6Q"
+        }
+      ],
+      "date_added": "2026-11-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 131134,
+      "name": "Dastak",
+      "url": "https://open.spotify.com/track/2X5LMiqyqny8ltBN13NE5y"
     },
     {
       "album": {
@@ -11111,6 +11185,32 @@
     },
     {
       "album": {
+        "name": "Dobara Nahi",
+        "url": "https://open.spotify.com/album/4Qco6mRrD20Cg9Snf6uNH0"
+      },
+      "artists": [
+        {
+          "name": "Faheem Abdullah",
+          "url": "https://open.spotify.com/artist/05etL4pzWd6TSv1x5WrlG3"
+        },
+        {
+          "name": "Duha Shah",
+          "url": "https://open.spotify.com/artist/3l1qBa4ZTuNfYOap9WGbDQ"
+        },
+        {
+          "name": "Hyder Dar",
+          "url": "https://open.spotify.com/artist/7Khu2sHjq6VFAfiRLql5tt"
+        }
+      ],
+      "date_added": "2026-11-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 212061,
+      "name": "Dobara Nahi",
+      "url": "https://open.spotify.com/track/0Kw5ADD3mt1DUoNsw6r6Ex"
+    },
+    {
+      "album": {
         "name": "Dokhi Na",
         "url": "https://open.spotify.com/album/3H3uwQikqS1WpHLCK93Nfh"
       },
@@ -11510,6 +11610,36 @@
       "duration_ms": 232771,
       "name": "Dosti",
       "url": "https://open.spotify.com/track/67L5pbi8qYQg3KKxroat6g"
+    },
+    {
+      "album": {
+        "name": "Dua",
+        "url": "https://open.spotify.com/album/0lj0WZrqnXtPj6vXLccJ2H"
+      },
+      "artists": [
+        {
+          "name": "Dhvani Bhanushali",
+          "url": "https://open.spotify.com/artist/1OPqAyxsQc8mcRmoNBAnVk"
+        },
+        {
+          "name": "Goldie Sohel",
+          "url": "https://open.spotify.com/artist/5Y9YGMxRoQYfJFj4kJ9TVv"
+        },
+        {
+          "name": "Sukhamrit Soin",
+          "url": "https://open.spotify.com/artist/6JbCipvhHBf6c9D4ocTm74"
+        },
+        {
+          "name": "Arafat Mehmood",
+          "url": "https://open.spotify.com/artist/23CFIqxATE8yL1OTX6j8ad"
+        }
+      ],
+      "date_added": "2026-11-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 176666,
+      "name": "Dua",
+      "url": "https://open.spotify.com/track/38fOmI1zgqrc4nhgW7Nzse"
     },
     {
       "album": {
@@ -12652,7 +12782,7 @@
       ],
       "date_added": "2026-10-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-27",
       "duration_ms": 137073,
       "name": "FOSHO",
       "url": "https://open.spotify.com/track/0AvV8BtJhh4SyxU2LMCqc1"
@@ -14888,7 +15018,7 @@
       ],
       "date_added": "2026-10-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-27",
       "duration_ms": 158124,
       "name": "Heer",
       "url": "https://open.spotify.com/track/2hVoqLqVg1CRLMG4zt0E3o"
@@ -16518,6 +16648,32 @@
       "duration_ms": 223875,
       "name": "Ishq",
       "url": "https://open.spotify.com/track/2ZAJXdd4kUIlaUwt3MqqPb"
+    },
+    {
+      "album": {
+        "name": "Ishq",
+        "url": "https://open.spotify.com/album/2cEW6UxYUwYeg4Q0aQYSXf"
+      },
+      "artists": [
+        {
+          "name": "Sonu Kakkar",
+          "url": "https://open.spotify.com/artist/1Pn6pKlgzxcH6iIRp08dQr"
+        },
+        {
+          "name": "The Kabir",
+          "url": "https://open.spotify.com/artist/6yPhcGRmraBwXnqANykgQS"
+        },
+        {
+          "name": "BYG BASS",
+          "url": "https://open.spotify.com/artist/7qScqy8QkqngHWUluAWVux"
+        }
+      ],
+      "date_added": "2026-11-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 194257,
+      "name": "Ishq",
+      "url": "https://open.spotify.com/track/0r5uz6o594BJOe7voVOy96"
     },
     {
       "album": {
@@ -19240,7 +19396,7 @@
       ],
       "date_added": "2026-09-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-27",
       "duration_ms": 165000,
       "name": "Jiyara",
       "url": "https://open.spotify.com/track/56qV2PcQkOp6wdBw2b5vDE"
@@ -22786,7 +22942,7 @@
       ],
       "date_added": "2026-10-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-27",
       "duration_ms": 284999,
       "name": "Koi Yaad Koi Baat",
       "url": "https://open.spotify.com/track/3M2rwp7OkZU9nhbnmhMy3V"
@@ -23870,6 +24026,32 @@
       "duration_ms": 227000,
       "name": "Laut Aao Na",
       "url": "https://open.spotify.com/track/4ByPoS1tU7Gvbimkj29GQu"
+    },
+    {
+      "album": {
+        "name": "Laut Ke Aa",
+        "url": "https://open.spotify.com/album/3zDgV1A4QsQrlxqnCbzr0p"
+      },
+      "artists": [
+        {
+          "name": "Shreya Ghoshal",
+          "url": "https://open.spotify.com/artist/0oOet2f43PA68X5RxKobEy"
+        },
+        {
+          "name": "Javed Akhtar",
+          "url": "https://open.spotify.com/artist/3UpmjPgIFSGqnxXuiwD014"
+        },
+        {
+          "name": "Mannan Shaah",
+          "url": "https://open.spotify.com/artist/7N2dclX5B3iviso9v9TlUT"
+        }
+      ],
+      "date_added": "2026-11-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 354835,
+      "name": "Laut Ke Aa",
+      "url": "https://open.spotify.com/track/4y4gu9mGeoJLrdWCMACOOO"
     },
     {
       "album": {
@@ -27944,6 +28126,28 @@
       "duration_ms": 185076,
       "name": "Na Kaha",
       "url": "https://open.spotify.com/track/21QvgSRtFLMOfIXBDmWW7y"
+    },
+    {
+      "album": {
+        "name": "Na Mila",
+        "url": "https://open.spotify.com/album/4GuT9PbwVrZqZPMVlXmC2a"
+      },
+      "artists": [
+        {
+          "name": "Shashwat Singh",
+          "url": "https://open.spotify.com/artist/6iv4lysB1yHXoZJ2gfqTdh"
+        },
+        {
+          "name": "Hansika Pareek",
+          "url": "https://open.spotify.com/artist/0RVfcqug2nB820dxIGycIW"
+        }
+      ],
+      "date_added": "2026-11-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 190243,
+      "name": "Na Mila",
+      "url": "https://open.spotify.com/track/1EJOyF6qJT8NzDnQWbli7p"
     },
     {
       "album": {
@@ -32276,7 +32480,7 @@
       ],
       "date_added": "2026-09-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-27",
       "duration_ms": 173043,
       "name": "Raanjha Ve",
       "url": "https://open.spotify.com/track/1H0f09c2KuSuXMfF0scX5j"
@@ -32801,7 +33005,7 @@
     },
     {
       "album": {
-        "name": "Rani Tu Hi Diwali",
+        "name": "Rani",
         "url": "https://open.spotify.com/album/1fiV4DqIEHpk7c71mVi5Om"
       },
       "artists": [
@@ -32814,7 +33018,7 @@
       "date_added_asterisk": false,
       "date_removed": null,
       "duration_ms": 152052,
-      "name": "Rani Tu Hi Diwali",
+      "name": "Rani",
       "url": "https://open.spotify.com/track/4ozTOPaacVgbZmfvo8SeZR"
     },
     {
@@ -33582,7 +33786,7 @@
       ],
       "date_added": "2026-10-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-27",
       "duration_ms": 164705,
       "name": "RUDE",
       "url": "https://open.spotify.com/track/1myezJ7Cty6YVRPa96penu"
@@ -43486,7 +43690,7 @@
       ],
       "date_added": "2026-10-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-27",
       "duration_ms": 202557,
       "name": "Vaari Vaari - Acoustic",
       "url": "https://open.spotify.com/track/2gTk797GEfLe2yJ7DAVMzD"
@@ -44880,6 +45084,32 @@
       "duration_ms": 185250,
       "name": "Zara",
       "url": "https://open.spotify.com/track/14l9V3PXCrnFvDdn3sgxnw"
+    },
+    {
+      "album": {
+        "name": "Zara Poocho",
+        "url": "https://open.spotify.com/album/1OM46FgD1Z9nIV3LJUjtZA"
+      },
+      "artists": [
+        {
+          "name": "Abhijeet Srivastava",
+          "url": "https://open.spotify.com/artist/4FJhE5ToBQGzOGf0D5Xd1C"
+        },
+        {
+          "name": "Aanchal Tyagi",
+          "url": "https://open.spotify.com/artist/2Zk1S1jMx7YNHnGQi07off"
+        },
+        {
+          "name": "Shayra Apoorva",
+          "url": "https://open.spotify.com/artist/2l6dWCvNtJVgvF2oR7kUg8"
+        }
+      ],
+      "date_added": "2026-11-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 166265,
+      "name": "Zara Poocho",
+      "url": "https://open.spotify.com/track/3lGuHxZ7G5z6UMpUuLp1Ar"
     },
     {
       "album": {

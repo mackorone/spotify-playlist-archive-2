@@ -1,12 +1,12 @@
 {
   "description": "This is Zlatan. The essential tracks, all in one playlist.",
-  "num_followers": 9895,
+  "num_followers": 9905,
   "original_name": "This Is Zlatan",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "awOCAAAAAABsBI45DdI15DkvHqr/xqGO",
+  "snapshot_id": "awYlAAAAAAD3rdocAbVL5VXhEelQbIoa",
   "tracks": [
     {
       "added_at": null,
@@ -55,26 +55,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "MOTION SICKNESS",
-        "url": "https://open.spotify.com/album/0uyDxHJsxv7meDo3jI8geM"
-      },
-      "artists": [
-        {
-          "name": "ODUMODUBLVCK",
-          "url": "https://open.spotify.com/artist/3LOm0AZjpwVQebvkyanjDy"
-        },
-        {
-          "name": "Zlatan",
-          "url": "https://open.spotify.com/artist/4mSWNal2Ixxf1zrXSTLoep"
-        }
-      ],
-      "duration_ms": 167586,
-      "name": "MOTION SICKNESS (feat. Zlatan)",
-      "url": "https://open.spotify.com/track/24NCQmCRmHlUr1syzQ6fse"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Symbol of Hope",
         "url": "https://open.spotify.com/album/27V1Jv5291nkV7CVFvQSwK"
       },
@@ -91,6 +71,26 @@
       "duration_ms": 195600,
       "name": "Get Better",
       "url": "https://open.spotify.com/track/7m2m1Wcf1M3HxuN19z1o3I"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "MOTION SICKNESS",
+        "url": "https://open.spotify.com/album/0uyDxHJsxv7meDo3jI8geM"
+      },
+      "artists": [
+        {
+          "name": "ODUMODUBLVCK",
+          "url": "https://open.spotify.com/artist/3LOm0AZjpwVQebvkyanjDy"
+        },
+        {
+          "name": "Zlatan",
+          "url": "https://open.spotify.com/artist/4mSWNal2Ixxf1zrXSTLoep"
+        }
+      ],
+      "duration_ms": 167586,
+      "name": "MOTION SICKNESS (feat. Zlatan)",
+      "url": "https://open.spotify.com/track/24NCQmCRmHlUr1syzQ6fse"
     },
     {
       "added_at": null,
@@ -423,30 +423,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "JET",
-        "url": "https://open.spotify.com/album/0A2ZAlxeTaZdnSuyzBZGZW"
-      },
-      "artists": [
-        {
-          "name": "SAMAD",
-          "url": "https://open.spotify.com/artist/0X1sGf1y8XCupQFDUkiPmB"
-        },
-        {
-          "name": "Chech",
-          "url": "https://open.spotify.com/artist/2hcI8RG5BVD85XXcuMFLiO"
-        },
-        {
-          "name": "Zlatan",
-          "url": "https://open.spotify.com/artist/4mSWNal2Ixxf1zrXSTLoep"
-        }
-      ],
-      "duration_ms": 175200,
-      "name": "JET",
-      "url": "https://open.spotify.com/track/57hvQIucaegfjRMdPzIcRr"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "SHOGUN IN LAGOS",
         "url": "https://open.spotify.com/album/0Uq4u4UvnkLtofhMy4TOwe"
       },
@@ -467,6 +443,30 @@
       "duration_ms": 243253,
       "name": "JE M'APPELLE",
       "url": "https://open.spotify.com/track/5v3mdFr8pPLv1BlVuXCRnT"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "JET",
+        "url": "https://open.spotify.com/album/0A2ZAlxeTaZdnSuyzBZGZW"
+      },
+      "artists": [
+        {
+          "name": "SAMAD",
+          "url": "https://open.spotify.com/artist/0X1sGf1y8XCupQFDUkiPmB"
+        },
+        {
+          "name": "Chech",
+          "url": "https://open.spotify.com/artist/2hcI8RG5BVD85XXcuMFLiO"
+        },
+        {
+          "name": "Zlatan",
+          "url": "https://open.spotify.com/artist/4mSWNal2Ixxf1zrXSTLoep"
+        }
+      ],
+      "duration_ms": 175200,
+      "name": "JET",
+      "url": "https://open.spotify.com/track/57hvQIucaegfjRMdPzIcRr"
     },
     {
       "added_at": null,
@@ -623,6 +623,26 @@
     {
       "added_at": null,
       "album": {
+        "name": "Blessed",
+        "url": "https://open.spotify.com/album/0X0hFVPZ4GfWlY9Gr6tSst"
+      },
+      "artists": [
+        {
+          "name": "Mohbad",
+          "url": "https://open.spotify.com/artist/0a8YNI8VHVPYKIPvCiJDxa"
+        },
+        {
+          "name": "Zlatan",
+          "url": "https://open.spotify.com/artist/4mSWNal2Ixxf1zrXSTLoep"
+        }
+      ],
+      "duration_ms": 153174,
+      "name": "Account Balance",
+      "url": "https://open.spotify.com/track/5C6r3u5SjqyBcE4ex7WqrS"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Dance for Jesus",
         "url": "https://open.spotify.com/album/12pkgxsoiyh5Kq7DreKBxp"
       },
@@ -643,26 +663,6 @@
       "duration_ms": 200948,
       "name": "Dance for Jesus",
       "url": "https://open.spotify.com/track/7ARtgoelqoU6QGi7fuoQnR"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Blessed",
-        "url": "https://open.spotify.com/album/0X0hFVPZ4GfWlY9Gr6tSst"
-      },
-      "artists": [
-        {
-          "name": "Mohbad",
-          "url": "https://open.spotify.com/artist/0a8YNI8VHVPYKIPvCiJDxa"
-        },
-        {
-          "name": "Zlatan",
-          "url": "https://open.spotify.com/artist/4mSWNal2Ixxf1zrXSTLoep"
-        }
-      ],
-      "duration_ms": 153174,
-      "name": "Account Balance",
-      "url": "https://open.spotify.com/track/5C6r3u5SjqyBcE4ex7WqrS"
     },
     {
       "added_at": null,

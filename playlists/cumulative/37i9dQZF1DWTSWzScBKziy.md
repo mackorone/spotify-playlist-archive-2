@@ -4,7 +4,7 @@
 
 > Dive into a diverse collection of recent releases from Christian and inspirational artists across all genres\. Cover: Strings & Heart
 
-1,714 songs - 4 day 10 hr 58 min
+1,715 songs - 4 day 11 hr 1 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -266,6 +266,7 @@
 | [Daydreamer](https://open.spotify.com/track/3NO32PfjA7FGJ0CTppnE4F) | [Young Oceans](https://open.spotify.com/artist/41crVXG3GeS8TmyWEaPZVr) | [Daydreamer](https://open.spotify.com/album/3xua7RUbU0UAB4UatyxDnX) | 3:24 | 2025-09-14 | 2025-10-07 |
 | [Daylight \- feat\. Britt Nicole](https://open.spotify.com/track/0JP70dJTRPx1RPI7EG1Jsf) | [Hunter Plake](https://open.spotify.com/artist/7dToZgn1tZjiCKeT1y60zw), [Britt Nicole](https://open.spotify.com/artist/6BXionV4R0BunrFpSwIMUK) | [Daylight \(feat\. Britt Nicole\)](https://open.spotify.com/album/1CFciW1V4wy7VmHwwwIbsx) | 3:00 | 2024-11-29 | 2025-02-08 |
 | [Days God Gave](https://open.spotify.com/track/3rjJSnrmEtZTEr9AdRoMfZ) | [Matt Hammitt](https://open.spotify.com/artist/0o77vi5tCsW348tzvdjNPw) | [Days God Gave](https://open.spotify.com/album/72PudhF4u5ROBYEekDjjHt) | 3:09 | 2025-09-14 | 2025-11-16 |
+| [Days God Gave \- Acoustic](https://open.spotify.com/track/4AwJLKAB1rZD0Ti4OasdMv) | [Matt Hammitt](https://open.spotify.com/artist/0o77vi5tCsW348tzvdjNPw) | [Days God Gave \(Acoustic\)](https://open.spotify.com/album/6MwQAukSgn95xLJyntxWwf) | 3:11 | 2026-11-20 |  |
 | [Dead and Gone](https://open.spotify.com/track/0ANfiqlF0EdKUB0LSgwD6v) | [Weeks Revival](https://open.spotify.com/artist/1Zi57yVO40T6LnTmyTBU7O) | [Dead and Gone](https://open.spotify.com/album/7mQl1PWg8Ok5aQagggiUWn) | 3:27 | 2026-06-19 | 2026-07-18 |
 | [DEAD IN THE WATER](https://open.spotify.com/track/7EVdKmLwyM7EaoztxoZzOU) | [TEMITOPE](https://open.spotify.com/artist/2YrmP8ksRyeEVkzYp5to25) | [DEAD IN THE WATER](https://open.spotify.com/album/6MbOzUTYBPzcKFym4mStnG) | 3:49 | 2026-08-21 | 2026-10-24 |
 | [Deal With the Devil](https://open.spotify.com/track/1vLiRGMXr3ogfUK9PNaBYv) | [Noah Baker](https://open.spotify.com/artist/0DnCxVNBEUIdrAAPbp8yVx) | [The Art of Losing It All](https://open.spotify.com/album/5DCQNWSvTIqn64zCpCGqw6) | 2:34 | 2025-06-06 | 2025-07-20 |
@@ -955,7 +956,7 @@
 | [Make It Good](https://open.spotify.com/track/553IXhpPYgf5yVWNQeM7iB) | [Roosevelt Stewart](https://open.spotify.com/artist/2KVpuzFwWhwa7oR6g5tvmk), [Todd Galberth](https://open.spotify.com/artist/4EPtawsSClG1agy1MyVkMW) | [Memory](https://open.spotify.com/album/5j6AoIkhOX3kRHx4PkCvmD) | 11:30 | 2026-10-23 |  |
 | [Make Me Willing](https://open.spotify.com/track/2i44EncbCf54yDm4vBWKSy) | [Chelsea Plank](https://open.spotify.com/artist/2rZyX9csPrIfGn1E7iSF7y) | [Make Me Willing](https://open.spotify.com/album/1BYPDmXbofH29ev7fMEY9E) | 3:42 | 2026-11-06 |  |
 | [Make Us Ready](https://open.spotify.com/track/0rvcVTWEzYXoQmCeqMyzwg) | [Josh Garrels](https://open.spotify.com/artist/16QSVsPKl743hu4U5C18R8), [Lauren Goans](https://open.spotify.com/artist/3tahOs894u23BZzpyXSTDh) | [Make Us Ready](https://open.spotify.com/album/1dksb98F4wZDXlXa5W1WJN) | 4:21 | 2025-10-06 | 2025-11-16 |
-| [Make Way](https://open.spotify.com/track/2GIDXxvCr8YvYXuZ6P4s50) | [Catch the Fire Raleigh](https://open.spotify.com/artist/3AJhHt4TTBrnHMkiTiAT2B), [catch the fire music](https://open.spotify.com/artist/5GDKrfgIsgXogDmoP2kx2x), [Hannah Helmer](https://open.spotify.com/artist/2DxYgSaAvfFEkcejARZ6Nh) | [Make Way](https://open.spotify.com/album/171fTgSeQ51baXCf7uc6gT) | 6:29 | 2026-11-06 |  |
+| [Make Way](https://open.spotify.com/track/2GIDXxvCr8YvYXuZ6P4s50) | [Catch the Fire Raleigh](https://open.spotify.com/artist/3AJhHt4TTBrnHMkiTiAT2B), [catch the fire music](https://open.spotify.com/artist/5GDKrfgIsgXogDmoP2kx2x), [Hannah Helmer](https://open.spotify.com/artist/2DxYgSaAvfFEkcejARZ6Nh) | [Make Way](https://open.spotify.com/album/171fTgSeQ51baXCf7uc6gT) | 6:29 | 2026-11-06 | 2026-11-27 |
 | [Making Room](https://open.spotify.com/track/5WehKpb4H0ERLZ80DGh2oY) | [Tiera Kennedy](https://open.spotify.com/artist/26VEPCGAYB9OClQodb0OR1), [Joe L Barnes](https://open.spotify.com/artist/5nO7Yt0Jon48sqKR6VME4T) | [Making Room](https://open.spotify.com/album/0bZUf2TuIKJxZuLBHlRBA4) | 3:04 | 2025-07-19 | 2025-09-15 |
 | [Making Ways](https://open.spotify.com/track/2tjFSBUk4ccqRjbmCJwkuF) | [Iveth Luna](https://open.spotify.com/artist/2fiP5LcBybuvRJlE9RW8zv), [Meeks Carter](https://open.spotify.com/artist/1cuL1Q6C4uzrqXFOsnR4p7) | [Making Ways](https://open.spotify.com/album/4YkJDG3y5yVcQwE69IOohK) | 3:24 | 2026-06-19 | 2026-07-18 |
 | [Mama Don't Lie \(Alright\)](https://open.spotify.com/track/1XeGUrBIQ8kdlJoKWpqGp0) | [Stars Go Dim](https://open.spotify.com/artist/4O5EDKGt6YC5IXkOArVqk3) | [Mama Don't Lie \(Alright\)](https://open.spotify.com/album/59L0URE6EBNfdGURMnyt4V) | 3:16 | 2024-12-13 | 2025-02-08 |

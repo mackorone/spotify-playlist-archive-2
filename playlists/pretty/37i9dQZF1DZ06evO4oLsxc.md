@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO4oLsxc.md) - [plain]
 
 > This is Venna\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,714 likes - 37 songs - 2 hr 13 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,717 likes - 37 songs - 2 hr 13 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -22,12 +22,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO4oLsxc.md) - [plain]
 | 12 | [Standout](https://open.spotify.com/track/7z8mamHXaezlYVODfFOypw) | [Knucks](https://open.spotify.com/artist/6W4vm8P3JFQboO4cvHeqaa), [Loyle Carner](https://open.spotify.com/artist/4oDjh8wNW5vDHyFRrDYC4k), [Venna](https://open.spotify.com/artist/7qKJMpPZfyGHHwPgsjgFCP) | [London Class](https://open.spotify.com/album/6Vvxsmhtg0FKtUEsrkfleL) | 2:55 |
 | 13 | [Black Classical Music \(feat\. Venna & Charlie Stacey\)](https://open.spotify.com/track/3jT3NYsADHgJCBUMz93udD) | [Yussef Dayes](https://open.spotify.com/artist/2rspptKP0lPBdlJJAJHqht), [Venna](https://open.spotify.com/artist/7qKJMpPZfyGHHwPgsjgFCP), [Charlie Stacey](https://open.spotify.com/artist/3Uw7i8bbD7k8eOD5SIqn9g) | [Black Classical Music](https://open.spotify.com/album/2A5yzYdLTVTLQaCp4CTKwG) | 5:19 |
 | 14 | [Twisting \(feat\. Leon Thomas\)](https://open.spotify.com/track/0VELY6OksBpoDWTeYvENx0) | [Venna](https://open.spotify.com/artist/7qKJMpPZfyGHHwPgsjgFCP), [Leon Thomas](https://open.spotify.com/artist/0nnBZ8FXWjG9wZgM2cpfeb) | [MALIK](https://open.spotify.com/album/0X8L8zMHTYQr5wX9zeHPqf) | 3:45 |
-| 15 | [Perfect Divide](https://open.spotify.com/track/1MulJQklvwRh9Yp8Tfnsnv) | [Venna](https://open.spotify.com/artist/7qKJMpPZfyGHHwPgsjgFCP), [Marco Bernardis](https://open.spotify.com/artist/2paaQ0WHxSynDwZkcBtdbv) | [HIZUKI // PERFECT DIVIDE](https://open.spotify.com/album/0BnsthsVZEANYerIJxfGnF) | 3:32 |
-| 16 | ['99](https://open.spotify.com/track/1qoTLjj6YU1WWDH82RoNb7) | [Venna](https://open.spotify.com/artist/7qKJMpPZfyGHHwPgsjgFCP) | [EQUINOX](https://open.spotify.com/album/5WP3TQg4wJ4iUN80HbuJk7) | 3:08 |
+| 15 | ['99](https://open.spotify.com/track/1qoTLjj6YU1WWDH82RoNb7) | [Venna](https://open.spotify.com/artist/7qKJMpPZfyGHHwPgsjgFCP) | [EQUINOX](https://open.spotify.com/album/5WP3TQg4wJ4iUN80HbuJk7) | 3:08 |
+| 16 | [Perfect Divide](https://open.spotify.com/track/1MulJQklvwRh9Yp8Tfnsnv) | [Venna](https://open.spotify.com/artist/7qKJMpPZfyGHHwPgsjgFCP), [Marco Bernardis](https://open.spotify.com/artist/2paaQ0WHxSynDwZkcBtdbv) | [HIZUKI // PERFECT DIVIDE](https://open.spotify.com/album/0BnsthsVZEANYerIJxfGnF) | 3:32 |
 | 17 | [WestBorn](https://open.spotify.com/track/6PQmbLYv07IprWdrNeJFjT) | [p\-rallel](https://open.spotify.com/artist/0YSI1Vwzd1u7wO7p3md4qD), [Venna](https://open.spotify.com/artist/7qKJMpPZfyGHHwPgsjgFCP) | [Soundboy](https://open.spotify.com/album/7qrfhfLXhqviE9z6KnfLBy) | 3:06 |
 | 18 | [My Way](https://open.spotify.com/track/4I8fZSVDGv3wzLafeYlncj) | [Venna](https://open.spotify.com/artist/7qKJMpPZfyGHHwPgsjgFCP) | [MALIK](https://open.spotify.com/album/0X8L8zMHTYQr5wX9zeHPqf) | 3:33 |
-| 19 | [Avenue B](https://open.spotify.com/track/562pdTsqaP4glM3nAut3DA) | [Venna](https://open.spotify.com/artist/7qKJMpPZfyGHHwPgsjgFCP) | [Avenue B](https://open.spotify.com/album/6GJdh5Yo1LRYAahkLavVWu) | 4:02 |
-| 20 | [Mount Shasta](https://open.spotify.com/track/705XFBTxmtDRjrC7jIOY3t) | [Venna](https://open.spotify.com/artist/7qKJMpPZfyGHHwPgsjgFCP), [Marco Bernardis](https://open.spotify.com/artist/2paaQ0WHxSynDwZkcBtdbv) | [EQUINOX](https://open.spotify.com/album/5WP3TQg4wJ4iUN80HbuJk7) | 3:08 |
+| 19 | [Mount Shasta](https://open.spotify.com/track/705XFBTxmtDRjrC7jIOY3t) | [Venna](https://open.spotify.com/artist/7qKJMpPZfyGHHwPgsjgFCP), [Marco Bernardis](https://open.spotify.com/artist/2paaQ0WHxSynDwZkcBtdbv) | [EQUINOX](https://open.spotify.com/album/5WP3TQg4wJ4iUN80HbuJk7) | 3:08 |
+| 20 | [Avenue B](https://open.spotify.com/track/562pdTsqaP4glM3nAut3DA) | [Venna](https://open.spotify.com/artist/7qKJMpPZfyGHHwPgsjgFCP) | [Avenue B](https://open.spotify.com/album/6GJdh5Yo1LRYAahkLavVWu) | 4:02 |
 | 21 | [Black Classical Music / Afro Cubanism \(feat\. Venna\) \- Live From Malibu](https://open.spotify.com/track/46YmGTsOcQRAjYr7waaAMs) | [Yussef Dayes](https://open.spotify.com/artist/2rspptKP0lPBdlJJAJHqht), [Venna](https://open.spotify.com/artist/7qKJMpPZfyGHHwPgsjgFCP) | [The Yussef Dayes Experience \- Live From Malibu](https://open.spotify.com/album/5gohS1223mJrzBVQzakpjm) | 6:45 |
 | 22 | [Eternal Reflections \(feat\. Yussef Dayes\)](https://open.spotify.com/track/1kgPaBdX9AgJzBMDtxjSHm) | [Venna](https://open.spotify.com/artist/7qKJMpPZfyGHHwPgsjgFCP), [Yussef Dayes](https://open.spotify.com/artist/2rspptKP0lPBdlJJAJHqht) | [MALIK](https://open.spotify.com/album/0X8L8zMHTYQr5wX9zeHPqf) | 4:53 |
 | 23 | [U think Maybe? \(feat\. Liv.e and Venna\)](https://open.spotify.com/track/5NIcIBJp03ylKLAtJRTr6L) | [MIKE](https://open.spotify.com/artist/1wlzPS1hSNrkriIIwLFTmU), [Liv.e](https://open.spotify.com/artist/0YCL71Clky5els6NireSBP), [Venna](https://open.spotify.com/artist/7qKJMpPZfyGHHwPgsjgFCP) | [Burning Desire](https://open.spotify.com/album/0oc3ietmTjMghpRPvszTw9) | 2:29 |
@@ -46,4 +46,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO4oLsxc.md) - [plain]
 | 36 | [july \(feat\. Tiana Major9 & Venna\)](https://open.spotify.com/track/2eRYY2aDP2VOWwL6bIcakY) | [Ragz Originale](https://open.spotify.com/artist/0yw2O9rh7YQd5MqEHOFGzW), [Tiana Major9](https://open.spotify.com/artist/1Naqgo0HMRoumRP0e2MXD9), [Venna](https://open.spotify.com/artist/7qKJMpPZfyGHHwPgsjgFCP) | [BARE SUGAR](https://open.spotify.com/album/1FEv4lzzX2jNBvFpWX8InD) | 2:44 |
 | 37 | [ELEVATOR](https://open.spotify.com/track/2MZulN534Fv0S6PXNySzVg) | [Planet Giza](https://open.spotify.com/artist/332mFY6yBda91AsIOSKirG), [Kojey Radical](https://open.spotify.com/artist/1HMhQzj2QXxR40zGDdaK6y), [Venna](https://open.spotify.com/artist/7qKJMpPZfyGHHwPgsjgFCP) | [Ready When You Are](https://open.spotify.com/album/4yok1v8vTWpvPZS7RgcevU) | 2:55 |
 
-Snapshot ID: `awOCAAAAAACidJ1sl2M6QQ3URQQ5oGsi`
+Snapshot ID: `awYlAAAAAADqjZXoiBxfHHI1vyZAB+bh`

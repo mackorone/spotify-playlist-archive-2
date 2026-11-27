@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2021-11-24",
-  "description": "The home for alternative electronic music. Cover: MPH",
+  "description": "The home for alternative electronic music. Cover: DJ Boring",
   "name": "Altar",
   "tracks": [
     {
@@ -509,6 +509,28 @@
     },
     {
       "album": {
+        "name": "5432! (feat. Erick the Architect)",
+        "url": "https://open.spotify.com/album/2kAo2wQPd2ACQiOf9XSQts"
+      },
+      "artists": [
+        {
+          "name": "Barry Can't Swim",
+          "url": "https://open.spotify.com/artist/0vTVU0KH0CVzijsoKGsTPl"
+        },
+        {
+          "name": "Erick the Architect",
+          "url": "https://open.spotify.com/artist/2mQLwfvZtvtTbipKn3xHmK"
+        }
+      ],
+      "date_added": "2026-11-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 203693,
+      "name": "5432! (feat. Erick the Architect)",
+      "url": "https://open.spotify.com/track/6ognsNkoRGcvG1qD5wkzWx"
+    },
+    {
+      "album": {
         "name": "5AM At Bagleys",
         "url": "https://open.spotify.com/album/1BJAJAuOKPc5HoNfpzZrIK"
       },
@@ -870,7 +892,7 @@
       ],
       "date_added": "2026-08-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-27",
       "duration_ms": 195285,
       "name": "After The Rain",
       "url": "https://open.spotify.com/track/0rclr5nd7iwF4rJTYRLlJq"
@@ -1402,7 +1424,7 @@
       ],
       "date_added": "2026-08-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-27",
       "duration_ms": 208680,
       "name": "Always on Your Side",
       "url": "https://open.spotify.com/track/6jJTpzMquQLVuUkM2vVEIF"
@@ -12171,6 +12193,24 @@
     },
     {
       "album": {
+        "name": "He Walked Until He Couldn\u2019t",
+        "url": "https://open.spotify.com/album/4BZnC16eED1I9et6ojN2BO"
+      },
+      "artists": [
+        {
+          "name": "Daniel Avery",
+          "url": "https://open.spotify.com/artist/1EULJuDFWpZ9xg4YwtUGGt"
+        }
+      ],
+      "date_added": "2026-11-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 344304,
+      "name": "He Walked Until He Couldn\u2019t",
+      "url": "https://open.spotify.com/track/1Sw5mAq5WCZiDqq0LSwx6C"
+    },
+    {
+      "album": {
         "name": "HeForShe x femme culture Vol. 4.2",
         "url": "https://open.spotify.com/album/4grlb18lV3GveEKQqlAjJG"
       },
@@ -13567,6 +13607,24 @@
     },
     {
       "album": {
+        "name": "afraid to feel",
+        "url": "https://open.spotify.com/album/3fj2MlJ9UtzzR8uD6BKcrC"
+      },
+      "artists": [
+        {
+          "name": "KTmelodies",
+          "url": "https://open.spotify.com/artist/10IVkptwI3f1wi8XYDl2hd"
+        }
+      ],
+      "date_added": "2026-11-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 131428,
+      "name": "i havent heard from u in days",
+      "url": "https://open.spotify.com/track/7lk5RWIzOX6mFU8EVLaWDy"
+    },
+    {
+      "album": {
         "name": "I Just Want To Love You",
         "url": "https://open.spotify.com/album/4hofhgHoBQXquGsuaELmx4"
       },
@@ -13796,6 +13854,24 @@
       "duration_ms": 290742,
       "name": "I Told Ya",
       "url": "https://open.spotify.com/track/37zfEtmjhbTorE2xZwJcTM"
+    },
+    {
+      "album": {
+        "name": "I Used To Be",
+        "url": "https://open.spotify.com/album/3B4qrxleC4FekqH4BsK80C"
+      },
+      "artists": [
+        {
+          "name": "Denis Sulta",
+          "url": "https://open.spotify.com/artist/7cDu9zG1gVQrMdSGBAhzvn"
+        }
+      ],
+      "date_added": "2026-11-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 212106,
+      "name": "I Used To Be",
+      "url": "https://open.spotify.com/track/4he1JS8V6xjCT4XuEkJzms"
     },
     {
       "album": {
@@ -14141,6 +14217,28 @@
     },
     {
       "album": {
+        "name": "If You Wait",
+        "url": "https://open.spotify.com/album/579DycpcdiWLPAPJp6HaTo"
+      },
+      "artists": [
+        {
+          "name": "George FitzGerald",
+          "url": "https://open.spotify.com/artist/3KOHpygRuo1ruQAbEneR3t"
+        },
+        {
+          "name": "Lil Silva",
+          "url": "https://open.spotify.com/artist/2Kv0ApBohrL213X9avMrEn"
+        }
+      ],
+      "date_added": "2026-11-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 211249,
+      "name": "If You Wait",
+      "url": "https://open.spotify.com/track/7h3EvRbj33NM41bSvQtm4B"
+    },
+    {
+      "album": {
         "name": "if you wanna party, come over to my house",
         "url": "https://open.spotify.com/album/6idF8Ss7GdiB5L0jfMs4wT"
       },
@@ -14240,7 +14338,7 @@
       ],
       "date_added": "2026-07-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-27",
       "duration_ms": 236079,
       "name": "Ijoya",
       "url": "https://open.spotify.com/track/0H4vIiZP7hr4SneIFVJTNc"
@@ -22064,7 +22162,7 @@
       ],
       "date_added": "2026-08-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-27",
       "duration_ms": 189651,
       "name": "Piece Of Me",
       "url": "https://open.spotify.com/track/65EwgM3cxN9aPUDKopCFif"
@@ -23020,7 +23118,7 @@
       ],
       "date_added": "2026-08-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-27",
       "duration_ms": 378945,
       "name": "qu\u00e9 les pas\u00f3 a mis amigos?",
       "url": "https://open.spotify.com/track/5m1V6BHPqQr9yNNoMfkdot"

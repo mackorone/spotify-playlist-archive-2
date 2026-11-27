@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXakrXW5YU9SI.md) - [plain]
 
 > Daj się otulić ciepłym brzmieniom ❄️☕
 
-[Spotify](https://open.spotify.com/user/spotify) - 346,137 likes - 60 songs - 3 hr 39 min
+[Spotify](https://open.spotify.com/user/spotify) - 346,352 likes - 60 songs - 3 hr 39 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -53,9 +53,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXakrXW5YU9SI.md) - [plain]
 | 43 | [Lost Boys](https://open.spotify.com/track/2Rbkkd9pKlLtBOhsp5NmSI) | [Phoebe Bridgers](https://open.spotify.com/artist/1r1uxoy19fzMxunt3ONAkG) | [Lost Boys](https://open.spotify.com/album/7lJZpDWPKrfLjiY17OmwhP) | 4:14 |
 | 44 | [Chłopaki](https://open.spotify.com/track/2nI04xLBi0oRFsGmTJYeUU) | [Kuba i Kuba](https://open.spotify.com/artist/43i9C47bAIVm8jKgEKYPfh) | [Chłopaki](https://open.spotify.com/album/5b9FqCGkBCvoALEdOGC0De) | 2:50 |
 | 45 | [California](https://open.spotify.com/track/3meidwPTWoJ5SwszG5jm6S) | [Michael Kiwanuka](https://open.spotify.com/artist/0bzfPKdbXL5ezYW2z3UGQj) | [FUDGE](https://open.spotify.com/album/4Qy4QeE6QL941JsIyEVqF2) | 5:28 |
-| 46 | [Girls Girl](https://open.spotify.com/track/3b2OEzF5rlmxyMiwU3d7lz) | [Grace Carter](https://open.spotify.com/artist/2LuHL7im4aCEmfOlD4rxBC) | [When Saturn Returns](https://open.spotify.com/album/7747qoZwY5j8OkSkQ4kM51) | 3:24 |
-| 47 | [Ritual](https://open.spotify.com/track/6Bd87PKVxEe9hYWqymB4q8) | [David Kushner](https://open.spotify.com/artist/33NVpKoXjItPwUJTMZIOiY) | [Ritual](https://open.spotify.com/album/2vZxC42qVEkEqlne9QG2Br) | 3:12 |
-| 48 | [BESOS](https://open.spotify.com/track/7xgb8DRD74b2UhUUkRtzqv) | [Jan Marczewski](https://open.spotify.com/artist/0JIgW2OFhm0hH8UdCMU5SU), [Hugo Tarres](https://open.spotify.com/artist/6VaYrjshHIPyNBnmVdLdgQ) | [BESOS](https://open.spotify.com/album/5iDoFpdKXCswpu35WTZMjg) | 2:38 |
+| 46 | [BESOS](https://open.spotify.com/track/7xgb8DRD74b2UhUUkRtzqv) | [Jan Marczewski](https://open.spotify.com/artist/0JIgW2OFhm0hH8UdCMU5SU), [Hugo Tarres](https://open.spotify.com/artist/6VaYrjshHIPyNBnmVdLdgQ) | [BESOS](https://open.spotify.com/album/5iDoFpdKXCswpu35WTZMjg) | 2:38 |
+| 47 | [Girls Girl](https://open.spotify.com/track/3b2OEzF5rlmxyMiwU3d7lz) | [Grace Carter](https://open.spotify.com/artist/2LuHL7im4aCEmfOlD4rxBC) | [When Saturn Returns](https://open.spotify.com/album/7747qoZwY5j8OkSkQ4kM51) | 3:24 |
+| 48 | [Ritual](https://open.spotify.com/track/6Bd87PKVxEe9hYWqymB4q8) | [David Kushner](https://open.spotify.com/artist/33NVpKoXjItPwUJTMZIOiY) | [Ritual](https://open.spotify.com/album/2vZxC42qVEkEqlne9QG2Br) | 3:12 |
 | 49 | [Mirafiori](https://open.spotify.com/track/2ypGq1U1VIrFZCdy1IBFz9) | [Artur Rojek](https://open.spotify.com/artist/2wmdMX0w131ZumU30P5WZH) | [Mirafiori](https://open.spotify.com/album/0l6bmzWH6Fxc84e3AZ8LMx) | 2:46 |
 | 50 | [FF](https://open.spotify.com/track/5WJSOTl4LAuEipWkTMPSYo) | [Troye Sivan](https://open.spotify.com/artist/3WGpXCj9YhhfX11TToZcXP) | [She’s the Best](https://open.spotify.com/album/5lxMKFdNAshWkJZsqr1FYD) | 4:22 |
 | 51 | [Będę tu na Ciebie czekać](https://open.spotify.com/track/7CKApXE4IObF2h8TyQ6Ibr) | [Ania Karwan](https://open.spotify.com/artist/6EtPFq0WhAq7kzcryE23b4), [Kuba Badach](https://open.spotify.com/artist/5370ZRL4QLnYElDr8sjDzC) | [Będę tu na Ciebie czekać](https://open.spotify.com/album/3Twb5QcefK7YWoFbUtVSZl) | 3:04 |
@@ -64,8 +64,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXakrXW5YU9SI.md) - [plain]
 | 54 | [Summer Clothes](https://open.spotify.com/track/1bOnbXldcr1DnseZ7getJp) | [Michael Kiwanuka](https://open.spotify.com/artist/0bzfPKdbXL5ezYW2z3UGQj) | [Summer Clothes](https://open.spotify.com/album/2QfJtIK3efePBUUoYgrgm3) | 4:25 |
 | 55 | [Tak bym chciał...](https://open.spotify.com/track/3mbVuvuQQC9LLzvgSIHsbg) | [Dawid Kwiatkowski](https://open.spotify.com/artist/0hwjSlN7w3WWQY3mLdogAC) | [Południe](https://open.spotify.com/album/682aI8kCrCpjITb2VV69hn) | 3:20 |
 | 56 | [obłoki](https://open.spotify.com/track/6D7uM8zuAYJ82Fwatw9rWA) | [Jasiek Piwowarczyk](https://open.spotify.com/artist/705MUvkld29STeOVijPoTe) | [obłoki](https://open.spotify.com/album/2m4fIQU7WLfjijZpViJLhN) | 2:49 |
-| 57 | [Jak Ci jest?](https://open.spotify.com/track/29paoKhPhHyffhWxZKNfVS) | [Igor Herbut](https://open.spotify.com/artist/5KTMtd3GnDdcWnwxcEBwKX) | [Jak Ci jest?](https://open.spotify.com/album/1jcLVV7fP9Lm0gfVRRTSyt) | 6:35 |
-| 58 | [Następny proszę](https://open.spotify.com/track/6Tps1gh9OaN7XerstTIEAi) | [Sylwia Grzeszczak](https://open.spotify.com/artist/2TRVhYMkHV4jwB92R3McaS) | [Następny proszę](https://open.spotify.com/album/54YQmIx2vjYKMMTi0e0SNn) | 2:44 |
+| 57 | [Następny proszę](https://open.spotify.com/track/6Tps1gh9OaN7XerstTIEAi) | [Sylwia Grzeszczak](https://open.spotify.com/artist/2TRVhYMkHV4jwB92R3McaS) | [Następny proszę](https://open.spotify.com/album/54YQmIx2vjYKMMTi0e0SNn) | 2:44 |
+| 58 | [Jak Ci jest?](https://open.spotify.com/track/29paoKhPhHyffhWxZKNfVS) | [Igor Herbut](https://open.spotify.com/artist/5KTMtd3GnDdcWnwxcEBwKX) | [Jak Ci jest?](https://open.spotify.com/album/1jcLVV7fP9Lm0gfVRRTSyt) | 6:35 |
 | 59 | [Tapeta w róże](https://open.spotify.com/track/0ygre4MAF3Zwo1DFYjsP7v) | [Kasia Sienkiewicz](https://open.spotify.com/artist/3YFGEKxRqRSBCW6sSv2FJH), [Leszek Możdżer](https://open.spotify.com/artist/4iJve8QGQMl0PpIDmRG73G) | [Tapeta w róże](https://open.spotify.com/album/0di7u04wHZjDYf1OhX8vV1) | 4:20 |
 | 60 | [Another Way To Cry](https://open.spotify.com/track/6kbuePrdGoBU8FTjguZESN) | [Texas](https://open.spotify.com/artist/5JsdVATHNPE0XdMFMRoSuf) | [Another Way To Cry](https://open.spotify.com/album/70hA53FbV5cN21BYFesOSu) | 3:52 |
 

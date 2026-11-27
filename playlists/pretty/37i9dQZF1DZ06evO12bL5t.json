@@ -1,12 +1,12 @@
 {
   "description": "This is Herencia de Patrones. The essential tracks, all in one playlist.",
-  "num_followers": 146606,
+  "num_followers": 146627,
   "original_name": "This Is Herencia de Patrones",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "awOCAAAAAACma3gm88stszWUxBg4sKEq",
+  "snapshot_id": "awYlAAAAAAD5im165VHCJmxfh627dzFv",
   "tracks": [
     {
       "added_at": null,
@@ -596,9 +596,9 @@
           "url": "https://open.spotify.com/artist/1Q6SZxTvaE3HhslV0iXbI6"
         }
       ],
-      "duration_ms": 220752,
-      "name": "Crimes",
-      "url": "https://open.spotify.com/track/73FEbxI3YxlVzN1rkkbcxe"
+      "duration_ms": 222819,
+      "name": "Coraz\u00f3n Cromado",
+      "url": "https://open.spotify.com/track/0gBImi8U4Ut1DOG5hZmmRz"
     },
     {
       "added_at": null,
@@ -664,9 +664,9 @@
           "url": "https://open.spotify.com/artist/1Q6SZxTvaE3HhslV0iXbI6"
         }
       ],
-      "duration_ms": 222819,
-      "name": "Coraz\u00f3n Cromado",
-      "url": "https://open.spotify.com/track/0gBImi8U4Ut1DOG5hZmmRz"
+      "duration_ms": 220752,
+      "name": "Crimes",
+      "url": "https://open.spotify.com/track/73FEbxI3YxlVzN1rkkbcxe"
     },
     {
       "added_at": null,
@@ -799,18 +799,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "Pa' las Vibras 2",
-        "url": "https://open.spotify.com/album/6WTGGJdnAShmVQLDH1EcKE"
+        "name": "Preparado",
+        "url": "https://open.spotify.com/album/2rFw73lyiu1bG4cE9fHOLi"
       },
       "artists": [
+        {
+          "name": "Grupo Triple L",
+          "url": "https://open.spotify.com/artist/63VkI7oaQL2Ou1KH9FhN3k"
+        },
         {
           "name": "Herencia de Patrones",
           "url": "https://open.spotify.com/artist/1Q6SZxTvaE3HhslV0iXbI6"
         }
       ],
-      "duration_ms": 187448,
-      "name": "Heisenbern",
-      "url": "https://open.spotify.com/track/5o85qzTzakjNsy4XjxsP4W"
+      "duration_ms": 198400,
+      "name": "Preparado",
+      "url": "https://open.spotify.com/track/5DSOagocvvf355gyZMgegT"
     },
     {
       "added_at": null,
@@ -831,22 +835,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "Preparado",
-        "url": "https://open.spotify.com/album/2rFw73lyiu1bG4cE9fHOLi"
+        "name": "Pa' las Vibras 2",
+        "url": "https://open.spotify.com/album/6WTGGJdnAShmVQLDH1EcKE"
       },
       "artists": [
-        {
-          "name": "Grupo Triple L",
-          "url": "https://open.spotify.com/artist/63VkI7oaQL2Ou1KH9FhN3k"
-        },
         {
           "name": "Herencia de Patrones",
           "url": "https://open.spotify.com/artist/1Q6SZxTvaE3HhslV0iXbI6"
         }
       ],
-      "duration_ms": 198400,
-      "name": "Preparado",
-      "url": "https://open.spotify.com/track/5DSOagocvvf355gyZMgegT"
+      "duration_ms": 187448,
+      "name": "Heisenbern",
+      "url": "https://open.spotify.com/track/5o85qzTzakjNsy4XjxsP4W"
     },
     {
       "added_at": null,
@@ -871,22 +871,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "333",
-        "url": "https://open.spotify.com/album/0kMlewzNPhiikgi0eL0ocz"
+        "name": "Pa Que Se Motiven",
+        "url": "https://open.spotify.com/album/7DNy735fYZw62qx3CHTtJL"
       },
       "artists": [
         {
-          "name": "HERNAN TREJO",
-          "url": "https://open.spotify.com/artist/2JW58Zzu11HCWLaMou9UGD"
+          "name": "LEGADO 7",
+          "url": "https://open.spotify.com/artist/7yCGrS6Xh3UngvY6Ad5sMJ"
         },
         {
           "name": "Herencia de Patrones",
           "url": "https://open.spotify.com/artist/1Q6SZxTvaE3HhslV0iXbI6"
         }
       ],
-      "duration_ms": 207293,
-      "name": "Los Ultimos Son Los Primeros (Remix)",
-      "url": "https://open.spotify.com/track/5vRcByVHzEc0Eejo4WzmLi"
+      "duration_ms": 145375,
+      "name": "Seguimos Dando Lata",
+      "url": "https://open.spotify.com/track/2pTffC1NB91GiaOpOEoETt"
     },
     {
       "added_at": null,

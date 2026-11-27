@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSZxadTyuQ2s.md) - [plain]
 
 > The sound of Afrobeats echoing around the world\. Cover: Baby Daiz & Tiakola
 
-[Spotify](https://open.spotify.com/user/spotify) - 47,058 likes - 80 songs - 3 hr 53 min
+[Spotify](https://open.spotify.com/user/spotify) - 47,092 likes - 80 songs - 3 hr 53 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -36,9 +36,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSZxadTyuQ2s.md) - [plain]
 | 26 | [BIG TIME \(feat\. Wizkid\)](https://open.spotify.com/track/4zGLBKonWuLSeK35mrUXf0) | [ODUMODUBLVCK](https://open.spotify.com/artist/3LOm0AZjpwVQebvkyanjDy), [Wizkid](https://open.spotify.com/artist/3tVQdUvClmAT7URs9V3rsp) | [INDUSTRY MACHINE](https://open.spotify.com/album/0I8i8NKTztZQJiQCkUSA63) | 3:26 |
 | 27 | [Jam](https://open.spotify.com/track/1TA5iikDuwQVNDwp4Iz1jw) | [Fally Ipupa](https://open.spotify.com/artist/6IflU2YrY5Cyw7YoBICosV), [Wizkid](https://open.spotify.com/artist/3tVQdUvClmAT7URs9V3rsp) | [XX](https://open.spotify.com/album/30mRAbfJNbKgRkhSimlWbf) | 3:00 |
 | 28 | [Laho II](https://open.spotify.com/track/4DREBgUie15tAPq9KQqe2c) | [Shallipopi](https://open.spotify.com/artist/4TKhxSkqClXrdtUWgKqHVU), [Burna Boy](https://open.spotify.com/artist/3wcj11K77LjEY1PkEazffa) | [Laho II](https://open.spotify.com/album/5lpaf3GuS3ig1yXv56OLRR) | 2:39 |
-| 29 | [I AM](https://open.spotify.com/track/1iDNf6nP0BCXilLVVptflh) | [OMAH LAY](https://open.spotify.com/artist/5yOvAmpIR7hVxiS6Ls5DPO) | [CLARITY OF MIND](https://open.spotify.com/album/28c5qLjX7puNQ96Wa86t5k) | 3:12 |
+| 29 | [Yasin](https://open.spotify.com/track/1D4K1ZjVcVTO7nretlnoUl) | [Khaid](https://open.spotify.com/artist/2mM6BxFQCd6BHzW4W7VhQP), [King Dr\. Saheed Osupa](https://open.spotify.com/artist/44bzPvFDA5djUYE6cvumyu) | [Yasin](https://open.spotify.com/album/6LnkJOm9rFcZG0l49BUerD) | 2:48 |
 | 30 | [Essence \(feat\. Justin Bieber & Tems\)](https://open.spotify.com/track/1MZtr7IH5qtjIkqrXj8WOJ) | [Wizkid](https://open.spotify.com/artist/3tVQdUvClmAT7URs9V3rsp), [Justin Bieber](https://open.spotify.com/artist/1uNFoZAHBGtllmzznpCI3s), [Tems](https://open.spotify.com/artist/687cZJR45JO7jhk1LHIbgq) | [Made In Lagos: Deluxe Edition](https://open.spotify.com/album/6bCs4XCCkm9cTwlswlu0VD) | 4:23 |
-| 31 | [Yasin](https://open.spotify.com/track/1D4K1ZjVcVTO7nretlnoUl) | [Khaid](https://open.spotify.com/artist/2mM6BxFQCd6BHzW4W7VhQP), [King Dr\. Saheed Osupa](https://open.spotify.com/artist/44bzPvFDA5djUYE6cvumyu) | [Yasin](https://open.spotify.com/album/6LnkJOm9rFcZG0l49BUerD) | 2:48 |
+| 31 | [I AM](https://open.spotify.com/track/1iDNf6nP0BCXilLVVptflh) | [OMAH LAY](https://open.spotify.com/artist/5yOvAmpIR7hVxiS6Ls5DPO) | [CLARITY OF MIND](https://open.spotify.com/album/28c5qLjX7puNQ96Wa86t5k) | 3:12 |
 | 32 | [WORSHIP](https://open.spotify.com/track/7L1uMx4wG2A9pnRgb7hjQO) | [Asake](https://open.spotify.com/artist/3a1tBryiczPAZpgoZN9Rzg), [DJ Snake](https://open.spotify.com/artist/540vIaP2JwjQb9dm3aArA4) | [WORSHIP](https://open.spotify.com/album/5VYH03sAzxNYEb3MZWOeWi) | 2:43 |
 | 33 | [you](https://open.spotify.com/track/28sqVp9vMKEuVHWnmknj7l) | [FOLA](https://open.spotify.com/artist/0FK1hXdXst70HD11n5J26z) | [you](https://open.spotify.com/album/4ewH5bNprFllcPxYmz43CR) | 2:45 |
 | 34 | [Pray](https://open.spotify.com/track/54PyFCyGbVvr6OgENl8QFf) | [R\. City](https://open.spotify.com/artist/4TH4BHy0LdBi3dpBW4P2UX), [Ayra Starr](https://open.spotify.com/artist/3ZpEKRjHaHANcpk10u6Ntq) | [Pray](https://open.spotify.com/album/1RtuCvuc1k2s9AeXYFiiDP) | 3:56 |

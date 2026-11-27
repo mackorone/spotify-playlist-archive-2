@@ -3251,6 +3251,24 @@
     },
     {
       "album": {
+        "name": "manquante",
+        "url": "https://open.spotify.com/album/0E2dZGfxSWnwQwtblNBsxZ"
+      },
+      "artists": [
+        {
+          "name": "Adrien Anvi\u00e9r",
+          "url": "https://open.spotify.com/artist/0nqRJVX6wgTfAlvltxr3d8"
+        }
+      ],
+      "date_added": "2026-11-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 161951,
+      "name": "manquante",
+      "url": "https://open.spotify.com/track/4jaUaQaYwSn8aUJZo5XNXO"
+    },
+    {
+      "album": {
         "name": "Marche Lente",
         "url": "https://open.spotify.com/album/46NsQ6HlgrCGQsx2lK37wN"
       },

@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2021-12-28",
-  "description": "The newest in Ambient music and the sounds it explores beyond. \nOn the cover: Bnnyhunna",
+  "description": "The newest in Ambient music and the sounds it explores beyond. \nOn the cover: ANNA Z",
   "name": "New Ambient",
   "tracks": [
     {
@@ -1508,7 +1508,7 @@
       ],
       "date_added": "2026-10-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-27",
       "duration_ms": 243826,
       "name": "A Wizard and a Stork",
       "url": "https://open.spotify.com/track/5LPRqZuun93d2VQUuRq0hE"
@@ -2422,7 +2422,7 @@
       ],
       "date_added": "2026-10-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-27",
       "duration_ms": 170738,
       "name": "Almost Somewhere",
       "url": "https://open.spotify.com/track/2xqvJqwPDy4q9LeDtHUHBY"
@@ -3166,7 +3166,7 @@
       ],
       "date_added": "2026-10-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-27",
       "duration_ms": 111687,
       "name": "Appalachian Autumn, Pt. 1",
       "url": "https://open.spotify.com/track/7gq7FnXkTs1DNWrFQZs9zX"
@@ -4758,7 +4758,7 @@
       ],
       "date_added": "2026-10-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-27",
       "duration_ms": 227286,
       "name": "Been here 13 - Autumn voices at Ichikishima",
       "url": "https://open.spotify.com/track/5TCUBDO2GQ3W9hzDGaeRt4"
@@ -5758,6 +5758,24 @@
       "duration_ms": 182000,
       "name": "blue reverie",
       "url": "https://open.spotify.com/track/7gvhp8g2ST2AvELuVrS5VV"
+    },
+    {
+      "album": {
+        "name": "Children of Phoenix",
+        "url": "https://open.spotify.com/album/4WDqC7YFvLat3Wmy5A3hoh"
+      },
+      "artists": [
+        {
+          "name": "Chihei Hatakeyama",
+          "url": "https://open.spotify.com/artist/4G1ZsxfEEztbE1VcnNInPg"
+        }
+      ],
+      "date_added": "2026-11-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 253986,
+      "name": "Blue Spring",
+      "url": "https://open.spotify.com/track/7raBaLl4gvPzcY6LNSbbni"
     },
     {
       "album": {
@@ -9009,6 +9027,28 @@
     },
     {
       "album": {
+        "name": "Cosmic Sandbox",
+        "url": "https://open.spotify.com/album/3BXKz0j7eqcb5XCxvsBfJ0"
+      },
+      "artists": [
+        {
+          "name": "Manizeh",
+          "url": "https://open.spotify.com/artist/4udSFvhyIRhWvnxlROFvMj"
+        },
+        {
+          "name": "Laraaji",
+          "url": "https://open.spotify.com/artist/6sd3qv6kReAdo6WsLBtXX4"
+        }
+      ],
+      "date_added": "2026-11-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 566144,
+      "name": "Cosmic Sandbox",
+      "url": "https://open.spotify.com/track/2MYtYSnRYyxunzGOp9DH1T"
+    },
+    {
+      "album": {
         "name": "Cow With Half Moon Parasol",
         "url": "https://open.spotify.com/album/3s5JFSNttXDbwCEvCIctLS"
       },
@@ -10440,6 +10480,28 @@
     {
       "album": {
         "name": "Distance",
+        "url": "https://open.spotify.com/album/3dex936bbFMoIcKFsx0TJW"
+      },
+      "artists": [
+        {
+          "name": "RA-UL",
+          "url": "https://open.spotify.com/artist/2JeqxmyESYTBLsPY9Xvdjt"
+        },
+        {
+          "name": "Pax Natura",
+          "url": "https://open.spotify.com/artist/2HJzq0KBIm0RuSd42IVCjZ"
+        }
+      ],
+      "date_added": "2026-11-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 142000,
+      "name": "Distance",
+      "url": "https://open.spotify.com/track/490mxh0vZn5TlTmSFchXJE"
+    },
+    {
+      "album": {
+        "name": "Distance",
         "url": "https://open.spotify.com/album/3zrn4L75dGbQdI1ZSsr4R0"
       },
       "artists": [
@@ -11845,6 +11907,24 @@
     },
     {
       "album": {
+        "name": "Buchla Stories",
+        "url": "https://open.spotify.com/album/4ltLxDs4bM2xlPx0elufAr"
+      },
+      "artists": [
+        {
+          "name": "Hainbach",
+          "url": "https://open.spotify.com/artist/3FlXXv8lfSt3ZWk9epMxe7"
+        }
+      ],
+      "date_added": "2026-11-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 171464,
+      "name": "Electric Sheep Lullaby",
+      "url": "https://open.spotify.com/track/5ITtG0AtQiI04GcYCkzmXt"
+    },
+    {
+      "album": {
         "name": "Antarctican Dream Machine",
         "url": "https://open.spotify.com/album/4s3XMtTEkRyaKTMR8HVGLz"
       },
@@ -11874,7 +11954,7 @@
       ],
       "date_added": "2026-10-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-27",
       "duration_ms": 179973,
       "name": "Elevator Music - Bonus Track",
       "url": "https://open.spotify.com/track/0jehLE3H2Djod5CCLkaCrL"
@@ -13992,6 +14072,28 @@
       "duration_ms": 434696,
       "name": "Flesh",
       "url": "https://open.spotify.com/track/5fFk95hDPNBF3UQkwSOim3"
+    },
+    {
+      "album": {
+        "name": "Flight Of Time",
+        "url": "https://open.spotify.com/album/0JZEG4WY9op0aGq9jB3YYK"
+      },
+      "artists": [
+        {
+          "name": "Aukai",
+          "url": "https://open.spotify.com/artist/2AyLrA3GFbgbrjOjVnGcny"
+        },
+        {
+          "name": "Vraell",
+          "url": "https://open.spotify.com/artist/1Be39C5Cm8pOzpDP5bDokO"
+        }
+      ],
+      "date_added": "2026-11-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 221880,
+      "name": "Flight Of Time",
+      "url": "https://open.spotify.com/track/0lVmV1JmLMeG2q5ZjI2qRl"
     },
     {
       "album": {
@@ -18550,7 +18652,7 @@
       ],
       "date_added": "2026-10-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-27",
       "duration_ms": 214500,
       "name": "imagine non",
       "url": "https://open.spotify.com/track/1LOMm1tuEeZ7OgVKjkvzVA"
@@ -22809,6 +22911,28 @@
     },
     {
       "album": {
+        "name": "Glass: Mad Rush",
+        "url": "https://open.spotify.com/album/5HwvYMzbGhLtw4v2yzvEhB"
+      },
+      "artists": [
+        {
+          "name": "Philip Glass",
+          "url": "https://open.spotify.com/artist/69lxxQvsfAIoQbB20bEPFC"
+        },
+        {
+          "name": "James McVinnie",
+          "url": "https://open.spotify.com/artist/4aFXwGxCEd4fSBcXE7N3V5"
+        }
+      ],
+      "date_added": "2026-11-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 319454,
+      "name": "Mad Rush (Radio Edit)",
+      "url": "https://open.spotify.com/track/4EAHTjUQKiqFmzjGlMA26j"
+    },
+    {
+      "album": {
         "name": "Colour Theory",
         "url": "https://open.spotify.com/album/5JSlxhyEwkVjKICsb3Z5og"
       },
@@ -22846,6 +22970,24 @@
       "duration_ms": 657749,
       "name": "Magic - Mind Games Meditation Mix",
       "url": "https://open.spotify.com/track/7604BoTHXhdcyFknJz16Ci"
+    },
+    {
+      "album": {
+        "name": "Watering The Plants",
+        "url": "https://open.spotify.com/album/7ELlVedfNyO18BUmoqbgXX"
+      },
+      "artists": [
+        {
+          "name": "Hior Chronik",
+          "url": "https://open.spotify.com/artist/0WwDqOLT2m5PuAsFGkEybC"
+        }
+      ],
+      "date_added": "2026-11-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 250880,
+      "name": "Magnetic fields",
+      "url": "https://open.spotify.com/track/18wigGuolEUqnuW76Edvws"
     },
     {
       "album": {
@@ -24416,7 +24558,7 @@
       ],
       "date_added": "2026-10-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-27",
       "duration_ms": 184615,
       "name": "Morning View",
       "url": "https://open.spotify.com/track/7epp0tazVpa4aN12x9KQQY"
@@ -25540,7 +25682,7 @@
       ],
       "date_added": "2026-10-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-27",
       "duration_ms": 201409,
       "name": "Nectar Flow",
       "url": "https://open.spotify.com/track/48HFaOKlXVGlI4exf00DMf"
@@ -26597,6 +26739,24 @@
     },
     {
       "album": {
+        "name": "late reflections",
+        "url": "https://open.spotify.com/album/4CuaZVQlAMUJoHDf0IZH74"
+      },
+      "artists": [
+        {
+          "name": "Maps and Diagrams",
+          "url": "https://open.spotify.com/artist/4PkKepZERb6oyj3ogSKmDx"
+        }
+      ],
+      "date_added": "2026-11-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 430227,
+      "name": "observations of error",
+      "url": "https://open.spotify.com/track/09XQySlCJBHNuHiO2yQaUc"
+    },
+    {
+      "album": {
         "name": "Ocean",
         "url": "https://open.spotify.com/album/1DgoK9UN1bkigwoYErcGTo"
       },
@@ -26696,6 +26856,24 @@
       "duration_ms": 248000,
       "name": "October Song",
       "url": "https://open.spotify.com/track/5w0NYLfrCZgVMjhsXh83fq"
+    },
+    {
+      "album": {
+        "name": "Ode To Copenhagen",
+        "url": "https://open.spotify.com/album/4YCtkUMIc8tjPeKkmL07sv"
+      },
+      "artists": [
+        {
+          "name": "EMBA Soundsystem",
+          "url": "https://open.spotify.com/artist/7xfw80kRsT94FJ5fcE2YYM"
+        }
+      ],
+      "date_added": "2026-11-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 214855,
+      "name": "Ode To Copenhagen",
+      "url": "https://open.spotify.com/track/1wBHizwtI94i72vZB1y3kB"
     },
     {
       "album": {
@@ -29258,10 +29436,28 @@
       ],
       "date_added": "2026-10-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-27",
       "duration_ms": 205010,
       "name": "PianissimoPage36",
       "url": "https://open.spotify.com/track/2e13u1Y20VV2sfXABZ0a13"
+    },
+    {
+      "album": {
+        "name": "PianissimoPage42",
+        "url": "https://open.spotify.com/album/58JxP87wWQIdIuLGO7JP7F"
+      },
+      "artists": [
+        {
+          "name": "Shingo Mimura",
+          "url": "https://open.spotify.com/artist/0CkbeuCIE8dfPc7csjP5wT"
+        }
+      ],
+      "date_added": "2026-11-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 242146,
+      "name": "PianissimoPage42",
+      "url": "https://open.spotify.com/track/1X2mOee89HslRZKZnZBorL"
     },
     {
       "album": {
@@ -29770,7 +29966,7 @@
       ],
       "date_added": "2026-10-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-27",
       "duration_ms": 213000,
       "name": "Postcards from the Wreck",
       "url": "https://open.spotify.com/track/2SPGoGGyFeVx85MWxeuide"
@@ -31764,7 +31960,7 @@
       ],
       "date_added": "2026-10-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-27",
       "duration_ms": 259440,
       "name": "Rivers",
       "url": "https://open.spotify.com/track/3NWNLTUHgzurCUAF5zUgbA"
@@ -33912,7 +34108,7 @@
       ],
       "date_added": "2026-10-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-27",
       "duration_ms": 190543,
       "name": "Simmerlights",
       "url": "https://open.spotify.com/track/4tq9cOgYRobxMHoabf8cWk"
@@ -36135,6 +36331,24 @@
     },
     {
       "album": {
+        "name": "Komiverse",
+        "url": "https://open.spotify.com/album/6Dz7gOcm1Z2QGh5AMdiBiP"
+      },
+      "artists": [
+        {
+          "name": "ANNA Z",
+          "url": "https://open.spotify.com/artist/26E4vk1a31eBwdHPPKyMsN"
+        }
+      ],
+      "date_added": "2026-11-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 204422,
+      "name": "Subset",
+      "url": "https://open.spotify.com/track/5M0hLo80w2LhwvpWpfY6aA"
+    },
+    {
+      "album": {
         "name": "Subterranean",
         "url": "https://open.spotify.com/album/6Ophb6R62fiGYihi62tgcD"
       },
@@ -37066,7 +37280,7 @@
       ],
       "date_added": "2026-10-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-27",
       "duration_ms": 150000,
       "name": "Tarumi",
       "url": "https://open.spotify.com/track/2HOKNifbaPK9hDrMCFNmHm"
@@ -38667,6 +38881,24 @@
     },
     {
       "album": {
+        "name": "Where the Day Unfastens",
+        "url": "https://open.spotify.com/album/7BOWUrTV7Q4NkFkH53J4el"
+      },
+      "artists": [
+        {
+          "name": "CROIX HEALING",
+          "url": "https://open.spotify.com/artist/39HJmpxQWml7ofyV5jxluG"
+        }
+      ],
+      "date_added": "2026-11-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 192413,
+      "name": "The World at Half Volume",
+      "url": "https://open.spotify.com/track/2B9luAYIwSgpoynOoI4FYR"
+    },
+    {
+      "album": {
         "name": "the world inside",
         "url": "https://open.spotify.com/album/23HRbZxlo85BFShUhP242s"
       },
@@ -39244,6 +39476,24 @@
       "duration_ms": 160186,
       "name": "Time",
       "url": "https://open.spotify.com/track/5gEJlZUFzNIc87fEATBCth"
+    },
+    {
+      "album": {
+        "name": "Time Becomes a Loop",
+        "url": "https://open.spotify.com/album/7Diq0aNhCG5VTcZDyIuX8F"
+      },
+      "artists": [
+        {
+          "name": "Ava Rasti",
+          "url": "https://open.spotify.com/artist/4s2iBVE1aD9bbMN3M0ljKY"
+        }
+      ],
+      "date_added": "2026-11-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 298000,
+      "name": "Time Becomes a Loop",
+      "url": "https://open.spotify.com/track/0hLOu0bevGDe1Od3cg9J6T"
     },
     {
       "album": {
@@ -40150,7 +40400,7 @@
       ],
       "date_added": "2026-10-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-27",
       "duration_ms": 174384,
       "name": "Turning",
       "url": "https://open.spotify.com/track/042KeEx4naJ045Ya46h1Dx"
@@ -42284,7 +42534,7 @@
       ],
       "date_added": "2026-10-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-27",
       "duration_ms": 174951,
       "name": "We Are Unwritten Poems",
       "url": "https://open.spotify.com/track/6GlLn22PDFr8m43I8gbLnT"
@@ -43495,6 +43745,40 @@
     },
     {
       "album": {
+        "name": "wish office",
+        "url": "https://open.spotify.com/album/6VDkc9rCiOqCokIG3xLSta"
+      },
+      "artists": [
+        {
+          "name": "U.e.",
+          "url": "https://open.spotify.com/artist/24cWiOrZPQVLgNkHc9KCnT"
+        },
+        {
+          "name": "JJ",
+          "url": "https://open.spotify.com/artist/2CJcmrT1IZtmbkNY50YMJ3"
+        },
+        {
+          "name": "Ulla",
+          "url": "https://open.spotify.com/artist/0ijZlfRS4zxGYWMxf8rvRN"
+        },
+        {
+          "name": "Ulla Straus",
+          "url": "https://open.spotify.com/artist/6cyU1HgdzdAaBqhyOGWsMp"
+        },
+        {
+          "name": "Jan Jelinek",
+          "url": "https://open.spotify.com/artist/6Bpr6Jvb2Ic7WlzPD9EPJT"
+        }
+      ],
+      "date_added": "2026-11-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 188870,
+      "name": "wish office",
+      "url": "https://open.spotify.com/track/1b1mNUdBZgomkbF4J41xeh"
+    },
+    {
+      "album": {
         "name": "Milk.Blue.Kisses.And.Whalebone.Wishes",
         "url": "https://open.spotify.com/album/6qVYgHgrdEW7wlGm9MlUvX"
       },
@@ -44460,6 +44744,24 @@
       "duration_ms": 336000,
       "name": "Zorza",
       "url": "https://open.spotify.com/track/4n0L5PdzC1L0jvvBdkfYEj"
+    },
+    {
+      "album": {
+        "name": "\u00c1llom\u00e1s",
+        "url": "https://open.spotify.com/album/3Ik4PnYp4knkdYCYi5ZLaY"
+      },
+      "artists": [
+        {
+          "name": "CQNZR.",
+          "url": "https://open.spotify.com/artist/6dT1iuw0RImGWEowCJhwNw"
+        }
+      ],
+      "date_added": "2026-11-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 413513,
+      "name": "\u00c1llom\u00e1s",
+      "url": "https://open.spotify.com/track/0773O70PXPumv4TkWk20ak"
     },
     {
       "album": {

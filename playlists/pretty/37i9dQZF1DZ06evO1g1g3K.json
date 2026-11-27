@@ -1,12 +1,12 @@
 {
   "description": "This is Durand Bernarr. The essential tracks, all in one playlist.",
-  "num_followers": 8086,
+  "num_followers": 8092,
   "original_name": "This Is Durand Bernarr",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "awOCAAAAAABvUUd6AgAIEtZ60nimnUAZ",
+  "snapshot_id": "awYlAAAAAAClQymt4yLSL5jB5bfmAVGq",
   "tracks": [
     {
       "added_at": null,
@@ -343,22 +343,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "Lotus Glow (Deluxe)",
-        "url": "https://open.spotify.com/album/6kuBg5Z0JeUfsG9Qo8Q8le"
+        "name": "Wanderlust",
+        "url": "https://open.spotify.com/album/1rTKMaQeug98fbSH29NoaG"
       },
       "artists": [
-        {
-          "name": "Adi Oasis",
-          "url": "https://open.spotify.com/artist/5RRfTrwXUGYiBB0DMV4hyh"
-        },
         {
           "name": "Durand Bernarr",
           "url": "https://open.spotify.com/artist/2d6ggH1oVt4z2zCuY2u5DW"
         }
       ],
-      "duration_ms": 189813,
-      "name": "Le D\u00e9part - Feat. Durand Bernarr",
-      "url": "https://open.spotify.com/track/6xIMr6tWnD0B68hLDZ8wA4"
+      "duration_ms": 353242,
+      "name": "Leveled",
+      "url": "https://open.spotify.com/track/7z9id29USnlNeXzmLctJXZ"
     },
     {
       "added_at": null,
@@ -383,18 +379,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "Wanderlust",
-        "url": "https://open.spotify.com/album/1rTKMaQeug98fbSH29NoaG"
+        "name": "Lotus Glow (Deluxe)",
+        "url": "https://open.spotify.com/album/6kuBg5Z0JeUfsG9Qo8Q8le"
       },
       "artists": [
+        {
+          "name": "Adi Oasis",
+          "url": "https://open.spotify.com/artist/5RRfTrwXUGYiBB0DMV4hyh"
+        },
         {
           "name": "Durand Bernarr",
           "url": "https://open.spotify.com/artist/2d6ggH1oVt4z2zCuY2u5DW"
         }
       ],
-      "duration_ms": 353242,
-      "name": "Leveled",
-      "url": "https://open.spotify.com/track/7z9id29USnlNeXzmLctJXZ"
+      "duration_ms": 189813,
+      "name": "Le D\u00e9part - Feat. Durand Bernarr",
+      "url": "https://open.spotify.com/track/6xIMr6tWnD0B68hLDZ8wA4"
     },
     {
       "added_at": null,
@@ -563,6 +563,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "En Route",
+        "url": "https://open.spotify.com/album/6oMGF1OHuuRjQWKn1HXrU5"
+      },
+      "artists": [
+        {
+          "name": "Durand Bernarr",
+          "url": "https://open.spotify.com/artist/2d6ggH1oVt4z2zCuY2u5DW"
+        }
+      ],
+      "duration_ms": 236904,
+      "name": "GPS",
+      "url": "https://open.spotify.com/track/0lYSxo9HT7zcTVqNjKDNVW"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "READY!",
         "url": "https://open.spotify.com/album/0wVKhisY1iT0Enm2dOQzQi"
       },
@@ -583,8 +599,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "En Route",
-        "url": "https://open.spotify.com/album/6oMGF1OHuuRjQWKn1HXrU5"
+        "name": "I Swear We're Friends Theme",
+        "url": "https://open.spotify.com/album/1rHGDK2m1sNoCFtHzmTa5B"
       },
       "artists": [
         {
@@ -592,9 +608,25 @@
           "url": "https://open.spotify.com/artist/2d6ggH1oVt4z2zCuY2u5DW"
         }
       ],
-      "duration_ms": 236904,
-      "name": "GPS",
-      "url": "https://open.spotify.com/track/0lYSxo9HT7zcTVqNjKDNVW"
+      "duration_ms": 58169,
+      "name": "I Swear We're Friends Theme",
+      "url": "https://open.spotify.com/track/4YSzIqIQpDNOL7RhDoLXV4"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "BLOOM",
+        "url": "https://open.spotify.com/album/756LreEk5nDrKn0FyiVJNH"
+      },
+      "artists": [
+        {
+          "name": "Durand Bernarr",
+          "url": "https://open.spotify.com/artist/2d6ggH1oVt4z2zCuY2u5DW"
+        }
+      ],
+      "duration_ms": 270686,
+      "name": "Reaching",
+      "url": "https://open.spotify.com/track/37Bw9TOmxbDW0i509GmqOR"
     },
     {
       "added_at": null,
@@ -615,22 +647,6 @@
       "duration_ms": 161929,
       "name": "Get Paid (feat. Durand Bernarr)",
       "url": "https://open.spotify.com/track/06YScHhrQUlW4suDU7mslP"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "BLOOM",
-        "url": "https://open.spotify.com/album/756LreEk5nDrKn0FyiVJNH"
-      },
-      "artists": [
-        {
-          "name": "Durand Bernarr",
-          "url": "https://open.spotify.com/artist/2d6ggH1oVt4z2zCuY2u5DW"
-        }
-      ],
-      "duration_ms": 270686,
-      "name": "Reaching",
-      "url": "https://open.spotify.com/track/37Bw9TOmxbDW0i509GmqOR"
     },
     {
       "added_at": null,
@@ -675,22 +691,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "I Swear We're Friends Theme",
-        "url": "https://open.spotify.com/album/1rHGDK2m1sNoCFtHzmTa5B"
-      },
-      "artists": [
-        {
-          "name": "Durand Bernarr",
-          "url": "https://open.spotify.com/artist/2d6ggH1oVt4z2zCuY2u5DW"
-        }
-      ],
-      "duration_ms": 58169,
-      "name": "I Swear We're Friends Theme",
-      "url": "https://open.spotify.com/track/4YSzIqIQpDNOL7RhDoLXV4"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Wanderlust",
         "url": "https://open.spotify.com/album/1rTKMaQeug98fbSH29NoaG"
       },
@@ -723,22 +723,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "En Route",
-        "url": "https://open.spotify.com/album/6oMGF1OHuuRjQWKn1HXrU5"
-      },
-      "artists": [
-        {
-          "name": "Durand Bernarr",
-          "url": "https://open.spotify.com/artist/2d6ggH1oVt4z2zCuY2u5DW"
-        }
-      ],
-      "duration_ms": 207947,
-      "name": "Neutral",
-      "url": "https://open.spotify.com/track/1Yphx7raUV3ZKTpayAo2l2"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Sound Check",
         "url": "https://open.spotify.com/album/2WYlqZt9qlYZToSgBq95Dn"
       },
@@ -751,6 +735,22 @@
       "duration_ms": 213275,
       "name": "Around",
       "url": "https://open.spotify.com/track/3F5owzlK86hpL1dkI3HTI4"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "En Route",
+        "url": "https://open.spotify.com/album/6oMGF1OHuuRjQWKn1HXrU5"
+      },
+      "artists": [
+        {
+          "name": "Durand Bernarr",
+          "url": "https://open.spotify.com/artist/2d6ggH1oVt4z2zCuY2u5DW"
+        }
+      ],
+      "duration_ms": 207947,
+      "name": "Neutral",
+      "url": "https://open.spotify.com/track/1Yphx7raUV3ZKTpayAo2l2"
     },
     {
       "added_at": null,
@@ -795,22 +795,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "En Route",
-        "url": "https://open.spotify.com/album/6oMGF1OHuuRjQWKn1HXrU5"
-      },
-      "artists": [
-        {
-          "name": "Durand Bernarr",
-          "url": "https://open.spotify.com/artist/2d6ggH1oVt4z2zCuY2u5DW"
-        }
-      ],
-      "duration_ms": 171460,
-      "name": "Processing...",
-      "url": "https://open.spotify.com/track/2E5OshuXUdcR43yStOifJ7"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Sound Check",
         "url": "https://open.spotify.com/album/2WYlqZt9qlYZToSgBq95Dn"
       },
@@ -823,6 +807,22 @@
       "duration_ms": 222000,
       "name": "Collide",
       "url": "https://open.spotify.com/track/2PxRnDqqrsRVYgbh5rWPpE"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "En Route",
+        "url": "https://open.spotify.com/album/6oMGF1OHuuRjQWKn1HXrU5"
+      },
+      "artists": [
+        {
+          "name": "Durand Bernarr",
+          "url": "https://open.spotify.com/artist/2d6ggH1oVt4z2zCuY2u5DW"
+        }
+      ],
+      "duration_ms": 171460,
+      "name": "Processing...",
+      "url": "https://open.spotify.com/track/2E5OshuXUdcR43yStOifJ7"
     },
     {
       "added_at": null,
@@ -915,22 +915,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "Wanderlust",
-        "url": "https://open.spotify.com/album/1rTKMaQeug98fbSH29NoaG"
+        "name": "Sound Check",
+        "url": "https://open.spotify.com/album/2WYlqZt9qlYZToSgBq95Dn"
       },
       "artists": [
         {
           "name": "Durand Bernarr",
           "url": "https://open.spotify.com/artist/2d6ggH1oVt4z2zCuY2u5DW"
-        },
-        {
-          "name": "Metta",
-          "url": "https://open.spotify.com/artist/1pwUbfPf4VBYuwAdA4xmix"
         }
       ],
-      "duration_ms": 222173,
-      "name": "Lil Bit (feat. METTA)",
-      "url": "https://open.spotify.com/track/2NOW1oBfJtkA1i4OASoKn4"
+      "duration_ms": 238000,
+      "name": "Search Party",
+      "url": "https://open.spotify.com/track/4y3cjPpuyUiyE7z02TrxfJ"
     }
   ],
   "unique_name": "This Is Durand Bernarr",

@@ -509,6 +509,24 @@
     },
     {
       "album": {
+        "name": "When December Comes",
+        "url": "https://open.spotify.com/album/56RI3SqRXv1BTHnFQYQikt"
+      },
+      "artists": [
+        {
+          "name": "Jerome Louis",
+          "url": "https://open.spotify.com/artist/0PZxdzq1JhF2EQDjtvO5uJ"
+        }
+      ],
+      "date_added": "2026-11-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 128788,
+      "name": "Joy to the World",
+      "url": "https://open.spotify.com/track/3F4n21MehEfAWPh2fyVzj6"
+    },
+    {
+      "album": {
         "name": "Joy to the World",
         "url": "https://open.spotify.com/album/1kezJtycElHPKwIsI6x1ur"
       },

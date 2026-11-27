@@ -4,7 +4,7 @@
 
 > Summer 2026 Beach Lounge Music, Ibiza, sunset vibes, Background Music, Pool Lounge, Hotel Lounge, Tropical chill house,Beach Party\. For submissions: j\-dosch@freenet.de
 
-1,559 songs - 2 day 19 hr 3 min
+1,560 songs - 2 day 19 hr 7 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -854,6 +854,7 @@
 | [Lullaby](https://open.spotify.com/track/2Ema8Fxxfdn5eyuvZGxk5R) | [DTT Felix](https://open.spotify.com/artist/10wBHVQZB9d3vgQcOtZCdm), [Edward Snellen](https://open.spotify.com/artist/6NqXkBi75jInrB94Nzfv6G), [hmny.](https://open.spotify.com/artist/2oqbohcixA0NGGIS4nuBaY) | [Lullaby](https://open.spotify.com/album/5QJJzc2wwiVeF0Htlcp9Gt) | 2:14 | 2024-11-19 | 2024-12-28 |
 | [Lunar Eclipse](https://open.spotify.com/track/5kJcizlIh307M97sktNJ1y) | [Besso](https://open.spotify.com/artist/3aCuS8b1HzTgrJGTzddyOJ), [Miriam Cooper](https://open.spotify.com/artist/2QBcmdWm0u9p6rDOJP1z2X) | [Lunar Eclipse](https://open.spotify.com/album/03L6gLurM4itwkwJrImRdp) | 2:53 | 2024-10-04 | 2025-02-15 |
 | [Mad World](https://open.spotify.com/track/1Rlsm9AnDtAK4g7WeXcNw5) | [Muted Mind](https://open.spotify.com/artist/39kVqgwmP8wUYifFJtmXeL) | [Mad World](https://open.spotify.com/album/6FTTNTI66J6TDulSeVwYbO) | 2:27 | 2024-07-13 | 2024-10-14 |
+| [Made It Out](https://open.spotify.com/track/2uIjwRvGaOlaKLrPuAw1hm) | [Palmero](https://open.spotify.com/artist/5hV5GLJ6kmWccJriPOPsOn) | [Made It Out](https://open.spotify.com/album/3Li2SdVLiVYvsMqBeqCH2T) | 3:34 | 2026-11-27 |  |
 | [Made To Fly](https://open.spotify.com/track/2gJubzi5jE6NE1bKM4yck0) | [Nate VanDeusen](https://open.spotify.com/artist/125PCXGTE6sFhvG8w0EnvU), [Hobes](https://open.spotify.com/artist/4oJwnrOedR0fQkD9NlbrMl) | [Made To Fly](https://open.spotify.com/album/2sX12z9krn4Be6cjk9Drmp) | 2:26 | 2025-08-31 | 2025-11-10 |
 | [Magic](https://open.spotify.com/track/4iP7wcTu7BX4JnpwlPxJKk) | [Nexeri](https://open.spotify.com/artist/2ekaInISzbZNipWYe5y7IU), [J.A.E](https://open.spotify.com/artist/6Ly2uwod1jDkU2I8otUnWa) | [Magic](https://open.spotify.com/album/4Qk20lFrjC7z1B4hcY1pC0) | 2:24 | 2025-09-21 | 2025-12-02 |
 | [Magic](https://open.spotify.com/track/19PWHVgbnzUZjwKlkQwL5S) | [Shoby](https://open.spotify.com/artist/1VF2jmv5aWGszBtIVPt2fT), [James Stefano](https://open.spotify.com/artist/38Hlo0i9xWEI6JCe28nlzf) | [Magic](https://open.spotify.com/album/0RsT0bsW3tu6FYdIFEakpn) | 3:00 | 2025-09-28 | 2025-12-02 |

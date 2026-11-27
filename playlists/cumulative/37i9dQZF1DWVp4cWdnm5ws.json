@@ -143,6 +143,24 @@
     },
     {
       "album": {
+        "name": "ACTIVATE",
+        "url": "https://open.spotify.com/album/3AGIP9pfoRLXtL1eZee0TH"
+      },
+      "artists": [
+        {
+          "name": "Waiian",
+          "url": "https://open.spotify.com/artist/3p5RE0gW2l4oFW82SgMv29"
+        }
+      ],
+      "date_added": "2026-11-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 164055,
+      "name": "ACTIVATE",
+      "url": "https://open.spotify.com/track/4YIt8kkGqb4BROGbiPocaI"
+    },
+    {
+      "album": {
         "name": "Aftertaste",
         "url": "https://open.spotify.com/album/4A4p0x3lcjeCXog13ypREc"
       },

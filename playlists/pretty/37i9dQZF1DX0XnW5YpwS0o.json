@@ -1,6 +1,6 @@
 {
   "description": "The Indie highlights of 2016. Cover: AURORA",
-  "num_followers": 131222,
+  "num_followers": 131220,
   "original_name": "Best of Indie 2016",
   "owner": {
     "name": "Spotify",
@@ -991,22 +991,6 @@
     {
       "added_at": "2026-01-20 18:32:57",
       "album": {
-        "name": "Disappear Here",
-        "url": "https://open.spotify.com/album/5nTrWmCP1kjEeK3SuuS3PP"
-      },
-      "artists": [
-        {
-          "name": "Bad Suns",
-          "url": "https://open.spotify.com/artist/0YhUSm86okLWldQVwJkLlP"
-        }
-      ],
-      "duration_ms": 187013,
-      "name": "Daft Pretty Boys",
-      "url": "https://open.spotify.com/track/58hbLmAfFQA4zbxcbRCO4P"
-    },
-    {
-      "added_at": "2026-01-20 18:32:57",
-      "album": {
         "name": "The Wilds",
         "url": "https://open.spotify.com/album/6mG8sVZlEsKwNZeSq8sMpA"
       },
@@ -1019,6 +1003,22 @@
       "duration_ms": 233289,
       "name": "Real Peach",
       "url": "https://open.spotify.com/track/6p4mASLulKdpNFLxQhs0ff"
+    },
+    {
+      "added_at": "2026-01-20 18:32:57",
+      "album": {
+        "name": "Disappear Here",
+        "url": "https://open.spotify.com/album/5nTrWmCP1kjEeK3SuuS3PP"
+      },
+      "artists": [
+        {
+          "name": "Bad Suns",
+          "url": "https://open.spotify.com/artist/0YhUSm86okLWldQVwJkLlP"
+        }
+      ],
+      "duration_ms": 187013,
+      "name": "Daft Pretty Boys",
+      "url": "https://open.spotify.com/track/58hbLmAfFQA4zbxcbRCO4P"
     },
     {
       "added_at": "2026-01-20 18:32:57",
@@ -1487,6 +1487,22 @@
     {
       "added_at": "2026-01-20 18:32:57",
       "album": {
+        "name": "Futureproof",
+        "url": "https://open.spotify.com/album/3SmiRZtLKHDHk5bmLpOvtg"
+      },
+      "artists": [
+        {
+          "name": "The Rare Occasions",
+          "url": "https://open.spotify.com/artist/1QfpRUtH14JLoY6F6AYmwt"
+        }
+      ],
+      "duration_ms": 195120,
+      "name": "Notion",
+      "url": "https://open.spotify.com/track/4cHKd6qPMR1TMx55KHlida"
+    },
+    {
+      "added_at": "2026-01-20 18:32:57",
+      "album": {
         "name": "First Steps",
         "url": "https://open.spotify.com/album/1IH1Oz8jD4hyN3eg8aHdjv"
       },
@@ -1499,22 +1515,6 @@
       "duration_ms": 129599,
       "name": "Go Fuck Yourself",
       "url": "https://open.spotify.com/track/3VAeTjREoKPY1exOXR4oBm"
-    },
-    {
-      "added_at": "2026-01-20 18:32:57",
-      "album": {
-        "name": "Light Upon the Lake",
-        "url": "https://open.spotify.com/album/5yMCA6HdFAeL1aqUjxO3MO"
-      },
-      "artists": [
-        {
-          "name": "Whitney",
-          "url": "https://open.spotify.com/artist/32aUoW94mJ7xTJI7fG0V1G"
-        }
-      ],
-      "duration_ms": 237973,
-      "name": "No Woman",
-      "url": "https://open.spotify.com/track/1CLmFKW99S8eJrebO3GB04"
     },
     {
       "added_at": "2026-01-20 18:32:57",
@@ -1567,18 +1567,34 @@
     {
       "added_at": "2026-01-20 18:32:57",
       "album": {
-        "name": "Futureproof",
-        "url": "https://open.spotify.com/album/3SmiRZtLKHDHk5bmLpOvtg"
+        "name": "Light Upon the Lake",
+        "url": "https://open.spotify.com/album/5yMCA6HdFAeL1aqUjxO3MO"
       },
       "artists": [
         {
-          "name": "The Rare Occasions",
-          "url": "https://open.spotify.com/artist/1QfpRUtH14JLoY6F6AYmwt"
+          "name": "Whitney",
+          "url": "https://open.spotify.com/artist/32aUoW94mJ7xTJI7fG0V1G"
         }
       ],
-      "duration_ms": 195120,
-      "name": "Notion",
-      "url": "https://open.spotify.com/track/4cHKd6qPMR1TMx55KHlida"
+      "duration_ms": 237973,
+      "name": "No Woman",
+      "url": "https://open.spotify.com/track/1CLmFKW99S8eJrebO3GB04"
+    },
+    {
+      "added_at": "2026-01-20 18:32:57",
+      "album": {
+        "name": "Doubt (Summer Edit)",
+        "url": "https://open.spotify.com/album/5Iz89vLs781T7u1xOgIPSZ"
+      },
+      "artists": [
+        {
+          "name": "Shallou",
+          "url": "https://open.spotify.com/artist/7C3Cbtr2PkH2l4tOGhtCsk"
+        }
+      ],
+      "duration_ms": 226857,
+      "name": "Doubt (Summer Edit)",
+      "url": "https://open.spotify.com/track/5ffwgrvw4tVlhFcI8efviN"
     },
     {
       "added_at": "2026-01-20 18:32:57",
@@ -1611,22 +1627,6 @@
       "duration_ms": 189293,
       "name": "Real Love Baby",
       "url": "https://open.spotify.com/track/3MyQn1xBQwPtFJUUP7zB8s"
-    },
-    {
-      "added_at": "2026-01-20 18:32:57",
-      "album": {
-        "name": "Doubt (Summer Edit)",
-        "url": "https://open.spotify.com/album/5Iz89vLs781T7u1xOgIPSZ"
-      },
-      "artists": [
-        {
-          "name": "Shallou",
-          "url": "https://open.spotify.com/artist/7C3Cbtr2PkH2l4tOGhtCsk"
-        }
-      ],
-      "duration_ms": 226857,
-      "name": "Doubt (Summer Edit)",
-      "url": "https://open.spotify.com/track/5ffwgrvw4tVlhFcI8efviN"
     },
     {
       "added_at": "2026-01-20 18:32:57",

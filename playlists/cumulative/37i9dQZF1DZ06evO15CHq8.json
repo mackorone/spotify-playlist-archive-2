@@ -81,6 +81,24 @@
     },
     {
       "album": {
+        "name": "I Want to Die In New Orleans",
+        "url": "https://open.spotify.com/album/2ivOxIKDHxEo6WMD9m3ytn"
+      },
+      "artists": [
+        {
+          "name": "$uicideboy$",
+          "url": "https://open.spotify.com/artist/1VPmR4DJC1PlOtd0IADAO0"
+        }
+      ],
+      "date_added": "2026-11-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 184324,
+      "name": "122 Days",
+      "url": "https://open.spotify.com/track/77o41Py1xkwaxs3200SKhW"
+    },
+    {
+      "album": {
         "name": "THY WILL BE DONE",
         "url": "https://open.spotify.com/album/7jtViL0H9WMUkCrsafE4xo"
       },
@@ -92,7 +110,7 @@
       ],
       "date_added": "2025-12-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-27",
       "duration_ms": 204969,
       "name": "2009 Reggie Bush",
       "url": "https://open.spotify.com/track/4Jeaq2Tzhali3fSFjMezZy"

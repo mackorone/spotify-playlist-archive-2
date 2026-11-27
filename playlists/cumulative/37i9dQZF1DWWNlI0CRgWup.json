@@ -95,6 +95,24 @@
     },
     {
       "album": {
+        "name": "92",
+        "url": "https://open.spotify.com/album/3sKwq1h96VIeBZQJql4V5O"
+      },
+      "artists": [
+        {
+          "name": "VEN1",
+          "url": "https://open.spotify.com/artist/3Cz37xnWAOtQEa5jfrTUbL"
+        }
+      ],
+      "date_added": "2026-11-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 128399,
+      "name": "92",
+      "url": "https://open.spotify.com/track/4Oz5vESV2Xs6DxHHOzLWf0"
+    },
+    {
+      "album": {
         "name": "A Dog in a Manger",
         "url": "https://open.spotify.com/album/38TmYJoFrS4La3bDZKmIje"
       },
@@ -470,6 +488,24 @@
       "duration_ms": 187008,
       "name": "BARA",
       "url": "https://open.spotify.com/track/0w4Sq93I6HyUHihEtp0Nut"
+    },
+    {
+      "album": {
+        "name": "Batman",
+        "url": "https://open.spotify.com/album/6uARLMmJtcFedhaCV500Sj"
+      },
+      "artists": [
+        {
+          "name": "Steve Ibrahim",
+          "url": "https://open.spotify.com/artist/0LO2e5fJCBLFn4Ua1IPszs"
+        }
+      ],
+      "date_added": "2026-11-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 226749,
+      "name": "Batman",
+      "url": "https://open.spotify.com/track/6xbm3SABfyvW2MQD4wj5Bd"
     },
     {
       "album": {
@@ -2226,7 +2262,7 @@
       ],
       "date_added": "2026-09-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-27",
       "duration_ms": 184888,
       "name": "FR DZ",
       "url": "https://open.spotify.com/track/26VNKq2Zql986XlaHw6yTh"
@@ -3476,7 +3512,7 @@
       ],
       "date_added": "2026-01-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-27",
       "duration_ms": 189851,
       "name": "Le mur du salon",
       "url": "https://open.spotify.com/track/6DSFwl1y7t1ds2zMjgxEYy"

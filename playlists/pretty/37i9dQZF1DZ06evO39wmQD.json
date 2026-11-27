@@ -6,7 +6,7 @@
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "awOCAAAAAADQuJMxZqjMGupdUGswCBSV",
+  "snapshot_id": "awYlAAAAAAATeBXfi4eozh8CEuLXunrO",
   "tracks": [
     {
       "added_at": null,
@@ -571,22 +571,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "The Future's in My Hands (Theme from \"Hailey's On It!\")",
-        "url": "https://open.spotify.com/album/1zQH2ZPY82Mul0Ki3tYRKj"
-      },
-      "artists": [
-        {
-          "name": "Auli'i Cravalho",
-          "url": "https://open.spotify.com/artist/5mnS9jJdKQQcRSqFu5YPVe"
-        }
-      ],
-      "duration_ms": 178166,
-      "name": "The Future's in My Hands - Theme from \"Hailey's On It!\"",
-      "url": "https://open.spotify.com/track/4Fn5xfalnbwbxv0Km0Vhhh"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Mama Who Bore Me (Rise Cast Version)",
         "url": "https://open.spotify.com/album/5htkwqMEyeNMvHdAKGcwm5"
       },
@@ -603,6 +587,22 @@
       "duration_ms": 120960,
       "name": "Mama Who Bore Me - Rise Cast Version",
       "url": "https://open.spotify.com/track/4AxvU1vUh19aQk9aA7QGCQ"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "The Future's in My Hands (Theme from \"Hailey's On It!\")",
+        "url": "https://open.spotify.com/album/1zQH2ZPY82Mul0Ki3tYRKj"
+      },
+      "artists": [
+        {
+          "name": "Auli'i Cravalho",
+          "url": "https://open.spotify.com/artist/5mnS9jJdKQQcRSqFu5YPVe"
+        }
+      ],
+      "duration_ms": 178166,
+      "name": "The Future's in My Hands - Theme from \"Hailey's On It!\"",
+      "url": "https://open.spotify.com/track/4Fn5xfalnbwbxv0Km0Vhhh"
     },
     {
       "added_at": null,

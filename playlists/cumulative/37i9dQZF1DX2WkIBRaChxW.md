@@ -4,7 +4,7 @@
 
 > What's happening in r&b, right now – featuring GIVĒON.
 
-1,620 songs - 3 day 14 hr 53 min
+1,622 songs - 3 day 14 hr 59 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -448,6 +448,7 @@
 | [Fast Asleep](https://open.spotify.com/track/4EMW9BdGJ8avDfuab1ostA) | [GIVĒON](https://open.spotify.com/artist/4fxd5Ee7UefO4CUXgwJ7IP) | [Fast Asleep](https://open.spotify.com/album/3W4zbFnTRn0dUvkzm8HjLd) | 3:00 | 2026-11-20 |  |
 | [Fatal Attraction](https://open.spotify.com/track/3y9JbvYZAhVeQsAECrKAgt) | [6LACK](https://open.spotify.com/artist/4IVAbR2w4JJNJDDRFP3E83) | [Since I Have A Lover](https://open.spotify.com/album/39JZhYotu5zFYJ8jw1D8bF) | 3:16 | 2023-04-21 | 2023-09-30 |
 | [Fatal Attraction](https://open.spotify.com/track/4YZw8g4J3FM98EWoKH8Tfo) | [6LACK](https://open.spotify.com/artist/4IVAbR2w4JJNJDDRFP3E83) | [Fatal Attraction](https://open.spotify.com/album/7jDNiSy9M2tWnvZRl8WsGT) | 3:16 | 2023-03-17 | 2023-04-27 |
+| [Faux pas](https://open.spotify.com/track/5Tr0QsVcH8V7xPpxSJLwU0) | [RnBoi](https://open.spotify.com/artist/4yPFe6ZiSjH5mgjDwiYZgc) | [Après Minuit](https://open.spotify.com/album/1VgZg4mE4Uq1YqrIkQgQDv) | 2:24 | 2026-11-27 |  |
 | [Faux Real](https://open.spotify.com/track/3DHsps2o59HhPxhEdbp3gm) | [Zach Zoya](https://open.spotify.com/artist/0lMsSW9R8prEif6Q3aVnEH), [High Klassified](https://open.spotify.com/artist/4V5f0tr4dGBGUvW5HsR22O) | [Misstape 2](https://open.spotify.com/album/0huxZwTSdGZcd9KaDwTh6k) | 2:28 | 2026-04-17 | 2026-06-13 |
 | [Favorite](https://open.spotify.com/track/4Aw9OJJDJFCbVlVBAb0EdM) | [IkeN](https://open.spotify.com/artist/7CaVQkC4udPIDQmSUrr4t0) | [Favorite](https://open.spotify.com/album/7LcNdnjDCwb9SLjDxi2FPP) | 4:19 | 2026-04-03 | 2026-05-02 |
 | [Favorite \(feat\. Anderson .Paak\)](https://open.spotify.com/track/7tWfPoTJQu7QzbQmy3omtL) | [Chlöe](https://open.spotify.com/artist/1FtBEIWAwvw5ymBen5GICR), [Anderson .Paak](https://open.spotify.com/artist/3jK9MiCrA42lLAdMGUZpwa) | [Trouble In Paradise](https://open.spotify.com/album/4xD7yXdXUDdaen8uvanwIw) | 2:32 | 2024-08-09 | 2024-12-21 |
@@ -914,6 +915,7 @@
 | [Most Wanted](https://open.spotify.com/track/3ol70ZGonP9HTEQSKhZYcY) | [Aqyila](https://open.spotify.com/artist/4cXLEhsZ1W4T6qBiDYVih4) | [Most Wanted](https://open.spotify.com/album/4dMG65PpEgLhnAKMGbi2ge) | 2:43 | 2024-07-26 | 2024-10-12 |
 | [Motorcycle](https://open.spotify.com/track/0pJAiDG0LmZHlPuMudDvjs) | [Remi Wolf](https://open.spotify.com/artist/0NB5HROxc8dDBXpkIi1v3d) | [Motorcycle](https://open.spotify.com/album/7mhREQUR2GbBqPILSsKz7g) | 2:46 | 2024-06-14 | 2024-07-19 |
 | [Mouf Say](https://open.spotify.com/track/4MBN3o3wB4uEWGgKXXjVo0) | [Lucky Daye](https://open.spotify.com/artist/5Vuvs6Py2JRU7WiFDVsI7J), [Pusha T](https://open.spotify.com/artist/0ONHkAv9pCAFxb0zJwDNTy) | [ALOUD!](https://open.spotify.com/album/4FDFTveKB14lSEgYJePS8D) | 2:57 | 2026-10-16 |  |
+| [Moves \(with Jhené Aiko\)](https://open.spotify.com/track/3pHqs2CmdJS74NgPM8nDel) | [6LACK](https://open.spotify.com/artist/4IVAbR2w4JJNJDDRFP3E83), [Jhené Aiko](https://open.spotify.com/artist/5ZS223C6JyBfXasXxrRqOk) | [Vault 6](https://open.spotify.com/album/55x70IxJx3dtwgUDpAF1Fo) | 3:12 | 2026-11-27 |  |
 | [Mr Right](https://open.spotify.com/track/3rZj4LoO1tK4NsmlVAVe8e) | [Nia Smith](https://open.spotify.com/artist/50MUpOKyCZMtBcYlBQP260) | [Mr Right](https://open.spotify.com/album/6v2bBaHrTPmPy4rWQzMcZT) | 3:16 | 2026-10-09 |  |
 | [Ms\. Goody Two Shoes](https://open.spotify.com/track/7eiY7TxrwFgWEYPmbwnbTP) | [Alex Isley](https://open.spotify.com/artist/7E2ioKxoxI2J94tUkIx6As) | [Ms\. Goody Two Shoes](https://open.spotify.com/album/2wXE2aphd1Rah3fbrUIGfV) | 3:00 | 2026-03-20 | 2026-04-18 |
 | [Muse \(Lemmeknow\)](https://open.spotify.com/track/3lwKhDmIT9sqFtNhspbDXg) | [Ye Ali](https://open.spotify.com/artist/0Maq4Nk8ZM6keGZjTCXGIH), [Shaylin B](https://open.spotify.com/artist/6eaTpXsq4COLIOczyJiWh0), [Zae France](https://open.spotify.com/artist/7jun6jJ4LOAQfx5gSs6mJX) | [THJ Radio Vol 2](https://open.spotify.com/album/4YerziQHYdX1zDuAVmf8cP) | 2:55 | 2025-12-12 | 2026-02-21 |
@@ -1161,7 +1163,7 @@
 | [Refill](https://open.spotify.com/track/2WJS688sN8yuzC4CDMeZRZ) | [Rory](https://open.spotify.com/artist/5XJa2DE4NkXH5m4aHzM0i9), [Chiiild](https://open.spotify.com/artist/2YqJwmohaNjg9lg51flSax), [Aáyanna](https://open.spotify.com/artist/4lL3E6bGEObeXcKHVy4D5P) | [I Thought It'd Be Different](https://open.spotify.com/album/1YA6dnUyaevjSC6hGQ9wmX) | 3:47 | 2023-05-26 | 2023-08-05 |
 | [Regardless](https://open.spotify.com/track/1lkG393ntU03g6Y2pNKTj6) | [Naomi Sharon](https://open.spotify.com/artist/27WVFBOddxovimxMmBN4fb) | [Regardless](https://open.spotify.com/album/3kf4QtJyUo1YGs9eNJLOD7) | 3:09 | 2023-10-13 | 2023-11-11 |
 | [Regrets](https://open.spotify.com/track/2RuOxSKuPvJmIgBEWUUTio) | [Dylan Sinclair](https://open.spotify.com/artist/45RZn1pAEvQYqkRnvFaIJx) | [Regrets](https://open.spotify.com/album/48sL5JqeLIfdHLKtogMGWx) | 3:45 | 2021-12-31 | 2022-02-19 |
-| [Relax \(2009\)](https://open.spotify.com/track/3283xMe0tWUXRtIJ7pydi5) | [YG](https://open.spotify.com/artist/0A0FS04o6zMoto8OKPsDwY), [Ty Dolla $ign](https://open.spotify.com/artist/7c0XG5cIJTrrAgEC3ULPiq) | [Relax \(2009\)](https://open.spotify.com/album/6KxJzeHMNbGJvcj9qM9DWd) | 3:41 | 2026-10-23 |  |
+| [Relax \(2009\)](https://open.spotify.com/track/3283xMe0tWUXRtIJ7pydi5) | [YG](https://open.spotify.com/artist/0A0FS04o6zMoto8OKPsDwY), [Ty Dolla $ign](https://open.spotify.com/artist/7c0XG5cIJTrrAgEC3ULPiq) | [Relax \(2009\)](https://open.spotify.com/album/6KxJzeHMNbGJvcj9qM9DWd) | 3:41 | 2026-10-23 | 2026-11-27 |
 | [release! \(THE KRAKEN\)](https://open.spotify.com/track/1io6ZvYgR23E6HEEkfza6G) | [80purppp](https://open.spotify.com/artist/4F9apzBcSE0OSfHYbxo4RF) | [release! \(THE KRAKEN\)](https://open.spotify.com/album/7tX0YPMk6534CBiqHDpY0D) | 2:44 | 2024-03-22 | 2024-04-06 |
 | [Rendezvous \- Blacksmith R&B Rerub](https://open.spotify.com/track/2A0lGgF7enMrO5IvE8kMTL) | [Craig David](https://open.spotify.com/artist/2JyWXPbkqI5ZJa3gwqVa0c), [Know ?uestion](https://open.spotify.com/artist/7AVQVY3ZKzyVZQrUHfLUsB), [Blacksmith](https://open.spotify.com/artist/29J8gS5TRrpC5ZZvxOSZ3c) | [Born to Do It \(25th Anniversary Edition\)](https://open.spotify.com/album/7dZ6IAntg83Eky48n9J2CO) | 3:49 | 2025-12-12 | 2026-09-19 |
 | [Rent Free](https://open.spotify.com/track/1NKilzEyipTC34AHEMnKAl) | [6LACK](https://open.spotify.com/artist/4IVAbR2w4JJNJDDRFP3E83) | [Rent Free / By Any Means](https://open.spotify.com/album/06nzu940k6jhkJ5TacM6y5) | 3:22 | 2021-12-31 | 2022-03-26 |

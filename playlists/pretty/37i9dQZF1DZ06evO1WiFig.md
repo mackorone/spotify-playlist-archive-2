@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1WiFig.md) - [plain]
 
 > This is Aldous Harding\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 5,523 likes - 37 songs - 2 hr 35 min
+[Spotify](https://open.spotify.com/user/spotify) - 5,528 likes - 37 songs - 2 hr 35 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -33,8 +33,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1WiFig.md) - [plain]
 | 23 | [Small Bones of Courage](https://open.spotify.com/track/2mhiBVuP20RnLXNQqt7kOj) | [Aldous Harding](https://open.spotify.com/artist/3lmR0qMiGuoIF9UC54egcG) | [Aldous Harding](https://open.spotify.com/album/2gJDTgluXw60rzJqdxuXjD) | 6:15 |
 | 24 | [Coats](https://open.spotify.com/track/2ck5LysJdg1BbMqaLzr0XT) | [Aldous Harding](https://open.spotify.com/artist/3lmR0qMiGuoIF9UC54egcG) | [Train on the Island](https://open.spotify.com/album/0AePRMHymMl4oHBb5EuGiV) | 3:28 |
 | 25 | [Lawn](https://open.spotify.com/track/4YQe4UrNJ0AzFKA6BNQo0c) | [Aldous Harding](https://open.spotify.com/artist/3lmR0qMiGuoIF9UC54egcG) | [Warm Chris](https://open.spotify.com/album/56rWsCsd2UF9l1XTpUfZ1v) | 3:37 |
-| 26 | [Three Hours](https://open.spotify.com/track/01QUUwYGVbgIBGVpHdnhu2) | [John Parish](https://open.spotify.com/artist/1UAM4fJFTeyMZbhTVUKiXk), [Aldous Harding](https://open.spotify.com/artist/3lmR0qMiGuoIF9UC54egcG) | [Three Hours](https://open.spotify.com/album/6uRl5exouSdzAStQAWZRu9) | 4:32 |
-| 27 | [Old Peel](https://open.spotify.com/track/0vuZebTvcwkstUpoo82lpG) | [Aldous Harding](https://open.spotify.com/artist/3lmR0qMiGuoIF9UC54egcG) | [Old Peel](https://open.spotify.com/album/5SdjxVnwwn4w25boDjEmMR) | 3:16 |
+| 26 | [Old Peel](https://open.spotify.com/track/0vuZebTvcwkstUpoo82lpG) | [Aldous Harding](https://open.spotify.com/artist/3lmR0qMiGuoIF9UC54egcG) | [Old Peel](https://open.spotify.com/album/5SdjxVnwwn4w25boDjEmMR) | 3:16 |
+| 27 | [Three Hours](https://open.spotify.com/track/01QUUwYGVbgIBGVpHdnhu2) | [John Parish](https://open.spotify.com/artist/1UAM4fJFTeyMZbhTVUKiXk), [Aldous Harding](https://open.spotify.com/artist/3lmR0qMiGuoIF9UC54egcG) | [Three Hours](https://open.spotify.com/album/6uRl5exouSdzAStQAWZRu9) | 4:32 |
 | 28 | [Living The Classics](https://open.spotify.com/track/1KB6tYbLki88BjfsnPLuyq) | [Aldous Harding](https://open.spotify.com/artist/3lmR0qMiGuoIF9UC54egcG) | [Party](https://open.spotify.com/album/6wPvhV9G6irAbzpLCADP3K) | 2:44 |
 | 29 | [Tick Tock](https://open.spotify.com/track/0Q7tKJdvKx6yyJ8qSf6elE) | [Aldous Harding](https://open.spotify.com/artist/3lmR0qMiGuoIF9UC54egcG) | [Warm Chris](https://open.spotify.com/album/56rWsCsd2UF9l1XTpUfZ1v) | 3:39 |
 | 30 | [No Front Teeth](https://open.spotify.com/track/2wtnykJJrH4ZMDnGu4ncou) | [Perfume Genius](https://open.spotify.com/artist/2ueoLVCXQ948OfhVvAy3Nn), [Aldous Harding](https://open.spotify.com/artist/3lmR0qMiGuoIF9UC54egcG) | [Glory](https://open.spotify.com/album/2Y5e4etT3wCXoyllnQ0aAD) | 4:46 |
@@ -46,4 +46,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1WiFig.md) - [plain]
 | 36 | [I'm So Sorry](https://open.spotify.com/track/2IaEmjnG62sMzohKJ8D2Es) | [Aldous Harding](https://open.spotify.com/artist/3lmR0qMiGuoIF9UC54egcG) | [Party](https://open.spotify.com/album/6wPvhV9G6irAbzpLCADP3K) | 3:48 |
 | 37 | [Leathery Whip](https://open.spotify.com/track/3o7dptCQLKU20zdkA132ZQ) | [Aldous Harding](https://open.spotify.com/artist/3lmR0qMiGuoIF9UC54egcG) | [Warm Chris](https://open.spotify.com/album/56rWsCsd2UF9l1XTpUfZ1v) | 4:00 |
 
-Snapshot ID: `awOCAAAAAADBZSHusOCBTiwON3JgHRHS`
+Snapshot ID: `awYlAAAAAABSmzIucnmHdE9H53x9SDMC`

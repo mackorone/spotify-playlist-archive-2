@@ -4,14 +4,14 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdKMCnEhDnDL.md) - [plain]
 
 > De beste Nederlandse liedjes! Cover: Suzan & Freek
 
-[Spotify](https://open.spotify.com/user/spotify) - 529,573 likes - 100 songs - 4 hr 59 min
+[Spotify](https://open.spotify.com/user/spotify) - 529,589 likes - 100 songs - 4 hr 59 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [Pijnstiller](https://open.spotify.com/track/11wW1i3hmPCBO49XNgxcHx) | [Suzan & Freek](https://open.spotify.com/artist/77IW5ZK1smDQYYKDCQugXh) | [Pijnstiller](https://open.spotify.com/album/4o6Q9UNplVun5nsP2FRRvt) | 2:51 |
-| 2 | [Alles Wat Ik Wil](https://open.spotify.com/track/3BhRPtVVQ4LMcpbnRZGBQi) | [Claude](https://open.spotify.com/artist/205nyHBi0lspcUT37YqWom) | [Alles Wat Ik Wil](https://open.spotify.com/album/34n69oaIPTCbl4KjYugNC6) | 3:20 |
-| 3 | [Niemand Wil Een Popster](https://open.spotify.com/track/4ylzEL9Fiz17Wh9ojfG0cL) | [Isabèl Usher](https://open.spotify.com/artist/66Q9dkZ7EXdwU2h6tEkUdC) | [Niemand Wil Een Popster](https://open.spotify.com/album/33rXtwNcRKwvEM8w0vqVPQ) | 2:58 |
-| 4 | [Is Dit Nu Later](https://open.spotify.com/track/1nfZ1uJ4SgXlv1arqragMX) | [Thijs Pot](https://open.spotify.com/artist/3nxJAqo44XhsDnBZBXeuvP), [Yves Berendse](https://open.spotify.com/artist/7wGBPJk6sHwRCozFfhU09F), [Nick Schilder](https://open.spotify.com/artist/4pbY2GIsT2jDoVxKqNQcpu) | [Sing With Me \(Aflevering 1\)](https://open.spotify.com/album/1BrpGunw8hzjbp6cRQzRSB) | 2:31 |
+| 2 | [Is Dit Nu Later](https://open.spotify.com/track/1nfZ1uJ4SgXlv1arqragMX) | [Thijs Pot](https://open.spotify.com/artist/3nxJAqo44XhsDnBZBXeuvP), [Yves Berendse](https://open.spotify.com/artist/7wGBPJk6sHwRCozFfhU09F), [Nick Schilder](https://open.spotify.com/artist/4pbY2GIsT2jDoVxKqNQcpu) | [Sing With Me \(Aflevering 1\)](https://open.spotify.com/album/1BrpGunw8hzjbp6cRQzRSB) | 2:31 |
+| 3 | [Alles Wat Ik Wil](https://open.spotify.com/track/3BhRPtVVQ4LMcpbnRZGBQi) | [Claude](https://open.spotify.com/artist/205nyHBi0lspcUT37YqWom) | [Alles Wat Ik Wil](https://open.spotify.com/album/34n69oaIPTCbl4KjYugNC6) | 3:20 |
+| 4 | [Niemand Wil Een Popster](https://open.spotify.com/track/4ylzEL9Fiz17Wh9ojfG0cL) | [Isabèl Usher](https://open.spotify.com/artist/66Q9dkZ7EXdwU2h6tEkUdC) | [Niemand Wil Een Popster](https://open.spotify.com/album/33rXtwNcRKwvEM8w0vqVPQ) | 2:58 |
 | 5 | [Dicht Bij Het Vuur](https://open.spotify.com/track/7rXjKVKU9oYwl0TXPYPj3t) | [Racoon](https://open.spotify.com/artist/30mNTnmvPn3HwXA5dW1Iza) | [Dicht Bij Het Vuur](https://open.spotify.com/album/28hXQjFqMi1OVhV7YAVL1s) | 3:44 |
 | 6 | [Adem Uit Adem In](https://open.spotify.com/track/46jmrLsm5R65DtFErMIQy8) | [Hannah Mae](https://open.spotify.com/artist/5oNWzcU0mYK1zDUxBGHIaG) | [Adem Uit Adem In](https://open.spotify.com/album/6ccEehFu4iu3Omesd2OwAj) | 2:47 |
 | 7 | [Onderweg](https://open.spotify.com/track/1M2eFR96x0IwVDD2G6Gdns) | [Robert van Hemert](https://open.spotify.com/artist/79TBgzOALTo3GOcKl1Rn8k) | [Onderweg](https://open.spotify.com/album/2u5c3GvKrTaEoWAr9XmKSH) | 2:33 |
@@ -56,7 +56,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdKMCnEhDnDL.md) - [plain]
 | 46 | [Schoonzoon](https://open.spotify.com/track/19KOz48sq8Je3VCbqsPHXT) | [LUNA](https://open.spotify.com/artist/7eBiPPZezCgV5rrO5x47qf) | [Schoonzoon](https://open.spotify.com/album/3sWH67UbTeVacTK79uSaz4) | 2:18 |
 | 47 | [Bare Minimum](https://open.spotify.com/track/3aj18nggqoyQrlKPMvfOYd) | [Roxy Dekker](https://open.spotify.com/artist/6YznhKZUZFVr418x7OUi3z) | [SUPERSTAR](https://open.spotify.com/album/2jZzND3FctUUDWC8I4MYNK) | 2:32 |
 | 48 | [Niets Doen](https://open.spotify.com/track/1mEV7KSc5jqIBjRTXFU5D7) | [Acda en de Munnik](https://open.spotify.com/artist/040Fqhc0l7a4MPeDx6cneh) | [Niets Doen](https://open.spotify.com/album/2k2s5a6JlV2olXRitmux9S) | 3:54 |
-| 49 | [CD van mij](https://open.spotify.com/track/764EyTlmlcqOlf1FyBPYif) | [Ronnie Flex](https://open.spotify.com/artist/5eir5zFJpES4j7gsymbVyl), [Acda en de Munnik](https://open.spotify.com/artist/040Fqhc0l7a4MPeDx6cneh) | [CD van mij](https://open.spotify.com/album/5Dx0iogpXPTNFWSyTlCn3a) | 2:50 |
+| 49 | [CD van mij](https://open.spotify.com/track/764EyTlmlcqOlf1FyBPYif) | [Ronnie Flex](https://open.spotify.com/artist/5eir5zFJpES4j7gsymbVyl), [Acda en de Munnik](https://open.spotify.com/artist/040Fqhc0l7a4MPeDx6cneh), [De Vrienden van Amstel LIVE](https://open.spotify.com/artist/2wbvOtxDo1BCeCbZGzIzQf) | [CD van mij](https://open.spotify.com/album/5Dx0iogpXPTNFWSyTlCn3a) | 2:50 |
 | 50 | [Je Hoort Nog Steeds Bij Mij](https://open.spotify.com/track/7ijzPwiRgNqNqa65zHnRD2) | [FLEUR](https://open.spotify.com/artist/5jE7YqOC3yRqDh0QsOmTV0) | [Je Hoort Nog Steeds Bij Mij](https://open.spotify.com/album/3O6Fegs8MtjUGwVzXAlFMm) | 2:51 |
 | 51 | [Groot](https://open.spotify.com/track/7dEimS0tnelfMqQkpnkWrn) | [Miss Montreal](https://open.spotify.com/artist/06eTdzI1FA6c2cPQAeVHY2) | [Groot](https://open.spotify.com/album/0qizT7ZCBpnlw6nfUgKS1S) | 3:30 |
 | 52 | [Moët Dat Nou](https://open.spotify.com/track/0HWjXL4layDbYbCj21uzd8) | [Robert van Hemert](https://open.spotify.com/artist/79TBgzOALTo3GOcKl1Rn8k), [Donnie](https://open.spotify.com/artist/2ylIKKdMukkuprCgY4ZDFE) | [Moët Dat Nou](https://open.spotify.com/album/7F5D4dM8ANyl1zY5V7knze) | 2:34 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdKMCnEhDnDL.md) - [plain]
 | 99 | [Ik Wil Dat Je Liegt](https://open.spotify.com/track/6ifKXZTqAuLA35TGCVuGBU) | [Hannah Mae](https://open.spotify.com/artist/5oNWzcU0mYK1zDUxBGHIaG), [MAKSIM](https://open.spotify.com/artist/5ncHUtKhiVsHlugFN0DCDl) | [Ik Wil Dat Je Liegt](https://open.spotify.com/album/5OpBG7QnV8Frg31RrAvjYV) | 2:54 |
 | 100 | [Nu Wij Niet Meer Praten](https://open.spotify.com/track/7d89CDPikSfHfQjw0WYnxB) | [Jaap Reesema](https://open.spotify.com/artist/5WxnXxSCyhDSyi6elhBZd4), [Pommelien Thijs](https://open.spotify.com/artist/3zGV7t4BDmYZBLVA24487b) | [Als Je Voor Me Staat](https://open.spotify.com/album/5UZsSAKI7ObtNEj2voabWw) | 3:12 |
 
-Snapshot ID: `AAAAAEQOcKRg8ZpK5vMDrAP0bQKDWym2`
+Snapshot ID: `AAAAAMFqYKeixYZgTwpsc11VHRpiSHM7`

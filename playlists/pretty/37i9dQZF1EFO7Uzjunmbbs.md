@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFO7Uzjunmbbs.md) - [plain]
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/21JhxcGHq3awKEjLrsnRD8">Emily Weisband</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 2,095 likes - 220 songs - 12 hr 19 min
+[Spotify](https://open.spotify.com/user/spotify) - 2,094 likes - 220 songs - 12 hr 19 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -79,8 +79,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFO7Uzjunmbbs.md) - [plain]
 | 69 | [Red Wine + White Couch](https://open.spotify.com/track/53VQYdLcJSMZcv1ZXcDp5b) | [Danielle Bradbery](https://open.spotify.com/artist/5iqStkZi6QmG8sgQZQrfGN) | [I Don't Believe We've Met](https://open.spotify.com/album/1JmemBgPDsNQd1gbqKDUzM) | 3:09 |
 | 70 | [Do For Love](https://open.spotify.com/track/0Oas9Rbqxv0FD7HZvSYgIH) | [Danny Gokey](https://open.spotify.com/artist/5Yu3b48Y29bZlI1cLPOZJz), [Angie Rose](https://open.spotify.com/artist/2vOqb0eO8aBj2dLpxlmscX) | [Jesus People](https://open.spotify.com/album/67xyz68zWd9nRbTHmc06r5) | 3:37 |
 | 71 | [New Dog Old Tricks](https://open.spotify.com/track/40z8QgvNBjrmImnP9wj6Bs) | [Maddie & Tae](https://open.spotify.com/artist/34bhyY8jfKez7uKakMfy4y) | [The Way It Feels](https://open.spotify.com/album/1HixYJpe6AJWGDpEbb7ZuE) | 3:09 |
-| 72 | [Goodbye, Again](https://open.spotify.com/track/0uc49i27OzyaIapdIuYL3i) | [Calum Scott](https://open.spotify.com/artist/6ydoSd3N2mwgwBHtF6K7eX) | [Bridges](https://open.spotify.com/album/4Qw1soNFVQu96dlP7yDBSO) | 3:01 |
-| 73 | [Songs I'd Rather Not Sing](https://open.spotify.com/track/7aFB4Ewl1dydxKChS10B0D) | [The Fray](https://open.spotify.com/artist/0zOcE3mg9nS6l3yxt1Y0bK) | [A Light That Waits](https://open.spotify.com/album/7i0C3YuMEYy28jIz4aCPRt) | 2:44 |
+| 72 | [Songs I'd Rather Not Sing](https://open.spotify.com/track/7aFB4Ewl1dydxKChS10B0D) | [The Fray](https://open.spotify.com/artist/0zOcE3mg9nS6l3yxt1Y0bK) | [A Light That Waits](https://open.spotify.com/album/7i0C3YuMEYy28jIz4aCPRt) | 2:44 |
+| 73 | [Goodbye, Again](https://open.spotify.com/track/0uc49i27OzyaIapdIuYL3i) | [Calum Scott](https://open.spotify.com/artist/6ydoSd3N2mwgwBHtF6K7eX) | [Bridges](https://open.spotify.com/album/4Qw1soNFVQu96dlP7yDBSO) | 3:01 |
 | 74 | [Steady Me](https://open.spotify.com/track/16uuHTbhOckbjo1mV77c0R) | [Jeremy Camp](https://open.spotify.com/artist/5wpEBloInversG3zp3CVAk) | [When You Speak](https://open.spotify.com/album/0ZhquyWDlKCae6wcNjIouZ) | 4:23 |
 | 75 | [One Desire](https://open.spotify.com/track/3EMJyAkW85BUNyv0g2uNBN) | [Jeremy Camp](https://open.spotify.com/artist/5wpEBloInversG3zp3CVAk) | [When You Speak](https://open.spotify.com/album/0ZhquyWDlKCae6wcNjIouZ) | 3:19 |
 | 76 | [Strong](https://open.spotify.com/track/3akedMTYQ5BBTuyQinbFYB) | [Gabby Barrett](https://open.spotify.com/artist/6Iz3eq2aQGFf7TbGT2iahL) | [Goldmine](https://open.spotify.com/album/4Iqfx63CZhFGGIHiAvLxXY) | 3:25 |
@@ -124,8 +124,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFO7Uzjunmbbs.md) - [plain]
 | 114 | [Better Because Of It](https://open.spotify.com/track/4zcYX4ZJfmyrL9ySSoNykW) | [Danny Gokey](https://open.spotify.com/artist/5Yu3b48Y29bZlI1cLPOZJz) | [Haven't Seen It Yet](https://open.spotify.com/album/1keC2a4EU43ByCNGktRgB6) | 4:00 |
 | 115 | [Naked](https://open.spotify.com/track/4Aol7GtOaV8EVkanxp1F6r) | [Emily Weisband](https://open.spotify.com/artist/1am9EW2QubqpkCbg29vu5n) | [Identity Crisis](https://open.spotify.com/album/3lbaOO0V8HmnSDcmd85QAw) | 3:24 |
 | 116 | [He Did It](https://open.spotify.com/track/0hylElUN1yBarrV6GPhxdP) | [Evvie McKinney](https://open.spotify.com/artist/7G7JWOsGhDMily2HtfzcIZ) | [Love, Evvie McKinney](https://open.spotify.com/album/19TJHZlE3D6OZ6lNSYGMQb) | 2:54 |
-| 117 | [Tell You Enough](https://open.spotify.com/track/3ZpOfxlomk5LipI7GvETCT) | [Jessie James Decker](https://open.spotify.com/artist/0GzIauSfKRc5BlNXpTWAGz) | [The Woman I've Become](https://open.spotify.com/album/1BWUybJrDIFyZmrMbZHkyu) | 3:07 |
-| 118 | [Done It By Now](https://open.spotify.com/track/4G6uUGW2M8pKgSSlAMp8iS) | [Restless Road](https://open.spotify.com/artist/5XLWHp9tjK7PWm7SMcvo2q) | [Done It By Now](https://open.spotify.com/album/5sPOAtvoraeS9ak1oVVgdi) | 3:24 |
+| 117 | [Done It By Now](https://open.spotify.com/track/4G6uUGW2M8pKgSSlAMp8iS) | [Restless Road](https://open.spotify.com/artist/5XLWHp9tjK7PWm7SMcvo2q) | [Done It By Now](https://open.spotify.com/album/5sPOAtvoraeS9ak1oVVgdi) | 3:24 |
+| 118 | [Tell You Enough](https://open.spotify.com/track/3ZpOfxlomk5LipI7GvETCT) | [Jessie James Decker](https://open.spotify.com/artist/0GzIauSfKRc5BlNXpTWAGz) | [The Woman I've Become](https://open.spotify.com/album/1BWUybJrDIFyZmrMbZHkyu) | 3:07 |
 | 119 | [New Salt](https://open.spotify.com/track/0G5f1pg9GN5FloOuiKx50b) | [Emily Weisband](https://open.spotify.com/artist/1am9EW2QubqpkCbg29vu5n) | [New Salt](https://open.spotify.com/album/0vbqMLbvqvuBg3LfHltak2) | 3:30 |
 | 120 | [Out of This Car](https://open.spotify.com/track/7BnOc1s24pCVsCKxJFLIFq) | [Emily Weisband](https://open.spotify.com/artist/1am9EW2QubqpkCbg29vu5n) | [Out of This Car](https://open.spotify.com/album/5sIovGQp1OlZ7oHjBqP3aM) | 2:59 |
 | 121 | [End Like This](https://open.spotify.com/track/2XQ9qspv08LdIeEONum55C) | [Lily Rose](https://open.spotify.com/artist/3lkwNhvm2fbh4q8CIe47n3) | [I Know What I Want](https://open.spotify.com/album/1Wvf60FOFXg3rFqtYX1r6C) | 2:53 |
@@ -188,8 +188,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFO7Uzjunmbbs.md) - [plain]
 | 178 | [Things I'm Over](https://open.spotify.com/track/08LSXLfxbNXFy93dv0JWPW) | [Emily Weisband](https://open.spotify.com/artist/1am9EW2QubqpkCbg29vu5n) | [Identity Crisis](https://open.spotify.com/album/3lbaOO0V8HmnSDcmd85QAw) | 3:43 |
 | 179 | [The Holly Jolly Truth](https://open.spotify.com/track/6paG6Wtzr2Ad6tswOPwKm9) | [Emily Weisband](https://open.spotify.com/artist/1am9EW2QubqpkCbg29vu5n) | [The Holly Jolly Truth](https://open.spotify.com/album/0NYzc9tVrg1CooKDSrO7JO) | 3:54 |
 | 180 | [The Roads](https://open.spotify.com/track/36tm6Y91L7LviYdqtI3yiO) | [Haley Mae Campbell](https://open.spotify.com/artist/2NDqx1z4TTkFr0QOnk8nX3) | [Dear Life](https://open.spotify.com/album/7n8CgwFyFhkF0z71DXFjfO) | 3:11 |
-| 181 | [Make Me Miss You](https://open.spotify.com/track/79j5qPDgK7kPBgqIFedLQG) | [Emily Weisband](https://open.spotify.com/artist/1am9EW2QubqpkCbg29vu5n) | [Identity Crisis](https://open.spotify.com/album/3lbaOO0V8HmnSDcmd85QAw) | 3:23 |
-| 182 | [TOUGH ACT TO FOLLOW](https://open.spotify.com/track/6UNYxJ3tYP0NOghZCAiKuB) | [Lily Rose](https://open.spotify.com/artist/3lkwNhvm2fbh4q8CIe47n3) | [TOUGH ACT TO FOLLOW](https://open.spotify.com/album/6sEddEBgaoufGwSBTRGD4i) | 3:16 |
+| 181 | [TOUGH ACT TO FOLLOW](https://open.spotify.com/track/6UNYxJ3tYP0NOghZCAiKuB) | [Lily Rose](https://open.spotify.com/artist/3lkwNhvm2fbh4q8CIe47n3) | [TOUGH ACT TO FOLLOW](https://open.spotify.com/album/6sEddEBgaoufGwSBTRGD4i) | 3:16 |
+| 182 | [Make Me Miss You](https://open.spotify.com/track/79j5qPDgK7kPBgqIFedLQG) | [Emily Weisband](https://open.spotify.com/artist/1am9EW2QubqpkCbg29vu5n) | [Identity Crisis](https://open.spotify.com/album/3lbaOO0V8HmnSDcmd85QAw) | 3:23 |
 | 183 | [20 Dollars In My Pocket](https://open.spotify.com/track/5mIMR7bpCXOSNFQazLPDGL) | [The Lovelocks](https://open.spotify.com/artist/21m7MPdzeRDKWdUc8iN9lr) | [20 Dollars In My Pocket](https://open.spotify.com/album/0zrJ1jWlPHL27aqXA2xeAe) | 3:05 |
 | 184 | [Talking To God](https://open.spotify.com/track/2KVZCZYV7rbLvvMNmVl0Wd) | [Marie Nordman](https://open.spotify.com/artist/5msPWaT3QLYrhegQm4W1CC) | [Talking To God](https://open.spotify.com/album/3zoSyQpqBAOZw2uybVrRaY) | 3:04 |
 | 185 | [Anyway](https://open.spotify.com/track/3tQ8tQ5movjVxLndsghW1H) | [City Of Enoch](https://open.spotify.com/artist/38ikKSd8BSAwTM4UQ8FhHT) | [Lamb and Lion](https://open.spotify.com/album/300YJGoX7L8faJYiHeY39e) | 4:15 |
@@ -229,4 +229,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFO7Uzjunmbbs.md) - [plain]
 | 219 | [Stay](https://open.spotify.com/track/7AYev376NUrJ1JaxmfhKyM) | [Andenix](https://open.spotify.com/artist/1vxk9sFXF2O4fUymcUUllP), [Josh Knox](https://open.spotify.com/artist/7ynWG75kdenNhClpJwwx4M) | [Stay](https://open.spotify.com/album/2tXewxcwpzvvZw7prXByPS) | 4:07 |
 | 220 | [Heartache](https://open.spotify.com/track/1ANoywqSXzofnUGE2ZXENq) | [Lil JJ Reynolds](https://open.spotify.com/artist/6tOlcdCH7l4MwVW8EyHBDC) | [Heartache](https://open.spotify.com/album/0R8XSYdAgRsBc5saCdVQUl) | 3:12 |
 
-Snapshot ID: `Acip+gAAAAADcmEzmXhrnpHAC6CfWm/Z`
+Snapshot ID: `AcivpAAAAAAj45ftrRe0vFMxfG0tQ3+P`

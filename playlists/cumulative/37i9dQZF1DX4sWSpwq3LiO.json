@@ -29115,6 +29115,24 @@
     },
     {
       "album": {
+        "name": "The Ocean",
+        "url": "https://open.spotify.com/album/18uoIbSMlZEhC1ln89dNpG"
+      },
+      "artists": [
+        {
+          "name": "Eldur H\u00e6ttu",
+          "url": "https://open.spotify.com/artist/3GsfhG02GtXyYPOoc5QRa8"
+        }
+      ],
+      "date_added": "2026-11-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 137215,
+      "name": "The Ocean",
+      "url": "https://open.spotify.com/track/4o3HZF3nJMYMGGXw4p4a0M"
+    },
+    {
+      "album": {
         "name": "The Old Garden",
         "url": "https://open.spotify.com/album/4Jb3hdLpWGCRrNM6so6KXM"
       },
@@ -32050,6 +32068,24 @@
       "duration_ms": 144100,
       "name": "Vows",
       "url": "https://open.spotify.com/track/4sUMe29O588OnzPopccTpz"
+    },
+    {
+      "album": {
+        "name": "Vy",
+        "url": "https://open.spotify.com/album/59ErMAvHeDcEtrvaC0Gw3T"
+      },
+      "artists": [
+        {
+          "name": "Andreas Bj\u00f6rkstrand",
+          "url": "https://open.spotify.com/artist/4C0SwV2WJqRW290Xz2HIfV"
+        }
+      ],
+      "date_added": "2026-11-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 157000,
+      "name": "Vy",
+      "url": "https://open.spotify.com/track/3Zx0Tl2eWcJbQGH5bAxZjP"
     },
     {
       "album": {

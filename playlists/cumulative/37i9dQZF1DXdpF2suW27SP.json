@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-07-17",
-  "description": "Gama WNTD e Bispo entram na zona. ",
+  "description": "Slow J e Papillon entram na zona. ",
   "name": "Na Zona",
   "tracks": [
     {
@@ -1620,6 +1620,24 @@
       "duration_ms": 95409,
       "name": "Alta Cultura - Na Via",
       "url": "https://open.spotify.com/track/5WhQBxrhQAfdMEPINMJCTT"
+    },
+    {
+      "album": {
+        "name": "Alucinado",
+        "url": "https://open.spotify.com/album/2ESsdhfUlVoydtGCjhLoKY"
+      },
+      "artists": [
+        {
+          "name": "Piruka",
+          "url": "https://open.spotify.com/artist/5iZ6jMDkRa7RKLQplJuQUC"
+        }
+      ],
+      "date_added": "2026-11-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 125042,
+      "name": "Alucinado",
+      "url": "https://open.spotify.com/track/3TAkH7jkHWBQjf9lTcVEvD"
     },
     {
       "album": {
@@ -4927,6 +4945,24 @@
     },
     {
       "album": {
+        "name": "TEARS N DIAMONDS",
+        "url": "https://open.spotify.com/album/6fWa1fagneVevUDJ98X2sY"
+      },
+      "artists": [
+        {
+          "name": "Mulatooh",
+          "url": "https://open.spotify.com/artist/5i3kAmcQVt7k2zHgolEAvo"
+        }
+      ],
+      "date_added": "2026-11-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 164000,
+      "name": "CLOCK IT",
+      "url": "https://open.spotify.com/track/6me5I49rWGompo1O74b2Ry"
+    },
+    {
+      "album": {
         "name": "Club",
         "url": "https://open.spotify.com/album/4NBMzkzwB16Cojyp2hHGrp"
       },
@@ -5320,7 +5356,7 @@
       ],
       "date_added": "2026-11-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-27",
       "duration_ms": 161706,
       "name": "CONFIA EM TI",
       "url": "https://open.spotify.com/track/5PDW8lwfb5gd8QV7dzPKUb"
@@ -6506,7 +6542,7 @@
       ],
       "date_added": "2026-04-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-27",
       "duration_ms": 213358,
       "name": "DIVERDADI",
       "url": "https://open.spotify.com/track/3xrSI5iimLldHvEZKB2bH1"
@@ -11171,6 +11207,28 @@
     },
     {
       "album": {
+        "name": "LITTLE big boys",
+        "url": "https://open.spotify.com/album/3a0wiHonhfatGMMyQtNHCz"
+      },
+      "artists": [
+        {
+          "name": "Libra",
+          "url": "https://open.spotify.com/artist/58oCcA2IXrVg5ZEN3Hywpq"
+        },
+        {
+          "name": "NOVEMBER",
+          "url": "https://open.spotify.com/artist/6kbbnvhRzECAUkAYVcRlVB"
+        }
+      ],
+      "date_added": "2026-11-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 207390,
+      "name": "LITTLE big boys",
+      "url": "https://open.spotify.com/track/1qpg1CSk0L3dpnzxWtsgdS"
+    },
+    {
+      "album": {
         "name": "Priceless",
         "url": "https://open.spotify.com/album/7yYTfAq087THV6jKKbUSvf"
       },
@@ -12308,6 +12366,28 @@
       "duration_ms": 193939,
       "name": "Mar Azul",
       "url": "https://open.spotify.com/track/5gJyW5NeOsfNa2CSMES2h3"
+    },
+    {
+      "album": {
+        "name": "Maratona",
+        "url": "https://open.spotify.com/album/1bJz7LgpCFG6ewIVEYsyob"
+      },
+      "artists": [
+        {
+          "name": "Harold",
+          "url": "https://open.spotify.com/artist/69IjpIjVQJljQ8AsCJMBi3"
+        },
+        {
+          "name": "EMMVR",
+          "url": "https://open.spotify.com/artist/4NRTBluAEQVhhSOA5yinWI"
+        }
+      ],
+      "date_added": "2026-11-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 162807,
+      "name": "Maratona",
+      "url": "https://open.spotify.com/track/5MrJBzScZ74PS6VZtxAjse"
     },
     {
       "album": {
@@ -14830,7 +14910,7 @@
       ],
       "date_added": "2026-05-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-27",
       "duration_ms": 198300,
       "name": "N\u00e3o Presto",
       "url": "https://open.spotify.com/track/5DKTdgyYNXI8MGOM2GemRe"
@@ -16496,7 +16576,7 @@
       ],
       "date_added": "2026-07-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-27",
       "duration_ms": 132972,
       "name": "PERIGO",
       "url": "https://open.spotify.com/track/0m2BZstziSBOmiyHorcprL"
@@ -17130,7 +17210,7 @@
       ],
       "date_added": "2026-03-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-27",
       "duration_ms": 158918,
       "name": "PREDESTINADO",
       "url": "https://open.spotify.com/track/3LeHyNkhgNHllY4T56dVfx"
@@ -17196,7 +17276,7 @@
       ],
       "date_added": "2026-02-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-27",
       "duration_ms": 176287,
       "name": "PRE\u00c7O CERTO",
       "url": "https://open.spotify.com/track/42E4oNpbl32FOqwcjkKVDe"
@@ -18677,6 +18757,28 @@
     },
     {
       "album": {
+        "name": "\u00daLTIMO FILHO DO BITA",
+        "url": "https://open.spotify.com/album/42GrDkUAv0XuqkQg7UVwod"
+      },
+      "artists": [
+        {
+          "name": "Yb No Vision",
+          "url": "https://open.spotify.com/artist/3eTcC5IOlcpwh98YUCeTJ6"
+        },
+        {
+          "name": "YANKEMA",
+          "url": "https://open.spotify.com/artist/1KpBnKdAUaXpGoHvvSXUaJ"
+        }
+      ],
+      "date_added": "2026-11-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 162000,
+      "name": "SANZALA (feat. YANKEMA)",
+      "url": "https://open.spotify.com/track/7LVK44A0VcGvmBLFBx6HqC"
+    },
+    {
+      "album": {
         "name": "Saudade",
         "url": "https://open.spotify.com/album/0ch2cUW8uCWyIroYGNRjs3"
       },
@@ -20058,6 +20160,28 @@
       "duration_ms": 140005,
       "name": "Sua Louca",
       "url": "https://open.spotify.com/track/0bUx0zIv2s6CcqTrUxf1jO"
+    },
+    {
+      "album": {
+        "name": "Submundo AZ",
+        "url": "https://open.spotify.com/album/5IkSIfr8WMa0DsYSlYnLJl"
+      },
+      "artists": [
+        {
+          "name": "Landim",
+          "url": "https://open.spotify.com/artist/3OUfbyxrlqldajHHi7MGMh"
+        },
+        {
+          "name": "Real GUNS",
+          "url": "https://open.spotify.com/artist/3DNrmBolKZNsx5UHwJCLnT"
+        }
+      ],
+      "date_added": "2026-11-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 178736,
+      "name": "Submundo AZ",
+      "url": "https://open.spotify.com/track/1enku3YNufCceeHLY3MrGy"
     },
     {
       "album": {
@@ -22405,6 +22529,24 @@
     },
     {
       "album": {
+        "name": "CUIDADO COM O C\u00c3O",
+        "url": "https://open.spotify.com/album/2WT7ScAE0mW5WH9pZhB77s"
+      },
+      "artists": [
+        {
+          "name": "Joint One",
+          "url": "https://open.spotify.com/artist/5W4i9lwHlsuhSL6Mw4KvCQ"
+        }
+      ],
+      "date_added": "2026-11-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 174619,
+      "name": "VIVE PELO GANG",
+      "url": "https://open.spotify.com/track/5Qfh35KFNg6BQFAOa2ECKS"
+    },
+    {
+      "album": {
         "name": "Vivenda",
         "url": "https://open.spotify.com/album/2aA6KxWFPth5qoD1AHNflH"
       },
@@ -23118,7 +23260,7 @@
       ],
       "date_added": "2026-11-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-27",
       "duration_ms": 250797,
       "name": "\u00c9 Verdade",
       "url": "https://open.spotify.com/track/192Tpc8jyka8lhukETX50O"

@@ -6,7 +6,7 @@
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "awOCAAAAAABG1e2Hbn3otdPtXyFjq0Oz",
+  "snapshot_id": "awYlAAAAAAAsRw41fHhVYDt+qUJPF9vO",
   "tracks": [
     {
       "added_at": null,
@@ -43,54 +43,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "sushi for breakfast",
-        "url": "https://open.spotify.com/album/6UedFShxAuOMdhcdnLNyt8"
-      },
-      "artists": [
-        {
-          "name": "BAYLI",
-          "url": "https://open.spotify.com/artist/2bvUCoFViWtg9pSkOX9du9"
-        }
-      ],
-      "duration_ms": 127037,
-      "name": "sushi for breakfast",
-      "url": "https://open.spotify.com/track/1tXi8DZG7q0eg9idatC5Zv"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "stories from new york",
-        "url": "https://open.spotify.com/album/2qk0vagquh5WnBcF54E8oI"
-      },
-      "artists": [
-        {
-          "name": "BAYLI",
-          "url": "https://open.spotify.com/artist/2bvUCoFViWtg9pSkOX9du9"
-        }
-      ],
-      "duration_ms": 157802,
-      "name": "foreigner",
-      "url": "https://open.spotify.com/track/47WQxbmq9SEe7BC5ksgVJ0"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "NO RE-ENTRY",
-        "url": "https://open.spotify.com/album/3gUwFjbvPiO4i5vseJHg5G"
-      },
-      "artists": [
-        {
-          "name": "BAYLI",
-          "url": "https://open.spotify.com/artist/2bvUCoFViWtg9pSkOX9du9"
-        }
-      ],
-      "duration_ms": 129264,
-      "name": "all of that",
-      "url": "https://open.spotify.com/track/1uX94wwKxWLmMZX3MIgiIg"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Torn - Ssstretched",
         "url": "https://open.spotify.com/album/1LVScJagjUaWJ1r0LIhGTA"
       },
@@ -111,6 +63,54 @@
       "duration_ms": 198342,
       "name": "Unoriginal - BAYLI & Megra Remix",
       "url": "https://open.spotify.com/track/4o0fOtYOggx1qaxsPrLd0b"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "sushi for breakfast",
+        "url": "https://open.spotify.com/album/6UedFShxAuOMdhcdnLNyt8"
+      },
+      "artists": [
+        {
+          "name": "BAYLI",
+          "url": "https://open.spotify.com/artist/2bvUCoFViWtg9pSkOX9du9"
+        }
+      ],
+      "duration_ms": 127037,
+      "name": "sushi for breakfast",
+      "url": "https://open.spotify.com/track/1tXi8DZG7q0eg9idatC5Zv"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "NO RE-ENTRY",
+        "url": "https://open.spotify.com/album/3gUwFjbvPiO4i5vseJHg5G"
+      },
+      "artists": [
+        {
+          "name": "BAYLI",
+          "url": "https://open.spotify.com/artist/2bvUCoFViWtg9pSkOX9du9"
+        }
+      ],
+      "duration_ms": 129264,
+      "name": "all of that",
+      "url": "https://open.spotify.com/track/1uX94wwKxWLmMZX3MIgiIg"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "stories from new york",
+        "url": "https://open.spotify.com/album/2qk0vagquh5WnBcF54E8oI"
+      },
+      "artists": [
+        {
+          "name": "BAYLI",
+          "url": "https://open.spotify.com/artist/2bvUCoFViWtg9pSkOX9du9"
+        }
+      ],
+      "duration_ms": 157802,
+      "name": "foreigner",
+      "url": "https://open.spotify.com/track/47WQxbmq9SEe7BC5ksgVJ0"
     },
     {
       "added_at": null,
@@ -207,22 +207,26 @@
     {
       "added_at": null,
       "album": {
-        "name": "BOTH",
-        "url": "https://open.spotify.com/album/0xWDtOy1VVhQlIphjZTfwC"
+        "name": "Float (feat. BAYLI)",
+        "url": "https://open.spotify.com/album/7oGQVPQR0LNdBcGpFaDag5"
       },
       "artists": [
         {
-          "name": "BAYLI",
-          "url": "https://open.spotify.com/artist/2bvUCoFViWtg9pSkOX9du9"
+          "name": "Sparrow & Barbossa",
+          "url": "https://open.spotify.com/artist/3c1sTwL4HuWkrciiKHpnmx"
         },
         {
-          "name": "Sophie Gray",
-          "url": "https://open.spotify.com/artist/7rWhuhHP5WNIhzek4JVVfS"
+          "name": "Sparrow (CH)",
+          "url": "https://open.spotify.com/artist/6tft5GigqFdQwILafx4hyO"
+        },
+        {
+          "name": "BAYLI",
+          "url": "https://open.spotify.com/artist/2bvUCoFViWtg9pSkOX9du9"
         }
       ],
-      "duration_ms": 154213,
-      "name": "BOTH",
-      "url": "https://open.spotify.com/track/0og8Iehtsov2WSZBoQbmAJ"
+      "duration_ms": 174193,
+      "name": "Float (feat. BAYLI)",
+      "url": "https://open.spotify.com/track/20fWv7580PvwdmWnVqHPDc"
     },
     {
       "added_at": null,
@@ -259,26 +263,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "Float (feat. BAYLI)",
-        "url": "https://open.spotify.com/album/7oGQVPQR0LNdBcGpFaDag5"
+        "name": "BOTH",
+        "url": "https://open.spotify.com/album/0xWDtOy1VVhQlIphjZTfwC"
       },
       "artists": [
         {
-          "name": "Sparrow & Barbossa",
-          "url": "https://open.spotify.com/artist/3c1sTwL4HuWkrciiKHpnmx"
-        },
-        {
-          "name": "Sparrow (CH)",
-          "url": "https://open.spotify.com/artist/6tft5GigqFdQwILafx4hyO"
-        },
-        {
           "name": "BAYLI",
           "url": "https://open.spotify.com/artist/2bvUCoFViWtg9pSkOX9du9"
+        },
+        {
+          "name": "Sophie Gray",
+          "url": "https://open.spotify.com/artist/7rWhuhHP5WNIhzek4JVVfS"
         }
       ],
-      "duration_ms": 174193,
-      "name": "Float (feat. BAYLI)",
-      "url": "https://open.spotify.com/track/20fWv7580PvwdmWnVqHPDc"
+      "duration_ms": 154213,
+      "name": "BOTH",
+      "url": "https://open.spotify.com/track/0og8Iehtsov2WSZBoQbmAJ"
     },
     {
       "added_at": null,
@@ -343,22 +343,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "stories 2",
-        "url": "https://open.spotify.com/album/3bB8Ac29DUpwbjWTZGbOKh"
-      },
-      "artists": [
-        {
-          "name": "BAYLI",
-          "url": "https://open.spotify.com/artist/2bvUCoFViWtg9pSkOX9du9"
-        }
-      ],
-      "duration_ms": 130560,
-      "name": "pressure",
-      "url": "https://open.spotify.com/track/29XFwGNkE4E153MGV232hB"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "boys lie",
         "url": "https://open.spotify.com/album/7u79RtCjM1KNE6IDBiNsQi"
       },
@@ -371,6 +355,22 @@
       "duration_ms": 145857,
       "name": "boys lie",
       "url": "https://open.spotify.com/track/3WueDZQh5JdW5dR1cGZ4Xk"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "stories 2",
+        "url": "https://open.spotify.com/album/3bB8Ac29DUpwbjWTZGbOKh"
+      },
+      "artists": [
+        {
+          "name": "BAYLI",
+          "url": "https://open.spotify.com/artist/2bvUCoFViWtg9pSkOX9du9"
+        }
+      ],
+      "duration_ms": 130560,
+      "name": "pressure",
+      "url": "https://open.spotify.com/track/29XFwGNkE4E153MGV232hB"
     },
     {
       "added_at": null,
@@ -439,6 +439,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "act up",
+        "url": "https://open.spotify.com/album/0o384u0H638iKJSUdW6zc3"
+      },
+      "artists": [
+        {
+          "name": "BAYLI",
+          "url": "https://open.spotify.com/artist/2bvUCoFViWtg9pSkOX9du9"
+        }
+      ],
+      "duration_ms": 128793,
+      "name": "act up",
+      "url": "https://open.spotify.com/track/2yJzSXqWpMXhhUTh6QKeh8"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Ethical Plum",
         "url": "https://open.spotify.com/album/1mue0bRSOvTGisXjsFGNAz"
       },
@@ -455,22 +471,6 @@
       "duration_ms": 166929,
       "name": "Ethical Plum",
       "url": "https://open.spotify.com/track/6hsGhh9tQ5g3QteBK1n72Y"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "act up",
-        "url": "https://open.spotify.com/album/0o384u0H638iKJSUdW6zc3"
-      },
-      "artists": [
-        {
-          "name": "BAYLI",
-          "url": "https://open.spotify.com/artist/2bvUCoFViWtg9pSkOX9du9"
-        }
-      ],
-      "duration_ms": 128793,
-      "name": "act up",
-      "url": "https://open.spotify.com/track/2yJzSXqWpMXhhUTh6QKeh8"
     },
     {
       "added_at": null,
@@ -559,22 +559,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "stories 2",
-        "url": "https://open.spotify.com/album/3bB8Ac29DUpwbjWTZGbOKh"
-      },
-      "artists": [
-        {
-          "name": "BAYLI",
-          "url": "https://open.spotify.com/artist/2bvUCoFViWtg9pSkOX9du9"
-        }
-      ],
-      "duration_ms": 142142,
-      "name": "into me",
-      "url": "https://open.spotify.com/track/6kDJnfS1A7ZZTugc8JMkQt"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Busy (BAYLI Remix)",
         "url": "https://open.spotify.com/album/4QItHH0p7qev4nWghJWNQe"
       },
@@ -591,6 +575,22 @@
       "duration_ms": 165086,
       "name": "Busy - BAYLI Remix",
       "url": "https://open.spotify.com/track/7dgyEXVCMkwj3vj3Yy5hr7"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "stories 2",
+        "url": "https://open.spotify.com/album/3bB8Ac29DUpwbjWTZGbOKh"
+      },
+      "artists": [
+        {
+          "name": "BAYLI",
+          "url": "https://open.spotify.com/artist/2bvUCoFViWtg9pSkOX9du9"
+        }
+      ],
+      "duration_ms": 142142,
+      "name": "into me",
+      "url": "https://open.spotify.com/track/6kDJnfS1A7ZZTugc8JMkQt"
     },
     {
       "added_at": null,
@@ -635,6 +635,26 @@
     {
       "added_at": null,
       "album": {
+        "name": "SICK!",
+        "url": "https://open.spotify.com/album/1uQyVaCOSTSbLHLzYHr4b7"
+      },
+      "artists": [
+        {
+          "name": "BAYLI",
+          "url": "https://open.spotify.com/artist/2bvUCoFViWtg9pSkOX9du9"
+        },
+        {
+          "name": "ILOVEMAKONNEN",
+          "url": "https://open.spotify.com/artist/3aGFCoR8xGN6DKwvdzeSja"
+        }
+      ],
+      "duration_ms": 126743,
+      "name": "SICK!",
+      "url": "https://open.spotify.com/track/1IpP0gGsWlkag2S4U0vooG"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Push N Pull",
         "url": "https://open.spotify.com/album/6NJUaLB7QJap4J0rTWwYrV"
       },
@@ -651,6 +671,26 @@
       "duration_ms": 162580,
       "name": "Push N Pull",
       "url": "https://open.spotify.com/track/1Ze2YUR6IEAUhfhJgsP6f8"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Spend It",
+        "url": "https://open.spotify.com/album/1Ra1BUIxleKoOHU3ewv1Cw"
+      },
+      "artists": [
+        {
+          "name": "Gia Woods",
+          "url": "https://open.spotify.com/artist/6T56xtTEllGW17snjAZLNP"
+        },
+        {
+          "name": "BAYLI",
+          "url": "https://open.spotify.com/artist/2bvUCoFViWtg9pSkOX9du9"
+        }
+      ],
+      "duration_ms": 180000,
+      "name": "Spend It",
+      "url": "https://open.spotify.com/track/2DAGWDwSJycVZ2erxi5Uzq"
     },
     {
       "added_at": null,
@@ -675,46 +715,6 @@
       "duration_ms": 174720,
       "name": "Best I've Ever Had",
       "url": "https://open.spotify.com/track/3ZK98UUk9nbNbuiU5DqQdC"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "SICK!",
-        "url": "https://open.spotify.com/album/1uQyVaCOSTSbLHLzYHr4b7"
-      },
-      "artists": [
-        {
-          "name": "BAYLI",
-          "url": "https://open.spotify.com/artist/2bvUCoFViWtg9pSkOX9du9"
-        },
-        {
-          "name": "ILOVEMAKONNEN",
-          "url": "https://open.spotify.com/artist/3aGFCoR8xGN6DKwvdzeSja"
-        }
-      ],
-      "duration_ms": 126743,
-      "name": "SICK!",
-      "url": "https://open.spotify.com/track/1IpP0gGsWlkag2S4U0vooG"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Spend It",
-        "url": "https://open.spotify.com/album/1Ra1BUIxleKoOHU3ewv1Cw"
-      },
-      "artists": [
-        {
-          "name": "Gia Woods",
-          "url": "https://open.spotify.com/artist/6T56xtTEllGW17snjAZLNP"
-        },
-        {
-          "name": "BAYLI",
-          "url": "https://open.spotify.com/artist/2bvUCoFViWtg9pSkOX9du9"
-        }
-      ],
-      "duration_ms": 180000,
-      "name": "Spend It",
-      "url": "https://open.spotify.com/track/2DAGWDwSJycVZ2erxi5Uzq"
     },
     {
       "added_at": null,

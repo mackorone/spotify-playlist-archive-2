@@ -1,12 +1,12 @@
 {
   "description": "Genre-less. Quality first always. Cover: Erika de Casier",
-  "num_followers": 1325504,
+  "num_followers": 1325488,
   "original_name": "POLLEN",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAMbrilmGCpcjaUmx+/KY2JToAGZv",
+  "snapshot_id": "AAAAAHK+7qbdX+lrr9QiOb/qrvnHcEIH",
   "tracks": [
     {
       "added_at": "2026-11-20 05:01:25",
@@ -41,6 +41,42 @@
       "url": "https://open.spotify.com/track/3rvIAxueKVLDTI7HCRXZbK"
     },
     {
+      "added_at": "2026-11-27 05:16:28",
+      "album": {
+        "name": "Anatomy of a Cry",
+        "url": "https://open.spotify.com/album/04f1Six4RDzxB5OdzBIyPW"
+      },
+      "artists": [
+        {
+          "name": "Crystal Murray",
+          "url": "https://open.spotify.com/artist/2lRXAjsNoYGqyYkgHxk5OH"
+        }
+      ],
+      "duration_ms": 210146,
+      "name": "73",
+      "url": "https://open.spotify.com/track/4XLJVCUlt3Gx00SX11RnWz"
+    },
+    {
+      "added_at": "2026-11-27 05:16:28",
+      "album": {
+        "name": "ANSWERED PRAYER",
+        "url": "https://open.spotify.com/album/4ZQRhxwQj3b8kvULYNAom3"
+      },
+      "artists": [
+        {
+          "name": "Novelist",
+          "url": "https://open.spotify.com/artist/4OPTZC24954HYBeHKeoLSc"
+        },
+        {
+          "name": "Jorja Smith",
+          "url": "https://open.spotify.com/artist/1CoZyIx7UvdxT5c8UkMzHd"
+        }
+      ],
+      "duration_ms": 196710,
+      "name": "ANSWERED PRAYER",
+      "url": "https://open.spotify.com/track/2Vbujfub1FKFLN8QuZuVBB"
+    },
+    {
       "added_at": "2026-11-13 05:01:46",
       "album": {
         "name": "El Hueso",
@@ -55,50 +91,6 @@
       "duration_ms": 143301,
       "name": "El Hueso",
       "url": "https://open.spotify.com/track/1Dr7IM4yoNwvucqW1KOAbk"
-    },
-    {
-      "added_at": "2026-11-13 05:01:46",
-      "album": {
-        "name": "Broken Hearts (feat. Central Cee & Jorja Smith)",
-        "url": "https://open.spotify.com/album/1gfDPvCRXA6ZxH6h8AWSn2"
-      },
-      "artists": [
-        {
-          "name": "Skepta",
-          "url": "https://open.spotify.com/artist/2p1fiYHYiXz9qi0JJyxBzN"
-        },
-        {
-          "name": "Central Cee",
-          "url": "https://open.spotify.com/artist/5H4yInM5zmHqpKIoMNAx4r"
-        },
-        {
-          "name": "Jorja Smith",
-          "url": "https://open.spotify.com/artist/1CoZyIx7UvdxT5c8UkMzHd"
-        }
-      ],
-      "duration_ms": 260134,
-      "name": "Broken Hearts (feat. Central Cee & Jorja Smith)",
-      "url": "https://open.spotify.com/track/2dk8LiJ7yViAjfvyzpfA9i"
-    },
-    {
-      "added_at": "2026-11-25 18:37:29",
-      "album": {
-        "name": "Osondi Owendi",
-        "url": "https://open.spotify.com/album/3JWavowCF8s5QFXLmDYs41"
-      },
-      "artists": [
-        {
-          "name": "P Wavey",
-          "url": "https://open.spotify.com/artist/1r8MP5pyAuhuSQ9u1aaOp5"
-        },
-        {
-          "name": "Samtheman",
-          "url": "https://open.spotify.com/artist/0L5XphjnCUGKHXVFAn9Ccv"
-        }
-      ],
-      "duration_ms": 252141,
-      "name": "Osondi Owendi",
-      "url": "https://open.spotify.com/track/3Cs2gEbcLspLq6zmOqN9KD"
     },
     {
       "added_at": "2026-11-06 09:29:32",
@@ -131,6 +123,26 @@
       "duration_ms": 197373,
       "name": "KILLING GOD WITH COMPUTERS",
       "url": "https://open.spotify.com/track/45wasIhGDIplDfMXXAaiEJ"
+    },
+    {
+      "added_at": "2026-11-27 05:16:28",
+      "album": {
+        "name": "things I really meant (feat. Anatole Muster) [Live]",
+        "url": "https://open.spotify.com/album/2L4Qvp58TqBNKesW4qQEqH"
+      },
+      "artists": [
+        {
+          "name": "SISTRA",
+          "url": "https://open.spotify.com/artist/0Y1A0tTg1P1q6FKqhM7grU"
+        },
+        {
+          "name": "Anatole Muster",
+          "url": "https://open.spotify.com/artist/3wfxadqnYdgo7M31acbDVK"
+        }
+      ],
+      "duration_ms": 128842,
+      "name": "things I really meant (feat. Anatole Muster)",
+      "url": "https://open.spotify.com/track/17rkZ1AjZaFttErTVSy3Hn"
     },
     {
       "added_at": "2026-11-20 05:01:25",
@@ -167,6 +179,70 @@
       "duration_ms": 172000,
       "name": "MOON (feat. tab\u00fc)",
       "url": "https://open.spotify.com/track/3uTvm9XBWWPbfhx9jpPbMm"
+    },
+    {
+      "added_at": "2026-11-25 18:37:29",
+      "album": {
+        "name": "Osondi Owendi",
+        "url": "https://open.spotify.com/album/3JWavowCF8s5QFXLmDYs41"
+      },
+      "artists": [
+        {
+          "name": "P Wavey",
+          "url": "https://open.spotify.com/artist/1r8MP5pyAuhuSQ9u1aaOp5"
+        },
+        {
+          "name": "Samtheman",
+          "url": "https://open.spotify.com/artist/0L5XphjnCUGKHXVFAn9Ccv"
+        }
+      ],
+      "duration_ms": 252141,
+      "name": "Osondi Owendi",
+      "url": "https://open.spotify.com/track/3Cs2gEbcLspLq6zmOqN9KD"
+    },
+    {
+      "added_at": "2026-11-13 05:01:46",
+      "album": {
+        "name": "Broken Hearts (feat. Central Cee & Jorja Smith)",
+        "url": "https://open.spotify.com/album/1gfDPvCRXA6ZxH6h8AWSn2"
+      },
+      "artists": [
+        {
+          "name": "Skepta",
+          "url": "https://open.spotify.com/artist/2p1fiYHYiXz9qi0JJyxBzN"
+        },
+        {
+          "name": "Central Cee",
+          "url": "https://open.spotify.com/artist/5H4yInM5zmHqpKIoMNAx4r"
+        },
+        {
+          "name": "Jorja Smith",
+          "url": "https://open.spotify.com/artist/1CoZyIx7UvdxT5c8UkMzHd"
+        }
+      ],
+      "duration_ms": 260134,
+      "name": "Broken Hearts (feat. Central Cee & Jorja Smith)",
+      "url": "https://open.spotify.com/track/2dk8LiJ7yViAjfvyzpfA9i"
+    },
+    {
+      "added_at": "2026-11-27 05:16:28",
+      "album": {
+        "name": "Where is she? / Farewell",
+        "url": "https://open.spotify.com/album/0kvdiwLzNjDbr996p2MsIH"
+      },
+      "artists": [
+        {
+          "name": "Samant",
+          "url": "https://open.spotify.com/artist/3uRWOTy9otoxixGe3yG8Bh"
+        },
+        {
+          "name": "Lou Val",
+          "url": "https://open.spotify.com/artist/6u3PN3PCsWLGsw1OffKQ2F"
+        }
+      ],
+      "duration_ms": 261625,
+      "name": "Where is she? / Farewell",
+      "url": "https://open.spotify.com/track/2SJ3eyOB3ngNHUcXAIAyKl"
     },
     {
       "added_at": "2026-11-13 05:01:46",
@@ -929,22 +1005,6 @@
       "url": "https://open.spotify.com/track/0iWnzPWL7aO7VCgFIti51O"
     },
     {
-      "added_at": "2026-10-23 04:01:20",
-      "album": {
-        "name": "Muney",
-        "url": "https://open.spotify.com/album/5IkEyDwUARKRbj8XOpnYBX"
-      },
-      "artists": [
-        {
-          "name": "L'Rain",
-          "url": "https://open.spotify.com/artist/68BVYIej5jGdIh8au5qELn"
-        }
-      ],
-      "duration_ms": 158000,
-      "name": "Muney",
-      "url": "https://open.spotify.com/track/3L4fYfVOnxBtFN174rC0Bs"
-    },
-    {
       "added_at": "2026-10-16 04:02:18",
       "album": {
         "name": "Another State",
@@ -1237,26 +1297,6 @@
       "url": "https://open.spotify.com/track/6APujO9dTDkdP6LcSJmy7z"
     },
     {
-      "added_at": "2026-10-02 04:02:34",
-      "album": {
-        "name": "Confirmation!",
-        "url": "https://open.spotify.com/album/2eoLkddmrf8ZtNFAhluX0g"
-      },
-      "artists": [
-        {
-          "name": "Logic1000",
-          "url": "https://open.spotify.com/artist/2EFsfh1zewsSWhDINv7j1I"
-        },
-        {
-          "name": "FAUZIA",
-          "url": "https://open.spotify.com/artist/5a8f6ZZzBZ3lFtv9wQClHl"
-        }
-      ],
-      "duration_ms": 164611,
-      "name": "2Love (feat. FAUZIA)",
-      "url": "https://open.spotify.com/track/0aTchi7o5BEChVOmdAHrNW"
-    },
-    {
       "added_at": "2026-08-28 04:02:33",
       "album": {
         "name": "Black Boy (Alternative)",
@@ -1363,22 +1403,6 @@
     {
       "added_at": "2026-09-18 04:00:29",
       "album": {
-        "name": "MOVE",
-        "url": "https://open.spotify.com/album/6FkZGv2lzwqGtbSi6sqMLA"
-      },
-      "artists": [
-        {
-          "name": "Warpstr",
-          "url": "https://open.spotify.com/artist/3DosMG14ckPgT9iagZbcVc"
-        }
-      ],
-      "duration_ms": 133333,
-      "name": "MOVE",
-      "url": "https://open.spotify.com/track/7iZrLKSMOE7K0KA5kt0HxU"
-    },
-    {
-      "added_at": "2026-09-18 04:00:29",
-      "album": {
         "name": "No Rest for The Wicked",
         "url": "https://open.spotify.com/album/0YlI85OJE1zupVO6kNXVeL"
       },
@@ -1479,22 +1503,6 @@
       "duration_ms": 116756,
       "name": "AHHHH***",
       "url": "https://open.spotify.com/track/09ovKflFL3KRcFvNMnM7aj"
-    },
-    {
-      "added_at": "2026-08-28 04:02:33",
-      "album": {
-        "name": "I Don't Know Why I Said That",
-        "url": "https://open.spotify.com/album/4eUgX0wMxNLxWFFRNgJgZm"
-      },
-      "artists": [
-        {
-          "name": "Me As A Girl",
-          "url": "https://open.spotify.com/artist/5TwlVv5wao2sHAZJ0MVJOQ"
-        }
-      ],
-      "duration_ms": 166186,
-      "name": "I Don't Know Why I Said That",
-      "url": "https://open.spotify.com/track/0sGgseWHrfxZsCSLZ1YjtZ"
     },
     {
       "added_at": "2026-07-03 04:02:06",

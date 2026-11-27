@@ -2120,7 +2120,7 @@
       ],
       "date_added": "2026-08-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-27",
       "duration_ms": 245484,
       "name": "Lately, Love Is Dead",
       "url": "https://open.spotify.com/track/49b2ZZj6rxIwQCuMgrj8zI"
@@ -2996,7 +2996,7 @@
       ],
       "date_added": "2026-08-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-27",
       "duration_ms": 209000,
       "name": "Ride It Out",
       "url": "https://open.spotify.com/track/02ha48YfyAgAOrg50ZcDNh"
@@ -3220,6 +3220,32 @@
       "duration_ms": 207795,
       "name": "Sexy to Someone",
       "url": "https://open.spotify.com/track/2Nq4SFbvYYZa8AF7lD7CWU"
+    },
+    {
+      "album": {
+        "name": "Shake My Soul",
+        "url": "https://open.spotify.com/album/0zh4pssFDsgnfR5O7p696y"
+      },
+      "artists": [
+        {
+          "name": "Te Wehi",
+          "url": "https://open.spotify.com/artist/2DkCh3TikVqqOAKrbMNIVc"
+        },
+        {
+          "name": "MELODOWNZ",
+          "url": "https://open.spotify.com/artist/0tkEKBrgdMZXjZylYRoN7H"
+        },
+        {
+          "name": "Hohua Sta",
+          "url": "https://open.spotify.com/artist/56qCAYVFYQYaLLRwFlEeh7"
+        }
+      ],
+      "date_added": "2026-11-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 198970,
+      "name": "Shake My Soul",
+      "url": "https://open.spotify.com/track/18wJ4O4TsjlF5KQET5xUFD"
     },
     {
       "album": {
@@ -4310,6 +4336,24 @@
       "duration_ms": 202000,
       "name": "Where's My Love",
       "url": "https://open.spotify.com/track/1B62o4CbdL9ckGvwsz2cgn"
+    },
+    {
+      "album": {
+        "name": "Whispers In The Wind",
+        "url": "https://open.spotify.com/album/0S5JVI68OlKW9mIcq0pdqp"
+      },
+      "artists": [
+        {
+          "name": "Jordan Rakei",
+          "url": "https://open.spotify.com/artist/24icoQNJSEWNu3XvqKBR68"
+        }
+      ],
+      "date_added": "2026-11-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 268874,
+      "name": "Whispers In The Wind",
+      "url": "https://open.spotify.com/track/42Bpbeh7uDLOnDFyBWwRcI"
     },
     {
       "album": {

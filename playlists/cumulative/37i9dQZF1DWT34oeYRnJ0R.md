@@ -2,13 +2,13 @@
 
 ### [Vibras](https://open.spotify.com/playlist/37i9dQZF1DWT34oeYRnJ0R)
 
-> Just vibes\. Cover: Hamilton & Sech
+> Just vibes\. Cover: Feid & Snoop Dogg
 
-825 songs - 1 day 18 hr 33 min
+826 songs - 1 day 18 hr 36 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
-| [$$$$](https://open.spotify.com/track/5MR2AQnIqBI1WT8LXMZfYv) | [riela](https://open.spotify.com/artist/5K3Lwty6gv1gtuPn3gcf3A) | [$$$$](https://open.spotify.com/album/3dEQIcJOKfqFzPPg6UQlj2) | 3:05 | 2025-07-18 |  |
+| [$$$$](https://open.spotify.com/track/5MR2AQnIqBI1WT8LXMZfYv) | [riela](https://open.spotify.com/artist/5K3Lwty6gv1gtuPn3gcf3A) | [$$$$](https://open.spotify.com/album/3dEQIcJOKfqFzPPg6UQlj2) | 3:05 | 2025-07-18 | 2026-11-27 |
 | [/Turistico](https://open.spotify.com/track/2vzf4z67gX8v7MntugFLXx) | [Neton Vega](https://open.spotify.com/artist/6pV5zH2LzjOUHaAvENdMMa) | [DELIRIUM](https://open.spotify.com/album/0xTFLxAqGha7RPtlHkDqm6) | 3:02 | 2025-11-18 |  |
 | [1% \- Remix](https://open.spotify.com/track/1F4Vm45mboD6k5VAx83pJu) | [Papi Sousa](https://open.spotify.com/artist/0zcP8lCmLxqRRIZJPSq8i7), [Alvaro Diaz](https://open.spotify.com/artist/5J7rXWjtn5HzUkJ4Jet8Fr), [Lyanno](https://open.spotify.com/artist/1Ts9of7VPZElwPQnqnDSfW), [paopao](https://open.spotify.com/artist/5AS4y4rlmbUYDCdg35qmI9) | [1% \(Remix\)](https://open.spotify.com/album/7vnBMKz5X3ZopYiwP1EgcW) | 4:50 | 2023-03-31 | 2025-05-10 |
 | [100 TRACKS](https://open.spotify.com/track/4Aljhc4Fbs5HnkvqMD50U0) | [Rels B](https://open.spotify.com/artist/2IMZYfNi21MGqxopj9fWx8) | [100 TRACKS](https://open.spotify.com/album/6bCWlTPqOKwHRJ20aMPvqI) | 2:44 | 2022-03-25 | 2022-06-26 |
@@ -330,6 +330,7 @@
 | [Good Energy \- Remix](https://open.spotify.com/track/37sgLcobfnLtle8H17N0H1) | [Farruko](https://open.spotify.com/artist/329e4yvIujISKGKz1BZZbO), [Yung Wylin'](https://open.spotify.com/artist/0m4kaX5bs4Jp3rCsRuLjA9), [Maffio](https://open.spotify.com/artist/5RzT7CM6Ot0sh0EHefMicV) | [Good Energy \(Remix\)](https://open.spotify.com/album/1PihY5yy5PX8kW2jGonJW1) | 3:34 | 2023-11-17 | 2024-10-19 |
 | [Gorgeous](https://open.spotify.com/track/0J6Qq3DSRNoJKCSAjCnY9y) | [Isabella Lovestory](https://open.spotify.com/artist/4wMQTWavQZgr8ySlo5s2Tt) | [Gorgeous](https://open.spotify.com/album/4YU0evDGI9AvvEOP7QcFws) | 2:57 | 2025-05-30 | 2025-09-27 |
 | [GRACIAS POR NADA](https://open.spotify.com/track/7dinxNQg4Pfl2ahvMRenBQ) | [Rauw Alejandro](https://open.spotify.com/artist/1mcTU81TzQhprhouKaTkpq) | [GRACIAS POR NADA](https://open.spotify.com/album/1dqTVJ6xNIAG1GQZ7PGssr) | 3:39 | 2022-03-21 | 2022-05-21 |
+| [GRACIAS X TODO](https://open.spotify.com/track/4WmcJk3pLqQuwVcFePYZJA) | [Feid](https://open.spotify.com/artist/2LRoIwlKmHjgvigdNGBHNo), [Snoop Dogg](https://open.spotify.com/artist/7hJcb9fa4alzcOq3EaNPoG) | [GRACIAS X TODO](https://open.spotify.com/album/05yVCXvCap5aglKYrDMHx7) | 3:02 | 2026-11-27 |  |
 | [GRIS](https://open.spotify.com/track/1Q9ifKELZUqYAE5LULgZsa) | [RaiNao](https://open.spotify.com/artist/42LEQxfXLEuzdqorKBbUVN) | [GRIS](https://open.spotify.com/album/0vBrh1jsMoziMb0V1hKhXs) | 3:00 | 2026-05-08 |  |
 | [Guitarra](https://open.spotify.com/track/2e030wRlvk7aU21DIGN4kL) | [LATENIGHTJIGGY](https://open.spotify.com/artist/34OTRVwyaE8DkOrGMQa7Ah) | [Guitarra](https://open.spotify.com/album/4jwMD9PMiLkb0tkDnv1cZn) | 2:54 | 2022-03-21 | 2023-08-27 |
 | [Habibi](https://open.spotify.com/track/3vqxapus26imChRaRh51T9) | [JHAYCO](https://open.spotify.com/artist/6nVcHLIgY5pE2YCl8ubca1) | [Le Clique: Vida Rockstar \(X\)](https://open.spotify.com/album/67JIMv9vCB2ukBdEbtUmUG) | 2:46 | 2024-09-06 | 2024-11-30 |

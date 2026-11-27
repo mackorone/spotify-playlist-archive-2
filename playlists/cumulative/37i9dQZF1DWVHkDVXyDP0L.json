@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2024-07-02",
-  "description": "New and local indie noise. Cover: The Cheaks",
+  "description": "New and local indie noise. Cover: COTERIE",
   "name": "Local Noise",
   "tracks": [
     {
@@ -348,6 +348,24 @@
       "duration_ms": 200132,
       "name": "A Good Day",
       "url": "https://open.spotify.com/track/5gq34LCZc9cFd8G9dozu1N"
+    },
+    {
+      "album": {
+        "name": "A Good Man",
+        "url": "https://open.spotify.com/album/3ibdB2ozrMjzr8UznvOrat"
+      },
+      "artists": [
+        {
+          "name": "DC Maxwell",
+          "url": "https://open.spotify.com/artist/4U6MgQ10Ko00pzi76UHNkj"
+        }
+      ],
+      "date_added": "2026-11-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 256502,
+      "name": "A Good Man",
+      "url": "https://open.spotify.com/track/1ahXoArFrvGH7XH7atkBLr"
     },
     {
       "album": {
@@ -1089,6 +1107,24 @@
     },
     {
       "album": {
+        "name": "Angie",
+        "url": "https://open.spotify.com/album/0j0AcgfNQM7ZxYGddqojqu"
+      },
+      "artists": [
+        {
+          "name": "Great Gable",
+          "url": "https://open.spotify.com/artist/1jZfA0AdL9iA5PPLwoVvy1"
+        }
+      ],
+      "date_added": "2026-11-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 181171,
+      "name": "Angie",
+      "url": "https://open.spotify.com/track/240zlJ2Gz8ysA4WZzXtmMZ"
+    },
+    {
+      "album": {
         "name": "End Of The Tunnel",
         "url": "https://open.spotify.com/album/3KXbT5SjH3xa6tILDyXnMn"
       },
@@ -1324,6 +1360,24 @@
       "duration_ms": 179485,
       "name": "Attention",
       "url": "https://open.spotify.com/track/2hywpEEjU5tqMrUPZD0vfi"
+    },
+    {
+      "album": {
+        "name": "Orange Skies",
+        "url": "https://open.spotify.com/album/3ah3bsac2VwBxuxUKhidnp"
+      },
+      "artists": [
+        {
+          "name": "COTERIE",
+          "url": "https://open.spotify.com/artist/0152lAerTxFtfqXBnJi8TY"
+        }
+      ],
+      "date_added": "2026-11-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 199590,
+      "name": "AYO (Let Me Go Home)",
+      "url": "https://open.spotify.com/track/3sAv6ZAYD9eMWzcQndu2Xz"
     },
     {
       "album": {
@@ -1940,7 +1994,7 @@
       ],
       "date_added": "2026-09-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-27",
       "duration_ms": 158918,
       "name": "Big Mouth",
       "url": "https://open.spotify.com/track/2OB8PVvmPDzJ5sFAvMR3Y6"
@@ -2448,7 +2502,7 @@
       ],
       "date_added": "2026-10-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-27",
       "duration_ms": 247613,
       "name": "Bog Bringer",
       "url": "https://open.spotify.com/track/5XBQeMs7J3a0tEqVYl1Up8"
@@ -4966,7 +5020,7 @@
       ],
       "date_added": "2026-09-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-27",
       "duration_ms": 190842,
       "name": "Digital Waltz",
       "url": "https://open.spotify.com/track/7AuM4uDt2lG4BrSsRpQWyo"
@@ -5244,6 +5298,24 @@
       "duration_ms": 161511,
       "name": "Don't Go",
       "url": "https://open.spotify.com/track/73UXAcJFFg7njuZahPub9u"
+    },
+    {
+      "album": {
+        "name": "Don't Know How",
+        "url": "https://open.spotify.com/album/5fIjUfRDUL98dvhc3ESbmq"
+      },
+      "artists": [
+        {
+          "name": "Oblivia Jean",
+          "url": "https://open.spotify.com/artist/0h0J1IsjuTLrWuyC8smYMz"
+        }
+      ],
+      "date_added": "2026-11-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 247091,
+      "name": "Don't Know How",
+      "url": "https://open.spotify.com/track/2imdSa2fcQqn3jxmWLQrKS"
     },
     {
       "album": {
@@ -5626,7 +5698,7 @@
       ],
       "date_added": "2026-09-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-27",
       "duration_ms": 200554,
       "name": "Dweller",
       "url": "https://open.spotify.com/track/5XX9miZM51VqiMUDLb4ssH"
@@ -5914,7 +5986,7 @@
       ],
       "date_added": "2026-09-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-27",
       "duration_ms": 175027,
       "name": "Endless Summer",
       "url": "https://open.spotify.com/track/6OhZELWnssE7ImZHfTXLLL"
@@ -6256,7 +6328,7 @@
       ],
       "date_added": "2026-10-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-27",
       "duration_ms": 188930,
       "name": "Fake Tree",
       "url": "https://open.spotify.com/track/1O6Ee63Z8bfdMZRx4sakcH"
@@ -7272,7 +7344,7 @@
       ],
       "date_added": "2026-10-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-27",
       "duration_ms": 176375,
       "name": "Fun!",
       "url": "https://open.spotify.com/track/2BjDgOYaVX5xdNi8DFV6UW"
@@ -7348,6 +7420,24 @@
       "duration_ms": 152679,
       "name": "GASOLINE",
       "url": "https://open.spotify.com/track/6Gf8eDCBIRdi6FWNUZYJs4"
+    },
+    {
+      "album": {
+        "name": "Get a Rise",
+        "url": "https://open.spotify.com/album/06zx5aS6w5hFfYwWfK4pj3"
+      },
+      "artists": [
+        {
+          "name": "Dopamine",
+          "url": "https://open.spotify.com/artist/26HBq6EeiEPfTkfHm24j1l"
+        }
+      ],
+      "date_added": "2026-11-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 147534,
+      "name": "Get a Rise",
+      "url": "https://open.spotify.com/track/2KXrKd2DB7hepFImjqpckQ"
     },
     {
       "album": {
@@ -7434,7 +7524,7 @@
       ],
       "date_added": "2026-10-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-27",
       "duration_ms": 213870,
       "name": "GETTING SOBER",
       "url": "https://open.spotify.com/track/6neDu07rhZGN2Sh1ghKDnb"
@@ -7452,7 +7542,7 @@
       ],
       "date_added": "2026-09-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-27",
       "duration_ms": 146746,
       "name": "Gettin\u2019 Down",
       "url": "https://open.spotify.com/track/04BBZ3w0c3DnmX5pnFppOe"
@@ -9208,7 +9298,7 @@
       ],
       "date_added": "2026-10-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-27",
       "duration_ms": 143038,
       "name": "i can't hear you",
       "url": "https://open.spotify.com/track/3TeY2SMDW7cRjL1sj9omMi"
@@ -9377,6 +9467,24 @@
     },
     {
       "album": {
+        "name": "I Need Your Connection",
+        "url": "https://open.spotify.com/album/6EXUFuDnlopKyDk1vfkvQ5"
+      },
+      "artists": [
+        {
+          "name": "EGOISM",
+          "url": "https://open.spotify.com/artist/6bTkIQfvR8nlRCHLAvbfOD"
+        }
+      ],
+      "date_added": "2026-11-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 237944,
+      "name": "I Need Your Connection",
+      "url": "https://open.spotify.com/track/59qourBUJmUNiG7n4YLfyG"
+    },
+    {
+      "album": {
         "name": "I Only Trust Rock n Roll",
         "url": "https://open.spotify.com/album/4J286a65RzW5W8JUZiP4MO"
       },
@@ -9486,6 +9594,24 @@
       "duration_ms": 190633,
       "name": "I'll Do Fine",
       "url": "https://open.spotify.com/track/2MsKw1OgPR2pUvOdk5Do9K"
+    },
+    {
+      "album": {
+        "name": "I\u2019m Here, You\u2019re Gone",
+        "url": "https://open.spotify.com/album/4Upf73Yj2am6ETSgn0jVtm"
+      },
+      "artists": [
+        {
+          "name": "Polly",
+          "url": "https://open.spotify.com/artist/35oynIp89cQF1qjOZTRWkq"
+        }
+      ],
+      "date_added": "2026-11-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 165891,
+      "name": "I'm Here, You're Gone",
+      "url": "https://open.spotify.com/track/0iLnBP5f8qA7TcHKAMYLoy"
     },
     {
       "album": {
@@ -10138,6 +10264,24 @@
       "duration_ms": 166312,
       "name": "I\u2019m Sure You\u2019ve Heard",
       "url": "https://open.spotify.com/track/0Pi1tFmFEwxGFNQYjNLjjd"
+    },
+    {
+      "album": {
+        "name": "Jackie",
+        "url": "https://open.spotify.com/album/44lP25FtBS1L1gJGmunyIR"
+      },
+      "artists": [
+        {
+          "name": "Salarymen",
+          "url": "https://open.spotify.com/artist/6CoqrYYldBGO37bHBr9rCM"
+        }
+      ],
+      "date_added": "2026-11-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 215246,
+      "name": "Jackie",
+      "url": "https://open.spotify.com/track/01JPAo9kkbBoB77jljiAtl"
     },
     {
       "album": {
@@ -11115,6 +11259,24 @@
     },
     {
       "album": {
+        "name": "Like This",
+        "url": "https://open.spotify.com/album/2e0AxYGLYL64xoddTLvv04"
+      },
+      "artists": [
+        {
+          "name": "lahgo",
+          "url": "https://open.spotify.com/artist/0a54VvQLtAxcXeFh5nMlyB"
+        }
+      ],
+      "date_added": "2026-11-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 169577,
+      "name": "Like This",
+      "url": "https://open.spotify.com/track/7o1P9ZeJmaOCjA2Z6Ncmnd"
+    },
+    {
+      "album": {
         "name": "Limbo",
         "url": "https://open.spotify.com/album/1SbLznptLEYrOcvzEPJOTT"
       },
@@ -11130,6 +11292,24 @@
       "duration_ms": 275984,
       "name": "Limbo",
       "url": "https://open.spotify.com/track/7HH6i9ogvRx1dV8rdkQ40q"
+    },
+    {
+      "album": {
+        "name": "Limousine",
+        "url": "https://open.spotify.com/album/3b7o227uFCzAqnOA7O2I8S"
+      },
+      "artists": [
+        {
+          "name": "Jaguar Jonze",
+          "url": "https://open.spotify.com/artist/0QClnkSUCnc9chv8MLyTaR"
+        }
+      ],
+      "date_added": "2026-11-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 190477,
+      "name": "Limousine",
+      "url": "https://open.spotify.com/track/1CCPS1q9oaRJyvscu7bGjJ"
     },
     {
       "album": {
@@ -14072,7 +14252,7 @@
       ],
       "date_added": "2026-10-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-27",
       "duration_ms": 211668,
       "name": "Overshare",
       "url": "https://open.spotify.com/track/6FTKVNwnul5ErRl7rPe1uA"
@@ -15690,6 +15870,24 @@
       "duration_ms": 163375,
       "name": "Ride To The Station",
       "url": "https://open.spotify.com/track/1zB8ZBkHzSrRyha8inUbpw"
+    },
+    {
+      "album": {
+        "name": "Ritual",
+        "url": "https://open.spotify.com/album/2T2dQyEynsS4pO3Ulveffc"
+      },
+      "artists": [
+        {
+          "name": "Daffodils",
+          "url": "https://open.spotify.com/artist/7rd77Dy0EZx6577VFjK13T"
+        }
+      ],
+      "date_added": "2026-11-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 229080,
+      "name": "Ritual",
+      "url": "https://open.spotify.com/track/7FWVFIICIFvRDpopJYfjPc"
     },
     {
       "album": {
@@ -18183,6 +18381,24 @@
     },
     {
       "album": {
+        "name": "Stole My Heart",
+        "url": "https://open.spotify.com/album/5IRO8QDW1a1XVybUHa4iIw"
+      },
+      "artists": [
+        {
+          "name": "Tim Minchin",
+          "url": "https://open.spotify.com/artist/4adgHnoK84DgtLot2jxrp2"
+        }
+      ],
+      "date_added": "2026-11-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 153159,
+      "name": "Stole My Heart",
+      "url": "https://open.spotify.com/track/76dZlw6UP4oah97hHpAz8g"
+    },
+    {
+      "album": {
         "name": "Stop Destroying the Things You Love",
         "url": "https://open.spotify.com/album/6AuiciZnUYqDD5AbOaJjJc"
       },
@@ -19492,7 +19708,7 @@
       ],
       "date_added": "2026-09-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-27",
       "duration_ms": 202572,
       "name": "The Fast Lane",
       "url": "https://open.spotify.com/track/76I538wCQ4uN8ESaAAWCF3"
@@ -19712,6 +19928,24 @@
       "duration_ms": 219863,
       "name": "The Mouse",
       "url": "https://open.spotify.com/track/3i2rjBcpRDhDESxfq5sYh1"
+    },
+    {
+      "album": {
+        "name": "The New Me Starts Tomorrow",
+        "url": "https://open.spotify.com/album/2UXk2k1W7N0MOezYxl1Hp5"
+      },
+      "artists": [
+        {
+          "name": "Ball Park Music",
+          "url": "https://open.spotify.com/artist/1ououJVWgWsHWMYDLvT7sH"
+        }
+      ],
+      "date_added": "2026-11-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 160557,
+      "name": "The New Me Starts Tomorrow",
+      "url": "https://open.spotify.com/track/63KC9BgSlDFk5RmfoMGNHB"
     },
     {
       "album": {
@@ -22026,7 +22260,7 @@
       ],
       "date_added": "2026-09-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-27",
       "duration_ms": 183808,
       "name": "Writing's on the Wall",
       "url": "https://open.spotify.com/track/403zsZipYJ2eeG9V2TidRz"

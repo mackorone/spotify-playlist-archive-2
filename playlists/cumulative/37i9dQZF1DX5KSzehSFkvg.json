@@ -1433,6 +1433,24 @@
     },
     {
       "album": {
+        "name": "FORAS",
+        "url": "https://open.spotify.com/album/0DvwAM1ehhlLSaANGCVCS5"
+      },
+      "artists": [
+        {
+          "name": "Manal",
+          "url": "https://open.spotify.com/artist/7yK3vix9XmeNwPDmjGs78F"
+        }
+      ],
+      "date_added": "2026-11-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 172356,
+      "name": "FORAS",
+      "url": "https://open.spotify.com/track/1349sJ9c4sT6KBgUqZiK6S"
+    },
+    {
+      "album": {
         "name": "Galbi Khtarek - Orange Music Talents",
         "url": "https://open.spotify.com/album/5DJlKLM1jVxc6jYmwOYkYg"
       },
@@ -4014,7 +4032,7 @@
       ],
       "date_added": "2025-06-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-27",
       "duration_ms": 168894,
       "name": "YA BABA",
       "url": "https://open.spotify.com/track/48l6xps5kWSsxtYdXHgz0Y"

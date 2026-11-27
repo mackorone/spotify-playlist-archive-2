@@ -1,6 +1,6 @@
 {
   "description": "A melhor trilha sonora pra se preparar pros dias mais quentes do ano!",
-  "num_followers": 1017347,
+  "num_followers": 1017262,
   "original_name": "Projeto Ver\u00e3o",
   "owner": {
     "name": "Spotify",
@@ -307,26 +307,6 @@
     {
       "added_at": "2026-07-24 17:31:08",
       "album": {
-        "name": "Something Just Like This",
-        "url": "https://open.spotify.com/album/7IzpJkWQqgz1BTutQvSitX"
-      },
-      "artists": [
-        {
-          "name": "The Chainsmokers",
-          "url": "https://open.spotify.com/artist/69GGBxA162lTqCwzJG5jLp"
-        },
-        {
-          "name": "Coldplay",
-          "url": "https://open.spotify.com/artist/4gzpq5DPGxSnKTe4SA8HAU"
-        }
-      ],
-      "duration_ms": 247626,
-      "name": "Something Just Like This",
-      "url": "https://open.spotify.com/track/1dNIEtp7AY3oDAKCGg2XkH"
-    },
-    {
-      "added_at": "2026-07-24 17:31:08",
-      "album": {
         "name": "Nothing Breaks Like a Heart (feat. Miley Cyrus)",
         "url": "https://open.spotify.com/album/2hBfao8GWZwHlUGDB8HVQO"
       },
@@ -343,6 +323,26 @@
       "duration_ms": 217466,
       "name": "Nothing Breaks Like a Heart (feat. Miley Cyrus)",
       "url": "https://open.spotify.com/track/27rdGxbavYJeBphck5MZAF"
+    },
+    {
+      "added_at": "2026-07-24 17:31:08",
+      "album": {
+        "name": "Something Just Like This",
+        "url": "https://open.spotify.com/album/7IzpJkWQqgz1BTutQvSitX"
+      },
+      "artists": [
+        {
+          "name": "The Chainsmokers",
+          "url": "https://open.spotify.com/artist/69GGBxA162lTqCwzJG5jLp"
+        },
+        {
+          "name": "Coldplay",
+          "url": "https://open.spotify.com/artist/4gzpq5DPGxSnKTe4SA8HAU"
+        }
+      ],
+      "duration_ms": 247626,
+      "name": "Something Just Like This",
+      "url": "https://open.spotify.com/track/1dNIEtp7AY3oDAKCGg2XkH"
     },
     {
       "added_at": "2026-07-24 17:31:08",
@@ -787,26 +787,26 @@
     {
       "added_at": "2026-07-24 17:31:08",
       "album": {
-        "name": "Better When You're Gone",
-        "url": "https://open.spotify.com/album/4ZoXNDicq0MrsGk1pM883o"
+        "name": "Whenever (feat. Conor Maynard)",
+        "url": "https://open.spotify.com/album/5so9rCf7p2L6w6o4KZahE9"
       },
       "artists": [
         {
-          "name": "David Guetta",
-          "url": "https://open.spotify.com/artist/1Cs0zKBU1kc0i8ypK3B9ai"
+          "name": "Kris Kross Amsterdam",
+          "url": "https://open.spotify.com/artist/4LcUpNlXFEleaLlelmkv2R"
         },
         {
-          "name": "Brooks",
-          "url": "https://open.spotify.com/artist/4mHAu7NX2UNsnGXjviBD9e"
+          "name": "The Boy Next Door",
+          "url": "https://open.spotify.com/artist/4QfOh8rJ0OddhhXHD5QyWs"
         },
         {
-          "name": "Loote",
-          "url": "https://open.spotify.com/artist/00TKPo9MxwZ0j4ooveIxWZ"
+          "name": "Conor Maynard",
+          "url": "https://open.spotify.com/artist/6mU8ucezzms5I2kNH6HNlu"
         }
       ],
-      "duration_ms": 192402,
-      "name": "Better When You're Gone",
-      "url": "https://open.spotify.com/track/4Tvw0lweq9l2JPQKFbpbBQ"
+      "duration_ms": 163636,
+      "name": "Whenever (feat. Conor Maynard)",
+      "url": "https://open.spotify.com/track/3DGar7krWlmrXRFHBcQF6z"
     },
     {
       "added_at": "2026-07-24 17:31:08",
@@ -839,26 +839,26 @@
     {
       "added_at": "2026-07-24 17:31:08",
       "album": {
-        "name": "Whenever (feat. Conor Maynard)",
-        "url": "https://open.spotify.com/album/5so9rCf7p2L6w6o4KZahE9"
+        "name": "Better When You're Gone",
+        "url": "https://open.spotify.com/album/4ZoXNDicq0MrsGk1pM883o"
       },
       "artists": [
         {
-          "name": "Kris Kross Amsterdam",
-          "url": "https://open.spotify.com/artist/4LcUpNlXFEleaLlelmkv2R"
+          "name": "David Guetta",
+          "url": "https://open.spotify.com/artist/1Cs0zKBU1kc0i8ypK3B9ai"
         },
         {
-          "name": "The Boy Next Door",
-          "url": "https://open.spotify.com/artist/4QfOh8rJ0OddhhXHD5QyWs"
+          "name": "Brooks",
+          "url": "https://open.spotify.com/artist/4mHAu7NX2UNsnGXjviBD9e"
         },
         {
-          "name": "Conor Maynard",
-          "url": "https://open.spotify.com/artist/6mU8ucezzms5I2kNH6HNlu"
+          "name": "Loote",
+          "url": "https://open.spotify.com/artist/00TKPo9MxwZ0j4ooveIxWZ"
         }
       ],
-      "duration_ms": 163636,
-      "name": "Whenever (feat. Conor Maynard)",
-      "url": "https://open.spotify.com/track/3DGar7krWlmrXRFHBcQF6z"
+      "duration_ms": 192402,
+      "name": "Better When You're Gone",
+      "url": "https://open.spotify.com/track/4Tvw0lweq9l2JPQKFbpbBQ"
     },
     {
       "added_at": "2026-07-24 17:31:08",
@@ -1083,26 +1083,6 @@
     {
       "added_at": "2026-07-24 17:31:08",
       "album": {
-        "name": "Sun Comes Up (feat. James Arthur)",
-        "url": "https://open.spotify.com/album/5UGyzp6HT8oy0eTkBfxtQ8"
-      },
-      "artists": [
-        {
-          "name": "Rudimental",
-          "url": "https://open.spotify.com/artist/4WN5naL3ofxrVBgFpguzKo"
-        },
-        {
-          "name": "James Arthur",
-          "url": "https://open.spotify.com/artist/4IWBUUAFIplrNtaOHcJPRM"
-        }
-      ],
-      "duration_ms": 232627,
-      "name": "Sun Comes Up (feat. James Arthur)",
-      "url": "https://open.spotify.com/track/6SUocL0caib4mLHe8ZrZzi"
-    },
-    {
-      "added_at": "2026-07-24 17:31:08",
-      "album": {
         "name": "Brother Louie",
         "url": "https://open.spotify.com/album/7sXd9MLEYPHUvQJzIdhSBV"
       },
@@ -1127,6 +1107,26 @@
       "duration_ms": 172459,
       "name": "Brother Louie",
       "url": "https://open.spotify.com/track/1rIIZijH9LIMqtdY5x9Ebe"
+    },
+    {
+      "added_at": "2026-07-24 17:31:08",
+      "album": {
+        "name": "Sun Comes Up (feat. James Arthur)",
+        "url": "https://open.spotify.com/album/5UGyzp6HT8oy0eTkBfxtQ8"
+      },
+      "artists": [
+        {
+          "name": "Rudimental",
+          "url": "https://open.spotify.com/artist/4WN5naL3ofxrVBgFpguzKo"
+        },
+        {
+          "name": "James Arthur",
+          "url": "https://open.spotify.com/artist/4IWBUUAFIplrNtaOHcJPRM"
+        }
+      ],
+      "duration_ms": 232627,
+      "name": "Sun Comes Up (feat. James Arthur)",
+      "url": "https://open.spotify.com/track/6SUocL0caib4mLHe8ZrZzi"
     },
     {
       "added_at": "2026-07-24 17:31:08",

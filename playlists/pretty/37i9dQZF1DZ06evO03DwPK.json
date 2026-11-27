@@ -1,12 +1,12 @@
 {
   "description": "This is Bruno Mars. The essential tracks, all in one playlist.",
-  "num_followers": 4354696,
+  "num_followers": 4354669,
   "original_name": "This Is Bruno Mars",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "awOCAAAAAABJFGOTN8sMlcYU4kkBA+iO",
+  "snapshot_id": "awYlAAAAAAB0LNsusx8H6LYcb/z4YdYm",
   "tracks": [
     {
       "added_at": null,
@@ -783,22 +783,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "Frequency Of Love",
-        "url": "https://open.spotify.com/album/6uKjWjH2r2fsgfKaIsaYWw"
+        "name": "The Grenade Sessions",
+        "url": "https://open.spotify.com/album/54DNHFsfCa7nlQFWXMg7y3"
       },
       "artists": [
-        {
-          "name": "Victoria Mon\u00e9t",
-          "url": "https://open.spotify.com/artist/63XBtGSEZINSyXylZxEUbv"
-        },
         {
           "name": "Bruno Mars",
           "url": "https://open.spotify.com/artist/0du5cEVh5yTK9QJze8zA0C"
         }
       ],
-      "duration_ms": 278629,
-      "name": "That's Why I Love You (feat. Bruno Mars)",
-      "url": "https://open.spotify.com/track/4vsJcyJ3hbCaSx2GCkAtRq"
+      "duration_ms": 210606,
+      "name": "Catch a Grenade - The Hooligans Remix",
+      "url": "https://open.spotify.com/track/1EOWf8bsePF6QtiDUAclrJ"
     },
     {
       "added_at": null,
@@ -827,18 +823,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "The Grenade Sessions",
-        "url": "https://open.spotify.com/album/54DNHFsfCa7nlQFWXMg7y3"
+        "name": "Frequency Of Love",
+        "url": "https://open.spotify.com/album/6uKjWjH2r2fsgfKaIsaYWw"
       },
       "artists": [
+        {
+          "name": "Victoria Mon\u00e9t",
+          "url": "https://open.spotify.com/artist/63XBtGSEZINSyXylZxEUbv"
+        },
         {
           "name": "Bruno Mars",
           "url": "https://open.spotify.com/artist/0du5cEVh5yTK9QJze8zA0C"
         }
       ],
-      "duration_ms": 210606,
-      "name": "Catch a Grenade - The Hooligans Remix",
-      "url": "https://open.spotify.com/track/1EOWf8bsePF6QtiDUAclrJ"
+      "duration_ms": 278629,
+      "name": "That's Why I Love You (feat. Bruno Mars)",
+      "url": "https://open.spotify.com/track/4vsJcyJ3hbCaSx2GCkAtRq"
     },
     {
       "added_at": null,

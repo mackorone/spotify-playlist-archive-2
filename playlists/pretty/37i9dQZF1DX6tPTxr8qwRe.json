@@ -1,13 +1,45 @@
 {
-  "description": "sweet. sharp. unbothered - Ari Abdul on the cover",
-  "num_followers": 522409,
+  "description": "sweet. sharp. unbothered - Ella Boh on the cover",
+  "num_followers": 522419,
   "original_name": "SALT",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAGLN/N0Knkr4iccC2lBXW9/14Uuh",
+  "snapshot_id": "AAAAAH0EzmuqjBTPt8FeulMFqORQEraq",
   "tracks": [
+    {
+      "added_at": "2026-11-27 05:01:03",
+      "album": {
+        "name": "warning label",
+        "url": "https://open.spotify.com/album/5f6TZToQ8D8wBQMxabppQ9"
+      },
+      "artists": [
+        {
+          "name": "Ella Boh",
+          "url": "https://open.spotify.com/artist/3UWNE3idxa2v2TMzrBRX11"
+        }
+      ],
+      "duration_ms": 224219,
+      "name": "warning label",
+      "url": "https://open.spotify.com/track/05eDNzVwTqvy9sj0XqQvTb"
+    },
+    {
+      "added_at": "2026-11-27 05:01:03",
+      "album": {
+        "name": "Temple",
+        "url": "https://open.spotify.com/album/2xc2a8tj8mVUXEx6VZw4i8"
+      },
+      "artists": [
+        {
+          "name": "\u016ala",
+          "url": "https://open.spotify.com/artist/47NHOjhVH9I5BO31wxwpt8"
+        }
+      ],
+      "duration_ms": 169000,
+      "name": "Temple",
+      "url": "https://open.spotify.com/track/4zDph35RBBaPJ3myqOFxee"
+    },
     {
       "added_at": "2026-11-13 05:02:07",
       "album": {
@@ -41,20 +73,20 @@
       "url": "https://open.spotify.com/track/5u74bjEr8UeSVFcBAcYGtP"
     },
     {
-      "added_at": "2026-11-24 20:41:09",
+      "added_at": "2026-11-27 05:01:03",
       "album": {
-        "name": "i want 2",
-        "url": "https://open.spotify.com/album/45fp1rYGmyf9VLFewyUCp4"
+        "name": "LANDLOCKED",
+        "url": "https://open.spotify.com/album/3qWAvJPexR5lCrBTl9tUPf"
       },
       "artists": [
         {
-          "name": "Babe Dylan",
-          "url": "https://open.spotify.com/artist/0xd16ai4mtpBCnoaAHCw1a"
+          "name": "Sahati",
+          "url": "https://open.spotify.com/artist/3PGzj3O66abGPzQNmKELCf"
         }
       ],
-      "duration_ms": 171074,
-      "name": "i want 2",
-      "url": "https://open.spotify.com/track/7kzhuIArFYBZqHv2yy5aHA"
+      "duration_ms": 143398,
+      "name": "LANDLOCKED",
+      "url": "https://open.spotify.com/track/1oBmswZYhBUObV4toaFHl8"
     },
     {
       "added_at": "2026-11-21 17:33:13",
@@ -89,6 +121,22 @@
       "url": "https://open.spotify.com/track/4brpx6ZUKRDaEJZvbbBMl8"
     },
     {
+      "added_at": "2026-10-30 04:00:40",
+      "album": {
+        "name": "OBSESSION",
+        "url": "https://open.spotify.com/album/5Btjb9tqDyQ8vUHQgfLdM0"
+      },
+      "artists": [
+        {
+          "name": "Lambb",
+          "url": "https://open.spotify.com/artist/6mzQRecVBUMepkVGAhn6io"
+        }
+      ],
+      "duration_ms": 162061,
+      "name": "OBSESSION",
+      "url": "https://open.spotify.com/track/4MzNxQ4gWJjRRGvbA2vaV6"
+    },
+    {
       "added_at": "2026-11-21 17:33:13",
       "album": {
         "name": "Steps (Soundtrack from the Netflix Film)",
@@ -105,20 +153,36 @@
       "url": "https://open.spotify.com/track/0IKeyxXtkLIYBNMOM4cO0n"
     },
     {
-      "added_at": "2026-10-30 04:00:40",
+      "added_at": "2026-11-27 05:01:03",
       "album": {
-        "name": "OBSESSION",
-        "url": "https://open.spotify.com/album/5Btjb9tqDyQ8vUHQgfLdM0"
+        "name": "FANGIRL",
+        "url": "https://open.spotify.com/album/5ELiPf4pOYHcfHMVIUYziL"
       },
       "artists": [
         {
-          "name": "Lambb",
-          "url": "https://open.spotify.com/artist/6mzQRecVBUMepkVGAhn6io"
+          "name": "PUNCHBAG",
+          "url": "https://open.spotify.com/artist/4cIkY1R6unpsnIdkLfOTFf"
         }
       ],
-      "duration_ms": 162061,
-      "name": "OBSESSION",
-      "url": "https://open.spotify.com/track/4MzNxQ4gWJjRRGvbA2vaV6"
+      "duration_ms": 205365,
+      "name": "FANGIRL",
+      "url": "https://open.spotify.com/track/62qaIXXQpfWwFmWPgxucEU"
+    },
+    {
+      "added_at": "2026-11-24 20:41:09",
+      "album": {
+        "name": "i want 2",
+        "url": "https://open.spotify.com/album/45fp1rYGmyf9VLFewyUCp4"
+      },
+      "artists": [
+        {
+          "name": "Babe Dylan",
+          "url": "https://open.spotify.com/artist/0xd16ai4mtpBCnoaAHCw1a"
+        }
+      ],
+      "duration_ms": 171074,
+      "name": "i want 2",
+      "url": "https://open.spotify.com/track/7kzhuIArFYBZqHv2yy5aHA"
     },
     {
       "added_at": "2026-11-13 05:02:07",
@@ -139,22 +203,6 @@
     {
       "added_at": "2026-11-13 05:02:07",
       "album": {
-        "name": "bark bark bark",
-        "url": "https://open.spotify.com/album/0PindUKbZh2ZFkgILpvTH6"
-      },
-      "artists": [
-        {
-          "name": "aLex vs aLex",
-          "url": "https://open.spotify.com/artist/5faWaRmwlvIin04bFM0tfM"
-        }
-      ],
-      "duration_ms": 146114,
-      "name": "bark bark bark",
-      "url": "https://open.spotify.com/track/6Ik4yw27YQfVhhTt1tOtmV"
-    },
-    {
-      "added_at": "2026-11-13 05:02:07",
-      "album": {
         "name": "FREAK",
         "url": "https://open.spotify.com/album/3jCxIYajeiZhOGPswUeqYy"
       },
@@ -167,6 +215,22 @@
       "duration_ms": 197454,
       "name": "FREAK",
       "url": "https://open.spotify.com/track/4NAJMC4ztvXmJwYbIoOOa0"
+    },
+    {
+      "added_at": "2026-11-13 05:02:07",
+      "album": {
+        "name": "bark bark bark",
+        "url": "https://open.spotify.com/album/0PindUKbZh2ZFkgILpvTH6"
+      },
+      "artists": [
+        {
+          "name": "aLex vs aLex",
+          "url": "https://open.spotify.com/artist/5faWaRmwlvIin04bFM0tfM"
+        }
+      ],
+      "duration_ms": 146114,
+      "name": "bark bark bark",
+      "url": "https://open.spotify.com/track/6Ik4yw27YQfVhhTt1tOtmV"
     },
     {
       "added_at": "2026-10-30 04:00:40",
@@ -199,6 +263,38 @@
       "duration_ms": 174626,
       "name": "I BELIEVE IN GHOSTS",
       "url": "https://open.spotify.com/track/4HMSZp8GPo07JE1OgMR92G"
+    },
+    {
+      "added_at": "2026-08-07 04:00:34",
+      "album": {
+        "name": "drunk enough",
+        "url": "https://open.spotify.com/album/5mgOs6BgA2ZsyfbULPfUOW"
+      },
+      "artists": [
+        {
+          "name": "Bea Miller",
+          "url": "https://open.spotify.com/artist/1o2NpYGqHiCq7FoiYdyd1x"
+        }
+      ],
+      "duration_ms": 204689,
+      "name": "drunk enough",
+      "url": "https://open.spotify.com/track/4u79u9PEua1NM34DzptsbP"
+    },
+    {
+      "added_at": "2026-07-24 04:02:38",
+      "album": {
+        "name": "Baby Girl",
+        "url": "https://open.spotify.com/album/1cQrCUTt0apJXgpgTCGiwU"
+      },
+      "artists": [
+        {
+          "name": "Chloe Qisha",
+          "url": "https://open.spotify.com/artist/1WNmfSqydnt1FDJKg3l6lw"
+        }
+      ],
+      "duration_ms": 177225,
+      "name": "Baby Girl",
+      "url": "https://open.spotify.com/track/3tlp0uCJYzXztr2vIZ19Lv"
     },
     {
       "added_at": "2026-10-17 19:55:54",
@@ -741,42 +837,6 @@
       "url": "https://open.spotify.com/track/5Jtt9ek05ptNlGI0n2Qhty"
     },
     {
-      "added_at": "2026-09-21 19:52:24",
-      "album": {
-        "name": "Changing Times",
-        "url": "https://open.spotify.com/album/5ktczUr70zlsrwPYOaoa1Z"
-      },
-      "artists": [
-        {
-          "name": "Lenii",
-          "url": "https://open.spotify.com/artist/63X5yxHWDkAl13ZIOWHV94"
-        }
-      ],
-      "duration_ms": 219555,
-      "name": "Changing Times",
-      "url": "https://open.spotify.com/track/6Oxpm6WGkdWHrojl3NmJqj"
-    },
-    {
-      "added_at": "2026-09-18 04:09:00",
-      "album": {
-        "name": "delusional darling (ft. Ella Red)",
-        "url": "https://open.spotify.com/album/3feEOM2rh8zbAdM4xB0wE0"
-      },
-      "artists": [
-        {
-          "name": "L\u00d8L\u00d8",
-          "url": "https://open.spotify.com/artist/5MjcGshMggPgIHinIUDaX0"
-        },
-        {
-          "name": "Ella Red",
-          "url": "https://open.spotify.com/artist/1hH4ajSTZKIBhwRymnZi5R"
-        }
-      ],
-      "duration_ms": 190154,
-      "name": "delusional darling (ft. Ella Red)",
-      "url": "https://open.spotify.com/track/4PhwBlT0m3gPbp2SQZ9rPI"
-    },
-    {
       "added_at": "2026-09-11 04:01:36",
       "album": {
         "name": "GIRL IS A GUN",
@@ -793,22 +853,6 @@
       "url": "https://open.spotify.com/track/6WyV54hJy2cDTG0TUYzKcL"
     },
     {
-      "added_at": "2026-09-11 04:01:36",
-      "album": {
-        "name": "kingpin",
-        "url": "https://open.spotify.com/album/7bxoNBTW1gQTx1POK4pgZb"
-      },
-      "artists": [
-        {
-          "name": "renforshort",
-          "url": "https://open.spotify.com/artist/3GYvf7puxwkr51EYoD9E7D"
-        }
-      ],
-      "duration_ms": 158546,
-      "name": "kingpin",
-      "url": "https://open.spotify.com/track/3n3KrqgcOGy8Zr3yaOotex"
-    },
-    {
       "added_at": "2026-08-28 04:22:45",
       "album": {
         "name": "Hell's Belles",
@@ -823,54 +867,6 @@
       "duration_ms": 163133,
       "name": "Miss Misunderstood",
       "url": "https://open.spotify.com/track/2tzCRiOiHRhp6q5LwfVHDI"
-    },
-    {
-      "added_at": "2026-08-14 04:00:14",
-      "album": {
-        "name": "Science",
-        "url": "https://open.spotify.com/album/4uZ9ILuVr2w2vVx4HtgW5n"
-      },
-      "artists": [
-        {
-          "name": "James the Seventh",
-          "url": "https://open.spotify.com/artist/5faD9JxapMgSQjrFSZ2kSS"
-        }
-      ],
-      "duration_ms": 153497,
-      "name": "Race Car Driver",
-      "url": "https://open.spotify.com/track/7j9wdLhis4MYplephHszTI"
-    },
-    {
-      "added_at": "2026-08-07 04:00:34",
-      "album": {
-        "name": "drunk enough",
-        "url": "https://open.spotify.com/album/5mgOs6BgA2ZsyfbULPfUOW"
-      },
-      "artists": [
-        {
-          "name": "Bea Miller",
-          "url": "https://open.spotify.com/artist/1o2NpYGqHiCq7FoiYdyd1x"
-        }
-      ],
-      "duration_ms": 204689,
-      "name": "drunk enough",
-      "url": "https://open.spotify.com/track/4u79u9PEua1NM34DzptsbP"
-    },
-    {
-      "added_at": "2026-07-24 04:02:38",
-      "album": {
-        "name": "Baby Girl",
-        "url": "https://open.spotify.com/album/1cQrCUTt0apJXgpgTCGiwU"
-      },
-      "artists": [
-        {
-          "name": "Chloe Qisha",
-          "url": "https://open.spotify.com/artist/1WNmfSqydnt1FDJKg3l6lw"
-        }
-      ],
-      "duration_ms": 177225,
-      "name": "Baby Girl",
-      "url": "https://open.spotify.com/track/3tlp0uCJYzXztr2vIZ19Lv"
     }
   ],
   "unique_name": "SALT",

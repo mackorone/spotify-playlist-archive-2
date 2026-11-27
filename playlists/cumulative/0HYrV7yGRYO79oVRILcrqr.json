@@ -12163,6 +12163,24 @@
     },
     {
       "album": {
+        "name": "Say",
+        "url": "https://open.spotify.com/album/1XF7h9nwdGajy4cav9IHEz"
+      },
+      "artists": [
+        {
+          "name": "Resident Hero",
+          "url": "https://open.spotify.com/artist/6ov0ZOdwUGfWOPPP1DhfzY"
+        }
+      ],
+      "date_added": "2026-11-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 230759,
+      "name": "Say",
+      "url": "https://open.spotify.com/track/3LykhB2OEWnRVhOg0TfhI6"
+    },
+    {
+      "album": {
         "name": "Scared of Okay",
         "url": "https://open.spotify.com/album/3QByuDDlt1E7u2UwfpgbzB"
       },

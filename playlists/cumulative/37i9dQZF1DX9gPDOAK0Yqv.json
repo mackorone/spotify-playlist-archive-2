@@ -3767,6 +3767,32 @@
     },
     {
       "album": {
+        "name": "Darkness",
+        "url": "https://open.spotify.com/album/2XfD6pXht0eq5N552mScJk"
+      },
+      "artists": [
+        {
+          "name": "Joris Voorn",
+          "url": "https://open.spotify.com/artist/4jGpKAmwvU263l0tUh4xKU"
+        },
+        {
+          "name": "METODI",
+          "url": "https://open.spotify.com/artist/7MFugZiuQp41w92SA0zsG1"
+        },
+        {
+          "name": "Mari Ferrari",
+          "url": "https://open.spotify.com/artist/6WEmnL6VvRN4QKUqq9dZHs"
+        }
+      ],
+      "date_added": "2026-11-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 127442,
+      "name": "Darkness",
+      "url": "https://open.spotify.com/track/63weYp2JAARDdNh8cbO2Ts"
+    },
+    {
+      "album": {
         "name": "Dawn Beyond",
         "url": "https://open.spotify.com/album/0ONHjTZfUAt99kjcLbixcl"
       },
@@ -4528,7 +4554,7 @@
       ],
       "date_added": "2024-01-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-27",
       "duration_ms": 236975,
       "name": "Downfall",
       "url": "https://open.spotify.com/track/08fB9YSYCxiIexuoQJc3Jj"
@@ -9442,7 +9468,7 @@
       ],
       "date_added": "2025-01-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-27",
       "duration_ms": 205687,
       "name": "Kick It - Andrea Botez Remix",
       "url": "https://open.spotify.com/track/1CbZd4FBm8Insquq3HGTGP"
@@ -12210,6 +12236,24 @@
       "duration_ms": 190371,
       "name": "Neverland (From Japan)",
       "url": "https://open.spotify.com/track/4GkGjg7uYvqcZvkTV4rrnu"
+    },
+    {
+      "album": {
+        "name": "New Era",
+        "url": "https://open.spotify.com/album/3O7ux9Uwy1LN4TBabtyPpz"
+      },
+      "artists": [
+        {
+          "name": "VAPA",
+          "url": "https://open.spotify.com/artist/6RgqlEYDVX9kAnsujuG7H7"
+        }
+      ],
+      "date_added": "2026-11-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 194686,
+      "name": "New Era",
+      "url": "https://open.spotify.com/track/4peRi9Evk3GeeVdG7i6qqf"
     },
     {
       "album": {

@@ -4427,6 +4427,24 @@
     },
     {
       "album": {
+        "name": "Dreadful Existence",
+        "url": "https://open.spotify.com/album/5UfoMkAxOX5vpCp4LxlmRj"
+      },
+      "artists": [
+        {
+          "name": "Brainsucker",
+          "url": "https://open.spotify.com/artist/5Cce8mnO0yDQKnGnHUKS2w"
+        }
+      ],
+      "date_added": "2026-11-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 158527,
+      "name": "Dreadful Existence",
+      "url": "https://open.spotify.com/track/5hWnLWS0la6UxNn5EnJ1wr"
+    },
+    {
+      "album": {
         "name": "Absolvere",
         "url": "https://open.spotify.com/album/2nDh1tZjYv2W63a27pSqRx"
       },
@@ -8806,7 +8824,7 @@
       ],
       "date_added": "2026-07-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-27",
       "duration_ms": 171066,
       "name": "Low Slam Low",
       "url": "https://open.spotify.com/track/3UZhfWn5NCz6afOVtSgNG9"

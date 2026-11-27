@@ -53,6 +53,28 @@
     },
     {
       "album": {
+        "name": "Rachmaninoff",
+        "url": "https://open.spotify.com/album/6gjHmvCsR1wEzIqELF0AUc"
+      },
+      "artists": [
+        {
+          "name": "Sergei Rachmaninoff",
+          "url": "https://open.spotify.com/artist/0Kekt6CKSo0m5mivKcoH51"
+        },
+        {
+          "name": "Mao Fujita",
+          "url": "https://open.spotify.com/artist/1jN4Xmeo6upsAer2hRZhrl"
+        }
+      ],
+      "date_added": "2026-11-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 241973,
+      "name": "5 Morceaux de fantaisie, Op. 3: II. Pr\u00e9lude",
+      "url": "https://open.spotify.com/track/342j9JRYEQv9ZGT1skC4JS"
+    },
+    {
+      "album": {
         "name": "Liszt: Faust Symphony; Dante Symphony; Les Pr\u00e9lludes; Prometheus",
         "url": "https://open.spotify.com/album/1s1zj0erJyhfE6LhhTD0Nw"
       },

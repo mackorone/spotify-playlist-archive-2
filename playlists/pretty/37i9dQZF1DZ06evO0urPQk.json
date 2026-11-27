@@ -1,12 +1,12 @@
 {
   "description": "This is Nana Mizuki. The essential tracks, all in one playlist.",
-  "num_followers": 27910,
+  "num_followers": 27909,
   "original_name": "This Is Nana Mizuki",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "awOCAAAAAADSOlzB9OUKd8pa5+ZRwNIf",
+  "snapshot_id": "awYlAAAAAACehCNQSF/c6uPFf7kpqRjz",
   "tracks": [
     {
       "added_at": null,
@@ -111,8 +111,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Anchor Flame",
-        "url": "https://open.spotify.com/album/7CNgptK0iV1DlySpVgeh7U"
+        "name": "CRIMSON BULLET",
+        "url": "https://open.spotify.com/album/22BbEtt6cGo4diABXKfUhC"
       },
       "artists": [
         {
@@ -120,9 +120,9 @@
           "url": "https://open.spotify.com/artist/0W2x7650Lt2CEIIcLHXmsE"
         }
       ],
-      "duration_ms": 248595,
-      "name": "Anchor Flame",
-      "url": "https://open.spotify.com/track/5XX2PuC0I96fUypzhz4wPA"
+      "duration_ms": 222166,
+      "name": "CRIMSON BULLET",
+      "url": "https://open.spotify.com/track/1RxsSwQNbe18OJNHxODK9x"
     },
     {
       "added_at": null,
@@ -147,8 +147,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "CRIMSON BULLET",
-        "url": "https://open.spotify.com/album/22BbEtt6cGo4diABXKfUhC"
+        "name": "Anchor Flame",
+        "url": "https://open.spotify.com/album/7CNgptK0iV1DlySpVgeh7U"
       },
       "artists": [
         {
@@ -156,9 +156,9 @@
           "url": "https://open.spotify.com/artist/0W2x7650Lt2CEIIcLHXmsE"
         }
       ],
-      "duration_ms": 222166,
-      "name": "CRIMSON BULLET",
-      "url": "https://open.spotify.com/track/1RxsSwQNbe18OJNHxODK9x"
+      "duration_ms": 248595,
+      "name": "Anchor Flame",
+      "url": "https://open.spotify.com/track/5XX2PuC0I96fUypzhz4wPA"
     },
     {
       "added_at": null,
@@ -227,8 +227,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "HYBRID UNIVERSE",
-        "url": "https://open.spotify.com/album/7kG9Xw25lb8zAgCOOqdHsk"
+        "name": "innocent starter",
+        "url": "https://open.spotify.com/album/3Mm5J6uZ8yN30jCdODv856"
       },
       "artists": [
         {
@@ -236,9 +236,9 @@
           "url": "https://open.spotify.com/artist/0W2x7650Lt2CEIIcLHXmsE"
         }
       ],
-      "duration_ms": 251026,
-      "name": "WILD EYES",
-      "url": "https://open.spotify.com/track/0qAetyyxDZxgFR1EQrOK7p"
+      "duration_ms": 281133,
+      "name": "innocent starter",
+      "url": "https://open.spotify.com/track/6HAAG01wmaFg7mjDBwRpZH"
     },
     {
       "added_at": null,
@@ -275,8 +275,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "innocent starter",
-        "url": "https://open.spotify.com/album/3Mm5J6uZ8yN30jCdODv856"
+        "name": "HYBRID UNIVERSE",
+        "url": "https://open.spotify.com/album/7kG9Xw25lb8zAgCOOqdHsk"
       },
       "artists": [
         {
@@ -284,9 +284,25 @@
           "url": "https://open.spotify.com/artist/0W2x7650Lt2CEIIcLHXmsE"
         }
       ],
-      "duration_ms": 281133,
-      "name": "innocent starter",
-      "url": "https://open.spotify.com/track/6HAAG01wmaFg7mjDBwRpZH"
+      "duration_ms": 251026,
+      "name": "WILD EYES",
+      "url": "https://open.spotify.com/track/0qAetyyxDZxgFR1EQrOK7p"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "\u30a8\u30c7\u30f3",
+        "url": "https://open.spotify.com/album/6wJxfvqu3PHr5bAYKpSvoI"
+      },
+      "artists": [
+        {
+          "name": "Nana Mizuki",
+          "url": "https://open.spotify.com/artist/0W2x7650Lt2CEIIcLHXmsE"
+        }
+      ],
+      "duration_ms": 237693,
+      "name": "\u7d42\u672b\u306e\u30e9\u30d6\u30bd\u30f3\u30b0",
+      "url": "https://open.spotify.com/track/6qFbz5JKXWvf48QuyfXRPt"
     },
     {
       "added_at": null,
@@ -319,22 +335,6 @@
       "duration_ms": 237895,
       "name": "\u30ab\u30ec\u30a4\u30c9\u30b9\u30b3\u30fc\u30d7",
       "url": "https://open.spotify.com/track/7eDytPkd02YUJ5FsIjVbdA"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "\u30a8\u30c7\u30f3",
-        "url": "https://open.spotify.com/album/6wJxfvqu3PHr5bAYKpSvoI"
-      },
-      "artists": [
-        {
-          "name": "Nana Mizuki",
-          "url": "https://open.spotify.com/artist/0W2x7650Lt2CEIIcLHXmsE"
-        }
-      ],
-      "duration_ms": 237693,
-      "name": "\u7d42\u672b\u306e\u30e9\u30d6\u30bd\u30f3\u30b0",
-      "url": "https://open.spotify.com/track/6qFbz5JKXWvf48QuyfXRPt"
     },
     {
       "added_at": null,
@@ -419,22 +419,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Destiny's Prelude",
-        "url": "https://open.spotify.com/album/4On0OykKYCMhJK4fGOySNs"
-      },
-      "artists": [
-        {
-          "name": "Nana Mizuki",
-          "url": "https://open.spotify.com/artist/0W2x7650Lt2CEIIcLHXmsE"
-        }
-      ],
-      "duration_ms": 267813,
-      "name": "Invisible Heat",
-      "url": "https://open.spotify.com/track/6Q85RKm3uVg8pvwbxFTZzv"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "NEVER SURRENDER",
         "url": "https://open.spotify.com/album/211qg1BzWTHv6E211iWdzj"
       },
@@ -451,8 +435,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "FINAL COMMANDER",
-        "url": "https://open.spotify.com/album/79ZMg93RW0DUIG6flJDOJ1"
+        "name": "Destiny's Prelude",
+        "url": "https://open.spotify.com/album/4On0OykKYCMhJK4fGOySNs"
       },
       "artists": [
         {
@@ -460,9 +444,9 @@
           "url": "https://open.spotify.com/artist/0W2x7650Lt2CEIIcLHXmsE"
         }
       ],
-      "duration_ms": 262403,
-      "name": "FINAL COMMANDER",
-      "url": "https://open.spotify.com/track/4BmDMzDL8rpgMcCTHQCJEr"
+      "duration_ms": 267813,
+      "name": "Invisible Heat",
+      "url": "https://open.spotify.com/track/6Q85RKm3uVg8pvwbxFTZzv"
     },
     {
       "added_at": null,
@@ -483,8 +467,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Destiny's Prelude",
-        "url": "https://open.spotify.com/album/4On0OykKYCMhJK4fGOySNs"
+        "name": "FINAL COMMANDER",
+        "url": "https://open.spotify.com/album/79ZMg93RW0DUIG6flJDOJ1"
       },
       "artists": [
         {
@@ -492,9 +476,9 @@
           "url": "https://open.spotify.com/artist/0W2x7650Lt2CEIIcLHXmsE"
         }
       ],
-      "duration_ms": 299386,
-      "name": "Destiny's Prelude",
-      "url": "https://open.spotify.com/track/3FrTuc0iZXzB2qvguFjoy5"
+      "duration_ms": 262403,
+      "name": "FINAL COMMANDER",
+      "url": "https://open.spotify.com/track/4BmDMzDL8rpgMcCTHQCJEr"
     },
     {
       "added_at": null,
@@ -531,6 +515,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Destiny's Prelude",
+        "url": "https://open.spotify.com/album/4On0OykKYCMhJK4fGOySNs"
+      },
+      "artists": [
+        {
+          "name": "Nana Mizuki",
+          "url": "https://open.spotify.com/artist/0W2x7650Lt2CEIIcLHXmsE"
+        }
+      ],
+      "duration_ms": 299386,
+      "name": "Destiny's Prelude",
+      "url": "https://open.spotify.com/track/3FrTuc0iZXzB2qvguFjoy5"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "ROCKBOUND NEIGHBORS",
         "url": "https://open.spotify.com/album/3tXxl7ZKlCSfAMWr2AhMeP"
       },
@@ -543,6 +543,22 @@
       "duration_ms": 321666,
       "name": "Synchrogazer-Aufwachen Form-",
       "url": "https://open.spotify.com/track/1lmfLQ7e8m2lp3kgeGepxM"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "THE MUSEUM II",
+        "url": "https://open.spotify.com/album/5fgkBCPsotW9RSTYSKnaUN"
+      },
+      "artists": [
+        {
+          "name": "Nana Mizuki",
+          "url": "https://open.spotify.com/artist/0W2x7650Lt2CEIIcLHXmsE"
+        }
+      ],
+      "duration_ms": 263800,
+      "name": "SECRET AMBITION",
+      "url": "https://open.spotify.com/track/5AB3codJ16dli3H2HmJyki"
     },
     {
       "added_at": null,
@@ -563,22 +579,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "THE MUSEUM II",
-        "url": "https://open.spotify.com/album/5fgkBCPsotW9RSTYSKnaUN"
-      },
-      "artists": [
-        {
-          "name": "Nana Mizuki",
-          "url": "https://open.spotify.com/artist/0W2x7650Lt2CEIIcLHXmsE"
-        }
-      ],
-      "duration_ms": 304840,
-      "name": "\u8ff7\u5bae\u30d0\u30bf\u30d5\u30e9\u30a4-diverse-",
-      "url": "https://open.spotify.com/track/1LYKl6K1sZ1u2f4uNZcxKz"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "ULTIMATE DIAMOND",
         "url": "https://open.spotify.com/album/6YjWSq0UNQ7oqLAL7Af6dL"
       },
@@ -591,22 +591,6 @@
       "duration_ms": 272640,
       "name": "Dancing in the velvet moon",
       "url": "https://open.spotify.com/track/28dDBhBG9O6MheKdPvbFp8"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "PHANTOM MINDS",
-        "url": "https://open.spotify.com/album/0notlbwCGBJGTAW7jxdv4d"
-      },
-      "artists": [
-        {
-          "name": "Nana Mizuki",
-          "url": "https://open.spotify.com/artist/0W2x7650Lt2CEIIcLHXmsE"
-        }
-      ],
-      "duration_ms": 219413,
-      "name": "PHANTOM MINDS",
-      "url": "https://open.spotify.com/track/4v5Q5FEV4dRE6OW5xcWazs"
     },
     {
       "added_at": null,
@@ -636,15 +620,15 @@
           "url": "https://open.spotify.com/artist/0W2x7650Lt2CEIIcLHXmsE"
         }
       ],
-      "duration_ms": 263800,
-      "name": "SECRET AMBITION",
-      "url": "https://open.spotify.com/track/5AB3codJ16dli3H2HmJyki"
+      "duration_ms": 304840,
+      "name": "\u8ff7\u5bae\u30d0\u30bf\u30d5\u30e9\u30a4-diverse-",
+      "url": "https://open.spotify.com/track/1LYKl6K1sZ1u2f4uNZcxKz"
     },
     {
       "added_at": null,
       "album": {
-        "name": "ALIVE&KICKING",
-        "url": "https://open.spotify.com/album/1huJVCFa253gaYPx6P2f3i"
+        "name": "PHANTOM MINDS",
+        "url": "https://open.spotify.com/album/0notlbwCGBJGTAW7jxdv4d"
       },
       "artists": [
         {
@@ -652,9 +636,9 @@
           "url": "https://open.spotify.com/artist/0W2x7650Lt2CEIIcLHXmsE"
         }
       ],
-      "duration_ms": 250506,
-      "name": "Take a shot",
-      "url": "https://open.spotify.com/track/79wJSBmb8e3wRR8j9znvk0"
+      "duration_ms": 219413,
+      "name": "PHANTOM MINDS",
+      "url": "https://open.spotify.com/track/4v5Q5FEV4dRE6OW5xcWazs"
     },
     {
       "added_at": null,
@@ -671,6 +655,22 @@
       "duration_ms": 232653,
       "name": "\u5606\u304d\u306e\u83ef",
       "url": "https://open.spotify.com/track/0sykGYWNmdFkBXJurdnWKo"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "ALIVE&KICKING",
+        "url": "https://open.spotify.com/album/1huJVCFa253gaYPx6P2f3i"
+      },
+      "artists": [
+        {
+          "name": "Nana Mizuki",
+          "url": "https://open.spotify.com/artist/0W2x7650Lt2CEIIcLHXmsE"
+        }
+      ],
+      "duration_ms": 250506,
+      "name": "Take a shot",
+      "url": "https://open.spotify.com/track/79wJSBmb8e3wRR8j9znvk0"
     },
     {
       "added_at": null,
@@ -707,22 +707,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "\u30a8\u30c7\u30f3",
-        "url": "https://open.spotify.com/album/6wJxfvqu3PHr5bAYKpSvoI"
-      },
-      "artists": [
-        {
-          "name": "Nana Mizuki",
-          "url": "https://open.spotify.com/artist/0W2x7650Lt2CEIIcLHXmsE"
-        }
-      ],
-      "duration_ms": 222640,
-      "name": "No Limit",
-      "url": "https://open.spotify.com/track/7scWTACvzsB1Q92nERgey4"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "NEVER SURRENDER",
         "url": "https://open.spotify.com/album/211qg1BzWTHv6E211iWdzj"
       },
@@ -735,6 +719,22 @@
       "duration_ms": 259640,
       "name": "NEVER SURRENDER",
       "url": "https://open.spotify.com/track/0EcJMHq5S4WyEI0L2yTOhP"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "\u30a8\u30c7\u30f3",
+        "url": "https://open.spotify.com/album/6wJxfvqu3PHr5bAYKpSvoI"
+      },
+      "artists": [
+        {
+          "name": "Nana Mizuki",
+          "url": "https://open.spotify.com/artist/0W2x7650Lt2CEIIcLHXmsE"
+        }
+      ],
+      "duration_ms": 222640,
+      "name": "No Limit",
+      "url": "https://open.spotify.com/track/7scWTACvzsB1Q92nERgey4"
     },
     {
       "added_at": null,

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWWOC7yZ9Tq5.md) - [plain]
 
 > A selection of anime tracks perfect for listening to during your gaming time\.  Illustration by <a href="https://www.instagram.com/nostalook7090/">NOSTALOOK</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,472 likes - 50 songs - 2 hr 36 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,511 likes - 50 songs - 2 hr 36 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -40,14 +40,14 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWWOC7yZ9Tq5.md) - [plain]
 | 30 | [疾風伝](https://open.spotify.com/track/0y2OZcxtwVvzk4vHsSJXwu) | [Yasuharu Takanashi](https://open.spotify.com/artist/64mecceQewFCKwCK6JBW0o) | [NARUTO\-ナルト\- 疾風伝　オリジナル・サウンドトラック](https://open.spotify.com/album/4f5CITLlnnTPE49n5Bd0zN) | 2:05 |
 | 31 | [Sis puella magica!](https://open.spotify.com/track/4S40MDl8IuzSHsmsctWaKI) | [梶浦 由記](https://open.spotify.com/artist/0BLHMPWOZ2aTI0ZCCbtZem) | [「魔法少女まどか☆マギカ」 Ultimate Best](https://open.spotify.com/album/6HbO9Uv1onX9RfLTQUrF8l) | 2:49 |
 | 32 | [人生のメリーゴーランド－オープニング－](https://open.spotify.com/track/6pIirGODmVMu57AlyzXC2R) | [Joe Hisaishi](https://open.spotify.com/artist/7nzSoJISlVJsn7O0yTeMOB) | [ハウルの動く城 サウンドトラック](https://open.spotify.com/album/5Xw7PhqdMRhdtd1UVFSxoF) | 2:33 |
-| 33 | [Shingeki Gt 20130218 Kyojin](https://open.spotify.com/track/6AFkv6rIVRusZNifR74Q7t) | [Sawano Hiroyuki](https://open.spotify.com/artist/0Riv2KnFcLZA3JSVryRg4y) | [TV Anime "Attack on Titan Season 2" \(Original Soundtrack\)](https://open.spotify.com/album/0jNwqmKIwudqqbMJRRtzQb) | 2:31 |
-| 34 | [Lullaby of Resembool](https://open.spotify.com/track/3GVVHFeGI8VgbJ9y27KreF) | [Akira Senju](https://open.spotify.com/artist/0OkFVhBMPKQtmBj2YRy3Vu) | [鋼の錬金術師 FULLMETAL ALCHEMIST Original Soundtrack 1](https://open.spotify.com/album/5AyohASGLv7HW6vZuYjYxT) | 2:13 |
-| 35 | [煉獄と猗窩座の戦い](https://open.spotify.com/track/19XwEQeVwyeXrNsaETN0bx) | [椎名豪](https://open.spotify.com/artist/5SwtzFnHzuWGai6tPOHBeH) | [「鬼滅の刃」無限列車編 オリジナルサウンドトラック](https://open.spotify.com/album/319uh4R4DZ2oEIEaGSFyAF) | 3:19 |
+| 33 | [Lullaby of Resembool](https://open.spotify.com/track/3GVVHFeGI8VgbJ9y27KreF) | [Akira Senju](https://open.spotify.com/artist/0OkFVhBMPKQtmBj2YRy3Vu) | [鋼の錬金術師 FULLMETAL ALCHEMIST Original Soundtrack 1](https://open.spotify.com/album/5AyohASGLv7HW6vZuYjYxT) | 2:13 |
+| 34 | [煉獄と猗窩座の戦い](https://open.spotify.com/track/19XwEQeVwyeXrNsaETN0bx) | [椎名豪](https://open.spotify.com/artist/5SwtzFnHzuWGai6tPOHBeH) | [「鬼滅の刃」無限列車編 オリジナルサウンドトラック](https://open.spotify.com/album/319uh4R4DZ2oEIEaGSFyAF) | 3:19 |
+| 35 | [Shingeki Gt 20130218 Kyojin](https://open.spotify.com/track/6AFkv6rIVRusZNifR74Q7t) | [Sawano Hiroyuki](https://open.spotify.com/artist/0Riv2KnFcLZA3JSVryRg4y) | [TV Anime "Attack on Titan Season 2" \(Original Soundtrack\)](https://open.spotify.com/album/0jNwqmKIwudqqbMJRRtzQb) | 2:31 |
 | 36 | [名探偵コナン メイン・テーマ \- 暗殺者ヴァージョン](https://open.spotify.com/track/4ELXBKQHnfWiNt6OUcSo15) | [Katsuo Ohno](https://open.spotify.com/artist/3qqjOqSKN1IKax9C8VmFmZ) | [名探偵コナン 瞳の中の暗殺者 \(オリジナル・サウンドトラック\)](https://open.spotify.com/album/0fAhvb5Ir2kHM2DREhn45a) | 2:32 |
 | 37 | [The Legend of Ashitaka](https://open.spotify.com/track/6JqEDCqvAQx4F1D8TuQMw1) | [Joe Hisaishi](https://open.spotify.com/artist/7nzSoJISlVJsn7O0yTeMOB) | [Princess Mononoke Soundtrack](https://open.spotify.com/album/2ZHxPDTCRU5STetdmXeW6p) | 1:39 |
-| 38 | [Yuri on ICE](https://open.spotify.com/track/6mhtjlYdbceFnMlRfkbsQu) | [Taro Umebayashi](https://open.spotify.com/artist/2Nnwx1j1GrmIKZ8vx6fJSI) | [Oh! スケトラ!!! ユーリ!!! on ICE/オリジナル・スケートソングCOLLECTION](https://open.spotify.com/album/7fSGa139Q2t6IgAgf1Cx7n) | 3:42 |
-| 39 | [Main Theme ～The Fullmetal Alchemist～](https://open.spotify.com/track/7c9OHViTralZa26DFOSTs2) | [Akira Senju](https://open.spotify.com/artist/0OkFVhBMPKQtmBj2YRy3Vu) | [鋼の錬金術師 FULLMETAL ALCHEMIST Original Soundtrack 1](https://open.spotify.com/album/5AyohASGLv7HW6vZuYjYxT) | 3:42 |
-| 40 | [Blue Bird](https://open.spotify.com/track/0aeHNyiNeggD428PIcR4j0) | [Shinichi Osawa Works](https://open.spotify.com/artist/4d3dSSG92Bywc1qwtKVOrb) | [BANANA FISH Original Soundtrack](https://open.spotify.com/album/27BMpZqsazAK3R0y1vZFLQ) | 2:24 |
+| 38 | [Main Theme ～The Fullmetal Alchemist～](https://open.spotify.com/track/7c9OHViTralZa26DFOSTs2) | [Akira Senju](https://open.spotify.com/artist/0OkFVhBMPKQtmBj2YRy3Vu) | [鋼の錬金術師 FULLMETAL ALCHEMIST Original Soundtrack 1](https://open.spotify.com/album/5AyohASGLv7HW6vZuYjYxT) | 3:42 |
+| 39 | [Blue Bird](https://open.spotify.com/track/0aeHNyiNeggD428PIcR4j0) | [Shinichi Osawa Works](https://open.spotify.com/artist/4d3dSSG92Bywc1qwtKVOrb) | [BANANA FISH Original Soundtrack](https://open.spotify.com/album/27BMpZqsazAK3R0y1vZFLQ) | 2:24 |
+| 40 | [Yuri on ICE](https://open.spotify.com/track/6mhtjlYdbceFnMlRfkbsQu) | [Taro Umebayashi](https://open.spotify.com/artist/2Nnwx1j1GrmIKZ8vx6fJSI) | [Oh! スケトラ!!! ユーリ!!! on ICE/オリジナル・スケートソングCOLLECTION](https://open.spotify.com/album/7fSGa139Q2t6IgAgf1Cx7n) | 3:42 |
 | 41 | [ルフィ復活](https://open.spotify.com/track/3pswsd1cgi2U5ninhgo31W) | [Kohei Tanaka](https://open.spotify.com/artist/74ov6NjGYL0LHHyDD2Dy2b) | [ONE PIECE Original Soundtrack"GEAR5"](https://open.spotify.com/album/1jmR8jrRGykXMhptwhyUY0) | 1:56 |
 | 42 | [アシタカせっ記](https://open.spotify.com/track/3QQcmb87X6e10gdEXDx1ep) | [Joe Hisaishi](https://open.spotify.com/artist/7nzSoJISlVJsn7O0yTeMOB) | [もののけ姫 イメージアルバム](https://open.spotify.com/album/0RDqwG2WKEMrBFLGljbCcy) | 4:39 |
 | 43 | [livingroom](https://open.spotify.com/track/6XAEEforyl2ntmg6ZIeePj) | [kensuke ushio](https://open.spotify.com/artist/4L0gz16xuM1as1OgYzh1SR) | [Chainsaw Man Original Soundtrack EP Vol.2 \(Episode 4\-7\)](https://open.spotify.com/album/4lvjSSzNcXLniTEyIrzaBX) | 2:42 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWWOC7yZ9Tq5.md) - [plain]
 | 49 | [lit\(var\)](https://open.spotify.com/track/6bTCdqB1PN5J93hiiZvQzW) | [kensuke ushio](https://open.spotify.com/artist/4L0gz16xuM1as1OgYzh1SR) | [A Shape of Light "A Silent Voice the Movie" Original Soundtrack](https://open.spotify.com/album/3WlmFFtmePwfhN9pQdVJ5v) | 2:14 |
 | 50 | [栄の活躍](https://open.spotify.com/track/1k7KjB9enzo5xxbnfkqO8X) | [Akihiko Matsumoto](https://open.spotify.com/artist/7npYxeGYDN9qZmbxYuzunM) | [サマーウォーズ オリジナル・サウンドトラック](https://open.spotify.com/album/6wBgo2pf7e2HxsBUQA7BuV) | 3:09 |
 
-Snapshot ID: `AAAAAEWRXXDTiQ8VeDBvirz40SPQdBWM`
+Snapshot ID: `AAAAAIc8znKyFPqOmv8ZMfE82D6OmPXr`

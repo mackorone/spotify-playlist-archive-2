@@ -1049,6 +1049,24 @@
     },
     {
       "album": {
+        "name": "Bless This Mess",
+        "url": "https://open.spotify.com/album/4jIF02ptkDT6WLT9OSxSXT"
+      },
+      "artists": [
+        {
+          "name": "Jennarie",
+          "url": "https://open.spotify.com/artist/3vvIH5V5MjAhLrQgfQvlhX"
+        }
+      ],
+      "date_added": "2026-11-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 198733,
+      "name": "Bless This Mess",
+      "url": "https://open.spotify.com/track/16TQQ3Ng5YUdtfCv5Cy1ti"
+    },
+    {
+      "album": {
         "name": "bloodshot",
         "url": "https://open.spotify.com/album/7FfowKhV0oNC3k4syEe6Gj"
       },
@@ -2296,7 +2314,7 @@
       ],
       "date_added": "2026-11-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-27",
       "duration_ms": 182750,
       "name": "Dancing On The Wall - Romy In A Lesbian Trance Remix",
       "url": "https://open.spotify.com/track/70CUPWRUARHEC77vcP0jEj"
@@ -3250,7 +3268,7 @@
       ],
       "date_added": "2026-10-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-27",
       "duration_ms": 186267,
       "name": "FACE2FACE",
       "url": "https://open.spotify.com/track/5a7hjgMxDVSxV8WFv380IE"
@@ -3996,6 +4014,24 @@
       "duration_ms": 62406,
       "name": "Giant Armadillo",
       "url": "https://open.spotify.com/track/5NvFdae8idGVQPSdVg2rJm"
+    },
+    {
+      "album": {
+        "name": "AFTER THE AFTERS (DELUXE)",
+        "url": "https://open.spotify.com/album/08BauJYvtlqR8J3yLK6AkI"
+      },
+      "artists": [
+        {
+          "name": "EARTH TO EMILY",
+          "url": "https://open.spotify.com/artist/29becY8WA0wuCwIpFMIyk2"
+        }
+      ],
+      "date_added": "2026-11-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 166768,
+      "name": "GIRL IN MY PHONE",
+      "url": "https://open.spotify.com/track/2O0iKAZhG8Ou3a8lvzTf3g"
     },
     {
       "album": {
@@ -6388,7 +6424,7 @@
       ],
       "date_added": "2026-11-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-27",
       "duration_ms": 125007,
       "name": "KISS MYSELF",
       "url": "https://open.spotify.com/track/63jo1I252RJkdAFgBgiVS6"
@@ -7072,6 +7108,24 @@
       "duration_ms": 246733,
       "name": "Love Yourself (1999 Electronic Demo)",
       "url": "https://open.spotify.com/track/4BfN3MQuqu00F1K3HQY6Y0"
+    },
+    {
+      "album": {
+        "name": "LOVE, AUDALEI",
+        "url": "https://open.spotify.com/album/1E4oT2vyywMWfg26n2qnT8"
+      },
+      "artists": [
+        {
+          "name": "audalei",
+          "url": "https://open.spotify.com/artist/5kVRPeQHKUoQ7ooGlewyXP"
+        }
+      ],
+      "date_added": "2026-11-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 208066,
+      "name": "LOVE, AUDALEI",
+      "url": "https://open.spotify.com/track/77bqNZF6oyUskmKOpIstpG"
     },
     {
       "album": {

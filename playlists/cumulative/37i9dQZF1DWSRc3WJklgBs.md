@@ -4,7 +4,7 @@
 
 > <a href="spotify:genre:edm\_dance">Dance music</a> for the heart <3
 
-1,625 songs - 3 day 21 hr 37 min
+1,626 songs - 3 day 21 hr 40 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -719,6 +719,7 @@
 | [If U Love Me](https://open.spotify.com/track/4ZW48vrI3dnbNrq0vQiGVk) | [Knee Deep](https://open.spotify.com/artist/51iQEVj0SBCQZJVrNli23R), [Kenny Bobien](https://open.spotify.com/artist/6UaZuYX5K6yNTinUTBCWDS) | [If U Love Me](https://open.spotify.com/album/3HEswuaxieAFfoL4y6NvZg) | 3:07 | 2026-08-21 |  |
 | [If We Stay \(feat\. Ivy Adara\)](https://open.spotify.com/track/0sdmL5wJS5QTqSDKyYdjtr) | [Justin Caruso](https://open.spotify.com/artist/1NyxTiCivDmzgFWYD1V01m), [Ivy Adara](https://open.spotify.com/artist/43G7qlx7v7OGJJrUTXIqLq) | [Ninjawerks \(Vol.1\)](https://open.spotify.com/album/2ndLlrpXSt6w43yBnFuelU) | 3:04 | 2019-08-09\* | 2020-03-29 |
 | [If You Really Love Me \(How Will I Know\)](https://open.spotify.com/track/1V7bZ9gEIwFQpm8yGxRHNA) | [David Guetta](https://open.spotify.com/artist/1Cs0zKBU1kc0i8ypK3B9ai), [MistaJam](https://open.spotify.com/artist/3qi5fhSI6aUecvRN0XqIJ2), [John Newman](https://open.spotify.com/artist/34v5MVKeQnIo0CWYMbbrPf) | [If You Really Love Me \(How Will I Know\)](https://open.spotify.com/album/2jchxs2dbRKpdHZl5O3FEY) | 3:04 | 2021-07-10 | 2022-02-05 |
+| [If You Wait](https://open.spotify.com/track/7h3EvRbj33NM41bSvQtm4B) | [George FitzGerald](https://open.spotify.com/artist/3KOHpygRuo1ruQAbEneR3t), [Lil Silva](https://open.spotify.com/artist/2Kv0ApBohrL213X9avMrEn) | [If You Wait](https://open.spotify.com/album/579DycpcdiWLPAPJp6HaTo) | 3:31 | 2026-11-27 |  |
 | [ily \(i love you baby\) \(ARTY Remix\) \[feat\. Emilee\]](https://open.spotify.com/track/3mCWozLIaOzbYzyshABNwD) | [Surf Mesa](https://open.spotify.com/artist/1lmU3giNF3CSbkVSQmLpHQ), [Emilee](https://open.spotify.com/artist/4ArPQ1Opcksbbf3CPwEjWE), [ARTY](https://open.spotify.com/artist/1rSGNXhhYuWoq9BEz5DZGO) | [ily \(i love you baby\) \(ARTY Remix\) \[feat\. Emilee\]](https://open.spotify.com/album/0yjeJmDUDmjtW0iQr7v1D6) | 3:07 | 2020-05-15 | 2021-09-25 |
 | [ILYAF \(I love you always forever\)](https://open.spotify.com/track/5cBz1eRdiLpTVcKBZkHnul) | [Donna Lewis](https://open.spotify.com/artist/2EfG2EoT8GFJrMiilbTVl2), [Digital Farm Animals](https://open.spotify.com/artist/5fyDppLDl1juIu1BcUT5zh) | [ILYAF \(I love you always forever\)](https://open.spotify.com/album/3NUVzJfg1NL9d1QJ9lm6PO) | 2:46 | 2023-03-07 | 2025-08-30 |
 | [Imma Love You](https://open.spotify.com/track/4I8Bk2MvKpZSaNkCJD2U5k) | [Tungevaag](https://open.spotify.com/artist/49CE2ffZ6Z3zeYSDauSKck), [Steerner](https://open.spotify.com/artist/1TMa2M8BSbJP1rqX83wALz) | [Imma Love You](https://open.spotify.com/album/6OxuyFTWch2iIRisoizBxh) | 2:30 | 2023-02-17 | 2025-08-30 |

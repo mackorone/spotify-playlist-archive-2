@@ -4,7 +4,7 @@
 
 > 
 
-581 songs - 1 day 13 hr 20 min
+582 songs - 1 day 13 hr 25 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -362,6 +362,7 @@
 | [Never Gonna Give You Up](https://open.spotify.com/track/4PTG3Z6ehGkBFwjybzWkR8) | [Rick Astley](https://open.spotify.com/artist/0gxyHStUsqpMadRV0Di1Qt) | [Whenever You Need Somebody](https://open.spotify.com/album/6eUW0wxWtzkFdaEFsTJto6) | 3:33 | 2024-07-17 |  |
 | [Nice To Be Out](https://open.spotify.com/track/607NbhqKDyi90F4qcIh8NJ) | [Stereophonics](https://open.spotify.com/artist/21UJ7PRWb3Etgsu99f8yo8) | [Just Enough Education To Perform](https://open.spotify.com/album/51I2N3YcrmqOJfzywty3l4) | 3:08 | 2024-07-16 |  |
 | [Night's Body](https://open.spotify.com/track/4M42lt7DI10e5w3PP6dfWt) | [Eivør](https://open.spotify.com/artist/2dB4ya2W1Gvng8gjWSPu2H) | [Room](https://open.spotify.com/album/05iJSXjikNufQHRxC06zWk) | 4:18 | 2024-07-16 |  |
+| [Nightswimming](https://open.spotify.com/track/5e2HWrviFTm4KQsnJ7OcVf) | [R.E.M.](https://open.spotify.com/artist/4KWTAlx2RvbpseOGMEmROg) | [Automatic For The People \(25th Anniversary Edition\)](https://open.spotify.com/album/3sDXivpN7CmCKbQRRsRzw8) | 4:18 | 2026-11-26 |  |
 | [Niiv’s Cauldron](https://open.spotify.com/track/72VR315Ojiuiv6LElmnldz) | [OMNIA](https://open.spotify.com/artist/6frUTw3CamrF5NAGaQchBS) | [Reflexions](https://open.spotify.com/album/5xjBih5IE6cz9tgayGPeXR) | 6:12 | 2025-03-24 |  |
 | [No Fool Like An Old Fool](https://open.spotify.com/track/2VxS36pzqMhiFwMj1X0c7l) | [Far From Saints](https://open.spotify.com/artist/4EEgkAsMjvBxu9iSHS3j7r) | [Far From Saints](https://open.spotify.com/album/7fMb28QcjxJ5nfjBxKQDKn) | 4:14 | 2024-10-09 |  |
 | [No Roots](https://open.spotify.com/track/71UXJmNkfsvf9WQnAChwvD) | [Alice Merton](https://open.spotify.com/artist/7f0OLhGgBMX9fUjm1dcPip) | [No Roots](https://open.spotify.com/album/3zz6j8HaItLibuBZcMlHIE) | 3:55 | 2024-07-19 |  |

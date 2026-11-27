@@ -6,7 +6,7 @@
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "awOCAAAAAABJtYkikg2ZeEBHCcvnb7Bm",
+  "snapshot_id": "awYlAAAAAAAwfoEiXfdir51ep4UZYQLN",
   "tracks": [
     {
       "added_at": null,
@@ -191,18 +191,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "Problemas Mentales",
-        "url": "https://open.spotify.com/album/73valBVZ9LP5UFwoLLonU1"
+        "name": "Pura Lumbre",
+        "url": "https://open.spotify.com/album/5kyGKlaPLJ3SQB8KfZCcbz"
       },
       "artists": [
+        {
+          "name": "LEGADO 7",
+          "url": "https://open.spotify.com/artist/7yCGrS6Xh3UngvY6Ad5sMJ"
+        },
         {
           "name": "Arsenal Efectivo",
           "url": "https://open.spotify.com/artist/2MMXs21RASEwAmU7gRheQ0"
         }
       ],
-      "duration_ms": 127778,
-      "name": "Problemas Mentales",
-      "url": "https://open.spotify.com/track/6i7WdefaXpXnnxaPl7XnvQ"
+      "duration_ms": 229004,
+      "name": "Los Recuerdos",
+      "url": "https://open.spotify.com/track/7kunViZSovu0ZkOcgg9LS8"
     },
     {
       "added_at": null,
@@ -255,22 +259,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "Pura Lumbre",
-        "url": "https://open.spotify.com/album/5kyGKlaPLJ3SQB8KfZCcbz"
+        "name": "Problemas Mentales",
+        "url": "https://open.spotify.com/album/73valBVZ9LP5UFwoLLonU1"
       },
       "artists": [
-        {
-          "name": "LEGADO 7",
-          "url": "https://open.spotify.com/artist/7yCGrS6Xh3UngvY6Ad5sMJ"
-        },
         {
           "name": "Arsenal Efectivo",
           "url": "https://open.spotify.com/artist/2MMXs21RASEwAmU7gRheQ0"
         }
       ],
-      "duration_ms": 229004,
-      "name": "Los Recuerdos",
-      "url": "https://open.spotify.com/track/7kunViZSovu0ZkOcgg9LS8"
+      "duration_ms": 127778,
+      "name": "Problemas Mentales",
+      "url": "https://open.spotify.com/track/6i7WdefaXpXnnxaPl7XnvQ"
     },
     {
       "added_at": null,
@@ -447,22 +447,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Trap Romantix",
-        "url": "https://open.spotify.com/album/2jmuc266tqytSFKpN3Kcq7"
-      },
-      "artists": [
-        {
-          "name": "Arsenal Efectivo",
-          "url": "https://open.spotify.com/artist/2MMXs21RASEwAmU7gRheQ0"
-        }
-      ],
-      "duration_ms": 203659,
-      "name": "Cuentame",
-      "url": "https://open.spotify.com/track/05HFx3DachZrnv9VvEGRyB"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Sacando El Polvo",
         "url": "https://open.spotify.com/album/3x9bpEr5yOvsJgH22RQllP"
       },
@@ -483,26 +467,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Ya Coron\u00f3 La Vuelta",
-        "url": "https://open.spotify.com/album/7uqKY4vZdt0N6K0bUP9Qbg"
-      },
-      "artists": [
-        {
-          "name": "Josue",
-          "url": "https://open.spotify.com/artist/68czGBDG2AruZ6RMOwAXmc"
-        },
-        {
-          "name": "Arsenal Efectivo",
-          "url": "https://open.spotify.com/artist/2MMXs21RASEwAmU7gRheQ0"
-        }
-      ],
-      "duration_ms": 151536,
-      "name": "Ya Coron\u00f3 La Vuelta",
-      "url": "https://open.spotify.com/track/30ts9jAs2faKSvxAOb5FWg"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Crimen Organizado",
         "url": "https://open.spotify.com/album/5FiPNWW7CAEXZUFhPniZm1"
       },
@@ -519,6 +483,42 @@
       "duration_ms": 186455,
       "name": "Crimen Organizado",
       "url": "https://open.spotify.com/track/7rQc9Enutk9xbjP7WRUgUi"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Trap Romantix",
+        "url": "https://open.spotify.com/album/2jmuc266tqytSFKpN3Kcq7"
+      },
+      "artists": [
+        {
+          "name": "Arsenal Efectivo",
+          "url": "https://open.spotify.com/artist/2MMXs21RASEwAmU7gRheQ0"
+        }
+      ],
+      "duration_ms": 203659,
+      "name": "Cuentame",
+      "url": "https://open.spotify.com/track/05HFx3DachZrnv9VvEGRyB"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Ya Coron\u00f3 La Vuelta",
+        "url": "https://open.spotify.com/album/7uqKY4vZdt0N6K0bUP9Qbg"
+      },
+      "artists": [
+        {
+          "name": "Josue",
+          "url": "https://open.spotify.com/artist/68czGBDG2AruZ6RMOwAXmc"
+        },
+        {
+          "name": "Arsenal Efectivo",
+          "url": "https://open.spotify.com/artist/2MMXs21RASEwAmU7gRheQ0"
+        }
+      ],
+      "duration_ms": 151536,
+      "name": "Ya Coron\u00f3 La Vuelta",
+      "url": "https://open.spotify.com/track/30ts9jAs2faKSvxAOb5FWg"
     },
     {
       "added_at": null,

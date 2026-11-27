@@ -1,12 +1,12 @@
 {
   "description": "This is ALI. The essential tracks, all in one playlist.",
-  "num_followers": 9796,
+  "num_followers": 9799,
   "original_name": "This Is ALI",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "awOCAAAAAAAY3S9VsxGtinGYNMUNBhal",
+  "snapshot_id": "awYlAAAAAABr6aFo4qE6MNQ4fjd55C5e",
   "tracks": [
     {
       "added_at": null,
@@ -279,22 +279,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "\uff3bSKA\uff3dSHOWDOWN",
-        "url": "https://open.spotify.com/album/05qBkJ2QwzCp3FMoD4O1MN"
+        "name": "BABY, GOOD TIMES",
+        "url": "https://open.spotify.com/album/3JpdcvSCKHDhZdDFUV4yIX"
       },
       "artists": [
-        {
-          "name": "Tokyo Ska Paradise Orchestra",
-          "url": "https://open.spotify.com/artist/0UZq6vAHrwGgctvxTzzxYm"
-        },
         {
           "name": "ALI",
           "url": "https://open.spotify.com/artist/2Qqrew4ZcEwf9NY7UqWGfU"
         }
       ],
-      "duration_ms": 257933,
-      "name": "\u30b5\u30dc\u30bf\u30fc\u30b8\u30e5 (VS. ALI)",
-      "url": "https://open.spotify.com/track/6otLqvQTgaVxUit8cxBQ7j"
+      "duration_ms": 217566,
+      "name": "BABY, GOOD TIMES",
+      "url": "https://open.spotify.com/track/1xqZVRXdLQ7W8nSMHn3m5f"
     },
     {
       "added_at": null,
@@ -319,38 +315,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "BABY, GOOD TIMES",
-        "url": "https://open.spotify.com/album/3JpdcvSCKHDhZdDFUV4yIX"
+        "name": "\uff3bSKA\uff3dSHOWDOWN",
+        "url": "https://open.spotify.com/album/05qBkJ2QwzCp3FMoD4O1MN"
       },
       "artists": [
         {
-          "name": "ALI",
-          "url": "https://open.spotify.com/artist/2Qqrew4ZcEwf9NY7UqWGfU"
-        }
-      ],
-      "duration_ms": 217566,
-      "name": "BABY, GOOD TIMES",
-      "url": "https://open.spotify.com/track/1xqZVRXdLQ7W8nSMHn3m5f"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Circus Funk",
-        "url": "https://open.spotify.com/album/4hBLOwItcFt69KFbMZdtrY"
-      },
-      "artists": [
-        {
-          "name": "\u9999\u53d6\u614e\u543e",
-          "url": "https://open.spotify.com/artist/23aPUZaR8bESXN4UD3T2Sx"
+          "name": "Tokyo Ska Paradise Orchestra",
+          "url": "https://open.spotify.com/artist/0UZq6vAHrwGgctvxTzzxYm"
         },
         {
           "name": "ALI",
           "url": "https://open.spotify.com/artist/2Qqrew4ZcEwf9NY7UqWGfU"
         }
       ],
-      "duration_ms": 283347,
-      "name": "SURVIVE\uff08feat. LEO from ALI\uff09",
-      "url": "https://open.spotify.com/track/4ojAyqC0MO4dVzXr1TSUgD"
+      "duration_ms": 257933,
+      "name": "\u30b5\u30dc\u30bf\u30fc\u30b8\u30e5 (VS. ALI)",
+      "url": "https://open.spotify.com/track/6otLqvQTgaVxUit8cxBQ7j"
     },
     {
       "added_at": null,
@@ -371,6 +351,26 @@
       "duration_ms": 209433,
       "name": "LOVE IS KILLING ME",
       "url": "https://open.spotify.com/track/2VgleP55EwSjpFU7710gkj"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Circus Funk",
+        "url": "https://open.spotify.com/album/4hBLOwItcFt69KFbMZdtrY"
+      },
+      "artists": [
+        {
+          "name": "\u9999\u53d6\u614e\u543e",
+          "url": "https://open.spotify.com/artist/23aPUZaR8bESXN4UD3T2Sx"
+        },
+        {
+          "name": "ALI",
+          "url": "https://open.spotify.com/artist/2Qqrew4ZcEwf9NY7UqWGfU"
+        }
+      ],
+      "duration_ms": 283347,
+      "name": "SURVIVE\uff08feat. LEO from ALI\uff09",
+      "url": "https://open.spotify.com/track/4ojAyqC0MO4dVzXr1TSUgD"
     },
     {
       "added_at": null,
@@ -431,6 +431,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Vim",
+        "url": "https://open.spotify.com/album/5jPCOGSqbWXzcBs0ADhn5z"
+      },
+      "artists": [
+        {
+          "name": "ALI",
+          "url": "https://open.spotify.com/artist/2Qqrew4ZcEwf9NY7UqWGfU"
+        }
+      ],
+      "duration_ms": 314282,
+      "name": "Vim",
+      "url": "https://open.spotify.com/track/3gX6jimRbB0Cdy1dPsWCWu"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "MUSIC WORLD",
         "url": "https://open.spotify.com/album/2CyKgEGTTDk877h5CDz5zW"
       },
@@ -447,22 +463,6 @@
       "duration_ms": 269100,
       "name": "IN THE MOOD FOR LOVE",
       "url": "https://open.spotify.com/track/2M6CXNUL0Upsi5eTV944N3"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Vim",
-        "url": "https://open.spotify.com/album/5jPCOGSqbWXzcBs0ADhn5z"
-      },
-      "artists": [
-        {
-          "name": "ALI",
-          "url": "https://open.spotify.com/artist/2Qqrew4ZcEwf9NY7UqWGfU"
-        }
-      ],
-      "duration_ms": 314282,
-      "name": "Vim",
-      "url": "https://open.spotify.com/track/3gX6jimRbB0Cdy1dPsWCWu"
     },
     {
       "added_at": null,
@@ -503,22 +503,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "MUSIC WORLD",
-        "url": "https://open.spotify.com/album/2CyKgEGTTDk877h5CDz5zW"
-      },
-      "artists": [
-        {
-          "name": "ALI",
-          "url": "https://open.spotify.com/artist/2Qqrew4ZcEwf9NY7UqWGfU"
-        }
-      ],
-      "duration_ms": 266133,
-      "name": "MELLOW CRUISE",
-      "url": "https://open.spotify.com/track/5rwjc8p9p8jDcuyzWWKvKA"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "FLASHBACK SYNDROME",
         "url": "https://open.spotify.com/album/3EqjUi6XXqIXcsuIlpL7Mv"
       },
@@ -531,6 +515,22 @@
       "duration_ms": 217866,
       "name": "FLASHBACK SYNDROME",
       "url": "https://open.spotify.com/track/0Vy313Gy9c3HdDwlQrrqqx"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "MUSIC WORLD",
+        "url": "https://open.spotify.com/album/2CyKgEGTTDk877h5CDz5zW"
+      },
+      "artists": [
+        {
+          "name": "ALI",
+          "url": "https://open.spotify.com/artist/2Qqrew4ZcEwf9NY7UqWGfU"
+        }
+      ],
+      "duration_ms": 266133,
+      "name": "MELLOW CRUISE",
+      "url": "https://open.spotify.com/track/5rwjc8p9p8jDcuyzWWKvKA"
     },
     {
       "added_at": null,
@@ -591,6 +591,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "MUSIC WORLD",
+        "url": "https://open.spotify.com/album/2CyKgEGTTDk877h5CDz5zW"
+      },
+      "artists": [
+        {
+          "name": "ALI",
+          "url": "https://open.spotify.com/artist/2Qqrew4ZcEwf9NY7UqWGfU"
+        }
+      ],
+      "duration_ms": 265300,
+      "name": "SPARKLE",
+      "url": "https://open.spotify.com/track/2IIE9qJNoazhj61870dgkO"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "\uff3bSKA\uff3dSHOWDOWN 2026.3.31 at TOKYO GARDEN THEATER",
         "url": "https://open.spotify.com/album/1tXqALKiZ27oDwlov2jBT0"
       },
@@ -615,22 +631,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "MUSIC WORLD",
-        "url": "https://open.spotify.com/album/2CyKgEGTTDk877h5CDz5zW"
-      },
-      "artists": [
-        {
-          "name": "ALI",
-          "url": "https://open.spotify.com/artist/2Qqrew4ZcEwf9NY7UqWGfU"
-        }
-      ],
-      "duration_ms": 246133,
-      "name": "CLIMAX BULLETS",
-      "url": "https://open.spotify.com/track/6Hmv7N9nVGPziEslVoHnoz"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "LOVE, MUSIC AND DANCE",
         "url": "https://open.spotify.com/album/6k0K8fxPxw0daw5QWCKmaQ"
       },
@@ -647,22 +647,6 @@
       "duration_ms": 305106,
       "name": "BETTER DAYS",
       "url": "https://open.spotify.com/track/5qNZWyunNyD505JVslU1TE"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "VIVA LA MUSICA",
-        "url": "https://open.spotify.com/album/2miX8EtW3WyZIB2cX4DlEx"
-      },
-      "artists": [
-        {
-          "name": "ALI",
-          "url": "https://open.spotify.com/artist/2Qqrew4ZcEwf9NY7UqWGfU"
-        }
-      ],
-      "duration_ms": 220800,
-      "name": "WILD ANGEL",
-      "url": "https://open.spotify.com/track/5rng1DB3PaY6KSQCHVWyFM"
     },
     {
       "added_at": null,
@@ -692,9 +676,25 @@
           "url": "https://open.spotify.com/artist/2Qqrew4ZcEwf9NY7UqWGfU"
         }
       ],
-      "duration_ms": 265300,
-      "name": "SPARKLE",
-      "url": "https://open.spotify.com/track/2IIE9qJNoazhj61870dgkO"
+      "duration_ms": 246133,
+      "name": "CLIMAX BULLETS",
+      "url": "https://open.spotify.com/track/6Hmv7N9nVGPziEslVoHnoz"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "VIVA LA MUSICA",
+        "url": "https://open.spotify.com/album/2miX8EtW3WyZIB2cX4DlEx"
+      },
+      "artists": [
+        {
+          "name": "ALI",
+          "url": "https://open.spotify.com/artist/2Qqrew4ZcEwf9NY7UqWGfU"
+        }
+      ],
+      "duration_ms": 220800,
+      "name": "WILD ANGEL",
+      "url": "https://open.spotify.com/track/5rng1DB3PaY6KSQCHVWyFM"
     },
     {
       "added_at": null,
@@ -759,6 +759,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "LONELY LONELY",
+        "url": "https://open.spotify.com/album/2l1mdPEpGChK4mPY237m5z"
+      },
+      "artists": [
+        {
+          "name": "ALI",
+          "url": "https://open.spotify.com/artist/2Qqrew4ZcEwf9NY7UqWGfU"
+        }
+      ],
+      "duration_ms": 277700,
+      "name": "LONELY LONELY",
+      "url": "https://open.spotify.com/track/4g8L3UDYE1dyGqjwuEpvtP"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "LOVE, MUSIC AND DANCE",
         "url": "https://open.spotify.com/album/6k0K8fxPxw0daw5QWCKmaQ"
       },
@@ -779,22 +795,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "LONELY LONELY",
-        "url": "https://open.spotify.com/album/2l1mdPEpGChK4mPY237m5z"
-      },
-      "artists": [
-        {
-          "name": "ALI",
-          "url": "https://open.spotify.com/artist/2Qqrew4ZcEwf9NY7UqWGfU"
-        }
-      ],
-      "duration_ms": 277700,
-      "name": "LONELY LONELY",
-      "url": "https://open.spotify.com/track/4g8L3UDYE1dyGqjwuEpvtP"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "VIVA LA MUSICA",
         "url": "https://open.spotify.com/album/2miX8EtW3WyZIB2cX4DlEx"
       },
@@ -804,9 +804,9 @@
           "url": "https://open.spotify.com/artist/2Qqrew4ZcEwf9NY7UqWGfU"
         }
       ],
-      "duration_ms": 180766,
-      "name": "I Want A Chance For Romance",
-      "url": "https://open.spotify.com/track/2e4PuGWRWMLa18XR5Ox4q2"
+      "duration_ms": 266900,
+      "name": "THE SWEETEST TABOO",
+      "url": "https://open.spotify.com/track/554GjmgJLkRvxvovKMMpbb"
     },
     {
       "added_at": null,
@@ -847,22 +847,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "INGLOURIOUS EASTERN COWBOY",
-        "url": "https://open.spotify.com/album/1inqg1yD9EMoVZqKXw5gmg"
+        "name": "ALI",
+        "url": "https://open.spotify.com/album/5mAvOe8oCtB1rT4khPoLTQ"
       },
       "artists": [
         {
           "name": "ALI",
           "url": "https://open.spotify.com/artist/2Qqrew4ZcEwf9NY7UqWGfU"
-        },
-        {
-          "name": "Takuya Kuroda",
-          "url": "https://open.spotify.com/artist/4DbVGBurfbrdLW2ZwfwdmP"
         }
       ],
-      "duration_ms": 289300,
-      "name": "FOUND BLUE",
-      "url": "https://open.spotify.com/track/3a75OF0QEnrn8LqWXWpC67"
+      "duration_ms": 284433,
+      "name": "BONNIE",
+      "url": "https://open.spotify.com/track/5ecYZakfWTAKBT6JwJYmq3"
     },
     {
       "added_at": null,
@@ -876,9 +872,9 @@
           "url": "https://open.spotify.com/artist/2Qqrew4ZcEwf9NY7UqWGfU"
         }
       ],
-      "duration_ms": 266900,
-      "name": "THE SWEETEST TABOO",
-      "url": "https://open.spotify.com/track/554GjmgJLkRvxvovKMMpbb"
+      "duration_ms": 180766,
+      "name": "I Want A Chance For Romance",
+      "url": "https://open.spotify.com/track/2e4PuGWRWMLa18XR5Ox4q2"
     },
     {
       "added_at": null,
@@ -903,18 +899,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "ALI",
-        "url": "https://open.spotify.com/album/5mAvOe8oCtB1rT4khPoLTQ"
+        "name": "INGLOURIOUS EASTERN COWBOY",
+        "url": "https://open.spotify.com/album/1inqg1yD9EMoVZqKXw5gmg"
       },
       "artists": [
         {
           "name": "ALI",
           "url": "https://open.spotify.com/artist/2Qqrew4ZcEwf9NY7UqWGfU"
+        },
+        {
+          "name": "Takuya Kuroda",
+          "url": "https://open.spotify.com/artist/4DbVGBurfbrdLW2ZwfwdmP"
         }
       ],
-      "duration_ms": 284433,
-      "name": "BONNIE",
-      "url": "https://open.spotify.com/track/5ecYZakfWTAKBT6JwJYmq3"
+      "duration_ms": 289300,
+      "name": "FOUND BLUE",
+      "url": "https://open.spotify.com/track/3a75OF0QEnrn8LqWXWpC67"
     },
     {
       "added_at": null,

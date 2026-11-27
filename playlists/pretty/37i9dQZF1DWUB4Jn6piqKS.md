@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUB4Jn6piqKS.md) - [plain]
 
 > Stompers, floaters and floorshakers \- these are the tracks that defined the Northern Soul movement.
 
-[Spotify](https://open.spotify.com/user/spotify) - 152,982 likes - 100 songs - 4 hr 37 min
+[Spotify](https://open.spotify.com/user/spotify) - 152,997 likes - 100 songs - 4 hr 37 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -34,8 +34,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUB4Jn6piqKS.md) - [plain]
 | 24 | [This Love Starved Heart Of Mine \(It's Killing Me\) \- 1994 Love Starved Heart Version \(Mono\)](https://open.spotify.com/track/2dQrPamTqMPkYAGRQO76dX) | [Marvin Gaye](https://open.spotify.com/artist/3koiLjNrgRTNbOwViDipeA) | [Lost & Found: Love Starved Heart \- Expanded Edition](https://open.spotify.com/album/1aGm5Z9HtjM0v0ldtDJVVB) | 2:40 |
 | 25 | [Do I Love You \(Indeed I Do\)](https://open.spotify.com/track/7hjNENnHW5O7Jxg8gkZliS) | [Frank Wilson](https://open.spotify.com/artist/7Emrl5SyjpneJuRdHqBKRN) | [Wigan Casino 40th Anniversary Album](https://open.spotify.com/album/2sPZKGxvg2RZF4d2ioEYjz) | 2:24 |
 | 26 | [Out on the Floor](https://open.spotify.com/track/4HYpG1m9d5LVBHJZJ6NWMc) | [Dobie Gray](https://open.spotify.com/artist/3mC1KCuZZSOlN8Z0M56VsV) | [The in Crowd](https://open.spotify.com/album/1WyzsWPpOkkH07F7Rvx5GI) | 2:58 |
-| 27 | [Just A Little Misunderstanding](https://open.spotify.com/track/03qdgEafx6iQkZHWQ6Ytjx) | [The Contours](https://open.spotify.com/artist/2ugPdplEWBmyU6EcIzlcY1) | [Essential](https://open.spotify.com/album/6SCZSe06bdBdFE3T3ouLT8) | 2:42 |
-| 28 | [Open the Door to Your Heart](https://open.spotify.com/track/0rbyxKKubocBP2LWlwL3L8) | [Darrell Banks](https://open.spotify.com/artist/5vWhw0XzIKRr5YUsYB2w3m) | [Darrell Banks Is Here!](https://open.spotify.com/album/4BYH98Ws2vOWyJ1G3E15DI) | 2:37 |
+| 27 | [Open the Door to Your Heart](https://open.spotify.com/track/0rbyxKKubocBP2LWlwL3L8) | [Darrell Banks](https://open.spotify.com/artist/5vWhw0XzIKRr5YUsYB2w3m) | [Darrell Banks Is Here!](https://open.spotify.com/album/4BYH98Ws2vOWyJ1G3E15DI) | 2:37 |
+| 28 | [Just A Little Misunderstanding](https://open.spotify.com/track/03qdgEafx6iQkZHWQ6Ytjx) | [The Contours](https://open.spotify.com/artist/2ugPdplEWBmyU6EcIzlcY1) | [Essential](https://open.spotify.com/album/6SCZSe06bdBdFE3T3ouLT8) | 2:42 |
 | 29 | [Landslide](https://open.spotify.com/track/3WoIKZ5ItkSOqGt3h1NLaV) | [Tony Clarke](https://open.spotify.com/artist/1XbD7zgDdqQXEqm4Pvkhw1) | [Chess Northern Soul](https://open.spotify.com/album/2DmdMq9Kk6dUAbW9lOSv5C) | 2:13 |
 | 30 | [Time](https://open.spotify.com/track/6uOEOFItvADPCgiAKGPr4s) | [Edwin Starr](https://open.spotify.com/artist/1B8AXU6gIIafpyLEpbcv1u) | [War And Peace](https://open.spotify.com/album/26pzgagMwY4opUvVUdSuum) | 2:54 |
 | 31 | [Here I Go Again](https://open.spotify.com/track/0tRUmgZigd9uWdAF37oWNG) | [Archie Bell & The Drells](https://open.spotify.com/artist/1kupwLFpHALpmhp5qol8xH) | [After Hours The Collection: Northern Soul Masters](https://open.spotify.com/album/5iJaTFZeejbvdeDSpA65E5) | 2:05 |

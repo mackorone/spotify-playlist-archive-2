@@ -4,7 +4,7 @@
 
 > Relax to acoustic versions of your favorite rock songs.
 
-157 songs - 10 hr 5 min
+158 songs - 10 hr 10 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -24,7 +24,7 @@
 | [Aquasun \- Acoustic](https://open.spotify.com/track/5y5qBKLHDra9xZuNFgDmOb) | [Basement](https://open.spotify.com/artist/4DUQBYAyOTZotSEdKhaf6c) | [Promise Everything \(Deluxe\)](https://open.spotify.com/album/2Ic7SVaZu6loRXczS4VfYP) | 3:10 | 2020-11-10\* | 2021-05-27 |
 | [Are You Gonna Be My Girl \- Acoustic](https://open.spotify.com/track/3tRMcxAVPS0YK00YcSc737) | [Jet](https://open.spotify.com/artist/5ypxebeHEIXjMtJb17uJlI) | [Are You Gonna Be My Girl](https://open.spotify.com/album/36oEYuAEYbiyFLuFuybtsa) | 3:57 | 2020-11-10\* | 2024-12-08 |
 | [Baby Come On \- Acoustic Version](https://open.spotify.com/track/1UEYdBcuqHlBtPrZCQxeH9) | [+44](https://open.spotify.com/artist/7gkRNHOOt7QfhhXf0rEnmj) | [When Your Heart Stops Beating](https://open.spotify.com/album/1u59jNVLIMqS6h3YUsMNPc) | 2:52 | 2020-11-10\* | 2021-10-13 |
-| [Bad Life \- acoustic](https://open.spotify.com/track/5DwJKJ3Gg5UlzsTMpYXkwT) | [Sigrid](https://open.spotify.com/artist/4TrraAsitQKl821DQY42cZ), [Bring Me The Horizon](https://open.spotify.com/artist/1Ffb6ejR6Fe5IamqA5oRUF) | [Bad Life \(acoustic\)](https://open.spotify.com/album/4QheMIrqrXYPKeDfB4TXzI) | 3:40 | 2022-06-27 |  |
+| [Bad Life \- acoustic](https://open.spotify.com/track/5DwJKJ3Gg5UlzsTMpYXkwT) | [Sigrid](https://open.spotify.com/artist/4TrraAsitQKl821DQY42cZ), [Bring Me The Horizon](https://open.spotify.com/artist/1Ffb6ejR6Fe5IamqA5oRUF) | [Bad Life \(acoustic\)](https://open.spotify.com/album/4QheMIrqrXYPKeDfB4TXzI) | 3:40 | 2022-06-27 | 2026-11-27 |
 | [Belter](https://open.spotify.com/track/4fDbMAFdycT0hhb3WlaDPs) | [Gerry Cinnamon](https://open.spotify.com/artist/7cpCnhhBIU1gA7EhTFApN1) | [Erratic Cinematic](https://open.spotify.com/album/2nLRS9HXd92qwBxqTLW1Qj) | 3:14 | 2021-04-20 | 2021-05-28 |
 | [Bite Me \- Acoustic](https://open.spotify.com/track/0tooLMhjLCJ4Cmb8cDdraJ) | [Avril Lavigne](https://open.spotify.com/artist/0p4nmQO2msCgU4IF37Wi3j) | [Love Sux \(Deluxe\)](https://open.spotify.com/album/6RmbogR9qpWasS4ZNa7cuK) | 3:09 | 2022-09-22 | 2023-05-09 |
 | [Bite Me \- Acoustic](https://open.spotify.com/track/71BPElgdb5MtfIJYGuTWqB) | [Avril Lavigne](https://open.spotify.com/artist/0p4nmQO2msCgU4IF37Wi3j) | [Bite Me \(Acoustic\)](https://open.spotify.com/album/65HfGumTbHNFANxNu07PlC) | 3:09 | 2022-06-27 | 2022-11-28 |
@@ -38,6 +38,7 @@
 | [Broken Heart of Gold \- Acoustic](https://open.spotify.com/track/2dQipRQrdclKwgHm6yHh43) | [ONE OK ROCK](https://open.spotify.com/artist/7k73EtZwoPs516ZxE72KsO) | [Broken Heart of Gold \(Acoustic\)](https://open.spotify.com/album/7neFui3IJyMhntotCcfVvW) | 3:39 | 2021-10-14 | 2025-01-01 |
 | [Catching Fire \(Acoustic\)](https://open.spotify.com/track/5ULYE2LqN7zp0uCNWG1CHA) | [Sum 41](https://open.spotify.com/artist/0qT79UgT5tY4yudH9VfsdT) | [Order In Decline B\-Sides](https://open.spotify.com/album/0Yo21ZkARyJ5vmGzDMrAko) | 4:00 | 2021-01-15 |  |
 | [Cemetery \- Acoustic](https://open.spotify.com/track/1nwHMlXVUgkwASnVTKTgGr) | [Silverchair](https://open.spotify.com/artist/4iudEcmuPlYNdbP3e1bdn1) | [Cemetery](https://open.spotify.com/album/5vtbHTycHcslWrVWe7irrD) | 4:06 | 2021-04-19 | 2021-10-14 |
+| [Cherry Waves \- Acoustic](https://open.spotify.com/track/62x1GuaBigIZyCuvDfDYyA) | [Deftones](https://open.spotify.com/artist/6Ghvu1VvMGScGpOUJBAHNH) | [Mein](https://open.spotify.com/album/4HkdydwW1OA4s9gZKtZFOS) | 5:04 | 2026-04-08 |  |
 | [Chlorine \(Mexico City\)](https://open.spotify.com/track/4hhc1rMxhTFbTRf9gCFgyR) | [Twenty One Pilots](https://open.spotify.com/artist/3YQKmKGau1PzlVlkL1iodx) | [Chlorine \(Mexico City\)](https://open.spotify.com/album/0aQZjurM8n5Fw7G55zDUyp) | 3:58 | 2020-11-10\* | 2022-09-22 |
 | [Chocolate \- Acoustic Version](https://open.spotify.com/track/2yyj5YLcGKcddBaQBNsulz) | [The 1975](https://open.spotify.com/artist/3mIj9lX2MWuHmhNCA7LSCW) | [Sex EP](https://open.spotify.com/album/10CzC8El7gcizNUMFUjAyM) | 3:58 | 2020-11-10\* | 2025-10-20 |
 | [Collide \- Acoustic Version](https://open.spotify.com/track/5rwq6R0Uq0BngM3rdmCeNg) | [Howie Day](https://open.spotify.com/artist/0ekbDNE2eOq8QiaXM34wer) | [Stop All the World Now \(Special Edition\)](https://open.spotify.com/album/5OmZitvmVXYsjEXkTD3P6Y) | 4:37 | 2020-11-10\* | 2022-12-13 |

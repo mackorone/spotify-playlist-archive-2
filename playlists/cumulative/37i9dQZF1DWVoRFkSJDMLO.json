@@ -384,7 +384,7 @@
       ],
       "date_added": "2026-09-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-27",
       "duration_ms": 130938,
       "name": "360",
       "url": "https://open.spotify.com/track/1vTphVtB4tAc5CJsjDMNSL"
@@ -1991,6 +1991,28 @@
     },
     {
       "album": {
+        "name": "Antigua",
+        "url": "https://open.spotify.com/album/3iKbSXJNFlKqgAzzFxlEZN"
+      },
+      "artists": [
+        {
+          "name": "Sarkodie",
+          "url": "https://open.spotify.com/artist/01DTVE3KmoPogPZaOvMqO8"
+        },
+        {
+          "name": "King Promise",
+          "url": "https://open.spotify.com/artist/4tIKaxUmpXzshok2yCnwdf"
+        }
+      ],
+      "date_added": "2026-11-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 196192,
+      "name": "Antigua",
+      "url": "https://open.spotify.com/track/5ZCRfow7u1txLEVETJFvMk"
+    },
+    {
+      "album": {
         "name": "Anything 4 U",
         "url": "https://open.spotify.com/album/5wvxS3sw17xOei0FDvDGYv"
       },
@@ -2278,7 +2300,7 @@
       ],
       "date_added": "2026-08-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-27",
       "duration_ms": 184800,
       "name": "Aura",
       "url": "https://open.spotify.com/track/5iYbLtxZqQOctW238YZLXK"
@@ -9479,6 +9501,28 @@
     },
     {
       "album": {
+        "name": "Drop It",
+        "url": "https://open.spotify.com/album/2mdLFmivebnqq7pydmUu8l"
+      },
+      "artists": [
+        {
+          "name": "Tera K\u00f2r\u00e1",
+          "url": "https://open.spotify.com/artist/29oWM4DINZdTGRS0xKihHR"
+        },
+        {
+          "name": "Konshens",
+          "url": "https://open.spotify.com/artist/3nwYsifpwrKmCIpw4i0HDW"
+        }
+      ],
+      "date_added": "2026-11-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 116323,
+      "name": "Drop It",
+      "url": "https://open.spotify.com/track/6WrqPdRqLMnLbYqRxyBNFM"
+    },
+    {
+      "album": {
         "name": "TO CRY A FLOOD",
         "url": "https://open.spotify.com/album/3V5H8pPQw8O6Emv3pt9rva"
       },
@@ -11116,7 +11160,7 @@
       ],
       "date_added": "2026-11-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-27",
       "duration_ms": 199152,
       "name": "Festival",
       "url": "https://open.spotify.com/track/6tHcNQXGCbZ4P6M19axonB"
@@ -20292,6 +20336,24 @@
       "duration_ms": 222953,
       "name": "Mariposa",
       "url": "https://open.spotify.com/track/7yCyUU23UQA4gXkPYpCF8z"
+    },
+    {
+      "album": {
+        "name": "Marry You",
+        "url": "https://open.spotify.com/album/3fjkCmyE5PXEpm4KBkpm5N"
+      },
+      "artists": [
+        {
+          "name": "Stonebwoy",
+          "url": "https://open.spotify.com/artist/2ayt5jDUuTCpoTG7sHSvuq"
+        }
+      ],
+      "date_added": "2026-11-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 188888,
+      "name": "Marry You",
+      "url": "https://open.spotify.com/track/0R8VCLGJLT3xnn5gqXXQ0a"
     },
     {
       "album": {
@@ -30918,6 +30980,24 @@
       "duration_ms": 165981,
       "name": "Spaceship",
       "url": "https://open.spotify.com/track/5PNLuATNp9KSGYIG7c1n0o"
+    },
+    {
+      "album": {
+        "name": "Speak",
+        "url": "https://open.spotify.com/album/3Vmrr3643mlR3hTBlJ9NtT"
+      },
+      "artists": [
+        {
+          "name": "Gyakie",
+          "url": "https://open.spotify.com/artist/1zO1FWFxxNUCqUuGATxZQZ"
+        }
+      ],
+      "date_added": "2026-11-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 160824,
+      "name": "Speak",
+      "url": "https://open.spotify.com/track/4XC9UfqbR62OauedPdMiSH"
     },
     {
       "album": {

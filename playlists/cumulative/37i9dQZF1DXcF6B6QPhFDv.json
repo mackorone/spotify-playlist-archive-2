@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2021-10-20",
-  "description": "Rock never dies. It's alive with Julien Baker.",
+  "description": "Rock never dies. It's alive with Cage The Elephant.",
   "name": "MARROW",
   "tracks": [
     {
@@ -1134,7 +1134,7 @@
       ],
       "date_added": "2026-07-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-27",
       "duration_ms": 224849,
       "name": "Angel Wings",
       "url": "https://open.spotify.com/track/3iy584wHI5wWPYKVMr95W3"
@@ -4789,6 +4789,24 @@
     },
     {
       "album": {
+        "name": "How to Count to Five",
+        "url": "https://open.spotify.com/album/336ZRfgCtvRuRPp0THNrYJ"
+      },
+      "artists": [
+        {
+          "name": "Holidays in United States",
+          "url": "https://open.spotify.com/artist/4Hx2EMq5CumzokenbyEcSM"
+        }
+      ],
+      "date_added": "2026-11-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 246895,
+      "name": "Dainty Flower Song",
+      "url": "https://open.spotify.com/track/3hMcwwnatAWMmDfcD3r1z2"
+    },
+    {
+      "album": {
         "name": "Dance In The USA",
         "url": "https://open.spotify.com/album/5s1MU2zNr7wTsNBpGRgbXg"
       },
@@ -5905,6 +5923,24 @@
     },
     {
       "album": {
+        "name": "Don't Talk to Me Until I've Had My Abortion",
+        "url": "https://open.spotify.com/album/2BmM2GY6hJvuwiccD83vGz"
+      },
+      "artists": [
+        {
+          "name": "Lambrini Girls",
+          "url": "https://open.spotify.com/artist/6VR4TJ20WGiho2xZWMuuWb"
+        }
+      ],
+      "date_added": "2026-11-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 210493,
+      "name": "Don't Talk to Me Until I've Had My Abortion",
+      "url": "https://open.spotify.com/track/3f1wjvvxHs7tlbyKZsz8De"
+    },
+    {
+      "album": {
         "name": "Don't Back Down",
         "url": "https://open.spotify.com/album/6nseS1XlNg1bPVN4vXADWB"
       },
@@ -5938,6 +5974,28 @@
       "duration_ms": 206657,
       "name": "Doomed",
       "url": "https://open.spotify.com/track/4B6fmmAk918hiTBQMVl1K6"
+    },
+    {
+      "album": {
+        "name": "Doomsday Generation (Slacker For The Ages)",
+        "url": "https://open.spotify.com/album/32mFfN6xpbIBnwXl4m48fj"
+      },
+      "artists": [
+        {
+          "name": "Fall Out Boy",
+          "url": "https://open.spotify.com/artist/4UXqAaa6dQYAk18Lv7PEgX"
+        },
+        {
+          "name": "Walter Schreifels",
+          "url": "https://open.spotify.com/artist/1RuSQyNZvgiJ6qHsBlxeuR"
+        }
+      ],
+      "date_added": "2026-11-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 223045,
+      "name": "Doomsday Generation (Slacker For The Ages) [feat. Walter Schreifels]",
+      "url": "https://open.spotify.com/track/5342n3vYxQg9xjdnbx3Ery"
     },
     {
       "album": {
@@ -13094,6 +13152,24 @@
       "duration_ms": 241222,
       "name": "Line It Up (feat. LP)",
       "url": "https://open.spotify.com/track/6pt3VzqcJ5jIUR5JyBtkmW"
+    },
+    {
+      "album": {
+        "name": "Morning Blue",
+        "url": "https://open.spotify.com/album/3UNColIC41CYMlTXK3qGl8"
+      },
+      "artists": [
+        {
+          "name": "Appleseed",
+          "url": "https://open.spotify.com/artist/5M5tZKYazaZLsl9HZouMoj"
+        }
+      ],
+      "date_added": "2026-11-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 207308,
+      "name": "Lipstick",
+      "url": "https://open.spotify.com/track/6M5RWnOZZLzO9zQIIXWhxg"
     },
     {
       "album": {
@@ -23234,7 +23310,7 @@
       ],
       "date_added": "2026-10-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-27",
       "duration_ms": 213643,
       "name": "The Basement",
       "url": "https://open.spotify.com/track/6b1M7lKBrXFUp2kimbTmRu"
@@ -25798,7 +25874,7 @@
       ],
       "date_added": "2026-10-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-27",
       "duration_ms": 179531,
       "name": "Waiting (For The Rope To Slip)",
       "url": "https://open.spotify.com/track/0Ned7ZGSBV6BdKAj1P4jry"

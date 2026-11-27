@@ -2245,6 +2245,24 @@
     },
     {
       "album": {
+        "name": "Our Warm December",
+        "url": "https://open.spotify.com/album/6ifWd9n7nODOMiGQ1hWanF"
+      },
+      "artists": [
+        {
+          "name": "LaSalle Street Trio",
+          "url": "https://open.spotify.com/artist/0lEDIqg3LH3JQ9YoFMJAIn"
+        }
+      ],
+      "date_added": "2026-11-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 188165,
+      "name": "Our Warm December",
+      "url": "https://open.spotify.com/track/1U39k07lfZQ0QZGZ2klJWw"
+    },
+    {
+      "album": {
         "name": "Please come home for christmas",
         "url": "https://open.spotify.com/album/5r2ZzaDZhyqzORtTWnbYPM"
       },
@@ -2641,6 +2659,24 @@
     },
     {
       "album": {
+        "name": "Snowflakes and Candlelight",
+        "url": "https://open.spotify.com/album/5CfZRrRdsFDOCx8759Urko"
+      },
+      "artists": [
+        {
+          "name": "Douglas Ruby Trio",
+          "url": "https://open.spotify.com/artist/1viVBXkZrTMnLT6hsFhiMM"
+        }
+      ],
+      "date_added": "2026-11-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 216552,
+      "name": "Snowflakes and Candlelight",
+      "url": "https://open.spotify.com/track/2EtkYde8Ae1d2ODrpjCArJ"
+    },
+    {
+      "album": {
         "name": "Somewhere In My Memory",
         "url": "https://open.spotify.com/album/3xVrlYjcB3OKVvfdvzMbCX"
       },
@@ -2692,6 +2728,24 @@
       "duration_ms": 190062,
       "name": "Suzy Snowflake",
       "url": "https://open.spotify.com/track/58zVXwV16mxnrtwi9WBng8"
+    },
+    {
+      "album": {
+        "name": "The Bells of Christmas Day",
+        "url": "https://open.spotify.com/album/3hnUpIBVBVtLe9s81PCVXR"
+      },
+      "artists": [
+        {
+          "name": "Fred Hayes",
+          "url": "https://open.spotify.com/artist/62p6oXKfOk0e0tLh9uO94a"
+        }
+      ],
+      "date_added": "2026-11-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 223713,
+      "name": "The Bells of Christmas Day",
+      "url": "https://open.spotify.com/track/3d02iej3oebiIKixEFOE5N"
     },
     {
       "album": {
@@ -3744,6 +3798,24 @@
       "duration_ms": 320071,
       "name": "You're All I Want For Christmas",
       "url": "https://open.spotify.com/track/3TKli016N6D1XnU0Jz8xVx"
+    },
+    {
+      "album": {
+        "name": "Yuletide",
+        "url": "https://open.spotify.com/album/6C1VbYmAvx84Vvs8gzvUSj"
+      },
+      "artists": [
+        {
+          "name": "Rudy Winston",
+          "url": "https://open.spotify.com/artist/0eg5Y6qtyXmuDqBqEHbJ6L"
+        }
+      ],
+      "date_added": "2026-11-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 212769,
+      "name": "Yuletide",
+      "url": "https://open.spotify.com/track/3YiqX79C4jWKkF3nmGodiu"
     }
   ],
   "url": "https://open.spotify.com/playlist/37i9dQZF1DWU0r6G8OGirN"

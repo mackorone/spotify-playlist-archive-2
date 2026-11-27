@@ -1,12 +1,12 @@
 {
   "description": "This is KB. The essential tracks, all in one playlist.",
-  "num_followers": 29275,
+  "num_followers": 29278,
   "original_name": "This Is KB",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "awOCAAAAAAAwFqRErgHowKeD8jbZeF/q",
+  "snapshot_id": "awYlAAAAAAD1WaeKZT7jRwEXiJ0wXMqF",
   "tracks": [
     {
       "added_at": null,
@@ -67,6 +67,30 @@
       "duration_ms": 195439,
       "name": "10K",
       "url": "https://open.spotify.com/track/6RSQJWAsHqCAqhH9cgStE5"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "GO! GO! GO! (feat. KB & Lecrae)",
+        "url": "https://open.spotify.com/album/2esYsGDC1pjESKiiAG2eHW"
+      },
+      "artists": [
+        {
+          "name": "Forrest Frank",
+          "url": "https://open.spotify.com/artist/1scVfBymTr3CeZ4imMj1QJ"
+        },
+        {
+          "name": "KB",
+          "url": "https://open.spotify.com/artist/77IKXFvO7SpWrq8hflrUXc"
+        },
+        {
+          "name": "Lecrae",
+          "url": "https://open.spotify.com/artist/1CFCsEqKrCyvAFKOATQHiW"
+        }
+      ],
+      "duration_ms": 210485,
+      "name": "GO! GO! GO! (feat. KB & Lecrae)",
+      "url": "https://open.spotify.com/track/7plb5KLIukEWva4OGtYd8Z"
     },
     {
       "added_at": null,
@@ -267,30 +291,6 @@
       "duration_ms": 205386,
       "name": "O God Forgive Us",
       "url": "https://open.spotify.com/track/2dBpNhfNCT1XkBRAOdam5J"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "GO! GO! GO! (feat. KB & Lecrae)",
-        "url": "https://open.spotify.com/album/2esYsGDC1pjESKiiAG2eHW"
-      },
-      "artists": [
-        {
-          "name": "Forrest Frank",
-          "url": "https://open.spotify.com/artist/1scVfBymTr3CeZ4imMj1QJ"
-        },
-        {
-          "name": "KB",
-          "url": "https://open.spotify.com/artist/77IKXFvO7SpWrq8hflrUXc"
-        },
-        {
-          "name": "Lecrae",
-          "url": "https://open.spotify.com/artist/1CFCsEqKrCyvAFKOATQHiW"
-        }
-      ],
-      "duration_ms": 210485,
-      "name": "GO! GO! GO! (feat. KB & Lecrae)",
-      "url": "https://open.spotify.com/track/7plb5KLIukEWva4OGtYd8Z"
     },
     {
       "added_at": null,
@@ -579,26 +579,26 @@
     {
       "added_at": null,
       "album": {
-        "name": "Long Live the Champion",
-        "url": "https://open.spotify.com/album/0AN00aCqSqB60vYCBInkDW"
+        "name": "Heroes for Sale",
+        "url": "https://open.spotify.com/album/4Ok6ziWADtgdRcy4nixjtL"
       },
       "artists": [
         {
+          "name": "Andy Mineo",
+          "url": "https://open.spotify.com/artist/1TMrnxBwZfmfRxsGzkNIHw"
+        },
+        {
+          "name": "Trip Lee",
+          "url": "https://open.spotify.com/artist/12H1Dmi64fAmmARrsyVFzy"
+        },
+        {
           "name": "KB",
           "url": "https://open.spotify.com/artist/77IKXFvO7SpWrq8hflrUXc"
-        },
-        {
-          "name": "Gabriel EMC",
-          "url": "https://open.spotify.com/artist/0rOLLmeuTbBAx7YKcVEECH"
-        },
-        {
-          "name": "Yariel",
-          "url": "https://open.spotify.com/artist/2eu1Av4h29jABu0xlHSt2T"
         }
       ],
-      "duration_ms": 263118,
-      "name": "Long Live the Champion",
-      "url": "https://open.spotify.com/track/6fUxgWa744fqILNOVFrysp"
+      "duration_ms": 238146,
+      "name": "The Saints",
+      "url": "https://open.spotify.com/track/6OJgPdiryjvefJC3fsDAuA"
     },
     {
       "added_at": null,
@@ -623,26 +623,26 @@
     {
       "added_at": null,
       "album": {
-        "name": "Heroes for Sale",
-        "url": "https://open.spotify.com/album/4Ok6ziWADtgdRcy4nixjtL"
+        "name": "Long Live the Champion",
+        "url": "https://open.spotify.com/album/0AN00aCqSqB60vYCBInkDW"
       },
       "artists": [
         {
-          "name": "Andy Mineo",
-          "url": "https://open.spotify.com/artist/1TMrnxBwZfmfRxsGzkNIHw"
-        },
-        {
-          "name": "Trip Lee",
-          "url": "https://open.spotify.com/artist/12H1Dmi64fAmmARrsyVFzy"
-        },
-        {
           "name": "KB",
           "url": "https://open.spotify.com/artist/77IKXFvO7SpWrq8hflrUXc"
+        },
+        {
+          "name": "Gabriel EMC",
+          "url": "https://open.spotify.com/artist/0rOLLmeuTbBAx7YKcVEECH"
+        },
+        {
+          "name": "Yariel",
+          "url": "https://open.spotify.com/artist/2eu1Av4h29jABu0xlHSt2T"
         }
       ],
-      "duration_ms": 238146,
-      "name": "The Saints",
-      "url": "https://open.spotify.com/track/6OJgPdiryjvefJC3fsDAuA"
+      "duration_ms": 263118,
+      "name": "Long Live the Champion",
+      "url": "https://open.spotify.com/track/6fUxgWa744fqILNOVFrysp"
     },
     {
       "added_at": null,
@@ -899,6 +899,26 @@
     {
       "added_at": null,
       "album": {
+        "name": "ChurchBoy",
+        "url": "https://open.spotify.com/album/4QWbEj7YUTJdenylYrh6gQ"
+      },
+      "artists": [
+        {
+          "name": "Tommy Royale",
+          "url": "https://open.spotify.com/artist/0gqbW7Uf6BAWiAh5C6jlPs"
+        },
+        {
+          "name": "KB",
+          "url": "https://open.spotify.com/artist/77IKXFvO7SpWrq8hflrUXc"
+        }
+      ],
+      "duration_ms": 179673,
+      "name": "Glory Down",
+      "url": "https://open.spotify.com/track/1sV4ycqdxAQY5cIXAETYzI"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "One Day",
         "url": "https://open.spotify.com/album/7GH4rWGig9L57E7PIM2wR3"
       },
@@ -915,26 +935,6 @@
       "duration_ms": 170118,
       "name": "One Day",
       "url": "https://open.spotify.com/track/0w39hcmQv902JMN5ZL862C"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Tomorrow We Live",
-        "url": "https://open.spotify.com/album/5ZjHNjAwBW3atSfIfkCQpR"
-      },
-      "artists": [
-        {
-          "name": "KB",
-          "url": "https://open.spotify.com/artist/77IKXFvO7SpWrq8hflrUXc"
-        },
-        {
-          "name": "Mattie of For Today",
-          "url": "https://open.spotify.com/artist/7BjHKoCoguN4piT5nr7F5z"
-        }
-      ],
-      "duration_ms": 236353,
-      "name": "I Believe",
-      "url": "https://open.spotify.com/track/67Up1s05wqRlG7sy0PWMlO"
     },
     {
       "added_at": null,
@@ -963,26 +963,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "ChurchBoy",
-        "url": "https://open.spotify.com/album/4QWbEj7YUTJdenylYrh6gQ"
-      },
-      "artists": [
-        {
-          "name": "Tommy Royale",
-          "url": "https://open.spotify.com/artist/0gqbW7Uf6BAWiAh5C6jlPs"
-        },
-        {
-          "name": "KB",
-          "url": "https://open.spotify.com/artist/77IKXFvO7SpWrq8hflrUXc"
-        }
-      ],
-      "duration_ms": 179673,
-      "name": "Glory Down",
-      "url": "https://open.spotify.com/track/1sV4ycqdxAQY5cIXAETYzI"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Black Sheep II",
         "url": "https://open.spotify.com/album/66xoIShSZw4gxHOIfetpa2"
       },
@@ -999,6 +979,26 @@
       "duration_ms": 154169,
       "name": "Black Sheep II",
       "url": "https://open.spotify.com/track/0spY4QN3gI12ohsr4TdqXu"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Tomorrow We Live",
+        "url": "https://open.spotify.com/album/5ZjHNjAwBW3atSfIfkCQpR"
+      },
+      "artists": [
+        {
+          "name": "KB",
+          "url": "https://open.spotify.com/artist/77IKXFvO7SpWrq8hflrUXc"
+        },
+        {
+          "name": "Mattie of For Today",
+          "url": "https://open.spotify.com/artist/7BjHKoCoguN4piT5nr7F5z"
+        }
+      ],
+      "duration_ms": 236353,
+      "name": "I Believe",
+      "url": "https://open.spotify.com/track/67Up1s05wqRlG7sy0PWMlO"
     },
     {
       "added_at": null,

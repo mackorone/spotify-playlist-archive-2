@@ -1,31 +1,15 @@
 {
-  "description": "\u0e40\u0e1e\u0e25\u0e07\u0e44\u0e17\u0e22\u0e2e\u0e34\u0e15\u0e25\u0e48\u0e32\u0e2a\u0e38\u0e14 \u0e1f\u0e31\u0e07\u0e44\u0e14\u0e49\u0e17\u0e35\u0e48\u0e19\u0e35\u0e48\u0e40\u0e25\u0e22! \u0e28\u0e34\u0e25\u0e1b\u0e34\u0e19: BOWKYLION",
-  "num_followers": 494160,
+  "description": "\u0e40\u0e1e\u0e25\u0e07\u0e44\u0e17\u0e22\u0e2e\u0e34\u0e15\u0e25\u0e48\u0e32\u0e2a\u0e38\u0e14 \u0e1f\u0e31\u0e07\u0e44\u0e14\u0e49\u0e17\u0e35\u0e48\u0e19\u0e35\u0e48\u0e40\u0e25\u0e22! \u0e28\u0e34\u0e25\u0e1b\u0e34\u0e19: 2Ectasy, jeffy, Kakagoesbackhome",
+  "num_followers": 494189,
   "original_name": "\u0e09\u0e31\u0e19\u0e1f\u0e31\u0e07\u0e40\u0e1e\u0e25\u0e07\u0e44\u0e17\u0e22",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAANt3E7adr3nuWsOvGY+vMu+etATR",
+  "snapshot_id": "AAAAAFVSxgz98k/37vYnjzKHqGd8U+TY",
   "tracks": [
     {
-      "added_at": "2026-11-19 19:48:15",
-      "album": {
-        "name": "\u0e40\u0e21\u0e37\u0e48\u0e2d\u0e44\u0e2b\u0e23\u0e48\u0e08\u0e30\u0e21\u0e35 (\u0e21\u0e35\u0e43\u0e08\u0e43\u0e2b\u0e49\u0e01\u0e31\u0e19)",
-        "url": "https://open.spotify.com/album/1LEPOmRF1QztU3ZG8cflDv"
-      },
-      "artists": [
-        {
-          "name": "BLVCKHEART",
-          "url": "https://open.spotify.com/artist/3Ld1g6LjfR2ILDB6SD8aJV"
-        }
-      ],
-      "duration_ms": 214883,
-      "name": "\u0e40\u0e21\u0e37\u0e48\u0e2d\u0e44\u0e2b\u0e23\u0e48\u0e08\u0e30\u0e21\u0e35 (\u0e21\u0e35\u0e43\u0e08\u0e43\u0e2b\u0e49\u0e01\u0e31\u0e19)",
-      "url": "https://open.spotify.com/track/7L3sb4eqF8zfQU8nAekHPm"
-    },
-    {
-      "added_at": "2026-11-19 19:48:15",
+      "added_at": "2026-11-26 18:55:06",
       "album": {
         "name": "IN MY ROOM SESSION",
         "url": "https://open.spotify.com/album/3aPXrz0ZpzkrD5rUKxPheq"
@@ -45,39 +29,23 @@
       "url": "https://open.spotify.com/track/1MByAT550hFxW3RZgb6EGy"
     },
     {
-      "added_at": "2026-11-19 19:48:15",
+      "added_at": "2026-11-26 18:55:06",
       "album": {
-        "name": "\u0e2a\u0e38\u0e02\u0e2a\u0e31\u0e19\u0e15\u0e4c\u0e1b\u0e35\u0e40\u0e01\u0e48\u0e32 (happy new tears)",
-        "url": "https://open.spotify.com/album/5g8jJGT9VVbM7jgz5IRD5T"
+        "name": "\u0e40\u0e21\u0e37\u0e48\u0e2d\u0e44\u0e2b\u0e23\u0e48\u0e08\u0e30\u0e21\u0e35 (\u0e21\u0e35\u0e43\u0e08\u0e43\u0e2b\u0e49\u0e01\u0e31\u0e19)",
+        "url": "https://open.spotify.com/album/1LEPOmRF1QztU3ZG8cflDv"
       },
       "artists": [
         {
-          "name": "BOWKYLION",
-          "url": "https://open.spotify.com/artist/2SWWw5uB9cO5m7zJQZqwmr"
+          "name": "BLVCKHEART",
+          "url": "https://open.spotify.com/artist/3Ld1g6LjfR2ILDB6SD8aJV"
         }
       ],
-      "duration_ms": 277773,
-      "name": "\u0e2a\u0e38\u0e02\u0e2a\u0e31\u0e19\u0e15\u0e4c\u0e1b\u0e35\u0e40\u0e01\u0e48\u0e32 (happy new tears)",
-      "url": "https://open.spotify.com/track/2gJI76yjDTtydqxz23tPWi"
+      "duration_ms": 214883,
+      "name": "\u0e40\u0e21\u0e37\u0e48\u0e2d\u0e44\u0e2b\u0e23\u0e48\u0e08\u0e30\u0e21\u0e35 (\u0e21\u0e35\u0e43\u0e08\u0e43\u0e2b\u0e49\u0e01\u0e31\u0e19)",
+      "url": "https://open.spotify.com/track/7L3sb4eqF8zfQU8nAekHPm"
     },
     {
-      "added_at": "2026-11-19 19:48:15",
-      "album": {
-        "name": "\u0e40\u0e14\u0e4b\u0e2d",
-        "url": "https://open.spotify.com/album/68o70uKuUqEPwfFyWw4NxY"
-      },
-      "artists": [
-        {
-          "name": "JOEY PHUWASIT",
-          "url": "https://open.spotify.com/artist/5RQZVhw9dwZYc10QQfNMf1"
-        }
-      ],
-      "duration_ms": 268000,
-      "name": "\u0e40\u0e14\u0e4b\u0e2d",
-      "url": "https://open.spotify.com/track/4e3NZ5xdfssiWxyUxLD8zh"
-    },
-    {
-      "added_at": "2026-11-19 19:48:15",
+      "added_at": "2026-11-26 18:55:06",
       "album": {
         "name": "\u0e40\u0e02\u0e35\u0e22\u0e27 \u0e40\u0e2b\u0e25\u0e37\u0e2d\u0e07 \u0e41\u0e14\u0e07 (Get high)",
         "url": "https://open.spotify.com/album/6p2B9XaCjhgTllt45zBufv"
@@ -97,151 +65,7 @@
       "url": "https://open.spotify.com/track/687OL6QdsLt1H8oU108dO5"
     },
     {
-      "added_at": "2026-11-19 19:48:15",
-      "album": {
-        "name": "\u0e02\u0e36\u0e49\u0e19\u0e43\u0e08 (3am call)",
-        "url": "https://open.spotify.com/album/60Pa5g1ZpmDiIFDXnuulUy"
-      },
-      "artists": [
-        {
-          "name": "Mirrr",
-          "url": "https://open.spotify.com/artist/5zSQoNQ9o2dnT1LPTzDxg7"
-        },
-        {
-          "name": "BLVCKHEART",
-          "url": "https://open.spotify.com/artist/3Ld1g6LjfR2ILDB6SD8aJV"
-        }
-      ],
-      "duration_ms": 261785,
-      "name": "\u0e02\u0e36\u0e49\u0e19\u0e43\u0e08 (3am call)",
-      "url": "https://open.spotify.com/track/36OWvhv70Cu3LGC92N79qs"
-    },
-    {
-      "added_at": "2026-11-19 19:48:15",
-      "album": {
-        "name": "\u0e23\u0e2d SIS (TER)",
-        "url": "https://open.spotify.com/album/3FPSENJW4gkgLHKSe2j28K"
-      },
-      "artists": [
-        {
-          "name": "DICEBLUE",
-          "url": "https://open.spotify.com/artist/1LeTvtKl5eAkBIzSzXY8Jv"
-        },
-        {
-          "name": "DICE",
-          "url": "https://open.spotify.com/artist/4TowSWXul9J5jxTyntRJEv"
-        }
-      ],
-      "duration_ms": 240461,
-      "name": "\u0e23\u0e2d SIS (TER)",
-      "url": "https://open.spotify.com/track/0jJ4i5wVYz6ENRrJqDWfz6"
-    },
-    {
-      "added_at": "2026-11-19 19:48:15",
-      "album": {
-        "name": "\u0e17\u0e35\u0e48\u0e04\u0e31\u0e48\u0e19\u0e2b\u0e19\u0e31\u0e07\u0e2a\u0e37\u0e2d (Sometimes)",
-        "url": "https://open.spotify.com/album/2K4KOfhgb6YLNdyVas8eq6"
-      },
-      "artists": [
-        {
-          "name": "BOWKYLION",
-          "url": "https://open.spotify.com/artist/2SWWw5uB9cO5m7zJQZqwmr"
-        },
-        {
-          "name": "NONT TANONT",
-          "url": "https://open.spotify.com/artist/6chmC6o0wvACYVGTITw3Pz"
-        }
-      ],
-      "duration_ms": 292500,
-      "name": "\u0e17\u0e35\u0e48\u0e04\u0e31\u0e48\u0e19\u0e2b\u0e19\u0e31\u0e07\u0e2a\u0e37\u0e2d (Sometimes)",
-      "url": "https://open.spotify.com/track/7zKxBR2LzgFMnVBX6d0ZhT"
-    },
-    {
-      "added_at": "2026-11-19 19:48:15",
-      "album": {
-        "name": "\u0e44\u0e21\u0e48\u0e23\u0e31\u0e01\u0e14\u0e35\u0e01\u0e27\u0e48\u0e32",
-        "url": "https://open.spotify.com/album/48cyb2zARYAHsN6G42LAe4"
-      },
-      "artists": [
-        {
-          "name": "Z9",
-          "url": "https://open.spotify.com/artist/4CuVt3p02OaWu4klQuJoDP"
-        }
-      ],
-      "duration_ms": 206222,
-      "name": "\u0e44\u0e21\u0e48\u0e23\u0e31\u0e01\u0e14\u0e35\u0e01\u0e27\u0e48\u0e32",
-      "url": "https://open.spotify.com/track/5F6Zfgz34H4UtJkCcDUlPs"
-    },
-    {
-      "added_at": "2026-11-19 19:48:15",
-      "album": {
-        "name": "\u0e02\u0e35\u0e49\u0e41\u0e07 (Boys Don't Cry)",
-        "url": "https://open.spotify.com/album/6nLwr7ShdFiiCtvwMw0epG"
-      },
-      "artists": [
-        {
-          "name": "PROXIE",
-          "url": "https://open.spotify.com/artist/4tNPboeMQnpoUX7IEbPLdF"
-        }
-      ],
-      "duration_ms": 255000,
-      "name": "\u0e02\u0e35\u0e49\u0e41\u0e07 (Boys Don't Cry)",
-      "url": "https://open.spotify.com/track/04nwoRnWqFYhFLaRNWuNw5"
-    },
-    {
-      "added_at": "2026-11-19 19:48:15",
-      "album": {
-        "name": "\u0e22\u0e34\u0e49\u0e21\u0e2d\u0e31\u0e19\u0e15\u0e23\u0e32\u0e22",
-        "url": "https://open.spotify.com/album/70cUAo97nlXQCk7956MzWc"
-      },
-      "artists": [
-        {
-          "name": "PORZAX",
-          "url": "https://open.spotify.com/artist/4ykAAPcxGHz8z6N0muxbIP"
-        }
-      ],
-      "duration_ms": 201408,
-      "name": "\u0e22\u0e34\u0e49\u0e21\u0e2d\u0e31\u0e19\u0e15\u0e23\u0e32\u0e22",
-      "url": "https://open.spotify.com/track/6CChRSAdxrZR5X1pkCVslW"
-    },
-    {
-      "added_at": "2026-11-19 19:48:15",
-      "album": {
-        "name": "MONO / SPECTRUM",
-        "url": "https://open.spotify.com/album/2qOC78skUSP5Z8SmKiLjhM"
-      },
-      "artists": [
-        {
-          "name": "NONT TANONT",
-          "url": "https://open.spotify.com/artist/6chmC6o0wvACYVGTITw3Pz"
-        },
-        {
-          "name": "Singto Numchok",
-          "url": "https://open.spotify.com/artist/780z5aP7EUHfDT6Q5YERKL"
-        }
-      ],
-      "duration_ms": 227007,
-      "name": "\u0e04\u0e37\u0e19\u0e17\u0e35\u0e48\u0e2b\u0e21\u0e32\u0e40\u0e15\u0e47\u0e21\u0e27\u0e31\u0e14 (Temple Dogs)",
-      "url": "https://open.spotify.com/track/2T5VpNm9NMazC504Un8eKX"
-    },
-    {
-      "added_at": "2026-11-19 19:48:15",
-      "album": {
-        "name": "\u0e2d\u0e22\u0e32\u0e01\u0e08\u0e30\u0e01\u0e2d\u0e14\u0e40\u0e18\u0e2d\u0e19\u0e32\u0e19 \u0e46 (HAVE A GOOD TIME)",
-        "url": "https://open.spotify.com/album/51gTzozCry8vsoOpJikdqL"
-      },
-      "artists": [
-        {
-          "name": "BLVCKHEART",
-          "url": "https://open.spotify.com/artist/3Ld1g6LjfR2ILDB6SD8aJV"
-        }
-      ],
-      "duration_ms": 219428,
-      "name": "\u0e2d\u0e22\u0e32\u0e01\u0e08\u0e30\u0e01\u0e2d\u0e14\u0e40\u0e18\u0e2d\u0e19\u0e32\u0e19 \u0e46 (HAVE A GOOD TIME)",
-      "url": "https://open.spotify.com/track/63oA4hG0SqvsUFfaEhgqVX"
-    },
-    {
-      "added_at": "2026-11-19 19:48:15",
+      "added_at": "2026-11-26 18:55:06",
       "album": {
         "name": "\u0e0a\u0e31\u0e48\u0e27 (SURE)",
         "url": "https://open.spotify.com/album/0fVYbBaVCDBC6qi7mI5oa7"
@@ -265,10 +89,102 @@
       "url": "https://open.spotify.com/track/5RQdNyuZMWfmZKIBJrpP7Q"
     },
     {
-      "added_at": "2026-11-19 19:48:15",
+      "added_at": "2026-11-26 18:55:06",
       "album": {
-        "name": "\u0e44\u0e21\u0e48\u0e2d\u0e22\u0e32\u0e01\u0e08\u0e30\u0e40\u0e25\u0e27 (Not Bad)",
-        "url": "https://open.spotify.com/album/6JWyZ4DxRGDjcHoLf0K45B"
+        "name": "\u0e02\u0e36\u0e49\u0e19\u0e43\u0e08 (3am call)",
+        "url": "https://open.spotify.com/album/60Pa5g1ZpmDiIFDXnuulUy"
+      },
+      "artists": [
+        {
+          "name": "Mirrr",
+          "url": "https://open.spotify.com/artist/5zSQoNQ9o2dnT1LPTzDxg7"
+        },
+        {
+          "name": "BLVCKHEART",
+          "url": "https://open.spotify.com/artist/3Ld1g6LjfR2ILDB6SD8aJV"
+        }
+      ],
+      "duration_ms": 261785,
+      "name": "\u0e02\u0e36\u0e49\u0e19\u0e43\u0e08 (3am call)",
+      "url": "https://open.spotify.com/track/36OWvhv70Cu3LGC92N79qs"
+    },
+    {
+      "added_at": "2026-11-26 18:55:06",
+      "album": {
+        "name": "\u0e17\u0e35\u0e48\u0e04\u0e31\u0e48\u0e19\u0e2b\u0e19\u0e31\u0e07\u0e2a\u0e37\u0e2d (Sometimes)",
+        "url": "https://open.spotify.com/album/2K4KOfhgb6YLNdyVas8eq6"
+      },
+      "artists": [
+        {
+          "name": "BOWKYLION",
+          "url": "https://open.spotify.com/artist/2SWWw5uB9cO5m7zJQZqwmr"
+        },
+        {
+          "name": "NONT TANONT",
+          "url": "https://open.spotify.com/artist/6chmC6o0wvACYVGTITw3Pz"
+        }
+      ],
+      "duration_ms": 292500,
+      "name": "\u0e17\u0e35\u0e48\u0e04\u0e31\u0e48\u0e19\u0e2b\u0e19\u0e31\u0e07\u0e2a\u0e37\u0e2d (Sometimes)",
+      "url": "https://open.spotify.com/track/7zKxBR2LzgFMnVBX6d0ZhT"
+    },
+    {
+      "added_at": "2026-11-26 18:55:06",
+      "album": {
+        "name": "\u0e40\u0e14\u0e4b\u0e2d",
+        "url": "https://open.spotify.com/album/68o70uKuUqEPwfFyWw4NxY"
+      },
+      "artists": [
+        {
+          "name": "JOEY PHUWASIT",
+          "url": "https://open.spotify.com/artist/5RQZVhw9dwZYc10QQfNMf1"
+        }
+      ],
+      "duration_ms": 268000,
+      "name": "\u0e40\u0e14\u0e4b\u0e2d",
+      "url": "https://open.spotify.com/track/4e3NZ5xdfssiWxyUxLD8zh"
+    },
+    {
+      "added_at": "2026-11-26 18:55:06",
+      "album": {
+        "name": "MONO / SPECTRUM",
+        "url": "https://open.spotify.com/album/2qOC78skUSP5Z8SmKiLjhM"
+      },
+      "artists": [
+        {
+          "name": "NONT TANONT",
+          "url": "https://open.spotify.com/artist/6chmC6o0wvACYVGTITw3Pz"
+        },
+        {
+          "name": "Singto Numchok",
+          "url": "https://open.spotify.com/artist/780z5aP7EUHfDT6Q5YERKL"
+        }
+      ],
+      "duration_ms": 227007,
+      "name": "\u0e04\u0e37\u0e19\u0e17\u0e35\u0e48\u0e2b\u0e21\u0e32\u0e40\u0e15\u0e47\u0e21\u0e27\u0e31\u0e14 (Temple Dogs)",
+      "url": "https://open.spotify.com/track/2T5VpNm9NMazC504Un8eKX"
+    },
+    {
+      "added_at": "2026-11-26 18:55:06",
+      "album": {
+        "name": "\u0e2d\u0e22\u0e32\u0e01\u0e08\u0e30\u0e01\u0e2d\u0e14\u0e40\u0e18\u0e2d\u0e19\u0e32\u0e19 \u0e46 (HAVE A GOOD TIME)",
+        "url": "https://open.spotify.com/album/51gTzozCry8vsoOpJikdqL"
+      },
+      "artists": [
+        {
+          "name": "BLVCKHEART",
+          "url": "https://open.spotify.com/artist/3Ld1g6LjfR2ILDB6SD8aJV"
+        }
+      ],
+      "duration_ms": 219428,
+      "name": "\u0e2d\u0e22\u0e32\u0e01\u0e08\u0e30\u0e01\u0e2d\u0e14\u0e40\u0e18\u0e2d\u0e19\u0e32\u0e19 \u0e46 (HAVE A GOOD TIME)",
+      "url": "https://open.spotify.com/track/63oA4hG0SqvsUFfaEhgqVX"
+    },
+    {
+      "added_at": "2026-11-26 18:55:06",
+      "album": {
+        "name": "\u0e44\u0e21\u0e48\u0e23\u0e31\u0e01\u0e14\u0e35\u0e01\u0e27\u0e48\u0e32",
+        "url": "https://open.spotify.com/album/48cyb2zARYAHsN6G42LAe4"
       },
       "artists": [
         {
@@ -276,44 +192,12 @@
           "url": "https://open.spotify.com/artist/4CuVt3p02OaWu4klQuJoDP"
         }
       ],
-      "duration_ms": 200439,
-      "name": "\u0e44\u0e21\u0e48\u0e2d\u0e22\u0e32\u0e01\u0e08\u0e30\u0e40\u0e25\u0e27 (Not Bad)",
-      "url": "https://open.spotify.com/track/35twBI2bQPkDTRvmkKgyGb"
+      "duration_ms": 206222,
+      "name": "\u0e44\u0e21\u0e48\u0e23\u0e31\u0e01\u0e14\u0e35\u0e01\u0e27\u0e48\u0e32",
+      "url": "https://open.spotify.com/track/5F6Zfgz34H4UtJkCcDUlPs"
     },
     {
-      "added_at": "2026-11-19 19:48:15",
-      "album": {
-        "name": "\u0e43\u0e08\u0e25\u0e2d\u0e22 (Join a line)",
-        "url": "https://open.spotify.com/album/0krMujtk1IHKmwbd9AZbUM"
-      },
-      "artists": [
-        {
-          "name": "NONT TANONT",
-          "url": "https://open.spotify.com/artist/6chmC6o0wvACYVGTITw3Pz"
-        }
-      ],
-      "duration_ms": 240374,
-      "name": "\u0e43\u0e08\u0e25\u0e2d\u0e22 (Join a line)",
-      "url": "https://open.spotify.com/track/7gEbFk8tNECKN2ioXrcEQS"
-    },
-    {
-      "added_at": "2026-11-19 19:48:15",
-      "album": {
-        "name": "\u0e19\u0e32\u0e2c\u0e34\u0e01\u0e32\u0e17\u0e23\u0e32\u0e22 (sign)",
-        "url": "https://open.spotify.com/album/0uOFuflrHAMrKt3CXmtOsW"
-      },
-      "artists": [
-        {
-          "name": "BOWKYLION",
-          "url": "https://open.spotify.com/artist/2SWWw5uB9cO5m7zJQZqwmr"
-        }
-      ],
-      "duration_ms": 255466,
-      "name": "\u0e19\u0e32\u0e2c\u0e34\u0e01\u0e32\u0e17\u0e23\u0e32\u0e22 (sign)",
-      "url": "https://open.spotify.com/track/4S0zJwuiJF9ImbGYUbGrNT"
-    },
-    {
-      "added_at": "2026-11-19 19:48:15",
+      "added_at": "2026-11-26 18:55:06",
       "album": {
         "name": "Living Death",
         "url": "https://open.spotify.com/album/13Lok3WGq1u7Kby0x9hF5Y"
@@ -329,7 +213,75 @@
       "url": "https://open.spotify.com/track/0ze2gwpSfT2leQALslUXId"
     },
     {
-      "added_at": "2026-11-19 19:48:15",
+      "added_at": "2026-11-26 18:55:06",
+      "album": {
+        "name": "\u0e19\u0e32\u0e2c\u0e34\u0e01\u0e32\u0e17\u0e23\u0e32\u0e22 (sign)",
+        "url": "https://open.spotify.com/album/0uOFuflrHAMrKt3CXmtOsW"
+      },
+      "artists": [
+        {
+          "name": "BOWKYLION",
+          "url": "https://open.spotify.com/artist/2SWWw5uB9cO5m7zJQZqwmr"
+        }
+      ],
+      "duration_ms": 255466,
+      "name": "\u0e19\u0e32\u0e2c\u0e34\u0e01\u0e32\u0e17\u0e23\u0e32\u0e22 (sign)",
+      "url": "https://open.spotify.com/track/4S0zJwuiJF9ImbGYUbGrNT"
+    },
+    {
+      "added_at": "2026-11-26 18:55:06",
+      "album": {
+        "name": "\u0e23\u0e2d SIS (TER)",
+        "url": "https://open.spotify.com/album/3FPSENJW4gkgLHKSe2j28K"
+      },
+      "artists": [
+        {
+          "name": "DICEBLUE",
+          "url": "https://open.spotify.com/artist/1LeTvtKl5eAkBIzSzXY8Jv"
+        },
+        {
+          "name": "DICE",
+          "url": "https://open.spotify.com/artist/4TowSWXul9J5jxTyntRJEv"
+        }
+      ],
+      "duration_ms": 240461,
+      "name": "\u0e23\u0e2d SIS (TER)",
+      "url": "https://open.spotify.com/track/0jJ4i5wVYz6ENRrJqDWfz6"
+    },
+    {
+      "added_at": "2026-11-26 18:55:06",
+      "album": {
+        "name": "\u0e02\u0e35\u0e49\u0e41\u0e07 (Boys Don't Cry)",
+        "url": "https://open.spotify.com/album/6nLwr7ShdFiiCtvwMw0epG"
+      },
+      "artists": [
+        {
+          "name": "PROXIE",
+          "url": "https://open.spotify.com/artist/4tNPboeMQnpoUX7IEbPLdF"
+        }
+      ],
+      "duration_ms": 255000,
+      "name": "\u0e02\u0e35\u0e49\u0e41\u0e07 (Boys Don't Cry)",
+      "url": "https://open.spotify.com/track/04nwoRnWqFYhFLaRNWuNw5"
+    },
+    {
+      "added_at": "2026-11-26 18:55:06",
+      "album": {
+        "name": "\u0e22\u0e34\u0e49\u0e21\u0e2d\u0e31\u0e19\u0e15\u0e23\u0e32\u0e22",
+        "url": "https://open.spotify.com/album/70cUAo97nlXQCk7956MzWc"
+      },
+      "artists": [
+        {
+          "name": "PORZAX",
+          "url": "https://open.spotify.com/artist/4ykAAPcxGHz8z6N0muxbIP"
+        }
+      ],
+      "duration_ms": 201408,
+      "name": "\u0e22\u0e34\u0e49\u0e21\u0e2d\u0e31\u0e19\u0e15\u0e23\u0e32\u0e22",
+      "url": "https://open.spotify.com/track/6CChRSAdxrZR5X1pkCVslW"
+    },
+    {
+      "added_at": "2026-11-26 18:55:06",
       "album": {
         "name": "\u0e40\u0e21\u0e37\u0e48\u0e2d\u0e16\u0e39\u0e01\u0e04\u0e49\u0e19\u0e1e\u0e1a (Finally She Found.)",
         "url": "https://open.spotify.com/album/5u0Pz8t52IOj4J7R3wsKlm"
@@ -345,23 +297,23 @@
       "url": "https://open.spotify.com/track/7q9cMJ0oDZFZSnqatZNabo"
     },
     {
-      "added_at": "2026-11-19 19:48:15",
+      "added_at": "2026-11-26 18:55:06",
       "album": {
-        "name": "\u0e0a\u0e35\u0e27\u0e34\u0e15\u0e04\u0e37\u0e2d\u0e2d\u0e30\u0e44\u0e23? (Winter Is Coming)",
-        "url": "https://open.spotify.com/album/23TjisvxxfW8EHT7w9U8m0"
+        "name": "\u0e2a\u0e38\u0e02\u0e2a\u0e31\u0e19\u0e15\u0e4c\u0e1b\u0e35\u0e40\u0e01\u0e48\u0e32 (happy new tears)",
+        "url": "https://open.spotify.com/album/5g8jJGT9VVbM7jgz5IRD5T"
       },
       "artists": [
         {
-          "name": "THE TOYS",
-          "url": "https://open.spotify.com/artist/5pokGZ1K9Hr6etaKPDxSG8"
+          "name": "BOWKYLION",
+          "url": "https://open.spotify.com/artist/2SWWw5uB9cO5m7zJQZqwmr"
         }
       ],
-      "duration_ms": 177362,
-      "name": "\u0e0a\u0e35\u0e27\u0e34\u0e15\u0e04\u0e37\u0e2d\u0e2d\u0e30\u0e44\u0e23? (Winter Is Coming)",
-      "url": "https://open.spotify.com/track/7wm5UZWumOYMcynaX5R2M7"
+      "duration_ms": 277773,
+      "name": "\u0e2a\u0e38\u0e02\u0e2a\u0e31\u0e19\u0e15\u0e4c\u0e1b\u0e35\u0e40\u0e01\u0e48\u0e32 (happy new tears)",
+      "url": "https://open.spotify.com/track/2gJI76yjDTtydqxz23tPWi"
     },
     {
-      "added_at": "2026-11-19 19:48:15",
+      "added_at": "2026-11-26 18:55:06",
       "album": {
         "name": "Airdrop",
         "url": "https://open.spotify.com/album/2n1C5XRNLVUAhXSM0EIvEf"
@@ -377,7 +329,55 @@
       "url": "https://open.spotify.com/track/13NbV4PcJeeIHJkCSuUOK6"
     },
     {
-      "added_at": "2026-11-19 19:48:15",
+      "added_at": "2026-11-26 18:55:06",
+      "album": {
+        "name": "\u0e44\u0e21\u0e48\u0e2d\u0e22\u0e32\u0e01\u0e08\u0e30\u0e40\u0e25\u0e27 (Not Bad)",
+        "url": "https://open.spotify.com/album/6JWyZ4DxRGDjcHoLf0K45B"
+      },
+      "artists": [
+        {
+          "name": "Z9",
+          "url": "https://open.spotify.com/artist/4CuVt3p02OaWu4klQuJoDP"
+        }
+      ],
+      "duration_ms": 200439,
+      "name": "\u0e44\u0e21\u0e48\u0e2d\u0e22\u0e32\u0e01\u0e08\u0e30\u0e40\u0e25\u0e27 (Not Bad)",
+      "url": "https://open.spotify.com/track/35twBI2bQPkDTRvmkKgyGb"
+    },
+    {
+      "added_at": "2026-11-26 18:55:06",
+      "album": {
+        "name": "\u0e43\u0e08\u0e25\u0e2d\u0e22 (Join a line)",
+        "url": "https://open.spotify.com/album/0krMujtk1IHKmwbd9AZbUM"
+      },
+      "artists": [
+        {
+          "name": "NONT TANONT",
+          "url": "https://open.spotify.com/artist/6chmC6o0wvACYVGTITw3Pz"
+        }
+      ],
+      "duration_ms": 240374,
+      "name": "\u0e43\u0e08\u0e25\u0e2d\u0e22 (Join a line)",
+      "url": "https://open.spotify.com/track/7gEbFk8tNECKN2ioXrcEQS"
+    },
+    {
+      "added_at": "2026-11-26 18:55:06",
+      "album": {
+        "name": "\u0e0a\u0e35\u0e27\u0e34\u0e15\u0e04\u0e37\u0e2d\u0e2d\u0e30\u0e44\u0e23? (Winter Is Coming)",
+        "url": "https://open.spotify.com/album/23TjisvxxfW8EHT7w9U8m0"
+      },
+      "artists": [
+        {
+          "name": "THE TOYS",
+          "url": "https://open.spotify.com/artist/5pokGZ1K9Hr6etaKPDxSG8"
+        }
+      ],
+      "duration_ms": 177362,
+      "name": "\u0e0a\u0e35\u0e27\u0e34\u0e15\u0e04\u0e37\u0e2d\u0e2d\u0e30\u0e44\u0e23? (Winter Is Coming)",
+      "url": "https://open.spotify.com/track/7wm5UZWumOYMcynaX5R2M7"
+    },
+    {
+      "added_at": "2026-11-26 18:55:06",
       "album": {
         "name": "\u0e40\u0e1c\u0e37\u0e48\u0e2d\u0e40\u0e23\u0e32\u0e44\u0e21\u0e48\u0e15\u0e49\u0e2d\u0e07\u0e25\u0e32\u0e08\u0e32\u0e01\u0e01\u0e31\u0e19 (Crossroads)",
         "url": "https://open.spotify.com/album/3imU1ZmhUDVMxNcXSmuWlK"
@@ -397,23 +397,7 @@
       "url": "https://open.spotify.com/track/2LtSM37UtPQnYDNrWyvSfg"
     },
     {
-      "added_at": "2026-11-19 19:48:15",
-      "album": {
-        "name": "BLACK DOT",
-        "url": "https://open.spotify.com/album/7LzDctfQANC6fjkT3QRrgU"
-      },
-      "artists": [
-        {
-          "name": "Potato",
-          "url": "https://open.spotify.com/artist/6RQyog3L4JlA8t8Bf56otE"
-        }
-      ],
-      "duration_ms": 282276,
-      "name": "\u0e2b\u0e49\u0e2d\u0e07",
-      "url": "https://open.spotify.com/track/3fCGKYT8TYo9CQ38Tl3IRL"
-    },
-    {
-      "added_at": "2026-11-19 19:48:15",
+      "added_at": "2026-11-26 18:55:06",
       "album": {
         "name": "\u0e44\u0e21\u0e48\u0e44\u0e14\u0e49\u0e40\u0e25\u0e27\u0e02\u0e19\u0e32\u0e14\u0e19\u0e31\u0e49\u0e19",
         "url": "https://open.spotify.com/album/4sEAqrhYwapYYBC2LXgTlJ"
@@ -429,7 +413,7 @@
       "url": "https://open.spotify.com/track/39AgEgwkAasTQgKgaO7KWI"
     },
     {
-      "added_at": "2026-11-19 19:48:15",
+      "added_at": "2026-11-26 18:55:06",
       "album": {
         "name": "\u0e41\u0e04\u0e48\u0e40\u0e18\u0e2d\u0e41\u0e04\u0e48\u0e40\u0e18\u0e2d",
         "url": "https://open.spotify.com/album/0XqqhAzaXerogBQgniTZpy"
@@ -449,7 +433,7 @@
       "url": "https://open.spotify.com/track/3H1mjWpfQRIvIgP6ogYLkW"
     },
     {
-      "added_at": "2026-11-19 19:48:15",
+      "added_at": "2026-11-26 18:55:06",
       "album": {
         "name": "DND (\u0e42\u0e2b\u0e21\u0e14\u0e1e\u0e23\u0e30\u0e08\u0e31\u0e19\u0e17\u0e23\u0e4c\ud83c\udf19)",
         "url": "https://open.spotify.com/album/41N8FQilvC33nTjqPmALcL"
@@ -469,7 +453,7 @@
       "url": "https://open.spotify.com/track/0bwzEJDyFoZYQ3byuS7NPX"
     },
     {
-      "added_at": "2026-11-19 19:48:15",
+      "added_at": "2026-11-26 18:55:06",
       "album": {
         "name": "\u0e16\u0e49\u0e32\u0e40\u0e08\u0e2d\u0e01\u0e31\u0e19\u0e2d\u0e35\u0e01\u0e04\u0e23\u0e31\u0e49\u0e07",
         "url": "https://open.spotify.com/album/7LcYxSXWNqvrIzYGliK0Nk"
@@ -493,7 +477,7 @@
       "url": "https://open.spotify.com/track/03NqlCLVasMHXfdqw8dBEL"
     },
     {
-      "added_at": "2026-11-19 19:48:15",
+      "added_at": "2026-11-26 18:55:06",
       "album": {
         "name": "\u0e23\u0e31\u0e01\u0e43\u0e2b\u0e49\u0e40\u0e18\u0e2d\u0e44\u0e14\u0e49\u0e23\u0e39\u0e49 (Proof.)",
         "url": "https://open.spotify.com/album/0UEgkWQcEQ9pvIHUpuxbmH"
@@ -509,7 +493,7 @@
       "url": "https://open.spotify.com/track/0jmSojJLnjiQpGGM3HHlYS"
     },
     {
-      "added_at": "2026-11-19 19:48:15",
+      "added_at": "2026-11-26 18:55:06",
       "album": {
         "name": "\u0e17\u0e35\u0e48\u0e0a\u0e2d\u0e1a\u0e17\u0e35\u0e48\u0e0a\u0e2d\u0e1a (Grief Eaters)",
         "url": "https://open.spotify.com/album/6Xn7mE2Zfgs9Rj8VZl3glo"
@@ -525,7 +509,7 @@
       "url": "https://open.spotify.com/track/62VsUDl6ZUzR8STxeeoXzB"
     },
     {
-      "added_at": "2026-11-19 19:48:15",
+      "added_at": "2026-11-26 18:55:06",
       "album": {
         "name": "\u0e2b\u0e25\u0e38\u0e21\u0e2d\u0e32\u0e01\u0e32\u0e28",
         "url": "https://open.spotify.com/album/4L5tegjCajfCK99LLZ0Kk0"
@@ -541,7 +525,7 @@
       "url": "https://open.spotify.com/track/75FEJ1dyr39vGXC20EyQYb"
     },
     {
-      "added_at": "2026-11-19 19:48:15",
+      "added_at": "2026-11-26 18:55:06",
       "album": {
         "name": "DUST",
         "url": "https://open.spotify.com/album/2y7x9mZ9M0hWIQL7JhAOGV"
@@ -557,7 +541,7 @@
       "url": "https://open.spotify.com/track/3J06uWLDn8bNnnQznle5V6"
     },
     {
-      "added_at": "2026-11-19 19:48:15",
+      "added_at": "2026-11-26 18:55:06",
       "album": {
         "name": "\u0e08\u0e32\u0e01\u0e01\u0e31\u0e19\u0e42\u0e14\u0e22\u0e2a\u0e21\u0e1a\u0e39\u0e23\u0e13\u0e4c",
         "url": "https://open.spotify.com/album/7rfPxZAEK7xLGgClLqPKlB"
@@ -573,7 +557,7 @@
       "url": "https://open.spotify.com/track/6SAcZT7H44417uxybshTEy"
     },
     {
-      "added_at": "2026-11-19 19:48:15",
+      "added_at": "2026-11-26 18:55:06",
       "album": {
         "name": "Rain Zone",
         "url": "https://open.spotify.com/album/5oAY1ajznhsPn951S81bMa"
@@ -593,7 +577,7 @@
       "url": "https://open.spotify.com/track/7nSkSqb1WDtZ7hY2dVEvWY"
     },
     {
-      "added_at": "2026-11-19 19:48:15",
+      "added_at": "2026-11-26 18:55:06",
       "album": {
         "name": "\u0e21\u0e32\u0e40\u0e1f\u0e35\u0e22\u0e1a\u0e49\u0e32\u0e19\u0e19\u0e2d\u0e01",
         "url": "https://open.spotify.com/album/44TeGl4pymTIPSdD6gmktS"
@@ -609,7 +593,7 @@
       "url": "https://open.spotify.com/track/4dd6gy6OI2WRGHl8MERcJb"
     },
     {
-      "added_at": "2026-11-19 19:48:15",
+      "added_at": "2026-11-26 18:55:06",
       "album": {
         "name": "ROOM101",
         "url": "https://open.spotify.com/album/5KyBfveZb2nGL3Hl4qlwz3"
@@ -629,7 +613,7 @@
       "url": "https://open.spotify.com/track/1FhxX1Su9kwKFEqM4qqEJ6"
     },
     {
-      "added_at": "2026-11-19 19:48:15",
+      "added_at": "2026-11-26 18:55:06",
       "album": {
         "name": "\u0e01\u0e25\u0e31\u0e27\u0e27\u0e48\u0e32\u0e09\u0e31\u0e19\u0e08\u0e30\u0e44\u0e21\u0e48\u0e40\u0e2a\u0e35\u0e22\u0e43\u0e08 (Fear)",
         "url": "https://open.spotify.com/album/1Uwz9ZHd0kCz4cqxNCUs7K"
@@ -645,7 +629,23 @@
       "url": "https://open.spotify.com/track/4ntIPuXf6DpvrZExXrn5QA"
     },
     {
-      "added_at": "2026-11-19 19:48:15",
+      "added_at": "2026-11-26 18:55:06",
+      "album": {
+        "name": "BLACK DOT",
+        "url": "https://open.spotify.com/album/7LzDctfQANC6fjkT3QRrgU"
+      },
+      "artists": [
+        {
+          "name": "Potato",
+          "url": "https://open.spotify.com/artist/6RQyog3L4JlA8t8Bf56otE"
+        }
+      ],
+      "duration_ms": 282276,
+      "name": "\u0e2b\u0e49\u0e2d\u0e07",
+      "url": "https://open.spotify.com/track/3fCGKYT8TYo9CQ38Tl3IRL"
+    },
+    {
+      "added_at": "2026-11-26 18:55:06",
       "album": {
         "name": "\u0e23\u0e31\u0e01\u0e43\u0e04\u0e23\u0e44\u0e21\u0e48\u0e44\u0e2b\u0e27",
         "url": "https://open.spotify.com/album/0m2tnO0TVcf6tfiYVofY59"
@@ -661,7 +661,7 @@
       "url": "https://open.spotify.com/track/6UONhODhp5Yz51rL0gcxMU"
     },
     {
-      "added_at": "2026-11-19 19:48:15",
+      "added_at": "2026-11-26 18:55:06",
       "album": {
         "name": "\u0e01\u0e25\u0e32\u0e07\u0e21\u0e2b\u0e32\u0e2a\u0e21\u0e38\u0e17\u0e23",
         "url": "https://open.spotify.com/album/24KlGswQvpqvsgBYOzLZOE"
@@ -677,7 +677,7 @@
       "url": "https://open.spotify.com/track/0MkfrwAd9W9MOVRiEpjpvA"
     },
     {
-      "added_at": "2026-11-19 19:48:15",
+      "added_at": "2026-11-26 18:55:06",
       "album": {
         "name": "\u0e2a\u0e32\u0e22\u0e44\u0e1b",
         "url": "https://open.spotify.com/album/3pnYrlNhLlMwkV9gDSXphN"
@@ -697,7 +697,7 @@
       "url": "https://open.spotify.com/track/45VmbHRJywi2mNaIGvHs44"
     },
     {
-      "added_at": "2026-11-19 19:48:15",
+      "added_at": "2026-11-26 18:55:06",
       "album": {
         "name": "\u0e41\u0e1f\u0e19\u0e43\u0e04\u0e23\u0e1b\u0e30\u0e04\u0e30 (Final Call)",
         "url": "https://open.spotify.com/album/7gbhdy8uyq1zThUAKVTYM8"
@@ -717,7 +717,7 @@
       "url": "https://open.spotify.com/track/3NoLOb2z1kWZCNNQDO9eE3"
     },
     {
-      "added_at": "2026-11-19 19:48:15",
+      "added_at": "2026-11-26 18:55:06",
       "album": {
         "name": "While I'm away",
         "url": "https://open.spotify.com/album/5bDsVtGFlIsqnrWnOgIK7W"
@@ -733,7 +733,7 @@
       "url": "https://open.spotify.com/track/6uS1yKSfktHNN7o4AradRV"
     },
     {
-      "added_at": "2026-11-19 19:48:15",
+      "added_at": "2026-11-26 18:55:06",
       "album": {
         "name": "\u0e44\u0e14\u0e49\u0e42\u0e1b\u0e23\u0e14\u0e2d\u0e22\u0e39\u0e48\u0e15\u0e23\u0e07\u0e19\u0e35\u0e49 (Upside Down)",
         "url": "https://open.spotify.com/album/3UomWRkUyNpaIbeBxE5wOL"
@@ -753,7 +753,7 @@
       "url": "https://open.spotify.com/track/2Lvp0KYwXrU1L9OHQNA5Be"
     },
     {
-      "added_at": "2026-11-19 19:48:15",
+      "added_at": "2026-11-26 18:55:06",
       "album": {
         "name": "\u0e44\u0e21\u0e48\u0e44\u0e14\u0e49\u0e25\u0e37\u0e21\u0e41\u0e04\u0e48\u0e44\u0e21\u0e48\u0e44\u0e14\u0e49\u0e40\u0e08\u0e2d (Flashback)",
         "url": "https://open.spotify.com/album/3VA8BIHjnmu3sOgZcEB97e"
@@ -769,7 +769,7 @@
       "url": "https://open.spotify.com/track/2m7as7aD1JAEUSOJCNoeHT"
     },
     {
-      "added_at": "2026-11-19 19:48:15",
+      "added_at": "2026-11-26 18:55:06",
       "album": {
         "name": "\u0e1d\u0e32\u0e01\u0e43\u0e2b\u0e49\u0e40\u0e02\u0e32\u0e23\u0e31\u0e01",
         "url": "https://open.spotify.com/album/1jnegCzaepXCGuPhyqNtdd"
@@ -785,7 +785,7 @@
       "url": "https://open.spotify.com/track/198pPjDG0juHRjechZrWer"
     },
     {
-      "added_at": "2026-11-19 19:48:15",
+      "added_at": "2026-11-26 18:55:06",
       "album": {
         "name": "\u0e44\u0e21\u0e48\u0e21\u0e35\u0e27\u0e31\u0e19\u0e44\u0e2b\u0e19\u0e17\u0e35\u0e48\u0e44\u0e21\u0e48\u0e04\u0e34\u0e14\u0e16\u0e36\u0e07 (starlost.)",
         "url": "https://open.spotify.com/album/1JCH3jvq3lj4KeIpWwTj32"
@@ -801,7 +801,7 @@
       "url": "https://open.spotify.com/track/2L54tWSpB5yeAYvienaKTT"
     },
     {
-      "added_at": "2026-11-19 19:48:15",
+      "added_at": "2026-11-26 18:55:06",
       "album": {
         "name": "\u0e14\u0e32\u0e27\u0e15\u0e01 (Wish) [feat. Z9]",
         "url": "https://open.spotify.com/album/1n6smSBWNrb9p3L0vFAilq"
@@ -821,7 +821,7 @@
       "url": "https://open.spotify.com/track/4YkPsxVBXkM4jBgMTAxtFz"
     },
     {
-      "added_at": "2026-11-19 19:48:15",
+      "added_at": "2026-11-26 18:55:06",
       "album": {
         "name": "\u0e01\u0e25\u0e31\u0e27\u0e04\u0e27\u0e32\u0e21\u0e40\u0e2a\u0e35\u0e22\u0e43\u0e08",
         "url": "https://open.spotify.com/album/1q2TDtJfts6Q393yMdgGXU"
@@ -841,7 +841,7 @@
       "url": "https://open.spotify.com/track/52ijTzD9HujnkPswlVPGrF"
     },
     {
-      "added_at": "2026-11-19 19:48:15",
+      "added_at": "2026-11-26 18:55:06",
       "album": {
         "name": "\u0e25\u0e32\u0e21\u0e1b\u0e32\u0e21 (circus)",
         "url": "https://open.spotify.com/album/7lnH9HjgEB01bjIbD2VX4t"
@@ -861,7 +861,7 @@
       "url": "https://open.spotify.com/track/30CRjTYAXaJf5YBsNQHIvG"
     },
     {
-      "added_at": "2026-11-19 19:48:15",
+      "added_at": "2026-11-26 18:55:06",
       "album": {
         "name": "\u0e2b\u0e19\u0e36\u0e48\u0e07\u0e04\u0e19\u0e15\u0e23\u0e07\u0e19\u0e35\u0e49 (I'm here)",
         "url": "https://open.spotify.com/album/2S1NnWORdoVfgwFFHK2xww"
@@ -877,7 +877,7 @@
       "url": "https://open.spotify.com/track/5GwXBrY91rDCB18cwpjsBz"
     },
     {
-      "added_at": "2026-11-19 19:48:15",
+      "added_at": "2026-11-26 18:55:06",
       "album": {
         "name": "\u0e02\u0e2d\u0e07\u0e02\u0e27\u0e31\u0e0d\u0e1b\u0e35\u0e43\u0e2b\u0e21\u0e48 (Golden Night)",
         "url": "https://open.spotify.com/album/4PmVt4yjh8yTVM031pigzp"

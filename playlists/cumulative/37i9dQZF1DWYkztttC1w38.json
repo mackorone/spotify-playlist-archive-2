@@ -2547,6 +2547,32 @@
     },
     {
       "album": {
+        "name": "De Hartmann: Lament",
+        "url": "https://open.spotify.com/album/2BKtMW2rzNKhNYzl5p9ktW"
+      },
+      "artists": [
+        {
+          "name": "Thomas de Hartmann",
+          "url": "https://open.spotify.com/artist/7jqkUMjqGY2FfZRUirtKdo"
+        },
+        {
+          "name": "Matt Haimovitz",
+          "url": "https://open.spotify.com/artist/4QGidRjlbajuTespAY0LMp"
+        },
+        {
+          "name": "Nadia Shpachenko",
+          "url": "https://open.spotify.com/artist/4mMtIqf4P9fFziazsVBurN"
+        }
+      ],
+      "date_added": "2026-11-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 882587,
+      "name": "Sonata for Cello and Piano, Op. 63: II. Tema con variazione",
+      "url": "https://open.spotify.com/track/2erY7BJJEmPxIemtRkdoOj"
+    },
+    {
+      "album": {
         "name": "Relaxing Piano - Bach, Beethoven, Chopin",
         "url": "https://open.spotify.com/album/5ZhychUFBVpFlJTpz7vgR6"
       },

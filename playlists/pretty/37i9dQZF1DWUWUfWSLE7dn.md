@@ -4,15 +4,15 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUWUfWSLE7dn.md) - [plain]
 
 > Scores and soundtracks for daring quests, epic journeys, and the greatest reading adventures.
 
-[Spotify](https://open.spotify.com/user/spotify) - 431,358 likes - 112 songs - 5 hr 58 min
+[Spotify](https://open.spotify.com/user/spotify) - 431,425 likes - 112 songs - 5 hr 58 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [Now We Can Sing \- Edit](https://open.spotify.com/track/0At4AalfZgPoB5RttSXs2g) | [Max Richter](https://open.spotify.com/artist/2VZNmg4vCnew4Pavo8zDdW) | [Now We Can Sing](https://open.spotify.com/album/5Blf72Q1N733tuYzdTZW6B) | 7:02 |
 | 2 | [The Shire](https://open.spotify.com/track/6zW80jVqLtgSF1yCtGHiiD) | [Howard Shore](https://open.spotify.com/artist/0OcclcP5o8VKH2TRqSY2A7) | [The Lord of the Rings: The Fellowship of the Ring \- the Complete Recordings](https://open.spotify.com/album/55RTkgUCP7t80hiTUhATMH) | 2:29 |
 | 3 | [SOARING!](https://open.spotify.com/track/0RwtlGnvXFIZ9OuKlAm2F5) | [Eunike Tanzil](https://open.spotify.com/artist/78XsqB0fsyDU7wR2w4zVuA), [Deutsches Symphonie\-Orchester Berlin](https://open.spotify.com/artist/49TgMBH68KIFiOmLMoUOWY), [Anna Handler](https://open.spotify.com/artist/6iIVSSyUhTWzzTKqcSRE0x) | [Dreamscapes](https://open.spotify.com/album/6kLUpffJYohaEineBz8AUq) | 2:25 |
-| 4 | [The Streets of Whiterun](https://open.spotify.com/track/18CctEeOpjEDIAvWM5S7RE) | [Jeremy Soule](https://open.spotify.com/artist/77yY2QmM6bYvjJ3y5L2R0v) | [The Elder Scrolls V: Skyrim: Original Game Soundtrack](https://open.spotify.com/album/25r7pEf31viAbsoVHC6bQ4) | 4:04 |
-| 5 | [Scotland](https://open.spotify.com/track/7MiNGcNnLD9YSnkxnj5lue) | [BBC Scottish Symphony Orchestra](https://open.spotify.com/artist/3CufywuKIBC8WhWNvzTQr1) | [A History Of Scotland](https://open.spotify.com/album/0eUIFRjts9n258Sj83kpEY) | 2:12 |
+| 4 | [Scotland](https://open.spotify.com/track/7MiNGcNnLD9YSnkxnj5lue) | [BBC Scottish Symphony Orchestra](https://open.spotify.com/artist/3CufywuKIBC8WhWNvzTQr1) | [A History Of Scotland](https://open.spotify.com/album/0eUIFRjts9n258Sj83kpEY) | 2:12 |
+| 5 | [The Streets of Whiterun](https://open.spotify.com/track/18CctEeOpjEDIAvWM5S7RE) | [Jeremy Soule](https://open.spotify.com/artist/77yY2QmM6bYvjJ3y5L2R0v) | [The Elder Scrolls V: Skyrim: Original Game Soundtrack](https://open.spotify.com/album/25r7pEf31viAbsoVHC6bQ4) | 4:04 |
 | 6 | [Sula bassana \- Excerpt I](https://open.spotify.com/track/0cJAmwulAgsD317x9wX2Co) | [Erland Cooper](https://open.spotify.com/artist/636k3cBTCgdZfXzCj7Cuaa), [BBC Scottish Symphony Orchestra](https://open.spotify.com/artist/3CufywuKIBC8WhWNvzTQr1) | [Sula bassana \(Excerpt I\)](https://open.spotify.com/album/2acxJ5miYMrVt9LjtZy5RG) | 2:38 |
 | 7 | [Romantic Flight \(Arr\. Herbert for Violin & Orchestra\) \- From "How to Train Your Dragon"](https://open.spotify.com/track/10V4GVLJ6u6PaSw5U2BppR) | [Ray Chen](https://open.spotify.com/artist/5Cy6BjgpzVTTP4FURizqmQ), [Royal Philharmonic Orchestra](https://open.spotify.com/artist/0MvSBMGRQJY3mRwIbJsqF1), [Cristian Măcelaru](https://open.spotify.com/artist/0l1E8XgBTh3P4thHZDzFHr) | [Romantic Flight \(Arr\. Herbert for Violin & Orchestra\) \[From "How to Train Your Dragon"\]](https://open.spotify.com/album/4LHXOm5EkpDU6tUTRGCNLM) | 1:55 |
 | 8 | [Captain Jefferson](https://open.spotify.com/track/5X6b1ySSqzJm4qLw0fqs5n) | [James Newton Howard](https://open.spotify.com/artist/2M4eNCvV3CJUswavkhAQg2) | [News Of The World \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/6v1bOteXExLs8oA8epNRuc) | 2:06 |
@@ -121,4 +121,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUWUfWSLE7dn.md) - [plain]
 | 111 | [Bathsheba and Oak Unite \(From "Far from the Madding Crowd" Soundtrack\)](https://open.spotify.com/track/5EdYF3AG4xOETuvBHukWZn) | [Craig Armstrong](https://open.spotify.com/artist/526q7RxT5KA1VGeQ5GMSHO) | [Far from the Madding Crowd \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/4J9mOsvXXsEy7ocReEwBBP) | 1:35 |
 | 112 | [The Grey Havens](https://open.spotify.com/track/2Slmu6R8mf90wskb1xk6aB) | [Chance Thomas](https://open.spotify.com/artist/1VPqJ10EqqXOQNDw1ppYeh) | [The Lord of the Rings Online \(10th Anniversary Commemorative Soundtrack\)](https://open.spotify.com/album/1lkI0MpnnccE364waiYGOY) | 2:18 |
 
-Snapshot ID: `AAAAAK3Z8IgQcPzauGcd9QYTwhnRSDBp`
+Snapshot ID: `AAAAABiMJ68zAKAq0wLqnMg5D5OOi47r`

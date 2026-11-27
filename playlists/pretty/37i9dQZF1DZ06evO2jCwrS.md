@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2jCwrS.md) - [plain]
 
 > This is H.E.R.\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 264,013 likes - 50 songs - 3 hr 7 min
+[Spotify](https://open.spotify.com/user/spotify) - 264,025 likes - 50 songs - 3 hr 7 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -51,12 +51,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2jCwrS.md) - [plain]
 | 41 | [Carried Away](https://open.spotify.com/track/7dA5TuziQNiseDqFTyVWzi) | [H.E.R.](https://open.spotify.com/artist/3Y7RZ31TRPVadSFVy1o8os) | [I Used To Know Her](https://open.spotify.com/album/0IMTA2Wz6p8CNZ0MDK2zvg) | 3:41 |
 | 42 | [I Don't Want Your Money \(feat\. H.E.R.\)](https://open.spotify.com/track/3FHXUqaUer9o231Je1zxIN) | [Ed Sheeran](https://open.spotify.com/artist/6eUKZXaKkcviH0Ku9w2n3V), [H.E.R.](https://open.spotify.com/artist/3Y7RZ31TRPVadSFVy1o8os) | [No.6 Collaborations Project](https://open.spotify.com/album/3oIFxDIo2fwuk4lwCmFZCx) | 3:24 |
 | 43 | [Convince Me Otherwise \(with H.E.R.\)](https://open.spotify.com/track/7DVassGvnqQRSfVSVPxtpV) | [Maroon 5](https://open.spotify.com/artist/04gDigrS5kc9YWfZHwBETP), [H.E.R.](https://open.spotify.com/artist/3Y7RZ31TRPVadSFVy1o8os) | [JORDI \(Deluxe\)](https://open.spotify.com/album/1pCA38N6MkLlthXtAOvZTU) | 3:07 |
-| 44 | [My Song](https://open.spotify.com/track/16V37tEJapC7jTli8qHImc) | [H.E.R.](https://open.spotify.com/artist/3Y7RZ31TRPVadSFVy1o8os) | [My Song](https://open.spotify.com/album/4CuBjhv8H7ebadwJyS6MK1) | 5:50 |
+| 44 | [Gotta Move On \(feat\. H.E.R.\)](https://open.spotify.com/track/6ZeFPc7KUp9RH4s0Skj24H) | [Toni Braxton](https://open.spotify.com/artist/3X458ddYA2YcVWuVIGGOYe), [H.E.R.](https://open.spotify.com/artist/3Y7RZ31TRPVadSFVy1o8os) | [Spell My Name](https://open.spotify.com/album/7cVfHcCdsGH28PMMRdTQg5) | 4:18 |
 | 45 | [Something Keeps Pulling Me Back](https://open.spotify.com/track/6WC5YDTKztcTU3tWux0Jk1) | [H.E.R.](https://open.spotify.com/artist/3Y7RZ31TRPVadSFVy1o8os) | [I Used To Know Her](https://open.spotify.com/album/0IMTA2Wz6p8CNZ0MDK2zvg) | 3:04 |
-| 46 | [Gotta Move On \(feat\. H.E.R.\)](https://open.spotify.com/track/6ZeFPc7KUp9RH4s0Skj24H) | [Toni Braxton](https://open.spotify.com/artist/3X458ddYA2YcVWuVIGGOYe), [H.E.R.](https://open.spotify.com/artist/3Y7RZ31TRPVadSFVy1o8os) | [Spell My Name](https://open.spotify.com/album/7cVfHcCdsGH28PMMRdTQg5) | 4:18 |
+| 46 | [My Song](https://open.spotify.com/track/16V37tEJapC7jTli8qHImc) | [H.E.R.](https://open.spotify.com/artist/3Y7RZ31TRPVadSFVy1o8os) | [My Song](https://open.spotify.com/album/4CuBjhv8H7ebadwJyS6MK1) | 5:50 |
 | 47 | [Mean It](https://open.spotify.com/track/14fCqklNybaEQyF7RRmwHA) | [H.E.R.](https://open.spotify.com/artist/3Y7RZ31TRPVadSFVy1o8os) | [Back of My Mind](https://open.spotify.com/album/4IwODpNZKFYkHWXSeWMGmP) | 3:17 |
 | 48 | [Go Dumb \(feat\. H.E.R.\)](https://open.spotify.com/track/18sGGoM0OlrZNyMqVFIqP7) | [YG](https://open.spotify.com/artist/0A0FS04o6zMoto8OKPsDwY), [H.E.R.](https://open.spotify.com/artist/3Y7RZ31TRPVadSFVy1o8os) | [I GOT ISSUES](https://open.spotify.com/album/4fu0jN1IzoaXgzCfqdjOjJ) | 4:24 |
 | 49 | [Closer \(feat\. H.E.R.\)](https://open.spotify.com/track/1dKe9VEGUSNfzn5MDvm6SJ) | [Saweetie](https://open.spotify.com/artist/6cK3NBO6uP7hh0oyuVELFl), [H.E.R.](https://open.spotify.com/artist/3Y7RZ31TRPVadSFVy1o8os) | [Closer \(feat\. H.E.R.\)](https://open.spotify.com/album/5IZ3qMtXKXAleWBxB7vWen) | 2:48 |
-| 50 | [Back of My Mind \(feat\. Ty Dolla $ign\)](https://open.spotify.com/track/0NYEdeOOdXN6Nw2AeKecSJ) | [H.E.R.](https://open.spotify.com/artist/3Y7RZ31TRPVadSFVy1o8os), [Ty Dolla $ign](https://open.spotify.com/artist/7c0XG5cIJTrrAgEC3ULPiq) | [Back of My Mind](https://open.spotify.com/album/4IwODpNZKFYkHWXSeWMGmP) | 3:41 |
+| 50 | [Hold On](https://open.spotify.com/track/6SSQ6eGAHVoQSNAFvbYEce) | [H.E.R.](https://open.spotify.com/artist/3Y7RZ31TRPVadSFVy1o8os) | [Back of My Mind](https://open.spotify.com/album/4IwODpNZKFYkHWXSeWMGmP) | 3:22 |
 
-Snapshot ID: `awOCAAAAAABUSr5/jdhxJ57/bcqHXgMS`
+Snapshot ID: `awYlAAAAAABM2xw0QGvDE8WbNFwwBcSi`

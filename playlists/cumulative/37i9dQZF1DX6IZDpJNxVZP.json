@@ -1274,7 +1274,7 @@
       ],
       "date_added": "2024-11-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-27",
       "duration_ms": 174506,
       "name": "Deck The Halls",
       "url": "https://open.spotify.com/track/57BVt9b2z7W2Ih2TxfdNqs"
@@ -3092,7 +3092,7 @@
       ],
       "date_added": "2024-11-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-27",
       "duration_ms": 116005,
       "name": "I Saw Three Ships",
       "url": "https://open.spotify.com/track/5XRkCGAzvGsG1ygRm1JPd1"
@@ -4004,6 +4004,28 @@
       "duration_ms": 219042,
       "name": "Merry Christmas Everyone",
       "url": "https://open.spotify.com/track/0IDm3fCe49TonetVSOwmE7"
+    },
+    {
+      "album": {
+        "name": "Merry Christmas, Mr. Plankton",
+        "url": "https://open.spotify.com/album/56XuV1ptDQt7PYDUbKZ1Gd"
+      },
+      "artists": [
+        {
+          "name": "SpongeBob SquarePants",
+          "url": "https://open.spotify.com/artist/3zCAmjKyHsG7kTGsls1cfj"
+        },
+        {
+          "name": "Nickelodeon",
+          "url": "https://open.spotify.com/artist/6EP1XFnygH4lAap7EsBs65"
+        }
+      ],
+      "date_added": "2026-11-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 77613,
+      "name": "Merry Christmases",
+      "url": "https://open.spotify.com/track/5s91hk0jDrzN6aKn1hbmN8"
     },
     {
       "album": {
@@ -7406,6 +7428,24 @@
       "duration_ms": 171308,
       "name": "What Am I Gonna Be (For Halloween)?",
       "url": "https://open.spotify.com/track/6YzW96S4wiZ7HUBV4tG2MV"
+    },
+    {
+      "album": {
+        "name": "Jingle Bell Jams: Christmas Hits & Classic Carols",
+        "url": "https://open.spotify.com/album/7auY9nwPLLwrdPWAgwYnVc"
+      },
+      "artists": [
+        {
+          "name": "The Countdown Kids",
+          "url": "https://open.spotify.com/artist/6PZYFmF3PH6cOREAzfXiAL"
+        }
+      ],
+      "date_added": "2026-11-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 163999,
+      "name": "What Christmas Means to Me",
+      "url": "https://open.spotify.com/track/5x1nk7oPAMnSa0tGshtwpD"
     },
     {
       "album": {

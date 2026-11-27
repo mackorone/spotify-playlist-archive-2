@@ -1,28 +1,28 @@
 {
   "description": "Net die beste Afrikaanse musiek! Omslag: Brendan Peyper",
-  "num_followers": 153674,
+  "num_followers": 153703,
   "original_name": "Afrikaanse Hits",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAANYP8f2bN2hXjk0Mt79Jn9Z8e/Rk",
+  "snapshot_id": "AAAAAHtk7M+2mpwEPxCUeq/HfN48HZUx",
   "tracks": [
     {
-      "added_at": "2026-11-13 06:20:13",
+      "added_at": "2026-11-26 22:00:17",
       "album": {
-        "name": "Nostalgie",
-        "url": "https://open.spotify.com/album/6T2YdkFryff92m421KLypj"
+        "name": "Hoekom Nie?",
+        "url": "https://open.spotify.com/album/4vyLGMy9ewdiCoDexHA3t6"
       },
       "artists": [
         {
-          "name": "Brendan Peyper",
-          "url": "https://open.spotify.com/artist/4K2VQvyBnfU7La65rShI0v"
+          "name": "Demi Lee Moore",
+          "url": "https://open.spotify.com/artist/2RJteaG1GUmH9lQVczVkpp"
         }
       ],
-      "duration_ms": 195000,
-      "name": "Wens Jy Was Bier",
-      "url": "https://open.spotify.com/track/4gbKAh0jrldoHsivP44twC"
+      "duration_ms": 180087,
+      "name": "Hoekom Nie?",
+      "url": "https://open.spotify.com/track/5Ug7HbeDAT7LbW53NomWna"
     },
     {
       "added_at": "2026-09-24 22:01:36",
@@ -41,6 +41,22 @@
       "url": "https://open.spotify.com/track/47nOlGusMrYoBDq3CFnbYg"
     },
     {
+      "added_at": "2026-08-27 22:01:28",
+      "album": {
+        "name": "Almal Gly",
+        "url": "https://open.spotify.com/album/4VpAvLR65DT7sUdlS3KgiX"
+      },
+      "artists": [
+        {
+          "name": "Die Piesangskille",
+          "url": "https://open.spotify.com/artist/0ziQukaJM4x6Wgus61oFrS"
+        }
+      ],
+      "duration_ms": 221067,
+      "name": "Inge 2",
+      "url": "https://open.spotify.com/track/3zSm2FYUjpc9egsTA0bJ16"
+    },
+    {
       "added_at": "2026-09-24 22:01:36",
       "album": {
         "name": "Steek Die Vure Aan",
@@ -57,20 +73,20 @@
       "url": "https://open.spotify.com/track/4zZ1KmaMfLh9jXpeJBG1w7"
     },
     {
-      "added_at": "2026-08-27 22:01:28",
+      "added_at": "2026-09-10 22:02:24",
       "album": {
-        "name": "Almal Gly",
-        "url": "https://open.spotify.com/album/4VpAvLR65DT7sUdlS3KgiX"
+        "name": "Ou Dae",
+        "url": "https://open.spotify.com/album/5n6leyU2fN4RUrSASZ3YMV"
       },
       "artists": [
         {
-          "name": "Die Piesangskille",
-          "url": "https://open.spotify.com/artist/0ziQukaJM4x6Wgus61oFrS"
+          "name": "Brendan Peyper",
+          "url": "https://open.spotify.com/artist/4K2VQvyBnfU7La65rShI0v"
         }
       ],
-      "duration_ms": 221067,
-      "name": "Inge 2",
-      "url": "https://open.spotify.com/track/3zSm2FYUjpc9egsTA0bJ16"
+      "duration_ms": 220169,
+      "name": "Ou Dae",
+      "url": "https://open.spotify.com/track/2JkJC4K0YvUukeW41p1hXK"
     },
     {
       "added_at": "2026-10-22 22:01:31",
@@ -107,22 +123,6 @@
       "duration_ms": 178120,
       "name": "Spontaan",
       "url": "https://open.spotify.com/track/3fvyqhNTjtobvYV8VYr5w0"
-    },
-    {
-      "added_at": "2026-09-10 22:02:24",
-      "album": {
-        "name": "Ou Dae",
-        "url": "https://open.spotify.com/album/5n6leyU2fN4RUrSASZ3YMV"
-      },
-      "artists": [
-        {
-          "name": "Brendan Peyper",
-          "url": "https://open.spotify.com/artist/4K2VQvyBnfU7La65rShI0v"
-        }
-      ],
-      "duration_ms": 220169,
-      "name": "Ou Dae",
-      "url": "https://open.spotify.com/track/2JkJC4K0YvUukeW41p1hXK"
     },
     {
       "added_at": "2026-08-27 22:01:28",
@@ -171,6 +171,22 @@
       "duration_ms": 182006,
       "name": "Spore",
       "url": "https://open.spotify.com/track/5y9iFzYn1Nygb9sOKSLamt"
+    },
+    {
+      "added_at": "2026-11-13 06:20:13",
+      "album": {
+        "name": "Nostalgie",
+        "url": "https://open.spotify.com/album/6T2YdkFryff92m421KLypj"
+      },
+      "artists": [
+        {
+          "name": "Brendan Peyper",
+          "url": "https://open.spotify.com/artist/4K2VQvyBnfU7La65rShI0v"
+        }
+      ],
+      "duration_ms": 195000,
+      "name": "Wens Jy Was Bier",
+      "url": "https://open.spotify.com/track/4gbKAh0jrldoHsivP44twC"
     },
     {
       "added_at": "2026-11-05 22:00:32",
@@ -305,22 +321,6 @@
       "url": "https://open.spotify.com/track/6rhIzSp4KslsMpEUtTLgdj"
     },
     {
-      "added_at": "2026-10-22 22:01:31",
-      "album": {
-        "name": "Lyntjies",
-        "url": "https://open.spotify.com/album/4CfHkz7nIum5wLQiK0rn5j"
-      },
-      "artists": [
-        {
-          "name": "Bernice West",
-          "url": "https://open.spotify.com/artist/6ZerjgcGZc6DofpCTZu3xx"
-        }
-      ],
-      "duration_ms": 157200,
-      "name": "Lyntjies",
-      "url": "https://open.spotify.com/track/7j1ccXk9AmuU5xtY63aKuu"
-    },
-    {
       "added_at": "2026-11-05 22:00:32",
       "album": {
         "name": "Skree Vir Jou",
@@ -437,6 +437,22 @@
       "url": "https://open.spotify.com/track/1vWle2FaFHWU0mpLilFz8M"
     },
     {
+      "added_at": "2026-10-22 22:01:31",
+      "album": {
+        "name": "Lyntjies",
+        "url": "https://open.spotify.com/album/4CfHkz7nIum5wLQiK0rn5j"
+      },
+      "artists": [
+        {
+          "name": "Bernice West",
+          "url": "https://open.spotify.com/artist/6ZerjgcGZc6DofpCTZu3xx"
+        }
+      ],
+      "duration_ms": 157200,
+      "name": "Lyntjies",
+      "url": "https://open.spotify.com/track/7j1ccXk9AmuU5xtY63aKuu"
+    },
+    {
       "added_at": "2026-08-27 22:01:28",
       "album": {
         "name": "Genesis",
@@ -519,22 +535,6 @@
       "duration_ms": 201964,
       "name": "Mozambique My Nou",
       "url": "https://open.spotify.com/track/2htWvgHH70uOyjO82LDR2t"
-    },
-    {
-      "added_at": "2026-11-05 22:00:32",
-      "album": {
-        "name": "Lente",
-        "url": "https://open.spotify.com/album/7f26wQCrMVxkgPUxZooOzx"
-      },
-      "artists": [
-        {
-          "name": "Tasch\u00e9",
-          "url": "https://open.spotify.com/artist/0wRKymJElTHOM1zCZuGspN"
-        }
-      ],
-      "duration_ms": 210454,
-      "name": "Lente",
-      "url": "https://open.spotify.com/track/5jHltqn7NAbz3g1IXDa99O"
     },
     {
       "added_at": "2026-08-27 22:01:28",
@@ -657,6 +657,22 @@
       "url": "https://open.spotify.com/track/0CYKkA90kXsGRV5xLrWX6L"
     },
     {
+      "added_at": "2026-11-05 22:00:32",
+      "album": {
+        "name": "Lente",
+        "url": "https://open.spotify.com/album/7f26wQCrMVxkgPUxZooOzx"
+      },
+      "artists": [
+        {
+          "name": "Tasch\u00e9",
+          "url": "https://open.spotify.com/artist/0wRKymJElTHOM1zCZuGspN"
+        }
+      ],
+      "duration_ms": 210454,
+      "name": "Lente",
+      "url": "https://open.spotify.com/track/5jHltqn7NAbz3g1IXDa99O"
+    },
+    {
       "added_at": "2026-08-27 22:01:28",
       "album": {
         "name": "Carina",
@@ -711,22 +727,6 @@
     {
       "added_at": "2026-08-27 22:01:28",
       "album": {
-        "name": "Verseker Beter",
-        "url": "https://open.spotify.com/album/4FUhfFWyBQdkQ0wQ5NwOQy"
-      },
-      "artists": [
-        {
-          "name": "Wentzel",
-          "url": "https://open.spotify.com/artist/0StQwxwrKk0iUBg0u0YF9C"
-        }
-      ],
-      "duration_ms": 174152,
-      "name": "Verseker Beter",
-      "url": "https://open.spotify.com/track/6mr4sBTK92E4Xohl8GVeh8"
-    },
-    {
-      "added_at": "2026-08-27 22:01:28",
-      "album": {
         "name": "Hart Breek",
         "url": "https://open.spotify.com/album/2iCN2iJrxMImXOdK1QSHmO"
       },
@@ -771,6 +771,22 @@
       "duration_ms": 221040,
       "name": "Lei My Na Die Water",
       "url": "https://open.spotify.com/track/15bXmhHbsXEYa6YKESByDH"
+    },
+    {
+      "added_at": "2026-08-27 22:01:28",
+      "album": {
+        "name": "Verseker Beter",
+        "url": "https://open.spotify.com/album/4FUhfFWyBQdkQ0wQ5NwOQy"
+      },
+      "artists": [
+        {
+          "name": "Wentzel",
+          "url": "https://open.spotify.com/artist/0StQwxwrKk0iUBg0u0YF9C"
+        }
+      ],
+      "duration_ms": 174152,
+      "name": "Verseker Beter",
+      "url": "https://open.spotify.com/track/6mr4sBTK92E4Xohl8GVeh8"
     },
     {
       "added_at": "2026-08-27 22:01:28",
@@ -1011,22 +1027,6 @@
       "duration_ms": 191466,
       "name": "Dagdrome in Suburbia",
       "url": "https://open.spotify.com/track/10Ql7yWoFEmRNp83JeS4Uk"
-    },
-    {
-      "added_at": "2026-08-27 22:01:28",
-      "album": {
-        "name": "Heuning",
-        "url": "https://open.spotify.com/album/6mM1yusB6FEJDpkO0VzDiF"
-      },
-      "artists": [
-        {
-          "name": "Winter Hotel",
-          "url": "https://open.spotify.com/artist/0c7Ht8PeXWlU3SzZxJHuFy"
-        }
-      ],
-      "duration_ms": 206769,
-      "name": "Heuning",
-      "url": "https://open.spotify.com/track/6LhKKGotrMu24Ju93T1jhi"
     },
     {
       "added_at": "2026-08-27 22:01:28",

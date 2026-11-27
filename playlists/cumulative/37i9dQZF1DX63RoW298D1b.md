@@ -4,7 +4,7 @@
 
 > Soothing piano for the ultimate wind down.
 
-273 songs - 11 hr 30 min
+274 songs - 11 hr 32 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -82,6 +82,7 @@
 | [Eridani](https://open.spotify.com/track/6kJ4jRr1SB2ao8VimAiuB0) | [Flori Vivea](https://open.spotify.com/artist/1g2rBoWONHzfurvm2ESnz0) | [Eridani](https://open.spotify.com/album/59ALZE7fBIJgO1Awt1S4bV) | 2:32 | 2024-02-02 | 2025-09-18 |
 | [Escondidas](https://open.spotify.com/track/5uUdiK8TRiaRR8iLGZsBOt) | [Francine Gaétane](https://open.spotify.com/artist/6gMlkMM2jbGYhiNAzcR6Zw) | [Escondidas](https://open.spotify.com/album/52j4FXkBGwmYA8Jq8xuhKt) | 2:14 | 2024-07-29 | 2025-03-13 |
 | [Eternal](https://open.spotify.com/track/1nu6ryRQROrnR6SGuQvsDf) | [Midnight Diver](https://open.spotify.com/artist/6XlYLWQJwJ9W8kmrJWGAXy) | [Eternal](https://open.spotify.com/album/2WNuCKp18G5ZvkIiTH0Sj8) | 2:22 | 2023-05-09 | 2025-03-13 |
+| [Evening Dance](https://open.spotify.com/track/6JnRVEpoAXJYKwFu2eX28p) | [Phileas Galle](https://open.spotify.com/artist/7LXOaqA9V8tLPULaZyYO68) | [Evening Dance](https://open.spotify.com/album/1gDX8p9iU5z98a9f2adnGe) | 2:41 | 2026-11-27 |  |
 | [Eventide](https://open.spotify.com/track/6m6E8jsmnmFXOR6bR3BnxF) | [Jean DeVoite](https://open.spotify.com/artist/66t8qvy2cOoSxmEjuiRPmf) | [Eventide](https://open.spotify.com/album/7AFx5CnBVTdbgeJ927qbyp) | 2:25 | 2023-05-09 | 2024-10-02 |
 | [Eventually](https://open.spotify.com/track/3sJwsJwjoyAbGNVwxU7d24) | [Sonja Elliott](https://open.spotify.com/artist/7kKuC431bgNSQmNpEUBbbr) | [Eventually](https://open.spotify.com/album/4LusZsXbt0WraluCEPUbMF) | 2:20 | 2023-05-09 | 2024-10-09 |
 | [Falling](https://open.spotify.com/track/4E8wWBFP9pcapPCwhaweEu) | [Amida Lei](https://open.spotify.com/artist/02GzPLj2yWvXwcVC1ZRFsx) | [Falling](https://open.spotify.com/album/5w3OkVag9yEJQzY9nY1hVJ) | 3:06 | 2023-05-09 | 2025-03-13 |

@@ -6275,6 +6275,24 @@
     },
     {
       "album": {
+        "name": "Brightside",
+        "url": "https://open.spotify.com/album/1uuxD7dOb65LqpNuJFnIfK"
+      },
+      "artists": [
+        {
+          "name": "Joya Marleen",
+          "url": "https://open.spotify.com/artist/4vaE77ooZ6reoKW8b7YTeb"
+        }
+      ],
+      "date_added": "2026-11-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 214010,
+      "name": "Brightside",
+      "url": "https://open.spotify.com/track/6Pwueha74fbbGekPmSqb7i"
+    },
+    {
+      "album": {
         "name": "bro, i like u",
         "url": "https://open.spotify.com/album/7oKKv0vq38W6VKGbSupqF0"
       },
@@ -10799,6 +10817,24 @@
     },
     {
       "album": {
+        "name": "daytripper",
+        "url": "https://open.spotify.com/album/5y3uqZP9EDAclrq6EYAnGK"
+      },
+      "artists": [
+        {
+          "name": "Ruru",
+          "url": "https://open.spotify.com/artist/4G8qsHO0ipAGtyto79fWjo"
+        }
+      ],
+      "date_added": "2026-11-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 190088,
+      "name": "daytripper",
+      "url": "https://open.spotify.com/track/1GIpl74aKJJfaMlxvvlBCh"
+    },
+    {
+      "album": {
         "name": "dead to me",
         "url": "https://open.spotify.com/album/0N6PhfAFdjw0BV2qTt7tdN"
       },
@@ -13346,6 +13382,24 @@
       "duration_ms": 162333,
       "name": "Evergreen Avenue",
       "url": "https://open.spotify.com/track/3gqQj7QUW3azBS5Pl39t7t"
+    },
+    {
+      "album": {
+        "name": "Evergreen Park",
+        "url": "https://open.spotify.com/album/4o3zsEuW9l01g7ZsYJs2Hb"
+      },
+      "artists": [
+        {
+          "name": "Henry Verus",
+          "url": "https://open.spotify.com/artist/6H79VfD8FjtzQHYdVwZ3I4"
+        }
+      ],
+      "date_added": "2026-11-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 121386,
+      "name": "Evergreen Woods",
+      "url": "https://open.spotify.com/track/2ewjYPwLsnb4v3m9VyTJOy"
     },
     {
       "album": {
@@ -17488,7 +17542,7 @@
       ],
       "date_added": "2026-10-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-27",
       "duration_ms": 174374,
       "name": "Half of Me",
       "url": "https://open.spotify.com/track/5G5Db8S271EnqzpCjssjBs"
@@ -17934,6 +17988,24 @@
       "duration_ms": 197949,
       "name": "hate that i made you love me",
       "url": "https://open.spotify.com/track/20jbSiX29FDX4oQxBXyUEi"
+    },
+    {
+      "album": {
+        "name": "All At Once",
+        "url": "https://open.spotify.com/album/0zOt0bPpJ48NOZ7DmiOnUs"
+      },
+      "artists": [
+        {
+          "name": "Preston Pablo",
+          "url": "https://open.spotify.com/artist/5TvdGhdmRObqOkU6eGfXb5"
+        }
+      ],
+      "date_added": "2026-11-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 134417,
+      "name": "Hate That I Miss You",
+      "url": "https://open.spotify.com/track/30swT4dPYS7vcsnwDmR9xH"
     },
     {
       "album": {
@@ -24958,7 +25030,7 @@
       ],
       "date_added": "2026-07-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-27",
       "duration_ms": 145680,
       "name": "Less than a Lover",
       "url": "https://open.spotify.com/track/19UnXjpLshSLobPspdyxlD"
@@ -34806,6 +34878,24 @@
       "duration_ms": 191451,
       "name": "Poison Poison",
       "url": "https://open.spotify.com/track/7e1arKsP7vPjdwssVPHgZk"
+    },
+    {
+      "album": {
+        "name": "Polar Opposites",
+        "url": "https://open.spotify.com/album/43xmNoTYrBzYl9vIRVVTpI"
+      },
+      "artists": [
+        {
+          "name": "Club 97",
+          "url": "https://open.spotify.com/artist/5uNdSqYXxC3fYVMyKFfu7w"
+        }
+      ],
+      "date_added": "2026-11-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 221077,
+      "name": "Polar Opposites",
+      "url": "https://open.spotify.com/track/4wCnwpFqwmDge9uAuVfJ8q"
     },
     {
       "album": {
@@ -45794,7 +45884,7 @@
       ],
       "date_added": "2026-08-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-27",
       "duration_ms": 216573,
       "name": "THIS TIME OF THE YEAR",
       "url": "https://open.spotify.com/track/4QfcVT6AtnYXiporucNGft"

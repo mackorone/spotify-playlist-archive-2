@@ -6,7 +6,7 @@
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "awOCAAAAAADlumy9BROMBZK7ntlN59dG",
+  "snapshot_id": "awYlAAAAAAB3RfcKR1r/CJdl2iLlqQOf",
   "tracks": [
     {
       "added_at": null,
@@ -176,9 +176,9 @@
           "url": "https://open.spotify.com/artist/1BAN8UUSAMDeNfP1Wo5WWr"
         }
       ],
-      "duration_ms": 160843,
-      "name": "Willie's Interlude",
-      "url": "https://open.spotify.com/track/3DsCXUEP6VLzzMUEZ1SbBA"
+      "duration_ms": 165090,
+      "name": "Good Soup",
+      "url": "https://open.spotify.com/track/5xMWNzqWHBrUld2AIEVXoH"
     },
     {
       "added_at": null,
@@ -240,9 +240,9 @@
           "url": "https://open.spotify.com/artist/1BAN8UUSAMDeNfP1Wo5WWr"
         }
       ],
-      "duration_ms": 165090,
-      "name": "Good Soup",
-      "url": "https://open.spotify.com/track/5xMWNzqWHBrUld2AIEVXoH"
+      "duration_ms": 160843,
+      "name": "Willie's Interlude",
+      "url": "https://open.spotify.com/track/3DsCXUEP6VLzzMUEZ1SbBA"
     },
     {
       "added_at": null,
@@ -287,86 +287,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "As I Am",
-        "url": "https://open.spotify.com/album/1M0VIXPymzW0uscfSIRHUr"
+        "name": "A Few Things",
+        "url": "https://open.spotify.com/album/0byh8hdr3vZyWZ8mfeu8fN"
       },
       "artists": [
         {
-          "name": "1K Phew",
-          "url": "https://open.spotify.com/artist/6CQGrt3AJ2gx5oMSR0mwbl"
+          "name": "Guapdad 4000",
+          "url": "https://open.spotify.com/artist/0NcPKaSNIHAM2RfioH9vMT"
         },
         {
           "name": "Jai'Len Josey",
           "url": "https://open.spotify.com/artist/1BAN8UUSAMDeNfP1Wo5WWr"
         }
       ],
-      "duration_ms": 141610,
-      "name": "Safe",
-      "url": "https://open.spotify.com/track/2gYUxw19mLH5zcOV3TrsGl"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Serial Romantic",
-        "url": "https://open.spotify.com/album/18iDm8NbADcwee74fPEKyp"
-      },
-      "artists": [
-        {
-          "name": "Jai'Len Josey",
-          "url": "https://open.spotify.com/artist/1BAN8UUSAMDeNfP1Wo5WWr"
-        }
-      ],
-      "duration_ms": 159212,
-      "name": "Housewife",
-      "url": "https://open.spotify.com/track/5XL0u4OlkzjotTazxDzjNL"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Southern Delicacy",
-        "url": "https://open.spotify.com/album/2GqVdnApGsHmQrQWX0rVY2"
-      },
-      "artists": [
-        {
-          "name": "Jai'Len Josey",
-          "url": "https://open.spotify.com/artist/1BAN8UUSAMDeNfP1Wo5WWr"
-        }
-      ],
-      "duration_ms": 230635,
-      "name": "Pay For My Drink",
-      "url": "https://open.spotify.com/track/50AACYCHYrN9v3r2NmZ1Am"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "All Mine",
-        "url": "https://open.spotify.com/album/7m1EABoUFNU7A4w3R9JAEa"
-      },
-      "artists": [
-        {
-          "name": "Jai'Len Josey",
-          "url": "https://open.spotify.com/artist/1BAN8UUSAMDeNfP1Wo5WWr"
-        }
-      ],
-      "duration_ms": 208261,
-      "name": "All Mine",
-      "url": "https://open.spotify.com/track/4zveG9JtaKJBrWWLWOKa40"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Illustrations",
-        "url": "https://open.spotify.com/album/00pFZrH0XRIXJGo86PQSYW"
-      },
-      "artists": [
-        {
-          "name": "Jai'Len Josey",
-          "url": "https://open.spotify.com/artist/1BAN8UUSAMDeNfP1Wo5WWr"
-        }
-      ],
-      "duration_ms": 249733,
-      "name": "You Ain't Gotta Worry",
-      "url": "https://open.spotify.com/track/2FPutcjGpvreg2cAOw2X5f"
+      "duration_ms": 201600,
+      "name": "A Few Things",
+      "url": "https://open.spotify.com/track/6xyrDxA7m9ORwY5XMA1cJE"
     },
     {
       "added_at": null,
@@ -403,8 +339,28 @@
     {
       "added_at": null,
       "album": {
-        "name": "Death of a Black Girl",
-        "url": "https://open.spotify.com/album/60xqp6M0V9taSTnnScMoDR"
+        "name": "As I Am",
+        "url": "https://open.spotify.com/album/1M0VIXPymzW0uscfSIRHUr"
+      },
+      "artists": [
+        {
+          "name": "1K Phew",
+          "url": "https://open.spotify.com/artist/6CQGrt3AJ2gx5oMSR0mwbl"
+        },
+        {
+          "name": "Jai'Len Josey",
+          "url": "https://open.spotify.com/artist/1BAN8UUSAMDeNfP1Wo5WWr"
+        }
+      ],
+      "duration_ms": 141610,
+      "name": "Safe",
+      "url": "https://open.spotify.com/track/2gYUxw19mLH5zcOV3TrsGl"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "All Mine",
+        "url": "https://open.spotify.com/album/7m1EABoUFNU7A4w3R9JAEa"
       },
       "artists": [
         {
@@ -412,9 +368,41 @@
           "url": "https://open.spotify.com/artist/1BAN8UUSAMDeNfP1Wo5WWr"
         }
       ],
-      "duration_ms": 191194,
-      "name": "Death of a Black Girl",
-      "url": "https://open.spotify.com/track/6SIYky2birhxaoD3EocVJK"
+      "duration_ms": 208261,
+      "name": "All Mine",
+      "url": "https://open.spotify.com/track/4zveG9JtaKJBrWWLWOKa40"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Serial Romantic",
+        "url": "https://open.spotify.com/album/18iDm8NbADcwee74fPEKyp"
+      },
+      "artists": [
+        {
+          "name": "Jai'Len Josey",
+          "url": "https://open.spotify.com/artist/1BAN8UUSAMDeNfP1Wo5WWr"
+        }
+      ],
+      "duration_ms": 159212,
+      "name": "Housewife",
+      "url": "https://open.spotify.com/track/5XL0u4OlkzjotTazxDzjNL"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Southern Delicacy",
+        "url": "https://open.spotify.com/album/2GqVdnApGsHmQrQWX0rVY2"
+      },
+      "artists": [
+        {
+          "name": "Jai'Len Josey",
+          "url": "https://open.spotify.com/artist/1BAN8UUSAMDeNfP1Wo5WWr"
+        }
+      ],
+      "duration_ms": 230635,
+      "name": "Pay For My Drink",
+      "url": "https://open.spotify.com/track/50AACYCHYrN9v3r2NmZ1Am"
     },
     {
       "added_at": null,
@@ -428,9 +416,25 @@
           "url": "https://open.spotify.com/artist/1BAN8UUSAMDeNfP1Wo5WWr"
         }
       ],
-      "duration_ms": 400391,
-      "name": "Fall",
-      "url": "https://open.spotify.com/track/6INqijEvx76YGUVYYRCyPE"
+      "duration_ms": 249733,
+      "name": "You Ain't Gotta Worry",
+      "url": "https://open.spotify.com/track/2FPutcjGpvreg2cAOw2X5f"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Death of a Black Girl",
+        "url": "https://open.spotify.com/album/60xqp6M0V9taSTnnScMoDR"
+      },
+      "artists": [
+        {
+          "name": "Jai'Len Josey",
+          "url": "https://open.spotify.com/artist/1BAN8UUSAMDeNfP1Wo5WWr"
+        }
+      ],
+      "duration_ms": 191194,
+      "name": "Death of a Black Girl",
+      "url": "https://open.spotify.com/track/6SIYky2birhxaoD3EocVJK"
     },
     {
       "added_at": null,
@@ -471,22 +475,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "A Few Things",
-        "url": "https://open.spotify.com/album/0byh8hdr3vZyWZ8mfeu8fN"
+        "name": "Illustrations",
+        "url": "https://open.spotify.com/album/00pFZrH0XRIXJGo86PQSYW"
       },
       "artists": [
-        {
-          "name": "Guapdad 4000",
-          "url": "https://open.spotify.com/artist/0NcPKaSNIHAM2RfioH9vMT"
-        },
         {
           "name": "Jai'Len Josey",
           "url": "https://open.spotify.com/artist/1BAN8UUSAMDeNfP1Wo5WWr"
         }
       ],
-      "duration_ms": 201600,
-      "name": "A Few Things",
-      "url": "https://open.spotify.com/track/6xyrDxA7m9ORwY5XMA1cJE"
+      "duration_ms": 400391,
+      "name": "Fall",
+      "url": "https://open.spotify.com/track/6INqijEvx76YGUVYYRCyPE"
     },
     {
       "added_at": null,

@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2025-07-20",
-  "description": "TYCH, SKO, B4RKIE, Bully, C7EVN en meer..",
+  "description": "Oomto, LV, CT & GREUYY en meer..",
   "name": "Fresh Flows",
   "tracks": [
     {
@@ -150,6 +150,24 @@
       "duration_ms": 170793,
       "name": "100 bricks",
       "url": "https://open.spotify.com/track/79V0ak67W2S4Rqjh4QLxqn"
+    },
+    {
+      "album": {
+        "name": "100 Nachten",
+        "url": "https://open.spotify.com/album/12zMkPRcumGayMh6pU8OZs"
+      },
+      "artists": [
+        {
+          "name": "CT & GREUYY",
+          "url": "https://open.spotify.com/artist/2fAnZa8mYdJn4wyUXfLEsC"
+        }
+      ],
+      "date_added": "2026-11-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 152500,
+      "name": "100 Nachten",
+      "url": "https://open.spotify.com/track/0gYve0fTI7xTMBLdalvPvJ"
     },
     {
       "album": {
@@ -1344,7 +1362,7 @@
       ],
       "date_added": "2026-10-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-27",
       "duration_ms": 159452,
       "name": "Andere Kant",
       "url": "https://open.spotify.com/track/3ZywXwtLMGI4rWFdLQ8lVh"
@@ -1952,7 +1970,7 @@
       ],
       "date_added": "2026-10-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-27",
       "duration_ms": 124147,
       "name": "Bandlab",
       "url": "https://open.spotify.com/track/1k9S6herwnrbkzp9FJKPdm"
@@ -2404,7 +2422,7 @@
       ],
       "date_added": "2026-10-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-27",
       "duration_ms": 185379,
       "name": "Bij Ons Hangen",
       "url": "https://open.spotify.com/track/0M71h6PMr1iIBcEX8iyPI9"
@@ -2818,7 +2836,7 @@
       ],
       "date_added": "2026-10-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-27",
       "duration_ms": 111472,
       "name": "Borst Vooruit",
       "url": "https://open.spotify.com/track/2QfJkHE1sxt5q4XYsLhwsx"
@@ -2976,6 +2994,32 @@
       "duration_ms": 137142,
       "name": "Broekzak",
       "url": "https://open.spotify.com/track/0H59aVh4LI9aswzjR2JlJK"
+    },
+    {
+      "album": {
+        "name": "Broke zijn",
+        "url": "https://open.spotify.com/album/7xdOl18iuTmiMsybp0M5UM"
+      },
+      "artists": [
+        {
+          "name": "Rz",
+          "url": "https://open.spotify.com/artist/0Uicf2CoBVxIQZxFXuXlO8"
+        },
+        {
+          "name": "Djahboy",
+          "url": "https://open.spotify.com/artist/5spLlQY0WWMHkhJRkNAEOi"
+        },
+        {
+          "name": "Stinna",
+          "url": "https://open.spotify.com/artist/7cVX4C8IFwjuzgKXd9W4e7"
+        }
+      ],
+      "date_added": "2026-11-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 136956,
+      "name": "Broke zijn",
+      "url": "https://open.spotify.com/track/6h3o6RwcwbAtTOHsVwYRn6"
     },
     {
       "album": {
@@ -3378,7 +3422,7 @@
       ],
       "date_added": "2026-10-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-27",
       "duration_ms": 90383,
       "name": "Clock That",
       "url": "https://open.spotify.com/track/0ieHDMoB5J4aYVY1DEvnEO"
@@ -5607,6 +5651,28 @@
     },
     {
       "album": {
+        "name": "Gebroken Huizen",
+        "url": "https://open.spotify.com/album/6sOuePqBHKlvmj7m4ib5W6"
+      },
+      "artists": [
+        {
+          "name": "Mardo4k",
+          "url": "https://open.spotify.com/artist/6MnRvAN6qNUF4mnlfCh2ZS"
+        },
+        {
+          "name": "Trankey",
+          "url": "https://open.spotify.com/artist/34yOrI1coazP2WRpRBPPfY"
+        }
+      ],
+      "date_added": "2026-11-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 160206,
+      "name": "Gebroken Huizen",
+      "url": "https://open.spotify.com/track/3ItCrmZ0CTQ4WrKYfBTObJ"
+    },
+    {
+      "album": {
         "name": "Geeked",
         "url": "https://open.spotify.com/album/7kmTctZlEUekWH8JPSevoN"
       },
@@ -5698,7 +5764,7 @@
       ],
       "date_added": "2026-10-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-27",
       "duration_ms": 211200,
       "name": "geen ho, maar pro",
       "url": "https://open.spotify.com/track/61uMOhXgvpTi2yd6pTasaI"
@@ -6426,7 +6492,7 @@
       ],
       "date_added": "2026-09-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-27",
       "duration_ms": 141369,
       "name": "HAC \u00e0 DOS",
       "url": "https://open.spotify.com/track/0TDJb8doKSZ6nbMFyzu4NU"
@@ -7212,7 +7278,7 @@
       ],
       "date_added": "2026-10-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-27",
       "duration_ms": 112000,
       "name": "Huncho Story",
       "url": "https://open.spotify.com/track/6z3xklY5pp1aUiDk5gUYlT"
@@ -7606,7 +7672,7 @@
       ],
       "date_added": "2026-10-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-27",
       "duration_ms": 197142,
       "name": "Investeren",
       "url": "https://open.spotify.com/track/7u5z2KRDPGsLOvGgx1NjFr"
@@ -7632,6 +7698,24 @@
       "duration_ms": 128000,
       "name": "Irri",
       "url": "https://open.spotify.com/track/3GzBS9bL6qKxshzCMhso4N"
+    },
+    {
+      "album": {
+        "name": "Zelfscan",
+        "url": "https://open.spotify.com/album/3lnCl41OKdridXmIvHNvQO"
+      },
+      "artists": [
+        {
+          "name": "DIKKE",
+          "url": "https://open.spotify.com/artist/6lZ9MW0eEVePXdpa87Wag4"
+        }
+      ],
+      "date_added": "2026-11-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 187546,
+      "name": "Is beter",
+      "url": "https://open.spotify.com/track/45oQdLeP7Jl8izyzNXkw5H"
     },
     {
       "album": {
@@ -8780,7 +8864,7 @@
       ],
       "date_added": "2026-10-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-27",
       "duration_ms": 144966,
       "name": "Laatste Traan",
       "url": "https://open.spotify.com/track/22ROusbimwU9qbJkkLinVo"
@@ -8828,7 +8912,7 @@
       ],
       "date_added": "2026-10-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-27",
       "duration_ms": 114628,
       "name": "Lamb truck",
       "url": "https://open.spotify.com/track/76Jj9OtTB7vqba7el4bEVa"
@@ -9797,6 +9881,28 @@
     },
     {
       "album": {
+        "name": "Mala Mia",
+        "url": "https://open.spotify.com/album/0TXNNnNhJhL8wGxd1sQf2i"
+      },
+      "artists": [
+        {
+          "name": "AG BLAXX",
+          "url": "https://open.spotify.com/artist/0BdZi6qH5GIysWupr5kTdo"
+        },
+        {
+          "name": "Bouzi",
+          "url": "https://open.spotify.com/artist/5D4busM3l7V32B8LDxrrfG"
+        }
+      ],
+      "date_added": "2026-11-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 179500,
+      "name": "Mala Mia",
+      "url": "https://open.spotify.com/track/16LZS1Ppr0HgQRoOvKffUS"
+    },
+    {
+      "album": {
         "name": "Malaga",
         "url": "https://open.spotify.com/album/4wnKynw37GcU5ObZTP3nYg"
       },
@@ -10083,6 +10189,24 @@
     },
     {
       "album": {
+        "name": "Me Gabber Zegt",
+        "url": "https://open.spotify.com/album/1DYy1T5NRgjj9yD0S8Kgfy"
+      },
+      "artists": [
+        {
+          "name": "Getit",
+          "url": "https://open.spotify.com/artist/5Yc3rkj4Fs4slH5uGZaG8I"
+        }
+      ],
+      "date_added": "2026-11-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 176000,
+      "name": "Me Gabber Zegt",
+      "url": "https://open.spotify.com/track/1H5tAMILjUeC8HmXz4P5i0"
+    },
+    {
+      "album": {
         "name": "me systeem (feat. DIM & lostboyshawty)",
         "url": "https://open.spotify.com/album/4JEAAaYXcTmWat00KZZsEp"
       },
@@ -10222,6 +10346,24 @@
       "duration_ms": 127500,
       "name": "Meer Money",
       "url": "https://open.spotify.com/track/54OgxYjv2mDpkZ4aw5mWAD"
+    },
+    {
+      "album": {
+        "name": "Mi Lobi Di Motjo",
+        "url": "https://open.spotify.com/album/6a09UwvRYsHL3oAdYJgYlO"
+      },
+      "artists": [
+        {
+          "name": "Oomto",
+          "url": "https://open.spotify.com/artist/10Tmpcwo1bS6hnYOBI1Gip"
+        }
+      ],
+      "date_added": "2026-11-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 119172,
+      "name": "Meke De Kong",
+      "url": "https://open.spotify.com/track/4W3P6biM4OWEjhFo4V99k9"
     },
     {
       "album": {
@@ -10461,6 +10603,32 @@
     },
     {
       "album": {
+        "name": "Miljonair",
+        "url": "https://open.spotify.com/album/0q216JaXc2o3s8xizvVxuA"
+      },
+      "artists": [
+        {
+          "name": "Marou",
+          "url": "https://open.spotify.com/artist/787K0Q2xGqiAL0jcoo5kb5"
+        },
+        {
+          "name": "Massin",
+          "url": "https://open.spotify.com/artist/7g8HFGXym7WNVPMsuAINQE"
+        },
+        {
+          "name": "Def",
+          "url": "https://open.spotify.com/artist/7xSvzzpRGlGKyXVOI6IeWk"
+        }
+      ],
+      "date_added": "2026-11-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 125940,
+      "name": "Miljonair",
+      "url": "https://open.spotify.com/track/2qTFa88IXpdc5rj5NuGtL4"
+    },
+    {
+      "album": {
         "name": "Millie",
         "url": "https://open.spotify.com/album/1gqGYqkrgJPXF2PY7mqBWy"
       },
@@ -10684,7 +10852,7 @@
       ],
       "date_added": "2026-10-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-27",
       "duration_ms": 182181,
       "name": "MOLLY",
       "url": "https://open.spotify.com/track/1rG3dyW8fgfXxIe89LUKG1"
@@ -10735,6 +10903,28 @@
     },
     {
       "album": {
+        "name": "MONCI MET DIE FUR",
+        "url": "https://open.spotify.com/album/5JvxyUT30vELjZKjuVbrKW"
+      },
+      "artists": [
+        {
+          "name": "Svnteen",
+          "url": "https://open.spotify.com/artist/17Y0cwcCd32uP9d4lBd30w"
+        },
+        {
+          "name": "lostboyshawty",
+          "url": "https://open.spotify.com/artist/46rOkUDxd11xi4PuLk5nKQ"
+        }
+      ],
+      "date_added": "2026-11-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 113336,
+      "name": "MONCI MET DIE FUR",
+      "url": "https://open.spotify.com/track/3NeZNhSws9t2uYKK9a3s56"
+    },
+    {
+      "album": {
         "name": "Diary of a HoodBi$h",
         "url": "https://open.spotify.com/album/3DDjNnUmTbJ7CQbI36Y3RN"
       },
@@ -10776,7 +10966,7 @@
       ],
       "date_added": "2026-10-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-27",
       "duration_ms": 147826,
       "name": "Money Power Respect",
       "url": "https://open.spotify.com/track/4T456766PMciwSmHha88GE"
@@ -11600,7 +11790,7 @@
       ],
       "date_added": "2026-10-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-27",
       "duration_ms": 128000,
       "name": "Niet Te Dichtbij",
       "url": "https://open.spotify.com/track/778EavH2wAbjBdUJ6oD0KL"
@@ -11626,6 +11816,24 @@
       "duration_ms": 120048,
       "name": "Niet Thuis Kom",
       "url": "https://open.spotify.com/track/7hjRcD50o3MX2UStKJUc4N"
+    },
+    {
+      "album": {
+        "name": "Niet Verkeerd",
+        "url": "https://open.spotify.com/album/2qLPoCSJsT9Jh4r7VWH7V3"
+      },
+      "artists": [
+        {
+          "name": "PJ Scoolio",
+          "url": "https://open.spotify.com/artist/2EozjqoLUKLQSnVAO90pyg"
+        }
+      ],
+      "date_added": "2026-11-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 155562,
+      "name": "Niet Verkeerd",
+      "url": "https://open.spotify.com/track/21mxk7tQUkv6SPpJip8i7N"
     },
     {
       "album": {
@@ -12286,7 +12494,7 @@
       ],
       "date_added": "2026-10-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-27",
       "duration_ms": 147599,
       "name": "Ondernemen",
       "url": "https://open.spotify.com/track/6NrAmPI31HJDI2wkKKtFfH"
@@ -13361,6 +13569,24 @@
     },
     {
       "album": {
+        "name": "QQ BOEF",
+        "url": "https://open.spotify.com/album/4SUXkc449TLRHXxHE6Xu2a"
+      },
+      "artists": [
+        {
+          "name": "Romano Santino",
+          "url": "https://open.spotify.com/artist/1FqLsYuVoYhNIhUj1gQmzU"
+        }
+      ],
+      "date_added": "2026-11-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 138556,
+      "name": "QQ BOEF",
+      "url": "https://open.spotify.com/track/5gdmr0XxtAmg5WfIL4xjui"
+    },
+    {
+      "album": {
         "name": "Quarterback",
         "url": "https://open.spotify.com/album/3ggEhQJO82iJk2FHK7DMGd"
       },
@@ -13892,7 +14118,7 @@
       ],
       "date_added": "2026-10-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-27",
       "duration_ms": 176842,
       "name": "Schade",
       "url": "https://open.spotify.com/track/3wsIcNtPMtoxecw2aodQmi"
@@ -14006,7 +14232,7 @@
       ],
       "date_added": "2026-10-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-27",
       "duration_ms": 135846,
       "name": "Scooby Doo",
       "url": "https://open.spotify.com/track/2x2flEXL3imc58LUHxLe4H"
@@ -15476,7 +15702,7 @@
       ],
       "date_added": "2026-09-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-27",
       "duration_ms": 77024,
       "name": "TOPFIT",
       "url": "https://open.spotify.com/track/6FLujRTgsyT07W57DzfziG"
@@ -16485,6 +16711,28 @@
     },
     {
       "album": {
+        "name": "Vliegen",
+        "url": "https://open.spotify.com/album/4amiYaNKlgikIoewGYAdDx"
+      },
+      "artists": [
+        {
+          "name": "LV",
+          "url": "https://open.spotify.com/artist/0IjnsuA3IlyLM65xTg2an7"
+        },
+        {
+          "name": "SAMOO",
+          "url": "https://open.spotify.com/artist/2afDL8qqRdyPTmRhgmsQFV"
+        }
+      ],
+      "date_added": "2026-11-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 164210,
+      "name": "Vliegen",
+      "url": "https://open.spotify.com/track/7oePQnqIVHnyAL09VRgsr3"
+    },
+    {
+      "album": {
         "name": "Achtbaan 2",
         "url": "https://open.spotify.com/album/1TNYri9jouZvFg7nyV8WhF"
       },
@@ -16916,7 +17164,7 @@
       ],
       "date_added": "2026-10-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-27",
       "duration_ms": 172500,
       "name": "Way2Deep",
       "url": "https://open.spotify.com/track/28WZP2EKAbbAnaTZsugoJI"
@@ -17548,7 +17796,7 @@
       ],
       "date_added": "2026-10-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-27",
       "duration_ms": 138095,
       "name": "Yeah",
       "url": "https://open.spotify.com/track/52lAiKndpn0e39fAeYwx0q"
@@ -17676,7 +17924,7 @@
       ],
       "date_added": "2026-10-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-27",
       "duration_ms": 125000,
       "name": "Zak Je Toon",
       "url": "https://open.spotify.com/track/6fOOkOY5QtP31t5Q9kWy32"

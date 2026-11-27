@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2024-07-02",
-  "description": "Beyond titles, beyond genre. Cover: Erika de Casier",
+  "description": "Beyond titles, beyond genre. Cover: Zukovstheworld",
   "name": "UNTITLED",
   "tracks": [
     {
@@ -1529,6 +1529,24 @@
     },
     {
       "album": {
+        "name": "Band",
+        "url": "https://open.spotify.com/album/2MmlbUxJqM7FC49KIURRsq"
+      },
+      "artists": [
+        {
+          "name": "haloplus+",
+          "url": "https://open.spotify.com/artist/224oiUpyCYmxo3WJQW3EPB"
+        }
+      ],
+      "date_added": "2026-11-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 158959,
+      "name": "Band",
+      "url": "https://open.spotify.com/track/2Gz4c8wVrfpIq0eJHXz91p"
+    },
+    {
+      "album": {
         "name": "bastard",
         "url": "https://open.spotify.com/album/1PwWm9XDlFgWpcOuquC0K0"
       },
@@ -2652,7 +2670,7 @@
       ],
       "date_added": "2026-10-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-27",
       "duration_ms": 328169,
       "name": "California",
       "url": "https://open.spotify.com/track/3meidwPTWoJ5SwszG5jm6S"
@@ -5560,6 +5578,24 @@
       "duration_ms": 176730,
       "name": "family and friends",
       "url": "https://open.spotify.com/track/3CkNXbhCLFk4o7GJduateb"
+    },
+    {
+      "album": {
+        "name": "FANGIRL",
+        "url": "https://open.spotify.com/album/5ELiPf4pOYHcfHMVIUYziL"
+      },
+      "artists": [
+        {
+          "name": "PUNCHBAG",
+          "url": "https://open.spotify.com/artist/4cIkY1R6unpsnIdkLfOTFf"
+        }
+      ],
+      "date_added": "2026-11-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 205365,
+      "name": "FANGIRL",
+      "url": "https://open.spotify.com/track/62qaIXXQpfWwFmWPgxucEU"
     },
     {
       "album": {
@@ -8822,7 +8858,7 @@
       ],
       "date_added": "2026-10-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-27",
       "duration_ms": 218000,
       "name": "If you wanna come down",
       "url": "https://open.spotify.com/track/3ga7J4qgOlL0YcSgmQ371w"
@@ -10317,6 +10353,24 @@
     },
     {
       "album": {
+        "name": "Neptune Rising",
+        "url": "https://open.spotify.com/album/11fUo0t16K2uYaIGdM8m4l"
+      },
+      "artists": [
+        {
+          "name": "Ray Laur\u00e9l",
+          "url": "https://open.spotify.com/artist/7gW3GsnBSoT6q9YQUstlzA"
+        }
+      ],
+      "date_added": "2026-11-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 136650,
+      "name": "Lilith",
+      "url": "https://open.spotify.com/track/0Fe8swbGBy9YI1o7WJiBoe"
+    },
+    {
+      "album": {
         "name": "Lilith",
         "url": "https://open.spotify.com/album/4VYy0YvAwmTQWy8zFG0CXK"
       },
@@ -11230,7 +11284,7 @@
       ],
       "date_added": "2026-10-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-27",
       "duration_ms": 185330,
       "name": "Mantra",
       "url": "https://open.spotify.com/track/6FRKbLeBePLS0KTZqhVMgR"
@@ -11688,6 +11742,24 @@
       "duration_ms": 220800,
       "name": "mitcham mint",
       "url": "https://open.spotify.com/track/2CaXYXIyrhAVT0LFoQfftL"
+    },
+    {
+      "album": {
+        "name": "Mitsubishi",
+        "url": "https://open.spotify.com/album/2YfhqE39VRMHtgJStHe7BF"
+      },
+      "artists": [
+        {
+          "name": "Friedberg",
+          "url": "https://open.spotify.com/artist/0lqPfG8vAR30UX3cWDbCEn"
+        }
+      ],
+      "date_added": "2026-11-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 157293,
+      "name": "Mitsubishi",
+      "url": "https://open.spotify.com/track/5XYQSJNuTtZYcndBeWWBcy"
     },
     {
       "album": {
@@ -13079,6 +13151,24 @@
     },
     {
       "album": {
+        "name": "The Perfect Place",
+        "url": "https://open.spotify.com/album/0bTI3svv8RcMTzdjbGj1QL"
+      },
+      "artists": [
+        {
+          "name": "Zukovstheworld",
+          "url": "https://open.spotify.com/artist/0ybwRrGnCsrDOglPdosrqV"
+        }
+      ],
+      "date_added": "2026-11-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 150925,
+      "name": "Ordinary Voices",
+      "url": "https://open.spotify.com/track/3JlwwfSO6HJRM0VWTIygFF"
+    },
+    {
+      "album": {
         "name": "Organs",
         "url": "https://open.spotify.com/album/76u3zEekWcNipqChvHjTkc"
       },
@@ -13580,7 +13670,7 @@
       ],
       "date_added": "2026-08-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-27",
       "duration_ms": 181308,
       "name": "Pipe Dream",
       "url": "https://open.spotify.com/track/5C3OWPfMnUxeJUdnuz9u1a"
@@ -13620,6 +13710,24 @@
       "duration_ms": 110430,
       "name": "PIXELATED KISSES",
       "url": "https://open.spotify.com/track/2OZVskV28xxJjjhQqKTLSg"
+    },
+    {
+      "album": {
+        "name": "Plastic Poppies",
+        "url": "https://open.spotify.com/album/08aZMWUCMu5LicDhYVMPfG"
+      },
+      "artists": [
+        {
+          "name": "The Femcels",
+          "url": "https://open.spotify.com/artist/6IEfd4F10D3zvJ9N6DNmvK"
+        }
+      ],
+      "date_added": "2026-11-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 183173,
+      "name": "Plastic Poppies",
+      "url": "https://open.spotify.com/track/7ftlivV4XZp4NKF1s9hAhr"
     },
     {
       "album": {
@@ -13877,6 +13985,24 @@
     },
     {
       "album": {
+        "name": "PopUFO",
+        "url": "https://open.spotify.com/album/7ovDcXXHnJdyC1xpPwrJEq"
+      },
+      "artists": [
+        {
+          "name": "Soraya Cinema",
+          "url": "https://open.spotify.com/artist/3DP8fD0P68CorpqJY6mjc9"
+        }
+      ],
+      "date_added": "2026-11-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 180466,
+      "name": "PopUFO",
+      "url": "https://open.spotify.com/track/4DLLIPg20wyu8BFp4NLKsN"
+    },
+    {
+      "album": {
         "name": "The Summer Fables",
         "url": "https://open.spotify.com/album/3ZeT8r59p4lSOwPqiUop6H"
       },
@@ -13906,7 +14032,7 @@
       ],
       "date_added": "2026-09-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-27",
       "duration_ms": 137142,
       "name": "Porcelain",
       "url": "https://open.spotify.com/track/52ju45KU6tOpb0Nk8vRKN5"
@@ -16141,6 +16267,24 @@
     },
     {
       "album": {
+        "name": "sometimes memory fails me sometimes",
+        "url": "https://open.spotify.com/album/6PhYPDKJaoSqLXXAABbg1K"
+      },
+      "artists": [
+        {
+          "name": "if i was a pony",
+          "url": "https://open.spotify.com/artist/3t3zwTenPUimx09zxB0hRA"
+        }
+      ],
+      "date_added": "2026-11-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 196721,
+      "name": "sometimes memory fails me sometimes",
+      "url": "https://open.spotify.com/track/1jyRl8bzrzFVJMintuOrv2"
+    },
+    {
+      "album": {
         "name": "Somewhere Only We Go",
         "url": "https://open.spotify.com/album/7CkVmuSarxEAaF40gwVNWm"
       },
@@ -16170,7 +16314,7 @@
       ],
       "date_added": "2026-09-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-27",
       "duration_ms": 242477,
       "name": "song 2",
       "url": "https://open.spotify.com/track/45Iz1J6e1oHWJLAJ25TZt5"
@@ -17036,7 +17180,7 @@
       ],
       "date_added": "2026-10-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-27",
       "duration_ms": 116136,
       "name": "Summer Interlude",
       "url": "https://open.spotify.com/track/7fqmdAlM5NZwml9LQbPXlo"
@@ -17318,7 +17462,7 @@
       ],
       "date_added": "2026-08-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-27",
       "duration_ms": 226915,
       "name": "Tea Time",
       "url": "https://open.spotify.com/track/31GAlUeCLW7X2wabzWaCYM"

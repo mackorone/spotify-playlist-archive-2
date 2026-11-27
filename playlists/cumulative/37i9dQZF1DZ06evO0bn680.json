@@ -842,7 +842,7 @@
       ],
       "date_added": "2026-11-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-27",
       "duration_ms": 288840,
       "name": "Blake's Lullaby (Version for Choir & Orchestra)",
       "url": "https://open.spotify.com/track/4sjd8aPokVP0lQVzDoP3or"
@@ -1910,6 +1910,44 @@
       "duration_ms": 188426,
       "name": "III. Sanctus",
       "url": "https://open.spotify.com/track/69Vv9R3pQUli6Blios34An"
+    },
+    {
+      "album": {
+        "name": "Gloria: The Sacred Music Of John Rutter",
+        "url": "https://open.spotify.com/album/1QYSoRYk9Y6FiWY8ZrBYax"
+      },
+      "artists": [
+        {
+          "name": "John Rutter",
+          "url": "https://open.spotify.com/artist/0qlhpgr87PEG89Jd5iRpxe"
+        },
+        {
+          "name": "The Cambridge Singers",
+          "url": "https://open.spotify.com/artist/0daVGEYMVnQZ3NZIpIuFWn"
+        },
+        {
+          "name": "John Scott",
+          "url": "https://open.spotify.com/artist/5kcQ9Unglia5GTp5NESsWh"
+        },
+        {
+          "name": "Gary Kettel",
+          "url": "https://open.spotify.com/artist/6nIQZ7kMnyXmoJwfaiknCw"
+        },
+        {
+          "name": "Eric Allen",
+          "url": "https://open.spotify.com/artist/26nAW8GPlPbG73C2sN155I"
+        },
+        {
+          "name": "The Philip Jones Brass Ensemble",
+          "url": "https://open.spotify.com/artist/1k8OBOZFeKJJYbpFpndv5R"
+        }
+      ],
+      "date_added": "2026-11-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 333960,
+      "name": "III. Vivace e ritmico",
+      "url": "https://open.spotify.com/track/7iVDmm80oGsb8yQ9Gmzgel"
     },
     {
       "album": {

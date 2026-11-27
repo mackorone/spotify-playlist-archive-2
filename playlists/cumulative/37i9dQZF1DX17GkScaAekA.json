@@ -3529,6 +3529,28 @@
     },
     {
       "album": {
+        "name": "Symphonic Etudes, Op. 13: No. 11, Variation IX",
+        "url": "https://open.spotify.com/album/3qU7IwGsryS26yUXDf7kFc"
+      },
+      "artists": [
+        {
+          "name": "Schumann",
+          "url": "https://open.spotify.com/artist/0vlBgnKZcebJYVZruCPPpC"
+        },
+        {
+          "name": "Zlata Chochieva",
+          "url": "https://open.spotify.com/artist/17Lk8hvcGG9cqBLZUNHFSj"
+        }
+      ],
+      "date_added": "2026-11-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 181666,
+      "name": "Symphonic Etudes, Op. 13: No. 11, Variation IX",
+      "url": "https://open.spotify.com/track/3XtikstBD0JOGtSJe3itpr"
+    },
+    {
+      "album": {
         "name": "Originals and Beyond (Original Transcriptions for Piano Duo)",
         "url": "https://open.spotify.com/album/7pIL3Kf3Z8NloicYbBPKwz"
       },

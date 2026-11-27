@@ -1,8 +1,26 @@
 {
   "date_first_scraped": "2023-12-19",
-  "description": "boot cut, extra heavy el almid\u00f3n y el sombrero que no falte. Pepe Walker en portada.",
+  "description": "boot cut, extra heavy el almid\u00f3n y el sombrero que no falte. Secretto en portada.",
   "name": "Starched",
   "tracks": [
+    {
+      "album": {
+        "name": "(Hey Baby) Qu\u00e9 Pas\u00f3?",
+        "url": "https://open.spotify.com/album/24bckPC97urDozPMVTogg1"
+      },
+      "artists": [
+        {
+          "name": "Kacey Musgraves",
+          "url": "https://open.spotify.com/artist/70kkdajctXSbqSMJbQO424"
+        }
+      ],
+      "date_added": "2026-11-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 179218,
+      "name": "(Hey Baby) Qu\u00e9 Pas\u00f3?",
+      "url": "https://open.spotify.com/track/0xWEAlPvE7YJj1o36xei8m"
+    },
     {
       "album": {
         "name": "00:00",
@@ -394,6 +412,28 @@
       "duration_ms": 181413,
       "name": "Ag\u00fcita De Coco",
       "url": "https://open.spotify.com/track/6yd503DovrZyEN4qZGaZcq"
+    },
+    {
+      "album": {
+        "name": "All Day USA (From the Motion Picture \"Campe\u00f3n Gabacho\")",
+        "url": "https://open.spotify.com/album/5nKagETAF2EX6MkBPAl62d"
+      },
+      "artists": [
+        {
+          "name": "Eden Mu\u00f1oz",
+          "url": "https://open.spotify.com/artist/1gJdf4Yybu4X5A2xYV3NMV"
+        },
+        {
+          "name": "Campe\u00f3n Gabacho",
+          "url": "https://open.spotify.com/artist/16rslKKMSg1vZmr42ojqaV"
+        }
+      ],
+      "date_added": "2026-11-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 209164,
+      "name": "All Day USA - From the Motion Picture \"Campe\u00f3n Gabacho\"",
+      "url": "https://open.spotify.com/track/3a968GQYndCv3sFJrs9LUn"
     },
     {
       "album": {
@@ -1561,6 +1601,24 @@
     },
     {
       "album": {
+        "name": "Casi Algo",
+        "url": "https://open.spotify.com/album/2cxXpfm0xND5e9eC2Fx5F9"
+      },
+      "artists": [
+        {
+          "name": "Milla 22",
+          "url": "https://open.spotify.com/artist/1KVybNvulpTPVOWINYyM0q"
+        }
+      ],
+      "date_added": "2026-11-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 224582,
+      "name": "Casi Algo",
+      "url": "https://open.spotify.com/track/5eaLzflCOZknktPA5PdoAV"
+    },
+    {
+      "album": {
         "name": "Boca Chueca, Vol. 1",
         "url": "https://open.spotify.com/album/5wkYyTtAUS2Wi6pHYpdsSU"
       },
@@ -1576,6 +1634,24 @@
       "duration_ms": 227000,
       "name": "Casi oficial",
       "url": "https://open.spotify.com/track/1tpTj9NAKWUFEabYfkzmRH"
+    },
+    {
+      "album": {
+        "name": "En Vivo Desde El Domo Care",
+        "url": "https://open.spotify.com/album/7fnSL6RfrtHN1Zp9olhcOo"
+      },
+      "artists": [
+        {
+          "name": "VOLVER A LA CUMBIA",
+          "url": "https://open.spotify.com/artist/01U4MuAcixFeDX4voCEiix"
+        }
+      ],
+      "date_added": "2026-11-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 167072,
+      "name": "Celoso - En Vivo",
+      "url": "https://open.spotify.com/track/04rhf5UxDisGMKtvLLoF4F"
     },
     {
       "album": {
@@ -2346,7 +2422,7 @@
       ],
       "date_added": "2026-09-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-27",
       "duration_ms": 178474,
       "name": "De Cuando Ac\u00e1",
       "url": "https://open.spotify.com/track/2sZ9VjimnCq5JrLPR0GUui"
@@ -2447,6 +2523,24 @@
     },
     {
       "album": {
+        "name": "Dia Sad",
+        "url": "https://open.spotify.com/album/2XVyIoHnrYsBZ9im7dvI5F"
+      },
+      "artists": [
+        {
+          "name": "Pepe Walker",
+          "url": "https://open.spotify.com/artist/77R9hp0RJqY3frwTqmQLGZ"
+        }
+      ],
+      "date_added": "2026-11-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 196264,
+      "name": "Dia Sad",
+      "url": "https://open.spotify.com/track/6FcQb0eWmWxJR1yfREhabA"
+    },
+    {
+      "album": {
         "name": "Diles",
         "url": "https://open.spotify.com/album/6kTizLfVRIbzMzT1tb7dex"
       },
@@ -2518,7 +2612,7 @@
       ],
       "date_added": "2026-09-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-27",
       "duration_ms": 214473,
       "name": "DIOS POR DELANTE",
       "url": "https://open.spotify.com/track/08YpPMWRDp6FwHWivbwOkw"
@@ -2656,7 +2750,7 @@
       ],
       "date_added": "2026-09-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-27",
       "duration_ms": 212222,
       "name": "DUE\u00d1O DE TI",
       "url": "https://open.spotify.com/track/3fVoK5VLXYksHYMDf16RIT"
@@ -3574,7 +3668,7 @@
       ],
       "date_added": "2026-09-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-27",
       "duration_ms": 175910,
       "name": "Gastando Verdes",
       "url": "https://open.spotify.com/track/5n9qm4KvU4dKWVFpCAwSGt"
@@ -4020,7 +4114,7 @@
       ],
       "date_added": "2026-09-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-27",
       "duration_ms": 232847,
       "name": "Hey There Delilah",
       "url": "https://open.spotify.com/track/5iUDFtbjgmelY9I2Diirwk"
@@ -4756,7 +4850,7 @@
       ],
       "date_added": "2026-09-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-27",
       "duration_ms": 164650,
       "name": "La Boca Les Callamos",
       "url": "https://open.spotify.com/track/6bXfM7zpnRP5qkyYWzHjWO"
@@ -5184,7 +5278,7 @@
       ],
       "date_added": "2026-09-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-27",
       "duration_ms": 199666,
       "name": "La Prisi\u00f3n De Folsom (Folsom Prison Blues) - Live At Folsom Prison",
       "url": "https://open.spotify.com/track/6h23gt9orDwsnjl2R1MGpN"
@@ -5551,6 +5645,24 @@
     },
     {
       "album": {
+        "name": "Lo Que Tu No Me Das",
+        "url": "https://open.spotify.com/album/7FwBu1dXrDjKJ9GJCUt3dQ"
+      },
+      "artists": [
+        {
+          "name": "Secretto",
+          "url": "https://open.spotify.com/artist/1p2oJls3t03KjBx99Lj2ZQ"
+        }
+      ],
+      "date_added": "2026-11-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 169666,
+      "name": "Lo Que Tu No Me Das",
+      "url": "https://open.spotify.com/track/5zluN3LDZhKSac5sR5TWYn"
+    },
+    {
+      "album": {
         "name": "CD9",
         "url": "https://open.spotify.com/album/23ZoFAeexQP2AQ2wGEBKO5"
       },
@@ -5818,7 +5930,7 @@
       ],
       "date_added": "2026-09-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-27",
       "duration_ms": 173386,
       "name": "Luz Prendida",
       "url": "https://open.spotify.com/track/04GQvEby350jUhpZOMMMG1"
@@ -6319,6 +6431,24 @@
     },
     {
       "album": {
+        "name": "Mi Tesoro",
+        "url": "https://open.spotify.com/album/64YE0WQEVhUDrV5AT6tmHf"
+      },
+      "artists": [
+        {
+          "name": "Kacey Musgraves",
+          "url": "https://open.spotify.com/artist/70kkdajctXSbqSMJbQO424"
+        }
+      ],
+      "date_added": "2026-11-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 195110,
+      "name": "Mi Tesoro",
+      "url": "https://open.spotify.com/track/6NM6WvgeXafeCb46be3YOu"
+    },
+    {
+      "album": {
         "name": "Mi Trokita Cumbia",
         "url": "https://open.spotify.com/album/0tMsvi0IzNyRZFqF9qeFCz"
       },
@@ -6374,7 +6504,7 @@
       ],
       "date_added": "2026-09-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-27",
       "duration_ms": 189881,
       "name": "Mil Maneras De Morir",
       "url": "https://open.spotify.com/track/2dc0cP069ZlIwMt7rvlTzR"
@@ -7140,6 +7270,24 @@
       "duration_ms": 193816,
       "name": "NO SE VA - EN VIVO",
       "url": "https://open.spotify.com/track/76kelNDs1ojicx1s6Urvck"
+    },
+    {
+      "album": {
+        "name": "No Te La Vas Acabar",
+        "url": "https://open.spotify.com/album/7irkUPwUebbn6gYb5e5gaS"
+      },
+      "artists": [
+        {
+          "name": "Los Tesoros de Javi",
+          "url": "https://open.spotify.com/artist/3Lo23uWs8YHafT76SEl1xY"
+        }
+      ],
+      "date_added": "2026-11-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 271221,
+      "name": "No Te La Vas Acabar",
+      "url": "https://open.spotify.com/track/2mp0SAjtFIXouNbk6j3ggF"
     },
     {
       "album": {
@@ -8120,7 +8268,7 @@
       ],
       "date_added": "2026-09-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-27",
       "duration_ms": 162013,
       "name": "Pura Adrenalina",
       "url": "https://open.spotify.com/track/5Ho2PsKBXFpSjRBrnDwF3N"
@@ -8204,6 +8352,46 @@
       "duration_ms": 173756,
       "name": "Que A Toda Madre (Que A Todo Dar)",
       "url": "https://open.spotify.com/track/2f5VfxUVvxyW7KzvsbVZ2o"
+    },
+    {
+      "album": {
+        "name": "Atemporal",
+        "url": "https://open.spotify.com/album/69opE4juUkLG8qTWNKB6Cv"
+      },
+      "artists": [
+        {
+          "name": "Joan Sebastian",
+          "url": "https://open.spotify.com/artist/7FsRH5bw8iWpSbMX1G7xf1"
+        }
+      ],
+      "date_added": "2026-11-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 169560,
+      "name": "Que Sea",
+      "url": "https://open.spotify.com/track/3LBnikk8IS3TSBbVUn86eA"
+    },
+    {
+      "album": {
+        "name": "Que Te Vas (En Vivo)",
+        "url": "https://open.spotify.com/album/6N8asR6tJrNnLcQhcrO3J6"
+      },
+      "artists": [
+        {
+          "name": "De Parranda",
+          "url": "https://open.spotify.com/artist/0OTHm6AFLxgeTm0gHNOuWi"
+        },
+        {
+          "name": "Los Morales",
+          "url": "https://open.spotify.com/artist/6ApQFyQipz7e35stMrNG4h"
+        }
+      ],
+      "date_added": "2026-11-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 216812,
+      "name": "Que Te Vas - En Vivo",
+      "url": "https://open.spotify.com/track/65BDsvfQ4rthtxlO07sm47"
     },
     {
       "album": {
@@ -8788,6 +8976,24 @@
       "duration_ms": 188080,
       "name": "Se Prepar\u00f3",
       "url": "https://open.spotify.com/track/1m69ELEgE6k5ZWsap40ozt"
+    },
+    {
+      "album": {
+        "name": "Homerun",
+        "url": "https://open.spotify.com/album/265wcxlME4Bm3UHG9M4Bvy"
+      },
+      "artists": [
+        {
+          "name": "Milla 22",
+          "url": "https://open.spotify.com/artist/1KVybNvulpTPVOWINYyM0q"
+        }
+      ],
+      "date_added": "2026-11-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 249467,
+      "name": "Se Te Mira Bien",
+      "url": "https://open.spotify.com/track/4JvJnet2T3hJFJgLtZ9Xyt"
     },
     {
       "album": {
@@ -9832,7 +10038,7 @@
       ],
       "date_added": "2026-10-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-27",
       "duration_ms": 178404,
       "name": "Terrenito",
       "url": "https://open.spotify.com/track/4k11onEHXQz0VULBlny9v1"
@@ -9926,7 +10132,7 @@
       ],
       "date_added": "2026-09-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-27",
       "duration_ms": 176800,
       "name": "The one (Pero no como yo)",
       "url": "https://open.spotify.com/track/03J82tGipvxwFZ14smkuVj"
@@ -10818,6 +11024,24 @@
       "duration_ms": 180749,
       "name": "Volver\u00eda",
       "url": "https://open.spotify.com/track/7Fh6jDbjjoyELGdlHjfLKl"
+    },
+    {
+      "album": {
+        "name": "13 Celebrando El 13",
+        "url": "https://open.spotify.com/album/14tYU9p33apTBRtDnfwKyz"
+      },
+      "artists": [
+        {
+          "name": "Joan Sebastian",
+          "url": "https://open.spotify.com/artist/7FsRH5bw8iWpSbMX1G7xf1"
+        }
+      ],
+      "date_added": "2026-11-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 173786,
+      "name": "Voy A Conquistarte",
+      "url": "https://open.spotify.com/track/4L1n2UCV41ZzvBin118Aie"
     },
     {
       "album": {

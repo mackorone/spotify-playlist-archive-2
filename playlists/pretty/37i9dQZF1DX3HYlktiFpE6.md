@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3HYlktiFpE6.md) - [plain]
 
 > Your favorite a cappella music from Pentatonix, the Glee cast, Pitch Perfect, and more\. Just sing it! Cover: Pentatonix
 
-[Spotify](https://open.spotify.com/user/spotify) - 116,193 likes - 100 songs - 5 hr 44 min
+[Spotify](https://open.spotify.com/user/spotify) - 116,202 likes - 100 songs - 5 hr 44 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -15,7 +15,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3HYlktiFpE6.md) - [plain]
 | 5 | [Life is a Highway \- Home Free's Version](https://open.spotify.com/track/7nfcplt8hszPHYv0ECiPdg) | [Home Free](https://open.spotify.com/artist/2MSlGNpwXDScUdspOK6TS7) | [Life is a Highway \(Home Free's Version\)](https://open.spotify.com/album/62a9OZQr3Kczzt0tY1c1Dh) | 3:18 |
 | 6 | [I Rise](https://open.spotify.com/track/22qKulMO8VijTJGXOig5vN) | [Pentatonix](https://open.spotify.com/artist/26AHtbjWKiwYzsoGoUZq53) | [I Rise](https://open.spotify.com/album/2N3GoTPzZ81DIIujoxCYYP) | 3:20 |
 | 7 | [It Might Be You](https://open.spotify.com/track/4prt3l5AX0wAQwOgo57Ao8) | [Naturally 7](https://open.spotify.com/artist/769D3IwCDrdPospAd3Hlpi) | [It Might Be You](https://open.spotify.com/album/385CbVz7M8ik6LMuOQWXAv) | 4:24 |
-| 8 | [Man in the Mirror](https://open.spotify.com/track/5UuG19x0mUEFDWdF1LFAMy) | [The Swingles](https://open.spotify.com/artist/5QvPTVBx6OlrUuPwC8W3uU), [Vadé](https://open.spotify.com/artist/4WRmZFsekldnGI9cum10PD) | [Man in the Mirror](https://open.spotify.com/album/5uQnVKzQubfaNoCEaALcf5) | 5:03 |
+| 8 | [Man in the Mirror](https://open.spotify.com/track/5UuG19x0mUEFDWdF1LFAMy) | [The Swingle Singers](https://open.spotify.com/artist/1ZlFYysRdc6YaUH5FkxPl8), [Vadé](https://open.spotify.com/artist/4WRmZFsekldnGI9cum10PD) | [Man in the Mirror](https://open.spotify.com/album/5uQnVKzQubfaNoCEaALcf5) | 5:03 |
 | 9 | [Livin' on a Prayer](https://open.spotify.com/track/4EVVMoQctdBaexwDDztSZT) | [Hyannis Sound](https://open.spotify.com/artist/4lEFWJCOBV28nMF30Kqr9p) | [Livin' on a Prayer](https://open.spotify.com/album/5CugPAjyMBKYgr6shXf0vn) | 4:15 |
 | 10 | [I Care](https://open.spotify.com/track/3huvnAxZyEXG580EaKc2M5) | [Pitch Please](https://open.spotify.com/artist/6FIIgRScUYNnbDtXsryd6G) | [I Care](https://open.spotify.com/album/3p5NMICoWw8UWNYdTsrdtL) | 3:34 |
 | 11 | [erase me](https://open.spotify.com/track/1RYuQzQoE8a7FK76t4DTgE) | [Take It Slo](https://open.spotify.com/artist/4Yb87D90VhbyWMnjA5yuIg) | [erase me](https://open.spotify.com/album/6NCQVfbNQqPTqugVzrMxQB) | 3:36 |

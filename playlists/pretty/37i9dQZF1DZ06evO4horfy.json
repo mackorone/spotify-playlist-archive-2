@@ -6,7 +6,7 @@
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "awOCAAAAAABloINOMa2kY8BO3TRzxfwG",
+  "snapshot_id": "awYlAAAAAADJGIxxyDd3rEqRbbVBQsqC",
   "tracks": [
     {
       "added_at": null,
@@ -187,70 +187,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Als een vis in het water",
-        "url": "https://open.spotify.com/album/7GL6nTbVkC8jajJYPaxzKW"
-      },
-      "artists": [
-        {
-          "name": "Kinderen voor Kinderen",
-          "url": "https://open.spotify.com/artist/7evlWm7RyagYqxSQN5E6UN"
-        }
-      ],
-      "duration_ms": 154153,
-      "name": "Als een vis in het water",
-      "url": "https://open.spotify.com/track/1HhtfeduR8K8QymbPVgSkt"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "46 - Vol avontuur",
-        "url": "https://open.spotify.com/album/1YGnCuWsBhzrFBBWwEeBku"
-      },
-      "artists": [
-        {
-          "name": "Kinderen voor Kinderen",
-          "url": "https://open.spotify.com/artist/7evlWm7RyagYqxSQN5E6UN"
-        }
-      ],
-      "duration_ms": 148275,
-      "name": "5 dagen weekend",
-      "url": "https://open.spotify.com/track/6NDzmMrUG5gUBAnmP1R0KU"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "45 - Lekker eigenwijs",
-        "url": "https://open.spotify.com/album/26Fp5Uw7UDheeFVXlu1HAr"
-      },
-      "artists": [
-        {
-          "name": "Kinderen voor Kinderen",
-          "url": "https://open.spotify.com/artist/7evlWm7RyagYqxSQN5E6UN"
-        }
-      ],
-      "duration_ms": 170000,
-      "name": "Dansen in de regen",
-      "url": "https://open.spotify.com/track/5zh0gHpGzmzZEtsQRL4xPG"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "47 - Spot aan",
-        "url": "https://open.spotify.com/album/4TuM9TSDGhc1XgAZZynKl5"
-      },
-      "artists": [
-        {
-          "name": "Kinderen voor Kinderen",
-          "url": "https://open.spotify.com/artist/7evlWm7RyagYqxSQN5E6UN"
-        }
-      ],
-      "duration_ms": 188675,
-      "name": "Groep 8",
-      "url": "https://open.spotify.com/track/7N1VdrXDdc15XKzSkOd98v"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "38 - Gruwelijk eng",
         "url": "https://open.spotify.com/album/2PxkC5dg2AQGYSrC6shWXO"
       },
@@ -283,6 +219,38 @@
     {
       "added_at": null,
       "album": {
+        "name": "45 - Lekker eigenwijs",
+        "url": "https://open.spotify.com/album/26Fp5Uw7UDheeFVXlu1HAr"
+      },
+      "artists": [
+        {
+          "name": "Kinderen voor Kinderen",
+          "url": "https://open.spotify.com/artist/7evlWm7RyagYqxSQN5E6UN"
+        }
+      ],
+      "duration_ms": 170000,
+      "name": "Dansen in de regen",
+      "url": "https://open.spotify.com/track/5zh0gHpGzmzZEtsQRL4xPG"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "47 - Spot aan",
+        "url": "https://open.spotify.com/album/4TuM9TSDGhc1XgAZZynKl5"
+      },
+      "artists": [
+        {
+          "name": "Kinderen voor Kinderen",
+          "url": "https://open.spotify.com/artist/7evlWm7RyagYqxSQN5E6UN"
+        }
+      ],
+      "duration_ms": 154153,
+      "name": "Als een vis in het water",
+      "url": "https://open.spotify.com/track/204zXIufBkNrzoGyJkTcIL"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "37 - Voor altijd jong!",
         "url": "https://open.spotify.com/album/3hE8s3hbQbD6eY9LQQyBMK"
       },
@@ -299,8 +267,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "47 - Spot aan",
-        "url": "https://open.spotify.com/album/4TuM9TSDGhc1XgAZZynKl5"
+        "name": "46 - Vol avontuur",
+        "url": "https://open.spotify.com/album/1YGnCuWsBhzrFBBWwEeBku"
       },
       "artists": [
         {
@@ -308,9 +276,9 @@
           "url": "https://open.spotify.com/artist/7evlWm7RyagYqxSQN5E6UN"
         }
       ],
-      "duration_ms": 169890,
-      "name": "Feestje",
-      "url": "https://open.spotify.com/track/6vrF8kV5GU3X6Rr5Y4HoTb"
+      "duration_ms": 148275,
+      "name": "5 dagen weekend",
+      "url": "https://open.spotify.com/track/6NDzmMrUG5gUBAnmP1R0KU"
     },
     {
       "added_at": null,
@@ -331,8 +299,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "46 - Vol avontuur",
-        "url": "https://open.spotify.com/album/1YGnCuWsBhzrFBBWwEeBku"
+        "name": "47 - Spot aan",
+        "url": "https://open.spotify.com/album/4TuM9TSDGhc1XgAZZynKl5"
       },
       "artists": [
         {
@@ -340,9 +308,9 @@
           "url": "https://open.spotify.com/artist/7evlWm7RyagYqxSQN5E6UN"
         }
       ],
-      "duration_ms": 173848,
-      "name": "Wat is er met me aan de hand",
-      "url": "https://open.spotify.com/track/7Fnt6DZNnB5LNzTg04g4H1"
+      "duration_ms": 188675,
+      "name": "Groep 8",
+      "url": "https://open.spotify.com/track/7N1VdrXDdc15XKzSkOd98v"
     },
     {
       "added_at": null,
@@ -363,8 +331,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "47 - Spot aan",
-        "url": "https://open.spotify.com/album/4TuM9TSDGhc1XgAZZynKl5"
+        "name": "46 - Vol avontuur",
+        "url": "https://open.spotify.com/album/1YGnCuWsBhzrFBBWwEeBku"
       },
       "artists": [
         {
@@ -372,9 +340,9 @@
           "url": "https://open.spotify.com/artist/7evlWm7RyagYqxSQN5E6UN"
         }
       ],
-      "duration_ms": 144699,
-      "name": "Kriebels",
-      "url": "https://open.spotify.com/track/0iXbjpThtIlWlTSiUUUTRt"
+      "duration_ms": 173848,
+      "name": "Wat is er met me aan de hand",
+      "url": "https://open.spotify.com/track/7Fnt6DZNnB5LNzTg04g4H1"
     },
     {
       "added_at": null,
@@ -395,8 +363,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "46 - Vol avontuur",
-        "url": "https://open.spotify.com/album/1YGnCuWsBhzrFBBWwEeBku"
+        "name": "47 - Spot aan",
+        "url": "https://open.spotify.com/album/4TuM9TSDGhc1XgAZZynKl5"
       },
       "artists": [
         {
@@ -404,9 +372,9 @@
           "url": "https://open.spotify.com/artist/7evlWm7RyagYqxSQN5E6UN"
         }
       ],
-      "duration_ms": 171531,
-      "name": "Giechel",
-      "url": "https://open.spotify.com/track/0I6ILRoXNFyGIbHAO3mmT5"
+      "duration_ms": 169890,
+      "name": "Feestje",
+      "url": "https://open.spotify.com/track/6vrF8kV5GU3X6Rr5Y4HoTb"
     },
     {
       "added_at": null,
@@ -431,6 +399,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "46 - Vol avontuur",
+        "url": "https://open.spotify.com/album/1YGnCuWsBhzrFBBWwEeBku"
+      },
+      "artists": [
+        {
+          "name": "Kinderen voor Kinderen",
+          "url": "https://open.spotify.com/artist/7evlWm7RyagYqxSQN5E6UN"
+        }
+      ],
+      "duration_ms": 171531,
+      "name": "Giechel",
+      "url": "https://open.spotify.com/track/0I6ILRoXNFyGIbHAO3mmT5"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "ZiggZagg",
         "url": "https://open.spotify.com/album/0ubDajCOt6N3FRP2ZXyWeG"
       },
@@ -443,6 +427,22 @@
       "duration_ms": 184227,
       "name": "ZiggZagg",
       "url": "https://open.spotify.com/track/0wdw86kxFxu0IGz2JxnbfN"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "47 - Spot aan",
+        "url": "https://open.spotify.com/album/4TuM9TSDGhc1XgAZZynKl5"
+      },
+      "artists": [
+        {
+          "name": "Kinderen voor Kinderen",
+          "url": "https://open.spotify.com/artist/7evlWm7RyagYqxSQN5E6UN"
+        }
+      ],
+      "duration_ms": 144699,
+      "name": "Kriebels",
+      "url": "https://open.spotify.com/track/0iXbjpThtIlWlTSiUUUTRt"
     },
     {
       "added_at": null,
@@ -475,26 +475,6 @@
       "duration_ms": 161172,
       "name": "Geen cadeau",
       "url": "https://open.spotify.com/track/6DRniD5AnMwyKNBdjckOEc"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "47 - Spot aan",
-        "url": "https://open.spotify.com/album/4TuM9TSDGhc1XgAZZynKl5"
-      },
-      "artists": [
-        {
-          "name": "NXT",
-          "url": "https://open.spotify.com/artist/34sWc9MlQzSCbETxXPzYch"
-        },
-        {
-          "name": "Kinderen voor Kinderen",
-          "url": "https://open.spotify.com/artist/7evlWm7RyagYqxSQN5E6UN"
-        }
-      ],
-      "duration_ms": 146107,
-      "name": "Ik voel het",
-      "url": "https://open.spotify.com/track/2C6SmlgpOEgGolSw0ue4HE"
     },
     {
       "added_at": null,
@@ -643,22 +623,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Hallo wereld",
-        "url": "https://open.spotify.com/album/7fhvfh8IuUYXK3SpmNZBZX"
-      },
-      "artists": [
-        {
-          "name": "Kinderen voor Kinderen",
-          "url": "https://open.spotify.com/artist/7evlWm7RyagYqxSQN5E6UN"
-        }
-      ],
-      "duration_ms": 158298,
-      "name": "Hallo Wereld",
-      "url": "https://open.spotify.com/track/4nps5DJ3jFBnmmHHsh6tuo"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Doe mee! warming-up",
         "url": "https://open.spotify.com/album/6E4xBt8xyVqunxfh69mtxP"
       },
@@ -671,6 +635,22 @@
       "duration_ms": 287762,
       "name": "Doe mee! warming-up",
       "url": "https://open.spotify.com/track/6PxuoFoxBSOwX9k00JzD6u"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Hallo wereld",
+        "url": "https://open.spotify.com/album/7fhvfh8IuUYXK3SpmNZBZX"
+      },
+      "artists": [
+        {
+          "name": "Kinderen voor Kinderen",
+          "url": "https://open.spotify.com/artist/7evlWm7RyagYqxSQN5E6UN"
+        }
+      ],
+      "duration_ms": 158298,
+      "name": "Hallo Wereld",
+      "url": "https://open.spotify.com/track/4nps5DJ3jFBnmmHHsh6tuo"
     },
     {
       "added_at": null,
@@ -755,6 +735,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "12 - Kinderen voor Kinderen",
+        "url": "https://open.spotify.com/album/7MnvsU1FVKBuPUqUDrjQg7"
+      },
+      "artists": [
+        {
+          "name": "Kinderen voor Kinderen",
+          "url": "https://open.spotify.com/artist/7evlWm7RyagYqxSQN5E6UN"
+        }
+      ],
+      "duration_ms": 220640,
+      "name": "Wakker Met Een Wijsje",
+      "url": "https://open.spotify.com/track/5hxHyGZETHRbqwEvoR7YJc"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "44 - Bij mij thuis",
         "url": "https://open.spotify.com/album/4NhFo1kpTnSg3KMi8B2hFV"
       },
@@ -771,8 +767,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "12 - Kinderen voor Kinderen",
-        "url": "https://open.spotify.com/album/7MnvsU1FVKBuPUqUDrjQg7"
+        "name": "35 - Feest",
+        "url": "https://open.spotify.com/album/2ExoPXT3RxT3id3vzuTo73"
       },
       "artists": [
         {
@@ -780,9 +776,9 @@
           "url": "https://open.spotify.com/artist/7evlWm7RyagYqxSQN5E6UN"
         }
       ],
-      "duration_ms": 220640,
-      "name": "Wakker Met Een Wijsje",
-      "url": "https://open.spotify.com/track/5hxHyGZETHRbqwEvoR7YJc"
+      "duration_ms": 186840,
+      "name": "Feest!",
+      "url": "https://open.spotify.com/track/4o3KLPRhyra7f9bqnitBvJ"
     },
     {
       "added_at": null,
@@ -803,8 +799,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "35 - Feest",
-        "url": "https://open.spotify.com/album/2ExoPXT3RxT3id3vzuTo73"
+        "name": "1 - Kinderen voor Kinderen",
+        "url": "https://open.spotify.com/album/1xLhUCW6dYpKezCIt1FR5L"
       },
       "artists": [
         {
@@ -812,9 +808,9 @@
           "url": "https://open.spotify.com/artist/7evlWm7RyagYqxSQN5E6UN"
         }
       ],
-      "duration_ms": 186840,
-      "name": "Feest!",
-      "url": "https://open.spotify.com/track/4o3KLPRhyra7f9bqnitBvJ"
+      "duration_ms": 149133,
+      "name": "Ik Heb Zo Waanzinnig Gedroomd",
+      "url": "https://open.spotify.com/track/4A7tc8ZBC1fsJaNErPnWCo"
     }
   ],
   "unique_name": "This Is Kinderen voor Kinderen",

@@ -2,7 +2,7 @@
 
 ### [GLOW](https://open.spotify.com/playlist/37i9dQZF1DX3LyU0mhfqgP)
 
-> Celebrate and honor Pride with songs from LGBTQIA+ artists\. Cover: Kings Elliot
+> Celebrate and honor Pride with songs from LGBTQIA+ artists\. Cover: underscores
 
 1,949 songs - 4 day 9 hr 36 min
 

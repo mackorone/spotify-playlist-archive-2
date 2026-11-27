@@ -2,7 +2,7 @@
 
 ### [R&Beats](https://open.spotify.com/playlist/37i9dQZF1DX8DvacitluwF)
 
-> The best in South African and international R&B\. Cover: Lloyiso
+> The best in South African and international R&B\. Cover: siinaye
 
 708 songs - 1 day 14 hr 15 min
 

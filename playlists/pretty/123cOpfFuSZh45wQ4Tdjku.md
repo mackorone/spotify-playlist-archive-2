@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/123cOpfFuSZh45wQ4Tdjku.md) - [plain]
 
 > mostly furry
 
-[Arcana](https://open.spotify.com/user/31pthgv6rb2dvvjpngxwmd2ztjx4) - 1,336 likes - 600 songs - 1 day 6 hr 21 min
+[Arcana](https://open.spotify.com/user/31pthgv6rb2dvvjpngxwmd2ztjx4) - 1,338 likes - 600 songs - 1 day 6 hr 21 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

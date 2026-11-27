@@ -1,12 +1,12 @@
 {
   "description": "This is Ella Mai. The essential tracks, all in one playlist.",
-  "num_followers": 161525,
+  "num_followers": 161535,
   "original_name": "This Is Ella Mai",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "awOCAAAAAAAel3UVi6uWNAg2cBj/4FQc",
+  "snapshot_id": "awYlAAAAAACnHEdttPR/yv9FpmM+dsEW",
   "tracks": [
     {
       "added_at": null,
@@ -439,22 +439,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Heart On My Sleeve (Deluxe Edition)",
-        "url": "https://open.spotify.com/album/4a1RnC5ioi77nDnOJXvTKs"
-      },
-      "artists": [
-        {
-          "name": "Ella Mai",
-          "url": "https://open.spotify.com/artist/7HkdQ0gt53LP4zmHsL0nap"
-        }
-      ],
-      "duration_ms": 199833,
-      "name": "Our Song",
-      "url": "https://open.spotify.com/track/0yRitNCPCHtBwOuHh88rzf"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "READY",
         "url": "https://open.spotify.com/album/3o09FMrUQ5TVBUYb6msCMi"
       },
@@ -467,6 +451,22 @@
       "duration_ms": 191981,
       "name": "My Way",
       "url": "https://open.spotify.com/track/3x4Zx0rPoW6kErSDK8SSnW"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Heart On My Sleeve (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/4a1RnC5ioi77nDnOJXvTKs"
+      },
+      "artists": [
+        {
+          "name": "Ella Mai",
+          "url": "https://open.spotify.com/artist/7HkdQ0gt53LP4zmHsL0nap"
+        }
+      ],
+      "duration_ms": 199833,
+      "name": "Our Song",
+      "url": "https://open.spotify.com/track/0yRitNCPCHtBwOuHh88rzf"
     },
     {
       "added_at": null,
@@ -600,9 +600,9 @@
           "url": "https://open.spotify.com/artist/7HkdQ0gt53LP4zmHsL0nap"
         }
       ],
-      "duration_ms": 186120,
-      "name": "Found",
-      "url": "https://open.spotify.com/track/3GmdPNBnVUtiTnU3i1idfq"
+      "duration_ms": 253520,
+      "name": "Down",
+      "url": "https://open.spotify.com/track/1tQsStMyJ0tciJ5Z4MUg66"
     },
     {
       "added_at": null,
@@ -664,9 +664,9 @@
           "url": "https://open.spotify.com/artist/7HkdQ0gt53LP4zmHsL0nap"
         }
       ],
-      "duration_ms": 253520,
-      "name": "Down",
-      "url": "https://open.spotify.com/track/1tQsStMyJ0tciJ5Z4MUg66"
+      "duration_ms": 186120,
+      "name": "Found",
+      "url": "https://open.spotify.com/track/3GmdPNBnVUtiTnU3i1idfq"
     },
     {
       "added_at": null,

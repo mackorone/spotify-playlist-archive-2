@@ -1,6 +1,6 @@
 {
   "description": "All the greatest Thrash tunes - from classics to the best new tracks. Cover: Anthrax",
-  "num_followers": 586856,
+  "num_followers": 586864,
   "original_name": "Thrashers",
   "owner": {
     "name": "Spotify",
@@ -1187,22 +1187,6 @@
     {
       "added_at": "2026-11-23 16:39:15",
       "album": {
-        "name": "Cult Of The Used",
-        "url": "https://open.spotify.com/album/4hM9lNLvA5cp85q05k05NS"
-      },
-      "artists": [
-        {
-          "name": "Death Angel",
-          "url": "https://open.spotify.com/artist/6KVc8Llznru8n9LVCYe9dz"
-        }
-      ],
-      "duration_ms": 249072,
-      "name": "Cult Of The Used",
-      "url": "https://open.spotify.com/track/2b87v1enS93mz5CiKAAk0N"
-    },
-    {
-      "added_at": "2026-11-23 16:39:15",
-      "album": {
         "name": "Heavy Metal Maniac",
         "url": "https://open.spotify.com/album/4jV5DFEggX8yPy0CPQ42il"
       },
@@ -1215,6 +1199,22 @@
       "duration_ms": 227453,
       "name": "Heavy Metal Maniac",
       "url": "https://open.spotify.com/track/2HcMXZJ8TR0CFiePEqhHLW"
+    },
+    {
+      "added_at": "2026-11-23 16:39:15",
+      "album": {
+        "name": "Cult Of The Used",
+        "url": "https://open.spotify.com/album/4hM9lNLvA5cp85q05k05NS"
+      },
+      "artists": [
+        {
+          "name": "Death Angel",
+          "url": "https://open.spotify.com/artist/6KVc8Llznru8n9LVCYe9dz"
+        }
+      ],
+      "duration_ms": 249072,
+      "name": "Cult Of The Used",
+      "url": "https://open.spotify.com/track/2b87v1enS93mz5CiKAAk0N"
     },
     {
       "added_at": "2026-11-23 16:39:15",
@@ -1379,22 +1379,6 @@
     {
       "added_at": "2026-11-23 16:39:15",
       "album": {
-        "name": "Annihilation Principle",
-        "url": "https://open.spotify.com/album/6vQJnE6wsh4fc4wvy2fr9O"
-      },
-      "artists": [
-        {
-          "name": "Laaz Rockit",
-          "url": "https://open.spotify.com/artist/72M83rfnDyqavWqiFGuYUR"
-        }
-      ],
-      "duration_ms": 230720,
-      "name": "Fire in the Hole",
-      "url": "https://open.spotify.com/track/5Sr2sWiF4R8WsL9EiGxW4f"
-    },
-    {
-      "added_at": "2026-11-23 16:39:15",
-      "album": {
         "name": "Cabaret De La Guillotine",
         "url": "https://open.spotify.com/album/76dTSQmBFHcITyGb89GcfC"
       },
@@ -1407,6 +1391,22 @@
       "duration_ms": 361013,
       "name": "Sharpen the Guillotine",
       "url": "https://open.spotify.com/track/3qy8XCdTUJI7UGynBI7Hkn"
+    },
+    {
+      "added_at": "2026-11-23 16:39:15",
+      "album": {
+        "name": "Annihilation Principle",
+        "url": "https://open.spotify.com/album/6vQJnE6wsh4fc4wvy2fr9O"
+      },
+      "artists": [
+        {
+          "name": "Laaz Rockit",
+          "url": "https://open.spotify.com/artist/72M83rfnDyqavWqiFGuYUR"
+        }
+      ],
+      "duration_ms": 230720,
+      "name": "Fire in the Hole",
+      "url": "https://open.spotify.com/track/5Sr2sWiF4R8WsL9EiGxW4f"
     },
     {
       "added_at": "2026-11-23 16:39:15",
@@ -1603,22 +1603,6 @@
     {
       "added_at": "2026-11-23 16:39:15",
       "album": {
-        "name": "Cycle Of Ruin",
-        "url": "https://open.spotify.com/album/4gMoWQObJwQvCZjz1DmgpA"
-      },
-      "artists": [
-        {
-          "name": "Angelus Apatrida",
-          "url": "https://open.spotify.com/artist/3bnPBquC93vbHmamojAf59"
-        }
-      ],
-      "duration_ms": 208773,
-      "name": "Cycle Of Ruin",
-      "url": "https://open.spotify.com/track/1klsl8IjWnb53IhYgdYKeG"
-    },
-    {
-      "added_at": "2026-11-23 16:39:15",
-      "album": {
         "name": "Idle Hands",
         "url": "https://open.spotify.com/album/4cGGbyTuQsDv2CnGyqGKHU"
       },
@@ -1631,6 +1615,22 @@
       "duration_ms": 224411,
       "name": "Idle Hands",
       "url": "https://open.spotify.com/track/3R0OvTDCFbarllFOnzKRWg"
+    },
+    {
+      "added_at": "2026-11-23 16:39:15",
+      "album": {
+        "name": "Cycle Of Ruin",
+        "url": "https://open.spotify.com/album/4gMoWQObJwQvCZjz1DmgpA"
+      },
+      "artists": [
+        {
+          "name": "Angelus Apatrida",
+          "url": "https://open.spotify.com/artist/3bnPBquC93vbHmamojAf59"
+        }
+      ],
+      "duration_ms": 208773,
+      "name": "Cycle Of Ruin",
+      "url": "https://open.spotify.com/track/1klsl8IjWnb53IhYgdYKeG"
     },
     {
       "added_at": "2026-11-23 16:39:15",
@@ -1875,22 +1875,6 @@
     {
       "added_at": "2026-11-23 16:39:15",
       "album": {
-        "name": "Slave Machine",
-        "url": "https://open.spotify.com/album/4dCDFxVCXddE7CCAO7RAEv"
-      },
-      "artists": [
-        {
-          "name": "Nervosa",
-          "url": "https://open.spotify.com/artist/5D9d9xyLNQu32QVD9t4YqH"
-        }
-      ],
-      "duration_ms": 233886,
-      "name": "Slave Machine",
-      "url": "https://open.spotify.com/track/5cyRVCVkVl4hU3HHF2yCVU"
-    },
-    {
-      "added_at": "2026-11-23 16:39:15",
-      "album": {
         "name": "Crisix Session # 1: American Thrash",
         "url": "https://open.spotify.com/album/6kUbRggyg1IbfV8bL6Beaf"
       },
@@ -1903,6 +1887,22 @@
       "duration_ms": 256880,
       "name": "World in a World",
       "url": "https://open.spotify.com/track/5nJixh1Yoax0OX03cIfUDQ"
+    },
+    {
+      "added_at": "2026-11-23 16:39:15",
+      "album": {
+        "name": "Slave Machine",
+        "url": "https://open.spotify.com/album/4dCDFxVCXddE7CCAO7RAEv"
+      },
+      "artists": [
+        {
+          "name": "Nervosa",
+          "url": "https://open.spotify.com/artist/5D9d9xyLNQu32QVD9t4YqH"
+        }
+      ],
+      "duration_ms": 233886,
+      "name": "Slave Machine",
+      "url": "https://open.spotify.com/track/5cyRVCVkVl4hU3HHF2yCVU"
     },
     {
       "added_at": "2026-11-23 16:39:15",
@@ -1923,22 +1923,6 @@
     {
       "added_at": "2026-11-23 16:39:15",
       "album": {
-        "name": "Resurrection Day",
-        "url": "https://open.spotify.com/album/4c91poPTEELsFj0yUPhoWl"
-      },
-      "artists": [
-        {
-          "name": "Rage",
-          "url": "https://open.spotify.com/artist/5TJVsWPUaJxBxWfVZQEt2x"
-        }
-      ],
-      "duration_ms": 230093,
-      "name": "A New Land",
-      "url": "https://open.spotify.com/track/4K21taEZsYaCLsWosMcqeq"
-    },
-    {
-      "added_at": "2026-11-23 16:39:15",
-      "album": {
         "name": "Banner of Supremacy",
         "url": "https://open.spotify.com/album/6LCmFoATePvuSjLi4q0xw3"
       },
@@ -1951,6 +1935,22 @@
       "duration_ms": 236410,
       "name": "Banner of Supremacy",
       "url": "https://open.spotify.com/track/4uJ4ZdRzrVuRbf8rhWmzIN"
+    },
+    {
+      "added_at": "2026-11-23 16:39:15",
+      "album": {
+        "name": "Resurrection Day",
+        "url": "https://open.spotify.com/album/4c91poPTEELsFj0yUPhoWl"
+      },
+      "artists": [
+        {
+          "name": "Rage",
+          "url": "https://open.spotify.com/artist/5TJVsWPUaJxBxWfVZQEt2x"
+        }
+      ],
+      "duration_ms": 230093,
+      "name": "A New Land",
+      "url": "https://open.spotify.com/track/4K21taEZsYaCLsWosMcqeq"
     },
     {
       "added_at": "2026-11-23 16:39:15",
@@ -2007,22 +2007,6 @@
     {
       "added_at": "2026-11-23 16:39:15",
       "album": {
-        "name": "In Fire Reborn",
-        "url": "https://open.spotify.com/album/6cxqI93wQAxeSSq5ZDD5IH"
-      },
-      "artists": [
-        {
-          "name": "The Haunted",
-          "url": "https://open.spotify.com/artist/2WLmgv66Uq4vt2i36vwkAq"
-        }
-      ],
-      "duration_ms": 198333,
-      "name": "In Fire Reborn",
-      "url": "https://open.spotify.com/track/2fTWxiSnKXddSvbdxDu0Ss"
-    },
-    {
-      "added_at": "2026-11-23 16:39:15",
-      "album": {
         "name": "Unhealthy Mechanisms",
         "url": "https://open.spotify.com/album/12TN9balowogEa9934vX3O"
       },
@@ -2035,6 +2019,22 @@
       "duration_ms": 232406,
       "name": "Drug-O-Cop",
       "url": "https://open.spotify.com/track/18GlFhUte9Rdqax6WtlIx2"
+    },
+    {
+      "added_at": "2026-11-23 16:39:15",
+      "album": {
+        "name": "In Fire Reborn",
+        "url": "https://open.spotify.com/album/6cxqI93wQAxeSSq5ZDD5IH"
+      },
+      "artists": [
+        {
+          "name": "The Haunted",
+          "url": "https://open.spotify.com/artist/2WLmgv66Uq4vt2i36vwkAq"
+        }
+      ],
+      "duration_ms": 198333,
+      "name": "In Fire Reborn",
+      "url": "https://open.spotify.com/track/2fTWxiSnKXddSvbdxDu0Ss"
     },
     {
       "added_at": "2026-11-23 16:39:15",
@@ -2271,22 +2271,6 @@
     {
       "added_at": "2026-11-23 16:39:15",
       "album": {
-        "name": "Blood in the Water",
-        "url": "https://open.spotify.com/album/6pNMEpHq9E6z40Miw7l9Ax"
-      },
-      "artists": [
-        {
-          "name": "Flotsam & Jetsam",
-          "url": "https://open.spotify.com/artist/1ApBh0VSoxRjjT3kFQZrpz"
-        }
-      ],
-      "duration_ms": 250986,
-      "name": "Reaggression",
-      "url": "https://open.spotify.com/track/0Q81O7nuF9F1WxAyQ8UtEJ"
-    },
-    {
-      "added_at": "2026-11-23 16:39:15",
-      "album": {
         "name": "Curtain Fire",
         "url": "https://open.spotify.com/album/3huHjUWVjDpZykc9hTbqDP"
       },
@@ -2299,6 +2283,22 @@
       "duration_ms": 274816,
       "name": "Curtain Fire",
       "url": "https://open.spotify.com/track/0bNcU1wxJsgSUnMbmLkzkE"
+    },
+    {
+      "added_at": "2026-11-23 16:39:15",
+      "album": {
+        "name": "Blood in the Water",
+        "url": "https://open.spotify.com/album/6pNMEpHq9E6z40Miw7l9Ax"
+      },
+      "artists": [
+        {
+          "name": "Flotsam & Jetsam",
+          "url": "https://open.spotify.com/artist/1ApBh0VSoxRjjT3kFQZrpz"
+        }
+      ],
+      "duration_ms": 250986,
+      "name": "Reaggression",
+      "url": "https://open.spotify.com/track/0Q81O7nuF9F1WxAyQ8UtEJ"
     },
     {
       "added_at": "2026-11-23 16:39:15",
@@ -2399,22 +2399,6 @@
     {
       "added_at": "2026-11-23 16:39:15",
       "album": {
-        "name": "Sever The Tongue",
-        "url": "https://open.spotify.com/album/3Hm85xoM0c1XorBsEqOenD"
-      },
-      "artists": [
-        {
-          "name": "Deicide",
-          "url": "https://open.spotify.com/artist/2K3GorTixXKAiwe2t9lO89"
-        }
-      ],
-      "duration_ms": 204622,
-      "name": "Sever The Tongue",
-      "url": "https://open.spotify.com/track/0kWPYyduQ5Vo5jLdf20AGG"
-    },
-    {
-      "added_at": "2026-11-23 16:39:15",
-      "album": {
         "name": "Fear Campaign",
         "url": "https://open.spotify.com/album/7cxb2UhwQ7Kk4ikq6bsgDS"
       },
@@ -2427,6 +2411,22 @@
       "duration_ms": 237424,
       "name": "Fear Campaign",
       "url": "https://open.spotify.com/track/0WSImTNa6ISr9GrONB9t5D"
+    },
+    {
+      "added_at": "2026-11-23 16:39:15",
+      "album": {
+        "name": "Sever The Tongue",
+        "url": "https://open.spotify.com/album/3Hm85xoM0c1XorBsEqOenD"
+      },
+      "artists": [
+        {
+          "name": "Deicide",
+          "url": "https://open.spotify.com/artist/2K3GorTixXKAiwe2t9lO89"
+        }
+      ],
+      "duration_ms": 204622,
+      "name": "Sever The Tongue",
+      "url": "https://open.spotify.com/track/0kWPYyduQ5Vo5jLdf20AGG"
     },
     {
       "added_at": "2026-11-23 16:39:15",
@@ -2447,22 +2447,6 @@
     {
       "added_at": "2026-11-23 16:39:15",
       "album": {
-        "name": "Reapers Fool",
-        "url": "https://open.spotify.com/album/5ssrLiNJPe8YmtB7fQ5fQa"
-      },
-      "artists": [
-        {
-          "name": "Lowest Creature",
-          "url": "https://open.spotify.com/artist/5c9Gljxjd5hYeaq5W0Aq1e"
-        }
-      ],
-      "duration_ms": 202019,
-      "name": "Reapers Fool",
-      "url": "https://open.spotify.com/track/6Oe10mOeOteWjSTzs1uRsh"
-    },
-    {
-      "added_at": "2026-11-23 16:39:15",
-      "album": {
         "name": "The Ending",
         "url": "https://open.spotify.com/album/1hBimLkEmBtVyn1s4xQZgu"
       },
@@ -2475,6 +2459,22 @@
       "duration_ms": 213618,
       "name": "The Ending",
       "url": "https://open.spotify.com/track/5wg8llj8KWPje67TGtXYK2"
+    },
+    {
+      "added_at": "2026-11-23 16:39:15",
+      "album": {
+        "name": "Reapers Fool",
+        "url": "https://open.spotify.com/album/5ssrLiNJPe8YmtB7fQ5fQa"
+      },
+      "artists": [
+        {
+          "name": "Lowest Creature",
+          "url": "https://open.spotify.com/artist/5c9Gljxjd5hYeaq5W0Aq1e"
+        }
+      ],
+      "duration_ms": 202019,
+      "name": "Reapers Fool",
+      "url": "https://open.spotify.com/track/6Oe10mOeOteWjSTzs1uRsh"
     },
     {
       "added_at": "2026-11-23 16:39:15",
@@ -2575,22 +2575,6 @@
     {
       "added_at": "2026-11-23 16:39:15",
       "album": {
-        "name": "Let the World Burn",
-        "url": "https://open.spotify.com/album/1kQuMFWJMNmcyH3OpZR3Qn"
-      },
-      "artists": [
-        {
-          "name": "Vio-Lence",
-          "url": "https://open.spotify.com/artist/0cBWwOJCsZ9RQW9kBBw5df"
-        }
-      ],
-      "duration_ms": 327953,
-      "name": "Upon Their Cross",
-      "url": "https://open.spotify.com/track/4PSmqz3YU0K3aT9q2mWG1r"
-    },
-    {
-      "added_at": "2026-11-23 16:39:15",
-      "album": {
         "name": "Bow Down To the Clowns",
         "url": "https://open.spotify.com/album/3CeajsMj209XmQSWgdzPJ1"
       },
@@ -2603,6 +2587,22 @@
       "duration_ms": 290600,
       "name": "Bow Down To the Clowns",
       "url": "https://open.spotify.com/track/5kpeEEIRD13CzU8ZSTdJPy"
+    },
+    {
+      "added_at": "2026-11-23 16:39:15",
+      "album": {
+        "name": "Let the World Burn",
+        "url": "https://open.spotify.com/album/1kQuMFWJMNmcyH3OpZR3Qn"
+      },
+      "artists": [
+        {
+          "name": "Vio-Lence",
+          "url": "https://open.spotify.com/artist/0cBWwOJCsZ9RQW9kBBw5df"
+        }
+      ],
+      "duration_ms": 327953,
+      "name": "Upon Their Cross",
+      "url": "https://open.spotify.com/track/4PSmqz3YU0K3aT9q2mWG1r"
     },
     {
       "added_at": "2026-11-23 16:39:15",
@@ -2623,6 +2623,22 @@
     {
       "added_at": "2026-11-23 16:39:15",
       "album": {
+        "name": "The Affair of the Poisons",
+        "url": "https://open.spotify.com/album/72u2NjAYxQZMP9Infns04n"
+      },
+      "artists": [
+        {
+          "name": "Hellripper",
+          "url": "https://open.spotify.com/artist/6FfZaHz07OsknWNdtdan5R"
+        }
+      ],
+      "duration_ms": 295507,
+      "name": "The Affair of the Poisons",
+      "url": "https://open.spotify.com/track/2az8J0QlRLJXCTrXedgsCi"
+    },
+    {
+      "added_at": "2026-11-23 16:39:15",
+      "album": {
         "name": "Phantom Force",
         "url": "https://open.spotify.com/album/2CqYBNqVw8stCxhxRaohUH"
       },
@@ -2639,18 +2655,18 @@
     {
       "added_at": "2026-11-23 16:39:15",
       "album": {
-        "name": "The Affair of the Poisons",
-        "url": "https://open.spotify.com/album/72u2NjAYxQZMP9Infns04n"
+        "name": "Brace for Impact",
+        "url": "https://open.spotify.com/album/60F8SQR15qRIpJV24q0gX1"
       },
       "artists": [
         {
-          "name": "Hellripper",
-          "url": "https://open.spotify.com/artist/6FfZaHz07OsknWNdtdan5R"
+          "name": "Flotsam & Jetsam",
+          "url": "https://open.spotify.com/artist/1ApBh0VSoxRjjT3kFQZrpz"
         }
       ],
-      "duration_ms": 295507,
-      "name": "The Affair of the Poisons",
-      "url": "https://open.spotify.com/track/2az8J0QlRLJXCTrXedgsCi"
+      "duration_ms": 273746,
+      "name": "Brace for Impact",
+      "url": "https://open.spotify.com/track/6nqhwI9sRHsGAtMYUkGo0j"
     },
     {
       "added_at": "2026-11-23 16:39:15",
@@ -2703,22 +2719,6 @@
       "duration_ms": 300120,
       "name": "Egyptron",
       "url": "https://open.spotify.com/track/46pYNjo4mtvlVg9E8WMZTj"
-    },
-    {
-      "added_at": "2026-11-23 16:39:15",
-      "album": {
-        "name": "Brace for Impact",
-        "url": "https://open.spotify.com/album/60F8SQR15qRIpJV24q0gX1"
-      },
-      "artists": [
-        {
-          "name": "Flotsam & Jetsam",
-          "url": "https://open.spotify.com/artist/1ApBh0VSoxRjjT3kFQZrpz"
-        }
-      ],
-      "duration_ms": 273746,
-      "name": "Brace for Impact",
-      "url": "https://open.spotify.com/track/6nqhwI9sRHsGAtMYUkGo0j"
     },
     {
       "added_at": "2026-11-23 16:39:15",
@@ -2787,22 +2787,6 @@
     {
       "added_at": "2026-11-23 16:39:15",
       "album": {
-        "name": "Recycled Hate",
-        "url": "https://open.spotify.com/album/4i8j5yuwU0ytacVJnUujp7"
-      },
-      "artists": [
-        {
-          "name": "Inhuman Condition",
-          "url": "https://open.spotify.com/artist/3unugXDIgyLGDkorSoRTfm"
-        }
-      ],
-      "duration_ms": 205541,
-      "name": "Recycled Hate",
-      "url": "https://open.spotify.com/track/35a7t2h5N2ewK9r18l8S0k"
-    },
-    {
-      "added_at": "2026-11-23 16:39:15",
-      "album": {
         "name": "Killer Of Killers",
         "url": "https://open.spotify.com/album/1CZuXJsnDzVn7zLtdLwOBk"
       },
@@ -2819,18 +2803,18 @@
     {
       "added_at": "2026-11-23 16:39:15",
       "album": {
-        "name": "Genesis XIX",
-        "url": "https://open.spotify.com/album/0mdgJNwMZZhkcMI0CcKzZJ"
+        "name": "Recycled Hate",
+        "url": "https://open.spotify.com/album/4i8j5yuwU0ytacVJnUujp7"
       },
       "artists": [
         {
-          "name": "Sodom",
-          "url": "https://open.spotify.com/artist/6SYbLA9utoNsllunR1TnkM"
+          "name": "Inhuman Condition",
+          "url": "https://open.spotify.com/artist/3unugXDIgyLGDkorSoRTfm"
         }
       ],
-      "duration_ms": 302266,
-      "name": "Glock 'n' Roll",
-      "url": "https://open.spotify.com/track/4Uc5URdSRMGfPLBRWg5lY0"
+      "duration_ms": 205541,
+      "name": "Recycled Hate",
+      "url": "https://open.spotify.com/track/35a7t2h5N2ewK9r18l8S0k"
     },
     {
       "added_at": "2026-11-23 16:39:15",
@@ -2847,6 +2831,22 @@
       "duration_ms": 238106,
       "name": "Reap What You Sow",
       "url": "https://open.spotify.com/track/0PbOpIcpyKYKfL3Iuz4g9S"
+    },
+    {
+      "added_at": "2026-11-23 16:39:15",
+      "album": {
+        "name": "Genesis XIX",
+        "url": "https://open.spotify.com/album/0mdgJNwMZZhkcMI0CcKzZJ"
+      },
+      "artists": [
+        {
+          "name": "Sodom",
+          "url": "https://open.spotify.com/artist/6SYbLA9utoNsllunR1TnkM"
+        }
+      ],
+      "duration_ms": 302266,
+      "name": "Glock 'n' Roll",
+      "url": "https://open.spotify.com/track/4Uc5URdSRMGfPLBRWg5lY0"
     },
     {
       "added_at": "2026-11-23 16:39:15",
@@ -2983,22 +2983,6 @@
     {
       "added_at": "2026-11-23 16:39:15",
       "album": {
-        "name": "Dead to Rights",
-        "url": "https://open.spotify.com/album/1wQcciyeBsnMIWydfGHFBa"
-      },
-      "artists": [
-        {
-          "name": "Metal Church",
-          "url": "https://open.spotify.com/artist/0exvkfkATkqWOJgugTjJhP"
-        }
-      ],
-      "duration_ms": 272826,
-      "name": "My Wrath",
-      "url": "https://open.spotify.com/track/7Lhd7IOt5QvFgVMZQYUJSJ"
-    },
-    {
-      "added_at": "2026-11-23 16:39:15",
-      "album": {
         "name": "Deep Cuts & Shallow Graves",
         "url": "https://open.spotify.com/album/3US4p7WnEXUyu6Yk2rJHmS"
       },
@@ -3011,6 +2995,22 @@
       "duration_ms": 230066,
       "name": "Our Lady of Speed",
       "url": "https://open.spotify.com/track/6IyY9BnIAP6Dkh52TxuQ6Z"
+    },
+    {
+      "added_at": "2026-11-23 16:39:15",
+      "album": {
+        "name": "Dead to Rights",
+        "url": "https://open.spotify.com/album/1wQcciyeBsnMIWydfGHFBa"
+      },
+      "artists": [
+        {
+          "name": "Metal Church",
+          "url": "https://open.spotify.com/artist/0exvkfkATkqWOJgugTjJhP"
+        }
+      ],
+      "duration_ms": 272826,
+      "name": "My Wrath",
+      "url": "https://open.spotify.com/track/7Lhd7IOt5QvFgVMZQYUJSJ"
     },
     {
       "added_at": "2026-11-23 16:39:15",
@@ -3035,22 +3035,6 @@
       "duration_ms": 296157,
       "name": "Fuel the Fire",
       "url": "https://open.spotify.com/track/0buwvmO1V7DoStjJF9KJbI"
-    },
-    {
-      "added_at": "2026-11-23 16:39:15",
-      "album": {
-        "name": "Seven Serpents",
-        "url": "https://open.spotify.com/album/5Fa32KpztTDuW2wuq30LRX"
-      },
-      "artists": [
-        {
-          "name": "Kreator",
-          "url": "https://open.spotify.com/artist/3BM0EaYmkKWuPmmHFUTQHv"
-        }
-      ],
-      "duration_ms": 279533,
-      "name": "Seven Serpents",
-      "url": "https://open.spotify.com/track/0Ymzr5Fo4i10IaUQz5R0eO"
     },
     {
       "added_at": "2026-11-23 16:39:15",
@@ -3087,6 +3071,22 @@
     {
       "added_at": "2026-11-23 16:39:15",
       "album": {
+        "name": "Seven Serpents",
+        "url": "https://open.spotify.com/album/5Fa32KpztTDuW2wuq30LRX"
+      },
+      "artists": [
+        {
+          "name": "Kreator",
+          "url": "https://open.spotify.com/artist/3BM0EaYmkKWuPmmHFUTQHv"
+        }
+      ],
+      "duration_ms": 279533,
+      "name": "Seven Serpents",
+      "url": "https://open.spotify.com/track/0Ymzr5Fo4i10IaUQz5R0eO"
+    },
+    {
+      "added_at": "2026-11-23 16:39:15",
+      "album": {
         "name": "Oblivion Jones",
         "url": "https://open.spotify.com/album/2IxVOJ3aM4cUFXe1tBQ1ez"
       },
@@ -3103,22 +3103,6 @@
     {
       "added_at": "2026-11-23 16:39:15",
       "album": {
-        "name": "Malicious Souls",
-        "url": "https://open.spotify.com/album/6AIAuIzz1IidgUVMPHOsmS"
-      },
-      "artists": [
-        {
-          "name": "Vulture",
-          "url": "https://open.spotify.com/artist/1CT8OXcMKm9zlFcSX74tFF"
-        }
-      ],
-      "duration_ms": 197933,
-      "name": "Malicious Souls",
-      "url": "https://open.spotify.com/track/5mipERxPGdO9j46zfghXB4"
-    },
-    {
-      "added_at": "2026-11-23 16:39:15",
-      "album": {
         "name": "Under No Illusions",
         "url": "https://open.spotify.com/album/7fZzlt7IIm4EHWWOorQ3Im"
       },
@@ -3131,6 +3115,22 @@
       "duration_ms": 250413,
       "name": "Under No Illusions",
       "url": "https://open.spotify.com/track/1KAOO6KffrhVPo7BI36qK6"
+    },
+    {
+      "added_at": "2026-11-23 16:39:15",
+      "album": {
+        "name": "Malicious Souls",
+        "url": "https://open.spotify.com/album/6AIAuIzz1IidgUVMPHOsmS"
+      },
+      "artists": [
+        {
+          "name": "Vulture",
+          "url": "https://open.spotify.com/artist/1CT8OXcMKm9zlFcSX74tFF"
+        }
+      ],
+      "duration_ms": 197933,
+      "name": "Malicious Souls",
+      "url": "https://open.spotify.com/track/5mipERxPGdO9j46zfghXB4"
     },
     {
       "added_at": "2026-11-23 16:39:15",
@@ -3231,22 +3231,6 @@
     {
       "added_at": "2026-11-23 16:39:15",
       "album": {
-        "name": "Satanic Anarchy",
-        "url": "https://open.spotify.com/album/28JXUCxtf9uAdkponjtqC3"
-      },
-      "artists": [
-        {
-          "name": "Kreator",
-          "url": "https://open.spotify.com/artist/3BM0EaYmkKWuPmmHFUTQHv"
-        }
-      ],
-      "duration_ms": 213253,
-      "name": "Satanic Anarchy",
-      "url": "https://open.spotify.com/track/5DBq7GYcLnQLkNQMzKb5mN"
-    },
-    {
-      "added_at": "2026-11-23 16:39:15",
-      "album": {
         "name": "Caught In A Mosh",
         "url": "https://open.spotify.com/album/7kDsRPwoPQueml7zupFAMb"
       },
@@ -3259,6 +3243,22 @@
       "duration_ms": 299160,
       "name": "Caught In A Mosh",
       "url": "https://open.spotify.com/track/03uCCpxPBtSqr18kXm9gfG"
+    },
+    {
+      "added_at": "2026-11-23 16:39:15",
+      "album": {
+        "name": "Satanic Anarchy",
+        "url": "https://open.spotify.com/album/28JXUCxtf9uAdkponjtqC3"
+      },
+      "artists": [
+        {
+          "name": "Kreator",
+          "url": "https://open.spotify.com/artist/3BM0EaYmkKWuPmmHFUTQHv"
+        }
+      ],
+      "duration_ms": 213253,
+      "name": "Satanic Anarchy",
+      "url": "https://open.spotify.com/track/5DBq7GYcLnQLkNQMzKb5mN"
     }
   ],
   "unique_name": "Thrashers",

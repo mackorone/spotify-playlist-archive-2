@@ -300,8 +300,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFQKqFbS6FbiY.md) - [plain]
 | 290 | [Me Faz Esquecer Dela](https://open.spotify.com/track/6ZXGXFbwZ97fWvXZbj5gWC) | [Guilherme Torres](https://open.spotify.com/artist/4D53Ic5ZfpC74aFGK62SHy) | [Me Faz Esquecer Dela](https://open.spotify.com/album/3QkYjI7ACQAYUrTmzRAOd2) | 2:48 |
 | 291 | [Cargo de Amante](https://open.spotify.com/track/1h55CTPzCLTcGBkVUROXa9) | [Léo Magalhães](https://open.spotify.com/artist/4B0rppbJilYfZOPPEgpPtz) | [Mais pro Bar do Que pra Casa](https://open.spotify.com/album/3R03W6QTwqqhR8pty5tYFl) | 2:37 |
 | 292 | [Eu Queria Ser Ele](https://open.spotify.com/track/4i71ERHX6x3bVvsyX2yY2Q) | [Léo Magalhães](https://open.spotify.com/artist/4B0rppbJilYfZOPPEgpPtz) | [Mais pro Bar do Que pra Casa](https://open.spotify.com/album/3R03W6QTwqqhR8pty5tYFl) | 3:01 |
-| 293 | [Labiazinha \- Ao Vivo](https://open.spotify.com/track/0c0o2r5EwBTXc84J84zE5r) | [Fiorella](https://open.spotify.com/artist/6cX9Qyl1Ug5lli2y2yBm52) | [Meio Cidade / Meio Interior \(Ao Vivo\)](https://open.spotify.com/album/5jLLvNRvphSwtk3CjaJZFm) | 2:58 |
-| 294 | [Me Tira do Grupo \- Ao Vivo](https://open.spotify.com/track/2lqrdSl5dovc2BFqcN0FpD) | [Duduca & Dalvan](https://open.spotify.com/artist/3EMOVqtPqnQBmzBFiaZzuS) | [O Regresso, Ep\. 01 \(Ao Vivo\)](https://open.spotify.com/album/5kMYy5OIJkwDkS4pFDX4wi) | 3:10 |
+| 293 | [Me Tira do Grupo \- Ao Vivo](https://open.spotify.com/track/2lqrdSl5dovc2BFqcN0FpD) | [Duduca & Dalvan](https://open.spotify.com/artist/3EMOVqtPqnQBmzBFiaZzuS) | [O Regresso, Ep\. 01 \(Ao Vivo\)](https://open.spotify.com/album/5kMYy5OIJkwDkS4pFDX4wi) | 3:10 |
+| 294 | [Labiazinha \- Ao Vivo](https://open.spotify.com/track/0c0o2r5EwBTXc84J84zE5r) | [Fiorella](https://open.spotify.com/artist/6cX9Qyl1Ug5lli2y2yBm52) | [Meio Cidade / Meio Interior \(Ao Vivo\)](https://open.spotify.com/album/5jLLvNRvphSwtk3CjaJZFm) | 2:58 |
 | 295 | [Acompanhante de Luxo \- Ao Vivo](https://open.spotify.com/track/5GFZCIr6vpa2e6HG6DfY8p) | [Gabriel Gava](https://open.spotify.com/artist/01WrcqajqftNjrRuSqgyQA) | [Acompanhante de Luxo \(Ao Vivo\)](https://open.spotify.com/album/6wMQT86L1sjHhQdjUJgdQx) | 2:42 |
 | 296 | [Mulher que ama \- Ao vivo](https://open.spotify.com/track/0b2lytyqjzZd47t0V0Kvyj) | [Day e Lara](https://open.spotify.com/artist/0vsVZPe7ziQLQ3eqwUTc4H) | [Traços \(Ao vivo\)](https://open.spotify.com/album/5YmcNWq3bfoOH4n39nM9Ua) | 3:01 |
 | 297 | [Figo Bão](https://open.spotify.com/track/4NWe9QIk7UjS6BTAjlFZbM) | [Fernando Souza e Matheus](https://open.spotify.com/artist/2weq76M4O67H31FgYGf20v) | [Modão](https://open.spotify.com/album/3pVSqLrf4ARCCvFNDKCiJI) | 3:01 |
@@ -494,4 +494,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFQKqFbS6FbiY.md) - [plain]
 | 484 | [Tudo em Minha Volta](https://open.spotify.com/track/0u2JYPHwIoYCZV52UxDEIN) | [Ronny e Ronney](https://open.spotify.com/artist/6ITm7OZvd7ogcjDsQghri5) | [Tudo em Minha Volta](https://open.spotify.com/album/7G0Vbn40xoQtM4cc9hmPde) | 2:25 |
 | 485 | [Empatado](https://open.spotify.com/track/2R2VmRrz86KaWp8bfXFXVQ) | [João Barreto Oficial](https://open.spotify.com/artist/7bTjPVV03uXGSwNaumEmtY) | [Arrochando no São João](https://open.spotify.com/album/21yJnJ6IuFwiDLSD10CiAX) | 2:27 |
 
-Snapshot ID: `AciqIgAAAAAM7dTz1cQgvAHnV5FTS3+p`
+Snapshot ID: `AcivwgAAAABiSi6x5tZhE7SC+FeyvF5F`

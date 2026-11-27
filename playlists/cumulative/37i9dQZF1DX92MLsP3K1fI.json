@@ -2808,7 +2808,7 @@
       ],
       "date_added": "2026-11-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-27",
       "duration_ms": 212999,
       "name": "Coraz\u00f3n de Cristal",
       "url": "https://open.spotify.com/track/6Qv8zAl6sGxqag35b0HQqp"
@@ -7786,7 +7786,7 @@
       ],
       "date_added": "2026-11-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-27",
       "duration_ms": 192000,
       "name": "me cuidas!",
       "url": "https://open.spotify.com/track/4Qo3BGa95WkK0wEssoM15X"
@@ -9596,7 +9596,7 @@
       ],
       "date_added": "2026-04-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-27",
       "duration_ms": 172104,
       "name": "Paisajes",
       "url": "https://open.spotify.com/track/11IRh2oN3EOPkoIVaWN1r9"
@@ -10903,6 +10903,24 @@
     },
     {
       "album": {
+        "name": "Qu\u00e9date Cerquita",
+        "url": "https://open.spotify.com/album/2fgs4NAqfk1bFWVuEYueok"
+      },
+      "artists": [
+        {
+          "name": "Meri Deal",
+          "url": "https://open.spotify.com/artist/7zREGj8GMl9UrDa6NPLi0H"
+        }
+      ],
+      "date_added": "2026-11-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 140779,
+      "name": "Qu\u00e9date Cerquita",
+      "url": "https://open.spotify.com/track/43ARy6DZd9hyutIootZCKz"
+    },
+    {
+      "album": {
         "name": "Qu\u00e9date Conmigo",
         "url": "https://open.spotify.com/album/6mdMzA1MhhkQK4LwgRHZvU"
       },
@@ -11130,6 +11148,24 @@
       "duration_ms": 149093,
       "name": "Salida de Emergencia",
       "url": "https://open.spotify.com/track/1HBefn6OkhYL6CuK66bR4l"
+    },
+    {
+      "album": {
+        "name": "Salirte A Buscar",
+        "url": "https://open.spotify.com/album/6DQaht0cYplTbsw9K8jISX"
+      },
+      "artists": [
+        {
+          "name": "Mar\u00eda Centeno",
+          "url": "https://open.spotify.com/artist/4YJQjp0wW8B5luWzPOcHrG"
+        }
+      ],
+      "date_added": "2026-11-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 177750,
+      "name": "Salirte A Buscar",
+      "url": "https://open.spotify.com/track/1eVOFobX1i60WKt9FrKzHB"
     },
     {
       "album": {
@@ -11566,7 +11602,7 @@
       ],
       "date_added": "2026-11-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-27",
       "duration_ms": 257842,
       "name": "Si No Te Hubieras Ido",
       "url": "https://open.spotify.com/track/7HpXxwDKjKAE05yilW2j4t"
@@ -12027,6 +12063,28 @@
     },
     {
       "album": {
+        "name": "Rom\u00e1nticos An\u00f3nimos",
+        "url": "https://open.spotify.com/album/1lTc1CLdBuebYt9fojq06k"
+      },
+      "artists": [
+        {
+          "name": "DAAZ",
+          "url": "https://open.spotify.com/artist/3EmNguRllf32GJRqIKnD0C"
+        },
+        {
+          "name": "Sabino",
+          "url": "https://open.spotify.com/artist/0zgFL90nGTrH2iOMD8Vysy"
+        }
+      ],
+      "date_added": "2026-11-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 218506,
+      "name": "Soy Tu Fan",
+      "url": "https://open.spotify.com/track/27BdDnKEyWDYKyEpAc86d0"
+    },
+    {
+      "album": {
         "name": "Spotlight",
         "url": "https://open.spotify.com/album/2iQRRDvZp3FkvxTBfZ4i0J"
       },
@@ -12319,6 +12377,28 @@
     },
     {
       "album": {
+        "name": "Tal Para Cual",
+        "url": "https://open.spotify.com/album/1ItataI0UwsJRVF4ojXarM"
+      },
+      "artists": [
+        {
+          "name": "Elefante",
+          "url": "https://open.spotify.com/artist/5oYHL2SijkMY52gKIhYJNb"
+        },
+        {
+          "name": "Reyli Barba",
+          "url": "https://open.spotify.com/artist/69BUYvpG9MbjCyIZfsFdhJ"
+        }
+      ],
+      "date_added": "2026-11-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 216541,
+      "name": "Tal Para Cual",
+      "url": "https://open.spotify.com/track/5KezpWrhtkuy32i9QrNldH"
+    },
+    {
+      "album": {
         "name": "YELIANA",
         "url": "https://open.spotify.com/album/7bGQBZkaTn1QIFdWG2FuV1"
       },
@@ -12352,6 +12432,24 @@
       "duration_ms": 166800,
       "name": "Tal Vez",
       "url": "https://open.spotify.com/track/6CRHtMHEjyGThYeEXaLnGX"
+    },
+    {
+      "album": {
+        "name": "Tal Vez",
+        "url": "https://open.spotify.com/album/6igCmPaAfJwJcoj2znkOcp"
+      },
+      "artists": [
+        {
+          "name": "Samura\u00ef",
+          "url": "https://open.spotify.com/artist/0BovidHLtM9n55WXWkApK9"
+        }
+      ],
+      "date_added": "2026-11-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 238430,
+      "name": "Tal Vez",
+      "url": "https://open.spotify.com/track/2EgdZ3DJSkmonucYTgxKJO"
     },
     {
       "album": {
@@ -13194,7 +13292,7 @@
       ],
       "date_added": "2026-04-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-27",
       "duration_ms": 180120,
       "name": "Tu Coraz\u00f3n (Your Heart)",
       "url": "https://open.spotify.com/track/64PXpstU2BDJ1iMcPNLJyS"
@@ -13292,7 +13390,7 @@
       ],
       "date_added": "2026-10-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-27",
       "duration_ms": 181036,
       "name": "Tulum Sin Ti",
       "url": "https://open.spotify.com/track/4RuYga5Aoo1veuznTsrnxW"
@@ -13470,6 +13568,28 @@
       "duration_ms": 162424,
       "name": "un g que no siente",
       "url": "https://open.spotify.com/track/1GukOqG5DazqjAZhhEBCNO"
+    },
+    {
+      "album": {
+        "name": "Un ratito m\u00e1s",
+        "url": "https://open.spotify.com/album/4BKKTy1wfpi8uoNIQdJdX9"
+      },
+      "artists": [
+        {
+          "name": "F\u00e9lis",
+          "url": "https://open.spotify.com/artist/5R7EXNvEV0sqBPgfvYTi9m"
+        },
+        {
+          "name": "Paola Sulser",
+          "url": "https://open.spotify.com/artist/0Uza25XfVOZhMRJUslUYmh"
+        }
+      ],
+      "date_added": "2026-11-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 219200,
+      "name": "Un ratito m\u00e1s",
+      "url": "https://open.spotify.com/track/2mv7H8ju4eEsMBpji9Kc21"
     },
     {
       "album": {
@@ -14097,6 +14217,24 @@
     },
     {
       "album": {
+        "name": "Yo Te Voy a Amar",
+        "url": "https://open.spotify.com/album/3iUflOQJjlRGxDO1PyKjge"
+      },
+      "artists": [
+        {
+          "name": "Tony Aguirre",
+          "url": "https://open.spotify.com/artist/6twEaJ9RPRYiCmWapjG8xh"
+        }
+      ],
+      "date_added": "2026-11-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 285177,
+      "name": "Yo Te Voy a Amar",
+      "url": "https://open.spotify.com/track/2iejFDyPGFaI28QXuSk6zE"
+    },
+    {
+      "album": {
         "name": "zicatela",
         "url": "https://open.spotify.com/album/1wMY2RJPerX3VGFIOxIVkD"
       },
@@ -14216,7 +14354,7 @@
       ],
       "date_added": "2026-11-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-27",
       "duration_ms": 202631,
       "name": "\u00bfQui\u00e9n Te Entiende?",
       "url": "https://open.spotify.com/track/44Ux28uJgasWJWNfyfNOs2"

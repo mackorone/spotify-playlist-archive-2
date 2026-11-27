@@ -1,15 +1,35 @@
 {
   "description": "Hot Hits \u2013 st\u00f6rsta och b\u00e4sta hitsen just nu!",
-  "num_followers": 838477,
+  "num_followers": 838391,
   "original_name": "Hot Hits Sweden",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAAM8WhZC+comZWdXwFm0fTq6FF63",
+  "snapshot_id": "AAAAAIhFJ2sh5hIxvkL50QWh3a8fnwqZ",
   "tracks": [
     {
-      "added_at": "2026-11-23 07:57:23",
+      "added_at": "2026-11-26 23:01:18",
+      "album": {
+        "name": "Blood In Your Eyes (from GTAVI: The Album)",
+        "url": "https://open.spotify.com/album/2J5ttiLhgBPxcLyHlhQVKO"
+      },
+      "artists": [
+        {
+          "name": "Tove Lo",
+          "url": "https://open.spotify.com/artist/4NHQUGzhtTLFvgF5SZesLK"
+        },
+        {
+          "name": "Grand Theft Auto VI",
+          "url": "https://open.spotify.com/artist/15o7qdDTBzs6xWRUYUtZc1"
+        }
+      ],
+      "duration_ms": 161219,
+      "name": "Blood In Your Eyes (from GTAVI: The Album)",
+      "url": "https://open.spotify.com/track/4h3tY2zV4easaHEAbHVmgj"
+    },
+    {
+      "added_at": "2026-11-26 23:01:18",
       "album": {
         "name": "Mayday",
         "url": "https://open.spotify.com/album/1NyyxjsHYiCIheYOjjsFMQ"
@@ -25,7 +45,7 @@
       "url": "https://open.spotify.com/track/7vIfj1zbmxoJpfByPsLAfa"
     },
     {
-      "added_at": "2026-11-23 07:57:23",
+      "added_at": "2026-11-26 23:01:18",
       "album": {
         "name": "Babydoll",
         "url": "https://open.spotify.com/album/2FRSDXehsQLDy2rYnZ9Drq"
@@ -41,139 +61,7 @@
       "url": "https://open.spotify.com/track/1o9mAOmNm3wT2NdyGV1Ard"
     },
     {
-      "added_at": "2026-11-23 07:57:23",
-      "album": {
-        "name": "Pretty Girls",
-        "url": "https://open.spotify.com/album/0LYJEgEheO8Q7HGZvE3Zw8"
-      },
-      "artists": [
-        {
-          "name": "Jireel",
-          "url": "https://open.spotify.com/artist/2EWsHDexsSInArfFkhA2i6"
-        }
-      ],
-      "duration_ms": 153786,
-      "name": "Pretty Girls",
-      "url": "https://open.spotify.com/track/574QVsUAURp18pDY6vWHsg"
-    },
-    {
-      "added_at": "2026-11-23 07:57:23",
-      "album": {
-        "name": "Lies (feat. Lana Del Rey)",
-        "url": "https://open.spotify.com/album/2JGeJAaYYGEB2geK9ejaoF"
-      },
-      "artists": [
-        {
-          "name": "Zach Bryan",
-          "url": "https://open.spotify.com/artist/40ZNYROS4zLfyyBSs2PGe2"
-        },
-        {
-          "name": "Lana Del Rey",
-          "url": "https://open.spotify.com/artist/00FQb4jTyendYWaN8pK0wa"
-        }
-      ],
-      "duration_ms": 220588,
-      "name": "Lies (feat. Lana Del Rey)",
-      "url": "https://open.spotify.com/track/4EVSMqqVEehvyyOBmjNTlA"
-    },
-    {
-      "added_at": "2026-11-23 07:57:23",
-      "album": {
-        "name": "Superman (feat. Pontus)",
-        "url": "https://open.spotify.com/album/2g4pbtA9omzcd8zxvWF2O4"
-      },
-      "artists": [
-        {
-          "name": "Anis Don Demina",
-          "url": "https://open.spotify.com/artist/3WnmyxLdTHKN83h75tcb8P"
-        }
-      ],
-      "duration_ms": 167964,
-      "name": "Superman (feat. Pontus)",
-      "url": "https://open.spotify.com/track/47XWjDpf3JyAs6GIks6qIB"
-    },
-    {
-      "added_at": "2026-11-23 07:57:23",
-      "album": {
-        "name": "Happiness Is So Sad",
-        "url": "https://open.spotify.com/album/4WLLacwBaBRtV0qOzpFPMW"
-      },
-      "artists": [
-        {
-          "name": "Swedish House Mafia",
-          "url": "https://open.spotify.com/artist/1h6Cn3P4NGzXbaXidqURXs"
-        },
-        {
-          "name": "Lykke Li",
-          "url": "https://open.spotify.com/artist/6oBm8HB0yfrIc9IHbxs6in"
-        }
-      ],
-      "duration_ms": 232835,
-      "name": "Happiness Is So Sad",
-      "url": "https://open.spotify.com/track/5Vz9XUiw2emOIRLobTMEkD"
-    },
-    {
-      "added_at": "2026-11-23 07:57:23",
-      "album": {
-        "name": "T\u00e4nk om",
-        "url": "https://open.spotify.com/album/7sg1PdX4NcgI8AFMWfR3db"
-      },
-      "artists": [
-        {
-          "name": "Victor Leksell",
-          "url": "https://open.spotify.com/artist/6RJXSfbIkEMoCJ8GAg2dVO"
-        },
-        {
-          "name": "Molly Sand\u00e9n",
-          "url": "https://open.spotify.com/artist/0NRMzT05nsc8mTm4iUvuHY"
-        }
-      ],
-      "duration_ms": 170500,
-      "name": "T\u00e4nk om",
-      "url": "https://open.spotify.com/track/1HUiVQFHxfb3ZYoFletQV0"
-    },
-    {
-      "added_at": "2026-11-23 07:57:23",
-      "album": {
-        "name": "Before You Know It",
-        "url": "https://open.spotify.com/album/09MFYa0kaj2G2LpRZfKUyo"
-      },
-      "artists": [
-        {
-          "name": "Kygo",
-          "url": "https://open.spotify.com/artist/23fqKkggKUBHNkbKtXEls4"
-        },
-        {
-          "name": "Ava Max",
-          "url": "https://open.spotify.com/artist/4npEfmQ6YuiwW1GpUmaq3F"
-        }
-      ],
-      "duration_ms": 173202,
-      "name": "Before You Know It",
-      "url": "https://open.spotify.com/track/0IEKKqwiTDVh6I3M9XlrAQ"
-    },
-    {
-      "added_at": "2026-11-23 07:57:23",
-      "album": {
-        "name": "Love & Tears",
-        "url": "https://open.spotify.com/album/3Gmq5AFwR3eXaf59Kbwgk8"
-      },
-      "artists": [
-        {
-          "name": "GENER8ION",
-          "url": "https://open.spotify.com/artist/5xXSrTidFvVRJmiam2Zh1o"
-        },
-        {
-          "name": "Yung Lean",
-          "url": "https://open.spotify.com/artist/67lytN32YpUxiSeWlKfHJ3"
-        }
-      ],
-      "duration_ms": 173386,
-      "name": "STORM II",
-      "url": "https://open.spotify.com/track/4ipD5CMmWkehabGlAGTOBB"
-    },
-    {
-      "added_at": "2026-11-23 07:57:23",
+      "added_at": "2026-11-26 23:01:18",
       "album": {
         "name": "Flower In A Hurricane (feat. Tame Impala, SZA, King Gizzard & the Lizard Wizard) [From GTAVI: Original Score]",
         "url": "https://open.spotify.com/album/1V8Qu6CwkBfYucnCWxynq8"
@@ -205,7 +93,139 @@
       "url": "https://open.spotify.com/track/4HCOHRCSQelz2GPX8iTamO"
     },
     {
-      "added_at": "2026-11-23 07:57:23",
+      "added_at": "2026-11-26 23:01:18",
+      "album": {
+        "name": "Pretty Girls",
+        "url": "https://open.spotify.com/album/0LYJEgEheO8Q7HGZvE3Zw8"
+      },
+      "artists": [
+        {
+          "name": "Jireel",
+          "url": "https://open.spotify.com/artist/2EWsHDexsSInArfFkhA2i6"
+        }
+      ],
+      "duration_ms": 153786,
+      "name": "Pretty Girls",
+      "url": "https://open.spotify.com/track/574QVsUAURp18pDY6vWHsg"
+    },
+    {
+      "added_at": "2026-11-26 23:01:18",
+      "album": {
+        "name": "Lies (feat. Lana Del Rey)",
+        "url": "https://open.spotify.com/album/2JGeJAaYYGEB2geK9ejaoF"
+      },
+      "artists": [
+        {
+          "name": "Zach Bryan",
+          "url": "https://open.spotify.com/artist/40ZNYROS4zLfyyBSs2PGe2"
+        },
+        {
+          "name": "Lana Del Rey",
+          "url": "https://open.spotify.com/artist/00FQb4jTyendYWaN8pK0wa"
+        }
+      ],
+      "duration_ms": 220588,
+      "name": "Lies (feat. Lana Del Rey)",
+      "url": "https://open.spotify.com/track/4EVSMqqVEehvyyOBmjNTlA"
+    },
+    {
+      "added_at": "2026-11-26 23:01:18",
+      "album": {
+        "name": "Superman (feat. Pontus)",
+        "url": "https://open.spotify.com/album/2g4pbtA9omzcd8zxvWF2O4"
+      },
+      "artists": [
+        {
+          "name": "Anis Don Demina",
+          "url": "https://open.spotify.com/artist/3WnmyxLdTHKN83h75tcb8P"
+        }
+      ],
+      "duration_ms": 167964,
+      "name": "Superman (feat. Pontus)",
+      "url": "https://open.spotify.com/track/47XWjDpf3JyAs6GIks6qIB"
+    },
+    {
+      "added_at": "2026-11-26 23:01:18",
+      "album": {
+        "name": "Happiness Is So Sad",
+        "url": "https://open.spotify.com/album/4WLLacwBaBRtV0qOzpFPMW"
+      },
+      "artists": [
+        {
+          "name": "Swedish House Mafia",
+          "url": "https://open.spotify.com/artist/1h6Cn3P4NGzXbaXidqURXs"
+        },
+        {
+          "name": "Lykke Li",
+          "url": "https://open.spotify.com/artist/6oBm8HB0yfrIc9IHbxs6in"
+        }
+      ],
+      "duration_ms": 232835,
+      "name": "Happiness Is So Sad",
+      "url": "https://open.spotify.com/track/5Vz9XUiw2emOIRLobTMEkD"
+    },
+    {
+      "added_at": "2026-11-26 23:01:18",
+      "album": {
+        "name": "Before You Know It",
+        "url": "https://open.spotify.com/album/09MFYa0kaj2G2LpRZfKUyo"
+      },
+      "artists": [
+        {
+          "name": "Kygo",
+          "url": "https://open.spotify.com/artist/23fqKkggKUBHNkbKtXEls4"
+        },
+        {
+          "name": "Ava Max",
+          "url": "https://open.spotify.com/artist/4npEfmQ6YuiwW1GpUmaq3F"
+        }
+      ],
+      "duration_ms": 173202,
+      "name": "Before You Know It",
+      "url": "https://open.spotify.com/track/0IEKKqwiTDVh6I3M9XlrAQ"
+    },
+    {
+      "added_at": "2026-11-26 23:01:18",
+      "album": {
+        "name": "T\u00e4nk om",
+        "url": "https://open.spotify.com/album/7sg1PdX4NcgI8AFMWfR3db"
+      },
+      "artists": [
+        {
+          "name": "Victor Leksell",
+          "url": "https://open.spotify.com/artist/6RJXSfbIkEMoCJ8GAg2dVO"
+        },
+        {
+          "name": "Molly Sand\u00e9n",
+          "url": "https://open.spotify.com/artist/0NRMzT05nsc8mTm4iUvuHY"
+        }
+      ],
+      "duration_ms": 170500,
+      "name": "T\u00e4nk om",
+      "url": "https://open.spotify.com/track/1HUiVQFHxfb3ZYoFletQV0"
+    },
+    {
+      "added_at": "2026-11-26 23:01:18",
+      "album": {
+        "name": "Love & Tears",
+        "url": "https://open.spotify.com/album/3Gmq5AFwR3eXaf59Kbwgk8"
+      },
+      "artists": [
+        {
+          "name": "GENER8ION",
+          "url": "https://open.spotify.com/artist/5xXSrTidFvVRJmiam2Zh1o"
+        },
+        {
+          "name": "Yung Lean",
+          "url": "https://open.spotify.com/artist/67lytN32YpUxiSeWlKfHJ3"
+        }
+      ],
+      "duration_ms": 173386,
+      "name": "STORM II",
+      "url": "https://open.spotify.com/track/4ipD5CMmWkehabGlAGTOBB"
+    },
+    {
+      "added_at": "2026-11-26 23:01:18",
       "album": {
         "name": "SPRING!",
         "url": "https://open.spotify.com/album/3tf7LAVrErUo28ORAJWHb2"
@@ -221,7 +241,7 @@
       "url": "https://open.spotify.com/track/3Lk9FkI4gw40YTiNKCLqL6"
     },
     {
-      "added_at": "2026-11-23 07:57:23",
+      "added_at": "2026-11-26 23:01:18",
       "album": {
         "name": "Housewife",
         "url": "https://open.spotify.com/album/6JvmSyocXef7RZDZFaymNl"
@@ -237,7 +257,7 @@
       "url": "https://open.spotify.com/track/2sFepQNyl1WjpROruP8bJ0"
     },
     {
-      "added_at": "2026-11-23 07:57:23",
+      "added_at": "2026-11-26 23:01:18",
       "album": {
         "name": "Vem du \u00e4n \u00e4r",
         "url": "https://open.spotify.com/album/5ErLUOWuqlTFRPMeYx9FCF"
@@ -253,7 +273,7 @@
       "url": "https://open.spotify.com/track/1q0wUKp7z4PahhgYe1Db5P"
     },
     {
-      "added_at": "2026-11-23 07:57:23",
+      "added_at": "2026-11-26 23:01:18",
       "album": {
         "name": "mommy\u2019s boy",
         "url": "https://open.spotify.com/album/7aW7QtqXNkC2su5JJLSavm"
@@ -269,7 +289,7 @@
       "url": "https://open.spotify.com/track/0FfwykHXznjHI9MT5AGAch"
     },
     {
-      "added_at": "2026-11-23 07:57:23",
+      "added_at": "2026-11-26 23:01:18",
       "album": {
         "name": "Stop The Wedding!",
         "url": "https://open.spotify.com/album/4dem9qxmFf4RD6fqoCH6wc"
@@ -285,7 +305,7 @@
       "url": "https://open.spotify.com/track/3zOYmiNOuyDL0ClxJcEJ0T"
     },
     {
-      "added_at": "2026-11-23 07:57:23",
+      "added_at": "2026-11-26 23:01:18",
       "album": {
         "name": "Highway to Heaven",
         "url": "https://open.spotify.com/album/4WXSyC7wKpLZ49I8Io73Hr"
@@ -301,7 +321,7 @@
       "url": "https://open.spotify.com/track/4z1ex5e2r3hyY9Qd43afdm"
     },
     {
-      "added_at": "2026-11-23 07:57:23",
+      "added_at": "2026-11-26 23:01:18",
       "album": {
         "name": "Veteraner",
         "url": "https://open.spotify.com/album/30p7eIg2ZUEsa02NqX7yZm"
@@ -317,7 +337,7 @@
       "url": "https://open.spotify.com/track/4xfl1mBH3zF35Oe5Za10uc"
     },
     {
-      "added_at": "2026-11-23 07:57:23",
+      "added_at": "2026-11-26 23:01:18",
       "album": {
         "name": "Visitor",
         "url": "https://open.spotify.com/album/1Aye7tEOHfJ3hDJIeJFggF"
@@ -333,7 +353,7 @@
       "url": "https://open.spotify.com/track/7ujApz6iFP3PmKIDGcaGbe"
     },
     {
-      "added_at": "2026-11-23 07:57:23",
+      "added_at": "2026-11-26 23:01:18",
       "album": {
         "name": "The Life of a Showgirl: The Encore",
         "url": "https://open.spotify.com/album/4hF2gTGuPYlykYuphDxi8J"
@@ -349,7 +369,7 @@
       "url": "https://open.spotify.com/track/11hcBLPtbMp4aQI6zGQLub"
     },
     {
-      "added_at": "2026-11-23 07:57:23",
+      "added_at": "2026-11-26 23:01:18",
       "album": {
         "name": "waste my time",
         "url": "https://open.spotify.com/album/5ePyXmFNZNEmKfzuFBCTtI"
@@ -365,7 +385,7 @@
       "url": "https://open.spotify.com/track/2xSllS4AsXs2AjbKhtQuFy"
     },
     {
-      "added_at": "2026-11-23 07:57:23",
+      "added_at": "2026-11-26 23:01:18",
       "album": {
         "name": "Boston",
         "url": "https://open.spotify.com/album/4YLIRb8DdBTXbgHiFLicH2"
@@ -381,7 +401,7 @@
       "url": "https://open.spotify.com/track/36idurZmYRjJ56KQ8JD9bN"
     },
     {
-      "added_at": "2026-11-23 07:57:23",
+      "added_at": "2026-11-26 23:01:18",
       "album": {
         "name": "PRIMA",
         "url": "https://open.spotify.com/album/2yDFVH9CeOHt0sc9eI0aBs"
@@ -397,7 +417,7 @@
       "url": "https://open.spotify.com/track/70cHKK8bHAfJrOGVnfRG9J"
     },
     {
-      "added_at": "2026-11-23 07:57:23",
+      "added_at": "2026-11-26 23:01:18",
       "album": {
         "name": "expectations (feat. Chappell Roan)",
         "url": "https://open.spotify.com/album/1q9LM9xC5ebSY216u31FOx"
@@ -417,7 +437,7 @@
       "url": "https://open.spotify.com/track/3XmwAZpIMNpTJy8faw3ajD"
     },
     {
-      "added_at": "2026-11-23 07:57:23",
+      "added_at": "2026-11-26 23:01:18",
       "album": {
         "name": "Azalea",
         "url": "https://open.spotify.com/album/1eTgGT1hadTFKHsAIF2g7W"
@@ -433,7 +453,7 @@
       "url": "https://open.spotify.com/track/0Dkp8CfJx2xSEaIuX8F2hx"
     },
     {
-      "added_at": "2026-11-23 07:57:23",
+      "added_at": "2026-11-26 23:01:18",
       "album": {
         "name": "My Body Isn't Ready",
         "url": "https://open.spotify.com/album/27fL8TMJUfW4XRXZqougTh"
@@ -449,7 +469,7 @@
       "url": "https://open.spotify.com/track/79RJg6MqIJlBuedcMqB9F0"
     },
     {
-      "added_at": "2026-11-23 07:57:23",
+      "added_at": "2026-11-26 23:01:18",
       "album": {
         "name": "Dai Dai",
         "url": "https://open.spotify.com/album/2eeufspLkAubwTJfOGSrI8"
@@ -469,7 +489,7 @@
       "url": "https://open.spotify.com/track/0kosUz0jePvjiz4ctmR6wL"
     },
     {
-      "added_at": "2026-11-23 07:57:23",
+      "added_at": "2026-11-26 23:01:18",
       "album": {
         "name": "Tomma glas (feat. Molly Sand\u00e9n & Dante)",
         "url": "https://open.spotify.com/album/2zSpEzpWaPkCjjFLXtM1JP"
@@ -493,7 +513,7 @@
       "url": "https://open.spotify.com/track/6XBKxNfb7kmxoGXyicHYHz"
     },
     {
-      "added_at": "2026-11-23 07:57:23",
+      "added_at": "2026-11-26 23:01:18",
       "album": {
         "name": "POPSTAR",
         "url": "https://open.spotify.com/album/5OoouTPW957KsljluBwi8a"
@@ -509,7 +529,7 @@
       "url": "https://open.spotify.com/track/3ZXZQ66qgemq9bIXXlq5lp"
     },
     {
-      "added_at": "2026-11-23 07:57:23",
+      "added_at": "2026-11-26 23:01:18",
       "album": {
         "name": "Dandelion",
         "url": "https://open.spotify.com/album/6nrtxtgaD9zSYBl9APvOCH"
@@ -525,7 +545,7 @@
       "url": "https://open.spotify.com/track/7scFxt9VhL4FJwuPSfRlfN"
     },
     {
-      "added_at": "2026-11-23 07:57:23",
+      "added_at": "2026-11-26 23:01:18",
       "album": {
         "name": "Fel p\u00e5 dig",
         "url": "https://open.spotify.com/album/4dVOq4Bs0pF1VqnQZcEUiA"
@@ -545,7 +565,7 @@
       "url": "https://open.spotify.com/track/4UGJVXMoSyTUl61OdVJ3N0"
     },
     {
-      "added_at": "2026-11-23 07:57:23",
+      "added_at": "2026-11-26 23:01:18",
       "album": {
         "name": "\u00c4r det h\u00e4r det \u00e4r party",
         "url": "https://open.spotify.com/album/5f6dKBzjWA6S1anxk4wW58"
@@ -561,7 +581,7 @@
       "url": "https://open.spotify.com/track/3LUv3ZP70kKfDx9ui4mF2f"
     },
     {
-      "added_at": "2026-11-23 07:57:23",
+      "added_at": "2026-11-26 23:01:18",
       "album": {
         "name": "Shotta's.",
         "url": "https://open.spotify.com/album/1XUTYkp36yxfOmOaNlbxiE"
@@ -577,7 +597,7 @@
       "url": "https://open.spotify.com/track/1ApUYfDejOBvrTnar2Wyf3"
     },
     {
-      "added_at": "2026-11-23 07:57:23",
+      "added_at": "2026-11-26 23:01:18",
       "album": {
         "name": "Ain't In LA",
         "url": "https://open.spotify.com/album/3qGInqGfOePTekb0y7AZ4s"
@@ -593,7 +613,7 @@
       "url": "https://open.spotify.com/track/02HyFYmpzt02VJ8k0CqxKj"
     },
     {
-      "added_at": "2026-11-23 07:57:23",
+      "added_at": "2026-11-26 23:01:18",
       "album": {
         "name": "Animal (on the dance floor)",
         "url": "https://open.spotify.com/album/19T0bG3OXAXTePmYZCVK9Z"
@@ -609,7 +629,7 @@
       "url": "https://open.spotify.com/track/0ZdppjPgr8yoNS1xbfqjtG"
     },
     {
-      "added_at": "2026-11-23 07:57:23",
+      "added_at": "2026-11-26 23:01:18",
       "album": {
         "name": "Atom",
         "url": "https://open.spotify.com/album/2PH7ApIbAdLECzTi0iX5yB"
@@ -629,7 +649,7 @@
       "url": "https://open.spotify.com/track/24j5pHISv4r7Au45ueiZ8r"
     },
     {
-      "added_at": "2026-11-23 07:57:23",
+      "added_at": "2026-11-26 23:01:18",
       "album": {
         "name": "Heartbreak & 808s",
         "url": "https://open.spotify.com/album/3t5TmY511yYmv808qrZJYE"
@@ -649,7 +669,7 @@
       "url": "https://open.spotify.com/track/6Oz09b8902x0gmQAxE7Mo7"
     },
     {
-      "added_at": "2026-11-23 07:57:23",
+      "added_at": "2026-11-26 23:01:18",
       "album": {
         "name": "hate that i made you love me",
         "url": "https://open.spotify.com/album/1x159B5VzbDWAGBik5cr1z"
@@ -665,7 +685,7 @@
       "url": "https://open.spotify.com/track/20jbSiX29FDX4oQxBXyUEi"
     },
     {
-      "added_at": "2026-11-23 07:57:23",
+      "added_at": "2026-11-26 23:01:18",
       "album": {
         "name": "Det ligger n\u00e5t i luften",
         "url": "https://open.spotify.com/album/5CrGCx8NwnkfYlqJv7DXXE"
@@ -681,7 +701,7 @@
       "url": "https://open.spotify.com/track/4okV0gcEkY1BlqQNDvaQCw"
     },
     {
-      "added_at": "2026-11-23 07:57:23",
+      "added_at": "2026-11-26 23:01:18",
       "album": {
         "name": "Superlim & silvertejp",
         "url": "https://open.spotify.com/album/6jZHjCPFSxmbsCWUo4FxVm"
@@ -701,7 +721,7 @@
       "url": "https://open.spotify.com/track/5lOGSH8HAnmJlvwnVFBa1s"
     },
     {
-      "added_at": "2026-11-23 07:57:23",
+      "added_at": "2026-11-26 23:01:18",
       "album": {
         "name": "SHE DID IT AGAIN (feat. Zara Larsson)",
         "url": "https://open.spotify.com/album/13DVwg7TPRUC8BnLjblv5B"
@@ -721,7 +741,7 @@
       "url": "https://open.spotify.com/track/3jucj0h0tajme6rUEadmWN"
     },
     {
-      "added_at": "2026-11-23 07:57:23",
+      "added_at": "2026-11-26 23:01:18",
       "album": {
         "name": "FEVER DREAM",
         "url": "https://open.spotify.com/album/1tJQ5Mp1XSf7waZzH6KhlJ"
@@ -737,7 +757,7 @@
       "url": "https://open.spotify.com/track/7ogpGbKc4Io6NCU6ydxXwZ"
     },
     {
-      "added_at": "2026-11-23 07:57:23",
+      "added_at": "2026-11-26 23:01:18",
       "album": {
         "name": "Bl\u00e5 Minnen",
         "url": "https://open.spotify.com/album/13ByjiUBq9febVMy4Vv1vx"
@@ -757,7 +777,7 @@
       "url": "https://open.spotify.com/track/6ZLneg9qoP8A6y8dviALMf"
     },
     {
-      "added_at": "2026-11-23 07:57:23",
+      "added_at": "2026-11-26 23:01:18",
       "album": {
         "name": "Mr. Know It All",
         "url": "https://open.spotify.com/album/6pSMDQxVmzO16b4feWczz1"
@@ -773,23 +793,7 @@
       "url": "https://open.spotify.com/track/2g5kPQh1EexoG8kGZH2nOZ"
     },
     {
-      "added_at": "2026-11-23 07:57:23",
-      "album": {
-        "name": "bloodstream",
-        "url": "https://open.spotify.com/album/4rndAJfXwOHMEPpMT8rn7Q"
-      },
-      "artists": [
-        {
-          "name": "Alyssa Grace",
-          "url": "https://open.spotify.com/artist/4eZer1QvRM8Pna0rLToV1K"
-        }
-      ],
-      "duration_ms": 177428,
-      "name": "bloodstream",
-      "url": "https://open.spotify.com/track/2oWFJJW9d1bIra3zHjR6GO"
-    },
-    {
-      "added_at": "2026-11-23 07:57:23",
+      "added_at": "2026-11-26 23:01:18",
       "album": {
         "name": "iloveitiloveitiloveit",
         "url": "https://open.spotify.com/album/6XxrC3tz3EuqoW5RMbYzaF"
@@ -805,7 +809,7 @@
       "url": "https://open.spotify.com/track/5IMpnpD0tQVcqWlVIgtAtV"
     },
     {
-      "added_at": "2026-11-23 07:57:23",
+      "added_at": "2026-11-26 23:01:18",
       "album": {
         "name": "Deadbeat",
         "url": "https://open.spotify.com/album/5WulAOx9ilWy1h8UGZ1gkI"
@@ -821,7 +825,7 @@
       "url": "https://open.spotify.com/track/7bxaFZ1O3cHkgLKMsdC3xR"
     },
     {
-      "added_at": "2026-11-23 07:57:23",
+      "added_at": "2026-11-26 23:01:18",
       "album": {
         "name": "Self Aware",
         "url": "https://open.spotify.com/album/7Cdqksm4yTfiq0EfKPa86M"
@@ -837,7 +841,7 @@
       "url": "https://open.spotify.com/track/4qW3BbQAwZsrnu8a3ZRdyT"
     },
     {
-      "added_at": "2026-11-23 07:57:23",
+      "added_at": "2026-11-26 23:01:18",
       "album": {
         "name": "WHERE IS MY HUSBAND!",
         "url": "https://open.spotify.com/album/01sqwTOTrN9gaYQc1rr6Zw"
@@ -853,7 +857,7 @@
       "url": "https://open.spotify.com/track/55lijDD6OAjLFFUHU9tcDm"
     },
     {
-      "added_at": "2026-11-23 07:57:23",
+      "added_at": "2026-11-26 23:01:18",
       "album": {
         "name": "Midnight Sun",
         "url": "https://open.spotify.com/album/014U2yqVgeCNqykPGzgyki"
@@ -869,7 +873,7 @@
       "url": "https://open.spotify.com/track/37UCSVSqiPGdR1DijOFyYY"
     },
     {
-      "added_at": "2026-11-23 07:57:23",
+      "added_at": "2026-11-26 23:01:18",
       "album": {
         "name": "Man I Need",
         "url": "https://open.spotify.com/album/0Bv6OJO0L5gcf20DMww54a"

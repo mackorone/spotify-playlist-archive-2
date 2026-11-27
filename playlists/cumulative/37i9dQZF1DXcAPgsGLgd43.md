@@ -4,7 +4,7 @@
 
 > The pulse of Latin House 🌀 featuring Andruss & Juos
 
-593 songs - 1 day 7 hr 35 min
+594 songs - 1 day 7 hr 38 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -341,7 +341,7 @@
 | [Marinheiro](https://open.spotify.com/track/1dg1QWMMuLsYNa9hVsoqzq) | [Leandro Da Silva](https://open.spotify.com/artist/5hCv8oMMxHb3FoHMGLN8Vx) | [Marinheiro](https://open.spotify.com/album/3slvgfbi9phUgZvu3WOKXA) | 2:11 | 2025-12-22 | 2026-05-02 |
 | [Marrakesh](https://open.spotify.com/track/6RsuW9DXFOVgdoPycLIKqS) | [JOHN ELLE](https://open.spotify.com/artist/1aRWWqUGxjgTSGQYHGZbot) | [Marrakesh](https://open.spotify.com/album/4JFwSZw2uFMTjI7eCtUJ4y) | 2:22 | 2025-06-13 |  |
 | [Matador](https://open.spotify.com/track/7u7uU8jZ9ZVjgy1SZTBTMh) | [Wakyin](https://open.spotify.com/artist/2CnJJITnV40TB5UtCRhwIZ), [Vibarco](https://open.spotify.com/artist/1oVPt5RzxWvUjZKCgnbQul) | [Matador](https://open.spotify.com/album/1s44DLWFcVvwNNfE45KKPr) | 3:27 | 2025-04-04 | 2025-07-14 |
-| [Matadora \- Radio Edit](https://open.spotify.com/track/0kIIoDPOIges2ZRGZIc6YC) | [Maahez](https://open.spotify.com/artist/3i6JYFidKoDsJTtRLMkPXZ), [Jenn Morel](https://open.spotify.com/artist/7iWWbIVw66I3hHVy9crw6a) | [Matadora \(Radio Edit\)](https://open.spotify.com/album/0Zmw4jLJ56fa35F7xzeizV) | 3:00 | 2024-05-03 |  |
+| [Matadora \- Radio Edit](https://open.spotify.com/track/0kIIoDPOIges2ZRGZIc6YC) | [Maahez](https://open.spotify.com/artist/3i6JYFidKoDsJTtRLMkPXZ), [Jenn Morel](https://open.spotify.com/artist/7iWWbIVw66I3hHVy9crw6a) | [Matadora \(Radio Edit\)](https://open.spotify.com/album/0Zmw4jLJ56fa35F7xzeizV) | 3:00 | 2024-05-03 | 2026-11-27 |
 | [Me Curas](https://open.spotify.com/track/3hdlKmLtOsU6Yo0N60xQEm) | [Sowel](https://open.spotify.com/artist/1D10cZKX9b5ZnLc6VdeC8h) | [Me Curas](https://open.spotify.com/album/3O4zxLKYEXBPhwSYWWio6Y) | 3:05 | 2025-10-03 | 2025-11-08 |
 | [Me Duele el Alma](https://open.spotify.com/track/3bfX8IHLcbE10AYhTMnMNi) | [Jesse Garcia](https://open.spotify.com/artist/6dTCOIQmUy1FlxNhITQhLn) | [Me Duele el Alma](https://open.spotify.com/album/7wvDYeqSsbcGI0mjE63Udy) | 5:03 | 2021-10-08 | 2023-11-11 |
 | [Me Encanta](https://open.spotify.com/track/1WpbVQ3hkP9QubhkNZv3AX) | [Justin Garcia](https://open.spotify.com/artist/1M8O4b6jTq2K2iJxrDXG5x) | [Me Encanta EP](https://open.spotify.com/album/4qhHc5YdH3BpkqOh9Q8iob) | 3:00 | 2026-05-08 | 2026-07-18 |
@@ -469,6 +469,7 @@
 | [Ritmo](https://open.spotify.com/track/4FHXsehfIbyPCJLP7fCnIF) | [Raffa Fl](https://open.spotify.com/artist/0j4dGWeyGGE4GvrAzdZIZ5) | [Ritmo](https://open.spotify.com/album/40DTjrBkgfSD4pb1CnlCgl) | 3:03 | 2021-10-08 | 2026-11-13 |
 | [Ritmo](https://open.spotify.com/track/6cl8QDkk4dwykg7XwXvNET) | [Raffa Fl](https://open.spotify.com/artist/0j4dGWeyGGE4GvrAzdZIZ5) | [Ritmo](https://open.spotify.com/album/5kzBtWUO1HftW3QAdiUs0t) | 3:03 | 2021-10-08 | 2022-07-29 |
 | [Ritmo 305](https://open.spotify.com/track/7M8EtNKLCdCEqPs1vwqHvE) | [Melé](https://open.spotify.com/artist/6EZO7Baz0SIFskWTO1GHqX), [Thomas Garcia](https://open.spotify.com/artist/0pOf0CQbzWVo2rgrH9h0Rq) | [Ritmo 305](https://open.spotify.com/album/51YCaYg8W5r9aVolOc8Mk5) | 3:35 | 2024-05-03 | 2024-09-07 |
+| [Ritmo Latino](https://open.spotify.com/track/67iv5HEkEi1mSGRT0wq5aG) | [Andruss](https://open.spotify.com/artist/6HZwb7Zbnvfo8u1sst4QrI), [JEZZ](https://open.spotify.com/artist/69ykEd4Td9xKH3e94ZwrYR) | [Ritmo Latino](https://open.spotify.com/album/1mOzhzbH67fJVclpu9v0Ri) | 2:57 | 2026-11-27 |  |
 | [Ritmo Sabroso](https://open.spotify.com/track/1Xd97xsTJQE2qd2zonWPPX) | [Tom & Collins](https://open.spotify.com/artist/1XU5MjR4kex9BGyY4UMtta) | [Ritmo Sabroso](https://open.spotify.com/album/5d8zfJKzslUkDKVDd7g8Pm) | 2:34 | 2026-03-13 |  |
 | [Rompe La Pista](https://open.spotify.com/track/56LTUVMz5yoRg6ydjNBVK3) | [Lucky Guess](https://open.spotify.com/artist/0gBcXRfO4AlJXZ901E9vs0), [Kamikaze Kid](https://open.spotify.com/artist/2Je7Ani04CKlMltyGtMDXa), [DOUBLE B](https://open.spotify.com/artist/6Vk7KR5AfsEVkUxBst60j0) | [Rompe La Pista](https://open.spotify.com/album/5TVFpcWCn2tEgEN71w5E6f) | 2:31 | 2025-08-22 | 2025-09-06 |
 | [Rompe La Pista](https://open.spotify.com/track/7vxpNe9wFP6tZgAAXP3yiV) | [Ochok](https://open.spotify.com/artist/2KQMohuyZZYmlwb4y4AsdX), [Rose Caviar](https://open.spotify.com/artist/3ftJx73iaBwm27kPQt0qSY) | [Rompe La Pista](https://open.spotify.com/album/2aHtOvNPE5gFOTdmFUVlkP) | 3:21 | 2025-08-22 | 2025-09-13 |

@@ -4,7 +4,7 @@
 
 > Piano music for fall vibes and autumnal moods.
 
-575 songs - 1 day 0 hr 58 min
+578 songs - 1 day 1 hr 6 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -50,6 +50,7 @@
 | [Auric](https://open.spotify.com/track/6mJKi4iA4F95S2fw4py4Tj) | [Andrea Neroli](https://open.spotify.com/artist/3JrPnL4GFXXCAe09g8QdnO) | [Auric](https://open.spotify.com/album/6NHUYkQzuPcxp3BkHo4sgd) | 2:25 | 2026-09-25 |  |
 | [automne](https://open.spotify.com/track/148TgfnMm3rIu632bSYUk9) | [Ethan Élgar](https://open.spotify.com/artist/1LXDaNnoNOqOQwoPDViJRQ) | [automne](https://open.spotify.com/album/64kqrsnhnRaQ4bGSBpXnh5) | 2:28 | 2024-10-15 |  |
 | [Automne](https://open.spotify.com/track/4q0kdtrDe5YiYEQCHsfDlZ) | [George Agate](https://open.spotify.com/artist/6ttrQpo8aOzfGeIBUAwEAO) | [Automne](https://open.spotify.com/album/6KWLiS8BWwwXZMtzO6Kfwv) | 2:26 | 2024-11-12 |  |
+| [Autumn Light](https://open.spotify.com/track/2f4iM1p1kYVj6NDmkMCR5e) | [Nathaniel Veymont](https://open.spotify.com/artist/3BTAVkflKTBeaaQTFjAtCW) | [Autumn Light](https://open.spotify.com/album/23jR0E8SUEwizFsE9UemGm) | 2:24 | 2026-11-27 |  |
 | [Autumn Song](https://open.spotify.com/track/3mnjKgDoy992Im3V7ZY6Ua) | [Emile Valadon](https://open.spotify.com/artist/3ZcrcpwVpdp0nHKwf2l8eS) | [Autumn Song](https://open.spotify.com/album/0PeA2VpJHT7VwBQaoAwmUw) | 2:21 | 2026-10-23 |  |
 | [Autumn Song](https://open.spotify.com/track/5D1S7lI0guR6YcGcKjtNbq) | [Emmanuel Sapphire](https://open.spotify.com/artist/1Xk9H6dztBzvOCUfFUaxRQ) | [Autumn Song](https://open.spotify.com/album/3wWlrBCF10tWs73IQIUnJA) | 2:30 | 2023-11-08 |  |
 | [Avalanche](https://open.spotify.com/track/1kQFxgqG3KcKErQlvH66lz) | [Lucién](https://open.spotify.com/artist/76OnsMFi0V8EsscskTGEch) | [Avalanche](https://open.spotify.com/album/0VG2I88bspS6L3rgcTC3Dm) | 2:16 | 2023-03-10 | 2024-04-04 |
@@ -122,6 +123,7 @@
 | [Déroutant](https://open.spotify.com/track/0KS4fyufVM7bNkyTKnL07p) | [Riks Vollis](https://open.spotify.com/artist/1ZBvM6NuWuoDZJW6upjjhF) | [Déroutant](https://open.spotify.com/album/4YsTa45DGzHfCodlJGE3X2) | 2:34 | 2023-03-10 | 2024-10-16 |
 | [Désir](https://open.spotify.com/track/3yeIp7ZvFx2WGhsdPqIj8Z) | [Valerie Renaud](https://open.spotify.com/artist/1GgQvtLPuHNOXTFtsUO7Lq) | [Désir](https://open.spotify.com/album/6ebN9IykUukkxB4bdMxs3t) | 2:43 | 2023-03-10 |  |
 | [Early Leaves](https://open.spotify.com/track/4bpVLsb6dKtyquPjDD8HON) | [ODELIO](https://open.spotify.com/artist/69WozQ1x904JxonDiYM4ax) | [Early Leaves](https://open.spotify.com/album/4yAnGDIDngp2PfhyuoJ7lK) | 2:19 | 2026-08-28 |  |
+| [Effulgence Side](https://open.spotify.com/track/2gfUC4tCltM6PYDElRu3E6) | [Verdicia](https://open.spotify.com/artist/4X45Wd9FJSbyAqDFqzmDeb) | [Effulgence Side](https://open.spotify.com/album/5WddDBHyj8ZYpHK5oYDaLl) | 2:43 | 2026-11-27 |  |
 | [Egy másik nap](https://open.spotify.com/track/28UjsaXCQ8GO4WrphLTN8s) | [Bodor Vencel](https://open.spotify.com/artist/2XFPANK6NB66NDXFkLqfIF) | [Egy másik nap](https://open.spotify.com/album/6pC07HHN5ieqRIqYCKEQSO) | 2:08 | 2023-03-10 | 2025-11-06 |
 | [Elegie](https://open.spotify.com/track/5qowE02tRUQqFf3uTC8tgs) | [Kiara Leonard](https://open.spotify.com/artist/0fAevrRhdDPOCXbd7FYR8P) | [Elegie](https://open.spotify.com/album/4CabDs8KoDjqfOUFTgDnAu) | 2:49 | 2023-10-16 |  |
 | [Elegy](https://open.spotify.com/track/1LCHQYCiPmLpHQIFIscS6t) | [Lake Isabel](https://open.spotify.com/artist/1O7IHNwUuOSOnMIS1ueGEJ) | [Elegy](https://open.spotify.com/album/6hFLPWugg3eMOnVhSbxq1K) | 3:43 | 2023-03-10 | 2023-10-11 |
@@ -352,6 +354,7 @@
 | [Once when I was young](https://open.spotify.com/track/4FRPWTwl40uOHMslTL7fGa) | [Justus Rümenapp](https://open.spotify.com/artist/5ReWt14yNNEEllVZddhEDl) | [Once when I was young](https://open.spotify.com/album/4EpZkFkz3jGxSFAq7exAeH) | 2:01 | 2023-03-10 | 2025-08-13 |
 | [One Step After Another](https://open.spotify.com/track/1zMF82eiy28XdnIpQeZc5t) | [Vuelto Ciego](https://open.spotify.com/artist/2aGcZFlseymIvZzsg8H4yl) | [One Step After Another](https://open.spotify.com/album/2UNtxSpZBHe97fM79W5QzG) | 2:06 | 2023-03-10 | 2025-11-06 |
 | [Onironautas](https://open.spotify.com/track/6s76KH2PyYupeKvcz6hRgV) | [Lara Di Umbra](https://open.spotify.com/artist/26Js1EtYSgTosRfHYbEpZG) | [Onironautas](https://open.spotify.com/album/51UJxYKsEZqK7qtTHj2NBy) | 3:10 | 2023-03-10 | 2024-04-10 |
+| [Only the Rain Knows](https://open.spotify.com/track/58Fond0Q1ro18WsMJoD1hJ) | [Riku Arai](https://open.spotify.com/artist/464yjGDhosPoKFLRX5vm28) | [Only the Rain Knows](https://open.spotify.com/album/5RHdJ2M1P0LF4PJlpEoCMY) | 3:09 | 2026-11-27 |  |
 | [Open Arms](https://open.spotify.com/track/30rZgjh8JUIu7DHdxWbaaZ) | [Carin Florie](https://open.spotify.com/artist/3C44BudashQHdoz23fsob9) | [Open Arms](https://open.spotify.com/album/0YkswIVwAsMXqvrZdxZ2sS) | 2:16 | 2023-03-10 | 2024-03-26 |
 | [Open Heart](https://open.spotify.com/track/5pS1PFojz8exelbAvqH8Wq) | [Yao Chen](https://open.spotify.com/artist/1dWCw84QGvLRebWigUZvyJ) | [Open Heart](https://open.spotify.com/album/6KqwdEQSVFX3SkaT6hrcJd) | 3:53 | 2023-03-10 | 2024-03-26 |
 | [Open Window](https://open.spotify.com/track/3OBNyirkkJ5olw2qoLrOxg) | [Aurelian Juno](https://open.spotify.com/artist/0clWZsJkYSrFdmUkQygfiQ) | [Open Window](https://open.spotify.com/album/3YiONYPqiN8RuWTgGY3wBE) | 2:26 | 2025-12-17 |  |

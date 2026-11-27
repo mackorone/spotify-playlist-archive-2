@@ -1,6 +1,6 @@
 {
   "description": "Tallando, bailando y cantando. ",
-  "num_followers": 412556,
+  "num_followers": 412705,
   "original_name": "Canciones para lavar",
   "owner": {
     "name": "Spotify",
@@ -123,18 +123,18 @@
     {
       "added_at": "2026-09-21 17:58:20",
       "album": {
-        "name": "Todo tuyo",
-        "url": "https://open.spotify.com/album/6EGXXDM0tEb4mTuC4ofMei"
+        "name": "Entrega De Amor",
+        "url": "https://open.spotify.com/album/5RskNC4hvSZfi1b2k1tFPw"
       },
       "artists": [
         {
-          "name": "Pesado",
-          "url": "https://open.spotify.com/artist/4BwiodzEp9Hwes5HeFjMVK"
+          "name": "Los \u00c1ngeles Azules",
+          "url": "https://open.spotify.com/artist/0ZCO8oVkMj897cKgFH7fRW"
         }
       ],
-      "duration_ms": 235906,
-      "name": "Loco",
-      "url": "https://open.spotify.com/track/0uCuoqJ3uvSTU8I3Vtvnfu"
+      "duration_ms": 176560,
+      "name": "Entrega De Amor",
+      "url": "https://open.spotify.com/track/2SNP0sm56HwUvZh7bL66pi"
     },
     {
       "added_at": "2026-09-21 17:58:20",
@@ -155,18 +155,18 @@
     {
       "added_at": "2026-09-21 17:58:20",
       "album": {
-        "name": "Entrega De Amor",
-        "url": "https://open.spotify.com/album/5RskNC4hvSZfi1b2k1tFPw"
+        "name": "Todo tuyo",
+        "url": "https://open.spotify.com/album/6EGXXDM0tEb4mTuC4ofMei"
       },
       "artists": [
         {
-          "name": "Los \u00c1ngeles Azules",
-          "url": "https://open.spotify.com/artist/0ZCO8oVkMj897cKgFH7fRW"
+          "name": "Pesado",
+          "url": "https://open.spotify.com/artist/4BwiodzEp9Hwes5HeFjMVK"
         }
       ],
-      "duration_ms": 176560,
-      "name": "Entrega De Amor",
-      "url": "https://open.spotify.com/track/2SNP0sm56HwUvZh7bL66pi"
+      "duration_ms": 235906,
+      "name": "Loco",
+      "url": "https://open.spotify.com/track/0uCuoqJ3uvSTU8I3Vtvnfu"
     },
     {
       "added_at": "2026-09-21 17:58:20",
@@ -331,22 +331,6 @@
     {
       "added_at": "2026-09-21 17:58:20",
       "album": {
-        "name": "Celoso",
-        "url": "https://open.spotify.com/album/0IrCscdgJQiDQLQjYhKMdV"
-      },
-      "artists": [
-        {
-          "name": "Grupo Toppaz De Reynaldo Flores",
-          "url": "https://open.spotify.com/artist/4W9DRj47G1VNujHs8GqndY"
-        }
-      ],
-      "duration_ms": 168720,
-      "name": "Celoso",
-      "url": "https://open.spotify.com/track/0NZtpFRzI4ZygqISV7fTtD"
-    },
-    {
-      "added_at": "2026-09-21 17:58:20",
-      "album": {
         "name": "Volver\u00e9 A Conquistarte",
         "url": "https://open.spotify.com/album/691ZR6kaZeK4JS4tQGPuQf"
       },
@@ -363,6 +347,22 @@
       "duration_ms": 236533,
       "name": "Pero Te Vas A Arrepentir",
       "url": "https://open.spotify.com/track/7fUuC299Gjpe7gkW3pBbZp"
+    },
+    {
+      "added_at": "2026-09-21 17:58:20",
+      "album": {
+        "name": "Celoso",
+        "url": "https://open.spotify.com/album/0IrCscdgJQiDQLQjYhKMdV"
+      },
+      "artists": [
+        {
+          "name": "Grupo Toppaz De Reynaldo Flores",
+          "url": "https://open.spotify.com/artist/4W9DRj47G1VNujHs8GqndY"
+        }
+      ],
+      "duration_ms": 168720,
+      "name": "Celoso",
+      "url": "https://open.spotify.com/track/0NZtpFRzI4ZygqISV7fTtD"
     },
     {
       "added_at": "2026-09-21 17:58:20",
@@ -415,6 +415,26 @@
     {
       "added_at": "2026-09-21 17:58:20",
       "album": {
+        "name": "Cuando No Estas Conmigo",
+        "url": "https://open.spotify.com/album/0rpNenvRSpG0ILgEFZSvym"
+      },
+      "artists": [
+        {
+          "name": "Tony Aguirre",
+          "url": "https://open.spotify.com/artist/6twEaJ9RPRYiCmWapjG8xh"
+        },
+        {
+          "name": "Su Majestad La Brissa",
+          "url": "https://open.spotify.com/artist/7a3iMWZsFMqrVItxwFVo5L"
+        }
+      ],
+      "duration_ms": 201367,
+      "name": "Cuando No Estas Conmigo",
+      "url": "https://open.spotify.com/track/70jP2lO4kyktgLKQjE62Ak"
+    },
+    {
+      "added_at": "2026-09-21 17:58:20",
+      "album": {
         "name": "Y Seguimos Con Duranguense",
         "url": "https://open.spotify.com/album/3amg00222tTaGeh10Xc2kR"
       },
@@ -427,22 +447,6 @@
       "duration_ms": 166426,
       "name": "Si La Quieres",
       "url": "https://open.spotify.com/track/5uhtYs2t9NiemfPfwHjslo"
-    },
-    {
-      "added_at": "2026-09-21 17:58:20",
-      "album": {
-        "name": "En Tiempo De Amor",
-        "url": "https://open.spotify.com/album/6oSejW0PK0YiKXj5YPm1tl"
-      },
-      "artists": [
-        {
-          "name": "Maelo Ruiz",
-          "url": "https://open.spotify.com/artist/3HyrDGPLI0c9Rd8luuO0zw"
-        }
-      ],
-      "duration_ms": 290706,
-      "name": "Si Volvieras A Mi",
-      "url": "https://open.spotify.com/track/7FntdQdzMcHcD4QhItlq9s"
     },
     {
       "added_at": "2026-09-21 17:58:20",
@@ -463,22 +467,18 @@
     {
       "added_at": "2026-09-21 17:58:20",
       "album": {
-        "name": "Cuando No Estas Conmigo",
-        "url": "https://open.spotify.com/album/0rpNenvRSpG0ILgEFZSvym"
+        "name": "En Tiempo De Amor",
+        "url": "https://open.spotify.com/album/6oSejW0PK0YiKXj5YPm1tl"
       },
       "artists": [
         {
-          "name": "Tony Aguirre",
-          "url": "https://open.spotify.com/artist/6twEaJ9RPRYiCmWapjG8xh"
-        },
-        {
-          "name": "Su Majestad La Brissa",
-          "url": "https://open.spotify.com/artist/7a3iMWZsFMqrVItxwFVo5L"
+          "name": "Maelo Ruiz",
+          "url": "https://open.spotify.com/artist/3HyrDGPLI0c9Rd8luuO0zw"
         }
       ],
-      "duration_ms": 201367,
-      "name": "Cuando No Estas Conmigo",
-      "url": "https://open.spotify.com/track/70jP2lO4kyktgLKQjE62Ak"
+      "duration_ms": 290706,
+      "name": "Si Volvieras A Mi",
+      "url": "https://open.spotify.com/track/7FntdQdzMcHcD4QhItlq9s"
     },
     {
       "added_at": "2026-09-21 17:58:20",
@@ -587,22 +587,6 @@
     {
       "added_at": "2026-09-21 17:58:20",
       "album": {
-        "name": "24/7",
-        "url": "https://open.spotify.com/album/352LrVMlDficyblK9e7Olr"
-      },
-      "artists": [
-        {
-          "name": "De Parranda",
-          "url": "https://open.spotify.com/artist/0OTHm6AFLxgeTm0gHNOuWi"
-        }
-      ],
-      "duration_ms": 210932,
-      "name": "24/7",
-      "url": "https://open.spotify.com/track/02hdaX3rWzdjZL6uqBZNhG"
-    },
-    {
-      "added_at": "2026-09-21 17:58:20",
-      "album": {
         "name": "Coraz\u00f3n",
         "url": "https://open.spotify.com/album/401GeD9PATUU1PELNOD2MY"
       },
@@ -615,6 +599,22 @@
       "duration_ms": 197133,
       "name": "Vanidosa",
       "url": "https://open.spotify.com/track/4iN0LgZ4SwAIVJ7VRrsd27"
+    },
+    {
+      "added_at": "2026-09-21 17:58:20",
+      "album": {
+        "name": "24/7",
+        "url": "https://open.spotify.com/album/352LrVMlDficyblK9e7Olr"
+      },
+      "artists": [
+        {
+          "name": "De Parranda",
+          "url": "https://open.spotify.com/artist/0OTHm6AFLxgeTm0gHNOuWi"
+        }
+      ],
+      "duration_ms": 210932,
+      "name": "24/7",
+      "url": "https://open.spotify.com/track/02hdaX3rWzdjZL6uqBZNhG"
     },
     {
       "added_at": "2026-09-21 17:58:20",
@@ -667,22 +667,6 @@
     {
       "added_at": "2026-09-21 17:58:20",
       "album": {
-        "name": "Negra Ron y Velas",
-        "url": "https://open.spotify.com/album/2CN4H5EWZliNhozx62mnWD"
-      },
-      "artists": [
-        {
-          "name": "Morgan Blanco",
-          "url": "https://open.spotify.com/artist/3ff3ZIeqM9LA1R0aPul14w"
-        }
-      ],
-      "duration_ms": 276199,
-      "name": "Negra Ron y Velas",
-      "url": "https://open.spotify.com/track/4WhZLHyENNOqKk0HOjTZLI"
-    },
-    {
-      "added_at": "2026-09-21 17:58:20",
-      "album": {
         "name": "La Burbuja",
         "url": "https://open.spotify.com/album/4WEKmA2MnfexKkfthwKv6y"
       },
@@ -699,18 +683,18 @@
     {
       "added_at": "2026-09-21 17:58:20",
       "album": {
-        "name": "Ilusi\u00f3n y M\u00e1s Ilusi\u00f3n",
-        "url": "https://open.spotify.com/album/4mLoZZEfZ9TC9q5AmikXB9"
+        "name": "Negra Ron y Velas",
+        "url": "https://open.spotify.com/album/2CN4H5EWZliNhozx62mnWD"
       },
       "artists": [
         {
-          "name": "Cuerdas De Venezuela",
-          "url": "https://open.spotify.com/artist/3lmP34nf7TS7DuCpmcdUMy"
+          "name": "Morgan Blanco",
+          "url": "https://open.spotify.com/artist/3ff3ZIeqM9LA1R0aPul14w"
         }
       ],
-      "duration_ms": 177093,
-      "name": "Ilusi\u00f3n",
-      "url": "https://open.spotify.com/track/2PzXc0FEgMEi08IAUuSr8H"
+      "duration_ms": 276199,
+      "name": "Negra Ron y Velas",
+      "url": "https://open.spotify.com/track/4WhZLHyENNOqKk0HOjTZLI"
     },
     {
       "added_at": "2026-09-21 17:58:20",
@@ -727,6 +711,22 @@
       "duration_ms": 170960,
       "name": "Antes Muerta Que Sencilla",
       "url": "https://open.spotify.com/track/7tKDsV1gA7iVJHep2KZKOj"
+    },
+    {
+      "added_at": "2026-09-21 17:58:20",
+      "album": {
+        "name": "Ilusi\u00f3n y M\u00e1s Ilusi\u00f3n",
+        "url": "https://open.spotify.com/album/4mLoZZEfZ9TC9q5AmikXB9"
+      },
+      "artists": [
+        {
+          "name": "Cuerdas De Venezuela",
+          "url": "https://open.spotify.com/artist/3lmP34nf7TS7DuCpmcdUMy"
+        }
+      ],
+      "duration_ms": 177093,
+      "name": "Ilusi\u00f3n",
+      "url": "https://open.spotify.com/track/2PzXc0FEgMEi08IAUuSr8H"
     },
     {
       "added_at": "2026-09-21 17:58:20",
@@ -1231,8 +1231,8 @@
     {
       "added_at": "2026-09-21 17:58:20",
       "album": {
-        "name": "Morena",
-        "url": "https://open.spotify.com/album/523QDgDypNcjORHyfCuxdH"
+        "name": "Los Felinos",
+        "url": "https://open.spotify.com/album/5Ki8lDeDg86PikGgAiC2oQ"
       },
       "artists": [
         {
@@ -1240,9 +1240,9 @@
           "url": "https://open.spotify.com/artist/0QE0OwxiJZ9i51N8zIS1Yy"
         }
       ],
-      "duration_ms": 226417,
-      "name": "Morena",
-      "url": "https://open.spotify.com/track/2Ex6KBFe5oIelTpbAiPm64"
+      "duration_ms": 172942,
+      "name": "Lapiz Labial",
+      "url": "https://open.spotify.com/track/78fAwRGXgvQc63QWyueWkq"
     },
     {
       "added_at": "2026-09-21 17:58:20",
@@ -1311,8 +1311,8 @@
     {
       "added_at": "2026-09-21 17:58:20",
       "album": {
-        "name": "Los Felinos",
-        "url": "https://open.spotify.com/album/5Ki8lDeDg86PikGgAiC2oQ"
+        "name": "Morena",
+        "url": "https://open.spotify.com/album/523QDgDypNcjORHyfCuxdH"
       },
       "artists": [
         {
@@ -1320,9 +1320,9 @@
           "url": "https://open.spotify.com/artist/0QE0OwxiJZ9i51N8zIS1Yy"
         }
       ],
-      "duration_ms": 172942,
-      "name": "Lapiz Labial",
-      "url": "https://open.spotify.com/track/78fAwRGXgvQc63QWyueWkq"
+      "duration_ms": 226417,
+      "name": "Morena",
+      "url": "https://open.spotify.com/track/2Ex6KBFe5oIelTpbAiPm64"
     },
     {
       "added_at": "2026-09-21 17:58:20",
@@ -1519,6 +1519,22 @@
     {
       "added_at": "2026-09-21 17:58:20",
       "album": {
+        "name": "Sonido La Conga \u201cForever\u201d",
+        "url": "https://open.spotify.com/album/2BfYk0J2ezISWoivSLr7PK"
+      },
+      "artists": [
+        {
+          "name": "Organazacion Bohio",
+          "url": "https://open.spotify.com/artist/24jdSgtTMjoG2zUwv5qbYf"
+        }
+      ],
+      "duration_ms": 196573,
+      "name": "Embrujo De Cumbia",
+      "url": "https://open.spotify.com/track/3JmVaRxi2VpopAdImfnZLt"
+    },
+    {
+      "added_at": "2026-09-21 17:58:20",
+      "album": {
         "name": "Tesoros De Coleccion",
         "url": "https://open.spotify.com/album/0zinXPMSpU4hy0XRlSZtda"
       },
@@ -1535,18 +1551,18 @@
     {
       "added_at": "2026-09-21 17:58:20",
       "album": {
-        "name": "Sonido La Conga \u201cForever\u201d",
-        "url": "https://open.spotify.com/album/2BfYk0J2ezISWoivSLr7PK"
+        "name": "El Disco de Oro para Equipos de Sonido, Vol 1",
+        "url": "https://open.spotify.com/album/507MCqVlAqYU3vMxDqT5YT"
       },
       "artists": [
         {
-          "name": "Organazacion Bohio",
-          "url": "https://open.spotify.com/artist/24jdSgtTMjoG2zUwv5qbYf"
+          "name": "La Sonora Dinamita",
+          "url": "https://open.spotify.com/artist/13or1Wf6ipcvSIiurZATvw"
         }
       ],
-      "duration_ms": 196573,
-      "name": "Embrujo De Cumbia",
-      "url": "https://open.spotify.com/track/3JmVaRxi2VpopAdImfnZLt"
+      "duration_ms": 157115,
+      "name": "Cumbia de la Cadenita",
+      "url": "https://open.spotify.com/track/0s3rFFNwIf23TG4q3JTDbZ"
     },
     {
       "added_at": "2026-09-21 17:58:20",
@@ -1583,18 +1599,18 @@
     {
       "added_at": "2026-09-21 17:58:20",
       "album": {
-        "name": "El Disco de Oro para Equipos de Sonido, Vol 1",
-        "url": "https://open.spotify.com/album/507MCqVlAqYU3vMxDqT5YT"
+        "name": "Amor Vendido, Vol. 4",
+        "url": "https://open.spotify.com/album/7JJG7BywhJnVF9vMHKIk8T"
       },
       "artists": [
         {
-          "name": "La Sonora Dinamita",
-          "url": "https://open.spotify.com/artist/13or1Wf6ipcvSIiurZATvw"
+          "name": "Grupo Pegasso",
+          "url": "https://open.spotify.com/artist/00YglmekVqqlHbv8N8erfv"
         }
       ],
-      "duration_ms": 157115,
-      "name": "Cumbia de la Cadenita",
-      "url": "https://open.spotify.com/track/0s3rFFNwIf23TG4q3JTDbZ"
+      "duration_ms": 204669,
+      "name": "Hola Como Estas",
+      "url": "https://open.spotify.com/track/04iLS6kaGO7lrFGMI2C0fa"
     },
     {
       "added_at": "2026-09-21 17:58:20",
@@ -1611,22 +1627,6 @@
       "duration_ms": 221648,
       "name": "En Realidad",
       "url": "https://open.spotify.com/track/3BQTmcsZ9DNNJ1qkEraTBm"
-    },
-    {
-      "added_at": "2026-09-21 17:58:20",
-      "album": {
-        "name": "Amor Vendido, Vol. 4",
-        "url": "https://open.spotify.com/album/7JJG7BywhJnVF9vMHKIk8T"
-      },
-      "artists": [
-        {
-          "name": "Grupo Pegasso",
-          "url": "https://open.spotify.com/artist/00YglmekVqqlHbv8N8erfv"
-        }
-      ],
-      "duration_ms": 204669,
-      "name": "Hola Como Estas",
-      "url": "https://open.spotify.com/track/04iLS6kaGO7lrFGMI2C0fa"
     },
     {
       "added_at": "2026-09-21 17:58:20",

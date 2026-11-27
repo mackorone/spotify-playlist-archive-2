@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWViKwLyOBsJF.md) - [plain]
 
 > Traditional Christmas songs for a classic festive feeling.
 
-[Spotify](https://open.spotify.com/user/spotify) - 86,259 likes - 66 songs - 3 hr 1 min
+[Spotify](https://open.spotify.com/user/spotify) - 86,479 likes - 66 songs - 3 hr 1 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -13,17 +13,17 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWViKwLyOBsJF.md) - [plain]
 | 3 | [Mon Beau Sapin \- Oh Tannenbaum](https://open.spotify.com/track/2E15VoKkZSxvTRpjCBJVl6) | [Milad Greenland](https://open.spotify.com/artist/72SSLPJ7pQvCRIGGscVrnr) | [Mon Beau Sapin \(Oh Tannenbaum\)](https://open.spotify.com/album/362uVXR3Gm4wZqhbSpVeVH) | 2:00 |
 | 4 | [Once In Royal David's City](https://open.spotify.com/track/2kNTxjheVOeM89wpTPdUKk) | [Jerome Louis](https://open.spotify.com/artist/0PZxdzq1JhF2EQDjtvO5uJ) | [Once In Royal David's City](https://open.spotify.com/album/3dybyo3bdsFTx2SHgu5uIu) | 2:05 |
 | 5 | [Angels We Have Heard on High](https://open.spotify.com/track/0MFDDSZA2QumFI8DAj8ZHe) | [Aisen Voight](https://open.spotify.com/artist/6qP2qRYduH4bCfMcSMiglb) | [Angels We Have Heard on High](https://open.spotify.com/album/1Vo65jqLBxbaxKYZZ0rpJW) | 2:53 |
-| 6 | [This Christmas](https://open.spotify.com/track/1WORXpYBA13oJi2LwYwFy0) | [Léon Mignard](https://open.spotify.com/artist/1qwQOqXTSElUUKTCdwkfHL) | [This Christmas](https://open.spotify.com/album/2U2IkjxE2xsABKhkiRxVFQ) | 3:37 |
-| 7 | [The First Noel](https://open.spotify.com/track/08tg93375LQTUu883QMXXq) | [Samuel Wright](https://open.spotify.com/artist/10v374WJVYK1n7uMM6FNVm) | [The First Noel](https://open.spotify.com/album/2HHiWzSdQDH58Qn0IQWTDr) | 1:34 |
-| 8 | [O Holy Night](https://open.spotify.com/track/0gkH6iIgni3ekc4abIzk0C) | [Hidden Piano](https://open.spotify.com/artist/4kC7loyy2JK3tXtxLCyr4m) | [O Holy Night](https://open.spotify.com/album/62WMk6oYyZpHPtxwpi1cB5) | 2:16 |
-| 9 | [Angels of the Realm of Glory](https://open.spotify.com/track/608iWUJbqrBPmnHOm8KAjl) | [Merlin Willow](https://open.spotify.com/artist/5KjBTnxi0FvGCQYslA0T9N) | [Angels of the Realm of Glory](https://open.spotify.com/album/2juXfSADucR4whF57T6skl) | 2:49 |
-| 10 | [Joy To The World](https://open.spotify.com/track/1bo2hWSldusQTM7mm1rt2d) | [Santi Bordera](https://open.spotify.com/artist/5yG6YaEEVw1lyClOQ9yOzb) | [Joy To The World](https://open.spotify.com/album/6oR0ftYwivQJgSnRWvHeH0) | 2:25 |
-| 11 | [Sussex Carol](https://open.spotify.com/track/06BZXViD1v8tIkmGJ8I0nK) | [Wondrous Worship](https://open.spotify.com/artist/4ftWSzVbWsUMNak5sVUBMp) | [Sussex Carol](https://open.spotify.com/album/2sW2qUTU4ep7nzgI3kUQZg) | 2:54 |
-| 12 | [O Christmas Tree](https://open.spotify.com/track/53nT9zJdKWp8sxthVfIS5q) | [Svën Hansøn](https://open.spotify.com/artist/44cXVIX9M36dGmgj7kBdRE) | [O Christmas Tree](https://open.spotify.com/album/0ocXr3ElxP5Qb7AjgWOiFW) | 1:42 |
-| 13 | [I’ll be Home for Christmas](https://open.spotify.com/track/3fgfbXgk3bES6k9aS13sJg) | [Forrest St\. Marie](https://open.spotify.com/artist/1sN2yaH4cGJ4a951vNgdFR) | [I’ll be Home for Christmas](https://open.spotify.com/album/53FKMyhwJsxTe7FH7yMvIW) | 3:29 |
-| 14 | [The Holly and The Ivy](https://open.spotify.com/track/2lDnYeqB4nAIgXQ5riwjY3) | [Celtic Charm](https://open.spotify.com/artist/3GRwfeqk1Aep2RmOliU5ix) | [The Holly and The Ivy](https://open.spotify.com/album/4jeQzHh5roppGhrx1nYQGQ) | 3:00 |
-| 15 | [Good Christian Men Rejoice](https://open.spotify.com/track/5bF8hMRiuqF4dfnBT9gSbk) | [Light His Way](https://open.spotify.com/artist/2fRpXEF0tpwUBty1zyXDP7) | [Good Christian Men Rejoice](https://open.spotify.com/album/4VtHY3mP1QC9oEc2QMQQac) | 4:14 |
-| 16 | [Ding Dong Merrily on High](https://open.spotify.com/track/5vqMZbAU4yvKhZlZNBOGre) | [Teodor Seti](https://open.spotify.com/artist/26jqyiqSsIwsXWuz5hgctN) | [Ding Dong Merrily on High](https://open.spotify.com/album/28rlS1Z0VuczgX7HqlviJK) | 2:37 |
+| 6 | [The First Noel](https://open.spotify.com/track/08tg93375LQTUu883QMXXq) | [Samuel Wright](https://open.spotify.com/artist/10v374WJVYK1n7uMM6FNVm) | [The First Noel](https://open.spotify.com/album/2HHiWzSdQDH58Qn0IQWTDr) | 1:34 |
+| 7 | [O Holy Night](https://open.spotify.com/track/0gkH6iIgni3ekc4abIzk0C) | [Hidden Piano](https://open.spotify.com/artist/4kC7loyy2JK3tXtxLCyr4m) | [O Holy Night](https://open.spotify.com/album/62WMk6oYyZpHPtxwpi1cB5) | 2:16 |
+| 8 | [Angels of the Realm of Glory](https://open.spotify.com/track/608iWUJbqrBPmnHOm8KAjl) | [Merlin Willow](https://open.spotify.com/artist/5KjBTnxi0FvGCQYslA0T9N) | [Angels of the Realm of Glory](https://open.spotify.com/album/2juXfSADucR4whF57T6skl) | 2:49 |
+| 9 | [Joy To The World](https://open.spotify.com/track/1bo2hWSldusQTM7mm1rt2d) | [Santi Bordera](https://open.spotify.com/artist/5yG6YaEEVw1lyClOQ9yOzb) | [Joy To The World](https://open.spotify.com/album/6oR0ftYwivQJgSnRWvHeH0) | 2:25 |
+| 10 | [Sussex Carol](https://open.spotify.com/track/06BZXViD1v8tIkmGJ8I0nK) | [Wondrous Worship](https://open.spotify.com/artist/4ftWSzVbWsUMNak5sVUBMp) | [Sussex Carol](https://open.spotify.com/album/2sW2qUTU4ep7nzgI3kUQZg) | 2:54 |
+| 11 | [O Christmas Tree](https://open.spotify.com/track/53nT9zJdKWp8sxthVfIS5q) | [Svën Hansøn](https://open.spotify.com/artist/44cXVIX9M36dGmgj7kBdRE) | [O Christmas Tree](https://open.spotify.com/album/0ocXr3ElxP5Qb7AjgWOiFW) | 1:42 |
+| 12 | [I’ll be Home for Christmas](https://open.spotify.com/track/3fgfbXgk3bES6k9aS13sJg) | [Forrest St\. Marie](https://open.spotify.com/artist/1sN2yaH4cGJ4a951vNgdFR) | [I’ll be Home for Christmas](https://open.spotify.com/album/53FKMyhwJsxTe7FH7yMvIW) | 3:29 |
+| 13 | [The Holly and The Ivy](https://open.spotify.com/track/2lDnYeqB4nAIgXQ5riwjY3) | [Celtic Charm](https://open.spotify.com/artist/3GRwfeqk1Aep2RmOliU5ix) | [The Holly and The Ivy](https://open.spotify.com/album/4jeQzHh5roppGhrx1nYQGQ) | 3:00 |
+| 14 | [Good Christian Men Rejoice](https://open.spotify.com/track/5bF8hMRiuqF4dfnBT9gSbk) | [Light His Way](https://open.spotify.com/artist/2fRpXEF0tpwUBty1zyXDP7) | [Good Christian Men Rejoice](https://open.spotify.com/album/4VtHY3mP1QC9oEc2QMQQac) | 4:14 |
+| 15 | [Ding Dong Merrily on High](https://open.spotify.com/track/5vqMZbAU4yvKhZlZNBOGre) | [Teodor Seti](https://open.spotify.com/artist/26jqyiqSsIwsXWuz5hgctN) | [Ding Dong Merrily on High](https://open.spotify.com/album/28rlS1Z0VuczgX7HqlviJK) | 2:37 |
+| 16 | [This Christmas](https://open.spotify.com/track/1WORXpYBA13oJi2LwYwFy0) | [Léon Mignard](https://open.spotify.com/artist/1qwQOqXTSElUUKTCdwkfHL) | [This Christmas](https://open.spotify.com/album/2U2IkjxE2xsABKhkiRxVFQ) | 3:37 |
 | 17 | [Gathered By the Holly](https://open.spotify.com/track/2KrIc4hWgqEFO8GnPgjiFj) | [Mijongya](https://open.spotify.com/artist/7GPrD3dPYED5wENCMHirj7) | [Gathered By the Holly](https://open.spotify.com/album/1I0NYv8m3sFCFhV5dXgt1t) | 2:00 |
 | 18 | [Sans Day Carol](https://open.spotify.com/track/0MgmWPH6FK4xH6TEfDjsac) | [Sacred Keys](https://open.spotify.com/artist/5M6nB85ptAF8gjR6ivoJv7) | [The Joy of Christmas](https://open.spotify.com/album/4GxRbhZWUu5yFL9fr6IztU) | 2:08 |
 | 19 | [O Come, All Ye Faithful](https://open.spotify.com/track/0TtPfPGcVawHTlLI8ckF3f) | [Eternal Hands](https://open.spotify.com/artist/16eZQHN2Px0yh5pdPsEGvz) | [O Come, All Ye Faithful](https://open.spotify.com/album/6jAZnvcbyBJPHmpbxr4wGg) | 2:11 |
@@ -75,4 +75,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWViKwLyOBsJF.md) - [plain]
 | 65 | [Veni, veni Emmanuel \(Arr\. A\. Delmoni\)](https://open.spotify.com/track/2kMIPXDydaTNVdQFcWzYEF) | [Traditional](https://open.spotify.com/artist/1U5zgr455OGyIkLNXvDdrf), [Arturo Delmoni](https://open.spotify.com/artist/66ggVPZBWW6c7XFicO6lpv), [Alexander Romanul](https://open.spotify.com/artist/4PlVtpuMdsJFAN49f7Bxji), [Katherine Murdock](https://open.spotify.com/artist/5VBEOdleCWJQq05zXhuQzl), [Nathaniel Rosen](https://open.spotify.com/artist/27Uojc5MCLUmrCVZE3EL9O) | [A String Quartet Christmas](https://open.spotify.com/album/2PJKHy7JwR6vhlget6oZuU) | 2:22 |
 | 66 | [Let It Snow! Let It Snow! Let It Snow!](https://open.spotify.com/track/3vII7JHrjJvO03qPNVCPxS) | [Philip Grass](https://open.spotify.com/artist/1P6oBwSLIpnKBsIObVaIj1) | [Let It Snow! Let It Snow! Let It Snow!](https://open.spotify.com/album/2V6sj7alIbQBEcUtea5dsF) | 2:43 |
 
-Snapshot ID: `AAAAANp/42feC/4KbOnyVPY+wZFCBr+4`
+Snapshot ID: `AAAAAD10mG6iMoO7ZutmQgJlrNx1Zgqj`

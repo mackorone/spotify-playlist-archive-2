@@ -4,7 +4,7 @@
 
 > Tap it back or go for a spin with these uptempo tracks!
 
-1,508 songs - 3 day 10 hr 12 min
+1,509 songs - 3 day 10 hr 16 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -66,7 +66,7 @@
 | [All Nighter](https://open.spotify.com/track/7bqg7RANz4RaboN0Ga1Miq) | [Tiësto](https://open.spotify.com/artist/2o5jDhtHVPhrJdv3cEQ99Z) | [All Nighter](https://open.spotify.com/album/1cQUgdn5goiU3fbKc3aykV) | 2:14 | 2023-03-17 | 2023-06-29 |
 | [All On Me \(feat\. Zhu\)](https://open.spotify.com/track/5ad6HGAiatmKHXMI0OSodk) | [Tchami](https://open.spotify.com/artist/1KpCi9BOfviCVhmpI4G2sY), [ZHU](https://open.spotify.com/artist/28j8lBWDdDSHSSt5oPlsX2) | [Year Zero](https://open.spotify.com/album/6judl2YelDUdvExxZpUAvP) | 4:09 | 2020-11-03 | 2021-03-26 |
 | [All Or Nothing](https://open.spotify.com/track/2AcKLW30dJ03qXsGU3RehH) | [Topic](https://open.spotify.com/artist/0u6GtibW46tFX7koQ6uNJZ), [HRVY](https://open.spotify.com/artist/28y6CyJNkGNjJQKrlx4AmN) | [All Or Nothing](https://open.spotify.com/album/1RbpoiBzVURNZ86m1f32y5) | 2:27 | 2022-12-16 | 2024-07-13 |
-| [ALL OVER AGAIN](https://open.spotify.com/track/12pdzk71yPp6sxzWXOchIC) | [Roddy Lima](https://open.spotify.com/artist/0Bg1joLOL52mJS0kf0pIDx), [LUMI](https://open.spotify.com/artist/2GhZq7k05EWdvb4cS2RQG5) | [ALL OVER AGAIN](https://open.spotify.com/album/6IOcXv652Y2jDpFT8LLA6S) | 3:01 | 2026-07-24 |  |
+| [ALL OVER AGAIN](https://open.spotify.com/track/12pdzk71yPp6sxzWXOchIC) | [Roddy Lima](https://open.spotify.com/artist/0Bg1joLOL52mJS0kf0pIDx), [LUMI](https://open.spotify.com/artist/2GhZq7k05EWdvb4cS2RQG5) | [ALL OVER AGAIN](https://open.spotify.com/album/6IOcXv652Y2jDpFT8LLA6S) | 3:01 | 2026-07-24 | 2026-11-27 |
 | [All That I Can](https://open.spotify.com/track/2EtwxAprswAqDZ3uRq8pr8) | [ALPHA 9](https://open.spotify.com/artist/6ckI88Ggj8DPe0TNAAVkjn) | [All That I Can](https://open.spotify.com/album/0odjRQYZTwuSsDskgk3j3K) | 3:37 | 2020-09-21\* | 2021-02-20 |
 | [All the Ladies](https://open.spotify.com/track/4gH12KjwxV1h5z3Lq5OdJN) | [Fatboy Slim](https://open.spotify.com/artist/4Y7tXHSEejGu1vQ9bwDdXW), [Eats Everything](https://open.spotify.com/artist/4W991QdgKWX4TO864ypInA) | [All the Ladies](https://open.spotify.com/album/1w1UECYYfHeqLXGUuWR9Mg) | 4:07 | 2020-09-21\* | 2021-01-23 |
 | [ALL THE TIME](https://open.spotify.com/track/1V8eQfZ1zpcdA9ctIb6fY7) | [John Summit](https://open.spotify.com/artist/7kNqXtgeIwFtelmRjWv205), [The Chainsmokers](https://open.spotify.com/artist/69GGBxA162lTqCwzJG5jLp), [Ilsey](https://open.spotify.com/artist/2ZKzqJz3pPfWKVRgz9b39j) | [ALL THE TIME](https://open.spotify.com/album/6wDs2CP86hhNiDlySlMgZy) | 3:00 | 2026-03-27 |  |
@@ -901,6 +901,7 @@
 | [Not In Love \(feat\. LOWES\)](https://open.spotify.com/track/28MLM0VRhhcqtWzxsNLvwu) | [Franky Wah](https://open.spotify.com/artist/3IG3Ub4ra8AuSxCFDVkVco), [LOWES](https://open.spotify.com/artist/1mbybf2CrAiwWiznqA8R3g) | [Not In Love \(feat\. LOWES\)](https://open.spotify.com/album/6bPw3hRULbo1TP1718uPGo) | 3:43 | 2021-05-15 | 2021-09-18 |
 | [Nothing Hurts \(Afrojack Remix\)](https://open.spotify.com/track/58680i3qsAwKYecyD2zwgq) | [Minelli](https://open.spotify.com/artist/5T0j6On1EthT2QVNXh8vqc), [Afrojack](https://open.spotify.com/artist/4D75GcNG95ebPtNvoNVXhz) | [Nothing Hurts \(Afrojack Remix\)](https://open.spotify.com/album/4z7l1cSAwCcaDoaxXwNZ9x) | 3:06 | 2022-05-13 | 2022-07-29 |
 | [Nothing Matters \- Kapera Remix](https://open.spotify.com/track/182diZ20hXa9pRtRJv1vyJ) | [Mahalo](https://open.spotify.com/artist/1SeU8Y2rEUpEoeWmUCdQIR), [Kapera](https://open.spotify.com/artist/6pbownHQeZG6xwDSUEjewe) | [Nothing Matters \(Remixes\)](https://open.spotify.com/album/4jUmWgA0Y6GjeAnojjAxYC) | 3:18 | 2021-12-03 | 2022-03-12 |
+| [Notorious Thugs \(Solomun Remix\)](https://open.spotify.com/track/3MbTgMRqMf7vHMvegoyAjy) | [The Notorious B.I.G.](https://open.spotify.com/artist/5me0Irg2ANcsgc93uaYrpb), [Bone Thugs\-N\-Harmony](https://open.spotify.com/artist/5spEJXLwD1sKUdC2bnOHPg), [Solomun](https://open.spotify.com/artist/5wJK4kQAkVGjqM9x46KQOC) | [Notorious Thugs \(Solomun Remix\)](https://open.spotify.com/album/278H2vPwRurZocliiFluqy) | 3:56 | 2026-11-27 |  |
 | [NOW IT'S GONE](https://open.spotify.com/track/5v5yF1qIhHD1ptZoN8dxv7) | [IN PARALLEL](https://open.spotify.com/artist/6xaiGRpXAB9JdoSy3gzw4H) | [NOW IT'S GONE](https://open.spotify.com/album/3OgPt2ujG9tWWoltAU4lbo) | 2:23 | 2024-12-24 | 2025-11-04 |
 | [Nuclear Lethargy](https://open.spotify.com/track/1OibEvLxYUIkQyFekXqC5N) | [Lane 8](https://open.spotify.com/artist/27gtK7m9vYwCyJ04zz0kIb) | [Nuclear Lethargy](https://open.spotify.com/album/1IrOPaGt16r7H2TYbVH83c) | 5:44 | 2021-12-03 | 2022-04-23 |
 | [Numb](https://open.spotify.com/track/10xV5l9nhLvFpR8mqzs0bL) | [Marshmello](https://open.spotify.com/artist/64KEffDW9EtZ1y2vBYgq8T), [Khalid](https://open.spotify.com/artist/6LuN9FCkKOj5PcnpouEgny) | [Numb](https://open.spotify.com/album/3SBeYxkc3Ce7lanK0f3epk) | 2:35 | 2022-07-08 | 2024-11-23 |

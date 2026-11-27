@@ -4,7 +4,7 @@
 
 > Complex rhythms and mesmerizing loops\. Cover: Elephant Gym
 
-188 songs - 13 hr 3 min
+189 songs - 13 hr 7 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -63,7 +63,7 @@
 | [Drive Me Home](https://open.spotify.com/track/3AmBGjKYm9c2unI4HVKhEl) | [Orchards](https://open.spotify.com/artist/4XWU6kWmuSBJJ1QL0BV3NZ) | [Drive Me Home](https://open.spotify.com/album/0EHwLpLAugSESONgAX8qAl) | 3:18 | 2021-10-15 | 2022-05-21 |
 | [Echolocation](https://open.spotify.com/track/51Vs7KeraqZwfR5OQLuaeI) | [LITE](https://open.spotify.com/artist/0TF6B1cp2QZXLE0NjhTMT9) | [Installation](https://open.spotify.com/album/5ZDDJpw5rFAtHNnmGMqiaO) | 3:54 | 2021-10-15 |  |
 | [El Capitán](https://open.spotify.com/track/2qocldaWoDwzSPR4D1Dqpv) | [Yo Triceratop](https://open.spotify.com/artist/7APdZybMciE2luVovmsSmZ) | [Limerencia: Split](https://open.spotify.com/album/17k2pajUNOQUUoWSjFd4st) | 4:22 | 2021-10-15 |  |
-| [El Exilio de Godomar](https://open.spotify.com/track/0xTQOwPqhscDPtv8xTvOUc) | [Kinder](https://open.spotify.com/artist/6Pan5A16TZ1aKMIpnePAZ9) | [Migraciones](https://open.spotify.com/album/2qcpWhahuyWze2ZBgMs6Q1) | 4:09 | 2021-10-15 |  |
+| [El Exilio de Godomar](https://open.spotify.com/track/0xTQOwPqhscDPtv8xTvOUc) | [Kinder](https://open.spotify.com/artist/6Pan5A16TZ1aKMIpnePAZ9) | [Migraciones](https://open.spotify.com/album/2qcpWhahuyWze2ZBgMs6Q1) | 4:09 | 2021-10-15 | 2026-11-27 |
 | [El Hombre Pánico](https://open.spotify.com/track/0Wilr5Nh89RR5zhrd5UHXM) | [Austin TV](https://open.spotify.com/artist/5x0koyeJkLR4odx4gCD5lR) | [Caballeros del Albedrío](https://open.spotify.com/album/0BdAM5a8EHS92VtY6Qa4nz) | 2:18 | 2021-10-15 | 2026-04-01 |
 | [El Hombre Pánico](https://open.spotify.com/track/2BDSeuEMhUIhnGXBFY0h6n) | [Austin TV](https://open.spotify.com/artist/5x0koyeJkLR4odx4gCD5lR) | [Caballeros Del Albedrío](https://open.spotify.com/album/65bgZZDpNzCqEy2809zw1U) | 2:18 | 2024-01-19 | 2024-04-19 |
 | [El Sol Es un Holgazán](https://open.spotify.com/track/5m3QSbDsffb9ROpMlYZsGR) | [Corriendo](https://open.spotify.com/artist/1PL7VVHo2DOSgg3Ak6S29w) | [Abajo la Tarea](https://open.spotify.com/album/74s1lnDnhjzuDdK3LovTXs) | 2:21 | 2023-11-09 | 2024-04-04 |
@@ -126,6 +126,7 @@
 | [Never Meant](https://open.spotify.com/track/6kZqCqD1r08sJAQ1TjuEpM) | [American Football](https://open.spotify.com/artist/5FwydyGVcsQllnM4xM6jw4) | [American Football](https://open.spotify.com/album/70OkRXiiwdTCtZ9YiPBzPp) | 4:28 | 2022-05-20 | 2023-08-26 |
 | [Not To Follow](https://open.spotify.com/track/4BtSV1NPe5gFX24IwiAHVw) | [Thingy](https://open.spotify.com/artist/2yW7ALxCYqJMTBFLxGbs3g) | [Morbid Curiosity](https://open.spotify.com/album/4JlMkyYC15UyfYmTRSIw71) | 2:06 | 2021-10-15 |  |
 | [Novelesco](https://open.spotify.com/track/34EmVSEZKS6hrEVAVtGMdN) | [Defórmica](https://open.spotify.com/artist/2472MBj59UMXdRCn5zwbwF) | [Páramo](https://open.spotify.com/album/6dvTFKqd5icLCXWLL1NlNz) | 5:03 | 2021-10-15 |  |
+| [Nubes](https://open.spotify.com/track/4flzOCZlSWnFOxki9b9C92) | [Cataratas en Siberia](https://open.spotify.com/artist/6BU30hGWYhYs61mYBgNdUf) | [Nubes](https://open.spotify.com/album/11GibMHqgwFOqFNY4i70sL) | 3:44 | 2026-11-26 |  |
 | [Objets de Vertu](https://open.spotify.com/track/3ykYzbCnEmzzZfDrxSQQtK) | [The Omnific](https://open.spotify.com/artist/5yn8jrJH5Z5PaGFStNUvgR) | [Kismet](https://open.spotify.com/album/2wTmoV4HbOxx1l1a6nogAm) | 3:31 | 2025-06-05 |  |
 | [Open Closed Open](https://open.spotify.com/track/6DTCPf9Etdq5tPnU58mzGK) | [pennines](https://open.spotify.com/artist/2ngVUQofGnl0VfpvM0uE0y) | [First CD](https://open.spotify.com/album/1PMqOoj1Z3A4F6bOvHU20L) | 4:26 | 2025-06-05 |  |
 | [Papaya](https://open.spotify.com/track/3Mh2EkQ3vPleWVTXLo1phm) | [standards](https://open.spotify.com/artist/2CBsUDeW88bcOdccmTodCe) | [Yum !!](https://open.spotify.com/album/2tvYqqcIyY6fz3knjQ2fJx) | 3:08 | 2021-10-15 |  |

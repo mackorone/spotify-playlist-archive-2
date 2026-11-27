@@ -43213,6 +43213,32 @@
     },
     {
       "album": {
+        "name": "Vinobranie",
+        "url": "https://open.spotify.com/album/5AuE9JMkmZpxd3vlGVXtAM"
+      },
+      "artists": [
+        {
+          "name": "RODZIEWICZ",
+          "url": "https://open.spotify.com/artist/5aMBMdF7WEryC6MeooFHGy"
+        },
+        {
+          "name": "Q-Rek",
+          "url": "https://open.spotify.com/artist/0EmfgGnrre1O5hBa2hcDQE"
+        },
+        {
+          "name": "Jan Smoczy\u0144ski",
+          "url": "https://open.spotify.com/artist/0bAYXJlaDl6k1vgdPsp2ET"
+        }
+      ],
+      "date_added": "2026-11-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 356577,
+      "name": "Winobranie",
+      "url": "https://open.spotify.com/track/04xPrY3Q2oj5XMoRgY2NZU"
+    },
+    {
+      "album": {
         "name": "SOON",
         "url": "https://open.spotify.com/album/1MbRol1myet6rmdUeTYZf5"
       },

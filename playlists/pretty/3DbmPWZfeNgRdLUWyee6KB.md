@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/3DbmPWZfeNgRdLUWyee6KB.md) - [plain]
 
 > The best new indie music, indie folk &amp; rock discoveries\. Fresh songs for your daily chill, focus and road trips\. Featuring Noah Kahan, Phoebe Bridgers, Sam Fender and top emerging indie artists\. Updated daily with new releases — hit save to stay tuned!
 
-[Monnison](https://open.spotify.com/user/7c37cevjdgq8d2gvhiqat37ss) - 1,340 likes - 143 songs - 8 hr 37 min
+[Monnison](https://open.spotify.com/user/7c37cevjdgq8d2gvhiqat37ss) - 1,340 likes - 146 songs - 8 hr 47 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -151,5 +151,8 @@ pretty - [cumulative](/playlists/cumulative/3DbmPWZfeNgRdLUWyee6KB.md) - [plain]
 | 141 | [Keep Talking](https://open.spotify.com/track/5ntORZ2kCJhmf7BUUkewH6) | [Ashstone](https://open.spotify.com/artist/47hrCicuIVVFh4Z7dVNNUG) | [Keep Talking](https://open.spotify.com/album/3uAUaQHNI4Y3tBt5dNRqpd) | 3:33 |
 | 142 | [Always Thought You'd Stay](https://open.spotify.com/track/2U43ZcwqAvGcak7e9Upo3a) | [John Henderson](https://open.spotify.com/artist/15RnTvJc9hPCUuIjuFrl4n), [Lemonhead](https://open.spotify.com/artist/01eYzyZnS4aE2rwtJKBNcs) | [Always Thought You'd Stay](https://open.spotify.com/album/40z1zEOiy2rdXzJ5rM1QKM) | 3:57 |
 | 143 | [All along](https://open.spotify.com/track/5AE5jeBPyWDEKm8xVKeBr2) | [DOXAN](https://open.spotify.com/artist/5X246ObvluQlKKfjS2nZVJ) | [All along](https://open.spotify.com/album/7qx5BlEZz0ip8TK5hsNq4Z) | 4:04 |
+| 144 | [III\. no soy yo](https://open.spotify.com/track/5ouWhgyGIwFSFfpBPmHtmu) | [Alejandro Ce](https://open.spotify.com/artist/0tBlGwdY12ucQYS40xsRuw) | [III\. no soy yo](https://open.spotify.com/album/1KeO9RxE20hCIu15VAXlrL) | 3:31 |
+| 145 | [Sonho Lindo](https://open.spotify.com/track/5kQi7wsHNYnQNciTdiRzB8) | [Catarina Lima](https://open.spotify.com/artist/1plUTX12k80wjCxKW0chBc) | [Sonho Lindo](https://open.spotify.com/album/3gWapJG2ZnIejlEOTZeGUJ) | 3:26 |
+| 146 | [Amor de Temporada](https://open.spotify.com/track/0218Od2dRp3qtouZyJVvh7) | [Melany Cubero](https://open.spotify.com/artist/4OrIEJHh24oAbE1evJRR7c) | [Amor de Temporada](https://open.spotify.com/album/5SqqYQMKCGR9V8bniByeF1) | 2:49 |
 
-Snapshot ID: `AAAZ15HA4Ydu1Kgj/g+bC4HTgSEUxqCi`
+Snapshot ID: `AAAZ2rNpbu6dxSk+0f37L43WP990VcDV`

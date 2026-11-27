@@ -2,9 +2,9 @@
 
 ### [Deep House Session](https://open.spotify.com/playlist/37i9dQZF1DWXRzAsbxGrBZ)
 
-> Get revived with some of the best Deep House South Africa has to offer\. Cover: !Sooks
+> Get revived with some of the best Deep House South Africa has to offer\. Cover: beatsbyhand
 
-397 songs - 1 day 21 hr 5 min
+398 songs - 1 day 21 hr 11 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -285,7 +285,7 @@
 | [Red Lips Swaying Hips](https://open.spotify.com/track/7nKMiA8RYhSfdmsvcow86m) | [M.Patrick](https://open.spotify.com/artist/0E0Ox0tBXwr7PLrm6NqDmv) | [Red Lips Swaying Hips](https://open.spotify.com/album/3zHMR9Ut0Sak00i5N0P0tp) | 7:11 | 2024-05-16 | 2025-02-22 |
 | [Redemial Sounds Sessions \#001 \(Mixed by Buddynice\)](https://open.spotify.com/track/2Mk7kt5qF8ueIAmk2vAZff) | [Buddynice](https://open.spotify.com/artist/2xjvb56AjGc8c8WwkPfJgp) | [Redemial Sounds Sessions \#001 \(Mixed by Buddynice\)](https://open.spotify.com/album/23Okqx3zwsLYLggZDwUtQJ) | 1:04:10 | 2024-07-18 | 2025-02-28 |
 | [Reflections](https://open.spotify.com/track/7acjQDLMT1IiCLlazKTe4U) | [Alley SA](https://open.spotify.com/artist/1ScHe3PMvTSjbH6A0XYxoy) | [Reflections](https://open.spotify.com/album/2ZfibpJkXSN6n3Gtsb3Zzk) | 6:45 | 2022-09-14 | 2022-10-04 |
-| [Regret \(Him\)](https://open.spotify.com/track/6nsfGkiIpGXjAAXidsFF07) | [Shazmicsoul](https://open.spotify.com/artist/1J4VWFnc4Abj57kr4qI9wg), [Deep Essentials](https://open.spotify.com/artist/4GKBiT9eByOCqj0045uolO) | [Regret \(Him\)](https://open.spotify.com/album/7xC5n64o3xWDT9tMWBkEOd) | 6:08 | 2025-07-31 |  |
+| [Regret \(Him\)](https://open.spotify.com/track/6nsfGkiIpGXjAAXidsFF07) | [Shazmicsoul](https://open.spotify.com/artist/1J4VWFnc4Abj57kr4qI9wg), [Deep Essentials](https://open.spotify.com/artist/4GKBiT9eByOCqj0045uolO) | [Regret \(Him\)](https://open.spotify.com/album/7xC5n64o3xWDT9tMWBkEOd) | 6:08 | 2025-07-31 | 2026-11-27 |
 | [Ride On](https://open.spotify.com/track/5ULRtKkianhf4ZwRil0deT) | [Napsoul](https://open.spotify.com/artist/1pIWuGVZ2coQAT45RowsV9) | [The Wave](https://open.spotify.com/album/2CfySRmCFaQc2juBdtrCyc) | 6:31 | 2025-07-10 | 2025-08-08 |
 | [Risk It All \- Fish Go Deep Remix](https://open.spotify.com/track/5UyJhXAtFLDKTQGOSX6nEu) | [La Deep](https://open.spotify.com/artist/6dgkAAxmnQXJTQcRGY6y7a), [Sindiswa Vinqi](https://open.spotify.com/artist/65gdDAYl0mKHzTYwiQQQEu), [Fish Go Deep](https://open.spotify.com/artist/0fOlkKkWVb6gOtwUXL2i0y) | [Risk It All](https://open.spotify.com/album/4jz2aQxjHm2JF4bX6MWHlr) | 5:41 | 2025-07-17 | 2025-08-08 |
 | [Roots](https://open.spotify.com/track/3TbGj9hbpWLKJgvKGDATKf) | [Pierre Johnson](https://open.spotify.com/artist/2CUjvq6GOAGAMyN3zDyfXz) | [Roots](https://open.spotify.com/album/30x3AKPB2ObI21cIZwBvUK) | 5:04 | 2025-02-21 | 2025-07-18 |
@@ -394,6 +394,7 @@
 | [Winter Nights \- BlaQ Afro\-Kay Remix](https://open.spotify.com/track/0hOOaM11kAyfUnJgDGaD3T) | [Sitha](https://open.spotify.com/artist/44t9AevT07GOmWQ3cplcfM), [BlaQ Afro\-Kay](https://open.spotify.com/artist/5FMpvRvyyk5EUo26xIJ80E), [Laps Rsa](https://open.spotify.com/artist/46RRPn997jjhnUkheJxOXQ) | [Foniklab Records, Vol\. 2 \(Compiled By DysFonik\)](https://open.spotify.com/album/5TOcWrO7Z5tLpWxToReiT6) | 6:40 | 2022-09-29 | 2024-07-12 |
 | [With Time](https://open.spotify.com/track/49Hy25TIq1DPhTuo9yAeIM) | [Radic The Myth](https://open.spotify.com/artist/2AhzZj1zQODMRhXtf9S4gC) | [Album Sampler 02](https://open.spotify.com/album/2hmziKzFCb8HGoAVp8Srbu) | 6:56 | 2022-09-14 | 2022-10-02 |
 | [With You](https://open.spotify.com/track/63haVmKN5Arr9MgN1z6Qdw) | [Dj Burger](https://open.spotify.com/artist/0oVArDDqG7UfqZqwGskQVH), [Ryu Ken](https://open.spotify.com/artist/1rp6OXNShKdYKMug01rPlq), [Kali Mija](https://open.spotify.com/artist/6hMmznEAGabh8UiGkQIuvP) | [With You](https://open.spotify.com/album/3uMa6fwSZyAlRZ6y9mffiE) | 6:06 | 2022-09-29 | 2024-07-12 |
+| [WOBBLE](https://open.spotify.com/track/0ygcN2RkGvN44rBm20mZh2) | [beatsbyhand](https://open.spotify.com/artist/133w581YYo0NNLrK5pHAuZ) | [WOBBLE](https://open.spotify.com/album/1JrtpkTH5l2jVLwic9hGdu) | 6:42 | 2026-11-26 |  |
 | [Woza Moya](https://open.spotify.com/track/4bh1dLRnsawmxnKxalZuey) | [Artwork Sounds](https://open.spotify.com/artist/0OxQiJ0uuDuuQ3dqkIbjwR), [CocoSA](https://open.spotify.com/artist/0bLlqsMSB60BBRtsqcap0j), [Russell Zuma](https://open.spotify.com/artist/0juy2RagFC1qDPlMhEkepe) | [Woza Moya](https://open.spotify.com/album/6Id3huB80C8qnSWSSiCJPU) | 6:47 | 2022-11-10 | 2023-05-13 |
 | [Xelela Abazali](https://open.spotify.com/track/2URYteekU6AYCIuEYxHJXk) | [Deep Sen](https://open.spotify.com/artist/4Ld6Rt2l5Fmd2G39BeZeIv), [KingTalkzin](https://open.spotify.com/artist/4Wj3cC5wZc8XTXz1mn4bMa), [KnightSA](https://open.spotify.com/artist/0Zn2gTUEoVSwXsuZ3v2aoq), [Russell Zuma](https://open.spotify.com/artist/0juy2RagFC1qDPlMhEkepe) | [Xelela Abazali](https://open.spotify.com/album/3Ud3F9eyj8if4o7TSbtZHA) | 6:34 | 2022-09-14 | 2023-03-25 |
 | [Xigubu Xa Michelin](https://open.spotify.com/track/47Fd04NzSWeobKvJsbgqzb) | [Matumza](https://open.spotify.com/artist/1Bi9iXJte2D9jsvsUvYszF), [Top Dawg MH](https://open.spotify.com/artist/0KG8515sBkR4b2CtJH7Kay) | [Xigubu Xa Michelin](https://open.spotify.com/album/4wNjzYXujZ3XlnoezMAac3) | 7:51 | 2025-05-08 | 2025-05-16 |

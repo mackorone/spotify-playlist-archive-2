@@ -4,7 +4,7 @@
 
 > Quiet piano for hope and acceptance in times of hardship.
 
-296 songs - 12 hr 59 min
+297 songs - 13 hr 2 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -21,7 +21,7 @@
 | [Adam Leaves \- Second Half / Piano Version](https://open.spotify.com/track/0mw9N3Jc5D2EKvgDSMBjJN) | [Peter Gregson](https://open.spotify.com/artist/71tFaKKy6x1inyCFHjpzUE), [Kindt](https://open.spotify.com/artist/3UDsNhT6aApMOxQUrc95Bl) | [Piano Book](https://open.spotify.com/album/099nJibPYLG6UNgZtGFC6h) | 3:04 | 2022-09-12 |  |
 | [Afterward](https://open.spotify.com/track/36rECCINJIVw1m56KAeGyP) | [Lorin Peyo](https://open.spotify.com/artist/1gvxDQsvlrjtrW7FotD6GA) | [Afterward](https://open.spotify.com/album/5qrn9rrv0PyjHkQ32RsDAD) | 2:35 | 2026-08-28 |  |
 | [Aging](https://open.spotify.com/track/1Z3GPvWMC2jDt73HTHGsjD) | [Matteus Fortini](https://open.spotify.com/artist/6DSyvYPVE5NaaOO2La5RLb) | [Aging](https://open.spotify.com/album/0TyG2axjCVAsK2UXCHA6xg) | 2:19 | 2025-03-11 |  |
-| [Although](https://open.spotify.com/track/695BxK7VbbK6M4CRvtR5Sn) | [Jane Avril](https://open.spotify.com/artist/0j9LgX7QrQUORV9eICoHap) | [Although](https://open.spotify.com/album/03ATVAe2XY1b6rZ7OGbMhw) | 3:00 | 2022-08-03 |  |
+| [Although](https://open.spotify.com/track/695BxK7VbbK6M4CRvtR5Sn) | [Jane Avril](https://open.spotify.com/artist/0j9LgX7QrQUORV9eICoHap) | [Although](https://open.spotify.com/album/03ATVAe2XY1b6rZ7OGbMhw) | 3:00 | 2022-08-03 | 2026-11-27 |
 | [Anfractuous View](https://open.spotify.com/track/6TX02ODkwVEymt9Yzw4lUf) | [Tomasz Kraal](https://open.spotify.com/artist/1XJ3PChclslYOOvJ7fJRkJ) | [Anfractuous View](https://open.spotify.com/album/71vCCA6hOqaPYZw1Q7F4yq) | 3:09 | 2022-08-03 | 2026-05-09 |
 | [Another You](https://open.spotify.com/track/0EtAKEkG6bbdMUNGD6ZaJR) | [Emiliano Nucci](https://open.spotify.com/artist/4EuYecPOxU6sd7XQzkzYRp) | [Another You](https://open.spotify.com/album/2M8u3SmPYLE9aqTKC0WI6u) | 2:46 | 2025-09-15 | 2026-04-18 |
 | [Answer With Light](https://open.spotify.com/track/51bCmUlVILY4qBFkm2t0Km) | [Warble](https://open.spotify.com/artist/6c97PAHbxfwJuLjV7gpwUb) | [Answer With Light](https://open.spotify.com/album/73ONbpwmVtKFKWFPkPq2dE) | 2:21 | 2022-08-03 | 2026-11-20 |
@@ -49,6 +49,7 @@
 | [Candlelight](https://open.spotify.com/track/6aoi5DA6gXsCBMGKa9ZkLQ) | [Eddie Jenkins](https://open.spotify.com/artist/1Ca0zpwFtBqVCEQRKrrGiz) | [Candlelight](https://open.spotify.com/album/5jRPY0qmViLdSaLKjjZlX2) | 2:21 | 2022-10-24 | 2022-11-13 |
 | [Candlelight](https://open.spotify.com/track/7pUfoepuxnZzQZqqvrVJR3) | [Eddie Jenkins](https://open.spotify.com/artist/1Ca0zpwFtBqVCEQRKrrGiz) | [Quiet Time](https://open.spotify.com/album/5ZPxSsZCr5aueS8arp82eJ) | 2:21 | 2022-10-14 | 2024-04-19 |
 | [Carrer Figuera](https://open.spotify.com/track/54Twh2P3phC9d0XpU5Lsao) | [Wings for Louise](https://open.spotify.com/artist/1dGyneCVpOnWfd9eCPGeMj) | [Carrer Figuera](https://open.spotify.com/album/2eQDpvN1mPywvbfGFIzGOi) | 3:01 | 2022-08-03 |  |
+| [Chances](https://open.spotify.com/track/0hYTdvIOmd3UtFxkDeJYmC) | [Malmkvist](https://open.spotify.com/artist/1Po25zG3Yrda2a6il6VH8l) | [Chances](https://open.spotify.com/album/5vMFgQUxnvOuyZEpyEl5Ex) | 2:49 | 2026-11-27 |  |
 | [Childhood](https://open.spotify.com/track/2FcLmlED9nGB7gs4f8Bl5Z) | [GUIDO](https://open.spotify.com/artist/04epIWC7DF8bFAwQW6nLfp) | [Childhood](https://open.spotify.com/album/6T7usbM85uq4qV8KVxD8ZP) | 3:16 | 2023-01-26 | 2024-04-19 |
 | [Childhood](https://open.spotify.com/track/3h8VhGaMSwoQxsEFfRkmmb) | [GUIDO](https://open.spotify.com/artist/04epIWC7DF8bFAwQW6nLfp) | [Childhood](https://open.spotify.com/album/3kdviGLqB18F8XwwpSxVBB) | 3:16 | 2022-08-03 |  |
 | [Clear Air](https://open.spotify.com/track/1WmJtAYlrss3fI2jn5NF2R) | [Coralia del Villar](https://open.spotify.com/artist/2IJGrdQIdQyqJ40KID5MQ9) | [Clear Air](https://open.spotify.com/album/10mVsVqSOV0duq1RCxrUaW) | 1:37 | 2022-12-06 | 2025-04-09 |
@@ -240,7 +241,7 @@
 | [Solemnity](https://open.spotify.com/track/5SFneEGsmuyDQ7icV9q7QS) | [GÅEL](https://open.spotify.com/artist/3IDwktZCJFdN7oBKwLOZX5) | [Solemnity](https://open.spotify.com/album/1Rut9Kb0vybVZUie7TNH7N) | 2:44 | 2022-08-03 | 2024-09-03 |
 | [solitude](https://open.spotify.com/track/4PZob6mB5Tcf5JGRa6lq4n) | [Félix Frays](https://open.spotify.com/artist/0usPMjkhvwpAa45RWFao1p) | [solitude](https://open.spotify.com/album/4eQmlilKMCq0T87rRpA206) | 2:29 | 2025-09-15 |  |
 | [Solitude](https://open.spotify.com/track/5EaxoaMc2J9fq5zeQd1Nem) | [Ryuichi Sakamoto](https://open.spotify.com/artist/1tcgfoMTT1szjUeaikxRjA), [Vanessa Wagner](https://open.spotify.com/artist/5Dw4dHIo9XEpwPGFuTZFn0) | [Mirrored](https://open.spotify.com/album/0SsL5gEgRhjvYeX6aB3W0o) | 4:28 | 2022-12-06 | 2025-04-29 |
-| [Solstice](https://open.spotify.com/track/0YToMJJspEyWPAy3qR5IUH) | [Ed Chinaski](https://open.spotify.com/artist/1uiURs2L2yxv1vr5vGwbSt) | [Solstice](https://open.spotify.com/album/1gIRbswLCQphvIUNnjX61P) | 2:09 | 2022-12-21 |  |
+| [Solstice](https://open.spotify.com/track/0YToMJJspEyWPAy3qR5IUH) | [Ed Chinaski](https://open.spotify.com/artist/1uiURs2L2yxv1vr5vGwbSt) | [Solstice](https://open.spotify.com/album/1gIRbswLCQphvIUNnjX61P) | 2:09 | 2022-12-21 | 2026-11-27 |
 | [Son Kolo Vikon](https://open.spotify.com/track/0hYVdwqT4WOHNDeq7aiCkS) | [Natalia Tsupryk](https://open.spotify.com/artist/3u32k4tGe6y6GiYNBsi0DX) | [Son Kolo Vikon](https://open.spotify.com/album/540X3bGOuNshysD1DtMT2a) | 3:37 | 2024-04-03 | 2026-04-18 |
 | [Son Kolo Vikon](https://open.spotify.com/track/1pYesH9rsTnzEkRRhYk9Hn) | [Natalia Tsupryk](https://open.spotify.com/artist/3u32k4tGe6y6GiYNBsi0DX) | [When We Return to the Sun](https://open.spotify.com/album/2YYhlfUBBzGGsV18uztQgL) | 3:37 | 2023-09-26 | 2024-04-19 |
 | [Son Kolo Vikon](https://open.spotify.com/track/6HAismqcJ6zQplxVq0XEPO) | [Natalia Tsupryk](https://open.spotify.com/artist/3u32k4tGe6y6GiYNBsi0DX) | [When We Return to the Sun](https://open.spotify.com/album/1Zn4nlsuoEMfv07ydhkjUx) | 3:37 | 2022-12-06 | 2023-11-04 |

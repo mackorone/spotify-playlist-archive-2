@@ -4,7 +4,7 @@
 
 > Listen to the recent hits of Christian Rock\.  Cover: Adelitas Way
 
-333 songs - 21 hr 10 min
+335 songs - 21 hr 18 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -220,7 +220,7 @@
 | [Pls Snd Hlp](https://open.spotify.com/track/35WTnp0eA67s67qTJ7JUEu) | [Death Therapy](https://open.spotify.com/artist/2Prk8CqlCnhHCQ2nGK2kZo) | [Melancholy Machines](https://open.spotify.com/album/43yeYEvwskGrlzy2j4IDqz) | 4:15 | 2022-01-14 |  |
 | [Praise](https://open.spotify.com/track/0Gvf5ZI9U0sLdUR8pe97Yv) | [Seventh Day Slumber](https://open.spotify.com/artist/6kFLnclYFc3gzpNt13wim5) | [Praise](https://open.spotify.com/album/3hzXl64gTaHZPKkm3gpiAU) | 3:38 | 2026-02-14 | 2026-10-17 |
 | [Praise With Everything \- Live](https://open.spotify.com/track/1O3NkK3h81fmNyW40GpUof) | [Planetshakers](https://open.spotify.com/artist/5A0SFJQSdSjFHGcndiGT1s) | [Praise With Everything \(Live\)](https://open.spotify.com/album/38QL3vikchBG5Kl8fT7xvF) | 2:34 | 2025-07-11 |  |
-| [Pray For You](https://open.spotify.com/track/52NyGaMBUmFvahSs4PoAoN) | [Manafest](https://open.spotify.com/artist/4uOFEWy9mIcvQbr03IbPcL) | [Pray For You](https://open.spotify.com/album/0obF1MB6AblOu6vUii5VcY) | 2:56 | 2026-10-16 |  |
+| [Pray For You](https://open.spotify.com/track/52NyGaMBUmFvahSs4PoAoN) | [Manafest](https://open.spotify.com/artist/4uOFEWy9mIcvQbr03IbPcL) | [Pray For You](https://open.spotify.com/album/0obF1MB6AblOu6vUii5VcY) | 2:56 | 2026-10-16 | 2026-11-27 |
 | [Pressure](https://open.spotify.com/track/4MwDtHxtQw3IW1luonVIs0) | [Grace Graber](https://open.spotify.com/artist/5zKLAqfSLwj61spd5ereRK) | [Everything You Ever Wanted](https://open.spotify.com/album/4PL5z2EnY7YY93IP64v1zf) | 3:37 | 2025-10-24 | 2026-09-26 |
 | [Prison of One](https://open.spotify.com/track/6d8FAak29nu0pSizXs4u5i) | [Adelitas Way](https://open.spotify.com/artist/1ZjAT2nTrzDIXFfsQ2hWJk) | [Prison of One](https://open.spotify.com/album/3bnhlN2ZdpoKmpGZK5MU7E) | 3:48 | 2026-11-13 |  |
 | [Product Of Pressure \(feat\. Decyfer Down\)](https://open.spotify.com/track/28uK269ovKIXSlsmdm3Aq4) | [Set for the Fall](https://open.spotify.com/artist/770Es4dWiuiq9sNiAdmXTr), [Decyfer Down](https://open.spotify.com/artist/4C0vbj4LNsNUjH0Q9IFW3B) | [I Said What I Said](https://open.spotify.com/album/0ZEHk5W2UEnfHQisfGlwFj) | 3:34 | 2026-09-25 |  |
@@ -238,7 +238,7 @@
 | [Reflector](https://open.spotify.com/track/7F7QAh5F3apMmeHsLdtHLw) | [Jeremy Camp](https://open.spotify.com/artist/5wpEBloInversG3zp3CVAk) | [Reflector](https://open.spotify.com/album/3TnlH9dIjNEbjckdYFNbyy) | 2:59 | 2026-05-12 |  |
 | [Resurrecting Reasons \(feat\. Decypher Down\)](https://open.spotify.com/track/5havO3Edwyy7qn748NYcfY) | [Disciple](https://open.spotify.com/artist/4D9k73VomKTnVQ6ROnt8IO), [Decyfer Down](https://open.spotify.com/artist/4C0vbj4LNsNUjH0Q9IFW3B) | [Resurrecting Reasons](https://open.spotify.com/album/3wHVEf6FdPgn31OGAqeiCb) | 4:17 | 2025-03-28 | 2025-05-01 |
 | [Revival](https://open.spotify.com/track/30DoqK6rLbkFOXpJDzljBj) | [Glory in the Ruins](https://open.spotify.com/artist/6clJ1baTREjSAxrsec1bTo) | [Revival](https://open.spotify.com/album/5j3IED9rKSCzf7T2JgCU77) | 2:43 | 2025-10-24 | 2026-10-17 |
-| [Revivalist \(feat\. For Today\)](https://open.spotify.com/track/6lA54ruhRaZ9b6Y82S4M5C) | [Bloodlines](https://open.spotify.com/artist/3k68PbSm8ImpXNBKuhoC4s), [For Today](https://open.spotify.com/artist/3xvHWAD1Bz6vvVmVMPpZJs) | [Revivalist \(feat\. For Today\)](https://open.spotify.com/album/05gO4LETVmN5SYCYdZxcNo) | 3:38 | 2026-05-12 |  |
+| [Revivalist \(feat\. For Today\)](https://open.spotify.com/track/6lA54ruhRaZ9b6Y82S4M5C) | [Bloodlines](https://open.spotify.com/artist/3k68PbSm8ImpXNBKuhoC4s), [For Today](https://open.spotify.com/artist/3xvHWAD1Bz6vvVmVMPpZJs) | [Revivalist \(feat\. For Today\)](https://open.spotify.com/album/05gO4LETVmN5SYCYdZxcNo) | 3:38 | 2026-05-12 | 2026-11-27 |
 | [Rhyme of Time](https://open.spotify.com/track/7kZKoTw34dhxKWx2yZ65hn) | [Stryper](https://open.spotify.com/artist/6lE1ly8K8H7u8k2ej2plvv) | [When We Were Kings](https://open.spotify.com/album/5QDA6HSkfTo6VK2sidCHUZ) | 4:31 | 2024-11-01 | 2026-09-15 |
 | [Rise to the Call](https://open.spotify.com/track/4TVEUT6InpWqdUAXnsd4Uv) | [Stryper](https://open.spotify.com/artist/6lE1ly8K8H7u8k2ej2plvv) | [Rise to the Call](https://open.spotify.com/album/3v0BOWMnf9wrExM0vXl4xb) | 3:47 | 2022-10-29 | 2024-06-29 |
 | [Ritual](https://open.spotify.com/track/2HTiPSxXwOVJFyurZMMHqZ) | [HolyName](https://open.spotify.com/artist/70dru8oehK8CwnNzANx6CJ) | [Ritual](https://open.spotify.com/album/5idNq8cfWTXe89Gfymr1Hi) | 4:00 | 2025-11-07 | 2025-11-22 |
@@ -259,6 +259,7 @@
 | [Showtime \- Live](https://open.spotify.com/track/2JXVG3HKGQqgKF1a9XnjbE) | [Skillet](https://open.spotify.com/artist/49bzE5vRBRIota4qeHtQM8) | [Showtime \(Live\)](https://open.spotify.com/album/1aLb0v21t3iYfoEJKbGD4X) | 4:54 | 2025-09-26 | 2026-10-17 |
 | [SILENCE THE WORLD](https://open.spotify.com/track/01Pair9pvTuMRBcKzpwJ2P) | [Demon Hunter](https://open.spotify.com/artist/6f3a43i1MJZwdjEpV1M0oH), [Tom S\. Englund](https://open.spotify.com/artist/1JlSPIWzXu3HwBgealhTIk) | [SILENCE THE WORLD](https://open.spotify.com/album/7oEjybhppczzGPKjbV8sTw) | 7:13 | 2022-10-29 | 2024-06-29 |
 | [Sky Is Falling](https://open.spotify.com/track/6K6W4BZlJdmRWAyJkdVgxd) | [Seventh Day Slumber](https://open.spotify.com/artist/6kFLnclYFc3gzpNt13wim5) | [Sky Is Falling](https://open.spotify.com/album/5EfennornsN32G2PJtDopy) | 3:53 | 2021-05-28 | 2022-01-15 |
+| [Sleep Walker Awake](https://open.spotify.com/track/2oI6iMJJG7zjWecgf7NHMk) | [Manafest](https://open.spotify.com/artist/4uOFEWy9mIcvQbr03IbPcL), [Ri\-An](https://open.spotify.com/artist/0q8s2UD3GPKFfYuXWbvRVo) | [Sleep Walker Awake](https://open.spotify.com/album/4w3MOezgwOErk8HgszInzA) | 2:55 | 2026-11-27 |  |
 | [Sleight of Hand](https://open.spotify.com/track/4CuLObVhLWmiXjIRqo1kpy) | [War Of Ages](https://open.spotify.com/artist/4s407eN0H9FQyRMc1n3Spx) | [Sleight of Hand](https://open.spotify.com/album/4J7qDs39IrhORen418Vnt1) | 3:54 | 2022-01-14 | 2023-04-17 |
 | [Somebody Prayed For Me](https://open.spotify.com/track/2kAUqVkcNAtpvJsz4SabHB) | [Nina Hagen](https://open.spotify.com/artist/7xZHrltZh8zIRvjimgABvj) | [Somebody Prayed For Me](https://open.spotify.com/album/2JhIMSAnn399fFe7UttLKT) | 2:43 | 2025-12-12 | 2026-01-24 |
 | [Sometimes I Dream](https://open.spotify.com/track/1jNI2ktaQCKGsIvqxql9uy) | [Chase Wagner](https://open.spotify.com/artist/05pJ61Jqg42zcdFsCMdUDi) | [Sometimes I Dream](https://open.spotify.com/album/3SLiB3DUGnCs8xFjf6Hzbf) | 3:24 | 2024-08-30 | 2025-04-12 |
@@ -340,6 +341,7 @@
 | [Your Cross Is Everything](https://open.spotify.com/track/0ze66t6iOmallLyPADgeZ3) | [The Band JAREN](https://open.spotify.com/artist/41z8g885N9Yip6AGuV5TGX) | [Your Cross Is Everything](https://open.spotify.com/album/6HWTO02Y2LAPsPQ8vuaVXR) | 3:55 | 2024-11-01 | 2026-04-11 |
 | [Your Devil Is A Ghost](https://open.spotify.com/track/4zBVeBFp5MdOAFJPi2Tk31) | [Red](https://open.spotify.com/artist/01crEa9G3pNpXZ5m7wuHOk) | [Rated R](https://open.spotify.com/album/1SFJF2gfT4zm3NXG2rImYM) | 3:11 | 2024-06-28 | 2026-03-30 |
 | [Yours Again](https://open.spotify.com/track/57fh50SS5Igc0u6LuHuZHN) | [Red](https://open.spotify.com/artist/01crEa9G3pNpXZ5m7wuHOk) | [of Beauty and Rage](https://open.spotify.com/album/4Kn0DsnXrrWm4buuVNIyBJ) | 4:49 | 2021-05-28 | 2024-06-29 |
+| [Yours is the Kingdom \- Live at ENC Campus Conference](https://open.spotify.com/track/31KOMAW2hQknCCqBTDkfA2) | [AWAKE84](https://open.spotify.com/artist/0isNdx2FzHaUs3TnQFdGNg) | [WITNESS \(Live at ENC Campus Conference\)](https://open.spotify.com/album/6LxowgFCSO6pLYZKEqwooa) | 4:31 | 2026-11-27 |  |
 | [Yours Truly](https://open.spotify.com/track/0LfSlWOS4TXJHOBZ7fPiNy) | [Seventh Day Slumber](https://open.spotify.com/artist/6kFLnclYFc3gzpNt13wim5), [Magdalene Rose](https://open.spotify.com/artist/2FeTFqLD7rngYYCh2V4RyX) | [Fractured Paradise](https://open.spotify.com/album/4D78Ji3nKTl66eqgvWfNck) | 3:34 | 2024-06-28 | 2025-03-01 |
 
 \*This playlist was first scraped on 2021-12-28. Prior content cannot be recovered.

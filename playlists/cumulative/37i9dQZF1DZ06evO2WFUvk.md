@@ -4,7 +4,7 @@
 
 > This is Rodrigo Gonzalez\. The essential tracks, all in one playlist.
 
-43 songs - 2 hr 54 min
+45 songs - 3 hr 1 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -25,6 +25,7 @@
 | [El Feo](https://open.spotify.com/track/3l6pDQO0OfeHTeXzr6rTfn) | [Rodrigo Gonzalez](https://open.spotify.com/artist/511LiKYCkXD9SfHMQefuPM) | [Aventuras En el Defe](https://open.spotify.com/album/0YEo5rYkXvYJ8l2oJgJEed) | 5:51 | 2023-01-14 |  |
 | [Euphoria Under the Stars](https://open.spotify.com/track/6jVadFriXE41vSRDfGqwAL) | [Rodrigo Gonzalez](https://open.spotify.com/artist/511LiKYCkXD9SfHMQefuPM) | [Euphoria Under the Stars](https://open.spotify.com/album/2A6MjShDvMsZtRzFkD1p6x) | 2:08 | 2025-07-25 | 2026-02-12 |
 | [Get In \- Bass In A Box Remix](https://open.spotify.com/track/4K2nNErTVNliBxHld6yBJM) | [Mekane](https://open.spotify.com/artist/5D9jBfim9QHqi1yijIEDLx), [Rodrigo Gonzalez](https://open.spotify.com/artist/511LiKYCkXD9SfHMQefuPM) | [Get In](https://open.spotify.com/album/6yhTxkPv6HT28HS4k1hXef) | 6:30 | 2023-01-25 | 2025-02-16 |
+| [Golden Hours](https://open.spotify.com/track/2eTqW4HE1zcVuOSk6QFPTH) | [Rodrigo Gonzalez](https://open.spotify.com/artist/511LiKYCkXD9SfHMQefuPM) | [Golden Hours](https://open.spotify.com/album/11cARF6VJFiRL3GNzCeCdb) | 3:14 | 2026-11-27 |  |
 | [Green Sour Mints](https://open.spotify.com/track/4Yt2YK1WcIWkeomUHw95Sf) | [Rodrigo Gonzalez](https://open.spotify.com/artist/511LiKYCkXD9SfHMQefuPM) | [Green Sour Mints](https://open.spotify.com/album/7JxmGEMidHm4YZTPd8zMn9) | 3:51 | 2026-04-16 | 2026-04-18 |
 | [Huapanguero](https://open.spotify.com/track/6j8hjB5DiTxtq7W4MHFDeM) | [Rodrigo Gonzalez](https://open.spotify.com/artist/511LiKYCkXD9SfHMQefuPM) | [El Profeta Del Nopal](https://open.spotify.com/album/5jlpAuX1fjo6f3a5CN8LCt) | 4:10 | 2023-01-14 |  |
 | [Jonny Reb](https://open.spotify.com/track/6q34EYZnEPVHkY8RA9RpKi) | [Rodrigo Gonzalez](https://open.spotify.com/artist/511LiKYCkXD9SfHMQefuPM) | [Jonny Reb](https://open.spotify.com/album/4Bb4XWRs6akqaKglWK60v3) | 2:49 | 2026-02-16 | 2026-04-08 |
@@ -46,6 +47,7 @@
 | [Schlechte Tänzer](https://open.spotify.com/track/4S8YNk4NRGZDfxGqWSA4H5) | [Tarakany!](https://open.spotify.com/artist/3OZMcYBFNSr0ztFd82aJK9), [Rodrigo Gonzalez](https://open.spotify.com/artist/511LiKYCkXD9SfHMQefuPM) | [Naked Kings](https://open.spotify.com/album/5IBEszYRv4q4Ej1PVIRdSh) | 3:36 | 2026-04-25 | 2026-09-02 |
 | [Solares Baldíos](https://open.spotify.com/track/6D8LxaWbw8V8gPG5RFusMc) | [Rodrigo Gonzalez](https://open.spotify.com/artist/511LiKYCkXD9SfHMQefuPM) | [El Profeta Del Nopal](https://open.spotify.com/album/5jlpAuX1fjo6f3a5CN8LCt) | 4:26 | 2023-01-14 |  |
 | [Tiempo de Híbridos](https://open.spotify.com/track/4Hf8kMwW4SEAm256nL6gbL) | [Rodrigo Gonzalez](https://open.spotify.com/artist/511LiKYCkXD9SfHMQefuPM) | [El Profeta Del Nopal](https://open.spotify.com/album/5jlpAuX1fjo6f3a5CN8LCt) | 3:33 | 2023-01-14 |  |
+| [Till The Morning Comes](https://open.spotify.com/track/1BSipA4lrQIgMoHxKHngH3) | [Rodrigo Gonzalez](https://open.spotify.com/artist/511LiKYCkXD9SfHMQefuPM) | [Till The Morning Comes](https://open.spotify.com/album/0xd0xjiGdOcNtKs9cklvsJ) | 3:13 | 2026-11-27 |  |
 | [Together in the End](https://open.spotify.com/track/0pKvCo1G8Ym4m4RIQpctlo) | [Rodrigo Gonzalez](https://open.spotify.com/artist/511LiKYCkXD9SfHMQefuPM) | [Together in the End](https://open.spotify.com/album/6B0OmAkBSS3pl32vOoZNtW) | 4:07 | 2025-11-24 | 2026-03-29 |
 | [Vieja Ciudad de Hierro](https://open.spotify.com/track/7pQiufMiF96UFnhmqB43Lo) | [Rodrigo Gonzalez](https://open.spotify.com/artist/511LiKYCkXD9SfHMQefuPM) | [Hurbanistorias](https://open.spotify.com/album/1o8wNJhnLL493SfrM5McrY) | 3:08 | 2023-01-14 | 2026-05-28 |
 | [¿Por Que?](https://open.spotify.com/track/6tOoL5m17SSwwpilAsyfmD) | [Rodrigo Gonzalez](https://open.spotify.com/artist/511LiKYCkXD9SfHMQefuPM) | [No Estoy Loco](https://open.spotify.com/album/7iTLSVhwf8c3gSfuqhtKSq) | 2:34 | 2023-01-14 |  |

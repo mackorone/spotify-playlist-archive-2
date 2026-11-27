@@ -1,6 +1,6 @@
 {
   "description": "Modern southern rock swagger served neat. Cover: The Black Crowes",
-  "num_followers": 96327,
+  "num_followers": 96331,
   "original_name": "Southern Comfort",
   "owner": {
     "name": "Spotify",
@@ -1027,18 +1027,22 @@
     {
       "added_at": "2026-04-10 16:28:54",
       "album": {
-        "name": "15 Minute Smog Check",
-        "url": "https://open.spotify.com/album/14nl9oFin9cajYOmeWXggs"
+        "name": "Stare At The Sun",
+        "url": "https://open.spotify.com/album/3TWBQYucrIM6yQ0F3uzAZa"
       },
       "artists": [
         {
-          "name": "The Takes",
-          "url": "https://open.spotify.com/artist/22CxvQCHRWjDdy0nco4nch"
+          "name": "Duane Betts",
+          "url": "https://open.spotify.com/artist/0Hd5wMyas6F2k5kBNeBmnB"
+        },
+        {
+          "name": "Derek Trucks",
+          "url": "https://open.spotify.com/artist/1xJPYI7GXasA3ariMSftPq"
         }
       ],
-      "duration_ms": 234036,
-      "name": "15 Minute Smog Check",
-      "url": "https://open.spotify.com/track/1Xzrlwhd55VSnbMxuFYaLK"
+      "duration_ms": 272493,
+      "name": "Stare at the Sun",
+      "url": "https://open.spotify.com/track/291cAsS3pwo7l2iv89mS3x"
     },
     {
       "added_at": "2026-04-10 16:28:54",
@@ -1059,22 +1063,18 @@
     {
       "added_at": "2026-04-10 16:28:54",
       "album": {
-        "name": "Stare At The Sun",
-        "url": "https://open.spotify.com/album/3TWBQYucrIM6yQ0F3uzAZa"
+        "name": "15 Minute Smog Check",
+        "url": "https://open.spotify.com/album/14nl9oFin9cajYOmeWXggs"
       },
       "artists": [
         {
-          "name": "Duane Betts",
-          "url": "https://open.spotify.com/artist/0Hd5wMyas6F2k5kBNeBmnB"
-        },
-        {
-          "name": "Derek Trucks",
-          "url": "https://open.spotify.com/artist/1xJPYI7GXasA3ariMSftPq"
+          "name": "The Takes",
+          "url": "https://open.spotify.com/artist/22CxvQCHRWjDdy0nco4nch"
         }
       ],
-      "duration_ms": 272493,
-      "name": "Stare at the Sun",
-      "url": "https://open.spotify.com/track/291cAsS3pwo7l2iv89mS3x"
+      "duration_ms": 234036,
+      "name": "15 Minute Smog Check",
+      "url": "https://open.spotify.com/track/1Xzrlwhd55VSnbMxuFYaLK"
     },
     {
       "added_at": "2026-04-10 16:28:54",
@@ -1239,6 +1239,22 @@
     {
       "added_at": "2026-04-10 16:28:54",
       "album": {
+        "name": "No Simple Thing",
+        "url": "https://open.spotify.com/album/7m23UIStg6wDZJpjGRzQQV"
+      },
+      "artists": [
+        {
+          "name": "The Sheepdogs",
+          "url": "https://open.spotify.com/artist/4U33udokhmKATsu8UoqUEN"
+        }
+      ],
+      "duration_ms": 203042,
+      "name": "Rock and Roll (Ain't No Simple Thing)",
+      "url": "https://open.spotify.com/track/76kfV1gUWJ4wskDtiMfK36"
+    },
+    {
+      "added_at": "2026-04-10 16:28:54",
+      "album": {
         "name": "Get Rollin'",
         "url": "https://open.spotify.com/album/660c34OZzJ4gUd0rXe8ARp"
       },
@@ -1251,22 +1267,6 @@
       "duration_ms": 234848,
       "name": "High Time",
       "url": "https://open.spotify.com/track/37cUGI1BZADBtseJQJ4Nld"
-    },
-    {
-      "added_at": "2026-04-10 16:28:54",
-      "album": {
-        "name": "God's Gonna Cut You Down",
-        "url": "https://open.spotify.com/album/2vQG7LRc8QrNS57X5LhSYt"
-      },
-      "artists": [
-        {
-          "name": "The Native Howl",
-          "url": "https://open.spotify.com/artist/4mPuqkxTxwhEhYhpjKzvM4"
-        }
-      ],
-      "duration_ms": 210715,
-      "name": "God's Gonna Cut You Down",
-      "url": "https://open.spotify.com/track/40wrxy7MzdqNGbvHhRzzdb"
     }
   ],
   "unique_name": "Southern Comfort",

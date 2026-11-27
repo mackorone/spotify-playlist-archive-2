@@ -1684,7 +1684,7 @@
       ],
       "date_added": "2026-09-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-27",
       "duration_ms": 214087,
       "name": "anledningar",
       "url": "https://open.spotify.com/track/32UZ4g1g3fdiN7qm97s1Uk"
@@ -2292,7 +2292,7 @@
       ],
       "date_added": "2026-09-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-27",
       "duration_ms": 205533,
       "name": "Azalea",
       "url": "https://open.spotify.com/track/0Dkp8CfJx2xSEaIuX8F2hx"
@@ -2704,7 +2704,7 @@
       ],
       "date_added": "2026-09-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-27",
       "duration_ms": 170400,
       "name": "bad taste",
       "url": "https://open.spotify.com/track/3TDVbddsKv0TrYdnLdrZZs"
@@ -3782,6 +3782,28 @@
       "duration_ms": 179250,
       "name": "BLOND",
       "url": "https://open.spotify.com/track/33rnQxZL6yxSgvWFtBe3ci"
+    },
+    {
+      "album": {
+        "name": "BLOND (Deluxe)",
+        "url": "https://open.spotify.com/album/1yYr4zlLZdGb0vDrHcP2bL"
+      },
+      "artists": [
+        {
+          "name": "jalda",
+          "url": "https://open.spotify.com/artist/5qSesMOFsys9kvpVVOJnHa"
+        },
+        {
+          "name": "franz1",
+          "url": "https://open.spotify.com/artist/0puAw4gZrgsGHsRUfcC4kp"
+        }
+      ],
+      "date_added": "2026-11-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 164500,
+      "name": "BLOND - Remix",
+      "url": "https://open.spotify.com/track/0zd4IbnTonoUzdIY5MQtpT"
     },
     {
       "album": {
@@ -9926,7 +9948,7 @@
       ],
       "date_added": "2026-09-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-27",
       "duration_ms": 208293,
       "name": "Faller",
       "url": "https://open.spotify.com/track/5QSFJovHVBauZUTzFsf6cl"
@@ -11932,10 +11954,28 @@
       ],
       "date_added": "2026-09-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-27",
       "duration_ms": 168986,
       "name": "GET EVEN (feat. GIVEON)",
       "url": "https://open.spotify.com/track/3LdHQCpIe5HQKsimwG4izX"
+    },
+    {
+      "album": {
+        "name": "When we were angels",
+        "url": "https://open.spotify.com/album/56yNFzZEGCXTLjevXtWmjg"
+      },
+      "artists": [
+        {
+          "name": "MYKKE",
+          "url": "https://open.spotify.com/artist/5FVm9aRBMZMUKcpwhAhVqX"
+        }
+      ],
+      "date_added": "2026-11-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 215111,
+      "name": "Ghost (you would never leave me)",
+      "url": "https://open.spotify.com/track/0kydowVCusOs77F3XxyLTO"
     },
     {
       "album": {
@@ -17575,6 +17615,24 @@
     },
     {
       "album": {
+        "name": "Grand Theft Auto VI: The Album (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/2O7j5mKjiyJRLNUo4RZKzs"
+      },
+      "artists": [
+        {
+          "name": "Slayyyter",
+          "url": "https://open.spotify.com/artist/4QM5QCHicznALtX885CnZC"
+        }
+      ],
+      "date_added": "2026-11-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 205548,
+      "name": "internet $tar",
+      "url": "https://open.spotify.com/track/3damZUbfnwGhQKQYtukVyL"
+    },
+    {
+      "album": {
         "name": "Internet Girl",
         "url": "https://open.spotify.com/album/4yQ0HUnygkBjf33hvA71MF"
       },
@@ -19913,6 +19971,24 @@
     },
     {
       "album": {
+        "name": "Like a Dog",
+        "url": "https://open.spotify.com/album/3nclAHvS4wQIIwNbiFT4Hi"
+      },
+      "artists": [
+        {
+          "name": "Bella Kay",
+          "url": "https://open.spotify.com/artist/4Z8MrrKMBHMPa8d04Ivur8"
+        }
+      ],
+      "date_added": "2026-11-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 162681,
+      "name": "Like a Dog",
+      "url": "https://open.spotify.com/track/4uedQsQUuamDPlCRAct8jZ"
+    },
+    {
+      "album": {
         "name": "DISCOTECA",
         "url": "https://open.spotify.com/album/7zpj7DhnmXzAnw7w1wqePL"
       },
@@ -20124,6 +20200,24 @@
       "duration_ms": 187426,
       "name": "Ljus (Lights)",
       "url": "https://open.spotify.com/track/1aDQ4S5dXMgYQFrhCUMRUT"
+    },
+    {
+      "album": {
+        "name": "LMK",
+        "url": "https://open.spotify.com/album/0y21GSb2SpeyvUIsBrqF99"
+      },
+      "artists": [
+        {
+          "name": "Sam Ezeh",
+          "url": "https://open.spotify.com/artist/5Ys0Puc1F5jOw7EpmhMSTK"
+        }
+      ],
+      "date_added": "2026-11-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 217109,
+      "name": "LMK pt. 1",
+      "url": "https://open.spotify.com/track/2KCNu4YZ9X1IyQ3rNxx0nc"
     },
     {
       "album": {
@@ -23829,6 +23923,24 @@
     },
     {
       "album": {
+        "name": "My Moon My Man",
+        "url": "https://open.spotify.com/album/0ad1DSuEgQce3MSSI5CU9k"
+      },
+      "artists": [
+        {
+          "name": "FINNEAS",
+          "url": "https://open.spotify.com/artist/37M5pPGs6V1fchFJSgCguX"
+        }
+      ],
+      "date_added": "2026-11-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 202217,
+      "name": "My Moon My Man",
+      "url": "https://open.spotify.com/track/3VYSKGBdjbGC4owpHULCPe"
+    },
+    {
+      "album": {
         "name": "My Oh My (with Bebe Rexha & Tove Lo)",
         "url": "https://open.spotify.com/album/6L5PWde8zjpIa2C6SIjNv8"
       },
@@ -25018,6 +25130,24 @@
       "duration_ms": 216442,
       "name": "number one girl",
       "url": "https://open.spotify.com/track/02CrqOYzrJR8fYOffhvRZZ"
+    },
+    {
+      "album": {
+        "name": "Nyk\u00e4r od\u00f6dlig",
+        "url": "https://open.spotify.com/album/4Q0I2DbmOn78hn7DO3Fpnp"
+      },
+      "artists": [
+        {
+          "name": "LEIJA",
+          "url": "https://open.spotify.com/artist/27eyLceiNvYnGZoXeRBCyS"
+        }
+      ],
+      "date_added": "2026-11-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 197227,
+      "name": "Nyk\u00e4r od\u00f6dlig",
+      "url": "https://open.spotify.com/track/48suaBOQY8eHELWj4W2YyZ"
     },
     {
       "album": {
@@ -28536,6 +28666,24 @@
       "duration_ms": 205265,
       "name": "sad holiday",
       "url": "https://open.spotify.com/track/0HhpFdFNkXme5eIE5QKuQC"
+    },
+    {
+      "album": {
+        "name": "Sadie",
+        "url": "https://open.spotify.com/album/4xHGCV0zWDZQFLuIIpB3qI"
+      },
+      "artists": [
+        {
+          "name": "Anna Lille",
+          "url": "https://open.spotify.com/artist/4nwpfzpdL72UcfB0O3y6Gk"
+        }
+      ],
+      "date_added": "2026-11-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 258322,
+      "name": "Sadie",
+      "url": "https://open.spotify.com/track/129LuxW7FfJUnqUDlupMWJ"
     },
     {
       "album": {
@@ -36842,7 +36990,7 @@
       ],
       "date_added": "2026-09-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-27",
       "duration_ms": 175686,
       "name": "Vem du \u00e4n \u00e4r",
       "url": "https://open.spotify.com/track/1q0wUKp7z4PahhgYe1Db5P"

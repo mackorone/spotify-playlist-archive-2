@@ -1892,7 +1892,7 @@
       ],
       "date_added": "2026-11-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-27",
       "duration_ms": 125078,
       "name": "Be The One",
       "url": "https://open.spotify.com/track/7HcRDFPfKpiiixEvr1lT2X"
@@ -8808,6 +8808,28 @@
       "duration_ms": 185581,
       "name": "Higher",
       "url": "https://open.spotify.com/track/02c0NbxXc8b3TWxUObpNUt"
+    },
+    {
+      "album": {
+        "name": "Higher & Higher",
+        "url": "https://open.spotify.com/album/5hBwkAQQMt4DoeMr3BNeLf"
+      },
+      "artists": [
+        {
+          "name": "Nicky Romero",
+          "url": "https://open.spotify.com/artist/5ChF3i92IPZHduM7jN3dpg"
+        },
+        {
+          "name": "VIVID",
+          "url": "https://open.spotify.com/artist/3VcAPpkjFtd3Sj5fmqPQd1"
+        }
+      ],
+      "date_added": "2026-11-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 227368,
+      "name": "Higher & Higher",
+      "url": "https://open.spotify.com/track/5sgSB03amfBbeCWgmvI5xS"
     },
     {
       "album": {

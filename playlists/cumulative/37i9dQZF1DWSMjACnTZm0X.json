@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-07-19",
-  "description": "Top and emerging tracks from around the world inspired by the amapiano movement. Cover: <a href=\"https://open.spotify.com/artist/3ukrG1BmfEiuo0KDj8YTTS?si=ptujw_JxQqKkC0xBdre1Tw\">Teni</a> and <a href=\"https://open.spotify.com/artist/2hlmm7s2ICUX0LVIhVFlZQ?si=YHMYqWMfSU698gw1kt39mQ\">Gunna</a>",
+  "description": "Top and emerging tracks from around the world inspired by the amapiano movement. Cover: <a href=\"https://open.spotify.com/artist/2nGoKcLdXktxEXvMdTDsIT?si=78d40973cd174f9f\">Alikiba</a> and <a href=\"https://open.spotify.com/artist/5eYSqn4LCXLgIFYR4qOZ1k?si=101bebba3efa4d36\">TitoM</a>",
   "name": "Amapiano to the World",
   "tracks": [
     {
@@ -5360,7 +5360,7 @@
       ],
       "date_added": "2025-07-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-27",
       "duration_ms": 160134,
       "name": "Loyal",
       "url": "https://open.spotify.com/track/01pAPjpO2BBDAWG4yGs6uA"
@@ -6854,6 +6854,32 @@
       "duration_ms": 168421,
       "name": "Ojapiano",
       "url": "https://open.spotify.com/track/6WZVnqQ9OZRSGZmXyHHlV3"
+    },
+    {
+      "album": {
+        "name": "Oleh Oleh",
+        "url": "https://open.spotify.com/album/4ZghMIEalgSlor3gk32HUd"
+      },
+      "artists": [
+        {
+          "name": "Alikiba",
+          "url": "https://open.spotify.com/artist/2nGoKcLdXktxEXvMdTDsIT"
+        },
+        {
+          "name": "TitoM",
+          "url": "https://open.spotify.com/artist/5eYSqn4LCXLgIFYR4qOZ1k"
+        },
+        {
+          "name": "Maline Aura",
+          "url": "https://open.spotify.com/artist/1LcX3ZFNBeGKxkpfCIr4cP"
+        }
+      ],
+      "date_added": "2026-11-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 396916,
+      "name": "Oleh Oleh",
+      "url": "https://open.spotify.com/track/2MMOq6eWvbXdoSwXLSlve3"
     },
     {
       "album": {

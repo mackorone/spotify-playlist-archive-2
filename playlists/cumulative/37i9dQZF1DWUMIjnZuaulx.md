@@ -2,9 +2,9 @@
 
 ### [Spread the Gospel](https://open.spotify.com/playlist/37i9dQZF1DWUMIjnZuaulx)
 
-> Spread the Good News with the best Gospel songs of the moment\. Cover: Tye Tribbett
+> Spread the Good News with the best Gospel songs of the moment\. Cover: Marvin Sapp
 
-873 songs - 3 day 3 hr 26 min
+874 songs - 3 day 3 hr 32 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -145,6 +145,7 @@
 | [Dependable \(feat\. Darrel Walls & Chandler Moore\) \- Live Version](https://open.spotify.com/track/4ULea2qGmXZmKtoTlE4jpv) | [Travis Greene](https://open.spotify.com/artist/22JNV0JWTJkY1qzKJhxdRe), [Darrel Walls](https://open.spotify.com/artist/0yg32lKXa3MKNPxiue46WJ), [Chandler Moore](https://open.spotify.com/artist/6y7frW1RUq3XBBXbYowVpk) | [Dependable \(feat\. Darrel Walls & Chandler Moore\) \[Live Version\]](https://open.spotify.com/album/0SnHqwsdvfuCqLhQcuVxBU) | 7:49 | 2022-04-15 | 2022-08-06 |
 | [Deserve To Win](https://open.spotify.com/track/5ilxhQWaLCTgQ109JKacW8) | [Tamela Mann](https://open.spotify.com/artist/6ZyV955Ypf3JAKInn1a0dt) | [Live Breathe Fight](https://open.spotify.com/album/1dXJkxzfNm889xH7VTHUOT) | 4:22 | 2025-12-05 | 2026-05-09 |
 | [Did It Again \(feat\. Thomas & The Situation\)](https://open.spotify.com/track/67t6GzdwhJ0e99MoH9NjjK) | [Ruth La'Ontra](https://open.spotify.com/artist/6isNHmZDAF2RaxkVlxHmNq), [Thomas & The Situation](https://open.spotify.com/artist/3TV5i0jWmSSroHENVrPLiJ) | [Did It Again \(feat\. Thomas & The Situation\)](https://open.spotify.com/album/3tEcRHRF9ZopnnkloV29mM) | 4:17 | 2022-07-08 | 2023-07-15 |
+| [Dis One](https://open.spotify.com/track/3tmXmtN7u95t9aml3jh4oq) | [Sinach](https://open.spotify.com/artist/6hKHFC67DZJNw9tg1l0lIe) | [Dis One](https://open.spotify.com/album/6XoztUqwQmWcBYnzuoKRFH) | 5:50 | 2026-11-27 |  |
 | [Divine Time](https://open.spotify.com/track/7KbbymeevVUF5BCz1WvmxJ) | [Ryan Brockington](https://open.spotify.com/artist/4WFblFAFYMyumOvNYu7e2b) | [Divine Time](https://open.spotify.com/album/2UXsqyyOhaNUJhkiuvoCQb) | 2:32 | 2022-04-22 | 2023-03-25 |
 | [Do Better](https://open.spotify.com/track/3wrm4XxJmnuQ9pnt63eaa0) | [Fred Hammond](https://open.spotify.com/artist/2ndyVAdV9UqF1XjyTJt484) | [Do Better](https://open.spotify.com/album/2ovHQU7LjHhaoafFInagpI) | 3:54 | 2025-02-21 | 2025-11-22 |
 | [Do It Again](https://open.spotify.com/track/1rZf52WDp1eXc3AAI3hH0V) | [James Grear & Company](https://open.spotify.com/artist/77rAiNBZKJQ4A4nwJBiYqP), [Darrel Walls](https://open.spotify.com/artist/0yg32lKXa3MKNPxiue46WJ) | [Do It Again](https://open.spotify.com/album/0NkRxq0xYnwwohpanm4fTl) | 5:44 | 2024-08-16 | 2025-08-09 |
@@ -168,7 +169,7 @@
 | [Empowered 2 Impact](https://open.spotify.com/track/1IllKEACnf7TuHfjJiGnit) | [Strong Tower Church](https://open.spotify.com/artist/3qDZxE0fAVLrcb6NDWYd85), [Freddy Rodriguez](https://open.spotify.com/artist/2UpMh5qbBdfwKpQALaGPsD) | [“Waves” Fresh Wind New Waves](https://open.spotify.com/album/6K4hYZknIx3l7mxBXbAi4p) | 3:52 | 2022-02-18 | 2022-10-30 |
 | [Empty](https://open.spotify.com/track/6pxVg4hiauSl9KgLmEZ4qw) | [David Dam](https://open.spotify.com/artist/1vNw15c6UztXmCZTCwTPdc) | [SEASONS](https://open.spotify.com/album/1BmP4YuPhP9LlLywQBVHLy) | 5:06 | 2026-10-09 |  |
 | [Enough](https://open.spotify.com/track/1SPeUtWyImKQQ8LyeXEKI2) | [Chris Morgan](https://open.spotify.com/artist/40n0HESbOmwGQh401vtbWM) | [The Address](https://open.spotify.com/album/4F7TGXjAeJtpyiOxQuI5Sl) | 3:43 | 2026-08-14 |  |
-| [ENOUGH FOR ME](https://open.spotify.com/track/3d0LYyvQwDKG3h4R7dCZW3) | [Sinach](https://open.spotify.com/artist/6hKHFC67DZJNw9tg1l0lIe), [Sunmisola Agbebi](https://open.spotify.com/artist/7fJd7w897ouOZzDc6e3oyU) | [ENOUGH FOR ME](https://open.spotify.com/album/5P2RR6rOO8lTNvVxMObKmj) | 9:40 | 2026-01-23 |  |
+| [ENOUGH FOR ME](https://open.spotify.com/track/3d0LYyvQwDKG3h4R7dCZW3) | [Sinach](https://open.spotify.com/artist/6hKHFC67DZJNw9tg1l0lIe), [Sunmisola Agbebi](https://open.spotify.com/artist/7fJd7w897ouOZzDc6e3oyU) | [ENOUGH FOR ME](https://open.spotify.com/album/5P2RR6rOO8lTNvVxMObKmj) | 9:40 | 2026-01-23 | 2026-11-27 |
 | [Esé](https://open.spotify.com/track/27kSeZe95U7n14Jfv0jnb7) | [Limoblaze](https://open.spotify.com/artist/0liXA3xwx6pncxYQA30ahT) | [Esé](https://open.spotify.com/album/6t44fZYo3wngPz0MX7vOqH) | 3:14 | 2025-11-07 | 2026-09-19 |
 | [Even If](https://open.spotify.com/track/1CdGYditK1Cg4QJrOQ1Zch) | [Anthony Evans](https://open.spotify.com/artist/6qL5lCa1VbCzWiVgnj6QIV) | [Even If](https://open.spotify.com/album/7eOcKC8P9RRenLLRUWREJA) | 5:48 | 2023-09-22 | 2024-01-27 |
 | [Even If Extended Version](https://open.spotify.com/track/54Jo9jId9m4vcLhdW988ob) | [Anthony Evans](https://open.spotify.com/artist/6qL5lCa1VbCzWiVgnj6QIV), [Naomi Raine](https://open.spotify.com/artist/4rc8nzClXj7sUjvsHVg6AD) | [Even If Extended Version](https://open.spotify.com/album/6jyiAFxEifoKfwjBmcjVFU) | 9:27 | 2025-01-24 | 2025-05-17 |

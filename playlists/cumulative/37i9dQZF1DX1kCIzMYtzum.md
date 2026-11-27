@@ -4,7 +4,7 @@
 
 > Home is where the main stage is 💙💙 featuring Martin Garrix
 
-1,036 songs - 2 day 5 hr 26 min
+1,037 songs - 2 day 5 hr 30 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -88,7 +88,7 @@
 | [BANG BANG! \(My Neurodivergent Anthem\)](https://open.spotify.com/track/7tEV3l3E7YM4tNkBe6UiVY) | [Galantis](https://open.spotify.com/artist/4sTQVOfp9vEMCemLw50sbu) | [BANG BANG! \(My Neurodivergent Anthem\)](https://open.spotify.com/album/1xG4KabXFQ7qPyg90cHSZo) | 2:47 | 2023-06-23 | 2023-08-19 |
 | [Bangkok](https://open.spotify.com/track/3xd3KI4AV7gWis1uV7TFNW) | [Hardwell](https://open.spotify.com/artist/6BrvowZBreEkXzJQMpL174), [W&W](https://open.spotify.com/artist/2rTo8KIkBTFjQS7VvaKYQ4) | [Bangkok](https://open.spotify.com/album/3fYb7gdGcl7asbLEY63ti8) | 2:17 | 2026-08-21 | 2026-08-28 |
 | [Barbie Girl \- Tiësto Remix](https://open.spotify.com/track/4zPVMv84MMHehLNZYIS1Zv) | [Aqua](https://open.spotify.com/artist/6kBjAFKyd0he7LiA5GQ3Gz), [Tiësto](https://open.spotify.com/artist/2o5jDhtHVPhrJdv3cEQ99Z) | [Barbie Girl \(Tiësto Remix\)](https://open.spotify.com/album/61gisYckDdbgK42QoJEl6c) | 2:35 | 2023-06-09 | 2023-11-18 |
-| [Be The One](https://open.spotify.com/track/7HcRDFPfKpiiixEvr1lT2X) | [Cascada](https://open.spotify.com/artist/0N0d3kjwdY2h7UVuTdJGfp) | [Be The One](https://open.spotify.com/album/3sq96tyDm5asCaRnmUzGVc) | 2:05 | 2026-11-20 |  |
+| [Be The One](https://open.spotify.com/track/7HcRDFPfKpiiixEvr1lT2X) | [Cascada](https://open.spotify.com/artist/0N0d3kjwdY2h7UVuTdJGfp) | [Be The One](https://open.spotify.com/album/3sq96tyDm5asCaRnmUzGVc) | 2:05 | 2026-11-20 | 2026-11-27 |
 | [Beautiful](https://open.spotify.com/track/2WtnjG1E5UlADYOiiKwj5A) | [Omnia](https://open.spotify.com/artist/0XZkeCAlpiO5qcIlAJzZaA) | [Beautiful](https://open.spotify.com/album/7MrYNkRMcNYUenCfCBH3AT) | 3:26 | 2021-06-02 | 2022-07-06 |
 | [Beautiful \(with Joji\)](https://open.spotify.com/track/1vH3BkNnHqOpWA4jsmDEH2) | [Anyma](https://open.spotify.com/artist/4iBwchw0U0GZv5RfVYSMxN), [Joji](https://open.spotify.com/artist/3MZsBdqDrRTJihTHQrO6Dq) | [Beautiful \(with Joji\)](https://open.spotify.com/album/2CpahiICjXexEynp7scGe4) | 3:35 | 2026-04-03 |  |
 | [Beautiful Odyssey](https://open.spotify.com/track/5hiYBhGt4E9o5n2LycnAuh) | [YouNotUs](https://open.spotify.com/artist/67ghKnycRX6VM1xfqJSMlH), [Cascada](https://open.spotify.com/artist/0N0d3kjwdY2h7UVuTdJGfp) | [Beautiful Odyssey](https://open.spotify.com/album/15lETGtzNwgjUOHTzqbjDb) | 2:50 | 2025-08-01 | 2025-09-25 |
@@ -391,6 +391,7 @@
 | [High On Love](https://open.spotify.com/track/0K2VANgf1sgRsgJA3W205u) | [Armin van Buuren](https://open.spotify.com/artist/0SfsnGyD8FpIN4U4WCkBZ5), [Anne Gudrun](https://open.spotify.com/artist/4CjmulKe83Ymzhud7vD0i5) | [High On Love](https://open.spotify.com/album/1RS0vAX4YynNRKyxl7DoAw) | 2:56 | 2024-05-31 | 2024-06-29 |
 | [High Till Forever](https://open.spotify.com/track/7lBxFS2OfIyxj9QiiOxVZL) | [TELYKAST](https://open.spotify.com/artist/7vWC03wqXwUqjPON8hc1tz), [RYVM](https://open.spotify.com/artist/1WPEvpdkTpcT5R976cTAFJ) | [High Till Forever](https://open.spotify.com/album/1oivvyvT1mt2Bk1OI7HIdx) | 3:19 | 2026-10-16 |  |
 | [Higher](https://open.spotify.com/track/02c0NbxXc8b3TWxUObpNUt) | [Matisse & Sadko](https://open.spotify.com/artist/2QMCcKIPHnjQaPPgoEst88) | [Higher](https://open.spotify.com/album/3iRA5e1mvQoc4BrY8YdO8f) | 3:05 | 2025-11-07 | 2026-06-27 |
+| [Higher & Higher](https://open.spotify.com/track/5sgSB03amfBbeCWgmvI5xS) | [Nicky Romero](https://open.spotify.com/artist/5ChF3i92IPZHduM7jN3dpg), [VIVID](https://open.spotify.com/artist/3VcAPpkjFtd3Sj5fmqPQd1) | [Higher & Higher](https://open.spotify.com/album/5hBwkAQQMt4DoeMr3BNeLf) | 3:47 | 2026-11-27 |  |
 | [Higher Love](https://open.spotify.com/track/6oJ6le65B3SEqPwMRNXWjY) | [Kygo](https://open.spotify.com/artist/23fqKkggKUBHNkbKtXEls4), [Whitney Houston](https://open.spotify.com/artist/6XpaIBNiVzIetEPCWDvAFP) | [Higher Love](https://open.spotify.com/album/4wquJImu8RtyEuDtIAsfcE) | 3:48 | 2022-03-18 | 2022-08-06 |
 | [Higher Off The Ground](https://open.spotify.com/track/2rDmxVMmUbozYlSDzktwMo) | [Steve Aoki](https://open.spotify.com/artist/77AiFEVeAVj2ORpC85QVJs), [Nicky Romero](https://open.spotify.com/artist/5ChF3i92IPZHduM7jN3dpg) | [Higher Off The Ground](https://open.spotify.com/album/3MN43OG1psXq1XMGDCGF4a) | 3:05 | 2025-11-07 | 2025-12-06 |
 | [Higher Power \- Tiësto Remix](https://open.spotify.com/track/04zCkONaIDxTx2gDjV1yCd) | [Coldplay](https://open.spotify.com/artist/4gzpq5DPGxSnKTe4SA8HAU), [Tiësto](https://open.spotify.com/artist/2o5jDhtHVPhrJdv3cEQ99Z) | [Higher Power \(Tiësto Remix\)](https://open.spotify.com/album/31uapL5Q92IadPRWycdPKK) | 3:49 | 2021-06-04 | 2022-04-21 |

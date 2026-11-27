@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaTFABWvWVT6.md) - [plain]
 
 > Bring the festival vibes to wherever you are with these dance bangers.
 
-[Spotify](https://open.spotify.com/user/spotify) - 90,480 likes - 80 songs - 4 hr 24 min
+[Spotify](https://open.spotify.com/user/spotify) - 90,479 likes - 80 songs - 4 hr 24 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -75,8 +75,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaTFABWvWVT6.md) - [plain]
 | 65 | [My Humps](https://open.spotify.com/track/3BbD2sqk7P7Rc9V0KF9o4s) | [Joshwa](https://open.spotify.com/artist/1PzAgFVk9v8cxn9flrqrv5), [Lee Foss](https://open.spotify.com/artist/44T94QQEc60Jf7kqGY6Rip) | [My Humps](https://open.spotify.com/album/4mnGRL7lErjyRJsoCwgJT4) | 3:06 |
 | 66 | [Leave A Message \(feat\. Poppy Wright & Trick Shady\)](https://open.spotify.com/track/6pMfUwTWJfhnqfjW020rNH) | [Josh Baker](https://open.spotify.com/artist/4zf8Awb8y1X9qwL4oiVRd6), [Poppy Wright](https://open.spotify.com/artist/7av0AJ5afMwtx5Ay0Nv7qS), [Trick Shady](https://open.spotify.com/artist/0Bkjl4B4omnidK7jdcIsxC) | [Leave A Message \(feat\. Poppy Wright & Trick Shady\)](https://open.spotify.com/album/2wyxDi2v4RwUsJifLQx75r) | 3:07 |
 | 67 | [After The Rain](https://open.spotify.com/track/0rclr5nd7iwF4rJTYRLlJq) | [Overmono](https://open.spotify.com/artist/01PnN11ovfen6xUOHfNpn3) | [Pure Devotion](https://open.spotify.com/album/0DS9OxHBt693YOs3TDira2) | 3:15 |
-| 68 | [Check One, Check Two](https://open.spotify.com/track/1rUv2sOHvgzBERMXW40YgD) | [Luke Dean](https://open.spotify.com/artist/2BhXOZ96YbOdXz8F6HVUw4), [Locky](https://open.spotify.com/artist/5ZwpRQ2GBK8tsd6x45Ngwa), [Jme](https://open.spotify.com/artist/4IZLJdhHCqAvT4pjn8TLH5) | [Check One, Check Two](https://open.spotify.com/album/2WxsN8ePby4cmpSPMAH6He) | 2:36 |
-| 69 | [Jealous](https://open.spotify.com/track/5Ir9mqfAUnXkSkXHF1yvM0) | [Mochakk](https://open.spotify.com/artist/0rTh1tAdrEbdKZBTiiAQSo) | [Jealous](https://open.spotify.com/album/4Kka250AUtEvx1XUuoNHfZ) | 4:16 |
+| 68 | [Jealous](https://open.spotify.com/track/5Ir9mqfAUnXkSkXHF1yvM0) | [Mochakk](https://open.spotify.com/artist/0rTh1tAdrEbdKZBTiiAQSo) | [Jealous](https://open.spotify.com/album/4Kka250AUtEvx1XUuoNHfZ) | 4:16 |
+| 69 | [Check One, Check Two](https://open.spotify.com/track/1rUv2sOHvgzBERMXW40YgD) | [Luke Dean](https://open.spotify.com/artist/2BhXOZ96YbOdXz8F6HVUw4), [Locky](https://open.spotify.com/artist/5ZwpRQ2GBK8tsd6x45Ngwa), [Jme](https://open.spotify.com/artist/4IZLJdhHCqAvT4pjn8TLH5) | [Check One, Check Two](https://open.spotify.com/album/2WxsN8ePby4cmpSPMAH6He) | 2:36 |
 | 70 | [WTF](https://open.spotify.com/track/18rxxU3lErSMcyoYIXR4k1) | [SCRIPT](https://open.spotify.com/artist/4CvDmoy5yE6L4hdBOHg1sz) | [WTF](https://open.spotify.com/album/6Qs4FQFYCMfLnuYEFATGEo) | 3:13 |
 | 71 | [Fine Night](https://open.spotify.com/track/5BoA4ehsprvSzDBuFOPgdA) | [Cloonee](https://open.spotify.com/artist/7MdlXmq2HViAJWo9cf30sR) | [Fine Night](https://open.spotify.com/album/43Hg8uG1b3ZpSeP4y8Novn) | 2:41 |
 | 72 | [Tell Me Something Good](https://open.spotify.com/track/5krhFNgUcYHwXlNPJJYzFM) | [Ewan McVicar](https://open.spotify.com/artist/4d2NUjh9ZrzG1ZZdhpSDKH) | [Tell Me Something Good](https://open.spotify.com/album/4tyukGQ3uDTgjLHxHZocH4) | 4:09 |
@@ -86,7 +86,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaTFABWvWVT6.md) - [plain]
 | 76 | [Rock The Rhythm \(I Like That\)](https://open.spotify.com/track/5IH4qsWYYpC4o1SNm1aQX2) | [Odd Mob](https://open.spotify.com/artist/4qLwtWhlhyAoQ4S9mSrDW9), [Luciana](https://open.spotify.com/artist/4ugGMtXC28CVR5hlYJy9wV), [Richard Vission](https://open.spotify.com/artist/3EBdhh05GoAX3lIqJSPVXt), [Static Revenger](https://open.spotify.com/artist/4Q08msBV0v3oEN91O7ubsD) | [Club Rompas, Vol\. 2](https://open.spotify.com/album/5TbqhCXehVUcD9htuxteQX) | 2:49 |
 | 77 | [Never Come Back](https://open.spotify.com/track/0Ej6OBBtMvhjaJvtt1vtUt) | [Caribou](https://open.spotify.com/artist/4aEnNH9PuU1HF3TsZTru54) | [Suddenly](https://open.spotify.com/album/34iY3hgyKCn1EJe6YVNFro) | 5:05 |
 | 78 | [Ecstasy \(Over & Over\)](https://open.spotify.com/track/2nHBfIdQ4ndFNaWilLdBUN) | [Prospa](https://open.spotify.com/artist/6HabM2PUM519iIxervGWSb) | [Ecstasy \(Over & Over\)](https://open.spotify.com/album/4IMEWyvS2r1mpnTYD8j4Sb) | 3:36 |
-| 79 | [Mi Combi](https://open.spotify.com/track/2G6AM2rmjjJcyiOvizYawc) | [Ollie BC](https://open.spotify.com/artist/7crjp3htKFvWTqzRjdnjmQ), [Mason Collective](https://open.spotify.com/artist/5v1K4IgzvVs7rFzessYPhS), [Dany Gomez](https://open.spotify.com/artist/5kMchfwW30VxyO1hwOnaCt), [EMBI](https://open.spotify.com/artist/6NBXnI1dWJ0gh8CrmV4Wg0) | [Mi Combi EP](https://open.spotify.com/album/4eQDew4OYl7gq9cDF3yIYd) | 2:46 |
-| 80 | [I Can Make You \(Feel Good\)](https://open.spotify.com/track/4fSpdl5JM3CCMt9v8SJUCu) | [Scott Steer](https://open.spotify.com/artist/2nVUMUFQECMKMRaCdMTO4z) | [I Can Make You \(Feel Good\)](https://open.spotify.com/album/50fpfB18IwpOUz3RjhDqc1) | 2:31 |
+| 79 | [I Can Make You \(Feel Good\)](https://open.spotify.com/track/4fSpdl5JM3CCMt9v8SJUCu) | [Scott Steer](https://open.spotify.com/artist/2nVUMUFQECMKMRaCdMTO4z) | [I Can Make You \(Feel Good\)](https://open.spotify.com/album/50fpfB18IwpOUz3RjhDqc1) | 2:31 |
+| 80 | [Mi Combi](https://open.spotify.com/track/2G6AM2rmjjJcyiOvizYawc) | [Ollie BC](https://open.spotify.com/artist/7crjp3htKFvWTqzRjdnjmQ), [Mason Collective](https://open.spotify.com/artist/5v1K4IgzvVs7rFzessYPhS), [Dany Gomez](https://open.spotify.com/artist/5kMchfwW30VxyO1hwOnaCt), [EMBI](https://open.spotify.com/artist/6NBXnI1dWJ0gh8CrmV4Wg0) | [Mi Combi EP](https://open.spotify.com/album/4eQDew4OYl7gq9cDF3yIYd) | 2:46 |
 
 Snapshot ID: `AAAAAMEsQI3pt2pb445STQ0Uu/8sqxII`

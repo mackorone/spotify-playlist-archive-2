@@ -20,7 +20,7 @@
       ],
       "date_added": "2024-05-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-27",
       "duration_ms": 216000,
       "name": "10 Minutos",
       "url": "https://open.spotify.com/track/7exzjXAlIdaZN72iALsc5W"
@@ -1818,7 +1818,7 @@
       ],
       "date_added": "2025-08-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-27",
       "duration_ms": 178557,
       "name": "Despacha",
       "url": "https://open.spotify.com/track/5m4Ok5eGb7Igrw6d6G4fqr"
@@ -4945,6 +4945,32 @@
     },
     {
       "album": {
+        "name": "Toda Minha Vida Dedico A Te Amar",
+        "url": "https://open.spotify.com/album/3J4fJ7Z7H4bHFQPTzAICwT"
+      },
+      "artists": [
+        {
+          "name": "Aydan",
+          "url": "https://open.spotify.com/artist/6fKyodrAgP9ewRR1mGgSmU"
+        },
+        {
+          "name": "JOK3R",
+          "url": "https://open.spotify.com/artist/2YvHMMn0rYDvE3rs6dqzhq"
+        },
+        {
+          "name": "franBia",
+          "url": "https://open.spotify.com/artist/3gun6uoPx3EgFzbF5r94yw"
+        }
+      ],
+      "date_added": "2026-11-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 170000,
+      "name": "Onde Mora O Teu Desejo",
+      "url": "https://open.spotify.com/track/7eNj4C8zycfCk4Uj0n1KX6"
+    },
+    {
+      "album": {
         "name": "Antes Que A Terra Acabe",
         "url": "https://open.spotify.com/album/1vHp8OwaCaQMhn0fnnu1Hi"
       },
@@ -5688,6 +5714,28 @@
       "duration_ms": 171792,
       "name": "Proposta",
       "url": "https://open.spotify.com/track/6GDEzb8YsJRBFGRt8Uu1ua"
+    },
+    {
+      "album": {
+        "name": "DOPAMINA",
+        "url": "https://open.spotify.com/album/0A3JmgbgkyE3BQSdjY7pMT"
+      },
+      "artists": [
+        {
+          "name": "Gustavvo",
+          "url": "https://open.spotify.com/artist/1g7ecQxDIGyHBz8lGGexH8"
+        },
+        {
+          "name": "Vit\u00e3o",
+          "url": "https://open.spotify.com/artist/06lnOkY99sXVW44Y0M4BDP"
+        }
+      ],
+      "date_added": "2026-11-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 185346,
+      "name": "PR\u00d3XIMO PASSO",
+      "url": "https://open.spotify.com/track/4bIuZd0QqV4RkPo3G81FVk"
     },
     {
       "album": {

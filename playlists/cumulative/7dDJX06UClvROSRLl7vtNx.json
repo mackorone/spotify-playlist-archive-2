@@ -19017,6 +19017,24 @@
     },
     {
       "album": {
+        "name": "Made It Out",
+        "url": "https://open.spotify.com/album/3Li2SdVLiVYvsMqBeqCH2T"
+      },
+      "artists": [
+        {
+          "name": "Palmero",
+          "url": "https://open.spotify.com/artist/5hV5GLJ6kmWccJriPOPsOn"
+        }
+      ],
+      "date_added": "2026-11-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 214000,
+      "name": "Made It Out",
+      "url": "https://open.spotify.com/track/2uIjwRvGaOlaKLrPuAw1hm"
+    },
+    {
+      "album": {
         "name": "Made To Fly",
         "url": "https://open.spotify.com/album/2sX12z9krn4Be6cjk9Drmp"
       },

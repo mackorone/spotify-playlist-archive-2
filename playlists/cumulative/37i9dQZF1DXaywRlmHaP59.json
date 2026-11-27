@@ -661,24 +661,6 @@
     },
     {
       "album": {
-        "name": "Taghyeer El Fousoul",
-        "url": "https://open.spotify.com/album/6QQXjBIopnsi0kPSepQg94"
-      },
-      "artists": [
-        {
-          "name": "Yara",
-          "url": "https://open.spotify.com/artist/46FJPTBdnCK0GMd76nil6e"
-        }
-      ],
-      "date_added": "2025-10-10",
-      "date_added_asterisk": false,
-      "date_removed": null,
-      "duration_ms": 217776,
-      "name": "Farek Men El Sama Lal Ard",
-      "url": "https://open.spotify.com/track/38TuvHgODyqzjAD5X8GXCX"
-    },
-    {
-      "album": {
         "name": "Fi Hada",
         "url": "https://open.spotify.com/album/1t1Czgx338qrdq0lU8P6An"
       },
@@ -1294,24 +1276,6 @@
       "duration_ms": 253533,
       "name": "Le Beirut",
       "url": "https://open.spotify.com/track/3JO3CNuCxwuwlpEjjCnDZN"
-    },
-    {
-      "album": {
-        "name": "Ya Ayech Bi Oyouni",
-        "url": "https://open.spotify.com/album/58bJrHDzBpbByyqV3WMqCH"
-      },
-      "artists": [
-        {
-          "name": "Yara",
-          "url": "https://open.spotify.com/artist/46FJPTBdnCK0GMd76nil6e"
-        }
-      ],
-      "date_added": "2025-10-10",
-      "date_added_asterisk": false,
-      "date_removed": null,
-      "duration_ms": 242760,
-      "name": "Ma Baaref",
-      "url": "https://open.spotify.com/track/3o33CncxOfTLMYcGAIND9t"
     },
     {
       "album": {
@@ -2391,6 +2355,24 @@
     },
     {
       "album": {
+        "name": "Taghyeer El Fousoul",
+        "url": "https://open.spotify.com/album/6QQXjBIopnsi0kPSepQg94"
+      },
+      "artists": [
+        {
+          "name": "Yara",
+          "url": "https://open.spotify.com/artist/46FJPTBdnCK0GMd76nil6e"
+        }
+      ],
+      "date_added": "2025-10-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 217776,
+      "name": "\u0641\u0631\u0642 \u0645\u0646 \u0627\u0644\u0633\u0645\u0627 \u0644\u0644\u0623\u0631\u0636",
+      "url": "https://open.spotify.com/track/38TuvHgODyqzjAD5X8GXCX"
+    },
+    {
+      "album": {
         "name": "\u0662\u0662",
         "url": "https://open.spotify.com/album/5ispGWCzyFIcUmRZB59Epa"
       },
@@ -2442,6 +2424,24 @@
       "duration_ms": 248385,
       "name": "\u0643\u0648\u0643\u0628\u064a",
       "url": "https://open.spotify.com/track/4gMaUtyBnnTP50MWFFVQc3"
+    },
+    {
+      "album": {
+        "name": "Ya Ayech Bi Oyouni",
+        "url": "https://open.spotify.com/album/58bJrHDzBpbByyqV3WMqCH"
+      },
+      "artists": [
+        {
+          "name": "Yara",
+          "url": "https://open.spotify.com/artist/46FJPTBdnCK0GMd76nil6e"
+        }
+      ],
+      "date_added": "2025-10-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 242760,
+      "name": "\u0645\u0627 \u0628\u0639\u0631\u0641",
+      "url": "https://open.spotify.com/track/3o33CncxOfTLMYcGAIND9t"
     },
     {
       "album": {

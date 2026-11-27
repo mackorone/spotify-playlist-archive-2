@@ -1159,6 +1159,40 @@
     },
     {
       "album": {
+        "name": "Club",
+        "url": "https://open.spotify.com/album/1m9QjOsw4J2ki3c93RQnSo"
+      },
+      "artists": [
+        {
+          "name": "Ceaese",
+          "url": "https://open.spotify.com/artist/580taoAhpqvyGCRoJsVdw9"
+        },
+        {
+          "name": "Killua97",
+          "url": "https://open.spotify.com/artist/404oLEm20rXDCHi61f6uvg"
+        },
+        {
+          "name": "Akatumamy",
+          "url": "https://open.spotify.com/artist/38DOU02BQmlcooCqxr3aSd"
+        },
+        {
+          "name": "Nihla",
+          "url": "https://open.spotify.com/artist/74UNE9EF6heknm43N3LPMf"
+        },
+        {
+          "name": "Nyssa",
+          "url": "https://open.spotify.com/artist/6uoH253mn6R3KiQCti7DiT"
+        }
+      ],
+      "date_added": "2026-11-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 209395,
+      "name": "Club",
+      "url": "https://open.spotify.com/track/1IWXomFPyVh2oRzM39kQwm"
+    },
+    {
+      "album": {
         "name": "Como en Casa",
         "url": "https://open.spotify.com/album/2zYTTeV7F0jvc3dNJarCTd"
       },
@@ -1630,7 +1664,7 @@
       ],
       "date_added": "2026-04-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-27",
       "duration_ms": 151836,
       "name": "Energy Exchange",
       "url": "https://open.spotify.com/track/26S3KZ5yuoKFqti5OADRbH"
@@ -3624,7 +3658,7 @@
       ],
       "date_added": "2026-03-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-27",
       "duration_ms": 155723,
       "name": "MARILYN MANSON",
       "url": "https://open.spotify.com/track/1UzqWfnNu6xMrSIyMCXLpl"
@@ -6016,6 +6050,36 @@
       "duration_ms": 214869,
       "name": "Surprise (feat. Polim\u00e1 Westcoast)",
       "url": "https://open.spotify.com/track/4CFCEImu0SbRkH4WaFFK6H"
+    },
+    {
+      "album": {
+        "name": "Cobra",
+        "url": "https://open.spotify.com/album/1LG10brPkvx51IUEDjIqYG"
+      },
+      "artists": [
+        {
+          "name": "Ceaese",
+          "url": "https://open.spotify.com/artist/580taoAhpqvyGCRoJsVdw9"
+        },
+        {
+          "name": "Killua97",
+          "url": "https://open.spotify.com/artist/404oLEm20rXDCHi61f6uvg"
+        },
+        {
+          "name": "Harry Nach",
+          "url": "https://open.spotify.com/artist/0NnUMWDCDi1snuMja6IdxH"
+        },
+        {
+          "name": "WIKELES",
+          "url": "https://open.spotify.com/artist/74rG5ikQzPvZMA7mIGKOlc"
+        }
+      ],
+      "date_added": "2026-11-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 197760,
+      "name": "T-Pain",
+      "url": "https://open.spotify.com/track/20QmTUsKM6bFI5qPFIHt7I"
     },
     {
       "album": {

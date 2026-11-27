@@ -3256,7 +3256,7 @@
       ],
       "date_added": "2026-08-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-27",
       "duration_ms": 171428,
       "name": "Bird Phone",
       "url": "https://open.spotify.com/track/7DxoMYqZk3vWFJZ5rX3H4k"
@@ -6844,7 +6844,7 @@
       ],
       "date_added": "2025-04-05",
       "date_added_asterisk": false,
-      "date_removed": "2026-11-20",
+      "date_removed": null,
       "duration_ms": 226758,
       "name": "Crash Out",
       "url": "https://open.spotify.com/track/5uWbuRqGSBmFtzC7hIyfVr"
@@ -10608,7 +10608,7 @@
       ],
       "date_added": "2026-11-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-27",
       "duration_ms": 157714,
       "name": "EVERYBODY ROCK",
       "url": "https://open.spotify.com/track/58qj4uzlNWaBroR6M015bJ"
@@ -15362,6 +15362,32 @@
       "duration_ms": 224000,
       "name": "HYPERCOASTER",
       "url": "https://open.spotify.com/track/6HI5Zrh5XdIUoPbYLrOWmv"
+    },
+    {
+      "album": {
+        "name": "HYPERDRIVE",
+        "url": "https://open.spotify.com/album/1DFI518EUPlyBjYJVE1zJw"
+      },
+      "artists": [
+        {
+          "name": "Chassi",
+          "url": "https://open.spotify.com/artist/3uSdOouuT7NoUXdDSeJnky"
+        },
+        {
+          "name": "FONZO",
+          "url": "https://open.spotify.com/artist/6KVUM9hXyZfjQUjg9tGW1A"
+        },
+        {
+          "name": "Soul Valient",
+          "url": "https://open.spotify.com/artist/5gl3VGWRl0JE3hmLuk2dut"
+        }
+      ],
+      "date_added": "2026-11-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 134400,
+      "name": "HYPERDRIVE",
+      "url": "https://open.spotify.com/track/0hnhGFZ1chTEc3IqsM5lIi"
     },
     {
       "album": {
@@ -26668,7 +26694,7 @@
       ],
       "date_added": "2025-10-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-27",
       "duration_ms": 173142,
       "name": "Sexy Back",
       "url": "https://open.spotify.com/track/2roAveTN9kFAfzrTbgMWZb"
@@ -31942,6 +31968,24 @@
       "duration_ms": 144335,
       "name": "Toxic",
       "url": "https://open.spotify.com/track/7AHzzHjC26x5PL3NJU6UlU"
+    },
+    {
+      "album": {
+        "name": "Trail Mix EP",
+        "url": "https://open.spotify.com/album/1uUmSMYIoI30uFIuVl5ky2"
+      },
+      "artists": [
+        {
+          "name": "Subtronics",
+          "url": "https://open.spotify.com/artist/3NJ94iuAmmMjbszODYT6pO"
+        }
+      ],
+      "date_added": "2026-11-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 172800,
+      "name": "Trail Mix",
+      "url": "https://open.spotify.com/track/2StEpMsVd9I95pSCJvcIF4"
     },
     {
       "album": {

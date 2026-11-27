@@ -4,7 +4,7 @@
 
 > Warm instrumental guitar for a gentle start.
 
-497 songs - 21 hr 18 min
+498 songs - 21 hr 21 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -320,6 +320,7 @@
 | [Open Fields](https://open.spotify.com/track/2FsGdBUGGU2gE7myOODMOv) | [Byron Wolfe](https://open.spotify.com/artist/5FnRSMJOiTQUGkNRfOaJYm) | [Graceful Moment & Open Fields](https://open.spotify.com/album/4ozWLRqVgvL3CJivu2Idzf) | 2:13 | 2022-03-04 | 2025-05-29 |
 | [OSLO](https://open.spotify.com/track/5XbIIAvqy5vubofa0xLdct) | [Owen Larsson](https://open.spotify.com/artist/3yj6wzbqsrmZhF87e97km8) | [OSLO](https://open.spotify.com/album/1T9tYM87dnPUXomXcb7Pwf) | 2:23 | 2024-12-17 | 2025-03-12 |
 | [Other Days](https://open.spotify.com/track/3lLdHVyx76OUJtG9S9pJkW) | [Colin Reed](https://open.spotify.com/artist/1kyU4Wtac2j8uJO377RqTs) | [Where I Belong](https://open.spotify.com/album/49FiONw30Aya5gcFJEOCz3) | 2:24 | 2022-03-04 | 2024-06-08 |
+| [Ourense](https://open.spotify.com/track/4h56ajNF27IMm7JHOyyZ1G) | [Toni Barella](https://open.spotify.com/artist/4SG1RjKd3TiXxwZ36G6tut) | [Ourense](https://open.spotify.com/album/0EWTa6ZwRBEJ48GLJr7CRT) | 2:16 | 2026-11-27 |  |
 | [Owl & the Moon](https://open.spotify.com/track/3SXdjP2Bguxi8zGp48erWj) | [Alan Gogoll](https://open.spotify.com/artist/7MOxmVjcx5HWoEu9pBWXT3) | [Owl & the Moon](https://open.spotify.com/album/5fuDpP53oiSHp0IqXHflYw) | 2:43 | 2022-07-22 | 2022-12-10 |
 | [Pacific Northwest](https://open.spotify.com/track/5lQYoVqNiXEyqfRiwWOI4v) | [Roy Edwin Williams](https://open.spotify.com/artist/0VEjBPjfkuIaX9CM2G53oW) | [Pride of Pennsylvania](https://open.spotify.com/album/6S7lCi6gre8ywHHxXjtUQO) | 3:22 | 2022-07-01 | 2022-07-22 |
 | [Pages Still Turning](https://open.spotify.com/track/6dVyeiIS3sJySILJbzrP26) | [Val Monroe](https://open.spotify.com/artist/3R4gAfhxiN6cGlyueGErFo) | [Pages Still Turning](https://open.spotify.com/album/4HIyKUXFCEMWQOQ5pA7H4F) | 2:46 | 2025-07-08 | 2025-09-13 |

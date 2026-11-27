@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXITunTkur7X.md) - [plain]
 
 > Beste Nederlandstaligs songs uit de 10's! Cover: BLØF
 
-[Spotify](https://open.spotify.com/user/spotify) - 80,384 likes - 65 songs - 3 hr 52 min
+[Spotify](https://open.spotify.com/user/spotify) - 80,393 likes - 65 songs - 3 hr 52 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -44,8 +44,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXITunTkur7X.md) - [plain]
 | 34 | [Recht Uit M'n Hart](https://open.spotify.com/track/39FUZ3kYulvfDQoIkuv3oU) | [Jan Smit](https://open.spotify.com/artist/7iR5h6yGnTiswjsmj624Rq) | [Recht Uit M'n Hart \(Ballades\)](https://open.spotify.com/album/2pDXvtmJLTmM6dW0fuaPHH) | 3:26 |
 | 35 | [Nergens Zonder Jou](https://open.spotify.com/track/6fPiqPtRH4PrE246zQeQkR) | [Guus Meeuwis](https://open.spotify.com/artist/72qVrKXRp9GeFQOesj0Pmv) | [Armen Open \(Deluxe Editie\)](https://open.spotify.com/album/1qFfzdsLXQQPM7trx3ustr) | 4:09 |
 | 36 | [Wil Je Niet Nog 1 Nacht](https://open.spotify.com/track/4mFWIVsh5yJsLaaanQ8Hjr) | [Glennis Grace](https://open.spotify.com/artist/3J85lWF7GZWWWLyBPMMX7h), [Edwin Evers](https://open.spotify.com/artist/5BVgpCPWqBxTVis97X2fVO) | [This Is My Voice](https://open.spotify.com/album/3zuzvhtV3MeSb3Rh1MpQQn) | 3:29 |
-| 37 | [Kijk Me Na](https://open.spotify.com/track/7egSu6lfBYVfz8NhCF7xqX) | [Simon Keizer](https://open.spotify.com/artist/2dUSZq5IktJI18xdpIEjs2), [Paul de Munnik](https://open.spotify.com/artist/1HFg9B0Jvwqzqiuqg9cASk) | ['t Heerst](https://open.spotify.com/album/2DWidcIfxmV4ZOJCVwOYjM) | 3:22 |
-| 38 | [Wit Licht](https://open.spotify.com/track/3x5ygBPL7i81nixEiGzxAW) | [Jeroen van Koningsbrugge](https://open.spotify.com/artist/1UlDLNnYZHKZJZC5Sb4GiX) | [Glitterjurk + Glitterjurk Live](https://open.spotify.com/album/1EaA0Ax8AcoxFwBTPIkDDP) | 3:32 |
+| 37 | [Wit Licht](https://open.spotify.com/track/3x5ygBPL7i81nixEiGzxAW) | [Jeroen van Koningsbrugge](https://open.spotify.com/artist/1UlDLNnYZHKZJZC5Sb4GiX) | [Glitterjurk + Glitterjurk Live](https://open.spotify.com/album/1EaA0Ax8AcoxFwBTPIkDDP) | 3:32 |
+| 38 | [Kijk Me Na](https://open.spotify.com/track/7egSu6lfBYVfz8NhCF7xqX) | [Simon Keizer](https://open.spotify.com/artist/2dUSZq5IktJI18xdpIEjs2), [Paul de Munnik](https://open.spotify.com/artist/1HFg9B0Jvwqzqiuqg9cASk) | ['t Heerst](https://open.spotify.com/album/2DWidcIfxmV4ZOJCVwOYjM) | 3:22 |
 | 39 | [Echte Vrienden](https://open.spotify.com/track/0VlvcLI6XKJv3RYhbSiasL) | [Jan Smit](https://open.spotify.com/artist/7iR5h6yGnTiswjsmj624Rq), [Gerard Joling](https://open.spotify.com/artist/5V2zReaoPvB7EsZ4160uLG) | [20 Jaar Hits](https://open.spotify.com/album/1qH3FX02vJtwDsXPjlXxko) | 3:08 |
 | 40 | [De Bestemming](https://open.spotify.com/track/0T8ofZVbNQ60J9J9aK4ZIW) | [Marco Borsato](https://open.spotify.com/artist/3D2GUXbtlL3r2d5HJEnsFD) | [\#1](https://open.spotify.com/album/6P8MGrO5WKfHnrXOw45jfR) | 4:26 |
 | 41 | [Voorbij](https://open.spotify.com/track/5fNrm4tC6DyhfbkzQIDiDd) | [Tino Martin](https://open.spotify.com/artist/0iVHnv2bQN5iee8J6iCVO4), [Davina Michelle](https://open.spotify.com/artist/6OG9fZ1LKXyL0hShRmmnq1) | [Beste Zangers Seizoen 11](https://open.spotify.com/album/4mX49XL3W7DGaF0vykfhui) | 4:01 |
@@ -55,9 +55,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXITunTkur7X.md) - [plain]
 | 45 | [Hey Meisje](https://open.spotify.com/track/1c7Kh2uMMxG7k4QqNjjg95) | [Esko](https://open.spotify.com/artist/0rQ69yrbz7CeUmXUn1beIj), [Josylvio](https://open.spotify.com/artist/1wFoE1RwBMWoWkXcFrCgsx), [Hansie](https://open.spotify.com/artist/3Xvu1Rur46ZO8HiE9hBuxl) | [Beats By Esko](https://open.spotify.com/album/3E7PWkWtbaTtwvgw89Qm8a) | 3:17 |
 | 46 | [Reünie](https://open.spotify.com/track/0C9JPibPAdaBvt60rbwEsJ) | [Snelle](https://open.spotify.com/artist/3E31HqA00iCX9nRhesw6LD) | [Reünie](https://open.spotify.com/album/7kY8OqgHbBOQwkF7vpFjTS) | 2:52 |
 | 47 | [Oceaan](https://open.spotify.com/track/4AUASx1KCTQFmpHu7qq6Kr) | [Racoon](https://open.spotify.com/artist/30mNTnmvPn3HwXA5dW1Iza) | [The Singles Collection](https://open.spotify.com/album/2BPly0LvQzfKNfn9v4ShE8) | 2:44 |
-| 48 | [Holiday In Spain](https://open.spotify.com/track/0WhEz33qBgz9AFT5D0W2gE) | [Counting Crows](https://open.spotify.com/artist/0vEsuISMWAKNctLlUAhSZC), [BLØF](https://open.spotify.com/artist/0KQX2wRHV2VLjuscfJFNxB) | [Hier \- Het Beste Van 20 Jaar BLØF](https://open.spotify.com/album/6CXlCKvZ8vyIEDlOIDZZUp) | 3:52 |
-| 49 | [Zo Kan Het Dus Ook](https://open.spotify.com/track/0ZDkMMdWTw9ykmmIGUVnrS) | [Maan](https://open.spotify.com/artist/5vmwWgrlwCfHm1P0vdDFbU) | [Zo Kan Het Dus Ook](https://open.spotify.com/album/7HC6X1dkpJzDMwrrVlSHzk) | 2:34 |
-| 50 | [Habiba](https://open.spotify.com/track/6G41AeVgQkpvEbTxN5fNkW) | [Boef](https://open.spotify.com/artist/0Jsk5iYMr5aNjHury7blm1) | [Slaaptekort](https://open.spotify.com/album/5PUULHwxm3XJdr4g3fNRxP) | 3:35 |
+| 48 | [Habiba](https://open.spotify.com/track/6G41AeVgQkpvEbTxN5fNkW) | [Boef](https://open.spotify.com/artist/0Jsk5iYMr5aNjHury7blm1) | [Slaaptekort](https://open.spotify.com/album/5PUULHwxm3XJdr4g3fNRxP) | 3:35 |
+| 49 | [Holiday In Spain](https://open.spotify.com/track/0WhEz33qBgz9AFT5D0W2gE) | [Counting Crows](https://open.spotify.com/artist/0vEsuISMWAKNctLlUAhSZC), [BLØF](https://open.spotify.com/artist/0KQX2wRHV2VLjuscfJFNxB) | [Hier \- Het Beste Van 20 Jaar BLØF](https://open.spotify.com/album/6CXlCKvZ8vyIEDlOIDZZUp) | 3:52 |
+| 50 | [Zo Kan Het Dus Ook](https://open.spotify.com/track/0ZDkMMdWTw9ykmmIGUVnrS) | [Maan](https://open.spotify.com/artist/5vmwWgrlwCfHm1P0vdDFbU) | [Zo Kan Het Dus Ook](https://open.spotify.com/album/7HC6X1dkpJzDMwrrVlSHzk) | 2:34 |
 | 51 | [Later Als Ik Groter Ben](https://open.spotify.com/track/1a4Dt4M67sEiBLiKyICptE) | [BLØF](https://open.spotify.com/artist/0KQX2wRHV2VLjuscfJFNxB) | [Hier \- Het Beste Van 20 Jaar BLØF](https://open.spotify.com/album/6CXlCKvZ8vyIEDlOIDZZUp) | 3:24 |
 | 52 | [Sexy Als Ik Dans](https://open.spotify.com/track/2zgYC13KDtqwVwNremDoWQ) | [Nielson](https://open.spotify.com/artist/5m5Fh8zrb0uHM85qwkIkVT) | [Sexy Als Ik Dans](https://open.spotify.com/album/3hvQDsTHwRw21QrEoIxmxz) | 3:34 |
 | 53 | [Uit elkaar](https://open.spotify.com/track/0UU2J2kHAxin4KU1A818yC) | [Livv](https://open.spotify.com/artist/0DVLNg4cUvv8X38wf9iyt2) | [Uit elkaar](https://open.spotify.com/album/1SpcwCXKigpkYGemCFJPTO) | 3:26 |

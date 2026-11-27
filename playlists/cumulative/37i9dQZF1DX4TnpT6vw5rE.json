@@ -2249,6 +2249,24 @@
     },
     {
       "album": {
+        "name": "dream away",
+        "url": "https://open.spotify.com/album/1Oc1jinMhLkMXN2b7A3NJR"
+      },
+      "artists": [
+        {
+          "name": "ambi\u00e6nic",
+          "url": "https://open.spotify.com/artist/0FOBCC1tUA27CQBpVTqJpu"
+        }
+      ],
+      "date_added": "2026-10-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 108623,
+      "name": "dream away",
+      "url": "https://open.spotify.com/track/0y6gqsIssPqM7Gotm73G2x"
+    },
+    {
+      "album": {
         "name": "Dream Traveler",
         "url": "https://open.spotify.com/album/1pF8o1asO5oWDoCG0DZZdZ"
       },
@@ -4008,7 +4026,7 @@
       ],
       "date_added": "2026-07-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-27",
       "duration_ms": 169250,
       "name": "Katharsis",
       "url": "https://open.spotify.com/track/2EDKmd2QEyMLOrAFv8L3AT"

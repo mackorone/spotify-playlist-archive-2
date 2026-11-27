@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWNlI0CRgWup.md) - [plain]
 
 > Découvrez les nouveautés des artistes RADAR France\. Photo : \(D\)Juno
 
-[Spotify](https://open.spotify.com/user/spotify) - 105,731 likes - 76 songs - 3 hr 50 min
+[Spotify](https://open.spotify.com/user/spotify) - 105,727 likes - 76 songs - 3 hr 50 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -17,7 +17,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWNlI0CRgWup.md) - [plain]
 | 7 | [Hauteur](https://open.spotify.com/track/4SzrnrK1JA1LLyOPp0NrOx) | [Wamen](https://open.spotify.com/artist/3IrNp8pf0ugwmIEiGJCRse) | [Vie d'Adulte](https://open.spotify.com/album/6UV0hiYkNMcqLKITtj6JIP) | 3:24 |
 | 8 | [baisers puissants](https://open.spotify.com/track/0oiXMt5EJNWdw6CZjbIm3O) | [Alma Rechtman](https://open.spotify.com/artist/2OzA28ZGJJEA8lzMockPcN) | [la maison s'effondre](https://open.spotify.com/album/1WOYjbzToKQ2v1KgwHBeZP) | 3:09 |
 | 9 | [FOMO](https://open.spotify.com/track/4Gaw3deCZcLHkai4OIjY4w) | [Anaïs Cardot](https://open.spotify.com/artist/4Y8Fqly07jv3GLevDRv4qU) | [Map Of Her Shadow](https://open.spotify.com/album/7H56uy7txgy7mOSj9VJWkW) | 3:01 |
-| 10 | [Le mur du salon](https://open.spotify.com/track/6DSFwl1y7t1ds2zMjgxEYy) | [Steve Ibrahim](https://open.spotify.com/artist/0LO2e5fJCBLFn4Ua1IPszs) | [Le mur du salon](https://open.spotify.com/album/2gZL4ccmGDOXe3mKvTGENo) | 3:09 |
+| 10 | [Batman](https://open.spotify.com/track/6xbm3SABfyvW2MQD4wj5Bd) | [Steve Ibrahim](https://open.spotify.com/artist/0LO2e5fJCBLFn4Ua1IPszs) | [Batman](https://open.spotify.com/album/6uARLMmJtcFedhaCV500Sj) | 3:46 |
 | 11 | [Garder Le Sourire](https://open.spotify.com/track/3AEzJ4yLoVJy7j605Qggwz) | [Sam Sauvage](https://open.spotify.com/artist/1tlWl5ltF7CudnGGjF96KL) | [Mesdames, Messieurs !!](https://open.spotify.com/album/4ggyDTNZsJ4Xb6y8R1kPjv) | 3:19 |
 | 12 | [YOLO](https://open.spotify.com/track/2RbNzsg0AsfjHegj2ezkaw) | [63OG](https://open.spotify.com/artist/1wRx48q25O8HPDTyNOUQ2k), [Ateyaba](https://open.spotify.com/artist/281AuR0rWkBECMeaAB0pSA) | [carpaccio](https://open.spotify.com/album/09fT9UVSIDqXIBYkNd8Me0) | 3:12 |
 | 13 | [ça pik un peu quand même](https://open.spotify.com/track/7Fu1fTmuyFgm2V16ACSVOk) | [miki](https://open.spotify.com/artist/55Dacc2jL4tgb6Af23NlF6) | [ça pik un peu quand même](https://open.spotify.com/album/5xUIGLAWrim2JV9e4pVx4l) | 2:17 |
@@ -32,7 +32,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWNlI0CRgWup.md) - [plain]
 | 22 | [Réunion de famille](https://open.spotify.com/track/1KDAxYzHuPFwf1k2x7Pioh) | [Andéol](https://open.spotify.com/artist/3lWweK5IAJrNMXazhS5oV3) | [Les rats, les pigeons](https://open.spotify.com/album/4m3d2RW4SOtL3Kd3YrwkiT) | 2:42 |
 | 23 | [2 aliens](https://open.spotify.com/track/1yBUBwu0LBybD7IcqknClS) | [satine](https://open.spotify.com/artist/7Abx1tdwQoBDWr1nD1o62B) | [2 aliens](https://open.spotify.com/album/3JI8NmZtUifc8YPnaXCSMm) | 2:26 |
 | 24 | [Bagues en Or](https://open.spotify.com/track/1bnGWY5TmMBOpoYx7WPBWq) | [Folie's](https://open.spotify.com/artist/0pyhWJCYRgIoXusQQuMO4c) | [Divine](https://open.spotify.com/album/4DbXX3AdezNUsnEcNFpa3P) | 2:44 |
-| 25 | [FR DZ](https://open.spotify.com/track/26VNKq2Zql986XlaHw6yTh) | [VEN1](https://open.spotify.com/artist/3Cz37xnWAOtQEa5jfrTUbL) | [FR DZ](https://open.spotify.com/album/6lZ9Z2pivuWcWD8kDJuA8o) | 3:04 |
+| 25 | [92](https://open.spotify.com/track/4Oz5vESV2Xs6DxHHOzLWf0) | [VEN1](https://open.spotify.com/artist/3Cz37xnWAOtQEa5jfrTUbL) | [92](https://open.spotify.com/album/3sKwq1h96VIeBZQJql4V5O) | 2:08 |
 | 26 | [Kilo par kilo](https://open.spotify.com/track/0fpyIJpLUk4bbNGi6nAa8r) | [Lisa Pariente](https://open.spotify.com/artist/2D15WFlWJuCeEGC1LGss6X) | [Effets Secondaires](https://open.spotify.com/album/1CDHmmmDBx7IKFLq1mm6LT) | 2:55 |
 | 27 | [Fake or true](https://open.spotify.com/track/5DjhmpY6Trw2OQs7xip2l7) | [Jersey](https://open.spotify.com/artist/7C4JBZtbD3cLEOufhgSHzQ) | [NOTHING'S FAKE](https://open.spotify.com/album/1FwBcitH6TgFi3MpgO4WNW) | 2:47 |
 | 28 | [SI TU M'ABANDONNES](https://open.spotify.com/track/1ciFuxRGHSKvHsNJ0a3Ru2) | [Danyl](https://open.spotify.com/artist/5Hq9W3lm1N9KRCf35RBMab), [Solann](https://open.spotify.com/artist/17u6mMCLx4RTzjIKRaTRIv) | [ZMIG EXPANSION](https://open.spotify.com/album/1OABNen912ksJNgNqEPpVP) | 2:46 |
@@ -85,4 +85,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWNlI0CRgWup.md) - [plain]
 | 75 | [Animal](https://open.spotify.com/track/37bZGx53B90Kv0ftpFDbDZ) | [Philippine](https://open.spotify.com/artist/0jm6JzrAGaSgKY02PI2k4E) | [Animal](https://open.spotify.com/album/6w4q80Ee7fek6jc4FmOh7t) | 4:12 |
 | 76 | [Zone à risque](https://open.spotify.com/track/3Nd1BWcbtnXkL0knv1bBic) | [Yuzmv](https://open.spotify.com/artist/1cYA2rnKwpVYe9iVH3Djjm) | [Avant Brouillon 4](https://open.spotify.com/album/3dYmGWiIKajsdsTLBVCsgf) | 3:13 |
 
-Snapshot ID: `AAAAAM/mFTTuq1lPbR2BejXltOtNE2iO`
+Snapshot ID: `AAAAAJEdMnEuYoUfRkDUucwGhqxFr+kl`

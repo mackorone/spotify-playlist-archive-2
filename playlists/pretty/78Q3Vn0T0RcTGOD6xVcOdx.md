@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/78Q3Vn0T0RcTGOD6xVcOdx.md) - [plain]
 
 > Top hits 2026: best songs right now, chart hits, pop and R&amp;B hits.
 
-[Nuvora](https://open.spotify.com/user/11141650175) - 554 likes - 131 songs - 7 hr 5 min
+[Nuvora](https://open.spotify.com/user/11141650175) - 555 likes - 137 songs - 7 hr 34 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -139,5 +139,11 @@ pretty - [cumulative](/playlists/cumulative/78Q3Vn0T0RcTGOD6xVcOdx.md) - [plain]
 | 129 | [ARMAAN MERA YAHI](https://open.spotify.com/track/0W8FSa7WyXPpSzvIBkNoDY) | [Avinash Kumar Raghuvanshi](https://open.spotify.com/artist/6JEaQ1Ukzoh1Hr4Z4d0YVI) | [ARMAAN MERA YAHI](https://open.spotify.com/album/50y1B4cEOCxb4oc9aSYiVH) | 5:17 |
 | 130 | [This Year](https://open.spotify.com/track/2LMu07B1arHDz7BnE7KxPb) | [G henry](https://open.spotify.com/artist/5FSjZP6yEswWjw6HNqOxPy) | [This Year](https://open.spotify.com/album/6XAeNOtNzZjGfz73R6bAGR) | 2:48 |
 | 131 | [This Year](https://open.spotify.com/track/2LMu07B1arHDz7BnE7KxPb) | [G henry](https://open.spotify.com/artist/5FSjZP6yEswWjw6HNqOxPy) | [This Year](https://open.spotify.com/album/6XAeNOtNzZjGfz73R6bAGR) | 2:48 |
+| 132 | [I'll Follow](https://open.spotify.com/track/30EGgezbFTSZ2RBI2Zhcs5) | [BOLO BOIS](https://open.spotify.com/artist/5xQVUYIGVCMe8cBEqYWZWO) | [I'll Follow](https://open.spotify.com/album/0YGDdfOPnLNsK6te5whKYy) | 3:56 |
+| 133 | [Burning Sparrow](https://open.spotify.com/track/6Lm7Lip7BrFUqNiNtovzgx) | [That's René](https://open.spotify.com/artist/2rniRweMGwb0DEal8ymfPQ) | [Burning Sparrow](https://open.spotify.com/album/2DyoIYvDbh7vplLvcQE1Cg) | 5:45 |
+| 134 | [While We Still Can](https://open.spotify.com/track/6YzbSxzvFYF8CUSPCzkh8w) | [Frank Brugge](https://open.spotify.com/artist/7jeSt9KkhCUeAvli8wmjiC) | [While We Still Can](https://open.spotify.com/album/4R6rQndW4D72rGOxG1qC8b) | 4:12 |
+| 135 | [Alive](https://open.spotify.com/track/52N4TQbXfbpYSv3XhAUI2Q) | [Vini Camalcha](https://open.spotify.com/artist/3JC0e5Xh4qjoU2azQPtFMc) | [Alive](https://open.spotify.com/album/60p4rLiuJadU0NqhBJobMt) | 7:32 |
+| 136 | [Without U](https://open.spotify.com/track/1sQHj3yMt9EyeBnTZvnxbz) | [TheStaRiders](https://open.spotify.com/artist/7jeaPXkwDOt6MmII5H0Z2g) | [Seasons II](https://open.spotify.com/album/2BWxr6ZnHr9obaiPTLpEVH) | 3:44 |
+| 137 | [Rhythm & Blues \(New Season\)](https://open.spotify.com/track/3AUH7mEwqFS31QGsmjpCAN) | [Majorrr](https://open.spotify.com/artist/1ASx98978V6Mfzm8CByHTq) | [Rhythm & Blues \(New Season\)](https://open.spotify.com/album/3hBuhqOk6P2lsDIpFkreXu) | 3:06 |
 
-Snapshot ID: `AAAC5iZOEmru6jCrZK4u/qU0MPfVlbuT`
+Snapshot ID: `AAAC7EfN2ir7RFqurvvgYWg8nymujwJk`

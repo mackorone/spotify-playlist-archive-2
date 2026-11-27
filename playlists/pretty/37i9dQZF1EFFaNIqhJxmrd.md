@@ -98,8 +98,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFFaNIqhJxmrd.md) - [plain]
 | 88 | [White Horses \- Ryos Remix](https://open.spotify.com/track/0tG1o2RLhw6kLma6EjWxIw) | [Frank Walker](https://open.spotify.com/artist/6rcE30MaP92XafelMNZ2Sq), [Crooked Bangs](https://open.spotify.com/artist/4gkZO2kbnE03K8xGmZ2DJu), [RYOS](https://open.spotify.com/artist/7us9kFadl2fztbHSvlNk6M) | [ORIGIN \(The Remixes\)](https://open.spotify.com/album/6kxKaYy67SxASrkZ5E79Wn) | 3:02 |
 | 89 | [Pretty](https://open.spotify.com/track/6j8JQJB1rFUNIZbpYQLbpp) | [LonelyTwin](https://open.spotify.com/artist/2Nf6fS8HByhmGlwDPPZhHM) | [This End Had No Beginning](https://open.spotify.com/album/3JxvP66tU4dBgNr9qUg8zB) | 3:10 |
 | 90 | [dö för mig](https://open.spotify.com/track/5nazg0445VGj83DneXAGNC) | [Oscar Zia](https://open.spotify.com/artist/42TbHQxJ8d94CD93vAoDgl) | [dö\(d\) för mig](https://open.spotify.com/album/0h7YW4GgLTQRIof8sxseMU) | 2:03 |
-| 91 | [Lost](https://open.spotify.com/track/3XizVxUCAMusJkCcQ0FMGp) | [Iselin](https://open.spotify.com/artist/3rjHIPFed2qITXAWvArRtp) | [Lost](https://open.spotify.com/album/2ESYew5AXPQddiwnC5SuXf) | 2:56 |
-| 92 | [Black Bugatti](https://open.spotify.com/track/26ZQDzHWyLPswpCD9LcDjc) | [Dagny](https://open.spotify.com/artist/6Paz0vXJJ9bCPf0fEm3qzg) | [Dancefloor Erotica](https://open.spotify.com/album/4cqQq02nWguqcZmn137K0V) | 3:28 |
+| 91 | [Black Bugatti](https://open.spotify.com/track/26ZQDzHWyLPswpCD9LcDjc) | [Dagny](https://open.spotify.com/artist/6Paz0vXJJ9bCPf0fEm3qzg) | [Dancefloor Erotica](https://open.spotify.com/album/4cqQq02nWguqcZmn137K0V) | 3:28 |
+| 92 | [Lost](https://open.spotify.com/track/3XizVxUCAMusJkCcQ0FMGp) | [Iselin](https://open.spotify.com/artist/3rjHIPFed2qITXAWvArRtp) | [Lost](https://open.spotify.com/album/2ESYew5AXPQddiwnC5SuXf) | 2:56 |
 | 93 | [Dum i huvet](https://open.spotify.com/track/39nFgriTt9iockfxEFn9cY) | [Kerstin Ljungström](https://open.spotify.com/artist/5OoHiZhOXBrB73x6TixINe) | [Dum i huvet](https://open.spotify.com/album/38jCy2g30Nr3x8yksQDXKb) | 2:48 |
 | 94 | [Ett steg fram](https://open.spotify.com/track/1ClnzQ78hPICTZuzBNm9VY) | [F.N.Y](https://open.spotify.com/artist/04yNJEB7tEAEie8UWjzTAI) | [4april till 3juni](https://open.spotify.com/album/39MYpfkSuziHM3XsUPbzZh) | 2:52 |
 | 95 | [Pearls](https://open.spotify.com/track/6R6ArKEeJaNrFnSCM80KTn) | [SKAAR](https://open.spotify.com/artist/4NwacAakrdNGNinNP54KTQ) | [The Other Side Of Waiting](https://open.spotify.com/album/3TqiXfpJ027fdRQFhEz9rz) | 2:47 |
@@ -129,4 +129,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFFaNIqhJxmrd.md) - [plain]
 | 119 | [that stupid t\-shirt](https://open.spotify.com/track/2A16u6EztU1s33TH40WMY9) | [LARA](https://open.spotify.com/artist/0BudKMCTqOhcrPkhL0JkXZ) | [SKYLINE](https://open.spotify.com/album/6qNm5lOlxahuz4d3eSVINP) | 4:05 |
 | 120 | [kärlek \(is not enough\)](https://open.spotify.com/track/1Oy70R2c04QKHyssE4ZBHj) | [Ariza](https://open.spotify.com/artist/4hfAjEKTAFTmJvGQCGTED5) | [kärlek \(is not enough\)](https://open.spotify.com/album/3BIYIXIDa88Wu6uLhiKzql) | 2:53 |
 
-Snapshot ID: `AciqBAAAAADbizoIr3AVcLbuplxyvhou`
+Snapshot ID: `AcivpAAAAAAFg+7O16AtrktJLOM9WLbY`

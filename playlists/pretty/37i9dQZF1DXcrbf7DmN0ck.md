@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcrbf7DmN0ck.md) - [plain]
 
 > While waiting for the open recruitment of global veiled musicians, enjoy the music of the best vocalists in Korea! \(글로벌 베일드 뮤지션의 공개 모집을 기다리며 국내 최정상 보컬들의 음악을 즐겨보세요!\)
 
-[Spotify](https://open.spotify.com/user/spotify) - 27,185 likes - 42 songs - 2 hr 37 min
+[Spotify](https://open.spotify.com/user/spotify) - 27,182 likes - 42 songs - 2 hr 37 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -34,7 +34,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcrbf7DmN0ck.md) - [plain]
 | 24 | [OUR LOVE](https://open.spotify.com/track/6hjwkvlf4rJ8YmlSyZKUat) | [Zambales Beast](https://open.spotify.com/artist/4IaRvoIYIAW1viG6Saaspy) | [Veild Cup : The Beginning](https://open.spotify.com/album/4GleDrYR6UOei9X6GQ6ttH) | 3:32 |
 | 25 | [All or Nothing](https://open.spotify.com/track/5qzipFag33KNvbPBABL9Md) | [Phang Nga Bay Fighter](https://open.spotify.com/artist/2LN6fuUQUnFsoK430R7V2J) | [Veild Cup : The Beginning](https://open.spotify.com/album/4GleDrYR6UOei9X6GQ6ttH) | 3:33 |
 | 26 | [Look Into Your Eyes](https://open.spotify.com/track/2uzefioiUuhaefaPPMV2gk) | [Ho Chi Minh Serenade](https://open.spotify.com/artist/4sCIU6XP627DoYZfx4iwYQ) | [Veild Cup : The Beginning](https://open.spotify.com/album/4GleDrYR6UOei9X6GQ6ttH) | 4:13 |
-| 27 | [I will go to you like the first snow \(Veiled Musician X Shin Yong Jae with Suyeong\-dong Thirty\-One\)](https://open.spotify.com/track/31dor00o1DhnyVNK83pRn5) | [Shin Yong Jae](https://open.spotify.com/artist/2frFGmni9tkRgXYdXmzQvR) | [I will go to you like the first snow \(Veiled Musician X Shin Yong Jae with Suyeong\-dong Thirty\-One\)](https://open.spotify.com/album/0zBqNmgt9u2KdufDp0R51t) | 3:36 |
+| 27 | [I will go to you like the first snow \(Veiled Musician X Shin Yong Jae with Suyeong\-dong Thirty\-One\)](https://open.spotify.com/track/31dor00o1DhnyVNK83pRn5) | [SHIN YONGJAE](https://open.spotify.com/artist/2frFGmni9tkRgXYdXmzQvR) | [I will go to you like the first snow \(Veiled Musician X Shin Yong Jae with Suyeong\-dong Thirty\-One\)](https://open.spotify.com/album/0zBqNmgt9u2KdufDp0R51t) | 3:36 |
 | 28 | [Coming Of Age Ceremony](https://open.spotify.com/track/7LLBvQEf6IQZQQmYUSCvgI) | [Seokchon\-dong Kkijaengi](https://open.spotify.com/artist/5BmLy2VpcZ79yxKKW07Lsm) | [Veiled Musician \- Final Episode](https://open.spotify.com/album/10czeDiumJIj6IhlAMhgRK) | 3:17 |
 | 29 | [As Time Goes By](https://open.spotify.com/track/5zH67aIiFmEuLP1aIVacuc) | [Madu\-dong Samdaejang](https://open.spotify.com/artist/6n2R6b5gFjGGKdPaPMsuds) | [Veiled Musician \- Final Episode](https://open.spotify.com/album/10czeDiumJIj6IhlAMhgRK) | 4:33 |
 | 30 | [I will be your shining star](https://open.spotify.com/track/0ntlTLqfgL20CEWNs8rdhA) | [Oryu\-dong Hamster](https://open.spotify.com/artist/0sGGz6WDYm0R8C1a0NV0EQ) | [Veiled Musician \- Final Episode](https://open.spotify.com/album/10czeDiumJIj6IhlAMhgRK) | 3:49 |

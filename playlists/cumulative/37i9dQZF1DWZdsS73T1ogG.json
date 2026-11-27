@@ -3838,7 +3838,7 @@
       ],
       "date_added": "2026-09-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-27",
       "duration_ms": 183143,
       "name": "ANORMAL",
       "url": "https://open.spotify.com/track/0wKFiFNxkn8Ylkewwlq8X8"
@@ -6971,6 +6971,24 @@
     },
     {
       "album": {
+        "name": "Real Hasta La Muerte II",
+        "url": "https://open.spotify.com/album/4Gqg391dMB9BA7pPW331Ag"
+      },
+      "artists": [
+        {
+          "name": "Anuel AA",
+          "url": "https://open.spotify.com/artist/2R21vXR83lH98kGeO99Y66"
+        }
+      ],
+      "date_added": "2026-11-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 200869,
+      "name": "Bichote",
+      "url": "https://open.spotify.com/track/6S1w1u1J8fldyPXuje4AGw"
+    },
+    {
+      "album": {
         "name": "Bichote",
         "url": "https://open.spotify.com/album/2LkRTHVDOSbEKHBuRCj8UM"
       },
@@ -8960,7 +8978,7 @@
       ],
       "date_added": "2026-08-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-27",
       "duration_ms": 173694,
       "name": "Carolina",
       "url": "https://open.spotify.com/track/0aLgqklsBNnVValSEGssbz"
@@ -9066,7 +9084,7 @@
       ],
       "date_added": "2026-09-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-27",
       "duration_ms": 212857,
       "name": "Casi Algo",
       "url": "https://open.spotify.com/track/6EZXf6pgpbWzmrQo5ErXDK"
@@ -21661,6 +21679,32 @@
     },
     {
       "album": {
+        "name": "GIN TONIC",
+        "url": "https://open.spotify.com/album/2t3668JsXTsfDoUjokLgRQ"
+      },
+      "artists": [
+        {
+          "name": "El Bogueto",
+          "url": "https://open.spotify.com/artist/3S9Hg7sRKhmtWunFZ2yAYP"
+        },
+        {
+          "name": "LENCHO",
+          "url": "https://open.spotify.com/artist/34pmYm95tyjrnk8Cbj6nFo"
+        },
+        {
+          "name": "Bastian",
+          "url": "https://open.spotify.com/artist/4K7sffC0683anJ57UKBzyD"
+        }
+      ],
+      "date_added": "2026-11-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 195166,
+      "name": "GIN TONIC",
+      "url": "https://open.spotify.com/track/5r499Gq3m3FitQsTf6kEG8"
+    },
+    {
+      "album": {
         "name": "Gistro",
         "url": "https://open.spotify.com/album/2v7iMTX10wTRYBoz2P86Qn"
       },
@@ -23098,7 +23142,7 @@
       ],
       "date_added": "2026-08-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-27",
       "duration_ms": 152508,
       "name": "Hasta Abajo",
       "url": "https://open.spotify.com/track/6OiLzarmDhKalWvWqiuExF"
@@ -23970,6 +24014,36 @@
       "duration_ms": 198081,
       "name": "HUMO",
       "url": "https://open.spotify.com/track/6j3PRPNWLutE3CutDzH4uI"
+    },
+    {
+      "album": {
+        "name": "Humo",
+        "url": "https://open.spotify.com/album/2BP58NNynNi88ap4GrDBKU"
+      },
+      "artists": [
+        {
+          "name": "Kaydy Cain",
+          "url": "https://open.spotify.com/artist/4nXXIxTneJksvGXrlmX8oA"
+        },
+        {
+          "name": "Khaled",
+          "url": "https://open.spotify.com/artist/2YxK9SbJeVfkfk6QWHqj8K"
+        },
+        {
+          "name": "Yung Beef",
+          "url": "https://open.spotify.com/artist/1rTUwYS38LkQTlT2fhikch"
+        },
+        {
+          "name": "Pipo Beatz",
+          "url": "https://open.spotify.com/artist/5zDVnUun4YSqFlbGk0W1kZ"
+        }
+      ],
+      "date_added": "2026-11-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 228235,
+      "name": "Humo",
+      "url": "https://open.spotify.com/track/24xDth4qMHXeAiiOkPlso0"
     },
     {
       "album": {
@@ -26060,6 +26134,24 @@
       "duration_ms": 215555,
       "name": "La Culpable",
       "url": "https://open.spotify.com/track/1zNGFSoHzpVz9zkBz04mha"
+    },
+    {
+      "album": {
+        "name": "La Cura",
+        "url": "https://open.spotify.com/album/2aLqyWSqJt4A1XAfD64KSp"
+      },
+      "artists": [
+        {
+          "name": "Jhay P",
+          "url": "https://open.spotify.com/artist/4NGOJedxkGWwkbB5QiSJd1"
+        }
+      ],
+      "date_added": "2026-11-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 202471,
+      "name": "La Cura",
+      "url": "https://open.spotify.com/track/5P0fL5yn6KE9hLJMVtGPuA"
     },
     {
       "album": {
@@ -36254,7 +36346,7 @@
       ],
       "date_added": "2026-09-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-27",
       "duration_ms": 167500,
       "name": "No Love",
       "url": "https://open.spotify.com/track/7FH4gEs0RKJ2BeNRXYAuFc"
@@ -47146,7 +47238,7 @@
       ],
       "date_added": "2026-09-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-27",
       "duration_ms": 166956,
       "name": "SATISFExXxO",
       "url": "https://open.spotify.com/track/1Uc4BPi4PTGFDTHzCj8Nst"
@@ -53620,6 +53712,24 @@
       "duration_ms": 148363,
       "name": "Toy a Mil",
       "url": "https://open.spotify.com/track/5DwnwR8Kd7LM2CMyRPloqH"
+    },
+    {
+      "album": {
+        "name": "Toy afull",
+        "url": "https://open.spotify.com/album/3BXTYhf7fuQws3tYBr88Iy"
+      },
+      "artists": [
+        {
+          "name": "Soffia Philo",
+          "url": "https://open.spotify.com/artist/5o1ARHZ2fhll5jILdQp84X"
+        }
+      ],
+      "date_added": "2026-11-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 160868,
+      "name": "Toy afull",
+      "url": "https://open.spotify.com/track/5jWpZkEZK9epcg9z4baH4N"
     },
     {
       "album": {

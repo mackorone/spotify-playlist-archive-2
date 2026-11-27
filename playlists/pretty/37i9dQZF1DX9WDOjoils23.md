@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9WDOjoils23.md) - [plain]
 
 > Your favorite Punjabi Ghazals and Qawwalis\. Cover: Satinder Sartaaj
 
-[Spotify](https://open.spotify.com/user/spotify) - 47,951 likes - 50 songs - 4 hr 46 min
+[Spotify](https://open.spotify.com/user/spotify) - 47,988 likes - 50 songs - 4 hr 46 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -33,8 +33,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9WDOjoils23.md) - [plain]
 | 23 | [Flowers Of the Same Tree](https://open.spotify.com/track/30wKQxl6Dy9D4WCLPHBk5d) | [Bir Singh](https://open.spotify.com/artist/6Su06O6MCxKJXOtxkM8iBi), [Jaskirat Singh](https://open.spotify.com/artist/3vMBkisQV8By38zokY8bs6) | [Flowers Of the Same Tree](https://open.spotify.com/album/4hnhLGtUDSD0Vub1z0XLi6) | 4:44 |
 | 24 | [Tu Mane Ya Na Mane \- Edit Version](https://open.spotify.com/track/1RjvAAfONgaKgseqqRXZ3B) | [Wadali Brothers](https://open.spotify.com/artist/293XZCVDsIPWXKfieaHLuX) | [Tu Mane Ya Na Mane](https://open.spotify.com/album/2wobOFgWpnQqSP3HUMfjhI) | 14:28 |
 | 25 | [Kalli Beh Ke Sochni](https://open.spotify.com/track/4sQrADh96OYpGc0rqPJZ64) | [Manmohan Waris](https://open.spotify.com/artist/5p94H6vd1uZ4WiiFPelfQ5) | [Greatest Hits Of Manmohan Waris](https://open.spotify.com/album/5rUd2OXvFaQeyirU1iWJQ9) | 6:57 |
-| 26 | [Mahi Milade](https://open.spotify.com/track/1gLwDAVTqRAOn4pFarYkqF) | [GKhan](https://open.spotify.com/artist/3fxBst8oqDfPvHHrd9wEse), [Gurmeet Singh](https://open.spotify.com/artist/5aL0URFqLCRbrB3cewGLgF), [Shehnaz Akhtar](https://open.spotify.com/artist/7azsQVtLmCegdKPs8a3bpi), [Sam Malik](https://open.spotify.com/artist/3NByI8hP6F55zxdlcHiwXD) | [Mahi Milade](https://open.spotify.com/album/7DCqKLlQpvG9GxNw1qrMDx) | 4:13 |
-| 27 | [Allah Toh Mangda](https://open.spotify.com/track/4S1GXp6bFvymtQc2f9Sgxg) | [Rahul Rana](https://open.spotify.com/artist/3gvnLVc6Wsn13fC9lLS4JC), [Arjit Srivastava](https://open.spotify.com/artist/1F3D5Gc6MToIAQoFOtYKkz), [Arjun Sarkar](https://open.spotify.com/artist/2Vb02uLgydFy8Gn2gwPR5s) | [Allah Toh Mangda](https://open.spotify.com/album/5rrLavvhnCmWTczcelNJra) | 3:34 |
+| 26 | [Allah Toh Mangda](https://open.spotify.com/track/4S1GXp6bFvymtQc2f9Sgxg) | [Rahul Rana](https://open.spotify.com/artist/3gvnLVc6Wsn13fC9lLS4JC), [Arjit Srivastava](https://open.spotify.com/artist/1F3D5Gc6MToIAQoFOtYKkz), [Arjun Sarkar](https://open.spotify.com/artist/2Vb02uLgydFy8Gn2gwPR5s) | [Allah Toh Mangda](https://open.spotify.com/album/5rrLavvhnCmWTczcelNJra) | 3:34 |
+| 27 | [Mahi Milade](https://open.spotify.com/track/1gLwDAVTqRAOn4pFarYkqF) | [GKhan](https://open.spotify.com/artist/3fxBst8oqDfPvHHrd9wEse), [Gurmeet Singh](https://open.spotify.com/artist/5aL0URFqLCRbrB3cewGLgF), [Shehnaz Akhtar](https://open.spotify.com/artist/7azsQVtLmCegdKPs8a3bpi), [Sam Malik](https://open.spotify.com/artist/3NByI8hP6F55zxdlcHiwXD) | [Mahi Milade](https://open.spotify.com/album/7DCqKLlQpvG9GxNw1qrMDx) | 4:13 |
 | 28 | [Pyar Hoyi Janda Ae \- From "Arjan"](https://open.spotify.com/track/0PrYEWfbDw2tQXb5q68M2j) | [Nooran Sisters](https://open.spotify.com/artist/2gFFvbbdzYzzWltI2HkZEV) | [Pyar Hoyi Janda Ae \(From "Arjan"\)](https://open.spotify.com/album/3naa4ohg6r82kiizdnUMBT) | 4:43 |
 | 29 | [Qubool Hai](https://open.spotify.com/track/3L0pDSx6tBEuBs6f2gk7tQ) | [Kanwar Grewal](https://open.spotify.com/artist/406oFsSzz2qjU3FD6fozxu), [Anhad Kaur](https://open.spotify.com/artist/1xTTsDAwaJ17ufCVjpyV86) | [Qubool Hai](https://open.spotify.com/album/0YqdLvNV20CLUKQAZPfnf6) | 6:49 |
 | 30 | [Uthan Wale Lai Jaange](https://open.spotify.com/track/6zqxy4YhDcsbiN89cqcE8u) | [Hans Raj Hans](https://open.spotify.com/artist/7967TUOaS203OMlBrsHS8X) | [Ishqe De](https://open.spotify.com/album/3xeIWOhVor6b8GbMlmgr5C) | 6:58 |

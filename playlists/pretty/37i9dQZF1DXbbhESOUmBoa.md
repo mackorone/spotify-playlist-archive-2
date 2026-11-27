@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbbhESOUmBoa.md) - [plain]
 
 > Enjoy the TOMORROW X TOGETHER WORLD TOUR \[STEAL THE WIND\] IN SEOUL LIVE SET including the voices of the group on stage! \(TXT의 무대 멘트와 목소리가 포함된 \[STEAL THE WIND\] IN SEOUL 콘서트 LIVE SET을 즐겨보세요!\)
 
-[Spotify](https://open.spotify.com/user/spotify) - 30,789 likes - 30 songs - 1 hr 14 min
+[Spotify](https://open.spotify.com/user/spotify) - 30,904 likes - 30 songs - 1 hr 14 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

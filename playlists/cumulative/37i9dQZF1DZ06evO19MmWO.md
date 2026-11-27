@@ -4,7 +4,7 @@
 
 > This is Little Walter\. The essential tracks, all in one playlist.
 
-99 songs - 4 hr 56 min
+100 songs - 4 hr 58 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -63,6 +63,7 @@
 | [Long Distance Call](https://open.spotify.com/track/0HrQoyIK6ia0XjZviwW0Fv) | [Bo Diddley](https://open.spotify.com/artist/2bmixwMZXlkl2sbIbOfviq), [Muddy Waters](https://open.spotify.com/artist/4y6J8jwRAwO4dssiSmN91R), [Little Walter](https://open.spotify.com/artist/22JuR9OeENcP54XN5TlNWS) | [Super Blues](https://open.spotify.com/album/2lal1dUF4SNuSwYwJHat6s) | 5:07 | 2022-08-07 | 2022-10-08 |
 | [Make It Alright](https://open.spotify.com/track/1nnMGDzwGPIGMGZ3xWo9w2) | [Little Walter](https://open.spotify.com/artist/22JuR9OeENcP54XN5TlNWS) | [The Complete Chess Masters \(1950 \- 1967\)](https://open.spotify.com/album/3xRh7E2R2WdxFYeQFakVbr) | 3:21 | 2022-08-05 |  |
 | [Me and My Chauffeur](https://open.spotify.com/track/1REOluXV2Mz0dIPm2LhYw9) | [Little Walter](https://open.spotify.com/artist/22JuR9OeENcP54XN5TlNWS) | [Little Walter](https://open.spotify.com/album/4A3npjd6hsbOuRZPgO6oKp) | 2:54 | 2022-08-08 | 2024-02-18 |
+| [Me And My Chauffeur](https://open.spotify.com/track/4W2pxfPiNAmFSVVcDH3Mlu) | [Little Walter](https://open.spotify.com/artist/22JuR9OeENcP54XN5TlNWS), [Memphis Minnie](https://open.spotify.com/artist/2WGyRLosdDgGJTLijIPpNC) | [Saga Blues: Blowing With a Feeling](https://open.spotify.com/album/3yvfD8yp4XXUx27DFY3luB) | 2:52 | 2026-11-27 |  |
 | [Mean Old Frisco](https://open.spotify.com/track/2x2LPXCxlDLkT80kbjBAMR) | [Little Walter](https://open.spotify.com/artist/22JuR9OeENcP54XN5TlNWS) | [Confessin' The Blues](https://open.spotify.com/album/7BvtYMIphGtQKTLgUHelUL) | 2:27 | 2022-08-05 |  |
 | [Mean Old World](https://open.spotify.com/track/4Eqa2PFcVgCWjBlj2Xw8wN) | [Little Walter](https://open.spotify.com/artist/22JuR9OeENcP54XN5TlNWS) | [The Essential Little Walter](https://open.spotify.com/album/2Y2oBBKe7dnNGJrf6HAGBc) | 2:55 | 2022-08-07 | 2024-12-22 |
 | [Mellow Down Easy](https://open.spotify.com/track/2ZEzJC5b9H6BrDfavP3Sr9) | [Little Walter](https://open.spotify.com/artist/22JuR9OeENcP54XN5TlNWS) | [Hate To See You Go](https://open.spotify.com/album/7KZt4TYZm8A4tN1hqQpLRI) | 2:38 | 2022-08-05 |  |

@@ -4,7 +4,7 @@
 
 > This is Baby Tate\. The essential tracks, all in one playlist.
 
-124 songs - 6 hr 2 min
+125 songs - 6 hr 5 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -111,7 +111,8 @@
 | [Poof Be Gone \(with Yung Baby Tate & Yvette and feat\. Cheerlebridee\)](https://open.spotify.com/track/4zMBOUb8jSBMZoYW6VlCfO) | [KyleYouMadeThat](https://open.spotify.com/artist/7qlye19Yivz8Iog1ueVGzw), [Baby Tate](https://open.spotify.com/artist/3IJ21966TwNZI24MwZHMu4), [Yvette](https://open.spotify.com/artist/5rirYSrpdHexU3pcU1ANrV), [Cheerlebridee](https://open.spotify.com/artist/2I6BKeCoduZbfZJzpSNwUj) | [Poof Be Gone](https://open.spotify.com/album/1kEnpnUrgqxiCJGVSu3QbW) | 1:52 | 2024-12-13 | 2025-01-05 |
 | [Poof Be Gone \(with Yung Baby Tate & Yvette and feat\. Cheerlebridee\)](https://open.spotify.com/track/7ddJSaMdfeSeCwJzOYcE2W) | [KyleYouMadeThat](https://open.spotify.com/artist/7qlye19Yivz8Iog1ueVGzw), [Baby Tate](https://open.spotify.com/artist/3IJ21966TwNZI24MwZHMu4), [Yvette](https://open.spotify.com/artist/5rirYSrpdHexU3pcU1ANrV), [Cheerlebridee](https://open.spotify.com/artist/2I6BKeCoduZbfZJzpSNwUj) | [Poof Be Gone](https://open.spotify.com/album/1MxPUBtYCzZ3qSxF5XUf9P) | 1:52 | 2022-10-28 |  |
 | [Pretty Girl](https://open.spotify.com/track/3oFlyenXjgsCoLCO90sAdY) | [Baby Tate](https://open.spotify.com/artist/3IJ21966TwNZI24MwZHMu4) | [Pretty Girl](https://open.spotify.com/album/0cO634E61hUhjEkrVm9VOf) | 2:33 | 2022-12-04 | 2023-03-05 |
-| [Rainbow Cadillac](https://open.spotify.com/track/43JD7xFlgcCV2OVOVXMbKp) | [Baby Tate](https://open.spotify.com/artist/3IJ21966TwNZI24MwZHMu4) | [After The Rain: Deluxe](https://open.spotify.com/album/6GOBCr97vW3rl3Nea3H6Pe) | 2:28 | 2022-10-28 |  |
+| [Rainbow Cadillac](https://open.spotify.com/track/43JD7xFlgcCV2OVOVXMbKp) | [Baby Tate](https://open.spotify.com/artist/3IJ21966TwNZI24MwZHMu4) | [After The Rain: Deluxe](https://open.spotify.com/album/6GOBCr97vW3rl3Nea3H6Pe) | 2:28 | 2022-10-28 | 2026-11-27 |
+| [Rainbow Cadillac](https://open.spotify.com/track/4Dcrvcc85wA4fcwSlCGR6C) | [Baby Tate](https://open.spotify.com/artist/3IJ21966TwNZI24MwZHMu4) | [After The Rain](https://open.spotify.com/album/2FE5XQT3uYCY04CfSDwPlr) | 2:30 | 2026-11-27 |  |
 | [Rich Girl](https://open.spotify.com/track/6OKo3DVbM2tjl3sS83sTfi) | [Baby Tate](https://open.spotify.com/artist/3IJ21966TwNZI24MwZHMu4) | [GIRLS Deluxe](https://open.spotify.com/album/1Qj0GLSG3jwLnwDP36nDkZ) | 2:48 | 2022-10-28 | 2026-01-02 |
 | [Sailor Moon \- 2.0](https://open.spotify.com/track/1A7HVN4G4guzWvk2InwDTA) | [LAYA](https://open.spotify.com/artist/7JNff2HS8nrk3x0VZ5pT2X), [Baby Tate](https://open.spotify.com/artist/3IJ21966TwNZI24MwZHMu4) | [Sailor Moon \(2.0\)](https://open.spotify.com/album/2LA9W3pM9YWTtfQjAScZnz) | 3:17 | 2022-10-28 | 2026-11-18 |
 | [Sl\*t Him Out](https://open.spotify.com/track/03AgMO71u7FXf2SV32oP76) | [Baby Tate](https://open.spotify.com/artist/3IJ21966TwNZI24MwZHMu4) | [What's Love / Sl\*t Him Out](https://open.spotify.com/album/1nJEmFZiNByDdugR0gOeb9) | 2:52 | 2022-10-28 |  |

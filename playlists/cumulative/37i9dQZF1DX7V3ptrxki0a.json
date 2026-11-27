@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2023-08-09",
-  "description": "Agarren su pareja que es momento de mover ese botecito. Doble Filo en portada \ud83e\udd20",
+  "description": "Agarren su pareja que es momento de mover ese botecito. De Parranda y Los Morales en portada \ud83e\udd20",
   "name": "Cumbia Norte\u00f1a",
   "tracks": [
     {
@@ -242,7 +242,7 @@
       ],
       "date_added": "2026-01-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-27",
       "duration_ms": 217600,
       "name": "Amor Carnal",
       "url": "https://open.spotify.com/track/107WqtUsPDfoOVrCpeNDEH"
@@ -336,7 +336,7 @@
       ],
       "date_added": "2025-10-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-27",
       "duration_ms": 151632,
       "name": "AYAYAY",
       "url": "https://open.spotify.com/track/4Pmqo5APBJJ98jVsYYJoQc"
@@ -394,7 +394,7 @@
       ],
       "date_added": "2025-11-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-27",
       "duration_ms": 189994,
       "name": "Bailar Contigo",
       "url": "https://open.spotify.com/track/7p0yajnYNRP60vDZg2DVrx"
@@ -546,7 +546,7 @@
       ],
       "date_added": "2025-10-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-27",
       "duration_ms": 181786,
       "name": "Calacas De Az\u00facar\u201d (Tema Oficial de la Pel\u00edcula Las Leyendas: El Origen)",
       "url": "https://open.spotify.com/track/4JGhnIq5EJNwexzuxYGI7b"
@@ -1062,7 +1062,7 @@
       ],
       "date_added": "2025-11-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-27",
       "duration_ms": 186065,
       "name": "CurruCucuCumbia",
       "url": "https://open.spotify.com/track/4FJWD2kqa5RAql3j1Gqqz7"
@@ -1182,7 +1182,7 @@
       ],
       "date_added": "2026-08-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-27",
       "duration_ms": 166826,
       "name": "Dime Lo Que Piensas",
       "url": "https://open.spotify.com/track/7izzO2Begx5cU1lV4o39ow"
@@ -1309,6 +1309,24 @@
     },
     {
       "album": {
+        "name": "El error de mi vida",
+        "url": "https://open.spotify.com/album/5fm7P0aasIZKpexFPd7Uct"
+      },
+      "artists": [
+        {
+          "name": "Abraham Vazquez",
+          "url": "https://open.spotify.com/artist/063Vp9es6lLAbFUDtIAkFD"
+        }
+      ],
+      "date_added": "2026-11-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 190714,
+      "name": "El error de mi vida",
+      "url": "https://open.spotify.com/track/01fgPfRLD5PzzLsMYPNmpq"
+    },
+    {
+      "album": {
         "name": "El Maquilero",
         "url": "https://open.spotify.com/album/22P1VXfmhjw0kGQgX0fk11"
       },
@@ -1396,7 +1414,7 @@
       ],
       "date_added": "2025-10-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-27",
       "duration_ms": 178000,
       "name": "El Telegrama - En Vivo",
       "url": "https://open.spotify.com/track/3xg5EScCiYfA5OqbTqbNA5"
@@ -2079,6 +2097,24 @@
     },
     {
       "album": {
+        "name": "Lo Que Tu No Me Das",
+        "url": "https://open.spotify.com/album/7FwBu1dXrDjKJ9GJCUt3dQ"
+      },
+      "artists": [
+        {
+          "name": "Secretto",
+          "url": "https://open.spotify.com/artist/1p2oJls3t03KjBx99Lj2ZQ"
+        }
+      ],
+      "date_added": "2026-11-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 169666,
+      "name": "Lo Que Tu No Me Das",
+      "url": "https://open.spotify.com/track/5zluN3LDZhKSac5sR5TWYn"
+    },
+    {
+      "album": {
         "name": "Locamente Enamorado",
         "url": "https://open.spotify.com/album/1Fw0OFwTabn8QsGocoV82P"
       },
@@ -2503,6 +2539,28 @@
     },
     {
       "album": {
+        "name": "M\u00e1scara",
+        "url": "https://open.spotify.com/album/1azhxOhp22sBy9vbyclsVN"
+      },
+      "artists": [
+        {
+          "name": "Yandel",
+          "url": "https://open.spotify.com/artist/0eHQ9o50hj6ZDNBt6Ys1sD"
+        },
+        {
+          "name": "Grupo Frontera",
+          "url": "https://open.spotify.com/artist/6XkjpgcEsYab502Vr1bBeW"
+        }
+      ],
+      "date_added": "2026-11-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 209640,
+      "name": "M\u00e1scara",
+      "url": "https://open.spotify.com/track/0EaRUdHtdMq2PzOFqB8dCC"
+    },
+    {
+      "album": {
         "name": "Nadie Te Extra\u00f1a",
         "url": "https://open.spotify.com/album/1cyosajQlz2hBQv3hFajV8"
       },
@@ -2771,6 +2829,24 @@
     },
     {
       "album": {
+        "name": "Piensa En Mi",
+        "url": "https://open.spotify.com/album/0K5BsqjqsY79t1bYz2Pb1l"
+      },
+      "artists": [
+        {
+          "name": "Edgardo Nu\u00f1ez",
+          "url": "https://open.spotify.com/artist/0mA4dkNGiN4fqTBi2SLlAv"
+        }
+      ],
+      "date_added": "2026-11-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 139631,
+      "name": "Piensa En Mi",
+      "url": "https://open.spotify.com/track/5JEpWYBljlsHOI6LAeJ4md"
+    },
+    {
+      "album": {
         "name": "En Vivo Desde El Rancho",
         "url": "https://open.spotify.com/album/3I8GLnjxkdr32OnYSir6bh"
       },
@@ -2930,6 +3006,28 @@
       "duration_ms": 237749,
       "name": "Que Lloro - En Vivo",
       "url": "https://open.spotify.com/track/3qvlIyDfh30tUYr7s76Umh"
+    },
+    {
+      "album": {
+        "name": "Que Te Vas (En Vivo)",
+        "url": "https://open.spotify.com/album/6N8asR6tJrNnLcQhcrO3J6"
+      },
+      "artists": [
+        {
+          "name": "De Parranda",
+          "url": "https://open.spotify.com/artist/0OTHm6AFLxgeTm0gHNOuWi"
+        },
+        {
+          "name": "Los Morales",
+          "url": "https://open.spotify.com/artist/6ApQFyQipz7e35stMrNG4h"
+        }
+      ],
+      "date_added": "2026-11-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 216812,
+      "name": "Que Te Vas - En Vivo",
+      "url": "https://open.spotify.com/track/65BDsvfQ4rthtxlO07sm47"
     },
     {
       "album": {
@@ -3586,7 +3684,7 @@
       ],
       "date_added": "2025-10-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-27",
       "duration_ms": 191365,
       "name": "\u00bfCon Qu\u00e9 Coraz\u00f3n?",
       "url": "https://open.spotify.com/track/7EPqGwFErwo8Phwt1U9P9v"

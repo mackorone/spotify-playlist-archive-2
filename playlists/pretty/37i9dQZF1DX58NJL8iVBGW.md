@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX58NJL8iVBGW.md) - [plain]
 
 > Long\-shadow roots rock, folk, and Americana\. Grit\-worn, brooding, and  dark.
 
-[Spotify](https://open.spotify.com/user/spotify) - 824,965 likes - 100 songs - 6 hr 9 min
+[Spotify](https://open.spotify.com/user/spotify) - 824,993 likes - 100 songs - 6 hr 9 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -54,12 +54,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX58NJL8iVBGW.md) - [plain]
 | 44 | [Rambling Man](https://open.spotify.com/track/4pAk9Oq0IRkPVbtXyi8HmJ) | [Johnny Flynn](https://open.spotify.com/artist/1UQRtt7eHW6Bt4INNTUtb3), [Lillie Flynn](https://open.spotify.com/artist/32vbokqejlgd5khDYNhV1Y) | [Rambling Man](https://open.spotify.com/album/6leYDhpSeZgSHHSxyvfdse) | 4:07 |
 | 45 | [Work Song](https://open.spotify.com/track/5szmwG86IFASvYrca21MEz) | [Hozier](https://open.spotify.com/artist/2FXC3k01G6Gw61bmprjgqS) | [From Eden EP](https://open.spotify.com/album/0FubRTC6GUFPUg4y2Xuxs0) | 3:49 |
 | 46 | [Go Dig My Grave](https://open.spotify.com/track/21gCYJP9C9GUNI4jCZhheZ) | [Lankum](https://open.spotify.com/artist/2zPm4XzwKuPidtfKh92H2Z) | [False Lankum](https://open.spotify.com/album/2lu7c86G1ptjMJVL9upG1H) | 8:38 |
-| 47 | [The Edge of the Map \(Cumberland Gap\)](https://open.spotify.com/track/2kCAq5RxMJF0U7kYmzDcoL) | [Small Fools](https://open.spotify.com/artist/5IsHbK3X6ZDauHENF6HMEm) | [The Edge of the Map \(Cumberland Gap\)](https://open.spotify.com/album/3IzvwJ6nngKTdiyOdjJ70j) | 3:00 |
-| 48 | [Hy\-Brasil](https://open.spotify.com/track/2OeMJJ4QlZKW0mjpbIckiq) | [Allison Russell](https://open.spotify.com/artist/3JBmecDGXTll46ygrnGTM6) | [Outside Child](https://open.spotify.com/album/4R21oaKCstE2fMc4XkuVlw) | 5:35 |
+| 47 | [Hy\-Brasil](https://open.spotify.com/track/2OeMJJ4QlZKW0mjpbIckiq) | [Allison Russell](https://open.spotify.com/artist/3JBmecDGXTll46ygrnGTM6) | [Outside Child](https://open.spotify.com/album/4R21oaKCstE2fMc4XkuVlw) | 5:35 |
+| 48 | [The Edge of the Map \(Cumberland Gap\)](https://open.spotify.com/track/2kCAq5RxMJF0U7kYmzDcoL) | [Small Fools](https://open.spotify.com/artist/5IsHbK3X6ZDauHENF6HMEm) | [The Edge of the Map \(Cumberland Gap\)](https://open.spotify.com/album/3IzvwJ6nngKTdiyOdjJ70j) | 3:00 |
 | 49 | [Bottom of the River](https://open.spotify.com/track/279D0iY34aVyZWTxsAPYUd) | [Delta Rae](https://open.spotify.com/artist/0iidQFemlPhkoHqFroz2my) | [Bottom of the River](https://open.spotify.com/album/2FXmlkD0prW5bIzO2MpAED) | 3:21 |
-| 50 | [Two Coats](https://open.spotify.com/track/4KyTHzNEavebTcUHWxR8Zs) | [Robert Plant](https://open.spotify.com/artist/1OwarW4LEHnoep20ixRA0y) | [Two Coats](https://open.spotify.com/album/1PasnDvFzjSWX1hf14KF6B) | 4:59 |
-| 51 | [Chairkickers](https://open.spotify.com/track/0O0T1NHzuTa12tNZ1hZ7db) | [Brown Bird](https://open.spotify.com/artist/5zzbSFZMVpvxSlWAkqqtHP) | [Salt For Salt](https://open.spotify.com/album/0SVsGgGApRYVXP466ywwsC) | 3:18 |
-| 52 | [Sling and Stone](https://open.spotify.com/track/0iDxbQIExTjJqXBLzXP8ow) | [Jess Woodland](https://open.spotify.com/artist/20IXA7HkfD8CccYusWwEsq) | [Sling and Stone](https://open.spotify.com/album/3LbKa4s282oUZg7TgZW0xk) | 3:14 |
+| 50 | [Chairkickers](https://open.spotify.com/track/0O0T1NHzuTa12tNZ1hZ7db) | [Brown Bird](https://open.spotify.com/artist/5zzbSFZMVpvxSlWAkqqtHP) | [Salt For Salt](https://open.spotify.com/album/0SVsGgGApRYVXP466ywwsC) | 3:18 |
+| 51 | [Sling and Stone](https://open.spotify.com/track/0iDxbQIExTjJqXBLzXP8ow) | [Jess Woodland](https://open.spotify.com/artist/20IXA7HkfD8CccYusWwEsq) | [Sling and Stone](https://open.spotify.com/album/3LbKa4s282oUZg7TgZW0xk) | 3:14 |
+| 52 | [Two Coats](https://open.spotify.com/track/4KyTHzNEavebTcUHWxR8Zs) | [Robert Plant](https://open.spotify.com/artist/1OwarW4LEHnoep20ixRA0y) | [Two Coats](https://open.spotify.com/album/1PasnDvFzjSWX1hf14KF6B) | 4:59 |
 | 53 | [Psycho From Texas](https://open.spotify.com/track/1TQqnXqtN4cv8HanpdYoni) | [Kitty Coen](https://open.spotify.com/artist/7MY6uLRlctB9wtKoE6DLef) | [Psycho From Texas](https://open.spotify.com/album/3iDak2XzfVwRQHT2phsRbz) | 2:46 |
 | 54 | [Dark Feathers](https://open.spotify.com/track/3ron5Rg6TcEC2eIHzhoMK5) | [Renee Christine](https://open.spotify.com/artist/1VGSv0y30R6THoFPMiccx2) | [Dark Feathers](https://open.spotify.com/album/1lSnurE1qrHG1rai2ps8CK) | 3:57 |
 | 55 | [Things That Scare Me](https://open.spotify.com/track/1GMphu4rFfW80ME1EN8IJo) | [Neko Case](https://open.spotify.com/artist/4Cedjq5BQL3MhapRvDpFED) | [Blacklisted](https://open.spotify.com/album/76PyfjqUSplsygzK6lcbcU) | 2:30 |
@@ -85,9 +85,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX58NJL8iVBGW.md) - [plain]
 | 75 | [Alone And Forsaken](https://open.spotify.com/track/4Vj4lQaRXrSzyLvXTl0vV8) | [Benjamin Tod](https://open.spotify.com/artist/30hVqCpEQ8gBRdNvgWMr20) | [Country Is Dead](https://open.spotify.com/album/6t4rT7Qbt37ywsB3BUXHsN) | 3:42 |
 | 76 | [I Hear Him Howling](https://open.spotify.com/track/4o5MExPgOJGdp4XLOD46Px) | [South for Winter](https://open.spotify.com/artist/1CCtgClqhDqOl41ZP4dDM8) | [I Hear Him Howling](https://open.spotify.com/album/2ry8j1UboPzBLjaDKpgTMo) | 3:44 |
 | 77 | [The Winter of '68](https://open.spotify.com/track/6xaRjpgvphJbRSTc7xUNTB) | [Goodnight, Texas](https://open.spotify.com/artist/5ammRFhN6wQXM30xlhndC5) | [The Winter of '68](https://open.spotify.com/album/5ZZhy7EjeuUy3fQg7JYuBe) | 3:22 |
-| 78 | [Leaving the Zoo](https://open.spotify.com/track/48yHIdE2cS9InGZf95kKXF) | [Renny Conti](https://open.spotify.com/artist/27C5xkyXM5kWgVqqdR9aqY) | [Leaving The Zoo](https://open.spotify.com/album/3zmh3e8iqYzJhvEDcfmgkf) | 5:23 |
-| 79 | [Heaven Help Me](https://open.spotify.com/track/1Sn2eyETeYKc1WMmDMijKh) | [The Bones of J.R\. Jones](https://open.spotify.com/artist/7sMcWECQxLm7EoKdRlSCAn) | [Heaven Help Me](https://open.spotify.com/album/3llXzAOhba5SpNnJnTLD9m) | 3:04 |
-| 80 | [Psalms](https://open.spotify.com/track/4Q4qJYgs4zZ1FFHX2nleB9) | [Vudu Sister](https://open.spotify.com/artist/5Gu7iDoQjE7anHIbCXckC8) | [Bastard Children](https://open.spotify.com/album/2c04IHW1EnOkIMkivr5NPG) | 3:40 |
+| 78 | [Heaven Help Me](https://open.spotify.com/track/1Sn2eyETeYKc1WMmDMijKh) | [The Bones of J.R\. Jones](https://open.spotify.com/artist/7sMcWECQxLm7EoKdRlSCAn) | [Heaven Help Me](https://open.spotify.com/album/3llXzAOhba5SpNnJnTLD9m) | 3:04 |
+| 79 | [Psalms](https://open.spotify.com/track/4Q4qJYgs4zZ1FFHX2nleB9) | [Vudu Sister](https://open.spotify.com/artist/5Gu7iDoQjE7anHIbCXckC8) | [Bastard Children](https://open.spotify.com/album/2c04IHW1EnOkIMkivr5NPG) | 3:40 |
+| 80 | [Leaving the Zoo](https://open.spotify.com/track/48yHIdE2cS9InGZf95kKXF) | [Renny Conti](https://open.spotify.com/artist/27C5xkyXM5kWgVqqdR9aqY) | [Leaving The Zoo](https://open.spotify.com/album/3zmh3e8iqYzJhvEDcfmgkf) | 5:23 |
 | 81 | [Pull the Moon](https://open.spotify.com/track/0fhybVaiwileWneFHOBhhd) | [Caitlin Canty](https://open.spotify.com/artist/3QOwPxkPpGvhbiPaEs7Pnl) | [Quiet Flame](https://open.spotify.com/album/2Uyhtk4U9TxSFIIj8dOyZO) | 4:02 |
 | 82 | [Little Wing](https://open.spotify.com/track/6W6xbvrkBXRXALFVDYXeMq) | [Valerie June](https://open.spotify.com/artist/4QZdOCb3UacKbQ1ybDFAKM) | [Little Wing](https://open.spotify.com/album/31ouv0slZULXCbafbGF0kF) | 2:55 |
 | 83 | [O Death \(with Francesco Turrisi\)](https://open.spotify.com/track/4isz6MOaOrvonLrIVyPpvj) | [Rhiannon Giddens](https://open.spotify.com/artist/1EI0NtLHoh9KBziYCeN1vM), [Francesco Turrisi](https://open.spotify.com/artist/4ds2NOrovBxUtTi29RWIBC) | [They're Calling Me Home \(with Francesco Turrisi\)](https://open.spotify.com/album/75qSKqLqEt7zOei7If7Lms) | 3:13 |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUN87b7HRrCS.md) - [plain]
 
 > Soft bossa nova sounds for focusing, reading, or unwinding.
 
-[Spotify](https://open.spotify.com/user/spotify) - 97,739 likes - 63 songs - 3 hr 53 min
+[Spotify](https://open.spotify.com/user/spotify) - 97,770 likes - 63 songs - 3 hr 53 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

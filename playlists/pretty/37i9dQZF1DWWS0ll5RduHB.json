@@ -1,6 +1,6 @@
 {
   "description": "\u97f3\u697d\u3092\u30dd\u30b1\u30c3\u30c8\u306b\u8a70\u3081\u3066\u6563\u6b69\u306b\u51fa\u304b\u3051\u3088\u3046\u3002\u304d\u3063\u3068\u65b0\u3057\u3044\u666f\u8272\u304c\u898b\u3048\u3066\u304f\u308b\u306f\u305a\u3002",
-  "num_followers": 51265,
+  "num_followers": 51271,
   "original_name": "Happy Stroll - \u97f3\u697d\u3068\u6563\u6b69 - ",
   "owner": {
     "name": "Spotify",
@@ -259,22 +259,6 @@
     {
       "added_at": "2026-10-20 15:00:08",
       "album": {
-        "name": "Grandma Song",
-        "url": "https://open.spotify.com/album/48eCxWORHd5e5rKLtU5b7I"
-      },
-      "artists": [
-        {
-          "name": "Rex Orange County",
-          "url": "https://open.spotify.com/artist/7pbDxGE6nQSZVfiFdq9lOL"
-        }
-      ],
-      "duration_ms": 183000,
-      "name": "Grandma Song",
-      "url": "https://open.spotify.com/track/7ELw4A1MnqcOMVndn9R86G"
-    },
-    {
-      "added_at": "2026-10-20 15:00:08",
-      "album": {
         "name": "bad pieces",
         "url": "https://open.spotify.com/album/3vyo8Ev3o6olStojgqpS6U"
       },
@@ -287,6 +271,22 @@
       "duration_ms": 191910,
       "name": "courage",
       "url": "https://open.spotify.com/track/1GxXymBkVQJtSPZhiyl2wZ"
+    },
+    {
+      "added_at": "2026-10-20 15:00:08",
+      "album": {
+        "name": "Grandma Song",
+        "url": "https://open.spotify.com/album/48eCxWORHd5e5rKLtU5b7I"
+      },
+      "artists": [
+        {
+          "name": "Rex Orange County",
+          "url": "https://open.spotify.com/artist/7pbDxGE6nQSZVfiFdq9lOL"
+        }
+      ],
+      "duration_ms": 183000,
+      "name": "Grandma Song",
+      "url": "https://open.spotify.com/track/7ELw4A1MnqcOMVndn9R86G"
     },
     {
       "added_at": "2026-11-06 09:34:56",
@@ -405,22 +405,6 @@
       "url": "https://open.spotify.com/track/52Ww5RZpJuDWttqnIBeGr3"
     },
     {
-      "added_at": "2026-11-06 09:34:56",
-      "album": {
-        "name": "Sleeping Lion",
-        "url": "https://open.spotify.com/album/1uDux5bGlSh9JUxMkQ05dE"
-      },
-      "artists": [
-        {
-          "name": "Lennon Stella",
-          "url": "https://open.spotify.com/artist/1cZQSpDsxgKIX2yW5OR9Ot"
-        }
-      ],
-      "duration_ms": 202086,
-      "name": "Smartest Person in the Room",
-      "url": "https://open.spotify.com/track/6VDE9z9Ld25UhlC9SXnbRX"
-    },
-    {
       "added_at": "2026-04-17 03:49:21",
       "album": {
         "name": "Home (feat. Hikaru Utada)",
@@ -439,6 +423,22 @@
       "duration_ms": 224946,
       "name": "Home (feat. Hikaru Utada)",
       "url": "https://open.spotify.com/track/4V9fJ12KcWd78OSAqYNO9r"
+    },
+    {
+      "added_at": "2026-11-06 09:34:56",
+      "album": {
+        "name": "Sleeping Lion",
+        "url": "https://open.spotify.com/album/1uDux5bGlSh9JUxMkQ05dE"
+      },
+      "artists": [
+        {
+          "name": "Lennon Stella",
+          "url": "https://open.spotify.com/artist/1cZQSpDsxgKIX2yW5OR9Ot"
+        }
+      ],
+      "duration_ms": 202086,
+      "name": "Smartest Person in the Room",
+      "url": "https://open.spotify.com/track/6VDE9z9Ld25UhlC9SXnbRX"
     },
     {
       "added_at": "2026-10-20 15:00:08",
@@ -715,22 +715,18 @@
     {
       "added_at": "2026-10-20 15:00:08",
       "album": {
-        "name": "Little Miss Twain - The Places I'll Go",
-        "url": "https://open.spotify.com/album/025elCPgKgk6oamY3uLTZ6"
+        "name": "\u30ed\u30fc\u30eb\u30d7\u30ec\u30a4\u30f3\u30b0\u30e9\u30a4\u30d5",
+        "url": "https://open.spotify.com/album/79KKCX2lpirv00FydXspMd"
       },
       "artists": [
         {
-          "name": "Shania Twain",
-          "url": "https://open.spotify.com/artist/5e4Dhzv426EvQe3aDb64jL"
-        },
-        {
-          "name": "The Milk Carton Kids",
-          "url": "https://open.spotify.com/artist/7fxtWEwKKrFaykKItspdYg"
+          "name": "Luov",
+          "url": "https://open.spotify.com/artist/65qX1IKOU3lXJsZ327lCww"
         }
       ],
-      "duration_ms": 179756,
-      "name": "Who Do You Love (feat. The Milk Carton Kids)",
-      "url": "https://open.spotify.com/track/0CkRBKSBFHVsktNbT1qz2M"
+      "duration_ms": 215604,
+      "name": "\u30ed\u30fc\u30eb\u30d7\u30ec\u30a4\u30f3\u30b0\u30e9\u30a4\u30d5",
+      "url": "https://open.spotify.com/track/0g8Hl3MceZMSArjHbFsQaU"
     },
     {
       "added_at": "2026-10-20 15:00:08",
@@ -751,18 +747,22 @@
     {
       "added_at": "2026-10-20 15:00:08",
       "album": {
-        "name": "\u30ed\u30fc\u30eb\u30d7\u30ec\u30a4\u30f3\u30b0\u30e9\u30a4\u30d5",
-        "url": "https://open.spotify.com/album/79KKCX2lpirv00FydXspMd"
+        "name": "Little Miss Twain - The Places I'll Go",
+        "url": "https://open.spotify.com/album/025elCPgKgk6oamY3uLTZ6"
       },
       "artists": [
         {
-          "name": "Luov",
-          "url": "https://open.spotify.com/artist/65qX1IKOU3lXJsZ327lCww"
+          "name": "Shania Twain",
+          "url": "https://open.spotify.com/artist/5e4Dhzv426EvQe3aDb64jL"
+        },
+        {
+          "name": "The Milk Carton Kids",
+          "url": "https://open.spotify.com/artist/7fxtWEwKKrFaykKItspdYg"
         }
       ],
-      "duration_ms": 215604,
-      "name": "\u30ed\u30fc\u30eb\u30d7\u30ec\u30a4\u30f3\u30b0\u30e9\u30a4\u30d5",
-      "url": "https://open.spotify.com/track/0g8Hl3MceZMSArjHbFsQaU"
+      "duration_ms": 179756,
+      "name": "Who Do You Love (feat. The Milk Carton Kids)",
+      "url": "https://open.spotify.com/track/0CkRBKSBFHVsktNbT1qz2M"
     },
     {
       "added_at": "2026-10-20 15:00:08",
@@ -783,22 +783,6 @@
       "duration_ms": 382360,
       "name": "losing day",
       "url": "https://open.spotify.com/track/49aPNg6BfrtsmRHP5UdWfG"
-    },
-    {
-      "added_at": "2026-11-06 09:34:56",
-      "album": {
-        "name": "BRUJA",
-        "url": "https://open.spotify.com/album/1xG4xAWcvM38Mk69z9gFtH"
-      },
-      "artists": [
-        {
-          "name": "Irepelusa",
-          "url": "https://open.spotify.com/artist/3KaNWDYObY73SDpcZBRzuw"
-        }
-      ],
-      "duration_ms": 171296,
-      "name": "BRUJA",
-      "url": "https://open.spotify.com/track/4Sqi6eRWwR6TcaEGS0IEvd"
     },
     {
       "added_at": "2026-10-20 15:00:08",
@@ -823,6 +807,22 @@
     {
       "added_at": "2026-11-06 09:34:56",
       "album": {
+        "name": "BRUJA",
+        "url": "https://open.spotify.com/album/1xG4xAWcvM38Mk69z9gFtH"
+      },
+      "artists": [
+        {
+          "name": "Irepelusa",
+          "url": "https://open.spotify.com/artist/3KaNWDYObY73SDpcZBRzuw"
+        }
+      ],
+      "duration_ms": 171296,
+      "name": "BRUJA",
+      "url": "https://open.spotify.com/track/4Sqi6eRWwR6TcaEGS0IEvd"
+    },
+    {
+      "added_at": "2026-11-06 09:34:56",
+      "album": {
         "name": "When the Night Feels My Song",
         "url": "https://open.spotify.com/album/4mDdGsHvEBu0rQKsJo5VA1"
       },
@@ -837,20 +837,20 @@
       "url": "https://open.spotify.com/track/2QAfvEXiEihVL1VGt2NrRS"
     },
     {
-      "added_at": "2026-11-06 09:34:56",
+      "added_at": "2026-04-17 03:49:21",
       "album": {
-        "name": "What the Body Remembers",
-        "url": "https://open.spotify.com/album/6BVhF8p2cVM0X8f1K7mbHb"
+        "name": "Telepono",
+        "url": "https://open.spotify.com/album/1NXEADwt5YkBNS9FTCaxAo"
       },
       "artists": [
         {
-          "name": "Chezka",
-          "url": "https://open.spotify.com/artist/09aWOipSJalkgLg7vOOUlY"
+          "name": "ONE CLICK STRAIGHT",
+          "url": "https://open.spotify.com/artist/457BGAQIRpxlvY5gcbDjUQ"
         }
       ],
-      "duration_ms": 254081,
-      "name": "Still a body",
-      "url": "https://open.spotify.com/track/5tv0vXUn1l1zjc1mgwmmKh"
+      "duration_ms": 218400,
+      "name": "Telepono",
+      "url": "https://open.spotify.com/track/77KJXJXoaBc1xHDiENrm71"
     }
   ],
   "unique_name": "Happy Stroll - \u97f3\u697d\u3068\u6563\u6b69 - ",

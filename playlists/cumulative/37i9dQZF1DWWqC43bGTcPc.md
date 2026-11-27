@@ -2,9 +2,9 @@
 
 ### [最Hit華語榜](https://open.spotify.com/playlist/37i9dQZF1DWWqC43bGTcPc)
 
-> 最新最 HITO 的華語流行歌曲就在這立即收聽！Cover: Dior 大穎
+> 最新最 HITO 的華語流行歌曲就在這立即收聽！Cover: 陳華
 
-1,302 songs - 3 day 8 hr 57 min
+1,303 songs - 3 day 9 hr 1 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -567,7 +567,7 @@
 | [嬋娟](https://open.spotify.com/track/0sCrtayecJ7AJsb4q0xWAr) | [Nicky Lee](https://open.spotify.com/artist/6DuHQk8gJbyVlhajer8IuF) | [嬋娟](https://open.spotify.com/album/0SGk4tguMfjfluVLyicRBE) | 4:01 | 2024-09-23 | 2024-10-15 |
 | [孤單北半球 \- 滾石撞樂隊2 \(原唱:林依晨\)](https://open.spotify.com/track/3L6xFIfkPyjXdBB6CDC0ur) | [PA PUN BAND](https://open.spotify.com/artist/0jz8mea3EKbqvOxZY6skBz) | [滾石撞樂隊2 \- 孤單北半球](https://open.spotify.com/album/3axDHT082RaLYhNDIcZ9xf) | 2:54 | 2025-10-06 | 2026-02-03 |
 | [孤獨不是罪](https://open.spotify.com/track/3yRkxh99v94JbWhS4MY59Z) | [蕭秉治](https://open.spotify.com/artist/0Ej4GfzIcW3dWP0rC5d4x1) | [完人](https://open.spotify.com/album/06zmRfsw42iuK56yvWFQ7z) | 3:45 | 2024-12-09 | 2024-12-31 |
-| [孤芳自賞](https://open.spotify.com/track/5rSDX95qZzbdjmB2IAKDzq) | [李浩瑋 Howard Lee](https://open.spotify.com/artist/7EkkWNWPiWFQ0rA9IEmMXs) | [孤芳自賞](https://open.spotify.com/album/3kWAPgQyHaWMmSZbYISZbk) | 3:14 | 2026-08-07 |  |
+| [孤芳自賞](https://open.spotify.com/track/5rSDX95qZzbdjmB2IAKDzq) | [李浩瑋 Howard Lee](https://open.spotify.com/artist/7EkkWNWPiWFQ0rA9IEmMXs) | [孤芳自賞](https://open.spotify.com/album/3kWAPgQyHaWMmSZbYISZbk) | 3:14 | 2026-08-07 | 2026-11-27 |
 | [学会爱之前](https://open.spotify.com/track/4c7B7CVlBezPSSW7C4jMlg) | [Shi En](https://open.spotify.com/artist/7rukFwrEq79EAUe7X5DJRB) | [学会爱之前](https://open.spotify.com/album/7LPvA8oyNIbfgog1CJU44a) | 3:11 | 2025-10-06 | 2025-10-14 |
 | [孫尚香](https://open.spotify.com/track/6jos49DJ56lsVYnfDmHbIa) | [Pets Tseng](https://open.spotify.com/artist/1he19XnDUahODrmRwKlC8w) | [孫尚香](https://open.spotify.com/album/4g6CP7UziH7AV6jlNBWOBM) | 3:59 | 2024-12-30 | 2025-01-07 |
 | [安全下船](https://open.spotify.com/track/2QdtRR0p5ppfcvVW19dBmv) | [艾薇](https://open.spotify.com/artist/0RaC2hXyniYsju0mCSNz90) | [安全下船](https://open.spotify.com/album/5ZFtWLcnryC8es4HfAvFQb) | 3:31 | 2025-01-20 | 2025-01-28 |
@@ -766,6 +766,7 @@
 | [我的存在就是愛你](https://open.spotify.com/track/1emjanb16SqthPUn27rUCp) | [A\-Mei Chang](https://open.spotify.com/artist/6noxsCszBEEK04kCehugOp) | [我的存在就是愛你](https://open.spotify.com/album/06tHgjx8kTP2HE9S49o6YN) | 3:22 | 2026-01-05 | 2026-03-27 |
 | [我的愛在遺落的銀河](https://open.spotify.com/track/3L6MJx8lI8hiDcb7WdxyWo) | [Boon Hui Lu](https://open.spotify.com/artist/6PWJWwEm8BSBFAIAUWlwe4) | [我的愛在遺落的銀河](https://open.spotify.com/album/0vAf76LcvsLzR6JpAo02L1) | 3:28 | 2025-01-13 | 2025-02-11 |
 | [我的拥抱你的囚牢](https://open.spotify.com/track/7n4gY6czLKgfw2Ga3T7TNC) | [于冬然](https://open.spotify.com/artist/7mJv2vnmyEbD8eyI7tMLKs) | [我的拥抱你的囚牢](https://open.spotify.com/album/7kTzA0Cn2XoUMuFXqb4Zkq) | 3:27 | 2025-01-13 | 2025-01-21 |
+| [我的貓會後空翻](https://open.spotify.com/track/2t7Ki40DOY8YG38SEeD4xt) | [陳華](https://open.spotify.com/artist/5ZxRmJ21NzjxD2ZGBxi7um) | [Reborn](https://open.spotify.com/album/26OVUZNwcnGIudqCmkkS3c) | 3:18 | 2026-11-27 |  |
 | [我的這場慢舞](https://open.spotify.com/track/5yJ6g9LmxSqgdfMDsrTiZx) | [Evangeline Wong](https://open.spotify.com/artist/7sEIHkZXRzGa3OBUCCxzU5) | [我的這場慢舞](https://open.spotify.com/album/5MoQDc94zIaDvmHnwKx55a) | 2:55 | 2024-06-03 | 2024-06-11 |
 | [我的錯](https://open.spotify.com/track/37VmIUYqNg03Chr0a1BXTD) | [Karencici](https://open.spotify.com/artist/6v6qfXRvTRGGsmGfDvtMIK) | [我的錯](https://open.spotify.com/album/4WzURT9ZH0ulk9zKCPmYv9) | 2:40 | 2026-02-02 | 2026-04-03 |
 | [我的靈魂已經逐漸喜歡上了這裡](https://open.spotify.com/track/0RhyZR8URV5XzPBLjgqgXF) | [老王樂隊](https://open.spotify.com/artist/4MRQK5pLyNbcOW493n55iT) | [暮夜徐行](https://open.spotify.com/album/0ijkqmoHUFvMd8K4uY81Mo) | 3:59 | 2025-11-03 | 2025-11-11 |

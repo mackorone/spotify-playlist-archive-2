@@ -26107,6 +26107,24 @@
     },
     {
       "album": {
+        "name": "BEFORE TOUR",
+        "url": "https://open.spotify.com/album/3q7VorLn0tGQw6EKijpyqx"
+      },
+      "artists": [
+        {
+          "name": "Jaeychino",
+          "url": "https://open.spotify.com/artist/1mVk9jJNL0m9WIs0a1BQdS"
+        }
+      ],
+      "date_added": "2026-11-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 81912,
+      "name": "MERCH",
+      "url": "https://open.spotify.com/track/2IwrWG5NPOIceQDx8lLgjV"
+    },
+    {
+      "album": {
         "name": "DAROLD",
         "url": "https://open.spotify.com/album/4jNVrFSF7UzQdvQtzHjWM0"
       },
@@ -37052,6 +37070,28 @@
       "duration_ms": 123076,
       "name": "Skims",
       "url": "https://open.spotify.com/track/1C1XicSwijJXO43fe8qtVt"
+    },
+    {
+      "album": {
+        "name": "IN MY EXPERT OPINION",
+        "url": "https://open.spotify.com/album/785uWE9G5H0mbdcGcLf5oC"
+      },
+      "artists": [
+        {
+          "name": "Lord Sko",
+          "url": "https://open.spotify.com/artist/4okQpk1QkE8PGtiwyakP4h"
+        },
+        {
+          "name": "CARRTOONS",
+          "url": "https://open.spotify.com/artist/0994Up3Ob4zUFm3OFOWpzJ"
+        }
+      ],
+      "date_added": "2026-11-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 149117,
+      "name": "SKY FERREIRA",
+      "url": "https://open.spotify.com/track/72PLsFAhAFmWYafPd5mkfq"
     },
     {
       "album": {

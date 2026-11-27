@@ -1566,7 +1566,7 @@
       ],
       "date_added": "2026-08-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-27",
       "duration_ms": 285375,
       "name": "Closer Now With You",
       "url": "https://open.spotify.com/track/6AYzCA6Amw49cbWOMp09k8"
@@ -1901,6 +1901,24 @@
     },
     {
       "album": {
+        "name": "Hjertestikk",
+        "url": "https://open.spotify.com/album/0YpXGg6VmCrgFtUnMEC9aK"
+      },
+      "artists": [
+        {
+          "name": "Vepsestikk",
+          "url": "https://open.spotify.com/artist/3VnYLHFpI5sSnYQq0blOVP"
+        }
+      ],
+      "date_added": "2026-11-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 171766,
+      "name": "Denne vinteren",
+      "url": "https://open.spotify.com/track/2WogVQnBoHEVC8DyKHNku7"
+    },
+    {
+      "album": {
         "name": "Departure",
         "url": "https://open.spotify.com/album/2VKGfsdRfoQ9o8ci3TXzhx"
       },
@@ -2082,6 +2100,24 @@
       "duration_ms": 183456,
       "name": "Dreamer",
       "url": "https://open.spotify.com/track/4t4uVzI6aDiMw2cEzQWVFI"
+    },
+    {
+      "album": {
+        "name": "Cadence",
+        "url": "https://open.spotify.com/album/11fQmoxUdrddrHvobx0W5R"
+      },
+      "artists": [
+        {
+          "name": "Ghost Memoir",
+          "url": "https://open.spotify.com/artist/2pgPtGV1DHHZtrWndXKCc3"
+        }
+      ],
+      "date_added": "2026-11-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 187286,
+      "name": "Dreamer",
+      "url": "https://open.spotify.com/track/291NcCCoo8GzfYNSnIAqps"
     },
     {
       "album": {
@@ -3998,7 +4034,7 @@
       ],
       "date_added": "2026-09-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-27",
       "duration_ms": 273500,
       "name": "It Won't Change Anything",
       "url": "https://open.spotify.com/track/6nGwy3SRY37YtQgF35Zxrc"
@@ -4608,6 +4644,24 @@
       "duration_ms": 187800,
       "name": "member",
       "url": "https://open.spotify.com/track/3oP9C1RYEOzRWMmnKtC8wh"
+    },
+    {
+      "album": {
+        "name": "Memo",
+        "url": "https://open.spotify.com/album/5GR5rOaGVQdkWJ8ueFM6C7"
+      },
+      "artists": [
+        {
+          "name": "Astrid Matthesen",
+          "url": "https://open.spotify.com/artist/2DQ9yWHmT4sWYbMRtXae6C"
+        }
+      ],
+      "date_added": "2026-11-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 251903,
+      "name": "Memo",
+      "url": "https://open.spotify.com/track/2sfbUZrbgKtGG32q5cDSCt"
     },
     {
       "album": {
@@ -5235,6 +5289,24 @@
     },
     {
       "album": {
+        "name": "Oh God",
+        "url": "https://open.spotify.com/album/27ckeEUgoB02iVaFVJD9Tn"
+      },
+      "artists": [
+        {
+          "name": "Marie Sahba",
+          "url": "https://open.spotify.com/artist/0IxirvoD2iQmUBur4ezBvU"
+        }
+      ],
+      "date_added": "2026-11-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 227597,
+      "name": "Oh God",
+      "url": "https://open.spotify.com/track/0NBg1CnK8NNXInNY2ttn83"
+    },
+    {
+      "album": {
         "name": "Oh Maria",
         "url": "https://open.spotify.com/album/7pdhsxj4Y3aphFaTMo7zjn"
       },
@@ -5470,7 +5542,7 @@
       ],
       "date_added": "2021-12-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-27",
       "duration_ms": 182946,
       "name": "Pixie's Parasol",
       "url": "https://open.spotify.com/track/00Gbi2ytn6ZmA1ObVcPT93"
@@ -6720,7 +6792,7 @@
       ],
       "date_added": "2026-03-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-27",
       "duration_ms": 199712,
       "name": "The Man Who Lost it All",
       "url": "https://open.spotify.com/track/3hrL1naeO9Z02XjKD44Mze"

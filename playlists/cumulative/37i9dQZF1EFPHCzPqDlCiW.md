@@ -4,7 +4,7 @@
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/1c2S9zEjadnB6Mt2aOOLWn">Ollie Green</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-218 songs - 11 hr 28 min
+219 songs - 11 hr 32 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -73,7 +73,8 @@
 | [Entwined \(feat\. Grimes\)](https://open.spotify.com/track/3plRcdquOfuCdNmYffVxRs) | [Sub Focus](https://open.spotify.com/artist/0QaSiI5TLA4N7mcsdxShDO), [Grimes](https://open.spotify.com/artist/053q0ukIDRgzwTr4vNSwab) | [Contact](https://open.spotify.com/album/06z3wshQtpYwZnDoVle3pw) | 3:40 | 2025-11-23 |  |
 | [Everburn](https://open.spotify.com/track/2Wlf4EtmuLIbtu96Zmd5mF) | [James Bay](https://open.spotify.com/artist/4EzkuveR9pLvDVFNx6foYD) | [Changes All The Time](https://open.spotify.com/album/1Dds4p0qcMEnSE7jlMEt8n) | 3:18 | 2024-10-26 | 2025-04-21 |
 | [Everburn](https://open.spotify.com/track/3Ny8IsnTGd2cJd8P6X9xKl) | [James Bay](https://open.spotify.com/artist/4EzkuveR9pLvDVFNx6foYD) | [Changes All The Time \(Deluxe\)](https://open.spotify.com/album/441Y4TBgKQWHBJYlQBomI1) | 3:18 | 2025-04-20 |  |
-| [Evergreen](https://open.spotify.com/track/6af1RTPe8LUU2nzKQc88zf) | [NURKO](https://open.spotify.com/artist/757FXqX0Osk2pqtgv4E5v4), [Jordan Shaw](https://open.spotify.com/artist/6Z8vLeI1ZMj2kzTNWVOBXr) | [United](https://open.spotify.com/album/4e4Zi2CSqcIr9cMKN9vg6S) | 3:58 | 2024-10-22 |  |
+| [Evergreen](https://open.spotify.com/track/5keLTYcRh0R8x9l5VTimKN) | [NURKO](https://open.spotify.com/artist/757FXqX0Osk2pqtgv4E5v4), [Jordan Shaw](https://open.spotify.com/artist/6Z8vLeI1ZMj2kzTNWVOBXr) | [United](https://open.spotify.com/album/2iIVThI0WbTjr5BInr5QSi) | 3:58 | 2026-11-26 |  |
+| [Evergreen](https://open.spotify.com/track/6af1RTPe8LUU2nzKQc88zf) | [NURKO](https://open.spotify.com/artist/757FXqX0Osk2pqtgv4E5v4), [Jordan Shaw](https://open.spotify.com/artist/6Z8vLeI1ZMj2kzTNWVOBXr) | [United](https://open.spotify.com/album/4e4Zi2CSqcIr9cMKN9vg6S) | 3:58 | 2024-10-22 | 2026-11-27 |
 | [Ex\-Friend](https://open.spotify.com/track/5UxboRMB49Gi4X7ESngKnw) | [Allie Sherlock](https://open.spotify.com/artist/2yTmZ1PwFKkO0FjQp2flPl) | [Ex\-Friend](https://open.spotify.com/album/2FIyPHZSjTToAG9CEtasUt) | 2:45 | 2025-02-19 |  |
 | [Faces](https://open.spotify.com/track/32eAYk36CwX2cP81zfRl4M) | [Gavin James](https://open.spotify.com/artist/25tMQOrIU4LlUo6Sv8v5SE) | [Only Ticket Home](https://open.spotify.com/album/4xsgJS74UkFgI1DE71lnXX) | 3:22 | 2024-01-29 |  |
 | [Fall](https://open.spotify.com/track/6Gnf3QLRDofjxq6DFkSiRD) | [Dillon Francis](https://open.spotify.com/artist/5R3Hr2cnCCjt220Jmt2xLf), [Oaks](https://open.spotify.com/artist/1X2sRzO3K7Uvry9JWbG2iO) | [Fall](https://open.spotify.com/album/525z7lKqbZUzbeI6Ej2ii2) | 3:19 | 2026-10-09 |  |

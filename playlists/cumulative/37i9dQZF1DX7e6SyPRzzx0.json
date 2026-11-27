@@ -129,6 +129,24 @@
     },
     {
       "album": {
+        "name": "AR1 vs The World 2.0",
+        "url": "https://open.spotify.com/album/2ZeAaMmSdggdUwiGK1tDXj"
+      },
+      "artists": [
+        {
+          "name": "ApolloRed1",
+          "url": "https://open.spotify.com/artist/6woKompAdi85uFZpAcqPhP"
+        }
+      ],
+      "date_added": "2026-11-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 136130,
+      "name": "A.M.",
+      "url": "https://open.spotify.com/track/0iFv4nje4GcbY4arr1AO7X"
+    },
+    {
+      "album": {
         "name": "ABU DHABI (w/ Lancey Foux)",
         "url": "https://open.spotify.com/album/65nf2NivqigHee4vVjsRT5"
       },
@@ -384,6 +402,24 @@
       "duration_ms": 115002,
       "name": "BIG FEELING",
       "url": "https://open.spotify.com/track/0sH7M5s2bEWFRe7v7VRemW"
+    },
+    {
+      "album": {
+        "name": "Black Punk",
+        "url": "https://open.spotify.com/album/2MsrhQ8K9Qc2l8AeSnAOJT"
+      },
+      "artists": [
+        {
+          "name": "Molly Santana",
+          "url": "https://open.spotify.com/artist/1zEHBw7xQf0drXZagRkciU"
+        }
+      ],
+      "date_added": "2026-11-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 158154,
+      "name": "Black Bandana",
+      "url": "https://open.spotify.com/track/655CvpZ5IlPksoSNS6V4qq"
     },
     {
       "album": {
@@ -1684,7 +1720,7 @@
       ],
       "date_added": "2026-07-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-27",
       "duration_ms": 142821,
       "name": "i got taste",
       "url": "https://open.spotify.com/track/45oVmTltKMxvW5x0U3vS5l"
@@ -2658,7 +2694,7 @@
       ],
       "date_added": "2026-06-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-27",
       "duration_ms": 137041,
       "name": "MULA THA ROOT OF ALL EVIL",
       "url": "https://open.spotify.com/track/178Kk0lBFBHRh8EhuRj7YY"
@@ -2710,7 +2746,7 @@
       ],
       "date_added": "2026-09-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-27",
       "duration_ms": 196631,
       "name": "Never Tell",
       "url": "https://open.spotify.com/track/5uzRXTJF2a5dsvj0OY7nYz"

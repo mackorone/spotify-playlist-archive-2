@@ -1,12 +1,12 @@
 {
   "description": "This is MUNA. The essential tracks, all in one playlist.",
-  "num_followers": 18897,
+  "num_followers": 18898,
   "original_name": "This Is MUNA",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "awOCAAAAAAAgCiESrDG28cWYObAIUL/i",
+  "snapshot_id": "awYlAAAAAACq7rJohFL6A/Ex71Vd0WRW",
   "tracks": [
     {
       "added_at": null,
@@ -63,18 +63,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "Saves The World",
-        "url": "https://open.spotify.com/album/5ZpSRd3GwvEGrD7kWn0fHz"
+        "name": "Dancing On The Wall (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/3EDzhFgFAjw9EucBMRkStE"
       },
       "artists": [
         {
           "name": "MUNA",
           "url": "https://open.spotify.com/artist/6xdRb2GypJ7DqnWAI2mHGn"
+        },
+        {
+          "name": "Arlo Parks",
+          "url": "https://open.spotify.com/artist/4kIwETcbpuFgRukE8o7Opx"
         }
       ],
-      "duration_ms": 205871,
-      "name": "Number One Fan",
-      "url": "https://open.spotify.com/track/69WAiCaEdxACKzB4B7Bv27"
+      "duration_ms": 271230,
+      "name": "So What - Arlo Parks Summer Was Ecstasy Version",
+      "url": "https://open.spotify.com/track/1WYRF7RM8hsBe4edlS4Lze"
     },
     {
       "added_at": null,
@@ -111,6 +115,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Saves The World",
+        "url": "https://open.spotify.com/album/5ZpSRd3GwvEGrD7kWn0fHz"
+      },
+      "artists": [
+        {
+          "name": "MUNA",
+          "url": "https://open.spotify.com/artist/6xdRb2GypJ7DqnWAI2mHGn"
+        }
+      ],
+      "duration_ms": 205871,
+      "name": "Number One Fan",
+      "url": "https://open.spotify.com/track/69WAiCaEdxACKzB4B7Bv27"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "One That Got Away",
         "url": "https://open.spotify.com/album/2FAHnRUhqr0Scl92hrAond"
       },
@@ -123,22 +143,6 @@
       "duration_ms": 232266,
       "name": "One That Got Away",
       "url": "https://open.spotify.com/track/55RszydvrfNlZ2BQdF1c4q"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Saves The World",
-        "url": "https://open.spotify.com/album/5ZpSRd3GwvEGrD7kWn0fHz"
-      },
-      "artists": [
-        {
-          "name": "MUNA",
-          "url": "https://open.spotify.com/artist/6xdRb2GypJ7DqnWAI2mHGn"
-        }
-      ],
-      "duration_ms": 211971,
-      "name": "Stayaway",
-      "url": "https://open.spotify.com/track/3vnyzhfVRh3agMjP6nABJw"
     },
     {
       "added_at": null,
@@ -175,6 +179,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Saves The World",
+        "url": "https://open.spotify.com/album/5ZpSRd3GwvEGrD7kWn0fHz"
+      },
+      "artists": [
+        {
+          "name": "MUNA",
+          "url": "https://open.spotify.com/artist/6xdRb2GypJ7DqnWAI2mHGn"
+        }
+      ],
+      "duration_ms": 211971,
+      "name": "Stayaway",
+      "url": "https://open.spotify.com/track/3vnyzhfVRh3agMjP6nABJw"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Into Your Room (with MUNA)",
         "url": "https://open.spotify.com/album/5xoc8PmIs7xsuxaA7t4Oun"
       },
@@ -191,26 +211,6 @@
       "duration_ms": 211235,
       "name": "Into Your Room (with MUNA)",
       "url": "https://open.spotify.com/track/3RaG1pAMRHFiCAqcE9KKNo"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "HISTORY",
-        "url": "https://open.spotify.com/album/6IwONZNPHt81ip42NboklH"
-      },
-      "artists": [
-        {
-          "name": "The Knocks",
-          "url": "https://open.spotify.com/artist/2x7EATekOPhFGRx3syMGEC"
-        },
-        {
-          "name": "MUNA",
-          "url": "https://open.spotify.com/artist/6xdRb2GypJ7DqnWAI2mHGn"
-        }
-      ],
-      "duration_ms": 209293,
-      "name": "Bodies",
-      "url": "https://open.spotify.com/track/2xeIWTt1cWvRa8R31RPOip"
     },
     {
       "added_at": null,
@@ -247,6 +247,26 @@
     {
       "added_at": null,
       "album": {
+        "name": "HISTORY",
+        "url": "https://open.spotify.com/album/6IwONZNPHt81ip42NboklH"
+      },
+      "artists": [
+        {
+          "name": "The Knocks",
+          "url": "https://open.spotify.com/artist/2x7EATekOPhFGRx3syMGEC"
+        },
+        {
+          "name": "MUNA",
+          "url": "https://open.spotify.com/artist/6xdRb2GypJ7DqnWAI2mHGn"
+        }
+      ],
+      "duration_ms": 209293,
+      "name": "Bodies",
+      "url": "https://open.spotify.com/track/2xeIWTt1cWvRa8R31RPOip"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Saves The World",
         "url": "https://open.spotify.com/album/5ZpSRd3GwvEGrD7kWn0fHz"
       },
@@ -263,22 +283,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Sometimes (From \"Fire Island\")",
-        "url": "https://open.spotify.com/album/1OHC7T6smHk6ApFRemE8VE"
-      },
-      "artists": [
-        {
-          "name": "MUNA",
-          "url": "https://open.spotify.com/artist/6xdRb2GypJ7DqnWAI2mHGn"
-        }
-      ],
-      "duration_ms": 183811,
-      "name": "Sometimes - From \"Fire Island\"",
-      "url": "https://open.spotify.com/track/18O6oj2DtAA9lPlP9Kl9R2"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Dancing On The Wall",
         "url": "https://open.spotify.com/album/2CJw4ooOgUAxJkJpNiKcd3"
       },
@@ -288,9 +292,9 @@
           "url": "https://open.spotify.com/artist/6xdRb2GypJ7DqnWAI2mHGn"
         }
       ],
-      "duration_ms": 154853,
-      "name": "Wannabeher",
-      "url": "https://open.spotify.com/track/4412CfupPqPn61n1nVew0s"
+      "duration_ms": 193920,
+      "name": "Girl's Girl",
+      "url": "https://open.spotify.com/track/2BuLvHB2f5yWhPTYNF7CU8"
     },
     {
       "added_at": null,
@@ -311,8 +315,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Saves The World",
-        "url": "https://open.spotify.com/album/5ZpSRd3GwvEGrD7kWn0fHz"
+        "name": "Sometimes (From \"Fire Island\")",
+        "url": "https://open.spotify.com/album/1OHC7T6smHk6ApFRemE8VE"
       },
       "artists": [
         {
@@ -320,9 +324,41 @@
           "url": "https://open.spotify.com/artist/6xdRb2GypJ7DqnWAI2mHGn"
         }
       ],
-      "duration_ms": 245854,
-      "name": "Taken",
-      "url": "https://open.spotify.com/track/1DCf4TQUJdWWXLM8LOIWA7"
+      "duration_ms": 183811,
+      "name": "Sometimes - From \"Fire Island\"",
+      "url": "https://open.spotify.com/track/18O6oj2DtAA9lPlP9Kl9R2"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "About U",
+        "url": "https://open.spotify.com/album/0mfj2MrZptbPw7K5Wo4ikY"
+      },
+      "artists": [
+        {
+          "name": "MUNA",
+          "url": "https://open.spotify.com/artist/6xdRb2GypJ7DqnWAI2mHGn"
+        }
+      ],
+      "duration_ms": 255507,
+      "name": "Crying On The Bathroom Floor",
+      "url": "https://open.spotify.com/track/6nVKC0GCQrf9MQSJgYiaEr"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Dancing On The Wall",
+        "url": "https://open.spotify.com/album/2CJw4ooOgUAxJkJpNiKcd3"
+      },
+      "artists": [
+        {
+          "name": "MUNA",
+          "url": "https://open.spotify.com/artist/6xdRb2GypJ7DqnWAI2mHGn"
+        }
+      ],
+      "duration_ms": 154853,
+      "name": "Wannabeher",
+      "url": "https://open.spotify.com/track/4412CfupPqPn61n1nVew0s"
     },
     {
       "added_at": null,
@@ -347,8 +383,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Dancing On The Wall",
-        "url": "https://open.spotify.com/album/2CJw4ooOgUAxJkJpNiKcd3"
+        "name": "Saves The World",
+        "url": "https://open.spotify.com/album/5ZpSRd3GwvEGrD7kWn0fHz"
       },
       "artists": [
         {
@@ -356,25 +392,9 @@
           "url": "https://open.spotify.com/artist/6xdRb2GypJ7DqnWAI2mHGn"
         }
       ],
-      "duration_ms": 193920,
-      "name": "Girl's Girl",
-      "url": "https://open.spotify.com/track/2BuLvHB2f5yWhPTYNF7CU8"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "About U",
-        "url": "https://open.spotify.com/album/0mfj2MrZptbPw7K5Wo4ikY"
-      },
-      "artists": [
-        {
-          "name": "MUNA",
-          "url": "https://open.spotify.com/artist/6xdRb2GypJ7DqnWAI2mHGn"
-        }
-      ],
-      "duration_ms": 255507,
-      "name": "Crying On The Bathroom Floor",
-      "url": "https://open.spotify.com/track/6nVKC0GCQrf9MQSJgYiaEr"
+      "duration_ms": 245854,
+      "name": "Taken",
+      "url": "https://open.spotify.com/track/1DCf4TQUJdWWXLM8LOIWA7"
     },
     {
       "added_at": null,
@@ -391,6 +411,22 @@
       "duration_ms": 223317,
       "name": "Runner\u2019s High",
       "url": "https://open.spotify.com/track/0h0A93X0cOihhnuOv6EPtF"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "About U",
+        "url": "https://open.spotify.com/album/0mfj2MrZptbPw7K5Wo4ikY"
+      },
+      "artists": [
+        {
+          "name": "MUNA",
+          "url": "https://open.spotify.com/artist/6xdRb2GypJ7DqnWAI2mHGn"
+        }
+      ],
+      "duration_ms": 210052,
+      "name": "Loudspeaker",
+      "url": "https://open.spotify.com/track/5ztCcMNmFiq5ZnID9jY9SP"
     },
     {
       "added_at": null,
@@ -427,22 +463,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "About U",
-        "url": "https://open.spotify.com/album/0mfj2MrZptbPw7K5Wo4ikY"
-      },
-      "artists": [
-        {
-          "name": "MUNA",
-          "url": "https://open.spotify.com/artist/6xdRb2GypJ7DqnWAI2mHGn"
-        }
-      ],
-      "duration_ms": 210052,
-      "name": "Loudspeaker",
-      "url": "https://open.spotify.com/track/5ztCcMNmFiq5ZnID9jY9SP"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "In My Way",
         "url": "https://open.spotify.com/album/2AYySKA04nhtLWNvxjGbG9"
       },
@@ -455,6 +475,22 @@
       "duration_ms": 200772,
       "name": "In My Way",
       "url": "https://open.spotify.com/track/5NfpIjvaqEbrG46NmE3adV"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "About U",
+        "url": "https://open.spotify.com/album/0mfj2MrZptbPw7K5Wo4ikY"
+      },
+      "artists": [
+        {
+          "name": "MUNA",
+          "url": "https://open.spotify.com/artist/6xdRb2GypJ7DqnWAI2mHGn"
+        }
+      ],
+      "duration_ms": 297045,
+      "name": "Winterbreak",
+      "url": "https://open.spotify.com/track/4B6BiC4TZUbvXMbrdx2rhq"
     },
     {
       "added_at": null,
@@ -491,22 +527,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "About U",
-        "url": "https://open.spotify.com/album/0mfj2MrZptbPw7K5Wo4ikY"
-      },
-      "artists": [
-        {
-          "name": "MUNA",
-          "url": "https://open.spotify.com/artist/6xdRb2GypJ7DqnWAI2mHGn"
-        }
-      ],
-      "duration_ms": 297045,
-      "name": "Winterbreak",
-      "url": "https://open.spotify.com/track/4B6BiC4TZUbvXMbrdx2rhq"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Tegan and Sara Present the Con X: Covers",
         "url": "https://open.spotify.com/album/3ADMYew7OUYnMPF1EHOIe9"
       },
@@ -519,6 +539,22 @@
       "duration_ms": 177320,
       "name": "Relief Next to Me",
       "url": "https://open.spotify.com/track/5sCJS9pnT3xPShr4TeMGFV"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "About U",
+        "url": "https://open.spotify.com/album/0mfj2MrZptbPw7K5Wo4ikY"
+      },
+      "artists": [
+        {
+          "name": "MUNA",
+          "url": "https://open.spotify.com/artist/6xdRb2GypJ7DqnWAI2mHGn"
+        }
+      ],
+      "duration_ms": 237020,
+      "name": "So Special",
+      "url": "https://open.spotify.com/track/50EsWUxLBSS4nQnTuagVjF"
     },
     {
       "added_at": null,
@@ -559,22 +595,6 @@
       "duration_ms": 200959,
       "name": "Bad At Letting Go (feat. MUNA)",
       "url": "https://open.spotify.com/track/1AJx07ntjz0nILoa6M7xEe"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "About U",
-        "url": "https://open.spotify.com/album/0mfj2MrZptbPw7K5Wo4ikY"
-      },
-      "artists": [
-        {
-          "name": "MUNA",
-          "url": "https://open.spotify.com/artist/6xdRb2GypJ7DqnWAI2mHGn"
-        }
-      ],
-      "duration_ms": 237020,
-      "name": "So Special",
-      "url": "https://open.spotify.com/track/50EsWUxLBSS4nQnTuagVjF"
     },
     {
       "added_at": null,

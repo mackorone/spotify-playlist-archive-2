@@ -6,7 +6,7 @@
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "awOCAAAAAAC4jXf6DepicCNH9hkvJlVp",
+  "snapshot_id": "awYlAAAAAAB5bH8YtckyDvRdw21dhDiI",
   "tracks": [
     {
       "added_at": null,
@@ -379,8 +379,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "FLOW ANIME BEST",
-        "url": "https://open.spotify.com/album/7GMKu72g0P38Zb4A3U80UA"
+        "name": "\uff0310",
+        "url": "https://open.spotify.com/album/2ZuSfjDBbARj2PDZLfA9vW"
       },
       "artists": [
         {
@@ -388,9 +388,9 @@
           "url": "https://open.spotify.com/artist/3w2HqkKa6upwuXEULtGvnY"
         }
       ],
-      "duration_ms": 233053,
-      "name": "1/3\u306e\u7d14\u60c5\u306a\u611f\u60c5",
-      "url": "https://open.spotify.com/track/3TCMnZY6XV6xNBDRzl7fdm"
+      "duration_ms": 252133,
+      "name": "Steppin' out",
+      "url": "https://open.spotify.com/track/3B2sFt25j7ThJeJtsSaUw3"
     },
     {
       "added_at": null,
@@ -411,8 +411,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "\uff0310",
-        "url": "https://open.spotify.com/album/2ZuSfjDBbARj2PDZLfA9vW"
+        "name": "FLOW ANIME BEST",
+        "url": "https://open.spotify.com/album/7GMKu72g0P38Zb4A3U80UA"
       },
       "artists": [
         {
@@ -420,9 +420,9 @@
           "url": "https://open.spotify.com/artist/3w2HqkKa6upwuXEULtGvnY"
         }
       ],
-      "duration_ms": 252133,
-      "name": "Steppin' out",
-      "url": "https://open.spotify.com/track/3B2sFt25j7ThJeJtsSaUw3"
+      "duration_ms": 233053,
+      "name": "1/3\u306e\u7d14\u60c5\u306a\u611f\u60c5",
+      "url": "https://open.spotify.com/track/3TCMnZY6XV6xNBDRzl7fdm"
     },
     {
       "added_at": null,
@@ -443,22 +443,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "FLOW 26TH ANNIVERSARY BEST 26 SONGS",
-        "url": "https://open.spotify.com/album/6lyZYzko5j5CC6PsS10iFZ"
-      },
-      "artists": [
-        {
-          "name": "FLOW",
-          "url": "https://open.spotify.com/artist/3w2HqkKa6upwuXEULtGvnY"
-        }
-      ],
-      "duration_ms": 192000,
-      "name": "\u8d08\u308b\u8a00\u8449 (single version)",
-      "url": "https://open.spotify.com/track/2qtUy8rrbEqdfvyeMqETQ1"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Alright!!!",
         "url": "https://open.spotify.com/album/2LAtZAVqBu5mwWOXuvecxs"
       },
@@ -471,6 +455,22 @@
       "duration_ms": 219160,
       "name": "Alright!!!",
       "url": "https://open.spotify.com/track/3tPk1doXdKGzwHP3HsghPg"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "FLOW 26TH ANNIVERSARY BEST 26 SONGS",
+        "url": "https://open.spotify.com/album/6lyZYzko5j5CC6PsS10iFZ"
+      },
+      "artists": [
+        {
+          "name": "FLOW",
+          "url": "https://open.spotify.com/artist/3w2HqkKa6upwuXEULtGvnY"
+        }
+      ],
+      "duration_ms": 192000,
+      "name": "\u8d08\u308b\u8a00\u8449 (single version)",
+      "url": "https://open.spotify.com/track/2qtUy8rrbEqdfvyeMqETQ1"
     },
     {
       "added_at": null,
@@ -591,22 +591,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "DICE",
-        "url": "https://open.spotify.com/album/73xTnF27ekpsPFm42Zs2J1"
-      },
-      "artists": [
-        {
-          "name": "FLOW",
-          "url": "https://open.spotify.com/artist/3w2HqkKa6upwuXEULtGvnY"
-        }
-      ],
-      "duration_ms": 265333,
-      "name": "DICE",
-      "url": "https://open.spotify.com/track/1xm4MuXmiLz4KKKx5nqBHD"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "\u30c7\u30a4\u30c9\u30ea\u30fc\u30e0 \u30d3\u30ea\u30fc\u30f4\u30a1\u30fc",
         "url": "https://open.spotify.com/album/4pHB7QiyMIyOrzaToBoS3d"
       },
@@ -623,6 +607,22 @@
       "duration_ms": 217121,
       "name": "\u30c7\u30a4\u30c9\u30ea\u30fc\u30e0 \u30d3\u30ea\u30fc\u30f4\u30a1\u30fc",
       "url": "https://open.spotify.com/track/1IUpg0s2PNb5IQCjC8f3hj"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "DICE",
+        "url": "https://open.spotify.com/album/73xTnF27ekpsPFm42Zs2J1"
+      },
+      "artists": [
+        {
+          "name": "FLOW",
+          "url": "https://open.spotify.com/artist/3w2HqkKa6upwuXEULtGvnY"
+        }
+      ],
+      "duration_ms": 265333,
+      "name": "DICE",
+      "url": "https://open.spotify.com/track/1xm4MuXmiLz4KKKx5nqBHD"
     },
     {
       "added_at": null,
@@ -691,8 +691,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "DAYS",
-        "url": "https://open.spotify.com/album/5MsoxL2VpPzd6m4o83HkTY"
+        "name": "BLACK & WHITE",
+        "url": "https://open.spotify.com/album/5REfiCQKIQ8BkQUjQlzvfF"
       },
       "artists": [
         {
@@ -700,9 +700,9 @@
           "url": "https://open.spotify.com/artist/3w2HqkKa6upwuXEULtGvnY"
         }
       ],
-      "duration_ms": 91786,
-      "name": "DAYS \u301cEUREKA OPENING MIX\u301c",
-      "url": "https://open.spotify.com/track/7vJYGBXAIBtnA1Gqnc44oD"
+      "duration_ms": 222226,
+      "name": "Hey!!!",
+      "url": "https://open.spotify.com/track/1ccEcnMjkBufGHaxi4Yzdp"
     },
     {
       "added_at": null,
@@ -739,8 +739,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "BLACK & WHITE",
-        "url": "https://open.spotify.com/album/5REfiCQKIQ8BkQUjQlzvfF"
+        "name": "DAYS",
+        "url": "https://open.spotify.com/album/5MsoxL2VpPzd6m4o83HkTY"
       },
       "artists": [
         {
@@ -748,9 +748,9 @@
           "url": "https://open.spotify.com/artist/3w2HqkKa6upwuXEULtGvnY"
         }
       ],
-      "duration_ms": 222226,
-      "name": "Hey!!!",
-      "url": "https://open.spotify.com/track/1ccEcnMjkBufGHaxi4Yzdp"
+      "duration_ms": 91786,
+      "name": "DAYS \u301cEUREKA OPENING MIX\u301c",
+      "url": "https://open.spotify.com/track/7vJYGBXAIBtnA1Gqnc44oD"
     },
     {
       "added_at": null,

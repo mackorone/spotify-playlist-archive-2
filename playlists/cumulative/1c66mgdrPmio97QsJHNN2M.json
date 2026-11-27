@@ -1481,6 +1481,24 @@
     },
     {
       "album": {
+        "name": "Ai wa Itakunai Hazu",
+        "url": "https://open.spotify.com/album/1W6P77eOAND6bBHz7ToNPO"
+      },
+      "artists": [
+        {
+          "name": "Krey Galin",
+          "url": "https://open.spotify.com/artist/6Dsc7EoynW9ocyHnPfAQ19"
+        }
+      ],
+      "date_added": "2026-11-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 323965,
+      "name": "Ai wa Itakunai Hazu",
+      "url": "https://open.spotify.com/track/5TCVZilAUAdj3zxxXsvycP"
+    },
+    {
+      "album": {
         "name": "AIM HIGH",
         "url": "https://open.spotify.com/album/6R75d4EYg4OM84mGePXb53"
       },
@@ -3650,7 +3668,7 @@
       ],
       "date_added": "2026-10-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-27",
       "duration_ms": 152810,
       "name": "Babe",
       "url": "https://open.spotify.com/track/5BK1YFHK78Tu5T5PBOvZyN"
@@ -21824,7 +21842,7 @@
       ],
       "date_added": "2026-10-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-27",
       "duration_ms": 131053,
       "name": "Heart On My Sleeve",
       "url": "https://open.spotify.com/track/1nJXH2R67WQpMm3guvZdc0"
@@ -27593,6 +27611,28 @@
     },
     {
       "album": {
+        "name": "JOY (Christmas Version)",
+        "url": "https://open.spotify.com/album/2s95jY3p4MjaH3NVc67JfJ"
+      },
+      "artists": [
+        {
+          "name": "Thomas Buckler",
+          "url": "https://open.spotify.com/artist/3JqcrayLkN2wse3Py5oBd7"
+        },
+        {
+          "name": "Alice-Lily",
+          "url": "https://open.spotify.com/artist/34Wg7Ym4mUTCJzQTiM8Pi4"
+        }
+      ],
+      "date_added": "2026-11-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 220000,
+      "name": "JOY - Christmas Version",
+      "url": "https://open.spotify.com/track/0GpiChxwrZhqwtleRp3u93"
+    },
+    {
+      "album": {
         "name": "Mother Resides",
         "url": "https://open.spotify.com/album/3MFfahsn5gq7nrifvR0yRD"
       },
@@ -31988,7 +32028,7 @@
       ],
       "date_added": "2026-10-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-27",
       "duration_ms": 144949,
       "name": "Lucky in a Corrupt Place",
       "url": "https://open.spotify.com/track/6praACVQ9cdhNtZk6H6LeW"
@@ -34260,6 +34300,24 @@
       "duration_ms": 243935,
       "name": "Moments",
       "url": "https://open.spotify.com/track/2LslhpxPisBrXpnrlv6Hsx"
+    },
+    {
+      "album": {
+        "name": "Moments We Shared",
+        "url": "https://open.spotify.com/album/5stSKg14TBwT2sU4yXrYoE"
+      },
+      "artists": [
+        {
+          "name": "NAPOCK",
+          "url": "https://open.spotify.com/artist/77ED2nkxoyZuvzbrFqbjqG"
+        }
+      ],
+      "date_added": "2026-11-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 204756,
+      "name": "Moments We Shared",
+      "url": "https://open.spotify.com/track/1qNUyAllNaXrCvyX4VVbNe"
     },
     {
       "album": {
@@ -40100,7 +40158,7 @@
       ],
       "date_added": "2026-10-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-27",
       "duration_ms": 147857,
       "name": "Pearls",
       "url": "https://open.spotify.com/track/5pXNmz5OYjDrtUKeYsTlfN"
@@ -43033,6 +43091,24 @@
     },
     {
       "album": {
+        "name": "Rester le m\u00eame",
+        "url": "https://open.spotify.com/album/7g8o6teS2MqCmYhv17Wz6a"
+      },
+      "artists": [
+        {
+          "name": "Loan",
+          "url": "https://open.spotify.com/artist/3cTXbsaDNp5xWWs1DV2ywr"
+        }
+      ],
+      "date_added": "2026-11-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 179040,
+      "name": "Rester le m\u00eame",
+      "url": "https://open.spotify.com/track/7DUdE9mcsT2YtkaqGT9xKn"
+    },
+    {
+      "album": {
         "name": "Retro Boomerang",
         "url": "https://open.spotify.com/album/1AOIf1wzq8Aoq2TkqlxTtl"
       },
@@ -44042,7 +44118,7 @@
       ],
       "date_added": "2026-10-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-27",
       "duration_ms": 149118,
       "name": "Sail Away",
       "url": "https://open.spotify.com/track/7EB4SNhPQiYb6pohZ89dmU"
@@ -47441,6 +47517,24 @@
     },
     {
       "album": {
+        "name": "Somethine Real",
+        "url": "https://open.spotify.com/album/3oHFWaM74S6AEAS3OFFy0w"
+      },
+      "artists": [
+        {
+          "name": "mattioeu",
+          "url": "https://open.spotify.com/artist/22YE4xyIXEfvJqVrrPRcl1"
+        }
+      ],
+      "date_added": "2026-11-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 179590,
+      "name": "Somethine Real",
+      "url": "https://open.spotify.com/track/64eCrsYMA4nI4Eo3bnB82O"
+    },
+    {
+      "album": {
         "name": "Emotions",
         "url": "https://open.spotify.com/album/0kDt3V6IBbZC6oNQcUu8lL"
       },
@@ -50212,6 +50306,24 @@
       "duration_ms": 176442,
       "name": "Take me or leave me",
       "url": "https://open.spotify.com/track/6XKIcXRuqMhaP0hLJmrhJI"
+    },
+    {
+      "album": {
+        "name": "Take me to the top",
+        "url": "https://open.spotify.com/album/22C2WSIZHRitqF3XQfIcLS"
+      },
+      "artists": [
+        {
+          "name": "Gadir",
+          "url": "https://open.spotify.com/artist/5OETPu2nXzwWkBbabbissm"
+        }
+      ],
+      "date_added": "2026-11-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 248443,
+      "name": "Take me to the top",
+      "url": "https://open.spotify.com/track/58PkQN6czDJ7XSXPnMuM3C"
     },
     {
       "album": {
@@ -59921,6 +60033,28 @@
     },
     {
       "album": {
+        "name": "Brother To Me",
+        "url": "https://open.spotify.com/album/4kdxXF70FeQFqsQQYO6Hio"
+      },
+      "artists": [
+        {
+          "name": "Fola Kotun",
+          "url": "https://open.spotify.com/artist/7obFZub7Cc0H41Xa2eq7aI"
+        },
+        {
+          "name": "TVL Back Up Singers",
+          "url": "https://open.spotify.com/artist/0j1cThGO8XQRWUE1RYkIAR"
+        }
+      ],
+      "date_added": "2026-11-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 234840,
+      "name": "Worked Out For Good",
+      "url": "https://open.spotify.com/track/1jb5vS5JFGRomIbsBTQsxT"
+    },
+    {
+      "album": {
         "name": "World of Dragons",
         "url": "https://open.spotify.com/album/5UspvmSNBgmzWRKdxEdJFD"
       },
@@ -60098,6 +60232,24 @@
       "duration_ms": 363039,
       "name": "Wrong Timeline",
       "url": "https://open.spotify.com/track/1KDpIqbRSsJjxAcaXzDaF5"
+    },
+    {
+      "album": {
+        "name": "PARADOX : RUIN",
+        "url": "https://open.spotify.com/album/5SNgCGpbXm5lzSfRf4WBEa"
+      },
+      "artists": [
+        {
+          "name": "CRISIS",
+          "url": "https://open.spotify.com/artist/6X1hduJOBVuIfEJ35dx0gQ"
+        }
+      ],
+      "date_added": "2026-11-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 188373,
+      "name": "WTL (Walk The Line)",
+      "url": "https://open.spotify.com/track/58k729dEU3bzjca24fwIJ3"
     },
     {
       "album": {

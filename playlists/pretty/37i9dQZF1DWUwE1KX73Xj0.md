@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUwE1KX73Xj0.md) - [plain]
 
 > Listen to the soundtracks of CONNECTION\. \(커넥션의 사운드 트랙들을 즐겨보세요!\) You can also listen to songs selected by the cast\. \(출연진들이 직접 선정한 추천곡들도 들어보실 수 있습니다.\)
 
-[Spotify](https://open.spotify.com/user/spotify) - 3,783 likes - 16 songs - 57 min 5 sec
+[Spotify](https://open.spotify.com/user/spotify) - 3,786 likes - 16 songs - 57 min 5 sec
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -13,7 +13,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUwE1KX73Xj0.md) - [plain]
 | 3 | [Curated by Ji\-Sung](https://open.spotify.com/track/3tb7gXhCkXoa710cyd53ZC) | [CONNECTION](https://open.spotify.com/artist/1kkHOCzxZSpgfBOmKiWNSX) | [CONNECTION audio liners](https://open.spotify.com/album/3UX5b9viCmPGYmgJ7RjQZ4) | 0:31 |
 | 4 | [시작](https://open.spotify.com/track/5TeDIQrpwWtLWaFfzLH0hh) | [Gaho](https://open.spotify.com/artist/3ybZTNrlK0QhL4rBxfLHOc) | [ITAEWON CLASS \(Original Television Soundtrack\) Pt.2](https://open.spotify.com/album/7KDMHe0BgyhOmk4Oz6g293) | 3:22 |
 | 5 | [The Real Folk Blues](https://open.spotify.com/track/5Cmf3LmbLd9g79rS55X7qK) | [Mai Yamane](https://open.spotify.com/artist/2jakCNqkEhdRND7btwoFOj) | [COWBOY BEBOP Vitaminless](https://open.spotify.com/album/0J2DObt0HybwYP91obpHRy) | 6:17 |
-| 6 | [I do it alone](https://open.spotify.com/track/5p76Wsuc0rdaOU6YdKnJvx) | [Shin Yong Jae](https://open.spotify.com/artist/2frFGmni9tkRgXYdXmzQvR) | [THE PRESIDENT DRAMA OST Part.3](https://open.spotify.com/album/7fuhu61BzTflpmgq66p2LX) | 3:43 |
+| 6 | [I do it alone](https://open.spotify.com/track/5p76Wsuc0rdaOU6YdKnJvx) | [SHIN YONGJAE](https://open.spotify.com/artist/2frFGmni9tkRgXYdXmzQvR) | [THE PRESIDENT DRAMA OST Part.3](https://open.spotify.com/album/7fuhu61BzTflpmgq66p2LX) | 3:43 |
 | 7 | [Simon Dominic](https://open.spotify.com/track/2kbTe9JWzLAXa4MCp1FVNz) | [Simon Dominic](https://open.spotify.com/artist/57W9ikVc6O2wLDtmclSjvN) | [￦ & ONLY](https://open.spotify.com/album/1gH9rdHenF2tgGr5Q1EjNW) | 3:43 |
 | 8 | [누구를 위한 삶인가 \(From 사생결단 ost\)](https://open.spotify.com/track/5E6Qbaz22422Msdu3ECyEk) | [Leessang](https://open.spotify.com/artist/0JGN9XIqm3vfg7hhPHjExI) | [Black Sun](https://open.spotify.com/album/01JgWC8hga64FGj1TaUqUZ) | 4:38 |
 | 9 | [Curated by Jeon Mi Do](https://open.spotify.com/track/6yf7b2OE8IkuFLt7FLw0Pm) | [CONNECTION](https://open.spotify.com/artist/1kkHOCzxZSpgfBOmKiWNSX) | [CONNECTION audio liners](https://open.spotify.com/album/3UX5b9viCmPGYmgJ7RjQZ4) | 0:36 |

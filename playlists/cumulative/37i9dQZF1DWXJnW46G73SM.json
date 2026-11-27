@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2021-12-28",
-  "description": "\u0634\u062c\u0651\u0639 \u0627\u0644\u0645\u0646\u062a\u064e\u062c \u0627\u0644\u0645\u062d\u0644\u064a. \u0627\u0644\u063a\u0644\u0627\u0641: JAY",
+  "description": "Sine :\u0634\u062c\u0651\u0639 \u0627\u0644\u0645\u0646\u062a\u064e\u062c \u0627\u0644\u0645\u062d\u0644\u064a. \u0627\u0644\u063a\u0644\u0627\u0641",
   "name": "\u0645\u0635\u0631\u064a \u062c\u062f\u064a\u062f",
   "tracks": [
     {
@@ -2899,6 +2899,24 @@
     },
     {
       "album": {
+        "name": "Ansaky Ezay - \u0627\u0646\u0633\u0627\u0643\u064a \u0627\u0632\u0627\u064a",
+        "url": "https://open.spotify.com/album/2ZzhP23inAK74tLREo9w73"
+      },
+      "artists": [
+        {
+          "name": "Mazen Jr",
+          "url": "https://open.spotify.com/artist/3QlNKGwTJjD5ihaVsYbbLb"
+        }
+      ],
+      "date_added": "2026-11-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 178901,
+      "name": "Ansaky Ezay - \u0627\u0646\u0633\u0627\u0643\u064a \u0627\u0632\u0627\u064a",
+      "url": "https://open.spotify.com/track/25Mw4eYew9YypzqhO8linc"
+    },
+    {
+      "album": {
         "name": "ARABI",
         "url": "https://open.spotify.com/album/2wcsb8Ew4deFBMNGWDni2P"
       },
@@ -3042,7 +3060,7 @@
       ],
       "date_added": "2026-04-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-27",
       "duration_ms": 221123,
       "name": "As2ela",
       "url": "https://open.spotify.com/track/4e2TJUe9uUjBjc6fbnWHtH"
@@ -3834,6 +3852,24 @@
       "duration_ms": 160052,
       "name": "Baftekrek Beleil",
       "url": "https://open.spotify.com/track/4Yzk6Ph1BGGjlXuA3id81i"
+    },
+    {
+      "album": {
+        "name": "SOULPHONIC ORCHESTRA",
+        "url": "https://open.spotify.com/album/0VJ4mLBWpz9EOKYrumSa2S"
+      },
+      "artists": [
+        {
+          "name": "Soulphonic",
+          "url": "https://open.spotify.com/artist/3QoLVZNmSNKRsjvrEFWqX9"
+        }
+      ],
+      "date_added": "2026-11-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 164333,
+      "name": "BAGHEEB",
+      "url": "https://open.spotify.com/track/0g3qFju45IJTo3B8ku44ex"
     },
     {
       "album": {
@@ -11790,7 +11826,7 @@
       ],
       "date_added": "2026-07-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-27",
       "duration_ms": 147976,
       "name": "KHLSANASLN",
       "url": "https://open.spotify.com/track/57Hlh1ajwrbOHQfoR8QQGq"
@@ -11910,7 +11946,7 @@
       ],
       "date_added": "2026-08-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-27",
       "duration_ms": 87000,
       "name": "KOBAYET SHAY",
       "url": "https://open.spotify.com/track/6kTRGfFTec9YYVX7t99Y7N"
@@ -14004,7 +14040,7 @@
       ],
       "date_added": "2026-09-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-27",
       "duration_ms": 193714,
       "name": "Mahontsh",
       "url": "https://open.spotify.com/track/5YwqzqGDFcP7gDCMDq4BVY"
@@ -19396,7 +19432,7 @@
       ],
       "date_added": "2026-05-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-27",
       "duration_ms": 184285,
       "name": "TAB EH?",
       "url": "https://open.spotify.com/track/5D7FQtip60N7XzqBF9Ad5N"
@@ -19792,6 +19828,24 @@
       "duration_ms": 200874,
       "name": "Tb Khaleky",
       "url": "https://open.spotify.com/track/0lWE84PLzGmNp8iosqNBN1"
+    },
+    {
+      "album": {
+        "name": "Tegry We Tensany",
+        "url": "https://open.spotify.com/album/4mpHNm2O3lEpCPszJeuVeW"
+      },
+      "artists": [
+        {
+          "name": "Sine",
+          "url": "https://open.spotify.com/artist/1MQryKKB1q19LauQsB4GzI"
+        }
+      ],
+      "date_added": "2026-11-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 188400,
+      "name": "Tegry We Tensany",
+      "url": "https://open.spotify.com/track/2Bop4ge8MimUq8zoV04ERw"
     },
     {
       "album": {
@@ -22234,7 +22288,7 @@
       ],
       "date_added": "2026-08-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-27",
       "duration_ms": 233760,
       "name": "Yesaalo 3ank",
       "url": "https://open.spotify.com/track/7I0qvacX0xIJtjozHf2iAo"
@@ -30830,6 +30884,24 @@
       "duration_ms": 216789,
       "name": "\u0642\u0644\u0628\u064a \u0627\u0644\u0634\u0642\u064a",
       "url": "https://open.spotify.com/track/7oSXYJ4i7fCmLIssv6e80u"
+    },
+    {
+      "album": {
+        "name": "\u0642\u0644\u0628\u064a \u0627\u0644\u0648\u062d\u062f\u0627\u0646\u064a",
+        "url": "https://open.spotify.com/album/1LLg18845rCJKdnkj8CHfQ"
+      },
+      "artists": [
+        {
+          "name": "Sharabasy",
+          "url": "https://open.spotify.com/artist/477aQsAB94mkPvcuawwG6o"
+        }
+      ],
+      "date_added": "2026-11-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 161123,
+      "name": "\u0642\u0644\u0628\u064a \u0627\u0644\u0648\u062d\u062f\u0627\u0646\u064a",
+      "url": "https://open.spotify.com/track/0HW6F9IhtQXkeSdSkAnItc"
     },
     {
       "album": {

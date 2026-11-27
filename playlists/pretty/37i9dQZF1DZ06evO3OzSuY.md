@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3OzSuY.md) - [plain]
 
 > This is Zendaya\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 25,993 likes - 33 songs - 1 hr 47 min
+[Spotify](https://open.spotify.com/user/spotify) - 25,992 likes - 33 songs - 1 hr 47 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -27,11 +27,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3OzSuY.md) - [plain]
 | 17 | [X \(feat\. Zendaya\)](https://open.spotify.com/track/58Lj1OJrwR3huIt1xNMvkr) | [Prince Royce](https://open.spotify.com/artist/3MHaV05u0io8fQbZ2XPtlC), [Zendaya](https://open.spotify.com/artist/6sCbFbEjbYepqswM1vWjjs) | [FIVE \(Deluxe Edition\)](https://open.spotify.com/album/7fIqsFfeYEEP9RO25KHj8P) | 3:52 |
 | 18 | [Wonderful Questions](https://open.spotify.com/track/5rBFUw16Me6aAM1uZker9a) | [Channing Tatum](https://open.spotify.com/artist/3BPe0bhsZS7CDidyCZMarU), [Zendaya](https://open.spotify.com/artist/6sCbFbEjbYepqswM1vWjjs) | [Smallfoot \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/6ZlM4XjfDsaqBQiAY2GVy9) | 2:12 |
 | 19 | [Swag It Out](https://open.spotify.com/track/1UQbzags87OFERvmaJw9yb) | [Zendaya](https://open.spotify.com/artist/6sCbFbEjbYepqswM1vWjjs) | [Swag It Out \- Single](https://open.spotify.com/album/2nqXchNFJiwWRae1YHAlSg) | 3:12 |
-| 20 | [Scared](https://open.spotify.com/track/4zKqkvPSeOa2918BlJJkKH) | [Zendaya](https://open.spotify.com/artist/6sCbFbEjbYepqswM1vWjjs) | [Zendaya](https://open.spotify.com/album/7hCAU57zY6snnRSHXqAWUl) | 2:57 |
+| 20 | [Fireflies](https://open.spotify.com/track/6GjGwc7oCLRSo6pcTCjGab) | [Zendaya](https://open.spotify.com/artist/6sCbFbEjbYepqswM1vWjjs) | [Zendaya](https://open.spotify.com/album/7hCAU57zY6snnRSHXqAWUl) | 4:13 |
 | 21 | [Too Much](https://open.spotify.com/track/1cqudsA6yOqEUwGX5mrCeW) | [Zendaya](https://open.spotify.com/artist/6sCbFbEjbYepqswM1vWjjs) | [Too Much \(From “Zapped”\)](https://open.spotify.com/album/73XdslsbaoIRZworqNAgJ2) | 3:07 |
 | 22 | [Fashion Is My Kryptonite \(from "Shake It Up: Made In Japan"\)](https://open.spotify.com/track/7H9vfjM5tu6TX2ClilT3u7) | [Bella Thorne](https://open.spotify.com/artist/58AqJv0sDFPFnnBcLT8eeX), [Zendaya](https://open.spotify.com/artist/6sCbFbEjbYepqswM1vWjjs) | [Fashion Is My Kryptonite \(from "Shake It Up: Made In Japan"\)](https://open.spotify.com/album/0KeTEWCMTNGLKvgS4mj8C9) | 2:44 |
 | 23 | [My Jam](https://open.spotify.com/track/02DaqClSJTt95OvsiroP5j) | [Bobby Brackins](https://open.spotify.com/artist/72rsQfzxNVLPpbzQzXVJSc), [Zendaya](https://open.spotify.com/artist/6sCbFbEjbYepqswM1vWjjs), [Jeremih](https://open.spotify.com/artist/3KV3p5EY4AvKxOlhGHORLg) | [To Live For](https://open.spotify.com/album/3gioCmiIcOvqNRWBpMYrr5) | 3:50 |
-| 24 | [Fireflies](https://open.spotify.com/track/6GjGwc7oCLRSo6pcTCjGab) | [Zendaya](https://open.spotify.com/artist/6sCbFbEjbYepqswM1vWjjs) | [Zendaya](https://open.spotify.com/album/7hCAU57zY6snnRSHXqAWUl) | 4:13 |
+| 24 | [Scared](https://open.spotify.com/track/4zKqkvPSeOa2918BlJJkKH) | [Zendaya](https://open.spotify.com/artist/6sCbFbEjbYepqswM1vWjjs) | [Zendaya](https://open.spotify.com/album/7hCAU57zY6snnRSHXqAWUl) | 2:57 |
 | 25 | [Contagious Love](https://open.spotify.com/track/1mmTplEfjFvEg1tmxiMxin) | [Zendaya](https://open.spotify.com/artist/6sCbFbEjbYepqswM1vWjjs), [Bella Thorne](https://open.spotify.com/artist/58AqJv0sDFPFnnBcLT8eeX) | [Shake It Up: I <3 Dance](https://open.spotify.com/album/1eYsH5gyuJJaHdNg5inMff) | 2:15 |
 | 26 | [Remember Me \- From "Shake It Up"](https://open.spotify.com/track/7g9OZaQlRGfIA9M1kNEtUK) | [Zendaya](https://open.spotify.com/artist/6sCbFbEjbYepqswM1vWjjs) | [Disney Channel Play It Loud](https://open.spotify.com/album/3cLSwFnXjZGfgM62w7BCuT) | 3:03 |
 | 27 | [Made In Japan](https://open.spotify.com/track/6MVd0fiTvnNySVpKcxox6I) | [Bella Thorne](https://open.spotify.com/artist/58AqJv0sDFPFnnBcLT8eeX), [Zendaya](https://open.spotify.com/artist/6sCbFbEjbYepqswM1vWjjs) | [Shake It Up: Made In Japan \(Original Soundtrack\)](https://open.spotify.com/album/5TUn50U2OFVerctibxueCs) | 2:56 |
@@ -42,4 +42,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3OzSuY.md) - [plain]
 | 32 | [Fireflies](https://open.spotify.com/track/4JAIxZETWX5KwNTmCcJVXH) | [Kim Waters](https://open.spotify.com/artist/6kgHtfY7ECO4JWbOpXOu4I), [Zendaya](https://open.spotify.com/artist/6sCbFbEjbYepqswM1vWjjs) | [Silver Soul](https://open.spotify.com/album/50kJC7jxGk1sbWTC51syZ4) | 4:28 |
 | 33 | [Beat Of My Drum](https://open.spotify.com/track/3kQof6BTRSz9eo0e8E0mSU) | [Zendaya](https://open.spotify.com/artist/6sCbFbEjbYepqswM1vWjjs) | [Shake It Up: I <3 Dance](https://open.spotify.com/album/1eYsH5gyuJJaHdNg5inMff) | 3:16 |
 
-Snapshot ID: `awOCAAAAAADsh2MHoq7ewSOrGyVUJUtQ`
+Snapshot ID: `awYlAAAAAAC0Jtw/VTp9Prjn9gEfaeLk`

@@ -1,13 +1,29 @@
 {
-  "description": "just trying our best \ud83d\udcf8 Liang Lawrence",
-  "num_followers": 1514060,
+  "description": "just trying our best \ud83d\udcf8 Julia Campbell",
+  "num_followers": 1513880,
   "original_name": "young & free",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAALOTYRJ+A9uzYX4/JsK4W4Zpc+t3",
+  "snapshot_id": "AAAAAMgHQ0kfD+xvdoeORRd1S44QgZgK",
   "tracks": [
+    {
+      "added_at": "2026-11-27 05:01:07",
+      "album": {
+        "name": "JUST ENOUGH OF YOU (TO GET ME BY)",
+        "url": "https://open.spotify.com/album/2fyQNd6aclJSZ0UScCunRO"
+      },
+      "artists": [
+        {
+          "name": "Julia Campbell",
+          "url": "https://open.spotify.com/artist/0WiKqOGwY43CFTWlz23Yud"
+        }
+      ],
+      "duration_ms": 198908,
+      "name": "JUST ENOUGH OF YOU (TO GET ME BY)",
+      "url": "https://open.spotify.com/track/7ovXa6X91yNWK1Zpse2WYs"
+    },
     {
       "added_at": "2026-11-20 05:02:26",
       "album": {
@@ -41,36 +57,20 @@
       "url": "https://open.spotify.com/track/23aN2ayUPGtpoox5n3eeyG"
     },
     {
-      "added_at": "2026-11-20 05:02:26",
+      "added_at": "2026-11-27 05:01:07",
       "album": {
-        "name": "Mud",
-        "url": "https://open.spotify.com/album/19cvoEE5d3pMkxLFL5TsAG"
+        "name": "Hypocrite",
+        "url": "https://open.spotify.com/album/58lm0T7jaeUFT1hkqLzVzY"
       },
       "artists": [
         {
-          "name": "Remi Wolf",
-          "url": "https://open.spotify.com/artist/0NB5HROxc8dDBXpkIi1v3d"
+          "name": "Mercer Henderson",
+          "url": "https://open.spotify.com/artist/1CaCR4aY8KkwBTIVgAsl2L"
         }
       ],
-      "duration_ms": 260146,
-      "name": "I Won\u2019t Cry",
-      "url": "https://open.spotify.com/track/6JtquM5z5dHAasE2FneWgP"
-    },
-    {
-      "added_at": "2026-11-13 05:02:22",
-      "album": {
-        "name": "All at Once",
-        "url": "https://open.spotify.com/album/7t0cN4yvDz9IefUaDBHb3x"
-      },
-      "artists": [
-        {
-          "name": "Devon Gabriella",
-          "url": "https://open.spotify.com/artist/1rfIKfqoygAsxTWBdzVO2i"
-        }
-      ],
-      "duration_ms": 166000,
-      "name": "An End",
-      "url": "https://open.spotify.com/track/3uMk3JgF0AslhR0j1N2hOT"
+      "duration_ms": 148250,
+      "name": "Hypocrite",
+      "url": "https://open.spotify.com/track/1ONuYJSDYgRsmcYiXTSiRa"
     },
     {
       "added_at": "2026-11-20 05:02:26",
@@ -89,68 +89,36 @@
       "url": "https://open.spotify.com/track/42NrToIoZCMQ7GjSsx3cKD"
     },
     {
-      "added_at": "2026-11-06 05:00:35",
-      "album": {
-        "name": "Perfect",
-        "url": "https://open.spotify.com/album/1VB2M1pSePzXNR1qXPnLAs"
-      },
-      "artists": [
-        {
-          "name": "Emelie Trahan",
-          "url": "https://open.spotify.com/artist/26ZYSsr8RPofalTXPh4yyq"
-        }
-      ],
-      "duration_ms": 229148,
-      "name": "Perfect",
-      "url": "https://open.spotify.com/track/3aLDkLDk8ef2va9Lpg23hD"
-    },
-    {
       "added_at": "2026-11-20 05:02:26",
       "album": {
-        "name": "Rockstar",
-        "url": "https://open.spotify.com/album/1MA32hbzAwq74luWckcPDs"
+        "name": "Mud",
+        "url": "https://open.spotify.com/album/19cvoEE5d3pMkxLFL5TsAG"
       },
       "artists": [
         {
-          "name": "Hannah Hill",
-          "url": "https://open.spotify.com/artist/2YXwzQWYyLiFYx6VA0e0WR"
+          "name": "Remi Wolf",
+          "url": "https://open.spotify.com/artist/0NB5HROxc8dDBXpkIi1v3d"
         }
       ],
-      "duration_ms": 204257,
-      "name": "Rockstar",
-      "url": "https://open.spotify.com/track/3KAupxPNje3nKAA5kSvovD"
+      "duration_ms": 260146,
+      "name": "I Won\u2019t Cry",
+      "url": "https://open.spotify.com/track/6JtquM5z5dHAasE2FneWgP"
     },
     {
-      "added_at": "2026-11-06 05:00:35",
+      "added_at": "2026-11-27 05:01:07",
       "album": {
-        "name": "Horny, Grieving",
-        "url": "https://open.spotify.com/album/5gTCLMGljymV7c9RXX4Jwn"
+        "name": "Long Way Home",
+        "url": "https://open.spotify.com/album/0pe1IhCBa259ryvQITblYO"
       },
       "artists": [
         {
-          "name": "IDER",
-          "url": "https://open.spotify.com/artist/2LOwKJMjuv7VsprtYaFzl0"
+          "name": "GUZO",
+          "url": "https://open.spotify.com/artist/5kYNsgbRhmiRs9FZxwaFwV"
         }
       ],
-      "duration_ms": 200714,
-      "name": "Horny, Grieving",
-      "url": "https://open.spotify.com/track/2uvTP27swxyANQSOp2L0DH"
-    },
-    {
-      "added_at": "2026-11-13 05:02:22",
-      "album": {
-        "name": "POS",
-        "url": "https://open.spotify.com/album/3pkwztTPNbNzsjtyMGRHWk"
-      },
-      "artists": [
-        {
-          "name": "Max Rickun",
-          "url": "https://open.spotify.com/artist/5vYA9ABGrLzyBA0bk55VLl"
-        }
-      ],
-      "duration_ms": 203243,
-      "name": "POS",
-      "url": "https://open.spotify.com/track/4JZN0ox5209m96xs5Awbet"
+      "duration_ms": 189584,
+      "name": "I Hate Endings",
+      "url": "https://open.spotify.com/track/3lDXbWPcHuIC0nqIpiyQk7"
     },
     {
       "added_at": "2026-11-22 23:30:46",
@@ -169,6 +137,102 @@
       "url": "https://open.spotify.com/track/0pL94IbabpLNr3TTrzXKLy"
     },
     {
+      "added_at": "2026-11-13 05:02:22",
+      "album": {
+        "name": "All at Once",
+        "url": "https://open.spotify.com/album/7t0cN4yvDz9IefUaDBHb3x"
+      },
+      "artists": [
+        {
+          "name": "Devon Gabriella",
+          "url": "https://open.spotify.com/artist/1rfIKfqoygAsxTWBdzVO2i"
+        }
+      ],
+      "duration_ms": 166000,
+      "name": "An End",
+      "url": "https://open.spotify.com/track/3uMk3JgF0AslhR0j1N2hOT"
+    },
+    {
+      "added_at": "2026-11-06 05:00:35",
+      "album": {
+        "name": "Perfect",
+        "url": "https://open.spotify.com/album/1VB2M1pSePzXNR1qXPnLAs"
+      },
+      "artists": [
+        {
+          "name": "Emelie Trahan",
+          "url": "https://open.spotify.com/artist/26ZYSsr8RPofalTXPh4yyq"
+        }
+      ],
+      "duration_ms": 229148,
+      "name": "Perfect",
+      "url": "https://open.spotify.com/track/3aLDkLDk8ef2va9Lpg23hD"
+    },
+    {
+      "added_at": "2026-11-27 05:01:07",
+      "album": {
+        "name": "Ever Been Lonely",
+        "url": "https://open.spotify.com/album/7AHvFpMelgv49brQ3FoTMv"
+      },
+      "artists": [
+        {
+          "name": "Emyrson Flora",
+          "url": "https://open.spotify.com/artist/7ojpclnAqwGSfHaSDKDRNW"
+        }
+      ],
+      "duration_ms": 212903,
+      "name": "Ever Been Lonely",
+      "url": "https://open.spotify.com/track/0d1Xlexh9ArEBAfVJE22vS"
+    },
+    {
+      "added_at": "2026-11-06 05:00:35",
+      "album": {
+        "name": "Horny, Grieving",
+        "url": "https://open.spotify.com/album/5gTCLMGljymV7c9RXX4Jwn"
+      },
+      "artists": [
+        {
+          "name": "IDER",
+          "url": "https://open.spotify.com/artist/2LOwKJMjuv7VsprtYaFzl0"
+        }
+      ],
+      "duration_ms": 200714,
+      "name": "Horny, Grieving",
+      "url": "https://open.spotify.com/track/2uvTP27swxyANQSOp2L0DH"
+    },
+    {
+      "added_at": "2026-11-20 05:02:26",
+      "album": {
+        "name": "Rockstar",
+        "url": "https://open.spotify.com/album/1MA32hbzAwq74luWckcPDs"
+      },
+      "artists": [
+        {
+          "name": "Hannah Hill",
+          "url": "https://open.spotify.com/artist/2YXwzQWYyLiFYx6VA0e0WR"
+        }
+      ],
+      "duration_ms": 204257,
+      "name": "Rockstar",
+      "url": "https://open.spotify.com/track/3KAupxPNje3nKAA5kSvovD"
+    },
+    {
+      "added_at": "2026-11-13 05:02:22",
+      "album": {
+        "name": "POS",
+        "url": "https://open.spotify.com/album/3pkwztTPNbNzsjtyMGRHWk"
+      },
+      "artists": [
+        {
+          "name": "Max Rickun",
+          "url": "https://open.spotify.com/artist/5vYA9ABGrLzyBA0bk55VLl"
+        }
+      ],
+      "duration_ms": 203243,
+      "name": "POS",
+      "url": "https://open.spotify.com/track/4JZN0ox5209m96xs5Awbet"
+    },
+    {
       "added_at": "2026-11-13 05:05:30",
       "album": {
         "name": "slug",
@@ -185,6 +249,22 @@
       "url": "https://open.spotify.com/track/2vgeAlfyqNyikQfVYa6BS4"
     },
     {
+      "added_at": "2026-11-27 05:01:07",
+      "album": {
+        "name": "Like a Dog",
+        "url": "https://open.spotify.com/album/3nclAHvS4wQIIwNbiFT4Hi"
+      },
+      "artists": [
+        {
+          "name": "Bella Kay",
+          "url": "https://open.spotify.com/artist/4Z8MrrKMBHMPa8d04Ivur8"
+        }
+      ],
+      "duration_ms": 162681,
+      "name": "Like a Dog",
+      "url": "https://open.spotify.com/track/4uedQsQUuamDPlCRAct8jZ"
+    },
+    {
       "added_at": "2026-11-13 05:02:22",
       "album": {
         "name": "Fleeting (Forever)",
@@ -199,6 +279,22 @@
       "duration_ms": 247445,
       "name": "The Look That Never Ends",
       "url": "https://open.spotify.com/track/7bcZ24jO8abgqDP7zQ2Vm5"
+    },
+    {
+      "added_at": "2026-11-27 05:01:07",
+      "album": {
+        "name": "Melt",
+        "url": "https://open.spotify.com/album/0oVjujeD7crwWt8V8yYaAI"
+      },
+      "artists": [
+        {
+          "name": "JT FOLEY",
+          "url": "https://open.spotify.com/artist/1h5BwdyJ0LOpYZwECGo58q"
+        }
+      ],
+      "duration_ms": 202800,
+      "name": "Melt",
+      "url": "https://open.spotify.com/track/2YFDhzsRJoZO4ZbxQBbCN9"
     },
     {
       "added_at": "2026-10-24 04:11:25",
@@ -247,6 +343,22 @@
       "duration_ms": 203946,
       "name": "Curse",
       "url": "https://open.spotify.com/track/7pQId23MVVM18bOPZ7v9qH"
+    },
+    {
+      "added_at": "2026-11-27 05:01:07",
+      "album": {
+        "name": "I'm losing you",
+        "url": "https://open.spotify.com/album/2UeE8xZZBWXovvhYmuA4d3"
+      },
+      "artists": [
+        {
+          "name": "Lauren Juzang",
+          "url": "https://open.spotify.com/artist/2HCsMc18MHvpDACmNhbpQ5"
+        }
+      ],
+      "duration_ms": 189376,
+      "name": "I'm losing you",
+      "url": "https://open.spotify.com/track/7IgwLaFZtyU78jW13d8qvL"
     },
     {
       "added_at": "2026-10-23 04:02:30",
@@ -647,22 +759,6 @@
       "duration_ms": 201202,
       "name": "gloria!",
       "url": "https://open.spotify.com/track/0JvxCw2L2ChMeVpIfSwvqN"
-    },
-    {
-      "added_at": "2026-10-09 04:00:54",
-      "album": {
-        "name": "Casually Complicated",
-        "url": "https://open.spotify.com/album/4jMrAuEG6tLhjyjKvAImeU"
-      },
-      "artists": [
-        {
-          "name": "Mercer Henderson",
-          "url": "https://open.spotify.com/artist/1CaCR4aY8KkwBTIVgAsl2L"
-        }
-      ],
-      "duration_ms": 186766,
-      "name": "Casually Complicated",
-      "url": "https://open.spotify.com/track/2iKZk4N2TC6qw86VmTywNG"
     },
     {
       "added_at": "2026-09-25 04:03:27",
@@ -1247,22 +1343,6 @@
     {
       "added_at": "2026-07-17 04:06:21",
       "album": {
-        "name": "Lost On The Way To Paradise",
-        "url": "https://open.spotify.com/album/36E9kFHU87eXKPJJoDNgan"
-      },
-      "artists": [
-        {
-          "name": "Oliver Cronin",
-          "url": "https://open.spotify.com/artist/1dfo9BgmIfeKcAvKieKqiG"
-        }
-      ],
-      "duration_ms": 159709,
-      "name": "I Feel You",
-      "url": "https://open.spotify.com/track/5809ZMOwXBRGkiAVxNAlAL"
-    },
-    {
-      "added_at": "2026-07-17 04:06:21",
-      "album": {
         "name": "Love Love (Love Love)",
         "url": "https://open.spotify.com/album/7Mi2jctLtxnHi631v2zelF"
       },
@@ -1339,22 +1419,6 @@
       "duration_ms": 150901,
       "name": "A Little More Fun",
       "url": "https://open.spotify.com/track/45LXgSpxX65IKbWSOT9XQR"
-    },
-    {
-      "added_at": "2026-07-24 04:02:40",
-      "album": {
-        "name": "Experiment",
-        "url": "https://open.spotify.com/album/3rn9DuGpBKyFHesuTFMdHa"
-      },
-      "artists": [
-        {
-          "name": "EMMMA",
-          "url": "https://open.spotify.com/artist/69BpHcuizlrHOsWhQoIPMd"
-        }
-      ],
-      "duration_ms": 154029,
-      "name": "Experiment",
-      "url": "https://open.spotify.com/track/1vavMPmK52RKpWUvKWgpL2"
     },
     {
       "added_at": "2026-07-17 04:06:21",
@@ -1453,22 +1517,6 @@
       "url": "https://open.spotify.com/track/6NIFqS0Rz2Zbjh1RN69hzX"
     },
     {
-      "added_at": "2026-07-24 04:02:40",
-      "album": {
-        "name": "SUN FROM BOTH SIDES",
-        "url": "https://open.spotify.com/album/4FaVqDP2br0TqNX6Kb4tQQ"
-      },
-      "artists": [
-        {
-          "name": "Alex Apolline",
-          "url": "https://open.spotify.com/artist/45daMU0LyV9jLb0e8gbKvU"
-        }
-      ],
-      "duration_ms": 220032,
-      "name": "SUN FROM BOTH SIDES",
-      "url": "https://open.spotify.com/track/6NYNsVgVEFLlV1A3fHyEiD"
-    },
-    {
       "added_at": "2026-06-05 04:06:16",
       "album": {
         "name": "High Hopes 3000",
@@ -1501,22 +1549,6 @@
       "url": "https://open.spotify.com/track/5ohPveFr3t93leJhCiWAqt"
     },
     {
-      "added_at": "2026-06-26 04:02:15",
-      "album": {
-        "name": "Die Next To You",
-        "url": "https://open.spotify.com/album/1KxbHOU842mZkbciseNI0i"
-      },
-      "artists": [
-        {
-          "name": "Emyrson Flora",
-          "url": "https://open.spotify.com/artist/7ojpclnAqwGSfHaSDKDRNW"
-        }
-      ],
-      "duration_ms": 213648,
-      "name": "Die Next To You",
-      "url": "https://open.spotify.com/track/5gTLztYL2Mytq5EVPFeGxE"
-    },
-    {
       "added_at": "2026-06-16 17:46:51",
       "album": {
         "name": "you seem pretty sad for a girl so in love",
@@ -1531,22 +1563,6 @@
       "duration_ms": 221958,
       "name": "expectations",
       "url": "https://open.spotify.com/track/25nbeJzxF3dwvtTq57QKZi"
-    },
-    {
-      "added_at": "2026-05-01 04:52:22",
-      "album": {
-        "name": "Kingdom of Fear",
-        "url": "https://open.spotify.com/album/6nE9zag2eaoLn58KZSqRVZ"
-      },
-      "artists": [
-        {
-          "name": "Cameron Whitcomb",
-          "url": "https://open.spotify.com/artist/6dhXvR5MsnlwYguRuqoapR"
-        }
-      ],
-      "duration_ms": 161075,
-      "name": "Kingdom of Fear",
-      "url": "https://open.spotify.com/track/4Es6f0zquGHCrv9Hespx9W"
     },
     {
       "added_at": "2026-06-12 04:17:50",
@@ -1595,54 +1611,6 @@
       "duration_ms": 159929,
       "name": "Noah",
       "url": "https://open.spotify.com/track/1Ez185Inp2jiQWtcvtAQXl"
-    },
-    {
-      "added_at": "2026-05-01 04:52:22",
-      "album": {
-        "name": "Songs I Wrote Since She Left",
-        "url": "https://open.spotify.com/album/3aNf0dE1084J6qV0NvLbQP"
-      },
-      "artists": [
-        {
-          "name": "GRESLEY",
-          "url": "https://open.spotify.com/artist/3jH7tPNd2gFLXAekbpUCOf"
-        }
-      ],
-      "duration_ms": 205225,
-      "name": "Piece of Your Love",
-      "url": "https://open.spotify.com/track/51vU8qy0LN1SD8wf1U6WLp"
-    },
-    {
-      "added_at": "2026-06-05 04:06:16",
-      "album": {
-        "name": "Secret Language",
-        "url": "https://open.spotify.com/album/5O70O8co709tMC46LDb8uF"
-      },
-      "artists": [
-        {
-          "name": "Ryan Beatty",
-          "url": "https://open.spotify.com/artist/60NNvDqsif0u40CXMV6jDQ"
-        }
-      ],
-      "duration_ms": 233785,
-      "name": "Secret Language",
-      "url": "https://open.spotify.com/track/1ccz8ZdpV5m0eGcIw4gZJA"
-    },
-    {
-      "added_at": "2026-05-08 04:04:36",
-      "album": {
-        "name": "The Lone Starlet",
-        "url": "https://open.spotify.com/album/65fTktXSzIfyXDyfNi889Z"
-      },
-      "artists": [
-        {
-          "name": "Tiffany Stringer",
-          "url": "https://open.spotify.com/artist/6Dv6bV7bzZSCAX0E0qLw7u"
-        }
-      ],
-      "duration_ms": 155729,
-      "name": "Supernova",
-      "url": "https://open.spotify.com/track/5qsLQvSvlCfLLU9TubhllM"
     }
   ],
   "unique_name": "young & free",

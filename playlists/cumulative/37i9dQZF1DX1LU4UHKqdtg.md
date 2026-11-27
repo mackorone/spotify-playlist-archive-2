@@ -2,9 +2,9 @@
 
 ### [Stargirl vibes](https://open.spotify.com/playlist/37i9dQZF1DX1LU4UHKqdtg)
 
-> Girls groups/solo artists shining beyond borders\. グローバルに活躍するガールズグループ/ソロアーティストを一つのプレイリストに。Cover: NAYEON
+> Girls groups/solo artists shining beyond borders\. グローバルに活躍するガールズグループ/ソロアーティストを一つのプレイリストに。Cover: KISS OF LIFE
 
-1,874 songs - 4 day 2 hr 16 min
+1,875 songs - 4 day 2 hr 19 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -646,6 +646,7 @@
 | [Grand Prix](https://open.spotify.com/track/5btc1Il6aABmVNUOjooNK8) | [Kep1er](https://open.spotify.com/artist/5R7AMwDeroq6Ls0COQYpS4) | [Grand Prix](https://open.spotify.com/album/6lriTwnKW6GIKoRYOJ2Dy9) | 3:07 | 2023-11-07 | 2023-12-15 |
 | [Gravity](https://open.spotify.com/track/3qaw1x6fazbhitNdWXJltj) | [Nicole](https://open.spotify.com/artist/00rHhOjnxKfnwVyJAOSACS) | [Gravity](https://open.spotify.com/album/0ABUfTXhUfaZIfgzbtqWU6) | 3:15 | 2023-12-14 | 2024-01-10 |
 | [Gravity \- JPN Version](https://open.spotify.com/track/3fgcePhgeE0yDg8sJs61O0) | [FIFTY FIFTY](https://open.spotify.com/artist/4GJ6xDCF5jaUqD6avOuQT6) | [Love Tune: Rewired](https://open.spotify.com/album/5ZY7p28JBut9fdAOo8ge9B) | 2:57 | 2025-01-27 | 2025-03-07 |
+| [Greedy](https://open.spotify.com/track/0kuPmVL9vCBAnH14lzgNKp) | [KISS OF LIFE](https://open.spotify.com/artist/4TEK9tIkcoxib4GxT3O4ky) | [Greedy](https://open.spotify.com/album/4Z6X9aIZrb8YHARjEbl4NY) | 3:16 | 2026-11-26 |  |
 | [Grey Suit](https://open.spotify.com/track/40wEuG76R9nFumrBp6PHwm) | [SUHO](https://open.spotify.com/artist/5zkf2Na8DKKJmtWX5Xrx3m) | [Grey Suit \- The 2nd Mini Album](https://open.spotify.com/album/7tZyxlG9PNEBwrxMbIJdoB) | 3:42 | 2022-04-04 | 2022-06-15 |
 | [GRL GVNG](https://open.spotify.com/track/5OqMZ8In8CkCa0SbknnDPl) | [XG](https://open.spotify.com/artist/0LOK81e9H5lr61HlGGHqwA) | [GRL GVNG](https://open.spotify.com/album/0s6tMsTvOqtqmFxJogsIJS) | 3:08 | 2023-06-29 | 2023-09-06 |
 | [GRLS](https://open.spotify.com/track/5pH6E3QlbwftHiDhekk85d) | [TUIDE](https://open.spotify.com/artist/2uxeKIw5ancTu92x28Ctkf) | [GRLS](https://open.spotify.com/album/6AUKgGxfLuSJW3trNDZLmf) | 3:12 | 2026-08-10 | 2026-08-25 |
@@ -1515,7 +1516,7 @@
 | [superstitious](https://open.spotify.com/track/1HoRAFcgEZSUJesK23aRnZ) | [no na](https://open.spotify.com/artist/25ZVvmN0Tm9Os5K42swK8b) | [superstitious / falling in love](https://open.spotify.com/album/1WevIdYWogV9E4pZcXdoel) | 3:07 | 2025-05-15 | 2025-09-06 |
 | [Surfin' Boy](https://open.spotify.com/track/3caqaSvtldUKLY5Fd5msk2) | [Red Velvet](https://open.spotify.com/artist/1z4g3DjTBBZKhvAroFlhOM) | [Velvet Summer \- Summer Mini Album](https://open.spotify.com/album/0AzIvsw9Pq9De3vYFA01Rr) | 2:48 | 2026-08-03 |  |
 | [SURRENDER](https://open.spotify.com/track/0CwQeOWyrm26zRfYxqhn7q) | [LEE CHANGSUB](https://open.spotify.com/artist/1rp5HzWaNwgauM5W5YmZ3U) | [SURRENDER](https://open.spotify.com/album/2nbrVdm3DhZjZxEIrL28ox) | 2:50 | 2022-09-06 | 2022-11-01 |
-| [SWEAT](https://open.spotify.com/track/503e19tHN0QmaraGxAQzt7) | [KISS OF LIFE](https://open.spotify.com/artist/4TEK9tIkcoxib4GxT3O4ky) | [SWEAT](https://open.spotify.com/album/4yEWhrGAxvMhNtL4TuO2rq) | 2:53 | 2026-08-04 |  |
+| [SWEAT](https://open.spotify.com/track/503e19tHN0QmaraGxAQzt7) | [KISS OF LIFE](https://open.spotify.com/artist/4TEK9tIkcoxib4GxT3O4ky) | [SWEAT](https://open.spotify.com/album/4yEWhrGAxvMhNtL4TuO2rq) | 2:53 | 2026-08-04 | 2026-11-27 |
 | [SWEAT](https://open.spotify.com/track/4ZctVsBwqHcq5sHW9FMDiw) | [ZEROBASEONE](https://open.spotify.com/artist/7cjg7EkeZy3OI5o9Qthc6n) | [SWEAT](https://open.spotify.com/album/1xAi69VFSIh8aoY0qFaWxE) | 3:11 | 2024-04-23 | 2024-08-30 |
 | [Sweet](https://open.spotify.com/track/1qXkDZzrLYZDer71tT9nYG) | [THE BOYZ](https://open.spotify.com/artist/0CmvFWTX9zmMNCUi6fHtAx) | [Sweet](https://open.spotify.com/album/3l2REQK2yQqFlIVLNMApC8) | 3:04 | 2022-06-16 | 2022-08-24 |
 | [Sweet Dreams](https://open.spotify.com/track/0ekANUuUFZeWZMNQRmYhvs) | [Red Velvet](https://open.spotify.com/artist/1z4g3DjTBBZKhvAroFlhOM) | [Cosmic](https://open.spotify.com/album/6LM7oiElbxhLJJRL6K7AB5) | 3:09 | 2024-08-03 | 2024-11-27 |

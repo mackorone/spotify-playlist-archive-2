@@ -2,9 +2,9 @@
 
 ### [JIVVA](https://open.spotify.com/playlist/37i9dQZF1DX62XsrI0XxvK)
 
-> Irama R&B tanah air yang merasuk jiwa\. Cover: Teddy Adhitya
+> Irama R&B tanah air yang merasuk jiwa\. Cover: Ruth Garcia
 
-300 songs - 17 hr 40 min
+304 songs - 17 hr 52 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -40,6 +40,7 @@
 | [Bangkit \(Apa Yang Kau Takutkan?\)](https://open.spotify.com/track/5fltq57JdvtjPOz9V13N3a) | [SIVIA](https://open.spotify.com/artist/21PaJ7FN5NCb7BNVA3KTuy) | [Bangkit \(Apa Yang Kau Takutkan?\)](https://open.spotify.com/album/1eNZ8gzpfe4ElR9U9q0iIE) | 4:24 | 2025-04-24 |  |
 | [Be Alright](https://open.spotify.com/track/05I8BGJrpzo3vrM07nungG) | [Isyana Sarasvati](https://open.spotify.com/artist/05CRzFTp7TouOXPuH6Tapu), [Kamga](https://open.spotify.com/artist/2dMAOuIpuE5eb55qzpKC9O) | [EKLEKTIKO](https://open.spotify.com/album/4ZuFIzhOThgSnHJeKZyfQ7) | 3:45 | 2026-05-21 |  |
 | [Be My Love](https://open.spotify.com/track/5a4qqM7xdsHefJBTEzSgVb) | [I Talk Too Much When I'm Drunk](https://open.spotify.com/artist/4EvhAbrKkEcqaztPw5wouv) | [I Love Too Much When I’m Drunk](https://open.spotify.com/album/4T0HuawiX38S7XQoTO7XLZ) | 3:59 | 2025-08-28 | 2026-03-13 |
+| [BEDA CITY](https://open.spotify.com/track/09BtfOb0jJOKK5E0hOsfrq) | [Kardo Arghost](https://open.spotify.com/artist/3a1ukwjBc1a3RjPoW4l9lH) | [BEDA CITY](https://open.spotify.com/album/6d2Sm3fMXc9D6bzVhrLHwz) | 2:10 | 2026-11-27 |  |
 | [Bentang Jarak Asmara](https://open.spotify.com/track/1EJRWWuQokc0RgF7QCSipP) | [Man Osman](https://open.spotify.com/artist/1kNneMUxusIQh9onXFoADF), [Traffic Jam](https://open.spotify.com/artist/1CNVTPOO0uV2uXIILfHMPM) | [Bentang Jarak Asmara](https://open.spotify.com/album/4ewZa5YumUphw89U7lhM6g) | 3:54 | 2025-06-20 |  |
 | [Bercanda \(Original Soundtrack Bandelnya Judith\)](https://open.spotify.com/track/71GnMKT8WQeuxB5n3yinLh) | [Gery Gany](https://open.spotify.com/artist/4zw9fpiPphR8PBEiMLVT2e) | [Bercanda \(Original Soundtrack Bandelnya Judith\)](https://open.spotify.com/album/7qfAolwdBXIeV9bewwMCeA) | 4:05 | 2024-10-03 | 2025-05-02 |
 | [Best Lesson](https://open.spotify.com/track/37V2WeqMC54TPFa7d9PsfM) | [Aziz Hedra](https://open.spotify.com/artist/6ygKuZFz2sRggPZRaLHVHD) | [Lesson Learned](https://open.spotify.com/album/1ShrAiTDbq2soLmIpmIvd8) | 4:25 | 2024-10-03 |  |
@@ -142,6 +143,7 @@
 | [Jangan pernah](https://open.spotify.com/track/19LPjG1o8NvdveiD6p1s3v) | [Rutinitas Pagi](https://open.spotify.com/artist/341CEIcTf5f6ucLhiViNRd) | [Jangan pernah](https://open.spotify.com/album/4VCZ2bGOwcr6KoyYaQQUNx) | 3:40 | 2024-12-20 | 2025-05-30 |
 | [Jatuh Pelan](https://open.spotify.com/track/41a9aguyHd9Eoto6CjeqfK) | [Andien](https://open.spotify.com/artist/75FhU39jo2xmyiObiDGXAo) | [Jatuh Pelan](https://open.spotify.com/album/5V7IAnnRfxhHBp7GqxxeNs) | 3:32 | 2026-05-07 | 2026-08-14 |
 | [Jawab Aku](https://open.spotify.com/track/4uAzEeTdzl7vYcLvua55oc) | [Jebung](https://open.spotify.com/artist/77t6V3aopGYc0ZhsTyRS3z) | [Jawab Aku](https://open.spotify.com/album/0cYjH0dc1T885wVjQgFimg) | 3:45 | 2025-05-22 | 2025-11-21 |
+| [Jingga](https://open.spotify.com/track/3MGokEdFQNQ7mYTfgbKt2K) | [Coldiac](https://open.spotify.com/artist/42BY4cYu4ZSj37CbSYjDgA) | [Jingga](https://open.spotify.com/album/6hIi6Z3t45pNLG7mfcGHz6) | 4:08 | 2026-11-27 |  |
 | [Kamu Lagi](https://open.spotify.com/track/5iEExVSeZBQc5sbUv1JxlT) | [Chelsea Tilford](https://open.spotify.com/artist/2gf6zGKR3WeY9DrWcnkLo8) | [Kamu Lagi](https://open.spotify.com/album/0gx3y0XlQ86q4ITqEqPdy0) | 2:45 | 2026-03-05 | 2026-09-18 |
 | [Kau Pilih Dia](https://open.spotify.com/track/1BupzCNunldnbAHPi7yChV) | [Raavfy](https://open.spotify.com/artist/3tujwWgykut1qrxOukJczH), [Mas Jordan](https://open.spotify.com/artist/60DER02sQPfuD32Y5e5LC1), [Malikoendang](https://open.spotify.com/artist/5F8bwX8A27eKQp8FZw0fZI) | [Kau Pilih Dia](https://open.spotify.com/album/2fiSKPE4Ki58GVOnlwjcfR) | 4:01 | 2024-10-03 | 2026-05-08 |
 | [Kau Yang Ku Tunggu](https://open.spotify.com/track/3cfcNcSHFCocpMJuKaKBIy) | [4Forty](https://open.spotify.com/artist/2iPl5vIjxypuXafk4mxLZi), [Bona Pascal](https://open.spotify.com/artist/0ujG1cBXUHF00YhR8pT4MS) | [Kau Yang Ku Tunggu](https://open.spotify.com/album/4alohhT5dEehzGyTpmkYZN) | 4:43 | 2026-05-21 | 2026-11-06 |
@@ -153,6 +155,7 @@
 | [Kembali Masa Lalu](https://open.spotify.com/track/3c4MPWhrFieS1yBONSsZ5v) | [Azhr](https://open.spotify.com/artist/1XoQClD6pvwGhLXBLHQ5x3), [Radinal](https://open.spotify.com/artist/3LCQli4pQCvLWw72Z9Y7gC) | [Kembali Masa Lalu](https://open.spotify.com/album/1e8S6A30RdxsRjySznTpGb) | 3:06 | 2024-10-03 | 2025-05-02 |
 | [Kenapa Selalu Aku](https://open.spotify.com/track/69iYcn3kbPHW4ox0q1FBaL) | [KELJO](https://open.spotify.com/artist/7Ccgqcrw1xLU7Qm5scSj0o) | [Kenapa Selalu Aku](https://open.spotify.com/album/2W2TlAgxqVErI0BTQjZNxq) | 3:30 | 2026-02-05 | 2026-07-17 |
 | [kenapa?](https://open.spotify.com/track/13HHsKH1SuuMvoUwoZ6ngD) | [Jakarta Soul System](https://open.spotify.com/artist/5twqzbPbyXbM4qrZejp5QP), [Bryan Renaldo](https://open.spotify.com/artist/31cKcUefYLDo9XeNCPbWrR), [Jay Yen](https://open.spotify.com/artist/3JgETLiorvAt8Xfsz6HcRt) | [kenapa?](https://open.spotify.com/album/0o8h3D5b6oQqk4bdnmvVtx) | 3:15 | 2025-11-20 | 2026-03-13 |
+| [Kisah Kita](https://open.spotify.com/track/02xpFXITFxhXp2fdXWJZNJ) | [Ruth Garcia](https://open.spotify.com/artist/3VhvDHThiOy3cUZvAR1ZKq) | [Memory Jar](https://open.spotify.com/album/7jfxHCaXqW4n76gEI86nRQ) | 3:31 | 2026-11-27 |  |
 | [Kiss Me Through the Phone](https://open.spotify.com/track/6PrVvWP4SDaKOMweP5PKMt) | [Bloodlyne](https://open.spotify.com/artist/6r2NRFjucCptbMJHvRtLXL) | [Kiss Me Through the Phone](https://open.spotify.com/album/3HhUAxZKzNOjTyTxc5zvzk) | 3:08 | 2025-07-10 | 2026-04-10 |
 | [Ku Tak Bisa](https://open.spotify.com/track/2K9g1BHo6ILnSotpjqEnhd) | [KidQuest](https://open.spotify.com/artist/2lfQ3ZMcgbom8T8iSrtbbb) | [Ku Tak Bisa](https://open.spotify.com/album/0Fto9zAm9zcvIaceOHMFP9) | 2:54 | 2024-12-20 | 2025-07-18 |
 | [Kubuka Pintu](https://open.spotify.com/track/5PP3Qbc5yDA7zvg3MPjpQm) | [KELJO](https://open.spotify.com/artist/7Ccgqcrw1xLU7Qm5scSj0o) | [Kubuka Pintu](https://open.spotify.com/album/5IchrfWDYZmoJEaZKlUAcM) | 3:53 | 2026-04-23 | 2026-11-06 |
@@ -167,6 +170,7 @@
 | [Lelah](https://open.spotify.com/track/1fNw080eLrAFFJdH7VwEyB) | [Reggyf Lawalata](https://open.spotify.com/artist/7dcOPR1DccewnM6nwMa4EO), [Mor M.A.C](https://open.spotify.com/artist/7bvhAv1D7WAmKISSbTGnIu) | [Lelah](https://open.spotify.com/album/4ndTARa0clTFGf8DnNzuSO) | 3:36 | 2025-11-20 | 2026-02-20 |
 | [Light](https://open.spotify.com/track/62LfjQE0DbXdcxTwHP5HaJ) | [Inara](https://open.spotify.com/artist/1qcKOcPdWe0cxQn9ZXCefL), [Jordy Waelauruw](https://open.spotify.com/artist/3oECPG2Aqe2bo0LrcSJQ0H) | [Light](https://open.spotify.com/album/3WZjmog0USmx1kp1PmH5Nt) | 3:06 | 2025-06-12 | 2025-10-24 |
 | [Lika & Liku](https://open.spotify.com/track/7bsAM9K5gI0eTqYOqVg0tq) | [Dzulfahmi](https://open.spotify.com/artist/3e07AHzXnSbfuIBc6IHNio), [Jebung](https://open.spotify.com/artist/77t6V3aopGYc0ZhsTyRS3z) | [Lika & Liku](https://open.spotify.com/album/7lOptYZ3jVvZ0mELGJJQ6v) | 2:21 | 2026-02-12 |  |
+| [LIKE ME](https://open.spotify.com/track/4G2IqOzOyqqDwMm0PaK9w9) | [ghxzy](https://open.spotify.com/artist/4KktjC2n1AqT6QK6kkbCd4) | [BOYZDONTCRY](https://open.spotify.com/album/1r9qcZVg1DRaSUoAjLko1b) | 2:10 | 2026-11-27 |  |
 | [Like That](https://open.spotify.com/track/1w6FQsV3hhmE4qshMfb5yk) | [Andrea Tanzil](https://open.spotify.com/artist/3YJZTp3m6z2jgFUwe3krO7) | [Like That](https://open.spotify.com/album/2sklL9TXZl2I57onVPgSU1) | 3:20 | 2024-10-03 | 2025-05-30 |
 | [Lonely](https://open.spotify.com/track/7KFkkuf3MMd6DM9yBNmcZT) | [BLINGOUTKID](https://open.spotify.com/artist/0pvy9ziaOLKxLQvyB4WGeN) | [Lonely](https://open.spotify.com/album/74fAfgfs0k8X2RevURKI0k) | 4:16 | 2026-05-14 |  |
 | [Long As](https://open.spotify.com/track/1o33oTcVEUuQxAYwAggNCB) | [SAILORMONEY](https://open.spotify.com/artist/2f6SYfBwpvHWGgQ6Ht9PRj) | [Long As](https://open.spotify.com/album/2GtovgeYPY24W1bgd1Zc3a) | 2:55 | 2025-10-02 | 2026-01-23 |
@@ -244,7 +248,7 @@
 | [Say It to Yourself](https://open.spotify.com/track/3bXL6zTY3ksmLSLORTVKWT) | [Luise Najib](https://open.spotify.com/artist/6ZhJ6vnQM4FnotVwUWWAn0) | [Say It to Yourself](https://open.spotify.com/album/4xKwnLQfu2DImY8GQyAkWT) | 3:31 | 2024-12-13 | 2025-08-29 |
 | [Second Chance](https://open.spotify.com/track/6f12obh4QrOW62klTGnr9t) | [Murry Monolite](https://open.spotify.com/artist/4J4ZBGKe41WRtpjggHKKn1) | [WAY BACK \(SINGLE\)](https://open.spotify.com/album/0Im0d1yicUliXkWY30rw5w) | 2:34 | 2025-06-05 | 2025-07-18 |
 | [Sedetik](https://open.spotify.com/track/1pBptkRZaXHrYMprAJsu8i) | [Adrian Khalif](https://open.spotify.com/artist/6X28gNASnalAWseUA8uI4X) | [Mr\. Menawan](https://open.spotify.com/album/2AFvXQe1WKhDMUkx1PJNn7) | 4:02 | 2024-10-03 | 2025-10-17 |
-| [Seng Bale](https://open.spotify.com/track/4pZNrO9IUfK5gqbLFPJFD5) | [Ver](https://open.spotify.com/artist/7AluWoElAgY8ovIcly5hZX), [Glen Sebastian](https://open.spotify.com/artist/2qunaAI3QwX37vYOSzf4Y2) | [Seng Bale](https://open.spotify.com/album/4pZirTkk2clQtU2FtRKnqk) | 3:53 | 2026-09-18 |  |
+| [Seng Bale](https://open.spotify.com/track/4pZNrO9IUfK5gqbLFPJFD5) | [Vereenna](https://open.spotify.com/artist/6LgU5yQZTU5K4puuY2HTnE), [Glen Sebastian](https://open.spotify.com/artist/2qunaAI3QwX37vYOSzf4Y2) | [Seng Bale](https://open.spotify.com/album/4pZirTkk2clQtU2FtRKnqk) | 3:53 | 2026-09-18 |  |
 | [Senopati in the Rain](https://open.spotify.com/track/7svlh1SNqobLPM0cJjLTxt) | [Jordan Susanto](https://open.spotify.com/artist/3VTinmaVJ65oaRB2QYynkI) | [Senopati in the Rain](https://open.spotify.com/album/1MQWy0x00JEwubp9UAfR31) | 4:20 | 2024-10-03 | 2026-01-15 |
 | [Senyam\-Senyum](https://open.spotify.com/track/0fLY6LDkqU8UsryD54gFnV) | [Rafi Sudirman](https://open.spotify.com/artist/0IJToD6h0XzZMzlgJ5kdhk) | [Senyam\-Senyum](https://open.spotify.com/album/3l1KxK7hYKPoUZWHpFXACB) | 3:51 | 2024-10-03 |  |
 | [Sesakit Itu](https://open.spotify.com/track/0jeAbhHtQkwKbVT7I2PZ2G) | [KELJO](https://open.spotify.com/artist/7Ccgqcrw1xLU7Qm5scSj0o) | [Sesakit Itu](https://open.spotify.com/album/09d2PCROaKhQFFPwu4klEk) | 3:42 | 2026-11-06 |  |

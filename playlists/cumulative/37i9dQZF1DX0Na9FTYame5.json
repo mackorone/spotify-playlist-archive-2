@@ -2337,6 +2337,24 @@
     },
     {
       "album": {
+        "name": "FL\u00dcGEL",
+        "url": "https://open.spotify.com/album/3LF1E9zmSNaTntoBM1ujiT"
+      },
+      "artists": [
+        {
+          "name": "Sido",
+          "url": "https://open.spotify.com/artist/4Yttlv9ndGjCDCVLqM7ACq"
+        }
+      ],
+      "date_added": "2026-11-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 172858,
+      "name": "FL\u00dcGEL",
+      "url": "https://open.spotify.com/track/5LkjTiiR368ZNlIZbCe7yV"
+    },
+    {
+      "album": {
         "name": "Freiheit",
         "url": "https://open.spotify.com/album/4Qn6VlgGmaBxErJZS2FM2X"
       },
@@ -2578,7 +2596,7 @@
       ],
       "date_added": "2024-06-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-27",
       "duration_ms": 165390,
       "name": "Gar nicht mal so gl\u00fccklich (feat. Estikay)",
       "url": "https://open.spotify.com/track/0KujySjvlPZiC4itOukxDM"
@@ -5386,7 +5404,7 @@
       ],
       "date_added": "2026-09-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-27",
       "duration_ms": 147895,
       "name": "NICHT PERFEKT",
       "url": "https://open.spotify.com/track/6vDOXReG8oIfhsrdKT6eQN"
@@ -5680,7 +5698,7 @@
       ],
       "date_added": "2026-04-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-27",
       "duration_ms": 147692,
       "name": "nur f\u00fcr dich",
       "url": "https://open.spotify.com/track/30taITFSL0X3dTL1UePK5a"
@@ -6070,6 +6088,28 @@
       "duration_ms": 135645,
       "name": "Princess Treatment",
       "url": "https://open.spotify.com/track/16QzeM0c7wf4TgyXSVFlji"
+    },
+    {
+      "album": {
+        "name": "Proud",
+        "url": "https://open.spotify.com/album/0VFreRGO2Az7FnMXJqxaXt"
+      },
+      "artists": [
+        {
+          "name": "Dardan",
+          "url": "https://open.spotify.com/artist/3pjq2pDV9RR6VY55wBjVnp"
+        },
+        {
+          "name": "Starian",
+          "url": "https://open.spotify.com/artist/6RDpAm5XMUZqVZlBJ1UYQw"
+        }
+      ],
+      "date_added": "2026-11-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 193413,
+      "name": "Proud",
+      "url": "https://open.spotify.com/track/7hfS6ygnmKp91mxXKIfblc"
     },
     {
       "album": {
@@ -6776,7 +6816,7 @@
       ],
       "date_added": "2025-08-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-27",
       "duration_ms": 163306,
       "name": "Simpel",
       "url": "https://open.spotify.com/track/1pE1hkxS5CWxcSgayoBXK8"
@@ -7121,6 +7161,24 @@
     },
     {
       "album": {
+        "name": "Tag & Nacht",
+        "url": "https://open.spotify.com/album/4IQ1zrnL2hEyqwQ5WFLPgf"
+      },
+      "artists": [
+        {
+          "name": "Kane",
+          "url": "https://open.spotify.com/artist/7g8mQetiw4nzFyy0i9RTvf"
+        }
+      ],
+      "date_added": "2026-11-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 157000,
+      "name": "Tag & Nacht",
+      "url": "https://open.spotify.com/track/1LAsZImZKMKslCIneDkH74"
+    },
+    {
+      "album": {
         "name": "Tagebuch",
         "url": "https://open.spotify.com/album/1QtK03Y9d4ufaBxbV5VPmn"
       },
@@ -7282,6 +7340,28 @@
       "duration_ms": 164011,
       "name": "trauen",
       "url": "https://open.spotify.com/track/15v71BkQIpxgW5vY2ernwh"
+    },
+    {
+      "album": {
+        "name": "Tut mir leid (feat. Mucco)",
+        "url": "https://open.spotify.com/album/7aXihUybDaD030LOsS3NXD"
+      },
+      "artists": [
+        {
+          "name": "Kauta",
+          "url": "https://open.spotify.com/artist/706cem551IzKiczuAQIEDw"
+        },
+        {
+          "name": "Mucco",
+          "url": "https://open.spotify.com/artist/0AfMiUTAbsDPQSCXmBva4y"
+        }
+      ],
+      "date_added": "2026-11-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 159049,
+      "name": "Tut mir leid (feat. Mucco)",
+      "url": "https://open.spotify.com/track/7Lk3oCxmZ6afsxkMARZcdi"
     },
     {
       "album": {

@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-01-18",
-  "description": "Ou\u00e7a todas as novidades e hits do pop br aqui e agora! Foto: Marina Sena, Baco Exu do Blues",
+  "description": "Ou\u00e7a todas as novidades e hits do pop br aqui e agora! Foto: LUDMILLA",
   "name": "Pop Brasil",
   "tracks": [
     {
@@ -330,6 +330,24 @@
       "duration_ms": 128971,
       "name": "Abalo Psicol\u00f3gico",
       "url": "https://open.spotify.com/track/5SX0VdH95qpDfUOmDUQ5pj"
+    },
+    {
+      "album": {
+        "name": "REIMAGIN\u00c1RIO",
+        "url": "https://open.spotify.com/album/23jlk5jfOi5avX1JVZWF5v"
+      },
+      "artists": [
+        {
+          "name": "Claudia Leitte",
+          "url": "https://open.spotify.com/artist/2OjoIDVPQKT9B7loZbPEfp"
+        }
+      ],
+      "date_added": "2026-11-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 176915,
+      "name": "Abelha Rainha",
+      "url": "https://open.spotify.com/track/2hls78NLsCkgmAkq2UoH3u"
     },
     {
       "album": {
@@ -1574,6 +1592,32 @@
       "duration_ms": 157445,
       "name": "BH",
       "url": "https://open.spotify.com/track/5Kmc7UYkX9huP00mmrUI8c"
+    },
+    {
+      "album": {
+        "name": "Bi Festinha",
+        "url": "https://open.spotify.com/album/6ux1QRc7s8cSkHIdZdMoUN"
+      },
+      "artists": [
+        {
+          "name": "LUDMILLA",
+          "url": "https://open.spotify.com/artist/3CDoRporvSjdzTrm99a3gi"
+        },
+        {
+          "name": "HITMAKER",
+          "url": "https://open.spotify.com/artist/0Otd1ReHJtVAzwAuRj09Zg"
+        },
+        {
+          "name": "Puterrier",
+          "url": "https://open.spotify.com/artist/0zbO4WWM2wJM3ulFmCbMwB"
+        }
+      ],
+      "date_added": "2026-11-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 148288,
+      "name": "Bi Festinha",
+      "url": "https://open.spotify.com/track/4TODvJGQ6l1HmtpgyPrGbl"
     },
     {
       "album": {
@@ -3200,7 +3244,7 @@
       ],
       "date_added": "2026-10-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-27",
       "duration_ms": 200469,
       "name": "DIZER QUE TE AMO",
       "url": "https://open.spotify.com/track/02JFVYvjhf0HvEDxUHsSUT"
@@ -4880,7 +4924,7 @@
       ],
       "date_added": "2026-10-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-27",
       "duration_ms": 192241,
       "name": "LCD (feat. kouth)",
       "url": "https://open.spotify.com/track/1pcSp1ZZxInmzkFRKSfosW"
@@ -8310,6 +8354,28 @@
       "duration_ms": 157649,
       "name": "PROIBIDONA",
       "url": "https://open.spotify.com/track/090GUuqAuh7Vje3V745nep"
+    },
+    {
+      "album": {
+        "name": "DOPAMINA",
+        "url": "https://open.spotify.com/album/0A3JmgbgkyE3BQSdjY7pMT"
+      },
+      "artists": [
+        {
+          "name": "Gustavvo",
+          "url": "https://open.spotify.com/artist/1g7ecQxDIGyHBz8lGGexH8"
+        },
+        {
+          "name": "Vit\u00e3o",
+          "url": "https://open.spotify.com/artist/06lnOkY99sXVW44Y0M4BDP"
+        }
+      ],
+      "date_added": "2026-11-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 185346,
+      "name": "PR\u00d3XIMO PASSO",
+      "url": "https://open.spotify.com/track/4bIuZd0QqV4RkPo3G81FVk"
     },
     {
       "album": {

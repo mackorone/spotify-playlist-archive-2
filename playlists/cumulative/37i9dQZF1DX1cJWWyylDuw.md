@@ -4,7 +4,7 @@
 
 > A mix of the best modern Deathcore tracks\. Cover: Rev3rent
 
-839 songs - 2 day 5 hr 9 min
+840 songs - 2 day 5 hr 12 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -241,6 +241,7 @@
 | [Doom Sequence](https://open.spotify.com/track/3XbSTn9JFKZ8gTT3EGahlA) | [In Fear](https://open.spotify.com/artist/2HbS5oR1eY6yJARuVUtAz8) | [Doom Sequence](https://open.spotify.com/album/4Xi0r9bzqijq3OKzkbFiBL) | 3:11 | 2024-08-23 | 2025-01-18 |
 | [Downshifter](https://open.spotify.com/track/2IDBLNzCqd21aL4cH5oaUW) | [Heaven Shall Burn](https://open.spotify.com/artist/4sy5qWfwUwpGYBnCKnwfcW) | [Wanderer](https://open.spotify.com/album/5TizayIF6uJtXShVu0U9X3) | 5:59 | 2021-12-17 | 2022-04-09 |
 | [Drag Me Down \(feat\. Jamie Hails\)](https://open.spotify.com/track/35onQjC0Rb2BISF0xkJCMW) | [CABAL](https://open.spotify.com/artist/2bfK6ltXa60B2egnErJvlO), [Jamie Hails](https://open.spotify.com/artist/2cRrZw0UD5vsnwoPVkV8Ip) | [Drag Me Down \(feat\. Jamie Hails\)](https://open.spotify.com/album/1or1Y8UCe75sabzYynWIn0) | 4:03 | 2021-12-17 | 2022-07-28 |
+| [Dreadful Existence](https://open.spotify.com/track/5hWnLWS0la6UxNn5EnJ1wr) | [Brainsucker](https://open.spotify.com/artist/5Cce8mnO0yDQKnGnHUKS2w) | [Dreadful Existence](https://open.spotify.com/album/5UfoMkAxOX5vpCp4LxlmRj) | 2:38 | 2026-11-20 |  |
 | [Dreaming Desecration](https://open.spotify.com/track/5CdHJaOsp8gCZyMhuWmS6o) | [Signs of the Swarm](https://open.spotify.com/artist/0yxJx8OEyDfd7dzLsFuNrS) | [Absolvere](https://open.spotify.com/album/2nDh1tZjYv2W63a27pSqRx) | 3:41 | 2021-12-17 | 2023-04-29 |
 | [Drone Corpse Aviator](https://open.spotify.com/track/0dV79XvxIl9godBsFty67L) | [Archspire](https://open.spotify.com/artist/7F9ZL4TJNr8AoU0UUQX8ih) | [Drone Corpse Aviator](https://open.spotify.com/album/01yB2i7kzFVpD8naiAfUSs) | 3:46 | 2021-12-17 | 2023-04-29 |
 | [Duplicity](https://open.spotify.com/track/7jCWxQD5R7GrBahD2yJ7zc) | [Krosis](https://open.spotify.com/artist/7gfEb4adETwNZgWLUlcHQy) | [Duplicity](https://open.spotify.com/album/6voOWo8kjuuet5zCiM2ing) | 5:10 | 2021-12-17 | 2024-06-26 |
@@ -471,7 +472,7 @@
 | [Love Me to Death](https://open.spotify.com/track/2AIOCjZ46W7adtRBaqT2XW) | [Suicide Silence](https://open.spotify.com/artist/6HZr7Fs2VfV1PYHIwo8Ylc) | [Love Me to Death](https://open.spotify.com/album/1s7syJTvVBjlbZuthJfFJa) | 4:15 | 2021-12-17 | 2022-07-27 |
 | [Love Me to Death](https://open.spotify.com/track/30xWVpvct6LewWIHFEWHdn) | [Suicide Silence](https://open.spotify.com/artist/6HZr7Fs2VfV1PYHIwo8Ylc) | [Become the Hunter](https://open.spotify.com/album/0TKibOiHotsM6d36cyepoC) | 4:15 | 2022-07-08 | 2024-04-19 |
 | [Loveless Suffering](https://open.spotify.com/track/7IhlAdGLiaFhPIVKNUvL6S) | [Distant](https://open.spotify.com/artist/7dfpBi0QvO9FmlhBK6XHwJ) | [Loveless Suffering](https://open.spotify.com/album/5YgSuWfKgSWzmPttENfOTX) | 4:07 | 2024-06-10 | 2024-08-24 |
-| [Low Slam Low](https://open.spotify.com/track/3UZhfWn5NCz6afOVtSgNG9) | [Disfiguring The Goddess](https://open.spotify.com/artist/4KNivmUcgaar8yZvjYRoqv) | [Low Slam Low](https://open.spotify.com/album/43KFAHPXnbNZKqZyb7ah1p) | 2:51 | 2026-07-17 |  |
+| [Low Slam Low](https://open.spotify.com/track/3UZhfWn5NCz6afOVtSgNG9) | [Disfiguring The Goddess](https://open.spotify.com/artist/4KNivmUcgaar8yZvjYRoqv) | [Low Slam Low](https://open.spotify.com/album/43KFAHPXnbNZKqZyb7ah1p) | 2:51 | 2026-07-17 | 2026-11-27 |
 | [Lower Purpose](https://open.spotify.com/track/4qZXF8cijXbF3RTRRnwHRe) | [Fit For An Autopsy](https://open.spotify.com/artist/0qJpY7K8p7g6sacvaGNt6i) | [Lower Purpose](https://open.spotify.com/album/6DN1UI8IOm2BE46LbK83GS) | 3:11 | 2024-10-18 | 2025-04-01 |
 | [Lurking](https://open.spotify.com/track/2XktRD81vrs6g9xDzUYIFm) | [Bound in Fear](https://open.spotify.com/artist/58P2qDnyWpUDoiCtfHvLTL) | [A Mind Too Sick To Heal](https://open.spotify.com/album/42k4GVX6bWIRaBJlsR8u0f) | 3:21 | 2026-03-22 | 2026-07-18 |
 | [Lust](https://open.spotify.com/track/0g9rKVt9lXwne5bhy0ptbU) | [Kneel Before the Death](https://open.spotify.com/artist/3Gd8aErwIatbB6fw735SNK) | [Lust](https://open.spotify.com/album/1BVCpyEynUaxaLYtsdOaYt) | 3:41 | 2022-04-01 | 2022-07-24 |

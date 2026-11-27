@@ -1469,6 +1469,24 @@
     },
     {
       "album": {
+        "name": "babe",
+        "url": "https://open.spotify.com/album/7y3SZsxPFytKGzyJsDClNN"
+      },
+      "artists": [
+        {
+          "name": "felix jaehn",
+          "url": "https://open.spotify.com/artist/4bL2B6hmLlMWnUEZnorEtG"
+        }
+      ],
+      "date_added": "2026-11-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 89013,
+      "name": "babe",
+      "url": "https://open.spotify.com/track/7fNa3d7f70o9qhIKQ9TJ7q"
+    },
+    {
+      "album": {
         "name": "Baby I Forgive You",
         "url": "https://open.spotify.com/album/450Pj7mRcbv4yW3wWhesAw"
       },
@@ -2920,6 +2938,28 @@
       "duration_ms": 151515,
       "name": "Ceasefire",
       "url": "https://open.spotify.com/track/4RIw1uiwQ1dnr8hXUB8Hpy"
+    },
+    {
+      "album": {
+        "name": "Choice (feat. Kareen Lomax) [String Version]",
+        "url": "https://open.spotify.com/album/2FpW5xr09dCS8C6EENpKli"
+      },
+      "artists": [
+        {
+          "name": "MK",
+          "url": "https://open.spotify.com/artist/1yqxFtPHKcGcv6SXZNdyT9"
+        },
+        {
+          "name": "Kareen Lomax",
+          "url": "https://open.spotify.com/artist/0Fb9qTWnjsB90xH3zWr4oa"
+        }
+      ],
+      "date_added": "2026-11-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 172500,
+      "name": "Choice (feat. Kareen Lomax)",
+      "url": "https://open.spotify.com/track/0K4JGfWnXVCgV3dxnUXFT5"
     },
     {
       "album": {
@@ -7647,6 +7687,24 @@
     },
     {
       "album": {
+        "name": "If You Wait",
+        "url": "https://open.spotify.com/album/579DycpcdiWLPAPJp6HaTo"
+      },
+      "artists": [
+        {
+          "name": "George FitzGerald",
+          "url": "https://open.spotify.com/artist/3KOHpygRuo1ruQAbEneR3t"
+        }
+      ],
+      "date_added": "2026-11-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 265805,
+      "name": "Hold",
+      "url": "https://open.spotify.com/track/0qth7ju3a4zEZLXA7MeG7i"
+    },
+    {
+      "album": {
         "name": "Hold",
         "url": "https://open.spotify.com/album/4lBCJMhA8TfoDb69u4xoRe"
       },
@@ -9522,7 +9580,7 @@
       ],
       "date_added": "2026-01-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-27",
       "duration_ms": 156190,
       "name": "In My Head",
       "url": "https://open.spotify.com/track/3qHPMaazhsySnfGlWIB45Y"
@@ -16930,7 +16988,7 @@
       ],
       "date_added": "2026-07-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-27",
       "duration_ms": 178746,
       "name": "Scars",
       "url": "https://open.spotify.com/track/3LzXNblYTky3isOztnWqcz"
@@ -20324,7 +20382,7 @@
       ],
       "date_added": "2026-04-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-27",
       "duration_ms": 115654,
       "name": "Toy",
       "url": "https://open.spotify.com/track/02Jfe2Wl9MGcKPVfFZyj4K"
@@ -21110,7 +21168,7 @@
       ],
       "date_added": "2026-05-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-27",
       "duration_ms": 198776,
       "name": "Ur Way",
       "url": "https://open.spotify.com/track/48aHq417z6EDt6b7wGyOnT"
@@ -22718,6 +22776,24 @@
       "duration_ms": 153000,
       "name": "Woke Up in Love",
       "url": "https://open.spotify.com/track/1cBb6fiyDm4LAcMSJCHHCF"
+    },
+    {
+      "album": {
+        "name": "won't let go",
+        "url": "https://open.spotify.com/album/1FGcBdm1m9ItxoOcjAxeqJ"
+      },
+      "artists": [
+        {
+          "name": "bailey",
+          "url": "https://open.spotify.com/artist/11cVIlWcbl4NaDtqlrVCaM"
+        }
+      ],
+      "date_added": "2026-11-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 160000,
+      "name": "won't let go",
+      "url": "https://open.spotify.com/track/1EKkEv1bXdhDTUJclZdW45"
     },
     {
       "album": {

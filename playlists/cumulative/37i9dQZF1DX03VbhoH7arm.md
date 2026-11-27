@@ -2,7 +2,7 @@
 
 ### [Hot Hits Brasil](https://open.spotify.com/playlist/37i9dQZF1DX03VbhoH7arm)
 
-> Grandes hits do BR e do 🌎 / Foto: LUDMILLA
+> Grandes hits do BR e do 🌎 / Foto: IZA
 
 493 songs - 1 day 0 hr 40 min
 

@@ -4,7 +4,7 @@
 
 > The most calming classical music.
 
-205 songs - 13 hr 11 min
+206 songs - 13 hr 13 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -108,6 +108,7 @@
 | [Jesu, Joy of Man's Desiring \- Arr\. by Alexis Ffrench](https://open.spotify.com/track/2Kn5PauE1nEJxUQlD6N3JF) | [Alexis Ffrench](https://open.spotify.com/artist/58R31AvN8JMHM7xkNpVLjX) | [Jesu, Joy of Man's Desiring](https://open.spotify.com/album/2pjG5wJxCWKHmZcNcK0mCR) | 2:08 | 2023-04-14 |  |
 | [Jesu, Joy of Man's Desiring \- Arr\. by Alexis Ffrench](https://open.spotify.com/track/75pxraYiRRhRn68Kwk4sT3) | [Alexis Ffrench](https://open.spotify.com/artist/58R31AvN8JMHM7xkNpVLjX) | [Peace](https://open.spotify.com/album/21STh457wYrqmeYQlW1Lvw) | 2:08 | 2023-04-14 | 2024-04-19 |
 | [Kaiho](https://open.spotify.com/track/2JMWJkY1aQhNASkIuDUnI5) | [A\. Blomqvist](https://open.spotify.com/artist/5OdOZHljmANwGvN71E6KJm) | [Kaiho](https://open.spotify.com/album/6hF22qlhOYHaIQLIOP50fU) | 3:17 | 2024-03-01 |  |
+| [Kancheli: 33 Miniatures: No\. 3, Theme from "When Almonds Blossomed"](https://open.spotify.com/track/1mlZtJvP9bKIuTT0S9kQIH) | [Gia Kancheli](https://open.spotify.com/artist/5xW70tCVhylaxAg7oRl0H6), [Mariam Batsashvili](https://open.spotify.com/artist/5EfRmAMpdmiA8NDoBxGYci) | [Kancheli: When Almonds Blossomed](https://open.spotify.com/album/025dCC1pbeIyXanMf2QrLw) | 2:01 | 2026-11-27 |  |
 | [Keyboard Concerto No\. 1 in D Major, BWV 972 \(After Vivaldi, RV 230\): II\. Larghetto](https://open.spotify.com/track/5xjAxPOn4KQD7pDL0W3toD) | [Johann Sebastian Bach](https://open.spotify.com/artist/5aIqB5nVVvmFsvSdExz408), [Víkingur Ólafsson](https://open.spotify.com/artist/0iqgjl0OG3z53PZVIB7ZyD) | [J.S\. Bach: Keyboard Concerto No\. 1 in D Major, BWV 972 \(After Vivaldi, RV 230\): II\. Larghetto](https://open.spotify.com/album/6t7b9wNTlxy6w2izqpAksQ) | 2:35 | 2026-08-14 |  |
 | [Kinderszenen, Op\. 15: Träumerei \(Arr\. Lewin for Guitar\)](https://open.spotify.com/track/2Imxyb3LiuXsDFo7Gq5YDs) | [Robert Schumann](https://open.spotify.com/artist/2UqjDAXnDxejEyE0CzfUrZ), [Miloš Karadaglić](https://open.spotify.com/artist/7jQSqBxct7Aa8b3GsZFkO4) | [Schumann: Kinderszenen, Op\. 15: Träumerei \(Arr\. Lewin for Guitar\)](https://open.spotify.com/album/3dtyRuctasvglDB28bijNg) | 3:35 | 2021-11-15 | 2024-07-24 |
 | [Kinderszenen, Op\. 15: VII\. Träumerei](https://open.spotify.com/track/4SbAXtlOJ0eCL0XwFVi0Ij) | [Robert Schumann](https://open.spotify.com/artist/2UqjDAXnDxejEyE0CzfUrZ), [Martha Argerich](https://open.spotify.com/artist/66MvLAvLznk5UOvASVGjk4) | [Schumann: Kinderszenen; Kreisleriana](https://open.spotify.com/album/6sxH5yHob34qbhbYjYWjsX) | 2:55 | 2024-07-23 |  |

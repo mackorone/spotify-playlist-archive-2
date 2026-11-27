@@ -1,6 +1,6 @@
 {
   "description": "\u00a1Los \u00e9xitos de banda que necesitas! Pancho Barraza \ud83d\udcf8",
-  "num_followers": 1296662,
+  "num_followers": 1296677,
   "original_name": "Banda 2026",
   "owner": {
     "name": "Spotify",
@@ -539,6 +539,22 @@
     {
       "added_at": "2026-11-20 05:01:49",
       "album": {
+        "name": "Galer\u00eda",
+        "url": "https://open.spotify.com/album/6SiDH7inMg7FqxsVVM9Grq"
+      },
+      "artists": [
+        {
+          "name": "Banda Tierra Sagrada",
+          "url": "https://open.spotify.com/artist/0v7JYEoQOQbzNNESKwxmzT"
+        }
+      ],
+      "duration_ms": 272544,
+      "name": "La Cosa No Es Por Ahi",
+      "url": "https://open.spotify.com/track/7g0JgF6XF6wfP4c0ZNl7g3"
+    },
+    {
+      "added_at": "2026-11-20 05:01:49",
+      "album": {
         "name": "Mi Amor Y Mi Agon\u00eda",
         "url": "https://open.spotify.com/album/2JHN0HfZIzbrJfIWqp4TqJ"
       },
@@ -579,22 +595,6 @@
     {
       "added_at": "2026-11-20 05:01:49",
       "album": {
-        "name": "Galer\u00eda",
-        "url": "https://open.spotify.com/album/6SiDH7inMg7FqxsVVM9Grq"
-      },
-      "artists": [
-        {
-          "name": "Banda Tierra Sagrada",
-          "url": "https://open.spotify.com/artist/0v7JYEoQOQbzNNESKwxmzT"
-        }
-      ],
-      "duration_ms": 272544,
-      "name": "La Cosa No Es Por Ahi",
-      "url": "https://open.spotify.com/track/7g0JgF6XF6wfP4c0ZNl7g3"
-    },
-    {
-      "added_at": "2026-11-20 05:01:49",
-      "album": {
         "name": "Si Las Miradas Mataran",
         "url": "https://open.spotify.com/album/2YSx52WRNoGQRyfbdG69IQ"
       },
@@ -607,6 +607,22 @@
       "duration_ms": 169500,
       "name": "Si Las Miradas Mataran",
       "url": "https://open.spotify.com/track/45VBtZ50ERPzMohDRPjoDm"
+    },
+    {
+      "added_at": "2026-11-20 05:01:49",
+      "album": {
+        "name": "Mi Morena",
+        "url": "https://open.spotify.com/album/7gAnJPwG7mHk6OFpO4Ppfc"
+      },
+      "artists": [
+        {
+          "name": "R\u00e9gulo Caro",
+          "url": "https://open.spotify.com/artist/0YRwUbRxrawmnBdixwJi5W"
+        }
+      ],
+      "duration_ms": 184285,
+      "name": "Mi Morena",
+      "url": "https://open.spotify.com/track/2iw2ZHKD2QRerzWvn3D2jm"
     },
     {
       "added_at": "2026-11-20 05:01:49",
@@ -627,22 +643,6 @@
       "duration_ms": 160800,
       "name": "Mesa Llena",
       "url": "https://open.spotify.com/track/2sH1sAJcZnsP0ckgu0Yeqv"
-    },
-    {
-      "added_at": "2026-11-20 05:01:49",
-      "album": {
-        "name": "Mi Morena",
-        "url": "https://open.spotify.com/album/7gAnJPwG7mHk6OFpO4Ppfc"
-      },
-      "artists": [
-        {
-          "name": "R\u00e9gulo Caro",
-          "url": "https://open.spotify.com/artist/0YRwUbRxrawmnBdixwJi5W"
-        }
-      ],
-      "duration_ms": 184285,
-      "name": "Mi Morena",
-      "url": "https://open.spotify.com/track/2iw2ZHKD2QRerzWvn3D2jm"
     },
     {
       "added_at": "2026-11-20 05:01:49",
@@ -895,22 +895,6 @@
     {
       "added_at": "2026-11-20 05:01:49",
       "album": {
-        "name": "\u00bfY Qu\u00e9 Creen?",
-        "url": "https://open.spotify.com/album/77EGKu0NGf5aZOeWZoNLou"
-      },
-      "artists": [
-        {
-          "name": "El Bebeto",
-          "url": "https://open.spotify.com/artist/1YhMWppPt9RVODKD1KCs7W"
-        }
-      ],
-      "duration_ms": 179705,
-      "name": "\u00bfY Qu\u00e9 Creen?",
-      "url": "https://open.spotify.com/track/4Rh03mcGdtsRZxizPAYUGE"
-    },
-    {
-      "added_at": "2026-11-20 05:01:49",
-      "album": {
         "name": "Ella Jura",
         "url": "https://open.spotify.com/album/655gOHBv3Ublhcrw6WS9gd"
       },
@@ -923,6 +907,22 @@
       "duration_ms": 177062,
       "name": "Ella Jura",
       "url": "https://open.spotify.com/track/0upr9VmKhkxzdKZhYzQBzS"
+    },
+    {
+      "added_at": "2026-11-20 05:01:49",
+      "album": {
+        "name": "\u00bfY Qu\u00e9 Creen?",
+        "url": "https://open.spotify.com/album/77EGKu0NGf5aZOeWZoNLou"
+      },
+      "artists": [
+        {
+          "name": "El Bebeto",
+          "url": "https://open.spotify.com/artist/1YhMWppPt9RVODKD1KCs7W"
+        }
+      ],
+      "duration_ms": 179705,
+      "name": "\u00bfY Qu\u00e9 Creen?",
+      "url": "https://open.spotify.com/track/4Rh03mcGdtsRZxizPAYUGE"
     },
     {
       "added_at": "2026-11-20 05:01:49",
@@ -1023,22 +1023,6 @@
     {
       "added_at": "2026-11-20 05:01:49",
       "album": {
-        "name": "Al Diablo Mi Orgullo",
-        "url": "https://open.spotify.com/album/4aIB5TQdP45dtNFjhw1leO"
-      },
-      "artists": [
-        {
-          "name": "Banda Machos",
-          "url": "https://open.spotify.com/artist/7MyUjj79oHy7I8RocrtzZ2"
-        }
-      ],
-      "duration_ms": 176604,
-      "name": "Al Diablo Mi Orgullo",
-      "url": "https://open.spotify.com/track/7o5HPiI0uUeEoKBbqZAyn9"
-    },
-    {
-      "added_at": "2026-11-20 05:01:49",
-      "album": {
         "name": "Rancheras Bonitas",
         "url": "https://open.spotify.com/album/0599pjWZ13cqNGkv3dqqiy"
       },
@@ -1051,6 +1035,22 @@
       "duration_ms": 212865,
       "name": "Dos Hojas Sin Rumbo, Un Rinconcito en el Cielo",
       "url": "https://open.spotify.com/track/4CjU0R47evoWzIhuXq1aw5"
+    },
+    {
+      "added_at": "2026-11-20 05:01:49",
+      "album": {
+        "name": "Al Diablo Mi Orgullo",
+        "url": "https://open.spotify.com/album/4aIB5TQdP45dtNFjhw1leO"
+      },
+      "artists": [
+        {
+          "name": "Banda Machos",
+          "url": "https://open.spotify.com/artist/7MyUjj79oHy7I8RocrtzZ2"
+        }
+      ],
+      "duration_ms": 176604,
+      "name": "Al Diablo Mi Orgullo",
+      "url": "https://open.spotify.com/track/7o5HPiI0uUeEoKBbqZAyn9"
     },
     {
       "added_at": "2026-11-20 05:01:49",
@@ -1135,6 +1135,26 @@
     {
       "added_at": "2026-11-20 05:01:49",
       "album": {
+        "name": "Ya Se Muri\u00f3",
+        "url": "https://open.spotify.com/album/5llKBTyQq7WOAuqbEr2IAJ"
+      },
+      "artists": [
+        {
+          "name": "Tierra Cali",
+          "url": "https://open.spotify.com/artist/4JqzwqRUOCEHeIVRDWG5Jv"
+        },
+        {
+          "name": "Humberto Plancarte",
+          "url": "https://open.spotify.com/artist/6qIeJLACuivBzb3iPhpM3g"
+        }
+      ],
+      "duration_ms": 235091,
+      "name": "Ya Se Muri\u00f3",
+      "url": "https://open.spotify.com/track/6VEg4MhQufQOIVJVbiMGVm"
+    },
+    {
+      "added_at": "2026-11-20 05:01:49",
+      "album": {
         "name": "\u00a1Que Viva Antonio Aguilar!",
         "url": "https://open.spotify.com/album/7e7KjU1w5VaKKnRoiNUYlV"
       },
@@ -1155,22 +1175,18 @@
     {
       "added_at": "2026-11-20 05:01:49",
       "album": {
-        "name": "Ya Se Muri\u00f3",
-        "url": "https://open.spotify.com/album/5llKBTyQq7WOAuqbEr2IAJ"
+        "name": "M\u00e1s Perris",
+        "url": "https://open.spotify.com/album/4Dxoh1BqN03wVod0jum9l9"
       },
       "artists": [
         {
-          "name": "Tierra Cali",
-          "url": "https://open.spotify.com/artist/4JqzwqRUOCEHeIVRDWG5Jv"
-        },
-        {
-          "name": "Humberto Plancarte",
-          "url": "https://open.spotify.com/artist/6qIeJLACuivBzb3iPhpM3g"
+          "name": "Chiquis",
+          "url": "https://open.spotify.com/artist/5QcHBpoxrY7vx3ulMKEvTS"
         }
       ],
-      "duration_ms": 235091,
-      "name": "Ya Se Muri\u00f3",
-      "url": "https://open.spotify.com/track/6VEg4MhQufQOIVJVbiMGVm"
+      "duration_ms": 185169,
+      "name": "M\u00e1s Perris",
+      "url": "https://open.spotify.com/track/5lqSgMAQiwK54xtinq7KaP"
     },
     {
       "added_at": "2026-11-20 05:01:49",
@@ -1195,18 +1211,18 @@
     {
       "added_at": "2026-11-20 05:01:49",
       "album": {
-        "name": "M\u00e1s Perris",
-        "url": "https://open.spotify.com/album/4Dxoh1BqN03wVod0jum9l9"
+        "name": "Legado Coleccion 1 Regrabado",
+        "url": "https://open.spotify.com/album/5ZWNnTDOu8trRdfKYvEy4O"
       },
       "artists": [
         {
-          "name": "Chiquis",
-          "url": "https://open.spotify.com/artist/5QcHBpoxrY7vx3ulMKEvTS"
+          "name": "Cuisillos De Arturo Macias",
+          "url": "https://open.spotify.com/artist/32lXHXuhXtdA2j3IDXNND4"
         }
       ],
-      "duration_ms": 185169,
-      "name": "M\u00e1s Perris",
-      "url": "https://open.spotify.com/track/5lqSgMAQiwK54xtinq7KaP"
+      "duration_ms": 230965,
+      "name": "Mil Heridas",
+      "url": "https://open.spotify.com/track/50e5wLsBnFoeBNUMbM03FW"
     },
     {
       "added_at": "2026-11-20 05:01:49",
@@ -1223,22 +1239,6 @@
       "duration_ms": 210329,
       "name": "Amar De Verdad",
       "url": "https://open.spotify.com/track/2kTW2PeUKkC5N6d57RlOdm"
-    },
-    {
-      "added_at": "2026-11-20 05:01:49",
-      "album": {
-        "name": "Legado Coleccion 1 Regrabado",
-        "url": "https://open.spotify.com/album/5ZWNnTDOu8trRdfKYvEy4O"
-      },
-      "artists": [
-        {
-          "name": "Cuisillos De Arturo Macias",
-          "url": "https://open.spotify.com/artist/32lXHXuhXtdA2j3IDXNND4"
-        }
-      ],
-      "duration_ms": 230965,
-      "name": "Mil Heridas",
-      "url": "https://open.spotify.com/track/50e5wLsBnFoeBNUMbM03FW"
     },
     {
       "added_at": "2026-11-20 05:01:49",
@@ -1275,6 +1275,22 @@
     {
       "added_at": "2026-11-20 05:01:49",
       "album": {
+        "name": "Las Reglas Del Juego",
+        "url": "https://open.spotify.com/album/3lXwM79sfzjdqGZhhHLoiQ"
+      },
+      "artists": [
+        {
+          "name": "Cuarto de Milla",
+          "url": "https://open.spotify.com/artist/5yambtXlsDmaV304q7CRIe"
+        }
+      ],
+      "duration_ms": 171886,
+      "name": "Quisiera Rozar Tu Piel",
+      "url": "https://open.spotify.com/track/6CfW6eeZUnAvEOdbmAuH8e"
+    },
+    {
+      "added_at": "2026-11-20 05:01:49",
+      "album": {
         "name": "Si Por Casualidad",
         "url": "https://open.spotify.com/album/1AK4Hi6OQjoDM1Z649XueB"
       },
@@ -1291,22 +1307,6 @@
       "duration_ms": 156990,
       "name": "Si Por Casualidad",
       "url": "https://open.spotify.com/track/3WPl6I9rzbNN1nFExjylcK"
-    },
-    {
-      "added_at": "2026-11-20 05:01:49",
-      "album": {
-        "name": "Las Reglas Del Juego",
-        "url": "https://open.spotify.com/album/3lXwM79sfzjdqGZhhHLoiQ"
-      },
-      "artists": [
-        {
-          "name": "Cuarto de Milla",
-          "url": "https://open.spotify.com/artist/5yambtXlsDmaV304q7CRIe"
-        }
-      ],
-      "duration_ms": 171886,
-      "name": "Quisiera Rozar Tu Piel",
-      "url": "https://open.spotify.com/track/6CfW6eeZUnAvEOdbmAuH8e"
     },
     {
       "added_at": "2026-11-20 05:01:49",
@@ -1379,6 +1379,22 @@
     {
       "added_at": "2026-11-20 05:01:49",
       "album": {
+        "name": "Desde La Mochila Con La Banda Session 2 (En Vivo)",
+        "url": "https://open.spotify.com/album/7oKlBewCFw1v1OxcStGAT5"
+      },
+      "artists": [
+        {
+          "name": "Giovanny Ayala",
+          "url": "https://open.spotify.com/artist/0OmIOUU8SceGFVrqrEm70j"
+        }
+      ],
+      "duration_ms": 187200,
+      "name": "Cuando El Sol Salga Al Rev\u00e9s - En Vivo",
+      "url": "https://open.spotify.com/track/7Cw8DJs4OKvWk6DDQI19S6"
+    },
+    {
+      "added_at": "2026-11-20 05:01:49",
+      "album": {
         "name": "Ya Se Acab\u00f3",
         "url": "https://open.spotify.com/album/6WcUmiYRpqhlP0l3Nq83sw"
       },
@@ -1407,22 +1423,6 @@
       "duration_ms": 145021,
       "name": "Ya Se Acab\u00f3",
       "url": "https://open.spotify.com/track/3D9AhW1jx7ZMxhk1wq7MyM"
-    },
-    {
-      "added_at": "2026-11-20 05:01:49",
-      "album": {
-        "name": "Desde La Mochila Con La Banda Session 2 (En Vivo)",
-        "url": "https://open.spotify.com/album/7oKlBewCFw1v1OxcStGAT5"
-      },
-      "artists": [
-        {
-          "name": "Giovanny Ayala",
-          "url": "https://open.spotify.com/artist/0OmIOUU8SceGFVrqrEm70j"
-        }
-      ],
-      "duration_ms": 187200,
-      "name": "Cuando El Sol Salga Al Rev\u00e9s - En Vivo",
-      "url": "https://open.spotify.com/track/7Cw8DJs4OKvWk6DDQI19S6"
     },
     {
       "added_at": "2026-11-20 05:01:49",
@@ -1547,34 +1547,18 @@
     {
       "added_at": "2026-11-20 05:01:49",
       "album": {
-        "name": "El Corrido De Zacatecas",
-        "url": "https://open.spotify.com/album/77Ly1dS1mi8GS1SIUz3ckO"
+        "name": "Lo Que Merec\u00eda",
+        "url": "https://open.spotify.com/album/3JMxz2yev3pm2Sc1dCu5Ur"
       },
       "artists": [
         {
-          "name": "Banda Autentica de Jerez",
-          "url": "https://open.spotify.com/artist/29SQzMRQAidCYw2l9vIGE1"
+          "name": "Irene del Rosario",
+          "url": "https://open.spotify.com/artist/280pdvUx6toxxX9M8z2ZFN"
         }
       ],
-      "duration_ms": 174892,
-      "name": "El Corrido De Zacatecas",
-      "url": "https://open.spotify.com/track/0eS7olHK2jMzJXHMRJ9whx"
-    },
-    {
-      "added_at": "2026-11-20 05:01:49",
-      "album": {
-        "name": "Tu Ex Amigo",
-        "url": "https://open.spotify.com/album/6wy7F4fRExObQQC3W26jEd"
-      },
-      "artists": [
-        {
-          "name": "Banda Clave Nueva",
-          "url": "https://open.spotify.com/artist/7DxmRNDWbpskTfkfmiRd7R"
-        }
-      ],
-      "duration_ms": 202416,
-      "name": "Amor (Bonus Track)",
-      "url": "https://open.spotify.com/track/3dJSJnZaznkOwQhyx9RSwZ"
+      "duration_ms": 155905,
+      "name": "Lo Que Merec\u00eda",
+      "url": "https://open.spotify.com/track/6XBxLzlqudsPmmeasqi8EM"
     },
     {
       "added_at": "2026-11-20 05:01:49",
@@ -1595,18 +1579,34 @@
     {
       "added_at": "2026-11-20 05:01:49",
       "album": {
-        "name": "Contigo Aprend\u00ed a Amar",
-        "url": "https://open.spotify.com/album/1JIZYSrr38pQrEDKmpoBkX"
+        "name": "Tu Ex Amigo",
+        "url": "https://open.spotify.com/album/6wy7F4fRExObQQC3W26jEd"
       },
       "artists": [
         {
-          "name": "Banda El Terre De Jerez",
-          "url": "https://open.spotify.com/artist/2zop35FJ6EO4BO4fUzaBx1"
+          "name": "Banda Clave Nueva",
+          "url": "https://open.spotify.com/artist/7DxmRNDWbpskTfkfmiRd7R"
         }
       ],
-      "duration_ms": 267401,
-      "name": "Contigo Aprend\u00ed a Amar",
-      "url": "https://open.spotify.com/track/3tfbkz9kRr6rAeRPcNMniB"
+      "duration_ms": 202416,
+      "name": "Amor (Bonus Track)",
+      "url": "https://open.spotify.com/track/3dJSJnZaznkOwQhyx9RSwZ"
+    },
+    {
+      "added_at": "2026-11-20 05:01:49",
+      "album": {
+        "name": "El Corrido De Zacatecas",
+        "url": "https://open.spotify.com/album/77Ly1dS1mi8GS1SIUz3ckO"
+      },
+      "artists": [
+        {
+          "name": "Banda Autentica de Jerez",
+          "url": "https://open.spotify.com/artist/29SQzMRQAidCYw2l9vIGE1"
+        }
+      ],
+      "duration_ms": 174892,
+      "name": "El Corrido De Zacatecas",
+      "url": "https://open.spotify.com/track/0eS7olHK2jMzJXHMRJ9whx"
     },
     {
       "added_at": "2026-11-20 05:01:49",
@@ -1627,6 +1627,22 @@
     {
       "added_at": "2026-11-20 05:01:49",
       "album": {
+        "name": "Contigo Aprend\u00ed a Amar",
+        "url": "https://open.spotify.com/album/1JIZYSrr38pQrEDKmpoBkX"
+      },
+      "artists": [
+        {
+          "name": "Banda El Terre De Jerez",
+          "url": "https://open.spotify.com/artist/2zop35FJ6EO4BO4fUzaBx1"
+        }
+      ],
+      "duration_ms": 267401,
+      "name": "Contigo Aprend\u00ed a Amar",
+      "url": "https://open.spotify.com/track/3tfbkz9kRr6rAeRPcNMniB"
+    },
+    {
+      "added_at": "2026-11-20 05:01:49",
+      "album": {
         "name": "Inolvidable",
         "url": "https://open.spotify.com/album/5xND24q3iBRRPfKcMcW7P8"
       },
@@ -1643,34 +1659,18 @@
     {
       "added_at": "2026-11-20 05:01:49",
       "album": {
-        "name": "Lo Que Merec\u00eda",
-        "url": "https://open.spotify.com/album/3JMxz2yev3pm2Sc1dCu5Ur"
+        "name": "No Me Vuelvo Enamorar",
+        "url": "https://open.spotify.com/album/7wv0ffO2H9J6ojJqmqOrhu"
       },
       "artists": [
         {
-          "name": "Irene del Rosario",
-          "url": "https://open.spotify.com/artist/280pdvUx6toxxX9M8z2ZFN"
+          "name": "Julio Chaidez",
+          "url": "https://open.spotify.com/artist/0iMKZWAsycF13Uu67duuj7"
         }
       ],
-      "duration_ms": 155905,
-      "name": "Lo Que Merec\u00eda",
-      "url": "https://open.spotify.com/track/6XBxLzlqudsPmmeasqi8EM"
-    },
-    {
-      "added_at": "2026-11-20 05:01:49",
-      "album": {
-        "name": "Pura Rolita De 500 En Vivo",
-        "url": "https://open.spotify.com/album/42jqtgBQAlORDTVQT0BqMv"
-      },
-      "artists": [
-        {
-          "name": "Banda Clave de Oro de Christian Rojas",
-          "url": "https://open.spotify.com/artist/6bm1UoKkIt1nyd4oBr0I0J"
-        }
-      ],
-      "duration_ms": 158293,
-      "name": "En Los Puritos Huesos",
-      "url": "https://open.spotify.com/track/33w6MMIgoZ5IaGUfrkXROU"
+      "duration_ms": 156590,
+      "name": "No Me Vuelvo Enamorar",
+      "url": "https://open.spotify.com/track/6j2II0KPzTzM9IRxMfb9e0"
     },
     {
       "added_at": "2026-11-20 05:01:49",
@@ -1691,18 +1691,18 @@
     {
       "added_at": "2026-11-20 05:01:49",
       "album": {
-        "name": "No Me Vuelvo Enamorar",
-        "url": "https://open.spotify.com/album/7wv0ffO2H9J6ojJqmqOrhu"
+        "name": "Pura Rolita De 500 En Vivo",
+        "url": "https://open.spotify.com/album/42jqtgBQAlORDTVQT0BqMv"
       },
       "artists": [
         {
-          "name": "Julio Chaidez",
-          "url": "https://open.spotify.com/artist/0iMKZWAsycF13Uu67duuj7"
+          "name": "Banda Clave de Oro de Christian Rojas",
+          "url": "https://open.spotify.com/artist/6bm1UoKkIt1nyd4oBr0I0J"
         }
       ],
-      "duration_ms": 156590,
-      "name": "No Me Vuelvo Enamorar",
-      "url": "https://open.spotify.com/track/6j2II0KPzTzM9IRxMfb9e0"
+      "duration_ms": 158293,
+      "name": "En Los Puritos Huesos",
+      "url": "https://open.spotify.com/track/33w6MMIgoZ5IaGUfrkXROU"
     },
     {
       "added_at": "2026-11-20 05:01:49",
@@ -1871,22 +1871,6 @@
     {
       "added_at": "2026-11-20 05:01:49",
       "album": {
-        "name": "El Mejor Pretexto",
-        "url": "https://open.spotify.com/album/6wYzaVj8foAacMu9E59Qnz"
-      },
-      "artists": [
-        {
-          "name": "Cristian Maga\u00f1a",
-          "url": "https://open.spotify.com/artist/5R4mG4Hu2dY3f2NmJ0fNUQ"
-        }
-      ],
-      "duration_ms": 155997,
-      "name": "El Mejor Pretexto",
-      "url": "https://open.spotify.com/track/42AcHdRWYpWqzOAgqu5Amb"
-    },
-    {
-      "added_at": "2026-11-20 05:01:49",
-      "album": {
         "name": "Medley \u201cEl Buki\u201d en Vivo -Mi Eterno Amor Secreto -Si No Te Hubieras Ido -Tu Carcel",
         "url": "https://open.spotify.com/album/69aBc1bLsXjyqxdEWRecch"
       },
@@ -1899,6 +1883,22 @@
       "duration_ms": 340016,
       "name": "Medley \u201cEl Buki\u201d en Vivo -Mi Eterno Amor Secreto -Si No Te Hubieras Ido -Tu Carcel",
       "url": "https://open.spotify.com/track/627sSkkT9txWL0SB6CNdOr"
+    },
+    {
+      "added_at": "2026-11-20 05:01:49",
+      "album": {
+        "name": "El Mejor Pretexto",
+        "url": "https://open.spotify.com/album/6wYzaVj8foAacMu9E59Qnz"
+      },
+      "artists": [
+        {
+          "name": "Cristian Maga\u00f1a",
+          "url": "https://open.spotify.com/artist/5R4mG4Hu2dY3f2NmJ0fNUQ"
+        }
+      ],
+      "duration_ms": 155997,
+      "name": "El Mejor Pretexto",
+      "url": "https://open.spotify.com/track/42AcHdRWYpWqzOAgqu5Amb"
     },
     {
       "added_at": "2026-11-20 05:01:49",

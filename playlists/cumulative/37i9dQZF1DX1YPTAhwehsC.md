@@ -4,7 +4,7 @@
 
 > Up and down I\-95\. Cover: Fergie Baby
 
-2,238 songs - 4 day 5 hr 48 min
+2,240 songs - 4 day 5 hr 52 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -1265,6 +1265,7 @@
 | [Menace](https://open.spotify.com/track/1xX6wr2lEHsDmR72AFN0Hx) | [Lloyd Banks](https://open.spotify.com/artist/3vDUJHQtqT3jFRZ2ECXDTi), [Conway the Machine](https://open.spotify.com/artist/67gqUXxHedeUGDTxwBzdjS) | [Menace](https://open.spotify.com/album/3NHMwyxXdUe3TiIu9CNtWg) | 3:49 | 2022-07-01 | 2022-07-23 |
 | [Menace \(feat\. Fredo Bang\)](https://open.spotify.com/track/0ph8xDY7O1xkbUP4YSy1C1) | [Eli Fross](https://open.spotify.com/artist/6Vy1VMVCyTgbcmA1iz0QFg), [Fredo Bang](https://open.spotify.com/artist/4yTmEo2clwWq2jwelvqgVv) | [Menace \(feat\. Fredo Bang\)](https://open.spotify.com/album/38qFDeYOi2ie34exSeVbIF) | 2:38 | 2022-06-03 | 2022-07-23 |
 | [Mention](https://open.spotify.com/track/6aaQbMf6wTjkVDqvrVvxJB) | [Rich Amiri](https://open.spotify.com/artist/2sF5nNXnrrsCPZlt8ZpyGd) | [Evolution](https://open.spotify.com/album/3nxk4XwXGAiV625DPvgjAA) | 2:40 | 2023-03-18 | 2023-04-22 |
+| [MERCH](https://open.spotify.com/track/2IwrWG5NPOIceQDx8lLgjV) | [Jaeychino](https://open.spotify.com/artist/1mVk9jJNL0m9WIs0a1BQdS) | [BEFORE TOUR](https://open.spotify.com/album/3q7VorLn0tGQw6EKijpyqx) | 1:21 | 2026-11-27 |  |
 | [Messy](https://open.spotify.com/track/59XhexusRIrq57CebHyrWf) | [A$AP Ferg](https://open.spotify.com/artist/5dHt1vcEm9qb8fCyLcB3HL) | [DAROLD](https://open.spotify.com/album/4jNVrFSF7UzQdvQtzHjWM0) | 3:20 | 2024-11-08 | 2024-11-23 |
 | [Metaphysics](https://open.spotify.com/track/71DgZ4RSoqkyZx0cOTF4tB) | [Ghostface Killah](https://open.spotify.com/artist/6FD0unjzGQhX3b6eMccMJe) | [Metaphysics](https://open.spotify.com/album/5un6alPnvvt0vV7iWCxEio) | 2:40 | 2025-08-08 | 2025-08-16 |
 | [METATRON](https://open.spotify.com/track/0kaDuqfiEeUGa9SYKHEEmI) | [GoldLink](https://open.spotify.com/artist/5XenQ7XfcvQdfIbpLEFaKQ) | [METATRON](https://open.spotify.com/album/55L4dwxaTZIwY0bRk4nFzn) | 2:43 | 2025-04-18 | 2025-05-03 |
@@ -1795,6 +1796,7 @@
 | [SIREN](https://open.spotify.com/track/0QmBQ3NnZ18hHcemeeQlsP) | [Tierra Whack](https://open.spotify.com/artist/4lPl9gqgox3JDiaJ1yklKh) | [WHACK'S MUSEUM](https://open.spotify.com/album/46mboRimEXi5KPeUqtkC2i) | 2:18 | 2026-06-19 | 2026-07-18 |
 | [SIXTEEN](https://open.spotify.com/track/1RswhD0IRNMRqo1WDpNhtl) | [BIA](https://open.spotify.com/artist/6veh5zbFpm31XsPdjBgPER) | [SIXTEEN](https://open.spotify.com/album/24H345wgzm6udXQ6Es10VN) | 2:32 | 2023-03-03 | 2023-07-15 |
 | [Skims](https://open.spotify.com/track/1C1XicSwijJXO43fe8qtVt) | [Bay Swag](https://open.spotify.com/artist/0ShmUyGC785pMDaRdP5Sap), [D Lou](https://open.spotify.com/artist/0ybkor32DbynyfffN4EPgg) | [Skims](https://open.spotify.com/album/4NEsQExGK0CTXe8YY0g0Ne) | 2:03 | 2024-08-16 | 2024-08-31 |
+| [SKY FERREIRA](https://open.spotify.com/track/72PLsFAhAFmWYafPd5mkfq) | [Lord Sko](https://open.spotify.com/artist/4okQpk1QkE8PGtiwyakP4h), [CARRTOONS](https://open.spotify.com/artist/0994Up3Ob4zUFm3OFOWpzJ) | [IN MY EXPERT OPINION](https://open.spotify.com/album/785uWE9G5H0mbdcGcLf5oC) | 2:29 | 2026-11-27 |  |
 | [Skyami](https://open.spotify.com/track/6sTMOXXZaJSWSMVy8fx2Js) | [French Montana](https://open.spotify.com/artist/6vXTefBL93Dj5IqAWq6OTv), [Skilla Baby](https://open.spotify.com/artist/1GVenmuuAtusi17LY6FvgI) | [Skyami](https://open.spotify.com/album/7eqSJLfsTbDrEHJ9fl5wtn) | 2:39 | 2024-06-07 | 2024-06-15 |
 | [Skylar](https://open.spotify.com/track/4ZEO3JDaIyJutf7RLkZ9vx) | [Rx Papi](https://open.spotify.com/artist/56gMovAlFdnmrDk2BcfUlJ) | [Skylar](https://open.spotify.com/album/6rTTdKHWkK8Hp5te6VPj2H) | 2:59 | 2025-05-23 | 2025-06-14 |
 | [Slangn KK](https://open.spotify.com/track/59W0iGCityApGKS1DlWcxo) | [Hardo](https://open.spotify.com/artist/3ohrdimoWGwbjGMOnTDoUJ), [Wiz Khalifa](https://open.spotify.com/artist/137W8MRPWKqSmrBGDBFSop) | [Slangn KK](https://open.spotify.com/album/5oK5N32z1FiNDucFj0C32t) | 3:13 | 2023-05-19 | 2023-08-26 |

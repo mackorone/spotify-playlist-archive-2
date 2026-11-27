@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/1UDtZQ2RZtGRjPy7PCzuzA.md) - [plain]
 
 > 
 
-[𝒿𝓊𝓁𝒾𝒶ִֶָ𓂃 ࣪ ִֶ࿐](https://open.spotify.com/user/312yejiy4j6if5jxguepsue756fu) - 3 likes - 1,690 songs - 4 day 1 hr 59 min
+[𝒿𝓊𝓁𝒾𝒶ִֶָ𓂃 ࣪ ִֶ࿐](https://open.spotify.com/user/312yejiy4j6if5jxguepsue756fu) - 3 likes - 1,692 songs - 4 day 2 hr 8 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -1698,5 +1698,7 @@ pretty - [cumulative](/playlists/cumulative/1UDtZQ2RZtGRjPy7PCzuzA.md) - [plain]
 | 1688 | [Breathe \(In the Air\)](https://open.spotify.com/track/2ctvdKmETyOzPb2GiJJT53) | [Pink Floyd](https://open.spotify.com/artist/0k17h0D3J5VfsdmQ1iZtE9) | [The Dark Side of the Moon](https://open.spotify.com/album/4LH4d3cOWNNsVw41Gqt2kv) | 2:49 |
 | 1689 | [Sleepless Night \- Remastered 2010](https://open.spotify.com/track/0S0eXUgW9tz3aWQOk76mhl) | [Yoko Ono](https://open.spotify.com/artist/2s4tjL6W3qrblOe0raIzwJ) | [Milk And Honey](https://open.spotify.com/album/1HRCspKjuNI3bGzZgvFU3y) | 2:33 |
 | 1690 | [Better in the Dark](https://open.spotify.com/track/3SeDS5sSoWnwAZvVgkdKzf) | [Jordana](https://open.spotify.com/artist/5Bw9kFNhy019e4IBCJZlzw), [TV Girl](https://open.spotify.com/artist/0Y6dVaC9DZtPNH4591M42W) | [Summer's Over](https://open.spotify.com/album/60EzsIzS77S9MWHT0Tm37s) | 2:35 |
+| 1691 | [Nothing's Gonna Stop Us Now](https://open.spotify.com/track/3X7uFMzJrEE0sxn62qd8Ch) | [Starship](https://open.spotify.com/artist/0kObWap02DEg9EAJ3PBxzf) | [No Protection](https://open.spotify.com/album/3nCQjsOzTmnWM6gnjIaT8J) | 4:30 |
+| 1692 | [lovespell](https://open.spotify.com/track/7sw4noZpXxObOxDrh3BIvV) | [Covet](https://open.spotify.com/artist/46iJ1VD4HKFnqjISGqlZkV) | [lovespell](https://open.spotify.com/album/7x4mrXE9YQBRMCYnbZsizj) | 4:12 |
 
-Snapshot ID: `AAAOzxvygppcUyjL7PvVymbGROBnaxJI`
+Snapshot ID: `AAAO0TrIXd1Lg5EYBA41/gK0umaDjipV`

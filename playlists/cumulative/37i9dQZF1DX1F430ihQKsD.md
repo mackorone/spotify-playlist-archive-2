@@ -4,7 +4,7 @@
 
 > 100 % chill, 100 % Montréal w/ Jimmy Hunt
 
-1,033 songs - 2 day 10 hr 10 min
+1,035 songs - 2 day 10 hr 18 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -127,6 +127,7 @@
 | [Bolero](https://open.spotify.com/track/6NqbGiEOws4tpCx3uUhxNb) | [Les Louanges](https://open.spotify.com/artist/57GQLJX1O8guO5PVj46e6l) | [Crash](https://open.spotify.com/album/2YifMIwGXJIIWV5rib1mb2) | 2:49 | 2022-06-10 | 2023-02-08 |
 | [Bon Voyage](https://open.spotify.com/track/4fwuSvvoxTClVM4QYQGA6C) | [Chiiild](https://open.spotify.com/artist/2YqJwmohaNjg9lg51flSax) | [Bon Voyage](https://open.spotify.com/album/4RNIu9tWTSeyO7FvDet105) | 2:47 | 2022-12-09 | 2023-03-04 |
 | [Bones](https://open.spotify.com/track/4Hd46BPSu2g9e9v73iLM5D) | [kkanji](https://open.spotify.com/artist/4shTGFJKXoQKYkBEEdURfs) | [Rowdy \(Act I\)](https://open.spotify.com/album/24uNV0pLgRQAuubhMdo9ga) | 2:44 | 2025-11-14 | 2025-12-04 |
+| [Bonne chance](https://open.spotify.com/track/5gKruxPZBwfM9H3zn5Uh04) | [Les Louanges](https://open.spotify.com/artist/57GQLJX1O8guO5PVj46e6l) | [Bonne chance](https://open.spotify.com/album/2l2bEnj03uOm9ZHq99CKgt) | 3:06 | 2026-11-27 |  |
 | [Bonne chance](https://open.spotify.com/track/3anC3RBeKXHDdbzEHuxY4u) | [San James](https://open.spotify.com/artist/0hIJpbVV7O5vBBhTQ4tXiH) | [Bonne chance](https://open.spotify.com/album/66MHqqazWOvCAM7tieOXgb) | 3:46 | 2025-10-31 | 2025-12-04 |
 | [BOOST](https://open.spotify.com/track/2CP4hqiRmgqz4T7s4RgMQj) | [Robert Robert](https://open.spotify.com/artist/2IzC3vT8yHOZ3Ne5HYQfM3) | [BOOST](https://open.spotify.com/album/4gvOhyW8BG4ikck6BNOqC1) | 2:35 | 2025-10-24 | 2026-02-21 |
 | [Boulevard Alexandre](https://open.spotify.com/track/3nDmcZ3bJQoc3kITSjocoE) | [Heïka](https://open.spotify.com/artist/4qxlfgk1WmgpadIa5sVC61) | [Boulevard Alexandre](https://open.spotify.com/album/7qK4fRCeA00Jnvcp6bTknx) | 2:55 | 2022-03-25 | 2022-10-01 |
@@ -1005,6 +1006,7 @@
 | [Whatever](https://open.spotify.com/track/6B31zNJtEG6Pc1Au49bjWN) | [Zeina](https://open.spotify.com/artist/2saNOYtb2v8aXMmezcwAiI) | [Whatever](https://open.spotify.com/album/5mkgf9ydsSSjmowrNO6QBM) | 2:52 | 2023-01-27 | 2023-11-18 |
 | [Wheels at Night](https://open.spotify.com/track/4GRmluN7jCIhcqTXD3FzkL) | [TOPS](https://open.spotify.com/artist/2SdK1QDmZIP2hk94rSaLl9) | [Bury the Key](https://open.spotify.com/album/3vjna8pM3TKAsi0LsQzBiK) | 2:34 | 2025-08-21 | 2025-10-25 |
 | [When the sun comes down](https://open.spotify.com/track/43YRk6mjE8VTSG20DOdOB4) | [Mike Clay](https://open.spotify.com/artist/0XkKzWXudWJloK6SWsH8B8) | [When the sun comes down](https://open.spotify.com/album/26tJvz93t948MJTjxrh7HZ) | 2:40 | 2026-03-27 | 2026-09-05 |
+| [Where is she? / Farewell](https://open.spotify.com/track/2SJ3eyOB3ngNHUcXAIAyKl) | [Samant](https://open.spotify.com/artist/3uRWOTy9otoxixGe3yG8Bh), [Lou Val](https://open.spotify.com/artist/6u3PN3PCsWLGsw1OffKQ2F) | [Where is she? / Farewell](https://open.spotify.com/album/0kvdiwLzNjDbr996p2MsIH) | 4:21 | 2026-11-27 |  |
 | [Where We Belong](https://open.spotify.com/track/4L9DijwYJ2PvqthNHUEkCE) | [a\-ron songs](https://open.spotify.com/artist/2SZ54u0MjmVUb0TXMZbpc5) | [Where We Belong](https://open.spotify.com/album/0NezjgTpBYmbtHcee8j9fy) | 3:45 | 2026-02-06 | 2026-06-06 |
 | [WHIP](https://open.spotify.com/track/5VSUBxfNbjniBXbK4vjg72) | [Magi Merlin](https://open.spotify.com/artist/6uOvQgcFOmdzhunx7n83J2) | [POWER HOUSE](https://open.spotify.com/album/5kUUGiBRGfcA8tN0b79Z7h) | 3:12 | 2026-07-10 |  |
 | [White Wine](https://open.spotify.com/track/4ysRlTFRuc1UUMPme4VdBa) | [Fernie](https://open.spotify.com/artist/5PemoTSZMQp59WnXZZ4EhI) | [Hopeless Dreams](https://open.spotify.com/album/088yo1cqpkG6fO9ouTQ9R2) | 2:33 | 2025-12-03 | 2026-07-11 |

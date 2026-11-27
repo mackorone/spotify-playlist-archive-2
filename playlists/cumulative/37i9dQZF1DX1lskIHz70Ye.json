@@ -1157,6 +1157,24 @@
     },
     {
       "album": {
+        "name": "El Sur De La Playa",
+        "url": "https://open.spotify.com/album/7mP4vGXJ8CfMcHLb2ZPdUw"
+      },
+      "artists": [
+        {
+          "name": "Matthew Kaff",
+          "url": "https://open.spotify.com/artist/45KZBIPW9K2Yslr7ccejpk"
+        }
+      ],
+      "date_added": "2026-11-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 130000,
+      "name": "El Sur De La Playa",
+      "url": "https://open.spotify.com/track/10OirwvrDIp2KymmwGQ5Rw"
+    },
+    {
+      "album": {
         "name": "Elizabeth",
         "url": "https://open.spotify.com/album/0m9OjqhtdawqAZSUjdL24I"
       },
